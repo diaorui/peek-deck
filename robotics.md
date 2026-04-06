@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-06T21:03:54.818195+00:00'
+updated: '2026-04-06T22:00:25.090049+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 06, 2026 at 21:03 UTC  
+**Last Updated:** April 06, 2026 at 22:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Tesollo DG-5F-S lightweight robotic hand built for humanoid integration](https://www.reddit.com/r/robotics/comments/1se4j5s/tesollo_dg5fs_lightweight_robotic_hand_built_for/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -42,7 +42,15 @@ Robotics research and industry news
 
 Very first proof of concept. This is going to be fun. It's still a bit slow to progress, I need to optimize a few things. But it gets the idea. Llm writes a few lines of javascript to create the motion and executes it.
 
-6h ago
+7h ago
+
+---
+
+**[Building a self balancing robot](https://www.reddit.com/r/robotics/comments/1sec8dn/building_a_self_balancing_robot/)**
+
+I need help in placing the components on the robot for the best way to balance it. Also I plan to scale to to something like a delivery robot for small payloads. Prolly, something in my room 😅 but I need help in understanding how these balancing robots work and how I should place my components to make this work.
+
+30m ago
 
 ---
 
@@ -50,7 +58,7 @@ Very first proof of concept. This is going to be fun. It's still a bit slow to p
 
 Most robotics coverage nowadays is focusing on industrial automation or consumer novelty, but this also caught my attention: Singapore's Gardens by the Bay is rolling out a free-to-rent robotic guide dog (built by the Singapore-based firm RoamAssist) for visually impaired visitors in its Flower Dome from Q3 2026. The robot and system are pre-programmed with a full tour route, provide real-time audio guidance on plant exhibits, and are designed for independent navigation with no human escort. They're pairing it with an online sensory map for autistic visitors launching in June. It's not "Boston Dynamics" level of attention but it's a interesting attempt at real-world deployment of "assistant" robotics in a public space. Curious what people here think Article - https://www.straitstimes.com/singapore/gardens-by-the-bay-to-offer-robot-guide-dog-online-sensory-map-for-visitors-with-disabilities
 
-6h ago
+7h ago
 
 ---
 
@@ -58,29 +66,15 @@ Most robotics coverage nowadays is focusing on industrial automation or consumer
 
 I've been working on a robot dog and wanted to show off my progress. I have a single leg working pretty well now. 3 legs to go! Made with: Motor: Eaglepower 8308 Gearbox: 15:1 Cycloidal that I designed and 3d printed Microcontroller: Teensy 4.1 + CAN bus Motor Controllers: ODrive 3.6 Clone boards from Aliexpress Battery: Ryobi 40v Everything else: bearings, bolts, and printed parts from a Bambu P1S This is a labor of love. My regular day job is a software developer/manager. Mostly focused on learning fast and keeping costs down. I'm having so much fun learning and building this stuff
 
-6h ago
+7h ago
 
 ---
 
-**[Autonomous laundry folding robot (ALF-1). Advertised at a $1499 price. I hope it is Legit!](https://www.reddit.com/r/robotics/comments/1sdp8uj/autonomous_laundry_folding_robot_alf1_advertised/)**
+**[What’s your process for planning a hardware build before you buy anything?](https://www.reddit.com/r/robotics/comments/1seahy2/whats_your_process_for_planning_a_hardware_build/)**
 
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+Still fairly new to robotics and hardware and something I keep running into is how much time the planning phase takes before I'm confident enough to actually order parts. I've been going down rabbit holes of YouTube videos, datasheets, and forum threads just trying to figure out what I need and how it all connects and half the time I still get something wrong and end up waiting on a replacement order. Do you sketch the circuit out first? Start from the power requirements and work backward? Have a go-to process for validating your parts list before ordering?
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=1jpHzqQYSXU) • 16h ago
-
----
-
-**[Robot dog takes on security duties in Atlanta](https://www.reddit.com/r/robotics/comments/1sd8dlv/robot_dog_takes_on_security_duties_in_atlanta/)**
-
-1d ago
-
----
-
-**[Best BTech branch for Robotics + GATE — Mechatronics vs CSE vs EE vs ECE?](https://www.reddit.com/r/robotics/comments/1se6pg1/best_btech_branch_for_robotics_gate_mechatronics/)**
-
-I’m joining BTech (not IIT/NIT) and want to build a career in robotics. I’ve explored basics of electronics, coding, and mechanical integration, so I’m sure about robotics. I was planning to take Mechatronics, but I also want to prepare for GATE and do Masters from a good college. Since there’s no separate Mechatronics paper in GATE, I’m worried it might limit my options. Branches I’m considering: Mechatronics CSE ECE EE My goals: Career in Robotics 🤖 Prepare for GATE Keep flexibility for Masters in Robotics/Automation Which branch would be the safest and best path toward robotics via GATE?
-
-2h ago
+1h ago
 
 ---
 
@@ -90,17 +84,25 @@ I’m joining BTech (not IIT/NIT) and want to build a career in robotics. I’ve
 
 ---
 
-**[News this Week | 10,000 Agibot robot unit milestone and outlook](https://www.reddit.com/r/robotics/comments/1sdzbha/news_this_week_10000_agibot_robot_unit_milestone/)**
+**[Autonomous laundry folding robot (ALF-1). Advertised at a $1499 price. I hope it is Legit!](https://www.reddit.com/r/robotics/comments/1sdp8uj/autonomous_laundry_folding_robot_alf1_advertised/)**
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/_NVhD5L7K5k) • 7h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=1jpHzqQYSXU) • 17h ago
 
 ---
 
-**[Polka: A unified efficient node for your pointcloud pre-processing](https://www.reddit.com/r/robotics/comments/1sdo3ek/polka_a_unified_efficient_node_for_your/)**
+**[Robot dog takes on security duties in Atlanta](https://www.reddit.com/r/robotics/comments/1sd8dlv/robot_dog_takes_on_security_duties_in_atlanta/)**
 
-17h ago
+1d ago
+
+---
+
+**[Robot Head or Automated Projector?](https://www.reddit.com/r/robotics/comments/1sea5bn/robot_head_or_automated_projector/)**
+
+https://www.youtube.com/@ALMA.GeoffreyAment Chapter 2, a home theatre, 3D printed parts, motorized projector, home decoration, and DIY electronics -- if you know of anyone else that might be interested in this stuff, sharing to others would really help me out! Hope to see you around here or YouTube :)
+
+1h ago
 
 ---
 
@@ -116,27 +118,27 @@ Euronews.com • 1d ago
 
 ---
 
+**[China’s smart factory employs over 100 humanoid robots as interns in automation push](https://interestingengineering.com/ai-robotics/china-ai-humanoid-robots-factory-internships)**
+
+Humanoid robots begin factory training in China, learning real tasks and signaling a shift toward AI-driven industrial automation.
+
+Interesting Engineering • 3d ago
+
+---
+
+**['No one's raising their hand': Japan's labor crisis is making the case for robots taking the jobs that you don't want](https://fortune.com/2026/04/06/japan-labor-shortage-robots-ai-robotics-humanoid/)**
+
+Japan is looking to become the dominant source of robotics by 2040, expedited by an aging population and a growing need for labor.
+
+Fortune • 56m ago
+
+---
+
 **[The next darlings of San Francisco’s AI real estate boom: Robots](https://sfstandard.com/2026/04/06/robotics-san-francisco-ai-boom/)**
 
 Funding data and leasing activity show that companies using the groundbreaking tech on the physical world are having their moment.
 
-The San Francisco Standard • 8h ago
-
----
-
-**[Robotics team puts skills on display](https://www.tribtoday.com/news/local-news/2026/04/robotics-team-puts-skills-on-display/)**
-
-NILES — While the Easter Bunny was nearby greeting young children, local high school students gathered this weekend inside the ...
-
-tribtoday.com • 14h ago
-
----
-
-**[Robotic guards now man data centers. Is your personal security at risk?](https://3dvf.com/en/robotic-guards-now-man-data-centers-is-your-personal-security-at-risk/)**
-
-They don't blink, don't take breaks, and can hear trouble before humans do. But when the night watch has four legs and cameras, who is safer and who is more exposed?
-
-3DVF • 5h ago
+The San Francisco Standard • 9h ago
 
 ---
 
@@ -146,11 +148,19 @@ Adafruit • 1d ago
 
 ---
 
+**[Robotic guards now man data centers. Is your personal security at risk?](https://3dvf.com/en/robotic-guards-now-man-data-centers-is-your-personal-security-at-risk/)**
+
+They don't blink, don't take breaks, and can hear trouble before humans do. But when the night watch has four legs and cameras, who is safer and who is more exposed?
+
+3DVF • 6h ago
+
+---
+
 **[A Chinese robotics startup with a Tesla Optimus rival is seeking a new chief scientist with an $18 million salary](https://www.businessinsider.com/chinese-robotics-startup-tesla-rival-18-million-salary-chief-scientist-2026-4)**
 
 The race for AI and robotics talent is heating up and getting expensive.
 
-Business Insider • 10h ago
+Business Insider • 11h ago
 
 ---
 
@@ -158,7 +168,13 @@ Business Insider • 10h ago
 
 This National Robotics Week, NVIDIA is highlighting the breakthroughs that are bringing AI into the physical world.
 
-blogs.nvidia.com • 2d ago
+NVIDIA Blog • 10h ago
+
+---
+
+**[Resilient actuator shows potential for space-ready soft robots](https://techxplore.com/news/2026-04-resilient-actuator-potential-space-ready.html)**
+
+Tech Xplore • 1d ago
 
 ---
 
@@ -166,21 +182,7 @@ blogs.nvidia.com • 2d ago
 
 Spacesuit work and eye checks wrapped up the week for the Expedition 74 crew aboard the International Space Station. The orbital residents also focused on robotics, cargo transfers, and science hardware maintenance at the end of the week.
 
-nasa.gov • 3d ago
-
----
-
-**[Indiana researchers study the potential of AI-powered health care](https://www.axios.com/local/indianapolis/2026/04/06/experts-examine-the-potential-of-ai-powered-medical-care-in-indianapolis)**
-
-Axios • 9h ago
-
----
-
-**[Paola robotics wins prestigious award, earns chance at world title in Houston](https://www.kshb.com/news/local-news/kansas/miami-county/paola-robotics-wins-prestigious-award-earns-chance-at-world-title-in-houston)**
-
-A group of Paola High School students is taking their engineering talents and displaying them on a world stage. The team is currently ranked #1 in the state of Kansas.
-
-KSHB 41 Kansas City • 21h ago
+NASA (.gov) • 3d ago
 
 ---
 
@@ -194,7 +196,7 @@ The world wasn't ready for what 2026 had in store — a wave of humanoid robots 
 
 📺 The AI Nexus
 
-👁️ 4K • 👍 177 • 💬 7 • ⏱️ 16:42 • 21h ago
+👁️ 4K • 👍 177 • 💬 7 • ⏱️ 16:42 • 22h ago
 
 ---
 
@@ -234,7 +236,7 @@ The absolute Ammit Destroyer. This the most broken build in the game and by far 
 
 📺 PREDATOR WR
 
-👁️ 6K • 👍 371 • 💬 45 • ⏱️ 14:53 • 9h ago
+👁️ 6K • 👍 371 • 💬 45 • ⏱️ 14:53 • 10h ago
 
 ---
 
@@ -264,7 +266,7 @@ They turned on this salon robot... and people lost their minds.
 
 📺 TechMirage
 
-👁️ 2.6M • 👍 28K • 💬 217 • ⏱️ 1:11 • 20h ago
+👁️ 2.6M • 👍 28K • 💬 217 • ⏱️ 1:11 • 21h ago
 
 ---
 

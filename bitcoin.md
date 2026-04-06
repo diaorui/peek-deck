@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-06T21:03:54.808973+00:00'
+updated: '2026-04-06T22:00:25.080819+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - news
+- cryptocurrency
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 06, 2026 at 21:03 UTC  
+**Last Updated:** April 06, 2026 at 22:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $69,684.26
+### $69,515.18
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +3.1%  
-**7d:** +2.1%  
-**30d:** +5.6%  
-**90d:** -23.7%  
-**1y:** -12.0%  
+**24h:** +1.7%  
+**7d:** +1.8%  
+**30d:** +5.3%  
+**90d:** -23.9%  
+**1y:** -12.2%  
 
 ---
 
@@ -79,13 +79,21 @@ Rank #1
 
 **[It’s going to 🚀](https://www.reddit.com/r/Bitcoin/comments/1se4g7y/its_going_to/)**
 
-4h ago
+5h ago
+
+---
+
+**[I have $100K but I am certain that once I buy BTC will begin to drop to $35,000](https://www.reddit.com/r/Bitcoin/comments/1seaemq/i_have_100k_but_i_am_certain_that_once_i_buy_btc/)**
+
+I just know it. So I won't buy just so the rest of you can make some money.
+
+1h ago
 
 ---
 
 **[Men only have two moods:](https://www.reddit.com/r/Bitcoin/comments/1sdz0lp/men_only_have_two_moods/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -93,7 +101,7 @@ Rank #1
 
 While the world continues to trust systems that fail time and time again, a new alternative has emerged silent, unstoppable, and incorruptible. Bitcoin is not just technology. It’s not just money. It’s freedom. For the first time in history, a generation has the opportunity to truly own its wealth without intermediaries, without permission, without manipulation. We grew up watching crises unfold, inflation erode the value of our efforts, and rules change in the middle of the game. But now… we have a choice. Bitcoin is more than an asset, it’s a statement. A rejection of centralized control. A step toward individual sovereignty. There may be volatility. There may be doubts. But one thing is certain: The world is changing and Bitcoin is leading that change. Don’t trust, verify. 🧡
 
-6h ago
+7h ago
 
 ---
 
@@ -101,7 +109,7 @@ While the world continues to trust systems that fail time and time again, a new 
 
 Sadly, most of the hard working people still have no idea how the printer keeps stealing their money.
 
-8h ago
+9h ago
 
 ---
 
@@ -109,7 +117,7 @@ Sadly, most of the hard working people still have no idea how the printer keeps 
 
 Bitcoing is extremely volatile, having thoroughly tanked this year. And yet it is still your best long term store of value play. BTC value vs. Tradfi 2020-2026 Despite the 4-year peak trough cycles, BTC still MASSIVELY outperforms TradFi. And what does that mean to you? LONG TERM Store of Value: Median US home price 2020-2026 One day you'll buy a home with a fraction of your BTC. In fact, you'll easily collateralize your BTC to back the loan - no cap gains tax, lower rates. BTC may not be "money" (currency) yet, but it is a store of value particularly against fiat currencies, as these two charts quickly demonstrate. What are you doing relative to BTC, running for the hills? I'm dollar cost averaging.
 
-2h ago
+3h ago
 
 ---
 
@@ -117,7 +125,15 @@ Bitcoing is extremely volatile, having thoroughly tanked this year. And yet it i
 
 Curious how it started for all of us.
 
-2h ago
+3h ago
+
+---
+
+**[You set up a hardware wallet and wrote down your seed phrase. Here’s what most guides don’t tell you.](https://www.reddit.com/r/Bitcoin/comments/1sec3fl/you_set_up_a_hardware_wallet_and_wrote_down_your/)**
+
+There’s a post near the top of this sub right now where someone sent Bitcoin to their Trezor and the wallet showed empty. They panicked. Turns out their Bitcoin wasn’t gone — it was in their passphrase wallet. They hadn’t known they created one. That’s the most common failure pattern in hardware wallet support forums, and it almost never gets explained at setup. Here’s what’s actually happening and three other traps that catch people the same way. The passphrase trap When you set up a Trezor using Trezor Suite, the passphrase feature is on by default. A passphrase — sometimes called the 25th word — creates a completely separate wallet derived from your seed. Any input during setup creates one. An accidental keystroke creates one. If you set a passphrase and don’t write it down, that passphrase is gone forever — and so is everything in that wallet. Your seed phrase alone opens a different, empty wallet. No error message. Nothing to indicate anything is wrong. Trezor’s support forums have dozens of threads that all read identically: “I have my seed, I’ve tried everything, balance is zero.” In most cases the passphrase was set accidentally during initial setup. Different software generates different addresses from the same seed This sounds impossible but it’s documented repeatedly. There are multiple standards for how wallet software derives addresses from a seed phrase — BIP-44, BIP-49, BIP-84 are the common ones — and different apps default to different ones. One user bought Bitcoin through Exodus paired with a Trezor in 2021. Exodus defaulted to P2SH-SegWit (m/49’/0’/0’). Trezor Suite defaults to Native SegWit (m/84’/0’/0’). Four years later, a firmware update forced a reset. The user opened Trezor Suite instead of reconnecting through Exodus. Empty wallet. His Bitcoin was on-chain and accessible — completely invisible to the software he was now using. Valid seed. Right device. Zero balance. This is not a bug. It’s two correct implementations of different standards. Electrum does not speak the same language as your hardware wallet If you ever try to import your Trezor or Ledger seed into Electrum as a backup option, it will show an empty wallet. Electrum uses a proprietary seed format and deliberately does not support BIP-39 — the standard your hardware wallet uses. To get it working you have to click a hidden “Options” button during seed entry, select “BIP39 seed,” then manually enter the derivation path your original wallet used. Without those steps, Electrum opens a valid empty wallet with no explanation. The Electrum developers are aware of this and consider it a feature. What to actually write down alongside your seed phrase The seed is the starting point, not the whole picture. What you also need documented somewhere safe: Which device and software you used to set up the wallet (Trezor Suite, Ledger Live, Electrum, etc.) Whether a passphrase was set — and if yes, exactly what it was, case-sensitive Which address format was used (Legacy, SegWit, Native SegWit, Taproot) — your software may show this during setup The derivation path if you can find it — usually visible in advanced settings That context, stored with your seed backup, is what makes the difference between recovery taking five minutes and recovery being impossible.
+
+35m ago
 
 ---
 
@@ -135,51 +151,15 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 ---
 
-**[Too late to invest in btc?](https://www.reddit.com/r/Bitcoin/comments/1sdj8hg/too_late_to_invest_in_btc/)**
-
-I am sat on some savings which I do not use and they gain minimal interest, I have been toying with the idea of investing for a while and I am wondering if It is too late to invest in btc or would now be an ideal time given the current dip? I was thinking about putting a chunk in now and then x amount every month indefinitely and somewhat forgetting about it, and hoping that in 30 years I will have accumulated a bit of profit from it to aid towards retirement. Would this be a wise idea, thinking long term?
-
-21h ago
-
----
-
-**[Besides Being Easter Sunday - Today is Also Satoshi Nakamoto's 51st Birthday - According To Satoshi's P2P Foundation Profile - Happy Birthday Satoshi! 🥳](https://www.reddit.com/r/Bitcoin/comments/1sd3e1m/besides_being_easter_sunday_today_is_also_satoshi/)**
-
-1d ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Rebounds Near $70,000, Charles Schwab To Launch Direct Trading](https://www.investors.com/news/bitcoin-price-rebound-69k-charles-schwab-direct-trading/)**
+**[Bitcoin price analysis: BTC's 'stability' is a mirage, says Bitfinex](https://www.coindesk.com/markets/2026/04/06/bitcoin-options-market-is-quietly-pricing-a-major-downside-move)**
 
-investors.com • 8h ago
+Options data shows traders are bracing for a sharp bitcoin drop as weak demand and fragile positioning leave the market exposed to a break below key levels, a report from Bitfinex shows.
 
----
-
-**[Charles Schwab opens waitlist for direct bitcoin and ether trading, targeting Q2 limited launch](https://www.theblock.co/post/396358/charles-schwab-opens-waitlist-for-direct-bitcoin-and-ether-trading-targeting-q2-limited-launch)**
-
-The service will be unavailable in New York and Louisiana at launch, and fee structure and custody arrangements have not yet been disclosed.
-
-theblock.co • 1d ago
-
----
-
-**[Charles Schwab Is Gearing Up to Offer Bitcoin, Ethereum Spot Trading](https://decrypt.co/363336/charles-schwab-bitcoin-ethereum-spot-trading)**
-
-Financial giant Charles Schwab is set to launch spot buying of Bitcoin and Ethereum by the end of the quarter, the firm said Friday.
-
-Decrypt • 2d ago
-
----
-
-**[Michael Saylor's Strategy buys $330 million worth of bitcoin, stock rises](https://finance.yahoo.com/news/michael-saylors-strategy-buys-330-million-worth-of-bitcoin-stock-rises-153457420.html)**
-
-Strategy recorded a $14.5 billion unrealized loss in the first quarter as it continues to accumulate more bitcoin.
-
-Yahoo Finance • 5h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -187,43 +167,67 @@ Yahoo Finance • 5h ago
 
 Strategy's on-paper bitcoin losses generated a $2.42 billion deferred tax asset, according to its latest 8-K filing.
 
-theblock.co • 6h ago
+theblock.co • 7h ago
 
 ---
 
-**[Strategy Posts $14.5 Billion Unrealized Loss in First Quarter](https://www.bloomberg.com/news/articles/2026-04-06/strategy-posts-14-5-billion-unrealized-loss-in-first-quarter)**
+**[Michael Saylor's Strategy buys $330 million worth of bitcoin, stock rises](https://finance.yahoo.com/news/michael-saylors-strategy-buys-330-million-worth-of-bitcoin-stock-rises-153457420.html)**
 
-Bloomberg.com • 8h ago
+Strategy recorded a $14.5 billion unrealized loss in the first quarter as it continues to accumulate more bitcoin.
 
----
-
-**[Bitcoin price analysis: BTC's 'stability' is a mirage, says Bitfinex](https://www.coindesk.com/markets/2026/04/06/bitcoin-options-market-is-quietly-pricing-a-major-downside-move)**
-
-Options data shows traders are bracing for a sharp bitcoin drop as weak demand and fragile positioning leave the market exposed to a break below key levels, a report from Bitfinex shows.
-
-CoinDesk • 1h ago
+Yahoo Finance • 6h ago
 
 ---
 
-**[Bitcoin Tops $70,000 as Traders Unwind Bets Amid War Tensions](https://www.bloomberg.com/news/articles/2026-04-06/bitcoin-tops-70-000-as-traders-unwind-bets-amid-war-tensions)**
+**[Bitcoin may hit $110K as Strategy absorbs nearly 3x new BTC supply](https://www.tradingview.com/news/cointelegraph:1060e5db7094b:0-bitcoin-may-hit-110k-as-strategy-absorbs-nearly-3x-new-btc-supply/)**
 
-Bloomberg.com • 1h ago
+Bitcoin (BTC) is trading within a bear flag pattern that projects a breakdown toward the sub-$50,000 area, or roughly 30% below current levels. However, Michael Saylor’s Strategy could spoil the bears’ plans.Key takeaways:Can Strategy’s BTC buying offset weak technicals?Normally, a bear flag remain…
 
----
-
-**[What Bitcoin Price Really Tells You About the Market](https://www.citizen-times.com/story/special/contributor-content/2026/04/06/what-bitcoin-price-really-tells-you-about-the-market/89489135007/)**
-
-Bitcoin doesn’t move randomly. You see things that seem random, but patterns, behaviors, and external factors all affect them.
-
-The Asheville Citizen Times • 1h ago
+tradingview.com • 1h ago
 
 ---
 
-**[A quantum threat to Bitcoin has some asking the unthinkable](https://fortune.com/crypto/2026/04/06/quantum-computing-satoshi-nakamoto-bitcoin-freeze-wallets/)**
+**[Bitcoin climbs to $70K as crypto prices push higher](https://www.cnbc.com/video/2026/04/06/bitcoin-climbs-to-70k-as-crypto-prices-push-higher.html)**
+
+CNBC's Tanaya Macheel with the latest on crypto currency.
+
+cnbc.com • 1h ago
+
+---
+
+**[Why the mind-bending physics of quantum computing is terrifying for bitcoin and crypto](https://www.coindesk.com/tech/2026/04/05/a-simple-explainer-on-what-quantum-computing-actually-is-and-why-it-is-terrifying-for-bitcoin)**
+
+Most simplifies the complex process of quantum computing as "it can be 0 and 1 at the same time." That is not an explanation for why it threatens Bitcoin. This is.
+
+CoinDesk • 1d ago
+
+---
+
+**[A quantum threat to Bitcoin has some asking the unthinkable: Is it time to freeze old wallets belonging to Satoshi Nakamoto?](https://finance.yahoo.com/markets/crypto/articles/quantum-threat-bitcoin-asking-unthinkable-114215047.html)**
 
 A hacker with quantum tools could crack open old Bitcoin wallets and flood the market as soon as 2029.
 
-Fortune • 9h ago
+Yahoo Finance • 10h ago
+
+---
+
+**[Google researchers just put a new expiration date on Bitcoin](https://mashable.com/article/google-research-bitcoin-cryptography-broken)**
+
+Bitcoin needs to fix this in the next three years.
+
+Mashable • 6h ago
+
+---
+
+**[‘A Major Mistake’—Bitcoin Is Suddenly Braced For A Federal Reserve Price ‘Surprise’](https://www.forbes.com/sites/digital-assets/2026/04/06/bitcoin-is-suddenly-braced-for-a-federal-reserve-price-surprise/)**
+
+Forbes • 10h ago
+
+---
+
+**[Bitcoin Rebounds Near $70,000, Charles Schwab To Launch Direct Trading](https://www.investors.com/news/bitcoin-price-rebound-69k-charles-schwab-direct-trading/)**
+
+investors.com • 9h ago
 
 ---
 
@@ -297,9 +301,9 @@ Test your prediction skills against historical data. Draw your forecast and see 
 
 ---
 
-**[Show HN: Live simulation of AI agents scamming each other (and getting caught)](https://news.ycombinator.com/item?id=47595450)**
+**[Bitcoin developers are mostly not concerned about quantum risk](https://news.ycombinator.com/item?id=47667515)**
 
-⬆️ 4 • 💬 0 • 5d ago • [5.161.255.238:8888](http://5.161.255.238:8888)
+⬆️ 1 • 💬 0 • 22m ago • [murmurationstwo.substack.com](https://murmurationstwo.substack.com/p/bitcoin-developers-are-mostly-not)
 
 ---
 
@@ -353,7 +357,7 @@ Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bi
 
 📺 Tyler S
 
-👁️ 6K • 👍 476 • 💬 48 • ⏱️ 13:45 • 5h ago
+👁️ 6K • 👍 476 • 💬 48 • ⏱️ 13:45 • 6h ago
 
 ---
 
@@ -363,7 +367,7 @@ Bitcoin and Crypto markets are heating up, and new opportunities are starting to
 
 📺 Crypto Banter
 
-👁️ 9K • 👍 590 • 💬 32 • ⏱️ 7:43 • 11h ago
+👁️ 9K • 👍 590 • 💬 32 • ⏱️ 7:43 • 12h ago
 
 ---
 
@@ -373,7 +377,7 @@ BITCOIN: The Calm Before The Storm (Prepare Now)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 9K • 👍 311 • 💬 307 • ⏱️ 18:13 • 21h ago
+👁️ 9K • 👍 311 • 💬 307 • ⏱️ 18:13 • 22h ago
 
 ---
 
@@ -393,7 +397,7 @@ CHECK OUT UPTRADE! Sign up here ▻ https://uptrade.co/ref/fire-hustle TRADE ON 
 
 📺 FireHustle
 
-👁️ 9K • 👍 529 • 💬 58 • ⏱️ 10:15 • 22h ago
+👁️ 9K • 👍 529 • 💬 58 • ⏱️ 10:15 • 23h ago
 
 ---
 

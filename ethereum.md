@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-06T21:03:54.814905+00:00'
+updated: '2026-04-06T22:00:25.086816+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - news
+- cryptocurrency
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 06, 2026 at 21:03 UTC  
+**Last Updated:** April 06, 2026 at 22:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,142.77
+### $2,140.06
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +3.8%  
-**7d:** +1.7%  
-**30d:** +10.7%  
-**90d:** -32.3%  
-**1y:** +37.9%  
+**24h:** +2.6%  
+**7d:** +1.6%  
+**30d:** +10.6%  
+**90d:** -32.4%  
+**1y:** +37.7%  
 
 ---
 
@@ -76,9 +76,25 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
+**[Is it better to swap directly from cold wallet or nah?](https://www.reddit.com/r/ethereum/comments/1seb9kx/is_it_better_to_swap_directly_from_cold_wallet_or/)**
+
+Most of my coins are on a Ledger. I've only ever held, never swapped from cold storage. Now I need to move some to USDT for bills. I see Ledger Live has built-in swaps but I've read horror stories frozen funds, bad rates, funds taking days. Not trying to deal with that. I also see people connect their Ledger to MetaMask and use external swap tools. Seems more steps but maybe safer? For people who actually move funds regularly do you swap directly from cold wallet or move to hot wallet first? What's the actual safest way without turning it into a nightmare? Trying to avoid making a stupid mistake.
+
+1h ago
+
+---
+
+**[best practices for public keyes](https://www.reddit.com/r/ethereum/comments/1se9xbt/best_practices_for_public_keyes/)**
+
+A simple question for the community. I was recently asked for me public key (to my metamask wallet) I know that Bitcoin public keys should still be treated with some care as they disclose all transactions to that address in any blockchain explorer Is this the same with Ethereum?
+
+1h ago
+
+---
+
 **[ZK-powered order book DEXs are quietly becoming the most interesting sector in DeFi. Is anyone else paying attention?](https://www.reddit.com/r/ethereum/comments/1sdxks3/zkpowered_order_book_dexs_are_quietly_becoming/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -86,13 +102,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi, I used to work as a technical full-stack developer and recently I spent some time investigating this thing everyone's talking about "Quantum computing destroying encryption". Well, there are many remedies already available: Example 1 - for not technical people: https://www.nist.gov/news-events/news/2024/08/nist-releases-first-3-finalized-post-quantum-encryption-standards Example 2 - for technical people: https://github.com/open-quantum-safe/oqs-provider Most companies / IT projects are not prioritising it only because quantum computing threads might be decades away, and businesses don't execute investments on security unless there is a true threat. That's why your email providers, messaging apps, etc. don't have post-quantum standards implemented (such as: ml-dsa, ml-kem, slh-dsa). Yes. It is more complicated to secure decentralized Crypto than a website, but - anyway most of us use platforms like CoinBase, Kraken, Binance, .. and those holding crypto in one-single physical wallet - are not really the targets here. Anyhow, please, I hope my post helps some of you to be a bit calmer about this topic. I am definitely calmer after my research. Let's not cause panic sell-off. Have a great day everyone!
 
-3h ago
+4h ago
 
 ---
 
 **[Trending Markets just dropped on PolyApex — Trade Markets and Copy Trade Polymarket predictions](https://www.reddit.com/r/ethereum/comments/1se3m2z/trending_markets_just_dropped_on_polyapex_trade/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -100,7 +116,7 @@ Hi, I used to work as a technical full-stack developer and recently I spent some
 
 The true bottleneck in Ethereum dApp architecture isn't just on-chain gas, it's the off-chain infrastructure required to read the state. When protocols are designed without considering how data is indexed, they force massive hardware and cost requirements onto the ecosystem. The Blind Spot of Internal Transfers: Standard contract-to-contract ETH transfers (call{value: x}()) don't emit logs. Because they bypass block bloom filters, standard node queries like eth_getLogs miss them entirely. Trade-off: To index these reliably without protocol-level changes, you are forced into EVM tracing (debug_traceTransaction). This is incredibly I/O heavy, essentially requiring dedicated archive nodes or premium RPC tiers. Emitting custom on-chain events for internal transfers is a critical architectural pattern if you develop your own protocol that you want to monitor, it shifts the burden away from expensive execution traces and local state simulations, saving infrastructure operators massive overhead. Infrastructure Resilience vs. WebSockets: For low-latency dApps, eth_subscribe over WebSockets is the standard. However, long-lived WS connections are notoriously flaky and silently drop packets, leading to degraded, out-of-sync frontends. Architecture standard: A resilient Ethereum stack requires a hybrid model. Maintain the WS connection for real-time mempool and head-of-chain detection, but always run a background worker polling eth_getLogs with a sliding block window to patch missed events during WS reconnects. JSON-RPC Network Overhead: Spamming nodes with individual read requests congests RPCs. MulticallV3 batching is mandatory for minimizing network round trips. Trade-off: When wrapping complex calls, using tryAggregate handles partial successes gracefully. However, it significantly increases EVM execution cost due to internal CALL overhead and memory expansion when capturing return data you might discard. If your batch loop is too large, you will hit the strict execution timeouts or global eth_call gas caps enforced by commercial RPCs, causing the node to drop the entire request. Source/Full Breakdown:https://andreyobruchkov1996.substack.com/p/ethereum-dev-hacks-catching-hidden-transfers-real-time-events-and-multicalls-bef7435b9397
 
-21h ago
+22h ago
 
 ---
 
@@ -128,22 +144,6 @@ Hi all, I build a new kind of cli based solidity debugger you might find useful.
 
 ---
 
-**[Russia Couldn’t Ban Bitcoin. So Now It’s Making 20 Million Users Register Their Wallets Instead](https://www.reddit.com/r/ethereum/comments/1scm6rd/russia_couldnt_ban_bitcoin_so_now_its_making_20/)**
-
-Russia submitted a bill requiring residents to report all foreign crypto wallet activity to tax authorities from July 2026. Twenty million users. No exemptions. This is what state capture of crypto looks like.
-
-🔗 [DailyCoinPost](https://dailycoinpost.com/russia-bitcoin-ban-failed-wallet-registration-2026/) • 1d ago
-
----
-
-**[Daily General Discussion April 04, 2026](https://www.reddit.com/r/ethereum/comments/1sc09ab/daily_general_discussion_april_04_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -164,43 +164,27 @@ The Motley Fool • 2d ago
 
 ---
 
+**[Ethereum To $40K? Here's Why Standard Chartered's Digital Assets Research Chief Thinks So](https://finance.yahoo.com/markets/crypto/articles/ethereum-40k-heres-why-standard-203132632.html)**
+
+Ethereum is going to $40,000, Standard Chartered Global Head of Digital Assets Research Geoffrey Kendrick says. He said on an episode of the "Milk Road Macro" podcast released on March 24 that Ethereum will reach the price target by 2030,...
+
+Yahoo Finance • 1h ago
+
+---
+
 **[Ethereum Name Service Published ENSv2 Alpha Log #4](https://www.tradingview.com/news/coindar:b8801b0ad094b:0-ethereum-name-service-published-ensv2-alpha-log-4/)**
 
 Ethereum Name Service published ENSv2 Alpha Log #4 on April 6th. The update includes improvements to profile loading, accessibility, search, wallet state, and several other fixes across the ENS App and ENS Explorer on Sepolia. Refer to the official tweet by ENS: ENSv2 Alpha Log #4.This week, our te…
 
-TradingView • 2h ago
+tradingview.com • 2h ago
 
 ---
 
-**[Tom Lee’s BitMine Nears 4% of Ethereum Supply as ETH Price Hits Weekly High](https://finance.yahoo.com/markets/crypto/articles/tom-lee-bitmine-nears-4-142958858.html)**
+**[Ethereum Trading on Binance Has Gone Quiet, Discover What Happens When That Changes](https://www.tradingview.com/news/newsbtc:c9e175cfc094b:0-ethereum-trading-on-binance-has-gone-quiet-discover-what-happens-when-that-changes/)**
 
-Publicly traded Ethereum treasury firm BitMine Immersion Technologies added $150 million of ETH last week, boosting its $10.3 billion stash.
+Ethereum has reclaimed $2,100. The level is back. The market that produced the recovery is thinner than it has been all year — and that changes what the recovery means.A CryptoQuant report tracking Ethereum’s liquidity structure on Binance has identified a condition that sits directly beneath the p…
 
-Yahoo Finance • 6h ago
-
----
-
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.803 Million Tokens, and Total Crypto and Total Cash Holdings of $11.4 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-4-803-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-4-billion-302734414.html)**
-
-Bitmine has been approved for uplisting to the New York Stock Exchange ("NYSE") from the NYSE American effective at the opening of trading on April 9, 2026...
-
-PR Newswire • 8h ago
-
----
-
-**[Tom Lee's Bitmine accelerates Ethereum buying with 71,252 ETH, largest weekly haul since December](https://www.theblock.co/post/396398/tom-lees-bitmine-accelerates-ethereum-buying-with-71252-eth-largest-weekly-haul-since-december)**
-
-With a 6.8% gain, and outperforming both the S&P 500 and gold, Ethereum remains a strong wartime store of value," said Lee.
-
-theblock.co • 6h ago
-
----
-
-**[Charles Schwab Is Gearing Up to Offer Bitcoin, Ethereum Spot Trading](https://decrypt.co/363336/charles-schwab-bitcoin-ethereum-spot-trading)**
-
-Financial giant Charles Schwab is set to launch spot buying of Bitcoin and Ethereum by the end of the quarter, the firm said Friday.
-
-Decrypt • 2d ago
+tradingview.com • 59m ago
 
 ---
 
@@ -208,7 +192,29 @@ Decrypt • 2d ago
 
 Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Polymarket • 18h ago
+Polymarket • 19h ago
+
+---
+
+**[BitMine Highlights Massive Ethereum Treasury and NYSE Uplisting](https://www.tipranks.com/news/company-announcements/bitmine-highlights-massive-ethereum-treasury-and-nyse-uplisting)**
+
+TipRanks • 8h ago
+
+---
+
+**[Charles Schwab Is Gearing Up to Offer Bitcoin, Ethereum Spot Trading](https://decrypt.co/363336/charles-schwab-bitcoin-ethereum-spot-trading)**
+
+Financial giant Charles Schwab is set to launch spot buying of Bitcoin and Ethereum by the end of the quarter, the firm said Friday.
+
+Decrypt • 3d ago
+
+---
+
+**[Introducing The Global X Ethereum Covered Call ETF](https://seekingalpha.com/article/4888657-introducing-global-x-ethereum-covered-call-etf)**
+
+EHCC aims to provide shareholders weekly distributions, acting as a potential mitigator of price volatility for those seeking digital asset exposure.
+
+Seeking Alpha • 6h ago
 
 ---
 
@@ -216,13 +222,7 @@ Polymarket • 18h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 7h ago
-
----
-
-**[BitMine Highlights Massive Ethereum Treasury and NYSE Uplisting](https://www.tipranks.com/news/company-announcements/bitmine-highlights-massive-ethereum-treasury-and-nyse-uplisting)**
-
-TipRanks • 7h ago
+Fortune • 8h ago
 
 ---
 
@@ -246,7 +246,7 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 2K • 👍 201 • 💬 40 • ⏱️ 11:38 • 4h ago
+👁️ 2K • 👍 201 • 💬 40 • ⏱️ 11:38 • 5h ago
 
 ---
 
@@ -266,7 +266,7 @@ In this video, I take a closer look at the current Ethereum market structure and
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 173 • 💬 10 • ⏱️ 13:46 • 4h ago
+👁️ 2K • 👍 173 • 💬 10 • ⏱️ 13:46 • 5h ago
 
 ---
 
@@ -276,7 +276,7 @@ Can you actually get free Ethereum in 2026, or is it all just hype? I decided to
 
 📺 Hitch Insights
 
-👁️ 317 • 👍 621 • 💬 436 • ⏱️ 6:14 • 1h ago
+👁️ 317 • 👍 621 • 💬 436 • ⏱️ 6:14 • 2h ago
 
 ---
 
@@ -286,7 +286,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 79 • 👍 10 • 💬 4 • ⏱️ 8:13 • 3h ago
+👁️ 79 • 👍 10 • 💬 4 • ⏱️ 8:13 • 4h ago
 
 ---
 
@@ -296,7 +296,7 @@ BITCOIN: The Calm Before The Storm (Prepare Now)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 9K • 👍 311 • 💬 307 • ⏱️ 18:13 • 21h ago
+👁️ 9K • 👍 311 • 💬 307 • ⏱️ 18:13 • 22h ago
 
 ---
 
@@ -306,7 +306,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 374 • 👍 33 • ⏱️ 4:45 • 10h ago
+👁️ 374 • 👍 33 • ⏱️ 4:45 • 11h ago
 
 ---
 
@@ -326,7 +326,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 115 • 👍 5 • 💬 1 • ⏱️ 4:28 • 3h ago
+👁️ 115 • 👍 5 • 💬 1 • ⏱️ 4:28 • 4h ago
 
 ---
 
