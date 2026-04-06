@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-06T20:05:05.111197+00:00'
+updated: '2026-04-06T21:03:54.818195+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 06, 2026 at 20:05 UTC  
+**Last Updated:** April 06, 2026 at 21:03 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Tesollo DG-5F-S lightweight robotic hand built for humanoid integration](https://www.reddit.com/r/robotics/comments/1se4j5s/tesollo_dg5fs_lightweight_robotic_hand_built_for/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Very first proof of concept. This is going to be fun. It's still a bit slow to progress, I need to optimize a few things. But it gets the idea. Llm writes a few lines of javascript to create the motion and executes it.
 
-5h ago
+6h ago
 
 ---
 
@@ -50,7 +50,7 @@ Very first proof of concept. This is going to be fun. It's still a bit slow to p
 
 Most robotics coverage nowadays is focusing on industrial automation or consumer novelty, but this also caught my attention: Singapore's Gardens by the Bay is rolling out a free-to-rent robotic guide dog (built by the Singapore-based firm RoamAssist) for visually impaired visitors in its Flower Dome from Q3 2026. The robot and system are pre-programmed with a full tour route, provide real-time audio guidance on plant exhibits, and are designed for independent navigation with no human escort. They're pairing it with an online sensory map for autistic visitors launching in June. It's not "Boston Dynamics" level of attention but it's a interesting attempt at real-world deployment of "assistant" robotics in a public space. Curious what people here think Article - https://www.straitstimes.com/singapore/gardens-by-the-bay-to-offer-robot-guide-dog-online-sensory-map-for-visitors-with-disabilities
 
-5h ago
+6h ago
 
 ---
 
@@ -58,7 +58,7 @@ Most robotics coverage nowadays is focusing on industrial automation or consumer
 
 I've been working on a robot dog and wanted to show off my progress. I have a single leg working pretty well now. 3 legs to go! Made with: Motor: Eaglepower 8308 Gearbox: 15:1 Cycloidal that I designed and 3d printed Microcontroller: Teensy 4.1 + CAN bus Motor Controllers: ODrive 3.6 Clone boards from Aliexpress Battery: Ryobi 40v Everything else: bearings, bolts, and printed parts from a Bambu P1S This is a labor of love. My regular day job is a software developer/manager. Mostly focused on learning fast and keeping costs down. I'm having so much fun learning and building this stuff
 
-5h ago
+6h ago
 
 ---
 
@@ -66,7 +66,7 @@ I've been working on a robot dog and wanted to show off my progress. I have a si
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=1jpHzqQYSXU) • 15h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=1jpHzqQYSXU) • 16h ago
 
 ---
 
@@ -80,13 +80,13 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 I’m joining BTech (not IIT/NIT) and want to build a career in robotics. I’ve explored basics of electronics, coding, and mechanical integration, so I’m sure about robotics. I was planning to take Mechatronics, but I also want to prepare for GATE and do Masters from a good college. Since there’s no separate Mechatronics paper in GATE, I’m worried it might limit my options. Branches I’m considering: Mechatronics CSE ECE EE My goals: Career in Robotics 🤖 Prepare for GATE Keep flexibility for Masters in Robotics/Automation Which branch would be the safest and best path toward robotics via GATE?
 
-1h ago
+2h ago
 
 ---
 
 **[Rodney Brooks: We won't see AGI for 300 years](https://www.reddit.com/r/robotics/comments/1se6glu/rodney_brooks_we_wont_see_agi_for_300_years/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -94,13 +94,13 @@ I’m joining BTech (not IIT/NIT) and want to build a career in robotics. I’ve
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/_NVhD5L7K5k) • 6h ago
+🔗 [youtu.be](https://youtu.be/_NVhD5L7K5k) • 7h ago
 
 ---
 
 **[Polka: A unified efficient node for your pointcloud pre-processing](https://www.reddit.com/r/robotics/comments/1sdo3ek/polka_a_unified_efficient_node_for_your/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -120,7 +120,7 @@ Euronews.com • 1d ago
 
 Funding data and leasing activity show that companies using the groundbreaking tech on the physical world are having their moment.
 
-The San Francisco Standard • 7h ago
+The San Francisco Standard • 8h ago
 
 ---
 
@@ -128,7 +128,7 @@ The San Francisco Standard • 7h ago
 
 NILES — While the Easter Bunny was nearby greeting young children, local high school students gathered this weekend inside the ...
 
-tribtoday.com • 13h ago
+tribtoday.com • 14h ago
 
 ---
 
@@ -136,7 +136,7 @@ tribtoday.com • 13h ago
 
 They don't blink, don't take breaks, and can hear trouble before humans do. But when the night watch has four legs and cameras, who is safer and who is more exposed?
 
-3DVF • 4h ago
+3DVF • 5h ago
 
 ---
 
@@ -150,7 +150,7 @@ Adafruit • 1d ago
 
 The race for AI and robotics talent is heating up and getting expensive.
 
-Business Insider • 9h ago
+Business Insider • 10h ago
 
 ---
 
@@ -166,13 +166,13 @@ blogs.nvidia.com • 2d ago
 
 Spacesuit work and eye checks wrapped up the week for the Expedition 74 crew aboard the International Space Station. The orbital residents also focused on robotics, cargo transfers, and science hardware maintenance at the end of the week.
 
-nasa.gov • 2d ago
+nasa.gov • 3d ago
 
 ---
 
 **[Indiana researchers study the potential of AI-powered health care](https://www.axios.com/local/indianapolis/2026/04/06/experts-examine-the-potential-of-ai-powered-medical-care-in-indianapolis)**
 
-Axios • 8h ago
+Axios • 9h ago
 
 ---
 
@@ -180,7 +180,7 @@ Axios • 8h ago
 
 A group of Paola High School students is taking their engineering talents and displaying them on a world stage. The team is currently ranked #1 in the state of Kansas.
 
-KSHB 41 Kansas City • 20h ago
+KSHB 41 Kansas City • 21h ago
 
 ---
 
@@ -194,7 +194,7 @@ The world wasn't ready for what 2026 had in store — a wave of humanoid robots 
 
 📺 The AI Nexus
 
-👁️ 4K • 👍 172 • 💬 5 • ⏱️ 16:42 • 20h ago
+👁️ 4K • 👍 177 • 💬 7 • ⏱️ 16:42 • 21h ago
 
 ---
 
@@ -204,7 +204,7 @@ Welch Labs Book: https://www.welchlabs.com/resources/ai-book-ezrzm-msrmc Book & 
 
 📺 Welch Labs
 
-👁️ 73K • 👍 4K • 💬 205 • ⏱️ 35:02 • 2d ago
+👁️ 75K • 👍 4K • 💬 206 • ⏱️ 35:02 • 2d ago
 
 ---
 
@@ -214,7 +214,27 @@ The era of the Robot Mower is here and after 6 months of intensive use I feel I 
 
 📺 Proper DIY
 
-👁️ 26K • 👍 2K • 💬 109 • ⏱️ 11:47 • 1d ago
+👁️ 27K • 👍 2K • 💬 109 • ⏱️ 11:47 • 1d ago
+
+---
+
+**[The Six-Servo Robot Dog - it&#39;s open source!](https://www.youtube.com/watch?v=2eKb_2N0SBI)**
+
+Ad: Check out PCBWay for all your project needs! Get $10 off orders over $30 with code: PCBWay-JamesBruton-10 ...
+
+📺 James Bruton
+
+👁️ 64K • 👍 4K • 💬 213 • ⏱️ 16:17 • 6d ago
+
+---
+
+**[The #1 Ammit Killer In War Robots... Most Broken Build In The Entire Game [We&#39;re Cooked]](https://www.youtube.com/watch?v=a6TJzuC0gxE)**
+
+The absolute Ammit Destroyer. This the most broken build in the game and by far the #1 Ammit killer. It has everything to take ...
+
+📺 PREDATOR WR
+
+👁️ 6K • 👍 371 • 💬 45 • ⏱️ 14:53 • 9h ago
 
 ---
 
@@ -234,27 +254,7 @@ War Robots Gameplay: Anaksor with Kroko weapons is quite unfair! My War Robots C
 
 📺 Manni-Gaming
 
-👁️ 11K • 👍 442 • 💬 87 • ⏱️ 13:35 • 1d ago
-
----
-
-**[Don&#39;t Waste Money On An Expensive Robot Vacuum!](https://www.youtube.com/watch?v=sMt_jOouNeM)**
-
-A flagship robot vacuum might be out your budget. We tested the affordable Dreame D30 Ultra. ✔️ Buy it on Amazon ...
-
-📺 Vacuum Nerds
-
-👁️ 5K • 👍 64 • 💬 30 • ⏱️ 8:48 • 2d ago
-
----
-
-**[Automatic Smart Dustbin #arduinouno #sciencproject #arduinoprojects #robot #robotics #smartdustbin](https://www.youtube.com/watch?v=PiyXJ5yI0_A)**
-
-Automatic Smart Dustbin #arduinouno #sciencproject #arduinoprojects #robot #robotics #smartdustbin.
-
-📺 EAZYTRONIC
-
-👁️ 4K • 👍 34 • ⏱️ 0:04 • 7h ago
+👁️ 11K • 👍 454 • 💬 87 • ⏱️ 13:35 • 1d ago
 
 ---
 
@@ -264,17 +264,7 @@ They turned on this salon robot... and people lost their minds.
 
 📺 TechMirage
 
-👁️ 2.5M • 👍 26K • 💬 198 • ⏱️ 1:11 • 19h ago
-
----
-
-**[I Spent 100 Hours In China&#39;s Robot City](https://www.youtube.com/watch?v=PXGK_MFShXU)**
-
-I spent 100 hours in the world's most futuristic city! WATCH MORE videos we filmed in China ▸ https://youtu.be/elF_v9sukWU ...
-
-📺 Hafu Go
-
-👁️ 478K • 👍 5K • 💬 217 • ⏱️ 25:46 • 2d ago
+👁️ 2.6M • 👍 28K • 💬 217 • ⏱️ 1:11 • 20h ago
 
 ---
 
@@ -284,7 +274,17 @@ Round 3 of The 2026 NHRL Pro World Championship kicks off NOW! The path to crown
 
 📺 NHRL
 
-👁️ 19K • 👍 363 • 💬 7 • ⏱️ 4:56:01 • 1d ago
+👁️ 19K • 👍 365 • 💬 7 • ⏱️ 4:56:01 • 1d ago
+
+---
+
+**[I Spent 100 Hours In China&#39;s Robot City](https://www.youtube.com/watch?v=PXGK_MFShXU)**
+
+I spent 100 hours in the world's most futuristic city! WATCH MORE videos we filmed in China ▸ https://youtu.be/elF_v9sukWU ...
+
+📺 Hafu Go
+
+👁️ 505K • 👍 6K • 💬 221 • ⏱️ 25:46 • 2d ago
 
 ---
 

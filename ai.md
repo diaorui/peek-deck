@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-06T20:05:05.093725+00:00'
+updated: '2026-04-06T21:03:54.800724+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - videos
 - social
+- news
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** April 06, 2026 at 20:05 UTC  
+**Last Updated:** April 06, 2026 at 21:03 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Experiments show large majorities uncritically accepting "faulty" AI answers.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/) • 4h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/) • 5h ago
 
 ---
 
@@ -49,7 +49,7 @@ Experiments show large majorities uncritically accepting "faulty" AI answers.
 
 A company in eastern China is using an artificial intelligence-powered machine to sort clothes and boost recycling.
 
-🔗 [AP News](https://apnews.com/article/china-recycling-textiles-artificial-intelligence-863551cc54e88da6a7916894cb8980c4) • 8h ago
+🔗 [AP News](https://apnews.com/article/china-recycling-textiles-artificial-intelligence-863551cc54e88da6a7916894cb8980c4) • 9h ago
 
 ---
 
@@ -57,7 +57,7 @@ A company in eastern China is using an artificial intelligence-powered machine t
 
 I want to be honest about something that happened to me because I think it is more common than people admit. Last month I hit a bug in a service I wrote myself two years ago. Network timeout issue, intermittent, only in prod. The kind of thing I used to be able to sit with for an hour and work through methodically. I opened Claude, described the symptom, got a hypothesis, followed it, hit a dead end, fed that back, got another hypothesis. Forty minutes later I had not found the bug. I had just been following suggestions. At some point I closed the chat and tried to work through it myself. And I realized I had forgotten how to just sit with a problem. My instinct was to describe it to something else and wait for a direction. The internal monologue that used to generate hypotheses, that voice that says maybe check the connection pool, maybe it is a timeout on the load balancer side, maybe there is a retry storm. That voice was quieter than it used to be. I found the bug eventually. It took me longer without AI than it would have taken me three years ago without AI. I am not saying the tools are bad. I use them every day and they make me faster on most things. But there is something specific happening to the part of the brain that generates hypotheses under uncertainty. That muscle atrophies if you do not use it. The analogy I keep coming back to is GPS. You can navigate anywhere with GPS. But if you use it for five years and then lose signal, you do not just lack information. You lack the mental map that you would have built if you had been navigating manually. The skill and the mental model degrade together. I am 11 years into this career. I started noticing this in myself. I wonder how it looks for someone who started using AI tools in their first year. Has anyone else noticed this? Not the productivity gains, we all know those. The quieter thing underneath.
 
-23h ago
+1d ago
 
 ---
 
@@ -65,7 +65,7 @@ I want to be honest about something that happened to me because I think it is mo
 
 I’ve been tracking the companies building primitives specifically for agents rather than humans. The pattern is becoming obvious: every capability a human employee takes for granted is getting rebuilt as an API. Here are some of the companies building for AI agents: AgentMail — agents can have email accounts AgentPhone — agents can have phone numbers Kapso — agents can have WhatsApp numbers Daytona / E2B — agents can have their own computers monid.ai — agents can read social media (X, TikTok, Reddit, LinkedIn, Amazon, Facebook) Browserbase / Browser Use / Hyperbrowser — agents can use web browsers Firecrawl — agents can crawl the web without a browser Mem0 — agents can remember things Kite / Sponge — agents can pay for things Composio — agents can use your SaaS tools Orthogonal — agents can access APIs more easily ElevenLabs / Vapi — agents can have a voice Sixtyfour — agents can search for people and companies Exa — agents can search the web (Google isn’t built for agents) What’s interesting is how quickly this came together. Not long ago, none of this really existed in a usable form. Now you can piece together an agent with identity, memory, communication, and spending in a single afternoon. Feels less like “AI tools” and more like the early version of an agent-native infrastructure stack. Curious if anyone here is actually building on top of this. What are you using? Also probably missing a bunch - drop anything I should add and I’ll keep this updated.
 
-20h ago
+21h ago
 
 ---
 
@@ -73,7 +73,7 @@ I’ve been tracking the companies building primitives specifically for agents r
 
 South Korea’s strained social care system turns to ChatGPT-enabled devices as population ages
 
-🔗 [ft.com](http://ft.com/content/88911383-2a17-42e1-aef4-36daac1bd9dd?segmentid=c50c86e4-586b-23ea-1ac1-7601c9c2476f) • 11m ago
+🔗 [ft.com](http://ft.com/content/88911383-2a17-42e1-aef4-36daac1bd9dd?segmentid=c50c86e4-586b-23ea-1ac1-7601c9c2476f) • 1h ago
 
 ---
 
@@ -81,7 +81,7 @@ South Korea’s strained social care system turns to ChatGPT-enabled devices as 
 
 Aura: https://github.com/youngbryan97/aura Aura is not a chatbot with personality prompts. It is a complete cognitive architecture — 60+ interconnected modules forming a unified consciousness stack that runs continuously, maintains internal state between conversations, and exhibits genuine self-modeling, prediction, and affective dynamics. The system implements real algorithms from computational consciousness research, not metaphorical labels on arbitrary values. Key differentiators: Genuine IIT 4.0: Computes actual integrated information (φ) via transition probability matrices, exhaustive bipartition search, and KL-divergence — the real mathematical formalism, not a proxy Closed-loop affective steering: Substrate state modulates LLM inference at the residual stream level (not text injection), creating bidirectional causal coupling between internal state and language generation
 
-3h ago
+4h ago
 
 ---
 
@@ -97,7 +97,7 @@ Everyone thinks McKinsey just built 25,000 AI experts. They didn't. They took a 
 
 Physical AI is emerging as one of the next major industrial battlegrounds, with Japan’s push driven more by necessity than anything else. With workforces shrinking and pressure mounting to sustain productivity, companies are increasingly deploying AI-powered robots across factories, warehouses, and critical infrastructure.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/) • 7h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/) • 8h ago
 
 ---
 
@@ -105,7 +105,7 @@ Physical AI is emerging as one of the next major industrial battlegrounds, with 
 
 A daily puzzle game with no rules and no instructions. Built on ARC-AGI-3, the benchmark AI can't solve (yet).
 
-🔗 [arcaptcha.io](https://arcaptcha.io/) • 8m ago
+🔗 [arcaptcha.io](https://arcaptcha.io/) • 1h ago
 
 ---
 
@@ -113,7 +113,7 @@ A daily puzzle game with no rules and no instructions. Built on ARC-AGI-3, the b
 
 Hey everyone 👋 I've set up a self-hosted API gateway using New-API to manage and distribute Claude Opus 4.6 access across multiple users. I have more capacity than I personally need, so I'm opening it up to a handful of people at 40% below official Anthropic pricing. What you get: Claude Opus 4.6 — full model, zero degradation Usage-based billing — pay only for what you consume Your own API key via the dashboard No subscription, no minimum spend, no lock-in Especially useful if you use Claude Code — just point it to a cheaper base URL and you're saving 40% on every token without changing your workflow. Why 40% off? Not running this as a business. I have spare capacity, want to offset infrastructure costs, and if people get cheaper Opus access along the way — everyone wins. Free $5 credits just for signing up — no DM needed: Register here → xstream.site/register Your $5 trial credits are automatically added on signup. Full setup guide → xstream.site/setup Swap your API base URL, drop in your key — you're running in under 5 minutes. Test the speed and quality yourself. If it works, top up and keep going. If not, no pressure. Slots are limited since this is a personal setup, not a startup. Once capacity fills up I'll stop accepting new users. Drop a comment if you have questions — happy to help.
 
-20m ago
+1h ago
 
 ---
 
@@ -123,7 +123,7 @@ Hey everyone 👋 I've set up a self-hosted API gateway using New-API to manage 
 
 **[The Big Bang: A.I. Has Created a Code Overload](https://www.nytimes.com/2026/04/06/technology/ai-code-overload.html)**
 
-The New York Times • 3h ago
+The New York Times • 4h ago
 
 ---
 
@@ -131,7 +131,7 @@ The New York Times • 3h ago
 
 The AI agent sparked a frenzy of "raising lobsters" in March, with users training the tool to suit their needs.
 
-BBC • 21h ago
+BBC • 22h ago
 
 ---
 
@@ -139,7 +139,7 @@ BBC • 21h ago
 
 The roundtable discusses the dramatic impact AI is having in the classroom, at companies and inside homes.
 
-CBS News • 20m ago
+CBS News • 1h ago
 
 ---
 
@@ -147,7 +147,7 @@ CBS News • 20m ago
 
 Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow.
 
-TechCrunch • 1h ago
+TechCrunch • 2h ago
 
 ---
 
@@ -155,13 +155,13 @@ TechCrunch • 1h ago
 
 The company has baked its AI assistant into everything from Word to Windows, but it's apparently only for fun.
 
-mashable.com • 54m ago
+mashable.com • 1h ago
 
 ---
 
 **[The AI agent buffet is closed](https://www.axios.com/2026/04/06/anthropic-openclaw-subscription-openai)**
 
-Axios • 9h ago
+Axios • 10h ago
 
 ---
 
@@ -169,19 +169,19 @@ Axios • 9h ago
 
 JPMorgan CEO Jamie Dimon in his annual letter to shareholders noted the country's 250th anniversary and called for a broad recommitment to American ideals.
 
-CNBC • 10h ago
+CNBC • 11h ago
 
 ---
 
 **[Oracle’s Massive 30,000 Layoff As AI Spending Surges](https://www.forbes.com/sites/jonmarkman/2026/04/06/oracles-massive-30000-layoff-as-ai-spending-surges/)**
 
-Forbes • 5h ago
+Forbes • 6h ago
 
 ---
 
 **[Brands Adopt ‘No AI’ Disclaimers to Stand Out Amid the Slop](https://www.wsj.com/cmo-today/brands-adopt-no-ai-disclaimers-to-stand-out-amid-the-slop-a92352af?gaa_at=eafs&gaa_n=AWEtsqfjMwU4WQ5ly1XCktBtKRRW-P7knqsDFOQwneI1ohbLwmj4z3DE3Q0q&gaa_ts=69d4155a&gaa_sig=mx2v8wLRSTdGARHIT-nPUtFJBLnKqhG9uzbyNF1xU_rpOMDF5rVwNzwnWIPyCD9fKD5-v_XEG03IO7mNt6cqZw%3D%3D)**
 
-WSJ • 10h ago
+WSJ • 11h ago
 
 ---
 
@@ -189,7 +189,7 @@ WSJ • 10h ago
 
 UnitedHealth Group is rapidly deploying artificial intelligence tools across its operations. What does it mean for patients?
 
-statnews.com • 11h ago
+statnews.com • 12h ago
 
 ---
 
@@ -232,7 +232,7 @@ deployment pattern...
 
 Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU — no API keys, no cloud, no data leaving your machine. - kessler/gemma-gem
 
-⬆️ 139 • 💬 19 • 19h ago • [GitHub](https://github.com/kessler/gemma-gem)
+⬆️ 139 • 💬 19 • 20h ago • [GitHub](https://github.com/kessler/gemma-gem)
 
 ---
 
@@ -240,13 +240,13 @@ Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU — no API k
 
 Git, VMs, deployments, and execution — unified infrastructure for code you didn't write.
 
-⬆️ 121 • 💬 65 • 3h ago • [Freestyle](https://www.freestyle.sh)
+⬆️ 121 • 💬 65 • 4h ago • [Freestyle](https://www.freestyle.sh)
 
 ---
 
 **[Musician says AI company is cloning her music, filing claims against her](https://news.ycombinator.com/item?id=47653471)**
 
-⬆️ 115 • 💬 19 • 23h ago • [X (formerly Twitter)](https://twitter.com/unlimited_ls/status/2040577536136974444)
+⬆️ 115 • 💬 19 • 1d ago • [X (formerly Twitter)](https://twitter.com/unlimited_ls/status/2040577536136974444)
 
 ---
 
@@ -282,13 +282,43 @@ AI-powered travel hacking with points, miles, and award flights. Drop-in skills 
 
 ## YouTube Videos: "ai"
 
+**[5 AI Agent Use Cases I’d Start Today to Make Money Online](https://www.youtube.com/watch?v=tvrvAj6mNdY)**
+
+Best AI Agent Tool is Base44 https://base44.pxf.io/c/6440076/3820726/25619?trafcat=agent&sharedid=agent3 ✓ FREE ...
+
+📺 Mikey No Code
+
+👁️ 11K • 💬 6 • ⏱️ 40:05 • 6h ago
+
+---
+
+**[AI Layoffs: Why People in Their 40s Are the Hardest Hit Group | Vantage on Firstpost | N18G](https://www.youtube.com/watch?v=m_9b9bYrNc0)**
+
+Layoffs are no longer isolated events but an ongoing global trend, especially in the technology sector. Since 2022, job cuts have ...
+
+📺 Firstpost
+
+👁️ 13K • 👍 210 • 💬 48 • ⏱️ 6:00 • 3h ago
+
+---
+
+**[The 5 Levels of Consistent Characters (And How to Level Up)](https://www.youtube.com/watch?v=GVIF67IldTI)**
+
+Master Consistency https://www.openart.ai/home?utm_source=tolt&utm_medium=affiliate&ref=consistent-characters In this ...
+
+📺 Roboverse
+
+👁️ 4K • 💬 2 • ⏱️ 8:47 • 7h ago
+
+---
+
 **[This AI just leaked its own code..](https://www.youtube.com/watch?v=EAaRzLjQiAU)**
 
 Asmongold reacts to the Claude Code situation https://youtube.com/watch?v=mBHRPeg8zPU ▻ Asmongold's Twitch: ...
 
 📺 Asmongold TV  
 
-👁️ 680K • 👍 20K • 💬 3K • ⏱️ 11:03 • 1d ago
+👁️ 693K • 👍 20K • 💬 3K • ⏱️ 11:03 • 1d ago
 
 ---
 
@@ -298,27 +328,17 @@ The world wasn't ready for what 2026 had in store — a wave of humanoid robots 
 
 📺 The AI Nexus
 
-👁️ 4K • 👍 172 • 💬 5 • ⏱️ 16:42 • 20h ago
+👁️ 4K • 👍 177 • 💬 7 • ⏱️ 16:42 • 21h ago
 
 ---
 
-**[Apple Just Made AI Training Embarrassingly Simple](https://www.youtube.com/watch?v=vUEczl1-O_g)**
+**[We Bought MORE Ai Shopping Scams So You Don’t Have To](https://www.youtube.com/watch?v=UExYNu5j1uo)**
 
-Apple's latest paper details a two-step self-distillation method for LLM training, challenging the industry's focus on complexity.
+Squarespace ▻ Head to http://squarespace.com/corridorcrew to save 10% off your first purchase! Corridor Big Frig Mugs ...
 
-📺 AIM Network
+📺 Corridor Crew
 
-👁️ 2K • 👍 62 • 💬 5 • ⏱️ 2:48 • 6h ago
-
----
-
-**[5 AI Agent Use Cases I’d Start Today to Make Money Online](https://www.youtube.com/watch?v=tvrvAj6mNdY)**
-
-Best AI Agent Tool is Base44 https://base44.pxf.io/c/6440076/3820726/25619?trafcat=agent&sharedid=agent3 ✓ FREE ...
-
-📺 Mikey No Code
-
-👁️ 9K • ⏱️ 40:05 • 5h ago
+👁️ 627K • 👍 32K • 💬 2K • ⏱️ 20:43 • 1d ago
 
 ---
 
@@ -328,55 +348,37 @@ I Gave Claude AI Full Access to 1500 TradingView Scalping Strategies… The Resu
 
 📺 Trading with DaviddTech
 
-👁️ 3K • 👍 233 • 💬 141 • ⏱️ 17:23 • 7h ago
+👁️ 5K • 👍 282 • 💬 176 • ⏱️ 17:23 • 8h ago
 
 ---
 
-**[Google AI Just Made ChatGPT and Claude Obsolete  (+ 13 Top AI Updates)](https://www.youtube.com/watch?v=cLSWcxKHl8g)**
+**[Apple Just Made AI Training Embarrassingly Simple](https://www.youtube.com/watch?v=vUEczl1-O_g)**
 
-Join our WhatsApp Community Get the latest AI updates, tips, and insights straight to your inbox: https://link.stayingahead.ai/YT13 ...
+Apple's latest paper details a two-step self-distillation method for LLM training, challenging the industry's focus on complexity.
 
-📺 Vaibhav Sisinty
+📺 AIM Network
 
-👁️ 21K • 👍 2K • 💬 61 • ⏱️ 16:04 • 4h ago
-
----
-
-**[Google Just Dropped 5 NEW AI Updates!](https://www.youtube.com/watch?v=G8CTkYS6t-0)**
-
-Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
-
-📺 Julian Goldie SEO
-
-👁️ 6K • 👍 211 • 💬 10 • ⏱️ 7:48 • 13h ago
+👁️ 2K • 👍 62 • 💬 6 • ⏱️ 2:48 • 7h ago
 
 ---
 
-**[Paperclip AI Explained: The Truth About “Zero Human Companies&quot;](https://www.youtube.com/watch?v=Yp5KiHBSpZo)**
+**[How I Make AI Worlds with Consistent Characters from One Single Image!](https://www.youtube.com/watch?v=CzAGkoEgdiA)**
 
-Description Transform your business with AI: https://salesdone.ai We help entrepreneurs & industry experts build & scale ...
+Create Your Own AI Worlds with OpenArt https://youricreates.com/AI-worlds In this video, I break down how OpenArt World ...
 
-📺 Nick Puru | AI Automation
+📺 Youri van Hofwegen
 
-👁️ 711 • 👍 49 • 💬 7 • ⏱️ 14:43 • 4h ago
-
----
-
-**[Greg Abbott, just reacted to an AI photo of the soldier that was shot down and then rescued in Iran.](https://www.youtube.com/watch?v=4TLUjxYNwNU)**
-
-📺 Don Lemon
-
-👁️ 211K • 👍 16K • 💬 474 • ⏱️ 1:00 • 21h ago
+👁️ 12K • 💬 9 • ⏱️ 8:03 • 2d ago
 
 ---
 
-**[AI is struggling to take our jobs](https://www.youtube.com/watch?v=p22QeLNHvlc)**
+**[The AI Bubble Is Getting Worse Faster Than Expected...](https://www.youtube.com/watch?v=HrfAHSUSMJA)**
 
-You're absolutely right, jail does sound pretty awful! https://x.com/atmoio/status/2040797533568434350 ...
+Hello guys and gals, it's me Mutahar again! This time we take a look at what appears to be serious pressure faced by the ...
 
-📺 Mo Bitar
+📺 SomeOrdinaryGamers
 
-👁️ 47K • 👍 4K • 💬 750 • ⏱️ 5:39 • 8h ago
+👁️ 389K • 👍 16K • 💬 2K • ⏱️ 20:44 • 1d ago
 
 ---
 
@@ -392,7 +394,7 @@ Gemma 4 31B is an instruction-tuned, multimodal LLM capable of processing text a
 
 `image-text-to-text` `32.7B`
 
-⬇️ 678,740 • ❤️ 1,127 • 4d ago
+⬇️ 678,740 • ❤️ 1,136 • 4d ago
 
 ---
 
@@ -400,11 +402,11 @@ Gemma 4 31B is an instruction-tuned, multimodal LLM capable of processing text a
 
 *Jackrong*
 
-Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-tuned for enhanced reasoning capabilities using Chain-of-Thought distillation from Claude-4.6 Opus. It excels at structured, step-by-step problem-solving within `<think>` tags, offering improved autonomy and stability for coding agents.
+This image-text-to-text model, Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled, is fine-tuned on Qwen3.5-27B using Claude-4.6 Opus reasoning data for enhanced Chain-of-Thought capabilities. It excels at structured problem-solving and complex reasoning tasks, showing improved autonomy and stability in coding agent environments.
 
 `image-text-to-text` `27.8B`
 
-⬇️ 548,344 • ❤️ 2,386 • 17h ago
+⬇️ 548,344 • ❤️ 2,389 • 18h ago
 
 ---
 
@@ -416,7 +418,7 @@ Gemma-4-31B-JANG_4M-CRACK is a 31B parameter text-generation model optimized for
 
 `text-generation` `6.4B`
 
-⬇️ 13,727 • ❤️ 467 • 2d ago
+⬇️ 13,727 • ❤️ 477 • 2d ago
 
 ---
 
@@ -428,7 +430,7 @@ Bonsai-8B-GGUF is a highly compressed 1-bit language model (1.15 GB) optimized f
 
 `text-generation` `8.2B`
 
-⬇️ 45,185 • ❤️ 461 • 12h ago
+⬇️ 45,185 • ❤️ 464 • 13h ago
 
 ---
 
@@ -440,7 +442,7 @@ Gemma 4 26B A4B is a multimodal instruction-tuned model capable of processing te
 
 `image-text-to-text` `26.5B`
 
-⬇️ 476,612 • ❤️ 446 • 4d ago
+⬇️ 476,612 • ❤️ 450 • 4d ago
 
 ---
 
@@ -452,7 +454,7 @@ VOID is a video-to-video diffusion model for object and interaction removal, cap
 
 `video-to-video`
 
-⬇️ 0 • ❤️ 437 • 2h ago
+⬇️ 0 • ❤️ 441 • 3h ago
 
 ---
 
@@ -464,7 +466,7 @@ Gemma 4 E4B is a multimodal, instruction-tuned LLM from Google DeepMind, support
 
 `any-to-any` `8.0B`
 
-⬇️ 321,152 • ❤️ 401 • 4d ago
+⬇️ 321,152 • ❤️ 405 • 4d ago
 
 ---
 
@@ -476,7 +478,7 @@ Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document inte
 
 `image-text-to-text` `4.7B`
 
-⬇️ 38,388 • ❤️ 1,014 • 11d ago
+⬇️ 38,388 • ❤️ 1,015 • 11d ago
 
 ---
 
@@ -488,7 +490,7 @@ OmniVoice is a massively multilingual, zero-shot text-to-speech model supporting
 
 `text-to-speech`
 
-⬇️ 64,509 • ❤️ 285 • 1d ago
+⬇️ 64,509 • ❤️ 292 • 1d ago
 
 ---
 
@@ -500,7 +502,7 @@ Gemma 4 E2B-it is an instruction-tuned, multimodal (text, image, audio) LLM from
 
 `any-to-any` `5.1B`
 
-⬇️ 237,266 • ❤️ 283 • 4d ago
+⬇️ 237,266 • ❤️ 285 • 4d ago
 
 ---
 
@@ -522,18 +524,6 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 ---
 
-**[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
-
-*Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
-
-A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
-
-▲ 36 • 💬 2 • ⭐ 47,672 • 15mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
-
----
-
 **[A decoder-only foundation model for time-series forecasting](https://huggingface.co/papers/2310.10688)**
 
 *Abhimanyu Das, Weihao Kong, Rajat Sen et al. (4 authors)*
@@ -546,6 +536,18 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 ---
 
+**[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
+
+*Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
+
+A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
+
+▲ 36 • 💬 2 • ⭐ 47,831 • 15mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
+
+---
+
 **[VOID: Video Object and Interaction Deletion](https://huggingface.co/papers/2604.02296)**
 
 *Saman Motamed, William Harvey, Benjamin Klein et al. (6 authors)*
@@ -554,7 +556,7 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 VOID is a video object removal framework that uses vision-language models and video diffusion models to generate physically plausible scenes by leveraging causal reasoning and counterfactual reasoning.
 
-▲ 33 • 💬 5 • ⭐ 783 • 5d ago
+▲ 34 • 💬 5 • ⭐ 783 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.02296) • [💻 code](https://github.com/Netflix/void-model) • [🔗 project](https://void-model.github.io/)
 
@@ -661,7 +663,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 13.6k • 🔱 1.2k • 2h ago
+⭐ 13.6k • 🔱 1.2k • 3h ago
 
 ---
 
@@ -671,7 +673,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `Go` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 9.6k • 🔱 1.7k • 1h ago
+⭐ 10.2k • 🔱 1.8k • 2h ago
 
 ---
 
@@ -691,7 +693,7 @@ Clone any website with one command using AI coding agents
 
 `TypeScript` `ai` `ai-agents` `ai-tools` `automation` `boilerplate`
 
-⭐ 8.0k • 🔱 1.1k • 7d ago
+⭐ 8.1k • 🔱 1.1k • 7d ago
 
 ---
 
@@ -701,7 +703,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 6.8k • 🔱 401 • 7h ago
+⭐ 6.8k • 🔱 401 • 8h ago
 
 ---
 
@@ -731,7 +733,7 @@ A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or 
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 3.6k • 🔱 108 • 1h ago
+⭐ 3.8k • 🔱 115 • 2h ago
 
 ---
 
@@ -741,7 +743,7 @@ Autonomous novel writing CLI AI Agent — agents write, audit, and revise novels
 
 `TypeScript` `agent` `ai` `ai-agent` `ai-novel` `ai-writing`
 
-⭐ 3.6k • 🔱 660 • 4h ago
+⭐ 3.6k • 🔱 660 • 5h ago
 
 ---
 

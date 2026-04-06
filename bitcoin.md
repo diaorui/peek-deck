@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-06T20:05:05.102036+00:00'
+updated: '2026-04-06T21:03:54.808973+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
+- social
 - news
 - videos
-- social
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 06, 2026 at 20:05 UTC  
+**Last Updated:** April 06, 2026 at 21:03 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1398.42B
+**Market Cap:** $1397.06B
 Rank #1
 
-**Circulating Supply:** 20,012,309 BTC
+**Circulating Supply:** 20,012,340 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
 -44.6%
 
 **All-Time Low:** $67.81
-+102937.9%
++102850.9%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[It’s going to 🚀](https://www.reddit.com/r/Bitcoin/comments/1se4g7y/its_going_to/)**
 
-3h ago
+4h ago
 
 ---
 
 **[Men only have two moods:](https://www.reddit.com/r/Bitcoin/comments/1sdz0lp/men_only_have_two_moods/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 While the world continues to trust systems that fail time and time again, a new alternative has emerged silent, unstoppable, and incorruptible. Bitcoin is not just technology. It’s not just money. It’s freedom. For the first time in history, a generation has the opportunity to truly own its wealth without intermediaries, without permission, without manipulation. We grew up watching crises unfold, inflation erode the value of our efforts, and rules change in the middle of the game. But now… we have a choice. Bitcoin is more than an asset, it’s a statement. A rejection of centralized control. A step toward individual sovereignty. There may be volatility. There may be doubts. But one thing is certain: The world is changing and Bitcoin is leading that change. Don’t trust, verify. 🧡
 
-5h ago
+6h ago
 
 ---
 
@@ -101,7 +101,7 @@ While the world continues to trust systems that fail time and time again, a new 
 
 Sadly, most of the hard working people still have no idea how the printer keeps stealing their money.
 
-7h ago
+8h ago
 
 ---
 
@@ -109,7 +109,7 @@ Sadly, most of the hard working people still have no idea how the printer keeps 
 
 Bitcoing is extremely volatile, having thoroughly tanked this year. And yet it is still your best long term store of value play. BTC value vs. Tradfi 2020-2026 Despite the 4-year peak trough cycles, BTC still MASSIVELY outperforms TradFi. And what does that mean to you? LONG TERM Store of Value: Median US home price 2020-2026 One day you'll buy a home with a fraction of your BTC. In fact, you'll easily collateralize your BTC to back the loan - no cap gains tax, lower rates. BTC may not be "money" (currency) yet, but it is a store of value particularly against fiat currencies, as these two charts quickly demonstrate. What are you doing relative to BTC, running for the hills? I'm dollar cost averaging.
 
-1h ago
+2h ago
 
 ---
 
@@ -117,7 +117,7 @@ Bitcoing is extremely volatile, having thoroughly tanked this year. And yet it i
 
 Curious how it started for all of us.
 
-1h ago
+2h ago
 
 ---
 
@@ -125,7 +125,7 @@ Curious how it started for all of us.
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-14h ago
+15h ago
 
 ---
 
@@ -139,7 +139,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 I am sat on some savings which I do not use and they gain minimal interest, I have been toying with the idea of investing for a while and I am wondering if It is too late to invest in btc or would now be an ideal time given the current dip? I was thinking about putting a chunk in now and then x amount every month indefinitely and somewhat forgetting about it, and hoping that in 30 years I will have accumulated a bit of profit from it to aid towards retirement. Would this be a wise idea, thinking long term?
 
-20h ago
+21h ago
 
 ---
 
@@ -155,7 +155,7 @@ I am sat on some savings which I do not use and they gain minimal interest, I ha
 
 **[Bitcoin Rebounds Near $70,000, Charles Schwab To Launch Direct Trading](https://www.investors.com/news/bitcoin-price-rebound-69k-charles-schwab-direct-trading/)**
 
-investors.com • 7h ago
+investors.com • 8h ago
 
 ---
 
@@ -179,7 +179,7 @@ Decrypt • 2d ago
 
 Strategy recorded a $14.5 billion unrealized loss in the first quarter as it continues to accumulate more bitcoin.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -187,13 +187,13 @@ Yahoo Finance • 4h ago
 
 Strategy's on-paper bitcoin losses generated a $2.42 billion deferred tax asset, according to its latest 8-K filing.
 
-theblock.co • 5h ago
+theblock.co • 6h ago
 
 ---
 
 **[Strategy Posts $14.5 Billion Unrealized Loss in First Quarter](https://www.bloomberg.com/news/articles/2026-04-06/strategy-posts-14-5-billion-unrealized-loss-in-first-quarter)**
 
-Bloomberg.com • 7h ago
+Bloomberg.com • 8h ago
 
 ---
 
@@ -201,13 +201,13 @@ Bloomberg.com • 7h ago
 
 Options data shows traders are bracing for a sharp bitcoin drop as weak demand and fragile positioning leave the market exposed to a break below key levels, a report from Bitfinex shows.
 
-CoinDesk • 41m ago
+CoinDesk • 1h ago
 
 ---
 
 **[Bitcoin Tops $70,000 as Traders Unwind Bets Amid War Tensions](https://www.bloomberg.com/news/articles/2026-04-06/bitcoin-tops-70-000-as-traders-unwind-bets-amid-war-tensions)**
 
-Bloomberg.com • 16m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -215,7 +215,7 @@ Bloomberg.com • 16m ago
 
 Bitcoin doesn’t move randomly. You see things that seem random, but patterns, behaviors, and external factors all affect them.
 
-The Asheville Citizen Times • 15m ago
+The Asheville Citizen Times • 1h ago
 
 ---
 
@@ -223,7 +223,7 @@ The Asheville Citizen Times • 15m ago
 
 A hacker with quantum tools could crack open old Bitcoin wallets and flood the market as soon as 2029.
 
-Fortune • 8h ago
+Fortune • 9h ago
 
 ---
 
@@ -307,13 +307,23 @@ Test your prediction skills against historical data. Draw your forecast and see 
 
 ## YouTube Videos: "bitcoin"
 
+**[🚨 BTC &amp; ETH: 24 HOURS!!!! ACT ACT ACT!!!!!!](https://www.youtube.com/watch?v=ewMAck4UjHk)**
+
+This is huge for crypto, bitcoin, ethereum and the rest of the markets!!!!! ---------- EXCHANGE BONUSES Trade Non KYC ...
+
+📺 Thomas Kralow
+
+👁️ 16K • 👍 3K • 💬 34 • ⏱️ 9:21 • 10h ago
+
+---
+
 **[Bitcoin Holders - What’s Coming is Worse Than 1929 Depression](https://www.youtube.com/watch?v=PdLqDkH-2qU)**
 
 Follow Gareth: https://x.com/GarethSoloway ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?
 
 📺 Altcoin Daily
 
-👁️ 53K • 👍 3K • 💬 318 • ⏱️ 23:55 • 1d ago
+👁️ 55K • 👍 3K • 💬 247 • ⏱️ 23:55 • 1d ago
 
 ---
 
@@ -323,17 +333,7 @@ Bitcoin #Crypto #Finance Bitcoin uncertainty is rising fast as global instabilit
 
 📺 The Wolf Of All Streets
 
-👁️ 11K • 👍 818 • 💬 183 • ⏱️ 1:05:40 • 5h ago
-
----
-
-**[🚨 BTC &amp; ETH: 24 HOURS!!!! ACT ACT ACT!!!!!!](https://www.youtube.com/watch?v=ewMAck4UjHk)**
-
-This is huge for crypto, bitcoin, ethereum and the rest of the markets!!!!! ---------- EXCHANGE BONUSES Trade Non KYC ...
-
-📺 Thomas Kralow
-
-👁️ 14K • 👍 3K • 💬 39 • ⏱️ 9:21 • 9h ago
+👁️ 13K • 👍 905 • 💬 206 • ⏱️ 1:05:40 • 6h ago
 
 ---
 
@@ -343,37 +343,7 @@ Could the oil crisis Break Bitcoin? Insider oil tracking just hit $173 a barrel 
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 2K • 💬 412 • ⏱️ 16:01 • 23h ago
-
----
-
-**[Bitcoin Is About To Make A BIG Move.. (GET READY)](https://www.youtube.com/watch?v=AaU-1PYXoxI)**
-
-Bitcoin and Crypto markets are heating up, and new opportunities are starting to appear. In today's video, Sheldon breaks down 4 ...
-
-📺 Crypto Banter
-
-👁️ 9K • 👍 580 • 💬 32 • ⏱️ 7:43 • 10h ago
-
----
-
-**[Bitcoin: The Dangers of Complacency](https://www.youtube.com/watch?v=fR4y2sCGg1A)**
-
-Is Bitcoin entering a dangerous phase of complacency? After periods of volatility, markets often drift into a false sense of ...
-
-📺 Benjamin Cowen
-
-👁️ 66K • 👍 4K • 💬 209 • ⏱️ 16:00 • 23h ago
-
----
-
-**[If Professor Jian Xueqin Is Right... Bitcoin Goes NUCLEAR](https://www.youtube.com/watch?v=1HPmGzKyUOk)**
-
-CHECK OUT UPTRADE! Sign up here ▻ https://uptrade.co/ref/fire-hustle TRADE ON BTCC WITH ME! 10% Deposit ...
-
-📺 FireHustle
-
-👁️ 8K • 👍 511 • 💬 69 • ⏱️ 10:15 • 21h ago
+👁️ 23K • 👍 2K • 💬 390 • ⏱️ 16:01 • 1d ago
 
 ---
 
@@ -383,27 +353,57 @@ Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bi
 
 📺 Tyler S
 
-👁️ 4K • 👍 394 • 💬 46 • ⏱️ 13:45 • 4h ago
+👁️ 6K • 👍 476 • 💬 48 • ⏱️ 13:45 • 5h ago
 
 ---
 
-**[WARNING: Bitcoin is 11 Days Away from a MASSIVE Move! (ETH, XRP, SOL, AVAX)](https://www.youtube.com/watch?v=_Eb6fYPj4TY)**
+**[Bitcoin Is About To Make A BIG Move.. (GET READY)](https://www.youtube.com/watch?v=AaU-1PYXoxI)**
 
-Welcome back to Verified Investing! In today's urgent crypto market update, Chief Market Strategist Gareth Soloway dives deep ...
+Bitcoin and Crypto markets are heating up, and new opportunities are starting to appear. In today's video, Sheldon breaks down 4 ...
 
-📺 Gareth Soloway
+📺 Crypto Banter
 
-👁️ 106K • 👍 5K • 💬 499 • ⏱️ 11:47 • 2d ago
+👁️ 9K • 👍 590 • 💬 32 • ⏱️ 7:43 • 11h ago
 
 ---
 
-**[What’s Actually Happening To Bitcoin &amp; The Economy Right Now](https://www.youtube.com/watch?v=S2ziezeoK4E)**
+**[BITCOIN: The Calm Before The Storm (Prepare Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=xPusQb5EC1g)**
 
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+BITCOIN: The Calm Before The Storm (Prepare Now)!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
 
-📺 Anthony Pompliano
+📺 Crypto World
 
-👁️ 57K • 👍 3K • 💬 106 • ⏱️ 45:08 • 2d ago
+👁️ 9K • 👍 311 • 💬 307 • ⏱️ 18:13 • 21h ago
+
+---
+
+**[I Was Wrong on Bitcoin (4 Year Cycle)](https://www.youtube.com/watch?v=Wr5JUmUuxrY)**
+
+The Bitcoin 4 year cycle somehow continues... here's what's next BITUNIX TRADE THE TOP COINS (available everywhere) ...
+
+📺 Lark Davis
+
+👁️ 23K • 👍 986 • 💬 259 • ⏱️ 12:12 • 2d ago
+
+---
+
+**[If Professor Jian Xueqin Is Right... Bitcoin Goes NUCLEAR](https://www.youtube.com/watch?v=1HPmGzKyUOk)**
+
+CHECK OUT UPTRADE! Sign up here ▻ https://uptrade.co/ref/fire-hustle TRADE ON BTCC WITH ME! 10% Deposit ...
+
+📺 FireHustle
+
+👁️ 9K • 👍 529 • 💬 58 • ⏱️ 10:15 • 22h ago
+
+---
+
+**[Bitcoin: The Dangers of Complacency](https://www.youtube.com/watch?v=fR4y2sCGg1A)**
+
+Is Bitcoin entering a dangerous phase of complacency? After periods of volatility, markets often drift into a false sense of ...
+
+📺 Benjamin Cowen
+
+👁️ 69K • 👍 4K • 💬 218 • ⏱️ 16:00 • 1d ago
 
 ---
 
