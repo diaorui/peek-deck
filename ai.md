@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-06T19:02:31.385422+00:00'
+updated: '2026-04-06T20:05:05.093725+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
 - news
 - videos
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 06, 2026 at 19:02 UTC  
+**Last Updated:** April 06, 2026 at 20:05 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Experiments show large majorities uncritically accepting "faulty" AI answers.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/) • 3h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/) • 4h ago
 
 ---
 
@@ -49,7 +49,7 @@ Experiments show large majorities uncritically accepting "faulty" AI answers.
 
 A company in eastern China is using an artificial intelligence-powered machine to sort clothes and boost recycling.
 
-🔗 [AP News](https://apnews.com/article/china-recycling-textiles-artificial-intelligence-863551cc54e88da6a7916894cb8980c4) • 7h ago
+🔗 [AP News](https://apnews.com/article/china-recycling-textiles-artificial-intelligence-863551cc54e88da6a7916894cb8980c4) • 8h ago
 
 ---
 
@@ -57,7 +57,7 @@ A company in eastern China is using an artificial intelligence-powered machine t
 
 I want to be honest about something that happened to me because I think it is more common than people admit. Last month I hit a bug in a service I wrote myself two years ago. Network timeout issue, intermittent, only in prod. The kind of thing I used to be able to sit with for an hour and work through methodically. I opened Claude, described the symptom, got a hypothesis, followed it, hit a dead end, fed that back, got another hypothesis. Forty minutes later I had not found the bug. I had just been following suggestions. At some point I closed the chat and tried to work through it myself. And I realized I had forgotten how to just sit with a problem. My instinct was to describe it to something else and wait for a direction. The internal monologue that used to generate hypotheses, that voice that says maybe check the connection pool, maybe it is a timeout on the load balancer side, maybe there is a retry storm. That voice was quieter than it used to be. I found the bug eventually. It took me longer without AI than it would have taken me three years ago without AI. I am not saying the tools are bad. I use them every day and they make me faster on most things. But there is something specific happening to the part of the brain that generates hypotheses under uncertainty. That muscle atrophies if you do not use it. The analogy I keep coming back to is GPS. You can navigate anywhere with GPS. But if you use it for five years and then lose signal, you do not just lack information. You lack the mental map that you would have built if you had been navigating manually. The skill and the mental model degrade together. I am 11 years into this career. I started noticing this in myself. I wonder how it looks for someone who started using AI tools in their first year. Has anyone else noticed this? Not the productivity gains, we all know those. The quieter thing underneath.
 
-22h ago
+23h ago
 
 ---
 
@@ -65,7 +65,15 @@ I want to be honest about something that happened to me because I think it is mo
 
 I’ve been tracking the companies building primitives specifically for agents rather than humans. The pattern is becoming obvious: every capability a human employee takes for granted is getting rebuilt as an API. Here are some of the companies building for AI agents: AgentMail — agents can have email accounts AgentPhone — agents can have phone numbers Kapso — agents can have WhatsApp numbers Daytona / E2B — agents can have their own computers monid.ai — agents can read social media (X, TikTok, Reddit, LinkedIn, Amazon, Facebook) Browserbase / Browser Use / Hyperbrowser — agents can use web browsers Firecrawl — agents can crawl the web without a browser Mem0 — agents can remember things Kite / Sponge — agents can pay for things Composio — agents can use your SaaS tools Orthogonal — agents can access APIs more easily ElevenLabs / Vapi — agents can have a voice Sixtyfour — agents can search for people and companies Exa — agents can search the web (Google isn’t built for agents) What’s interesting is how quickly this came together. Not long ago, none of this really existed in a usable form. Now you can piece together an agent with identity, memory, communication, and spending in a single afternoon. Feels less like “AI tools” and more like the early version of an agent-native infrastructure stack. Curious if anyone here is actually building on top of this. What are you using? Also probably missing a bunch - drop anything I should add and I’ll keep this updated.
 
-19h ago
+20h ago
+
+---
+
+**[AI dolls offer companionship to the elderly](https://www.reddit.com/r/artificial/comments/1se9kb9/ai_dolls_offer_companionship_to_the_elderly/)**
+
+South Korea’s strained social care system turns to ChatGPT-enabled devices as population ages
+
+🔗 [ft.com](http://ft.com/content/88911383-2a17-42e1-aef4-36daac1bd9dd?segmentid=c50c86e4-586b-23ea-1ac1-7601c9c2476f) • 11m ago
 
 ---
 
@@ -73,7 +81,7 @@ I’ve been tracking the companies building primitives specifically for agents r
 
 Aura: https://github.com/youngbryan97/aura Aura is not a chatbot with personality prompts. It is a complete cognitive architecture — 60+ interconnected modules forming a unified consciousness stack that runs continuously, maintains internal state between conversations, and exhibits genuine self-modeling, prediction, and affective dynamics. The system implements real algorithms from computational consciousness research, not metaphorical labels on arbitrary values. Key differentiators: Genuine IIT 4.0: Computes actual integrated information (φ) via transition probability matrices, exhaustive bipartition search, and KL-divergence — the real mathematical formalism, not a proxy Closed-loop affective steering: Substrate state modulates LLM inference at the residual stream level (not text injection), creating bidirectional causal coupling between internal state and language generation
 
-2h ago
+3h ago
 
 ---
 
@@ -89,31 +97,23 @@ Everyone thinks McKinsey just built 25,000 AI experts. They didn't. They took a 
 
 Physical AI is emerging as one of the next major industrial battlegrounds, with Japan’s push driven more by necessity than anything else. With workforces shrinking and pressure mounting to sustain productivity, companies are increasingly deploying AI-powered robots across factories, warehouses, and critical infrastructure.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/) • 6h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/) • 7h ago
 
 ---
 
-**[a fun survey to look at how consumers perceive the use of AI in fashion brand marketing. (all ages, all genders)](https://www.reddit.com/r/artificial/comments/1se2oju/a_fun_survey_to_look_at_how_consumers_perceive/)**
+**[I turned ARC-AGI-3 into a daily browser game.](https://www.reddit.com/r/artificial/comments/1se9nad/i_turned_arcagi3_into_a_daily_browser_game/)**
 
-Hi r/artificial ! I'm posting on behalf of a friend who is conducting academic research for their dissertation. The survey looks at how consumers perceive the use of AI in fashion brand marketing, and how that affects brand trust, authenticity and purchase intention. It covers things like: •⁠ ⁠AI-generated ads and models •⁠ ⁠Personalised product recommendations •⁠ ⁠Targeted advertising •⁠ ⁠Virtual influencers The survey takes approximately 12–15 minutes and is completely anonymous. All responses are used for academic purposes only. 🔗 https://forms.gle/TEqaViDtmCndq5keA(USE CODE 1) Your perspective is genuinely valuable, thank you in advance. Since it is also a generational comparison, any participation from your family members is also hugely appreciated. Feel free to drop any questions below!
+A daily puzzle game with no rules and no instructions. Built on ARC-AGI-3, the benchmark AI can't solve (yet).
 
-3h ago
-
----
-
-**[Opinions on Google’s search AI? Best practices?](https://www.reddit.com/r/artificial/comments/1sdt5jn/opinions_on_googles_search_ai_best_practices/)**
-
-Hello! I tend to use it often and I find it to have valid information when it comes to linguistic or computer related summaries, though it does require a play of words at times. I’m wondering what this Google search AI is good at, what it’s bad at, your opinions on it (especially for learning various topics or getting information, any subject you think it’s good or bad at). What are your opinions for using it for political information? How are your best practices in verifying the validity of the information?? Literally, anything you have to say about it, yap about it in the comments. I use it all the time and it’s the only AI I use explicitly (usually after making a google search and it showing up at the top of my screen every time), besides some of the advanced (non image creation AI) AI parts of Photoshop, such as removing backgrounds. Or any better alternatives out there, or opinions on other AI platforms (free ones mostly), thanks!
-
-10h ago
+🔗 [arcaptcha.io](https://arcaptcha.io/) • 8m ago
 
 ---
 
-**[Vazou claude! Lançou open claude, e agora?](https://www.reddit.com/r/artificial/comments/1se620d/vazou_claude_lançou_open_claude_e_agora/)**
+**[Claude Opus 4.6 API at 40% below Anthropic pricing – try free before you pay anything](https://www.reddit.com/r/artificial/comments/1se9bpt/claude_opus_46_api_at_40_below_anthropic_pricing/)**
 
-Recentemente vazou o respositório do claude e fizeram o open claude. Porém pelo que entendi parece ser só a CLI, isso ajuda em quê? quem faz o trabalho pesado não são os modelos? ( exemplo claude sonnet 4.5) Tem algum benefício específico em usar a CLI do claude em compensação as outras como github copilot CLI, Gemini CLI? Repositório do Open Claude: https://github.com/Gitlawb/openclaude
+Hey everyone 👋 I've set up a self-hosted API gateway using New-API to manage and distribute Claude Opus 4.6 access across multiple users. I have more capacity than I personally need, so I'm opening it up to a handful of people at 40% below official Anthropic pricing. What you get: Claude Opus 4.6 — full model, zero degradation Usage-based billing — pay only for what you consume Your own API key via the dashboard No subscription, no minimum spend, no lock-in Especially useful if you use Claude Code — just point it to a cheaper base URL and you're saving 40% on every token without changing your workflow. Why 40% off? Not running this as a business. I have spare capacity, want to offset infrastructure costs, and if people get cheaper Opus access along the way — everyone wins. Free $5 credits just for signing up — no DM needed: Register here → xstream.site/register Your $5 trial credits are automatically added on signup. Full setup guide → xstream.site/setup Swap your API base URL, drop in your key — you're running in under 5 minutes. Test the speed and quality yourself. If it works, top up and keep going. If not, no pressure. Slots are limited since this is a personal setup, not a startup. Once capacity fills up I'll stop accepting new users. Drop a comment if you have questions — happy to help.
 
-1h ago
+20m ago
 
 ---
 
@@ -123,7 +123,7 @@ Recentemente vazou o respositório do claude e fizeram o open claude. Porém pel
 
 **[The Big Bang: A.I. Has Created a Code Overload](https://www.nytimes.com/2026/04/06/technology/ai-code-overload.html)**
 
-The New York Times • 2h ago
+The New York Times • 3h ago
 
 ---
 
@@ -131,7 +131,15 @@ The New York Times • 2h ago
 
 The AI agent sparked a frenzy of "raising lobsters" in March, with users training the tool to suit their needs.
 
-BBC • 20h ago
+BBC • 21h ago
+
+---
+
+**[Michigan Matters: Dissecting AI opportunities and civility in politics](https://www.cbsnews.com/detroit/news/michigan-matters-dissecting-ai-opportunities-and-civility-in-politics/)**
+
+The roundtable discusses the dramatic impact AI is having in the classroom, at companies and inside homes.
+
+CBS News • 20m ago
 
 ---
 
@@ -139,23 +147,21 @@ BBC • 20h ago
 
 Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow.
 
-TechCrunch • 7m ago
+TechCrunch • 1h ago
 
 ---
 
-**[Startup CEO says he's proud his 4-person team racked up a $113,000 monthly AI bill](https://www.businessinsider.com/startup-ceo-monthly-ai-bill-anthropic-swan-2026-4)**
+**[Microsoft TOS: Copilot is for 'entertainment purposes only,' not 'important advice'](https://mashable.com/article/microsoft-tos-copilot-is-for-entertainment-purposes-only)**
 
-Swan AI's CEO says his 4-person startup spent $113,000 on AI in one month. He's "never been more proud."
+The company has baked its AI assistant into everything from Word to Windows, but it's apparently only for fun.
 
-Business Insider • 14m ago
+mashable.com • 54m ago
 
 ---
 
-**[IBM, Arm Target Enterprise AI With Mixed-Architecture Approach](https://www.datacenterknowledge.com/data-center-chips/ibm-arm-target-enterprise-ai-with-mixed-architecture-approach)**
+**[The AI agent buffet is closed](https://www.axios.com/2026/04/06/anthropic-openclaw-subscription-openai)**
 
-Partnership brings Arm-based workloads into IBM systems, expanding how AI runs in regulated environments
-
-Data Center Knowledge • 1h ago
+Axios • 9h ago
 
 ---
 
@@ -163,33 +169,27 @@ Data Center Knowledge • 1h ago
 
 JPMorgan CEO Jamie Dimon in his annual letter to shareholders noted the country's 250th anniversary and called for a broad recommitment to American ideals.
 
-CNBC • 9h ago
+CNBC • 10h ago
 
 ---
 
-**[Behind the Curtain: Sam's superintelligence New Deal](https://www.axios.com/2026/04/06/behind-the-curtain-sams-superintelligence-new-deal)**
+**[Oracle’s Massive 30,000 Layoff As AI Spending Surges](https://www.forbes.com/sites/jonmarkman/2026/04/06/oracles-massive-30000-layoff-as-ai-spending-surges/)**
 
-Axios • 8h ago
-
----
-
-**[OpenAI releases policy proposals aimed at addressing fallout from AI-driven job losses](https://finance.yahoo.com/sectors/technology/article/openai-releases-policy-proposals-aimed-at-addressing-fallout-from-ai-driven-job-losses-160912303.html)**
-
-OpenAI has laid out a series of policy proposals meant to address fears about AI-driven job losses.
-
-Yahoo Finance • 2h ago
+Forbes • 5h ago
 
 ---
 
-**[OpenAI’s Altman releases blueprint for taxing, regulating artificial intelligence](https://thehill.com/policy/technology/5817906-openai-ai-policy-recommendations/)**
+**[Brands Adopt ‘No AI’ Disclaimers to Stand Out Amid the Slop](https://www.wsj.com/cmo-today/brands-adopt-no-ai-disclaimers-to-stand-out-amid-the-slop-a92352af?gaa_at=eafs&gaa_n=AWEtsqfjMwU4WQ5ly1XCktBtKRRW-P7knqsDFOQwneI1ohbLwmj4z3DE3Q0q&gaa_ts=69d4155a&gaa_sig=mx2v8wLRSTdGARHIT-nPUtFJBLnKqhG9uzbyNF1xU_rpOMDF5rVwNzwnWIPyCD9fKD5-v_XEG03IO7mNt6cqZw%3D%3D)**
 
-The Hill • 3h ago
+WSJ • 10h ago
 
 ---
 
-**[Brands Adopt ‘No AI’ Disclaimers to Stand Out Amid the Slop](https://www.wsj.com/cmo-today/brands-adopt-no-ai-disclaimers-to-stand-out-amid-the-slop-a92352af?gaa_at=eafs&gaa_n=AWEtsqeWqIQh90JYyPxSwJifw36Fl0MfykTfFrTDAYyXtF4i0RC_j77nPbAR&gaa_ts=69d406a8&gaa_sig=KHyUJP2D9aCrsKNzII5SWJ2s5hcTCdPTxqx727G7eVI9658bM4-X_LpagLY3i5ayM0-lgkGAQqH7i_dEMpoIUw%3D%3D)**
+**[UnitedHealth Group is making a $3 billion bet on AI. What does it mean for patients?](https://www.statnews.com/2026/04/06/unitedhealth-group-massive-artificial-intelligence-push-patient-implications/)**
 
-WSJ • 9h ago
+UnitedHealth Group is rapidly deploying artificial intelligence tools across its operations. What does it mean for patients?
+
+statnews.com • 11h ago
 
 ---
 
@@ -204,7 +204,7 @@ A couple of weeks ago, after ~250 hours of effort over three months3 on evenings
 Of course, there’s no shortage of posts claiming that AI one-shot their project or pushing back and declaring that AI is all slop. I’m going to take a very different approach and, instead, systematically break down my experience building syntaqlite with AI, both where it helped and where it was detrimental.
 I’ll do this while contextualizing the project and my background so you can independently assess how generalizable this experience was. And whenever I make a claim, I’ll try to back it up with evidence from my project journal, coding transcripts, or commit history5.
 
-⬆️ 889 • 💬 279 • 1d ago • [Lalit Maganti](https://lalitm.com/post/building-syntaqlite-ai/)
+⬆️ 901 • 💬 281 • 1d ago • [Lalit Maganti](https://lalitm.com/post/building-syntaqlite-ai/)
 
 ---
 
@@ -212,7 +212,7 @@ I’ll do this while contextualizing the project and my background so you can in
 
 On-device, real-time multimodal AI. Have natural voice and vision conversations with an AI that runs entirely on your machine. Powered by Gemma 4 E2B and Kokoro. - fikrikarim/parlor
 
-⬆️ 229 • 💬 26 • 1d ago • [GitHub](https://github.com/fikrikarim/parlor)
+⬆️ 243 • 💬 26 • 1d ago • [GitHub](https://github.com/fikrikarim/parlor)
 
 ---
 
@@ -224,7 +224,7 @@ Complete all topics from Todo.md including SQL functions, configuration guides,
 troubleshooting runbooks, architecture comparisons, SDK tutorials, and operator
 deployment pattern...
 
-⬆️ 155 • 💬 148 • 2d ago • [GitHub](https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849)
+⬆️ 155 • 💬 147 • 2d ago • [GitHub](https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849)
 
 ---
 
@@ -232,13 +232,21 @@ deployment pattern...
 
 Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU — no API keys, no cloud, no data leaving your machine. - kessler/gemma-gem
 
-⬆️ 138 • 💬 19 • 18h ago • [GitHub](https://github.com/kessler/gemma-gem)
+⬆️ 139 • 💬 19 • 19h ago • [GitHub](https://github.com/kessler/gemma-gem)
+
+---
+
+**[Launch HN: Freestyle: Sandboxes for AI Coding Agents](https://news.ycombinator.com/item?id=47663147)**
+
+Git, VMs, deployments, and execution — unified infrastructure for code you didn't write.
+
+⬆️ 121 • 💬 65 • 3h ago • [Freestyle](https://www.freestyle.sh)
 
 ---
 
 **[Musician says AI company is cloning her music, filing claims against her](https://news.ycombinator.com/item?id=47653471)**
 
-⬆️ 115 • 💬 19 • 22h ago • [X (formerly Twitter)](https://twitter.com/unlimited_ls/status/2040577536136974444)
+⬆️ 115 • 💬 19 • 23h ago • [X (formerly Twitter)](https://twitter.com/unlimited_ls/status/2040577536136974444)
 
 ---
 
@@ -261,14 +269,6 @@ Experiments show large majorities uncritically accepting "faulty" AI answers.
 AI-powered travel hacking with points, miles, and award flights. Drop-in skills and MCP servers for OpenCode and Claude Code. - borski/travel-hacking-toolkit
 
 ⬆️ 95 • 💬 41 • 2d ago • [GitHub](https://github.com/borski/travel-hacking-toolkit)
-
----
-
-**[Launch HN: Freestyle: Sandboxes for AI Coding Agents](https://news.ycombinator.com/item?id=47663147)**
-
-Git, VMs, deployments, and execution — unified infrastructure for code you didn't write.
-
-⬆️ 91 • 💬 49 • 2h ago • [Freestyle](https://www.freestyle.sh)
 
 ---
 
@@ -298,7 +298,7 @@ The world wasn't ready for what 2026 had in store — a wave of humanoid robots 
 
 📺 The AI Nexus
 
-👁️ 4K • 👍 172 • 💬 5 • ⏱️ 16:42 • 19h ago
+👁️ 4K • 👍 172 • 💬 5 • ⏱️ 16:42 • 20h ago
 
 ---
 
@@ -308,7 +308,7 @@ Apple's latest paper details a two-step self-distillation method for LLM trainin
 
 📺 AIM Network
 
-👁️ 2K • 👍 62 • 💬 5 • ⏱️ 2:48 • 5h ago
+👁️ 2K • 👍 62 • 💬 5 • ⏱️ 2:48 • 6h ago
 
 ---
 
@@ -318,7 +318,7 @@ Best AI Agent Tool is Base44 https://base44.pxf.io/c/6440076/3820726/25619?trafc
 
 📺 Mikey No Code
 
-👁️ 9K • ⏱️ 40:05 • 4h ago
+👁️ 9K • ⏱️ 40:05 • 5h ago
 
 ---
 
@@ -328,7 +328,7 @@ I Gave Claude AI Full Access to 1500 TradingView Scalping Strategies… The Resu
 
 📺 Trading with DaviddTech
 
-👁️ 3K • 👍 233 • 💬 141 • ⏱️ 17:23 • 6h ago
+👁️ 3K • 👍 233 • 💬 141 • ⏱️ 17:23 • 7h ago
 
 ---
 
@@ -338,7 +338,7 @@ Join our WhatsApp Community Get the latest AI updates, tips, and insights straig
 
 📺 Vaibhav Sisinty
 
-👁️ 21K • 👍 2K • 💬 61 • ⏱️ 16:04 • 3h ago
+👁️ 21K • 👍 2K • 💬 61 • ⏱️ 16:04 • 4h ago
 
 ---
 
@@ -348,7 +348,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
 
 📺 Julian Goldie SEO
 
-👁️ 6K • 👍 211 • 💬 10 • ⏱️ 7:48 • 12h ago
+👁️ 6K • 👍 211 • 💬 10 • ⏱️ 7:48 • 13h ago
 
 ---
 
@@ -358,7 +358,7 @@ Description Transform your business with AI: https://salesdone.ai We help entrep
 
 📺 Nick Puru | AI Automation
 
-👁️ 711 • 👍 49 • 💬 7 • ⏱️ 14:43 • 3h ago
+👁️ 711 • 👍 49 • 💬 7 • ⏱️ 14:43 • 4h ago
 
 ---
 
@@ -366,7 +366,7 @@ Description Transform your business with AI: https://salesdone.ai We help entrep
 
 📺 Don Lemon
 
-👁️ 211K • 👍 16K • 💬 474 • ⏱️ 1:00 • 20h ago
+👁️ 211K • 👍 16K • 💬 474 • ⏱️ 1:00 • 21h ago
 
 ---
 
@@ -376,7 +376,7 @@ You're absolutely right, jail does sound pretty awful! https://x.com/atmoio/stat
 
 📺 Mo Bitar
 
-👁️ 47K • 👍 4K • 💬 750 • ⏱️ 5:39 • 7h ago
+👁️ 47K • 👍 4K • 💬 750 • ⏱️ 5:39 • 8h ago
 
 ---
 
@@ -404,7 +404,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 548,344 • ❤️ 2,386 • 16h ago
+⬇️ 548,344 • ❤️ 2,386 • 17h ago
 
 ---
 
@@ -428,7 +428,7 @@ Bonsai-8B-GGUF is a highly compressed 1-bit language model (1.15 GB) optimized f
 
 `text-generation` `8.2B`
 
-⬇️ 45,185 • ❤️ 461 • 11h ago
+⬇️ 45,185 • ❤️ 461 • 12h ago
 
 ---
 
@@ -452,7 +452,7 @@ VOID is a video-to-video diffusion model for object and interaction removal, cap
 
 `video-to-video`
 
-⬇️ 0 • ❤️ 437 • 1h ago
+⬇️ 0 • ❤️ 437 • 2h ago
 
 ---
 
@@ -554,7 +554,7 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 VOID is a video object removal framework that uses vision-language models and video diffusion models to generate physically plausible scenes by leveraging causal reasoning and counterfactual reasoning.
 
-▲ 33 • 💬 5 • ⭐ 783 • 4d ago
+▲ 33 • 💬 5 • ⭐ 783 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.02296) • [💻 code](https://github.com/Netflix/void-model) • [🔗 project](https://void-model.github.io/)
 
@@ -608,7 +608,7 @@ The AI Scientist-v2 autonomously proposes hypotheses, performs experiments, anal
 
 A large-scale dynamic dataset derived from AAA games is introduced to improve generative inverse and forward rendering, featuring high-resolution synchronized RGB and G-buffer data alongside a novel VLM-based evaluation method that correlates well with human judgment.
 
-▲ 88 • 💬 4 • ⭐ 373 • 4d ago
+▲ 88 • 💬 4 • ⭐ 373 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.02329) • [💻 code](https://github.com/ShandaAI/AlayaRenderer) • [🔗 project](https://alaya-studio.github.io/renderer)
 
@@ -661,7 +661,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 13.6k • 🔱 1.2k • 1h ago
+⭐ 13.6k • 🔱 1.2k • 2h ago
 
 ---
 
@@ -671,7 +671,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `Go` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 9.6k • 🔱 1.7k • 38m ago
+⭐ 9.6k • 🔱 1.7k • 1h ago
 
 ---
 
@@ -701,7 +701,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 6.8k • 🔱 401 • 6h ago
+⭐ 6.8k • 🔱 401 • 7h ago
 
 ---
 
@@ -731,7 +731,7 @@ A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or 
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 3.6k • 🔱 108 • 43m ago
+⭐ 3.6k • 🔱 108 • 1h ago
 
 ---
 
@@ -741,7 +741,7 @@ Autonomous novel writing CLI AI Agent — agents write, audit, and revise novels
 
 `TypeScript` `agent` `ai` `ai-agent` `ai-novel` `ai-writing`
 
-⭐ 3.6k • 🔱 660 • 3h ago
+⭐ 3.6k • 🔱 660 • 4h ago
 
 ---
 

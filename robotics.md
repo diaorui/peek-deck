@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-06T19:02:31.401254+00:00'
+updated: '2026-04-06T20:05:05.111197+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 06, 2026 at 19:02 UTC  
+**Last Updated:** April 06, 2026 at 20:05 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Tesollo DG-5F-S lightweight robotic hand built for humanoid integration](https://www.reddit.com/r/robotics/comments/1se4j5s/tesollo_dg5fs_lightweight_robotic_hand_built_for/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Very first proof of concept. This is going to be fun. It's still a bit slow to progress, I need to optimize a few things. But it gets the idea. Llm writes a few lines of javascript to create the motion and executes it.
 
-4h ago
+5h ago
 
 ---
 
@@ -50,7 +50,7 @@ Very first proof of concept. This is going to be fun. It's still a bit slow to p
 
 Most robotics coverage nowadays is focusing on industrial automation or consumer novelty, but this also caught my attention: Singapore's Gardens by the Bay is rolling out a free-to-rent robotic guide dog (built by the Singapore-based firm RoamAssist) for visually impaired visitors in its Flower Dome from Q3 2026. The robot and system are pre-programmed with a full tour route, provide real-time audio guidance on plant exhibits, and are designed for independent navigation with no human escort. They're pairing it with an online sensory map for autistic visitors launching in June. It's not "Boston Dynamics" level of attention but it's a interesting attempt at real-world deployment of "assistant" robotics in a public space. Curious what people here think Article - https://www.straitstimes.com/singapore/gardens-by-the-bay-to-offer-robot-guide-dog-online-sensory-map-for-visitors-with-disabilities
 
-4h ago
+5h ago
 
 ---
 
@@ -58,7 +58,7 @@ Most robotics coverage nowadays is focusing on industrial automation or consumer
 
 I've been working on a robot dog and wanted to show off my progress. I have a single leg working pretty well now. 3 legs to go! Made with: Motor: Eaglepower 8308 Gearbox: 15:1 Cycloidal that I designed and 3d printed Microcontroller: Teensy 4.1 + CAN bus Motor Controllers: ODrive 3.6 Clone boards from Aliexpress Battery: Ryobi 40v Everything else: bearings, bolts, and printed parts from a Bambu P1S This is a labor of love. My regular day job is a software developer/manager. Mostly focused on learning fast and keeping costs down. I'm having so much fun learning and building this stuff
 
-4h ago
+5h ago
 
 ---
 
@@ -66,7 +66,7 @@ I've been working on a robot dog and wanted to show off my progress. I have a si
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=1jpHzqQYSXU) • 14h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=1jpHzqQYSXU) • 15h ago
 
 ---
 
@@ -80,13 +80,13 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 I’m joining BTech (not IIT/NIT) and want to build a career in robotics. I’ve explored basics of electronics, coding, and mechanical integration, so I’m sure about robotics. I was planning to take Mechatronics, but I also want to prepare for GATE and do Masters from a good college. Since there’s no separate Mechatronics paper in GATE, I’m worried it might limit my options. Branches I’m considering: Mechatronics CSE ECE EE My goals: Career in Robotics 🤖 Prepare for GATE Keep flexibility for Masters in Robotics/Automation Which branch would be the safest and best path toward robotics via GATE?
 
-50m ago
+1h ago
 
 ---
 
 **[Rodney Brooks: We won't see AGI for 300 years](https://www.reddit.com/r/robotics/comments/1se6glu/rodney_brooks_we_wont_see_agi_for_300_years/)**
 
-58m ago
+2h ago
 
 ---
 
@@ -94,15 +94,13 @@ I’m joining BTech (not IIT/NIT) and want to build a career in robotics. I’ve
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/_NVhD5L7K5k) • 5h ago
+🔗 [youtu.be](https://youtu.be/_NVhD5L7K5k) • 6h ago
 
 ---
 
-**[Help me with me robot-concept please!](https://www.reddit.com/r/robotics/comments/1sd2b1t/help_me_with_me_robotconcept_please/)**
+**[Polka: A unified efficient node for your pointcloud pre-processing](https://www.reddit.com/r/robotics/comments/1sdo3ek/polka_a_unified_efficient_node_for_your/)**
 
-For a cosplay competition performance, I came up with the idea of creating a companion. In Elden Ring, there are these living jars, and I think it’s a pretty great option for a cute side character in our cosplay. I want to turn one into a robot that can move quickly, move its arms, and play pre-recorded voice lines. The only problem is: I have no idea how to design the legs so that the robot can actually keep up with us while we walk at a normal pace. Especially since the original model has these awkward “chicken legs” (see photo 2), which really limits the possible options. So far, the only idea I’ve come up with is to put it on something like a wheelchair base. That would make movement much easier to implement, and we could even turn it into a joke as part of the performance. Does anyone have ideas on how to make a robot like this move fast enough to follow people?
-
-1d ago
+16h ago
 
 ---
 
@@ -122,7 +120,23 @@ Euronews.com • 1d ago
 
 Funding data and leasing activity show that companies using the groundbreaking tech on the physical world are having their moment.
 
-The San Francisco Standard • 6h ago
+The San Francisco Standard • 7h ago
+
+---
+
+**[Robotics team puts skills on display](https://www.tribtoday.com/news/local-news/2026/04/robotics-team-puts-skills-on-display/)**
+
+NILES — While the Easter Bunny was nearby greeting young children, local high school students gathered this weekend inside the ...
+
+tribtoday.com • 13h ago
+
+---
+
+**[Robotic guards now man data centers. Is your personal security at risk?](https://3dvf.com/en/robotic-guards-now-man-data-centers-is-your-personal-security-at-risk/)**
+
+They don't blink, don't take breaks, and can hear trouble before humans do. But when the night watch has four legs and cameras, who is safer and who is more exposed?
+
+3DVF • 4h ago
 
 ---
 
@@ -132,33 +146,11 @@ Adafruit • 1d ago
 
 ---
 
-**[Paola robotics wins prestigious award, earns chance at world title in Houston](https://www.kshb.com/news/local-news/kansas/miami-county/paola-robotics-wins-prestigious-award-earns-chance-at-world-title-in-houston)**
-
-A group of Paola High School students is taking their engineering talents and displaying them on a world stage. The team is currently ranked #1 in the state of Kansas.
-
-KSHB 41 Kansas City • 19h ago
-
----
-
 **[A Chinese robotics startup with a Tesla Optimus rival is seeking a new chief scientist with an $18 million salary](https://www.businessinsider.com/chinese-robotics-startup-tesla-rival-18-million-salary-chief-scientist-2026-4)**
 
 The race for AI and robotics talent is heating up and getting expensive.
 
-Business Insider • 8h ago
-
----
-
-**[Robotics team puts skills on display](https://www.tribtoday.com/news/local-news/2026/04/robotics-team-puts-skills-on-display/)**
-
-NILES — While the Easter Bunny was nearby greeting young children, local high school students gathered this weekend inside the ...
-
-tribtoday.com • 12h ago
-
----
-
-**[Indiana researchers study the potential of AI-powered health care](https://www.axios.com/local/indianapolis/2026/04/06/experts-examine-the-potential-of-ai-powered-medical-care-in-indianapolis)**
-
-Axios • 7h ago
+Business Insider • 9h ago
 
 ---
 
@@ -166,7 +158,7 @@ Axios • 7h ago
 
 This National Robotics Week, NVIDIA is highlighting the breakthroughs that are bringing AI into the physical world.
 
-NVIDIA Blog • 2d ago
+blogs.nvidia.com • 2d ago
 
 ---
 
@@ -174,15 +166,21 @@ NVIDIA Blog • 2d ago
 
 Spacesuit work and eye checks wrapped up the week for the Expedition 74 crew aboard the International Space Station. The orbital residents also focused on robotics, cargo transfers, and science hardware maintenance at the end of the week.
 
-NASA (.gov) • 2d ago
+nasa.gov • 2d ago
 
 ---
 
-**[How Gen AI Robots Are Reshaping Services](https://hbr.org/2026/05/how-gen-ai-robots-are-reshaping-services)**
+**[Indiana researchers study the potential of AI-powered health care](https://www.axios.com/local/indianapolis/2026/04/06/experts-examine-the-potential-of-ai-powered-medical-care-in-indianapolis)**
 
-By incorporating generative AI, robots are evolving from scripted machines to adaptive systems that interpret context, learn from demonstrations, and adjust their behaviors in real time. Advances in large language models and related technologies are helping robots deliver consistent, personalized outcomes at scale. Autonomous vehicles and humanoid factory assistants have shown that robots can handle complex instructions and collaborate with people in physical environments. But to successfully deploy gen-AI-powered robots, companies must choose use cases tied to real labor constraints, design interactions that feel natural, position robots as partners to—rather than replacements for—employees, match robots’ capabilities to task variability, and define success metrics. Privacy, transparency, and safety must also remain priorities as robots gather data and influence decisions.
+Axios • 8h ago
 
-Harvard Business Review • 2h ago
+---
+
+**[Paola robotics wins prestigious award, earns chance at world title in Houston](https://www.kshb.com/news/local-news/kansas/miami-county/paola-robotics-wins-prestigious-award-earns-chance-at-world-title-in-houston)**
+
+A group of Paola High School students is taking their engineering talents and displaying them on a world stage. The team is currently ranked #1 in the state of Kansas.
+
+KSHB 41 Kansas City • 20h ago
 
 ---
 
@@ -196,7 +194,7 @@ The world wasn't ready for what 2026 had in store — a wave of humanoid robots 
 
 📺 The AI Nexus
 
-👁️ 4K • 👍 172 • 💬 5 • ⏱️ 16:42 • 19h ago
+👁️ 4K • 👍 172 • 💬 5 • ⏱️ 16:42 • 20h ago
 
 ---
 
@@ -256,7 +254,7 @@ Automatic Smart Dustbin #arduinouno #sciencproject #arduinoprojects #robot #robo
 
 📺 EAZYTRONIC
 
-👁️ 4K • 👍 34 • ⏱️ 0:04 • 6h ago
+👁️ 4K • 👍 34 • ⏱️ 0:04 • 7h ago
 
 ---
 
@@ -266,7 +264,7 @@ They turned on this salon robot... and people lost their minds.
 
 📺 TechMirage
 
-👁️ 2.5M • 👍 26K • 💬 198 • ⏱️ 1:11 • 18h ago
+👁️ 2.5M • 👍 26K • 💬 198 • ⏱️ 1:11 • 19h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-06T19:02:31.393102+00:00'
+updated: '2026-04-06T20:05:05.102036+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - news
 - videos
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 06, 2026 at 19:02 UTC  
+**Last Updated:** April 06, 2026 at 20:05 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $69,825.84
+### $69,684.26
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +3.3%  
-**7d:** +2.3%  
-**30d:** +5.8%  
-**90d:** -23.6%  
-**1y:** -11.8%  
+**24h:** +3.1%  
+**7d:** +2.1%  
+**30d:** +5.6%  
+**90d:** -23.7%  
+**1y:** -12.0%  
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[It’s going to 🚀](https://www.reddit.com/r/Bitcoin/comments/1se4g7y/its_going_to/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Men only have two moods:](https://www.reddit.com/r/Bitcoin/comments/1sdz0lp/men_only_have_two_moods/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 While the world continues to trust systems that fail time and time again, a new alternative has emerged silent, unstoppable, and incorruptible. Bitcoin is not just technology. It’s not just money. It’s freedom. For the first time in history, a generation has the opportunity to truly own its wealth without intermediaries, without permission, without manipulation. We grew up watching crises unfold, inflation erode the value of our efforts, and rules change in the middle of the game. But now… we have a choice. Bitcoin is more than an asset, it’s a statement. A rejection of centralized control. A step toward individual sovereignty. There may be volatility. There may be doubts. But one thing is certain: The world is changing and Bitcoin is leading that change. Don’t trust, verify. 🧡
 
-4h ago
+5h ago
 
 ---
 
@@ -101,7 +101,15 @@ While the world continues to trust systems that fail time and time again, a new 
 
 Sadly, most of the hard working people still have no idea how the printer keeps stealing their money.
 
-6h ago
+7h ago
+
+---
+
+**[The continued case for bitcoin. Despite the volatility, BTC is still in play.](https://www.reddit.com/r/Bitcoin/comments/1se7hdp/the_continued_case_for_bitcoin_despite_the/)**
+
+Bitcoing is extremely volatile, having thoroughly tanked this year. And yet it is still your best long term store of value play. BTC value vs. Tradfi 2020-2026 Despite the 4-year peak trough cycles, BTC still MASSIVELY outperforms TradFi. And what does that mean to you? LONG TERM Store of Value: Median US home price 2020-2026 One day you'll buy a home with a fraction of your BTC. In fact, you'll easily collateralize your BTC to back the loan - no cap gains tax, lower rates. BTC may not be "money" (currency) yet, but it is a store of value particularly against fiat currencies, as these two charts quickly demonstrate. What are you doing relative to BTC, running for the hills? I'm dollar cost averaging.
+
+1h ago
 
 ---
 
@@ -109,7 +117,7 @@ Sadly, most of the hard working people still have no idea how the printer keeps 
 
 Curious how it started for all of us.
 
-39m ago
+1h ago
 
 ---
 
@@ -117,7 +125,7 @@ Curious how it started for all of us.
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-13h ago
+14h ago
 
 ---
 
@@ -131,17 +139,11 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 I am sat on some savings which I do not use and they gain minimal interest, I have been toying with the idea of investing for a while and I am wondering if It is too late to invest in btc or would now be an ideal time given the current dip? I was thinking about putting a chunk in now and then x amount every month indefinitely and somewhat forgetting about it, and hoping that in 30 years I will have accumulated a bit of profit from it to aid towards retirement. Would this be a wise idea, thinking long term?
 
-19h ago
+20h ago
 
 ---
 
 **[Besides Being Easter Sunday - Today is Also Satoshi Nakamoto's 51st Birthday - According To Satoshi's P2P Foundation Profile - Happy Birthday Satoshi! 🥳](https://www.reddit.com/r/Bitcoin/comments/1sd3e1m/besides_being_easter_sunday_today_is_also_satoshi/)**
-
-1d ago
-
----
-
-**[Could it really be that simple?](https://www.reddit.com/r/Bitcoin/comments/1scx8vs/could_it_really_be_that_simple/)**
 
 1d ago
 
@@ -153,7 +155,7 @@ I am sat on some savings which I do not use and they gain minimal interest, I ha
 
 **[Bitcoin Rebounds Near $70,000, Charles Schwab To Launch Direct Trading](https://www.investors.com/news/bitcoin-price-rebound-69k-charles-schwab-direct-trading/)**
 
-Investor's Business Daily • 6h ago
+investors.com • 7h ago
 
 ---
 
@@ -161,7 +163,7 @@ Investor's Business Daily • 6h ago
 
 The service will be unavailable in New York and Louisiana at launch, and fee structure and custody arrangements have not yet been disclosed.
 
-The Block • 1d ago
+theblock.co • 1d ago
 
 ---
 
@@ -173,59 +175,55 @@ Decrypt • 2d ago
 
 ---
 
-**[Bitcoin climbs above $70,000 as more contrarian bottoming signs emerge](https://www.coindesk.com/markets/2026/04/06/bitcoin-climbs-above-usd70-000-as-more-contrarian-bottoming-signs-emerge)**
+**[Michael Saylor's Strategy buys $330 million worth of bitcoin, stock rises](https://finance.yahoo.com/news/michael-saylors-strategy-buys-330-million-worth-of-bitcoin-stock-rises-153457420.html)**
 
-Sales of bitcoin by prominent holders and executive exits could give hope to the battered crypto sector.
+Strategy recorded a $14.5 billion unrealized loss in the first quarter as it continues to accumulate more bitcoin.
 
-CoinDesk • 2h ago
-
----
-
-**[BNY Mellon, Robinhood's Trump Accounts collab; Strategy buys more bitcoin](https://finance.yahoo.com/video/bny-mellon-robinhoods-trump-accounts-collab-strategy-buys-more-bitcoin-181824693.html)**
-
-Yahoo Finance Markets and Data Editor Jared Blikre tracks Monday's top moving stocks and biggest market stories.Strategy (MSTR) stock is rising after the company disclosed buying $330 million worth of bitcoin (BTC-USD).Bank of New York Mellon (BK) stock is in focus on the bank's partnership with Robinhood (HOOD) for the Trump Accounts program.
-
-Yahoo Finance • 44m ago
+Yahoo Finance • 4h ago
 
 ---
 
-**[The Wallet That Could End Lightning Onboarding Nightmares: SecondHQ’s Bark Is Here](https://bitcoinmagazine.com/business/secondhqs-bark-boasts-new-era-of-bitcoin-payments-drawing-in-former-blockstream-developers)**
+**[Strategy reports $14.5 billion unrealized loss on its bitcoin holdings for Q1 2026](https://www.theblock.co/post/396408/strategy-14-5-billion-unrealized-loss-bitcoin-holdings-q1-2026)**
 
-One app download and you’re sending Bitcoin lightning-fast with zero channel drama. Grubles left Blockstream to build Bark at SecondHQ — and early signet testers say it’s a game-changer.
+Strategy's on-paper bitcoin losses generated a $2.42 billion deferred tax asset, according to its latest 8-K filing.
 
-Bitcoin Magazine • 27m ago
-
----
-
-**[Strategy Bitcoin Bet Deepens With Preferred Equity Funding And Huge Unrealized Loss](https://finance.yahoo.com/markets/crypto/articles/strategy-bitcoin-bet-deepens-preferred-181035236.html)**
-
-Strategy Inc, NasdaqGS:MSTR, acquired nearly 4,900 Bitcoin for over US$330 million after a brief pause in purchases. The company used more than US$300 million from its STRC perpetual preferred equity funding to finance the transaction. Strategy disclosed an unrealized loss of US$14.5b in Q1 linked to its Bitcoin holdings and related capital approach. The company remains the largest corporate Bitcoin holder and is influencing sector funding structures. Strategy Inc, NasdaqGS:MSTR, operates...
-
-Yahoo Finance • 51m ago
+theblock.co • 5h ago
 
 ---
 
-**[Why the mind-bending physics of quantum computing is terrifying for bitcoin and crypto](https://www.coindesk.com/tech/2026/04/05/a-simple-explainer-on-what-quantum-computing-actually-is-and-why-it-is-terrifying-for-bitcoin)**
+**[Strategy Posts $14.5 Billion Unrealized Loss in First Quarter](https://www.bloomberg.com/news/articles/2026-04-06/strategy-posts-14-5-billion-unrealized-loss-in-first-quarter)**
 
-Most simplifies the complex process of quantum computing as "it can be 0 and 1 at the same time." That is not an explanation for why it threatens Bitcoin. This is.
-
-CoinDesk • 22h ago
+Bloomberg.com • 7h ago
 
 ---
 
-**[Bitcoin's $1.3 trillion security race: Key initiatives aimed at quantum-proofing the world's largest blockchain](https://www.coindesk.com/tech/2026/04/04/bitcoin-s-usd1-3-trillion-security-race-key-initiatives-aimed-at-quantum-proofing-the-world-s-largest-blockchain)**
+**[Bitcoin price analysis: BTC's 'stability' is a mirage, says Bitfinex](https://www.coindesk.com/markets/2026/04/06/bitcoin-options-market-is-quietly-pricing-a-major-downside-move)**
 
-Developers are considering ways to quantum-proof the world's oldest cryptocurrency as the threat of this computing moves beyond a hypothetical.
+Options data shows traders are bracing for a sharp bitcoin drop as weak demand and fragile positioning leave the market exposed to a break below key levels, a report from Bitfinex shows.
 
-CoinDesk • 1d ago
+CoinDesk • 41m ago
 
 ---
 
-**[A quantum threat to Bitcoin has some asking the unthinkable: Is it time to freeze old wallets belonging to Satoshi Nakamoto?](https://finance.yahoo.com/markets/crypto/articles/quantum-threat-bitcoin-asking-unthinkable-114215047.html)**
+**[Bitcoin Tops $70,000 as Traders Unwind Bets Amid War Tensions](https://www.bloomberg.com/news/articles/2026-04-06/bitcoin-tops-70-000-as-traders-unwind-bets-amid-war-tensions)**
+
+Bloomberg.com • 16m ago
+
+---
+
+**[What Bitcoin Price Really Tells You About the Market](https://www.citizen-times.com/story/special/contributor-content/2026/04/06/what-bitcoin-price-really-tells-you-about-the-market/89489135007/)**
+
+Bitcoin doesn’t move randomly. You see things that seem random, but patterns, behaviors, and external factors all affect them.
+
+The Asheville Citizen Times • 15m ago
+
+---
+
+**[A quantum threat to Bitcoin has some asking the unthinkable](https://fortune.com/crypto/2026/04/06/quantum-computing-satoshi-nakamoto-bitcoin-freeze-wallets/)**
 
 A hacker with quantum tools could crack open old Bitcoin wallets and flood the market as soon as 2029.
 
-Yahoo Finance • 7h ago
+Fortune • 8h ago
 
 ---
 
@@ -295,7 +293,7 @@ The first signing system where the private key is a physical key — and can sti
 
 Test your prediction skills against historical data. Draw your forecast and see how you rank.
 
-⬆️ 2 • 💬 0 • 3d ago • [longmarkets.app](https://longmarkets.app/rewinds/rewind-bitcoin-2017)
+⬆️ 2 • 💬 0 • 4d ago • [longmarkets.app](https://longmarkets.app/rewinds/rewind-bitcoin-2017)
 
 ---
 
@@ -325,7 +323,7 @@ Bitcoin #Crypto #Finance Bitcoin uncertainty is rising fast as global instabilit
 
 📺 The Wolf Of All Streets
 
-👁️ 11K • 👍 818 • 💬 183 • ⏱️ 1:05:40 • 4h ago
+👁️ 11K • 👍 818 • 💬 183 • ⏱️ 1:05:40 • 5h ago
 
 ---
 
@@ -335,7 +333,7 @@ This is huge for crypto, bitcoin, ethereum and the rest of the markets!!!!! ----
 
 📺 Thomas Kralow
 
-👁️ 14K • 👍 3K • 💬 39 • ⏱️ 9:21 • 8h ago
+👁️ 14K • 👍 3K • 💬 39 • ⏱️ 9:21 • 9h ago
 
 ---
 
@@ -345,7 +343,7 @@ Could the oil crisis Break Bitcoin? Insider oil tracking just hit $173 a barrel 
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 2K • 💬 412 • ⏱️ 16:01 • 22h ago
+👁️ 22K • 👍 2K • 💬 412 • ⏱️ 16:01 • 23h ago
 
 ---
 
@@ -355,7 +353,7 @@ Bitcoin and Crypto markets are heating up, and new opportunities are starting to
 
 📺 Crypto Banter
 
-👁️ 9K • 👍 580 • 💬 32 • ⏱️ 7:43 • 9h ago
+👁️ 9K • 👍 580 • 💬 32 • ⏱️ 7:43 • 10h ago
 
 ---
 
@@ -365,7 +363,7 @@ Is Bitcoin entering a dangerous phase of complacency? After periods of volatilit
 
 📺 Benjamin Cowen
 
-👁️ 66K • 👍 4K • 💬 209 • ⏱️ 16:00 • 22h ago
+👁️ 66K • 👍 4K • 💬 209 • ⏱️ 16:00 • 23h ago
 
 ---
 
@@ -375,7 +373,7 @@ CHECK OUT UPTRADE! Sign up here ▻ https://uptrade.co/ref/fire-hustle TRADE ON 
 
 📺 FireHustle
 
-👁️ 8K • 👍 511 • 💬 69 • ⏱️ 10:15 • 20h ago
+👁️ 8K • 👍 511 • 💬 69 • ⏱️ 10:15 • 21h ago
 
 ---
 
@@ -385,7 +383,7 @@ Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bi
 
 📺 Tyler S
 
-👁️ 4K • 👍 394 • 💬 46 • ⏱️ 13:45 • 3h ago
+👁️ 4K • 👍 394 • 💬 46 • ⏱️ 13:45 • 4h ago
 
 ---
 
