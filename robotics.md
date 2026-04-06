@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-06T05:26:02.857136+00:00'
+updated: '2026-04-06T07:09:12.078819+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 06, 2026 at 05:26 UTC  
+**Last Updated:** April 06, 2026 at 07:09 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,23 +32,23 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Robot dog takes on security duties in Atlanta](https://www.reddit.com/r/robotics/comments/1sd8dlv/robot_dog_takes_on_security_duties_in_atlanta/)**
-
-12h ago
-
----
-
 **[Autonomous laundry folding robot (ALF-1). Advertised at a $1499 price. I hope it is Legit!](https://www.reddit.com/r/robotics/comments/1sdp8uj/autonomous_laundry_folding_robot_alf1_advertised/)**
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=1jpHzqQYSXU) • 40m ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=1jpHzqQYSXU) • 2h ago
+
+---
+
+**[Robot dog takes on security duties in Atlanta](https://www.reddit.com/r/robotics/comments/1sd8dlv/robot_dog_takes_on_security_duties_in_atlanta/)**
+
+14h ago
 
 ---
 
 **[What is the best Free CAD Software?](https://www.reddit.com/r/robotics/comments/1sdk3zw/what_is_the_best_free_cad_software/)**
 
-4h ago
+6h ago
 
 ---
 
@@ -56,13 +56,13 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 For a cosplay competition performance, I came up with the idea of creating a companion. In Elden Ring, there are these living jars, and I think it’s a pretty great option for a cute side character in our cosplay. I want to turn one into a robot that can move quickly, move its arms, and play pre-recorded voice lines. The only problem is: I have no idea how to design the legs so that the robot can actually keep up with us while we walk at a normal pace. Especially since the original model has these awkward “chicken legs” (see photo 2), which really limits the possible options. So far, the only idea I’ve come up with is to put it on something like a wheelchair base. That would make movement much easier to implement, and we could even turn it into a joke as part of the performance. Does anyone have ideas on how to make a robot like this move fast enough to follow people?
 
-17h ago
+18h ago
 
 ---
 
 **[Polka: A unified efficient node for your pointcloud pre-processing](https://www.reddit.com/r/robotics/comments/1sdo3ek/polka_a_unified_efficient_node_for_your/)**
 
-1h ago
+3h ago
 
 ---
 
@@ -70,7 +70,7 @@ For a cosplay competition performance, I came up with the idea of creating a com
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/3QHNelilULQ?is=97gu8OZs77oEzJkH) • 6h ago
+🔗 [youtu.be](https://youtu.be/3QHNelilULQ?is=97gu8OZs77oEzJkH) • 8h ago
 
 ---
 
@@ -86,7 +86,7 @@ I was brought in to do some work on a pair of R-2000 Fanuc's a few years back an
 
 Hello all, I am working on impedance control for a robot arm for a task of placing a usb in its socket and I’m a bit stuck on whether using a force/torque sensor is actually worth it. From what I understand, impedance control can be done without a force sensor (using position errors). I am trying to figure out: - When does a force/torque sensor become really necessary with impedance controller? - Does it significantly improve stability/safety, or just performance? - Would admittance control be a better option if I already have a force sensor? Would really appreciate any insight. Thanks in advance.
 
-7h ago
+8h ago
 
 ---
 
@@ -94,7 +94,7 @@ Hello all, I am working on impedance control for a robot arm for a task of placi
 
 I want to show my cambotv1 robot. it is a 3d printed robot that is joystick controlled and has camera footage in c++/python. I use linux input at the moment but soon i will try to use libevdev(evdev wrapper)in c++ so that it is more in sync the python code version
 
-🔗 [youtube.com](https://youtube.com/shorts/-pBvNUXrxUc?si=xDMeBR52YhB-FdkZ) • 8h ago
+🔗 [youtube.com](https://youtube.com/shorts/-pBvNUXrxUc?si=xDMeBR52YhB-FdkZ) • 10h ago
 
 ---
 
@@ -126,7 +126,7 @@ Interesting Engineering • 2d ago
 
 **[Asimov’s three laws of robotics survived 82 years, we broke them in 30 minutes, costs 80 cents, and then remade them](https://blog.adafruit.com/2026/04/05/asimovs-three-laws-of-robotics-survived-82-years-we-broke-them-in-30-minutes-costs-80-cents-and-then-remade-them/)**
 
-Adafruit • 12h ago
+Adafruit • 14h ago
 
 ---
 
@@ -146,41 +146,37 @@ NVIDIA Blog • 1d ago
 
 ---
 
+**[Resilient actuator shows potential for space-ready soft robots](https://techxplore.com/news/2026-04-resilient-actuator-potential-space-ready.html)**
+
+Tech Xplore • 17h ago
+
+---
+
 **[Humanoid robots inspire a new generation to build machines](https://www.euronews.com/next/2026/04/05/humanoid-robots-inspire-a-new-generation-to-build-machines)**
 
 Uzbekistan has signed an agreement with South Korea’s ROBOTIS to launch humanoid robot production, marking a major step in its high-tech ambitions. At the same time, students across the country are learning robotics and programming, gaining skills that could prepare them for careers in the emerging
 
-Euronews.com • 16h ago
+Euronews.com • 17h ago
 
 ---
 
-**[Under the Skin of America’s Humanoid Robots: Chinese Technology](https://www.wsj.com/tech/under-the-skin-of-americas-humanoid-robots-chinese-technology-27dd4fdf?gaa_at=eafs&gaa_n=AWEtsqew-iXykdOP9F-CLBBJGhKkbWFWrNIqBEe1YpcPOgFp20vNogUvIdPi&gaa_ts=69d34757&gaa_sig=GuRRBL1d0FJb9auznF9i5pl_FxMP_BdLgRvH5XnDaoz6IlKBl-jsfb8U_4DtwNIZ_qD5zNC0i88Yr22tEj2d9A%3D%3D)**
+**[AI Body Gap: Why Robots Need "Internal Feelings" to be Safe](https://neurosciencenews.com/internal-embodiment-ai-safety-30457/)**
+
+Why is AI overconfident? A new study explores "internal embodiment," the missing link in AI safety. Researchers explain how a lack of internal "body" states prevents AI from understanding human context and avoiding errors.
+
+Neuroscience News • 1d ago
+
+---
+
+**[Baidu: Pivoting To AI Infrastructure, Robotaxis, And Embodied Robotics At A Discount](https://seekingalpha.com/article/4888518-baidu-pivoting-ai-infrastructure-robotaxis-embodied-robotics-discount)**
+
+Seeking Alpha • 1h ago
+
+---
+
+**[Under the Skin of America’s Humanoid Robots: Chinese Technology](https://www.wsj.com/tech/under-the-skin-of-americas-humanoid-robots-chinese-technology-27dd4fdf?gaa_at=eafs&gaa_n=AWEtsqeAlrVpdA8LjBpg5tEue6g0LLUiDMV6MvPl4GiqWQOv4aEJkkRDPPbv&gaa_ts=69d35f80&gaa_sig=EcoNfUi28ssz16f0gSAU2dz01au6umgMQawQuuQYzvrkWN7lJ80jONIoPaCPGxP7a90fKTow-KN47x5_dnfgtw%3D%3D)**
 
 WSJ • 3d ago
-
----
-
-**[Think Robots Are Impressive Now? Just Wait Until They Have 6G](https://www.cnet.com/tech/computing/think-robots-are-impressive-now-just-wait-until-they-have-6g/)**
-
-This next-generation network technology won't just make our phones faster; it'll unlock new capabilities in robots, turning them into all-sensing, always-learning fleets.
-
-CNET • 2d ago
-
----
-
-**[Paola robotics wins prestigious award, earns chance at world title in Houston](https://www.kshb.com/news/local-news/kansas/miami-county/paola-robotics-wins-prestigious-award-earns-chance-at-world-title-in-houston)**
-
-A group of Paola High School students is taking their engineering talents and displaying them on a world stage. The team is currently ranked #1 in the state of Kansas.
-
-KSHB 41 Kansas City • 6h ago
-
----
-
-**[After crash damages robot, KC-area teams rally to help Lansing students compete](https://www.kmbc.com/article/lansing-robotics-team-crash-rebuild-kansas-city/70937331)**
-
-Lansing robotics instructor Anne Krebs said her husband was driving the team’s robot to a competition Thursday morning when he was involved in a crash.
-
-KMBC • 8h ago
 
 ---
 
@@ -212,7 +208,7 @@ Welch Labs Book: https://www.welchlabs.com/resources/ai-book-ezrzm-msrmc Book & 
 
 📺 zhulongfeng 6
 
-👁️ 2K • 👍 17 • ⏱️ 0:21 • 4h ago
+👁️ 2K • 👍 17 • ⏱️ 0:21 • 6h ago
 
 ---
 
@@ -232,7 +228,7 @@ The era of the Robot Mower is here and after 6 months of intensive use I feel I 
 
 📺 Proper DIY
 
-👁️ 21K • 👍 2K • 💬 88 • ⏱️ 11:47 • 22h ago
+👁️ 21K • 👍 2K • 💬 88 • ⏱️ 11:47 • 1d ago
 
 ---
 
@@ -242,7 +238,7 @@ War Robots Gameplay: Anaksor with Kroko weapons is quite unfair! My War Robots C
 
 📺 Manni-Gaming
 
-👁️ 8K • 👍 369 • 💬 76 • ⏱️ 13:35 • 17h ago
+👁️ 8K • 👍 369 • 💬 76 • ⏱️ 13:35 • 19h ago
 
 ---
 
@@ -272,7 +268,7 @@ The Chinese company JQ Industries has developed a fabric-based electronic skin, 
 
 📺 Kalil 4.0
 
-👁️ 668 • 👍 40 • 💬 4 • ⏱️ 0:51 • 6h ago
+👁️ 668 • 👍 40 • 💬 4 • ⏱️ 0:51 • 8h ago
 
 ---
 

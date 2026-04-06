@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-06T05:26:02.839566+00:00'
+updated: '2026-04-06T07:09:12.061256+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
 - social
+- repositories
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 06, 2026 at 05:26 UTC  
+**Last Updated:** April 06, 2026 at 07:09 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 I want to be honest about something that happened to me because I think it is more common than people admit. Last month I hit a bug in a service I wrote myself two years ago. Network timeout issue, intermittent, only in prod. The kind of thing I used to be able to sit with for an hour and work through methodically. I opened Claude, described the symptom, got a hypothesis, followed it, hit a dead end, fed that back, got another hypothesis. Forty minutes later I had not found the bug. I had just been following suggestions. At some point I closed the chat and tried to work through it myself. And I realized I had forgotten how to just sit with a problem. My instinct was to describe it to something else and wait for a direction. The internal monologue that used to generate hypotheses, that voice that says maybe check the connection pool, maybe it is a timeout on the load balancer side, maybe there is a retry storm. That voice was quieter than it used to be. I found the bug eventually. It took me longer without AI than it would have taken me three years ago without AI. I am not saying the tools are bad. I use them every day and they make me faster on most things. But there is something specific happening to the part of the brain that generates hypotheses under uncertainty. That muscle atrophies if you do not use it. The analogy I keep coming back to is GPS. You can navigate anywhere with GPS. But if you use it for five years and then lose signal, you do not just lack information. You lack the mental map that you would have built if you had been navigating manually. The skill and the mental model degrade together. I am 11 years into this career. I started noticing this in myself. I wonder how it looks for someone who started using AI tools in their first year. Has anyone else noticed this? Not the productivity gains, we all know those. The quieter thing underneath.
 
-8h ago
-
----
-
-**[McKinsey's AI Lie Explains What's Happening to Work](https://www.reddit.com/r/artificial/comments/1sd90xu/mckinseys_ai_lie_explains_whats_happening_to_work/)**
-
-Everyone thinks McKinsey just built 25,000 AI experts. They didn't. They took a 35-year-old internal database, put a natural language interface on top, and wrote a press release that every major business publication ran without asking a single follow-up question. This is the same play McKinsey has run for a hundred years. ERP in the 90s. Digital transformation in the 2000s. Big data in the 2010s. Each wave the same: new technology creates executive anxiety, McKinsey positions itself between that anxiety and the answer, and companies buy the trend to protect themselves when it fails. The future looks a lot like the past. And once you see it, you can't unsee it. https://www.youtube.com/watch?v=uTdKJaQkgJQ
-
-12h ago
+10h ago
 
 ---
 
@@ -57,7 +49,31 @@ Everyone thinks McKinsey just built 25,000 AI experts. They didn't. They took a 
 
 I’ve been tracking the companies building primitives specifically for agents rather than humans. The pattern is becoming obvious: every capability a human employee takes for granted is getting rebuilt as an API. Here are some of the companies building for AI agents: AgentMail — agents can have email accounts AgentPhone — agents can have phone numbers Kapso — agents can have WhatsApp numbers Daytona / E2B — agents can have their own computers monid.ai — agents can read social media (X, TikTok, Reddit, LinkedIn, Amazon, Facebook) Browserbase / Browser Use / Hyperbrowser — agents can use web browsers Firecrawl — agents can crawl the web without a browser Mem0 — agents can remember things Kite / Sponge — agents can pay for things Composio — agents can use your SaaS tools Orthogonal — agents can access APIs more easily ElevenLabs / Vapi — agents can have a voice Sixtyfour — agents can search for people and companies Exa — agents can search the web (Google isn’t built for agents) What’s interesting is how quickly this came together. Not long ago, none of this really existed in a usable form. Now you can piece together an agent with identity, memory, communication, and spending in a single afternoon. Feels less like “AI tools” and more like the early version of an agent-native infrastructure stack. Curious if anyone here is actually building on top of this. What are you using? Also probably missing a bunch - drop anything I should add and I’ll keep this updated.
 
-5h ago
+7h ago
+
+---
+
+**[McKinsey's AI Lie Explains What's Happening to Work](https://www.reddit.com/r/artificial/comments/1sd90xu/mckinseys_ai_lie_explains_whats_happening_to_work/)**
+
+Everyone thinks McKinsey just built 25,000 AI experts. They didn't. They took a 35-year-old internal database, put a natural language interface on top, and wrote a press release that every major business publication ran without asking a single follow-up question. This is the same play McKinsey has run for a hundred years. ERP in the 90s. Digital transformation in the 2000s. Big data in the 2010s. Each wave the same: new technology creates executive anxiety, McKinsey positions itself between that anxiety and the answer, and companies buy the trend to protect themselves when it fails. The future looks a lot like the past. And once you see it, you can't unsee it. https://www.youtube.com/watch?v=uTdKJaQkgJQ
+
+14h ago
+
+---
+
+**[Rate My README.md](https://www.reddit.com/r/artificial/comments/1sdr3is/rate_my_readmemd/)**
+
+Working on my README.md to make it more accessiable and understood without make it to long. still working through it. project is still under development also. getting closer every day. feedback is much appreciated, Its my first public repo. https://github.com/AIOSAI/AIPass/blob/main/README.md
+
+38m ago
+
+---
+
+**[I resurrected LavaPS - a Linux process monitor from 2004 that died when GNOME2 did. Running on a robot car.](https://www.reddit.com/r/artificial/comments/1sdqwqc/i_resurrected_lavaps_a_linux_process_monitor_from/)**
+
+LavaPS displays every running process as a bubble in a lava lamp — bigger = more memory, faster rising = more CPU. Written by John Heidemann in 2004. Died around 2012 when libgnomecanvas was deprecated. We ported it to GTK3 + Cairo. The blob physics, process scanning, and color logic were solid — just the rendering layer needed replacing. Source: https://github.com/yayster/lavaps-modern Full video (with demo): https://youtu.be/cWBE4XkmNyQ This is Episode 2 of Picar — an AI riding around in a robot car on a Raspberry Pi 5.
+
+49m ago
 
 ---
 
@@ -65,7 +81,7 @@ I’ve been tracking the companies building primitives specifically for agents r
 
 Most hackathons reward presentations. Polished slides, rehearsed demos, buzzword-heavy pitches. We're not doing that. The Locus Paygentic Hackathon Series is 4 weeks, 4 tracks, and $4,000 in total prizes. Each week starts fresh on Friday and closes the following Thursday, then the next track kicks off the day after. One week to build something that actually works. Week 1 sign-ups are live on Devfolio. The track: build something using PayWithLocus. If you haven't used it, PayWithLocus is our payments and commerce suite. It lets AI agents handle real transactions, not just simulate them. Your project should use it in a meaningful way. Here's everything you need to know: Team sizes of 1 to 4 people Free to enter Every team gets $15 in build credits and $15 in Locus credits to work with Hosted in our Discord server We built this series around the different verticals of Locus because we want to see what the community builds across the stack, not just one use case, but four, over four consecutive weeks. If you've been looking for an excuse to build something with AI payments or agent-native commerce, this is it. Low barrier to entry, real credits to work with, and a community of builders in the server throughout the week. Drop your team in the Discord and let's see what you build. discord.gg/locus | paygentic-week1.devfolio.co
 
-5h ago
+6h ago
 
 ---
 
@@ -73,7 +89,7 @@ Most hackathons reward presentations. Polished slides, rehearsed demos, buzzword
 
 would you guys get a local AI on your phone? and if you do, what will you do with it?
 
-7h ago
+9h ago
 
 ---
 
@@ -99,22 +115,6 @@ After reading many developers' hands-on reviews, Gemma 4 is truly impressive. Th
 
 ---
 
-**[I've made a Wholesale Agent, this is what it does](https://www.reddit.com/r/artificial/comments/1sd3l0r/ive_made_a_wholesale_agent_this_is_what_it_does/)**
-
-You can upload a lead, and the Assistant will follow up, track information, respond to all messages, and even schedule visits based on a schedule. It includes a built-in offer calculator and an AI-powered Wholesale Expert to assist you. You can create numerous campaigns with a large number of leads, and simultaneously, an n8n workflow is triggered when: There is an interested lead There is a scheduled visit A scan is run There is a scheduling conflict I'm currently working on adding a data scraper for buyers and sellers. I'd love to hear your suggestions and ideas for improving it. Any suggestions or ideas are welcome; I'm eager to hear from you. https://preview.redd.it/vkwlprsdidtg1.png?width=620&format=png&auto=webp&s=cd7badafa69342becc09f871e58cadd52dc20d8f
-
-16h ago
-
----
-
-**[Should you fear AI?](https://www.reddit.com/r/artificial/comments/1sdpj7h/should_you_fear_ai/)**
-
-I think yes. Absolutely. But fear isn't always a bad thing. Think of it like crossing a busy road. Fear is what makes you stop, look, and then move. It keeps you sharp. It keeps you awake. The people who should really worry? The ones who feel nothing. No curiosity. No push to learn. They'll wake up one day and the world will have already moved ahead. Fear, when you use it right, is like a signal. It shows you where things are changing. It pushes you to learn what you don't know. It gives you the energy to keep up. So yes, fear AI. Then go learn it. Curious what others think. Do you see fear as something that holds you back, or something that pushes you forward?
-
-24m ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -123,43 +123,59 @@ I think yes. Absolutely. But fear isn't always a bad thing. Think of it like cro
 
 The AI agent sparked a frenzy of "raising lobsters" in March, with users training the tool to suit their needs.
 
-BBC • 7h ago
+BBC • 9h ago
 
 ---
 
 **[The back story behind the first “$1.8 Billion” dollar “AI Company”](https://garymarcus.substack.com/p/the-back-story-behind-the-first-18)**
 
-Marcus on AI | Substack • 12h ago
+Marcus on AI | Substack • 14h ago
 
 ---
 
-**[AI data center boom ‘stress tests’ insurers as private capital floods in](https://www.cnbc.com/2026/04/06/ai-data-centers-financing-insurance-deals-gpu-debt.html)**
+**[New York Times fires book review writer over blatant AI plagiarism: 'A serious violation'](https://www.yahoo.com/news/articles/york-times-fires-book-review-063000776.html)**
 
-Rapid technological advancements and the huge sums of money flowing into the data center are posing both risks and rewards for insurers.
+AI use in journalism can quickly lead to plagiarism, a reduction in article quality, and the degradation of trust in media.
 
-CNBC • 26m ago
-
----
-
-**[AI talk at retail events shifts to proving real results, defining a true strategy](https://digiday.com/marketing/ai-talk-at-retail-events-shifts-to-proving-real-results-defining-a-true-strategy/)**
-
-The conversation around AI seems to shift in subtle ways each year as the techn moves further and further away from the experimentation phase.
-
-Digiday • 1h ago
+yahoo.com • 39m ago
 
 ---
 
-**[Mark Cuban said CEOs face a no-win AI dilemma that could tank their stock either way](https://www.businessinsider.com/mark-cuban-ceos-face-ai-dilemma-tank-their-stock-2026-4)**
+**[UChicago Receives $50M Gift to Hire AI Expert Faculty](https://www.insidehighered.com/news/quick-takes/2026/04/06/uchicago-receives-50m-gift-hire-ai-expert-faculty)**
 
-The billionaire said that they can either tear their companies down and rebuild with AI or do nothing. Either way, shareholders won't be happy.
+The University of Chicago has received a $50 million gift to assemble a diverse cohort of faculty who are at the forefront of using artificial intelligence in their respective fields. It will support the university’s broader mission of establishing an interdisciplinary approach to understanding and advancing AI.
 
-businessinsider.com • 59m ago
+Inside Higher Ed • 7m ago
+
+---
+
+**[Artificial Intelligence Versus Human Stupidity](https://www.counterpunch.org/2026/04/06/artificial-intelligence-versus-human-stupidity/)**
+
+Perhaps Donald Trump was persuaded—by his generals, by his buddies in Silicon Valley, by Israeli Prime Minister Benjamin Netanyahu—that American military superiority would make quick work of the Iranian military. In addition to the aircraft carriers, the Stealth bombers, the Tomahawk missiles, and the High Mobility Artillery Rocket System, Trump could also call upon the assistance of Claude and his buddies.
+
+CounterPunch.org • 1h ago
 
 ---
 
 **[Opinion | Iran Is Ending the Dream of Remote-Controlled War](https://www.nytimes.com/2026/04/05/opinion/iran-ai-war-geography.html)**
 
-The New York Times • 16h ago
+nytimes.com • 18h ago
+
+---
+
+**['Silent killers': How AI start-ups are trying to solve one of the retail industry's biggest problems](https://www.cnbc.com/2026/04/05/ai-retail-start-ups-virtual-try-on-tech-margins.html)**
+
+The rapid evolution of generative AI has finally made these applications good enough to meaningfully impact retailers' bottom lines.
+
+CNBC • 18h ago
+
+---
+
+**[AI dolls offer companionship to the elderly](https://www.ft.com/content/88911383-2a17-42e1-aef4-36daac1bd9dd?syn-25a6b1a6=1)**
+
+South Korea’s strained social care system turns to ChatGPT-enabled devices as population ages
+
+Financial Times • 4h ago
 
 ---
 
@@ -167,7 +183,7 @@ The New York Times • 16h ago
 
 Artificial intelligence helps you work harder, instead of just outsourcing your brain.
 
-The Washington Post • 11h ago
+The Washington Post • 13h ago
 
 ---
 
@@ -175,35 +191,13 @@ The Washington Post • 11h ago
 
 Here's how AI predicted the championship game between Michigan-UConn in the 2026 Men's NCAA Tournament:
 
-usatoday.com • 11h ago
-
----
-
-**[Drones are beating missiles. AI is doing the same to corporate America](https://www.axios.com/2026/04/05/small-teams-ai-drones-geopolitics-business)**
-
-Axios • 12h ago
-
----
-
-**[Prediction: 1 Artificial Intelligence (AI) Stock Will Quietly Double While the Market Panics Over TurboQuant](https://finance.yahoo.com/markets/stocks/articles/prediction-1-artificial-intelligence-ai-155000815.html)**
-
-The launch of Google's TurboQuant has fueled a nasty sell-off in artificial intelligence (AI) memory and storage stocks.
-
-Yahoo Finance • 13h ago
+USA Today • 13h ago
 
 ---
 
 ---
 
 ## HackerNews: "ai"
-
-**[Show HN: Apfel – The free AI already on your Mac](https://news.ycombinator.com/item?id=47624645)**
-
-Use Apple's built-in AI from the terminal. No API keys, no cloud, no subscriptions. The LLM is already on your Mac.
-
-⬆️ 727 • 💬 150 • 2d ago • [apfel.franzai.com](https://apfel.franzai.com)
-
----
 
 **[Eight years of wanting, three months of building with AI](https://news.ycombinator.com/item?id=47648828)**
 
@@ -212,7 +206,15 @@ A couple of weeks ago, after ~250 hours of effort over three months3 on evenings
 Of course, there’s no shortage of posts claiming that AI one-shot their project or pushing back and declaring that AI is all slop. I’m going to take a very different approach and, instead, systematically break down my experience building syntaqlite with AI, both where it helped and where it was detrimental.
 I’ll do this while contextualizing the project and my background so you can independently assess how generalizable this experience was. And whenever I make a claim, I’ll try to back it up with evidence from my project journal, coding transcripts, or commit history5.
 
-⬆️ 713 • 💬 218 • 16h ago • [Lalit Maganti](https://lalitm.com/post/building-syntaqlite-ai/)
+⬆️ 749 • 💬 225 • 18h ago • [Lalit Maganti](https://lalitm.com/post/building-syntaqlite-ai/)
+
+---
+
+**[Show HN: Apfel – The free AI already on your Mac](https://news.ycombinator.com/item?id=47624645)**
+
+Use Apple's built-in AI from the terminal. No API keys, no cloud, no subscriptions. The LLM is already on your Mac.
+
+⬆️ 729 • 💬 150 • 2d ago • [apfel.franzai.com](https://apfel.franzai.com)
 
 ---
 
@@ -230,7 +232,7 @@ deployment pattern...
 
 **[Musician says AI company is cloning her music, filing claims against her](https://news.ycombinator.com/item?id=47653471)**
 
-⬆️ 107 • 💬 16 • 9h ago • [X (formerly Twitter)](https://twitter.com/unlimited_ls/status/2040577536136974444)
+⬆️ 108 • 💬 18 • 10h ago • [X (formerly Twitter)](https://twitter.com/unlimited_ls/status/2040577536136974444)
 
 ---
 
@@ -238,7 +240,7 @@ deployment pattern...
 
 Experiments show large majorities uncritically accepting "faulty" AI answers.
 
-⬆️ 96 • 💬 42 • 2d ago • [Ars Technica](https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/)
+⬆️ 97 • 💬 42 • 2d ago • [Ars Technica](https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/)
 
 ---
 
@@ -252,13 +254,21 @@ AI-powered travel hacking with points, miles, and award flights. Drop-in skills 
 
 **[Writing Lisp is AI resistant and I'm sad](https://news.ycombinator.com/item?id=47645468)**
 
-⬆️ 91 • 💬 94 • 1d ago • [blog.djhaskin.com](https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/)
+⬆️ 92 • 💬 94 • 1d ago • [blog.djhaskin.com](https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/)
 
 ---
 
 **[AI that copied musical artist files copyright claim against artist [updated]](https://news.ycombinator.com/item?id=47645976)**
 
-⬆️ 64 • 💬 16 • 1d ago • [X (formerly Twitter)](https://twitter.com/VladTheInflator/status/2039577001531768906)
+⬆️ 64 • 💬 17 • 1d ago • [X (formerly Twitter)](https://twitter.com/VladTheInflator/status/2039577001531768906)
+
+---
+
+**[Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud](https://news.ycombinator.com/item?id=47655367)**
+
+Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU — no API keys, no cloud, no data leaving your machine. - kessler/gemma-gem
+
+⬆️ 55 • 💬 9 • 6h ago • [GitHub](https://github.com/kessler/gemma-gem)
 
 ---
 
@@ -266,15 +276,7 @@ AI-powered travel hacking with points, miles, and award flights. Drop-in skills 
 
 I used Claude Code to build a tool I needed. It worked great, but I was miserable. I need to reckon with what it means.
 
-⬆️ 53 • 💬 117 • 1d ago • [taggart-tech.com](https://taggart-tech.com/reckoning/)
-
----
-
-**[The Subprime AI Crisis Is Here](https://news.ycombinator.com/item?id=47633150)**
-
-Hi! If you like this piece and want to support my independent reporting and analysis, why not subscribe to my premium newsletter? It’s $70 a year, or $7 a month, and in return you get a weekly newsletter that’s usually anywhere from 5,000 to 18,000 words,
-
-⬆️ 53 • 💬 25 • 2d ago • [Ed Zitron's Where's Your Ed At](https://www.wheresyoured.at/the-subprime-ai-crisis-is-here/)
+⬆️ 53 • 💬 118 • 1d ago • [taggart-tech.com](https://taggart-tech.com/reckoning/)
 
 ---
 
@@ -288,7 +290,7 @@ The world wasn't ready for what 2026 had in store — a wave of humanoid robots 
 
 📺 The AI Nexus
 
-👁️ 1K • 👍 96 • 💬 4 • ⏱️ 16:42 • 5h ago
+👁️ 1K • 👍 96 • 💬 4 • ⏱️ 16:42 • 7h ago
 
 ---
 
@@ -298,7 +300,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
 
 📺 Julian Goldie SEO
 
-👁️ 2K • 👍 84 • 💬 7 • ⏱️ 7:42 • 3h ago
+👁️ 2K • 👍 84 • 💬 7 • ⏱️ 7:42 • 5h ago
 
 ---
 
@@ -338,7 +340,7 @@ Abacus just released CoWork, and this might be one of the most useful AI desktop
 
 📺 AI Revolution
 
-👁️ 7K • 👍 321 • 💬 15 • ⏱️ 9:05 • 7h ago
+👁️ 7K • 👍 321 • 💬 15 • ⏱️ 9:05 • 9h ago
 
 ---
 
@@ -348,7 +350,7 @@ For decades, science has assumed that Stonehenge was the result of a long evolut
 
 📺 Aline Rogerio
 
-👁️ 1K • 👍 358 • 💬 2 • ⏱️ 23:16 • 11h ago
+👁️ 1K • 👍 358 • 💬 2 • ⏱️ 23:16 • 13h ago
 
 ---
 
@@ -368,7 +370,7 @@ Smart Contract Code, Deployment Guide and Telegram: https://bit.ly/ethaibot I Bu
 
 📺 Samuel Dev
 
-👁️ 1K • 👍 916 • 💬 17 • ⏱️ 7:26 • 10h ago
+👁️ 1K • 👍 916 • 💬 17 • ⏱️ 7:26 • 12h ago
 
 ---
 
@@ -406,7 +408,7 @@ Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled is a text-generation model fine-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 539,356 • ❤️ 2,354 • 3h ago
+⬇️ 539,356 • ❤️ 2,354 • 4h ago
 
 ---
 
@@ -490,7 +492,7 @@ This is an uncensored, 9B parameter multimodal LLM based on Qwen3.5, featuring a
 
 `9.0B`
 
-⬇️ 725,110 • ❤️ 999 • 10h ago
+⬇️ 725,110 • ❤️ 999 • 12h ago
 
 ---
 
@@ -652,7 +654,7 @@ Enhancements to the AgentScope platform improve scalability, efficiency, and eas
 
 `TypeScript` `agency` `agent` `pip` `pua`
 
-⭐ 15.2k • 🔱 848 • 5d ago
+⭐ 15.2k • 🔱 848 • 6d ago
 
 ---
 
@@ -662,7 +664,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 13.5k • 🔱 1.2k • 10h ago
+⭐ 13.5k • 🔱 1.2k • 11h ago
 
 ---
 
@@ -682,7 +684,7 @@ Clone any website with one command using AI coding agents
 
 `TypeScript` `ai` `ai-agents` `ai-tools` `automation` `boilerplate`
 
-⭐ 7.8k • 🔱 1.0k • 6d ago
+⭐ 7.8k • 🔱 1.0k • 7d ago
 
 ---
 
@@ -692,7 +694,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 6.7k • 🔱 395 • 12h ago
+⭐ 6.7k • 🔱 395 • 13h ago
 
 ---
 
@@ -722,7 +724,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `Go` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 4.3k • 🔱 665 • 17h ago
+⭐ 4.3k • 🔱 665 • 19h ago
 
 ---
 

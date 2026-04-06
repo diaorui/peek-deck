@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-06T05:26:02.853963+00:00'
+updated: '2026-04-06T07:09:12.075664+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
 - cryptocurrency
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 06, 2026 at 05:26 UTC  
+**Last Updated:** April 06, 2026 at 07:09 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,130.34
+### $2,124.09
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +4.6%  
-**7d:** +1.2%  
-**30d:** +10.2%  
-**90d:** -32.7%  
-**1y:** +37.3%  
+**24h:** +4.1%  
+**7d:** +0.8%  
+**30d:** +9.8%  
+**90d:** -32.9%  
+**1y:** +36.7%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-24m ago
+2h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The true bottleneck in Ethereum dApp architecture isn't just on-chain gas, it's the off-chain infrastructure required to read the state. When protocols are designed without considering how data is indexed, they force massive hardware and cost requirements onto the ecosystem. The Blind Spot of Internal Transfers: Standard contract-to-contract ETH transfers (call{value: x}()) don't emit logs. Because they bypass block bloom filters, standard node queries like eth_getLogs miss them entirely. Trade-off: To index these reliably without protocol-level changes, you are forced into EVM tracing (debug_traceTransaction). This is incredibly I/O heavy, essentially requiring dedicated archive nodes or premium RPC tiers. Emitting custom on-chain events for internal transfers is a critical architectural pattern if you develop your own protocol that you want to monitor, it shifts the burden away from expensive execution traces and local state simulations, saving infrastructure operators massive overhead. Infrastructure Resilience vs. WebSockets: For low-latency dApps, eth_subscribe over WebSockets is the standard. However, long-lived WS connections are notoriously flaky and silently drop packets, leading to degraded, out-of-sync frontends. Architecture standard: A resilient Ethereum stack requires a hybrid model. Maintain the WS connection for real-time mempool and head-of-chain detection, but always run a background worker polling eth_getLogs with a sliding block window to patch missed events during WS reconnects. JSON-RPC Network Overhead: Spamming nodes with individual read requests congests RPCs. MulticallV3 batching is mandatory for minimizing network round trips. Trade-off: When wrapping complex calls, using tryAggregate handles partial successes gracefully. However, it significantly increases EVM execution cost due to internal CALL overhead and memory expansion when capturing return data you might discard. If your batch loop is too large, you will hit the strict execution timeouts or global eth_call gas caps enforced by commercial RPCs, causing the node to drop the entire request. Source/Full Breakdown:https://andreyobruchkov1996.substack.com/p/ethereum-dev-hacks-catching-hidden-transfers-real-time-events-and-multicalls-bef7435b9397
 
-5h ago
+7h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey all! Since my earlier post I've been rebuilding from the ground up, and your feedback helped shape everything. ETour V2 is simpler, faster, and more flexible: 1) You can now configure your own lobbies with anywhwere between 2 and 32 players. And you can choose the entry fee per-player, from $0.20 up to 1 ETH. 2) Moves happen in sub-1s (down from ~10s). 3) The fee structure is cleaner too: 95% straight to the winner, and 5% is my cut. No confusing raffle mechanics. And the winner gets more, winner's cut in V1 was only 90% of the pot, now it's 95%! 4) I also put together two docs: a focused whitepaper that explains the why, and a thorough user manual that answers every how question. Further, and very importantly, V2 positions ETour as the perfect platform to play games on-chain over ETH stakes with no middlemen with your friends, crew, or community, rather than a place for random online matchmaking. Which is more honest about what ETour is good at. Happy to answer your questions! Misc: https://etour.games https://etour.games/whitepaper https://etour.games/manual All contracts are verified and available in the footer
 
-15h ago
+17h ago
 
 ---
 
@@ -104,7 +104,7 @@ Hey all! Since my earlier post I've been rebuilding from the ground up, and your
 
 Hi all, I build a new kind of cli based solidity debugger you might find useful. During the few days easter break I finally could finish a long standing project I had in mind: a cli based solidity debugger and tracer. I used to use truffle-debug a lot, but the whole project got sunset (and was painfully slow anyways, but thats a different story). Foundry as a successor always made sense to me. Its fast, its git based, its a workhorse, never let me down so far. But I always missed a properly formatted easy to use tracer and debugger like we know it from tenderly, but cli based, with local, text based outputs. I wanted something a human and an LLM can use. So I built soldebug. You give it a transaction hash and it gives you a decoded stack trace: $ soldebug 0xe1c962... --rpc-url https://sepolia.infura.io/v3/... --project-dir ./myproject Transaction 0xe1c962...b53fb6 REVERTED (gas: 29.8K) Call Stack: TestToken.mint(arg0=0xdEadDEAD..., arg1=9e23) <- REVERT REVERT: MaxSupplyExceeded(9e23, 5e23) It replays the transaction locally using revm (same as Foundry), matches contracts from your local Foundry project, resolves proxy implementations (UUPS, transparent proxies), and can fetch external contract ABIs from Etherscan/Sourcify. All in Rust, same style as Foundry itself. It's a first version, really early, but maybe useful for other Ethereum devs. If you find it useful (or not), let me know, or generally, any feedback very welcome.
 
-🔗 [GitHub](https://github.com/tomw1808/soldebug) • 15h ago
+🔗 [GitHub](https://github.com/tomw1808/soldebug) • 16h ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Algorand's ALGO token has emerged as an unexpected beneficiary of the market’s latest quantum-computing debate.
 
-CryptoSlate • 13h ago
+CryptoSlate • 14h ago
 
 ---
 
@@ -168,11 +168,19 @@ Decrypt • 2d ago
 
 ---
 
+**[Why Are Bitcoin, Ethereum and XRP Prices Going Up Today?](https://www.tradingview.com/news/coinpedia:62c4540d7094b:0-why-are-bitcoin-ethereum-and-xrp-prices-going-up-today/)**
+
+Crypto markets are in the green on Monday, with Bitcoin, Ethereum and XRP all posting modest gains after weeks of subdued price action. Bitcoin is trading around $69,137, up 3% in 24 hours. Ethereum has climbed to $2,131, gaining nearly 4%. XRP is holding near $1.33, up roughly 2% on the day.Iran T…
+
+TradingView • 2h ago
+
+---
+
 **[Ethereum Price Charges Higher, $2,150 Resistance Under Threat](https://www.tradingview.com/news/newsbtc:ea89d8844094b:0-ethereum-price-charges-higher-2-150-resistance-under-threat/)**
 
 Ethereum price managed to stay above $2,020 and recovered losses. ETH is now rising and might attempt a move above the $2,150 resistance.Ethereum Price Aims HigherEthereum price remained stable above $2,020 and started a decent upward move, beating Bitcoin. ETH price climbed above the $2,050 and $2…
 
-TradingView • 1h ago
+TradingView • 3h ago
 
 ---
 
@@ -184,6 +192,14 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[ETH Up or Down - 5 Minutes](https://polymarket.com/event/eth-updown-5m-1775453400)**
+
+Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+
+Polymarket • 1d ago
+
+---
+
 **[Should You Forget Ethereum and Buy This Cryptocurrency Instead?](https://www.fool.com/investing/2026/04/03/should-you-forget-ethereum-and-buy-this-cryptocurr/)**
 
 As investors search for "the next Ethereum," this top cryptocurrency is worth a closer look.
@@ -192,19 +208,11 @@ The Motley Fool • 2d ago
 
 ---
 
-**[ETH Up or Down - 5 Minutes](https://polymarket.com/event/eth-updown-5m-1775445300)**
-
-Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
-
-Polymarket • 1d ago
-
----
-
 **[Ethereum Keeps 2.05k Price Amidst StanChart $40k Estimate](https://dmarketforces.com/ethereum-keeps-2-05k-price-amidst-stanchart-40k-estimate/)**
 
 Ethereum (ETH) is trading at $2,050, down less than 1% over the last 24 hours, on optimism and fear amid Standard Chartered's (StanChart) price
 
-MarketForces Africa • 7h ago
+MarketForces Africa • 8h ago
 
 ---
 
@@ -220,15 +228,7 @@ The Block • 2d ago
 
 Why XRP can't crack the big three: supply pressure, price resistance, and a market cap gap that keeps widening against Bitcoin and Ethereum.
 
-Watcher Guru • 17h ago
-
----
-
-**[Recap: Here’s how Bitcoin, Ethereum, Solana, and XRP ETFs performed this week](https://ambcrypto.com/recap-heres-how-bitcoin-ethereum-solana-and-xrp-etfs-performed-this-week/)**
-
-While, Bitcoin ETF saw a mix of outflows and inflows, other altcoin ETFs were also on the same page with more diversified ETFs on the way.
-
-AMBCrypto • 6h ago
+Watcher Guru • 19h ago
 
 ---
 
@@ -242,7 +242,7 @@ Get 5% off the BitBox02 and take your crypto off exchanges → https://bitbox.sw
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 231 • 💬 57 • ⏱️ 19:32 • 13h ago
+👁️ 5K • 👍 231 • 💬 57 • ⏱️ 19:32 • 14h ago
 
 ---
 
@@ -252,7 +252,7 @@ BITCOIN: The Calm Before The Storm (Prepare Now)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 4K • 👍 214 • 💬 245 • ⏱️ 18:13 • 5h ago
+👁️ 4K • 👍 214 • 💬 245 • ⏱️ 18:13 • 7h ago
 
 ---
 
@@ -262,7 +262,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 1K • 👍 46 • 💬 88 • ⏱️ 14:17 • 15h ago
+👁️ 1K • 👍 46 • 💬 88 • ⏱️ 14:17 • 17h ago
 
 ---
 
@@ -272,7 +272,7 @@ In this video, I take a closer look at the current Ethereum market structure and
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 195 • 💬 10 • ⏱️ 12:58 • 15h ago
+👁️ 4K • 👍 195 • 💬 10 • ⏱️ 12:58 • 16h ago
 
 ---
 
@@ -292,7 +292,7 @@ Join the $1K to $100K Trading Challenge! - https://bit.ly/1kto100ktradingchallen
 
 📺 Altcoin Doctor
 
-👁️ 14 • 👍 1 • ⏱️ 9:12 • 3h ago
+👁️ 14 • 👍 1 • ⏱️ 9:12 • 5h ago
 
 ---
 
@@ -302,7 +302,7 @@ XRP Can NEVER Join Bitcoin, Ethereum & USDT – Here's the Shocking Reason (Mark
 
 📺 CryptoWendyO
 
-👁️ 8K • 👍 550 • 💬 17 • ⏱️ 13:47 • 11h ago
+👁️ 8K • 👍 550 • 💬 17 • ⏱️ 13:47 • 13h ago
 
 ---
 
@@ -312,7 +312,7 @@ In today's video I break down Bitcoin, Ethereum, stocks, oil, gold, and silver, 
 
 📺 James Crypto Guru
 
-👁️ 733 • 👍 93 • 💬 7 • ⏱️ 14:51 • 5h ago
+👁️ 733 • 👍 93 • 💬 7 • ⏱️ 14:51 • 7h ago
 
 ---
 
@@ -320,7 +320,7 @@ In today's video I break down Bitcoin, Ethereum, stocks, oil, gold, and silver, 
 
 📺 IcedCoffeeMinute
 
-👁️ 424 • 👍 6 • ⏱️ 0:29 • 25m ago
+👁️ 424 • 👍 6 • ⏱️ 0:29 • 2h ago
 
 ---
 
@@ -330,7 +330,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 394 • 👍 57 • ⏱️ 7:06 • 2h ago
+👁️ 394 • 👍 57 • ⏱️ 7:06 • 4h ago
 
 ---
 
