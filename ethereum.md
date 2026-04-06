@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-06T15:50:29.334627+00:00'
+updated: '2026-04-06T16:51:17.828033+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
+- news
 - cryptocurrency
 - videos
-- news
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 06, 2026 at 15:50 UTC  
+**Last Updated:** April 06, 2026 at 16:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,164.16
+### $2,161.96
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +5.5%  
-**7d:** +2.7%  
-**30d:** +11.8%  
-**90d:** -31.7%  
-**1y:** +39.2%  
+**24h:** +5.1%  
+**7d:** +2.8%  
+**30d:** +12.0%  
+**90d:** -31.6%  
+**1y:** +39.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $258.70B
+**Market Cap:** $261.37B
 Rank #2
 
 **Circulating Supply:** 120,691,215 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--56.7%
+-56.2%
 
 **All-Time Low:** $0.43
-+494977.1%
++500028.2%
 
 ---
 
@@ -72,13 +72,19 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
 **[ZK-powered order book DEXs are quietly becoming the most interesting sector in DeFi. Is anyone else paying attention?](https://www.reddit.com/r/ethereum/comments/1sdxks3/zkpowered_order_book_dexs_are_quietly_becoming/)**
 
-3h ago
+4h ago
+
+---
+
+**[Trending Markets just dropped on PolyApex — Trade Markets and Copy Trade Polymarket predictions](https://www.reddit.com/r/ethereum/comments/1se3m2z/trending_markets_just_dropped_on_polyapex_trade/)**
+
+28m ago
 
 ---
 
@@ -86,7 +92,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The true bottleneck in Ethereum dApp architecture isn't just on-chain gas, it's the off-chain infrastructure required to read the state. When protocols are designed without considering how data is indexed, they force massive hardware and cost requirements onto the ecosystem. The Blind Spot of Internal Transfers: Standard contract-to-contract ETH transfers (call{value: x}()) don't emit logs. Because they bypass block bloom filters, standard node queries like eth_getLogs miss them entirely. Trade-off: To index these reliably without protocol-level changes, you are forced into EVM tracing (debug_traceTransaction). This is incredibly I/O heavy, essentially requiring dedicated archive nodes or premium RPC tiers. Emitting custom on-chain events for internal transfers is a critical architectural pattern if you develop your own protocol that you want to monitor, it shifts the burden away from expensive execution traces and local state simulations, saving infrastructure operators massive overhead. Infrastructure Resilience vs. WebSockets: For low-latency dApps, eth_subscribe over WebSockets is the standard. However, long-lived WS connections are notoriously flaky and silently drop packets, leading to degraded, out-of-sync frontends. Architecture standard: A resilient Ethereum stack requires a hybrid model. Maintain the WS connection for real-time mempool and head-of-chain detection, but always run a background worker polling eth_getLogs with a sliding block window to patch missed events during WS reconnects. JSON-RPC Network Overhead: Spamming nodes with individual read requests congests RPCs. MulticallV3 batching is mandatory for minimizing network round trips. Trade-off: When wrapping complex calls, using tryAggregate handles partial successes gracefully. However, it significantly increases EVM execution cost due to internal CALL overhead and memory expansion when capturing return data you might discard. If your batch loop is too large, you will hit the strict execution timeouts or global eth_call gas caps enforced by commercial RPCs, causing the node to drop the entire request. Source/Full Breakdown:https://andreyobruchkov1996.substack.com/p/ethereum-dev-hacks-catching-hidden-transfers-real-time-events-and-multicalls-bef7435b9397
 
-16h ago
+17h ago
 
 ---
 
@@ -138,14 +144,6 @@ Where is everyone trading/storing their crypto specifically eth? I currently am 
 
 ---
 
-**[145 Doots Live with LogrisTheBard](https://www.reddit.com/r/ethereum/comments/1sbmaho/145_doots_live_with_logristhebard/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtu.be](https://youtu.be/ylRbyff4xKs) • 2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -154,7 +152,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Algorand's ALGO token has emerged as an unexpected beneficiary of the market’s latest quantum-computing debate.
 
-CryptoSlate • 23h ago
+CryptoSlate • 1d ago
 
 ---
 
@@ -170,7 +168,7 @@ The Motley Fool • 2d ago
 
 Publicly traded Ethereum treasury firm BitMine Immersion Technologies added $150 million of ETH last week, boosting its $10.3 billion stash.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -178,7 +176,7 @@ Yahoo Finance • 1h ago
 
 Crypto markets are in the green on Monday, with Bitcoin, Ethereum and XRP all posting modest gains after weeks of subdued price action. Bitcoin is trading around $69,137, up 3% in 24 hours. Ethereum has climbed to $2,131, gaining nearly 4%. XRP is holding near $1.33, up roughly 2% on the day.Iran T…
 
-TradingView • 11h ago
+TradingView • 12h ago
 
 ---
 
@@ -190,25 +188,33 @@ Decrypt • 2d ago
 
 ---
 
+**[ETH Up or Down - 5 Minutes](https://polymarket.com/event/eth-updown-5m-1775469300)**
+
+Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+
+Polymarket • 16h ago
+
+---
+
+**[Ethereum (ETH) Price Targets $2,500 as Bears Lose Control](https://www.ccn.com/analysis/crypto/ethereum-price-2500-target-eth-analysis-bullish-reversal/)**
+
+CCN.com • 2h ago
+
+---
+
 **[Current price of Ethereum for April 6, 2026](https://fortune.com/article/price-of-ethereum-04-06-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 2h ago
+Fortune • 3h ago
 
 ---
 
-**[Ethereum Foundation doubles staked ether, clearing two-thirds of 70,000 ETH target](https://www.theblock.co/post/396297/ethereum-foundation-staked-ethereum-clearing-two-thirds-70000-eth-target)**
+**[Why XRP Can’t Join the Big Three Bitcoin, Ethereum, and USDT](https://watcher.guru/news/why-xrp-cant-join-the-big-three-bitcoin-ethereum-and-usdt)**
 
-The foundation’s latest staking allocation mirrors its biggest-ever single-day move and is a major step-up from its initial February deployment.
+Why XRP can't crack the big three: supply pressure, price resistance, and a market cap gap that keeps widening against Bitcoin and Ethereum.
 
-The Block • 2d ago
-
----
-
-**[Investors Tiptoe Back Into Grayscale’s Ethereum Mini Trust as ETH Price Slides](https://www.tipranks.com/news/cryptocurrencies/investors-tiptoe-back-into-grayscales-ethereum-mini-trust-as-eth-price-slides)**
-
-TipRanks • 5h ago
+Watcher Guru • 1d ago
 
 ---
 
@@ -216,15 +222,7 @@ TipRanks • 5h ago
 
 While, Bitcoin ETF saw a mix of outflows and inflows, other altcoin ETFs were also on the same page with more diversified ETFs on the way.
 
-AMBCrypto • 16h ago
-
----
-
-**[Ethereum Just Flashed a Rare Signal: What Happens Next?](https://coinpedia.org/price-analysis/ethereum-just-flashed-a-rare-signal-what-happens-next/)**
-
-Ethereum is flashing a rare market signal, and it’s not showing up in price yet. While the broader crypto market remains stuck in consolidation, ETH
-
-Coinpedia • 2d ago
+AMBCrypto • 17h ago
 
 ---
 
@@ -238,7 +236,7 @@ This is huge for crypto, bitcoin, ethereum and the rest of the markets!!!!! ----
 
 📺 Thomas Kralow
 
-👁️ 5K • 👍 2K • 💬 20 • ⏱️ 9:21 • 4h ago
+👁️ 11K • 👍 3K • 💬 33 • ⏱️ 9:21 • 5h ago
 
 ---
 
@@ -248,27 +246,27 @@ Get 5% off the BitBox02 and take your crypto off exchanges → https://bitbox.sw
 
 📺 Crypto Nutshell
 
-👁️ 7K • 👍 273 • 💬 63 • ⏱️ 19:32 • 23h ago
+👁️ 7K • 👍 284 • 💬 71 • ⏱️ 19:32 • 1d ago
 
 ---
 
-**[BITCOIN: The Calm Before The Storm (Prepare Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=xPusQb5EC1g)**
+**[Ethereum: One Last Rally Possible?](https://www.youtube.com/watch?v=7Zr0h1RYOAM)**
 
-BITCOIN: The Calm Before The Storm (Prepare Now)!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
+In this video, I take a closer look at the current Ethereum market structure and explain why the recent move higher does not ...
 
-📺 Crypto World
+📺 More Crypto Online
 
-👁️ 8K • 👍 296 • 💬 309 • ⏱️ 18:13 • 15h ago
+👁️ 473 • 👍 63 • 💬 2 • ⏱️ 13:46 • 37m ago
 
 ---
 
-**[WARNING: Bitcoin is 11 Days Away from a MASSIVE Move! (ETH, XRP, SOL, AVAX)](https://www.youtube.com/watch?v=_Eb6fYPj4TY)**
+**[A MASSIVE SIGNAL IS FLASHING FOR ETHEREUM (LAST TIME WAS INSANE)](https://www.youtube.com/watch?v=GqXhK6k76-A)**
 
-Welcome back to Verified Investing! In today's urgent crypto market update, Chief Market Strategist Gareth Soloway dives deep ...
+Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ Deposit from $100: Get a 1% bonus ✔️ Withdraw anytime ...
 
-📺 Gareth Soloway
+📺 Tyler Hill Crypto
 
-👁️ 104K • 👍 5K • 💬 496 • ⏱️ 11:47 • 1d ago
+👁️ 550 • 👍 54 • 💬 16 • ⏱️ 11:38 • 36m ago
 
 ---
 
@@ -278,7 +276,47 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 149 • 👍 17 • ⏱️ 4:45 • 5h ago
+👁️ 259 • 👍 26 • ⏱️ 4:45 • 6h ago
+
+---
+
+**[CRYPTO LIVE TRADING || 6 APRIL  | ‪@ClockTraderlive‬ #bitcoin #ethereum #crypto #btclivetrading](https://www.youtube.com/watch?v=GwpCeD0Tgp8)**
+
+join my social platforms for updates and analysis ✓Instagram: ...
+
+📺 Aryan trader Live
+
+👁️ 5K • 👍 6K • 1h ago
+
+---
+
+**[BITCOIN: The Calm Before The Storm (Prepare Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=xPusQb5EC1g)**
+
+BITCOIN: The Calm Before The Storm (Prepare Now)!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
+
+📺 Crypto World
+
+👁️ 8K • 👍 307 • 💬 310 • ⏱️ 18:13 • 16h ago
+
+---
+
+**[WARNING: Bitcoin is 11 Days Away from a MASSIVE Move! (ETH, XRP, SOL, AVAX)](https://www.youtube.com/watch?v=_Eb6fYPj4TY)**
+
+Welcome back to Verified Investing! In today's urgent crypto market update, Chief Market Strategist Gareth Soloway dives deep ...
+
+📺 Gareth Soloway
+
+👁️ 106K • 👍 5K • 💬 499 • ⏱️ 11:47 • 1d ago
+
+---
+
+**[Live Crypto Trading | Bitcoin, Ethereum, Altcoin Scalping &amp; Analysis in Real-Time](https://www.youtube.com/watch?v=Bw-f86fur4A)**
+
+Open Crypto Trading Account ➡️ https://india.delta.exchange/?code=stockburner Get Free access on - Crypto Trading Club ...
+
+📺 Trade with Burner
+
+👁️ 10K • 👍 501 • 💬 13 • ⏱️ 1:00:31 • 1h ago
 
 ---
 
@@ -288,47 +326,7 @@ XRP Can NEVER Join Bitcoin, Ethereum & USDT – Here's the Shocking Reason (Mark
 
 📺 CryptoWendyO
 
-👁️ 10K • 👍 585 • 💬 76 • ⏱️ 13:47 • 22h ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=YGyT8AQH2UQ)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Crypto Gyan
-
-👁️ 1K • 👍 103 • ⏱️ 7:06 • 12h ago
-
----
-
-**[$12 Trillion Charles Schwab Set To Launch Bitcoin &amp; Ethereum Trading — Huge News For Crypto Now](https://www.youtube.com/watch?v=m0LcanHMDPA)**
-
-IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purposes only. NOT financial, investment, or ...
-
-📺 The Kenzo Guy
-
-👁️ 4K • 👍 285 • 💬 15 • ⏱️ 27:08 • 2d ago
-
----
-
-**[Ethereum: One Last Rally Possible?](https://www.youtube.com/watch?v=WmeYCPWBx9A)**
-
-In this video, I take a closer look at the current Ethereum market structure and explain why the recent move higher does not ...
-
-📺 More Crypto Online
-
-👁️ 4K • 👍 202 • 💬 10 • ⏱️ 12:58 • 1d ago
-
----
-
-**[This Telegram Bot Pays Real Ethereum - Here&#39;s Proof](https://www.youtube.com/watch?v=lwl_SPxijQQ)**
-
-I tested how the Telegram + bot + Premium combo really works, and in this video I'll show where the money is, why some setups ...
-
-📺 Francesco Berlutti - FreeMan 
-
-👁️ 8K • 👍 509 • 💬 500 • ⏱️ 4:56 • 2d ago
+👁️ 10K • 👍 604 • 💬 77 • ⏱️ 13:47 • 23h ago
 
 ---
 
