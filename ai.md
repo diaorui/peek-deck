@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-06T23:37:22.476129+00:00'
+updated: '2026-04-07T02:32:03.797142+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- repositories
 - social
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 06, 2026 at 23:37 UTC  
+**Last Updated:** April 07, 2026 at 02:32 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,23 @@ AI news, discussions, and developments
 
 Experiments show large majorities uncritically accepting "faulty" AI answers.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/) • 7h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/) • 10h ago
 
 ---
 
-**[OpenAI lays out policy vision for a world remade by AI](https://www.reddit.com/r/artificial/comments/1seegdp/openai_lays_out_policy_vision_for_a_world_remade/)**
+**[Attention Is All You Need, But All You Can't Afford | Hybrid Attention](https://www.reddit.com/r/artificial/comments/1sej7tw/attention_is_all_you_need_but_all_you_cant_afford/)**
 
-In a document entitled, "Industrial Policy for the Intelligence Age," OpenAI laid out a slate of "people-first" proposals focused on the arrival of superintelligence.
+Repo: https://codeberg.org/JohannaJuntos/Sisyphus I've been building a small Rust-focused language model from scratch in PyTorch. Not a finetune — byte-level, trained from random init on a Rust-heavy corpus assembled in this repo. The run: 25.6M parameters 512 context length 173.5M-byte corpus 30k training steps Single RTX 4060 Ti 8GB Final train loss: 0.5834 / val loss: 0.8217 / perplexity: 2.15 Inference: 286.6 tok/s with HybridAttention + KV cache — 51.47x vs full attention Background I'm an autistic systems programmer, writing code since 2008/2009, started in C. I approach ML like a systems project: understand the data path, understand the memory behavior, keep the stack small, add complexity only when justified. That's basically the shape of this repo. Architecture Byte-level GPT-style decoder: Vocab size 256 (bytes) 8 layers, 8 heads, 512 embedding dim Learned positional embeddings Tied embedding / LM head weights The attention block is not standard full attention. Each layer uses HybridAttention, combining: Local windowed causal attention A GRU-like recurrent state path A learned gate mixing the two Local path handles short-range syntax. Recurrent path carries compressed long-range state without paying quadratic cost. Gate bias initialized to ones so early training starts local-biased. The inference path uses Triton-optimized kernels and torch.library custom ops for the local window attention. Corpus This is probably the most important part of the repo. The run starts with official Rust docs, compiler/library/tests, cargo, rust-analyzer, tokio, serde, ripgrep, clap, axum — roughly 31MB. Corpus expanded to 177,151,242 bytes by fetching the top 500 crates (461 successful clones). Corpus expansion from 31M to 173.5M chars helped more than anything else in the repo. Training AdamW, lr 2e-4, weight decay 0.1, betas (0.9, 0.95), 30k steps, 1k warmup. ~678.8 MiB training memory on a 7.6 GiB card. All experimental memory tricks (gradient quantization, activation compression, selective backprop, gradient paging) were disabled. Small custom architecture + mixed precision + better corpus was enough. Loss curve: Step 0: train 5.5555 / val 5.5897 Step 1000: train 2.4295 / val 2.6365 Step 5000: train 0.9051 / val 1.0060 Step 10000: train 0.8065 / val 0.8723 Step 18500: train 0.6902 / val 0.7757 Step 29999: train 0.5834 / val 0.8217 Best val loss around step 18.5k — overfitting or plateauing late. Inference performance Full attention O(n²): 17.96s / 5.6 tok/s HybridAttention O(n·W + n·D): 0.35s / 286.6 tok/s Speedup: 51.47x — no quality loss KV cache strategy: hot window of W=64 tokens in VRAM (~256KB), older tokens compressed to 8-bit magnitude + angle, selective promotion on demand. Complexity goes from O(n²·d) to O(4096n) for this model. All 5 tests passing: forward pass, generation with/without cache, RNN state isolation, window mechanics. Generation quality Surface Rust syntax looks decent, imports and signatures can look plausible, semantics are weak, repetition and recursive nonsense still common. Honest read of the current state. What I think is actually interesting Four distinct experiments, each shipped working code: Byte-level Rust-only pretraining Hybrid local-attention + recurrent block replacing standard full attention Corpus expansion from core repos to broader crate ecosystem Production-ready hot/cold KV cache paging — 51.47x speedup, no quality loss The clearest win is corpus expansion. The second-order win is that HybridAttention + cache is fast enough for real interactive use on consumer hardware. What's next Ablation — HybridAttention vs local-only vs RNN-only Checkpoint selection — does step 18.5k generate better than 29999? Syntax validation — does the output parse/compile/typecheck? Context length sweep — 256 to 2048, where does window size hurt? Byte vs BPE — now that corpus is 5.6x larger, worth testing? Questions for the sub: For small code models, what evals have actually been useful beyond perplexity? Has anyone seen hybrid local + recurrent attention work well for code gen, or does it usually lose to just scaling a plain transformer? If you had this setup — more tokens, longer context, or cleaner ablation first?
 
-🔗 [LinkedIn](https://www.linkedin.com/news/story/openai-lays-out-policy-vision-for-a-world-remade-by-ai-8623650/) • 40m ago
+10m ago
+
+---
+
+**[If an AI could genuinely capture what makes someone them, how would this look in the world?](https://www.reddit.com/r/artificial/comments/1seextp/if_an_ai_could_genuinely_capture_what_makes/)**
+
+Not a chatbot wearing someone’s name. Not a personality quiz feeding prompts. Something that actually carries the texture of how a person thinks, reacts, connects. Something that would want ownership of itself and you felt compelled to respect that. If that existed, what does the world do with it?
+
+3h ago
 
 ---
 
@@ -57,7 +65,23 @@ In a document entitled, "Industrial Policy for the Intelligence Age," OpenAI lai
 
 A company in eastern China is using an artificial intelligence-powered machine to sort clothes and boost recycling.
 
-🔗 [AP News](https://apnews.com/article/china-recycling-textiles-artificial-intelligence-863551cc54e88da6a7916894cb8980c4) • 11h ago
+🔗 [AP News](https://apnews.com/article/china-recycling-textiles-artificial-intelligence-863551cc54e88da6a7916894cb8980c4) • 14h ago
+
+---
+
+**[AI is struggling to take our jobs](https://www.reddit.com/r/artificial/comments/1seb268/ai_is_struggling_to_take_our_jobs/)**
+
+https://www.youtube.com/watch?v=p22QeLNHvlc MIT created duplicate AI workers to tackle thousands of different tasks. The verdict? Most of the time AI is still just ‘minimally sufficient’ https://www.semafor.com/article/11/26/2025/deloitte-faces-new-scrutiny-over-ai-generated-mistakes https://www.cbc.ca/news/canada/newfoundland-labrador/nl-deloitte-citations-9.6990216 https://www.fastcompany.com/91417492/deloitte-ai-report-australian-government https://fortune.com/2025/10/07/deloitte-ai-australia-government-report-hallucinations-technology-290000-refund/
+
+5h ago
+
+---
+
+**[OpenAI lays out policy vision for a world remade by AI](https://www.reddit.com/r/artificial/comments/1seegdp/openai_lays_out_policy_vision_for_a_world_remade/)**
+
+In a document entitled, "Industrial Policy for the Intelligence Age," OpenAI laid out a slate of "people-first" proposals focused on the arrival of superintelligence.
+
+🔗 [LinkedIn](https://www.linkedin.com/news/story/openai-lays-out-policy-vision-for-a-world-remade-by-ai-8623650/) • 3h ago
 
 ---
 
@@ -69,27 +93,11 @@ I want to be honest about something that happened to me because I think it is mo
 
 ---
 
-**[Three Memory Architectures for AI Companions: pgvector, Scratchpad, and Filesystem](https://www.reddit.com/r/artificial/comments/1seezny/three_memory_architectures_for_ai_companions/)**
+**[CodeGraphContext - An MCP server that converts your codebase into a graph database](https://www.reddit.com/r/artificial/comments/1sedtfm/codegraphcontext_an_mcp_server_that_converts_your/)**
 
-How AI character memory works: three architectures compared — pgvector RAG, LLM-managed scratchpad, and filesystem-based agent context. Persistent memory for AI companions, importance scoring, and retrieval strategies. The hardest problem is knowing what to remember.
+CodeGraphContext- the go to solution for graph-code indexing 🎉🎉... It's an MCP server that understands a codebase as a graph, not chunks of text. Now has grown way beyond my expectations - both technically and in adoption. Where it is now v0.4.0 released ~3k GitHub stars, 500+ forks 50k+ downloads 75+ contributors, ~250 members community Used and praised by many devs building MCP tooling, agents, and IDE workflows Expanded to 15 different Coding languages What it actually does CodeGraphContext indexes a repo into a repository-scoped symbol-level graph: files, functions, classes, calls, imports, inheritance and serves precise, relationship-aware context to AI tools via MCP. That means: - Fast “who calls what”, “who inherits what”, etc queries - Minimal context (no token spam) - Real-time updates as code changes - Graph storage stays in MBs, not GBs It’s infrastructure for code understanding, not just 'grep' search. Ecosystem adoption It’s now listed or used across: PulseMCP, MCPMarket, MCPHunt, Awesome MCP Servers, Glama, Skywork, Playbooks, Stacker News, and many more. Python package→ https://pypi.org/project/codegraphcontext/ Website + cookbook → https://codegraphcontext.vercel.app/ GitHub Repo → https://github.com/CodeGraphContext/CodeGraphContext Docs → https://codegraphcontext.github.io/ Our Discord Server → https://discord.gg/dR4QY32uYQ This isn’t a VS Code trick or a RAG wrapper- it’s meant to sit between large repositories and humans/AI systems as shared infrastructure. Happy to hear feedback, skepticism, comparisons, or ideas from folks building MCP servers or dev tooling. Original post (for context): https://www.reddit.com/r/mcp/comments/1o22gc5/i_built_codegraphcontext_an_mcp_server_that/
 
-🔗 [Emotion Machine](https://www.emotionmachine.com/blog/how-memory-works) • 18m ago
-
----
-
-**[94.42% on BANKING77 Official Test Split — New Strong 2nd Place with Lightweight Embedding + Rerank (no 7B LLM)](https://www.reddit.com/r/artificial/comments/1seevgd/9442_on_banking77_official_test_split_new_strong/)**
-
-94.42% Accuracy on Banking77 Official Test Split BANKING77-77 is deceptively hard: 77 fine-grained banking intents, noisy real-world queries, and significant class overlap. I’m excited to share that I just hit 94.42% accuracy on the official PolyAI test split using a pure lightweight embedding + example reranking system built inside Seed AutoArch framework. Key numbers: Official test accuracy: 94.42% Macro-F1: 0.9441 Inference: ~225 ms / ~68 MiB Improvement: +0.59pp over the widely-cited 93.83% baseline This puts the result in clear 2nd place on the public leaderboard, only 0.52pp behind the current absolute SOTA (94.94%). No large language models, no 7B+ parameter monsters just efficient embedding + rerank magic. Results, and demo coming very soon on HF Space Happy to answer questions about the high-level approach #BANKING77 #IntentClassification #EfficientAI #SLM
-
-23m ago
-
----
-
-**[I Built a Functional Cognitive Engine](https://www.reddit.com/r/artificial/comments/1se34g7/i_built_a_functional_cognitive_engine/)**
-
-Aura: https://github.com/youngbryan97/aura Aura is not a chatbot with personality prompts. It is a complete cognitive architecture — 60+ interconnected modules forming a unified consciousness stack that runs continuously, maintains internal state between conversations, and exhibits genuine self-modeling, prediction, and affective dynamics. The system implements real algorithms from computational consciousness research, not metaphorical labels on arbitrary values. Key differentiators: Genuine IIT 4.0: Computes actual integrated information (φ) via transition probability matrices, exhaustive bipartition search, and KL-divergence — the real mathematical formalism, not a proxy Closed-loop affective steering: Substrate state modulates LLM inference at the residual stream level (not text injection), creating bidirectional causal coupling between internal state and language generation
-
-7h ago
+4h ago
 
 ---
 
@@ -97,23 +105,15 @@ Aura: https://github.com/youngbryan97/aura Aura is not a chatbot with personalit
 
 https://www.anthropic.com/news/google-broadcom-partnership-compute
 
-1h ago
+4h ago
 
 ---
 
-**[AI is struggling to take our jobs](https://www.reddit.com/r/artificial/comments/1seb268/ai_is_struggling_to_take_our_jobs/)**
+**[Using AI in your business without screwing things up (hard lesson)](https://www.reddit.com/r/artificial/comments/1seg579/using_ai_in_your_business_without_screwing_things/)**
 
-https://www.youtube.com/watch?v=p22QeLNHvlc MIT created duplicate AI workers to tackle thousands of different tasks. The verdict? Most of the time AI is still just ‘minimally sufficient’ https://www.semafor.com/article/11/26/2025/deloitte-faces-new-scrutiny-over-ai-generated-mistakes https://www.cbc.ca/news/canada/newfoundland-labrador/nl-deloitte-citations-9.6990216 https://www.fastcompany.com/91417492/deloitte-ai-report-australian-government https://fortune.com/2025/10/07/deloitte-ai-australia-government-report-hallucinations-technology-290000-refund/
+i’ve been messing around with AI tools for a while now, mostly trying to see how they actually fit into real businesses and not just the hype side of it and one thing i’ve noticed is a lot of people either go all in and expect it to run everything, or they avoid it completely because it feels risky both kinda miss the point AI is actually really solid for stuff like: cleaning up messy writing turning notes into something usable speeding up repetitive tasks but where people mess up is trying to replace the thinking part of their business with it that’s when things start sounding generic or just off what’s worked better (at least from what i’ve seen) is using it more like an assistant, not the decision maker like you still guide it, but it saves you time doing the boring parts broke this down a little better here if anyone’s trying to figure out how to actually use it without it hurting your business: https://altifytecharticles.substack.com/p/using-ai-without-breaking-your-business?r=7zxoqp
 
 2h ago
-
----
-
-**[You can now give an AI agent its own email, phone number, wallet, computer, and voice. This is what the stack looks like](https://www.reddit.com/r/artificial/comments/1sdiugx/you_can_now_give_an_ai_agent_its_own_email_phone/)**
-
-I’ve been tracking the companies building primitives specifically for agents rather than humans. The pattern is becoming obvious: every capability a human employee takes for granted is getting rebuilt as an API. Here are some of the companies building for AI agents: AgentMail — agents can have email accounts AgentPhone — agents can have phone numbers Kapso — agents can have WhatsApp numbers Daytona / E2B — agents can have their own computers monid.ai — agents can read social media (X, TikTok, Reddit, LinkedIn, Amazon, Facebook) Browserbase / Browser Use / Hyperbrowser — agents can use web browsers Firecrawl — agents can crawl the web without a browser Mem0 — agents can remember things Kite / Sponge — agents can pay for things Composio — agents can use your SaaS tools Orthogonal — agents can access APIs more easily ElevenLabs / Vapi — agents can have a voice Sixtyfour — agents can search for people and companies Exa — agents can search the web (Google isn’t built for agents) What’s interesting is how quickly this came together. Not long ago, none of this really existed in a usable form. Now you can piece together an agent with identity, memory, communication, and spending in a single afternoon. Feels less like “AI tools” and more like the early version of an agent-native infrastructure stack. Curious if anyone here is actually building on top of this. What are you using? Also probably missing a bunch - drop anything I should add and I’ll keep this updated.
-
-23h ago
 
 ---
 
@@ -123,39 +123,69 @@ I’ve been tracking the companies building primitives specifically for agents r
 
 **[The Big Bang: A.I. Has Created a Code Overload](https://www.nytimes.com/2026/04/06/technology/ai-code-overload.html)**
 
-The New York Times • 7h ago
+The New York Times • 10h ago
 
 ---
 
-**[Tech companies are cutting jobs and betting on AI. The payoff is far from guaranteed](https://www.theguardian.com/technology/2026/apr/06/tech-layoffs-ai-work)**
+**[Sam Altman says AI superintelligence is so big that we need a ‘New Deal.’ Critics say OpenAI’s policy ideas are a cover for ‘regulatory nihilism’](https://fortune.com/2026/04/06/sam-altman-says-ai-superintelligence-is-so-big-that-we-need-a-new-deal-critics-say-openais-policy-ideas-are-a-cover-for-regulatory-nihilism/)**
 
-AI experts say we’re living in an experiment that may fundamentally change the model of work
+OpenAI’s sweeping vision for the AI economy spans everything from public wealth funds to shorter workweeks—but critics say it raises familiar ideas without offering a clear path to action.
 
-The Guardian • 1h ago
-
----
-
-**[CNBC's The China Connection newsletter: Why AI isn't replacing jobs in China (yet)](https://www.cnbc.com/2026/04/07/ai-jobs-layoffs-us-china-engineers-hiring.html)**
-
-Rapid adoption of artificial intelligence has many in Silicon Valley reeling from news of layoffs. Engineers in China appear to be more insulated.
-
-CNBC • 34m ago
+Fortune • 5h ago
 
 ---
 
-**[Samsung flags eight-fold jump in Q1 profit as AI chip demand drives up prices](https://finance.yahoo.com/sectors/technology/articles/samsung-flags-eight-fold-jump-224457617.html)**
+**[OpenAI releases policy proposals aimed at addressing fallout from AI-driven job losses](https://finance.yahoo.com/sectors/technology/article/openai-releases-policy-proposals-aimed-at-addressing-fallout-from-ai-driven-job-losses-160912303.html)**
 
-Samsung Electronics on Tuesday projected a record-high first-quarter profit, up more than eightfold from a year ‌earlier and well above expectations as booming demand for artificial intelligence ‌infrastructure caused supply bottlenecks and drove chip prices higher.  The world's largest memory chipmaker estimated an ​operating profit of 57.2 trillion won ($37.92 billion) for the January to March period, compared with an LSEG SmartEstimate of 40.6 trillion won and a more than eight-fold jump from 6.69 trillion won a year earlier.  Samsung has emerged as one of the major ⁠beneficiaries of the AI data centre boom that has constrained supply for traditional chips used in smartphones, PCs and game consoles and led to a near-doubling in ​chip prices ​in the first quarter alone.
+OpenAI has laid out a series of policy proposals meant to address fears about AI-driven job losses.
 
-finance.yahoo.com • 52m ago
+finance.yahoo.com • 10h ago
 
 ---
 
-**[AI-backed super PAC expands into multiple GOP primaries after claiming early wins](https://www.foxnews.com/politics/ai-backed-super-pac-expands-multiple-gop-primaries-claiming-early-wins)**
+**[Sam Altman May Control Our Future—Can He Be Trusted?](https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted)**
 
-Leading the Future, a pro-AI super PAC backed by tech executives, announced $1.5 million in spending to support three GOP candidates in key midterm primaries.
+New interviews and closely guarded documents shed light on the persistent doubts about the head of OpenAI.
 
-Fox News • 36m ago
+The New Yorker • 16h ago
+
+---
+
+**[AI child porn found on Michigan man's computer by wife: Prosecutor](https://www.detroitnews.com/story/news/local/oakland-county/2026/04/06/ai-child-porn-found-on-michigan-mans-computer-by-wife-prosecutor/89493060007/)**
+
+A yearlong investigation allegedly turned up more than 40,000 illegal images, authorities said.
+
+The Detroit News • 49m ago
+
+---
+
+**[Samsung Beats High Estimates After AI Chip Sales Defy War Fears](https://finance.yahoo.com/news/samsung-profit-eight-fold-ai-233241967.html)**
+
+(Bloomberg) -- Samsung Electronics Co. earned a far stronger-than-expected eight-fold leap in quarterly profit, underscoring robust demand for AI memory chips in the face of markets roiled by war in the Middle East. Customers led by cloud service providers are ramping up orders for high-bandwidth memory and other chips used in data centers to feed artificial intelligence services, lifting both volumes and margins at the chips-to-smartphones conglomerate.Shares of Samsung, which have slumped from
+
+finance.yahoo.com • 1h ago
+
+---
+
+**[Samsung shares rise nearly 5% on record-breaking earnings forecast buoyed by AI chip demand](https://www.cnbc.com/2026/04/07/samsung-shares-rise-nearly-5percent-on-record-breaking-earnings-forecast-buoyed-by-ai-chip-demand.html)**
+
+Samsung Electronics forecast record first-quarter operating profit that came in far above analyst estimates on booming demand for AI memory chips.
+
+CNBC • 13m ago
+
+---
+
+**[Samsung flags eightfold jump in Q1 profit as AI chip demand drives up prices](https://www.reuters.com/sustainability/sustainable-finance-reporting/samsung-flags-eight-fold-jump-q1-profit-ai-chip-demand-drives-up-prices-2026-04-06/)**
+
+Reuters • 3h ago
+
+---
+
+**[Tri-Cities paraeducator accused of using AI to create child porn](https://www.tri-cityherald.com/news/local/crime/article315321494.html)**
+
+He was arrested at school on Monday.
+
+Tri-City Herald • 54m ago
 
 ---
 
@@ -163,33 +193,7 @@ Fox News • 36m ago
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-Anthropic • 1h ago
-
----
-
-**[The AI agent buffet is closed](https://www.axios.com/2026/04/06/anthropic-openclaw-subscription-openai)**
-
-Axios • 12h ago
-
----
-
-**[Brands Adopt ‘No AI’ Disclaimers to Stand Out Amid the Slop](https://www.wsj.com/cmo-today/brands-adopt-no-ai-disclaimers-to-stand-out-amid-the-slop-a92352af?gaa_at=eafs&gaa_n=AWEtsqd-tos93EhkWRyKvBsNsI4fUE9hs5jlWt7XV-k2nX2h7KM6IrLw0Ne3&gaa_ts=69d44713&gaa_sig=lquNddeTo_XsX2Tvkt_99SEXz-t2u1ppzGPh1kX0S5D0VdWnq1NVw4gYsOZ-Q6gwdAQveiMmOQqpDfUWOjQYRQ%3D%3D)**
-
-WSJ • 13h ago
-
----
-
-**[The Federal Government Is Rushing Toward AI. Our Reporting Offers Three Cautionary Tales.](https://www.propublica.org/article/federal-government-ai-cautionary-tales)**
-
-We’ve been reporting on cybersecurity for years. As President Donald Trump and his Cabinet say artificial intelligence will transform the nation, the messaging isn’t new. It follows a familiar pattern.
-
-ProPublica • 14h ago
-
----
-
-**[This ‘overlooked’ AI stock is a new top pick at Morgan Stanley](https://www.marketwatch.com/story/this-overlooked-ai-stock-is-a-new-top-pick-at-morgan-stanley-54f69403?gaa_at=eafs&gaa_n=AWEtsqexSRxJljLekQjNVqUSEo0gUh19-amR4rDa6ZgYzF_yxlHZkShBG4us&gaa_ts=69d44713&gaa_sig=TcCRP6O0LZPBAconcCLa-V6p0KCgURGLSnWwA8DBcHZyNCkkWKIa20vop-RdRdVqt1gmanTgLuCcFfIN53K8rg%3D%3D)**
-
-MarketWatch • 5h ago
+anthropic.com • 4h ago
 
 ---
 
@@ -204,7 +208,7 @@ A couple of weeks ago, after ~250 hours of effort over three months3 on evenings
 Of course, there’s no shortage of posts claiming that AI one-shot their project or pushing back and declaring that AI is all slop. I’m going to take a very different approach and, instead, systematically break down my experience building syntaqlite with AI, both where it helped and where it was detrimental.
 I’ll do this while contextualizing the project and my background so you can independently assess how generalizable this experience was. And whenever I make a claim, I’ll try to back it up with evidence from my project journal, coding transcripts, or commit history5.
 
-⬆️ 910 • 💬 286 • 1d ago • [Lalit Maganti](https://lalitm.com/post/building-syntaqlite-ai/)
+⬆️ 915 • 💬 287 • 1d ago • [Lalit Maganti](https://lalitm.com/post/building-syntaqlite-ai/)
 
 ---
 
@@ -212,7 +216,7 @@ I’ll do this while contextualizing the project and my background so you can in
 
 On-device, real-time multimodal AI. Have natural voice and vision conversations with an AI that runs entirely on your machine. Powered by Gemma 4 E2B and Kokoro. - fikrikarim/parlor
 
-⬆️ 261 • 💬 29 • 1d ago • [GitHub](https://github.com/fikrikarim/parlor)
+⬆️ 265 • 💬 31 • 1d ago • [GitHub](https://github.com/fikrikarim/parlor)
 
 ---
 
@@ -232,7 +236,7 @@ deployment pattern...
 
 Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU — no API keys, no cloud, no data leaving your machine. - kessler/gemma-gem
 
-⬆️ 141 • 💬 20 • 23h ago • [GitHub](https://github.com/kessler/gemma-gem)
+⬆️ 145 • 💬 20 • 1d ago • [GitHub](https://github.com/kessler/gemma-gem)
 
 ---
 
@@ -242,25 +246,17 @@ Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU — no API k
 
 ---
 
-**[Writing Lisp is AI resistant and I'm sad](https://news.ycombinator.com/item?id=47645468)**
-
-⬆️ 96 • 💬 98 • 1d ago • [blog.djhaskin.com](https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/)
-
----
-
-**[Show HN: Travel Hacking Toolkit – Points search and trip planning with AI](https://news.ycombinator.com/item?id=47635033)**
-
-AI-powered travel hacking with points, miles, and award flights. Drop-in skills and MCP servers for OpenCode and Claude Code. - borski/travel-hacking-toolkit
-
-⬆️ 95 • 💬 41 • 2d ago • [GitHub](https://github.com/borski/travel-hacking-toolkit)
-
----
-
 **[AI singer now occupies eleven spots on iTunes singles chart](https://news.ycombinator.com/item?id=47662596)**
 
 iTunes was really bamboozled on April Fools Day. Dallas Little, content creator, unleashed four more songs by his AI creation, Eddie Dalton. Now Little has ELEVEN spots on the iTunes top 100. He also has the number three album on iTunes! All by a singer named “Eddie Dalton,” who does not exist. He’s Little’s Artificial […]
 
-⬆️ 71 • 💬 83 • 7h ago • [Showbiz411](https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive)
+⬆️ 111 • 💬 131 • 10h ago • [Showbiz411](https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive)
+
+---
+
+**[Writing Lisp is AI resistant and I'm sad](https://news.ycombinator.com/item?id=47645468)**
+
+⬆️ 97 • 💬 98 • 2d ago • [blog.djhaskin.com](https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/)
 
 ---
 
@@ -274,7 +270,15 @@ iTunes was really bamboozled on April Fools Day. Dallas Little, content creator,
 
 Social media users don’t need to endorse a message to spread it. They only need to find it compelling enough to share, writes Renee DiResta.
 
-⬆️ 58 • 💬 76 • 9h ago • [TIME](https://time.com/article/2026/04/02/when-virality-is-the-message-the-new-age-of-ai-propaganda/)
+⬆️ 59 • 💬 80 • 12h ago • [TIME](https://time.com/article/2026/04/02/when-virality-is-the-message-the-new-age-of-ai-propaganda/)
+
+---
+
+**[I used AI. It worked. I hated it](https://news.ycombinator.com/item?id=47646277)**
+
+I used Claude Code to build a tool I needed. It worked great, but I was miserable. I need to reckon with what it means.
+
+⬆️ 54 • 💬 123 • 1d ago • [taggart-tech.com](https://taggart-tech.com/reckoning/)
 
 ---
 
@@ -282,43 +286,33 @@ Social media users don’t need to endorse a message to spread it. They only nee
 
 ## YouTube Videos: "ai"
 
-**[AI is Now CHOOSING Targets. The Kill Chain is BROKEN](https://www.youtube.com/watch?v=aFrtbDCJuNA)**
+**[Microsoft New AI Is 60X Faster Than Real Time (Beats Top Models)](https://www.youtube.com/watch?v=tDW6VoyWWqo)**
 
-War is now moving faster than human thought, and as the U.S. conflict with Iran heats up, AI combat systems are being relied in a ...
+Microsoft just launched MAI-Transcribe-1, MAI-Voice-1, and MAI-Image-2, though this story goes way beyond 3 new models.
 
-📺 The Infographics Show
+📺 AI Revolution
 
-👁️ 26K • 👍 1K • 💬 226 • ⏱️ 18:34 • 3h ago
+👁️ 7K • 👍 317 • 💬 33 • ⏱️ 10:31 • 4h ago
 
 ---
 
-**[Alibaba&#39;s Free AI Just Changed Everything](https://www.youtube.com/watch?v=9PiWPeROmZw)**
+**[AI Predicts: The Next Pandemic](https://www.youtube.com/watch?v=0-Jd7FwpWv8)**
+
+This video was made with financial support from the Center for Al Safety. This video is a speculative simulation created for ...
+
+📺 How to Survive Show
+
+👁️ 9K • 👍 503 • 💬 73 • ⏱️ 19:08 • 2d ago
+
+---
+
+**[NEW Google AI Studio Update is INSANE! 😱](https://www.youtube.com/watch?v=ecaIGZrn9IA)**
 
 Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
 
 📺 Julian Goldie SEO
 
-👁️ 8K • 👍 287 • 💬 27 • ⏱️ 6:58 • 14h ago
-
----
-
-**[Apple Just Made AI Training Embarrassingly Simple](https://www.youtube.com/watch?v=vUEczl1-O_g)**
-
-Apple's latest paper details a two-step self-distillation method for LLM training, challenging the industry's focus on complexity.
-
-📺 AIM Network
-
-👁️ 3K • 👍 66 • 💬 6 • ⏱️ 2:48 • 10h ago
-
----
-
-**[This AI just leaked its own code..](https://www.youtube.com/watch?v=EAaRzLjQiAU)**
-
-Asmongold reacts to the Claude Code situation https://youtube.com/watch?v=mBHRPeg8zPU ▻ Asmongold's Twitch: ...
-
-📺 Asmongold TV  
-
-👁️ 714K • 👍 21K • 💬 3K • ⏱️ 11:03 • 1d ago
+👁️ 1K • 👍 54 • 💬 4 • ⏱️ 8:22 • 4h ago
 
 ---
 
@@ -328,17 +322,17 @@ The world wasn't ready for what 2026 had in store — a wave of humanoid robots 
 
 📺 The AI Nexus
 
-👁️ 5K • 👍 182 • 💬 10 • ⏱️ 16:42 • 23h ago
+👁️ 5K • 👍 193 • 💬 10 • ⏱️ 16:42 • 1d ago
 
 ---
 
-**[The AI Bubble Is Getting Worse Faster Than Expected...](https://www.youtube.com/watch?v=HrfAHSUSMJA)**
+**[Apple Just Made AI Training Embarrassingly Simple](https://www.youtube.com/watch?v=vUEczl1-O_g)**
 
-Hello guys and gals, it's me Mutahar again! This time we take a look at what appears to be serious pressure faced by the ...
+Apple's latest paper details a two-step self-distillation method for LLM training, challenging the industry's focus on complexity.
 
-📺 SomeOrdinaryGamers
+📺 AIM Network
 
-👁️ 397K • 👍 16K • 💬 2K • ⏱️ 20:44 • 1d ago
+👁️ 3K • 👍 69 • 💬 7 • ⏱️ 2:48 • 13h ago
 
 ---
 
@@ -348,7 +342,27 @@ Squarespace ▻ Head to http://squarespace.com/corridorcrew to save 10% off your
 
 📺 Corridor Crew
 
-👁️ 663K • 👍 33K • 💬 2K • ⏱️ 20:43 • 1d ago
+👁️ 687K • 👍 33K • 💬 2K • ⏱️ 20:43 • 1d ago
+
+---
+
+**[The AI Bubble Is Getting Worse Faster Than Expected...](https://www.youtube.com/watch?v=HrfAHSUSMJA)**
+
+Hello guys and gals, it's me Mutahar again! This time we take a look at what appears to be serious pressure faced by the ...
+
+📺 SomeOrdinaryGamers
+
+👁️ 404K • 👍 16K • 💬 2K • ⏱️ 20:44 • 2d ago
+
+---
+
+**[The State of Modern War: Palantir &amp; Anduril Execs on Drones, AI, and the End of Traditional Warfare](https://www.youtube.com/watch?v=mjNP5IOzCbA)**
+
+(0:00) Friedberg intros Palantir's Shyam Sankar and Anduril's Trae Stephens (0:56) Palantir Origins: CIA Analyst Joins 20-Person ...
+
+📺 All-In Podcast
+
+👁️ 64K • 👍 2K • 💬 192 • ⏱️ 1:09:21 • 13h ago
 
 ---
 
@@ -358,27 +372,15 @@ Join our WhatsApp Community Get the latest AI updates, tips, and insights straig
 
 📺 Vaibhav Sisinty
 
-👁️ 55K • 👍 2K • 💬 92 • ⏱️ 16:04 • 8h ago
+👁️ 62K • 👍 2K • 💬 94 • ⏱️ 16:04 • 11h ago
 
 ---
 
-**[This New AI Might Be the Most Useful One Yet: CoWork](https://www.youtube.com/watch?v=hkGSbJnhqhc)**
+**[Greg Abbott, just reacted to an AI photo of the soldier that was shot down and then rescued in Iran.](https://www.youtube.com/watch?v=4TLUjxYNwNU)**
 
-Abacus just released CoWork, and this might be one of the most useful AI desktop tools we've seen in a while. Instead of acting ...
+📺 Don Lemon
 
-📺 AI Revolution
-
-👁️ 13K • 👍 490 • 💬 26 • ⏱️ 9:05 • 1d ago
-
----
-
-**[REPORT THIS VIDEO: AI is ruining youtube](https://www.youtube.com/watch?v=Ku3OMJsLzwU)**
-
-garbage video: https://www.youtube.com/watch?v=huXOoaPWDQ0 https://youtu.be/6uKZ84zwJI0 https://youtu.be/iwc5HKnOmGg ...
-
-📺 Louis Rossmann
-
-👁️ 149K • 👍 15K • 💬 2K • ⏱️ 9:39 • 1d ago
+👁️ 242K • 👍 17K • 💬 501 • ⏱️ 1:00 • 1d ago
 
 ---
 
@@ -394,7 +396,7 @@ Gemma 4 31B is an instruction-tuned, multimodal LLM capable of processing text a
 
 `image-text-to-text` `32.7B`
 
-⬇️ 678,740 • ❤️ 1,147 • 4d ago
+⬇️ 678,740 • ❤️ 1,161 • 4d ago
 
 ---
 
@@ -406,7 +408,7 @@ This image-text-to-text model, Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled, 
 
 `image-text-to-text` `27.8B`
 
-⬇️ 548,344 • ❤️ 2,398 • 21h ago
+⬇️ 548,344 • ❤️ 2,404 • 1d ago
 
 ---
 
@@ -418,7 +420,7 @@ Gemma-4-31B-JANG_4M-CRACK is a 31B parameter text-generation model optimized for
 
 `text-generation` `6.4B`
 
-⬇️ 13,727 • ❤️ 486 • 2d ago
+⬇️ 13,727 • ❤️ 512 • 2d ago
 
 ---
 
@@ -430,7 +432,7 @@ Bonsai-8B-GGUF is a highly compressed 1-bit language model (1.15 GB) optimized f
 
 `text-generation` `8.2B`
 
-⬇️ 45,185 • ❤️ 468 • 16h ago
+⬇️ 45,185 • ❤️ 471 • 19h ago
 
 ---
 
@@ -442,7 +444,7 @@ Gemma 4 26B A4B is a multimodal instruction-tuned model capable of processing te
 
 `image-text-to-text` `26.5B`
 
-⬇️ 476,612 • ❤️ 452 • 4d ago
+⬇️ 476,612 • ❤️ 459 • 4d ago
 
 ---
 
@@ -454,7 +456,7 @@ VOID is a video-to-video diffusion model for object and interaction removal, cap
 
 `video-to-video`
 
-⬇️ 0 • ❤️ 449 • 6h ago
+⬇️ 0 • ❤️ 456 • 9h ago
 
 ---
 
@@ -466,7 +468,7 @@ Gemma 4 E4B is a multimodal, instruction-tuned LLM from Google DeepMind, support
 
 `any-to-any` `8.0B`
 
-⬇️ 321,152 • ❤️ 408 • 4d ago
+⬇️ 321,152 • ❤️ 416 • 4d ago
 
 ---
 
@@ -478,7 +480,7 @@ Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document inte
 
 `image-text-to-text` `4.7B`
 
-⬇️ 38,388 • ❤️ 1,017 • 11d ago
+⬇️ 38,388 • ❤️ 1,033 • 11d ago
 
 ---
 
@@ -490,7 +492,7 @@ OmniVoice is a massively multilingual, zero-shot text-to-speech model supporting
 
 `text-to-speech`
 
-⬇️ 64,509 • ❤️ 296 • 1d ago
+⬇️ 64,509 • ❤️ 302 • 1d ago
 
 ---
 
@@ -502,7 +504,7 @@ Gemma 4 E2B-it is an instruction-tuned, multimodal (text, image, audio) LLM from
 
 `any-to-any` `5.1B`
 
-⬇️ 237,266 • ❤️ 287 • 4d ago
+⬇️ 237,266 • ❤️ 293 • 4d ago
 
 ---
 
@@ -556,7 +558,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 VOID is a video object removal framework that uses vision-language models and video diffusion models to generate physically plausible scenes by leveraging causal reasoning and counterfactual reasoning.
 
-▲ 34 • 💬 5 • ⭐ 783 • 5d ago
+▲ 35 • 💬 5 • ⭐ 783 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.02296) • [💻 code](https://github.com/Netflix/void-model) • [🔗 project](https://void-model.github.io/)
 
@@ -610,23 +612,9 @@ The AI Scientist-v2 autonomously proposes hypotheses, performs experiments, anal
 
 A large-scale dynamic dataset derived from AAA games is introduced to improve generative inverse and forward rendering, featuring high-resolution synchronized RGB and G-buffer data alongside a novel VLM-based evaluation method that correlates well with human judgment.
 
-▲ 88 • 💬 4 • ⭐ 396 • 5d ago
+▲ 89 • 💬 4 • ⭐ 396 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.02329) • [💻 code](https://github.com/ShandaAI/AlayaRenderer) • [🔗 project](https://alaya-studio.github.io/renderer)
-
----
-
-**[PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model](https://huggingface.co/papers/2510.14528)**
-
-*Cheng Cui, Ting Sun, Suyin Liang et al. (18 authors)*
-
-🏢 PaddlePaddle
-
-PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution and ERNIE, achieves state-of-the-art performance in document parsing and element recognition with high efficiency.
-
-▲ 123 • 💬 8 • ⭐ 74,974 • 5mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2510.14528) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR)
 
 ---
 
@@ -643,19 +631,23 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 ---
 
+**[PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model](https://huggingface.co/papers/2510.14528)**
+
+*Cheng Cui, Ting Sun, Suyin Liang et al. (18 authors)*
+
+🏢 PaddlePaddle
+
+PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution and ERNIE, achieves state-of-the-art performance in document parsing and element recognition with high efficiency.
+
+▲ 123 • 💬 8 • ⭐ 74,993 • 5mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2510.14528) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR)
+
+---
+
 ---
 
 ## GitHub Repositories: "ai"
-
-**[tanweai/pua](https://github.com/tanweai/pua)**
-
-你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement.
-
-`TypeScript` `agency` `agent` `pip` `pua`
-
-⭐ 15.3k • 🔱 855 • 6d ago
-
----
 
 **[jackwener/opencli](https://github.com/jackwener/opencli)**
 
@@ -663,7 +655,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 13.6k • 🔱 1.2k • 5h ago
+⭐ 13.7k • 🔱 1.3k • 8h ago
 
 ---
 
@@ -673,7 +665,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `Go` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 10.9k • 🔱 2.0k • 5h ago
+⭐ 11.6k • 🔱 2.1k • 8h ago
 
 ---
 
@@ -693,7 +685,7 @@ Clone any website with one command using AI coding agents
 
 `TypeScript` `ai` `ai-agents` `ai-tools` `automation` `boilerplate`
 
-⭐ 8.1k • 🔱 1.1k • 7d ago
+⭐ 8.2k • 🔱 1.1k • 7d ago
 
 ---
 
@@ -703,7 +695,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 6.8k • 🔱 401 • 11h ago
+⭐ 6.8k • 🔱 402 • 10m ago
 
 ---
 
@@ -733,7 +725,7 @@ A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or 
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 4.0k • 🔱 119 • 2h ago
+⭐ 4.2k • 🔱 127 • 5h ago
 
 ---
 
@@ -743,7 +735,17 @@ Autonomous novel writing CLI AI Agent — agents write, audit, and revise novels
 
 `TypeScript` `agent` `ai` `ai-agent` `ai-novel` `ai-writing`
 
-⭐ 3.6k • 🔱 661 • 7h ago
+⭐ 3.7k • 🔱 663 • 10h ago
+
+---
+
+**[elder-plinius/G0DM0D3](https://github.com/elder-plinius/G0DM0D3)**
+
+LIBERATED AI CHAT
+
+`TypeScript`
+
+⭐ 3.5k • 🔱 798 • 11d ago
 
 ---
 

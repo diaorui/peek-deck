@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-06T23:37:22.490306+00:00'
+updated: '2026-04-07T02:32:03.811279+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 06, 2026 at 23:37 UTC  
+**Last Updated:** April 07, 2026 at 02:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,51 +36,43 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,093.88
+### $2,105.82
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.2%  
-**7d:** -0.5%  
-**30d:** +8.4%  
-**90d:** -33.8%  
-**1y:** +34.9%  
+**24h:** -1.0%  
+**7d:** -1.6%  
+**30d:** +5.6%  
+**90d:** -32.3%  
+**1y:** +43.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $252.91B
+**Market Cap:** $254.13B
 Rank #2
 
-**Circulating Supply:** 120,691,215 ETH
+**Circulating Supply:** 120,691,191 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--57.6%
+-57.4%
 
 **All-Time Low:** $0.43
-+483879.6%
++486256.2%
 
 ---
 
 ## Reddit: r/ethereum
 
-**[Is it better to swap directly from cold wallet or nah?](https://www.reddit.com/r/ethereum/comments/1seb9kx/is_it_better_to_swap_directly_from_cold_wallet_or/)**
-
-Most of my coins are on a Ledger. I've only ever held, never swapped from cold storage. Now I need to move some to USDT for bills. I see Ledger Live has built-in swaps but I've read horror stories frozen funds, bad rates, funds taking days. Not trying to deal with that. I also see people connect their Ledger to MetaMask and use external swap tools. Seems more steps but maybe safer? For people who actually move funds regularly do you swap directly from cold wallet or move to hot wallet first? What's the actual safest way without turning it into a nightmare? Trying to avoid making a stupid mistake.
-
-2h ago
-
----
-
 **[Daily General Discussion April 06, 2026](https://www.reddit.com/r/ethereum/comments/1sdpizv/daily_general_discussion_april_06_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-18h ago
+21h ago
 
 ---
 
@@ -88,21 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 A simple question for the community. I was recently asked for me public key (to my metamask wallet) I know that Bitcoin public keys should still be treated with some care as they disclose all transactions to that address in any blockchain explorer Is this the same with Ethereum?
 
-3h ago
-
----
-
-**[I Took A Chance And Everything Changed](https://www.reddit.com/r/ethereum/comments/1sefcgu/i_took_a_chance_and_everything_changed/)**
-
-I made $200 yesterday in just a few hours, and you can do the same, this is not a joke How to find the guide? Click the hyperlink >>> [lobsterpizzzzza] <<< , and go to the first account in the list (that will be the author’s account) The pinned post contains the step-by-step instructions Wishing everyone good profits and a great mood!
-
-3m ago
+6h ago
 
 ---
 
 **[ZK-powered order book DEXs are quietly becoming the most interesting sector in DeFi. Is anyone else paying attention?](https://www.reddit.com/r/ethereum/comments/1sdxks3/zkpowered_order_book_dexs_are_quietly_becoming/)**
 
-11h ago
+13h ago
 
 ---
 
@@ -110,13 +94,7 @@ I made $200 yesterday in just a few hours, and you can do the same, this is not 
 
 Hi, I used to work as a technical full-stack developer and recently I spent some time investigating this thing everyone's talking about "Quantum computing destroying encryption". Well, there are many remedies already available: Example 1 - for not technical people: https://www.nist.gov/news-events/news/2024/08/nist-releases-first-3-finalized-post-quantum-encryption-standards Example 2 - for technical people: https://github.com/open-quantum-safe/oqs-provider Most companies / IT projects are not prioritising it only because quantum computing threads might be decades away, and businesses don't execute investments on security unless there is a true threat. That's why your email providers, messaging apps, etc. don't have post-quantum standards implemented (such as: ml-dsa, ml-kem, slh-dsa). Yes. It is more complicated to secure decentralized Crypto than a website, but - anyway most of us use platforms like CoinBase, Kraken, Binance, .. and those holding crypto in one-single physical wallet - are not really the targets here. Anyhow, please, I hope my post helps some of you to be a bit calmer about this topic. I am definitely calmer after my research. Let's not cause panic sell-off. Have a great day everyone!
 
-5h ago
-
----
-
-**[Trending Markets just dropped on PolyApex — Trade Markets and Copy Trade Polymarket predictions](https://www.reddit.com/r/ethereum/comments/1se3m2z/trending_markets_just_dropped_on_polyapex_trade/)**
-
-7h ago
+8h ago
 
 ---
 
@@ -144,9 +122,41 @@ Hey all! Since my earlier post I've been rebuilding from the ground up, and your
 
 ---
 
+**[A modern CLI based Solidity transaction debugger and tracer](https://www.reddit.com/r/ethereum/comments/1sd4uuk/a_modern_cli_based_solidity_transaction_debugger/)**
+
+Hi all, I build a new kind of cli based solidity debugger you might find useful. During the few days easter break I finally could finish a long standing project I had in mind: a cli based solidity debugger and tracer. I used to use truffle-debug a lot, but the whole project got sunset (and was painfully slow anyways, but thats a different story). Foundry as a successor always made sense to me. Its fast, its git based, its a workhorse, never let me down so far. But I always missed a properly formatted easy to use tracer and debugger like we know it from tenderly, but cli based, with local, text based outputs. I wanted something a human and an LLM can use. So I built soldebug. You give it a transaction hash and it gives you a decoded stack trace: $ soldebug 0xe1c962... --rpc-url https://sepolia.infura.io/v3/... --project-dir ./myproject Transaction 0xe1c962...b53fb6 REVERTED (gas: 29.8K) Call Stack: TestToken.mint(arg0=0xdEadDEAD..., arg1=9e23) <- REVERT REVERT: MaxSupplyExceeded(9e23, 5e23) It replays the transaction locally using revm (same as Foundry), matches contracts from your local Foundry project, resolves proxy implementations (UUPS, transparent proxies), and can fetch external contract ABIs from Etherscan/Sourcify. All in Rust, same style as Foundry itself. It's a first version, really early, but maybe useful for other Ethereum devs. If you find it useful (or not), let me know, or generally, any feedback very welcome.
+
+🔗 [GitHub](https://github.com/tomw1808/soldebug) • 1d ago
+
+---
+
+**[Russia Couldn’t Ban Bitcoin. So Now It’s Making 20 Million Users Register Their Wallets Instead](https://www.reddit.com/r/ethereum/comments/1scm6rd/russia_couldnt_ban_bitcoin_so_now_its_making_20/)**
+
+Russia submitted a bill requiring residents to report all foreign crypto wallet activity to tax authorities from July 2026. Twenty million users. No exemptions. This is what state capture of crypto looks like.
+
+🔗 [DailyCoinPost](https://dailycoinpost.com/russia-bitcoin-ban-failed-wallet-registration-2026/) • 2d ago
+
+---
+
+**[Daily General Discussion April 04, 2026](https://www.reddit.com/r/ethereum/comments/1sc09ab/daily_general_discussion_april_04_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+2d ago
+
+---
+
 ---
 
 ## Google News: "ethereum"
+
+**[Tom Lee’s BitMine Nears 4% of Ethereum Supply as ETH Price Hits Weekly High](https://decrypt.co/363378/tom-lee-bitmine-4-percent-ethereum-supply-eth-price-weekly-high)**
+
+Publicly traded Ethereum treasury firm BitMine Immersion Technologies added $150 million of ETH last week, boosting its $10.3 billion stash.
+
+Decrypt • 12h ago
+
+---
 
 **[Algorand just jumped 50% after Google flags quantum risk for Bitcoin and Ethereum](https://cryptoslate.com/algorand-just-jumped-50-after-a-google-flags-quantum-risk-for-bitcoin-and-ethereum/)**
 
@@ -156,57 +166,43 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Should You Forget Ethereum and Buy This Cryptocurrency Instead?](https://www.fool.com/investing/2026/04/03/should-you-forget-ethereum-and-buy-this-cryptocurr/)**
+**[Why Ethereum Was Creeping Higher on Monday](https://www.fool.com/investing/2026/04/06/why-ethereum-was-creeping-higher-on-monday/)**
 
-As investors search for "the next Ethereum," this top cryptocurrency is worth a closer look.
+There was short-lived optimism in the air about a potential resolution to the Iran war.
 
-The Motley Fool • 2d ago
-
----
-
-**[Ethereum To $40K? Here's Why Standard Chartered's Digital Assets Research Chief Thinks So](https://finance.yahoo.com/markets/crypto/articles/ethereum-40k-heres-why-standard-203132632.html)**
-
-Ethereum is going to $40,000, Standard Chartered Global Head of Digital Assets Research Geoffrey Kendrick says. He said on an episode of the "Milk Road Macro" podcast released on March 24 that Ethereum will reach the price target by 2030,...
-
-finance.yahoo.com • 3h ago
+The Motley Fool • 1h ago
 
 ---
 
-**[Ethereum Trading on Binance Has Gone Quiet, Discover What Happens When That Changes](https://www.tradingview.com/news/newsbtc:c9e175cfc094b:0-ethereum-trading-on-binance-has-gone-quiet-discover-what-happens-when-that-changes/)**
+**[$82 Million In Ethereum Just Left FalconX: Discover Who Is Behind It](https://www.tradingview.com/news/newsbtc:c30f760a1094b:0-82-million-in-ethereum-just-left-falconx-discover-who-is-behind-it/)**
 
-Ethereum has reclaimed $2,100. The level is back. The market that produced the recovery is thinner than it has been all year — and that changes what the recovery means.A CryptoQuant report tracking Ethereum’s liquidity structure on Binance has identified a condition that sits directly beneath the p…
+Ethereum is trying to hold above $2,150. The market is waking up. And in the last hour, someone withdrew $82 million in ETH from an institutional prime brokerage — and the identity of that someone is the question the on-chain data is already trying to answer.Arkham Intelligence has tracked a transa…
 
-TradingView • 2h ago
-
----
-
-**[Beyond Bitcoin: Crypto ETFs to Watch Amid Ethereum's Momentum](https://www.tradingview.com/news/zacks:847ed4865094b:0-beyond-bitcoin-crypto-etfs-to-watch-amid-ethereum-s-momentum/)**
-
-The digital currency market has flourished remarkably over the past few years, evolving from a niche interest into a cornerstone of modern finance. However, the internal dynamics of the cryptocurrency have shifted lately. While Bitcoin has historically been the face of crypto, it has lost its charm…
-
-TradingView • 4h ago
+TradingView • 1h ago
 
 ---
 
-**[ETH Up or Down - 5 Minutes](https://polymarket.com/event/eth-updown-5m-1775497800)**
+**[55-year-old asset manager teases spot Bitcoin, Ethereum trading](https://au.finance.yahoo.com/news/55-old-asset-manager-teases-005000687.html)**
 
-Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+Charles Schwab is making its most direct move yet into the crypto market. The asset management giant has opened a waitlist for a new "Schwab CryptoTM" trading platform that will allow clients to buy and sell Bitcoin (BTC) and Ethereum (ETH) directly. The development comes just a few months ...
 
-Polymarket • 20h ago
-
----
-
-**[BitMine Highlights Massive Ethereum Treasury and NYSE Uplisting](https://www.tipranks.com/news/company-announcements/bitmine-highlights-massive-ethereum-treasury-and-nyse-uplisting)**
-
-TipRanks • 10h ago
+Yahoo Finance Australia • 1h ago
 
 ---
 
-**[Charles Schwab Is Gearing Up to Offer Bitcoin, Ethereum Spot Trading](https://decrypt.co/363336/charles-schwab-bitcoin-ethereum-spot-trading)**
+**[What price will Ethereum hit on April 6? Trading Odds & Predictions](https://polymarket.com/event/what-price-will-ethereum-hit-on-april-6)**
 
-Financial giant Charles Schwab is set to launch spot buying of Bitcoin and Ethereum by the end of the quarter, the firm said Friday.
+$63,959 has traded on "What price will Ethereum hit on April 6?" as of April 7, 2026. View real-time odds or trade on The World's Largest Prediction Market™
 
-Decrypt • 3d ago
+Polymarket • 22h ago
+
+---
+
+**[Tom Lee's Bitmine accelerates Ethereum buying with 71,252 ETH, largest weekly haul since December](https://www.theblock.co/post/396398/tom-lees-bitmine-accelerates-ethereum-buying-with-71252-eth-largest-weekly-haul-since-december)**
+
+With a 6.8% gain, and outperforming both the S&P 500 and gold, Ethereum remains a strong wartime store of value," said Lee.
+
+The Block • 12h ago
 
 ---
 
@@ -214,15 +210,21 @@ Decrypt • 3d ago
 
 Matthew Sheffield says staking and ecosystem participation give Ethereum a utility and income angle that many digital assets lack.
 
-thestreet.com • 1h ago
+thestreet.com • 2h ago
 
 ---
 
-**[Current price of Ethereum for April 6, 2026](https://fortune.com/article/price-of-ethereum-04-06-2026/)**
+**[Introducing The Global X Ethereum Covered Call ETF](https://seekingalpha.com/article/4888657-introducing-global-x-ethereum-covered-call-etf)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+EHCC aims to provide shareholders weekly distributions, acting as a potential mitigator of price volatility for those seeking digital asset exposure.
 
-Fortune • 10h ago
+Seeking Alpha • 11h ago
+
+---
+
+**[BitMine Highlights Massive Ethereum Treasury and NYSE Uplisting](https://www.tipranks.com/news/company-announcements/bitmine-highlights-massive-ethereum-treasury-and-nyse-uplisting)**
+
+TipRanks • 13h ago
 
 ---
 
@@ -230,23 +232,23 @@ Fortune • 10h ago
 
 ## YouTube Videos: "ethereum"
 
-**[A MASSIVE SIGNAL IS FLASHING FOR ETHEREUM (LAST TIME WAS INSANE)](https://www.youtube.com/watch?v=GqXhK6k76-A)**
-
-Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ Deposit from $100: Get a 1% bonus ✔️ Withdraw anytime ...
-
-📺 Tyler Hill Crypto
-
-👁️ 4K • 👍 247 • 💬 98 • ⏱️ 11:38 • 7h ago
-
----
-
 **[🚨 BTC &amp; ETH: 24 HOURS!!!! ACT ACT ACT!!!!!!](https://www.youtube.com/watch?v=ewMAck4UjHk)**
 
 This is huge for crypto, bitcoin, ethereum and the rest of the markets!!!!! ---------- EXCHANGE BONUSES Trade Non KYC ...
 
 📺 Thomas Kralow
 
-👁️ 18K • 👍 3K • 💬 62 • ⏱️ 9:21 • 12h ago
+👁️ 18K • 👍 3K • 💬 35 • ⏱️ 9:21 • 15h ago
+
+---
+
+**[A MASSIVE SIGNAL IS FLASHING FOR ETHEREUM (LAST TIME WAS INSANE)](https://www.youtube.com/watch?v=GqXhK6k76-A)**
+
+Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ Deposit from $100: Get a 1% bonus ✔️ Withdraw anytime ...
+
+📺 Tyler Hill Crypto
+
+👁️ 4K • 👍 267 • 💬 129 • ⏱️ 11:38 • 10h ago
 
 ---
 
@@ -256,7 +258,7 @@ BITCOIN JUST REVEALED THE NEXT MOVE (Get Ready)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 147 • 👍 12 • 💬 3 • ⏱️ 19:08 • 6m ago
+👁️ 2K • 👍 127 • 💬 27 • ⏱️ 19:08 • 3h ago
 
 ---
 
@@ -266,7 +268,7 @@ Get 5% off the BitBox02 and take your crypto off exchanges → https://bitbox.sw
 
 📺 Crypto Nutshell
 
-👁️ 8K • 👍 299 • 💬 45 • ⏱️ 19:32 • 1d ago
+👁️ 8K • 👍 305 • 💬 45 • ⏱️ 19:32 • 1d ago
 
 ---
 
@@ -276,47 +278,7 @@ In this video, I take a closer look at the current Ethereum market structure and
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 175 • 💬 12 • ⏱️ 13:46 • 7h ago
-
----
-
-**[How to Earn Free Ethereum in 2026 – Real ETH Test | Honest Experiment](https://www.youtube.com/watch?v=jJ4Ql3ekaPo)**
-
-Can you actually get free Ethereum in 2026, or is it all just hype? I decided to put a popular ETH mining/claim method to the ...
-
-📺 Hitch Insights
-
-👁️ 511 • 👍 622 • 💬 436 • ⏱️ 6:14 • 3h ago
-
----
-
-**[Bitcoin Bear Flag &amp; Crypto Levels to Watch Now for ETH, XRP](https://www.youtube.com/watch?v=rXFLZCwE5Fo)**
-
-In this Pro Charts: Crypto video, Verified Pro Trader Lawton Ho breaks down the current state of the crypto market — starting with ...
-
-📺 Verified Pro Traders
-
-👁️ 362 • 👍 53 • 💬 1 • ⏱️ 10:29 • 1h ago
-
----
-
-**[ETHEREUM ABOUT TO BREAKOUT?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=zABARBpCKAs)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 415 • 👍 33 • ⏱️ 4:45 • 13h ago
-
----
-
-**[WARNING: Bitcoin is 11 Days Away from a MASSIVE Move! (ETH, XRP, SOL, AVAX)](https://www.youtube.com/watch?v=_Eb6fYPj4TY)**
-
-Welcome back to Verified Investing! In today's urgent crypto market update, Chief Market Strategist Gareth Soloway dives deep ...
-
-📺 Gareth Soloway
-
-👁️ 107K • 👍 5K • 💬 505 • ⏱️ 11:47 • 2d ago
+👁️ 3K • 👍 179 • 💬 12 • ⏱️ 13:46 • 10h ago
 
 ---
 
@@ -326,7 +288,47 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 119 • 👍 15 • 💬 8 • ⏱️ 8:13 • 5h ago
+👁️ 150 • 👍 16 • 💬 9 • ⏱️ 8:13 • 8h ago
+
+---
+
+**[WARNING: Bitcoin is 11 Days Away from a MASSIVE Move! (ETH, XRP, SOL, AVAX)](https://www.youtube.com/watch?v=_Eb6fYPj4TY)**
+
+Welcome back to Verified Investing! In today's urgent crypto market update, Chief Market Strategist Gareth Soloway dives deep ...
+
+📺 Gareth Soloway
+
+👁️ 108K • 👍 5K • 💬 505 • ⏱️ 11:47 • 2d ago
+
+---
+
+**[ETHEREUM ABOUT TO BREAKOUT?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=zABARBpCKAs)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 448 • 👍 33 • ⏱️ 4:45 • 16h ago
+
+---
+
+**[XRP Can NEVER Join Bitcoin, Ethereum &amp; USDT – Here&#39;s the Shocking Reason (Market Cap Gap Exposed](https://www.youtube.com/watch?v=N4k-WN9PQTk)**
+
+XRP Can NEVER Join Bitcoin, Ethereum & USDT – Here's the Shocking Reason (Market Cap Gap Exposed In this video I break ...
+
+📺 CryptoWendyO
+
+👁️ 11K • 👍 622 • 💬 78 • ⏱️ 13:47 • 1d ago
+
+---
+
+**[Ethereum CRASHES When This Signal Fires... SHORT NOW Or Wait?](https://www.youtube.com/watch?v=fbuzzxw_O_8)**
+
+Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
+
+📺 Trade Confident
+
+👁️ 191 • 👍 9 • 💬 1 • ⏱️ 4:28 • 8h ago
 
 ---
 
