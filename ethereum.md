@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-07T21:11:24.369987+00:00'
+updated: '2026-04-07T22:04:13.079113+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
 - social
 - cryptocurrency
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 07, 2026 at 21:11 UTC  
+**Last Updated:** April 07, 2026 at 22:04 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’ve had my eth staked for about 2 years now, net negative on the eth itself but I’ve gained what would be ≈4 percent more worth of ETH than I had before. To me it was the easiest way to stake given that I don’t have 32 eth. I appreciate the protocol for being a decentralized way to stake, heard there’s some liquidity issues in terms of getting your Eth back after staking but that’s a problem for the future. Anyone have any input on rocket pool?!
 
-6h ago
+7h ago
 
 ---
 
@@ -184,7 +184,7 @@ theblock.co • 1d ago
 
 **['Drop To $1,500'—Ethereum Suddenly Faces 60% Odds Of Losing Crown](https://www.forbes.com/sites/digital-assets/2026/04/06/drop-to-1500-ethereum-suddenly-faces-60-odds-of-losing-crown/)**
 
-Forbes • 18h ago
+Forbes • 19h ago
 
 ---
 
@@ -216,7 +216,7 @@ Decrypt • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 8h ago
+Fortune • 9h ago
 
 ---
 
@@ -224,7 +224,7 @@ Fortune • 8h ago
 
 Ethereum’s stablecoin supply hits ~$180B ATH and ETF inflows rise as whale money shifts to ETH.
 
-seekingalpha.com • 4h ago
+seekingalpha.com • 5h ago
 
 ---
 
@@ -258,7 +258,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 246 • 👍 13 • 💬 1 • ⏱️ 4:29 • 11h ago
+👁️ 246 • 👍 13 • 💬 1 • ⏱️ 4:29 • 12h ago
 
 ---
 
@@ -268,7 +268,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Crypto Moe
 
-👁️ 138 • 👍 25 • 💬 1 • ⏱️ 11:34 • 21m ago
+👁️ 138 • 👍 25 • 💬 1 • ⏱️ 11:34 • 1h ago
 
 ---
 
@@ -298,7 +298,7 @@ Which will perform better: Bitcoin, Ethereum, Solana, or XRP? This is one of the
 
 📺 Tim Warren
 
-👁️ 635 • 👍 17 • 💬 1 • ⏱️ 0:23 • 4h ago
+👁️ 635 • 👍 17 • 💬 1 • ⏱️ 0:23 • 5h ago
 
 ---
 
@@ -308,7 +308,7 @@ GRATIS QUI LA GUIDA www.analisievoluta.com ETHEREUM: COSA SAPERE PRIMA DELLE ORE
 
 📺 Jacopo Marini
 
-👁️ 134 • 👍 17 • ⏱️ 10:00 • 1h ago
+👁️ 134 • 👍 17 • ⏱️ 10:00 • 2h ago
 
 ---
 
