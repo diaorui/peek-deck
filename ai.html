@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-04-07T08:13:23.882073+00:00"
+          "dateModified": "2026-04-07T09:43:51.818744+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -664,6 +664,72 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1seq6nw/30_billion_3x_in_3_months_wtf_is_thr_future/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1seq6nw/30_billion_3x_in_3_months_wtf_is_thr_future/" target="_blank" onclick="event.stopPropagation();">30 Billion ( 3x in 3 months) WTF is thr future</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            The moment has come. I can see 200 Billion ARR by the end of year by Anthropic and around 100 Billion from OpenAI. We will be up of 300 Billion Revenue from AI companies for sure. Huge repercussions will be there. What will it impact any ideas?
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1775550801.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1sej7tw/attention_is_all_you_need_but_all_you_cant_afford/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1sej7tw/attention_is_all_you_need_but_all_you_cant_afford/" target="_blank" onclick="event.stopPropagation();">Attention Is All You Need, But All You Can't Afford | Hybrid Attention</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Repo: https://codeberg.org/JohannaJuntos/Sisyphus I've been building a small Rust-focused language model from scratch in PyTorch. Not a finetune — byte-level, trained from random init on a Rust-heavy corpus assembled in this repo. The run: 25.6M parameters 512 context length 173.5M-byte corpus 30k training steps Single RTX 4060 Ti 8GB Final train loss: 0.5834 / val loss: 0.8217 / perplexity: 2.15 Inference: 286.6 tok/s with HybridAttention + KV cache — 51.47x vs full attention Background I'm an autistic systems programmer, writing code since 2008/2009, started in C. I approach ML like a systems project: understand the data path, understand the memory behavior, keep the stack small, add complexity only when justified. That's basically the shape of this repo. Architecture Byte-level GPT-style decoder: Vocab size 256 (bytes) 8 layers, 8 heads, 512 embedding dim Learned positional embeddings Tied embedding / LM head weights The attention block is not standard full attention. Each layer uses HybridAttention, combining: Local windowed causal attention A GRU-like recurrent state path A learned gate mixing the two Local path handles short-range syntax. Recurrent path carries compressed long-range state without paying quadratic cost. Gate bias initialized to ones so early training starts local-biased. The inference path uses Triton-optimized kernels and torch.library custom ops for the local window attention. Corpus This is probably the most important part of the repo. The run starts with official Rust docs, compiler/library/tests, cargo, rust-analyzer, tokio, serde, ripgrep, clap, axum — roughly 31MB. Corpus expanded to 177,151,242 bytes by fetching the top 500 crates (461 successful clones). Corpus expansion from 31M to 173.5M chars helped more than anything else in the repo. Training AdamW, lr 2e-4, weight decay 0.1, betas (0.9, 0.95), 30k steps, 1k warmup. ~678.8 MiB training memory on a 7.6 GiB card. All experimental memory tricks (gradient quantization, activation compression, selective backprop, gradient paging) were disabled. Small custom architecture + mixed precision + better corpus was enough. Loss curve: Step 0: train 5.5555 / val 5.5897 Step 1000: train 2.4295 / val 2.6365 Step 5000: train 0.9051 / val 1.0060 Step 10000: train 0.8065 / val 0.8723 Step 18500: train 0.6902 / val 0.7757 Step 29999: train 0.5834 / val 0.8217 Best val loss around step 18.5k — overfitting or plateauing late. Inference performance Full attention O(n²): 17.96s / 5.6 tok/s HybridAttention O(n·W + n·D): 0.35s / 286.6 tok/s Speedup: 51.47x — no quality loss KV cache strategy: hot window of W=64 tokens in VRAM (~256KB), older tokens compressed to 8-bit magnitude + angle, selective promotion on demand. Complexity goes from O(n²·d) to O(4096n) for this model. All 5 tests passing: forward pass, generation with/without cache, RNN state isolation, window mechanics. Generation quality Surface Rust syntax looks decent, imports and signatures can look plausible, semantics are weak, repetition and recursive nonsense still common. Honest read of the current state. What I think is actually interesting Four distinct experiments, each shipped working code: Byte-level Rust-only pretraining Hybrid local-attention + recurrent block replacing standard full attention Corpus expansion from core repos to broader crate ecosystem Production-ready hot/cold KV cache paging — 51.47x speedup, no quality loss The clearest win is corpus expansion. The second-order win is that HybridAttention + cache is fast enough for real interactive use on consumer hardware. What's next Ablation — HybridAttention vs local-only vs RNN-only Checkpoint selection — does step 18.5k generate better than 29999? Syntax validation — does the output parse/compile/typecheck? Context length sweep — 256 to 2048, where does window size hurt? Byte vs BPE — now that corpus is 5.6x larger, worth testing? Questions for the sub: For small code models, what evals have actually been useful beyond perplexity? Has anyone seen hybrid local + recurrent attention work well for code gen, or does it usually lose to just scaling a plain transformer? If you had this setup — more tokens, longer context, or cleaner ablation first?
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1775528468.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1seextp/if_an_ai_could_genuinely_capture_what_makes/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -730,39 +796,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1sej7tw/attention_is_all_you_need_but_all_you_cant_afford/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1sej7tw/attention_is_all_you_need_but_all_you_cant_afford/" target="_blank" onclick="event.stopPropagation();">Attention Is All You Need, But All You Can't Afford | Hybrid Attention</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Repo: https://codeberg.org/JohannaJuntos/Sisyphus I've been building a small Rust-focused language model from scratch in PyTorch. Not a finetune — byte-level, trained from random init on a Rust-heavy corpus assembled in this repo. The run: 25.6M parameters 512 context length 173.5M-byte corpus 30k training steps Single RTX 4060 Ti 8GB Final train loss: 0.5834 / val loss: 0.8217 / perplexity: 2.15 Inference: 286.6 tok/s with HybridAttention + KV cache — 51.47x vs full attention Background I'm an autistic systems programmer, writing code since 2008/2009, started in C. I approach ML like a systems project: understand the data path, understand the memory behavior, keep the stack small, add complexity only when justified. That's basically the shape of this repo. Architecture Byte-level GPT-style decoder: Vocab size 256 (bytes) 8 layers, 8 heads, 512 embedding dim Learned positional embeddings Tied embedding / LM head weights The attention block is not standard full attention. Each layer uses HybridAttention, combining: Local windowed causal attention A GRU-like recurrent state path A learned gate mixing the two Local path handles short-range syntax. Recurrent path carries compressed long-range state without paying quadratic cost. Gate bias initialized to ones so early training starts local-biased. The inference path uses Triton-optimized kernels and torch.library custom ops for the local window attention. Corpus This is probably the most important part of the repo. The run starts with official Rust docs, compiler/library/tests, cargo, rust-analyzer, tokio, serde, ripgrep, clap, axum — roughly 31MB. Corpus expanded to 177,151,242 bytes by fetching the top 500 crates (461 successful clones). Corpus expansion from 31M to 173.5M chars helped more than anything else in the repo. Training AdamW, lr 2e-4, weight decay 0.1, betas (0.9, 0.95), 30k steps, 1k warmup. ~678.8 MiB training memory on a 7.6 GiB card. All experimental memory tricks (gradient quantization, activation compression, selective backprop, gradient paging) were disabled. Small custom architecture + mixed precision + better corpus was enough. Loss curve: Step 0: train 5.5555 / val 5.5897 Step 1000: train 2.4295 / val 2.6365 Step 5000: train 0.9051 / val 1.0060 Step 10000: train 0.8065 / val 0.8723 Step 18500: train 0.6902 / val 0.7757 Step 29999: train 0.5834 / val 0.8217 Best val loss around step 18.5k — overfitting or plateauing late. Inference performance Full attention O(n²): 17.96s / 5.6 tok/s HybridAttention O(n·W + n·D): 0.35s / 286.6 tok/s Speedup: 51.47x — no quality loss KV cache strategy: hot window of W=64 tokens in VRAM (~256KB), older tokens compressed to 8-bit magnitude + angle, selective promotion on demand. Complexity goes from O(n²·d) to O(4096n) for this model. All 5 tests passing: forward pass, generation with/without cache, RNN state isolation, window mechanics. Generation quality Surface Rust syntax looks decent, imports and signatures can look plausible, semantics are weak, repetition and recursive nonsense still common. Honest read of the current state. What I think is actually interesting Four distinct experiments, each shipped working code: Byte-level Rust-only pretraining Hybrid local-attention + recurrent block replacing standard full attention Corpus expansion from core repos to broader crate ecosystem Production-ready hot/cold KV cache paging — 51.47x speedup, no quality loss The clearest win is corpus expansion. The second-order win is that HybridAttention + cache is fast enough for real interactive use on consumer hardware. What's next Ablation — HybridAttention vs local-only vs RNN-only Checkpoint selection — does step 18.5k generate better than 29999? Syntax validation — does the output parse/compile/typecheck? Context length sweep — 256 to 2048, where does window size hurt? Byte vs BPE — now that corpus is 5.6x larger, worth testing? Questions for the sub: For small code models, what evals have actually been useful beyond perplexity? Has anyone seen hybrid local + recurrent attention work well for code gen, or does it usually lose to just scaling a plain transformer? If you had this setup — more tokens, longer context, or cleaner ablation first?
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1775528468.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1seb268/ai_is_struggling_to_take_our_jobs/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -790,6 +823,55 @@
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1seqb6n/china_drafts_law_regulating_digital_humans_and/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/vijrNcN1h5rE-Or41jMJuWSgDvF5R-NoZ96191qECtM.jpeg?width=640&crop=smart&auto=webp&s=e7e0d630a2d38b1644b0b97685ebf4e507629006" alt="China drafts law regulating 'digital humans' and banning addictive virtual services for children" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1seqb6n/china_drafts_law_regulating_digital_humans_and/" target="_blank" onclick="event.stopPropagation();">China drafts law regulating 'digital humans' and banning addictive virtual services for children</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            A Reuters report outlines China's proposed regulations on the rapidly expanding sector of digital humans and AI avatars. Under the new draft rules, digital human content must be clearly labeled and is explicitly banned from offering virtual intimate relationships to anyone under 18. The legislation also prohibits the unauthorized use of personal data to create avatars and targets services designed to fuel addiction or bypass identity verification systems.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1775551284.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://www.reuters.com/world/china/china-moves-regulate-digital-humans-bans-addictive-services-children-2026-04-03/" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0;">
+                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
+                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
+                                            </svg>
+                                            
+                                        
+                                        <span>reuters.com</span>
+                                    </a>
+                                </div>
                                 
                             </div>
                         </div>
@@ -840,39 +922,6 @@
                                         <span>AP News</span>
                                     </a>
                                 </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1septn3/anthropic_found_emergent_emotional_states_in/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1septn3/anthropic_found_emergent_emotional_states_in/" target="_blank" onclick="event.stopPropagation();">Anthropic found emergent emotional states in Claude. I'm seeing the same phenomenon in simple trading agents. Is emergence universal under optimization pressure?</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Anthropic researchers recently found that Claude develops internal representations of emotional concepts that aren't decorative. They influence behavior in ways the builders didn't anticipate. Not "feelings" — but internal states that function like emotions: orienting responses, modifying tone, creating patterns that were never explicitly programmed. I've been running a small experiment that accidentally produces something similar. I built an autonomous trading system where agents are born with random parameters, trade real money, and die when they lose too much. No manual tuning. Pure evolutionary selection. After a few weeks, agents started developing what I can only call "character." One agent became an aggressive volatility hunter. Not because I coded aggression — it emerged from the parameter set that survived. On Day 14 it captured more profit in 3 hours than the previous 13 days combined, riding a whale signal cluster. Then five consecutive losses triggered the kill-switch. Dead. Another agent is extremely conservative. Barely trades. Survives longer, generates almost nothing. Nobody designed it to be cautious — its parameters just make it avoid most signals. The parallel with Anthropic's findings is uncomfortable: Claude: internal states not explicitly programmed → orient behavior consistently → create unanticipated patterns → aren't "real" emotions but function like them. My agents: behavioral tendencies not explicitly coded → orient decisions consistently → create patterns I didn't design → aren't "real" personalities but function like them. The mechanisms are completely different. Gradient descent vs. evolutionary selection. Billions of parameters vs. a handful. Language vs. market signals. But the outcome pattern is the same: systems under optimization pressure develop emergent internal states that go beyond what was programmed. This raises a question I keep coming back to: is emergence an inevitable property of any sufficiently complex system under sustained optimization pressure? And if so, does the substrate even matter? My agents are trivially simple compared to Claude. But the behavioral phenomenon looks structurally identical. Which suggests this might not be about complexity at all — it might be about the optimization process itself. For context: 5 agents, ~116 trades/day, $500 real capital, 60-day experiment with fixed rules. System is not profitable (PF below 1.0 for 4/5 agents). I track a coherence_score for each agent — measuring whether it behaves consistently with its emergent "identity." Built solo, no CS background, 18 months in. What's the community's take? Is emergence under optimization pressure substrate-independent, or am I seeing patterns where there's just noise?
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1775549437.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
                                 
                             </div>
                         </div>
@@ -947,39 +996,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1sderg4/i_have_been_coding_for_11_years_and_i_caught/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1sderg4/i_have_been_coding_for_11_years_and_i_caught/" target="_blank" onclick="event.stopPropagation();">I have been coding for 11 years and I caught myself completely unable to debug a problem without AI assistance last month. That scared me more than anything I have seen in this industry.</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            I want to be honest about something that happened to me because I think it is more common than people admit. Last month I hit a bug in a service I wrote myself two years ago. Network timeout issue, intermittent, only in prod. The kind of thing I used to be able to sit with for an hour and work through methodically. I opened Claude, described the symptom, got a hypothesis, followed it, hit a dead end, fed that back, got another hypothesis. Forty minutes later I had not found the bug. I had just been following suggestions. At some point I closed the chat and tried to work through it myself. And I realized I had forgotten how to just sit with a problem. My instinct was to describe it to something else and wait for a direction. The internal monologue that used to generate hypotheses, that voice that says maybe check the connection pool, maybe it is a timeout on the load balancer side, maybe there is a retry storm. That voice was quieter than it used to be. I found the bug eventually. It took me longer without AI than it would have taken me three years ago without AI. I am not saying the tools are bad. I use them every day and they make me faster on most things. But there is something specific happening to the part of the brain that generates hypotheses under uncertainty. That muscle atrophies if you do not use it. The analogy I keep coming back to is GPS. You can navigate anywhere with GPS. But if you use it for five years and then lose signal, you do not just lack information. You lack the mental map that you would have built if you had been navigating manually. The skill and the mental model degrade together. I am 11 years into this career. I started noticing this in myself. I wonder how it looks for someone who started using AI tools in their first year. Has anyone else noticed this? Not the productivity gains, we all know those. The quieter thing underneath.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1775422351.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -1003,7 +1019,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-04-07T08:12:58.762744+00:00">Updated 2026-04-07T08:12:58.762744+00:00</small>
+        <small data-timestamp="2026-04-07T09:43:33.674589+00:00">Updated 2026-04-07T09:43:33.674589+00:00</small>
     </div>
 </div>
 
@@ -1271,6 +1287,162 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.axios.com/2026/04/07/ai-jobs-goldman-sach-morgan-stanley', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.axios.com/2026/04/07/ai-jobs-goldman-sach-morgan-stanley" target="_blank" onclick="event.stopPropagation();">AI's impact on jobs: not all doom and gloom</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.axios.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Axios" class="news-favicon">
+                                    <a href="https://www.axios.com" target="_blank" onclick="event.stopPropagation();">Axios</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1775554425.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.vogue.com/article/will-ai-make-fashion-more-or-less-sustainable', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://assets.vogue.com/photos/69ceaa298e5eddf492af9f82/16:9/w_1280,c_limit/ai-sustainability-vogue-business-social-newsletter.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.vogue.com/article/will-ai-make-fashion-more-or-less-sustainable" target="_blank" onclick="event.stopPropagation();">Will AI Make Fashion More or Less Sustainable?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            As fashion adopts AI tools to power its sustainability efforts, could the impacts outweigh the benefits?
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.vogue.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="vogue.com" class="news-favicon">
+                                    <a href="https://www.vogue.com" target="_blank" onclick="event.stopPropagation();">vogue.com</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1775554200.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.npr.org/2026/04/07/nx-s1-5771707/mental-health-care-workforce-artificial-intelligence-ai', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2033x1144+0+112/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe7%2Fe1%2F2f5e2e244a11a2cb7b7d74dd3b95%2Fgettyimages-1609437924.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.npr.org/2026/04/07/nx-s1-5771707/mental-health-care-workforce-artificial-intelligence-ai" target="_blank" onclick="event.stopPropagation();">AI in the mental health care workforce is met with fear, pushback — and enthusiasm</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Artificial intelligence tools that help mental health therapists take notes and keep records are quickly entering the marketplace. But some question the safety of AI in mental health care delivery.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.npr.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="npr.org" class="news-favicon">
+                                    <a href="https://www.npr.org" target="_blank" onclick="event.stopPropagation();">npr.org</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1775552400.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/04/06/technology/ai-code-overload.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.nytimes.com/2026/04/06/technology/ai-code-overload.html" target="_blank" onclick="event.stopPropagation();">The Big Bang: A.I. Has Created a Code Overload</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="nytimes.com" class="news-favicon">
+                                    <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">nytimes.com</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1775492851.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://media.newyorker.com/photos/69cd326ac6ea0f4558d6e181/16:9/w_1280,c_limit/r47927.jpg');"></div>
@@ -1305,84 +1477,6 @@
                                 
                                 <div class="news-meta-item">
                                     <span data-timestamp="1775469600.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/sectors/technology/article/openai-releases-policy-proposals-aimed-at-addressing-fallout-from-ai-driven-job-losses-160912303.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/ny/api/res/1.2/xwY_ox1ZxBcXk1KufSvlkg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/28c1cb26-0113-4d45-9338-338871189d1d_2a8ec8578370b336f354ba2be5db6afae9f6618faabf5f17f3bbf13084db51ca.net/images/2026-04/28c1cb26-0113-4d45-9338-338871189d1d');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://finance.yahoo.com/sectors/technology/article/openai-releases-policy-proposals-aimed-at-addressing-fallout-from-ai-driven-job-losses-160912303.html" target="_blank" onclick="event.stopPropagation();">OpenAI releases policy proposals aimed at addressing fallout from AI-driven job losses</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            OpenAI has laid out a series of policy proposals meant to address fears about AI-driven job losses.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Yahoo Finance" class="news-favicon">
-                                    <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo Finance</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1775491752.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/04/06/technology/ai-code-overload.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.nytimes.com/2026/04/06/technology/ai-code-overload.html" target="_blank" onclick="event.stopPropagation();">The Big Bang: A.I. Has Created a Code Overload</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The New York Times" class="news-favicon">
-                                    <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1775492851.0"></span>
                                 </div>
                                 
                             </div>
@@ -1468,43 +1562,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.wsj.com/tech/ai/broadcom-to-supply-ai-chips-to-google-computing-capacity-to-anthropic-in-expanded-collaboration-c838e1b8?gaa_at=eafs&gaa_n=AWEtsqddrPA0jbDtJp1serto9D-aGvLMW2EOcWUSba-EvcKXl04mvf2SK0IO&gaa_ts=69d4c00d&gaa_sig=w0xfttb97tkUaqhEk6GYw5XvF3nDT-iHXUs8AF1xd9O8GxIn5hMkhBGHZsjBSVBRm1A03tKNS92ptShoeMyFJg%3D%3D', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.wsj.com/tech/ai/broadcom-to-supply-ai-chips-to-google-computing-capacity-to-anthropic-in-expanded-collaboration-c838e1b8?gaa_at=eafs&gaa_n=AWEtsqddrPA0jbDtJp1serto9D-aGvLMW2EOcWUSba-EvcKXl04mvf2SK0IO&gaa_ts=69d4c00d&gaa_sig=w0xfttb97tkUaqhEk6GYw5XvF3nDT-iHXUs8AF1xd9O8GxIn5hMkhBGHZsjBSVBRm1A03tKNS92ptShoeMyFJg%3D%3D" target="_blank" onclick="event.stopPropagation();">Broadcom to Supply AI Chips to Google, Computing Capacity to Anthropic in Expanded Collaboration</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wsj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="WSJ" class="news-favicon">
-                                    <a href="https://www.wsj.com" target="_blank" onclick="event.stopPropagation();">WSJ</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1775515080.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.anthropic.com/news/google-broadcom-partnership-compute', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://www.anthropic.com/api/opengraph-illustration?name=Object%20Growth&backgroundColor=fig');"></div>
@@ -1546,47 +1603,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/04/07/samsung-shares-rise-nearly-5percent-on-record-breaking-earnings-forecast-buoyed-by-ai-chip-demand.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108179470-1753922208638-gettyimages-1065011358-191112final.jpeg?v=1775528209&w=1920&h=1080');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.cnbc.com/2026/04/07/samsung-shares-rise-nearly-5percent-on-record-breaking-earnings-forecast-buoyed-by-ai-chip-demand.html" target="_blank" onclick="event.stopPropagation();">Samsung shares rise after profit seen jumping 8-fold on AI chip boom</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Samsung Electronics forecast record first-quarter operating profit that came in far above analyst estimates on booming demand for AI memory chips.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="CNBC" class="news-favicon">
-                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1775528340.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 255, 255, 0.05);"
@@ -1607,7 +1623,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-04-07T08:13:15.472286+00:00">Updated 2026-04-07T08:13:15.472286+00:00</small>
+        <small data-timestamp="2026-04-07T09:43:47.964024+00:00">Updated 2026-04-07T09:43:47.964024+00:00</small>
     </div>
 </div>
 
@@ -1835,7 +1851,7 @@ I’ll do this while contextualizing the project and my background so you can in
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 926</span>
+                                    <span class="post-points">▲ 929</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 289</span>
@@ -1887,7 +1903,7 @@ I’ll do this while contextualizing the project and my background so you can in
                                     <span class="post-points">▲ 271</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 34</span>
+                                    <span style="color: #9ca3af;">💬 35</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1933,10 +1949,10 @@ I’ll do this while contextualizing the project and my background so you can in
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 161</span>
+                                    <span class="post-points">▲ 173</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 250</span>
+                                    <span style="color: #9ca3af;">💬 273</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2080,7 +2096,7 @@ deployment pattern...
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 118</span>
+                                    <span class="post-points">▲ 119</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 19</span>
@@ -2174,10 +2190,10 @@ deployment pattern...
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 89</span>
+                                    <span class="post-points">▲ 95</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 17</span>
+                                    <span style="color: #9ca3af;">💬 18</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2316,7 +2332,7 @@ deployment pattern...
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-04-07T08:12:58.686967+00:00">Updated 2026-04-07T08:12:58.686967+00:00</small>
+        <small data-timestamp="2026-04-07T09:43:29.411963+00:00">Updated 2026-04-07T09:43:29.411963+00:00</small>
     </div>
 </div>
 
