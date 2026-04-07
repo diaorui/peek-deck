@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-07T06:51:51.306447+00:00'
+updated: '2026-04-07T08:13:24.396163+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 07, 2026 at 06:51 UTC  
+**Last Updated:** April 07, 2026 at 08:13 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Tesollo DG-5F-S lightweight robotic hand built for humanoid integration](https://www.reddit.com/r/robotics/comments/1se4j5s/tesollo_dg5fs_lightweight_robotic_hand_built_for/)**
 
-13h ago
+15h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 I need help in placing the components on the robot for the best way to balance it. Also I plan to scale to to something like a delivery robot for small payloads. Prolly, something in my room 😅 but I need help in understanding how these balancing robots work and how I should place my components to make this work.
 
-9h ago
+10h ago
 
 ---
 
@@ -50,7 +50,15 @@ I need help in placing the components on the robot for the best way to balance i
 
 Very first proof of concept. This is going to be fun. It's still a bit slow to progress, I need to optimize a few things. But it gets the idea. Llm writes a few lines of javascript to create the motion and executes it.
 
-16h ago
+17h ago
+
+---
+
+**[Arduino powered projects recommendations](https://www.reddit.com/r/robotics/comments/1seplyx/arduino_powered_projects_recommendations/)**
+
+Hello! I would like to ask for help on what arduino powered project we can do for our Robotics and Research subject that aligns with any Sustainable Development Goals. We initially planned to create a braille learning device for the visually impaired. However, our robotics adviser did not approve of our idea. Are there any projects we can do?
+
+15m ago
 
 ---
 
@@ -58,7 +66,7 @@ Very first proof of concept. This is going to be fun. It's still a bit slow to p
 
 Most robotics coverage nowadays is focusing on industrial automation or consumer novelty, but this also caught my attention: Singapore's Gardens by the Bay is rolling out a free-to-rent robotic guide dog (built by the Singapore-based firm RoamAssist) for visually impaired visitors in its Flower Dome from Q3 2026. The robot and system are pre-programmed with a full tour route, provide real-time audio guidance on plant exhibits, and are designed for independent navigation with no human escort. They're pairing it with an online sensory map for autistic visitors launching in June. It's not "Boston Dynamics" level of attention but it's a interesting attempt at real-world deployment of "assistant" robotics in a public space. Curious what people here think Article - https://www.straitstimes.com/singapore/gardens-by-the-bay-to-offer-robot-guide-dog-online-sensory-map-for-visitors-with-disabilities
 
-16h ago
+17h ago
 
 ---
 
@@ -66,7 +74,7 @@ Most robotics coverage nowadays is focusing on industrial automation or consumer
 
 Do you think in the coming future me any my friends who are looking to do robotics would be able to build a makeshift anti air system but simplified? It would act like an iron dome that intercepts missiles but the interceptors would really be a small aerial object that uses a detection system of some sort. Keep in mind this would be made using simple circuits like Arduino as we don’t have a large budget.
 
-1h ago
+2h ago
 
 ---
 
@@ -74,7 +82,7 @@ Do you think in the coming future me any my friends who are looking to do roboti
 
 I've been working on a robot dog and wanted to show off my progress. I have a single leg working pretty well now. 3 legs to go! Made with: Motor: Eaglepower 8308 Gearbox: 15:1 Cycloidal that I designed and 3d printed Microcontroller: Teensy 4.1 + CAN bus Motor Controllers: ODrive 3.6 Clone boards from Aliexpress Battery: Ryobi 40v Everything else: bearings, bolts, and printed parts from a Bambu P1S This is a labor of love. My regular day job is a software developer/manager. Mostly focused on learning fast and keeping costs down. I'm having so much fun learning and building this stuff
 
-16h ago
+17h ago
 
 ---
 
@@ -82,7 +90,7 @@ I've been working on a robot dog and wanted to show off my progress. I have a si
 
 Still fairly new to robotics and hardware and something I keep running into is how much time the planning phase takes before I'm confident enough to actually order parts. I've been going down rabbit holes of YouTube videos, datasheets, and forum threads just trying to figure out what I need and how it all connects and half the time I still get something wrong and end up waiting on a replacement order. Do you sketch the circuit out first? Start from the power requirements and work backward? Have a go-to process for validating your parts list before ordering?
 
-10h ago
+11h ago
 
 ---
 
@@ -100,12 +108,6 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ---
 
-**[Rodney Brooks: We won't see AGI for 300 years](https://www.reddit.com/r/robotics/comments/1se6glu/rodney_brooks_we_wont_see_agi_for_300_years/)**
-
-12h ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -114,7 +116,21 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 New model can respond to disruptions and figure out moves it wasn't trained for.
 
-Ars Technica • 8h ago
+arstechnica.com • 9h ago
+
+---
+
+**[A Chinese robotics startup with a Tesla Optimus rival is seeking a new chief scientist with an $18 million salary](https://www.businessinsider.com/chinese-robotics-startup-tesla-rival-18-million-salary-chief-scientist-2026-4)**
+
+The race for AI and robotics talent is heating up and getting expensive.
+
+Business Insider • 21h ago
+
+---
+
+**[Optimus time: Tesla makes big move in Fremont for global robotics hub](https://www.bizjournals.com/sanfrancisco/news/2026/04/06/tesla-fremont-optimus-robotics-factory.html)**
+
+The Business Journals • 11h ago
 
 ---
 
@@ -122,7 +138,21 @@ Ars Technica • 8h ago
 
 Funding data and leasing activity show that companies using the groundbreaking tech on the physical world are having their moment.
 
-The San Francisco Standard • 17h ago
+The San Francisco Standard • 19h ago
+
+---
+
+**[Asimov’s three laws of robotics survived 82 years, we broke them in 30 minutes, costs 80 cents, and then remade them](https://blog.adafruit.com/2026/04/05/asimovs-three-laws-of-robotics-survived-82-years-we-broke-them-in-30-minutes-costs-80-cents-and-then-remade-them/)**
+
+blog.adafruit.com • 1d ago
+
+---
+
+**[Robotic guards now man data centers. Is your personal security at risk?](https://3dvf.com/en/robotic-guards-now-man-data-centers-is-your-personal-security-at-risk/)**
+
+They don't blink, don't take breaks, and can hear trouble before humans do. But when the night watch has four legs and cameras, who is safer and who is more exposed?
+
+3DVF • 17h ago
 
 ---
 
@@ -134,49 +164,19 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[A Chinese robotics startup with a Tesla Optimus rival is seeking a new chief scientist with an $18 million salary](https://www.businessinsider.com/chinese-robotics-startup-tesla-rival-18-million-salary-chief-scientist-2026-4)**
-
-The race for AI and robotics talent is heating up and getting expensive.
-
-Business Insider • 20h ago
-
----
-
-**[Robotics team puts skills on display](https://www.tribtoday.com/news/local-news/2026/04/robotics-team-puts-skills-on-display/)**
-
-NILES — While the Easter Bunny was nearby greeting young children, local high school students gathered this weekend inside the ...
-
-tribtoday.com • 23h ago
-
----
-
-**[Asimov’s three laws of robotics survived 82 years, we broke them in 30 minutes, costs 80 cents, and then remade them](https://blog.adafruit.com/2026/04/05/asimovs-three-laws-of-robotics-survived-82-years-we-broke-them-in-30-minutes-costs-80-cents-and-then-remade-them/)**
-
-Adafruit • 1d ago
-
----
-
-**[Robotic guards now man data centers. Is your personal security at risk?](https://3dvf.com/en/robotic-guards-now-man-data-centers-is-your-personal-security-at-risk/)**
-
-They don't blink, don't take breaks, and can hear trouble before humans do. But when the night watch has four legs and cameras, who is safer and who is more exposed?
-
-3DVF • 15h ago
-
----
-
-**[Week Wraps Aboard Station with Spacesuits, Eye Checks, Robotics, and More](https://www.nasa.gov/blogs/spacestation/2026/04/03/week-wraps-aboard-station-with-spacesuits-eye-checks-robotics-and-more/)**
-
-Spacesuit work and eye checks wrapped up the week for the Expedition 74 crew aboard the International Space Station. The orbital residents also focused on robotics, cargo transfers, and science hardware maintenance at the end of the week.
-
-NASA (.gov) • 3d ago
-
----
-
 **[National Robotics Week — Latest Physical AI Research, Breakthroughs and Resources](https://blogs.nvidia.com/blog/national-robotics-week-2026/)**
 
 This National Robotics Week, NVIDIA is highlighting the breakthroughs that are bringing AI into the physical world.
 
-NVIDIA Blog • 19h ago
+NVIDIA Blog • 21h ago
+
+---
+
+**[The Hidden System Turning Chinese Tech Companies into Military Suppliers](https://warontherocks.com/2026/04/the-hidden-system-turning-chinese-tech-companies-into-military-suppliers-2/)**
+
+In October 2022, Unitree Robotics joined Boston Dynamics, Agility Robotics, and three other firms in signing an open letter pledging not to weaponize
+
+War on the Rocks • 9m ago
 
 ---
 
@@ -196,7 +196,7 @@ The world wasn't ready for what 2026 had in store — a wave of humanoid robots 
 
 📺 The AI Nexus
 
-👁️ 5K • 👍 197 • 💬 11 • ⏱️ 16:42 • 1d ago
+👁️ 5K • 👍 205 • 💬 13 • ⏱️ 16:42 • 1d ago
 
 ---
 
@@ -206,7 +206,7 @@ US startup Foundation is developing humanoid robots for military use. The goal i
 
 📺 DW News
 
-👁️ 55K • 👍 481 • 💬 77 • ⏱️ 1:22 • 1d ago
+👁️ 57K • 👍 488 • 💬 79 • ⏱️ 1:22 • 1d ago
 
 ---
 
@@ -214,7 +214,7 @@ US startup Foundation is developing humanoid robots for military use. The goal i
 
 📺 Robot Julie 
 
-👁️ 2K • 👍 8 • 💬 1 • ⏱️ 0:23 • 6h ago
+👁️ 2K • 👍 10 • 💬 1 • ⏱️ 0:23 • 7h ago
 
 ---
 
@@ -224,7 +224,7 @@ Welch Labs Book: https://www.welchlabs.com/resources/ai-book-ezrzm-msrmc Book & 
 
 📺 Welch Labs
 
-👁️ 79K • 👍 4K • 💬 213 • ⏱️ 35:02 • 2d ago
+👁️ 81K • 👍 4K • 💬 213 • ⏱️ 35:02 • 2d ago
 
 ---
 
@@ -238,41 +238,13 @@ Shawn Ryan gets hands-on with a real humanoid robot powered entirely by AI. In t
 
 ---
 
-**[The Six-Servo Robot Dog - it&#39;s open source!](https://www.youtube.com/watch?v=2eKb_2N0SBI)**
-
-Ad: Check out PCBWay for all your project needs! Get $10 off orders over $30 with code: PCBWay-JamesBruton-10 ...
-
-📺 James Bruton
-
-👁️ 65K • 👍 4K • 💬 214 • ⏱️ 16:17 • 7d ago
-
----
-
 **[Essential Things to Know Before Buying a Robot Mower!](https://www.youtube.com/watch?v=lbibuVIo84Y)**
 
 The era of the Robot Mower is here and after 6 months of intensive use I feel I am now in a position to update everyone on both ...
 
 📺 Proper DIY
 
-👁️ 29K • 👍 2K • 💬 110 • ⏱️ 11:47 • 1d ago
-
----
-
-**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=KJ0Ka8OICPE)**
-
-📺 Robot Julie 
-
-👁️ 25K • 👍 64 • 💬 1 • ⏱️ 0:21 • 1d ago
-
----
-
-**[Such an UNFAIR Build in War Robots…](https://www.youtube.com/watch?v=5lMK2yFLLoM)**
-
-War Robots Gameplay: Anaksor with Kroko weapons is quite unfair! My War Robots Creator Link: https://wr.my.games/manni ...
-
-📺 Manni-Gaming
-
-👁️ 12K • 👍 471 • 💬 92 • ⏱️ 13:35 • 1d ago
+👁️ 29K • 👍 2K • 💬 112 • ⏱️ 11:47 • 2d ago
 
 ---
 
@@ -282,7 +254,35 @@ Join this channel to get access to perks: https://www.youtube.com/channel/UCkouj
 
 📺 Shawn Ryan Show
 
-👁️ 967K • 👍 23K • 💬 2K • ⏱️ 0:44 • 6d ago
+👁️ 968K • 👍 23K • 💬 2K • ⏱️ 0:44 • 6d ago
+
+---
+
+**[Such an UNFAIR Build in War Robots…](https://www.youtube.com/watch?v=5lMK2yFLLoM)**
+
+War Robots Gameplay: Anaksor with Kroko weapons is quite unfair! My War Robots Creator Link: https://wr.my.games/manni ...
+
+📺 Manni-Gaming
+
+👁️ 12K • 👍 476 • 💬 92 • ⏱️ 13:35 • 1d ago
+
+---
+
+**[Elon Musk&#39;s Tesla Bot Gen 3 April Launch Event Coming!](https://www.youtube.com/watch?v=oj_R1XNMH-0)**
+
+Elon Musk's Tesla Bot Gen 3 April Launch Event Coming! Tesla Bot Gen 3 launch is closer than ever, and the Tesla Bot Gen 3 ...
+
+📺 TESLA CAR WORLD
+
+👁️ 19K • 👍 634 • 💬 96 • ⏱️ 19:06 • 4d ago
+
+---
+
+**[welding robot#robot #industrial #welding #machines #automation](https://www.youtube.com/watch?v=Jg0ugvR-NYI)**
+
+📺 zhulongfeng 6
+
+👁️ 31K • 👍 82 • ⏱️ 0:21 • 1d ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-07T06:51:51.297270+00:00'
+updated: '2026-04-07T08:13:24.386977+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 07, 2026 at 06:51 UTC  
+**Last Updated:** April 07, 2026 at 08:13 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $68,569.27
+### $68,763.51
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.8%  
-**7d:** +0.7%  
-**30d:** +0.3%  
-**90d:** -24.8%  
-**1y:** -10.5%  
+**24h:** -1.4%  
+**7d:** +1.0%  
+**30d:** +0.6%  
+**90d:** -24.5%  
+**1y:** -10.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1376.73B
+**Market Cap:** $1374.32B
 Rank #1
 
-**Circulating Supply:** 20,012,425 BTC
+**Circulating Supply:** 20,012,540 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--45.4%
+-45.5%
 
 **All-Time Low:** $67.81
-+101355.5%
++101199.2%
 
 ---
 
@@ -77,25 +77,25 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[I have $100K but I am certain that once I buy BTC will begin to drop to $35,000](https://www.reddit.com/r/Bitcoin/comments/1seaemq/i_have_100k_but_i_am_certain_that_once_i_buy_btc/)**
+**[You set up a hardware wallet and wrote down your seed phrase. Here’s what most guides don’t tell you.](https://www.reddit.com/r/Bitcoin/comments/1sec3fl/you_set_up_a_hardware_wallet_and_wrote_down_your/)**
 
-I just know it. So I won't buy just so the rest of you can make some money.
+There’s a post near the top of this sub right now where someone sent Bitcoin to their Trezor and the wallet showed empty. They panicked. Turns out their Bitcoin wasn’t gone — it was in their passphrase wallet. They hadn’t known they created one. That’s the most common failure pattern in hardware wallet support forums, and it almost never gets explained at setup. Here’s what’s actually happening and three other traps that catch people the same way. The passphrase trap When you set up a Trezor using Trezor Suite, the passphrase feature is on by default. A passphrase — sometimes called the 25th word — creates a completely separate wallet derived from your seed. Any input during setup creates one. An accidental keystroke creates one. If you set a passphrase and don’t write it down, that passphrase is gone forever — and so is everything in that wallet. Your seed phrase alone opens a different, empty wallet. No error message. Nothing to indicate anything is wrong. Trezor’s support forums have dozens of threads that all read identically: “I have my seed, I’ve tried everything, balance is zero.” In most cases the passphrase was set accidentally during initial setup. Different software generates different addresses from the same seed This sounds impossible but it’s documented repeatedly. There are multiple standards for how wallet software derives addresses from a seed phrase — BIP-44, BIP-49, BIP-84 are the common ones — and different apps default to different ones. One user bought Bitcoin through Exodus paired with a Trezor in 2021. Exodus defaulted to P2SH-SegWit (m/49’/0’/0’). Trezor Suite defaults to Native SegWit (m/84’/0’/0’). Four years later, a firmware update forced a reset. The user opened Trezor Suite instead of reconnecting through Exodus. Empty wallet. His Bitcoin was on-chain and accessible — completely invisible to the software he was now using. Valid seed. Right device. Zero balance. This is not a bug. It’s two correct implementations of different standards. Electrum does not speak the same language as your hardware wallet If you ever try to import your Trezor or Ledger seed into Electrum as a backup option, it will show an empty wallet. Electrum uses a proprietary seed format and deliberately does not support BIP-39 — the standard your hardware wallet uses. To get it working you have to click a hidden “Options” button during seed entry, select “BIP39 seed,” then manually enter the derivation path your original wallet used. Without those steps, Electrum opens a valid empty wallet with no explanation. The Electrum developers are aware of this and consider it a feature. What to actually write down alongside your seed phrase The seed is the starting point, not the whole picture. What you also need documented somewhere safe: Which device and software you used to set up the wallet (Trezor Suite, Ledger Live, Electrum, etc.) Whether a passphrase was set — and if yes, exactly what it was, case-sensitive Which address format was used (Legacy, SegWit, Native SegWit, Taproot) — your software may show this during setup The derivation path if you can find it — usually visible in advanced settings That context, stored with your seed backup, is what makes the difference between recovery taking five minutes and recovery being impossible.
 
 10h ago
 
 ---
 
-**[It’s going to 🚀](https://www.reddit.com/r/Bitcoin/comments/1se4g7y/its_going_to/)**
+**[I have $100K but I am certain that once I buy BTC will begin to drop to $35,000](https://www.reddit.com/r/Bitcoin/comments/1seaemq/i_have_100k_but_i_am_certain_that_once_i_buy_btc/)**
 
-13h ago
+I just know it. So I won't buy just so the rest of you can make some money.
+
+11h ago
 
 ---
 
-**[You set up a hardware wallet and wrote down your seed phrase. Here’s what most guides don’t tell you.](https://www.reddit.com/r/Bitcoin/comments/1sec3fl/you_set_up_a_hardware_wallet_and_wrote_down_your/)**
+**[It’s going to 🚀](https://www.reddit.com/r/Bitcoin/comments/1se4g7y/its_going_to/)**
 
-There’s a post near the top of this sub right now where someone sent Bitcoin to their Trezor and the wallet showed empty. They panicked. Turns out their Bitcoin wasn’t gone — it was in their passphrase wallet. They hadn’t known they created one. That’s the most common failure pattern in hardware wallet support forums, and it almost never gets explained at setup. Here’s what’s actually happening and three other traps that catch people the same way. The passphrase trap When you set up a Trezor using Trezor Suite, the passphrase feature is on by default. A passphrase — sometimes called the 25th word — creates a completely separate wallet derived from your seed. Any input during setup creates one. An accidental keystroke creates one. If you set a passphrase and don’t write it down, that passphrase is gone forever — and so is everything in that wallet. Your seed phrase alone opens a different, empty wallet. No error message. Nothing to indicate anything is wrong. Trezor’s support forums have dozens of threads that all read identically: “I have my seed, I’ve tried everything, balance is zero.” In most cases the passphrase was set accidentally during initial setup. Different software generates different addresses from the same seed This sounds impossible but it’s documented repeatedly. There are multiple standards for how wallet software derives addresses from a seed phrase — BIP-44, BIP-49, BIP-84 are the common ones — and different apps default to different ones. One user bought Bitcoin through Exodus paired with a Trezor in 2021. Exodus defaulted to P2SH-SegWit (m/49’/0’/0’). Trezor Suite defaults to Native SegWit (m/84’/0’/0’). Four years later, a firmware update forced a reset. The user opened Trezor Suite instead of reconnecting through Exodus. Empty wallet. His Bitcoin was on-chain and accessible — completely invisible to the software he was now using. Valid seed. Right device. Zero balance. This is not a bug. It’s two correct implementations of different standards. Electrum does not speak the same language as your hardware wallet If you ever try to import your Trezor or Ledger seed into Electrum as a backup option, it will show an empty wallet. Electrum uses a proprietary seed format and deliberately does not support BIP-39 — the standard your hardware wallet uses. To get it working you have to click a hidden “Options” button during seed entry, select “BIP39 seed,” then manually enter the derivation path your original wallet used. Without those steps, Electrum opens a valid empty wallet with no explanation. The Electrum developers are aware of this and consider it a feature. What to actually write down alongside your seed phrase The seed is the starting point, not the whole picture. What you also need documented somewhere safe: Which device and software you used to set up the wallet (Trezor Suite, Ledger Live, Electrum, etc.) Whether a passphrase was set — and if yes, exactly what it was, case-sensitive Which address format was used (Legacy, SegWit, Native SegWit, Taproot) — your software may show this during setup The derivation path if you can find it — usually visible in advanced settings That context, stored with your seed backup, is what makes the difference between recovery taking five minutes and recovery being impossible.
-
-9h ago
+15h ago
 
 ---
 
@@ -103,45 +103,13 @@ There’s a post near the top of this sub right now where someone sent Bitcoin t
 
 Gm r/Bitcoin. 🟠 Starting an educational series — simple, direct, no jargon, no promises. Just verifiable facts. Day 1: What is Bitcoin? Bitcoin is digital money with a fixed supply of 21 million units — hardcoded by Satoshi Nakamoto in 2009. No government, bank, or company can ever change that. Verified data — April 2026: - Over 20 million BTC already mined (95%+ of total supply) - Less than 1 million remain — and will take 100+ years to mine - New block every ~10 minutes - Current reward: 3.125 BTC per block (after April 2024 halving) - Next halving: estimated April 2028 Why does this matter for someone who barely pays rent? The money you keep in the bank loses value every year to inflation. Bitcoin has a fixed supply — nobody can "print more." For the first time in history, an ordinary person has access to a genuinely scarce asset. Don't trust. Verify Next week — Day 2: Why does money lose value? #Bitcoin #Education #BitcoinFromZero
 
-5h ago
+6h ago
 
 ---
 
 **[Men only have two moods:](https://www.reddit.com/r/Bitcoin/comments/1sdz0lp/men_only_have_two_moods/)**
 
-17h ago
-
----
-
-**[The continued case for bitcoin. Despite the volatility, BTC is still in play.](https://www.reddit.com/r/Bitcoin/comments/1se7hdp/the_continued_case_for_bitcoin_despite_the/)**
-
-Bitcoing is extremely volatile, having thoroughly tanked this year. And yet it is still your best long term store of value play. BTC value vs. Tradfi 2020-2026 Despite the 4-year peak trough cycles, BTC still MASSIVELY outperforms TradFi. And what does that mean to you? LONG TERM Store of Value: Median US home price 2020-2026 One day you'll buy a home with a fraction of your BTC. In fact, you'll easily collateralize your BTC to back the loan - no cap gains tax, lower rates. BTC may not be "money" (currency) yet, but it is a store of value particularly against fiat currencies, as these two charts quickly demonstrate. What are you doing relative to BTC, running for the hills? I'm dollar cost averaging.
-
-12h ago
-
----
-
-**[Bitcoin: The Silent Revolution of Our Generation](https://www.reddit.com/r/Bitcoin/comments/1se0qgj/bitcoin_the_silent_revolution_of_our_generation/)**
-
-While the world continues to trust systems that fail time and time again, a new alternative has emerged silent, unstoppable, and incorruptible. Bitcoin is not just technology. It’s not just money. It’s freedom. For the first time in history, a generation has the opportunity to truly own its wealth without intermediaries, without permission, without manipulation. We grew up watching crises unfold, inflation erode the value of our efforts, and rules change in the middle of the game. But now… we have a choice. Bitcoin is more than an asset, it’s a statement. A rejection of centralized control. A step toward individual sovereignty. There may be volatility. There may be doubts. But one thing is certain: The world is changing and Bitcoin is leading that change. Don’t trust, verify. 🧡
-
-16h ago
-
----
-
-**[Bitcoin is the best insurance policy I've ever had](https://www.reddit.com/r/Bitcoin/comments/1sdxixx/bitcoin_is_the_best_insurance_policy_ive_ever_had/)**
-
-Sadly, most of the hard working people still have no idea how the printer keeps stealing their money.
-
 18h ago
-
----
-
-**[Daily Discussion, April 07, 2026](https://www.reddit.com/r/Bitcoin/comments/1senrk6/daily_discussion_april_07_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-43m ago
 
 ---
 
@@ -149,7 +117,39 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 In two days, on Wednesday April 8th, a handful of Bitcoin Core developers are going to be doing a demonstration of “attack blocks” designed to take an inordinate amount of time to verify on Signet. The demonstration will take place at 10 AM EST (2 PM UTC). Anyone who wishes to participate can run Bitcoin Core node on Signet and watch the blocks be mined and processed by their node in real-time. Instructions can be found here to spin up a node and follow along (including how to check your node’s logs to see the verification times for the attack blocks). The demonstration is not going to show the worst case of the attack (the script and transaction structure required has not been publicly revealed to not give malicious actors even more information about the attack), but it will produce blocks that take orders of magnitude more time to verify than your average block. The aim of the demonstration is to show users the severity of one of the four severe consensus vulnerabilities that the Great Consensus Cleanup aims to address with BIP 54. Two more demonstrations will take place at 6 PM EST (10 PM UTC) on April 8th, and at 5 AM EST (9 AM UTC) on April 9th, to allow for Bitcoin users in different global timezones to directly participate as well. The Signet blockchain is currently at around 32-33 GB, so if you have any device with ample storage space, go ahead and spin up a Signet node to participate. For your awareness the following software patch was quickly put together for this demonstration and not audited thoroughly (though it is just a basic terminal based-GUI). If you are spinning up a brand new Signet node just for this demonstration on a machine without any funds on it, you should be fine even if you are the paranoid type like me. For those who don’t want to just poke at log files, AJ Towns provided a patch to the “bitcoin-tui” project, a Terminal based GUI for Bitcoin Core to display the attack blocks during the demonstration. The project creator is working on a proper release in time for the demonstration, but you can also compile it yourself. Run these commands on Linux (git commands will work on other OSes, and you should be able to find the equivalent CLI commands for your OS easily online): git clone https://github.com/ajtowns/bitcoin-tui.git cd bitcoin-tui git switch 202604-bip54blocks From there you should be able to just follow the build instructions at the repository here. After compiling, make sure your bitcoind has “server=1” set in the config file, and start up bitcoin-tui. You should find a “Slow Blocks” tab on the right of the top bar.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/demonstration-of-attack-blocks-on-bitcoins-signet-test-network) • 49m ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/demonstration-of-attack-blocks-on-bitcoins-signet-test-network) • 2h ago
+
+---
+
+**[Daily Discussion, April 07, 2026](https://www.reddit.com/r/Bitcoin/comments/1senrk6/daily_discussion_april_07_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+2h ago
+
+---
+
+**[The continued case for bitcoin. Despite the volatility, BTC is still in play.](https://www.reddit.com/r/Bitcoin/comments/1se7hdp/the_continued_case_for_bitcoin_despite_the/)**
+
+Bitcoing is extremely volatile, having thoroughly tanked this year. And yet it is still your best long term store of value play. BTC value vs. Tradfi 2020-2026 Despite the 4-year peak trough cycles, BTC still MASSIVELY outperforms TradFi. And what does that mean to you? LONG TERM Store of Value: Median US home price 2020-2026 One day you'll buy a home with a fraction of your BTC. In fact, you'll easily collateralize your BTC to back the loan - no cap gains tax, lower rates. BTC may not be "money" (currency) yet, but it is a store of value particularly against fiat currencies, as these two charts quickly demonstrate. What are you doing relative to BTC, running for the hills? I'm dollar cost averaging.
+
+13h ago
+
+---
+
+**[Bitcoin: The Silent Revolution of Our Generation](https://www.reddit.com/r/Bitcoin/comments/1se0qgj/bitcoin_the_silent_revolution_of_our_generation/)**
+
+While the world continues to trust systems that fail time and time again, a new alternative has emerged silent, unstoppable, and incorruptible. Bitcoin is not just technology. It’s not just money. It’s freedom. For the first time in history, a generation has the opportunity to truly own its wealth without intermediaries, without permission, without manipulation. We grew up watching crises unfold, inflation erode the value of our efforts, and rules change in the middle of the game. But now… we have a choice. Bitcoin is more than an asset, it’s a statement. A rejection of centralized control. A step toward individual sovereignty. There may be volatility. There may be doubts. But one thing is certain: The world is changing and Bitcoin is leading that change. Don’t trust, verify. 🧡
+
+17h ago
+
+---
+
+**[Bitcoin is the best insurance policy I've ever had](https://www.reddit.com/r/Bitcoin/comments/1sdxixx/bitcoin_is_the_best_insurance_policy_ive_ever_had/)**
+
+Sadly, most of the hard working people still have no idea how the printer keeps stealing their money.
+
+19h ago
 
 ---
 
@@ -161,15 +161,7 @@ In two days, on Wednesday April 8th, a handful of Bitcoin Core developers are go
 
 Options data shows traders are bracing for a sharp bitcoin drop as weak demand and fragile positioning leave the market exposed to a break below key levels, a report from Bitfinex shows.
 
-CoinDesk • 11h ago
-
----
-
-**[Michael Saylor's Strategy buys $330 million worth of bitcoin, stock rises](https://finance.yahoo.com/news/michael-saylors-strategy-buys-330-million-worth-of-bitcoin-stock-rises-153457420.html)**
-
-Strategy recorded a $14.5 billion unrealized loss in the first quarter as it continues to accumulate more bitcoin.
-
-Yahoo Finance • 15h ago
+CoinDesk • 12h ago
 
 ---
 
@@ -177,19 +169,23 @@ Yahoo Finance • 15h ago
 
 Strategy's on-paper bitcoin losses generated a $2.42 billion deferred tax asset, according to its latest 8-K filing.
 
-The Block • 16h ago
+The Block • 18h ago
 
 ---
 
-**[Strategy Posts $14.5 Billion Unrealized Loss in First Quarter](https://www.bloomberg.com/news/articles/2026-04-06/strategy-posts-14-5-billion-unrealized-loss-in-first-quarter)**
+**[Michael Saylor's Strategy buys $330 million worth of bitcoin, stock rises](https://finance.yahoo.com/news/michael-saylors-strategy-buys-330-million-worth-of-bitcoin-stock-rises-153457420.html)**
 
-Bloomberg.com • 17h ago
+Strategy recorded a $14.5 billion unrealized loss in the first quarter as it continues to accumulate more bitcoin.
+
+Yahoo Finance • 16h ago
 
 ---
 
-**[Bitcoin Slides With Risk Assets as Trump’s Iran Ultimatum Looms](https://www.bloomberg.com/news/articles/2026-04-07/bitcoin-slides-with-risk-assets-as-trump-s-iran-ultimatum-looms)**
+**[Bitcoin may hit $110K as Strategy absorbs nearly 3x new BTC supply](https://www.tradingview.com/news/cointelegraph:1060e5db7094b:0-bitcoin-may-hit-110k-as-strategy-absorbs-nearly-3x-new-btc-supply/)**
 
-Bloomberg.com • 1h ago
+Bitcoin (BTC) is trading within a bear flag pattern that projects a breakdown toward the sub-$50,000 area, or roughly 30% below current levels. However, Michael Saylor’s Strategy could spoil the bears’ plans.Key takeaways:Can Strategy’s BTC buying offset weak technicals?Normally, a bear flag remain…
+
+TradingView • 11h ago
 
 ---
 
@@ -197,7 +193,7 @@ Bloomberg.com • 1h ago
 
 Oil jumped above $112 on threats to destroy Iranian infrastructure if no agreement is reached by midnight, while crypto markets gave back Monday's ceasefire rally gains.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -205,31 +201,35 @@ CoinDesk • 2h ago
 
 (Bloomberg) -- Bitcoin rose in early trading Monday as investors weighed reports that Iran was seeking a ceasefire in the war, even as US President Donald Trump escalated threats to attack civilian infrastructure.The original cryptocurrency was up as much as 2.8%, trading around $69,300 at 9:35 a.m. in London. Ether, the second-largest digital asset, rose as much as 3.7%. Nearly $200 million of bearish bets were unwound for cryptocurrencies in the last 24 hours, according to Coinglass data.Trump
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
-**[Bitcoin spot ETFs see $500M inflows as optimism grows for $100K target by June 30](https://www.tradingview.com/news/cryptobriefing:ba59a15b9094b:0-bitcoin-spot-etfs-see-500m-inflows-as-optimism-grows-for-100k-target-by-june-30/)**
+**[‘Liberation Day’—Trump Tariff Shock Sends Bitcoin Toward $66K](https://www.forbes.com/sites/boazsobrado/2026/04/05/liberation-day-trump-tariff-shock-sends-bitcoin-toward-66k/)**
 
-Bitcoin spot ETFs, led by BlackRock, saw nearly $500M in inflows on Monday. The market for Bitcoin reaching $100,000 by June 30 trades with increased optimism.BlackRock's IBIT ETF led the inflows after five weeks of outflows, signaling a shift in institutional sentiment. This influx aligns with Bit…
-
-TradingView • 2h ago
+Forbes • 1d ago
 
 ---
 
-**[Bitcoin miners face a new rival for cheap power as Anthropic signs multi-gigawatt compute deal](https://www.coindesk.com/tech/2026/04/07/bitcoin-miners-face-a-new-rival-for-cheap-power-as-anthropic-signs-multi-gigawatt-compute-deal)**
+**[Bitcoin and ethereum price today, Monday, April 6, 2026: Prices rise amid reports of a proposed Iran war ceasefire](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-monday-april-6-2026-prices-rise-amid-reports-of-a-proposed-iran-war-ceasefire-113813797.html)**
 
-The AI company's partnership with Google and Broadcom for next-generation TPU capacity starting in 2027 adds to a wave of demand reshaping the economics of every industry that competes for cheap electricity, including bitcoin mining.
+​​Bitcoin and ethereum opened at $68,978.91 and $2,108.78, respectively. Both cryptos rose on Monday morning after news outlets reported on a diplomatic attempt to end the Iran war.
 
-CoinDesk • 1h ago
+Yahoo Finance • 20h ago
 
 ---
 
-**[A quantum threat to Bitcoin has some asking the unthinkable](https://fortune.com/crypto/2026/04/06/quantum-computing-satoshi-nakamoto-bitcoin-freeze-wallets/)**
+**[Bitcoin, XRP Prices Drop. Why the Strategy Shine Is Wearing Off for Cryptos.](https://www.barrons.com/articles/bitcoin-xrp-price-crypto-markets-today-5a8e9341?gaa_at=eafs&gaa_n=AWEtsqc_5E9keyCBNbJ-z5c2BqNfMvLBsMePtA9sII_6wd9CT2r3ATx49vqD&gaa_ts=69d4c00f&gaa_sig=eLuIW8xZ9b-Jc8HhcH6UjKriGO0WLHtgTocTRbm7Pbnfy_tRcY88G3u0NixA2MsY1oMvyxLz-iZPjXoF1eSVcQ%3D%3D)**
 
-A hacker with quantum tools could crack open old Bitcoin wallets and flood the market as soon as 2029.
+Barron's • 20m ago
 
-Fortune • 19h ago
+---
+
+**[Why Are Bitcoin, Ethereum and XRP Prices Going Up Today?](https://www.tradingview.com/news/coinpedia:62c4540d7094b:0-why-are-bitcoin-ethereum-and-xrp-prices-going-up-today/)**
+
+Crypto markets are in the green on Monday, with Bitcoin, Ethereum and XRP all posting modest gains after weeks of subdued price action. Bitcoin is trading around $69,137, up 3% in 24 hours. Ethereum has climbed to $2,131, gaining nearly 4%. XRP is holding near $1.33, up roughly 2% on the day.Iran T…
+
+TradingView • 1d ago
 
 ---
 
@@ -289,7 +289,7 @@ April 03, 2026 - A new $100 million bond deal reveals exactly how traditional fi
 
 **[Bitcoin developers are mostly not concerned about quantum risk](https://news.ycombinator.com/item?id=47667515)**
 
-⬆️ 2 • 💬 0 • 9h ago • [murmurationstwo.substack.com](https://murmurationstwo.substack.com/p/bitcoin-developers-are-mostly-not)
+⬆️ 2 • 💬 0 • 10h ago • [murmurationstwo.substack.com](https://murmurationstwo.substack.com/p/bitcoin-developers-are-mostly-not)
 
 ---
 
@@ -311,13 +311,13 @@ Test your prediction skills against historical data. Draw your forecast and see 
 
 ## YouTube Videos: "bitcoin"
 
-**[BITCOIN LAST WARNING!!!!!!!!!!!!!](https://www.youtube.com/watch?v=szQwDyikS0w)**
+**[The Big Print Is Coming &amp; Bitcoin Will Still Fail You...](https://www.youtube.com/watch?v=cv9sJMGOoR4)**
 
-Bitcoin what now The HORRIBLE Secret of Backwards Aging Celebrities! https://youtu.be/X7urCWuIt7k.
+Could the oil crisis Break Bitcoin? Insider oil tracking just hit $173 a barrel and physical Brent is already at $141. The Big Print is ...
 
-📺 MMCrypto
+📺 Simply Bitcoin
 
-👁️ 40K • 👍 2K • 💬 515 • ⏱️ 5:05 • 1d ago
+👁️ 25K • 👍 2K • 💬 425 • ⏱️ 16:01 • 1d ago
 
 ---
 
@@ -327,37 +327,7 @@ Follow Gareth: https://x.com/GarethSoloway ✓ Bitunix (no kyc, $10k bonus): htt
 
 📺 Altcoin Daily
 
-👁️ 58K • 👍 3K • 💬 300 • ⏱️ 23:55 • 1d ago
-
----
-
-**[The Big Print Is Coming &amp; Bitcoin Will Still Fail You...](https://www.youtube.com/watch?v=cv9sJMGOoR4)**
-
-Could the oil crisis Break Bitcoin? Insider oil tracking just hit $173 a barrel and physical Brent is already at $141. The Big Print is ...
-
-📺 Simply Bitcoin
-
-👁️ 24K • 👍 2K • 💬 417 • ⏱️ 16:01 • 1d ago
-
----
-
-**[Bitcoin: Why Altcoin Season Failed](https://www.youtube.com/watch?v=73ukR3f_tg4)**
-
-In this video, I take a closer look at the current Bitcoin structure and explain why the expected altcoin season has not materialized.
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 273 • 💬 27 • ⏱️ 16:51 • 9h ago
-
----
-
-**[Gareth Soloway LATEST Bitcoin Prediction 😳](https://www.youtube.com/watch?v=hx7APjARYiU)**
-
-Follow Gareth: https://x.com/GarethSoloway ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?
-
-📺 Altcoin Daily
-
-👁️ 7K • 👍 215 • 💬 56 • ⏱️ 1:14 • 12h ago
+👁️ 59K • 👍 3K • 💬 299 • ⏱️ 23:55 • 1d ago
 
 ---
 
@@ -367,7 +337,7 @@ Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bi
 
 📺 Tyler S
 
-👁️ 10K • 👍 630 • 💬 140 • ⏱️ 13:45 • 15h ago
+👁️ 11K • 👍 650 • 💬 222 • ⏱️ 13:45 • 16h ago
 
 ---
 
@@ -377,15 +347,7 @@ BRACE YOURSELF... Crypto is about to get ABSOLUTELY CRAZY! For more info on BTQ 
 
 📺 Altcoin Daily
 
-👁️ 17K • 👍 2K • 💬 155 • ⏱️ 9:57 • 7h ago
-
----
-
-**[Bitcoin Goes Up To $1Million?!](https://www.youtube.com/watch?v=CPCoqd0HxWM)**
-
-📺 FreshandFit
-
-👁️ 67K • 👍 1K • 💬 44 • ⏱️ 0:34 • 1d ago
+👁️ 25K • 👍 2K • 💬 163 • ⏱️ 9:57 • 9h ago
 
 ---
 
@@ -395,7 +357,25 @@ Is Bitcoin entering a dangerous phase of complacency? After periods of volatilit
 
 📺 Benjamin Cowen
 
-👁️ 75K • 👍 4K • 💬 229 • ⏱️ 16:00 • 1d ago
+👁️ 77K • 👍 5K • 💬 233 • ⏱️ 16:00 • 1d ago
+
+---
+
+**[Bitcoin Goes Up To $1Million?!](https://www.youtube.com/watch?v=CPCoqd0HxWM)**
+
+📺 FreshandFit
+
+👁️ 72K • 👍 1K • 💬 47 • ⏱️ 0:34 • 1d ago
+
+---
+
+**[BLACKROCK GOT OUT! | $875 Billion Reason Your Bank Could Be NEXT!](https://www.youtube.com/watch?v=7qggaEgalPI)**
+
+Something big just shifted behind the scenes and most people missed it. BlackRock is repositioning, regional banks are exposed, ...
+
+📺 Simply Bitcoin
+
+👁️ 19K • 👍 2K • 💬 93 • ⏱️ 21:33 • 10h ago
 
 ---
 
@@ -405,7 +385,27 @@ BITCOIN: The Calm Before The Storm (Prepare Now)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 10K • 👍 322 • 💬 316 • ⏱️ 18:13 • 1d ago
+👁️ 10K • 👍 323 • 💬 310 • ⏱️ 18:13 • 1d ago
+
+---
+
+**[BITCOIN: THIS PUMP WILL TRAP YOU](https://www.youtube.com/watch?v=yv-TofnumdY)**
+
+DM me the word “CBM” on Telegram to join my private group: https://t.me/CryptoByMathieu BloFin: ...
+
+📺 Mathieu - C₿M
+
+👁️ 3K • 👍 350 • 💬 51 • ⏱️ 8:43 • 15h ago
+
+---
+
+**[If Professor Jian Xueqin Is Right... Bitcoin Goes NUCLEAR](https://www.youtube.com/watch?v=1HPmGzKyUOk)**
+
+CHECK OUT UPTRADE! Sign up here ▻ https://uptrade.co/ref/fire-hustle TRADE ON BTCC WITH ME! 10% Deposit ...
+
+📺 FireHustle
+
+👁️ 10K • 👍 614 • 💬 70 • ⏱️ 10:15 • 1d ago
 
 ---
 
