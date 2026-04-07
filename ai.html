@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-04-07T13:24:10.341138+00:00"
+          "dateModified": "2026-04-07T14:53:12.541065+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -696,6 +696,39 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1setez5/stop_overcomplicating_ai_workflows_this_is_the/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1setez5/stop_overcomplicating_ai_workflows_this_is_the/" target="_blank" onclick="event.stopPropagation();">Stop Overcomplicating AI Workflows. This Is the Simple Framework</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            I’ve been working on building an agentic AI workflow system for business use cases and one thing became very clear very quickly. This is not about picking the right LLM. The real complexity starts when you try to chain reasoning, memory, and tool execution across multiple steps. A single agent works fine for demos. The moment you introduce multi-step workflows with external APIs, things start getting weird and complex. State management becomes a problem. Memory retrieval is inconsistent. Latency compounds with every step. And debugging is painful because you are not tracing a single function, you are tracing decisions across a system. What helped was thinking in layers. Input handling, planning, execution, feedback. Once I separated those, it became easier to isolate failures. Also realized that most inefficiencies come from unnecessary model calls, not the model itself. Another thing people don’t talk about enough is cost scaling. Token usage is manageable early on, but once workflows get deeper, it adds up fast if you are not controlling context and step count.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1775561772.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1se2nxm/cognitive_surrender_leads_ai_users_to_abandon/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -779,7 +812,7 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1setez5/stop_overcomplicating_ai_workflows_this_is_the/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1sej7tw/attention_is_all_you_need_but_all_you_cant_afford/', '_blank')">
                     <div class="post-thumbnail">
                         
                     </div>
@@ -787,13 +820,13 @@
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1setez5/stop_overcomplicating_ai_workflows_this_is_the/" target="_blank" onclick="event.stopPropagation();">Stop Overcomplicating AI Workflows. This Is the Simple Framework</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1sej7tw/attention_is_all_you_need_but_all_you_cant_afford/" target="_blank" onclick="event.stopPropagation();">Attention Is All You Need, But All You Can't Afford | Hybrid Attention</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            I’ve been working on building an agentic AI workflow system for business use cases and one thing became very clear very quickly. This is not about picking the right LLM. The real complexity starts when you try to chain reasoning, memory, and tool execution across multiple steps. A single agent works fine for demos. The moment you introduce multi-step workflows with external APIs, things start getting weird and complex. State management becomes a problem. Memory retrieval is inconsistent. Latency compounds with every step. And debugging is painful because you are not tracing a single function, you are tracing decisions across a system. What helped was thinking in layers. Input handling, planning, execution, feedback. Once I separated those, it became easier to isolate failures. Also realized that most inefficiencies come from unnecessary model calls, not the model itself. Another thing people don’t talk about enough is cost scaling. Token usage is manageable early on, but once workflows get deeper, it adds up fast if you are not controlling context and step count.
+                            Repo: https://codeberg.org/JohannaJuntos/Sisyphus I've been building a small Rust-focused language model from scratch in PyTorch. Not a finetune — byte-level, trained from random init on a Rust-heavy corpus assembled in this repo. The run: 25.6M parameters 512 context length 173.5M-byte corpus 30k training steps Single RTX 4060 Ti 8GB Final train loss: 0.5834 / val loss: 0.8217 / perplexity: 2.15 Inference: 286.6 tok/s with HybridAttention + KV cache — 51.47x vs full attention Background I'm an autistic systems programmer, writing code since 2008/2009, started in C. I approach ML like a systems project: understand the data path, understand the memory behavior, keep the stack small, add complexity only when justified. That's basically the shape of this repo. Architecture Byte-level GPT-style decoder: Vocab size 256 (bytes) 8 layers, 8 heads, 512 embedding dim Learned positional embeddings Tied embedding / LM head weights The attention block is not standard full attention. Each layer uses HybridAttention, combining: Local windowed causal attention A GRU-like recurrent state path A learned gate mixing the two Local path handles short-range syntax. Recurrent path carries compressed long-range state without paying quadratic cost. Gate bias initialized to ones so early training starts local-biased. The inference path uses Triton-optimized kernels and torch.library custom ops for the local window attention. Corpus This is probably the most important part of the repo. The run starts with official Rust docs, compiler/library/tests, cargo, rust-analyzer, tokio, serde, ripgrep, clap, axum — roughly 31MB. Corpus expanded to 177,151,242 bytes by fetching the top 500 crates (461 successful clones). Corpus expansion from 31M to 173.5M chars helped more than anything else in the repo. Training AdamW, lr 2e-4, weight decay 0.1, betas (0.9, 0.95), 30k steps, 1k warmup. ~678.8 MiB training memory on a 7.6 GiB card. All experimental memory tricks (gradient quantization, activation compression, selective backprop, gradient paging) were disabled. Small custom architecture + mixed precision + better corpus was enough. Loss curve: Step 0: train 5.5555 / val 5.5897 Step 1000: train 2.4295 / val 2.6365 Step 5000: train 0.9051 / val 1.0060 Step 10000: train 0.8065 / val 0.8723 Step 18500: train 0.6902 / val 0.7757 Step 29999: train 0.5834 / val 0.8217 Best val loss around step 18.5k — overfitting or plateauing late. Inference performance Full attention O(n²): 17.96s / 5.6 tok/s HybridAttention O(n·W + n·D): 0.35s / 286.6 tok/s Speedup: 51.47x — no quality loss KV cache strategy: hot window of W=64 tokens in VRAM (~256KB), older tokens compressed to 8-bit magnitude + angle, selective promotion on demand. Complexity goes from O(n²·d) to O(4096n) for this model. All 5 tests passing: forward pass, generation with/without cache, RNN state isolation, window mechanics. Generation quality Surface Rust syntax looks decent, imports and signatures can look plausible, semantics are weak, repetition and recursive nonsense still common. Honest read of the current state. What I think is actually interesting Four distinct experiments, each shipped working code: Byte-level Rust-only pretraining Hybrid local-attention + recurrent block replacing standard full attention Corpus expansion from core repos to broader crate ecosystem Production-ready hot/cold KV cache paging — 51.47x speedup, no quality loss The clearest win is corpus expansion. The second-order win is that HybridAttention + cache is fast enough for real interactive use on consumer hardware. What's next Ablation — HybridAttention vs local-only vs RNN-only Checkpoint selection — does step 18.5k generate better than 29999? Syntax validation — does the output parse/compile/typecheck? Context length sweep — 256 to 2048, where does window size hurt? Byte vs BPE — now that corpus is 5.6x larger, worth testing? Questions for the sub: For small code models, what evals have actually been useful beyond perplexity? Has anyone seen hybrid local + recurrent attention work well for code gen, or does it usually lose to just scaling a plain transformer? If you had this setup — more tokens, longer context, or cleaner ablation first?
                         </div>
                         
 
@@ -802,7 +835,40 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1775561772.0"></span>
+                                    <span data-timestamp="1775528468.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1seb268/ai_is_struggling_to_take_our_jobs/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1seb268/ai_is_struggling_to_take_our_jobs/" target="_blank" onclick="event.stopPropagation();">AI is struggling to take our jobs</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            https://www.youtube.com/watch?v=p22QeLNHvlc MIT created duplicate AI workers to tackle thousands of different tasks. The verdict? Most of the time AI is still just ‘minimally sufficient’ https://www.semafor.com/article/11/26/2025/deloitte-faces-new-scrutiny-over-ai-generated-mistakes https://www.cbc.ca/news/canada/newfoundland-labrador/nl-deloitte-citations-9.6990216 https://www.fastcompany.com/91417492/deloitte-ai-report-australian-government https://fortune.com/2025/10/07/deloitte-ai-australia-government-report-hallucinations-technology-290000-refund/
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1775508397.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -895,21 +961,23 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1sej7tw/attention_is_all_you_need_but_all_you_cant_afford/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1sdwgvg/ai_machine_sorts_clothes_faster_than_humans_to/', '_blank')">
                     <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/NFf_mNTw3Afx8yxJWBCAs-ORJbSGqoIYhFAJJTBK5rk.jpeg?width=640&crop=smart&auto=webp&s=32c715b824ab682d3bf644cdd5109ffbe31ccc01" alt="AI machine sorts clothes faster than humans to boost textile recycling in China" onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1sej7tw/attention_is_all_you_need_but_all_you_cant_afford/" target="_blank" onclick="event.stopPropagation();">Attention Is All You Need, But All You Can't Afford | Hybrid Attention</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1sdwgvg/ai_machine_sorts_clothes_faster_than_humans_to/" target="_blank" onclick="event.stopPropagation();">AI machine sorts clothes faster than humans to boost textile recycling in China</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            Repo: https://codeberg.org/JohannaJuntos/Sisyphus I've been building a small Rust-focused language model from scratch in PyTorch. Not a finetune — byte-level, trained from random init on a Rust-heavy corpus assembled in this repo. The run: 25.6M parameters 512 context length 173.5M-byte corpus 30k training steps Single RTX 4060 Ti 8GB Final train loss: 0.5834 / val loss: 0.8217 / perplexity: 2.15 Inference: 286.6 tok/s with HybridAttention + KV cache — 51.47x vs full attention Background I'm an autistic systems programmer, writing code since 2008/2009, started in C. I approach ML like a systems project: understand the data path, understand the memory behavior, keep the stack small, add complexity only when justified. That's basically the shape of this repo. Architecture Byte-level GPT-style decoder: Vocab size 256 (bytes) 8 layers, 8 heads, 512 embedding dim Learned positional embeddings Tied embedding / LM head weights The attention block is not standard full attention. Each layer uses HybridAttention, combining: Local windowed causal attention A GRU-like recurrent state path A learned gate mixing the two Local path handles short-range syntax. Recurrent path carries compressed long-range state without paying quadratic cost. Gate bias initialized to ones so early training starts local-biased. The inference path uses Triton-optimized kernels and torch.library custom ops for the local window attention. Corpus This is probably the most important part of the repo. The run starts with official Rust docs, compiler/library/tests, cargo, rust-analyzer, tokio, serde, ripgrep, clap, axum — roughly 31MB. Corpus expanded to 177,151,242 bytes by fetching the top 500 crates (461 successful clones). Corpus expansion from 31M to 173.5M chars helped more than anything else in the repo. Training AdamW, lr 2e-4, weight decay 0.1, betas (0.9, 0.95), 30k steps, 1k warmup. ~678.8 MiB training memory on a 7.6 GiB card. All experimental memory tricks (gradient quantization, activation compression, selective backprop, gradient paging) were disabled. Small custom architecture + mixed precision + better corpus was enough. Loss curve: Step 0: train 5.5555 / val 5.5897 Step 1000: train 2.4295 / val 2.6365 Step 5000: train 0.9051 / val 1.0060 Step 10000: train 0.8065 / val 0.8723 Step 18500: train 0.6902 / val 0.7757 Step 29999: train 0.5834 / val 0.8217 Best val loss around step 18.5k — overfitting or plateauing late. Inference performance Full attention O(n²): 17.96s / 5.6 tok/s HybridAttention O(n·W + n·D): 0.35s / 286.6 tok/s Speedup: 51.47x — no quality loss KV cache strategy: hot window of W=64 tokens in VRAM (~256KB), older tokens compressed to 8-bit magnitude + angle, selective promotion on demand. Complexity goes from O(n²·d) to O(4096n) for this model. All 5 tests passing: forward pass, generation with/without cache, RNN state isolation, window mechanics. Generation quality Surface Rust syntax looks decent, imports and signatures can look plausible, semantics are weak, repetition and recursive nonsense still common. Honest read of the current state. What I think is actually interesting Four distinct experiments, each shipped working code: Byte-level Rust-only pretraining Hybrid local-attention + recurrent block replacing standard full attention Corpus expansion from core repos to broader crate ecosystem Production-ready hot/cold KV cache paging — 51.47x speedup, no quality loss The clearest win is corpus expansion. The second-order win is that HybridAttention + cache is fast enough for real interactive use on consumer hardware. What's next Ablation — HybridAttention vs local-only vs RNN-only Checkpoint selection — does step 18.5k generate better than 29999? Syntax validation — does the output parse/compile/typecheck? Context length sweep — 256 to 2048, where does window size hurt? Byte vs BPE — now that corpus is 5.6x larger, worth testing? Questions for the sub: For small code models, what evals have actually been useful beyond perplexity? Has anyone seen hybrid local + recurrent attention work well for code gen, or does it usually lose to just scaling a plain transformer? If you had this setup — more tokens, longer context, or cleaner ablation first?
+                            A company in eastern China is using an artificial intelligence-powered machine to sort clothes and boost recycling.
                         </div>
                         
 
@@ -918,78 +986,25 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1775528468.0"></span>
+                                    <span data-timestamp="1775475752.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
                                 
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1ses6xa/adobe_firefly_web_vs_mobile_vs_boards_2026_which/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://preview.redd.it/8xa5z9c7rqtg1.jpeg?width=640&crop=smart&auto=webp&s=fde5d36c996971c9647f44d20185b7431f312416" alt="Adobe Firefly Web vs Mobile vs Boards (2026): Which One Should You Actually Use?" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1ses6xa/adobe_firefly_web_vs_mobile_vs_boards_2026_which/" target="_blank" onclick="event.stopPropagation();">Adobe Firefly Web vs Mobile vs Boards (2026): Which One Should You Actually Use?</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Most of my clients are using Adobe Firefly, and I keep getting the same question: Which interface should I actually be using—Web, Mobile, or Boards? They all have similar capabilities, but they’re built for completely different parts of the workflow. Here’s the simplest way to think about it. Quick Answer (What to Use for What) Adobe Firefly Web → best for quick generation + testing prompts Adobe Firefly Mobile → best for creating on the go Adobe Firefly Boards → best for organizing and building full projects If you remember nothing else, that’s the breakdown. How Adobe Firefly Actually Works (Across Interfaces) The mistake most people make is thinking these are separate tools. They’re not. Adobe Firefly is one system, just with different interfaces depending on what stage you’re in: Web → generate Mobile → capture + quick create Boards → organize + collaborate Once you think of it like that, the differences make a lot more sense. 1️⃣ Adobe Firefly Web (Standard Interface) This is the default browser experience and where most people start. Best for: Testing prompts Generating quick assets Exploring styles Why it wins: Fast and intuitive Access to a wide range of generation tools and partner models Better than Mobile/Boards when: You just need to generate something quickly without worrying about organization. The catch: If you generate a lot of assets (e.g. campaign work), things get messy fast. There’s no real system for managing volume. 2️⃣ Adobe Firefly Mobile This brings core Adobe Firefly capabilities onto your phone. Best for: Content creators working on mobile Capturing ideas in real time Quick social content Why it wins: Portable and fast Easy to create images, video, and audio on the go Can connect into apps like Premiere and Adobe Express Better than Web/Boards when: Speed and accessibility matter more than precision or control. The catch: You don’t want to run a full project from your phone—it’s great for ideas, not for managing complexity. 3️⃣ Adobe Firefly Boards This is where things shift from generation → project-level workflow. Best for: Creative teams and agencies Campaign development Client presentation and collaboration Why it wins: Full visual overview of a project Ability to organize concepts, assets, and references in one place Strongest for structured workflows Better than Web/Mobile when: You need to manage multiple assets, ideas, and stakeholders in one place. The catch: Slight learning curve Not all generation features (like sound effects) are available here Quick Comparison (Simple Version) Web = fastest Mobile = most flexible Boards = most powerful (for projects) Final Take The real advantage of Adobe Firefly isn’t any single interface. It’s that: you can generate in Web capture ideas in Mobile organize everything in Boards All within the same system. That’s what makes it actually usable for real workflows—not just experimentation. Curious how others are using it—are you sticking to one interface, or moving between all three?
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1775557962.0"></span>
+                                <div class="post-meta-item post-source">
+                                    <a href="https://apnews.com/article/china-recycling-textiles-artificial-intelligence-863551cc54e88da6a7916894cb8980c4" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://apnews.com/apple-touch-icon.png" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
+                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
+                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
+                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
+                                            </svg>
+                                            
+                                        
+                                        <span>AP News</span>
+                                    </a>
                                 </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1selmm8/i_got_tired_of_3_am_pagerduty_alerts_so_i_built/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1selmm8/i_got_tired_of_3_am_pagerduty_alerts_so_i_built/" target="_blank" onclick="event.stopPropagation();">I got tired of 3 AM PagerDuty alerts, so I built an AI agent to fix cloud outages while I sleep. (Built with GLM-5.1)</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            If you've ever been on-call, you know the nightmare. It’s 3:15 AM. You get pinged because heavily-loaded database nodes in us-east-1 are randomly dropping packets. You groggily open your laptop, ssh into servers, stare at Grafana charts, and manually reroute traffic to the European fallback cluster. By the time you fix it, you've lost an hour of sleep, and the company has lost a solid chunk of change in downtime. This weekend for the Z.ai hackathon, I wanted to see if I could automate this specific pain away. Not just "anomaly detection" that sends an alert, but an actual agent that analyzes the failure, proposes a structural fix, and executes it. I ended up building Vyuha AI-a triple-cloud (AWS, Azure, GCP) autonomous recovery orchestrator. Here is how the architecture actually works under the hood. The Stack I built this using Python (FastAPI) for the control plane, Next.js for the dashboard, a custom dynamic reverse proxy, and GLM-5.1 doing the heavy lifting for the reasoning engine. The Problem with 99% of "AI DevOps" Tools Most AI monitoring tools just ingest logs and summarize them into a Slack message. That’s useless when your infrastructure is actively burning. I needed an agent with long-horizon reasoning. It needed to understand the difference between a total node crash (DEAD) and a node that is just acting weird (FLAKY or dropping 25% of packets). How Vyuha Works (The Triaging Loop) I set up three mock cloud environments (AWS, Azure, GCP) behind a dynamic FastApi proxy. A background monitor loop probes them every 5 seconds. I built a "Chaos Lab" into the dashboard so I could inject failures on demand. Here’s what happens when I hard-kill the GCP node: Detection: The monitor catches the 503 Service Unavailable or timeout in the polling cycle. Context Gathering: It doesn't instantly act. It gathers the current "formation" of the proxy, checks response times of the surviving nodes, and bundles that context. Reasoning (GLM-5.1): This is where I relied heavily on GLM-5.1. Using ZhipuAI's API, the agent is prompted to act as a senior SRE. It parses the failure, assesses the severity, and figures out how to rebalance traffic without overloading the remaining nodes. The Proposal: It generates a strict JSON payload with reasoning, severity, and the literal API command required to reroute the proxy. No Rogue AI (Human-in-the-Loop) I don't trust LLMs enough to blindly let them modify production networking tables, obviously. So the agent operates on a strict Human-in-the-Loop philosophy. The GLM-5.1 model proposes the fix, explains why it chose it, and surfaces it to the dashboard. The human clicks "Approve," and the orchestrator applies the new proxy formation. Evolutionary Memory (The Coolest Feature) This was my favorite part of the build. Every time an incident happens, the system learns. If the human approves the GLM's failover proposal, the agent runs a separate "Reflection Phase." It analyzes what broke and what fixed it, and writes an entry into a local SQLite database acting as an "Evolutionary Memory Log". The next time a failure happens, the orchestrator pulls relevant past incidents from SQLite and feeds them into the GLM-5.1 prompt. The AI literally reads its own history before diagnosing new problems so it doesn't make the same mistake twice. The Struggles It wasn't smooth. I lost about 4 hours to a completely silent Pydantic validation bug because my frontend chaos buttons were passing the string "dead" but my backend Enums strictly expected "DEAD". The agent just sat there doing nothing. LLMs are smart, but type-safety mismatches across the stack will still humble you. Try it out I built this to prove that the future of SRE isn't just better dashboards; it's autonomous, agentic infrastructure. I’m hosting it live on Render/Vercel. Try hitting the "Hard Kill" button on GCP and watch the AI react in real time. Would love brutal feedback from any actual SREs or DevOps engineers here. What edge case would break this in a real datacenter?
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1775535210.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
                                 
                             </div>
                         </div>
@@ -1019,7 +1034,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-04-07T13:23:41.400276+00:00">Updated 2026-04-07T13:23:41.400276+00:00</small>
+        <small data-timestamp="2026-04-07T14:52:45.821136+00:00">Updated 2026-04-07T14:52:45.821136+00:00</small>
     </div>
 </div>
 
@@ -1205,47 +1220,6 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="news-carousel-ai">
                 
-                <div class="carousel-card" onclick="window.open('https://www.theguardian.com/technology/2026/apr/07/meta-scale-ai-social-media-technology', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://i.guim.co.uk/img/media/6a0de58951f90a4849c44f56c26057b1dc349ddb/520_0_5200_4160/master/5200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ca0ad03ec43153256e803b00ff6e88aa');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.theguardian.com/technology/2026/apr/07/meta-scale-ai-social-media-technology" target="_blank" onclick="event.stopPropagation();">Porn, dog poo and social media snaps: the ‘taskers’ scraping the internet for Meta-owned AI firm</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Scale AI gig workers describe desperation of using people’s personal profiles and copyrighted work to train AI
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Guardian" class="news-favicon">
-                                    <a href="https://www.theguardian.com" target="_blank" onclick="event.stopPropagation();">The Guardian</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1775563260.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.bbc.com/news/articles/c145enxln0go', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://ichef.bbci.co.uk/news/1024/branded_news/f108/live/c25cbac0-2ea3-11f1-b297-95b0a0a8331e.png');"></div>
@@ -1280,125 +1254,6 @@
                                 
                                 <div class="news-meta-item">
                                     <span data-timestamp="1775538792.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://hbr.org/2026/04/decision-making-by-consensus-doesnt-work-in-the-ai-era', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://hbr.org/resources/images/article_assets/2026/04/Apr26_07_680980236.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://hbr.org/2026/04/decision-making-by-consensus-doesnt-work-in-the-ai-era" target="_blank" onclick="event.stopPropagation();">Decision-Making by Consensus Doesn’t Work in the AI Era</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            While most leaders probably agree that their organizations will need to adapt to AI, too few are willing to admit that this will require them to abandon one of the most pervasive management principles of the past half-century: decision-making by consensus. Consensus is the hallmark of modern organizations, but there are two important weaknesses to this approach in the AI era: 1) it’s slow and 2) it distorts information. Looking ahead, success will depend on organizational agility: the speed at which companies identify signals, make decisions, and execute. Legacy companies need to leave consensus behind and reorganize themselves around new decision-making structures and methods that are suited for the AI era. There are two structural changes that boards and CEOs can implement immediately: 1) the autonomous scrum, empowering smaller groups to make meaningful decisions, and 2) the OVIS framework, in which one person O wns the decision, two or three people V eto or I nfluence it, and everyone else S upports the outcome.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://hbr.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Harvard Business Review" class="news-favicon">
-                                    <a href="https://hbr.org" target="_blank" onclick="event.stopPropagation();">Harvard Business Review</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1775565916.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://techcrunch.com/2026/04/07/adobe-launches-acrobat-spaces-a-free-ai-powered-study-tool-for-students/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2162453288.jpg?resize=1200,800');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://techcrunch.com/2026/04/07/adobe-launches-acrobat-spaces-a-free-ai-powered-study-tool-for-students/" target="_blank" onclick="event.stopPropagation();">Adobe launches Acrobat Spaces, a free AI-powered study tool for students</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Adobe Acrobat Spaces is a free tool for students to use AI and create different kind of study material from documents
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://techcrunch.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="TechCrunch" class="news-favicon">
-                                    <a href="https://techcrunch.com" target="_blank" onclick="event.stopPropagation();">TechCrunch</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1775566800.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://thehill.com/opinion/technology/5818156-ai-regional-adoption-trends/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://thehill.com/opinion/technology/5818156-ai-regional-adoption-trends/" target="_blank" onclick="event.stopPropagation();">Today’s AI-ready offices are tomorrow’s tech success stories</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://thehill.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="thehill.com" class="news-favicon">
-                                    <a href="https://thehill.com" target="_blank" onclick="event.stopPropagation();">thehill.com</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1775566800.0"></span>
                                 </div>
                                 
                             </div>
@@ -1447,6 +1302,125 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.theguardian.com/technology/2026/apr/07/toronto-rosedale-row-virtual-gated-community-ai-surveillance-flock', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://i.guim.co.uk/img/media/a7eb58e82cea42c2b6c2253ca1ead9ee4c9e83d7/1562_0_3872_3098/master/3872.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1cb054018dfec676f3e165c73ce1d480');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.theguardian.com/technology/2026/apr/07/toronto-rosedale-row-virtual-gated-community-ai-surveillance-flock" target="_blank" onclick="event.stopPropagation();">Row over ‘virtual gated community’ AI surveillance plan in Toronto neighbourhood</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Rosedale residents considering car licence plate-scanning Flock system in bid to tackle property crime
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Guardian" class="news-favicon">
+                                    <a href="https://www.theguardian.com" target="_blank" onclick="event.stopPropagation();">The Guardian</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1775570940.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.barrons.com/articles/arm-holdings-stock-morgan-stanley-downgrade-ai-dcb9d888?gaa_at=eafs&gaa_n=AWEtsqf_a-wW9gr3HsD8DCvk777mO5tG0lMeQZDB_j4zRISCpkILk-6UzM0D&gaa_ts=69d51dc0&gaa_sig=HamKFanXbTEtwOtsyxEobEqW0hck4srDiEtoZeVgKl85QsS76YCm9KBrpa1uJWFBH6YTBlhu9ARd6DFq-6hBhQ%3D%3D', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.barrons.com/articles/arm-holdings-stock-morgan-stanley-downgrade-ai-dcb9d888?gaa_at=eafs&gaa_n=AWEtsqf_a-wW9gr3HsD8DCvk777mO5tG0lMeQZDB_j4zRISCpkILk-6UzM0D&gaa_ts=69d51dc0&gaa_sig=HamKFanXbTEtwOtsyxEobEqW0hck4srDiEtoZeVgKl85QsS76YCm9KBrpa1uJWFBH6YTBlhu9ARd6DFq-6hBhQ%3D%3D" target="_blank" onclick="event.stopPropagation();">Arm Holdings Stock Tumbles. Why Morgan Stanley Downgraded the AI Chip Play.</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.barrons.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Barron's" class="news-favicon">
+                                    <a href="https://www.barrons.com" target="_blank" onclick="event.stopPropagation();">Barron's</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1775573160.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://spectrum.ieee.org/decentralized-ai-training-2676670858', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://spectrum.ieee.org/media-library/image.jpg?id=65477797&width=1200&height=600&coordinates=0%2C212%2C0%2C413');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://spectrum.ieee.org/decentralized-ai-training-2676670858" target="_blank" onclick="event.stopPropagation();">Decentralized Training Can Help Solve AI’s Energy Woes</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Pooling processing power wherever it resides promises more energy-efficient model training
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://spectrum.ieee.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="IEEE Spectrum" class="news-favicon">
+                                    <a href="https://spectrum.ieee.org" target="_blank" onclick="event.stopPropagation();">IEEE Spectrum</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1775570983.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/04/06/technology/ai-code-overload.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
@@ -1476,7 +1450,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1775488561.0"></span>
+                                    <span data-timestamp="1775492851.0"></span>
                                 </div>
                                 
                             </div>
@@ -1525,47 +1499,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.washingtonpost.com/opinions/2026/04/07/ai-competition-china-export-controls/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/RQNM3N7CU5EKHDEQSZWMZOXMNI.jpg&w=1440');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.washingtonpost.com/opinions/2026/04/07/ai-competition-china-export-controls/" target="_blank" onclick="event.stopPropagation();">Opinion | The U.S. needs to go on AI offense</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Containing China’s rise is barely half a strategy.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.washingtonpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Washington Post" class="news-favicon">
-                                    <a href="https://www.washingtonpost.com" target="_blank" onclick="event.stopPropagation();">The Washington Post</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1775565119.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.anthropic.com/news/google-broadcom-partnership-compute', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://www.anthropic.com/api/opengraph-illustration?name=Object%20Growth&backgroundColor=fig');"></div>
@@ -1607,6 +1540,88 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/04/06/broadcom-agrees-to-expanded-chip-deals-with-google-anthropic.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108272992-1772565871862-gettyimages-1243214774-tang-notitle220913_npgjE.jpeg?v=1775511380&w=1920&h=1080');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.cnbc.com/2026/04/06/broadcom-agrees-to-expanded-chip-deals-with-google-anthropic.html" target="_blank" onclick="event.stopPropagation();">Broadcom agrees to expanded chip deals with Google, Anthropic</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Broadcom said it agreed to produce future versions of Google artificial intelligence chips, and announced an expanded deal with Anthropic.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="CNBC" class="news-favicon">
+                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1775511688.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?resize=1200,800');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/" target="_blank" onclick="event.stopPropagation();">Google quietly launched an AI dictation app that works offline</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://techcrunch.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="TechCrunch" class="news-favicon">
+                                    <a href="https://techcrunch.com" target="_blank" onclick="event.stopPropagation();">TechCrunch</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1775501673.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 255, 255, 0.05);"
@@ -1627,7 +1642,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-04-07T13:24:04.468531+00:00">Updated 2026-04-07T13:24:04.468531+00:00</small>
+        <small data-timestamp="2026-04-07T14:53:06.391132+00:00">Updated 2026-04-07T14:53:06.391132+00:00</small>
     </div>
 </div>
 
@@ -1855,10 +1870,10 @@ I’ll do this while contextualizing the project and my background so you can in
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 936</span>
+                                    <span class="post-points">▲ 938</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 293</span>
+                                    <span style="color: #9ca3af;">💬 297</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1904,7 +1919,7 @@ I’ll do this while contextualizing the project and my background so you can in
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 276</span>
+                                    <span class="post-points">▲ 277</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 35</span>
@@ -1953,10 +1968,10 @@ I’ll do this while contextualizing the project and my background so you can in
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 219</span>
+                                    <span class="post-points">▲ 225</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 340</span>
+                                    <span style="color: #9ca3af;">💬 349</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2055,7 +2070,7 @@ deployment pattern...
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 152</span>
+                                    <span class="post-points">▲ 153</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 21</span>
@@ -2083,6 +2098,55 @@ deployment pattern...
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=47673541', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="post-thumbnail" style="background-image: url('https://dornsife.usc.edu/news/wp-content/uploads/sites/7/2026/03/llm-homogenous-thought-top.jpg');"></div>
+
+                    <div class="post-content">
+                        <!-- Post title (fixed 3-line height) -->
+                        <div class="post-title">
+                            <a href="https://news.ycombinator.com/item?id=47673541" target="_blank" onclick="event.stopPropagation();">AI may be making us think and write more alike</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Large language models may be standardizing human expression and subtly influencing how we think, says study led by USC Dornsife researcher
+                        </div>
+                        
+
+                        <!-- Metadata (points, comments, time) -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-points">▲ 133</span>
+                                </div>
+                                <div class="post-meta-item">
+                                    <span style="color: #9ca3af;">💬 130</span>
+                                </div>
+                            </div>
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-age" data-timestamp="2026-04-07T11:29:02Z"></span>
+                                </div>
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://dornsife.usc.edu/news/wp-content/uploads/sites/7/2023/06/cropped-Favicon_Monogram_Gold-Black-180x180.png" alt="" class="post-favicon">
+                                            
+                                        
+                                        <span>USC Dornsife News</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=47653471', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="post-thumbnail" ></div>
@@ -2100,7 +2164,7 @@ deployment pattern...
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 120</span>
+                                    <span class="post-points">▲ 121</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 19</span>
@@ -2149,10 +2213,10 @@ deployment pattern...
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 112</span>
+                                    <span class="post-points">▲ 114</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 23</span>
+                                    <span style="color: #9ca3af;">💬 24</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2222,63 +2286,14 @@ deployment pattern...
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=47673541', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" style="background-image: url('https://dornsife.usc.edu/news/wp-content/uploads/sites/7/2026/03/llm-homogenous-thought-top.jpg');"></div>
-
-                    <div class="post-content">
-                        <!-- Post title (fixed 3-line height) -->
-                        <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=47673541" target="_blank" onclick="event.stopPropagation();">AI may be making us think and write more alike</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Large language models may be standardizing human expression and subtly influencing how we think, says study led by USC Dornsife researcher
-                        </div>
-                        
-
-                        <!-- Metadata (points, comments, time) -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-points">▲ 88</span>
-                                </div>
-                                <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 70</span>
-                                </div>
-                            </div>
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-04-07T11:29:02Z"></span>
-                                </div>
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://dornsife.usc.edu/news/wp-content/uploads/sites/7/2023/06/cropped-Favicon_Monogram_Gold-Black-180x180.png" alt="" class="post-favicon">
-                                            
-                                        
-                                        <span>USC Dornsife News</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=47645976', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=47667798', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="post-thumbnail" ></div>
 
                     <div class="post-content">
                         <!-- Post title (fixed 3-line height) -->
                         <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=47645976" target="_blank" onclick="event.stopPropagation();">AI that copied musical artist files copyright claim against artist [updated]</a>
+                            <a href="https://news.ycombinator.com/item?id=47667798" target="_blank" onclick="event.stopPropagation();">Bernie Sanders: "AI Is a Threat to Everything the American People Hold Dear"</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -2288,26 +2303,29 @@ deployment pattern...
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 64</span>
+                                    <span class="post-points">▲ 67</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 17</span>
+                                    <span style="color: #9ca3af;">💬 57</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-04-05T03:55:10Z"></span>
+                                    <span class="post-age" data-timestamp="2026-04-06T21:57:54Z"></span>
                                 </div>
                                 <!-- External article source (on same line as time) -->
                                 
                                 <div class="post-meta-item post-source">
-                                    <a href="https://twitter.com/VladTheInflator/status/2039577001531768906" target="_blank" onclick="event.stopPropagation();">
+                                    <a href="https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459" target="_blank" onclick="event.stopPropagation();">
                                         
                                             
-                                            <img src="https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png" alt="" class="post-favicon">
+                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0;">
+                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
+                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
+                                            </svg>
                                             
                                         
-                                        <span>X (formerly Twitter)</span>
+                                        <span>wsj.com</span>
                                     </a>
                                 </div>
                                 
@@ -2336,7 +2354,7 @@ deployment pattern...
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-04-07T13:23:40.954298+00:00">Updated 2026-04-07T13:23:40.954298+00:00</small>
+        <small data-timestamp="2026-04-07T14:52:50.066375+00:00">Updated 2026-04-07T14:52:50.066375+00:00</small>
     </div>
 </div>
 

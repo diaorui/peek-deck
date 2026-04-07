@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-07T13:24:10.861763+00:00'
+updated: '2026-04-07T14:53:13.084756+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 07, 2026 at 13:24 UTC  
+**Last Updated:** April 07, 2026 at 14:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 From NVIDIA Robotics on 𝕏: https://x.com/NVIDIARobotics/status/2041349314262495265 NVIDIA blog: https://blogs.nvidia.com/blog/national-robotics-week-2026/#maximo
 
-3h ago
+4h ago
 
 ---
 
 **[Tesollo DG-5F-S lightweight robotic hand built for humanoid integration](https://www.reddit.com/r/robotics/comments/1se4j5s/tesollo_dg5fs_lightweight_robotic_hand_built_for/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -50,7 +50,7 @@ From NVIDIA Robotics on 𝕏: https://x.com/NVIDIARobotics/status/20413493142624
 
 I need help in placing the components on the robot for the best way to balance it. Also I plan to scale to to something like a delivery robot for small payloads. Prolly, something in my room 😅 but I need help in understanding how these balancing robots work and how I should place my components to make this work.
 
-15h ago
+17h ago
 
 ---
 
@@ -58,7 +58,7 @@ I need help in placing the components on the robot for the best way to balance i
 
 I am working on building a humanoid that can cater to and help elderly people and dementia patients . From being a companion to helping them with daily chores I think this could really change their lives and would be cost effective as well. Are there any angels or incubators that provide fund for robotics or humanoid or any grants that I can apply for. Even something like seed round of $500k would work too. Also anyone else building in this space , I am looking for a cofounder as well who is also interested in working on this space.
 
-3h ago
+5h ago
 
 ---
 
@@ -66,7 +66,7 @@ I am working on building a humanoid that can cater to and help elderly people an
 
 Very first proof of concept. This is going to be fun. It's still a bit slow to progress, I need to optimize a few things. But it gets the idea. Llm writes a few lines of javascript to create the motion and executes it.
 
-23h ago
+1d ago
 
 ---
 
@@ -74,7 +74,7 @@ Very first proof of concept. This is going to be fun. It's still a bit slow to p
 
 Built this browser-based robot simulation environment and recorded this short demo. Everything runs directly in the browser — no installation or setup required. Would really appreciate honest feedback: Does this feel useful? What would you expect from a tool like this? Anything confusing or missing? https://reddit.com/link/1seu8q1/video/3yf5s7eifrtg1/player
 
-1h ago
+2h ago
 
 ---
 
@@ -82,7 +82,7 @@ Built this browser-based robot simulation environment and recorded this short de
 
 Hello! I would like to ask for help on what arduino powered project we can do for our Robotics and Research subject that aligns with any Sustainable Development Goals. We initially planned to create a braille learning device for the visually impaired. However, our robotics adviser did not approve of our idea. Are there any projects we can do?
 
-5h ago
+6h ago
 
 ---
 
@@ -90,7 +90,7 @@ Hello! I would like to ask for help on what arduino powered project we can do fo
 
 pretty cool. want to test how much weight it can handle. This was inspired by colinfurze, he is an engineering YouTuber. My design is slightly different when compared to his. my bed tilts the other way, and i am using a lot smaller cylinders. anyways; i hope u guys watch when i release the full version. -Thanks
 
-🔗 [youtube.com](https://www.youtube.com/shorts/zKG5-5-94J4) • 2h ago
+🔗 [youtube.com](https://www.youtube.com/shorts/zKG5-5-94J4) • 4h ago
 
 ---
 
@@ -98,15 +98,13 @@ pretty cool. want to test how much weight it can handle. This was inspired by co
 
 Most robotics coverage nowadays is focusing on industrial automation or consumer novelty, but this also caught my attention: Singapore's Gardens by the Bay is rolling out a free-to-rent robotic guide dog (built by the Singapore-based firm RoamAssist) for visually impaired visitors in its Flower Dome from Q3 2026. The robot and system are pre-programmed with a full tour route, provide real-time audio guidance on plant exhibits, and are designed for independent navigation with no human escort. They're pairing it with an online sensory map for autistic visitors launching in June. It's not "Boston Dynamics" level of attention but it's a interesting attempt at real-world deployment of "assistant" robotics in a public space. Curious what people here think Article - https://www.straitstimes.com/singapore/gardens-by-the-bay-to-offer-robot-guide-dog-online-sensory-map-for-visitors-with-disabilities
 
-22h ago
+1d ago
 
 ---
 
-**[Building a Robodog. One leg working well!](https://www.reddit.com/r/robotics/comments/1se0k8i/building_a_robodog_one_leg_working_well/)**
+**[Rodney Brooks: We won't see AGI for 300 years](https://www.reddit.com/r/robotics/comments/1se6glu/rodney_brooks_we_wont_see_agi_for_300_years/)**
 
-I've been working on a robot dog and wanted to show off my progress. I have a single leg working pretty well now. 3 legs to go! Made with: Motor: Eaglepower 8308 Gearbox: 15:1 Cycloidal that I designed and 3d printed Microcontroller: Teensy 4.1 + CAN bus Motor Controllers: ODrive 3.6 Clone boards from Aliexpress Battery: Ryobi 40v Everything else: bearings, bolts, and printed parts from a Bambu P1S This is a labor of love. My regular day job is a software developer/manager. Mostly focused on learning fast and keeping costs down. I'm having so much fun learning and building this stuff
-
-22h ago
+20h ago
 
 ---
 
@@ -118,41 +116,7 @@ I've been working on a robot dog and wanted to show off my progress. I have a si
 
 New model can respond to disruptions and figure out moves it wasn't trained for.
 
-Ars Technica • 15h ago
-
----
-
-**[A Chinese robotics startup with a Tesla Optimus rival is seeking a new chief scientist with an $18 million salary](https://www.businessinsider.com/chinese-robotics-startup-tesla-rival-18-million-salary-chief-scientist-2026-4)**
-
-The race for AI and robotics talent is heating up and getting expensive.
-
-Business Insider • 1d ago
-
----
-
-**[Fieldwork Robotics enters scale-up phase with £3 million funding](https://hortnews.com/fieldwork-robotics-enters-scale-up-phase-with-3-million-funding/)**
-
-Fieldwork Robotics Ltd., (“Fieldwork”), developers of selective, adaptive and modular harvesting robots, is pleased to announce that it has received £3 million in funding, including a £2.2 million investment round led by Elbow Beach. The investment will enable Fieldwork to accelerate farm adoption of its autonomous harvesting technology and transition from the technology validation stage […]
-
-Hort News • 1h ago
-
----
-
-**[Optimus time: Tesla makes big move in Fremont for global robotics hub](https://www.bizjournals.com/sanfrancisco/news/2026/04/06/tesla-fremont-optimus-robotics-factory.html)**
-
-The Business Journals • 16h ago
-
----
-
-**[Cerebras Backer Eclipse Raises $1.3 Billion for Robotics, AI Infrastructure](https://www.bloomberg.com/news/articles/2026-04-07/cerebras-backer-eclipse-raises-1-3-billion-for-robotics-ai-infrastructure)**
-
-Bloomberg.com • 2h ago
-
----
-
-**[Too many cooks, or too many robots? Finding a Goldilocks level of randomness to keep robot swarms moving](https://techxplore.com/news/2026-04-cooks-robots-goldilocks-randomness-robot.html)**
-
-Tech Xplore • 17h ago
+arstechnica.com • 16h ago
 
 ---
 
@@ -160,7 +124,7 @@ Tech Xplore • 17h ago
 
 Funding data and leasing activity show that companies using the groundbreaking tech on the physical world are having their moment.
 
-sfstandard.com • 1d ago
+The San Francisco Standard • 1d ago
 
 ---
 
@@ -170,11 +134,45 @@ Adafruit • 1d ago
 
 ---
 
+**[Optimus time: Tesla makes big move in Fremont for global robotics hub](https://www.bizjournals.com/sanfrancisco/news/2026/04/06/tesla-fremont-optimus-robotics-factory.html)**
+
+The Business Journals • 17h ago
+
+---
+
+**[Wakefield senior mentors two Arlington robotics teams to world championship](https://www.arlnow.com/2026/04/07/wakefield-senior-mentors-two-arlington-robotics-teams-to-world-championship/)**
+
+A Wakefield High School senior is heading to the VEX Robotics World Championship for the second year in a row — and this time, he's bringing an elementary school team with him. Greyson Schroeher has spent the school year mentoring two Arlington robotics teams that both qualified for the World Championship in St. Louis later
+
+ARLnow • 1h ago
+
+---
+
+**[Robotics team puts skills on display](https://www.tribtoday.com/news/local-news/2026/04/robotics-team-puts-skills-on-display/)**
+
+NILES — While the Easter Bunny was nearby greeting young children, local high school students gathered this weekend inside the ...
+
+tribtoday.com • 1d ago
+
+---
+
+**[Too many cooks, or too many robots? Finding a Goldilocks level of randomness to keep robot swarms moving](https://techxplore.com/news/2026-04-cooks-robots-goldilocks-randomness-robot.html)**
+
+Tech Xplore • 18h ago
+
+---
+
+**[Cerebras Backer Eclipse Raises $1.3 Billion for Robotics, AI Infrastructure](https://www.bloomberg.com/news/articles/2026-04-07/cerebras-backer-eclipse-raises-1-3-billion-for-robotics-ai-infrastructure)**
+
+Bloomberg.com • 3h ago
+
+---
+
 **[Neurobots: Living robots now have brains that guide how they move](https://interestingengineering.com/ai-robotics/neurobots-living-robots-with-nervous-system)**
 
 Scientists build living robots with functional nervous systems, giving biological machines internal control.
 
-Interesting Engineering • 11h ago
+interestingengineering.com • 12h ago
 
 ---
 
@@ -182,7 +180,7 @@ Interesting Engineering • 11h ago
 
 They don't blink, don't take breaks, and can hear trouble before humans do. But when the night watch has four legs and cameras, who is safer and who is more exposed?
 
-3DVF • 22h ago
+3DVF • 23h ago
 
 ---
 
@@ -206,7 +204,7 @@ Funny Mistakes In Robot Movie #youtubeshorts #shorts #bollywood #robot.
 
 📺 Kashtman Expo
 
-👁️ 690 • ⏱️ 0:34 • 2h ago
+👁️ 690 • ⏱️ 0:34 • 3h ago
 
 ---
 
@@ -214,7 +212,7 @@ Funny Mistakes In Robot Movie #youtubeshorts #shorts #bollywood #robot.
 
 📺 Robot Julie 
 
-👁️ 16K • 👍 81 • 💬 1 • ⏱️ 0:23 • 12h ago
+👁️ 16K • 👍 81 • 💬 1 • ⏱️ 0:23 • 14h ago
 
 ---
 
@@ -234,7 +232,7 @@ Are you tired of cutting your grass? Do robotic mowers really work? This video i
 
 📺 Nater Tater
 
-👁️ 4K • 👍 94 • 💬 40 • ⏱️ 15:30 • 16h ago
+👁️ 4K • 👍 94 • 💬 40 • ⏱️ 15:30 • 18h ago
 
 ---
 

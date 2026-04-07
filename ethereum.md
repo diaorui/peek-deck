@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-07T13:24:10.858430+00:00'
+updated: '2026-04-07T14:53:13.081387+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
+- news
 - cryptocurrency
 - social
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 07, 2026 at 13:24 UTC  
+**Last Updated:** April 07, 2026 at 14:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,089.01
+### $2,073.13
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.3%  
-**7d:** -2.5%  
-**30d:** +4.6%  
-**90d:** -33.0%  
-**1y:** +41.6%  
+**24h:** -3.9%  
+**7d:** -2.8%  
+**30d:** +4.2%  
+**90d:** -33.2%  
+**1y:** +41.2%  
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
+
+---
+
+**[Anyone still using rocket pool?](https://www.reddit.com/r/ethereum/comments/1sexpyq/anyone_still_using_rocket_pool/)**
+
+I’ve had my eth staked for about 2 years now, net negative on the eth itself but I’ve gained what would be ≈4 percent more worth of ETH than I had before. To me it was the easiest way to stake given that I don’t have 32 eth. I appreciate the protocol for being a decentralized way to stake, heard there’s some liquidity issues in terms of getting your Eth back after staking but that’s a problem for the future. Anyone have any input on rocket pool?!
+
+19m ago
 
 ---
 
@@ -80,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 A simple question for the community. I was recently asked for me public key (to my metamask wallet) I know that Bitcoin public keys should still be treated with some care as they disclose all transactions to that address in any blockchain explorer Is this the same with Ethereum?
 
-17h ago
+18h ago
 
 ---
 
@@ -102,7 +110,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi, I used to work as a technical full-stack developer and recently I spent some time investigating this thing everyone's talking about "Quantum computing destroying encryption". Well, there are many remedies already available: Example 1 - for not technical people: https://www.nist.gov/news-events/news/2024/08/nist-releases-first-3-finalized-post-quantum-encryption-standards Example 2 - for technical people: https://github.com/open-quantum-safe/oqs-provider Most companies / IT projects are not prioritising it only because quantum computing threads might be decades away, and businesses don't execute investments on security unless there is a true threat. That's why your email providers, messaging apps, etc. don't have post-quantum standards implemented (such as: ml-dsa, ml-kem, slh-dsa). Yes. It is more complicated to secure decentralized Crypto than a website, but - anyway most of us use platforms like CoinBase, Kraken, Binance, .. and those holding crypto in one-single physical wallet - are not really the targets here. Anyhow, please, I hope my post helps some of you to be a bit calmer about this topic. I am definitely calmer after my research. Let's not cause panic sell-off. Have a great day everyone!
 
-19h ago
+21h ago
 
 ---
 
@@ -126,7 +134,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey all! Since my earlier post I've been rebuilding from the ground up, and your feedback helped shape everything. ETour V2 is simpler, faster, and more flexible: 1) You can now configure your own lobbies with anywhwere between 2 and 32 players. And you can choose the entry fee per-player, from $0.20 up to 1 ETH. 2) Moves happen in sub-1s (down from ~10s). 3) The fee structure is cleaner too: 95% straight to the winner, and 5% is my cut. No confusing raffle mechanics. And the winner gets more, winner's cut in V1 was only 90% of the pot, now it's 95%! 4) I also put together two docs: a focused whitepaper that explains the why, and a thorough user manual that answers every how question. Further, and very importantly, V2 positions ETour as the perfect platform to play games on-chain over ETH stakes with no middlemen with your friends, crew, or community, rather than a place for random online matchmaking. Which is more honest about what ETour is good at. Happy to answer your questions! Misc: https://etour.games https://etour.games/whitepaper https://etour.games/manual All contracts are verified and available in the footer
 
-1d ago
+2d ago
 
 ---
 
@@ -134,15 +142,7 @@ Hey all! Since my earlier post I've been rebuilding from the ground up, and your
 
 Hi all, I build a new kind of cli based solidity debugger you might find useful. During the few days easter break I finally could finish a long standing project I had in mind: a cli based solidity debugger and tracer. I used to use truffle-debug a lot, but the whole project got sunset (and was painfully slow anyways, but thats a different story). Foundry as a successor always made sense to me. Its fast, its git based, its a workhorse, never let me down so far. But I always missed a properly formatted easy to use tracer and debugger like we know it from tenderly, but cli based, with local, text based outputs. I wanted something a human and an LLM can use. So I built soldebug. You give it a transaction hash and it gives you a decoded stack trace: $ soldebug 0xe1c962... --rpc-url https://sepolia.infura.io/v3/... --project-dir ./myproject Transaction 0xe1c962...b53fb6 REVERTED (gas: 29.8K) Call Stack: TestToken.mint(arg0=0xdEadDEAD..., arg1=9e23) <- REVERT REVERT: MaxSupplyExceeded(9e23, 5e23) It replays the transaction locally using revm (same as Foundry), matches contracts from your local Foundry project, resolves proxy implementations (UUPS, transparent proxies), and can fetch external contract ABIs from Etherscan/Sourcify. All in Rust, same style as Foundry itself. It's a first version, really early, but maybe useful for other Ethereum devs. If you find it useful (or not), let me know, or generally, any feedback very welcome.
 
-🔗 [GitHub](https://github.com/tomw1808/soldebug) • 1d ago
-
----
-
-**[Russia Couldn’t Ban Bitcoin. So Now It’s Making 20 Million Users Register Their Wallets Instead](https://www.reddit.com/r/ethereum/comments/1scm6rd/russia_couldnt_ban_bitcoin_so_now_its_making_20/)**
-
-Russia submitted a bill requiring residents to report all foreign crypto wallet activity to tax authorities from July 2026. Twenty million users. No exemptions. This is what state capture of crypto looks like.
-
-🔗 [DailyCoinPost](https://dailycoinpost.com/russia-bitcoin-ban-failed-wallet-registration-2026/) • 2d ago
+🔗 [GitHub](https://github.com/tomw1808/soldebug) • 2d ago
 
 ---
 
@@ -158,11 +158,11 @@ PR Newswire • 1d ago
 
 ---
 
-**[Tom Lee’s BitMine Nears 4% of Ethereum Supply as ETH Price Hits Weekly High](https://finance.yahoo.com/markets/crypto/articles/tom-lee-bitmine-nears-4-142958858.html)**
+**[Bitmine Immersion Technologies (BMNR) Is Up 12.6% After NYSE Uplisting Approval And MAVAN Ethereum Staking Launch](https://finance.yahoo.com/markets/crypto/articles/bitmine-immersion-technologies-bmnr-12-220715537.html)**
 
-Publicly traded Ethereum treasury firm BitMine Immersion Technologies added $150 million of ETH last week, boosting its $10.3 billion stash.
+Bitmine Immersion Technologies, Inc. has launched MAVAN, an institutional-grade Ethereum staking platform built on U.S.-based and globally distributed infrastructure, while securing approval to uplist its shares to the New York Stock Exchange on April 9, 2026. With 4,803,334 ETH in its treasury, about 3.98% of Ethereum’s total supply, and more than US$11.40 billion in crypto and cash, Bitmine is positioning itself as a central player in institutional Ethereum staking through MAVAN. We’ll now...
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -170,15 +170,7 @@ Yahoo Finance • 22h ago
 
 With a 6.8% gain, and outperforming both the S&P 500 and gold, Ethereum remains a strong wartime store of value," said Lee.
 
-The Block • 23h ago
-
----
-
-**[Schwab Bitcoin Ethereum trading launches for 38M clients](https://crypto.news/schwab-bitcoin-ethereum-trading-launches/)**
-
-Schwab Bitcoin Ethereum trading launches Q2 2026, opening direct spot crypto access to 38.9 million brokerage accounts for the first time
-
-crypto.news • 14h ago
+The Block • 1d ago
 
 ---
 
@@ -190,11 +182,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Ethereum Ascending Channel Puts Price At $5,700, Analyst Reveals When To Sell](https://www.tradingview.com/news/newsbtc:da7611b2a094b:0-ethereum-ascending-channel-puts-price-at-5-700-analyst-reveals-when-to-sell/)**
+**[Bitcoin and ethereum price today, Tuesday, April 7, 2026: Prices trend down as traders await war deadline](https://finance.yahoo.com/news/bitcoin-and-ethereum-price-today-tuesday-april-7-2026-prices-trend-down-as-traders-await-war-deadline-113813294.html)**
 
-Over time, the Ethereum price has been trending sideways with no definitive move in either direction. This trend has led to the formation of an ascending channel that could change the course of things for the second-largest cryptocurrency by market cap. If this trend continues to play out, then it…
+Bitcoin and ethereum opened at $68,860.46 and $2,107.45, respectively, on Tuesday, both lower than the day before. Both cryptocurrencies also trended down Tuesday morning.
 
-TradingView • 1h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -202,13 +194,13 @@ TradingView • 1h ago
 
 Circle’s upcoming Arc blockchain is gearing up for quantum resilience, revealing a multi-step roadmap to prepare for the looming threat.
 
-Decrypt • 21h ago
+Decrypt • 23h ago
 
 ---
 
 **['Drop To $1,500'—Ethereum Suddenly Faces 60% Odds Of Losing Crown](https://www.forbes.com/sites/digital-assets/2026/04/06/drop-to-1500-ethereum-suddenly-faces-60-odds-of-losing-crown/)**
 
-Forbes • 10h ago
+forbes.com • 11h ago
 
 ---
 
@@ -216,7 +208,7 @@ Forbes • 10h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 23m ago
+Fortune • 1h ago
 
 ---
 
@@ -225,6 +217,14 @@ Fortune • 23m ago
 As investors search for "the next Ethereum," this top cryptocurrency is worth a closer look.
 
 The Motley Fool • 3d ago
+
+---
+
+**[ETH Up or Down - 5 Minutes](https://polymarket.com/event/eth-updown-5m-1775568300)**
+
+Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+
+Polymarket • 2d ago
 
 ---
 
@@ -238,7 +238,7 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 5K • 👍 300 • 💬 109 • ⏱️ 11:38 • 21h ago
+👁️ 5K • 👍 300 • 💬 109 • ⏱️ 11:38 • 22h ago
 
 ---
 
@@ -248,7 +248,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 113 • 👍 7 • 💬 1 • ⏱️ 4:29 • 4h ago
+👁️ 113 • 👍 7 • 💬 1 • ⏱️ 4:29 • 5h ago
 
 ---
 
@@ -278,7 +278,7 @@ BITCOIN JUST REVEALED THE NEXT MOVE (Get Ready)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 6K • 👍 239 • 💬 735 • ⏱️ 19:08 • 13h ago
+👁️ 6K • 👍 239 • 💬 735 • ⏱️ 19:08 • 15h ago
 
 ---
 
@@ -298,7 +298,7 @@ join my social platforms for updates and analysis ✓Instagram: ...
 
 📺 Aryan trader Live
 
-👁️ 5K • 👍 2K • 💬 5 • ⏱️ 1:25:10 • 2h ago
+👁️ 5K • 👍 2K • 💬 5 • ⏱️ 1:25:10 • 4h ago
 
 ---
 
@@ -308,7 +308,7 @@ In this video, I take a closer look at the current Ethereum market structure and
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 194 • 💬 14 • ⏱️ 13:46 • 21h ago
+👁️ 3K • 👍 194 • 💬 14 • ⏱️ 13:46 • 22h ago
 
 ---
 
@@ -328,7 +328,7 @@ Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zu
 
 📺 Krypto Trading & Investing
 
-👁️ 3K • 👍 562 • 💬 27 • ⏱️ 14:27 • 9h ago
+👁️ 3K • 👍 562 • 💬 27 • ⏱️ 14:27 • 10h ago
 
 ---
 

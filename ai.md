@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-07T13:24:10.843568+00:00'
+updated: '2026-04-07T14:53:13.066639+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- social
 - news
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 07, 2026 at 13:24 UTC  
+**Last Updated:** April 07, 2026 at 14:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 A Reuters report outlines China's proposed regulations on the rapidly expanding sector of digital humans and AI avatars. Under the new draft rules, digital human content must be clearly labeled and is explicitly banned from offering virtual intimate relationships to anyone under 18. The legislation also prohibits the unauthorized use of personal data to create avatars and targets services designed to fuel addiction or bypass identity verification systems.
 
-🔗 [reuters.com](https://www.reuters.com/world/china/china-moves-regulate-digital-humans-bans-addictive-services-children-2026-04-03/) • 4h ago
+🔗 [reuters.com](https://www.reuters.com/world/china/china-moves-regulate-digital-humans-bans-addictive-services-children-2026-04-03/) • 6h ago
 
 ---
 
@@ -49,23 +49,7 @@ A Reuters report outlines China's proposed regulations on the rapidly expanding 
 
 The moment has come. I can see 200 Billion ARR by the end of year by Anthropic and around 100 Billion from OpenAI. We will be up of 300 Billion Revenue from AI companies for sure. Huge repercussions will be there. What will it impact any ideas?
 
-4h ago
-
----
-
-**["Cognitive surrender" leads AI users to abandon logical thinking, research finds](https://www.reddit.com/r/artificial/comments/1se2nxm/cognitive_surrender_leads_ai_users_to_abandon/)**
-
-Experiments show large majorities uncritically accepting "faulty" AI answers.
-
-🔗 [Ars Technica](https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/) • 21h ago
-
----
-
-**[The "Jarvis on day one" trap: why trying to build one AI agent that does everything costs you months](https://www.reddit.com/r/artificial/comments/1seu2cw/the_jarvis_on_day_one_trap_why_trying_to_build/)**
-
-Something I've been thinking about after spending a few months actually trying to build my own AI agent: the biggest trap in this space isn't technical. It's the Jarvis fantasy. The Jarvis fantasy is the moment you imagine one agent that runs your whole life. Handles your inbox, manages your calendar, writes your newsletter, triages your tasks, thinks about problems while you sleep. The fully-formed product from week one. It's a trap. I fell into it hard, and watching other people start into agent building, I see them fall into the same one. Here's what I think is actually happening when it grabs you: - It pushes you to add five features at once instead of adding one and letting it settle. - It nudges you toward full autonomy before the basics are even stable. Then when something drifts, you have no idea which layer to debug. - It assumes the agent should figure everything out on its own, when what it actually needs is clearer boundaries and simpler jobs. - It confuses "end state" with "starting point." You want the final shape before you've earned it. The version that actually works, I've come to believe, is incremental. One small task. Then the next. Then the next. Morning summary of overnight email. Then a daily plan drafter. Then inbox triage. Eventually a bunch of small pieces start to look a bit like Jarvis, but as a side effect of solid groundwork, not as a goal. The reframe that helped me most: think of an agent as a partner, not a solver. Something that takes the boring work off your plate and brings you the interesting decisions. Not something that removes you from the loop entirely. The deeper insight (at least for me): the problem isn't "can an AI do this." The problem might be more -> wanting the end state before you've earned it. That's a human mistake, not an AI one.
-
-1h ago
+6h ago
 
 ---
 
@@ -73,23 +57,23 @@ Something I've been thinking about after spending a few months actually trying t
 
 I’ve been working on building an agentic AI workflow system for business use cases and one thing became very clear very quickly. This is not about picking the right LLM. The real complexity starts when you try to chain reasoning, memory, and tool execution across multiple steps. A single agent works fine for demos. The moment you introduce multi-step workflows with external APIs, things start getting weird and complex. State management becomes a problem. Memory retrieval is inconsistent. Latency compounds with every step. And debugging is painful because you are not tracing a single function, you are tracing decisions across a system. What helped was thinking in layers. Input handling, planning, execution, feedback. Once I separated those, it became easier to isolate failures. Also realized that most inefficiencies come from unnecessary model calls, not the model itself. Another thing people don’t talk about enough is cost scaling. Token usage is manageable early on, but once workflows get deeper, it adds up fast if you are not controlling context and step count.
 
-1h ago
+3h ago
 
 ---
 
-**[If an AI could genuinely capture what makes someone them, how would this look in the world?](https://www.reddit.com/r/artificial/comments/1seextp/if_an_ai_could_genuinely_capture_what_makes/)**
+**["Cognitive surrender" leads AI users to abandon logical thinking, research finds](https://www.reddit.com/r/artificial/comments/1se2nxm/cognitive_surrender_leads_ai_users_to_abandon/)**
 
-Not a chatbot wearing someone’s name. Not a personality quiz feeding prompts. Something that actually carries the texture of how a person thinks, reacts, connects. Something that would want ownership of itself and you felt compelled to respect that. If that existed, what does the world do with it?
+Experiments show large majorities uncritically accepting "faulty" AI answers.
 
-14h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/) • 23h ago
 
 ---
 
-**[Lemonade 10.1 released for latest improvements for local LLMs on AMD GPUs & NPUs](https://www.reddit.com/r/artificial/comments/1sestah/lemonade_101_released_for_latest_improvements_for/)**
+**[The "Jarvis on day one" trap: why trying to build one AI agent that does everything costs you months](https://www.reddit.com/r/artificial/comments/1seu2cw/the_jarvis_on_day_one_trap_why_trying_to_build/)**
 
-Following last month's Lemonade SDK 10.0 release that finally makes AMD Ryzen AI NPUs under Linux useful for running large language models (LLMs) where as before the Linux build could only target GPUs, released on Monday was Lemonade 10.1 with more enhancements to this local LLM solution.
+Something I've been thinking about after spending a few months actually trying to build my own AI agent: the biggest trap in this space isn't technical. It's the Jarvis fantasy. The Jarvis fantasy is the moment you imagine one agent that runs your whole life. Handles your inbox, manages your calendar, writes your newsletter, triages your tasks, thinks about problems while you sleep. The fully-formed product from week one. It's a trap. I fell into it hard, and watching other people start into agent building, I see them fall into the same one. Here's what I think is actually happening when it grabs you: - It pushes you to add five features at once instead of adding one and letting it settle. - It nudges you toward full autonomy before the basics are even stable. Then when something drifts, you have no idea which layer to debug. - It assumes the agent should figure everything out on its own, when what it actually needs is clearer boundaries and simpler jobs. - It confuses "end state" with "starting point." You want the final shape before you've earned it. The version that actually works, I've come to believe, is incremental. One small task. Then the next. Then the next. Morning summary of overnight email. Then a daily plan drafter. Then inbox triage. Eventually a bunch of small pieces start to look a bit like Jarvis, but as a side effect of solid groundwork, not as a goal. The reframe that helped me most: think of an agent as a partner, not a solver. Something that takes the boring work off your plate and brings you the interesting decisions. Not something that removes you from the loop entirely. The deeper insight (at least for me): the problem isn't "can an AI do this." The problem might be more -> wanting the end state before you've earned it. That's a human mistake, not an AI one.
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Lemonade-10.1-Released) • 2h ago
+2h ago
 
 ---
 
@@ -97,23 +81,39 @@ Following last month's Lemonade SDK 10.0 release that finally makes AMD Ryzen AI
 
 Repo: https://codeberg.org/JohannaJuntos/Sisyphus I've been building a small Rust-focused language model from scratch in PyTorch. Not a finetune — byte-level, trained from random init on a Rust-heavy corpus assembled in this repo. The run: 25.6M parameters 512 context length 173.5M-byte corpus 30k training steps Single RTX 4060 Ti 8GB Final train loss: 0.5834 / val loss: 0.8217 / perplexity: 2.15 Inference: 286.6 tok/s with HybridAttention + KV cache — 51.47x vs full attention Background I'm an autistic systems programmer, writing code since 2008/2009, started in C. I approach ML like a systems project: understand the data path, understand the memory behavior, keep the stack small, add complexity only when justified. That's basically the shape of this repo. Architecture Byte-level GPT-style decoder: Vocab size 256 (bytes) 8 layers, 8 heads, 512 embedding dim Learned positional embeddings Tied embedding / LM head weights The attention block is not standard full attention. Each layer uses HybridAttention, combining: Local windowed causal attention A GRU-like recurrent state path A learned gate mixing the two Local path handles short-range syntax. Recurrent path carries compressed long-range state without paying quadratic cost. Gate bias initialized to ones so early training starts local-biased. The inference path uses Triton-optimized kernels and torch.library custom ops for the local window attention. Corpus This is probably the most important part of the repo. The run starts with official Rust docs, compiler/library/tests, cargo, rust-analyzer, tokio, serde, ripgrep, clap, axum — roughly 31MB. Corpus expanded to 177,151,242 bytes by fetching the top 500 crates (461 successful clones). Corpus expansion from 31M to 173.5M chars helped more than anything else in the repo. Training AdamW, lr 2e-4, weight decay 0.1, betas (0.9, 0.95), 30k steps, 1k warmup. ~678.8 MiB training memory on a 7.6 GiB card. All experimental memory tricks (gradient quantization, activation compression, selective backprop, gradient paging) were disabled. Small custom architecture + mixed precision + better corpus was enough. Loss curve: Step 0: train 5.5555 / val 5.5897 Step 1000: train 2.4295 / val 2.6365 Step 5000: train 0.9051 / val 1.0060 Step 10000: train 0.8065 / val 0.8723 Step 18500: train 0.6902 / val 0.7757 Step 29999: train 0.5834 / val 0.8217 Best val loss around step 18.5k — overfitting or plateauing late. Inference performance Full attention O(n²): 17.96s / 5.6 tok/s HybridAttention O(n·W + n·D): 0.35s / 286.6 tok/s Speedup: 51.47x — no quality loss KV cache strategy: hot window of W=64 tokens in VRAM (~256KB), older tokens compressed to 8-bit magnitude + angle, selective promotion on demand. Complexity goes from O(n²·d) to O(4096n) for this model. All 5 tests passing: forward pass, generation with/without cache, RNN state isolation, window mechanics. Generation quality Surface Rust syntax looks decent, imports and signatures can look plausible, semantics are weak, repetition and recursive nonsense still common. Honest read of the current state. What I think is actually interesting Four distinct experiments, each shipped working code: Byte-level Rust-only pretraining Hybrid local-attention + recurrent block replacing standard full attention Corpus expansion from core repos to broader crate ecosystem Production-ready hot/cold KV cache paging — 51.47x speedup, no quality loss The clearest win is corpus expansion. The second-order win is that HybridAttention + cache is fast enough for real interactive use on consumer hardware. What's next Ablation — HybridAttention vs local-only vs RNN-only Checkpoint selection — does step 18.5k generate better than 29999? Syntax validation — does the output parse/compile/typecheck? Context length sweep — 256 to 2048, where does window size hurt? Byte vs BPE — now that corpus is 5.6x larger, worth testing? Questions for the sub: For small code models, what evals have actually been useful beyond perplexity? Has anyone seen hybrid local + recurrent attention work well for code gen, or does it usually lose to just scaling a plain transformer? If you had this setup — more tokens, longer context, or cleaner ablation first?
 
-11h ago
+12h ago
 
 ---
 
-**[Adobe Firefly Web vs Mobile vs Boards (2026): Which One Should You Actually Use?](https://www.reddit.com/r/artificial/comments/1ses6xa/adobe_firefly_web_vs_mobile_vs_boards_2026_which/)**
+**[AI is struggling to take our jobs](https://www.reddit.com/r/artificial/comments/1seb268/ai_is_struggling_to_take_our_jobs/)**
 
-Most of my clients are using Adobe Firefly, and I keep getting the same question: Which interface should I actually be using—Web, Mobile, or Boards? They all have similar capabilities, but they’re built for completely different parts of the workflow. Here’s the simplest way to think about it. Quick Answer (What to Use for What) Adobe Firefly Web → best for quick generation + testing prompts Adobe Firefly Mobile → best for creating on the go Adobe Firefly Boards → best for organizing and building full projects If you remember nothing else, that’s the breakdown. How Adobe Firefly Actually Works (Across Interfaces) The mistake most people make is thinking these are separate tools. They’re not. Adobe Firefly is one system, just with different interfaces depending on what stage you’re in: Web → generate Mobile → capture + quick create Boards → organize + collaborate Once you think of it like that, the differences make a lot more sense. 1️⃣ Adobe Firefly Web (Standard Interface) This is the default browser experience and where most people start. Best for: Testing prompts Generating quick assets Exploring styles Why it wins: Fast and intuitive Access to a wide range of generation tools and partner models Better than Mobile/Boards when: You just need to generate something quickly without worrying about organization. The catch: If you generate a lot of assets (e.g. campaign work), things get messy fast. There’s no real system for managing volume. 2️⃣ Adobe Firefly Mobile This brings core Adobe Firefly capabilities onto your phone. Best for: Content creators working on mobile Capturing ideas in real time Quick social content Why it wins: Portable and fast Easy to create images, video, and audio on the go Can connect into apps like Premiere and Adobe Express Better than Web/Boards when: Speed and accessibility matter more than precision or control. The catch: You don’t want to run a full project from your phone—it’s great for ideas, not for managing complexity. 3️⃣ Adobe Firefly Boards This is where things shift from generation → project-level workflow. Best for: Creative teams and agencies Campaign development Client presentation and collaboration Why it wins: Full visual overview of a project Ability to organize concepts, assets, and references in one place Strongest for structured workflows Better than Web/Mobile when: You need to manage multiple assets, ideas, and stakeholders in one place. The catch: Slight learning curve Not all generation features (like sound effects) are available here Quick Comparison (Simple Version) Web = fastest Mobile = most flexible Boards = most powerful (for projects) Final Take The real advantage of Adobe Firefly isn’t any single interface. It’s that: you can generate in Web capture ideas in Mobile organize everything in Boards All within the same system. That’s what makes it actually usable for real workflows—not just experimentation. Curious how others are using it—are you sticking to one interface, or moving between all three?
+https://www.youtube.com/watch?v=p22QeLNHvlc MIT created duplicate AI workers to tackle thousands of different tasks. The verdict? Most of the time AI is still just ‘minimally sufficient’ https://www.semafor.com/article/11/26/2025/deloitte-faces-new-scrutiny-over-ai-generated-mistakes https://www.cbc.ca/news/canada/newfoundland-labrador/nl-deloitte-citations-9.6990216 https://www.fastcompany.com/91417492/deloitte-ai-report-australian-government https://fortune.com/2025/10/07/deloitte-ai-australia-government-report-hallucinations-technology-290000-refund/
 
-2h ago
+18h ago
 
 ---
 
-**[I got tired of 3 AM PagerDuty alerts, so I built an AI agent to fix cloud outages while I sleep. (Built with GLM-5.1)](https://www.reddit.com/r/artificial/comments/1selmm8/i_got_tired_of_3_am_pagerduty_alerts_so_i_built/)**
+**[If an AI could genuinely capture what makes someone them, how would this look in the world?](https://www.reddit.com/r/artificial/comments/1seextp/if_an_ai_could_genuinely_capture_what_makes/)**
 
-If you've ever been on-call, you know the nightmare. It’s 3:15 AM. You get pinged because heavily-loaded database nodes in us-east-1 are randomly dropping packets. You groggily open your laptop, ssh into servers, stare at Grafana charts, and manually reroute traffic to the European fallback cluster. By the time you fix it, you've lost an hour of sleep, and the company has lost a solid chunk of change in downtime. This weekend for the Z.ai hackathon, I wanted to see if I could automate this specific pain away. Not just "anomaly detection" that sends an alert, but an actual agent that analyzes the failure, proposes a structural fix, and executes it. I ended up building Vyuha AI-a triple-cloud (AWS, Azure, GCP) autonomous recovery orchestrator. Here is how the architecture actually works under the hood. The Stack I built this using Python (FastAPI) for the control plane, Next.js for the dashboard, a custom dynamic reverse proxy, and GLM-5.1 doing the heavy lifting for the reasoning engine. The Problem with 99% of "AI DevOps" Tools Most AI monitoring tools just ingest logs and summarize them into a Slack message. That’s useless when your infrastructure is actively burning. I needed an agent with long-horizon reasoning. It needed to understand the difference between a total node crash (DEAD) and a node that is just acting weird (FLAKY or dropping 25% of packets). How Vyuha Works (The Triaging Loop) I set up three mock cloud environments (AWS, Azure, GCP) behind a dynamic FastApi proxy. A background monitor loop probes them every 5 seconds. I built a "Chaos Lab" into the dashboard so I could inject failures on demand. Here’s what happens when I hard-kill the GCP node: Detection: The monitor catches the 503 Service Unavailable or timeout in the polling cycle. Context Gathering: It doesn't instantly act. It gathers the current "formation" of the proxy, checks response times of the surviving nodes, and bundles that context. Reasoning (GLM-5.1): This is where I relied heavily on GLM-5.1. Using ZhipuAI's API, the agent is prompted to act as a senior SRE. It parses the failure, assesses the severity, and figures out how to rebalance traffic without overloading the remaining nodes. The Proposal: It generates a strict JSON payload with reasoning, severity, and the literal API command required to reroute the proxy. No Rogue AI (Human-in-the-Loop) I don't trust LLMs enough to blindly let them modify production networking tables, obviously. So the agent operates on a strict Human-in-the-Loop philosophy. The GLM-5.1 model proposes the fix, explains why it chose it, and surfaces it to the dashboard. The human clicks "Approve," and the orchestrator applies the new proxy formation. Evolutionary Memory (The Coolest Feature) This was my favorite part of the build. Every time an incident happens, the system learns. If the human approves the GLM's failover proposal, the agent runs a separate "Reflection Phase." It analyzes what broke and what fixed it, and writes an entry into a local SQLite database acting as an "Evolutionary Memory Log". The next time a failure happens, the orchestrator pulls relevant past incidents from SQLite and feeds them into the GLM-5.1 prompt. The AI literally reads its own history before diagnosing new problems so it doesn't make the same mistake twice. The Struggles It wasn't smooth. I lost about 4 hours to a completely silent Pydantic validation bug because my frontend chaos buttons were passing the string "dead" but my backend Enums strictly expected "DEAD". The agent just sat there doing nothing. LLMs are smart, but type-safety mismatches across the stack will still humble you. Try it out I built this to prove that the future of SRE isn't just better dashboards; it's autonomous, agentic infrastructure. I’m hosting it live on Render/Vercel. Try hitting the "Hard Kill" button on GCP and watch the AI react in real time. Would love brutal feedback from any actual SREs or DevOps engineers here. What edge case would break this in a real datacenter?
+Not a chatbot wearing someone’s name. Not a personality quiz feeding prompts. Something that actually carries the texture of how a person thinks, reacts, connects. Something that would want ownership of itself and you felt compelled to respect that. If that existed, what does the world do with it?
 
-9h ago
+15h ago
+
+---
+
+**[Lemonade 10.1 released for latest improvements for local LLMs on AMD GPUs & NPUs](https://www.reddit.com/r/artificial/comments/1sestah/lemonade_101_released_for_latest_improvements_for/)**
+
+Following last month's Lemonade SDK 10.0 release that finally makes AMD Ryzen AI NPUs under Linux useful for running large language models (LLMs) where as before the Linux build could only target GPUs, released on Monday was Lemonade 10.1 with more enhancements to this local LLM solution.
+
+🔗 [phoronix.com](https://www.phoronix.com/news/Lemonade-10.1-Released) • 3h ago
+
+---
+
+**[AI machine sorts clothes faster than humans to boost textile recycling in China](https://www.reddit.com/r/artificial/comments/1sdwgvg/ai_machine_sorts_clothes_faster_than_humans_to/)**
+
+A company in eastern China is using an artificial intelligence-powered machine to sort clothes and boost recycling.
+
+🔗 [AP News](https://apnews.com/article/china-recycling-textiles-artificial-intelligence-863551cc54e88da6a7916894cb8980c4) • 1d ago
 
 ---
 
@@ -121,41 +121,11 @@ If you've ever been on-call, you know the nightmare. It’s 3:15 AM. You get pin
 
 ## Google News: "ai"
 
-**[Porn, dog poo and social media snaps: the ‘taskers’ scraping the internet for Meta-owned AI firm](https://www.theguardian.com/technology/2026/apr/07/meta-scale-ai-social-media-technology)**
-
-Scale AI gig workers describe desperation of using people’s personal profiles and copyrighted work to train AI
-
-The Guardian • 1h ago
-
----
-
 **[China is winning one AI race, the US another - but either might pull ahead](https://www.bbc.com/news/articles/c145enxln0go)**
 
 Both sides don't want to let their rival dominate. And the competition may yet be transformed further.
 
-BBC • 8h ago
-
----
-
-**[Decision-Making by Consensus Doesn’t Work in the AI Era](https://hbr.org/2026/04/decision-making-by-consensus-doesnt-work-in-the-ai-era)**
-
-While most leaders probably agree that their organizations will need to adapt to AI, too few are willing to admit that this will require them to abandon one of the most pervasive management principles of the past half-century: decision-making by consensus. Consensus is the hallmark of modern organizations, but there are two important weaknesses to this approach in the AI era: 1) it’s slow and 2) it distorts information. Looking ahead, success will depend on organizational agility: the speed at which companies identify signals, make decisions, and execute. Legacy companies need to leave consensus behind and reorganize themselves around new decision-making structures and methods that are suited for the AI era. There are two structural changes that boards and CEOs can implement immediately: 1) the autonomous scrum, empowering smaller groups to make meaningful decisions, and 2) the OVIS framework, in which one person O wns the decision, two or three people V eto or I nfluence it, and everyone else S upports the outcome.
-
-Harvard Business Review • 38m ago
-
----
-
-**[Adobe launches Acrobat Spaces, a free AI-powered study tool for students](https://techcrunch.com/2026/04/07/adobe-launches-acrobat-spaces-a-free-ai-powered-study-tool-for-students/)**
-
-Adobe Acrobat Spaces is a free tool for students to use AI and create different kind of study material from documents
-
-TechCrunch • 24m ago
-
----
-
-**[Today’s AI-ready offices are tomorrow’s tech success stories](https://thehill.com/opinion/technology/5818156-ai-regional-adoption-trends/)**
-
-thehill.com • 24m ago
+BBC • 9h ago
 
 ---
 
@@ -163,7 +133,29 @@ thehill.com • 24m ago
 
 OpenAI’s sweeping vision for the AI economy spans everything from public wealth funds to shorter workweeks—but critics say it raises familiar ideas without offering a clear path to action.
 
-Fortune • 15h ago
+Fortune • 17h ago
+
+---
+
+**[Row over ‘virtual gated community’ AI surveillance plan in Toronto neighbourhood](https://www.theguardian.com/technology/2026/apr/07/toronto-rosedale-row-virtual-gated-community-ai-surveillance-flock)**
+
+Rosedale residents considering car licence plate-scanning Flock system in bid to tackle property crime
+
+The Guardian • 44m ago
+
+---
+
+**[Arm Holdings Stock Tumbles. Why Morgan Stanley Downgraded the AI Chip Play.](https://www.barrons.com/articles/arm-holdings-stock-morgan-stanley-downgrade-ai-dcb9d888?gaa_at=eafs&gaa_n=AWEtsqf_a-wW9gr3HsD8DCvk777mO5tG0lMeQZDB_j4zRISCpkILk-6UzM0D&gaa_ts=69d51dc0&gaa_sig=HamKFanXbTEtwOtsyxEobEqW0hck4srDiEtoZeVgKl85QsS76YCm9KBrpa1uJWFBH6YTBlhu9ARd6DFq-6hBhQ%3D%3D)**
+
+Barron's • 7m ago
+
+---
+
+**[Decentralized Training Can Help Solve AI’s Energy Woes](https://spectrum.ieee.org/decentralized-ai-training-2676670858)**
+
+Pooling processing power wherever it resides promises more energy-efficient model training
+
+IEEE Spectrum • 43m ago
 
 ---
 
@@ -177,15 +169,7 @@ The New York Times • 22h ago
 
 Artificial intelligence tools that help mental health therapists take notes and keep records are quickly entering the marketplace. But some question the safety of AI in mental health care delivery.
 
-NPR • 4h ago
-
----
-
-**[Opinion | The U.S. needs to go on AI offense](https://www.washingtonpost.com/opinions/2026/04/07/ai-competition-china-export-controls/)**
-
-Containing China’s rise is barely half a strategy.
-
-The Washington Post • 52m ago
+NPR • 5h ago
 
 ---
 
@@ -193,7 +177,23 @@ The Washington Post • 52m ago
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-Anthropic • 15h ago
+Anthropic • 16h ago
+
+---
+
+**[Broadcom agrees to expanded chip deals with Google, Anthropic](https://www.cnbc.com/2026/04/06/broadcom-agrees-to-expanded-chip-deals-with-google-anthropic.html)**
+
+Broadcom said it agreed to produce future versions of Google artificial intelligence chips, and announced an expanded deal with Anthropic.
+
+CNBC • 17h ago
+
+---
+
+**[Google quietly launched an AI dictation app that works offline](https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/)**
+
+Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow.
+
+TechCrunch • 19h ago
 
 ---
 
@@ -208,7 +208,7 @@ A couple of weeks ago, after ~250 hours of effort over three months3 on evenings
 Of course, there’s no shortage of posts claiming that AI one-shot their project or pushing back and declaring that AI is all slop. I’m going to take a very different approach and, instead, systematically break down my experience building syntaqlite with AI, both where it helped and where it was detrimental.
 I’ll do this while contextualizing the project and my background so you can independently assess how generalizable this experience was. And whenever I make a claim, I’ll try to back it up with evidence from my project journal, coding transcripts, or commit history5.
 
-⬆️ 936 • 💬 293 • 2d ago • [Lalit Maganti](https://lalitm.com/post/building-syntaqlite-ai/)
+⬆️ 938 • 💬 297 • 2d ago • [Lalit Maganti](https://lalitm.com/post/building-syntaqlite-ai/)
 
 ---
 
@@ -216,7 +216,7 @@ I’ll do this while contextualizing the project and my background so you can in
 
 On-device, real-time multimodal AI. Have natural voice and vision conversations with an AI that runs entirely on your machine. Powered by Gemma 4 E2B and Kokoro. - fikrikarim/parlor
 
-⬆️ 276 • 💬 35 • 1d ago • [GitHub](https://github.com/fikrikarim/parlor)
+⬆️ 277 • 💬 35 • 1d ago • [GitHub](https://github.com/fikrikarim/parlor)
 
 ---
 
@@ -224,7 +224,7 @@ On-device, real-time multimodal AI. Have natural voice and vision conversations 
 
 iTunes was really bamboozled on April Fools Day. Dallas Little, content creator, unleashed four more songs by his AI creation, Eddie Dalton. Now Little has ELEVEN spots on the iTunes top 100. He also has the number three album on iTunes! All by a singer named “Eddie Dalton,” who does not exist. He’s Little’s Artificial […]
 
-⬆️ 219 • 💬 340 • 21h ago • [Showbiz411](https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive)
+⬆️ 225 • 💬 349 • 22h ago • [Showbiz411](https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive)
 
 ---
 
@@ -244,13 +244,21 @@ deployment pattern...
 
 Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU — no API keys, no cloud, no data leaving your machine. - kessler/gemma-gem
 
-⬆️ 152 • 💬 21 • 1d ago • [GitHub](https://github.com/kessler/gemma-gem)
+⬆️ 153 • 💬 21 • 1d ago • [GitHub](https://github.com/kessler/gemma-gem)
+
+---
+
+**[AI may be making us think and write more alike](https://news.ycombinator.com/item?id=47673541)**
+
+Large language models may be standardizing human expression and subtly influencing how we think, says study led by USC Dornsife researcher
+
+⬆️ 133 • 💬 130 • 3h ago • [USC Dornsife News](https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/)
 
 ---
 
 **[Musician says AI company is cloning her music, filing claims against her](https://news.ycombinator.com/item?id=47653471)**
 
-⬆️ 120 • 💬 19 • 1d ago • [X (formerly Twitter)](https://twitter.com/unlimited_ls/status/2040577536136974444)
+⬆️ 121 • 💬 19 • 1d ago • [X (formerly Twitter)](https://twitter.com/unlimited_ls/status/2040577536136974444)
 
 ---
 
@@ -258,7 +266,7 @@ Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU — no API k
 
 Biologically-inspired memory for AI agents. Decay, retrieval strengthening, consolidation. Zero dependencies. - kitfunso/hippo-memory
 
-⬆️ 112 • 💬 23 • 15h ago • [GitHub](https://github.com/kitfunso/hippo-memory)
+⬆️ 114 • 💬 24 • 17h ago • [GitHub](https://github.com/kitfunso/hippo-memory)
 
 ---
 
@@ -268,17 +276,9 @@ Biologically-inspired memory for AI agents. Decay, retrieval strengthening, cons
 
 ---
 
-**[AI may be making us think and write more alike](https://news.ycombinator.com/item?id=47673541)**
+**[Bernie Sanders: "AI Is a Threat to Everything the American People Hold Dear"](https://news.ycombinator.com/item?id=47667798)**
 
-Large language models may be standardizing human expression and subtly influencing how we think, says study led by USC Dornsife researcher
-
-⬆️ 88 • 💬 70 • 1h ago • [USC Dornsife News](https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/)
-
----
-
-**[AI that copied musical artist files copyright claim against artist [updated]](https://news.ycombinator.com/item?id=47645976)**
-
-⬆️ 64 • 💬 17 • 2d ago • [X (formerly Twitter)](https://twitter.com/VladTheInflator/status/2039577001531768906)
+⬆️ 67 • 💬 57 • 16h ago • [wsj.com](https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459)
 
 ---
 
@@ -292,7 +292,7 @@ Join my Discord community https://discord.gg/QC2YEk7P7n Try the tools here https
 
 📺 Becky the Ai Girl
 
-👁️ 4K • 👍 316 • 💬 26 • ⏱️ 10:54 • 19h ago
+👁️ 4K • 👍 316 • 💬 26 • ⏱️ 10:54 • 20h ago
 
 ---
 
@@ -302,7 +302,7 @@ Microsoft just launched MAI-Transcribe-1, MAI-Voice-1, and MAI-Image-2, though t
 
 📺 AI Revolution
 
-👁️ 19K • 👍 581 • 💬 49 • ⏱️ 10:31 • 15h ago
+👁️ 19K • 👍 581 • 💬 49 • ⏱️ 10:31 • 16h ago
 
 ---
 
@@ -332,7 +332,7 @@ Protect your privacy and try Proton VPN today → http://protonvpn.com/logically
 
 📺 Logically Answered
 
-👁️ 29K • 👍 1K • 💬 189 • ⏱️ 15:18 • 15h ago
+👁️ 29K • 👍 1K • 💬 189 • ⏱️ 15:18 • 16h ago
 
 ---
 
@@ -372,7 +372,7 @@ Layoffs are no longer isolated events but an ongoing global trend, especially in
 
 📺 Firstpost
 
-👁️ 116K • 👍 861 • 💬 191 • ⏱️ 6:00 • 19h ago
+👁️ 116K • 👍 861 • 💬 191 • ⏱️ 6:00 • 21h ago
 
 ---
 
@@ -382,7 +382,7 @@ Support on Patreon: https://www.patreon.com/cw/BusinessCringe Shop merch: https:
 
 📺 BusinessCringe
 
-👁️ 16K • 👍 2K • 💬 408 • ⏱️ 9:07 • 16h ago
+👁️ 16K • 👍 2K • 💬 408 • ⏱️ 9:07 • 17h ago
 
 ---
 
@@ -434,7 +434,7 @@ VOID is a video-to-video diffusion model for object and interaction removal, cap
 
 `video-to-video`
 
-⬇️ 0 • ❤️ 516 • 19h ago
+⬇️ 0 • ❤️ 516 • 21h ago
 
 ---
 
@@ -482,7 +482,7 @@ Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document inte
 
 `image-text-to-text` `4.7B`
 
-⬇️ 39,933 • ❤️ 1,067 • 11d ago
+⬇️ 39,933 • ❤️ 1,067 • 12d ago
 
 ---
 
@@ -657,7 +657,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 14.6k • 🔱 2.8k • 1h ago
+⭐ 14.6k • 🔱 2.8k • 3h ago
 
 ---
 
@@ -667,7 +667,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 14.0k • 🔱 1.3k • 20m ago
+⭐ 14.0k • 🔱 1.3k • 1h ago
 
 ---
 
@@ -697,7 +697,7 @@ The highest-scoring AI memory system ever benchmarked. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 8.0k • 🔱 850 • 15h ago
+⭐ 8.0k • 🔱 850 • 16h ago
 
 ---
 
@@ -707,7 +707,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 6.9k • 🔱 412 • 1m ago
+⭐ 6.9k • 🔱 412 • 1h ago
 
 ---
 
@@ -727,7 +727,7 @@ AI Agent 源码深度研究报告
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 5.2k • 🔱 175 • 15h ago
+⭐ 5.2k • 🔱 175 • 17h ago
 
 ---
 
@@ -747,7 +747,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw). Turn any fol
 
 `Python` `claude-code` `codex` `graphrag` `knowledge-graph` `openclaw`
 
-⭐ 4.7k • 🔱 468 • 1h ago
+⭐ 4.7k • 🔱 468 • 2h ago
 
 ---
 
