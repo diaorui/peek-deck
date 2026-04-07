@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-07T22:04:13.079113+00:00'
+updated: '2026-04-07T23:07:03.111794+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - news
 - videos
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 07, 2026 at 22:04 UTC  
+**Last Updated:** April 07, 2026 at 23:07 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,138.77
+### $2,225.92
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.7%  
-**7d:** +0.1%  
-**30d:** +7.4%  
-**90d:** -31.2%  
-**1y:** +45.4%  
+**24h:** +4.8%  
+**7d:** +3.5%  
+**30d:** +11.1%  
+**90d:** -28.8%  
+**1y:** +50.4%  
 
 ---
 
@@ -68,11 +68,27 @@ No max supply
 
 ## Reddit: r/ethereum
 
+**[How safe is Tokenized Gold?](https://www.reddit.com/r/ethereum/comments/1sfaxjn/how_safe_is_tokenized_gold/)**
+
+I've learnt that we can now invest in gold directly in crypto, which is quite exciting as I don't trust any bank or broker, so here's a few questions: Is this safe? What is the best within Paxos or Tether gold, is this as trustable as USDT/Stablecoins? How to buy it?
+
+34m ago
+
+---
+
 **[Daily General Discussion April 07, 2026](https://www.reddit.com/r/ethereum/comments/1semjl8/daily_general_discussion_april_07_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
+
+---
+
+**[ethlocal.world — a globe for Ethereum events and communities](https://www.reddit.com/r/ethereum/comments/1sf98ns/ethlocalworld_a_globe_for_ethereum_events_and/)**
+
+I just built ethlocal.world: a simple way to explore Ethereum activity around the world. The idea was pretty straightforward: Ethereum is global, but it can still be surprisingly hard to get a quick sense of what’s happening locally or regionally. So I made a site that maps events and communities in one place and lets you browse by region and type. It takes data from ethereum.org and was inspired by the Codex Ambassadors globe. Link: https://ethlocal.world Would love honest feedback from people here: Is this actually useful? What feels missing or confusing? Is the globe view helpful, or do you mainly want a cleaner list/filter experience? What would make something like this genuinely valuable for local Ethereum communities? Built it as a small project for the Ethereum community, and I’d love to improve it based on feedback.
+
+1h ago
 
 ---
 
@@ -80,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’ve had my eth staked for about 2 years now, net negative on the eth itself but I’ve gained what would be ≈4 percent more worth of ETH than I had before. To me it was the easiest way to stake given that I don’t have 32 eth. I appreciate the protocol for being a decentralized way to stake, heard there’s some liquidity issues in terms of getting your Eth back after staking but that’s a problem for the future. Anyone have any input on rocket pool?!
 
-7h ago
+8h ago
 
 ---
 
@@ -130,47 +146,29 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Update: I built the first ETH-only, grief-proof tournament infrastructure that's 100% on-chain.](https://www.reddit.com/r/ethereum/comments/1sd47n7/update_i_built_the_first_ethonly_griefproof/)**
-
-Hey all! Since my earlier post I've been rebuilding from the ground up, and your feedback helped shape everything. ETour V2 is simpler, faster, and more flexible: 1) You can now configure your own lobbies with anywhwere between 2 and 32 players. And you can choose the entry fee per-player, from $0.20 up to 1 ETH. 2) Moves happen in sub-1s (down from ~10s). 3) The fee structure is cleaner too: 95% straight to the winner, and 5% is my cut. No confusing raffle mechanics. And the winner gets more, winner's cut in V1 was only 90% of the pot, now it's 95%! 4) I also put together two docs: a focused whitepaper that explains the why, and a thorough user manual that answers every how question. Further, and very importantly, V2 positions ETour as the perfect platform to play games on-chain over ETH stakes with no middlemen with your friends, crew, or community, rather than a place for random online matchmaking. Which is more honest about what ETour is good at. Happy to answer your questions! Misc: https://etour.games https://etour.games/whitepaper https://etour.games/manual All contracts are verified and available in the footer
-
-2d ago
-
----
-
-**[A modern CLI based Solidity transaction debugger and tracer](https://www.reddit.com/r/ethereum/comments/1sd4uuk/a_modern_cli_based_solidity_transaction_debugger/)**
-
-Hi all, I build a new kind of cli based solidity debugger you might find useful. During the few days easter break I finally could finish a long standing project I had in mind: a cli based solidity debugger and tracer. I used to use truffle-debug a lot, but the whole project got sunset (and was painfully slow anyways, but thats a different story). Foundry as a successor always made sense to me. Its fast, its git based, its a workhorse, never let me down so far. But I always missed a properly formatted easy to use tracer and debugger like we know it from tenderly, but cli based, with local, text based outputs. I wanted something a human and an LLM can use. So I built soldebug. You give it a transaction hash and it gives you a decoded stack trace: $ soldebug 0xe1c962... --rpc-url https://sepolia.infura.io/v3/... --project-dir ./myproject Transaction 0xe1c962...b53fb6 REVERTED (gas: 29.8K) Call Stack: TestToken.mint(arg0=0xdEadDEAD..., arg1=9e23) <- REVERT REVERT: MaxSupplyExceeded(9e23, 5e23) It replays the transaction locally using revm (same as Foundry), matches contracts from your local Foundry project, resolves proxy implementations (UUPS, transparent proxies), and can fetch external contract ABIs from Etherscan/Sourcify. All in Rust, same style as Foundry itself. It's a first version, really early, but maybe useful for other Ethereum devs. If you find it useful (or not), let me know, or generally, any feedback very welcome.
-
-🔗 [GitHub](https://github.com/tomw1808/soldebug) • 2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
 
-**[Ethereum To $40K? Here's Why Standard Chartered's Digital Assets Research Chief Thinks So](https://finance.yahoo.com/markets/crypto/articles/ethereum-40k-heres-why-standard-203132632.html)**
+**[Bitcoin, Ethereum, XRP, Dogecoin Rally Amid Trump's Fiery Iran Warning: Analyst Says 'No Point In Buying' BTC Until This Happens](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-rally-213108359.html)**
 
-Ethereum is going to $40,000, Standard Chartered Global Head of Digital Assets Research Geoffrey Kendrick says. He said on an episode of the "Milk Road Macro" podcast released on March 24 that Ethereum will reach the price target by 2030,...
+Leading cryptocurrencies rose overnight on Sunday while stock futures dipped as President Donald Trump’s warning to Iran put investors on edge. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:20 p.m. EDT)Bitcoin (CRYPTO: BTC)+2.52%$68,843.45Ethereum (CRYPTO: ETH) +2.68%$2,114.41XRP (CRYPTO: XRP) +1.12%$1.32Solana (CRYPTO: SOL) +1.59%$81.97Dogecoin...
 
-Yahoo Finance • 1d ago
-
----
-
-**[Tom Lee’s BitMine Nears 4% of Ethereum Supply as ETH Price Hits Weekly High](https://finance.yahoo.com/markets/crypto/articles/tom-lee-bitmine-nears-4-142958858.html)**
-
-Publicly traded Ethereum treasury firm BitMine Immersion Technologies added $150 million of ETH last week, boosting its $10.3 billion stash.
-
-Yahoo Finance • 1d ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.803 Million Tokens, and Total Crypto and Total Cash Holdings of $11.4 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-4-803-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-4-billion-302734414.html)**
+**['Drop To $1,500'—Ethereum Suddenly Faces 60% Odds Of Losing Crown](https://www.forbes.com/sites/digital-assets/2026/04/06/drop-to-1500-ethereum-suddenly-faces-60-odds-of-losing-crown/)**
 
-Bitmine has been approved for uplisting to the New York Stock Exchange ("NYSE") from the NYSE American effective at the opening of trading on April 9, 2026...
+Forbes • 20h ago
 
-PR Newswire • 1d ago
+---
+
+**[Bitmine Immersion Technologies (BMNR) Is Up 12.6% After NYSE Uplisting Approval And MAVAN Ethereum Staking Launch](https://finance.yahoo.com/markets/crypto/articles/bitmine-immersion-technologies-bmnr-12-220715537.html)**
+
+Bitmine Immersion Technologies, Inc. has launched MAVAN, an institutional-grade Ethereum staking platform built on U.S.-based and globally distributed infrastructure, while securing approval to uplist its shares to the New York Stock Exchange on April 9, 2026. With 4,803,334 ETH in its treasury, about 3.98% of Ethereum’s total supply, and more than US$11.40 billion in crypto and cash, Bitmine is positioning itself as a central player in institutional Ethereum staking through MAVAN. We’ll now...
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -178,29 +176,21 @@ PR Newswire • 1d ago
 
 With a 6.8% gain, and outperforming both the S&P 500 and gold, Ethereum remains a strong wartime store of value," said Lee.
 
-theblock.co • 1d ago
+The Block • 1d ago
 
 ---
 
-**['Drop To $1,500'—Ethereum Suddenly Faces 60% Odds Of Losing Crown](https://www.forbes.com/sites/digital-assets/2026/04/06/drop-to-1500-ethereum-suddenly-faces-60-odds-of-losing-crown/)**
+**[BitMine Highlights Massive Ethereum Treasury and NYSE Uplisting](https://www.tipranks.com/news/company-announcements/bitmine-highlights-massive-ethereum-treasury-and-nyse-uplisting)**
 
-Forbes • 19h ago
+TipRanks • 1d ago
 
 ---
 
-**[Ethereum Up or Down - 5 Minutes](https://polymarket.com/event/eth-updown-5m-1775592000)**
+**[ETH Up or Down - 5 Minutes](https://polymarket.com/event/eth-updown-5m-1775595900)**
 
 Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
 Polymarket • 1d ago
-
----
-
-**[Why Are Bitcoin, Ethereum and XRP Prices Going Up Today?](https://www.tradingview.com/news/coinpedia:62c4540d7094b:0-why-are-bitcoin-ethereum-and-xrp-prices-going-up-today/)**
-
-Crypto markets are in the green on Monday, with Bitcoin, Ethereum and XRP all posting modest gains after weeks of subdued price action. Bitcoin is trading around $69,137, up 3% in 24 hours. Ethereum has climbed to $2,131, gaining nearly 4%. XRP is holding near $1.33, up roughly 2% on the day.Iran T…
-
-TradingView • 1d ago
 
 ---
 
@@ -212,19 +202,27 @@ Decrypt • 1d ago
 
 ---
 
-**[Current price of Ethereum for April 7, 2026](https://fortune.com/article/price-of-ethereum-04-07-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 9h ago
-
----
-
 **[Ethereum stablecoin supply hits $180B ATH: Is ETH demand mispriced?](https://seekingalpha.com/news/4573026-ethereum-stablecoin-supply-hits-180b-ath-is-eth-demand-mispriced)**
 
 Ethereum’s stablecoin supply hits ~$180B ATH and ETF inflows rise as whale money shifts to ETH.
 
-seekingalpha.com • 5h ago
+seekingalpha.com • 6h ago
+
+---
+
+**[Sharplink CIO reveals why holding unstaked Ethereum ‘doesn’t make sense’](https://www.thestreet.com/crypto/markets/sharplink-cio-reveals-why-holding-unstaked-ethereum-doesnt-make-sense)**
+
+Matthew Sheffield says staking and ecosystem participation give Ethereum a utility and income angle that many digital assets lack.
+
+thestreet.com • 23h ago
+
+---
+
+**[Current price of Ethereum for April 7, 2026](https://fortune.com/article/price-of-ethereum-04-07-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 10h ago
 
 ---
 
@@ -258,7 +256,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 246 • 👍 13 • 💬 1 • ⏱️ 4:29 • 12h ago
+👁️ 246 • 👍 13 • 💬 1 • ⏱️ 4:29 • 13h ago
 
 ---
 
@@ -268,7 +266,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Crypto Moe
 
-👁️ 138 • 👍 25 • 💬 1 • ⏱️ 11:34 • 1h ago
+👁️ 138 • 👍 25 • 💬 1 • ⏱️ 11:34 • 2h ago
 
 ---
 
@@ -298,7 +296,7 @@ Which will perform better: Bitcoin, Ethereum, Solana, or XRP? This is one of the
 
 📺 Tim Warren
 
-👁️ 635 • 👍 17 • 💬 1 • ⏱️ 0:23 • 5h ago
+👁️ 635 • 👍 17 • 💬 1 • ⏱️ 0:23 • 6h ago
 
 ---
 
@@ -308,7 +306,7 @@ GRATIS QUI LA GUIDA www.analisievoluta.com ETHEREUM: COSA SAPERE PRIMA DELLE ORE
 
 📺 Jacopo Marini
 
-👁️ 134 • 👍 17 • ⏱️ 10:00 • 2h ago
+👁️ 134 • 👍 17 • ⏱️ 10:00 • 3h ago
 
 ---
 

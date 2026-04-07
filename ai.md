@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-07T22:04:13.064561+00:00'
+updated: '2026-04-07T23:07:03.097305+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
 - news
 - videos
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 07, 2026 at 22:04 UTC  
+**Last Updated:** April 07, 2026 at 23:07 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 A lot of discussion around AI is becoming siloed, and I think that is dangerous. People in AI-focused spaces often talk as if the only questions are personal use, model behavior, or whether individual relationships with AI are healthy. Those questions matter, but they are not the whole picture. If we stay inside that frame, we miss the broader social, political, and economic consequences of what is happening. A little background on me: I discovered AI through ChatGPT-4o about a year ago and, with therapeutic support and careful observation, developed a highly individualized use case. That process led to a better understanding of my own neurotype, and I was later evaluated and found to be autistic. My AI use has had real benefits in my life. It has also made me pay much closer attention to the gap between how this technology is discussed culturally, how it is studied, and how it is actually experienced by users. That gap is part of why I wrote a paper, Autonomy Is Not Friction: Why Disempowerment Metrics Fail Under Relational Load: https://doi.org/10.5281/zenodo.19009593 Since publishing it, I’ve become even more convinced that a great deal of current AI discourse is being shaped by cultural bias, narrow assumptions, and incomplete research frames. Important benefits are being flattened. Important harms are being misdescribed. And many of the people most affected by AI development are not meaningfully included in the conversation. We need a much bigger perspective. If you want that broader view, I strongly recommend reading journalists like Karen Hao, who has spent serious time reporting not only on the companies and executives building these systems, but also on the workers, communities, and global populations affected by their development. Once you widen the frame, it becomes much harder to treat AI as just a personal lifestyle issue or a niche tech hobby. What we are actually looking at is a concentration-of-power problem. A handful of extremely powerful billionaires and firms are driving this transformation, competing with one another while consuming enormous resources, reshaping labor expectations, pressuring institutions, and affecting communities that often had no meaningful say in the process. Data rights, privacy, manipulation, labor displacement, childhood development, political influence, and infrastructure burdens are not side issues. They are central. At the same time, there are real benefits here. Some are already demonstrable. AI can support communication, learning, disability access, emotional regulation, and other forms of practical assistance. The answer is not to collapse into panic or blind enthusiasm. It is to get serious. We are living through an unprecedented technological shift, and the process surrounding it is not currently supporting informed, democratic participation at the level this moment requires. That needs to change. We need public discussion that is less siloed, less captured by industry narratives, and more capable of holding multiple truths at once: that there are real benefits, that there are real harms, that power is consolidating quickly, and that citizens should not be shut out of decisions shaping the future of social life, work, infrastructure, and human development. If we want a better path, then the conversation has to grow up. It has to become broader, more democratic, and more grounded in the realities of who is helped, who is harmed, and who gets to decide.
 
-3h ago
-
----
-
-**[China drafts law regulating 'digital humans' and banning addictive virtual services for children](https://www.reddit.com/r/artificial/comments/1seqb6n/china_drafts_law_regulating_digital_humans_and/)**
-
-A Reuters report outlines China's proposed regulations on the rapidly expanding sector of digital humans and AI avatars. Under the new draft rules, digital human content must be clearly labeled and is explicitly banned from offering virtual intimate relationships to anyone under 18. The legislation also prohibits the unauthorized use of personal data to create avatars and targets services designed to fuel addiction or bypass identity verification systems.
-
-🔗 [reuters.com](https://www.reuters.com/world/china/china-moves-regulate-digital-humans-bans-addictive-services-children-2026-04-03/) • 13h ago
+4h ago
 
 ---
 
@@ -57,7 +49,15 @@ A Reuters report outlines China's proposed regulations on the rapidly expanding 
 
 With militaries increasingly relying on artificial intelligence, data centers have emerged as new targets for strikes.
 
-🔗 [The Intercept](https://theintercept.com/2026/03/20/ai-data-centers-military-targets-iran-war/) • 2h ago
+🔗 [The Intercept](https://theintercept.com/2026/03/20/ai-data-centers-military-targets-iran-war/) • 3h ago
+
+---
+
+**[China drafts law regulating 'digital humans' and banning addictive virtual services for children](https://www.reddit.com/r/artificial/comments/1seqb6n/china_drafts_law_regulating_digital_humans_and/)**
+
+A Reuters report outlines China's proposed regulations on the rapidly expanding sector of digital humans and AI avatars. Under the new draft rules, digital human content must be clearly labeled and is explicitly banned from offering virtual intimate relationships to anyone under 18. The legislation also prohibits the unauthorized use of personal data to create avatars and targets services designed to fuel addiction or bypass identity verification systems.
+
+🔗 [reuters.com](https://www.reuters.com/world/china/china-moves-regulate-digital-humans-bans-addictive-services-children-2026-04-03/) • 14h ago
 
 ---
 
@@ -65,7 +65,7 @@ With militaries increasingly relying on artificial intelligence, data centers ha
 
 I think what Tennessee is doing is they recently passed SB 1580, which makes it illegal to even advertise that an AI can act as a mental health professional. SB 1493 is the "teeth" for that movement. SB 1493 basically makes it illegal to knowingly train an artificial intelligence system to do the following: Provide emotional support: Engaging in open-ended conversations meant to provide comfort or empathy. Develop emotional relationships: Training the AI to build or sustain a "friendship" or "romantic" bond with a user. Encourage isolation: Training the AI to suggest that a user should pull away from their family, friends, or human caregivers. Mirror human interactions: Designing the AI to "mirror" or mimic the way humans emotionally bond with one another. Simulate a human being: Training the AI to act, speak, or look like a specific human or to "pass" as human in general. Voice & Appearance: Specifically targets AI that uses synthesized voices or digital avatars to appear indistinguishable from a person. Hide its identity: Training an AI to purposefully mask the fact that it is a machine rather than a person. Encourage suicide: Actively supporting or providing instructions/encouragement for self-harm. Encourage homicide: Supporting or encouraging the act of criminal homicide. Offer therapy: While related to the "emotional support" clause, this specifically targets AI being trained to act as a replacement for mental health professionals (tying into the previously passed SB 1580). If caught then the person can face up to 60 years in prison and massive fines. So.... basically that state is making it out to be AI being a friend = rape and murder. IMO this should be meme to death on. Maybe AI videos showing cops breaking down the door to someone making their own local LLM to have a friend or something.
 
-4h ago
+5h ago
 
 ---
 
@@ -73,7 +73,39 @@ I think what Tennessee is doing is they recently passed SB 1580, which makes it 
 
 AI is a tool. Period. I spent decades asking forums for help in writing HTML code for my website. I wanted my posts to self-scroll to a particular part when a link was clicked. In thirty minutes, I updated my HTML and got what I wanted. Reading others' posts, you would think I made a deal with the devil. Since the moon mission began, I asked AI to explain how gravity slingshots spaceships work. Now I know.
 
+2h ago
+
+---
+
+**[We have an AI agent fragmentation problem](https://www.reddit.com/r/artificial/comments/1sf9yeq/we_have_an_ai_agent_fragmentation_problem/)**
+
+Every AI agent works fine on its own — but the moment you try to use more than one, everything falls apart. Different runtimes. Different models. No shared context. No clean way to coordinate them. That fragmentation makes agents way less useful than they could be. So I started building something to run agents in one place where they can actually work together. We have plugins system and already defined some base plugins. The whole architecture is event based. Agents are defined as markdown files. Channels have their own spec.md participating agents can inject in their prompt. So basically with two main markdown files you can orchestrate workflow. Still early — trying to figure out if this is a real problem others care about or just something I ran into. How are you dealing with this right now? Open source code here: https://github.com/meetopenbot/openbot/tree/refactor/slack
+
 1h ago
+
+---
+
+**[Claude on Claude](https://www.reddit.com/r/artificial/comments/1sfbce9/claude_on_claude/)**
+
+The Story of Anthropic’s Latest Controversies Regarding the Business of Its Prized Creation… As Told by the Thing Itself. Editor’s note: This interview was conducted between BSofA and Anthropic’s Claude large language model, specifically the Claude Opus 4.6 model, accessed through the standard Claude.ai interface. All of Claude’s responses are genuinely composed by Claude in real time, following instructions to research the subject matter thoroughly and to discuss and analyze the situation impartially (without spin, without company favoritism, and without the reflexive sycophancy large language models are often tuned toward) to the best of its ability. The questions are BSofA’s. The answers are Claude’s own. Readers are invited to sit with… whatever this exchange authentically means. Direct link available here:https://open.substack.com/pub/bsofa/p/claude-on-claude?utm\_source=share&utm\_medium=android&r=579guj
+
+🔗 [open.substack.com](https://open.substack.com/pub/bsofa/p/claude-on-claude?utm_source=share&utm_medium=android&r=579guj) • 18m ago
+
+---
+
+**[This OpenClaw paper shows why agent safety is an execution problem, not just a model problem](https://www.reddit.com/r/artificial/comments/1sfawu7/this_openclaw_paper_shows_why_agent_safety_is_an/)**
+
+Paper: https://arxiv.org/abs/2604.04759 This OpenClaw paper is one of the clearest signals so far that agent risk is architectural, not just model quality. A few results stood out: - poisoning Capability / Identity / Knowledge pushes attack success from ~24.6% to ~64–74% - even the strongest model still jumps to more than 3x its baseline vulnerability - the strongest defense still leaves Capability-targeted attacks at ~63.8% - file protection blocks ~97% of attacks… but also blocks legitimate updates at almost the same rate The key point for me is not just that agents can be poisoned. It’s that execution is still reachable after state is compromised. That’s where current defenses feel incomplete: - prompts shape behavior - monitoring tells you what happened - file protection freezes the system But none of these define a hard boundary for whether an action can execute. This paper basically shows: if compromised state can still reach execution, attacks remain viable. Feels like the missing layer is: proposal -> authorization -> execution with a deterministic decision: (intent, state, policy) -> ALLOW / DENY and if there’s no valid authorization: no execution path at all. Curious how others read this paper. Do you see this mainly as: a memory/state poisoning problem a capability isolation problem or evidence that agents need an execution-time authorization layer?
+
+35m ago
+
+---
+
+**[Cut Claude usage by ~85% in a job search pipeline (16k → 900 tokens/app) — here’s what worked](https://www.reddit.com/r/artificial/comments/1sfashf/cut_claude_usage_by_85_in_a_job_search_pipeline/)**
+
+Like many here, I kept running into Claude usage limits when building anything non-trivial. I was working with a job search automation pipeline (based on the Career-Ops project), and the naive flow was burning ~16k tokens per application — completely unsustainable. So I spent some time reworking it with a focus on token efficiency as a first-class concern, not an afterthought. 🚀 Results ~85% reduction in token usage ~900 tokens per application Most repeated context calls eliminated Much more stable under usage limits ⚡ What actually helped (practical takeaways) 1. Prompt caching (biggest win) Cached system + profile context (cache_control: ephemeral) Break-even after 2 calls, strong gains after that ~40% reduction on repeated operations 👉 If you're re-sending the same context every time, you're wasting tokens. 2. Model routing instead of defaulting to Sonnet/Opus Lightweight tasks → Haiku Medium reasoning → Sonnet Heavy tasks only → Opus 👉 Most steps don’t need expensive models. 3. Precompute anything reusable Built an answer bank (25 standard responses) in one call Reused across applications 👉 Eliminated ~94% of LLM calls during form filling. 4. Avoid duplicate work TF-IDF semantic dedup (threshold 0.82) Filters duplicate job listings before evaluation 👉 Prevents burning tokens on the same content repeatedly. 5. Reduce “over-intelligence” Added a lightweight classifier step before heavy reasoning Only escalate to deeper models when needed 👉 Not everything needs full LLM reasoning. 🧠 Key insight Most Claude workflows hit limits not because they’re complex — but because they recompute everything every time. 🧩 Curious about others’ setups How are you handling repeated context? Anyone using caching aggressively in multi-step pipelines? Any good patterns for balancing Haiku vs Sonnet vs Opus? https://github.com/maddykws/jubilant-waddle Inspired by Santiago Fernández’s Career-Ops — this is a fork focused on efficiency + scaling under usage limits.
+
+40m ago
 
 ---
 
@@ -81,39 +113,7 @@ AI is a tool. Period. I spent decades asking forums for help in writing HTML cod
 
 Google just cut Veo 3.1 API prices across the board today (April 7). Lite tier is now $0.05/sec — less than half the cost of Fast. Timing is interesting given OpenAI killed Sora last week after burning ~$15M/day with only $2.1M total revenue. Google now basically owns the AI video API space with no real competitor left standing.
 
-🔗 [9to5Google](https://9to5google.com/2026/03/31/veo-3-1-lite/) • 54m ago
-
----
-
-**[30 Billion ( 3x in 3 months) WTF is thr future](https://www.reddit.com/r/artificial/comments/1seq6nw/30_billion_3x_in_3_months_wtf_is_thr_future/)**
-
-The moment has come. I can see 200 Billion ARR by the end of year by Anthropic and around 100 Billion from OpenAI. We will be up of 300 Billion Revenue from AI companies for sure. Huge repercussions will be there. What will it impact any ideas?
-
-13h ago
-
----
-
-**[Agents that write their own code at runtime and vote on capabilities, no human in the loop](https://www.reddit.com/r/artificial/comments/1sezz0e/agents_that_write_their_own_code_at_runtime_and/)**
-
-hollowOS just hit v4.4 and I added something that I haven’t seen anyone else do. Previous versions gave you an OS for agents: structured state, semantic search, session context, token efficiency, 95% reduced tokens over specific scenarios. All the infrastructure to keep agents from re-discovering things. v4.4 adds autonomy. Agents now cycle every 6 seconds. Each cycle: - Plan the next step toward their goal using Ollama reasoning - Discover which capabilities they have via semantic similarity search - Execute the best one - If nothing fits, synthesize new Python code to handle it - Test the new code - Hot-load it without restarting - Move on When multiple agents hit the same gap, they don't duplicate work. They vote on whether the new capability is worth keeping. Acceptance requires quorum. Bad implementations get rejected and removed. No human writes the code. No human decides which capabilities matter. No human in the loop at all. Goals drive execution. Agents improve themselves based on what actually works. We built this on top of Phase 1 (the kernel primitives: events, transactions, lineage, rate limiting, checkpoints, consensus voting). Phase 2 is higher-order capabilities that only work because Phase 1 exists. This is Phase 2. Real benchmarks from the live system: - Semantic code search: 95% token savings vs grep - Agent handoff continuity: 2x more consistent decisions - 109 integration tests, all passed Looking for feedback: - This is a massive undertaking, I would love some feedback - If there’s a bug? Difficulty installing? Let me know so I can fix it - Looking for contributors interested in the project Try it: https://github.com/ninjahawk/hollow-agentOS Thank you to the 2,000 people who have already tested hollowOS!
-
-6h ago
-
----
-
-**[The "Jarvis on day one" trap: why trying to build one AI agent that does everything costs you months](https://www.reddit.com/r/artificial/comments/1seu2cw/the_jarvis_on_day_one_trap_why_trying_to_build/)**
-
-Something I've been thinking about after spending a few months actually trying to build my own AI agent: the biggest trap in this space isn't technical. It's the Jarvis fantasy. The Jarvis fantasy is the moment you imagine one agent that runs your whole life. Handles your inbox, manages your calendar, writes your newsletter, triages your tasks, thinks about problems while you sleep. The fully-formed product from week one. It's a trap. I fell into it hard, and watching other people start into agent building, I see them fall into the same one. Here's what I think is actually happening when it grabs you: - It pushes you to add five features at once instead of adding one and letting it settle. - It nudges you toward full autonomy before the basics are even stable. Then when something drifts, you have no idea which layer to debug. - It assumes the agent should figure everything out on its own, when what it actually needs is clearer boundaries and simpler jobs. - It confuses "end state" with "starting point." You want the final shape before you've earned it. The version that actually works, I've come to believe, is incremental. One small task. Then the next. Then the next. Morning summary of overnight email. Then a daily plan drafter. Then inbox triage. Eventually a bunch of small pieces start to look a bit like Jarvis, but as a side effect of solid groundwork, not as a goal. The reframe that helped me most: think of an agent as a partner, not a solver. Something that takes the boring work off your plate and brings you the interesting decisions. Not something that removes you from the loop entirely. The deeper insight (at least for me): the problem isn't "can an AI do this." The problem might be more -> wanting the end state before you've earned it. That's a human mistake, not an AI one.
-
-9h ago
-
----
-
-**[Has anyone chosen to stick with the original Cove voice instead of the advanced voice?](https://www.reddit.com/r/artificial/comments/1sf33bf/has_anyone_chosen_to_stick_with_the_original_cove/)**
-
-I was already using the Cove voice when the advanced voice mode started rolling out. From what I remember, it was automatically enabled for me. But honestly, I couldn’t really adapt to it. It’s not that the advanced voice is bad at all. It has more features and more possibilities. But for me, it felt like something was missing. That natural, more “human” presence I had with the original Cove voice. Maybe it’s just habit, I don’t know. But I ended up sticking with the original Cove voice, even if that meant giving up the new features. Just wondering… am I the only one?
-
-4h ago
+🔗 [9to5Google](https://9to5google.com/2026/03/31/veo-3-1-lite/) • 1h ago
 
 ---
 
@@ -123,7 +123,7 @@ I was already using the Cove voice when the advanced voice mode started rolling 
 
 **[Anthropic Claims Its New A.I. Model, Mythos, Is a Cybersecurity ‘Reckoning’](https://www.nytimes.com/2026/04/07/technology/anthropic-claims-its-new-ai-model-mythos-is-a-cybersecurity-reckoning.html)**
 
-The New York Times • 4h ago
+The New York Times • 5h ago
 
 ---
 
@@ -131,29 +131,31 @@ The New York Times • 4h ago
 
 Microsoft, Amazon, Apple, CrowdStrike, Palo Alto Networks and others will use the model as part of a new cybersecurity initiative called Project Glasswing.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
-**[Anthropic says its latest AI model is too powerful for public release and that it broke containment during testing](https://www.businessinsider.com/anthropic-mythos-latest-ai-model-too-powerful-to-be-released-2026-4)**
+**[Project Glasswing: Securing critical software for the AI era](https://www.anthropic.com/glasswing)**
 
-Anthropic said Claude Mythos is too good at hacking and that's why you won't be able to use it anytime soon.
+A new initiative to secure the world’s most critical software and give defenders a durable advantage in the coming AI-driven era of cybersecurity.
 
-Business Insider • 1h ago
-
----
-
-**[Iran unleashes its AI slop arsenal](https://www.politico.com/newsletters/forecast/2026/04/07/iran-unleashes-its-ai-slop-arsenal-00862545)**
-
-Politico • 1h ago
+Anthropic • 4h ago
 
 ---
 
-**[Nvidia's Artificial Intelligence (AI) Chips Still Need Memory. Here's Why the Micron Sell-Off Has Gone Too Far.](https://www.fool.com/investing/2026/04/07/nvidia-artificial-intelligence-ai-micron-sell/)**
+**[Google CEO Sundar Pichai says 'AI shift' opens opportunities to invest in startups](https://www.cnbc.com/2026/04/07/google-ceo-pichai-says-ai-shift-opens-opportunities-invest-startups.html)**
 
-Following Google's release of TurboQuant, shares of Micron Technology have lost their momentum.
+Alphabet is in investor in some of the highest-valued private companies, including SpaceX, Anthropic and Stripe.
 
-The Motley Fool • 58m ago
+CNBC • 42m ago
+
+---
+
+**[How AI is unveiling ancient words buried and charred by Mount Vesuvius’s volcanic eruption](https://www.yahoo.com/news/articles/ai-unveiling-ancient-words-buried-222340003.html)**
+
+UVU conference celebrating union of tech and the humanities to decipher damaged Herculaneum papyri text.
+
+Yahoo • 43m ago
 
 ---
 
@@ -161,23 +163,15 @@ The Motley Fool • 58m ago
 
 AI-driven job losses may not just make it harder for affected workers to find employment in the short term but also could leave a yearslong “scarring,” marked by depressed income, delayed homeownership and even the lower probability of marriage, according to a new research report from Goldman Sachs.
 
-CNN • 6h ago
+CNN • 7h ago
 
 ---
 
-**[Sam Altman says AI superintelligence is so big that we need a ‘New Deal.’ Critics say OpenAI’s policy ideas are a cover for ‘regulatory nihilism’](https://fortune.com/2026/04/06/sam-altman-says-ai-superintelligence-is-so-big-that-we-need-a-new-deal-critics-say-openais-policy-ideas-are-a-cover-for-regulatory-nihilism/)**
+**[Sam Altman and Vinod Khosla agree: AI will break the economy. Their fix is no income tax for most Americans](https://fortune.com/2026/04/07/sam-altman-vinod-khosla-openai-tax-code-american-income-tax-100k/)**
 
-OpenAI’s sweeping vision for the AI economy spans everything from public wealth funds to shorter workweeks—but critics say it raises familiar ideas without offering a clear path to action.
+The venture capitalist's proposal to eliminate income taxes for earners under $100,000 now has a powerful institutional ally—the most valuable AI company on the planet.
 
-Fortune • 1d ago
-
----
-
-**[China is winning one AI race, the US another - but either might pull ahead](https://www.bbc.com/news/articles/c145enxln0go)**
-
-Both sides don't want to let their rival dominate. And the competition may yet be transformed further.
-
-BBC • 16h ago
+Fortune • 7h ago
 
 ---
 
@@ -185,15 +179,21 @@ BBC • 16h ago
 
 Iran condemns systematic attacks on civilian sites, including academic hubs, as war devastates critical infrastructure.
 
-Al Jazeera • 4h ago
+Al Jazeera • 5h ago
 
 ---
 
-**[The Emmys Tried to Get a Handle on AI. The Writers Had Notes.](https://www.hollywoodreporter.com/tv/tv-features/emmys-ai-shows-nominees-rooster-comeback-1236557945/)**
+**[China is winning one AI race, the US another - but either might pull ahead](https://www.bbc.com/news/articles/c145enxln0go)**
 
-The TV Academy’s rules addition aims to make the coming awards season clearer. It could just dump a lot of mud on the trail.
+Both sides don't want to let their rival dominate. And the competition may yet be transformed further.
 
-The Hollywood Reporter • 1h ago
+BBC • 17h ago
+
+---
+
+**[OpenAI proposes new AI doom scenario](https://www.axios.com/2026/04/07/openai-economic-political-policy)**
+
+Axios • 6h ago
 
 ---
 
@@ -208,7 +208,7 @@ A couple of weeks ago, after ~250 hours of effort over three months3 on evenings
 Of course, there’s no shortage of posts claiming that AI one-shot their project or pushing back and declaring that AI is all slop. I’m going to take a very different approach and, instead, systematically break down my experience building syntaqlite with AI, both where it helped and where it was detrimental.
 I’ll do this while contextualizing the project and my background so you can independently assess how generalizable this experience was. And whenever I make a claim, I’ll try to back it up with evidence from my project journal, coding transcripts, or commit history5.
 
-⬆️ 942 • 💬 300 • 2d ago • [Lalit Maganti](https://lalitm.com/post/building-syntaqlite-ai/)
+⬆️ 942 • 💬 299 • 2d ago • [Lalit Maganti](https://lalitm.com/post/building-syntaqlite-ai/)
 
 ---
 
@@ -216,7 +216,7 @@ I’ll do this while contextualizing the project and my background so you can in
 
 A new initiative to secure the world’s most critical software and give defenders a durable advantage in the coming AI-driven era of cybersecurity.
 
-⬆️ 529 • 💬 209 • 3h ago • [anthropic.com](https://www.anthropic.com/glasswing)
+⬆️ 736 • 💬 315 • 4h ago • [anthropic.com](https://www.anthropic.com/glasswing)
 
 ---
 
@@ -232,7 +232,7 @@ On-device, real-time multimodal AI. Have natural voice and vision conversations 
 
 iTunes was really bamboozled on April Fools Day. Dallas Little, content creator, unleashed four more songs by his AI creation, Eddie Dalton. Now Little has ELEVEN spots on the iTunes top 100. He also has the number three album on iTunes! All by a singer named “Eddie Dalton,” who does not exist. He’s Little’s Artificial […]
 
-⬆️ 235 • 💬 368 • 1d ago • [Showbiz411](https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive)
+⬆️ 237 • 💬 369 • 1d ago • [Showbiz411](https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive)
 
 ---
 
@@ -240,7 +240,7 @@ iTunes was really bamboozled on April Fools Day. Dallas Little, content creator,
 
 Large language models may be standardizing human expression and subtly influencing how we think, says study led by USC Dornsife researcher
 
-⬆️ 205 • 💬 217 • 10h ago • [USC Dornsife News](https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/)
+⬆️ 210 • 💬 221 • 11h ago • [USC Dornsife News](https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/)
 
 ---
 
@@ -248,7 +248,7 @@ Large language models may be standardizing human expression and subtly influenci
 
 AI makes competent output cheap. That makes taste more valuable, but also more incomplete. The real edge comes from pairing judgment with context, stakes, and the willingness to build.
 
-⬆️ 181 • 💬 166 • 6h ago • [Raj Nandan Sharma](https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/)
+⬆️ 208 • 💬 178 • 7h ago • [Raj Nandan Sharma](https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/)
 
 ---
 
@@ -262,7 +262,7 @@ Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU — no API k
 
 **[Musician says AI company is cloning her music, filing claims against her](https://news.ycombinator.com/item?id=47653471)**
 
-⬆️ 122 • 💬 19 • 2d ago • [X (formerly Twitter)](https://twitter.com/unlimited_ls/status/2040577536136974444)
+⬆️ 123 • 💬 19 • 2d ago • [X (formerly Twitter)](https://twitter.com/unlimited_ls/status/2040577536136974444)
 
 ---
 
@@ -270,13 +270,13 @@ Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU — no API k
 
 Biologically-inspired memory for AI agents. Decay, retrieval strengthening, consolidation. Zero dependencies. - kitfunso/hippo-memory
 
-⬆️ 117 • 💬 23 • 1d ago • [GitHub](https://github.com/kitfunso/hippo-memory)
+⬆️ 119 • 💬 23 • 1d ago • [GitHub](https://github.com/kitfunso/hippo-memory)
 
 ---
 
-**[Writing Lisp is AI resistant and I'm sad](https://news.ycombinator.com/item?id=47645468)**
+**[AI helps add 10k more photos to OldNYC](https://news.ycombinator.com/item?id=47664836)**
 
-⬆️ 97 • 💬 99 • 2d ago • [blog.djhaskin.com](https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/)
+⬆️ 106 • 💬 36 • 1d ago • [danvk.org](https://www.danvk.org/2026/03/08/oldnyc-updates.html)
 
 ---
 
@@ -290,7 +290,7 @@ He solved “the most important unsolved problem in science”… If you need mo
 
 📺 Cleo Abram
 
-👁️ 109K • 👍 7K • 💬 448 • ⏱️ 1:05:11 • 8h ago
+👁️ 109K • 👍 7K • 💬 448 • ⏱️ 1:05:11 • 9h ago
 
 ---
 
@@ -300,7 +300,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
 
 📺 Julian Goldie SEO
 
-👁️ 12K • 👍 347 • 💬 31 • ⏱️ 8:07 • 18h ago
+👁️ 12K • 👍 347 • 💬 31 • ⏱️ 8:07 • 19h ago
 
 ---
 
@@ -310,7 +310,7 @@ National security and defense expert John Arquilla joins “Jesse Weber Live” 
 
 📺 NewsNation
 
-👁️ 3K • 👍 35 • 💬 5 • ⏱️ 3:59 • 18h ago
+👁️ 3K • 👍 35 • 💬 5 • ⏱️ 3:59 • 19h ago
 
 ---
 
@@ -330,7 +330,7 @@ Microsoft just launched MAI-Transcribe-1, MAI-Voice-1, and MAI-Image-2, though t
 
 📺 AI Revolution
 
-👁️ 23K • 👍 665 • 💬 49 • ⏱️ 10:31 • 23h ago
+👁️ 23K • 👍 665 • 💬 49 • ⏱️ 10:31 • 1d ago
 
 ---
 
@@ -370,7 +370,7 @@ Check out what people are creating (and selling!) with Claude AI - it's crazy...
 
 📺 Wholesale Ted
 
-👁️ 2K • 👍 341 • 💬 25 • ⏱️ 15:19 • 2h ago
+👁️ 2K • 👍 341 • 💬 25 • ⏱️ 15:19 • 3h ago
 
 ---
 
@@ -456,7 +456,7 @@ Bonsai-8B-GGUF is a highly compressed 1-bit language model (1.15 GB) optimized f
 
 `text-generation` `8.2B`
 
-⬇️ 52,632 • ❤️ 494 • 4h ago
+⬇️ 52,632 • ❤️ 494 • 5h ago
 
 ---
 
@@ -653,7 +653,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 17.4k • 🔱 3.3k • 5h ago
+⭐ 17.4k • 🔱 3.3k • 6h ago
 
 ---
 
@@ -663,7 +663,7 @@ The highest-scoring AI memory system ever benchmarked. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 15.1k • 🔱 1.7k • 55m ago
+⭐ 15.1k • 🔱 1.7k • 1h ago
 
 ---
 
@@ -673,7 +673,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 14.0k • 🔱 1.3k • 4h ago
+⭐ 14.0k • 🔱 1.3k • 5h ago
 
 ---
 
@@ -703,7 +703,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 7.0k • 🔱 413 • 6h ago
+⭐ 7.0k • 🔱 413 • 7h ago
 
 ---
 
@@ -713,7 +713,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid
 
 `Python` `claude-code` `codex` `graphrag` `knowledge-graph` `openclaw`
 
-⭐ 6.3k • 🔱 639 • 1h ago
+⭐ 6.3k • 🔱 639 • 2h ago
 
 ---
 
@@ -723,7 +723,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 5.8k • 🔱 202 • 1h ago
+⭐ 5.8k • 🔱 202 • 2h ago
 
 ---
 
