@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-07T20:06:03.547231+00:00'
+updated: '2026-04-07T21:11:24.372739+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 07, 2026 at 20:06 UTC  
+**Last Updated:** April 07, 2026 at 21:11 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From NVIDIA Robotics on 𝕏: https://x.com/NVIDIARobotics/status/2041349314262495265 NVIDIA blog: https://blogs.nvidia.com/blog/national-robotics-week-2026/#maximo
 
-10h ago
+11h ago
 
 ---
 
@@ -44,7 +44,15 @@ From NVIDIA Robotics on 𝕏: https://x.com/NVIDIARobotics/status/20413493142624
 
 Generalist just dropped GEN-1, the first general-purpose robot Al that hits 99% success rate on tasks where older models managed only 64%. The wild part? It didn't learn from robots, it learned from humans wearing cameras doing everyday tasks. That data transfers to robots with minimal retraining.When things go wrong, it improvises regrasping, switching hands, adapting on the fly. No explicit programming.
 
-3h ago
+4h ago
+
+---
+
+**[Torobo Humanoid Robot by Tokyo Robotics](https://www.reddit.com/r/robotics/comments/1sf806y/torobo_humanoid_robot_by_tokyo_robotics/)**
+
+Torobo Humanoid Robot by Tokyo Robotics that looks like Atlas by Boston Dynamics. They recently switched their Torobo robot to become bipedal.
+
+32m ago
 
 ---
 
@@ -52,7 +60,7 @@ Generalist just dropped GEN-1, the first general-purpose robot Al that hits 99% 
 
 Worried about EoL IsaacGym and tired of setting up IsaacLab? I ported TWIST2 general motion tracking controller to MjLab that supports uv so really one click training/testing. It also uses MjWarp as the physics engine which IMO is better than physx which the Isaac frameworks defaulted to in the past. GitHub: lzyang2000/twist2_mjlab Link in comments, credits to original authors of MjLab and TWIST2
 
-3h ago
+4h ago
 
 ---
 
@@ -66,7 +74,7 @@ Worried about EoL IsaacGym and tired of setting up IsaacLab? I ported TWIST2 gen
 
 I need help in placing the components on the robot for the best way to balance it. Also I plan to scale to to something like a delivery robot for small payloads. Prolly, something in my room 😅 but I need help in understanding how these balancing robots work and how I should place my components to make this work.
 
-22h ago
+23h ago
 
 ---
 
@@ -74,7 +82,7 @@ I need help in placing the components on the robot for the best way to balance i
 
 I’m feeling really confused about where I stand right now and could use some guidance. I’ve just finished my 2nd year in Automation and Robotics, but honestly, I feel like I only know a little bit of everything and not enough of anything to confidently call it a real skill.I do well in my college curriculum but it doesn't guarantee I have skilled in it ( my opinion). I see so many people around me doing internships, certifications, research projects, and even gaining work experience, while I feel like I’m doing nothing meaningful in comparison, and it’s starting to get to me. I genuinely want to improve and make use of my time. I’m ready to put in consistent effort for the next 3–4 months, but I feel stuck because I don’t know what to focus on or where to begin. I’m unsure which skills actually matter in this field, how to go from basic understanding to real confidence, and how or where to even apply for internships as someone who still feels like a beginner. If anyone has been in a similar situation or has advice on how to move forward, I would really appreciate it. I just need some direction so I can stop feeling stuck and start making real progress.
 
-1h ago
+2h ago
 
 ---
 
@@ -82,7 +90,7 @@ I’m feeling really confused about where I stand right now and could use some g
 
 There are a lot of open jobs in automation right now, and a big part of the issue is that most people were never exposed to these careers in the first place. Robotics competitions are starting to change that. Programs like FIRST, VEX, and SkillsUSA give students hands-on experience with the same fundamentals used in industry. Mechanical design, programming, wiring, troubleshooting, sensors, motion systems. It’s not theoretical, they’re actually building and running systems. They also show how many different roles exist. Not everyone is coding. Some focus on design, some on integration, some on running the system or managing the team. When companies get involved through mentorships or sponsorships, it connects those skills directly to real careers. Internships, apprenticeships, and eventually full-time roles start to feel a lot more tangible.
 
-🔗 [Automate](https://www.automate.org/robotics/blogs/new-to-robotics-start-with-these-fundamentals) • 4h ago
+🔗 [Automate](https://www.automate.org/robotics/blogs/new-to-robotics-start-with-these-fundamentals) • 5h ago
 
 ---
 
@@ -90,7 +98,7 @@ There are a lot of open jobs in automation right now, and a big part of the issu
 
 pretty cool. want to test how much weight it can handle. This was inspired by colinfurze, he is an engineering YouTuber. My design is slightly different when compared to his. my bed tilts the other way, and i am using a lot smaller cylinders. anyways; i hope u guys watch when i release the full version. -Thanks
 
-🔗 [youtube.com](https://www.youtube.com/shorts/zKG5-5-94J4) • 9h ago
+🔗 [youtube.com](https://www.youtube.com/shorts/zKG5-5-94J4) • 10h ago
 
 ---
 
@@ -102,14 +110,6 @@ Very first proof of concept. This is going to be fun. It's still a bit slow to p
 
 ---
 
-**[Built a browser-based robot simulation — looking for honest feedback](https://www.reddit.com/r/robotics/comments/1seu8q1/built_a_browserbased_robot_simulation_looking_for/)**
-
-Built this browser-based robot simulation environment and recorded this short demo. Everything runs directly in the browser — no installation or setup required. Would really appreciate honest feedback: Does this feel useful? What would you expect from a tool like this? Anything confusing or missing? ![video](3yf5s7eifrtg1)
-
-7h ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -118,13 +118,19 @@ Built this browser-based robot simulation environment and recorded this short de
 
 New model can respond to disruptions and figure out moves it wasn't trained for.
 
-Ars Technica • 21h ago
+Ars Technica • 22h ago
 
 ---
 
 **[Asimov’s three laws of robotics survived 82 years, we broke them in 30 minutes, costs 80 cents, and then remade them](https://blog.adafruit.com/2026/04/05/asimovs-three-laws-of-robotics-survived-82-years-we-broke-them-in-30-minutes-costs-80-cents-and-then-remade-them/)**
 
-Adafruit • 2d ago
+blog.adafruit.com • 2d ago
+
+---
+
+**[Optimus time: Tesla makes big move in Fremont for global robotics hub](https://www.bizjournals.com/sanfrancisco/news/2026/04/06/tesla-fremont-optimus-robotics-factory.html)**
+
+The Business Journals • 1d ago
 
 ---
 
@@ -132,19 +138,7 @@ Adafruit • 2d ago
 
 Kraken announces the successful integration and demonstration of its KATFISH towed synthetic aperture sonar and autonomous launch and recovery system (LARS) from SEFINE’s RD-22 unmanned surface vessel
 
-navalnews.com • 7h ago
-
----
-
-**[Optimus time: Tesla makes big move in Fremont for global robotics hub](https://www.bizjournals.com/sanfrancisco/news/2026/04/06/tesla-fremont-optimus-robotics-factory.html)**
-
-bizjournals.com • 23h ago
-
----
-
-**[Cerebras Backer Eclipse Raises $1.3 Billion for Robotics, AI Infrastructure](https://www.bloomberg.com/news/articles/2026-04-07/cerebras-backer-eclipse-raises-1-3-billion-for-robotics-ai-infrastructure)**
-
-Bloomberg.com • 9h ago
+navalnews.com • 8h ago
 
 ---
 
@@ -152,23 +146,21 @@ Bloomberg.com • 9h ago
 
 Japan is looking to become the dominant source of robotics by 2040, expedited by an aging population and a growing need for labor.
 
-Fortune • 23h ago
+Fortune • 1d ago
 
 ---
 
-**[The next darlings of San Francisco’s AI real estate boom: Robots](https://sfstandard.com/2026/04/06/robotics-san-francisco-ai-boom/)**
+**[Cerebras Backer Eclipse Raises $1.3 Billion for Robotics, AI Infrastructure](https://www.bloomberg.com/news/articles/2026-04-07/cerebras-backer-eclipse-raises-1-3-billion-for-robotics-ai-infrastructure)**
 
-Funding data and leasing activity show that companies using the groundbreaking tech on the physical world are having their moment.
-
-The San Francisco Standard • 1d ago
+Bloomberg.com • 10h ago
 
 ---
 
-**[The Hidden System Turning Chinese Tech Companies into Military Suppliers](https://warontherocks.com/2026/04/the-hidden-system-turning-chinese-tech-companies-into-military-suppliers-2/)**
+**[Neurobots: Living robots now have brains that guide how they move](https://interestingengineering.com/ai-robotics/neurobots-living-robots-with-nervous-system)**
 
-In October 2022, Unitree Robotics joined Boston Dynamics, Agility Robotics, and three other firms in signing an open letter pledging not to weaponize
+Scientists build living robots with functional nervous systems, giving biological machines internal control.
 
-War on the Rocks • 12h ago
+Interesting Engineering • 18h ago
 
 ---
 
@@ -180,11 +172,19 @@ Business Insider • 1d ago
 
 ---
 
-**[Neurobots: Living robots now have brains that guide how they move](https://interestingengineering.com/ai-robotics/neurobots-living-robots-with-nervous-system)**
+**[The Hidden System Turning Chinese Tech Companies into Military Suppliers](https://warontherocks.com/2026/04/the-hidden-system-turning-chinese-tech-companies-into-military-suppliers-2/)**
 
-Scientists build living robots with functional nervous systems, giving biological machines internal control.
+In October 2022, Unitree Robotics joined Boston Dynamics, Agility Robotics, and three other firms in signing an open letter pledging not to weaponize
 
-Interesting Engineering • 17h ago
+War on the Rocks • 13h ago
+
+---
+
+**[The next darlings of San Francisco’s AI real estate boom: Robots](https://sfstandard.com/2026/04/06/robotics-san-francisco-ai-boom/)**
+
+Funding data and leasing activity show that companies using the groundbreaking tech on the physical world are having their moment.
+
+sfstandard.com • 1d ago
 
 ---
 
@@ -198,17 +198,27 @@ Shawn Ryan gets hands-on with a real humanoid robot powered entirely by AI. In t
 
 📺 Shawn Ryan Show
 
-👁️ 1.2M • 👍 41K • 💬 6K • ⏱️ 8:48 • 5d ago
+👁️ 1.2M • 👍 41K • 💬 6K • ⏱️ 8:48 • 6d ago
 
 ---
 
-**[Xiaomi’s New AI Robot Hand Works Like a REAL Human… This Is INSANE](https://www.youtube.com/watch?v=Ubpk3tOl9gw)**
+**[Yaskawa&#39;s Humanoid Robot Gets Legs and Better AI #robotics #humanoidrobot #robot](https://www.youtube.com/watch?v=Fmi7Fcksz-4)**
 
-Xiaomi just dropped a robotic hand so realistic, it might fool you into thinking it's human — and that's just the START of what's ...
+Japan's Torobo humanoid robot is moving toward full autonomy with its new legs. Tokyo Robotics just shared footage of its ...
+
+📺 Kalil 4.0
+
+👁️ 355 • 👍 21 • ⏱️ 0:46 • 1h ago
+
+---
+
+**[These NEW Human-Like AI Robots of 2026 Just SHOCKED the World!](https://www.youtube.com/watch?v=FOfieag6fi4)**
+
+The world wasn't ready for what 2026 had in store — a wave of humanoid robots so advanced, so eerily lifelike, that the line ...
 
 📺 The AI Nexus
 
-👁️ 4K • 👍 189 • 💬 13 • ⏱️ 20:43 • 6d ago
+👁️ 6K • 👍 228 • 💬 16 • ⏱️ 16:42 • 1d ago
 
 ---
 
@@ -218,55 +228,7 @@ US startup Foundation is developing humanoid robots for military use. The goal i
 
 📺 DW News
 
-👁️ 64K • 👍 515 • 💬 84 • ⏱️ 1:22 • 1d ago
-
----
-
-**[Essential Things to Know Before Buying a Robot Mower!](https://www.youtube.com/watch?v=lbibuVIo84Y)**
-
-The era of the Robot Mower is here and after 6 months of intensive use I feel I am now in a position to update everyone on both ...
-
-📺 Proper DIY
-
-👁️ 31K • 👍 2K • 💬 118 • ⏱️ 11:47 • 2d ago
-
----
-
-**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=4KM9QWO5__Q)**
-
-📺 Robot Julie 
-
-👁️ 23K • 👍 105 • 💬 1 • ⏱️ 0:23 • 19h ago
-
----
-
-**[It’s getting way too real... #shorts](https://www.youtube.com/watch?v=RMWZeBG_Cfk)**
-
-Most robots use noisy motors and clunky gears... but this one has MUSCLES. Clone Robotics is changing everything with their ...
-
-📺 Luboky
-
-👁️ 641 • 👍 18 • 💬 1 • ⏱️ 1:17 • 1h ago
-
----
-
-**[This Robot Mows Your Lawn… No Human Needed](https://www.youtube.com/watch?v=sNiAJ76cYcI)**
-
-The Airseekers Tron robotic lawn mower, might be one of the most unusual lawn mowers I've ever tested. The Airseekers Tron is ...
-
-📺 Kurious Kritic
-
-👁️ 25K • 👍 24 • 💬 3 • ⏱️ 6:55 • 3d ago
-
----
-
-**[The Coolest Robot on the Planet 🤯](https://www.youtube.com/watch?v=t37TaaFsHDM)**
-
-Join this channel to get access to perks: https://www.youtube.com/channel/UCkoujZQZatbqy4KGcgjpVxQ/join Support the Shawn ...
-
-📺 Shawn Ryan Show
-
-👁️ 970K • 👍 23K • 💬 2K • ⏱️ 0:44 • 7d ago
+👁️ 65K • 👍 521 • 💬 92 • ⏱️ 1:22 • 1d ago
 
 ---
 
@@ -276,7 +238,17 @@ Welch Labs Book: https://www.welchlabs.com/resources/ai-book-ezrzm-msrmc Book & 
 
 📺 Welch Labs
 
-👁️ 86K • 👍 4K • 💬 218 • ⏱️ 35:02 • 3d ago
+👁️ 87K • 👍 4K • 💬 221 • ⏱️ 35:02 • 3d ago
+
+---
+
+**[Essential Things to Know Before Buying a Robot Mower!](https://www.youtube.com/watch?v=lbibuVIo84Y)**
+
+The era of the Robot Mower is here and after 6 months of intensive use I feel I am now in a position to update everyone on both ...
+
+📺 Proper DIY
+
+👁️ 31K • 👍 2K • 💬 120 • ⏱️ 11:47 • 2d ago
 
 ---
 
@@ -286,7 +258,37 @@ Joe Rogan Watches Soldier Test INSANE Robotic Legs #Shorts This is the future of
 
 📺 Silent Sentry
 
-👁️ 1.6M • 👍 20K • 💬 510 • ⏱️ 0:17 • 4d ago
+👁️ 1.6M • 👍 21K • 💬 520 • ⏱️ 0:17 • 4d ago
+
+---
+
+**[NEW MELEE ROBOT IN A NEW HANGAR — War Robots 12.0 Overview](https://www.youtube.com/watch?v=9vOcLtVo_Zg)**
+
+Get the update on your app store: https://wr.my.games/play ➡️ Get the update through the official APK: ...
+
+📺 War Robots [WR]
+
+👁️ 29K • 👍 1K • 💬 340 • ⏱️ 3:58 • 8h ago
+
+---
+
+**[Don&#39;t Waste Money On An Expensive Robot Vacuum!](https://www.youtube.com/watch?v=sMt_jOouNeM)**
+
+A flagship robot vacuum might be out your budget. We tested the affordable Dreame D30 Ultra. ✔️ Buy it on Amazon ...
+
+📺 Vacuum Nerds
+
+👁️ 5K • 👍 73 • 💬 30 • ⏱️ 8:48 • 3d ago
+
+---
+
+**[I Spent 100 Hours In China&#39;s Robot City](https://www.youtube.com/watch?v=PXGK_MFShXU)**
+
+I spent 100 hours in the world's most futuristic city! WATCH MORE videos we filmed in China ▸ https://youtu.be/elF_v9sukWU ...
+
+📺 Hafu Go
+
+👁️ 649K • 👍 7K • 💬 258 • ⏱️ 25:46 • 3d ago
 
 ---
 

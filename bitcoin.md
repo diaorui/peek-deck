@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-07T20:06:03.538037+00:00'
+updated: '2026-04-07T21:11:24.364808+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
 - videos
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 07, 2026 at 20:06 UTC  
+**Last Updated:** April 07, 2026 at 21:11 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $69,392.21
+### $69,720.90
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** +1.9%  
-**30d:** +1.5%  
-**90d:** -23.9%  
-**1y:** -9.4%  
+**24h:** +1.6%  
+**7d:** +2.7%  
+**30d:** +2.3%  
+**90d:** -23.2%  
+**1y:** -8.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1369.21B
+**Market Cap:** $1395.18B
 Rank #1
 
-**Circulating Supply:** 20,012,731 BTC
+**Circulating Supply:** 20,012,765 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--45.7%
+-44.6%
 
 **All-Time Low:** $67.81
-+100804.0%
++102958.5%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[bitcoin provides mathematical certainty in a world that is more fake and uncertain than ever. There will only be 21,000,000 bitcoin, forever](https://www.reddit.com/r/Bitcoin/comments/1sezsdb/bitcoin_provides_mathematical_certainty_in_a/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -87,15 +87,23 @@ Rank #1
 
 Loading before launch
 
-5h ago
+6h ago
+
+---
+
+**[Strategy Acquires 4,871 BTC and Now Holds 766,970 BTC](https://www.reddit.com/r/Bitcoin/comments/1sf5rbn/strategy_acquires_4871_btc_and_now_holds_766970/)**
+
+Strategy has acquired 4,871 BTC for ~$329.9 million at ~$67,718 per bitcoin. As of 4/5/2026, we hold 766,970 BTC acquired for ~$58.02 billion at ~$75,644 per bitcoin.
+
+🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-4871-btc-and-now-holds-766970-btc_04-06-2026) • 1h ago
 
 ---
 
 **[Wallet of Satoshi now lets you use a self-custodial wallet with seamless access to the Lightning Network, thanks to Spark the new high speed L2 solution!](https://www.reddit.com/r/Bitcoin/comments/1sf1qcr/wallet_of_satoshi_now_lets_you_use_a/)**
 
-There is a lot to talk about, but if you want to read more: https://www.xverse.app/blog/what-is-spark-bitcoin-l2 quick TL;DR: Spark is a Bitcoin L2 designed for fast, cheap, and self-custodial transactions, leveraging statechain tech and atomic swaps. Spark supports the issuance and transfer of stablecoins and tokens on Bitcoin, enabling new financial use cases such as payments, trading, and earning stablecoin yield. Spark provides a scalable ecosystem for wallets, developers, and businesses to build financial apps interoperable with Lightning Network and Taproot Assets. Wallet of Satoshi now integrates Spark, letting you create a self-custodial wallet, secure your 12 word seed, and seamlessly send/receive BTC on the Lightning Network while staying fully in control of your funds. hope many other lightning wallets such as Strike, Blink, Speed, Coinos implement Spark Welcome to the new era of scalability of BTC!
+There is a lot to talk about, but if you want to read more: https://www.xverse.app/blog/what-is-spark-bitcoin-l2 quick TL;DR: Spark is a Bitcoin L2 designed for fast, cheap, and self-custodial transactions, leveraging statechain tech and atomic swaps. Spark supports the issuance and transfer of stablecoins and tokens on Bitcoin, enabling new financial use cases such as payments, trading, and earning stablecoin yield. Spark provides a scalable ecosystem for wallets, developers, and businesses to build financial apps interoperable with Lightning Network and Taproot Assets. Wallet of Satoshi now integrates Spark, letting you create a self-custodial wallet, secure your 12 word seed, and seamlessly send/receive BTC on the Lightning Network while staying fully in control of your funds. hope many other lightning wallets such as Strike, Blink, Speed, Coinos implement Spark Welcome to the new era of scalability of BTC! Edit: After using the WoS self custody option with Spark, I noticed that WoS shows all your history with your Spark Key to the public, meaning that you should create your wallet in another app that has the privacy option as default such as Cake Wallet and then import your wallet to WoS.
 
-3h ago
+4h ago
 
 ---
 
@@ -109,7 +117,7 @@ There is a lot to talk about, but if you want to read more: https://www.xverse.a
 
 I just know it. So I won't buy just so the rest of you can make some money.
 
-23h ago
+1d ago
 
 ---
 
@@ -117,7 +125,13 @@ I just know it. So I won't buy just so the rest of you can make some money.
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/6tkKoMEiFDk?si=apOVGifqYreR3Pfm) • 2h ago
+🔗 [youtu.be](https://youtu.be/6tkKoMEiFDk?si=apOVGifqYreR3Pfm) • 4h ago
+
+---
+
+**[I think Satoshi Nakamoto is Alive](https://www.reddit.com/r/Bitcoin/comments/1sevvni/i_think_satoshi_nakamoto_is_alive/)**
+
+7h ago
 
 ---
 
@@ -125,7 +139,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 There’s a post near the top of this sub right now where someone sent Bitcoin to their Trezor and the wallet showed empty. They panicked. Turns out their Bitcoin wasn’t gone — it was in their passphrase wallet. They hadn’t known they created one. That’s the most common failure pattern in hardware wallet support forums, and it almost never gets explained at setup. Here’s what’s actually happening and three other traps that catch people the same way. The passphrase trap When you set up a Trezor using Trezor Suite, the passphrase feature is on by default. A passphrase — sometimes called the 25th word — creates a completely separate wallet derived from your seed. Any input during setup creates one. An accidental keystroke creates one. If you set a passphrase and don’t write it down, that passphrase is gone forever — and so is everything in that wallet. Your seed phrase alone opens a different, empty wallet. No error message. Nothing to indicate anything is wrong. Trezor’s support forums have dozens of threads that all read identically: “I have my seed, I’ve tried everything, balance is zero.” In most cases the passphrase was set accidentally during initial setup. Different software generates different addresses from the same seed This sounds impossible but it’s documented repeatedly. There are multiple standards for how wallet software derives addresses from a seed phrase — BIP-44, BIP-49, BIP-84 are the common ones — and different apps default to different ones. One user bought Bitcoin through Exodus paired with a Trezor in 2021. Exodus defaulted to P2SH-SegWit (m/49’/0’/0’). Trezor Suite defaults to Native SegWit (m/84’/0’/0’). Four years later, a firmware update forced a reset. The user opened Trezor Suite instead of reconnecting through Exodus. Empty wallet. His Bitcoin was on-chain and accessible — completely invisible to the software he was now using. Valid seed. Right device. Zero balance. This is not a bug. It’s two correct implementations of different standards. Electrum does not speak the same language as your hardware wallet If you ever try to import your Trezor or Ledger seed into Electrum as a backup option, it will show an empty wallet. Electrum uses a proprietary seed format and deliberately does not support BIP-39 — the standard your hardware wallet uses. To get it working you have to click a hidden “Options” button during seed entry, select “BIP39 seed,” then manually enter the derivation path your original wallet used. Without those steps, Electrum opens a valid empty wallet with no explanation. The Electrum developers are aware of this and consider it a feature. What to actually write down alongside your seed phrase The seed is the starting point, not the whole picture. What you also need documented somewhere safe: Which device and software you used to set up the wallet (Trezor Suite, Ledger Live, Electrum, etc.) Whether a passphrase was set — and if yes, exactly what it was, case-sensitive Which address format was used (Legacy, SegWit, Native SegWit, Taproot) — your software may show this during setup The derivation path if you can find it — usually visible in advanced settings That context, stored with your seed backup, is what makes the difference between recovery taking five minutes and recovery being impossible.
 
-22h ago
+23h ago
 
 ---
 
@@ -133,21 +147,7 @@ There’s a post near the top of this sub right now where someone sent Bitcoin t
 
 In two days, on Wednesday April 8th, a handful of Bitcoin Core developers are going to be doing a demonstration of “attack blocks” designed to take an inordinate amount of time to verify on Signet. The demonstration will take place at 10 AM EST (2 PM UTC). Anyone who wishes to participate can run Bitcoin Core node on Signet and watch the blocks be mined and processed by their node in real-time. Instructions can be found here to spin up a node and follow along (including how to check your node’s logs to see the verification times for the attack blocks). The demonstration is not going to show the worst case of the attack (the script and transaction structure required has not been publicly revealed to not give malicious actors even more information about the attack), but it will produce blocks that take orders of magnitude more time to verify than your average block. The aim of the demonstration is to show users the severity of one of the four severe consensus vulnerabilities that the Great Consensus Cleanup aims to address with BIP 54. Two more demonstrations will take place at 6 PM EST (10 PM UTC) on April 8th, and at 5 AM EST (9 AM UTC) on April 9th, to allow for Bitcoin users in different global timezones to directly participate as well. The Signet blockchain is currently at around 32-33 GB, so if you have any device with ample storage space, go ahead and spin up a Signet node to participate. For your awareness the following software patch was quickly put together for this demonstration and not audited thoroughly (though it is just a basic terminal based-GUI). If you are spinning up a brand new Signet node just for this demonstration on a machine without any funds on it, you should be fine even if you are the paranoid type like me. For those who don’t want to just poke at log files, AJ Towns provided a patch to the “bitcoin-tui” project, a Terminal based GUI for Bitcoin Core to display the attack blocks during the demonstration. The project creator is working on a proper release in time for the demonstration, but you can also compile it yourself. Run these commands on Linux (git commands will work on other OSes, and you should be able to find the equivalent CLI commands for your OS easily online): git clone https://github.com/ajtowns/bitcoin-tui.git cd bitcoin-tui git switch 202604-bip54blocks From there you should be able to just follow the build instructions at the repository here. After compiling, make sure your bitcoind has “server=1” set in the config file, and start up bitcoin-tui. You should find a “Slow Blocks” tab on the right of the top bar.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/demonstration-of-attack-blocks-on-bitcoins-signet-test-network) • 14h ago
-
----
-
-**[I think Satoshi Nakamoto is Alive](https://www.reddit.com/r/Bitcoin/comments/1sevvni/i_think_satoshi_nakamoto_is_alive/)**
-
-6h ago
-
----
-
-**[Anyone else noticed different payouts between mining pools?](https://www.reddit.com/r/Bitcoin/comments/1sf0kfj/anyone_else_noticed_different_payouts_between/)**
-
-Not trying to start anything — just genuinely curious. I’ve been looking a bit closer at my setup lately, and it got me thinking… Everyone talks about: hash rate power cost …but I don’t see as many people comparing actual pool payouts over time. For example: Two pools might say: 1% fee vs 2% fee But does that really translate to better returns? Things like: luck stale shares payout method (FPPS vs PPLNS) seem like they could make a bigger difference than the fee itself. I haven’t done a super deep analysis yet, but I feel like I’ve seen small differences depending on the pool. Could just be variance though. Curious what others here have experienced: Have you ever tested multiple pools side-by-side? Did you notice any real difference in payouts? Do you stick with one pool or rotate? Not saying anything is “wrong” with any pool — just trying to understand if I’m overthinking this or if there’s actually something here.
-
-3h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/demonstration-of-attack-blocks-on-bitcoins-signet-test-network) • 15h ago
 
 ---
 
@@ -159,59 +159,7 @@ Not trying to start anything — just genuinely curious. I’ve been looking a b
 
 Despite billions in purchases, MSTR demand is being outweighed by long term holder positioning and broader capital flows.
 
-CoinDesk • 8h ago
-
----
-
-**[Bitcoin Topped $70,000 Today. More Wall Street Firms Are Building Up Crypto Services](https://www.investopedia.com/bitcoin-topped-usd70-000-today-more-wall-street-firms-are-building-up-crypto-services-11943355)**
-
-The price of bitcoin climbed toward $70,000 amid reports of potential ceasefire discussions between the U.S. and Iran.
-
-Investopedia • 1d ago
-
----
-
-**['Captive Audience' Could Drive Demand for Morgan Stanley's Bitcoin ETF: Bloomberg Analyst](https://finance.yahoo.com/markets/crypto/articles/captive-audience-could-drive-demand-193855997.html)**
-
-Morgan Stanley is joining the Bitcoin ETF party late, but Bloomberg's Eric Balchunas says the investment bank isn't showing up empty-handed.
-
-Yahoo Finance • 27m ago
-
----
-
-**[Bitcoin Slides With Risk Assets as Trump’s Iran Ultimatum Looms](https://www.bloomberg.com/news/articles/2026-04-07/bitcoin-slides-with-risk-assets-as-trump-s-iran-ultimatum-looms)**
-
-Bloomberg.com • 6h ago
-
----
-
-**[Bitcoin Tops $70,000 on Optimism Over Possible Iran Ceasefire](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ticks-even-trump-iran-025044624.html)**
-
-(Bloomberg) -- Bitcoin rose in early trading Monday as investors weighed reports that Iran was seeking a ceasefire in the war, even as US President Donald Trump escalated threats to attack civilian infrastructure.The original cryptocurrency was up as much as 2.8%, trading around $69,300 at 9:35 a.m. in London. Ether, the second-largest digital asset, rose as much as 3.7%. Nearly $200 million of bearish bets were unwound for cryptocurrencies in the last 24 hours, according to Coinglass data.Trump
-
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin has been the 'shining light' during the Iran war, says Anthony Pompliano](https://www.cnbc.com/video/2026/04/07/bitcoin-has-been-the-shining-light-during-the-iran-war-says-anthony-pompliano.html)**
-
-Anthony Pompliano, ProCap Financial CEO, joins 'Squawk Box' to discuss bitcoin's performance amid the Iran war, global bitcoin adoption, his company's latest agentic AI financial services, and more.
-
-CNBC • 8h ago
-
----
-
-**[‘A Major Mistake’—Bitcoin Is Suddenly Braced For A Federal Reserve Price ‘Surprise’](https://www.forbes.com/sites/digital-assets/2026/04/06/bitcoin-is-suddenly-braced-for-a-federal-reserve-price-surprise/)**
-
-Forbes • 1d ago
-
----
-
-**[Bitcoin whale moves over $20 million worth of BTC to Binance](https://www.theblock.co/post/396504/bitcoin-whale-moves-20-million-worth-btc)**
-
-Between January and March 2025, the wallet accumulated 513 BTC, worth $50 million at the time, according to Arkham data.
-
-The Block • 11h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -223,11 +171,63 @@ Fortune • 1d ago
 
 ---
 
+**[Bitcoin Slides With Risk Assets as Trump’s Iran Ultimatum Looms](https://www.bloomberg.com/news/articles/2026-04-07/bitcoin-slides-with-risk-assets-as-trump-s-iran-ultimatum-looms)**
+
+Bloomberg.com • 7h ago
+
+---
+
+**['Captive Audience' Could Drive Demand for Morgan Stanley's Bitcoin ETF: Bloomberg Analyst](https://finance.yahoo.com/markets/crypto/articles/captive-audience-could-drive-demand-193855997.html)**
+
+Morgan Stanley is joining the Bitcoin ETF party late, but Bloomberg's Eric Balchunas says the investment bank isn't showing up empty-handed.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Spot bitcoin ETFs report largest single-day inflow in six weeks, worth $471 million](https://www.theblock.co/post/396499/bitcoin-etfs-largest-day-inflow-six-weeks)**
+
+The return in inflows reflects renewed confidence among institutional participants in the crypto market, analysts said.
+
+theblock.co • 14h ago
+
+---
+
+**[‘A Major Mistake’—Bitcoin Is Suddenly Braced For A Federal Reserve Price ‘Surprise’](https://www.forbes.com/sites/digital-assets/2026/04/06/bitcoin-is-suddenly-braced-for-a-federal-reserve-price-surprise/)**
+
+Forbes • 1d ago
+
+---
+
+**[Even A 1% Bitcoin Allocation Can Drastically Reshape Portfolio Risk, Schwab Finds](https://bitcoinmagazine.com/news/schwab-even-a-1-bitcoin-allocation)**
+
+A new Charles Schwab research note reframes the question of crypto allocation as less about forecasting returns and more about an investor’s tolerance for volatility.
+
+Bitcoin Magazine • 4h ago
+
+---
+
+**[Bitcoin Topped $70,000 Today. More Wall Street Firms Are Building Up Crypto Services](https://www.investopedia.com/bitcoin-topped-usd70-000-today-more-wall-street-firms-are-building-up-crypto-services-11943355)**
+
+The price of bitcoin climbed toward $70,000 amid reports of potential ceasefire discussions between the U.S. and Iran.
+
+Investopedia • 1d ago
+
+---
+
 **['A Hurricane Coming': Bitcoin Could Fall to $10K This Year, Says Bloomberg Analyst](https://decrypt.co/363398/hurricane-coming-bitcoin-fall-10k-bloomberg-analyst)**
 
 Bloomberg’s Mike McGlone argued that Bitcoin could fall as the crypto market purges market excesses that coincided with the pandemic-era boom.
 
 Decrypt • 1d ago
+
+---
+
+**[The ETF easy button for Bitcoin (and the fine print you need to read)](https://nypost.com/business/spot-bitcoin-etf-pros-cons-guide/)**
+
+Bitcoin ETFs offer the convenience of buying crypto from your standard brokerage account, but what are investors giving up for the privilege?
+
+New York Post • 12h ago
 
 ---
 
@@ -259,6 +259,14 @@ Bitcoin needs to fix this in the next three years.
 
 ---
 
+**[Bitcoin and Quantum Computing](https://news.ycombinator.com/item?id=47681274)**
+
+Neha Narula
+
+⬆️ 5 • 💬 1 • 15m ago • [nehanarula.org](https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html)
+
+---
+
 **[Moody's Prices Bitcoin at a 28% Haircut](https://news.ycombinator.com/item?id=47628597)**
 
 April 03, 2026 - A new $100 million bond deal reveals exactly how traditional finance values BTC as collateral. The numbers are sobering, and the
@@ -281,7 +289,7 @@ April 03, 2026 - A new $100 million bond deal reveals exactly how traditional fi
 
 **[Bitcoin developers are mostly not concerned about quantum risk](https://news.ycombinator.com/item?id=47667515)**
 
-⬆️ 2 • 💬 0 • 22h ago • [murmurationstwo.substack.com](https://murmurationstwo.substack.com/p/bitcoin-developers-are-mostly-not)
+⬆️ 2 • 💬 0 • 23h ago • [murmurationstwo.substack.com](https://murmurationstwo.substack.com/p/bitcoin-developers-are-mostly-not)
 
 ---
 
@@ -299,27 +307,9 @@ Test your prediction skills against historical data. Draw your forecast and see 
 
 ---
 
-**[Show HN: I had no idea I twirled my hair 25 times an hour until my Mac told me](https://news.ycombinator.com/item?id=47677942)**
-
-TicTicBoom locks your screen when it spots habits like nail biting or hair twirling so you can reset.
-
-⬆️ 4 • 💬 0 • 3h ago • [ticticboom.app](https://www.ticticboom.app/)
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
-
-**[BRACE YOURSELF... Crypto is about to get ABSOLUTELY CRAZY!](https://www.youtube.com/watch?v=0b0OkhhPaLc)**
-
-BRACE YOURSELF... Crypto is about to get ABSOLUTELY CRAZY! For more info on BTQ Bitcoin Quantum research: ...
-
-📺 Altcoin Daily
-
-👁️ 39K • 👍 2K • 💬 386 • ⏱️ 9:57 • 20h ago
-
----
 
 **[Bitcoin has been the &#39;shining light&#39; during the Iran war, says Anthony Pompliano](https://www.youtube.com/watch?v=GFriZiEByWk)**
 
@@ -327,7 +317,7 @@ Anthony Pompliano, ProCap Financial CEO, joins 'Squawk Box' to discuss bitcoin's
 
 📺 CNBC Television
 
-👁️ 6K • 👍 91 • 💬 67 • ⏱️ 5:56 • 6h ago
+👁️ 8K • 👍 110 • 💬 92 • ⏱️ 5:56 • 7h ago
 
 ---
 
@@ -337,47 +327,17 @@ Bitcoin stuck as Trump Iran deal nears dangerous point. BITUNIX TRADE THE TOP CO
 
 📺 Lark Davis
 
-👁️ 14K • 👍 740 • 💬 70 • ⏱️ 10:20 • 8h ago
+👁️ 15K • 👍 785 • 💬 76 • ⏱️ 10:20 • 9h ago
 
 ---
 
-**[The Big Print Is Coming &amp; Bitcoin Will Still Fail You...](https://www.youtube.com/watch?v=cv9sJMGOoR4)**
+**[BRACE YOURSELF... Crypto is about to get ABSOLUTELY CRAZY!](https://www.youtube.com/watch?v=0b0OkhhPaLc)**
 
-Could the oil crisis Break Bitcoin? Insider oil tracking just hit $173 a barrel and physical Brent is already at $141. The Big Print is ...
+BRACE YOURSELF... Crypto is about to get ABSOLUTELY CRAZY! For more info on BTQ Bitcoin Quantum research: ...
 
-📺 Simply Bitcoin
+📺 Altcoin Daily
 
-👁️ 26K • 👍 2K • 💬 435 • ⏱️ 16:01 • 1d ago
-
----
-
-**[BITCOIN: THEY ARE DUMPING LIKE CRAZY!!!](https://www.youtube.com/watch?v=a0k-xWRMAw8)**
-
-YUBIT https://ckenny.com/YUBITMAIN (NEW $20000 Bonus!!!) MY STOCK CHANNEL ...
-
-📺 Conor Kenny
-
-👁️ 7K • 👍 389 • 💬 60 • ⏱️ 13:34 • 10h ago
-
----
-
-**[BITCOIN: This Rejection Says It ALL! (bad news) - BTC Price Prediction Today](https://www.youtube.com/watch?v=pAxVrVFSMYA)**
-
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
-
-📺 BitcoinHyper
-
-👁️ 7K • 👍 508 • 💬 39 • ⏱️ 13:03 • 10h ago
-
----
-
-**[my HONEST 2026 bitcoin price prediction... [you might not like it]](https://www.youtube.com/watch?v=Iknd8WcG44k)**
-
-Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bitunix ...
-
-📺 Tyler S
-
-👁️ 13K • 👍 700 • 💬 675 • ⏱️ 13:45 • 1d ago
+👁️ 41K • 👍 3K • 💬 398 • ⏱️ 9:57 • 22h ago
 
 ---
 
@@ -387,7 +347,7 @@ Something big just shifted behind the scenes and most people missed it. BlackRoc
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 152 • ⏱️ 21:33 • 22h ago
+👁️ 26K • 👍 2K • 💬 128 • ⏱️ 21:33 • 23h ago
 
 ---
 
@@ -395,7 +355,7 @@ Something big just shifted behind the scenes and most people missed it. BlackRoc
 
 📺 FreshandFit
 
-👁️ 81K • 👍 2K • 💬 48 • ⏱️ 0:34 • 1d ago
+👁️ 82K • 👍 2K • 💬 43 • ⏱️ 0:34 • 1d ago
 
 ---
 
@@ -405,7 +365,47 @@ Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro max, and th
 
 📺 Crypto Jebb
 
-👁️ 3K • 👍 182 • 💬 2 • ⏱️ 56:30 • 5h ago
+👁️ 3K • 👍 191 • 💬 19 • ⏱️ 56:30 • 6h ago
+
+---
+
+**[my HONEST 2026 bitcoin price prediction... [you might not like it]](https://www.youtube.com/watch?v=Iknd8WcG44k)**
+
+Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bitunix ...
+
+📺 Tyler S
+
+👁️ 13K • 👍 710 • 💬 677 • ⏱️ 13:45 • 1d ago
+
+---
+
+**[Bitcoin Reclaims $69K As Global Instability Ramps Up - Worst Yet To Come?](https://www.youtube.com/watch?v=tw9SqQ6P7Gc)**
+
+Bitcoin #Crypto #Finance Bitcoin uncertainty is rising fast as global instability continues to build across markets. A critical week of ...
+
+📺 The Wolf Of All Streets
+
+👁️ 21K • 👍 1K • 💬 486 • ⏱️ 1:05:40 • 1d ago
+
+---
+
+**[Michael Saylor on Bitcoin Bull Run | BTC Price Analysis, Forecast &amp; MSTR Stock Rally](https://www.youtube.com/watch?v=D69Hm0Xyv9E)**
+
+BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Сonference. A visionary Bitcoin ...
+
+📺 Marco Antonio Regil
+
+👁️ 1K • 👍 482 • 5m ago
+
+---
+
+**[4-Hour War Countdown. Bitcoin Sphere Of Control](https://www.youtube.com/watch?v=c6lGs2UKmWQ)**
+
+Things are looking bleak for this conflict so we MUST focus on what WE can actually CONTROL and what we CAN NOT. The links ...
+
+📺 Digital Asset News
+
+👁️ 2K • 👍 244 • 💬 20 • ⏱️ 15:05 • 1h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-07T20:06:03.544084+00:00'
+updated: '2026-04-07T21:11:24.369987+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
 - videos
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 07, 2026 at 20:06 UTC  
+**Last Updated:** April 07, 2026 at 21:11 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,121.02
+### $2,138.77
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.9%  
-**7d:** -0.9%  
-**30d:** +6.3%  
-**90d:** -31.9%  
-**1y:** +44.0%  
+**24h:** +1.7%  
+**7d:** +0.1%  
+**30d:** +7.4%  
+**90d:** -31.2%  
+**1y:** +45.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $251.87B
+**Market Cap:** $257.41B
 Rank #2
 
 **Circulating Supply:** 120,691,191 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--57.8%
+-56.8%
 
 **All-Time Low:** $0.43
-+481777.9%
++493739.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -80,13 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’ve had my eth staked for about 2 years now, net negative on the eth itself but I’ve gained what would be ≈4 percent more worth of ETH than I had before. To me it was the easiest way to stake given that I don’t have 32 eth. I appreciate the protocol for being a decentralized way to stake, heard there’s some liquidity issues in terms of getting your Eth back after staking but that’s a problem for the future. Anyone have any input on rocket pool?!
 
-5h ago
-
----
-
-**[Anthropic stayed quiet until someone showed Claude's thinking depth dropped 67%](https://www.reddit.com/r/ethereum/comments/1sf34o2/anthropic_stayed_quiet_until_someone_showed/)**
-
-2h ago
+6h ago
 
 ---
 
@@ -144,9 +138,25 @@ Hey all! Since my earlier post I've been rebuilding from the ground up, and your
 
 ---
 
+**[A modern CLI based Solidity transaction debugger and tracer](https://www.reddit.com/r/ethereum/comments/1sd4uuk/a_modern_cli_based_solidity_transaction_debugger/)**
+
+Hi all, I build a new kind of cli based solidity debugger you might find useful. During the few days easter break I finally could finish a long standing project I had in mind: a cli based solidity debugger and tracer. I used to use truffle-debug a lot, but the whole project got sunset (and was painfully slow anyways, but thats a different story). Foundry as a successor always made sense to me. Its fast, its git based, its a workhorse, never let me down so far. But I always missed a properly formatted easy to use tracer and debugger like we know it from tenderly, but cli based, with local, text based outputs. I wanted something a human and an LLM can use. So I built soldebug. You give it a transaction hash and it gives you a decoded stack trace: $ soldebug 0xe1c962... --rpc-url https://sepolia.infura.io/v3/... --project-dir ./myproject Transaction 0xe1c962...b53fb6 REVERTED (gas: 29.8K) Call Stack: TestToken.mint(arg0=0xdEadDEAD..., arg1=9e23) <- REVERT REVERT: MaxSupplyExceeded(9e23, 5e23) It replays the transaction locally using revm (same as Foundry), matches contracts from your local Foundry project, resolves proxy implementations (UUPS, transparent proxies), and can fetch external contract ABIs from Etherscan/Sourcify. All in Rust, same style as Foundry itself. It's a first version, really early, but maybe useful for other Ethereum devs. If you find it useful (or not), let me know, or generally, any feedback very welcome.
+
+🔗 [GitHub](https://github.com/tomw1808/soldebug) • 2d ago
+
+---
+
 ---
 
 ## Google News: "ethereum"
+
+**[Ethereum To $40K? Here's Why Standard Chartered's Digital Assets Research Chief Thinks So](https://finance.yahoo.com/markets/crypto/articles/ethereum-40k-heres-why-standard-203132632.html)**
+
+Ethereum is going to $40,000, Standard Chartered Global Head of Digital Assets Research Geoffrey Kendrick says. He said on an episode of the "Milk Road Macro" podcast released on March 24 that Ethereum will reach the price target by 2030,...
+
+Yahoo Finance • 1d ago
+
+---
 
 **[Tom Lee’s BitMine Nears 4% of Ethereum Supply as ETH Price Hits Weekly High](https://finance.yahoo.com/markets/crypto/articles/tom-lee-bitmine-nears-4-142958858.html)**
 
@@ -168,41 +178,17 @@ PR Newswire • 1d ago
 
 With a 6.8% gain, and outperforming both the S&P 500 and gold, Ethereum remains a strong wartime store of value," said Lee.
 
-The Block • 1d ago
-
----
-
-**[Bit Digital highlights 2025 results and strategic pivot to Ethereum and AI infrastructure](https://finance.yahoo.com/video/bit-digital-highlights-2025-results-170054245.html)**
-
-Bit Digital CEO Sam Tabar joined Steve Darling from Proactive to discuss the company’s 2025 financial results, its strategic shift away from Bitcoin mining, and its growing focus on Ethereum staking and AI infrastructure. The company reported approximately $115 million in revenue for 2025, reflecting a deliberate transformation of its business model. Tabar explained that Bit Digital Inc has been reallocating capital away from Bitcoin mining into higher-return opportunities, particularly Ethereum staking and high-performance computing (HPC). Ethereum has emerged as a core pillar of the company’s strategy, with holdings reaching approximately 155,000 ETH. The majority of these holdings are staked to generate yield, contributing to a significant increase in staking revenue. Tabar noted that “staking revenue actually increased by 300% this year,” highlighting the rapid expansion of this segment and its growing importance to overall performance. The company views Ethereum as programmable financial infrastructure, enabling both yield generation and deeper participation in network economics. Bit Digital is also expanding its exposure to AI infrastructure through its majority stake in WhiteFiber, while maintaining a disciplined approach to capital allocation. The company is actively evaluating acquisition opportunities aimed at building cash-generating businesses and establishing a long-term growth flywheel. Tabar emphasized that the company’s exit from Bitcoin mining is permanent, citing declining economics and capital inefficiencies across the sector as key drivers behind the decision. #proactiveinvestors #bitdigitalinc #nasdaq #btbt #Ethereum #ETHStaking #AIInfrastructure #HighPerformanceComputing #CryptoStrategy #DigitalAssets #Blockchain #StakingRewards #TechTransformation #WhiteFiber #AIGrowth #CloudComputing #CryptoMining #FinancialResults
-
-Yahoo Finance • 3h ago
+theblock.co • 1d ago
 
 ---
 
 **['Drop To $1,500'—Ethereum Suddenly Faces 60% Odds Of Losing Crown](https://www.forbes.com/sites/digital-assets/2026/04/06/drop-to-1500-ethereum-suddenly-faces-60-odds-of-losing-crown/)**
 
-Forbes • 17h ago
+Forbes • 18h ago
 
 ---
 
-**[Ethereum stablecoin supply hits $180B ATH: Is ETH demand mispriced?](https://seekingalpha.com/news/4573026-ethereum-stablecoin-supply-hits-180b-ath-is-eth-demand-mispriced)**
-
-Ethereum’s stablecoin supply hits ~$180B ATH and ETF inflows rise as whale money shifts to ETH.
-
-Seeking Alpha • 3h ago
-
----
-
-**[Current price of Ethereum for April 7, 2026](https://fortune.com/article/price-of-ethereum-04-07-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 7h ago
-
----
-
-**[ETH Up or Down - 5 Minutes](https://polymarket.com/event/eth-updown-5m-1775572200)**
+**[Ethereum Up or Down - 5 Minutes](https://polymarket.com/event/eth-updown-5m-1775592000)**
 
 Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
@@ -210,19 +196,35 @@ Polymarket • 1d ago
 
 ---
 
-**[Why Ethereum Was Creeping Higher on Monday](https://www.fool.com/investing/2026/04/06/why-ethereum-was-creeping-higher-on-monday/)**
+**[Why Are Bitcoin, Ethereum and XRP Prices Going Up Today?](https://www.tradingview.com/news/coinpedia:62c4540d7094b:0-why-are-bitcoin-ethereum-and-xrp-prices-going-up-today/)**
 
-There was short-lived optimism in the air about a potential resolution to the Iran war.
+Crypto markets are in the green on Monday, with Bitcoin, Ethereum and XRP all posting modest gains after weeks of subdued price action. Bitcoin is trading around $69,137, up 3% in 24 hours. Ethereum has climbed to $2,131, gaining nearly 4%. XRP is holding near $1.33, up roughly 2% on the day.Iran T…
 
-The Motley Fool • 19h ago
+TradingView • 1d ago
 
 ---
 
-**[Sharplink CIO reveals why holding unstaked Ethereum ‘doesn’t make sense’](https://www.thestreet.com/crypto/markets/sharplink-cio-reveals-why-holding-unstaked-ethereum-doesnt-make-sense)**
+**[Circle’s Arc Network Reveals Quantum Resistance Plans as Bitcoin, Ethereum Face Threat](https://decrypt.co/363395/circle-arc-network-quantum-resistance-bitcoin-ethereum-face-threat)**
 
-Matthew Sheffield says staking and ecosystem participation give Ethereum a utility and income angle that many digital assets lack.
+Circle’s upcoming Arc blockchain is gearing up for quantum resilience, revealing a multi-step roadmap to prepare for the looming threat.
 
-thestreet.com • 20h ago
+Decrypt • 1d ago
+
+---
+
+**[Current price of Ethereum for April 7, 2026](https://fortune.com/article/price-of-ethereum-04-07-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 8h ago
+
+---
+
+**[Ethereum stablecoin supply hits $180B ATH: Is ETH demand mispriced?](https://seekingalpha.com/news/4573026-ethereum-stablecoin-supply-hits-180b-ath-is-eth-demand-mispriced)**
+
+Ethereum’s stablecoin supply hits ~$180B ATH and ETF inflows rise as whale money shifts to ETH.
+
+seekingalpha.com • 4h ago
 
 ---
 
@@ -236,7 +238,7 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 6K • 👍 306 • 💬 113 • ⏱️ 11:38 • 1d ago
+👁️ 6K • 👍 308 • 💬 114 • ⏱️ 11:38 • 1d ago
 
 ---
 
@@ -246,17 +248,7 @@ This is huge for crypto, bitcoin, ethereum and the rest of the markets!!!!! ----
 
 📺 Thomas Kralow
 
-👁️ 21K • 👍 3K • 💬 40 • ⏱️ 9:21 • 1d ago
-
----
-
-**[Breaking: SEC Just Gave Crypto Tokens the Green Light](https://www.youtube.com/watch?v=3JnqhbbVERQ)**
-
-SEC Chair Paul Atkins confirmed yesterday that Regulation Crypto Assets -- Reg Crypto -- has reached the White House for final ...
-
-📺 VirtualBacon
-
-👁️ 1K • 👍 97 • 2h ago
+👁️ 22K • 👍 3K • 💬 40 • ⏱️ 9:21 • 1d ago
 
 ---
 
@@ -266,7 +258,17 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 246 • 👍 13 • 💬 1 • ⏱️ 4:29 • 10h ago
+👁️ 246 • 👍 13 • 💬 1 • ⏱️ 4:29 • 11h ago
+
+---
+
+**[EMERGENCY UPLOAD ‼️ BEST CRYPTOS TO BUY NOW 🔥 XRP DOGE ETHEREUM](https://www.youtube.com/watch?v=Oa5NBQqr2ec)**
+
+1️⃣ *Get Moe's Indicator Today + Discord (Code BREAD 10% OFF EARNER PLUS)* ...
+
+📺 Crypto Moe
+
+👁️ 138 • 👍 25 • 💬 1 • ⏱️ 11:34 • 21m ago
 
 ---
 
@@ -276,7 +278,7 @@ Get 5% off the BitBox02 and take your crypto off exchanges → https://bitbox.sw
 
 📺 Crypto Nutshell
 
-👁️ 9K • 👍 330 • 💬 49 • ⏱️ 19:32 • 2d ago
+👁️ 9K • 👍 330 • 💬 50 • ⏱️ 19:32 • 2d ago
 
 ---
 
@@ -286,17 +288,7 @@ In this video, I take a closer look at the current Ethereum market structure and
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 196 • 💬 14 • ⏱️ 13:46 • 1d ago
-
----
-
-**[BITCOIN JUST REVEALED THE NEXT MOVE (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=QMVicmnTASI)**
-
-BITCOIN JUST REVEALED THE NEXT MOVE (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
-
-📺 Crypto World
-
-👁️ 6K • 👍 247 • 💬 824 • ⏱️ 19:08 • 20h ago
+👁️ 3K • 👍 197 • 💬 14 • ⏱️ 13:46 • 1d ago
 
 ---
 
@@ -306,17 +298,17 @@ Which will perform better: Bitcoin, Ethereum, Solana, or XRP? This is one of the
 
 📺 Tim Warren
 
-👁️ 383 • 👍 13 • 💬 1 • ⏱️ 0:23 • 3h ago
+👁️ 635 • 👍 17 • 💬 1 • ⏱️ 0:23 • 4h ago
 
 ---
 
-**[CRYPTO LIVE TRADING || 7 APRIL  | ‪@ClockTraderlive‬ #bitcoin #ethereum #crypto #btclivetrading](https://www.youtube.com/watch?v=_o8lBULLqe4)**
+**[Ethereum: COSA SAPERE PRIMA DELLE ORE 2…](https://www.youtube.com/watch?v=X0fA6XMmVO4)**
 
-join my social platforms for updates and analysis ✓Instagram: ...
+GRATIS QUI LA GUIDA www.analisievoluta.com ETHEREUM: COSA SAPERE PRIMA DELLE ORE 2… Nuova analisi su ETH !
 
-📺 Aryan trader Live
+📺 Jacopo Marini
 
-👁️ 20K • 👍 2K • 💬 15 • ⏱️ 1:25:10 • 6h ago
+👁️ 134 • 👍 17 • ⏱️ 10:00 • 1h ago
 
 ---
 
@@ -327,6 +319,16 @@ Smart Contract Code, Deployment Guide and Telegram: https://svo.bz/etharbitrage 
 📺 Samuel Dev
 
 👁️ 7K • 💬 24 • ⏱️ 7:26 • 2d ago
+
+---
+
+**[XRP Can NEVER Join Bitcoin, Ethereum &amp; USDT – Here&#39;s the Shocking Reason (Market Cap Gap Exposed](https://www.youtube.com/watch?v=N4k-WN9PQTk)**
+
+XRP Can NEVER Join Bitcoin, Ethereum & USDT – Here's the Shocking Reason (Market Cap Gap Exposed In this video I break ...
+
+📺 CryptoWendyO
+
+👁️ 11K • 👍 629 • 💬 83 • ⏱️ 13:47 • 2d ago
 
 ---
 
