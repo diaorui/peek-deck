@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-07T10:56:58.922044+00:00'
+updated: '2026-04-07T11:55:47.598871+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 07, 2026 at 10:56 UTC  
+**Last Updated:** April 07, 2026 at 11:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From NVIDIA Robotics on 𝕏: https://x.com/NVIDIARobotics/status/2041349314262495265 NVIDIA blog: https://blogs.nvidia.com/blog/national-robotics-week-2026/#maximo
 
-1h ago
+2h ago
 
 ---
 
@@ -50,7 +50,7 @@ From NVIDIA Robotics on 𝕏: https://x.com/NVIDIARobotics/status/20413493142624
 
 I need help in placing the components on the robot for the best way to balance it. Also I plan to scale to to something like a delivery robot for small payloads. Prolly, something in my room 😅 but I need help in understanding how these balancing robots work and how I should place my components to make this work.
 
-13h ago
+14h ago
 
 ---
 
@@ -58,7 +58,7 @@ I need help in placing the components on the robot for the best way to balance i
 
 I am working on building a humanoid that can cater to and help elderly people and dementia patients . From being a companion to helping them with daily chores I think this could really change their lives and would be cost effective as well. Are there any angels or incubators that provide fund for robotics or humanoid or any grants that I can apply for. Even something like seed round of $500k would work too. Also anyone else building in this space , I am looking for a cofounder as well who is also interested in working on this space.
 
-1h ago
+2h ago
 
 ---
 
@@ -66,7 +66,7 @@ I am working on building a humanoid that can cater to and help elderly people an
 
 Very first proof of concept. This is going to be fun. It's still a bit slow to progress, I need to optimize a few things. But it gets the idea. Llm writes a few lines of javascript to create the motion and executes it.
 
-20h ago
+21h ago
 
 ---
 
@@ -74,7 +74,7 @@ Very first proof of concept. This is going to be fun. It's still a bit slow to p
 
 Hello! I would like to ask for help on what arduino powered project we can do for our Robotics and Research subject that aligns with any Sustainable Development Goals. We initially planned to create a braille learning device for the visually impaired. However, our robotics adviser did not approve of our idea. Are there any projects we can do?
 
-2h ago
+3h ago
 
 ---
 
@@ -82,7 +82,7 @@ Hello! I would like to ask for help on what arduino powered project we can do fo
 
 pretty cool. want to test how much weight it can handle. This was inspired by colinfurze, he is an engineering YouTuber. My design is slightly different when compared to his. my bed tilts the other way, and i am using a lot smaller cylinders. anyways; i hope u guys watch when i release the full version. -Thanks
 
-🔗 [youtube.com](https://www.youtube.com/shorts/zKG5-5-94J4) • 21m ago
+🔗 [youtube.com](https://www.youtube.com/shorts/zKG5-5-94J4) • 1h ago
 
 ---
 
@@ -90,7 +90,7 @@ pretty cool. want to test how much weight it can handle. This was inspired by co
 
 Most robotics coverage nowadays is focusing on industrial automation or consumer novelty, but this also caught my attention: Singapore's Gardens by the Bay is rolling out a free-to-rent robotic guide dog (built by the Singapore-based firm RoamAssist) for visually impaired visitors in its Flower Dome from Q3 2026. The robot and system are pre-programmed with a full tour route, provide real-time audio guidance on plant exhibits, and are designed for independent navigation with no human escort. They're pairing it with an online sensory map for autistic visitors launching in June. It's not "Boston Dynamics" level of attention but it's a interesting attempt at real-world deployment of "assistant" robotics in a public space. Curious what people here think Article - https://www.straitstimes.com/singapore/gardens-by-the-bay-to-offer-robot-guide-dog-online-sensory-map-for-visitors-with-disabilities
 
-20h ago
+21h ago
 
 ---
 
@@ -98,7 +98,7 @@ Most robotics coverage nowadays is focusing on industrial automation or consumer
 
 Do you think in the coming future me any my friends who are looking to do robotics would be able to build a makeshift anti air system but simplified? It would act like an iron dome that intercepts missiles but the interceptors would really be a small aerial object that uses a detection system of some sort. Keep in mind this would be made using simple circuits like Arduino as we don’t have a large budget.
 
-5h ago
+6h ago
 
 ---
 
@@ -106,7 +106,7 @@ Do you think in the coming future me any my friends who are looking to do roboti
 
 I've been working on a robot dog and wanted to show off my progress. I have a single leg working pretty well now. 3 legs to go! Made with: Motor: Eaglepower 8308 Gearbox: 15:1 Cycloidal that I designed and 3d printed Microcontroller: Teensy 4.1 + CAN bus Motor Controllers: ODrive 3.6 Clone boards from Aliexpress Battery: Ryobi 40v Everything else: bearings, bolts, and printed parts from a Bambu P1S This is a labor of love. My regular day job is a software developer/manager. Mostly focused on learning fast and keeping costs down. I'm having so much fun learning and building this stuff
 
-20h ago
+21h ago
 
 ---
 
@@ -118,7 +118,7 @@ I've been working on a robot dog and wanted to show off my progress. I have a si
 
 New model can respond to disruptions and figure out moves it wasn't trained for.
 
-Ars Technica • 12h ago
+Ars Technica • 13h ago
 
 ---
 
@@ -126,7 +126,7 @@ Ars Technica • 12h ago
 
 Funding data and leasing activity show that companies using the groundbreaking tech on the physical world are having their moment.
 
-The San Francisco Standard • 21h ago
+The San Francisco Standard • 22h ago
 
 ---
 
@@ -138,13 +138,13 @@ Adafruit • 1d ago
 
 **[Optimus time: Tesla makes big move in Fremont for global robotics hub](https://www.bizjournals.com/sanfrancisco/news/2026/04/06/tesla-fremont-optimus-robotics-factory.html)**
 
-The Business Journals • 13h ago
+The Business Journals • 14h ago
 
 ---
 
 **[Too many cooks, or too many robots? Finding a Goldilocks level of randomness to keep robot swarms moving](https://techxplore.com/news/2026-04-cooks-robots-goldilocks-randomness-robot.html)**
 
-Tech Xplore • 14h ago
+Tech Xplore • 15h ago
 
 ---
 
@@ -152,7 +152,7 @@ Tech Xplore • 14h ago
 
 They don't blink, don't take breaks, and can hear trouble before humans do. But when the night watch has four legs and cameras, who is safer and who is more exposed?
 
-3DVF • 19h ago
+3DVF • 20h ago
 
 ---
 
@@ -168,7 +168,7 @@ Yahoo Finance • 2d ago
 
 BMW's Munich plant has begun its shift to EV-only production and is expected to launch the Neue Klasse i3 in August.
 
-Interesting Engineering • 16h ago
+Interesting Engineering • 17h ago
 
 ---
 
@@ -216,7 +216,7 @@ US startup Foundation is developing humanoid robots for military use. The goal i
 
 📺 Robot Julie 
 
-👁️ 5K • 👍 51 • 💬 1 • ⏱️ 0:23 • 10h ago
+👁️ 5K • 👍 51 • 💬 1 • ⏱️ 0:23 • 11h ago
 
 ---
 
@@ -276,7 +276,7 @@ A flagship robot vacuum might be out your budget. We tested the affordable Dream
 
 📺 Vacuum Nerds
 
-👁️ 5K • 👍 68 • 💬 30 • ⏱️ 8:48 • 2d ago
+👁️ 5K • 👍 68 • 💬 30 • ⏱️ 8:48 • 3d ago
 
 ---
 
@@ -286,7 +286,7 @@ Tesla Bot Gen 3 First Look Revealed Destroy Gen 2! Sport-Level Engineering Tesla
 
 📺 TESLA CAR WORLD
 
-👁️ 113K • 👍 3K • 💬 262 • ⏱️ 19:06 • 6d ago
+👁️ 113K • 👍 3K • 💬 262 • ⏱️ 19:06 • 7d ago
 
 ---
 

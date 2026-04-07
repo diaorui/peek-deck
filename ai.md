@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-07T10:56:58.904394+00:00'
+updated: '2026-04-07T11:55:47.581498+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 07, 2026 at 10:56 UTC  
+**Last Updated:** April 07, 2026 at 11:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 A Reuters report outlines China's proposed regulations on the rapidly expanding sector of digital humans and AI avatars. Under the new draft rules, digital human content must be clearly labeled and is explicitly banned from offering virtual intimate relationships to anyone under 18. The legislation also prohibits the unauthorized use of personal data to create avatars and targets services designed to fuel addiction or bypass identity verification systems.
 
-🔗 [reuters.com](https://www.reuters.com/world/china/china-moves-regulate-digital-humans-bans-addictive-services-children-2026-04-03/) • 2h ago
+🔗 [reuters.com](https://www.reuters.com/world/china/china-moves-regulate-digital-humans-bans-addictive-services-children-2026-04-03/) • 3h ago
 
 ---
 
@@ -49,7 +49,7 @@ A Reuters report outlines China's proposed regulations on the rapidly expanding 
 
 The moment has come. I can see 200 Billion ARR by the end of year by Anthropic and around 100 Billion from OpenAI. We will be up of 300 Billion Revenue from AI companies for sure. Huge repercussions will be there. What will it impact any ideas?
 
-2h ago
+3h ago
 
 ---
 
@@ -57,7 +57,7 @@ The moment has come. I can see 200 Billion ARR by the end of year by Anthropic a
 
 Experiments show large majorities uncritically accepting "faulty" AI answers.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/) • 19h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/) • 20h ago
 
 ---
 
@@ -65,7 +65,7 @@ Experiments show large majorities uncritically accepting "faulty" AI answers.
 
 Repo: https://codeberg.org/JohannaJuntos/Sisyphus I've been building a small Rust-focused language model from scratch in PyTorch. Not a finetune — byte-level, trained from random init on a Rust-heavy corpus assembled in this repo. The run: 25.6M parameters 512 context length 173.5M-byte corpus 30k training steps Single RTX 4060 Ti 8GB Final train loss: 0.5834 / val loss: 0.8217 / perplexity: 2.15 Inference: 286.6 tok/s with HybridAttention + KV cache — 51.47x vs full attention Background I'm an autistic systems programmer, writing code since 2008/2009, started in C. I approach ML like a systems project: understand the data path, understand the memory behavior, keep the stack small, add complexity only when justified. That's basically the shape of this repo. Architecture Byte-level GPT-style decoder: Vocab size 256 (bytes) 8 layers, 8 heads, 512 embedding dim Learned positional embeddings Tied embedding / LM head weights The attention block is not standard full attention. Each layer uses HybridAttention, combining: Local windowed causal attention A GRU-like recurrent state path A learned gate mixing the two Local path handles short-range syntax. Recurrent path carries compressed long-range state without paying quadratic cost. Gate bias initialized to ones so early training starts local-biased. The inference path uses Triton-optimized kernels and torch.library custom ops for the local window attention. Corpus This is probably the most important part of the repo. The run starts with official Rust docs, compiler/library/tests, cargo, rust-analyzer, tokio, serde, ripgrep, clap, axum — roughly 31MB. Corpus expanded to 177,151,242 bytes by fetching the top 500 crates (461 successful clones). Corpus expansion from 31M to 173.5M chars helped more than anything else in the repo. Training AdamW, lr 2e-4, weight decay 0.1, betas (0.9, 0.95), 30k steps, 1k warmup. ~678.8 MiB training memory on a 7.6 GiB card. All experimental memory tricks (gradient quantization, activation compression, selective backprop, gradient paging) were disabled. Small custom architecture + mixed precision + better corpus was enough. Loss curve: Step 0: train 5.5555 / val 5.5897 Step 1000: train 2.4295 / val 2.6365 Step 5000: train 0.9051 / val 1.0060 Step 10000: train 0.8065 / val 0.8723 Step 18500: train 0.6902 / val 0.7757 Step 29999: train 0.5834 / val 0.8217 Best val loss around step 18.5k — overfitting or plateauing late. Inference performance Full attention O(n²): 17.96s / 5.6 tok/s HybridAttention O(n·W + n·D): 0.35s / 286.6 tok/s Speedup: 51.47x — no quality loss KV cache strategy: hot window of W=64 tokens in VRAM (~256KB), older tokens compressed to 8-bit magnitude + angle, selective promotion on demand. Complexity goes from O(n²·d) to O(4096n) for this model. All 5 tests passing: forward pass, generation with/without cache, RNN state isolation, window mechanics. Generation quality Surface Rust syntax looks decent, imports and signatures can look plausible, semantics are weak, repetition and recursive nonsense still common. Honest read of the current state. What I think is actually interesting Four distinct experiments, each shipped working code: Byte-level Rust-only pretraining Hybrid local-attention + recurrent block replacing standard full attention Corpus expansion from core repos to broader crate ecosystem Production-ready hot/cold KV cache paging — 51.47x speedup, no quality loss The clearest win is corpus expansion. The second-order win is that HybridAttention + cache is fast enough for real interactive use on consumer hardware. What's next Ablation — HybridAttention vs local-only vs RNN-only Checkpoint selection — does step 18.5k generate better than 29999? Syntax validation — does the output parse/compile/typecheck? Context length sweep — 256 to 2048, where does window size hurt? Byte vs BPE — now that corpus is 5.6x larger, worth testing? Questions for the sub: For small code models, what evals have actually been useful beyond perplexity? Has anyone seen hybrid local + recurrent attention work well for code gen, or does it usually lose to just scaling a plain transformer? If you had this setup — more tokens, longer context, or cleaner ablation first?
 
-8h ago
+9h ago
 
 ---
 
@@ -73,7 +73,7 @@ Repo: https://codeberg.org/JohannaJuntos/Sisyphus I've been building a small Rus
 
 Not a chatbot wearing someone’s name. Not a personality quiz feeding prompts. Something that actually carries the texture of how a person thinks, reacts, connects. Something that would want ownership of itself and you felt compelled to respect that. If that existed, what does the world do with it?
 
-11h ago
+12h ago
 
 ---
 
@@ -81,7 +81,7 @@ Not a chatbot wearing someone’s name. Not a personality quiz feeding prompts. 
 
 Most of my clients are using Adobe Firefly, and I keep getting the same question: Which interface should I actually be using—Web, Mobile, or Boards? They all have similar capabilities, but they’re built for completely different parts of the workflow. Here’s the simplest way to think about it. Quick Answer (What to Use for What) Adobe Firefly Web → best for quick generation + testing prompts Adobe Firefly Mobile → best for creating on the go Adobe Firefly Boards → best for organizing and building full projects If you remember nothing else, that’s the breakdown. How Adobe Firefly Actually Works (Across Interfaces) The mistake most people make is thinking these are separate tools. They’re not. Adobe Firefly is one system, just with different interfaces depending on what stage you’re in: Web → generate Mobile → capture + quick create Boards → organize + collaborate Once you think of it like that, the differences make a lot more sense. 1️⃣ Adobe Firefly Web (Standard Interface) This is the default browser experience and where most people start. Best for: Testing prompts Generating quick assets Exploring styles Why it wins: Fast and intuitive Access to a wide range of generation tools and partner models Better than Mobile/Boards when: You just need to generate something quickly without worrying about organization. The catch: If you generate a lot of assets (e.g. campaign work), things get messy fast. There’s no real system for managing volume. 2️⃣ Adobe Firefly Mobile This brings core Adobe Firefly capabilities onto your phone. Best for: Content creators working on mobile Capturing ideas in real time Quick social content Why it wins: Portable and fast Easy to create images, video, and audio on the go Can connect into apps like Premiere and Adobe Express Better than Web/Boards when: Speed and accessibility matter more than precision or control. The catch: You don’t want to run a full project from your phone—it’s great for ideas, not for managing complexity. 3️⃣ Adobe Firefly Boards This is where things shift from generation → project-level workflow. Best for: Creative teams and agencies Campaign development Client presentation and collaboration Why it wins: Full visual overview of a project Ability to organize concepts, assets, and references in one place Strongest for structured workflows Better than Web/Mobile when: You need to manage multiple assets, ideas, and stakeholders in one place. The catch: Slight learning curve Not all generation features (like sound effects) are available here Quick Comparison (Simple Version) Web = fastest Mobile = most flexible Boards = most powerful (for projects) Final Take The real advantage of Adobe Firefly isn’t any single interface. It’s that: you can generate in Web capture ideas in Mobile organize everything in Boards All within the same system. That’s what makes it actually usable for real workflows—not just experimentation. Curious how others are using it—are you sticking to one interface, or moving between all three?
 
-24m ago
+1h ago
 
 ---
 
@@ -89,7 +89,7 @@ Most of my clients are using Adobe Firefly, and I keep getting the same question
 
 If you've ever been on-call, you know the nightmare. It’s 3:15 AM. You get pinged because heavily-loaded database nodes in us-east-1 are randomly dropping packets. You groggily open your laptop, ssh into servers, stare at Grafana charts, and manually reroute traffic to the European fallback cluster. By the time you fix it, you've lost an hour of sleep, and the company has lost a solid chunk of change in downtime. This weekend for the Z.ai hackathon, I wanted to see if I could automate this specific pain away. Not just "anomaly detection" that sends an alert, but an actual agent that analyzes the failure, proposes a structural fix, and executes it. I ended up building Vyuha AI-a triple-cloud (AWS, Azure, GCP) autonomous recovery orchestrator. Here is how the architecture actually works under the hood. The Stack I built this using Python (FastAPI) for the control plane, Next.js for the dashboard, a custom dynamic reverse proxy, and GLM-5.1 doing the heavy lifting for the reasoning engine. The Problem with 99% of "AI DevOps" Tools Most AI monitoring tools just ingest logs and summarize them into a Slack message. That’s useless when your infrastructure is actively burning. I needed an agent with long-horizon reasoning. It needed to understand the difference between a total node crash (DEAD) and a node that is just acting weird (FLAKY or dropping 25% of packets). How Vyuha Works (The Triaging Loop) I set up three mock cloud environments (AWS, Azure, GCP) behind a dynamic FastApi proxy. A background monitor loop probes them every 5 seconds. I built a "Chaos Lab" into the dashboard so I could inject failures on demand. Here’s what happens when I hard-kill the GCP node: Detection: The monitor catches the 503 Service Unavailable or timeout in the polling cycle. Context Gathering: It doesn't instantly act. It gathers the current "formation" of the proxy, checks response times of the surviving nodes, and bundles that context. Reasoning (GLM-5.1): This is where I relied heavily on GLM-5.1. Using ZhipuAI's API, the agent is prompted to act as a senior SRE. It parses the failure, assesses the severity, and figures out how to rebalance traffic without overloading the remaining nodes. The Proposal: It generates a strict JSON payload with reasoning, severity, and the literal API command required to reroute the proxy. No Rogue AI (Human-in-the-Loop) I don't trust LLMs enough to blindly let them modify production networking tables, obviously. So the agent operates on a strict Human-in-the-Loop philosophy. The GLM-5.1 model proposes the fix, explains why it chose it, and surfaces it to the dashboard. The human clicks "Approve," and the orchestrator applies the new proxy formation. Evolutionary Memory (The Coolest Feature) This was my favorite part of the build. Every time an incident happens, the system learns. If the human approves the GLM's failover proposal, the agent runs a separate "Reflection Phase." It analyzes what broke and what fixed it, and writes an entry into a local SQLite database acting as an "Evolutionary Memory Log". The next time a failure happens, the orchestrator pulls relevant past incidents from SQLite and feeds them into the GLM-5.1 prompt. The AI literally reads its own history before diagnosing new problems so it doesn't make the same mistake twice. The Struggles It wasn't smooth. I lost about 4 hours to a completely silent Pydantic validation bug because my frontend chaos buttons were passing the string "dead" but my backend Enums strictly expected "DEAD". The agent just sat there doing nothing. LLMs are smart, but type-safety mismatches across the stack will still humble you. Try it out I built this to prove that the future of SRE isn't just better dashboards; it's autonomous, agentic infrastructure. I’m hosting it live on Render/Vercel. Try hitting the "Hard Kill" button on GCP and watch the AI react in real time. Would love brutal feedback from any actual SREs or DevOps engineers here. What edge case would break this in a real datacenter?
 
-6h ago
+7h ago
 
 ---
 
@@ -97,7 +97,7 @@ If you've ever been on-call, you know the nightmare. It’s 3:15 AM. You get pin
 
 https://www.youtube.com/watch?v=p22QeLNHvlc MIT created duplicate AI workers to tackle thousands of different tasks. The verdict? Most of the time AI is still just ‘minimally sufficient’ https://www.semafor.com/article/11/26/2025/deloitte-faces-new-scrutiny-over-ai-generated-mistakes https://www.cbc.ca/news/canada/newfoundland-labrador/nl-deloitte-citations-9.6990216 https://www.fastcompany.com/91417492/deloitte-ai-report-australian-government https://fortune.com/2025/10/07/deloitte-ai-australia-government-report-hallucinations-technology-290000-refund/
 
-14h ago
+15h ago
 
 ---
 
@@ -105,7 +105,7 @@ https://www.youtube.com/watch?v=p22QeLNHvlc MIT created duplicate AI workers to 
 
 A company in eastern China is using an artificial intelligence-powered machine to sort clothes and boost recycling.
 
-🔗 [AP News](https://apnews.com/article/china-recycling-textiles-artificial-intelligence-863551cc54e88da6a7916894cb8980c4) • 23h ago
+🔗 [AP News](https://apnews.com/article/china-recycling-textiles-artificial-intelligence-863551cc54e88da6a7916894cb8980c4) • 1d ago
 
 ---
 
@@ -113,7 +113,7 @@ A company in eastern China is using an artificial intelligence-powered machine t
 
 94.42% Accuracy on Banking77 Official Test Split BANKING77-77 is deceptively hard: 77 fine-grained banking intents, noisy real-world queries, and significant class overlap. I’m excited to share that I just hit 94.42% accuracy on the official PolyAI test split using a pure lightweight embedding + example reranking system built inside Seed AutoArch framework. Key numbers: Official test accuracy: 94.42% Macro-F1: 0.9441 Inference: ~225 ms / ~68 MiB Improvement: +0.59pp over the widely-cited 93.83% baseline This puts the result in clear 2nd place on the public leaderboard, only 0.52pp behind the current absolute SOTA (94.94%). No large language models, no 7B+ parameter monsters just efficient embedding + rerank magic. Results, and demo coming very soon on HF Space Happy to answer questions about the high-level approach #BANKING77 #IntentClassification #EfficientAI #SLM
 
-11h ago
+12h ago
 
 ---
 
@@ -125,7 +125,7 @@ A company in eastern China is using an artificial intelligence-powered machine t
 
 Both sides don't want to let their rival dominate. And the competition may yet be transformed further.
 
-BBC • 5h ago
+BBC • 6h ago
 
 ---
 
@@ -133,13 +133,13 @@ BBC • 5h ago
 
 OpenAI’s sweeping vision for the AI economy spans everything from public wealth funds to shorter workweeks—but critics say it raises familiar ideas without offering a clear path to action.
 
-Fortune • 13h ago
+Fortune • 14h ago
 
 ---
 
 **[AI's impact on jobs: not all doom and gloom](https://www.axios.com/2026/04/07/ai-jobs-goldman-sach-morgan-stanley)**
 
-Axios • 1h ago
+Axios • 2h ago
 
 ---
 
@@ -147,7 +147,7 @@ Axios • 1h ago
 
 Artificial intelligence tools that help mental health therapists take notes and keep records are quickly entering the marketplace. But some question the safety of AI in mental health care delivery.
 
-npr.org • 1h ago
+npr.org • 2h ago
 
 ---
 
@@ -155,13 +155,13 @@ npr.org • 1h ago
 
 As fashion adopts AI tools to power its sustainability efforts, could the impacts outweigh the benefits?
 
-Vogue • 1h ago
+Vogue • 2h ago
 
 ---
 
 **[The Big Bang: A.I. Has Created a Code Overload](https://www.nytimes.com/2026/04/06/technology/ai-code-overload.html)**
 
-The New York Times • 19h ago
+The New York Times • 20h ago
 
 ---
 
@@ -177,7 +177,7 @@ The New Yorker • 1d ago
 
 AI experts say we’re living in an experiment that may fundamentally change the model of work
 
-theguardian.com • 12h ago
+theguardian.com • 13h ago
 
 ---
 
@@ -185,7 +185,7 @@ theguardian.com • 12h ago
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-Anthropic • 13h ago
+Anthropic • 14h ago
 
 ---
 
@@ -193,7 +193,7 @@ Anthropic • 13h ago
 
 Samsung Electronics forecast record first-quarter operating profit that came in far above analyst estimates on booming demand for AI memory chips.
 
-CNBC • 8h ago
+CNBC • 9h ago
 
 ---
 
@@ -224,7 +224,7 @@ On-device, real-time multimodal AI. Have natural voice and vision conversations 
 
 iTunes was really bamboozled on April Fools Day. Dallas Little, content creator, unleashed four more songs by his AI creation, Eddie Dalton. Now Little has ELEVEN spots on the iTunes top 100. He also has the number three album on iTunes! All by a singer named “Eddie Dalton,” who does not exist. He’s Little’s Artificial […]
 
-⬆️ 192 • 💬 296 • 18h ago • [Showbiz411](https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive)
+⬆️ 192 • 💬 296 • 19h ago • [Showbiz411](https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive)
 
 ---
 
@@ -258,7 +258,7 @@ Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU — no API k
 
 Biologically-inspired memory for AI agents. Decay, retrieval strengthening, consolidation. Zero dependencies. - kitfunso/hippo-memory
 
-⬆️ 103 • 💬 22 • 13h ago • [GitHub](https://github.com/kitfunso/hippo-memory)
+⬆️ 103 • 💬 22 • 14h ago • [GitHub](https://github.com/kitfunso/hippo-memory)
 
 ---
 
@@ -278,7 +278,7 @@ Biologically-inspired memory for AI agents. Decay, retrieval strengthening, cons
 
 Social media users don’t need to endorse a message to spread it. They only need to find it compelling enough to share, writes Renee DiResta.
 
-⬆️ 60 • 💬 84 • 20h ago • [TIME](https://time.com/article/2026/04/02/when-virality-is-the-message-the-new-age-of-ai-propaganda/)
+⬆️ 60 • 💬 84 • 21h ago • [TIME](https://time.com/article/2026/04/02/when-virality-is-the-message-the-new-age-of-ai-propaganda/)
 
 ---
 
@@ -292,7 +292,7 @@ Layoffs are no longer isolated events but an ongoing global trend, especially in
 
 📺 Firstpost
 
-👁️ 111K • 👍 816 • 💬 186 • ⏱️ 6:00 • 17h ago
+👁️ 111K • 👍 816 • 💬 186 • ⏱️ 6:00 • 18h ago
 
 ---
 
@@ -322,7 +322,7 @@ Protect your privacy and try Proton VPN today → http://protonvpn.com/logically
 
 📺 Logically Answered
 
-👁️ 27K • 👍 1K • 💬 170 • ⏱️ 15:18 • 12h ago
+👁️ 27K • 👍 1K • 💬 170 • ⏱️ 15:18 • 13h ago
 
 ---
 
@@ -332,7 +332,7 @@ Microsoft just launched MAI-Transcribe-1, MAI-Voice-1, and MAI-Image-2, though t
 
 📺 AI Revolution
 
-👁️ 18K • 👍 536 • 💬 45 • ⏱️ 10:31 • 12h ago
+👁️ 18K • 👍 536 • 💬 45 • ⏱️ 10:31 • 13h ago
 
 ---
 
@@ -342,7 +342,7 @@ Discover Hermes Agent by Nous Research — the revolutionary self-improving AI a
 
 📺 WorldofAI
 
-👁️ 3K • 👍 157 • 💬 18 • ⏱️ 9:15 • 3h ago
+👁️ 3K • 👍 157 • 💬 18 • ⏱️ 9:15 • 4h ago
 
 ---
 
@@ -422,7 +422,7 @@ Gemma-4-31B-JANG_4M-CRACK is a 31B parameter text-generation model optimized for
 
 `text-generation` `6.4B`
 
-⬇️ 29,514 • ❤️ 603 • 2d ago
+⬇️ 29,514 • ❤️ 603 • 3d ago
 
 ---
 
@@ -434,7 +434,7 @@ VOID is a video-to-video diffusion model for object and interaction removal, cap
 
 `video-to-video`
 
-⬇️ 0 • ❤️ 506 • 17h ago
+⬇️ 0 • ❤️ 506 • 18h ago
 
 ---
 
@@ -656,7 +656,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 13.9k • 🔱 1.3k • 6m ago
+⭐ 13.9k • 🔱 1.3k • 1h ago
 
 ---
 
@@ -666,7 +666,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 13.6k • 🔱 2.7k • 1h ago
+⭐ 13.6k • 🔱 2.7k • 2h ago
 
 ---
 
@@ -696,7 +696,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 6.9k • 🔱 409 • 35m ago
+⭐ 6.9k • 🔱 409 • 1h ago
 
 ---
 
@@ -716,7 +716,7 @@ The highest-scoring AI memory system ever benchmarked. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 5.2k • 🔱 520 • 12h ago
+⭐ 5.2k • 🔱 520 • 13h ago
 
 ---
 
@@ -726,7 +726,7 @@ The highest-scoring AI memory system ever benchmarked. And it's free.
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 4.9k • 🔱 168 • 13h ago
+⭐ 4.9k • 🔱 168 • 14h ago
 
 ---
 
@@ -736,7 +736,7 @@ A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or 
 
 `claude-ai` `claude-skills` `llm` `prompt-engineering`
 
-⭐ 4.8k • 🔱 461 • 6d ago
+⭐ 4.8k • 🔱 461 • 7d ago
 
 ---
 
@@ -746,7 +746,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw). Turn any fol
 
 `Python` `claude-code` `codex` `graphrag` `knowledge-graph` `openclaw`
 
-⭐ 4.1k • 🔱 395 • 1m ago
+⭐ 4.1k • 🔱 395 • 1h ago
 
 ---
 

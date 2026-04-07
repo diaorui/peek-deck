@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-07T10:56:58.912950+00:00'
+updated: '2026-04-07T11:55:47.589787+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 07, 2026 at 10:56 UTC  
+**Last Updated:** April 07, 2026 at 11:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,13 +81,13 @@ Rank #1
 
 LETS GOOOO I HAVE 0.1 BTC
 
-2h ago
+3h ago
 
 ---
 
 **[It’s going to 🚀](https://www.reddit.com/r/Bitcoin/comments/1se4g7y/its_going_to/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -95,7 +95,7 @@ LETS GOOOO I HAVE 0.1 BTC
 
 I just know it. So I won't buy just so the rest of you can make some money.
 
-14h ago
+15h ago
 
 ---
 
@@ -103,7 +103,7 @@ I just know it. So I won't buy just so the rest of you can make some money.
 
 There’s a post near the top of this sub right now where someone sent Bitcoin to their Trezor and the wallet showed empty. They panicked. Turns out their Bitcoin wasn’t gone — it was in their passphrase wallet. They hadn’t known they created one. That’s the most common failure pattern in hardware wallet support forums, and it almost never gets explained at setup. Here’s what’s actually happening and three other traps that catch people the same way. The passphrase trap When you set up a Trezor using Trezor Suite, the passphrase feature is on by default. A passphrase — sometimes called the 25th word — creates a completely separate wallet derived from your seed. Any input during setup creates one. An accidental keystroke creates one. If you set a passphrase and don’t write it down, that passphrase is gone forever — and so is everything in that wallet. Your seed phrase alone opens a different, empty wallet. No error message. Nothing to indicate anything is wrong. Trezor’s support forums have dozens of threads that all read identically: “I have my seed, I’ve tried everything, balance is zero.” In most cases the passphrase was set accidentally during initial setup. Different software generates different addresses from the same seed This sounds impossible but it’s documented repeatedly. There are multiple standards for how wallet software derives addresses from a seed phrase — BIP-44, BIP-49, BIP-84 are the common ones — and different apps default to different ones. One user bought Bitcoin through Exodus paired with a Trezor in 2021. Exodus defaulted to P2SH-SegWit (m/49’/0’/0’). Trezor Suite defaults to Native SegWit (m/84’/0’/0’). Four years later, a firmware update forced a reset. The user opened Trezor Suite instead of reconnecting through Exodus. Empty wallet. His Bitcoin was on-chain and accessible — completely invisible to the software he was now using. Valid seed. Right device. Zero balance. This is not a bug. It’s two correct implementations of different standards. Electrum does not speak the same language as your hardware wallet If you ever try to import your Trezor or Ledger seed into Electrum as a backup option, it will show an empty wallet. Electrum uses a proprietary seed format and deliberately does not support BIP-39 — the standard your hardware wallet uses. To get it working you have to click a hidden “Options” button during seed entry, select “BIP39 seed,” then manually enter the derivation path your original wallet used. Without those steps, Electrum opens a valid empty wallet with no explanation. The Electrum developers are aware of this and consider it a feature. What to actually write down alongside your seed phrase The seed is the starting point, not the whole picture. What you also need documented somewhere safe: Which device and software you used to set up the wallet (Trezor Suite, Ledger Live, Electrum, etc.) Whether a passphrase was set — and if yes, exactly what it was, case-sensitive Which address format was used (Legacy, SegWit, Native SegWit, Taproot) — your software may show this during setup The derivation path if you can find it — usually visible in advanced settings That context, stored with your seed backup, is what makes the difference between recovery taking five minutes and recovery being impossible.
 
-13h ago
+14h ago
 
 ---
 
@@ -111,7 +111,7 @@ There’s a post near the top of this sub right now where someone sent Bitcoin t
 
 In two days, on Wednesday April 8th, a handful of Bitcoin Core developers are going to be doing a demonstration of “attack blocks” designed to take an inordinate amount of time to verify on Signet. The demonstration will take place at 10 AM EST (2 PM UTC). Anyone who wishes to participate can run Bitcoin Core node on Signet and watch the blocks be mined and processed by their node in real-time. Instructions can be found here to spin up a node and follow along (including how to check your node’s logs to see the verification times for the attack blocks). The demonstration is not going to show the worst case of the attack (the script and transaction structure required has not been publicly revealed to not give malicious actors even more information about the attack), but it will produce blocks that take orders of magnitude more time to verify than your average block. The aim of the demonstration is to show users the severity of one of the four severe consensus vulnerabilities that the Great Consensus Cleanup aims to address with BIP 54. Two more demonstrations will take place at 6 PM EST (10 PM UTC) on April 8th, and at 5 AM EST (9 AM UTC) on April 9th, to allow for Bitcoin users in different global timezones to directly participate as well. The Signet blockchain is currently at around 32-33 GB, so if you have any device with ample storage space, go ahead and spin up a Signet node to participate. For your awareness the following software patch was quickly put together for this demonstration and not audited thoroughly (though it is just a basic terminal based-GUI). If you are spinning up a brand new Signet node just for this demonstration on a machine without any funds on it, you should be fine even if you are the paranoid type like me. For those who don’t want to just poke at log files, AJ Towns provided a patch to the “bitcoin-tui” project, a Terminal based GUI for Bitcoin Core to display the attack blocks during the demonstration. The project creator is working on a proper release in time for the demonstration, but you can also compile it yourself. Run these commands on Linux (git commands will work on other OSes, and you should be able to find the equivalent CLI commands for your OS easily online): git clone https://github.com/ajtowns/bitcoin-tui.git cd bitcoin-tui git switch 202604-bip54blocks From there you should be able to just follow the build instructions at the repository here. After compiling, make sure your bitcoind has “server=1” set in the config file, and start up bitcoin-tui. You should find a “Slow Blocks” tab on the right of the top bar.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/demonstration-of-attack-blocks-on-bitcoins-signet-test-network) • 4h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/demonstration-of-attack-blocks-on-bitcoins-signet-test-network) • 5h ago
 
 ---
 
@@ -119,13 +119,13 @@ In two days, on Wednesday April 8th, a handful of Bitcoin Core developers are go
 
 Gm r/Bitcoin. 🟠 Starting an educational series — simple, direct, no jargon, no promises. Just verifiable facts. Day 1: What is Bitcoin? Bitcoin is digital money with a fixed supply of 21 million units — hardcoded by Satoshi Nakamoto in 2009. No government, bank, or company can ever change that. Verified data — April 2026: - Over 20 million BTC already mined (95%+ of total supply) - Less than 1 million remain — and will take 100+ years to mine - New block every ~10 minutes - Current reward: 3.125 BTC per block (after April 2024 halving) - Next halving: estimated April 2028 Why does this matter for someone who barely pays rent? The money you keep in the bank loses value every year to inflation. Bitcoin has a fixed supply — nobody can "print more." For the first time in history, an ordinary person has access to a genuinely scarce asset. Don't trust. Verify Next week — Day 2: Why does money lose value? #Bitcoin #Education #BitcoinFromZero
 
-9h ago
+10h ago
 
 ---
 
 **[Men only have two moods:](https://www.reddit.com/r/Bitcoin/comments/1sdz0lp/men_only_have_two_moods/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -133,7 +133,7 @@ Gm r/Bitcoin. 🟠 Starting an educational series — simple, direct, no jargon,
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-4h ago
+5h ago
 
 ---
 
@@ -141,7 +141,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Bitcoing is extremely volatile, having thoroughly tanked this year. And yet it is still your best long term store of value play. BTC value vs. Tradfi 2020-2026 Despite the 4-year peak trough cycles, BTC still MASSIVELY outperforms TradFi. And what does that mean to you? LONG TERM Store of Value: Median US home price 2020-2026 One day you'll buy a home with a fraction of your BTC. In fact, you'll easily collateralize your BTC to back the loan - no cap gains tax, lower rates. BTC may not be "money" (currency) yet, but it is a store of value particularly against fiat currencies, as these two charts quickly demonstrate. What are you doing relative to BTC, running for the hills? I'm dollar cost averaging.
 
-16h ago
+17h ago
 
 ---
 
@@ -149,7 +149,7 @@ Bitcoing is extremely volatile, having thoroughly tanked this year. And yet it i
 
 While the world continues to trust systems that fail time and time again, a new alternative has emerged silent, unstoppable, and incorruptible. Bitcoin is not just technology. It’s not just money. It’s freedom. For the first time in history, a generation has the opportunity to truly own its wealth without intermediaries, without permission, without manipulation. We grew up watching crises unfold, inflation erode the value of our efforts, and rules change in the middle of the game. But now… we have a choice. Bitcoin is more than an asset, it’s a statement. A rejection of centralized control. A step toward individual sovereignty. There may be volatility. There may be doubts. But one thing is certain: The world is changing and Bitcoin is leading that change. Don’t trust, verify. 🧡
 
-20h ago
+21h ago
 
 ---
 
@@ -161,7 +161,7 @@ While the world continues to trust systems that fail time and time again, a new 
 
 Options data shows traders are bracing for a sharp bitcoin drop as weak demand and fragile positioning leave the market exposed to a break below key levels, a report from Bitfinex shows.
 
-CoinDesk • 15h ago
+CoinDesk • 16h ago
 
 ---
 
@@ -169,13 +169,13 @@ CoinDesk • 15h ago
 
 The price of bitcoin climbed toward $70,000 amid reports of potential ceasefire discussions between the U.S. and Iran.
 
-Investopedia • 18h ago
+Investopedia • 19h ago
 
 ---
 
 **[Bitcoin Slides With Risk Assets as Trump’s Iran Ultimatum Looms](https://www.bloomberg.com/news/articles/2026-04-07/bitcoin-slides-with-risk-assets-as-trump-s-iran-ultimatum-looms)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -191,7 +191,7 @@ Yahoo Finance • 1d ago
 
 Bitcoin Price is trading at $68,500, as Trump’s April 7 Iran deadline arrives and the crypto market refuses to flinch. The White House has held its ‘no extension’ posture, demanding Iran open the Strait of Hormuz under threat of strikes on civilian infrastructure, and markets are not pricing in catastrophe. ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -199,7 +199,7 @@ Yahoo Finance • 1h ago
 
 Hyperscale Data Inc AMEX:GPUS:
 
-TradingView • 49m ago
+TradingView • 1h ago
 
 ---
 
@@ -207,7 +207,7 @@ TradingView • 49m ago
 
 BTC correlation with an ETF tracking software comany stocks broke sharply from near-total alignment to near zero after the conflict started.
 
-CoinDesk • 38m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -215,13 +215,13 @@ CoinDesk • 38m ago
 
 Between January and March 2025, the wallet accumulated 513 BTC, worth $50 million at the time, according to Arkham data.
 
-The Block • 2h ago
+The Block • 3h ago
 
 ---
 
 **[‘A Major Mistake’—Bitcoin Is Suddenly Braced For A Federal Reserve Price ‘Surprise’](https://www.forbes.com/sites/digital-assets/2026/04/06/bitcoin-is-suddenly-braced-for-a-federal-reserve-price-surprise/)**
 
-Forbes • 23h ago
+Forbes • 1d ago
 
 ---
 
@@ -229,7 +229,7 @@ Forbes • 23h ago
 
 This Wednesday, Bitcoin developers will demonstrate "attack blocks" taking advantage of a consensus vulnerability on the Signet test network.
 
-Bitcoin Magazine • 15h ago
+Bitcoin Magazine • 16h ago
 
 ---
 
@@ -289,7 +289,7 @@ April 03, 2026 - A new $100 million bond deal reveals exactly how traditional fi
 
 **[Bitcoin developers are mostly not concerned about quantum risk](https://news.ycombinator.com/item?id=47667515)**
 
-⬆️ 2 • 💬 0 • 13h ago • [murmurationstwo.substack.com](https://murmurationstwo.substack.com/p/bitcoin-developers-are-mostly-not)
+⬆️ 2 • 💬 0 • 14h ago • [murmurationstwo.substack.com](https://murmurationstwo.substack.com/p/bitcoin-developers-are-mostly-not)
 
 ---
 
@@ -337,7 +337,7 @@ BRACE YOURSELF... Crypto is about to get ABSOLUTELY CRAZY! For more info on BTQ 
 
 📺 Altcoin Daily
 
-👁️ 30K • 👍 2K • 💬 327 • ⏱️ 9:57 • 11h ago
+👁️ 30K • 👍 2K • 💬 327 • ⏱️ 9:57 • 12h ago
 
 ---
 
@@ -347,7 +347,7 @@ Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bi
 
 📺 Tyler S
 
-👁️ 12K • 👍 661 • 💬 638 • ⏱️ 13:45 • 19h ago
+👁️ 12K • 👍 661 • 💬 638 • ⏱️ 13:45 • 20h ago
 
 ---
 
@@ -375,7 +375,7 @@ This is huge for crypto, bitcoin, ethereum and the rest of the markets!!!!! ----
 
 📺 Thomas Kralow
 
-👁️ 20K • 👍 3K • 💬 35 • ⏱️ 9:21 • 23h ago
+👁️ 20K • 👍 3K • 💬 35 • ⏱️ 9:21 • 1d ago
 
 ---
 
@@ -385,7 +385,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25%
 
 📺 Crypto Rover
 
-👁️ 4K • 👍 357 • 💬 41 • ⏱️ 9:24 • 4h ago
+👁️ 4K • 👍 357 • 💬 41 • ⏱️ 9:24 • 5h ago
 
 ---
 
@@ -405,7 +405,7 @@ President Donald Trump declined to say whether he was winding down the war with 
 
 📺 Paul Barron Network
 
-👁️ 45K • 👍 3K • 💬 252 • ⏱️ 13:36 • 15h ago
+👁️ 45K • 👍 3K • 💬 252 • ⏱️ 13:36 • 16h ago
 
 ---
 
