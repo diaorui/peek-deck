@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-07T19:05:06.575261+00:00'
+updated: '2026-04-07T20:06:03.544084+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
 - news
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 07, 2026 at 19:05 UTC  
+**Last Updated:** April 07, 2026 at 20:06 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,088.20
+### $2,121.02
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.9%  
-**7d:** -2.5%  
-**30d:** +4.6%  
-**90d:** -32.9%  
-**1y:** +41.7%  
+**24h:** -0.9%  
+**7d:** -0.9%  
+**30d:** +6.3%  
+**90d:** -31.9%  
+**1y:** +44.0%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -80,13 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’ve had my eth staked for about 2 years now, net negative on the eth itself but I’ve gained what would be ≈4 percent more worth of ETH than I had before. To me it was the easiest way to stake given that I don’t have 32 eth. I appreciate the protocol for being a decentralized way to stake, heard there’s some liquidity issues in terms of getting your Eth back after staking but that’s a problem for the future. Anyone have any input on rocket pool?!
 
-4h ago
+5h ago
 
 ---
 
 **[Anthropic stayed quiet until someone showed Claude's thinking depth dropped 67%](https://www.reddit.com/r/ethereum/comments/1sf34o2/anthropic_stayed_quiet_until_someone_showed/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -94,7 +94,7 @@ I’ve had my eth staked for about 2 years now, net negative on the eth itself b
 
 A simple question for the community. I was recently asked for me public key (to my metamask wallet) I know that Bitcoin public keys should still be treated with some care as they disclose all transactions to that address in any blockchain explorer Is this the same with Ethereum?
 
-22h ago
+1d ago
 
 ---
 
@@ -176,13 +176,21 @@ The Block • 1d ago
 
 Bit Digital CEO Sam Tabar joined Steve Darling from Proactive to discuss the company’s 2025 financial results, its strategic shift away from Bitcoin mining, and its growing focus on Ethereum staking and AI infrastructure. The company reported approximately $115 million in revenue for 2025, reflecting a deliberate transformation of its business model. Tabar explained that Bit Digital Inc has been reallocating capital away from Bitcoin mining into higher-return opportunities, particularly Ethereum staking and high-performance computing (HPC). Ethereum has emerged as a core pillar of the company’s strategy, with holdings reaching approximately 155,000 ETH. The majority of these holdings are staked to generate yield, contributing to a significant increase in staking revenue. Tabar noted that “staking revenue actually increased by 300% this year,” highlighting the rapid expansion of this segment and its growing importance to overall performance. The company views Ethereum as programmable financial infrastructure, enabling both yield generation and deeper participation in network economics. Bit Digital is also expanding its exposure to AI infrastructure through its majority stake in WhiteFiber, while maintaining a disciplined approach to capital allocation. The company is actively evaluating acquisition opportunities aimed at building cash-generating businesses and establishing a long-term growth flywheel. Tabar emphasized that the company’s exit from Bitcoin mining is permanent, citing declining economics and capital inefficiencies across the sector as key drivers behind the decision. #proactiveinvestors #bitdigitalinc #nasdaq #btbt #Ethereum #ETHStaking #AIInfrastructure #HighPerformanceComputing #CryptoStrategy #DigitalAssets #Blockchain #StakingRewards #TechTransformation #WhiteFiber #AIGrowth #CloudComputing #CryptoMining #FinancialResults
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
 **['Drop To $1,500'—Ethereum Suddenly Faces 60% Odds Of Losing Crown](https://www.forbes.com/sites/digital-assets/2026/04/06/drop-to-1500-ethereum-suddenly-faces-60-odds-of-losing-crown/)**
 
-Forbes • 16h ago
+Forbes • 17h ago
+
+---
+
+**[Ethereum stablecoin supply hits $180B ATH: Is ETH demand mispriced?](https://seekingalpha.com/news/4573026-ethereum-stablecoin-supply-hits-180b-ath-is-eth-demand-mispriced)**
+
+Ethereum’s stablecoin supply hits ~$180B ATH and ETF inflows rise as whale money shifts to ETH.
+
+Seeking Alpha • 3h ago
 
 ---
 
@@ -190,11 +198,11 @@ Forbes • 16h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 6h ago
+Fortune • 7h ago
 
 ---
 
-**[ETH Up or Down - 5 Minutes](https://polymarket.com/event/eth-updown-5m-1775585400)**
+**[ETH Up or Down - 5 Minutes](https://polymarket.com/event/eth-updown-5m-1775572200)**
 
 Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
@@ -202,27 +210,19 @@ Polymarket • 1d ago
 
 ---
 
-**[Sharplink CIO reveals why holding unstaked Ethereum ‘doesn’t make sense’](https://www.thestreet.com/crypto/markets/sharplink-cio-reveals-why-holding-unstaked-ethereum-doesnt-make-sense)**
-
-Matthew Sheffield says staking and ecosystem participation give Ethereum a utility and income angle that many digital assets lack.
-
-thestreet.com • 19h ago
-
----
-
 **[Why Ethereum Was Creeping Higher on Monday](https://www.fool.com/investing/2026/04/06/why-ethereum-was-creeping-higher-on-monday/)**
 
 There was short-lived optimism in the air about a potential resolution to the Iran war.
 
-The Motley Fool • 18h ago
+The Motley Fool • 19h ago
 
 ---
 
-**[Algorand just jumped 50% after Google flags quantum risk for Bitcoin and Ethereum](https://cryptoslate.com/algorand-just-jumped-50-after-a-google-flags-quantum-risk-for-bitcoin-and-ethereum/)**
+**[Sharplink CIO reveals why holding unstaked Ethereum ‘doesn’t make sense’](https://www.thestreet.com/crypto/markets/sharplink-cio-reveals-why-holding-unstaked-ethereum-doesnt-make-sense)**
 
-Algorand's ALGO token has emerged as an unexpected beneficiary of the market’s latest quantum-computing debate.
+Matthew Sheffield says staking and ecosystem participation give Ethereum a utility and income angle that many digital assets lack.
 
-CryptoSlate • 2d ago
+thestreet.com • 20h ago
 
 ---
 
@@ -256,7 +256,7 @@ SEC Chair Paul Atkins confirmed yesterday that Regulation Crypto Assets -- Reg C
 
 📺 VirtualBacon
 
-👁️ 1K • 👍 97 • 1h ago
+👁️ 1K • 👍 97 • 2h ago
 
 ---
 
@@ -266,7 +266,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 246 • 👍 13 • 💬 1 • ⏱️ 4:29 • 9h ago
+👁️ 246 • 👍 13 • 💬 1 • ⏱️ 4:29 • 10h ago
 
 ---
 
@@ -296,7 +296,7 @@ BITCOIN JUST REVEALED THE NEXT MOVE (Get Ready)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 6K • 👍 247 • 💬 824 • ⏱️ 19:08 • 19h ago
+👁️ 6K • 👍 247 • 💬 824 • ⏱️ 19:08 • 20h ago
 
 ---
 
@@ -306,7 +306,7 @@ Which will perform better: Bitcoin, Ethereum, Solana, or XRP? This is one of the
 
 📺 Tim Warren
 
-👁️ 383 • 👍 13 • 💬 1 • ⏱️ 0:23 • 2h ago
+👁️ 383 • 👍 13 • 💬 1 • ⏱️ 0:23 • 3h ago
 
 ---
 
@@ -316,7 +316,7 @@ join my social platforms for updates and analysis ✓Instagram: ...
 
 📺 Aryan trader Live
 
-👁️ 20K • 👍 2K • 💬 15 • ⏱️ 1:25:10 • 5h ago
+👁️ 20K • 👍 2K • 💬 15 • ⏱️ 1:25:10 • 6h ago
 
 ---
 

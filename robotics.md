@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-07T19:05:06.578062+00:00'
+updated: '2026-04-07T20:06:03.547231+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 07, 2026 at 19:05 UTC  
+**Last Updated:** April 07, 2026 at 20:06 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From NVIDIA Robotics on 𝕏: https://x.com/NVIDIARobotics/status/2041349314262495265 NVIDIA blog: https://blogs.nvidia.com/blog/national-robotics-week-2026/#maximo
 
-9h ago
+10h ago
 
 ---
 
@@ -44,7 +44,7 @@ From NVIDIA Robotics on 𝕏: https://x.com/NVIDIARobotics/status/20413493142624
 
 Generalist just dropped GEN-1, the first general-purpose robot Al that hits 99% success rate on tasks where older models managed only 64%. The wild part? It didn't learn from robots, it learned from humans wearing cameras doing everyday tasks. That data transfers to robots with minimal retraining.When things go wrong, it improvises regrasping, switching hands, adapting on the fly. No explicit programming.
 
-2h ago
+3h ago
 
 ---
 
@@ -52,7 +52,7 @@ Generalist just dropped GEN-1, the first general-purpose robot Al that hits 99% 
 
 Worried about EoL IsaacGym and tired of setting up IsaacLab? I ported TWIST2 general motion tracking controller to MjLab that supports uv so really one click training/testing. It also uses MjWarp as the physics engine which IMO is better than physx which the Isaac frameworks defaulted to in the past. GitHub: lzyang2000/twist2_mjlab Link in comments, credits to original authors of MjLab and TWIST2
 
-2h ago
+3h ago
 
 ---
 
@@ -66,7 +66,7 @@ Worried about EoL IsaacGym and tired of setting up IsaacLab? I ported TWIST2 gen
 
 I need help in placing the components on the robot for the best way to balance it. Also I plan to scale to to something like a delivery robot for small payloads. Prolly, something in my room 😅 but I need help in understanding how these balancing robots work and how I should place my components to make this work.
 
-21h ago
+22h ago
 
 ---
 
@@ -74,7 +74,7 @@ I need help in placing the components on the robot for the best way to balance i
 
 I’m feeling really confused about where I stand right now and could use some guidance. I’ve just finished my 2nd year in Automation and Robotics, but honestly, I feel like I only know a little bit of everything and not enough of anything to confidently call it a real skill.I do well in my college curriculum but it doesn't guarantee I have skilled in it ( my opinion). I see so many people around me doing internships, certifications, research projects, and even gaining work experience, while I feel like I’m doing nothing meaningful in comparison, and it’s starting to get to me. I genuinely want to improve and make use of my time. I’m ready to put in consistent effort for the next 3–4 months, but I feel stuck because I don’t know what to focus on or where to begin. I’m unsure which skills actually matter in this field, how to go from basic understanding to real confidence, and how or where to even apply for internships as someone who still feels like a beginner. If anyone has been in a similar situation or has advice on how to move forward, I would really appreciate it. I just need some direction so I can stop feeling stuck and start making real progress.
 
-37m ago
+1h ago
 
 ---
 
@@ -82,7 +82,7 @@ I’m feeling really confused about where I stand right now and could use some g
 
 There are a lot of open jobs in automation right now, and a big part of the issue is that most people were never exposed to these careers in the first place. Robotics competitions are starting to change that. Programs like FIRST, VEX, and SkillsUSA give students hands-on experience with the same fundamentals used in industry. Mechanical design, programming, wiring, troubleshooting, sensors, motion systems. It’s not theoretical, they’re actually building and running systems. They also show how many different roles exist. Not everyone is coding. Some focus on design, some on integration, some on running the system or managing the team. When companies get involved through mentorships or sponsorships, it connects those skills directly to real careers. Internships, apprenticeships, and eventually full-time roles start to feel a lot more tangible.
 
-🔗 [Automate](https://www.automate.org/robotics/blogs/new-to-robotics-start-with-these-fundamentals) • 3h ago
+🔗 [Automate](https://www.automate.org/robotics/blogs/new-to-robotics-start-with-these-fundamentals) • 4h ago
 
 ---
 
@@ -90,7 +90,7 @@ There are a lot of open jobs in automation right now, and a big part of the issu
 
 pretty cool. want to test how much weight it can handle. This was inspired by colinfurze, he is an engineering YouTuber. My design is slightly different when compared to his. my bed tilts the other way, and i am using a lot smaller cylinders. anyways; i hope u guys watch when i release the full version. -Thanks
 
-🔗 [youtube.com](https://www.youtube.com/shorts/zKG5-5-94J4) • 8h ago
+🔗 [youtube.com](https://www.youtube.com/shorts/zKG5-5-94J4) • 9h ago
 
 ---
 
@@ -104,9 +104,9 @@ Very first proof of concept. This is going to be fun. It's still a bit slow to p
 
 **[Built a browser-based robot simulation — looking for honest feedback](https://www.reddit.com/r/robotics/comments/1seu8q1/built_a_browserbased_robot_simulation_looking_for/)**
 
-Built this browser-based robot simulation environment and recorded this short demo. Everything runs directly in the browser — no installation or setup required. Would really appreciate honest feedback: Does this feel useful? What would you expect from a tool like this? Anything confusing or missing? https://reddit.com/link/1seu8q1/video/3yf5s7eifrtg1/player
+Built this browser-based robot simulation environment and recorded this short demo. Everything runs directly in the browser — no installation or setup required. Would really appreciate honest feedback: Does this feel useful? What would you expect from a tool like this? Anything confusing or missing? ![video](3yf5s7eifrtg1)
 
-6h ago
+7h ago
 
 ---
 
@@ -118,7 +118,7 @@ Built this browser-based robot simulation environment and recorded this short de
 
 New model can respond to disruptions and figure out moves it wasn't trained for.
 
-arstechnica.com • 20h ago
+Ars Technica • 21h ago
 
 ---
 
@@ -132,27 +132,27 @@ Adafruit • 2d ago
 
 Kraken announces the successful integration and demonstration of its KATFISH towed synthetic aperture sonar and autonomous launch and recovery system (LARS) from SEFINE’s RD-22 unmanned surface vessel
 
-navalnews.com • 6h ago
+navalnews.com • 7h ago
 
 ---
 
 **[Optimus time: Tesla makes big move in Fremont for global robotics hub](https://www.bizjournals.com/sanfrancisco/news/2026/04/06/tesla-fremont-optimus-robotics-factory.html)**
 
-The Business Journals • 22h ago
+bizjournals.com • 23h ago
 
 ---
 
 **[Cerebras Backer Eclipse Raises $1.3 Billion for Robotics, AI Infrastructure](https://www.bloomberg.com/news/articles/2026-04-07/cerebras-backer-eclipse-raises-1-3-billion-for-robotics-ai-infrastructure)**
 
-Bloomberg.com • 8h ago
+Bloomberg.com • 9h ago
 
 ---
 
-**[The Hidden System Turning Chinese Tech Companies into Military Suppliers](https://warontherocks.com/2026/04/the-hidden-system-turning-chinese-tech-companies-into-military-suppliers-2/)**
+**[‘No one’s raising their hand’: Japan’s labor crisis is making the case for robots taking the jobs you don’t want](https://fortune.com/2026/04/06/japan-labor-shortage-robots-ai-robotics-humanoid/)**
 
-In October 2022, Unitree Robotics joined Boston Dynamics, Agility Robotics, and three other firms in signing an open letter pledging not to weaponize
+Japan is looking to become the dominant source of robotics by 2040, expedited by an aging population and a growing need for labor.
 
-War on the Rocks • 11h ago
+Fortune • 23h ago
 
 ---
 
@@ -164,19 +164,11 @@ The San Francisco Standard • 1d ago
 
 ---
 
-**[Neurobots: Living robots now have brains that guide how they move](https://interestingengineering.com/ai-robotics/neurobots-living-robots-with-nervous-system)**
+**[The Hidden System Turning Chinese Tech Companies into Military Suppliers](https://warontherocks.com/2026/04/the-hidden-system-turning-chinese-tech-companies-into-military-suppliers-2/)**
 
-Scientists build living robots with functional nervous systems, giving biological machines internal control.
+In October 2022, Unitree Robotics joined Boston Dynamics, Agility Robotics, and three other firms in signing an open letter pledging not to weaponize
 
-Interesting Engineering • 16h ago
-
----
-
-**[Prediction: AI Robotics Will Be a $375 Billion Industry and These 2 Stocks Will Lead It](https://finance.yahoo.com/sectors/technology/articles/prediction-ai-robotics-375-billion-180200804.html)**
-
-Both of these companies are proven trailblazers.
-
-Yahoo Finance • 3d ago
+War on the Rocks • 12h ago
 
 ---
 
@@ -185,6 +177,14 @@ Yahoo Finance • 3d ago
 The race for AI and robotics talent is heating up and getting expensive.
 
 Business Insider • 1d ago
+
+---
+
+**[Neurobots: Living robots now have brains that guide how they move](https://interestingengineering.com/ai-robotics/neurobots-living-robots-with-nervous-system)**
+
+Scientists build living robots with functional nervous systems, giving biological machines internal control.
+
+Interesting Engineering • 17h ago
 
 ---
 
@@ -236,7 +236,7 @@ The era of the Robot Mower is here and after 6 months of intensive use I feel I 
 
 📺 Robot Julie 
 
-👁️ 23K • 👍 105 • 💬 1 • ⏱️ 0:23 • 18h ago
+👁️ 23K • 👍 105 • 💬 1 • ⏱️ 0:23 • 19h ago
 
 ---
 
@@ -246,7 +246,7 @@ Most robots use noisy motors and clunky gears... but this one has MUSCLES. Clone
 
 📺 Luboky
 
-👁️ 641 • 👍 18 • 💬 1 • ⏱️ 1:17 • 30m ago
+👁️ 641 • 👍 18 • 💬 1 • ⏱️ 1:17 • 1h ago
 
 ---
 
@@ -266,7 +266,7 @@ Join this channel to get access to perks: https://www.youtube.com/channel/UCkouj
 
 📺 Shawn Ryan Show
 
-👁️ 970K • 👍 23K • 💬 2K • ⏱️ 0:44 • 6d ago
+👁️ 970K • 👍 23K • 💬 2K • ⏱️ 0:44 • 7d ago
 
 ---
 
