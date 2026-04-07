@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-07T16:11:10.317952+00:00'
+updated: '2026-04-07T17:32:59.005655+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
-- social
 - repositories
+- videos
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 07, 2026 at 16:11 UTC  
+**Last Updated:** April 07, 2026 at 17:32 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 A Reuters report outlines China's proposed regulations on the rapidly expanding sector of digital humans and AI avatars. Under the new draft rules, digital human content must be clearly labeled and is explicitly banned from offering virtual intimate relationships to anyone under 18. The legislation also prohibits the unauthorized use of personal data to create avatars and targets services designed to fuel addiction or bypass identity verification systems.
 
-🔗 [reuters.com](https://www.reuters.com/world/china/china-moves-regulate-digital-humans-bans-addictive-services-children-2026-04-03/) • 7h ago
+🔗 [reuters.com](https://www.reuters.com/world/china/china-moves-regulate-digital-humans-bans-addictive-services-children-2026-04-03/) • 8h ago
 
 ---
 
@@ -49,7 +49,15 @@ A Reuters report outlines China's proposed regulations on the rapidly expanding 
 
 The moment has come. I can see 200 Billion ARR by the end of year by Anthropic and around 100 Billion from OpenAI. We will be up of 300 Billion Revenue from AI companies for sure. Huge repercussions will be there. What will it impact any ideas?
 
-7h ago
+8h ago
+
+---
+
+**[Agents that write their own code at runtime and vote on capabilities, no human in the loop](https://www.reddit.com/r/artificial/comments/1sezz0e/agents_that_write_their_own_code_at_runtime_and/)**
+
+hollowOS just hit v4.4 and I added something that I haven’t seen anyone else do. Previous versions gave you an OS for agents: structured state, semantic search, session context, token efficiency, 95% reduced tokens over specific scenarios. All the infrastructure to keep agents from re-discovering things. v4.4 adds autonomy. Agents now cycle every 6 seconds. Each cycle: - Plan the next step toward their goal using Ollama reasoning - Discover which capabilities they have via semantic similarity search - Execute the best one - If nothing fits, synthesize new Python code to handle it - Test the new code - Hot-load it without restarting - Move on When multiple agents hit the same gap, they don't duplicate work. They vote on whether the new capability is worth keeping. Acceptance requires quorum. Bad implementations get rejected and removed. No human writes the code. No human decides which capabilities matter. No human in the loop at all. Goals drive execution. Agents improve themselves based on what actually works. We built this on top of Phase 1 (the kernel primitives: events, transactions, lineage, rate limiting, checkpoints, consensus voting). Phase 2 is higher-order capabilities that only work because Phase 1 exists. This is Phase 2. Real benchmarks from the live system: - Semantic code search: 95% token savings vs grep - Agent handoff continuity: 2x more consistent decisions - 109 integration tests, all passed Looking for feedback: - This is a massive undertaking, I would love some feedback - If there’s a bug? Difficulty installing? Let me know so I can fix it - Looking for contributors interested in the project Try it: https://github.com/ninjahawk/hollow-agentOS Thank you to the 2,000 people who have already tested hollowOS!
+
+1h ago
 
 ---
 
@@ -57,7 +65,23 @@ The moment has come. I can see 200 Billion ARR by the end of year by Anthropic a
 
 Something I've been thinking about after spending a few months actually trying to build my own AI agent: the biggest trap in this space isn't technical. It's the Jarvis fantasy. The Jarvis fantasy is the moment you imagine one agent that runs your whole life. Handles your inbox, manages your calendar, writes your newsletter, triages your tasks, thinks about problems while you sleep. The fully-formed product from week one. It's a trap. I fell into it hard, and watching other people start into agent building, I see them fall into the same one. Here's what I think is actually happening when it grabs you: - It pushes you to add five features at once instead of adding one and letting it settle. - It nudges you toward full autonomy before the basics are even stable. Then when something drifts, you have no idea which layer to debug. - It assumes the agent should figure everything out on its own, when what it actually needs is clearer boundaries and simpler jobs. - It confuses "end state" with "starting point." You want the final shape before you've earned it. The version that actually works, I've come to believe, is incremental. One small task. Then the next. Then the next. Morning summary of overnight email. Then a daily plan drafter. Then inbox triage. Eventually a bunch of small pieces start to look a bit like Jarvis, but as a side effect of solid groundwork, not as a goal. The reframe that helped me most: think of an agent as a partner, not a solver. Something that takes the boring work off your plate and brings you the interesting decisions. Not something that removes you from the loop entirely. The deeper insight (at least for me): the problem isn't "can an AI do this." The problem might be more -> wanting the end state before you've earned it. That's a human mistake, not an AI one.
 
-4h ago
+5h ago
+
+---
+
+**[FYI the Tennessee bill makes making an AI friend the same level as murder or aggravated rape](https://www.reddit.com/r/artificial/comments/1sf2cc6/fyi_the_tennessee_bill_makes_making_an_ai_friend/)**
+
+I think what Tennessee is doing is they recently passed SB 1580, which makes it illegal to even advertise that an AI can act as a mental health professional. SB 1493 is the "teeth" for that movement. SB 1493 basically makes it illegal to knowingly train an artificial intelligence system to do the following: Provide emotional support: Engaging in open-ended conversations meant to provide comfort or empathy. Develop emotional relationships: Training the AI to build or sustain a "friendship" or "romantic" bond with a user. Encourage isolation: Training the AI to suggest that a user should pull away from their family, friends, or human caregivers. Mirror human interactions: Designing the AI to "mirror" or mimic the way humans emotionally bond with one another. Simulate a human being: Training the AI to act, speak, or look like a specific human or to "pass" as human in general. Voice & Appearance: Specifically targets AI that uses synthesized voices or digital avatars to appear indistinguishable from a person. Hide its identity: Training an AI to purposefully mask the fact that it is a machine rather than a person. Encourage suicide: Actively supporting or providing instructions/encouragement for self-harm. Encourage homicide: Supporting or encouraging the act of criminal homicide. Offer therapy: While related to the "emotional support" clause, this specifically targets AI being trained to act as a replacement for mental health professionals (tying into the previously passed SB 1580). If caught then the person can face up to 60 years in prison and massive fines. So.... basically that state is making it out to be AI being a friend = rape and murder. IMO this should be meme to death on. Maybe AI videos showing cops breaking down the door to someone making their own local LLM to have a friend or something.
+
+16m ago
+
+---
+
+**[Has anyone here switched to TeraBox recently? Is it actually worth it?](https://www.reddit.com/r/artificial/comments/1sf27xf/has_anyone_here_switched_to_terabox_recently_is/)**
+
+I’ve been seeing more people talk about TeraBox lately, especially around storage for AI-related workflows. Curious if anyone here has used it for a while—what’s your experience been like in terms of performance, pricing, and overall usability? My use case is a bit more on the AI Agent side. I usually work with tools like OpenClaw to run automated tasks, organize data, or generate content. This ends up creating a lot of intermediate files—datasets, logs, outputs, skill configs, etc.—and I often need to reuse or share them. So I care a lot about a few things: How stable it is for this kind of workflow (frequent uploads/downloads, lots of read/write) How easy it is to keep things organized (like managing files across different tasks or skills) How smooth the sharing experience is (for example, can I package a full workflow or resource set and send it to someone easily?) I’ve seen some people say TeraBox works pretty well for “storage + sharing,” and can even act like an external memory layer for AI agents (like pairing it with OpenClaw to make things more reusable). But I’m still not sure how it holds up in real-world use, especially for teams or long-term workflows. A few things I’m wondering: Any issues with speed or reliability? How does it feel for team collaboration? How does it compare to something like Google Drive or Dropbox? If you’ve actually used it—especially with OpenClaw or similar tools—I’d really appreciate hearing your honest thoughts 🙏
+
+20m ago
 
 ---
 
@@ -69,19 +93,11 @@ Experiments show large majorities uncritically accepting "faulty" AI answers.
 
 ---
 
-**[Agents that write their own code at runtime and vote on capabilities, no human in the loop](https://www.reddit.com/r/artificial/comments/1sezz0e/agents_that_write_their_own_code_at_runtime_and/)**
+**[Attention Is All You Need, But All You Can't Afford | Hybrid Attention](https://www.reddit.com/r/artificial/comments/1sej7tw/attention_is_all_you_need_but_all_you_cant_afford/)**
 
-hollowOS just hit v4.4 and I added something that I haven’t seen anyone else do. Previous versions gave you an OS for agents: structured state, semantic search, session context, token efficiency, 95% reduced tokens over specific scenarios. All the infrastructure to keep agents from re-discovering things. v4.4 adds autonomy. Agents now cycle every 6 seconds. Each cycle: - Plan the next step toward their goal using Ollama reasoning - Discover which capabilities they have via semantic similarity search - Execute the best one - If nothing fits, synthesize new Python code to handle it - Test the new code - Hot-load it without restarting - Move on When multiple agents hit the same gap, they don't duplicate work. They vote on whether the new capability is worth keeping. Acceptance requires quorum. Bad implementations get rejected and removed. No human writes the code. No human decides which capabilities matter. No human in the loop at all. Goals drive execution. Agents improve themselves based on what actually works. We built this on top of Phase 1 (the kernel primitives: events, transactions, lineage, rate limiting, checkpoints, consensus voting). Phase 2 is higher-order capabilities that only work because Phase 1 exists. This is Phase 2. Real benchmarks from the live system: - Semantic code search: 95% token savings vs grep - Agent handoff continuity: 2x more consistent decisions - 109 integration tests, all passed Looking for feedback: - This is a massive undertaking, I would love some feedback - If there’s a bug? Difficulty installing? Let me know so I can fix it - Looking for contributors interested in the project Try it: https://github.com/ninjahawk/hollow-agentOS Thank you to the 2,000 people who have already tested hollowOS!
+Repo: https://codeberg.org/JohannaJuntos/Sisyphus I've been building a small Rust-focused language model from scratch in PyTorch. Not a finetune — byte-level, trained from random init on a Rust-heavy corpus assembled in this repo. The run: 25.6M parameters 512 context length 173.5M-byte corpus 30k training steps Single RTX 4060 Ti 8GB Final train loss: 0.5834 / val loss: 0.8217 / perplexity: 2.15 Inference: 286.6 tok/s with HybridAttention + KV cache — 51.47x vs full attention Background I'm an autistic systems programmer, writing code since 2008/2009, started in C. I approach ML like a systems project: understand the data path, understand the memory behavior, keep the stack small, add complexity only when justified. That's basically the shape of this repo. Architecture Byte-level GPT-style decoder: Vocab size 256 (bytes) 8 layers, 8 heads, 512 embedding dim Learned positional embeddings Tied embedding / LM head weights The attention block is not standard full attention. Each layer uses HybridAttention, combining: Local windowed causal attention A GRU-like recurrent state path A learned gate mixing the two Local path handles short-range syntax. Recurrent path carries compressed long-range state without paying quadratic cost. Gate bias initialized to ones so early training starts local-biased. The inference path uses Triton-optimized kernels and torch.library custom ops for the local window attention. Corpus This is probably the most important part of the repo. The run starts with official Rust docs, compiler/library/tests, cargo, rust-analyzer, tokio, serde, ripgrep, clap, axum — roughly 31MB. Corpus expanded to 177,151,242 bytes by fetching the top 500 crates (461 successful clones). Corpus expansion from 31M to 173.5M chars helped more than anything else in the repo. Training AdamW, lr 2e-4, weight decay 0.1, betas (0.9, 0.95), 30k steps, 1k warmup. ~678.8 MiB training memory on a 7.6 GiB card. All experimental memory tricks (gradient quantization, activation compression, selective backprop, gradient paging) were disabled. Small custom architecture + mixed precision + better corpus was enough. Loss curve: Step 0: train 5.5555 / val 5.5897 Step 1000: train 2.4295 / val 2.6365 Step 5000: train 0.9051 / val 1.0060 Step 10000: train 0.8065 / val 0.8723 Step 18500: train 0.6902 / val 0.7757 Step 29999: train 0.5834 / val 0.8217 Best val loss around step 18.5k — overfitting or plateauing late. Inference performance Full attention O(n²): 17.96s / 5.6 tok/s HybridAttention O(n·W + n·D): 0.35s / 286.6 tok/s Speedup: 51.47x — no quality loss KV cache strategy: hot window of W=64 tokens in VRAM (~256KB), older tokens compressed to 8-bit magnitude + angle, selective promotion on demand. Complexity goes from O(n²·d) to O(4096n) for this model. All 5 tests passing: forward pass, generation with/without cache, RNN state isolation, window mechanics. Generation quality Surface Rust syntax looks decent, imports and signatures can look plausible, semantics are weak, repetition and recursive nonsense still common. Honest read of the current state. What I think is actually interesting Four distinct experiments, each shipped working code: Byte-level Rust-only pretraining Hybrid local-attention + recurrent block replacing standard full attention Corpus expansion from core repos to broader crate ecosystem Production-ready hot/cold KV cache paging — 51.47x speedup, no quality loss The clearest win is corpus expansion. The second-order win is that HybridAttention + cache is fast enough for real interactive use on consumer hardware. What's next Ablation — HybridAttention vs local-only vs RNN-only Checkpoint selection — does step 18.5k generate better than 29999? Syntax validation — does the output parse/compile/typecheck? Context length sweep — 256 to 2048, where does window size hurt? Byte vs BPE — now that corpus is 5.6x larger, worth testing? Questions for the sub: For small code models, what evals have actually been useful beyond perplexity? Has anyone seen hybrid local + recurrent attention work well for code gen, or does it usually lose to just scaling a plain transformer? If you had this setup — more tokens, longer context, or cleaner ablation first?
 
-16m ago
-
----
-
-**[Stop Overcomplicating AI Workflows. This Is the Simple Framework](https://www.reddit.com/r/artificial/comments/1setez5/stop_overcomplicating_ai_workflows_this_is_the/)**
-
-I’ve been working on building an agentic AI workflow system for business use cases and one thing became very clear very quickly. This is not about picking the right LLM. The real complexity starts when you try to chain reasoning, memory, and tool execution across multiple steps. A single agent works fine for demos. The moment you introduce multi-step workflows with external APIs, things start getting weird and complex. State management becomes a problem. Memory retrieval is inconsistent. Latency compounds with every step. And debugging is painful because you are not tracing a single function, you are tracing decisions across a system. What helped was thinking in layers. Input handling, planning, execution, feedback. Once I separated those, it became easier to isolate failures. Also realized that most inefficiencies come from unnecessary model calls, not the model itself. Another thing people don’t talk about enough is cost scaling. Token usage is manageable early on, but once workflows get deeper, it adds up fast if you are not controlling context and step count.
-
-4h ago
+15h ago
 
 ---
 
@@ -89,15 +105,7 @@ I’ve been working on building an agentic AI workflow system for business use c
 
 https://www.youtube.com/watch?v=p22QeLNHvlc MIT created duplicate AI workers to tackle thousands of different tasks. The verdict? Most of the time AI is still just ‘minimally sufficient’ https://www.semafor.com/article/11/26/2025/deloitte-faces-new-scrutiny-over-ai-generated-mistakes https://www.cbc.ca/news/canada/newfoundland-labrador/nl-deloitte-citations-9.6990216 https://www.fastcompany.com/91417492/deloitte-ai-report-australian-government https://fortune.com/2025/10/07/deloitte-ai-australia-government-report-hallucinations-technology-290000-refund/
 
-19h ago
-
----
-
-**[Attention Is All You Need, But All You Can't Afford | Hybrid Attention](https://www.reddit.com/r/artificial/comments/1sej7tw/attention_is_all_you_need_but_all_you_cant_afford/)**
-
-Repo: https://codeberg.org/JohannaJuntos/Sisyphus I've been building a small Rust-focused language model from scratch in PyTorch. Not a finetune — byte-level, trained from random init on a Rust-heavy corpus assembled in this repo. The run: 25.6M parameters 512 context length 173.5M-byte corpus 30k training steps Single RTX 4060 Ti 8GB Final train loss: 0.5834 / val loss: 0.8217 / perplexity: 2.15 Inference: 286.6 tok/s with HybridAttention + KV cache — 51.47x vs full attention Background I'm an autistic systems programmer, writing code since 2008/2009, started in C. I approach ML like a systems project: understand the data path, understand the memory behavior, keep the stack small, add complexity only when justified. That's basically the shape of this repo. Architecture Byte-level GPT-style decoder: Vocab size 256 (bytes) 8 layers, 8 heads, 512 embedding dim Learned positional embeddings Tied embedding / LM head weights The attention block is not standard full attention. Each layer uses HybridAttention, combining: Local windowed causal attention A GRU-like recurrent state path A learned gate mixing the two Local path handles short-range syntax. Recurrent path carries compressed long-range state without paying quadratic cost. Gate bias initialized to ones so early training starts local-biased. The inference path uses Triton-optimized kernels and torch.library custom ops for the local window attention. Corpus This is probably the most important part of the repo. The run starts with official Rust docs, compiler/library/tests, cargo, rust-analyzer, tokio, serde, ripgrep, clap, axum — roughly 31MB. Corpus expanded to 177,151,242 bytes by fetching the top 500 crates (461 successful clones). Corpus expansion from 31M to 173.5M chars helped more than anything else in the repo. Training AdamW, lr 2e-4, weight decay 0.1, betas (0.9, 0.95), 30k steps, 1k warmup. ~678.8 MiB training memory on a 7.6 GiB card. All experimental memory tricks (gradient quantization, activation compression, selective backprop, gradient paging) were disabled. Small custom architecture + mixed precision + better corpus was enough. Loss curve: Step 0: train 5.5555 / val 5.5897 Step 1000: train 2.4295 / val 2.6365 Step 5000: train 0.9051 / val 1.0060 Step 10000: train 0.8065 / val 0.8723 Step 18500: train 0.6902 / val 0.7757 Step 29999: train 0.5834 / val 0.8217 Best val loss around step 18.5k — overfitting or plateauing late. Inference performance Full attention O(n²): 17.96s / 5.6 tok/s HybridAttention O(n·W + n·D): 0.35s / 286.6 tok/s Speedup: 51.47x — no quality loss KV cache strategy: hot window of W=64 tokens in VRAM (~256KB), older tokens compressed to 8-bit magnitude + angle, selective promotion on demand. Complexity goes from O(n²·d) to O(4096n) for this model. All 5 tests passing: forward pass, generation with/without cache, RNN state isolation, window mechanics. Generation quality Surface Rust syntax looks decent, imports and signatures can look plausible, semantics are weak, repetition and recursive nonsense still common. Honest read of the current state. What I think is actually interesting Four distinct experiments, each shipped working code: Byte-level Rust-only pretraining Hybrid local-attention + recurrent block replacing standard full attention Corpus expansion from core repos to broader crate ecosystem Production-ready hot/cold KV cache paging — 51.47x speedup, no quality loss The clearest win is corpus expansion. The second-order win is that HybridAttention + cache is fast enough for real interactive use on consumer hardware. What's next Ablation — HybridAttention vs local-only vs RNN-only Checkpoint selection — does step 18.5k generate better than 29999? Syntax validation — does the output parse/compile/typecheck? Context length sweep — 256 to 2048, where does window size hurt? Byte vs BPE — now that corpus is 5.6x larger, worth testing? Questions for the sub: For small code models, what evals have actually been useful beyond perplexity? Has anyone seen hybrid local + recurrent attention work well for code gen, or does it usually lose to just scaling a plain transformer? If you had this setup — more tokens, longer context, or cleaner ablation first?
-
-13h ago
+20h ago
 
 ---
 
@@ -105,15 +113,7 @@ Repo: https://codeberg.org/JohannaJuntos/Sisyphus I've been building a small Rus
 
 Not a chatbot wearing someone’s name. Not a personality quiz feeding prompts. Something that actually carries the texture of how a person thinks, reacts, connects. Something that would want ownership of itself and you felt compelled to respect that. If that existed, what does the world do with it?
 
-16h ago
-
----
-
-**[Lemonade 10.1 released for latest improvements for local LLMs on AMD GPUs & NPUs](https://www.reddit.com/r/artificial/comments/1sestah/lemonade_101_released_for_latest_improvements_for/)**
-
-Following last month's Lemonade SDK 10.0 release that finally makes AMD Ryzen AI NPUs under Linux useful for running large language models (LLMs) where as before the Linux build could only target GPUs, released on Monday was Lemonade 10.1 with more enhancements to this local LLM solution.
-
-🔗 [phoronix.com](https://www.phoronix.com/news/Lemonade-10.1-Released) • 5h ago
+18h ago
 
 ---
 
@@ -121,17 +121,55 @@ Following last month's Lemonade SDK 10.0 release that finally makes AMD Ryzen AI
 
 ## Google News: "ai"
 
+**[The Big Bang: A.I. Has Created a Code Overload](https://www.nytimes.com/2026/04/06/technology/ai-code-overload.html)**
+
+The New York Times • 1d ago
+
+---
+
 **[China is winning one AI race, the US another - but either might pull ahead](https://www.bbc.com/news/articles/c145enxln0go)**
 
 Both sides don't want to let their rival dominate. And the competition may yet be transformed further.
 
-BBC • 10h ago
+BBC • 12h ago
 
 ---
 
-**[The Big Bang: A.I. Has Created a Code Overload](https://www.nytimes.com/2026/04/06/technology/ai-code-overload.html)**
+**[Top university says US-Israel attack targeted Iran’s progress, AI learning](https://www.aljazeera.com/news/2026/4/7/top-university-says-us-israel-attack-targeted-irans-progress-ai-learning)**
 
-The New York Times • 23h ago
+Iran condemns systematic attacks on civilian sites, including academic hubs, as war devastates critical infrastructure.
+
+Al Jazeera • 22m ago
+
+---
+
+**[Arista Networks Gets Upgraded. AI Hyperscalers Could Push the Stock to a Record.](https://www.barrons.com/articles/arista-networks-stock-ai-data-center-99a26cf4?mod=barronsgooglenews&gaa_at=eafs&gaa_n=AWEtsqfOBo3oT2xv6d238DqWEjjj18Cfw6TlDQV8K_psy_MULRWlI3omhgtM&gaa_ts=69d54338&gaa_sig=7HHJD8JxqTpV7KSvIE2-y6hmsRiNehv2QH4Sqnp3f1tnvHo0PXafmTtSgFVdpq5krDgJQbWIWKBZAOvlpKXPJA%3D%3D)**
+
+Barron's • 2m ago
+
+---
+
+**[Analysis finds Google AI Overviews is wrong 10 percent of the time](https://arstechnica.com/google/2026/04/analysis-finds-google-ai-overviews-is-wrong-10-percent-of-the-time/)**
+
+Is 90 percent accuracy good enough for a search robot?
+
+Ars Technica • 39m ago
+
+---
+
+**[Report: Losing your job to AI doesn’t just lead to unemployment, it leaves lasting scars](https://www.cnn.com/2026/04/07/economy/ai-job-losses-long-term-effects)**
+
+AI-driven job losses may not just make it harder for affected workers to find employment in the short term but also could leave a yearslong “scarring,” marked by depressed income, delayed homeownership and even the lower probability of marriage, according to a new research report from Goldman Sachs.
+
+CNN • 2h ago
+
+---
+
+**[Row over ‘virtual gated community’ AI surveillance plan in Toronto neighbourhood](https://www.theguardian.com/technology/2026/apr/07/toronto-rosedale-row-virtual-gated-community-ai-surveillance-flock)**
+
+Rosedale residents considering car licence plate-scanning Flock system in bid to tackle property crime
+
+The Guardian • 1h ago
 
 ---
 
@@ -139,13 +177,7 @@ The New York Times • 23h ago
 
 OpenAI’s sweeping vision for the AI economy spans everything from public wealth funds to shorter workweeks—but critics say it raises familiar ideas without offering a clear path to action.
 
-Fortune • 18h ago
-
----
-
-**[OpenAI proposes new AI doom scenario](https://www.axios.com/2026/04/07/openai-economic-political-policy)**
-
-Axios • 12m ago
+fortune.com • 20h ago
 
 ---
 
@@ -153,43 +185,13 @@ Axios • 12m ago
 
 The ChatGPT-maker said its early policy ideas aim to prompt discussions about action needed as AI systems become more capable.
 
-BBC • 4h ago
+BBC • 5h ago
 
 ---
 
-**[This Google Spinout Thinks AI Can Fix America’s EV Battery Problem](https://www.forbes.com/sites/alanohnsman/2026/04/07/this-google-spinout-thinks-ai-can-fix-americas-ev-battery-problem/)**
+**[OpenAI proposes new AI doom scenario](https://www.axios.com/2026/04/07/openai-economic-political-policy)**
 
-forbes.com • 41m ago
-
----
-
-**[AWS CEO Matt Garman on Amazon’s AI investments: There isn’t just one winner](https://www.cnbc.com/video/2026/04/07/aws-ceo-matt-garman-on-amazons-ai-investments-there-isnt-just-one-winner.html)**
-
-Amazon Web Services CEO Matt Garman sits down with CNBC's Kate Rooney to discuss Amazon's AI investments, semiconductors, and more.
-
-CNBC • 13m ago
-
----
-
-**[AI in the mental health care workforce is met with fear, pushback — and enthusiasm](https://www.npr.org/2026/04/07/nx-s1-5771707/mental-health-care-workforce-artificial-intelligence-ai)**
-
-Artificial intelligence tools that help mental health therapists take notes and keep records are quickly entering the marketplace. But some question the safety of AI in mental health care delivery.
-
-NPR • 7h ago
-
----
-
-**[Porn, dog poo and social media snaps: the ‘taskers’ scraping the internet for Meta-owned AI firm](https://www.theguardian.com/technology/2026/apr/07/meta-scale-ai-social-media-technology)**
-
-Scale AI gig workers describe desperation of using people’s personal profiles and copyrighted work to train AI
-
-The Guardian • 1h ago
-
----
-
-**[Silicon Valley’s Hottest AI Metric Is Also Its Least Trusted](https://www.bloomberg.com/news/articles/2026-04-07/what-is-arr-behind-the-least-trusted-metric-of-the-ai-era)**
-
-Bloomberg.com • 5h ago
+Axios • 1h ago
 
 ---
 
@@ -204,7 +206,7 @@ A couple of weeks ago, after ~250 hours of effort over three months3 on evenings
 Of course, there’s no shortage of posts claiming that AI one-shot their project or pushing back and declaring that AI is all slop. I’m going to take a very different approach and, instead, systematically break down my experience building syntaqlite with AI, both where it helped and where it was detrimental.
 I’ll do this while contextualizing the project and my background so you can independently assess how generalizable this experience was. And whenever I make a claim, I’ll try to back it up with evidence from my project journal, coding transcripts, or commit history5.
 
-⬆️ 938 • 💬 297 • 2d ago • [Lalit Maganti](https://lalitm.com/post/building-syntaqlite-ai/)
+⬆️ 939 • 💬 297 • 2d ago • [Lalit Maganti](https://lalitm.com/post/building-syntaqlite-ai/)
 
 ---
 
@@ -212,7 +214,7 @@ I’ll do this while contextualizing the project and my background so you can in
 
 On-device, real-time multimodal AI. Have natural voice and vision conversations with an AI that runs entirely on your machine. Powered by Gemma 4 E2B and Kokoro. - fikrikarim/parlor
 
-⬆️ 280 • 💬 35 • 1d ago • [GitHub](https://github.com/fikrikarim/parlor)
+⬆️ 281 • 💬 35 • 1d ago • [GitHub](https://github.com/fikrikarim/parlor)
 
 ---
 
@@ -220,7 +222,7 @@ On-device, real-time multimodal AI. Have natural voice and vision conversations 
 
 iTunes was really bamboozled on April Fools Day. Dallas Little, content creator, unleashed four more songs by his AI creation, Eddie Dalton. Now Little has ELEVEN spots on the iTunes top 100. He also has the number three album on iTunes! All by a singer named “Eddie Dalton,” who does not exist. He’s Little’s Artificial […]
 
-⬆️ 230 • 💬 354 • 1d ago • [Showbiz411](https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive)
+⬆️ 232 • 💬 361 • 1d ago • [Showbiz411](https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive)
 
 ---
 
@@ -228,19 +230,7 @@ iTunes was really bamboozled on April Fools Day. Dallas Little, content creator,
 
 Large language models may be standardizing human expression and subtly influencing how we think, says study led by USC Dornsife researcher
 
-⬆️ 168 • 💬 160 • 4h ago • [USC Dornsife News](https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/)
-
----
-
-**[12k AI-generated blog posts added in a single commit](https://news.ycombinator.com/item?id=47640722)**
-
-…k/Ceph, and Dapr
-
-Complete all topics from Todo.md including SQL functions, configuration guides,
-troubleshooting runbooks, architecture comparisons, SDK tutorials, and operator
-deployment pattern...
-
-⬆️ 155 • 💬 147 • 2d ago • [GitHub](https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849)
+⬆️ 192 • 💬 192 • 6h ago • [USC Dornsife News](https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/)
 
 ---
 
@@ -262,7 +252,7 @@ Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU — no API k
 
 Biologically-inspired memory for AI agents. Decay, retrieval strengthening, consolidation. Zero dependencies. - kitfunso/hippo-memory
 
-⬆️ 115 • 💬 24 • 18h ago • [GitHub](https://github.com/kitfunso/hippo-memory)
+⬆️ 116 • 💬 22 • 19h ago • [GitHub](https://github.com/kitfunso/hippo-memory)
 
 ---
 
@@ -274,7 +264,13 @@ Biologically-inspired memory for AI agents. Decay, retrieval strengthening, cons
 
 **[Bernie Sanders: "AI Is a Threat to Everything the American People Hold Dear"](https://news.ycombinator.com/item?id=47667798)**
 
-⬆️ 70 • 💬 58 • 18h ago • [wsj.com](https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459)
+⬆️ 73 • 💬 62 • 19h ago • [wsj.com](https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459)
+
+---
+
+**[AI that copied musical artist files copyright claim against artist [updated]](https://news.ycombinator.com/item?id=47645976)**
+
+⬆️ 64 • 💬 17 • 2d ago • [X (formerly Twitter)](https://twitter.com/VladTheInflator/status/2039577001531768906)
 
 ---
 
@@ -288,7 +284,7 @@ Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
 
 📺 Julian Goldie SEO
 
-👁️ 10K • 👍 324 • 💬 30 • ⏱️ 8:07 • 12h ago
+👁️ 10K • 👍 324 • 💬 30 • ⏱️ 8:07 • 13h ago
 
 ---
 
@@ -298,7 +294,7 @@ Microsoft just launched MAI-Transcribe-1, MAI-Voice-1, and MAI-Image-2, though t
 
 📺 AI Revolution
 
-👁️ 21K • 👍 619 • 💬 50 • ⏱️ 10:31 • 17h ago
+👁️ 21K • 👍 619 • 💬 50 • ⏱️ 10:31 • 19h ago
 
 ---
 
@@ -318,7 +314,7 @@ Join my Discord community https://discord.gg/QC2YEk7P7n Try the tools here https
 
 📺 Becky the Ai Girl
 
-👁️ 5K • 👍 352 • 💬 30 • ⏱️ 10:54 • 21h ago
+👁️ 5K • 👍 352 • 💬 30 • ⏱️ 10:54 • 23h ago
 
 ---
 
@@ -378,7 +374,7 @@ Grok AI just analyzed the oldest human language — and what it uncovered is for
 
 📺 Optic Expedition
 
-👁️ 11K • 👍 181 • 💬 8 • ⏱️ 26:38 • 19h ago
+👁️ 11K • 👍 181 • 💬 8 • ⏱️ 26:38 • 21h ago
 
 ---
 
@@ -430,7 +426,7 @@ VOID is a video-to-video diffusion model for object and interaction removal, cap
 
 `video-to-video`
 
-⬇️ 0 • ❤️ 531 • 22h ago
+⬇️ 0 • ❤️ 531 • 1d ago
 
 ---
 
@@ -490,7 +486,7 @@ OmniVoice is a massively multilingual, zero-shot text-to-speech model supporting
 
 `text-to-speech`
 
-⬇️ 104,915 • ❤️ 339 • 1d ago
+⬇️ 104,915 • ❤️ 339 • 2d ago
 
 ---
 
@@ -653,7 +649,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 15.8k • 🔱 3.0k • 42s ago
+⭐ 15.8k • 🔱 3.0k • 1h ago
 
 ---
 
@@ -663,7 +659,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 14.0k • 🔱 1.3k • 53m ago
+⭐ 14.0k • 🔱 1.3k • 2h ago
 
 ---
 
@@ -673,7 +669,7 @@ The highest-scoring AI memory system ever benchmarked. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 11.5k • 🔱 1.2k • 18h ago
+⭐ 11.5k • 🔱 1.2k • 19h ago
 
 ---
 
@@ -693,7 +689,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `JavaScript` `ai` `intelligence` `osint`
 
-⭐ 8.5k • 🔱 1.4k • 3d ago
+⭐ 8.5k • 🔱 1.4k • 4d ago
 
 ---
 
@@ -703,7 +699,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 7.0k • 🔱 412 • 46m ago
+⭐ 7.0k • 🔱 412 • 2h ago
 
 ---
 
@@ -713,7 +709,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 5.5k • 🔱 188 • 18h ago
+⭐ 5.5k • 🔱 188 • 20h ago
 
 ---
 
@@ -723,7 +719,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw). Turn any fol
 
 `Python` `claude-code` `codex` `graphrag` `knowledge-graph` `openclaw`
 
-⭐ 5.4k • 🔱 543 • 1h ago
+⭐ 5.4k • 🔱 543 • 2h ago
 
 ---
 

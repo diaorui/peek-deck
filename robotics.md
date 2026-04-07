@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-07T16:11:10.335496+00:00'
+updated: '2026-04-07T17:32:59.021735+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 07, 2026 at 16:11 UTC  
+**Last Updated:** April 07, 2026 at 17:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,21 @@ Robotics research and industry news
 
 From NVIDIA Robotics on 𝕏: https://x.com/NVIDIARobotics/status/2041349314262495265 NVIDIA blog: https://blogs.nvidia.com/blog/national-robotics-week-2026/#maximo
 
-6h ago
+7h ago
+
+---
+
+**[Robots fixing robots](https://www.reddit.com/r/robotics/comments/1sf1ihh/robots_fixing_robots/)**
+
+Generalist just dropped GEN-1, the first general-purpose robot Al that hits 99% success rate on tasks where older models managed only 64%. The wild part? It didn't learn from robots, it learned from humans wearing cameras doing everyday tasks. That data transfers to robots with minimal retraining.When things go wrong, it improvises regrasping, switching hands, adapting on the fly. No explicit programming.
+
+44m ago
 
 ---
 
 **[Tesollo DG-5F-S lightweight robotic hand built for humanoid integration](https://www.reddit.com/r/robotics/comments/1se4j5s/tesollo_dg5fs_lightweight_robotic_hand_built_for/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -50,15 +58,15 @@ From NVIDIA Robotics on 𝕏: https://x.com/NVIDIARobotics/status/20413493142624
 
 I need help in placing the components on the robot for the best way to balance it. Also I plan to scale to to something like a delivery robot for small payloads. Prolly, something in my room 😅 but I need help in understanding how these balancing robots work and how I should place my components to make this work.
 
-18h ago
+20h ago
 
 ---
 
-**[i put actuators on my bed](https://www.reddit.com/r/robotics/comments/1ses8yw/i_put_actuators_on_my_bed/)**
+**[TWIST2 implementation in MjLab](https://www.reddit.com/r/robotics/comments/1sf0qzn/twist2_implementation_in_mjlab/)**
 
-pretty cool. want to test how much weight it can handle. This was inspired by colinfurze, he is an engineering YouTuber. My design is slightly different when compared to his. my bed tilts the other way, and i am using a lot smaller cylinders. anyways; i hope u guys watch when i release the full version. -Thanks
+Worried about EoL IsaacGym and tired of setting up IsaacLab? I ported TWIST2 general motion tracking controller to MjLab that supports uv so really one click training/testing. It also uses MjWarp as the physics engine which IMO is better than physx which the Isaac frameworks defaulted to in the past. GitHub: lzyang2000/twist2_mjlab Link in comments, credits to original authors of MjLab and TWIST2
 
-🔗 [youtube.com](https://www.youtube.com/shorts/zKG5-5-94J4) • 5h ago
+1h ago
 
 ---
 
@@ -66,15 +74,15 @@ pretty cool. want to test how much weight it can handle. This was inspired by co
 
 There are a lot of open jobs in automation right now, and a big part of the issue is that most people were never exposed to these careers in the first place. Robotics competitions are starting to change that. Programs like FIRST, VEX, and SkillsUSA give students hands-on experience with the same fundamentals used in industry. Mechanical design, programming, wiring, troubleshooting, sensors, motion systems. It’s not theoretical, they’re actually building and running systems. They also show how many different roles exist. Not everyone is coding. Some focus on design, some on integration, some on running the system or managing the team. When companies get involved through mentorships or sponsorships, it connects those skills directly to real careers. Internships, apprenticeships, and eventually full-time roles start to feel a lot more tangible.
 
-🔗 [Automate](https://www.automate.org/robotics/blogs/new-to-robotics-start-with-these-fundamentals) • 12m ago
+🔗 [Automate](https://www.automate.org/robotics/blogs/new-to-robotics-start-with-these-fundamentals) • 1h ago
 
 ---
 
-**[Funding for humanoid for dementia patients](https://www.reddit.com/r/robotics/comments/1ser4iy/funding_for_humanoid_for_dementia_patients/)**
+**[i put actuators on my bed](https://www.reddit.com/r/robotics/comments/1ses8yw/i_put_actuators_on_my_bed/)**
 
-I am working on building a humanoid that can cater to and help elderly people and dementia patients . From being a companion to helping them with daily chores I think this could really change their lives and would be cost effective as well. Are there any angels or incubators that provide fund for robotics or humanoid or any grants that I can apply for. Even something like seed round of $500k would work too. Also anyone else building in this space , I am looking for a cofounder as well who is also interested in working on this space.
+pretty cool. want to test how much weight it can handle. This was inspired by colinfurze, he is an engineering YouTuber. My design is slightly different when compared to his. my bed tilts the other way, and i am using a lot smaller cylinders. anyways; i hope u guys watch when i release the full version. -Thanks
 
-6h ago
+🔗 [youtube.com](https://www.youtube.com/shorts/zKG5-5-94J4) • 6h ago
 
 ---
 
@@ -90,7 +98,7 @@ Very first proof of concept. This is going to be fun. It's still a bit slow to p
 
 Built this browser-based robot simulation environment and recorded this short demo. Everything runs directly in the browser — no installation or setup required. Would really appreciate honest feedback: Does this feel useful? What would you expect from a tool like this? Anything confusing or missing? https://reddit.com/link/1seu8q1/video/3yf5s7eifrtg1/player
 
-3h ago
+5h ago
 
 ---
 
@@ -98,15 +106,7 @@ Built this browser-based robot simulation environment and recorded this short de
 
 Hello! I would like to ask for help on what arduino powered project we can do for our Robotics and Research subject that aligns with any Sustainable Development Goals. We initially planned to create a braille learning device for the visually impaired. However, our robotics adviser did not approve of our idea. Are there any projects we can do?
 
-8h ago
-
----
-
-**[Singapore Gardens by the Bay to offer robot guide dog to help disabled people](https://www.reddit.com/r/robotics/comments/1se0dfq/singapore_gardens_by_the_bay_to_offer_robot_guide/)**
-
-Most robotics coverage nowadays is focusing on industrial automation or consumer novelty, but this also caught my attention: Singapore's Gardens by the Bay is rolling out a free-to-rent robotic guide dog (built by the Singapore-based firm RoamAssist) for visually impaired visitors in its Flower Dome from Q3 2026. The robot and system are pre-programmed with a full tour route, provide real-time audio guidance on plant exhibits, and are designed for independent navigation with no human escort. They're pairing it with an online sensory map for autistic visitors launching in June. It's not "Boston Dynamics" level of attention but it's a interesting attempt at real-world deployment of "assistant" robotics in a public space. Curious what people here think Article - https://www.straitstimes.com/singapore/gardens-by-the-bay-to-offer-robot-guide-dog-online-sensory-map-for-visitors-with-disabilities
-
-1d ago
+9h ago
 
 ---
 
@@ -118,41 +118,25 @@ Most robotics coverage nowadays is focusing on industrial automation or consumer
 
 New model can respond to disruptions and figure out moves it wasn't trained for.
 
-Ars Technica • 17h ago
-
----
-
-**[The next darlings of San Francisco’s AI real estate boom: Robots](https://sfstandard.com/2026/04/06/robotics-san-francisco-ai-boom/)**
-
-Funding data and leasing activity show that companies using the groundbreaking tech on the physical world are having their moment.
-
-The San Francisco Standard • 1d ago
+Ars Technica • 19h ago
 
 ---
 
 **[Asimov’s three laws of robotics survived 82 years, we broke them in 30 minutes, costs 80 cents, and then remade them](https://blog.adafruit.com/2026/04/05/asimovs-three-laws-of-robotics-survived-82-years-we-broke-them-in-30-minutes-costs-80-cents-and-then-remade-them/)**
 
-Adafruit • 1d ago
-
----
-
-**[How a childhood friendship led to a breakthrough bionic arm](https://www.euronews.com/next/2026/04/07/mexican-researchers-develop-simplified-robotic-arm-inspired-by-a-simple-childhood-promise)**
-
-A Mexican engineer has helped build a robotic arm for his lifelong friend, aiming to make prosthetics simpler and more accessible.
-
-Euronews • 1h ago
+Adafruit • 2d ago
 
 ---
 
 **[Optimus time: Tesla makes big move in Fremont for global robotics hub](https://www.bizjournals.com/sanfrancisco/news/2026/04/06/tesla-fremont-optimus-robotics-factory.html)**
 
-The Business Journals • 19h ago
+The Business Journals • 20h ago
 
 ---
 
 **[Cerebras Backer Eclipse Raises $1.3 Billion for Robotics, AI Infrastructure](https://www.bloomberg.com/news/articles/2026-04-07/cerebras-backer-eclipse-raises-1-3-billion-for-robotics-ai-infrastructure)**
 
-Bloomberg.com • 5h ago
+Bloomberg.com • 6h ago
 
 ---
 
@@ -160,13 +144,7 @@ Bloomberg.com • 5h ago
 
 In October 2022, Unitree Robotics joined Boston Dynamics, Agility Robotics, and three other firms in signing an open letter pledging not to weaponize
 
-War on the Rocks • 8h ago
-
----
-
-**[Too many cooks, or too many robots? Finding a Goldilocks level of randomness to keep robot swarms moving](https://techxplore.com/news/2026-04-cooks-robots-goldilocks-randomness-robot.html)**
-
-Tech Xplore • 20h ago
+War on the Rocks • 9h ago
 
 ---
 
@@ -178,11 +156,33 @@ tribtoday.com • 1d ago
 
 ---
 
-**[Wakefield senior mentors two Arlington robotics teams to world championship](https://www.arlnow.com/2026/04/07/wakefield-senior-mentors-two-arlington-robotics-teams-to-world-championship/)**
+**[Too many cooks, or too many robots? Finding a Goldilocks level of randomness to keep robot swarms moving](https://techxplore.com/news/2026-04-cooks-robots-goldilocks-randomness-robot.html)**
 
-A Wakefield High School senior is heading to the VEX Robotics World Championship for the second year in a row — and this time, he's bringing an elementary school team with him. Greyson Schroeher has spent the school year mentoring two Arlington robotics teams that both qualified for the World Championship in St. Louis later
+Tech Xplore • 21h ago
 
-ARLnow • 2h ago
+---
+
+**[The next darlings of San Francisco’s AI real estate boom: Robots](https://sfstandard.com/2026/04/06/robotics-san-francisco-ai-boom/)**
+
+Funding data and leasing activity show that companies using the groundbreaking tech on the physical world are having their moment.
+
+The San Francisco Standard • 1d ago
+
+---
+
+**[Neurobots: Living robots now have brains that guide how they move](https://interestingengineering.com/ai-robotics/neurobots-living-robots-with-nervous-system)**
+
+Scientists build living robots with functional nervous systems, giving biological machines internal control.
+
+Interesting Engineering • 15h ago
+
+---
+
+**[Prediction: AI Robotics Will Be a $375 Billion Industry and These 2 Stocks Will Lead It](https://finance.yahoo.com/sectors/technology/articles/prediction-ai-robotics-375-billion-180200804.html)**
+
+Both of these companies are proven trailblazers.
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -206,7 +206,7 @@ Get the update on your app store: https://wr.my.games/play ➡️ Get the update
 
 📺 War Robots [WR]
 
-👁️ 10K • 👍 939 • 💬 217 • ⏱️ 3:58 • 3h ago
+👁️ 10K • 👍 939 • 💬 217 • ⏱️ 3:58 • 4h ago
 
 ---
 
@@ -216,7 +216,7 @@ Funny Mistakes In Robot Movie #youtubeshorts #shorts #bollywood #robot.
 
 📺 Kashtman Expo
 
-👁️ 994 • ⏱️ 0:34 • 5h ago
+👁️ 994 • ⏱️ 0:34 • 6h ago
 
 ---
 
@@ -234,7 +234,7 @@ The era of the Robot Mower is here and after 6 months of intensive use I feel I 
 
 📺 Robot Julie 
 
-👁️ 21K • 👍 89 • 💬 1 • ⏱️ 0:23 • 15h ago
+👁️ 21K • 👍 89 • 💬 1 • ⏱️ 0:23 • 17h ago
 
 ---
 
@@ -244,7 +244,7 @@ Are you tired of cutting your grass? Do robotic mowers really work? This video i
 
 📺 Nater Tater
 
-👁️ 5K • 👍 115 • 💬 49 • ⏱️ 15:30 • 19h ago
+👁️ 5K • 👍 115 • 💬 49 • ⏱️ 15:30 • 20h ago
 
 ---
 
@@ -254,7 +254,7 @@ Welch Labs Book: https://www.welchlabs.com/resources/ai-book-ezrzm-msrmc Book & 
 
 📺 Welch Labs
 
-👁️ 84K • 👍 4K • 💬 217 • ⏱️ 35:02 • 2d ago
+👁️ 84K • 👍 4K • 💬 217 • ⏱️ 35:02 • 3d ago
 
 ---
 
@@ -274,7 +274,7 @@ Joe Rogan Watches Soldier Test INSANE Robotic Legs #Shorts This is the future of
 
 📺 Silent Sentry
 
-👁️ 1.5M • 👍 20K • 💬 502 • ⏱️ 0:17 • 3d ago
+👁️ 1.5M • 👍 20K • 💬 502 • ⏱️ 0:17 • 4d ago
 
 ---
 
