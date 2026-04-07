@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-07T02:32:03.805408+00:00'
+updated: '2026-04-07T05:10:26.185572+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
-- videos
 - cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 07, 2026 at 02:32 UTC  
+**Last Updated:** April 07, 2026 at 05:10 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $68,591.09
+### $68,833.30
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.7%  
-**7d:** +0.8%  
-**30d:** +0.4%  
-**90d:** -24.7%  
-**1y:** -10.4%  
+**24h:** -0.2%  
+**7d:** +1.0%  
+**30d:** +0.6%  
+**90d:** -24.5%  
+**1y:** -10.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1372.21B
+**Market Cap:** $1376.73B
 Rank #1
 
 **Circulating Supply:** 20,012,425 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--45.6%
+-45.4%
 
 **All-Time Low:** $67.81
-+101019.3%
++101355.5%
 
 ---
 
@@ -77,17 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[It’s going to 🚀](https://www.reddit.com/r/Bitcoin/comments/1se4g7y/its_going_to/)**
-
-9h ago
-
----
-
 **[I have $100K but I am certain that once I buy BTC will begin to drop to $35,000](https://www.reddit.com/r/Bitcoin/comments/1seaemq/i_have_100k_but_i_am_certain_that_once_i_buy_btc/)**
 
 I just know it. So I won't buy just so the rest of you can make some money.
 
-6h ago
+8h ago
+
+---
+
+**[It’s going to 🚀](https://www.reddit.com/r/Bitcoin/comments/1se4g7y/its_going_to/)**
+
+12h ago
 
 ---
 
@@ -95,37 +95,13 @@ I just know it. So I won't buy just so the rest of you can make some money.
 
 There’s a post near the top of this sub right now where someone sent Bitcoin to their Trezor and the wallet showed empty. They panicked. Turns out their Bitcoin wasn’t gone — it was in their passphrase wallet. They hadn’t known they created one. That’s the most common failure pattern in hardware wallet support forums, and it almost never gets explained at setup. Here’s what’s actually happening and three other traps that catch people the same way. The passphrase trap When you set up a Trezor using Trezor Suite, the passphrase feature is on by default. A passphrase — sometimes called the 25th word — creates a completely separate wallet derived from your seed. Any input during setup creates one. An accidental keystroke creates one. If you set a passphrase and don’t write it down, that passphrase is gone forever — and so is everything in that wallet. Your seed phrase alone opens a different, empty wallet. No error message. Nothing to indicate anything is wrong. Trezor’s support forums have dozens of threads that all read identically: “I have my seed, I’ve tried everything, balance is zero.” In most cases the passphrase was set accidentally during initial setup. Different software generates different addresses from the same seed This sounds impossible but it’s documented repeatedly. There are multiple standards for how wallet software derives addresses from a seed phrase — BIP-44, BIP-49, BIP-84 are the common ones — and different apps default to different ones. One user bought Bitcoin through Exodus paired with a Trezor in 2021. Exodus defaulted to P2SH-SegWit (m/49’/0’/0’). Trezor Suite defaults to Native SegWit (m/84’/0’/0’). Four years later, a firmware update forced a reset. The user opened Trezor Suite instead of reconnecting through Exodus. Empty wallet. His Bitcoin was on-chain and accessible — completely invisible to the software he was now using. Valid seed. Right device. Zero balance. This is not a bug. It’s two correct implementations of different standards. Electrum does not speak the same language as your hardware wallet If you ever try to import your Trezor or Ledger seed into Electrum as a backup option, it will show an empty wallet. Electrum uses a proprietary seed format and deliberately does not support BIP-39 — the standard your hardware wallet uses. To get it working you have to click a hidden “Options” button during seed entry, select “BIP39 seed,” then manually enter the derivation path your original wallet used. Without those steps, Electrum opens a valid empty wallet with no explanation. The Electrum developers are aware of this and consider it a feature. What to actually write down alongside your seed phrase The seed is the starting point, not the whole picture. What you also need documented somewhere safe: Which device and software you used to set up the wallet (Trezor Suite, Ledger Live, Electrum, etc.) Whether a passphrase was set — and if yes, exactly what it was, case-sensitive Which address format was used (Legacy, SegWit, Native SegWit, Taproot) — your software may show this during setup The derivation path if you can find it — usually visible in advanced settings That context, stored with your seed backup, is what makes the difference between recovery taking five minutes and recovery being impossible.
 
-5h ago
+7h ago
 
 ---
 
 **[Men only have two moods:](https://www.reddit.com/r/Bitcoin/comments/1sdz0lp/men_only_have_two_moods/)**
 
-12h ago
-
----
-
-**[Cashapp giving free bitcoin](https://www.reddit.com/r/Bitcoin/comments/1seh63h/cashapp_giving_free_bitcoin/)**
-
-Buy 10$ they give 5$ btc in return. While supply lasts. I mean, why not, use it now or it’ll be late :)
-
-1h ago
-
----
-
-**[Bitcoin: The Silent Revolution of Our Generation](https://www.reddit.com/r/Bitcoin/comments/1se0qgj/bitcoin_the_silent_revolution_of_our_generation/)**
-
-While the world continues to trust systems that fail time and time again, a new alternative has emerged silent, unstoppable, and incorruptible. Bitcoin is not just technology. It’s not just money. It’s freedom. For the first time in history, a generation has the opportunity to truly own its wealth without intermediaries, without permission, without manipulation. We grew up watching crises unfold, inflation erode the value of our efforts, and rules change in the middle of the game. But now… we have a choice. Bitcoin is more than an asset, it’s a statement. A rejection of centralized control. A step toward individual sovereignty. There may be volatility. There may be doubts. But one thing is certain: The world is changing and Bitcoin is leading that change. Don’t trust, verify. 🧡
-
-11h ago
-
----
-
-**[The continued case for bitcoin. Despite the volatility, BTC is still in play.](https://www.reddit.com/r/Bitcoin/comments/1se7hdp/the_continued_case_for_bitcoin_despite_the/)**
-
-Bitcoing is extremely volatile, having thoroughly tanked this year. And yet it is still your best long term store of value play. BTC value vs. Tradfi 2020-2026 Despite the 4-year peak trough cycles, BTC still MASSIVELY outperforms TradFi. And what does that mean to you? LONG TERM Store of Value: Median US home price 2020-2026 One day you'll buy a home with a fraction of your BTC. In fact, you'll easily collateralize your BTC to back the loan - no cap gains tax, lower rates. BTC may not be "money" (currency) yet, but it is a store of value particularly against fiat currencies, as these two charts quickly demonstrate. What are you doing relative to BTC, running for the hills? I'm dollar cost averaging.
-
-7h ago
+15h ago
 
 ---
 
@@ -133,7 +109,23 @@ Bitcoing is extremely volatile, having thoroughly tanked this year. And yet it i
 
 Gm r/Bitcoin. 🟠 Starting an educational series — simple, direct, no jargon, no promises. Just verifiable facts. Day 1: What is Bitcoin? Bitcoin is digital money with a fixed supply of 21 million units — hardcoded by Satoshi Nakamoto in 2009. No government, bank, or company can ever change that. Verified data — April 2026: - Over 20 million BTC already mined (95%+ of total supply) - Less than 1 million remain — and will take 100+ years to mine - New block every ~10 minutes - Current reward: 3.125 BTC per block (after April 2024 halving) - Next halving: estimated April 2028 Why does this matter for someone who barely pays rent? The money you keep in the bank loses value every year to inflation. Bitcoin has a fixed supply — nobody can "print more." For the first time in history, an ordinary person has access to a genuinely scarce asset. Don't trust. Verify Next week — Day 2: Why does money lose value? #Bitcoin #Education #BitcoinFromZero
 
-1h ago
+3h ago
+
+---
+
+**[The continued case for bitcoin. Despite the volatility, BTC is still in play.](https://www.reddit.com/r/Bitcoin/comments/1se7hdp/the_continued_case_for_bitcoin_despite_the/)**
+
+Bitcoing is extremely volatile, having thoroughly tanked this year. And yet it is still your best long term store of value play. BTC value vs. Tradfi 2020-2026 Despite the 4-year peak trough cycles, BTC still MASSIVELY outperforms TradFi. And what does that mean to you? LONG TERM Store of Value: Median US home price 2020-2026 One day you'll buy a home with a fraction of your BTC. In fact, you'll easily collateralize your BTC to back the loan - no cap gains tax, lower rates. BTC may not be "money" (currency) yet, but it is a store of value particularly against fiat currencies, as these two charts quickly demonstrate. What are you doing relative to BTC, running for the hills? I'm dollar cost averaging.
+
+10h ago
+
+---
+
+**[Bitcoin: The Silent Revolution of Our Generation](https://www.reddit.com/r/Bitcoin/comments/1se0qgj/bitcoin_the_silent_revolution_of_our_generation/)**
+
+While the world continues to trust systems that fail time and time again, a new alternative has emerged silent, unstoppable, and incorruptible. Bitcoin is not just technology. It’s not just money. It’s freedom. For the first time in history, a generation has the opportunity to truly own its wealth without intermediaries, without permission, without manipulation. We grew up watching crises unfold, inflation erode the value of our efforts, and rules change in the middle of the game. But now… we have a choice. Bitcoin is more than an asset, it’s a statement. A rejection of centralized control. A step toward individual sovereignty. There may be volatility. There may be doubts. But one thing is certain: The world is changing and Bitcoin is leading that change. Don’t trust, verify. 🧡
+
+14h ago
 
 ---
 
@@ -141,7 +133,7 @@ Gm r/Bitcoin. 🟠 Starting an educational series — simple, direct, no jargon,
 
 Sadly, most of the hard working people still have no idea how the printer keeps stealing their money.
 
-14h ago
+16h ago
 
 ---
 
@@ -149,7 +141,15 @@ Sadly, most of the hard working people still have no idea how the printer keeps 
 
 Curious how it started for all of us.
 
-8h ago
+10h ago
+
+---
+
+**[LibertyX](https://www.reddit.com/r/Bitcoin/comments/1se8m80/libertyx/)**
+
+Is anyone else having issues being blocked out for no apparent reason? I have used this service for several months now and it worked wonderful for buying bitcoin with a debit card. They are in a number of stores, Walgreens, CVS and others! No matter what I do I can’t get signed back on!
+
+9h ago
 
 ---
 
@@ -161,7 +161,7 @@ Curious how it started for all of us.
 
 Options data shows traders are bracing for a sharp bitcoin drop as weak demand and fragile positioning leave the market exposed to a break below key levels, a report from Bitfinex shows.
 
-CoinDesk • 7h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -169,51 +169,47 @@ CoinDesk • 7h ago
 
 A hacker with quantum tools could crack open old Bitcoin wallets and flood the market as soon as 2029.
 
-Fortune • 14h ago
+Fortune • 17h ago
 
 ---
 
-**[55-year-old asset manager teases spot Bitcoin, Ethereum trading](https://au.finance.yahoo.com/news/55-old-asset-manager-teases-005000687.html)**
+**[Bitcoin spot ETFs see $500M inflows as optimism grows for $100K target by June 30](https://www.tradingview.com/news/cryptobriefing:ba59a15b9094b:0-bitcoin-spot-etfs-see-500m-inflows-as-optimism-grows-for-100k-target-by-june-30/)**
 
-Charles Schwab is making its most direct move yet into the crypto market. The asset management giant has opened a waitlist for a new "Schwab CryptoTM" trading platform that will allow clients to buy and sell Bitcoin (BTC) and Ethereum (ETH) directly. The development comes just a few months ...
+Bitcoin spot ETFs, led by BlackRock, saw nearly $500M in inflows on Monday. The market for Bitcoin reaching $100,000 by June 30 trades with increased optimism.BlackRock's IBIT ETF led the inflows after five weeks of outflows, signaling a shift in institutional sentiment. This influx aligns with Bit…
 
-Yahoo Finance Australia • 1h ago
-
----
-
-**[Bitcoin Ticks Up Even as Trump’s Iran War Threats Cloud Markets](https://www.bloomberg.com/news/articles/2026-04-06/bitcoin-ticks-up-even-as-trump-s-iran-war-threats-cloud-markets)**
-
-Bloomberg.com • 16h ago
+TradingView • 53m ago
 
 ---
 
-**[Bitcoin jumps 4% to hover near $70,000 on hopes of ceasefire deal](https://finance.yahoo.com/news/bitcoin-jumps-4-to-hover-near-70000-on-hopes-of-ceasefire-deal-143214793.html)**
+**[Bitcoin drops toward $68,000 as demand weakens and whales sell](https://www.coindesk.com/markets/2026/04/07/bitcoin-drops-toward-usd68-000-as-demand-weakens-and-whales-sell)**
 
-Bitcoin jumped roughly 4% to $70,000 as markets looked toward the possibility of a ceasefire between the US and Iran.
+Glassnode data shows soft participation, while a negative gamma setup below $68,000 leaves BTC exposed to a faster move toward $60,000.
 
-finance.yahoo.com • 11h ago
-
----
-
-**[Bitcoin price news: BTC back above $69,000 as crypto shorts get squeezed](https://www.coindesk.com/markets/2026/04/06/bitcoin-reclaims-usd69-000-as-ceasefire-talks-surface-and-crypto-shorts-get-squeezed)**
-
-A report that the U.S. and Iran are discussing a 45-day ceasefire lifted risk assets across the board on Monday, with short liquidations outpacing longs nearly 3-to-1 in the past 12 hours.
-
-CoinDesk • 21h ago
+CoinDesk • 1h ago
 
 ---
 
-**[‘A Major Mistake’—Bitcoin Is Suddenly Braced For A Federal Reserve Price ‘Surprise’](https://www.forbes.com/sites/digital-assets/2026/04/06/bitcoin-is-suddenly-braced-for-a-federal-reserve-price-surprise/)**
+**[Lucky solo bitcoin miner beats 1-in-28,000 daily odds to win $210,000 block reward](https://www.theblock.co/post/396366/lucky-solo-bitcoin-miner-beats-1-in-28000-daily-odds-to-win-210000-block-reward)**
 
-Forbes • 15h ago
+A solo bitcoin miner using CKpool collected roughly $210,000 for solving the 312th solo block cracked with the software since its 2014 launch.
+
+The Block • 1d ago
 
 ---
 
-**[Demonstration Of "Attack Blocks" On Bitcoin's Signet Test Network](https://bitcoinmagazine.com/news/demonstration-of-attack-blocks-on-bitcoins-signet-test-network)**
+**[Bitcoin miners face a new rival for cheap power as Anthropic signs multi-gigawatt compute deal](https://www.coindesk.com/tech/2026/04/07/bitcoin-miners-face-a-new-rival-for-cheap-power-as-anthropic-signs-multi-gigawatt-compute-deal)**
 
-This Wednesday, Bitcoin developers will demonstrate "attack blocks" taking advantage of a consensus vulnerability on the Signet test network.
+The AI company's partnership with Google and Broadcom for next-generation TPU capacity starting in 2027 adds to a wave of demand reshaping the economics of every industry that competes for cheap electricity, including bitcoin mining.
 
-Bitcoin Magazine • 6h ago
+CoinDesk • 6m ago
+
+---
+
+**[I Tried to Offset Horrible Heating Bills With a Bitcoin Miner](https://www.wired.com/review/heatbit-maxi-pro-bitcoin-miner-heater/)**
+
+Electricity rates have gotten so atrocious that this Heatbit wants to offset your costs with bitcoin mining. But the math doesn't add up.
+
+WIRED • 1d ago
 
 ---
 
@@ -221,7 +217,7 @@ Bitcoin Magazine • 6h ago
 
 Strategy recorded a $14.5 billion unrealized loss in the first quarter as it continues to accumulate more bitcoin.
 
-finance.yahoo.com • 10h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -229,7 +225,13 @@ finance.yahoo.com • 10h ago
 
 Strategy's on-paper bitcoin losses generated a $2.42 billion deferred tax asset, according to its latest 8-K filing.
 
-The Block • 12h ago
+The Block • 14h ago
+
+---
+
+**[Strategy Posts $14.5 Billion Unrealized Loss in First Quarter](https://www.bloomberg.com/news/articles/2026-04-06/strategy-posts-14-5-billion-unrealized-loss-in-first-quarter)**
+
+bloomberg.com • 16h ago
 
 ---
 
@@ -249,7 +251,7 @@ Google Quantum AI: Quantum computer could break Bitcoin cryptography with under 
 
 Google Research said the necessary resources for quantum computers to break cryptocurrencies have seen a 20-fold reduction.
 
-⬆️ 7 • 💬 2 • 5d ago • [The Block](https://www.theblock.co/post/395814/google-quantum-computing-earlier)
+⬆️ 7 • 💬 2 • 6d ago • [The Block](https://www.theblock.co/post/395814/google-quantum-computing-earlier)
 
 ---
 
@@ -289,7 +291,7 @@ April 03, 2026 - A new $100 million bond deal reveals exactly how traditional fi
 
 **[Bitcoin developers are mostly not concerned about quantum risk](https://news.ycombinator.com/item?id=47667515)**
 
-⬆️ 2 • 💬 0 • 4h ago • [murmurationstwo.substack.com](https://murmurationstwo.substack.com/p/bitcoin-developers-are-mostly-not)
+⬆️ 2 • 💬 0 • 7h ago • [murmurationstwo.substack.com](https://murmurationstwo.substack.com/p/bitcoin-developers-are-mostly-not)
 
 ---
 
@@ -311,13 +313,13 @@ Test your prediction skills against historical data. Draw your forecast and see 
 
 ## YouTube Videos: "bitcoin"
 
-**[The Big Print Is Coming &amp; Bitcoin Will Still Fail You...](https://www.youtube.com/watch?v=cv9sJMGOoR4)**
+**[BITCOIN LAST WARNING!!!!!!!!!!!!!](https://www.youtube.com/watch?v=szQwDyikS0w)**
 
-Could the oil crisis Break Bitcoin? Insider oil tracking just hit $173 a barrel and physical Brent is already at $141. The Big Print is ...
+Bitcoin what now The HORRIBLE Secret of Backwards Aging Celebrities! https://youtu.be/X7urCWuIt7k.
 
-📺 Simply Bitcoin
+📺 MMCrypto
 
-👁️ 24K • 👍 2K • 💬 404 • ⏱️ 16:01 • 1d ago
+👁️ 40K • 👍 2K • 💬 515 • ⏱️ 5:05 • 1d ago
 
 ---
 
@@ -327,75 +329,27 @@ Follow Gareth: https://x.com/GarethSoloway ✓ Bitunix (no kyc, $10k bonus): htt
 
 📺 Altcoin Daily
 
-👁️ 57K • 👍 3K • 💬 300 • ⏱️ 23:55 • 1d ago
+👁️ 58K • 👍 3K • 💬 300 • ⏱️ 23:55 • 1d ago
 
 ---
 
-**[my HONEST 2026 bitcoin price prediction... [you might not like it]](https://www.youtube.com/watch?v=Iknd8WcG44k)**
+**[The Big Print Is Coming &amp; Bitcoin Will Still Fail You...](https://www.youtube.com/watch?v=cv9sJMGOoR4)**
 
-Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bitunix ...
+Could the oil crisis Break Bitcoin? Insider oil tracking just hit $173 a barrel and physical Brent is already at $141. The Big Print is ...
 
-📺 Tyler S
+📺 Simply Bitcoin
 
-👁️ 10K • 👍 607 • 💬 140 • ⏱️ 13:45 • 11h ago
-
----
-
-**[BITCOIN: The Calm Before The Storm (Prepare Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=xPusQb5EC1g)**
-
-BITCOIN: The Calm Before The Storm (Prepare Now)!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
-
-📺 Crypto World
-
-👁️ 10K • 👍 321 • 💬 317 • ⏱️ 18:13 • 1d ago
+👁️ 24K • 👍 2K • 💬 417 • ⏱️ 16:01 • 1d ago
 
 ---
 
-**[Bitcoin Goes Up To $1Million?!](https://www.youtube.com/watch?v=CPCoqd0HxWM)**
+**[Bitcoin: Why Altcoin Season Failed](https://www.youtube.com/watch?v=73ukR3f_tg4)**
 
-📺 FreshandFit
+In this video, I take a closer look at the current Bitcoin structure and explain why the expected altcoin season has not materialized.
 
-👁️ 59K • 👍 1K • 💬 41 • ⏱️ 0:34 • 23h ago
+📺 More Crypto Online
 
----
-
-**[LIVE: Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Prediction](https://www.youtube.com/watch?v=H6RVEEeZICA)**
-
-BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
-
-📺 Ruben Flores Jigs
-
-👁️ 2K • 👍 1K • 34m ago
-
----
-
-**[Bitcoin: The Dangers of Complacency](https://www.youtube.com/watch?v=fR4y2sCGg1A)**
-
-Is Bitcoin entering a dangerous phase of complacency? After periods of volatility, markets often drift into a false sense of ...
-
-📺 Benjamin Cowen
-
-👁️ 74K • 👍 4K • 💬 228 • ⏱️ 16:00 • 1d ago
-
----
-
-**[If Professor Jian Xueqin Is Right... Bitcoin Goes NUCLEAR](https://www.youtube.com/watch?v=1HPmGzKyUOk)**
-
-CHECK OUT UPTRADE! Sign up here ▻ https://uptrade.co/ref/fire-hustle TRADE ON BTCC WITH ME! 10% Deposit ...
-
-📺 FireHustle
-
-👁️ 10K • 👍 575 • 💬 67 • ⏱️ 10:15 • 1d ago
-
----
-
-**[I Found Bitcoin&#39;s Exact Bear Market Bottom (The Number Nobody Is Talking About)](https://www.youtube.com/watch?v=hc1N30Y6l14)**
-
-What if Bitcoin's bear market bottom isn't random — and the data has been telling us exactly where it is, every single cycle?
-
-📺 Money Finance Insights
-
-👁️ 9K • 👍 398 • 💬 130 • ⏱️ 15:32 • 13h ago
+👁️ 3K • 👍 273 • 💬 27 • ⏱️ 16:51 • 7h ago
 
 ---
 
@@ -405,7 +359,55 @@ Follow Gareth: https://x.com/GarethSoloway ✓ Bitunix (no kyc, $10k bonus): htt
 
 📺 Altcoin Daily
 
-👁️ 6K • 👍 201 • 💬 17 • ⏱️ 1:14 • 7h ago
+👁️ 7K • 👍 215 • 💬 56 • ⏱️ 1:14 • 10h ago
+
+---
+
+**[my HONEST 2026 bitcoin price prediction... [you might not like it]](https://www.youtube.com/watch?v=Iknd8WcG44k)**
+
+Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bitunix ...
+
+📺 Tyler S
+
+👁️ 10K • 👍 630 • 💬 140 • ⏱️ 13:45 • 13h ago
+
+---
+
+**[BRACE YOURSELF... Crypto is about to get ABSOLUTELY CRAZY!](https://www.youtube.com/watch?v=0b0OkhhPaLc)**
+
+BRACE YOURSELF... Crypto is about to get ABSOLUTELY CRAZY! For more info on BTQ Bitcoin Quantum research: ...
+
+📺 Altcoin Daily
+
+👁️ 17K • 👍 2K • 💬 155 • ⏱️ 9:57 • 6h ago
+
+---
+
+**[Bitcoin Goes Up To $1Million?!](https://www.youtube.com/watch?v=CPCoqd0HxWM)**
+
+📺 FreshandFit
+
+👁️ 67K • 👍 1K • 💬 44 • ⏱️ 0:34 • 1d ago
+
+---
+
+**[Bitcoin: The Dangers of Complacency](https://www.youtube.com/watch?v=fR4y2sCGg1A)**
+
+Is Bitcoin entering a dangerous phase of complacency? After periods of volatility, markets often drift into a false sense of ...
+
+📺 Benjamin Cowen
+
+👁️ 75K • 👍 4K • 💬 229 • ⏱️ 16:00 • 1d ago
+
+---
+
+**[BITCOIN: The Calm Before The Storm (Prepare Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=xPusQb5EC1g)**
+
+BITCOIN: The Calm Before The Storm (Prepare Now)!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
+
+📺 Crypto World
+
+👁️ 10K • 👍 322 • 💬 316 • ⏱️ 18:13 • 1d ago
 
 ---
 
