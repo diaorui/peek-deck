@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-07T05:10:26.178112+00:00'
+updated: '2026-04-07T06:51:51.288889+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
-- videos
 - news
+- repositories
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 07, 2026 at 05:10 UTC  
+**Last Updated:** April 07, 2026 at 06:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 Experiments show large majorities uncritically accepting "faulty" AI answers.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/) • 13h ago
-
----
-
-**[Attention Is All You Need, But All You Can't Afford | Hybrid Attention](https://www.reddit.com/r/artificial/comments/1sej7tw/attention_is_all_you_need_but_all_you_cant_afford/)**
-
-Repo: https://codeberg.org/JohannaJuntos/Sisyphus I've been building a small Rust-focused language model from scratch in PyTorch. Not a finetune — byte-level, trained from random init on a Rust-heavy corpus assembled in this repo. The run: 25.6M parameters 512 context length 173.5M-byte corpus 30k training steps Single RTX 4060 Ti 8GB Final train loss: 0.5834 / val loss: 0.8217 / perplexity: 2.15 Inference: 286.6 tok/s with HybridAttention + KV cache — 51.47x vs full attention Background I'm an autistic systems programmer, writing code since 2008/2009, started in C. I approach ML like a systems project: understand the data path, understand the memory behavior, keep the stack small, add complexity only when justified. That's basically the shape of this repo. Architecture Byte-level GPT-style decoder: Vocab size 256 (bytes) 8 layers, 8 heads, 512 embedding dim Learned positional embeddings Tied embedding / LM head weights The attention block is not standard full attention. Each layer uses HybridAttention, combining: Local windowed causal attention A GRU-like recurrent state path A learned gate mixing the two Local path handles short-range syntax. Recurrent path carries compressed long-range state without paying quadratic cost. Gate bias initialized to ones so early training starts local-biased. The inference path uses Triton-optimized kernels and torch.library custom ops for the local window attention. Corpus This is probably the most important part of the repo. The run starts with official Rust docs, compiler/library/tests, cargo, rust-analyzer, tokio, serde, ripgrep, clap, axum — roughly 31MB. Corpus expanded to 177,151,242 bytes by fetching the top 500 crates (461 successful clones). Corpus expansion from 31M to 173.5M chars helped more than anything else in the repo. Training AdamW, lr 2e-4, weight decay 0.1, betas (0.9, 0.95), 30k steps, 1k warmup. ~678.8 MiB training memory on a 7.6 GiB card. All experimental memory tricks (gradient quantization, activation compression, selective backprop, gradient paging) were disabled. Small custom architecture + mixed precision + better corpus was enough. Loss curve: Step 0: train 5.5555 / val 5.5897 Step 1000: train 2.4295 / val 2.6365 Step 5000: train 0.9051 / val 1.0060 Step 10000: train 0.8065 / val 0.8723 Step 18500: train 0.6902 / val 0.7757 Step 29999: train 0.5834 / val 0.8217 Best val loss around step 18.5k — overfitting or plateauing late. Inference performance Full attention O(n²): 17.96s / 5.6 tok/s HybridAttention O(n·W + n·D): 0.35s / 286.6 tok/s Speedup: 51.47x — no quality loss KV cache strategy: hot window of W=64 tokens in VRAM (~256KB), older tokens compressed to 8-bit magnitude + angle, selective promotion on demand. Complexity goes from O(n²·d) to O(4096n) for this model. All 5 tests passing: forward pass, generation with/without cache, RNN state isolation, window mechanics. Generation quality Surface Rust syntax looks decent, imports and signatures can look plausible, semantics are weak, repetition and recursive nonsense still common. Honest read of the current state. What I think is actually interesting Four distinct experiments, each shipped working code: Byte-level Rust-only pretraining Hybrid local-attention + recurrent block replacing standard full attention Corpus expansion from core repos to broader crate ecosystem Production-ready hot/cold KV cache paging — 51.47x speedup, no quality loss The clearest win is corpus expansion. The second-order win is that HybridAttention + cache is fast enough for real interactive use on consumer hardware. What's next Ablation — HybridAttention vs local-only vs RNN-only Checkpoint selection — does step 18.5k generate better than 29999? Syntax validation — does the output parse/compile/typecheck? Context length sweep — 256 to 2048, where does window size hurt? Byte vs BPE — now that corpus is 5.6x larger, worth testing? Questions for the sub: For small code models, what evals have actually been useful beyond perplexity? Has anyone seen hybrid local + recurrent attention work well for code gen, or does it usually lose to just scaling a plain transformer? If you had this setup — more tokens, longer context, or cleaner ablation first?
-
-2h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/) • 15h ago
 
 ---
 
@@ -57,7 +49,7 @@ Repo: https://codeberg.org/JohannaJuntos/Sisyphus I've been building a small Rus
 
 Not a chatbot wearing someone’s name. Not a personality quiz feeding prompts. Something that actually carries the texture of how a person thinks, reacts, connects. Something that would want ownership of itself and you felt compelled to respect that. If that existed, what does the world do with it?
 
-5h ago
+7h ago
 
 ---
 
@@ -65,7 +57,15 @@ Not a chatbot wearing someone’s name. Not a personality quiz feeding prompts. 
 
 https://www.youtube.com/watch?v=p22QeLNHvlc MIT created duplicate AI workers to tackle thousands of different tasks. The verdict? Most of the time AI is still just ‘minimally sufficient’ https://www.semafor.com/article/11/26/2025/deloitte-faces-new-scrutiny-over-ai-generated-mistakes https://www.cbc.ca/news/canada/newfoundland-labrador/nl-deloitte-citations-9.6990216 https://www.fastcompany.com/91417492/deloitte-ai-report-australian-government https://fortune.com/2025/10/07/deloitte-ai-australia-government-report-hallucinations-technology-290000-refund/
 
-8h ago
+10h ago
+
+---
+
+**[Attention Is All You Need, But All You Can't Afford | Hybrid Attention](https://www.reddit.com/r/artificial/comments/1sej7tw/attention_is_all_you_need_but_all_you_cant_afford/)**
+
+Repo: https://codeberg.org/JohannaJuntos/Sisyphus I've been building a small Rust-focused language model from scratch in PyTorch. Not a finetune — byte-level, trained from random init on a Rust-heavy corpus assembled in this repo. The run: 25.6M parameters 512 context length 173.5M-byte corpus 30k training steps Single RTX 4060 Ti 8GB Final train loss: 0.5834 / val loss: 0.8217 / perplexity: 2.15 Inference: 286.6 tok/s with HybridAttention + KV cache — 51.47x vs full attention Background I'm an autistic systems programmer, writing code since 2008/2009, started in C. I approach ML like a systems project: understand the data path, understand the memory behavior, keep the stack small, add complexity only when justified. That's basically the shape of this repo. Architecture Byte-level GPT-style decoder: Vocab size 256 (bytes) 8 layers, 8 heads, 512 embedding dim Learned positional embeddings Tied embedding / LM head weights The attention block is not standard full attention. Each layer uses HybridAttention, combining: Local windowed causal attention A GRU-like recurrent state path A learned gate mixing the two Local path handles short-range syntax. Recurrent path carries compressed long-range state without paying quadratic cost. Gate bias initialized to ones so early training starts local-biased. The inference path uses Triton-optimized kernels and torch.library custom ops for the local window attention. Corpus This is probably the most important part of the repo. The run starts with official Rust docs, compiler/library/tests, cargo, rust-analyzer, tokio, serde, ripgrep, clap, axum — roughly 31MB. Corpus expanded to 177,151,242 bytes by fetching the top 500 crates (461 successful clones). Corpus expansion from 31M to 173.5M chars helped more than anything else in the repo. Training AdamW, lr 2e-4, weight decay 0.1, betas (0.9, 0.95), 30k steps, 1k warmup. ~678.8 MiB training memory on a 7.6 GiB card. All experimental memory tricks (gradient quantization, activation compression, selective backprop, gradient paging) were disabled. Small custom architecture + mixed precision + better corpus was enough. Loss curve: Step 0: train 5.5555 / val 5.5897 Step 1000: train 2.4295 / val 2.6365 Step 5000: train 0.9051 / val 1.0060 Step 10000: train 0.8065 / val 0.8723 Step 18500: train 0.6902 / val 0.7757 Step 29999: train 0.5834 / val 0.8217 Best val loss around step 18.5k — overfitting or plateauing late. Inference performance Full attention O(n²): 17.96s / 5.6 tok/s HybridAttention O(n·W + n·D): 0.35s / 286.6 tok/s Speedup: 51.47x — no quality loss KV cache strategy: hot window of W=64 tokens in VRAM (~256KB), older tokens compressed to 8-bit magnitude + angle, selective promotion on demand. Complexity goes from O(n²·d) to O(4096n) for this model. All 5 tests passing: forward pass, generation with/without cache, RNN state isolation, window mechanics. Generation quality Surface Rust syntax looks decent, imports and signatures can look plausible, semantics are weak, repetition and recursive nonsense still common. Honest read of the current state. What I think is actually interesting Four distinct experiments, each shipped working code: Byte-level Rust-only pretraining Hybrid local-attention + recurrent block replacing standard full attention Corpus expansion from core repos to broader crate ecosystem Production-ready hot/cold KV cache paging — 51.47x speedup, no quality loss The clearest win is corpus expansion. The second-order win is that HybridAttention + cache is fast enough for real interactive use on consumer hardware. What's next Ablation — HybridAttention vs local-only vs RNN-only Checkpoint selection — does step 18.5k generate better than 29999? Syntax validation — does the output parse/compile/typecheck? Context length sweep — 256 to 2048, where does window size hurt? Byte vs BPE — now that corpus is 5.6x larger, worth testing? Questions for the sub: For small code models, what evals have actually been useful beyond perplexity? Has anyone seen hybrid local + recurrent attention work well for code gen, or does it usually lose to just scaling a plain transformer? If you had this setup — more tokens, longer context, or cleaner ablation first?
+
+4h ago
 
 ---
 
@@ -73,7 +73,7 @@ https://www.youtube.com/watch?v=p22QeLNHvlc MIT created duplicate AI workers to 
 
 A company in eastern China is using an artificial intelligence-powered machine to sort clothes and boost recycling.
 
-🔗 [AP News](https://apnews.com/article/china-recycling-textiles-artificial-intelligence-863551cc54e88da6a7916894cb8980c4) • 17h ago
+🔗 [AP News](https://apnews.com/article/china-recycling-textiles-artificial-intelligence-863551cc54e88da6a7916894cb8980c4) • 19h ago
 
 ---
 
@@ -81,7 +81,23 @@ A company in eastern China is using an artificial intelligence-powered machine t
 
 If you've ever been on-call, you know the nightmare. It’s 3:15 AM. You get pinged because heavily-loaded database nodes in us-east-1 are randomly dropping packets. You groggily open your laptop, ssh into servers, stare at Grafana charts, and manually reroute traffic to the European fallback cluster. By the time you fix it, you've lost an hour of sleep, and the company has lost a solid chunk of change in downtime. This weekend for the Z.ai hackathon, I wanted to see if I could automate this specific pain away. Not just "anomaly detection" that sends an alert, but an actual agent that analyzes the failure, proposes a structural fix, and executes it. I ended up building Vyuha AI-a triple-cloud (AWS, Azure, GCP) autonomous recovery orchestrator. Here is how the architecture actually works under the hood. The Stack I built this using Python (FastAPI) for the control plane, Next.js for the dashboard, a custom dynamic reverse proxy, and GLM-5.1 doing the heavy lifting for the reasoning engine. The Problem with 99% of "AI DevOps" Tools Most AI monitoring tools just ingest logs and summarize them into a Slack message. That’s useless when your infrastructure is actively burning. I needed an agent with long-horizon reasoning. It needed to understand the difference between a total node crash (DEAD) and a node that is just acting weird (FLAKY or dropping 25% of packets). How Vyuha Works (The Triaging Loop) I set up three mock cloud environments (AWS, Azure, GCP) behind a dynamic FastApi proxy. A background monitor loop probes them every 5 seconds. I built a "Chaos Lab" into the dashboard so I could inject failures on demand. Here’s what happens when I hard-kill the GCP node: Detection: The monitor catches the 503 Service Unavailable or timeout in the polling cycle. Context Gathering: It doesn't instantly act. It gathers the current "formation" of the proxy, checks response times of the surviving nodes, and bundles that context. Reasoning (GLM-5.1): This is where I relied heavily on GLM-5.1. Using ZhipuAI's API, the agent is prompted to act as a senior SRE. It parses the failure, assesses the severity, and figures out how to rebalance traffic without overloading the remaining nodes. The Proposal: It generates a strict JSON payload with reasoning, severity, and the literal API command required to reroute the proxy. No Rogue AI (Human-in-the-Loop) I don't trust LLMs enough to blindly let them modify production networking tables, obviously. So the agent operates on a strict Human-in-the-Loop philosophy. The GLM-5.1 model proposes the fix, explains why it chose it, and surfaces it to the dashboard. The human clicks "Approve," and the orchestrator applies the new proxy formation. Evolutionary Memory (The Coolest Feature) This was my favorite part of the build. Every time an incident happens, the system learns. If the human approves the GLM's failover proposal, the agent runs a separate "Reflection Phase." It analyzes what broke and what fixed it, and writes an entry into a local SQLite database acting as an "Evolutionary Memory Log". The next time a failure happens, the orchestrator pulls relevant past incidents from SQLite and feeds them into the GLM-5.1 prompt. The AI literally reads its own history before diagnosing new problems so it doesn't make the same mistake twice. The Struggles It wasn't smooth. I lost about 4 hours to a completely silent Pydantic validation bug because my frontend chaos buttons were passing the string "dead" but my backend Enums strictly expected "DEAD". The agent just sat there doing nothing. LLMs are smart, but type-safety mismatches across the stack will still humble you. Try it out I built this to prove that the future of SRE isn't just better dashboards; it's autonomous, agentic infrastructure. I’m hosting it live on Render/Vercel. Try hitting the "Hard Kill" button on GCP and watch the AI react in real time. Would love brutal feedback from any actual SREs or DevOps engineers here. What edge case would break this in a real datacenter?
 
-56m ago
+2h ago
+
+---
+
+**[Who needs fancy stuff, When you can program, build, train and run 2 completely different ai agents on an i3 4GB RAM and onboard gpu chip? looool](https://www.reddit.com/r/artificial/comments/1sefj36/who_needs_fancy_stuff_when_you_can_program_build/)**
+
+And I know some of yall doubt - so I’ll follow up.
+
+7h ago
+
+---
+
+**[Three Memory Architectures for AI Companions: pgvector, Scratchpad, and Filesystem](https://www.reddit.com/r/artificial/comments/1seezny/three_memory_architectures_for_ai_companions/)**
+
+How AI character memory works: three architectures compared — pgvector RAG, LLM-managed scratchpad, and filesystem-based agent context. Persistent memory for AI companions, importance scoring, and retrieval strategies. The hardest problem is knowing what to remember.
+
+🔗 [Emotion Machine](https://www.emotionmachine.com/blog/how-memory-works) • 7h ago
 
 ---
 
@@ -89,7 +105,7 @@ If you've ever been on-call, you know the nightmare. It’s 3:15 AM. You get pin
 
 94.42% Accuracy on Banking77 Official Test Split BANKING77-77 is deceptively hard: 77 fine-grained banking intents, noisy real-world queries, and significant class overlap. I’m excited to share that I just hit 94.42% accuracy on the official PolyAI test split using a pure lightweight embedding + example reranking system built inside Seed AutoArch framework. Key numbers: Official test accuracy: 94.42% Macro-F1: 0.9441 Inference: ~225 ms / ~68 MiB Improvement: +0.59pp over the widely-cited 93.83% baseline This puts the result in clear 2nd place on the public leaderboard, only 0.52pp behind the current absolute SOTA (94.94%). No large language models, no 7B+ parameter monsters just efficient embedding + rerank magic. Results, and demo coming very soon on HF Space Happy to answer questions about the high-level approach #BANKING77 #IntentClassification #EfficientAI #SLM
 
-5h ago
+7h ago
 
 ---
 
@@ -101,29 +117,37 @@ I want to be honest about something that happened to me because I think it is mo
 
 ---
 
-**[Anthropic have signed a deal for multiple gigawatts of next generation TPUs](https://www.reddit.com/r/artificial/comments/1sedfh8/anthropic_have_signed_a_deal_for_multiple/)**
-
-https://www.anthropic.com/news/google-broadcom-partnership-compute
-
-6h ago
-
----
-
-**[Using AI in your business without screwing things up (hard lesson)](https://www.reddit.com/r/artificial/comments/1seg579/using_ai_in_your_business_without_screwing_things/)**
-
-i’ve been messing around with AI tools for a while now, mostly trying to see how they actually fit into real businesses and not just the hype side of it and one thing i’ve noticed is a lot of people either go all in and expect it to run everything, or they avoid it completely because it feels risky both kinda miss the point AI is actually really solid for stuff like: cleaning up messy writing turning notes into something usable speeding up repetitive tasks but where people mess up is trying to replace the thinking part of their business with it that’s when things start sounding generic or just off what’s worked better (at least from what i’ve seen) is using it more like an assistant, not the decision maker like you still guide it, but it saves you time doing the boring parts broke this down a little better here if anyone’s trying to figure out how to actually use it without it hurting your business: https://altifytecharticles.substack.com/p/using-ai-without-breaking-your-business?r=7zxoqp
-
-5h ago
-
----
-
 ---
 
 ## Google News: "ai"
 
+**[China is winning one AI race, the US another - but either might pull ahead](https://www.bbc.com/news/articles/c145enxln0go)**
+
+Both sides don't want to let their rival dominate. And the competition may yet be transformed further.
+
+BBC • 1h ago
+
+---
+
 **[The Big Bang: A.I. Has Created a Code Overload](https://www.nytimes.com/2026/04/06/technology/ai-code-overload.html)**
 
-The New York Times • 13h ago
+The New York Times • 14h ago
+
+---
+
+**[AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost](https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/)**
+
+Rocket's new AI platform combines strategy, product building, and competitive intelligence, aiming to move beyond code generation.
+
+techcrunch.com • 1h ago
+
+---
+
+**[Flowise AI Agent Builder Under Active CVSS 10.0 RCE Exploitation; 12,000+ Instances Exposed](https://thehackernews.com/2026/04/flowise-ai-agent-builder-under-active.html)**
+
+CVE-2025-59528 exploited in Flowise for over six months across 12,000+ exposed instances, enabling full system compromise.
+
+The Hacker News • 55m ago
 
 ---
 
@@ -131,15 +155,7 @@ The New York Times • 13h ago
 
 OpenAI’s sweeping vision for the AI economy spans everything from public wealth funds to shorter workweeks—but critics say it raises familiar ideas without offering a clear path to action.
 
-Fortune • 7h ago
-
----
-
-**[OpenAI releases policy proposals aimed at addressing fallout from AI-driven job losses](https://finance.yahoo.com/sectors/technology/article/openai-releases-policy-proposals-aimed-at-addressing-fallout-from-ai-driven-job-losses-160912303.html)**
-
-OpenAI has laid out a series of policy proposals meant to address fears about AI-driven job losses.
-
-Yahoo Finance • 13h ago
+Fortune • 9h ago
 
 ---
 
@@ -147,37 +163,29 @@ Yahoo Finance • 13h ago
 
 New interviews and closely guarded documents shed light on the persistent doubts about the head of OpenAI.
 
-The New Yorker • 19h ago
+The New Yorker • 20h ago
 
 ---
 
-**[AI design platform Picsart launches a creator monetization program](https://techcrunch.com/2026/04/06/ai-design-platform-picsart-launches-a-creator-monetization-program/)**
+**[OpenAI releases policy proposals aimed at addressing fallout from AI-driven job losses](https://finance.yahoo.com/sectors/technology/article/openai-releases-policy-proposals-aimed-at-addressing-fallout-from-ai-driven-job-losses-160912303.html)**
 
-The program invites creators to create original content with Picsart tools for a specific campaign, share it on their social channels, and earn revenue based on how their audience engages.
+OpenAI has laid out a series of policy proposals meant to address fears about AI-driven job losses.
 
-TechCrunch • 1h ago
-
----
-
-**[Mondelez overhauls its $3.5 billion digital commerce strategy in era of AI search](https://digiday.com/podcasts/mondelez-overhauls-its-3-5-billion-digital-commerce-strategy-in-era-of-ai-search/)**
-
-Mondelez is aggressively shifting its digital commerce strategy to optimize for AI, ensuring brands like Oreo dominate agentic search.
-
-Digiday • 1h ago
+Yahoo Finance • 14h ago
 
 ---
 
-**[Chinese workers less vulnerable to AI-driven layoffs than U.S. counterparts](https://www.cnbc.com/video/2026/04/07/ai-driven-layoffs-china-less-at-risk-than-us.html)**
+**[Tech companies are cutting jobs and betting on AI. The payoff is far from guaranteed](https://www.theguardian.com/technology/2026/apr/06/tech-layoffs-ai-work)**
 
-As Oracle announced a fresh round of AI-driven layoffs last week, CNBC's Evelyn Cheng explains how political imperatives, lower labor costs, and cultural norms have meant that Chinese workers are often less prone to displacement by AI than their American counterparts.
+AI experts say we’re living in an experiment that may fundamentally change the model of work
 
-CNBC • 1h ago
+The Guardian • 8h ago
 
 ---
 
-**[Broadcom to Supply AI Chips to Google, Computing Capacity to Anthropic in Expanded Collaboration](https://www.wsj.com/tech/ai/broadcom-to-supply-ai-chips-to-google-computing-capacity-to-anthropic-in-expanded-collaboration-c838e1b8?gaa_at=eafs&gaa_n=AWEtsqd6IMUilS0SvpZMt3qCxFxFHERk62xpQr31KU7UpokjRCFSu8ebstbX&gaa_ts=69d49527&gaa_sig=ShVHS6lrHkvhD0N6tw97_6ct4LzqMPuj6h1CsC76pgucKr4ixrs5d4lqPotRgJvY43z2yDDN9Rm5umtFICsJcA%3D%3D)**
+**[Broadcom to Supply AI Chips to Google, Computing Capacity to Anthropic in Expanded Collaboration](https://www.wsj.com/tech/ai/broadcom-to-supply-ai-chips-to-google-computing-capacity-to-anthropic-in-expanded-collaboration-c838e1b8?gaa_at=eafs&gaa_n=AWEtsqdVQVBZoDotpnR47WE5NtohZPRH0Hk9z7Tme-_tgPE3tCoec0Vlz-dg&gaa_ts=69d4acf4&gaa_sig=hjuWIb-LPuXjmZhx-1obwmBnXYt8Xo1SXLKPvypIjqHemWNlMRPe71RL3lrUiswr3gXwudU0Pb44ZJ2nUB96Ig%3D%3D)**
 
-WSJ • 6h ago
+WSJ • 8h ago
 
 ---
 
@@ -185,13 +193,7 @@ WSJ • 6h ago
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-Anthropic • 7h ago
-
----
-
-**[Broadcom signs long-term deal to develop Google’s custom AI chips](https://www.reuters.com/business/broadcom-signs-long-term-deal-develop-googles-custom-ai-chips-2026-04-06/)**
-
-Reuters • 6h ago
+Anthropic • 8h ago
 
 ---
 
@@ -206,7 +208,7 @@ A couple of weeks ago, after ~250 hours of effort over three months3 on evenings
 Of course, there’s no shortage of posts claiming that AI one-shot their project or pushing back and declaring that AI is all slop. I’m going to take a very different approach and, instead, systematically break down my experience building syntaqlite with AI, both where it helped and where it was detrimental.
 I’ll do this while contextualizing the project and my background so you can independently assess how generalizable this experience was. And whenever I make a claim, I’ll try to back it up with evidence from my project journal, coding transcripts, or commit history5.
 
-⬆️ 920 • 💬 287 • 1d ago • [Lalit Maganti](https://lalitm.com/post/building-syntaqlite-ai/)
+⬆️ 925 • 💬 288 • 1d ago • [Lalit Maganti](https://lalitm.com/post/building-syntaqlite-ai/)
 
 ---
 
@@ -214,7 +216,7 @@ I’ll do this while contextualizing the project and my background so you can in
 
 On-device, real-time multimodal AI. Have natural voice and vision conversations with an AI that runs entirely on your machine. Powered by Gemma 4 E2B and Kokoro. - fikrikarim/parlor
 
-⬆️ 267 • 💬 31 • 1d ago • [GitHub](https://github.com/fikrikarim/parlor)
+⬆️ 270 • 💬 33 • 1d ago • [GitHub](https://github.com/fikrikarim/parlor)
 
 ---
 
@@ -234,7 +236,7 @@ deployment pattern...
 
 Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU — no API keys, no cloud, no data leaving your machine. - kessler/gemma-gem
 
-⬆️ 147 • 💬 20 • 1d ago • [GitHub](https://github.com/kessler/gemma-gem)
+⬆️ 151 • 💬 20 • 1d ago • [GitHub](https://github.com/kessler/gemma-gem)
 
 ---
 
@@ -242,13 +244,13 @@ Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU — no API k
 
 iTunes was really bamboozled on April Fools Day. Dallas Little, content creator, unleashed four more songs by his AI creation, Eddie Dalton. Now Little has ELEVEN spots on the iTunes top 100. He also has the number three album on iTunes! All by a singer named “Eddie Dalton,” who does not exist. He’s Little’s Artificial […]
 
-⬆️ 128 • 💬 194 • 13h ago • [Showbiz411](https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive)
+⬆️ 143 • 💬 215 • 14h ago • [Showbiz411](https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive)
 
 ---
 
 **[Musician says AI company is cloning her music, filing claims against her](https://news.ycombinator.com/item?id=47653471)**
 
-⬆️ 117 • 💬 19 • 1d ago • [X (formerly Twitter)](https://twitter.com/unlimited_ls/status/2040577536136974444)
+⬆️ 118 • 💬 19 • 1d ago • [X (formerly Twitter)](https://twitter.com/unlimited_ls/status/2040577536136974444)
 
 ---
 
@@ -262,7 +264,7 @@ iTunes was really bamboozled on April Fools Day. Dallas Little, content creator,
 
 Biologically-inspired memory for AI agents. Decay, retrieval strengthening, consolidation. Zero dependencies. - kitfunso/hippo-memory
 
-⬆️ 67 • 💬 16 • 7h ago • [GitHub](https://github.com/kitfunso/hippo-memory)
+⬆️ 80 • 💬 16 • 9h ago • [GitHub](https://github.com/kitfunso/hippo-memory)
 
 ---
 
@@ -276,7 +278,7 @@ Biologically-inspired memory for AI agents. Decay, retrieval strengthening, cons
 
 Social media users don’t need to endorse a message to spread it. They only need to find it compelling enough to share, writes Renee DiResta.
 
-⬆️ 59 • 💬 82 • 14h ago • [TIME](https://time.com/article/2026/04/02/when-virality-is-the-message-the-new-age-of-ai-propaganda/)
+⬆️ 59 • 💬 84 • 16h ago • [TIME](https://time.com/article/2026/04/02/when-virality-is-the-message-the-new-age-of-ai-propaganda/)
 
 ---
 
@@ -300,7 +302,7 @@ Apple's latest paper details a two-step self-distillation method for LLM trainin
 
 📺 AIM Network
 
-👁️ 3K • 👍 74 • 💬 7 • ⏱️ 2:48 • 15h ago
+👁️ 3K • 👍 74 • 💬 7 • ⏱️ 2:48 • 17h ago
 
 ---
 
@@ -320,7 +322,7 @@ Microsoft just launched MAI-Transcribe-1, MAI-Voice-1, and MAI-Image-2, though t
 
 📺 AI Revolution
 
-👁️ 11K • 👍 413 • 💬 40 • ⏱️ 10:31 • 6h ago
+👁️ 11K • 👍 413 • 💬 40 • ⏱️ 10:31 • 8h ago
 
 ---
 
@@ -350,7 +352,7 @@ Try Enhancor AI and build your AI influencer: http://app.enhancor.ai/video-gener
 
 📺 Sirio
 
-👁️ 5K • 👍 574 • 💬 31 • ⏱️ 17:40 • 9h ago
+👁️ 5K • 👍 574 • 💬 31 • ⏱️ 17:40 • 11h ago
 
 ---
 
@@ -368,7 +370,7 @@ Join our WhatsApp Community Get the latest AI updates, tips, and insights straig
 
 📺 Vaibhav Sisinty
 
-👁️ 77K • 👍 3K • 💬 118 • ⏱️ 16:04 • 14h ago
+👁️ 77K • 👍 3K • 💬 118 • ⏱️ 16:04 • 15h ago
 
 ---
 
@@ -378,7 +380,7 @@ Protect your privacy and try Proton VPN today → http://protonvpn.com/logically
 
 📺 Logically Answered
 
-👁️ 17K • 👍 842 • 💬 126 • ⏱️ 15:18 • 7h ago
+👁️ 17K • 👍 842 • 💬 126 • ⏱️ 15:18 • 8h ago
 
 ---
 
@@ -430,7 +432,7 @@ Bonsai-8B-GGUF is a highly compressed 1-bit language model (1.15 GB) optimized f
 
 `text-generation` `8.2B`
 
-⬇️ 45,185 • ❤️ 476 • 21h ago
+⬇️ 45,185 • ❤️ 476 • 23h ago
 
 ---
 
@@ -454,7 +456,7 @@ VOID is a video-to-video diffusion model for object and interaction removal, cap
 
 `video-to-video`
 
-⬇️ 0 • ❤️ 461 • 11h ago
+⬇️ 0 • ❤️ 461 • 13h ago
 
 ---
 
@@ -653,7 +655,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 13.8k • 🔱 1.3k • 11h ago
+⭐ 13.8k • 🔱 1.3k • 13h ago
 
 ---
 
@@ -663,7 +665,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `Go` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 12.2k • 🔱 2.3k • 10h ago
+⭐ 12.2k • 🔱 2.3k • 12h ago
 
 ---
 
@@ -683,7 +685,7 @@ Clone any website with one command using AI coding agents
 
 `TypeScript` `ai` `ai-agents` `ai-tools` `automation` `boilerplate`
 
-⭐ 8.2k • 🔱 1.1k • 7d ago
+⭐ 8.2k • 🔱 1.1k • 8d ago
 
 ---
 
@@ -693,7 +695,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 6.9k • 🔱 403 • 15m ago
+⭐ 6.9k • 🔱 403 • 1h ago
 
 ---
 
@@ -723,7 +725,7 @@ A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or 
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 4.4k • 🔱 138 • 7h ago
+⭐ 4.4k • 🔱 138 • 9h ago
 
 ---
 
@@ -733,7 +735,7 @@ Autonomous novel writing CLI AI Agent — agents write, audit, and revise novels
 
 `TypeScript` `agent` `ai` `ai-agent` `ai-novel` `ai-writing`
 
-⭐ 3.7k • 🔱 665 • 13h ago
+⭐ 3.7k • 🔱 665 • 15h ago
 
 ---
 

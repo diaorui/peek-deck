@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-07T05:10:26.193536+00:00'
+updated: '2026-04-07T06:51:51.306447+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 07, 2026 at 05:10 UTC  
+**Last Updated:** April 07, 2026 at 06:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Tesollo DG-5F-S lightweight robotic hand built for humanoid integration](https://www.reddit.com/r/robotics/comments/1se4j5s/tesollo_dg5fs_lightweight_robotic_hand_built_for/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 I need help in placing the components on the robot for the best way to balance it. Also I plan to scale to to something like a delivery robot for small payloads. Prolly, something in my room 😅 but I need help in understanding how these balancing robots work and how I should place my components to make this work.
 
-7h ago
+9h ago
 
 ---
 
@@ -50,7 +50,7 @@ I need help in placing the components on the robot for the best way to balance i
 
 Very first proof of concept. This is going to be fun. It's still a bit slow to progress, I need to optimize a few things. But it gets the idea. Llm writes a few lines of javascript to create the motion and executes it.
 
-14h ago
+16h ago
 
 ---
 
@@ -58,7 +58,15 @@ Very first proof of concept. This is going to be fun. It's still a bit slow to p
 
 Most robotics coverage nowadays is focusing on industrial automation or consumer novelty, but this also caught my attention: Singapore's Gardens by the Bay is rolling out a free-to-rent robotic guide dog (built by the Singapore-based firm RoamAssist) for visually impaired visitors in its Flower Dome from Q3 2026. The robot and system are pre-programmed with a full tour route, provide real-time audio guidance on plant exhibits, and are designed for independent navigation with no human escort. They're pairing it with an online sensory map for autistic visitors launching in June. It's not "Boston Dynamics" level of attention but it's a interesting attempt at real-world deployment of "assistant" robotics in a public space. Curious what people here think Article - https://www.straitstimes.com/singapore/gardens-by-the-bay-to-offer-robot-guide-dog-online-sensory-map-for-visitors-with-disabilities
 
-14h ago
+16h ago
+
+---
+
+**[Makeshift anti air project](https://www.reddit.com/r/robotics/comments/1senbxt/makeshift_anti_air_project/)**
+
+Do you think in the coming future me any my friends who are looking to do robotics would be able to build a makeshift anti air system but simplified? It would act like an iron dome that intercepts missiles but the interceptors would really be a small aerial object that uses a detection system of some sort. Keep in mind this would be made using simple circuits like Arduino as we don’t have a large budget.
+
+1h ago
 
 ---
 
@@ -66,7 +74,7 @@ Most robotics coverage nowadays is focusing on industrial automation or consumer
 
 I've been working on a robot dog and wanted to show off my progress. I have a single leg working pretty well now. 3 legs to go! Made with: Motor: Eaglepower 8308 Gearbox: 15:1 Cycloidal that I designed and 3d printed Microcontroller: Teensy 4.1 + CAN bus Motor Controllers: ODrive 3.6 Clone boards from Aliexpress Battery: Ryobi 40v Everything else: bearings, bolts, and printed parts from a Bambu P1S This is a labor of love. My regular day job is a software developer/manager. Mostly focused on learning fast and keeping costs down. I'm having so much fun learning and building this stuff
 
-14h ago
+16h ago
 
 ---
 
@@ -74,7 +82,7 @@ I've been working on a robot dog and wanted to show off my progress. I have a si
 
 Still fairly new to robotics and hardware and something I keep running into is how much time the planning phase takes before I'm confident enough to actually order parts. I've been going down rabbit holes of YouTube videos, datasheets, and forum threads just trying to figure out what I need and how it all connects and half the time I still get something wrong and end up waiting on a replacement order. Do you sketch the circuit out first? Start from the power requirements and work backward? Have a go-to process for validating your parts list before ordering?
 
-8h ago
+10h ago
 
 ---
 
@@ -94,15 +102,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 **[Rodney Brooks: We won't see AGI for 300 years](https://www.reddit.com/r/robotics/comments/1se6glu/rodney_brooks_we_wont_see_agi_for_300_years/)**
 
-11h ago
-
----
-
-**[Robot Head or Automated Projector?](https://www.reddit.com/r/robotics/comments/1sea5bn/robot_head_or_automated_projector/)**
-
-https://www.youtube.com/@ALMA.GeoffreyAment Chapter 2, a home theatre, 3D printed parts, motorized projector, home decoration, and DIY electronics -- if you know of anyone else that might be interested in this stuff, sharing to others would really help me out! Hope to see you around here or YouTube :)
-
-8h ago
+12h ago
 
 ---
 
@@ -114,29 +114,7 @@ https://www.youtube.com/@ALMA.GeoffreyAment Chapter 2, a home theatre, 3D printe
 
 New model can respond to disruptions and figure out moves it wasn't trained for.
 
-Ars Technica • 6h ago
-
----
-
-**[Asimov’s three laws of robotics survived 82 years, we broke them in 30 minutes, costs 80 cents, and then remade them](https://blog.adafruit.com/2026/04/05/asimovs-three-laws-of-robotics-survived-82-years-we-broke-them-in-30-minutes-costs-80-cents-and-then-remade-them/)**
-
-Adafruit • 1d ago
-
----
-
-**[National Robotics Week — Latest Physical AI Research, Breakthroughs and Resources](https://blogs.nvidia.com/blog/national-robotics-week-2026/)**
-
-This National Robotics Week, NVIDIA is highlighting the breakthroughs that are bringing AI into the physical world.
-
-NVIDIA Blog • 18h ago
-
----
-
-**[A Chinese robotics startup with a Tesla Optimus rival is seeking a new chief scientist with an $18 million salary](https://www.businessinsider.com/chinese-robotics-startup-tesla-rival-18-million-salary-chief-scientist-2026-4)**
-
-The race for AI and robotics talent is heating up and getting expensive.
-
-Business Insider • 18h ago
+Ars Technica • 8h ago
 
 ---
 
@@ -144,23 +122,7 @@ Business Insider • 18h ago
 
 Funding data and leasing activity show that companies using the groundbreaking tech on the physical world are having their moment.
 
-The San Francisco Standard • 16h ago
-
----
-
-**[Robotic guards now man data centers. Is your personal security at risk?](https://3dvf.com/en/robotic-guards-now-man-data-centers-is-your-personal-security-at-risk/)**
-
-They don't blink, don't take breaks, and can hear trouble before humans do. But when the night watch has four legs and cameras, who is safer and who is more exposed?
-
-3DVF • 14h ago
-
----
-
-**[Week Wraps Aboard Station with Spacesuits, Eye Checks, Robotics, and More](https://www.nasa.gov/blogs/spacestation/2026/04/03/week-wraps-aboard-station-with-spacesuits-eye-checks-robotics-and-more/)**
-
-Spacesuit work and eye checks wrapped up the week for the Expedition 74 crew aboard the International Space Station. The orbital residents also focused on robotics, cargo transfers, and science hardware maintenance at the end of the week.
-
-NASA (.gov) • 3d ago
+The San Francisco Standard • 17h ago
 
 ---
 
@@ -172,9 +134,11 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Resilient actuator shows potential for space-ready soft robots](https://techxplore.com/news/2026-04-resilient-actuator-potential-space-ready.html)**
+**[A Chinese robotics startup with a Tesla Optimus rival is seeking a new chief scientist with an $18 million salary](https://www.businessinsider.com/chinese-robotics-startup-tesla-rival-18-million-salary-chief-scientist-2026-4)**
 
-Tech Xplore • 1d ago
+The race for AI and robotics talent is heating up and getting expensive.
+
+Business Insider • 20h ago
 
 ---
 
@@ -182,7 +146,43 @@ Tech Xplore • 1d ago
 
 NILES — While the Easter Bunny was nearby greeting young children, local high school students gathered this weekend inside the ...
 
-tribtoday.com • 22h ago
+tribtoday.com • 23h ago
+
+---
+
+**[Asimov’s three laws of robotics survived 82 years, we broke them in 30 minutes, costs 80 cents, and then remade them](https://blog.adafruit.com/2026/04/05/asimovs-three-laws-of-robotics-survived-82-years-we-broke-them-in-30-minutes-costs-80-cents-and-then-remade-them/)**
+
+Adafruit • 1d ago
+
+---
+
+**[Robotic guards now man data centers. Is your personal security at risk?](https://3dvf.com/en/robotic-guards-now-man-data-centers-is-your-personal-security-at-risk/)**
+
+They don't blink, don't take breaks, and can hear trouble before humans do. But when the night watch has four legs and cameras, who is safer and who is more exposed?
+
+3DVF • 15h ago
+
+---
+
+**[Week Wraps Aboard Station with Spacesuits, Eye Checks, Robotics, and More](https://www.nasa.gov/blogs/spacestation/2026/04/03/week-wraps-aboard-station-with-spacesuits-eye-checks-robotics-and-more/)**
+
+Spacesuit work and eye checks wrapped up the week for the Expedition 74 crew aboard the International Space Station. The orbital residents also focused on robotics, cargo transfers, and science hardware maintenance at the end of the week.
+
+NASA (.gov) • 3d ago
+
+---
+
+**[National Robotics Week — Latest Physical AI Research, Breakthroughs and Resources](https://blogs.nvidia.com/blog/national-robotics-week-2026/)**
+
+This National Robotics Week, NVIDIA is highlighting the breakthroughs that are bringing AI into the physical world.
+
+NVIDIA Blog • 19h ago
+
+---
+
+**[Resilient actuator shows potential for space-ready soft robots](https://techxplore.com/news/2026-04-resilient-actuator-potential-space-ready.html)**
+
+Tech Xplore • 1d ago
 
 ---
 
@@ -214,7 +214,7 @@ US startup Foundation is developing humanoid robots for military use. The goal i
 
 📺 Robot Julie 
 
-👁️ 2K • 👍 8 • 💬 1 • ⏱️ 0:23 • 4h ago
+👁️ 2K • 👍 8 • 💬 1 • ⏱️ 0:23 • 6h ago
 
 ---
 
@@ -244,7 +244,7 @@ Ad: Check out PCBWay for all your project needs! Get $10 off orders over $30 wit
 
 📺 James Bruton
 
-👁️ 65K • 👍 4K • 💬 214 • ⏱️ 16:17 • 6d ago
+👁️ 65K • 👍 4K • 💬 214 • ⏱️ 16:17 • 7d ago
 
 ---
 

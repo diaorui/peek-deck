@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-07T05:10:26.190810+00:00'
+updated: '2026-04-07T06:51:51.303289+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
-- videos
 - news
+- cryptocurrency
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 07, 2026 at 05:10 UTC  
+**Last Updated:** April 07, 2026 at 06:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,111.32
+### $2,104.25
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.8%  
-**7d:** -1.3%  
-**30d:** +5.9%  
-**90d:** -32.1%  
-**1y:** +43.4%  
+**24h:** -1.6%  
+**7d:** -1.8%  
+**30d:** +5.4%  
+**90d:** -32.5%  
+**1y:** +42.7%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9m ago
+1h ago
 
 ---
 
@@ -88,13 +88,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 A simple question for the community. I was recently asked for me public key (to my metamask wallet) I know that Bitcoin public keys should still be treated with some care as they disclose all transactions to that address in any blockchain explorer Is this the same with Ethereum?
 
-9h ago
+10h ago
 
 ---
 
 **[ZK-powered order book DEXs are quietly becoming the most interesting sector in DeFi. Is anyone else paying attention?](https://www.reddit.com/r/ethereum/comments/1sdxks3/zkpowered_order_book_dexs_are_quietly_becoming/)**
 
-16h ago
+18h ago
 
 ---
 
@@ -102,7 +102,7 @@ A simple question for the community. I was recently asked for me public key (to 
 
 Hi, I used to work as a technical full-stack developer and recently I spent some time investigating this thing everyone's talking about "Quantum computing destroying encryption". Well, there are many remedies already available: Example 1 - for not technical people: https://www.nist.gov/news-events/news/2024/08/nist-releases-first-3-finalized-post-quantum-encryption-standards Example 2 - for technical people: https://github.com/open-quantum-safe/oqs-provider Most companies / IT projects are not prioritising it only because quantum computing threads might be decades away, and businesses don't execute investments on security unless there is a true threat. That's why your email providers, messaging apps, etc. don't have post-quantum standards implemented (such as: ml-dsa, ml-kem, slh-dsa). Yes. It is more complicated to secure decentralized Crypto than a website, but - anyway most of us use platforms like CoinBase, Kraken, Binance, .. and those holding crypto in one-single physical wallet - are not really the targets here. Anyhow, please, I hope my post helps some of you to be a bit calmer about this topic. I am definitely calmer after my research. Let's not cause panic sell-off. Have a great day everyone!
 
-11h ago
+13h ago
 
 ---
 
@@ -154,7 +154,7 @@ Russia submitted a bill requiring residents to report all foreign crypto wallet 
 
 Publicly traded Ethereum treasury firm BitMine Immersion Technologies added $150 million of ETH last week, boosting its $10.3 billion stash.
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -162,7 +162,7 @@ Yahoo Finance • 14h ago
 
 Bitmine has been approved for uplisting to the New York Stock Exchange ("NYSE") from the NYSE American effective at the opening of trading on April 9, 2026...
 
-PR Newswire • 16h ago
+PR Newswire • 18h ago
 
 ---
 
@@ -170,31 +170,31 @@ PR Newswire • 16h ago
 
 With a 6.8% gain, and outperforming both the S&P 500 and gold, Ethereum remains a strong wartime store of value," said Lee.
 
-The Block • 15h ago
+The Block • 16h ago
 
 ---
 
-**[Algorand just jumped 50% after Google flags quantum risk for Bitcoin and Ethereum](https://cryptoslate.com/algorand-just-jumped-50-after-a-google-flags-quantum-risk-for-bitcoin-and-ethereum/)**
+**[Why Are Bitcoin, Ethereum and XRP Prices Going Up Today?](https://www.tradingview.com/news/coinpedia:62c4540d7094b:0-why-are-bitcoin-ethereum-and-xrp-prices-going-up-today/)**
 
-Algorand's ALGO token has emerged as an unexpected beneficiary of the market’s latest quantum-computing debate.
+Crypto markets are in the green on Monday, with Bitcoin, Ethereum and XRP all posting modest gains after weeks of subdued price action. Bitcoin is trading around $69,137, up 3% in 24 hours. Ethereum has climbed to $2,131, gaining nearly 4%. XRP is holding near $1.33, up roughly 2% on the day.Iran T…
 
-CryptoSlate • 1d ago
-
----
-
-**[$82 Million In Ethereum Just Left FalconX: Discover Who Is Behind It](https://www.tradingview.com/news/newsbtc:c30f760a1094b:0-82-million-in-ethereum-just-left-falconx-discover-who-is-behind-it/)**
-
-Ethereum is trying to hold above $2,150. The market is waking up. And in the last hour, someone withdrew $82 million in ETH from an institutional prime brokerage — and the identity of that someone is the question the on-chain data is already trying to answer.Arkham Intelligence has tracked a transa…
-
-TradingView • 4h ago
+TradingView • 1d ago
 
 ---
 
-**[55-year-old asset manager teases spot Bitcoin, Ethereum trading](https://au.finance.yahoo.com/news/55-old-asset-manager-teases-005000687.html)**
+**[Bitcoin and ethereum price today, Monday, April 6, 2026: Prices rise amid reports of a proposed Iran war ceasefire](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-monday-april-6-2026-prices-rise-amid-reports-of-a-proposed-iran-war-ceasefire-113813797.html)**
 
-Charles Schwab is making its most direct move yet into the crypto market. The asset management giant has opened a waitlist for a new "Schwab CryptoTM" trading platform that will allow clients to buy and sell Bitcoin (BTC) and Ethereum (ETH) directly. The development comes just a few months ...
+​​Bitcoin and ethereum opened at $68,978.91 and $2,108.78, respectively. Both cryptos rose on Monday morning after news outlets reported on a diplomatic attempt to end the Iran war.
 
-au.finance.yahoo.com • 4h ago
+Yahoo Finance • 19h ago
+
+---
+
+**[Why XRP Can’t Join the Big Three Bitcoin, Ethereum, and USDT](https://watcher.guru/news/why-xrp-cant-join-the-big-three-bitcoin-ethereum-and-usdt)**
+
+Why XRP can't crack the big three: supply pressure, price resistance, and a market cap gap that keeps widening against Bitcoin and Ethereum.
+
+Watcher Guru • 1d ago
 
 ---
 
@@ -202,13 +202,21 @@ au.finance.yahoo.com • 4h ago
 
 Ethereum price extended gains above $2,150 before it faced sellers. ETH is now correcting gains and might find bids near the $2,080 zone.Ethereum Price Aims HigherEthereum price remained stable above $2,050 and started a decent upward move, like Bitcoin. ETH price climbed above the $2,080 and $2,12…
 
-TradingView • 2h ago
+TradingView • 3h ago
 
 ---
 
 **['Drop To $1,500'—Ethereum Suddenly Faces 60% Odds Of Losing Crown](https://www.forbes.com/sites/digital-assets/2026/04/06/drop-to-1500-ethereum-suddenly-faces-60-odds-of-losing-crown/)**
 
-Forbes • 2h ago
+Forbes • 3h ago
+
+---
+
+**[What price will Ethereum hit on April 6? Trading Odds & Predictions](https://polymarket.com/event/what-price-will-ethereum-hit-on-april-6)**
+
+$63,959 has traded on "What price will Ethereum hit on April 6?" as of April 7, 2026. View real-time odds or trade on The World's Largest Prediction Market™
+
+Polymarket • 1d ago
 
 ---
 
@@ -216,15 +224,7 @@ Forbes • 2h ago
 
 There was short-lived optimism in the air about a potential resolution to the Iran war.
 
-The Motley Fool • 4h ago
-
----
-
-**[Sharplink CIO reveals why holding unstaked Ethereum ‘doesn’t make sense’](https://www.thestreet.com/crypto/markets/sharplink-cio-reveals-why-holding-unstaked-ethereum-doesnt-make-sense)**
-
-Matthew Sheffield says staking and ecosystem participation give Ethereum a utility and income angle that many digital assets lack.
-
-thestreet.com • 5h ago
+The Motley Fool • 5h ago
 
 ---
 
@@ -238,7 +238,7 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 5K • 👍 282 • 💬 129 • ⏱️ 11:38 • 12h ago
+👁️ 5K • 👍 282 • 💬 129 • ⏱️ 11:38 • 14h ago
 
 ---
 
@@ -248,7 +248,7 @@ This is huge for crypto, bitcoin, ethereum and the rest of the markets!!!!! ----
 
 📺 Thomas Kralow
 
-👁️ 19K • 👍 3K • 💬 35 • ⏱️ 9:21 • 18h ago
+👁️ 19K • 👍 3K • 💬 35 • ⏱️ 9:21 • 19h ago
 
 ---
 
@@ -268,7 +268,7 @@ BITCOIN JUST REVEALED THE NEXT MOVE (Get Ready)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 3K • 👍 184 • 💬 123 • ⏱️ 19:08 • 5h ago
+👁️ 3K • 👍 184 • 💬 123 • ⏱️ 19:08 • 7h ago
 
 ---
 
@@ -278,7 +278,7 @@ Can you actually get free Ethereum in 2026, or is it all just hype? I decided to
 
 📺 Hitch Insights
 
-👁️ 1K • 👍 623 • 💬 442 • ⏱️ 6:14 • 9h ago
+👁️ 1K • 👍 623 • 💬 442 • ⏱️ 6:14 • 11h ago
 
 ---
 
@@ -288,7 +288,7 @@ In this video, I take a closer look at the current Ethereum market structure and
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 186 • 💬 12 • ⏱️ 13:46 • 12h ago
+👁️ 3K • 👍 186 • 💬 12 • ⏱️ 13:46 • 14h ago
 
 ---
 
@@ -298,7 +298,7 @@ Daily BTC, ETH, TSLA trades. Subscribe. Bybit bonus up to $30000 https://partner
 
 📺 James Crypto Guru
 
-👁️ 647 • 👍 76 • 💬 2 • ⏱️ 13:26 • 3h ago
+👁️ 647 • 👍 76 • 💬 2 • ⏱️ 13:26 • 4h ago
 
 ---
 
@@ -308,7 +308,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 305 • 👍 55 • ⏱️ 7:04 • 2h ago
+👁️ 305 • 👍 55 • ⏱️ 7:04 • 3h ago
 
 ---
 
@@ -328,7 +328,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 457 • 👍 34 • ⏱️ 4:45 • 19h ago
+👁️ 457 • 👍 34 • ⏱️ 4:45 • 20h ago
 
 ---
 
