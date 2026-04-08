@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-08T22:06:41.215986+00:00'
+updated: '2026-04-08T23:08:25.050464+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - social
 - cryptocurrency
-- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 08, 2026 at 22:06 UTC  
+**Last Updated:** April 08, 2026 at 23:08 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $71,378.64
+### $70,996.38
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** +6.8%  
-**30d:** +2.2%  
-**90d:** -21.0%  
-**1y:** -13.5%  
+**24h:** -1.0%  
+**7d:** +6.2%  
+**30d:** +1.5%  
+**90d:** -21.5%  
+**1y:** -14.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1428.77B
+**Market Cap:** $1419.56B
 Rank #1
 
-**Circulating Supply:** 20,013,168 BTC
+**Circulating Supply:** 20,013,250 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--43.4%
+-43.7%
 
 **All-Time Low:** $67.81
-+105201.6%
++104594.0%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 A ton of BTC was recently traded below $70,000 in a sign of strong dip demand.
 
-🔗 [coindesk.com](https://www.coindesk.com/markets/2026/04/08/bitcoin-buyers-gobbled-up-nearly-850-000-btc-between-usd60-000-and-usd70-000) • 8h ago
+🔗 [coindesk.com](https://www.coindesk.com/markets/2026/04/08/bitcoin-buyers-gobbled-up-nearly-850-000-btc-between-usd60-000-and-usd70-000) • 9h ago
 
 ---
 
 **[They hate this little trick](https://www.reddit.com/r/Bitcoin/comments/1sg3mx1/they_hate_this_little_trick/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -95,13 +95,19 @@ A ton of BTC was recently traded below $70,000 in a sign of strong dip demand.
 
 Morgan Stanley's bitcoin ETF comes with a 0.14% annual fee, making it the lowest in the spot BTC ETF market and undercutting BlackRock's IBIT (0.25%)
 
-7h ago
+8h ago
+
+---
+
+**[Is this you?](https://www.reddit.com/r/Bitcoin/comments/1sg4gms/is_this_you/)**
+
+2h ago
 
 ---
 
 **[Everyone right now](https://www.reddit.com/r/Bitcoin/comments/1sfe1rq/everyone_right_now/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -109,21 +115,13 @@ Morgan Stanley's bitcoin ETF comes with a 0.14% annual fee, making it the lowest
 
 Shall i accumulate more? Or wait and hodl.
 
-10h ago
+11h ago
 
 ---
 
 **[NYT says Adam Back is Satoshi](https://www.reddit.com/r/Bitcoin/comments/1sfobpm/nyt_says_adam_back_is_satoshi/)**
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html) • 12h ago
-
----
-
-**[Morgan Stanley launching its own spot Bitcoin ETF feels bigger than just another ETF headline](https://www.reddit.com/r/Bitcoin/comments/1sg3b18/morgan_stanley_launching_its_own_spot_bitcoin_etf/)**
-
-Morgan Stanley has officially launched MSBT, a spot Bitcoin ETF listed on NYSE Arca. What makes this more interesting than a normal product launch is that this is the first major U.S. bank putting its own name directly on a spot Bitcoin ETF. The fund holds physical bitcoin, launched on April 8, and comes in with a 0.14% fee, which undercuts most of the existing spot BTC ETF field. To me, the bigger story is what this says about where Bitcoin sits now in traditional finance. Up to this point, most of the major spot ETFs came from asset managers like BlackRock, Fidelity, and others. Morgan Stanley changes that dynamic because it brings a bank balance sheet, a private wealth brand, and a massive advisor network into the same trade. The article notes roughly 16,000 financial advisors overseeing $6.2 trillion in client assets, which is a very different kind of distribution channel than retail-driven ETF demand. The fee also matters more than people think. At 0.14%, Morgan Stanley is basically telling the market this product is meant to compete seriously for long-term allocation, not just exist as another checkbox product. That kind of pricing usually means they expect Bitcoin exposure to become a persistent part of client portfolios, not a temporary trade. So the real question here isn’t just whether MSBT gets flows. It’s whether this is another sign that Bitcoin is moving deeper into core portfolio infrastructure and away from being treated as a niche satellite asset. Curious how others see it: is this mainly a fee war and distribution story, or does a major bank launching its own spot Bitcoin ETF mark a more important shift in how traditional finance now views BTC?
-
-🔗 [websnack.org](https://websnack.org/news/morgan-stanley-msbt-spot-bitcoin-etf-apr-2026) • 2h ago
+🔗 [nytimes.com](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html) • 13h ago
 
 ---
 
@@ -131,7 +129,7 @@ Morgan Stanley has officially launched MSBT, a spot Bitcoin ETF listed on NYSE A
 
 https://www.reddit.com/r/askanything/comments/1s8mrgl/comment/oenq0i2/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button I thought some of you might like to read this comment. I was debating this guy for a while until he finally spit this sentence out: I didn't misrepresent anything. How is "sending [XYZ] unlimited distance without a third party" unique at all? How is this any different than a wire transfer? I guess there is banking intermediation, but I am not aware of the ability to send Bitcoin without some intermediating service, either. This absolutely baffled me, as he was confidently debating me for quite a while, then accidentally admitted he thought bitcoin required an "intermediating service". I called him out and he has since not responded...lol.
 
-7h ago
+8h ago
 
 ---
 
@@ -139,7 +137,7 @@ https://www.reddit.com/r/askanything/comments/1s8mrgl/comment/oenq0i2/?utm_sourc
 
 Morgan Stanley’s Bitcoin exchange-traded fund is set to debut on the NYSE Arca stock exchange on Wednesday, making it the first major commercial bank to offer a Bitcoin ETF in the US.The launch of the Morgan Stanley Bitcoin Trust (MSBT) on April 8 was confirmed in a listing notice by the New York S…
 
-🔗 [TradingView](https://www.tradingview.com/news/cointelegraph:7fd1c9c81094b:0-morgan-stanley-s-bitcoin-etf-set-to-launch-on-wednesday/) • 14h ago
+🔗 [TradingView](https://www.tradingview.com/news/cointelegraph:7fd1c9c81094b:0-morgan-stanley-s-bitcoin-etf-set-to-launch-on-wednesday/) • 15h ago
 
 ---
 
@@ -147,7 +145,7 @@ Morgan Stanley’s Bitcoin exchange-traded fund is set to debut on the NYSE Arca
 
 short-term thinking leads to bad decisions trying to time the market usually fails patience beats constant trading What did Bitcoin teach you?
 
-7h ago
+8h ago
 
 ---
 
@@ -157,49 +155,7 @@ short-term thinking leads to bad decisions trying to time the market usually fai
 
 **[Who Is Satoshi Nakamoto? My Quest to Unmask Bitcoin’s Creator](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)**
 
-The New York Times • 18h ago
-
----
-
-**[Morgan Stanley Debuts Bitcoin ETF as Price Slump Rattles Holders](https://www.bloomberg.com/news/articles/2026-04-08/morgan-stanley-debuts-bitcoin-etf-as-price-slump-rattles-holders)**
-
-Bloomberg.com • 9h ago
-
----
-
-**[How The Trumps Blew $1 Billion On Bitcoin](https://www.forbes.com/sites/danalexander/2026/04/08/how-the-trumps-blew-1-billion-on-bitcoin/)**
-
-Forbes • 11h ago
-
----
-
-**[Bitcoin jumps on US-Iran ceasefire talks, long-term rally remains uncertain: analyst](https://www.theblock.co/post/396607/bitcoin-jumps-us-iran-ceasefire)**
-
-One analyst noted that a full resolution is needed for the current upward momentum to be translated into a long-term bull cycle.
-
-The Block • 20h ago
-
----
-
-**[Bitcoin Jumps to Three-Week High on US-Iran Ceasefire Plan](https://finance.yahoo.com/news/bitcoin-jumps-three-week-high-061852543.html)**
-
-(Bloomberg) -- Bitcoin touched a three-week high as global markets turned more optimistic after a ceasefire deal between the US and Iran.The largest cryptocurrency climbed as much as 5% to $72,841, its highest level since March 18, in New York trading. Smaller tokens also notched big gains, with Ether rising as much as 7.4% to $2,273.Stocks surged and the price of the US benchmark West Texas Intermediate crude oil fell below $95, nearing its biggest price drop in six years, after US President Do
-
-Yahoo Finance • 8h ago
-
----
-
-**[Bitcoin Slides With Risk Assets as Trump’s Iran Ultimatum Looms](https://www.bloomberg.com/news/articles/2026-04-07/bitcoin-slides-with-risk-assets-as-trump-s-iran-ultimatum-looms)**
-
-Bloomberg.com • 1d ago
-
----
-
-**[Bitcoin Pioneer Adam Back, Bernstein Say Quantum Threat to BTC Isn’t Existential](https://decrypt.co/363680/bitcoin-pioneer-adam-back-bernstein-quantum-threat-not-existential)**
-
-Anxieties over the quantum threat to Bitcoin have been growing, but Bernstein backs Back in saying there’s no cause for alarm.
-
-Decrypt • 3h ago
+The New York Times • 19h ago
 
 ---
 
@@ -207,7 +163,7 @@ Decrypt • 3h ago
 
 Iran is looking to charge shipowners a fee of $1 per barrel of oil onboard for safe passage across the Strait of Hormuz, to be paid in cryptocurrency, according to the Financial Times.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -215,15 +171,59 @@ Yahoo Finance • 7h ago
 
 Iran is reportedly open transit tolls paid in bitcoin and crypto for ships crossing the Strait of Hormuz amid volatile ceasefire.
 
-The Block • 7h ago
+The Block • 8h ago
 
 ---
 
-**[Iran eyes crypto toll for oil tanker transits through Strait of Hormuz, according to FT](https://www.coindesk.com/markets/2026/04/08/iran-eyes-crypto-toll-for-oil-tanker-transit-through-strait-of-hormuz)**
+**[‘Will Be Destroyed’—Iran’s Bitcoin Toll Sparks $100K Price Prediction](https://www.forbes.com/sites/digital-assets/2026/04/08/will-be-destroyed-irans-bitcoin-toll-sparks-100k-price-prediction/)**
 
-Iran plans to collect cryptocurrency and other digital payments as transit fees from fully loaded oil tankers passing through the Strait of Hormuz, an FT report said.
+Forbes • 4h ago
 
-coindesk.com • 8h ago
+---
+
+**[Bitcoin jumps on US-Iran ceasefire talks, long-term rally remains uncertain: analyst](https://www.theblock.co/post/396607/bitcoin-jumps-us-iran-ceasefire)**
+
+One analyst noted that a full resolution is needed for the current upward momentum to be translated into a long-term bull cycle.
+
+The Block • 21h ago
+
+---
+
+**[Bitcoin Jumps to Three-Week High on US-Iran Ceasefire Plan](https://finance.yahoo.com/news/bitcoin-jumps-three-week-high-061852543.html)**
+
+(Bloomberg) -- Bitcoin touched a three-week high as global markets turned more optimistic after a ceasefire deal between the US and Iran.The largest cryptocurrency climbed as much as 5% to $72,841, its highest level since March 18, in New York trading. Smaller tokens also notched big gains, with Ether rising as much as 7.4% to $2,273.Stocks surged and the price of the US benchmark West Texas Intermediate crude oil fell below $95, nearing its biggest price drop in six years, after US President Do
+
+Yahoo Finance • 9h ago
+
+---
+
+**[Can bitcoin prices hit $80K by the end of this year?](https://finance.yahoo.com/video/can-bitcoin-prices-hit-80k-by-the-end-of-this-year-213809945.html)**
+
+Bitcoin (BTC-USD) and other cryptocurrencies are moving higher after President Trump announced a two-week ceasefire with Iran. ABRA founder and CEO Bill Barhydt joins Yahoo Finance Markets and Data Editor Jared Blikre to discuss the market action and whether bitcoin can hit $80,000 by the end of this year. For more predictions market insight, check out the new Yahoo Finance Polymarket Hub.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Another crypto company sells Bitcoin amid 50% crash](https://sg.finance.yahoo.com/news/another-crypto-company-sells-bitcoin-221904511.html)**
+
+Despite the momentary recovery following the U.S.-Iran ceasefire announcement on April 7, Bitcoin (BTC) is still trading 43% lower than the all-time high (ATH) of $126,080 it hit on Oct. 6 last year. Several leading miners such as MARA Holdings (Nasdaq: MARA) and Bitdeer (Nasdaq: ...
+
+Yahoo Finance Singapore • 49m ago
+
+---
+
+**[Morgan Stanley Bitcoin ETF gets off to a strong start with $33m debut](https://finance.yahoo.com/markets/crypto/articles/morgan-stanley-bitcoin-etf-gets-212534757.html)**
+
+Morgan Stanley just debuted its Bitcoin exchange-traded fund. The fund — the first from a US bank — had a big first day. Morgan Stanley’s Bitcoin ETF day one flows puts it in the top 1% of ETF debuts.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[How The Trumps Blew $1 Billion On Bitcoin](https://www.forbes.com/sites/danalexander/2026/04/08/how-the-trumps-blew-1-billion-on-bitcoin/)**
+
+Forbes • 12h ago
 
 ---
 
@@ -231,9 +231,9 @@ coindesk.com • 8h ago
 
 ## HackerNews: "bitcoin"
 
-**[Who is Satoshi nakamoto? My quest to unmask Bitcoin's creator](https://news.ycombinator.com/item?id=47685320)**
+**[Who is Satoshi Nakamoto? My quest to unmask Bitcoin's creator](https://news.ycombinator.com/item?id=47685320)**
 
-⬆️ 174 • 💬 85 • 17h ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)
+⬆️ 241 • 💬 162 • 18h ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)
 
 ---
 
@@ -241,7 +241,7 @@ coindesk.com • 8h ago
 
 Neha Narula
 
-⬆️ 164 • 💬 126 • 1d ago • [nehanarula.org](https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html)
+⬆️ 164 • 💬 127 • 1d ago • [nehanarula.org](https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html)
 
 ---
 
@@ -249,7 +249,7 @@ Neha Narula
 
 Country’s oil exporters’ union says toll to be paid in cryptocurrency and vessels monitored for weapons
 
-⬆️ 130 • 💬 208 • 7h ago • [ft.com](https://www.ft.com/content/02aefac4-ea62-48db-9326-c0da373b11b8)
+⬆️ 140 • 💬 223 • 9h ago • [ft.com](https://www.ft.com/content/02aefac4-ea62-48db-9326-c0da373b11b8)
 
 ---
 
@@ -265,13 +265,13 @@ Google Quantum AI: Quantum computer could break Bitcoin cryptography with under 
 
 The British computer scientist and entrepreneur has denied being the man who the New York Times identified at Satoshi Nakamoto.
 
-⬆️ 13 • 💬 1 • 4h ago • [bbc.com](https://www.bbc.com/news/articles/cgrl4l1y9yxo)
+⬆️ 13 • 💬 1 • 5h ago • [bbc.com](https://www.bbc.com/news/articles/cgrl4l1y9yxo)
 
 ---
 
 **[Takeaways from Our Search for Bitcoin's Creator](https://news.ycombinator.com/item?id=47689167)**
 
-⬆️ 10 • 💬 1 • 9h ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/takeaways-satoshi-nakamoto-bitcoin-adam-back.html)
+⬆️ 10 • 💬 1 • 10h ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/takeaways-satoshi-nakamoto-bitcoin-adam-back.html)
 
 ---
 
@@ -285,7 +285,13 @@ April 03, 2026 - A new $100 million bond deal reveals exactly how traditional fi
 
 **[Strive, Tuttle File Leveraged Bitcoin ETF](https://news.ycombinator.com/item?id=47621293)**
 
-⬆️ 4 • 💬 0 • 5d ago • [catenaa.com](https://catenaa.com/markets/cryptocurrencies/strive-tuttle-file-leveraged-etf-tied-to-bitcoin-preferreds/)
+⬆️ 4 • 💬 0 • 6d ago • [catenaa.com](https://catenaa.com/markets/cryptocurrencies/strive-tuttle-file-leveraged-etf-tied-to-bitcoin-preferreds/)
+
+---
+
+**[Bitcoin.com Deplatformed by YouTube](https://news.ycombinator.com/item?id=47697080)**
+
+⬆️ 3 • 💬 0 • 41m ago • [X (formerly Twitter)](https://twitter.com/i/status/2041756576600748142)
 
 ---
 
@@ -293,13 +299,7 @@ April 03, 2026 - A new $100 million bond deal reveals exactly how traditional fi
 
 For years, bitcoin creator Satoshi Nakamoto has avoided discovery. Now, a 10,000-word New York Times investigation may have unraveled the mystery, landing on British computer scientist Dr. Adam Back as Nakamoto.
 
-⬆️ 2 • 💬 4 • 2h ago • [Yahoo Finance](https://finance.yahoo.com/markets/crypto/article/the-new-york-times-may-have-found-bitcoin-founder-satoshi-nakamoto-heres-what-you-need-to-know-193426720.html)
-
----
-
-**[Bitcoin developers are mostly not concerned about quantum risk](https://news.ycombinator.com/item?id=47667515)**
-
-⬆️ 2 • 💬 0 • 2d ago • [murmurationstwo.substack.com](https://murmurationstwo.substack.com/p/bitcoin-developers-are-mostly-not)
+⬆️ 2 • 💬 5 • 3h ago • [Yahoo Finance](https://finance.yahoo.com/markets/crypto/article/the-new-york-times-may-have-found-bitcoin-founder-satoshi-nakamoto-heres-what-you-need-to-know-193426720.html)
 
 ---
 
@@ -313,7 +313,17 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 WEE
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 458 • ⏱️ 9:28 • 22h ago
+👁️ 40K • 👍 2K • 💬 449 • ⏱️ 9:28 • 23h ago
+
+---
+
+**[Bitcoin: Bear Market Resistance Band](https://www.youtube.com/watch?v=4rkqfmzKFpU)**
+
+It is once again time for an update to the Bitcoin bear market resistance band! Into The Cryptoverse Premium SALE: ...
+
+📺 Benjamin Cowen
+
+👁️ 18K • 👍 2K • 💬 98 • ⏱️ 28:36 • 3h ago
 
 ---
 
@@ -323,7 +333,7 @@ Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FR
 
 📺 CryptosRUs
 
-👁️ 13K • 👍 796 • 💬 224 • ⏱️ 37:24 • 7h ago
+👁️ 14K • 👍 843 • 💬 335 • ⏱️ 37:24 • 8h ago
 
 ---
 
@@ -333,7 +343,17 @@ BRACE YOURSELF... Crypto is about to get ABSOLUTELY CRAZY! For more info on BTQ 
 
 📺 Altcoin Daily
 
-👁️ 46K • 👍 3K • 💬 411 • ⏱️ 9:57 • 1d ago
+👁️ 47K • 👍 3K • 💬 380 • ⏱️ 9:57 • 2d ago
+
+---
+
+**[Will Bitcoin Skyrocket When Iran War Ends?](https://www.youtube.com/watch?v=XEq-geZnAHw)**
+
+Anthony Pompliano explains why bitcoin is holding strong while stocks, bonds, and gold decline amid inflation and geopolitical ...
+
+📺 Anthony Pompliano
+
+👁️ 4K • 👍 325 • 💬 12 • ⏱️ 19:07 • 2h ago
 
 ---
 
@@ -343,7 +363,7 @@ Thanks to Caleb & Brown for sponsoring this video! CALEB & BROWN Link ...
 
 📺 Dan Gambardello
 
-👁️ 5K • 👍 379 • 💬 188 • ⏱️ 9:40 • 7h ago
+👁️ 6K • 👍 435 • 💬 284 • ⏱️ 9:40 • 8h ago
 
 ---
 
@@ -353,55 +373,37 @@ Anthony Pompliano, ProCap Financial CEO, joins 'Squawk Box' to discuss bitcoin's
 
 📺 CNBC Television
 
-👁️ 15K • 👍 162 • 💬 183 • ⏱️ 5:56 • 1d ago
+👁️ 16K • 👍 168 • 💬 186 • ⏱️ 5:56 • 1d ago
 
 ---
 
-**[Bitcoin SMASHES $72K As Ceasefire Begins &amp; Wall Street Steps In! Real Breakout Or Trap?](https://www.youtube.com/watch?v=iFqt-11CNt4)**
+**[NEW EPISODE!! Bitcoin Signals w/ @neiljacobs](https://www.youtube.com/watch?v=Si7iHp-xNMQ)**
 
-Bitcoin #Crypto #Finance Bitcoin just smashed through $72K after a surprise ceasefire between the U.S. and Iran triggered a ...
+Bitcoins price is important but it is not everything! Yes the price matters. But look at the world today! Government controlled ...
 
-📺 The Wolf Of All Streets
+📺 The Bitcoin Broadcast - Vince HodlFlorida
 
-👁️ 9K • 👍 549 • 💬 87 • ⏱️ 37:51 • 8h ago
-
----
-
-**[Bitcoin Merch-NerdQAXe++](https://www.youtube.com/watch?v=c8fn6Exq8bI)**
-
-Level up your mining setup with the NerdQaxe++ from Bitcoin Merch ⚡⛏️ Built for performance, made for those who take Bitcoin ...
-
-📺 How Much?
-
-👁️ 379 • 👍 8 • ⏱️ 0:29 • 3h ago
+👁️ 357 • 👍 9 • 💬 3 • ⏱️ 0:52 • 3h ago
 
 ---
 
-**[Bitcoin Goes Up To $1Million?!](https://www.youtube.com/watch?v=CPCoqd0HxWM)**
+**[Morgan Stanley Spot Bitcoin ETF Trading Starts Tomorrow – Is a Massive BTC Rally Coming Now?](https://www.youtube.com/watch?v=JnK5M_w1wQ8)**
 
-📺 FreshandFit
+IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purposes only. NOT financial, investment, or ...
 
-👁️ 89K • 👍 2K • 💬 47 • ⏱️ 0:34 • 2d ago
+📺 The Kenzo Guy
 
----
-
-**[Bitcoin: The Dangers of Complacency](https://www.youtube.com/watch?v=fR4y2sCGg1A)**
-
-Is Bitcoin entering a dangerous phase of complacency? After periods of volatility, markets often drift into a false sense of ...
-
-📺 Benjamin Cowen
-
-👁️ 89K • 👍 5K • 💬 243 • ⏱️ 16:00 • 3d ago
+👁️ 7K • 👍 325 • 💬 21 • ⏱️ 22:54 • 1d ago
 
 ---
 
-**[Bigger Than Bitcoin?! The Biggest Crypto Opportunity of 2026 | Sui](https://www.youtube.com/watch?v=1mMyZaZz_Ro)**
+**[Bitcoin&#39;s $1 Trillion Secret Finally Out? NYT Says Adam Back Is Satoshi &amp; He Is Furiously Denying It](https://www.youtube.com/watch?v=NCDB7MoR-ss)**
 
-The Greatest SUI Crypto Explanation of All Time Follow Sui: https://x.com/SuiNetwork Follow Adeniyi: ...
+IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purposes only. NOT financial, investment, or ...
 
-📺 Altcoin Daily
+📺 The Kenzo Guy
 
-👁️ 24K • 👍 1K • 💬 259 • ⏱️ 35:55 • 1d ago
+👁️ 2K • 👍 129 • 💬 20 • ⏱️ 22:56 • 5h ago
 
 ---
 

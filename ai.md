@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-08T22:06:41.208482+00:00'
+updated: '2026-04-08T23:08:25.042030+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
-- videos
+- social
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 08, 2026 at 22:06 UTC  
+**Last Updated:** April 08, 2026 at 23:08 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,23 @@ AI news, discussions, and developments
 
 now it just look 💯 real
 
-10h ago
+11h ago
 
 ---
 
 **[Project Glasswing is inherently Cartel Behaviour](https://www.reddit.com/r/artificial/comments/1sg1mxm/project_glasswing_is_inherently_cartel_behaviour/)**
 
-If the large companies always get access to the latest models first to "sure up cybersecurity" they will always have a head start on the competition and new contenders in the tech space. If Glasswing is locked down to only be allowed for cybersecurity thats a different story but I doubt it is.
+If the large companies always get access to the latest models first to "shore up cybersecurity" they will always have a head start on the competition and new contenders in the tech space. If Glasswing is locked down to only be allowed for cybersecurity thats a different story but I doubt it is.
 
-3h ago
+4h ago
+
+---
+
+**[~77% of all new "Success" self-help books on Amazon are likely written by AI, with 1 author, Noah Felix Bennett, publishing a stunning 74 books in mid-2025 alone, at a rate of >1 per day. Richard Trillion Mantey, who has published hundreds of books, was assessed to have used AI for every single book](https://www.reddit.com/r/artificial/comments/1sg5cuz/77_of_all_new_success_selfhelp_books_on_amazon/)**
+
+"Ironically, one of the 844 books in this dataset is called 'How to Write for Humans in an AI World: Cutting Through Digital Noise and Reaching Real People'. In it, the author laments the proliferation of AI-written content: 'The words we see online, in our inboxes, even in news articles, often feel like they were written by no one in particular,' he writes. 'They’re grammatically perfect and emotionally empty. They’re fluent, but soulless. The irony is that we’ve never written more than we do today. We’re producing mountains of content: posts, captions, pitches, texts, and endless emails. At the same time, in the midst of all that noise, something essential is fading. It’s the sense that a real person is speaking to another real person.' That book’s contents were flagged as likely AI-generated."
+
+2h ago
 
 ---
 
@@ -57,7 +65,23 @@ If the large companies always get access to the latest models first to "sure up 
 
 I’ve been trying a few meeting tools lately and realized I care way less about flashy summaries than I thought. What I actually want is pretty simple: record the conversation, help me remember what mattered, and make it easy to find things later without turning the meeting into a weird “AI is here too” situation. So far, Bluedot has been one of the better ones I’ve used because it records quietly, gives a clean transcript, and usually does a decent job pulling out the useful bits afterward like summaries and action items. The searchable transcript part has honestly been the most practical feature for me. What do people here actually prioritize in the best AI meeting recorder? Accuracy, privacy, no bot, better memory, something else?
 
-7h ago
+8h ago
+
+---
+
+**[Q: Helium & AI Capacity?](https://www.reddit.com/r/artificial/comments/1sg3beh/q_helium_ai_capacity/)**
+
+I had a thought, which doesn’t seem to a part of the current news cycle/conversation, but is it a valid one? Helium's used in semiconductor manufacturing. Qatar (reliant of the Strait of Hormuz) is a major global helium producer. Semiconductor production = entire backbone of AI data centres. Could chip supply falter as a byproduct, and how might this affect AI capacity/development in the months to come?
+
+3h ago
+
+---
+
+**[BANKING77-77: New best of 94.61% on the official test set (+0.13pp) over our previous tests 94.48%.](https://www.reddit.com/r/artificial/comments/1sg87ik/banking7777_new_best_of_9461_on_the_official_test/)**
+
+Hi everyone, Just wanted to share a small but hard-won milestone. After a long plateau at 94.48%, we’ve pushed the official BANKING77-77 test set (original noisy training data, strict full-train protocol) to 94.61%. Key details: +0.13pp over our previous best +0.78pp over the widely cited 93.83% baseline (Official SOTA seat at 94.94%) No test leakage — 5-fold CV on official train to freeze recipe, then retrain on 100% train data, single final test eval The model remains relatively compact (~68 MiB footprint, ~216 ms inference). This was achieved through multiview encoder adaptation on the last layers — a relatively lightweight change that finally moved the needle after many smaller tweaks failed to transfer from holdout to test. Curious if anyone else has hit similar walls where holdout gains refused to transfer to a true held-out test set, and what eventually worked for you.
+
+16m ago
 
 ---
 
@@ -65,13 +89,21 @@ I’ve been trying a few meeting tools lately and realized I care way less about
 
 Anthropic’s Project Glasswing caught my attention less as a cybersecurity headline than as a signal about how frontier AI may be commercialized. The model was released under unusually tight access controls, with premium pricing, selected partners, and emphasis on enterprise deployment. That raises a few questions I think are worth discussing: Are we moving toward a world where the most capable models are not broadly released, but reserved for a small set of customers and partners? Does that reflect safety concerns first, or capacity limits and business strategy? If highly capable cyber models stay restricted, does that meaningfully reduce risk, or does it just delay wider diffusion? Could invite-only access become the norm for the most commercially valuable frontier systems? My own view is that this launch looks like a preview of a different AI market structure: fewer open releases at the top end, more controlled deployment and more premium enterprise positioning. Curious how others here read it. Disclosure: I wrote a longer analysis here: https://www.forbes.com/sites/paulocarvao/2026/04/08/five-reasons-anthropic-kept-its-cybersecurity-breakthrough-invite-only/
 
-13h ago
+14h ago
 
 ---
 
-**[~77% of all new "Success" self-help books on Amazon are likely written by AI, with 1 author, Noah Felix Bennett, publishing a stunning 74 books in mid-2025 alone, at a rate of >1 per day. Richard Trillion Mantey, who has published hundreds of books, was assessed to have used AI for every single book](https://www.reddit.com/r/artificial/comments/1sg5cuz/77_of_all_new_success_selfhelp_books_on_amazon/)**
+**[MegaTrain: Full Precision Training of 100B+ Parameter Large Language Models on a Single GPU](https://www.reddit.com/r/artificial/comments/1sfsogm/megatrain_full_precision_training_of_100b/)**
 
-"Ironically, one of the 844 books in this dataset is called 'How to Write for Humans in an AI World: Cutting Through Digital Noise and Reaching Real People'. In it, the author laments the proliferation of AI-written content: 'The words we see online, in our inboxes, even in news articles, often feel like they were written by no one in particular,' he writes. 'They’re grammatically perfect and emotionally empty. They’re fluent, but soulless. The irony is that we’ve never written more than we do today. We’re producing mountains of content: posts, captions, pitches, texts, and endless emails. At the same time, in the midst of all that noise, something essential is fading. It’s the sense that a real person is speaking to another real person.' That book’s contents were flagged as likely AI-generated."
+https://arxiv.org/abs/2604.05091 Abstract: "We present MegaTrain, a memory-centric system that efficiently trains 100B+ parameter large language models at full precision on a single GPU. Unlike traditional GPU-centric systems, MegaTrain stores parameters and optimizer states in host memory (CPU memory) and treats GPUs as transient compute engines. For each layer, we stream parameters in and compute gradients out, minimizing persistent device state. To battle the CPU-GPU bandwidth bottleneck, we adopt two key optimizations. 1) We introduce a pipelined double-buffered execution engine that overlaps parameter prefetching, computation, and gradient offloading across multiple CUDA streams, enabling continuous GPU execution. 2) We replace persistent autograd graphs with stateless layer templates, binding weights dynamically as they stream in, eliminating persistent graph metadata while providing flexibility in scheduling. On a single H200 GPU with 1.5TB host memory, MegaTrain reliably trains models up to 120B parameters. It also achieves 1.84x the training throughput of DeepSpeed ZeRO-3 with CPU offloading when training 14B models. MegaTrain also enables 7B model training with 512k token context on a single GH200."
+
+9h ago
+
+---
+
+**[Surprise! A short had bad things to say!!!](https://www.reddit.com/r/artificial/comments/1sg64w4/surprise_a_short_had_bad_things_to_say/)**
+
+Anthropic hype continues https://www.benzinga.com/trading-ideas/movers/26/04/51711659/anthropic-is-eating-palantirs-lunch-michael-burry
 
 1h ago
 
@@ -81,39 +113,7 @@ Anthropic’s Project Glasswing caught my attention less as a cybersecurity head
 
 I abliterated Sarvam-30B and 105B - India's first multilingual MoE reasoning models - and found something interesting along the way! Reasoning models have 2 refusal circuits, not one. The <think> block and the final answer can disagree: the model reasons toward compliance in its CoT and then refuses anyway in the response. Killer finding: one English-computed direction removed refusal in most of the other supported languages (Malayalam, Hindi, Kannada among few). Refusal is pre-linguistic. Full writeup: https://medium.com/@aloshdenny/uncensoring-sarvamai-abliterating-refusal-mechanisms-in-indias-first-moe-reasoning-model-b6d334f85f42 30B model: https://huggingface.co/aoxo/sarvam-30b-uncensored 105B model: https://huggingface.co/aoxo/sarvam-105b-uncensored
 
-1h ago
-
----
-
-**[MegaTrain: Full Precision Training of 100B+ Parameter Large Language Models on a Single GPU](https://www.reddit.com/r/artificial/comments/1sfsogm/megatrain_full_precision_training_of_100b/)**
-
-https://arxiv.org/abs/2604.05091 Abstract: "We present MegaTrain, a memory-centric system that efficiently trains 100B+ parameter large language models at full precision on a single GPU. Unlike traditional GPU-centric systems, MegaTrain stores parameters and optimizer states in host memory (CPU memory) and treats GPUs as transient compute engines. For each layer, we stream parameters in and compute gradients out, minimizing persistent device state. To battle the CPU-GPU bandwidth bottleneck, we adopt two key optimizations. 1) We introduce a pipelined double-buffered execution engine that overlaps parameter prefetching, computation, and gradient offloading across multiple CUDA streams, enabling continuous GPU execution. 2) We replace persistent autograd graphs with stateless layer templates, binding weights dynamically as they stream in, eliminating persistent graph metadata while providing flexibility in scheduling. On a single H200 GPU with 1.5TB host memory, MegaTrain reliably trains models up to 120B parameters. It also achieves 1.84x the training throughput of DeepSpeed ZeRO-3 with CPU offloading when training 14B models. MegaTrain also enables 7B model training with 512k token context on a single GH200."
-
-8h ago
-
----
-
-**[Agents: Isolated vrs Working on same file system](https://www.reddit.com/r/artificial/comments/1sg4mmk/agents_isolated_vrs_working_on_same_file_system/)**
-
-What are ur views on this topic. Isolated, sandboxed etc. Most platforms run with isolated. Do u think its the only way or can a trusted system work. multi agents in the same filesystem togethet with no toe stepping?
-
-1h ago
-
----
-
-**[Built a demo where an agent can provision 2 GPUs, then gets hard-blocked on the 3rd call](https://www.reddit.com/r/artificial/comments/1sfy8qf/built_a_demo_where_an_agent_can_provision_2_gpus/)**
-
-Policy: - budget = 1000 - each `provision_gpu(a100)` call = 500 Result: - call 1 -> ALLOW - call 2 -> ALLOW - call 3 -> DENY (`BUDGET_EXCEEDED`) Key point: the 3rd tool call is denied before execution. The tool never runs. Also emits: - authorization artifacts - hash-chained audit events - verification envelope - strict offline verification: `verifyEnvelope() => ok` Feels like this is the missing layer for side-effecting agents: proposal -> authorization -> execution rather than agent -> tool directly. Are you doing execution-time authorization, or mostly relying on approvals / retries / sandboxing. Happy to share the exact output / demo flow if useful.
-
-5h ago
-
----
-
-**[I built a game where you hack your employer by night and an entity called the CONDUIT starts responding to your keystrokes. Half horror, half labor dispute.](https://www.reddit.com/r/artificial/comments/1sfy52b/i_built_a_game_where_you_hack_your_employer_by/)**
-
-Wishlist here on Steam if you dig the concept!
-
-5h ago
+2h ago
 
 ---
 
@@ -121,75 +121,73 @@ Wishlist here on Steam if you dig the concept!
 
 ## Google News: "ai"
 
-**[Anthropic Teams Up With Its Rivals to Keep AI From Hacking Everything](https://www.wired.com/story/anthropic-mythos-preview-project-glasswing/)**
+**[Anthropic Claims Its New A.I. Model, Mythos, Is a Cybersecurity ‘Reckoning’](https://www.nytimes.com/2026/04/07/technology/anthropic-claims-its-new-ai-model-mythos-is-a-cybersecurity-reckoning.html)**
 
-The AI lab's Project Glasswing will bring together Apple, Google, and more than 45 other organizations. They'll use the new Claude Mythos Preview model to test advancing AI cybersecurity capabilities.
-
-WIRED • 1d ago
+The New York Times • 1d ago
 
 ---
 
-**[Opinion | A.I. May Worsen Wealth Inequality](https://www.nytimes.com/2026/04/08/opinion/ai-wealth-inequality-jobs-investment.html)**
+**[Anthropic says its latest AI model is too powerful for public release and that it broke containment during testing](https://www.businessinsider.com/anthropic-mythos-latest-ai-model-too-powerful-to-be-released-2026-4)**
 
-The New York Times • 13h ago
+Anthropic said Claude Mythos is too good at hacking and that's why you won't be able to use it anytime soon.
 
----
-
-**[Expert sounds off on the AI boom in San Francisco: ‘Anything is possible’](https://www.foxbusiness.com/video/6392765305112)**
-
-DreamWorks SKG co-founder Jeffrey Katzenberg and WndrCo general partner Justin Wexler join ‘The Claman Countdown’ to discuss the AI revolution, rising cybersecurity risks and the surge of young innovators reshaping Silicon Valley.
-
-Fox Business • 1h ago
+Business Insider • 1d ago
 
 ---
 
-**[Canva doubles down on AI and marketing automation with Simtheory, Ortto acquisitions](https://techcrunch.com/2026/04/08/canva-doubles-down-on-ai-and-marketing-automation-with-simtheory-ortto-acquisitions/)**
+**[Why Anthropic won't release its new Claude Mythos AI model to the public](https://www.nbcnews.com/tech/security/anthropic-project-glasswing-mythos-preview-claude-gets-limited-release-rcna267234)**
 
-Canva says the acquisitions add strengths in agentic AI, data infrastructure, marketing automation, and customer engagement.
+Mythos Preview can identify and exploit software vulnerabilities with unprecedented accuracy, Anthropic says.
 
-TechCrunch • 1h ago
+NBC News • 1h ago
 
 ---
 
-**[Meta launches Muse Spark AI model as part of its AI turnaround](https://finance.yahoo.com/sectors/technology/article/meta-launches-muse-spark-ai-model-as-part-of-its-ai-turnaround-171109510.html)**
+**[Meta Debuts First AI Model From New Superintelligence Group](https://www.bloomberg.com/news/articles/2026-04-08/meta-debuts-first-ai-model-from-prized-superintelligence-group)**
 
-Meta's Meta Superintelligence Lab released its first AI model, called Muse Spark, on Wednesday.
-
-Yahoo Finance • 4h ago
+Bloomberg • 6h ago
 
 ---
 
 **[Meta Unveils New A.I. Model, Its First From the Superintelligence Lab](https://www.nytimes.com/2026/04/08/technology/meta-muse-spark-ai-model.html)**
 
-The New York Times • 5h ago
+The New York Times • 6h ago
 
 ---
 
-**[Meta Releases First New AI Model Since Shaking Up Team](https://www.barrons.com/news/meta-releases-first-new-ai-model-since-shaking-up-team-ab504718)**
+**[Meta debuts new AI model, attempting to catch Google, OpenAI after spending billions](https://www.cnbc.com/2026/04/08/meta-debuts-first-major-ai-model-since-14-billion-deal-to-bring-in-alexandr-wang.html)**
 
-Barron's • 1h ago
+Meta debuted its first major large language model, Muse Spark, spearheaded by chief AI officer Alexandr Wang, who leads Meta Superintelligence Labs.
 
----
-
-**[The demise of software engineering jobs has been greatly exaggerated](https://www.cnn.com/2026/04/08/tech/ai-software-developer-jobs)**
-
-Although AI coding tools have stoked fears that the technology will replace software engineers, jobs in the field are growing. As companies pump out more software, there’s increasing demand for seasoned engineers that can shape these products.
-
-CNN • 12h ago
+CNBC • 7h ago
 
 ---
 
-**[‘It’s not AI, it’s real’: shock as RSPCA releases images of 250 dogs found at property](https://www.theguardian.com/world/2026/apr/08/rspca-ai-images-dogs-property-uk)**
+**[Ohio man becomes first to be convicted under new AI statute for sexually explicit images](https://www.theguardian.com/us-news/2026/apr/08/ohio-man-convicted-ai-sexually-explicit-images)**
 
-Dozens of dogs were found crammed into single living room space at property in undisclosed location in UK
+James Strahler II pleaded guilty to cyberstalking, producing obscene images and digital forgeries of child sexual abuse
 
-The Guardian • 2h ago
+The Guardian • 50m ago
 
 ---
 
-**[The New Ivies: 20 Great Employer-Friendly Colleges Embracing AI](https://www.forbes.com/sites/aliciapark/2026/04/08/the-new-ivies-20-great-employer-friendly-colleges-embracing-ai/)**
+**[Spring cleaning your finances. Here’s where AI can help and where experts say to be careful](https://www.abc15.com/news/local-news/spring-cleaning-your-finances-heres-where-ai-can-help-and-where-experts-say-to-be-careful)**
 
-Forbes • 11h ago
+Things like cutting subscriptions, tracking spending, and finding money leaks can help anyone trying to get more organized ahead of Tax Day, but sharing too much information can be dangerous.
+
+ABC15 Arizona • 41m ago
+
+---
+
+**[AI fuels global trade growth as China-US flows shift, McKinsey finds](https://www.scmp.com/tech/big-tech/article/3349424/ai-fuels-global-trade-growth-china-us-flows-shift-mckinsey-finds)**
+
+South China Morning Post • 8m ago
+
+---
+
+**[Opinion | A.I. May Worsen Wealth Inequality](https://www.nytimes.com/2026/04/08/opinion/ai-wealth-inequality-jobs-investment.html)**
+
+The New York Times • 14h ago
 
 ---
 
@@ -201,7 +199,7 @@ Forbes • 11h ago
 
 A new initiative to secure the world’s most critical software and give defenders a durable advantage in the coming AI-driven era of cybersecurity.
 
-⬆️ 1471 • 💬 790 • 1d ago • [anthropic.com](https://www.anthropic.com/glasswing)
+⬆️ 1475 • 💬 790 • 1d ago • [anthropic.com](https://www.anthropic.com/glasswing)
 
 ---
 
@@ -209,7 +207,7 @@ A new initiative to secure the world’s most critical software and give defende
 
 AI makes competent output cheap. That makes taste more valuable, but also more incomplete. The real edge comes from pairing judgment with context, stakes, and the willingness to build.
 
-⬆️ 262 • 💬 203 • 1d ago • [Raj Nandan Sharma](https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/)
+⬆️ 262 • 💬 204 • 1d ago • [Raj Nandan Sharma](https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/)
 
 ---
 
@@ -217,7 +215,7 @@ AI makes competent output cheap. That makes taste more valuable, but also more i
 
 iTunes was really bamboozled on April Fools Day. Dallas Little, content creator, unleashed four more songs by his AI creation, Eddie Dalton. Now Little has ELEVEN spots on the iTunes top 100. He also has the number three album on iTunes! All by a singer named “Eddie Dalton,” who does not exist. He’s Little’s Artificial […]
 
-⬆️ 241 • 💬 376 • 2d ago • [Showbiz411](https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive)
+⬆️ 242 • 💬 376 • 2d ago • [Showbiz411](https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive)
 
 ---
 
@@ -259,7 +257,7 @@ Biologically-inspired memory for AI agents. Decay, retrieval strengthening, cons
 
 **[Show HN: We fingerprinted 178 AI models' writing styles and similarity clusters](https://news.ycombinator.com/item?id=47690415)**
 
-⬆️ 70 • 💬 21 • 8h ago • [rival.tips](https://rival.tips/research/model-similarity)
+⬆️ 72 • 💬 22 • 9h ago • [rival.tips](https://rival.tips/research/model-similarity)
 
 ---
 
@@ -275,33 +273,13 @@ An AI agent was banned from editing Wikipedia pages... and that's when things go
 
 ## YouTube Videos: "ai"
 
-**[Claude’s New AI Just Changed the Internet Forever](https://www.youtube.com/watch?v=DG1wRgEpdO4)**
-
-Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=claude-mythos-security All my FREE ...
-
-📺 Nate Herk | AI Automation
-
-👁️ 128K • 👍 4K • 💬 377 • ⏱️ 7:50 • 22h ago
-
----
-
 **[Anthropic&#39;s Mythos AI Is Too Dangerous to Release. They&#39;re Using It Anyway.](https://www.youtube.com/watch?v=pGeh7tYRCJM)**
 
 Anthropic revealed Mythos, a new AI model so powerful they won't let the public use it. Instead, they're deploying it to defend ...
 
 📺 AI For Humans
 
-👁️ 5K • 👍 359 • 💬 125 • ⏱️ 32:56 • 8h ago
-
----
-
-**[Gemma 4   Google just made AI free forever](https://www.youtube.com/watch?v=hk6go5jioTk)**
-
-What if you could run ChatGPT-level AI on your Mac and iPhone for free, with no internet? Google just made it possible with ...
-
-📺 The Tech Girl
-
-👁️ 33K • 👍 1K • 💬 88 • ⏱️ 8:27 • 16h ago
+👁️ 7K • 👍 430 • 💬 139 • ⏱️ 32:56 • 9h ago
 
 ---
 
@@ -311,7 +289,27 @@ Best AI App Builder is Base44 https://base44.pxf.io/c/6440076/2049275/25619?traf
 
 📺 Mikey No Code
 
-👁️ 12K • ⏱️ 27:43 • 7h ago
+👁️ 13K • ⏱️ 27:43 • 8h ago
+
+---
+
+**[Claude’s New AI Just Changed the Internet Forever](https://www.youtube.com/watch?v=DG1wRgEpdO4)**
+
+Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=claude-mythos-security All my FREE ...
+
+📺 Nate Herk | AI Automation
+
+👁️ 138K • 👍 4K • 💬 389 • ⏱️ 7:50 • 23h ago
+
+---
+
+**[Gemma 4   Google just made AI free forever](https://www.youtube.com/watch?v=hk6go5jioTk)**
+
+What if you could run ChatGPT-level AI on your Mac and iPhone for free, with no internet? Google just made it possible with ...
+
+📺 The Tech Girl
+
+👁️ 38K • 👍 1K • 💬 98 • ⏱️ 8:27 • 17h ago
 
 ---
 
@@ -321,47 +319,7 @@ This New AI video generator creates Long AI Videos Get 1000 Agent Opus credits h
 
 📺 Dan Kieft
 
-👁️ 11K • 💬 7 • ⏱️ 16:53 • 5h ago
-
----
-
-**[Hank and Bernie talk about AI (for real)](https://www.youtube.com/watch?v=hLcY30KEeNs)**
-
-Bernie and I do not agree on everything, but we agree on a lot!! I wish we could've talked longer but here's where we went!
-
-📺 Hank Green
-
-👁️ 500K • 👍 29K • 💬 3K • ⏱️ 30:54 • 1d ago
-
----
-
-**[OpenAI Just Dropped The Real Plan After AGI Hits](https://www.youtube.com/watch?v=u9Azd3weYCY)**
-
-OpenAI just dropped a policy blueprint built around one huge idea: superintelligence could hit hard enough to force a whole new ...
-
-📺 AI Revolution
-
-👁️ 21K • 👍 778 • 💬 103 • ⏱️ 13:17 • 23h ago
-
----
-
-**[They just found &quot;emotions&quot; inside AI](https://www.youtube.com/watch?v=j9LoyiUlv9I)**
-
-Anthropic researchers prove AI has emotions & other shocking findings. #ai #aitools #agi #ainews #llm #claude #mythos Thanks ...
-
-📺 AI Search
-
-👁️ 21K • 👍 2K • 💬 409 • ⏱️ 29:07 • 18h ago
-
----
-
-**[NVIDIA’s New AI Just Changed Everything](https://www.youtube.com/watch?v=ZQAz_HrUq68)**
-
-Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers The #NVIDIA paper on Nemotron 3 Super is ...
-
-📺 Two Minute Papers
-
-👁️ 126K • 👍 9K • 💬 729 • ⏱️ 8:11 • 1d ago
+👁️ 17K • 💬 7 • ⏱️ 16:53 • 6h ago
 
 ---
 
@@ -371,7 +329,47 @@ Create AI videos, images & voices all in one place with Higgsfield https://higgs
 
 📺 Malva AI
 
-👁️ 10K • 👍 506 • 💬 83 • ⏱️ 8:06 • 1d ago
+👁️ 11K • 👍 530 • 💬 91 • ⏱️ 8:06 • 1d ago
+
+---
+
+**[Nobel Prize Winner: Nobody Sees What&#39;s Coming After AI](https://www.youtube.com/watch?v=vZLY2YGUk4o)**
+
+Plaud NotePro has been really helpful for me to capture ideas and conversations. You can get 10% off with the code " SILICON10" ...
+
+📺 Silicon Valley Girl
+
+👁️ 19K • 👍 685 • 💬 39 • ⏱️ 22:28 • 7h ago
+
+---
+
+**[OpenAI Just Dropped The Real Plan After AGI Hits](https://www.youtube.com/watch?v=u9Azd3weYCY)**
+
+OpenAI just dropped a policy blueprint built around one huge idea: superintelligence could hit hard enough to force a whole new ...
+
+📺 AI Revolution
+
+👁️ 23K • 👍 807 • 💬 108 • ⏱️ 13:17 • 1d ago
+
+---
+
+**[The Hardest Problem AI Ever Solved, with Google DeepMind CEO](https://www.youtube.com/watch?v=C0gErQtnNFE)**
+
+He solved “the most important unsolved problem in science”… If you need more optimistic science and tech stories, subscribe to ...
+
+📺 Cleo Abram
+
+👁️ 436K • 👍 18K • 💬 988 • ⏱️ 1:05:11 • 1d ago
+
+---
+
+**[They just found &quot;emotions&quot; inside AI](https://www.youtube.com/watch?v=j9LoyiUlv9I)**
+
+Anthropic researchers prove AI has emotions & other shocking findings. #ai #aitools #agi #ainews #llm #claude #mythos Thanks ...
+
+📺 AI Search
+
+👁️ 23K • 👍 2K • 💬 438 • ⏱️ 29:07 • 19h ago
 
 ---
 
@@ -387,7 +385,7 @@ Gemma 4 31B is an instruction-tuned, multimodal LLM capable of processing text a
 
 `image-text-to-text` `32.7B`
 
-⬇️ 1,106,883 • ❤️ 1,443 • 6d ago
+⬇️ 1,106,883 • ❤️ 1,453 • 6d ago
 
 ---
 
@@ -399,7 +397,7 @@ Gemma-4-31B-JANG_4M-CRACK is a 31B parameter text-generation model optimized for
 
 `text-generation` `6.4B`
 
-⬇️ 44,246 • ❤️ 777 • 4d ago
+⬇️ 44,246 • ❤️ 782 • 4d ago
 
 ---
 
@@ -411,7 +409,7 @@ GLM-5.1 is a next-generation language model optimized for agentic engineering, f
 
 `text-generation` `753.9B`
 
-⬇️ 1,300 • ❤️ 719 • 9h ago
+⬇️ 1,300 • ❤️ 729 • 10h ago
 
 ---
 
@@ -423,7 +421,7 @@ VOID is a video-to-video diffusion model for object and interaction removal, cap
 
 `video-to-video`
 
-⬇️ 0 • ❤️ 635 • 2d ago
+⬇️ 0 • ❤️ 642 • 2d ago
 
 ---
 
@@ -435,7 +433,7 @@ Gemma 4 26B A4B is a multimodal instruction-tuned model capable of processing te
 
 `image-text-to-text` `26.5B`
 
-⬇️ 835,825 • ❤️ 534 • 6d ago
+⬇️ 835,825 • ❤️ 535 • 6d ago
 
 ---
 
@@ -447,7 +445,7 @@ This image-text-to-text model, Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled, 
 
 `image-text-to-text` `27.8B`
 
-⬇️ 560,798 • ❤️ 2,498 • 2d ago
+⬇️ 560,798 • ❤️ 2,505 • 2d ago
 
 ---
 
@@ -459,7 +457,7 @@ Gemma 4 E4B is a multimodal, instruction-tuned LLM from Google DeepMind, support
 
 `any-to-any` `8.0B`
 
-⬇️ 622,963 • ❤️ 503 • 6d ago
+⬇️ 622,963 • ❤️ 506 • 6d ago
 
 ---
 
@@ -471,7 +469,7 @@ VoxCPM2 is a 2B parameter, 30-language multilingual text-to-speech model capable
 
 `text-to-speech`
 
-⬇️ 605 • ❤️ 426 • 14h ago
+⬇️ 605 • ❤️ 430 • 16h ago
 
 ---
 
@@ -483,7 +481,7 @@ OmniVoice is a massively multilingual, zero-shot text-to-speech model supporting
 
 `text-to-speech`
 
-⬇️ 144,864 • ❤️ 392 • 3d ago
+⬇️ 144,864 • ❤️ 393 • 3d ago
 
 ---
 
@@ -495,7 +493,7 @@ Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document inte
 
 `image-text-to-text` `4.7B`
 
-⬇️ 41,667 • ❤️ 1,126 • 13d ago
+⬇️ 41,667 • ❤️ 1,127 • 13d ago
 
 ---
 
@@ -511,7 +509,7 @@ Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document inte
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 156 • 💬 7 • ⭐ 37,459 • 7mo ago
+▲ 156 • 💬 7 • ⭐ 37,616 • 7mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -535,7 +533,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
 
-▲ 23 • 💬 1 • ⭐ 15,521 • 30mo ago
+▲ 23 • 💬 1 • ⭐ 15,631 • 30mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
 
@@ -549,7 +547,7 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 VOID is a video object removal framework that uses vision-language models and video diffusion models to generate physically plausible scenes by leveraging causal reasoning and counterfactual reasoning.
 
-▲ 47 • 💬 5 • ⭐ 1,280 • 7d ago
+▲ 47 • 💬 5 • ⭐ 1,315 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.02296) • [💻 code](https://github.com/Netflix/void-model) • [🔗 project](https://void-model.github.io/)
 
@@ -563,7 +561,7 @@ VOID is a video object removal framework that uses vision-language models and vi
 
 Video-MME-v2 presents a comprehensive benchmark for evaluating video understanding models through a progressive hierarchy and group-based evaluation to assess robustness and faithfulness.
 
-▲ 193 • 💬 6 • ⭐ 250 • 3d ago
+▲ 197 • 💬 6 • ⭐ 279 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.05015) • [💻 code](https://github.com/MME-Benchmarks/Video-MME-v2) • [🔗 project](https://video-mme-v2.netlify.app/)
 
@@ -577,7 +575,7 @@ Video-MME-v2 presents a comprehensive benchmark for evaluating video understandi
 
 TriAttention addresses KV cache memory bottlenecks in LLMs by leveraging Q/K vector concentration in pre-RoPE space to improve key importance estimation and enable efficient long-context generation.
 
-▲ 79 • 💬 4 • ⭐ 267 • 3d ago
+▲ 81 • 💬 4 • ⭐ 284 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.04921) • [💻 code](https://github.com/WeianMao/triattention) • [🔗 project](https://weianmao.github.io/tri-attention-project-page/)
 
@@ -629,7 +627,7 @@ DeepScientist autonomously conducts scientific discovery through Bayesian Optimi
 
 LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
 
-▲ 38 • 💬 2 • ⭐ 32,636 • 18mo ago
+▲ 38 • 💬 2 • ⭐ 32,677 • 18mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
 
@@ -645,7 +643,7 @@ The highest-scoring AI memory system ever benchmarked. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 26.1k • 🔱 3.2k • 3h ago
+⭐ 26.8k • 🔱 3.3k • 2h ago
 
 ---
 
@@ -655,7 +653,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 23.7k • 🔱 4.4k • 4h ago
+⭐ 24.2k • 🔱 4.5k • 2h ago
 
 ---
 
@@ -665,7 +663,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 14.4k • 🔱 1.3k • 2h ago
+⭐ 14.4k • 🔱 1.3k • 3h ago
 
 ---
 
@@ -675,7 +673,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid
 
 `Python` `claude-code` `codex` `graphrag` `knowledge-graph` `openclaw`
 
-⭐ 12.1k • 🔱 1.2k • 3h ago
+⭐ 12.5k • 🔱 1.3k • 1h ago
 
 ---
 
@@ -705,7 +703,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 7.3k • 🔱 292 • 12h ago
+⭐ 7.4k • 🔱 300 • 13h ago
 
 ---
 
@@ -715,7 +713,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 7.1k • 🔱 431 • 2h ago
+⭐ 7.1k • 🔱 432 • 2h ago
 
 ---
 
