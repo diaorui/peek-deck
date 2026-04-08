@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-08T03:39:31.377986+00:00'
+updated: '2026-04-08T05:48:00.702153+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
-- videos
 - cryptocurrency
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 08, 2026 at 03:39 UTC  
+**Last Updated:** April 08, 2026 at 05:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,43 +36,51 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,236.11
+### $2,241.61
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +5.8%  
-**7d:** +8.8%  
+**24h:** +6.5%  
+**7d:** +8.9%  
 **30d:** +9.9%  
 **90d:** -27.5%  
-**1y:** +34.1%  
+**1y:** +34.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $270.02B
+**Market Cap:** $270.51B
 Rank #2
 
 **Circulating Supply:** 120,691,160 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--54.8%
+-54.7%
 
 **All-Time Low:** $0.43
-+516377.7%
++517119.1%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion April 08, 2026](https://www.reddit.com/r/ethereum/comments/1sfjgae/daily_general_discussion_april_08_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+47m ago
+
+---
+
 **[How safe is Tokenized Gold?](https://www.reddit.com/r/ethereum/comments/1sfaxjn/how_safe_is_tokenized_gold/)**
 
 I've learnt that we can now invest in gold directly in crypto, which is quite exciting as I don't trust any bank or broker, so here's a few questions: Is this safe? What is the best within Paxos or Tether gold, is this as trustable as USDT/Stablecoins? How to buy it?
 
-5h ago
+7h ago
 
 ---
 
@@ -80,7 +88,7 @@ I've learnt that we can now invest in gold directly in crypto, which is quite ex
 
 I just built ethlocal.world: a simple way to explore Ethereum activity around the world. The idea was pretty straightforward: Ethereum is global, but it can still be surprisingly hard to get a quick sense of what’s happening locally or regionally. So I made a site that maps events and communities in one place and lets you browse by region and type. It takes data from ethereum.org and was inspired by the Codex Ambassadors globe. Link: https://ethlocal.world Would love honest feedback from people here: Is this actually useful? What feels missing or confusing? Is the globe view helpful, or do you mainly want a cleaner list/filter experience? What would make something like this genuinely valuable for local Ethereum communities? Built it as a small project for the Ethereum community, and I’d love to improve it based on feedback.
 
-6h ago
+8h ago
 
 ---
 
@@ -88,7 +96,7 @@ I just built ethlocal.world: a simple way to explore Ethereum activity around th
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-22h ago
+1d ago
 
 ---
 
@@ -96,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’ve had my eth staked for about 2 years now, net negative on the eth itself but I’ve gained what would be ≈4 percent more worth of ETH than I had before. To me it was the easiest way to stake given that I don’t have 32 eth. I appreciate the protocol for being a decentralized way to stake, heard there’s some liquidity issues in terms of getting your Eth back after staking but that’s a problem for the future. Anyone have any input on rocket pool?!
 
-13h ago
+15h ago
 
 ---
 
@@ -112,7 +120,7 @@ A simple question for the community. I was recently asked for me public key (to 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -138,31 +146,23 @@ The true bottleneck in Ethereum dApp architecture isn't just on-chain gas, it's 
 
 ---
 
-**[Daily General Discussion April 05, 2026](https://www.reddit.com/r/ethereum/comments/1scut2l/daily_general_discussion_april_05_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
-
-**[Better Long-Term Crypto Hold: Bitcoin or Ethereum?](https://www.fool.com/investing/2026/04/07/better-long-term-crypto-hold-bitcoin-or-ethereum/)**
-
-Both of these coins have a claim to being great as an investment with a long time horizon.
-
-The Motley Fool • 5m ago
-
----
 
 **[Ethereum Liquidity Dries Up As Demand Fails To Keep Pace](https://www.tradingview.com/news/newsbtc:1c8cd20db094b:0-ethereum-liquidity-dries-up-as-demand-fails-to-keep-pace/)**
 
 Ethereum exchange reserves have fallen to a record low, even as the token trades near $2,15 and still struggles to break out.CryptoQuant data shows reserves are down about 77% from their 2021 peak, while CoinGlass data points to a surge in futures activity, with volume topping close to $50 billion…
 
-TradingView • 1h ago
+TradingView • 3h ago
+
+---
+
+**[Better Long-Term Crypto Hold: Bitcoin or Ethereum?](https://www.fool.com/investing/2026/04/07/better-long-term-crypto-hold-bitcoin-or-ethereum/)**
+
+Both of these coins have a claim to being great as an investment with a long time horizon.
+
+The Motley Fool • 1h ago
 
 ---
 
@@ -184,11 +184,11 @@ Forbes • 1d ago
 
 Ethereum’s stablecoin supply hits ~$180B ATH and ETF inflows rise as whale money shifts to ETH.
 
-Seeking Alpha • 11h ago
+Seeking Alpha • 13h ago
 
 ---
 
-**[ETH Up or Down - 5 Minutes](https://polymarket.com/event/eth-updown-5m-1775607600)**
+**[Ethereum Up or Down - 5 Minutes](https://polymarket.com/event/eth-updown-5m-1775624400)**
 
 Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
@@ -200,23 +200,7 @@ Polymarket • 1d ago
 
 Circle’s upcoming Arc blockchain is gearing up for quantum resilience, revealing a multi-step roadmap to prepare for the looming threat.
 
-decrypt.co • 1d ago
-
----
-
-**[Sharplink CIO reveals why holding unstaked Ethereum ‘doesn’t make sense’](https://www.thestreet.com/crypto/markets/sharplink-cio-reveals-why-holding-unstaked-ethereum-doesnt-make-sense)**
-
-Matthew Sheffield says staking and ecosystem participation give Ethereum a utility and income angle that many digital assets lack.
-
-thestreet.com • 1d ago
-
----
-
-**[Current price of Ethereum for April 7, 2026](https://fortune.com/article/price-of-ethereum-04-07-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 14h ago
+Decrypt • 1d ago
 
 ---
 
@@ -225,6 +209,20 @@ Fortune • 14h ago
 Publicly traded Ethereum treasury firm BitMine Immersion Technologies added $150 million of ETH last week, boosting its $10.3 billion stash.
 
 Yahoo Finance • 1d ago
+
+---
+
+**[BitMine Highlights Massive Ethereum Treasury and NYSE Uplisting](https://www.tipranks.com/news/company-announcements/bitmine-highlights-massive-ethereum-treasury-and-nyse-uplisting)**
+
+TipRanks • 1d ago
+
+---
+
+**[Tom Lee’s BitMine Nears 4% of Ethereum Supply as ETH Price Hits Weekly High](https://decrypt.co/363378/tom-lee-bitmine-4-percent-ethereum-supply-eth-price-weekly-high)**
+
+Publicly traded Ethereum treasury firm BitMine Immersion Technologies added $150 million of ETH last week, boosting its $10.3 billion stash.
+
+Decrypt • 1d ago
 
 ---
 
@@ -238,27 +236,7 @@ BITCOIN SQUEEZE: This Changes Everything (Urgent)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 2K • 👍 162 • 💬 223 • ⏱️ 23:11 • 2h ago
-
----
-
-**[Ethereum: One More Bounce… Then Down?](https://www.youtube.com/watch?v=oDwTs_pXQx8)**
-
-In this video, I take a closer look at the current Ethereum market structure and explain why the recent move higher does not ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 146 • 💬 6 • ⏱️ 11:32 • 6h ago
-
----
-
-**[A MASSIVE SIGNAL IS FLASHING FOR ETHEREUM (LAST TIME WAS INSANE)](https://www.youtube.com/watch?v=GqXhK6k76-A)**
-
-Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ Deposit from $100: Get a 1% bonus ✔️ Withdraw anytime ...
-
-📺 Tyler Hill Crypto
-
-👁️ 6K • 👍 310 • 💬 116 • ⏱️ 11:38 • 1d ago
+👁️ 3K • 👍 201 • 💬 259 • ⏱️ 23:11 • 5h ago
 
 ---
 
@@ -268,7 +246,37 @@ This is huge for crypto, bitcoin, ethereum and the rest of the markets!!!!! ----
 
 📺 Thomas Kralow
 
-👁️ 22K • 👍 3K • 💬 40 • ⏱️ 9:21 • 1d ago
+👁️ 23K • 👍 3K • 💬 41 • ⏱️ 9:21 • 1d ago
+
+---
+
+**[Ethereum: One More Bounce… Then Down?](https://www.youtube.com/watch?v=oDwTs_pXQx8)**
+
+In this video, I take a closer look at the current Ethereum market structure and explain why the recent move higher does not ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 160 • 💬 6 • ⏱️ 11:32 • 8h ago
+
+---
+
+**[A MASSIVE SIGNAL IS FLASHING FOR ETHEREUM (LAST TIME WAS INSANE)](https://www.youtube.com/watch?v=GqXhK6k76-A)**
+
+Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ Deposit from $100: Get a 1% bonus ✔️ Withdraw anytime ...
+
+📺 Tyler Hill Crypto
+
+👁️ 6K • 👍 311 • 💬 116 • ⏱️ 11:38 • 1d ago
+
+---
+
+**[BITCOIN MARKET REACTION: CEASEFIRE, OIL SLUMP, ETH STRENGTH](https://www.youtube.com/watch?v=ayT4OKVdqLM)**
+
+Daily BTC, ETH, TSLA trades. Subscribe. Bybit bonus up to $30000 https://partner.bybit.com/b/Buyalts Weex, $200 sign-up, ...
+
+📺 James Crypto Guru
+
+👁️ 727 • 👍 94 • 💬 9 • ⏱️ 9:42 • 4h ago
 
 ---
 
@@ -278,7 +286,7 @@ Get 5% off the BitBox02 and take your crypto off exchanges → https://bitbox.sw
 
 📺 Crypto Nutshell
 
-👁️ 9K • 👍 331 • 💬 53 • ⏱️ 19:32 • 2d ago
+👁️ 9K • 👍 332 • 💬 53 • ⏱️ 19:32 • 2d ago
 
 ---
 
@@ -288,47 +296,37 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 337 • 👍 13 • 💬 2 • ⏱️ 4:29 • 18h ago
+👁️ 377 • 👍 13 • 💬 2 • ⏱️ 4:29 • 20h ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=duu--SHqBhw)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Crypto Gyan
-
-👁️ 181 • 👍 39 • ⏱️ 6:11 • 37m ago
-
----
-
-**[Ethereum: COSA SAPERE PRIMA DELLE ORE 2…](https://www.youtube.com/watch?v=X0fA6XMmVO4)**
-
-GRATIS QUI LA GUIDA www.analisievoluta.com ETHEREUM: COSA SAPERE PRIMA DELLE ORE 2… Nuova analisi su ETH !
-
-📺 Jacopo Marini
-
-👁️ 311 • 👍 31 • ⏱️ 10:00 • 7h ago
-
----
-
-**[AI on Ethereum  The Future of Proof of Human copy](https://www.youtube.com/watch?v=EaxTCBd2tcI)**
+**[AI on Ethereum: Proof of Human Technology](https://www.youtube.com/watch?v=EaxTCBd2tcI)**
 
 As AI-generated content floods the internet, the need for verified human identity has never been more urgent. That's where Proof ...
 
 📺 Eightco | NASDAQ: ORBS
 
-👁️ 349 • 👍 6 • 💬 1 • ⏱️ 1:06 • 3h ago
+👁️ 622 • 👍 11 • 💬 1 • ⏱️ 1:06 • 5h ago
 
 ---
 
-**[XRP Can NEVER Join Bitcoin, Ethereum &amp; USDT – Here&#39;s the Shocking Reason (Market Cap Gap Exposed](https://www.youtube.com/watch?v=N4k-WN9PQTk)**
+**[BlackRock says Ethereum 🔥 Bitcoin? Future of Finance #Shorts](https://www.youtube.com/watch?v=tnN2iNPR1Lg)**
 
-XRP Can NEVER Join Bitcoin, Ethereum & USDT – Here's the Shocking Reason (Market Cap Gap Exposed In this video I break ...
+An ex-BlackRock executive explains why Ethereum is the infrastructure for the future of finance, not Bitcoin. Is the "digital gold" ...
 
-📺 CryptoWendyO
+📺 SamAlτcoin_eth
 
-👁️ 11K • 👍 630 • 💬 83 • ⏱️ 13:47 • 2d ago
+👁️ 803 • 👍 11 • ⏱️ 2:23 • 7h ago
+
+---
+
+**[I Built an AI Trading Bot With Claude AI on Ethereum - MEV Arbitrage Strategy](https://www.youtube.com/watch?v=7ld1X7Gw3Pw)**
+
+Smart Contract Code, Deployment Guide and Telegram: https://svo.bz/etharbitrage I Built an AI Trading Bot With Claude AI on ...
+
+📺 Samuel Dev
+
+👁️ 9K • 💬 24 • ⏱️ 7:26 • 2d ago
 
 ---
 

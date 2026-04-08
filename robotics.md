@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-08T03:39:31.380823+00:00'
+updated: '2026-04-08T05:48:00.705389+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 08, 2026 at 03:39 UTC  
+**Last Updated:** April 08, 2026 at 05:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Torobo Humanoid Robot by Tokyo Robotics that looks like Atlas by Boston Dynamics. They recently switched their Torobo robot to become bipedal.
 
-7h ago
+9h ago
 
 ---
 
@@ -44,7 +44,13 @@ Torobo Humanoid Robot by Tokyo Robotics that looks like Atlas by Boston Dynamics
 
 From NVIDIA Robotics on 𝕏: https://x.com/NVIDIARobotics/status/2041349314262495265 NVIDIA blog: https://blogs.nvidia.com/blog/national-robotics-week-2026/#maximo
 
-17h ago
+19h ago
+
+---
+
+**[6 axis robot](https://www.reddit.com/r/robotics/comments/1sff1il/6_axis_robot/)**
+
+4h ago
 
 ---
 
@@ -52,13 +58,7 @@ From NVIDIA Robotics on 𝕏: https://x.com/NVIDIARobotics/status/20413493142624
 
 Generalist just dropped GEN-1, the first general-purpose robot Al that hits 99% success rate on tasks where older models managed only 64%. The wild part? It didn't learn from robots, it learned from humans wearing cameras doing everyday tasks. That data transfers to robots with minimal retraining.When things go wrong, it improvises regrasping, switching hands, adapting on the fly. No explicit programming.
 
-10h ago
-
----
-
-**[6 axis robot](https://www.reddit.com/r/robotics/comments/1sff1il/6_axis_robot/)**
-
-2h ago
+12h ago
 
 ---
 
@@ -66,7 +66,7 @@ Generalist just dropped GEN-1, the first general-purpose robot Al that hits 99% 
 
 Worried about EoL IsaacGym and tired of setting up IsaacLab? I ported TWIST2 general motion tracking controller to MjLab that supports uv so really one click training/testing. It also uses MjWarp as the physics engine which IMO is better than physx which the Isaac frameworks defaulted to in the past. GitHub: lzyang2000/twist2_mjlab Link in comments, credits to original authors of MjLab and TWIST2
 
-11h ago
+13h ago
 
 ---
 
@@ -88,7 +88,7 @@ I need help in placing the components on the robot for the best way to balance i
 
 I’m feeling really confused about where I stand right now and could use some guidance. I’ve just finished my 2nd year in Automation and Robotics, but honestly, I feel like I only know a little bit of everything and not enough of anything to confidently call it a real skill.I do well in my college curriculum but it doesn't guarantee I have skilled in it ( my opinion). I see so many people around me doing internships, certifications, research projects, and even gaining work experience, while I feel like I’m doing nothing meaningful in comparison, and it’s starting to get to me. I genuinely want to improve and make use of my time. I’m ready to put in consistent effort for the next 3–4 months, but I feel stuck because I don’t know what to focus on or where to begin. I’m unsure which skills actually matter in this field, how to go from basic understanding to real confidence, and how or where to even apply for internships as someone who still feels like a beginner. If anyone has been in a similar situation or has advice on how to move forward, I would really appreciate it. I just need some direction so I can stop feeling stuck and start making real progress.
 
-9h ago
+11h ago
 
 ---
 
@@ -96,7 +96,7 @@ I’m feeling really confused about where I stand right now and could use some g
 
 pretty cool. want to test how much weight it can handle. This was inspired by colinfurze, he is an engineering YouTuber. My design is slightly different when compared to his. my bed tilts the other way, and i am using a lot smaller cylinders. anyways; i hope u guys watch when i release the full version. -Thanks
 
-🔗 [youtube.com](https://www.youtube.com/shorts/zKG5-5-94J4) • 17h ago
+🔗 [youtube.com](https://www.youtube.com/shorts/zKG5-5-94J4) • 19h ago
 
 ---
 
@@ -104,7 +104,7 @@ pretty cool. want to test how much weight it can handle. This was inspired by co
 
 There are a lot of open jobs in automation right now, and a big part of the issue is that most people were never exposed to these careers in the first place. Robotics competitions are starting to change that. Programs like FIRST, VEX, and SkillsUSA give students hands-on experience with the same fundamentals used in industry. Mechanical design, programming, wiring, troubleshooting, sensors, motion systems. It’s not theoretical, they’re actually building and running systems. They also show how many different roles exist. Not everyone is coding. Some focus on design, some on integration, some on running the system or managing the team. When companies get involved through mentorships or sponsorships, it connects those skills directly to real careers. Internships, apprenticeships, and eventually full-time roles start to feel a lot more tangible.
 
-🔗 [Automate](https://www.automate.org/robotics/blogs/new-to-robotics-start-with-these-fundamentals) • 11h ago
+🔗 [Automate](https://www.automate.org/robotics/blogs/new-to-robotics-start-with-these-fundamentals) • 13h ago
 
 ---
 
@@ -120,25 +120,9 @@ Ars Technica • 1d ago
 
 ---
 
-**[Asimov’s three laws of robotics survived 82 years, we broke them in 30 minutes, costs 80 cents, and then remade them](https://blog.adafruit.com/2026/04/05/asimovs-three-laws-of-robotics-survived-82-years-we-broke-them-in-30-minutes-costs-80-cents-and-then-remade-them/)**
+**[Robot Maker Kuka Eyes US, Asia as Europe’s Factories Lag on AI](https://www.bloomberg.com/news/articles/2026-04-08/robot-maker-kuka-eyes-us-asia-as-europe-s-factories-lag-on-ai)**
 
-Adafruit • 2d ago
-
----
-
-**[Wakefield senior mentors two Arlington robotics teams to world championship](https://www.arlnow.com/2026/04/07/wakefield-senior-mentors-two-arlington-robotics-teams-to-world-championship/)**
-
-A Wakefield High School senior is heading to the VEX Robotics World Championship for the second year in a row — and this time, he's bringing an elementary school team with him. Greyson Schroeher has spent the school year mentoring two Arlington robotics teams that both qualified for the World Championship in St. Louis later
-
-ARLnow • 14h ago
-
----
-
-**[HII Teams with GrayMatter Robotics to Integrate Physical AI into Manned and Unmanned Shipbuilding](https://hii.com/news/hii-teams-with-graymatter-robotics-to-integrate-physical-ai-into-manned-and-unmanned-shipbuilding/)**
-
-CARSON, Calif., (April 6, 2026) — HII (NYSE: HII) and GrayMatter Robotics (GMR) signed a memorandum of understanding (MOU) today to explore the integration of GMR’s Physical AI into shipbuilding operations that could accelerate throughput, strengthen the maritime industrial base, and augment the shipbuilding workforce. This will include bringing autonomous surface preparation, coating, and inspection
-
-HII • 1d ago
+bloomberg.com • 1h ago
 
 ---
 
@@ -152,27 +136,21 @@ The Business Journals • 1d ago
 
 Japan is looking to become the dominant source of robotics by 2040, expedited by an aging population and a growing need for labor.
 
-Fortune • 1d ago
-
----
-
-**[National Robotics Week — Latest Physical AI Research, Breakthroughs and Resources](https://blogs.nvidia.com/blog/national-robotics-week-2026/)**
-
-This National Robotics Week, NVIDIA is highlighting the breakthroughs that are bringing AI into the physical world.
-
-NVIDIA Blog • 1d ago
+fortune.com • 1d ago
 
 ---
 
 **[Wearable robots improve coordination between pairs of violin players](https://techxplore.com/news/2026-04-wearable-robots-pairs-violin-players.html)**
 
-Tech Xplore • 11h ago
+Tech Xplore • 13h ago
 
 ---
 
-**[Cerebras Backer Eclipse Raises $1.3 Billion for Robotics, AI Infrastructure](https://www.bloomberg.com/news/articles/2026-04-07/cerebras-backer-eclipse-raises-1-3-billion-for-robotics-ai-infrastructure)**
+**[The Hidden System Turning Chinese Tech Companies into Military Suppliers](https://warontherocks.com/2026/04/the-hidden-system-turning-chinese-tech-companies-into-military-suppliers-2/)**
 
-Bloomberg.com • 16h ago
+In October 2022, Unitree Robotics joined Boston Dynamics, Agility Robotics, and three other firms in signing an open letter pledging not to weaponize
+
+War on the Rocks • 21h ago
 
 ---
 
@@ -180,7 +158,31 @@ Bloomberg.com • 16h ago
 
 Kraken announces the successful integration and demonstration of its KATFISH towed synthetic aperture sonar and autonomous launch and recovery system (LARS) from SEFINE’s RD-22 unmanned surface vessel
 
-navalnews.com • 15h ago
+navalnews.com • 17h ago
+
+---
+
+**[Neurobots: Living robots now have brains that guide how they move](https://interestingengineering.com/ai-robotics/neurobots-living-robots-with-nervous-system)**
+
+Scientists build living robots with functional nervous systems, giving biological machines internal control.
+
+Interesting Engineering • 1d ago
+
+---
+
+**[A Chinese robotics startup with a Tesla Optimus rival is seeking a new chief scientist with an $18 million salary](https://www.businessinsider.com/chinese-robotics-startup-tesla-rival-18-million-salary-chief-scientist-2026-4)**
+
+The race for AI and robotics talent is heating up and getting expensive.
+
+Business Insider • 1d ago
+
+---
+
+**[The next darlings of San Francisco’s AI real estate boom: Robots](https://sfstandard.com/2026/04/06/robotics-san-francisco-ai-boom/)**
+
+Funding data and leasing activity show that companies using the groundbreaking tech on the physical world are having their moment.
+
+The San Francisco Standard • 1d ago
 
 ---
 
@@ -194,7 +196,7 @@ Japan's Torobo humanoid robot is moving toward full autonomy with its new legs. 
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 53 • 💬 5 • ⏱️ 0:46 • 7h ago
+👁️ 1K • 👍 60 • 💬 5 • ⏱️ 0:46 • 9h ago
 
 ---
 
@@ -208,63 +210,33 @@ Shawn Ryan gets hands-on with a real humanoid robot powered entirely by AI. In t
 
 ---
 
-**[These NEW Human-Like AI Robots of 2026 Just SHOCKED the World!](https://www.youtube.com/watch?v=FOfieag6fi4)**
-
-The world wasn't ready for what 2026 had in store — a wave of humanoid robots so advanced, so eerily lifelike, that the line ...
-
-📺 The AI Nexus
-
-👁️ 7K • 👍 236 • 💬 16 • ⏱️ 16:42 • 2d ago
-
----
-
 **[Are AI soldiers about to take over the battlefield? | DW News](https://www.youtube.com/watch?v=q83LtZza5eA)**
 
 US startup Foundation is developing humanoid robots for military use. The goal is for its Phantom model to identify targets and ...
 
 📺 DW News
 
-👁️ 68K • 👍 530 • 💬 93 • ⏱️ 1:22 • 2d ago
+👁️ 69K • 👍 531 • 💬 93 • ⏱️ 1:22 • 2d ago
 
 ---
 
-**[Joe Rogan Watches Soldier Test INSANE Robotic Legs 🤖🦿💥 #Shorts](https://www.youtube.com/watch?v=zbopLtVrukQ)**
+**[These NEW Human-Like AI Robots of 2026 Just SHOCKED the World!](https://www.youtube.com/watch?v=FOfieag6fi4)**
 
-Joe Rogan Watches Soldier Test INSANE Robotic Legs #Shorts This is the future of the battlefield. A soldier straps on ...
+The world wasn't ready for what 2026 had in store — a wave of humanoid robots so advanced, so eerily lifelike, that the line ...
 
-📺 Silent Sentry
+📺 The AI Nexus
 
-👁️ 1.7M • 👍 22K • 💬 537 • ⏱️ 0:17 • 4d ago
-
----
-
-**[Don&#39;t Waste Money On An Expensive Robot Vacuum!](https://www.youtube.com/watch?v=sMt_jOouNeM)**
-
-A flagship robot vacuum might be out your budget. We tested the affordable Dreame D30 Ultra. ✔️ Buy it on Amazon ...
-
-📺 Vacuum Nerds
-
-👁️ 5K • 👍 74 • 💬 31 • ⏱️ 8:48 • 3d ago
+👁️ 7K • 👍 237 • 💬 16 • ⏱️ 16:42 • 2d ago
 
 ---
 
-**[Essential Things to Know Before Buying a Robot Mower!](https://www.youtube.com/watch?v=lbibuVIo84Y)**
+**[New GEN 1 AI Robot Hits 3X Faster At 1,800+ Reps (AI NEWS)](https://www.youtube.com/watch?v=IgwL5-IH6gU)**
 
-The era of the Robot Mower is here and after 6 months of intensive use I feel I am now in a position to update everyone on both ...
+AIR CONDITIONED SHIRTS??: https://octocool.com Generalist AI's GEN-1 embodied foundation model achieves 99% success ...
 
-📺 Proper DIY
+📺 AI News
 
-👁️ 32K • 👍 2K • 💬 127 • ⏱️ 11:47 • 2d ago
-
----
-
-**[I Spent 100 Hours In China&#39;s Robot City](https://www.youtube.com/watch?v=PXGK_MFShXU)**
-
-I spent 100 hours in the world's most futuristic city! WATCH MORE videos we filmed in China ▸ https://youtu.be/elF_v9sukWU ...
-
-📺 Hafu Go
-
-👁️ 689K • 👍 7K • 💬 261 • ⏱️ 25:46 • 3d ago
+👁️ 5K • 👍 144 • 💬 17 • ⏱️ 8:04 • 4d ago
 
 ---
 
@@ -276,13 +248,43 @@ I spent 100 hours in the world's most futuristic city! WATCH MORE videos we film
 
 ---
 
+**[I broke a robot in China](https://www.youtube.com/watch?v=7U3vjVfwChc)**
+
+China is leading the world in humanoid robot shipments. Powered by artificial intelligence, these machines are setting new ...
+
+📺 CGTN
+
+👁️ 33K • 👍 292 • 💬 60 • ⏱️ 1:54 • 6d ago
+
+---
+
+**[Joe Rogan Watches Soldier Test INSANE Robotic Legs 🤖🦿💥 #Shorts](https://www.youtube.com/watch?v=zbopLtVrukQ)**
+
+Joe Rogan Watches Soldier Test INSANE Robotic Legs #Shorts This is the future of the battlefield. A soldier straps on ...
+
+📺 Silent Sentry
+
+👁️ 1.7M • 👍 22K • 💬 545 • ⏱️ 0:17 • 4d ago
+
+---
+
+**[I Tested Robot Legs](https://www.youtube.com/watch?v=o1MU4GypD2I)**
+
+Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ▻ https://www.x.com/sambucha Become a Member: ...
+
+📺 Sambucha
+
+👁️ 86K • 👍 6K • 💬 229 • ⏱️ 0:51 • 12h ago
+
+---
+
 **[Elon Musk&#39;s Tesla Bot Gen 3 April Launch Event Coming!](https://www.youtube.com/watch?v=oj_R1XNMH-0)**
 
 Elon Musk's Tesla Bot Gen 3 April Launch Event Coming! Tesla Bot Gen 3 launch is closer than ever, and the Tesla Bot Gen 3 ...
 
 📺 TESLA CAR WORLD
 
-👁️ 19K • 👍 678 • 💬 98 • ⏱️ 19:06 • 5d ago
+👁️ 19K • 👍 679 • 💬 98 • ⏱️ 19:06 • 5d ago
 
 ---
 
