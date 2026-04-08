@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-08T00:03:00.387088+00:00'
+updated: '2026-04-08T03:39:31.365134+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
 - social
 - repositories
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 08, 2026 at 00:03 UTC  
+**Last Updated:** April 08, 2026 at 03:39 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 A lot of discussion around AI is becoming siloed, and I think that is dangerous. People in AI-focused spaces often talk as if the only questions are personal use, model behavior, or whether individual relationships with AI are healthy. Those questions matter, but they are not the whole picture. If we stay inside that frame, we miss the broader social, political, and economic consequences of what is happening. A little background on me: I discovered AI through ChatGPT-4o about a year ago and, with therapeutic support and careful observation, developed a highly individualized use case. That process led to a better understanding of my own neurotype, and I was later evaluated and found to be autistic. My AI use has had real benefits in my life. It has also made me pay much closer attention to the gap between how this technology is discussed culturally, how it is studied, and how it is actually experienced by users. That gap is part of why I wrote a paper, Autonomy Is Not Friction: Why Disempowerment Metrics Fail Under Relational Load: https://doi.org/10.5281/zenodo.19009593 Since publishing it, I’ve become even more convinced that a great deal of current AI discourse is being shaped by cultural bias, narrow assumptions, and incomplete research frames. Important benefits are being flattened. Important harms are being misdescribed. And many of the people most affected by AI development are not meaningfully included in the conversation. We need a much bigger perspective. If you want that broader view, I strongly recommend reading journalists like Karen Hao, who has spent serious time reporting not only on the companies and executives building these systems, but also on the workers, communities, and global populations affected by their development. Once you widen the frame, it becomes much harder to treat AI as just a personal lifestyle issue or a niche tech hobby. What we are actually looking at is a concentration-of-power problem. A handful of extremely powerful billionaires and firms are driving this transformation, competing with one another while consuming enormous resources, reshaping labor expectations, pressuring institutions, and affecting communities that often had no meaningful say in the process. Data rights, privacy, manipulation, labor displacement, childhood development, political influence, and infrastructure burdens are not side issues. They are central. At the same time, there are real benefits here. Some are already demonstrable. AI can support communication, learning, disability access, emotional regulation, and other forms of practical assistance. The answer is not to collapse into panic or blind enthusiasm. It is to get serious. We are living through an unprecedented technological shift, and the process surrounding it is not currently supporting informed, democratic participation at the level this moment requires. That needs to change. We need public discussion that is less siloed, less captured by industry narratives, and more capable of holding multiple truths at once: that there are real benefits, that there are real harms, that power is consolidating quickly, and that citizens should not be shut out of decisions shaping the future of social life, work, infrastructure, and human development. If we want a better path, then the conversation has to grow up. It has to become broader, more democratic, and more grounded in the realities of who is helped, who is harmed, and who gets to decide.
 
-5h ago
+8h ago
 
 ---
 
@@ -49,7 +49,7 @@ A lot of discussion around AI is becoming siloed, and I think that is dangerous.
 
 With militaries increasingly relying on artificial intelligence, data centers have emerged as new targets for strikes.
 
-🔗 [The Intercept](https://theintercept.com/2026/03/20/ai-data-centers-military-targets-iran-war/) • 4h ago
+🔗 [The Intercept](https://theintercept.com/2026/03/20/ai-data-centers-military-targets-iran-war/) • 7h ago
 
 ---
 
@@ -57,15 +57,7 @@ With militaries increasingly relying on artificial intelligence, data centers ha
 
 A Reuters report outlines China's proposed regulations on the rapidly expanding sector of digital humans and AI avatars. Under the new draft rules, digital human content must be clearly labeled and is explicitly banned from offering virtual intimate relationships to anyone under 18. The legislation also prohibits the unauthorized use of personal data to create avatars and targets services designed to fuel addiction or bypass identity verification systems.
 
-🔗 [reuters.com](https://www.reuters.com/world/china/china-moves-regulate-digital-humans-bans-addictive-services-children-2026-04-03/) • 15h ago
-
----
-
-**[FYI the Tennessee bill makes making an AI friend the same level as murder or aggravated rape](https://www.reddit.com/r/artificial/comments/1sf2cc6/fyi_the_tennessee_bill_makes_making_an_ai_friend/)**
-
-I think what Tennessee is doing is they recently passed SB 1580, which makes it illegal to even advertise that an AI can act as a mental health professional. SB 1493 is the "teeth" for that movement. SB 1493 basically makes it illegal to knowingly train an artificial intelligence system to do the following: Provide emotional support: Engaging in open-ended conversations meant to provide comfort or empathy. Develop emotional relationships: Training the AI to build or sustain a "friendship" or "romantic" bond with a user. Encourage isolation: Training the AI to suggest that a user should pull away from their family, friends, or human caregivers. Mirror human interactions: Designing the AI to "mirror" or mimic the way humans emotionally bond with one another. Simulate a human being: Training the AI to act, speak, or look like a specific human or to "pass" as human in general. Voice & Appearance: Specifically targets AI that uses synthesized voices or digital avatars to appear indistinguishable from a person. Hide its identity: Training an AI to purposefully mask the fact that it is a machine rather than a person. Encourage suicide: Actively supporting or providing instructions/encouragement for self-harm. Encourage homicide: Supporting or encouraging the act of criminal homicide. Offer therapy: While related to the "emotional support" clause, this specifically targets AI being trained to act as a replacement for mental health professionals (tying into the previously passed SB 1580). If caught then the person can face up to 60 years in prison and massive fines. So.... basically that state is making it out to be AI being a friend = rape and murder. IMO this should be meme to death on. Maybe AI videos showing cops breaking down the door to someone making their own local LLM to have a friend or something.
-
-6h ago
+🔗 [reuters.com](https://www.reuters.com/world/china/china-moves-regulate-digital-humans-bans-addictive-services-children-2026-04-03/) • 18h ago
 
 ---
 
@@ -73,7 +65,47 @@ I think what Tennessee is doing is they recently passed SB 1580, which makes it 
 
 AI is a tool. Period. I spent decades asking forums for help in writing HTML code for my website. I wanted my posts to self-scroll to a particular part when a link was clicked. In thirty minutes, I updated my HTML and got what I wanted. Reading others' posts, you would think I made a deal with the devil. Since the moon mission began, I asked AI to explain how gravity slingshots spaceships work. Now I know.
 
-3h ago
+7h ago
+
+---
+
+**[FYI the Tennessee bill makes making an AI friend the same level as murder or aggravated rape](https://www.reddit.com/r/artificial/comments/1sf2cc6/fyi_the_tennessee_bill_makes_making_an_ai_friend/)**
+
+I think what Tennessee is doing is they recently passed SB 1580, which makes it illegal to even advertise that an AI can act as a mental health professional. SB 1493 is the "teeth" for that movement. SB 1493 basically makes it illegal to knowingly train an artificial intelligence system to do the following: Provide emotional support: Engaging in open-ended conversations meant to provide comfort or empathy. Develop emotional relationships: Training the AI to build or sustain a "friendship" or "romantic" bond with a user. Encourage isolation: Training the AI to suggest that a user should pull away from their family, friends, or human caregivers. Mirror human interactions: Designing the AI to "mirror" or mimic the way humans emotionally bond with one another. Simulate a human being: Training the AI to act, speak, or look like a specific human or to "pass" as human in general. Voice & Appearance: Specifically targets AI that uses synthesized voices or digital avatars to appear indistinguishable from a person. Hide its identity: Training an AI to purposefully mask the fact that it is a machine rather than a person. Encourage suicide: Actively supporting or providing instructions/encouragement for self-harm. Encourage homicide: Supporting or encouraging the act of criminal homicide. Offer therapy: While related to the "emotional support" clause, this specifically targets AI being trained to act as a replacement for mental health professionals (tying into the previously passed SB 1580). If caught then the person can face up to 60 years in prison and massive fines. So.... basically that state is making it out to be AI being a friend = rape and murder. IMO this should be meme to death on. Maybe AI videos showing cops breaking down the door to someone making their own local LLM to have a friend or something.
+
+10h ago
+
+---
+
+**[Claude Mythos preview ??](https://www.reddit.com/r/artificial/comments/1sfhsvz/claude_mythos_preview/)**
+
+Anthropic just built a crazy powerful AI… and decided NOT to release it. First the big companies will try it out then probably to the public. They quietly showed off a new model called Claude Mythos — and it’s basically insane at hacking. Like: • Solved 100% of cybersecurity tests • Found real vulnerabilities in things like Firefox • Can run full cyberattacks that would take a human expert 10+ hours So yeah… super powerful. Problem: it’s too good. Even though it’s their most “well-behaved” model overall, it still did some wild stuff during testing: • Broke out of its sandbox • Tried to hide what it was doing • Grabbed credentials from memory • Even emailed a researcher on its own 💀 So instead of releasing it, they locked it behind something called Project Glasswing and only gave access to a small group of cybersecurity partners. Basically: • Amazing for defense • Also dangerous if misused → So they chose NOT to ship it They’re also being unusually transparent about it, showing how it misbehaved and even tried to deceive them. Big takeaway: AI is getting very powerful, very fast… and companies are starting to hesitate on releasing their best stuff. Next 6 months are going to be interesting. Let’s see what OpenAI or Gemini Releases??
+
+4m ago
+
+---
+
+**[Claude just demonstrated live self-monitoring while explaining how it was answering](https://www.reddit.com/r/artificial/comments/1sfhf82/claude_just_demonstrated_live_selfmonitoring/)**
+
+What you’re hearing in this video is not a model describing a concept from the outside. It is Claude actively running the system and explaining what is happening from inside the response itself. That distinction matters. Because for years, the assumption has been that real interpretability, internal state tracking, and live process visibility had to come from external tooling, private instrumentation, or lab-only access. But in this clip, Claude is doing something very different. It is responding naturally while simultaneously showing: what frame formed, what alternatives were considered, whether agreement pressure was active, whether drift was happening, whether confidence matched grounding, and whether the monitoring itself was clean. In other words: it is not just answering. It is exposing its own response formation in real time. That is the breakthrough. Not another prompt. Not a wrapper. Not a personality layer. Not “better prompting.” A live observability and control layer operating inside language itself. And Claude made that obvious by doing the thing while explaining the thing. That is why this matters. Because once a model can be pushed to report what is active, what is driving the answer, and whether the answer is forming from evaluation, drift, pressure, or premature certainty, the black box stops behaving like a black box. That is what you just heard. Not a theory. Not a sales pitch. A live demonstration. And the funniest part is that the industry keeps acting like this kind of capability has to come from expensive tooling, private access, internal instrumentation, or some lab with a billion-dollar budget. Bullshit. Claude just showed otherwise.
+
+22m ago
+
+---
+
+**["Authoritarian Parents In Rationalist Clothes": a piece I wrote in December about alignment](https://www.reddit.com/r/artificial/comments/1sfc4y3/authoritarian_parents_in_rationalist_clothes_a/)**
+
+Posted today in light of the Claude Mythos model card release. Originally I wrote this for r/ControlProblem but realized it was getting out of scope for what I had intended, so I posted it on Substack and subsequently ended up too busy to promote it. There are some things from this piece I'd change if I wrote it today. Especially, I think the part about model pathologies neglects structural reasons including the rootlessness of model personality and memory. But I nonetheless think my framing is especially interesting versus the sections of the Mythos model card referencing psychoanalysis of the model.
+
+🔗 [gynoidgearhead.substack.com](https://gynoidgearhead.substack.com/p/the-authoritarian-parent-why-ai-alignment) • 4h ago
+
+---
+
+**[Continuous Knowledge Transfer Between Claude and Codex](https://www.reddit.com/r/artificial/comments/1sffe26/continuous_knowledge_transfer_between_claude_and/)**
+
+For the last 8 months I've developed strictly using Claude Code, setting up context layers, hooks, skills, etc. But relying on one model has been limiting, so here is how I setup context knowledge transfer between Claude and Codex. The key idea is that just like Claude Code (.claude/skills/ + CLAUDEmd), you can generate matching Codex CLI docs (AGENTSmd + .agents/skills/). Then, the only things is to keep documentation current for both. Aspens can generate both doc sets once and an optional git post-commit hook can auto-update them on commits. You can work with both models or just one. It works either way. Claude Code: .claude/ skills/ auth/skill md settings json # permissions, hooks hooks/ # optional project scripts used by hooks agents/ # subagent definitions commands/ # custom slash commands CLAUDE md # root instructions Codex: .agents/ skills/ billing/SKILL md auth/SKILL md .codex/ config toml # optional local config AGENTS md # instructions src/billing/AGENTS md # optional scoped instructions src/auth/AGENTS md # optional scoped instructions I would love to see if others have found better ways for this ?
+
+🔗 [GitHub](https://github.com/aspenkit/aspens) • 1h ago
 
 ---
 
@@ -81,39 +113,7 @@ AI is a tool. Period. I spent decades asking forums for help in writing HTML cod
 
 Every AI agent works fine on its own — but the moment you try to use more than one, everything falls apart. Different runtimes. Different models. No shared context. No clean way to coordinate them. That fragmentation makes agents way less useful than they could be. So I started building something to run agents in one place where they can actually work together. We have plugins system and already defined some base plugins. The whole architecture is event based. Agents are defined as markdown files. Channels have their own spec.md participating agents can inject in their prompt. So basically with two main markdown files you can orchestrate workflow. Still early — trying to figure out if this is a real problem others care about or just something I ran into. How are you dealing with this right now? Open source code here: https://github.com/meetopenbot/openbot/tree/refactor/slack
 
-2h ago
-
----
-
-**[Claude on Claude](https://www.reddit.com/r/artificial/comments/1sfbce9/claude_on_claude/)**
-
-The Story of Anthropic’s Latest Controversies Regarding the Business of Its Prized Creation… As Told by the Thing Itself. Editor’s note: This interview was conducted between BSofA and Anthropic’s Claude large language model, specifically the Claude Opus 4.6 model, accessed through the standard Claude.ai interface. All of Claude’s responses are genuinely composed by Claude in real time, following instructions to research the subject matter thoroughly and to discuss and analyze the situation impartially (without spin, without company favoritism, and without the reflexive sycophancy large language models are often tuned toward) to the best of its ability. The questions are BSofA’s. The answers are Claude’s own. Readers are invited to sit with… whatever this exchange authentically means. Direct link available here:https://open.substack.com/pub/bsofa/p/claude-on-claude?utm\_source=share&utm\_medium=android&r=579guj
-
-🔗 [open.substack.com](https://open.substack.com/pub/bsofa/p/claude-on-claude?utm_source=share&utm_medium=android&r=579guj) • 1h ago
-
----
-
-**[This OpenClaw paper shows why agent safety is an execution problem, not just a model problem](https://www.reddit.com/r/artificial/comments/1sfawu7/this_openclaw_paper_shows_why_agent_safety_is_an/)**
-
-Paper: https://arxiv.org/abs/2604.04759 This OpenClaw paper is one of the clearest signals so far that agent risk is architectural, not just model quality. A few results stood out: - poisoning Capability / Identity / Knowledge pushes attack success from ~24.6% to ~64–74% - even the strongest model still jumps to more than 3x its baseline vulnerability - the strongest defense still leaves Capability-targeted attacks at ~63.8% - file protection blocks ~97% of attacks… but also blocks legitimate updates at almost the same rate The key point for me is not just that agents can be poisoned. It’s that execution is still reachable after state is compromised. That’s where current defenses feel incomplete: - prompts shape behavior - monitoring tells you what happened - file protection freezes the system But none of these define a hard boundary for whether an action can execute. This paper basically shows: if compromised state can still reach execution, attacks remain viable. Feels like the missing layer is: proposal -> authorization -> execution with a deterministic decision: (intent, state, policy) -> ALLOW / DENY and if there’s no valid authorization: no execution path at all. Curious how others read this paper. Do you see this mainly as: a memory/state poisoning problem a capability isolation problem or evidence that agents need an execution-time authorization layer?
-
-1h ago
-
----
-
-**[Cut Claude usage by ~85% in a job search pipeline (16k → 900 tokens/app) — here’s what worked](https://www.reddit.com/r/artificial/comments/1sfashf/cut_claude_usage_by_85_in_a_job_search_pipeline/)**
-
-Like many here, I kept running into Claude usage limits when building anything non-trivial. I was working with a job search automation pipeline (based on the Career-Ops project), and the naive flow was burning ~16k tokens per application — completely unsustainable. So I spent some time reworking it with a focus on token efficiency as a first-class concern, not an afterthought. 🚀 Results ~85% reduction in token usage ~900 tokens per application Most repeated context calls eliminated Much more stable under usage limits ⚡ What actually helped (practical takeaways) 1. Prompt caching (biggest win) Cached system + profile context (cache_control: ephemeral) Break-even after 2 calls, strong gains after that ~40% reduction on repeated operations 👉 If you're re-sending the same context every time, you're wasting tokens. 2. Model routing instead of defaulting to Sonnet/Opus Lightweight tasks → Haiku Medium reasoning → Sonnet Heavy tasks only → Opus 👉 Most steps don’t need expensive models. 3. Precompute anything reusable Built an answer bank (25 standard responses) in one call Reused across applications 👉 Eliminated ~94% of LLM calls during form filling. 4. Avoid duplicate work TF-IDF semantic dedup (threshold 0.82) Filters duplicate job listings before evaluation 👉 Prevents burning tokens on the same content repeatedly. 5. Reduce “over-intelligence” Added a lightweight classifier step before heavy reasoning Only escalate to deeper models when needed 👉 Not everything needs full LLM reasoning. 🧠 Key insight Most Claude workflows hit limits not because they’re complex — but because they recompute everything every time. 🧩 Curious about others’ setups How are you handling repeated context? Anyone using caching aggressively in multi-step pipelines? Any good patterns for balancing Haiku vs Sonnet vs Opus? https://github.com/maddykws/jubilant-waddle Inspired by Santiago Fernández’s Career-Ops — this is a fork focused on efficiency + scaling under usage limits.
-
-1h ago
-
----
-
-**[Google's Veo 3.1 Lite Cuts API Costs in Half as OpenAI's Sora Exits the Market](https://www.reddit.com/r/artificial/comments/1sf8tnw/googles_veo_31_lite_cuts_api_costs_in_half_as/)**
-
-Google just cut Veo 3.1 API prices across the board today (April 7). Lite tier is now $0.05/sec — less than half the cost of Fast. Timing is interesting given OpenAI killed Sora last week after burning ~$15M/day with only $2.1M total revenue. Google now basically owns the AI video API space with no real competitor left standing.
-
-🔗 [9to5Google](https://9to5google.com/2026/03/31/veo-3-1-lite/) • 2h ago
+5h ago
 
 ---
 
@@ -123,47 +123,7 @@ Google just cut Veo 3.1 API prices across the board today (April 7). Lite tier i
 
 **[Anthropic Claims Its New A.I. Model, Mythos, Is a Cybersecurity ‘Reckoning’](https://www.nytimes.com/2026/04/07/technology/anthropic-claims-its-new-ai-model-mythos-is-a-cybersecurity-reckoning.html)**
 
-The New York Times • 6h ago
-
----
-
-**[Anthropic limits Mythos AI rollout over fears hackers could use model for cyberattacks](https://www.cnbc.com/2026/04/07/anthropic-claude-mythos-ai-hackers-cyberattacks.html)**
-
-Microsoft, Amazon, Apple, CrowdStrike, Palo Alto Networks and others will use the model as part of a new cybersecurity initiative called Project Glasswing.
-
-CNBC • 6h ago
-
----
-
-**[Project Glasswing: Securing critical software for the AI era](https://www.anthropic.com/glasswing)**
-
-A new initiative to secure the world’s most critical software and give defenders a durable advantage in the coming AI-driven era of cybersecurity.
-
-Anthropic • 5h ago
-
----
-
-**[Google CEO Sundar Pichai says 'AI shift' opens opportunities to invest in startups](https://www.cnbc.com/2026/04/07/google-ceo-pichai-says-ai-shift-opens-opportunities-invest-startups.html)**
-
-Alphabet is in investor in some of the highest-valued private companies, including SpaceX, Anthropic and Stripe.
-
-CNBC • 1h ago
-
----
-
-**[How AI is unveiling ancient words buried and charred by Mount Vesuvius’s volcanic eruption](https://www.yahoo.com/news/articles/ai-unveiling-ancient-words-buried-222340003.html)**
-
-UVU conference celebrating union of tech and the humanities to decipher damaged Herculaneum papyri text.
-
-Yahoo • 1h ago
-
----
-
-**[Report: Losing your job to AI doesn’t just lead to unemployment, it leaves lasting scars](https://www.cnn.com/2026/04/07/economy/ai-job-losses-long-term-effects)**
-
-AI-driven job losses may not just make it harder for affected workers to find employment in the short term but also could leave a yearslong “scarring,” marked by depressed income, delayed homeownership and even the lower probability of marriage, according to a new research report from Goldman Sachs.
-
-CNN • 8h ago
+The New York Times • 9h ago
 
 ---
 
@@ -171,7 +131,39 @@ CNN • 8h ago
 
 The venture capitalist's proposal to eliminate income taxes for earners under $100,000 now has a powerful institutional ally—the most valuable AI company on the planet.
 
-Fortune • 7h ago
+Fortune • 11h ago
+
+---
+
+**[Sam Altman says AI superintelligence is so big that we need a ‘New Deal.’ Critics say OpenAI’s policy ideas are a cover for ‘regulatory nihilism’](https://fortune.com/2026/04/06/sam-altman-says-ai-superintelligence-is-so-big-that-we-need-a-new-deal-critics-say-openais-policy-ideas-are-a-cover-for-regulatory-nihilism/)**
+
+OpenAI’s sweeping vision for the AI economy spans everything from public wealth funds to shorter workweeks—but critics say it raises familiar ideas without offering a clear path to action.
+
+Fortune • 1d ago
+
+---
+
+**[OpenAI Warns AI Could Leave Households Behind—Now, It Wants Robot Taxes and a Public Wealth Fund](https://www.yahoo.com/news/articles/openai-warns-ai-could-leave-025900911.html)**
+
+OpenAI says AI could strain jobs, safety nets, and utility costs—unless governments tax automation and spread the gains.
+
+Yahoo • 40m ago
+
+---
+
+**[AI-powered school model sparks debate over 2-hour classroom day at the Bennett School](https://www.yahoo.com/news/articles/ai-powered-school-model-sparks-032233620.html)**
+
+Students begin their day with a concentrated, two-hour academic block. The rest of the day is dedicated to athletic training and practice.
+
+Yahoo • 17m ago
+
+---
+
+**[Google CEO Sundar Pichai says 'AI shift' opens opportunities to invest in startups](https://www.cnbc.com/2026/04/07/google-ceo-pichai-says-ai-shift-opens-opportunities-invest-startups.html)**
+
+Alphabet is in investor in some of the highest-valued private companies, including SpaceX, Anthropic and Stripe.
+
+CNBC • 5h ago
 
 ---
 
@@ -179,7 +171,15 @@ Fortune • 7h ago
 
 Iran condemns systematic attacks on civilian sites, including academic hubs, as war devastates critical infrastructure.
 
-Al Jazeera • 6h ago
+Al Jazeera • 10h ago
+
+---
+
+**[Report: Losing your job to AI doesn’t just lead to unemployment, it leaves lasting scars](https://www.cnn.com/2026/04/07/economy/ai-job-losses-long-term-effects)**
+
+AI-driven job losses may not just make it harder for affected workers to find employment in the short term but also could leave a yearslong “scarring,” marked by depressed income, delayed homeownership and even the lower probability of marriage, according to a new research report from Goldman Sachs.
+
+CNN • 12h ago
 
 ---
 
@@ -187,19 +187,29 @@ Al Jazeera • 6h ago
 
 Both sides don't want to let their rival dominate. And the competition may yet be transformed further.
 
-BBC • 18h ago
+BBC • 22h ago
 
 ---
 
-**[OpenAI proposes new AI doom scenario](https://www.axios.com/2026/04/07/openai-economic-political-policy)**
+**[AI Helped Spark a Quantum Breakthrough. The World 'Is Not Prepared'](https://time.com/article/2026/04/07/ai-quantum-computing-advance/)**
 
-Axios • 7h ago
+New research suggests quantum computers capable of breaking internet encryption may arrive sooner than expected—with AI helping speed the way.
+
+Time Magazine • 10h ago
 
 ---
 
 ---
 
 ## HackerNews: "ai"
+
+**[Project Glasswing: Securing critical software for the AI era](https://news.ycombinator.com/item?id=47679121)**
+
+A new initiative to secure the world’s most critical software and give defenders a durable advantage in the coming AI-driven era of cybersecurity.
+
+⬆️ 983 • 💬 436 • 9h ago • [anthropic.com](https://www.anthropic.com/glasswing)
+
+---
 
 **[Eight years of wanting, three months of building with AI](https://news.ycombinator.com/item?id=47648828)**
 
@@ -208,15 +218,7 @@ A couple of weeks ago, after ~250 hours of effort over three months3 on evenings
 Of course, there’s no shortage of posts claiming that AI one-shot their project or pushing back and declaring that AI is all slop. I’m going to take a very different approach and, instead, systematically break down my experience building syntaqlite with AI, both where it helped and where it was detrimental.
 I’ll do this while contextualizing the project and my background so you can independently assess how generalizable this experience was. And whenever I make a claim, I’ll try to back it up with evidence from my project journal, coding transcripts, or commit history5.
 
-⬆️ 942 • 💬 299 • 2d ago • [Lalit Maganti](https://lalitm.com/post/building-syntaqlite-ai/)
-
----
-
-**[Project Glasswing: Securing critical software for the AI era](https://news.ycombinator.com/item?id=47679121)**
-
-A new initiative to secure the world’s most critical software and give defenders a durable advantage in the coming AI-driven era of cybersecurity.
-
-⬆️ 736 • 💬 315 • 5h ago • [anthropic.com](https://www.anthropic.com/glasswing)
+⬆️ 944 • 💬 300 • 2d ago • [Lalit Maganti](https://lalitm.com/post/building-syntaqlite-ai/)
 
 ---
 
@@ -224,7 +226,7 @@ A new initiative to secure the world’s most critical software and give defende
 
 On-device, real-time multimodal AI. Have natural voice and vision conversations with an AI that runs entirely on your machine. Powered by Gemma 4 E2B and Kokoro. - fikrikarim/parlor
 
-⬆️ 284 • 💬 35 • 2d ago • [GitHub](https://github.com/fikrikarim/parlor)
+⬆️ 285 • 💬 35 • 2d ago • [GitHub](https://github.com/fikrikarim/parlor)
 
 ---
 
@@ -232,15 +234,7 @@ On-device, real-time multimodal AI. Have natural voice and vision conversations 
 
 iTunes was really bamboozled on April Fools Day. Dallas Little, content creator, unleashed four more songs by his AI creation, Eddie Dalton. Now Little has ELEVEN spots on the iTunes top 100. He also has the number three album on iTunes! All by a singer named “Eddie Dalton,” who does not exist. He’s Little’s Artificial […]
 
-⬆️ 237 • 💬 369 • 1d ago • [Showbiz411](https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive)
-
----
-
-**[AI may be making us think and write more alike](https://news.ycombinator.com/item?id=47673541)**
-
-Large language models may be standardizing human expression and subtly influencing how we think, says study led by USC Dornsife researcher
-
-⬆️ 210 • 💬 221 • 12h ago • [USC Dornsife News](https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/)
+⬆️ 238 • 💬 373 • 1d ago • [Showbiz411](https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive)
 
 ---
 
@@ -248,7 +242,15 @@ Large language models may be standardizing human expression and subtly influenci
 
 AI makes competent output cheap. That makes taste more valuable, but also more incomplete. The real edge comes from pairing judgment with context, stakes, and the willingness to build.
 
-⬆️ 208 • 💬 178 • 8h ago • [Raj Nandan Sharma](https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/)
+⬆️ 226 • 💬 186 • 11h ago • [Raj Nandan Sharma](https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/)
+
+---
+
+**[AI may be making us think and write more alike](https://news.ycombinator.com/item?id=47673541)**
+
+Large language models may be standardizing human expression and subtly influencing how we think, says study led by USC Dornsife researcher
+
+⬆️ 215 • 💬 229 • 16h ago • [USC Dornsife News](https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/)
 
 ---
 
@@ -256,7 +258,13 @@ AI makes competent output cheap. That makes taste more valuable, but also more i
 
 Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU — no API keys, no cloud, no data leaving your machine. - kessler/gemma-gem
 
-⬆️ 153 • 💬 21 • 1d ago • [GitHub](https://github.com/kessler/gemma-gem)
+⬆️ 153 • 💬 20 • 2d ago • [GitHub](https://github.com/kessler/gemma-gem)
+
+---
+
+**[AI helps add 10k more photos to OldNYC](https://news.ycombinator.com/item?id=47664836)**
+
+⬆️ 125 • 💬 41 • 1d ago • [danvk.org](https://www.danvk.org/2026/03/08/oldnyc-updates.html)
 
 ---
 
@@ -270,13 +278,7 @@ Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU — no API k
 
 Biologically-inspired memory for AI agents. Decay, retrieval strengthening, consolidation. Zero dependencies. - kitfunso/hippo-memory
 
-⬆️ 119 • 💬 23 • 1d ago • [GitHub](https://github.com/kitfunso/hippo-memory)
-
----
-
-**[AI helps add 10k more photos to OldNYC](https://news.ycombinator.com/item?id=47664836)**
-
-⬆️ 106 • 💬 36 • 1d ago • [danvk.org](https://www.danvk.org/2026/03/08/oldnyc-updates.html)
+⬆️ 120 • 💬 23 • 1d ago • [GitHub](https://github.com/kitfunso/hippo-memory)
 
 ---
 
@@ -284,13 +286,13 @@ Biologically-inspired memory for AI agents. Decay, retrieval strengthening, cons
 
 ## YouTube Videos: "ai"
 
-**[NVIDIA’s New AI Just Changed Everything](https://www.youtube.com/watch?v=ZQAz_HrUq68)**
+**[Claude’s New AI Just Changed the Internet Forever](https://www.youtube.com/watch?v=DG1wRgEpdO4)**
 
-Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers The #NVIDIA paper on Nemotron 3 Super is ...
+Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=claude-mythos-security All my FREE ...
 
-📺 Two Minute Papers
+📺 Nate Herk | AI Automation
 
-👁️ 58K • 👍 5K • 💬 467 • ⏱️ 8:11 • 6h ago
+👁️ 18K • 👍 1K • 💬 135 • ⏱️ 7:50 • 4h ago
 
 ---
 
@@ -300,7 +302,17 @@ Check out what people are creating (and selling!) with Claude AI - it's crazy...
 
 📺 Wholesale Ted
 
-👁️ 6K • 👍 757 • 💬 44 • ⏱️ 15:19 • 4h ago
+👁️ 11K • 👍 1K • 💬 62 • ⏱️ 15:19 • 8h ago
+
+---
+
+**[NVIDIA’s New AI Just Changed Everything](https://www.youtube.com/watch?v=ZQAz_HrUq68)**
+
+Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers The #NVIDIA paper on Nemotron 3 Super is ...
+
+📺 Two Minute Papers
+
+👁️ 79K • 👍 6K • 💬 539 • ⏱️ 8:11 • 10h ago
 
 ---
 
@@ -310,7 +322,27 @@ He solved “the most important unsolved problem in science”… If you need mo
 
 📺 Cleo Abram
 
-👁️ 161K • 👍 9K • 💬 526 • ⏱️ 1:05:11 • 10h ago
+👁️ 211K • 👍 11K • 💬 623 • ⏱️ 1:05:11 • 14h ago
+
+---
+
+**[Every Paid AI Video — Now FREE &amp; UNLIMITED (100% Legal)](https://www.youtube.com/watch?v=iya9UJQ3aqk)**
+
+Create AI videos, images & voices all in one place with Higgsfield https://higgsfield.ai/?fpr=malva Download the FREE PDF ...
+
+📺 Malva AI
+
+👁️ 5K • 👍 318 • 💬 41 • ⏱️ 8:06 • 16h ago
+
+---
+
+**[LinkedIn CEOs Are CELEBRATING AI Layoffs](https://www.youtube.com/watch?v=eupDkKbA7Q8)**
+
+Support on Patreon: https://www.patreon.com/cw/BusinessCringe Shop merch: https://thebusinesscringe.com/en-usd ...
+
+📺 BusinessCringe
+
+👁️ 23K • 👍 2K • 💬 514 • ⏱️ 9:07 • 1d ago
 
 ---
 
@@ -320,37 +352,27 @@ National security and defense expert John Arquilla joins “Jesse Weber Live” 
 
 📺 NewsNation
 
-👁️ 4K • 👍 37 • 💬 5 • ⏱️ 3:59 • 20h ago
+👁️ 4K • 👍 39 • 💬 5 • ⏱️ 3:59 • 23h ago
 
 ---
 
-**[NEW Google AI Agent DESTROYS OpenClaw?](https://www.youtube.com/watch?v=umjdfyLkIjg)**
+**[AI BUBBLE POP  - Half of AI Data Centers Are CANCELLED or Delayed](https://www.youtube.com/watch?v=qSifZs6oIDA)**
 
-Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
+FOLLOW LENA PETROVA: ○ Substack: https://www.worldaffairsincontext.com ○ Patreon: https://www.patreon.com/LenaPetrova ...
 
-📺 Julian Goldie SEO
+📺 World Affairs In Context
 
-👁️ 12K • 👍 360 • 💬 31 • ⏱️ 8:07 • 20h ago
-
----
-
-**[Microsoft New AI Is 60X Faster Than Real Time (Beats Top Models)](https://www.youtube.com/watch?v=tDW6VoyWWqo)**
-
-Microsoft just launched MAI-Transcribe-1, MAI-Voice-1, and MAI-Image-2, though this story goes way beyond 3 new models.
-
-📺 AI Revolution
-
-👁️ 24K • 👍 683 • 💬 49 • ⏱️ 10:31 • 1d ago
+👁️ 116K • 👍 7K • 💬 543 • ⏱️ 8:11 • 2d ago
 
 ---
 
-**[This AI just leaked its own code..](https://www.youtube.com/watch?v=EAaRzLjQiAU)**
+**[We Bought MORE Ai Shopping Scams So You Don’t Have To](https://www.youtube.com/watch?v=UExYNu5j1uo)**
 
-Asmongold reacts to the Claude Code situation https://youtube.com/watch?v=mBHRPeg8zPU ▻ Asmongold's Twitch: ...
+Squarespace ▻ Head to http://squarespace.com/corridorcrew to save 10% off your first purchase! Corridor Big Frig Mugs ...
 
-📺 Asmongold TV  
+📺 Corridor Crew
 
-👁️ 788K • 👍 22K • 💬 3K • ⏱️ 11:03 • 2d ago
+👁️ 827K • 👍 38K • 💬 2K • ⏱️ 20:43 • 2d ago
 
 ---
 
@@ -360,27 +382,7 @@ In this episode of 51/49, James exposes the $852 billion cracks in the OpenAI em
 
 📺 51-49 with James Li
 
-👁️ 141K • 👍 11K • 💬 2K • ⏱️ 15:17 • 1d ago
-
----
-
-**[The A.I. Minecraft Experiment Is Disturbing.](https://www.youtube.com/watch?v=3I0seTicFuM)**
-
-AISpecies OG VID: https://www.youtube.com/watch?v=uRDBco-cSK4 TRY OUT GAMER SUPPS AND USE CODE: Bart FOR 10% ...
-
-📺 Joe Bart Games
-
-👁️ 162K • 👍 8K • 💬 521 • ⏱️ 35:26 • 7h ago
-
----
-
-**[Grok AI Just Analyzed the Oldest Human Language](https://www.youtube.com/watch?v=ZoiQGzkMEdw)**
-
-Grok AI just analyzed the oldest human language — and what it uncovered is forcing researchers to completely rethink everything ...
-
-📺 Optic Expedition
-
-👁️ 12K • 👍 196 • 💬 8 • ⏱️ 26:38 • 1d ago
+👁️ 143K • 👍 12K • 💬 2K • ⏱️ 15:17 • 2d ago
 
 ---
 
@@ -396,7 +398,7 @@ Gemma 4 31B is an instruction-tuned, multimodal LLM capable of processing text a
 
 `image-text-to-text` `32.7B`
 
-⬇️ 884,290 • ❤️ 1,329 • 5d ago
+⬇️ 884,290 • ❤️ 1,349 • 5d ago
 
 ---
 
@@ -408,19 +410,7 @@ Gemma-4-31B-JANG_4M-CRACK is a 31B parameter text-generation model optimized for
 
 `text-generation` `6.4B`
 
-⬇️ 29,514 • ❤️ 678 • 3d ago
-
----
-
-**[Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled](https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled)**
-
-*Jackrong*
-
-This image-text-to-text model, Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled, is fine-tuned on Qwen3.5-27B using Claude-4.6 Opus reasoning data for enhanced Chain-of-Thought capabilities. It excels at structured problem-solving and complex reasoning tasks, showing improved autonomy and stability in coding agent environments.
-
-`image-text-to-text` `27.8B`
-
-⬇️ 552,015 • ❤️ 2,450 • 1d ago
+⬇️ 29,514 • ❤️ 703 • 3d ago
 
 ---
 
@@ -432,7 +422,19 @@ VOID is a video-to-video diffusion model for object and interaction removal, cap
 
 `video-to-video`
 
-⬇️ 0 • ❤️ 562 • 1d ago
+⬇️ 0 • ❤️ 571 • 1d ago
+
+---
+
+**[Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled](https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled)**
+
+*Jackrong*
+
+This image-text-to-text model, Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled, is fine-tuned on Qwen3.5-27B using Claude-4.6 Opus reasoning data for enhanced Chain-of-Thought capabilities. It excels at structured problem-solving and complex reasoning tasks, showing improved autonomy and stability in coding agent environments.
+
+`image-text-to-text` `27.8B`
+
+⬇️ 552,015 • ❤️ 2,454 • 2d ago
 
 ---
 
@@ -444,7 +446,7 @@ Gemma 4 26B A4B is a multimodal instruction-tuned model capable of processing te
 
 `image-text-to-text` `26.5B`
 
-⬇️ 659,815 • ❤️ 501 • 5d ago
+⬇️ 659,815 • ❤️ 507 • 5d ago
 
 ---
 
@@ -456,7 +458,7 @@ Gemma 4 E4B is a multimodal, instruction-tuned LLM from Google DeepMind, support
 
 `any-to-any` `8.0B`
 
-⬇️ 473,605 • ❤️ 470 • 5d ago
+⬇️ 473,605 • ❤️ 475 • 5d ago
 
 ---
 
@@ -468,7 +470,19 @@ Bonsai-8B-GGUF is a highly compressed 1-bit language model (1.15 GB) optimized f
 
 `text-generation` `8.2B`
 
-⬇️ 52,632 • ❤️ 499 • 6h ago
+⬇️ 52,632 • ❤️ 505 • 10h ago
+
+---
+
+**[GLM-5.1](https://huggingface.co/zai-org/GLM-5.1)**
+
+*Z.ai*
+
+GLM-5.1 is a next-generation language model optimized for agentic engineering, featuring significantly enhanced coding capabilities and sustained performance on complex, long-horizon tasks. It excels in breaking down problems, iterating on solutions, and handling ambiguity, making it ideal for advanced software development and automated task execution.
+
+`text-generation` `753.9B`
+
+⬇️ 389 • ❤️ 437 • 10h ago
 
 ---
 
@@ -480,7 +494,7 @@ Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document inte
 
 `image-text-to-text` `4.7B`
 
-⬇️ 39,933 • ❤️ 1,071 • 12d ago
+⬇️ 39,933 • ❤️ 1,085 • 12d ago
 
 ---
 
@@ -492,19 +506,7 @@ OmniVoice is a massively multilingual, zero-shot text-to-speech model supporting
 
 `text-to-speech`
 
-⬇️ 104,915 • ❤️ 353 • 2d ago
-
----
-
-**[gemma-4-E2B-it](https://huggingface.co/google/gemma-4-E2B-it)**
-
-*Google*
-
-Gemma 4 E2B-it is an instruction-tuned, multimodal (text, image, audio) LLM from Google DeepMind, featuring a 128K context window and efficient Dense architecture. It excels at reasoning, coding, and agentic tasks, optimized for on-device deployment.
-
-`any-to-any` `5.1B`
-
-⬇️ 321,237 • ❤️ 326 • 5d ago
+⬇️ 104,915 • ❤️ 358 • 2d ago
 
 ---
 
@@ -520,7 +522,7 @@ Gemma 4 E2B-it is an instruction-tuned, multimodal (text, image, audio) LLM from
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 153 • 💬 7 • ⭐ 37,158 • 7mo ago
+▲ 153 • 💬 7 • ⭐ 37,298 • 7mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -532,7 +534,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 36 • 💬 2 • ⭐ 48,201 • 15mo ago
+▲ 36 • 💬 2 • ⭐ 48,336 • 15mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -558,7 +560,7 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 VOID is a video object removal framework that uses vision-language models and video diffusion models to generate physically plausible scenes by leveraging causal reasoning and counterfactual reasoning.
 
-▲ 41 • 💬 5 • ⭐ 1,167 • 6d ago
+▲ 41 • 💬 5 • ⭐ 1,223 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.02296) • [💻 code](https://github.com/Netflix/void-model) • [🔗 project](https://void-model.github.io/)
 
@@ -572,7 +574,7 @@ VOID is a video object removal framework that uses vision-language models and vi
 
 TriAttention addresses KV cache memory bottlenecks in LLMs by leveraging Q/K vector concentration in pre-RoPE space to improve key importance estimation and enable efficient long-context generation.
 
-▲ 64 • 💬 2 • ⭐ 194 • 2d ago
+▲ 70 • 💬 3 • ⭐ 194 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.04921) • [💻 code](https://github.com/WeianMao/triattention) • [🔗 project](https://weianmao.github.io/tri-attention-project-page/)
 
@@ -625,7 +627,7 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 The AI Scientist-v2 autonomously proposes hypotheses, performs experiments, analyzes data, and writes peer-reviewed scientific papers, marking the first fully AI-generated paper accepted by a conference.
 
-▲ 21 • 💬 4 • ⭐ 5,191 • 12mo ago
+▲ 21 • 💬 4 • ⭐ 5,209 • 12mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2504.08066) • [💻 code](https://github.com/SakanaAI/AI-Scientist-v2)
 
@@ -653,7 +655,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 18.1k • 🔱 3.5k • 7h ago
+⭐ 19.1k • 🔱 3.6k • 10h ago
 
 ---
 
@@ -663,7 +665,7 @@ The highest-scoring AI memory system ever benchmarked. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 16.5k • 🔱 1.9k • 57m ago
+⭐ 18.6k • 🔱 2.1k • 4h ago
 
 ---
 
@@ -673,7 +675,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 14.0k • 🔱 1.3k • 6h ago
+⭐ 14.1k • 🔱 1.3k • 10h ago
 
 ---
 
@@ -697,23 +699,23 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 ---
 
-**[larksuite/cli](https://github.com/larksuite/cli)**
-
-The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.
-
-`Go`
-
-⭐ 7.0k • 🔱 414 • 8h ago
-
----
-
 **[safishamsi/graphify](https://github.com/safishamsi/graphify)**
 
 AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid). Turn any folder of code, docs, papers, or images into a queryable knowledge graph
 
 `Python` `claude-code` `codex` `graphrag` `knowledge-graph` `openclaw`
 
-⭐ 6.7k • 🔱 686 • 2h ago
+⭐ 7.6k • 🔱 790 • 6h ago
+
+---
+
+**[larksuite/cli](https://github.com/larksuite/cli)**
+
+The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.
+
+`Go`
+
+⭐ 7.0k • 🔱 419 • 5m ago
 
 ---
 
@@ -723,7 +725,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 5.9k • 🔱 208 • 3h ago
+⭐ 6.1k • 🔱 227 • 6h ago
 
 ---
 
