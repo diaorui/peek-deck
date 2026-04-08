@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-08T19:18:13.488808+00:00'
+updated: '2026-04-08T20:07:34.239424+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - news
 - videos
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 08, 2026 at 19:18 UTC  
+**Last Updated:** April 08, 2026 at 20:07 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $268.79B
+**Market Cap:** $267.24B
 Rank #2
 
 **Circulating Supply:** 120,691,160 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--54.9%
+-55.2%
 
 **All-Time Low:** $0.43
-+515380.0%
++511141.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 World Liberty Financial deposited 3B WLFI tokens as collateral to borrow $50M of its own stablecoin, pushing its lending pool into negative liquidity and raising concerns over circular treasury practices, governance risks, and regulatory scrutiny.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/trumps-crypto-project-just-borrowed-50-million-against-its-own-token-and-broke-the-lending-pool/) • 9h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/trumps-crypto-project-just-borrowed-50-million-against-its-own-token-and-broke-the-lending-pool/) • 10h ago
 
 ---
 
@@ -80,7 +80,7 @@ World Liberty Financial deposited 3B WLFI tokens as collateral to borrow $50M of
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I've learnt that we can now invest in gold directly in crypto, which is quite exciting as I don't trust any bank or broker, so here's a few questions: Is this safe? What is the best within Paxos or Tether gold, is this as trustable as USDT/Stablecoins? How to buy it?
 
-20h ago
+21h ago
 
 ---
 
@@ -96,7 +96,7 @@ I've learnt that we can now invest in gold directly in crypto, which is quite ex
 
 I just built ethlocal.world: a simple way to explore Ethereum activity around the world. The idea was pretty straightforward: Ethereum is global, but it can still be surprisingly hard to get a quick sense of what’s happening locally or regionally. So I made a site that maps events and communities in one place and lets you browse by region and type. It takes data from ethereum.org and was inspired by the Codex Ambassadors globe. Link: https://ethlocal.world Would love honest feedback from people here: Is this actually useful? What feels missing or confusing? Is the globe view helpful, or do you mainly want a cleaner list/filter experience? What would make something like this genuinely valuable for local Ethereum communities? Built it as a small project for the Ethereum community, and I’d love to improve it based on feedback.
 
-21h ago
+22h ago
 
 ---
 
@@ -120,7 +120,7 @@ I’ve had my eth staked for about 2 years now, net negative on the eth itself b
 
 A simple question for the community. I was recently asked for me public key (to my metamask wallet) I know that Bitcoin public keys should still be treated with some care as they disclose all transactions to that address in any blockchain explorer Is this the same with Ethereum?
 
-1d ago
+2d ago
 
 ---
 
@@ -162,13 +162,13 @@ polymarket.com • 3mo ago
 
 So far, the CoWSwap TWAP transactions have been drawn from a wallet associated with the Ethereum Foundation's DeFi activities.
 
-theblock.co • 3h ago
+theblock.co • 4h ago
 
 ---
 
 **[BlackRock’s 18% Ethereum Staking Cut: Too Much Or Just Right?](https://www.forbes.com/sites/astanley/2026/04/08/blackrocks-18-ethereum-staking-cut-too-much-or-just-right/)**
 
-Forbes • 3h ago
+Forbes • 4h ago
 
 ---
 
@@ -176,7 +176,7 @@ Forbes • 3h ago
 
 The EF is offloading approximately $11M worth of ether today via CoWSwap to fund R&D, grants, and donations.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -190,7 +190,7 @@ Bit Digital • 1d ago
 
 **[Ethereum’s Silver Medal Slips as Prediction Markets Brace for a $1,500 Floor](https://www.tipranks.com/news/ethereums-silver-medal-slips-as-prediction-markets-brace-for-a-1500-floor)**
 
-TipRanks • 5h ago
+TipRanks • 6h ago
 
 ---
 
@@ -206,7 +206,7 @@ Seeking Alpha • 1d ago
 
 Ethereum's utility makes it an attractive investment option during the current market turndown.
 
-The Motley Fool • 6h ago
+The Motley Fool • 7h ago
 
 ---
 
@@ -214,7 +214,7 @@ The Motley Fool • 6h ago
 
 Ethereum exchange reserves have fallen to a record low, even as the token trades near $2,15 and still struggles to break out.CryptoQuant data shows reserves are down about 77% from their 2021 peak, while CoinGlass data points to a surge in futures activity, with volume topping close to $50 billion…
 
-TradingView • 17h ago
+TradingView • 18h ago
 
 ---
 
@@ -236,7 +236,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 641 • 👍 73 • 💬 14 • ⏱️ 20:08 • 3h ago
+👁️ 2K • 👍 162 • 💬 18 • ⏱️ 20:08 • 3h ago
 
 ---
 
@@ -246,7 +246,7 @@ Brian from Santiment joined me to review the crypto market metrics for Bitcoin, 
 
 📺 Thinking Crypto
 
-👁️ 985 • 👍 107 • 💬 12 • ⏱️ 26:32 • 6h ago
+👁️ 1K • 👍 128 • 💬 14 • ⏱️ 26:32 • 7h ago
 
 ---
 
@@ -256,7 +256,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 253 • 👍 15 • ⏱️ 4:53 • 10h ago
+👁️ 321 • 👍 20 • ⏱️ 4:53 • 11h ago
 
 ---
 
@@ -276,17 +276,7 @@ In this video, I take a closer look at the current Ethereum market structure and
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 190 • 💬 11 • ⏱️ 11:32 • 22h ago
-
----
-
-**[CRYPTO LIVE TRADING || 8 APRIL  | ‪@ClockTraderlive‬ #bitcoin #ethereum #crypto #btclivetrading](https://www.youtube.com/watch?v=V8o-gB2CQ_c)**
-
-join my social platforms for updates and analysis ✓Instagram: ...
-
-📺 Aryan trader Live
-
-👁️ 9K • 👍 4K • 💬 1 • ⏱️ 1:57:28 • 1h ago
+👁️ 3K • 👍 191 • 💬 11 • ⏱️ 11:32 • 23h ago
 
 ---
 
@@ -296,17 +286,7 @@ BITCOIN SQUEEZE: This Changes Everything (Urgent)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 7K • 👍 278 • 💬 318 • ⏱️ 23:11 • 18h ago
-
----
-
-**[🚨 BTC &amp; ETH: 24 HOURS!!!! ACT ACT ACT!!!!!!](https://www.youtube.com/watch?v=ewMAck4UjHk)**
-
-This is huge for crypto, bitcoin, ethereum and the rest of the markets!!!!! ---------- EXCHANGE BONUSES Trade Non KYC ...
-
-📺 Thomas Kralow
-
-👁️ 23K • 👍 3K • 💬 41 • ⏱️ 9:21 • 2d ago
+👁️ 7K • 👍 280 • 💬 317 • ⏱️ 23:11 • 19h ago
 
 ---
 
@@ -316,7 +296,7 @@ Can you actually get free Ethereum in 2026, or is it all just hype? I decided to
 
 📺 Hitch Insights
 
-👁️ 3K • 👍 623 • 💬 524 • ⏱️ 6:14 • 1d ago
+👁️ 3K • 👍 623 • 💬 524 • ⏱️ 6:14 • 2d ago
 
 ---
 
@@ -326,7 +306,27 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 330 • 👍 49 • ⏱️ 6:29 • 3h ago
+👁️ 559 • 👍 62 • ⏱️ 6:29 • 4h ago
+
+---
+
+**[CRYPTO LIVE TRADING || 8 APRIL  | ‪@ClockTraderlive‬ #bitcoin #ethereum #crypto #btclivetrading](https://www.youtube.com/watch?v=V8o-gB2CQ_c)**
+
+join my social platforms for updates and analysis ✓Instagram: ...
+
+📺 Aryan trader Live
+
+👁️ 22K • 👍 4K • 💬 1 • ⏱️ 1:57:28 • 2h ago
+
+---
+
+**[ETHEREUM İÇİN SON KEZ UYARIYORUM 4 AYLIK MİNİ RALLİ DÖNEMİ BAŞLADI ALTCOİNLER İÇİN SON ŞANS](https://www.youtube.com/watch?v=DdM2YbX_XGM)**
+
+kripto para dünyası kanalımda kripto para hacim türleri para siteleri kripto para haberleri anlık kripto para kripto para grafik kripto ...
+
+📺 Kripto Para Dünyası
+
+👁️ 680 • 👍 105 • ⏱️ 7:42 • 3h ago
 
 ---
 

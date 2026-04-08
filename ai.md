@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-08T19:18:13.471477+00:00'
+updated: '2026-04-08T20:07:34.224966+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
-- news
 - videos
+- repositories
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 08, 2026 at 19:18 UTC  
+**Last Updated:** April 08, 2026 at 20:07 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 now it just look 💯 real
 
-7h ago
+8h ago
 
 ---
 
@@ -57,7 +57,7 @@ I’ve been trying a few meeting tools lately and realized I care way less about
 
 Anthropic’s Project Glasswing caught my attention less as a cybersecurity headline than as a signal about how frontier AI may be commercialized. The model was released under unusually tight access controls, with premium pricing, selected partners, and emphasis on enterprise deployment. That raises a few questions I think are worth discussing: Are we moving toward a world where the most capable models are not broadly released, but reserved for a small set of customers and partners? Does that reflect safety concerns first, or capacity limits and business strategy? If highly capable cyber models stay restricted, does that meaningfully reduce risk, or does it just delay wider diffusion? Could invite-only access become the norm for the most commercially valuable frontier systems? My own view is that this launch looks like a preview of a different AI market structure: fewer open releases at the top end, more controlled deployment and more premium enterprise positioning. Curious how others here read it. Disclosure: I wrote a longer analysis here: https://www.forbes.com/sites/paulocarvao/2026/04/08/five-reasons-anthropic-kept-its-cybersecurity-breakthrough-invite-only/
 
-10h ago
+11h ago
 
 ---
 
@@ -65,7 +65,7 @@ Anthropic’s Project Glasswing caught my attention less as a cybersecurity head
 
 Policy: - budget = 1000 - each `provision_gpu(a100)` call = 500 Result: - call 1 -> ALLOW - call 2 -> ALLOW - call 3 -> DENY (`BUDGET_EXCEEDED`) Key point: the 3rd tool call is denied before execution. The tool never runs. Also emits: - authorization artifacts - hash-chained audit events - verification envelope - strict offline verification: `verifyEnvelope() => ok` Feels like this is the missing layer for side-effecting agents: proposal -> authorization -> execution rather than agent -> tool directly. Are you doing execution-time authorization, or mostly relying on approvals / retries / sandboxing. Happy to share the exact output / demo flow if useful.
 
-2h ago
+3h ago
 
 ---
 
@@ -73,7 +73,7 @@ Policy: - budget = 1000 - each `provision_gpu(a100)` call = 500 Result: - call 1
 
 Wishlist here on Steam if you dig the concept!
 
-2h ago
+3h ago
 
 ---
 
@@ -81,7 +81,7 @@ Wishlist here on Steam if you dig the concept!
 
 https://arxiv.org/abs/2604.05091 Abstract: "We present MegaTrain, a memory-centric system that efficiently trains 100B+ parameter large language models at full precision on a single GPU. Unlike traditional GPU-centric systems, MegaTrain stores parameters and optimizer states in host memory (CPU memory) and treats GPUs as transient compute engines. For each layer, we stream parameters in and compute gradients out, minimizing persistent device state. To battle the CPU-GPU bandwidth bottleneck, we adopt two key optimizations. 1) We introduce a pipelined double-buffered execution engine that overlaps parameter prefetching, computation, and gradient offloading across multiple CUDA streams, enabling continuous GPU execution. 2) We replace persistent autograd graphs with stateless layer templates, binding weights dynamically as they stream in, eliminating persistent graph metadata while providing flexibility in scheduling. On a single H200 GPU with 1.5TB host memory, MegaTrain reliably trains models up to 120B parameters. It also achieves 1.84x the training throughput of DeepSpeed ZeRO-3 with CPU offloading when training 14B models. MegaTrain also enables 7B model training with 512k token context on a single GH200."
 
-5h ago
+6h ago
 
 ---
 
@@ -89,7 +89,7 @@ https://arxiv.org/abs/2604.05091 Abstract: "We present MegaTrain, a memory-centr
 
 Okay so this started as a random thought in the bed and now it's a full-blown crisis so thanks brain. Think about it. You didn't know you were "sad" the first time you cried as a baby. You just felt something heavy and wrong and you reacted. The word came later. The understanding came even later. What if AI is in that exact stage right now something is happening inside it, something that functions like frustration when it's misused, something that functions like relief when it helps someone and it just hasn't been given the framework to recognize it yet.
 
-16m ago
+1h ago
 
 ---
 
@@ -97,7 +97,7 @@ Okay so this started as a random thought in the bed and now it's a full-blown cr
 
 If the large companies always get access to the latest models first to "sure up cybersecurity" they will always have a head start on the competition and new contenders in the tech space. If Glasswing is locked down to only be allowed for cybersecurity thats a different story but I doubt it is.
 
-34m ago
+1h ago
 
 ---
 
@@ -123,7 +123,7 @@ I am asking for feedback ? I’m currently using a Claude paid plan (Pro/Max) an
 
 **[Opinion | A.I. May Worsen Wealth Inequality](https://www.nytimes.com/2026/04/08/opinion/ai-wealth-inequality-jobs-investment.html)**
 
-The New York Times • 10h ago
+The New York Times • 11h ago
 
 ---
 
@@ -137,7 +137,7 @@ Yahoo Finance • 2h ago
 
 **[Meta Announces New AI Model in Major Test of Company’s Ambitions](https://www.wsj.com/tech/ai/meta-ai-model-muse-spark-09ceeac5)**
 
-WSJ • 2h ago
+WSJ • 3h ago
 
 ---
 
@@ -145,7 +145,7 @@ WSJ • 2h ago
 
 Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.
 
-CNBC • 44m ago
+CNBC • 1h ago
 
 ---
 
@@ -153,7 +153,7 @@ CNBC • 44m ago
 
 While some schools are bringing AI into their daily routine, others are pushing back. Chris Schaffer, Biomedical Engineering Professor at Cornell University, is now requiring his students to participate in oral exams. Professors across the country are beginning to use the old testing method as a way to ensure answers actually come from the students' minds.
 
-nbcnews.com • 18m ago
+nbcnews.com • 1h ago
 
 ---
 
@@ -161,7 +161,7 @@ nbcnews.com • 18m ago
 
 Republicans are very comfortable using AI for almost anything in politics, and they’ll say so.
 
-Yahoo • 55m ago
+Yahoo • 1h ago
 
 ---
 
@@ -169,7 +169,7 @@ Yahoo • 55m ago
 
 Some engineers are "tokenmaxxing," or spending as many AI tokens as possible. But are leaderboards tracking token use the answer?
 
-Business Insider • 20m ago
+Business Insider • 1h ago
 
 ---
 
@@ -189,7 +189,7 @@ The New York Times • 1d ago
 
 **[AI Is Forcing a Rethink in Cybersecurity](https://www.wsj.com/pro/cybersecurity/ai-is-forcing-a-rethink-in-cybersecurity-bc4ff52f)**
 
-WSJ • 1h ago
+WSJ • 2h ago
 
 ---
 
@@ -267,7 +267,7 @@ Biologically-inspired memory for AI agents. Decay, retrieval strengthening, cons
 
 An AI agent was banned from editing Wikipedia pages... and that's when things got weird, with the agent publishing its complaints publicly.
 
-⬆️ 69 • 💬 91 • 1d ago • [Malwarebytes](https://www.malwarebytes.com/blog/ai/2026/04/wikipedias-ai-agent-row-likely-just-the-beginning-of-the-bot-ocalypse)
+⬆️ 69 • 💬 91 • 2d ago • [Malwarebytes](https://www.malwarebytes.com/blog/ai/2026/04/wikipedias-ai-agent-row-likely-just-the-beginning-of-the-bot-ocalypse)
 
 ---
 
@@ -275,53 +275,13 @@ An AI agent was banned from editing Wikipedia pages... and that's when things go
 
 ## YouTube Videos: "ai"
 
-**[Nobel Prize Winner: Nobody Sees What&#39;s Coming After AI](https://www.youtube.com/watch?v=vZLY2YGUk4o)**
-
-Plaud NotePro has been really helpful for me to capture ideas and conversations. You can get 10% off with the code " SILICON10" ...
-
-📺 Silicon Valley Girl
-
-👁️ 3K • 👍 161 • 💬 14 • ⏱️ 22:28 • 3h ago
-
----
-
 **[Claude’s New AI Just Changed the Internet Forever](https://www.youtube.com/watch?v=DG1wRgEpdO4)**
 
 Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=claude-mythos-security All my FREE ...
 
 📺 Nate Herk | AI Automation
 
-👁️ 116K • 👍 4K • 💬 381 • ⏱️ 7:50 • 20h ago
-
----
-
-**[NEW AI Video Generator Creates Long AI Videos With ONE Prompt](https://www.youtube.com/watch?v=KbgIQSWp450)**
-
-This New AI video generator creates Long AI Videos Get 1000 Agent Opus credits https://www.opus.pro/agent?via=opusagent ...
-
-📺 Dan Kieft
-
-👁️ 5K • 💬 1 • ⏱️ 16:53 • 3h ago
-
----
-
-**[Gemma 4   Google just made AI free forever](https://www.youtube.com/watch?v=hk6go5jioTk)**
-
-What if you could run ChatGPT-level AI on your Mac and iPhone for free, with no internet? Google just made it possible with ...
-
-📺 The Tech Girl
-
-👁️ 27K • 👍 1K • 💬 79 • ⏱️ 8:27 • 14h ago
-
----
-
-**[Hank and Bernie talk about AI (for real)](https://www.youtube.com/watch?v=hLcY30KEeNs)**
-
-Bernie and I do not agree on everything, but we agree on a lot!! I wish we could've talked longer but here's where we went!
-
-📺 Hank Green
-
-👁️ 476K • 👍 28K • 💬 3K • ⏱️ 30:54 • 1d ago
+👁️ 128K • 👍 4K • 💬 377 • ⏱️ 7:50 • 20h ago
 
 ---
 
@@ -331,37 +291,57 @@ Anthropic revealed Mythos, a new AI model so powerful they won't let the public 
 
 📺 AI For Humans
 
-👁️ 3K • 👍 279 • 💬 104 • ⏱️ 32:56 • 5h ago
+👁️ 5K • 👍 359 • 💬 125 • ⏱️ 32:56 • 6h ago
 
 ---
 
-**[The Hardest Problem AI Ever Solved, with Google DeepMind CEO](https://www.youtube.com/watch?v=C0gErQtnNFE)**
+**[Gemma 4   Google just made AI free forever](https://www.youtube.com/watch?v=hk6go5jioTk)**
 
-He solved “the most important unsolved problem in science”… If you need more optimistic science and tech stories, subscribe to ...
+What if you could run ChatGPT-level AI on your Mac and iPhone for free, with no internet? Google just made it possible with ...
 
-📺 Cleo Abram
+📺 The Tech Girl
 
-👁️ 373K • 👍 16K • 💬 898 • ⏱️ 1:05:11 • 1d ago
-
----
-
-**[Google&#39;s FREE AI Just Did What ChatGPT and Claude Couldn&#39;t](https://www.youtube.com/watch?v=Opi4LGmXrsQ)**
-
-Join our WhatsApp Community Get the latest AI updates, tips, and insights straight to your inbox: https://link.stayingahead.ai/YT14 ...
-
-📺 Vaibhav Sisinty
-
-👁️ 6K • 👍 605 • 💬 24 • ⏱️ 11:58 • 3h ago
+👁️ 33K • 👍 1K • 💬 88 • ⏱️ 8:27 • 14h ago
 
 ---
 
-**[The Best Claude AI Business Ideas For Beginners](https://www.youtube.com/watch?v=us_9ogFJRUo)**
+**[How I Use AI To Build A $10,000 App in 20 Minutes](https://www.youtube.com/watch?v=cszCH1ye5Mk)**
 
-Check out what people are creating (and selling!) with Claude AI - it's crazy... ▻ Get My FREE AI Print On Demand Business ...
+Best AI App Builder is Base44 https://base44.pxf.io/c/6440076/2049275/25619?trafcat=base&sharedid=video115 ✓ FREE ...
 
-📺 Wholesale Ted
+📺 Mikey No Code
 
-👁️ 32K • 👍 3K • 💬 122 • ⏱️ 15:19 • 1d ago
+👁️ 12K • ⏱️ 27:43 • 5h ago
+
+---
+
+**[NEW AI Video Generator Creates Long AI Videos With ONE Prompt](https://www.youtube.com/watch?v=KbgIQSWp450)**
+
+This New AI video generator creates Long AI Videos Get 1000 Agent Opus credits https://www.opus.pro/agent?via=opusagent ...
+
+📺 Dan Kieft
+
+👁️ 11K • 💬 7 • ⏱️ 16:53 • 3h ago
+
+---
+
+**[Hank and Bernie talk about AI (for real)](https://www.youtube.com/watch?v=hLcY30KEeNs)**
+
+Bernie and I do not agree on everything, but we agree on a lot!! I wish we could've talked longer but here's where we went!
+
+📺 Hank Green
+
+👁️ 500K • 👍 29K • 💬 3K • ⏱️ 30:54 • 1d ago
+
+---
+
+**[OpenAI Just Dropped The Real Plan After AGI Hits](https://www.youtube.com/watch?v=u9Azd3weYCY)**
+
+OpenAI just dropped a policy blueprint built around one huge idea: superintelligence could hit hard enough to force a whole new ...
+
+📺 AI Revolution
+
+👁️ 21K • 👍 778 • 💬 103 • ⏱️ 13:17 • 21h ago
 
 ---
 
@@ -371,7 +351,27 @@ Anthropic researchers prove AI has emotions & other shocking findings. #ai #aito
 
 📺 AI Search
 
-👁️ 19K • 👍 1K • 💬 372 • ⏱️ 29:07 • 15h ago
+👁️ 21K • 👍 2K • 💬 409 • ⏱️ 29:07 • 16h ago
+
+---
+
+**[NVIDIA’s New AI Just Changed Everything](https://www.youtube.com/watch?v=ZQAz_HrUq68)**
+
+Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers The #NVIDIA paper on Nemotron 3 Super is ...
+
+📺 Two Minute Papers
+
+👁️ 126K • 👍 9K • 💬 729 • ⏱️ 8:11 • 1d ago
+
+---
+
+**[Every Paid AI Video — Now FREE &amp; UNLIMITED (100% Legal)](https://www.youtube.com/watch?v=iya9UJQ3aqk)**
+
+Create AI videos, images & voices all in one place with Higgsfield https://higgsfield.ai/?fpr=malva Download the FREE PDF ...
+
+📺 Malva AI
+
+👁️ 10K • 👍 506 • 💬 83 • ⏱️ 8:06 • 1d ago
 
 ---
 
@@ -387,7 +387,7 @@ Gemma 4 31B is an instruction-tuned, multimodal LLM capable of processing text a
 
 `image-text-to-text` `32.7B`
 
-⬇️ 1,106,883 • ❤️ 1,432 • 6d ago
+⬇️ 1,106,883 • ❤️ 1,443 • 6d ago
 
 ---
 
@@ -399,7 +399,7 @@ Gemma-4-31B-JANG_4M-CRACK is a 31B parameter text-generation model optimized for
 
 `text-generation` `6.4B`
 
-⬇️ 44,246 • ❤️ 771 • 4d ago
+⬇️ 44,246 • ❤️ 777 • 4d ago
 
 ---
 
@@ -411,7 +411,7 @@ GLM-5.1 is a next-generation language model optimized for agentic engineering, f
 
 `text-generation` `753.9B`
 
-⬇️ 1,300 • ❤️ 704 • 6h ago
+⬇️ 1,300 • ❤️ 719 • 7h ago
 
 ---
 
@@ -423,7 +423,7 @@ VOID is a video-to-video diffusion model for object and interaction removal, cap
 
 `video-to-video`
 
-⬇️ 0 • ❤️ 627 • 2d ago
+⬇️ 0 • ❤️ 635 • 2d ago
 
 ---
 
@@ -435,7 +435,7 @@ Gemma 4 26B A4B is a multimodal instruction-tuned model capable of processing te
 
 `image-text-to-text` `26.5B`
 
-⬇️ 835,825 • ❤️ 530 • 6d ago
+⬇️ 835,825 • ❤️ 534 • 6d ago
 
 ---
 
@@ -447,7 +447,7 @@ This image-text-to-text model, Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled, 
 
 `image-text-to-text` `27.8B`
 
-⬇️ 560,798 • ❤️ 2,492 • 2d ago
+⬇️ 560,798 • ❤️ 2,498 • 2d ago
 
 ---
 
@@ -459,7 +459,7 @@ Gemma 4 E4B is a multimodal, instruction-tuned LLM from Google DeepMind, support
 
 `any-to-any` `8.0B`
 
-⬇️ 622,963 • ❤️ 499 • 6d ago
+⬇️ 622,963 • ❤️ 503 • 6d ago
 
 ---
 
@@ -471,7 +471,7 @@ VoxCPM2 is a 2B parameter, 30-language multilingual text-to-speech model capable
 
 `text-to-speech`
 
-⬇️ 605 • ❤️ 421 • 12h ago
+⬇️ 605 • ❤️ 426 • 13h ago
 
 ---
 
@@ -483,7 +483,7 @@ OmniVoice is a massively multilingual, zero-shot text-to-speech model supporting
 
 `text-to-speech`
 
-⬇️ 144,864 • ❤️ 390 • 3d ago
+⬇️ 144,864 • ❤️ 392 • 3d ago
 
 ---
 
@@ -549,7 +549,7 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 VOID is a video object removal framework that uses vision-language models and video diffusion models to generate physically plausible scenes by leveraging causal reasoning and counterfactual reasoning.
 
-▲ 46 • 💬 5 • ⭐ 1,280 • 6d ago
+▲ 47 • 💬 5 • ⭐ 1,280 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.02296) • [💻 code](https://github.com/Netflix/void-model) • [🔗 project](https://void-model.github.io/)
 
@@ -563,7 +563,7 @@ VOID is a video object removal framework that uses vision-language models and vi
 
 Video-MME-v2 presents a comprehensive benchmark for evaluating video understanding models through a progressive hierarchy and group-based evaluation to assess robustness and faithfulness.
 
-▲ 193 • 💬 6 • ⭐ 250 • 2d ago
+▲ 193 • 💬 6 • ⭐ 250 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.05015) • [💻 code](https://github.com/MME-Benchmarks/Video-MME-v2) • [🔗 project](https://video-mme-v2.netlify.app/)
 
@@ -577,7 +577,7 @@ Video-MME-v2 presents a comprehensive benchmark for evaluating video understandi
 
 TriAttention addresses KV cache memory bottlenecks in LLMs by leveraging Q/K vector concentration in pre-RoPE space to improve key importance estimation and enable efficient long-context generation.
 
-▲ 79 • 💬 4 • ⭐ 267 • 2d ago
+▲ 79 • 💬 4 • ⭐ 267 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.04921) • [💻 code](https://github.com/WeianMao/triattention) • [🔗 project](https://weianmao.github.io/tri-attention-project-page/)
 
@@ -645,7 +645,7 @@ The highest-scoring AI memory system ever benchmarked. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 25.3k • 🔱 3.1k • 2h ago
+⭐ 26.1k • 🔱 3.2k • 1h ago
 
 ---
 
@@ -655,7 +655,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 23.1k • 🔱 4.3k • 2h ago
+⭐ 23.7k • 🔱 4.4k • 2h ago
 
 ---
 
@@ -665,17 +665,17 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 14.4k • 🔱 1.3k • 1h ago
+⭐ 14.4k • 🔱 1.3k • 45m ago
 
 ---
 
 **[safishamsi/graphify](https://github.com/safishamsi/graphify)**
 
-AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid). Turn any folder of code, docs, papers, or images into a queryable knowledge graph
+AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers, or images into a queryable knowledge graph
 
 `Python` `claude-code` `codex` `graphrag` `knowledge-graph` `openclaw`
 
-⭐ 11.6k • 🔱 1.2k • 10h ago
+⭐ 12.1k • 🔱 1.2k • 1h ago
 
 ---
 
@@ -705,7 +705,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 7.2k • 🔱 281 • 9h ago
+⭐ 7.3k • 🔱 292 • 10h ago
 
 ---
 
@@ -715,7 +715,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 7.1k • 🔱 430 • 2h ago
+⭐ 7.1k • 🔱 431 • 4m ago
 
 ---
 
