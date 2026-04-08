@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-08T10:09:16.736179+00:00'
+updated: '2026-04-08T11:31:22.298520+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 08, 2026 at 10:09 UTC  
+**Last Updated:** April 08, 2026 at 11:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,25 +32,25 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[LeRobot (Hugging Face) just released "Unfolding Robotics", an open-source recipe for teaching a robot to fold your clothes](https://www.reddit.com/r/robotics/comments/1sfnve9/lerobot_hugging_face_just_released_unfolding/)**
+
+"The blog walks through the entire process: → Which robot, cameras, and teleoperation setup we used → How to gather high-quality demonstrations → Which model architecture and training recipe performed best → What we learned, and what we’d do differently Everything is open-source and ready to use in LeRobot v0.5.1." Unfolding Robotics: The Open-Source Recipe for Teaching a Robot to Fold Your Clothes: https://huggingface.co/spaces/lerobot/robot-folding From LeRobot on 𝕏: https://x.com/LeRobotHF/status/2041542790610297259
+
+2h ago
+
+---
+
 **[Torobo Humanoid Robot by Tokyo Robotics](https://www.reddit.com/r/robotics/comments/1sf806y/torobo_humanoid_robot_by_tokyo_robotics/)**
 
 Torobo Humanoid Robot by Tokyo Robotics that looks like Atlas by Boston Dynamics. They recently switched their Torobo robot to become bipedal.
 
-13h ago
+14h ago
 
 ---
 
 **[6 axis robot](https://www.reddit.com/r/robotics/comments/1sff1il/6_axis_robot/)**
 
-8h ago
-
----
-
-**[LeRobot (Hugging Face) just released "Unfolding Robotics", an open-source recipe for teaching a robot to fold your clothes](https://www.reddit.com/r/robotics/comments/1sfnve9/lerobot_hugging_face_just_released_unfolding/)**
-
-"The blog walks through the entire process: → Which robot, cameras, and teleoperation setup we used → How to gather high-quality demonstrations → Which model architecture and training recipe performed best → What we learned, and what we’d do differently Everything is open-source and ready to use in LeRobot v0.5.1." Unfolding Robotics: The Open-Source Recipe for Teaching a Robot to Fold Your Clothes: https://huggingface.co/spaces/lerobot/robot-folding From LeRobot on 𝕏: https://x.com/LeRobotHF/status/2041542790610297259
-
-44m ago
+10h ago
 
 ---
 
@@ -66,7 +66,7 @@ From NVIDIA Robotics on 𝕏: https://x.com/NVIDIARobotics/status/20413493142624
 
 Generalist just dropped GEN-1, the first general-purpose robot Al that hits 99% success rate on tasks where older models managed only 64%. The wild part? It didn't learn from robots, it learned from humans wearing cameras doing everyday tasks. That data transfers to robots with minimal retraining.When things go wrong, it improvises regrasping, switching hands, adapting on the fly. No explicit programming.
 
-17h ago
+18h ago
 
 ---
 
@@ -74,7 +74,7 @@ Generalist just dropped GEN-1, the first general-purpose robot Al that hits 99% 
 
 I’ve been working in industrial robotics (mostly integration and deployment) for about 5 years, but I’m currently building a small differential drive robot on my own outside of work. What’s interesting is I’m running into a problem I don’t usually feel as strongly on the job: knowing when to stop adding “improvements.” What started as a simple platform has gradually grown — I added encoder feedback, tuned a PID loop for motor control, redesigned parts for easier mounting, and now I’m considering splitting responsibilities across two controllers to better handle sensor input. None of these decisions are unreasonable on their own, but taken together I’m starting to wonder if I’m overengineering something that was supposed to be simple and quick to iterate. In industry projects, there are usually clearer constraints (budget, deadlines, client requirements), so the line is easier to draw. On a personal build, that line feels a lot fuzzier. For those of you with experience building robots outside of structured projects — how do you decide when something is “good enough” to stop iterating? Do you bias toward simplicity early on, or design for scalability from the start? Curious how others approach this in practice.
 
-45m ago
+2h ago
 
 ---
 
@@ -82,7 +82,7 @@ I’ve been working in industrial robotics (mostly integration and deployment) f
 
 My project partner and I are wrapping up a control middleware (ADAPT), and we wanted to share a crazy emergent behaviour our RL agent learned during a stress test. The Setup: We are running an inverted pendulum simulation, but we cranked simulated gearbox backlash and friction to absolute maximum to mimic a worn-out, dying motor. First Half (Standard PID): The standard controller tries to hold the joint at exactly 0.0 error. It falls into the mechanical deadband, over-corrects, and chatters violently. On physical hardware, this high-frequency vibration shreds the remaining gear teeth and overheats the actuator. Second Half (Vectra AI): We switch to our RL agent. It realizes holding absolute zero will burn out the motor. So, it intentionally introduces a 0.4-degree "limit cycle." It sacrifices a fraction of a degree of absolute precision to create a slight, predictable swing, keeping the gears in tension and riding the momentum through the slop. It essentially taught itself an Autonomous Degradation-Survival Strategy. We are doing a 72-hour sprint right now to see how this translates to different kinematics. If anyone is working with a custom URDF (especially with known mechanical slop), DM it to me. We want to run it through our pipeline and see if our math breaks.
 
-1h ago
+2h ago
 
 ---
 
@@ -90,7 +90,7 @@ My project partner and I are wrapping up a control middleware (ADAPT), and we wa
 
 So this is more of a questions really, but how far are we from building exoskeletons that enable the average human to run at speeds clocking in at 20+ miles per hour. I am aware that one of the best out there is the hypershell x ultra which after me watching many unbiased reviews and videos on it, can make the average human run from 13 mph to 17 and even one at 19. So that being said, how far are we from making an exoskeleton that can enable average humans to clock in at speeds above 23-24 mph?
 
-4h ago
+5h ago
 
 ---
 
@@ -98,7 +98,7 @@ So this is more of a questions really, but how far are we from building exoskele
 
 Worried about EoL IsaacGym and tired of setting up IsaacLab? I ported TWIST2 general motion tracking controller to MjLab that supports uv so really one click training/testing. It also uses MjWarp as the physics engine which IMO is better than physx which the Isaac frameworks defaulted to in the past. GitHub: lzyang2000/twist2_mjlab Link in comments, credits to original authors of MjLab and TWIST2
 
-17h ago
+19h ago
 
 ---
 
@@ -120,12 +120,6 @@ Ars Technica • 1d ago
 
 ---
 
-**[Robot Maker Kuka Eyes US, Asia as Europe’s Factories Lag on AI](https://www.bloomberg.com/news/articles/2026-04-08/robot-maker-kuka-eyes-us-asia-as-europe-s-factories-lag-on-ai)**
-
-Bloomberg.com • 35m ago
-
----
-
 **[HII Teams with GrayMatter Robotics to Integrate Physical AI into Manned and Unmanned Shipbuilding](https://hii.com/news/hii-teams-with-graymatter-robotics-to-integrate-physical-ai-into-manned-and-unmanned-shipbuilding/)**
 
 CARSON, Calif., (April 6, 2026) — HII (NYSE: HII) and GrayMatter Robotics (GMR) signed a memorandum of understanding (MOU) today to explore the integration of GMR’s Physical AI into shipbuilding operations that could accelerate throughput, strengthen the maritime industrial base, and augment the shipbuilding workforce. This will include bringing autonomous surface preparation, coating, and inspection
@@ -138,21 +132,19 @@ HII • 1d ago
 
 Japan is looking to become the dominant source of robotics by 2040, expedited by an aging population and a growing need for labor.
 
-fortune.com • 1d ago
+Fortune • 1d ago
+
+---
+
+**[Robot Maker Kuka Eyes US, Asia as Europe’s Factories Lag on AI](https://www.bloomberg.com/news/articles/2026-04-08/robot-maker-kuka-eyes-us-asia-as-europe-s-factories-lag-on-ai)**
+
+Bloomberg.com • 1h ago
 
 ---
 
 **[Wearable robots improve coordination between pairs of violin players](https://techxplore.com/news/2026-04-wearable-robots-pairs-violin-players.html)**
 
-Tech Xplore • 17h ago
-
----
-
-**[The Hidden System Turning Chinese Tech Companies into Military Suppliers](https://warontherocks.com/2026/04/the-hidden-system-turning-chinese-tech-companies-into-military-suppliers-2/)**
-
-In October 2022, Unitree Robotics joined Boston Dynamics, Agility Robotics, and three other firms in signing an open letter pledging not to weaponize
-
-War on the Rocks • 1d ago
+Tech Xplore • 19h ago
 
 ---
 
@@ -166,15 +158,15 @@ The Business Journals • 1d ago
 
 Kraken announces the successful integration and demonstration of its KATFISH towed synthetic aperture sonar and autonomous launch and recovery system (LARS) from SEFINE’s RD-22 unmanned surface vessel
 
-navalnews.com • 21h ago
+navalnews.com • 22h ago
 
 ---
 
-**[Neurobots: Living robots now have brains that guide how they move](https://interestingengineering.com/ai-robotics/neurobots-living-robots-with-nervous-system)**
+**[US: Humanoid robot Alex evolves with real-world capabilities ahead of public debut](https://interestingengineering.com/ai-robotics/us-alex-humanoid-robot)**
 
-Scientists build living robots with functional nervous systems, giving biological machines internal control.
+IHMC to showcase Alex, a next-gen humanoid robot built for real-world tasks, at its April 10 open house with public demos.
 
-Interesting Engineering • 1d ago
+interestingengineering.com • 23h ago
 
 ---
 
@@ -186,29 +178,17 @@ The San Francisco Standard • 1d ago
 
 ---
 
+**[A Chinese robotics startup with a Tesla Optimus rival is seeking a new chief scientist with an $18 million salary](https://www.businessinsider.com/chinese-robotics-startup-tesla-rival-18-million-salary-chief-scientist-2026-4)**
+
+The race for AI and robotics talent is heating up and getting expensive.
+
+Business Insider • 2d ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
-
-**[Yaskawa&#39;s Humanoid Robot Gets Legs and Better AI #robotics #humanoidrobot #robot](https://www.youtube.com/watch?v=Fmi7Fcksz-4)**
-
-Japan's Torobo humanoid robot is moving toward full autonomy with its new legs. Tokyo Robotics just shared footage of its ...
-
-📺 Kalil 4.0
-
-👁️ 1K • 👍 69 • 💬 5 • ⏱️ 0:46 • 14h ago
-
----
-
-**[Are AI soldiers about to take over the battlefield? | DW News](https://www.youtube.com/watch?v=q83LtZza5eA)**
-
-US startup Foundation is developing humanoid robots for military use. The goal is for its Phantom model to identify targets and ...
-
-📺 DW News
-
-👁️ 70K • 👍 536 • 💬 93 • ⏱️ 1:22 • 2d ago
-
----
 
 **[Shawn Ryan Tests a Real Humanoid Robot](https://www.youtube.com/watch?v=HWq9cFhTvvQ)**
 
@@ -220,13 +200,23 @@ Shawn Ryan gets hands-on with a real humanoid robot powered entirely by AI. In t
 
 ---
 
-**[These NEW Human-Like AI Robots of 2026 Just SHOCKED the World!](https://www.youtube.com/watch?v=FOfieag6fi4)**
+**[Yaskawa&#39;s Humanoid Robot Gets Legs and Better AI #robotics #humanoidrobot #robot](https://www.youtube.com/watch?v=Fmi7Fcksz-4)**
 
-The world wasn't ready for what 2026 had in store — a wave of humanoid robots so advanced, so eerily lifelike, that the line ...
+Japan's Torobo humanoid robot is moving toward full autonomy with its new legs. Tokyo Robotics just shared footage of its ...
 
-📺 The AI Nexus
+📺 Kalil 4.0
 
-👁️ 7K • 👍 239 • 💬 16 • ⏱️ 16:42 • 2d ago
+👁️ 2K • 👍 72 • 💬 5 • ⏱️ 0:46 • 15h ago
+
+---
+
+**[Are AI soldiers about to take over the battlefield? | DW News](https://www.youtube.com/watch?v=q83LtZza5eA)**
+
+US startup Foundation is developing humanoid robots for military use. The goal is for its Phantom model to identify targets and ...
+
+📺 DW News
+
+👁️ 70K • 👍 540 • 💬 93 • ⏱️ 1:22 • 2d ago
 
 ---
 
@@ -240,11 +230,31 @@ AIR CONDITIONED SHIRTS??: https://octocool.com Generalist AI's GEN-1 embodied fo
 
 ---
 
+**[Robot Alchemic Drive Review](https://www.youtube.com/watch?v=a8pbzBTNVOo)**
+
+Today, we're reviewing Robot Alchemic Drive... one of, if not the MOST unique mech games ever made. In recent years, the game ...
+
+📺 Jarboe Gaming
+
+👁️ 5K • 👍 483 • 💬 99 • ⏱️ 18:45 • 19h ago
+
+---
+
+**[These NEW Human-Like AI Robots of 2026 Just SHOCKED the World!](https://www.youtube.com/watch?v=FOfieag6fi4)**
+
+The world wasn't ready for what 2026 had in store — a wave of humanoid robots so advanced, so eerily lifelike, that the line ...
+
+📺 The AI Nexus
+
+👁️ 7K • 👍 243 • 💬 16 • ⏱️ 16:42 • 2d ago
+
+---
+
 **[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=4KM9QWO5__Q)**
 
 📺 Robot Julie 
 
-👁️ 27K • 👍 117 • 💬 1 • ⏱️ 0:23 • 1d ago
+👁️ 27K • 👍 116 • 💬 1 • ⏱️ 0:23 • 1d ago
 
 ---
 
@@ -254,17 +264,7 @@ Joe Rogan Watches Soldier Test INSANE Robotic Legs #Shorts This is the future of
 
 📺 Silent Sentry
 
-👁️ 1.8M • 👍 23K • 💬 549 • ⏱️ 0:17 • 4d ago
-
----
-
-**[I Tested Robot Legs](https://www.youtube.com/watch?v=o1MU4GypD2I)**
-
-Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ▻ https://www.x.com/sambucha Become a Member: ...
-
-📺 Sambucha
-
-👁️ 92K • 👍 6K • 💬 234 • ⏱️ 0:51 • 16h ago
+👁️ 1.8M • 👍 23K • 💬 555 • ⏱️ 0:17 • 4d ago
 
 ---
 
@@ -278,13 +278,13 @@ China is leading the world in humanoid robot shipments. Powered by artificial in
 
 ---
 
-**[NEW MELEE ROBOT IN A NEW HANGAR — War Robots 12.0 Overview](https://www.youtube.com/watch?v=9vOcLtVo_Zg)**
+**[I Tested Robot Legs](https://www.youtube.com/watch?v=o1MU4GypD2I)**
 
-Get the update on your app store: https://wr.my.games/play ➡️ Get the update through the official APK: ...
+Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ▻ https://www.x.com/sambucha Become a Member: ...
 
-📺 War Robots [WR]
+📺 Sambucha
 
-👁️ 45K • 👍 2K • 💬 411 • ⏱️ 3:58 • 21h ago
+👁️ 97K • 👍 7K • 💬 238 • ⏱️ 0:51 • 18h ago
 
 ---
 

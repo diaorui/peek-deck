@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-08T10:09:16.726969+00:00'
+updated: '2026-04-08T11:31:22.290465+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - news
+- social
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 08, 2026 at 10:09 UTC  
+**Last Updated:** April 08, 2026 at 11:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $71,712.71
+### $71,631.78
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +4.9%  
-**7d:** +7.2%  
+**24h:** +4.8%  
+**7d:** +7.1%  
 **30d:** +2.5%  
 **90d:** -20.8%  
-**1y:** -13.2%  
+**1y:** -13.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1435.04B
+**Market Cap:** $1433.90B
 Rank #1
 
-**Circulating Supply:** 20,012,915 BTC
+**Circulating Supply:** 20,013,012 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--43.1%
+-43.2%
 
 **All-Time Low:** $67.81
-+105686.8%
++105537.8%
 
 ---
 
@@ -79,14 +79,6 @@ Rank #1
 
 **[Everyone right now](https://www.reddit.com/r/Bitcoin/comments/1sfe1rq/everyone_right_now/)**
 
-9h ago
-
----
-
-**[Immovable object (me) vs. unstoppable force (Bitcoin)](https://www.reddit.com/r/Bitcoin/comments/1sfc42k/immovable_object_me_vs_unstoppable_force_bitcoin/)**
-
-My “decision” process over the last few weeks went something like this: 65.5k → don’t invest yet, it will drop further 66.0k → dead cat bounce! 67.5k → fake out, sellers will win this fight 68.0k → too high, invest when it drops to 66.0k 71.5k → what the hell is going on? Time in the market beats timing the market, I know.
-
 10h ago
 
 ---
@@ -95,13 +87,15 @@ My “decision” process over the last few weeks went something like this: 65.5
 
 Morgan Stanley’s Bitcoin exchange-traded fund is set to debut on the NYSE Arca stock exchange on Wednesday, making it the first major commercial bank to offer a Bitcoin ETF in the US.The launch of the Morgan Stanley Bitcoin Trust (MSBT) on April 8 was confirmed in a listing notice by the New York S…
 
-🔗 [TradingView](https://www.tradingview.com/news/cointelegraph:7fd1c9c81094b:0-morgan-stanley-s-bitcoin-etf-set-to-launch-on-wednesday/) • 2h ago
+🔗 [TradingView](https://www.tradingview.com/news/cointelegraph:7fd1c9c81094b:0-morgan-stanley-s-bitcoin-etf-set-to-launch-on-wednesday/) • 3h ago
 
 ---
 
-**[bitcoin provides mathematical certainty in a world that is more fake and uncertain than ever. There will only be 21,000,000 bitcoin, forever](https://www.reddit.com/r/Bitcoin/comments/1sezsdb/bitcoin_provides_mathematical_certainty_in_a/)**
+**[Immovable object (me) vs. unstoppable force (Bitcoin)](https://www.reddit.com/r/Bitcoin/comments/1sfc42k/immovable_object_me_vs_unstoppable_force_bitcoin/)**
 
-18h ago
+My “decision” process over the last few weeks went something like this: 65.5k → don’t invest yet, it will drop further 66.0k → dead cat bounce! 67.5k → fake out, sellers will win this fight 68.0k → too high, invest when it drops to 66.0k 71.5k → what the hell is going on? Time in the market beats timing the market, I know.
+
+12h ago
 
 ---
 
@@ -109,7 +103,13 @@ Morgan Stanley’s Bitcoin exchange-traded fund is set to debut on the NYSE Arca
 
 Strategy has acquired 4,871 BTC for ~$329.9 million at ~$67,718 per bitcoin. As of 4/5/2026, we hold 766,970 BTC acquired for ~$58.02 billion at ~$75,644 per bitcoin.
 
-🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-4871-btc-and-now-holds-766970-btc_04-06-2026) • 14h ago
+🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-4871-btc-and-now-holds-766970-btc_04-06-2026) • 16h ago
+
+---
+
+**[bitcoin provides mathematical certainty in a world that is more fake and uncertain than ever. There will only be 21,000,000 bitcoin, forever](https://www.reddit.com/r/Bitcoin/comments/1sezsdb/bitcoin_provides_mathematical_certainty_in_a/)**
+
+19h ago
 
 ---
 
@@ -117,7 +117,7 @@ Strategy has acquired 4,871 BTC for ~$329.9 million at ~$67,718 per bitcoin. As 
 
 Loading before launch
 
-19h ago
+21h ago
 
 ---
 
@@ -125,7 +125,15 @@ Loading before launch
 
 I'm looking for a cheap way to buy bitcoin, i'm getting a crazy rate on OKX which is all but okay. In Singaporean dollar BTC on OKX is 88.7k but when I preview my purchase it’s 90.0k, i'm speechless.
 
-12h ago
+13h ago
+
+---
+
+**[Crypto Fear & Greed Index](https://www.reddit.com/r/Bitcoin/comments/1sfosgt/crypto_fear_greed_index/)**
+
+Just wondering: do you guys take this index into consideration at all (for buying decisions and such)?
+
+1h ago
 
 ---
 
@@ -133,23 +141,15 @@ I'm looking for a cheap way to buy bitcoin, i'm getting a crazy rate on OKX whic
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-3h ago
+5h ago
 
 ---
 
-**[Wallet of Satoshi now lets you use a self-custodial wallet with seamless access to the Lightning Network, thanks to Spark the new high speed L2 solution!](https://www.reddit.com/r/Bitcoin/comments/1sf1qcr/wallet_of_satoshi_now_lets_you_use_a/)**
+**[Need a little Help](https://www.reddit.com/r/Bitcoin/comments/1sfo0wa/need_a_little_help/)**
 
-There is a lot to talk about, but if you want to read more: https://www.xverse.app/blog/what-is-spark-bitcoin-l2 quick TL;DR: Spark is a Bitcoin L2 designed for fast, cheap, and self-custodial transactions, leveraging statechain tech and atomic swaps. Spark supports the issuance and transfer of stablecoins and tokens on Bitcoin, enabling new financial use cases such as payments, trading, and earning stablecoin yield. Spark provides a scalable ecosystem for wallets, developers, and businesses to build financial apps interoperable with Lightning Network and Taproot Assets. Wallet of Satoshi now integrates Spark, letting you create a self-custodial wallet, secure your 12 word seed, and seamlessly send/receive BTC on the Lightning Network while staying fully in control of your funds. hope many other lightning wallets such as Strike, Blink, Speed, Coinos implement Spark Welcome to the new era of scalability of BTC! Edit: After using the WoS self custody option with Spark, I noticed that WoS shows all your history with your Spark Key to the public, meaning that you should create your wallet in another app that has the privacy option as default such as Cake Wallet and then import your wallet to WoS.
+How do I get into bitcoin? I’m 19 and have always been intrigued by the way bitcoin works since I could fully process what it was and always wanted to get into it but could never figure out where to start
 
-17h ago
-
----
-
-**[The Real War Isn’t in Iran — It’s in the US Treasury Market | Luke Gromen & Lyn Alden](https://www.reddit.com/r/Bitcoin/comments/1sf2308/the_real_war_isnt_in_iran_its_in_the_us_treasury/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtu.be](https://youtu.be/6tkKoMEiFDk?si=apOVGifqYreR3Pfm) • 17h ago
+1h ago
 
 ---
 
@@ -157,23 +157,51 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Jumps to Three-Week High on US-Iran Ceasefire Plan](https://www.bloomberg.com/news/articles/2026-04-08/bitcoin-jumps-to-three-week-high-on-us-iran-ceasefire-plan)**
-
-Bloomberg.com • 3h ago
-
----
-
 **[4 Takeaways From Our Search for Satoshi Nakamoto, Bitcoin’s Creator](https://www.nytimes.com/2026/04/08/business/takeaways-satoshi-nakamoto-bitcoin-adam-back.html)**
 
-The New York Times • 6h ago
+The New York Times • 7h ago
 
 ---
 
-**[Market Crash: The Cryptocurrencies I'd Buy Without Hesitation](https://www.fool.com/investing/2026/04/07/market-crash-the-cryptocurrencies-id-buy-without-h/)**
+**[Adam Back says he is not Bitcoin founder Satoshi Nakamoto](https://www.bbc.com/news/articles/cgrl4l1y9yxo)**
 
-The odds of a crash look a touch elevated, so it's important to plan ahead just in case.
+The British computer scientist and entrepreneur has denied being the man who the New York Times identified at Satoshi Nakamoto.
 
-The Motley Fool • 9h ago
+BBC • 57m ago
+
+---
+
+**[How The Trumps Blew $1 Billion On Bitcoin](https://www.forbes.com/sites/danalexander/2026/04/08/how-the-trumps-blew-1-billion-on-bitcoin/)**
+
+Forbes • 25m ago
+
+---
+
+**[Bitcoin Jumps to Three-Week High on US-Iran Ceasefire Plan](https://www.bloomberg.com/news/articles/2026-04-08/bitcoin-jumps-to-three-week-high-on-us-iran-ceasefire-plan)**
+
+Bloomberg.com • 1h ago
+
+---
+
+**[Bitcoin Just Deviated From The Bearish Trend That Began In January And $86,000 Could Be Next](https://www.tradingview.com/news/newsbtc:f9eafd7ea094b:0-bitcoin-just-deviated-from-the-bearish-trend-that-began-in-january-and-86-000-could-be-next/)**
+
+Bitcoin has been in a bearish trend that spilled over from 2025 into the year 2026. This has persisted from January, and throughout the first quarter of the year, the Bitcoin price has continued to decline as a result. This trend, however, seems to be nearing its end with the most recent move. Acco…
+
+TradingView • 1h ago
+
+---
+
+**[Morgan Stanley's Bitcoin ETF Goes Live Tomorrow](https://finance.yahoo.com/markets/crypto/articles/morgan-stanleys-btc-etf-going-192517212.html)**
+
+It will be the first BTC ETF launched by a major U.S. commercial bank.
+
+Yahoo Finance • 16h ago
+
+---
+
+**[Morgan Stanley Set To Launch Bitcoin ETF Wednesday as Wall Street Crypto Buildout Expands](https://www.ccn.com/news/crypto/morgan-stanley-set-to-launch-bitcoin-etf-wednesday-as-wall-street-crypto-buildout-expands/)**
+
+CCN.com • 1h ago
 
 ---
 
@@ -181,51 +209,21 @@ The Motley Fool • 9h ago
 
 Bitcoin ETFs offer the convenience of buying crypto from your standard brokerage account, but what are investors giving up for the privilege?
 
-New York Post • 1d ago
+nypost.com • 1d ago
 
 ---
 
-**['Captive Audience' Could Drive Demand for Morgan Stanley's Bitcoin ETF: Bloomberg Analyst](https://decrypt.co/363531/captive-audience-drive-demand-morgan-stanley-bitcoin-etf-bloomberg-analyst)**
+**[The New York Times says it’s identified Satoshi, the inventor of bitcoin](https://www.marketwatch.com/story/the-new-york-times-says-its-identified-satoshi-the-inventor-of-bitcoin-3dd055a7)**
 
-Morgan Stanley is joining the Bitcoin ETF party late, but Bloomberg's Eric Balchunas says the investment bank isn't showing up empty-handed.
-
-Decrypt • 14h ago
+MarketWatch • 1h ago
 
 ---
 
-**[Bitcoin is now front-running the Fed rather than reacting to it. ETFs are the cause](https://www.coindesk.com/markets/2026/04/05/bitcoin-is-now-front-running-the-fed-rather-than-reacting-to-it-etfs-are-the-cause)**
+**[Market Crash: The Cryptocurrencies I'd Buy Without Hesitation](https://www.fool.com/investing/2026/04/07/market-crash-the-cryptocurrencies-id-buy-without-h/)**
 
-Bitcoin's correlation with global central bank easing has turned strongly negative since 2024, suggesting BTC now leads rather than lags monetary policy signals.
+The odds of a crash look a touch elevated, so it's important to plan ahead just in case.
 
-CoinDesk • 2d ago
-
----
-
-**[‘A Major Mistake’—Bitcoin Is Suddenly Braced For A Federal Reserve Price ‘Surprise’](https://www.forbes.com/sites/digital-assets/2026/04/06/bitcoin-is-suddenly-braced-for-a-federal-reserve-price-surprise/)**
-
-Forbes • 1d ago
-
----
-
-**[A quantum threat to Bitcoin has some asking the unthinkable](https://fortune.com/crypto/2026/04/06/quantum-computing-satoshi-nakamoto-bitcoin-freeze-wallets/)**
-
-A hacker with quantum tools could crack open old Bitcoin wallets and flood the market as soon as 2029.
-
-fortune.com • 1d ago
-
----
-
-**[Even A 1% Bitcoin Allocation Can Drastically Reshape Portfolio Risk, Schwab Finds](https://bitcoinmagazine.com/news/schwab-even-a-1-bitcoin-allocation)**
-
-A new Charles Schwab research note reframes the question of crypto allocation as less about forecasting returns and more about an investor’s tolerance for volatility.
-
-Bitcoin Magazine • 17h ago
-
----
-
-**[Bitcoin Price Surges Above $70,000. Ethereum, XRP Jump as Cryptos Rally on Iran Hope.](https://www.barrons.com/articles/bitcoin-price-xrp-etherum-crypto-today-iran-df3ec33f)**
-
-Barron's • 3h ago
+The Motley Fool • 11h ago
 
 ---
 
@@ -237,13 +235,13 @@ Barron's • 3h ago
 
 Neha Narula
 
-⬆️ 151 • 💬 106 • 13h ago • [nehanarula.org](https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html)
+⬆️ 153 • 💬 111 • 14h ago • [nehanarula.org](https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html)
 
 ---
 
 **[Who Is Satoshi Nakamoto? My Quest to Unmask Bitcoin's Creator](https://news.ycombinator.com/item?id=47685320)**
 
-⬆️ 63 • 💬 26 • 5h ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)
+⬆️ 75 • 💬 29 • 6h ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)
 
 ---
 
@@ -302,7 +300,7 @@ Test your prediction skills against historical data. Draw your forecast and see 
 This post is a direct follow-up to my recent articles about the new home server with openSUSE MicroOS and the Minisforum MS-S1 Max. Those covered the foundation. Here I want to show one concrete use for it: putting together a decent Bitcoin stack at home, focused on privacy, operational sovereignty and safe transactions on my side.
 First things first: this isn’t an evangelism piece or a day-trading pitch. Quite the opposite. As I write this, on April 1, 2026, Bitcoin is around US$ 68k and close to R$ 391k, below the 2025 peaks. Plenty of people look at that and either panic or start fantasizing about leveraged trades. I think both reactions are wrong. There’s a “super cycle” thesis floating around based on institutional demand, spot ETFs and the lagged halving effect. Maybe. Maybe not. What I do know is that short-term candles don’t change the part I actually care about: infrastructure. If you need leverage to “speed up your gains,” you’re probably just speeding up your chances of getting liquidated.
 
-⬆️ 1 • 💬 2 • 12h ago • [akitaonrails.com](https://akitaonrails.com/en/2026/04/01/bitcoin-on-the-home-server-sovereignty-with-coldcard-sparrow-fulcrum/)
+⬆️ 1 • 💬 2 • 13h ago • [akitaonrails.com](https://akitaonrails.com/en/2026/04/01/bitcoin-on-the-home-server-sovereignty-with-coldcard-sparrow-fulcrum/)
 
 ---
 
@@ -310,61 +308,33 @@ First things first: this isn’t an evangelism piece or a day-trading pitch. Qui
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin Going To Zero, Explained](https://www.youtube.com/watch?v=955-6qVZ3cw)**
-
-BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 WEEX Poker Party is LIVE ($30k Bonus): ...
-
-📺 Altcoin Daily
-
-👁️ 25K • 👍 1K • 💬 299 • ⏱️ 9:28 • 10h ago
-
----
-
 **[Bitcoin has been the &#39;shining light&#39; during the Iran war, says Anthony Pompliano](https://www.youtube.com/watch?v=GFriZiEByWk)**
 
 Anthony Pompliano, ProCap Financial CEO, joins 'Squawk Box' to discuss bitcoin's performance amid the Iran war, global bitcoin ...
 
 📺 CNBC Television
 
-👁️ 13K • 👍 142 • 💬 146 • ⏱️ 5:56 • 20h ago
+👁️ 13K • 👍 148 • 💬 147 • ⏱️ 5:56 • 21h ago
 
 ---
 
-**[BRACE YOURSELF... Crypto is about to get ABSOLUTELY CRAZY!](https://www.youtube.com/watch?v=0b0OkhhPaLc)**
+**[Bitcoin Going To Zero, Explained](https://www.youtube.com/watch?v=955-6qVZ3cw)**
 
-BRACE YOURSELF... Crypto is about to get ABSOLUTELY CRAZY! For more info on BTQ Bitcoin Quantum research: ...
+BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 WEEX Poker Party is LIVE ($30k Bonus): ...
 
 📺 Altcoin Daily
 
-👁️ 44K • 👍 3K • 💬 412 • ⏱️ 9:57 • 1d ago
+👁️ 29K • 👍 2K • 💬 469 • ⏱️ 9:28 • 11h ago
 
 ---
 
-**[BLACKROCK GOT OUT! | $875 Billion Reason Your Bank Could Be NEXT!](https://www.youtube.com/watch?v=7qggaEgalPI)**
+**[🚨 BTC &amp; ETH: 24 HOURS!!!! ACT ACT ACT!!!!!!](https://www.youtube.com/watch?v=ewMAck4UjHk)**
 
-Something big just shifted behind the scenes and most people missed it. BlackRock is repositioning, regional banks are exposed, ...
+This is huge for crypto, bitcoin, ethereum and the rest of the markets!!!!! ---------- EXCHANGE BONUSES Trade Non KYC ...
 
-📺 Simply Bitcoin
+📺 Thomas Kralow
 
-👁️ 28K • 👍 2K • 💬 140 • ⏱️ 21:33 • 1d ago
-
----
-
-**[The Digital Money Shift To Bitcoin That Nobody Can Stop! #bitcoin #tombilyeu #crypto](https://www.youtube.com/watch?v=doKeH3FC0ew)**
-
-Tom breaks down why he doesn't sweat Bitcoin's price swings—because he's thinking in years, not days. From digitizing money to ...
-
-📺 Tom Bilyeu Clips
-
-👁️ 1K • 👍 18 • 💬 1 • ⏱️ 0:56 • 9h ago
-
----
-
-**[Bitcoin Goes Up To $1Million?!](https://www.youtube.com/watch?v=CPCoqd0HxWM)**
-
-📺 FreshandFit
-
-👁️ 86K • 👍 2K • 💬 46 • ⏱️ 0:34 • 2d ago
+👁️ 23K • 👍 3K • 💬 41 • ⏱️ 9:21 • 2d ago
 
 ---
 
@@ -378,33 +348,61 @@ Is Bitcoin entering a dangerous phase of complacency? After periods of volatilit
 
 ---
 
-**[Gareth Soloway LATEST Bitcoin Prediction 😳](https://www.youtube.com/watch?v=hx7APjARYiU)**
+**[BRACE YOURSELF... Crypto is about to get ABSOLUTELY CRAZY!](https://www.youtube.com/watch?v=0b0OkhhPaLc)**
 
-Follow Gareth: https://x.com/GarethSoloway ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?
+BRACE YOURSELF... Crypto is about to get ABSOLUTELY CRAZY! For more info on BTQ Bitcoin Quantum research: ...
 
 📺 Altcoin Daily
 
-👁️ 11K • 👍 283 • 💬 55 • ⏱️ 1:14 • 1d ago
+👁️ 45K • 👍 3K • 💬 411 • ⏱️ 9:57 • 1d ago
 
 ---
 
-**[Bitcoin: Preparing for a Bigger Move Down](https://www.youtube.com/watch?v=tRWcP2fA_S4)**
+**[BITCOIN BEARISH SETUP! MAJOR CRASH COMING SOON? Bitcoin Price Prediction 2026](https://www.youtube.com/watch?v=RL7f6fp8RIg)**
 
-In this video, I explain the current Bitcoin market structure and why the price action is so difficult for most traders right now. We are ...
+Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro max, and thousands of dollars of other bonuses!
 
-📺 More Crypto Online
+📺 Crypto Jebb
 
-👁️ 6K • 👍 476 • 💬 25 • ⏱️ 11:30 • 8h ago
+👁️ 4K • 👍 203 • 💬 19 • ⏱️ 56:30 • 20h ago
 
 ---
 
-**[🚨 BTC &amp; ETH: 24 HOURS!!!! ACT ACT ACT!!!!!!](https://www.youtube.com/watch?v=ewMAck4UjHk)**
+**[US IRAN CEASEFIRE PUMPS CRYPTO &amp; STOCKS! BITCOIN &amp; XRP ETFS REBOUND!](https://www.youtube.com/watch?v=lQ7lnh75vWI)**
 
-This is huge for crypto, bitcoin, ethereum and the rest of the markets!!!!! ---------- EXCHANGE BONUSES Trade Non KYC ...
+Crypto News: US and Iran agree to 2-week ceasefire which caused Bitcoin and Stocks to pump. Crypto's $224 million inflow ...
 
-📺 Thomas Kralow
+📺 Thinking Crypto
 
-👁️ 23K • 👍 3K • 💬 41 • ⏱️ 9:21 • 1d ago
+👁️ 3K • 👍 340 • 💬 160 • ⏱️ 19:56 • 8h ago
+
+---
+
+**[BITCOIN: $223M OF LIQUIDATIONS COMING!!! 💀 #BTC Price Prediction &amp; Crypto News Today](https://www.youtube.com/watch?v=o44SRCpQpbY)**
+
+My Trading Signals https://discord.com/invite/jRAnCV9CTB Trade on MEXC ...
+
+📺 Road To $1 Million USD
+
+👁️ 5K • 👍 220 • 💬 16 • ⏱️ 8:32 • 13h ago
+
+---
+
+**[BITCOIN BOTTOM IS IN? (I think it might be!) #crypto #bitcoin #trump](https://www.youtube.com/watch?v=6flkGzBuWR4)**
+
+📺 CryptoWendyO
+
+👁️ 6K • 👍 308 • 💬 19 • ⏱️ 1:00 • 2d ago
+
+---
+
+**[The Digital Money Shift To Bitcoin That Nobody Can Stop! #bitcoin #tombilyeu #crypto](https://www.youtube.com/watch?v=doKeH3FC0ew)**
+
+Tom breaks down why he doesn't sweat Bitcoin's price swings—because he's thinking in years, not days. From digitizing money to ...
+
+📺 Tom Bilyeu Clips
+
+👁️ 1K • 👍 19 • 💬 1 • ⏱️ 0:56 • 10h ago
 
 ---
 

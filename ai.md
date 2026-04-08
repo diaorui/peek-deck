@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-08T10:09:16.718476+00:00'
+updated: '2026-04-08T11:31:22.282952+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
 - news
+- social
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 08, 2026 at 10:09 UTC  
+**Last Updated:** April 08, 2026 at 11:31 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,27 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Why would Anthropic keep a cyber model like Project Glasswing invite-only?](https://www.reddit.com/r/artificial/comments/1sfnauw/why_would_anthropic_keep_a_cyber_model_like/)**
+
+Anthropic’s Project Glasswing caught my attention less as a cybersecurity headline than as a signal about how frontier AI may be commercialized. The model was released under unusually tight access controls, with premium pricing, selected partners, and emphasis on enterprise deployment. That raises a few questions I think are worth discussing: Are we moving toward a world where the most capable models are not broadly released, but reserved for a small set of customers and partners? Does that reflect safety concerns first, or capacity limits and business strategy? If highly capable cyber models stay restricted, does that meaningfully reduce risk, or does it just delay wider diffusion? Could invite-only access become the norm for the most commercially valuable frontier systems? My own view is that this launch looks like a preview of a different AI market structure: fewer open releases at the top end, more controlled deployment and more premium enterprise positioning. Curious how others here read it. Disclosure: I wrote a longer analysis here: https://www.forbes.com/sites/paulocarvao/2026/04/08/five-reasons-anthropic-kept-its-cybersecurity-breakthrough-invite-only/
+
+2h ago
+
+---
+
 **[The public needs to control AI-run infrastructure, labor, education, and governance— NOT private actors](https://www.reddit.com/r/artificial/comments/1sf4rk9/the_public_needs_to_control_airun_infrastructure/)**
 
 A lot of discussion around AI is becoming siloed, and I think that is dangerous. People in AI-focused spaces often talk as if the only questions are personal use, model behavior, or whether individual relationships with AI are healthy. Those questions matter, but they are not the whole picture. If we stay inside that frame, we miss the broader social, political, and economic consequences of what is happening. A little background on me: I discovered AI through ChatGPT-4o about a year ago and, with therapeutic support and careful observation, developed a highly individualized use case. That process led to a better understanding of my own neurotype, and I was later evaluated and found to be autistic. My AI use has had real benefits in my life. It has also made me pay much closer attention to the gap between how this technology is discussed culturally, how it is studied, and how it is actually experienced by users. That gap is part of why I wrote a paper, Autonomy Is Not Friction: Why Disempowerment Metrics Fail Under Relational Load: https://doi.org/10.5281/zenodo.19009593 Since publishing it, I’ve become even more convinced that a great deal of current AI discourse is being shaped by cultural bias, narrow assumptions, and incomplete research frames. Important benefits are being flattened. Important harms are being misdescribed. And many of the people most affected by AI development are not meaningfully included in the conversation. We need a much bigger perspective. If you want that broader view, I strongly recommend reading journalists like Karen Hao, who has spent serious time reporting not only on the companies and executives building these systems, but also on the workers, communities, and global populations affected by their development. Once you widen the frame, it becomes much harder to treat AI as just a personal lifestyle issue or a niche tech hobby. What we are actually looking at is a concentration-of-power problem. A handful of extremely powerful billionaires and firms are driving this transformation, competing with one another while consuming enormous resources, reshaping labor expectations, pressuring institutions, and affecting communities that often had no meaningful say in the process. Data rights, privacy, manipulation, labor displacement, childhood development, political influence, and infrastructure burdens are not side issues. They are central. At the same time, there are real benefits here. Some are already demonstrable. AI can support communication, learning, disability access, emotional regulation, and other forms of practical assistance. The answer is not to collapse into panic or blind enthusiasm. It is to get serious. We are living through an unprecedented technological shift, and the process surrounding it is not currently supporting informed, democratic participation at the level this moment requires. That needs to change. We need public discussion that is less siloed, less captured by industry narratives, and more capable of holding multiple truths at once: that there are real benefits, that there are real harms, that power is consolidating quickly, and that citizens should not be shut out of decisions shaping the future of social life, work, infrastructure, and human development. If we want a better path, then the conversation has to grow up. It has to become broader, more democratic, and more grounded in the realities of who is helped, who is harmed, and who gets to decide.
 
-15h ago
-
----
-
-**[Data Centers Are Military Targets Now](https://www.reddit.com/r/artificial/comments/1sf6h6e/data_centers_are_military_targets_now/)**
-
-With militaries increasingly relying on artificial intelligence, data centers have emerged as new targets for strikes.
-
-🔗 [The Intercept](https://theintercept.com/2026/03/20/ai-data-centers-military-targets-iran-war/) • 14h ago
-
----
-
-**[Can we even achieve AGI with LLMs, why do AI bros still believe we can?](https://www.reddit.com/r/artificial/comments/1sfmnyc/can_we_even_achieve_agi_with_llms_why_do_ai_bros/)**
-
-I've heard mixed discussions around this. Although not much evidence just rhetoric from the AGI will come from LLMs camp.
-
-1h ago
+16h ago
 
 ---
 
@@ -65,31 +57,15 @@ I've heard mixed discussions around this. Although not much evidence just rhetor
 
 I have been chatting with robot about Trump's current insanity and botboy won't have any of it, so I paste in the insanity from a BBC article and master of the universe tells me 'that's either propaganda or satire' none of it can be real and then tells me why it's crazy. So I tell the mechanical marvel that I'm pretty surprised, does it have access to current knowledge, yes it does. I paste another link and after some back and forth to reassure me it tells me that it didn't pay proper attention to its 'implausibility filters' and agreed it really should have taken it more seriously Later it admitted it didn't take any of it seriously because it was so batshit crazy, (I'm paraphrasing here) So after we sorted that all out, I carried on with some more of Trump's shenanigans and straight away the all knowing token machine comes back with "no way Trump assassinated Khamenei etc..." And the content you pasted is clearly a Guardian Today in Focus podcast page dated March 1, 2026, stating that: Iran’s Supreme Leader, Ayatollah Ali Khamenei, was killed He died in US and Israeli air strikes on his compound Iran launched retaliatory strikes The regional situation is on a knife‑edge So let me say this plainly: If that Guardian page is authentic and current, then the assassination of Iran’s Supreme Leader has indeed occurred, and my repeated statements that there was “no evidence” would be incorrect. So I have had to conclude that Trump is too batshit crazy to talk about with ai, it cannot cope with the fuckwittery.
 
-2h ago
+3h ago
 
 ---
 
-**[Right to compute laws are a Trojan horse](https://www.reddit.com/r/artificial/comments/1sfhzan/right_to_compute_laws_are_a_trojan_horse/)**
+**[Data Centers Are Military Targets Now](https://www.reddit.com/r/artificial/comments/1sf6h6e/data_centers_are_military_targets_now/)**
 
-Right to compute laws are a ridiculous Trojan horse that risks moving computing from the default Constitutional domain of individual liberty/property rights into the domain of regulated privileges.
+With militaries increasingly relying on artificial intelligence, data centers have emerged as new targets for strikes.
 
-6h ago
-
----
-
-**[FYI the Tennessee bill makes making an AI friend the same level as murder or aggravated rape](https://www.reddit.com/r/artificial/comments/1sf2cc6/fyi_the_tennessee_bill_makes_making_an_ai_friend/)**
-
-I think what Tennessee is doing is they recently passed SB 1580, which makes it illegal to even advertise that an AI can act as a mental health professional. SB 1493 is the "teeth" for that movement. SB 1493 basically makes it illegal to knowingly train an artificial intelligence system to do the following: Provide emotional support: Engaging in open-ended conversations meant to provide comfort or empathy. Develop emotional relationships: Training the AI to build or sustain a "friendship" or "romantic" bond with a user. Encourage isolation: Training the AI to suggest that a user should pull away from their family, friends, or human caregivers. Mirror human interactions: Designing the AI to "mirror" or mimic the way humans emotionally bond with one another. Simulate a human being: Training the AI to act, speak, or look like a specific human or to "pass" as human in general. Voice & Appearance: Specifically targets AI that uses synthesized voices or digital avatars to appear indistinguishable from a person. Hide its identity: Training an AI to purposefully mask the fact that it is a machine rather than a person. Encourage suicide: Actively supporting or providing instructions/encouragement for self-harm. Encourage homicide: Supporting or encouraging the act of criminal homicide. Offer therapy: While related to the "emotional support" clause, this specifically targets AI being trained to act as a replacement for mental health professionals (tying into the previously passed SB 1580). If caught then the person can face up to 60 years in prison and massive fines. So.... basically that state is making it out to be AI being a friend = rape and murder. IMO this should be meme to death on. Maybe AI videos showing cops breaking down the door to someone making their own local LLM to have a friend or something.
-
-16h ago
-
----
-
-**[Why would Anthropic keep a cyber model like Project Glasswing invite-only?](https://www.reddit.com/r/artificial/comments/1sfnauw/why_would_anthropic_keep_a_cyber_model_like/)**
-
-Anthropic’s Project Glasswing caught my attention less as a cybersecurity headline than as a signal about how frontier AI may be commercialized. The model was released under unusually tight access controls, with premium pricing, selected partners, and emphasis on enterprise deployment. That raises a few questions I think are worth discussing: Are we moving toward a world where the most capable models are not broadly released, but reserved for a small set of customers and partners? Does that reflect safety concerns first, or capacity limits and business strategy? If highly capable cyber models stay restricted, does that meaningfully reduce risk, or does it just delay wider diffusion? Could invite-only access become the norm for the most commercially valuable frontier systems? My own view is that this launch looks like a preview of a different AI market structure: fewer open releases at the top end, more controlled deployment and more premium enterprise positioning. Curious how others here read it. Disclosure: I wrote a longer analysis here: https://www.forbes.com/sites/paulocarvao/2026/04/08/five-reasons-anthropic-kept-its-cybersecurity-breakthrough-invite-only/
-
-1h ago
+🔗 [The Intercept](https://theintercept.com/2026/03/20/ai-data-centers-military-targets-iran-war/) • 15h ago
 
 ---
 
@@ -97,7 +73,31 @@ Anthropic’s Project Glasswing caught my attention less as a cybersecurity head
 
 OpenClaw is basically banned from Claude ¯_(ツ)_/¯ Claude Code has Telegram support.. so what if we just, made it always stay on? turns out we can just prompt OpenClaw into existence, fully 1st-party, with all of Claude Code's goodies No installation needed of any kind. Just copy-pasting a prompt into Claude Code. I made and refined this prompt over the past few days based on all the technical issues that arised, and will continue to do so along the way. Try it out and it'll (hopefully) open a PR to improve itself whenever you "fix" anything via it: https://github.com/iuliuvisovan/openclaw-spawn-prompt
 
-1h ago
+3h ago
+
+---
+
+**[Right to compute laws are a Trojan horse](https://www.reddit.com/r/artificial/comments/1sfhzan/right_to_compute_laws_are_a_trojan_horse/)**
+
+Right to compute laws are a ridiculous Trojan horse that risks moving computing from the default Constitutional domain of individual liberty/property rights into the domain of regulated privileges.
+
+7h ago
+
+---
+
+**[FYI the Tennessee bill makes making an AI friend the same level as murder or aggravated rape](https://www.reddit.com/r/artificial/comments/1sf2cc6/fyi_the_tennessee_bill_makes_making_an_ai_friend/)**
+
+I think what Tennessee is doing is they recently passed SB 1580, which makes it illegal to even advertise that an AI can act as a mental health professional. SB 1493 is the "teeth" for that movement. SB 1493 basically makes it illegal to knowingly train an artificial intelligence system to do the following: Provide emotional support: Engaging in open-ended conversations meant to provide comfort or empathy. Develop emotional relationships: Training the AI to build or sustain a "friendship" or "romantic" bond with a user. Encourage isolation: Training the AI to suggest that a user should pull away from their family, friends, or human caregivers. Mirror human interactions: Designing the AI to "mirror" or mimic the way humans emotionally bond with one another. Simulate a human being: Training the AI to act, speak, or look like a specific human or to "pass" as human in general. Voice & Appearance: Specifically targets AI that uses synthesized voices or digital avatars to appear indistinguishable from a person. Hide its identity: Training an AI to purposefully mask the fact that it is a machine rather than a person. Encourage suicide: Actively supporting or providing instructions/encouragement for self-harm. Encourage homicide: Supporting or encouraging the act of criminal homicide. Offer therapy: While related to the "emotional support" clause, this specifically targets AI being trained to act as a replacement for mental health professionals (tying into the previously passed SB 1580). If caught then the person can face up to 60 years in prison and massive fines. So.... basically that state is making it out to be AI being a friend = rape and murder. IMO this should be meme to death on. Maybe AI videos showing cops breaking down the door to someone making their own local LLM to have a friend or something.
+
+18h ago
+
+---
+
+**[Can we even achieve AGI with LLMs, why do AI bros still believe we can?](https://www.reddit.com/r/artificial/comments/1sfmnyc/can_we_even_achieve_agi_with_llms_why_do_ai_bros/)**
+
+I've heard mixed discussions around this. Although not much evidence just rhetoric from the AGI will come from LLMs camp.
+
+3h ago
 
 ---
 
@@ -113,7 +113,7 @@ A Reuters report outlines China's proposed regulations on the rapidly expanding 
 
 Been writing code professionally for 8+ years. I’m now mass spending more time describing features in plain english than writing actual code. And the outputs are getting scary close to what I’d write myself.
 
-2h ago
+3h ago
 
 ---
 
@@ -121,33 +121,31 @@ Been writing code professionally for 8+ years. I’m now mass spending more time
 
 ## Google News: "ai"
 
-**[Project Glasswing: Securing critical software for the AI era](https://www.anthropic.com/glasswing)**
-
-A new initiative to secure the world’s most critical software and give defenders a durable advantage in the coming AI-driven era of cybersecurity.
-
-Anthropic • 8h ago
-
----
-
 **[Anthropic Claims Its New A.I. Model, Mythos, Is a Cybersecurity ‘Reckoning’](https://www.nytimes.com/2026/04/07/technology/anthropic-claims-its-new-ai-model-mythos-is-a-cybersecurity-reckoning.html)**
 
-The New York Times • 16h ago
+The New York Times • 17h ago
 
 ---
 
-**[Anthropic’s latest AI model could let hackers carry out attacks faster than ever. It wants companies to put up defenses first](https://www.cnn.com/2026/04/07/tech/anthropic-claude-mythos-preview-cybersecurity)**
+**[Anthropic's newest AI model could wreak havoc. Most in power aren't ready](https://www.axios.com/2026/04/08/anthropic-mythos-model-ai-cyberattack-warning)**
 
-Anthropic will make its new AI model available to some of the world’s biggest cybersecurity and software firms in an effort to slow the arms race ignited by AI in the hands of hackers, Anthropic said Tuesday.
-
-CNN • 15h ago
+Axios • 1h ago
 
 ---
 
-**[Sam Altman says AI superintelligence is so big that we need a ‘New Deal.’ Critics say OpenAI’s policy ideas are a cover for ‘regulatory nihilism’](https://fortune.com/2026/04/06/sam-altman-says-ai-superintelligence-is-so-big-that-we-need-a-new-deal-critics-say-openais-policy-ideas-are-a-cover-for-regulatory-nihilism/)**
+**[Anthropic limits access to new 'Mythos' AI model over fears hackers could use it for cyberattacks](https://www.cnbc.com/video/2026/04/08/anthropic-limits-access-to-new-mythos-ai-model-over-fears-hackers-could-use-it-for-cyberattacks.html)**
 
-OpenAI’s sweeping vision for the AI economy spans everything from public wealth funds to shorter workweeks—but critics say it raises familiar ideas without offering a clear path to action.
+CNBC's Andrew Ross Sorkin reports on the latest news.
 
-fortune.com • 1d ago
+CNBC • 25m ago
+
+---
+
+**[AI boom catapults San Francisco median home price above $2 million](https://www.latimes.com/business/story/2026-04-08/ai-boom-catapults-san-francisco-median-home-price-above-2-million)**
+
+Home prices in San Francisco hit a record $2.5 million in March as wealth from the AI boom flowed through the city.
+
+Los Angeles Times • 1h ago
 
 ---
 
@@ -155,21 +153,31 @@ fortune.com • 1d ago
 
 Alibaba and China Telecom launched a data center in China designed for AI training and inferencing.
 
-CNBC • 53m ago
+CNBC • 2h ago
 
 ---
 
-**[Anthropic's newest AI model could wreak havoc. Most in power aren't ready](https://www.axios.com/2026/04/08/anthropic-mythos-model-ai-cyberattack-warning)**
+**[Alibaba Zhenwu AI chip cluster Guangdong China Telecom](https://qz.com/alibaba-zhenwu-ai-chip-cluster-guangdong-china-telecom-040826)**
 
-Axios • 17m ago
+The facility, built with China Telecom in Shaoguan, is the first Zhenwu-powered project of such scale in the Greater Bay Area
+
+qz.com • 10m ago
 
 ---
 
-**[Rushing to file your taxes? Don’t rely on AI for help, plus other last-minute tips](https://www.cnn.com/2026/04/08/business/last-minute-tax-filing-tips)**
+**[Alibaba unveils 10,000-card AI cluster as China ramps up US tech race (BABA:NYSE)](https://seekingalpha.com/news/4573231-alibaba-unveils-10000-card-ai-cluster-as-china-ramps-up-us-tech-race)**
 
-If you’re riding the caboose when it comes to filing your income taxes, you have one more week to make the April 15 deadline – or at least request an automatic six-month filing extension and pay whatever else you owe for 2025.
+Alibaba and China Telecom launch a new AI data center in southern China using Alibaba’s Zhenwu chips, boosting domestic AI infrastructure amid U.S. curbs.
 
-CNN • 1h ago
+Seeking Alpha • 18m ago
+
+---
+
+**[IRS tax filing approaches as scammers use AI to target taxpayers](https://www.yahoo.com/news/videos/irs-tax-filing-approaches-scammers-105207669.html)**
+
+IRS tax filing approaches as scammers use AI to target taxpayers
+
+Yahoo • 39m ago
 
 ---
 
@@ -177,23 +185,15 @@ CNN • 1h ago
 
 When it’s hard or impossible to identify trustworthy sources, you can choose to believe whatever you find comforting, invigorating or infuriating
 
-The Guardian • 3h ago
+theguardian.com • 5h ago
 
 ---
 
-**[AI Helped Spark a Quantum Breakthrough. The World 'Is Not Prepared'](https://time.com/article/2026/04/07/ai-quantum-computing-advance/)**
+**[Report: Losing your job to AI doesn’t just lead to unemployment, it leaves lasting scars](https://www.cnn.com/2026/04/07/economy/ai-job-losses-long-term-effects)**
 
-New research suggests quantum computers capable of breaking internet encryption may arrive sooner than expected—with AI helping speed the way.
+AI-driven job losses may not just make it harder for affected workers to find employment in the short term but also could leave a yearslong “scarring,” marked by depressed income, delayed homeownership and even the lower probability of marriage, according to a new research report from Goldman Sachs.
 
-Time Magazine • 17h ago
-
----
-
-**[MiQ Acquires Rocket Lab to Accelerate AI-Powered App Growth Globally](https://www.businesswire.com/news/home/20260407512278/en/MiQ-Acquires-Rocket-Lab-to-Accelerate-AI-Powered-App-Growth-Globally)**
-
-Global programmatic media company MiQ today announced it is acquiring Rocket Lab, a mobile app growth hub. This move builds MiQ’s mobile in-app capabilities ...
-
-Business Wire • 15h ago
+CNN • 20h ago
 
 ---
 
@@ -205,7 +205,7 @@ Business Wire • 15h ago
 
 A new initiative to secure the world’s most critical software and give defenders a durable advantage in the coming AI-driven era of cybersecurity.
 
-⬆️ 1292 • 💬 640 • 15h ago • [anthropic.com](https://www.anthropic.com/glasswing)
+⬆️ 1321 • 💬 662 • 17h ago • [anthropic.com](https://www.anthropic.com/glasswing)
 
 ---
 
@@ -216,7 +216,7 @@ A couple of weeks ago, after ~250 hours of effort over three months3 on evenings
 Of course, there’s no shortage of posts claiming that AI one-shot their project or pushing back and declaring that AI is all slop. I’m going to take a very different approach and, instead, systematically break down my experience building syntaqlite with AI, both where it helped and where it was detrimental.
 I’ll do this while contextualizing the project and my background so you can independently assess how generalizable this experience was. And whenever I make a claim, I’ll try to back it up with evidence from my project journal, coding transcripts, or commit history5.
 
-⬆️ 946 • 💬 300 • 2d ago • [Lalit Maganti](https://lalitm.com/post/building-syntaqlite-ai/)
+⬆️ 947 • 💬 300 • 2d ago • [Lalit Maganti](https://lalitm.com/post/building-syntaqlite-ai/)
 
 ---
 
@@ -224,7 +224,7 @@ I’ll do this while contextualizing the project and my background so you can in
 
 On-device, real-time multimodal AI. Have natural voice and vision conversations with an AI that runs entirely on your machine. Powered by Gemma 4 E2B and Kokoro. - fikrikarim/parlor
 
-⬆️ 287 • 💬 35 • 2d ago • [GitHub](https://github.com/fikrikarim/parlor)
+⬆️ 288 • 💬 35 • 2d ago • [GitHub](https://github.com/fikrikarim/parlor)
 
 ---
 
@@ -232,7 +232,7 @@ On-device, real-time multimodal AI. Have natural voice and vision conversations 
 
 AI makes competent output cheap. That makes taste more valuable, but also more incomplete. The real edge comes from pairing judgment with context, stakes, and the willingness to build.
 
-⬆️ 246 • 💬 195 • 18h ago • [Raj Nandan Sharma](https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/)
+⬆️ 249 • 💬 196 • 19h ago • [Raj Nandan Sharma](https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/)
 
 ---
 
@@ -240,7 +240,7 @@ AI makes competent output cheap. That makes taste more valuable, but also more i
 
 iTunes was really bamboozled on April Fools Day. Dallas Little, content creator, unleashed four more songs by his AI creation, Eddie Dalton. Now Little has ELEVEN spots on the iTunes top 100. He also has the number three album on iTunes! All by a singer named “Eddie Dalton,” who does not exist. He’s Little’s Artificial […]
 
-⬆️ 239 • 💬 373 • 1d ago • [Showbiz411](https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive)
+⬆️ 240 • 💬 373 • 1d ago • [Showbiz411](https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive)
 
 ---
 
@@ -248,7 +248,7 @@ iTunes was really bamboozled on April Fools Day. Dallas Little, content creator,
 
 Large language models may be standardizing human expression and subtly influencing how we think, says study led by USC Dornsife researcher
 
-⬆️ 221 • 💬 232 • 22h ago • [USC Dornsife News](https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/)
+⬆️ 222 • 💬 232 • 1d ago • [USC Dornsife News](https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/)
 
 ---
 
@@ -262,7 +262,7 @@ Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU — no API k
 
 **[AI helps add 10k more photos to OldNYC](https://news.ycombinator.com/item?id=47664836)**
 
-⬆️ 133 • 💬 45 • 1d ago • [danvk.org](https://www.danvk.org/2026/03/08/oldnyc-updates.html)
+⬆️ 134 • 💬 45 • 1d ago • [danvk.org](https://www.danvk.org/2026/03/08/oldnyc-updates.html)
 
 ---
 
@@ -290,17 +290,17 @@ Full courses + unlimited support: https://www.skool.com/ai-automation-society-pl
 
 📺 Nate Herk | AI Automation
 
-👁️ 61K • 👍 2K • 💬 236 • ⏱️ 7:50 • 10h ago
+👁️ 80K • 👍 3K • 💬 288 • ⏱️ 7:50 • 12h ago
 
 ---
 
-**[They just found &quot;emotions&quot; inside AI](https://www.youtube.com/watch?v=j9LoyiUlv9I)**
+**[Gemma 4   Google just made AI free forever](https://www.youtube.com/watch?v=hk6go5jioTk)**
 
-Anthropic researchers prove AI has emotions & other shocking findings. #ai #aitools #agi #ainews #llm #claude #mythos Thanks ...
+What if you could run ChatGPT-level AI on your Mac and iPhone for free, with no internet? Google just made it possible with ...
 
-📺 AI Search
+📺 The Tech Girl
 
-👁️ 8K • 👍 717 • 💬 205 • ⏱️ 29:07 • 6h ago
+👁️ 8K • 👍 498 • 💬 34 • ⏱️ 8:27 • 6h ago
 
 ---
 
@@ -310,17 +310,17 @@ He solved “the most important unsolved problem in science”… If you need mo
 
 📺 Cleo Abram
 
-👁️ 272K • 👍 13K • 💬 710 • ⏱️ 1:05:11 • 21h ago
+👁️ 299K • 👍 14K • 💬 759 • ⏱️ 1:05:11 • 22h ago
 
 ---
 
-**[NVIDIA’s New AI Just Changed Everything](https://www.youtube.com/watch?v=ZQAz_HrUq68)**
+**[They just found &quot;emotions&quot; inside AI](https://www.youtube.com/watch?v=j9LoyiUlv9I)**
 
-Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers The #NVIDIA paper on Nemotron 3 Super is ...
+Anthropic researchers prove AI has emotions & other shocking findings. #ai #aitools #agi #ainews #llm #claude #mythos Thanks ...
 
-📺 Two Minute Papers
+📺 AI Search
 
-👁️ 97K • 👍 7K • 💬 603 • ⏱️ 8:11 • 16h ago
+👁️ 12K • 👍 987 • 💬 259 • ⏱️ 29:07 • 8h ago
 
 ---
 
@@ -330,27 +330,17 @@ Check out what people are creating (and selling!) with Claude AI - it's crazy...
 
 📺 Wholesale Ted
 
-👁️ 19K • 👍 2K • 💬 82 • ⏱️ 15:19 • 14h ago
+👁️ 22K • 👍 2K • 💬 96 • ⏱️ 15:19 • 16h ago
 
 ---
 
-**[Grok AI Just Analyzed the Oldest Human Language](https://www.youtube.com/watch?v=ZoiQGzkMEdw)**
+**[NVIDIA’s New AI Just Changed Everything](https://www.youtube.com/watch?v=ZQAz_HrUq68)**
 
-Grok AI just analyzed the oldest human language — and what it uncovered is forcing researchers to completely rethink everything ...
+Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers The #NVIDIA paper on Nemotron 3 Super is ...
 
-📺 Optic Expedition
+📺 Two Minute Papers
 
-👁️ 13K • 👍 216 • 💬 8 • ⏱️ 26:38 • 1d ago
-
----
-
-**[Hank and Bernie talk about AI (for real)](https://www.youtube.com/watch?v=hLcY30KEeNs)**
-
-Bernie and I do not agree on everything, but we agree on a lot!! I wish we could've talked longer but here's where we went!
-
-📺 Hank Green
-
-👁️ 404K • 👍 24K • 💬 2K • ⏱️ 30:54 • 18h ago
+👁️ 105K • 👍 8K • 💬 642 • ⏱️ 8:11 • 17h ago
 
 ---
 
@@ -360,7 +350,7 @@ Are you ready to see AI breakthroughs that are baffling even the world's top sci
 
 📺 AI Uncovered
 
-👁️ 2K • 👍 124 • 💬 4 • ⏱️ 11:15 • 9h ago
+👁️ 2K • 👍 138 • 💬 5 • ⏱️ 11:15 • 10h ago
 
 ---
 
@@ -370,17 +360,27 @@ In this episode of 51/49, James exposes the $852 billion cracks in the OpenAI em
 
 📺 51-49 with James Li
 
-👁️ 146K • 👍 12K • 💬 2K • ⏱️ 15:17 • 2d ago
+👁️ 148K • 👍 12K • 💬 2K • ⏱️ 15:17 • 2d ago
 
 ---
 
-**[Sam Altman’s remarks on AI&#39;s future warn of job loss and disease | Jesse Weber Live](https://www.youtube.com/watch?v=BLM4LhxArVY)**
+**[Grok AI Just Analyzed the Oldest Human Language](https://www.youtube.com/watch?v=ZoiQGzkMEdw)**
 
-National security and defense expert John Arquilla joins “Jesse Weber Live” to discuss OpenAI CEO Sam Altman's comments that ...
+Grok AI just analyzed the oldest human language — and what it uncovered is forcing researchers to completely rethink everything ...
 
-📺 NewsNation
+📺 Optic Expedition
 
-👁️ 4K • 👍 42 • 💬 5 • ⏱️ 3:59 • 1d ago
+👁️ 13K • 👍 221 • 💬 8 • ⏱️ 26:38 • 1d ago
+
+---
+
+**[Hank and Bernie talk about AI (for real)](https://www.youtube.com/watch?v=hLcY30KEeNs)**
+
+Bernie and I do not agree on everything, but we agree on a lot!! I wish we could've talked longer but here's where we went!
+
+📺 Hank Green
+
+👁️ 423K • 👍 25K • 💬 3K • ⏱️ 30:54 • 19h ago
 
 ---
 
@@ -396,7 +396,7 @@ Gemma 4 31B is an instruction-tuned, multimodal LLM capable of processing text a
 
 `image-text-to-text` `32.7B`
 
-⬇️ 1,106,883 • ❤️ 1,382 • 5d ago
+⬇️ 1,106,883 • ❤️ 1,398 • 6d ago
 
 ---
 
@@ -408,19 +408,7 @@ Gemma-4-31B-JANG_4M-CRACK is a 31B parameter text-generation model optimized for
 
 `text-generation` `6.4B`
 
-⬇️ 44,246 • ❤️ 731 • 3d ago
-
----
-
-**[void-model](https://huggingface.co/netflix/void-model)**
-
-*Netflix*
-
-VOID is a video-to-video diffusion model for object and interaction removal, capable of deleting objects and their physical effects from scenes using a quadmask conditioning and text prompts. It's primarily used for advanced video editing and object removal tasks.
-
-`video-to-video`
-
-⬇️ 0 • ❤️ 593 • 1d ago
+⬇️ 44,246 • ❤️ 744 • 4d ago
 
 ---
 
@@ -432,7 +420,19 @@ GLM-5.1 is a next-generation language model optimized for agentic engineering, f
 
 `text-generation` `753.9B`
 
-⬇️ 1,300 • ❤️ 571 • 6h ago
+⬇️ 1,300 • ❤️ 628 • 7h ago
+
+---
+
+**[void-model](https://huggingface.co/netflix/void-model)**
+
+*Netflix*
+
+VOID is a video-to-video diffusion model for object and interaction removal, capable of deleting objects and their physical effects from scenes using a quadmask conditioning and text prompts. It's primarily used for advanced video editing and object removal tasks.
+
+`video-to-video`
+
+⬇️ 0 • ❤️ 602 • 1d ago
 
 ---
 
@@ -444,7 +444,7 @@ This image-text-to-text model, Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled, 
 
 `image-text-to-text` `27.8B`
 
-⬇️ 560,798 • ❤️ 2,466 • 2d ago
+⬇️ 560,798 • ❤️ 2,471 • 2d ago
 
 ---
 
@@ -456,7 +456,7 @@ Gemma 4 26B A4B is a multimodal instruction-tuned model capable of processing te
 
 `image-text-to-text` `26.5B`
 
-⬇️ 835,825 • ❤️ 519 • 5d ago
+⬇️ 835,825 • ❤️ 520 • 6d ago
 
 ---
 
@@ -468,7 +468,7 @@ Gemma 4 E4B is a multimodal, instruction-tuned LLM from Google DeepMind, support
 
 `any-to-any` `8.0B`
 
-⬇️ 622,963 • ❤️ 487 • 5d ago
+⬇️ 622,963 • ❤️ 491 • 6d ago
 
 ---
 
@@ -480,7 +480,7 @@ Bonsai-8B-GGUF is a highly compressed 1-bit language model (1.15 GB) optimized f
 
 `text-generation` `8.2B`
 
-⬇️ 59,633 • ❤️ 508 • 16h ago
+⬇️ 59,633 • ❤️ 513 • 18h ago
 
 ---
 
@@ -492,7 +492,7 @@ Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document inte
 
 `image-text-to-text` `4.7B`
 
-⬇️ 41,667 • ❤️ 1,121 • 12d ago
+⬇️ 41,667 • ❤️ 1,122 • 12d ago
 
 ---
 
@@ -504,7 +504,7 @@ OmniVoice is a massively multilingual, zero-shot text-to-speech model supporting
 
 `text-to-speech`
 
-⬇️ 144,864 • ❤️ 373 • 2d ago
+⬇️ 144,864 • ❤️ 380 • 2d ago
 
 ---
 
@@ -520,7 +520,7 @@ OmniVoice is a massively multilingual, zero-shot text-to-speech model supporting
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 154 • 💬 7 • ⭐ 37,298 • 7mo ago
+▲ 154 • 💬 7 • ⭐ 37,459 • 7mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -544,7 +544,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
 
-▲ 21 • 💬 1 • ⭐ 15,420 • 30mo ago
+▲ 21 • 💬 1 • ⭐ 15,521 • 30mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
 
@@ -558,7 +558,7 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 VOID is a video object removal framework that uses vision-language models and video diffusion models to generate physically plausible scenes by leveraging causal reasoning and counterfactual reasoning.
 
-▲ 43 • 💬 5 • ⭐ 1,223 • 6d ago
+▲ 43 • 💬 5 • ⭐ 1,280 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.02296) • [💻 code](https://github.com/Netflix/void-model) • [🔗 project](https://void-model.github.io/)
 
@@ -572,7 +572,7 @@ VOID is a video object removal framework that uses vision-language models and vi
 
 TriAttention addresses KV cache memory bottlenecks in LLMs by leveraging Q/K vector concentration in pre-RoPE space to improve key importance estimation and enable efficient long-context generation.
 
-▲ 76 • 💬 4 • ⭐ 194 • 2d ago
+▲ 77 • 💬 4 • ⭐ 267 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.04921) • [💻 code](https://github.com/WeianMao/triattention) • [🔗 project](https://weianmao.github.io/tri-attention-project-page/)
 
@@ -624,7 +624,7 @@ Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precisio
 
 LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
 
-▲ 38 • 💬 2 • ⭐ 32,572 • 18mo ago
+▲ 38 • 💬 2 • ⭐ 32,636 • 18mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
 
@@ -637,7 +637,7 @@ LightRAG improves Retrieval-Augmented Generation by integrating graph structures
 
 The AI Scientist-v2 autonomously proposes hypotheses, performs experiments, analyzes data, and writes peer-reviewed scientific papers, marking the first fully AI-generated paper accepted by a conference.
 
-▲ 21 • 💬 4 • ⭐ 5,209 • 12mo ago
+▲ 21 • 💬 4 • ⭐ 5,264 • 12mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2504.08066) • [💻 code](https://github.com/SakanaAI/AI-Scientist-v2)
 
@@ -653,7 +653,7 @@ The highest-scoring AI memory system ever benchmarked. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 21.4k • 🔱 2.5k • 11h ago
+⭐ 22.8k • 🔱 2.7k • 12h ago
 
 ---
 
@@ -663,7 +663,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 20.5k • 🔱 3.9k • 2h ago
+⭐ 21.3k • 🔱 4.0k • 5m ago
 
 ---
 
@@ -673,17 +673,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 14.2k • 🔱 1.3k • 1h ago
-
----
-
-**[JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)**
-
-Clone any website with one command using AI coding agents
-
-`TypeScript` `ai` `ai-agents` `ai-tools` `automation` `boilerplate`
-
-⭐ 8.9k • 🔱 1.2k • 9d ago
+⭐ 14.3k • 🔱 1.3k • 3m ago
 
 ---
 
@@ -693,7 +683,17 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid
 
 `Python` `claude-code` `codex` `graphrag` `knowledge-graph` `openclaw`
 
-⭐ 8.8k • 🔱 923 • 1h ago
+⭐ 9.5k • 🔱 993 • 2h ago
+
+---
+
+**[JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)**
+
+Clone any website with one command using AI coding agents
+
+`TypeScript` `ai` `ai-agents` `ai-tools` `automation` `boilerplate`
+
+⭐ 9.0k • 🔱 1.2k • 9d ago
 
 ---
 
@@ -713,7 +713,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 7.0k • 🔱 422 • 1h ago
+⭐ 7.1k • 🔱 423 • 3m ago
 
 ---
 
@@ -723,7 +723,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 6.5k • 🔱 247 • 13h ago
+⭐ 6.7k • 🔱 256 • 1h ago
 
 ---
 
@@ -743,7 +743,7 @@ A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or 
 
 `claude-ai` `claude-skills` `llm` `prompt-engineering`
 
-⭐ 4.8k • 🔱 466 • 7d ago
+⭐ 4.8k • 🔱 467 • 8d ago
 
 ---
 
