@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-08T20:07:34.239424+00:00'
+updated: '2026-04-08T21:10:53.564332+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
 - videos
-- social
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 08, 2026 at 20:07 UTC  
+**Last Updated:** April 08, 2026 at 21:10 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,205.42
+### $2,211.58
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +4.3%  
-**7d:** +7.3%  
-**30d:** +8.3%  
-**90d:** -28.5%  
-**1y:** +32.2%  
+**24h:** -0.3%  
+**7d:** +7.5%  
+**30d:** +8.5%  
+**90d:** -28.4%  
+**1y:** +32.5%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 World Liberty Financial deposited 3B WLFI tokens as collateral to borrow $50M of its own stablecoin, pushing its lending pool into negative liquidity and raising concerns over circular treasury practices, governance risks, and regulatory scrutiny.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/trumps-crypto-project-just-borrowed-50-million-against-its-own-token-and-broke-the-lending-pool/) • 10h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/trumps-crypto-project-just-borrowed-50-million-against-its-own-token-and-broke-the-lending-pool/) • 11h ago
 
 ---
 
@@ -80,7 +80,7 @@ World Liberty Financial deposited 3B WLFI tokens as collateral to borrow $50M of
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I've learnt that we can now invest in gold directly in crypto, which is quite exciting as I don't trust any bank or broker, so here's a few questions: Is this safe? What is the best within Paxos or Tether gold, is this as trustable as USDT/Stablecoins? How to buy it?
 
-21h ago
+22h ago
 
 ---
 
@@ -96,7 +96,7 @@ I've learnt that we can now invest in gold directly in crypto, which is quite ex
 
 I just built ethlocal.world: a simple way to explore Ethereum activity around the world. The idea was pretty straightforward: Ethereum is global, but it can still be surprisingly hard to get a quick sense of what’s happening locally or regionally. So I made a site that maps events and communities in one place and lets you browse by region and type. It takes data from ethereum.org and was inspired by the Codex Ambassadors globe. Link: https://ethlocal.world Would love honest feedback from people here: Is this actually useful? What feels missing or confusing? Is the globe view helpful, or do you mainly want a cleaner list/filter experience? What would make something like this genuinely valuable for local Ethereum communities? Built it as a small project for the Ethereum community, and I’d love to improve it based on feedback.
 
-22h ago
+23h ago
 
 ---
 
@@ -154,7 +154,15 @@ Hi, I used to work as a technical full-stack developer and recently I spent some
 
 View real-time odds for "Ethereum flipped in 2026?" as of March 15, 2026 and trade on The World's Largest Prediction Market™
 
-polymarket.com • 3mo ago
+Polymarket • 3mo ago
+
+---
+
+**[Schwab’s Bitcoin & Ethereum Push: A Threat to Crypto Exchanges?](https://marketwise.com/investing/schwab-spot-bitcoin-ethereum-crypto-exchange-threat/)**
+
+Charles Schwab is launching spot Bitcoin and Ethereum trading for nearly 39 million accounts. Discover how this move could disrupt major crypto exchanges and why one specific sector remains insulated from the fallout.
+
+MarketWise • 2h ago
 
 ---
 
@@ -162,21 +170,7 @@ polymarket.com • 3mo ago
 
 So far, the CoWSwap TWAP transactions have been drawn from a wallet associated with the Ethereum Foundation's DeFi activities.
 
-theblock.co • 4h ago
-
----
-
-**[BlackRock’s 18% Ethereum Staking Cut: Too Much Or Just Right?](https://www.forbes.com/sites/astanley/2026/04/08/blackrocks-18-ethereum-staking-cut-too-much-or-just-right/)**
-
-Forbes • 4h ago
-
----
-
-**[Ethereum Foundation Announces 5k ETH TWAP Sale](https://finance.yahoo.com/markets/crypto/articles/ethereum-foundation-announces-5k-eth-160255641.html)**
-
-The EF is offloading approximately $11M worth of ether today via CoWSwap to fund R&D, grants, and donations.
-
-Yahoo Finance • 4h ago
+The Block • 5h ago
 
 ---
 
@@ -188,9 +182,17 @@ Bit Digital • 1d ago
 
 ---
 
-**[Ethereum’s Silver Medal Slips as Prediction Markets Brace for a $1,500 Floor](https://www.tipranks.com/news/ethereums-silver-medal-slips-as-prediction-markets-brace-for-a-1500-floor)**
+**[Bitcoin and ethereum price today, Wednesday, April 8, 2026: Prices rise after U.S.-Iran ceasefire announcement](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-wednesday-april-8-2026-prices-rise-after-us-iran-ceasefire-announcement-113837833.html)**
 
-TipRanks • 6h ago
+Bitcoin (BTC-USD) opened higher at $71,926.16 and ethereum (ETH-USD) opened higher at $2,239.89 following President Trump’s announcement of a temporary ceasefire agreement with Iran.
+
+Yahoo Finance • 9h ago
+
+---
+
+**['Drop To $1,500'—Ethereum Suddenly Faces 60% Odds Of Losing Crown](https://www.forbes.com/sites/digital-assets/2026/04/06/drop-to-1500-ethereum-suddenly-faces-60-odds-of-losing-crown/)**
+
+Forbes • 1d ago
 
 ---
 
@@ -198,7 +200,13 @@ TipRanks • 6h ago
 
 Ethereum’s stablecoin supply hits ~$180B ATH and ETF inflows rise as whale money shifts to ETH.
 
-Seeking Alpha • 1d ago
+seekingalpha.com • 1d ago
+
+---
+
+**[Ethereum’s Silver Medal Slips as Prediction Markets Brace for a $1,500 Floor](https://www.tipranks.com/news/ethereums-silver-medal-slips-as-prediction-markets-brace-for-a-1500-floor)**
+
+tipranks.com • 7h ago
 
 ---
 
@@ -206,7 +214,7 @@ Seeking Alpha • 1d ago
 
 Ethereum's utility makes it an attractive investment option during the current market turndown.
 
-The Motley Fool • 7h ago
+The Motley Fool • 8h ago
 
 ---
 
@@ -214,15 +222,7 @@ The Motley Fool • 7h ago
 
 Ethereum exchange reserves have fallen to a record low, even as the token trades near $2,15 and still struggles to break out.CryptoQuant data shows reserves are down about 77% from their 2021 peak, while CoinGlass data points to a surge in futures activity, with volume topping close to $50 billion…
 
-TradingView • 18h ago
-
----
-
-**[Current price of Ethereum for April 8, 2026](https://fortune.com/article/price-of-ethereum-04-08-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 6h ago
+TradingView • 19h ago
 
 ---
 
@@ -236,7 +236,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 2K • 👍 162 • 💬 18 • ⏱️ 20:08 • 3h ago
+👁️ 2K • 👍 162 • 💬 18 • ⏱️ 20:08 • 4h ago
 
 ---
 
@@ -246,7 +246,7 @@ Brian from Santiment joined me to review the crypto market metrics for Bitcoin, 
 
 📺 Thinking Crypto
 
-👁️ 1K • 👍 128 • 💬 14 • ⏱️ 26:32 • 7h ago
+👁️ 1K • 👍 128 • 💬 14 • ⏱️ 26:32 • 8h ago
 
 ---
 
@@ -256,7 +256,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 321 • 👍 20 • ⏱️ 4:53 • 11h ago
+👁️ 321 • 👍 20 • ⏱️ 4:53 • 12h ago
 
 ---
 
@@ -276,7 +276,7 @@ In this video, I take a closer look at the current Ethereum market structure and
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 191 • 💬 11 • ⏱️ 11:32 • 23h ago
+👁️ 3K • 👍 191 • 💬 11 • ⏱️ 11:32 • 1d ago
 
 ---
 
@@ -286,7 +286,7 @@ BITCOIN SQUEEZE: This Changes Everything (Urgent)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 7K • 👍 280 • 💬 317 • ⏱️ 23:11 • 19h ago
+👁️ 7K • 👍 280 • 💬 317 • ⏱️ 23:11 • 20h ago
 
 ---
 
@@ -306,7 +306,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 559 • 👍 62 • ⏱️ 6:29 • 4h ago
+👁️ 559 • 👍 62 • ⏱️ 6:29 • 5h ago
 
 ---
 
@@ -316,7 +316,7 @@ join my social platforms for updates and analysis ✓Instagram: ...
 
 📺 Aryan trader Live
 
-👁️ 22K • 👍 4K • 💬 1 • ⏱️ 1:57:28 • 2h ago
+👁️ 22K • 👍 4K • 💬 1 • ⏱️ 1:57:28 • 3h ago
 
 ---
 
@@ -326,7 +326,7 @@ kripto para dünyası kanalımda kripto para hacim türleri para siteleri kripto
 
 📺 Kripto Para Dünyası
 
-👁️ 680 • 👍 105 • ⏱️ 7:42 • 3h ago
+👁️ 680 • 👍 105 • ⏱️ 7:42 • 4h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-08T20:07:34.233395+00:00'
+updated: '2026-04-08T21:10:53.559160+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
 - videos
-- social
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 08, 2026 at 20:07 UTC  
+**Last Updated:** April 08, 2026 at 21:10 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $71,262.35
+### $71,378.64
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.8%  
-**7d:** +6.5%  
-**30d:** +1.9%  
-**90d:** -21.3%  
-**1y:** -13.8%  
+**24h:** -0.1%  
+**7d:** +6.8%  
+**30d:** +2.2%  
+**90d:** -21.0%  
+**1y:** -13.5%  
 
 ---
 
@@ -81,7 +81,13 @@ Rank #1
 
 A ton of BTC was recently traded below $70,000 in a sign of strong dip demand.
 
-🔗 [coindesk.com](https://www.coindesk.com/markets/2026/04/08/bitcoin-buyers-gobbled-up-nearly-850-000-btc-between-usd60-000-and-usd70-000) • 6h ago
+🔗 [coindesk.com](https://www.coindesk.com/markets/2026/04/08/bitcoin-buyers-gobbled-up-nearly-850-000-btc-between-usd60-000-and-usd70-000) • 7h ago
+
+---
+
+**[They hate this little trick](https://www.reddit.com/r/Bitcoin/comments/1sg3mx1/they_hate_this_little_trick/)**
+
+1h ago
 
 ---
 
@@ -89,13 +95,13 @@ A ton of BTC was recently traded below $70,000 in a sign of strong dip demand.
 
 Morgan Stanley's bitcoin ETF comes with a 0.14% annual fee, making it the lowest in the spot BTC ETF market and undercutting BlackRock's IBIT (0.25%)
 
-5h ago
+6h ago
 
 ---
 
 **[Everyone right now](https://www.reddit.com/r/Bitcoin/comments/1sfe1rq/everyone_right_now/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -103,21 +109,21 @@ Morgan Stanley's bitcoin ETF comes with a 0.14% annual fee, making it the lowest
 
 Shall i accumulate more? Or wait and hodl.
 
-8h ago
+9h ago
 
 ---
 
 **[NYT says Adam Back is Satoshi](https://www.reddit.com/r/Bitcoin/comments/1sfobpm/nyt_says_adam_back_is_satoshi/)**
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html) • 10h ago
+🔗 [nytimes.com](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html) • 11h ago
 
 ---
 
-**[Morgan Stanley's Bitcoin ETF set to launch on Wednesday](https://www.reddit.com/r/Bitcoin/comments/1sfm3zt/morgan_stanleys_bitcoin_etf_set_to_launch_on/)**
+**[Morgan Stanley launching its own spot Bitcoin ETF feels bigger than just another ETF headline](https://www.reddit.com/r/Bitcoin/comments/1sg3b18/morgan_stanley_launching_its_own_spot_bitcoin_etf/)**
 
-Morgan Stanley’s Bitcoin exchange-traded fund is set to debut on the NYSE Arca stock exchange on Wednesday, making it the first major commercial bank to offer a Bitcoin ETF in the US.The launch of the Morgan Stanley Bitcoin Trust (MSBT) on April 8 was confirmed in a listing notice by the New York S…
+Morgan Stanley has officially launched MSBT, a spot Bitcoin ETF listed on NYSE Arca. What makes this more interesting than a normal product launch is that this is the first major U.S. bank putting its own name directly on a spot Bitcoin ETF. The fund holds physical bitcoin, launched on April 8, and comes in with a 0.14% fee, which undercuts most of the existing spot BTC ETF field. To me, the bigger story is what this says about where Bitcoin sits now in traditional finance. Up to this point, most of the major spot ETFs came from asset managers like BlackRock, Fidelity, and others. Morgan Stanley changes that dynamic because it brings a bank balance sheet, a private wealth brand, and a massive advisor network into the same trade. The article notes roughly 16,000 financial advisors overseeing $6.2 trillion in client assets, which is a very different kind of distribution channel than retail-driven ETF demand. The fee also matters more than people think. At 0.14%, Morgan Stanley is basically telling the market this product is meant to compete seriously for long-term allocation, not just exist as another checkbox product. That kind of pricing usually means they expect Bitcoin exposure to become a persistent part of client portfolios, not a temporary trade. So the real question here isn’t just whether MSBT gets flows. It’s whether this is another sign that Bitcoin is moving deeper into core portfolio infrastructure and away from being treated as a niche satellite asset. Curious how others see it: is this mainly a fee war and distribution story, or does a major bank launching its own spot Bitcoin ETF mark a more important shift in how traditional finance now views BTC?
 
-🔗 [TradingView](https://www.tradingview.com/news/cointelegraph:7fd1c9c81094b:0-morgan-stanley-s-bitcoin-etf-set-to-launch-on-wednesday/) • 12h ago
+🔗 [websnack.org](https://websnack.org/news/morgan-stanley-msbt-spot-bitcoin-etf-apr-2026) • 1h ago
 
 ---
 
@@ -125,7 +131,15 @@ Morgan Stanley’s Bitcoin exchange-traded fund is set to debut on the NYSE Arca
 
 https://www.reddit.com/r/askanything/comments/1s8mrgl/comment/oenq0i2/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button I thought some of you might like to read this comment. I was debating this guy for a while until he finally spit this sentence out: I didn't misrepresent anything. How is "sending [XYZ] unlimited distance without a third party" unique at all? How is this any different than a wire transfer? I guess there is banking intermediation, but I am not aware of the ability to send Bitcoin without some intermediating service, either. This absolutely baffled me, as he was confidently debating me for quite a while, then accidentally admitted he thought bitcoin required an "intermediating service". I called him out and he has since not responded...lol.
 
-5h ago
+7h ago
+
+---
+
+**[Morgan Stanley's Bitcoin ETF set to launch on Wednesday](https://www.reddit.com/r/Bitcoin/comments/1sfm3zt/morgan_stanleys_bitcoin_etf_set_to_launch_on/)**
+
+Morgan Stanley’s Bitcoin exchange-traded fund is set to debut on the NYSE Arca stock exchange on Wednesday, making it the first major commercial bank to offer a Bitcoin ETF in the US.The launch of the Morgan Stanley Bitcoin Trust (MSBT) on April 8 was confirmed in a listing notice by the New York S…
+
+🔗 [TradingView](https://www.tradingview.com/news/cointelegraph:7fd1c9c81094b:0-morgan-stanley-s-bitcoin-etf-set-to-launch-on-wednesday/) • 13h ago
 
 ---
 
@@ -133,21 +147,7 @@ https://www.reddit.com/r/askanything/comments/1s8mrgl/comment/oenq0i2/?utm_sourc
 
 short-term thinking leads to bad decisions trying to time the market usually fails patience beats constant trading What did Bitcoin teach you?
 
-5h ago
-
----
-
-**[Immovable object (me) vs. unstoppable force (Bitcoin)](https://www.reddit.com/r/Bitcoin/comments/1sfc42k/immovable_object_me_vs_unstoppable_force_bitcoin/)**
-
-My “decision” process over the last few weeks went something like this: 65.5k → don’t invest yet, it will drop further 66.0k → dead cat bounce! 67.5k → fake out, sellers will win this fight 68.0k → too high, invest when it drops to 66.0k 71.5k → what the hell is going on? Time in the market beats timing the market, I know.
-
-20h ago
-
----
-
-**[Live X Spaces on Bitcoin Circular Economies](https://www.reddit.com/r/Bitcoin/comments/1sfwcpw/live_x_spaces_on_bitcoin_circular_economies/)**
-
-🔗 [X (formerly Twitter)](https://x.com/i/spaces/1DGLdvOBbkoGm?s=20) • 4h ago
+6h ago
 
 ---
 
@@ -157,65 +157,27 @@ My “decision” process over the last few weeks went something like this: 65.5
 
 **[Who Is Satoshi Nakamoto? My Quest to Unmask Bitcoin’s Creator](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)**
 
-The New York Times • 16h ago
-
----
-
-**[Bitcoin news: BTC's next bull run to be driven by banking and digital credit, says Strategy's Michael Saylor](https://www.coindesk.com/markets/2026/04/08/michael-saylor-says-bitcoin-has-likely-bottomed-quantum-risk-overblown)**
-
-Speaking at a Mizuho event, the Strategy (MSTR) executive chairman said the formation of banking credit pairing with digital credit will be the catalyst for the next bull market.
-
-CoinDesk • 1h ago
+The New York Times • 17h ago
 
 ---
 
 **[Morgan Stanley Debuts Bitcoin ETF as Price Slump Rattles Holders](https://www.bloomberg.com/news/articles/2026-04-08/morgan-stanley-debuts-bitcoin-etf-as-price-slump-rattles-holders)**
 
-Bloomberg.com • 7h ago
-
----
-
-**[Morgan Stanley’s Bitcoin ETF began trading. An analyst put it in the top 1% of ETF launches](https://fortune.com/2026/04/08/morgan-stanley-bitcoin-etf-msbt-launch-ethereum-solana/)**
-
-The new fund marks a "second wave of digital asset adoption," said a Coinbase executive.
-
-Fortune • 1h ago
-
----
-
-**[Morgan Stanley launches cheapest Bitcoin ETF](https://finance.yahoo.com/video/morgan-stanley-launches-cheapest-bitcoin-185254456.html)**
-
-Morgan Stanley's spot Bitcoin ETF begins trading today under the ticker MSBT, making it the first proprietary Bitcoin fund from a major U.S. bank. With 16,000 financial advisors and $6.2 trillion in client assets behind it, the launch could open a new phase for institutional Bitcoin adoption. CoinDesk's Jennifer Sanasie hosts "CoinDesk Daily."
-
-Yahoo Finance • 1h ago
+Bloomberg.com • 8h ago
 
 ---
 
 **[How The Trumps Blew $1 Billion On Bitcoin](https://www.forbes.com/sites/danalexander/2026/04/08/how-the-trumps-blew-1-billion-on-bitcoin/)**
 
-Forbes • 9h ago
+Forbes • 10h ago
 
 ---
 
-**[Iran Demands Bitcoin and Crypto for Strait of Hormuz Toll Payments](https://gizmodo.com/iran-demands-bitcoin-and-crypto-for-strait-of-hormuz-toll-payments-2000744120)**
+**[Bitcoin jumps on US-Iran ceasefire talks, long-term rally remains uncertain: analyst](https://www.theblock.co/post/396607/bitcoin-jumps-us-iran-ceasefire)**
 
-Gas prices and price of bitcoin could get a little more entangled.
+One analyst noted that a full resolution is needed for the current upward momentum to be translated into a long-term bull cycle.
 
-Gizmodo • 1h ago
-
----
-
-**[Bitcoin payments allowed for Hormuz tanker tolls as Iran seeks up to $2 million per ship: FT](https://www.theblock.co/post/396711/bitcoin-payments-allowed-hormuz-tanker-tolls-iran-2-million-per-ship-report)**
-
-Iran is reportedly open transit tolls paid in bitcoin and crypto for ships crossing the Strait of Hormuz amid volatile ceasefire.
-
-theblock.co • 5h ago
-
----
-
-**[‘Will Be Destroyed’—Iran’s Bitcoin Toll Sparks $100K Price Prediction](https://www.forbes.com/sites/digital-assets/2026/04/08/will-be-destroyed-irans-bitcoin-toll-sparks-100k-price-prediction/)**
-
-Forbes • 1h ago
+The Block • 19h ago
 
 ---
 
@@ -223,7 +185,45 @@ Forbes • 1h ago
 
 (Bloomberg) -- Bitcoin touched a three-week high as global markets turned more optimistic after a ceasefire deal between the US and Iran.The largest cryptocurrency climbed as much as 5% to $72,841, its highest level since March 18, in New York trading. Smaller tokens also notched big gains, with Ether rising as much as 7.4% to $2,273.Stocks surged and the price of the US benchmark West Texas Intermediate crude oil fell below $95, nearing its biggest price drop in six years, after US President Do
 
+Yahoo Finance • 7h ago
+
+---
+
+**[Bitcoin Slides With Risk Assets as Trump’s Iran Ultimatum Looms](https://www.bloomberg.com/news/articles/2026-04-07/bitcoin-slides-with-risk-assets-as-trump-s-iran-ultimatum-looms)**
+
+Bloomberg.com • 1d ago
+
+---
+
+**[Bitcoin Pioneer Adam Back, Bernstein Say Quantum Threat to BTC Isn’t Existential](https://decrypt.co/363680/bitcoin-pioneer-adam-back-bernstein-quantum-threat-not-existential)**
+
+Anxieties over the quantum threat to Bitcoin have been growing, but Bernstein backs Back in saying there’s no cause for alarm.
+
+Decrypt • 2h ago
+
+---
+
+**[Bitcoin, Solana surge as Iran looks to charge tolls for Strait of Hormuz passage to be paid in crypto](https://finance.yahoo.com/news/bitcoin-solana-surge-as-iran-looks-to-charge-tolls-for-strait-of-hormuz-passage-to-be-paid-in-crypto-142009952.html)**
+
+Iran is looking to charge shipowners a fee of $1 per barrel of oil onboard for safe passage across the Strait of Hormuz, to be paid in cryptocurrency, according to the Financial Times.
+
 Yahoo Finance • 6h ago
+
+---
+
+**[Bitcoin payments allowed for Hormuz tanker tolls as Iran seeks up to $2 million per ship: FT](https://www.theblock.co/post/396711/bitcoin-payments-allowed-hormuz-tanker-tolls-iran-2-million-per-ship-report)**
+
+Iran is reportedly open transit tolls paid in bitcoin and crypto for ships crossing the Strait of Hormuz amid volatile ceasefire.
+
+The Block • 6h ago
+
+---
+
+**[Iran eyes crypto toll for oil tanker transits through Strait of Hormuz, according to FT](https://www.coindesk.com/markets/2026/04/08/iran-eyes-crypto-toll-for-oil-tanker-transit-through-strait-of-hormuz)**
+
+Iran plans to collect cryptocurrency and other digital payments as transit fees from fully loaded oil tankers passing through the Strait of Hormuz, an FT report said.
+
+coindesk.com • 7h ago
 
 ---
 
@@ -231,17 +231,17 @@ Yahoo Finance • 6h ago
 
 ## HackerNews: "bitcoin"
 
+**[Who is Satoshi nakamoto? My quest to unmask Bitcoin's creator](https://news.ycombinator.com/item?id=47685320)**
+
+⬆️ 174 • 💬 85 • 16h ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)
+
+---
+
 **[Bitcoin and quantum computing](https://news.ycombinator.com/item?id=47681274)**
 
 Neha Narula
 
-⬆️ 161 • 💬 125 • 23h ago • [nehanarula.org](https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html)
-
----
-
-**[Who Is Satoshi Nakamoto? My Quest to Unmask Bitcoin's Creator](https://news.ycombinator.com/item?id=47685320)**
-
-⬆️ 144 • 💬 74 • 15h ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)
+⬆️ 164 • 💬 126 • 1d ago • [nehanarula.org](https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html)
 
 ---
 
@@ -249,7 +249,7 @@ Neha Narula
 
 Country’s oil exporters’ union says toll to be paid in cryptocurrency and vessels monitored for weapons
 
-⬆️ 106 • 💬 179 • 6h ago • [ft.com](https://www.ft.com/content/02aefac4-ea62-48db-9326-c0da373b11b8)
+⬆️ 130 • 💬 208 • 7h ago • [ft.com](https://www.ft.com/content/02aefac4-ea62-48db-9326-c0da373b11b8)
 
 ---
 
@@ -265,13 +265,13 @@ Google Quantum AI: Quantum computer could break Bitcoin cryptography with under 
 
 The British computer scientist and entrepreneur has denied being the man who the New York Times identified at Satoshi Nakamoto.
 
-⬆️ 9 • 💬 1 • 2h ago • [bbc.com](https://www.bbc.com/news/articles/cgrl4l1y9yxo)
+⬆️ 13 • 💬 1 • 3h ago • [bbc.com](https://www.bbc.com/news/articles/cgrl4l1y9yxo)
 
 ---
 
 **[Takeaways from Our Search for Bitcoin's Creator](https://news.ycombinator.com/item?id=47689167)**
 
-⬆️ 9 • 💬 1 • 7h ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/takeaways-satoshi-nakamoto-bitcoin-adam-back.html)
+⬆️ 10 • 💬 1 • 8h ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/takeaways-satoshi-nakamoto-bitcoin-adam-back.html)
 
 ---
 
@@ -289,17 +289,17 @@ April 03, 2026 - A new $100 million bond deal reveals exactly how traditional fi
 
 ---
 
-**[Bitcoin developers are mostly not concerned about quantum risk](https://news.ycombinator.com/item?id=47667515)**
+**[The New York Times may have found Bitcoin founder Satoshi Nakamoto](https://news.ycombinator.com/item?id=47695452)**
 
-⬆️ 2 • 💬 0 • 1d ago • [murmurationstwo.substack.com](https://murmurationstwo.substack.com/p/bitcoin-developers-are-mostly-not)
+For years, bitcoin creator Satoshi Nakamoto has avoided discovery. Now, a 10,000-word New York Times investigation may have unraveled the mystery, landing on British computer scientist Dr. Adam Back as Nakamoto.
+
+⬆️ 2 • 💬 4 • 1h ago • [Yahoo Finance](https://finance.yahoo.com/markets/crypto/article/the-new-york-times-may-have-found-bitcoin-founder-satoshi-nakamoto-heres-what-you-need-to-know-193426720.html)
 
 ---
 
-**[How well do you remember the 2017 Bitcoin bull run?](https://news.ycombinator.com/item?id=47619199)**
+**[Bitcoin developers are mostly not concerned about quantum risk](https://news.ycombinator.com/item?id=47667515)**
 
-Test your prediction skills against historical data. Draw your forecast and see how you rank.
-
-⬆️ 2 • 💬 0 • 6d ago • [longmarkets.app](https://longmarkets.app/rewinds/rewind-bitcoin-2017)
+⬆️ 2 • 💬 0 • 1d ago • [murmurationstwo.substack.com](https://murmurationstwo.substack.com/p/bitcoin-developers-are-mostly-not)
 
 ---
 
@@ -313,7 +313,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 WEE
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 458 • ⏱️ 9:28 • 20h ago
+👁️ 38K • 👍 2K • 💬 458 • ⏱️ 9:28 • 21h ago
 
 ---
 
@@ -323,7 +323,7 @@ Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FR
 
 📺 CryptosRUs
 
-👁️ 13K • 👍 796 • 💬 224 • ⏱️ 37:24 • 5h ago
+👁️ 13K • 👍 796 • 💬 224 • ⏱️ 37:24 • 6h ago
 
 ---
 
@@ -343,7 +343,7 @@ Thanks to Caleb & Brown for sponsoring this video! CALEB & BROWN Link ...
 
 📺 Dan Gambardello
 
-👁️ 5K • 👍 379 • 💬 188 • ⏱️ 9:40 • 5h ago
+👁️ 5K • 👍 379 • 💬 188 • ⏱️ 9:40 • 6h ago
 
 ---
 
@@ -363,7 +363,7 @@ Bitcoin #Crypto #Finance Bitcoin just smashed through $72K after a surprise ceas
 
 📺 The Wolf Of All Streets
 
-👁️ 9K • 👍 549 • 💬 87 • ⏱️ 37:51 • 6h ago
+👁️ 9K • 👍 549 • 💬 87 • ⏱️ 37:51 • 7h ago
 
 ---
 
@@ -373,7 +373,7 @@ Level up your mining setup with the NerdQaxe++ from Bitcoin Merch ⚡⛏️ Buil
 
 📺 How Much?
 
-👁️ 379 • 👍 8 • ⏱️ 0:29 • 1h ago
+👁️ 379 • 👍 8 • ⏱️ 0:29 • 2h ago
 
 ---
 
@@ -391,7 +391,7 @@ Is Bitcoin entering a dangerous phase of complacency? After periods of volatilit
 
 📺 Benjamin Cowen
 
-👁️ 89K • 👍 5K • 💬 243 • ⏱️ 16:00 • 2d ago
+👁️ 89K • 👍 5K • 💬 243 • ⏱️ 16:00 • 3d ago
 
 ---
 
