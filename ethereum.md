@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-08T05:48:00.702153+00:00'
+updated: '2026-04-08T07:22:24.457085+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - social
+- cryptocurrency
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 08, 2026 at 05:48 UTC  
+**Last Updated:** April 08, 2026 at 07:22 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,241.61
+### $2,251.01
 
 ---
 
 ## Ethereum Chart
 
 **24h:** +6.5%  
-**7d:** +8.9%  
-**30d:** +9.9%  
-**90d:** -27.5%  
-**1y:** +34.2%  
+**7d:** +9.6%  
+**30d:** +10.6%  
+**90d:** -27.0%  
+**1y:** +35.0%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-47m ago
+2h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I've learnt that we can now invest in gold directly in crypto, which is quite exciting as I don't trust any bank or broker, so here's a few questions: Is this safe? What is the best within Paxos or Tether gold, is this as trustable as USDT/Stablecoins? How to buy it?
 
-7h ago
+8h ago
 
 ---
 
@@ -88,7 +88,7 @@ I've learnt that we can now invest in gold directly in crypto, which is quite ex
 
 I just built ethlocal.world: a simple way to explore Ethereum activity around the world. The idea was pretty straightforward: Ethereum is global, but it can still be surprisingly hard to get a quick sense of what’s happening locally or regionally. So I made a site that maps events and communities in one place and lets you browse by region and type. It takes data from ethereum.org and was inspired by the Codex Ambassadors globe. Link: https://ethlocal.world Would love honest feedback from people here: Is this actually useful? What feels missing or confusing? Is the globe view helpful, or do you mainly want a cleaner list/filter experience? What would make something like this genuinely valuable for local Ethereum communities? Built it as a small project for the Ethereum community, and I’d love to improve it based on feedback.
 
-8h ago
+9h ago
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’ve had my eth staked for about 2 years now, net negative on the eth itself but I’ve gained what would be ≈4 percent more worth of ETH than I had before. To me it was the easiest way to stake given that I don’t have 32 eth. I appreciate the protocol for being a decentralized way to stake, heard there’s some liquidity issues in terms of getting your Eth back after staking but that’s a problem for the future. Anyone have any input on rocket pool?!
 
-15h ago
+16h ago
 
 ---
 
@@ -150,11 +150,9 @@ The true bottleneck in Ethereum dApp architecture isn't just on-chain gas, it's 
 
 ## Google News: "ethereum"
 
-**[Ethereum Liquidity Dries Up As Demand Fails To Keep Pace](https://www.tradingview.com/news/newsbtc:1c8cd20db094b:0-ethereum-liquidity-dries-up-as-demand-fails-to-keep-pace/)**
+**[Bitcoin Price Surges Above $70,000. Ethereum, XRP Jump in Crypto Iran Rally](https://www.barrons.com/articles/bitcoin-price-xrp-etherum-crypto-today-iran-df3ec33f)**
 
-Ethereum exchange reserves have fallen to a record low, even as the token trades near $2,15 and still struggles to break out.CryptoQuant data shows reserves are down about 77% from their 2021 peak, while CoinGlass data points to a surge in futures activity, with volume topping close to $50 billion…
-
-TradingView • 3h ago
+Barron's • 30m ago
 
 ---
 
@@ -162,7 +160,23 @@ TradingView • 3h ago
 
 Both of these coins have a claim to being great as an investment with a long time horizon.
 
-The Motley Fool • 1h ago
+The Motley Fool • 3h ago
+
+---
+
+**[Ethereum stablecoin supply hits $180B all-time high: Token Terminal](https://www.tradingview.com/news/cointelegraph:b90f56d43094b:0-ethereum-stablecoin-supply-hits-180b-all-time-high-token-terminal/)**
+
+The onchain value of stablecoins on the Ethereum network has reached an all-time high of $180 billion, according to blockchain analytics firm Token Terminal.Ethereum holds 60% of the stablecoin supply at $180 billion, which is up 150% over the past three years, the firm reported Tuesday.The company…
+
+TradingView • 1h ago
+
+---
+
+**[Bit Digital Inc. Reports Monthly Ethereum Treasury and Staking Metrics for March 2026](https://bit-digital.com/press-releases/bit-digital-inc-reports-monthly-ethereum-treasury-and-staking-metrics-for-march-2026/)**
+
+Bit Digital, Inc. (Nasdaq: BTBT), today announced its monthly Ethereum (“ETH”) treasury and staking metrics for the month of March 2026.
+
+Bit Digital • 16h ago
 
 ---
 
@@ -180,19 +194,19 @@ Forbes • 1d ago
 
 ---
 
-**[Ethereum stablecoin supply hits $180B ATH: Is ETH demand mispriced?](https://seekingalpha.com/news/4573026-ethereum-stablecoin-supply-hits-180b-ath-is-eth-demand-mispriced)**
-
-Ethereum’s stablecoin supply hits ~$180B ATH and ETF inflows rise as whale money shifts to ETH.
-
-Seeking Alpha • 13h ago
-
----
-
-**[Ethereum Up or Down - 5 Minutes](https://polymarket.com/event/eth-updown-5m-1775624400)**
+**[ETH Up or Down - 5 Minutes](https://polymarket.com/event/eth-updown-5m-1775611500)**
 
 Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
 Polymarket • 1d ago
+
+---
+
+**[Ethereum stablecoin supply hits $180B ATH: Is ETH demand mispriced?](https://seekingalpha.com/news/4573026-ethereum-stablecoin-supply-hits-180b-ath-is-eth-demand-mispriced)**
+
+Ethereum’s stablecoin supply hits ~$180B ATH and ETF inflows rise as whale money shifts to ETH.
+
+Seeking Alpha • 15h ago
 
 ---
 
@@ -204,25 +218,11 @@ Decrypt • 1d ago
 
 ---
 
-**[Tom Lee’s BitMine Nears 4% of Ethereum Supply as ETH Price Hits Weekly High](https://finance.yahoo.com/markets/crypto/articles/tom-lee-bitmine-nears-4-142958858.html)**
+**[Current price of Ethereum for April 7, 2026](https://fortune.com/article/price-of-ethereum-04-07-2026/)**
 
-Publicly traded Ethereum treasury firm BitMine Immersion Technologies added $150 million of ETH last week, boosting its $10.3 billion stash.
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Yahoo Finance • 1d ago
-
----
-
-**[BitMine Highlights Massive Ethereum Treasury and NYSE Uplisting](https://www.tipranks.com/news/company-announcements/bitmine-highlights-massive-ethereum-treasury-and-nyse-uplisting)**
-
-TipRanks • 1d ago
-
----
-
-**[Tom Lee’s BitMine Nears 4% of Ethereum Supply as ETH Price Hits Weekly High](https://decrypt.co/363378/tom-lee-bitmine-4-percent-ethereum-supply-eth-price-weekly-high)**
-
-Publicly traded Ethereum treasury firm BitMine Immersion Technologies added $150 million of ETH last week, boosting its $10.3 billion stash.
-
-Decrypt • 1d ago
+Fortune • 18h ago
 
 ---
 
@@ -236,7 +236,7 @@ BITCOIN SQUEEZE: This Changes Everything (Urgent)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 3K • 👍 201 • 💬 259 • ⏱️ 23:11 • 5h ago
+👁️ 3K • 👍 201 • 💬 259 • ⏱️ 23:11 • 6h ago
 
 ---
 
@@ -256,7 +256,7 @@ In this video, I take a closer look at the current Ethereum market structure and
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 160 • 💬 6 • ⏱️ 11:32 • 8h ago
+👁️ 2K • 👍 160 • 💬 6 • ⏱️ 11:32 • 10h ago
 
 ---
 
@@ -276,7 +276,7 @@ Daily BTC, ETH, TSLA trades. Subscribe. Bybit bonus up to $30000 https://partner
 
 📺 James Crypto Guru
 
-👁️ 727 • 👍 94 • 💬 9 • ⏱️ 9:42 • 4h ago
+👁️ 727 • 👍 94 • 💬 9 • ⏱️ 9:42 • 5h ago
 
 ---
 
@@ -296,7 +296,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 377 • 👍 13 • 💬 2 • ⏱️ 4:29 • 20h ago
+👁️ 377 • 👍 13 • 💬 2 • ⏱️ 4:29 • 22h ago
 
 ---
 
@@ -306,7 +306,7 @@ As AI-generated content floods the internet, the need for verified human identit
 
 📺 Eightco | NASDAQ: ORBS
 
-👁️ 622 • 👍 11 • 💬 1 • ⏱️ 1:06 • 5h ago
+👁️ 622 • 👍 11 • 💬 1 • ⏱️ 1:06 • 7h ago
 
 ---
 
@@ -316,7 +316,7 @@ An ex-BlackRock executive explains why Ethereum is the infrastructure for the fu
 
 📺 SamAlτcoin_eth
 
-👁️ 803 • 👍 11 • ⏱️ 2:23 • 7h ago
+👁️ 803 • 👍 11 • ⏱️ 2:23 • 8h ago
 
 ---
 
