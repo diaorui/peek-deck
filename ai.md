@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-08T21:10:53.551848+00:00'
+updated: '2026-04-08T22:06:41.208482+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - news
 - videos
 - repositories
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 08, 2026 at 21:10 UTC  
+**Last Updated:** April 08, 2026 at 22:06 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 now it just look 💯 real
 
-9h ago
+10h ago
 
 ---
 
@@ -49,7 +49,7 @@ now it just look 💯 real
 
 If the large companies always get access to the latest models first to "sure up cybersecurity" they will always have a head start on the competition and new contenders in the tech space. If Glasswing is locked down to only be allowed for cybersecurity thats a different story but I doubt it is.
 
-2h ago
+3h ago
 
 ---
 
@@ -57,7 +57,7 @@ If the large companies always get access to the latest models first to "sure up 
 
 I’ve been trying a few meeting tools lately and realized I care way less about flashy summaries than I thought. What I actually want is pretty simple: record the conversation, help me remember what mattered, and make it easy to find things later without turning the meeting into a weird “AI is here too” situation. So far, Bluedot has been one of the better ones I’ve used because it records quietly, gives a clean transcript, and usually does a decent job pulling out the useful bits afterward like summaries and action items. The searchable transcript part has honestly been the most practical feature for me. What do people here actually prioritize in the best AI meeting recorder? Accuracy, privacy, no bot, better memory, something else?
 
-6h ago
+7h ago
 
 ---
 
@@ -65,7 +65,7 @@ I’ve been trying a few meeting tools lately and realized I care way less about
 
 Anthropic’s Project Glasswing caught my attention less as a cybersecurity headline than as a signal about how frontier AI may be commercialized. The model was released under unusually tight access controls, with premium pricing, selected partners, and emphasis on enterprise deployment. That raises a few questions I think are worth discussing: Are we moving toward a world where the most capable models are not broadly released, but reserved for a small set of customers and partners? Does that reflect safety concerns first, or capacity limits and business strategy? If highly capable cyber models stay restricted, does that meaningfully reduce risk, or does it just delay wider diffusion? Could invite-only access become the norm for the most commercially valuable frontier systems? My own view is that this launch looks like a preview of a different AI market structure: fewer open releases at the top end, more controlled deployment and more premium enterprise positioning. Curious how others here read it. Disclosure: I wrote a longer analysis here: https://www.forbes.com/sites/paulocarvao/2026/04/08/five-reasons-anthropic-kept-its-cybersecurity-breakthrough-invite-only/
 
-12h ago
+13h ago
 
 ---
 
@@ -73,7 +73,7 @@ Anthropic’s Project Glasswing caught my attention less as a cybersecurity head
 
 "Ironically, one of the 844 books in this dataset is called 'How to Write for Humans in an AI World: Cutting Through Digital Noise and Reaching Real People'. In it, the author laments the proliferation of AI-written content: 'The words we see online, in our inboxes, even in news articles, often feel like they were written by no one in particular,' he writes. 'They’re grammatically perfect and emotionally empty. They’re fluent, but soulless. The irony is that we’ve never written more than we do today. We’re producing mountains of content: posts, captions, pitches, texts, and endless emails. At the same time, in the midst of all that noise, something essential is fading. It’s the sense that a real person is speaking to another real person.' That book’s contents were flagged as likely AI-generated."
 
-11m ago
+1h ago
 
 ---
 
@@ -81,7 +81,7 @@ Anthropic’s Project Glasswing caught my attention less as a cybersecurity head
 
 I abliterated Sarvam-30B and 105B - India's first multilingual MoE reasoning models - and found something interesting along the way! Reasoning models have 2 refusal circuits, not one. The <think> block and the final answer can disagree: the model reasons toward compliance in its CoT and then refuses anyway in the response. Killer finding: one English-computed direction removed refusal in most of the other supported languages (Malayalam, Hindi, Kannada among few). Refusal is pre-linguistic. Full writeup: https://medium.com/@aloshdenny/uncensoring-sarvamai-abliterating-refusal-mechanisms-in-indias-first-moe-reasoning-model-b6d334f85f42 30B model: https://huggingface.co/aoxo/sarvam-30b-uncensored 105B model: https://huggingface.co/aoxo/sarvam-105b-uncensored
 
-15m ago
+1h ago
 
 ---
 
@@ -89,7 +89,7 @@ I abliterated Sarvam-30B and 105B - India's first multilingual MoE reasoning mod
 
 https://arxiv.org/abs/2604.05091 Abstract: "We present MegaTrain, a memory-centric system that efficiently trains 100B+ parameter large language models at full precision on a single GPU. Unlike traditional GPU-centric systems, MegaTrain stores parameters and optimizer states in host memory (CPU memory) and treats GPUs as transient compute engines. For each layer, we stream parameters in and compute gradients out, minimizing persistent device state. To battle the CPU-GPU bandwidth bottleneck, we adopt two key optimizations. 1) We introduce a pipelined double-buffered execution engine that overlaps parameter prefetching, computation, and gradient offloading across multiple CUDA streams, enabling continuous GPU execution. 2) We replace persistent autograd graphs with stateless layer templates, binding weights dynamically as they stream in, eliminating persistent graph metadata while providing flexibility in scheduling. On a single H200 GPU with 1.5TB host memory, MegaTrain reliably trains models up to 120B parameters. It also achieves 1.84x the training throughput of DeepSpeed ZeRO-3 with CPU offloading when training 14B models. MegaTrain also enables 7B model training with 512k token context on a single GH200."
 
-7h ago
+8h ago
 
 ---
 
@@ -97,7 +97,7 @@ https://arxiv.org/abs/2604.05091 Abstract: "We present MegaTrain, a memory-centr
 
 What are ur views on this topic. Isolated, sandboxed etc. Most platforms run with isolated. Do u think its the only way or can a trusted system work. multi agents in the same filesystem togethet with no toe stepping?
 
-38m ago
+1h ago
 
 ---
 
@@ -105,7 +105,7 @@ What are ur views on this topic. Isolated, sandboxed etc. Most platforms run wit
 
 Policy: - budget = 1000 - each `provision_gpu(a100)` call = 500 Result: - call 1 -> ALLOW - call 2 -> ALLOW - call 3 -> DENY (`BUDGET_EXCEEDED`) Key point: the 3rd tool call is denied before execution. The tool never runs. Also emits: - authorization artifacts - hash-chained audit events - verification envelope - strict offline verification: `verifyEnvelope() => ok` Feels like this is the missing layer for side-effecting agents: proposal -> authorization -> execution rather than agent -> tool directly. Are you doing execution-time authorization, or mostly relying on approvals / retries / sandboxing. Happy to share the exact output / demo flow if useful.
 
-4h ago
+5h ago
 
 ---
 
@@ -113,7 +113,7 @@ Policy: - budget = 1000 - each `provision_gpu(a100)` call = 500 Result: - call 1
 
 Wishlist here on Steam if you dig the concept!
 
-4h ago
+5h ago
 
 ---
 
@@ -131,7 +131,7 @@ WIRED • 1d ago
 
 **[Opinion | A.I. May Worsen Wealth Inequality](https://www.nytimes.com/2026/04/08/opinion/ai-wealth-inequality-jobs-investment.html)**
 
-The New York Times • 12h ago
+The New York Times • 13h ago
 
 ---
 
@@ -139,7 +139,7 @@ The New York Times • 12h ago
 
 DreamWorks SKG co-founder Jeffrey Katzenberg and WndrCo general partner Justin Wexler join ‘The Claman Countdown’ to discuss the AI revolution, rising cybersecurity risks and the surge of young innovators reshaping Silicon Valley.
 
-Fox Business • 46m ago
+Fox Business • 1h ago
 
 ---
 
@@ -147,7 +147,7 @@ Fox Business • 46m ago
 
 Canva says the acquisitions add strengths in agentic AI, data infrastructure, marketing automation, and customer engagement.
 
-TechCrunch • 10m ago
+TechCrunch • 1h ago
 
 ---
 
@@ -155,19 +155,19 @@ TechCrunch • 10m ago
 
 Meta's Meta Superintelligence Lab released its first AI model, called Muse Spark, on Wednesday.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
 **[Meta Unveils New A.I. Model, Its First From the Superintelligence Lab](https://www.nytimes.com/2026/04/08/technology/meta-muse-spark-ai-model.html)**
 
-The New York Times • 4h ago
+The New York Times • 5h ago
 
 ---
 
 **[Meta Releases First New AI Model Since Shaking Up Team](https://www.barrons.com/news/meta-releases-first-new-ai-model-since-shaking-up-team-ab504718)**
 
-Barron's • 14m ago
+Barron's • 1h ago
 
 ---
 
@@ -175,7 +175,7 @@ Barron's • 14m ago
 
 Although AI coding tools have stoked fears that the technology will replace software engineers, jobs in the field are growing. As companies pump out more software, there’s increasing demand for seasoned engineers that can shape these products.
 
-CNN • 11h ago
+CNN • 12h ago
 
 ---
 
@@ -183,13 +183,13 @@ CNN • 11h ago
 
 Dozens of dogs were found crammed into single living room space at property in undisclosed location in UK
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
 **[The New Ivies: 20 Great Employer-Friendly Colleges Embracing AI](https://www.forbes.com/sites/aliciapark/2026/04/08/the-new-ivies-20-great-employer-friendly-colleges-embracing-ai/)**
 
-Forbes • 10h ago
+Forbes • 11h ago
 
 ---
 
@@ -247,19 +247,19 @@ Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU — no API k
 
 Biologically-inspired memory for AI agents. Decay, retrieval strengthening, consolidation. Zero dependencies. - kitfunso/hippo-memory
 
-⬆️ 127 • 💬 25 • 1d ago • [GitHub](https://github.com/kitfunso/hippo-memory)
+⬆️ 127 • 💬 25 • 2d ago • [GitHub](https://github.com/kitfunso/hippo-memory)
 
 ---
 
 **[Bernie Sanders: "AI Is a Threat to Everything the American People Hold Dear"](https://news.ycombinator.com/item?id=47667798)**
 
-⬆️ 76 • 💬 65 • 1d ago • [wsj.com](https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459)
+⬆️ 76 • 💬 65 • 2d ago • [wsj.com](https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459)
 
 ---
 
 **[Show HN: We fingerprinted 178 AI models' writing styles and similarity clusters](https://news.ycombinator.com/item?id=47690415)**
 
-⬆️ 70 • 💬 21 • 7h ago • [rival.tips](https://rival.tips/research/model-similarity)
+⬆️ 70 • 💬 21 • 8h ago • [rival.tips](https://rival.tips/research/model-similarity)
 
 ---
 
@@ -281,7 +281,7 @@ Full courses + unlimited support: https://www.skool.com/ai-automation-society-pl
 
 📺 Nate Herk | AI Automation
 
-👁️ 128K • 👍 4K • 💬 377 • ⏱️ 7:50 • 21h ago
+👁️ 128K • 👍 4K • 💬 377 • ⏱️ 7:50 • 22h ago
 
 ---
 
@@ -291,7 +291,7 @@ Anthropic revealed Mythos, a new AI model so powerful they won't let the public 
 
 📺 AI For Humans
 
-👁️ 5K • 👍 359 • 💬 125 • ⏱️ 32:56 • 7h ago
+👁️ 5K • 👍 359 • 💬 125 • ⏱️ 32:56 • 8h ago
 
 ---
 
@@ -301,7 +301,7 @@ What if you could run ChatGPT-level AI on your Mac and iPhone for free, with no 
 
 📺 The Tech Girl
 
-👁️ 33K • 👍 1K • 💬 88 • ⏱️ 8:27 • 15h ago
+👁️ 33K • 👍 1K • 💬 88 • ⏱️ 8:27 • 16h ago
 
 ---
 
@@ -311,7 +311,7 @@ Best AI App Builder is Base44 https://base44.pxf.io/c/6440076/2049275/25619?traf
 
 📺 Mikey No Code
 
-👁️ 12K • ⏱️ 27:43 • 6h ago
+👁️ 12K • ⏱️ 27:43 • 7h ago
 
 ---
 
@@ -321,7 +321,7 @@ This New AI video generator creates Long AI Videos Get 1000 Agent Opus credits h
 
 📺 Dan Kieft
 
-👁️ 11K • 💬 7 • ⏱️ 16:53 • 4h ago
+👁️ 11K • 💬 7 • ⏱️ 16:53 • 5h ago
 
 ---
 
@@ -341,7 +341,7 @@ OpenAI just dropped a policy blueprint built around one huge idea: superintellig
 
 📺 AI Revolution
 
-👁️ 21K • 👍 778 • 💬 103 • ⏱️ 13:17 • 22h ago
+👁️ 21K • 👍 778 • 💬 103 • ⏱️ 13:17 • 23h ago
 
 ---
 
@@ -351,7 +351,7 @@ Anthropic researchers prove AI has emotions & other shocking findings. #ai #aito
 
 📺 AI Search
 
-👁️ 21K • 👍 2K • 💬 409 • ⏱️ 29:07 • 17h ago
+👁️ 21K • 👍 2K • 💬 409 • ⏱️ 29:07 • 18h ago
 
 ---
 
@@ -411,7 +411,7 @@ GLM-5.1 is a next-generation language model optimized for agentic engineering, f
 
 `text-generation` `753.9B`
 
-⬇️ 1,300 • ❤️ 719 • 8h ago
+⬇️ 1,300 • ❤️ 719 • 9h ago
 
 ---
 
@@ -645,7 +645,7 @@ The highest-scoring AI memory system ever benchmarked. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 26.1k • 🔱 3.2k • 2h ago
+⭐ 26.1k • 🔱 3.2k • 3h ago
 
 ---
 
@@ -655,7 +655,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 23.7k • 🔱 4.4k • 3h ago
+⭐ 23.7k • 🔱 4.4k • 4h ago
 
 ---
 
@@ -665,7 +665,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 14.4k • 🔱 1.3k • 1h ago
+⭐ 14.4k • 🔱 1.3k • 2h ago
 
 ---
 
@@ -675,7 +675,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid
 
 `Python` `claude-code` `codex` `graphrag` `knowledge-graph` `openclaw`
 
-⭐ 12.1k • 🔱 1.2k • 2h ago
+⭐ 12.1k • 🔱 1.2k • 3h ago
 
 ---
 
@@ -705,7 +705,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 7.3k • 🔱 292 • 11h ago
+⭐ 7.3k • 🔱 292 • 12h ago
 
 ---
 
@@ -715,7 +715,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 7.1k • 🔱 431 • 1h ago
+⭐ 7.1k • 🔱 431 • 2h ago
 
 ---
 
