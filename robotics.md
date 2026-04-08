@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-08T08:42:33.867106+00:00'
+updated: '2026-04-08T10:09:16.736179+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 08, 2026 at 08:42 UTC  
+**Last Updated:** April 08, 2026 at 10:09 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,21 @@ Robotics research and industry news
 
 Torobo Humanoid Robot by Tokyo Robotics that looks like Atlas by Boston Dynamics. They recently switched their Torobo robot to become bipedal.
 
-12h ago
+13h ago
 
 ---
 
 **[6 axis robot](https://www.reddit.com/r/robotics/comments/1sff1il/6_axis_robot/)**
 
-7h ago
+8h ago
+
+---
+
+**[LeRobot (Hugging Face) just released "Unfolding Robotics", an open-source recipe for teaching a robot to fold your clothes](https://www.reddit.com/r/robotics/comments/1sfnve9/lerobot_hugging_face_just_released_unfolding/)**
+
+"The blog walks through the entire process: → Which robot, cameras, and teleoperation setup we used → How to gather high-quality demonstrations → Which model architecture and training recipe performed best → What we learned, and what we’d do differently Everything is open-source and ready to use in LeRobot v0.5.1." Unfolding Robotics: The Open-Source Recipe for Teaching a Robot to Fold Your Clothes: https://huggingface.co/spaces/lerobot/robot-folding From LeRobot on 𝕏: https://x.com/LeRobotHF/status/2041542790610297259
+
+44m ago
 
 ---
 
@@ -50,7 +58,7 @@ Torobo Humanoid Robot by Tokyo Robotics that looks like Atlas by Boston Dynamics
 
 From NVIDIA Robotics on 𝕏: https://x.com/NVIDIARobotics/status/2041349314262495265 NVIDIA blog: https://blogs.nvidia.com/blog/national-robotics-week-2026/#maximo
 
-22h ago
+1d ago
 
 ---
 
@@ -58,7 +66,23 @@ From NVIDIA Robotics on 𝕏: https://x.com/NVIDIARobotics/status/20413493142624
 
 Generalist just dropped GEN-1, the first general-purpose robot Al that hits 99% success rate on tasks where older models managed only 64%. The wild part? It didn't learn from robots, it learned from humans wearing cameras doing everyday tasks. That data transfers to robots with minimal retraining.When things go wrong, it improvises regrasping, switching hands, adapting on the fly. No explicit programming.
 
-15h ago
+17h ago
+
+---
+
+**[At what point do you stop adding complexity to a robot design?](https://www.reddit.com/r/robotics/comments/1sfnuzi/at_what_point_do_you_stop_adding_complexity_to_a/)**
+
+I’ve been working in industrial robotics (mostly integration and deployment) for about 5 years, but I’m currently building a small differential drive robot on my own outside of work. What’s interesting is I’m running into a problem I don’t usually feel as strongly on the job: knowing when to stop adding “improvements.” What started as a simple platform has gradually grown — I added encoder feedback, tuned a PID loop for motor control, redesigned parts for easier mounting, and now I’m considering splitting responsibilities across two controllers to better handle sensor input. None of these decisions are unreasonable on their own, but taken together I’m starting to wonder if I’m overengineering something that was supposed to be simple and quick to iterate. In industry projects, there are usually clearer constraints (budget, deadlines, client requirements), so the line is easier to draw. On a personal build, that line feels a lot fuzzier. For those of you with experience building robots outside of structured projects — how do you decide when something is “good enough” to stop iterating? Do you bias toward simplicity early on, or design for scalability from the start? Curious how others approach this in practice.
+
+45m ago
+
+---
+
+**[Standard PID vs. Reinforcement Learning on a degrading robotic joint (Wait for the second half).](https://www.reddit.com/r/robotics/comments/1sfnlol/standard_pid_vs_reinforcement_learning_on_a/)**
+
+My project partner and I are wrapping up a control middleware (ADAPT), and we wanted to share a crazy emergent behaviour our RL agent learned during a stress test. The Setup: We are running an inverted pendulum simulation, but we cranked simulated gearbox backlash and friction to absolute maximum to mimic a worn-out, dying motor. First Half (Standard PID): The standard controller tries to hold the joint at exactly 0.0 error. It falls into the mechanical deadband, over-corrects, and chatters violently. On physical hardware, this high-frequency vibration shreds the remaining gear teeth and overheats the actuator. Second Half (Vectra AI): We switch to our RL agent. It realizes holding absolute zero will burn out the motor. So, it intentionally introduces a 0.4-degree "limit cycle." It sacrifices a fraction of a degree of absolute precision to create a slight, predictable swing, keeping the gears in tension and riding the momentum through the slop. It essentially taught itself an Autonomous Degradation-Survival Strategy. We are doing a 72-hour sprint right now to see how this translates to different kinematics. If anyone is working with a custom URDF (especially with known mechanical slop), DM it to me. We want to run it through our pipeline and see if our math breaks.
+
+1h ago
 
 ---
 
@@ -66,7 +90,7 @@ Generalist just dropped GEN-1, the first general-purpose robot Al that hits 99% 
 
 So this is more of a questions really, but how far are we from building exoskeletons that enable the average human to run at speeds clocking in at 20+ miles per hour. I am aware that one of the best out there is the hypershell x ultra which after me watching many unbiased reviews and videos on it, can make the average human run from 13 mph to 17 and even one at 19. So that being said, how far are we from making an exoskeleton that can enable average humans to clock in at speeds above 23-24 mph?
 
-2h ago
+4h ago
 
 ---
 
@@ -74,37 +98,13 @@ So this is more of a questions really, but how far are we from building exoskele
 
 Worried about EoL IsaacGym and tired of setting up IsaacLab? I ported TWIST2 general motion tracking controller to MjLab that supports uv so really one click training/testing. It also uses MjWarp as the physics engine which IMO is better than physx which the Isaac frameworks defaulted to in the past. GitHub: lzyang2000/twist2_mjlab Link in comments, credits to original authors of MjLab and TWIST2
 
-16h ago
+17h ago
 
 ---
 
 **[Tesollo DG-5F-S lightweight robotic hand built for humanoid integration](https://www.reddit.com/r/robotics/comments/1se4j5s/tesollo_dg5fs_lightweight_robotic_hand_built_for/)**
 
 1d ago
-
----
-
-**[Building a self balancing robot](https://www.reddit.com/r/robotics/comments/1sec8dn/building_a_self_balancing_robot/)**
-
-I need help in placing the components on the robot for the best way to balance it. Also I plan to scale to to something like a delivery robot for small payloads. Prolly, something in my room 😅 but I need help in understanding how these balancing robots work and how I should place my components to make this work.
-
-1d ago
-
----
-
-**[Need Guidance](https://www.reddit.com/r/robotics/comments/1sf4e61/need_guidance/)**
-
-I’m feeling really confused about where I stand right now and could use some guidance. I’ve just finished my 2nd year in Automation and Robotics, but honestly, I feel like I only know a little bit of everything and not enough of anything to confidently call it a real skill.I do well in my college curriculum but it doesn't guarantee I have skilled in it ( my opinion). I see so many people around me doing internships, certifications, research projects, and even gaining work experience, while I feel like I’m doing nothing meaningful in comparison, and it’s starting to get to me. I genuinely want to improve and make use of my time. I’m ready to put in consistent effort for the next 3–4 months, but I feel stuck because I don’t know what to focus on or where to begin. I’m unsure which skills actually matter in this field, how to go from basic understanding to real confidence, and how or where to even apply for internships as someone who still feels like a beginner. If anyone has been in a similar situation or has advice on how to move forward, I would really appreciate it. I just need some direction so I can stop feeling stuck and start making real progress.
-
-14h ago
-
----
-
-**[i put actuators on my bed](https://www.reddit.com/r/robotics/comments/1ses8yw/i_put_actuators_on_my_bed/)**
-
-pretty cool. want to test how much weight it can handle. This was inspired by colinfurze, he is an engineering YouTuber. My design is slightly different when compared to his. my bed tilts the other way, and i am using a lot smaller cylinders. anyways; i hope u guys watch when i release the full version. -Thanks
-
-🔗 [youtube.com](https://www.youtube.com/shorts/zKG5-5-94J4) • 22h ago
 
 ---
 
@@ -122,13 +122,15 @@ Ars Technica • 1d ago
 
 **[Robot Maker Kuka Eyes US, Asia as Europe’s Factories Lag on AI](https://www.bloomberg.com/news/articles/2026-04-08/robot-maker-kuka-eyes-us-asia-as-europe-s-factories-lag-on-ai)**
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 35m ago
 
 ---
 
-**[Optimus time: Tesla makes big move in Fremont for global robotics hub](https://www.bizjournals.com/sanfrancisco/news/2026/04/06/tesla-fremont-optimus-robotics-factory.html)**
+**[HII Teams with GrayMatter Robotics to Integrate Physical AI into Manned and Unmanned Shipbuilding](https://hii.com/news/hii-teams-with-graymatter-robotics-to-integrate-physical-ai-into-manned-and-unmanned-shipbuilding/)**
 
-The Business Journals • 1d ago
+CARSON, Calif., (April 6, 2026) — HII (NYSE: HII) and GrayMatter Robotics (GMR) signed a memorandum of understanding (MOU) today to explore the integration of GMR’s Physical AI into shipbuilding operations that could accelerate throughput, strengthen the maritime industrial base, and augment the shipbuilding workforce. This will include bringing autonomous surface preparation, coating, and inspection
+
+HII • 1d ago
 
 ---
 
@@ -136,13 +138,13 @@ The Business Journals • 1d ago
 
 Japan is looking to become the dominant source of robotics by 2040, expedited by an aging population and a growing need for labor.
 
-Fortune • 1d ago
+fortune.com • 1d ago
 
 ---
 
 **[Wearable robots improve coordination between pairs of violin players](https://techxplore.com/news/2026-04-wearable-robots-pairs-violin-players.html)**
 
-Tech Xplore • 16h ago
+Tech Xplore • 17h ago
 
 ---
 
@@ -154,11 +156,25 @@ War on the Rocks • 1d ago
 
 ---
 
+**[Optimus time: Tesla makes big move in Fremont for global robotics hub](https://www.bizjournals.com/sanfrancisco/news/2026/04/06/tesla-fremont-optimus-robotics-factory.html)**
+
+The Business Journals • 1d ago
+
+---
+
 **[Kraken Robotics Demonstrates KATFISH Autonomous Launch and Recovery from SEFINE USV](https://www.navalnews.com/naval-news/2026/04/kraken-robotics-demonstrates-katfish-autonomous-launch-and-recovery-from-sefine-usv/)**
 
 Kraken announces the successful integration and demonstration of its KATFISH towed synthetic aperture sonar and autonomous launch and recovery system (LARS) from SEFINE’s RD-22 unmanned surface vessel
 
-navalnews.com • 20h ago
+navalnews.com • 21h ago
+
+---
+
+**[Neurobots: Living robots now have brains that guide how they move](https://interestingengineering.com/ai-robotics/neurobots-living-robots-with-nervous-system)**
+
+Scientists build living robots with functional nervous systems, giving biological machines internal control.
+
+Interesting Engineering • 1d ago
 
 ---
 
@@ -167,22 +183,6 @@ navalnews.com • 20h ago
 Funding data and leasing activity show that companies using the groundbreaking tech on the physical world are having their moment.
 
 The San Francisco Standard • 1d ago
-
----
-
-**[US: Humanoid robot Alex evolves with real-world capabilities ahead of public debut](https://interestingengineering.com/ai-robotics/us-alex-humanoid-robot)**
-
-IHMC to showcase Alex, a next-gen humanoid robot built for real-world tasks, at its April 10 open house with public demos.
-
-interestingengineering.com • 20h ago
-
----
-
-**[A Chinese robotics startup with a Tesla Optimus rival is seeking a new chief scientist with an $18 million salary](https://www.businessinsider.com/chinese-robotics-startup-tesla-rival-18-million-salary-chief-scientist-2026-4)**
-
-The race for AI and robotics talent is heating up and getting expensive.
-
-Business Insider • 1d ago
 
 ---
 
@@ -196,7 +196,7 @@ Japan's Torobo humanoid robot is moving toward full autonomy with its new legs. 
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 69 • 💬 5 • ⏱️ 0:46 • 12h ago
+👁️ 1K • 👍 69 • 💬 5 • ⏱️ 0:46 • 14h ago
 
 ---
 
@@ -264,7 +264,7 @@ Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ▻ https://w
 
 📺 Sambucha
 
-👁️ 92K • 👍 6K • 💬 234 • ⏱️ 0:51 • 15h ago
+👁️ 92K • 👍 6K • 💬 234 • ⏱️ 0:51 • 16h ago
 
 ---
 
@@ -284,7 +284,7 @@ Get the update on your app store: https://wr.my.games/play ➡️ Get the update
 
 📺 War Robots [WR]
 
-👁️ 45K • 👍 2K • 💬 411 • ⏱️ 3:58 • 19h ago
+👁️ 45K • 👍 2K • 💬 411 • ⏱️ 3:58 • 21h ago
 
 ---
 
