@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-08T23:08:25.056469+00:00'
+updated: '2026-04-08T23:59:02.437108+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
-- cryptocurrency
 - videos
+- cryptocurrency
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 08, 2026 at 23:08 UTC  
+**Last Updated:** April 08, 2026 at 23:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 World Liberty Financial deposited 3B WLFI tokens as collateral to borrow $50M of its own stablecoin, pushing its lending pool into negative liquidity and raising concerns over circular treasury practices, governance risks, and regulatory scrutiny.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/trumps-crypto-project-just-borrowed-50-million-against-its-own-token-and-broke-the-lending-pool/) • 13h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/trumps-crypto-project-just-borrowed-50-million-against-its-own-token-and-broke-the-lending-pool/) • 14h ago
 
 ---
 
@@ -170,7 +170,7 @@ Bit Digital • 1d ago
 
 Bitcoin (BTC-USD) opened higher at $71,926.16 and ethereum (ETH-USD) opened higher at $2,239.89 following President Trump’s announcement of a temporary ceasefire agreement with Iran.
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -200,7 +200,7 @@ TradingView • 21h ago
 
 Ethereum's utility makes it an attractive investment option during the current market turndown.
 
-The Motley Fool • 10h ago
+The Motley Fool • 11h ago
 
 ---
 
@@ -208,13 +208,13 @@ The Motley Fool • 10h ago
 
 The Ethereum Foundation plans to convert 5,000 ETH into stablecoins using TWAP execution.
 
-AMBCrypto • 6h ago
+AMBCrypto • 7h ago
 
 ---
 
 **[Ethereum’s Silver Medal Slips as Prediction Markets Brace for a $1,500 Floor](https://www.tipranks.com/news/ethereums-silver-medal-slips-as-prediction-markets-brace-for-a-1500-floor)**
 
-TipRanks • 9h ago
+TipRanks • 10h ago
 
 ---
 
@@ -236,7 +236,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 4K • 👍 212 • 💬 5 • ⏱️ 20:08 • 6h ago
+👁️ 4K • 👍 212 • 💬 5 • ⏱️ 20:08 • 7h ago
 
 ---
 
@@ -246,7 +246,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 383 • 👍 22 • ⏱️ 4:53 • 14h ago
+👁️ 383 • 👍 22 • ⏱️ 4:53 • 15h ago
 
 ---
 
@@ -256,7 +256,7 @@ BITCOIN SQUEEZE: This Changes Everything (Urgent)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 7K • 👍 282 • 💬 343 • ⏱️ 23:11 • 22h ago
+👁️ 7K • 👍 282 • 💬 343 • ⏱️ 23:11 • 23h ago
 
 ---
 
@@ -276,7 +276,7 @@ Brian from Santiment joined me to review the crypto market metrics for Bitcoin, 
 
 📺 Thinking Crypto
 
-👁️ 2K • 👍 144 • 💬 255 • ⏱️ 26:32 • 10h ago
+👁️ 2K • 👍 144 • 💬 255 • ⏱️ 26:32 • 11h ago
 
 ---
 
@@ -296,7 +296,7 @@ Daily BTC, ETH, TSLA trades. Subscribe. Bybit bonus up to $30000 https://partner
 
 📺 James Crypto Guru
 
-👁️ 2K • 👍 132 • 💬 15 • ⏱️ 9:42 • 21h ago
+👁️ 2K • 👍 132 • 💬 15 • ⏱️ 9:42 • 22h ago
 
 ---
 
@@ -306,7 +306,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 711 • 👍 64 • ⏱️ 6:29 • 7h ago
+👁️ 711 • 👍 64 • ⏱️ 6:29 • 8h ago
 
 ---
 
@@ -316,7 +316,7 @@ BMNR just updated its balance sheet but the real story is what the VIX is tellin
 
 📺 The Value Thinker
 
-👁️ 4K • 👍 301 • 💬 29 • ⏱️ 24:54 • 10h ago
+👁️ 4K • 👍 301 • 💬 29 • ⏱️ 24:54 • 11h ago
 
 ---
 
@@ -326,7 +326,7 @@ kripto para dünyası kanalımda kripto para hacim türleri para siteleri kripto
 
 📺 Kripto Para Dünyası
 
-👁️ 1K • 👍 132 • ⏱️ 7:42 • 6h ago
+👁️ 1K • 👍 132 • ⏱️ 7:42 • 7h ago
 
 ---
 

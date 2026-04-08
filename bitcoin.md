@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-08T23:08:25.050464+00:00'
+updated: '2026-04-08T23:59:02.431919+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
-- cryptocurrency
 - videos
+- cryptocurrency
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 08, 2026 at 23:08 UTC  
+**Last Updated:** April 08, 2026 at 23:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,13 +81,13 @@ Rank #1
 
 A ton of BTC was recently traded below $70,000 in a sign of strong dip demand.
 
-🔗 [coindesk.com](https://www.coindesk.com/markets/2026/04/08/bitcoin-buyers-gobbled-up-nearly-850-000-btc-between-usd60-000-and-usd70-000) • 9h ago
+🔗 [coindesk.com](https://www.coindesk.com/markets/2026/04/08/bitcoin-buyers-gobbled-up-nearly-850-000-btc-between-usd60-000-and-usd70-000) • 10h ago
 
 ---
 
 **[They hate this little trick](https://www.reddit.com/r/Bitcoin/comments/1sg3mx1/they_hate_this_little_trick/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -95,19 +95,19 @@ A ton of BTC was recently traded below $70,000 in a sign of strong dip demand.
 
 Morgan Stanley's bitcoin ETF comes with a 0.14% annual fee, making it the lowest in the spot BTC ETF market and undercutting BlackRock's IBIT (0.25%)
 
-8h ago
+9h ago
 
 ---
 
 **[Is this you?](https://www.reddit.com/r/Bitcoin/comments/1sg4gms/is_this_you/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Everyone right now](https://www.reddit.com/r/Bitcoin/comments/1sfe1rq/everyone_right_now/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -115,13 +115,13 @@ Morgan Stanley's bitcoin ETF comes with a 0.14% annual fee, making it the lowest
 
 Shall i accumulate more? Or wait and hodl.
 
-11h ago
+12h ago
 
 ---
 
 **[NYT says Adam Back is Satoshi](https://www.reddit.com/r/Bitcoin/comments/1sfobpm/nyt_says_adam_back_is_satoshi/)**
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html) • 13h ago
+🔗 [nytimes.com](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html) • 14h ago
 
 ---
 
@@ -129,7 +129,7 @@ Shall i accumulate more? Or wait and hodl.
 
 https://www.reddit.com/r/askanything/comments/1s8mrgl/comment/oenq0i2/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button I thought some of you might like to read this comment. I was debating this guy for a while until he finally spit this sentence out: I didn't misrepresent anything. How is "sending [XYZ] unlimited distance without a third party" unique at all? How is this any different than a wire transfer? I guess there is banking intermediation, but I am not aware of the ability to send Bitcoin without some intermediating service, either. This absolutely baffled me, as he was confidently debating me for quite a while, then accidentally admitted he thought bitcoin required an "intermediating service". I called him out and he has since not responded...lol.
 
-8h ago
+9h ago
 
 ---
 
@@ -137,7 +137,7 @@ https://www.reddit.com/r/askanything/comments/1s8mrgl/comment/oenq0i2/?utm_sourc
 
 Morgan Stanley’s Bitcoin exchange-traded fund is set to debut on the NYSE Arca stock exchange on Wednesday, making it the first major commercial bank to offer a Bitcoin ETF in the US.The launch of the Morgan Stanley Bitcoin Trust (MSBT) on April 8 was confirmed in a listing notice by the New York S…
 
-🔗 [TradingView](https://www.tradingview.com/news/cointelegraph:7fd1c9c81094b:0-morgan-stanley-s-bitcoin-etf-set-to-launch-on-wednesday/) • 15h ago
+🔗 [TradingView](https://www.tradingview.com/news/cointelegraph:7fd1c9c81094b:0-morgan-stanley-s-bitcoin-etf-set-to-launch-on-wednesday/) • 16h ago
 
 ---
 
@@ -145,7 +145,7 @@ Morgan Stanley’s Bitcoin exchange-traded fund is set to debut on the NYSE Arca
 
 short-term thinking leads to bad decisions trying to time the market usually fails patience beats constant trading What did Bitcoin teach you?
 
-8h ago
+9h ago
 
 ---
 
@@ -163,7 +163,7 @@ The New York Times • 19h ago
 
 Iran is looking to charge shipowners a fee of $1 per barrel of oil onboard for safe passage across the Strait of Hormuz, to be paid in cryptocurrency, according to the Financial Times.
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -171,13 +171,13 @@ Yahoo Finance • 8h ago
 
 Iran is reportedly open transit tolls paid in bitcoin and crypto for ships crossing the Strait of Hormuz amid volatile ceasefire.
 
-The Block • 8h ago
+The Block • 9h ago
 
 ---
 
 **[‘Will Be Destroyed’—Iran’s Bitcoin Toll Sparks $100K Price Prediction](https://www.forbes.com/sites/digital-assets/2026/04/08/will-be-destroyed-irans-bitcoin-toll-sparks-100k-price-prediction/)**
 
-Forbes • 4h ago
+Forbes • 5h ago
 
 ---
 
@@ -193,7 +193,7 @@ The Block • 21h ago
 
 (Bloomberg) -- Bitcoin touched a three-week high as global markets turned more optimistic after a ceasefire deal between the US and Iran.The largest cryptocurrency climbed as much as 5% to $72,841, its highest level since March 18, in New York trading. Smaller tokens also notched big gains, with Ether rising as much as 7.4% to $2,273.Stocks surged and the price of the US benchmark West Texas Intermediate crude oil fell below $95, nearing its biggest price drop in six years, after US President Do
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -201,7 +201,7 @@ Yahoo Finance • 9h ago
 
 Bitcoin (BTC-USD) and other cryptocurrencies are moving higher after President Trump announced a two-week ceasefire with Iran. ABRA founder and CEO Bill Barhydt joins Yahoo Finance Markets and Data Editor Jared Blikre to discuss the market action and whether bitcoin can hit $80,000 by the end of this year. For more predictions market insight, check out the new Yahoo Finance Polymarket Hub.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -209,7 +209,7 @@ Yahoo Finance • 1h ago
 
 Despite the momentary recovery following the U.S.-Iran ceasefire announcement on April 7, Bitcoin (BTC) is still trading 43% lower than the all-time high (ATH) of $126,080 it hit on Oct. 6 last year. Several leading miners such as MARA Holdings (Nasdaq: MARA) and Bitdeer (Nasdaq: ...
 
-Yahoo Finance Singapore • 49m ago
+Yahoo Finance Singapore • 1h ago
 
 ---
 
@@ -217,7 +217,7 @@ Yahoo Finance Singapore • 49m ago
 
 Morgan Stanley just debuted its Bitcoin exchange-traded fund. The fund — the first from a US bank — had a big first day. Morgan Stanley’s Bitcoin ETF day one flows puts it in the top 1% of ETF debuts.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -233,7 +233,7 @@ Forbes • 12h ago
 
 **[Who is Satoshi Nakamoto? My quest to unmask Bitcoin's creator](https://news.ycombinator.com/item?id=47685320)**
 
-⬆️ 241 • 💬 162 • 18h ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)
+⬆️ 241 • 💬 162 • 19h ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)
 
 ---
 
@@ -265,13 +265,13 @@ Google Quantum AI: Quantum computer could break Bitcoin cryptography with under 
 
 The British computer scientist and entrepreneur has denied being the man who the New York Times identified at Satoshi Nakamoto.
 
-⬆️ 13 • 💬 1 • 5h ago • [bbc.com](https://www.bbc.com/news/articles/cgrl4l1y9yxo)
+⬆️ 13 • 💬 1 • 6h ago • [bbc.com](https://www.bbc.com/news/articles/cgrl4l1y9yxo)
 
 ---
 
 **[Takeaways from Our Search for Bitcoin's Creator](https://news.ycombinator.com/item?id=47689167)**
 
-⬆️ 10 • 💬 1 • 10h ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/takeaways-satoshi-nakamoto-bitcoin-adam-back.html)
+⬆️ 10 • 💬 1 • 11h ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/takeaways-satoshi-nakamoto-bitcoin-adam-back.html)
 
 ---
 
@@ -291,7 +291,7 @@ April 03, 2026 - A new $100 million bond deal reveals exactly how traditional fi
 
 **[Bitcoin.com Deplatformed by YouTube](https://news.ycombinator.com/item?id=47697080)**
 
-⬆️ 3 • 💬 0 • 41m ago • [X (formerly Twitter)](https://twitter.com/i/status/2041756576600748142)
+⬆️ 3 • 💬 0 • 1h ago • [X (formerly Twitter)](https://twitter.com/i/status/2041756576600748142)
 
 ---
 
@@ -299,7 +299,7 @@ April 03, 2026 - A new $100 million bond deal reveals exactly how traditional fi
 
 For years, bitcoin creator Satoshi Nakamoto has avoided discovery. Now, a 10,000-word New York Times investigation may have unraveled the mystery, landing on British computer scientist Dr. Adam Back as Nakamoto.
 
-⬆️ 2 • 💬 5 • 3h ago • [Yahoo Finance](https://finance.yahoo.com/markets/crypto/article/the-new-york-times-may-have-found-bitcoin-founder-satoshi-nakamoto-heres-what-you-need-to-know-193426720.html)
+⬆️ 2 • 💬 5 • 4h ago • [Yahoo Finance](https://finance.yahoo.com/markets/crypto/article/the-new-york-times-may-have-found-bitcoin-founder-satoshi-nakamoto-heres-what-you-need-to-know-193426720.html)
 
 ---
 
@@ -313,7 +313,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 WEE
 
 📺 Altcoin Daily
 
-👁️ 40K • 👍 2K • 💬 449 • ⏱️ 9:28 • 23h ago
+👁️ 40K • 👍 2K • 💬 449 • ⏱️ 9:28 • 1d ago
 
 ---
 
@@ -323,7 +323,7 @@ It is once again time for an update to the Bitcoin bear market resistance band! 
 
 📺 Benjamin Cowen
 
-👁️ 18K • 👍 2K • 💬 98 • ⏱️ 28:36 • 3h ago
+👁️ 18K • 👍 2K • 💬 98 • ⏱️ 28:36 • 4h ago
 
 ---
 
@@ -333,7 +333,7 @@ Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FR
 
 📺 CryptosRUs
 
-👁️ 14K • 👍 843 • 💬 335 • ⏱️ 37:24 • 8h ago
+👁️ 14K • 👍 843 • 💬 335 • ⏱️ 37:24 • 9h ago
 
 ---
 
@@ -363,7 +363,7 @@ Thanks to Caleb & Brown for sponsoring this video! CALEB & BROWN Link ...
 
 📺 Dan Gambardello
 
-👁️ 6K • 👍 435 • 💬 284 • ⏱️ 9:40 • 8h ago
+👁️ 6K • 👍 435 • 💬 284 • ⏱️ 9:40 • 9h ago
 
 ---
 
@@ -383,7 +383,7 @@ Bitcoins price is important but it is not everything! Yes the price matters. But
 
 📺 The Bitcoin Broadcast - Vince HodlFlorida
 
-👁️ 357 • 👍 9 • 💬 3 • ⏱️ 0:52 • 3h ago
+👁️ 357 • 👍 9 • 💬 3 • ⏱️ 0:52 • 4h ago
 
 ---
 
@@ -403,7 +403,7 @@ IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purp
 
 📺 The Kenzo Guy
 
-👁️ 2K • 👍 129 • 💬 20 • ⏱️ 22:56 • 5h ago
+👁️ 2K • 👍 129 • 💬 20 • ⏱️ 22:56 • 6h ago
 
 ---
 
