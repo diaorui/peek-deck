@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-08T11:31:22.290465+00:00'
+updated: '2026-04-08T13:22:31.975423+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - videos
 - cryptocurrency
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 08, 2026 at 11:31 UTC  
+**Last Updated:** April 08, 2026 at 13:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $71,631.78
+### $72,573.83
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +4.8%  
-**7d:** +7.1%  
-**30d:** +2.5%  
-**90d:** -20.8%  
-**1y:** -13.3%  
+**24h:** +6.7%  
+**7d:** +8.3%  
+**30d:** +3.6%  
+**90d:** -20.0%  
+**1y:** -12.3%  
 
 ---
 
@@ -79,7 +79,15 @@ Rank #1
 
 **[Everyone right now](https://www.reddit.com/r/Bitcoin/comments/1sfe1rq/everyone_right_now/)**
 
-10h ago
+12h ago
+
+---
+
+**[0.075BTC at 18y old](https://www.reddit.com/r/Bitcoin/comments/1sfq9y9/0075btc_at_18y_old/)**
+
+Shall i accumulate more? Or wait and hodl.
+
+1h ago
 
 ---
 
@@ -87,7 +95,7 @@ Rank #1
 
 Morgan Stanley’s Bitcoin exchange-traded fund is set to debut on the NYSE Arca stock exchange on Wednesday, making it the first major commercial bank to offer a Bitcoin ETF in the US.The launch of the Morgan Stanley Bitcoin Trust (MSBT) on April 8 was confirmed in a listing notice by the New York S…
 
-🔗 [TradingView](https://www.tradingview.com/news/cointelegraph:7fd1c9c81094b:0-morgan-stanley-s-bitcoin-etf-set-to-launch-on-wednesday/) • 3h ago
+🔗 [TradingView](https://www.tradingview.com/news/cointelegraph:7fd1c9c81094b:0-morgan-stanley-s-bitcoin-etf-set-to-launch-on-wednesday/) • 5h ago
 
 ---
 
@@ -95,7 +103,7 @@ Morgan Stanley’s Bitcoin exchange-traded fund is set to debut on the NYSE Arca
 
 My “decision” process over the last few weeks went something like this: 65.5k → don’t invest yet, it will drop further 66.0k → dead cat bounce! 67.5k → fake out, sellers will win this fight 68.0k → too high, invest when it drops to 66.0k 71.5k → what the hell is going on? Time in the market beats timing the market, I know.
 
-12h ago
+14h ago
 
 ---
 
@@ -103,29 +111,13 @@ My “decision” process over the last few weeks went something like this: 65.5
 
 Strategy has acquired 4,871 BTC for ~$329.9 million at ~$67,718 per bitcoin. As of 4/5/2026, we hold 766,970 BTC acquired for ~$58.02 billion at ~$75,644 per bitcoin.
 
-🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-4871-btc-and-now-holds-766970-btc_04-06-2026) • 16h ago
+🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-4871-btc-and-now-holds-766970-btc_04-06-2026) • 18h ago
 
 ---
 
 **[bitcoin provides mathematical certainty in a world that is more fake and uncertain than ever. There will only be 21,000,000 bitcoin, forever](https://www.reddit.com/r/Bitcoin/comments/1sezsdb/bitcoin_provides_mathematical_certainty_in_a/)**
 
-19h ago
-
----
-
-**[BLOOMBERG: Morgan Stanley Bitcoin ETF will launch this week](https://www.reddit.com/r/Bitcoin/comments/1sexipw/bloomberg_morgan_stanley_bitcoin_etf_will_launch/)**
-
-Loading before launch
-
 21h ago
-
----
-
-**[Ultimate Cheapest way to Buy Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1sf9oj9/ultimate_cheapest_way_to_buy_bitcoin/)**
-
-I'm looking for a cheap way to buy bitcoin, i'm getting a crazy rate on OKX which is all but okay. In Singaporean dollar BTC on OKX is 88.7k but when I preview my purchase it’s 90.0k, i'm speechless.
-
-13h ago
 
 ---
 
@@ -133,7 +125,7 @@ I'm looking for a cheap way to buy bitcoin, i'm getting a crazy rate on OKX whic
 
 Just wondering: do you guys take this index into consideration at all (for buying decisions and such)?
 
-1h ago
+3h ago
 
 ---
 
@@ -141,15 +133,23 @@ Just wondering: do you guys take this index into consideration at all (for buyin
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-5h ago
+7h ago
 
 ---
 
-**[Need a little Help](https://www.reddit.com/r/Bitcoin/comments/1sfo0wa/need_a_little_help/)**
+**[BLOOMBERG: Morgan Stanley Bitcoin ETF will launch this week](https://www.reddit.com/r/Bitcoin/comments/1sexipw/bloomberg_morgan_stanley_bitcoin_etf_will_launch/)**
 
-How do I get into bitcoin? I’m 19 and have always been intrigued by the way bitcoin works since I could fully process what it was and always wanted to get into it but could never figure out where to start
+Loading before launch
 
-1h ago
+22h ago
+
+---
+
+**[Ultimate Cheapest way to Buy Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1sf9oj9/ultimate_cheapest_way_to_buy_bitcoin/)**
+
+I'm looking for a cheap way to buy bitcoin, i'm getting a crazy rate on OKX which is all but okay. In Singaporean dollar BTC on OKX is 88.7k but when I preview my purchase it’s 90.0k, i'm speechless.
+
+15h ago
 
 ---
 
@@ -157,9 +157,9 @@ How do I get into bitcoin? I’m 19 and have always been intrigued by the way bi
 
 ## Google News: "bitcoin"
 
-**[4 Takeaways From Our Search for Satoshi Nakamoto, Bitcoin’s Creator](https://www.nytimes.com/2026/04/08/business/takeaways-satoshi-nakamoto-bitcoin-adam-back.html)**
+**[Who Is Satoshi Nakamoto? My Quest to Unmask Bitcoin’s Creator](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)**
 
-The New York Times • 7h ago
+The New York Times • 9h ago
 
 ---
 
@@ -167,63 +167,65 @@ The New York Times • 7h ago
 
 The British computer scientist and entrepreneur has denied being the man who the New York Times identified at Satoshi Nakamoto.
 
-BBC • 57m ago
+BBC • 2h ago
 
 ---
 
-**[How The Trumps Blew $1 Billion On Bitcoin](https://www.forbes.com/sites/danalexander/2026/04/08/how-the-trumps-blew-1-billion-on-bitcoin/)**
+**[The New York Times Identifies Bitcoin Inventor 'Satoshi'](https://www.yahoo.com/news/articles/york-times-identifies-bitcoin-inventor-122900897.html)**
 
-Forbes • 25m ago
+The New York Times (NYSE: $NYT) claims that it has identified the person who goes by the pseudonym “Satoshi N...
+
+Yahoo • 53m ago
 
 ---
 
-**[Bitcoin Jumps to Three-Week High on US-Iran Ceasefire Plan](https://www.bloomberg.com/news/articles/2026-04-08/bitcoin-jumps-to-three-week-high-on-us-iran-ceasefire-plan)**
+**[Morgan Stanley Debuts Bitcoin ETF as Price Slump Rattles Holders](https://www.bloomberg.com/news/articles/2026-04-08/morgan-stanley-debuts-bitcoin-etf-as-price-slump-rattles-holders)**
 
 Bloomberg.com • 1h ago
 
 ---
 
-**[Bitcoin Just Deviated From The Bearish Trend That Began In January And $86,000 Could Be Next](https://www.tradingview.com/news/newsbtc:f9eafd7ea094b:0-bitcoin-just-deviated-from-the-bearish-trend-that-began-in-january-and-86-000-could-be-next/)**
+**[Bitcoin ATMs are enabling scams, critics say. The AARP wants them gone.](https://www.bostonglobe.com/2026/04/08/business/bitcoin-atm-aarp-crypto-scam/)**
 
-Bitcoin has been in a bearish trend that spilled over from 2025 into the year 2026. This has persisted from January, and throughout the first quarter of the year, the Bitcoin price has continued to decline as a result. This trend, however, seems to be nearing its end with the most recent move. Acco…
+The operators of bitcoin ATMs are not themselves being accused of wrongdoing, but critics say they make traditional scams harder to track.
 
-TradingView • 1h ago
-
----
-
-**[Morgan Stanley's Bitcoin ETF Goes Live Tomorrow](https://finance.yahoo.com/markets/crypto/articles/morgan-stanleys-btc-etf-going-192517212.html)**
-
-It will be the first BTC ETF launched by a major U.S. commercial bank.
-
-Yahoo Finance • 16h ago
+The Boston Globe • 1h ago
 
 ---
 
-**[Morgan Stanley Set To Launch Bitcoin ETF Wednesday as Wall Street Crypto Buildout Expands](https://www.ccn.com/news/crypto/morgan-stanley-set-to-launch-bitcoin-etf-wednesday-as-wall-street-crypto-buildout-expands/)**
+**[Current price of Bitcoin for April 8, 2026](https://fortune.com/article/price-of-bitcoin-04-08-2026/)**
 
-CCN.com • 1h ago
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
----
-
-**[The ETF easy button for Bitcoin (and the fine print you need to read)](https://nypost.com/business/spot-bitcoin-etf-pros-cons-guide/)**
-
-Bitcoin ETFs offer the convenience of buying crypto from your standard brokerage account, but what are investors giving up for the privilege?
-
-nypost.com • 1d ago
+Fortune • 21m ago
 
 ---
 
-**[The New York Times says it’s identified Satoshi, the inventor of bitcoin](https://www.marketwatch.com/story/the-new-york-times-says-its-identified-satoshi-the-inventor-of-bitcoin-3dd055a7)**
+**[Bitcoin Jumps to Three-Week High on US-Iran Ceasefire Plan](https://www.bloomberg.com/news/articles/2026-04-08/bitcoin-jumps-to-three-week-high-on-us-iran-ceasefire-plan)**
 
-MarketWatch • 1h ago
+Bloomberg.com • 3h ago
 
 ---
 
-**[Market Crash: The Cryptocurrencies I'd Buy Without Hesitation](https://www.fool.com/investing/2026/04/07/market-crash-the-cryptocurrencies-id-buy-without-h/)**
+**[How The Trumps Blew $1 Billion On Bitcoin](https://www.forbes.com/sites/danalexander/2026/04/08/how-the-trumps-blew-1-billion-on-bitcoin/)**
 
-The odds of a crash look a touch elevated, so it's important to plan ahead just in case.
+Forbes • 2h ago
 
-The Motley Fool • 11h ago
+---
+
+**[The 90-Year Bitcoin Trade: Why It’s Still Early](https://finance.yahoo.com/video/90-bitcoin-trade-why-still-110000068.html)**
+
+People shouldn't fear Bitcoin hitting its Wall Street era, says Swan Bitcoin CEO Cory Klippsten
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Bitcoin dip buying surges as 850K BTC cluster between $60K and $70K](https://www.coindesk.com/markets/2026/04/08/bitcoin-buyers-gobbled-up-nearly-850-000-btc-between-usd60-000-and-usd70-000)**
+
+A ton of BTC was recently traded below $70,000 in a sign of strong dip demand.
+
+CoinDesk • 1h ago
 
 ---
 
@@ -235,13 +237,13 @@ The Motley Fool • 11h ago
 
 Neha Narula
 
-⬆️ 153 • 💬 111 • 14h ago • [nehanarula.org](https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html)
+⬆️ 155 • 💬 115 • 16h ago • [nehanarula.org](https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html)
 
 ---
 
 **[Who Is Satoshi Nakamoto? My Quest to Unmask Bitcoin's Creator](https://news.ycombinator.com/item?id=47685320)**
 
-⬆️ 75 • 💬 29 • 6h ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)
+⬆️ 93 • 💬 40 • 8h ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)
 
 ---
 
@@ -275,9 +277,9 @@ April 03, 2026 - A new $100 million bond deal reveals exactly how traditional fi
 
 ---
 
-**[Google Paper Warns of Quantum Computing Risk for Bitcoin](https://news.ycombinator.com/item?id=47600418)**
+**[Takeaways from Our Search for Bitcoin's Creator](https://news.ycombinator.com/item?id=47689167)**
 
-⬆️ 3 • 💬 1 • 6d ago • [wsj.com](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-31-2026/card/google-paper-warns-of-quantum-computing-risk-for-bitcoin-x4yBALvF5ezP4R8mk25q)
+⬆️ 2 • 💬 0 • 1h ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/takeaways-satoshi-nakamoto-bitcoin-adam-back.html)
 
 ---
 
@@ -300,7 +302,7 @@ Test your prediction skills against historical data. Draw your forecast and see 
 This post is a direct follow-up to my recent articles about the new home server with openSUSE MicroOS and the Minisforum MS-S1 Max. Those covered the foundation. Here I want to show one concrete use for it: putting together a decent Bitcoin stack at home, focused on privacy, operational sovereignty and safe transactions on my side.
 First things first: this isn’t an evangelism piece or a day-trading pitch. Quite the opposite. As I write this, on April 1, 2026, Bitcoin is around US$ 68k and close to R$ 391k, below the 2025 peaks. Plenty of people look at that and either panic or start fantasizing about leveraged trades. I think both reactions are wrong. There’s a “super cycle” thesis floating around based on institutional demand, spot ETFs and the lagged halving effect. Maybe. Maybe not. What I do know is that short-term candles don’t change the part I actually care about: infrastructure. If you need leverage to “speed up your gains,” you’re probably just speeding up your chances of getting liquidated.
 
-⬆️ 1 • 💬 2 • 13h ago • [akitaonrails.com](https://akitaonrails.com/en/2026/04/01/bitcoin-on-the-home-server-sovereignty-with-coldcard-sparrow-fulcrum/)
+⬆️ 1 • 💬 2 • 15h ago • [akitaonrails.com](https://akitaonrails.com/en/2026/04/01/bitcoin-on-the-home-server-sovereignty-with-coldcard-sparrow-fulcrum/)
 
 ---
 
@@ -314,7 +316,7 @@ Anthony Pompliano, ProCap Financial CEO, joins 'Squawk Box' to discuss bitcoin's
 
 📺 CNBC Television
 
-👁️ 13K • 👍 148 • 💬 147 • ⏱️ 5:56 • 21h ago
+👁️ 13K • 👍 148 • 💬 147 • ⏱️ 5:56 • 23h ago
 
 ---
 
@@ -324,7 +326,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 WEE
 
 📺 Altcoin Daily
 
-👁️ 29K • 👍 2K • 💬 469 • ⏱️ 9:28 • 11h ago
+👁️ 29K • 👍 2K • 💬 469 • ⏱️ 9:28 • 13h ago
 
 ---
 
@@ -364,7 +366,7 @@ Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro max, and th
 
 📺 Crypto Jebb
 
-👁️ 4K • 👍 203 • 💬 19 • ⏱️ 56:30 • 20h ago
+👁️ 4K • 👍 203 • 💬 19 • ⏱️ 56:30 • 22h ago
 
 ---
 
@@ -374,7 +376,7 @@ Crypto News: US and Iran agree to 2-week ceasefire which caused Bitcoin and Stoc
 
 📺 Thinking Crypto
 
-👁️ 3K • 👍 340 • 💬 160 • ⏱️ 19:56 • 8h ago
+👁️ 3K • 👍 340 • 💬 160 • ⏱️ 19:56 • 10h ago
 
 ---
 
@@ -384,7 +386,7 @@ My Trading Signals https://discord.com/invite/jRAnCV9CTB Trade on MEXC ...
 
 📺 Road To $1 Million USD
 
-👁️ 5K • 👍 220 • 💬 16 • ⏱️ 8:32 • 13h ago
+👁️ 5K • 👍 220 • 💬 16 • ⏱️ 8:32 • 15h ago
 
 ---
 
@@ -402,7 +404,7 @@ Tom breaks down why he doesn't sweat Bitcoin's price swings—because he's think
 
 📺 Tom Bilyeu Clips
 
-👁️ 1K • 👍 19 • 💬 1 • ⏱️ 0:56 • 10h ago
+👁️ 1K • 👍 19 • 💬 1 • ⏱️ 0:56 • 12h ago
 
 ---
 

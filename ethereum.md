@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-08T11:31:22.295711+00:00'
+updated: '2026-04-08T13:22:31.981325+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - videos
 - cryptocurrency
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 08, 2026 at 11:31 UTC  
+**Last Updated:** April 08, 2026 at 13:22 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,245.26
+### $2,257.74
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +8.0%  
-**7d:** +9.6%  
+**24h:** +9.0%  
+**7d:** +9.7%  
 **30d:** +10.7%  
-**90d:** -27.0%  
-**1y:** +35.1%  
+**90d:** -26.9%  
+**1y:** +35.2%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 World Liberty Financial deposited 3B WLFI tokens as collateral to borrow $50M of its own stablecoin, pushing its lending pool into negative liquidity and raising concerns over circular treasury practices, governance risks, and regulatory scrutiny.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/trumps-crypto-project-just-borrowed-50-million-against-its-own-token-and-broke-the-lending-pool/) • 1h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/trumps-crypto-project-just-borrowed-50-million-against-its-own-token-and-broke-the-lending-pool/) • 3h ago
 
 ---
 
@@ -80,7 +80,7 @@ World Liberty Financial deposited 3B WLFI tokens as collateral to borrow $50M of
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+8h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I've learnt that we can now invest in gold directly in crypto, which is quite exciting as I don't trust any bank or broker, so here's a few questions: Is this safe? What is the best within Paxos or Tether gold, is this as trustable as USDT/Stablecoins? How to buy it?
 
-12h ago
+14h ago
 
 ---
 
@@ -96,7 +96,7 @@ I've learnt that we can now invest in gold directly in crypto, which is quite ex
 
 I just built ethlocal.world: a simple way to explore Ethereum activity around the world. The idea was pretty straightforward: Ethereum is global, but it can still be surprisingly hard to get a quick sense of what’s happening locally or regionally. So I made a site that maps events and communities in one place and lets you browse by region and type. It takes data from ethereum.org and was inspired by the Codex Ambassadors globe. Link: https://ethlocal.world Would love honest feedback from people here: Is this actually useful? What feels missing or confusing? Is the globe view helpful, or do you mainly want a cleaner list/filter experience? What would make something like this genuinely valuable for local Ethereum communities? Built it as a small project for the Ethereum community, and I’d love to improve it based on feedback.
 
-14h ago
+15h ago
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’ve had my eth staked for about 2 years now, net negative on the eth itself but I’ve gained what would be ≈4 percent more worth of ETH than I had before. To me it was the easiest way to stake given that I don’t have 32 eth. I appreciate the protocol for being a decentralized way to stake, heard there’s some liquidity issues in terms of getting your Eth back after staking but that’s a problem for the future. Anyone have any input on rocket pool?!
 
-20h ago
+22h ago
 
 ---
 
@@ -134,7 +134,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[ZK-powered order book DEXs are quietly becoming the most interesting sector in DeFi. Is anyone else paying attention?](https://www.reddit.com/r/ethereum/comments/1sdxks3/zkpowered_order_book_dexs_are_quietly_becoming/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -150,11 +150,27 @@ Hi, I used to work as a technical full-stack developer and recently I spent some
 
 ## Google News: "ethereum"
 
-**[5 New Risks to Ethereum Just Surfaced. Is The Coin Still a Buy?](https://www.fool.com/investing/2026/04/08/5-new-risks-to-ethereum-just-surfaced/?.tsrc=rss)**
+**[Ethereum flipped in 2026? Predictions & Odds](https://polymarket.com/event/eth-flipped-in-2026)**
 
-The chain is now in a race against time to update its core security technology.
+View real-time odds for "Ethereum flipped in 2026?" as of March 15, 2026 and trade on The World's Largest Prediction Market™
 
-The Motley Fool • 3h ago
+Polymarket • 3mo ago
+
+---
+
+**[The Case for Ethereum as the Most Useful Cryptocurrency in Existence](https://www.fool.com/investing/2026/04/08/the-case-for-ethereum-as-the-most-useful-cryptocur/)**
+
+Ethereum's utility makes it an attractive investment option during the current market turndown.
+
+The Motley Fool • 1h ago
+
+---
+
+**[Current price of Ethereum for April 8, 2026](https://fortune.com/article/price-of-ethereum-04-08-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 14m ago
 
 ---
 
@@ -162,7 +178,7 @@ The Motley Fool • 3h ago
 
 The cryptocurrency market has switched bullish, with Bitcoin and Ether recording excellent gains in the last 24 hours.Ether, the second-largest cryptocurrency by market cap, is up by more than 6% in the last 24 hours and is now trading above $2,250 per coin. The rally comes after a ceasefire agreem…
 
-TradingView • 1h ago
+TradingView • 3h ago
 
 ---
 
@@ -170,7 +186,7 @@ TradingView • 1h ago
 
 Bit Digital, Inc. (Nasdaq: BTBT), today announced its monthly Ethereum (“ETH”) treasury and staking metrics for the month of March 2026.
 
-Bit Digital • 20h ago
+Bit Digital • 22h ago
 
 ---
 
@@ -188,25 +204,17 @@ Forbes • 1d ago
 
 ---
 
-**[Bitcoin Price Surges Above $70,000. Ethereum, XRP Jump as Cryptos Rally on Iran Hope.](https://www.barrons.com/livecoverage/stock-market-news-today-040826/card/bitcoin-price-surges-above-70-000-ethereum-xrp-jump-as-cryptos-rally-on-iran-hope--t39yDg8hAQB3teeCb0lm)**
-
-Barron's • 3h ago
-
----
-
 **[Ethereum stablecoin supply hits $180B ATH: Is ETH demand mispriced?](https://seekingalpha.com/news/4573026-ethereum-stablecoin-supply-hits-180b-ath-is-eth-demand-mispriced)**
 
 Ethereum’s stablecoin supply hits ~$180B ATH and ETF inflows rise as whale money shifts to ETH.
 
-Seeking Alpha • 19h ago
+Seeking Alpha • 21h ago
 
 ---
 
-**[Ethereum Up or Down - 5 Minutes](https://polymarket.com/event/eth-updown-5m-1775642400)**
+**[Bitcoin Price Surges Above $70,000. Ethereum, XRP Jump as Cryptos Rally on Iran Hope.](https://www.barrons.com/livecoverage/stock-market-news-today-040826/card/bitcoin-price-surges-above-70-000-ethereum-xrp-jump-as-cryptos-rally-on-iran-hope--t39yDg8hAQB3teeCb0lm)**
 
-Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
-
-Polymarket • 1d ago
+barrons.com • 5h ago
 
 ---
 
@@ -215,14 +223,6 @@ Polymarket • 1d ago
 Circle’s upcoming Arc blockchain is gearing up for quantum resilience, revealing a multi-step roadmap to prepare for the looming threat.
 
 Decrypt • 1d ago
-
----
-
-**[Current price of Ethereum for April 7, 2026](https://fortune.com/article/price-of-ethereum-04-07-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 22h ago
 
 ---
 
@@ -236,7 +236,7 @@ BITCOIN SQUEEZE: This Changes Everything (Urgent)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 6K • 👍 260 • 💬 355 • ⏱️ 23:11 • 10h ago
+👁️ 6K • 👍 260 • 💬 355 • ⏱️ 23:11 • 12h ago
 
 ---
 
@@ -256,7 +256,7 @@ In this video, I take a closer look at the current Ethereum market structure and
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 181 • 💬 8 • ⏱️ 11:32 • 14h ago
+👁️ 3K • 👍 181 • 💬 8 • ⏱️ 11:32 • 16h ago
 
 ---
 
@@ -296,7 +296,7 @@ Daily BTC, ETH, TSLA trades. Subscribe. Bybit bonus up to $30000 https://partner
 
 📺 James Crypto Guru
 
-👁️ 1K • 👍 114 • 💬 15 • ⏱️ 9:42 • 9h ago
+👁️ 1K • 👍 114 • 💬 15 • ⏱️ 9:42 • 11h ago
 
 ---
 
@@ -306,7 +306,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 1K • 👍 126 • ⏱️ 6:11 • 8h ago
+👁️ 1K • 👍 126 • ⏱️ 6:11 • 10h ago
 
 ---
 
@@ -316,7 +316,7 @@ An ex-BlackRock executive explains why Ethereum is the infrastructure for the fu
 
 📺 SamAlτcoin_eth
 
-👁️ 887 • 👍 12 • ⏱️ 2:23 • 12h ago
+👁️ 887 • 👍 12 • ⏱️ 2:23 • 14h ago
 
 ---
 
@@ -326,7 +326,7 @@ As AI-generated content floods the internet, the need for verified human identit
 
 📺 Eightco | NASDAQ: ORBS
 
-👁️ 890 • 👍 11 • 💬 1 • ⏱️ 1:06 • 11h ago
+👁️ 890 • 👍 11 • 💬 1 • ⏱️ 1:06 • 13h ago
 
 ---
 
