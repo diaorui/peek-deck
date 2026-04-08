@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-08T16:15:33.201410+00:00'
+updated: '2026-04-08T17:40:22.135533+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
-- videos
+- cryptocurrency
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 08, 2026 at 16:15 UTC  
+**Last Updated:** April 08, 2026 at 17:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $71,099.95
+### $71,770.68
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +3.8%  
-**7d:** +6.7%  
-**30d:** +2.0%  
-**90d:** -21.2%  
-**1y:** -13.6%  
+**24h:** +4.9%  
+**7d:** +7.3%  
+**30d:** +2.7%  
+**90d:** -20.7%  
+**1y:** -13.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1422.92B
+**Market Cap:** $1437.97B
 Rank #1
 
-**Circulating Supply:** 20,013,056 BTC
+**Circulating Supply:** 20,013,134 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--43.7%
+-43.0%
 
 **All-Time Low:** $67.81
-+104670.7%
++105815.1%
 
 ---
 
@@ -77,11 +77,19 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Iran Wants Bitcoin Payments From Oil Ships Seeking Hormuz Passage: FT](https://www.reddit.com/r/Bitcoin/comments/1sfwzn0/iran_wants_bitcoin_payments_from_oil_ships/)**
+
+Iranian officials said Bitcoin payments would ensure the tolls “can’t be traced or confiscated due to sanctions.”
+
+🔗 [Decrypt](https://decrypt.co/363641/iran-bitcoin-payments-oil-ships-seeking-hormuz-passage) • 1h ago
+
+---
+
 **[Bitcoin dip buyers gobbled up nearly 850,000 BTC between $60,000 and $70,000](https://www.reddit.com/r/Bitcoin/comments/1sftlg9/bitcoin_dip_buyers_gobbled_up_nearly_850000_btc/)**
 
 A ton of BTC was recently traded below $70,000 in a sign of strong dip demand.
 
-🔗 [coindesk.com](https://www.coindesk.com/markets/2026/04/08/bitcoin-buyers-gobbled-up-nearly-850-000-btc-between-usd60-000-and-usd70-000) • 2h ago
+🔗 [coindesk.com](https://www.coindesk.com/markets/2026/04/08/bitcoin-buyers-gobbled-up-nearly-850-000-btc-between-usd60-000-and-usd70-000) • 3h ago
 
 ---
 
@@ -89,13 +97,13 @@ A ton of BTC was recently traded below $70,000 in a sign of strong dip demand.
 
 Morgan Stanley's bitcoin ETF comes with a 0.14% annual fee, making it the lowest in the spot BTC ETF market and undercutting BlackRock's IBIT (0.25%)
 
-1h ago
+3h ago
 
 ---
 
 **[Everyone right now](https://www.reddit.com/r/Bitcoin/comments/1sfe1rq/everyone_right_now/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -103,13 +111,13 @@ Morgan Stanley's bitcoin ETF comes with a 0.14% annual fee, making it the lowest
 
 Shall i accumulate more? Or wait and hodl.
 
-4h ago
+6h ago
 
 ---
 
 **[NYT says Adam Back is Satoshi](https://www.reddit.com/r/Bitcoin/comments/1sfobpm/nyt_says_adam_back_is_satoshi/)**
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html) • 6h ago
+🔗 [nytimes.com](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html) • 7h ago
 
 ---
 
@@ -117,15 +125,15 @@ Shall i accumulate more? Or wait and hodl.
 
 Morgan Stanley’s Bitcoin exchange-traded fund is set to debut on the NYSE Arca stock exchange on Wednesday, making it the first major commercial bank to offer a Bitcoin ETF in the US.The launch of the Morgan Stanley Bitcoin Trust (MSBT) on April 8 was confirmed in a listing notice by the New York S…
 
-🔗 [TradingView](https://www.tradingview.com/news/cointelegraph:7fd1c9c81094b:0-morgan-stanley-s-bitcoin-etf-set-to-launch-on-wednesday/) • 8h ago
+🔗 [TradingView](https://www.tradingview.com/news/cointelegraph:7fd1c9c81094b:0-morgan-stanley-s-bitcoin-etf-set-to-launch-on-wednesday/) • 10h ago
 
 ---
 
-**[Iran Wants Bitcoin Payments From Oil Ships Seeking Hormuz Passage: FT](https://www.reddit.com/r/Bitcoin/comments/1sfwzn0/iran_wants_bitcoin_payments_from_oil_ships/)**
+**[Strait of Hormus Transit Tolls Payable in BTC?](https://www.reddit.com/r/Bitcoin/comments/1sfygfh/strait_of_hormus_transit_tolls_payable_in_btc/)**
 
-Iranian officials said Bitcoin payments would ensure the tolls “can’t be traced or confiscated due to sanctions.”
+https://www.coindesk.com/markets/2026/04/08/iran-eyes-crypto-toll-for-oil-tanker-transit-through-strait-of-hormuz
 
-🔗 [Decrypt](https://decrypt.co/363641/iran-bitcoin-payments-oil-ships-seeking-hormuz-passage) • 16m ago
+49m ago
 
 ---
 
@@ -133,7 +141,7 @@ Iranian officials said Bitcoin payments would ensure the tolls “can’t be tra
 
 short-term thinking leads to bad decisions trying to time the market usually fails patience beats constant trading What did Bitcoin teach you?
 
-1h ago
+2h ago
 
 ---
 
@@ -141,15 +149,7 @@ short-term thinking leads to bad decisions trying to time the market usually fai
 
 My “decision” process over the last few weeks went something like this: 65.5k → don’t invest yet, it will drop further 66.0k → dead cat bounce! 67.5k → fake out, sellers will win this fight 68.0k → too high, invest when it drops to 66.0k 71.5k → what the hell is going on? Time in the market beats timing the market, I know.
 
-16h ago
-
----
-
-**[Strategy Acquires 4,871 BTC and Now Holds 766,970 BTC](https://www.reddit.com/r/Bitcoin/comments/1sf5rbn/strategy_acquires_4871_btc_and_now_holds_766970/)**
-
-Strategy has acquired 4,871 BTC for ~$329.9 million at ~$67,718 per bitcoin. As of 4/5/2026, we hold 766,970 BTC acquired for ~$58.02 billion at ~$75,644 per bitcoin.
-
-🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-4871-btc-and-now-holds-766970-btc_04-06-2026) • 20h ago
+18h ago
 
 ---
 
@@ -157,17 +157,29 @@ Strategy has acquired 4,871 BTC for ~$329.9 million at ~$67,718 per bitcoin. As 
 
 ## Google News: "bitcoin"
 
-**[My Quest to Solve Bitcoin’s Great Mystery](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)**
+**[Who Is Satoshi Nakamoto? My Quest to Unmask Bitcoin’s Creator](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)**
 
-The New York Times • 12h ago
+The New York Times • 13h ago
 
 ---
 
-**[Bitcoin payments allowed for Hormuz tanker tolls as Iran seeks up to $2 million per ship: FT](https://www.theblock.co/post/396711/bitcoin-payments-allowed-hormuz-tanker-tolls-iran-2-million-per-ship-report)**
+**[Morgan Stanley Debuts Bitcoin ETF as Price Slump Rattles Holders](https://www.bloomberg.com/news/articles/2026-04-08/morgan-stanley-debuts-bitcoin-etf-as-price-slump-rattles-holders)**
 
-Iran is reportedly open transit tolls paid in bitcoin and crypto for ships crossing the Strait of Hormuz amid volatile ceasefire.
+Bloomberg.com • 5h ago
 
-The Block • 1h ago
+---
+
+**[Morgan Stanley's low-cost spot Bitcoin ETF launches to meet 'growing client interest' in crypto](https://www.theblock.co/post/396699/morgan-stanleys-low-cost-spot-bitcoin-etf-launches-to-meet-growing-client-interest-in-crypto)**
+
+The bank boasts "the largest network of financial advisors 16,000 advisors managing $6.2 trillion" according to an analyst.
+
+The Block • 4h ago
+
+---
+
+**[Did The NYT Identify Bitcoin's Creator? Morgan Stanley Launches ETF, Cryptos Rally.](https://www.investors.com/news/bitcoin-price-satoshi-nakamoto-identity-nyt-investigation-adam-back-morgan-stanley-bitcoin-etf/)**
+
+Investor's Business Daily • 1h ago
 
 ---
 
@@ -175,7 +187,15 @@ The Block • 1h ago
 
 Iranian officials said Bitcoin payments would ensure the tolls “can’t be traced or confiscated due to sanctions.”
 
-Yahoo • 1h ago
+Yahoo • 3h ago
+
+---
+
+**[Bitcoin payments allowed for Hormuz tanker tolls as Iran seeks up to $2 million per ship: FT](https://www.theblock.co/post/396711/bitcoin-payments-allowed-hormuz-tanker-tolls-iran-2-million-per-ship-report)**
+
+Iran is reportedly open transit tolls paid in bitcoin and crypto for ships crossing the Strait of Hormuz amid volatile ceasefire.
+
+The Block • 3h ago
 
 ---
 
@@ -183,49 +203,29 @@ Yahoo • 1h ago
 
 Iran will still be levying a substantial toll, paid out in Bitcoin, for any oil tankers passing through, following the ceasefire announcement.
 
-futurism.com • 1h ago
+futurism.com • 2h ago
 
 ---
 
-**[My quest to solve bitcoin’s great mystery](https://triblive.com/news/world/my-quest-to-solve-bitcoins-great-mystery/)**
+**[How The Trumps Blew $1 Billion On Bitcoin](https://www.forbes.com/sites/danalexander/2026/04/08/how-the-trumps-blew-1-billion-on-bitcoin/)**
 
-triblive.com • 45m ago
-
----
-
-**[Cryptocurrency Warning—Bitcoin Blockchain Hack Alarm Sounded By Google](https://www.forbes.com/sites/daveywinder/2026/04/08/cryptocurrency-warning-bitcoin-blockchain-hack-alarm-sounded-by-google/)**
-
-Forbes • 1h ago
+Forbes • 6h ago
 
 ---
 
-**[Bitcoin Jumps to Three-Week High on US-Iran Ceasefire Plan](https://www.bloomberg.com/news/articles/2026-04-08/bitcoin-jumps-to-three-week-high-on-us-iran-ceasefire-plan)**
+**[Bitcoin has been the 'shining light' during the Iran war, says Anthony Pompliano](https://www.cnbc.com/video/2026/04/07/bitcoin-has-been-the-shining-light-during-the-iran-war-says-anthony-pompliano.html)**
 
-bloomberg.com • 2h ago
+Anthony Pompliano, ProCap Financial CEO, joins 'Squawk Box' to discuss bitcoin's performance amid the Iran war, global bitcoin adoption, his company's latest agentic AI financial services, and more.
 
----
-
-**[Bitcoin dip buying surges as 850K BTC cluster between $60K and $70K](https://www.coindesk.com/markets/2026/04/08/bitcoin-buyers-gobbled-up-nearly-850-000-btc-between-usd60-000-and-usd70-000)**
-
-A ton of BTC was recently traded below $70,000 in a sign of strong dip demand.
-
-CoinDesk • 4h ago
+CNBC • 1d ago
 
 ---
 
-**[Market Crash: The Cryptocurrencies I'd Buy Without Hesitation](https://www.fool.com/investing/2026/04/07/market-crash-the-cryptocurrencies-id-buy-without-h/)**
+**[Bitcoin jumps on US-Iran ceasefire talks, long-term rally remains uncertain: analyst](https://www.theblock.co/post/396607/bitcoin-jumps-us-iran-ceasefire)**
 
-The odds of a crash look a touch elevated, so it's important to plan ahead just in case.
+One analyst noted that a full resolution is needed for the current upward momentum to be translated into a long-term bull cycle.
 
-The Motley Fool • 15h ago
-
----
-
-**[Current price of Bitcoin for April 8, 2026](https://fortune.com/article/price-of-bitcoin-04-08-2026/)**
-
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-fortune.com • 3h ago
+The Block • 15h ago
 
 ---
 
@@ -237,13 +237,13 @@ fortune.com • 3h ago
 
 Neha Narula
 
-⬆️ 160 • 💬 119 • 19h ago • [nehanarula.org](https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html)
+⬆️ 161 • 💬 122 • 20h ago • [nehanarula.org](https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html)
 
 ---
 
 **[Who Is Satoshi Nakamoto? My Quest to Unmask Bitcoin's Creator](https://news.ycombinator.com/item?id=47685320)**
 
-⬆️ 121 • 💬 54 • 11h ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)
+⬆️ 133 • 💬 62 • 13h ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)
 
 ---
 
@@ -251,7 +251,7 @@ Neha Narula
 
 Country’s oil exporters’ union says toll to be paid in cryptocurrency and vessels monitored for weapons
 
-⬆️ 56 • 💬 69 • 2h ago • [ft.com](https://www.ft.com/content/02aefac4-ea62-48db-9326-c0da373b11b8)
+⬆️ 86 • 💬 131 • 3h ago • [ft.com](https://www.ft.com/content/02aefac4-ea62-48db-9326-c0da373b11b8)
 
 ---
 
@@ -265,7 +265,7 @@ Google Quantum AI: Quantum computer could break Bitcoin cryptography with under 
 
 **[Takeaways from Our Search for Bitcoin's Creator](https://news.ycombinator.com/item?id=47689167)**
 
-⬆️ 6 • 💬 1 • 3h ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/takeaways-satoshi-nakamoto-bitcoin-adam-back.html)
+⬆️ 7 • 💬 1 • 5h ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/takeaways-satoshi-nakamoto-bitcoin-adam-back.html)
 
 ---
 
@@ -273,7 +273,7 @@ Google Quantum AI: Quantum computer could break Bitcoin cryptography with under 
 
 April 03, 2026 - A new $100 million bond deal reveals exactly how traditional finance values BTC as collateral. The numbers are sobering, and the
 
-⬆️ 4 • 💬 2 • 4d ago • [Bitcoin, Altcoins, Crypto News & Financial Market News](https://catenaa.com/markets/cryptocurrencies/moodys-bitcoin-collateral-haircut/)
+⬆️ 4 • 💬 2 • 5d ago • [Bitcoin, Altcoins, Crypto News & Financial Market News](https://catenaa.com/markets/cryptocurrencies/moodys-bitcoin-collateral-haircut/)
 
 ---
 
@@ -302,7 +302,7 @@ Test your prediction skills against historical data. Draw your forecast and see 
 This post is a direct follow-up to my recent articles about the new home server with openSUSE MicroOS and the Minisforum MS-S1 Max. Those covered the foundation. Here I want to show one concrete use for it: putting together a decent Bitcoin stack at home, focused on privacy, operational sovereignty and safe transactions on my side.
 First things first: this isn’t an evangelism piece or a day-trading pitch. Quite the opposite. As I write this, on April 1, 2026, Bitcoin is around US$ 68k and close to R$ 391k, below the 2025 peaks. Plenty of people look at that and either panic or start fantasizing about leveraged trades. I think both reactions are wrong. There’s a “super cycle” thesis floating around based on institutional demand, spot ETFs and the lagged halving effect. Maybe. Maybe not. What I do know is that short-term candles don’t change the part I actually care about: infrastructure. If you need leverage to “speed up your gains,” you’re probably just speeding up your chances of getting liquidated.
 
-⬆️ 1 • 💬 2 • 18h ago • [akitaonrails.com](https://akitaonrails.com/en/2026/04/01/bitcoin-on-the-home-server-sovereignty-with-coldcard-sparrow-fulcrum/)
+⬆️ 1 • 💬 2 • 19h ago • [akitaonrails.com](https://akitaonrails.com/en/2026/04/01/bitcoin-on-the-home-server-sovereignty-with-coldcard-sparrow-fulcrum/)
 
 ---
 
@@ -316,7 +316,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 WEE
 
 📺 Altcoin Daily
 
-👁️ 33K • 👍 2K • 💬 448 • ⏱️ 9:28 • 16h ago
+👁️ 36K • 👍 2K • 💬 454 • ⏱️ 9:28 • 17h ago
 
 ---
 
@@ -326,7 +326,7 @@ Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FR
 
 📺 CryptosRUs
 
-👁️ 5K • 👍 471 • 💬 135 • ⏱️ 37:24 • 1h ago
+👁️ 10K • 👍 727 • 💬 73 • ⏱️ 37:24 • 3h ago
 
 ---
 
@@ -336,7 +336,7 @@ BRACE YOURSELF... Crypto is about to get ABSOLUTELY CRAZY! For more info on BTQ 
 
 📺 Altcoin Daily
 
-👁️ 45K • 👍 3K • 💬 411 • ⏱️ 9:57 • 1d ago
+👁️ 46K • 👍 3K • 💬 411 • ⏱️ 9:57 • 1d ago
 
 ---
 
@@ -346,27 +346,7 @@ Anthony Pompliano, ProCap Financial CEO, joins 'Squawk Box' to discuss bitcoin's
 
 📺 CNBC Television
 
-👁️ 14K • 👍 153 • 💬 162 • ⏱️ 5:56 • 1d ago
-
----
-
-**[The Digital Money Shift To Bitcoin That Nobody Can Stop! #bitcoin #tombilyeu #crypto](https://www.youtube.com/watch?v=doKeH3FC0ew)**
-
-Tom breaks down why he doesn't sweat Bitcoin's price swings—because he's thinking in years, not days. From digitizing money to ...
-
-📺 Tom Bilyeu Clips
-
-👁️ 1K • 👍 20 • 💬 1 • ⏱️ 0:56 • 15h ago
-
----
-
-**[BREAKING!!! BITCOIN EXPLODES ON TRUMP CEASEFIRE ](https://www.youtube.com/watch?v=vOiPmj3J8M0)**
-
-Bitcoin pumps as Trump Iran ceasefire starts! BITUNIX TRADE THE TOP COINS (available everywhere) ...
-
-📺 Lark Davis
-
-👁️ 8K • 👍 613 • 💬 61 • ⏱️ 13:41 • 6h ago
+👁️ 14K • 👍 159 • 💬 179 • ⏱️ 5:56 • 1d ago
 
 ---
 
@@ -388,13 +368,31 @@ Something big just shifted behind the scenes and most people missed it. BlackRoc
 
 ---
 
-**[Morgan Stanley Spot Bitcoin ETF Trading Starts Tomorrow – Is a Massive BTC Rally Coming Now?](https://www.youtube.com/watch?v=JnK5M_w1wQ8)**
+**[BREAKING!!! BITCOIN EXPLODES ON TRUMP CEASEFIRE ](https://www.youtube.com/watch?v=vOiPmj3J8M0)**
 
-IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purposes only. NOT financial, investment, or ...
+Bitcoin pumps as Trump Iran ceasefire starts! BITUNIX TRADE THE TOP COINS (available everywhere) ...
 
-📺 The Kenzo Guy
+📺 Lark Davis
 
-👁️ 6K • 👍 302 • 💬 16 • ⏱️ 22:54 • 17h ago
+👁️ 11K • 👍 692 • 💬 65 • ⏱️ 13:41 • 7h ago
+
+---
+
+**[This Is Why BITCOIN Price Is Down (BIG BANKS)](https://www.youtube.com/watch?v=5SOS_4QqB34)**
+
+📺 Discover Crypto
+
+👁️ 8K • 👍 66 • 💬 43 • ⏱️ 0:12 • 17h ago
+
+---
+
+**[BITCOIN LOVES THIS](https://www.youtube.com/watch?v=6J0Yf-4xqGY)**
+
+Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FREE Crypto Predictions & Compete Weekly ...
+
+📺 CryptosRUs
+
+👁️ 14K • 👍 886 • 💬 473 • ⏱️ 8:23 • 17h ago
 
 ---
 
@@ -404,7 +402,7 @@ The Greatest SUI Crypto Explanation of All Time Follow Sui: https://x.com/SuiNet
 
 📺 Altcoin Daily
 
-👁️ 22K • 👍 1K • 💬 250 • ⏱️ 35:55 • 23h ago
+👁️ 23K • 👍 1K • 💬 256 • ⏱️ 35:55 • 1d ago
 
 ---
 

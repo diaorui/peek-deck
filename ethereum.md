@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-08T16:15:33.207269+00:00'
+updated: '2026-04-08T17:40:22.141517+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
-- videos
+- cryptocurrency
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 08, 2026 at 16:15 UTC  
+**Last Updated:** April 08, 2026 at 17:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,215.17
+### $2,224.80
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +5.5%  
-**7d:** +7.8%  
-**30d:** +8.8%  
-**90d:** -28.2%  
-**1y:** +32.8%  
+**24h:** +7.1%  
+**7d:** +8.5%  
+**30d:** +9.5%  
+**90d:** -27.7%  
+**1y:** +33.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $266.00B
+**Market Cap:** $268.79B
 Rank #2
 
 **Circulating Supply:** 120,691,160 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--55.5%
+-54.9%
 
 **All-Time Low:** $0.43
-+508522.8%
++515380.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 World Liberty Financial deposited 3B WLFI tokens as collateral to borrow $50M of its own stablecoin, pushing its lending pool into negative liquidity and raising concerns over circular treasury practices, governance risks, and regulatory scrutiny.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/trumps-crypto-project-just-borrowed-50-million-against-its-own-token-and-broke-the-lending-pool/) • 6h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/trumps-crypto-project-just-borrowed-50-million-against-its-own-token-and-broke-the-lending-pool/) • 7h ago
 
 ---
 
@@ -80,7 +80,7 @@ World Liberty Financial deposited 3B WLFI tokens as collateral to borrow $50M of
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I've learnt that we can now invest in gold directly in crypto, which is quite exciting as I don't trust any bank or broker, so here's a few questions: Is this safe? What is the best within Paxos or Tether gold, is this as trustable as USDT/Stablecoins? How to buy it?
 
-17h ago
+19h ago
 
 ---
 
@@ -96,7 +96,7 @@ I've learnt that we can now invest in gold directly in crypto, which is quite ex
 
 I just built ethlocal.world: a simple way to explore Ethereum activity around the world. The idea was pretty straightforward: Ethereum is global, but it can still be surprisingly hard to get a quick sense of what’s happening locally or regionally. So I made a site that maps events and communities in one place and lets you browse by region and type. It takes data from ethereum.org and was inspired by the Codex Ambassadors globe. Link: https://ethlocal.world Would love honest feedback from people here: Is this actually useful? What feels missing or confusing? Is the globe view helpful, or do you mainly want a cleaner list/filter experience? What would make something like this genuinely valuable for local Ethereum communities? Built it as a small project for the Ethereum community, and I’d love to improve it based on feedback.
 
-18h ago
+20h ago
 
 ---
 
@@ -160,23 +160,15 @@ polymarket.com • 3mo ago
 
 **[BlackRock’s 18% Ethereum Staking Cut: Too Much Or Just Right?](https://www.forbes.com/sites/astanley/2026/04/08/blackrocks-18-ethereum-staking-cut-too-much-or-just-right/)**
 
-Forbes • 27m ago
+Forbes • 1h ago
 
 ---
 
-**[Current price of Ethereum for April 8, 2026](https://fortune.com/article/price-of-ethereum-04-08-2026/)**
+**[Ethereum Foundation Announces 5k ETH TWAP Sale](https://finance.yahoo.com/markets/crypto/articles/ethereum-foundation-announces-5k-eth-160255641.html)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+The EF is offloading approximately $11M worth of ether today via CoWSwap to fund R&D, grants, and donations.
 
-fortune.com • 3h ago
-
----
-
-**[Bitcoin and ethereum price today, Wednesday, April 8, 2026: Prices rise after U.S.-Iran ceasefire announcement](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-wednesday-april-8-2026-prices-rise-after-us-iran-ceasefire-announcement-113837833.html)**
-
-Bitcoin (BTC-USD) opened higher at $71,926.16 and ethereum (ETH-USD) opened higher at $2,239.89 following President Trump’s announcement of a temporary ceasefire agreement with Iran.
-
-Yahoo Finance • 4h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -188,19 +180,33 @@ Bit Digital • 1d ago
 
 ---
 
-**[The Case for Ethereum as the Most Useful Cryptocurrency in Existence](https://www.fool.com/investing/2026/04/08/the-case-for-ethereum-as-the-most-useful-cryptocur/)**
-
-Ethereum's utility makes it an attractive investment option during the current market turndown.
-
-The Motley Fool • 4h ago
-
----
-
 **[Ethereum stablecoin supply hits $180B ATH: Is ETH demand mispriced?](https://seekingalpha.com/news/4573026-ethereum-stablecoin-supply-hits-180b-ath-is-eth-demand-mispriced)**
 
 Ethereum’s stablecoin supply hits ~$180B ATH and ETF inflows rise as whale money shifts to ETH.
 
-Seeking Alpha • 23h ago
+seekingalpha.com • 1d ago
+
+---
+
+**[The Case for Ethereum as the Most Useful Cryptocurrency in Existence](https://www.fool.com/investing/2026/04/08/the-case-for-ethereum-as-the-most-useful-cryptocur/)**
+
+Ethereum's utility makes it an attractive investment option during the current market turndown.
+
+The Motley Fool • 5h ago
+
+---
+
+**[Current price of Ethereum for April 8, 2026](https://fortune.com/article/price-of-ethereum-04-08-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+fortune.com • 4h ago
+
+---
+
+**[Ethereum’s Silver Medal Slips as Prediction Markets Brace for a $1,500 Floor](https://www.tipranks.com/news/ethereums-silver-medal-slips-as-prediction-markets-brace-for-a-1500-floor)**
+
+TipRanks • 4h ago
 
 ---
 
@@ -208,21 +214,13 @@ Seeking Alpha • 23h ago
 
 Ethereum exchange reserves have fallen to a record low, even as the token trades near $2,15 and still struggles to break out.CryptoQuant data shows reserves are down about 77% from their 2021 peak, while CoinGlass data points to a surge in futures activity, with volume topping close to $50 billion…
 
-TradingView • 14h ago
-
----
-
-**[Circle’s Arc Network Reveals Quantum Resistance Plans as Bitcoin, Ethereum Face Threat](https://decrypt.co/363395/circle-arc-network-quantum-resistance-bitcoin-ethereum-face-threat)**
-
-Circle’s upcoming Arc blockchain is gearing up for quantum resilience, revealing a multi-step roadmap to prepare for the looming threat.
-
-Decrypt • 2d ago
+TradingView • 15h ago
 
 ---
 
 **[Bitcoin Price Surges Above $70,000. Ethereum, XRP Jump as Cryptos Rally on Iran Hope.](https://www.barrons.com/livecoverage/stock-market-news-today-040826/card/bitcoin-price-surges-above-70-000-ethereum-xrp-jump-as-cryptos-rally-on-iran-hope--t39yDg8hAQB3teeCb0lm)**
 
-Barron's • 8h ago
+Barron's • 9h ago
 
 ---
 
@@ -230,13 +228,23 @@ Barron's • 8h ago
 
 ## YouTube Videos: "ethereum"
 
+**[Tom Lee &amp; Raoul Pal: &quot;Don&#39;t SELL Your Ethereum Before Watching This&quot; | [2026 Crypto Prediction]](https://www.youtube.com/watch?v=Cjdfxhy2Ids)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 641 • 👍 73 • 💬 14 • ⏱️ 20:08 • 1h ago
+
+---
+
 **[CRYPTO&#39;S NEXT MOVE IN MACRO UNCERTAINTY! BITCOIN, XRP, ETHEREUM, &amp; SOLANA ANALYSIS!](https://www.youtube.com/watch?v=UK9Dx6GZrr0)**
 
 Brian from Santiment joined me to review the crypto market metrics for Bitcoin, XRP, Ethereum, and Solana. 🖥️ Sign up with ...
 
 📺 Thinking Crypto
 
-👁️ 506 • 👍 75 • 💬 5 • ⏱️ 26:32 • 3h ago
+👁️ 985 • 👍 107 • 💬 12 • ⏱️ 26:32 • 5h ago
 
 ---
 
@@ -246,37 +254,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 168 • 👍 15 • ⏱️ 4:53 • 7h ago
-
----
-
-**[BITCOIN SQUEEZE: This Changes Everything (Urgent)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=_2ErQSljisg)**
-
-BITCOIN SQUEEZE: This Changes Everything (Urgent)!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
-
-📺 Crypto World
-
-👁️ 7K • 👍 276 • 💬 317 • ⏱️ 23:11 • 15h ago
-
----
-
-**[🚨 BTC &amp; ETH: 24 HOURS!!!! ACT ACT ACT!!!!!!](https://www.youtube.com/watch?v=ewMAck4UjHk)**
-
-This is huge for crypto, bitcoin, ethereum and the rest of the markets!!!!! ---------- EXCHANGE BONUSES Trade Non KYC ...
-
-📺 Thomas Kralow
-
-👁️ 23K • 👍 3K • 💬 41 • ⏱️ 9:21 • 2d ago
-
----
-
-**[Tom Lee: Important Warning To All Ethereum Holders - The Bottom Is Already In [2026 Prediction]](https://www.youtube.com/watch?v=C-KAuuOgAac)**
-
-Get 5% off the BitBox02 and take your crypto off exchanges → https://bitbox.swiss/nutshell ⮕ My FREE Daily 5-Min Crypto ...
-
-📺 Crypto Nutshell
-
-👁️ 9K • 👍 336 • 💬 54 • ⏱️ 19:32 • 3d ago
+👁️ 253 • 👍 15 • ⏱️ 4:53 • 8h ago
 
 ---
 
@@ -296,37 +274,57 @@ In this video, I take a closer look at the current Ethereum market structure and
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 188 • 💬 11 • ⏱️ 11:32 • 19h ago
+👁️ 3K • 👍 190 • 💬 11 • ⏱️ 11:32 • 20h ago
 
 ---
 
-**[Ethereum (ETH) Bull Run Trigger? Targets &amp; Key Levels in Elliott Wave Analysis](https://www.youtube.com/watch?v=dmt3aOsi8uU)**
+**[CRYPTO LIVE TRADING || 8 APRIL  | ‪@ClockTraderlive‬ #bitcoin #ethereum #crypto #btclivetrading](https://www.youtube.com/watch?v=V8o-gB2CQ_c)**
 
-DISCORD MEMBERSHIPS Patreon Membership → https://www.patreon.com/c/KGTrading YouTube Membership ...
+join my social platforms for updates and analysis ✓Instagram: ...
 
-📺 KG TRADING - Crypto Elliott Waves
+📺 Aryan trader Live
 
-👁️ 50 • 👍 9 • 💬 2 • ⏱️ 5:57 • 4h ago
-
----
-
-**[Ethereum: One Last Rally Possible?](https://www.youtube.com/watch?v=7Zr0h1RYOAM)**
-
-In this video, I take a closer look at the current Ethereum market structure and explain why the recent move higher does not ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 198 • 💬 14 • ⏱️ 13:46 • 2d ago
+👁️ 9K • 👍 4K • 💬 1 • ⏱️ 1:57:28 • 2m ago
 
 ---
 
-**[AI on Ethereum: Proof of Human Technology](https://www.youtube.com/watch?v=EaxTCBd2tcI)**
+**[BITCOIN SQUEEZE: This Changes Everything (Urgent)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=_2ErQSljisg)**
 
-As AI-generated content floods the internet, the need for verified human identity has never been more urgent. That's where Proof ...
+BITCOIN SQUEEZE: This Changes Everything (Urgent)!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
 
-📺 Eightco | NASDAQ: ORBS
+📺 Crypto World
 
-👁️ 912 • 👍 11 • 💬 1 • ⏱️ 1:06 • 16h ago
+👁️ 7K • 👍 278 • 💬 318 • ⏱️ 23:11 • 16h ago
+
+---
+
+**[🚨 BTC &amp; ETH: 24 HOURS!!!! ACT ACT ACT!!!!!!](https://www.youtube.com/watch?v=ewMAck4UjHk)**
+
+This is huge for crypto, bitcoin, ethereum and the rest of the markets!!!!! ---------- EXCHANGE BONUSES Trade Non KYC ...
+
+📺 Thomas Kralow
+
+👁️ 23K • 👍 3K • 💬 41 • ⏱️ 9:21 • 2d ago
+
+---
+
+**[How to Earn Free Ethereum in 2026 – Real ETH Test | Honest Experiment](https://www.youtube.com/watch?v=jJ4Ql3ekaPo)**
+
+Can you actually get free Ethereum in 2026, or is it all just hype? I decided to put a popular ETH mining/claim method to the ...
+
+📺 Hitch Insights
+
+👁️ 3K • 👍 623 • 💬 524 • ⏱️ 6:14 • 1d ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=LBmwOU7UZQ4)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Crypto Gyan
+
+👁️ 330 • 👍 49 • ⏱️ 6:29 • 2h ago
 
 ---
 
