@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-07T23:07:03.115031+00:00'
+updated: '2026-04-08T00:03:00.404624+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 07, 2026 at 23:07 UTC  
+**Last Updated:** April 08, 2026 at 00:03 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From NVIDIA Robotics on 𝕏: https://x.com/NVIDIARobotics/status/2041349314262495265 NVIDIA blog: https://blogs.nvidia.com/blog/national-robotics-week-2026/#maximo
 
-13h ago
+14h ago
 
 ---
 
@@ -44,7 +44,7 @@ From NVIDIA Robotics on 𝕏: https://x.com/NVIDIARobotics/status/20413493142624
 
 Torobo Humanoid Robot by Tokyo Robotics that looks like Atlas by Boston Dynamics. They recently switched their Torobo robot to become bipedal.
 
-2h ago
+3h ago
 
 ---
 
@@ -52,7 +52,7 @@ Torobo Humanoid Robot by Tokyo Robotics that looks like Atlas by Boston Dynamics
 
 Generalist just dropped GEN-1, the first general-purpose robot Al that hits 99% success rate on tasks where older models managed only 64%. The wild part? It didn't learn from robots, it learned from humans wearing cameras doing everyday tasks. That data transfers to robots with minimal retraining.When things go wrong, it improvises regrasping, switching hands, adapting on the fly. No explicit programming.
 
-6h ago
+7h ago
 
 ---
 
@@ -60,7 +60,7 @@ Generalist just dropped GEN-1, the first general-purpose robot Al that hits 99% 
 
 Worried about EoL IsaacGym and tired of setting up IsaacLab? I ported TWIST2 general motion tracking controller to MjLab that supports uv so really one click training/testing. It also uses MjWarp as the physics engine which IMO is better than physx which the Isaac frameworks defaulted to in the past. GitHub: lzyang2000/twist2_mjlab Link in comments, credits to original authors of MjLab and TWIST2
 
-6h ago
+7h ago
 
 ---
 
@@ -82,7 +82,7 @@ I need help in placing the components on the robot for the best way to balance i
 
 I’m feeling really confused about where I stand right now and could use some guidance. I’ve just finished my 2nd year in Automation and Robotics, but honestly, I feel like I only know a little bit of everything and not enough of anything to confidently call it a real skill.I do well in my college curriculum but it doesn't guarantee I have skilled in it ( my opinion). I see so many people around me doing internships, certifications, research projects, and even gaining work experience, while I feel like I’m doing nothing meaningful in comparison, and it’s starting to get to me. I genuinely want to improve and make use of my time. I’m ready to put in consistent effort for the next 3–4 months, but I feel stuck because I don’t know what to focus on or where to begin. I’m unsure which skills actually matter in this field, how to go from basic understanding to real confidence, and how or where to even apply for internships as someone who still feels like a beginner. If anyone has been in a similar situation or has advice on how to move forward, I would really appreciate it. I just need some direction so I can stop feeling stuck and start making real progress.
 
-4h ago
+5h ago
 
 ---
 
@@ -90,7 +90,7 @@ I’m feeling really confused about where I stand right now and could use some g
 
 There are a lot of open jobs in automation right now, and a big part of the issue is that most people were never exposed to these careers in the first place. Robotics competitions are starting to change that. Programs like FIRST, VEX, and SkillsUSA give students hands-on experience with the same fundamentals used in industry. Mechanical design, programming, wiring, troubleshooting, sensors, motion systems. It’s not theoretical, they’re actually building and running systems. They also show how many different roles exist. Not everyone is coding. Some focus on design, some on integration, some on running the system or managing the team. When companies get involved through mentorships or sponsorships, it connects those skills directly to real careers. Internships, apprenticeships, and eventually full-time roles start to feel a lot more tangible.
 
-🔗 [Automate](https://www.automate.org/robotics/blogs/new-to-robotics-start-with-these-fundamentals) • 7h ago
+🔗 [Automate](https://www.automate.org/robotics/blogs/new-to-robotics-start-with-these-fundamentals) • 8h ago
 
 ---
 
@@ -98,7 +98,7 @@ There are a lot of open jobs in automation right now, and a big part of the issu
 
 pretty cool. want to test how much weight it can handle. This was inspired by colinfurze, he is an engineering YouTuber. My design is slightly different when compared to his. my bed tilts the other way, and i am using a lot smaller cylinders. anyways; i hope u guys watch when i release the full version. -Thanks
 
-🔗 [youtube.com](https://www.youtube.com/shorts/zKG5-5-94J4) • 12h ago
+🔗 [youtube.com](https://www.youtube.com/shorts/zKG5-5-94J4) • 13h ago
 
 ---
 
@@ -134,7 +134,7 @@ Fortune • 1d ago
 
 Scientists build living robots with functional nervous systems, giving biological machines internal control.
 
-Interesting Engineering • 20h ago
+Interesting Engineering • 21h ago
 
 ---
 
@@ -148,13 +148,13 @@ The Business Journals • 1d ago
 
 Hockey fans might remember former University of New Hampshire player Thomas Fortney, who tied a 2009 NCAA tournament game against North Dakota with a tenth of a second remaining in regulation.
 
-WMUR • 11m ago
+WMUR • 1h ago
 
 ---
 
 **[Cerebras Backer Eclipse Raises $1.3 Billion for Robotics, AI Infrastructure](https://www.bloomberg.com/news/articles/2026-04-07/cerebras-backer-eclipse-raises-1-3-billion-for-robotics-ai-infrastructure)**
 
-Bloomberg.com • 12h ago
+Bloomberg.com • 13h ago
 
 ---
 
@@ -162,7 +162,7 @@ Bloomberg.com • 12h ago
 
 Kraken announces the successful integration and demonstration of its KATFISH towed synthetic aperture sonar and autonomous launch and recovery system (LARS) from SEFINE’s RD-22 unmanned surface vessel
 
-navalnews.com • 10h ago
+navalnews.com • 11h ago
 
 ---
 
@@ -170,7 +170,7 @@ navalnews.com • 10h ago
 
 A Wakefield High School senior is heading to the VEX Robotics World Championship for the second year in a row — and this time, he's bringing an elementary school team with him. Greyson Schroeher has spent the school year mentoring two Arlington robotics teams that both qualified for the World Championship in St. Louis later
 
-ARLnow • 9h ago
+ARLnow • 10h ago
 
 ---
 
@@ -192,6 +192,16 @@ Tech Xplore • 1d ago
 
 ## YouTube Videos: "robotics"
 
+**[Yaskawa&#39;s Humanoid Robot Gets Legs and Better AI #robotics #humanoidrobot #robot](https://www.youtube.com/watch?v=Fmi7Fcksz-4)**
+
+Japan's Torobo humanoid robot is moving toward full autonomy with its new legs. Tokyo Robotics just shared footage of its ...
+
+📺 Kalil 4.0
+
+👁️ 875 • 👍 49 • 💬 3 • ⏱️ 0:46 • 4h ago
+
+---
+
 **[Shawn Ryan Tests a Real Humanoid Robot](https://www.youtube.com/watch?v=HWq9cFhTvvQ)**
 
 Shawn Ryan gets hands-on with a real humanoid robot powered entirely by AI. In this clip, we break down how this robot sees, ...
@@ -202,23 +212,13 @@ Shawn Ryan gets hands-on with a real humanoid robot powered entirely by AI. In t
 
 ---
 
-**[Yaskawa&#39;s Humanoid Robot Gets Legs and Better AI #robotics #humanoidrobot #robot](https://www.youtube.com/watch?v=Fmi7Fcksz-4)**
-
-Japan's Torobo humanoid robot is moving toward full autonomy with its new legs. Tokyo Robotics just shared footage of its ...
-
-📺 Kalil 4.0
-
-👁️ 355 • 👍 21 • ⏱️ 0:46 • 3h ago
-
----
-
 **[These NEW Human-Like AI Robots of 2026 Just SHOCKED the World!](https://www.youtube.com/watch?v=FOfieag6fi4)**
 
 The world wasn't ready for what 2026 had in store — a wave of humanoid robots so advanced, so eerily lifelike, that the line ...
 
 📺 The AI Nexus
 
-👁️ 6K • 👍 228 • 💬 16 • ⏱️ 16:42 • 1d ago
+👁️ 6K • 👍 230 • 💬 16 • ⏱️ 16:42 • 2d ago
 
 ---
 
@@ -228,17 +228,17 @@ US startup Foundation is developing humanoid robots for military use. The goal i
 
 📺 DW News
 
-👁️ 65K • 👍 521 • 💬 92 • ⏱️ 1:22 • 2d ago
+👁️ 67K • 👍 524 • 💬 93 • ⏱️ 1:22 • 2d ago
 
 ---
 
-**[Inside the World&#39;s Smartest Robot Brain](https://www.youtube.com/watch?v=2mrGMMmrVNE)**
+**[New GEN 1 AI Robot Hits 3X Faster At 1,800+ Reps (AI NEWS)](https://www.youtube.com/watch?v=IgwL5-IH6gU)**
 
-Welch Labs Book: https://www.welchlabs.com/resources/ai-book-ezrzm-msrmc Book & VLA Poster Bundle: ...
+AIR CONDITIONED SHIRTS??: https://octocool.com Generalist AI's GEN-1 embodied foundation model achieves 99% success ...
 
-📺 Welch Labs
+📺 AI News
 
-👁️ 87K • 👍 4K • 💬 221 • ⏱️ 35:02 • 3d ago
+👁️ 5K • 👍 143 • 💬 17 • ⏱️ 8:04 • 4d ago
 
 ---
 
@@ -248,7 +248,17 @@ The era of the Robot Mower is here and after 6 months of intensive use I feel I 
 
 📺 Proper DIY
 
-👁️ 31K • 👍 2K • 💬 120 • ⏱️ 11:47 • 2d ago
+👁️ 32K • 👍 2K • 💬 127 • ⏱️ 11:47 • 2d ago
+
+---
+
+**[I broke a robot in China](https://www.youtube.com/watch?v=7U3vjVfwChc)**
+
+China is leading the world in humanoid robot shipments. Powered by artificial intelligence, these machines are setting new ...
+
+📺 CGTN
+
+👁️ 33K • 👍 292 • 💬 60 • ⏱️ 1:54 • 5d ago
 
 ---
 
@@ -258,7 +268,7 @@ Joe Rogan Watches Soldier Test INSANE Robotic Legs #Shorts This is the future of
 
 📺 Silent Sentry
 
-👁️ 1.6M • 👍 21K • 💬 520 • ⏱️ 0:17 • 4d ago
+👁️ 1.7M • 👍 21K • 💬 526 • ⏱️ 0:17 • 4d ago
 
 ---
 
@@ -268,27 +278,15 @@ Get the update on your app store: https://wr.my.games/play ➡️ Get the update
 
 📺 War Robots [WR]
 
-👁️ 29K • 👍 1K • 💬 340 • ⏱️ 3:58 • 10h ago
+👁️ 34K • 👍 2K • 💬 358 • ⏱️ 3:58 • 11h ago
 
 ---
 
-**[Don&#39;t Waste Money On An Expensive Robot Vacuum!](https://www.youtube.com/watch?v=sMt_jOouNeM)**
+**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=4KM9QWO5__Q)**
 
-A flagship robot vacuum might be out your budget. We tested the affordable Dreame D30 Ultra. ✔️ Buy it on Amazon ...
+📺 Robot Julie 
 
-📺 Vacuum Nerds
-
-👁️ 5K • 👍 73 • 💬 30 • ⏱️ 8:48 • 3d ago
-
----
-
-**[I Spent 100 Hours In China&#39;s Robot City](https://www.youtube.com/watch?v=PXGK_MFShXU)**
-
-I spent 100 hours in the world's most futuristic city! WATCH MORE videos we filmed in China ▸ https://youtu.be/elF_v9sukWU ...
-
-📺 Hafu Go
-
-👁️ 649K • 👍 7K • 💬 258 • ⏱️ 25:46 • 3d ago
+👁️ 26K • 👍 115 • 💬 1 • ⏱️ 0:23 • 23h ago
 
 ---
 

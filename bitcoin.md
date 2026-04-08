@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-07T23:07:03.105813+00:00'
+updated: '2026-04-08T00:03:00.395484+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
 - cryptocurrency
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 07, 2026 at 23:07 UTC  
+**Last Updated:** April 08, 2026 at 00:03 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1395.18B
+**Market Cap:** $1439.69B
 Rank #1
 
-**Circulating Supply:** 20,012,765 BTC
+**Circulating Supply:** 20,012,821 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--44.6%
+-43.0%
 
 **All-Time Low:** $67.81
-+102958.5%
++105972.9%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[bitcoin provides mathematical certainty in a world that is more fake and uncertain than ever. There will only be 21,000,000 bitcoin, forever](https://www.reddit.com/r/Bitcoin/comments/1sezsdb/bitcoin_provides_mathematical_certainty_in_a/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Strategy has acquired 4,871 BTC for ~$329.9 million at ~$67,718 per bitcoin. As of 4/5/2026, we hold 766,970 BTC acquired for ~$58.02 billion at ~$75,644 per bitcoin.
 
-🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-4871-btc-and-now-holds-766970-btc_04-06-2026) • 3h ago
+🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-4871-btc-and-now-holds-766970-btc_04-06-2026) • 4h ago
 
 ---
 
@@ -95,7 +95,7 @@ Strategy has acquired 4,871 BTC for ~$329.9 million at ~$67,718 per bitcoin. As 
 
 Loading before launch
 
-8h ago
+9h ago
 
 ---
 
@@ -103,7 +103,7 @@ Loading before launch
 
 I'm looking for a cheap way to buy bitcoin, i'm getting a crazy rate on OKX which is all but okay. In Singaporean dollar BTC on OKX is 88.7k but when I preview my purchase it’s 90.0k, i'm speechless.
 
-1h ago
+2h ago
 
 ---
 
@@ -111,13 +111,13 @@ I'm looking for a cheap way to buy bitcoin, i'm getting a crazy rate on OKX whic
 
 There is a lot to talk about, but if you want to read more: https://www.xverse.app/blog/what-is-spark-bitcoin-l2 quick TL;DR: Spark is a Bitcoin L2 designed for fast, cheap, and self-custodial transactions, leveraging statechain tech and atomic swaps. Spark supports the issuance and transfer of stablecoins and tokens on Bitcoin, enabling new financial use cases such as payments, trading, and earning stablecoin yield. Spark provides a scalable ecosystem for wallets, developers, and businesses to build financial apps interoperable with Lightning Network and Taproot Assets. Wallet of Satoshi now integrates Spark, letting you create a self-custodial wallet, secure your 12 word seed, and seamlessly send/receive BTC on the Lightning Network while staying fully in control of your funds. hope many other lightning wallets such as Strike, Blink, Speed, Coinos implement Spark Welcome to the new era of scalability of BTC! Edit: After using the WoS self custody option with Spark, I noticed that WoS shows all your history with your Spark Key to the public, meaning that you should create your wallet in another app that has the privacy option as default such as Cake Wallet and then import your wallet to WoS.
 
-6h ago
+7h ago
 
 ---
 
 **[I think Satoshi Nakamoto is Alive](https://www.reddit.com/r/Bitcoin/comments/1sevvni/i_think_satoshi_nakamoto_is_alive/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -131,7 +131,7 @@ There is a lot to talk about, but if you want to read more: https://www.xverse.a
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/6tkKoMEiFDk?si=apOVGifqYreR3Pfm) • 5h ago
+🔗 [youtu.be](https://youtu.be/6tkKoMEiFDk?si=apOVGifqYreR3Pfm) • 6h ago
 
 ---
 
@@ -145,7 +145,7 @@ I just know it. So I won't buy just so the rest of you can make some money.
 
 **[Surge.Credit - Newsletter #2](https://www.reddit.com/r/Bitcoin/comments/1sfay89/surgecredit_newsletter_2/)**
 
-🔗 [surgecredit.substack.com](https://surgecredit.substack.com/p/surgecredit-newsletter-2) • 34m ago
+🔗 [surgecredit.substack.com](https://surgecredit.substack.com/p/surgecredit-newsletter-2) • 1h ago
 
 ---
 
@@ -155,7 +155,7 @@ I just know it. So I won't buy just so the rest of you can make some money.
 
 **[Bitcoin Slides With Risk Assets as Trump’s Iran Ultimatum Looms](https://www.bloomberg.com/news/articles/2026-04-07/bitcoin-slides-with-risk-assets-as-trump-s-iran-ultimatum-looms)**
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -171,7 +171,7 @@ Fortune • 1d ago
 
 New data suggests that Bitcoin (BTC) could be moving closer to a bull market phase as its supply slowly shifts back into long-term, retail-investor-linked wallets. The figure surpassed 4 million BTC in Q1 2026.The accumulation trend aligns with a rise in Bitcoin network activity index to levels las…
 
-TradingView • 1h ago
+TradingView • 2h ago
 
 ---
 
@@ -179,7 +179,7 @@ TradingView • 1h ago
 
 Leading cryptocurrencies rose overnight on Sunday while stock futures dipped as President Donald Trump’s warning to Iran put investors on edge. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:20 p.m. EDT)Bitcoin (CRYPTO: BTC)+2.52%$68,843.45Ethereum (CRYPTO: ETH) +2.68%$2,114.41XRP (CRYPTO: XRP) +1.12%$1.32Solana (CRYPTO: SOL) +1.59%$81.97Dogecoin...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -201,7 +201,7 @@ The Block • 16h ago
 
 Morgan Stanley is joining the Bitcoin ETF party late, but Bloomberg's Eric Balchunas says the investment bank isn't showing up empty-handed.
 
-Decrypt • 3h ago
+Decrypt • 4h ago
 
 ---
 
@@ -209,7 +209,7 @@ Decrypt • 3h ago
 
 Bitcoin ETFs offer the convenience of buying crypto from your standard brokerage account, but what are investors giving up for the privilege?
 
-New York Post • 14h ago
+New York Post • 15h ago
 
 ---
 
@@ -217,7 +217,7 @@ New York Post • 14h ago
 
 A new Charles Schwab research note reframes the question of crypto allocation as less about forecasting returns and more about an investor’s tolerance for volatility.
 
-Bitcoin Magazine • 6h ago
+Bitcoin Magazine • 7h ago
 
 ---
 
@@ -237,7 +237,7 @@ Investopedia • 1d ago
 
 Neha Narula
 
-⬆️ 54 • 💬 38 • 2h ago • [nehanarula.org](https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html)
+⬆️ 54 • 💬 38 • 3h ago • [nehanarula.org](https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html)
 
 ---
 
@@ -304,7 +304,7 @@ Test your prediction skills against historical data. Draw your forecast and see 
 This post is a direct follow-up to my recent articles about the new home server with openSUSE MicroOS and the Minisforum MS-S1 Max. Those covered the foundation. Here I want to show one concrete use for it: putting together a decent Bitcoin stack at home, focused on privacy, operational sovereignty and safe transactions on my side.
 First things first: this isn’t an evangelism piece or a day-trading pitch. Quite the opposite. As I write this, on April 1, 2026, Bitcoin is around US$ 68k and close to R$ 391k, below the 2025 peaks. Plenty of people look at that and either panic or start fantasizing about leveraged trades. I think both reactions are wrong. There’s a “super cycle” thesis floating around based on institutional demand, spot ETFs and the lagged halving effect. Maybe. Maybe not. What I do know is that short-term candles don’t change the part I actually care about: infrastructure. If you need leverage to “speed up your gains,” you’re probably just speeding up your chances of getting liquidated.
 
-⬆️ 1 • 💬 2 • 1h ago • [akitaonrails.com](https://akitaonrails.com/en/2026/04/01/bitcoin-on-the-home-server-sovereignty-with-coldcard-sparrow-fulcrum/)
+⬆️ 1 • 💬 2 • 2h ago • [akitaonrails.com](https://akitaonrails.com/en/2026/04/01/bitcoin-on-the-home-server-sovereignty-with-coldcard-sparrow-fulcrum/)
 
 ---
 
@@ -318,7 +318,7 @@ Anthony Pompliano, ProCap Financial CEO, joins 'Squawk Box' to discuss bitcoin's
 
 📺 CNBC Television
 
-👁️ 8K • 👍 110 • 💬 92 • ⏱️ 5:56 • 9h ago
+👁️ 10K • 👍 127 • 💬 124 • ⏱️ 5:56 • 10h ago
 
 ---
 
@@ -328,7 +328,7 @@ Bitcoin stuck as Trump Iran deal nears dangerous point. BITUNIX TRADE THE TOP CO
 
 📺 Lark Davis
 
-👁️ 15K • 👍 785 • 💬 76 • ⏱️ 10:20 • 11h ago
+👁️ 17K • 👍 823 • 💬 83 • ⏱️ 10:20 • 12h ago
 
 ---
 
@@ -338,7 +338,7 @@ BRACE YOURSELF... Crypto is about to get ABSOLUTELY CRAZY! For more info on BTQ 
 
 📺 Altcoin Daily
 
-👁️ 41K • 👍 3K • 💬 398 • ⏱️ 9:57 • 1d ago
+👁️ 42K • 👍 3K • 💬 402 • ⏱️ 9:57 • 1d ago
 
 ---
 
@@ -348,55 +348,7 @@ Something big just shifted behind the scenes and most people missed it. BlackRoc
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 2K • 💬 128 • ⏱️ 21:33 • 1d ago
-
----
-
-**[Bitcoin Goes Up To $1Million?!](https://www.youtube.com/watch?v=CPCoqd0HxWM)**
-
-📺 FreshandFit
-
-👁️ 82K • 👍 2K • 💬 43 • ⏱️ 0:34 • 1d ago
-
----
-
-**[BITCOIN BEARISH SETUP! MAJOR CRASH COMING SOON? Bitcoin Price Prediction 2026](https://www.youtube.com/watch?v=RL7f6fp8RIg)**
-
-Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro max, and thousands of dollars of other bonuses!
-
-📺 Crypto Jebb
-
-👁️ 3K • 👍 191 • 💬 19 • ⏱️ 56:30 • 8h ago
-
----
-
-**[my HONEST 2026 bitcoin price prediction... [you might not like it]](https://www.youtube.com/watch?v=Iknd8WcG44k)**
-
-Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bitunix ...
-
-📺 Tyler S
-
-👁️ 13K • 👍 710 • 💬 677 • ⏱️ 13:45 • 1d ago
-
----
-
-**[Bitcoin Reclaims $69K As Global Instability Ramps Up - Worst Yet To Come?](https://www.youtube.com/watch?v=tw9SqQ6P7Gc)**
-
-Bitcoin #Crypto #Finance Bitcoin uncertainty is rising fast as global instability continues to build across markets. A critical week of ...
-
-📺 The Wolf Of All Streets
-
-👁️ 21K • 👍 1K • 💬 486 • ⏱️ 1:05:40 • 1d ago
-
----
-
-**[Michael Saylor on Bitcoin Bull Run | BTC Price Analysis, Forecast &amp; MSTR Stock Rally](https://www.youtube.com/watch?v=D69Hm0Xyv9E)**
-
-BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Сonference. A visionary Bitcoin ...
-
-📺 Marco Antonio Regil
-
-👁️ 1K • 👍 482 • 2h ago
+👁️ 27K • 👍 2K • 💬 140 • ⏱️ 21:33 • 1d ago
 
 ---
 
@@ -406,7 +358,57 @@ Things are looking bleak for this conflict so we MUST focus on what WE can actua
 
 📺 Digital Asset News
 
-👁️ 2K • 👍 244 • 💬 20 • ⏱️ 15:05 • 3h ago
+👁️ 4K • 👍 340 • 💬 28 • ⏱️ 15:05 • 3h ago
+
+---
+
+**[Impeachment Chaos Incoming?🔥Crypto Market Update](https://www.youtube.com/watch?v=bu9MbEY1uuA)**
+
+U.S. President Donald Trump threatened Tuesday that a "whole civilization will die tonight" if Iran fails to meet his latest deadline ...
+
+📺 Paul Barron Network
+
+👁️ 15K • 👍 1K • 💬 237 • ⏱️ 10:55 • 4h ago
+
+---
+
+**[BREAKING: First US Bank Launches Bitcoin ETF and it&#39;s NOT Who You Think | EP 1477](https://www.youtube.com/watch?v=vNOW8qQZ67o)**
+
+BREAKING: First US Bank Launches Bitcoin ETF TOMORROW ...
+
+📺 Simply Bitcoin
+
+👁️ 5K • 👍 316 • 💬 86 • ⏱️ 1:20:07 • 5h ago
+
+---
+
+**[Bitcoin Is The Only Asset Holding Up Right Now... Has It Bottomed?](https://www.youtube.com/watch?v=ek7NJS55790)**
+
+Stocks, gold, silver, bonds, and plenty more assets have sold off aggressively since the US begun attacks in Iran. Bitcoin?
+
+📺 From The Desk Of Anthony Pompliano
+
+👁️ 2K • 👍 241 • 💬 44 • ⏱️ 8:33 • 3h ago
+
+---
+
+**[my HONEST 2026 bitcoin price prediction... [you might not like it]](https://www.youtube.com/watch?v=Iknd8WcG44k)**
+
+Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bitunix ...
+
+📺 Tyler S
+
+👁️ 14K • 👍 726 • 💬 677 • ⏱️ 13:45 • 1d ago
+
+---
+
+**[This Has Always Been The Value Zone for Bitcoin, XRP and Altcoin Market, High Time Frame Shows It](https://www.youtube.com/watch?v=Mhm7zATGQEo)**
+
+Blockchain Backer Newsletter - https://blockchainbacker.substack.com Blockchain Backer's Technical Analysis Toolkit for Crypto ...
+
+📺 Blockchain Backer
+
+👁️ 18K • 👍 2K • 💬 9 • ⏱️ 16:25 • 10h ago
 
 ---
 

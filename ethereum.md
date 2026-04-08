@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-07T23:07:03.111794+00:00'
+updated: '2026-04-08T00:03:00.401455+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
 - cryptocurrency
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 07, 2026 at 23:07 UTC  
+**Last Updated:** April 08, 2026 at 00:03 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $257.41B
+**Market Cap:** $270.62B
 Rank #2
 
 **Circulating Supply:** 120,691,191 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--56.8%
+-54.7%
 
 **All-Time Low:** $0.43
-+493739.2%
++517932.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 I've learnt that we can now invest in gold directly in crypto, which is quite exciting as I don't trust any bank or broker, so here's a few questions: Is this safe? What is the best within Paxos or Tether gold, is this as trustable as USDT/Stablecoins? How to buy it?
 
-34m ago
+1h ago
 
 ---
 
@@ -80,7 +80,7 @@ I've learnt that we can now invest in gold directly in crypto, which is quite ex
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-18h ago
+19h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I just built ethlocal.world: a simple way to explore Ethereum activity around the world. The idea was pretty straightforward: Ethereum is global, but it can still be surprisingly hard to get a quick sense of what’s happening locally or regionally. So I made a site that maps events and communities in one place and lets you browse by region and type. It takes data from ethereum.org and was inspired by the Codex Ambassadors globe. Link: https://ethlocal.world Would love honest feedback from people here: Is this actually useful? What feels missing or confusing? Is the globe view helpful, or do you mainly want a cleaner list/filter experience? What would make something like this genuinely valuable for local Ethereum communities? Built it as a small project for the Ethereum community, and I’d love to improve it based on feedback.
 
-1h ago
+2h ago
 
 ---
 
@@ -96,7 +96,7 @@ I just built ethlocal.world: a simple way to explore Ethereum activity around th
 
 I’ve had my eth staked for about 2 years now, net negative on the eth itself but I’ve gained what would be ≈4 percent more worth of ETH than I had before. To me it was the easiest way to stake given that I don’t have 32 eth. I appreciate the protocol for being a decentralized way to stake, heard there’s some liquidity issues in terms of getting your Eth back after staking but that’s a problem for the future. Anyone have any input on rocket pool?!
 
-8h ago
+9h ago
 
 ---
 
@@ -134,7 +134,7 @@ Hi, I used to work as a technical full-stack developer and recently I spent some
 
 The true bottleneck in Ethereum dApp architecture isn't just on-chain gas, it's the off-chain infrastructure required to read the state. When protocols are designed without considering how data is indexed, they force massive hardware and cost requirements onto the ecosystem. The Blind Spot of Internal Transfers: Standard contract-to-contract ETH transfers (call{value: x}()) don't emit logs. Because they bypass block bloom filters, standard node queries like eth_getLogs miss them entirely. Trade-off: To index these reliably without protocol-level changes, you are forced into EVM tracing (debug_traceTransaction). This is incredibly I/O heavy, essentially requiring dedicated archive nodes or premium RPC tiers. Emitting custom on-chain events for internal transfers is a critical architectural pattern if you develop your own protocol that you want to monitor, it shifts the burden away from expensive execution traces and local state simulations, saving infrastructure operators massive overhead. Infrastructure Resilience vs. WebSockets: For low-latency dApps, eth_subscribe over WebSockets is the standard. However, long-lived WS connections are notoriously flaky and silently drop packets, leading to degraded, out-of-sync frontends. Architecture standard: A resilient Ethereum stack requires a hybrid model. Maintain the WS connection for real-time mempool and head-of-chain detection, but always run a background worker polling eth_getLogs with a sliding block window to patch missed events during WS reconnects. JSON-RPC Network Overhead: Spamming nodes with individual read requests congests RPCs. MulticallV3 batching is mandatory for minimizing network round trips. Trade-off: When wrapping complex calls, using tryAggregate handles partial successes gracefully. However, it significantly increases EVM execution cost due to internal CALL overhead and memory expansion when capturing return data you might discard. If your batch loop is too large, you will hit the strict execution timeouts or global eth_call gas caps enforced by commercial RPCs, causing the node to drop the entire request. Source/Full Breakdown:https://andreyobruchkov1996.substack.com/p/ethereum-dev-hacks-catching-hidden-transfers-real-time-events-and-multicalls-bef7435b9397
 
-1d ago
+2d ago
 
 ---
 
@@ -154,13 +154,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Leading cryptocurrencies rose overnight on Sunday while stock futures dipped as President Donald Trump’s warning to Iran put investors on edge. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:20 p.m. EDT)Bitcoin (CRYPTO: BTC)+2.52%$68,843.45Ethereum (CRYPTO: ETH) +2.68%$2,114.41XRP (CRYPTO: XRP) +1.12%$1.32Solana (CRYPTO: SOL) +1.59%$81.97Dogecoin...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **['Drop To $1,500'—Ethereum Suddenly Faces 60% Odds Of Losing Crown](https://www.forbes.com/sites/digital-assets/2026/04/06/drop-to-1500-ethereum-suddenly-faces-60-odds-of-losing-crown/)**
 
-Forbes • 20h ago
+Forbes • 21h ago
 
 ---
 
@@ -206,7 +206,7 @@ Decrypt • 1d ago
 
 Ethereum’s stablecoin supply hits ~$180B ATH and ETF inflows rise as whale money shifts to ETH.
 
-seekingalpha.com • 6h ago
+seekingalpha.com • 7h ago
 
 ---
 
@@ -214,7 +214,7 @@ seekingalpha.com • 6h ago
 
 Matthew Sheffield says staking and ecosystem participation give Ethereum a utility and income angle that many digital assets lack.
 
-thestreet.com • 23h ago
+thestreet.com • 1d ago
 
 ---
 
@@ -222,7 +222,7 @@ thestreet.com • 23h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 10h ago
+Fortune • 11h ago
 
 ---
 
@@ -230,13 +230,23 @@ Fortune • 10h ago
 
 ## YouTube Videos: "ethereum"
 
+**[Ethereum: One More Bounce… Then Down?](https://www.youtube.com/watch?v=oDwTs_pXQx8)**
+
+In this video, I take a closer look at the current Ethereum market structure and explain why the recent move higher does not ...
+
+📺 More Crypto Online
+
+👁️ 1K • 👍 118 • 💬 6 • ⏱️ 11:32 • 3h ago
+
+---
+
 **[A MASSIVE SIGNAL IS FLASHING FOR ETHEREUM (LAST TIME WAS INSANE)](https://www.youtube.com/watch?v=GqXhK6k76-A)**
 
 Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ Deposit from $100: Get a 1% bonus ✔️ Withdraw anytime ...
 
 📺 Tyler Hill Crypto
 
-👁️ 6K • 👍 308 • 💬 114 • ⏱️ 11:38 • 1d ago
+👁️ 6K • 👍 308 • 💬 115 • ⏱️ 11:38 • 1d ago
 
 ---
 
@@ -256,17 +266,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 246 • 👍 13 • 💬 1 • ⏱️ 4:29 • 13h ago
-
----
-
-**[EMERGENCY UPLOAD ‼️ BEST CRYPTOS TO BUY NOW 🔥 XRP DOGE ETHEREUM](https://www.youtube.com/watch?v=Oa5NBQqr2ec)**
-
-1️⃣ *Get Moe's Indicator Today + Discord (Code BREAD 10% OFF EARNER PLUS)* ...
-
-📺 Crypto Moe
-
-👁️ 138 • 👍 25 • 💬 1 • ⏱️ 11:34 • 2h ago
+👁️ 307 • 👍 13 • 💬 1 • ⏱️ 4:29 • 14h ago
 
 ---
 
@@ -280,23 +280,13 @@ Get 5% off the BitBox02 and take your crypto off exchanges → https://bitbox.sw
 
 ---
 
-**[Ethereum: One Last Rally Possible?](https://www.youtube.com/watch?v=7Zr0h1RYOAM)**
+**[EMERGENCY UPLOAD ‼️ BEST CRYPTOS TO BUY NOW 🔥 XRP DOGE ETHEREUM](https://www.youtube.com/watch?v=Oa5NBQqr2ec)**
 
-In this video, I take a closer look at the current Ethereum market structure and explain why the recent move higher does not ...
+1️⃣ *Get Moe's Indicator Today + Discord (Code BREAD 10% OFF EARNER PLUS)* ...
 
-📺 More Crypto Online
+📺 Crypto Moe
 
-👁️ 3K • 👍 197 • 💬 14 • ⏱️ 13:46 • 1d ago
-
----
-
-**[Which will perform better: Bitcoin, Ethereum, Solana, or XRP?](https://www.youtube.com/watch?v=nZOm8YExp0o)**
-
-Which will perform better: Bitcoin, Ethereum, Solana, or XRP? This is one of the biggest questions in the crypto market right ...
-
-📺 Tim Warren
-
-👁️ 635 • 👍 17 • 💬 1 • ⏱️ 0:23 • 6h ago
+👁️ 679 • 👍 116 • 💬 4 • ⏱️ 11:34 • 3h ago
 
 ---
 
@@ -306,17 +296,17 @@ GRATIS QUI LA GUIDA www.analisievoluta.com ETHEREUM: COSA SAPERE PRIMA DELLE ORE
 
 📺 Jacopo Marini
 
-👁️ 134 • 👍 17 • ⏱️ 10:00 • 3h ago
+👁️ 253 • 👍 30 • ⏱️ 10:00 • 4h ago
 
 ---
 
-**[I Built an AI Trading Bot With Claude AI on Ethereum - MEV Arbitrage Strategy](https://www.youtube.com/watch?v=7ld1X7Gw3Pw)**
+**[BITCOIN JUST REVEALED THE NEXT MOVE (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=QMVicmnTASI)**
 
-Smart Contract Code, Deployment Guide and Telegram: https://svo.bz/etharbitrage I Built an AI Trading Bot With Claude AI on ...
+BITCOIN JUST REVEALED THE NEXT MOVE (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
 
-📺 Samuel Dev
+📺 Crypto World
 
-👁️ 7K • 💬 24 • ⏱️ 7:26 • 2d ago
+👁️ 7K • 👍 253 • 💬 800 • ⏱️ 19:08 • 1d ago
 
 ---
 
@@ -327,6 +317,16 @@ XRP Can NEVER Join Bitcoin, Ethereum & USDT – Here's the Shocking Reason (Mark
 📺 CryptoWendyO
 
 👁️ 11K • 👍 629 • 💬 83 • ⏱️ 13:47 • 2d ago
+
+---
+
+**[Ethereum: One Last Rally Possible?](https://www.youtube.com/watch?v=7Zr0h1RYOAM)**
+
+In this video, I take a closer look at the current Ethereum market structure and explain why the recent move higher does not ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 198 • 💬 14 • ⏱️ 13:46 • 1d ago
 
 ---
 
