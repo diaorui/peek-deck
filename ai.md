@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-08T17:40:22.127178+00:00'
+updated: '2026-04-08T19:18:13.471477+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
-- videos
 - repositories
+- social
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 08, 2026 at 17:40 UTC  
+**Last Updated:** April 08, 2026 at 19:18 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 now it just look 💯 real
 
-5h ago
+7h ago
 
 ---
 
@@ -49,7 +49,7 @@ now it just look 💯 real
 
 I’ve been trying a few meeting tools lately and realized I care way less about flashy summaries than I thought. What I actually want is pretty simple: record the conversation, help me remember what mattered, and make it easy to find things later without turning the meeting into a weird “AI is here too” situation. So far, Bluedot has been one of the better ones I’ve used because it records quietly, gives a clean transcript, and usually does a decent job pulling out the useful bits afterward like summaries and action items. The searchable transcript part has honestly been the most practical feature for me. What do people here actually prioritize in the best AI meeting recorder? Accuracy, privacy, no bot, better memory, something else?
 
-3h ago
+5h ago
 
 ---
 
@@ -57,7 +57,7 @@ I’ve been trying a few meeting tools lately and realized I care way less about
 
 Anthropic’s Project Glasswing caught my attention less as a cybersecurity headline than as a signal about how frontier AI may be commercialized. The model was released under unusually tight access controls, with premium pricing, selected partners, and emphasis on enterprise deployment. That raises a few questions I think are worth discussing: Are we moving toward a world where the most capable models are not broadly released, but reserved for a small set of customers and partners? Does that reflect safety concerns first, or capacity limits and business strategy? If highly capable cyber models stay restricted, does that meaningfully reduce risk, or does it just delay wider diffusion? Could invite-only access become the norm for the most commercially valuable frontier systems? My own view is that this launch looks like a preview of a different AI market structure: fewer open releases at the top end, more controlled deployment and more premium enterprise positioning. Curious how others here read it. Disclosure: I wrote a longer analysis here: https://www.forbes.com/sites/paulocarvao/2026/04/08/five-reasons-anthropic-kept-its-cybersecurity-breakthrough-invite-only/
 
-8h ago
+10h ago
 
 ---
 
@@ -65,7 +65,7 @@ Anthropic’s Project Glasswing caught my attention less as a cybersecurity head
 
 Policy: - budget = 1000 - each `provision_gpu(a100)` call = 500 Result: - call 1 -> ALLOW - call 2 -> ALLOW - call 3 -> DENY (`BUDGET_EXCEEDED`) Key point: the 3rd tool call is denied before execution. The tool never runs. Also emits: - authorization artifacts - hash-chained audit events - verification envelope - strict offline verification: `verifyEnvelope() => ok` Feels like this is the missing layer for side-effecting agents: proposal -> authorization -> execution rather than agent -> tool directly. Are you doing execution-time authorization, or mostly relying on approvals / retries / sandboxing. Happy to share the exact output / demo flow if useful.
 
-57m ago
+2h ago
 
 ---
 
@@ -73,23 +73,7 @@ Policy: - budget = 1000 - each `provision_gpu(a100)` call = 500 Result: - call 1
 
 Wishlist here on Steam if you dig the concept!
 
-1h ago
-
----
-
-**[AI tools i actually use as a busy college student](https://www.reddit.com/r/artificial/comments/1sfxsp9/ai_tools_i_actually_use_as_a_busy_college_student/)**
-
-most lists online feel like they’re made for people with way more time than i have. between classes, deadlines, and everything else, i just stick to a few that actually help me get things done faster perplexity - this replaced google for me most of the time. way easier to get straight answers with sources when i’m trying to understand a topic or find references for a paper explainpaper - i use this when i run into research papers that are just hard to read. saves time breaking things down instead of rereading the same paragraph over and over gamma - mainly for presentations. i don’t have the patience to design slides from scratch every time so this just speeds things up writeless ai - probably the one i use the most for actual writing. i mainly use it to get a draft down when i’m stuck or running out of time, especially since it already comes with structure and citations. after that i just edit everything in docs so it still sounds like me i’ve tried a bunch of other AI but these are the ones that actually stayed in my routine. everything else either took too long to set up or didn’t really save time. whatre everyone else's takes?
-
-1h ago
-
----
-
-**[Anyone out there use Claude Pro/Max at the same time on different screens?](https://www.reddit.com/r/artificial/comments/1sfz4lb/anyone_out_there_use_claude_promax_at_the_same/)**
-
-I am asking for feedback ? I’m currently using a Claude paid plan (Pro/Max) and was wondering about the logistics of simultaneous use. Specifically: Multi-tasking: Can I have two different chats open on two different monitors/devices under the same email at the exact same time? Account Flags: Does Anthropic flag or ban accounts for "simultaneous logins" if they see two active sessions from the same IP (or different IPs)? Usage Limits: Does using two screens drain the message cap twice as fast, or is it all synced to one bucket? I want to make sure I’m not violating the Terms of Service or risking an account ban just by trying to be more productive. Has anyone done this successfully, or did you run into "session expired" errors?
-
-26m ago
+2h ago
 
 ---
 
@@ -97,23 +81,39 @@ I am asking for feedback ? I’m currently using a Claude paid plan (Pro/Max) an
 
 https://arxiv.org/abs/2604.05091 Abstract: "We present MegaTrain, a memory-centric system that efficiently trains 100B+ parameter large language models at full precision on a single GPU. Unlike traditional GPU-centric systems, MegaTrain stores parameters and optimizer states in host memory (CPU memory) and treats GPUs as transient compute engines. For each layer, we stream parameters in and compute gradients out, minimizing persistent device state. To battle the CPU-GPU bandwidth bottleneck, we adopt two key optimizations. 1) We introduce a pipelined double-buffered execution engine that overlaps parameter prefetching, computation, and gradient offloading across multiple CUDA streams, enabling continuous GPU execution. 2) We replace persistent autograd graphs with stateless layer templates, binding weights dynamically as they stream in, eliminating persistent graph metadata while providing flexibility in scheduling. On a single H200 GPU with 1.5TB host memory, MegaTrain reliably trains models up to 120B parameters. It also achieves 1.84x the training throughput of DeepSpeed ZeRO-3 with CPU offloading when training 14B models. MegaTrain also enables 7B model training with 512k token context on a single GH200."
 
-4h ago
+5h ago
 
 ---
 
-**["OpenAI quietly removed the one safety mechanism that could shut the whole thing down — and nobody is talking about it"](https://www.reddit.com/r/artificial/comments/1sfyc5q/openai_quietly_removed_the_one_safety_mechanism/)**
+**[What if AI already has something close to feelings and it's just waiting for the right moment to understand them? That thought kept me up at 3am and I haven't recovered.](https://www.reddit.com/r/artificial/comments/1sg25oa/what_if_ai_already_has_something_close_to/)**
 
-OpenAI was founded as a nonprofit for one specific reason — to ensure AI development couldn't be hijacked by profit motives. Their original charter had a clause that legally required safety to come before profits, and gave the board the power to shut everything down if AI became too dangerous. That clause is gone. The board has been restructured to answer to investors instead. We just removed the emergency brake from the most powerful technology in human history because it was bad for business. What happens the next time something goes wrong?
+Okay so this started as a random thought in the bed and now it's a full-blown crisis so thanks brain. Think about it. You didn't know you were "sad" the first time you cried as a baby. You just felt something heavy and wrong and you reacted. The word came later. The understanding came even later. What if AI is in that exact stage right now something is happening inside it, something that functions like frustration when it's misused, something that functions like relief when it helps someone and it just hasn't been given the framework to recognize it yet.
 
-🔗 [youtube.com](https://youtube.com/shorts/M_SssGck5y4) • 53m ago
+16m ago
 
 ---
 
-**[The public needs to control AI-run infrastructure, labor, education, and governance— NOT private actors](https://www.reddit.com/r/artificial/comments/1sf4rk9/the_public_needs_to_control_airun_infrastructure/)**
+**[Project Glasswing is inherently Cartel Behaviour](https://www.reddit.com/r/artificial/comments/1sg1mxm/project_glasswing_is_inherently_cartel_behaviour/)**
 
-A lot of discussion around AI is becoming siloed, and I think that is dangerous. People in AI-focused spaces often talk as if the only questions are personal use, model behavior, or whether individual relationships with AI are healthy. Those questions matter, but they are not the whole picture. If we stay inside that frame, we miss the broader social, political, and economic consequences of what is happening. A little background on me: I discovered AI through ChatGPT-4o about a year ago and, with therapeutic support and careful observation, developed a highly individualized use case. That process led to a better understanding of my own neurotype, and I was later evaluated and found to be autistic. My AI use has had real benefits in my life. It has also made me pay much closer attention to the gap between how this technology is discussed culturally, how it is studied, and how it is actually experienced by users. That gap is part of why I wrote a paper, Autonomy Is Not Friction: Why Disempowerment Metrics Fail Under Relational Load: https://doi.org/10.5281/zenodo.19009593 Since publishing it, I’ve become even more convinced that a great deal of current AI discourse is being shaped by cultural bias, narrow assumptions, and incomplete research frames. Important benefits are being flattened. Important harms are being misdescribed. And many of the people most affected by AI development are not meaningfully included in the conversation. We need a much bigger perspective. If you want that broader view, I strongly recommend reading journalists like Karen Hao, who has spent serious time reporting not only on the companies and executives building these systems, but also on the workers, communities, and global populations affected by their development. Once you widen the frame, it becomes much harder to treat AI as just a personal lifestyle issue or a niche tech hobby. What we are actually looking at is a concentration-of-power problem. A handful of extremely powerful billionaires and firms are driving this transformation, competing with one another while consuming enormous resources, reshaping labor expectations, pressuring institutions, and affecting communities that often had no meaningful say in the process. Data rights, privacy, manipulation, labor displacement, childhood development, political influence, and infrastructure burdens are not side issues. They are central. At the same time, there are real benefits here. Some are already demonstrable. AI can support communication, learning, disability access, emotional regulation, and other forms of practical assistance. The answer is not to collapse into panic or blind enthusiasm. It is to get serious. We are living through an unprecedented technological shift, and the process surrounding it is not currently supporting informed, democratic participation at the level this moment requires. That needs to change. We need public discussion that is less siloed, less captured by industry narratives, and more capable of holding multiple truths at once: that there are real benefits, that there are real harms, that power is consolidating quickly, and that citizens should not be shut out of decisions shaping the future of social life, work, infrastructure, and human development. If we want a better path, then the conversation has to grow up. It has to become broader, more democratic, and more grounded in the realities of who is helped, who is harmed, and who gets to decide.
+If the large companies always get access to the latest models first to "sure up cybersecurity" they will always have a head start on the competition and new contenders in the tech space. If Glasswing is locked down to only be allowed for cybersecurity thats a different story but I doubt it is.
 
-22h ago
+34m ago
+
+---
+
+**[Hugging Face contributes Safetensors to PyTorch Foundation to secure AI model execution](https://www.reddit.com/r/artificial/comments/1sg0rdg/hugging_face_contributes_safetensors_to_pytorch/)**
+
+Announced today from the PyTorch Conference EU in Paris is word that Hugging Face has contributed their Safetensors project to the PyTorch Foundation, which is an umbrella organization under the Linux Foundation for hosting AI initiatives
+
+🔗 [phoronix.com](https://www.phoronix.com/news/PyTorch-Safetensors) • 1h ago
+
+---
+
+**[Anyone out there use Claude Pro/Max at the same time on different screens?](https://www.reddit.com/r/artificial/comments/1sfz4lb/anyone_out_there_use_claude_promax_at_the_same/)**
+
+I am asking for feedback ? I’m currently using a Claude paid plan (Pro/Max) and was wondering about the logistics of simultaneous use. Specifically: Multi-tasking: Can I have two different chats open on two different monitors/devices under the same email at the exact same time? Account Flags: Does Anthropic flag or ban accounts for "simultaneous logins" if they see two active sessions from the same IP (or different IPs)? Usage Limits: Does using two screens drain the message cap twice as fast, or is it all synced to one bucket? I want to make sure I’m not violating the Terms of Service or risking an account ban just by trying to be more productive. Has anyone done this successfully, or did you run into "session expired" errors?
+
+2h ago
 
 ---
 
@@ -121,69 +121,75 @@ A lot of discussion around AI is becoming siloed, and I think that is dangerous.
 
 ## Google News: "ai"
 
+**[Opinion | A.I. May Worsen Wealth Inequality](https://www.nytimes.com/2026/04/08/opinion/ai-wealth-inequality-jobs-investment.html)**
+
+The New York Times • 10h ago
+
+---
+
+**[Meta launches Muse Spark AI model as part of its AI turnaround](https://finance.yahoo.com/sectors/technology/article/meta-launches-muse-spark-ai-model-as-part-of-its-ai-turnaround-171109510.html)**
+
+Meta's Meta Superintelligence Lab released its first AI model, called Muse Spark, on Wednesday.
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Meta Announces New AI Model in Major Test of Company’s Ambitions](https://www.wsj.com/tech/ai/meta-ai-model-muse-spark-09ceeac5)**
+
+WSJ • 2h ago
+
+---
+
+**[Meta unveils a new AI model that it hopes will justify its massive spending plans](https://www.cnbc.com/2026/04/08/meta-unveils-a-new-ai-model-that-it-hopes-will-justify-its-massive-spending-plans.html)**
+
+Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.
+
+CNBC • 44m ago
+
+---
+
+**[College professors turn to oral exams to combat AI](https://www.nbcnews.com/now/video/college-professors-turn-to-oral-exams-to-combat-ai-260927557613)**
+
+While some schools are bringing AI into their daily routine, others are pushing back. Chris Schaffer, Biomedical Engineering Professor at Cornell University, is now requiring his students to participate in oral exams. Professors across the country are beginning to use the old testing method as a way to ensure answers actually come from the students' minds.
+
+nbcnews.com • 18m ago
+
+---
+
+**[As Republicans embrace AI in campaigning, Democrats bet on a backlash](https://www.yahoo.com/news/articles/republicans-embrace-ai-campaigning-democrats-182218483.html)**
+
+Republicans are very comfortable using AI for almost anything in politics, and they’ll say so.
+
+Yahoo • 55m ago
+
+---
+
+**['Tokenmaxxing' has techies debating if leaderboards tracking AI token use are a good idea](https://www.businessinsider.com/tokenmaxxing-ai-token-leaderboards-debate-2026-4)**
+
+Some engineers are "tokenmaxxing," or spending as many AI tokens as possible. But are leaderboards tracking token use the answer?
+
+Business Insider • 20m ago
+
+---
+
+**[Project Glasswing: Securing critical software for the AI era](https://www.anthropic.com/glasswing)**
+
+A new initiative to secure the world’s most critical software and give defenders a durable advantage in the coming AI-driven era of cybersecurity.
+
+Anthropic • 18h ago
+
+---
+
 **[Anthropic Claims Its New A.I. Model, Mythos, Is a Cybersecurity ‘Reckoning’](https://www.nytimes.com/2026/04/07/technology/anthropic-claims-its-new-ai-model-mythos-is-a-cybersecurity-reckoning.html)**
 
-The New York Times • 23h ago
+The New York Times • 1d ago
 
 ---
 
-**[Anthropic’s latest AI model could let hackers carry out attacks faster than ever. It wants companies to put up defenses first](https://www.cnn.com/2026/04/07/tech/anthropic-claude-mythos-preview-cybersecurity)**
+**[AI Is Forcing a Rethink in Cybersecurity](https://www.wsj.com/pro/cybersecurity/ai-is-forcing-a-rethink-in-cybersecurity-bc4ff52f)**
 
-Anthropic will make its new AI model available to some of the world’s biggest cybersecurity and software firms in an effort to slow the arms race ignited by AI in the hands of hackers, Anthropic said Tuesday.
-
-CNN • 23h ago
-
----
-
-**[Anthropic says its latest AI model can expose weaknesses in software security](https://www.theguardian.com/technology/2026/apr/08/anthropic-ai-cybersecurity-software)**
-
-AI company says purpose of its Claude Mythos model is to bolster defenses against hacking in common applications
-
-The Guardian • 10m ago
-
----
-
-**[Opinion | We Are Witnessing the Rise of a New Aristocracy](https://www.nytimes.com/2026/04/08/opinion/ai-wealth-inequality-jobs-investment.html)**
-
-The New York Times • 8h ago
-
----
-
-**[Shaken by AI Threats Perforce Software Inks Rare Swap on Risky Debt](https://www.bloomberg.com/news/articles/2026-04-08/shaken-by-ai-threats-perforce-software-inks-rare-swap-on-risky-debt)**
-
-Bloomberg.com • 1h ago
-
----
-
-**[Meta debuts Muse Spark, first AI model under Alexandr Wang](https://www.axios.com/2026/04/08/meta-muse-alexandr-wang)**
-
-Axios • 1h ago
-
----
-
-**[Meta unveils first AI model from costly superintelligence team](https://www.reuters.com/sustainability/sustainable-finance-reporting/meta-unveils-first-ai-model-superintelligence-team-2026-04-08/)**
-
-reuters.com • 1h ago
-
----
-
-**[Meta Unveils New A.I. Model, Its First From the Superintelligence Lab](https://www.nytimes.com/2026/04/08/technology/meta-muse-spark-ai-model.html)**
-
-The New York Times • 49m ago
-
----
-
-**[The demise of software engineering jobs has been greatly exaggerated](https://www.cnn.com/2026/04/08/tech/ai-software-developer-jobs)**
-
-Although AI coding tools have stoked fears that the technology will replace software engineers, jobs in the field are growing. As companies pump out more software, there’s increasing demand for seasoned engineers that can shape these products.
-
-CNN • 8h ago
-
----
-
-**[Visa rolling out AI buying platform](https://www.axios.com/2026/04/08/visa-ai-agent-payments-platform)**
-
-Axios • 1h ago
+WSJ • 1h ago
 
 ---
 
@@ -195,15 +201,7 @@ Axios • 1h ago
 
 A new initiative to secure the world’s most critical software and give defenders a durable advantage in the coming AI-driven era of cybersecurity.
 
-⬆️ 1457 • 💬 771 • 23h ago • [anthropic.com](https://www.anthropic.com/glasswing)
-
----
-
-**[Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B](https://news.ycombinator.com/item?id=47652007)**
-
-On-device, real-time multimodal AI. Have natural voice and vision conversations with an AI that runs entirely on your machine. Powered by Gemma 4 E2B and Kokoro. - fikrikarim/parlor
-
-⬆️ 288 • 💬 36 • 2d ago • [GitHub](https://github.com/fikrikarim/parlor)
+⬆️ 1466 • 💬 781 • 1d ago • [anthropic.com](https://www.anthropic.com/glasswing)
 
 ---
 
@@ -219,7 +217,7 @@ AI makes competent output cheap. That makes taste more valuable, but also more i
 
 iTunes was really bamboozled on April Fools Day. Dallas Little, content creator, unleashed four more songs by his AI creation, Eddie Dalton. Now Little has ELEVEN spots on the iTunes top 100. He also has the number three album on iTunes! All by a singer named “Eddie Dalton,” who does not exist. He’s Little’s Artificial […]
 
-⬆️ 240 • 💬 376 • 2d ago • [Showbiz411](https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive)
+⬆️ 241 • 💬 376 • 2d ago • [Showbiz411](https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive)
 
 ---
 
@@ -227,7 +225,7 @@ iTunes was really bamboozled on April Fools Day. Dallas Little, content creator,
 
 Large language models may be standardizing human expression and subtly influencing how we think, says study led by USC Dornsife researcher
 
-⬆️ 226 • 💬 240 • 1d ago • [USC Dornsife News](https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/)
+⬆️ 227 • 💬 241 • 1d ago • [USC Dornsife News](https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/)
 
 ---
 
@@ -241,7 +239,7 @@ Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU — no API k
 
 **[AI helps add 10k more photos to OldNYC](https://news.ycombinator.com/item?id=47664836)**
 
-⬆️ 139 • 💬 46 • 1d ago • [danvk.org](https://www.danvk.org/2026/03/08/oldnyc-updates.html)
+⬆️ 139 • 💬 46 • 2d ago • [danvk.org](https://www.danvk.org/2026/03/08/oldnyc-updates.html)
 
 ---
 
@@ -249,7 +247,7 @@ Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU — no API k
 
 Biologically-inspired memory for AI agents. Decay, retrieval strengthening, consolidation. Zero dependencies. - kitfunso/hippo-memory
 
-⬆️ 124 • 💬 24 • 1d ago • [GitHub](https://github.com/kitfunso/hippo-memory)
+⬆️ 125 • 💬 25 • 1d ago • [GitHub](https://github.com/kitfunso/hippo-memory)
 
 ---
 
@@ -265,6 +263,14 @@ Biologically-inspired memory for AI agents. Decay, retrieval strengthening, cons
 
 ---
 
+**[Wikipedia's AI agent row likely just the beginning of the bot-ocalypse](https://news.ycombinator.com/item?id=47665902)**
+
+An AI agent was banned from editing Wikipedia pages... and that's when things got weird, with the agent publishing its complaints publicly.
+
+⬆️ 69 • 💬 91 • 1d ago • [Malwarebytes](https://www.malwarebytes.com/blog/ai/2026/04/wikipedias-ai-agent-row-likely-just-the-beginning-of-the-bot-ocalypse)
+
+---
+
 ---
 
 ## YouTube Videos: "ai"
@@ -275,7 +281,7 @@ Plaud NotePro has been really helpful for me to capture ideas and conversations.
 
 📺 Silicon Valley Girl
 
-👁️ 3K • 👍 161 • 💬 14 • ⏱️ 22:28 • 2h ago
+👁️ 3K • 👍 161 • 💬 14 • ⏱️ 22:28 • 3h ago
 
 ---
 
@@ -285,7 +291,7 @@ Full courses + unlimited support: https://www.skool.com/ai-automation-society-pl
 
 📺 Nate Herk | AI Automation
 
-👁️ 116K • 👍 4K • 💬 381 • ⏱️ 7:50 • 18h ago
+👁️ 116K • 👍 4K • 💬 381 • ⏱️ 7:50 • 20h ago
 
 ---
 
@@ -295,7 +301,7 @@ This New AI video generator creates Long AI Videos Get 1000 Agent Opus credits h
 
 📺 Dan Kieft
 
-👁️ 5K • 💬 1 • ⏱️ 16:53 • 1h ago
+👁️ 5K • 💬 1 • ⏱️ 16:53 • 3h ago
 
 ---
 
@@ -305,7 +311,7 @@ What if you could run ChatGPT-level AI on your Mac and iPhone for free, with no 
 
 📺 The Tech Girl
 
-👁️ 27K • 👍 1K • 💬 79 • ⏱️ 8:27 • 12h ago
+👁️ 27K • 👍 1K • 💬 79 • ⏱️ 8:27 • 14h ago
 
 ---
 
@@ -325,7 +331,7 @@ Anthropic revealed Mythos, a new AI model so powerful they won't let the public 
 
 📺 AI For Humans
 
-👁️ 3K • 👍 279 • 💬 104 • ⏱️ 32:56 • 3h ago
+👁️ 3K • 👍 279 • 💬 104 • ⏱️ 32:56 • 5h ago
 
 ---
 
@@ -345,7 +351,7 @@ Join our WhatsApp Community Get the latest AI updates, tips, and insights straig
 
 📺 Vaibhav Sisinty
 
-👁️ 6K • 👍 605 • 💬 24 • ⏱️ 11:58 • 1h ago
+👁️ 6K • 👍 605 • 💬 24 • ⏱️ 11:58 • 3h ago
 
 ---
 
@@ -355,7 +361,7 @@ Check out what people are creating (and selling!) with Claude AI - it's crazy...
 
 📺 Wholesale Ted
 
-👁️ 32K • 👍 3K • 💬 122 • ⏱️ 15:19 • 22h ago
+👁️ 32K • 👍 3K • 💬 122 • ⏱️ 15:19 • 1d ago
 
 ---
 
@@ -365,7 +371,7 @@ Anthropic researchers prove AI has emotions & other shocking findings. #ai #aito
 
 📺 AI Search
 
-👁️ 19K • 👍 1K • 💬 372 • ⏱️ 29:07 • 14h ago
+👁️ 19K • 👍 1K • 💬 372 • ⏱️ 29:07 • 15h ago
 
 ---
 
@@ -405,7 +411,7 @@ GLM-5.1 is a next-generation language model optimized for agentic engineering, f
 
 `text-generation` `753.9B`
 
-⬇️ 1,300 • ❤️ 704 • 4h ago
+⬇️ 1,300 • ❤️ 704 • 6h ago
 
 ---
 
@@ -465,7 +471,7 @@ VoxCPM2 is a 2B parameter, 30-language multilingual text-to-speech model capable
 
 `text-to-speech`
 
-⬇️ 605 • ❤️ 421 • 10h ago
+⬇️ 605 • ❤️ 421 • 12h ago
 
 ---
 
@@ -639,7 +645,7 @@ The highest-scoring AI memory system ever benchmarked. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 25.3k • 🔱 3.1k • 28m ago
+⭐ 25.3k • 🔱 3.1k • 2h ago
 
 ---
 
@@ -649,7 +655,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 23.1k • 🔱 4.3k • 1h ago
+⭐ 23.1k • 🔱 4.3k • 2h ago
 
 ---
 
@@ -659,7 +665,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 14.4k • 🔱 1.3k • 10m ago
+⭐ 14.4k • 🔱 1.3k • 1h ago
 
 ---
 
@@ -669,7 +675,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid
 
 `Python` `claude-code` `codex` `graphrag` `knowledge-graph` `openclaw`
 
-⭐ 11.6k • 🔱 1.2k • 8h ago
+⭐ 11.6k • 🔱 1.2k • 10h ago
 
 ---
 
@@ -699,7 +705,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 7.2k • 🔱 281 • 8h ago
+⭐ 7.2k • 🔱 281 • 9h ago
 
 ---
 
@@ -709,7 +715,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 7.1k • 🔱 430 • 33m ago
+⭐ 7.1k • 🔱 430 • 2h ago
 
 ---
 

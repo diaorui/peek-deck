@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-08T17:40:22.141517+00:00'
+updated: '2026-04-08T19:18:13.488808+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
 - social
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 08, 2026 at 17:40 UTC  
+**Last Updated:** April 08, 2026 at 19:18 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,224.80
+### $2,205.42
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +7.1%  
-**7d:** +8.5%  
-**30d:** +9.5%  
-**90d:** -27.7%  
-**1y:** +33.7%  
+**24h:** +4.3%  
+**7d:** +7.3%  
+**30d:** +8.3%  
+**90d:** -28.5%  
+**1y:** +32.2%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 World Liberty Financial deposited 3B WLFI tokens as collateral to borrow $50M of its own stablecoin, pushing its lending pool into negative liquidity and raising concerns over circular treasury practices, governance risks, and regulatory scrutiny.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/trumps-crypto-project-just-borrowed-50-million-against-its-own-token-and-broke-the-lending-pool/) • 7h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/trumps-crypto-project-just-borrowed-50-million-against-its-own-token-and-broke-the-lending-pool/) • 9h ago
 
 ---
 
@@ -80,7 +80,7 @@ World Liberty Financial deposited 3B WLFI tokens as collateral to borrow $50M of
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+14h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I've learnt that we can now invest in gold directly in crypto, which is quite exciting as I don't trust any bank or broker, so here's a few questions: Is this safe? What is the best within Paxos or Tether gold, is this as trustable as USDT/Stablecoins? How to buy it?
 
-19h ago
+20h ago
 
 ---
 
@@ -96,7 +96,7 @@ I've learnt that we can now invest in gold directly in crypto, which is quite ex
 
 I just built ethlocal.world: a simple way to explore Ethereum activity around the world. The idea was pretty straightforward: Ethereum is global, but it can still be surprisingly hard to get a quick sense of what’s happening locally or regionally. So I made a site that maps events and communities in one place and lets you browse by region and type. It takes data from ethereum.org and was inspired by the Codex Ambassadors globe. Link: https://ethlocal.world Would love honest feedback from people here: Is this actually useful? What feels missing or confusing? Is the globe view helpful, or do you mainly want a cleaner list/filter experience? What would make something like this genuinely valuable for local Ethereum communities? Built it as a small project for the Ethereum community, and I’d love to improve it based on feedback.
 
-20h ago
+21h ago
 
 ---
 
@@ -142,7 +142,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi, I used to work as a technical full-stack developer and recently I spent some time investigating this thing everyone's talking about "Quantum computing destroying encryption". Well, there are many remedies already available: Example 1 - for not technical people: https://www.nist.gov/news-events/news/2024/08/nist-releases-first-3-finalized-post-quantum-encryption-standards Example 2 - for technical people: https://github.com/open-quantum-safe/oqs-provider Most companies / IT projects are not prioritising it only because quantum computing threads might be decades away, and businesses don't execute investments on security unless there is a true threat. That's why your email providers, messaging apps, etc. don't have post-quantum standards implemented (such as: ml-dsa, ml-kem, slh-dsa). Yes. It is more complicated to secure decentralized Crypto than a website, but - anyway most of us use platforms like CoinBase, Kraken, Binance, .. and those holding crypto in one-single physical wallet - are not really the targets here. Anyhow, please, I hope my post helps some of you to be a bit calmer about this topic. I am definitely calmer after my research. Let's not cause panic sell-off. Have a great day everyone!
 
-1d ago
+2d ago
 
 ---
 
@@ -158,9 +158,17 @@ polymarket.com • 3mo ago
 
 ---
 
+**[Ethereum Foundation swaps 5,000 ETH into stablecoins for operational and grant funding](https://www.theblock.co/post/396728/ethereum-foundation-swaps-5000-eth-stablecoins-operational-grant-funding)**
+
+So far, the CoWSwap TWAP transactions have been drawn from a wallet associated with the Ethereum Foundation's DeFi activities.
+
+theblock.co • 3h ago
+
+---
+
 **[BlackRock’s 18% Ethereum Staking Cut: Too Much Or Just Right?](https://www.forbes.com/sites/astanley/2026/04/08/blackrocks-18-ethereum-staking-cut-too-much-or-just-right/)**
 
-Forbes • 1h ago
+Forbes • 3h ago
 
 ---
 
@@ -168,11 +176,11 @@ Forbes • 1h ago
 
 The EF is offloading approximately $11M worth of ether today via CoWSwap to fund R&D, grants, and donations.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 3h ago
 
 ---
 
-**[Bit Digital Inc. Reports Monthly Ethereum Treasury and Staking Metrics for March 2026](https://bit-digital.com/press-releases/bit-digital-inc-reports-monthly-ethereum-treasury-and-staking-metrics-for-march-2026/)**
+**[Bit Digital Inc. Reports Monthly Ethereum Treasury and Staking Metrics for March 2026](https://bit-digital.com/news/bit-digital-inc-reports-monthly-ethereum-treasury-and-staking-metrics-for-march-2026/)**
 
 Bit Digital, Inc. (Nasdaq: BTBT), today announced its monthly Ethereum (“ETH”) treasury and staking metrics for the month of March 2026.
 
@@ -180,11 +188,17 @@ Bit Digital • 1d ago
 
 ---
 
+**[Ethereum’s Silver Medal Slips as Prediction Markets Brace for a $1,500 Floor](https://www.tipranks.com/news/ethereums-silver-medal-slips-as-prediction-markets-brace-for-a-1500-floor)**
+
+TipRanks • 5h ago
+
+---
+
 **[Ethereum stablecoin supply hits $180B ATH: Is ETH demand mispriced?](https://seekingalpha.com/news/4573026-ethereum-stablecoin-supply-hits-180b-ath-is-eth-demand-mispriced)**
 
 Ethereum’s stablecoin supply hits ~$180B ATH and ETF inflows rise as whale money shifts to ETH.
 
-seekingalpha.com • 1d ago
+Seeking Alpha • 1d ago
 
 ---
 
@@ -192,21 +206,7 @@ seekingalpha.com • 1d ago
 
 Ethereum's utility makes it an attractive investment option during the current market turndown.
 
-The Motley Fool • 5h ago
-
----
-
-**[Current price of Ethereum for April 8, 2026](https://fortune.com/article/price-of-ethereum-04-08-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-fortune.com • 4h ago
-
----
-
-**[Ethereum’s Silver Medal Slips as Prediction Markets Brace for a $1,500 Floor](https://www.tipranks.com/news/ethereums-silver-medal-slips-as-prediction-markets-brace-for-a-1500-floor)**
-
-TipRanks • 4h ago
+The Motley Fool • 6h ago
 
 ---
 
@@ -214,13 +214,15 @@ TipRanks • 4h ago
 
 Ethereum exchange reserves have fallen to a record low, even as the token trades near $2,15 and still struggles to break out.CryptoQuant data shows reserves are down about 77% from their 2021 peak, while CoinGlass data points to a surge in futures activity, with volume topping close to $50 billion…
 
-TradingView • 15h ago
+TradingView • 17h ago
 
 ---
 
-**[Bitcoin Price Surges Above $70,000. Ethereum, XRP Jump as Cryptos Rally on Iran Hope.](https://www.barrons.com/livecoverage/stock-market-news-today-040826/card/bitcoin-price-surges-above-70-000-ethereum-xrp-jump-as-cryptos-rally-on-iran-hope--t39yDg8hAQB3teeCb0lm)**
+**[Current price of Ethereum for April 8, 2026](https://fortune.com/article/price-of-ethereum-04-08-2026/)**
 
-Barron's • 9h ago
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 6h ago
 
 ---
 
@@ -234,7 +236,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 641 • 👍 73 • 💬 14 • ⏱️ 20:08 • 1h ago
+👁️ 641 • 👍 73 • 💬 14 • ⏱️ 20:08 • 3h ago
 
 ---
 
@@ -244,7 +246,7 @@ Brian from Santiment joined me to review the crypto market metrics for Bitcoin, 
 
 📺 Thinking Crypto
 
-👁️ 985 • 👍 107 • 💬 12 • ⏱️ 26:32 • 5h ago
+👁️ 985 • 👍 107 • 💬 12 • ⏱️ 26:32 • 6h ago
 
 ---
 
@@ -254,7 +256,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 253 • 👍 15 • ⏱️ 4:53 • 8h ago
+👁️ 253 • 👍 15 • ⏱️ 4:53 • 10h ago
 
 ---
 
@@ -274,7 +276,7 @@ In this video, I take a closer look at the current Ethereum market structure and
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 190 • 💬 11 • ⏱️ 11:32 • 20h ago
+👁️ 3K • 👍 190 • 💬 11 • ⏱️ 11:32 • 22h ago
 
 ---
 
@@ -284,7 +286,7 @@ join my social platforms for updates and analysis ✓Instagram: ...
 
 📺 Aryan trader Live
 
-👁️ 9K • 👍 4K • 💬 1 • ⏱️ 1:57:28 • 2m ago
+👁️ 9K • 👍 4K • 💬 1 • ⏱️ 1:57:28 • 1h ago
 
 ---
 
@@ -294,7 +296,7 @@ BITCOIN SQUEEZE: This Changes Everything (Urgent)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 7K • 👍 278 • 💬 318 • ⏱️ 23:11 • 16h ago
+👁️ 7K • 👍 278 • 💬 318 • ⏱️ 23:11 • 18h ago
 
 ---
 
@@ -324,7 +326,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 330 • 👍 49 • ⏱️ 6:29 • 2h ago
+👁️ 330 • 👍 49 • ⏱️ 6:29 • 3h ago
 
 ---
 
