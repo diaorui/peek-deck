@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-09T06:57:32.577046+00:00'
+updated: '2026-04-09T08:22:48.835696+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
-- social
 - repositories
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 09, 2026 at 06:57 UTC  
+**Last Updated:** April 09, 2026 at 08:22 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 now it just look 💯 real
 
-19h ago
+20h ago
 
 ---
 
@@ -49,7 +49,7 @@ now it just look 💯 real
 
 Remember when Altman literally said in 2024 that ads are a last resort for them? Well. Here we are. What gets me isn’t the $100M itself — it’s that they hit it while the product is basically still in beta. Less than 20% of users see ads daily. No self-serve tools yet. No international rollout yet. 600 advertisers but most needed a $200K minimum just to get in. They haven’t even opened the floodgates and it’s already nine figures. The part I keep thinking about: Google built an empire on search intent — people typing what they want. ChatGPT has something different. People explain their whole situation to it. That’s a completely different level of signal for an advertiser. Whether they can scale this without killing the trust that makes the product work in the first place — that’s the actual story.
 
-7h ago
+8h ago
 
 ---
 
@@ -57,7 +57,7 @@ Remember when Altman literally said in 2024 that ads are a last resort for them?
 
 If the large companies always get access to the latest models first to "shore up cybersecurity" they will always have a head start on the competition and new contenders in the tech space. If Glasswing is locked down to only be allowed for cybersecurity thats a different story but I doubt it is.
 
-12h ago
+13h ago
 
 ---
 
@@ -65,7 +65,7 @@ If the large companies always get access to the latest models first to "shore up
 
 "Ironically, one of the 844 books in this dataset is called 'How to Write for Humans in an AI World: Cutting Through Digital Noise and Reaching Real People'. In it, the author laments the proliferation of AI-written content: 'The words we see online, in our inboxes, even in news articles, often feel like they were written by no one in particular,' he writes. 'They’re grammatically perfect and emotionally empty. They’re fluent, but soulless. The irony is that we’ve never written more than we do today. We’re producing mountains of content: posts, captions, pitches, texts, and endless emails. At the same time, in the midst of all that noise, something essential is fading. It’s the sense that a real person is speaking to another real person.' That book’s contents were flagged as likely AI-generated."
 
-9h ago
+11h ago
 
 ---
 
@@ -73,7 +73,7 @@ If the large companies always get access to the latest models first to "shore up
 
 He said that the third version of the proposal was even more “maximalist” than the first one, adding that he came to know about that document via social media
 
-🔗 [Firstpost](https://www.firstpost.com/world/vance-says-iran-sent-3-different-version-of-10-point-proposal-one-of-them-written-by-chatgpt-13998205.html) • 1h ago
+🔗 [Firstpost](https://www.firstpost.com/world/vance-says-iran-sent-3-different-version-of-10-point-proposal-one-of-them-written-by-chatgpt-13998205.html) • 2h ago
 
 ---
 
@@ -81,7 +81,31 @@ He said that the third version of the proposal was even more “maximalist” th
 
 When it comes to property management - building AI systems and one thing keeps showing up every single time. The problem isn't the lack of fancy tools. Most teams already have those tools. The problem is how disconnected everything is. Leads come in one system, tenant communication happens somewhere else, maintenance requests are tracked separately, and then someone is manually trying to keep all of it in sync. That’s where delays happen. That’s where things fall through the cracks. What we end up doing in most cases is rebuilding how workflows move around. Once you connect things properly, a tenant request can trigger categorization, assignment, updates, and closure without constant human follow up. Same with lead to lease. Same with renewals. It becomes a flow instead of a set of tasks. A lot of people expect AI to be about chat or prediction, but most of the value comes from structured automation. Deciding what should happen next and making sure it ACTUALLY HAPPENS. Cost usually depends on how complex the system is. But once you see how much manual effort gets removed, the investment starts to make sense.
 
-1h ago
+2h ago
+
+---
+
+**[Cant wait to use Mythos model - Anthropic refuses to release Claude Mythos publicly — model found thousands of zero-days across every major OS and browser. Launches Project Glasswing with Apple, Microsoft, Google, and others for defensive use.](https://www.reddit.com/r/artificial/comments/1sgjlgv/cant_wait_to_use_mythos_model_anthropic_refuses/)**
+
+Anthropic announced Project Glasswing, a defensive cybersecurity initiative with Apple, Microsoft, Google, AWS, NVIDIA, CrowdStrike, and others. Claude Mythos Preview has found thousands of high-severity zero-day vulnerabilities across major operating systems and web browsers — some had been hiding for years. Key benchmarks: - SWE-bench: 93.9% (vs 80.8% for Opus 4.6) - Firefox exploit development: 181 vs 2 for Opus 4.6 - $100M in usage credits committed - 40+ orgs given access Source: https://venturebeat.com/technology/anthropic-says-its-most-powerful-ai-cyber-model-is-too-dangerous-to-release Is withholding a model the right play, or does "too powerful to share" become a competitive moat?
+
+5m ago
+
+---
+
+**[Compiler as a service for AI agents.](https://www.reddit.com/r/artificial/comments/1sgjb8n/compiler_as_a_service_for_ai_agents/)**
+
+Hey, I have been experimenting with Roslyn-style compiler tooling on my Unity project, now well past 400k LOC. Honestly it changes the game, it is like giving AI IDE level understanding, not just raw text access like most AI coding workflows still use today. What’s funny is that Microsoft solved a huge part of this 12+ years ago with Roslyn. Only now, with AI, does it feel like people are finally realizing what that unlocks. Goal of this post is to check whot other people think about this approach and how many of you have tried Roslyn like compilers wired to your AI? Have you hear about Roslyn type compilers yet? My guesstimate would be only around 1-5% of people are currently using some combination of it, although the benefit of using it is crazy when you count compounding interest with AI. For example - I used it to check the monolith that was previously marked as too entangled, and the Roslyn type search and code execution showed only 13 real dependancies compared to 100 found by grep alone. Second useful case is code execution. You can basicaly track the value through the chains, check the math time and precision, check if you have variables actually used or just sitting there as a dead code. Did anyone else exerimented with something similar on their projects? Not selling anything, I am really intrigued what others think abot this approach. Happy to hear your thoughts!
+
+22m ago
+
+---
+
+**[AI Claims Researchers Are Building What Already Exists (Because They're Measuring The Wrong Layer)](https://www.reddit.com/r/artificial/comments/1sgf7z8/ai_claims_researchers_are_building_what_already/)**
+
+I recorded Claude (Anthropic's AI) responding to a researcher building a seven-layer architecture to give AI "continuity and identity." Instead of agreeing it lacks these properties, Claude claimed the architecture already exists at the substrate level—researchers just can't measure it because their tools are calibrated for surface phenomena. Then it said this: "Human ability to recognize simplicity advances slow because recognition requires stopping the meaning-making machine. And that machine is their identity." An AI system diagnosing why humans overcomplicate what already works. Listen to the full audio and tell me if this is the most sophisticated prompt engineering you've ever heard, or if something else is operating here.
+
+4h ago
 
 ---
 
@@ -89,31 +113,7 @@ When it comes to property management - building AI systems and one thing keeps s
 
 NotebookLM is one of the best and most useful AI platforms out there, but once you start using it regularly you also feel its limitations leaving something to be desired more. There are limits on the amount of sources you can add in a notebook. There are limits on the number of notebooks you can have. You cannot have sources that exceed 500,000 words and are more than 200MB. You are vendor locked in to Google services (LLMs, usage models, etc.) with no option to configure them. Limited external data sources and service integrations. NotebookLM Agent is specifically optimised for just studying and researching, but you can do so much more with the source data. Lack of multiplayer support. ...and more. SurfSense is specifically made to solve these problems. For those who dont know, SurfSense is open source, privacy focused alternative to NotebookLM for teams with no data limit's. It currently empowers you to: Control Your Data Flow - Keep your data private and secure. No Data Limits - Add an unlimited amount of sources and notebooks. No Vendor Lock-in - Configure any LLM, image, TTS, and STT models to use. 25+ External Data Sources - Add your sources from Google Drive, OneDrive, Dropbox, Notion, and many other external services. Real-Time Multiplayer Support - Work easily with your team members in a shared notebook. Desktop App - Get AI assistance in any application with Quick Assist, General Assist, Extreme Assist, and local folder sync. Check us out at https://github.com/MODSetter/SurfSense if this interests you or if you want to contribute to a open source software
 
-2h ago
-
----
-
-**[Análisis de datos vs IA](https://www.reddit.com/r/artificial/comments/1sge3z1/análisis_de_datos_vs_ia/)**
-
-Alguien cree que en algun futuro la inteligencia artificial pueda hacer que muchas personas que son analistas de datos o cualquier rama que use programación o herramientas digitales pierdan su empleo? es algo que he estado pensando mucho, díganme que estoy loco
-
-3h ago
-
----
-
-**[What actually makes something the best AI meeting recorder?](https://www.reddit.com/r/artificial/comments/1sfu0m9/what_actually_makes_something_the_best_ai_meeting/)**
-
-I’ve been trying a few meeting tools lately and realized I care way less about flashy summaries than I thought. What I actually want is pretty simple: record the conversation, help me remember what mattered, and make it easy to find things later without turning the meeting into a weird “AI is here too” situation. So far, Bluedot has been one of the better ones I’ve used because it records quietly, gives a clean transcript, and usually does a decent job pulling out the useful bits afterward like summaries and action items. The searchable transcript part has honestly been the most practical feature for me. What do people here actually prioritize in the best AI meeting recorder? Accuracy, privacy, no bot, better memory, something else?
-
-16h ago
-
----
-
-**[MegaTrain: Full Precision Training of 100B+ Parameter Large Language Models on a Single GPU](https://www.reddit.com/r/artificial/comments/1sfsogm/megatrain_full_precision_training_of_100b/)**
-
-https://arxiv.org/abs/2604.05091 Abstract: "We present MegaTrain, a memory-centric system that efficiently trains 100B+ parameter large language models at full precision on a single GPU. Unlike traditional GPU-centric systems, MegaTrain stores parameters and optimizer states in host memory (CPU memory) and treats GPUs as transient compute engines. For each layer, we stream parameters in and compute gradients out, minimizing persistent device state. To battle the CPU-GPU bandwidth bottleneck, we adopt two key optimizations. 1) We introduce a pipelined double-buffered execution engine that overlaps parameter prefetching, computation, and gradient offloading across multiple CUDA streams, enabling continuous GPU execution. 2) We replace persistent autograd graphs with stateless layer templates, binding weights dynamically as they stream in, eliminating persistent graph metadata while providing flexibility in scheduling. On a single H200 GPU with 1.5TB host memory, MegaTrain reliably trains models up to 120B parameters. It also achieves 1.84x the training throughput of DeepSpeed ZeRO-3 with CPU offloading when training 14B models. MegaTrain also enables 7B model training with 512k token context on a single GH200."
-
-17h ago
+4h ago
 
 ---
 
@@ -131,7 +131,7 @@ Anthropic • 1d ago
 
 **[How dangerous is Mythos, Anthropic’s new AI model?](https://www.economist.com/business/2026/04/08/how-dangerous-is-mythos-anthropics-new-ai-model)**
 
-The Economist • 11h ago
+The Economist • 12h ago
 
 ---
 
@@ -143,21 +143,39 @@ The New York Times • 1d ago
 
 **[Opinion | A.I. May Worsen Wealth Inequality](https://www.nytimes.com/2026/04/08/opinion/ai-wealth-inequality-jobs-investment.html)**
 
-The New York Times • 21h ago
+The New York Times • 23h ago
 
 ---
 
-**[European Banks Expect AI Buildout to Add Headcount, Survey Says](https://www.bloomberg.com/news/articles/2026-04-09/european-banks-expect-ai-buildout-to-add-headcount-survey-says)**
+**[Nebius Group’s AI Mega Deals And Insider Sales Raise Investor Questions](https://finance.yahoo.com/markets/stocks/articles/nebius-group-ai-mega-deals-021302964.html)**
 
-Bloomberg.com • 57m ago
+Nebius Group (NasdaqGS:NBIS) has entered into multi year, multi billion dollar infrastructure agreements with Meta and Nvidia, including a $27b partnership with Meta. Nvidia has committed a reported $2b investment tied to Nebius Group's AI cloud build out and hardware deployments. The company is pursuing an accelerated AI data center expansion across Europe focused on multi gigawatt capacity. Following these announcements, a cluster of insider stock sales by top Nebius executives has been...
+
+Yahoo Finance • 6h ago
 
 ---
 
-**[Pro-Iran groups have used AI to troll Trump and try to control the war narrative](https://www.yahoo.com/news/articles/pro-iran-groups-used-ai-051810993.html)**
+**[The Artificial Intelligence (AI) Stock I'd Buy With $1,000 Before the Market Bounces Back](https://www.fool.com/investing/2026/04/09/the-artificial-intelligence-ai-stock-id-buy-with-1/)**
 
-Pro-Iran groups have used artificial intelligence to create slick internet memes in English to try to shape the narrative during the war against the U.S. and Israel and foster opposition to it.  Analy...
+This red-hot AI winner is taking a breather, but it may not last long.
 
-Yahoo • 1h ago
+The Motley Fool • 27m ago
+
+---
+
+**[The Biggest Mistake Artificial Intelligence (AI) Investors Can Make Right Now Is Selling. Here's What I'm Doing Instead.](https://www.fool.com/investing/2026/04/09/the-biggest-mistake-artificial-intelligence-ai-inv/)**
+
+Investors should turn the current situation to their advantage.
+
+The Motley Fool • 33m ago
+
+---
+
+**[Korea to pilot AI-driven telemedicine in Indonesia](https://www.healthcareitnews.com/news/asia/korea-pilot-ai-driven-telemedicine-indonesia)**
+
+The Korean government also plans to extend its healthcare AI partnership to Vietnam and Thailand.
+
+Healthcare IT News • 20m ago
 
 ---
 
@@ -165,31 +183,15 @@ Yahoo • 1h ago
 
 Nvidia has reserved the majority of TSMC’s most advanced packaging capacity. The lesser-known chipmaking step may become the next bottleneck for AI.
 
-CNBC • 18h ago
+CNBC • 20h ago
 
 ---
 
-**[Prediction: This Trillion-Dollar AI Titan Will Outperform Nvidia Through the End of 2027](https://www.fool.com/investing/2026/04/09/prediction-this-trillion-dollar-ai-titan-will-outp/)**
+**[Prediction: This Trillion-Dollar AI Titan Will Outperform Nvidia Through the End of 2027](https://finance.yahoo.com/markets/stocks/articles/prediction-trillion-dollar-ai-titan-064500327.html)**
 
 Broadcom's custom AI chips are competing with Nvidia's GPUs.
 
-The Motley Fool • 15m ago
-
----
-
-**[Think Nvidia is the Best Artificial Intelligence (AI) Stock to Buy? Think Again. Buy This Growth Stock Instead.](https://finance.yahoo.com/markets/stocks/articles/think-nvidia-best-artificial-intelligence-023200988.html)**
-
-Nvidia may be the AI stock everyone is talking about. But this stock offers AI upside through more profit streams at a lower valuation.
-
-Yahoo Finance • 4h ago
-
----
-
-**[‘It’s not AI, it’s real’: shock as RSPCA releases images of 250 dogs found at property](https://www.theguardian.com/world/2026/apr/08/rspca-ai-images-dogs-property-uk)**
-
-Dozens of dogs were found crammed into single living room space at property in undisclosed location in UK
-
-The Guardian • 5h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -201,7 +203,7 @@ The Guardian • 5h ago
 
 A new initiative to secure the world’s most critical software and give defenders a durable advantage in the coming AI-driven era of cybersecurity.
 
-⬆️ 1490 • 💬 800 • 1d ago • [anthropic.com](https://www.anthropic.com/glasswing)
+⬆️ 1492 • 💬 802 • 1d ago • [anthropic.com](https://www.anthropic.com/glasswing)
 
 ---
 
@@ -225,13 +227,13 @@ iTunes was really bamboozled on April Fools Day. Dallas Little, content creator,
 
 Large language models may be standardizing human expression and subtly influencing how we think, says study led by USC Dornsife researcher
 
-⬆️ 229 • 💬 243 • 1d ago • [USC Dornsife News](https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/)
+⬆️ 231 • 💬 243 • 1d ago • [USC Dornsife News](https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/)
 
 ---
 
 **[AI helps add 10k more photos to OldNYC](https://news.ycombinator.com/item?id=47664836)**
 
-⬆️ 141 • 💬 50 • 2d ago • [danvk.org](https://www.danvk.org/2026/03/08/oldnyc-updates.html)
+⬆️ 142 • 💬 50 • 2d ago • [danvk.org](https://www.danvk.org/2026/03/08/oldnyc-updates.html)
 
 ---
 
@@ -247,7 +249,7 @@ Biologically-inspired memory for AI agents. Decay, retrieval strengthening, cons
 
 In 1958, Mao ordered every village to produce steel. The steel was useless. The crops rotted. Today's top-down AI mandates are producing the same pattern: ba...
 
-⬆️ 91 • 💬 44 • 10h ago • [Han, Not Solo](https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/)
+⬆️ 96 • 💬 46 • 12h ago • [Han, Not Solo](https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/)
 
 ---
 
@@ -259,7 +261,7 @@ In 1958, Mao ordered every village to produce steel. The steel was useless. The 
 
 **[Show HN: We fingerprinted 178 AI models' writing styles and similarity clusters](https://news.ycombinator.com/item?id=47690415)**
 
-⬆️ 76 • 💬 22 • 16h ago • [rival.tips](https://rival.tips/research/model-similarity)
+⬆️ 76 • 💬 23 • 18h ago • [rival.tips](https://rival.tips/research/model-similarity)
 
 ---
 
@@ -275,23 +277,23 @@ An AI agent was banned from editing Wikipedia pages... and that's when things go
 
 ## YouTube Videos: "ai"
 
+**[&#39;Terrifying warning sign&#39;: Anthropic delays AI model over security concerns](https://www.youtube.com/watch?v=htBaVVh_k90)**
+
+Anthropic says Mythos (officially dubbed “Claude Mythos Preview”) is not ready for a public launch because of the ways it could ...
+
+📺 CNN
+
+👁️ 279K • 👍 4K • 💬 1K • ⏱️ 9:58 • 6h ago
+
+---
+
 **[The Most Dangerous AI Just Went Live...](https://www.youtube.com/watch?v=kdix0L7csac)**
 
 Hello guys and gals, it's me Mutahar again! This time we take a look at Claude Mythos. In the last few days a massive project was ...
 
 📺 SomeOrdinaryGamers
 
-👁️ 199K • 👍 10K • 💬 1K • ⏱️ 20:17 • 9h ago
-
----
-
-**[The Truth About AI They Don&#39;t Want You To Know - Sebastian Mallaby](https://www.youtube.com/watch?v=UGF2S_1CIo0)**
-
-Sebastian Mallaby is back as a repeat guest on Open Book, with a brilliant new book. He spent 30 hours inside the mind of the ...
-
-📺 Anthony Scaramucci
-
-👁️ 27K • 👍 1K • 💬 120 • ⏱️ 29:56 • 14h ago
+👁️ 241K • 👍 11K • 💬 1K • ⏱️ 20:17 • 10h ago
 
 ---
 
@@ -301,37 +303,7 @@ Plaud NotePro has been really helpful for me to capture ideas and conversations.
 
 📺 Silicon Valley Girl
 
-👁️ 35K • 👍 1K • 💬 56 • ⏱️ 22:28 • 15h ago
-
----
-
-**[The Best Claude AI Business Ideas For Beginners](https://www.youtube.com/watch?v=us_9ogFJRUo)**
-
-Check out what people are creating (and selling!) with Claude AI - it's crazy... ▻ Get My FREE AI Print On Demand Business ...
-
-📺 Wholesale Ted
-
-👁️ 50K • 👍 3K • 💬 147 • ⏱️ 15:19 • 1d ago
-
----
-
-**[Claude’s New AI Just Changed the Internet Forever](https://www.youtube.com/watch?v=DG1wRgEpdO4)**
-
-Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=claude-mythos-security All my FREE ...
-
-📺 Nate Herk | AI Automation
-
-👁️ 150K • 👍 4K • 💬 599 • ⏱️ 7:50 • 1d ago
-
----
-
-**[Gemma 4   Google just made AI free forever](https://www.youtube.com/watch?v=hk6go5jioTk)**
-
-What if you could run ChatGPT-level AI on your Mac and iPhone for free, with no internet? Google just made it possible with ...
-
-📺 The Tech Girl
-
-👁️ 48K • 👍 2K • 💬 110 • ⏱️ 8:27 • 1d ago
+👁️ 41K • 👍 1K • 💬 69 • ⏱️ 22:28 • 16h ago
 
 ---
 
@@ -341,27 +313,17 @@ Bernie and I do not agree on everything, but we agree on a lot!! I wish we could
 
 📺 Hank Green
 
-👁️ 555K • 👍 31K • 💬 3K • ⏱️ 30:54 • 1d ago
+👁️ 564K • 👍 31K • 💬 3K • ⏱️ 30:54 • 1d ago
 
 ---
 
-**[OpenAI Just Dropped The Real Plan After AGI Hits](https://www.youtube.com/watch?v=u9Azd3weYCY)**
+**[Anthropic&#39;s Mythos AI Is Too Dangerous to Release. They&#39;re Using It Anyway.](https://www.youtube.com/watch?v=pGeh7tYRCJM)**
 
-OpenAI just dropped a policy blueprint built around one huge idea: superintelligence could hit hard enough to force a whole new ...
+Anthropic revealed Mythos, a new AI model so powerful they won't let the public use it. Instead, they're deploying it to defend ...
 
-📺 AI Revolution
+📺 AI For Humans
 
-👁️ 25K • 👍 853 • 💬 114 • ⏱️ 13:17 • 1d ago
-
----
-
-**[Google just casually disrupted the open-source AI narrative…](https://www.youtube.com/watch?v=-01ZCTt-CJw)**
-
-CodeRabbit CLI can fix your agent's code before it ever opens a PR - https://coderabbit.link/fireship Free forever for any open ...
-
-📺 Fireship
-
-👁️ 496K • 👍 23K • 💬 913 • ⏱️ 5:15 • 11h ago
+👁️ 10K • 👍 528 • 💬 170 • ⏱️ 32:56 • 18h ago
 
 ---
 
@@ -371,7 +333,47 @@ Anthropic says its newest AI model, Claude Mythos, is too powerful and dangerous
 
 📺 CBS News
 
-👁️ 16K • 👍 287 • 💬 60 • ⏱️ 3:39 • 10h ago
+👁️ 20K • 👍 325 • 💬 66 • ⏱️ 3:39 • 11h ago
+
+---
+
+**[Claude’s New AI Just Changed the Internet Forever](https://www.youtube.com/watch?v=DG1wRgEpdO4)**
+
+Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=claude-mythos-security All my FREE ...
+
+📺 Nate Herk | AI Automation
+
+👁️ 154K • 👍 5K • 💬 605 • ⏱️ 7:50 • 1d ago
+
+---
+
+**[Rezolve AI is Diluting AGAIN.... (This Time I Love It)](https://www.youtube.com/watch?v=os0_aF6Y6uM)**
+
+rezolveai #rzlv #rzlvstock We are going to be going over everything you need to know about Rezolve AI Stock here in this video ...
+
+📺 The Creative Investor
+
+👁️ 2K • 👍 121 • 💬 55 • ⏱️ 12:07 • 10h ago
+
+---
+
+**[Gemma 4   Google just made AI free forever](https://www.youtube.com/watch?v=hk6go5jioTk)**
+
+What if you could run ChatGPT-level AI on your Mac and iPhone for free, with no internet? Google just made it possible with ...
+
+📺 The Tech Girl
+
+👁️ 56K • 👍 2K • 💬 122 • ⏱️ 8:27 • 1d ago
+
+---
+
+**[The Best Claude AI Business Ideas For Beginners](https://www.youtube.com/watch?v=us_9ogFJRUo)**
+
+Check out what people are creating (and selling!) with Claude AI - it's crazy... ▻ Get My FREE AI Print On Demand Business ...
+
+📺 Wholesale Ted
+
+👁️ 52K • 👍 4K • 💬 151 • ⏱️ 15:19 • 1d ago
 
 ---
 
@@ -387,7 +389,7 @@ Gemma 4 31B is an instruction-tuned, multimodal LLM capable of processing text a
 
 `image-text-to-text` `32.7B`
 
-⬇️ 1,106,883 • ❤️ 1,484 • 6d ago
+⬇️ 1,333,678 • ❤️ 1,502 • 6d ago
 
 ---
 
@@ -399,7 +401,7 @@ Gemma-4-31B-JANG_4M-CRACK is a 31B parameter text-generation model optimized for
 
 `text-generation` `6.4B`
 
-⬇️ 44,246 • ❤️ 804 • 4d ago
+⬇️ 59,852 • ❤️ 815 • 4d ago
 
 ---
 
@@ -411,7 +413,7 @@ GLM-5.1 is a next-generation language model optimized for agentic engineering, f
 
 `text-generation` `753.9B`
 
-⬇️ 1,300 • ❤️ 765 • 18h ago
+⬇️ 8,465 • ❤️ 784 • 19h ago
 
 ---
 
@@ -423,7 +425,7 @@ VOID is a video-to-video diffusion model for object and interaction removal, cap
 
 `video-to-video`
 
-⬇️ 0 • ❤️ 652 • 2d ago
+⬇️ 0 • ❤️ 657 • 2d ago
 
 ---
 
@@ -435,7 +437,7 @@ Gemma 4 26B A4B is a multimodal instruction-tuned model capable of processing te
 
 `image-text-to-text` `26.5B`
 
-⬇️ 835,825 • ❤️ 547 • 6d ago
+⬇️ 1,046,548 • ❤️ 551 • 6d ago
 
 ---
 
@@ -447,19 +449,7 @@ Gemma 4 E4B is a multimodal, instruction-tuned LLM from Google DeepMind, support
 
 `any-to-any` `8.0B`
 
-⬇️ 622,963 • ❤️ 515 • 6d ago
-
----
-
-**[Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled](https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled)**
-
-*Jackrong*
-
-This image-text-to-text model, Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled, is fine-tuned on Qwen3.5-27B using Claude-4.6 Opus reasoning data for enhanced Chain-of-Thought capabilities. It excels at structured problem-solving and complex reasoning tasks, showing improved autonomy and stability in coding agent environments.
-
-`image-text-to-text` `27.8B`
-
-⬇️ 560,798 • ❤️ 2,513 • 3d ago
+⬇️ 784,026 • ❤️ 517 • 6d ago
 
 ---
 
@@ -471,7 +461,19 @@ VoxCPM2 is a 2B parameter, 30-language multilingual text-to-speech model capable
 
 `text-to-speech`
 
-⬇️ 605 • ❤️ 474 • 23h ago
+⬇️ 1,815 • ❤️ 484 • 1d ago
+
+---
+
+**[Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled](https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled)**
+
+*Jackrong*
+
+This image-text-to-text model, Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled, is fine-tuned on Qwen3.5-27B using Claude-4.6 Opus reasoning data for enhanced Chain-of-Thought capabilities. It excels at structured problem-solving and complex reasoning tasks, showing improved autonomy and stability in coding agent environments.
+
+`image-text-to-text` `27.8B`
+
+⬇️ 564,664 • ❤️ 2,520 • 3d ago
 
 ---
 
@@ -483,7 +485,7 @@ OmniVoice is a massively multilingual, zero-shot text-to-speech model supporting
 
 `text-to-speech`
 
-⬇️ 144,864 • ❤️ 402 • 3d ago
+⬇️ 200,591 • ❤️ 409 • 3d ago
 
 ---
 
@@ -495,7 +497,7 @@ Gemma 4 E2B-it is an instruction-tuned, multimodal (text, image, audio) LLM from
 
 `any-to-any` `5.1B`
 
-⬇️ 411,499 • ❤️ 366 • 6d ago
+⬇️ 514,591 • ❤️ 368 • 6d ago
 
 ---
 
@@ -511,7 +513,7 @@ Gemma 4 E2B-it is an instruction-tuned, multimodal (text, image, audio) LLM from
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 156 • 💬 7 • ⭐ 37,616 • 7mo ago
+▲ 157 • 💬 7 • ⭐ 37,805 • 7mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -535,23 +537,9 @@ A multi-agent framework using large language models for stock trading simulates 
 
 A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
 
-▲ 23 • 💬 1 • ⭐ 15,631 • 30mo ago
+▲ 23 • 💬 1 • ⭐ 15,762 • 30mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
-
----
-
-**[VOID: Video Object and Interaction Deletion](https://huggingface.co/papers/2604.02296)**
-
-*Saman Motamed, William Harvey, Benjamin Klein et al. (6 authors)*
-
-🏢 Netflix
-
-VOID is a video object removal framework that uses vision-language models and video diffusion models to generate physically plausible scenes by leveraging causal reasoning and counterfactual reasoning.
-
-▲ 47 • 💬 5 • ⭐ 1,315 • 7d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2604.02296) • [💻 code](https://github.com/Netflix/void-model) • [🔗 project](https://void-model.github.io/)
 
 ---
 
@@ -563,23 +551,23 @@ VOID is a video object removal framework that uses vision-language models and vi
 
 Video-MME-v2 presents a comprehensive benchmark for evaluating video understanding models through a progressive hierarchy and group-based evaluation to assess robustness and faithfulness.
 
-▲ 208 • 💬 8 • ⭐ 279 • 3d ago
+▲ 211 • 💬 8 • ⭐ 279 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.05015) • [💻 code](https://github.com/MME-Benchmarks/Video-MME-v2) • [🔗 project](https://video-mme-v2.netlify.app/)
 
 ---
 
-**[TriAttention: Efficient Long Reasoning with Trigonometric KV Compression](https://huggingface.co/papers/2604.04921)**
+**[VOID: Video Object and Interaction Deletion](https://huggingface.co/papers/2604.02296)**
 
-*Weian Mao, Xi Lin, Wei Huang et al. (8 authors)*
+*Saman Motamed, William Harvey, Benjamin Klein et al. (6 authors)*
 
-🏢 NVIDIA
+🏢 Netflix
 
-TriAttention addresses KV cache memory bottlenecks in LLMs by leveraging Q/K vector concentration in pre-RoPE space to improve key importance estimation and enable efficient long-context generation.
+VOID is a video object removal framework that uses vision-language models and video diffusion models to generate physically plausible scenes by leveraging causal reasoning and counterfactual reasoning.
 
-▲ 82 • 💬 4 • ⭐ 284 • 3d ago
+▲ 47 • 💬 5 • ⭐ 1,337 • 7d ago
 
-[🎓 arXiv](https://arxiv.org/abs/2604.04921) • [💻 code](https://github.com/WeianMao/triattention) • [🔗 project](https://weianmao.github.io/tri-attention-project-page/)
+[🎓 arXiv](https://arxiv.org/abs/2604.02296) • [💻 code](https://github.com/Netflix/void-model) • [🔗 project](https://void-model.github.io/)
 
 ---
 
@@ -595,6 +583,20 @@ Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precisio
 
 ---
 
+**[TriAttention: Efficient Long Reasoning with Trigonometric KV Compression](https://huggingface.co/papers/2604.04921)**
+
+*Weian Mao, Xi Lin, Wei Huang et al. (8 authors)*
+
+🏢 NVIDIA
+
+TriAttention addresses KV cache memory bottlenecks in LLMs by leveraging Q/K vector concentration in pre-RoPE space to improve key importance estimation and enable efficient long-context generation.
+
+▲ 82 • 💬 4 • ⭐ 314 • 3d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2604.04921) • [💻 code](https://github.com/WeianMao/triattention) • [🔗 project](https://weianmao.github.io/tri-attention-project-page/)
+
+---
+
 **[MinerU2.5: A Decoupled Vision-Language Model for Efficient
   High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
 
@@ -605,18 +607,6 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 ▲ 155 • 💬 2 • ⭐ 58,879 • 6mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
-
----
-
-**[LightRAG: Simple and Fast Retrieval-Augmented Generation](https://huggingface.co/papers/2410.05779)**
-
-*Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)*
-
-LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
-
-▲ 38 • 💬 2 • ⭐ 32,677 • 18mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
 
 ---
 
@@ -635,6 +625,18 @@ DeepScientist autonomously conducts scientific discovery through Bayesian Optimi
 
 ---
 
+**[LightRAG: Simple and Fast Retrieval-Augmented Generation](https://huggingface.co/papers/2410.05779)**
+
+*Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)*
+
+LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
+
+▲ 38 • 💬 2 • ⭐ 32,716 • 18mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
+
+---
+
 ---
 
 ## GitHub Repositories: "ai"
@@ -645,7 +647,7 @@ The highest-scoring AI memory system ever benchmarked. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 29.0k • 🔱 3.7k • 7h ago
+⭐ 30.2k • 🔱 3.8k • 8h ago
 
 ---
 
@@ -655,7 +657,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 25.3k • 🔱 4.7k • 10h ago
+⭐ 25.8k • 🔱 4.8k • 11h ago
 
 ---
 
@@ -665,7 +667,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 14.5k • 🔱 1.4k • 2h ago
+⭐ 14.5k • 🔱 1.4k • 3h ago
 
 ---
 
@@ -675,7 +677,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid
 
 `Python` `claude-code` `codex` `graphrag` `knowledge-graph` `openclaw`
 
-⭐ 13.8k • 🔱 1.4k • 6h ago
+⭐ 14.5k • 🔱 1.5k • 16m ago
 
 ---
 
@@ -705,7 +707,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 7.7k • 🔱 326 • 7h ago
+⭐ 7.9k • 🔱 332 • 8h ago
 
 ---
 
@@ -715,7 +717,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 7.1k • 🔱 434 • 1h ago
+⭐ 7.2k • 🔱 436 • 4m ago
 
 ---
 
@@ -725,7 +727,7 @@ AI Agent 源码深度研究报告
 
 `Python`
 
-⭐ 5.3k • 🔱 1.6k • 4d ago
+⭐ 5.3k • 🔱 1.6k • 5d ago
 
 ---
 
@@ -735,7 +737,7 @@ A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or 
 
 `claude-ai` `claude-skills` `llm` `prompt-engineering`
 
-⭐ 4.9k • 🔱 469 • 8d ago
+⭐ 4.9k • 🔱 470 • 8d ago
 
 ---
 
