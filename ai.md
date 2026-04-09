@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-09T20:12:45.637056+00:00'
+updated: '2026-04-09T21:09:27.593450+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
-- social
+- news
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 09, 2026 at 20:12 UTC  
+**Last Updated:** April 09, 2026 at 21:09 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 "AI didn't deliver," Johns Hopkins professor Steve Hanke told Fortune. "Welcome to the real world. Forget the AI bubble."
 
-🔗 [Fortune](https://fortune.com/2026/04/09/ai-backlash-quiet-quitting-fobo-obsolete-white-collar-rebellion/) • 6h ago
+🔗 [Fortune](https://fortune.com/2026/04/09/ai-backlash-quiet-quitting-fobo-obsolete-white-collar-rebellion/) • 7h ago
 
 ---
 
@@ -49,7 +49,7 @@ AI news, discussions, and developments
 
 Realbotix has delivered a Vinci-enabled humanoid robot to Ericsson, featuring AI vision, conversation memory, and real-time engagement tracking.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/us-humanoid-robot-learns-emotions) • 5h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/us-humanoid-robot-learns-emotions) • 6h ago
 
 ---
 
@@ -65,7 +65,7 @@ now it just look 💯 real
 
 A week ago I put out a first-day IPO market cap forecast for Anthropic with a reference point of $19B ARR. Then Anthropic announced their ARR had grown from $19B to $30B. I updated my forecast and now think Anthropic is worth at least $100B more than I did a week ago. I'm still anchoring growth rate assumptions to how companies have historically scaled revenue, but if growth trends from the last four decades were to continue, this would imply a company growing faster than any company in history (~$10B in 2025 to ~$100B by 2027.) Previously, I thought OpenAI could achieve that. Now it looks like Anthropic is the company to do it, but with an even steeper revenue curve, given that they hit their first billion in ARR much later than OpenAI. Of course, it's difficult to figure out how much weight we should give to ridiculously outsized growth in the age of AI. If historical growth patterns no longer apply, then $643B is way too conservative. (Full updated forecast: https://futuresearch.ai/anthropic-30b-arr-ipo-valuation/) The second implication of this week's news is IPO timing and whether the $30B number makes Anthropic list earlier than my original March 2027 date. Investor sentiment is hot now, and it's always risky to bet that growth will continue at this astounding rate. How much could waiting another year cost them?
 
-5h ago
+6h ago
 
 ---
 
@@ -73,7 +73,7 @@ A week ago I put out a first-day IPO market cap forecast for Anthropic with a re
 
 Visa's Intelligent Commerce platform lets AI agents shop, compare, and transact on behalf of consumers, and the company says the majority of business leaders are ready for it.
 
-🔗 [thedefiant.io](https://thedefiant.io/news/tradfi-and-fintech/visa-rolls-out-ai-agent-shopping-infrastructure-globally) • 3h ago
+🔗 [thedefiant.io](https://thedefiant.io/news/tradfi-and-fintech/visa-rolls-out-ai-agent-shopping-infrastructure-globally) • 4h ago
 
 ---
 
@@ -81,7 +81,7 @@ Visa's Intelligent Commerce platform lets AI agents shop, compare, and transact 
 
 Remember when Altman literally said in 2024 that ads are a last resort for them? Well. Here we are. What gets me isn’t the $100M itself — it’s that they hit it while the product is basically still in beta. Less than 20% of users see ads daily. No self-serve tools yet. No international rollout yet. 600 advertisers but most needed a $200K minimum just to get in. They haven’t even opened the floodgates and it’s already nine figures. The part I keep thinking about: Google built an empire on search intent — people typing what they want. ChatGPT has something different. People explain their whole situation to it. That’s a completely different level of signal for an advertiser. Whether they can scale this without killing the trust that makes the product work in the first place — that’s the actual story.
 
-20h ago
+21h ago
 
 ---
 
@@ -89,7 +89,7 @@ Remember when Altman literally said in 2024 that ads are a last resort for them?
 
 Across many subreddits, we see varying levels of ai acceptance/tolerance. Some subs will celebrate ai generated/edited posts, and then some will ban you without warning. Even when it comes to this wave of "vibe coded apps" we see the same thing. Some apps created with ai are truly jaw dropping while other apps look like a Picaso painting. Then people are so quick to blame ai for any "slop" content posted on the internet. But the truth is the ai isn't responsible for the slop, the creators are. You see what ai did was turn bad devs into mediocre devs, and mediocre devs into great devs, and great devs into elite devs (replace devs with whatever skill you want). Ai lowered the bar of entry while at the same time boosted the confidence of everyone using it. So while there may be slop produced along the gems, we should look at it as harvesting the wheat with the weeds.
 
-47m ago
+1h ago
 
 ---
 
@@ -97,7 +97,7 @@ Across many subreddits, we see varying levels of ai acceptance/tolerance. Some s
 
 The new spending will run between 2027 and 2032, as Meta boosts its own AI infrastructure while also counting on CoreWeave, which rents out Nvidia graphics chips. “They’re going to continue to do it themselves, but they’re also going to continue to do it with us,” CoreWeave CEO Mike Intrator said in an interview. “There’s just too much risk not to.”
 
-🔗 [CNBC](https://www.cnbc.com/2026/04/09/meta-commits-to-spending-additional-21-billion-with-coreweave-.html) • 8h ago
+🔗 [CNBC](https://www.cnbc.com/2026/04/09/meta-commits-to-spending-additional-21-billion-with-coreweave-.html) • 9h ago
 
 ---
 
@@ -105,7 +105,7 @@ The new spending will run between 2027 and 2032, as Meta boosts its own AI infra
 
 You can ask Gemini to “help me visualize” different concepts.
 
-🔗 [The Verge](https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations) • 1h ago
+🔗 [The Verge](https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations) • 2h ago
 
 ---
 
@@ -113,7 +113,7 @@ You can ask Gemini to “help me visualize” different concepts.
 
 The company says it has built its most dangerous model yet. Can its coalition of internet companies fix the internet before others catch up?
 
-🔗 [Platformer](https://www.platformer.news/anthropic-mythos-cybersecurity-risk-experts/) • 5h ago
+🔗 [Platformer](https://www.platformer.news/anthropic-mythos-cybersecurity-risk-experts/) • 6h ago
 
 ---
 
@@ -125,7 +125,7 @@ The company says it has built its most dangerous model yet. Can its coalition of
 
 A new initiative to secure the world’s most critical software and give defenders a durable advantage in the coming AI-driven era of cybersecurity.
 
-Anthropic • 1h ago
+Anthropic • 2h ago
 
 ---
 
@@ -133,7 +133,7 @@ Anthropic • 1h ago
 
 U.S. software shares tumbled on Thursday after Anthropic held back the wide release of a powerful AI ‌model over concerns it could expose hidden cybersecurity vulnerabilities, deepening ‌investor fears about the threat to traditional software firms.  Anthropic said earlier this week it ​would only allow a group of around 40 companies, including Microsoft and Google, access to its "Claude Mythos" model because it has already found thousands of vulnerabilities, including some in every major operating system and web browser.  "If ‌Mythos is that strong ⁠and that powerful and it's exposing these vulnerabilities that have been around for years, it just shows one, ⁠the weakness of the current software that's out there and two, that AI is still making incredible progress versus legacy software companies," said Michael O’Rourke, ​chief ​market strategist at JonesTrading.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -149,7 +149,7 @@ CNBC • 1h ago
 
 Artificial intelligence company cites high energy costs and regulation for putting landmark project on hold
 
-The Guardian • 7h ago
+The Guardian • 8h ago
 
 ---
 
@@ -157,19 +157,19 @@ The Guardian • 7h ago
 
 The poll from Epoch AI and Ipsos found that AI replaced existing tasks for 20% of full-time workers but created new tasks for 15%.
 
-NBC News • 4h ago
+NBC News • 5h ago
 
 ---
 
 **[Opinion | What A.I. and D.E.I. Have in Common](https://www.nytimes.com/2026/04/09/opinion/ai-dei-arts-academics.html)**
 
-The New York Times • 52m ago
+The New York Times • 1h ago
 
 ---
 
 **[Gen Z's fading AI hype](https://www.axios.com/2026/04/09/ai-gen-z-polling-gallup)**
 
-Axios • 16h ago
+Axios • 17h ago
 
 ---
 
@@ -177,7 +177,7 @@ Axios • 16h ago
 
 Muse Spark was competitive with models from OpenAI, Google and Anthropic in language, but lagged in coding
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
@@ -191,7 +191,7 @@ The New York Times • 1d ago
 
 Meta Platforms (META) is doubling down on its partnership with CoreWeave (CRWV) through a new $21 billion deal to better leverage CoreWeave's AI cloud platform for scale. Meta also released its new Muse Spark AI model earlier this week. Yahoo Finance Tech Editor Dan Howley breaks down the headlines.
 
-Yahoo Finance • 32m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -241,13 +241,13 @@ In 1958, Mao ordered every village to produce steel. The steel was useless. The 
 
 **[Ask HN: What are you building that's not AI related?](https://news.ycombinator.com/item?id=47700460)**
 
-⬆️ 106 • 💬 127 • 12h ago
+⬆️ 106 • 💬 127 • 13h ago
 
 ---
 
 **[Study found that young adults have grown less hopeful and more angry about AI](https://news.ycombinator.com/item?id=47704443)**
 
-⬆️ 98 • 💬 142 • 5h ago • [nytimes.com](https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html)
+⬆️ 98 • 💬 142 • 6h ago • [nytimes.com](https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html)
 
 ---
 
@@ -279,7 +279,7 @@ Could AI become dangerous? Can we trust AI Agents? AGI. Use code insideai at htt
 
 📺 InsideAI
 
-👁️ 28K • 👍 3K • 💬 309 • ⏱️ 16:24 • 3h ago
+👁️ 28K • 👍 3K • 💬 309 • ⏱️ 16:24 • 4h ago
 
 ---
 
@@ -289,7 +289,7 @@ Anthropic says Mythos (officially dubbed “Claude Mythos Preview”) is not rea
 
 📺 CNN
 
-👁️ 654K • 👍 9K • 💬 2K • ⏱️ 9:58 • 18h ago
+👁️ 654K • 👍 9K • 💬 2K • ⏱️ 9:58 • 19h ago
 
 ---
 
@@ -299,7 +299,7 @@ Hello guys and gals, it's me Mutahar again! This time we take a look at Claude M
 
 📺 SomeOrdinaryGamers
 
-👁️ 350K • 👍 15K • 💬 2K • ⏱️ 20:17 • 22h ago
+👁️ 350K • 👍 15K • 💬 2K • ⏱️ 20:17 • 23h ago
 
 ---
 
@@ -309,7 +309,7 @@ Tech companies are investing billions of dollars in chips that cannot be turned 
 
 📺 Inside China Business
 
-👁️ 33K • 👍 3K • 💬 338 • ⏱️ 5:05 • 7h ago
+👁️ 33K • 👍 3K • 💬 338 • ⏱️ 5:05 • 8h ago
 
 ---
 
@@ -329,7 +329,7 @@ Simplify Your Workflow With Odoo Today: https://www.odoo.com/r/fHO 4000+ read ou
 
 📺 Economics Explained
 
-👁️ 131K • 👍 6K • 💬 548 • ⏱️ 16:52 • 6h ago
+👁️ 131K • 👍 6K • 💬 548 • ⏱️ 16:52 • 7h ago
 
 ---
 
@@ -339,7 +339,7 @@ Disclaimer: NMLS 182334, nmlsconsumeraccess.org. APR for rates in the 5s start a
 
 📺 Sheriff Lamb
 
-👁️ 102K • 👍 7K • 💬 1K • ⏱️ 23:16 • 7h ago
+👁️ 102K • 👍 7K • 💬 1K • ⏱️ 23:16 • 8h ago
 
 ---
 
@@ -643,7 +643,7 @@ The highest-scoring AI memory system ever benchmarked. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 34.7k • 🔱 4.4k • 1h ago
+⭐ 34.7k • 🔱 4.4k • 2h ago
 
 ---
 
@@ -653,7 +653,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 27.3k • 🔱 5.1k • 3h ago
+⭐ 27.3k • 🔱 5.1k • 4h ago
 
 ---
 
@@ -663,7 +663,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Ope
 
 `Python` `claude-code` `codex` `graphrag` `knowledge-graph` `openclaw`
 
-⭐ 17.1k • 🔱 1.7k • 3h ago
+⭐ 17.1k • 🔱 1.7k • 4h ago
 
 ---
 
@@ -673,7 +673,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 14.7k • 🔱 1.4k • 51m ago
+⭐ 14.7k • 🔱 1.4k • 1h ago
 
 ---
 
@@ -703,7 +703,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 8.6k • 🔱 374 • 45m ago
+⭐ 8.6k • 🔱 374 • 1h ago
 
 ---
 
@@ -713,7 +713,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 7.2k • 🔱 441 • 4h ago
+⭐ 7.2k • 🔱 441 • 5h ago
 
 ---
 

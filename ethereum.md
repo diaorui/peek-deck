@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-09T20:12:45.651190+00:00'
+updated: '2026-04-09T21:09:27.605922+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- cryptocurrency
 - social
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 09, 2026 at 20:12 UTC  
+**Last Updated:** April 09, 2026 at 21:09 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Tom Lee went on CNBC saying the market bottom is probably already in, and that crypto (especially ETH) could lead the next move up. But the interesting part is he’s not just talking — the company he chairs (BitMine) keeps stacking ETH hard. They’re sitting on ~4.8M ETH (close to 4% of supply), with a huge chunk staked. That’s not trading, that’s positioning. Feels like one of the first times we’re seeing a macro thesis + actual balance sheet move fully aligned around Ethereum. Source: https://btcusa.com/tom-lee-says-the-market-bottom-is-in-as-bitmine-doubles-down-on-ethereum/
 
-8h ago
+9h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The Ethereum Layer 2 powering Predictstreet. Built by Abu Dhabi's IHC, hosting a UAE central-bank-licensed stablecoin, with BlackRock and Mastercard as collaborators.
 
-🔗 [Company Gibraltar | company.gi](https://company.gi/blog/adi-chain-explained) • 10h ago
+🔗 [Company Gibraltar | company.gi](https://company.gi/blog/adi-chain-explained) • 11h ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum treasury giant BitMine Immersion Technologies upped its share buyback program to $4 billion and was uplisted to the NYSE on Thursday.
 
-Decrypt • 4h ago
+Decrypt • 5h ago
 
 ---
 
@@ -164,7 +164,7 @@ Decrypt • 4h ago
 
 Joe "CupOJoseph" Schiarizzi is running for Congress as a Democrat in Virginia's new 7th district.
 
-Yahoo • 3h ago
+Yahoo • 4h ago
 
 ---
 
@@ -172,19 +172,19 @@ Yahoo • 3h ago
 
 Bitcoin and Ethereum’s dominance is being directly challenged in a new outlook from Bloomberg Intelligence strategist Mike McGlone, who believes that an unexpected contender is positioning itself to overtake both. Tether USDT’s market cap is steadily closing in on Ethereum, and Mike McGlone thinks…
 
-TradingView • 3h ago
+TradingView • 4h ago
 
 ---
 
 **[Bitcoin Price Falls. Why Faltering Iran Cease-Fire Could Crush Cryptos.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-today-2ef03b04)**
 
-Barron's • 13h ago
+Barron's • 14h ago
 
 ---
 
 **[Most large cryptocurrencies fall as Ethereum tumbles](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-as-ethereum-tumbles-91a2f421-9307bc266dcb)**
 
-MarketWatch • 6h ago
+MarketWatch • 7h ago
 
 ---
 
@@ -214,7 +214,7 @@ Forbes • 2d ago
 
 Galaxy Digital joins BlackRock's Ethereum Trust ETF as a validator, part of a regulated yield-bearing approach for ether exposure.
 
-Crypto Briefing • 3h ago
+Crypto Briefing • 4h ago
 
 ---
 
@@ -222,7 +222,7 @@ Crypto Briefing • 3h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 7h ago
+Fortune • 8h ago
 
 ---
 
@@ -246,7 +246,7 @@ In this video, I take a closer look at the current Ethereum market structure and
 
 📺 More Crypto Online
 
-👁️ 868 • 👍 104 • 💬 10 • ⏱️ 10:05 • 1h ago
+👁️ 868 • 👍 104 • 💬 10 • ⏱️ 10:05 • 2h ago
 
 ---
 
@@ -256,7 +256,7 @@ In this video, I take a closer look at the current Ethereum market structure and
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 170 • 💬 14 • ⏱️ 10:28 • 19h ago
+👁️ 3K • 👍 170 • 💬 14 • ⏱️ 10:28 • 20h ago
 
 ---
 
@@ -266,7 +266,7 @@ In this video, we explain what an XRP node is, why node operation has recently g
 
 📺 Discover Health
 
-👁️ 4K • 👍 192 • ⏱️ 4:44 • 7h ago
+👁️ 4K • 👍 192 • ⏱️ 4:44 • 8h ago
 
 ---
 
@@ -276,7 +276,7 @@ ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the
 
 📺 LUAHA PRO
 
-👁️ 5K • 👍 3K • 4h ago
+👁️ 5K • 👍 3K • 5h ago
 
 ---
 
@@ -286,7 +286,7 @@ Jetzt gratis sichern → https://www.blockchain-investor.de/app Die neue „Bloc
 
 📺 Krypto Report
 
-👁️ 2K • 👍 337 • 💬 9 • ⏱️ 18:19 • 3h ago
+👁️ 2K • 👍 337 • 💬 9 • ⏱️ 18:19 • 4h ago
 
 ---
 
@@ -296,7 +296,7 @@ Ethereum está pasando por uno de los momentos más complicados de todo este cic
 
 📺 Healthy Pockets
 
-👁️ 4K • 👍 391 • 💬 23 • ⏱️ 14:46 • 5h ago
+👁️ 4K • 👍 391 • 💬 23 • ⏱️ 14:46 • 6h ago
 
 ---
 
@@ -306,7 +306,7 @@ invested in crypto — who wins? Watch the insane volatility of BTC, ETH, and SO
 
 📺 Data Insights
 
-👁️ 759 • 👍 10 • ⏱️ 0:41 • 2h ago
+👁️ 759 • 👍 10 • ⏱️ 0:41 • 3h ago
 
 ---
 
