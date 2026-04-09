@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-09T17:37:11.002282+00:00'
+updated: '2026-04-09T19:08:46.330103+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
 - social
-- news
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 09, 2026 at 17:37 UTC  
+**Last Updated:** April 09, 2026 at 19:08 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,214.12
+### $2,209.84
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** +7.6%  
-**30d:** +7.7%  
-**90d:** -28.4%  
-**1y:** +45.1%  
+**24h:** +0.2%  
+**7d:** +7.8%  
+**30d:** +8.0%  
+**90d:** -28.3%  
+**1y:** +45.5%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Tom Lee went on CNBC saying the market bottom is probably already in, and that crypto (especially ETH) could lead the next move up. But the interesting part is he’s not just talking — the company he chairs (BitMine) keeps stacking ETH hard. They’re sitting on ~4.8M ETH (close to 4% of supply), with a huge chunk staked. That’s not trading, that’s positioning. Feels like one of the first times we’re seeing a macro thesis + actual balance sheet move fully aligned around Ethereum. Source: https://btcusa.com/tom-lee-says-the-market-bottom-is-in-as-bitmine-doubles-down-on-ethereum/
 
-5h ago
+7h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The Ethereum Layer 2 powering Predictstreet. Built by Abu Dhabi's IHC, hosting a UAE central-bank-licensed stablecoin, with BlackRock and Mastercard as collaborators.
 
-🔗 [Company Gibraltar | company.gi](https://company.gi/blog/adi-chain-explained) • 7h ago
+🔗 [Company Gibraltar | company.gi](https://company.gi/blog/adi-chain-explained) • 9h ago
 
 ---
 
@@ -152,33 +152,25 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Most large cryptocurrencies fall as Ethereum tumbles](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-as-ethereum-tumbles-91a2f421-9307bc266dcb)**
+**[Tom Lee's BitMine Uplisted to NYSE as Ethereum Firm Expands Buyback Program to $4 Billion](https://finance.yahoo.com/markets/stocks/articles/tom-lees-bitmine-uplisted-nyse-155826429.html)**
 
-MarketWatch • 3h ago
-
----
-
-**[Ethereum Foundation Offloads Another 5,000 Tokens](https://finance.yahoo.com/markets/crypto/articles/ethereum-foundation-offloads-another-5-143500752.html)**
-
-The Ethereum Foundation plans to convert 5,000 Ether (CRYPTO: $ETH), worth $11 million U.S., into stablecoins.
+Ethereum treasury giant BitMine Immersion Technologies upped its share buyback program to $4 billion and was uplisted to the NYSE on Thursday.
 
 Yahoo Finance • 3h ago
 
 ---
 
-**[Tom Lee's BitMine Uplisted to NYSE as Ethereum Firm Expands Buyback Program to $4 Billion](https://finance.yahoo.com/markets/stocks/articles/tom-lees-bitmine-uplisted-nyse-155826429.html)**
+**[Bloomberg Analyst Predicts This ‘Underdog’ Will Flip Bitcoin And Ethereum](https://www.tradingview.com/news/newsbtc:4c75342d7094b:0-bloomberg-analyst-predicts-this-underdog-will-flip-bitcoin-and-ethereum/)**
 
-Ethereum treasury giant BitMine Immersion Technologies upped its share buyback program to $4 billion and was uplisted to the NYSE on Thursday.
+Bitcoin and Ethereum’s dominance is being directly challenged in a new outlook from Bloomberg Intelligence strategist Mike McGlone, who believes that an unexpected contender is positioning itself to overtake both. Tether USDT’s market cap is steadily closing in on Ethereum, and Mike McGlone thinks…
 
-Yahoo Finance • 1h ago
+TradingView • 2h ago
 
 ---
 
-**[ETH Up or Down - 5 Minutes](https://polymarket.com/event/eth-updown-5m-1775754300)**
+**[Most large cryptocurrencies fall as Ethereum tumbles](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-as-ethereum-tumbles-91a2f421-9307bc266dcb)**
 
-Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
-
-Polymarket • 15h ago
+MarketWatch • 5h ago
 
 ---
 
@@ -190,11 +182,19 @@ The Block • 1d ago
 
 ---
 
-**[Current price of Ethereum for April 9, 2026](https://fortune.com/article/price-of-ethereum-04-09-2026/)**
+**[Bit Digital Inc. Reports Monthly Ethereum Treasury and Staking Metrics for March 2026](https://bit-digital.com/news/bit-digital-inc-reports-monthly-ethereum-treasury-and-staking-metrics-for-march-2026/)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+Bit Digital, Inc. (Nasdaq: BTBT), today announced its monthly Ethereum (“ETH”) treasury and staking metrics for the month of March 2026.
 
-Fortune • 4h ago
+Bit Digital • 2d ago
+
+---
+
+**[ETH Up or Down - 5 Minutes](https://polymarket.com/event/eth-updown-5m-1775759400)**
+
+Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+
+Polymarket • 2d ago
 
 ---
 
@@ -204,11 +204,11 @@ Forbes • 2d ago
 
 ---
 
-**[Bit Digital Inc. Reports Monthly Ethereum Treasury and Staking Metrics for March 2026](https://bit-digital.com/news/bit-digital-inc-reports-monthly-ethereum-treasury-and-staking-metrics-for-march-2026/)**
+**[Current price of Ethereum for April 9, 2026](https://fortune.com/article/price-of-ethereum-04-09-2026/)**
 
-Bit Digital, Inc. (Nasdaq: BTBT), today announced its monthly Ethereum (“ETH”) treasury and staking metrics for the month of March 2026.
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Bit Digital • 2d ago
+Fortune • 6h ago
 
 ---
 
@@ -216,7 +216,7 @@ Bit Digital • 2d ago
 
 Galaxy Digital joins BlackRock's Ethereum Trust ETF as a validator, part of a regulated yield-bearing approach for ether exposure.
 
-Crypto Briefing • 52m ago
+Crypto Briefing • 2h ago
 
 ---
 
@@ -224,7 +224,7 @@ Crypto Briefing • 52m ago
 
 Ethereum and Bitcoin are going off in interesting directions right now.
 
-AMBCrypto • 11h ago
+AMBCrypto • 13h ago
 
 ---
 
@@ -248,7 +248,7 @@ In this video, I take a closer look at the current Ethereum market structure and
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 169 • 💬 14 • ⏱️ 10:28 • 17h ago
+👁️ 2K • 👍 169 • 💬 14 • ⏱️ 10:28 • 18h ago
 
 ---
 
@@ -258,7 +258,7 @@ ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the
 
 📺 LUAHA PRO
 
-👁️ 5K • 👍 3K • 2h ago
+👁️ 5K • 👍 3K • 3h ago
 
 ---
 
@@ -268,7 +268,7 @@ In this video, we explain what an XRP node is, why node operation has recently g
 
 📺 Discover Health
 
-👁️ 4K • 👍 122 • ⏱️ 4:44 • 5h ago
+👁️ 4K • 👍 122 • ⏱️ 4:44 • 6h ago
 
 ---
 
@@ -278,7 +278,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 1K • 👍 65 • 💬 25 • ⏱️ 1:01:34 • 7h ago
+👁️ 1K • 👍 65 • 💬 25 • ⏱️ 1:01:34 • 8h ago
 
 ---
 
@@ -288,7 +288,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 141 • 👍 11 • ⏱️ 5:44 • 7h ago
+👁️ 141 • 👍 11 • ⏱️ 5:44 • 9h ago
 
 ---
 
@@ -298,7 +298,7 @@ Ethereum está pasando por uno de los momentos más complicados de todo este cic
 
 📺 Healthy Pockets
 
-👁️ 2K • 👍 242 • 💬 18 • ⏱️ 14:46 • 3h ago
+👁️ 2K • 👍 242 • 💬 18 • ⏱️ 14:46 • 4h ago
 
 ---
 
@@ -308,7 +308,7 @@ Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zu
 
 📺 Krypto Trading & Investing
 
-👁️ 3K • 👍 650 • 💬 78 • ⏱️ 10:41 • 12h ago
+👁️ 3K • 👍 650 • 💬 78 • ⏱️ 10:41 • 14h ago
 
 ---
 
@@ -318,7 +318,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 342 • 👍 42 • ⏱️ 4:50 • 2h ago
+👁️ 342 • 👍 42 • ⏱️ 4:50 • 4h ago
 
 ---
 
