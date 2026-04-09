@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-09T05:27:49.304566+00:00'
+updated: '2026-04-09T06:57:32.584688+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
+- cryptocurrency
 - news
 - social
-- cryptocurrency
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 09, 2026 at 05:27 UTC  
+**Last Updated:** April 09, 2026 at 06:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $70,980.73
+### $71,020.06
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.1%  
-**7d:** +5.9%  
-**30d:** +1.0%  
-**90d:** -21.6%  
-**1y:** -11.1%  
+**24h:** -0.9%  
+**7d:** +6.0%  
+**30d:** +1.1%  
+**90d:** -21.5%  
+**1y:** -11.0%  
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Is this you?](https://www.reddit.com/r/Bitcoin/comments/1sg4gms/is_this_you/)**
 
-9h ago
+10h ago
 
 ---
 
 **[They hate this little trick](https://www.reddit.com/r/Bitcoin/comments/1sg3mx1/they_hate_this_little_trick/)**
 
-9h ago
+11h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 A ton of BTC was recently traded below $70,000 in a sign of strong dip demand.
 
-🔗 [coindesk.com](https://www.coindesk.com/markets/2026/04/08/bitcoin-buyers-gobbled-up-nearly-850-000-btc-between-usd60-000-and-usd70-000) • 15h ago
+🔗 [coindesk.com](https://www.coindesk.com/markets/2026/04/08/bitcoin-buyers-gobbled-up-nearly-850-000-btc-between-usd60-000-and-usd70-000) • 17h ago
 
 ---
 
@@ -101,7 +101,7 @@ A ton of BTC was recently traded below $70,000 in a sign of strong dip demand.
 
 Morgan Stanley's bitcoin ETF comes with a 0.14% annual fee, making it the lowest in the spot BTC ETF market and undercutting BlackRock's IBIT (0.25%)
 
-15h ago
+16h ago
 
 ---
 
@@ -109,23 +109,7 @@ Morgan Stanley's bitcoin ETF comes with a 0.14% annual fee, making it the lowest
 
 Im so sorry guys! Im going to start buying in now meaning it’s going to crash! So for you regards out there that only buy when its high go ahead and make that purchase 😩
 
-5h ago
-
----
-
-**["I am not aware of the ability to send Bitcoin without some intermediating service"](https://www.reddit.com/r/Bitcoin/comments/1sftxcl/i_am_not_aware_of_the_ability_to_send_bitcoin/)**
-
-https://www.reddit.com/r/askanything/comments/1s8mrgl/comment/oenq0i2/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button I thought some of you might like to read this comment. I was debating this guy for a while until he finally spit this sentence out: I didn't misrepresent anything. How is "sending [XYZ] unlimited distance without a third party" unique at all? How is this any different than a wire transfer? I guess there is banking intermediation, but I am not aware of the ability to send Bitcoin without some intermediating service, either. This absolutely baffled me, as he was confidently debating me for quite a while, then accidentally admitted he thought bitcoin required an "intermediating service". I called him out and he has since not responded...lol.
-
-15h ago
-
----
-
-**[0.075BTC at 18y old](https://www.reddit.com/r/Bitcoin/comments/1sfq9y9/0075btc_at_18y_old/)**
-
-Shall i accumulate more? Or wait and hodl.
-
-17h ago
+6h ago
 
 ---
 
@@ -133,21 +117,37 @@ Shall i accumulate more? Or wait and hodl.
 
 Paid a local cafe in sats and got 25 bucks back from the btc day promotion 😁!
 
-8h ago
+10h ago
+
+---
+
+**["I am not aware of the ability to send Bitcoin without some intermediating service"](https://www.reddit.com/r/Bitcoin/comments/1sftxcl/i_am_not_aware_of_the_ability_to_send_bitcoin/)**
+
+https://www.reddit.com/r/askanything/comments/1s8mrgl/comment/oenq0i2/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button I thought some of you might like to read this comment. I was debating this guy for a while until he finally spit this sentence out: I didn't misrepresent anything. How is "sending [XYZ] unlimited distance without a third party" unique at all? How is this any different than a wire transfer? I guess there is banking intermediation, but I am not aware of the ability to send Bitcoin without some intermediating service, either. This absolutely baffled me, as he was confidently debating me for quite a while, then accidentally admitted he thought bitcoin required an "intermediating service". I called him out and he has since not responded...lol.
+
+16h ago
+
+---
+
+**[0.075BTC at 18y old](https://www.reddit.com/r/Bitcoin/comments/1sfq9y9/0075btc_at_18y_old/)**
+
+Shall i accumulate more? Or wait and hodl.
+
+19h ago
+
+---
+
+**[Daily Discussion, April 09, 2026](https://www.reddit.com/r/Bitcoin/comments/1sgheko/daily_discussion_april_09_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+50m ago
 
 ---
 
 **[Everyone right now](https://www.reddit.com/r/Bitcoin/comments/1sfe1rq/everyone_right_now/)**
 
 1d ago
-
----
-
-**[Morgan Stanley's Bitcoin ETF set to launch on Wednesday](https://www.reddit.com/r/Bitcoin/comments/1sfm3zt/morgan_stanleys_bitcoin_etf_set_to_launch_on/)**
-
-Morgan Stanley’s Bitcoin exchange-traded fund is set to debut on the NYSE Arca stock exchange on Wednesday, making it the first major commercial bank to offer a Bitcoin ETF in the US.The launch of the Morgan Stanley Bitcoin Trust (MSBT) on April 8 was confirmed in a listing notice by the New York S…
-
-🔗 [TradingView](https://www.tradingview.com/news/cointelegraph:7fd1c9c81094b:0-morgan-stanley-s-bitcoin-etf-set-to-launch-on-wednesday/) • 21h ago
 
 ---
 
@@ -159,53 +159,7 @@ Morgan Stanley’s Bitcoin exchange-traded fund is set to debut on the NYSE Arca
 
 The British computer scientist and entrepreneur has denied being the man who the New York Times identified at Satoshi Nakamoto.
 
-BBC • 18h ago
-
----
-
-**[Bitcoin jumps on US-Iran ceasefire talks, long-term rally remains uncertain: analyst](https://www.theblock.co/post/396607/bitcoin-jumps-us-iran-ceasefire)**
-
-One analyst noted that a full resolution is needed for the current upward momentum to be translated into a long-term bull cycle.
-
-The Block • 1d ago
-
----
-
-**[Bitcoin and ethereum price today, Wednesday, April 8, 2026: Prices rise after U.S.-Iran ceasefire announcement](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-wednesday-april-8-2026-prices-rise-after-us-iran-ceasefire-announcement-113837833.html)**
-
-Bitcoin (BTC-USD) opened higher at $71,926.16 and ethereum (ETH-USD) opened higher at $2,239.89 following President Trump’s announcement of a temporary ceasefire agreement with Iran.
-
-Yahoo Finance • 17h ago
-
----
-
-**[Bitcoin under $71,000, ETH, SOL, XRP drop as Iran ceasefire frays within 48 hours of being signed](https://www.coindesk.com/markets/2026/04/09/bitcoin-under-usd71-000-eth-sol-xrp-drop-as-iran-ceasefire-frays-within-48-hours-of-being-signed)**
-
-Tehran says three clauses of the ceasefire have been breached, oil is rebounding toward $97, and the Strait of Hormuz remains effectively closed despite the deal.
-
-CoinDesk • 1h ago
-
----
-
-**[Bitcoin Depot reveals $3.7 million stolen from company wallets in security breach](https://www.theblock.co/post/396804/bitcoin-depot-3-7-million-stolen?utm_source=companies.xml&utm_medium=rss)**
-
-The crypto ATM operator has suffered a security breach that resulted in 50.9 BTC being drained from its company wallets.
-
-The Block • 1h ago
-
----
-
-**[Bitcoin Golden Cross Trend Enters Flow State: Why The Next 2-3 Weeks Are Important](https://www.tradingview.com/news/newsbtc:91845b556094b:0-bitcoin-golden-cross-trend-enters-flow-state-why-the-next-2-3-weeks-are-important/)**
-
-Bitcoin (BTC) could be preparing for another major bull rally as a Golden Cross has recently appeared on the cryptocurrency’s Inter-exchange Flow Pulse (IFP). A crypto analyst who explained the significance of this occurrence notes that the timeline of this Golden Cross aligns almost perfectly with…
-
-TradingView • 2h ago
-
----
-
-**[How The Trumps Blew $1 Billion On Bitcoin](https://www.forbes.com/sites/danalexander/2026/04/08/how-the-trumps-blew-1-billion-on-bitcoin/)**
-
-Forbes • 18h ago
+BBC • 20h ago
 
 ---
 
@@ -213,13 +167,7 @@ Forbes • 18h ago
 
 Iran is looking to charge shipowners a fee of $1 per barrel of oil onboard for safe passage across the Strait of Hormuz, to be paid in cryptocurrency, according to the Financial Times.
 
-Yahoo Finance • 15h ago
-
----
-
-**[‘Will Be Destroyed’—Iran’s Bitcoin Toll Sparks $100K Price Prediction](https://www.forbes.com/sites/digital-assets/2026/04/08/will-be-destroyed-irans-bitcoin-toll-sparks-100k-price-prediction/)**
-
-Forbes • 10h ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -227,7 +175,57 @@ Forbes • 10h ago
 
 Iran is reportedly open transit tolls paid in bitcoin and crypto for ships crossing the Strait of Hormuz amid volatile ceasefire.
 
-The Block • 15h ago
+The Block • 16h ago
+
+---
+
+**[‘Will Be Destroyed’—Iran’s Bitcoin Toll Sparks $100K Price Prediction](https://www.forbes.com/sites/digital-assets/2026/04/08/will-be-destroyed-irans-bitcoin-toll-sparks-100k-price-prediction/)**
+
+Forbes • 12h ago
+
+---
+
+**[Bitcoin Jumps to Three-Week High on US-Iran Ceasefire Plan](https://www.bloomberg.com/news/articles/2026-04-08/bitcoin-jumps-to-three-week-high-on-us-iran-ceasefire-plan)**
+
+Bloomberg.com • 10h ago
+
+---
+
+**[Bitcoin and ethereum price today, Wednesday, April 8, 2026: Prices rise after U.S.-Iran ceasefire announcement](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-wednesday-april-8-2026-prices-rise-after-us-iran-ceasefire-announcement-113837833.html)**
+
+Bitcoin (BTC-USD) opened higher at $71,926.16 and ethereum (ETH-USD) opened higher at $2,239.89 following President Trump’s announcement of a temporary ceasefire agreement with Iran.
+
+Yahoo Finance • 19h ago
+
+---
+
+**[Bitcoin under $71,000, ETH, SOL, XRP drop as Iran ceasefire frays within 48 hours of being signed](https://www.coindesk.com/markets/2026/04/09/bitcoin-under-usd71-000-eth-sol-xrp-drop-as-iran-ceasefire-frays-within-48-hours-of-being-signed)**
+
+Tehran says three clauses of the ceasefire have been breached, oil is rebounding toward $97, and the Strait of Hormuz remains effectively closed despite the deal.
+
+CoinDesk • 2h ago
+
+---
+
+**[Bithumb turns to legal action to recover lost bitcoin in 'fat finger' incident: report](https://www.theblock.co/post/396812/bithumb-legal-action-bitcoin-fat-finger)**
+
+Most recipients of the 'fat finger' error have voluntarily returned the bitcoin, but some insisted they are not obligated to do so.
+
+The Block • 53m ago
+
+---
+
+**[Will Bitcoin price crash again?](https://www.tradingview.com/news/invezz:de0b546f6094b:0-will-bitcoin-price-crash-again/)**
+
+Bitcoin price rallied to a weekly high of $72,698 on Tuesday on reports of a two-week ceasefire agreement between the US and Iran.However, the flagship crypto has since moved lower, and the recovery could be at risk as fresh macro pressures emerge.Bitcoin rallied 6% in less than four hours on Tuesd…
+
+TradingView • 38m ago
+
+---
+
+**[How The Trumps Blew $1 Billion On Bitcoin](https://www.forbes.com/sites/danalexander/2026/04/08/how-the-trumps-blew-1-billion-on-bitcoin/)**
+
+Forbes • 19h ago
 
 ---
 
@@ -237,7 +235,7 @@ The Block • 15h ago
 
 **[Who is Satoshi Nakamoto? My quest to unmask Bitcoin's creator](https://news.ycombinator.com/item?id=47685320)**
 
-⬆️ 378 • 💬 338 • 1d ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)
+⬆️ 429 • 💬 429 • 1d ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)
 
 ---
 
@@ -253,7 +251,7 @@ Neha Narula
 
 Country’s oil exporters’ union says toll to be paid in cryptocurrency and vessels monitored for weapons
 
-⬆️ 155 • 💬 247 • 15h ago • [ft.com](https://www.ft.com/content/02aefac4-ea62-48db-9326-c0da373b11b8)
+⬆️ 156 • 💬 250 • 16h ago • [ft.com](https://www.ft.com/content/02aefac4-ea62-48db-9326-c0da373b11b8)
 
 ---
 
@@ -269,13 +267,13 @@ Google Quantum AI: Quantum computer could break Bitcoin cryptography with under 
 
 The British computer scientist and entrepreneur has denied being the man who the New York Times identified at Satoshi Nakamoto.
 
-⬆️ 14 • 💬 1 • 11h ago • [bbc.com](https://www.bbc.com/news/articles/cgrl4l1y9yxo)
+⬆️ 14 • 💬 1 • 13h ago • [bbc.com](https://www.bbc.com/news/articles/cgrl4l1y9yxo)
 
 ---
 
 **[Takeaways from Our Search for Bitcoin's Creator](https://news.ycombinator.com/item?id=47689167)**
 
-⬆️ 11 • 💬 1 • 17h ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/takeaways-satoshi-nakamoto-bitcoin-adam-back.html)
+⬆️ 11 • 💬 1 • 18h ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/takeaways-satoshi-nakamoto-bitcoin-adam-back.html)
 
 ---
 
@@ -289,7 +287,7 @@ April 03, 2026 - A new $100 million bond deal reveals exactly how traditional fi
 
 **[Bitcoin.com Deplatformed by YouTube](https://news.ycombinator.com/item?id=47697080)**
 
-⬆️ 4 • 💬 0 • 7h ago • [X (formerly Twitter)](https://twitter.com/i/status/2041756576600748142)
+⬆️ 4 • 💬 0 • 8h ago • [X (formerly Twitter)](https://twitter.com/i/status/2041756576600748142)
 
 ---
 
@@ -303,7 +301,7 @@ April 03, 2026 - A new $100 million bond deal reveals exactly how traditional fi
 
 For years, bitcoin creator Satoshi Nakamoto has avoided discovery. Now, a 10,000-word New York Times investigation may have unraveled the mystery, landing on British computer scientist Dr. Adam Back as Nakamoto.
 
-⬆️ 2 • 💬 5 • 9h ago • [Yahoo Finance](https://finance.yahoo.com/markets/crypto/article/the-new-york-times-may-have-found-bitcoin-founder-satoshi-nakamoto-heres-what-you-need-to-know-193426720.html)
+⬆️ 2 • 💬 5 • 11h ago • [Yahoo Finance](https://finance.yahoo.com/markets/crypto/article/the-new-york-times-may-have-found-bitcoin-founder-satoshi-nakamoto-heres-what-you-need-to-know-193426720.html)
 
 ---
 
@@ -317,7 +315,7 @@ It is once again time for an update to the Bitcoin bear market resistance band! 
 
 📺 Benjamin Cowen
 
-👁️ 39K • 👍 3K • 💬 150 • ⏱️ 28:36 • 9h ago
+👁️ 39K • 👍 3K • 💬 150 • ⏱️ 28:36 • 11h ago
 
 ---
 
@@ -327,7 +325,7 @@ Anthony Pompliano explains why bitcoin is holding strong while stocks, bonds, an
 
 📺 Anthony Pompliano
 
-👁️ 16K • 👍 735 • 💬 34 • ⏱️ 19:07 • 8h ago
+👁️ 16K • 👍 735 • 💬 34 • ⏱️ 19:07 • 9h ago
 
 ---
 
@@ -337,7 +335,7 @@ GREAT NEWS! Clarity act just received...some clarity. Research paper ...
 
 📺 Digital Asset News
 
-👁️ 12K • 👍 884 • 💬 49 • ⏱️ 18:39 • 10h ago
+👁️ 12K • 👍 884 • 💬 49 • ⏱️ 18:39 • 11h ago
 
 ---
 
@@ -357,7 +355,7 @@ Bitcoin isn't just moving toward $75000. It's reacting to it. Because this isn't
 
 📺 Tim Talks Finance
 
-👁️ 3K • 👍 135 • 💬 62 • ⏱️ 11:28 • 11h ago
+👁️ 3K • 👍 135 • 💬 62 • ⏱️ 11:28 • 12h ago
 
 ---
 
@@ -367,7 +365,7 @@ Subscribe for daily insights and updates for your Bitcoin journey. Follow on Fac
 
 📺 Joel Bomgar
 
-👁️ 716 • 👍 20 • ⏱️ 2:36 • 7h ago
+👁️ 716 • 👍 20 • ⏱️ 2:36 • 9h ago
 
 ---
 
@@ -377,7 +375,7 @@ Michael Burry — the investor who predicted the 2008 financial collapse — is 
 
 📺 Money Finance Insights
 
-👁️ 2K • 👍 78 • 💬 27 • ⏱️ 13:18 • 15h ago
+👁️ 2K • 👍 78 • 💬 27 • ⏱️ 13:18 • 16h ago
 
 ---
 
@@ -387,7 +385,7 @@ Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FR
 
 📺 CryptosRUs
 
-👁️ 16K • 👍 887 • 💬 403 • ⏱️ 37:24 • 15h ago
+👁️ 16K • 👍 887 • 💬 403 • ⏱️ 37:24 • 16h ago
 
 ---
 
@@ -397,7 +395,7 @@ Bitcoin #Crypto #Finance Bitcoin just smashed through $72K after a surprise ceas
 
 📺 The Wolf Of All Streets
 
-👁️ 11K • 👍 613 • 💬 121 • ⏱️ 37:51 • 15h ago
+👁️ 11K • 👍 613 • 💬 121 • ⏱️ 37:51 • 17h ago
 
 ---
 
@@ -407,7 +405,7 @@ While Bitcoin leads in store-of-value narrative, Ethereum's smart contract layer
 
 📺 Eightco | NASDAQ: ORBS
 
-👁️ 1K • 👍 15 • ⏱️ 0:44 • 17h ago
+👁️ 1K • 👍 15 • ⏱️ 0:44 • 18h ago
 
 ---
 

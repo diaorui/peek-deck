@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-09T05:27:49.310587+00:00'
+updated: '2026-04-09T06:57:32.590013+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
+- cryptocurrency
 - news
 - social
-- cryptocurrency
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 09, 2026 at 05:27 UTC  
+**Last Updated:** April 09, 2026 at 06:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,15 +36,15 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,180.08
+### $2,180.02
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.1%  
-**7d:** +6.0%  
-**30d:** +6.1%  
+**24h:** -3.3%  
+**7d:** +6.1%  
+**30d:** +6.2%  
 **90d:** -29.5%  
 **1y:** +43.0%  
 
@@ -72,7 +72,7 @@ No max supply
 
 World Liberty Financial deposited 3B WLFI tokens as collateral to borrow $50M of its own stablecoin, pushing its lending pool into negative liquidity and raising concerns over circular treasury practices, governance risks, and regulatory scrutiny.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/trumps-crypto-project-just-borrowed-50-million-against-its-own-token-and-broke-the-lending-pool/) • 19h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/trumps-crypto-project-just-borrowed-50-million-against-its-own-token-and-broke-the-lending-pool/) • 21h ago
 
 ---
 
@@ -162,7 +162,7 @@ Polymarket • 3mo ago
 
 Ethereum price extended gains above $2,265 before it started a downside correction. ETH is now correcting gains and might find bids near the $2,120 zone.Ethereum Price Corrects Some GainsEthereum price remained stable above $2,150 and started a decent upward move, like Bitcoin. ETH price climbed ab…
 
-TradingView • 2h ago
+TradingView • 3h ago
 
 ---
 
@@ -170,7 +170,7 @@ TradingView • 2h ago
 
 Bitcoin (BTC-USD) opened higher at $71,926.16 and ethereum (ETH-USD) opened higher at $2,239.89 following President Trump’s announcement of a temporary ceasefire agreement with Iran.
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -178,7 +178,7 @@ Yahoo Finance • 17h ago
 
 So far, the CoWSwap TWAP transactions have been drawn from a wallet associated with the Ethereum Foundation's DeFi activities.
 
-The Block • 13h ago
+The Block • 15h ago
 
 ---
 
@@ -198,17 +198,25 @@ Seeking Alpha • 1d ago
 
 ---
 
+**[Ethereum’s Silver Medal Slips as Prediction Markets Brace for a $1,500 Floor](https://www.tipranks.com/news/ethereums-silver-medal-slips-as-prediction-markets-brace-for-a-1500-floor)**
+
+TipRanks • 17h ago
+
+---
+
 **[The Case for Ethereum as the Most Useful Cryptocurrency in Existence](https://www.fool.com/investing/2026/04/08/the-case-for-ethereum-as-the-most-useful-cryptocur/)**
 
 Ethereum's utility makes it an attractive investment option during the current market turndown.
 
-The Motley Fool • 16h ago
+The Motley Fool • 18h ago
 
 ---
 
-**[Ethereum’s Silver Medal Slips as Prediction Markets Brace for a $1,500 Floor](https://www.tipranks.com/news/ethereums-silver-medal-slips-as-prediction-markets-brace-for-a-1500-floor)**
+**[Sharplink stakes 511 Ethereum in a week – Breaking down its ‘ETH earns more ETH’ approach](https://ambcrypto.com/sharplink-stakes-511-ethereum-in-a-week-breaking-down-its-eth-earns-more-eth-approach/)**
 
-TipRanks • 16h ago
+Will Sharplink's staking reward approach prove to be better than BitMine's hoarding strategy?
+
+AMBCrypto • 11h ago
 
 ---
 
@@ -216,13 +224,7 @@ TipRanks • 16h ago
 
 Coinbase Institutional announced new infrastructure for Ethereum ETP staking using EIP-7251 and off-chain vault transfers, aimed at streamlining institutional c
 
-Crypto Briefing • 5h ago
-
----
-
-**['Drop To $1,500'—Ethereum Suddenly Faces 60% Odds Of Losing Crown](https://www.forbes.com/sites/digital-assets/2026/04/06/drop-to-1500-ethereum-suddenly-faces-60-odds-of-losing-crown/)**
-
-Forbes • 2d ago
+Crypto Briefing • 7h ago
 
 ---
 
@@ -236,7 +238,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 6K • 👍 268 • 💬 20 • ⏱️ 20:08 • 13h ago
+👁️ 6K • 👍 268 • 💬 20 • ⏱️ 20:08 • 14h ago
 
 ---
 
@@ -246,7 +248,7 @@ In this video, I take a closer look at the current Ethereum market structure and
 
 📺 More Crypto Online
 
-👁️ 991 • 👍 110 • 💬 7 • ⏱️ 10:28 • 5h ago
+👁️ 991 • 👍 110 • 💬 7 • ⏱️ 10:28 • 6h ago
 
 ---
 
@@ -286,7 +288,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 325 • 👍 58 • ⏱️ 5:31 • 2h ago
+👁️ 325 • 👍 58 • ⏱️ 5:31 • 3h ago
 
 ---
 
@@ -316,7 +318,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 824 • 👍 68 • ⏱️ 6:29 • 14h ago
+👁️ 824 • 👍 68 • ⏱️ 6:29 • 15h ago
 
 ---
 
@@ -326,7 +328,7 @@ Brian from Santiment joined me to review the crypto market metrics for Bitcoin, 
 
 📺 Thinking Crypto
 
-👁️ 2K • 👍 154 • 💬 258 • ⏱️ 26:32 • 16h ago
+👁️ 2K • 👍 154 • 💬 258 • ⏱️ 26:32 • 18h ago
 
 ---
 
