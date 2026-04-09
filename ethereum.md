@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-09T19:08:46.330103+00:00'
+updated: '2026-04-09T20:12:45.651190+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - cryptocurrency
 - social
 - videos
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 09, 2026 at 19:08 UTC  
+**Last Updated:** April 09, 2026 at 20:12 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,209.84
+### $2,218.64
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
-**7d:** +7.8%  
+**24h:** +0.1%  
+**7d:** +7.9%  
 **30d:** +8.0%  
-**90d:** -28.3%  
-**1y:** +45.5%  
+**90d:** -28.2%  
+**1y:** +45.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $266.63B
+**Market Cap:** $267.29B
 Rank #2
 
 **Circulating Supply:** 120,691,116 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--55.3%
+-55.2%
 
 **All-Time Low:** $0.43
-+510218.1%
++511753.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Tom Lee went on CNBC saying the market bottom is probably already in, and that crypto (especially ETH) could lead the next move up. But the interesting part is he’s not just talking — the company he chairs (BitMine) keeps stacking ETH hard. They’re sitting on ~4.8M ETH (close to 4% of supply), with a huge chunk staked. That’s not trading, that’s positioning. Feels like one of the first times we’re seeing a macro thesis + actual balance sheet move fully aligned around Ethereum. Source: https://btcusa.com/tom-lee-says-the-market-bottom-is-in-as-bitmine-doubles-down-on-ethereum/
 
-7h ago
+8h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The Ethereum Layer 2 powering Predictstreet. Built by Abu Dhabi's IHC, hosting a UAE central-bank-licensed stablecoin, with BlackRock and Mastercard as collaborators.
 
-🔗 [Company Gibraltar | company.gi](https://company.gi/blog/adi-chain-explained) • 9h ago
+🔗 [Company Gibraltar | company.gi](https://company.gi/blog/adi-chain-explained) • 10h ago
 
 ---
 
@@ -136,7 +136,7 @@ I’ve had my eth staked for about 2 years now, net negative on the eth itself b
 
 A simple question for the community. I was recently asked for me public key (to my metamask wallet) I know that Bitcoin public keys should still be treated with some care as they disclose all transactions to that address in any blockchain explorer Is this the same with Ethereum?
 
-2d ago
+3d ago
 
 ---
 
@@ -152,11 +152,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Tom Lee's BitMine Uplisted to NYSE as Ethereum Firm Expands Buyback Program to $4 Billion](https://finance.yahoo.com/markets/stocks/articles/tom-lees-bitmine-uplisted-nyse-155826429.html)**
+**[Tom Lee's BitMine Uplisted to NYSE as Ethereum Firm Expands Buyback Program to $4 Billion](https://decrypt.co/363823/tom-lee-bitmine-uplisted-nyse-ethereum-firm-expands-buybacks-4-billion)**
 
 Ethereum treasury giant BitMine Immersion Technologies upped its share buyback program to $4 billion and was uplisted to the NYSE on Thursday.
 
-Yahoo Finance • 3h ago
+Decrypt • 4h ago
+
+---
+
+**[Ethereum Developer Announces Candidacy for U.S. Congress](https://www.yahoo.com/news/articles/ethereum-developer-announces-candidacy-u-170918408.html)**
+
+Joe "CupOJoseph" Schiarizzi is running for Congress as a Democrat in Virginia's new 7th district.
+
+Yahoo • 3h ago
 
 ---
 
@@ -164,13 +172,19 @@ Yahoo Finance • 3h ago
 
 Bitcoin and Ethereum’s dominance is being directly challenged in a new outlook from Bloomberg Intelligence strategist Mike McGlone, who believes that an unexpected contender is positioning itself to overtake both. Tether USDT’s market cap is steadily closing in on Ethereum, and Mike McGlone thinks…
 
-TradingView • 2h ago
+TradingView • 3h ago
+
+---
+
+**[Bitcoin Price Falls. Why Faltering Iran Cease-Fire Could Crush Cryptos.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-today-2ef03b04)**
+
+Barron's • 13h ago
 
 ---
 
 **[Most large cryptocurrencies fall as Ethereum tumbles](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-as-ethereum-tumbles-91a2f421-9307bc266dcb)**
 
-MarketWatch • 5h ago
+MarketWatch • 6h ago
 
 ---
 
@@ -190,25 +204,9 @@ Bit Digital • 2d ago
 
 ---
 
-**[ETH Up or Down - 5 Minutes](https://polymarket.com/event/eth-updown-5m-1775759400)**
-
-Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
-
-Polymarket • 2d ago
-
----
-
 **['Drop To $1,500'—Ethereum Suddenly Faces 60% Odds Of Losing Crown](https://www.forbes.com/sites/digital-assets/2026/04/06/drop-to-1500-ethereum-suddenly-faces-60-odds-of-losing-crown/)**
 
 Forbes • 2d ago
-
----
-
-**[Current price of Ethereum for April 9, 2026](https://fortune.com/article/price-of-ethereum-04-09-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 6h ago
 
 ---
 
@@ -216,15 +214,15 @@ Fortune • 6h ago
 
 Galaxy Digital joins BlackRock's Ethereum Trust ETF as a validator, part of a regulated yield-bearing approach for ether exposure.
 
-Crypto Briefing • 2h ago
+Crypto Briefing • 3h ago
 
 ---
 
-**[Here’s why Ethereum and Bitcoin may be decoupling from each other](https://ambcrypto.com/heres-why-ethereum-and-bitcoin-may-be-decoupling-from-each-other/)**
+**[Current price of Ethereum for April 9, 2026](https://fortune.com/article/price-of-ethereum-04-09-2026/)**
 
-Ethereum and Bitcoin are going off in interesting directions right now.
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-AMBCrypto • 13h ago
+Fortune • 7h ago
 
 ---
 
@@ -238,7 +236,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 10K • 👍 346 • 💬 68 • ⏱️ 20:08 • 1d ago
+👁️ 10K • 👍 362 • 💬 41 • ⏱️ 20:08 • 1d ago
+
+---
+
+**[Ethereum: This Might Be a Fake Move](https://www.youtube.com/watch?v=QpgmpJLh7Fs)**
+
+In this video, I take a closer look at the current Ethereum market structure and explain why the recent move higher does not ...
+
+📺 More Crypto Online
+
+👁️ 868 • 👍 104 • 💬 10 • ⏱️ 10:05 • 1h ago
 
 ---
 
@@ -248,17 +256,7 @@ In this video, I take a closer look at the current Ethereum market structure and
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 169 • 💬 14 • ⏱️ 10:28 • 18h ago
-
----
-
-**[LIVE: Tom Lee on BitMine Makes Massive Ethereum Move - ETH Crash Explained!](https://www.youtube.com/watch?v=QxUc2IfNzgk)**
-
-ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the Ethereum Conference.
-
-📺 LUAHA PRO
-
-👁️ 5K • 👍 3K • 3h ago
+👁️ 3K • 👍 170 • 💬 14 • ⏱️ 10:28 • 19h ago
 
 ---
 
@@ -268,27 +266,27 @@ In this video, we explain what an XRP node is, why node operation has recently g
 
 📺 Discover Health
 
-👁️ 4K • 👍 122 • ⏱️ 4:44 • 6h ago
+👁️ 4K • 👍 192 • ⏱️ 4:44 • 7h ago
 
 ---
 
-**[Will The Ethereum Economic Zone (EEZ) Rebuild $ETH Dominance?](https://www.youtube.com/watch?v=rkRiLs8wl28)**
+**[LIVE: Tom Lee on BitMine Makes Massive Ethereum Move - ETH Crash Explained!](https://www.youtube.com/watch?v=QxUc2IfNzgk)**
 
-SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium ------ Can Ethereum become one ...
+ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the Ethereum Conference.
 
-📺 Bankless
+📺 LUAHA PRO
 
-👁️ 1K • 👍 65 • 💬 25 • ⏱️ 1:01:34 • 8h ago
+👁️ 5K • 👍 3K • 4h ago
 
 ---
 
-**[CRUCIAL MOMENT FOR ETHEREUM!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=Mk0xcUlMNdA)**
+**[Ethereum: Die 1-BILLION-Dollar-Prognose!](https://www.youtube.com/watch?v=nBTNxDwz6mc)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+Jetzt gratis sichern → https://www.blockchain-investor.de/app Die neue „Blockchain-Investor“-App – mit exklusiven ...
 
-📺 Cilinix Crypto
+📺 Krypto Report
 
-👁️ 141 • 👍 11 • ⏱️ 5:44 • 9h ago
+👁️ 2K • 👍 337 • 💬 9 • ⏱️ 18:19 • 3h ago
 
 ---
 
@@ -298,27 +296,17 @@ Ethereum está pasando por uno de los momentos más complicados de todo este cic
 
 📺 Healthy Pockets
 
-👁️ 2K • 👍 242 • 💬 18 • ⏱️ 14:46 • 4h ago
+👁️ 4K • 👍 391 • 💬 23 • ⏱️ 14:46 • 5h ago
 
 ---
 
-**[Bitcoin &amp; Ethereum. BTC Weiter hoch? DAS muss jetzt passieren!](https://www.youtube.com/watch?v=x8tEeUn1Yek)**
+**[Crypto Wars: Bitcoin vs Ethereum vs Solana — The Battle for Supremacy](https://www.youtube.com/watch?v=EuortJWaa1o)**
 
-Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zurück bis max 400 USDT) ...
+invested in crypto — who wins? Watch the insane volatility of BTC, ETH, and SOL in this epic line chart race. The crypto cycles ...
 
-📺 Krypto Trading & Investing
+📺 Data Insights
 
-👁️ 3K • 👍 650 • 💬 78 • ⏱️ 10:41 • 14h ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=YArxmmWohvQ)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Crypto Gyan
-
-👁️ 342 • 👍 42 • ⏱️ 4:50 • 4h ago
+👁️ 759 • 👍 10 • ⏱️ 0:41 • 2h ago
 
 ---
 
@@ -328,7 +316,17 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 511 • 👍 21 • ⏱️ 4:53 • 1d ago
+👁️ 518 • 👍 21 • ⏱️ 4:53 • 1d ago
+
+---
+
+**[CRYPTO&#39;S NEXT MOVE IN MACRO UNCERTAINTY! BITCOIN, XRP, ETHEREUM, &amp; SOLANA ANALYSIS!](https://www.youtube.com/watch?v=UK9Dx6GZrr0)**
+
+Brian from Santiment joined me to review the crypto market metrics for Bitcoin, XRP, Ethereum, and Solana. 🖥️ Sign up with ...
+
+📺 Thinking Crypto
+
+👁️ 2K • 👍 163 • 💬 251 • ⏱️ 26:32 • 1d ago
 
 ---
 

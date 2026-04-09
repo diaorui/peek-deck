@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-09T19:08:46.315636+00:00'
+updated: '2026-04-09T20:12:45.637056+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - repositories
 - social
 - videos
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 09, 2026 at 19:08 UTC  
+**Last Updated:** April 09, 2026 at 20:12 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 "AI didn't deliver," Johns Hopkins professor Steve Hanke told Fortune. "Welcome to the real world. Forget the AI bubble."
 
-🔗 [Fortune](https://fortune.com/2026/04/09/ai-backlash-quiet-quitting-fobo-obsolete-white-collar-rebellion/) • 5h ago
+🔗 [Fortune](https://fortune.com/2026/04/09/ai-backlash-quiet-quitting-fobo-obsolete-white-collar-rebellion/) • 6h ago
 
 ---
 
@@ -49,7 +49,7 @@ AI news, discussions, and developments
 
 Realbotix has delivered a Vinci-enabled humanoid robot to Ericsson, featuring AI vision, conversation memory, and real-time engagement tracking.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/us-humanoid-robot-learns-emotions) • 4h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/us-humanoid-robot-learns-emotions) • 5h ago
 
 ---
 
@@ -65,23 +65,15 @@ now it just look 💯 real
 
 A week ago I put out a first-day IPO market cap forecast for Anthropic with a reference point of $19B ARR. Then Anthropic announced their ARR had grown from $19B to $30B. I updated my forecast and now think Anthropic is worth at least $100B more than I did a week ago. I'm still anchoring growth rate assumptions to how companies have historically scaled revenue, but if growth trends from the last four decades were to continue, this would imply a company growing faster than any company in history (~$10B in 2025 to ~$100B by 2027.) Previously, I thought OpenAI could achieve that. Now it looks like Anthropic is the company to do it, but with an even steeper revenue curve, given that they hit their first billion in ARR much later than OpenAI. Of course, it's difficult to figure out how much weight we should give to ridiculously outsized growth in the age of AI. If historical growth patterns no longer apply, then $643B is way too conservative. (Full updated forecast: https://futuresearch.ai/anthropic-30b-arr-ipo-valuation/) The second implication of this week's news is IPO timing and whether the $30B number makes Anthropic list earlier than my original March 2027 date. Investor sentiment is hot now, and it's always risky to bet that growth will continue at this astounding rate. How much could waiting another year cost them?
 
-4h ago
+5h ago
 
 ---
 
-**[bad grammar is literally the last proof that ur human. and i think thats actually terrifying ngl](https://www.reddit.com/r/artificial/comments/1sgykr1/bad_grammar_is_literally_the_last_proof_that_ur/)**
+**[Visa rolls out AI agent shopping infrastructure](https://www.reddit.com/r/artificial/comments/1sgv6f4/visa_rolls_out_ai_agent_shopping_infrastructure/)**
 
-we're in this weird era now where everyone suddenly writes perfectly. every message, every email, every caption. no typos. no "lol sorry typed that too fast." no lowercase chaos. just. clean. polished. structured. english. and it's freaking me out bc clean polished english used to mean someone was smart or educated or careful. now it just means they hit "improve with AI" before they hit send. here's the part that actually keeps me up we spent years being embarrassed about bad grammar. teachers corrected it. bosses judged it. people got roasted in comment sections for it. and now? bad grammar is basically a flex. it's the handshake that says yeah, a real disorganized sleep-deprived actual human being typed this with their actual thumbs and didn't stop to clean it up bc they had something real to say and just said it. ur typos are ur fingerprints now. dont let anybody take them from you.
+Visa's Intelligent Commerce platform lets AI agents shop, compare, and transact on behalf of consumers, and the company says the majority of business leaders are ready for it.
 
-18m ago
-
----
-
-**[Google’s Gemini AI can answer your questions with 3D models and simulations](https://www.reddit.com/r/artificial/comments/1sgy05n/googles_gemini_ai_can_answer_your_questions_with/)**
-
-You can ask Gemini to “help me visualize” different concepts.
-
-🔗 [The Verge](https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations) • 38m ago
+🔗 [thedefiant.io](https://thedefiant.io/news/tradfi-and-fintech/visa-rolls-out-ai-agent-shopping-infrastructure-globally) • 3h ago
 
 ---
 
@@ -89,7 +81,15 @@ You can ask Gemini to “help me visualize” different concepts.
 
 Remember when Altman literally said in 2024 that ads are a last resort for them? Well. Here we are. What gets me isn’t the $100M itself — it’s that they hit it while the product is basically still in beta. Less than 20% of users see ads daily. No self-serve tools yet. No international rollout yet. 600 advertisers but most needed a $200K minimum just to get in. They haven’t even opened the floodgates and it’s already nine figures. The part I keep thinking about: Google built an empire on search intent — people typing what they want. ChatGPT has something different. People explain their whole situation to it. That’s a completely different level of signal for an advertiser. Whether they can scale this without killing the trust that makes the product work in the first place — that’s the actual story.
 
-19h ago
+20h ago
+
+---
+
+**[The Truth About AI](https://www.reddit.com/r/artificial/comments/1sgzl6h/the_truth_about_ai/)**
+
+Across many subreddits, we see varying levels of ai acceptance/tolerance. Some subs will celebrate ai generated/edited posts, and then some will ban you without warning. Even when it comes to this wave of "vibe coded apps" we see the same thing. Some apps created with ai are truly jaw dropping while other apps look like a Picaso painting. Then people are so quick to blame ai for any "slop" content posted on the internet. But the truth is the ai isn't responsible for the slop, the creators are. You see what ai did was turn bad devs into mediocre devs, and mediocre devs into great devs, and great devs into elite devs (replace devs with whatever skill you want). Ai lowered the bar of entry while at the same time boosted the confidence of everyone using it. So while there may be slop produced along the gems, we should look at it as harvesting the wheat with the weeds.
+
+47m ago
 
 ---
 
@@ -97,7 +97,15 @@ Remember when Altman literally said in 2024 that ads are a last resort for them?
 
 The new spending will run between 2027 and 2032, as Meta boosts its own AI infrastructure while also counting on CoreWeave, which rents out Nvidia graphics chips. “They’re going to continue to do it themselves, but they’re also going to continue to do it with us,” CoreWeave CEO Mike Intrator said in an interview. “There’s just too much risk not to.”
 
-🔗 [CNBC](https://www.cnbc.com/2026/04/09/meta-commits-to-spending-additional-21-billion-with-coreweave-.html) • 7h ago
+🔗 [CNBC](https://www.cnbc.com/2026/04/09/meta-commits-to-spending-additional-21-billion-with-coreweave-.html) • 8h ago
+
+---
+
+**[Google’s Gemini AI can answer your questions with 3D models and simulations](https://www.reddit.com/r/artificial/comments/1sgy05n/googles_gemini_ai_can_answer_your_questions_with/)**
+
+You can ask Gemini to “help me visualize” different concepts.
+
+🔗 [The Verge](https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations) • 1h ago
 
 ---
 
@@ -105,15 +113,7 @@ The new spending will run between 2027 and 2032, as Meta boosts its own AI infra
 
 The company says it has built its most dangerous model yet. Can its coalition of internet companies fix the internet before others catch up?
 
-🔗 [Platformer](https://www.platformer.news/anthropic-mythos-cybersecurity-risk-experts/) • 4h ago
-
----
-
-**[We’re open-sourcing a 33-benchmark diagnostic for AI alignment gaps, launches April 27](https://www.reddit.com/r/artificial/comments/1sgwyse/were_opensourcing_a_33benchmark_diagnostic_for_ai/)**
-
-On April 27 we’re open-sourcing a free diagnostic tool called iFixAi. You run it against your AI system (agent, copilot, LLM integration, whatever you’re using) and it tests it across 33 benchmarks in 5 categories, then gives you a report showing where you’re exposed to misalignment issues like hallucination, prompt injection, inconsistent outputs, etc. Completely free, no strings. We built it because this problem is way bigger than us. https://www.ifixai.ai
-
-1h ago
+🔗 [Platformer](https://www.platformer.news/anthropic-mythos-cybersecurity-risk-experts/) • 5h ago
 
 ---
 
@@ -125,7 +125,7 @@ On April 27 we’re open-sourcing a free diagnostic tool called iFixAi. You run 
 
 A new initiative to secure the world’s most critical software and give defenders a durable advantage in the coming AI-driven era of cybersecurity.
 
-Anthropic • 2h ago
+Anthropic • 1h ago
 
 ---
 
@@ -133,15 +133,15 @@ Anthropic • 2h ago
 
 U.S. software shares tumbled on Thursday after Anthropic held back the wide release of a powerful AI ‌model over concerns it could expose hidden cybersecurity vulnerabilities, deepening ‌investor fears about the threat to traditional software firms.  Anthropic said earlier this week it ​would only allow a group of around 40 companies, including Microsoft and Google, access to its "Claude Mythos" model because it has already found thousands of vulnerabilities, including some in every major operating system and web browser.  "If ‌Mythos is that strong ⁠and that powerful and it's exposing these vulnerabilities that have been around for years, it just shows one, ⁠the weakness of the current software that's out there and two, that AI is still making incredible progress versus legacy software companies," said Michael O’Rourke, ​chief ​market strategist at JonesTrading.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
-**[Anthropic's 'Claude Mythos' model sparks fear of AI doomsday](https://www.foxbusiness.com/video/6392818781112)**
+**[AI threat's relentless flogging of software stocks shows no end in sight with Anthropic's new agent](https://www.cnbc.com/2026/04/09/anthropic-new-ai-agent-software-stocks-selloff.html)**
 
-'The Big Money Show' discusses growing concerns over Anthropic's powerful AI model that can detect and exploit vulnerabilities, raising cybersecurity risks.
+The latest revenue projections and updates from Anthropic revived investor fears of an AI day of reckoning coming for software.
 
-Fox Business • 1h ago
+CNBC • 1h ago
 
 ---
 
@@ -149,7 +149,7 @@ Fox Business • 1h ago
 
 Artificial intelligence company cites high energy costs and regulation for putting landmark project on hold
 
-The Guardian • 6h ago
+The Guardian • 7h ago
 
 ---
 
@@ -157,45 +157,41 @@ The Guardian • 6h ago
 
 The poll from Epoch AI and Ipsos found that AI replaced existing tasks for 20% of full-time workers but created new tasks for 15%.
 
-NBC News • 3h ago
+NBC News • 4h ago
 
 ---
 
-**[Salesforce won't be discarded in the AI boom, but what companies want is changing](https://www.cnbc.com/2026/04/09/salesforce-wont-be-discarded-in-the-ai-boom-but-what-companies-want-is-changing.html)**
+**[Opinion | What A.I. and D.E.I. Have in Common](https://www.nytimes.com/2026/04/09/opinion/ai-dei-arts-academics.html)**
 
-Despite the risks, many analysts at major banks remain bullish on Salesforce.
-
-CNBC • 11m ago
+The New York Times • 52m ago
 
 ---
 
-**[Universities of Wisconsin regents cite disputes over AI and other topics in president's firing](https://www.channel3000.com/news/universities-of-wisconsin-regents-cite-disputes-over-ai-and-other-topics-in-presidents-firing/article_d85332e2-cd19-5cc8-83bd-e1c10729b9a3.html)**
+**[Gen Z's fading AI hype](https://www.axios.com/2026/04/09/ai-gen-z-polling-gallup)**
 
-Leaders on the board that oversees the Universities of Wisconsin say that the fired president of the system was slow to address pressing issues like artificial intelligence and feared upsetting
-
-Channel 3000 • 15m ago
+Axios • 16h ago
 
 ---
 
-**[Meta released a new AI model this week. JPMorgan sees it as a turning point for the stock](https://www.cnbc.com/2026/04/09/meta-released-a-new-ai-model-this-week-jpmorgan-sees-it-as-a-turning-point-for-the-stock.html)**
+**[Meta debuts new AI model in first test of costly ‘superintelligence’ team](https://www.theguardian.com/technology/2026/apr/09/meta-first-ai-model-muse-sparks)**
 
-Meta popped after it released its AI model on Wednesday, suggesting the stock has more room to run as investor confidence in its AI push grows, per JPMorgan.
+Muse Spark was competitive with models from OpenAI, Google and Anthropic in language, but lagged in coding
 
-CNBC • 2h ago
-
----
-
-**[US software stocks slump on renewed AI disruption jitters](https://www.reuters.com/business/us-software-stocks-fall-anthropics-new-ai-model-revives-disruption-fears-2026-04-09/)**
-
-Reuters • 2h ago
+The Guardian • 2h ago
 
 ---
 
-**[Is Nvidia (NVDA) The Best AI Stock Pick of Billionaire Ken Fisher?](https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-best-ai-stock-181559333.html)**
+**[Meta Unveils New A.I. Model, Its First From the Superintelligence Lab](https://www.nytimes.com/2026/04/08/technology/meta-muse-spark-ai-model.html)**
 
-We just covered Billionaire Ken Fisher’s Latest Portfolio: 10 Best AI Stocks to Buy. Nvidia Corp (NASDAQ:NVDA) ranks #1 (see the 5 Best AI Stocks to Buy). Billionaire Ken Fisher’s Stake: $16.05 billion Tech companies continue to increase their AI spending plans, chip demand is rising and yet the market seems to have gone numb […]
+The New York Times • 1d ago
 
-Yahoo Finance • 52m ago
+---
+
+**[Meta expands CoreWeave partnership with new $21B AI cloud deal](https://finance.yahoo.com/video/meta-expands-coreweave-partnership-with-new-21b-ai-cloud-deal-194036393.html)**
+
+Meta Platforms (META) is doubling down on its partnership with CoreWeave (CRWV) through a new $21 billion deal to better leverage CoreWeave's AI cloud platform for scale. Meta also released its new Muse Spark AI model earlier this week. Yahoo Finance Tech Editor Dan Howley breaks down the headlines.
+
+Yahoo Finance • 32m ago
 
 ---
 
@@ -207,7 +203,7 @@ Yahoo Finance • 52m ago
 
 A new initiative to secure the world’s most critical software and give defenders a durable advantage in the coming AI-driven era of cybersecurity.
 
-⬆️ 1506 • 💬 814 • 2d ago • [anthropic.com](https://www.anthropic.com/glasswing)
+⬆️ 1507 • 💬 817 • 2d ago • [anthropic.com](https://www.anthropic.com/glasswing)
 
 ---
 
@@ -239,25 +235,25 @@ Biologically-inspired memory for AI agents. Decay, retrieval strengthening, cons
 
 In 1958, Mao ordered every village to produce steel. The steel was useless. The crops rotted. Today's top-down AI mandates are producing the same pattern: ba...
 
-⬆️ 120 • 💬 56 • 22h ago • [Han, Not Solo](https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/)
+⬆️ 120 • 💬 59 • 1d ago • [Han, Not Solo](https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/)
 
 ---
 
 **[Ask HN: What are you building that's not AI related?](https://news.ycombinator.com/item?id=47700460)**
 
-⬆️ 102 • 💬 123 • 11h ago
+⬆️ 106 • 💬 127 • 12h ago
 
 ---
 
 **[Study found that young adults have grown less hopeful and more angry about AI](https://news.ycombinator.com/item?id=47704443)**
 
-⬆️ 94 • 💬 132 • 4h ago • [nytimes.com](https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html)
+⬆️ 98 • 💬 142 • 5h ago • [nytimes.com](https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html)
 
 ---
 
 **[Bernie Sanders: "AI Is a Threat to Everything the American People Hold Dear"](https://news.ycombinator.com/item?id=47667798)**
 
-⬆️ 77 • 💬 67 • 2d ago • [wsj.com](https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459)
+⬆️ 77 • 💬 68 • 2d ago • [wsj.com](https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459)
 
 ---
 
@@ -267,11 +263,9 @@ In 1958, Mao ordered every village to produce steel. The steel was useless. The 
 
 ---
 
-**[Wikipedia's AI agent row likely just the beginning of the bot-ocalypse](https://news.ycombinator.com/item?id=47665902)**
+**[The back story behind the first "$1.8B" dollar "AI Company"](https://news.ycombinator.com/item?id=47668658)**
 
-An AI agent was banned from editing Wikipedia pages... and that's when things got weird, with the agent publishing its complaints publicly.
-
-⬆️ 71 • 💬 90 • 2d ago • [Malwarebytes](https://www.malwarebytes.com/blog/ai/2026/04/wikipedias-ai-agent-row-likely-just-the-beginning-of-the-bot-ocalypse)
+⬆️ 69 • 💬 9 • 2d ago • [garymarcus.substack.com](https://garymarcus.substack.com/p/the-back-story-behind-the-first-18)
 
 ---
 
@@ -279,23 +273,23 @@ An AI agent was banned from editing Wikipedia pages... and that's when things go
 
 ## YouTube Videos: "ai"
 
+**[AI agent in a robot does exactly what experts warned](https://www.youtube.com/watch?v=woTy4dTiT20)**
+
+Could AI become dangerous? Can we trust AI Agents? AGI. Use code insideai at https://incogni.com/insideai to get an exclusive ...
+
+📺 InsideAI
+
+👁️ 28K • 👍 3K • 💬 309 • ⏱️ 16:24 • 3h ago
+
+---
+
 **[&#39;Terrifying warning sign&#39;: Anthropic delays AI model over security concerns](https://www.youtube.com/watch?v=htBaVVh_k90)**
 
 Anthropic says Mythos (officially dubbed “Claude Mythos Preview”) is not ready for a public launch because of the ways it could ...
 
 📺 CNN
 
-👁️ 603K • 👍 8K • 💬 2K • ⏱️ 9:58 • 17h ago
-
----
-
-**[MIT Just Found The Cause Of The AI Bubble](https://www.youtube.com/watch?v=1zlD0K09IKE)**
-
-Simplify Your Workflow With Odoo Today: https://www.odoo.com/r/fHO 4000+ read our free newsletter that has weekly original ...
-
-📺 Economics Explained
-
-👁️ 69K • 👍 4K • 💬 366 • ⏱️ 16:52 • 5h ago
+👁️ 654K • 👍 9K • 💬 2K • ⏱️ 9:58 • 18h ago
 
 ---
 
@@ -305,7 +299,7 @@ Hello guys and gals, it's me Mutahar again! This time we take a look at Claude M
 
 📺 SomeOrdinaryGamers
 
-👁️ 332K • 👍 14K • 💬 2K • ⏱️ 20:17 • 21h ago
+👁️ 350K • 👍 15K • 💬 2K • ⏱️ 20:17 • 22h ago
 
 ---
 
@@ -315,7 +309,7 @@ Tech companies are investing billions of dollars in chips that cannot be turned 
 
 📺 Inside China Business
 
-👁️ 23K • 👍 3K • 💬 270 • ⏱️ 5:05 • 6h ago
+👁️ 33K • 👍 3K • 💬 338 • ⏱️ 5:05 • 7h ago
 
 ---
 
@@ -325,27 +319,27 @@ Plaud NotePro has been really helpful for me to capture ideas and conversations.
 
 📺 Silicon Valley Girl
 
-👁️ 57K • 👍 2K • 💬 107 • ⏱️ 22:28 • 1d ago
+👁️ 63K • 👍 2K • 💬 118 • ⏱️ 22:28 • 1d ago
 
 ---
 
-**[Gemma 4   Google just made AI free forever](https://www.youtube.com/watch?v=hk6go5jioTk)**
+**[MIT Just Found The Cause Of The AI Bubble](https://www.youtube.com/watch?v=1zlD0K09IKE)**
 
-What if you could run ChatGPT-level AI on your Mac and iPhone for free, with no internet? Google just made it possible with ...
+Simplify Your Workflow With Odoo Today: https://www.odoo.com/r/fHO 4000+ read our free newsletter that has weekly original ...
 
-📺 The Tech Girl
+📺 Economics Explained
 
-👁️ 87K • 👍 3K • 💬 179 • ⏱️ 8:27 • 1d ago
+👁️ 131K • 👍 6K • 💬 548 • ⏱️ 16:52 • 6h ago
 
 ---
 
-**[Claude’s New AI Just Changed the Internet Forever](https://www.youtube.com/watch?v=DG1wRgEpdO4)**
+**[Teen Uses AI To Do The Unthinkable](https://www.youtube.com/watch?v=dB93nEgBiew)**
 
-Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=claude-mythos-security All my FREE ...
+Disclaimer: NMLS 182334, nmlsconsumeraccess.org. APR for rates in the 5s start at 6.196% for well qualified borrowers.
 
-📺 Nate Herk | AI Automation
+📺 Sheriff Lamb
 
-👁️ 167K • 👍 5K • 💬 636 • ⏱️ 7:50 • 1d ago
+👁️ 102K • 👍 7K • 💬 1K • ⏱️ 23:16 • 7h ago
 
 ---
 
@@ -355,17 +349,17 @@ OpenAI just dropped a policy blueprint built around one huge idea: superintellig
 
 📺 AI Revolution
 
-👁️ 27K • 👍 895 • 💬 120 • ⏱️ 13:17 • 1d ago
+👁️ 27K • 👍 903 • 💬 123 • ⏱️ 13:17 • 1d ago
 
 ---
 
-**[The Best Claude AI Business Ideas For Beginners](https://www.youtube.com/watch?v=us_9ogFJRUo)**
+**[Claude’s New AI Just Changed the Internet Forever](https://www.youtube.com/watch?v=DG1wRgEpdO4)**
 
-Check out what people are creating (and selling!) with Claude AI - it's crazy... ▻ Get My FREE AI Print On Demand Business ...
+Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=claude-mythos-security All my FREE ...
 
-📺 Wholesale Ted
+📺 Nate Herk | AI Automation
 
-👁️ 62K • 👍 4K • 💬 168 • ⏱️ 15:19 • 1d ago
+👁️ 170K • 👍 5K • 💬 637 • ⏱️ 7:50 • 1d ago
 
 ---
 
@@ -375,7 +369,7 @@ Bernie and I do not agree on everything, but we agree on a lot!! I wish we could
 
 📺 Hank Green
 
-👁️ 592K • 👍 32K • 💬 3K • ⏱️ 30:54 • 2d ago
+👁️ 602K • 👍 33K • 💬 3K • ⏱️ 30:54 • 2d ago
 
 ---
 
@@ -391,7 +385,7 @@ Gemma 4 31B is an instruction-tuned, multimodal LLM capable of processing text a
 
 `image-text-to-text` `32.7B`
 
-⬇️ 1,333,678 • ❤️ 1,543 • 7d ago
+⬇️ 1,333,678 • ❤️ 1,552 • 7d ago
 
 ---
 
@@ -403,7 +397,7 @@ Gemma-4-31B-JANG_4M-CRACK is a 31B parameter text-generation model optimized for
 
 `text-generation` `6.4B`
 
-⬇️ 59,852 • ❤️ 840 • 5d ago
+⬇️ 59,852 • ❤️ 843 • 5d ago
 
 ---
 
@@ -415,7 +409,7 @@ GLM-5.1 is a next-generation language model optimized for agentic engineering, f
 
 `text-generation` `753.9B`
 
-⬇️ 8,465 • ❤️ 830 • 1d ago
+⬇️ 8,465 • ❤️ 837 • 1d ago
 
 ---
 
@@ -427,7 +421,7 @@ VOID is a video-to-video diffusion model for object and interaction removal, cap
 
 `video-to-video`
 
-⬇️ 0 • ❤️ 687 • 3d ago
+⬇️ 0 • ❤️ 691 • 3d ago
 
 ---
 
@@ -439,7 +433,7 @@ VoxCPM2 is a 2B parameter, 30-language multilingual text-to-speech model capable
 
 `text-to-speech`
 
-⬇️ 1,815 • ❤️ 587 • 1d ago
+⬇️ 1,815 • ❤️ 588 • 1d ago
 
 ---
 
@@ -451,7 +445,7 @@ Gemma 4 26B A4B is a multimodal instruction-tuned model capable of processing te
 
 `image-text-to-text` `26.5B`
 
-⬇️ 1,046,548 • ❤️ 561 • 7d ago
+⬇️ 1,046,548 • ❤️ 563 • 7d ago
 
 ---
 
@@ -463,7 +457,7 @@ Gemma 4 E4B is a multimodal, instruction-tuned LLM from Google DeepMind, support
 
 `any-to-any` `8.0B`
 
-⬇️ 784,026 • ❤️ 530 • 7d ago
+⬇️ 784,026 • ❤️ 533 • 7d ago
 
 ---
 
@@ -475,7 +469,7 @@ This image-text-to-text model, Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled, 
 
 `image-text-to-text` `27.8B`
 
-⬇️ 564,664 • ❤️ 2,533 • 3d ago
+⬇️ 564,664 • ❤️ 2,538 • 3d ago
 
 ---
 
@@ -487,19 +481,19 @@ OmniVoice is a massively multilingual, zero-shot text-to-speech model supporting
 
 `text-to-speech`
 
-⬇️ 200,591 • ❤️ 428 • 4d ago
+⬇️ 200,591 • ❤️ 434 • 4d ago
 
 ---
 
-**[gemma-4-26B-A4B-it-GGUF](https://huggingface.co/unsloth/gemma-4-26B-A4B-it-GGUF)**
+**[Qianfan-OCR](https://huggingface.co/baidu/Qianfan-OCR)**
 
-*Unsloth AI*
+*BAIDU*
 
-Gemma 4 26B A4B IT GGUF is a multimodal instruction-tuned LLM from Google DeepMind, supporting text and image inputs for advanced reasoning, coding, and agentic workflows with a 256K context window.
+Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document intelligence, capable of direct image-to-Markdown conversion and supporting prompt-driven tasks like document parsing, table extraction, and question answering across 192 languages. It achieves state-of-the-art performance on benchmarks like OmniDocBench v1.5 with its innovative 'Layout-as-Thought' mechanism.
 
-`image-text-to-text` `25.2B`
+`image-text-to-text` `4.7B`
 
-⬇️ 1,197,486 • ❤️ 370 • 1d ago
+⬇️ 42,622 • ❤️ 1,129 • 14d ago
 
 ---
 
@@ -545,34 +539,6 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 ---
 
-**[VOID: Video Object and Interaction Deletion](https://huggingface.co/papers/2604.02296)**
-
-*Saman Motamed, William Harvey, Benjamin Klein et al. (6 authors)*
-
-🏢 Netflix
-
-VOID is a video object removal framework that uses vision-language models and video diffusion models to generate physically plausible scenes by leveraging causal reasoning and counterfactual reasoning.
-
-▲ 48 • 💬 5 • ⭐ 1,337 • 7d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2604.02296) • [💻 code](https://github.com/Netflix/void-model) • [🔗 project](https://void-model.github.io/)
-
----
-
-**[Video-MME-v2: Towards the Next Stage in Benchmarks for Comprehensive Video Understanding](https://huggingface.co/papers/2604.05015)**
-
-*Chaoyou Fu, Haozhi Yuan, Yuhao Dong et al. (19 authors)*
-
-🏢 MME-Benchmarks
-
-Video-MME-v2 presents a comprehensive benchmark for evaluating video understanding models through a progressive hierarchy and group-based evaluation to assess robustness and faithfulness.
-
-▲ 217 • 💬 8 • ⭐ 305 • 3d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2604.05015) • [💻 code](https://github.com/MME-Benchmarks/Video-MME-v2) • [🔗 project](https://video-mme-v2.netlify.app/)
-
----
-
 **[Bitnet.cpp: Efficient Edge Inference for Ternary LLMs](https://huggingface.co/papers/2502.11880)**
 
 *Jinheng Wang, Hansong Zhou, Ting Song et al. (10 authors)*
@@ -598,6 +564,34 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 ---
 
+**[VOID: Video Object and Interaction Deletion](https://huggingface.co/papers/2604.02296)**
+
+*Saman Motamed, William Harvey, Benjamin Klein et al. (6 authors)*
+
+🏢 Netflix
+
+VOID is a video object removal framework that uses vision-language models and video diffusion models to generate physically plausible scenes by leveraging causal reasoning and counterfactual reasoning.
+
+▲ 49 • 💬 5 • ⭐ 1,380 • 8d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2604.02296) • [💻 code](https://github.com/Netflix/void-model) • [🔗 project](https://void-model.github.io/)
+
+---
+
+**[Video-MME-v2: Towards the Next Stage in Benchmarks for Comprehensive Video Understanding](https://huggingface.co/papers/2604.05015)**
+
+*Chaoyou Fu, Haozhi Yuan, Yuhao Dong et al. (19 authors)*
+
+🏢 MME-Benchmarks
+
+Video-MME-v2 presents a comprehensive benchmark for evaluating video understanding models through a progressive hierarchy and group-based evaluation to assess robustness and faithfulness.
+
+▲ 217 • 💬 8 • ⭐ 331 • 4d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2604.05015) • [💻 code](https://github.com/MME-Benchmarks/Video-MME-v2) • [🔗 project](https://video-mme-v2.netlify.app/)
+
+---
+
 **[TriAttention: Efficient Long Reasoning with Trigonometric KV Compression](https://huggingface.co/papers/2604.04921)**
 
 *Weian Mao, Xi Lin, Wei Huang et al. (8 authors)*
@@ -606,7 +600,7 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 TriAttention addresses KV cache memory bottlenecks in LLMs by leveraging Q/K vector concentration in pre-RoPE space to improve key importance estimation and enable efficient long-context generation.
 
-▲ 89 • 💬 4 • ⭐ 362 • 3d ago
+▲ 90 • 💬 4 • ⭐ 362 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.04921) • [💻 code](https://github.com/WeianMao/triattention) • [🔗 project](https://weianmao.github.io/tri-attention-project-page/)
 
@@ -649,7 +643,7 @@ The highest-scoring AI memory system ever benchmarked. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 33.9k • 🔱 4.3k • 2h ago
+⭐ 34.7k • 🔱 4.4k • 1h ago
 
 ---
 
@@ -659,7 +653,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 27.0k • 🔱 5.0k • 2h ago
+⭐ 27.3k • 🔱 5.1k • 3h ago
 
 ---
 
@@ -669,7 +663,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Ope
 
 `Python` `claude-code` `codex` `graphrag` `knowledge-graph` `openclaw`
 
-⭐ 16.7k • 🔱 1.7k • 2h ago
+⭐ 17.1k • 🔱 1.7k • 3h ago
 
 ---
 
@@ -679,7 +673,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 14.7k • 🔱 1.4k • 1h ago
+⭐ 14.7k • 🔱 1.4k • 51m ago
 
 ---
 
@@ -709,7 +703,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 8.5k • 🔱 359 • 19h ago
+⭐ 8.6k • 🔱 374 • 45m ago
 
 ---
 
@@ -719,7 +713,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 7.2k • 🔱 441 • 3h ago
+⭐ 7.2k • 🔱 441 • 4h ago
 
 ---
 
