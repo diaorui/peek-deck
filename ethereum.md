@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-09T09:49:48.043951+00:00'
+updated: '2026-04-09T11:00:04.285537+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
-- cryptocurrency
+- news
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 09, 2026 at 09:49 UTC  
+**Last Updated:** April 09, 2026 at 11:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,186.97
+### $2,194.33
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.7%  
-**7d:** +6.5%  
-**30d:** +6.6%  
-**90d:** -29.2%  
-**1y:** +43.6%  
+**24h:** -2.5%  
+**7d:** +6.8%  
+**30d:** +6.9%  
+**90d:** -29.0%  
+**1y:** +44.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $262.88B
+**Market Cap:** $264.67B
 Rank #2
 
 **Circulating Supply:** 120,691,116 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--56.0%
+-55.7%
 
 **All-Time Low:** $0.43
-+503016.8%
++506291.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 World Liberty Financial deposited 3B WLFI tokens as collateral to borrow $50M of its own stablecoin, pushing its lending pool into negative liquidity and raising concerns over circular treasury practices, governance risks, and regulatory scrutiny.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/trumps-crypto-project-just-borrowed-50-million-against-its-own-token-and-broke-the-lending-pool/) • 23h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/trumps-crypto-project-just-borrowed-50-million-against-its-own-token-and-broke-the-lending-pool/) • 1d ago
 
 ---
 
@@ -80,7 +80,7 @@ World Liberty Financial deposited 3B WLFI tokens as collateral to borrow $50M of
 
 The Ethereum Layer 2 powering Predictstreet. Built by Abu Dhabi's IHC, hosting a UAE central-bank-licensed stablecoin, with BlackRock and Mastercard as collaborators.
 
-🔗 [Company Gibraltar | company.gi](https://company.gi/blog/adi-chain-explained) • 8m ago
+🔗 [Company Gibraltar | company.gi](https://company.gi/blog/adi-chain-explained) • 1h ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Bitcoin (BTC-USD) opened higher at $71,926.16 and ethereum (ETH-USD) opened higher at $2,239.89 following President Trump’s announcement of a temporary ceasefire agreement with Iran.
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -162,13 +162,13 @@ Yahoo Finance • 22h ago
 
 Both of these leading digital assets have lost roughly half of their value since hitting their peaks in the back half of 2025.
 
-The Motley Fool • 17m ago
+The Motley Fool • 1h ago
 
 ---
 
-**[Berkshire Hathaway Stock Drops for 8 Days. Is It a Good Time to Buy?](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-today-2ef03b04?mod=barronsgooglenews)**
+**[Bitcoin vs. Ethereum: Which crypto is the better buy in 2026?](https://www.msn.com/en-us/money/topstocks/bitcoin-vs-ethereum-which-crypto-is-the-better-buy-in-2026/ar-AA20utCn?ocid=finance-verthp-feeds)**
 
-Barron's • 2h ago
+MSN • 16m ago
 
 ---
 
@@ -176,7 +176,23 @@ Barron's • 2h ago
 
 The Ethereum Foundation will convert 5,000 ETH (~$10–11 million) to stablecoins via CoWSwap TWAP to fund operations. The sale aligns with its 2025 treasury policy, ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
+
+---
+
+**[Ethereum Price Action Just Flipped Bullish: Why $2400 Is Now In Play?](https://www.tradingview.com/news/coinpedia:4de234395094b:0-ethereum-price-action-just-flipped-bullish-why-2400-is-now-in-play/)**
+
+Ethereum has decisively reclaimed the $2,200 level, marking a clear shift in structure, and that’s exactly why $2,400 is now back in play. The recent move is not just a relief bounce. It comes after a complete leverage reset near $1,800, followed by steady accumulation and now a push into higher le…
+
+TradingView • 2h ago
+
+---
+
+**[ETH Up or Down - 5 Minutes](https://polymarket.com/event/eth-updown-5m-1775728500)**
+
+Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+
+Polymarket • 2d ago
 
 ---
 
@@ -202,27 +218,11 @@ Forbes • 2d ago
 
 ---
 
-**[Here’s why Ethereum and Bitcoin may be decoupling from each other](https://ambcrypto.com/heres-why-ethereum-and-bitcoin-may-be-decoupling-from-each-other/)**
+**[Ethereum Foundation swaps 5,000 ETH into stablecoins for operational and grant funding](https://www.theblock.co/post/396728/ethereum-foundation-swaps-5000-eth-stablecoins-operational-grant-funding)**
 
-Ethereum and Bitcoin are going off in interesting directions right now.
+So far, the CoWSwap TWAP transactions have been drawn from a wallet associated with the Ethereum Foundation's DeFi activities.
 
-AMBCrypto • 3h ago
-
----
-
-**[Current price of Ethereum for April 8, 2026](https://fortune.com/article/price-of-ethereum-04-08-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 20h ago
-
----
-
-**[Why is Ethereum surging? ETH jumps 6% as whales accumulate](https://www.tradingview.com/news/invezz:aeeba7771094b:0-why-is-ethereum-surging-eth-jumps-6-as-whales-accumulate/)**
-
-The cryptocurrency market has switched bullish, with Bitcoin and Ether recording excellent gains in the last 24 hours.Ether, the second-largest cryptocurrency by market cap, is up by more than 6% in the last 24 hours and is now trading above $2,250 per coin. The rally comes after a ceasefire agreem…
-
-TradingView • 1d ago
+The Block • 19h ago
 
 ---
 
@@ -236,7 +236,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 7K • 👍 285 • 💬 20 • ⏱️ 20:08 • 17h ago
+👁️ 8K • 👍 298 • 💬 20 • ⏱️ 20:08 • 18h ago
 
 ---
 
@@ -246,7 +246,7 @@ In this video, I take a closer look at the current Ethereum market structure and
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 137 • 💬 7 • ⏱️ 10:28 • 9h ago
+👁️ 2K • 👍 150 • 💬 10 • ⏱️ 10:28 • 10h ago
 
 ---
 
@@ -256,7 +256,7 @@ Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zu
 
 📺 Krypto Trading & Investing
 
-👁️ 2K • 👍 557 • 💬 44 • ⏱️ 10:41 • 5h ago
+👁️ 3K • 👍 606 • 💬 50 • ⏱️ 10:41 • 6h ago
 
 ---
 
@@ -270,6 +270,26 @@ This is huge for crypto, bitcoin, ethereum and the rest of the markets!!!!! ----
 
 ---
 
+**[How to Earn Free Ethereum in 2026 – Real ETH Test | Honest Experiment](https://www.youtube.com/watch?v=jJ4Ql3ekaPo)**
+
+Can you actually get free Ethereum in 2026, or is it all just hype? I decided to put a popular ETH mining/claim method to the ...
+
+📺 Hitch Insights
+
+👁️ 3K • 👍 624 • 💬 524 • ⏱️ 6:14 • 2d ago
+
+---
+
+**[LIVE: Trump Makes Important Announcement About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=J675nG2cvq0)**
+
+TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2026 — streaming LIVE from ...
+
+📺 ALI CALDWELLMusic
+
+👁️ 2K • 👍 1K • 15m ago
+
+---
+
 **[A MASSIVE SIGNAL IS FLASHING FOR ETHEREUM (LAST TIME WAS INSANE)](https://www.youtube.com/watch?v=GqXhK6k76-A)**
 
 Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ Deposit from $100: Get a 1% bonus ✔️ Withdraw anytime ...
@@ -280,43 +300,23 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 ---
 
-**[Ethereum: One More Bounce… Then Down?](https://www.youtube.com/watch?v=oDwTs_pXQx8)**
-
-In this video, I take a closer look at the current Ethereum market structure and explain why the recent move higher does not ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 194 • 💬 11 • ⏱️ 11:32 • 1d ago
-
----
-
 **[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=lWKuKrjeFgQ)**
 
 Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
 
 📺 Crypto Gyan
 
-👁️ 661 • 👍 80 • ⏱️ 5:31 • 6h ago
+👁️ 989 • 👍 89 • ⏱️ 5:31 • 7h ago
 
 ---
 
-**[CRYPTO&#39;S NEXT MOVE IN MACRO UNCERTAINTY! BITCOIN, XRP, ETHEREUM, &amp; SOLANA ANALYSIS!](https://www.youtube.com/watch?v=UK9Dx6GZrr0)**
+**[Ethereum: One More Bounce… Then Down?](https://www.youtube.com/watch?v=oDwTs_pXQx8)**
 
-Brian from Santiment joined me to review the crypto market metrics for Bitcoin, XRP, Ethereum, and Solana. 🖥️ Sign up with ...
+In this video, I take a closer look at the current Ethereum market structure and explain why the recent move higher does not ...
 
-📺 Thinking Crypto
+📺 More Crypto Online
 
-👁️ 2K • 👍 158 • 💬 255 • ⏱️ 26:32 • 21h ago
-
----
-
-**[How to Earn Free Ethereum in 2026 – Real ETH Test | Honest Experiment](https://www.youtube.com/watch?v=jJ4Ql3ekaPo)**
-
-Can you actually get free Ethereum in 2026, or is it all just hype? I decided to put a popular ETH mining/claim method to the ...
-
-📺 Hitch Insights
-
-👁️ 3K • 👍 623 • 💬 524 • ⏱️ 6:14 • 2d ago
+👁️ 3K • 👍 194 • 💬 12 • ⏱️ 11:32 • 1d ago
 
 ---
 

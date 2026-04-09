@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-09T09:49:48.038076+00:00'
+updated: '2026-04-09T11:00:04.280326+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
-- cryptocurrency
+- news
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 09, 2026 at 09:49 UTC  
+**Last Updated:** April 09, 2026 at 11:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $71,353.15
+### $71,291.05
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** +6.6%  
+**24h:** -0.5%  
+**7d:** +6.5%  
 **30d:** +1.6%  
 **90d:** -21.1%  
-**1y:** -10.5%  
+**1y:** -10.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1419.80B
+**Market Cap:** $1427.67B
 Rank #1
 
 **Circulating Supply:** 20,013,412 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--43.7%
+-43.4%
 
 **All-Time Low:** $67.81
-+104524.7%
++105092.4%
 
 ---
 
@@ -79,13 +79,7 @@ Rank #1
 
 **[Is this you?](https://www.reddit.com/r/Bitcoin/comments/1sg4gms/is_this_you/)**
 
-13h ago
-
----
-
-**[They hate this little trick](https://www.reddit.com/r/Bitcoin/comments/1sg3mx1/they_hate_this_little_trick/)**
-
-13h ago
+14h ago
 
 ---
 
@@ -93,7 +87,13 @@ Rank #1
 
 On X, Adam Back addressed, external the New York Times' assertion that he was absent on Bitcoin forums at the time when Satoshi was most active and then came back once Satoshi had vanished - saying he actually "did a lot of yakking" on the forums at the time. He said the rest of the New York Times evidence is "a combination of coincidence and similar phrases from people with similar experience and interests".
 
-🔗 [BBC News](https://www.bbc.co.uk/news/articles/cgrl4l1y9yxo) • 2h ago
+🔗 [BBC News](https://www.bbc.co.uk/news/articles/cgrl4l1y9yxo) • 3h ago
+
+---
+
+**[They hate this little trick](https://www.reddit.com/r/Bitcoin/comments/1sg3mx1/they_hate_this_little_trick/)**
+
+15h ago
 
 ---
 
@@ -101,7 +101,7 @@ On X, Adam Back addressed, external the New York Times' assertion that he was ab
 
 Think about what just happened. Iran ceasefire. Morgan Stanley launches a Bitcoin ETF. $471M pours into BTC ETFs in a single day. Price hits $72.7K. $280M in shorts get liquidated. And sentiment got WORSE. Not better. Worse. Fear & Greed was 17 before the rally. Today it's 14. The market saw the most bullish news combination in months and responded by getting more afraid. I've been watching this index for a long time. A rally on major positive catalysts that DROPS sentiment instead of lifting it tells you one thing: the people with real money don't believe this move. The $280M in liquidations means the pump was fueled by short squeezes, not by new buyers who want to hold. Halving anniversary is April 20. CPI drops tomorrow. The next two weeks will tell us if this was the start of something or just noise. But that Fear & Greed number should bother everyone who went long yesterday.
 
-2h ago
+4h ago
 
 ---
 
@@ -109,7 +109,7 @@ Think about what just happened. Iran ceasefire. Morgan Stanley launches a Bitcoi
 
 A ton of BTC was recently traded below $70,000 in a sign of strong dip demand.
 
-🔗 [coindesk.com](https://www.coindesk.com/markets/2026/04/08/bitcoin-buyers-gobbled-up-nearly-850-000-btc-between-usd60-000-and-usd70-000) • 19h ago
+🔗 [coindesk.com](https://www.coindesk.com/markets/2026/04/08/bitcoin-buyers-gobbled-up-nearly-850-000-btc-between-usd60-000-and-usd70-000) • 21h ago
 
 ---
 
@@ -117,7 +117,7 @@ A ton of BTC was recently traded below $70,000 in a sign of strong dip demand.
 
 Morgan Stanley's bitcoin ETF comes with a 0.14% annual fee, making it the lowest in the spot BTC ETF market and undercutting BlackRock's IBIT (0.25%)
 
-19h ago
+20h ago
 
 ---
 
@@ -125,7 +125,7 @@ Morgan Stanley's bitcoin ETF comes with a 0.14% annual fee, making it the lowest
 
 Im so sorry guys! Im going to start buying in now meaning it’s going to crash! So for you regards out there that only buy when its high go ahead and make that purchase 😩
 
-9h ago
+10h ago
 
 ---
 
@@ -133,7 +133,7 @@ Im so sorry guys! Im going to start buying in now meaning it’s going to crash!
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-3h ago
+4h ago
 
 ---
 
@@ -141,7 +141,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Paid a local cafe in sats and got 25 bucks back from the btc day promotion 😁!
 
-13h ago
+14h ago
 
 ---
 
@@ -149,7 +149,7 @@ Paid a local cafe in sats and got 25 bucks back from the btc day promotion 😁!
 
 https://www.reddit.com/r/askanything/comments/1s8mrgl/comment/oenq0i2/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button I thought some of you might like to read this comment. I was debating this guy for a while until he finally spit this sentence out: I didn't misrepresent anything. How is "sending [XYZ] unlimited distance without a third party" unique at all? How is this any different than a wire transfer? I guess there is banking intermediation, but I am not aware of the ability to send Bitcoin without some intermediating service, either. This absolutely baffled me, as he was confidently debating me for quite a while, then accidentally admitted he thought bitcoin required an "intermediating service". I called him out and he has since not responded...lol.
 
-19h ago
+20h ago
 
 ---
 
@@ -161,15 +161,13 @@ https://www.reddit.com/r/askanything/comments/1s8mrgl/comment/oenq0i2/?utm_sourc
 
 The British computer scientist and entrepreneur has denied being the man who the New York Times identified at Satoshi Nakamoto.
 
-BBC • 23h ago
+BBC • 1d ago
 
 ---
 
-**[Bitcoin vs. Ethereum: Which Crypto Is the Better Buy in 2026?](https://www.fool.com/investing/2026/04/09/bitcoin-vs-ethereum-crypto-better-buy-2026/)**
+**[Wall Street Still Loves Bitcoin Even if Fever Is Cooling](https://www.bloomberg.com/news/newsletters/2026-04-09/wall-street-still-loves-bitcoin-even-if-fever-is-cooling)**
 
-Both of these leading digital assets have lost roughly half of their value since hitting their peaks in the back half of 2025.
-
-The Motley Fool • 17m ago
+Bloomberg.com • 37m ago
 
 ---
 
@@ -177,57 +175,57 @@ The Motley Fool • 17m ago
 
 There’s a wide gap between how experts are viewing Friday’s inflation data and how the bitcoin market is pricing in the impending figures.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
-**[Higher Before Lower: How Bitcoin Price Will Get To $240,000](https://www.tradingview.com/news/newsbtc:f08ce1ca3094b:0-higher-before-lower-how-bitcoin-price-will-get-to-240-000/)**
+**[Bitcoin vs. Ethereum: Which Crypto Is the Better Buy in 2026?](https://www.fool.com/investing/2026/04/09/bitcoin-vs-ethereum-crypto-better-buy-2026/)**
 
-The current downtrend has put the Bitcoin price in an increasingly difficult position as bears push back on every recovery. Even now, the price continues to struggle to maintain an uptrend, but it has not deterred bulls from predicting higher prices. The general consensus still remains that the Bit…
+Both of these leading digital assets have lost roughly half of their value since hitting their peaks in the back half of 2025.
 
-TradingView • 1h ago
+The Motley Fool • 1h ago
+
+---
+
+**[Bitcoin, solana surge as Iran looks to charge tolls for Strait of Hormuz passage to be paid in crypto](https://finance.yahoo.com/news/bitcoin-solana-surge-as-iran-looks-to-charge-tolls-for-strait-of-hormuz-passage-to-be-paid-in-crypto-142009952.html)**
+
+Iran is looking to charge shipowners a fee of $1 per barrel of oil onboard for safe passage across the Strait of Hormuz, to be paid in cryptocurrency, according to the Financial Times.
+
+Yahoo Finance • 20h ago
+
+---
+
+**[Bitcoin payments allowed for Hormuz tanker tolls as Iran seeks up to $2 million per ship: FT](https://www.theblock.co/post/396711/bitcoin-payments-allowed-hormuz-tanker-tolls-iran-2-million-per-ship-report)**
+
+Iran is reportedly open transit tolls paid in bitcoin and crypto for ships crossing the Strait of Hormuz amid volatile ceasefire.
+
+The Block • 20h ago
+
+---
+
+**[‘Will Be Destroyed’—Iran’s Bitcoin Toll Sparks $100K Price Prediction](https://www.forbes.com/sites/digital-assets/2026/04/08/will-be-destroyed-irans-bitcoin-toll-sparks-100k-price-prediction/)**
+
+Forbes • 16h ago
 
 ---
 
 **[How The Trumps Blew $1 Billion On Bitcoin](https://www.forbes.com/sites/danalexander/2026/04/08/how-the-trumps-blew-1-billion-on-bitcoin/)**
 
-Forbes • 22h ago
+Forbes • 23h ago
+
+---
+
+**[Morgan Stanley's MSBT bitcoin ETF logs $34 million in first-day volume](https://www.theblock.co/post/396785/morgan-stanley-msbt-bitcoin-etf-volume)**
+
+Morgan Stanley Bitcoin Trust's first-day volume exceeded the $30 million estimate from Bloomberg Senior Analyst Eric Balchunas.
+
+The Block • 9h ago
 
 ---
 
 **[Morgan Stanley Debuts Bitcoin ETF as Price Slump Rattles Holders](https://www.bloomberg.com/news/articles/2026-04-08/morgan-stanley-debuts-bitcoin-etf-as-price-slump-rattles-holders)**
 
-Bloomberg.com • 21h ago
-
----
-
-**[Morgan Stanley’s bitcoin ETF draws $34 million on day one](https://www.coindesk.com/markets/2026/04/08/morgan-stanley-s-bitcoin-etf-draws-usd34-million-on-day-one)**
-
-Morgan Stanley’s low-fee bitcoin ETF debuted with strong early trading, signaling demand as competition shifts to cost and distribution.
-
-CoinDesk • 9h ago
-
----
-
-**[Did The NYT Identify Bitcoin's Creator? Morgan Stanley Launches ETF, Cryptos Rally.](https://www.investors.com/news/bitcoin-price-satoshi-nakamoto-identity-nyt-investigation-adam-back-morgan-stanley-bitcoin-etf/)**
-
-Investor's Business Daily • 13h ago
-
----
-
-**[Bithumb turns to legal action to recover lost bitcoin in 'fat finger' incident: report](https://www.theblock.co/post/396812/bithumb-legal-action-bitcoin-fat-finger)**
-
-Most recipients of the 'fat finger' error have voluntarily returned the bitcoin, but some insisted they are not obligated to do so.
-
-The Block • 3h ago
-
----
-
-**[Bernstein says quantum is a 'manageable upgrade cycle' for Bitcoin, not an existential threat](https://www.theblock.co/post/396709/bernstein-says-quantum-is-a-manageable-upgrade-cycle-for-bitcoin-not-an-existential-threat)**
-
-Commercial players, including Strategy, BlackRock, and Fidelity, are expected to play a "constructive role" in security, the analysts said.
-
-The Block • 19h ago
+Bloomberg.com • 22h ago
 
 ---
 
@@ -237,7 +235,7 @@ The Block • 19h ago
 
 **[Who is Satoshi Nakamoto? My quest to unmask Bitcoin's creator](https://news.ycombinator.com/item?id=47685320)**
 
-⬆️ 488 • 💬 551 • 1d ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)
+⬆️ 509 • 💬 616 • 1d ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)
 
 ---
 
@@ -253,7 +251,7 @@ Neha Narula
 
 Country’s oil exporters’ union says toll to be paid in cryptocurrency and vessels monitored for weapons
 
-⬆️ 159 • 💬 251 • 19h ago • [ft.com](https://www.ft.com/content/02aefac4-ea62-48db-9326-c0da373b11b8)
+⬆️ 159 • 💬 251 • 20h ago • [ft.com](https://www.ft.com/content/02aefac4-ea62-48db-9326-c0da373b11b8)
 
 ---
 
@@ -269,13 +267,13 @@ Google Quantum AI: Quantum computer could break Bitcoin cryptography with under 
 
 The British computer scientist and entrepreneur has denied being the man who the New York Times identified at Satoshi Nakamoto.
 
-⬆️ 14 • 💬 1 • 16h ago • [bbc.com](https://www.bbc.com/news/articles/cgrl4l1y9yxo)
+⬆️ 14 • 💬 1 • 17h ago • [bbc.com](https://www.bbc.com/news/articles/cgrl4l1y9yxo)
 
 ---
 
 **[Takeaways from Our Search for Bitcoin's Creator](https://news.ycombinator.com/item?id=47689167)**
 
-⬆️ 11 • 💬 1 • 21h ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/takeaways-satoshi-nakamoto-bitcoin-adam-back.html)
+⬆️ 11 • 💬 1 • 22h ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/takeaways-satoshi-nakamoto-bitcoin-adam-back.html)
 
 ---
 
@@ -289,7 +287,7 @@ April 03, 2026 - A new $100 million bond deal reveals exactly how traditional fi
 
 **[Bitcoin.com Deplatformed by YouTube](https://news.ycombinator.com/item?id=47697080)**
 
-⬆️ 4 • 💬 0 • 11h ago • [X (formerly Twitter)](https://twitter.com/i/status/2041756576600748142)
+⬆️ 4 • 💬 0 • 12h ago • [X (formerly Twitter)](https://twitter.com/i/status/2041756576600748142)
 
 ---
 
@@ -303,7 +301,7 @@ April 03, 2026 - A new $100 million bond deal reveals exactly how traditional fi
 
 New York Times report claims London-born Adam Back is creator of the cryptocurrency after comparing writings
 
-⬆️ 3 • 💬 1 • 11h ago • [the Guardian](https://www.theguardian.com/technology/2026/apr/08/british-computer-scientist-adam-back-denies-he-is-bitcoin-developer-satoshi-nakamoto)
+⬆️ 3 • 💬 1 • 12h ago • [the Guardian](https://www.theguardian.com/technology/2026/apr/08/british-computer-scientist-adam-back-denies-he-is-bitcoin-developer-satoshi-nakamoto)
 
 ---
 
@@ -317,7 +315,27 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 WEE
 
 📺 Altcoin Daily
 
-👁️ 42K • 👍 2K • 💬 460 • ⏱️ 9:28 • 1d ago
+👁️ 43K • 👍 2K • 💬 467 • ⏱️ 9:28 • 1d ago
+
+---
+
+**[Bitcoin: Bear Market Resistance Band](https://www.youtube.com/watch?v=4rkqfmzKFpU)**
+
+It is once again time for an update to the Bitcoin bear market resistance band! Into The Cryptoverse Premium SALE: ...
+
+📺 Benjamin Cowen
+
+👁️ 53K • 👍 3K • 💬 170 • ⏱️ 28:36 • 15h ago
+
+---
+
+**[Bitcoin at $75,000 Means Something Nobody Expected](https://www.youtube.com/watch?v=JbPewYH-T7Y)**
+
+Bitcoin isn't just moving toward $75000. It's reacting to it. Because this isn't just a price level… it's a structural pressure point in the ...
+
+📺 Tim Talks Finance
+
+👁️ 3K • 👍 140 • 💬 66 • ⏱️ 11:28 • 16h ago
 
 ---
 
@@ -327,7 +345,7 @@ GREAT NEWS! Clarity act just received...some clarity. Research paper ...
 
 📺 Digital Asset News
 
-👁️ 14K • 👍 951 • 💬 55 • ⏱️ 18:39 • 14h ago
+👁️ 15K • 👍 996 • 💬 56 • ⏱️ 18:39 • 16h ago
 
 ---
 
@@ -337,7 +355,7 @@ Anthony Pompliano explains why bitcoin is holding strong while stocks, bonds, an
 
 📺 Anthony Pompliano
 
-👁️ 19K • 👍 830 • 💬 34 • ⏱️ 19:07 • 12h ago
+👁️ 21K • 👍 899 • 💬 34 • ⏱️ 19:07 • 13h ago
 
 ---
 
@@ -347,7 +365,7 @@ Subscribe for daily insights and updates for your Bitcoin journey. Follow on Fac
 
 📺 Joel Bomgar
 
-👁️ 770 • 👍 20 • ⏱️ 2:36 • 12h ago
+👁️ 843 • 👍 21 • ⏱️ 2:36 • 13h ago
 
 ---
 
@@ -361,43 +379,23 @@ BRACE YOURSELF... Crypto is about to get ABSOLUTELY CRAZY! For more info on BTQ 
 
 ---
 
-**[Bitcoin: Bear Market Resistance Band](https://www.youtube.com/watch?v=4rkqfmzKFpU)**
-
-It is once again time for an update to the Bitcoin bear market resistance band! Into The Cryptoverse Premium SALE: ...
-
-📺 Benjamin Cowen
-
-👁️ 47K • 👍 3K • 💬 162 • ⏱️ 28:36 • 14h ago
-
----
-
-**[Bitcoin at $75,000 Means Something Nobody Expected](https://www.youtube.com/watch?v=JbPewYH-T7Y)**
-
-Bitcoin isn't just moving toward $75000. It's reacting to it. Because this isn't just a price level… it's a structural pressure point in the ...
-
-📺 Tim Talks Finance
-
-👁️ 3K • 👍 139 • 💬 63 • ⏱️ 11:28 • 15h ago
-
----
-
-**[BREAKING: What Iran JUST Did COULD Be The BIGGEST BITCOIN ANNOUNCEMENT OF 2026?! | EP 1478](https://www.youtube.com/watch?v=HyILCj6Z4dE)**
-
-Apparent ceasefire declared in Middle East cooling global markets -- but bitcoin might be the real winner ...
-
-📺 Simply Bitcoin
-
-👁️ 10K • 👍 472 • 💬 385 • ⏱️ 1:12:58 • 15h ago
-
----
-
 **[BREAKING: First US Bank Launches Bitcoin ETF and it&#39;s NOT Who You Think | EP 1477](https://www.youtube.com/watch?v=vNOW8qQZ67o)**
 
 BREAKING: First US Bank Launches Bitcoin ETF TOMORROW ...
 
 📺 Simply Bitcoin
 
-👁️ 8K • 👍 409 • 💬 28 • ⏱️ 1:20:07 • 1d ago
+👁️ 8K • 👍 411 • 💬 29 • ⏱️ 1:20:07 • 1d ago
+
+---
+
+**[BLACKROCK GOT OUT! | $875 Billion Reason Your Bank Could Be NEXT!](https://www.youtube.com/watch?v=7qggaEgalPI)**
+
+Something big just shifted behind the scenes and most people missed it. BlackRock is repositioning, regional banks are exposed, ...
+
+📺 Simply Bitcoin
+
+👁️ 30K • 👍 2K • 💬 134 • ⏱️ 21:33 • 2d ago
 
 ---
 
@@ -407,7 +405,7 @@ Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FR
 
 📺 CryptosRUs
 
-👁️ 16K • 👍 892 • 💬 403 • ⏱️ 37:24 • 19h ago
+👁️ 16K • 👍 896 • 💬 404 • ⏱️ 37:24 • 20h ago
 
 ---
 
