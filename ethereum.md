@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-09T08:22:48.850097+00:00'
+updated: '2026-04-09T09:49:48.043951+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
 - social
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 09, 2026 at 08:22 UTC  
+**Last Updated:** April 09, 2026 at 09:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,178.61
+### $2,186.97
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.2%  
-**7d:** +6.0%  
-**30d:** +6.2%  
-**90d:** -29.5%  
-**1y:** +43.0%  
+**24h:** -2.7%  
+**7d:** +6.5%  
+**30d:** +6.6%  
+**90d:** -29.2%  
+**1y:** +43.6%  
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 World Liberty Financial deposited 3B WLFI tokens as collateral to borrow $50M of its own stablecoin, pushing its lending pool into negative liquidity and raising concerns over circular treasury practices, governance risks, and regulatory scrutiny.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/trumps-crypto-project-just-borrowed-50-million-against-its-own-token-and-broke-the-lending-pool/) • 22h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/trumps-crypto-project-just-borrowed-50-million-against-its-own-token-and-broke-the-lending-pool/) • 23h ago
+
+---
+
+**[What Is ADI Chain? The Blockchain Behind Predictstreet](https://www.reddit.com/r/ethereum/comments/1sgkyvr/what_is_adi_chain_the_blockchain_behind/)**
+
+The Ethereum Layer 2 powering Predictstreet. Built by Abu Dhabi's IHC, hosting a UAE central-bank-licensed stablecoin, with BlackRock and Mastercard as collaborators.
+
+🔗 [Company Gibraltar | company.gi](https://company.gi/blog/adi-chain-explained) • 8m ago
 
 ---
 
@@ -138,53 +146,37 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Quantum - is it really that dangerous? No...](https://www.reddit.com/r/ethereum/comments/1se5w54/quantum_is_it_really_that_dangerous_no/)**
-
-Hi, I used to work as a technical full-stack developer and recently I spent some time investigating this thing everyone's talking about "Quantum computing destroying encryption". Well, there are many remedies already available: Example 1 - for not technical people: https://www.nist.gov/news-events/news/2024/08/nist-releases-first-3-finalized-post-quantum-encryption-standards Example 2 - for technical people: https://github.com/open-quantum-safe/oqs-provider Most companies / IT projects are not prioritising it only because quantum computing threads might be decades away, and businesses don't execute investments on security unless there is a true threat. That's why your email providers, messaging apps, etc. don't have post-quantum standards implemented (such as: ml-dsa, ml-kem, slh-dsa). Yes. It is more complicated to secure decentralized Crypto than a website, but - anyway most of us use platforms like CoinBase, Kraken, Binance, .. and those holding crypto in one-single physical wallet - are not really the targets here. Anyhow, please, I hope my post helps some of you to be a bit calmer about this topic. I am definitely calmer after my research. Let's not cause panic sell-off. Have a great day everyone!
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
-
-**[Ethereum flipped in 2026? Predictions & Odds](https://polymarket.com/event/eth-flipped-in-2026)**
-
-View real-time odds for "Ethereum flipped in 2026?" as of March 15, 2026 and trade on The World's Largest Prediction Market™
-
-Polymarket • 3mo ago
-
----
-
-**[Bitcoin, XRP, Ethereum Fall. Watch This Crypto Price Level Amid Iran Cease-Fire Doubts.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-today-2ef03b04)**
-
-Barron's • 1h ago
-
----
-
-**[Ethereum Reclaims $2,200, But Analyst Says It’s Not Time To Celebrate Yet – Here’s Why](https://www.tradingview.com/news/newsbtc:0dfb95fa3094b:0-ethereum-reclaims-2-200-but-analyst-says-it-s-not-time-to-celebrate-yet-here-s-why/)**
-
-While Ethereum (ETH) retests a key level for the first time this month, some market watchers have advised caution, warning that the start of a new bull run may not be here yet.No Ethereum Party Until This happensAfter jumping nearly 10%, Ethereum is attempting to reclaim a crucial area that has ser…
-
-TradingView • 1h ago
-
----
 
 **[Bitcoin and ethereum price today, Wednesday, April 8, 2026: Prices rise after U.S.-Iran ceasefire announcement](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-wednesday-april-8-2026-prices-rise-after-us-iran-ceasefire-announcement-113837833.html)**
 
 Bitcoin (BTC-USD) opened higher at $71,926.16 and ethereum (ETH-USD) opened higher at $2,239.89 following President Trump’s announcement of a temporary ceasefire agreement with Iran.
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 22h ago
 
 ---
 
-**[Ethereum Foundation swaps 5,000 ETH into stablecoins for operational and grant funding](https://www.theblock.co/post/396728/ethereum-foundation-swaps-5000-eth-stablecoins-operational-grant-funding)**
+**[Bitcoin vs. Ethereum: Which Crypto Is the Better Buy in 2026?](https://www.fool.com/investing/2026/04/09/bitcoin-vs-ethereum-crypto-better-buy-2026/)**
 
-So far, the CoWSwap TWAP transactions have been drawn from a wallet associated with the Ethereum Foundation's DeFi activities.
+Both of these leading digital assets have lost roughly half of their value since hitting their peaks in the back half of 2025.
 
-The Block • 16h ago
+The Motley Fool • 17m ago
+
+---
+
+**[Berkshire Hathaway Stock Drops for 8 Days. Is It a Good Time to Buy?](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-today-2ef03b04?mod=barronsgooglenews)**
+
+Barron's • 2h ago
+
+---
+
+**[Ethereum Foundation To Convert 5,000 ETH—Here’s Where the Funds Are Going](https://finance.yahoo.com/markets/crypto/articles/ethereum-foundation-convert-5-000-082218256.html)**
+
+The Ethereum Foundation will convert 5,000 ETH (~$10–11 million) to stablecoins via CoWSwap TWAP to fund operations. The sale aligns with its 2025 treasury policy, ...
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -196,22 +188,6 @@ Bit Digital • 1d ago
 
 ---
 
-**[The Case for Ethereum as the Most Useful Cryptocurrency in Existence](https://www.fool.com/investing/2026/04/08/the-case-for-ethereum-as-the-most-useful-cryptocur/)**
-
-Ethereum's utility makes it an attractive investment option during the current market turndown.
-
-The Motley Fool • 19h ago
-
----
-
-**[Here’s why Ethereum and Bitcoin may be decoupling from each other](https://ambcrypto.com/heres-why-ethereum-and-bitcoin-may-be-decoupling-from-each-other/)**
-
-Ethereum and Bitcoin are going off in interesting directions right now.
-
-AMBCrypto • 2h ago
-
----
-
 **[Ethereum stablecoin supply hits $180B ATH: Is ETH demand mispriced?](https://seekingalpha.com/news/4573026-ethereum-stablecoin-supply-hits-180b-ath-is-eth-demand-mispriced)**
 
 Ethereum’s stablecoin supply hits ~$180B ATH and ETF inflows rise as whale money shifts to ETH.
@@ -220,11 +196,33 @@ Seeking Alpha • 1d ago
 
 ---
 
-**[Coinbase Institutional unveils Ethereum ETP staking infrastructure for institutions](https://cryptobriefing.com/coinbase-institutional-unveils-ethereum-etp-staking-infrastructure-for/)**
+**['Drop To $1,500'—Ethereum Suddenly Faces 60% Odds Of Losing Crown](https://www.forbes.com/sites/digital-assets/2026/04/06/drop-to-1500-ethereum-suddenly-faces-60-odds-of-losing-crown/)**
 
-Coinbase Institutional announced new infrastructure for Ethereum ETP staking using EIP-7251 and off-chain vault transfers, aimed at streamlining institutional c
+Forbes • 2d ago
 
-Crypto Briefing • 8h ago
+---
+
+**[Here’s why Ethereum and Bitcoin may be decoupling from each other](https://ambcrypto.com/heres-why-ethereum-and-bitcoin-may-be-decoupling-from-each-other/)**
+
+Ethereum and Bitcoin are going off in interesting directions right now.
+
+AMBCrypto • 3h ago
+
+---
+
+**[Current price of Ethereum for April 8, 2026](https://fortune.com/article/price-of-ethereum-04-08-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 20h ago
+
+---
+
+**[Why is Ethereum surging? ETH jumps 6% as whales accumulate](https://www.tradingview.com/news/invezz:aeeba7771094b:0-why-is-ethereum-surging-eth-jumps-6-as-whales-accumulate/)**
+
+The cryptocurrency market has switched bullish, with Bitcoin and Ether recording excellent gains in the last 24 hours.Ether, the second-largest cryptocurrency by market cap, is up by more than 6% in the last 24 hours and is now trading above $2,250 per coin. The rally comes after a ceasefire agreem…
+
+TradingView • 1d ago
 
 ---
 
@@ -238,7 +236,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 7K • 👍 285 • 💬 20 • ⏱️ 20:08 • 16h ago
+👁️ 7K • 👍 285 • 💬 20 • ⏱️ 20:08 • 17h ago
 
 ---
 
@@ -248,7 +246,7 @@ In this video, I take a closer look at the current Ethereum market structure and
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 137 • 💬 7 • ⏱️ 10:28 • 7h ago
+👁️ 1K • 👍 137 • 💬 7 • ⏱️ 10:28 • 9h ago
 
 ---
 
@@ -258,7 +256,7 @@ Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zu
 
 📺 Krypto Trading & Investing
 
-👁️ 2K • 👍 557 • 💬 44 • ⏱️ 10:41 • 3h ago
+👁️ 2K • 👍 557 • 💬 44 • ⏱️ 10:41 • 5h ago
 
 ---
 
@@ -298,7 +296,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 661 • 👍 80 • ⏱️ 5:31 • 5h ago
+👁️ 661 • 👍 80 • ⏱️ 5:31 • 6h ago
 
 ---
 
@@ -308,7 +306,7 @@ Brian from Santiment joined me to review the crypto market metrics for Bitcoin, 
 
 📺 Thinking Crypto
 
-👁️ 2K • 👍 158 • 💬 255 • ⏱️ 26:32 • 19h ago
+👁️ 2K • 👍 158 • 💬 255 • ⏱️ 26:32 • 21h ago
 
 ---
 
