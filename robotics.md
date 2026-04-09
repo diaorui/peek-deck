@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-09T12:00:06.598381+00:00'
+updated: '2026-04-09T14:06:17.607970+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 09, 2026 at 12:00 UTC  
+**Last Updated:** April 09, 2026 at 14:06 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,7 @@ Robotics research and industry news
 
 From Deepak Pathak on 𝕏 (full video): https://x.com/pathak2206/status/2041939631860482211
 
-32m ago
-
----
-
-**[Aigen’s autonomous solar robots identify and remove weeds without herbicides](https://www.reddit.com/r/robotics/comments/1sfylpx/aigens_autonomous_solar_robots_identify_and/)**
-
-19h ago
+2h ago
 
 ---
 
@@ -50,7 +44,35 @@ From Deepak Pathak on 𝕏 (full video): https://x.com/pathak2206/status/2041939
 
 What you're watching: 8 virtual Crazyflie quadrotors that learned to take off, hold formations, recover from failures, and navigate obstacles entirely through trial and error in simulation. No scripted choreography. The swarm figures it out. Full open-source repo if you want to run it yourself: https://github.com/garykuepper/ggSwarm Rendered in NVIDIA Isaac Lab. Trained with reinforcement learning (PPO). Each drone runs the same AI brain and makes its own decisions — no central controller telling them what to do.
 
-6h ago
+8h ago
+
+---
+
+**[Aigen’s autonomous solar robots identify and remove weeds without herbicides](https://www.reddit.com/r/robotics/comments/1sfylpx/aigens_autonomous_solar_robots_identify_and/)**
+
+21h ago
+
+---
+
+**[Sim-to-Real with spiking neurons on a €100 quadruped — on-device learning at 50Hz on Raspberry Pi 4](https://www.reddit.com/r/robotics/comments/1sgou6e/simtoreal_with_spiking_neurons_on_a_100_quadruped/)**
+
+I've been working on biologically grounded locomotion control using spiking neural networks instead of conventional RL. The system runs on a Freenove Robot Dog Kit (FNK0050) with a Raspberry Pi 4. The approach: train an Izhikevich SNN in MuJoCo simulation using a custom MJCF model of the robot, then transfer the brain to real hardware where it continues learning with IMU feedback (MPU6050). A central pattern generator provides innate gait, and a competence gate gradually hands control to the SNN as it proves stable. Key result: brain persistence works — stop the robot, restart it days later, synaptic weights reload and it walks immediately without relearning. A fresh brain needs 2,000 steps (40s) to reach the same level. Honest limitation: spectral analysis shows the SNN learns conservative dampening rather than faster/better gaits. It makes movements smaller and more regular. Biologically plausible (puppies do this) but not yet performance-improving. Total hardware cost: ~€200 (Pi + kit). 232 neurons, 50Hz control loop, no GPU needed. Demo: https://www.youtube.com/watch?v=7iN8tB2xLHI Code: github.com/MarcHesse/mhflocke (Apache 2.0) Paper: doi.org/10.5281/zenodo.19481146 Happy to discuss the architecture, the sim-to-real challenges, or the conservative dampening finding.
+
+1h ago
+
+---
+
+**[[Update] PyOctoMap now works out of the box on Windows, Mac, and Linux (Python 3.14 ready!)](https://www.reddit.com/r/robotics/comments/1sgobi2/update_pyoctomap_now_works_out_of_the_box_on/)**
+
+Hey everyone, I’ve just pushed a big update to PyOctoMap to make it feel truly "native" in Python. The main goal was to kill the "manual dependency wrangling" phase. We now have pre-built wheels for Windows and macOS (Apple Silicon), so it’s finally just a pip install pyoctomap away on any platform. We’re even ready for Python 3.14. Aside from platform support, I’ve added: Multi-Tree Support: Color, Stamped, and Counting trees are all now in the core. AI Demo: The pyocto-map-anything showcase is updated to show how this all ties into AI depth estimation. All types of contributions and support are welcome! If this makes your robotics or 3D perception workflow easier, a star on GitHub ⭐ or a bit of feedback would be awesome. GitHub:https://github.com/Spinkoo/pyoctomap https://preview.redd.it/zeon4s6vs5ug1.png?width=2370&format=png&auto=webp&s=88fde4081612f981454cbe4953e11b11e9273fcf
+
+1h ago
+
+---
+
+**[Now we are one!](https://www.reddit.com/r/robotics/comments/1sg5qwh/now_we_are_one/)**
+
+16h ago
 
 ---
 
@@ -58,13 +80,15 @@ What you're watching: 8 virtual Crazyflie quadrotors that learned to take off, h
 
 this week i have finally started working on my myoelectric prosthetic arm. only three fingers to ease the tests and reduce cost of motors and electrods. hope you enjoy the chrome!
 
-9h ago
+11h ago
 
 ---
 
-**[Now we are one!](https://www.reddit.com/r/robotics/comments/1sg5qwh/now_we_are_one/)**
+**[Splitting my robot across two controllers felt like an upgrade… until it didn’t](https://www.reddit.com/r/robotics/comments/1sgkvty/splitting_my_robot_across_two_controllers_felt/)**
 
-14h ago
+Splitting my robot across two controllers felt like a good idea at the time, but ended up being way more annoying than I expected. I moved sensor handling onto a second controller to “clean things up” since the main one was getting crowded, and on paper it made sense — motor control on one side, sensors and higher-level stuff on the other. In practice I just kept running into small timing issues, messages showing up a bit later than I thought, and those really frustrating cases where it works fine most of the time but then randomly jitters or drifts. Nothing I added was that complex by itself, but having that boundary made everything harder to reason about, and debugging got a lot worse since I couldn’t see everything in one place anymore. I did get it working eventually, but it definitely slowed me down compared to when everything was on one controller, even if that setup was kind of messy.
+
+4h ago
 
 ---
 
@@ -84,43 +108,21 @@ I built an end-to-end LiDAR perception pipeline on 128-beam infrastructure data 
 
 ---
 
-**[Splitting my robot across two controllers felt like an upgrade… until it didn’t](https://www.reddit.com/r/robotics/comments/1sgkvty/splitting_my_robot_across_two_controllers_felt/)**
-
-Splitting my robot across two controllers felt like a good idea at the time, but ended up being way more annoying than I expected. I moved sensor handling onto a second controller to “clean things up” since the main one was getting crowded, and on paper it made sense — motor control on one side, sensors and higher-level stuff on the other. In practice I just kept running into small timing issues, messages showing up a bit later than I thought, and those really frustrating cases where it works fine most of the time but then randomly jitters or drifts. Nothing I added was that complex by itself, but having that boundary made everything harder to reason about, and debugging got a lot worse since I couldn’t see everything in one place anymore. I did get it working eventually, but it definitely slowed me down compared to when everything was on one controller, even if that setup was kind of messy.
-
-2h ago
-
----
-
-**[Determine the right Motorsize](https://www.reddit.com/r/robotics/comments/1sgkp2h/determine_the_right_motorsize/)**
-
-Hello everyone! I am trying to figure out the right motor for my project. The Motor has to power the leadscrew connected to the sled. The whole System is vertical and meant to work underwater (depth up to 20m). The whole System is around 700m long and the load on the sled is less than 1kg. https://preview.redd.it/m4s31k3tt4ug1.png?width=1030&format=png&auto=webp&s=6be6cd0cefd86c2e813184b6b433c357a3aa8ddb The goal is to program the motor, so the sled can hold a position for up to 10 minutes (5cm, 10cm, 15cm ...), the used Leadsrcew is self-locking. I was thinking about using a Stepper motor with 0.3 NM torque. Can anyone help me find the right motorsize?
-
-2h ago
-
----
-
-**[Need inputs from people who are designing advanced robotics actuators(Harmonic drives & QDD, joint motors) - Will pay $50 for a call](https://www.reddit.com/r/robotics/comments/1sgf7sl/need_inputs_from_people_who_are_designing/)**
-
-7h ago
-
----
-
 ---
 
 ## Google News: "robotics"
+
+**[National robotics push caught in delayed Trump-Xi meeting](https://www.politico.com/news/2026/04/09/national-robotics-trump-xi-china-00861918)**
+
+Politico • 5h ago
+
+---
 
 **[Robot Density Surges in Europe, Asia, and Americas](https://ifr.org/ifr-press-releases/news/robot-density-surges-in-europe-asia-and-americas)**
 
 Economies worldwide are prioritising the integration of factory robots, as automation becomes a critical tool for boosting productivity. In the global automation race, the Western European countries reached a record 267 robots per 10,000 employees in the manufacturing industry 2024 – ahead of North America with 204 units and Asia with 131 units. This is according to the World Robotics 2025 report, presented by the International Federation of Robotics (IFR).
 
 International Federation of Robotics • 1d ago
-
----
-
-**[National robotics push caught in delayed Trump-Xi meeting](https://www.politico.com/news/2026/04/09/national-robotics-trump-xi-china-00861918)**
-
-Politico • 3h ago
 
 ---
 
@@ -132,17 +134,25 @@ Scientific American • 1d ago
 
 ---
 
-**[Former UNH hockey star using robotics for shoulder replacements](https://www.wmur.com/article/former-unh-hockey-robotics-shoulder-4726/70956955)**
+**[Unitree to debut cheapest humanoid robot globally via Alibaba: sources](https://www.scmp.com/tech/article/3349489/chinas-unitree-debut-cheapest-humanoid-robot-globally-alibaba-site-sources)**
 
-Hockey fans might remember former University of New Hampshire player Thomas Fortney, who tied a 2009 NCAA tournament game against North Dakota with a tenth of a second remaining in regulation.
-
-WMUR • 1d ago
+South China Morning Post • 6h ago
 
 ---
 
-**[Is a leading US AI-robot scholar about to join China’s tech talent pool?](https://www.scmp.com/news/china/science/article/3349408/one-americas-top-ai-robot-scholars-about-join-chinas-tech-talent-pool)**
+**[Xiaomi: Smartphone Cost Pressures Persist, But Robotics And Agentic AI Could Drive Long-Term Upside](https://seekingalpha.com/article/4889360-xiaomi-smartphone-cost-pressures-persist-but-robotics-and-agentic-ai-could-drive-long-term-upside)**
 
-South China Morning Post • 7h ago
+Xiaomi transitioning from smartphones to EV, physical robotics, and other AI initiatives can impact near-term revenue. Learn why XIACY stock is a strong buy.
+
+Seeking Alpha • 16h ago
+
+---
+
+**[China to Deploy 100,000 Humanoid Robots—Will the West Ever Catch Up?](https://www.futura-sciences.com/en/china-to-deploy-100000-humanoid-robots-will-the-west-ever-catch-up_29061/)**
+
+A technological ecosystem like no other Thanks to an exceptionally dense and innovative technological ecosystem, Beijing is about to deploy an impressive number of new humanoid robots in its factories. And let’s not forget: the country already held a dominant position in automation! For nearly a decade now, robotics has...
+
+Futura, le média qui explore le monde • 23h ago
 
 ---
 
@@ -150,21 +160,7 @@ South China Morning Post • 7h ago
 
 Funding data and leasing activity show that companies using the groundbreaking tech on the physical world are having their moment.
 
-The San Francisco Standard • 2d ago
-
----
-
-**[Wakefield senior mentors two Arlington robotics teams to world championship](https://www.arlnow.com/2026/04/07/wakefield-senior-mentors-two-arlington-robotics-teams-to-world-championship/)**
-
-A Wakefield High School senior is heading to the VEX Robotics World Championship for the second year in a row — and this time, he's bringing an elementary school team with him. Greyson Schroeher has spent the school year mentoring two Arlington robotics teams that both qualified for the World Championship in St. Louis later
-
-ARLnow • 1d ago
-
----
-
-**[Cerebras Backer Eclipse Raises $1.3 Billion for Robotics, AI Infrastructure](https://www.bloomberg.com/news/articles/2026-04-07/cerebras-backer-eclipse-raises-1-3-billion-for-robotics-ai-infrastructure)**
-
-Bloomberg.com • 2d ago
+The San Francisco Standard • 3d ago
 
 ---
 
@@ -176,27 +172,25 @@ Ars Technica • 2d ago
 
 ---
 
-**[Kraken Robotics Demonstrates KATFISH Autonomous Launch and Recovery from SEFINE USV](https://www.krakenrobotics.com/news-releases/kraken-robotics-demonstrates-katfish-autonomous-launch-and-recovery-from-sefine-usv/)**
+**[Former UNH hockey star using robotics for shoulder replacements](https://www.wmur.com/article/former-unh-hockey-robotics-shoulder-4726/70956955)**
 
-Kraken Robotics Demonstrates KATFISH Autonomous Launch and Recovery from SEFINE USV
+Hockey fans might remember former University of New Hampshire player Thomas Fortney, who tied a 2009 NCAA tournament game against North Dakota with a tenth of a second remaining in regulation.
 
-Kraken Robotics • 2d ago
+WMUR • 1d ago
+
+---
+
+**[AI-powered robotic guide dog uses voice to guide visually impaired users in real time](https://interestingengineering.com/ai-robotics/talking-robotic-guide-dog-ai-navigation)**
+
+AI-powered robotic guide dog uses voice to navigate and assist visually impaired users in real time.
+
+Interesting Engineering • 14h ago
 
 ---
 
 ---
 
 ## YouTube Videos: "robotics"
-
-**[2026 Ultimate Robot Vacuum and Mop Comparison || Roborock, Eufy, Dreame, Narwal, Ecovacs, MOVA](https://www.youtube.com/watch?v=Pv9_2D_Xc5k)**
-
-I tested every flagship robotic vacuum and mop from Roborock, Eufy, Dreame, Narwal, Ecovacs, and MOVA available in 2025 to ...
-
-📺 The Hook Up
-
-👁️ 8K • 👍 413 • 💬 85 • ⏱️ 26:12 • 18h ago
-
----
 
 **[New GEN 1 AI Robot Hits 3X Faster At 1,800+ Reps (AI NEWS)](https://www.youtube.com/watch?v=IgwL5-IH6gU)**
 
@@ -208,23 +202,23 @@ AIR CONDITIONED SHIRTS??: https://octocool.com Generalist AI's GEN-1 embodied fo
 
 ---
 
+**[2026 Ultimate Robot Vacuum and Mop Comparison || Roborock, Eufy, Dreame, Narwal, Ecovacs, MOVA](https://www.youtube.com/watch?v=Pv9_2D_Xc5k)**
+
+I tested every flagship robotic vacuum and mop from Roborock, Eufy, Dreame, Narwal, Ecovacs, and MOVA available in 2025 to ...
+
+📺 The Hook Up
+
+👁️ 9K • 👍 437 • 💬 98 • ⏱️ 26:12 • 20h ago
+
+---
+
 **[These NEW Human-Like AI Robots of 2026 Just SHOCKED the World!](https://www.youtube.com/watch?v=FOfieag6fi4)**
 
 The world wasn't ready for what 2026 had in store — a wave of humanoid robots so advanced, so eerily lifelike, that the line ...
 
 📺 The AI Nexus
 
-👁️ 8K • 👍 258 • 💬 18 • ⏱️ 16:42 • 3d ago
-
----
-
-**[Streamline Your Packaging with Automated Counting 📦🚀#SupplyChain #Hardware #PackagingSolutions](https://www.youtube.com/watch?v=vWaiYDPeuvA)**
-
-Watch these tiny parts dance their way to a perfect count. There is something so satisfying about the way they align on the ...
-
-📺 MachineWorks Studio
-
-👁️ 577K • 👍 292 • 💬 6 • ⏱️ 0:06 • 19h ago
+👁️ 8K • 👍 259 • 💬 18 • ⏱️ 16:42 • 3d ago
 
 ---
 
@@ -232,7 +226,7 @@ Watch these tiny parts dance their way to a perfect count. There is something so
 
 📺 Robot Julie 
 
-👁️ 2K • 👍 24 • ⏱️ 0:22 • 9h ago
+👁️ 3K • 👍 46 • ⏱️ 0:22 • 11h ago
 
 ---
 
@@ -252,7 +246,7 @@ Welch Labs Book: https://www.welchlabs.com/resources/ai-book-ezrzm-msrmc Book & 
 
 📺 Welch Labs
 
-👁️ 96K • 👍 5K • 💬 234 • ⏱️ 35:02 • 4d ago
+👁️ 97K • 👍 5K • 💬 234 • ⏱️ 35:02 • 4d ago
 
 ---
 
@@ -262,7 +256,17 @@ Joe Rogan Watches Soldier Test INSANE Robotic Legs #Shorts This is the future of
 
 📺 Silent Sentry
 
-👁️ 2.2M • 👍 28K • 💬 612 • ⏱️ 0:17 • 5d ago
+👁️ 2.2M • 👍 28K • 💬 617 • ⏱️ 0:17 • 5d ago
+
+---
+
+**[Engineering the Experience – How Do Robots Work on a Cruise Ship?](https://www.youtube.com/watch?v=AezeHLJedYc)**
+
+How do robots work on a cruise ship? In this episode of Engineering the Experience, Royal Caribbean explores the robotics and ...
+
+📺 Royal Caribbean
+
+👁️ 8K • 👍 207 • 💬 17 • ⏱️ 4:51 • 6d ago
 
 ---
 
@@ -270,17 +274,17 @@ Joe Rogan Watches Soldier Test INSANE Robotic Legs #Shorts This is the future of
 
 📺 Robot Julie 
 
-👁️ 27K • 👍 119 • 💬 1 • ⏱️ 0:23 • 2d ago
+👁️ 27K • 👍 126 • 💬 1 • ⏱️ 0:23 • 2d ago
 
 ---
 
-**[2026 Robotic Mowers - What Have I Done?](https://www.youtube.com/watch?v=eu138v9qC9w)**
+**[I Spent 100 Hours In China&#39;s Robot City](https://www.youtube.com/watch?v=PXGK_MFShXU)**
 
-Are you tired of cutting your grass? Do robotic mowers really work? This video is a homeowner review of the top robotic mowers in ...
+I spent 100 hours in the world's most futuristic city! WATCH MORE videos we filmed in China ▸ https://youtu.be/elF_v9sukWU ...
 
-📺 Nater Tater
+📺 Hafu Go
 
-👁️ 12K • 👍 184 • 💬 66 • ⏱️ 15:30 • 2d ago
+👁️ 779K • 👍 7K • 💬 277 • ⏱️ 25:46 • 5d ago
 
 ---
 

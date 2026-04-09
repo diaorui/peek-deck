@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-09T12:00:06.594988+00:00'
+updated: '2026-04-09T14:06:17.604733+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
 - videos
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 09, 2026 at 12:00 UTC  
+**Last Updated:** April 09, 2026 at 14:06 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,37 +36,45 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,180.30
+### $2,166.07
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.2%  
-**7d:** +6.3%  
-**30d:** +6.4%  
-**90d:** -29.3%  
-**1y:** +43.4%  
+**24h:** -2.2%  
+**7d:** +5.5%  
+**30d:** +5.6%  
+**90d:** -29.8%  
+**1y:** +42.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $264.67B
+**Market Cap:** $261.14B
 Rank #2
 
 **Circulating Supply:** 120,691,116 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--55.7%
+-56.2%
 
 **All-Time Low:** $0.43
-+506291.8%
++500072.1%
 
 ---
 
 ## Reddit: r/ethereum
+
+**[Tom Lee isn’t just bullish on ETH — he’s literally buying billions](https://www.reddit.com/r/ethereum/comments/1sgn98q/tom_lee_isnt_just_bullish_on_eth_hes_literally/)**
+
+Tom Lee went on CNBC saying the market bottom is probably already in, and that crypto (especially ETH) could lead the next move up. But the interesting part is he’s not just talking — the company he chairs (BitMine) keeps stacking ETH hard. They’re sitting on ~4.8M ETH (close to 4% of supply), with a huge chunk staked. That’s not trading, that’s positioning. Feels like one of the first times we’re seeing a macro thesis + actual balance sheet move fully aligned around Ethereum. Source: https://btcusa.com/tom-lee-says-the-market-bottom-is-in-as-bitmine-doubles-down-on-ethereum/
+
+2h ago
+
+---
 
 **[Trump’s Crypto Project Just Borrowed $50 Million Against Its Own Token and Broke the Lending Pool](https://www.reddit.com/r/ethereum/comments/1sfoaqt/trumps_crypto_project_just_borrowed_50_million/)**
 
@@ -76,11 +84,11 @@ World Liberty Financial deposited 3B WLFI tokens as collateral to borrow $50M of
 
 ---
 
-**[Tom Lee isn’t just bullish on ETH — he’s literally buying billions](https://www.reddit.com/r/ethereum/comments/1sgn98q/tom_lee_isnt_just_bullish_on_eth_hes_literally/)**
+**[Daily General Discussion April 08, 2026](https://www.reddit.com/r/ethereum/comments/1sfjgae/daily_general_discussion_april_08_2026/)**
 
-Tom Lee went on CNBC saying the market bottom is probably already in, and that crypto (especially ETH) could lead the next move up. But the interesting part is he’s not just talking — the company he chairs (BitMine) keeps stacking ETH hard. They’re sitting on ~4.8M ETH (close to 4% of supply), with a huge chunk staked. That’s not trading, that’s positioning. Feels like one of the first times we’re seeing a macro thesis + actual balance sheet move fully aligned around Ethereum. Source: https://btcusa.com/tom-lee-says-the-market-bottom-is-in-as-bitmine-doubles-down-on-ethereum/
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15m ago
+1d ago
 
 ---
 
@@ -88,15 +96,7 @@ Tom Lee went on CNBC saying the market bottom is probably already in, and that c
 
 The Ethereum Layer 2 powering Predictstreet. Built by Abu Dhabi's IHC, hosting a UAE central-bank-licensed stablecoin, with BlackRock and Mastercard as collaborators.
 
-🔗 [Company Gibraltar | company.gi](https://company.gi/blog/adi-chain-explained) • 2h ago
-
----
-
-**[Daily General Discussion April 08, 2026](https://www.reddit.com/r/ethereum/comments/1sfjgae/daily_general_discussion_april_08_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-1d ago
+🔗 [Company Gibraltar | company.gi](https://company.gi/blog/adi-chain-explained) • 4h ago
 
 ---
 
@@ -152,6 +152,14 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
+**[Current price of Ethereum for April 9, 2026](https://fortune.com/article/price-of-ethereum-04-09-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 1h ago
+
+---
+
 **[Bitcoin and ethereum price today, Wednesday, April 8, 2026: Prices rise after U.S.-Iran ceasefire announcement](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-wednesday-april-8-2026-prices-rise-after-us-iran-ceasefire-announcement-113837833.html)**
 
 Bitcoin (BTC-USD) opened higher at $71,926.16 and ethereum (ETH-USD) opened higher at $2,239.89 following President Trump’s announcement of a temporary ceasefire agreement with Iran.
@@ -160,41 +168,31 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin vs. Ethereum: Which Crypto Is the Better Buy in 2026?](https://www.fool.com/investing/2026/04/09/bitcoin-vs-ethereum-crypto-better-buy-2026/)**
+**[Bitcoin and ethereum price today, Thursday, April 9, 2026: Crypto rally slows as ceasefire wavers](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-thursday-april-9-2026-crypto-rally-slows-as-ceasefire-wavers-112457545.html)**
 
-Both of these leading digital assets have lost roughly half of their value since hitting their peaks in the back half of 2025.
+Bitcoin and ethereum opened at $71,093.76 and $2,189.73, respectively, amid reports of continued fighting and disagreement over Iran’s control of the Strait of Hormuz. Both cryptos rose in early trading.
 
-The Motley Fool • 2h ago
-
----
-
-**[Bitcoin vs. Ethereum: Which crypto is the better buy in 2026?](https://www.msn.com/en-us/money/topstocks/bitcoin-vs-ethereum-which-crypto-is-the-better-buy-in-2026/ar-AA20utCn?ocid=finance-verthp-feeds)**
-
-MSN • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Ethereum Foundation To Convert 5,000 ETH—Here’s Where the Funds Are Going](https://finance.yahoo.com/markets/crypto/articles/ethereum-foundation-convert-5-000-082218256.html)**
+**[Most large cryptocurrencies fall as Ethereum tumbles](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-as-ethereum-tumbles-91a2f421-9307bc266dcb)**
 
-The Ethereum Foundation will convert 5,000 ETH (~$10–11 million) to stablecoins via CoWSwap TWAP to fund operations. The sale aligns with its 2025 treasury policy, ...
-
-Yahoo Finance • 3h ago
+MarketWatch • 6m ago
 
 ---
 
-**[Ethereum Price Action Just Flipped Bullish: Why $2400 Is Now In Play?](https://www.tradingview.com/news/coinpedia:4de234395094b:0-ethereum-price-action-just-flipped-bullish-why-2400-is-now-in-play/)**
+**[Ethereum Foundation swaps 5,000 ETH into stablecoins for operational and grant funding](https://www.theblock.co/post/396728/ethereum-foundation-swaps-5000-eth-stablecoins-operational-grant-funding)**
 
-Ethereum has decisively reclaimed the $2,200 level, marking a clear shift in structure, and that’s exactly why $2,400 is now back in play. The recent move is not just a relief bounce. It comes after a complete leverage reset near $1,800, followed by steady accumulation and now a push into higher le…
+So far, the CoWSwap TWAP transactions have been drawn from a wallet associated with the Ethereum Foundation's DeFi activities.
 
-TradingView • 3h ago
+The Block • 22h ago
 
 ---
 
-**[ETH Up or Down - 5 Minutes](https://polymarket.com/event/eth-updown-5m-1775728500)**
+**['Drop To $1,500'—Ethereum Suddenly Faces 60% Odds Of Losing Crown](https://www.forbes.com/sites/digital-assets/2026/04/06/drop-to-1500-ethereum-suddenly-faces-60-odds-of-losing-crown/)**
 
-Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
-
-Polymarket • 2d ago
+Forbes • 2d ago
 
 ---
 
@@ -206,25 +204,27 @@ Bit Digital • 1d ago
 
 ---
 
-**[Ethereum stablecoin supply hits $180B ATH: Is ETH demand mispriced?](https://seekingalpha.com/news/4573026-ethereum-stablecoin-supply-hits-180b-ath-is-eth-demand-mispriced)**
+**[ETH Up or Down - 5 Minutes](https://polymarket.com/event/eth-updown-5m-1775735700)**
 
-Ethereum’s stablecoin supply hits ~$180B ATH and ETF inflows rise as whale money shifts to ETH.
+Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Seeking Alpha • 1d ago
-
----
-
-**['Drop To $1,500'—Ethereum Suddenly Faces 60% Odds Of Losing Crown](https://www.forbes.com/sites/digital-assets/2026/04/06/drop-to-1500-ethereum-suddenly-faces-60-odds-of-losing-crown/)**
-
-Forbes • 2d ago
+Polymarket • 2d ago
 
 ---
 
-**[Ethereum Foundation swaps 5,000 ETH into stablecoins for operational and grant funding](https://www.theblock.co/post/396728/ethereum-foundation-swaps-5000-eth-stablecoins-operational-grant-funding)**
+**[Ethereum Reclaims $2,200, But Analyst Says It’s Not Time To Celebrate Yet – Here’s Why](https://www.tradingview.com/news/newsbtc:0dfb95fa3094b:0-ethereum-reclaims-2-200-but-analyst-says-it-s-not-time-to-celebrate-yet-here-s-why/)**
 
-So far, the CoWSwap TWAP transactions have been drawn from a wallet associated with the Ethereum Foundation's DeFi activities.
+While Ethereum (ETH) retests a key level for the first time this month, some market watchers have advised caution, warning that the start of a new bull run may not be here yet.No Ethereum Party Until This happensAfter jumping nearly 10%, Ethereum is attempting to reclaim a crucial area that has ser…
 
-The Block • 20h ago
+TradingView • 7h ago
+
+---
+
+**[Here’s why Ethereum and Bitcoin may be decoupling from each other](https://ambcrypto.com/heres-why-ethereum-and-bitcoin-may-be-decoupling-from-each-other/)**
+
+Ethereum and Bitcoin are going off in interesting directions right now.
+
+AMBCrypto • 8h ago
 
 ---
 
@@ -238,7 +238,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 8K • 👍 298 • 💬 20 • ⏱️ 20:08 • 19h ago
+👁️ 9K • 👍 321 • 💬 48 • ⏱️ 20:08 • 21h ago
 
 ---
 
@@ -248,7 +248,17 @@ In this video, I take a closer look at the current Ethereum market structure and
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 150 • 💬 10 • ⏱️ 10:28 • 11h ago
+👁️ 2K • 👍 156 • 💬 13 • ⏱️ 10:28 • 13h ago
+
+---
+
+**[CRUCIAL MOMENT FOR ETHEREUM!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=Mk0xcUlMNdA)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 90 • 👍 7 • ⏱️ 5:44 • 4h ago
 
 ---
 
@@ -258,17 +268,7 @@ Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zu
 
 📺 Krypto Trading & Investing
 
-👁️ 3K • 👍 606 • 💬 50 • ⏱️ 10:41 • 7h ago
-
----
-
-**[🚨 BTC &amp; ETH: 24 HOURS!!!! ACT ACT ACT!!!!!!](https://www.youtube.com/watch?v=ewMAck4UjHk)**
-
-This is huge for crypto, bitcoin, ethereum and the rest of the markets!!!!! ---------- EXCHANGE BONUSES Trade Non KYC ...
-
-📺 Thomas Kralow
-
-👁️ 23K • 👍 3K • 💬 41 • ⏱️ 9:21 • 3d ago
+👁️ 3K • 👍 634 • 💬 51 • ⏱️ 10:41 • 9h ago
 
 ---
 
@@ -279,16 +279,6 @@ Can you actually get free Ethereum in 2026, or is it all just hype? I decided to
 📺 Hitch Insights
 
 👁️ 3K • 👍 624 • 💬 524 • ⏱️ 6:14 • 2d ago
-
----
-
-**[LIVE: Trump Makes Important Announcement About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=J675nG2cvq0)**
-
-TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2026 — streaming LIVE from ...
-
-📺 ALI CALDWELLMusic
-
-👁️ 2K • 👍 1K • 1h ago
 
 ---
 
@@ -308,27 +298,35 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 989 • 👍 89 • ⏱️ 5:31 • 8h ago
+👁️ 1K • 👍 94 • ⏱️ 5:31 • 10h ago
 
 ---
 
-**[Ethereum: One More Bounce… Then Down?](https://www.youtube.com/watch?v=oDwTs_pXQx8)**
+**[BLUE ETHEREUM ENERGY FLOOR #epoxyfloor #ethereum](https://www.youtube.com/watch?v=uvFyAVwACh0)**
 
-In this video, I take a closer look at the current Ethereum market structure and explain why the recent move higher does not ...
+📺 H&H Interiors BD
 
-📺 More Crypto Online
-
-👁️ 3K • 👍 194 • 💬 12 • ⏱️ 11:32 • 1d ago
+👁️ 892 • 👍 4 • ⏱️ 0:25 • 3h ago
 
 ---
 
-**[BITCOIN SQUEEZE: This Changes Everything (Urgent)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=_2ErQSljisg)**
+**[BITCOIN WINNING TRADES: BTC AND ETH PROFITS WITH GOOGLE LEADING TECH](https://www.youtube.com/watch?v=nSeBerfpJIE)**
 
-BITCOIN SQUEEZE: This Changes Everything (Urgent)!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
+Daily BTC, ETH, TSLA trades. Subscribe. Bybit bonus up to $30000 https://partner.bybit.com/b/Buyalts Weex, $200 sign-up, ...
 
-📺 Crypto World
+📺 James Crypto Guru
 
-👁️ 7K • 👍 287 • 💬 315 • ⏱️ 23:11 • 1d ago
+👁️ 1K • 👍 73 • 💬 8 • ⏱️ 12:16 • 11h ago
+
+---
+
+**[CRYPTO LIVE TRADING || 9 APRIL  | ‪@ClockTraderlive‬ #bitcoin #ethereum #crypto #btclivetrading](https://www.youtube.com/watch?v=itw9cqqzDM4)**
+
+join my social platforms for updates and analysis ✓Instagram: ...
+
+📺 Aryan trader Live
+
+👁️ 8K • 👍 3K • ⏱️ 1:43:07 • 3h ago
 
 ---
 
