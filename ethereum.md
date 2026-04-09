@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-09T11:00:04.285537+00:00'
+updated: '2026-04-09T12:00:06.594988+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
+- social
 - videos
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 09, 2026 at 11:00 UTC  
+**Last Updated:** April 09, 2026 at 12:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,194.33
+### $2,180.30
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.5%  
-**7d:** +6.8%  
-**30d:** +6.9%  
-**90d:** -29.0%  
-**1y:** +44.0%  
+**24h:** -3.2%  
+**7d:** +6.3%  
+**30d:** +6.4%  
+**90d:** -29.3%  
+**1y:** +43.4%  
 
 ---
 
@@ -76,11 +76,19 @@ World Liberty Financial deposited 3B WLFI tokens as collateral to borrow $50M of
 
 ---
 
+**[Tom Lee isn’t just bullish on ETH — he’s literally buying billions](https://www.reddit.com/r/ethereum/comments/1sgn98q/tom_lee_isnt_just_bullish_on_eth_hes_literally/)**
+
+Tom Lee went on CNBC saying the market bottom is probably already in, and that crypto (especially ETH) could lead the next move up. But the interesting part is he’s not just talking — the company he chairs (BitMine) keeps stacking ETH hard. They’re sitting on ~4.8M ETH (close to 4% of supply), with a huge chunk staked. That’s not trading, that’s positioning. Feels like one of the first times we’re seeing a macro thesis + actual balance sheet move fully aligned around Ethereum. Source: https://btcusa.com/tom-lee-says-the-market-bottom-is-in-as-bitmine-doubles-down-on-ethereum/
+
+15m ago
+
+---
+
 **[What Is ADI Chain? The Blockchain Behind Predictstreet](https://www.reddit.com/r/ethereum/comments/1sgkyvr/what_is_adi_chain_the_blockchain_behind/)**
 
 The Ethereum Layer 2 powering Predictstreet. Built by Abu Dhabi's IHC, hosting a UAE central-bank-licensed stablecoin, with BlackRock and Mastercard as collaborators.
 
-🔗 [Company Gibraltar | company.gi](https://company.gi/blog/adi-chain-explained) • 1h ago
+🔗 [Company Gibraltar | company.gi](https://company.gi/blog/adi-chain-explained) • 2h ago
 
 ---
 
@@ -140,12 +148,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[ZK-powered order book DEXs are quietly becoming the most interesting sector in DeFi. Is anyone else paying attention?](https://www.reddit.com/r/ethereum/comments/1sdxks3/zkpowered_order_book_dexs_are_quietly_becoming/)**
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -154,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Bitcoin (BTC-USD) opened higher at $71,926.16 and ethereum (ETH-USD) opened higher at $2,239.89 following President Trump’s announcement of a temporary ceasefire agreement with Iran.
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -162,13 +164,13 @@ Yahoo Finance • 23h ago
 
 Both of these leading digital assets have lost roughly half of their value since hitting their peaks in the back half of 2025.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
 **[Bitcoin vs. Ethereum: Which crypto is the better buy in 2026?](https://www.msn.com/en-us/money/topstocks/bitcoin-vs-ethereum-which-crypto-is-the-better-buy-in-2026/ar-AA20utCn?ocid=finance-verthp-feeds)**
 
-MSN • 16m ago
+MSN • 1h ago
 
 ---
 
@@ -176,7 +178,7 @@ MSN • 16m ago
 
 The Ethereum Foundation will convert 5,000 ETH (~$10–11 million) to stablecoins via CoWSwap TWAP to fund operations. The sale aligns with its 2025 treasury policy, ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -184,7 +186,7 @@ Yahoo Finance • 2h ago
 
 Ethereum has decisively reclaimed the $2,200 level, marking a clear shift in structure, and that’s exactly why $2,400 is now back in play. The recent move is not just a relief bounce. It comes after a complete leverage reset near $1,800, followed by steady accumulation and now a push into higher le…
 
-TradingView • 2h ago
+TradingView • 3h ago
 
 ---
 
@@ -222,7 +224,7 @@ Forbes • 2d ago
 
 So far, the CoWSwap TWAP transactions have been drawn from a wallet associated with the Ethereum Foundation's DeFi activities.
 
-The Block • 19h ago
+The Block • 20h ago
 
 ---
 
@@ -236,7 +238,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 8K • 👍 298 • 💬 20 • ⏱️ 20:08 • 18h ago
+👁️ 8K • 👍 298 • 💬 20 • ⏱️ 20:08 • 19h ago
 
 ---
 
@@ -246,7 +248,7 @@ In this video, I take a closer look at the current Ethereum market structure and
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 150 • 💬 10 • ⏱️ 10:28 • 10h ago
+👁️ 2K • 👍 150 • 💬 10 • ⏱️ 10:28 • 11h ago
 
 ---
 
@@ -256,7 +258,7 @@ Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zu
 
 📺 Krypto Trading & Investing
 
-👁️ 3K • 👍 606 • 💬 50 • ⏱️ 10:41 • 6h ago
+👁️ 3K • 👍 606 • 💬 50 • ⏱️ 10:41 • 7h ago
 
 ---
 
@@ -266,7 +268,7 @@ This is huge for crypto, bitcoin, ethereum and the rest of the markets!!!!! ----
 
 📺 Thomas Kralow
 
-👁️ 23K • 👍 3K • 💬 41 • ⏱️ 9:21 • 2d ago
+👁️ 23K • 👍 3K • 💬 41 • ⏱️ 9:21 • 3d ago
 
 ---
 
@@ -286,7 +288,7 @@ TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 ALI CALDWELLMusic
 
-👁️ 2K • 👍 1K • 15m ago
+👁️ 2K • 👍 1K • 1h ago
 
 ---
 
@@ -306,7 +308,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 989 • 👍 89 • ⏱️ 5:31 • 7h ago
+👁️ 989 • 👍 89 • ⏱️ 5:31 • 8h ago
 
 ---
 

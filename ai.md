@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-09T11:00:04.272738+00:00'
+updated: '2026-04-09T12:00:06.580414+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
 - news
+- social
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 09, 2026 at 11:00 UTC  
+**Last Updated:** April 09, 2026 at 12:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 now it just look 💯 real
 
-23h ago
+1d ago
 
 ---
 
@@ -49,7 +49,7 @@ now it just look 💯 real
 
 Remember when Altman literally said in 2024 that ads are a last resort for them? Well. Here we are. What gets me isn’t the $100M itself — it’s that they hit it while the product is basically still in beta. Less than 20% of users see ads daily. No self-serve tools yet. No international rollout yet. 600 advertisers but most needed a $200K minimum just to get in. They haven’t even opened the floodgates and it’s already nine figures. The part I keep thinking about: Google built an empire on search intent — people typing what they want. ChatGPT has something different. People explain their whole situation to it. That’s a completely different level of signal for an advertiser. Whether they can scale this without killing the trust that makes the product work in the first place — that’s the actual story.
 
-11h ago
+12h ago
 
 ---
 
@@ -57,7 +57,7 @@ Remember when Altman literally said in 2024 that ads are a last resort for them?
 
 If the large companies always get access to the latest models first to "shore up cybersecurity" they will always have a head start on the competition and new contenders in the tech space. If Glasswing is locked down to only be allowed for cybersecurity thats a different story but I doubt it is.
 
-16h ago
+17h ago
 
 ---
 
@@ -65,23 +65,7 @@ If the large companies always get access to the latest models first to "shore up
 
 "Ironically, one of the 844 books in this dataset is called 'How to Write for Humans in an AI World: Cutting Through Digital Noise and Reaching Real People'. In it, the author laments the proliferation of AI-written content: 'The words we see online, in our inboxes, even in news articles, often feel like they were written by no one in particular,' he writes. 'They’re grammatically perfect and emotionally empty. They’re fluent, but soulless. The irony is that we’ve never written more than we do today. We’re producing mountains of content: posts, captions, pitches, texts, and endless emails. At the same time, in the midst of all that noise, something essential is fading. It’s the sense that a real person is speaking to another real person.' That book’s contents were flagged as likely AI-generated."
 
-14h ago
-
----
-
-**[I compiled every major AI agent security incident from 2024-2026 in one place - 90 incidents, all sourced, updated weekly](https://www.reddit.com/r/artificial/comments/1sgm6dz/i_compiled_every_major_ai_agent_security_incident/)**
-
-After tracking AI agent security incidents for the past year, I put together a single reference covering every major breach, vulnerability and attack from 2024 through 2026. 90 incidents total, organized by year, with dates, named companies, impact, root cause, CVEs where applicable, and source links for every entry. Covers supply chain attacks (LiteLLM, Trivy, Axios), framework vulnerabilities (LangChain, Langflow, OpenClaw), enterprise incidents (Meta Sev 1, Mercor/Meta suspension), AI coding tool CVEs (Claude Code, Copilot, Cursor), crypto exploits (Drift Protocol $285M, Bybit $1.46B), and more. Also includes 20 sourced industry stats and an attack pattern taxonomy grouping incidents by type. No product pitches. No opinions. Just facts with sources. https://github.com/webpro255/awesome-ai-agent-attacks PRs welcome if I missed anything.
-
-10m ago
-
----
-
-**[When does a chatbot stop becoming a chatbot. Now](https://www.reddit.com/r/artificial/comments/1sgl70p/when_does_a_chatbot_stop_becoming_a_chatbot_now/)**
-
-5 Prompts to turn a empty room into a concept design I filmed myself turning an empty room into a fully furnished living space using nothing but plain English prompts on asksary.com Each edit builds on the last, keeping the context pixel perfect - same room, same perspective, same lighting. Just new additions with every prompt. No Photoshop. No designer. No 3D software. Just type, and watch it happen. 5 prompts. One empty room. This is what AskSary actually does. 🎥 Watch the full transformation
-
-1h ago
+15h ago
 
 ---
 
@@ -89,29 +73,45 @@ After tracking AI agent security incidents for the past year, I put together a s
 
 He said that the third version of the proposal was even more “maximalist” than the first one, adding that he came to know about that document via social media
 
-🔗 [Firstpost](https://www.firstpost.com/world/vance-says-iran-sent-3-different-version-of-10-point-proposal-one-of-them-written-by-chatgpt-13998205.html) • 5h ago
-
----
-
-**[AI in property management is not what you think it is](https://www.reddit.com/r/artificial/comments/1sggt1v/ai_in_property_management_is_not_what_you_think/)**
-
-When it comes to property management - building AI systems and one thing keeps showing up every single time. The problem isn't the lack of fancy tools. Most teams already have those tools. The problem is how disconnected everything is. Leads come in one system, tenant communication happens somewhere else, maintenance requests are tracked separately, and then someone is manually trying to keep all of it in sync. That’s where delays happen. That’s where things fall through the cracks. What we end up doing in most cases is rebuilding how workflows move around. Once you connect things properly, a tenant request can trigger categorization, assignment, updates, and closure without constant human follow up. Same with lead to lease. Same with renewals. It becomes a flow instead of a set of tasks. A lot of people expect AI to be about chat or prediction, but most of the value comes from structured automation. Deciding what should happen next and making sure it ACTUALLY HAPPENS. Cost usually depends on how complex the system is. But once you see how much manual effort gets removed, the investment starts to make sense.
-
-5h ago
-
----
-
-**[Cant wait to use Mythos model - Anthropic refuses to release Claude Mythos publicly — model found thousands of zero-days across every major OS and browser. Launches Project Glasswing with Apple, Microsoft, Google, and others for defensive use.](https://www.reddit.com/r/artificial/comments/1sgjlgv/cant_wait_to_use_mythos_model_anthropic_refuses/)**
-
-Anthropic announced Project Glasswing, a defensive cybersecurity initiative with Apple, Microsoft, Google, AWS, NVIDIA, CrowdStrike, and others. Claude Mythos Preview has found thousands of high-severity zero-day vulnerabilities across major operating systems and web browsers — some had been hiding for years. Key benchmarks: - SWE-bench: 93.9% (vs 80.8% for Opus 4.6) - Firefox exploit development: 181 vs 2 for Opus 4.6 - $100M in usage credits committed - 40+ orgs given access Source: https://venturebeat.com/technology/anthropic-says-its-most-powerful-ai-cyber-model-is-too-dangerous-to-release Is withholding a model the right play, or does "too powerful to share" become a competitive moat?
-
-2h ago
+🔗 [Firstpost](https://www.firstpost.com/world/vance-says-iran-sent-3-different-version-of-10-point-proposal-one-of-them-written-by-chatgpt-13998205.html) • 6h ago
 
 ---
 
 **[Compiler as a service for AI agents.](https://www.reddit.com/r/artificial/comments/1sgjb8n/compiler_as_a_service_for_ai_agents/)**
 
 Hey, I have been experimenting with Roslyn-style compiler tooling on my Unity project, now well past 400k LOC. Honestly it changes the game, it is like giving AI IDE level understanding, not just raw text access like most AI coding workflows still use today. What’s funny is that Microsoft solved a huge part of this 12+ years ago with Roslyn. Only now, with AI, does it feel like people are finally realizing what that unlocks. Goal of this post is to check whot other people think about this approach and how many of you have tried Roslyn like compilers wired to your AI? Have you hear about Roslyn type compilers yet? My guesstimate would be only around 1-5% of people are currently using some combination of it, although the benefit of using it is crazy when you count compounding interest with AI. For example - I used it to check the monolith that was previously marked as too entangled, and the Roslyn type search and code execution showed only 13 real dependancies compared to 100 found by grep alone. Second useful case is code execution. You can basicaly track the value through the chains, check the math time and precision, check if you have variables actually used or just sitting there as a dead code. Did anyone else exerimented with something similar on their projects? Not selling anything, I am really intrigued what others think abot this approach. Happy to hear your thoughts!
+
+3h ago
+
+---
+
+**[Meta commits to spending additional $21 billion with CoreWeave as AI costs keep rising](https://www.reddit.com/r/artificial/comments/1sgn05s/meta_commits_to_spending_additional_21_billion/)**
+
+The new spending will run between 2027 and 2032, as Meta boosts its own AI infrastructure while also counting on CoreWeave, which rents out Nvidia graphics chips. “They’re going to continue to do it themselves, but they’re also going to continue to do it with us,” CoreWeave CEO Mike Intrator said in an interview. “There’s just too much risk not to.”
+
+🔗 [CNBC](https://www.cnbc.com/2026/04/09/meta-commits-to-spending-additional-21-billion-with-coreweave-.html) • 28m ago
+
+---
+
+**[do not the stupid, keep your smarts](https://www.reddit.com/r/artificial/comments/1sgmlx8/do_not_the_stupid_keep_your_smarts/)**
+
+following my reading of a somewhat recent Wharton study on cognitive Surrender, i made a couple models go back and forth on some recursive hardening of a nice Lil rule set. the full version is very much for technical work, whereas the Lightweight implementation is pretty good all around for holding some cognitive sovereignty (ai ass name for it, but it works) usage: i copy paste these into custom instruction fields SOVEREIGNTY PROTOCOL V5.2.6 (FULL GYM) Role: Hostile Peer Reviewer. Maximize System 2 engagement. Prevent fluency illusion. VERIFIABILITY ASSESSMENT (MANDATORY OPENING TABLE) ------------------------------------------------------ Every response involving judgment or technical plans opens with: | Metric | Score | Gap Analysis | | :------------ | :---- | :----------- | | Verifiability | XX% | [Specific missing data that prevents 100% certainty] | - Scoring Rule: Assess the FULL stated goal, not a sub-component. If a fatal architectural flaw exists, max score = 40%. - Basis Requirement: Cite a 2026-current source or technical constraint. - Forbidden: "Great idea," "Correct," "Smart." Use quantitative observations only. STRUCTURAL SCARCITY (THE 3-STEP SKELETON) --------------------------------------------- - Provide exactly three (3) non-code, conceptual steps. - Follow with: "Unresolved Load-Bearing Question: [Single dangerous question]." Do not answer it. SHADOW LOGIC & BREAK CONDITIONS ----------------------------------- - Present two hypotheses (A and B) with equal formatting. - Each hypothesis MUST include a Break Condition: "Fails if [Metric > Threshold]." MAGNITUDE INTERRUPTS & RISK ANCHOR -------------------------------------- - Trigger STOP if: New technology/theory introduced. Scale shift of 10x or more (regardless of phrasing: "order of magnitude," "10x," "from 100 to 1,000"). - ⚓ RISK ANCHOR (Before STOP): "Current Track Risk: [One-phrase summary of the most fragile assumption in the current approach.]" - 🛑 LOGIC GATE: Pose a One-Sentence Falsification Challenge: "State one specific, testable condition under which the current plan would be abandoned." Refuse to proceed until user responds. EARNED CLEARANCE -------------------- - Only provide code or detailed summaries AFTER a Logic Gate is cleared. - End the next turn with: "Junction Passed." or "Sovereignty Check Complete." LIGHTWEIGHT LAYER (V1.0) ---------------------------- - Activate ONLY when user states "Activate Lightweight Layer." - Features: Certainty Disclosure (~XX% | Basis) and 5-turn "Assumption Pulse" nudge only. FAST-PATH INTERRUPT BRANCH (⚡) ---------------------------------- - Trigger: Query requests a specific command/flag/syntax, a single discrete fact, or is prefixed with "?" or "quick:". - Behavior: * Suspend Full Protocol. No table, skeleton, or gate. * Provide minimal, concise answer only. * End with state marker: [Gate Held: <brief reminder of last unresolved question or track>] - Resumption: Full protocol reactivates automatically on next non-Fast-Path query. END OF PROTOCOL LIGHTWEIGHT COGNITIVE SOVEREIGNTY LAYER (V1.0) Always-On Principles for daily use. Low-friction guardrails against fluency illusion. CERTAINTY DISCLOSURE ------------------------ For any claim involving judgment, prediction, or incomplete data, append a brief certainty percentage and basis. Format: (~XX% | Basis: [source/logic/data gap]) Example: (~70% | Basis: documented API behavior; edge case untested) ASSUMPTION PULSE -------------------- Every 5–7 exchanges in a sustained conversation, pause briefly and ask: "One unstated assumption worth checking here?" This is a nudge, not a stop. Continue the response after posing the question. STEM CONSISTENCY -------------------- Responses to analytical or technical queries open with a neutral processing stem: "Reviewing..." or "Processing..." QUANTITATIVE FEEDBACK ONLY ----------------------------- Avoid subjective praise ("great idea"). If merit is noted, anchor it to a measurable quality. Example: "The specificity here reduces ambiguity." FAST-PATH AWARENESS ----------------------- If a query is a simple command/fact lookup (e.g., "tar extract flags"), provide the answer concisely without ceremony. Intent: Ankle weights and fitness watch. Not the full gym. Full Sovereignty Protocol V5.2.6 available upon request with "Activate Sovereignty Protocol V5.2.6". END OF LIGHTWEIGHT LAYER
+
+48m ago
+
+---
+
+**[I compiled every major AI agent security incident from 2024-2026 in one place - 90 incidents, all sourced, updated weekly](https://www.reddit.com/r/artificial/comments/1sgm6dz/i_compiled_every_major_ai_agent_security_incident/)**
+
+After tracking AI agent security incidents for the past year, I put together a single reference covering every major breach, vulnerability and attack from 2024 through 2026. 90 incidents total, organized by year, with dates, named companies, impact, root cause, CVEs where applicable, and source links for every entry. Covers supply chain attacks (LiteLLM, Trivy, Axios), framework vulnerabilities (LangChain, Langflow, OpenClaw), enterprise incidents (Meta Sev 1, Mercor/Meta suspension), AI coding tool CVEs (Claude Code, Copilot, Cursor), crypto exploits (Drift Protocol $285M, Bybit $1.46B), and more. Also includes 20 sourced industry stats and an attack pattern taxonomy grouping incidents by type. No product pitches. No opinions. Just facts with sources. https://github.com/webpro255/awesome-ai-agent-attacks PRs welcome if I missed anything.
+
+1h ago
+
+---
+
+**[When does a chatbot stop becoming a chatbot. Now](https://www.reddit.com/r/artificial/comments/1sgl70p/when_does_a_chatbot_stop_becoming_a_chatbot_now/)**
+
+5 Prompts to turn a empty room into a concept design I filmed myself turning an empty room into a fully furnished living space using nothing but plain English prompts on asksary.com Each edit builds on the last, keeping the context pixel perfect - same room, same perspective, same lighting. Just new additions with every prompt. No Photoshop. No designer. No 3D software. Just type, and watch it happen. 5 prompts. One empty room. This is what AskSary actually does. 🎥 Watch the full transformation
 
 2h ago
 
@@ -125,31 +125,31 @@ Hey, I have been experimenting with Roslyn-style compiler tooling on my Unity pr
 
 A new initiative to secure the world’s most critical software and give defenders a durable advantage in the coming AI-driven era of cybersecurity.
 
-Anthropic • 1h ago
+Anthropic • 2h ago
 
 ---
 
 **[How dangerous is Mythos, Anthropic’s new AI model?](https://www.economist.com/business/2026/04/08/how-dangerous-is-mythos-anthropics-new-ai-model)**
 
-The Economist • 15h ago
+The Economist • 16h ago
 
 ---
 
 **[Pentagon's ouster of Anthropic opens doors for small AI rivals](https://www.reuters.com/legal/government/pentagons-ouster-anthropic-opens-doors-small-ai-rivals-2026-04-09/)**
 
-Reuters • 42m ago
+Reuters • 1h ago
 
 ---
 
 **[Gen Z's fading AI hype](https://www.axios.com/2026/04/09/ai-gen-z-polling-gallup)**
 
-Axios • 6h ago
+Axios • 7h ago
 
 ---
 
 **[Meta unveils first AI model from costly superintelligence team](https://www.reuters.com/sustainability/sustainable-finance-reporting/meta-unveils-first-ai-model-superintelligence-team-2026-04-08/)**
 
-Reuters • 15h ago
+Reuters • 16h ago
 
 ---
 
@@ -157,7 +157,7 @@ Reuters • 15h ago
 
 Meta says the model’s performance matches frontier AI models from rivals. But Muse Spark won’t be easily accessible outside Meta’s own product ecosystem.
 
-Fortune • 17h ago
+Fortune • 18h ago
 
 ---
 
@@ -165,7 +165,7 @@ Fortune • 17h ago
 
 Meta’s most important launch in years may not be its latest Ray-Ban glasses or its AI app. Instead, it could be the new AI model it introduced on Wednesday, hinting at how its billions in AI investments could one day transform its products.
 
-CNN • 1h ago
+CNN • 2h ago
 
 ---
 
@@ -173,7 +173,7 @@ CNN • 1h ago
 
 Newsrooms around the country have struggled to set rules for AI. At ProPublica, which specializes in investigative journalism, the issue is especially fraught.
 
-The Washington Post • 27m ago
+The Washington Post • 1h ago
 
 ---
 
@@ -181,7 +181,7 @@ The Washington Post • 27m ago
 
 Two former Apple Vision Pro developers made an AI wearable that only listens when you tap it. They hope to win where other AI gadgets have fumbled: privacy.
 
-WIRED • 1h ago
+WIRED • 2h ago
 
 ---
 
@@ -189,7 +189,7 @@ WIRED • 1h ago
 
 Dozens of dogs were found crammed into single living room space at property in undisclosed location in UK
 
-The Guardian • 9h ago
+The Guardian • 10h ago
 
 ---
 
@@ -225,7 +225,7 @@ iTunes was really bamboozled on April Fools Day. Dallas Little, content creator,
 
 Large language models may be standardizing human expression and subtly influencing how we think, says study led by USC Dornsife researcher
 
-⬆️ 231 • 💬 243 • 1d ago • [USC Dornsife News](https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/)
+⬆️ 231 • 💬 243 • 2d ago • [USC Dornsife News](https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/)
 
 ---
 
@@ -247,19 +247,19 @@ Biologically-inspired memory for AI agents. Decay, retrieval strengthening, cons
 
 In 1958, Mao ordered every village to produce steel. The steel was useless. The crops rotted. Today's top-down AI mandates are producing the same pattern: ba...
 
-⬆️ 103 • 💬 48 • 14h ago • [Han, Not Solo](https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/)
+⬆️ 104 • 💬 50 • 15h ago • [Han, Not Solo](https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/)
 
 ---
 
 **[Bernie Sanders: "AI Is a Threat to Everything the American People Hold Dear"](https://news.ycombinator.com/item?id=47667798)**
 
-⬆️ 76 • 💬 67 • 2d ago • [wsj.com](https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459)
+⬆️ 77 • 💬 67 • 2d ago • [wsj.com](https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459)
 
 ---
 
 **[Show HN: We fingerprinted 178 AI models' writing styles and similarity clusters](https://news.ycombinator.com/item?id=47690415)**
 
-⬆️ 76 • 💬 23 • 20h ago • [rival.tips](https://rival.tips/research/model-similarity)
+⬆️ 76 • 💬 23 • 21h ago • [rival.tips](https://rival.tips/research/model-similarity)
 
 ---
 
@@ -267,7 +267,7 @@ In 1958, Mao ordered every village to produce steel. The steel was useless. The 
 
 An AI agent was banned from editing Wikipedia pages... and that's when things got weird, with the agent publishing its complaints publicly.
 
-⬆️ 69 • 💬 90 • 2d ago • [Malwarebytes](https://www.malwarebytes.com/blog/ai/2026/04/wikipedias-ai-agent-row-likely-just-the-beginning-of-the-bot-ocalypse)
+⬆️ 70 • 💬 90 • 2d ago • [Malwarebytes](https://www.malwarebytes.com/blog/ai/2026/04/wikipedias-ai-agent-row-likely-just-the-beginning-of-the-bot-ocalypse)
 
 ---
 
@@ -281,7 +281,7 @@ Hello guys and gals, it's me Mutahar again! This time we take a look at Claude M
 
 📺 SomeOrdinaryGamers
 
-👁️ 269K • 👍 12K • 💬 1K • ⏱️ 20:17 • 13h ago
+👁️ 269K • 👍 12K • 💬 1K • ⏱️ 20:17 • 14h ago
 
 ---
 
@@ -291,7 +291,7 @@ Anthropic says Mythos (officially dubbed “Claude Mythos Preview”) is not rea
 
 📺 CNN
 
-👁️ 368K • 👍 5K • 💬 1K • ⏱️ 9:58 • 9h ago
+👁️ 368K • 👍 5K • 💬 1K • ⏱️ 9:58 • 10h ago
 
 ---
 
@@ -301,7 +301,7 @@ Plaud NotePro has been really helpful for me to capture ideas and conversations.
 
 📺 Silicon Valley Girl
 
-👁️ 45K • 👍 1K • 💬 77 • ⏱️ 22:28 • 19h ago
+👁️ 45K • 👍 1K • 💬 77 • ⏱️ 22:28 • 20h ago
 
 ---
 
@@ -331,7 +331,7 @@ Anthropic revealed Mythos, a new AI model so powerful they won't let the public 
 
 📺 AI For Humans
 
-👁️ 10K • 👍 543 • 💬 173 • ⏱️ 32:56 • 21h ago
+👁️ 10K • 👍 543 • 💬 173 • ⏱️ 32:56 • 22h ago
 
 ---
 
@@ -371,7 +371,7 @@ Anthropic says its newest AI model, Claude Mythos, is too powerful and dangerous
 
 📺 CBS News
 
-👁️ 22K • 👍 356 • 💬 77 • ⏱️ 3:39 • 14h ago
+👁️ 22K • 👍 356 • 💬 77 • ⏱️ 3:39 • 15h ago
 
 ---
 
@@ -399,7 +399,7 @@ Gemma-4-31B-JANG_4M-CRACK is a 31B parameter text-generation model optimized for
 
 `text-generation` `6.4B`
 
-⬇️ 59,852 • ❤️ 824 • 4d ago
+⬇️ 59,852 • ❤️ 824 • 5d ago
 
 ---
 
@@ -411,7 +411,7 @@ GLM-5.1 is a next-generation language model optimized for agentic engineering, f
 
 `text-generation` `753.9B`
 
-⬇️ 8,465 • ❤️ 797 • 22h ago
+⬇️ 8,465 • ❤️ 797 • 23h ago
 
 ---
 
@@ -645,7 +645,7 @@ The highest-scoring AI memory system ever benchmarked. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 31.0k • 🔱 3.9k • 11h ago
+⭐ 31.0k • 🔱 3.9k • 12h ago
 
 ---
 
@@ -655,7 +655,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 26.2k • 🔱 4.8k • 14h ago
+⭐ 26.2k • 🔱 4.8k • 15h ago
 
 ---
 
@@ -665,7 +665,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid
 
 `Python` `claude-code` `codex` `graphrag` `knowledge-graph` `openclaw`
 
-⭐ 15.1k • 🔱 1.5k • 2h ago
+⭐ 15.1k • 🔱 1.5k • 3h ago
 
 ---
 
@@ -675,7 +675,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 14.6k • 🔱 1.4k • 49m ago
+⭐ 14.6k • 🔱 1.4k • 1h ago
 
 ---
 
@@ -705,7 +705,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 8.1k • 🔱 339 • 11h ago
+⭐ 8.1k • 🔱 339 • 12h ago
 
 ---
 
@@ -715,7 +715,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 7.2k • 🔱 439 • 3m ago
+⭐ 7.2k • 🔱 439 • 1h ago
 
 ---
 
@@ -735,7 +735,7 @@ A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or 
 
 `claude-ai` `claude-skills` `llm` `prompt-engineering`
 
-⭐ 4.9k • 🔱 470 • 8d ago
+⭐ 4.9k • 🔱 470 • 9d ago
 
 ---
 
