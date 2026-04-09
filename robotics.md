@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-09T22:05:34.153349+00:00'
+updated: '2026-04-09T23:08:57.464082+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 09, 2026 at 22:05 UTC  
+**Last Updated:** April 09, 2026 at 23:08 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Here is the worlds first man being kicked in the balls by a robot](https://www.reddit.com/r/robotics/comments/1sgved8/here_is_the_worlds_first_man_being_kicked_in_the/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 From Deepak Pathak on 𝕏 (full video): https://x.com/pathak2206/status/2041939631860482211
 
-10h ago
+11h ago
 
 ---
 
@@ -50,7 +50,7 @@ From Deepak Pathak on 𝕏 (full video): https://x.com/pathak2206/status/2041939
 
 This test demonstrates how to connect a direct Time-of-Flight (dToF) distance sensor to a Raspberry Pi for accurate proximity sensing.The tutorial code will be publicly released on GitHub later.
 
-7h ago
+8h ago
 
 ---
 
@@ -58,7 +58,15 @@ This test demonstrates how to connect a direct Time-of-Flight (dToF) distance se
 
 I've been working on biologically grounded locomotion control using spiking neural networks instead of conventional RL. The system runs on a Freenove Robot Dog Kit (FNK0050) with a Raspberry Pi 4. The approach: train an Izhikevich SNN in MuJoCo simulation using a custom MJCF model of the robot, then transfer the brain to real hardware where it continues learning with IMU feedback (MPU6050). A central pattern generator provides innate gait, and a competence gate gradually hands control to the SNN as it proves stable. Key result: brain persistence works — stop the robot, restart it days later, synaptic weights reload and it walks immediately without relearning. A fresh brain needs 2,000 steps (40s) to reach the same level. Honest limitation: spectral analysis shows the SNN learns conservative dampening rather than faster/better gaits. It makes movements smaller and more regular. Biologically plausible (puppies do this) but not yet performance-improving. Total hardware cost: ~€200 (Pi + kit). 232 neurons, 50Hz control loop, no GPU needed. Demo: https://www.youtube.com/watch?v=7iN8tB2xLHI Code: github.com/MarcHesse/mhflocke (Apache 2.0) Paper: doi.org/10.5281/zenodo.19481146 Happy to discuss the architecture, the sim-to-real challenges, or the conservative dampening finding.
 
-9h ago
+10h ago
+
+---
+
+**[Talking robot guide dog uses AI to describe the world as it leads](https://www.reddit.com/r/robotics/comments/1sh4t8h/talking_robot_guide_dog_uses_ai_to_describe_the/)**
+
+Scientists at Binghamton University have developed a robot guide dog system that communicates with the visually impaired and provides real-time feedback during travel.
+
+🔗 [The Brighter Side of News](http://thebrighterside.news/post/talking-robot-guide-dog-uses-ai-to-describe-the-world-as-it-leads) • 25m ago
 
 ---
 
@@ -66,7 +74,7 @@ I've been working on biologically grounded locomotion control using spiking neur
 
 What you're watching: 8 virtual Crazyflie quadrotors that learned to take off, hold formations, recover from failures, and navigate obstacles entirely through trial and error in simulation. No scripted choreography. The swarm figures it out. Full open-source repo if you want to run it yourself: https://github.com/garykuepper/ggSwarm Rendered in NVIDIA Isaac Lab. Trained with reinforcement learning (PPO). Each drone runs the same AI brain and makes its own decisions — no central controller telling them what to do.
 
-16h ago
+17h ago
 
 ---
 
@@ -76,11 +84,17 @@ What you're watching: 8 virtual Crazyflie quadrotors that learned to take off, h
 
 ---
 
+**[Now they are full grown 😀 (audio with detailed description on the hardware and power supply)](https://www.reddit.com/r/robotics/comments/1sh4kuq/now_they_are_full_grown_audio_with_detailed/)**
+
+34m ago
+
+---
+
 **[Introducing One Click Any PC: Run AI Workloads from Any Computer](https://www.reddit.com/r/robotics/comments/1sh0oju/introducing_one_click_any_pc_run_ai_workloads/)**
 
 Hi everyone, We’ve been working on a new tool called One Click Any PC, and we’re excited to share it with the community. The idea is simple: run physical, AI-based codebases from any computer without worrying about compute. Whether you’re training VLAs, experimenting with RL, or testing new pipelines, the goal is to make it as compute easy as a single click with no worry. We’re planning to launch next week, and we’re currently opening up a small waitlist for early access. If this sounds interesting, we’d really appreciate it if you join the waitlist (please open the link on desktop for the best experience). Our webpage is https://www.geodesicos.com/ We’d also love your feedback, what would you want from a tool like this? Anything you’d be excited (or skeptical) about? Thanks in advance 🙏
 
-2h ago
+3h ago
 
 ---
 
@@ -88,21 +102,7 @@ Hi everyone, We’ve been working on a new tool called One Click Any PC, and we�
 
 Hey everyone, I’ve just pushed a big update to PyOctoMap to make it feel truly "native" in Python. The main goal was to kill the "manual dependency wrangling" phase. We now have pre-built wheels for Windows and macOS (Apple Silicon), so it’s finally just a pip install pyoctomap away on any platform. We’re even ready for Python 3.14. Aside from platform support, I’ve added: Multi-Tree Support: Color, Stamped, and Counting trees are all now in the core. AI Demo: The pyocto-map-anything showcase is updated to show how this all ties into AI depth estimation. All types of contributions and support are welcome! If this makes your robotics or 3D perception workflow easier, a star on GitHub ⭐ or a bit of feedback would be awesome. GitHub:https://github.com/Spinkoo/pyoctomap https://preview.redd.it/zeon4s6vs5ug1.png?width=2370&format=png&auto=webp&s=88fde4081612f981454cbe4953e11b11e9273fcf
 
-9h ago
-
----
-
-**[Now we are one!](https://www.reddit.com/r/robotics/comments/1sg5qwh/now_we_are_one/)**
-
-1d ago
-
----
-
-**[I have started working on a long procrastinated project](https://www.reddit.com/r/robotics/comments/1sgcz71/i_have_started_working_on_a_long_procrastinated/)**
-
-this week i have finally started working on my myoelectric prosthetic arm. only three fingers to ease the tests and reduce cost of motors and electrods. hope you enjoy the chrome!
-
-19h ago
+10h ago
 
 ---
 
@@ -112,7 +112,7 @@ this week i have finally started working on my myoelectric prosthetic arm. only 
 
 **[National robotics push caught in delayed Trump-Xi meeting](https://www.politico.com/news/2026/04/09/national-robotics-trump-xi-china-00861918)**
 
-Politico • 13h ago
+Politico • 14h ago
 
 ---
 
@@ -120,7 +120,7 @@ Politico • 13h ago
 
 Economies worldwide are prioritising the integration of factory robots, as automation becomes a critical tool for boosting productivity. In the global automation race, the Western European countries reached a record 267 robots per 10,000 employees in the manufacturing industry 2024 – ahead of North America with 204 units and Asia with 131 units. This is according to the World Robotics 2025 report, presented by the International Federation of Robotics (IFR).
 
-International Federation of Robotics • 1d ago
+IFR International Federation of Robotics • 1d ago
 
 ---
 
@@ -128,23 +128,7 @@ International Federation of Robotics • 1d ago
 
 A Chinese factory is producing humanoid robots every 30 minutes, marking a shift toward large-scale manufacturing and broader adoption.
 
-Fox News • 5h ago
-
----
-
-**[Opinion | Meet Abi, the AI-powered robot companion for senior care](https://www.washingtonpost.com/opinions/2026/04/09/ai-robot-senior-care-abi/)**
-
-This new tech from Australia is coming to America’s senior care facilities.
-
-The Washington Post • 3m ago
-
----
-
-**[The Bull Case For Serve Robotics (SERV) Could Change Following Launch Of 5G Conversational Robot Maggie](https://finance.yahoo.com/markets/stocks/articles/bull-case-serve-robotics-serv-211022761.html)**
-
-Serve Robotics Inc. recently unveiled “Maggie,” its first AI-powered conversational robot, at NVIDIA GTC 2026, showcasing real-time human interaction enabled by T-Mobile’s 5G Advanced and edge computing network. This marks Serve’s move to embed more human-centric AI into its sidewalk delivery ecosystem, broadening how its robots can safely and intelligently operate in everyday urban settings. We’ll now explore how Maggie’s 5G-enabled conversational capabilities could influence Serve...
-
-Yahoo Finance • 1d ago
+Fox News • 6h ago
 
 ---
 
@@ -152,7 +136,7 @@ Yahoo Finance • 1d ago
 
 Meet 'Digit', a humanoid robotic worker made by Agility Robotics, now part of a new wave of robots replacing workers at companies like Schaeffler, Toyota, and GXO. NBC News' Brian Cheung takes a look.
 
-NBC News • 1h ago
+NBC News • 2h ago
 
 ---
 
@@ -164,17 +148,27 @@ Scientific American • 1d ago
 
 ---
 
-**[Unitree to debut cheapest humanoid robot globally via Alibaba: sources](https://www.scmp.com/tech/article/3349489/chinas-unitree-debut-cheapest-humanoid-robot-globally-alibaba-site-sources)**
+**[The Bull Case For Serve Robotics (SERV) Could Change Following Launch Of 5G Conversational Robot Maggie](https://finance.yahoo.com/markets/stocks/articles/bull-case-serve-robotics-serv-211022761.html)**
 
-South China Morning Post • 14h ago
+Serve Robotics Inc. recently unveiled “Maggie,” its first AI-powered conversational robot, at NVIDIA GTC 2026, showcasing real-time human interaction enabled by T-Mobile’s 5G Advanced and edge computing network. This marks Serve’s move to embed more human-centric AI into its sidewalk delivery ecosystem, broadening how its robots can safely and intelligently operate in everyday urban settings. We’ll now explore how Maggie’s 5G-enabled conversational capabilities could influence Serve...
+
+Yahoo Finance • 1d ago
 
 ---
 
-**[Laura Washington: What’s the fuss over delivery robots?](https://www.chicagotribune.com/2026/04/08/column-chicago-delivery-robots-washington/)**
+**[Building the Future of Texas Robotics](https://news.utexas.edu/2026/04/09/building-the-future-of-texas-robotics/)**
 
-Chicago’s delivery robots join services like Uber and Lyft in helping us through mundane tasks and burdens to an easier life.
+Deepu Talla helps bring the future of robotics closer to reality through the Nvidia-Talla Endowment for Texas Robotics.
 
-Chicago Tribune • 1d ago
+The University of Texas at Austin • 8h ago
+
+---
+
+**[Wakefield senior mentors two Arlington robotics teams to world championship](https://www.arlnow.com/2026/04/07/wakefield-senior-mentors-two-arlington-robotics-teams-to-world-championship/)**
+
+A Wakefield High School senior is heading to the VEX Robotics World Championship for the second year in a row — and this time, he's bringing an elementary school team with him. Greyson Schroeher has spent the school year mentoring two Arlington robotics teams that both qualified for the World Championship in St. Louis later
+
+ARLnow • 2d ago
 
 ---
 
@@ -182,7 +176,13 @@ Chicago Tribune • 1d ago
 
 Hockey fans might remember former University of New Hampshire player Thomas Fortney, who tied a 2009 NCAA tournament game against North Dakota with a tenth of a second remaining in regulation.
 
-WMUR • 1d ago
+WMUR • 2d ago
+
+---
+
+**[Cerebras Backer Eclipse Raises $1.3 Billion for Robotics, AI Infrastructure](https://www.bloomberg.com/news/articles/2026-04-07/cerebras-backer-eclipse-raises-1-3-billion-for-robotics-ai-infrastructure)**
+
+Bloomberg.com • 2d ago
 
 ---
 
@@ -190,13 +190,43 @@ WMUR • 1d ago
 
 ## YouTube Videos: "robotics"
 
+**[Streamline Your Packaging with Automated Counting 📦🚀#SupplyChain #Hardware #PackagingSolutions](https://www.youtube.com/watch?v=vWaiYDPeuvA)**
+
+Watch these tiny parts dance their way to a perfect count. There is something so satisfying about the way they align on the ...
+
+📺 MachineWorks Studio
+
+👁️ 999K • 👍 465 • 💬 7 • ⏱️ 0:06 • 1d ago
+
+---
+
 **[South Korea Is Building Robots the World Didn’t See Coming!](https://www.youtube.com/watch?v=H09m8a3oL_4)**
 
 South Korea is building robots you've only seen in movies, from giant walking machines to exoskeletons that give people back ...
 
 📺 DeCode
 
-👁️ 7K • 👍 194 • 💬 15 • ⏱️ 14:45 • 7h ago
+👁️ 14K • 👍 302 • 💬 18 • ⏱️ 14:45 • 8h ago
+
+---
+
+**[New GEN 1 AI Robot Hits 3X Faster At 1,800+ Reps (AI NEWS)](https://www.youtube.com/watch?v=IgwL5-IH6gU)**
+
+AIR CONDITIONED SHIRTS??: https://octocool.com Generalist AI's GEN-1 embodied foundation model achieves 99% success ...
+
+📺 AI News
+
+👁️ 6K • 👍 151 • 💬 17 • ⏱️ 8:04 • 6d ago
+
+---
+
+**[2026 Ultimate Robot Vacuum and Mop Comparison || Roborock, Eufy, Dreame, Narwal, Ecovacs, MOVA](https://www.youtube.com/watch?v=Pv9_2D_Xc5k)**
+
+I tested every flagship robotic vacuum and mop from Roborock, Eufy, Dreame, Narwal, Ecovacs, and MOVA available in 2025 to ...
+
+📺 The Hook Up
+
+👁️ 12K • 👍 535 • 💬 119 • ⏱️ 26:12 • 1d ago
 
 ---
 
@@ -210,43 +240,13 @@ The world wasn't ready for what 2026 had in store — a wave of humanoid robots 
 
 ---
 
-**[2026 Ultimate Robot Vacuum and Mop Comparison || Roborock, Eufy, Dreame, Narwal, Ecovacs, MOVA](https://www.youtube.com/watch?v=Pv9_2D_Xc5k)**
-
-I tested every flagship robotic vacuum and mop from Roborock, Eufy, Dreame, Narwal, Ecovacs, and MOVA available in 2025 to ...
-
-📺 The Hook Up
-
-👁️ 11K • 👍 511 • 💬 114 • ⏱️ 26:12 • 1d ago
-
----
-
-**[Inside the World&#39;s Smartest Robot Brain](https://www.youtube.com/watch?v=2mrGMMmrVNE)**
-
-Welch Labs Book: https://www.welchlabs.com/resources/ai-book-ezrzm-msrmc Book & VLA Poster Bundle: ...
-
-📺 Welch Labs
-
-👁️ 98K • 👍 5K • 💬 238 • ⏱️ 35:02 • 5d ago
-
----
-
 **[Are AI soldiers about to take over the battlefield? | DW News](https://www.youtube.com/watch?v=q83LtZza5eA)**
 
 US startup Foundation is developing humanoid robots for military use. The goal is for its Phantom model to identify targets and ...
 
 📺 DW News
 
-👁️ 75K • 👍 550 • 💬 101 • ⏱️ 1:22 • 3d ago
-
----
-
-**[I Spent 100 Hours In China&#39;s Robot City](https://www.youtube.com/watch?v=PXGK_MFShXU)**
-
-I spent 100 hours in the world's most futuristic city! WATCH MORE videos we filmed in China ▸ https://youtu.be/elF_v9sukWU ...
-
-📺 Hafu Go
-
-👁️ 791K • 👍 8K • 💬 280 • ⏱️ 25:46 • 5d ago
+👁️ 75K • 👍 550 • 💬 101 • ⏱️ 1:22 • 4d ago
 
 ---
 
@@ -256,27 +256,17 @@ Joe Rogan Watches Soldier Test INSANE Robotic Legs #Shorts This is the future of
 
 📺 Silent Sentry
 
-👁️ 2.3M • 👍 30K • 💬 633 • ⏱️ 0:17 • 6d ago
+👁️ 2.4M • 👍 30K • 💬 639 • ⏱️ 0:17 • 6d ago
 
 ---
 
-**[Eilik VS Eiliko: WHICH ROBOT IS BETTER IN 2026?](https://www.youtube.com/watch?v=xryozwcxKV0)**
+**[Inside the World&#39;s Smartest Robot Brain](https://www.youtube.com/watch?v=2mrGMMmrVNE)**
 
-Eilik Robot VS Eiliko Robot: WHICH ROBOT IS BETTER IN 2026? In today's video, I'll be pinning 2 robots from the same company ...
+Welch Labs Book: https://www.welchlabs.com/resources/ai-book-ezrzm-msrmc Book & VLA Poster Bundle: ...
 
-📺 Eric’s Tech World
+📺 Welch Labs
 
-👁️ 14K • 👍 138 • 💬 23 • ⏱️ 9:43 • 5d ago
-
----
-
-**[How This Robot Balances a Ball Perfectly 😳](https://www.youtube.com/watch?v=07iGtO3Xg-4)**
-
-This robot may look simple… but it's powered by advanced control systems. It uses a PID Controller How it works: ...
-
-📺 FactZillaa
-
-👁️ 26K • 👍 666 • 💬 6 • ⏱️ 0:33 • 4d ago
+👁️ 98K • 👍 5K • 💬 239 • ⏱️ 35:02 • 5d ago
 
 ---
 
@@ -286,7 +276,15 @@ The laser 'Taeja' Dagon is for real. There have been so many laser weapons in WR
 
 📺 PREDATOR WR
 
-👁️ 7K • 👍 331 • 💬 51 • ⏱️ 15:46 • 10h ago
+👁️ 9K • 👍 381 • 💬 57 • ⏱️ 15:46 • 11h ago
+
+---
+
+**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=kxSunP8Cf9g)**
+
+📺 Robot Julie 
+
+👁️ 23K • 👍 195 • ⏱️ 0:22 • 20h ago
 
 ---
 

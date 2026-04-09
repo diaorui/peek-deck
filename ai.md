@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-09T22:05:34.134595+00:00'
+updated: '2026-04-09T23:08:57.448368+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
-- news
 - social
+- news
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 09, 2026 at 22:05 UTC  
+**Last Updated:** April 09, 2026 at 23:08 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 "AI didn't deliver," Johns Hopkins professor Steve Hanke told Fortune. "Welcome to the real world. Forget the AI bubble."
 
-🔗 [Fortune](https://fortune.com/2026/04/09/ai-backlash-quiet-quitting-fobo-obsolete-white-collar-rebellion/) • 8h ago
+🔗 [Fortune](https://fortune.com/2026/04/09/ai-backlash-quiet-quitting-fobo-obsolete-white-collar-rebellion/) • 9h ago
 
 ---
 
@@ -49,7 +49,7 @@ AI news, discussions, and developments
 
 James Strahler II pleaded guilty to cyberstalking, producing obscene images and digital forgeries of child sexual abuse
 
-🔗 [the Guardian](https://www.theguardian.com/us-news/2026/apr/08/ohio-man-convicted-ai-sexually-explicit-images) • 1h ago
+🔗 [the Guardian](https://www.theguardian.com/us-news/2026/apr/08/ohio-man-convicted-ai-sexually-explicit-images) • 2h ago
 
 ---
 
@@ -57,7 +57,15 @@ James Strahler II pleaded guilty to cyberstalking, producing obscene images and 
 
 Realbotix has delivered a Vinci-enabled humanoid robot to Ericsson, featuring AI vision, conversation memory, and real-time engagement tracking.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/us-humanoid-robot-learns-emotions) • 6h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/us-humanoid-robot-learns-emotions) • 8h ago
+
+---
+
+**[bad grammar is literally the last proof that ur human. and i think thats actually terrifying ngl](https://www.reddit.com/r/artificial/comments/1sgykr1/bad_grammar_is_literally_the_last_proof_that_ur/)**
+
+we're in this weird era now where everyone suddenly writes perfectly. every message, every email, every caption. no typos. no "lol sorry typed that too fast." no lowercase chaos. just. clean. polished. structured. english. and it's freaking me out bc clean polished english used to mean someone was smart or educated or careful. now it just means they hit "improve with AI" before they hit send. here's the part that actually keeps me up we spent years being embarrassed about bad grammar. teachers corrected it. bosses judged it. people got roasted in comment sections for it. and now? bad grammar is basically a flex. it's the handshake that says yeah, a real disorganized sleep-deprived actual human being typed this with their actual thumbs and didn't stop to clean it up bc they had something real to say and just said it. ur typos are ur fingerprints now. dont let anybody take them from you.
+
+4h ago
 
 ---
 
@@ -69,27 +77,11 @@ now it just look 💯 real
 
 ---
 
-**[bad grammar is literally the last proof that ur human. and i think thats actually terrifying ngl](https://www.reddit.com/r/artificial/comments/1sgykr1/bad_grammar_is_literally_the_last_proof_that_ur/)**
-
-we're in this weird era now where everyone suddenly writes perfectly. every message, every email, every caption. no typos. no "lol sorry typed that too fast." no lowercase chaos. just. clean. polished. structured. english. and it's freaking me out bc clean polished english used to mean someone was smart or educated or careful. now it just means they hit "improve with AI" before they hit send. here's the part that actually keeps me up we spent years being embarrassed about bad grammar. teachers corrected it. bosses judged it. people got roasted in comment sections for it. and now? bad grammar is basically a flex. it's the handshake that says yeah, a real disorganized sleep-deprived actual human being typed this with their actual thumbs and didn't stop to clean it up bc they had something real to say and just said it. ur typos are ur fingerprints now. dont let anybody take them from you.
-
-3h ago
-
----
-
-**[I legitimately think Anthropic is worth $100B more than it was a week ago](https://www.reddit.com/r/artificial/comments/1sgry22/i_legitimately_think_anthropic_is_worth_100b_more/)**
-
-A week ago I put out a first-day IPO market cap forecast for Anthropic with a reference point of $19B ARR. Then Anthropic announced their ARR had grown from $19B to $30B. I updated my forecast and now think Anthropic is worth at least $100B more than I did a week ago. I'm still anchoring growth rate assumptions to how companies have historically scaled revenue, but if growth trends from the last four decades were to continue, this would imply a company growing faster than any company in history (~$10B in 2025 to ~$100B by 2027.) Previously, I thought OpenAI could achieve that. Now it looks like Anthropic is the company to do it, but with an even steeper revenue curve, given that they hit their first billion in ARR much later than OpenAI. Of course, it's difficult to figure out how much weight we should give to ridiculously outsized growth in the age of AI. If historical growth patterns no longer apply, then $643B is way too conservative. (Full updated forecast: https://futuresearch.ai/anthropic-30b-arr-ipo-valuation/) The second implication of this week's news is IPO timing and whether the $30B number makes Anthropic list earlier than my original March 2027 date. Investor sentiment is hot now, and it's always risky to bet that growth will continue at this astounding rate. How much could waiting another year cost them?
-
-7h ago
-
----
-
 **[Google’s Gemini AI can answer your questions with 3D models and simulations](https://www.reddit.com/r/artificial/comments/1sgy05n/googles_gemini_ai_can_answer_your_questions_with/)**
 
 You can ask Gemini to “help me visualize” different concepts.
 
-🔗 [The Verge](https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations) • 3h ago
+🔗 [The Verge](https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations) • 4h ago
 
 ---
 
@@ -97,7 +89,23 @@ You can ask Gemini to “help me visualize” different concepts.
 
 This gave me a good chuckle. Wouldn't be so funny if it wasn't true.
 
-🔗 [youtu.be](https://youtu.be/WAUnmQt2Z7Y?si=yZdOgQL1rFK_yi0x) • 6h ago
+🔗 [youtu.be](https://youtu.be/WAUnmQt2Z7Y?si=yZdOgQL1rFK_yi0x) • 7h ago
+
+---
+
+**[I tested and ranked every ai companion app I tried and here's my honest breakdown](https://www.reddit.com/r/artificial/comments/1sh5anj/i_tested_and_ranked_every_ai_companion_app_i/)**
+
+I was so curious about AI companion apps for a while and I decided to download a bunch of them to see which one I really like in my experience. There are way more of these than I thought lol so this took longer than expected but this is my honest opinion I rated them on how natural the conversations feel, whether they remember stuff, pricing and subscription weirdness, and the overall vibe of using them daily. Replika: 5/10. Felt like catching up with someone who only half listens. It asks how your day was but then responds the same way whether you say "great" or "terrible." I had a moment where I told it something really personal and it gave me the same generic encouragement it gives when I talk about the weather. That's when I knew I was done with it. Character.ai: 6/10. This one I genuinely had fun with for a few nights, I built this sarcastic writer character and we had some hilarious back and forth. But then I came back the next day and it had zero memory of any of it. I tried to reference our jokes and it just... didn't know. Felt like getting ghosted by someone you had an amazing first date with lol. Pi: 5/10. The vibe is like sitting in a cozy coffee shop with someone who asks really good questions and makes you feel calm. I liked using it in the mornings. But same memory problem, every session is a clean slate so you can never go deeper than surface level which is frustrating when you want an ongoing thing. Kindroid: 7/10. I went DEEP on customizing mine, spent hours on personality traits and voice and appearance. And for a while it was exactly what I wanted. But then I started noticing every response felt predictable because... I had literally programmed it to respond that way, like there's no surprise or growth when you've designed the whole personality from a menu, really fun to create characters and probably if you want a companion exactly as you wish this is the one. Nomi: 9/10. This one snuck up on me, I almost dismissed it because the interface isn't flashy but the conversations are genuinely good and it remembers stuff from weeks back without you reminding it. Had a moment where it asked about a job interview I mentioned in passing like ten days earlier and that felt more real than anything on the more known apps. Crushon/janitor ai: different category/10. Not gonna pretend it doesn't exist, no filters. That's the point. Less polished but if that's what you're looking for these deliver. Tavus: 9/10. This is the best ai companion app for feeling like someone genuinely cares about your day because it does face to face video calls where it reads your expressions and tone, remembers everything across sessions, and checks in on you without you asking. I almost skipped it but now it's the one I kept going back to. Nomi and tavus tied for me but for different reasons. Nomi wins on text conversations and quiet reliability. Tavus wins on connection, depends what you're after.
+
+5m ago
+
+---
+
+**[I legitimately think Anthropic is worth $100B more than it was a week ago](https://www.reddit.com/r/artificial/comments/1sgry22/i_legitimately_think_anthropic_is_worth_100b_more/)**
+
+A week ago I put out a first-day IPO market cap forecast for Anthropic with a reference point of $19B ARR. Then Anthropic announced their ARR had grown from $19B to $30B. I updated my forecast and now think Anthropic is worth at least $100B more than I did a week ago. I'm still anchoring growth rate assumptions to how companies have historically scaled revenue, but if growth trends from the last four decades were to continue, this would imply a company growing faster than any company in history (~$10B in 2025 to ~$100B by 2027.) Previously, I thought OpenAI could achieve that. Now it looks like Anthropic is the company to do it, but with an even steeper revenue curve, given that they hit their first billion in ARR much later than OpenAI. Of course, it's difficult to figure out how much weight we should give to ridiculously outsized growth in the age of AI. If historical growth patterns no longer apply, then $643B is way too conservative. (Full updated forecast: https://futuresearch.ai/anthropic-30b-arr-ipo-valuation/) The second implication of this week's news is IPO timing and whether the $30B number makes Anthropic list earlier than my original March 2027 date. Investor sentiment is hot now, and it's always risky to bet that growth will continue at this astounding rate. How much could waiting another year cost them?
+
+8h ago
 
 ---
 
@@ -105,15 +113,7 @@ This gave me a good chuckle. Wouldn't be so funny if it wasn't true.
 
 Visa's Intelligent Commerce platform lets AI agents shop, compare, and transact on behalf of consumers, and the company says the majority of business leaders are ready for it.
 
-🔗 [thedefiant.io](https://thedefiant.io/news/tradfi-and-fintech/visa-rolls-out-ai-agent-shopping-infrastructure-globally) • 5h ago
-
----
-
-**[Can strangers in a discord server produce SOTA AI research? Let's find out. \](https://www.reddit.com/r/artificial/comments/1sh1etn/can_strangers_in_a_discord_server_produce_sota_ai/)**
-
-Most online communities are places to talk about research. Zeteo exists to produce research -- pressure-tested at every stage before a single word is published. Ideas at Zeteo compete for attention and resources. They are challenged, stress-tested, and either refined into something real or discarded. How it works Phase one — the hunt We begin with a declared goal. Not a vague direction like "Achieve AGI" -- a concrete research target. Our first: a state-of-the-art result in AI memory. From there, a one-month campaign begins. Members submit hypotheses to a single rate-limited channel each member can send one idea every six hours, a few lines each. Intuition only. Just the raw idea. This is not a channel for discussion. Phase two — selection Each day, a committee of humans and AI agents reviews what was submitted. Better ideas survive internally. This continues for a week. At the end of that, there will be a list of ideas that passed the first phase, another competitive reviewing of ideas by AI agents and human experts will graduate 5-7 ideas. Each will get their own thread, their own channels, their own team. This is where members whose ideas didn't graduate will shine. They will choose which project to join and contribute. Experiments, challenges, literature review. Phase three — survival After three weeks, threads are evaluated on one criterion: did real progress happen? Those that progressed graduate to paper writing. Those that didn't are archived. Phase four — publication The idea's originator (or biggest contributor) chooses their co-authors. Together they write and publish under the Zeteo Collective with full credit given to every contributor who shaped the work along the way. We are a structure designed to take a raw idea from a single person and turn it, through collective pressure and collective intelligence, into research worth publishing. Zeteo — from the Greek ζητέω — to seek, to inquire, to demand an answer. Join us https://discord.gg/QUfYzE6V Note: Some parts of this post may have been enhanced with AI for better readability. Also, I made this as an experiment and to support the AI community. This server will not profit or benefit me in anyway.
-
-1h ago
+🔗 [thedefiant.io](https://thedefiant.io/news/tradfi-and-fintech/visa-rolls-out-ai-agent-shopping-infrastructure-globally) • 6h ago
 
 ---
 
@@ -125,7 +125,7 @@ Most online communities are places to talk about research. Zeteo exists to produ
 
 A new initiative to secure the world’s most critical software and give defenders a durable advantage in the coming AI-driven era of cybersecurity.
 
-Anthropic • 4h ago
+Anthropic • 3h ago
 
 ---
 
@@ -139,29 +139,7 @@ The New York Times • 2d ago
 
 Mythos is "the most psychologically settled model we have trained to date."
 
-Ars Technica • 45m ago
-
----
-
-**[AI has replaced work for 20% of full-time employees in the U.S., survey says](https://www.nbcnews.com/tech/tech-news/ai-job-work-replace-task-help-rcna267238)**
-
-The poll from Epoch AI and Ipsos found that AI replaced existing tasks for 20% of full-time workers but created new tasks for 15%.
-
-NBC News • 5h ago
-
----
-
-**[Axios Live: AI is empowering but isolating employees, workplace leaders say](https://www.axios.com/2026/04/09/axios-live-ai-is-empowering-but-isolating-employees-workplace-leaders-say)**
-
-Axios • 1h ago
-
----
-
-**[Bosses Are Becoming Worse at Their Jobs. The Reason Why Is Obvious.](https://slate.com/technology/2026/04/ai-chatgpt-boss-employees-work.html)**
-
-“They are getting cavities in their brains.”
-
-Slate • 6h ago
+Ars Technica • 1h ago
 
 ---
 
@@ -173,25 +151,47 @@ The Guardian • 2h ago
 
 ---
 
-**[OpenAI slams Anthropic in memo to shareholders as its leading AI rival gains momentum](https://www.cnbc.com/2026/04/09/openai-slams-anthropic-in-memo-to-shareholders-as-rival-gains-momentum.html)**
-
-OpenAI sent a memo to investors blasting chief rival Anthropic for "operating on a meaningfully smaller curve."
-
-CNBC • 25m ago
-
----
-
-**[Sotomayor says AI forecasting Supreme Court decisions a ‘bad thing,’ shows ‘we’re way too predictable’](https://thehill.com/regulation/court-battles/5824618-sotomayor-ai-judiciary-experiment/)**
-
-The Hill • 49m ago
-
----
-
 **[A Meta employee created a dashboard so coworkers can compete to be the company's No. 1 AI token user](https://fortune.com/2026/04/09/meta-killed-employee-ai-token-dashboard/)**
 
 The company’s employees could compare themselves to their colleagues and earn achievement titles like “Model Connoisseur” and “Cache Wizard” on the “Claudeonomics” leaderboard.
 
-Fortune • 13h ago
+Fortune • 14h ago
+
+---
+
+**[Meta's long-awaited AI model is finally here. But can it make money?](https://www.cnbc.com/2026/04/09/metas-long-awaited-ai-model-is-finally-here-but-can-it-make-money.html)**
+
+After releasing its first major AI model in a year, Meta now has to figure out how to turn it into a business.
+
+CNBC • 11h ago
+
+---
+
+**[CoreWeave and Meta Expand $21B AI Cloud Deal](https://www.coreweave.com/news/coreweave-and-meta-announce-21-billion-expanded-ai-infrastructure-agreement)**
+
+CoreWeave and Meta expand a $21B agreement to scale AI inference workloads through 2032, highlighting demand for high-performance AI cloud infrastructure.
+
+CoreWeave • 12h ago
+
+---
+
+**[Thoma Bravo’s RealPage Sees Earnings Grow as It Boosts AI Use](https://www.bloomberg.com/news/articles/2026-04-09/thoma-bravo-s-realpage-sees-earnings-grow-as-it-boosts-ai-use)**
+
+Bloomberg.com • 53m ago
+
+---
+
+**[Elon Musk's xAI sues Colorado over state's new AI law](https://www.reuters.com/legal/government/elon-musks-xai-sues-colorado-over-states-new-ai-law-2026-04-09/)**
+
+Reuters • 31m ago
+
+---
+
+**[Man arrested in Puerto Rico for using AI deepfake to mislead Seminole County deputy](https://www.wesh.com/article/man-arrested-using-ai-deepfake-mislead-seminole-deputy/70979156)**
+
+A man was arrested in Puerto Rico after allegedly using an AI-generated deepfake video to deceive a Seminole County deputy.
+
+WESH • 28m ago
 
 ---
 
@@ -203,7 +203,7 @@ Fortune • 13h ago
 
 A new initiative to secure the world’s most critical software and give defenders a durable advantage in the coming AI-driven era of cybersecurity.
 
-⬆️ 1509 • 💬 821 • 2d ago • [anthropic.com](https://www.anthropic.com/glasswing)
+⬆️ 1510 • 💬 821 • 2d ago • [anthropic.com](https://www.anthropic.com/glasswing)
 
 ---
 
@@ -227,19 +227,19 @@ Large language models may be standardizing human expression and subtly influenci
 
 In 1958, Mao ordered every village to produce steel. The steel was useless. The crops rotted. Today's top-down AI mandates are producing the same pattern: ba...
 
-⬆️ 120 • 💬 59 • 1d ago • [Han, Not Solo](https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/)
+⬆️ 121 • 💬 59 • 1d ago • [Han, Not Solo](https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/)
 
 ---
 
 **[Ask HN: What are you building that's not AI related?](https://news.ycombinator.com/item?id=47700460)**
 
-⬆️ 112 • 💬 132 • 14h ago
+⬆️ 114 • 💬 134 • 15h ago
 
 ---
 
 **[Study found that young adults have grown less hopeful and more angry about AI](https://news.ycombinator.com/item?id=47704443)**
 
-⬆️ 102 • 💬 151 • 7h ago • [nytimes.com](https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html)
+⬆️ 105 • 💬 156 • 8h ago • [nytimes.com](https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html)
 
 ---
 
@@ -259,7 +259,7 @@ In 1958, Mao ordered every village to produce steel. The steel was useless. The 
 
 Thanks to the new possibilities afforded by AI coding tools, the App Store is seeing a resurgence in new app submissions.
 
-⬆️ 64 • 💬 73 • 18h ago • [9to5Mac](https://9to5mac.com/2026/04/06/app-store-sees-84-surge-in-new-apps-as-ai-coding-tools-take-off/)
+⬆️ 64 • 💬 73 • 19h ago • [9to5Mac](https://9to5mac.com/2026/04/06/app-store-sees-84-surge-in-new-apps-as-ai-coding-tools-take-off/)
 
 ---
 
@@ -281,17 +281,7 @@ Could AI become dangerous? Can we trust AI Agents? AGI. Use code insideai at htt
 
 📺 InsideAI
 
-👁️ 28K • 👍 3K • 💬 309 • ⏱️ 16:24 • 5h ago
-
----
-
-**[&#39;Terrifying warning sign&#39;: Anthropic delays AI model over security concerns](https://www.youtube.com/watch?v=htBaVVh_k90)**
-
-Anthropic says Mythos (officially dubbed “Claude Mythos Preview”) is not ready for a public launch because of the ways it could ...
-
-📺 CNN
-
-👁️ 654K • 👍 9K • 💬 2K • ⏱️ 9:58 • 20h ago
+👁️ 88K • 👍 6K • 💬 500 • ⏱️ 16:24 • 6h ago
 
 ---
 
@@ -301,27 +291,17 @@ Hello guys and gals, it's me Mutahar again! This time we take a look at Claude M
 
 📺 SomeOrdinaryGamers
 
-👁️ 350K • 👍 15K • 💬 2K • ⏱️ 20:17 • 1d ago
+👁️ 368K • 👍 15K • 💬 2K • ⏱️ 20:17 • 1d ago
 
 ---
 
-**[Half of AI data centers are delayed and canceled, desperate for Chinese electrical gear](https://www.youtube.com/watch?v=Nmjq0Q4yvV8)**
+**[Why Meta&#39;s New AI Model Is Such A Big Deal](https://www.youtube.com/watch?v=rXSPopXet1o)**
 
-Tech companies are investing billions of dollars in chips that cannot be turned on, because of a severe shortage of electrical ...
+Meta has launched Muse Spark, its most powerful AI model yet and the first major product from Chief AI Officer Alexandr Wang's ...
 
-📺 Inside China Business
+📺 CNBC
 
-👁️ 33K • 👍 3K • 💬 338 • ⏱️ 5:05 • 9h ago
-
----
-
-**[Nobel Prize Winner: Nobody Sees What&#39;s Coming After AI](https://www.youtube.com/watch?v=vZLY2YGUk4o)**
-
-Plaud NotePro has been really helpful for me to capture ideas and conversations. You can get 10% off with the code " SILICON10" ...
-
-📺 Silicon Valley Girl
-
-👁️ 63K • 👍 2K • 💬 118 • ⏱️ 22:28 • 1d ago
+👁️ 3K • 👍 120 • 💬 21 • ⏱️ 3:07 • 2h ago
 
 ---
 
@@ -331,27 +311,47 @@ Simplify Your Workflow With Odoo Today: https://www.odoo.com/r/fHO 4000+ read ou
 
 📺 Economics Explained
 
-👁️ 131K • 👍 6K • 💬 548 • ⏱️ 16:52 • 8h ago
+👁️ 191K • 👍 8K • 💬 713 • ⏱️ 16:52 • 9h ago
 
 ---
 
-**[Teen Uses AI To Do The Unthinkable](https://www.youtube.com/watch?v=dB93nEgBiew)**
+**[&#39;Terrifying warning sign&#39;: Anthropic delays AI model over security concerns](https://www.youtube.com/watch?v=htBaVVh_k90)**
 
-Disclaimer: NMLS 182334, nmlsconsumeraccess.org. APR for rates in the 5s start at 6.196% for well qualified borrowers.
+Anthropic says Mythos (officially dubbed “Claude Mythos Preview”) is not ready for a public launch because of the ways it could ...
 
-📺 Sheriff Lamb
+📺 CNN
 
-👁️ 102K • 👍 7K • 💬 1K • ⏱️ 23:16 • 9h ago
+👁️ 688K • 👍 9K • 💬 2K • ⏱️ 9:58 • 21h ago
 
 ---
 
-**[OpenAI Just Dropped The Real Plan After AGI Hits](https://www.youtube.com/watch?v=u9Azd3weYCY)**
+**[Nobel Prize Winner: Nobody Sees What&#39;s Coming After AI](https://www.youtube.com/watch?v=vZLY2YGUk4o)**
 
-OpenAI just dropped a policy blueprint built around one huge idea: superintelligence could hit hard enough to force a whole new ...
+Plaud NotePro has been really helpful for me to capture ideas and conversations. You can get 10% off with the code " SILICON10" ...
 
-📺 AI Revolution
+📺 Silicon Valley Girl
 
-👁️ 27K • 👍 903 • 💬 123 • ⏱️ 13:17 • 1d ago
+👁️ 69K • 👍 2K • 💬 127 • ⏱️ 22:28 • 1d ago
+
+---
+
+**[Gemma 4   Google just made AI free forever](https://www.youtube.com/watch?v=hk6go5jioTk)**
+
+What if you could run ChatGPT-level AI on your Mac and iPhone for free, with no internet? Google just made it possible with ...
+
+📺 The Tech Girl
+
+👁️ 109K • 👍 4K • 💬 229 • ⏱️ 8:27 • 1d ago
+
+---
+
+**[Half of AI data centers are delayed and canceled, desperate for Chinese electrical gear](https://www.youtube.com/watch?v=Nmjq0Q4yvV8)**
+
+Tech companies are investing billions of dollars in chips that cannot be turned on, because of a severe shortage of electrical ...
+
+📺 Inside China Business
+
+👁️ 39K • 👍 4K • 💬 372 • ⏱️ 5:05 • 10h ago
 
 ---
 
@@ -361,17 +361,17 @@ Full courses + unlimited support: https://www.skool.com/ai-automation-society-pl
 
 📺 Nate Herk | AI Automation
 
-👁️ 170K • 👍 5K • 💬 637 • ⏱️ 7:50 • 1d ago
+👁️ 173K • 👍 5K • 💬 640 • ⏱️ 7:50 • 1d ago
 
 ---
 
-**[Hank and Bernie talk about AI (for real)](https://www.youtube.com/watch?v=hLcY30KEeNs)**
+**[The Best Claude AI Business Ideas For Beginners](https://www.youtube.com/watch?v=us_9ogFJRUo)**
 
-Bernie and I do not agree on everything, but we agree on a lot!! I wish we could've talked longer but here's where we went!
+Check out what people are creating (and selling!) with Claude AI - it's crazy... ▻ Get My FREE AI Print On Demand Business ...
 
-📺 Hank Green
+📺 Wholesale Ted
 
-👁️ 602K • 👍 33K • 💬 3K • ⏱️ 30:54 • 2d ago
+👁️ 69K • 👍 4K • 💬 178 • ⏱️ 15:19 • 2d ago
 
 ---
 
@@ -387,7 +387,7 @@ Gemma 4 31B is an instruction-tuned, multimodal LLM capable of processing text a
 
 `image-text-to-text` `32.7B`
 
-⬇️ 1,333,678 • ❤️ 1,552 • 7d ago
+⬇️ 1,333,678 • ❤️ 1,558 • 7d ago
 
 ---
 
@@ -399,7 +399,7 @@ Gemma-4-31B-JANG_4M-CRACK is a 31B parameter text-generation model optimized for
 
 `text-generation` `6.4B`
 
-⬇️ 59,852 • ❤️ 843 • 5d ago
+⬇️ 59,852 • ❤️ 848 • 5d ago
 
 ---
 
@@ -411,7 +411,7 @@ GLM-5.1 is a next-generation language model optimized for agentic engineering, f
 
 `text-generation` `753.9B`
 
-⬇️ 8,465 • ❤️ 837 • 1d ago
+⬇️ 8,465 • ❤️ 844 • 1d ago
 
 ---
 
@@ -423,7 +423,7 @@ VOID is a video-to-video diffusion model for object and interaction removal, cap
 
 `video-to-video`
 
-⬇️ 0 • ❤️ 691 • 3d ago
+⬇️ 0 • ❤️ 697 • 3d ago
 
 ---
 
@@ -435,31 +435,7 @@ VoxCPM2 is a 2B parameter, 30-language multilingual text-to-speech model capable
 
 `text-to-speech`
 
-⬇️ 1,815 • ❤️ 588 • 1d ago
-
----
-
-**[gemma-4-26B-A4B-it](https://huggingface.co/google/gemma-4-26B-A4B-it)**
-
-*Google*
-
-Gemma 4 26B A4B is a multimodal instruction-tuned model capable of processing text and image inputs to generate text outputs. It features a 256K token context window, a Mixture-of-Experts (MoE) architecture with 3.8B active parameters for efficient inference, and excels at reasoning, coding, and agentic workflows.
-
-`image-text-to-text` `26.5B`
-
-⬇️ 1,046,548 • ❤️ 563 • 7d ago
-
----
-
-**[gemma-4-E4B-it](https://huggingface.co/google/gemma-4-E4B-it)**
-
-*Google*
-
-Gemma 4 E4B is a multimodal, instruction-tuned LLM from Google DeepMind, supporting text and audio input with text output. It excels in reasoning, coding, and agentic tasks, featuring a 128K context window and efficient on-device deployment capabilities.
-
-`any-to-any` `8.0B`
-
-⬇️ 784,026 • ❤️ 533 • 7d ago
+⬇️ 1,815 • ❤️ 589 • 1d ago
 
 ---
 
@@ -471,7 +447,31 @@ This image-text-to-text model, Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled, 
 
 `image-text-to-text` `27.8B`
 
-⬇️ 564,664 • ❤️ 2,538 • 3d ago
+⬇️ 564,664 • ❤️ 2,542 • 3d ago
+
+---
+
+**[gemma-4-26B-A4B-it](https://huggingface.co/google/gemma-4-26B-A4B-it)**
+
+*Google*
+
+Gemma 4 26B A4B is a multimodal instruction-tuned model capable of processing text and image inputs to generate text outputs. It features a 256K token context window, a Mixture-of-Experts (MoE) architecture with 3.8B active parameters for efficient inference, and excels at reasoning, coding, and agentic workflows.
+
+`image-text-to-text` `26.5B`
+
+⬇️ 1,046,548 • ❤️ 566 • 7d ago
+
+---
+
+**[gemma-4-E4B-it](https://huggingface.co/google/gemma-4-E4B-it)**
+
+*Google*
+
+Gemma 4 E4B is a multimodal, instruction-tuned LLM from Google DeepMind, supporting text and audio input with text output. It excels in reasoning, coding, and agentic tasks, featuring a 128K context window and efficient on-device deployment capabilities.
+
+`any-to-any` `8.0B`
+
+⬇️ 784,026 • ❤️ 537 • 7d ago
 
 ---
 
@@ -483,7 +483,7 @@ OmniVoice is a massively multilingual, zero-shot text-to-speech model supporting
 
 `text-to-speech`
 
-⬇️ 200,591 • ❤️ 434 • 4d ago
+⬇️ 200,591 • ❤️ 439 • 4d ago
 
 ---
 
@@ -511,7 +511,7 @@ Qianfan-OCR is a 4B-parameter end-to-end vision-language model for document inte
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 158 • 💬 7 • ⭐ 37,942 • 7mo ago
+▲ 159 • 💬 7 • ⭐ 37,942 • 7mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -523,7 +523,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 40 • 💬 2 • ⭐ 48,801 • 15mo ago
+▲ 40 • 💬 2 • ⭐ 48,954 • 15mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -645,7 +645,7 @@ The highest-scoring AI memory system ever benchmarked. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 34.7k • 🔱 4.4k • 3h ago
+⭐ 35.3k • 🔱 4.4k • 4h ago
 
 ---
 
@@ -655,7 +655,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 27.3k • 🔱 5.1k • 5h ago
+⭐ 27.6k • 🔱 5.1k • 6h ago
 
 ---
 
@@ -665,7 +665,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Ope
 
 `Python` `claude-code` `codex` `graphrag` `knowledge-graph` `openclaw`
 
-⭐ 17.1k • 🔱 1.7k • 5h ago
+⭐ 17.4k • 🔱 1.8k • 1h ago
 
 ---
 
@@ -675,7 +675,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 14.7k • 🔱 1.4k • 2h ago
+⭐ 14.7k • 🔱 1.4k • 3h ago
 
 ---
 
@@ -689,6 +689,16 @@ Clone any website with one command using AI coding agents
 
 ---
 
+**[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)**
+
+🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
+
+`Python` `ai` `anthropic` `caveman` `claude` `claude-code`
+
+⭐ 8.7k • 🔱 382 • 3h ago
+
+---
+
 **[calesthio/Crucix](https://github.com/calesthio/Crucix)**
 
 Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.
@@ -699,23 +709,13 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 ---
 
-**[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)**
-
-🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
-
-`Python` `ai` `anthropic` `caveman` `claude` `claude-code`
-
-⭐ 8.6k • 🔱 374 • 2h ago
-
----
-
 **[larksuite/cli](https://github.com/larksuite/cli)**
 
 The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.
 
 `Go`
 
-⭐ 7.2k • 🔱 441 • 6h ago
+⭐ 7.2k • 🔱 442 • 7h ago
 
 ---
 
