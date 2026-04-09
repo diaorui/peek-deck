@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-09T21:09:27.605922+00:00'
+updated: '2026-04-09T22:05:34.149908+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- social
 - videos
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 09, 2026 at 21:09 UTC  
+**Last Updated:** April 09, 2026 at 22:05 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,218.64
+### $2,210.31
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** +7.9%  
-**30d:** +8.0%  
-**90d:** -28.2%  
-**1y:** +45.6%  
+**24h:** +1.0%  
+**7d:** +7.7%  
+**30d:** +7.9%  
+**90d:** -28.3%  
+**1y:** +45.4%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Tom Lee went on CNBC saying the market bottom is probably already in, and that crypto (especially ETH) could lead the next move up. But the interesting part is he’s not just talking — the company he chairs (BitMine) keeps stacking ETH hard. They’re sitting on ~4.8M ETH (close to 4% of supply), with a huge chunk staked. That’s not trading, that’s positioning. Feels like one of the first times we’re seeing a macro thesis + actual balance sheet move fully aligned around Ethereum. Source: https://btcusa.com/tom-lee-says-the-market-bottom-is-in-as-bitmine-doubles-down-on-ethereum/
 
-9h ago
+10h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The Ethereum Layer 2 powering Predictstreet. Built by Abu Dhabi's IHC, hosting a UAE central-bank-licensed stablecoin, with BlackRock and Mastercard as collaborators.
 
-🔗 [Company Gibraltar | company.gi](https://company.gi/blog/adi-chain-explained) • 11h ago
+🔗 [Company Gibraltar | company.gi](https://company.gi/blog/adi-chain-explained) • 12h ago
 
 ---
 
@@ -112,7 +112,7 @@ I've learnt that we can now invest in gold directly in crypto, which is quite ex
 
 I just built ethlocal.world: a simple way to explore Ethereum activity around the world. The idea was pretty straightforward: Ethereum is global, but it can still be surprisingly hard to get a quick sense of what’s happening locally or regionally. So I made a site that maps events and communities in one place and lets you browse by region and type. It takes data from ethereum.org and was inspired by the Codex Ambassadors globe. Link: https://ethlocal.world Would love honest feedback from people here: Is this actually useful? What feels missing or confusing? Is the globe view helpful, or do you mainly want a cleaner list/filter experience? What would make something like this genuinely valuable for local Ethereum communities? Built it as a small project for the Ethereum community, and I’d love to improve it based on feedback.
 
-1d ago
+2d ago
 
 ---
 
@@ -156,35 +156,35 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum treasury giant BitMine Immersion Technologies upped its share buyback program to $4 billion and was uplisted to the NYSE on Thursday.
 
-Decrypt • 5h ago
+Decrypt • 6h ago
 
 ---
 
-**[Ethereum Developer Announces Candidacy for U.S. Congress](https://www.yahoo.com/news/articles/ethereum-developer-announces-candidacy-u-170918408.html)**
+**[Bitcoin and Ethereum Open Interest Rises, Signaling Renewed Risk Appetite: CryptoQuant](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-open-interest-rises-201248053.html)**
 
-Joe "CupOJoseph" Schiarizzi is running for Congress as a Democrat in Virginia's new 7th district.
+Bitcoin and Ethereum are trading higher as open interest rises, providing some optimism about investors' risk-on appetite.
 
-Yahoo • 4h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Bloomberg Analyst Predicts This ‘Underdog’ Will Flip Bitcoin And Ethereum](https://www.tradingview.com/news/newsbtc:4c75342d7094b:0-bloomberg-analyst-predicts-this-underdog-will-flip-bitcoin-and-ethereum/)**
+**[Bitcoin and ethereum price today, Wednesday, April 8, 2026: Prices rise after U.S.-Iran ceasefire announcement](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-wednesday-april-8-2026-prices-rise-after-us-iran-ceasefire-announcement-113837833.html)**
 
-Bitcoin and Ethereum’s dominance is being directly challenged in a new outlook from Bloomberg Intelligence strategist Mike McGlone, who believes that an unexpected contender is positioning itself to overtake both. Tether USDT’s market cap is steadily closing in on Ethereum, and Mike McGlone thinks…
+Bitcoin (BTC-USD) opened higher at $71,926.16 and ethereum (ETH-USD) opened higher at $2,239.89 following President Trump’s announcement of a temporary ceasefire agreement with Iran.
 
-TradingView • 4h ago
+Yahoo Finance • 1d ago
 
 ---
 
 **[Bitcoin Price Falls. Why Faltering Iran Cease-Fire Could Crush Cryptos.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-today-2ef03b04)**
 
-Barron's • 14h ago
+Barron's • 15h ago
 
 ---
 
 **[Most large cryptocurrencies fall as Ethereum tumbles](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-as-ethereum-tumbles-91a2f421-9307bc266dcb)**
 
-MarketWatch • 7h ago
+MarketWatch • 8h ago
 
 ---
 
@@ -214,15 +214,15 @@ Forbes • 2d ago
 
 Galaxy Digital joins BlackRock's Ethereum Trust ETF as a validator, part of a regulated yield-bearing approach for ether exposure.
 
-Crypto Briefing • 4h ago
+Crypto Briefing • 5h ago
 
 ---
 
-**[Current price of Ethereum for April 9, 2026](https://fortune.com/article/price-of-ethereum-04-09-2026/)**
+**[Bitcoin vs. Ethereum: Which Crypto Is the Better Buy in 2026?](https://www.fool.com/investing/2026/04/09/bitcoin-vs-ethereum-crypto-better-buy-2026/)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+Both of these leading digital assets have lost roughly half of their value since hitting their peaks in the back half of 2025.
 
-Fortune • 8h ago
+The Motley Fool • 11h ago
 
 ---
 
@@ -246,7 +246,7 @@ In this video, I take a closer look at the current Ethereum market structure and
 
 📺 More Crypto Online
 
-👁️ 868 • 👍 104 • 💬 10 • ⏱️ 10:05 • 2h ago
+👁️ 868 • 👍 104 • 💬 10 • ⏱️ 10:05 • 3h ago
 
 ---
 
@@ -256,7 +256,7 @@ In this video, I take a closer look at the current Ethereum market structure and
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 170 • 💬 14 • ⏱️ 10:28 • 20h ago
+👁️ 3K • 👍 170 • 💬 14 • ⏱️ 10:28 • 21h ago
 
 ---
 
@@ -266,7 +266,7 @@ In this video, we explain what an XRP node is, why node operation has recently g
 
 📺 Discover Health
 
-👁️ 4K • 👍 192 • ⏱️ 4:44 • 8h ago
+👁️ 4K • 👍 192 • ⏱️ 4:44 • 9h ago
 
 ---
 
@@ -276,7 +276,7 @@ ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the
 
 📺 LUAHA PRO
 
-👁️ 5K • 👍 3K • 5h ago
+👁️ 5K • 👍 3K • 6h ago
 
 ---
 
@@ -286,7 +286,7 @@ Jetzt gratis sichern → https://www.blockchain-investor.de/app Die neue „Bloc
 
 📺 Krypto Report
 
-👁️ 2K • 👍 337 • 💬 9 • ⏱️ 18:19 • 4h ago
+👁️ 2K • 👍 337 • 💬 9 • ⏱️ 18:19 • 5h ago
 
 ---
 
@@ -296,7 +296,7 @@ Ethereum está pasando por uno de los momentos más complicados de todo este cic
 
 📺 Healthy Pockets
 
-👁️ 4K • 👍 391 • 💬 23 • ⏱️ 14:46 • 6h ago
+👁️ 4K • 👍 391 • 💬 23 • ⏱️ 14:46 • 7h ago
 
 ---
 
@@ -306,7 +306,7 @@ invested in crypto — who wins? Watch the insane volatility of BTC, ETH, and SO
 
 📺 Data Insights
 
-👁️ 759 • 👍 10 • ⏱️ 0:41 • 3h ago
+👁️ 759 • 👍 10 • ⏱️ 0:41 • 4h ago
 
 ---
 

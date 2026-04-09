@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-09T21:09:27.600754+00:00'
+updated: '2026-04-09T22:05:34.143410+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- social
 - videos
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 09, 2026 at 21:09 UTC  
+**Last Updated:** April 09, 2026 at 22:05 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.8%  
-**7d:** +7.7%  
-**30d:** +2.7%  
-**90d:** -20.3%  
-**1y:** -9.6%  
+**24h:** +1.9%  
+**7d:** +8.2%  
+**30d:** +3.1%  
+**90d:** -20.0%  
+**1y:** -9.2%  
 
 ---
 
@@ -77,11 +77,27 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Bitcoin Payments Allowed for Hormuz Tanker Tolls](https://www.reddit.com/r/Bitcoin/comments/1sh2b7q/bitcoin_payments_allowed_for_hormuz_tanker_tolls/)**
+
+I can't believe this story hasn't been posted here yet. Personally, I'm skeptical that this holds up over time, obviously the situation in this region is very fluid at the moment. The implications here, even if this particular use of Bitcoin doesn't manifest or last long, are massive though. The US is waning in influence over control of global commerce, and we're quickly entering a much more contentious, multi-polar world. Bitcoin has always been the obvious choice for a global reserve currency in such a scenario, and I think a lot of people who were sleeping on it as some worthless gimmick are in for a rude awakening. Move over petro-dollar, the petro-sat is here lmao
+
+🔗 [The Block](https://www.theblock.co/post/396711/bitcoin-payments-allowed-hormuz-tanker-tolls-iran-2-million-per-ship-report) • 1h ago
+
+---
+
 **[Adam Back says he is not Bitcoin founder Satoshi Nakamoto](https://www.reddit.com/r/Bitcoin/comments/1sgiuro/adam_back_says_he_is_not_bitcoin_founder_satoshi/)**
 
 On X, Adam Back addressed, external the New York Times' assertion that he was absent on Bitcoin forums at the time when Satoshi was most active and then came back once Satoshi had vanished - saying he actually "did a lot of yakking" on the forums at the time. He said the rest of the New York Times evidence is "a combination of coincidence and similar phrases from people with similar experience and interests".
 
-🔗 [BBC News](https://www.bbc.co.uk/news/articles/cgrl4l1y9yxo) • 13h ago
+🔗 [BBC News](https://www.bbc.co.uk/news/articles/cgrl4l1y9yxo) • 14h ago
+
+---
+
+**[Do you run a Bitcoin node?](https://www.reddit.com/r/Bitcoin/comments/1sgwocr/do_you_run_a_bitcoin_node/)**
+
+Are you a user who contributes to the Bitcoin network? For example, by running a node or mining Bitcoin?
+
+4h ago
 
 ---
 
@@ -89,7 +105,7 @@ On X, Adam Back addressed, external the New York Times' assertion that he was ab
 
 It's been a wild week for solo miners. Four different miners hit blocks in the past 7 days across three different solo pools, taking home a combined ~12.47 BTC (~$853,000 USD). The little guys keep winning. 🟠 [Block 943,411](https://mempool.space/block/00000000000000000000bef7f0870c24f2962cf83949e96c7288cf30f0d74bf0) (April 2) Pool: Solo CK Hashrate: ~240 TH/s Reward: 3.07 BTC (~$205,949 USD) 3,961 transactions | 1.4M sats in fees Fee range: 0.00 to 477 sat/vB 312th solo block on CKPool. First in 33 days. Odds: ~1 in 28,000 per day 🟠 [Block 943,466](https://mempool.space/block/943466) (April 3) Pool: Public Pool (the pool's first ever solo block) Devices: NerdOCTAXE (8.2 TH/s) + NerdQaxe+ (2.9 TH/s) + NerdQaxe++ (7.4 TH/s) Total hashrate: 18.5 TH/s Reward: 3.14 BTC (~$209,597 USD) 2,359 transactions | 2.3M sats in fees Fee range: 1.00 to 448 sat/vB All open-source hardware. Zero pool fees. 🟠 [Block 944,078](https://mempool.space/block/944078) (April 7) Pool: Noderunners Mining Pool Device: NerdQaxe++ Reward: 3.13 BTC (~$215,163 USD) 3,927 transactions | 706.4k sats in fees Fee range: 0.13 to 85.0 sat/vB Another open-source miner gets a win. 🟠 [Block 944,306](https://mempool.space/block/000000000000000000012d5e7b4745f92b9cd60241854e38be68d9b182feabcb) (April 9) Pool: Solo CK (EU) Device: Antminer S19 (~70 TH/s) Reward: 3.128 BTC (~$222,722 USD) 440 transactions | 299.2k sats in fees Fee range: 1.00 to 20.25 sat/vB 313th solo block on CKPool Odds: ~1 in 100,000 per day (once every ~300 years) For context, the entire Bitcoin network is running at ~1 ZH/s (1,000,000 TH/s). These miners represent a rounding error of the total hashrate, yet they're pulling full block rewards worth six figures. Solo mining is the ultimate Bitcoin lottery. You either win everything or nothing. No reward splitting, no pool politics. Just you, your hardware, and SHA-256. 4 solo blocks in one week is absolutely nuts.
 
-7h ago
+8h ago
 
 ---
 
@@ -99,25 +115,25 @@ It's been a wild week for solo miners. Four different miners hit blocks in the p
 
 ---
 
-**[Do you run a Bitcoin node?](https://www.reddit.com/r/Bitcoin/comments/1sgwocr/do_you_run_a_bitcoin_node/)**
+**[Fear & Greed dropped from 17 to 14 AFTER a $72.7K rally and $471M in ETF inflows. That's never happened before and nobody's asking why.](https://www.reddit.com/r/Bitcoin/comments/1sgi7pw/fear_greed_dropped_from_17_to_14_after_a_727k/)**
 
-Are you a user who contributes to the Bitcoin network? For example, by running a node or mining Bitcoin?
+Think about what just happened. Iran ceasefire. Morgan Stanley launches a Bitcoin ETF. $471M pours into BTC ETFs in a single day. Price hits $72.7K. $280M in shorts get liquidated. And sentiment got WORSE. Not better. Worse. Fear & Greed was 17 before the rally. Today it's 14. The market saw the most bullish news combination in months and responded by getting more afraid. I've been watching this index for a long time. A rally on major positive catalysts that DROPS sentiment instead of lifting it tells you one thing: the people with real money don't believe this move. The $280M in liquidations means the pump was fueled by short squeezes, not by new buyers who want to hold. Halving anniversary is April 20. CPI drops tomorrow. The next two weeks will tell us if this was the start of something or just noise. But that Fear & Greed number should bother everyone who went long yesterday.
 
-3h ago
+15h ago
 
 ---
 
 **[How Africa can build the entire continent on bitcoin](https://www.reddit.com/r/Bitcoin/comments/1sgth1x/how_africa_can_build_the_entire_continent_on/)**
 
-🔗 [substack.com](https://substack.com/home/post/p-193685747) • 5h ago
+🔗 [substack.com](https://substack.com/home/post/p-193685747) • 6h ago
 
 ---
 
-**[Fear & Greed dropped from 17 to 14 AFTER a $72.7K rally and $471M in ETF inflows. That's never happened before and nobody's asking why.](https://www.reddit.com/r/Bitcoin/comments/1sgi7pw/fear_greed_dropped_from_17_to_14_after_a_727k/)**
+**[Third solo miner within a week finding a full bitcoin block 🤯](https://www.reddit.com/r/Bitcoin/comments/1sh2wvd/third_solo_miner_within_a_week_finding_a_full/)**
 
-Think about what just happened. Iran ceasefire. Morgan Stanley launches a Bitcoin ETF. $471M pours into BTC ETFs in a single day. Price hits $72.7K. $280M in shorts get liquidated. And sentiment got WORSE. Not better. Worse. Fear & Greed was 17 before the rally. Today it's 14. The market saw the most bullish news combination in months and responded by getting more afraid. I've been watching this index for a long time. A rally on major positive catalysts that DROPS sentiment instead of lifting it tells you one thing: the people with real money don't believe this move. The $280M in liquidations means the pump was fueled by short squeezes, not by new buyers who want to hold. Halving anniversary is April 20. CPI drops tomorrow. The next two weeks will tell us if this was the start of something or just noise. But that Fear & Greed number should bother everyone who went long yesterday.
+Against all odds seems getting played out 😀 three solo miners within a week found a block. This time using a NerdQaxe home miner.
 
-14h ago
+🔗 [X (formerly Twitter)](https://x.com/fintech_portal/status/2042004368182878626?s%3D12%26t%3DQXidZHNKuKMyEWFHanWdSA) • 37m ago
 
 ---
 
@@ -125,27 +141,13 @@ Think about what just happened. Iran ceasefire. Morgan Stanley launches a Bitcoi
 
 A lot of people assume self-custody is too complicated, but with the right tools it's pretty simple. Curious what setups others here are using?
 
-6h ago
-
----
-
-**[They hate this little trick](https://www.reddit.com/r/Bitcoin/comments/1sg3mx1/they_hate_this_little_trick/)**
-
-1d ago
+7h ago
 
 ---
 
 **[What Is the Correct Investment Philosophy?](https://www.reddit.com/r/Bitcoin/comments/1sgx6wh/what_is_the_correct_investment_philosophy/)**
 
 What Does the Right Investment Philosophy Really Look Like? I’ve noticed that too many people jump into trading stocks, options, and cryptocurrencies without understanding the market at all. They treat investing like gambling I used to be exactly the same. I’d see one piece of news and think this is going to moon, or hear someone say a coin would 10x, and immediately open an account, add leverage, and go all in. The result? Emotions took over. I traded frequently, couldn’t stick to stop losses, and definitely couldn’t take profits. In the end, I lost a lot of money. That wasn’t investing, it was just being a really bad gambler Later, I switched everything to a long-term strategy, and it completely changed both my approach and my mindset. I stopped staring at candlestick charts every day, stopped getting anxious over daily price swings, and stopped trying to predict where the market would be next month In my opinion, the right investment philosophy can actually be summarized in a few simple points: Buy things you truly understand. Practice delayed gratification. Diversify and hold long-term. Control greed and fear. Treat investing as a business, not a casino.More learning and research, instead of mindlessly losing money. Even something as “boring” as VOO is far better than throwing your money into the abyss, at least it’s stable
-
-3h ago
-
----
-
-**[Online Bitcoin Meetup](https://www.reddit.com/r/Bitcoin/comments/1sgvd6b/online_bitcoin_meetup/)**
-
-If anyone is interested, we have an online-only Bitcoin Meetup group where we have live video discussions on various Bitcoin topics with other Bitcoiners. No shitcoins allowed! Our next event is April 16th. https://www.meetup.com/bitcoin-worldwide/events/313614294/?eventOrigin=group_upcoming_events
 
 4h ago
 
@@ -155,23 +157,23 @@ If anyone is interested, we have an online-only Bitcoin Meetup group where we ha
 
 ## Google News: "bitcoin"
 
-**[Adam Back explains why he's not bitcoin creator Satoshi Nakamoto](https://finance.yahoo.com/markets/crypto/article/adam-back-explains-why-hes-not-bitcoin-creator-satoshi-nakamoto-172837820.html)**
+**[Adam Back Denies He Is Satoshi Nakamoto in Response to Times Investigation](https://www.nytimes.com/2026/04/08/business/adam-back-satoshi-nakamoto-bitcoin.html)**
 
-The Blockstream CEO told Yahoo Finance that the real creator of Bitcoin wouldn't be doing interviews or speaking at conferences under their real name.
-
-Yahoo Finance • 3h ago
-
----
-
-**[Buy Bitcoin at Night](https://www.bloomberg.com/opinion/newsletters/2026-04-09/buy-bitcoin-at-night)**
-
-Bloomberg.com • 3h ago
+The New York Times • 1d ago
 
 ---
 
 **[Bitcoin miners are losing money minting coins. It’s the same problem that killed the penny.](https://www.marketwatch.com/story/bitcoin-miners-are-losing-money-minting-coins-its-the-same-problem-that-killed-the-penny-f907db5c)**
 
-MarketWatch • 1h ago
+MarketWatch • 2h ago
+
+---
+
+**[Circle (CRCL) and Bullish (BLSH) fail to participate in Thursday rally](https://www.coindesk.com/markets/2026/04/09/bitcoin-tops-usd72-000-but-circle-and-bullish-drop-sharply-after-downgrades)**
+
+Eased Middle East tensions pushed crypto prices and U.S. stocks sizable hjigher.
+
+CoinDesk • 54m ago
 
 ---
 
@@ -181,9 +183,11 @@ Forbes • 1d ago
 
 ---
 
-**[Bitcoin steadies around $70.5k amid doubts over Iran ceasefire](https://www.investing.com/news/stock-market-news/bitcoin-slips-below-71k-amid-doubts-over-iran-ceasefire-4604616)**
+**[Bearish bets on bitcoin, ether, oil shorts lead $427 million wipeout on US-Iran ceasefire](https://www.coindesk.com/markets/2026/04/08/bitcoin-ether-oil-shorts-lead-usd427-million-wipeout-on-us-iran-ceasefire)**
 
-Investing.com • 6h ago
+Short sellers betting on continued war escalation lost $427 million in 24 hours as bitcoin vaulted past $72,000 on the ceasefire announcement.
+
+CoinDesk • 1d ago
 
 ---
 
@@ -197,27 +201,29 @@ Yahoo Finance • 1d ago
 
 **[Bitcoin Price Falls. Why Faltering Iran Cease-Fire Could Crush Cryptos.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-today-2ef03b04)**
 
-Barron's • 14h ago
+Barron's • 15h ago
 
 ---
 
-**[Bitcoin ETF Our "Best-Ever" Launch: Morgan Stanley's Oldenburg](https://www.bloomberg.com/news/videos/2026-04-09/bitcoin-etf-our-best-ever-launch-morgan-stanley-video)**
+**[Strategy's Michael Saylor says bitcoin likely bottomed near $60K, suggests quantum risk is overblown](https://www.theblock.co/post/396836/strategys-michael-saylor-says-bitcoin-likely-bottomed-near-60k-suggests-quantum-risk-is-overblown)**
 
-Bloomberg.com • 21h ago
+Strategy's Michael Saylor said bitcoin has likely bottomed near $60,000 and downplayed quantum computing risks.
 
----
-
-**[Morgan Stanley's MSBT bitcoin ETF logs $34 million in first-day volume](https://www.theblock.co/post/396785/morgan-stanley-msbt-bitcoin-etf-volume)**
-
-Morgan Stanley Bitcoin Trust's first-day volume exceeded the $30 million estimate from Bloomberg Senior Analyst Eric Balchunas.
-
-The Block • 19h ago
+The Block • 11h ago
 
 ---
 
-**[Did The NYT Identify Bitcoin's Creator? Morgan Stanley Launches ETF, Cryptos Rally.](https://www.investors.com/news/bitcoin-price-satoshi-nakamoto-identity-nyt-investigation-adam-back-morgan-stanley-bitcoin-etf/)**
+**[Bitcoin, solana surge as Iran looks to charge tolls for Strait of Hormuz passage to be paid in crypto](https://finance.yahoo.com/news/bitcoin-solana-surge-as-iran-looks-to-charge-tolls-for-strait-of-hormuz-passage-to-be-paid-in-crypto-142009952.html)**
 
-Investor's Business Daily • 1d ago
+Iran is looking to charge shipowners a fee of $1 per barrel of oil onboard for safe passage across the Strait of Hormuz, to be paid in cryptocurrency, according to the Financial Times.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[‘Will Be Destroyed’—Iran’s Bitcoin Toll Sparks $100K Price Prediction](https://www.forbes.com/sites/digital-assets/2026/04/08/will-be-destroyed-irans-bitcoin-toll-sparks-100k-price-prediction/)**
+
+Forbes • 1d ago
 
 ---
 
@@ -227,7 +233,7 @@ Investor's Business Daily • 1d ago
 
 **[Who is Satoshi Nakamoto? My quest to unmask Bitcoin's creator](https://news.ycombinator.com/item?id=47685320)**
 
-⬆️ 584 • 💬 758 • 1d ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)
+⬆️ 587 • 💬 763 • 1d ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)
 
 ---
 
@@ -235,7 +241,7 @@ Investor's Business Daily • 1d ago
 
 Country’s oil exporters’ union says toll to be paid in cryptocurrency and vessels monitored for weapons
 
-⬆️ 167 • 💬 269 • 1d ago • [ft.com](https://www.ft.com/content/02aefac4-ea62-48db-9326-c0da373b11b8)
+⬆️ 168 • 💬 270 • 1d ago • [ft.com](https://www.ft.com/content/02aefac4-ea62-48db-9326-c0da373b11b8)
 
 ---
 
@@ -243,7 +249,7 @@ Country’s oil exporters’ union says toll to be paid in cryptocurrency and ve
 
 Neha Narula
 
-⬆️ 167 • 💬 133 • 2d ago • [nehanarula.org](https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html)
+⬆️ 167 • 💬 134 • 2d ago • [nehanarula.org](https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html)
 
 ---
 
@@ -259,7 +265,7 @@ Google Quantum AI: Quantum computer could break Bitcoin cryptography with under 
 
 The British computer scientist and entrepreneur has denied being the man who the New York Times identified at Satoshi Nakamoto.
 
-⬆️ 14 • 💬 1 • 1d ago • [bbc.com](https://www.bbc.com/news/articles/cgrl4l1y9yxo)
+⬆️ 15 • 💬 1 • 1d ago • [bbc.com](https://www.bbc.com/news/articles/cgrl4l1y9yxo)
 
 ---
 
@@ -279,7 +285,7 @@ April 03, 2026 - A new $100 million bond deal reveals exactly how traditional fi
 
 **[Bitcoin.com Deplatformed by YouTube](https://news.ycombinator.com/item?id=47697080)**
 
-⬆️ 4 • 💬 0 • 22h ago • [X (formerly Twitter)](https://twitter.com/i/status/2041756576600748142)
+⬆️ 4 • 💬 0 • 23h ago • [X (formerly Twitter)](https://twitter.com/i/status/2041756576600748142)
 
 ---
 
@@ -293,7 +299,7 @@ April 03, 2026 - A new $100 million bond deal reveals exactly how traditional fi
 
 New York Times report claims London-born Adam Back is creator of the cryptocurrency after comparing writings
 
-⬆️ 3 • 💬 1 • 22h ago • [the Guardian](https://www.theguardian.com/technology/2026/apr/08/british-computer-scientist-adam-back-denies-he-is-bitcoin-developer-satoshi-nakamoto)
+⬆️ 3 • 💬 1 • 23h ago • [the Guardian](https://www.theguardian.com/technology/2026/apr/08/british-computer-scientist-adam-back-denies-he-is-bitcoin-developer-satoshi-nakamoto)
 
 ---
 
@@ -307,7 +313,7 @@ Bitcoin #Crypto #Finance Is the Bitcoin bottom finally in? Tom Lee thinks so, ca
 
 📺 The Wolf Of All Streets
 
-👁️ 13K • 👍 751 • 💬 174 • ⏱️ 39:05 • 7h ago
+👁️ 13K • 👍 751 • 💬 174 • ⏱️ 39:05 • 8h ago
 
 ---
 
@@ -317,7 +323,7 @@ Who is Satoshi Nakamoto? Bitcoin's pseudonymous founder has hidden his identity 
 
 📺 New York Times Podcasts
 
-👁️ 9K • 👍 293 • 💬 115 • ⏱️ 53:18 • 6h ago
+👁️ 9K • 👍 293 • 💬 115 • ⏱️ 53:18 • 7h ago
 
 ---
 
@@ -337,7 +343,7 @@ Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FR
 
 📺 CryptosRUs
 
-👁️ 14K • 👍 813 • 💬 146 • ⏱️ 50:22 • 6h ago
+👁️ 14K • 👍 813 • 💬 146 • ⏱️ 50:22 • 7h ago
 
 ---
 
@@ -357,7 +363,7 @@ MASSIVE Bitcoin News!! Satoshi Revealed!? What Comes Next? (Watch the whole vide
 
 📺 Altcoin Daily
 
-👁️ 47K • 👍 2K • 💬 187 • ⏱️ 12:14 • 22h ago
+👁️ 47K • 👍 2K • 💬 187 • ⏱️ 12:14 • 23h ago
 
 ---
 

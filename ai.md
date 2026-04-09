@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-09T21:09:27.593450+00:00'
+updated: '2026-04-09T22:05:34.134595+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- news
 - videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** April 09, 2026 at 21:09 UTC  
+**Last Updated:** April 09, 2026 at 22:05 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 "AI didn't deliver," Johns Hopkins professor Steve Hanke told Fortune. "Welcome to the real world. Forget the AI bubble."
 
-🔗 [Fortune](https://fortune.com/2026/04/09/ai-backlash-quiet-quitting-fobo-obsolete-white-collar-rebellion/) • 7h ago
+🔗 [Fortune](https://fortune.com/2026/04/09/ai-backlash-quiet-quitting-fobo-obsolete-white-collar-rebellion/) • 8h ago
+
+---
+
+**[Ohio man becomes first to be convicted under new AI statute for sexually explicit images](https://www.reddit.com/r/artificial/comments/1sh1gp5/ohio_man_becomes_first_to_be_convicted_under_new/)**
+
+James Strahler II pleaded guilty to cyberstalking, producing obscene images and digital forgeries of child sexual abuse
+
+🔗 [the Guardian](https://www.theguardian.com/us-news/2026/apr/08/ohio-man-convicted-ai-sexually-explicit-images) • 1h ago
 
 ---
 
@@ -61,43 +69,19 @@ now it just look 💯 real
 
 ---
 
+**[bad grammar is literally the last proof that ur human. and i think thats actually terrifying ngl](https://www.reddit.com/r/artificial/comments/1sgykr1/bad_grammar_is_literally_the_last_proof_that_ur/)**
+
+we're in this weird era now where everyone suddenly writes perfectly. every message, every email, every caption. no typos. no "lol sorry typed that too fast." no lowercase chaos. just. clean. polished. structured. english. and it's freaking me out bc clean polished english used to mean someone was smart or educated or careful. now it just means they hit "improve with AI" before they hit send. here's the part that actually keeps me up we spent years being embarrassed about bad grammar. teachers corrected it. bosses judged it. people got roasted in comment sections for it. and now? bad grammar is basically a flex. it's the handshake that says yeah, a real disorganized sleep-deprived actual human being typed this with their actual thumbs and didn't stop to clean it up bc they had something real to say and just said it. ur typos are ur fingerprints now. dont let anybody take them from you.
+
+3h ago
+
+---
+
 **[I legitimately think Anthropic is worth $100B more than it was a week ago](https://www.reddit.com/r/artificial/comments/1sgry22/i_legitimately_think_anthropic_is_worth_100b_more/)**
 
 A week ago I put out a first-day IPO market cap forecast for Anthropic with a reference point of $19B ARR. Then Anthropic announced their ARR had grown from $19B to $30B. I updated my forecast and now think Anthropic is worth at least $100B more than I did a week ago. I'm still anchoring growth rate assumptions to how companies have historically scaled revenue, but if growth trends from the last four decades were to continue, this would imply a company growing faster than any company in history (~$10B in 2025 to ~$100B by 2027.) Previously, I thought OpenAI could achieve that. Now it looks like Anthropic is the company to do it, but with an even steeper revenue curve, given that they hit their first billion in ARR much later than OpenAI. Of course, it's difficult to figure out how much weight we should give to ridiculously outsized growth in the age of AI. If historical growth patterns no longer apply, then $643B is way too conservative. (Full updated forecast: https://futuresearch.ai/anthropic-30b-arr-ipo-valuation/) The second implication of this week's news is IPO timing and whether the $30B number makes Anthropic list earlier than my original March 2027 date. Investor sentiment is hot now, and it's always risky to bet that growth will continue at this astounding rate. How much could waiting another year cost them?
 
-6h ago
-
----
-
-**[Visa rolls out AI agent shopping infrastructure](https://www.reddit.com/r/artificial/comments/1sgv6f4/visa_rolls_out_ai_agent_shopping_infrastructure/)**
-
-Visa's Intelligent Commerce platform lets AI agents shop, compare, and transact on behalf of consumers, and the company says the majority of business leaders are ready for it.
-
-🔗 [thedefiant.io](https://thedefiant.io/news/tradfi-and-fintech/visa-rolls-out-ai-agent-shopping-infrastructure-globally) • 4h ago
-
----
-
-**[OpenAI said ads were a "last resort." Then crossed $100M in 6 weeks.](https://www.reddit.com/r/artificial/comments/1sg9hyb/openai_said_ads_were_a_last_resort_then_crossed/)**
-
-Remember when Altman literally said in 2024 that ads are a last resort for them? Well. Here we are. What gets me isn’t the $100M itself — it’s that they hit it while the product is basically still in beta. Less than 20% of users see ads daily. No self-serve tools yet. No international rollout yet. 600 advertisers but most needed a $200K minimum just to get in. They haven’t even opened the floodgates and it’s already nine figures. The part I keep thinking about: Google built an empire on search intent — people typing what they want. ChatGPT has something different. People explain their whole situation to it. That’s a completely different level of signal for an advertiser. Whether they can scale this without killing the trust that makes the product work in the first place — that’s the actual story.
-
-21h ago
-
----
-
-**[The Truth About AI](https://www.reddit.com/r/artificial/comments/1sgzl6h/the_truth_about_ai/)**
-
-Across many subreddits, we see varying levels of ai acceptance/tolerance. Some subs will celebrate ai generated/edited posts, and then some will ban you without warning. Even when it comes to this wave of "vibe coded apps" we see the same thing. Some apps created with ai are truly jaw dropping while other apps look like a Picaso painting. Then people are so quick to blame ai for any "slop" content posted on the internet. But the truth is the ai isn't responsible for the slop, the creators are. You see what ai did was turn bad devs into mediocre devs, and mediocre devs into great devs, and great devs into elite devs (replace devs with whatever skill you want). Ai lowered the bar of entry while at the same time boosted the confidence of everyone using it. So while there may be slop produced along the gems, we should look at it as harvesting the wheat with the weeds.
-
-1h ago
-
----
-
-**[Meta commits to spending additional $21 billion with CoreWeave as AI costs keep rising](https://www.reddit.com/r/artificial/comments/1sgn05s/meta_commits_to_spending_additional_21_billion/)**
-
-The new spending will run between 2027 and 2032, as Meta boosts its own AI infrastructure while also counting on CoreWeave, which rents out Nvidia graphics chips. “They’re going to continue to do it themselves, but they’re also going to continue to do it with us,” CoreWeave CEO Mike Intrator said in an interview. “There’s just too much risk not to.”
-
-🔗 [CNBC](https://www.cnbc.com/2026/04/09/meta-commits-to-spending-additional-21-billion-with-coreweave-.html) • 9h ago
+7h ago
 
 ---
 
@@ -105,15 +89,31 @@ The new spending will run between 2027 and 2032, as Meta boosts its own AI infra
 
 You can ask Gemini to “help me visualize” different concepts.
 
-🔗 [The Verge](https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations) • 2h ago
+🔗 [The Verge](https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations) • 3h ago
 
 ---
 
-**[Why Anthropic’s new model has cybersecurity experts rattled](https://www.reddit.com/r/artificial/comments/1sgr44y/why_anthropics_new_model_has_cybersecurity/)**
+**[AI CEO vs Engineer (2026).](https://www.reddit.com/r/artificial/comments/1sgsldo/ai_ceo_vs_engineer_2026/)**
 
-The company says it has built its most dangerous model yet. Can its coalition of internet companies fix the internet before others catch up?
+This gave me a good chuckle. Wouldn't be so funny if it wasn't true.
 
-🔗 [Platformer](https://www.platformer.news/anthropic-mythos-cybersecurity-risk-experts/) • 6h ago
+🔗 [youtu.be](https://youtu.be/WAUnmQt2Z7Y?si=yZdOgQL1rFK_yi0x) • 6h ago
+
+---
+
+**[Visa rolls out AI agent shopping infrastructure](https://www.reddit.com/r/artificial/comments/1sgv6f4/visa_rolls_out_ai_agent_shopping_infrastructure/)**
+
+Visa's Intelligent Commerce platform lets AI agents shop, compare, and transact on behalf of consumers, and the company says the majority of business leaders are ready for it.
+
+🔗 [thedefiant.io](https://thedefiant.io/news/tradfi-and-fintech/visa-rolls-out-ai-agent-shopping-infrastructure-globally) • 5h ago
+
+---
+
+**[Can strangers in a discord server produce SOTA AI research? Let's find out. \](https://www.reddit.com/r/artificial/comments/1sh1etn/can_strangers_in_a_discord_server_produce_sota_ai/)**
+
+Most online communities are places to talk about research. Zeteo exists to produce research -- pressure-tested at every stage before a single word is published. Ideas at Zeteo compete for attention and resources. They are challenged, stress-tested, and either refined into something real or discarded. How it works Phase one — the hunt We begin with a declared goal. Not a vague direction like "Achieve AGI" -- a concrete research target. Our first: a state-of-the-art result in AI memory. From there, a one-month campaign begins. Members submit hypotheses to a single rate-limited channel each member can send one idea every six hours, a few lines each. Intuition only. Just the raw idea. This is not a channel for discussion. Phase two — selection Each day, a committee of humans and AI agents reviews what was submitted. Better ideas survive internally. This continues for a week. At the end of that, there will be a list of ideas that passed the first phase, another competitive reviewing of ideas by AI agents and human experts will graduate 5-7 ideas. Each will get their own thread, their own channels, their own team. This is where members whose ideas didn't graduate will shine. They will choose which project to join and contribute. Experiments, challenges, literature review. Phase three — survival After three weeks, threads are evaluated on one criterion: did real progress happen? Those that progressed graduate to paper writing. Those that didn't are archived. Phase four — publication The idea's originator (or biggest contributor) chooses their co-authors. Together they write and publish under the Zeteo Collective with full credit given to every contributor who shaped the work along the way. We are a structure designed to take a raw idea from a single person and turn it, through collective pressure and collective intelligence, into research worth publishing. Zeteo — from the Greek ζητέω — to seek, to inquire, to demand an answer. Join us https://discord.gg/QUfYzE6V Note: Some parts of this post may have been enhanced with AI for better readability. Also, I made this as an experiment and to support the AI community. This server will not profit or benefit me in anyway.
+
+1h ago
 
 ---
 
@@ -125,31 +125,21 @@ The company says it has built its most dangerous model yet. Can its coalition of
 
 A new initiative to secure the world’s most critical software and give defenders a durable advantage in the coming AI-driven era of cybersecurity.
 
-Anthropic • 2h ago
+Anthropic • 4h ago
 
 ---
 
-**[US software stocks slump on renewed AI disruption jitters](https://finance.yahoo.com/sectors/technology/articles/us-software-stocks-fall-anthropics-152738477.html)**
+**[Anthropic Claims Its New A.I. Model, Mythos, Is a Cybersecurity ‘Reckoning’](https://www.nytimes.com/2026/04/07/technology/anthropic-claims-its-new-ai-model-mythos-is-a-cybersecurity-reckoning.html)**
 
-U.S. software shares tumbled on Thursday after Anthropic held back the wide release of a powerful AI ‌model over concerns it could expose hidden cybersecurity vulnerabilities, deepening ‌investor fears about the threat to traditional software firms.  Anthropic said earlier this week it ​would only allow a group of around 40 companies, including Microsoft and Google, access to its "Claude Mythos" model because it has already found thousands of vulnerabilities, including some in every major operating system and web browser.  "If ‌Mythos is that strong ⁠and that powerful and it's exposing these vulnerabilities that have been around for years, it just shows one, ⁠the weakness of the current software that's out there and two, that AI is still making incredible progress versus legacy software companies," said Michael O’Rourke, ​chief ​market strategist at JonesTrading.
-
-Yahoo Finance • 5h ago
+The New York Times • 2d ago
 
 ---
 
-**[AI threat's relentless flogging of software stocks shows no end in sight with Anthropic's new agent](https://www.cnbc.com/2026/04/09/anthropic-new-ai-agent-software-stocks-selloff.html)**
+**[Why Anthropic sent its Claude AI to an actual psychiatrist](https://arstechnica.com/ai/2026/04/why-anthropic-sent-its-claude-ai-to-an-actual-psychiatrist/)**
 
-The latest revenue projections and updates from Anthropic revived investor fears of an AI day of reckoning coming for software.
+Mythos is "the most psychologically settled model we have trained to date."
 
-CNBC • 1h ago
-
----
-
-**[OpenAI shelves Stargate UK in blow to Britain’s AI ambitions](https://www.theguardian.com/technology/2026/apr/09/openai-pulls-out-of-landmark-31bn-uk-investment)**
-
-Artificial intelligence company cites high energy costs and regulation for putting landmark project on hold
-
-The Guardian • 8h ago
+Ars Technica • 45m ago
 
 ---
 
@@ -161,37 +151,47 @@ NBC News • 5h ago
 
 ---
 
-**[Opinion | What A.I. and D.E.I. Have in Common](https://www.nytimes.com/2026/04/09/opinion/ai-dei-arts-academics.html)**
+**[Axios Live: AI is empowering but isolating employees, workplace leaders say](https://www.axios.com/2026/04/09/axios-live-ai-is-empowering-but-isolating-employees-workplace-leaders-say)**
 
-The New York Times • 1h ago
-
----
-
-**[Gen Z's fading AI hype](https://www.axios.com/2026/04/09/ai-gen-z-polling-gallup)**
-
-Axios • 17h ago
+Axios • 1h ago
 
 ---
 
-**[Meta debuts new AI model in first test of costly ‘superintelligence’ team](https://www.theguardian.com/technology/2026/apr/09/meta-first-ai-model-muse-sparks)**
+**[Bosses Are Becoming Worse at Their Jobs. The Reason Why Is Obvious.](https://slate.com/technology/2026/04/ai-chatgpt-boss-employees-work.html)**
 
-Muse Spark was competitive with models from OpenAI, Google and Anthropic in language, but lagged in coding
+“They are getting cavities in their brains.”
 
-The Guardian • 3h ago
-
----
-
-**[Meta Unveils New A.I. Model, Its First From the Superintelligence Lab](https://www.nytimes.com/2026/04/08/technology/meta-muse-spark-ai-model.html)**
-
-The New York Times • 1d ago
+Slate • 6h ago
 
 ---
 
-**[Meta expands CoreWeave partnership with new $21B AI cloud deal](https://finance.yahoo.com/video/meta-expands-coreweave-partnership-with-new-21b-ai-cloud-deal-194036393.html)**
+**[US defense official overseeing AI reaped millions selling xAI stock after Pentagon entered agreement with company](https://www.theguardian.com/us-news/2026/apr/09/pentagon-ai-xai-emil-michael)**
 
-Meta Platforms (META) is doubling down on its partnership with CoreWeave (CRWV) through a new $21 billion deal to better leverage CoreWeave's AI cloud platform for scale. Meta also released its new Muse Spark AI model earlier this week. Yahoo Finance Tech Editor Dan Howley breaks down the headlines.
+Expert said federal law bars officials from taking actions in their jobs that benefit their own financial interests
 
-Yahoo Finance • 1h ago
+The Guardian • 2h ago
+
+---
+
+**[OpenAI slams Anthropic in memo to shareholders as its leading AI rival gains momentum](https://www.cnbc.com/2026/04/09/openai-slams-anthropic-in-memo-to-shareholders-as-rival-gains-momentum.html)**
+
+OpenAI sent a memo to investors blasting chief rival Anthropic for "operating on a meaningfully smaller curve."
+
+CNBC • 25m ago
+
+---
+
+**[Sotomayor says AI forecasting Supreme Court decisions a ‘bad thing,’ shows ‘we’re way too predictable’](https://thehill.com/regulation/court-battles/5824618-sotomayor-ai-judiciary-experiment/)**
+
+The Hill • 49m ago
+
+---
+
+**[A Meta employee created a dashboard so coworkers can compete to be the company's No. 1 AI token user](https://fortune.com/2026/04/09/meta-killed-employee-ai-token-dashboard/)**
+
+The company’s employees could compare themselves to their colleagues and earn achievement titles like “Model Connoisseur” and “Cache Wizard” on the “Claudeonomics” leaderboard.
+
+Fortune • 13h ago
 
 ---
 
@@ -203,7 +203,7 @@ Yahoo Finance • 1h ago
 
 A new initiative to secure the world’s most critical software and give defenders a durable advantage in the coming AI-driven era of cybersecurity.
 
-⬆️ 1507 • 💬 817 • 2d ago • [anthropic.com](https://www.anthropic.com/glasswing)
+⬆️ 1509 • 💬 821 • 2d ago • [anthropic.com](https://www.anthropic.com/glasswing)
 
 ---
 
@@ -223,14 +223,6 @@ Large language models may be standardizing human expression and subtly influenci
 
 ---
 
-**[Show HN: Hippo, biologically inspired memory for AI agents](https://news.ycombinator.com/item?id=47667672)**
-
-Biologically-inspired memory for AI agents. Decay, retrieval strengthening, consolidation. Zero dependencies. - kitfunso/hippo-memory
-
-⬆️ 128 • 💬 28 • 2d ago • [GitHub](https://github.com/kitfunso/hippo-memory)
-
----
-
 **[The AI Great Leap Forward](https://news.ycombinator.com/item?id=47695647)**
 
 In 1958, Mao ordered every village to produce steel. The steel was useless. The crops rotted. Today's top-down AI mandates are producing the same pattern: ba...
@@ -241,19 +233,13 @@ In 1958, Mao ordered every village to produce steel. The steel was useless. The 
 
 **[Ask HN: What are you building that's not AI related?](https://news.ycombinator.com/item?id=47700460)**
 
-⬆️ 106 • 💬 127 • 13h ago
+⬆️ 112 • 💬 132 • 14h ago
 
 ---
 
 **[Study found that young adults have grown less hopeful and more angry about AI](https://news.ycombinator.com/item?id=47704443)**
 
-⬆️ 98 • 💬 142 • 6h ago • [nytimes.com](https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html)
-
----
-
-**[Bernie Sanders: "AI Is a Threat to Everything the American People Hold Dear"](https://news.ycombinator.com/item?id=47667798)**
-
-⬆️ 77 • 💬 68 • 2d ago • [wsj.com](https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459)
+⬆️ 102 • 💬 151 • 7h ago • [nytimes.com](https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html)
 
 ---
 
@@ -269,6 +255,22 @@ In 1958, Mao ordered every village to produce steel. The steel was useless. The 
 
 ---
 
+**[App Store sees 84% surge in new apps as AI coding tools take off](https://news.ycombinator.com/item?id=47699086)**
+
+Thanks to the new possibilities afforded by AI coding tools, the App Store is seeing a resurgence in new app submissions.
+
+⬆️ 64 • 💬 73 • 18h ago • [9to5Mac](https://9to5mac.com/2026/04/06/app-store-sees-84-surge-in-new-apps-as-ai-coding-tools-take-off/)
+
+---
+
+**[MemPalace, the highest-scoring AI memory system ever benchmarked](https://news.ycombinator.com/item?id=47672792)**
+
+The highest-scoring AI memory system ever benchmarked. And it's free. - milla-jovovich/mempalace
+
+⬆️ 61 • 💬 14 • 2d ago • [GitHub](https://github.com/milla-jovovich/mempalace)
+
+---
+
 ---
 
 ## YouTube Videos: "ai"
@@ -279,7 +281,7 @@ Could AI become dangerous? Can we trust AI Agents? AGI. Use code insideai at htt
 
 📺 InsideAI
 
-👁️ 28K • 👍 3K • 💬 309 • ⏱️ 16:24 • 4h ago
+👁️ 28K • 👍 3K • 💬 309 • ⏱️ 16:24 • 5h ago
 
 ---
 
@@ -289,7 +291,7 @@ Anthropic says Mythos (officially dubbed “Claude Mythos Preview”) is not rea
 
 📺 CNN
 
-👁️ 654K • 👍 9K • 💬 2K • ⏱️ 9:58 • 19h ago
+👁️ 654K • 👍 9K • 💬 2K • ⏱️ 9:58 • 20h ago
 
 ---
 
@@ -299,7 +301,7 @@ Hello guys and gals, it's me Mutahar again! This time we take a look at Claude M
 
 📺 SomeOrdinaryGamers
 
-👁️ 350K • 👍 15K • 💬 2K • ⏱️ 20:17 • 23h ago
+👁️ 350K • 👍 15K • 💬 2K • ⏱️ 20:17 • 1d ago
 
 ---
 
@@ -309,7 +311,7 @@ Tech companies are investing billions of dollars in chips that cannot be turned 
 
 📺 Inside China Business
 
-👁️ 33K • 👍 3K • 💬 338 • ⏱️ 5:05 • 8h ago
+👁️ 33K • 👍 3K • 💬 338 • ⏱️ 5:05 • 9h ago
 
 ---
 
@@ -329,7 +331,7 @@ Simplify Your Workflow With Odoo Today: https://www.odoo.com/r/fHO 4000+ read ou
 
 📺 Economics Explained
 
-👁️ 131K • 👍 6K • 💬 548 • ⏱️ 16:52 • 7h ago
+👁️ 131K • 👍 6K • 💬 548 • ⏱️ 16:52 • 8h ago
 
 ---
 
@@ -339,7 +341,7 @@ Disclaimer: NMLS 182334, nmlsconsumeraccess.org. APR for rates in the 5s start a
 
 📺 Sheriff Lamb
 
-👁️ 102K • 👍 7K • 💬 1K • ⏱️ 23:16 • 8h ago
+👁️ 102K • 👍 7K • 💬 1K • ⏱️ 23:16 • 9h ago
 
 ---
 
@@ -643,7 +645,7 @@ The highest-scoring AI memory system ever benchmarked. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 34.7k • 🔱 4.4k • 2h ago
+⭐ 34.7k • 🔱 4.4k • 3h ago
 
 ---
 
@@ -653,7 +655,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 27.3k • 🔱 5.1k • 4h ago
+⭐ 27.3k • 🔱 5.1k • 5h ago
 
 ---
 
@@ -663,7 +665,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Ope
 
 `Python` `claude-code` `codex` `graphrag` `knowledge-graph` `openclaw`
 
-⭐ 17.1k • 🔱 1.7k • 4h ago
+⭐ 17.1k • 🔱 1.7k • 5h ago
 
 ---
 
@@ -673,7 +675,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 14.7k • 🔱 1.4k • 1h ago
+⭐ 14.7k • 🔱 1.4k • 2h ago
 
 ---
 
@@ -703,7 +705,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 8.6k • 🔱 374 • 1h ago
+⭐ 8.6k • 🔱 374 • 2h ago
 
 ---
 
@@ -713,7 +715,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 7.2k • 🔱 441 • 5h ago
+⭐ 7.2k • 🔱 441 • 6h ago
 
 ---
 
