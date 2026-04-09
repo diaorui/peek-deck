@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-08T23:59:02.437108+00:00'
+updated: '2026-04-09T03:21:00.006132+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
+- social
 - videos
 - cryptocurrency
-- social
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 08, 2026 at 23:59 UTC  
+**Last Updated:** April 09, 2026 at 03:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,184.11
+### $2,178.66
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.1%  
-**7d:** +6.4%  
-**30d:** +7.4%  
-**90d:** -29.1%  
-**1y:** +31.1%  
+**24h:** -2.8%  
+**7d:** +6.2%  
+**30d:** +6.3%  
+**90d:** -29.4%  
+**1y:** +43.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $263.87B
+**Market Cap:** $263.19B
 Rank #2
 
-**Circulating Supply:** 120,691,160 ETH
+**Circulating Supply:** 120,691,116 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--55.8%
+-55.9%
 
 **All-Time Low:** $0.43
-+504843.7%
++503370.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 World Liberty Financial deposited 3B WLFI tokens as collateral to borrow $50M of its own stablecoin, pushing its lending pool into negative liquidity and raising concerns over circular treasury practices, governance risks, and regulatory scrutiny.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/trumps-crypto-project-just-borrowed-50-million-against-its-own-token-and-broke-the-lending-pool/) • 14h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/trumps-crypto-project-just-borrowed-50-million-against-its-own-token-and-broke-the-lending-pool/) • 17h ago
 
 ---
 
@@ -80,7 +80,7 @@ World Liberty Financial deposited 3B WLFI tokens as collateral to borrow $50M of
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-18h ago
+22h ago
 
 ---
 
@@ -158,6 +158,14 @@ Polymarket • 3mo ago
 
 ---
 
+**[Ethereum Foundation swaps 5,000 ETH into stablecoins for operational and grant funding](https://www.theblock.co/post/396728/ethereum-foundation-swaps-5000-eth-stablecoins-operational-grant-funding)**
+
+So far, the CoWSwap TWAP transactions have been drawn from a wallet associated with the Ethereum Foundation's DeFi activities.
+
+The Block • 11h ago
+
+---
+
 **[Bit Digital Inc. Reports Monthly Ethereum Treasury and Staking Metrics for March 2026](https://bit-digital.com/news/bit-digital-inc-reports-monthly-ethereum-treasury-and-staking-metrics-for-march-2026/)**
 
 Bit Digital, Inc. (Nasdaq: BTBT), today announced its monthly Ethereum (“ETH”) treasury and staking metrics for the month of March 2026.
@@ -170,7 +178,21 @@ Bit Digital • 1d ago
 
 Bitcoin (BTC-USD) opened higher at $71,926.16 and ethereum (ETH-USD) opened higher at $2,239.89 following President Trump’s announcement of a temporary ceasefire agreement with Iran.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 15h ago
+
+---
+
+**[Ethereum Liquidity Dries Up As Demand Fails To Keep Pace](https://www.tradingview.com/news/newsbtc:1c8cd20db094b:0-ethereum-liquidity-dries-up-as-demand-fails-to-keep-pace/)**
+
+Ethereum exchange reserves have fallen to a record low, even as the token trades near $2,15 and still struggles to break out.CryptoQuant data shows reserves are down about 77% from their 2021 peak, while CoinGlass data points to a surge in futures activity, with volume topping close to $50 billion…
+
+TradingView • 1d ago
+
+---
+
+**[Ethereum’s Silver Medal Slips as Prediction Markets Brace for a $1,500 Floor](https://www.tipranks.com/news/ethereums-silver-medal-slips-as-prediction-markets-brace-for-a-1500-floor)**
+
+TipRanks • 14h ago
 
 ---
 
@@ -182,39 +204,17 @@ Seeking Alpha • 1d ago
 
 ---
 
-**['Drop To $1,500'—Ethereum Suddenly Faces 60% Odds Of Losing Crown](https://www.forbes.com/sites/digital-assets/2026/04/06/drop-to-1500-ethereum-suddenly-faces-60-odds-of-losing-crown/)**
-
-Forbes • 1d ago
-
----
-
-**[Ethereum Liquidity Dries Up As Demand Fails To Keep Pace](https://www.tradingview.com/news/newsbtc:1c8cd20db094b:0-ethereum-liquidity-dries-up-as-demand-fails-to-keep-pace/)**
-
-Ethereum exchange reserves have fallen to a record low, even as the token trades near $2,15 and still struggles to break out.CryptoQuant data shows reserves are down about 77% from their 2021 peak, while CoinGlass data points to a surge in futures activity, with volume topping close to $50 billion…
-
-TradingView • 21h ago
-
----
-
 **[The Case for Ethereum as the Most Useful Cryptocurrency in Existence](https://www.fool.com/investing/2026/04/08/the-case-for-ethereum-as-the-most-useful-cryptocur/)**
 
 Ethereum's utility makes it an attractive investment option during the current market turndown.
 
-The Motley Fool • 11h ago
+The Motley Fool • 14h ago
 
 ---
 
-**[Ethereum Foundation taps treasury, converts 5,000 ETH to stablecoins via CoWSwap](https://ambcrypto.com/ethereum-foundation-taps-treasury-converts-5000-eth-to-stablecoins-via-cow-swap/)**
+**['Drop To $1,500'—Ethereum Suddenly Faces 60% Odds Of Losing Crown](https://www.forbes.com/sites/digital-assets/2026/04/06/drop-to-1500-ethereum-suddenly-faces-60-odds-of-losing-crown/)**
 
-The Ethereum Foundation plans to convert 5,000 ETH into stablecoins using TWAP execution.
-
-AMBCrypto • 7h ago
-
----
-
-**[Ethereum’s Silver Medal Slips as Prediction Markets Brace for a $1,500 Floor](https://www.tipranks.com/news/ethereums-silver-medal-slips-as-prediction-markets-brace-for-a-1500-floor)**
-
-TipRanks • 10h ago
+Forbes • 2d ago
 
 ---
 
@@ -236,27 +236,27 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 4K • 👍 212 • 💬 5 • ⏱️ 20:08 • 7h ago
+👁️ 6K • 👍 249 • 💬 19 • ⏱️ 20:08 • 11h ago
 
 ---
 
-**[MASSIVE ETHEREUM BREAKOUT!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=3UnP0xiDu6E)**
+**[Ethereum: Is This a Reversal?](https://www.youtube.com/watch?v=CPUq9yhd5gg)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+In this video, I take a closer look at the current Ethereum market structure and explain why the recent move higher does not ...
 
-📺 Cilinix Crypto
+📺 More Crypto Online
 
-👁️ 383 • 👍 22 • ⏱️ 4:53 • 15h ago
+👁️ 667 • 👍 78 • 💬 5 • ⏱️ 10:28 • 2h ago
 
 ---
 
-**[BITCOIN SQUEEZE: This Changes Everything (Urgent)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=_2ErQSljisg)**
+**[Ethereum: One More Bounce… Then Down?](https://www.youtube.com/watch?v=oDwTs_pXQx8)**
 
-BITCOIN SQUEEZE: This Changes Everything (Urgent)!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
+In this video, I take a closer look at the current Ethereum market structure and explain why the recent move higher does not ...
 
-📺 Crypto World
+📺 More Crypto Online
 
-👁️ 7K • 👍 282 • 💬 343 • ⏱️ 23:11 • 23h ago
+👁️ 3K • 👍 194 • 💬 11 • ⏱️ 11:32 • 1d ago
 
 ---
 
@@ -270,33 +270,23 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 ---
 
+**[BITCOIN SQUEEZE: This Changes Everything (Urgent)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=_2ErQSljisg)**
+
+BITCOIN SQUEEZE: This Changes Everything (Urgent)!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
+
+📺 Crypto World
+
+👁️ 7K • 👍 286 • 💬 324 • ⏱️ 23:11 • 1d ago
+
+---
+
 **[CRYPTO&#39;S NEXT MOVE IN MACRO UNCERTAINTY! BITCOIN, XRP, ETHEREUM, &amp; SOLANA ANALYSIS!](https://www.youtube.com/watch?v=UK9Dx6GZrr0)**
 
 Brian from Santiment joined me to review the crypto market metrics for Bitcoin, XRP, Ethereum, and Solana. 🖥️ Sign up with ...
 
 📺 Thinking Crypto
 
-👁️ 2K • 👍 144 • 💬 255 • ⏱️ 26:32 • 11h ago
-
----
-
-**[Ethereum: One More Bounce… Then Down?](https://www.youtube.com/watch?v=oDwTs_pXQx8)**
-
-In this video, I take a closer look at the current Ethereum market structure and explain why the recent move higher does not ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 193 • 💬 11 • ⏱️ 11:32 • 1d ago
-
----
-
-**[BITCOIN MARKET REACTION: CEASEFIRE, OIL SLUMP, ETH STRENGTH](https://www.youtube.com/watch?v=ayT4OKVdqLM)**
-
-Daily BTC, ETH, TSLA trades. Subscribe. Bybit bonus up to $30000 https://partner.bybit.com/b/Buyalts Weex, $200 sign-up, ...
-
-📺 James Crypto Guru
-
-👁️ 2K • 👍 132 • 💬 15 • ⏱️ 9:42 • 22h ago
+👁️ 2K • 👍 153 • 💬 259 • ⏱️ 26:32 • 14h ago
 
 ---
 
@@ -306,17 +296,17 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 711 • 👍 64 • ⏱️ 6:29 • 8h ago
+👁️ 791 • 👍 67 • ⏱️ 6:29 • 11h ago
 
 ---
 
-**[BMNR Update | ETH Value Zones and Why Volatility is Key](https://www.youtube.com/watch?v=l8NEFE1UKOk)**
+**[BITCOIN MARKET REACTION: CEASEFIRE, OIL SLUMP, ETH STRENGTH](https://www.youtube.com/watch?v=ayT4OKVdqLM)**
 
-BMNR just updated its balance sheet but the real story is what the VIX is telling us. In this video, I break down BMNR's ETH ...
+Daily BTC, ETH, TSLA trades. Subscribe. Bybit bonus up to $30000 https://partner.bybit.com/b/Buyalts Weex, $200 sign-up, ...
 
-📺 The Value Thinker
+📺 James Crypto Guru
 
-👁️ 4K • 👍 301 • 💬 29 • ⏱️ 24:54 • 11h ago
+👁️ 2K • 👍 133 • 💬 15 • ⏱️ 9:42 • 1d ago
 
 ---
 
@@ -326,7 +316,17 @@ kripto para dünyası kanalımda kripto para hacim türleri para siteleri kripto
 
 📺 Kripto Para Dünyası
 
-👁️ 1K • 👍 132 • ⏱️ 7:42 • 7h ago
+👁️ 1K • 👍 139 • ⏱️ 7:42 • 11h ago
+
+---
+
+**[Ethereum: 10 Years. Zero Downtime. The Most Reliable Machine Ever Built.](https://www.youtube.com/watch?v=US9nUUqMZjM)**
+
+Ten years. Zero downtime. Not a single second of unplanned unavailability. While Solana accumulated 53 hours of network ...
+
+📺 NaKaMoToHNH
+
+👁️ 27 • 👍 3 • 💬 1 • ⏱️ 27:22 • 1d ago
 
 ---
 
