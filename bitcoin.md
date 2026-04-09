@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-09T14:06:17.598766+00:00'
+updated: '2026-04-09T16:01:40.911715+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- videos
 - news
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 09, 2026 at 14:06 UTC  
+**Last Updated:** April 09, 2026 at 16:01 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $71,206.67
+### $70,652.66
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.8%  
-**7d:** +5.7%  
-**30d:** +0.8%  
-**90d:** -21.7%  
-**1y:** -11.3%  
+**24h:** +0.6%  
+**7d:** +8.0%  
+**30d:** +3.0%  
+**90d:** -20.0%  
+**1y:** -9.3%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Is this you?](https://www.reddit.com/r/Bitcoin/comments/1sg4gms/is_this_you/)**
 
-17h ago
+19h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 On X, Adam Back addressed, external the New York Times' assertion that he was absent on Bitcoin forums at the time when Satoshi was most active and then came back once Satoshi had vanished - saying he actually "did a lot of yakking" on the forums at the time. He said the rest of the New York Times evidence is "a combination of coincidence and similar phrases from people with similar experience and interests".
 
-🔗 [BBC News](https://www.bbc.co.uk/news/articles/cgrl4l1y9yxo) • 6h ago
+🔗 [BBC News](https://www.bbc.co.uk/news/articles/cgrl4l1y9yxo) • 8h ago
 
 ---
 
@@ -95,13 +95,21 @@ On X, Adam Back addressed, external the New York Times' assertion that he was ab
 
 Think about what just happened. Iran ceasefire. Morgan Stanley launches a Bitcoin ETF. $471M pours into BTC ETFs in a single day. Price hits $72.7K. $280M in shorts get liquidated. And sentiment got WORSE. Not better. Worse. Fear & Greed was 17 before the rally. Today it's 14. The market saw the most bullish news combination in months and responded by getting more afraid. I've been watching this index for a long time. A rally on major positive catalysts that DROPS sentiment instead of lifting it tells you one thing: the people with real money don't believe this move. The $280M in liquidations means the pump was fueled by short squeezes, not by new buyers who want to hold. Halving anniversary is April 20. CPI drops tomorrow. The next two weeks will tell us if this was the start of something or just noise. But that Fear & Greed number should bother everyone who went long yesterday.
 
-7h ago
+9h ago
+
+---
+
+**[This Week 4 different Solo Miners Took Home $853K!](https://www.reddit.com/r/Bitcoin/comments/1sgqk2j/this_week_4_different_solo_miners_took_home_853k/)**
+
+It's been a wild week for solo miners. Four different miners hit blocks in the past 7 days across three different solo pools, taking home a combined ~12.47 BTC (~$853,000 USD). The little guys keep winning. 🟠 [Block 943,411](https://mempool.space/block/00000000000000000000bef7f0870c24f2962cf83949e96c7288cf30f0d74bf0) (April 2) Pool: Solo CK Hashrate: ~240 TH/s Reward: 3.07 BTC (~$205,949 USD) 3,961 transactions | 1.4M sats in fees Fee range: 0.00 to 477 sat/vB 312th solo block on CKPool. First in 33 days. Odds: ~1 in 28,000 per day 🟠 [Block 943,466](https://mempool.space/block/943466) (April 3) Pool: Public Pool (the pool's first ever solo block) Devices: NerdOCTAXE (8.2 TH/s) + NerdQaxe+ (2.9 TH/s) + NerdQaxe++ (7.4 TH/s) Total hashrate: 18.5 TH/s Reward: 3.14 BTC (~$209,597 USD) 2,359 transactions | 2.3M sats in fees Fee range: 1.00 to 448 sat/vB All open-source hardware. Zero pool fees. 🟠 [Block 944,078](https://mempool.space/block/944078) (April 7) Pool: Noderunners Mining Pool Device: NerdQaxe++ Reward: 3.13 BTC (~$215,163 USD) 3,927 transactions | 706.4k sats in fees Fee range: 0.13 to 85.0 sat/vB Another open-source miner gets a win. 🟠 [Block 944,306](https://mempool.space/block/000000000000000000012d5e7b4745f92b9cd60241854e38be68d9b182feabcb) (April 9) Pool: Solo CK (EU) Device: Antminer S19 (~70 TH/s) Reward: 3.128 BTC (~$222,722 USD) 440 transactions | 299.2k sats in fees Fee range: 1.00 to 20.25 sat/vB 313th solo block on CKPool Odds: ~1 in 100,000 per day (once every ~300 years) For context, the entire Bitcoin network is running at ~1 ZH/s (1,000,000 TH/s). These miners represent a rounding error of the total hashrate, yet they're pulling full block rewards worth six figures. Solo mining is the ultimate Bitcoin lottery. You either win everything or nothing. No reward splitting, no pool politics. Just you, your hardware, and SHA-256. 4 solo blocks in one week is absolutely nuts.
+
+1h ago
 
 ---
 
 **[They hate this little trick](https://www.reddit.com/r/Bitcoin/comments/1sg3mx1/they_hate_this_little_trick/)**
 
-18h ago
+20h ago
 
 ---
 
@@ -109,47 +117,37 @@ Think about what just happened. Iran ceasefire. Morgan Stanley launches a Bitcoi
 
 Not talking about the technical setup, more the mental model shift. Before running a node I understood Bitcoin conceptually. After, the trust model clicked in a different way. Curious what other people noticed changed in how they think about it.
 
+3h ago
+
+---
+
+**[Bitcoin isn’t a sprint and most holders forget that](https://www.reddit.com/r/Bitcoin/comments/1sgpzxr/bitcoin_isnt_a_sprint_and_most_holders_forget_that/)**
+
+Every pump makes people greedy, every dip makes them panic. The real BTC gains go to those who think long-term and don’t react to every candle. How do you train yourself to ignore the noise and stick to your plan?
+
+2h ago
+
+---
+
+**[Quick look at a simple self-custody setup with COLDCARD and Cove wallet](https://www.reddit.com/r/Bitcoin/comments/1sgr2s8/quick_look_at_a_simple_selfcustody_setup_with/)**
+
+A lot of people assume self-custody is too complicated, but with the right tools it's pretty simple. Curious what setups others here are using?
+
 1h ago
 
 ---
 
-**[Bitcoin dip buyers gobbled up nearly 850,000 BTC between $60,000 and $70,000](https://www.reddit.com/r/Bitcoin/comments/1sftlg9/bitcoin_dip_buyers_gobbled_up_nearly_850000_btc/)**
+**[How Africa can build the entire continent on bitcoin](https://www.reddit.com/r/Bitcoin/comments/1sgth1x/how_africa_can_build_the_entire_continent_on/)**
 
-A ton of BTC was recently traded below $70,000 in a sign of strong dip demand.
-
-🔗 [coindesk.com](https://www.coindesk.com/markets/2026/04/08/bitcoin-buyers-gobbled-up-nearly-850-000-btc-between-usd60-000-and-usd70-000) • 1d ago
+🔗 [substack.com](https://substack.com/home/post/p-193685747) • 11m ago
 
 ---
 
-**[Daily Discussion, April 09, 2026](https://www.reddit.com/r/Bitcoin/comments/1sgheko/daily_discussion_april_09_2026/)**
+**[Stop linking carnism to Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1sgtg9o/stop_linking_carnism_to_bitcoin/)**
 
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+This is somehow a controversial topic, please jump into the conversation. I am really tired of how important figures in the ecosystem are linking Bitcoin to the carnivore diet. It's shocking to me to see how people like Saifedean and Jack Mallers are pushing the meat narrative along with Bitcoin when they could not be farther apart. In my personal view, Bitcoin goes so much better with the vegan narrative because it's more just, more efficient, more contemporary and can help to solve many issues at the same time. But let my vegan point aside. I don't actually need Bitcoin to be linked to veganism. Just as much as Bitcoin doesn't need carnism!!!! The fact that they try to link carnism to Bitcoin only makes me think that the rest of their opinions and analysis may also be biased or just wrong! I am a hard Bitcoin promoter, but I will never support something as wrong, cruel and damaging as meat and animal exploitation. What are your thoughts?
 
-7h ago
-
----
-
-**[Chat_164 - Skating To Where The Puck Will Be with Matt Hill](https://www.reddit.com/r/Bitcoin/comments/1sgmow6/chat_164_skating_to_where_the_puck_will_be_with/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=c7ueHTTdu-A) • 2h ago
-
----
-
-**[Im going to start buying again!](https://www.reddit.com/r/Bitcoin/comments/1sga8mv/im_going_to_start_buying_again/)**
-
-Im so sorry guys! Im going to start buying in now meaning it’s going to crash! So for you regards out there that only buy when its high go ahead and make that purchase 😩
-
-13h ago
-
----
-
-**[Bitcoin pumping, the war is over (probably, who knows) and one of the largest wealth managers in the world released its bitcoin ETF today. MS has 16,000 advisors managing $9.3 Trillion in assets for their clients](https://www.reddit.com/r/Bitcoin/comments/1sfu4g0/bitcoin_pumping_the_war_is_over_probably_who/)**
-
-Morgan Stanley's bitcoin ETF comes with a 0.14% annual fee, making it the lowest in the spot BTC ETF market and undercutting BlackRock's IBIT (0.25%)
-
-23h ago
+12m ago
 
 ---
 
@@ -157,39 +155,47 @@ Morgan Stanley's bitcoin ETF comes with a 0.14% annual fee, making it the lowest
 
 ## Google News: "bitcoin"
 
-**[Adam Back Denies He Is Satoshi Nakamoto in Response to Times Investigation](https://www.nytimes.com/2026/04/08/business/adam-back-satoshi-nakamoto-bitcoin.html)**
+**[4 Takeaways From Our Search for Satoshi Nakamoto, Bitcoin’s Creator](https://www.nytimes.com/2026/04/08/business/takeaways-satoshi-nakamoto-bitcoin-adam-back.html)**
 
-The New York Times • 19h ago
-
----
-
-**[Bitcoin under $71,000, ETH, SOL, XRP drop as Iran ceasefire frays within 48 hours of being signed](https://www.coindesk.com/markets/2026/04/09/bitcoin-under-usd71-000-eth-sol-xrp-drop-as-iran-ceasefire-frays-within-48-hours-of-being-signed)**
-
-Tehran says three clauses of the ceasefire have been breached, oil is rebounding toward $97, and the Strait of Hormuz remains effectively closed despite the deal.
-
-CoinDesk • 9h ago
+The New York Times • 1d ago
 
 ---
 
-**[Bitcoin, solana surge as Iran looks to charge tolls for Strait of Hormuz passage to be paid in crypto](https://finance.yahoo.com/news/bitcoin-solana-surge-as-iran-looks-to-charge-tolls-for-strait-of-hormuz-passage-to-be-paid-in-crypto-142009952.html)**
+**[Why does the NYT think this British man created Bitcoin?](https://www.bbc.com/news/videos/c8r43p54d0xo)**
 
-Iran is looking to charge shipowners a fee of $1 per barrel of oil onboard for safe passage across the Strait of Hormuz, to be paid in cryptocurrency, according to the Financial Times.
+A British Bitcoin entrepreneur has told the BBC he is not the digital currency's mysterious inventor after a New York Times article named him as its creator.
 
-Yahoo Finance • 23h ago
-
----
-
-**[‘Will Be Destroyed’—Iran’s Bitcoin Toll Sparks $100K Price Prediction](https://www.forbes.com/sites/digital-assets/2026/04/08/will-be-destroyed-irans-bitcoin-toll-sparks-100k-price-prediction/)**
-
-Forbes • 19h ago
+BBC • 32m ago
 
 ---
 
-**[Iran Demands Bitcoin Payments At Hormuz As Trump Says Strait Must Open 'Immediately And Completely'](https://www.yahoo.com/news/articles/iran-demands-bitcoin-payments-hormuz-110114739.html)**
+**[Garfield High School evacuated last week after bomb threat demanding Bitcoin](https://www.yahoo.com/news/articles/garfield-high-school-evacuated-last-151749676.html)**
 
-Iran will demand shipping companies pay tolls in Bitcoin for oil tankers passing through the Strait of Hormuz during the two-week ceasefire, directly contradicting President Trump’s demand for “comple...
+Garfield High School was evacuated last Friday afternoon due to an anonymous bomb threat demanding payment in Bitcoin.
 
-Yahoo • 3h ago
+Yahoo • 43m ago
+
+---
+
+**[Bitcoin's Scariest Risk Just Became More Likely to Happen. Should You Sell It?](https://www.fool.com/investing/2026/04/09/bitcoins-scariest-risk-just-became-more-likely-to/)**
+
+New research indicates that, with the right hardware, cracking Bitcoin's encryption is getting closer to being possible.
+
+The Motley Fool • 41m ago
+
+---
+
+**[Bitcoin Pioneer Adam Back, Bernstein Say Quantum Threat to BTC Isn’t Existential](https://finance.yahoo.com/markets/crypto/articles/bitcoin-pioneer-adam-back-bernstein-185803494.html)**
+
+Anxieties over the quantum threat to Bitcoin have been growing, but Bernstein backs Back in saying there’s no cause for alarm.
+
+Yahoo Finance • 21h ago
+
+---
+
+**[Bitcoin Blockchain Hack Alarm Sounded By Google](https://www.forbes.com/sites/daveywinder/2026/04/08/cryptocurrency-warning-bitcoin-blockchain-hack-alarm-sounded-by-google/)**
+
+Forbes • 1d ago
 
 ---
 
@@ -199,31 +205,23 @@ Forbes • 1d ago
 
 ---
 
-**[Did The NYT Identify Bitcoin's Creator? Morgan Stanley Launches ETF, Cryptos Rally.](https://www.investors.com/news/bitcoin-price-satoshi-nakamoto-identity-nyt-investigation-adam-back-morgan-stanley-bitcoin-etf/)**
-
-Investor's Business Daily • 17h ago
-
----
-
 **[Morgan Stanley's MSBT bitcoin ETF logs $34 million in first-day volume](https://www.theblock.co/post/396785/morgan-stanley-msbt-bitcoin-etf-volume)**
 
 Morgan Stanley Bitcoin Trust's first-day volume exceeded the $30 million estimate from Bloomberg Senior Analyst Eric Balchunas.
 
-The Block • 12h ago
+The Block • 14h ago
 
 ---
 
-**[New Bitcoin ETF Chases Gains That Come While Wall Street Sleeps](https://www.bloomberg.com/news/articles/2026-04-08/bitcoin-btc-returns-come-at-night-and-now-there-s-an-etf-for-that)**
+**[Morgan Stanley Debuts Bitcoin ETF as Price Slump Rattles Holders](https://www.bloomberg.com/news/articles/2026-04-08/morgan-stanley-debuts-bitcoin-etf-as-price-slump-rattles-holders)**
 
-Bloomberg.com • 21h ago
+Bloomberg.com • 1d ago
 
 ---
 
-**[Current price of Bitcoin for April 9, 2026](https://fortune.com/article/price-of-bitcoin-04-09-2026/)**
+**[Did The NYT Identify Bitcoin's Creator? Morgan Stanley Launches ETF, Cryptos Rally.](https://www.investors.com/news/bitcoin-price-satoshi-nakamoto-identity-nyt-investigation-adam-back-morgan-stanley-bitcoin-etf/)**
 
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 1h ago
+Investor's Business Daily • 19h ago
 
 ---
 
@@ -233,7 +231,7 @@ Fortune • 1h ago
 
 **[Who is Satoshi Nakamoto? My quest to unmask Bitcoin's creator](https://news.ycombinator.com/item?id=47685320)**
 
-⬆️ 564 • 💬 701 • 1d ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)
+⬆️ 570 • 💬 729 • 1d ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)
 
 ---
 
@@ -241,7 +239,7 @@ Fortune • 1h ago
 
 Neha Narula
 
-⬆️ 166 • 💬 130 • 1d ago • [nehanarula.org](https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html)
+⬆️ 166 • 💬 132 • 1d ago • [nehanarula.org](https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html)
 
 ---
 
@@ -249,7 +247,7 @@ Neha Narula
 
 Country’s oil exporters’ union says toll to be paid in cryptocurrency and vessels monitored for weapons
 
-⬆️ 161 • 💬 257 • 23h ago • [ft.com](https://www.ft.com/content/02aefac4-ea62-48db-9326-c0da373b11b8)
+⬆️ 162 • 💬 266 • 1d ago • [ft.com](https://www.ft.com/content/02aefac4-ea62-48db-9326-c0da373b11b8)
 
 ---
 
@@ -265,7 +263,7 @@ Google Quantum AI: Quantum computer could break Bitcoin cryptography with under 
 
 The British computer scientist and entrepreneur has denied being the man who the New York Times identified at Satoshi Nakamoto.
 
-⬆️ 14 • 💬 1 • 20h ago • [bbc.com](https://www.bbc.com/news/articles/cgrl4l1y9yxo)
+⬆️ 14 • 💬 1 • 22h ago • [bbc.com](https://www.bbc.com/news/articles/cgrl4l1y9yxo)
 
 ---
 
@@ -285,7 +283,7 @@ April 03, 2026 - A new $100 million bond deal reveals exactly how traditional fi
 
 **[Bitcoin.com Deplatformed by YouTube](https://news.ycombinator.com/item?id=47697080)**
 
-⬆️ 4 • 💬 0 • 15h ago • [X (formerly Twitter)](https://twitter.com/i/status/2041756576600748142)
+⬆️ 4 • 💬 0 • 17h ago • [X (formerly Twitter)](https://twitter.com/i/status/2041756576600748142)
 
 ---
 
@@ -299,7 +297,7 @@ April 03, 2026 - A new $100 million bond deal reveals exactly how traditional fi
 
 New York Times report claims London-born Adam Back is creator of the cryptocurrency after comparing writings
 
-⬆️ 3 • 💬 1 • 15h ago • [the Guardian](https://www.theguardian.com/technology/2026/apr/08/british-computer-scientist-adam-back-denies-he-is-bitcoin-developer-satoshi-nakamoto)
+⬆️ 3 • 💬 1 • 17h ago • [the Guardian](https://www.theguardian.com/technology/2026/apr/08/british-computer-scientist-adam-back-denies-he-is-bitcoin-developer-satoshi-nakamoto)
 
 ---
 
@@ -313,7 +311,7 @@ Anthony Pompliano explains why bitcoin is holding strong while stocks, bonds, an
 
 📺 Anthony Pompliano
 
-👁️ 24K • 👍 1K • 💬 34 • ⏱️ 19:07 • 17h ago
+👁️ 24K • 👍 1K • 💬 34 • ⏱️ 19:07 • 19h ago
 
 ---
 
@@ -323,7 +321,7 @@ GREAT NEWS! Clarity act just received...some clarity. Research paper ...
 
 📺 Digital Asset News
 
-👁️ 16K • 👍 1K • 💬 69 • ⏱️ 18:39 • 19h ago
+👁️ 16K • 👍 1K • 💬 69 • ⏱️ 18:39 • 21h ago
 
 ---
 
@@ -333,7 +331,7 @@ Bitcoin #Crypto #Finance Is the Bitcoin bottom finally in? Tom Lee thinks so, ca
 
 📺 The Wolf Of All Streets
 
-👁️ 3K • 👍 210 • 💬 55 • ⏱️ 39:05 • 7m ago
+👁️ 3K • 👍 210 • 💬 55 • ⏱️ 39:05 • 2h ago
 
 ---
 
@@ -353,7 +351,7 @@ It is once again time for an update to the Bitcoin bear market resistance band! 
 
 📺 Benjamin Cowen
 
-👁️ 59K • 👍 3K • 💬 202 • ⏱️ 28:36 • 18h ago
+👁️ 59K • 👍 3K • 💬 202 • ⏱️ 28:36 • 20h ago
 
 ---
 
@@ -363,7 +361,7 @@ Bitcoin isn't just moving toward $75000. It's reacting to it. Because this isn't
 
 📺 Tim Talks Finance
 
-👁️ 3K • 👍 147 • 💬 82 • ⏱️ 11:28 • 20h ago
+👁️ 3K • 👍 147 • 💬 82 • ⏱️ 11:28 • 22h ago
 
 ---
 
@@ -393,7 +391,7 @@ MASSIVE Bitcoin News!! Satoshi Revealed!? What Comes Next? (Watch the whole vide
 
 📺 Altcoin Daily
 
-👁️ 41K • 👍 2K • 💬 230 • ⏱️ 12:14 • 15h ago
+👁️ 41K • 👍 2K • 💬 230 • ⏱️ 12:14 • 17h ago
 
 ---
 
@@ -403,7 +401,7 @@ IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purp
 
 📺 The Kenzo Guy
 
-👁️ 5K • 👍 277 • 💬 38 • ⏱️ 22:56 • 20h ago
+👁️ 5K • 👍 277 • 💬 38 • ⏱️ 22:56 • 22h ago
 
 ---
 

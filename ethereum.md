@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-09T14:06:17.604733+00:00'
+updated: '2026-04-09T16:01:40.918033+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- videos
 - news
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 09, 2026 at 14:06 UTC  
+**Last Updated:** April 09, 2026 at 16:01 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,166.07
+### $2,217.24
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.2%  
-**7d:** +5.5%  
-**30d:** +5.6%  
-**90d:** -29.8%  
-**1y:** +42.3%  
+**24h:** -0.4%  
+**7d:** +8.2%  
+**30d:** +8.3%  
+**90d:** -28.0%  
+**1y:** +46.0%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Tom Lee went on CNBC saying the market bottom is probably already in, and that crypto (especially ETH) could lead the next move up. But the interesting part is he’s not just talking — the company he chairs (BitMine) keeps stacking ETH hard. They’re sitting on ~4.8M ETH (close to 4% of supply), with a huge chunk staked. That’s not trading, that’s positioning. Feels like one of the first times we’re seeing a macro thesis + actual balance sheet move fully aligned around Ethereum. Source: https://btcusa.com/tom-lee-says-the-market-bottom-is-in-as-bitmine-doubles-down-on-ethereum/
 
-2h ago
+4h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The Ethereum Layer 2 powering Predictstreet. Built by Abu Dhabi's IHC, hosting a UAE central-bank-licensed stablecoin, with BlackRock and Mastercard as collaborators.
 
-🔗 [Company Gibraltar | company.gi](https://company.gi/blog/adi-chain-explained) • 4h ago
+🔗 [Company Gibraltar | company.gi](https://company.gi/blog/adi-chain-explained) • 6h ago
 
 ---
 
@@ -128,7 +128,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’ve had my eth staked for about 2 years now, net negative on the eth itself but I’ve gained what would be ≈4 percent more worth of ETH than I had before. To me it was the easiest way to stake given that I don’t have 32 eth. I appreciate the protocol for being a decentralized way to stake, heard there’s some liquidity issues in terms of getting your Eth back after staking but that’s a problem for the future. Anyone have any input on rocket pool?!
 
-1d ago
+2d ago
 
 ---
 
@@ -152,14 +152,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Current price of Ethereum for April 9, 2026](https://fortune.com/article/price-of-ethereum-04-09-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 1h ago
-
----
-
 **[Bitcoin and ethereum price today, Wednesday, April 8, 2026: Prices rise after U.S.-Iran ceasefire announcement](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-wednesday-april-8-2026-prices-rise-after-us-iran-ceasefire-announcement-113837833.html)**
 
 Bitcoin (BTC-USD) opened higher at $71,926.16 and ethereum (ETH-USD) opened higher at $2,239.89 following President Trump’s announcement of a temporary ceasefire agreement with Iran.
@@ -168,17 +160,19 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin and ethereum price today, Thursday, April 9, 2026: Crypto rally slows as ceasefire wavers](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-thursday-april-9-2026-crypto-rally-slows-as-ceasefire-wavers-112457545.html)**
+**[Current price of Ethereum for April 9, 2026](https://fortune.com/article/price-of-ethereum-04-09-2026/)**
 
-Bitcoin and ethereum opened at $71,093.76 and $2,189.73, respectively, amid reports of continued fighting and disagreement over Iran’s control of the Strait of Hormuz. Both cryptos rose in early trading.
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Yahoo Finance • 2h ago
+Fortune • 3h ago
 
 ---
 
-**[Most large cryptocurrencies fall as Ethereum tumbles](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-as-ethereum-tumbles-91a2f421-9307bc266dcb)**
+**[Ethereum Foundation Offloads Another 5,000 Tokens](https://finance.yahoo.com/markets/crypto/articles/ethereum-foundation-offloads-another-5-143500752.html)**
 
-MarketWatch • 6m ago
+The Ethereum Foundation plans to convert 5,000 Ether (CRYPTO: $ETH), worth $11 million U.S., into stablecoins.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -186,7 +180,7 @@ MarketWatch • 6m ago
 
 So far, the CoWSwap TWAP transactions have been drawn from a wallet associated with the Ethereum Foundation's DeFi activities.
 
-The Block • 22h ago
+The Block • 1d ago
 
 ---
 
@@ -200,11 +194,11 @@ Forbes • 2d ago
 
 Bit Digital, Inc. (Nasdaq: BTBT), today announced its monthly Ethereum (“ETH”) treasury and staking metrics for the month of March 2026.
 
-Bit Digital • 1d ago
+Bit Digital • 2d ago
 
 ---
 
-**[ETH Up or Down - 5 Minutes](https://polymarket.com/event/eth-updown-5m-1775735700)**
+**[ETH Up or Down - 5 Minutes](https://polymarket.com/event/eth-updown-5m-1775741100)**
 
 Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
@@ -216,7 +210,7 @@ Polymarket • 2d ago
 
 While Ethereum (ETH) retests a key level for the first time this month, some market watchers have advised caution, warning that the start of a new bull run may not be here yet.No Ethereum Party Until This happensAfter jumping nearly 10%, Ethereum is attempting to reclaim a crucial area that has ser…
 
-TradingView • 7h ago
+TradingView • 9h ago
 
 ---
 
@@ -224,7 +218,15 @@ TradingView • 7h ago
 
 Ethereum and Bitcoin are going off in interesting directions right now.
 
-AMBCrypto • 8h ago
+AMBCrypto • 10h ago
+
+---
+
+**[Ethereum stablecoin supply hits $180B ATH: Is ETH demand mispriced?](https://seekingalpha.com/news/4573026-ethereum-stablecoin-supply-hits-180b-ath-is-eth-demand-mispriced)**
+
+Ethereum’s stablecoin supply hits ~$180B ATH and ETF inflows rise as whale money shifts to ETH.
+
+Seeking Alpha • 1d ago
 
 ---
 
@@ -238,7 +240,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 9K • 👍 321 • 💬 48 • ⏱️ 20:08 • 21h ago
+👁️ 9K • 👍 321 • 💬 48 • ⏱️ 20:08 • 23h ago
 
 ---
 
@@ -248,7 +250,7 @@ In this video, I take a closer look at the current Ethereum market structure and
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 156 • 💬 13 • ⏱️ 10:28 • 13h ago
+👁️ 2K • 👍 156 • 💬 13 • ⏱️ 10:28 • 15h ago
 
 ---
 
@@ -258,7 +260,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 90 • 👍 7 • ⏱️ 5:44 • 4h ago
+👁️ 90 • 👍 7 • ⏱️ 5:44 • 5h ago
 
 ---
 
@@ -268,7 +270,7 @@ Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zu
 
 📺 Krypto Trading & Investing
 
-👁️ 3K • 👍 634 • 💬 51 • ⏱️ 10:41 • 9h ago
+👁️ 3K • 👍 634 • 💬 51 • ⏱️ 10:41 • 11h ago
 
 ---
 
@@ -298,7 +300,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 1K • 👍 94 • ⏱️ 5:31 • 10h ago
+👁️ 1K • 👍 94 • ⏱️ 5:31 • 12h ago
 
 ---
 
@@ -306,7 +308,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 H&H Interiors BD
 
-👁️ 892 • 👍 4 • ⏱️ 0:25 • 3h ago
+👁️ 892 • 👍 4 • ⏱️ 0:25 • 5h ago
 
 ---
 
@@ -316,7 +318,7 @@ Daily BTC, ETH, TSLA trades. Subscribe. Bybit bonus up to $30000 https://partner
 
 📺 James Crypto Guru
 
-👁️ 1K • 👍 73 • 💬 8 • ⏱️ 12:16 • 11h ago
+👁️ 1K • 👍 73 • 💬 8 • ⏱️ 12:16 • 13h ago
 
 ---
 
@@ -326,7 +328,7 @@ join my social platforms for updates and analysis ✓Instagram: ...
 
 📺 Aryan trader Live
 
-👁️ 8K • 👍 3K • ⏱️ 1:43:07 • 3h ago
+👁️ 8K • 👍 3K • ⏱️ 1:43:07 • 5h ago
 
 ---
 
