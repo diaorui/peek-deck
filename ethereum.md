@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-09T03:21:00.006132+00:00'
+updated: '2026-04-09T05:27:49.310587+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
 - social
-- videos
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 09, 2026 at 03:21 UTC  
+**Last Updated:** April 09, 2026 at 05:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,178.66
+### $2,180.08
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.8%  
-**7d:** +6.2%  
-**30d:** +6.3%  
-**90d:** -29.4%  
-**1y:** +43.2%  
+**24h:** -3.1%  
+**7d:** +6.0%  
+**30d:** +6.1%  
+**90d:** -29.5%  
+**1y:** +43.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $263.19B
+**Market Cap:** $263.01B
 Rank #2
 
 **Circulating Supply:** 120,691,116 ETH
@@ -62,7 +62,7 @@ No max supply
 -55.9%
 
 **All-Time Low:** $0.43
-+503370.1%
++503344.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 World Liberty Financial deposited 3B WLFI tokens as collateral to borrow $50M of its own stablecoin, pushing its lending pool into negative liquidity and raising concerns over circular treasury practices, governance risks, and regulatory scrutiny.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/trumps-crypto-project-just-borrowed-50-million-against-its-own-token-and-broke-the-lending-pool/) • 17h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/trumps-crypto-project-just-borrowed-50-million-against-its-own-token-and-broke-the-lending-pool/) • 19h ago
 
 ---
 
@@ -80,7 +80,7 @@ World Liberty Financial deposited 3B WLFI tokens as collateral to borrow $50M of
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-22h ago
+1d ago
 
 ---
 
@@ -104,7 +104,7 @@ I just built ethlocal.world: a simple way to explore Ethereum activity around th
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -128,7 +128,7 @@ A simple question for the community. I was recently asked for me public key (to 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -158,11 +158,27 @@ Polymarket • 3mo ago
 
 ---
 
+**[Ethereum Price Clings to $2,120, Can Bulls Drive Fresh Surge?](https://www.tradingview.com/news/newsbtc:2f33a9e3f094b:0-ethereum-price-clings-to-2-120-can-bulls-drive-fresh-surge/)**
+
+Ethereum price extended gains above $2,265 before it started a downside correction. ETH is now correcting gains and might find bids near the $2,120 zone.Ethereum Price Corrects Some GainsEthereum price remained stable above $2,150 and started a decent upward move, like Bitcoin. ETH price climbed ab…
+
+TradingView • 2h ago
+
+---
+
+**[Bitcoin and ethereum price today, Wednesday, April 8, 2026: Prices rise after U.S.-Iran ceasefire announcement](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-wednesday-april-8-2026-prices-rise-after-us-iran-ceasefire-announcement-113837833.html)**
+
+Bitcoin (BTC-USD) opened higher at $71,926.16 and ethereum (ETH-USD) opened higher at $2,239.89 following President Trump’s announcement of a temporary ceasefire agreement with Iran.
+
+Yahoo Finance • 17h ago
+
+---
+
 **[Ethereum Foundation swaps 5,000 ETH into stablecoins for operational and grant funding](https://www.theblock.co/post/396728/ethereum-foundation-swaps-5000-eth-stablecoins-operational-grant-funding)**
 
 So far, the CoWSwap TWAP transactions have been drawn from a wallet associated with the Ethereum Foundation's DeFi activities.
 
-The Block • 11h ago
+The Block • 13h ago
 
 ---
 
@@ -171,28 +187,6 @@ The Block • 11h ago
 Bit Digital, Inc. (Nasdaq: BTBT), today announced its monthly Ethereum (“ETH”) treasury and staking metrics for the month of March 2026.
 
 Bit Digital • 1d ago
-
----
-
-**[Bitcoin and ethereum price today, Wednesday, April 8, 2026: Prices rise after U.S.-Iran ceasefire announcement](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-wednesday-april-8-2026-prices-rise-after-us-iran-ceasefire-announcement-113837833.html)**
-
-Bitcoin (BTC-USD) opened higher at $71,926.16 and ethereum (ETH-USD) opened higher at $2,239.89 following President Trump’s announcement of a temporary ceasefire agreement with Iran.
-
-Yahoo Finance • 15h ago
-
----
-
-**[Ethereum Liquidity Dries Up As Demand Fails To Keep Pace](https://www.tradingview.com/news/newsbtc:1c8cd20db094b:0-ethereum-liquidity-dries-up-as-demand-fails-to-keep-pace/)**
-
-Ethereum exchange reserves have fallen to a record low, even as the token trades near $2,15 and still struggles to break out.CryptoQuant data shows reserves are down about 77% from their 2021 peak, while CoinGlass data points to a surge in futures activity, with volume topping close to $50 billion…
-
-TradingView • 1d ago
-
----
-
-**[Ethereum’s Silver Medal Slips as Prediction Markets Brace for a $1,500 Floor](https://www.tipranks.com/news/ethereums-silver-medal-slips-as-prediction-markets-brace-for-a-1500-floor)**
-
-TipRanks • 14h ago
 
 ---
 
@@ -208,21 +202,27 @@ Seeking Alpha • 1d ago
 
 Ethereum's utility makes it an attractive investment option during the current market turndown.
 
-The Motley Fool • 14h ago
+The Motley Fool • 16h ago
+
+---
+
+**[Ethereum’s Silver Medal Slips as Prediction Markets Brace for a $1,500 Floor](https://www.tipranks.com/news/ethereums-silver-medal-slips-as-prediction-markets-brace-for-a-1500-floor)**
+
+TipRanks • 16h ago
+
+---
+
+**[Coinbase Institutional unveils Ethereum ETP staking infrastructure for institutions](https://cryptobriefing.com/coinbase-institutional-unveils-ethereum-etp-staking-infrastructure-for/)**
+
+Coinbase Institutional announced new infrastructure for Ethereum ETP staking using EIP-7251 and off-chain vault transfers, aimed at streamlining institutional c
+
+Crypto Briefing • 5h ago
 
 ---
 
 **['Drop To $1,500'—Ethereum Suddenly Faces 60% Odds Of Losing Crown](https://www.forbes.com/sites/digital-assets/2026/04/06/drop-to-1500-ethereum-suddenly-faces-60-odds-of-losing-crown/)**
 
 Forbes • 2d ago
-
----
-
-**[Circle’s Arc Network Reveals Quantum Resistance Plans as Bitcoin, Ethereum Face Threat](https://decrypt.co/363395/circle-arc-network-quantum-resistance-bitcoin-ethereum-face-threat)**
-
-Circle’s upcoming Arc blockchain is gearing up for quantum resilience, revealing a multi-step roadmap to prepare for the looming threat.
-
-Decrypt • 2d ago
 
 ---
 
@@ -236,7 +236,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 6K • 👍 249 • 💬 19 • ⏱️ 20:08 • 11h ago
+👁️ 6K • 👍 268 • 💬 20 • ⏱️ 20:08 • 13h ago
 
 ---
 
@@ -246,17 +246,27 @@ In this video, I take a closer look at the current Ethereum market structure and
 
 📺 More Crypto Online
 
-👁️ 667 • 👍 78 • 💬 5 • ⏱️ 10:28 • 2h ago
+👁️ 991 • 👍 110 • 💬 7 • ⏱️ 10:28 • 5h ago
 
 ---
 
-**[Ethereum: One More Bounce… Then Down?](https://www.youtube.com/watch?v=oDwTs_pXQx8)**
+**[🚨 BTC &amp; ETH: 24 HOURS!!!! ACT ACT ACT!!!!!!](https://www.youtube.com/watch?v=ewMAck4UjHk)**
 
-In this video, I take a closer look at the current Ethereum market structure and explain why the recent move higher does not ...
+This is huge for crypto, bitcoin, ethereum and the rest of the markets!!!!! ---------- EXCHANGE BONUSES Trade Non KYC ...
 
-📺 More Crypto Online
+📺 Thomas Kralow
 
-👁️ 3K • 👍 194 • 💬 11 • ⏱️ 11:32 • 1d ago
+👁️ 23K • 👍 3K • 💬 41 • ⏱️ 9:21 • 2d ago
+
+---
+
+**[How to Earn Free Ethereum in 2026 – Real ETH Test | Honest Experiment](https://www.youtube.com/watch?v=jJ4Ql3ekaPo)**
+
+Can you actually get free Ethereum in 2026, or is it all just hype? I decided to put a popular ETH mining/claim method to the ...
+
+📺 Hitch Insights
+
+👁️ 3K • 👍 623 • 💬 524 • ⏱️ 6:14 • 2d ago
 
 ---
 
@@ -270,23 +280,33 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 ---
 
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=lWKuKrjeFgQ)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Crypto Gyan
+
+👁️ 325 • 👍 58 • ⏱️ 5:31 • 2h ago
+
+---
+
+**[Ethereum: One More Bounce… Then Down?](https://www.youtube.com/watch?v=oDwTs_pXQx8)**
+
+In this video, I take a closer look at the current Ethereum market structure and explain why the recent move higher does not ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 194 • 💬 11 • ⏱️ 11:32 • 1d ago
+
+---
+
 **[BITCOIN SQUEEZE: This Changes Everything (Urgent)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=_2ErQSljisg)**
 
 BITCOIN SQUEEZE: This Changes Everything (Urgent)!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
 
 📺 Crypto World
 
-👁️ 7K • 👍 286 • 💬 324 • ⏱️ 23:11 • 1d ago
-
----
-
-**[CRYPTO&#39;S NEXT MOVE IN MACRO UNCERTAINTY! BITCOIN, XRP, ETHEREUM, &amp; SOLANA ANALYSIS!](https://www.youtube.com/watch?v=UK9Dx6GZrr0)**
-
-Brian from Santiment joined me to review the crypto market metrics for Bitcoin, XRP, Ethereum, and Solana. 🖥️ Sign up with ...
-
-📺 Thinking Crypto
-
-👁️ 2K • 👍 153 • 💬 259 • ⏱️ 26:32 • 14h ago
+👁️ 7K • 👍 287 • 💬 323 • ⏱️ 23:11 • 1d ago
 
 ---
 
@@ -296,37 +316,17 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 791 • 👍 67 • ⏱️ 6:29 • 11h ago
+👁️ 824 • 👍 68 • ⏱️ 6:29 • 14h ago
 
 ---
 
-**[BITCOIN MARKET REACTION: CEASEFIRE, OIL SLUMP, ETH STRENGTH](https://www.youtube.com/watch?v=ayT4OKVdqLM)**
+**[CRYPTO&#39;S NEXT MOVE IN MACRO UNCERTAINTY! BITCOIN, XRP, ETHEREUM, &amp; SOLANA ANALYSIS!](https://www.youtube.com/watch?v=UK9Dx6GZrr0)**
 
-Daily BTC, ETH, TSLA trades. Subscribe. Bybit bonus up to $30000 https://partner.bybit.com/b/Buyalts Weex, $200 sign-up, ...
+Brian from Santiment joined me to review the crypto market metrics for Bitcoin, XRP, Ethereum, and Solana. 🖥️ Sign up with ...
 
-📺 James Crypto Guru
+📺 Thinking Crypto
 
-👁️ 2K • 👍 133 • 💬 15 • ⏱️ 9:42 • 1d ago
-
----
-
-**[ETHEREUM İÇİN SON KEZ UYARIYORUM 4 AYLIK MİNİ RALLİ DÖNEMİ BAŞLADI ALTCOİNLER İÇİN SON ŞANS](https://www.youtube.com/watch?v=DdM2YbX_XGM)**
-
-kripto para dünyası kanalımda kripto para hacim türleri para siteleri kripto para haberleri anlık kripto para kripto para grafik kripto ...
-
-📺 Kripto Para Dünyası
-
-👁️ 1K • 👍 139 • ⏱️ 7:42 • 11h ago
-
----
-
-**[Ethereum: 10 Years. Zero Downtime. The Most Reliable Machine Ever Built.](https://www.youtube.com/watch?v=US9nUUqMZjM)**
-
-Ten years. Zero downtime. Not a single second of unplanned unavailability. While Solana accumulated 53 hours of network ...
-
-📺 NaKaMoToHNH
-
-👁️ 27 • 👍 3 • 💬 1 • ⏱️ 27:22 • 1d ago
+👁️ 2K • 👍 154 • 💬 258 • ⏱️ 26:32 • 16h ago
 
 ---
 

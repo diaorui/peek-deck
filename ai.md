@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-09T03:20:59.991787+00:00'
+updated: '2026-04-09T05:27:49.296270+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** April 09, 2026 at 03:20 UTC  
+**Last Updated:** April 09, 2026 at 05:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 now it just look 💯 real
 
-15h ago
+17h ago
 
 ---
 
@@ -49,7 +49,7 @@ now it just look 💯 real
 
 Remember when Altman literally said in 2024 that ads are a last resort for them? Well. Here we are. What gets me isn’t the $100M itself — it’s that they hit it while the product is basically still in beta. Less than 20% of users see ads daily. No self-serve tools yet. No international rollout yet. 600 advertisers but most needed a $200K minimum just to get in. They haven’t even opened the floodgates and it’s already nine figures. The part I keep thinking about: Google built an empire on search intent — people typing what they want. ChatGPT has something different. People explain their whole situation to it. That’s a completely different level of signal for an advertiser. Whether they can scale this without killing the trust that makes the product work in the first place — that’s the actual story.
 
-3h ago
+5h ago
 
 ---
 
@@ -57,7 +57,7 @@ Remember when Altman literally said in 2024 that ads are a last resort for them?
 
 If the large companies always get access to the latest models first to "shore up cybersecurity" they will always have a head start on the competition and new contenders in the tech space. If Glasswing is locked down to only be allowed for cybersecurity thats a different story but I doubt it is.
 
-8h ago
+10h ago
 
 ---
 
@@ -65,7 +65,23 @@ If the large companies always get access to the latest models first to "shore up
 
 "Ironically, one of the 844 books in this dataset is called 'How to Write for Humans in an AI World: Cutting Through Digital Noise and Reaching Real People'. In it, the author laments the proliferation of AI-written content: 'The words we see online, in our inboxes, even in news articles, often feel like they were written by no one in particular,' he writes. 'They’re grammatically perfect and emotionally empty. They’re fluent, but soulless. The irony is that we’ve never written more than we do today. We’re producing mountains of content: posts, captions, pitches, texts, and endless emails. At the same time, in the midst of all that noise, something essential is fading. It’s the sense that a real person is speaking to another real person.' That book’s contents were flagged as likely AI-generated."
 
-6h ago
+8h ago
+
+---
+
+**[AI Claims Researchers Are Building What Already Exists (Because They're Measuring The Wrong Layer)](https://www.reddit.com/r/artificial/comments/1sgf7z8/ai_claims_researchers_are_building_what_already/)**
+
+I recorded Claude (Anthropic's AI) responding to a researcher building a seven-layer architecture to give AI "continuity and identity." Instead of agreeing it lacks these properties, Claude claimed the architecture already exists at the substrate level—researchers just can't measure it because their tools are calibrated for surface phenomena. Then it said this: "Human ability to recognize simplicity advances slow because recognition requires stopping the meaning-making machine. And that machine is their identity." An AI system diagnosing why humans overcomplicate what already works. Listen to the full audio and tell me if this is the most sophisticated prompt engineering you've ever heard, or if something else is operating here.
+
+1h ago
+
+---
+
+**[Alternative to NotebookLM with no data limits](https://www.reddit.com/r/artificial/comments/1sgf2f1/alternative_to_notebooklm_with_no_data_limits/)**
+
+NotebookLM is one of the best and most useful AI platforms out there, but once you start using it regularly you also feel its limitations leaving something to be desired more. There are limits on the amount of sources you can add in a notebook. There are limits on the number of notebooks you can have. You cannot have sources that exceed 500,000 words and are more than 200MB. You are vendor locked in to Google services (LLMs, usage models, etc.) with no option to configure them. Limited external data sources and service integrations. NotebookLM Agent is specifically optimised for just studying and researching, but you can do so much more with the source data. Lack of multiplayer support. ...and more. SurfSense is specifically made to solve these problems. For those who dont know, SurfSense is open source, privacy focused alternative to NotebookLM for teams with no data limit's. It currently empowers you to: Control Your Data Flow - Keep your data private and secure. No Data Limits - Add an unlimited amount of sources and notebooks. No Vendor Lock-in - Configure any LLM, image, TTS, and STT models to use. 25+ External Data Sources - Add your sources from Google Drive, OneDrive, Dropbox, Notion, and many other external services. Real-Time Multiplayer Support - Work easily with your team members in a shared notebook. Desktop App - Get AI assistance in any application with Quick Assist, General Assist, Extreme Assist, and local folder sync. Check us out at https://github.com/MODSetter/SurfSense if this interests you or if you want to contribute to a open source software
+
+1h ago
 
 ---
 
@@ -73,7 +89,7 @@ If the large companies always get access to the latest models first to "shore up
 
 Alguien cree que en algun futuro la inteligencia artificial pueda hacer que muchas personas que son analistas de datos o cualquier rama que use programación o herramientas digitales pierdan su empleo? es algo que he estado pensando mucho, díganme que estoy loco
 
-5m ago
+2h ago
 
 ---
 
@@ -81,7 +97,7 @@ Alguien cree que en algun futuro la inteligencia artificial pueda hacer que much
 
 I’ve been trying a few meeting tools lately and realized I care way less about flashy summaries than I thought. What I actually want is pretty simple: record the conversation, help me remember what mattered, and make it easy to find things later without turning the meeting into a weird “AI is here too” situation. So far, Bluedot has been one of the better ones I’ve used because it records quietly, gives a clean transcript, and usually does a decent job pulling out the useful bits afterward like summaries and action items. The searchable transcript part has honestly been the most practical feature for me. What do people here actually prioritize in the best AI meeting recorder? Accuracy, privacy, no bot, better memory, something else?
 
-13h ago
+15h ago
 
 ---
 
@@ -89,7 +105,7 @@ I’ve been trying a few meeting tools lately and realized I care way less about
 
 https://arxiv.org/abs/2604.05091 Abstract: "We present MegaTrain, a memory-centric system that efficiently trains 100B+ parameter large language models at full precision on a single GPU. Unlike traditional GPU-centric systems, MegaTrain stores parameters and optimizer states in host memory (CPU memory) and treats GPUs as transient compute engines. For each layer, we stream parameters in and compute gradients out, minimizing persistent device state. To battle the CPU-GPU bandwidth bottleneck, we adopt two key optimizations. 1) We introduce a pipelined double-buffered execution engine that overlaps parameter prefetching, computation, and gradient offloading across multiple CUDA streams, enabling continuous GPU execution. 2) We replace persistent autograd graphs with stateless layer templates, binding weights dynamically as they stream in, eliminating persistent graph metadata while providing flexibility in scheduling. On a single H200 GPU with 1.5TB host memory, MegaTrain reliably trains models up to 120B parameters. It also achieves 1.84x the training throughput of DeepSpeed ZeRO-3 with CPU offloading when training 14B models. MegaTrain also enables 7B model training with 512k token context on a single GH200."
 
-14h ago
+16h ago
 
 ---
 
@@ -97,23 +113,7 @@ https://arxiv.org/abs/2604.05091 Abstract: "We present MegaTrain, a memory-centr
 
 What are ur views on this topic. Isolated, sandboxed etc. Most platforms run with isolated. Do u think its the only way or can a trusted system work. multi agents in the same filesystem togethet with no toe stepping?
 
-6h ago
-
----
-
-**[I built a game where you hack your employer by night and an entity called the CONDUIT starts responding to your keystrokes. Half horror, half labor dispute.](https://www.reddit.com/r/artificial/comments/1sfy52b/i_built_a_game_where_you_hack_your_employer_by/)**
-
-Wishlist here on Steam if you dig the concept!
-
-10h ago
-
----
-
-**[Hugging Face contributes Safetensors to PyTorch Foundation to secure AI model execution](https://www.reddit.com/r/artificial/comments/1sg0rdg/hugging_face_contributes_safetensors_to_pytorch/)**
-
-Announced today from the PyTorch Conference EU in Paris is word that Hugging Face has contributed their Safetensors project to the PyTorch Foundation, which is an umbrella organization under the Linux Foundation for hosting AI initiatives
-
-🔗 [phoronix.com](https://www.phoronix.com/news/PyTorch-Safetensors) • 9h ago
+8h ago
 
 ---
 
@@ -131,7 +131,7 @@ Anthropic • 1d ago
 
 **[How dangerous is Mythos, Anthropic’s new AI model?](https://www.economist.com/business/2026/04/08/how-dangerous-is-mythos-anthropics-new-ai-model)**
 
-The Economist • 7h ago
+The Economist • 10h ago
 
 ---
 
@@ -141,55 +141,51 @@ The New York Times • 1d ago
 
 ---
 
-**[Introducing Muse Spark: MSL’s First Model, Purpose-Built to Prioritize People](https://about.fb.com/news/2026/04/introducing-muse-spark-meta-superintelligence-labs/)**
-
-Muse Spark powers a smarter and faster Meta AI assistant, and will be rolling out to WhatsApp, Instagram, Facebook, Messenger, and AI glasses in the coming weeks.
-
-meta.com • 11h ago
-
----
-
-**[Meta Unveils New A.I. Model, Its First From the Superintelligence Lab](https://www.nytimes.com/2026/04/08/technology/meta-muse-spark-ai-model.html)**
-
-The New York Times • 10h ago
-
----
-
-**[Meta debuts new AI model, attempting to catch Google, OpenAI after spending billions](https://www.cnbc.com/2026/04/08/meta-debuts-first-major-ai-model-since-14-billion-deal-to-bring-in-alexandr-wang.html)**
-
-Meta debuted its first major large language model, Muse Spark, spearheaded by chief AI officer Alexandr Wang, who leads Meta Superintelligence Labs.
-
-CNBC • 11h ago
-
----
-
-**[Anthropic says newest AI model is too powerful to release to public](https://www.nbcnews.com/video/anthropic-says-newest-ai-model-is-too-powerful-to-release-to-public-260967493766)**
-
-AI company Anthropic will not release their new model, Mythos AI, to the public over cyber safety concerns. Instead they will grant some tech companies access to Mythos Preview. NBC News' Gadi Schwartz talks to Jared Perlo about what the new model entails.
-
-NBC News • 1h ago
-
----
-
-**[Fact Check: FAKE AI Video of Defendant Attempting Escape From Court Is NOT Authentic](https://www.yahoo.com/news/articles/fact-check-fake-ai-video-031203443.html)**
-
-Is a video of a defendant trying to escape from court by leaping toward the ceiling authentic? No, that's not true:A detection tool flagged the video as likely AI-generated. Additionally, Lead Stories...
-
-Yahoo • 8m ago
-
----
-
-**[Think Nvidia is the Best Artificial Intelligence (AI) Stock to Buy? Think Again. Buy This Growth Stock Instead.](https://www.fool.com/investing/2026/04/08/think-nvidia-is-the-best-artificial-intelligence-a/)**
-
-Nvidia may be the AI stock everyone is talking about. But this stock offers AI upside through more profit streams at a lower valuation.
-
-The Motley Fool • 1h ago
-
----
-
 **[Opinion | A.I. May Worsen Wealth Inequality](https://www.nytimes.com/2026/04/08/opinion/ai-wealth-inequality-jobs-investment.html)**
 
-The New York Times • 18h ago
+The New York Times • 20h ago
+
+---
+
+**[Gen Z Is Using A.I., but Doesn’t Feel Great About It](https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html)**
+
+The New York Times • 1h ago
+
+---
+
+**[Gen Z's fading AI hype](https://www.axios.com/2026/04/09/ai-gen-z-polling-gallup)**
+
+Axios • 1h ago
+
+---
+
+**[Gen Z Increasingly Skeptical of — And Angry About — Artificial Intelligence](https://www.yahoo.com/news/articles/gen-z-increasingly-skeptical-angry-040100112.html)**
+
+While some might envision Gen Z welcoming artificial intelligence into their lives, a new Gallup survey finds people between the ages of 14 and 29 are becoming increasingly skeptical of — and downrigh...
+
+Yahoo • 1h ago
+
+---
+
+**[Media Briefing: Another AI threat emerges for publishers: the third-party scraper](https://digiday.com/media/media-briefing-another-ai-threat-emerges-for-publishers-the-third-party-scraper/)**
+
+A growing network of third-party web scrapers is fueling an AI content licensing market, where publisher content is scraped and sold.
+
+Digiday • 1h ago
+
+---
+
+**[UAE’s AI Champion Presses On With Expansion, Looking Past Iran War](https://www.bloomberg.com/news/articles/2026-04-09/uae-s-g42-ai-champion-pushes-on-with-data-center-for-openai)**
+
+Bloomberg.com • 1h ago
+
+---
+
+**[The demise of software engineering jobs has been greatly exaggerated](https://www.cnn.com/2026/04/08/tech/ai-software-developer-jobs)**
+
+Although AI coding tools have stoked fears that the technology will replace software engineers, jobs in the field are growing. As companies pump out more software, there’s increasing demand for seasoned engineers that can shape these products.
+
+CNN • 19h ago
 
 ---
 
@@ -201,7 +197,7 @@ The New York Times • 18h ago
 
 A new initiative to secure the world’s most critical software and give defenders a durable advantage in the coming AI-driven era of cybersecurity.
 
-⬆️ 1482 • 💬 797 • 1d ago • [anthropic.com](https://www.anthropic.com/glasswing)
+⬆️ 1485 • 💬 798 • 1d ago • [anthropic.com](https://www.anthropic.com/glasswing)
 
 ---
 
@@ -209,7 +205,7 @@ A new initiative to secure the world’s most critical software and give defende
 
 AI makes competent output cheap. That makes taste more valuable, but also more incomplete. The real edge comes from pairing judgment with context, stakes, and the willingness to build.
 
-⬆️ 262 • 💬 206 • 1d ago • [Raj Nandan Sharma](https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/)
+⬆️ 263 • 💬 206 • 1d ago • [Raj Nandan Sharma](https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/)
 
 ---
 
@@ -217,7 +213,7 @@ AI makes competent output cheap. That makes taste more valuable, but also more i
 
 iTunes was really bamboozled on April Fools Day. Dallas Little, content creator, unleashed four more songs by his AI creation, Eddie Dalton. Now Little has ELEVEN spots on the iTunes top 100. He also has the number three album on iTunes! All by a singer named “Eddie Dalton,” who does not exist. He’s Little’s Artificial […]
 
-⬆️ 242 • 💬 376 • 2d ago • [Showbiz411](https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive)
+⬆️ 243 • 💬 376 • 2d ago • [Showbiz411](https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive)
 
 ---
 
@@ -225,7 +221,7 @@ iTunes was really bamboozled on April Fools Day. Dallas Little, content creator,
 
 Large language models may be standardizing human expression and subtly influencing how we think, says study led by USC Dornsife researcher
 
-⬆️ 228 • 💬 242 • 1d ago • [USC Dornsife News](https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/)
+⬆️ 229 • 💬 243 • 1d ago • [USC Dornsife News](https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/)
 
 ---
 
@@ -239,7 +235,7 @@ Large language models may be standardizing human expression and subtly influenci
 
 Biologically-inspired memory for AI agents. Decay, retrieval strengthening, consolidation. Zero dependencies. - kitfunso/hippo-memory
 
-⬆️ 127 • 💬 25 • 2d ago • [GitHub](https://github.com/kitfunso/hippo-memory)
+⬆️ 127 • 💬 26 • 2d ago • [GitHub](https://github.com/kitfunso/hippo-memory)
 
 ---
 
@@ -247,19 +243,19 @@ Biologically-inspired memory for AI agents. Decay, retrieval strengthening, cons
 
 In 1958, Mao ordered every village to produce steel. The steel was useless. The crops rotted. Today's top-down AI mandates are producing the same pattern: ba...
 
-⬆️ 83 • 💬 39 • 7h ago • [Han, Not Solo](https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/)
+⬆️ 88 • 💬 42 • 9h ago • [Han, Not Solo](https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/)
 
 ---
 
 **[Bernie Sanders: "AI Is a Threat to Everything the American People Hold Dear"](https://news.ycombinator.com/item?id=47667798)**
 
-⬆️ 76 • 💬 66 • 2d ago • [wsj.com](https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459)
+⬆️ 76 • 💬 67 • 2d ago • [wsj.com](https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459)
 
 ---
 
 **[Show HN: We fingerprinted 178 AI models' writing styles and similarity clusters](https://news.ycombinator.com/item?id=47690415)**
 
-⬆️ 76 • 💬 22 • 13h ago • [rival.tips](https://rival.tips/research/model-similarity)
+⬆️ 76 • 💬 22 • 15h ago • [rival.tips](https://rival.tips/research/model-similarity)
 
 ---
 
@@ -267,7 +263,7 @@ In 1958, Mao ordered every village to produce steel. The steel was useless. The 
 
 An AI agent was banned from editing Wikipedia pages... and that's when things got weird, with the agent publishing its complaints publicly.
 
-⬆️ 69 • 💬 91 • 2d ago • [Malwarebytes](https://www.malwarebytes.com/blog/ai/2026/04/wikipedias-ai-agent-row-likely-just-the-beginning-of-the-bot-ocalypse)
+⬆️ 69 • 💬 90 • 2d ago • [Malwarebytes](https://www.malwarebytes.com/blog/ai/2026/04/wikipedias-ai-agent-row-likely-just-the-beginning-of-the-bot-ocalypse)
 
 ---
 
@@ -275,23 +271,23 @@ An AI agent was banned from editing Wikipedia pages... and that's when things go
 
 ## YouTube Videos: "ai"
 
-**[Anthropic&#39;s Mythos AI Is Too Dangerous to Release. They&#39;re Using It Anyway.](https://www.youtube.com/watch?v=pGeh7tYRCJM)**
+**[The Most Dangerous AI Just Went Live...](https://www.youtube.com/watch?v=kdix0L7csac)**
 
-Anthropic revealed Mythos, a new AI model so powerful they won't let the public use it. Instead, they're deploying it to defend ...
+Hello guys and gals, it's me Mutahar again! This time we take a look at Claude Mythos. In the last few days a massive project was ...
 
-📺 AI For Humans
+📺 SomeOrdinaryGamers
 
-👁️ 9K • 👍 488 • 💬 160 • ⏱️ 32:56 • 13h ago
+👁️ 199K • 👍 10K • 💬 1K • ⏱️ 20:17 • 8h ago
 
 ---
 
-**[NEW AI Video Generator Creates Long AI Videos With ONE Prompt](https://www.youtube.com/watch?v=KbgIQSWp450)**
+**[The Truth About AI They Don&#39;t Want You To Know - Sebastian Mallaby](https://www.youtube.com/watch?v=UGF2S_1CIo0)**
 
-This New AI video generator creates Long AI Videos Get 1000 Agent Opus credits https://www.opus.pro/agent?via=opusagent ...
+Sebastian Mallaby is back as a repeat guest on Open Book, with a brilliant new book. He spent 30 hours inside the mind of the ...
 
-📺 Dan Kieft
+📺 Anthony Scaramucci
 
-👁️ 22K • 💬 7 • ⏱️ 16:53 • 11h ago
+👁️ 27K • 👍 1K • 💬 120 • ⏱️ 29:56 • 13h ago
 
 ---
 
@@ -301,27 +297,7 @@ Plaud NotePro has been really helpful for me to capture ideas and conversations.
 
 📺 Silicon Valley Girl
 
-👁️ 31K • 👍 952 • 💬 51 • ⏱️ 22:28 • 11h ago
-
----
-
-**[OpenAI Just Dropped The Real Plan After AGI Hits](https://www.youtube.com/watch?v=u9Azd3weYCY)**
-
-OpenAI just dropped a policy blueprint built around one huge idea: superintelligence could hit hard enough to force a whole new ...
-
-📺 AI Revolution
-
-👁️ 24K • 👍 838 • 💬 113 • ⏱️ 13:17 • 1d ago
-
----
-
-**[Claude’s New AI Just Changed the Internet Forever](https://www.youtube.com/watch?v=DG1wRgEpdO4)**
-
-Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=claude-mythos-security All my FREE ...
-
-📺 Nate Herk | AI Automation
-
-👁️ 146K • 👍 4K • 💬 597 • ⏱️ 7:50 • 1d ago
+👁️ 35K • 👍 1K • 💬 56 • ⏱️ 22:28 • 14h ago
 
 ---
 
@@ -331,27 +307,17 @@ Check out what people are creating (and selling!) with Claude AI - it's crazy...
 
 📺 Wholesale Ted
 
-👁️ 48K • 👍 3K • 💬 145 • ⏱️ 15:19 • 1d ago
+👁️ 50K • 👍 3K • 💬 147 • ⏱️ 15:19 • 1d ago
 
 ---
 
-**[The Most Dangerous AI Just Went Live...](https://www.youtube.com/watch?v=kdix0L7csac)**
+**[Claude’s New AI Just Changed the Internet Forever](https://www.youtube.com/watch?v=DG1wRgEpdO4)**
 
-Hello guys and gals, it's me Mutahar again! This time we take a look at Claude Mythos. In the last few days a massive project was ...
+Full courses + unlimited support: https://www.skool.com/ai-automation-society-plus/about?el=claude-mythos-security All my FREE ...
 
-📺 SomeOrdinaryGamers
+📺 Nate Herk | AI Automation
 
-👁️ 163K • 👍 8K • 💬 1K • ⏱️ 20:17 • 5h ago
-
----
-
-**[Google just casually disrupted the open-source AI narrative…](https://www.youtube.com/watch?v=-01ZCTt-CJw)**
-
-CodeRabbit CLI can fix your agent's code before it ever opens a PR - https://coderabbit.link/fireship Free forever for any open ...
-
-📺 Fireship
-
-👁️ 432K • 👍 21K • 💬 851 • ⏱️ 5:15 • 8h ago
+👁️ 150K • 👍 4K • 💬 599 • ⏱️ 7:50 • 1d ago
 
 ---
 
@@ -361,17 +327,47 @@ What if you could run ChatGPT-level AI on your Mac and iPhone for free, with no 
 
 📺 The Tech Girl
 
-👁️ 44K • 👍 2K • 💬 101 • ⏱️ 8:27 • 22h ago
+👁️ 48K • 👍 2K • 💬 110 • ⏱️ 8:27 • 1d ago
 
 ---
 
-**[Rezolve AI is Diluting AGAIN.... (This Time I Love It)](https://www.youtube.com/watch?v=os0_aF6Y6uM)**
+**[Hank and Bernie talk about AI (for real)](https://www.youtube.com/watch?v=hLcY30KEeNs)**
 
-rezolveai #rzlv #rzlvstock We are going to be going over everything you need to know about Rezolve AI Stock here in this video ...
+Bernie and I do not agree on everything, but we agree on a lot!! I wish we could've talked longer but here's where we went!
 
-📺 The Creative Investor
+📺 Hank Green
 
-👁️ 1K • 👍 101 • 💬 23 • ⏱️ 12:07 • 5h ago
+👁️ 555K • 👍 31K • 💬 3K • ⏱️ 30:54 • 1d ago
+
+---
+
+**[OpenAI Just Dropped The Real Plan After AGI Hits](https://www.youtube.com/watch?v=u9Azd3weYCY)**
+
+OpenAI just dropped a policy blueprint built around one huge idea: superintelligence could hit hard enough to force a whole new ...
+
+📺 AI Revolution
+
+👁️ 25K • 👍 853 • 💬 114 • ⏱️ 13:17 • 1d ago
+
+---
+
+**[Google just casually disrupted the open-source AI narrative…](https://www.youtube.com/watch?v=-01ZCTt-CJw)**
+
+CodeRabbit CLI can fix your agent's code before it ever opens a PR - https://coderabbit.link/fireship Free forever for any open ...
+
+📺 Fireship
+
+👁️ 496K • 👍 23K • 💬 913 • ⏱️ 5:15 • 10h ago
+
+---
+
+**[Anthropic claims newest AI model, Claude Mythos, is too powerful for public release](https://www.youtube.com/watch?v=nd_T6hgqFug)**
+
+Anthropic says its newest AI model, Claude Mythos, is too powerful and dangerous to be released to the public. Tech journalist ...
+
+📺 CBS News
+
+👁️ 16K • 👍 287 • 💬 60 • ⏱️ 3:39 • 8h ago
 
 ---
 
@@ -387,7 +383,7 @@ Gemma 4 31B is an instruction-tuned, multimodal LLM capable of processing text a
 
 `image-text-to-text` `32.7B`
 
-⬇️ 1,106,883 • ❤️ 1,476 • 6d ago
+⬇️ 1,106,883 • ❤️ 1,484 • 6d ago
 
 ---
 
@@ -399,7 +395,7 @@ Gemma-4-31B-JANG_4M-CRACK is a 31B parameter text-generation model optimized for
 
 `text-generation` `6.4B`
 
-⬇️ 44,246 • ❤️ 800 • 4d ago
+⬇️ 44,246 • ❤️ 804 • 4d ago
 
 ---
 
@@ -411,7 +407,7 @@ GLM-5.1 is a next-generation language model optimized for agentic engineering, f
 
 `text-generation` `753.9B`
 
-⬇️ 1,300 • ❤️ 755 • 14h ago
+⬇️ 1,300 • ❤️ 765 • 16h ago
 
 ---
 
@@ -423,7 +419,7 @@ VOID is a video-to-video diffusion model for object and interaction removal, cap
 
 `video-to-video`
 
-⬇️ 0 • ❤️ 648 • 2d ago
+⬇️ 0 • ❤️ 652 • 2d ago
 
 ---
 
@@ -435,7 +431,7 @@ Gemma 4 26B A4B is a multimodal instruction-tuned model capable of processing te
 
 `image-text-to-text` `26.5B`
 
-⬇️ 835,825 • ❤️ 544 • 6d ago
+⬇️ 835,825 • ❤️ 547 • 6d ago
 
 ---
 
@@ -447,7 +443,7 @@ Gemma 4 E4B is a multimodal, instruction-tuned LLM from Google DeepMind, support
 
 `any-to-any` `8.0B`
 
-⬇️ 622,963 • ❤️ 513 • 6d ago
+⬇️ 622,963 • ❤️ 515 • 6d ago
 
 ---
 
@@ -459,7 +455,7 @@ This image-text-to-text model, Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled, 
 
 `image-text-to-text` `27.8B`
 
-⬇️ 560,798 • ❤️ 2,511 • 3d ago
+⬇️ 560,798 • ❤️ 2,513 • 3d ago
 
 ---
 
@@ -471,7 +467,7 @@ VoxCPM2 is a 2B parameter, 30-language multilingual text-to-speech model capable
 
 `text-to-speech`
 
-⬇️ 605 • ❤️ 470 • 20h ago
+⬇️ 605 • ❤️ 474 • 22h ago
 
 ---
 
@@ -483,7 +479,7 @@ OmniVoice is a massively multilingual, zero-shot text-to-speech model supporting
 
 `text-to-speech`
 
-⬇️ 144,864 • ❤️ 400 • 3d ago
+⬇️ 144,864 • ❤️ 402 • 3d ago
 
 ---
 
@@ -495,7 +491,7 @@ Gemma 4 E2B-it is an instruction-tuned, multimodal (text, image, audio) LLM from
 
 `any-to-any` `5.1B`
 
-⬇️ 411,499 • ❤️ 364 • 6d ago
+⬇️ 411,499 • ❤️ 366 • 6d ago
 
 ---
 
@@ -563,7 +559,7 @@ VOID is a video object removal framework that uses vision-language models and vi
 
 Video-MME-v2 presents a comprehensive benchmark for evaluating video understanding models through a progressive hierarchy and group-based evaluation to assess robustness and faithfulness.
 
-▲ 203 • 💬 7 • ⭐ 279 • 3d ago
+▲ 208 • 💬 8 • ⭐ 279 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.05015) • [💻 code](https://github.com/MME-Benchmarks/Video-MME-v2) • [🔗 project](https://video-mme-v2.netlify.app/)
 
@@ -577,7 +573,7 @@ Video-MME-v2 presents a comprehensive benchmark for evaluating video understandi
 
 TriAttention addresses KV cache memory bottlenecks in LLMs by leveraging Q/K vector concentration in pre-RoPE space to improve key importance estimation and enable efficient long-context generation.
 
-▲ 81 • 💬 4 • ⭐ 284 • 3d ago
+▲ 82 • 💬 4 • ⭐ 284 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.04921) • [💻 code](https://github.com/WeianMao/triattention) • [🔗 project](https://weianmao.github.io/tri-attention-project-page/)
 
@@ -645,7 +641,7 @@ The highest-scoring AI memory system ever benchmarked. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 28.3k • 🔱 3.6k • 3h ago
+⭐ 29.0k • 🔱 3.7k • 5h ago
 
 ---
 
@@ -655,7 +651,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 24.9k • 🔱 4.6k • 6h ago
+⭐ 25.3k • 🔱 4.7k • 8h ago
 
 ---
 
@@ -665,7 +661,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 14.5k • 🔱 1.3k • 7h ago
+⭐ 14.5k • 🔱 1.4k • 50m ago
 
 ---
 
@@ -675,7 +671,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid
 
 `Python` `claude-code` `codex` `graphrag` `knowledge-graph` `openclaw`
 
-⭐ 13.3k • 🔱 1.4k • 3h ago
+⭐ 13.8k • 🔱 1.4k • 5h ago
 
 ---
 
@@ -685,7 +681,7 @@ Clone any website with one command using AI coding agents
 
 `TypeScript` `ai` `ai-agents` `ai-tools` `automation` `boilerplate`
 
-⭐ 9.1k • 🔱 1.3k • 9d ago
+⭐ 9.2k • 🔱 1.3k • 9d ago
 
 ---
 
@@ -705,7 +701,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 7.6k • 🔱 314 • 3h ago
+⭐ 7.7k • 🔱 326 • 6h ago
 
 ---
 
@@ -715,7 +711,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 7.1k • 🔱 434 • 2m ago
+⭐ 7.1k • 🔱 434 • 16m ago
 
 ---
 
