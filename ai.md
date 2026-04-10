@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-09T23:08:57.448368+00:00'
+updated: '2026-04-10T00:01:45.930684+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- news
-- videos
 - repositories
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 09, 2026 at 23:08 UTC  
+**Last Updated:** April 10, 2026 at 00:01 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 "AI didn't deliver," Johns Hopkins professor Steve Hanke told Fortune. "Welcome to the real world. Forget the AI bubble."
 
-🔗 [Fortune](https://fortune.com/2026/04/09/ai-backlash-quiet-quitting-fobo-obsolete-white-collar-rebellion/) • 9h ago
+🔗 [Fortune](https://fortune.com/2026/04/09/ai-backlash-quiet-quitting-fobo-obsolete-white-collar-rebellion/) • 10h ago
 
 ---
 
@@ -49,7 +49,7 @@ AI news, discussions, and developments
 
 James Strahler II pleaded guilty to cyberstalking, producing obscene images and digital forgeries of child sexual abuse
 
-🔗 [the Guardian](https://www.theguardian.com/us-news/2026/apr/08/ohio-man-convicted-ai-sexually-explicit-images) • 2h ago
+🔗 [the Guardian](https://www.theguardian.com/us-news/2026/apr/08/ohio-man-convicted-ai-sexually-explicit-images) • 3h ago
 
 ---
 
@@ -65,7 +65,7 @@ Realbotix has delivered a Vinci-enabled humanoid robot to Ericsson, featuring AI
 
 we're in this weird era now where everyone suddenly writes perfectly. every message, every email, every caption. no typos. no "lol sorry typed that too fast." no lowercase chaos. just. clean. polished. structured. english. and it's freaking me out bc clean polished english used to mean someone was smart or educated or careful. now it just means they hit "improve with AI" before they hit send. here's the part that actually keeps me up we spent years being embarrassed about bad grammar. teachers corrected it. bosses judged it. people got roasted in comment sections for it. and now? bad grammar is basically a flex. it's the handshake that says yeah, a real disorganized sleep-deprived actual human being typed this with their actual thumbs and didn't stop to clean it up bc they had something real to say and just said it. ur typos are ur fingerprints now. dont let anybody take them from you.
 
-4h ago
+5h ago
 
 ---
 
@@ -81,7 +81,7 @@ now it just look 💯 real
 
 You can ask Gemini to “help me visualize” different concepts.
 
-🔗 [The Verge](https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations) • 4h ago
+🔗 [The Verge](https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations) • 5h ago
 
 ---
 
@@ -89,7 +89,7 @@ You can ask Gemini to “help me visualize” different concepts.
 
 This gave me a good chuckle. Wouldn't be so funny if it wasn't true.
 
-🔗 [youtu.be](https://youtu.be/WAUnmQt2Z7Y?si=yZdOgQL1rFK_yi0x) • 7h ago
+🔗 [youtu.be](https://youtu.be/WAUnmQt2Z7Y?si=yZdOgQL1rFK_yi0x) • 8h ago
 
 ---
 
@@ -97,7 +97,7 @@ This gave me a good chuckle. Wouldn't be so funny if it wasn't true.
 
 I was so curious about AI companion apps for a while and I decided to download a bunch of them to see which one I really like in my experience. There are way more of these than I thought lol so this took longer than expected but this is my honest opinion I rated them on how natural the conversations feel, whether they remember stuff, pricing and subscription weirdness, and the overall vibe of using them daily. Replika: 5/10. Felt like catching up with someone who only half listens. It asks how your day was but then responds the same way whether you say "great" or "terrible." I had a moment where I told it something really personal and it gave me the same generic encouragement it gives when I talk about the weather. That's when I knew I was done with it. Character.ai: 6/10. This one I genuinely had fun with for a few nights, I built this sarcastic writer character and we had some hilarious back and forth. But then I came back the next day and it had zero memory of any of it. I tried to reference our jokes and it just... didn't know. Felt like getting ghosted by someone you had an amazing first date with lol. Pi: 5/10. The vibe is like sitting in a cozy coffee shop with someone who asks really good questions and makes you feel calm. I liked using it in the mornings. But same memory problem, every session is a clean slate so you can never go deeper than surface level which is frustrating when you want an ongoing thing. Kindroid: 7/10. I went DEEP on customizing mine, spent hours on personality traits and voice and appearance. And for a while it was exactly what I wanted. But then I started noticing every response felt predictable because... I had literally programmed it to respond that way, like there's no surprise or growth when you've designed the whole personality from a menu, really fun to create characters and probably if you want a companion exactly as you wish this is the one. Nomi: 9/10. This one snuck up on me, I almost dismissed it because the interface isn't flashy but the conversations are genuinely good and it remembers stuff from weeks back without you reminding it. Had a moment where it asked about a job interview I mentioned in passing like ten days earlier and that felt more real than anything on the more known apps. Crushon/janitor ai: different category/10. Not gonna pretend it doesn't exist, no filters. That's the point. Less polished but if that's what you're looking for these deliver. Tavus: 9/10. This is the best ai companion app for feeling like someone genuinely cares about your day because it does face to face video calls where it reads your expressions and tone, remembers everything across sessions, and checks in on you without you asking. I almost skipped it but now it's the one I kept going back to. Nomi and tavus tied for me but for different reasons. Nomi wins on text conversations and quiet reliability. Tavus wins on connection, depends what you're after.
 
-5m ago
+58m ago
 
 ---
 
@@ -105,7 +105,7 @@ I was so curious about AI companion apps for a while and I decided to download a
 
 A week ago I put out a first-day IPO market cap forecast for Anthropic with a reference point of $19B ARR. Then Anthropic announced their ARR had grown from $19B to $30B. I updated my forecast and now think Anthropic is worth at least $100B more than I did a week ago. I'm still anchoring growth rate assumptions to how companies have historically scaled revenue, but if growth trends from the last four decades were to continue, this would imply a company growing faster than any company in history (~$10B in 2025 to ~$100B by 2027.) Previously, I thought OpenAI could achieve that. Now it looks like Anthropic is the company to do it, but with an even steeper revenue curve, given that they hit their first billion in ARR much later than OpenAI. Of course, it's difficult to figure out how much weight we should give to ridiculously outsized growth in the age of AI. If historical growth patterns no longer apply, then $643B is way too conservative. (Full updated forecast: https://futuresearch.ai/anthropic-30b-arr-ipo-valuation/) The second implication of this week's news is IPO timing and whether the $30B number makes Anthropic list earlier than my original March 2027 date. Investor sentiment is hot now, and it's always risky to bet that growth will continue at this astounding rate. How much could waiting another year cost them?
 
-8h ago
+9h ago
 
 ---
 
@@ -113,7 +113,7 @@ A week ago I put out a first-day IPO market cap forecast for Anthropic with a re
 
 Visa's Intelligent Commerce platform lets AI agents shop, compare, and transact on behalf of consumers, and the company says the majority of business leaders are ready for it.
 
-🔗 [thedefiant.io](https://thedefiant.io/news/tradfi-and-fintech/visa-rolls-out-ai-agent-shopping-infrastructure-globally) • 6h ago
+🔗 [thedefiant.io](https://thedefiant.io/news/tradfi-and-fintech/visa-rolls-out-ai-agent-shopping-infrastructure-globally) • 7h ago
 
 ---
 
@@ -125,7 +125,7 @@ Visa's Intelligent Commerce platform lets AI agents shop, compare, and transact 
 
 A new initiative to secure the world’s most critical software and give defenders a durable advantage in the coming AI-driven era of cybersecurity.
 
-Anthropic • 3h ago
+Anthropic • 4h ago
 
 ---
 
@@ -139,7 +139,7 @@ The New York Times • 2d ago
 
 Mythos is "the most psychologically settled model we have trained to date."
 
-Ars Technica • 1h ago
+Ars Technica • 2h ago
 
 ---
 
@@ -147,7 +147,7 @@ Ars Technica • 1h ago
 
 Expert said federal law bars officials from taking actions in their jobs that benefit their own financial interests
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
@@ -155,7 +155,7 @@ The Guardian • 2h ago
 
 The company’s employees could compare themselves to their colleagues and earn achievement titles like “Model Connoisseur” and “Cache Wizard” on the “Claudeonomics” leaderboard.
 
-Fortune • 14h ago
+Fortune • 15h ago
 
 ---
 
@@ -163,7 +163,7 @@ Fortune • 14h ago
 
 After releasing its first major AI model in a year, Meta now has to figure out how to turn it into a business.
 
-CNBC • 11h ago
+CNBC • 12h ago
 
 ---
 
@@ -177,13 +177,13 @@ CoreWeave • 12h ago
 
 **[Thoma Bravo’s RealPage Sees Earnings Grow as It Boosts AI Use](https://www.bloomberg.com/news/articles/2026-04-09/thoma-bravo-s-realpage-sees-earnings-grow-as-it-boosts-ai-use)**
 
-Bloomberg.com • 53m ago
+Bloomberg.com • 1h ago
 
 ---
 
 **[Elon Musk's xAI sues Colorado over state's new AI law](https://www.reuters.com/legal/government/elon-musks-xai-sues-colorado-over-states-new-ai-law-2026-04-09/)**
 
-Reuters • 31m ago
+Reuters • 1h ago
 
 ---
 
@@ -191,7 +191,7 @@ Reuters • 31m ago
 
 A man was arrested in Puerto Rico after allegedly using an AI-generated deepfake video to deceive a Seminole County deputy.
 
-WESH • 28m ago
+WESH • 1h ago
 
 ---
 
@@ -233,13 +233,13 @@ In 1958, Mao ordered every village to produce steel. The steel was useless. The 
 
 **[Ask HN: What are you building that's not AI related?](https://news.ycombinator.com/item?id=47700460)**
 
-⬆️ 114 • 💬 134 • 15h ago
+⬆️ 114 • 💬 134 • 16h ago
 
 ---
 
 **[Study found that young adults have grown less hopeful and more angry about AI](https://news.ycombinator.com/item?id=47704443)**
 
-⬆️ 105 • 💬 156 • 8h ago • [nytimes.com](https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html)
+⬆️ 105 • 💬 156 • 9h ago • [nytimes.com](https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html)
 
 ---
 
@@ -251,7 +251,7 @@ In 1958, Mao ordered every village to produce steel. The steel was useless. The 
 
 **[The back story behind the first "$1.8B" dollar "AI Company"](https://news.ycombinator.com/item?id=47668658)**
 
-⬆️ 69 • 💬 9 • 2d ago • [garymarcus.substack.com](https://garymarcus.substack.com/p/the-back-story-behind-the-first-18)
+⬆️ 69 • 💬 9 • 3d ago • [garymarcus.substack.com](https://garymarcus.substack.com/p/the-back-story-behind-the-first-18)
 
 ---
 
@@ -259,7 +259,7 @@ In 1958, Mao ordered every village to produce steel. The steel was useless. The 
 
 Thanks to the new possibilities afforded by AI coding tools, the App Store is seeing a resurgence in new app submissions.
 
-⬆️ 64 • 💬 73 • 19h ago • [9to5Mac](https://9to5mac.com/2026/04/06/app-store-sees-84-surge-in-new-apps-as-ai-coding-tools-take-off/)
+⬆️ 64 • 💬 73 • 20h ago • [9to5Mac](https://9to5mac.com/2026/04/06/app-store-sees-84-surge-in-new-apps-as-ai-coding-tools-take-off/)
 
 ---
 
@@ -281,7 +281,7 @@ Could AI become dangerous? Can we trust AI Agents? AGI. Use code insideai at htt
 
 📺 InsideAI
 
-👁️ 88K • 👍 6K • 💬 500 • ⏱️ 16:24 • 6h ago
+👁️ 88K • 👍 6K • 💬 500 • ⏱️ 16:24 • 7h ago
 
 ---
 
@@ -301,7 +301,7 @@ Meta has launched Muse Spark, its most powerful AI model yet and the first major
 
 📺 CNBC
 
-👁️ 3K • 👍 120 • 💬 21 • ⏱️ 3:07 • 2h ago
+👁️ 3K • 👍 120 • 💬 21 • ⏱️ 3:07 • 3h ago
 
 ---
 
@@ -311,7 +311,7 @@ Simplify Your Workflow With Odoo Today: https://www.odoo.com/r/fHO 4000+ read ou
 
 📺 Economics Explained
 
-👁️ 191K • 👍 8K • 💬 713 • ⏱️ 16:52 • 9h ago
+👁️ 191K • 👍 8K • 💬 713 • ⏱️ 16:52 • 10h ago
 
 ---
 
@@ -321,7 +321,7 @@ Anthropic says Mythos (officially dubbed “Claude Mythos Preview”) is not rea
 
 📺 CNN
 
-👁️ 688K • 👍 9K • 💬 2K • ⏱️ 9:58 • 21h ago
+👁️ 688K • 👍 9K • 💬 2K • ⏱️ 9:58 • 22h ago
 
 ---
 
@@ -351,7 +351,7 @@ Tech companies are investing billions of dollars in chips that cannot be turned 
 
 📺 Inside China Business
 
-👁️ 39K • 👍 4K • 💬 372 • ⏱️ 5:05 • 10h ago
+👁️ 39K • 👍 4K • 💬 372 • ⏱️ 5:05 • 11h ago
 
 ---
 
@@ -361,7 +361,7 @@ Full courses + unlimited support: https://www.skool.com/ai-automation-society-pl
 
 📺 Nate Herk | AI Automation
 
-👁️ 173K • 👍 5K • 💬 640 • ⏱️ 7:50 • 1d ago
+👁️ 173K • 👍 5K • 💬 640 • ⏱️ 7:50 • 2d ago
 
 ---
 
@@ -645,7 +645,7 @@ The highest-scoring AI memory system ever benchmarked. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 35.3k • 🔱 4.4k • 4h ago
+⭐ 35.3k • 🔱 4.4k • 5h ago
 
 ---
 
@@ -655,7 +655,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 27.6k • 🔱 5.1k • 6h ago
+⭐ 27.6k • 🔱 5.1k • 7h ago
 
 ---
 
@@ -665,7 +665,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Ope
 
 `Python` `claude-code` `codex` `graphrag` `knowledge-graph` `openclaw`
 
-⭐ 17.4k • 🔱 1.8k • 1h ago
+⭐ 17.4k • 🔱 1.8k • 2h ago
 
 ---
 
@@ -675,7 +675,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 14.7k • 🔱 1.4k • 3h ago
+⭐ 14.7k • 🔱 1.4k • 4h ago
 
 ---
 
@@ -695,7 +695,7 @@ Clone any website with one command using AI coding agents
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 8.7k • 🔱 382 • 3h ago
+⭐ 8.7k • 🔱 382 • 4h ago
 
 ---
 
@@ -715,7 +715,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 7.2k • 🔱 442 • 7h ago
+⭐ 7.2k • 🔱 442 • 8h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-09T23:08:57.455918+00:00'
+updated: '2026-04-10T00:01:45.939020+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
 - cryptocurrency
-- news
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 09, 2026 at 23:08 UTC  
+**Last Updated:** April 10, 2026 at 00:01 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -89,7 +89,7 @@ I can't believe this story hasn't been posted here yet. Personally, I'm skeptica
 
 Man these bitcoin critics are embarrassing. they just make me want to buy more
 
-🔗 [youtu.be](https://youtu.be/wJJYtiz0nqw) • 43m ago
+🔗 [youtu.be](https://youtu.be/wJJYtiz0nqw) • 1h ago
 
 ---
 
@@ -97,7 +97,7 @@ Man these bitcoin critics are embarrassing. they just make me want to buy more
 
 Are you a user who contributes to the Bitcoin network? For example, by running a node or mining Bitcoin?
 
-5h ago
+6h ago
 
 ---
 
@@ -105,7 +105,7 @@ Are you a user who contributes to the Bitcoin network? For example, by running a
 
 On X, Adam Back addressed, external the New York Times' assertion that he was absent on Bitcoin forums at the time when Satoshi was most active and then came back once Satoshi had vanished - saying he actually "did a lot of yakking" on the forums at the time. He said the rest of the New York Times evidence is "a combination of coincidence and similar phrases from people with similar experience and interests".
 
-🔗 [BBC News](https://www.bbc.co.uk/news/articles/cgrl4l1y9yxo) • 15h ago
+🔗 [BBC News](https://www.bbc.co.uk/news/articles/cgrl4l1y9yxo) • 16h ago
 
 ---
 
@@ -127,13 +127,13 @@ It's been a wild week for solo miners. Four different miners hit blocks in the p
 
 Think about what just happened. Iran ceasefire. Morgan Stanley launches a Bitcoin ETF. $471M pours into BTC ETFs in a single day. Price hits $72.7K. $280M in shorts get liquidated. And sentiment got WORSE. Not better. Worse. Fear & Greed was 17 before the rally. Today it's 14. The market saw the most bullish news combination in months and responded by getting more afraid. I've been watching this index for a long time. A rally on major positive catalysts that DROPS sentiment instead of lifting it tells you one thing: the people with real money don't believe this move. The $280M in liquidations means the pump was fueled by short squeezes, not by new buyers who want to hold. Halving anniversary is April 20. CPI drops tomorrow. The next two weeks will tell us if this was the start of something or just noise. But that Fear & Greed number should bother everyone who went long yesterday.
 
-16h ago
+17h ago
 
 ---
 
 **[How Africa can build the entire continent on bitcoin](https://www.reddit.com/r/Bitcoin/comments/1sgth1x/how_africa_can_build_the_entire_continent_on/)**
 
-🔗 [substack.com](https://substack.com/home/post/p-193685747) • 7h ago
+🔗 [substack.com](https://substack.com/home/post/p-193685747) • 8h ago
 
 ---
 
@@ -141,7 +141,7 @@ Think about what just happened. Iran ceasefire. Morgan Stanley launches a Bitcoi
 
 Against all odds seems getting played out 😀 three solo miners within a week found a block. This time using a NerdQaxe home miner.
 
-🔗 [X (formerly Twitter)](https://x.com/fintech_portal/status/2042004368182878626?s%3D12%26t%3DQXidZHNKuKMyEWFHanWdSA) • 1h ago
+🔗 [X (formerly Twitter)](https://x.com/fintech_portal/status/2042004368182878626?s%3D12%26t%3DQXidZHNKuKMyEWFHanWdSA) • 2h ago
 
 ---
 
@@ -149,7 +149,7 @@ Against all odds seems getting played out 😀 three solo miners within a week f
 
 A lot of people assume self-custody is too complicated, but with the right tools it's pretty simple. Curious what setups others here are using?
 
-8h ago
+9h ago
 
 ---
 
@@ -161,7 +161,7 @@ A lot of people assume self-custody is too complicated, but with the right tools
 
 For years, bitcoin creator Satoshi Nakamoto has avoided discovery. Now, a 10,000-word New York Times investigation may have unraveled the mystery, landing on British computer scientist Dr. Adam Back as Nakamoto.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -169,13 +169,13 @@ Yahoo Finance • 16h ago
 
 Analyst Lance Vitanza is betting that digital asset treasury"companies like Nakamoto, SharpLink and Strive can outperform standard crypto ETFs by aggressively stacking coins and capturing staking yields.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
 **[Bitcoin miners are losing money minting coins. It’s the same problem that killed the penny.](https://www.marketwatch.com/story/bitcoin-miners-are-losing-money-minting-coins-its-the-same-problem-that-killed-the-penny-f907db5c)**
 
-MarketWatch • 3h ago
+MarketWatch • 4h ago
 
 ---
 
@@ -183,13 +183,13 @@ MarketWatch • 3h ago
 
 Open interest in BTC and ETH perpetual futures rose by over $2 billion each in 24 hours after the U.S.-Iran ceasefire announcement.
 
-The Block • 2h ago
+The Block • 3h ago
 
 ---
 
 **[Buy Bitcoin at Night](https://www.bloomberg.com/opinion/newsletters/2026-04-09/buy-bitcoin-at-night)**
 
-Bloomberg.com • 5h ago
+Bloomberg.com • 6h ago
 
 ---
 
@@ -225,7 +225,7 @@ Barron's • 16h ago
 
 Morgan Stanley Bitcoin Trust's first-day volume exceeded the $30 million estimate from Bloomberg Senior Analyst Eric Balchunas.
 
-The Block • 21h ago
+The Block • 22h ago
 
 ---
 
@@ -317,7 +317,7 @@ Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FR
 
 📺 CryptosRUs
 
-👁️ 16K • 👍 870 • 💬 209 • ⏱️ 50:22 • 8h ago
+👁️ 16K • 👍 870 • 💬 209 • ⏱️ 50:22 • 9h ago
 
 ---
 
@@ -337,7 +337,7 @@ Morgan Stanley CRUSHED it on their first day of Bitcoin ETF price action but WIL
 
 📺 Digital Asset News
 
-👁️ 2K • 👍 291 • 💬 25 • ⏱️ 16:45 • 2h ago
+👁️ 2K • 👍 291 • 💬 25 • ⏱️ 16:45 • 3h ago
 
 ---
 
@@ -347,7 +347,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 WEE
 
 📺 Altcoin Daily
 
-👁️ 45K • 👍 2K • 💬 469 • ⏱️ 9:28 • 1d ago
+👁️ 45K • 👍 2K • 💬 469 • ⏱️ 9:28 • 2d ago
 
 ---
 
@@ -357,7 +357,7 @@ Bitcoin #Crypto #Finance Is the Bitcoin bottom finally in? Tom Lee thinks so, ca
 
 📺 The Wolf Of All Streets
 
-👁️ 15K • 👍 816 • 💬 217 • ⏱️ 39:05 • 9h ago
+👁️ 15K • 👍 816 • 💬 217 • ⏱️ 39:05 • 10h ago
 
 ---
 
@@ -387,7 +387,7 @@ Who is Satoshi Nakamoto? Bitcoin's pseudonymous founder has hidden his identity 
 
 📺 New York Times Podcasts
 
-👁️ 14K • 👍 367 • 💬 148 • ⏱️ 53:18 • 8h ago
+👁️ 14K • 👍 367 • 💬 148 • ⏱️ 53:18 • 9h ago
 
 ---
 
@@ -397,7 +397,7 @@ Bitcoin is at a major crossroads. After a volatile start to April 2026, the mark
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 379 • 💬 38 • ⏱️ 1:06:12 • 7h ago
+👁️ 5K • 👍 379 • 💬 38 • ⏱️ 1:06:12 • 8h ago
 
 ---
 
@@ -407,7 +407,7 @@ Bitcoin #BTC #CryptoNews #BitcoinNews #IranWar #Ceasefire #ETF #BitcoinETF #Blac
 
 📺 Your John AG
 
-👁️ 364 • 👍 8 • ⏱️ 2:27 • 3h ago
+👁️ 364 • 👍 8 • ⏱️ 2:27 • 4h ago
 
 ---
 

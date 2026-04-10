@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-09T23:08:57.464082+00:00'
+updated: '2026-04-10T00:01:45.948119+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 09, 2026 at 23:08 UTC  
+**Last Updated:** April 10, 2026 at 00:01 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Here is the worlds first man being kicked in the balls by a robot](https://www.reddit.com/r/robotics/comments/1sgved8/here_is_the_worlds_first_man_being_kicked_in_the/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 From Deepak Pathak on 𝕏 (full video): https://x.com/pathak2206/status/2041939631860482211
 
-11h ago
+12h ago
 
 ---
 
@@ -50,7 +50,7 @@ From Deepak Pathak on 𝕏 (full video): https://x.com/pathak2206/status/2041939
 
 This test demonstrates how to connect a direct Time-of-Flight (dToF) distance sensor to a Raspberry Pi for accurate proximity sensing.The tutorial code will be publicly released on GitHub later.
 
-8h ago
+9h ago
 
 ---
 
@@ -58,7 +58,7 @@ This test demonstrates how to connect a direct Time-of-Flight (dToF) distance se
 
 I've been working on biologically grounded locomotion control using spiking neural networks instead of conventional RL. The system runs on a Freenove Robot Dog Kit (FNK0050) with a Raspberry Pi 4. The approach: train an Izhikevich SNN in MuJoCo simulation using a custom MJCF model of the robot, then transfer the brain to real hardware where it continues learning with IMU feedback (MPU6050). A central pattern generator provides innate gait, and a competence gate gradually hands control to the SNN as it proves stable. Key result: brain persistence works — stop the robot, restart it days later, synaptic weights reload and it walks immediately without relearning. A fresh brain needs 2,000 steps (40s) to reach the same level. Honest limitation: spectral analysis shows the SNN learns conservative dampening rather than faster/better gaits. It makes movements smaller and more regular. Biologically plausible (puppies do this) but not yet performance-improving. Total hardware cost: ~€200 (Pi + kit). 232 neurons, 50Hz control loop, no GPU needed. Demo: https://www.youtube.com/watch?v=7iN8tB2xLHI Code: github.com/MarcHesse/mhflocke (Apache 2.0) Paper: doi.org/10.5281/zenodo.19481146 Happy to discuss the architecture, the sim-to-real challenges, or the conservative dampening finding.
 
-10h ago
+11h ago
 
 ---
 
@@ -66,7 +66,7 @@ I've been working on biologically grounded locomotion control using spiking neur
 
 Scientists at Binghamton University have developed a robot guide dog system that communicates with the visually impaired and provides real-time feedback during travel.
 
-🔗 [The Brighter Side of News](http://thebrighterside.news/post/talking-robot-guide-dog-uses-ai-to-describe-the-world-as-it-leads) • 25m ago
+🔗 [The Brighter Side of News](http://thebrighterside.news/post/talking-robot-guide-dog-uses-ai-to-describe-the-world-as-it-leads) • 1h ago
 
 ---
 
@@ -74,7 +74,7 @@ Scientists at Binghamton University have developed a robot guide dog system that
 
 What you're watching: 8 virtual Crazyflie quadrotors that learned to take off, hold formations, recover from failures, and navigate obstacles entirely through trial and error in simulation. No scripted choreography. The swarm figures it out. Full open-source repo if you want to run it yourself: https://github.com/garykuepper/ggSwarm Rendered in NVIDIA Isaac Lab. Trained with reinforcement learning (PPO). Each drone runs the same AI brain and makes its own decisions — no central controller telling them what to do.
 
-17h ago
+18h ago
 
 ---
 
@@ -86,7 +86,7 @@ What you're watching: 8 virtual Crazyflie quadrotors that learned to take off, h
 
 **[Now they are full grown 😀 (audio with detailed description on the hardware and power supply)](https://www.reddit.com/r/robotics/comments/1sh4kuq/now_they_are_full_grown_audio_with_detailed/)**
 
-34m ago
+1h ago
 
 ---
 
@@ -102,7 +102,7 @@ Hi everyone, We’ve been working on a new tool called One Click Any PC, and we�
 
 Hey everyone, I’ve just pushed a big update to PyOctoMap to make it feel truly "native" in Python. The main goal was to kill the "manual dependency wrangling" phase. We now have pre-built wheels for Windows and macOS (Apple Silicon), so it’s finally just a pip install pyoctomap away on any platform. We’re even ready for Python 3.14. Aside from platform support, I’ve added: Multi-Tree Support: Color, Stamped, and Counting trees are all now in the core. AI Demo: The pyocto-map-anything showcase is updated to show how this all ties into AI depth estimation. All types of contributions and support are welcome! If this makes your robotics or 3D perception workflow easier, a star on GitHub ⭐ or a bit of feedback would be awesome. GitHub:https://github.com/Spinkoo/pyoctomap https://preview.redd.it/zeon4s6vs5ug1.png?width=2370&format=png&auto=webp&s=88fde4081612f981454cbe4953e11b11e9273fcf
 
-10h ago
+11h ago
 
 ---
 
@@ -112,7 +112,7 @@ Hey everyone, I’ve just pushed a big update to PyOctoMap to make it feel truly
 
 **[National robotics push caught in delayed Trump-Xi meeting](https://www.politico.com/news/2026/04/09/national-robotics-trump-xi-china-00861918)**
 
-Politico • 14h ago
+Politico • 15h ago
 
 ---
 
@@ -128,7 +128,7 @@ IFR International Federation of Robotics • 1d ago
 
 A Chinese factory is producing humanoid robots every 30 minutes, marking a shift toward large-scale manufacturing and broader adoption.
 
-Fox News • 6h ago
+Fox News • 7h ago
 
 ---
 
@@ -136,7 +136,7 @@ Fox News • 6h ago
 
 Meet 'Digit', a humanoid robotic worker made by Agility Robotics, now part of a new wave of robots replacing workers at companies like Schaeffler, Toyota, and GXO. NBC News' Brian Cheung takes a look.
 
-NBC News • 2h ago
+NBC News • 3h ago
 
 ---
 
@@ -160,7 +160,7 @@ Yahoo Finance • 1d ago
 
 Deepu Talla helps bring the future of robotics closer to reality through the Nvidia-Talla Endowment for Texas Robotics.
 
-The University of Texas at Austin • 8h ago
+The University of Texas at Austin • 9h ago
 
 ---
 
@@ -206,7 +206,7 @@ South Korea is building robots you've only seen in movies, from giant walking ma
 
 📺 DeCode
 
-👁️ 14K • 👍 302 • 💬 18 • ⏱️ 14:45 • 8h ago
+👁️ 14K • 👍 302 • 💬 18 • ⏱️ 14:45 • 9h ago
 
 ---
 
@@ -236,7 +236,7 @@ The world wasn't ready for what 2026 had in store — a wave of humanoid robots 
 
 📺 The AI Nexus
 
-👁️ 8K • 👍 260 • 💬 19 • ⏱️ 16:42 • 3d ago
+👁️ 8K • 👍 260 • 💬 19 • ⏱️ 16:42 • 4d ago
 
 ---
 
@@ -276,7 +276,7 @@ The laser 'Taeja' Dagon is for real. There have been so many laser weapons in WR
 
 📺 PREDATOR WR
 
-👁️ 9K • 👍 381 • 💬 57 • ⏱️ 15:46 • 11h ago
+👁️ 9K • 👍 381 • 💬 57 • ⏱️ 15:46 • 12h ago
 
 ---
 
@@ -284,7 +284,7 @@ The laser 'Taeja' Dagon is for real. There have been so many laser weapons in WR
 
 📺 Robot Julie 
 
-👁️ 23K • 👍 195 • ⏱️ 0:22 • 20h ago
+👁️ 23K • 👍 195 • ⏱️ 0:22 • 21h ago
 
 ---
 

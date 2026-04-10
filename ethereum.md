@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-09T23:08:57.461208+00:00'
+updated: '2026-04-10T00:01:45.944928+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
 - cryptocurrency
-- news
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 09, 2026 at 23:08 UTC  
+**Last Updated:** April 10, 2026 at 00:01 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Tom Lee went on CNBC saying the market bottom is probably already in, and that crypto (especially ETH) could lead the next move up. But the interesting part is he’s not just talking — the company he chairs (BitMine) keeps stacking ETH hard. They’re sitting on ~4.8M ETH (close to 4% of supply), with a huge chunk staked. That’s not trading, that’s positioning. Feels like one of the first times we’re seeing a macro thesis + actual balance sheet move fully aligned around Ethereum. Source: https://btcusa.com/tom-lee-says-the-market-bottom-is-in-as-bitmine-doubles-down-on-ethereum/
 
-11h ago
+12h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The Ethereum Layer 2 powering Predictstreet. Built by Abu Dhabi's IHC, hosting a UAE central-bank-licensed stablecoin, with BlackRock and Mastercard as collaborators.
 
-🔗 [Company Gibraltar | company.gi](https://company.gi/blog/adi-chain-explained) • 13h ago
+🔗 [Company Gibraltar | company.gi](https://company.gi/blog/adi-chain-explained) • 14h ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 TD Cowen remains positive on $55 billion Bitcoin treasury pioneer Strategy, despite trimming its price target yet again.
 
-Decrypt • 59m ago
+Decrypt • 1h ago
 
 ---
 
@@ -168,7 +168,7 @@ Barron's • 16h ago
 
 **[Most large cryptocurrencies fall as Ethereum tumbles](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-as-ethereum-tumbles-91a2f421-9307bc266dcb)**
 
-MarketWatch • 9h ago
+MarketWatch • 10h ago
 
 ---
 
@@ -176,7 +176,7 @@ MarketWatch • 9h ago
 
 Bitcoin and Ethereum’s dominance is being directly challenged in a new outlook from Bloomberg Intelligence strategist Mike McGlone, who believes that an unexpected contender is positioning itself to overtake both. Tether USDT’s market cap is steadily closing in on Ethereum, and Mike McGlone thinks…
 
-TradingView • 6h ago
+TradingView • 7h ago
 
 ---
 
@@ -224,7 +224,7 @@ Yahoo Finance • 2d ago
 
 Bitcoin and Ethereum are trading higher as open interest rises, providing some optimism about investors' risk-on appetite.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -248,7 +248,7 @@ In this video, I take a closer look at the current Ethereum market structure and
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 166 • 💬 18 • ⏱️ 10:05 • 4h ago
+👁️ 2K • 👍 166 • 💬 18 • ⏱️ 10:05 • 5h ago
 
 ---
 
@@ -258,7 +258,7 @@ In this video, I take a closer look at the current Ethereum market structure and
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 170 • 💬 14 • ⏱️ 10:28 • 22h ago
+👁️ 3K • 👍 170 • 💬 14 • ⏱️ 10:28 • 23h ago
 
 ---
 
@@ -268,7 +268,7 @@ ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the
 
 📺 Plush Studios
 
-👁️ 6K • 👍 599 • 5h ago
+👁️ 6K • 👍 599 • 6h ago
 
 ---
 
@@ -278,7 +278,7 @@ ethereum #bitcoin #pulsechain **NOT INVESTMENT OR FINANCIAL ADVICE. ENTERTAINMEN
 
 📺 Creed Of Crypto 🛐
 
-👁️ 52 • 👍 10 • 💬 12 • ⏱️ 11:45 • 5h ago
+👁️ 52 • 👍 10 • 💬 12 • ⏱️ 11:45 • 6h ago
 
 ---
 
@@ -288,7 +288,7 @@ FOLLOW ANDY, ROBBIE & THE ROLLUP ⏬ Twitter (X): https://x.com/therollupco Andy
 
 📺 The Rollup
 
-👁️ 430 • 👍 1 • ⏱️ 0:26 • 1h ago
+👁️ 430 • 👍 1 • ⏱️ 0:26 • 2h ago
 
 ---
 
@@ -298,7 +298,7 @@ In this video, we explain what an XRP node is, why node operation has recently g
 
 📺 Discover Health
 
-👁️ 5K • 👍 191 • ⏱️ 4:44 • 10h ago
+👁️ 5K • 👍 191 • ⏱️ 4:44 • 11h ago
 
 ---
 
@@ -318,7 +318,7 @@ Jetzt gratis sichern → https://www.blockchain-investor.de/app Die neue „Bloc
 
 📺 Krypto Report
 
-👁️ 4K • 👍 409 • 💬 11 • ⏱️ 18:19 • 6h ago
+👁️ 4K • 👍 409 • 💬 11 • ⏱️ 18:19 • 7h ago
 
 ---
 
@@ -328,7 +328,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 2K • 👍 88 • 💬 35 • ⏱️ 1:01:34 • 12h ago
+👁️ 2K • 👍 88 • 💬 35 • ⏱️ 1:01:34 • 13h ago
 
 ---
 
