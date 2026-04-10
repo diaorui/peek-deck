@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-10T17:49:49.390282+00:00'
+updated: '2026-04-10T18:56:04.699466+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
+- videos
 - news
 - social
-- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 10, 2026 at 17:49 UTC  
+**Last Updated:** April 10, 2026 at 18:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,245.37
+### $2,248.30
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.7%  
-**7d:** +8.7%  
-**30d:** +8.2%  
-**90d:** -28.2%  
-**1y:** +43.0%  
+**24h:** +1.5%  
+**7d:** +8.9%  
+**30d:** +8.4%  
+**90d:** -28.1%  
+**1y:** +43.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $270.42B
+**Market Cap:** $271.18B
 Rank #2
 
 **Circulating Supply:** 120,691,092 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--54.7%
+-54.5%
 
 **All-Time Low:** $0.43
-+517504.8%
++519186.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 So I went back through my wallet history and used a couple of MEV tracking tools to figure out how much value I actually lost to sandwich attacks and front-running over the past 6 months. not gonna share exact numbers but it was enough to make me seriously rethink where and how I trade on-chain. the thing that pissed me off the most wasn't even the big trades. it was the small ones. $200-500 swaps getting sandwiched for a few bucks each time. doesn't feel like much in the moment but it adds up fast when you're making multiple trades a week. what I learned: AMMs are basically open season for MEV bots. your trade hits the mempool and you're cooked private RPCs like flashbots protect help but they're not a complete solution. you're still trusting the builder not to screw you intent-based systems (cow swap etc) are better but they introduce solver trust assumptions and don't work for everything the only architecture where MEV extraction is structurally impossible is one where transaction ordering is provable and verifiable. not hidden, not trusted, but mathematically proven to be fair honestly the biggest takeaway is that most people have no idea how much they're losing. the "invisible tax" framing is accurate. you never see a line item that says "MEV bot took $4.50 from this trade" but it's happening on basically every swap. anyone else tracked their MEV losses? curious what numbers people are seeing. also curious if anyone has found a setup that actually eliminates it, not just reduces it.
 
-7h ago
+8h ago
 
 ---
 
@@ -80,7 +80,7 @@ So I went back through my wallet history and used a couple of MEV tracking tools
 
 Roman Storm acquittal hearing, ETHGlobal Cannes hackathon finalists, EVM Now block explorer
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-19/) • 3h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-19/) • 4h ago
 
 ---
 
@@ -88,7 +88,7 @@ Roman Storm acquittal hearing, ETHGlobal Cannes hackathon finalists, EVM Now blo
 
 Ethereum developers align on Glamsterdam devnet progress, Hegota Account Abstraction direction, & key execution layer upgrades shaping the roadmap.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-234/) • 9h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-234/) • 10h ago
 
 ---
 
@@ -96,7 +96,7 @@ Ethereum developers align on Glamsterdam devnet progress, Hegota Account Abstrac
 
 How does staking work? I staked ~0.1 eth through Exodus (they use Everstake) about 64 days ago. Eth validator queue is currently ~52 days. I was told I’d need to wait 1-5 days for it to pool on top of the validator time. It’s now approaching >1 week since the “expected” time to finish staking and start earning rewards, but it still shows staking. Is there a way to check how long I have to wait or know what happened?  [comments]
 
-18h ago
+19h ago
 
 ---
 
@@ -156,13 +156,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 TD Cowen remains positive on $55 billion Bitcoin treasury pioneer Strategy, despite trimming its price target yet again.
 
-Decrypt • 19h ago
+Decrypt • 20h ago
 
 ---
 
 **[Checkpoint #9: Apr 2026](https://blog.ethereum.org/2026/04/10/checkpoint-9)**
 
-Ethereum Foundation Blog • 1h ago
+Ethereum Foundation Blog • 2h ago
 
 ---
 
@@ -170,15 +170,21 @@ Ethereum Foundation Blog • 1h ago
 
 Ethereum's (ETH) staking ratio has surpassed 30% to hit an all-time high (ATH), Token Terminal highlighted on Apr. 9. While the Ethereum network's staking market cap hit a record high of $157 billion on Aug. 11, 2025, the figure currently stands at $84.8 billion. Launched in 2015, Ethereum is one ...
 
-Yahoo Finance • 27m ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Mantle Becomes One of the First Ethereum L2s to Bring Tokenized Equities to On-Chain Liquidity with xStocks and Bybit](https://www.tradingview.com/news/chainwire:4cf015f8b094b:0-mantle-becomes-one-of-the-first-ethereum-l2s-to-bring-tokenized-equities-to-on-chain-liquidity-with-xstocks-and-bybit/)**
+**[Ethereum is abandoning layer 2s. Arbitrum’s creator still sees a bright future ahead](https://www.dlnews.com/articles/people-culture/arbitrum-sees-bright-future-as-ethereum-abandons-layer-2s/)**
 
-DUBAI, UAE, April 10, 2026 /PRNewswire/ -- Mantle, the high-performance distribution layer for real-world assets (RWAs), connecting traditional finance and on-chain liquidity, and Bybit, the world's leading global cryptocurrency exchange, today announced the live integration of xStocks on Mantle. I…
+Ethereum's thought leaders have turned on layer 2s like Arbitrum. They're now focused on scaling the Ethereum mainnet. Co-founder of Arbitrum creator Offchain Labs explains why he still sees a bright future ahead.
 
-TradingView • 2h ago
+dlnews.com • 3h ago
+
+---
+
+**[Most large cryptocurrencies fall as Ethereum tumbles](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-as-ethereum-tumbles-91a2f421-9307bc266dcb)**
+
+MarketWatch • 1d ago
 
 ---
 
@@ -186,7 +192,7 @@ TradingView • 2h ago
 
 The crypto market has rebounded, with Bitcoin rising 10% over the last eight days and Ethereum up 12% in the same period. The total market cap is now up
 
-Coinpedia Fintech News • 2h ago
+Coinpedia Fintech News • 3h ago
 
 ---
 
@@ -208,19 +214,15 @@ Barron's • 1d ago
 
 Bitmine Immersion's hybrid model combines large-scale ETH holdings, with MAVAN projected to generate $300 million annually. Learn why BMNR stock is a strong buy.
 
-Seeking Alpha • 7h ago
+Seeking Alpha • 8h ago
 
 ---
 
-**[Most large cryptocurrencies fall as Ethereum tumbles](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-as-ethereum-tumbles-91a2f421-9307bc266dcb)**
+**[ETH Up or Down - 5 Minutes](https://polymarket.com/event/eth-updown-5m-1775843100)**
 
-MarketWatch • 1d ago
+Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
----
-
-**[Will AI Boost Ethereum Price? Marc Andreessen Claims AI Is ‘Killer Crypto App’](https://www.ccn.com/news/crypto/will-ai-boost-ethereum-price-marc-andreessen-claims-ai-is-killer-crypto-app/)**
-
-CCN.com • 6h ago
+Polymarket • 22h ago
 
 ---
 
@@ -234,17 +236,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 13K • 👍 421 • 💬 42 • ⏱️ 20:08 • 2d ago
-
----
-
-**[This is BMNR Stock Price when they OWN 5% of ETH!](https://www.youtube.com/watch?v=OBr1T90IhkI)**
-
-In this video we talk about developments in the Ethereum ecosystem, covering both the bear and bull case, answering questions ...
-
-📺 Elijah Cheng
-
-👁️ 112 • 👍 9 • 💬 1 • ⏱️ 37:25 • 1h ago
+👁️ 14K • 👍 421 • 💬 42 • ⏱️ 20:08 • 2d ago
 
 ---
 
@@ -254,7 +246,37 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 102 • 👍 8 • ⏱️ 4:53 • 8h ago
+👁️ 108 • 👍 9 • ⏱️ 4:53 • 10h ago
+
+---
+
+**[Which Altcoins Are Worth Buying for the Next Bull Run? (ALT/BTC Ratio Analysis)](https://www.youtube.com/watch?v=naMgImE0tOg)**
+
+I ranked all top 100 altcoins against Bitcoin using 5 years of ALT/BTC ratio data. Only 4 out of 69 veterans actually outperformed ...
+
+📺 VirtualBacon
+
+👁️ 2K • 👍 83 • 2h ago
+
+---
+
+**[Ethereum Bottom? Massive 71K ETH Buy Signal! #shorts](https://www.youtube.com/watch?v=JO1E_T1-WqY)**
+
+Earth's top Ethereum buyer just acquired 71000 ETH, signaling a potential market bottom. Smart investors position themselves ...
+
+📺 CoinBros
+
+👁️ 672 • ⏱️ 0:33 • 20h ago
+
+---
+
+**[Ethereum: This Might Be a Fake Move](https://www.youtube.com/watch?v=QpgmpJLh7Fs)**
+
+In this video, I take a closer look at the current Ethereum market structure and explain why the recent move higher does not ...
+
+📺 More Crypto Online
+
+👁️ 4K • 👍 203 • 💬 28 • ⏱️ 10:05 • 1d ago
 
 ---
 
@@ -264,57 +286,17 @@ join my social platforms for updates and analysis ✓Instagram: ...
 
 📺 Aryan trader Live
 
-👁️ 5K • 👍 4K • 3h ago
+👁️ 18K • 👍 5K • 💬 4 • ⏱️ 1:56:18 • 1h ago
 
 ---
 
-**[Altcoins Could Be Moving Soon | Signals to Watch Right Now](https://www.youtube.com/watch?v=2PeeFJlPXrc)**
+**[Will The Ethereum Economic Zone (EEZ) Rebuild $ETH Dominance?](https://www.youtube.com/watch?v=rkRiLs8wl28)**
 
-In this video, we explain what an XRP node is, why node operation has recently gained attention, and how to launch your own ...
+SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium ...
 
-📺 Discover Health
+📺 Bankless
 
-👁️ 10K • 👍 195 • ⏱️ 4:44 • 1d ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=lOY0puHy_W4)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Crypto Gyan
-
-👁️ 359 • 👍 50 • ⏱️ 4:34 • 3h ago
-
----
-
-**[The Crypto Situation Is Worse Than You Think](https://www.youtube.com/watch?v=kN5codbLCCY)**
-
-BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 ✓ Bitunix (no kyc, $10k bonus): ...
-
-📺 Altcoin Daily
-
-👁️ 33K • 👍 2K • 💬 355 • ⏱️ 12:20 • 18h ago
-
----
-
-**[Banks Attack Stablecoin Yield Report!🔥Scott Bessent Backs CLARITY🚨](https://www.youtube.com/watch?v=mIt9FXb3DTw)**
-
-The White House released a report that labeled stablecoins as low risk, but several major U.S. banks disagree, saying the digital ...
-
-📺 Paul Barron Network
-
-👁️ 53K • 👍 3K • 💬 225 • ⏱️ 12:54 • 22h ago
-
----
-
-**[CPI Confusion Hits Crypto Markets](https://www.youtube.com/watch?v=otguMZn7uqA)**
-
-CPI just dropped, and it's sending mixed signals across the market. Headline inflation spiked, but core CPI cooled off — leaving ...
-
-📺 Delta Exchange
-
-👁️ 406 • 👍 46 • 💬 3 • ⏱️ 2:48 • 1h ago
+👁️ 3K • 👍 108 • 💬 41 • ⏱️ 1:01:34 • 1d ago
 
 ---
 
@@ -324,7 +306,27 @@ BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 6K • 👍 264 • 💬 231 • ⏱️ 22:51 • 16h ago
+👁️ 7K • 👍 270 • 💬 227 • ⏱️ 22:51 • 18h ago
+
+---
+
+**[Ethereum Se Está Muriendo... (¿O Es la Mayor Señal de Compra de la Década?)](https://www.youtube.com/watch?v=2sDzHBO2mSs)**
+
+Ethereum está pasando por uno de los momentos más complicados de todo este ciclo… y lo curioso es que, cuanto peor pinta ...
+
+📺 Healthy Pockets
+
+👁️ 11K • 👍 751 • 💬 105 • ⏱️ 14:46 • 1d ago
+
+---
+
+**[Explodieren diese Altcoins JETZT? Bitcoin, Ethereum, XRP &amp; Co. im Check](https://www.youtube.com/watch?v=Xcy_rbqCScg)**
+
+Explodieren diese Altcoins jetzt? In diesem Video analysiere ich die aktuelle Marktlage von Bitcoin, Ethereum (ETH), XRP, ...
+
+📺 Trading2Go
+
+👁️ 198 • 👍 54 • 💬 8 • ⏱️ 13:38 • 3h ago
 
 ---
 
