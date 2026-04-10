@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-10T22:38:57.412880+00:00'
+updated: '2026-04-10T23:36:16.005633+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
+- social
 - repositories
 - news
-- social
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 10, 2026 at 22:38 UTC  
+**Last Updated:** April 10, 2026 at 23:36 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 A California man, who has filed multiple lawsuits against major university systems over his son's college rejections, says artificial intelligence has become the key to pursuing the cases after no law firm agreed to represent them.
 
-🔗 [ABC7 Los Angeles](https://abc7.com/story/google-engineer-rejected-16-colleges-uses-ai-sue-universities-racial-discrimination/18861654/) • 8h ago
+🔗 [ABC7 Los Angeles](https://abc7.com/story/google-engineer-rejected-16-colleges-uses-ai-sue-universities-racial-discrimination/18861654/) • 9h ago
 
 ---
 
@@ -49,7 +49,7 @@ A California man, who has filed multiple lawsuits against major university syste
 
 How has Claude far surpassed the competitors? They were not first to market or ever had the most cash yet their feature are far and away the best on the market.
 
-1h ago
+2h ago
 
 ---
 
@@ -57,7 +57,7 @@ How has Claude far surpassed the competitors? They were not first to market or e
 
 i want to be very clear upfront, i'm not talking about people who are genuinely trying. i'm not talking about the person in their bedroom at midnight editing their 30th video because they actually love what they make. i'm talking about the other kind. the ones who downloaded CapCut on a Tuesday, pointed their phone at their face on Wednesday, and by Friday were telling people at family dinners that they're a "content creator." the internet used to be where you went to find something you couldn't find anywhere else. now it's where everyone goes to show you something you've already seen just slightly worse. and i think i finally understand why this is happening. somewhere along the way, the word "content creator" got completely detached from the word "content." the creator part became the goal. the actual content became an afterthought. a necessary inconvenience between you and the fame you've already decided you deserve. people don't ask themselves "what do i have to give?" anymore. they ask "what do i have to post?" and those two questions produce very, very different things.
 
-3h ago
+4h ago
 
 ---
 
@@ -65,7 +65,7 @@ i want to be very clear upfront, i'm not talking about people who are genuinely 
 
 I have two at the top of my mind: When it can read musical notes. I will be mildly impressed when I can paste in a picture of musical notes and with programming sets up instruments needed to play music, and then correctly plays the song it reads from the notes. My jaw will drop when finally with a simple prompt an AI can create a classic arcade style fully functioning and fun to play Pinball game. Each new version of models that become available I give that one a go. None have been even remotely close to achieving this goal. So what are your visions for what will impress you to some extent when an AI can make it for you?
 
-13h ago
+14h ago
 
 ---
 
@@ -73,7 +73,7 @@ I have two at the top of my mind: When it can read musical notes. I will be mild
 
 Financial industry leaders met to discuss potential cyber risks posed by Anthropic's latest AI model, which has found weaknesses in every major computer operating system.
 
-🔗 [cbsnews.com](https://www.cbsnews.com/news/mythos-anthropic-ai-cybersecurity-risks-powell-bessent/) • 2h ago
+🔗 [cbsnews.com](https://www.cbsnews.com/news/mythos-anthropic-ai-cybersecurity-risks-powell-bessent/) • 3h ago
 
 ---
 
@@ -81,7 +81,7 @@ Financial industry leaders met to discuss potential cyber risks posed by Anthrop
 
 A few days ago, Andrej Karpathy’s post on "LLM Knowledge Bases" went viral. He proposed a shift from manipulating code to manipulating knowledge-using LLMs to incrementally compile raw data into a structured, interlinked graph of markdown files. I loved the idea and started testing it out. It worked incredibly well, and I decided this was how I wanted to store all my research moving forward. But the friction was killing me. My primary device is my phone, and every time I found a great article or paper, I had to wait until I was at my laptop, copy the link over, and run a mess of scripts just to ingest one thing. I wanted the "Knowledge wiki" in my pocket. 🎒 I’m not a TypeScript developer, but I decided to "vibecode" the entire solution into a native app using Tauri v2 and LangGraph.js. After a lot of back-and-forth debugging and iteration, I’ve released LLM Wiki. How it works with different sources: The app is built to be a universal "knowledge funnel." I’ve integrated specialized extractors for different media: * PDFs: It uses a local worker to parse academic papers and reports directly on-device. * Web Articles: I’ve integrated Mozilla’s Readability engine to strip the "noise" from URLs, giving the LLM clean markdown to analyze. * YouTube: It fetches transcripts directly from the URL. You can literally shared a 40-minute deep-dive video from the YouTube app into LLM Wiki, and it will automatically document the key concepts and entities into your graph while you're still watching. The "Agentic" Core: Under the hood, it’s powered by two main LangGraph agents. The Ingest Agent handles the heavy lifting of planning which pages to create or update to avoid duplication. The Lint Agent is your automated editor—it scans for broken links, "orphan" pages that aren't linked to anything, and factual contradictions between different sources, suggesting fixes for you to approve. Check it out (Open Source): The app is fully open-source and brings-your-own-key (OpenAI, Anthropic, Google, or any custom endpoint). Since I vibecoded this without prior TS experience, there will definitely be some bugs, but it’s been incredibly stable for my own use cases. GitHub (APK and EXE in the Releases): https://github.com/Kellysmoky123/LlmWiki If you find any issues or want to help refine the agents, please open an issue or a PR. I'd love to see where we can take this "compiled knowledge" idea!
 
-6h ago
+7h ago
 
 ---
 
@@ -89,7 +89,7 @@ A few days ago, Andrej Karpathy’s post on "LLM Knowledge Bases" went viral. He
 
 I have been seeing a lot of people claiming how good Gemma 4 31B model is. I know when compared to the size of models like sonnet which is guessed to be a 1.5T model, the size of Gemma 31b is very small. but people keep claiming Gemma is soo good for coding and day to day tasks.
 
-17h ago
+18h ago
 
 ---
 
@@ -97,7 +97,7 @@ I have been seeing a lot of people claiming how good Gemma 4 31B model is. I kno
 
 How well can AI-derived synthetic research data replicate the responses of human participants? An emerging literature has begun to engage with this question, which carries deep implications for organizational research practice. This article presents a comparison between a human-respondent survey of 420 Silicon Valley coders and developers and synthetic survey data designed to simulate real survey takers generated by five leading Generative AI Large Language Models: ChatGPT Thinking 5 Pro, Claude Sonnet 4.5 Pro plus Claude CoWork 1.123, Gemini Advanced 2.5 Pro, Incredible 1.0, and DeepSeek 3.2. Our findings reveal that while AI agents produced technically plausible results that lean more towards replicability and harmonization than assumed, none were able to capture the counterintuitive insights that made the human survey valuable. Moreover, deviations grouped together for all models, leaving the real data as the outlier. Our key finding is that while leading LLMs are increasingly being used to scale, replicate and replace human survey responses in research, these advances only show an increased capacity to parrot conventional wisdom in harmony with each other rather than revealing novel findings. If synthetic respondents are used in future research, we need more replicable validation protocols and reporting standards for when and where synthetic survey data can be used responsibly, a gap that this paper fills. Our results suggest that synthetic survey responses cannot meaningfully model real human social beliefs within organizations, particularly in contexts lacking previously documented evidence. We conclude that synthetic survey-based research should be cast not as a substitute for rigorous survey methods, but as an increasingly reliable pre- or post-fieldwork instrument for identifying societal assumptions, conventional wisdoms, and other expectations about research populations.
 
-🔗 [arXiv.org](https://arxiv.org/abs/2603.00059) • 10h ago
+🔗 [arXiv.org](https://arxiv.org/abs/2603.00059) • 11h ago
 
 ---
 
@@ -105,7 +105,7 @@ How well can AI-derived synthetic research data replicate the responses of human
 
 The ChatGPT-maker testified in favor of an Illinois bill that would limit when AI labs can be held liable—even in cases where their products cause “critical harm.”
 
-🔗 [WIRED](https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/) • 17h ago
+🔗 [WIRED](https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/) • 18h ago
 
 ---
 
@@ -113,7 +113,7 @@ The ChatGPT-maker testified in favor of an Illinois bill that would limit when A
 
 I am considering to buy a paid version (permium) of an Ai tool. I feel like Chatgpt is very general. Can u guys recommad me an ai which is better than chatgpt or gemini for studies . I want to use it for like a guide of A level. Thank you!
 
-10h ago
+11h ago
 
 ---
 
@@ -125,7 +125,7 @@ I am considering to buy a paid version (permium) of an Ai tool. I feel like Chat
 
 A new initiative to secure the world’s most critical software and give defenders a durable advantage in the coming AI-driven era of cybersecurity.
 
-Anthropic • 5h ago
+Anthropic • 6h ago
 
 ---
 
@@ -133,7 +133,7 @@ Anthropic • 5h ago
 
 Treasury Secretary Scott Bessent and Fed chair Jerome Powell reportedly convened Wall Street leaders in an emergency meeting addressing Anthropic’s latest model release.
 
-Fortune • 5h ago
+Fortune • 6h ago
 
 ---
 
@@ -141,7 +141,7 @@ Fortune • 5h ago
 
 Are AI agents employees or tools? A Microsoft exec suggested they're new paid "seats," a shift that could reshape SaaS pricing — and spark pushback.
 
-Business Insider • 33m ago
+Business Insider • 1h ago
 
 ---
 
@@ -149,7 +149,7 @@ Business Insider • 33m ago
 
 Apple will present new research at the ACM Human-Computer Interaction Conference 2026 later this month. Here are the details.
 
-9to5Mac • 54m ago
+9to5Mac • 1h ago
 
 ---
 
@@ -157,13 +157,13 @@ Apple will present new research at the ACM Human-Computer Interaction Conference
 
 Some economists have deemed consultants useless, but AI assistance could just be the old challenge in new clothing.
 
-Fortune • 51m ago
+Fortune • 1h ago
 
 ---
 
 **[Molotov Cocktail Is Hurled at Home of Sam Altman, OpenAI’s CEO](https://www.nytimes.com/2026/04/10/us/open-ai-sam-altman-molotov-cocktail.html)**
 
-The New York Times • 42m ago
+The New York Times • 1h ago
 
 ---
 
@@ -171,7 +171,7 @@ The New York Times • 42m ago
 
 The deal comes one day after Meta committed an additional $21 billion in spending to the cloud provider as AI demand continues to soar.
 
-CNBC • 8h ago
+CNBC • 9h ago
 
 ---
 
@@ -179,13 +179,13 @@ CNBC • 8h ago
 
 Anthropic and CoreWeave have entered into a new agreement that will see CoreWeave's AI infrastructure power Anthropic's various models.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[CoreWeave strikes AI cloud deal with Anthropic, shares surge](https://www.reuters.com/legal/transactional/coreweave-strikes-ai-cloud-deal-with-anthropic-shares-rise-2026-04-10/)**
 
-Reuters • 7h ago
+Reuters • 8h ago
 
 ---
 
@@ -193,7 +193,7 @@ Reuters • 7h ago
 
 The ChatGPT-maker testified in favor of an Illinois bill that would limit when AI labs can be held liable—even in cases where their products cause “critical harm.”
 
-WIRED • 22h ago
+WIRED • 23h ago
 
 ---
 
@@ -205,7 +205,7 @@ WIRED • 22h ago
 
 The ChatGPT-maker testified in favor of an Illinois bill that would limit when AI labs can be held liable—even in cases where their products cause “critical harm.”
 
-⬆️ 408 • 💬 303 • 9h ago • [WIRED](https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/)
+⬆️ 417 • 💬 306 • 10h ago • [WIRED](https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/)
 
 ---
 
@@ -213,19 +213,19 @@ The ChatGPT-maker testified in favor of an Illinois bill that would limit when A
 
 Instant 1.0 is out! This essay shows a bunch of demos, to explain why we think Instant is the best backend for AI-coded apps. We also cover the architecture that makes all of it work.
 
-⬆️ 201 • 💬 109 • 1d ago • [instantdb.com](https://www.instantdb.com/essays/architecture)
+⬆️ 202 • 💬 110 • 1d ago • [instantdb.com](https://www.instantdb.com/essays/architecture)
 
 ---
 
 **[Study found that young adults have grown less hopeful and more angry about AI](https://news.ycombinator.com/item?id=47704443)**
 
-⬆️ 135 • 💬 178 • 1d ago • [nytimes.com](https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html)
+⬆️ 136 • 💬 179 • 1d ago • [nytimes.com](https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html)
 
 ---
 
 **[Ask HN: What are you building that's not AI related?](https://news.ycombinator.com/item?id=47700460)**
 
-⬆️ 132 • 💬 175 • 1d ago
+⬆️ 132 • 💬 176 • 1d ago
 
 ---
 
@@ -237,19 +237,19 @@ In 1958, Mao ordered every village to produce steel. The steel was useless. The 
 
 ---
 
-**[US summons bank bosses over cyber risks from Anthropic's latest AI model](https://news.ycombinator.com/item?id=47718114)**
-
-Reports say Fed chair Jerome Powell among attenders at meeting in Washington
-
-⬆️ 102 • 💬 87 • 8h ago • [the Guardian](https://www.theguardian.com/technology/2026/apr/10/us-summoned-bank-bosses-to-discuss-cyber-risks-posed-by-anthropic-latest-ai-model)
-
----
-
 **[AI assistance when contributing to the Linux kernel](https://news.ycombinator.com/item?id=47721953)**
 
 Linux kernel source tree. Contribute to torvalds/linux development by creating an account on GitHub.
 
-⬆️ 89 • 💬 74 • 4h ago • [GitHub](https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst)
+⬆️ 127 • 💬 107 • 5h ago • [GitHub](https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst)
+
+---
+
+**[US summons bank bosses over cyber risks from Anthropic's latest AI model](https://news.ycombinator.com/item?id=47718114)**
+
+Reports say Fed chair Jerome Powell among attenders at meeting in Washington
+
+⬆️ 104 • 💬 90 • 9h ago • [the Guardian](https://www.theguardian.com/technology/2026/apr/10/us-summoned-bank-bosses-to-discuss-cyber-risks-posed-by-anthropic-latest-ai-model)
 
 ---
 
@@ -257,13 +257,13 @@ Linux kernel source tree. Contribute to torvalds/linux development by creating a
 
 Bixonimania doesn’t exist except in a clutch of obviously bogus academic papers. So why did AI chatbots warn people about this fictional illness?
 
-⬆️ 85 • 💬 88 • 13h ago • [nature.com](https://www.nature.com/articles/d41586-026-01100-y)
+⬆️ 86 • 💬 88 • 14h ago • [nature.com](https://www.nature.com/articles/d41586-026-01100-y)
 
 ---
 
 **[Show HN: We fingerprinted 178 AI models' writing styles and similarity clusters](https://news.ycombinator.com/item?id=47690415)**
 
-⬆️ 76 • 💬 23 • 2d ago • [rival.tips](https://rival.tips/research/model-similarity)
+⬆️ 77 • 💬 23 • 2d ago • [rival.tips](https://rival.tips/research/model-similarity)
 
 ---
 
@@ -285,7 +285,7 @@ Here's the AI News you probably missed this week (and some you definitely didn't
 
 📺 Matt Wolfe
 
-👁️ 29K • 👍 2K • 💬 234 • ⏱️ 35:50 • 7h ago
+👁️ 29K • 👍 2K • 💬 234 • ⏱️ 35:50 • 8h ago
 
 ---
 
@@ -305,7 +305,7 @@ Try Seedance 2.0 on Higgsfield: https://higgsfield.ai/s/seedance-2-0-airevolutio
 
 📺 AI Revolution
 
-👁️ 34K • 👍 1K • 💬 112 • ⏱️ 17:37 • 23h ago
+👁️ 34K • 👍 1K • 💬 112 • ⏱️ 17:37 • 1d ago
 
 ---
 
@@ -335,7 +335,7 @@ We are joined by journalist Ronan Farrow to discuss his recent piece on dangerou
 
 📺 I've Had It
 
-👁️ 212K • 👍 16K • 💬 2K • ⏱️ 25:30 • 21h ago
+👁️ 212K • 👍 16K • 💬 2K • ⏱️ 25:30 • 22h ago
 
 ---
 
@@ -345,7 +345,7 @@ Mo Gawdat is a former chief business officer at Google X and a longtime tech lea
 
 📺 Business Insider
 
-👁️ 16K • 👍 855 • 💬 142 • ⏱️ 33:39 • 9h ago
+👁️ 16K • 👍 855 • 💬 142 • ⏱️ 33:39 • 10h ago
 
 ---
 
@@ -365,7 +365,7 @@ Access Seedance 2.0 on Higgsfield https://higgsfield.ai?fpr=ai&fp_sid=isa9 In th
 
 📺 Isa does AI
 
-👁️ 10K • 💬 7 • ⏱️ 8:49 • 8h ago
+👁️ 10K • 💬 7 • ⏱️ 8:49 • 9h ago
 
 ---
 
@@ -391,7 +391,7 @@ Gemma 4 31B is an instruction-tuned, multimodal LLM capable of processing text a
 
 `image-text-to-text` `32.7B`
 
-⬇️ 1,589,761 • ❤️ 1,662 • 6h ago
+⬇️ 1,589,761 • ❤️ 1,662 • 7h ago
 
 ---
 
@@ -415,7 +415,7 @@ Gemma-4-31B-JANG_4M-CRACK is a 31B parameter text-generation model optimized for
 
 `image-text-to-text` `6.4B`
 
-⬇️ 75,426 • ❤️ 898 • 15h ago
+⬇️ 75,426 • ❤️ 898 • 16h ago
 
 ---
 
@@ -475,7 +475,7 @@ Gemma 4 E4B is a multimodal, instruction-tuned LLM from Google DeepMind, support
 
 `any-to-any` `8.0B`
 
-⬇️ 961,135 • ❤️ 562 • 6h ago
+⬇️ 961,135 • ❤️ 562 • 7h ago
 
 ---
 
@@ -487,7 +487,7 @@ Gemma 4 26B A4B is a multimodal instruction-tuned model capable of processing te
 
 `image-text-to-text` `26.5B`
 
-⬇️ 1,269,031 • ❤️ 587 • 6h ago
+⬇️ 1,269,031 • ❤️ 587 • 7h ago
 
 ---
 
@@ -647,7 +647,7 @@ The highest-scoring AI memory system ever benchmarked. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 39.8k • 🔱 5.0k • 6h ago
+⭐ 39.8k • 🔱 5.0k • 7h ago
 
 ---
 
@@ -657,7 +657,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 29.3k • 🔱 5.6k • 3h ago
+⭐ 29.3k • 🔱 5.6k • 4h ago
 
 ---
 
@@ -667,7 +667,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Ope
 
 `Python` `claude-code` `codex` `graphrag` `knowledge-graph` `openclaw`
 
-⭐ 20.1k • 🔱 2.0k • 4h ago
+⭐ 20.1k • 🔱 2.0k • 5h ago
 
 ---
 
@@ -677,7 +677,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `JavaScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 14.9k • 🔱 1.4k • 4h ago
+⭐ 14.9k • 🔱 1.4k • 5h ago
 
 ---
 
@@ -717,7 +717,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 7.4k • 🔱 454 • 4h ago
+⭐ 7.4k • 🔱 454 • 5h ago
 
 ---
 

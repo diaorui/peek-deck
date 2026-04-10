@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-10T22:38:57.421535+00:00'
+updated: '2026-04-10T23:36:16.014084+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- social
 - cryptocurrency
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 10, 2026 at 22:38 UTC  
+**Last Updated:** April 10, 2026 at 23:36 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $73,080.86
+### $72,906.39
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.5%  
-**7d:** +8.6%  
-**30d:** +3.7%  
-**90d:** -19.7%  
-**1y:** -12.4%  
+**24h:** +1.3%  
+**7d:** +8.2%  
+**30d:** +3.3%  
+**90d:** -19.9%  
+**1y:** -12.7%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Japan plans to reclassify cryptocurrencies as financial products under the Financial Instruments and Exchange Act, shifting them from a payment-based framework to one aligned with traditional securities regulation.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/japan-moves-to-classify-bitcoin-and-crypto) • 5h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/japan-moves-to-classify-bitcoin-and-crypto) • 6h ago
 
 ---
 
@@ -89,7 +89,7 @@ Japan plans to reclassify cryptocurrencies as financial products under the Finan
 
 I made around 100% in 3 weeks and was happy with that 🫡🫣
 
-4h ago
+5h ago
 
 ---
 
@@ -97,23 +97,15 @@ I made around 100% in 3 weeks and was happy with that 🫡🫣
 
 It looks like the block explorer has been hacked on Blockchain.com. When you search for a wallet address it shows you bunch of specific addresses only. For example for Satoshi address: https://www.blockchain.com/en/explorer/addresses/btc/1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa, it shows me the following ones only: 1PyJph17b4nAKqp4UvbxUZXpoesDzvZkVL 1PAZba3CAFRYm7gNBhrzH8Dz1FkYDCwJPs 1PyJph17b4nAKqp4UvbxUZXpoesDzvZkVL 1PbwAPq7aUepWrrToVh1snhv8mqy9wrGnk bc1qdmaslupuaetajnfzex8zw6jc93ww32ur6gj3we Be aware guys. Also it will be great to report it to Blockchain, but their support system a bit hard to use. Hope they are reading r/Bitcoin sometimes.
 
-5h ago
+6h ago
 
 ---
 
-**[Is Bitcoin set to skyrocket?](https://www.reddit.com/r/Bitcoin/comments/1shbt4d/is_bitcoin_set_to_skyrocket/)**
+**[Why is everyone so obsessed with the unmasking?](https://www.reddit.com/r/Bitcoin/comments/1si1zz6/why_is_everyone_so_obsessed_with_the_unmasking/)**
 
-Is it actually going to go up?
+I’m just honestly perplexed why this really matters? For real, what difference is it going to make to finally unmask the real SN and how is that going to change the impact his held coins will make when they’re finally sold? Everyone is anonymous on the chain so why should they be any different? Sure, there’s the impact of data hungry machines and their environmental impact but sincerely that ship sailed a decade ago. But how is any of that going to change once we all know for sure who to blame? Is t it all the rest of us, constantly moving coins around that are to blame? So curious to hear opinions on this article.
 
-18h ago
-
----
-
-**[Bitcoin and Quantum Computing — Research Series by NVK](https://www.reddit.com/r/Bitcoin/comments/1sht782/bitcoin_and_quantum_computing_research_series_by/)**
-
-A three-part deep dive into quantum computing's actual threat to Bitcoin. 17 researchers, 13 proposals, real engineering. No hype. No FUD.
-
-🔗 [Bitcoin & Quantum Computing](https://bitcoinquantum.space/) • 5h ago
+🔗 [nytimes.com](https://www.nytimes.com/2026/04/09/podcasts/the-daily/satoshi-nakamoto-bitcoin-creator.html?unlocked_article_code=1.Z1A.Zc6v.htjM1l8I6VbV&smid=nytcore-ios-share) • 38m ago
 
 ---
 
@@ -121,7 +113,23 @@ A three-part deep dive into quantum computing's actual threat to Bitcoin. 17 res
 
 An economist named Steve Keen says Bitcoin will go to zero because it uses too much energy. It only took me ten minutes to break down why his "critique" makes no sense
 
-🔗 [youtu.be](https://youtu.be/t7Ca56-XxPM) • 2h ago
+🔗 [youtu.be](https://youtu.be/t7Ca56-XxPM) • 3h ago
+
+---
+
+**[Is Bitcoin set to skyrocket?](https://www.reddit.com/r/Bitcoin/comments/1shbt4d/is_bitcoin_set_to_skyrocket/)**
+
+Is it actually going to go up?
+
+19h ago
+
+---
+
+**[Bitcoin and Quantum Computing — Research Series by NVK](https://www.reddit.com/r/Bitcoin/comments/1sht782/bitcoin_and_quantum_computing_research_series_by/)**
+
+A three-part deep dive into quantum computing's actual threat to Bitcoin. 17 researchers, 13 proposals, real engineering. No hype. No FUD.
+
+🔗 [Bitcoin & Quantum Computing](https://bitcoinquantum.space/) • 6h ago
 
 ---
 
@@ -129,21 +137,15 @@ An economist named Steve Keen says Bitcoin will go to zero because it uses too m
 
 ADX hit 60.1 on the 4H. That's an absurdly strong trend reading. EMA ribbon flipped bullish. MACD is at +563. By every technical measure this is a confirmed uptrend. Meanwhile Fear & Greed is at 16. Extreme Fear. Retail is actually net short at 0.86 while smart money flipped long at 1.06. Let that sink in — smart money is long, retail is short, technicals are screaming bullish, and sentiment is at the floor. Ohhh and CPI drops in a few hours. If it comes in cool, this thing flies. If it comes in hot, we retest $69K and everyone says "told you so." Best asymmetric setup in weeks and almost nobody is talking about it.
 
-17h ago
+18h ago
 
 ---
 
-**[Hey, let me ask you something. . .](https://www.reddit.com/r/Bitcoin/comments/1sh4e7n/hey_let_me_ask_you_something/)**
+**[Solo miner vs. mining farms... is it really anybody’s game?](https://www.reddit.com/r/Bitcoin/comments/1si2v6w/solo_miner_vs_mining_farms_is_it_really_anybodys/)**
 
-1d ago
+What if every home in the world with electricity had a 6 TH/s miner plugged in or a 200 TH/s the same way every home has a bathroom or shower? How would that level of universal mining power affect block discovery and ultimately the future of Bitcoin itself?
 
----
-
-**[Entering long](https://www.reddit.com/r/Bitcoin/comments/1shkbde/entering_long/)**
-
-If you’ve been hodling on Fiat thinking if it’s time, it’s about time for a good swing. Buy in!!
-
-10h ago
+1m ago
 
 ---
 
@@ -151,7 +153,7 @@ If you’ve been hodling on Fiat thinking if it’s time, it’s about time for 
 
 The new feature on the Bitcoin wallet Exodus lets users spend crypto directly from a self-custodial wallet.
 
-🔗 [Decrypt](https://decrypt.co/363947/exodus-pay-bitcoin-wallet-spending-app) • 3h ago
+🔗 [Decrypt](https://decrypt.co/363947/exodus-pay-bitcoin-wallet-spending-app) • 4h ago
 
 ---
 
@@ -175,7 +177,7 @@ Bloomberg.com • 1d ago
 
 **[Software stocks are getting pulverized — but bitcoin’s rebound hints that a bottom might be in](https://www.marketwatch.com/story/software-stocks-are-getting-pulverized-but-bitcoins-rebound-hints-that-a-bottom-might-be-in-512baac7)**
 
-MarketWatch • 1h ago
+MarketWatch • 2h ago
 
 ---
 
@@ -183,7 +185,7 @@ MarketWatch • 1h ago
 
 CNBC's Tanaya Macheel reports on news regarding bitcoin.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
@@ -191,7 +193,7 @@ CNBC • 2h ago
 
 The U.S. government currently holds roughly 328,000 bitcoins, worth more than $22 billion at current prices, among other crypto assets.
 
-The Block • 1h ago
+The Block • 2h ago
 
 ---
 
@@ -239,7 +241,7 @@ Bitcoin Magazine • 1d ago
 
 **[Who is Satoshi Nakamoto? My quest to unmask Bitcoin's creator](https://news.ycombinator.com/item?id=47685320)**
 
-⬆️ 614 • 💬 809 • 2d ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)
+⬆️ 617 • 💬 810 • 2d ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)
 
 ---
 
@@ -247,7 +249,7 @@ Bitcoin Magazine • 1d ago
 
 Country’s oil exporters’ union says toll to be paid in cryptocurrency and vessels monitored for weapons
 
-⬆️ 172 • 💬 274 • 2d ago • [ft.com](https://www.ft.com/content/02aefac4-ea62-48db-9326-c0da373b11b8)
+⬆️ 172 • 💬 275 • 2d ago • [ft.com](https://www.ft.com/content/02aefac4-ea62-48db-9326-c0da373b11b8)
 
 ---
 
@@ -301,12 +303,11 @@ For years, bitcoin creator Satoshi Nakamoto has avoided discovery. Now, a 10,000
 
 ---
 
-**[Bitcoin on the Home Server: Sovereignty with Coldcard, Sparrow and Fulcrum](https://news.ycombinator.com/item?id=47681724)**
+**[Blockchain.com explorer bug causing wrong bitcoin address to be displayed](https://news.ycombinator.com/item?id=47724574)**
 
-This post is a direct follow-up to my recent articles about the new home server with openSUSE MicroOS and the Minisforum MS-S1 Max. Those covered the foundation. Here I want to show one concrete use for it: putting together a decent Bitcoin stack at home, focused on privacy, operational sovereignty and safe transactions on my side.
-First things first: this isn’t an evangelism piece or a day-trading pitch. Quite the opposite. As I write this, on April 1, 2026, Bitcoin is around US$ 68k and close to R$ 391k, below the 2025 peaks. Plenty of people look at that and either panic or start fantasizing about leveraged trades. I think both reactions are wrong. There’s a “super cycle” thesis floating around based on institutional demand, spot ETFs and the lagged halving effect. Maybe. Maybe not. What I do know is that short-term candles don’t change the part I actually care about: infrastructure. If you need leverage to “speed up your gains,” you’re probably just speeding up your chances of getting liquidated.
+The most popular and trusted block explorer and crypto transaction search engine.
 
-⬆️ 1 • 💬 2 • 3d ago • [akitaonrails.com](https://akitaonrails.com/en/2026/04/01/bitcoin-on-the-home-server-sovereignty-with-coldcard-sparrow-fulcrum/)
+⬆️ 1 • 💬 2 • 59m ago • [blockchain.com](https://www.blockchain.com/explorer/addresses/btc/1PWo3JeB9jrGwfHDNpdGK54CRas7fsVzXU)
 
 ---
 
@@ -330,7 +331,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 ✓
 
 📺 Altcoin Daily
 
-👁️ 36K • 👍 2K • 💬 361 • ⏱️ 12:20 • 23h ago
+👁️ 36K • 👍 2K • 💬 361 • ⏱️ 12:20 • 1d ago
 
 ---
 
@@ -340,7 +341,7 @@ A sanctioned nation is building a sovereign Bitcoin treasury through a toll boot
 
 📺 Simply Bitcoin
 
-👁️ 31K • 👍 3K • 💬 340 • ⏱️ 23:12 • 23h ago
+👁️ 31K • 👍 3K • 💬 340 • ⏱️ 23:12 • 1d ago
 
 ---
 
@@ -350,7 +351,7 @@ CNBC's “Squawk Box” team talks about the potential true identity of Bitcoin 
 
 📺 CNBC Television
 
-👁️ 9K • 👍 117 • 💬 113 • ⏱️ 4:51 • 10h ago
+👁️ 9K • 👍 117 • 💬 113 • ⏱️ 4:51 • 11h ago
 
 ---
 
@@ -380,7 +381,7 @@ MASSIVE Bitcoin News!! Satoshi Revealed!? What Comes Next? (Watch the whole vide
 
 📺 Altcoin Daily
 
-👁️ 55K • 👍 3K • 💬 200 • ⏱️ 12:14 • 1d ago
+👁️ 55K • 👍 3K • 💬 200 • ⏱️ 12:14 • 2d ago
 
 ---
 
@@ -410,7 +411,7 @@ Checkout the Luckyminer LV08 Pro from Today's Video ➡ https://geni.us/BCMLV08 
 
 📺 The Hobbyist Miner
 
-👁️ 2K • 👍 107 • 💬 85 • ⏱️ 17:09 • 10h ago
+👁️ 2K • 👍 107 • 💬 85 • ⏱️ 17:09 • 11h ago
 
 ---
 

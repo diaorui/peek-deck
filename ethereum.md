@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-10T22:38:57.427503+00:00'
+updated: '2026-04-10T23:36:16.019978+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- social
 - cryptocurrency
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 10, 2026 at 22:38 UTC  
+**Last Updated:** April 10, 2026 at 23:36 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,7 +36,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,247.84
+### $2,242.79
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 So I went back through my wallet history and used a couple of MEV tracking tools to figure out how much value I actually lost to sandwich attacks and front-running over the past 6 months. not gonna share exact numbers but it was enough to make me seriously rethink where and how I trade on-chain. the thing that pissed me off the most wasn't even the big trades. it was the small ones. $200-500 swaps getting sandwiched for a few bucks each time. doesn't feel like much in the moment but it adds up fast when you're making multiple trades a week. what I learned: AMMs are basically open season for MEV bots. your trade hits the mempool and you're cooked private RPCs like flashbots protect help but they're not a complete solution. you're still trusting the builder not to screw you intent-based systems (cow swap etc) are better but they introduce solver trust assumptions and don't work for everything the only architecture where MEV extraction is structurally impossible is one where transaction ordering is provable and verifiable. not hidden, not trusted, but mathematically proven to be fair honestly the biggest takeaway is that most people have no idea how much they're losing. the "invisible tax" framing is accurate. you never see a line item that says "MEV bot took $4.50 from this trade" but it's happening on basically every swap. anyone else tracked their MEV losses? curious what numbers people are seeing. also curious if anyone has found a setup that actually eliminates it, not just reduces it.
 
-12h ago
+13h ago
 
 ---
 
@@ -80,7 +80,7 @@ So I went back through my wallet history and used a couple of MEV tracking tools
 
 Roman Storm acquittal hearing, ETHGlobal Cannes hackathon finalists, EVM Now block explorer
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-19/) • 8h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-19/) • 9h ago
 
 ---
 
@@ -88,7 +88,7 @@ Roman Storm acquittal hearing, ETHGlobal Cannes hackathon finalists, EVM Now blo
 
 Ethereum developers align on Glamsterdam devnet progress, Hegota Account Abstraction direction, & key execution layer upgrades shaping the roadmap.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-234/) • 14h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-234/) • 15h ago
 
 ---
 
@@ -96,7 +96,7 @@ Ethereum developers align on Glamsterdam devnet progress, Hegota Account Abstrac
 
 How does staking work? I staked ~0.1 eth through Exodus (they use Everstake) about 64 days ago. Eth validator queue is currently ~52 days. I was told I’d need to wait 1-5 days for it to pool on top of the validator time. It’s now approaching >1 week since the “expected” time to finish staking and start earning rewards, but it still shows staking. Is there a way to check how long I have to wait or know what happened?  [comments]
 
-23h ago
+1d ago
 
 ---
 
@@ -186,7 +186,7 @@ The Block • 2d ago
 
 The crypto market has rebounded, with Bitcoin rising 10% over the last eight days and Ethereum up 12% in the same period. The total market cap is now up
 
-Coinpedia Fintech News • 7h ago
+Coinpedia Fintech News • 8h ago
 
 ---
 
@@ -194,7 +194,7 @@ Coinpedia Fintech News • 7h ago
 
 Bitmine Immersion's hybrid model combines large-scale ETH holdings, with MAVAN projected to generate $300 million annually. Learn why BMNR stock is a strong buy.
 
-Seeking Alpha • 12h ago
+Seeking Alpha • 13h ago
 
 ---
 
@@ -210,7 +210,7 @@ Polymarket • 1d ago
 
 Ethereum still occupies the top spot among staking-based blockchains.
 
-thestreet.com • 8h ago
+thestreet.com • 9h ago
 
 ---
 
@@ -224,7 +224,7 @@ TipRanks • 1d ago
 
 Ethereum price extended gains above $2,250 before it started a downside correction. ETH is now consolidating above $2,120 and might aim for a fresh increase.Ethereum Price Holds Uptrend SupportEthereum price remained stable above $2,165 and started a decent upward move, like Bitcoin. ETH price clim…
 
-TradingView • 19h ago
+TradingView • 20h ago
 
 ---
 
@@ -238,7 +238,7 @@ In this video, I take a closer look at the current Ethereum market structure and
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 119 • 💬 8 • ⏱️ 9:25 • 3h ago
+👁️ 1K • 👍 119 • 💬 8 • ⏱️ 9:25 • 4h ago
 
 ---
 
@@ -258,7 +258,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 146 • 👍 12 • ⏱️ 4:53 • 13h ago
+👁️ 146 • 👍 12 • ⏱️ 4:53 • 14h ago
 
 ---
 
@@ -268,7 +268,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 56 • 👍 4 • 💬 1 • ⏱️ 5:27 • 3h ago
+👁️ 56 • 👍 4 • 💬 1 • ⏱️ 5:27 • 4h ago
 
 ---
 
@@ -298,7 +298,7 @@ Katılmak İçin Tıklayın : https://www.youtube.com/channel/UC9PKmoQwwNDwwhbLi
 
 📺 Tuncay Yılmaz (Kripto Ichizo)
 
-👁️ 651 • 👍 142 • 💬 31 • ⏱️ 16:42 • 3h ago
+👁️ 651 • 👍 142 • 💬 31 • ⏱️ 16:42 • 4h ago
 
 ---
 
@@ -318,7 +318,7 @@ BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 7K • 👍 274 • 💬 330 • ⏱️ 22:51 • 21h ago
+👁️ 7K • 👍 274 • 💬 330 • ⏱️ 22:51 • 22h ago
 
 ---
 
