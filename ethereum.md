@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-10T00:01:45.944928+00:00'
+updated: '2026-04-10T03:47:26.881488+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
+- social
 - videos
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 10, 2026 at 00:01 UTC  
+**Last Updated:** April 10, 2026 at 03:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,43 +36,43 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,199.61
+### $2,187.73
 
 ---
 
 ## Ethereum Chart
 
 **24h:** +0.5%  
-**7d:** +7.0%  
-**30d:** +7.1%  
-**90d:** -28.8%  
-**1y:** +44.3%  
+**7d:** +6.0%  
+**30d:** +5.5%  
+**90d:** -30.0%  
+**1y:** +39.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $265.14B
+**Market Cap:** $263.99B
 Rank #2
 
-**Circulating Supply:** 120,691,116 ETH
+**Circulating Supply:** 120,691,092 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--55.6%
+-55.8%
 
 **All-Time Low:** $0.43
-+507645.2%
++505125.4%
 
 ---
 
 ## Reddit: r/ethereum
 
-**[Tom Lee isn’t just bullish on ETH — he’s literally buying billions](https://www.reddit.com/r/ethereum/comments/1sgn98q/tom_lee_isnt_just_bullish_on_eth_hes_literally/)**
+**[Staking](https://www.reddit.com/r/ethereum/comments/1sh5tfk/staking/)**
 
-Tom Lee went on CNBC saying the market bottom is probably already in, and that crypto (especially ETH) could lead the next move up. But the interesting part is he’s not just talking — the company he chairs (BitMine) keeps stacking ETH hard. They’re sitting on ~4.8M ETH (close to 4% of supply), with a huge chunk staked. That’s not trading, that’s positioning. Feels like one of the first times we’re seeing a macro thesis + actual balance sheet move fully aligned around Ethereum. Source: https://btcusa.com/tom-lee-says-the-market-bottom-is-in-as-bitmine-doubles-down-on-ethereum/
+How does staking work? I staked ~0.1 eth through Exodus (they use Everstake) about 64 days ago. Eth validator queue is currently ~52 days. I was told I’d need to wait 1-5 days for it to pool on top of the validator time. It’s now approaching >1 week since the “expected” time to finish staking and start earning rewards, but it still shows staking. Is there a way to check how long I have to wait or know what happened?
 
-12h ago
+4h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The Ethereum Layer 2 powering Predictstreet. Built by Abu Dhabi's IHC, hosting a UAE central-bank-licensed stablecoin, with BlackRock and Mastercard as collaborators.
 
-🔗 [Company Gibraltar | company.gi](https://company.gi/blog/adi-chain-explained) • 14h ago
+🔗 [Company Gibraltar | company.gi](https://company.gi/blog/adi-chain-explained) • 18h ago
 
 ---
 
@@ -156,75 +156,73 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 TD Cowen remains positive on $55 billion Bitcoin treasury pioneer Strategy, despite trimming its price target yet again.
 
-Decrypt • 1h ago
+Decrypt • 5h ago
 
 ---
 
-**[Bitcoin Price Falls. Why Faltering Iran Cease-Fire Could Crush Cryptos.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-today-2ef03b04)**
+**[Tom Lee's BitMine Uplisted to NYSE as Ethereum Firm Expands Buyback Program to $4 Billion](https://decrypt.co/363823/tom-lee-bitmine-uplisted-nyse-ethereum-firm-expands-buybacks-4-billion)**
 
-Barron's • 16h ago
+Ethereum treasury giant BitMine Immersion Technologies upped its share buyback program to $4 billion and was uplisted to the NYSE on Thursday.
+
+Decrypt • 11h ago
+
+---
+
+**[Ethereum’s $2.1B Leverage Flush Was Not a Breakdown Signal: Here Is What It Actually Was](https://www.tradingview.com/news/newsbtc:818f39fee094b:0-ethereum-s-2-1b-leverage-flush-was-not-a-breakdown-signal-here-is-what-it-actually-was/)**
+
+Ethereum is trading above $2,200. The recovery is real. And a CryptoQuant report has identified the structural event that made it possible — one that most participants were reading as a danger signal at the time it occurred.The report traces the current price strength to a single, measurable develo…
+
+TradingView • 3h ago
+
+---
+
+**[Bitcoin and ethereum price today, Thursday, April 9, 2026: Crypto rally slows as ceasefire wavers](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-thursday-april-9-2026-crypto-rally-slows-as-ceasefire-wavers-112457545.html)**
+
+Bitcoin and ethereum opened at $71,093.76 and $2,189.73, respectively, amid reports of continued fighting and disagreement over Iran’s control of the Strait of Hormuz. Both cryptos rose in early trading.
+
+Yahoo Finance • 16h ago
 
 ---
 
 **[Most large cryptocurrencies fall as Ethereum tumbles](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-as-ethereum-tumbles-91a2f421-9307bc266dcb)**
 
-MarketWatch • 10h ago
+MarketWatch • 13h ago
 
 ---
 
-**[Bloomberg Analyst Predicts This ‘Underdog’ Will Flip Bitcoin And Ethereum](https://www.tradingview.com/news/newsbtc:4c75342d7094b:0-bloomberg-analyst-predicts-this-underdog-will-flip-bitcoin-and-ethereum/)**
+**[Bitcoin Price Falls. Why Faltering Iran Cease-Fire Could Crush Cryptos.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-today-2ef03b04)**
 
-Bitcoin and Ethereum’s dominance is being directly challenged in a new outlook from Bloomberg Intelligence strategist Mike McGlone, who believes that an unexpected contender is positioning itself to overtake both. Tether USDT’s market cap is steadily closing in on Ethereum, and Mike McGlone thinks…
-
-TradingView • 7h ago
+Barron's • 20h ago
 
 ---
 
-**[Bitcoin and ethereum price today, Wednesday, April 8, 2026: Prices rise after U.S.-Iran ceasefire announcement](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-wednesday-april-8-2026-prices-rise-after-us-iran-ceasefire-announcement-113837833.html)**
+**[Ethereum Foundation swaps 5,000 ETH into stablecoins for operational and grant funding](https://www.theblock.co/post/396728/ethereum-foundation-swaps-5000-eth-stablecoins-operational-grant-funding)**
 
-Bitcoin (BTC-USD) opened higher at $71,926.16 and ethereum (ETH-USD) opened higher at $2,239.89 following President Trump’s announcement of a temporary ceasefire agreement with Iran.
+So far, the CoWSwap TWAP transactions have been drawn from a wallet associated with the Ethereum Foundation's DeFi activities.
 
-Yahoo Finance • 1d ago
-
----
-
-**[Crypto Surges on Ceasefire Hopes — Bitcoin Reclaims $71K, Ethereum Nears $2,250, But Can the Rally Hold?](https://coinpedia.org/price-analysis/crypto-surges-on-ceasefire-hopes-bitcoin-reclaims-71k-ethereum-nears-2250-but-can-the-rally-hold/)**
-
-Crypto market turns bullish as geopolitical tension eases a bit with the announcement of a 2-week ceasefire
-
-Coinpedia Fintech News • 1d ago
+The Block • 1d ago
 
 ---
 
-**[Crypto Today: Bitcoin, Ethereum, XRP steady on US-Iran ceasefire](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-recover-after-us-iran-war-ceasefire-202604081200)**
+**[Bit Digital Inc. Reports Monthly Ethereum Treasury and Staking Metrics for March 2026](https://bit-digital.com/news/bit-digital-inc-reports-monthly-ethereum-treasury-and-staking-metrics-for-march-2026/)**
 
-Cryptocurrency prices are broadly holding steady on Wednesday after United States (US) President Donald Trump wrote on his Truth Social platform, "I agree to suspend the bombing and attack of Iran for a period of two weeks".
+Bit Digital, Inc. (Nasdaq: BTBT), today announced its monthly Ethereum (“ETH”) treasury and staking metrics for the month of March 2026.
 
-FXStreet • 1d ago
-
----
-
-**[Bitcoin, Ethereum, XRP, Dogecoin Rally Amid Trump's Fiery Iran Warning: Analyst Says 'No Point In Buying' BTC Until This Happens](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-rally-213108359.html)**
-
-Leading cryptocurrencies rose overnight on Sunday while stock futures dipped as President Donald Trump’s warning to Iran put investors on edge. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:20 p.m. EDT)Bitcoin (CRYPTO: BTC)+2.52%$68,843.45Ethereum (CRYPTO: ETH) +2.68%$2,114.41XRP (CRYPTO: XRP) +1.12%$1.32Solana (CRYPTO: SOL) +1.59%$81.97Dogecoin...
-
-Yahoo Finance • 2d ago
+Bit Digital • 2d ago
 
 ---
 
-**[Bitcoin and ethereum price today, Tuesday, April 7, 2026: Prices trend down as traders await war deadline](https://finance.yahoo.com/news/bitcoin-and-ethereum-price-today-tuesday-april-7-2026-prices-trend-down-as-traders-await-war-deadline-113813294.html)**
+**['Drop To $1,500'—Ethereum Suddenly Faces 60% Odds Of Losing Crown](https://www.forbes.com/sites/digital-assets/2026/04/06/drop-to-1500-ethereum-suddenly-faces-60-odds-of-losing-crown/)**
 
-Bitcoin and ethereum opened at $68,860.46 and $2,107.45, respectively, on Tuesday, both lower than the day before. Both cryptocurrencies also trended down Tuesday morning.
-
-Yahoo Finance • 2d ago
+Forbes • 3d ago
 
 ---
 
-**[Bitcoin and Ethereum Open Interest Rises, Signaling Renewed Risk Appetite: CryptoQuant](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-open-interest-rises-201248053.html)**
+**[Bitcoin vs. Ethereum: Which Crypto Is the Better Buy in 2026?](https://www.fool.com/investing/2026/04/09/bitcoin-vs-ethereum-crypto-better-buy-2026/)**
 
-Bitcoin and Ethereum are trading higher as open interest rises, providing some optimism about investors' risk-on appetite.
+Both of these leading digital assets have lost roughly half of their value since hitting their peaks in the back half of 2025.
 
-Yahoo Finance • 3h ago
+The Motley Fool • 17h ago
 
 ---
 
@@ -238,7 +236,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 11K • 👍 377 • 💬 42 • ⏱️ 20:08 • 1d ago
+👁️ 12K • 👍 384 • 💬 41 • ⏱️ 20:08 • 1d ago
+
+---
+
+**[BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=VUvMwZDg_1E)**
+
+BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
+
+📺 Crypto World
+
+👁️ 2K • 👍 155 • 💬 14 • ⏱️ 22:51 • 2h ago
 
 ---
 
@@ -248,47 +256,7 @@ In this video, I take a closer look at the current Ethereum market structure and
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 166 • 💬 18 • ⏱️ 10:05 • 5h ago
-
----
-
-**[Ethereum: Is This a Reversal?](https://www.youtube.com/watch?v=CPUq9yhd5gg)**
-
-In this video, I take a closer look at the current Ethereum market structure and explain why the recent move higher does not ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 170 • 💬 14 • ⏱️ 10:28 • 23h ago
-
----
-
-**[LIVE: Tom Lee on BitMine Makes Massive Ethereum Move - ETH Crash Explained!](https://www.youtube.com/watch?v=RSiQMdlA1JI)**
-
-ETH #Ethereum #Cryptocurrency Join Tom Lee for his groundbreaking keynote at the Ethereum Conference.
-
-📺 Plush Studios
-
-👁️ 6K • 👍 599 • 6h ago
-
----
-
-**[Ethereum is Gaining on Bitcoin, Will it Last?](https://www.youtube.com/watch?v=HTCYyvRbK4g)**
-
-ethereum #bitcoin #pulsechain **NOT INVESTMENT OR FINANCIAL ADVICE. ENTERTAINMENT PURPOSES ONLY** PULSE ...
-
-📺 Creed Of Crypto 🛐
-
-👁️ 52 • 👍 10 • 💬 12 • ⏱️ 11:45 • 6h ago
-
----
-
-**[Ethereum Is Dying and Nobody Wants to Say It](https://www.youtube.com/watch?v=BiOkcyAo6vE)**
-
-FOLLOW ANDY, ROBBIE & THE ROLLUP ⏬ Twitter (X): https://x.com/therollupco Andy Twitter (X): https://x.com/andyyy Robbie ...
-
-📺 The Rollup
-
-👁️ 430 • 👍 1 • ⏱️ 0:26 • 2h ago
+👁️ 3K • 👍 180 • 💬 18 • ⏱️ 10:05 • 9h ago
 
 ---
 
@@ -298,17 +266,17 @@ In this video, we explain what an XRP node is, why node operation has recently g
 
 📺 Discover Health
 
-👁️ 5K • 👍 191 • ⏱️ 4:44 • 11h ago
+👁️ 7K • 👍 192 • ⏱️ 4:44 • 15h ago
 
 ---
 
-**[CRUCIAL MOMENT FOR ETHEREUM!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=Mk0xcUlMNdA)**
+**[Crypto Wars: Bitcoin vs Ethereum vs Solana — The Battle for Supremacy](https://www.youtube.com/watch?v=EuortJWaa1o)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+invested in crypto — who wins? Watch the insane volatility of BTC, ETH, and SOL in this epic line chart race. The crypto cycles ...
 
-📺 Cilinix Crypto
+📺 Data Insights
 
-👁️ 172 • 👍 11 • ⏱️ 5:44 • 13h ago
+👁️ 2K • 👍 20 • ⏱️ 0:41 • 9h ago
 
 ---
 
@@ -318,17 +286,47 @@ Jetzt gratis sichern → https://www.blockchain-investor.de/app Die neue „Bloc
 
 📺 Krypto Report
 
-👁️ 4K • 👍 409 • 💬 11 • ⏱️ 18:19 • 7h ago
+👁️ 5K • 👍 444 • 💬 21 • ⏱️ 18:19 • 11h ago
 
 ---
 
-**[Will The Ethereum Economic Zone (EEZ) Rebuild $ETH Dominance?](https://www.youtube.com/watch?v=rkRiLs8wl28)**
+**[Ethereum is Gaining on Bitcoin, Will it Last?](https://www.youtube.com/watch?v=HTCYyvRbK4g)**
 
-SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium ------ Can Ethereum become one ...
+ethereum #bitcoin #pulsechain **NOT INVESTMENT OR FINANCIAL ADVICE. ENTERTAINMENT PURPOSES ONLY** PULSE ...
+
+📺 Creed Of Crypto 🛐
+
+👁️ 69 • 👍 11 • 💬 11 • ⏱️ 11:45 • 9h ago
+
+---
+
+**[Why ETH Could Beat BTC](https://www.youtube.com/watch?v=H9s4zC8NaDw)**
+
+Could Ethereum take the number one spot if Bitcoin fumbles the quantum transition? Nic Carter: “Yeah, I think that's possible.
 
 📺 Bankless
 
-👁️ 2K • 👍 88 • 💬 35 • ⏱️ 1:01:34 • 13h ago
+👁️ 1K • 👍 26 • 💬 69 • ⏱️ 1:02 • 6h ago
+
+---
+
+**[CRUCIAL MOMENT FOR ETHEREUM!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=Mk0xcUlMNdA)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 186 • 👍 12 • ⏱️ 5:44 • 17h ago
+
+---
+
+**[Ethereum: Is This a Reversal?](https://www.youtube.com/watch?v=CPUq9yhd5gg)**
+
+In this video, I take a closer look at the current Ethereum market structure and explain why the recent move higher does not ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 170 • 💬 14 • ⏱️ 10:28 • 1d ago
 
 ---
 
