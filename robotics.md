@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-10T15:55:18.970779+00:00'
+updated: '2026-04-10T16:53:07.822057+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 10, 2026 at 15:55 UTC  
+**Last Updated:** April 10, 2026 at 16:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 58 Home partnered with X Square Robot to launch a cleaning service in Shenzhen where a human cleaner shows up with a robot partner. The robot handles structured tasks like wiping surfaces, picking up debris, and tidying, while the human handles everything that requires judgment. What makes this interesting from a technical standpoint: the robot runs on an end-to-end VLA (Vision-Language-Action) model called WALL-A that takes video and language input and outputs motor commands directly with no intermediate planning layer. But the real story isn't the model architecture, it's the deployment strategy. The company frames this as "grass-fed vs grain-fed" training data. Models trained on clean lab data perform well in controlled environments but fall apart in real homes where every apartment has a different layout, random clutter on the floor, pets walking through the workspace, kids' toys in unpredictable places. You can see in this video exactly why that matters: the robot is navigating around a Corgi, working in a room absolutely covered in children's toys, and dealing with narrow doorways in a real Chinese apartment. None of this is a problem you'd encounter in a lab. A few years ago this kind of footage would have been a staged demo. The fact that it's a paying service operating in real apartments suggests robots in everyday homes are closer than most people think.
 
-1h ago
+2h ago
 
 ---
 
 **[Here is the worlds first man being kicked in the balls by a robot](https://www.reddit.com/r/robotics/comments/1sgved8/here_is_the_worlds_first_man_being_kicked_in_the/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -50,13 +50,13 @@ Robotics research and industry news
 
 We are publishing our first deep dive on what we believe is one of the most challenging layers in egocentric data - SLAM and VIO in the context of long-horizon state tracking. We break down how SLAM and VIO fail in egocentric settings - visual features vanish at close range, depth sensors saturate, fast head motion blurs frames, and these failures don't always occur in isolation. They hit at the exact same moment, leading to compounding errors and making the downstream data unusable. We believe the foundation for high-quality egocentric data demands sub-centimeter precision over long episodes ranging from a few minutes to up to an hour. You can find more at fpv_labs
 
-2h ago
+3h ago
 
 ---
 
 **[Now they are full grown 😀 (audio with detailed description on the hardware and power supply)](https://www.reddit.com/r/robotics/comments/1sh4kuq/now_they_are_full_grown_audio_with_detailed/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -64,7 +64,7 @@ We are publishing our first deep dive on what we believe is one of the most chal
 
 Been working on a pipeline to automate physics setup for sim-to-real workflows. Given a 3D mesh (.obj/.glb), it: computes geometry (volume, bounding box, watertightness) estimates material + density derives mass, friction, restitution generates domain randomization ranges exports multiple MuJoCo XMLs for different surface/fill conditions Example (ceramic mug): 9 profiles (empty/half/full × clean/worn/contaminated) mass: 0.5 - 2.25 kg friction down to 0.175 (contaminated) DR bounds auto-generated per profile Goal is to remove manual tuning of object physics during sim setup. Curious where this would break in real pipelines or what edge cases I’m missing, especially around non watertight meshes or unusual materials.
 
-45m ago
+1h ago
 
 ---
 
@@ -72,7 +72,7 @@ Been working on a pipeline to automate physics setup for sim-to-real workflows. 
 
 You can try it at flomotion.app it took me a few months to build it. For now it's basically free AI. I would appreciate if you could tell me how to make it better and more useful. I learned a lot about robotics while building and testing it.
 
-1h ago
+2h ago
 
 ---
 
@@ -80,7 +80,7 @@ You can try it at flomotion.app it took me a few months to build it. For now it'
 
 https://preview.redd.it/hllt5xajpbug1.png?width=1192&format=png&auto=webp&s=4fe28a28013fa07cacaef79d1512887848f52997 https://preview.redd.it/rb7jug3lpbug1.png?width=1033&format=png&auto=webp&s=7d00c8125c25ca01a5061fdbd2ebbdb8599618d6 https://preview.redd.it/11h2k3wlpbug1.png?width=846&format=png&auto=webp&s=5d07b76e41cb86e68db3807abf5412a3ace1df21 Rate my design 1-10 https://www.tinkercad.com/things/5qwlk5KBEEY-robotic-dogstl
 
-7h ago
+8h ago
 
 ---
 
@@ -124,7 +124,7 @@ IFR International Federation of Robotics • 2d ago
 
 MassRobotics will spotlight resident, physical AI, and healthcare startups, as well as women in robotics and university teams at the 2026 Robotics Summit.
 
-The Robot Report • 1h ago
+The Robot Report • 2h ago
 
 ---
 
@@ -132,7 +132,7 @@ The Robot Report • 1h ago
 
 This new tech from Australia is coming to America’s senior care facilities.
 
-The Washington Post • 12h ago
+The Washington Post • 13h ago
 
 ---
 
@@ -146,7 +146,7 @@ Politico • 1d ago
 
 Meet 'Digit', a humanoid robotic worker made by Agility Robotics, now part of a new wave of robots replacing workers at companies like Schaeffler, Toyota, and GXO. NBC News' Brian Cheung takes a look.
 
-NBC News • 19h ago
+NBC News • 20h ago
 
 ---
 
@@ -154,7 +154,7 @@ NBC News • 19h ago
 
 A Chinese factory is producing humanoid robots every 30 minutes, marking a shift toward large-scale manufacturing and broader adoption.
 
-Fox News • 22h ago
+Fox News • 23h ago
 
 ---
 
@@ -170,7 +170,7 @@ eWeek • 1d ago
 
 "This project is like a wedding after which the couple moves into the parents' house. Because there are two businesses, but also two states that have to reach an agreement with each other."
 
-Українська правда • 5h ago
+Українська правда • 6h ago
 
 ---
 
@@ -200,7 +200,7 @@ Could AI become dangerous? Can we trust AI Agents? AGI. Use code insideai at htt
 
 📺 InsideAI
 
-👁️ 223K • 👍 11K • 💬 868 • ⏱️ 16:24 • 22h ago
+👁️ 234K • 👍 11K • 💬 922 • ⏱️ 16:24 • 23h ago
 
 ---
 
@@ -220,7 +220,7 @@ South Korea is building robots you've only seen in movies, from giant walking ma
 
 📺 DeCode
 
-👁️ 33K • 👍 628 • 💬 45 • ⏱️ 14:45 • 1d ago
+👁️ 34K • 👍 655 • 💬 47 • ⏱️ 14:45 • 1d ago
 
 ---
 
@@ -244,23 +244,13 @@ US startup Foundation is developing humanoid robots for military use. The goal i
 
 ---
 
-**[Inside the World&#39;s Smartest Robot Brain](https://www.youtube.com/watch?v=2mrGMMmrVNE)**
-
-Welch Labs Book: https://www.welchlabs.com/resources/ai-book-ezrzm-msrmc Book & VLA Poster Bundle: ...
-
-📺 Welch Labs
-
-👁️ 100K • 👍 5K • 💬 239 • ⏱️ 35:02 • 5d ago
-
----
-
 **[2026 Ultimate Robot Vacuum and Mop Comparison || Roborock, Eufy, Dreame, Narwal, Ecovacs, MOVA](https://www.youtube.com/watch?v=Pv9_2D_Xc5k)**
 
 I tested every flagship robotic vacuum and mop from Roborock, Eufy, Dreame, Narwal, Ecovacs, and MOVA available in 2025 to ...
 
 📺 The Hook Up
 
-👁️ 15K • 👍 586 • 💬 139 • ⏱️ 26:12 • 1d ago
+👁️ 16K • 👍 595 • 💬 144 • ⏱️ 26:12 • 1d ago
 
 ---
 
@@ -268,7 +258,17 @@ I tested every flagship robotic vacuum and mop from Roborock, Eufy, Dreame, Narw
 
 📺 Robot Julie 
 
-👁️ 60K • 👍 610 • 💬 2 • ⏱️ 0:22 • 1d ago
+👁️ 71K • 👍 700 • 💬 3 • ⏱️ 0:22 • 1d ago
+
+---
+
+**[Inside the World&#39;s Smartest Robot Brain](https://www.youtube.com/watch?v=2mrGMMmrVNE)**
+
+Welch Labs Book: https://www.welchlabs.com/resources/ai-book-ezrzm-msrmc Book & VLA Poster Bundle: ...
+
+📺 Welch Labs
+
+👁️ 101K • 👍 5K • 💬 239 • ⏱️ 35:02 • 5d ago
 
 ---
 
@@ -278,17 +278,17 @@ Joe Rogan Watches Soldier Test INSANE Robotic Legs #Shorts This is the future of
 
 📺 Silent Sentry
 
-👁️ 2.6M • 👍 33K • 💬 671 • ⏱️ 0:17 • 6d ago
+👁️ 2.7M • 👍 33K • 💬 678 • ⏱️ 0:17 • 6d ago
 
 ---
 
-**[Eilik VS Eiliko: WHICH ROBOT IS BETTER IN 2026?](https://www.youtube.com/watch?v=xryozwcxKV0)**
+**[Essential Things to Know Before Buying a Robot Mower!](https://www.youtube.com/watch?v=lbibuVIo84Y)**
 
-Eilik Robot VS Eiliko Robot: WHICH ROBOT IS BETTER IN 2026? In today's video, I'll be pinning 2 robots from the same company ...
+The era of the Robot Mower is here and after 6 months of intensive use I feel I am now in a position to update everyone on both ...
 
-📺 Eric’s Tech World
+📺 Proper DIY
 
-👁️ 17K • 👍 154 • 💬 23 • ⏱️ 9:43 • 6d ago
+👁️ 36K • 👍 2K • 💬 139 • ⏱️ 11:47 • 5d ago
 
 ---
 
