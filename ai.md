@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-10T09:11:34.303281+00:00'
+updated: '2026-04-10T10:34:23.285902+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
 - videos
-- news
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 10, 2026 at 09:11 UTC  
+**Last Updated:** April 10, 2026 at 10:34 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 I have been seeing a lot of people claiming how good Gemma 4 31B model is. I know when compared to the size of models like sonnet which is guessed to be a 1.5T model, the size of Gemma 31b is very small. but people keep claiming Gemma is soo good for coding and day to day tasks.
 
-4h ago
-
----
-
-**[White-collar workers are quietly rebelling against AI as 80% outright refuse adoption mandates](https://www.reddit.com/r/artificial/comments/1sgphq9/whitecollar_workers_are_quietly_rebelling_against/)**
-
-"AI didn't deliver," Johns Hopkins professor Steve Hanke told Fortune. "Welcome to the real world. Forget the AI bubble."
-
-🔗 [Fortune](https://fortune.com/2026/04/09/ai-backlash-quiet-quitting-fobo-obsolete-white-collar-rebellion/) • 19h ago
+5h ago
 
 ---
 
@@ -57,7 +49,23 @@ I have been seeing a lot of people claiming how good Gemma 4 31B model is. I kno
 
 The ChatGPT-maker testified in favor of an Illinois bill that would limit when AI labs can be held liable—even in cases where their products cause “critical harm.”
 
-🔗 [WIRED](https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/) • 4h ago
+🔗 [WIRED](https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/) • 5h ago
+
+---
+
+**[White-collar workers are quietly rebelling against AI as 80% outright refuse adoption mandates](https://www.reddit.com/r/artificial/comments/1sgphq9/whitecollar_workers_are_quietly_rebelling_against/)**
+
+"AI didn't deliver," Johns Hopkins professor Steve Hanke told Fortune. "Welcome to the real world. Forget the AI bubble."
+
+🔗 [Fortune](https://fortune.com/2026/04/09/ai-backlash-quiet-quitting-fobo-obsolete-white-collar-rebellion/) • 21h ago
+
+---
+
+**[What's your "When Language Model AI can do X, I'll be impressed"?](https://www.reddit.com/r/artificial/comments/1shhcxl/whats_your_when_language_model_ai_can_do_x_ill_be/)**
+
+I have two at the top of my mind: When it can read musical notes. I will be mildly impressed when I can paste in a picture of musical notes and with programming sets up instruments needed to play music, and then correctly plays the song it reads from the notes. My jaw will drop when finally with a simple prompt an AI can create a classic arcade style fully functioning and fun to play Pinball game. Each new version of models that become available I give that one a go. None have been even remotely close to achieving this goal. So what are your visions for what will impress you to some extent when an AI can make it for you?
+
+1h ago
 
 ---
 
@@ -65,7 +73,7 @@ The ChatGPT-maker testified in favor of an Illinois bill that would limit when A
 
 James Strahler II pleaded guilty to cyberstalking, producing obscene images and digital forgeries of child sexual abuse
 
-🔗 [the Guardian](https://www.theguardian.com/us-news/2026/apr/08/ohio-man-convicted-ai-sexually-explicit-images) • 12h ago
+🔗 [the Guardian](https://www.theguardian.com/us-news/2026/apr/08/ohio-man-convicted-ai-sexually-explicit-images) • 14h ago
 
 ---
 
@@ -73,7 +81,7 @@ James Strahler II pleaded guilty to cyberstalking, producing obscene images and 
 
 You can ask Gemini to “help me visualize” different concepts.
 
-🔗 [The Verge](https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations) • 14h ago
+🔗 [The Verge](https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations) • 16h ago
 
 ---
 
@@ -81,7 +89,7 @@ You can ask Gemini to “help me visualize” different concepts.
 
 Last year, we committed to annual billing on three different tools. One of them? We stopped using it after just two months — and still paid for the remaining ten months. That was the moment I realized: Annual discounts are only a "deal" if the tool actually fits long-term. Since then, I’ve been re-evaluating how we choose tools, especially in fast-moving areas like AI. What I check now before committing to any tool: True month-to-month billing. Not "monthly pricing" that still locks you into a yearly contract. Easy plan switching. You should be able to upgrade or downgrade instantly: Upgrades → prorated immediately Downgrades → take effect next billing cycle If it requires contacting support, that's friction by design. Free trial without a credit card If the tool asks for a credit card upfront, it’s not really a trial — it’s a subscription with a reminder. One example that got this right (so far) is Vismore, an AI visibility and AEO tool. It checks these boxes: Month-to-month pricing available 7-day free trial, no card required Plan switching works instantly (no support needed) Annual plan is optional, not forced Not saying Vismore is perfect, but the pricing model aligns well with how fast AI tools evolve. The bigger takeaway: Before committing to any annual plan, I now ask one key question: “If I want to downgrade next month, what happens? ”The answer to that often tells you more than the pricing page ever will. Curious how others are handling this—are you still doing annual plans, or are you moving to more flexible setups?
 
-1h ago
+2h ago
 
 ---
 
@@ -89,35 +97,33 @@ Last year, we committed to annual billing on three different tools. One of them?
 
 we're in this weird era now where everyone suddenly writes perfectly. every message, every email, every caption. no typos. no "lol sorry typed that too fast." no lowercase chaos. just. clean. polished. structured. english. and it's freaking me out bc clean polished english used to mean someone was smart or educated or careful. now it just means they hit "improve with AI" before they hit send. here's the part that actually keeps me up we spent years being embarrassed about bad grammar. teachers corrected it. bosses judged it. people got roasted in comment sections for it. and now? bad grammar is basically a flex. it's the handshake that says yeah, a real disorganized sleep-deprived actual human being typed this with their actual thumbs and didn't stop to clean it up bc they had something real to say and just said it. ur typos are ur fingerprints now. dont let anybody take them from you.
 
-14h ago
+15h ago
+
+---
+
+**[CIA is trusting AI to help analyze intel from human spies](https://www.reddit.com/r/artificial/comments/1shimak/cia_is_trusting_ai_to_help_analyze_intel_from/)**
+
+🔗 [politico.com](https://www.politico.com/news/2026/04/09/cia-ai-intelligence-analysis-00865893) • 9m ago
 
 ---
 
 **[OpenAI Pauses Stargate UK Data Center Effort Citing Energy Costs](https://www.reddit.com/r/artificial/comments/1sh5tpj/openai_pauses_stargate_uk_data_center_effort/)**
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-04-09/openai-pauses-stargate-uk-data-center-effort-citing-energy-costs) • 9h ago
-
----
-
-**[AI CEO vs Engineer (2026).](https://www.reddit.com/r/artificial/comments/1sgsldo/ai_ceo_vs_engineer_2026/)**
-
-This gave me a good chuckle. Wouldn't be so funny if it wasn't true.
-
-🔗 [youtu.be](https://youtu.be/WAUnmQt2Z7Y?si=yZdOgQL1rFK_yi0x) • 17h ago
-
----
-
-**[Made an ai that argues with its self](https://www.reddit.com/r/artificial/comments/1she93k/made_an_ai_that_argues_with_its_self/)**
-
-I made 2 ais argue with them selves with 2600 words to work with and I made them argue with 2 ideology 😂
-
-3h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-04-09/openai-pauses-stargate-uk-data-center-effort-citing-energy-costs) • 11h ago
 
 ---
 
 ---
 
 ## Google News: "ai"
+
+**[OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths or Financial Disasters](https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/)**
+
+The ChatGPT-maker testified in favor of an Illinois bill that would limit when AI labs can be held liable—even in cases where their products cause “critical harm.”
+
+WIRED • 10h ago
+
+---
 
 **[A Meta employee created a dashboard so coworkers can compete to be the company's No. 1 AI token user](https://fortune.com/2026/04/09/meta-killed-employee-ai-token-dashboard/)**
 
@@ -131,23 +137,53 @@ Fortune • 1d ago
 
 After releasing its first major AI model in a year, Meta now has to figure out how to turn it into a business.
 
+CNBC • 22h ago
+
+---
+
+**[Meta’s New AI Asked for My Raw Health Data—and Gave Me Terrible Advice](https://www.wired.com/story/metas-new-ai-asked-for-my-raw-health-data-and-gave-me-terrible-advice/)**
+
+Meta’s Muse Spark model offers to analyze users’ health data, including lab results. Beyond the obvious privacy risks, it’s not a capable stand-in for a real doctor.
+
+WIRED • 1h ago
+
+---
+
+**[Amazon's CEO Says Its AI Chips Business Is 'On Fire'](https://www.investopedia.com/amazons-ceo-says-its-ai-chips-business-is-on-fire-nvda-11946875)**
+
+Andy Jassy said Amazon's chip business "will be much larger than most think," in the CEO's annual shareholder letter.
+
+Investopedia • 13h ago
+
+---
+
+**[Amazon CEO Jassy says company could sell AI chips, raising stakes for Nvidia, AMD](https://finance.yahoo.com/news/amazon-ceo-jassy-says-company-could-sell-ai-chips-raising-stakes-for-nvidia-amd-142835117.html)**
+
+Amazon CEO Andy Jassy laid out plans to potentially sell AI chips and robots in his annual shareholder newsletter.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Amazon CEO Jassy defends $200 billion AI spend: "We're not going to be conservative"](https://www.cnbc.com/2026/04/09/amazon-ceo-andy-jassy-ai-spending.html)**
+
+Amazon shares have struggled so far this year as investors question the company's aggressive AI spending plans.
+
 CNBC • 21h ago
 
 ---
 
-**[CoreWeave and Meta Expand $21B AI Cloud Deal](https://www.coreweave.com/news/coreweave-and-meta-announce-21-billion-expanded-ai-infrastructure-agreement)**
+**[Inside Europe's AI playbook: Guardrails first, flexibility later](https://www.axios.com/2026/04/10/europe-ai-guardrails-first-flexibility-later)**
 
-CoreWeave and Meta expand a $21B agreement to scale AI inference workloads through 2032, highlighting demand for high-performance AI cloud infrastructure.
-
-CoreWeave • 22h ago
+Axios • 1h ago
 
 ---
 
-**[US defense official overseeing AI reaped millions selling xAI stock after Pentagon entered agreement with company](https://www.theguardian.com/us-news/2026/apr/09/pentagon-ai-xai-emil-michael)**
+**[NFL mock draft 2026: Meta AI predicts the entire first round](https://www.usatoday.com/story/sports/nfl/2026/04/10/nfl-mock-draft-2026-meta-ai-picks/89524758007/)**
 
-Expert said federal law bars officials from taking actions in their jobs that benefit their own financial interests
+USA TODAY Sports had Meta AI predict the first round of the 2026 NFL Draft. The chatbot's mock was respectable, but had some notable omissions.
 
-The Guardian • 12h ago
+USA Today • 28m ago
 
 ---
 
@@ -155,39 +191,7 @@ The Guardian • 12h ago
 
 TSMC is benefiting from sustained demand for advanced semiconductors from its key customers like Apple and Nvidia.
 
-CNBC • 58m ago
-
----
-
-**[TSMC revenue surges 35% on AI chip demand](https://finance.yahoo.com/video/tsmc-revenue-surges-35-ai-085104195.html)**
-
-<body><p>STORY: :: TSMC</p><p>The world's largest contract chipmaker, TSMC, saw first-quarter revenue surge 35% thanks to the AI boom.&nbsp;</p><p>Revenue from January-March hit $35.7 billion, beating market forecasts on surging interest in artificial intelligence applications.</p><p>Friday's results are in line with TSMC's January guidance of up to to $35.8 billion on its last earnings call.</p><p>The tech titan will report full first-quarter earnings on April 16, including an updated current quarter and full year outlook.</p><p>The company has been a major beneficiary of advances in AI.</p><p>That boom has more than offset a tapering-off in pandemic-led demand for chips used in consumer electronics like tablets.</p><p>TSMC's customers include Nvidia and Apple.</p><p>:: TSMC</p><p>Its shares closed up more than 2% on Friday.</p></body>
-
-Yahoo Finance • 20m ago
-
----
-
-**[TSMC's first-quarter revenue surges as AI interest propels sales beyond market forecasts](https://www.reuters.com/world/asia-pacific/tsmcs-q1-revenue-jumps-35-yy-beats-market-forecast-2026-04-10/)**
-
-Reuters • 3h ago
-
----
-
-**[Inside Europe's AI playbook: Guardrails first, flexibility later](https://www.axios.com/2026/04/10/europe-ai-guardrails-first-flexibility-later)**
-
-Axios • 9m ago
-
----
-
-**[Is MSG Maker Ajinomoto Sitting on an AI Goldmine? This Investor Thinks So](https://www.wsj.com/business/is-msg-maker-ajinomoto-sitting-on-an-ai-goldmine-this-investor-thinks-so-4a054b58)**
-
-WSJ • 2h ago
-
----
-
-**[Anthropic Claims Its New A.I. Model, Mythos, Is a Cybersecurity ‘Reckoning’](https://www.nytimes.com/2026/04/07/technology/anthropic-claims-its-new-ai-model-mythos-is-a-cybersecurity-reckoning.html)**
-
-The New York Times • 2d ago
+CNBC • 2h ago
 
 ---
 
@@ -223,7 +227,7 @@ Large language models may be standardizing human expression and subtly influenci
 
 Instant 1.0 is out! This essay shows a bunch of demos, to explain why we think Instant is the best backend for AI-coded apps. We also cover the architecture that makes all of it work.
 
-⬆️ 143 • 💬 77 • 14h ago • [instantdb.com](https://www.instantdb.com/essays/architecture)
+⬆️ 153 • 💬 79 • 16h ago • [instantdb.com](https://www.instantdb.com/essays/architecture)
 
 ---
 
@@ -231,19 +235,19 @@ Instant 1.0 is out! This essay shows a bunch of demos, to explain why we think I
 
 In 1958, Mao ordered every village to produce steel. The steel was useless. The crops rotted. Today's top-down AI mandates are producing the same pattern: ba...
 
-⬆️ 128 • 💬 61 • 1d ago • [Han, Not Solo](https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/)
+⬆️ 129 • 💬 61 • 1d ago • [Han, Not Solo](https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/)
 
 ---
 
 **[Ask HN: What are you building that's not AI related?](https://news.ycombinator.com/item?id=47700460)**
 
-⬆️ 125 • 💬 149 • 1d ago
+⬆️ 125 • 💬 152 • 1d ago
 
 ---
 
 **[Study found that young adults have grown less hopeful and more angry about AI](https://news.ycombinator.com/item?id=47704443)**
 
-⬆️ 119 • 💬 171 • 18h ago • [nytimes.com](https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html)
+⬆️ 123 • 💬 171 • 19h ago • [nytimes.com](https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html)
 
 ---
 
@@ -261,11 +265,11 @@ Thanks to the new possibilities afforded by AI coding tools, the App Store is se
 
 ---
 
-**[MemPalace, the highest-scoring AI memory system ever benchmarked](https://news.ycombinator.com/item?id=47672792)**
+**[Process Manager for Autonomous AI Agents](https://news.ycombinator.com/item?id=47699814)**
 
-The highest-scoring AI memory system ever benchmarked. And it's free. - milla-jovovich/mempalace
+Run autonomous AI agent bots from a single CLI. Terminal dashboard, web UI, declarative config, and session management.
 
-⬆️ 63 • 💬 14 • 2d ago • [GitHub](https://github.com/milla-jovovich/mempalace)
+⬆️ 58 • 💬 21 • 1d ago • [botctl.dev](https://botctl.dev/)
 
 ---
 
@@ -279,7 +283,7 @@ Could AI become dangerous? Can we trust AI Agents? AGI. Use code insideai at htt
 
 📺 InsideAI
 
-👁️ 197K • 👍 10K • 💬 756 • ⏱️ 16:24 • 16h ago
+👁️ 197K • 👍 10K • 💬 756 • ⏱️ 16:24 • 17h ago
 
 ---
 
@@ -289,7 +293,7 @@ Try Seedance 2.0 on Higgsfield: https://higgsfield.ai/s/seedance-2-0-airevolutio
 
 📺 AI Revolution
 
-👁️ 20K • 👍 740 • 💬 84 • ⏱️ 17:37 • 9h ago
+👁️ 20K • 👍 740 • 💬 84 • ⏱️ 17:37 • 10h ago
 
 ---
 
@@ -309,7 +313,7 @@ LIMITLESS HQ ⬇️ NEWSLETTER: https://limitlessft.substack.com/ FOLLOW ON X: h
 
 📺 Limitless Podcast
 
-👁️ 23K • 👍 817 • 💬 96 • ⏱️ 25:26 • 19h ago
+👁️ 23K • 👍 817 • 💬 96 • ⏱️ 25:26 • 20h ago
 
 ---
 
@@ -319,7 +323,7 @@ Is the AI boom already starting to crack? Behind the hype, a growing number of d
 
 📺 EUREKA US
 
-👁️ 2K • 👍 60 • 💬 2 • ⏱️ 10:53 • 11h ago
+👁️ 2K • 👍 60 • 💬 2 • ⏱️ 10:53 • 13h ago
 
 ---
 
@@ -339,7 +343,7 @@ We are joined by journalist Ronan Farrow to discuss his recent piece on dangerou
 
 📺 I've Had It
 
-👁️ 116K • 👍 10K • 💬 969 • ⏱️ 25:30 • 8h ago
+👁️ 116K • 👍 10K • 💬 969 • ⏱️ 25:30 • 9h ago
 
 ---
 
@@ -385,7 +389,7 @@ Gemma 4 31B is an instruction-tuned, multimodal LLM capable of processing text a
 
 `image-text-to-text` `32.7B`
 
-⬇️ 1,589,761 • ❤️ 1,603 • 7h ago
+⬇️ 1,589,761 • ❤️ 1,603 • 8h ago
 
 ---
 
@@ -409,7 +413,7 @@ Gemma-4-31B-JANG_4M-CRACK is a 31B parameter text-generation model optimized for
 
 `image-text-to-text` `6.4B`
 
-⬇️ 75,426 • ❤️ 875 • 1h ago
+⬇️ 75,426 • ❤️ 875 • 3h ago
 
 ---
 
@@ -469,7 +473,7 @@ Gemma 4 E4B is a multimodal, instruction-tuned LLM from Google DeepMind, support
 
 `any-to-any` `8.0B`
 
-⬇️ 961,135 • ❤️ 545 • 7h ago
+⬇️ 961,135 • ❤️ 545 • 8h ago
 
 ---
 
@@ -481,7 +485,7 @@ Gemma 4 26B A4B is a multimodal instruction-tuned model capable of processing te
 
 `image-text-to-text` `26.5B`
 
-⬇️ 1,269,031 • ❤️ 575 • 7h ago
+⬇️ 1,269,031 • ❤️ 575 • 8h ago
 
 ---
 
@@ -641,7 +645,7 @@ The highest-scoring AI memory system ever benchmarked. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 38.1k • 🔱 4.8k • 2h ago
+⭐ 38.1k • 🔱 4.8k • 3h ago
 
 ---
 
@@ -651,7 +655,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 28.3k • 🔱 5.3k • 16h ago
+⭐ 28.3k • 🔱 5.3k • 18h ago
 
 ---
 
@@ -661,7 +665,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Ope
 
 `Python` `claude-code` `codex` `graphrag` `knowledge-graph` `openclaw`
 
-⭐ 19.0k • 🔱 1.9k • 4m ago
+⭐ 19.0k • 🔱 1.9k • 1h ago
 
 ---
 
@@ -671,7 +675,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `JavaScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 14.8k • 🔱 1.4k • 29m ago
+⭐ 14.8k • 🔱 1.4k • 1h ago
 
 ---
 
@@ -681,7 +685,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 9.5k • 🔱 430 • 13h ago
+⭐ 9.5k • 🔱 430 • 15h ago
 
 ---
 
@@ -711,7 +715,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 7.3k • 🔱 446 • 2m ago
+⭐ 7.3k • 🔱 446 • 1h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-10T09:11:34.317761+00:00'
+updated: '2026-04-10T10:34:23.298326+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
 - videos
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 10, 2026 at 09:11 UTC  
+**Last Updated:** April 10, 2026 at 10:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,187.45
+### $2,192.03
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
-**7d:** +6.0%  
-**30d:** +5.5%  
-**90d:** -30.0%  
-**1y:** +39.4%  
+**24h:** +0.4%  
+**7d:** +6.2%  
+**30d:** +5.7%  
+**90d:** -29.8%  
+**1y:** +39.7%  
 
 ---
 
@@ -68,11 +68,19 @@ No max supply
 
 ## Reddit: r/ethereum
 
+**[I tracked how much MEV I lost over 6 months of trading on DEXs. the number was disgusting.](https://www.reddit.com/r/ethereum/comments/1shi3pv/i_tracked_how_much_mev_i_lost_over_6_months_of/)**
+
+So I went back through my wallet history and used a couple of MEV tracking tools to figure out how much value I actually lost to sandwich attacks and front-running over the past 6 months. not gonna share exact numbers but it was enough to make me seriously rethink where and how I trade on-chain. the thing that pissed me off the most wasn't even the big trades. it was the small ones. $200-500 swaps getting sandwiched for a few bucks each time. doesn't feel like much in the moment but it adds up fast when you're making multiple trades a week. what I learned: AMMs are basically open season for MEV bots. your trade hits the mempool and you're cooked private RPCs like flashbots protect help but they're not a complete solution. you're still trusting the builder not to screw you intent-based systems (cow swap etc) are better but they introduce solver trust assumptions and don't work for everything the only architecture where MEV extraction is structurally impossible is one where transaction ordering is provable and verifiable. not hidden, not trusted, but mathematically proven to be fair honestly the biggest takeaway is that most people have no idea how much they're losing. the "invisible tax" framing is accurate. you never see a line item that says "MEV bot took $4.50 from this trade" but it's happening on basically every swap. anyone else tracked their MEV losses? curious what numbers people are seeing. also curious if anyone has found a setup that actually eliminates it, not just reduces it.
+
+37m ago
+
+---
+
 **[Highlights from the All Core Developers Execution (ACDE) Call #234](https://www.reddit.com/r/ethereum/comments/1shgin6/highlights_from_the_all_core_developers_execution/)**
 
 Ethereum developers align on Glamsterdam devnet progress, Hegota Account Abstraction direction, & key execution layer upgrades shaping the roadmap.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-234/) • 49m ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-234/) • 2h ago
 
 ---
 
@@ -80,7 +88,7 @@ Ethereum developers align on Glamsterdam devnet progress, Hegota Account Abstrac
 
 How does staking work? I staked ~0.1 eth through Exodus (they use Everstake) about 64 days ago. Eth validator queue is currently ~52 days. I was told I’d need to wait 1-5 days for it to pool on top of the validator time. It’s now approaching >1 week since the “expected” time to finish staking and start earning rewards, but it still shows staking. Is there a way to check how long I have to wait or know what happened?  [comments]
 
-9h ago
+11h ago
 
 ---
 
@@ -88,7 +96,7 @@ How does staking work? I staked ~0.1 eth through Exodus (they use Everstake) abo
 
 World Liberty Financial deposited 3B WLFI tokens as collateral to borrow $50M of its own stablecoin, pushing its lending pool into negative liquidity and raising concerns over circular treasury practices, governance risks, and regulatory scrutiny.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/trumps-crypto-project-just-borrowed-50-million-against-its-own-token-and-broke-the-lending-pool/) • 1d ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/trumps-crypto-project-just-borrowed-50-million-against-its-own-token-and-broke-the-lending-pool/) • 2d ago
 
 ---
 
@@ -104,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The Ethereum Layer 2 powering Predictstreet. Built by Abu Dhabi's IHC, hosting a UAE central-bank-licensed stablecoin, with BlackRock and Mastercard as collaborators.
 
-🔗 [Company Gibraltar | company.gi](https://company.gi/blog/adi-chain-explained) • 23h ago
+🔗 [Company Gibraltar | company.gi](https://company.gi/blog/adi-chain-explained) • 1d ago
 
 ---
 
@@ -140,14 +148,6 @@ I’ve had my eth staked for about 2 years now, net negative on the eth itself b
 
 ---
 
-**[best practices for public keyes](https://www.reddit.com/r/ethereum/comments/1se9xbt/best_practices_for_public_keyes/)**
-
-A simple question for the community. I was recently asked for me public key (to my metamask wallet) I know that Bitcoin public keys should still be treated with some care as they disclose all transactions to that address in any blockchain explorer Is this the same with Ethereum?
-
-3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -156,7 +156,15 @@ A simple question for the community. I was recently asked for me public key (to 
 
 TD Cowen remains positive on $55 billion Bitcoin treasury pioneer Strategy, despite trimming its price target yet again.
 
-Decrypt • 11h ago
+Decrypt • 12h ago
+
+---
+
+**[Tom Lee's BitMine Uplisted to NYSE as Ethereum Firm Expands Buyback Program to $4 Billion](https://decrypt.co/363823/tom-lee-bitmine-uplisted-nyse-ethereum-firm-expands-buybacks-4-billion)**
+
+Ethereum treasury giant BitMine Immersion Technologies upped its share buyback program to $4 billion and was uplisted to the NYSE on Thursday.
+
+Decrypt • 18h ago
 
 ---
 
@@ -164,7 +172,7 @@ Decrypt • 11h ago
 
 Over $2.2B in Bitcoin and Ethereum options expire today as ETH derivatives flash a rare bullish signal not seen since 2023.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -178,13 +186,7 @@ The Block • 1d ago
 
 **[Most large cryptocurrencies fall as Ethereum tumbles](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-as-ethereum-tumbles-91a2f421-9307bc266dcb)**
 
-MarketWatch • 19h ago
-
----
-
-**[Bitmine Stock Plugs Into a New Power Source as Ethereum Holdings Hits Record Highs; BMNR Up 15%](https://www.tipranks.com/news/bitmine-stock-plugs-into-a-new-power-source-as-ethereum-holdings-hit-record-highs-bmnr-up-15)**
-
-TipRanks • 22h ago
+MarketWatch • 20h ago
 
 ---
 
@@ -192,7 +194,13 @@ TipRanks • 22h ago
 
 Will Ethereum reach $5,000 in 2026? Citi targets $3,175 while Standard Chartered forecasts $7,500. Explore the key drivers behind the predictions.
 
-CoinGecko • 23h ago
+CoinGecko • 1d ago
+
+---
+
+**[Bitmine Stock Plugs Into a New Power Source as Ethereum Holdings Hits Record Highs; BMNR Up 15%](https://www.tipranks.com/news/bitmine-stock-plugs-into-a-new-power-source-as-ethereum-holdings-hit-record-highs-bmnr-up-15)**
+
+TipRanks • 23h ago
 
 ---
 
@@ -200,13 +208,7 @@ CoinGecko • 23h ago
 
 Cryptocurrencies haven't found steady momentum for a rally during major market swings.
 
-Seeking Alpha • 4h ago
-
----
-
-**[Is $3K Back on the Table as Ethereum (ETH) Flashes Recovery Signal Not Seen in 3 Years?](https://www.ccn.com/analysis/crypto/ethereum-eth-flashes-recovery-signal-not-seen-in-3-years/)**
-
-CCN.com • 1h ago
+Seeking Alpha • 5h ago
 
 ---
 
@@ -218,11 +220,9 @@ Bit Digital • 2d ago
 
 ---
 
-**[ETH Up or Down - 5 Minutes](https://polymarket.com/event/eth-updown-5m-1775761800)**
+**[Is $3K Back on the Table as Ethereum (ETH) Flashes Recovery Signal Not Seen in 3 Years?](https://www.ccn.com/analysis/crypto/ethereum-eth-flashes-recovery-signal-not-seen-in-3-years/)**
 
-Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
-
-Polymarket • 3d ago
+CCN.com • 2h ago
 
 ---
 
@@ -246,7 +246,7 @@ BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 5K • 👍 243 • 💬 201 • ⏱️ 22:51 • 8h ago
+👁️ 5K • 👍 243 • 💬 201 • ⏱️ 22:51 • 9h ago
 
 ---
 
@@ -256,7 +256,7 @@ In this video, I take a closer look at the current Ethereum market structure and
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 191 • 💬 19 • ⏱️ 10:05 • 14h ago
+👁️ 3K • 👍 191 • 💬 19 • ⏱️ 10:05 • 16h ago
 
 ---
 
@@ -266,7 +266,7 @@ In this video, we explain what an XRP node is, why node operation has recently g
 
 📺 Discover Health
 
-👁️ 8K • 👍 194 • ⏱️ 4:44 • 20h ago
+👁️ 8K • 👍 194 • ⏱️ 4:44 • 22h ago
 
 ---
 
@@ -276,7 +276,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 404 • 👍 54 • 💬 2 • ⏱️ 4:58 • 2h ago
+👁️ 404 • 👍 54 • 💬 2 • ⏱️ 4:58 • 4h ago
 
 ---
 
@@ -286,7 +286,7 @@ Ethereum está pasando por uno de los momentos más complicados de todo este cic
 
 📺 Healthy Pockets
 
-👁️ 9K • 👍 663 • 💬 102 • ⏱️ 14:46 • 18h ago
+👁️ 9K • 👍 663 • 💬 102 • ⏱️ 14:46 • 20h ago
 
 ---
 
@@ -296,7 +296,7 @@ Jetzt gratis sichern → https://www.blockchain-investor.de/app Die neue „Bloc
 
 📺 Krypto Report
 
-👁️ 6K • 👍 526 • 💬 9 • ⏱️ 18:19 • 16h ago
+👁️ 6K • 👍 526 • 💬 9 • ⏱️ 18:19 • 18h ago
 
 ---
 
@@ -306,7 +306,7 @@ A major firm just bought 71000 ETH, signaling confidence that the bottom is in. 
 
 📺 CoinBros
 
-👁️ 539 • 👍 1 • ⏱️ 0:19 • 10h ago
+👁️ 539 • 👍 1 • ⏱️ 0:19 • 11h ago
 
 ---
 
@@ -316,7 +316,7 @@ invested in crypto — who wins? Watch the insane volatility of BTC, ETH, and SO
 
 📺 Data Insights
 
-👁️ 2K • 👍 28 • ⏱️ 0:41 • 15h ago
+👁️ 2K • 👍 28 • ⏱️ 0:41 • 16h ago
 
 ---
 
@@ -326,7 +326,7 @@ Welcome to Pro Charts: Crypto on the Verified Pro Traders channel. Today, Drew D
 
 📺 Verified Pro Traders
 
-👁️ 3K • 👍 280 • 💬 20 • ⏱️ 12:56 • 15h ago
+👁️ 3K • 👍 280 • 💬 20 • ⏱️ 12:56 • 16h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-10T09:11:34.311758+00:00'
+updated: '2026-04-10T10:34:23.293183+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
 - videos
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 10, 2026 at 09:11 UTC  
+**Last Updated:** April 10, 2026 at 10:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,9 +44,9 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** +6.5%  
-**30d:** +1.7%  
+**24h:** +0.7%  
+**7d:** +6.6%  
+**30d:** +1.8%  
 **90d:** -21.2%  
 **1y:** -14.1%  
 
@@ -77,19 +77,11 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Terrence Howard says Bitcoin is going to die. I the quality of Bitcoin’s critics makes me even more bullish](https://www.reddit.com/r/Bitcoin/comments/1sh4dm5/terrence_howard_says_bitcoin_is_going_to_die_i/)**
-
-Man these bitcoin critics are embarrassing. they just make me want to buy more
-
-🔗 [youtu.be](https://youtu.be/wJJYtiz0nqw) • 10h ago
-
----
-
 **[Is Bitcoin set to skyrocket?](https://www.reddit.com/r/Bitcoin/comments/1shbt4d/is_bitcoin_set_to_skyrocket/)**
 
 Is it actually going to go up?
 
-5h ago
+6h ago
 
 ---
 
@@ -97,13 +89,21 @@ Is it actually going to go up?
 
 ADX hit 60.1 on the 4H. That's an absurdly strong trend reading. EMA ribbon flipped bullish. MACD is at +563. By every technical measure this is a confirmed uptrend. Meanwhile Fear & Greed is at 16. Extreme Fear. Retail is actually net short at 0.86 while smart money flipped long at 1.06. Let that sink in — smart money is long, retail is short, technicals are screaming bullish, and sentiment is at the floor. Ohhh and CPI drops in a few hours. If it comes in cool, this thing flies. If it comes in hot, we retest $69K and everyone says "told you so." Best asymmetric setup in weeks and almost nobody is talking about it.
 
-3h ago
+5h ago
 
 ---
 
 **[Hey, let me ask you something. . .](https://www.reddit.com/r/Bitcoin/comments/1sh4e7n/hey_let_me_ask_you_something/)**
 
-10h ago
+12h ago
+
+---
+
+**[Terrence Howard says Bitcoin is going to die. I the quality of Bitcoin’s critics makes me even more bullish](https://www.reddit.com/r/Bitcoin/comments/1sh4dm5/terrence_howard_says_bitcoin_is_going_to_die_i/)**
+
+Man these bitcoin critics are embarrassing. they just make me want to buy more
+
+🔗 [youtu.be](https://youtu.be/wJJYtiz0nqw) • 12h ago
 
 ---
 
@@ -111,21 +111,7 @@ ADX hit 60.1 on the 4H. That's an absurdly strong trend reading. EMA ribbon flip
 
 I'm waiting to see if $58k-$60k happens. If it does, I will be down for the 1st time im many years. So, Im stacking powder.
 
-8h ago
-
----
-
-**[How it started How it’s Going](https://www.reddit.com/r/Bitcoin/comments/1sh2kx0/how_it_started_how_its_going/)**
-
-11h ago
-
----
-
-**[Daily Discussion, April 10, 2026](https://www.reddit.com/r/Bitcoin/comments/1she8bw/daily_discussion_april_10_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-3h ago
+10h ago
 
 ---
 
@@ -133,7 +119,29 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 This is common in almost every technology growth cycle. First there is the initial hype, then there is a period of innovation where the technology matures, then there is a secondary period of high growth and hype that reflects its built-out maturity, enhanced user experience, and mainstream integration. These three stages look like this with bitcoin. 2009 - 2017: Initial hype (parabolic price action) 2018 - 2026: Innovation (price stagnation) 2027 - 2035: Maturity (parabolic price action) After these three stages we will reach mass adoption, which would in theory equal a 26 year adoption cycle from whitepaper to mass adoption. The last 8 or so years in bitcoin have felt boring, but thats just because the price action has been going nowhere. for example we are currently at the same prices seen in 2021 and only 3x the prices seen in 2017. But this is exactly how the innovation stage works. It appears boring however there is a ton of building going on behind the scenes to make bitcoins user experience intuitive while integrating it into mainstream finance and technology apps. It just feels boring because we dont see all the innovation happening behind the scenes. Once all these years of innovation start to present themselves in the mainstream world the second hype/growth stage begins where the price moves into a parabolic stage once again as it reflects the maturity of bitcoin. The best is yet to come not just for price, but also for user adoption.
 
-3h ago
+4h ago
+
+---
+
+**[Daily Discussion, April 10, 2026](https://www.reddit.com/r/Bitcoin/comments/1she8bw/daily_discussion_april_10_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+4h ago
+
+---
+
+**[How it started How it’s Going](https://www.reddit.com/r/Bitcoin/comments/1sh2kx0/how_it_started_how_its_going/)**
+
+13h ago
+
+---
+
+**[first time](https://www.reddit.com/r/Bitcoin/comments/1shbww5/first_time/)**
+
+just put $200 into btc was that a good idea orrr
+
+6h ago
 
 ---
 
@@ -141,15 +149,7 @@ This is common in almost every technology growth cycle. First there is the initi
 
 I noticed the spread is really wide on Bitcoin, so do you prefer to set limit orders or market buy?
 
-4h ago
-
----
-
-**[Joby Weeks (bitclub network scam) in Tommy Robinson interview.](https://www.reddit.com/r/Bitcoin/comments/1shbx1a/joby_weeks_bitclub_network_scam_in_tommy_robinson/)**
-
-Just watched an interview featuring British activist Tommy Robinson speaking with a former BitClub Network figure, and I honestly think he’s been seriously misled in this conversation. The guest in the video claims BitClub Network was a huge success with “no victims” and that “everyone got rich.” That is not true based on public record. BitClub Network has been the subject of a major fraud case brought by the U.S. Department of Justice, with allegations that it was a large-scale crypto investment scheme involving misrepresented mining profits and returns funded by new investor money rather than real trading or mining activity. I say this as someone who personally invested in it and lost money. There absolutely were victims..... I was one of them. I don’t think Tommy has done basic background research on this individual or the case before giving him a platform. At minimum, I hope he looks into the actual court filings and evidence, because the claims being presented in that interview don’t match the documented facts. If anyone is watching that video and doesn’t know the history of BitClub Network, please do your own research before accepting what’s being said at face value. Please share this far and wide to hopefully get the creator to take this down. There have been too many scammer in the industry and this guy shouldn't be getting a victin pass.
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=iScyvqrl59M) • 5h ago
+6h ago
 
 ---
 
@@ -165,25 +165,51 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[XRP may be less exposed to quantum threats than bitcoin, experts say](https://www.coindesk.com/tech/2026/04/10/xrp-may-be-less-exposed-to-quantum-threats-than-bitcoin-experts-say)**
+**[US CPI Data Release Today: Inflation Expected to Spike, What It Means for Bitcoin Price](https://www.tradingview.com/news/coinpedia:eafc8d02f094b:0-us-cpi-data-release-today-inflation-expected-to-spike-what-it-means-for-bitcoin-price/)**
 
-XRP’s design leaves a smaller share of its supply exposed to future quantum attacks than Bitcoin’s, experts said, pointing to additional XRPL features that stand out.
+The US Consumer Price Index (CPI) data is set to be released today at 8:30 AM ET, with forecasts indicating a sharp rise in inflation driven by higher energy prices. A hotter-than-expected CPI could strengthen the stagflation narrative and push Bitcoin toward lower support levels around $68,000–$69…
 
-CoinDesk • 2h ago
+TradingView • 1h ago
 
 ---
 
-**[BlackRock’s Bitcoin ETF inflows $269M, marking a 5-week high](https://www.tradingview.com/news/cointelegraph:88c927e03094b:0-blackrock-s-bitcoin-etf-inflows-269m-marking-a-5-week-high/)**
+**[Bitcoin Price Builds Its First Breakout Setup of April, but One Metric Dropped Over 50%](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-builds-first-breakout-082721681.html)**
 
-Investors piled $269.3 million into BlackRock’s iShares Bitcoin Trust on Thursday, in its best-performing day since early March, around the time the US-Iran war started to kick into high gear. The inflows helped to end two days of net outflows among the 12 US spot Bitcoin ETFs, which recorded a net…
+Bitcoin price has an $81,000 breakout setup on the daily chart but open interest and spot flows are fading. Here is what the data reveals.
 
-TradingView • 2h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[Bitcoin miners are losing money minting coins. It’s the same problem that killed the penny.](https://www.marketwatch.com/story/bitcoin-miners-are-losing-money-minting-coins-its-the-same-problem-that-killed-the-penny-f907db5c)**
 
-MarketWatch • 13h ago
+MarketWatch • 14h ago
+
+---
+
+**[Bitcoin pares gains, holds above $71k as Iran ceasefire boosts risk appetite](https://www.investing.com/news/cryptocurrency-news/bitcoin-rallies-to-nearly-72k-as-usiran-ceasefire-boosts-risk-4601995)**
+
+Investing.com • 1d ago
+
+---
+
+**[Bitcoin under $71,000, ETH, SOL, XRP drop as Iran ceasefire frays within 48 hours of being signed](https://www.coindesk.com/markets/2026/04/09/bitcoin-under-usd71-000-eth-sol-xrp-drop-as-iran-ceasefire-frays-within-48-hours-of-being-signed)**
+
+Tehran says three clauses of the ceasefire have been breached, oil is rebounding toward $97, and the Strait of Hormuz remains effectively closed despite the deal.
+
+CoinDesk • 1d ago
+
+---
+
+**[Bitcoin Price Falls. Why Faltering Iran Cease-Fire Could Crush Cryptos.](https://www.barrons.com/articles/bitcoin-price-crypto-xrp-etherum-today-iran-df3ec33f)**
+
+Barron's • 23h ago
+
+---
+
+**[Buy Bitcoin at Night](https://www.bloomberg.com/opinion/newsletters/2026-04-09/buy-bitcoin-at-night)**
+
+Bloomberg.com • 16h ago
 
 ---
 
@@ -201,43 +227,13 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Iran demands crypto fees for ships passing Hormuz during ceasefire](https://www.ft.com/content/02aefac4-ea62-48db-9326-c0da373b11b8)**
-
-Country’s oil exporters’ union says toll to be paid in cryptocurrency and vessels monitored for weapons
-
-Financial Times • 1d ago
-
----
-
-**[Buy Bitcoin at Night](https://www.bloomberg.com/opinion/newsletters/2026-04-09/buy-bitcoin-at-night)**
-
-Bloomberg.com • 15h ago
-
----
-
-**[$3.6 Million Stolen in Bitcoin Depot Hack](https://www.securityweek.com/3-6-million-stolen-in-bitcoin-depot-hack/)**
-
-Bitcoin Depot reported that millions of dollars worth of bitcoin were stolen by hackers from its wallets using compromised credentials.
-
-SecurityWeek • 1d ago
-
----
-
-**[Garfield High School evacuated last week after bomb threat demanding Bitcoin](https://mynorthwest.com/crime-blotter/garfield-high-school-bitcoin/4226437)**
-
-Garfield High School was evacuated last Friday afternoon due to an anonymous bomb threat demanding payment in Bitcoin.
-
-MyNorthwest.com • 18h ago
-
----
-
 ---
 
 ## HackerNews: "bitcoin"
 
 **[Who is Satoshi Nakamoto? My quest to unmask Bitcoin's creator](https://news.ycombinator.com/item?id=47685320)**
 
-⬆️ 602 • 💬 794 • 2d ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)
+⬆️ 603 • 💬 796 • 2d ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)
 
 ---
 
@@ -319,7 +315,7 @@ A sanctioned nation is building a sovereign Bitcoin treasury through a toll boot
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 2K • 💬 275 • ⏱️ 23:12 • 9h ago
+👁️ 21K • 👍 2K • 💬 275 • ⏱️ 23:12 • 11h ago
 
 ---
 
@@ -339,7 +335,7 @@ Is Adam Back the real Satoshi Nakamoto? He addresses the enduring mystery of Bit
 
 📺 Yahoo Finance
 
-👁️ 9K • 👍 170 • 💬 192 • ⏱️ 8:56 • 17h ago
+👁️ 9K • 👍 170 • 💬 192 • ⏱️ 8:56 • 18h ago
 
 ---
 
@@ -359,7 +355,7 @@ Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FR
 
 📺 CryptosRUs
 
-👁️ 18K • 👍 944 • 💬 355 • ⏱️ 50:22 • 18h ago
+👁️ 18K • 👍 944 • 💬 355 • ⏱️ 50:22 • 19h ago
 
 ---
 
@@ -369,7 +365,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 ✓
 
 📺 Altcoin Daily
 
-👁️ 24K • 👍 1K • 💬 262 • ⏱️ 12:20 • 9h ago
+👁️ 24K • 👍 1K • 💬 262 • ⏱️ 12:20 • 11h ago
 
 ---
 
@@ -379,7 +375,7 @@ Into The Cryptoverse Premium: https://intothecryptoverse.com For inquiries and t
 
 📺 Benjamin Cowen
 
-👁️ 18K • 👍 341 • 💬 9 • ⏱️ 0:47 • 13h ago
+👁️ 18K • 👍 341 • 💬 9 • ⏱️ 0:47 • 14h ago
 
 ---
 
@@ -387,7 +383,7 @@ Into The Cryptoverse Premium: https://intothecryptoverse.com For inquiries and t
 
 📺 CryptoWendyO
 
-👁️ 3K • 👍 290 • 💬 5 • ⏱️ 2:11 • 8h ago
+👁️ 3K • 👍 290 • 💬 5 • ⏱️ 2:11 • 9h ago
 
 ---
 
@@ -397,7 +393,7 @@ Bitcoin #Crypto #Finance Is the Bitcoin bottom finally in? Tom Lee thinks so, ca
 
 📺 The Wolf Of All Streets
 
-👁️ 19K • 👍 888 • 💬 256 • ⏱️ 39:05 • 19h ago
+👁️ 19K • 👍 888 • 💬 256 • ⏱️ 39:05 • 20h ago
 
 ---
 

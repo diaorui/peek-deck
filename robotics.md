@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-10T09:11:34.320976+00:00'
+updated: '2026-04-10T10:34:23.301023+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 10, 2026 at 09:11 UTC  
+**Last Updated:** April 10, 2026 at 10:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,21 @@ Robotics research and industry news
 
 **[Here is the worlds first man being kicked in the balls by a robot](https://www.reddit.com/r/robotics/comments/1sgved8/here_is_the_worlds_first_man_being_kicked_in_the/)**
 
-16h ago
+17h ago
 
 ---
 
 **[Now they are full grown 😀 (audio with detailed description on the hardware and power supply)](https://www.reddit.com/r/robotics/comments/1sh4kuq/now_they_are_full_grown_audio_with_detailed/)**
 
-10h ago
+12h ago
+
+---
+
+**[UR10e install](https://www.reddit.com/r/robotics/comments/1shi260/ur10e_install/)**
+
+Worked on a UR10e install recently for an existing welding cell. Customer described it as “basically the same as the manual,” so we went in expecting a pretty standard setup. Once we were on site, fixture tolerance was around ±2 mm. The new process needed something closer to ±0.5 mm. The initial expectation was that we could calibrate around it. Spent a few hours going back and forth on that before even powering the robot. The variation wasn’t really something calibration could solve — parts weren’t landing consistently in the fixture either, so it wasn’t just a fixed offset. In the end we had to rework part of the fixture before moving forward. Install stretched from 3 days to 9! Turned out the fixture was more of a limiting factor than the robot.
+
+39m ago
 
 ---
 
@@ -48,7 +56,7 @@ Robotics research and industry news
 
 From Deepak Pathak on 𝕏 (full video): https://x.com/pathak2206/status/2041939631860482211
 
-21h ago
+23h ago
 
 ---
 
@@ -56,7 +64,7 @@ From Deepak Pathak on 𝕏 (full video): https://x.com/pathak2206/status/2041939
 
 This test demonstrates how to connect a direct Time-of-Flight (dToF) distance sensor to a Raspberry Pi for accurate proximity sensing.The tutorial code will be publicly released on GitHub later.
 
-18h ago
+19h ago
 
 ---
 
@@ -64,7 +72,7 @@ This test demonstrates how to connect a direct Time-of-Flight (dToF) distance se
 
 I've been working on biologically grounded locomotion control using spiking neural networks instead of conventional RL. The system runs on a Freenove Robot Dog Kit (FNK0050) with a Raspberry Pi 4. The approach: train an Izhikevich SNN in MuJoCo simulation using a custom MJCF model of the robot, then transfer the brain to real hardware where it continues learning with IMU feedback (MPU6050). A central pattern generator provides innate gait, and a competence gate gradually hands control to the SNN as it proves stable. Key result: brain persistence works — stop the robot, restart it days later, synaptic weights reload and it walks immediately without relearning. A fresh brain needs 2,000 steps (40s) to reach the same level. Honest limitation: spectral analysis shows the SNN learns conservative dampening rather than faster/better gaits. It makes movements smaller and more regular. Biologically plausible (puppies do this) but not yet performance-improving. Total hardware cost: ~€200 (Pi + kit). 232 neurons, 50Hz control loop, no GPU needed. Demo: https://www.youtube.com/watch?v=7iN8tB2xLHI Code: github.com/MarcHesse/mhflocke (Apache 2.0) Paper: doi.org/10.5281/zenodo.19481146 Happy to discuss the architecture, the sim-to-real challenges, or the conservative dampening finding.
 
-20h ago
+21h ago
 
 ---
 
@@ -72,7 +80,7 @@ I've been working on biologically grounded locomotion control using spiking neur
 
 https://preview.redd.it/hllt5xajpbug1.png?width=1192&format=png&auto=webp&s=4fe28a28013fa07cacaef79d1512887848f52997 https://preview.redd.it/rb7jug3lpbug1.png?width=1033&format=png&auto=webp&s=7d00c8125c25ca01a5061fdbd2ebbdb8599618d6 https://preview.redd.it/11h2k3wlpbug1.png?width=846&format=png&auto=webp&s=5d07b76e41cb86e68db3807abf5412a3ace1df21 Rate my design 1-10 https://www.tinkercad.com/things/5qwlk5KBEEY-robotic-dogstl
 
-45m ago
+2h ago
 
 ---
 
@@ -80,7 +88,7 @@ https://preview.redd.it/hllt5xajpbug1.png?width=1192&format=png&auto=webp&s=4fe2
 
 Scientists at Binghamton University have developed a robot guide dog system that communicates with the visually impaired and provides real-time feedback during travel.
 
-🔗 [The Brighter Side of News](http://thebrighterside.news/post/talking-robot-guide-dog-uses-ai-to-describe-the-world-as-it-leads) • 10h ago
+🔗 [The Brighter Side of News](http://thebrighterside.news/post/talking-robot-guide-dog-uses-ai-to-describe-the-world-as-it-leads) • 11h ago
 
 ---
 
@@ -88,7 +96,7 @@ Scientists at Binghamton University have developed a robot guide dog system that
 
 ReductStore v1.19 introduces Apache 2.0 open-source licensing, a ROS-inspired hierarchical data model with attachments for schemas and metadata, a native Zenoh API for edge communication, and ReductBridge for seamless integration with ROS1 and ROS2.
 
-🔗 [reduct.store](https://www.reduct.store/blog/news/reductstore-v1_19_0-released) • 3h ago
+🔗 [reduct.store](https://www.reduct.store/blog/news/reductstore-v1_19_0-released) • 4h ago
 
 ---
 
@@ -96,15 +104,7 @@ ReductStore v1.19 introduces Apache 2.0 open-source licensing, a ROS-inspired hi
 
 Hi! Where to find people interested in buying electronic parts? (Motor control / voltage regulator and so) I am based in Europe and would be happy to sell those at a low price for someone who will really use it and not store it in a drawer for years. Have a good day
 
-3h ago
-
----
-
-**[I trained AI to fly a drone swarm from scratch — no hand-coded paths, no human pilots](https://www.reddit.com/r/robotics/comments/1sggkrn/i_trained_ai_to_fly_a_drone_swarm_from_scratch_no/)**
-
-What you're watching: 8 virtual Crazyflie quadrotors that learned to take off, hold formations, recover from failures, and navigate obstacles entirely through trial and error in simulation. No scripted choreography. The swarm figures it out. Full open-source repo if you want to run it yourself: https://github.com/garykuepper/ggSwarm Rendered in NVIDIA Isaac Lab. Trained with reinforcement learning (PPO). Each drone runs the same AI brain and makes its own decisions — no central controller telling them what to do.
-
-1d ago
+4h ago
 
 ---
 
@@ -130,7 +130,7 @@ IFR International Federation of Robotics • 2d ago
 
 Meet 'Digit', a humanoid robotic worker made by Agility Robotics, now part of a new wave of robots replacing workers at companies like Schaeffler, Toyota, and GXO. NBC News' Brian Cheung takes a look.
 
-NBC News • 12h ago
+NBC News • 14h ago
 
 ---
 
@@ -138,7 +138,7 @@ NBC News • 12h ago
 
 A Chinese factory is producing humanoid robots every 30 minutes, marking a shift toward large-scale manufacturing and broader adoption.
 
-Fox News • 16h ago
+Fox News • 17h ago
 
 ---
 
@@ -146,7 +146,7 @@ Fox News • 16h ago
 
 IHMC unveils Alex, a disaster-ready humanoid robot built for high-risk environments, as China accelerates its dominance in global robotics.
 
-eWeek • 18h ago
+eWeek • 20h ago
 
 ---
 
@@ -154,7 +154,15 @@ eWeek • 18h ago
 
 This new tech from Australia is coming to America’s senior care facilities.
 
-The Washington Post • 5h ago
+The Washington Post • 7h ago
+
+---
+
+**[Building the Future of Texas Robotics](https://news.utexas.edu/2026/04/09/building-the-future-of-texas-robotics/)**
+
+Deepu Talla helps bring the future of robotics closer to reality through the Nvidia-Talla Endowment for Texas Robotics.
+
+The University of Texas at Austin • 20h ago
 
 ---
 
@@ -166,25 +174,17 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Governor's School robotics team makes history, heads to district](https://www.newsleader.com/story/news/education/2026/04/10/governors-school-first-robotics-team-district-championship-petersburg-fishersville/89538052007/)**
+**['Remarkable': Vista School students win robotics competition state championship](https://www.stgeorgeutah.com/news/remarkable-vista-school-students-win-robotics-competition-state-championship/article_20c5d076-c97f-4c23-b137-8d40bf4aed03.html)**
 
-A robotics team from the Shenandoah Valley Governor's School is headed to Petersburg for a chance to win a district championship.
+These Southern Utah students now have a big reason to brag after a celebrated performance at a state-level robotics competition.
 
-The News Leader | Staunton, VA • 40m ago
-
----
-
-**[Building the Future of Texas Robotics](https://news.utexas.edu/2026/04/09/building-the-future-of-texas-robotics/)**
-
-Deepu Talla helps bring the future of robotics closer to reality through the Nvidia-Talla Endowment for Texas Robotics.
-
-The University of Texas at Austin • 18h ago
+St. George News • 17h ago
 
 ---
 
 **[Electrofluidic fiber muscles could enable silent robotic systems](https://techxplore.com/news/2026-04-electrofluidic-fiber-muscles-enable-silent.html)**
 
-Tech Xplore • 14h ago
+Tech Xplore • 16h ago
 
 ---
 
@@ -198,7 +198,7 @@ Could AI become dangerous? Can we trust AI Agents? AGI. Use code insideai at htt
 
 📺 InsideAI
 
-👁️ 197K • 👍 10K • 💬 757 • ⏱️ 16:24 • 16h ago
+👁️ 197K • 👍 10K • 💬 757 • ⏱️ 16:24 • 17h ago
 
 ---
 
@@ -228,7 +228,7 @@ South Korea is building robots you've only seen in movies, from giant walking ma
 
 📺 DeCode
 
-👁️ 29K • 👍 545 • 💬 34 • ⏱️ 14:45 • 19h ago
+👁️ 29K • 👍 545 • 💬 34 • ⏱️ 14:45 • 20h ago
 
 ---
 
