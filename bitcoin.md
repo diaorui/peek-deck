@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-10T10:34:23.293183+00:00'
+updated: '2026-04-10T11:50:51.454455+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
-- news
 - social
+- news
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 10, 2026 at 10:34 UTC  
+**Last Updated:** April 10, 2026 at 11:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.7%  
-**7d:** +6.6%  
-**30d:** +1.8%  
-**90d:** -21.2%  
-**1y:** -14.1%  
+**24h:** +1.3%  
+**7d:** +7.3%  
+**30d:** +2.5%  
+**90d:** -20.6%  
+**1y:** -13.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1434.56B
+**Market Cap:** $1444.19B
 Rank #1
 
-**Circulating Supply:** 20,013,862 BTC
+**Circulating Supply:** 20,013,896 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--43.2%
+-42.7%
 
 **All-Time Low:** $67.81
-+105601.2%
++106368.1%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Is it actually going to go up?
 
-6h ago
+7h ago
 
 ---
 
@@ -89,13 +89,13 @@ Is it actually going to go up?
 
 ADX hit 60.1 on the 4H. That's an absurdly strong trend reading. EMA ribbon flipped bullish. MACD is at +563. By every technical measure this is a confirmed uptrend. Meanwhile Fear & Greed is at 16. Extreme Fear. Retail is actually net short at 0.86 while smart money flipped long at 1.06. Let that sink in — smart money is long, retail is short, technicals are screaming bullish, and sentiment is at the floor. Ohhh and CPI drops in a few hours. If it comes in cool, this thing flies. If it comes in hot, we retest $69K and everyone says "told you so." Best asymmetric setup in weeks and almost nobody is talking about it.
 
-5h ago
+6h ago
 
 ---
 
 **[Hey, let me ask you something. . .](https://www.reddit.com/r/Bitcoin/comments/1sh4e7n/hey_let_me_ask_you_something/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -103,7 +103,7 @@ ADX hit 60.1 on the 4H. That's an absurdly strong trend reading. EMA ribbon flip
 
 Man these bitcoin critics are embarrassing. they just make me want to buy more
 
-🔗 [youtu.be](https://youtu.be/wJJYtiz0nqw) • 12h ago
+🔗 [youtu.be](https://youtu.be/wJJYtiz0nqw) • 13h ago
 
 ---
 
@@ -111,7 +111,7 @@ Man these bitcoin critics are embarrassing. they just make me want to buy more
 
 I'm waiting to see if $58k-$60k happens. If it does, I will be down for the 1st time im many years. So, Im stacking powder.
 
-10h ago
+11h ago
 
 ---
 
@@ -119,7 +119,7 @@ I'm waiting to see if $58k-$60k happens. If it does, I will be down for the 1st 
 
 This is common in almost every technology growth cycle. First there is the initial hype, then there is a period of innovation where the technology matures, then there is a secondary period of high growth and hype that reflects its built-out maturity, enhanced user experience, and mainstream integration. These three stages look like this with bitcoin. 2009 - 2017: Initial hype (parabolic price action) 2018 - 2026: Innovation (price stagnation) 2027 - 2035: Maturity (parabolic price action) After these three stages we will reach mass adoption, which would in theory equal a 26 year adoption cycle from whitepaper to mass adoption. The last 8 or so years in bitcoin have felt boring, but thats just because the price action has been going nowhere. for example we are currently at the same prices seen in 2021 and only 3x the prices seen in 2017. But this is exactly how the innovation stage works. It appears boring however there is a ton of building going on behind the scenes to make bitcoins user experience intuitive while integrating it into mainstream finance and technology apps. It just feels boring because we dont see all the innovation happening behind the scenes. Once all these years of innovation start to present themselves in the mainstream world the second hype/growth stage begins where the price moves into a parabolic stage once again as it reflects the maturity of bitcoin. The best is yet to come not just for price, but also for user adoption.
 
-4h ago
+5h ago
 
 ---
 
@@ -127,13 +127,13 @@ This is common in almost every technology growth cycle. First there is the initi
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-4h ago
+5h ago
 
 ---
 
 **[How it started How it’s Going](https://www.reddit.com/r/Bitcoin/comments/1sh2kx0/how_it_started_how_its_going/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -141,15 +141,15 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 just put $200 into btc was that a good idea orrr
 
-6h ago
+7h ago
 
 ---
 
-**[Do you guys set limit orders or market?](https://www.reddit.com/r/Bitcoin/comments/1shcfix/do_you_guys_set_limit_orders_or_market/)**
+**[Robots Will Beat Humans At Being Human](https://www.reddit.com/r/Bitcoin/comments/1shjl9y/robots_will_beat_humans_at_being_human/)**
 
-I noticed the spread is really wide on Bitcoin, so do you prefer to set limit orders or market buy?
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-6h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=YYaDTJeCxRg) • 34m ago
 
 ---
 
@@ -165,51 +165,61 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[US CPI Data Release Today: Inflation Expected to Spike, What It Means for Bitcoin Price](https://www.tradingview.com/news/coinpedia:eafc8d02f094b:0-us-cpi-data-release-today-inflation-expected-to-spike-what-it-means-for-bitcoin-price/)**
+**[Nakamoto seeks reverse stock split as shares fall 99% from peak](https://www.coindesk.com/markets/2026/04/10/david-bailey-s-nakamoto-is-trying-to-stay-on-nasdaq-and-it-s-turning-to-a-reverse-stock-split)**
 
-The US Consumer Price Index (CPI) data is set to be released today at 8:30 AM ET, with forecasts indicating a sharp rise in inflation driven by higher energy prices. A hotter-than-expected CPI could strengthen the stagflation narrative and push Bitcoin toward lower support levels around $68,000–$69…
+The stock has plunged roughly 99% from its May 2025 peak as pressure builds on the bitcoin treasury firm.
 
-TradingView • 1h ago
-
----
-
-**[Bitcoin Price Builds Its First Breakout Setup of April, but One Metric Dropped Over 50%](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-builds-first-breakout-082721681.html)**
-
-Bitcoin price has an $81,000 breakout setup on the daily chart but open interest and spot flows are fading. Here is what the data reveals.
-
-Yahoo Finance • 2h ago
+CoinDesk • 2h ago
 
 ---
 
-**[Bitcoin miners are losing money minting coins. It’s the same problem that killed the penny.](https://www.marketwatch.com/story/bitcoin-miners-are-losing-money-minting-coins-its-the-same-problem-that-killed-the-penny-f907db5c)**
+**[StarkWare researcher proposes 'quantum-safe' Bitcoin transactions without a soft fork](https://www.theblock.co/post/396987/starkware-quantum-safe-bitcoin)**
 
-MarketWatch • 14h ago
+It may face limited adoption due to higher costs and a complex user experience, with the proposal described as a “last-resort measure.”
 
----
-
-**[Bitcoin pares gains, holds above $71k as Iran ceasefire boosts risk appetite](https://www.investing.com/news/cryptocurrency-news/bitcoin-rallies-to-nearly-72k-as-usiran-ceasefire-boosts-risk-4601995)**
-
-Investing.com • 1d ago
+The Block • 1h ago
 
 ---
 
-**[Bitcoin under $71,000, ETH, SOL, XRP drop as Iran ceasefire frays within 48 hours of being signed](https://www.coindesk.com/markets/2026/04/09/bitcoin-under-usd71-000-eth-sol-xrp-drop-as-iran-ceasefire-frays-within-48-hours-of-being-signed)**
+**[StarkWare's Quantum-Safe Bitcoin Scheme Requires No Protocol Changes, Just $150 in GPU Compute](https://unchainedcrypto.com/starkwares-quantum-safe-bitcoin-scheme-requires-no-protocol-changes-just-150-in-gpu-compute-unchained/)**
 
-Tehran says three clauses of the ceasefire have been breached, oil is rebounding toward $97, and the Strait of Hormuz remains effectively closed despite the deal.
+StarkWare CPO Avihu Levy has published a scheme that makes Bitcoin transactions resistant to quantum attack today, using only existing network rules — but each transaction costs up to $150 in GPU compute.
 
-CoinDesk • 1d ago
-
----
-
-**[Bitcoin Price Falls. Why Faltering Iran Cease-Fire Could Crush Cryptos.](https://www.barrons.com/articles/bitcoin-price-crypto-xrp-etherum-today-iran-df3ec33f)**
-
-Barron's • 23h ago
+unchainedcrypto.com • 11m ago
 
 ---
 
 **[Buy Bitcoin at Night](https://www.bloomberg.com/opinion/newsletters/2026-04-09/buy-bitcoin-at-night)**
 
-Bloomberg.com • 16h ago
+Bloomberg • 17h ago
+
+---
+
+**[Bitcoin miners are losing money minting coins. It’s the same problem that killed the penny.](https://www.marketwatch.com/story/bitcoin-miners-are-losing-money-minting-coins-its-the-same-problem-that-killed-the-penny-f907db5c)**
+
+MarketWatch • 16h ago
+
+---
+
+**[ETH, SOL, DOGE slide as Bitcoin fails to break $73,000 for the third time since the ceasefire](https://www.coindesk.com/markets/2026/04/10/eth-sol-doge-slide-as-bitcoin-fails-to-break-usd73-000-for-the-third-time-since-the-ceasefire)**
+
+The level that has capped every rally during the six-week war remains intact, with analysts saying $75,000 needs to break before the market enters a genuine bullish phase.
+
+CoinDesk • 6h ago
+
+---
+
+**[Bitcoin Climbs to Three-Week High on US-Iran Ceasefire Plan](https://finance.yahoo.com/news/bitcoin-jumps-three-week-high-061852543.html)**
+
+(Bloomberg) -- Bitcoin touched a three-week high as global markets turned more optimistic after a ceasefire deal between the US and Iran.The largest cryptocurrency climbed as much as 5% to $72,841, its highest level since March 18, in New York trading. Smaller tokens also notched big gains, with Ether rising as much as 7.4% to $2,273.Stocks surged and the price of the US benchmark West Texas Intermediate crude oil fell below $95, nearing its biggest price drop in six years, after US President Do
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin Price Falls. Why Faltering Iran Cease-Fire Could Crush Cryptos.](https://www.barrons.com/articles/bitcoin-price-crypto-xrp-etherum-today-iran-df3ec33f)**
+
+Barron's • 1d ago
 
 ---
 
@@ -219,21 +229,13 @@ Forbes • 1d ago
 
 ---
 
-**[Bitcoin, solana surge as Iran looks to charge tolls for Strait of Hormuz passage to be paid in crypto](https://finance.yahoo.com/news/bitcoin-solana-surge-as-iran-looks-to-charge-tolls-for-strait-of-hormuz-passage-to-be-paid-in-crypto-142009952.html)**
-
-Iran is looking to charge shipowners a fee of $1 per barrel of oil onboard for safe passage across the Strait of Hormuz, to be paid in cryptocurrency, according to the Financial Times.
-
-Yahoo Finance • 1d ago
-
----
-
 ---
 
 ## HackerNews: "bitcoin"
 
 **[Who is Satoshi Nakamoto? My quest to unmask Bitcoin's creator](https://news.ycombinator.com/item?id=47685320)**
 
-⬆️ 603 • 💬 796 • 2d ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)
+⬆️ 605 • 💬 796 • 2d ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)
 
 ---
 
@@ -241,7 +243,7 @@ Yahoo Finance • 1d ago
 
 Country’s oil exporters’ union says toll to be paid in cryptocurrency and vessels monitored for weapons
 
-⬆️ 171 • 💬 271 • 1d ago • [ft.com](https://www.ft.com/content/02aefac4-ea62-48db-9326-c0da373b11b8)
+⬆️ 172 • 💬 272 • 1d ago • [ft.com](https://www.ft.com/content/02aefac4-ea62-48db-9326-c0da373b11b8)
 
 ---
 
@@ -315,7 +317,27 @@ A sanctioned nation is building a sovereign Bitcoin treasury through a toll boot
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 2K • 💬 275 • ⏱️ 23:12 • 11h ago
+👁️ 23K • 👍 2K • 💬 286 • ⏱️ 23:12 • 12h ago
+
+---
+
+**[The Crypto Situation Is Worse Than You Think](https://www.youtube.com/watch?v=kN5codbLCCY)**
+
+BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 ✓ Bitunix (no kyc, $10k bonus): ...
+
+📺 Altcoin Daily
+
+👁️ 28K • 👍 2K • 💬 268 • ⏱️ 12:20 • 12h ago
+
+---
+
+**[Bitcoin Billionaire Reveals His Current Investing Strategy](https://www.youtube.com/watch?v=CELblcz2AYk)**
+
+Arthur Hayes is the CIO of Maelstrom and co-founder of BitMEX. In this conversation, we break down what's really happening in ...
+
+📺 Anthony Pompliano
+
+👁️ 21K • 👍 1K • 💬 6 • ⏱️ 49:53 • 14h ago
 
 ---
 
@@ -335,17 +357,7 @@ Is Adam Back the real Satoshi Nakamoto? He addresses the enduring mystery of Bit
 
 📺 Yahoo Finance
 
-👁️ 9K • 👍 170 • 💬 192 • ⏱️ 8:56 • 18h ago
-
----
-
-**[MASSIVE Bitcoin News!! Satoshi Nakamoto FINALLY Revealed??](https://www.youtube.com/watch?v=wF_iDf9f6fE)**
-
-MASSIVE Bitcoin News!! Satoshi Revealed!? What Comes Next? (Watch the whole video) ⭐ Follow Altcoin Daily on X: ...
-
-📺 Altcoin Daily
-
-👁️ 53K • 👍 2K • 💬 198 • ⏱️ 12:14 • 1d ago
+👁️ 10K • 👍 184 • 💬 218 • ⏱️ 8:56 • 20h ago
 
 ---
 
@@ -355,27 +367,17 @@ Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FR
 
 📺 CryptosRUs
 
-👁️ 18K • 👍 944 • 💬 355 • ⏱️ 50:22 • 19h ago
+👁️ 19K • 👍 949 • 💬 357 • ⏱️ 50:22 • 21h ago
 
 ---
 
-**[The Crypto Situation Is Worse Than You Think](https://www.youtube.com/watch?v=kN5codbLCCY)**
+**[MASSIVE Bitcoin News!! Satoshi Nakamoto FINALLY Revealed??](https://www.youtube.com/watch?v=wF_iDf9f6fE)**
 
-BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 ✓ Bitunix (no kyc, $10k bonus): ...
+MASSIVE Bitcoin News!! Satoshi Revealed!? What Comes Next? (Watch the whole video) ⭐ Follow Altcoin Daily on X: ...
 
 📺 Altcoin Daily
 
-👁️ 24K • 👍 1K • 💬 262 • ⏱️ 12:20 • 11h ago
-
----
-
-**[&quot;What Are The Odds Bitcoin Goes Lower?&quot; (Chart Shown: BTC/USD)](https://www.youtube.com/watch?v=dvcmXYCs2Gc)**
-
-Into The Cryptoverse Premium: https://intothecryptoverse.com For inquiries and to subscribe to the monthy newsletter (free): ...
-
-📺 Benjamin Cowen
-
-👁️ 18K • 👍 341 • 💬 9 • ⏱️ 0:47 • 14h ago
+👁️ 53K • 👍 2K • 💬 200 • ⏱️ 12:14 • 1d ago
 
 ---
 
@@ -383,7 +385,7 @@ Into The Cryptoverse Premium: https://intothecryptoverse.com For inquiries and t
 
 📺 CryptoWendyO
 
-👁️ 3K • 👍 290 • 💬 5 • ⏱️ 2:11 • 9h ago
+👁️ 4K • 👍 336 • 💬 22 • ⏱️ 2:11 • 10h ago
 
 ---
 
@@ -393,7 +395,7 @@ Bitcoin #Crypto #Finance Is the Bitcoin bottom finally in? Tom Lee thinks so, ca
 
 📺 The Wolf Of All Streets
 
-👁️ 19K • 👍 888 • 💬 256 • ⏱️ 39:05 • 20h ago
+👁️ 20K • 👍 902 • 💬 296 • ⏱️ 39:05 • 21h ago
 
 ---
 
@@ -403,7 +405,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 WEE
 
 📺 Altcoin Daily
 
-👁️ 46K • 👍 2K • 💬 458 • ⏱️ 9:28 • 2d ago
+👁️ 46K • 👍 2K • 💬 457 • ⏱️ 9:28 • 2d ago
 
 ---
 
