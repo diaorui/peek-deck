@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-10T21:38:59.799737+00:00'
+updated: '2026-04-10T22:38:57.421535+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
-- social
 - news
+- social
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 10, 2026 at 21:38 UTC  
+**Last Updated:** April 10, 2026 at 22:38 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Japan plans to reclassify cryptocurrencies as financial products under the Financial Instruments and Exchange Act, shifting them from a payment-based framework to one aligned with traditional securities regulation.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/japan-moves-to-classify-bitcoin-and-crypto) • 4h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/japan-moves-to-classify-bitcoin-and-crypto) • 5h ago
 
 ---
 
@@ -89,7 +89,7 @@ Japan plans to reclassify cryptocurrencies as financial products under the Finan
 
 I made around 100% in 3 weeks and was happy with that 🫡🫣
 
-3h ago
+4h ago
 
 ---
 
@@ -97,7 +97,7 @@ I made around 100% in 3 weeks and was happy with that 🫡🫣
 
 It looks like the block explorer has been hacked on Blockchain.com. When you search for a wallet address it shows you bunch of specific addresses only. For example for Satoshi address: https://www.blockchain.com/en/explorer/addresses/btc/1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa, it shows me the following ones only: 1PyJph17b4nAKqp4UvbxUZXpoesDzvZkVL 1PAZba3CAFRYm7gNBhrzH8Dz1FkYDCwJPs 1PyJph17b4nAKqp4UvbxUZXpoesDzvZkVL 1PbwAPq7aUepWrrToVh1snhv8mqy9wrGnk bc1qdmaslupuaetajnfzex8zw6jc93ww32ur6gj3we Be aware guys. Also it will be great to report it to Blockchain, but their support system a bit hard to use. Hope they are reading r/Bitcoin sometimes.
 
-4h ago
+5h ago
 
 ---
 
@@ -105,7 +105,7 @@ It looks like the block explorer has been hacked on Blockchain.com. When you sea
 
 Is it actually going to go up?
 
-17h ago
+18h ago
 
 ---
 
@@ -113,7 +113,7 @@ Is it actually going to go up?
 
 A three-part deep dive into quantum computing's actual threat to Bitcoin. 17 researchers, 13 proposals, real engineering. No hype. No FUD.
 
-🔗 [Bitcoin & Quantum Computing](https://bitcoinquantum.space/) • 4h ago
+🔗 [Bitcoin & Quantum Computing](https://bitcoinquantum.space/) • 5h ago
 
 ---
 
@@ -121,7 +121,7 @@ A three-part deep dive into quantum computing's actual threat to Bitcoin. 17 res
 
 An economist named Steve Keen says Bitcoin will go to zero because it uses too much energy. It only took me ten minutes to break down why his "critique" makes no sense
 
-🔗 [youtu.be](https://youtu.be/t7Ca56-XxPM) • 1h ago
+🔗 [youtu.be](https://youtu.be/t7Ca56-XxPM) • 2h ago
 
 ---
 
@@ -129,13 +129,13 @@ An economist named Steve Keen says Bitcoin will go to zero because it uses too m
 
 ADX hit 60.1 on the 4H. That's an absurdly strong trend reading. EMA ribbon flipped bullish. MACD is at +563. By every technical measure this is a confirmed uptrend. Meanwhile Fear & Greed is at 16. Extreme Fear. Retail is actually net short at 0.86 while smart money flipped long at 1.06. Let that sink in — smart money is long, retail is short, technicals are screaming bullish, and sentiment is at the floor. Ohhh and CPI drops in a few hours. If it comes in cool, this thing flies. If it comes in hot, we retest $69K and everyone says "told you so." Best asymmetric setup in weeks and almost nobody is talking about it.
 
-16h ago
+17h ago
 
 ---
 
 **[Hey, let me ask you something. . .](https://www.reddit.com/r/Bitcoin/comments/1sh4e7n/hey_let_me_ask_you_something/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -143,7 +143,7 @@ ADX hit 60.1 on the 4H. That's an absurdly strong trend reading. EMA ribbon flip
 
 If you’ve been hodling on Fiat thinking if it’s time, it’s about time for a good swing. Buy in!!
 
-9h ago
+10h ago
 
 ---
 
@@ -151,7 +151,7 @@ If you’ve been hodling on Fiat thinking if it’s time, it’s about time for 
 
 The new feature on the Bitcoin wallet Exodus lets users spend crypto directly from a self-custodial wallet.
 
-🔗 [Decrypt](https://decrypt.co/363947/exodus-pay-bitcoin-wallet-spending-app) • 2h ago
+🔗 [Decrypt](https://decrypt.co/363947/exodus-pay-bitcoin-wallet-spending-app) • 3h ago
 
 ---
 
@@ -167,55 +167,31 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin tracks for 9% gain on the week, best since October](https://www.cnbc.com/video/2026/04/10/bitcoin-tracks-for-9-percent-gain-in-best-week-since-october.html)**
-
-CNBC's Tanaya Macheel reports on news regarding bitcoin.
-
-CNBC • 1h ago
-
----
-
-**[Morgan Stanley’s Bitcoin exchange-traded product starts trading.](https://www.investmentnews.com/alternatives/morgan-stanleys-bitcoin-exchange-traded-product-starts-trading/266100)**
-
-MSBT opened for trading on Wednesday at $20.74 per share.
-
-InvestmentNews • 3h ago
-
----
-
-**[Bitcoin traders set $88K target as market bias finally tilts toward bulls](https://www.tradingview.com/news/cointelegraph:c14650afc094b:0-bitcoin-traders-set-88k-target-as-market-bias-finally-tilts-toward-bulls/)**
-
-Mirroring a breakout setup from Q2 2025, Bitcoin (BTC) is now eyeing a possible rally toward the $86,000–$90,000 range over the next few weeks.The bullish view is supported by robust Bitcoin whale activity and large BTC inflows to exchanges, which have dropped by $5 billion over the past two months…
-
-TradingView • 4h ago
-
----
-
-**[Bitcoin miners are losing money minting coins. It’s the same problem that killed the penny.](https://www.marketwatch.com/story/bitcoin-miners-are-losing-money-minting-coins-its-the-same-problem-that-killed-the-penny-f907db5c)**
-
-MarketWatch • 1d ago
-
----
-
-**[Bhutan moves another $18 million in bitcoin as tracked holdings continue to shrink: Arkham](https://www.theblock.co/post/397032/bhutan-moves-another-18-million-in-bitcoin-as-tracked-holdings-continue-to-shrink-arkham)**
-
-Bhutan moved more bitcoin to a new wallet, continuing an outflow streak that has cut its holdings to 3,774 BTC from a peak of 13,000 BTC.
-
-The Block • 8h ago
-
----
-
-**[Wall Street Still Loves Bitcoin Even if Fever Is Cooling](https://www.bloomberg.com/news/newsletters/2026-04-09/wall-street-still-loves-bitcoin-even-if-fever-is-cooling)**
+**[Buy Bitcoin at Night](https://www.bloomberg.com/opinion/newsletters/2026-04-09/buy-bitcoin-at-night)**
 
 Bloomberg.com • 1d ago
 
 ---
 
-**[Current price of Bitcoin for April 9, 2026](https://fortune.com/article/price-of-bitcoin-04-09-2026/)**
+**[Software stocks are getting pulverized — but bitcoin’s rebound hints that a bottom might be in](https://www.marketwatch.com/story/software-stocks-are-getting-pulverized-but-bitcoins-rebound-hints-that-a-bottom-might-be-in-512baac7)**
 
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+MarketWatch • 1h ago
 
-Fortune • 1d ago
+---
+
+**[Bitcoin tracks for 9% gain on the week, best since October](https://www.cnbc.com/video/2026/04/10/bitcoin-tracks-for-9-percent-gain-in-best-week-since-october.html)**
+
+CNBC's Tanaya Macheel reports on news regarding bitcoin.
+
+CNBC • 2h ago
+
+---
+
+**[US government moves bitcoin possibly linked to steroid distribution conspiracy](https://www.theblock.co/post/397104/us-government-bitcoin-possibly-linked-steroid-distribution-conspiracy?utm_source=news.xml&utm_medium=rss)**
+
+The U.S. government currently holds roughly 328,000 bitcoins, worth more than $22 billion at current prices, among other crypto assets.
+
+The Block • 1h ago
 
 ---
 
@@ -230,6 +206,30 @@ Forbes • 2d ago
 Iran is looking to charge shipowners a fee of $1 per barrel of oil onboard for safe passage across the Strait of Hormuz, to be paid in cryptocurrency, according to the Financial Times.
 
 Yahoo Finance • 2d ago
+
+---
+
+**[Iran demands crypto fees for ships passing Hormuz during ceasefire](https://www.ft.com/content/02aefac4-ea62-48db-9326-c0da373b11b8)**
+
+Country’s oil exporters’ union says toll to be paid in cryptocurrency and vessels monitored for weapons
+
+Financial Times • 2d ago
+
+---
+
+**[Current price of Bitcoin for April 9, 2026](https://fortune.com/article/price-of-bitcoin-04-09-2026/)**
+
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+
+Fortune • 1d ago
+
+---
+
+**[Strategy's (MSTR) Bitcoin Ambition Is Reshaping Corporate Finance. Everyone Else Is Falling Behind](https://bitcoinmagazine.com/news/strategys-bitcoin-ambition-is-reshaping)**
+
+Michael Saylor’s Strategy is driving nearly all corporate Bitcoin accumulation, turning its STRC-fueled treasury model into the dominant force reshaping how companies approach Bitcoin in 2026.
+
+Bitcoin Magazine • 1d ago
 
 ---
 
@@ -275,7 +275,7 @@ The British computer scientist and entrepreneur has denied being the man who the
 
 **[Bitcoin.com Deplatformed by YouTube](https://news.ycombinator.com/item?id=47697080)**
 
-⬆️ 4 • 💬 0 • 1d ago • [X (formerly Twitter)](https://twitter.com/i/status/2041756576600748142)
+⬆️ 4 • 💬 0 • 2d ago • [X (formerly Twitter)](https://twitter.com/i/status/2041756576600748142)
 
 ---
 
@@ -283,7 +283,7 @@ The British computer scientist and entrepreneur has denied being the man who the
 
 New York Times report claims London-born Adam Back is creator of the cryptocurrency after comparing writings
 
-⬆️ 3 • 💬 1 • 1d ago • [the Guardian](https://www.theguardian.com/technology/2026/apr/08/british-computer-scientist-adam-back-denies-he-is-bitcoin-developer-satoshi-nakamoto)
+⬆️ 3 • 💬 1 • 2d ago • [the Guardian](https://www.theguardian.com/technology/2026/apr/08/british-computer-scientist-adam-back-denies-he-is-bitcoin-developer-satoshi-nakamoto)
 
 ---
 
@@ -306,7 +306,7 @@ For years, bitcoin creator Satoshi Nakamoto has avoided discovery. Now, a 10,000
 This post is a direct follow-up to my recent articles about the new home server with openSUSE MicroOS and the Minisforum MS-S1 Max. Those covered the foundation. Here I want to show one concrete use for it: putting together a decent Bitcoin stack at home, focused on privacy, operational sovereignty and safe transactions on my side.
 First things first: this isn’t an evangelism piece or a day-trading pitch. Quite the opposite. As I write this, on April 1, 2026, Bitcoin is around US$ 68k and close to R$ 391k, below the 2025 peaks. Plenty of people look at that and either panic or start fantasizing about leveraged trades. I think both reactions are wrong. There’s a “super cycle” thesis floating around based on institutional demand, spot ETFs and the lagged halving effect. Maybe. Maybe not. What I do know is that short-term candles don’t change the part I actually care about: infrastructure. If you need leverage to “speed up your gains,” you’re probably just speeding up your chances of getting liquidated.
 
-⬆️ 1 • 💬 2 • 2d ago • [akitaonrails.com](https://akitaonrails.com/en/2026/04/01/bitcoin-on-the-home-server-sovereignty-with-coldcard-sparrow-fulcrum/)
+⬆️ 1 • 💬 2 • 3d ago • [akitaonrails.com](https://akitaonrails.com/en/2026/04/01/bitcoin-on-the-home-server-sovereignty-with-coldcard-sparrow-fulcrum/)
 
 ---
 
@@ -330,7 +330,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 ✓
 
 📺 Altcoin Daily
 
-👁️ 36K • 👍 2K • 💬 361 • ⏱️ 12:20 • 22h ago
+👁️ 36K • 👍 2K • 💬 361 • ⏱️ 12:20 • 23h ago
 
 ---
 
@@ -340,7 +340,7 @@ A sanctioned nation is building a sovereign Bitcoin treasury through a toll boot
 
 📺 Simply Bitcoin
 
-👁️ 31K • 👍 3K • 💬 340 • ⏱️ 23:12 • 22h ago
+👁️ 31K • 👍 3K • 💬 340 • ⏱️ 23:12 • 23h ago
 
 ---
 
@@ -350,7 +350,7 @@ CNBC's “Squawk Box” team talks about the potential true identity of Bitcoin 
 
 📺 CNBC Television
 
-👁️ 9K • 👍 117 • 💬 113 • ⏱️ 4:51 • 9h ago
+👁️ 9K • 👍 117 • 💬 113 • ⏱️ 4:51 • 10h ago
 
 ---
 
@@ -410,7 +410,7 @@ Checkout the Luckyminer LV08 Pro from Today's Video ➡ https://geni.us/BCMLV08 
 
 📺 The Hobbyist Miner
 
-👁️ 2K • 👍 107 • 💬 85 • ⏱️ 17:09 • 9h ago
+👁️ 2K • 👍 107 • 💬 85 • ⏱️ 17:09 • 10h ago
 
 ---
 

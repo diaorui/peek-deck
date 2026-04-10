@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-10T21:38:59.792053+00:00'
+updated: '2026-04-10T22:38:57.412880+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
-- social
 - news
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 10, 2026 at 21:38 UTC  
+**Last Updated:** April 10, 2026 at 22:38 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 A California man, who has filed multiple lawsuits against major university systems over his son's college rejections, says artificial intelligence has become the key to pursuing the cases after no law firm agreed to represent them.
 
-🔗 [ABC7 Los Angeles](https://abc7.com/story/google-engineer-rejected-16-colleges-uses-ai-sue-universities-racial-discrimination/18861654/) • 7h ago
+🔗 [ABC7 Los Angeles](https://abc7.com/story/google-engineer-rejected-16-colleges-uses-ai-sue-universities-racial-discrimination/18861654/) • 8h ago
+
+---
+
+**[How has Claude far surpassed the competitors? They were not first to market or ever had the most cash yet their feature are far and away the best on the market.](https://www.reddit.com/r/artificial/comments/1shypcx/how_has_claude_far_surpassed_the_competitors_they/)**
+
+How has Claude far surpassed the competitors? They were not first to market or ever had the most cash yet their feature are far and away the best on the market.
+
+1h ago
 
 ---
 
@@ -49,7 +57,7 @@ A California man, who has filed multiple lawsuits against major university syste
 
 i want to be very clear upfront, i'm not talking about people who are genuinely trying. i'm not talking about the person in their bedroom at midnight editing their 30th video because they actually love what they make. i'm talking about the other kind. the ones who downloaded CapCut on a Tuesday, pointed their phone at their face on Wednesday, and by Friday were telling people at family dinners that they're a "content creator." the internet used to be where you went to find something you couldn't find anywhere else. now it's where everyone goes to show you something you've already seen just slightly worse. and i think i finally understand why this is happening. somewhere along the way, the word "content creator" got completely detached from the word "content." the creator part became the goal. the actual content became an afterthought. a necessary inconvenience between you and the fame you've already decided you deserve. people don't ask themselves "what do i have to give?" anymore. they ask "what do i have to post?" and those two questions produce very, very different things.
 
-2h ago
+3h ago
 
 ---
 
@@ -57,7 +65,7 @@ i want to be very clear upfront, i'm not talking about people who are genuinely 
 
 I have two at the top of my mind: When it can read musical notes. I will be mildly impressed when I can paste in a picture of musical notes and with programming sets up instruments needed to play music, and then correctly plays the song it reads from the notes. My jaw will drop when finally with a simple prompt an AI can create a classic arcade style fully functioning and fun to play Pinball game. Each new version of models that become available I give that one a go. None have been even remotely close to achieving this goal. So what are your visions for what will impress you to some extent when an AI can make it for you?
 
-12h ago
+13h ago
 
 ---
 
@@ -65,45 +73,7 @@ I have two at the top of my mind: When it can read musical notes. I will be mild
 
 Financial industry leaders met to discuss potential cyber risks posed by Anthropic's latest AI model, which has found weaknesses in every major computer operating system.
 
-🔗 [cbsnews.com](https://www.cbsnews.com/news/mythos-anthropic-ai-cybersecurity-risks-powell-bessent/) • 1h ago
-
----
-
-**[Anyone compared Gemma 4 31B](https://www.reddit.com/r/artificial/comments/1shcmqj/anyone_compared_gemma_4_31b/)**
-
-I have been seeing a lot of people claiming how good Gemma 4 31B model is. I know when compared to the size of models like sonnet which is guessed to be a 1.5T model, the size of Gemma 31b is very small. but people keep claiming Gemma is soo good for coding and day to day tasks.
-
-16h ago
-
----
-
-**[Elon Musk Asks for OpenAI’s Nonprofit to Get Any Damages From His Lawsuit](https://www.reddit.com/r/artificial/comments/1shwfk3/elon_musk_asks_for_openais_nonprofit_to_get_any/)**
-
-🔗 [wsj.com](https://www.wsj.com/tech/ai/elon-musk-asks-for-openais-nonprofit-to-get-any-damages-from-his-lawsuit-76089f6f) • 2h ago
-
----
-
-**[Can AI really replace human survey respondents, or is it just simulating patterns?](https://www.reddit.com/r/artificial/comments/1shk7w6/can_ai_really_replace_human_survey_respondents_or/)**
-
-How well can AI-derived synthetic research data replicate the responses of human participants? An emerging literature has begun to engage with this question, which carries deep implications for organizational research practice. This article presents a comparison between a human-respondent survey of 420 Silicon Valley coders and developers and synthetic survey data designed to simulate real survey takers generated by five leading Generative AI Large Language Models: ChatGPT Thinking 5 Pro, Claude Sonnet 4.5 Pro plus Claude CoWork 1.123, Gemini Advanced 2.5 Pro, Incredible 1.0, and DeepSeek 3.2. Our findings reveal that while AI agents produced technically plausible results that lean more towards replicability and harmonization than assumed, none were able to capture the counterintuitive insights that made the human survey valuable. Moreover, deviations grouped together for all models, leaving the real data as the outlier. Our key finding is that while leading LLMs are increasingly being used to scale, replicate and replace human survey responses in research, these advances only show an increased capacity to parrot conventional wisdom in harmony with each other rather than revealing novel findings. If synthetic respondents are used in future research, we need more replicable validation protocols and reporting standards for when and where synthetic survey data can be used responsibly, a gap that this paper fills. Our results suggest that synthetic survey responses cannot meaningfully model real human social beliefs within organizations, particularly in contexts lacking previously documented evidence. We conclude that synthetic survey-based research should be cast not as a substitute for rigorous survey methods, but as an increasingly reliable pre- or post-fieldwork instrument for identifying societal assumptions, conventional wisdoms, and other expectations about research populations.
-
-🔗 [arXiv.org](https://arxiv.org/abs/2603.00059) • 9h ago
-
----
-
-**[OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths or Financial Disasters](https://www.reddit.com/r/artificial/comments/1shd7cz/openai_backs_bill_that_would_limit_liability_for/)**
-
-The ChatGPT-maker testified in favor of an Illinois bill that would limit when AI labs can be held liable—even in cases where their products cause “critical harm.”
-
-🔗 [WIRED](https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/) • 16h ago
-
----
-
-**[Ai tools for studies](https://www.reddit.com/r/artificial/comments/1shksli/ai_tools_for_studies/)**
-
-I am considering to buy a paid version (permium) of an Ai tool. I feel like Chatgpt is very general. Can u guys recommad me an ai which is better than chatgpt or gemini for studies . I want to use it for like a guide of A level. Thank you!
-
-9h ago
+🔗 [cbsnews.com](https://www.cbsnews.com/news/mythos-anthropic-ai-cybersecurity-risks-powell-bessent/) • 2h ago
 
 ---
 
@@ -111,7 +81,39 @@ I am considering to buy a paid version (permium) of an Ai tool. I feel like Chat
 
 A few days ago, Andrej Karpathy’s post on "LLM Knowledge Bases" went viral. He proposed a shift from manipulating code to manipulating knowledge-using LLMs to incrementally compile raw data into a structured, interlinked graph of markdown files. I loved the idea and started testing it out. It worked incredibly well, and I decided this was how I wanted to store all my research moving forward. But the friction was killing me. My primary device is my phone, and every time I found a great article or paper, I had to wait until I was at my laptop, copy the link over, and run a mess of scripts just to ingest one thing. I wanted the "Knowledge wiki" in my pocket. 🎒 I’m not a TypeScript developer, but I decided to "vibecode" the entire solution into a native app using Tauri v2 and LangGraph.js. After a lot of back-and-forth debugging and iteration, I’ve released LLM Wiki. How it works with different sources: The app is built to be a universal "knowledge funnel." I’ve integrated specialized extractors for different media: * PDFs: It uses a local worker to parse academic papers and reports directly on-device. * Web Articles: I’ve integrated Mozilla’s Readability engine to strip the "noise" from URLs, giving the LLM clean markdown to analyze. * YouTube: It fetches transcripts directly from the URL. You can literally shared a 40-minute deep-dive video from the YouTube app into LLM Wiki, and it will automatically document the key concepts and entities into your graph while you're still watching. The "Agentic" Core: Under the hood, it’s powered by two main LangGraph agents. The Ingest Agent handles the heavy lifting of planning which pages to create or update to avoid duplication. The Lint Agent is your automated editor—it scans for broken links, "orphan" pages that aren't linked to anything, and factual contradictions between different sources, suggesting fixes for you to approve. Check it out (Open Source): The app is fully open-source and brings-your-own-key (OpenAI, Anthropic, Google, or any custom endpoint). Since I vibecoded this without prior TS experience, there will definitely be some bugs, but it’s been incredibly stable for my own use cases. GitHub (APK and EXE in the Releases): https://github.com/Kellysmoky123/LlmWiki If you find any issues or want to help refine the agents, please open an issue or a PR. I'd love to see where we can take this "compiled knowledge" idea!
 
-5h ago
+6h ago
+
+---
+
+**[Anyone compared Gemma 4 31B](https://www.reddit.com/r/artificial/comments/1shcmqj/anyone_compared_gemma_4_31b/)**
+
+I have been seeing a lot of people claiming how good Gemma 4 31B model is. I know when compared to the size of models like sonnet which is guessed to be a 1.5T model, the size of Gemma 31b is very small. but people keep claiming Gemma is soo good for coding and day to day tasks.
+
+17h ago
+
+---
+
+**[Can AI really replace human survey respondents, or is it just simulating patterns?](https://www.reddit.com/r/artificial/comments/1shk7w6/can_ai_really_replace_human_survey_respondents_or/)**
+
+How well can AI-derived synthetic research data replicate the responses of human participants? An emerging literature has begun to engage with this question, which carries deep implications for organizational research practice. This article presents a comparison between a human-respondent survey of 420 Silicon Valley coders and developers and synthetic survey data designed to simulate real survey takers generated by five leading Generative AI Large Language Models: ChatGPT Thinking 5 Pro, Claude Sonnet 4.5 Pro plus Claude CoWork 1.123, Gemini Advanced 2.5 Pro, Incredible 1.0, and DeepSeek 3.2. Our findings reveal that while AI agents produced technically plausible results that lean more towards replicability and harmonization than assumed, none were able to capture the counterintuitive insights that made the human survey valuable. Moreover, deviations grouped together for all models, leaving the real data as the outlier. Our key finding is that while leading LLMs are increasingly being used to scale, replicate and replace human survey responses in research, these advances only show an increased capacity to parrot conventional wisdom in harmony with each other rather than revealing novel findings. If synthetic respondents are used in future research, we need more replicable validation protocols and reporting standards for when and where synthetic survey data can be used responsibly, a gap that this paper fills. Our results suggest that synthetic survey responses cannot meaningfully model real human social beliefs within organizations, particularly in contexts lacking previously documented evidence. We conclude that synthetic survey-based research should be cast not as a substitute for rigorous survey methods, but as an increasingly reliable pre- or post-fieldwork instrument for identifying societal assumptions, conventional wisdoms, and other expectations about research populations.
+
+🔗 [arXiv.org](https://arxiv.org/abs/2603.00059) • 10h ago
+
+---
+
+**[OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths or Financial Disasters](https://www.reddit.com/r/artificial/comments/1shd7cz/openai_backs_bill_that_would_limit_liability_for/)**
+
+The ChatGPT-maker testified in favor of an Illinois bill that would limit when AI labs can be held liable—even in cases where their products cause “critical harm.”
+
+🔗 [WIRED](https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/) • 17h ago
+
+---
+
+**[Ai tools for studies](https://www.reddit.com/r/artificial/comments/1shksli/ai_tools_for_studies/)**
+
+I am considering to buy a paid version (permium) of an Ai tool. I feel like Chatgpt is very general. Can u guys recommad me an ai which is better than chatgpt or gemini for studies . I want to use it for like a guide of A level. Thank you!
+
+10h ago
 
 ---
 
@@ -123,59 +125,45 @@ A few days ago, Andrej Karpathy’s post on "LLM Knowledge Bases" went viral. He
 
 A new initiative to secure the world’s most critical software and give defenders a durable advantage in the coming AI-driven era of cybersecurity.
 
-Anthropic • 4h ago
+Anthropic • 5h ago
 
 ---
 
-**[Powell, Bessent discussed Anthropic's Mythos AI cyber threat with major U.S. banks](https://www.cnbc.com/2026/04/10/powell-bessent-us-bank-ceos-anthropic-mythos-ai-cyber.html)**
+**[The AI that found 27-year-old vulnerabilities no human ever caught before just forced an emergency meeting with every major Wall Street CEO](https://fortune.com/2026/04/10/bessent-powell-anthropic-mythos-ai-model-cyber-risk/)**
 
-Anthropic rolled out the new Mythos AI model to a select group of companies over concerns that hackers could exploit its capabilities.
+Treasury Secretary Scott Bessent and Fed chair Jerome Powell reportedly convened Wall Street leaders in an emergency meeting addressing Anthropic’s latest model release.
 
-CNBC • 9h ago
-
----
-
-**[Google engineer rejected by 16 colleges uses AI to sue universities for racial discrimination](https://abc7.com/story/google-engineer-rejected-16-colleges-uses-ai-sue-universities-racial-discrimination/18861654/)**
-
-A California man, who has filed multiple lawsuits against major university systems over his son's college rejections, says artificial intelligence has become the key to pursuing the cases after no law firm agreed to represent them.
-
-ABC7 Los Angeles • 1d ago
+Fortune • 5h ago
 
 ---
 
-**[Prediction: This Artificial Intelligence (AI) Stock Will Be Worth Twice as Much by the End of 2026](https://www.fool.com/investing/2026/04/10/predict-artificial-intelligence-ai-stock-nvda/)**
+**[Microsoft exec suggests AI agents will need to buy software licenses, just like employees](https://www.businessinsider.com/microsoft-executive-suggests-ai-agents-buy-software-licenses-seats-2026-4)**
 
-The market hasn't been giving this AI pioneer enough credit for the outstanding growth that it is poised to deliver.
+Are AI agents employees or tools? A Microsoft exec suggested they're new paid "seats," a shift that could reshape SaaS pricing — and spark pushback.
 
-The Motley Fool • 6h ago
-
----
-
-**[5 Genius AI Stock Picks (Hint: Nvidia Is One of Them)](https://www.fool.com/investing/2026/04/10/5-genius-ai-stock-picks-hint-nvidia-is-one-of-them/)**
-
-AI stocks are brilliant buys right now.
-
-The Motley Fool • 1h ago
+Business Insider • 33m ago
 
 ---
 
-**[AMD Gains 4%, Broadcom Climbs 5%: The AI Chip Rally Has Two Very Different Winners Today](https://finance.yahoo.com/markets/stocks/articles/amd-gains-4-broadcom-climbs-174950005.html)**
+**[Apple previews AI, accessibility, and AirPods Pro 3 research for CHI 2026](https://9to5mac.com/2026/04/10/apple-previews-ai-accessibility-and-airpods-pro-3-research-for-chi-2026/)**
 
-The AI chip rally is proving something important this Friday afternoon: the opportunity in artificial intelligence silicon is wide enough to reward very different business models simultaneously. Advanced Micro Devices (NASDAQ:AMD) stock is up 4% today, moving from $236.64 to $246, while Broadcom (NASDAQ:AVGO) stock is climbing 5%, rising from $354.91 to $373. What makes ... AMD Gains 4%, Broadcom Climbs 5%: The AI Chip Rally Has Two Very Different Winners Today
+Apple will present new research at the ACM Human-Computer Interaction Conference 2026 later this month. Here are the details.
 
-Yahoo Finance • 3h ago
-
----
-
-**[Axios C-Suite: AI education for all](https://www.axios.com/2026/04/10/ai-basics-education-college-business)**
-
-Axios • 3h ago
+9to5Mac • 54m ago
 
 ---
 
-**[CoreWeave strikes AI cloud deal with Anthropic, shares surge](https://www.reuters.com/legal/transactional/coreweave-strikes-ai-cloud-deal-with-anthropic-shares-rise-2026-04-10/)**
+**[Meet ‘trendslop,’ the new, AI-fueled scourge of workplace consultants everywhere](https://fortune.com/2026/04/10/what-is-trendslop-llm-hidden-bias-bad-advice-workplace-consultants/)**
 
-Reuters • 6h ago
+Some economists have deemed consultants useless, but AI assistance could just be the old challenge in new clothing.
+
+Fortune • 51m ago
+
+---
+
+**[Molotov Cocktail Is Hurled at Home of Sam Altman, OpenAI’s CEO](https://www.nytimes.com/2026/04/10/us/open-ai-sam-altman-molotov-cocktail.html)**
+
+The New York Times • 42m ago
 
 ---
 
@@ -183,15 +171,29 @@ Reuters • 6h ago
 
 The deal comes one day after Meta committed an additional $21 billion in spending to the cloud provider as AI demand continues to soar.
 
-CNBC • 7h ago
+CNBC • 8h ago
 
 ---
 
-**[CoreWeave stock soars 13% on Anthropic deal](https://finance.yahoo.com/sectors/technology/article/coreweave-stock-soars-13-on-anthropic-deal-141357680.html)**
+**[CoreWeave stock climbs 10% on Anthropic deal](https://finance.yahoo.com/sectors/technology/article/coreweave-stock-climbs-10-on-anthropic-deal-141357017.html)**
 
 Anthropic and CoreWeave have entered into a new agreement that will see CoreWeave's AI infrastructure power Anthropic's various models.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 1h ago
+
+---
+
+**[CoreWeave strikes AI cloud deal with Anthropic, shares surge](https://www.reuters.com/legal/transactional/coreweave-strikes-ai-cloud-deal-with-anthropic-shares-rise-2026-04-10/)**
+
+Reuters • 7h ago
+
+---
+
+**[OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths or Financial Disasters](https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/)**
+
+The ChatGPT-maker testified in favor of an Illinois bill that would limit when AI labs can be held liable—even in cases where their products cause “critical harm.”
+
+WIRED • 22h ago
 
 ---
 
@@ -203,7 +205,7 @@ Yahoo Finance • 6h ago
 
 The ChatGPT-maker testified in favor of an Illinois bill that would limit when AI labs can be held liable—even in cases where their products cause “critical harm.”
 
-⬆️ 408 • 💬 303 • 8h ago • [WIRED](https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/)
+⬆️ 408 • 💬 303 • 9h ago • [WIRED](https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/)
 
 ---
 
@@ -239,7 +241,7 @@ In 1958, Mao ordered every village to produce steel. The steel was useless. The 
 
 Reports say Fed chair Jerome Powell among attenders at meeting in Washington
 
-⬆️ 102 • 💬 87 • 7h ago • [the Guardian](https://www.theguardian.com/technology/2026/apr/10/us-summoned-bank-bosses-to-discuss-cyber-risks-posed-by-anthropic-latest-ai-model)
+⬆️ 102 • 💬 87 • 8h ago • [the Guardian](https://www.theguardian.com/technology/2026/apr/10/us-summoned-bank-bosses-to-discuss-cyber-risks-posed-by-anthropic-latest-ai-model)
 
 ---
 
@@ -247,7 +249,7 @@ Reports say Fed chair Jerome Powell among attenders at meeting in Washington
 
 Linux kernel source tree. Contribute to torvalds/linux development by creating an account on GitHub.
 
-⬆️ 89 • 💬 74 • 3h ago • [GitHub](https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst)
+⬆️ 89 • 💬 74 • 4h ago • [GitHub](https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst)
 
 ---
 
@@ -255,7 +257,7 @@ Linux kernel source tree. Contribute to torvalds/linux development by creating a
 
 Bixonimania doesn’t exist except in a clutch of obviously bogus academic papers. So why did AI chatbots warn people about this fictional illness?
 
-⬆️ 85 • 💬 88 • 12h ago • [nature.com](https://www.nature.com/articles/d41586-026-01100-y)
+⬆️ 85 • 💬 88 • 13h ago • [nature.com](https://www.nature.com/articles/d41586-026-01100-y)
 
 ---
 
@@ -283,7 +285,7 @@ Here's the AI News you probably missed this week (and some you definitely didn't
 
 📺 Matt Wolfe
 
-👁️ 29K • 👍 2K • 💬 234 • ⏱️ 35:50 • 6h ago
+👁️ 29K • 👍 2K • 💬 234 • ⏱️ 35:50 • 7h ago
 
 ---
 
@@ -303,7 +305,7 @@ Try Seedance 2.0 on Higgsfield: https://higgsfield.ai/s/seedance-2-0-airevolutio
 
 📺 AI Revolution
 
-👁️ 34K • 👍 1K • 💬 112 • ⏱️ 17:37 • 22h ago
+👁️ 34K • 👍 1K • 💬 112 • ⏱️ 17:37 • 23h ago
 
 ---
 
@@ -333,7 +335,7 @@ We are joined by journalist Ronan Farrow to discuss his recent piece on dangerou
 
 📺 I've Had It
 
-👁️ 212K • 👍 16K • 💬 2K • ⏱️ 25:30 • 20h ago
+👁️ 212K • 👍 16K • 💬 2K • ⏱️ 25:30 • 21h ago
 
 ---
 
@@ -343,7 +345,7 @@ Mo Gawdat is a former chief business officer at Google X and a longtime tech lea
 
 📺 Business Insider
 
-👁️ 16K • 👍 855 • 💬 142 • ⏱️ 33:39 • 8h ago
+👁️ 16K • 👍 855 • 💬 142 • ⏱️ 33:39 • 9h ago
 
 ---
 
@@ -363,7 +365,7 @@ Access Seedance 2.0 on Higgsfield https://higgsfield.ai?fpr=ai&fp_sid=isa9 In th
 
 📺 Isa does AI
 
-👁️ 10K • 💬 7 • ⏱️ 8:49 • 7h ago
+👁️ 10K • 💬 7 • ⏱️ 8:49 • 8h ago
 
 ---
 
@@ -389,7 +391,7 @@ Gemma 4 31B is an instruction-tuned, multimodal LLM capable of processing text a
 
 `image-text-to-text` `32.7B`
 
-⬇️ 1,589,761 • ❤️ 1,662 • 5h ago
+⬇️ 1,589,761 • ❤️ 1,662 • 6h ago
 
 ---
 
@@ -413,7 +415,7 @@ Gemma-4-31B-JANG_4M-CRACK is a 31B parameter text-generation model optimized for
 
 `image-text-to-text` `6.4B`
 
-⬇️ 75,426 • ❤️ 898 • 14h ago
+⬇️ 75,426 • ❤️ 898 • 15h ago
 
 ---
 
@@ -473,7 +475,7 @@ Gemma 4 E4B is a multimodal, instruction-tuned LLM from Google DeepMind, support
 
 `any-to-any` `8.0B`
 
-⬇️ 961,135 • ❤️ 562 • 5h ago
+⬇️ 961,135 • ❤️ 562 • 6h ago
 
 ---
 
@@ -485,7 +487,7 @@ Gemma 4 26B A4B is a multimodal instruction-tuned model capable of processing te
 
 `image-text-to-text` `26.5B`
 
-⬇️ 1,269,031 • ❤️ 587 • 5h ago
+⬇️ 1,269,031 • ❤️ 587 • 6h ago
 
 ---
 
@@ -645,7 +647,7 @@ The highest-scoring AI memory system ever benchmarked. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 39.8k • 🔱 5.0k • 5h ago
+⭐ 39.8k • 🔱 5.0k • 6h ago
 
 ---
 
@@ -655,7 +657,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 29.3k • 🔱 5.6k • 2h ago
+⭐ 29.3k • 🔱 5.6k • 3h ago
 
 ---
 
@@ -665,7 +667,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Ope
 
 `Python` `claude-code` `codex` `graphrag` `knowledge-graph` `openclaw`
 
-⭐ 20.1k • 🔱 2.0k • 3h ago
+⭐ 20.1k • 🔱 2.0k • 4h ago
 
 ---
 
@@ -675,7 +677,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `JavaScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 14.9k • 🔱 1.4k • 3h ago
+⭐ 14.9k • 🔱 1.4k • 4h ago
 
 ---
 
@@ -715,7 +717,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 7.4k • 🔱 454 • 3h ago
+⭐ 7.4k • 🔱 454 • 4h ago
 
 ---
 
