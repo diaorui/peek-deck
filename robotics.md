@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-10T11:50:51.462672+00:00'
+updated: '2026-04-10T13:13:45.409791+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 10, 2026 at 11:50 UTC  
+**Last Updated:** April 10, 2026 at 13:13 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,35 +34,27 @@ Robotics research and industry news
 
 **[Here is the worlds first man being kicked in the balls by a robot](https://www.reddit.com/r/robotics/comments/1sgved8/here_is_the_worlds_first_man_being_kicked_in_the/)**
 
-18h ago
-
----
-
-**[Rhoda AI just showcased its "FutureVision" DVA (Direct Video-Action) model tackling the Shell Game](https://www.reddit.com/r/robotics/comments/1shjska/rhoda_ai_just_showcased_its_futurevision_dva/)**
-
-From Rhoda AI on 𝕏: https://x.com/rhoda_ai_/status/2042302652911173720 Technical blog post: https://www.rhoda.ai/research/direct-video-action
-
-24m ago
+20h ago
 
 ---
 
 **[Now they are full grown 😀 (audio with detailed description on the hardware and power supply)](https://www.reddit.com/r/robotics/comments/1sh4kuq/now_they_are_full_grown_audio_with_detailed/)**
 
-13h ago
-
----
-
-**[UR10e install](https://www.reddit.com/r/robotics/comments/1shi260/ur10e_install/)**
-
-Worked on a UR10e install recently for an existing welding cell. Customer described it as “basically the same as the manual,” so we went in expecting a pretty standard setup. Once we were on site, fixture tolerance was around ±2 mm. The new process needed something closer to ±0.5 mm. The initial expectation was that we could calibrate around it. Spent a few hours going back and forth on that before even powering the robot. The variation wasn’t really something calibration could solve — parts weren’t landing consistently in the fixture either, so it wasn’t just a fixed offset. In the end we had to rework part of the fixture before moving forward. Install stretched from 3 days to 9! Turned out the fixture was more of a limiting factor than the robot.
-
-1h ago
+14h ago
 
 ---
 
 **[Feedback about my robotic dog design](https://www.reddit.com/r/robotics/comments/1shgl3o/feedback_about_my_robotic_dog_design/)**
 
 https://preview.redd.it/hllt5xajpbug1.png?width=1192&format=png&auto=webp&s=4fe28a28013fa07cacaef79d1512887848f52997 https://preview.redd.it/rb7jug3lpbug1.png?width=1033&format=png&auto=webp&s=7d00c8125c25ca01a5061fdbd2ebbdb8599618d6 https://preview.redd.it/11h2k3wlpbug1.png?width=846&format=png&auto=webp&s=5d07b76e41cb86e68db3807abf5412a3ace1df21 Rate my design 1-10 https://www.tinkercad.com/things/5qwlk5KBEEY-robotic-dogstl
+
+4h ago
+
+---
+
+**[UR10e install](https://www.reddit.com/r/robotics/comments/1shi260/ur10e_install/)**
+
+Worked on a UR10e install recently for an existing welding cell. Customer described it as “basically the same as the manual,” so we went in expecting a pretty standard setup. Once we were on site, fixture tolerance was around ±2 mm. The new process needed something closer to ±0.5 mm. The initial expectation was that we could calibrate around it. Spent a few hours going back and forth on that before even powering the robot. The variation wasn’t really something calibration could solve — parts weren’t landing consistently in the fixture either, so it wasn’t just a fixed offset. In the end we had to rework part of the fixture before moving forward. Install stretched from 3 days to 9! Turned out the fixture was more of a limiting factor than the robot.
 
 3h ago
 
@@ -80,7 +72,7 @@ From Deepak Pathak on 𝕏 (full video): https://x.com/pathak2206/status/2041939
 
 This test demonstrates how to connect a direct Time-of-Flight (dToF) distance sensor to a Raspberry Pi for accurate proximity sensing.The tutorial code will be publicly released on GitHub later.
 
-21h ago
+22h ago
 
 ---
 
@@ -88,7 +80,7 @@ This test demonstrates how to connect a direct Time-of-Flight (dToF) distance se
 
 I've been working on biologically grounded locomotion control using spiking neural networks instead of conventional RL. The system runs on a Freenove Robot Dog Kit (FNK0050) with a Raspberry Pi 4. The approach: train an Izhikevich SNN in MuJoCo simulation using a custom MJCF model of the robot, then transfer the brain to real hardware where it continues learning with IMU feedback (MPU6050). A central pattern generator provides innate gait, and a competence gate gradually hands control to the SNN as it proves stable. Key result: brain persistence works — stop the robot, restart it days later, synaptic weights reload and it walks immediately without relearning. A fresh brain needs 2,000 steps (40s) to reach the same level. Honest limitation: spectral analysis shows the SNN learns conservative dampening rather than faster/better gaits. It makes movements smaller and more regular. Biologically plausible (puppies do this) but not yet performance-improving. Total hardware cost: ~€200 (Pi + kit). 232 neurons, 50Hz control loop, no GPU needed. Demo: https://www.youtube.com/watch?v=7iN8tB2xLHI Code: github.com/MarcHesse/mhflocke (Apache 2.0) Paper: doi.org/10.5281/zenodo.19481146 Happy to discuss the architecture, the sim-to-real challenges, or the conservative dampening finding.
 
-22h ago
+1d ago
 
 ---
 
@@ -96,7 +88,7 @@ I've been working on biologically grounded locomotion control using spiking neur
 
 Scientists at Binghamton University have developed a robot guide dog system that communicates with the visually impaired and provides real-time feedback during travel.
 
-🔗 [The Brighter Side of News](http://thebrighterside.news/post/talking-robot-guide-dog-uses-ai-to-describe-the-world-as-it-leads) • 13h ago
+🔗 [The Brighter Side of News](http://thebrighterside.news/post/talking-robot-guide-dog-uses-ai-to-describe-the-world-as-it-leads) • 14h ago
 
 ---
 
@@ -104,7 +96,15 @@ Scientists at Binghamton University have developed a robot guide dog system that
 
 ReductStore v1.19 introduces Apache 2.0 open-source licensing, a ROS-inspired hierarchical data model with attachments for schemas and metadata, a native Zenoh API for edge communication, and ReductBridge for seamless integration with ROS1 and ROS2.
 
-🔗 [reduct.store](https://www.reduct.store/blog/news/reductstore-v1_19_0-released) • 5h ago
+🔗 [reduct.store](https://www.reduct.store/blog/news/reductstore-v1_19_0-released) • 7h ago
+
+---
+
+**[Where to sell robotics stuff ?](https://www.reddit.com/r/robotics/comments/1she32k/where_to_sell_robotics_stuff/)**
+
+Hi! Where to find people interested in buying electronic parts? (Motor control / voltage regulator and so) I am based in Europe and would be happy to sell those at a low price for someone who will really use it and not store it in a drawer for years. Have a good day
+
+7h ago
 
 ---
 
@@ -130,7 +130,7 @@ IFR International Federation of Robotics • 2d ago
 
 This new tech from Australia is coming to America’s senior care facilities.
 
-The Washington Post • 8h ago
+The Washington Post • 9h ago
 
 ---
 
@@ -138,7 +138,7 @@ The Washington Post • 8h ago
 
 Meet 'Digit', a humanoid robotic worker made by Agility Robotics, now part of a new wave of robots replacing workers at companies like Schaeffler, Toyota, and GXO. NBC News' Brian Cheung takes a look.
 
-NBC News • 15h ago
+NBC News • 16h ago
 
 ---
 
@@ -146,15 +146,15 @@ NBC News • 15h ago
 
 A Chinese factory is producing humanoid robots every 30 minutes, marking a shift toward large-scale manufacturing and broader adoption.
 
-Fox News • 18h ago
+Fox News • 20h ago
 
 ---
 
-**[Meet ‘Alex’: A Disaster-Response Humanoid Challenging China’s Robotics Rise](https://www.eweek.com/news/ihmc-alex-robot-china-robotics-race/)**
+**[Do people see robots as having race? New studies clash as humanoids enter the real world](https://www.scientificamerican.com/article/do-people-see-robots-as-having-race-new-studies-clash-as-humanoids-enter-the/)**
 
-IHMC unveils Alex, a disaster-ready humanoid robot built for high-risk environments, as China accelerates its dominance in global robotics.
+As humanoid robots enter the real world, new studies suggest that people project human racial biases onto them—but the research is divided on whether those biases persist outside the lab and in real-world interactions
 
-eWeek • 21h ago
+Scientific American • 2d ago
 
 ---
 
@@ -162,7 +162,7 @@ eWeek • 21h ago
 
 Deepu Talla helps bring the future of robotics closer to reality through the Nvidia-Talla Endowment for Texas Robotics.
 
-The University of Texas at Austin • 21h ago
+The University of Texas at Austin • 22h ago
 
 ---
 
@@ -178,13 +178,15 @@ Yahoo Finance • 1d ago
 
 European defense tech company Ark Robotics will make their IP for battle-tested technologies available to UK manufacturers through the AI-powered defense portal GRAIL. The CEO spoke to CNBC about the decision, using a pseudonym for security reasons.
 
-CNBC • 21m ago
+CNBC • 1h ago
 
 ---
 
-**[Electrofluidic fiber muscles could enable silent robotic systems](https://techxplore.com/news/2026-04-electrofluidic-fiber-muscles-enable-silent.html)**
+**[Former UNH hockey star using robotics for shoulder replacements](https://www.wmur.com/article/former-unh-hockey-robotics-shoulder-4726/70956955)**
 
-Tech Xplore • 17h ago
+Hockey fans might remember former University of New Hampshire player Thomas Fortney, who tied a 2009 NCAA tournament game against North Dakota with a tenth of a second remaining in regulation.
+
+WMUR • 2d ago
 
 ---
 
@@ -198,7 +200,7 @@ Could AI become dangerous? Can we trust AI Agents? AGI. Use code insideai at htt
 
 📺 InsideAI
 
-👁️ 209K • 👍 10K • 💬 817 • ⏱️ 16:24 • 18h ago
+👁️ 209K • 👍 10K • 💬 817 • ⏱️ 16:24 • 20h ago
 
 ---
 
@@ -218,7 +220,7 @@ South Korea is building robots you've only seen in movies, from giant walking ma
 
 📺 DeCode
 
-👁️ 31K • 👍 588 • 💬 41 • ⏱️ 14:45 • 21h ago
+👁️ 31K • 👍 588 • 💬 41 • ⏱️ 14:45 • 23h ago
 
 ---
 

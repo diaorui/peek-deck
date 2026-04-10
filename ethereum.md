@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-10T11:50:51.459695+00:00'
+updated: '2026-04-10T13:13:45.406530+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - videos
+- social
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 10, 2026 at 11:50 UTC  
+**Last Updated:** April 10, 2026 at 13:13 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,221.84
+### $2,220.82
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.0%  
-**7d:** +7.8%  
-**30d:** +7.3%  
-**90d:** -28.8%  
-**1y:** +41.7%  
+**24h:** +1.8%  
+**7d:** +7.5%  
+**30d:** +7.0%  
+**90d:** -29.0%  
+**1y:** +41.4%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 So I went back through my wallet history and used a couple of MEV tracking tools to figure out how much value I actually lost to sandwich attacks and front-running over the past 6 months. not gonna share exact numbers but it was enough to make me seriously rethink where and how I trade on-chain. the thing that pissed me off the most wasn't even the big trades. it was the small ones. $200-500 swaps getting sandwiched for a few bucks each time. doesn't feel like much in the moment but it adds up fast when you're making multiple trades a week. what I learned: AMMs are basically open season for MEV bots. your trade hits the mempool and you're cooked private RPCs like flashbots protect help but they're not a complete solution. you're still trusting the builder not to screw you intent-based systems (cow swap etc) are better but they introduce solver trust assumptions and don't work for everything the only architecture where MEV extraction is structurally impossible is one where transaction ordering is provable and verifiable. not hidden, not trusted, but mathematically proven to be fair honestly the biggest takeaway is that most people have no idea how much they're losing. the "invisible tax" framing is accurate. you never see a line item that says "MEV bot took $4.50 from this trade" but it's happening on basically every swap. anyone else tracked their MEV losses? curious what numbers people are seeing. also curious if anyone has found a setup that actually eliminates it, not just reduces it.
 
-1h ago
+3h ago
 
 ---
 
@@ -80,7 +80,7 @@ So I went back through my wallet history and used a couple of MEV tracking tools
 
 Ethereum developers align on Glamsterdam devnet progress, Hegota Account Abstraction direction, & key execution layer upgrades shaping the roadmap.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-234/) • 3h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-234/) • 4h ago
 
 ---
 
@@ -88,7 +88,7 @@ Ethereum developers align on Glamsterdam devnet progress, Hegota Account Abstrac
 
 How does staking work? I staked ~0.1 eth through Exodus (they use Everstake) about 64 days ago. Eth validator queue is currently ~52 days. I was told I’d need to wait 1-5 days for it to pool on top of the validator time. It’s now approaching >1 week since the “expected” time to finish staking and start earning rewards, but it still shows staking. Is there a way to check how long I have to wait or know what happened?  [comments]
 
-12h ago
+13h ago
 
 ---
 
@@ -156,23 +156,23 @@ I’ve had my eth staked for about 2 years now, net negative on the eth itself b
 
 TD Cowen remains positive on $55 billion Bitcoin treasury pioneer Strategy, despite trimming its price target yet again.
 
-Decrypt • 13h ago
+Decrypt • 15h ago
 
 ---
 
-**[Tom Lee's BitMine Uplisted to NYSE as Ethereum Firm Expands Buyback Program to $4 Billion](https://decrypt.co/363823/tom-lee-bitmine-uplisted-nyse-ethereum-firm-expands-buybacks-4-billion)**
+**[Will AI Boost Ethereum Price? Marc Andreessen Claims AI Is ‘Killer Crypto App’](https://finance.yahoo.com/markets/crypto/articles/ai-boost-ethereum-price-marc-112218412.html)**
 
-Ethereum treasury giant BitMine Immersion Technologies upped its share buyback program to $4 billion and was uplisted to the NYSE on Thursday.
+AI could drive new demand for Ethereum, analysts say, following Marc Andreessen's comments about crypto's convergence with agents. Tom Lee sees AI as a major ...
 
-Decrypt • 19h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Bitmine Immersion Stock: Market Is Missing The Hybrid Ethereum Model (NYSE:BMNR)](https://seekingalpha.com/article/4889757-bitmine-immersion-market-is-missing-the-hybrid-ethereum-model)**
+**[Bitmine Immersion: Market Is Missing The Hybrid Ethereum Model](https://seekingalpha.com/article/4889757-bitmine-immersion-market-is-missing-the-hybrid-ethereum-model)**
 
 Bitmine Immersion's hybrid model combines large-scale ETH holdings, with MAVAN projected to generate $300 million annually. Learn why BMNR stock is a strong buy.
 
-Seeking Alpha • 1h ago
+Seeking Alpha • 2h ago
 
 ---
 
@@ -180,7 +180,7 @@ Seeking Alpha • 1h ago
 
 Bitcoin opened at $71,783.52 on Friday and then rose slightly in early trading. Ethereum showed the same trend, opening at $2,189.99 and rising somewhat in early hours.
 
-Yahoo Finance • 33m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -192,15 +192,23 @@ The Block • 1d ago
 
 ---
 
-**[Most large cryptocurrencies fall as Ethereum tumbles](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-as-ethereum-tumbles-91a2f421-9307bc266dcb)**
+**[Bitcoin Price Falls. Why Faltering Iran Cease-Fire Could Crush Cryptos.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-today-2ef03b04)**
 
-MarketWatch • 21h ago
+Barron's • 1d ago
 
 ---
 
-**[Will AI Boost Ethereum Price? Marc Andreessen Claims AI Is ‘Killer Crypto App’](https://www.ccn.com/news/crypto/will-ai-boost-ethereum-price-marc-andreessen-claims-ai-is-killer-crypto-app/)**
+**[Most large cryptocurrencies fall as Ethereum tumbles](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-as-ethereum-tumbles-91a2f421-9307bc266dcb)**
 
-CCN.com • 23m ago
+MarketWatch • 23h ago
+
+---
+
+**[ETH Up or Down - 5 Minutes](https://polymarket.com/event/eth-updown-5m-1775820300)**
+
+Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+
+Polymarket • 2d ago
 
 ---
 
@@ -209,12 +217,6 @@ CCN.com • 23m ago
 Will Ethereum reach $5,000 in 2026? Citi targets $3,175 while Standard Chartered forecasts $7,500. Explore the key drivers behind the predictions.
 
 CoinGecko • 1d ago
-
----
-
-**[Bitmine Stock Plugs Into a New Power Source as Ethereum Holdings Hits Record Highs; BMNR Up 15%](https://www.tipranks.com/news/bitmine-stock-plugs-into-a-new-power-source-as-ethereum-holdings-hit-record-highs-bmnr-up-15)**
-
-TipRanks • 1d ago
 
 ---
 
@@ -246,7 +248,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 44 • 👍 3 • ⏱️ 4:53 • 2h ago
+👁️ 44 • 👍 3 • ⏱️ 4:53 • 4h ago
 
 ---
 
@@ -256,7 +258,7 @@ In this video, we explain what an XRP node is, why node operation has recently g
 
 📺 Discover Health
 
-👁️ 9K • 👍 194 • ⏱️ 4:44 • 23h ago
+👁️ 9K • 👍 194 • ⏱️ 4:44 • 1d ago
 
 ---
 
@@ -266,7 +268,7 @@ BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 6K • 👍 249 • 💬 83 • ⏱️ 22:51 • 10h ago
+👁️ 6K • 👍 249 • 💬 83 • ⏱️ 22:51 • 12h ago
 
 ---
 
@@ -276,7 +278,7 @@ In this video, I take a closer look at the current Ethereum market structure and
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 194 • 💬 23 • ⏱️ 10:05 • 17h ago
+👁️ 3K • 👍 194 • 💬 23 • ⏱️ 10:05 • 18h ago
 
 ---
 
@@ -286,7 +288,7 @@ Earth's top Ethereum buyer just acquired 71000 ETH, signaling a potential market
 
 📺 CoinBros
 
-👁️ 632 • ⏱️ 0:33 • 13h ago
+👁️ 632 • ⏱️ 0:33 • 14h ago
 
 ---
 
@@ -296,7 +298,7 @@ Ethereum está pasando por uno de los momentos más complicados de todo este cic
 
 📺 Healthy Pockets
 
-👁️ 10K • 👍 690 • 💬 105 • ⏱️ 14:46 • 21h ago
+👁️ 10K • 👍 690 • 💬 105 • ⏱️ 14:46 • 22h ago
 
 ---
 
@@ -306,7 +308,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 680 • 👍 72 • 💬 2 • ⏱️ 4:58 • 5h ago
+👁️ 680 • 👍 72 • 💬 2 • ⏱️ 4:58 • 6h ago
 
 ---
 
@@ -316,7 +318,7 @@ A major firm just bought 71000 ETH, signaling confidence that the bottom is in. 
 
 📺 CoinBros
 
-👁️ 648 • 👍 1 • ⏱️ 0:19 • 13h ago
+👁️ 648 • 👍 1 • ⏱️ 0:19 • 14h ago
 
 ---
 
@@ -326,7 +328,7 @@ Jetzt gratis sichern → https://www.blockchain-investor.de/app Die neue „Bloc
 
 📺 Krypto Report
 
-👁️ 7K • 👍 558 • 💬 9 • ⏱️ 18:19 • 19h ago
+👁️ 7K • 👍 558 • 💬 9 • ⏱️ 18:19 • 20h ago
 
 ---
 

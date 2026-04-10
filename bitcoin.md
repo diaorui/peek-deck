@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-10T11:50:51.454455+00:00'
+updated: '2026-04-10T13:13:45.400505+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - videos
+- social
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 10, 2026 at 11:50 UTC  
+**Last Updated:** April 10, 2026 at 13:13 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,16 +38,16 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $71,642.64
+### $72,234.02
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.3%  
-**7d:** +7.3%  
-**30d:** +2.5%  
-**90d:** -20.6%  
+**24h:** +1.5%  
+**7d:** +7.2%  
+**30d:** +2.4%  
+**90d:** -20.7%  
 **1y:** -13.5%  
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Is it actually going to go up?
 
-7h ago
+9h ago
 
 ---
 
@@ -89,21 +89,13 @@ Is it actually going to go up?
 
 ADX hit 60.1 on the 4H. That's an absurdly strong trend reading. EMA ribbon flipped bullish. MACD is at +563. By every technical measure this is a confirmed uptrend. Meanwhile Fear & Greed is at 16. Extreme Fear. Retail is actually net short at 0.86 while smart money flipped long at 1.06. Let that sink in — smart money is long, retail is short, technicals are screaming bullish, and sentiment is at the floor. Ohhh and CPI drops in a few hours. If it comes in cool, this thing flies. If it comes in hot, we retest $69K and everyone says "told you so." Best asymmetric setup in weeks and almost nobody is talking about it.
 
-6h ago
+7h ago
 
 ---
 
 **[Hey, let me ask you something. . .](https://www.reddit.com/r/Bitcoin/comments/1sh4e7n/hey_let_me_ask_you_something/)**
 
-13h ago
-
----
-
-**[Terrence Howard says Bitcoin is going to die. I the quality of Bitcoin’s critics makes me even more bullish](https://www.reddit.com/r/Bitcoin/comments/1sh4dm5/terrence_howard_says_bitcoin_is_going_to_die_i/)**
-
-Man these bitcoin critics are embarrassing. they just make me want to buy more
-
-🔗 [youtu.be](https://youtu.be/wJJYtiz0nqw) • 13h ago
+14h ago
 
 ---
 
@@ -111,7 +103,15 @@ Man these bitcoin critics are embarrassing. they just make me want to buy more
 
 I'm waiting to see if $58k-$60k happens. If it does, I will be down for the 1st time im many years. So, Im stacking powder.
 
-11h ago
+12h ago
+
+---
+
+**[Terrence Howard says Bitcoin is going to die. I the quality of Bitcoin’s critics makes me even more bullish](https://www.reddit.com/r/Bitcoin/comments/1sh4dm5/terrence_howard_says_bitcoin_is_going_to_die_i/)**
+
+Man these bitcoin critics are embarrassing. they just make me want to buy more
+
+🔗 [youtu.be](https://youtu.be/wJJYtiz0nqw) • 14h ago
 
 ---
 
@@ -119,29 +119,15 @@ I'm waiting to see if $58k-$60k happens. If it does, I will be down for the 1st 
 
 This is common in almost every technology growth cycle. First there is the initial hype, then there is a period of innovation where the technology matures, then there is a secondary period of high growth and hype that reflects its built-out maturity, enhanced user experience, and mainstream integration. These three stages look like this with bitcoin. 2009 - 2017: Initial hype (parabolic price action) 2018 - 2026: Innovation (price stagnation) 2027 - 2035: Maturity (parabolic price action) After these three stages we will reach mass adoption, which would in theory equal a 26 year adoption cycle from whitepaper to mass adoption. The last 8 or so years in bitcoin have felt boring, but thats just because the price action has been going nowhere. for example we are currently at the same prices seen in 2021 and only 3x the prices seen in 2017. But this is exactly how the innovation stage works. It appears boring however there is a ton of building going on behind the scenes to make bitcoins user experience intuitive while integrating it into mainstream finance and technology apps. It just feels boring because we dont see all the innovation happening behind the scenes. Once all these years of innovation start to present themselves in the mainstream world the second hype/growth stage begins where the price moves into a parabolic stage once again as it reflects the maturity of bitcoin. The best is yet to come not just for price, but also for user adoption.
 
-5h ago
-
----
-
-**[Daily Discussion, April 10, 2026](https://www.reddit.com/r/Bitcoin/comments/1she8bw/daily_discussion_april_10_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-5h ago
-
----
-
-**[How it started How it’s Going](https://www.reddit.com/r/Bitcoin/comments/1sh2kx0/how_it_started_how_its_going/)**
-
-14h ago
-
----
-
-**[first time](https://www.reddit.com/r/Bitcoin/comments/1shbww5/first_time/)**
-
-just put $200 into btc was that a good idea orrr
-
 7h ago
+
+---
+
+**[Entering long](https://www.reddit.com/r/Bitcoin/comments/1shkbde/entering_long/)**
+
+If you’ve been hodling on Fiat thinking if it’s time, it’s about time for a good swing. Buy in!!
+
+1h ago
 
 ---
 
@@ -149,7 +135,23 @@ just put $200 into btc was that a good idea orrr
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=YYaDTJeCxRg) • 34m ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=YYaDTJeCxRg) • 1h ago
+
+---
+
+**[Daily Discussion, April 10, 2026](https://www.reddit.com/r/Bitcoin/comments/1she8bw/daily_discussion_april_10_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+7h ago
+
+---
+
+**[first time](https://www.reddit.com/r/Bitcoin/comments/1shbww5/first_time/)**
+
+just put $200 into btc was that a good idea orrr
+
+9h ago
 
 ---
 
@@ -157,19 +159,17 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## Google News: "bitcoin"
 
-**[The New York Times may have found bitcoin founder Satoshi Nakamoto. Here's what you need to know.](https://finance.yahoo.com/markets/crypto/article/the-new-york-times-may-have-found-bitcoin-founder-satoshi-nakamoto-heres-what-you-need-to-know-193426720.html)**
+**[Adam Back Denies He Is Satoshi Nakamoto in Response to Times Investigation](https://www.nytimes.com/2026/04/08/business/adam-back-satoshi-nakamoto-bitcoin.html)**
 
-For years, bitcoin creator Satoshi Nakamoto has avoided discovery. Now, a 10,000-word New York Times investigation may have unraveled the mystery, landing on British computer scientist Dr. Adam Back as Nakamoto.
-
-Yahoo Finance • 1d ago
+The New York Times • 1d ago
 
 ---
 
-**[Nakamoto seeks reverse stock split as shares fall 99% from peak](https://www.coindesk.com/markets/2026/04/10/david-bailey-s-nakamoto-is-trying-to-stay-on-nasdaq-and-it-s-turning-to-a-reverse-stock-split)**
+**[Quantum-safe bitcoin now possible without a soft fork, but costs $200 a pop, new research shows](https://www.coindesk.com/markets/2026/04/10/quantum-safe-bitcoin-now-possible-without-a-soft-fork-but-costs-usd200-a-pop)**
 
-The stock has plunged roughly 99% from its May 2025 peak as pressure builds on the bitcoin treasury firm.
+A new scheme from a StarkWare researcher works under existing consensus rules, offering an emergency fallback while BIP-360 awaits activation.
 
-CoinDesk • 2h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -177,35 +177,33 @@ CoinDesk • 2h ago
 
 It may face limited adoption due to higher costs and a complex user experience, with the proposal described as a “last-resort measure.”
 
-The Block • 1h ago
+The Block • 2h ago
 
 ---
 
-**[StarkWare's Quantum-Safe Bitcoin Scheme Requires No Protocol Changes, Just $150 in GPU Compute](https://unchainedcrypto.com/starkwares-quantum-safe-bitcoin-scheme-requires-no-protocol-changes-just-150-in-gpu-compute-unchained/)**
+**[Bitcoin Can Be Made Quantum Safe Now — But It’ll Cost Up To $150 Per Transaction](https://www.ccn.com/news/crypto/bitcoin-made-quantum-safe-now-but-cost-150-per-transaction/)**
 
-StarkWare CPO Avihu Levy has published a scheme that makes Bitcoin transactions resistant to quantum attack today, using only existing network rules — but each transaction costs up to $150 in GPU compute.
-
-unchainedcrypto.com • 11m ago
+CCN.com • 2h ago
 
 ---
 
-**[Buy Bitcoin at Night](https://www.bloomberg.com/opinion/newsletters/2026-04-09/buy-bitcoin-at-night)**
+**[Bitcoin price news: BTC moves up to $72,400 after March inflation data](https://www.coindesk.com/markets/2026/04/10/bitcoin-rises-after-core-cpi-rose-a-less-than-forecast-0-2-in-march)**
 
-Bloomberg • 17h ago
+Headline inflation rose 0.9% last month, driven by the sharp rise in energy costs due to the Iran war.
+
+CoinDesk • 38m ago
 
 ---
 
 **[Bitcoin miners are losing money minting coins. It’s the same problem that killed the penny.](https://www.marketwatch.com/story/bitcoin-miners-are-losing-money-minting-coins-its-the-same-problem-that-killed-the-penny-f907db5c)**
 
-MarketWatch • 16h ago
+MarketWatch • 17h ago
 
 ---
 
-**[ETH, SOL, DOGE slide as Bitcoin fails to break $73,000 for the third time since the ceasefire](https://www.coindesk.com/markets/2026/04/10/eth-sol-doge-slide-as-bitcoin-fails-to-break-usd73-000-for-the-third-time-since-the-ceasefire)**
+**[Buy Bitcoin at Night](https://www.bloomberg.com/opinion/newsletters/2026-04-09/buy-bitcoin-at-night)**
 
-The level that has capped every rally during the six-week war remains intact, with analysts saying $75,000 needs to break before the market enters a genuine bullish phase.
-
-CoinDesk • 6h ago
+Bloomberg • 19h ago
 
 ---
 
@@ -217,15 +215,19 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin Price Falls. Why Faltering Iran Cease-Fire Could Crush Cryptos.](https://www.barrons.com/articles/bitcoin-price-crypto-xrp-etherum-today-iran-df3ec33f)**
+**[ETH, SOL, DOGE slide as Bitcoin fails to break $73,000 for the third time since the ceasefire](https://www.coindesk.com/markets/2026/04/10/eth-sol-doge-slide-as-bitcoin-fails-to-break-usd73-000-for-the-third-time-since-the-ceasefire)**
 
-Barron's • 1d ago
+The level that has capped every rally during the six-week war remains intact, with analysts saying $75,000 needs to break before the market enters a genuine bullish phase.
+
+CoinDesk • 8h ago
 
 ---
 
-**[‘Will Be Destroyed’—Iran’s Bitcoin Toll Sparks $100K Price Prediction](https://www.forbes.com/sites/digital-assets/2026/04/08/will-be-destroyed-irans-bitcoin-toll-sparks-100k-price-prediction/)**
+**[Institutions' bitcoin positioning lacks conviction; CPI, Iran talks might help](https://www.coindesk.com/daybook-us/2026/04/10/institutions-bitcoin-positioning-lacks-conviction-cpi-iran-talks-might-help)**
 
-Forbes • 1d ago
+Institutions are betting on the bitcoin price hitting $80,000 through call options, but they are also buying downside protection.
+
+CoinDesk • 1h ago
 
 ---
 
@@ -235,7 +237,7 @@ Forbes • 1d ago
 
 **[Who is Satoshi Nakamoto? My quest to unmask Bitcoin's creator](https://news.ycombinator.com/item?id=47685320)**
 
-⬆️ 605 • 💬 796 • 2d ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)
+⬆️ 605 • 💬 798 • 2d ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)
 
 ---
 
@@ -273,7 +275,7 @@ The British computer scientist and entrepreneur has denied being the man who the
 
 **[Takeaways from Our Search for Bitcoin's Creator](https://news.ycombinator.com/item?id=47689167)**
 
-⬆️ 11 • 💬 1 • 1d ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/takeaways-satoshi-nakamoto-bitcoin-adam-back.html)
+⬆️ 11 • 💬 1 • 2d ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/takeaways-satoshi-nakamoto-bitcoin-adam-back.html)
 
 ---
 
@@ -317,7 +319,7 @@ A sanctioned nation is building a sovereign Bitcoin treasury through a toll boot
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 2K • 💬 286 • ⏱️ 23:12 • 12h ago
+👁️ 23K • 👍 2K • 💬 286 • ⏱️ 23:12 • 13h ago
 
 ---
 
@@ -327,7 +329,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 ✓
 
 📺 Altcoin Daily
 
-👁️ 28K • 👍 2K • 💬 268 • ⏱️ 12:20 • 12h ago
+👁️ 28K • 👍 2K • 💬 268 • ⏱️ 12:20 • 13h ago
 
 ---
 
@@ -337,7 +339,7 @@ Arthur Hayes is the CIO of Maelstrom and co-founder of BitMEX. In this conversat
 
 📺 Anthony Pompliano
 
-👁️ 21K • 👍 1K • 💬 6 • ⏱️ 49:53 • 14h ago
+👁️ 21K • 👍 1K • 💬 6 • ⏱️ 49:53 • 16h ago
 
 ---
 
@@ -357,7 +359,7 @@ Is Adam Back the real Satoshi Nakamoto? He addresses the enduring mystery of Bit
 
 📺 Yahoo Finance
 
-👁️ 10K • 👍 184 • 💬 218 • ⏱️ 8:56 • 20h ago
+👁️ 10K • 👍 184 • 💬 218 • ⏱️ 8:56 • 21h ago
 
 ---
 
@@ -367,7 +369,7 @@ Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FR
 
 📺 CryptosRUs
 
-👁️ 19K • 👍 949 • 💬 357 • ⏱️ 50:22 • 21h ago
+👁️ 19K • 👍 949 • 💬 357 • ⏱️ 50:22 • 22h ago
 
 ---
 
@@ -385,7 +387,7 @@ MASSIVE Bitcoin News!! Satoshi Revealed!? What Comes Next? (Watch the whole vide
 
 📺 CryptoWendyO
 
-👁️ 4K • 👍 336 • 💬 22 • ⏱️ 2:11 • 10h ago
+👁️ 4K • 👍 336 • 💬 22 • ⏱️ 2:11 • 12h ago
 
 ---
 
@@ -395,7 +397,7 @@ Bitcoin #Crypto #Finance Is the Bitcoin bottom finally in? Tom Lee thinks so, ca
 
 📺 The Wolf Of All Streets
 
-👁️ 20K • 👍 902 • 💬 296 • ⏱️ 39:05 • 21h ago
+👁️ 20K • 👍 902 • 💬 296 • ⏱️ 39:05 • 23h ago
 
 ---
 
