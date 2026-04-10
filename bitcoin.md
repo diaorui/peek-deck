@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-10T20:39:05.869965+00:00'
+updated: '2026-04-10T21:38:59.799737+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - cryptocurrency
 - social
 - news
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 10, 2026 at 20:39 UTC  
+**Last Updated:** April 10, 2026 at 21:38 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $73,081.91
+### $73,080.86
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.2%  
-**7d:** +8.7%  
-**30d:** +3.8%  
-**90d:** -19.6%  
+**24h:** +1.5%  
+**7d:** +8.6%  
+**30d:** +3.7%  
+**90d:** -19.7%  
 **1y:** -12.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1461.19B
+**Market Cap:** $1462.02B
 Rank #1
 
-**Circulating Supply:** 20,014,040 BTC
+**Circulating Supply:** 20,014,062 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--42.1%
+-42.0%
 
 **All-Time Low:** $67.81
-+107603.9%
++107664.3%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Japan plans to reclassify cryptocurrencies as financial products under the Financial Instruments and Exchange Act, shifting them from a payment-based framework to one aligned with traditional securities regulation.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/japan-moves-to-classify-bitcoin-and-crypto) • 3h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/japan-moves-to-classify-bitcoin-and-crypto) • 4h ago
 
 ---
 
@@ -89,7 +89,7 @@ Japan plans to reclassify cryptocurrencies as financial products under the Finan
 
 I made around 100% in 3 weeks and was happy with that 🫡🫣
 
-2h ago
+3h ago
 
 ---
 
@@ -97,7 +97,7 @@ I made around 100% in 3 weeks and was happy with that 🫡🫣
 
 It looks like the block explorer has been hacked on Blockchain.com. When you search for a wallet address it shows you bunch of specific addresses only. For example for Satoshi address: https://www.blockchain.com/en/explorer/addresses/btc/1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa, it shows me the following ones only: 1PyJph17b4nAKqp4UvbxUZXpoesDzvZkVL 1PAZba3CAFRYm7gNBhrzH8Dz1FkYDCwJPs 1PyJph17b4nAKqp4UvbxUZXpoesDzvZkVL 1PbwAPq7aUepWrrToVh1snhv8mqy9wrGnk bc1qdmaslupuaetajnfzex8zw6jc93ww32ur6gj3we Be aware guys. Also it will be great to report it to Blockchain, but their support system a bit hard to use. Hope they are reading r/Bitcoin sometimes.
 
-3h ago
+4h ago
 
 ---
 
@@ -105,7 +105,7 @@ It looks like the block explorer has been hacked on Blockchain.com. When you sea
 
 Is it actually going to go up?
 
-16h ago
+17h ago
 
 ---
 
@@ -113,29 +113,7 @@ Is it actually going to go up?
 
 A three-part deep dive into quantum computing's actual threat to Bitcoin. 17 researchers, 13 proposals, real engineering. No hype. No FUD.
 
-🔗 [Bitcoin & Quantum Computing](https://bitcoinquantum.space/) • 3h ago
-
----
-
-**[BTC just reclaimed every major EMA with the strongest trend signal in months — and nobody believes it because Fear & Greed is at 16.](https://www.reddit.com/r/Bitcoin/comments/1shdb7e/btc_just_reclaimed_every_major_ema_with_the/)**
-
-ADX hit 60.1 on the 4H. That's an absurdly strong trend reading. EMA ribbon flipped bullish. MACD is at +563. By every technical measure this is a confirmed uptrend. Meanwhile Fear & Greed is at 16. Extreme Fear. Retail is actually net short at 0.86 while smart money flipped long at 1.06. Let that sink in — smart money is long, retail is short, technicals are screaming bullish, and sentiment is at the floor. Ohhh and CPI drops in a few hours. If it comes in cool, this thing flies. If it comes in hot, we retest $69K and everyone says "told you so." Best asymmetric setup in weeks and almost nobody is talking about it.
-
-15h ago
-
----
-
-**[Hey, let me ask you something. . .](https://www.reddit.com/r/Bitcoin/comments/1sh4e7n/hey_let_me_ask_you_something/)**
-
-22h ago
-
----
-
-**[Entering long](https://www.reddit.com/r/Bitcoin/comments/1shkbde/entering_long/)**
-
-If you’ve been hodling on Fiat thinking if it’s time, it’s about time for a good swing. Buy in!!
-
-8h ago
+🔗 [Bitcoin & Quantum Computing](https://bitcoinquantum.space/) • 4h ago
 
 ---
 
@@ -143,15 +121,37 @@ If you’ve been hodling on Fiat thinking if it’s time, it’s about time for 
 
 An economist named Steve Keen says Bitcoin will go to zero because it uses too much energy. It only took me ten minutes to break down why his "critique" makes no sense
 
-🔗 [youtu.be](https://youtu.be/t7Ca56-XxPM) • 18m ago
+🔗 [youtu.be](https://youtu.be/t7Ca56-XxPM) • 1h ago
 
 ---
 
-**[I want to take payments using Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1shio61/i_want_to_take_payments_using_bitcoin/)**
+**[BTC just reclaimed every major EMA with the strongest trend signal in months — and nobody believes it because Fear & Greed is at 16.](https://www.reddit.com/r/Bitcoin/comments/1shdb7e/btc_just_reclaimed_every_major_ema_with_the/)**
 
-I have a business and the margins are negative to breakeven. part of this is the rate people are scamming using services and chargebacks. It is small but it happens. Basically, you order custom, we make custom and you pick up. There is zero chance of you not getting the custom order. But we do not have zero chargebacks. I see maps of services much smaller than us even though we still are small potatoes in our industry, that accept bitcoin payments and all over the map these are square app enabled lightning network payments. no chargebacks and most importantly over that no interchange fees. How can I start taking bitcoin payments? Is my business too big? Is it only service businesses being allowed since they do not charge sales tax? I would make all inclusive pricing if sales tax were the issue. Both interchange and chargebacks are drowning me. There is often no money to pay myself when these people steal this way. It took three months of working a second job to finally be back to cashflow positive. Except quarterly sales tax is due in weeks so we may actually still be negative on that aspect. I just want to get paid for the service and goods we provide. I dont want to educate people how to make things harder on the little guy so I wont elaborate. People pay once they have the goods and services provided in person. We dont know a better way to combat the ways people are scamming the system but taking bitcoin payments would be a step in that direction.
+ADX hit 60.1 on the 4H. That's an absurdly strong trend reading. EMA ribbon flipped bullish. MACD is at +563. By every technical measure this is a confirmed uptrend. Meanwhile Fear & Greed is at 16. Extreme Fear. Retail is actually net short at 0.86 while smart money flipped long at 1.06. Let that sink in — smart money is long, retail is short, technicals are screaming bullish, and sentiment is at the floor. Ohhh and CPI drops in a few hours. If it comes in cool, this thing flies. If it comes in hot, we retest $69K and everyone says "told you so." Best asymmetric setup in weeks and almost nobody is talking about it.
 
-10h ago
+16h ago
+
+---
+
+**[Hey, let me ask you something. . .](https://www.reddit.com/r/Bitcoin/comments/1sh4e7n/hey_let_me_ask_you_something/)**
+
+23h ago
+
+---
+
+**[Entering long](https://www.reddit.com/r/Bitcoin/comments/1shkbde/entering_long/)**
+
+If you’ve been hodling on Fiat thinking if it’s time, it’s about time for a good swing. Buy in!!
+
+9h ago
+
+---
+
+**[Exodus Rolls Out 'Exodus Pay' to Turn Bitcoin Wallet Into Spending App](https://www.reddit.com/r/Bitcoin/comments/1shw941/exodus_rolls_out_exodus_pay_to_turn_bitcoin/)**
+
+The new feature on the Bitcoin wallet Exodus lets users spend crypto directly from a self-custodial wallet.
+
+🔗 [Decrypt](https://decrypt.co/363947/exodus-pay-bitcoin-wallet-spending-app) • 2h ago
 
 ---
 
@@ -171,7 +171,7 @@ Yahoo Finance • 1d ago
 
 CNBC's Tanaya Macheel reports on news regarding bitcoin.
 
-CNBC • 26m ago
+CNBC • 1h ago
 
 ---
 
@@ -179,7 +179,7 @@ CNBC • 26m ago
 
 MSBT opened for trading on Wednesday at $20.74 per share.
 
-InvestmentNews • 2h ago
+InvestmentNews • 3h ago
 
 ---
 
@@ -187,7 +187,7 @@ InvestmentNews • 2h ago
 
 Mirroring a breakout setup from Q2 2025, Bitcoin (BTC) is now eyeing a possible rally toward the $86,000–$90,000 range over the next few weeks.The bullish view is supported by robust Bitcoin whale activity and large BTC inflows to exchanges, which have dropped by $5 billion over the past two months…
 
-TradingView • 3h ago
+TradingView • 4h ago
 
 ---
 
@@ -201,7 +201,7 @@ MarketWatch • 1d ago
 
 Bhutan moved more bitcoin to a new wallet, continuing an outflow streak that has cut its holdings to 3,774 BTC from a peak of 13,000 BTC.
 
-The Block • 7h ago
+The Block • 8h ago
 
 ---
 
@@ -239,7 +239,7 @@ Yahoo Finance • 2d ago
 
 **[Who is Satoshi Nakamoto? My quest to unmask Bitcoin's creator](https://news.ycombinator.com/item?id=47685320)**
 
-⬆️ 612 • 💬 809 • 2d ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)
+⬆️ 614 • 💬 809 • 2d ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)
 
 ---
 
@@ -255,7 +255,7 @@ Country’s oil exporters’ union says toll to be paid in cryptocurrency and ve
 
 Neha Narula
 
-⬆️ 168 • 💬 137 • 2d ago • [nehanarula.org](https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html)
+⬆️ 168 • 💬 137 • 3d ago • [nehanarula.org](https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html)
 
 ---
 
@@ -297,7 +297,7 @@ For years, bitcoin creator Satoshi Nakamoto has avoided discovery. Now, a 10,000
 
 **[Bitcoin developers are mostly not concerned about quantum risk](https://news.ycombinator.com/item?id=47667515)**
 
-⬆️ 2 • 💬 0 • 3d ago • [murmurationstwo.substack.com](https://murmurationstwo.substack.com/p/bitcoin-developers-are-mostly-not)
+⬆️ 2 • 💬 0 • 4d ago • [murmurationstwo.substack.com](https://murmurationstwo.substack.com/p/bitcoin-developers-are-mostly-not)
 
 ---
 
@@ -314,26 +314,6 @@ First things first: this isn’t an evangelism piece or a day-trading pitch. Qui
 
 ## YouTube Videos: "bitcoin"
 
-**[The Crypto Situation Is Worse Than You Think](https://www.youtube.com/watch?v=kN5codbLCCY)**
-
-BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 ✓ Bitunix (no kyc, $10k bonus): ...
-
-📺 Altcoin Daily
-
-👁️ 34K • 👍 2K • 💬 362 • ⏱️ 12:20 • 21h ago
-
----
-
-**[Iran Just Put a Bitcoin Toll on The World&#39;s Oil Supply! (The Petrodollar Is DONE)](https://www.youtube.com/watch?v=X_ADrg6SirI)**
-
-A sanctioned nation is building a sovereign Bitcoin treasury through a toll booth. Iran is demanding Bitcoin as payment for oil ...
-
-📺 Simply Bitcoin
-
-👁️ 30K • 👍 3K • 💬 371 • ⏱️ 23:12 • 21h ago
-
----
-
 **[The White House Just Leaked Crypto’s Future.](https://www.youtube.com/watch?v=HmPN38i0wnc)**
 
 GREAT NEWS! Clarity act just received...some clarity. Research paper ...
@@ -344,13 +324,23 @@ GREAT NEWS! Clarity act just received...some clarity. Research paper ...
 
 ---
 
-**[Bitcoin Billionaire Reveals His Current Investing Strategy](https://www.youtube.com/watch?v=CELblcz2AYk)**
+**[The Crypto Situation Is Worse Than You Think](https://www.youtube.com/watch?v=kN5codbLCCY)**
 
-Arthur Hayes is the CIO of Maelstrom and co-founder of BitMEX. In this conversation, we break down what's really happening in ...
+BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 ✓ Bitunix (no kyc, $10k bonus): ...
 
-📺 Anthony Pompliano
+📺 Altcoin Daily
 
-👁️ 32K • 👍 1K • 💬 6 • ⏱️ 49:53 • 23h ago
+👁️ 36K • 👍 2K • 💬 361 • ⏱️ 12:20 • 22h ago
+
+---
+
+**[Iran Just Put a Bitcoin Toll on The World&#39;s Oil Supply! (The Petrodollar Is DONE)](https://www.youtube.com/watch?v=X_ADrg6SirI)**
+
+A sanctioned nation is building a sovereign Bitcoin treasury through a toll booth. Iran is demanding Bitcoin as payment for oil ...
+
+📺 Simply Bitcoin
+
+👁️ 31K • 👍 3K • 💬 340 • ⏱️ 23:12 • 22h ago
 
 ---
 
@@ -360,7 +350,7 @@ CNBC's “Squawk Box” team talks about the potential true identity of Bitcoin 
 
 📺 CNBC Television
 
-👁️ 7K • 👍 103 • 💬 32 • ⏱️ 4:51 • 8h ago
+👁️ 9K • 👍 117 • 💬 113 • ⏱️ 4:51 • 9h ago
 
 ---
 
@@ -370,7 +360,17 @@ Is Adam Back the real Satoshi Nakamoto? He addresses the enduring mystery of Bit
 
 📺 Yahoo Finance
 
-👁️ 12K • 👍 217 • 💬 218 • ⏱️ 8:56 • 1d ago
+👁️ 13K • 👍 222 • 💬 143 • ⏱️ 8:56 • 1d ago
+
+---
+
+**[Bitcoin Warning As Oil Explodes](https://www.youtube.com/watch?v=rZP0Yz3OhrY)**
+
+Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FREE Crypto Predictions & Compete Weekly ...
+
+📺 CryptosRUs
+
+👁️ 19K • 👍 958 • 💬 307 • ⏱️ 50:22 • 1d ago
 
 ---
 
@@ -384,33 +384,33 @@ MASSIVE Bitcoin News!! Satoshi Revealed!? What Comes Next? (Watch the whole vide
 
 ---
 
-**[MASSIVE Bitcoin Rally Starting?! Bitcoin Price Prediction 2026](https://www.youtube.com/watch?v=nCrj3Q_pyX0)**
+**[Bitcoin&#39;s $1 Trillion Secret Finally Out? NYT Says Adam Back Is Satoshi &amp; He Is Furiously Denying It](https://www.youtube.com/watch?v=NCDB7MoR-ss)**
 
-Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro max, and thousands of dollars of other bonuses!
+IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purposes only. NOT financial, investment, or ...
 
-📺 Crypto Jebb
+📺 The Kenzo Guy
 
-👁️ 2K • 👍 143 • 💬 61 • ⏱️ 41:32 • 6h ago
-
----
-
-**[Bitcoin Warning As Oil Explodes](https://www.youtube.com/watch?v=rZP0Yz3OhrY)**
-
-Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FREE Crypto Predictions & Compete Weekly ...
-
-📺 CryptosRUs
-
-👁️ 19K • 👍 957 • 💬 356 • ⏱️ 50:22 • 1d ago
+👁️ 8K • 👍 390 • 💬 49 • ⏱️ 22:56 • 2d ago
 
 ---
 
-**[BITCOIN BOTTOM IS IN? Tom Lee Calls It As Global Uncertainty Spikes | Mark Yusko](https://www.youtube.com/watch?v=0WOA0QAkcTc)**
+**[This Is Why BITCOIN Price Is Down (BIG BANKS)](https://www.youtube.com/watch?v=5SOS_4QqB34)**
 
-Bitcoin #Crypto #Finance Is the Bitcoin bottom finally in? Tom Lee thinks so, calling a turning point after the Iran ceasefire as his ...
+Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Zoomex - https://partner.zoomex.com/aff/ZX904299 Toobit ...
 
-📺 The Wolf Of All Streets
+📺 Discover Crypto
 
-👁️ 21K • 👍 928 • 💬 300 • ⏱️ 39:05 • 1d ago
+👁️ 14K • 👍 98 • 💬 23 • ⏱️ 0:12 • 2d ago
+
+---
+
+**[Hit a Solo Block and Earn 3.125 BITCOIN Today!](https://www.youtube.com/watch?v=IgrygbYy7eU)**
+
+Checkout the Luckyminer LV08 Pro from Today's Video ➡ https://geni.us/BCMLV08 ⭐Use Check Code "HOBBYIST" for a ...
+
+📺 The Hobbyist Miner
+
+👁️ 2K • 👍 107 • 💬 85 • ⏱️ 17:09 • 9h ago
 
 ---
 

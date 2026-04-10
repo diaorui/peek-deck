@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-10T20:39:05.875949+00:00'
+updated: '2026-04-10T21:38:59.805038+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - cryptocurrency
 - social
 - news
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 10, 2026 at 20:39 UTC  
+**Last Updated:** April 10, 2026 at 21:38 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,7 +36,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,245.91
+### $2,247.84
 
 ---
 
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $271.18B
+**Market Cap:** $271.16B
 Rank #2
 
 **Circulating Supply:** 120,691,092 ETH
@@ -62,7 +62,7 @@ No max supply
 -54.5%
 
 **All-Time Low:** $0.43
-+519186.2%
++519126.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 So I went back through my wallet history and used a couple of MEV tracking tools to figure out how much value I actually lost to sandwich attacks and front-running over the past 6 months. not gonna share exact numbers but it was enough to make me seriously rethink where and how I trade on-chain. the thing that pissed me off the most wasn't even the big trades. it was the small ones. $200-500 swaps getting sandwiched for a few bucks each time. doesn't feel like much in the moment but it adds up fast when you're making multiple trades a week. what I learned: AMMs are basically open season for MEV bots. your trade hits the mempool and you're cooked private RPCs like flashbots protect help but they're not a complete solution. you're still trusting the builder not to screw you intent-based systems (cow swap etc) are better but they introduce solver trust assumptions and don't work for everything the only architecture where MEV extraction is structurally impossible is one where transaction ordering is provable and verifiable. not hidden, not trusted, but mathematically proven to be fair honestly the biggest takeaway is that most people have no idea how much they're losing. the "invisible tax" framing is accurate. you never see a line item that says "MEV bot took $4.50 from this trade" but it's happening on basically every swap. anyone else tracked their MEV losses? curious what numbers people are seeing. also curious if anyone has found a setup that actually eliminates it, not just reduces it.
 
-10h ago
+11h ago
 
 ---
 
@@ -80,7 +80,7 @@ So I went back through my wallet history and used a couple of MEV tracking tools
 
 Roman Storm acquittal hearing, ETHGlobal Cannes hackathon finalists, EVM Now block explorer
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-19/) • 6h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-19/) • 7h ago
 
 ---
 
@@ -88,7 +88,7 @@ Roman Storm acquittal hearing, ETHGlobal Cannes hackathon finalists, EVM Now blo
 
 Ethereum developers align on Glamsterdam devnet progress, Hegota Account Abstraction direction, & key execution layer upgrades shaping the roadmap.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-234/) • 12h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-234/) • 13h ago
 
 ---
 
@@ -96,7 +96,7 @@ Ethereum developers align on Glamsterdam devnet progress, Hegota Account Abstrac
 
 How does staking work? I staked ~0.1 eth through Exodus (they use Everstake) about 64 days ago. Eth validator queue is currently ~52 days. I was told I’d need to wait 1-5 days for it to pool on top of the validator time. It’s now approaching >1 week since the “expected” time to finish staking and start earning rewards, but it still shows staking. Is there a way to check how long I have to wait or know what happened?  [comments]
 
-21h ago
+22h ago
 
 ---
 
@@ -136,7 +136,7 @@ I've learnt that we can now invest in gold directly in crypto, which is quite ex
 
 I just built ethlocal.world: a simple way to explore Ethereum activity around the world. The idea was pretty straightforward: Ethereum is global, but it can still be surprisingly hard to get a quick sense of what’s happening locally or regionally. So I made a site that maps events and communities in one place and lets you browse by region and type. It takes data from ethereum.org and was inspired by the Codex Ambassadors globe. Link: https://ethlocal.world Would love honest feedback from people here: Is this actually useful? What feels missing or confusing? Is the globe view helpful, or do you mainly want a cleaner list/filter experience? What would make something like this genuinely valuable for local Ethereum communities? Built it as a small project for the Ethereum community, and I’d love to improve it based on feedback.
 
-2d ago
+3d ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 TD Cowen remains positive on $55 billion Bitcoin treasury pioneer Strategy, despite trimming its price target yet again.
 
-Decrypt • 22h ago
+Decrypt • 23h ago
 
 ---
 
@@ -164,7 +164,7 @@ Decrypt • 22h ago
 
 Ethereum's (ETH) staking ratio has surpassed 30% to hit an all-time high (ATH), Token Terminal highlighted on Apr. 9. While the Ethereum network's staking market cap hit a record high of $157 billion on Aug. 11, 2025, the figure currently stands at $84.8 billion. Launched in 2015, Ethereum is one ...
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -172,7 +172,7 @@ Yahoo Finance • 3h ago
 
 The crypto market has rebounded, with Bitcoin rising 10% over the last eight days and Ethereum up 12% in the same period. The total market cap is now up
 
-Coinpedia Fintech News • 5h ago
+Coinpedia Fintech News • 6h ago
 
 ---
 
@@ -188,7 +188,7 @@ The Block • 2d ago
 
 Bitmine Immersion's hybrid model combines large-scale ETH holdings, with MAVAN projected to generate $300 million annually. Learn why BMNR stock is a strong buy.
 
-Seeking Alpha • 10h ago
+Seeking Alpha • 11h ago
 
 ---
 
@@ -202,7 +202,7 @@ MarketWatch • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 7h ago
+Fortune • 8h ago
 
 ---
 
@@ -216,7 +216,7 @@ Barron's • 1d ago
 
 Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Polymarket • 23h ago
+Polymarket • 1d ago
 
 ---
 
@@ -230,13 +230,23 @@ TipRanks • 1d ago
 
 ## YouTube Videos: "ethereum"
 
+**[Ethereum: Can we see another rally from here?](https://www.youtube.com/watch?v=rBNh1HPNNVk)**
+
+In this video, I take a closer look at the current Ethereum market structure and explain why the recent move higher does not ...
+
+📺 More Crypto Online
+
+👁️ 1K • 👍 119 • 💬 8 • ⏱️ 9:25 • 2h ago
+
+---
+
 **[Tom Lee &amp; Raoul Pal: &quot;Don&#39;t SELL Your Ethereum Before Watching This&quot; | [2026 Crypto Prediction]](https://www.youtube.com/watch?v=Cjdfxhy2Ids)**
 
 My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
 📺 Crypto Nutshell
 
-👁️ 14K • 👍 421 • 💬 42 • ⏱️ 20:08 • 2d ago
+👁️ 14K • 👍 424 • 💬 30 • ⏱️ 20:08 • 2d ago
 
 ---
 
@@ -246,27 +256,17 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 108 • 👍 9 • ⏱️ 4:53 • 11h ago
+👁️ 146 • 👍 12 • ⏱️ 4:53 • 12h ago
 
 ---
 
-**[Which Altcoins Are Worth Buying for the Next Bull Run? (ALT/BTC Ratio Analysis)](https://www.youtube.com/watch?v=naMgImE0tOg)**
+**[Ethereum Top Coming?: Bearish Signal to Crash Setup](https://www.youtube.com/watch?v=1rI8XtfnEaM)**
 
-I ranked all top 100 altcoins against Bitcoin using 5 years of ALT/BTC ratio data. Only 4 out of 69 veterans actually outperformed ...
+Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
 
-📺 VirtualBacon
+📺 Trade Confident
 
-👁️ 2K • 👍 83 • 4h ago
-
----
-
-**[Ethereum Bottom? Massive 71K ETH Buy Signal! #shorts](https://www.youtube.com/watch?v=JO1E_T1-WqY)**
-
-Earth's top Ethereum buyer just acquired 71000 ETH, signaling a potential market bottom. Smart investors position themselves ...
-
-📺 CoinBros
-
-👁️ 672 • ⏱️ 0:33 • 22h ago
+👁️ 56 • 👍 4 • 💬 1 • ⏱️ 5:27 • 2h ago
 
 ---
 
@@ -276,17 +276,7 @@ In this video, I take a closer look at the current Ethereum market structure and
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 203 • 💬 28 • ⏱️ 10:05 • 1d ago
-
----
-
-**[CRYPTO LIVE TRADING || 10 APRIL  | ‪@ClockTraderlive‬ #bitcoin #ethereum #crypto #btclivetrading](https://www.youtube.com/watch?v=Smo8k-hsZ28)**
-
-join my social platforms for updates and analysis ✓Instagram: ...
-
-📺 Aryan trader Live
-
-👁️ 18K • 👍 5K • 💬 4 • ⏱️ 1:56:18 • 3h ago
+👁️ 4K • 👍 206 • 💬 30 • ⏱️ 10:05 • 1d ago
 
 ---
 
@@ -296,7 +286,27 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 3K • 👍 108 • 💬 41 • ⏱️ 1:01:34 • 1d ago
+👁️ 3K • 👍 111 • 💬 26 • ⏱️ 1:01:34 • 1d ago
+
+---
+
+**[Düzen Kökten Değişiyor PetroDolar Eth 3k Btc İse... (Bitcoin Altcoin Genel Borsa Analizi)](https://www.youtube.com/watch?v=r9iZzuJ7s30)**
+
+Katılmak İçin Tıklayın : https://www.youtube.com/channel/UC9PKmoQwwNDwwhbLiV3Pw8A/join Sosyal Medya: Telegram: ...
+
+📺 Tuncay Yılmaz (Kripto Ichizo)
+
+👁️ 651 • 👍 142 • 💬 31 • ⏱️ 16:42 • 2h ago
+
+---
+
+**[Ethereum Bottom? Massive 71K ETH Buy Signal! #shorts](https://www.youtube.com/watch?v=JO1E_T1-WqY)**
+
+Earth's top Ethereum buyer just acquired 71000 ETH, signaling a potential market bottom. Smart investors position themselves ...
+
+📺 CoinBros
+
+👁️ 683 • ⏱️ 0:33 • 23h ago
 
 ---
 
@@ -306,27 +316,17 @@ BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 7K • 👍 270 • 💬 227 • ⏱️ 22:51 • 19h ago
+👁️ 7K • 👍 274 • 💬 330 • ⏱️ 22:51 • 20h ago
 
 ---
 
-**[Ethereum Se Está Muriendo... (¿O Es la Mayor Señal de Compra de la Década?)](https://www.youtube.com/watch?v=2sDzHBO2mSs)**
+**[Ethereum: Is This a Reversal?](https://www.youtube.com/watch?v=CPUq9yhd5gg)**
 
-Ethereum está pasando por uno de los momentos más complicados de todo este ciclo… y lo curioso es que, cuanto peor pinta ...
+In this video, I take a closer look at the current Ethereum market structure and explain why the recent move higher does not ...
 
-📺 Healthy Pockets
+📺 More Crypto Online
 
-👁️ 11K • 👍 751 • 💬 105 • ⏱️ 14:46 • 1d ago
-
----
-
-**[Explodieren diese Altcoins JETZT? Bitcoin, Ethereum, XRP &amp; Co. im Check](https://www.youtube.com/watch?v=Xcy_rbqCScg)**
-
-Explodieren diese Altcoins jetzt? In diesem Video analysiere ich die aktuelle Marktlage von Bitcoin, Ethereum (ETH), XRP, ...
-
-📺 Trading2Go
-
-👁️ 198 • 👍 54 • 💬 8 • ⏱️ 13:38 • 5h ago
+👁️ 3K • 👍 171 • 💬 14 • ⏱️ 10:28 • 1d ago
 
 ---
 
