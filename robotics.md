@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-10T05:58:19.383540+00:00'
+updated: '2026-04-10T07:53:37.868548+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 10, 2026 at 05:58 UTC  
+**Last Updated:** April 10, 2026 at 07:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Here is the worlds first man being kicked in the balls by a robot](https://www.reddit.com/r/robotics/comments/1sgved8/here_is_the_worlds_first_man_being_kicked_in_the/)**
 
-12h ago
+14h ago
 
 ---
 
 **[Now they are full grown 😀 (audio with detailed description on the hardware and power supply)](https://www.reddit.com/r/robotics/comments/1sh4kuq/now_they_are_full_grown_audio_with_detailed/)**
 
-7h ago
+9h ago
 
 ---
 
@@ -48,7 +48,7 @@ Robotics research and industry news
 
 From Deepak Pathak on 𝕏 (full video): https://x.com/pathak2206/status/2041939631860482211
 
-18h ago
+20h ago
 
 ---
 
@@ -56,7 +56,7 @@ From Deepak Pathak on 𝕏 (full video): https://x.com/pathak2206/status/2041939
 
 This test demonstrates how to connect a direct Time-of-Flight (dToF) distance sensor to a Raspberry Pi for accurate proximity sensing.The tutorial code will be publicly released on GitHub later.
 
-15h ago
+17h ago
 
 ---
 
@@ -64,7 +64,7 @@ This test demonstrates how to connect a direct Time-of-Flight (dToF) distance se
 
 I've been working on biologically grounded locomotion control using spiking neural networks instead of conventional RL. The system runs on a Freenove Robot Dog Kit (FNK0050) with a Raspberry Pi 4. The approach: train an Izhikevich SNN in MuJoCo simulation using a custom MJCF model of the robot, then transfer the brain to real hardware where it continues learning with IMU feedback (MPU6050). A central pattern generator provides innate gait, and a competence gate gradually hands control to the SNN as it proves stable. Key result: brain persistence works — stop the robot, restart it days later, synaptic weights reload and it walks immediately without relearning. A fresh brain needs 2,000 steps (40s) to reach the same level. Honest limitation: spectral analysis shows the SNN learns conservative dampening rather than faster/better gaits. It makes movements smaller and more regular. Biologically plausible (puppies do this) but not yet performance-improving. Total hardware cost: ~€200 (Pi + kit). 232 neurons, 50Hz control loop, no GPU needed. Demo: https://www.youtube.com/watch?v=7iN8tB2xLHI Code: github.com/MarcHesse/mhflocke (Apache 2.0) Paper: doi.org/10.5281/zenodo.19481146 Happy to discuss the architecture, the sim-to-real challenges, or the conservative dampening finding.
 
-17h ago
+18h ago
 
 ---
 
@@ -72,7 +72,23 @@ I've been working on biologically grounded locomotion control using spiking neur
 
 Scientists at Binghamton University have developed a robot guide dog system that communicates with the visually impaired and provides real-time feedback during travel.
 
-🔗 [The Brighter Side of News](http://thebrighterside.news/post/talking-robot-guide-dog-uses-ai-to-describe-the-world-as-it-leads) • 7h ago
+🔗 [The Brighter Side of News](http://thebrighterside.news/post/talking-robot-guide-dog-uses-ai-to-describe-the-world-as-it-leads) • 9h ago
+
+---
+
+**[ReductStore v1.19: Open Data Backbone for Robotics and ROS](https://www.reddit.com/r/robotics/comments/1she94u/reductstore_v119_open_data_backbone_for_robotics/)**
+
+ReductStore v1.19 introduces Apache 2.0 open-source licensing, a ROS-inspired hierarchical data model with attachments for schemas and metadata, a native Zenoh API for edge communication, and ReductBridge for seamless integration with ROS1 and ROS2.
+
+🔗 [reduct.store](https://www.reduct.store/blog/news/reductstore-v1_19_0-released) • 1h ago
+
+---
+
+**[Where to sell robotics stuff ?](https://www.reddit.com/r/robotics/comments/1she32k/where_to_sell_robotics_stuff/)**
+
+Hi! Where to find people interested in buying electronic parts? (Motor control / voltage regulator and so) I am based in Europe and would be happy to sell those at a low price for someone who will really use it and not store it in a drawer for years. Have a good day
+
+1h ago
 
 ---
 
@@ -90,27 +106,13 @@ What you're watching: 8 virtual Crazyflie quadrotors that learned to take off, h
 
 ---
 
-**[Introducing One Click Any PC: Run AI Workloads from Any Computer](https://www.reddit.com/r/robotics/comments/1sh0oju/introducing_one_click_any_pc_run_ai_workloads/)**
-
-Hi everyone, We’ve been working on a new tool called One Click Any PC, and we’re excited to share it with the community. The idea is simple: run physical, AI-based codebases from any computer without worrying about compute. Whether you’re training VLAs, experimenting with RL, or testing new pipelines, the goal is to make it as compute easy as a single click with no worry. We’re planning to launch next week, and we’re currently opening up a small waitlist for early access. If this sounds interesting, we’d really appreciate it if you join the waitlist (please open the link on desktop for the best experience). Our webpage is https://www.geodesicos.com/ We’d also love your feedback, what would you want from a tool like this? Anything you’d be excited (or skeptical) about? Thanks in advance 🙏
-
-9h ago
-
----
-
-**[Now we are one!](https://www.reddit.com/r/robotics/comments/1sg5qwh/now_we_are_one/)**
-
-1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
 **[National robotics push caught in delayed Trump-Xi meeting](https://www.politico.com/news/2026/04/09/national-robotics-trump-xi-china-00861918)**
 
-Politico • 21h ago
+Politico • 22h ago
 
 ---
 
@@ -126,7 +128,7 @@ IFR International Federation of Robotics • 2d ago
 
 Meet 'Digit', a humanoid robotic worker made by Agility Robotics, now part of a new wave of robots replacing workers at companies like Schaeffler, Toyota, and GXO. NBC News' Brian Cheung takes a look.
 
-NBC News • 9h ago
+NBC News • 11h ago
 
 ---
 
@@ -134,15 +136,15 @@ NBC News • 9h ago
 
 A Chinese factory is producing humanoid robots every 30 minutes, marking a shift toward large-scale manufacturing and broader adoption.
 
-Fox News • 12h ago
+Fox News • 14h ago
 
 ---
 
-**[Do people see robots as having race? New studies clash as humanoids enter the real world](https://www.scientificamerican.com/article/do-people-see-robots-as-having-race-new-studies-clash-as-humanoids-enter-the/)**
+**[Meet ‘Alex’: A Disaster-Response Humanoid Challenging China’s Robotics Rise](https://www.eweek.com/news/ihmc-alex-robot-china-robotics-race/)**
 
-As humanoid robots enter the real world, new studies suggest that people project human racial biases onto them—but the research is divided on whether those biases persist outside the lab and in real-world interactions
+IHMC unveils Alex, a disaster-ready humanoid robot built for high-risk environments, as China accelerates its dominance in global robotics.
 
-Scientific American • 1d ago
+eWeek • 17h ago
 
 ---
 
@@ -150,15 +152,7 @@ Scientific American • 1d ago
 
 This new tech from Australia is coming to America’s senior care facilities.
 
-The Washington Post • 2h ago
-
----
-
-**['Remarkable': Vista School students win robotics competition state championship](https://www.stgeorgeutah.com/news/remarkable-vista-school-students-win-robotics-competition-state-championship/article_20c5d076-c97f-4c23-b137-8d40bf4aed03.html)**
-
-These Southern Utah students now have a big reason to brag after a celebrated performance at a state-level robotics competition.
-
-St. George News • 13h ago
+The Washington Post • 4h ago
 
 ---
 
@@ -170,19 +164,25 @@ Yahoo Finance • 1d ago
 
 ---
 
+**['Remarkable': Vista School students win robotics competition state championship](https://www.stgeorgeutah.com/news/remarkable-vista-school-students-win-robotics-competition-state-championship/article_20c5d076-c97f-4c23-b137-8d40bf4aed03.html)**
+
+These Southern Utah students now have a big reason to brag after a celebrated performance at a state-level robotics competition.
+
+St. George News • 15h ago
+
+---
+
 **[Building the Future of Texas Robotics](https://news.utexas.edu/2026/04/09/building-the-future-of-texas-robotics/)**
 
 Deepu Talla helps bring the future of robotics closer to reality through the Nvidia-Talla Endowment for Texas Robotics.
 
-The University of Texas at Austin • 15h ago
+The University of Texas at Austin • 17h ago
 
 ---
 
-**[Xiaomi: Smartphone Cost Pressures Persist, But Robotics And Agentic AI Could Drive Long-Term Upside](https://seekingalpha.com/article/4889360-xiaomi-smartphone-cost-pressures-persist-but-robotics-and-agentic-ai-could-drive-long-term-upside)**
+**[Electrofluidic fiber muscles could enable silent robotic systems](https://techxplore.com/news/2026-04-electrofluidic-fiber-muscles-enable-silent.html)**
 
-Xiaomi transitioning from smartphones to EV, physical robotics, and other AI initiatives can impact near-term revenue. Learn why XIACY stock is a strong buy.
-
-Seeking Alpha • 1d ago
+Tech Xplore • 13h ago
 
 ---
 
@@ -196,7 +196,7 @@ Could AI become dangerous? Can we trust AI Agents? AGI. Use code insideai at htt
 
 📺 InsideAI
 
-👁️ 175K • 👍 9K • 💬 701 • ⏱️ 16:24 • 12h ago
+👁️ 175K • 👍 9K • 💬 701 • ⏱️ 16:24 • 14h ago
 
 ---
 
@@ -216,7 +216,7 @@ South Korea is building robots you've only seen in movies, from giant walking ma
 
 📺 DeCode
 
-👁️ 26K • 👍 499 • 💬 33 • ⏱️ 14:45 • 15h ago
+👁️ 26K • 👍 499 • 💬 33 • ⏱️ 14:45 • 17h ago
 
 ---
 
