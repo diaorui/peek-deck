@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-10T07:53:37.865707+00:00'
+updated: '2026-04-10T09:11:34.317761+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 10, 2026 at 07:53 UTC  
+**Last Updated:** April 10, 2026 at 09:11 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,43 +36,51 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,182.55
+### $2,187.45
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.3%  
-**7d:** +5.6%  
-**30d:** +5.1%  
-**90d:** -30.3%  
-**1y:** +38.9%  
+**24h:** -0.2%  
+**7d:** +6.0%  
+**30d:** +5.5%  
+**90d:** -30.0%  
+**1y:** +39.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $265.12B
+**Market Cap:** $264.14B
 Rank #2
 
 **Circulating Supply:** 120,691,092 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--55.6%
+-55.8%
 
 **All-Time Low:** $0.43
-+507224.8%
++505049.2%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[Highlights from the All Core Developers Execution (ACDE) Call #234](https://www.reddit.com/r/ethereum/comments/1shgin6/highlights_from_the_all_core_developers_execution/)**
+
+Ethereum developers align on Glamsterdam devnet progress, Hegota Account Abstraction direction, & key execution layer upgrades shaping the roadmap.
+
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-234/) • 49m ago
+
+---
+
 **[Staking](https://www.reddit.com/r/ethereum/comments/1sh5tfk/staking/)**
 
 How does staking work? I staked ~0.1 eth through Exodus (they use Everstake) about 64 days ago. Eth validator queue is currently ~52 days. I was told I’d need to wait 1-5 days for it to pool on top of the validator time. It’s now approaching >1 week since the “expected” time to finish staking and start earning rewards, but it still shows staking. Is there a way to check how long I have to wait or know what happened?  [comments]
 
-8h ago
+9h ago
 
 ---
 
@@ -96,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The Ethereum Layer 2 powering Predictstreet. Built by Abu Dhabi's IHC, hosting a UAE central-bank-licensed stablecoin, with BlackRock and Mastercard as collaborators.
 
-🔗 [Company Gibraltar | company.gi](https://company.gi/blog/adi-chain-explained) • 22h ago
+🔗 [Company Gibraltar | company.gi](https://company.gi/blog/adi-chain-explained) • 23h ago
 
 ---
 
@@ -140,14 +148,6 @@ A simple question for the community. I was recently asked for me public key (to 
 
 ---
 
-**[Daily General Discussion April 06, 2026](https://www.reddit.com/r/ethereum/comments/1sdpizv/daily_general_discussion_april_06_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-4d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -156,29 +156,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 TD Cowen remains positive on $55 billion Bitcoin treasury pioneer Strategy, despite trimming its price target yet again.
 
-Decrypt • 9h ago
+Decrypt • 11h ago
 
 ---
 
-**[Tom Lee's BitMine Uplisted to NYSE as Ethereum Firm Expands Buyback Program to $4 Billion](https://finance.yahoo.com/markets/stocks/articles/tom-lees-bitmine-uplisted-nyse-155826429.html)**
+**[$2.2 Billion in Crypto Options Expire Today as a Hidden Ethereum Signal Resurfaces](https://finance.yahoo.com/markets/crypto/articles/2-2-billion-crypto-options-075922503.html)**
 
-Ethereum treasury giant BitMine Immersion Technologies upped its share buyback program to $4 billion and was uplisted to the NYSE on Thursday.
+Over $2.2B in Bitcoin and Ethereum options expire today as ETH derivatives flash a rare bullish signal not seen since 2023.
 
-Yahoo Finance • 15h ago
-
----
-
-**[Most large cryptocurrencies fall as Ethereum tumbles](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-as-ethereum-tumbles-91a2f421-9307bc266dcb)**
-
-MarketWatch • 17h ago
-
----
-
-**[Ethereum (ETH) Price Prediction 2026: Expert Forecasts and Analysis](https://www.coingecko.com/learn/ethereum-eth-price-predictions-expert-forecasts)**
-
-Will Ethereum reach $5,000 in 2026? Citi targets $3,175 while Standard Chartered forecasts $7,500. Explore the key drivers behind the predictions.
-
-CoinGecko • 22h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -190,9 +176,23 @@ The Block • 1d ago
 
 ---
 
-**[Is $3K Back on the Table as Ethereum (ETH) Flashes Recovery Signal Not Seen in 3 Years?](https://www.ccn.com/analysis/crypto/ethereum-eth-flashes-recovery-signal-not-seen-in-3-years/)**
+**[Most large cryptocurrencies fall as Ethereum tumbles](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-as-ethereum-tumbles-91a2f421-9307bc266dcb)**
 
-CCN.com • 16m ago
+MarketWatch • 19h ago
+
+---
+
+**[Bitmine Stock Plugs Into a New Power Source as Ethereum Holdings Hits Record Highs; BMNR Up 15%](https://www.tipranks.com/news/bitmine-stock-plugs-into-a-new-power-source-as-ethereum-holdings-hit-record-highs-bmnr-up-15)**
+
+TipRanks • 22h ago
+
+---
+
+**[Ethereum (ETH) Price Prediction 2026: Expert Forecasts and Analysis](https://www.coingecko.com/learn/ethereum-eth-price-predictions-expert-forecasts)**
+
+Will Ethereum reach $5,000 in 2026? Citi targets $3,175 while Standard Chartered forecasts $7,500. Explore the key drivers behind the predictions.
+
+CoinGecko • 23h ago
 
 ---
 
@@ -200,13 +200,13 @@ CCN.com • 16m ago
 
 Cryptocurrencies haven't found steady momentum for a rally during major market swings.
 
-Seeking Alpha • 3h ago
+Seeking Alpha • 4h ago
 
 ---
 
-**[Bitmine Stock Plugs Into a New Power Source as Ethereum Holdings Hits Record Highs; BMNR Up 15%](https://www.tipranks.com/news/bitmine-stock-plugs-into-a-new-power-source-as-ethereum-holdings-hit-record-highs-bmnr-up-15)**
+**[Is $3K Back on the Table as Ethereum (ETH) Flashes Recovery Signal Not Seen in 3 Years?](https://www.ccn.com/analysis/crypto/ethereum-eth-flashes-recovery-signal-not-seen-in-3-years/)**
 
-TipRanks • 20h ago
+CCN.com • 1h ago
 
 ---
 
@@ -218,11 +218,11 @@ Bit Digital • 2d ago
 
 ---
 
-**[What price will Ethereum hit on April 9? Trading Odds & Predictions](https://polymarket.com/event/what-price-will-ethereum-hit-on-april-9)**
+**[ETH Up or Down - 5 Minutes](https://polymarket.com/event/eth-updown-5m-1775761800)**
 
-$237,631 has traded on "What price will Ethereum hit on April 9?" as of April 10, 2026. View real-time odds or trade on The World's Largest Prediction Market...
+Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Polymarket • 1d ago
+Polymarket • 3d ago
 
 ---
 
@@ -236,17 +236,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 12K • 👍 391 • 💬 42 • ⏱️ 20:08 • 1d ago
-
----
-
-**[Ethereum: This Might Be a Fake Move](https://www.youtube.com/watch?v=QpgmpJLh7Fs)**
-
-In this video, I take a closer look at the current Ethereum market structure and explain why the recent move higher does not ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 183 • 💬 18 • ⏱️ 10:05 • 13h ago
+👁️ 12K • 👍 401 • 💬 42 • ⏱️ 20:08 • 1d ago
 
 ---
 
@@ -256,7 +246,17 @@ BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 3K • 👍 197 • 💬 16 • ⏱️ 22:51 • 6h ago
+👁️ 5K • 👍 243 • 💬 201 • ⏱️ 22:51 • 8h ago
+
+---
+
+**[Ethereum: This Might Be a Fake Move](https://www.youtube.com/watch?v=QpgmpJLh7Fs)**
+
+In this video, I take a closer look at the current Ethereum market structure and explain why the recent move higher does not ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 191 • 💬 19 • ⏱️ 10:05 • 14h ago
 
 ---
 
@@ -266,17 +266,17 @@ In this video, we explain what an XRP node is, why node operation has recently g
 
 📺 Discover Health
 
-👁️ 7K • 👍 193 • ⏱️ 4:44 • 19h ago
+👁️ 8K • 👍 194 • ⏱️ 4:44 • 20h ago
 
 ---
 
-**[Ethereum: Die 1-BILLION-Dollar-Prognose!](https://www.youtube.com/watch?v=nBTNxDwz6mc)**
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=PxBu599B1yk)**
 
-Jetzt gratis sichern → https://www.blockchain-investor.de/app Die neue „Blockchain-Investor“-App – mit exklusiven ...
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
 
-📺 Krypto Report
+📺 Crypto Gyan
 
-👁️ 5K • 👍 470 • 💬 22 • ⏱️ 18:19 • 15h ago
+👁️ 404 • 👍 54 • 💬 2 • ⏱️ 4:58 • 2h ago
 
 ---
 
@@ -286,7 +286,17 @@ Ethereum está pasando por uno de los momentos más complicados de todo este cic
 
 📺 Healthy Pockets
 
-👁️ 8K • 👍 617 • 💬 97 • ⏱️ 14:46 • 17h ago
+👁️ 9K • 👍 663 • 💬 102 • ⏱️ 14:46 • 18h ago
+
+---
+
+**[Ethereum: Die 1-BILLION-Dollar-Prognose!](https://www.youtube.com/watch?v=nBTNxDwz6mc)**
+
+Jetzt gratis sichern → https://www.blockchain-investor.de/app Die neue „Blockchain-Investor“-App – mit exklusiven ...
+
+📺 Krypto Report
+
+👁️ 6K • 👍 526 • 💬 9 • ⏱️ 18:19 • 16h ago
 
 ---
 
@@ -296,7 +306,7 @@ A major firm just bought 71000 ETH, signaling confidence that the bottom is in. 
 
 📺 CoinBros
 
-👁️ 509 • 👍 1 • ⏱️ 0:19 • 9h ago
+👁️ 539 • 👍 1 • ⏱️ 0:19 • 10h ago
 
 ---
 
@@ -306,27 +316,17 @@ invested in crypto — who wins? Watch the insane volatility of BTC, ETH, and SO
 
 📺 Data Insights
 
-👁️ 2K • 👍 24 • ⏱️ 0:41 • 13h ago
+👁️ 2K • 👍 28 • ⏱️ 0:41 • 15h ago
 
 ---
 
-**[Ethereum is Gaining on Bitcoin, Will it Last?](https://www.youtube.com/watch?v=HTCYyvRbK4g)**
+**[Bitcoin and Ethereum Breakout: Key Levels to Trade XRP, HYPE, ALGO](https://www.youtube.com/watch?v=2UgSK-j9Ac0)**
 
-ethereum #bitcoin #pulsechain **NOT INVESTMENT OR FINANCIAL ADVICE. ENTERTAINMENT PURPOSES ONLY** PULSE ...
+Welcome to Pro Charts: Crypto on the Verified Pro Traders channel. Today, Drew Dosek breaks down the BTC and ETH crypto ...
 
-📺 Creed Of Crypto 🛐
+📺 Verified Pro Traders
 
-👁️ 92 • 👍 11 • 💬 11 • ⏱️ 11:45 • 13h ago
-
----
-
-**[Why ETH Could Beat BTC](https://www.youtube.com/watch?v=H9s4zC8NaDw)**
-
-Could Ethereum take the number one spot if Bitcoin fumbles the quantum transition? Nic Carter: “Yeah, I think that's possible.
-
-📺 Bankless
-
-👁️ 1K • 👍 26 • 💬 69 • ⏱️ 1:02 • 10h ago
+👁️ 3K • 👍 280 • 💬 20 • ⏱️ 12:56 • 15h ago
 
 ---
 

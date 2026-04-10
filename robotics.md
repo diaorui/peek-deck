@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-10T07:53:37.868548+00:00'
+updated: '2026-04-10T09:11:34.320976+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 10, 2026 at 07:53 UTC  
+**Last Updated:** April 10, 2026 at 09:11 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Here is the worlds first man being kicked in the balls by a robot](https://www.reddit.com/r/robotics/comments/1sgved8/here_is_the_worlds_first_man_being_kicked_in_the/)**
 
-14h ago
+16h ago
 
 ---
 
 **[Now they are full grown 😀 (audio with detailed description on the hardware and power supply)](https://www.reddit.com/r/robotics/comments/1sh4kuq/now_they_are_full_grown_audio_with_detailed/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -48,7 +48,7 @@ Robotics research and industry news
 
 From Deepak Pathak on 𝕏 (full video): https://x.com/pathak2206/status/2041939631860482211
 
-20h ago
+21h ago
 
 ---
 
@@ -56,7 +56,7 @@ From Deepak Pathak on 𝕏 (full video): https://x.com/pathak2206/status/2041939
 
 This test demonstrates how to connect a direct Time-of-Flight (dToF) distance sensor to a Raspberry Pi for accurate proximity sensing.The tutorial code will be publicly released on GitHub later.
 
-17h ago
+18h ago
 
 ---
 
@@ -64,7 +64,15 @@ This test demonstrates how to connect a direct Time-of-Flight (dToF) distance se
 
 I've been working on biologically grounded locomotion control using spiking neural networks instead of conventional RL. The system runs on a Freenove Robot Dog Kit (FNK0050) with a Raspberry Pi 4. The approach: train an Izhikevich SNN in MuJoCo simulation using a custom MJCF model of the robot, then transfer the brain to real hardware where it continues learning with IMU feedback (MPU6050). A central pattern generator provides innate gait, and a competence gate gradually hands control to the SNN as it proves stable. Key result: brain persistence works — stop the robot, restart it days later, synaptic weights reload and it walks immediately without relearning. A fresh brain needs 2,000 steps (40s) to reach the same level. Honest limitation: spectral analysis shows the SNN learns conservative dampening rather than faster/better gaits. It makes movements smaller and more regular. Biologically plausible (puppies do this) but not yet performance-improving. Total hardware cost: ~€200 (Pi + kit). 232 neurons, 50Hz control loop, no GPU needed. Demo: https://www.youtube.com/watch?v=7iN8tB2xLHI Code: github.com/MarcHesse/mhflocke (Apache 2.0) Paper: doi.org/10.5281/zenodo.19481146 Happy to discuss the architecture, the sim-to-real challenges, or the conservative dampening finding.
 
-18h ago
+20h ago
+
+---
+
+**[Feedback about my robotic dog design](https://www.reddit.com/r/robotics/comments/1shgl3o/feedback_about_my_robotic_dog_design/)**
+
+https://preview.redd.it/hllt5xajpbug1.png?width=1192&format=png&auto=webp&s=4fe28a28013fa07cacaef79d1512887848f52997 https://preview.redd.it/rb7jug3lpbug1.png?width=1033&format=png&auto=webp&s=7d00c8125c25ca01a5061fdbd2ebbdb8599618d6 https://preview.redd.it/11h2k3wlpbug1.png?width=846&format=png&auto=webp&s=5d07b76e41cb86e68db3807abf5412a3ace1df21 Rate my design 1-10 https://www.tinkercad.com/things/5qwlk5KBEEY-robotic-dogstl
+
+45m ago
 
 ---
 
@@ -72,7 +80,7 @@ I've been working on biologically grounded locomotion control using spiking neur
 
 Scientists at Binghamton University have developed a robot guide dog system that communicates with the visually impaired and provides real-time feedback during travel.
 
-🔗 [The Brighter Side of News](http://thebrighterside.news/post/talking-robot-guide-dog-uses-ai-to-describe-the-world-as-it-leads) • 9h ago
+🔗 [The Brighter Side of News](http://thebrighterside.news/post/talking-robot-guide-dog-uses-ai-to-describe-the-world-as-it-leads) • 10h ago
 
 ---
 
@@ -80,7 +88,7 @@ Scientists at Binghamton University have developed a robot guide dog system that
 
 ReductStore v1.19 introduces Apache 2.0 open-source licensing, a ROS-inspired hierarchical data model with attachments for schemas and metadata, a native Zenoh API for edge communication, and ReductBridge for seamless integration with ROS1 and ROS2.
 
-🔗 [reduct.store](https://www.reduct.store/blog/news/reductstore-v1_19_0-released) • 1h ago
+🔗 [reduct.store](https://www.reduct.store/blog/news/reductstore-v1_19_0-released) • 3h ago
 
 ---
 
@@ -88,7 +96,7 @@ ReductStore v1.19 introduces Apache 2.0 open-source licensing, a ROS-inspired hi
 
 Hi! Where to find people interested in buying electronic parts? (Motor control / voltage regulator and so) I am based in Europe and would be happy to sell those at a low price for someone who will really use it and not store it in a drawer for years. Have a good day
 
-1h ago
+3h ago
 
 ---
 
@@ -100,19 +108,13 @@ What you're watching: 8 virtual Crazyflie quadrotors that learned to take off, h
 
 ---
 
-**[Aigen’s autonomous solar robots identify and remove weeds without herbicides](https://www.reddit.com/r/robotics/comments/1sfylpx/aigens_autonomous_solar_robots_identify_and/)**
-
-1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
 **[National robotics push caught in delayed Trump-Xi meeting](https://www.politico.com/news/2026/04/09/national-robotics-trump-xi-china-00861918)**
 
-Politico • 22h ago
+Politico • 1d ago
 
 ---
 
@@ -128,7 +130,7 @@ IFR International Federation of Robotics • 2d ago
 
 Meet 'Digit', a humanoid robotic worker made by Agility Robotics, now part of a new wave of robots replacing workers at companies like Schaeffler, Toyota, and GXO. NBC News' Brian Cheung takes a look.
 
-NBC News • 11h ago
+NBC News • 12h ago
 
 ---
 
@@ -136,7 +138,7 @@ NBC News • 11h ago
 
 A Chinese factory is producing humanoid robots every 30 minutes, marking a shift toward large-scale manufacturing and broader adoption.
 
-Fox News • 14h ago
+Fox News • 16h ago
 
 ---
 
@@ -144,7 +146,7 @@ Fox News • 14h ago
 
 IHMC unveils Alex, a disaster-ready humanoid robot built for high-risk environments, as China accelerates its dominance in global robotics.
 
-eWeek • 17h ago
+eWeek • 18h ago
 
 ---
 
@@ -152,7 +154,7 @@ eWeek • 17h ago
 
 This new tech from Australia is coming to America’s senior care facilities.
 
-The Washington Post • 4h ago
+The Washington Post • 5h ago
 
 ---
 
@@ -164,11 +166,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**['Remarkable': Vista School students win robotics competition state championship](https://www.stgeorgeutah.com/news/remarkable-vista-school-students-win-robotics-competition-state-championship/article_20c5d076-c97f-4c23-b137-8d40bf4aed03.html)**
+**[Governor's School robotics team makes history, heads to district](https://www.newsleader.com/story/news/education/2026/04/10/governors-school-first-robotics-team-district-championship-petersburg-fishersville/89538052007/)**
 
-These Southern Utah students now have a big reason to brag after a celebrated performance at a state-level robotics competition.
+A robotics team from the Shenandoah Valley Governor's School is headed to Petersburg for a chance to win a district championship.
 
-St. George News • 15h ago
+The News Leader | Staunton, VA • 40m ago
 
 ---
 
@@ -176,13 +178,13 @@ St. George News • 15h ago
 
 Deepu Talla helps bring the future of robotics closer to reality through the Nvidia-Talla Endowment for Texas Robotics.
 
-The University of Texas at Austin • 17h ago
+The University of Texas at Austin • 18h ago
 
 ---
 
 **[Electrofluidic fiber muscles could enable silent robotic systems](https://techxplore.com/news/2026-04-electrofluidic-fiber-muscles-enable-silent.html)**
 
-Tech Xplore • 13h ago
+Tech Xplore • 14h ago
 
 ---
 
@@ -196,27 +198,17 @@ Could AI become dangerous? Can we trust AI Agents? AGI. Use code insideai at htt
 
 📺 InsideAI
 
-👁️ 175K • 👍 9K • 💬 701 • ⏱️ 16:24 • 14h ago
+👁️ 197K • 👍 10K • 💬 757 • ⏱️ 16:24 • 16h ago
 
 ---
 
-**[Streamline Your Packaging with Automated Counting 📦🚀#SupplyChain #Hardware #PackagingSolutions](https://www.youtube.com/watch?v=vWaiYDPeuvA)**
+**[Tesla Optimus Gen 3 FINALLY HERE: $20,000 Robot Works 24/7 — No Salary, No Sleep, No Limits](https://www.youtube.com/watch?v=UTASTLBTRDE)**
 
-Watch these tiny parts dance their way to a perfect count. There is something so satisfying about the way they align on the ...
+Tesla Optimus Gen 3 $20K robot shocks—24/7 worker that could replace jobs fast ✓ All Breaking NEWS: ...
 
-📺 MachineWorks Studio
+📺 Tech Revolution
 
-👁️ 1.1M • 👍 469 • 💬 7 • ⏱️ 0:06 • 1d ago
-
----
-
-**[South Korea Is Building Robots the World Didn’t See Coming!](https://www.youtube.com/watch?v=H09m8a3oL_4)**
-
-South Korea is building robots you've only seen in movies, from giant walking machines to exoskeletons that give people back ...
-
-📺 DeCode
-
-👁️ 26K • 👍 499 • 💬 33 • ⏱️ 14:45 • 17h ago
+👁️ 5K • 👍 162 • 💬 23 • ⏱️ 19:27 • 5d ago
 
 ---
 
@@ -230,13 +222,13 @@ AIR CONDITIONED SHIRTS??: https://octocool.com Generalist AI's GEN-1 embodied fo
 
 ---
 
-**[2026 Ultimate Robot Vacuum and Mop Comparison || Roborock, Eufy, Dreame, Narwal, Ecovacs, MOVA](https://www.youtube.com/watch?v=Pv9_2D_Xc5k)**
+**[South Korea Is Building Robots the World Didn’t See Coming!](https://www.youtube.com/watch?v=H09m8a3oL_4)**
 
-I tested every flagship robotic vacuum and mop from Roborock, Eufy, Dreame, Narwal, Ecovacs, and MOVA available in 2025 to ...
+South Korea is building robots you've only seen in movies, from giant walking machines to exoskeletons that give people back ...
 
-📺 The Hook Up
+📺 DeCode
 
-👁️ 14K • 👍 565 • 💬 119 • ⏱️ 26:12 • 1d ago
+👁️ 29K • 👍 545 • 💬 34 • ⏱️ 14:45 • 19h ago
 
 ---
 
@@ -250,13 +242,23 @@ The world wasn't ready for what 2026 had in store — a wave of humanoid robots 
 
 ---
 
+**[2026 Ultimate Robot Vacuum and Mop Comparison || Roborock, Eufy, Dreame, Narwal, Ecovacs, MOVA](https://www.youtube.com/watch?v=Pv9_2D_Xc5k)**
+
+I tested every flagship robotic vacuum and mop from Roborock, Eufy, Dreame, Narwal, Ecovacs, and MOVA available in 2025 to ...
+
+📺 The Hook Up
+
+👁️ 14K • 👍 575 • 💬 129 • ⏱️ 26:12 • 1d ago
+
+---
+
 **[Are AI soldiers about to take over the battlefield? | DW News](https://www.youtube.com/watch?v=q83LtZza5eA)**
 
 US startup Foundation is developing humanoid robots for military use. The goal is for its Phantom model to identify targets and ...
 
 📺 DW News
 
-👁️ 73K • 👍 550 • 💬 101 • ⏱️ 1:22 • 4d ago
+👁️ 73K • 👍 551 • 💬 101 • ⏱️ 1:22 • 4d ago
 
 ---
 
@@ -264,17 +266,17 @@ US startup Foundation is developing humanoid robots for military use. The goal i
 
 📺 Robot Julie 
 
-👁️ 38K • 👍 380 • ⏱️ 0:22 • 1d ago
+👁️ 44K • 👍 453 • ⏱️ 0:22 • 1d ago
 
 ---
 
-**[Joe Rogan Watches Soldier Test INSANE Robotic Legs 🤖🦿💥 #Shorts](https://www.youtube.com/watch?v=zbopLtVrukQ)**
+**[Essential Things to Know Before Buying a Robot Mower!](https://www.youtube.com/watch?v=lbibuVIo84Y)**
 
-Joe Rogan Watches Soldier Test INSANE Robotic Legs #Shorts This is the future of the battlefield. A soldier straps on ...
+The era of the Robot Mower is here and after 6 months of intensive use I feel I am now in a position to update everyone on both ...
 
-📺 Silent Sentry
+📺 Proper DIY
 
-👁️ 2.5M • 👍 32K • 💬 651 • ⏱️ 0:17 • 6d ago
+👁️ 35K • 👍 2K • 💬 134 • ⏱️ 11:47 • 5d ago
 
 ---
 
@@ -284,7 +286,7 @@ Welch Labs Book: https://www.welchlabs.com/resources/ai-book-ezrzm-msrmc Book & 
 
 📺 Welch Labs
 
-👁️ 99K • 👍 5K • 💬 239 • ⏱️ 35:02 • 5d ago
+👁️ 100K • 👍 5K • 💬 239 • ⏱️ 35:02 • 5d ago
 
 ---
 
