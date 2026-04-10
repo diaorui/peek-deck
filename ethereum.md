@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-10T16:53:07.819072+00:00'
+updated: '2026-04-10T17:49:49.390282+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
 - cryptocurrency
 - news
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 10, 2026 at 16:53 UTC  
+**Last Updated:** April 10, 2026 at 17:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,234.88
+### $2,245.37
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.9%  
-**7d:** +7.8%  
-**30d:** +7.3%  
-**90d:** -28.8%  
-**1y:** +41.8%  
+**24h:** +1.7%  
+**7d:** +8.7%  
+**30d:** +8.2%  
+**90d:** -28.2%  
+**1y:** +43.0%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 So I went back through my wallet history and used a couple of MEV tracking tools to figure out how much value I actually lost to sandwich attacks and front-running over the past 6 months. not gonna share exact numbers but it was enough to make me seriously rethink where and how I trade on-chain. the thing that pissed me off the most wasn't even the big trades. it was the small ones. $200-500 swaps getting sandwiched for a few bucks each time. doesn't feel like much in the moment but it adds up fast when you're making multiple trades a week. what I learned: AMMs are basically open season for MEV bots. your trade hits the mempool and you're cooked private RPCs like flashbots protect help but they're not a complete solution. you're still trusting the builder not to screw you intent-based systems (cow swap etc) are better but they introduce solver trust assumptions and don't work for everything the only architecture where MEV extraction is structurally impossible is one where transaction ordering is provable and verifiable. not hidden, not trusted, but mathematically proven to be fair honestly the biggest takeaway is that most people have no idea how much they're losing. the "invisible tax" framing is accurate. you never see a line item that says "MEV bot took $4.50 from this trade" but it's happening on basically every swap. anyone else tracked their MEV losses? curious what numbers people are seeing. also curious if anyone has found a setup that actually eliminates it, not just reduces it.
 
-6h ago
+7h ago
 
 ---
 
@@ -80,7 +80,7 @@ So I went back through my wallet history and used a couple of MEV tracking tools
 
 Roman Storm acquittal hearing, ETHGlobal Cannes hackathon finalists, EVM Now block explorer
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-19/) • 2h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-19/) • 3h ago
 
 ---
 
@@ -88,7 +88,7 @@ Roman Storm acquittal hearing, ETHGlobal Cannes hackathon finalists, EVM Now blo
 
 Ethereum developers align on Glamsterdam devnet progress, Hegota Account Abstraction direction, & key execution layer upgrades shaping the roadmap.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-234/) • 8h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-234/) • 9h ago
 
 ---
 
@@ -96,7 +96,7 @@ Ethereum developers align on Glamsterdam devnet progress, Hegota Account Abstrac
 
 How does staking work? I staked ~0.1 eth through Exodus (they use Everstake) about 64 days ago. Eth validator queue is currently ~52 days. I was told I’d need to wait 1-5 days for it to pool on top of the validator time. It’s now approaching >1 week since the “expected” time to finish staking and start earning rewards, but it still shows staking. Is there a way to check how long I have to wait or know what happened?  [comments]
 
-17h ago
+18h ago
 
 ---
 
@@ -156,15 +156,37 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 TD Cowen remains positive on $55 billion Bitcoin treasury pioneer Strategy, despite trimming its price target yet again.
 
-Decrypt • 18h ago
+Decrypt • 19h ago
 
 ---
 
-**[Bitcoin and ethereum price today, Thursday, April 9, 2026: Crypto rally slows as ceasefire wavers](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-thursday-april-9-2026-crypto-rally-slows-as-ceasefire-wavers-112457545.html)**
+**[Checkpoint #9: Apr 2026](https://blog.ethereum.org/2026/04/10/checkpoint-9)**
 
-Bitcoin and ethereum opened at $71,093.76 and $2,189.73, respectively, amid reports of continued fighting and disagreement over Iran’s control of the Strait of Hormuz. Both cryptos rose in early trading.
+Ethereum Foundation Blog • 1h ago
 
-Yahoo Finance • 1d ago
+---
+
+**[Ethereum staking ratio hits record high at 30%](https://finance.yahoo.com/markets/crypto/articles/ethereum-staking-ratio-hits-record-172237117.html)**
+
+Ethereum's (ETH) staking ratio has surpassed 30% to hit an all-time high (ATH), Token Terminal highlighted on Apr. 9. While the Ethereum network's staking market cap hit a record high of $157 billion on Aug. 11, 2025, the figure currently stands at $84.8 billion. Launched in 2015, Ethereum is one ...
+
+Yahoo Finance • 27m ago
+
+---
+
+**[Mantle Becomes One of the First Ethereum L2s to Bring Tokenized Equities to On-Chain Liquidity with xStocks and Bybit](https://www.tradingview.com/news/chainwire:4cf015f8b094b:0-mantle-becomes-one-of-the-first-ethereum-l2s-to-bring-tokenized-equities-to-on-chain-liquidity-with-xstocks-and-bybit/)**
+
+DUBAI, UAE, April 10, 2026 /PRNewswire/ -- Mantle, the high-performance distribution layer for real-world assets (RWAs), connecting traditional finance and on-chain liquidity, and Bybit, the world's leading global cryptocurrency exchange, today announced the live integration of xStocks on Mantle. I…
+
+TradingView • 2h ago
+
+---
+
+**[Why is Crypto Rallying Today: Price Targets For Bitcoin, Ethereum and XRP](https://coinpedia.org/news/why-is-crypto-rallying-price-targets-for-bitcoin-ethereum-and-xrp/)**
+
+The crypto market has rebounded, with Bitcoin rising 10% over the last eight days and Ethereum up 12% in the same period. The total market cap is now up
+
+Coinpedia Fintech News • 2h ago
 
 ---
 
@@ -182,11 +204,11 @@ Barron's • 1d ago
 
 ---
 
-**[Current price of Ethereum for April 10, 2026](https://fortune.com/article/price-of-ethereum-04-10-2026/)**
+**[Bitmine Immersion: Market Is Missing The Hybrid Ethereum Model](https://seekingalpha.com/article/4889757-bitmine-immersion-market-is-missing-the-hybrid-ethereum-model)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+Bitmine Immersion's hybrid model combines large-scale ETH holdings, with MAVAN projected to generate $300 million annually. Learn why BMNR stock is a strong buy.
 
-Fortune • 3h ago
+Seeking Alpha • 7h ago
 
 ---
 
@@ -196,31 +218,9 @@ MarketWatch • 1d ago
 
 ---
 
-**[Bitmine Immersion: Market Is Missing The Hybrid Ethereum Model](https://seekingalpha.com/article/4889757-bitmine-immersion-market-is-missing-the-hybrid-ethereum-model)**
-
-Bitmine Immersion's hybrid model combines large-scale ETH holdings, with MAVAN projected to generate $300 million annually. Learn why BMNR stock is a strong buy.
-
-Seeking Alpha • 6h ago
-
----
-
 **[Will AI Boost Ethereum Price? Marc Andreessen Claims AI Is ‘Killer Crypto App’](https://www.ccn.com/news/crypto/will-ai-boost-ethereum-price-marc-andreessen-claims-ai-is-killer-crypto-app/)**
 
-CCN.com • 5h ago
-
----
-
-**[Ethereum staking ratio hits record high at 30%](https://www.thestreet.com/crypto/markets/ethereum-staking-ratio-hits-record-high-at-30)**
-
-Ethereum still occupies the top spot among staking-based blockchains.
-
-thestreet.com • 2h ago
-
----
-
-**[Bitmine Stock Plugs Into a New Power Source as Ethereum Holdings Hits Record Highs; BMNR Up 15%](https://www.tipranks.com/news/bitmine-stock-plugs-into-a-new-power-source-as-ethereum-holdings-hit-record-highs-bmnr-up-15)**
-
-TipRanks • 1d ago
+CCN.com • 6h ago
 
 ---
 
@@ -244,7 +244,7 @@ In this video we talk about developments in the Ethereum ecosystem, covering bot
 
 📺 Elijah Cheng
 
-👁️ 112 • 👍 9 • 💬 1 • ⏱️ 37:25 • 22m ago
+👁️ 112 • 👍 9 • 💬 1 • ⏱️ 37:25 • 1h ago
 
 ---
 
@@ -254,7 +254,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 102 • 👍 8 • ⏱️ 4:53 • 7h ago
+👁️ 102 • 👍 8 • ⏱️ 4:53 • 8h ago
 
 ---
 
@@ -264,7 +264,7 @@ join my social platforms for updates and analysis ✓Instagram: ...
 
 📺 Aryan trader Live
 
-👁️ 5K • 👍 4K • 2h ago
+👁️ 5K • 👍 4K • 3h ago
 
 ---
 
@@ -284,7 +284,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 359 • 👍 50 • ⏱️ 4:34 • 2h ago
+👁️ 359 • 👍 50 • ⏱️ 4:34 • 3h ago
 
 ---
 
@@ -294,7 +294,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 ✓
 
 📺 Altcoin Daily
 
-👁️ 33K • 👍 2K • 💬 355 • ⏱️ 12:20 • 17h ago
+👁️ 33K • 👍 2K • 💬 355 • ⏱️ 12:20 • 18h ago
 
 ---
 
@@ -304,7 +304,7 @@ The White House released a report that labeled stablecoins as low risk, but seve
 
 📺 Paul Barron Network
 
-👁️ 53K • 👍 3K • 💬 225 • ⏱️ 12:54 • 21h ago
+👁️ 53K • 👍 3K • 💬 225 • ⏱️ 12:54 • 22h ago
 
 ---
 
@@ -314,7 +314,7 @@ CPI just dropped, and it's sending mixed signals across the market. Headline inf
 
 📺 Delta Exchange
 
-👁️ 406 • 👍 46 • 💬 3 • ⏱️ 2:48 • 21m ago
+👁️ 406 • 👍 46 • 💬 3 • ⏱️ 2:48 • 1h ago
 
 ---
 
@@ -324,7 +324,7 @@ BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 6K • 👍 264 • 💬 231 • ⏱️ 22:51 • 15h ago
+👁️ 6K • 👍 264 • 💬 231 • ⏱️ 22:51 • 16h ago
 
 ---
 

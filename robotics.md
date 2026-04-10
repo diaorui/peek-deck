@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-10T16:53:07.822057+00:00'
+updated: '2026-04-10T17:49:49.393132+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 10, 2026 at 16:53 UTC  
+**Last Updated:** April 10, 2026 at 17:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,19 @@ Robotics research and industry news
 
 58 Home partnered with X Square Robot to launch a cleaning service in Shenzhen where a human cleaner shows up with a robot partner. The robot handles structured tasks like wiping surfaces, picking up debris, and tidying, while the human handles everything that requires judgment. What makes this interesting from a technical standpoint: the robot runs on an end-to-end VLA (Vision-Language-Action) model called WALL-A that takes video and language input and outputs motor commands directly with no intermediate planning layer. But the real story isn't the model architecture, it's the deployment strategy. The company frames this as "grass-fed vs grain-fed" training data. Models trained on clean lab data perform well in controlled environments but fall apart in real homes where every apartment has a different layout, random clutter on the floor, pets walking through the workspace, kids' toys in unpredictable places. You can see in this video exactly why that matters: the robot is navigating around a Corgi, working in a room absolutely covered in children's toys, and dealing with narrow doorways in a real Chinese apartment. None of this is a problem you'd encounter in a lab. A few years ago this kind of footage would have been a staged demo. The fact that it's a paying service operating in real apartments suggests robots in everyday homes are closer than most people think.
 
-2h ago
+3h ago
+
+---
+
+**[XSTO introduces a hybrid biped robot that rolls on wheels and jumps over obstacles](https://www.reddit.com/r/robotics/comments/1shskju/xsto_introduces_a_hybrid_biped_robot_that_rolls/)**
+
+44m ago
 
 ---
 
 **[Here is the worlds first man being kicked in the balls by a robot](https://www.reddit.com/r/robotics/comments/1sgved8/here_is_the_worlds_first_man_being_kicked_in_the/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -50,13 +56,7 @@ Robotics research and industry news
 
 We are publishing our first deep dive on what we believe is one of the most challenging layers in egocentric data - SLAM and VIO in the context of long-horizon state tracking. We break down how SLAM and VIO fail in egocentric settings - visual features vanish at close range, depth sensors saturate, fast head motion blurs frames, and these failures don't always occur in isolation. They hit at the exact same moment, leading to compounding errors and making the downstream data unusable. We believe the foundation for high-quality egocentric data demands sub-centimeter precision over long episodes ranging from a few minutes to up to an hour. You can find more at fpv_labs
 
-3h ago
-
----
-
-**[Now they are full grown 😀 (audio with detailed description on the hardware and power supply)](https://www.reddit.com/r/robotics/comments/1sh4kuq/now_they_are_full_grown_audio_with_detailed/)**
-
-18h ago
+4h ago
 
 ---
 
@@ -64,7 +64,19 @@ We are publishing our first deep dive on what we believe is one of the most chal
 
 Been working on a pipeline to automate physics setup for sim-to-real workflows. Given a 3D mesh (.obj/.glb), it: computes geometry (volume, bounding box, watertightness) estimates material + density derives mass, friction, restitution generates domain randomization ranges exports multiple MuJoCo XMLs for different surface/fill conditions Example (ceramic mug): 9 profiles (empty/half/full × clean/worn/contaminated) mass: 0.5 - 2.25 kg friction down to 0.175 (contaminated) DR bounds auto-generated per profile Goal is to remove manual tuning of object physics during sim setup. Curious where this would break in real pipelines or what edge cases I’m missing, especially around non watertight meshes or unusual materials.
 
+2h ago
+
+---
+
+**[Anyone still using Sony IMX291 cameras for low-light industrial setups?](https://www.reddit.com/r/robotics/comments/1shrpmf/anyone_still_using_sony_imx291_cameras_for/)**
+
 1h ago
+
+---
+
+**[Now they are full grown 😀 (audio with detailed description on the hardware and power supply)](https://www.reddit.com/r/robotics/comments/1sh4kuq/now_they_are_full_grown_audio_with_detailed/)**
+
+19h ago
 
 ---
 
@@ -72,7 +84,7 @@ Been working on a pipeline to automate physics setup for sim-to-real workflows. 
 
 You can try it at flomotion.app it took me a few months to build it. For now it's basically free AI. I would appreciate if you could tell me how to make it better and more useful. I learned a lot about robotics while building and testing it.
 
-2h ago
+3h ago
 
 ---
 
@@ -80,7 +92,7 @@ You can try it at flomotion.app it took me a few months to build it. For now it'
 
 https://preview.redd.it/hllt5xajpbug1.png?width=1192&format=png&auto=webp&s=4fe28a28013fa07cacaef79d1512887848f52997 https://preview.redd.it/rb7jug3lpbug1.png?width=1033&format=png&auto=webp&s=7d00c8125c25ca01a5061fdbd2ebbdb8599618d6 https://preview.redd.it/11h2k3wlpbug1.png?width=846&format=png&auto=webp&s=5d07b76e41cb86e68db3807abf5412a3ace1df21 Rate my design 1-10 https://www.tinkercad.com/things/5qwlk5KBEEY-robotic-dogstl
 
-8h ago
+9h ago
 
 ---
 
@@ -88,23 +100,7 @@ https://preview.redd.it/hllt5xajpbug1.png?width=1192&format=png&auto=webp&s=4fe2
 
 Worked on a UR10e install recently for an existing welding cell. Customer described it as “basically the same as the manual,” so we went in expecting a pretty standard setup. Once we were on site, fixture tolerance was around ±2 mm. The new process needed something closer to ±0.5 mm. The initial expectation was that we could calibrate around it. Spent a few hours going back and forth on that before even powering the robot. The variation wasn’t really something calibration could solve — parts weren’t landing consistently in the fixture either, so it wasn’t just a fixed offset. In the end we had to rework part of the fixture before moving forward. Install stretched from 3 days to 9! Turned out the fixture was more of a limiting factor than the robot.
 
-6h ago
-
----
-
-**[A robot that cook eggs by Skild AI](https://www.reddit.com/r/robotics/comments/1sgmwgy/a_robot_that_cook_eggs_by_skild_ai/)**
-
-From Deepak Pathak on 𝕏 (full video): https://x.com/pathak2206/status/2041939631860482211
-
-1d ago
-
----
-
-**[DTOF Camera For Robotics Obstacle Avoidance](https://www.reddit.com/r/robotics/comments/1sgrk75/dtof_camera_for_robotics_obstacle_avoidance/)**
-
-This test demonstrates how to connect a direct Time-of-Flight (dToF) distance sensor to a Raspberry Pi for accurate proximity sensing.The tutorial code will be publicly released on GitHub later.
-
-1d ago
+7h ago
 
 ---
 
@@ -120,19 +116,11 @@ IFR International Federation of Robotics • 2d ago
 
 ---
 
-**[MassRobotics to show and promote ecosystem growth at the 2026 Robotics Summit & Expo](https://www.therobotreport.com/massrobotics-to-show-and-promote-ecosystem-growth-at-the-2026-robotics-summit-expo/)**
-
-MassRobotics will spotlight resident, physical AI, and healthcare startups, as well as women in robotics and university teams at the 2026 Robotics Summit.
-
-The Robot Report • 2h ago
-
----
-
 **[Opinion | Meet Abi, the AI-powered robot companion for senior care](https://www.washingtonpost.com/opinions/2026/04/09/ai-robot-senior-care-abi/)**
 
 This new tech from Australia is coming to America’s senior care facilities.
 
-The Washington Post • 13h ago
+The Washington Post • 14h ago
 
 ---
 
@@ -146,7 +134,7 @@ Politico • 1d ago
 
 Meet 'Digit', a humanoid robotic worker made by Agility Robotics, now part of a new wave of robots replacing workers at companies like Schaeffler, Toyota, and GXO. NBC News' Brian Cheung takes a look.
 
-NBC News • 20h ago
+NBC News • 21h ago
 
 ---
 
@@ -154,7 +142,7 @@ NBC News • 20h ago
 
 A Chinese factory is producing humanoid robots every 30 minutes, marking a shift toward large-scale manufacturing and broader adoption.
 
-Fox News • 23h ago
+Fox News • 1d ago
 
 ---
 
@@ -166,11 +154,25 @@ eWeek • 1d ago
 
 ---
 
+**['Remarkable': Vista School students win robotics competition state championship](https://www.stgeorgeutah.com/news/remarkable-vista-school-students-win-robotics-competition-state-championship/article_20c5d076-c97f-4c23-b137-8d40bf4aed03.html)**
+
+These Southern Utah students now have a big reason to brag after a celebrated performance at a state-level robotics competition.
+
+St. George News • 1d ago
+
+---
+
 **[Ukrainian drones in Germany: how Frontline Robotics has become Ukraine's first exporter of military technolog](https://www.pravda.com.ua/eng/articles/2026/04/10/8029597/)**
 
 "This project is like a wedding after which the couple moves into the parents' house. Because there are two businesses, but also two states that have to reach an agreement with each other."
 
-Українська правда • 6h ago
+Українська правда • 7h ago
+
+---
+
+**[Electrofluidic fiber muscles could enable silent robotic systems](https://techxplore.com/news/2026-04-electrofluidic-fiber-muscles-enable-silent.html)**
+
+Tech Xplore • 23h ago
 
 ---
 
@@ -179,14 +181,6 @@ eWeek • 1d ago
 Serve Robotics Inc. recently unveiled “Maggie,” its first AI-powered conversational robot, at NVIDIA GTC 2026, showcasing real-time human interaction enabled by T-Mobile’s 5G Advanced and edge computing network. This marks Serve’s move to embed more human-centric AI into its sidewalk delivery ecosystem, broadening how its robots can safely and intelligently operate in everyday urban settings. We’ll now explore how Maggie’s 5G-enabled conversational capabilities could influence Serve...
 
 Yahoo Finance • 1d ago
-
----
-
-**[Building the Future of Texas Robotics](https://news.utexas.edu/2026/04/09/building-the-future-of-texas-robotics/)**
-
-Deepu Talla helps bring the future of robotics closer to reality through the Nvidia-Talla Endowment for Texas Robotics.
-
-The University of Texas at Austin • 1d ago
 
 ---
 
@@ -200,7 +194,7 @@ Could AI become dangerous? Can we trust AI Agents? AGI. Use code insideai at htt
 
 📺 InsideAI
 
-👁️ 234K • 👍 11K • 💬 922 • ⏱️ 16:24 • 23h ago
+👁️ 234K • 👍 11K • 💬 922 • ⏱️ 16:24 • 1d ago
 
 ---
 
@@ -250,7 +244,7 @@ I tested every flagship robotic vacuum and mop from Roborock, Eufy, Dreame, Narw
 
 📺 The Hook Up
 
-👁️ 16K • 👍 595 • 💬 144 • ⏱️ 26:12 • 1d ago
+👁️ 16K • 👍 595 • 💬 144 • ⏱️ 26:12 • 2d ago
 
 ---
 
@@ -268,7 +262,7 @@ Welch Labs Book: https://www.welchlabs.com/resources/ai-book-ezrzm-msrmc Book & 
 
 📺 Welch Labs
 
-👁️ 101K • 👍 5K • 💬 239 • ⏱️ 35:02 • 5d ago
+👁️ 101K • 👍 5K • 💬 239 • ⏱️ 35:02 • 6d ago
 
 ---
 
@@ -278,7 +272,7 @@ Joe Rogan Watches Soldier Test INSANE Robotic Legs #Shorts This is the future of
 
 📺 Silent Sentry
 
-👁️ 2.7M • 👍 33K • 💬 678 • ⏱️ 0:17 • 6d ago
+👁️ 2.7M • 👍 33K • 💬 678 • ⏱️ 0:17 • 7d ago
 
 ---
 
