@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-10T18:56:04.699466+00:00'
+updated: '2026-04-10T19:45:43.228017+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- news
 - social
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 10, 2026 at 18:56 UTC  
+**Last Updated:** April 10, 2026 at 19:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 So I went back through my wallet history and used a couple of MEV tracking tools to figure out how much value I actually lost to sandwich attacks and front-running over the past 6 months. not gonna share exact numbers but it was enough to make me seriously rethink where and how I trade on-chain. the thing that pissed me off the most wasn't even the big trades. it was the small ones. $200-500 swaps getting sandwiched for a few bucks each time. doesn't feel like much in the moment but it adds up fast when you're making multiple trades a week. what I learned: AMMs are basically open season for MEV bots. your trade hits the mempool and you're cooked private RPCs like flashbots protect help but they're not a complete solution. you're still trusting the builder not to screw you intent-based systems (cow swap etc) are better but they introduce solver trust assumptions and don't work for everything the only architecture where MEV extraction is structurally impossible is one where transaction ordering is provable and verifiable. not hidden, not trusted, but mathematically proven to be fair honestly the biggest takeaway is that most people have no idea how much they're losing. the "invisible tax" framing is accurate. you never see a line item that says "MEV bot took $4.50 from this trade" but it's happening on basically every swap. anyone else tracked their MEV losses? curious what numbers people are seeing. also curious if anyone has found a setup that actually eliminates it, not just reduces it.
 
-8h ago
+9h ago
 
 ---
 
@@ -80,7 +80,7 @@ So I went back through my wallet history and used a couple of MEV tracking tools
 
 Roman Storm acquittal hearing, ETHGlobal Cannes hackathon finalists, EVM Now block explorer
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-19/) • 4h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-19/) • 5h ago
 
 ---
 
@@ -88,7 +88,7 @@ Roman Storm acquittal hearing, ETHGlobal Cannes hackathon finalists, EVM Now blo
 
 Ethereum developers align on Glamsterdam devnet progress, Hegota Account Abstraction direction, & key execution layer upgrades shaping the roadmap.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-234/) • 10h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-234/) • 11h ago
 
 ---
 
@@ -96,7 +96,7 @@ Ethereum developers align on Glamsterdam devnet progress, Hegota Account Abstrac
 
 How does staking work? I staked ~0.1 eth through Exodus (they use Everstake) about 64 days ago. Eth validator queue is currently ~52 days. I was told I’d need to wait 1-5 days for it to pool on top of the validator time. It’s now approaching >1 week since the “expected” time to finish staking and start earning rewards, but it still shows staking. Is there a way to check how long I have to wait or know what happened?  [comments]
 
-19h ago
+20h ago
 
 ---
 
@@ -156,13 +156,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 TD Cowen remains positive on $55 billion Bitcoin treasury pioneer Strategy, despite trimming its price target yet again.
 
-Decrypt • 20h ago
+Decrypt • 21h ago
 
 ---
 
 **[Checkpoint #9: Apr 2026](https://blog.ethereum.org/2026/04/10/checkpoint-9)**
 
-Ethereum Foundation Blog • 2h ago
+Ethereum Foundation Blog • 3h ago
 
 ---
 
@@ -170,7 +170,7 @@ Ethereum Foundation Blog • 2h ago
 
 Ethereum's (ETH) staking ratio has surpassed 30% to hit an all-time high (ATH), Token Terminal highlighted on Apr. 9. While the Ethereum network's staking market cap hit a record high of $157 billion on Aug. 11, 2025, the figure currently stands at $84.8 billion. Launched in 2015, Ethereum is one ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -178,7 +178,7 @@ Yahoo Finance • 1h ago
 
 Ethereum's thought leaders have turned on layer 2s like Arbitrum. They're now focused on scaling the Ethereum mainnet. Co-founder of Arbitrum creator Offchain Labs explains why he still sees a bright future ahead.
 
-dlnews.com • 3h ago
+dlnews.com • 4h ago
 
 ---
 
@@ -192,7 +192,7 @@ MarketWatch • 1d ago
 
 The crypto market has rebounded, with Bitcoin rising 10% over the last eight days and Ethereum up 12% in the same period. The total market cap is now up
 
-Coinpedia Fintech News • 3h ago
+Coinpedia Fintech News • 4h ago
 
 ---
 
@@ -214,7 +214,7 @@ Barron's • 1d ago
 
 Bitmine Immersion's hybrid model combines large-scale ETH holdings, with MAVAN projected to generate $300 million annually. Learn why BMNR stock is a strong buy.
 
-Seeking Alpha • 8h ago
+Seeking Alpha • 9h ago
 
 ---
 
@@ -222,7 +222,7 @@ Seeking Alpha • 8h ago
 
 Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Polymarket • 22h ago
+Polymarket • 23h ago
 
 ---
 
@@ -256,7 +256,7 @@ I ranked all top 100 altcoins against Bitcoin using 5 years of ALT/BTC ratio dat
 
 📺 VirtualBacon
 
-👁️ 2K • 👍 83 • 2h ago
+👁️ 2K • 👍 83 • 3h ago
 
 ---
 
@@ -266,7 +266,7 @@ Earth's top Ethereum buyer just acquired 71000 ETH, signaling a potential market
 
 📺 CoinBros
 
-👁️ 672 • ⏱️ 0:33 • 20h ago
+👁️ 672 • ⏱️ 0:33 • 21h ago
 
 ---
 
@@ -286,7 +286,7 @@ join my social platforms for updates and analysis ✓Instagram: ...
 
 📺 Aryan trader Live
 
-👁️ 18K • 👍 5K • 💬 4 • ⏱️ 1:56:18 • 1h ago
+👁️ 18K • 👍 5K • 💬 4 • ⏱️ 1:56:18 • 2h ago
 
 ---
 
@@ -326,7 +326,7 @@ Explodieren diese Altcoins jetzt? In diesem Video analysiere ich die aktuelle Ma
 
 📺 Trading2Go
 
-👁️ 198 • 👍 54 • 💬 8 • ⏱️ 13:38 • 3h ago
+👁️ 198 • 👍 54 • 💬 8 • ⏱️ 13:38 • 4h ago
 
 ---
 

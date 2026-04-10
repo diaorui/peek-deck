@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-10T18:56:04.685200+00:00'
+updated: '2026-04-10T19:45:43.214963+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
 - videos
 - social
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 10, 2026 at 18:56 UTC  
+**Last Updated:** April 10, 2026 at 19:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 A California man, who has filed multiple lawsuits against major university systems over his son's college rejections, says artificial intelligence has become the key to pursuing the cases after no law firm agreed to represent them.
 
-🔗 [ABC7 Los Angeles](https://abc7.com/story/google-engineer-rejected-16-colleges-uses-ai-sue-universities-racial-discrimination/18861654/) • 4h ago
+🔗 [ABC7 Los Angeles](https://abc7.com/story/google-engineer-rejected-16-colleges-uses-ai-sue-universities-racial-discrimination/18861654/) • 5h ago
 
 ---
 
@@ -49,7 +49,7 @@ A California man, who has filed multiple lawsuits against major university syste
 
 I have two at the top of my mind: When it can read musical notes. I will be mildly impressed when I can paste in a picture of musical notes and with programming sets up instruments needed to play music, and then correctly plays the song it reads from the notes. My jaw will drop when finally with a simple prompt an AI can create a classic arcade style fully functioning and fun to play Pinball game. Each new version of models that become available I give that one a go. None have been even remotely close to achieving this goal. So what are your visions for what will impress you to some extent when an AI can make it for you?
 
-9h ago
+10h ago
 
 ---
 
@@ -57,7 +57,7 @@ I have two at the top of my mind: When it can read musical notes. I will be mild
 
 I have been seeing a lot of people claiming how good Gemma 4 31B model is. I know when compared to the size of models like sonnet which is guessed to be a 1.5T model, the size of Gemma 31b is very small. but people keep claiming Gemma is soo good for coding and day to day tasks.
 
-14h ago
+15h ago
 
 ---
 
@@ -73,7 +73,7 @@ How well can AI-derived synthetic research data replicate the responses of human
 
 The ChatGPT-maker testified in favor of an Illinois bill that would limit when AI labs can be held liable—even in cases where their products cause “critical harm.”
 
-🔗 [WIRED](https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/) • 13h ago
+🔗 [WIRED](https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/) • 14h ago
 
 ---
 
@@ -81,7 +81,7 @@ The ChatGPT-maker testified in favor of an Illinois bill that would limit when A
 
 A few days ago, Andrej Karpathy’s post on "LLM Knowledge Bases" went viral. He proposed a shift from manipulating code to manipulating knowledge-using LLMs to incrementally compile raw data into a structured, interlinked graph of markdown files. I loved the idea and started testing it out. It worked incredibly well, and I decided this was how I wanted to store all my research moving forward. But the friction was killing me. My primary device is my phone, and every time I found a great article or paper, I had to wait until I was at my laptop, copy the link over, and run a mess of scripts just to ingest one thing. I wanted the "Knowledge wiki" in my pocket. 🎒 I’m not a TypeScript developer, but I decided to "vibecode" the entire solution into a native app using Tauri v2 and LangGraph.js. After a lot of back-and-forth debugging and iteration, I’ve released LLM Wiki. How it works with different sources: The app is built to be a universal "knowledge funnel." I’ve integrated specialized extractors for different media: * PDFs: It uses a local worker to parse academic papers and reports directly on-device. * Web Articles: I’ve integrated Mozilla’s Readability engine to strip the "noise" from URLs, giving the LLM clean markdown to analyze. * YouTube: It fetches transcripts directly from the URL. You can literally shared a 40-minute deep-dive video from the YouTube app into LLM Wiki, and it will automatically document the key concepts and entities into your graph while you're still watching. The "Agentic" Core: Under the hood, it’s powered by two main LangGraph agents. The Ingest Agent handles the heavy lifting of planning which pages to create or update to avoid duplication. The Lint Agent is your automated editor—it scans for broken links, "orphan" pages that aren't linked to anything, and factual contradictions between different sources, suggesting fixes for you to approve. Check it out (Open Source): The app is fully open-source and brings-your-own-key (OpenAI, Anthropic, Google, or any custom endpoint). Since I vibecoded this without prior TS experience, there will definitely be some bugs, but it’s been incredibly stable for my own use cases. GitHub (APK and EXE in the Releases): https://github.com/Kellysmoky123/LlmWiki If you find any issues or want to help refine the agents, please open an issue or a PR. I'd love to see where we can take this "compiled knowledge" idea!
 
-2h ago
+3h ago
 
 ---
 
@@ -89,13 +89,13 @@ A few days ago, Andrej Karpathy’s post on "LLM Knowledge Bases" went viral. He
 
 I am considering to buy a paid version (permium) of an Ai tool. I feel like Chatgpt is very general. Can u guys recommad me an ai which is better than chatgpt or gemini for studies . I want to use it for like a guide of A level. Thank you!
 
-6h ago
+7h ago
 
 ---
 
 **[CIA is trusting AI to help analyze intel from human spies](https://www.reddit.com/r/artificial/comments/1shimak/cia_is_trusting_ai_to_help_analyze_intel_from/)**
 
-🔗 [politico.com](https://www.politico.com/news/2026/04/09/cia-ai-intelligence-analysis-00865893) • 8h ago
+🔗 [politico.com](https://www.politico.com/news/2026/04/09/cia-ai-intelligence-analysis-00865893) • 9h ago
 
 ---
 
@@ -111,7 +111,7 @@ I am considering to buy a paid version (permium) of an Ai tool. I feel like Chat
 
 "This feature is now rolling out globally to all Gemini app users... select the Pro model..."
 
-🔗 [Google](https://blog.google/innovation-and-ai/products/gemini-app/3d-models-charts/) • 5h ago
+🔗 [Google](https://blog.google/innovation-and-ai/products/gemini-app/3d-models-charts/) • 6h ago
 
 ---
 
@@ -123,7 +123,7 @@ I am considering to buy a paid version (permium) of an Ai tool. I feel like Chat
 
 A new initiative to secure the world’s most critical software and give defenders a durable advantage in the coming AI-driven era of cybersecurity.
 
-Anthropic • 6m ago
+Anthropic • 55m ago
 
 ---
 
@@ -131,13 +131,13 @@ Anthropic • 6m ago
 
 Claude Mythos’s apparent superhuman hacking abilities are alarming experts as the Trump administration remains blinded by hostility
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
 **[You Can’t Use This A.I.](https://www.nytimes.com/2026/04/10/briefing/claude-mythos-preview.html)**
 
-The New York Times • 7h ago
+The New York Times • 8h ago
 
 ---
 
@@ -145,7 +145,7 @@ The New York Times • 7h ago
 
 A real strike on civilization as we know it occurred in Silicon Valley, where a new AI super-brain was locked up because it's too powerful — and unpredictable.
 
-Los Angeles Times • 8h ago
+Los Angeles Times • 9h ago
 
 ---
 
@@ -153,13 +153,13 @@ Los Angeles Times • 8h ago
 
 A California man, who has filed multiple lawsuits against major university systems over his son's college rejections, says artificial intelligence has become the key to pursuing the cases after no law firm agreed to represent them.
 
-ABC7 Los Angeles • 21h ago
+ABC7 Los Angeles • 22h ago
 
 ---
 
 **[Axios C-Suite: AI education for all](https://www.axios.com/2026/04/10/ai-basics-education-college-business)**
 
-Axios • 43m ago
+Axios • 1h ago
 
 ---
 
@@ -167,7 +167,7 @@ Axios • 43m ago
 
 Debate around the prospects for companies like Anthropic and OpenAI has long centered on growth in both users and revenue. In recent months, the bigger story is how usage is changing and what that means for costs. Instead of asking a chatbot a single question, some users are increasingly relying ...
 
-The Information • 45m ago
+The Information • 1h ago
 
 ---
 
@@ -175,7 +175,7 @@ The Information • 45m ago
 
 Bank executives have been summoned by President Donald Trump for a meeting about an artificial intelligence model that its makers are worried about.
 
-KOMO • 24m ago
+KOMO • 1h ago
 
 ---
 
@@ -183,7 +183,7 @@ KOMO • 24m ago
 
 Treasury's Bessent and Fed's Powell reportedly called a flash meeting with Wall Street bank heads to warn of cybersecurity risks from Anthropic's AI.
 
-Fox News • 30m ago
+Fox News • 1h ago
 
 ---
 
@@ -191,7 +191,7 @@ Fox News • 30m ago
 
 Anthropic rolled out the new Mythos AI model to a select group of companies over concerns that hackers could exploit its capabilities.
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
@@ -203,7 +203,7 @@ CNBC • 6h ago
 
 The ChatGPT-maker testified in favor of an Illinois bill that would limit when AI labs can be held liable—even in cases where their products cause “critical harm.”
 
-⬆️ 397 • 💬 289 • 5h ago • [WIRED](https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/)
+⬆️ 397 • 💬 289 • 6h ago • [WIRED](https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/)
 
 ---
 
@@ -247,7 +247,7 @@ Reports say Fed chair Jerome Powell among attenders at meeting in Washington
 
 Bixonimania doesn’t exist except in a clutch of obviously bogus academic papers. So why did AI chatbots warn people about this fictional illness?
 
-⬆️ 85 • 💬 88 • 10h ago • [nature.com](https://www.nature.com/articles/d41586-026-01100-y)
+⬆️ 85 • 💬 88 • 11h ago • [nature.com](https://www.nature.com/articles/d41586-026-01100-y)
 
 ---
 
@@ -283,7 +283,7 @@ Here's the AI News you probably missed this week (and some you definitely didn't
 
 📺 Matt Wolfe
 
-👁️ 14K • 👍 1K • 💬 152 • ⏱️ 35:50 • 3h ago
+👁️ 14K • 👍 1K • 💬 152 • ⏱️ 35:50 • 4h ago
 
 ---
 
@@ -293,7 +293,7 @@ Build with Softr (200 FREE credits) https://mikeyno-code.com/softr Get the FREE 
 
 📺 Mikey No Code
 
-👁️ 9K • 💬 8 • ⏱️ 22:13 • 4h ago
+👁️ 9K • 💬 8 • ⏱️ 22:13 • 5h ago
 
 ---
 
@@ -313,7 +313,7 @@ Try Seedance 2.0 on Higgsfield: https://higgsfield.ai/s/seedance-2-0-airevolutio
 
 📺 AI Revolution
 
-👁️ 32K • 👍 1K • 💬 106 • ⏱️ 17:37 • 19h ago
+👁️ 32K • 👍 1K • 💬 106 • ⏱️ 17:37 • 20h ago
 
 ---
 
@@ -353,7 +353,7 @@ Mo Gawdat is a former chief business officer at Google X and a longtime tech lea
 
 📺 Business Insider
 
-👁️ 8K • 👍 510 • 💬 102 • ⏱️ 33:39 • 5h ago
+👁️ 8K • 👍 510 • 💬 102 • ⏱️ 33:39 • 6h ago
 
 ---
 
@@ -389,7 +389,7 @@ Gemma 4 31B is an instruction-tuned, multimodal LLM capable of processing text a
 
 `image-text-to-text` `32.7B`
 
-⬇️ 1,589,761 • ❤️ 1,653 • 2h ago
+⬇️ 1,589,761 • ❤️ 1,653 • 3h ago
 
 ---
 
@@ -413,7 +413,7 @@ Gemma-4-31B-JANG_4M-CRACK is a 31B parameter text-generation model optimized for
 
 `image-text-to-text` `6.4B`
 
-⬇️ 75,426 • ❤️ 895 • 11h ago
+⬇️ 75,426 • ❤️ 895 • 12h ago
 
 ---
 
@@ -473,7 +473,7 @@ Gemma 4 E4B is a multimodal, instruction-tuned LLM from Google DeepMind, support
 
 `any-to-any` `8.0B`
 
-⬇️ 961,135 • ❤️ 561 • 2h ago
+⬇️ 961,135 • ❤️ 561 • 3h ago
 
 ---
 
@@ -485,7 +485,7 @@ Gemma 4 26B A4B is a multimodal instruction-tuned model capable of processing te
 
 `image-text-to-text` `26.5B`
 
-⬇️ 1,269,031 • ❤️ 583 • 2h ago
+⬇️ 1,269,031 • ❤️ 583 • 3h ago
 
 ---
 
@@ -645,7 +645,7 @@ The highest-scoring AI memory system ever benchmarked. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 39.6k • 🔱 5.0k • 2h ago
+⭐ 39.6k • 🔱 5.0k • 3h ago
 
 ---
 
@@ -655,7 +655,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 29.1k • 🔱 5.5k • 7m ago
+⭐ 29.1k • 🔱 5.5k • 57m ago
 
 ---
 
@@ -665,7 +665,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Ope
 
 `Python` `claude-code` `codex` `graphrag` `knowledge-graph` `openclaw`
 
-⭐ 20.0k • 🔱 2.0k • 1h ago
+⭐ 20.0k • 🔱 2.0k • 2h ago
 
 ---
 
@@ -675,7 +675,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `JavaScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 14.9k • 🔱 1.4k • 1h ago
+⭐ 14.9k • 🔱 1.4k • 2h ago
 
 ---
 
@@ -685,7 +685,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 11.4k • 🔱 516 • 23h ago
+⭐ 11.4k • 🔱 516 • 1d ago
 
 ---
 

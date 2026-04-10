@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-10T18:56:04.693569+00:00'
+updated: '2026-04-10T19:45:43.222735+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- news
 - social
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 10, 2026 at 18:56 UTC  
+**Last Updated:** April 10, 2026 at 19:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Japan plans to reclassify cryptocurrencies as financial products under the Financial Instruments and Exchange Act, shifting them from a payment-based framework to one aligned with traditional securities regulation.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/japan-moves-to-classify-bitcoin-and-crypto) • 1h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/japan-moves-to-classify-bitcoin-and-crypto) • 2h ago
 
 ---
 
@@ -89,7 +89,7 @@ Japan plans to reclassify cryptocurrencies as financial products under the Finan
 
 Is it actually going to go up?
 
-14h ago
+15h ago
 
 ---
 
@@ -105,13 +105,13 @@ It looks like the block explorer has been hacked on Blockchain.com. When you sea
 
 ADX hit 60.1 on the 4H. That's an absurdly strong trend reading. EMA ribbon flipped bullish. MACD is at +563. By every technical measure this is a confirmed uptrend. Meanwhile Fear & Greed is at 16. Extreme Fear. Retail is actually net short at 0.86 while smart money flipped long at 1.06. Let that sink in — smart money is long, retail is short, technicals are screaming bullish, and sentiment is at the floor. Ohhh and CPI drops in a few hours. If it comes in cool, this thing flies. If it comes in hot, we retest $69K and everyone says "told you so." Best asymmetric setup in weeks and almost nobody is talking about it.
 
-13h ago
+14h ago
 
 ---
 
 **[Hey, let me ask you something. . .](https://www.reddit.com/r/Bitcoin/comments/1sh4e7n/hey_let_me_ask_you_something/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -127,7 +127,7 @@ If you’ve been hodling on Fiat thinking if it’s time, it’s about time for 
 
 Man these bitcoin critics are embarrassing. they just make me want to buy more
 
-🔗 [youtu.be](https://youtu.be/wJJYtiz0nqw) • 20h ago
+🔗 [youtu.be](https://youtu.be/wJJYtiz0nqw) • 21h ago
 
 ---
 
@@ -135,7 +135,7 @@ Man these bitcoin critics are embarrassing. they just make me want to buy more
 
 I have a business and the margins are negative to breakeven. part of this is the rate people are scamming using services and chargebacks. It is small but it happens. Basically, you order custom, we make custom and you pick up. There is zero chance of you not getting the custom order. But we do not have zero chargebacks. I see maps of services much smaller than us even though we still are small potatoes in our industry, that accept bitcoin payments and all over the map these are square app enabled lightning network payments. no chargebacks and most importantly over that no interchange fees. How can I start taking bitcoin payments? Is my business too big? Is it only service businesses being allowed since they do not charge sales tax? I would make all inclusive pricing if sales tax were the issue. Both interchange and chargebacks are drowning me. There is often no money to pay myself when these people steal this way. It took three months of working a second job to finally be back to cashflow positive. Except quarterly sales tax is due in weeks so we may actually still be negative on that aspect. I just want to get paid for the service and goods we provide. I dont want to educate people how to make things harder on the little guy so I wont elaborate. People pay once they have the goods and services provided in person. We dont know a better way to combat the ways people are scamming the system but taking bitcoin payments would be a step in that direction.
 
-8h ago
+9h ago
 
 ---
 
@@ -143,7 +143,7 @@ I have a business and the margins are negative to breakeven. part of this is the
 
 This is common in almost every technology growth cycle. First there is the initial hype, then there is a period of innovation where the technology matures, then there is a secondary period of high growth and hype that reflects its built-out maturity, enhanced user experience, and mainstream integration. These three stages look like this with bitcoin. 2009 - 2017: Initial hype (parabolic price action) 2018 - 2026: Innovation (price stagnation) 2027 - 2035: Maturity (parabolic price action) After these three stages we will reach mass adoption, which would in theory equal a 26 year adoption cycle from whitepaper to mass adoption. The last 8 or so years in bitcoin have felt boring, but thats just because the price action has been going nowhere. for example we are currently at the same prices seen in 2021 and only 3x the prices seen in 2017. But this is exactly how the innovation stage works. It appears boring however there is a ton of building going on behind the scenes to make bitcoins user experience intuitive while integrating it into mainstream finance and technology apps. It just feels boring because we dont see all the innovation happening behind the scenes. Once all these years of innovation start to present themselves in the mainstream world the second hype/growth stage begins where the price moves into a parabolic stage once again as it reflects the maturity of bitcoin. The best is yet to come not just for price, but also for user adoption.
 
-12h ago
+13h ago
 
 ---
 
@@ -151,7 +151,7 @@ This is common in almost every technology growth cycle. First there is the initi
 
 A three-part deep dive into quantum computing's actual threat to Bitcoin. 17 researchers, 13 proposals, real engineering. No hype. No FUD.
 
-🔗 [Bitcoin & Quantum Computing](https://bitcoinquantum.space/) • 1h ago
+🔗 [Bitcoin & Quantum Computing](https://bitcoinquantum.space/) • 2h ago
 
 ---
 
@@ -169,7 +169,7 @@ Yahoo Finance • 1d ago
 
 **[Bitcoin miners are losing money minting coins. It’s the same problem that killed the penny.](https://www.marketwatch.com/story/bitcoin-miners-are-losing-money-minting-coins-its-the-same-problem-that-killed-the-penny-f907db5c)**
 
-MarketWatch • 23h ago
+MarketWatch • 1d ago
 
 ---
 
@@ -191,7 +191,7 @@ Fortune • 1d ago
 
 Open interest in BTC and ETH perpetual futures rose by over $2 billion each in 24 hours after the U.S.-Iran ceasefire announcement.
 
-The Block • 22h ago
+The Block • 23h ago
 
 ---
 
@@ -213,7 +213,7 @@ Yahoo Finance • 2d ago
 
 Iran may charge Strait of Hormuz tolls in bitcoin, evading sanctions and reshaping oil shipping flows.
 
-Seeking Alpha • 8h ago
+Seeking Alpha • 9h ago
 
 ---
 
@@ -221,7 +221,7 @@ Seeking Alpha • 8h ago
 
 Michael Saylor’s Strategy is driving nearly all corporate Bitcoin accumulation, turning its STRC-fueled treasury model into the dominant force reshaping how companies approach Bitcoin in 2026.
 
-Bitcoin Magazine • 23h ago
+Bitcoin Magazine • 1d ago
 
 ---
 
@@ -318,7 +318,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 ✓
 
 📺 Altcoin Daily
 
-👁️ 34K • 👍 2K • 💬 362 • ⏱️ 12:20 • 19h ago
+👁️ 34K • 👍 2K • 💬 362 • ⏱️ 12:20 • 20h ago
 
 ---
 
@@ -328,7 +328,7 @@ A sanctioned nation is building a sovereign Bitcoin treasury through a toll boot
 
 📺 Simply Bitcoin
 
-👁️ 30K • 👍 3K • 💬 371 • ⏱️ 23:12 • 19h ago
+👁️ 30K • 👍 3K • 💬 371 • ⏱️ 23:12 • 20h ago
 
 ---
 
@@ -338,7 +338,7 @@ GREAT NEWS! Clarity act just received...some clarity. Research paper ...
 
 📺 Digital Asset News
 
-👁️ 22K • 👍 1K • 💬 84 • ⏱️ 18:39 • 1d ago
+👁️ 22K • 👍 1K • 💬 84 • ⏱️ 18:39 • 2d ago
 
 ---
 
@@ -348,7 +348,7 @@ Arthur Hayes is the CIO of Maelstrom and co-founder of BitMEX. In this conversat
 
 📺 Anthony Pompliano
 
-👁️ 32K • 👍 1K • 💬 6 • ⏱️ 49:53 • 21h ago
+👁️ 32K • 👍 1K • 💬 6 • ⏱️ 49:53 • 22h ago
 
 ---
 
@@ -358,7 +358,7 @@ CNBC's “Squawk Box” team talks about the potential true identity of Bitcoin 
 
 📺 CNBC Television
 
-👁️ 7K • 👍 103 • 💬 32 • ⏱️ 4:51 • 6h ago
+👁️ 7K • 👍 103 • 💬 32 • ⏱️ 4:51 • 7h ago
 
 ---
 
@@ -388,7 +388,7 @@ Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro max, and th
 
 📺 Crypto Jebb
 
-👁️ 2K • 👍 143 • 💬 61 • ⏱️ 41:32 • 4h ago
+👁️ 2K • 👍 143 • 💬 61 • ⏱️ 41:32 • 5h ago
 
 ---
 
