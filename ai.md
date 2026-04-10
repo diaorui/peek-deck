@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-10T03:47:26.868696+00:00'
+updated: '2026-04-10T05:58:19.366044+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - social
 - videos
 - news
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 10, 2026 at 03:47 UTC  
+**Last Updated:** April 10, 2026 at 05:58 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 "AI didn't deliver," Johns Hopkins professor Steve Hanke told Fortune. "Welcome to the real world. Forget the AI bubble."
 
-🔗 [Fortune](https://fortune.com/2026/04/09/ai-backlash-quiet-quitting-fobo-obsolete-white-collar-rebellion/) • 14h ago
+🔗 [Fortune](https://fortune.com/2026/04/09/ai-backlash-quiet-quitting-fobo-obsolete-white-collar-rebellion/) • 16h ago
+
+---
+
+**[Anyone compared Gemma 4 31B](https://www.reddit.com/r/artificial/comments/1shcmqj/anyone_compared_gemma_4_31b/)**
+
+I have been seeing a lot of people claiming how good Gemma 4 31B model is. I know when compared to the size of models like sonnet which is guessed to be a 1.5T model, the size of Gemma 31b is very small. but people keep claiming Gemma is soo good for coding and day to day tasks.
+
+1h ago
 
 ---
 
@@ -49,7 +57,15 @@ AI news, discussions, and developments
 
 James Strahler II pleaded guilty to cyberstalking, producing obscene images and digital forgeries of child sexual abuse
 
-🔗 [the Guardian](https://www.theguardian.com/us-news/2026/apr/08/ohio-man-convicted-ai-sexually-explicit-images) • 7h ago
+🔗 [the Guardian](https://www.theguardian.com/us-news/2026/apr/08/ohio-man-convicted-ai-sexually-explicit-images) • 9h ago
+
+---
+
+**[OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths or Financial Disasters](https://www.reddit.com/r/artificial/comments/1shd7cz/openai_backs_bill_that_would_limit_liability_for/)**
+
+The ChatGPT-maker testified in favor of an Illinois bill that would limit when AI labs can be held liable—even in cases where their products cause “critical harm.”
+
+🔗 [WIRED](https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/) • 48m ago
 
 ---
 
@@ -57,13 +73,7 @@ James Strahler II pleaded guilty to cyberstalking, producing obscene images and 
 
 You can ask Gemini to “help me visualize” different concepts.
 
-🔗 [The Verge](https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations) • 9h ago
-
----
-
-**[OpenAI Pauses Stargate UK Data Center Effort Citing Energy Costs](https://www.reddit.com/r/artificial/comments/1sh5tpj/openai_pauses_stargate_uk_data_center_effort/)**
-
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-04-09/openai-pauses-stargate-uk-data-center-effort-citing-energy-costs) • 4h ago
+🔗 [The Verge](https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations) • 11h ago
 
 ---
 
@@ -71,7 +81,13 @@ You can ask Gemini to “help me visualize” different concepts.
 
 we're in this weird era now where everyone suddenly writes perfectly. every message, every email, every caption. no typos. no "lol sorry typed that too fast." no lowercase chaos. just. clean. polished. structured. english. and it's freaking me out bc clean polished english used to mean someone was smart or educated or careful. now it just means they hit "improve with AI" before they hit send. here's the part that actually keeps me up we spent years being embarrassed about bad grammar. teachers corrected it. bosses judged it. people got roasted in comment sections for it. and now? bad grammar is basically a flex. it's the handshake that says yeah, a real disorganized sleep-deprived actual human being typed this with their actual thumbs and didn't stop to clean it up bc they had something real to say and just said it. ur typos are ur fingerprints now. dont let anybody take them from you.
 
-8h ago
+11h ago
+
+---
+
+**[OpenAI Pauses Stargate UK Data Center Effort Citing Energy Costs](https://www.reddit.com/r/artificial/comments/1sh5tpj/openai_pauses_stargate_uk_data_center_effort/)**
+
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-04-09/openai-pauses-stargate-uk-data-center-effort-citing-energy-costs) • 6h ago
 
 ---
 
@@ -79,7 +95,7 @@ we're in this weird era now where everyone suddenly writes perfectly. every mess
 
 This gave me a good chuckle. Wouldn't be so funny if it wasn't true.
 
-🔗 [youtu.be](https://youtu.be/WAUnmQt2Z7Y?si=yZdOgQL1rFK_yi0x) • 12h ago
+🔗 [youtu.be](https://youtu.be/WAUnmQt2Z7Y?si=yZdOgQL1rFK_yi0x) • 14h ago
 
 ---
 
@@ -87,15 +103,7 @@ This gave me a good chuckle. Wouldn't be so funny if it wasn't true.
 
 Realbotix has delivered a Vinci-enabled humanoid robot to Ericsson, featuring AI vision, conversation memory, and real-time engagement tracking.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/us-humanoid-robot-learns-emotions) • 12h ago
-
----
-
-**[Why are you hopeful about AI?](https://www.reddit.com/r/artificial/comments/1sh6q8p/why_are_you_hopeful_about_ai/)**
-
-While AI does provide some value, humans rarely operate in the best interest of others. I have no doubt that governments, businesses, and criminals will use AI for nefarious reasons. I think people need to quit comparing it to lesser technological innovations. It’s not the same. Not even close. Why are you optimistic? And why should I be less pessimistic?
-
-3h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/us-humanoid-robot-learns-emotions) • 14h ago
 
 ---
 
@@ -107,45 +115,15 @@ now it just look 💯 real
 
 ---
 
-**[AIs do forget, they do hallucinate, and carrying your entire project from one AI to another is a nightmare — here's the missing piece nobody talks about](https://www.reddit.com/r/artificial/comments/1shay5t/ais_do_forget_they_do_hallucinate_and_carrying/)**
-
-The master memory for all your projects, relieve your phone of all the extra files AIs forget mid-session, hallucinate more as chats grow, and switching platforms means rebuilding your entire project brain from scratch. This workflow fixes it. You've trained Claude to your exact rules — no bullet-point rants, conversational tone only, "we tried X and it failed." Two hours invested. Then you need ChatGPT's browser or Gemini's Workspace integration. Blank slate. Again. The real pain: context rot. Long sessions degrade accuracy as early instructions get buried. Hallucinations creep in — invented rules, "as we discussed" about nothing. Short sessions work better... but you lose the living record of your corrections, your preferences in action. The solution most miss: chat logs are your gold. Not summaries. The full exchanges where you corrected the AI show it how you think. But files pile up. Claude caps at 20 uploads. Loose .txt files parse poorly. I built a Google Drive script that auto-merges everything into one "Master Brain" Google Doc. Drop exports in a folder. It compiles them hourly into structured volumes with headers. Upload one doc to any AI. Instant context transfer. Why it works: Bypasses 20-file limits Headers help attention navigation Volumes fit token ceilings Auto-archives originals Full script + exact workflow (rules files, session hygiene, changelog) here: https://www.reddit.com/r/ScamIndex/comments/1shaud2/resource_ais_do_forget_they_do_hallucinate_and/
-
-32m ago
-
----
-
 ---
 
 ## Google News: "ai"
-
-**[Is Anthropic's Claude Mythos an AI nightmare waiting to happen?](https://finance.yahoo.com/video/is-anthropics-claude-mythos-an-ai-nightmare-waiting-to-happen-203000700.html)**
-
-Anthropic (ANTH.PVT) is claiming that its new Claude Mythos AI model may be too powerful and is limiting its release after it reportedly “found thousands of high-severity vulnerabilities, including some in every major operating system and web browser," and could be used to hack software. Yahoo Finance Tech Editor Dan Howley outlines how Claude Mythos may be one of the AI landscape's biggest fears.
-
-Yahoo Finance • 7h ago
-
----
-
-**[Anthropic Claims Its New A.I. Model, Mythos, Is a Cybersecurity ‘Reckoning’](https://www.nytimes.com/2026/04/07/technology/anthropic-claims-its-new-ai-model-mythos-is-a-cybersecurity-reckoning.html)**
-
-The New York Times • 2d ago
-
----
-
-**[Mythos AI threat prompts Bessent, Powell to convene bank CEOs for urgent talks](https://www.coindesk.com/markets/2026/04/10/mythos-ai-threat-sees-bessent-powell-call-urgent-meeting-with-bank-ceos)**
-
-Mythos can rapidly spot software flaws and craft sophisticated exploits, raising fears of systemic risks in the banking system.
-
-CoinDesk • 1h ago
-
----
 
 **[US defense official overseeing AI reaped millions selling xAI stock after Pentagon entered agreement with company](https://www.theguardian.com/us-news/2026/apr/09/pentagon-ai-xai-emil-michael)**
 
 Expert said federal law bars officials from taking actions in their jobs that benefit their own financial interests
 
-The Guardian • 6h ago
+The Guardian • 9h ago
 
 ---
 
@@ -153,7 +131,7 @@ The Guardian • 6h ago
 
 The company’s employees could compare themselves to their colleagues and earn achievement titles like “Model Connoisseur” and “Cache Wizard” on the “Claudeonomics” leaderboard.
 
-Fortune • 19h ago
+Fortune • 21h ago
 
 ---
 
@@ -161,35 +139,57 @@ Fortune • 19h ago
 
 After releasing its first major AI model in a year, Meta now has to figure out how to turn it into a business.
 
-CNBC • 15h ago
+CNBC • 17h ago
 
 ---
 
 **[Meta transfers top engineers into new AI tooling team](https://www.reuters.com/technology/meta-transfers-top-engineers-into-new-ai-tooling-team-2026-04-09/)**
 
-Reuters • 5h ago
+Reuters • 7h ago
 
 ---
 
-**[Elon Musk’s xAI sues Colorado over new rules for artificial intelligence](https://www.theguardian.com/technology/2026/apr/09/elon-musk-xai-colorado-lawsuit)**
+**[TSMC’s Sales Beat Estimates After War Fails to Dent AI Demand](https://www.bloomberg.com/news/articles/2026-04-10/tsmc-s-sales-beat-estimates-after-war-fails-to-dent-ai-demand)**
 
-Company claims law regulating AI systems, set to go into effect in June, infringes on its first amendment rights
-
-The Guardian • 2h ago
+Bloomberg.com • 18m ago
 
 ---
 
-**[xAI sues Colorado over new AI law](https://thehill.com/policy/technology/5825076-xai-sues-colorado-ai-regulation/)**
+**[Anthropic weighs building its own AI chips: Reuters](https://www.cnbc.com/2026/04/10/anthropic-weighs-building-its-own-ai-chips-reuters.html)**
 
-The Hill • 1h ago
+Anthropic is exploring the possibility of designing its own chips, three sources said, as the company and its rivals respond to a chronic shortage of AI chips.
+
+CNBC • 1h ago
 
 ---
 
-**[xAI sues Colorado over first state AI anti-discrimination law](https://www.ft.com/content/55e8cba9-d09c-4f94-b710-4ab447b987f9?syn-25a6b1a6=1)**
+**[Colorado father's loss inspires AI technology that could change pregnancy care](https://www.cbsnews.com/colorado/video/colorado-fathers-loss-inspires-ai-technology-that-could-change-pregnancy-care/)**
 
-Elon Musk’s AI lab claims the regulations violate free speech protections
+The technology the Colorado father developed, called Delivery Date AI, analyzes standard ultrasound images to estimate when a baby is likely to arrive, rather than relying solely on a traditional due date based on a 40‑week pregnancy.
 
-Financial Times • 7h ago
+CBS News • 1h ago
+
+---
+
+**[AI has replaced work for 20% of full-time employees in the U.S., survey says](https://www.nbcnews.com/tech/tech-news/ai-job-work-replace-task-help-rcna267238)**
+
+The poll from Epoch AI and Ipsos found that AI replaced existing tasks for 20% of full-time workers but created new tasks for 15%.
+
+NBC News • 13h ago
+
+---
+
+**[Google engineer rejected by 16 colleges uses AI to sue universities for racial discrimination](https://abc7.com/story/google-engineer-rejected-16-colleges-uses-ai-sue-universities-racial-discrimination/18861654/)**
+
+A California man, who has filed multiple lawsuits against major university systems over his son's college rejections, says artificial intelligence has become the key to pursuing the cases after no law firm agreed to represent them.
+
+ABC7 Los Angeles • 8h ago
+
+---
+
+**[Gen Z's fading AI hype](https://www.axios.com/2026/04/09/ai-gen-z-polling-gallup)**
+
+Axios • 1d ago
 
 ---
 
@@ -201,7 +201,7 @@ Financial Times • 7h ago
 
 A new initiative to secure the world’s most critical software and give defenders a durable advantage in the coming AI-driven era of cybersecurity.
 
-⬆️ 1510 • 💬 824 • 2d ago • [anthropic.com](https://www.anthropic.com/glasswing)
+⬆️ 1512 • 💬 825 • 2d ago • [anthropic.com](https://www.anthropic.com/glasswing)
 
 ---
 
@@ -225,19 +225,13 @@ Large language models may be standardizing human expression and subtly influenci
 
 In 1958, Mao ordered every village to produce steel. The steel was useless. The crops rotted. Today's top-down AI mandates are producing the same pattern: ba...
 
-⬆️ 123 • 💬 60 • 1d ago • [Han, Not Solo](https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/)
+⬆️ 127 • 💬 60 • 1d ago • [Han, Not Solo](https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/)
 
 ---
 
 **[Ask HN: What are you building that's not AI related?](https://news.ycombinator.com/item?id=47700460)**
 
-⬆️ 119 • 💬 140 • 20h ago
-
----
-
-**[Study found that young adults have grown less hopeful and more angry about AI](https://news.ycombinator.com/item?id=47704443)**
-
-⬆️ 107 • 💬 161 • 13h ago • [nytimes.com](https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html)
+⬆️ 121 • 💬 142 • 22h ago
 
 ---
 
@@ -245,7 +239,13 @@ In 1958, Mao ordered every village to produce steel. The steel was useless. The 
 
 Instant 1.0 is out! This essay shows a bunch of demos, to explain why we think Instant is the best backend for AI-coded apps. We also cover the architecture that makes all of it work.
 
-⬆️ 106 • 💬 66 • 9h ago • [instantdb.com](https://www.instantdb.com/essays/architecture)
+⬆️ 112 • 💬 67 • 11h ago • [instantdb.com](https://www.instantdb.com/essays/architecture)
+
+---
+
+**[Study found that young adults have grown less hopeful and more angry about AI](https://news.ycombinator.com/item?id=47704443)**
+
+⬆️ 109 • 💬 164 • 15h ago • [nytimes.com](https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html)
 
 ---
 
@@ -259,7 +259,7 @@ Instant 1.0 is out! This essay shows a bunch of demos, to explain why we think I
 
 Thanks to the new possibilities afforded by AI coding tools, the App Store is seeing a resurgence in new app submissions.
 
-⬆️ 64 • 💬 74 • 23h ago • [9to5Mac](https://9to5mac.com/2026/04/06/app-store-sees-84-surge-in-new-apps-as-ai-coding-tools-take-off/)
+⬆️ 64 • 💬 74 • 1d ago • [9to5Mac](https://9to5mac.com/2026/04/06/app-store-sees-84-surge-in-new-apps-as-ai-coding-tools-take-off/)
 
 ---
 
@@ -281,27 +281,7 @@ Could AI become dangerous? Can we trust AI Agents? AGI. Use code insideai at htt
 
 📺 InsideAI
 
-👁️ 153K • 👍 8K • 💬 660 • ⏱️ 16:24 • 10h ago
-
----
-
-**[Google Just Made Their AI Free, Private, and Yours (Gemma 4)](https://www.youtube.com/watch?v=vUfRufToiHg)**
-
-LIMITLESS HQ ⬇️ NEWSLETTER: https://limitlessft.substack.com/ FOLLOW ON X: https://x.com/LimitlessFT SPOTIFY: ...
-
-📺 Limitless Podcast
-
-👁️ 18K • 👍 715 • 💬 90 • ⏱️ 25:26 • 13h ago
-
----
-
-**[Anthropic’s powerful new AI model raises concerns about high-tech risks](https://www.youtube.com/watch?v=lMaCfQMlXY0)**
-
-Anthropic announced that it has started a very limited test of its newest AI model called Mythos. It's a model deemed so powerful ...
-
-📺 PBS NewsHour
-
-👁️ 13K • 👍 310 • ⏱️ 6:50 • 5h ago
+👁️ 175K • 👍 9K • 💬 701 • ⏱️ 16:24 • 12h ago
 
 ---
 
@@ -311,27 +291,37 @@ Hello guys and gals, it's me Mutahar again! This time we take a look at Claude M
 
 📺 SomeOrdinaryGamers
 
-👁️ 387K • 👍 16K • 💬 2K • ⏱️ 20:17 • 1d ago
+👁️ 392K • 👍 16K • 💬 2K • ⏱️ 20:17 • 1d ago
 
 ---
 
-**[Why Meta&#39;s New AI Model Is Such A Big Deal](https://www.youtube.com/watch?v=rXSPopXet1o)**
+**[Google Just Made Their AI Free, Private, and Yours (Gemma 4)](https://www.youtube.com/watch?v=vUfRufToiHg)**
 
-Meta has launched Muse Spark, its most powerful AI model yet and the first major product from Chief AI Officer Alexandr Wang's ...
+LIMITLESS HQ ⬇️ NEWSLETTER: https://limitlessft.substack.com/ FOLLOW ON X: https://x.com/LimitlessFT SPOTIFY: ...
 
-📺 CNBC
+📺 Limitless Podcast
 
-👁️ 14K • 👍 306 • 💬 49 • ⏱️ 3:07 • 6h ago
+👁️ 20K • 👍 758 • 💬 95 • ⏱️ 25:26 • 15h ago
 
 ---
 
-**[MIT Just Found The Cause Of The AI Bubble](https://www.youtube.com/watch?v=1zlD0K09IKE)**
+**[Teen Uses AI To Do The Unthinkable](https://www.youtube.com/watch?v=dB93nEgBiew)**
 
-Simplify Your Workflow With Odoo Today: https://www.odoo.com/r/fHO 4000+ read our free newsletter that has weekly original ...
+Disclaimer: NMLS 182334, nmlsconsumeraccess.org. APR for rates in the 5s start at 6.196% for well qualified borrowers.
 
-📺 Economics Explained
+📺 Sheriff Lamb
 
-👁️ 264K • 👍 10K • 💬 851 • ⏱️ 16:52 • 13h ago
+👁️ 217K • 👍 11K • 💬 2K • ⏱️ 23:16 • 16h ago
+
+---
+
+**[IHIP News: AI CEO Sam Altman EXPOSED as SOCIOPATH! Could AI Kill Us All?!](https://www.youtube.com/watch?v=Nn7ZjF60k5Y)**
+
+We are joined by journalist Ronan Farrow to discuss his recent piece on dangerous OpenAI and Sam Altman. Order our new book ...
+
+📺 I've Had It
+
+👁️ 86K • 👍 8K • 💬 828 • ⏱️ 25:30 • 5h ago
 
 ---
 
@@ -341,17 +331,7 @@ Anthropic says Mythos (officially dubbed “Claude Mythos Preview”) is not rea
 
 📺 CNN
 
-👁️ 752K • 👍 9K • 💬 2K • ⏱️ 9:58 • 1d ago
-
----
-
-**[Nobel Prize Winner: Nobody Sees What&#39;s Coming After AI](https://www.youtube.com/watch?v=vZLY2YGUk4o)**
-
-Plaud NotePro has been really helpful for me to capture ideas and conversations. You can get 10% off with the code " SILICON10" ...
-
-📺 Silicon Valley Girl
-
-👁️ 75K • 👍 2K • 💬 135 • ⏱️ 22:28 • 1d ago
+👁️ 788K • 👍 10K • 💬 2K • ⏱️ 9:58 • 1d ago
 
 ---
 
@@ -361,17 +341,37 @@ Full courses + unlimited support: https://www.skool.com/ai-automation-society-pl
 
 📺 Nate Herk | AI Automation
 
-👁️ 176K • 👍 5K • 💬 641 • ⏱️ 7:50 • 2d ago
+👁️ 178K • 👍 5K • 💬 641 • ⏱️ 7:50 • 2d ago
 
 ---
 
-**[&#39;REJECTED&#39;: Iran&#39;s peace proposal looked &#39;churned out by AI&#39;](https://www.youtube.com/watch?v=xvNnUH7Li9c)**
+**[MIT Just Found The Cause Of The AI Bubble](https://www.youtube.com/watch?v=1zlD0K09IKE)**
 
-Fox News' Peter Doocy and Trey Yingst report the latest on the U.S.-Iran ceasefire. #foxnews #world #news #iran #middleeast ...
+Simplify Your Workflow With Odoo Today: https://www.odoo.com/r/fHO 4000+ read our free newsletter that has weekly original ...
 
-📺 Fox News
+📺 Economics Explained
 
-👁️ 555K • 👍 6K • 💬 2K • ⏱️ 7:57 • 12h ago
+👁️ 287K • 👍 10K • 💬 882 • ⏱️ 16:52 • 15h ago
+
+---
+
+**[Nobel Prize Winner: Nobody Sees What&#39;s Coming After AI](https://www.youtube.com/watch?v=vZLY2YGUk4o)**
+
+Plaud NotePro has been really helpful for me to capture ideas and conversations. You can get 10% off with the code " SILICON10" ...
+
+📺 Silicon Valley Girl
+
+👁️ 78K • 👍 2K • 💬 135 • ⏱️ 22:28 • 1d ago
+
+---
+
+**[Why Meta&#39;s New AI Model Is Such A Big Deal](https://www.youtube.com/watch?v=rXSPopXet1o)**
+
+Meta has launched Muse Spark, its most powerful AI model yet and the first major product from Chief AI Officer Alexandr Wang's ...
+
+📺 CNBC
+
+👁️ 20K • 👍 373 • 💬 58 • ⏱️ 3:07 • 8h ago
 
 ---
 
@@ -387,7 +387,7 @@ Gemma 4 31B is an instruction-tuned, multimodal LLM capable of processing text a
 
 `image-text-to-text` `32.7B`
 
-⬇️ 1,333,678 • ❤️ 1,578 • 1h ago
+⬇️ 1,333,678 • ❤️ 1,590 • 3h ago
 
 ---
 
@@ -399,7 +399,7 @@ Gemma-4-31B-JANG_4M-CRACK is a 31B parameter text-generation model optimized for
 
 `image-text-to-text` `6.4B`
 
-⬇️ 59,852 • ❤️ 863 • 50m ago
+⬇️ 59,852 • ❤️ 867 • 3h ago
 
 ---
 
@@ -411,7 +411,7 @@ GLM-5.1 is a next-generation language model optimized for agentic engineering, f
 
 `text-generation` `753.9B`
 
-⬇️ 8,465 • ❤️ 858 • 1d ago
+⬇️ 8,465 • ❤️ 866 • 1d ago
 
 ---
 
@@ -423,7 +423,7 @@ VOID is a video-to-video diffusion model for object and interaction removal, cap
 
 `video-to-video`
 
-⬇️ 0 • ❤️ 705 • 3d ago
+⬇️ 0 • ❤️ 707 • 3d ago
 
 ---
 
@@ -435,7 +435,7 @@ VoxCPM2 is a 2B parameter, 30-language multilingual text-to-speech model capable
 
 `text-to-speech`
 
-⬇️ 1,815 • ❤️ 604 • 1d ago
+⬇️ 1,815 • ❤️ 612 • 1d ago
 
 ---
 
@@ -447,19 +447,7 @@ This image-text-to-text model, Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled, 
 
 `image-text-to-text` `27.8B`
 
-⬇️ 564,664 • ❤️ 2,546 • 4d ago
-
----
-
-**[gemma-4-26B-A4B-it](https://huggingface.co/google/gemma-4-26B-A4B-it)**
-
-*Google*
-
-Gemma 4 26B A4B is a multimodal instruction-tuned model capable of processing text and image inputs to generate text outputs. It features a 256K token context window, a Mixture-of-Experts (MoE) architecture with 3.8B active parameters for efficient inference, and excels at reasoning, coding, and agentic workflows.
-
-`image-text-to-text` `26.5B`
-
-⬇️ 1,046,548 • ❤️ 571 • 1h ago
+⬇️ 564,664 • ❤️ 2,549 • 4d ago
 
 ---
 
@@ -471,7 +459,19 @@ Gemma 4 E4B is a multimodal, instruction-tuned LLM from Google DeepMind, support
 
 `any-to-any` `8.0B`
 
-⬇️ 784,026 • ❤️ 541 • 1h ago
+⬇️ 784,026 • ❤️ 544 • 3h ago
+
+---
+
+**[gemma-4-26B-A4B-it](https://huggingface.co/google/gemma-4-26B-A4B-it)**
+
+*Google*
+
+Gemma 4 26B A4B is a multimodal instruction-tuned model capable of processing text and image inputs to generate text outputs. It features a 256K token context window, a Mixture-of-Experts (MoE) architecture with 3.8B active parameters for efficient inference, and excels at reasoning, coding, and agentic workflows.
+
+`image-text-to-text` `26.5B`
+
+⬇️ 1,046,548 • ❤️ 575 • 3h ago
 
 ---
 
@@ -483,7 +483,7 @@ OmniVoice is a massively multilingual, zero-shot text-to-speech model supporting
 
 `text-to-speech`
 
-⬇️ 200,591 • ❤️ 444 • 4d ago
+⬇️ 200,591 • ❤️ 446 • 4d ago
 
 ---
 
@@ -553,34 +553,6 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 ---
 
-**[VOID: Video Object and Interaction Deletion](https://huggingface.co/papers/2604.02296)**
-
-*Saman Motamed, William Harvey, Benjamin Klein et al. (6 authors)*
-
-🏢 Netflix
-
-VOID is a video object removal framework that uses vision-language models and video diffusion models to generate physically plausible scenes by leveraging causal reasoning and counterfactual reasoning.
-
-▲ 49 • 💬 5 • ⭐ 1,380 • 8d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2604.02296) • [💻 code](https://github.com/Netflix/void-model) • [🔗 project](https://void-model.github.io/)
-
----
-
-**[Video-MME-v2: Towards the Next Stage in Benchmarks for Comprehensive Video Understanding](https://huggingface.co/papers/2604.05015)**
-
-*Chaoyou Fu, Haozhi Yuan, Yuhao Dong et al. (19 authors)*
-
-🏢 MME-Benchmarks
-
-Video-MME-v2 presents a comprehensive benchmark for evaluating video understanding models through a progressive hierarchy and group-based evaluation to assess robustness and faithfulness.
-
-▲ 218 • 💬 8 • ⭐ 331 • 4d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2604.05015) • [💻 code](https://github.com/MME-Benchmarks/Video-MME-v2) • [🔗 project](https://video-mme-v2.netlify.app/)
-
----
-
 **[MinerU2.5: A Decoupled Vision-Language Model for Efficient
   High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
 
@@ -606,6 +578,34 @@ Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precisio
 
 ---
 
+**[VOID: Video Object and Interaction Deletion](https://huggingface.co/papers/2604.02296)**
+
+*Saman Motamed, William Harvey, Benjamin Klein et al. (6 authors)*
+
+🏢 Netflix
+
+VOID is a video object removal framework that uses vision-language models and video diffusion models to generate physically plausible scenes by leveraging causal reasoning and counterfactual reasoning.
+
+▲ 49 • 💬 5 • ⭐ 1,400 • 8d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2604.02296) • [💻 code](https://github.com/Netflix/void-model) • [🔗 project](https://void-model.github.io/)
+
+---
+
+**[Video-MME-v2: Towards the Next Stage in Benchmarks for Comprehensive Video Understanding](https://huggingface.co/papers/2604.05015)**
+
+*Chaoyou Fu, Haozhi Yuan, Yuhao Dong et al. (19 authors)*
+
+🏢 MME-Benchmarks
+
+Video-MME-v2 presents a comprehensive benchmark for evaluating video understanding models through a progressive hierarchy and group-based evaluation to assess robustness and faithfulness.
+
+▲ 220 • 💬 8 • ⭐ 354 • 4d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2604.05015) • [💻 code](https://github.com/MME-Benchmarks/Video-MME-v2) • [🔗 project](https://video-mme-v2.netlify.app/)
+
+---
+
 **[TriAttention: Efficient Long Reasoning with Trigonometric KV Compression](https://huggingface.co/papers/2604.04921)**
 
 *Weian Mao, Xi Lin, Wei Huang et al. (8 authors)*
@@ -614,7 +614,7 @@ Bitnet.cpp enhances edge inference for ternary LLMs using a novel mixed-precisio
 
 TriAttention addresses KV cache memory bottlenecks in LLMs by leveraging Q/K vector concentration in pre-RoPE space to improve key importance estimation and enable efficient long-context generation.
 
-▲ 91 • 💬 4 • ⭐ 383 • 4d ago
+▲ 94 • 💬 4 • ⭐ 383 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.04921) • [💻 code](https://github.com/WeianMao/triattention) • [🔗 project](https://weianmao.github.io/tri-attention-project-page/)
 
@@ -643,7 +643,7 @@ The highest-scoring AI memory system ever benchmarked. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 36.5k • 🔱 4.6k • 16m ago
+⭐ 37.1k • 🔱 4.7k • 22m ago
 
 ---
 
@@ -653,7 +653,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 27.9k • 🔱 5.2k • 11h ago
+⭐ 28.1k • 🔱 5.3k • 13h ago
 
 ---
 
@@ -663,7 +663,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Ope
 
 `Python` `claude-code` `codex` `graphrag` `knowledge-graph` `openclaw`
 
-⭐ 18.1k • 🔱 1.8k • 3h ago
+⭐ 18.4k • 🔱 1.9k • 5h ago
 
 ---
 
@@ -673,7 +673,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `TypeScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 14.8k • 🔱 1.4k • 8h ago
+⭐ 14.8k • 🔱 1.4k • 59m ago
 
 ---
 
@@ -693,7 +693,7 @@ Clone any website with one command using AI coding agents
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 9.0k • 🔱 405 • 8h ago
+⭐ 9.2k • 🔱 413 • 10h ago
 
 ---
 
@@ -713,7 +713,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 7.3k • 🔱 443 • 5m ago
+⭐ 7.3k • 🔱 443 • 3m ago
 
 ---
 
@@ -733,7 +733,7 @@ LIBERATED AI CHAT
 
 `TypeScript`
 
-⭐ 4.1k • 🔱 937 • 15d ago
+⭐ 4.1k • 🔱 940 • 15d ago
 
 ---
 
