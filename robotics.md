@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-10T14:34:16.170945+00:00'
+updated: '2026-04-10T15:55:18.970779+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 10, 2026 at 14:34 UTC  
+**Last Updated:** April 10, 2026 at 15:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,9 +32,17 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[This robot is deployed in real homes in Shenzhen as part of a cleaning service. Not a lab demo, actual apartments with pets, kids' toys, and clutter](https://www.reddit.com/r/robotics/comments/1shnzv2/this_robot_is_deployed_in_real_homes_in_shenzhen/)**
+
+58 Home partnered with X Square Robot to launch a cleaning service in Shenzhen where a human cleaner shows up with a robot partner. The robot handles structured tasks like wiping surfaces, picking up debris, and tidying, while the human handles everything that requires judgment. What makes this interesting from a technical standpoint: the robot runs on an end-to-end VLA (Vision-Language-Action) model called WALL-A that takes video and language input and outputs motor commands directly with no intermediate planning layer. But the real story isn't the model architecture, it's the deployment strategy. The company frames this as "grass-fed vs grain-fed" training data. Models trained on clean lab data perform well in controlled environments but fall apart in real homes where every apartment has a different layout, random clutter on the floor, pets walking through the workspace, kids' toys in unpredictable places. You can see in this video exactly why that matters: the robot is navigating around a Corgi, working in a room absolutely covered in children's toys, and dealing with narrow doorways in a real Chinese apartment. None of this is a problem you'd encounter in a lab. A few years ago this kind of footage would have been a staged demo. The fact that it's a paying service operating in real apartments suggests robots in everyday homes are closer than most people think.
+
+1h ago
+
+---
+
 **[Here is the worlds first man being kicked in the balls by a robot](https://www.reddit.com/r/robotics/comments/1sgved8/here_is_the_worlds_first_man_being_kicked_in_the/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -42,13 +50,29 @@ Robotics research and industry news
 
 We are publishing our first deep dive on what we believe is one of the most challenging layers in egocentric data - SLAM and VIO in the context of long-horizon state tracking. We break down how SLAM and VIO fail in egocentric settings - visual features vanish at close range, depth sensors saturate, fast head motion blurs frames, and these failures don't always occur in isolation. They hit at the exact same moment, leading to compounding errors and making the downstream data unusable. We believe the foundation for high-quality egocentric data demands sub-centimeter precision over long episodes ranging from a few minutes to up to an hour. You can find more at fpv_labs
 
-1h ago
+2h ago
 
 ---
 
 **[Now they are full grown 😀 (audio with detailed description on the hardware and power supply)](https://www.reddit.com/r/robotics/comments/1sh4kuq/now_they_are_full_grown_audio_with_detailed/)**
 
-16h ago
+17h ago
+
+---
+
+**[Automating physics setup for MuJoCo from 3D meshes](https://www.reddit.com/r/robotics/comments/1shpacr/automating_physics_setup_for_mujoco_from_3d_meshes/)**
+
+Been working on a pipeline to automate physics setup for sim-to-real workflows. Given a 3D mesh (.obj/.glb), it: computes geometry (volume, bounding box, watertightness) estimates material + density derives mass, friction, restitution generates domain randomization ranges exports multiple MuJoCo XMLs for different surface/fill conditions Example (ceramic mug): 9 profiles (empty/half/full × clean/worn/contaminated) mass: 0.5 - 2.25 kg friction down to 0.175 (contaminated) DR bounds auto-generated per profile Goal is to remove manual tuning of object physics during sim setup. Curious where this would break in real pipelines or what edge cases I’m missing, especially around non watertight meshes or unusual materials.
+
+45m ago
+
+---
+
+**[I built an agent that can design electric circuits. Then another that can design CAD. Would you try it for your next project?](https://www.reddit.com/r/robotics/comments/1shobix/i_built_an_agent_that_can_design_electric/)**
+
+You can try it at flomotion.app it took me a few months to build it. For now it's basically free AI. I would appreciate if you could tell me how to make it better and more useful. I learned a lot about robotics while building and testing it.
+
+1h ago
 
 ---
 
@@ -56,15 +80,7 @@ We are publishing our first deep dive on what we believe is one of the most chal
 
 https://preview.redd.it/hllt5xajpbug1.png?width=1192&format=png&auto=webp&s=4fe28a28013fa07cacaef79d1512887848f52997 https://preview.redd.it/rb7jug3lpbug1.png?width=1033&format=png&auto=webp&s=7d00c8125c25ca01a5061fdbd2ebbdb8599618d6 https://preview.redd.it/11h2k3wlpbug1.png?width=846&format=png&auto=webp&s=5d07b76e41cb86e68db3807abf5412a3ace1df21 Rate my design 1-10 https://www.tinkercad.com/things/5qwlk5KBEEY-robotic-dogstl
 
-6h ago
-
----
-
-**[This robot is deployed in real homes in Shenzhen as part of a cleaning service. Not a lab demo, actual apartments with pets, kids' toys, and clutter](https://www.reddit.com/r/robotics/comments/1shnzv2/this_robot_is_deployed_in_real_homes_in_shenzhen/)**
-
-58 Home partnered with X Square Robot to launch a cleaning service in Shenzhen where a human cleaner shows up with a robot partner. The robot handles structured tasks like wiping surfaces, picking up debris, and tidying, while the human handles everything that requires judgment. What makes this interesting from a technical standpoint: the robot runs on an end-to-end VLA (Vision-Language-Action) model called WALL-A that takes video and language input and outputs motor commands directly with no intermediate planning layer. But the real story isn't the model architecture, it's the deployment strategy. The company frames this as "grass-fed vs grain-fed" training data. Models trained on clean lab data perform well in controlled environments but fall apart in real homes where every apartment has a different layout, random clutter on the floor, pets walking through the workspace, kids' toys in unpredictable places. You can see in this video exactly why that matters: the robot is navigating around a Corgi, working in a room absolutely covered in children's toys, and dealing with narrow doorways in a real Chinese apartment. None of this is a problem you'd encounter in a lab. A few years ago this kind of footage would have been a staged demo. The fact that it's a paying service operating in real apartments suggests robots in everyday homes are closer than most people think.
-
-11m ago
+7h ago
 
 ---
 
@@ -72,7 +88,7 @@ https://preview.redd.it/hllt5xajpbug1.png?width=1192&format=png&auto=webp&s=4fe2
 
 Worked on a UR10e install recently for an existing welding cell. Customer described it as “basically the same as the manual,” so we went in expecting a pretty standard setup. Once we were on site, fixture tolerance was around ±2 mm. The new process needed something closer to ±0.5 mm. The initial expectation was that we could calibrate around it. Spent a few hours going back and forth on that before even powering the robot. The variation wasn’t really something calibration could solve — parts weren’t landing consistently in the fixture either, so it wasn’t just a fixed offset. In the end we had to rework part of the fixture before moving forward. Install stretched from 3 days to 9! Turned out the fixture was more of a limiting factor than the robot.
 
-4h ago
+6h ago
 
 ---
 
@@ -88,35 +104,13 @@ From Deepak Pathak on 𝕏 (full video): https://x.com/pathak2206/status/2041939
 
 This test demonstrates how to connect a direct Time-of-Flight (dToF) distance sensor to a Raspberry Pi for accurate proximity sensing.The tutorial code will be publicly released on GitHub later.
 
-23h ago
-
----
-
-**[Sim-to-Real with spiking neurons on a €100 quadruped — on-device learning at 50Hz on Raspberry Pi 4](https://www.reddit.com/r/robotics/comments/1sgou6e/simtoreal_with_spiking_neurons_on_a_100_quadruped/)**
-
-I've been working on biologically grounded locomotion control using spiking neural networks instead of conventional RL. The system runs on a Freenove Robot Dog Kit (FNK0050) with a Raspberry Pi 4. The approach: train an Izhikevich SNN in MuJoCo simulation using a custom MJCF model of the robot, then transfer the brain to real hardware where it continues learning with IMU feedback (MPU6050). A central pattern generator provides innate gait, and a competence gate gradually hands control to the SNN as it proves stable. Key result: brain persistence works — stop the robot, restart it days later, synaptic weights reload and it walks immediately without relearning. A fresh brain needs 2,000 steps (40s) to reach the same level. Honest limitation: spectral analysis shows the SNN learns conservative dampening rather than faster/better gaits. It makes movements smaller and more regular. Biologically plausible (puppies do this) but not yet performance-improving. Total hardware cost: ~€200 (Pi + kit). 232 neurons, 50Hz control loop, no GPU needed. Demo: https://www.youtube.com/watch?v=7iN8tB2xLHI Code: github.com/MarcHesse/mhflocke (Apache 2.0) Paper: doi.org/10.5281/zenodo.19481146 Happy to discuss the architecture, the sim-to-real challenges, or the conservative dampening finding.
-
 1d ago
-
----
-
-**[Talking robot guide dog uses AI to describe the world as it leads](https://www.reddit.com/r/robotics/comments/1sh4t8h/talking_robot_guide_dog_uses_ai_to_describe_the/)**
-
-Scientists at Binghamton University have developed a robot guide dog system that communicates with the visually impaired and provides real-time feedback during travel.
-
-🔗 [The Brighter Side of News](http://thebrighterside.news/post/talking-robot-guide-dog-uses-ai-to-describe-the-world-as-it-leads) • 15h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
-
-**[National robotics push caught in delayed Trump-Xi meeting](https://www.politico.com/news/2026/04/09/national-robotics-trump-xi-china-00861918)**
-
-Politico • 1d ago
-
----
 
 **[Robot Density Surges in Europe, Asia, and Americas](https://ifr.org/ifr-press-releases/news/robot-density-surges-in-europe-asia-and-americas)**
 
@@ -126,11 +120,25 @@ IFR International Federation of Robotics • 2d ago
 
 ---
 
+**[MassRobotics to show and promote ecosystem growth at the 2026 Robotics Summit & Expo](https://www.therobotreport.com/massrobotics-to-show-and-promote-ecosystem-growth-at-the-2026-robotics-summit-expo/)**
+
+MassRobotics will spotlight resident, physical AI, and healthcare startups, as well as women in robotics and university teams at the 2026 Robotics Summit.
+
+The Robot Report • 1h ago
+
+---
+
 **[Opinion | Meet Abi, the AI-powered robot companion for senior care](https://www.washingtonpost.com/opinions/2026/04/09/ai-robot-senior-care-abi/)**
 
 This new tech from Australia is coming to America’s senior care facilities.
 
-The Washington Post • 11h ago
+The Washington Post • 12h ago
+
+---
+
+**[National robotics push caught in delayed Trump-Xi meeting](https://www.politico.com/news/2026/04/09/national-robotics-trump-xi-china-00861918)**
+
+Politico • 1d ago
 
 ---
 
@@ -138,7 +146,7 @@ The Washington Post • 11h ago
 
 Meet 'Digit', a humanoid robotic worker made by Agility Robotics, now part of a new wave of robots replacing workers at companies like Schaeffler, Toyota, and GXO. NBC News' Brian Cheung takes a look.
 
-NBC News • 18h ago
+NBC News • 19h ago
 
 ---
 
@@ -146,7 +154,7 @@ NBC News • 18h ago
 
 A Chinese factory is producing humanoid robots every 30 minutes, marking a shift toward large-scale manufacturing and broader adoption.
 
-Fox News • 21h ago
+Fox News • 22h ago
 
 ---
 
@@ -155,6 +163,14 @@ Fox News • 21h ago
 IHMC unveils Alex, a disaster-ready humanoid robot built for high-risk environments, as China accelerates its dominance in global robotics.
 
 eWeek • 1d ago
+
+---
+
+**[Ukrainian drones in Germany: how Frontline Robotics has become Ukraine's first exporter of military technolog](https://www.pravda.com.ua/eng/articles/2026/04/10/8029597/)**
+
+"This project is like a wedding after which the couple moves into the parents' house. Because there are two businesses, but also two states that have to reach an agreement with each other."
+
+Українська правда • 5h ago
 
 ---
 
@@ -174,20 +190,6 @@ The University of Texas at Austin • 1d ago
 
 ---
 
-**['Remarkable': Vista School students win robotics competition state championship](https://www.stgeorgeutah.com/news/remarkable-vista-school-students-win-robotics-competition-state-championship/article_20c5d076-c97f-4c23-b137-8d40bf4aed03.html)**
-
-These Southern Utah students now have a big reason to brag after a celebrated performance at a state-level robotics competition.
-
-St. George News • 21h ago
-
----
-
-**[Electrofluidic fiber muscles could enable silent robotic systems](https://techxplore.com/news/2026-04-electrofluidic-fiber-muscles-enable-silent.html)**
-
-Tech Xplore • 20h ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -198,7 +200,7 @@ Could AI become dangerous? Can we trust AI Agents? AGI. Use code insideai at htt
 
 📺 InsideAI
 
-👁️ 223K • 👍 11K • 💬 868 • ⏱️ 16:24 • 21h ago
+👁️ 223K • 👍 11K • 💬 868 • ⏱️ 16:24 • 22h ago
 
 ---
 
@@ -208,7 +210,7 @@ Tesla Optimus Gen 3 $20K robot shocks—24/7 worker that could replace jobs fast
 
 📺 Tech Revolution
 
-👁️ 5K • 👍 163 • 💬 23 • ⏱️ 19:27 • 5d ago
+👁️ 5K • 👍 163 • 💬 23 • ⏱️ 19:27 • 6d ago
 
 ---
 

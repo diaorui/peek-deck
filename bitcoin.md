@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-10T14:34:16.162692+00:00'
+updated: '2026-04-10T15:55:18.961576+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - cryptocurrency
 - social
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 10, 2026 at 14:34 UTC  
+**Last Updated:** April 10, 2026 at 15:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $73,056.87
+### $72,516.53
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.3%  
-**7d:** +8.6%  
-**30d:** +3.7%  
-**90d:** -19.7%  
-**1y:** -12.4%  
+**24h:** +0.6%  
+**7d:** +7.8%  
+**30d:** +2.9%  
+**90d:** -20.3%  
+**1y:** -13.1%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Is it actually going to go up?
 
-10h ago
+11h ago
 
 ---
 
@@ -89,7 +89,7 @@ Is it actually going to go up?
 
 ADX hit 60.1 on the 4H. That's an absurdly strong trend reading. EMA ribbon flipped bullish. MACD is at +563. By every technical measure this is a confirmed uptrend. Meanwhile Fear & Greed is at 16. Extreme Fear. Retail is actually net short at 0.86 while smart money flipped long at 1.06. Let that sink in — smart money is long, retail is short, technicals are screaming bullish, and sentiment is at the floor. Ohhh and CPI drops in a few hours. If it comes in cool, this thing flies. If it comes in hot, we retest $69K and everyone says "told you so." Best asymmetric setup in weeks and almost nobody is talking about it.
 
-9h ago
+10h ago
 
 ---
 
@@ -97,13 +97,13 @@ ADX hit 60.1 on the 4H. That's an absurdly strong trend reading. EMA ribbon flip
 
 I'm waiting to see if $58k-$60k happens. If it does, I will be down for the 1st time im many years. So, Im stacking powder.
 
-14h ago
+15h ago
 
 ---
 
 **[Hey, let me ask you something. . .](https://www.reddit.com/r/Bitcoin/comments/1sh4e7n/hey_let_me_ask_you_something/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -111,7 +111,7 @@ I'm waiting to see if $58k-$60k happens. If it does, I will be down for the 1st 
 
 Man these bitcoin critics are embarrassing. they just make me want to buy more
 
-🔗 [youtu.be](https://youtu.be/wJJYtiz0nqw) • 16h ago
+🔗 [youtu.be](https://youtu.be/wJJYtiz0nqw) • 17h ago
 
 ---
 
@@ -119,21 +119,21 @@ Man these bitcoin critics are embarrassing. they just make me want to buy more
 
 This is common in almost every technology growth cycle. First there is the initial hype, then there is a period of innovation where the technology matures, then there is a secondary period of high growth and hype that reflects its built-out maturity, enhanced user experience, and mainstream integration. These three stages look like this with bitcoin. 2009 - 2017: Initial hype (parabolic price action) 2018 - 2026: Innovation (price stagnation) 2027 - 2035: Maturity (parabolic price action) After these three stages we will reach mass adoption, which would in theory equal a 26 year adoption cycle from whitepaper to mass adoption. The last 8 or so years in bitcoin have felt boring, but thats just because the price action has been going nowhere. for example we are currently at the same prices seen in 2021 and only 3x the prices seen in 2017. But this is exactly how the innovation stage works. It appears boring however there is a ton of building going on behind the scenes to make bitcoins user experience intuitive while integrating it into mainstream finance and technology apps. It just feels boring because we dont see all the innovation happening behind the scenes. Once all these years of innovation start to present themselves in the mainstream world the second hype/growth stage begins where the price moves into a parabolic stage once again as it reflects the maturity of bitcoin. The best is yet to come not just for price, but also for user adoption.
 
-8h ago
-
----
-
-**[Entering long](https://www.reddit.com/r/Bitcoin/comments/1shkbde/entering_long/)**
-
-If you’ve been hodling on Fiat thinking if it’s time, it’s about time for a good swing. Buy in!!
-
-2h ago
+9h ago
 
 ---
 
 **[I want to take payments using Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1shio61/i_want_to_take_payments_using_bitcoin/)**
 
 I have a business and the margins are negative to breakeven. part of this is the rate people are scamming using services and chargebacks. It is small but it happens. Basically, you order custom, we make custom and you pick up. There is zero chance of you not getting the custom order. But we do not have zero chargebacks. I see maps of services much smaller than us even though we still are small potatoes in our industry, that accept bitcoin payments and all over the map these are square app enabled lightning network payments. no chargebacks and most importantly over that no interchange fees. How can I start taking bitcoin payments? Is my business too big? Is it only service businesses being allowed since they do not charge sales tax? I would make all inclusive pricing if sales tax were the issue. Both interchange and chargebacks are drowning me. There is often no money to pay myself when these people steal this way. It took three months of working a second job to finally be back to cashflow positive. Except quarterly sales tax is due in weeks so we may actually still be negative on that aspect. I just want to get paid for the service and goods we provide. I dont want to educate people how to make things harder on the little guy so I wont elaborate. People pay once they have the goods and services provided in person. We dont know a better way to combat the ways people are scamming the system but taking bitcoin payments would be a step in that direction.
+
+5h ago
+
+---
+
+**[Entering long](https://www.reddit.com/r/Bitcoin/comments/1shkbde/entering_long/)**
+
+If you’ve been hodling on Fiat thinking if it’s time, it’s about time for a good swing. Buy in!!
 
 4h ago
 
@@ -143,7 +143,7 @@ I have a business and the margins are negative to breakeven. part of this is the
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-8h ago
+9h ago
 
 ---
 
@@ -151,7 +151,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=YYaDTJeCxRg) • 3h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=YYaDTJeCxRg) • 4h ago
 
 ---
 
@@ -159,35 +159,47 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## Google News: "bitcoin"
 
-**[The New York Times may have found bitcoin founder Satoshi Nakamoto. Here's what you need to know.](https://finance.yahoo.com/markets/crypto/article/the-new-york-times-may-have-found-bitcoin-founder-satoshi-nakamoto-heres-what-you-need-to-know-193426720.html)**
+**[Adam Back explains why he's not bitcoin creator Satoshi Nakamoto](https://finance.yahoo.com/markets/crypto/article/adam-back-explains-why-hes-not-bitcoin-creator-satoshi-nakamoto-172837820.html)**
 
-For years, bitcoin creator Satoshi Nakamoto has avoided discovery. Now, a 10,000-word New York Times investigation may have unraveled the mystery, landing on British computer scientist Dr. Adam Back as Nakamoto.
+The Blockstream CEO told Yahoo Finance that the real creator of Bitcoin wouldn't be doing interviews or speaking at conferences under their real name.
 
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin price news: BTC reverses early loss, rises above $72,000 on Middle East hopes](https://www.coindesk.com/markets/2026/04/09/bitcoin-shoots-above-usd72-000-as-optimism-grows-over-middle-east-ceasefire)**
-
-Israeli Prime Minister Netanyahu reportedly has signaled a willingness to negotiate with Lebanon.
-
-CoinDesk • 22h ago
+Yahoo Finance • 22h ago
 
 ---
 
-**[Bitcoin Climbs to Three-Week High on US-Iran Ceasefire Plan](https://finance.yahoo.com/news/bitcoin-jumps-three-week-high-061852543.html)**
+**[Bitcoin hits $73K as cool US CPI data shows 60-year record gas price hike](https://www.tradingview.com/news/cointelegraph:964a2701c094b:0-bitcoin-hits-73k-as-cool-us-cpi-data-shows-60-year-record-gas-price-hike/)**
 
-(Bloomberg) -- Bitcoin touched a three-week high as global markets turned more optimistic after a ceasefire deal between the US and Iran.The largest cryptocurrency climbed as much as 5% to $72,841, its highest level since March 18, in New York trading. Smaller tokens also notched big gains, with Ether rising as much as 7.4% to $2,273.Stocks surged and the price of the US benchmark West Texas Intermediate crude oil fell below $95, nearing its biggest price drop in six years, after US President Do
+Bitcoin (BTC) tagged $73,000 following Friday’s Wall Street open as crucial US inflation numbers came in below expectations.Key points:BTC price seeks new local highs after CPIData from TradingView showed BTC price eyeing new multi-week highs as markets digested the March print of the Consumer Pric…
 
-Yahoo Finance • 1d ago
+TradingView • 1h ago
 
 ---
 
-**[Institutions' bitcoin positioning lacks conviction; CPI, Iran talks might help](https://www.coindesk.com/daybook-us/2026/04/10/institutions-bitcoin-positioning-lacks-conviction-cpi-iran-talks-might-help)**
+**[Bitcoin climbs above $72K following March's hot inflation data](https://finance.yahoo.com/video/bitcoin-climbs-above-72k-following-marchs-hot-inflation-data-145909318.html)**
 
-Institutions are betting on the bitcoin price hitting $80,000 through call options, but they are also buying downside protection.
+Cryptocurrency bitcoin (BTC-USD) is holding above $72,000 per token on Friday. Market Catalysts Host Julie Hyman takes a closer look at the broad crypto market and how crypto-related stocks are trading on the backdrop of March's Consumer Price Index (CPI), which illustrated hotter-than-expected inflation moves.
 
-CoinDesk • 3h ago
+Yahoo Finance • 56m ago
+
+---
+
+**[Bitcoin price news: BTC moves up to $72,400 after March inflation data](https://www.coindesk.com/markets/2026/04/10/bitcoin-rises-after-core-cpi-rose-a-less-than-forecast-0-2-in-march)**
+
+Headline inflation rose 0.9% last month, driven by the sharp rise in energy costs due to the Iran war.
+
+CoinDesk • 1h ago
+
+---
+
+**[Bitcoin miners are losing money minting coins. It’s the same problem that killed the penny.](https://www.marketwatch.com/story/bitcoin-miners-are-losing-money-minting-coins-its-the-same-problem-that-killed-the-penny-f907db5c)**
+
+MarketWatch • 20h ago
+
+---
+
+**[Buy Bitcoin at Night](https://www.bloomberg.com/opinion/newsletters/2026-04-09/buy-bitcoin-at-night)**
+
+Bloomberg.com • 21h ago
 
 ---
 
@@ -195,7 +207,7 @@ CoinDesk • 3h ago
 
 Country’s oil exporters’ union says toll to be paid in cryptocurrency and vessels monitored for weapons
 
-Financial Times • 1d ago
+Financial Times • 2d ago
 
 ---
 
@@ -211,27 +223,13 @@ Yahoo Finance • 2d ago
 
 Iran may charge Strait of Hormuz tolls in bitcoin, evading sanctions and reshaping oil shipping flows.
 
-Seeking Alpha • 4h ago
+Seeking Alpha • 5h ago
 
 ---
 
-**[Bitcoin miners are losing money minting coins. It’s the same problem that killed the penny.](https://www.marketwatch.com/story/bitcoin-miners-are-losing-money-minting-coins-its-the-same-problem-that-killed-the-penny-f907db5c)**
+**[Bitcoin Price Falls. Why Faltering Iran Cease-Fire Could Crush Cryptos.](https://www.barrons.com/articles/bitcoin-price-crypto-xrp-etherum-today-iran-df3ec33f)**
 
-MarketWatch • 18h ago
-
----
-
-**[Current price of Bitcoin for April 9, 2026](https://fortune.com/article/price-of-bitcoin-04-09-2026/)**
-
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 1d ago
-
----
-
-**[Buy Bitcoin at Night](https://www.bloomberg.com/opinion/newsletters/2026-04-09/buy-bitcoin-at-night)**
-
-Bloomberg.com • 20h ago
+Barron's • 1d ago
 
 ---
 
@@ -241,7 +239,7 @@ Bloomberg.com • 20h ago
 
 **[Who is Satoshi Nakamoto? My quest to unmask Bitcoin's creator](https://news.ycombinator.com/item?id=47685320)**
 
-⬆️ 606 • 💬 801 • 2d ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)
+⬆️ 607 • 💬 804 • 2d ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)
 
 ---
 
@@ -249,7 +247,7 @@ Bloomberg.com • 20h ago
 
 Country’s oil exporters’ union says toll to be paid in cryptocurrency and vessels monitored for weapons
 
-⬆️ 172 • 💬 272 • 2d ago • [ft.com](https://www.ft.com/content/02aefac4-ea62-48db-9326-c0da373b11b8)
+⬆️ 172 • 💬 273 • 2d ago • [ft.com](https://www.ft.com/content/02aefac4-ea62-48db-9326-c0da373b11b8)
 
 ---
 
@@ -309,7 +307,7 @@ New York Times report claims London-born Adam Back is creator of the cryptocurre
 
 For years, bitcoin creator Satoshi Nakamoto has avoided discovery. Now, a 10,000-word New York Times investigation may have unraveled the mystery, landing on British computer scientist Dr. Adam Back as Nakamoto.
 
-⬆️ 2 • 💬 5 • 1d ago • [Yahoo Finance](https://finance.yahoo.com/markets/crypto/article/the-new-york-times-may-have-found-bitcoin-founder-satoshi-nakamoto-heres-what-you-need-to-know-193426720.html)
+⬆️ 2 • 💬 6 • 1d ago • [Yahoo Finance](https://finance.yahoo.com/markets/crypto/article/the-new-york-times-may-have-found-bitcoin-founder-satoshi-nakamoto-heres-what-you-need-to-know-193426720.html)
 
 ---
 
@@ -323,7 +321,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 ✓
 
 📺 Altcoin Daily
 
-👁️ 30K • 👍 2K • 💬 280 • ⏱️ 12:20 • 15h ago
+👁️ 30K • 👍 2K • 💬 280 • ⏱️ 12:20 • 16h ago
 
 ---
 
@@ -333,7 +331,7 @@ A sanctioned nation is building a sovereign Bitcoin treasury through a toll boot
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 3K • 💬 295 • ⏱️ 23:12 • 15h ago
+👁️ 26K • 👍 3K • 💬 295 • ⏱️ 23:12 • 16h ago
 
 ---
 
@@ -343,7 +341,7 @@ Arthur Hayes is the CIO of Maelstrom and co-founder of BitMEX. In this conversat
 
 📺 Anthony Pompliano
 
-👁️ 25K • 👍 1K • 💬 6 • ⏱️ 49:53 • 17h ago
+👁️ 25K • 👍 1K • 💬 6 • ⏱️ 49:53 • 18h ago
 
 ---
 
@@ -353,7 +351,7 @@ Is Adam Back the real Satoshi Nakamoto? He addresses the enduring mystery of Bit
 
 📺 Yahoo Finance
 
-👁️ 11K • 👍 195 • 💬 216 • ⏱️ 8:56 • 22h ago
+👁️ 11K • 👍 195 • 💬 216 • ⏱️ 8:56 • 1d ago
 
 ---
 
@@ -383,7 +381,7 @@ Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FR
 
 📺 CryptosRUs
 
-👁️ 19K • 👍 953 • 💬 357 • ⏱️ 50:22 • 23h ago
+👁️ 19K • 👍 953 • 💬 357 • ⏱️ 50:22 • 1d ago
 
 ---
 
@@ -393,7 +391,7 @@ Bitcoin #Crypto #Finance Is this just a relief rally or the start of a real reco
 
 📺 The Wolf Of All Streets
 
-👁️ 9K • 👍 467 • 💬 226 • ⏱️ 30:13 • 18h ago
+👁️ 9K • 👍 467 • 💬 226 • ⏱️ 30:13 • 20h ago
 
 ---
 
@@ -403,7 +401,7 @@ Into The Cryptoverse Premium: https://intothecryptoverse.com For inquiries and t
 
 📺 Benjamin Cowen
 
-👁️ 23K • 👍 395 • 💬 12 • ⏱️ 0:47 • 18h ago
+👁️ 23K • 👍 395 • 💬 12 • ⏱️ 0:47 • 19h ago
 
 ---
 

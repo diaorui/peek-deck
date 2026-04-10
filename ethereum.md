@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-10T14:34:16.168035+00:00'
+updated: '2026-04-10T15:55:18.967492+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
 - cryptocurrency
 - social
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 10, 2026 at 14:34 UTC  
+**Last Updated:** April 10, 2026 at 15:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,248.86
+### $2,234.88
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.3%  
-**7d:** +8.9%  
-**30d:** +8.4%  
-**90d:** -28.1%  
-**1y:** +43.2%  
+**24h:** +0.9%  
+**7d:** +7.8%  
+**30d:** +7.3%  
+**90d:** -28.8%  
+**1y:** +41.8%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 So I went back through my wallet history and used a couple of MEV tracking tools to figure out how much value I actually lost to sandwich attacks and front-running over the past 6 months. not gonna share exact numbers but it was enough to make me seriously rethink where and how I trade on-chain. the thing that pissed me off the most wasn't even the big trades. it was the small ones. $200-500 swaps getting sandwiched for a few bucks each time. doesn't feel like much in the moment but it adds up fast when you're making multiple trades a week. what I learned: AMMs are basically open season for MEV bots. your trade hits the mempool and you're cooked private RPCs like flashbots protect help but they're not a complete solution. you're still trusting the builder not to screw you intent-based systems (cow swap etc) are better but they introduce solver trust assumptions and don't work for everything the only architecture where MEV extraction is structurally impossible is one where transaction ordering is provable and verifiable. not hidden, not trusted, but mathematically proven to be fair honestly the biggest takeaway is that most people have no idea how much they're losing. the "invisible tax" framing is accurate. you never see a line item that says "MEV bot took $4.50 from this trade" but it's happening on basically every swap. anyone else tracked their MEV losses? curious what numbers people are seeing. also curious if anyone has found a setup that actually eliminates it, not just reduces it.
 
-4h ago
+5h ago
 
 ---
 
@@ -80,7 +80,7 @@ So I went back through my wallet history and used a couple of MEV tracking tools
 
 Roman Storm acquittal hearing, ETHGlobal Cannes hackathon finalists, EVM Now block explorer
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-19/) • 26m ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-19/) • 1h ago
 
 ---
 
@@ -88,7 +88,7 @@ Roman Storm acquittal hearing, ETHGlobal Cannes hackathon finalists, EVM Now blo
 
 Ethereum developers align on Glamsterdam devnet progress, Hegota Account Abstraction direction, & key execution layer upgrades shaping the roadmap.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-234/) • 6h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-234/) • 7h ago
 
 ---
 
@@ -96,7 +96,7 @@ Ethereum developers align on Glamsterdam devnet progress, Hegota Account Abstrac
 
 How does staking work? I staked ~0.1 eth through Exodus (they use Everstake) about 64 days ago. Eth validator queue is currently ~52 days. I was told I’d need to wait 1-5 days for it to pool on top of the validator time. It’s now approaching >1 week since the “expected” time to finish staking and start earning rewards, but it still shows staking. Is there a way to check how long I have to wait or know what happened?  [comments]
 
-15h ago
+16h ago
 
 ---
 
@@ -156,45 +156,23 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 TD Cowen remains positive on $55 billion Bitcoin treasury pioneer Strategy, despite trimming its price target yet again.
 
-Decrypt • 16h ago
+Decrypt • 17h ago
 
 ---
 
-**[Ethereum flipped in 2026? Predictions & Odds](https://polymarket.com/event/eth-flipped-in-2026)**
+**[Bitcoin and ethereum price today, Thursday, April 9, 2026: Crypto rally slows as ceasefire wavers](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-thursday-april-9-2026-crypto-rally-slows-as-ceasefire-wavers-112457545.html)**
 
-View real-time odds for "Ethereum flipped in 2026?" as of March 15, 2026 and trade on The World's Largest Prediction Market™
+Bitcoin and ethereum opened at $71,093.76 and $2,189.73, respectively, amid reports of continued fighting and disagreement over Iran’s control of the Strait of Hormuz. Both cryptos rose in early trading.
 
-Polymarket • 3mo ago
-
----
-
-**[Will AI Boost Ethereum Price? Marc Andreessen Claims AI Is ‘Killer Crypto App’](https://finance.yahoo.com/markets/crypto/articles/ai-boost-ethereum-price-marc-112218412.html)**
-
-AI could drive new demand for Ethereum, analysts say, following Marc Andreessen's comments about crypto's convergence with agents. Tom Lee sees AI as a major ...
-
-Yahoo Finance • 3h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Current price of Ethereum for April 10, 2026](https://fortune.com/article/price-of-ethereum-04-10-2026/)**
+**[Ethereum Foundation swaps 5,000 ETH into stablecoins for operational and grant funding](https://www.theblock.co/post/396728/ethereum-foundation-swaps-5000-eth-stablecoins-operational-grant-funding)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+So far, the CoWSwap TWAP transactions have been drawn from a wallet associated with the Ethereum Foundation's DeFi activities.
 
-Fortune • 1h ago
-
----
-
-**[Ethereum ETF Flows on April 14? Trading Odds & Predictions (Apr. 14, 2026)](https://polymarket.com/event/ethereum-etf-flows-on-april-14)**
-
-View real-time odds for "Ethereum ETF Flows on April 14?" as of April 10, 2026 and trade on The World's Largest Prediction Market™
-
-Polymarket • 2h ago
-
----
-
-**[Most large cryptocurrencies fall as Ethereum tumbles](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-as-ethereum-tumbles-91a2f421-9307bc266dcb)**
-
-MarketWatch • 1d ago
+The Block • 2d ago
 
 ---
 
@@ -204,11 +182,17 @@ Barron's • 1d ago
 
 ---
 
-**[Ethereum Foundation swaps 5,000 ETH into stablecoins for operational and grant funding](https://www.theblock.co/post/396728/ethereum-foundation-swaps-5000-eth-stablecoins-operational-grant-funding)**
+**[Current price of Ethereum for April 10, 2026](https://fortune.com/article/price-of-ethereum-04-10-2026/)**
 
-So far, the CoWSwap TWAP transactions have been drawn from a wallet associated with the Ethereum Foundation's DeFi activities.
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-The Block • 1d ago
+Fortune • 2h ago
+
+---
+
+**[Most large cryptocurrencies fall as Ethereum tumbles](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-as-ethereum-tumbles-91a2f421-9307bc266dcb)**
+
+MarketWatch • 1d ago
 
 ---
 
@@ -216,15 +200,27 @@ The Block • 1d ago
 
 Bitmine Immersion's hybrid model combines large-scale ETH holdings, with MAVAN projected to generate $300 million annually. Learn why BMNR stock is a strong buy.
 
-Seeking Alpha • 3h ago
+Seeking Alpha • 5h ago
 
 ---
 
-**[Every Major Altcoin Dipped in Q1: Can XRP, Solana, and Ethereum Bounce Back in Q2?](https://247wallst.com/investing/2026/04/10/every-major-altcoin-dipped-in-q1-can-xrp-solana-and-ethereum-bounce-back-in-q2/)**
+**[Will AI Boost Ethereum Price? Marc Andreessen Claims AI Is ‘Killer Crypto App’](https://www.ccn.com/news/crypto/will-ai-boost-ethereum-price-marc-andreessen-claims-ai-is-killer-crypto-app/)**
 
-XRP, Ethereum, and Solana all dropped over 25% in Q1. With Q2 off to a different start, will these major altcoin’s bounce back?
+CCN.com • 4h ago
 
-24/7 Wall St. • 2h ago
+---
+
+**[Ethereum staking ratio hits record high at 30%](https://www.thestreet.com/crypto/markets/ethereum-staking-ratio-hits-record-high-at-30)**
+
+Ethereum still occupies the top spot among staking-based blockchains.
+
+thestreet.com • 1h ago
+
+---
+
+**[Bitmine Stock Plugs Into a New Power Source as Ethereum Holdings Hits Record Highs; BMNR Up 15%](https://www.tipranks.com/news/bitmine-stock-plugs-into-a-new-power-source-as-ethereum-holdings-hit-record-highs-bmnr-up-15)**
+
+TipRanks • 1d ago
 
 ---
 
@@ -248,7 +244,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 76 • 👍 5 • ⏱️ 4:53 • 5h ago
+👁️ 76 • 👍 5 • ⏱️ 4:53 • 7h ago
 
 ---
 
@@ -268,7 +264,7 @@ BITCOIN WARNING SIGNAL FLASHING NOW (Get Ready)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 6K • 👍 257 • 💬 84 • ⏱️ 22:51 • 13h ago
+👁️ 6K • 👍 257 • 💬 84 • ⏱️ 22:51 • 14h ago
 
 ---
 
@@ -278,7 +274,7 @@ In this video, I take a closer look at the current Ethereum market structure and
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 198 • 💬 23 • ⏱️ 10:05 • 20h ago
+👁️ 3K • 👍 198 • 💬 23 • ⏱️ 10:05 • 21h ago
 
 ---
 
@@ -288,7 +284,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 132 • 👍 20 • ⏱️ 4:34 • 38m ago
+👁️ 132 • 👍 20 • ⏱️ 4:34 • 1h ago
 
 ---
 
@@ -298,7 +294,7 @@ Earth's top Ethereum buyer just acquired 71000 ETH, signaling a potential market
 
 📺 CoinBros
 
-👁️ 633 • ⏱️ 0:33 • 16h ago
+👁️ 633 • ⏱️ 0:33 • 17h ago
 
 ---
 
@@ -318,7 +314,7 @@ Jetzt gratis sichern → https://www.blockchain-investor.de/app Die neue „Bloc
 
 📺 Krypto Report
 
-👁️ 7K • 👍 595 • 💬 9 • ⏱️ 18:19 • 22h ago
+👁️ 7K • 👍 595 • 💬 9 • ⏱️ 18:19 • 23h ago
 
 ---
 
@@ -328,7 +324,7 @@ invested in crypto — who wins? Watch the insane volatility of BTC, ETH, and SO
 
 📺 Data Insights
 
-👁️ 3K • 👍 32 • ⏱️ 0:41 • 20h ago
+👁️ 3K • 👍 32 • ⏱️ 0:41 • 21h ago
 
 ---
 
