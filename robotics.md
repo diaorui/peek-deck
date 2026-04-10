@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-10T13:13:45.409791+00:00'
+updated: '2026-04-10T14:34:16.170945+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 10, 2026 at 13:13 UTC  
+**Last Updated:** April 10, 2026 at 14:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,21 @@ Robotics research and industry news
 
 **[Here is the worlds first man being kicked in the balls by a robot](https://www.reddit.com/r/robotics/comments/1sgved8/here_is_the_worlds_first_man_being_kicked_in_the/)**
 
-20h ago
+21h ago
+
+---
+
+**[SLAM and VIO in Egocentric Settings](https://www.reddit.com/r/robotics/comments/1shm7b8/slam_and_vio_in_egocentric_settings/)**
+
+We are publishing our first deep dive on what we believe is one of the most challenging layers in egocentric data - SLAM and VIO in the context of long-horizon state tracking. We break down how SLAM and VIO fail in egocentric settings - visual features vanish at close range, depth sensors saturate, fast head motion blurs frames, and these failures don't always occur in isolation. They hit at the exact same moment, leading to compounding errors and making the downstream data unusable. We believe the foundation for high-quality egocentric data demands sub-centimeter precision over long episodes ranging from a few minutes to up to an hour. You can find more at fpv_labs
+
+1h ago
 
 ---
 
 **[Now they are full grown 😀 (audio with detailed description on the hardware and power supply)](https://www.reddit.com/r/robotics/comments/1sh4kuq/now_they_are_full_grown_audio_with_detailed/)**
 
-14h ago
+16h ago
 
 ---
 
@@ -48,7 +56,15 @@ Robotics research and industry news
 
 https://preview.redd.it/hllt5xajpbug1.png?width=1192&format=png&auto=webp&s=4fe28a28013fa07cacaef79d1512887848f52997 https://preview.redd.it/rb7jug3lpbug1.png?width=1033&format=png&auto=webp&s=7d00c8125c25ca01a5061fdbd2ebbdb8599618d6 https://preview.redd.it/11h2k3wlpbug1.png?width=846&format=png&auto=webp&s=5d07b76e41cb86e68db3807abf5412a3ace1df21 Rate my design 1-10 https://www.tinkercad.com/things/5qwlk5KBEEY-robotic-dogstl
 
-4h ago
+6h ago
+
+---
+
+**[This robot is deployed in real homes in Shenzhen as part of a cleaning service. Not a lab demo, actual apartments with pets, kids' toys, and clutter](https://www.reddit.com/r/robotics/comments/1shnzv2/this_robot_is_deployed_in_real_homes_in_shenzhen/)**
+
+58 Home partnered with X Square Robot to launch a cleaning service in Shenzhen where a human cleaner shows up with a robot partner. The robot handles structured tasks like wiping surfaces, picking up debris, and tidying, while the human handles everything that requires judgment. What makes this interesting from a technical standpoint: the robot runs on an end-to-end VLA (Vision-Language-Action) model called WALL-A that takes video and language input and outputs motor commands directly with no intermediate planning layer. But the real story isn't the model architecture, it's the deployment strategy. The company frames this as "grass-fed vs grain-fed" training data. Models trained on clean lab data perform well in controlled environments but fall apart in real homes where every apartment has a different layout, random clutter on the floor, pets walking through the workspace, kids' toys in unpredictable places. You can see in this video exactly why that matters: the robot is navigating around a Corgi, working in a room absolutely covered in children's toys, and dealing with narrow doorways in a real Chinese apartment. None of this is a problem you'd encounter in a lab. A few years ago this kind of footage would have been a staged demo. The fact that it's a paying service operating in real apartments suggests robots in everyday homes are closer than most people think.
+
+11m ago
 
 ---
 
@@ -56,7 +72,7 @@ https://preview.redd.it/hllt5xajpbug1.png?width=1192&format=png&auto=webp&s=4fe2
 
 Worked on a UR10e install recently for an existing welding cell. Customer described it as “basically the same as the manual,” so we went in expecting a pretty standard setup. Once we were on site, fixture tolerance was around ±2 mm. The new process needed something closer to ±0.5 mm. The initial expectation was that we could calibrate around it. Spent a few hours going back and forth on that before even powering the robot. The variation wasn’t really something calibration could solve — parts weren’t landing consistently in the fixture either, so it wasn’t just a fixed offset. In the end we had to rework part of the fixture before moving forward. Install stretched from 3 days to 9! Turned out the fixture was more of a limiting factor than the robot.
 
-3h ago
+4h ago
 
 ---
 
@@ -72,7 +88,7 @@ From Deepak Pathak on 𝕏 (full video): https://x.com/pathak2206/status/2041939
 
 This test demonstrates how to connect a direct Time-of-Flight (dToF) distance sensor to a Raspberry Pi for accurate proximity sensing.The tutorial code will be publicly released on GitHub later.
 
-22h ago
+23h ago
 
 ---
 
@@ -88,23 +104,7 @@ I've been working on biologically grounded locomotion control using spiking neur
 
 Scientists at Binghamton University have developed a robot guide dog system that communicates with the visually impaired and provides real-time feedback during travel.
 
-🔗 [The Brighter Side of News](http://thebrighterside.news/post/talking-robot-guide-dog-uses-ai-to-describe-the-world-as-it-leads) • 14h ago
-
----
-
-**[ReductStore v1.19: Open Data Backbone for Robotics and ROS](https://www.reddit.com/r/robotics/comments/1she94u/reductstore_v119_open_data_backbone_for_robotics/)**
-
-ReductStore v1.19 introduces Apache 2.0 open-source licensing, a ROS-inspired hierarchical data model with attachments for schemas and metadata, a native Zenoh API for edge communication, and ReductBridge for seamless integration with ROS1 and ROS2.
-
-🔗 [reduct.store](https://www.reduct.store/blog/news/reductstore-v1_19_0-released) • 7h ago
-
----
-
-**[Where to sell robotics stuff ?](https://www.reddit.com/r/robotics/comments/1she32k/where_to_sell_robotics_stuff/)**
-
-Hi! Where to find people interested in buying electronic parts? (Motor control / voltage regulator and so) I am based in Europe and would be happy to sell those at a low price for someone who will really use it and not store it in a drawer for years. Have a good day
-
-7h ago
+🔗 [The Brighter Side of News](http://thebrighterside.news/post/talking-robot-guide-dog-uses-ai-to-describe-the-world-as-it-leads) • 15h ago
 
 ---
 
@@ -130,7 +130,7 @@ IFR International Federation of Robotics • 2d ago
 
 This new tech from Australia is coming to America’s senior care facilities.
 
-The Washington Post • 9h ago
+The Washington Post • 11h ago
 
 ---
 
@@ -138,7 +138,7 @@ The Washington Post • 9h ago
 
 Meet 'Digit', a humanoid robotic worker made by Agility Robotics, now part of a new wave of robots replacing workers at companies like Schaeffler, Toyota, and GXO. NBC News' Brian Cheung takes a look.
 
-NBC News • 16h ago
+NBC News • 18h ago
 
 ---
 
@@ -146,23 +146,15 @@ NBC News • 16h ago
 
 A Chinese factory is producing humanoid robots every 30 minutes, marking a shift toward large-scale manufacturing and broader adoption.
 
-Fox News • 20h ago
+Fox News • 21h ago
 
 ---
 
-**[Do people see robots as having race? New studies clash as humanoids enter the real world](https://www.scientificamerican.com/article/do-people-see-robots-as-having-race-new-studies-clash-as-humanoids-enter-the/)**
+**[Meet ‘Alex’: A Disaster-Response Humanoid Challenging China’s Robotics Rise](https://www.eweek.com/news/ihmc-alex-robot-china-robotics-race/)**
 
-As humanoid robots enter the real world, new studies suggest that people project human racial biases onto them—but the research is divided on whether those biases persist outside the lab and in real-world interactions
+IHMC unveils Alex, a disaster-ready humanoid robot built for high-risk environments, as China accelerates its dominance in global robotics.
 
-Scientific American • 2d ago
-
----
-
-**[Building the Future of Texas Robotics](https://news.utexas.edu/2026/04/09/building-the-future-of-texas-robotics/)**
-
-Deepu Talla helps bring the future of robotics closer to reality through the Nvidia-Talla Endowment for Texas Robotics.
-
-The University of Texas at Austin • 22h ago
+eWeek • 1d ago
 
 ---
 
@@ -174,19 +166,25 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Ark Robotics to provide IP for defense tech tested in Ukraine to UK](https://www.cnbc.com/video/2026/04/10/ark-robotics-to-provide-ip-for-defense-tech-tested-in-ukraine-to-uk.html)**
+**[Building the Future of Texas Robotics](https://news.utexas.edu/2026/04/09/building-the-future-of-texas-robotics/)**
 
-European defense tech company Ark Robotics will make their IP for battle-tested technologies available to UK manufacturers through the AI-powered defense portal GRAIL. The CEO spoke to CNBC about the decision, using a pseudonym for security reasons.
+Deepu Talla helps bring the future of robotics closer to reality through the Nvidia-Talla Endowment for Texas Robotics.
 
-CNBC • 1h ago
+The University of Texas at Austin • 1d ago
 
 ---
 
-**[Former UNH hockey star using robotics for shoulder replacements](https://www.wmur.com/article/former-unh-hockey-robotics-shoulder-4726/70956955)**
+**['Remarkable': Vista School students win robotics competition state championship](https://www.stgeorgeutah.com/news/remarkable-vista-school-students-win-robotics-competition-state-championship/article_20c5d076-c97f-4c23-b137-8d40bf4aed03.html)**
 
-Hockey fans might remember former University of New Hampshire player Thomas Fortney, who tied a 2009 NCAA tournament game against North Dakota with a tenth of a second remaining in regulation.
+These Southern Utah students now have a big reason to brag after a celebrated performance at a state-level robotics competition.
 
-WMUR • 2d ago
+St. George News • 21h ago
+
+---
+
+**[Electrofluidic fiber muscles could enable silent robotic systems](https://techxplore.com/news/2026-04-electrofluidic-fiber-muscles-enable-silent.html)**
+
+Tech Xplore • 20h ago
 
 ---
 
@@ -200,7 +198,27 @@ Could AI become dangerous? Can we trust AI Agents? AGI. Use code insideai at htt
 
 📺 InsideAI
 
-👁️ 209K • 👍 10K • 💬 817 • ⏱️ 16:24 • 20h ago
+👁️ 223K • 👍 11K • 💬 868 • ⏱️ 16:24 • 21h ago
+
+---
+
+**[Tesla Optimus Gen 3 FINALLY HERE: $20,000 Robot Works 24/7 — No Salary, No Sleep, No Limits](https://www.youtube.com/watch?v=UTASTLBTRDE)**
+
+Tesla Optimus Gen 3 $20K robot shocks—24/7 worker that could replace jobs fast ✓ All Breaking NEWS: ...
+
+📺 Tech Revolution
+
+👁️ 5K • 👍 163 • 💬 23 • ⏱️ 19:27 • 5d ago
+
+---
+
+**[South Korea Is Building Robots the World Didn’t See Coming!](https://www.youtube.com/watch?v=H09m8a3oL_4)**
+
+South Korea is building robots you've only seen in movies, from giant walking machines to exoskeletons that give people back ...
+
+📺 DeCode
+
+👁️ 33K • 👍 628 • 💬 45 • ⏱️ 14:45 • 1d ago
 
 ---
 
@@ -214,26 +232,6 @@ The world wasn't ready for what 2026 had in store — a wave of humanoid robots 
 
 ---
 
-**[South Korea Is Building Robots the World Didn’t See Coming!](https://www.youtube.com/watch?v=H09m8a3oL_4)**
-
-South Korea is building robots you've only seen in movies, from giant walking machines to exoskeletons that give people back ...
-
-📺 DeCode
-
-👁️ 31K • 👍 588 • 💬 41 • ⏱️ 14:45 • 23h ago
-
----
-
-**[2026 Ultimate Robot Vacuum and Mop Comparison || Roborock, Eufy, Dreame, Narwal, Ecovacs, MOVA](https://www.youtube.com/watch?v=Pv9_2D_Xc5k)**
-
-I tested every flagship robotic vacuum and mop from Roborock, Eufy, Dreame, Narwal, Ecovacs, and MOVA available in 2025 to ...
-
-📺 The Hook Up
-
-👁️ 15K • 👍 579 • 💬 132 • ⏱️ 26:12 • 1d ago
-
----
-
 **[Are AI soldiers about to take over the battlefield? | DW News](https://www.youtube.com/watch?v=q83LtZza5eA)**
 
 US startup Foundation is developing humanoid robots for military use. The goal is for its Phantom model to identify targets and ...
@@ -241,36 +239,6 @@ US startup Foundation is developing humanoid robots for military use. The goal i
 📺 DW News
 
 👁️ 73K • 👍 551 • 💬 101 • ⏱️ 1:22 • 4d ago
-
----
-
-**[I Spent 100 Hours In China&#39;s Robot City](https://www.youtube.com/watch?v=PXGK_MFShXU)**
-
-I spent 100 hours in the world's most futuristic city! WATCH MORE videos we filmed in China ▸ https://youtu.be/elF_v9sukWU ...
-
-📺 Hafu Go
-
-👁️ 815K • 👍 8K • 💬 287 • ⏱️ 25:46 • 6d ago
-
----
-
-**[Joe Rogan Watches Soldier Test INSANE Robotic Legs 🤖🦿💥 #Shorts](https://www.youtube.com/watch?v=zbopLtVrukQ)**
-
-Joe Rogan Watches Soldier Test INSANE Robotic Legs #Shorts This is the future of the battlefield. A soldier straps on ...
-
-📺 Silent Sentry
-
-👁️ 2.6M • 👍 32K • 💬 664 • ⏱️ 0:17 • 6d ago
-
----
-
-**[Eilik VS Eiliko: WHICH ROBOT IS BETTER IN 2026?](https://www.youtube.com/watch?v=xryozwcxKV0)**
-
-Eilik Robot VS Eiliko Robot: WHICH ROBOT IS BETTER IN 2026? In today's video, I'll be pinning 2 robots from the same company ...
-
-📺 Eric’s Tech World
-
-👁️ 17K • 👍 150 • 💬 23 • ⏱️ 9:43 • 6d ago
 
 ---
 
@@ -284,13 +252,41 @@ Welch Labs Book: https://www.welchlabs.com/resources/ai-book-ezrzm-msrmc Book & 
 
 ---
 
-**[Essential Things to Know Before Buying a Robot Mower!](https://www.youtube.com/watch?v=lbibuVIo84Y)**
+**[2026 Ultimate Robot Vacuum and Mop Comparison || Roborock, Eufy, Dreame, Narwal, Ecovacs, MOVA](https://www.youtube.com/watch?v=Pv9_2D_Xc5k)**
 
-The era of the Robot Mower is here and after 6 months of intensive use I feel I am now in a position to update everyone on both ...
+I tested every flagship robotic vacuum and mop from Roborock, Eufy, Dreame, Narwal, Ecovacs, and MOVA available in 2025 to ...
 
-📺 Proper DIY
+📺 The Hook Up
 
-👁️ 35K • 👍 2K • 💬 134 • ⏱️ 11:47 • 5d ago
+👁️ 15K • 👍 586 • 💬 139 • ⏱️ 26:12 • 1d ago
+
+---
+
+**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=kxSunP8Cf9g)**
+
+📺 Robot Julie 
+
+👁️ 60K • 👍 610 • 💬 2 • ⏱️ 0:22 • 1d ago
+
+---
+
+**[Joe Rogan Watches Soldier Test INSANE Robotic Legs 🤖🦿💥 #Shorts](https://www.youtube.com/watch?v=zbopLtVrukQ)**
+
+Joe Rogan Watches Soldier Test INSANE Robotic Legs #Shorts This is the future of the battlefield. A soldier straps on ...
+
+📺 Silent Sentry
+
+👁️ 2.6M • 👍 33K • 💬 671 • ⏱️ 0:17 • 6d ago
+
+---
+
+**[Eilik VS Eiliko: WHICH ROBOT IS BETTER IN 2026?](https://www.youtube.com/watch?v=xryozwcxKV0)**
+
+Eilik Robot VS Eiliko Robot: WHICH ROBOT IS BETTER IN 2026? In today's video, I'll be pinning 2 robots from the same company ...
+
+📺 Eric’s Tech World
+
+👁️ 17K • 👍 154 • 💬 23 • ⏱️ 9:43 • 6d ago
 
 ---
 
