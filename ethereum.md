@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-11T14:06:46.719472+00:00'
+updated: '2026-04-11T15:02:07.772648+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
 - news
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 11, 2026 at 14:06 UTC  
+**Last Updated:** April 11, 2026 at 15:02 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $271.04B
+**Market Cap:** $270.67B
 Rank #2
 
 **Circulating Supply:** 120,691,071 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--54.6%
+-54.7%
 
 **All-Time Low:** $0.43
-+518574.1%
++517872.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Over the past year I've been thinking a lot about Web3. Not the trading, not the speculation, not the casino. I don't trade crypto. I don't follow the markets. What fascinates me is the underlying idea: decentralized systems with code as the only authority. The technology itself. I've been a backend engineer for over a decade. Rails, SQL, the usual stack. But like many engineers, I burned out. The excitement to build faded. You know the feeling. You're competent, productive, but not discovering anything anymore. Then I looked seriously at blockchain. Not as an investor, but as an engineer. I asked myself: what would an application look like if built with absolute fidelity to what blockchain promises? Real utility (useful for the masses, not DeFi nonesense) NO off-chain layers (100% on-chain) NO insider advantages (fair economics) NO dependence on investors (self-sustaining) NO pointless tokenomics (ETH in, ETH out) Those five principles became my compass. I tried to build something that never violated them. But the Web3 ecosystem is built around tokenomics and speculation. There's no blueprint to follow. So I started pulling my own thread: I wanted to build something useful, deterministic, fully on-chain, with no complicated tokenomics. A simple game like TicTacToe with real ETH stakes? Interesting, but too narrow. Then the frame shifted. I wasn't building a game anymore. I was building a tournament layer. A universal competitive infrastructure that's fair, open-source, and 100% on-chain. That's when the hard problems started. How do you handle draws on a decentralized platform? How do you stop players griefing opponents without central authority? These aren't just technical questions. They're moral ones. They forced me to think deeply about fairness, about building a system nobody controls and nobody can manipulate. The answers surprised me. Forget Kubernetes, Redis, all that complexity. With these constraints (fully on-chain, truly open, completely decentralized) the legacy stack collapses into something elegant. A client talking directly to contracts. No servers. No databases. No company. Just code. That freedom changed how I think about software. So I built ETour A 100% on-chain tournament protocol, now live on Arbitrum. Players pay an entry fee, compete, the best player wins and takes the pot. Code decides everything. No intermediaries. As Web3 should be. I open-sourced it so developers can build their own games on it and inherit all of its features for free. I'm not here to tell you this is revolutionary. I built this because it felt like a problem worth solving. ETour is what came out the other side. The code is public. The contracts are immutable. The logic is yours to verify. PS: The technical docs are not final and will be updated soon. https://etour.games https://etour.games/whitepaper https://etour.games/manual https://etour.games/docs TLDR: ETour is useful, it's live, and it's open-source. Go ahead and play on it, or build your own game using its 100% on-chain and open source tournament modules.
 
-41m ago
+1h ago
 
 ---
 
@@ -88,7 +88,7 @@ So I went back through my wallet history and used a couple of MEV tracking tools
 
 Roman Storm acquittal hearing, ETHGlobal Cannes hackathon finalists, EVM Now block explorer
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-19/) • 23h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-19/) • 1d ago
 
 ---
 
@@ -164,7 +164,7 @@ Decrypt • 1d ago
 
 Ethereum’s growing base of active users may be one reason investors are putting more money into it — and less into Bitcoin.Exchange Outflows Point To A Shift In Holding BehaviorData from on-chain research firm XWIN Research shows Ethereum recorded a sustained drop in exchange-held supply throughout…
 
-TradingView • 4h ago
+TradingView • 5h ago
 
 ---
 
@@ -200,7 +200,7 @@ MarketWatch • 2d ago
 
 The crypto market has rebounded, with Bitcoin rising 10% over the last eight days and Ethereum up 12% in the same period. The total market cap is now up
 
-Coinpedia Fintech News • 22h ago
+Coinpedia Fintech News • 23h ago
 
 ---
 
@@ -208,7 +208,7 @@ Coinpedia Fintech News • 22h ago
 
 Dubai, UAE, April  10, 2026  (GLOBE NEWSWIRE) -- Pepeto just hit a major checkpoint on its Binance level exchange, pushing the zero fee swap engin...
 
-markets.businessinsider.com • 13h ago
+markets.businessinsider.com • 14h ago
 
 ---
 
@@ -216,7 +216,7 @@ markets.businessinsider.com • 13h ago
 
 Ethereum still occupies the top spot among staking-based blockchains.
 
-thestreet.com • 23h ago
+thestreet.com • 1d ago
 
 ---
 
@@ -238,7 +238,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 2K • 👍 97 • 💬 5 • ⏱️ 15:02 • 17h ago
+👁️ 2K • 👍 111 • 💬 28 • ⏱️ 15:02 • 18h ago
 
 ---
 
@@ -248,7 +248,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 15K • 👍 442 • 💬 20 • ⏱️ 20:08 • 2d ago
+👁️ 15K • 👍 444 • 💬 21 • ⏱️ 20:08 • 2d ago
 
 ---
 
@@ -258,47 +258,17 @@ In this video, I take a closer look at the current Ethereum market structure and
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 205 • 💬 13 • ⏱️ 9:25 • 18h ago
+👁️ 3K • 👍 206 • 💬 13 • ⏱️ 9:25 • 19h ago
 
 ---
 
-**[ETHEREUM BREAKOUT OR DUMP?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=cYcGmcexe6E)**
+**[Ethereum (ETH) Price Prediction Update! —  April 2026](https://www.youtube.com/watch?v=FLYgS1nzrgU)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+In this video, we break down Ethereum's latest price action heading into April 2026 and what the current structure is signaling for ...
 
-📺 Cilinix Crypto
+📺 Gordon Frayne
 
-👁️ 38 • 👍 6 • 💬 2 • ⏱️ 4:38 • 3h ago
-
----
-
-**[CRYPTO LIVE TRADING || 11 APRIL  | ‪@ClockTraderlive‬ #bitcoin #ethereum #crypto #btclivetrading](https://www.youtube.com/watch?v=T4BlXNwD4YY)**
-
-join my social platforms for updates and analysis ✓Instagram: ...
-
-📺 Aryan trader Live
-
-👁️ 8K • 👍 5K • 💬 2 • ⏱️ 1:18:53 • 1h ago
-
----
-
-**[Ethereum (ETH) - Análise de hoje, 11/04/2026 #ETH #Ethereum #BTC #bitcoin #XRP #vitalik #ETH](https://www.youtube.com/watch?v=kVjuNTRfwJA)**
-
-ASSINE agora GEMAS Altcoins Alert !!! - (R$100/mês): https://pay.hotmart.com/Y93614691E https://degenscan.io #eth #BTC ...
-
-📺 Trade with Renato Ulianov
-
-👁️ 314 • 👍 68 • 💬 6 • ⏱️ 2:58 • 3h ago
-
----
-
-**[They Used Ethereum To Start Ja Rule’s Whiskey #conversationsarekey#AmberAndOpal #JaRule](https://www.youtube.com/watch?v=KJPR3E6A2KA)**
-
-During COVID, Entrepreneur Sandy Sandiford and his partners made an unusual investment decision — they used Ethereum to ...
-
-📺 Conversations Are Key Podcast
-
-👁️ 1K • 👍 16 • 💬 1 • ⏱️ 0:49 • 14h ago
+👁️ 113 • 👍 5 • 💬 1 • ⏱️ 12:24 • 8h ago
 
 ---
 
@@ -308,7 +278,47 @@ Coinbase Global (NASDAQ: $COIN) CEO Brian Armstrong is calling for the passage i
 
 📺 Paul Barron Network
 
-👁️ 44K • 👍 2K • 💬 250 • ⏱️ 33:50 • 19h ago
+👁️ 45K • 👍 2K • 💬 253 • ⏱️ 33:50 • 20h ago
+
+---
+
+**[ETHEREUM BREAKOUT OR DUMP?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=cYcGmcexe6E)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 64 • 👍 8 • 💬 2 • ⏱️ 4:38 • 4h ago
+
+---
+
+**[They Used Ethereum To Start Ja Rule’s Whiskey #conversationsarekey#AmberAndOpal #JaRule](https://www.youtube.com/watch?v=KJPR3E6A2KA)**
+
+During COVID, Entrepreneur Sandy Sandiford and his partners made an unusual investment decision — they used Ethereum to ...
+
+📺 Conversations Are Key Podcast
+
+👁️ 1K • 👍 16 • 💬 1 • ⏱️ 0:49 • 15h ago
+
+---
+
+**[CRYPTO LIVE TRADING || 11 APRIL  | ‪@ClockTraderlive‬ #bitcoin #ethereum #crypto #btclivetrading](https://www.youtube.com/watch?v=T4BlXNwD4YY)**
+
+join my social platforms for updates and analysis ✓Instagram: ...
+
+📺 Aryan trader Live
+
+👁️ 12K • 👍 5K • 💬 7 • ⏱️ 1:18:53 • 2h ago
+
+---
+
+**[Ethereum price prediction - ETH will make good money](https://www.youtube.com/watch?v=S1g9zI4MahI)**
+
+Ethereum price prediction. Ethereum looks like it's going to drop over the next few weeks. My ethereum technical analysis helps ...
+
+📺 Crypto With James
+
+👁️ 5K • 👍 48 • 💬 16 • ⏱️ 11:33 • 1d ago
 
 ---
 
@@ -318,17 +328,7 @@ In this video we talk about developments in the Ethereum ecosystem, covering bot
 
 📺 Elijah Cheng
 
-👁️ 6K • 👍 199 • 💬 37 • ⏱️ 37:25 • 21h ago
-
----
-
-**[BITCOIN BREAKOUT CONFIRMED (Short Squeeze Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=OsUEKIvn0tQ)**
-
-BITCOIN BREAKOUT CONFIRMED (Short Squeeze Now)!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
-
-📺 Crypto World
-
-👁️ 5K • 👍 242 • 💬 295 • ⏱️ 20:46 • 15h ago
+👁️ 6K • 👍 206 • 💬 37 • ⏱️ 37:25 • 22h ago
 
 ---
 

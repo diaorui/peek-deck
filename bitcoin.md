@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-11T14:06:46.713546+00:00'
+updated: '2026-04-11T15:02:07.767354+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
 - news
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 11, 2026 at 14:06 UTC  
+**Last Updated:** April 11, 2026 at 15:02 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1460.20B
+**Market Cap:** $1455.84B
 Rank #1
 
-**Circulating Supply:** 20,014,309 BTC
+**Circulating Supply:** 20,014,362 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--42.1%
+-42.3%
 
 **All-Time Low:** $67.81
-+107491.8%
++107165.9%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[My university's business school moved to a new building and we're now in the Satoshi floor. Is this a sign?](https://www.reddit.com/r/Bitcoin/comments/1si9i7t/my_universitys_business_school_moved_to_a_new/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 The stock market is closed on weekend. Bitcoin is one of the few assets that can be traded on weekend. By my understanding, that would mean bitcoins volume should be higher on weekend than on weekdays because traders cant trade stocks, so trading focused on bitcoin. But bitcoins volume on weekends is actually lower than on weekdays, despite weekend, by my logic, being the time frame where everyone would jump to bitcoin because the stock market is closed
 
-3h ago
+4h ago
 
 ---
 
@@ -95,7 +95,7 @@ The stock market is closed on weekend. Bitcoin is one of the few assets that can
 
 I made around 100% in 3 weeks and was happy with that 🫡🫣
 
-19h ago
+20h ago
 
 ---
 
@@ -103,7 +103,7 @@ I made around 100% in 3 weeks and was happy with that 🫡🫣
 
 Japan plans to reclassify cryptocurrencies as financial products under the Financial Instruments and Exchange Act, shifting them from a payment-based framework to one aligned with traditional securities regulation.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/japan-moves-to-classify-bitcoin-and-crypto) • 20h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/japan-moves-to-classify-bitcoin-and-crypto) • 21h ago
 
 ---
 
@@ -111,7 +111,7 @@ Japan plans to reclassify cryptocurrencies as financial products under the Finan
 
 I’m just honestly perplexed why this really matters? For real, what difference is it going to make to finally unmask the real SN and how is that going to change the impact his held coins will make when they’re finally sold? Everyone is anonymous on the chain so why should they be any different? Sure, there’s the impact of data hungry machines and their environmental impact but sincerely that ship sailed a decade ago. But how is any of that going to change once we all know for sure who to blame? Is t it all the rest of us, constantly moving coins around that are to blame? So curious to hear opinions on this article.
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/04/09/podcasts/the-daily/satoshi-nakamoto-bitcoin-creator.html?unlocked_article_code=1.Z1A.Zc6v.htjM1l8I6VbV&smid=nytcore-ios-share) • 15h ago
+🔗 [nytimes.com](https://www.nytimes.com/2026/04/09/podcasts/the-daily/satoshi-nakamoto-bitcoin-creator.html?unlocked_article_code=1.Z1A.Zc6v.htjM1l8I6VbV&smid=nytcore-ios-share) • 16h ago
 
 ---
 
@@ -127,7 +127,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Every cycle we talk about the supply shock, but I’m noticing that volatility is increasingly front-run by institutional algorithms months in advance. Are we reaching a point where the Halving is fully priced in by the time it actually happens? As a developer, I’m seeing more "smart money" infrastructure being built around predicting bot behavior rather than actual supply changes. What’s your take? Is the halving still a factor, or just a scheduled volatility event for the algos?
 
-23m ago
+1h ago
 
 ---
 
@@ -135,7 +135,7 @@ Every cycle we talk about the supply shock, but I’m noticing that volatility i
 
 Got it yesterday and it seems to be running smoothly. Not sure I'll ever hit a block but this was the last piece to a full setup. I have a bitcoin core full node running with inbound/outbound connections, and now I've got 90T helping secure the network, its not much but im doing my part to help decentralize and just maybe I'll hit a block!
 
-13h ago
+14h ago
 
 ---
 
@@ -143,7 +143,7 @@ Got it yesterday and it seems to be running smoothly. Not sure I'll ever hit a b
 
 It looks like the block explorer has been hacked on Blockchain.com. When you search for a wallet address it shows you bunch of specific addresses only. For example for Satoshi address: https://www.blockchain.com/en/explorer/addresses/btc/1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa, it shows me the following ones only: 1PyJph17b4nAKqp4UvbxUZXpoesDzvZkVL 1PAZba3CAFRYm7gNBhrzH8Dz1FkYDCwJPs 1PyJph17b4nAKqp4UvbxUZXpoesDzvZkVL 1PbwAPq7aUepWrrToVh1snhv8mqy9wrGnk bc1qdmaslupuaetajnfzex8zw6jc93ww32ur6gj3we Be aware guys. Also it will be great to report it to Blockchain, but their support system a bit hard to use. Hope they are reading r/Bitcoin sometimes.
 
-21h ago
+22h ago
 
 ---
 
@@ -151,7 +151,7 @@ It looks like the block explorer has been hacked on Blockchain.com. When you sea
 
 An economist named Steve Keen says Bitcoin will go to zero because it uses too much energy. It only took me ten minutes to break down why his "critique" makes no sense
 
-🔗 [youtu.be](https://youtu.be/t7Ca56-XxPM) • 17h ago
+🔗 [youtu.be](https://youtu.be/t7Ca56-XxPM) • 18h ago
 
 ---
 
@@ -179,7 +179,7 @@ CoinDesk • 1d ago
 
 The Bitcoin price surged past $73,000 in the past week, indicating an improved investor risk appetite despite the overwhelming sentiment. This recent rally has been attributed to several factors, but most notably the announcement of a temporary ceasefire in the US-Iran conflict. With the rise in th…
 
-TradingView • 3h ago
+TradingView • 4h ago
 
 ---
 
@@ -195,7 +195,7 @@ BBC • 3d ago
 
 Bitcoin's realized cap rises as stablecoin capital rotates back and futures speculators go net long, mirroring past pre-breakout conditions.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -203,7 +203,7 @@ Yahoo Finance • 1h ago
 
 Iran is looking to charge shipowners a fee of $1 per barrel of oil onboard for safe passage across the Strait of Hormuz, to be paid in cryptocurrency, according to the Financial Times.
 
-Yahoo Finance • 2d ago
+Yahoo Finance • 3d ago
 
 ---
 
@@ -217,7 +217,7 @@ Forbes • 2d ago
 
 The Iranian regime has increasingly resorted to digital assets to evade U.S. sanctions.
 
-Fortune • 18h ago
+Fortune • 19h ago
 
 ---
 
@@ -231,7 +231,7 @@ Forbes • 3d ago
 
 A new brief from the Bitcoin Policy Institute says advances in quantum computing may bring forward risks to Bitcoin’s cryptography, though developers are already working on fixes.
 
-Bitcoin Magazine • 18h ago
+Bitcoin Magazine • 19h ago
 
 ---
 
@@ -249,7 +249,7 @@ Bitcoin Magazine • 18h ago
 
 Country’s oil exporters’ union says toll to be paid in cryptocurrency and vessels monitored for weapons
 
-⬆️ 173 • 💬 275 • 2d ago • [ft.com](https://www.ft.com/content/02aefac4-ea62-48db-9326-c0da373b11b8)
+⬆️ 173 • 💬 275 • 3d ago • [ft.com](https://www.ft.com/content/02aefac4-ea62-48db-9326-c0da373b11b8)
 
 ---
 
@@ -265,7 +265,7 @@ Neha Narula
 
 The average production cost was sitting at $88,000 per bitcoin in mid-March, according to Checkonchain's difficulty regression model.
 
-⬆️ 50 • 💬 31 • 44m ago • [coindesk.com](https://www.coindesk.com/markets/2026/03/22/bitcoin-miners-are-losing-usd19-000-on-every-btc-produced-as-difficulty-drops-7-8)
+⬆️ 50 • 💬 31 • 1h ago • [coindesk.com](https://www.coindesk.com/markets/2026/03/22/bitcoin-miners-are-losing-usd19-000-on-every-btc-produced-as-difficulty-drops-7-8)
 
 ---
 
@@ -301,7 +301,7 @@ New York Times report claims London-born Adam Back is creator of the cryptocurre
 
 Bitcoin Core Will Maintain the Protocol. It May Not Save It. The reference implementation that sustains a $1.4 trillion network continues to produce quality code while losing the institutional capa...
 
-⬆️ 3 • 💬 0 • 8h ago • [GitHub](https://github.com/bitcoin/bitcoin/issues/35055)
+⬆️ 3 • 💬 0 • 9h ago • [GitHub](https://github.com/bitcoin/bitcoin/issues/35055)
 
 ---
 
@@ -317,31 +317,23 @@ For years, bitcoin creator Satoshi Nakamoto has avoided discovery. Now, a 10,000
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin &amp; AI Will DOMINATE The Next Rotation](https://www.youtube.com/watch?v=urhiMNIk27Q)**
+
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+
+📺 Anthony Pompliano
+
+👁️ 5K • 👍 580 • 💬 17 • ⏱️ 52:49 • 2h ago
+
+---
+
 **[Did Morgan Stanley Just Trigger a Bitcoin SUPPLY SHOCK? | Trillions Are Coming!](https://www.youtube.com/watch?v=QZoep8QfSqk)**
 
 Everyone is distracted by Satoshi theories while real money floods into Bitcoin. A $10 trillion asset manager just made a historic ...
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 1K • 💬 85 • ⏱️ 10:48 • 17h ago
-
----
-
-**[How The Trumps Blew $1 Billion On Bitcoin](https://www.youtube.com/watch?v=waQJEjiPWhg)**
-
-Plenty of crypto newbies lost money chasing the bitcoin boom that followed Donald Trump's reelection. None of them took as big a ...
-
-📺 Forbes
-
-👁️ 49K • 👍 1K • 💬 203 • ⏱️ 5:05 • 20h ago
-
----
-
-**[This Isn’t a Normal #bitcoin Mining Facility…](https://www.youtube.com/watch?v=4j79-5d5XVQ)**
-
-📺 Compass Mining
-
-👁️ 361 • 👍 12 • ⏱️ 0:55 • 1h ago
+👁️ 21K • 👍 1K • 💬 87 • ⏱️ 10:48 • 18h ago
 
 ---
 
@@ -351,37 +343,17 @@ Follow me on X for my best content: http://www.X.com/AdamBLiv Transform Dormant 
 
 📺 Adam Livingston
 
-👁️ 8K • 👍 717 • 💬 165 • ⏱️ 18:40 • 16h ago
+👁️ 8K • 👍 764 • 💬 202 • ⏱️ 18:40 • 17h ago
 
 ---
 
-**[CLARITY Rally in 3 Days?📈Crypto Technical Analysis @TimWarrenTrades](https://www.youtube.com/watch?v=96h2EGSZvEk)**
+**[The White House Just Leaked Crypto’s Future.](https://www.youtube.com/watch?v=HmPN38i0wnc)**
 
-Coinbase Global (NASDAQ: $COIN) CEO Brian Armstrong is calling for the passage in Congress of the U.S. Clarity Act.
+GREAT NEWS! Clarity act just received...some clarity. Research paper ...
 
-📺 Paul Barron Network
+📺 Digital Asset News
 
-👁️ 44K • 👍 2K • 💬 250 • ⏱️ 33:50 • 19h ago
-
----
-
-**[Morgan Stanley&#39;s Bitcoin ETF Move Changes Everything - Adam Back Explains](https://www.youtube.com/watch?v=fXwN3pW3nZk)**
-
-Is Adam Back the real Satoshi Nakamoto? He addresses the enduring mystery of Bitcoin's anonymous creator and explains why ...
-
-📺 Yahoo Finance
-
-👁️ 15K • 👍 250 • 💬 142 • ⏱️ 8:56 • 1d ago
-
----
-
-**[Bitcoin Billionaire Reveals His Current Investing Strategy](https://www.youtube.com/watch?v=CELblcz2AYk)**
-
-Arthur Hayes is the CIO of Maelstrom and co-founder of BitMEX. In this conversation, we break down what's really happening in ...
-
-📺 Anthony Pompliano
-
-👁️ 41K • 👍 2K • 💬 6 • ⏱️ 49:53 • 1d ago
+👁️ 23K • 👍 1K • 💬 84 • ⏱️ 18:39 • 2d ago
 
 ---
 
@@ -391,27 +363,57 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 ✓
 
 📺 Altcoin Daily
 
-👁️ 39K • 👍 2K • 💬 369 • ⏱️ 12:20 • 1d ago
+👁️ 39K • 👍 2K • 💬 374 • ⏱️ 12:20 • 1d ago
 
 ---
 
-**[&#39;I am not Satoshi,&#39; says Adam Back on bitcoin creator theory](https://www.youtube.com/watch?v=4Ql-xCNBElk)**
+**[Morgan Stanley&#39;s Bitcoin ETF Move Changes Everything - Adam Back Explains](https://www.youtube.com/watch?v=fXwN3pW3nZk)**
 
-CNBC's “Squawk Box” team talks about the potential true identity of Bitcoin creator Satoshi Nakamoto after New York Times' ...
+Is Adam Back the real Satoshi Nakamoto? He addresses the enduring mystery of Bitcoin's anonymous creator and explains why ...
 
-📺 CNBC Television
+📺 Yahoo Finance
 
-👁️ 16K • 👍 170 • 💬 78 • ⏱️ 4:51 • 1d ago
+👁️ 15K • 👍 252 • 💬 144 • ⏱️ 8:56 • 1d ago
 
 ---
 
-**[&quot;What Are The Odds Bitcoin Goes Lower?&quot; (Chart Shown: BTC/USD)](https://www.youtube.com/watch?v=dvcmXYCs2Gc)**
+**[BITCOIN: INTO THE WEEKEND ANALYSIS!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=lspWhxC85CM)**
 
-Into The Cryptoverse Premium: https://intothecryptoverse.com For inquiries and to subscribe to the monthy newsletter (free): ...
+My Trading Signals https://discord.com/invite/jRAnCV9CTB Trade on MEXC ...
 
-📺 Benjamin Cowen
+📺 Road To $1 Million USD
 
-👁️ 32K • 👍 497 • 💬 13 • ⏱️ 0:47 • 1d ago
+👁️ 3K • 👍 206 • 💬 16 • ⏱️ 7:04 • 16h ago
+
+---
+
+**[MAXIMUM PAIN for Bitcoin isn&#39;t what you think . . .[90% will be SHOCKED]](https://www.youtube.com/watch?v=0_SxNyU0bXU)**
+
+Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bitunix ...
+
+📺 Tyler S
+
+👁️ 10K • 👍 693 • 💬 398 • ⏱️ 19:36 • 22h ago
+
+---
+
+**[Iran Just Put a Bitcoin Toll on The World&#39;s Oil Supply! (The Petrodollar Is DONE)](https://www.youtube.com/watch?v=X_ADrg6SirI)**
+
+A sanctioned nation is building a sovereign Bitcoin treasury through a toll booth. Iran is demanding Bitcoin as payment for oil ...
+
+📺 Simply Bitcoin
+
+👁️ 36K • 👍 3K • 💬 307 • ⏱️ 23:12 • 1d ago
+
+---
+
+**[How The Trumps Blew $1 Billion On Bitcoin](https://www.youtube.com/watch?v=waQJEjiPWhg)**
+
+Plenty of crypto newbies lost money chasing the bitcoin boom that followed Donald Trump's reelection. None of them took as big a ...
+
+📺 Forbes
+
+👁️ 52K • 👍 1K • 💬 212 • ⏱️ 5:05 • 21h ago
 
 ---
 

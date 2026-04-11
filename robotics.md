@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-11T14:06:46.722631+00:00'
+updated: '2026-04-11T15:02:07.775608+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 11, 2026 at 14:06 UTC  
+**Last Updated:** April 11, 2026 at 15:02 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2042912788717408509
 
-2h ago
+3h ago
 
 ---
 
@@ -44,7 +44,7 @@ From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2042912788717408509
 
 I've been seeing a lot of noise from the tech world about robotics being the next big wave. Curious what people actually deploying and maintaining these systems think. What's working, what's vaporware, and what does the gap between a demo and a real production deployment actually look like?
 
-4h ago
+5h ago
 
 ---
 
@@ -58,7 +58,7 @@ I've been seeing a lot of noise from the tech world about robotics being the nex
 
 58 Home partnered with X Square Robot to launch a cleaning service in Shenzhen where a human cleaner shows up with a robot partner. The robot handles structured tasks like wiping surfaces, picking up debris, and tidying, while the human handles everything that requires judgment. What makes this interesting from a technical standpoint: the robot runs on an end-to-end VLA (Vision-Language-Action) model called WALL-A that takes video and language input and outputs motor commands directly with no intermediate planning layer. But the real story isn't the model architecture, it's the deployment strategy. The company frames this as "grass-fed vs grain-fed" training data. Models trained on clean lab data perform well in controlled environments but fall apart in real homes where every apartment has a different layout, random clutter on the floor, pets walking through the workspace, kids' toys in unpredictable places. You can see in this video exactly why that matters: the robot is navigating around a Corgi, working in a room absolutely covered in children's toys, and dealing with narrow doorways in a real Chinese apartment. None of this is a problem you'd encounter in a lab. A few years ago this kind of footage would have been a staged demo. The fact that it's a paying service operating in real apartments suggests robots in everyday homes are closer than most people think.
 
-23h ago
+1d ago
 
 ---
 
@@ -66,7 +66,7 @@ I've been seeing a lot of noise from the tech world about robotics being the nex
 
 Context and Setup : Ros2 Humble , Gazebo Ignition Fortress . Ubuntu 22.04 I am trying to make a SLAM robot this was my model with Lidar (laser_frame) in Rviz current I am publishing to cmd_vel to rotate the bot but along with the bot the 2D point cloud is also rotating in Rviz. is this normal or a problem (actually having issues with mapping too) tf: Map ->odom -> base_footprint-> base_link -> laser_frame Please help , stuck here.
 
-18h ago
+19h ago
 
 ---
 
@@ -74,7 +74,7 @@ Context and Setup : Ros2 Humble , Gazebo Ignition Fortress . Ubuntu 22.04 I am t
 
 I'm currently working on a Yaskawa Ms-100 with Dx100, changing a wrist unit. The manual we have is for a MS-100II with DX200. This manual says the wrist uses flange sealant. We removed the wrist and found that there is an O-ring. The manual does not show this O-ring on the parts list or diagram. I cannot find a MS100 specific manual on Yaskawa's site, only the MS100II. Is anyone familiar with these that could offer some advice?
 
-5h ago
+6h ago
 
 ---
 
@@ -82,7 +82,7 @@ I'm currently working on a Yaskawa Ms-100 with Dx100, changing a wrist unit. The
 
 How do u solve a problem of Coverage path planning ? I’m stuck at generating a trajectory for coordinates with surface normals. Whats the ideal approach to tackle the trajectory generation which would cover the whole region.
 
-8h ago
+9h ago
 
 ---
 
@@ -104,7 +104,7 @@ We are publishing our first deep dive on what we believe is one of the most chal
 
 You can try it at flomotion.app it took me a few months to build it. For now it's basically free AI. I would appreciate if you could tell me how to make it better and more useful. I learned a lot about robotics while building and testing it.
 
-23h ago
+1d ago
 
 ---
 
@@ -124,7 +124,7 @@ IFR International Federation of Robotics • 3d ago
 
 Meet 'Digit', a humanoid robotic worker made by Agility Robotics, now part of a new wave of robots replacing workers at companies like Schaeffler, Toyota, and GXO. NBC News' Brian Cheung takes a look.
 
-NBC News • 1h ago
+NBC News • 2h ago
 
 ---
 
@@ -148,7 +148,7 @@ Interesting Engineering • 2d ago
 
 In his annual letter to shareholders, Jassy shares how robotics, faster rural delivery, and broadband connectivity for underserved customers and geographies will help improve the customer experience.
 
-About Amazon • 22h ago
+About Amazon • 23h ago
 
 ---
 
@@ -200,57 +200,17 @@ Could AI become dangerous? Can we trust AI Agents? AGI. Use code insideai at htt
 
 📺 InsideAI
 
-👁️ 324K • 👍 14K • 💬 1K • ⏱️ 16:24 • 1d ago
+👁️ 332K • 👍 15K • 💬 1K • ⏱️ 16:24 • 1d ago
 
 ---
 
-**[South Korea Is Building Robots the World Didn’t See Coming!](https://www.youtube.com/watch?v=H09m8a3oL_4)**
+**[Why the Lymow One Plus is the Best Robot Mower Not Sponsored](https://www.youtube.com/watch?v=TCBaaSISul8)**
 
-South Korea is building robots you've only seen in movies, from giant walking machines to exoskeletons that give people back ...
+Lymow → https://lymowtradecolimited.pxf.io/OYr2VG The Lymow One Plus isn't your average robot mower. Instead of those tiny, ...
 
-📺 DeCode
+📺 How To with Doc
 
-👁️ 44K • 👍 850 • 💬 72 • ⏱️ 14:45 • 1d ago
-
----
-
-**[Tesla Optimus Gen 3 FINALLY HERE: $20,000 Robot Works 24/7 — No Salary, No Sleep, No Limits](https://www.youtube.com/watch?v=UTASTLBTRDE)**
-
-Tesla Optimus Gen 3 $20K robot shocks—24/7 worker that could replace jobs fast ✓ All Breaking NEWS: ...
-
-📺 Tech Revolution
-
-👁️ 5K • 👍 165 • 💬 23 • ⏱️ 19:27 • 6d ago
-
----
-
-**[I found the MINOS CHEAT CODE in War Robots](https://www.youtube.com/watch?v=SC1cTg5jbX0)**
-
-Join the Marvel Strike Force 8th Anniversary Event NOW: https://bit.ly/4m9Pyon Use code MSF8 to get Deadpool, Gwenpool, ...
-
-📺 Manni-Gaming
-
-👁️ 12K • 👍 613 • 💬 105 • ⏱️ 16:14 • 23h ago
-
----
-
-**[2026 Ultimate Robot Vacuum and Mop Comparison || Roborock, Eufy, Dreame, Narwal, Ecovacs, MOVA](https://www.youtube.com/watch?v=Pv9_2D_Xc5k)**
-
-I tested every flagship robotic vacuum and mop from Roborock, Eufy, Dreame, Narwal, Ecovacs, and MOVA available in 2025 to ...
-
-📺 The Hook Up
-
-👁️ 19K • 👍 671 • 💬 156 • ⏱️ 26:12 • 2d ago
-
----
-
-**[Optimus Prime Evolution: Ultimate Robot Truck Toys Comparison &amp; Step-by-Step Transformation Details](https://www.youtube.com/watch?v=wMIHYod8c7g)**
-
-Welcome to the ultimate Optimus Prime comparison! In this video, we dive deep into the world of Transformers toys, comparing ...
-
-📺 Bob ToysReview
-
-👁️ 5K • 👍 3K • 💬 166 • ⏱️ 9:25 • 6h ago
+👁️ 12K • 👍 780 • 💬 142 • ⏱️ 21:24 • 1d ago
 
 ---
 
@@ -264,21 +224,61 @@ The world wasn't ready for what 2026 had in store — a wave of humanoid robots 
 
 ---
 
+**[South Korea Is Building Robots the World Didn’t See Coming!](https://www.youtube.com/watch?v=H09m8a3oL_4)**
+
+South Korea is building robots you've only seen in movies, from giant walking machines to exoskeletons that give people back ...
+
+📺 DeCode
+
+👁️ 45K • 👍 863 • 💬 78 • ⏱️ 14:45 • 2d ago
+
+---
+
+**[I found the MINOS CHEAT CODE in War Robots](https://www.youtube.com/watch?v=SC1cTg5jbX0)**
+
+Join the Marvel Strike Force 8th Anniversary Event NOW: https://bit.ly/4m9Pyon Use code MSF8 to get Deadpool, Gwenpool, ...
+
+📺 Manni-Gaming
+
+👁️ 12K • 👍 631 • 💬 107 • ⏱️ 16:14 • 1d ago
+
+---
+
 **[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=K_maQBulcfg)**
 
 📺 Robot Julie 
 
-👁️ 25K • 👍 53 • 💬 2 • ⏱️ 0:21 • 1d ago
+👁️ 25K • 👍 55 • 💬 2 • ⏱️ 0:21 • 1d ago
 
 ---
 
-**[Subduer Are SO Back… Where Have They Been? Rust Beast | War Robots](https://www.youtube.com/watch?v=uWk_XDpdg8M)**
+**[Dyson Spot+Scrub AI Robot First Look | Unboxing, Setup, Mop Test &amp; Vacuum Test](https://www.youtube.com/watch?v=OzRA4uCMWOI)**
 
-The Subduer are back!? I haven't used subduer in years now and I barely see them on the battlefield. So let's see what Subduer ...
+In this video, I'll show you a first look at the brand-new Dyson Spot+Scrub AI Robot Vacuum and Mop. Dyson Spot+Scrub Ai™ Wet ...
 
-📺 PREDATOR WR
+📺 Just A Dad Approved
 
-👁️ 10K • 👍 466 • 💬 50 • ⏱️ 15:33 • 1d ago
+👁️ 1K • 👍 53 • 💬 22 • ⏱️ 55:21 • 3h ago
+
+---
+
+**[Are AI soldiers about to take over the battlefield? | DW News](https://www.youtube.com/watch?v=q83LtZza5eA)**
+
+US startup Foundation is developing humanoid robots for military use. The goal is for its Phantom model to identify targets and ...
+
+📺 DW News
+
+👁️ 72K • 👍 550 • 💬 101 • ⏱️ 1:22 • 5d ago
+
+---
+
+**[Optimus Prime Evolution: Ultimate Robot Truck Toys Comparison &amp; Step-by-Step Transformation Details](https://www.youtube.com/watch?v=wMIHYod8c7g)**
+
+Welcome to the ultimate Optimus Prime comparison! In this video, we dive deep into the world of Transformers toys, comparing ...
+
+📺 Bob ToysReview
+
+👁️ 9K • 👍 3K • 💬 166 • ⏱️ 9:25 • 7h ago
 
 ---
 
@@ -286,7 +286,7 @@ The Subduer are back!? I haven't used subduer in years now and I barely see them
 
 📺 Robot Julie 
 
-👁️ 132K • 👍 956 • 💬 7 • ⏱️ 0:22 • 2d ago
+👁️ 134K • 👍 967 • 💬 7 • ⏱️ 0:22 • 2d ago
 
 ---
 
