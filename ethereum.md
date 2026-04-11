@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-11T13:00:54.865947+00:00'
+updated: '2026-04-11T14:06:46.719472+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
-- cryptocurrency
 - social
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 11, 2026 at 13:00 UTC  
+**Last Updated:** April 11, 2026 at 14:06 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,245.01
+### $2,240.67
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.0%  
-**7d:** +6.4%  
-**30d:** +7.2%  
-**90d:** -27.6%  
-**1y:** +36.3%  
+**24h:** +0.8%  
+**7d:** +6.2%  
+**30d:** +7.1%  
+**90d:** -27.7%  
+**1y:** +36.2%  
 
 ---
 
@@ -68,6 +68,14 @@ No max supply
 
 ## Reddit: r/ethereum
 
+**[My journey trying to build something useful](https://www.reddit.com/r/ethereum/comments/1sij1vy/my_journey_trying_to_build_something_useful/)**
+
+Over the past year I've been thinking a lot about Web3. Not the trading, not the speculation, not the casino. I don't trade crypto. I don't follow the markets. What fascinates me is the underlying idea: decentralized systems with code as the only authority. The technology itself. I've been a backend engineer for over a decade. Rails, SQL, the usual stack. But like many engineers, I burned out. The excitement to build faded. You know the feeling. You're competent, productive, but not discovering anything anymore. Then I looked seriously at blockchain. Not as an investor, but as an engineer. I asked myself: what would an application look like if built with absolute fidelity to what blockchain promises? Real utility (useful for the masses, not DeFi nonesense) NO off-chain layers (100% on-chain) NO insider advantages (fair economics) NO dependence on investors (self-sustaining) NO pointless tokenomics (ETH in, ETH out) Those five principles became my compass. I tried to build something that never violated them. But the Web3 ecosystem is built around tokenomics and speculation. There's no blueprint to follow. So I started pulling my own thread: I wanted to build something useful, deterministic, fully on-chain, with no complicated tokenomics. A simple game like TicTacToe with real ETH stakes? Interesting, but too narrow. Then the frame shifted. I wasn't building a game anymore. I was building a tournament layer. A universal competitive infrastructure that's fair, open-source, and 100% on-chain. That's when the hard problems started. How do you handle draws on a decentralized platform? How do you stop players griefing opponents without central authority? These aren't just technical questions. They're moral ones. They forced me to think deeply about fairness, about building a system nobody controls and nobody can manipulate. The answers surprised me. Forget Kubernetes, Redis, all that complexity. With these constraints (fully on-chain, truly open, completely decentralized) the legacy stack collapses into something elegant. A client talking directly to contracts. No servers. No databases. No company. Just code. That freedom changed how I think about software. So I built ETour A 100% on-chain tournament protocol, now live on Arbitrum. Players pay an entry fee, compete, the best player wins and takes the pot. Code decides everything. No intermediaries. As Web3 should be. I open-sourced it so developers can build their own games on it and inherit all of its features for free. I'm not here to tell you this is revolutionary. I built this because it felt like a problem worth solving. ETour is what came out the other side. The code is public. The contracts are immutable. The logic is yours to verify. PS: The technical docs are not final and will be updated soon. https://etour.games https://etour.games/whitepaper https://etour.games/manual https://etour.games/docs TLDR: ETour is useful, it's live, and it's open-source. Go ahead and play on it, or build your own game using its 100% on-chain and open source tournament modules.
+
+41m ago
+
+---
+
 **[I tracked how much MEV I lost over 6 months of trading on DEXs. the number was disgusting.](https://www.reddit.com/r/ethereum/comments/1shi3pv/i_tracked_how_much_mev_i_lost_over_6_months_of/)**
 
 So I went back through my wallet history and used a couple of MEV tracking tools to figure out how much value I actually lost to sandwich attacks and front-running over the past 6 months. not gonna share exact numbers but it was enough to make me seriously rethink where and how I trade on-chain. the thing that pissed me off the most wasn't even the big trades. it was the small ones. $200-500 swaps getting sandwiched for a few bucks each time. doesn't feel like much in the moment but it adds up fast when you're making multiple trades a week. what I learned: AMMs are basically open season for MEV bots. your trade hits the mempool and you're cooked private RPCs like flashbots protect help but they're not a complete solution. you're still trusting the builder not to screw you intent-based systems (cow swap etc) are better but they introduce solver trust assumptions and don't work for everything the only architecture where MEV extraction is structurally impossible is one where transaction ordering is provable and verifiable. not hidden, not trusted, but mathematically proven to be fair honestly the biggest takeaway is that most people have no idea how much they're losing. the "invisible tax" framing is accurate. you never see a line item that says "MEV bot took $4.50 from this trade" but it's happening on basically every swap. anyone else tracked their MEV losses? curious what numbers people are seeing. also curious if anyone has found a setup that actually eliminates it, not just reduces it.
@@ -80,7 +88,7 @@ So I went back through my wallet history and used a couple of MEV tracking tools
 
 Roman Storm acquittal hearing, ETHGlobal Cannes hackathon finalists, EVM Now block explorer
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-19/) • 22h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-19/) • 23h ago
 
 ---
 
@@ -140,14 +148,6 @@ I just built ethlocal.world: a simple way to explore Ethereum activity around th
 
 ---
 
-**[Daily General Discussion April 07, 2026](https://www.reddit.com/r/ethereum/comments/1semjl8/daily_general_discussion_april_07_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-4d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -164,13 +164,13 @@ Decrypt • 1d ago
 
 Ethereum’s growing base of active users may be one reason investors are putting more money into it — and less into Bitcoin.Exchange Outflows Point To A Shift In Holding BehaviorData from on-chain research firm XWIN Research shows Ethereum recorded a sustained drop in exchange-held supply throughout…
 
-TradingView • 3h ago
+TradingView • 4h ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Friday, April 10, 2026: Prices rise ahead of CPI report](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-april-10-2026-prices-rise-ahead-of-cpi-report-111733660.html)**
+**[Tom Lee's BitMine Uplisted to NYSE as Ethereum Firm Expands Buyback Program to $4 Billion](https://finance.yahoo.com/markets/stocks/articles/tom-lees-bitmine-uplisted-nyse-155826429.html)**
 
-Bitcoin opened at $71,783.52 on Friday and then rose slightly in early trading. Ethereum showed the same trend, opening at $2,189.99 and rising somewhat in early hours.
+Ethereum treasury giant BitMine Immersion Technologies upped its share buyback program to $4 billion and was uplisted to the NYSE on Thursday.
 
 Yahoo Finance • 1d ago
 
@@ -184,9 +184,15 @@ Seeking Alpha • 1d ago
 
 ---
 
+**[Bitmine Stock Plugs Into a New Power Source as Ethereum Holdings Hits Record Highs; BMNR Up 15%](https://www.tipranks.com/news/bitmine-stock-plugs-into-a-new-power-source-as-ethereum-holdings-hit-record-highs-bmnr-up-15)**
+
+TipRanks • 2d ago
+
+---
+
 **[Most large cryptocurrencies fall as Ethereum tumbles](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-as-ethereum-tumbles-91a2f421-9307bc266dcb)**
 
-MarketWatch • 1d ago
+MarketWatch • 2d ago
 
 ---
 
@@ -194,7 +200,7 @@ MarketWatch • 1d ago
 
 The crypto market has rebounded, with Bitcoin rising 10% over the last eight days and Ethereum up 12% in the same period. The total market cap is now up
 
-Coinpedia Fintech News • 21h ago
+Coinpedia Fintech News • 22h ago
 
 ---
 
@@ -202,7 +208,7 @@ Coinpedia Fintech News • 21h ago
 
 Dubai, UAE, April  10, 2026  (GLOBE NEWSWIRE) -- Pepeto just hit a major checkpoint on its Binance level exchange, pushing the zero fee swap engin...
 
-markets.businessinsider.com • 12h ago
+markets.businessinsider.com • 13h ago
 
 ---
 
@@ -210,23 +216,15 @@ markets.businessinsider.com • 12h ago
 
 Ethereum still occupies the top spot among staking-based blockchains.
 
-thestreet.com • 22h ago
+thestreet.com • 23h ago
 
 ---
 
-**[Ethereum Foundation swaps 5,000 ETH into stablecoins for operational and grant funding](https://www.theblock.co/post/396728/ethereum-foundation-swaps-5000-eth-stablecoins-operational-grant-funding)**
+**[Current price of Ethereum for April 10, 2026](https://fortune.com/article/price-of-ethereum-04-10-2026/)**
 
-So far, the CoWSwap TWAP transactions have been drawn from a wallet associated with the Ethereum Foundation's DeFi activities.
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-The Block • 2d ago
-
----
-
-**[Bitmine controls 3.8% of Ethereum supply as hedge against Iran conflict](https://cryptobriefing.com/bitmine-controls-38-of-ethereum-supply-as-hedge-against-iran-conflict/)**
-
-Bitmine now controls 3.8% of Ethereum's circulating supply, valued at $10 billion, as a hedge against the Iran conflict. The Ethereum price above $2,200 market
-
-Crypto Briefing • 5h ago
+Fortune • 1d ago
 
 ---
 
@@ -240,7 +238,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 2K • 👍 97 • 💬 5 • ⏱️ 15:02 • 16h ago
+👁️ 2K • 👍 97 • 💬 5 • ⏱️ 15:02 • 17h ago
 
 ---
 
@@ -260,7 +258,7 @@ In this video, I take a closer look at the current Ethereum market structure and
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 205 • 💬 13 • ⏱️ 9:25 • 17h ago
+👁️ 3K • 👍 205 • 💬 13 • ⏱️ 9:25 • 18h ago
 
 ---
 
@@ -270,7 +268,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 38 • 👍 6 • 💬 2 • ⏱️ 4:38 • 2h ago
+👁️ 38 • 👍 6 • 💬 2 • ⏱️ 4:38 • 3h ago
 
 ---
 
@@ -280,7 +278,7 @@ join my social platforms for updates and analysis ✓Instagram: ...
 
 📺 Aryan trader Live
 
-👁️ 8K • 👍 5K • 💬 2 • ⏱️ 1:18:53 • 7m ago
+👁️ 8K • 👍 5K • 💬 2 • ⏱️ 1:18:53 • 1h ago
 
 ---
 
@@ -290,7 +288,7 @@ ASSINE agora GEMAS Altcoins Alert !!! - (R$100/mês): https://pay.hotmart.com/Y9
 
 📺 Trade with Renato Ulianov
 
-👁️ 314 • 👍 68 • 💬 6 • ⏱️ 2:58 • 2h ago
+👁️ 314 • 👍 68 • 💬 6 • ⏱️ 2:58 • 3h ago
 
 ---
 
@@ -300,7 +298,7 @@ During COVID, Entrepreneur Sandy Sandiford and his partners made an unusual inve
 
 📺 Conversations Are Key Podcast
 
-👁️ 1K • 👍 16 • 💬 1 • ⏱️ 0:49 • 13h ago
+👁️ 1K • 👍 16 • 💬 1 • ⏱️ 0:49 • 14h ago
 
 ---
 
@@ -310,7 +308,7 @@ Coinbase Global (NASDAQ: $COIN) CEO Brian Armstrong is calling for the passage i
 
 📺 Paul Barron Network
 
-👁️ 44K • 👍 2K • 💬 250 • ⏱️ 33:50 • 18h ago
+👁️ 44K • 👍 2K • 💬 250 • ⏱️ 33:50 • 19h ago
 
 ---
 
@@ -320,7 +318,7 @@ In this video we talk about developments in the Ethereum ecosystem, covering bot
 
 📺 Elijah Cheng
 
-👁️ 6K • 👍 199 • 💬 37 • ⏱️ 37:25 • 20h ago
+👁️ 6K • 👍 199 • 💬 37 • ⏱️ 37:25 • 21h ago
 
 ---
 
@@ -330,7 +328,7 @@ BITCOIN BREAKOUT CONFIRMED (Short Squeeze Now)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 5K • 👍 242 • 💬 295 • ⏱️ 20:46 • 14h ago
+👁️ 5K • 👍 242 • 💬 295 • ⏱️ 20:46 • 15h ago
 
 ---
 
