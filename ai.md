@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-11T20:35:40.703003+00:00'
+updated: '2026-04-11T21:34:15.448280+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- repositories
 - news
+- repositories
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** April 11, 2026 at 20:35 UTC  
+**Last Updated:** April 11, 2026 at 21:34 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Six months ago I committed to using AI tools for everything I possibly could in my work. Every day, every task, every workflow. Here's the honest report as of April 2026. What's Genuinely Incredible First drafts of anything — AI eliminated the blank-page problem entirely. I don't dread starting anymore. Research synthesis — Feeding 10 articles into Claude Opus 4.6 and asking "what's the common thread?" gets me a better synthesis in 2 minutes than I could produce in an hour. Code for non-coders — I've built automation scripts, web scrapers, and a custom dashboard without knowing how to code. Cursor (powered by Claude) changed what "non-technical" means. The tool has 2M+ users now for good reason. Getting unstuck — Talking through a problem with an AI that can actually push back is underrated. Not therapy, but something. Learning new topics fast — "Teach me [topic] like I'm smart but completely new to this. What are the most common misconceptions?" is my go-to for rapid learning. What's Massively Overhyped "AI will do it for you" — Everything still requires your judgment and context. The AI drafts. You think. AI SEO content — The "publish 100 AI articles and watch traffic pour in" strategy is even more dead in 2026 than it was in 2024. Google has gotten much better at identifying low-value AI content. AI chatbots for customer service — Unless you invest heavily in training and iteration, they frustrate users more than they help. "Set it and forget it" automation — AI workflows break. They require monitoring. Fully autonomous workflows exist only in narrow, controlled cases. Chasing the newest model — New model releases happen constantly now. I've learned to stay on a model that works for my tasks rather than jumping to every new release. What's Quietly Dangerous (Nobody Talks About This) Skill atrophy — My first-draft writing has gotten worse. I outsourced that skill and I'm losing the muscle. I now intentionally write without AI some days. Confidence without competence — Frontier models give confident-sounding answers to things they don't know. If you're not knowledgeable enough to catch errors, you can build strategies on wrong foundations. The "good enough" trap — AI output is often 80% there. If you stop at 80%, your work looks like everyone else's. The 20% you add is the differentiation. Over-automation without understanding — I automated a workflow without fully understanding it first. When it broke, I couldn't fix it. Understand before you automate. Vendor dependency — My workflows are deeply integrated with specific AI tools and APIs. Pricing changes, policy shifts, and service disruptions are real risks at this point. The Honest Summary AI tools have made me more productive, creative, and capable than I've ever been. They've also made me lazier in ways I didn't notice until recently. The people winning with AI in 2026 aren't the ones using the most tools or running the newest models. They're the ones using AI to amplify genuine skills and judgment — not replace them. What's your honest take after 6+ months of serious AI use? Curious whether others have hit these same walls.
 
-18h ago
+19h ago
 
 ---
 
@@ -49,7 +49,7 @@ Six months ago I committed to using AI tools for everything I possibly could in 
 
 In addition to their efforts around the Lemonade SDK itself, AMD software engineers working on their AI initiatives continue to be investing quite a bit into the Lemonade-using GAIA, the project that originally stood for 'Generative AI Is Awesome'
 
-🔗 [phoronix.com](https://www.phoronix.com/news/AMD-GAIA-True-Desktop-App) • 33m ago
+🔗 [phoronix.com](https://www.phoronix.com/news/AMD-GAIA-True-Desktop-App) • 1h ago
 
 ---
 
@@ -57,7 +57,7 @@ In addition to their efforts around the Lemonade SDK itself, AMD software engine
 
 I’ve been thinking about feedback loops for social behavior. Most of us only get delayed, messy feedback: awkward silence, a vibe shift, someone not replying and so on... well, it’s hard to learn from. I’m exploring a wearable AI concept that gives lightweight real-time signals (like “attention increased” or “people are disengaging”) based on on-device computer vision. No recording, no storage, just immediate processing and discard. I’m not trying to gamify people or turn relationships into metrics. I’m trying to find the line where feedback is helpful, not obsessive. What would be a red flag that the product is pushing people into over-optimization? Should feedback be “after the fact” summaries only, not real-time? I'm open to your ideas and opinions.
 
-4h ago
+5h ago
 
 ---
 
@@ -65,7 +65,7 @@ I’ve been thinking about feedback loops for social behavior. Most of us only g
 
 Browser Rendering now exposes the Chrome DevTools Protocol, which means MCP clients can access a remote browser directly. That’s a pretty big deal because it opens the door to more capable browser automation, debugging, and agent workflows without needing to run Chrome locally. Why this matters: Remote browser access makes MCP setups more flexible. DevTools Protocol support means richer control over pages, tabs, network activity, and debugging. This is especially useful for AI agents and dev tools that need real browser interaction. This feels like one of those small platform changes that quietly unlocks a lot of new use cases. If you build with MCP, this could become a very useful primitive.
 
-11h ago
+12h ago
 
 ---
 
@@ -73,7 +73,7 @@ Browser Rendering now exposes the Chrome DevTools Protocol, which means MCP clie
 
 How has Claude far surpassed the competitors? They were not first to market or ever had the most cash yet their feature are far and away the best on the market.
 
-23h ago
+1d ago
 
 ---
 
@@ -89,7 +89,7 @@ A California man, who has filed multiple lawsuits against major university syste
 
 Hi everyone, I’ve been exploring MCP and integrating tools like n8n with Claude Code, and I’m trying to understand how practical this really is in real-world workflows. From what I’ve seen, it looks powerful in terms of automation and connecting external tools, but I’m still unclear on a few things: Are you actually using MCP in production or just experimenting? How reliable is it when workflows get complex? Does combining it with n8n meaningfully improve productivity, or does it add more overhead? How do you handle security concerns when giving models access to external systems? Do you think this kind of setup could realistically replace parts of a developer’s workflow, or is it more of an assistant layer? Would really appreciate hearing real experiences (good or bad)
 
-6h ago
+7h ago
 
 ---
 
@@ -97,7 +97,7 @@ Hi everyone, I’ve been exploring MCP and integrating tools like n8n with Claud
 
 Interdisciplinary team of U researchers builds a framework for assessing varying levels of automation in a mental health field reliant on human interaction.
 
-🔗 [attheu.utah.edu](https://attheu.utah.edu/health-medicine/how-far-can-automation-and-ai-support-psychotherapy/) • 4h ago
+🔗 [attheu.utah.edu](https://attheu.utah.edu/health-medicine/how-far-can-automation-and-ai-support-psychotherapy/) • 5h ago
 
 ---
 
@@ -105,7 +105,7 @@ Interdisciplinary team of U researchers builds a framework for assessing varying
 
 Hi everyone, I'm a 17-year-old student from India currently in Class 12, preparing for the JEE exam. Over the past few months I wrote a research paper on adaptive exam scheduling, arguing that student discipline is stochastic and that exam prep should be treated as a control problem, not a planning problem. I built a simulation that shows priority-directed adaptive scheduling gets 85.7% coverage of high-priority topics vs 42.9% for a static schedule, even starting at half the daily study hours. Here's the abstract: Every existing tool for exam preparation shares the same assumption: that discipline can be measured and reported back to the student, and that awareness alone will change behaviour. This assumption does not hold. This paper takes a different position: discipline is a stochastic variable to be accommodated, and exam preparation is a control problem rather than a planning problem. The proposed system closes a feedback loop around observed student behaviour through a behavioural tracker, a scheduling engine driven by a topic priority function and dependency graph, and a psychological reset condition that eliminates the backlog accumulation that causes students to abandon existing planners entirely. Computational simulation across three conditions shows that priority-directed adaptive scheduling achieves 85.7% coverage of high-priority topics against 42.9% for a static schedule, despite beginning at half the daily study hours. Paper and simulation code: https://github.com/NikhileshAR/stochastic-discipline-sim I've initiated my arXiv submission under cs.CY (Computers and Society) and I need an endorsement to complete it. If you are a registered arXiv author who has submitted to cs.CY or any related CS category in the last 5 years, you can endorse me by clicking this link: https://arxiv.org/auth/endorse?x=CKTPPA or enter code CKTPPA at arxiv.org/auth/endorse.php It takes about 30 seconds. I would be really grateful. Thank you. Nikhilesh A R
 
-4h ago
+5h ago
 
 ---
 
@@ -113,7 +113,7 @@ Hi everyone, I'm a 17-year-old student from India currently in Class 12, prepari
 
 Basically, does anyone else also get a really strange sense of lingering confusion and non-comprehension when an LLM explains a complex concept or tries to give a long format dive into something? It's not that they necessarily get it wrong, most often they can communicate the information cleanly and accurately, especially in things like, AI scripted youtube videos where they creator had their finger on the pulse of the informaiton. It's just something about the way it's said and the flow of the actual language itself, that feels like some sort of comprehension uncanny valley. It might just be me, but im curious to know if other people feel this because it makes me wonder if there's some kind of organic funk in the way we talk as people that makes it easier to understand an effective human explanation over an LLM. Maybe the fundamental practices of generating outputs that mimic human lanaguage rather than actual organic language means our brains can't quite find that logic to follow and it leaves us ever-so subconciously stranded? Just a random late-night ponder.
 
-5h ago
+6h ago
 
 ---
 
@@ -125,7 +125,7 @@ Basically, does anyone else also get a really strange sense of lingering confusi
 
 Anthropic is withholding its most advanced model over hacking concerns. Experts say it may only be a matter of time before similar tools are widely available.
 
-NBC News • 8h ago
+NBC News • 9h ago
 
 ---
 
@@ -133,7 +133,7 @@ NBC News • 8h ago
 
 Anthropic met with Christian leaders including from Catholic and Protestant churches to discuss its chatbot Claude’s moral development.
 
-The Washington Post • 4h ago
+The Washington Post • 5h ago
 
 ---
 
@@ -141,7 +141,7 @@ The Washington Post • 4h ago
 
 The physicist, BBC presenter and author on snowflakes, art v science and the time Paul McCartney quizzed him about one of Saturn’s moons
 
-The Guardian • 34m ago
+The Guardian • 1h ago
 
 ---
 
@@ -149,7 +149,7 @@ The Guardian • 34m ago
 
 Secretary of Education Linda McMahon shared a social media post honoring civil rights activist and journalist Ida B. Wells alongside an A.I.-generated image. McMahon's post included a photo of a woman sitting at a desk that was labeled 'Photo by Gemini,' a Google A.I. tool.
 
-People.com • 18m ago
+People.com • 1h ago
 
 ---
 
@@ -157,7 +157,7 @@ People.com • 18m ago
 
 This AI stock ran circles around Nvidia last quarter, and it could do the same once again in Q2.
 
-The Motley Fool • 15m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -165,13 +165,13 @@ The Motley Fool • 15m ago
 
 Could powerful AI models like Anthropic's Mythos give cybercriminals and other bad actors a roadmap for exploiting tech systems?
 
-CBS News • 23h ago
+CBS News • 1d ago
 
 ---
 
 **[Banks Are Warned About Anthropic’s New, Powerful A.I. Technology](https://www.nytimes.com/2026/04/10/business/anthropic-claude-mythos-preview-banks.html)**
 
-The New York Times • 18h ago
+The New York Times • 19h ago
 
 ---
 
@@ -179,7 +179,7 @@ The New York Times • 18h ago
 
 Anthropic shared with the world what it learned from its breakthrough model. Would China?
 
-The Washington Post • 22h ago
+The Washington Post • 23h ago
 
 ---
 
@@ -187,7 +187,7 @@ The Washington Post • 22h ago
 
 Alex Karp said he struggled to market his humanities skills to get his first job.
 
-Fortune • 9h ago
+Fortune • 10h ago
 
 ---
 
@@ -195,7 +195,7 @@ Fortune • 9h ago
 
 When a prospect skips NFL combine workouts, teams can use artificial intelligence to project his measurables.
 
-ESPN • 10h ago
+ESPN • 11h ago
 
 ---
 
@@ -319,7 +319,7 @@ WE TAKE A LOOK AT.....WHY IS A.I. FREE? WHEN NO OTHER NEW TECHNOLOGY HAS EVER BE
 
 📺 what it look like TV
 
-👁️ 17K • 👍 1K • 💬 579 • ⏱️ 37:35 • 7h ago
+👁️ 17K • 👍 1K • 💬 579 • ⏱️ 37:35 • 8h ago
 
 ---
 
@@ -379,7 +379,7 @@ Hello guys and gals, it's me Mutahar again! This time we take a look at Claude M
 
 📺 SomeOrdinaryGamers
 
-👁️ 436K • 👍 17K • 💬 2K • ⏱️ 20:17 • 2d ago
+👁️ 436K • 👍 17K • 💬 2K • ⏱️ 20:17 • 3d ago
 
 ---
 
@@ -395,7 +395,7 @@ GLM-5.1 is a next-generation language model optimized for agentic engineering, f
 
 `text-generation` `753.9B`
 
-⬇️ 23,998 • ❤️ 981 • 9h ago
+⬇️ 23,998 • ❤️ 981 • 10h ago
 
 ---
 
@@ -649,7 +649,7 @@ The highest-scoring AI memory system ever benchmarked. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 41.5k • 🔱 5.3k • 14h ago
+⭐ 41.5k • 🔱 5.3k • 15h ago
 
 ---
 
@@ -679,7 +679,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Ope
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 17.8k • 🔱 801 • 4h ago
+⭐ 17.8k • 🔱 801 • 5h ago
 
 ---
 
@@ -689,7 +689,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `JavaScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 15.1k • 🔱 1.4k • 6h ago
+⭐ 15.1k • 🔱 1.4k • 7h ago
 
 ---
 
@@ -719,7 +719,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 7.4k • 🔱 459 • 4h ago
+⭐ 7.4k • 🔱 459 • 5h ago
 
 ---
 

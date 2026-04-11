@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-11T20:35:40.711381+00:00'
+updated: '2026-04-11T21:34:15.456866+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
+- cryptocurrency
 - news
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 11, 2026 at 20:35 UTC  
+**Last Updated:** April 11, 2026 at 21:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Iran’s Strait of Hormuz Management Plan, passed in late March 2026, mandates Bitcoin toll payments. Each fully laden tanker carrying 2 million barrels faces a Bitcoin toll of up to $2 million. Bitcoin surged toward $73,000 as shipping firms faced the prospect of stockpiling BTC for tolls. Stablecoins were rejected due to freeze functions and GENIUS framework compliance requirements.
 
-🔗 [Blockonomi](https://blockonomi.com/iran-enforces-bitcoin-as-the-only-means-to-pay-toll-on-strait-of-hormuz/) • 56m ago
+🔗 [Blockonomi](https://blockonomi.com/iran-enforces-bitcoin-as-the-only-means-to-pay-toll-on-strait-of-hormuz/) • 1h ago
 
 ---
 
@@ -89,7 +89,7 @@ Iran’s Strait of Hormuz Management Plan, passed in late March 2026, mandates B
 
 Well i guess it’s time we rip! A boomer told me that the best assets are tangible ones etc houses and alike. A non investor told me to stay in cash cuz market will collapse lol Knowing Donald dump he will pump the markets for midterms.
 
-5h ago
+6h ago
 
 ---
 
@@ -97,7 +97,7 @@ Well i guess it’s time we rip! A boomer told me that the best assets are tangi
 
 If you can get to 1 Bitcoin, you are ahead of 99.9% of humanity. That sounds ridiculous, but the math is real. In this video, I break down just how rare it is to own a full Bitcoin, and why not every millionaire on Earth can get one.
 
-🔗 [youtu.be](https://youtu.be/5Al_yE9il2o) • 2h ago
+🔗 [youtu.be](https://youtu.be/5Al_yE9il2o) • 3h ago
 
 ---
 
@@ -105,13 +105,13 @@ If you can get to 1 Bitcoin, you are ahead of 99.9% of humanity. That sounds rid
 
 B-b-but the cycle... Stop. This is not the past. It doesn't follow the imaginary lines people make up to feel in control. It can legit shoot up from here, and if it "follows the cycle and goes down" it doesn't mean it will have to go up again. For now, it looks like the train is leaving the station.
 
-1h ago
+2h ago
 
 ---
 
 **[My university's business school moved to a new building and we're now in the Satoshi floor. Is this a sign?](https://www.reddit.com/r/Bitcoin/comments/1si9i7t/my_universitys_business_school_moved_to_a_new/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -119,7 +119,7 @@ B-b-but the cycle... Stop. This is not the past. It doesn't follow the imaginary
 
 Wiki for Bitcoin Core development. Contribute to bitcoin-core/bitcoin-devwiki development by creating an account on GitHub.
 
-🔗 [GitHub](https://github.com/bitcoin-core/bitcoin-devwiki/wiki/31.0-Release-Candidate-Testing-Guide) • 3h ago
+🔗 [GitHub](https://github.com/bitcoin-core/bitcoin-devwiki/wiki/31.0-Release-Candidate-Testing-Guide) • 4h ago
 
 ---
 
@@ -127,7 +127,7 @@ Wiki for Bitcoin Core development. Contribute to bitcoin-core/bitcoin-devwiki de
 
 I like knowing that I’m one of the miners working to clear my own transaction, and that if I succeed, the fees I’m paying will come back to me. I have very little hash power, so the odds are astronomical, but I enjoy the feeling of participation and increased connection to how the technology works.
 
-36m ago
+1h ago
 
 ---
 
@@ -135,7 +135,7 @@ I like knowing that I’m one of the miners working to clear my own transaction,
 
 The stock market is closed on weekend. Bitcoin is one of the few assets that can be traded on weekend. By my understanding, that would mean bitcoins volume should be higher on weekend than on weekdays because traders cant trade stocks, so trading focused on bitcoin. But bitcoins volume on weekends is actually lower than on weekdays, despite weekend, by my logic, being the time frame where everyone would jump to bitcoin because the stock market is closed
 
-10h ago
+11h ago
 
 ---
 
@@ -151,7 +151,7 @@ I made around 100% in 3 weeks and was happy with that 🫡🫣
 
 I wanted to use a BIP-85 child seed with a lightning wallet (which naturally also supports on-chain) and apparently it wasn't possible. I tried with Aqua and with Phoenix, but they both state that you can only restore a wallet with seeds generated from that same wallet... What's up with that? It kind of defeats the purpose of having only one seed to rule them all. Is this a limitation on all lightning wallets? Does anyone know of a wallet where it is possible to do it? Thanks in advance.
 
-1h ago
+2h ago
 
 ---
 
@@ -163,13 +163,13 @@ I wanted to use a BIP-85 child seed with a lightning wallet (which naturally als
 
 The market rose over the week after a two-week ceasefire was announced, triggering a derivatives short squeeze that wiped out over $430 million in bearish positions.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
 **[Bitcoin hits $73,000 on Middle East geopolitical relief and $350M ETF inflow](https://www.investing.com/news/cryptocurrency-news/bitcoin-hits-73000-on-middle-east-geopolitical-relief-and-350m-etf-inflow-4608965)**
 
-Investing.com • 14h ago
+Investing.com • 15h ago
 
 ---
 
@@ -183,7 +183,7 @@ Seeking Alpha • 1d ago
 
 **[U.S. Treasury Secretary Fuels Huge $1.5 Quadrillion Crypto Prediction As The Bitcoin Price Suddenly Soars](https://www.forbes.com/sites/digital-assets/2026/04/11/us-treasury-secretary-fuels-huge-15-quadrillion-crypto-prediction-as-the-bitcoin-price-suddenly-soars/)**
 
-Forbes • 9h ago
+Forbes • 10h ago
 
 ---
 
@@ -191,7 +191,7 @@ Forbes • 9h ago
 
 Everyone's talking about Bitcoin ETFs. Almost nobody is talking about this bigger shift in how money moves on digital rails.
 
-The Motley Fool • 36m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -199,7 +199,7 @@ The Motley Fool • 36m ago
 
 Arkham data shows 8,285 BTC in Coinbase Prime custody as the company swings from $8 billion profit to nearly $5 billion loss ahead of its IPO push.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -207,7 +207,7 @@ CoinDesk • 1h ago
 
 Everyone's talking about Bitcoin ETFs. Almost nobody is talking about this bigger shift in how money moves on digital rails.
 
-Yahoo Finance • 28m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -219,7 +219,7 @@ The New York Times • 2d ago
 
 **[Software stocks are getting pulverized — but bitcoin’s rebound hints that a bottom might be in](https://www.marketwatch.com/story/software-stocks-are-getting-pulverized-but-bitcoins-rebound-hints-that-a-bottom-might-be-in-512baac7)**
 
-MarketWatch • 22h ago
+MarketWatch • 23h ago
 
 ---
 
@@ -227,7 +227,7 @@ MarketWatch • 22h ago
 
 Bitcoin is sitting at a critical turning point after weeks of tight consolidation and repeated tests of key resistance levels. Price action is compressing near a major decision zone, where both bullish breakout potential and downside risk remain in play. With momentum building on both sides, the ne…
 
-TradingView • 2h ago
+TradingView • 3h ago
 
 ---
 
@@ -245,7 +245,7 @@ TradingView • 2h ago
 
 The average production cost was sitting at $88,000 per bitcoin in mid-March, according to Checkonchain's difficulty regression model.
 
-⬆️ 182 • 💬 169 • 7h ago • [coindesk.com](https://www.coindesk.com/markets/2026/03/22/bitcoin-miners-are-losing-usd19-000-on-every-btc-produced-as-difficulty-drops-7-8)
+⬆️ 182 • 💬 169 • 8h ago • [coindesk.com](https://www.coindesk.com/markets/2026/03/22/bitcoin-miners-are-losing-usd19-000-on-every-btc-produced-as-difficulty-drops-7-8)
 
 ---
 
@@ -261,7 +261,7 @@ Country’s oil exporters’ union says toll to be paid in cryptocurrency and ve
 
 Neha Narula
 
-⬆️ 168 • 💬 138 • 3d ago • [nehanarula.org](https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html)
+⬆️ 168 • 💬 138 • 4d ago • [nehanarula.org](https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html)
 
 ---
 
@@ -297,7 +297,7 @@ New York Times report claims London-born Adam Back is creator of the cryptocurre
 
 Bitcoin Core Will Maintain the Protocol. It May Not Save It. The reference implementation that sustains a $1.4 trillion network continues to produce quality code while losing the institutional capa...
 
-⬆️ 3 • 💬 0 • 15h ago • [GitHub](https://github.com/bitcoin/bitcoin/issues/35055)
+⬆️ 3 • 💬 0 • 16h ago • [GitHub](https://github.com/bitcoin/bitcoin/issues/35055)
 
 ---
 
@@ -319,7 +319,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 19K • 👍 1K • 💬 17 • ⏱️ 52:49 • 7h ago
+👁️ 19K • 👍 1K • 💬 17 • ⏱️ 52:49 • 8h ago
 
 ---
 
@@ -329,7 +329,7 @@ Follow me on X for my best content: http://www.X.com/AdamBLiv Transform Dormant 
 
 📺 Adam Livingston
 
-👁️ 10K • 👍 849 • 💬 212 • ⏱️ 18:40 • 22h ago
+👁️ 10K • 👍 849 • 💬 212 • ⏱️ 18:40 • 23h ago
 
 ---
 
@@ -339,7 +339,7 @@ Everyone is distracted by Satoshi theories while real money floods into Bitcoin.
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 1K • 💬 110 • ⏱️ 10:48 • 23h ago
+👁️ 23K • 👍 1K • 💬 110 • ⏱️ 10:48 • 1d ago
 
 ---
 
@@ -389,7 +389,7 @@ Get a chance win a ROLEX! BTCC COMPETITION: ...
 
 📺 Crypto Lifer
 
-👁️ 2K • 👍 224 • 💬 123 • ⏱️ 16:31 • 9h ago
+👁️ 2K • 👍 224 • 💬 123 • ⏱️ 16:31 • 10h ago
 
 ---
 

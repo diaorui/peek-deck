@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-11T20:35:40.717441+00:00'
+updated: '2026-04-11T21:34:15.462940+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
+- cryptocurrency
 - news
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 11, 2026 at 20:35 UTC  
+**Last Updated:** April 11, 2026 at 21:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Over the past year I've been thinking a lot about Web3. Not the trading, not the speculation, not the casino. I don't trade crypto. I don't follow the markets. What fascinates me is the underlying idea: decentralized systems with code as the only authority. The technology itself. I've been a backend engineer for over a decade. Rails, SQL, the usual stack. But like many engineers, I burned out. The excitement to build faded. You know the feeling. You're competent, productive, but not discovering anything anymore. Then I looked seriously at blockchain. Not as an investor, but as an engineer. I asked myself: what would an application look like if built with absolute fidelity to what blockchain promises? Real utility (useful for the masses, not DeFi nonesense) NO off-chain layers (100% on-chain) NO insider advantages (fair economics) NO dependence on investors (self-sustaining) NO pointless tokenomics (ETH in, ETH out) Those five principles became my compass. I tried to build something that never violated them. But the Web3 ecosystem is built around tokenomics and speculation. There's no blueprint to follow. So I started pulling my own thread: I wanted to build something useful, deterministic, fully on-chain, with no complicated tokenomics. A simple game like TicTacToe with real ETH stakes? Interesting, but too narrow. Then the frame shifted. I wasn't building a game anymore. I was building a tournament layer. A universal competitive infrastructure that's fair, open-source, and 100% on-chain. That's when the hard problems started. How do you handle draws on a decentralized platform? How do you stop players griefing opponents without central authority? These aren't just technical questions. They're moral ones. They forced me to think deeply about fairness, about building a system nobody controls and nobody can manipulate. The answers surprised me. Forget Kubernetes, Redis, all that complexity. With these constraints (fully on-chain, truly open, completely decentralized) the legacy stack collapses into something elegant. A client talking directly to contracts. No servers. No databases. No company. Just code. That freedom changed how I think about software. So I built ETour A 100% on-chain tournament protocol, now live on Arbitrum. Players pay an entry fee, compete, the best player wins and takes the pot. Code decides everything. No intermediaries. As Web3 should be. I open-sourced it so developers can build their own games on it and inherit all of its features for free. I'm not here to tell you this is revolutionary. I built this because it felt like a problem worth solving. ETour is what came out the other side. The code is public. The contracts are immutable. The logic is yours to verify. PS: The technical docs are not final and will be updated soon. https://etour.games https://etour.games/whitepaper https://etour.games/manual https://etour.games/docs TLDR: ETour is useful, it's live, and it's open-source. Go ahead and play on it, or build your own game using its 100% on-chain and open source tournament modules.
 
-7h ago
+8h ago
 
 ---
 
@@ -80,7 +80,7 @@ Over the past year I've been thinking a lot about Web3. Not the trading, not the
 
 I’ve spent the last dozen articles exploring vProgs and their capabilities. In particular, I’ve argued that the emerging proof economy…
 
-🔗 [Medium](https://medium.com/@james_allan/vprogs-vs-smart-contracts-when-should-you-use-each-fcdc0e4a42ce) • 4h ago
+🔗 [Medium](https://medium.com/@james_allan/vprogs-vs-smart-contracts-when-should-you-use-each-fcdc0e4a42ce) • 5h ago
 
 ---
 
@@ -156,7 +156,7 @@ I've learnt that we can now invest in gold directly in crypto, which is quite ex
 
 An analyst on X has made a bold call on Ethereum, stating that the asset is on the verge of a parabolic move. The claim is based on a golden triangle formation on the chart, a setup that shows a breakout could be approaching for the leading altcoin. This approaching breakout could also serve as the…
 
-TradingView • 1h ago
+TradingView • 2h ago
 
 ---
 
@@ -208,7 +208,7 @@ MarketWatch • 2d ago
 
 Dubai, UAE, April  10, 2026  (GLOBE NEWSWIRE) -- Pepeto just hit a major checkpoint on its Binance level exchange, pushing the zero fee swap engin...
 
-markets.businessinsider.com • 19h ago
+markets.businessinsider.com • 20h ago
 
 ---
 
@@ -216,7 +216,7 @@ markets.businessinsider.com • 19h ago
 
 The Ethereum Foundation sold 1,250 ETH for $2.8 million and stopped staking ETH, pushing odds in the Ethereum Above Price Predictions in April market toward bea
 
-Crypto Briefing • 6h ago
+Crypto Briefing • 7h ago
 
 ---
 
@@ -238,7 +238,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 4K • 👍 235 • 💬 13 • ⏱️ 19:27 • 4h ago
+👁️ 4K • 👍 235 • 💬 13 • ⏱️ 19:27 • 5h ago
 
 ---
 
@@ -258,7 +258,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 144 • 👍 12 • 💬 3 • ⏱️ 4:38 • 9h ago
+👁️ 144 • 👍 12 • 💬 3 • ⏱️ 4:38 • 10h ago
 
 ---
 
@@ -278,7 +278,7 @@ In this video, we break down Ethereum's latest price action heading into April 2
 
 📺 Gordon Frayne
 
-👁️ 191 • 👍 8 • 💬 3 • ⏱️ 12:24 • 14h ago
+👁️ 191 • 👍 8 • 💬 3 • ⏱️ 12:24 • 15h ago
 
 ---
 
@@ -308,7 +308,7 @@ During COVID, Entrepreneur Sandy Sandiford and his partners made an unusual inve
 
 📺 Conversations Are Key Podcast
 
-👁️ 1K • 👍 16 • 💬 1 • ⏱️ 0:49 • 20h ago
+👁️ 1K • 👍 16 • 💬 1 • ⏱️ 0:49 • 21h ago
 
 ---
 
