@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-11T19:35:33.076252+00:00'
+updated: '2026-04-11T20:35:40.720588+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 11, 2026 at 19:35 UTC  
+**Last Updated:** April 11, 2026 at 20:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Kame Robotics unveils a compact open-source quadruped for desk-top robotics experiments](https://www.reddit.com/r/robotics/comments/1siofos/kame_robotics_unveils_a_compact_opensource/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2042912788717408509
 
-8h ago
+9h ago
 
 ---
 
@@ -50,7 +50,7 @@ From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2042912788717408509
 
 I've been seeing a lot of noise from the tech world about robotics being the next big wave. Curious what people actually deploying and maintaining these systems think. What's working, what's vaporware, and what does the gap between a demo and a real production deployment actually look like?
 
-10h ago
+11h ago
 
 ---
 
@@ -58,7 +58,7 @@ I've been seeing a lot of noise from the tech world about robotics being the nex
 
 I know we usually only post our own projects here, but i was procrastinating on my own codebase today and went down a rabbit hole looking at github repos from some 48h REDHackathon happening in shanghai right now (hosted by rednote I think? today is their demo day). tbh i mostly expected to see a bunch of hastily duct-taped openai wrappers and weekend spaghetti code. clicked on one of the hardware submissions called Mira. at first glance the picture just looks like a cute 3d-printed pixar lamp. I figured it was just a physical shell with a basic python script piping some face tracking coordinates directly to a couple servos. but looking at the actual code... the system architecture is surprisingly hardcore. They didnt just hardcode reactions. they built a full embodied interaction system. the pipeline goes from single camera input -> vision event extraction -> scene selection -> local bridge / safety layer -> ESP32 firmware. Instead of raw tracking they built a scene-based motion choreography abstraction. it interprets visual data into states like 'curious_observe', 'cute_probe', and 'standup_reminder'. The esp32 firmware isnt a toy either... it has a custom binary serial protocol, touch thresholds, and ack/err handling. they even built offline rehearsal scripts, fault injection, and a web director console so they could test the logic without the physical hardware glitching out on stage. Most ai right now just sits in a chat window waiting for a prompt. this thing is trying to actually notice your presence in a physical space and respond with body language and light rhythms before you even say a word. idk, seeing hardware prototypes with this level of release-oriented engineering come out of a 48h builder camp makes me feel pretty lazy today lol. its just a stark reminder that the next phase of ai probably isnt going to be on a screen, but actually sitting on our desks observing us. anyway just thought id share something cool that isnt another b2b saas wrapper. repo if anyone wants to look at the c++ / esp32 logic (not mine obviously): github.com/JunkaiWang-TheoPhy/Mira-Light-AI-That-Sees-You
 
-3h ago
+4h ago
 
 ---
 
@@ -72,7 +72,7 @@ I know we usually only post our own projects here, but i was procrastinating on 
 
 Hi to everyone Recently i am beginning in robotics, building some basic robots to undertand Logic and gain practical experience. This excercise leads me to a question: when does the robotics stop being robots that feels like toys to become a serious business with real aplications? Idk if question is clear enough, if so, let me know.
 
-1h ago
+2h ago
 
 ---
 
@@ -80,7 +80,7 @@ Hi to everyone Recently i am beginning in robotics, building some basic robots t
 
 So there is this competition that we will be joining next month to qualify for nationals. I have seen many builds that include a so-called "pull up switch", for 2 months I had been trying to find out how to create one of those, since there are no existing tutorials online. I reckon it is a micro switch connected to the driver but still confused. Does anyone have an idea on how pull up switches are made, or done? We are using one of those cytron URC10 R1.1 SumoBot Controller.
 
-3h ago
+4h ago
 
 ---
 
@@ -96,7 +96,7 @@ So there is this competition that we will be joining next month to qualify for n
 
 I'm currently working on a Yaskawa Ms-100 with Dx100, changing a wrist unit. The manual we have is for a MS-100II with DX200. This manual says the wrist uses flange sealant. We removed the wrist and found that there is an O-ring. The manual does not show this O-ring on the parts list or diagram. I cannot find a MS100 specific manual on Yaskawa's site, only the MS100II. Is anyone familiar with these that could offer some advice?
 
-10h ago
+11h ago
 
 ---
 
@@ -104,21 +104,13 @@ I'm currently working on a Yaskawa Ms-100 with Dx100, changing a wrist unit. The
 
 Context and Setup : Ros2 Humble , Gazebo Ignition Fortress . Ubuntu 22.04 I am trying to make a SLAM robot this was my model with Lidar (laser_frame) in Rviz current I am publishing to cmd_vel to rotate the bot but along with the bot the 2D point cloud is also rotating in Rviz. is this normal or a problem (actually having issues with mapping too) tf: Map ->odom -> base_footprint-> base_link -> laser_frame Please help , stuck here.
 
-23h ago
+1d ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
-
-**[Minnesota college student mentors Japanese robotics team she founded](https://www.cbsnews.com/minnesota/video/minnesota-college-student-mentors-japanese-robotics-team-she-founded/)**
-
-Robots are undoubtedly a big part of the future. In this edition of Home Team, Mike Max introduces Kanon Nakajima, a local robot buff in Minnesota whose story started in Japan.
-
-CBS News • 2h ago
-
----
 
 **[CEO Andy Jassy shares 3 ways Amazon is innovating to make customers’ lives easier and better](https://www.aboutamazon.com/news/innovation-at-amazon/amazon-ceo-andy-jassy-robotics-rural-delivery-broadband)**
 
@@ -136,14 +128,6 @@ The Washington Post • 1d ago
 
 ---
 
-**[Robotic birds mimic mating to help bring back vanishing grouse](https://interestingengineering.com/ai-robotics/robotic-sage-grouse-conservation)**
-
-Robotic bird decoys mimic mating rituals to help restore declining sage grouse populations in US national parks.
-
-Interesting Engineering • 22h ago
-
----
-
 **[Humanoid robots hit mass production in China](https://www.foxnews.com/tech/humanoid-robots-hit-mass-production-china)**
 
 A Chinese factory is producing humanoid robots every 30 minutes, marking a shift toward large-scale manufacturing and broader adoption.
@@ -152,11 +136,27 @@ Fox News • 2d ago
 
 ---
 
+**[Robotic birds mimic mating to help bring back vanishing grouse](https://interestingengineering.com/ai-robotics/robotic-sage-grouse-conservation)**
+
+Robotic bird decoys mimic mating rituals to help restore declining sage grouse populations in US national parks.
+
+Interesting Engineering • 23h ago
+
+---
+
+**[Minnesota college student mentors Japanese robotics team she founded](https://www.cbsnews.com/minnesota/video/minnesota-college-student-mentors-japanese-robotics-team-she-founded/)**
+
+Robots are undoubtedly a big part of the future. In this edition of Home Team, Mike Max introduces Kanon Nakajima, a local robot buff in Minnesota whose story started in Japan.
+
+CBS News • 3h ago
+
+---
+
 **[New humanoid robots replacing workers in factories](https://www.nbcnews.com/video/shorts/new-humanoid-robots-replacing-workers-in-factories-261041221991)**
 
 Meet 'Digit', a humanoid robotic worker made by Agility Robotics, now part of a new wave of robots replacing workers at companies like Schaeffler, Toyota, and GXO. NBC News' Brian Cheung takes a look.
 
-NBC News • 4h ago
+NBC News • 2h ago
 
 ---
 
@@ -168,17 +168,19 @@ St. George News • 2d ago
 
 ---
 
-**[Unitree to debut cheapest humanoid robot globally via Alibaba: sources](https://www.scmp.com/tech/article/3349489/chinas-unitree-debut-cheapest-humanoid-robot-globally-alibaba-site-sources)**
-
-South China Morning Post • 2d ago
-
----
-
 **[HII Brings In Robotics for Shipyard Grinding, Blasting and Painting](https://maritime-executive.com/article/hii-brings-in-robotics-for-shipyard-grinding-blasting-and-painting)**
 
 Most of the high-profile robotics initiatives in shipbuilding focus on welding or cutting, but there's much more that has to happen to get a ship into...
 
 The Maritime Executive • 1d ago
+
+---
+
+**[China’s Robotics Champion Is Going Public. Its PLA Ties and Western Dependence Aren’t.](https://www.kharon.com/brief/unitree-robotics-ipo-china-pla-robot-wolf)**
+
+The Shanghai IPO of Unitree Robotics is “part of China’s broader positioning in the global race for physical AI,” Sunny Cheung of the Jamestown Foundation said. But its filings tell only part of the story.
+
+Kharon • 2d ago
 
 ---
 
@@ -216,7 +218,7 @@ Could AI become dangerous? Can we trust AI Agents? AGI. Use code insideai at htt
 
 📺 Just the Bells 10
 
-👁️ 19K • 👍 1K • 💬 48 • ⏱️ 0:33 • 18h ago
+👁️ 19K • 👍 1K • 💬 48 • ⏱️ 0:33 • 19h ago
 
 ---
 
@@ -246,7 +248,7 @@ In this video I tested out the Hover in Champion league. https://wr.my.games/Wol
 
 📺 Wolfblood7
 
-👁️ 3K • 👍 153 • 💬 39 • ⏱️ 13:54 • 12h ago
+👁️ 3K • 👍 153 • 💬 39 • ⏱️ 13:54 • 13h ago
 
 ---
 
@@ -256,7 +258,7 @@ The Unitree H1 humanoid robot just reached an incredible 10 meters per second, w
 
 📺 DPCcars
 
-👁️ 1K • 👍 47 • 💬 8 • ⏱️ 1:24 • 5h ago
+👁️ 1K • 👍 47 • 💬 8 • ⏱️ 1:24 • 6h ago
 
 ---
 

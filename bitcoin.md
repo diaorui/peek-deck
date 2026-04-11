@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-11T19:35:33.066967+00:00'
+updated: '2026-04-11T20:35:40.711381+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - cryptocurrency
+- videos
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 11, 2026 at 19:35 UTC  
+**Last Updated:** April 11, 2026 at 20:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $73,481.93
+### $73,228.40
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** +6.4%  
-**30d:** +3.5%  
-**90d:** -19.5%  
-**1y:** -13.9%  
+**24h:** +0.1%  
+**7d:** +6.1%  
+**30d:** +3.2%  
+**90d:** -19.7%  
+**1y:** -14.1%  
 
 ---
 
@@ -77,17 +77,19 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Iran Enforces Bitcoin as the Only Means to Pay Toll on Strait of Hormuz - Blockonomi](https://www.reddit.com/r/Bitcoin/comments/1sispwr/iran_enforces_bitcoin_as_the_only_means_to_pay/)**
+
+Iran’s Strait of Hormuz Management Plan, passed in late March 2026, mandates Bitcoin toll payments. Each fully laden tanker carrying 2 million barrels faces a Bitcoin toll of up to $2 million. Bitcoin surged toward $73,000 as shipping firms faced the prospect of stockpiling BTC for tolls. Stablecoins were rejected due to freeze functions and GENIUS framework compliance requirements.
+
+🔗 [Blockonomi](https://blockonomi.com/iran-enforces-bitcoin-as-the-only-means-to-pay-toll-on-strait-of-hormuz/) • 56m ago
+
+---
+
 **[A Boomer and a non-investor told me to sell.](https://www.reddit.com/r/Bitcoin/comments/1sil12w/a_boomer_and_a_noninvestor_told_me_to_sell/)**
 
 Well i guess it’s time we rip! A boomer told me that the best assets are tangible ones etc houses and alike. A non investor told me to stay in cash cuz market will collapse lol Knowing Donald dump he will pump the markets for midterms.
 
-4h ago
-
----
-
-**[My university's business school moved to a new building and we're now in the Satoshi floor. Is this a sign?](https://www.reddit.com/r/Bitcoin/comments/1si9i7t/my_universitys_business_school_moved_to_a_new/)**
-
-14h ago
+5h ago
 
 ---
 
@@ -95,7 +97,21 @@ Well i guess it’s time we rip! A boomer told me that the best assets are tangi
 
 If you can get to 1 Bitcoin, you are ahead of 99.9% of humanity. That sounds ridiculous, but the math is real. In this video, I break down just how rare it is to own a full Bitcoin, and why not every millionaire on Earth can get one.
 
-🔗 [youtu.be](https://youtu.be/5Al_yE9il2o) • 1h ago
+🔗 [youtu.be](https://youtu.be/5Al_yE9il2o) • 2h ago
+
+---
+
+**[B-but it must go lower](https://www.reddit.com/r/Bitcoin/comments/1sire39/bbut_it_must_go_lower/)**
+
+B-b-but the cycle... Stop. This is not the past. It doesn't follow the imaginary lines people make up to feel in control. It can legit shoot up from here, and if it "follows the cycle and goes down" it doesn't mean it will have to go up again. For now, it looks like the train is leaving the station.
+
+1h ago
+
+---
+
+**[My university's business school moved to a new building and we're now in the Satoshi floor. Is this a sign?](https://www.reddit.com/r/Bitcoin/comments/1si9i7t/my_universitys_business_school_moved_to_a_new/)**
+
+15h ago
 
 ---
 
@@ -103,7 +119,15 @@ If you can get to 1 Bitcoin, you are ahead of 99.9% of humanity. That sounds rid
 
 Wiki for Bitcoin Core development. Contribute to bitcoin-core/bitcoin-devwiki development by creating an account on GitHub.
 
-🔗 [GitHub](https://github.com/bitcoin-core/bitcoin-devwiki/wiki/31.0-Release-Candidate-Testing-Guide) • 2h ago
+🔗 [GitHub](https://github.com/bitcoin-core/bitcoin-devwiki/wiki/31.0-Release-Candidate-Testing-Guide) • 3h ago
+
+---
+
+**[It’s fun trying to mine a block that includes your own transaction.](https://www.reddit.com/r/Bitcoin/comments/1sit8jt/its_fun_trying_to_mine_a_block_that_includes_your/)**
+
+I like knowing that I’m one of the miners working to clear my own transaction, and that if I succeed, the fees I’m paying will come back to me. I have very little hash power, so the odds are astronomical, but I enjoy the feeling of participation and increased connection to how the technology works.
+
+36m ago
 
 ---
 
@@ -111,7 +135,7 @@ Wiki for Bitcoin Core development. Contribute to bitcoin-core/bitcoin-devwiki de
 
 The stock market is closed on weekend. Bitcoin is one of the few assets that can be traded on weekend. By my understanding, that would mean bitcoins volume should be higher on weekend than on weekdays because traders cant trade stocks, so trading focused on bitcoin. But bitcoins volume on weekends is actually lower than on weekdays, despite weekend, by my logic, being the time frame where everyone would jump to bitcoin because the stock market is closed
 
-9h ago
+10h ago
 
 ---
 
@@ -123,35 +147,11 @@ I made around 100% in 3 weeks and was happy with that 🫡🫣
 
 ---
 
-**[Japan Moves To Classify Bitcoin And Shitcoins As Financial Instruments Under New Bill](https://www.reddit.com/r/Bitcoin/comments/1shsuh3/japan_moves_to_classify_bitcoin_and_shitcoins_as/)**
+**[BIP-85 child seed with lightning wallet](https://www.reddit.com/r/Bitcoin/comments/1sirz4s/bip85_child_seed_with_lightning_wallet/)**
 
-Japan plans to reclassify cryptocurrencies as financial products under the Financial Instruments and Exchange Act, shifting them from a payment-based framework to one aligned with traditional securities regulation.
+I wanted to use a BIP-85 child seed with a lightning wallet (which naturally also supports on-chain) and apparently it wasn't possible. I tried with Aqua and with Phoenix, but they both state that you can only restore a wallet with seeds generated from that same wallet... What's up with that? It kind of defeats the purpose of having only one seed to rule them all. Is this a limitation on all lightning wallets? Does anyone know of a wallet where it is possible to do it? Thanks in advance.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/japan-moves-to-classify-bitcoin-and-crypto) • 1d ago
-
----
-
-**[Why is everyone so obsessed with the unmasking?](https://www.reddit.com/r/Bitcoin/comments/1si1zz6/why_is_everyone_so_obsessed_with_the_unmasking/)**
-
-I’m just honestly perplexed why this really matters? For real, what difference is it going to make to finally unmask the real SN and how is that going to change the impact his held coins will make when they’re finally sold? Everyone is anonymous on the chain so why should they be any different? Sure, there’s the impact of data hungry machines and their environmental impact but sincerely that ship sailed a decade ago. But how is any of that going to change once we all know for sure who to blame? Is t it all the rest of us, constantly moving coins around that are to blame? So curious to hear opinions on this article.
-
-🔗 [nytimes.com](https://www.nytimes.com/2026/04/09/podcasts/the-daily/satoshi-nakamoto-bitcoin-creator.html?unlocked_article_code=1.Z1A.Zc6v.htjM1l8I6VbV&smid=nytcore-ios-share) • 20h ago
-
----
-
-**[Daily Discussion, April 11, 2026](https://www.reddit.com/r/Bitcoin/comments/1siazlr/daily_discussion_april_11_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-13h ago
-
----
-
-**[Is the 'Halving' becoming a self-fulfilling prophecy for the bots in 2026?](https://www.reddit.com/r/Bitcoin/comments/1sijh99/is_the_halving_becoming_a_selffulfilling_prophecy/)**
-
-Every cycle we talk about the supply shock, but I’m noticing that volatility is increasingly front-run by institutional algorithms months in advance. Are we reaching a point where the Halving is fully priced in by the time it actually happens? As a developer, I’m seeing more "smart money" infrastructure being built around predicting bot behavior rather than actual supply changes. What’s your take? Is the halving still a factor, or just a scheduled volatility event for the algos?
-
-5h ago
+1h ago
 
 ---
 
@@ -159,79 +159,75 @@ Every cycle we talk about the supply shock, but I’m noticing that volatility i
 
 ## Google News: "bitcoin"
 
-**[The bitcoin market is splitting in two. Here's who is buying and selling amid the war](https://www.coindesk.com/markets/2026/04/10/the-bitcoin-market-is-splitting-in-two-here-s-who-is-buying-and-selling-amid-the-war)**
+**[Bitcoin, broader market flat as U.S.-Iran negotiations begin](https://www.coindesk.com/markets/2026/04/11/bitcoin-broader-market-flat-as-u-s-iran-negotiations-begin)**
 
-Six weeks of war have revealed that bitcoin's floor depends entirely on a handful of mandated buyers absorbing what everyone else is trying to get rid of.
+The market rose over the week after a two-week ceasefire was announced, triggering a derivatives short squeeze that wiped out over $430 million in bearish positions.
 
-CoinDesk • 7h ago
+CoinDesk • 4h ago
+
+---
+
+**[Bitcoin hits $73,000 on Middle East geopolitical relief and $350M ETF inflow](https://www.investing.com/news/cryptocurrency-news/bitcoin-hits-73000-on-middle-east-geopolitical-relief-and-350m-etf-inflow-4608965)**
+
+Investing.com • 14h ago
+
+---
+
+**[Bitcoin business: Are Iran and the U.S. in agreement on cryptocurrency?](https://seekingalpha.com/news/4573993-bitcoin-business-are-iran-and-the-u-s-in-agreement-on-cryptocurrency)**
+
+Iran may charge Strait of Hormuz tolls in bitcoin, evading sanctions and reshaping oil shipping flows.
+
+Seeking Alpha • 1d ago
 
 ---
 
 **[U.S. Treasury Secretary Fuels Huge $1.5 Quadrillion Crypto Prediction As The Bitcoin Price Suddenly Soars](https://www.forbes.com/sites/digital-assets/2026/04/11/us-treasury-secretary-fuels-huge-15-quadrillion-crypto-prediction-as-the-bitcoin-price-suddenly-soars/)**
 
-Forbes • 8h ago
+Forbes • 9h ago
 
 ---
 
-**[Bitcoin Flashes ‘Dangerous’ Macro Fractal – What To Expect For Price](https://www.tradingview.com/news/newsbtc:dc8a7d21e094b:0-bitcoin-flashes-dangerous-macro-fractal-what-to-expect-for-price/)**
+**[Forget Bitcoin ETFs; This Is How Crypto Is Really Going Mainstream](https://www.fool.com/investing/2026/04/11/this-is-how-crypto-is-going-mainstream/)**
 
-Bitcoin’s weekly chart is showing an uncomfortable comparison to one of the most brutal sell-offs in its history, and at least one analyst believes the worst may still be ahead. This technical outlook is looking at the current price action as a mirror of the 2022 macro fractal sequence that sent Bi…
+Everyone's talking about Bitcoin ETFs. Almost nobody is talking about this bigger shift in how money moves on digital rails.
 
-TradingView • 2h ago
-
----
-
-**[HODL Offers Bitcoin Investors Lower Fees Than IBIT](https://finance.yahoo.com/markets/crypto/articles/hodl-offers-bitcoin-investors-lower-171716412.html)**
-
-Fee-conscious investors face a trade-off between cost savings and exposure to sharper price swings in these two bitcoin ETFs.
-
-Yahoo Finance • 2h ago
+The Motley Fool • 36m ago
 
 ---
 
-**[Bitcoin price analysis: BTC sellers might be running out of steam](https://www.coindesk.com/markets/2026/04/11/bitcoin-signals-potential-seller-exhaustion-as-realized-losses-decline)**
+**[Musk’s SpaceX holds $603 million in bitcoin despite $5 billion loss stemming from xAI](https://www.coindesk.com/markets/2026/04/11/musk-s-spacex-holds-usd603-million-in-bitcoin-despite-usd5-billion-loss-stemming-from-xai)**
 
-On-chain data points to easing selling pressure, with realized losses falling and spot markets shifting toward net buying.
+Arkham data shows 8,285 BTC in Coinbase Prime custody as the company swings from $8 billion profit to nearly $5 billion loss ahead of its IPO push.
 
 CoinDesk • 1h ago
 
 ---
 
-**[Bitcoin, broader market flat as U.S.-Iran negotiations begin](https://www.coindesk.com/markets/2026/04/11/bitcoin-broader-market-flat-as-u-s-iran-negotiations-begin)**
+**[Forget Bitcoin ETFs; This Is How Crypto Is Really Going Mainstream](https://finance.yahoo.com/markets/crypto/articles/forget-bitcoin-etfs-crypto-really-200700541.html)**
 
-The market rose over the week after a two-week ceasefire was announced, triggering a derivatives short squeeze that wiped out over $430 million in bearish positions.
+Everyone's talking about Bitcoin ETFs. Almost nobody is talking about this bigger shift in how money moves on digital rails.
 
-CoinDesk • 3h ago
-
----
-
-**[No, Bitcoin Has Not Bottomed Yet: Analyst Who Called the Top Explains Why](https://www.tradingview.com/news/coinpedia:8c58ec922094b:0-no-bitcoin-has-not-bottomed-yet-analyst-who-called-the-top-explains-why/)**
-
-Bitcoin just had its best week in a while. The ceasefire rally, the CPI relief, $73,000 briefly touched. After weeks of grinding losses, it finally feels like something has changed.But one analyst who publicly called the top six months ago is not buying the narrative shift. According to Benjamin Co…
-
-TradingView • 10h ago
+Yahoo Finance • 28m ago
 
 ---
 
-**[Iran is demanding tankers in the Strait of Hormuz pay tolls in crypto: What we know so far](https://fortune.com/2026/04/10/iran-strait-of-hormuz-crypto-tolls-stablecoins-bitcoin-oil-tankers/)**
+**[Unmasking the Creator of Bitcoin](https://www.nytimes.com/2026/04/09/podcasts/the-daily/satoshi-nakamoto-bitcoin-creator.html)**
 
-The Iranian regime has increasingly resorted to digital assets to evade U.S. sanctions.
-
-Fortune • 1d ago
+The New York Times • 2d ago
 
 ---
 
 **[Software stocks are getting pulverized — but bitcoin’s rebound hints that a bottom might be in](https://www.marketwatch.com/story/software-stocks-are-getting-pulverized-but-bitcoins-rebound-hints-that-a-bottom-might-be-in-512baac7)**
 
-MarketWatch • 21h ago
+MarketWatch • 22h ago
 
 ---
 
-**[Bitcoin Policy Institute Warns Quantum Advances Are Compressing Timeline for Network Upgrades](https://bitcoinmagazine.com/news/bitcoin-policy-institute-warns-of-quantum)**
+**[Bitcoin On The Brink: One Move Could Trigger A Massive Shift](https://www.tradingview.com/news/newsbtc:21fe3478f094b:0-bitcoin-on-the-brink-one-move-could-trigger-a-massive-shift/)**
 
-A new brief from the Bitcoin Policy Institute says advances in quantum computing may bring forward risks to Bitcoin’s cryptography, though developers are already working on fixes.
+Bitcoin is sitting at a critical turning point after weeks of tight consolidation and repeated tests of key resistance levels. Price action is compressing near a major decision zone, where both bullish breakout potential and downside risk remain in play. With momentum building on both sides, the ne…
 
-Bitcoin Magazine • 23h ago
+TradingView • 2h ago
 
 ---
 
@@ -241,7 +237,15 @@ Bitcoin Magazine • 23h ago
 
 **[Who is Satoshi Nakamoto? My quest to unmask Bitcoin's creator](https://news.ycombinator.com/item?id=47685320)**
 
-⬆️ 623 • 💬 819 • 3d ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)
+⬆️ 624 • 💬 819 • 3d ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)
+
+---
+
+**[Bitcoin miners are losing on every coin produced as difficulty drops](https://news.ycombinator.com/item?id=47730370)**
+
+The average production cost was sitting at $88,000 per bitcoin in mid-March, according to Checkonchain's difficulty regression model.
+
+⬆️ 182 • 💬 169 • 7h ago • [coindesk.com](https://www.coindesk.com/markets/2026/03/22/bitcoin-miners-are-losing-usd19-000-on-every-btc-produced-as-difficulty-drops-7-8)
 
 ---
 
@@ -258,14 +262,6 @@ Country’s oil exporters’ union says toll to be paid in cryptocurrency and ve
 Neha Narula
 
 ⬆️ 168 • 💬 138 • 3d ago • [nehanarula.org](https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html)
-
----
-
-**[Bitcoin miners are losing on every coin produced as difficulty drops](https://news.ycombinator.com/item?id=47730370)**
-
-The average production cost was sitting at $88,000 per bitcoin in mid-March, according to Checkonchain's difficulty regression model.
-
-⬆️ 153 • 💬 139 • 6h ago • [coindesk.com](https://www.coindesk.com/markets/2026/03/22/bitcoin-miners-are-losing-usd19-000-on-every-btc-produced-as-difficulty-drops-7-8)
 
 ---
 
@@ -301,7 +297,7 @@ New York Times report claims London-born Adam Back is creator of the cryptocurre
 
 Bitcoin Core Will Maintain the Protocol. It May Not Save It. The reference implementation that sustains a $1.4 trillion network continues to produce quality code while losing the institutional capa...
 
-⬆️ 3 • 💬 0 • 14h ago • [GitHub](https://github.com/bitcoin/bitcoin/issues/35055)
+⬆️ 3 • 💬 0 • 15h ago • [GitHub](https://github.com/bitcoin/bitcoin/issues/35055)
 
 ---
 
@@ -309,7 +305,7 @@ Bitcoin Core Will Maintain the Protocol. It May Not Save It. The reference imple
 
 For years, bitcoin creator Satoshi Nakamoto has avoided discovery. Now, a 10,000-word New York Times investigation may have unraveled the mystery, landing on British computer scientist Dr. Adam Back as Nakamoto.
 
-⬆️ 2 • 💬 6 • 2d ago • [Yahoo Finance](https://finance.yahoo.com/markets/crypto/article/the-new-york-times-may-have-found-bitcoin-founder-satoshi-nakamoto-heres-what-you-need-to-know-193426720.html)
+⬆️ 2 • 💬 6 • 3d ago • [Yahoo Finance](https://finance.yahoo.com/markets/crypto/article/the-new-york-times-may-have-found-bitcoin-founder-satoshi-nakamoto-heres-what-you-need-to-know-193426720.html)
 
 ---
 
@@ -323,7 +319,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 19K • 👍 1K • 💬 17 • ⏱️ 52:49 • 6h ago
+👁️ 19K • 👍 1K • 💬 17 • ⏱️ 52:49 • 7h ago
 
 ---
 
@@ -333,7 +329,7 @@ Follow me on X for my best content: http://www.X.com/AdamBLiv Transform Dormant 
 
 📺 Adam Livingston
 
-👁️ 10K • 👍 849 • 💬 212 • ⏱️ 18:40 • 21h ago
+👁️ 10K • 👍 849 • 💬 212 • ⏱️ 18:40 • 22h ago
 
 ---
 
@@ -343,7 +339,7 @@ Everyone is distracted by Satoshi theories while real money floods into Bitcoin.
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 1K • 💬 110 • ⏱️ 10:48 • 22h ago
+👁️ 23K • 👍 1K • 💬 110 • ⏱️ 10:48 • 23h ago
 
 ---
 
@@ -393,7 +389,7 @@ Get a chance win a ROLEX! BTCC COMPETITION: ...
 
 📺 Crypto Lifer
 
-👁️ 2K • 👍 224 • 💬 123 • ⏱️ 16:31 • 8h ago
+👁️ 2K • 👍 224 • 💬 123 • ⏱️ 16:31 • 9h ago
 
 ---
 
