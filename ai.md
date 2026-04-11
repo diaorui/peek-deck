@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-11T18:47:35.999526+00:00'
+updated: '2026-04-11T19:35:33.058493+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - social
 - videos
+- repositories
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** April 11, 2026 at 18:47 UTC  
+**Last Updated:** April 11, 2026 at 19:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Six months ago I committed to using AI tools for everything I possibly could in my work. Every day, every task, every workflow. Here's the honest report as of April 2026. What's Genuinely Incredible First drafts of anything — AI eliminated the blank-page problem entirely. I don't dread starting anymore. Research synthesis — Feeding 10 articles into Claude Opus 4.6 and asking "what's the common thread?" gets me a better synthesis in 2 minutes than I could produce in an hour. Code for non-coders — I've built automation scripts, web scrapers, and a custom dashboard without knowing how to code. Cursor (powered by Claude) changed what "non-technical" means. The tool has 2M+ users now for good reason. Getting unstuck — Talking through a problem with an AI that can actually push back is underrated. Not therapy, but something. Learning new topics fast — "Teach me [topic] like I'm smart but completely new to this. What are the most common misconceptions?" is my go-to for rapid learning. What's Massively Overhyped "AI will do it for you" — Everything still requires your judgment and context. The AI drafts. You think. AI SEO content — The "publish 100 AI articles and watch traffic pour in" strategy is even more dead in 2026 than it was in 2024. Google has gotten much better at identifying low-value AI content. AI chatbots for customer service — Unless you invest heavily in training and iteration, they frustrate users more than they help. "Set it and forget it" automation — AI workflows break. They require monitoring. Fully autonomous workflows exist only in narrow, controlled cases. Chasing the newest model — New model releases happen constantly now. I've learned to stay on a model that works for my tasks rather than jumping to every new release. What's Quietly Dangerous (Nobody Talks About This) Skill atrophy — My first-draft writing has gotten worse. I outsourced that skill and I'm losing the muscle. I now intentionally write without AI some days. Confidence without competence — Frontier models give confident-sounding answers to things they don't know. If you're not knowledgeable enough to catch errors, you can build strategies on wrong foundations. The "good enough" trap — AI output is often 80% there. If you stop at 80%, your work looks like everyone else's. The 20% you add is the differentiation. Over-automation without understanding — I automated a workflow without fully understanding it first. When it broke, I couldn't fix it. Understand before you automate. Vendor dependency — My workflows are deeply integrated with specific AI tools and APIs. Pricing changes, policy shifts, and service disruptions are real risks at this point. The Honest Summary AI tools have made me more productive, creative, and capable than I've ever been. They've also made me lazier in ways I didn't notice until recently. The people winning with AI in 2026 aren't the ones using the most tools or running the newest models. They're the ones using AI to amplify genuine skills and judgment — not replace them. What's your honest take after 6+ months of serious AI use? Curious whether others have hit these same walls.
 
-16h ago
+17h ago
 
 ---
 
@@ -49,7 +49,7 @@ Six months ago I committed to using AI tools for everything I possibly could in 
 
 I’ve been thinking about feedback loops for social behavior. Most of us only get delayed, messy feedback: awkward silence, a vibe shift, someone not replying and so on... well, it’s hard to learn from. I’m exploring a wearable AI concept that gives lightweight real-time signals (like “attention increased” or “people are disengaging”) based on on-device computer vision. No recording, no storage, just immediate processing and discard. I’m not trying to gamify people or turn relationships into metrics. I’m trying to find the line where feedback is helpful, not obsessive. What would be a red flag that the product is pushing people into over-optimization? Should feedback be “after the fact” summaries only, not real-time? I'm open to your ideas and opinions.
 
-2h ago
+3h ago
 
 ---
 
@@ -57,7 +57,7 @@ I’ve been thinking about feedback loops for social behavior. Most of us only g
 
 Browser Rendering now exposes the Chrome DevTools Protocol, which means MCP clients can access a remote browser directly. That’s a pretty big deal because it opens the door to more capable browser automation, debugging, and agent workflows without needing to run Chrome locally. Why this matters: Remote browser access makes MCP setups more flexible. DevTools Protocol support means richer control over pages, tabs, network activity, and debugging. This is especially useful for AI agents and dev tools that need real browser interaction. This feels like one of those small platform changes that quietly unlocks a lot of new use cases. If you build with MCP, this could become a very useful primitive.
 
-9h ago
+10h ago
 
 ---
 
@@ -81,7 +81,7 @@ A California man, who has filed multiple lawsuits against major university syste
 
 Hi everyone, I’ve been exploring MCP and integrating tools like n8n with Claude Code, and I’m trying to understand how practical this really is in real-world workflows. From what I’ve seen, it looks powerful in terms of automation and connecting external tools, but I’m still unclear on a few things: Are you actually using MCP in production or just experimenting? How reliable is it when workflows get complex? Does combining it with n8n meaningfully improve productivity, or does it add more overhead? How do you handle security concerns when giving models access to external systems? Do you think this kind of setup could realistically replace parts of a developer’s workflow, or is it more of an assistant layer? Would really appreciate hearing real experiences (good or bad)
 
-4h ago
+5h ago
 
 ---
 
@@ -89,7 +89,7 @@ Hi everyone, I’ve been exploring MCP and integrating tools like n8n with Claud
 
 Interdisciplinary team of U researchers builds a framework for assessing varying levels of automation in a mental health field reliant on human interaction.
 
-🔗 [attheu.utah.edu](https://attheu.utah.edu/health-medicine/how-far-can-automation-and-ai-support-psychotherapy/) • 2h ago
+🔗 [attheu.utah.edu](https://attheu.utah.edu/health-medicine/how-far-can-automation-and-ai-support-psychotherapy/) • 3h ago
 
 ---
 
@@ -105,7 +105,7 @@ Hi everyone, I'm a 17-year-old student from India currently in Class 12, prepari
 
 Basically, does anyone else also get a really strange sense of lingering confusion and non-comprehension when an LLM explains a complex concept or tries to give a long format dive into something? It's not that they necessarily get it wrong, most often they can communicate the information cleanly and accurately, especially in things like, AI scripted youtube videos where they creator had their finger on the pulse of the informaiton. It's just something about the way it's said and the flow of the actual language itself, that feels like some sort of comprehension uncanny valley. It might just be me, but im curious to know if other people feel this because it makes me wonder if there's some kind of organic funk in the way we talk as people that makes it easier to understand an effective human explanation over an LLM. Maybe the fundamental practices of generating outputs that mimic human lanaguage rather than actual organic language means our brains can't quite find that logic to follow and it leaves us ever-so subconciously stranded? Just a random late-night ponder.
 
-3h ago
+4h ago
 
 ---
 
@@ -113,7 +113,7 @@ Basically, does anyone else also get a really strange sense of lingering confusi
 
 Lately I’ve been thinking that a lot of the most useful information online is not actually buried. It’s out in the open. Anyone can access it. In many cases, it is already sitting there in plain sight. The harder part is not finding it. The harder part is holding it in a form that lets you explore it as structure rather than just scroll through it as pages. A company website is more than a collection of pages. It is a condensed representation of how that company wants to be understood. Its language, priorities, claims, positioning, audience, constraints, and blind spots all leak through. Competitor websites reveal the same thing from other angles. Then there is another layer on top of that: how LLMs describe those companies and that market when you ask them broad or narrow questions. Not because those outputs are perfect, but because they reveal what becomes associated, surfaced, and legible through machine interpretation. When those layers are examined together, the problem starts to feel different. You are not simply reviewing content anymore. You are beginning to read the contours of a market. What ideas gravitate toward which companies. What narratives seem to persist. What themes become attached to certain players again and again. Which omissions are meaningless, and which ones suggest a real gap in positioning. That is the direction I’ve been exploring through a system I’m building around structured retrieval and knowledge mapping. What interests me is not summarizing websites for its own sake. It is the possibility of turning scattered digital material into something more like a map that can be navigated. A GEO-related project made this much more concrete for me. The hard part is not scraping pages or retrieving passages. It is making the semantic and competitive structure of a space legible enough to inspect, compare, and reason over. Once that becomes possible, the goal shifts. You are no longer only generating answers from documents. You are giving systems a way to sense the terrain underneath them. There’s an open-source repo behind this if anyone wants to look at the implementation: https://github.com/Lumen-Labs/brainapi2 I’m mainly curious whether others think this becomes a meaningful layer in how companies understand online visibility, competition, and positioning, or whether it still feels too early to be worth the added structure.
 
-4h ago
+5h ago
 
 ---
 
@@ -133,7 +133,7 @@ Anthropic • 4h ago
 
 Could powerful AI models like Anthropic's Mythos give cybercriminals and other bad actors a roadmap for exploiting tech systems?
 
-CBS News • 21h ago
+CBS News • 22h ago
 
 ---
 
@@ -141,7 +141,7 @@ CBS News • 21h ago
 
 North East political chiefs say the region remains "open for business" despite OpenAI's step.
 
-BBC • 12h ago
+BBC • 13h ago
 
 ---
 
@@ -149,7 +149,7 @@ BBC • 12h ago
 
 Nvidia, ticker NasdaqGS:NVDA, has introduced the Vera Rubin AI infrastructure platform, positioned as a new generation system with performance and cost-per-compute improvements compared with Blackwell. The company has extended its collaboration with Micron around next generation HBM4 memory, aimed at supporting advanced AI workloads and future product plans. Nvidia is backing firms such as SiFive and Firmus Technologies involved in RISC V CPUs and AI data centers, and is participating in...
 
-Yahoo Finance • 35m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -157,19 +157,19 @@ Yahoo Finance • 35m ago
 
 Maine's AI data center moratorium bill could halt construction until 2027. 11 other states tried to address concerns over AI infrastructure growth.
 
-Business Insider • 9h ago
+Business Insider • 10h ago
 
 ---
 
 **[More landlords and lenders are using AI. Fewer regulators are checking them for bias.](https://www.politico.com/news/2026/04/11/housing-lenders-ai-discrimination-disparate-impact-00864051)**
 
-Politico • 47m ago
+Politico • 1h ago
 
 ---
 
 **[Molotov Cocktail Is Hurled at Home of Sam Altman, OpenAI’s CEO](https://www.nytimes.com/2026/04/10/us/open-ai-sam-altman-molotov-cocktail.html)**
 
-The New York Times • 18h ago
+The New York Times • 19h ago
 
 ---
 
@@ -177,7 +177,7 @@ The New York Times • 18h ago
 
 The security of a surveillance dragnet looks even more promising.
 
-Mother Jones • 50m ago
+Mother Jones • 1h ago
 
 ---
 
@@ -185,7 +185,7 @@ Mother Jones • 50m ago
 
 Anti-tech sentiment has gone from online critiques to physical danger. Companies are preparing for more.
 
-The San Francisco Standard • 5h ago
+The San Francisco Standard • 6h ago
 
 ---
 
@@ -193,7 +193,7 @@ The San Francisco Standard • 5h ago
 
 When a prospect skips NFL combine workouts, teams can use artificial intelligence to project his measurables.
 
-ESPN • 8h ago
+ESPN • 9h ago
 
 ---
 
@@ -281,73 +281,33 @@ Thanks to the new possibilities afforded by AI coding tools, the App Store is se
 
 ## YouTube Videos: "ai"
 
-**[Anthropic says newest AI model is too powerful to release to public](https://www.youtube.com/watch?v=AfdDYu43Cy0)**
-
-AI company Anthropic will not release their new model, Mythos AI, to the public over cyber safety concerns. Instead they will grant ...
-
-📺 NBC News
-
-👁️ 164K • 👍 2K • 💬 567 • ⏱️ 6:07 • 2d ago
-
----
-
 **[AI agent in a robot does exactly what experts warned](https://www.youtube.com/watch?v=woTy4dTiT20)**
 
 Could AI become dangerous? Can we trust AI Agents? AGI. Use code insideai at https://incogni.com/insideai to get an exclusive ...
 
 📺 InsideAI
 
-👁️ 342K • 👍 15K • 💬 1K • ⏱️ 16:24 • 2d ago
+👁️ 352K • 👍 15K • 💬 1K • ⏱️ 16:24 • 2d ago
 
 ---
 
-**[Neuralink brain chip allows nonverbal man to talk using AI | Katie Pavlich Tonight](https://www.youtube.com/watch?v=9awnA05i70k)**
+**[Anthropic says newest AI model is too powerful to release to public](https://www.youtube.com/watch?v=AfdDYu43Cy0)**
 
-Brad Smith, the third man to ever receive a Neuralink brain chip, joins NewsNation to discuss how it has transformed his life, ...
+AI company Anthropic will not release their new model, Mythos AI, to the public over cyber safety concerns. Instead they will grant ...
 
-📺 NewsNation
+📺 NBC News
 
-👁️ 24K • 👍 371 • 💬 96 • ⏱️ 5:10 • 1d ago
-
----
-
-**[AI News: The Scariest AI Model Ever!](https://www.youtube.com/watch?v=SguncMvE77I)**
-
-Here's the AI News you probably missed this week (and some you definitely didn't) - Join the newsletter at https://futuretools.io/ for ...
-
-📺 Matt Wolfe
-
-👁️ 66K • 👍 3K • 💬 311 • ⏱️ 35:50 • 1d ago
+👁️ 166K • 👍 2K • 💬 572 • ⏱️ 6:07 • 2d ago
 
 ---
 
-**[Seedance 2.0 Just Changed the Way we Make AI Videos](https://www.youtube.com/watch?v=dQXt30-IHM4)**
+**[There Are Only 5 Safe Places to Build in AI Right Now. Are You in One?](https://www.youtube.com/watch?v=ib2m9HVX7as)**
 
-Access Seedance 2.0 on Higgsfield https://higgsfield.ai?fpr=ai&fp_sid=isa9 In this video, I break down how Seedance 2.0 ...
+Full Story w/ Prompts: ...
 
-📺 Isa does AI
+📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 13K • 💬 7 • ⏱️ 8:49 • 1d ago
-
----
-
-**[The Most Dangerous AI Model Ever: Mythos](https://www.youtube.com/watch?v=yBOOhzLltJA)**
-
-Try Seedance 2.0 on Higgsfield: https://higgsfield.ai/s/seedance-2-0-airevolutionx-ZMHAqe Anthropic just unveiled Claude ...
-
-📺 AI Revolution
-
-👁️ 47K • 👍 1K • 💬 126 • ⏱️ 17:37 • 1d ago
-
----
-
-**[The Most Dangerous AI Just Went Live...](https://www.youtube.com/watch?v=kdix0L7csac)**
-
-Hello guys and gals, it's me Mutahar again! This time we take a look at Claude Mythos. In the last few days a massive project was ...
-
-📺 SomeOrdinaryGamers
-
-👁️ 435K • 👍 17K • 💬 2K • ⏱️ 20:17 • 2d ago
+👁️ 74K • 👍 2K • 💬 219 • ⏱️ 26:11 • 1d ago
 
 ---
 
@@ -357,7 +317,37 @@ WE TAKE A LOOK AT.....WHY IS A.I. FREE? WHEN NO OTHER NEW TECHNOLOGY HAS EVER BE
 
 📺 what it look like TV
 
-👁️ 11K • 👍 1K • 💬 454 • ⏱️ 37:35 • 5h ago
+👁️ 17K • 👍 1K • 💬 579 • ⏱️ 37:35 • 6h ago
+
+---
+
+**[AI News: The Scariest AI Model Ever!](https://www.youtube.com/watch?v=SguncMvE77I)**
+
+Here's the AI News you probably missed this week (and some you definitely didn't) - Join the newsletter at https://futuretools.io/ for ...
+
+📺 Matt Wolfe
+
+👁️ 69K • 👍 3K • 💬 317 • ⏱️ 35:50 • 1d ago
+
+---
+
+**[We’re Entering The Most Dangerous Phase Of AI Yet | AI Architects](https://www.youtube.com/watch?v=RljBVCnt9AQ)**
+
+Mo Gawdat is a former chief business officer at Google X and a longtime tech leader who worked on scaling Google in emerging ...
+
+📺 Business Insider
+
+👁️ 67K • 👍 3K • 💬 450 • ⏱️ 33:39 • 1d ago
+
+---
+
+**[Neuralink brain chip allows nonverbal man to talk using AI | Katie Pavlich Tonight](https://www.youtube.com/watch?v=9awnA05i70k)**
+
+Brad Smith, the third man to ever receive a Neuralink brain chip, joins NewsNation to discuss how it has transformed his life, ...
+
+📺 NewsNation
+
+👁️ 24K • 👍 378 • 💬 99 • ⏱️ 5:10 • 1d ago
 
 ---
 
@@ -367,17 +357,27 @@ Larry Goldberg is a serial entrepreneur and has been an active Venture Capital i
 
 📺 Brighter with Herbert
 
-👁️ 34K • 👍 1K • 💬 94 • ⏱️ 34:47 • 1d ago
+👁️ 35K • 👍 1K • 💬 95 • ⏱️ 34:47 • 1d ago
 
 ---
 
-**[Elon Musk AI Makes Shocking XRP Prediction!!! (Buy 2500 XRP ASAP!?)](https://www.youtube.com/watch?v=FlhOl0yhBdo)**
+**[The Most Dangerous AI Model Ever: Mythos](https://www.youtube.com/watch?v=yBOOhzLltJA)**
 
-Subscribe to my FREE Crypto Newsletter now – weekly crypto & market insights delivered to your inbox: ...
+Try Seedance 2.0 on Higgsfield: https://higgsfield.ai/s/seedance-2-0-airevolutionx-ZMHAqe Anthropic just unveiled Claude ...
 
-📺 Levi
+📺 AI Revolution
 
-👁️ 18K • 👍 833 • 💬 104 • ⏱️ 8:57 • 21h ago
+👁️ 49K • 👍 1K • 💬 126 • ⏱️ 17:37 • 1d ago
+
+---
+
+**[The Most Dangerous AI Just Went Live...](https://www.youtube.com/watch?v=kdix0L7csac)**
+
+Hello guys and gals, it's me Mutahar again! This time we take a look at Claude Mythos. In the last few days a massive project was ...
+
+📺 SomeOrdinaryGamers
+
+👁️ 436K • 👍 17K • 💬 2K • ⏱️ 20:17 • 2d ago
 
 ---
 
@@ -393,19 +393,7 @@ GLM-5.1 is a next-generation language model optimized for agentic engineering, f
 
 `text-generation` `753.9B`
 
-⬇️ 23,998 • ❤️ 970 • 7h ago
-
----
-
-**[gemma-4-31B-it](https://huggingface.co/google/gemma-4-31B-it)**
-
-*Google*
-
-Gemma 4 31B is an instruction-tuned, multimodal LLM capable of processing text and images to generate text. It excels at reasoning, coding, and handling long contexts (256K tokens) with a hybrid attention mechanism for efficient inference, suitable for complex agentic workflows.
-
-`image-text-to-text` `32.7B`
-
-⬇️ 2,026,015 • ❤️ 1,717 • 1d ago
+⬇️ 23,998 • ❤️ 981 • 8h ago
 
 ---
 
@@ -421,6 +409,18 @@ Gemma-4-31B-JANG_4M-CRACK is a 31B parameter text-generation model optimized for
 
 ---
 
+**[gemma-4-31B-it](https://huggingface.co/google/gemma-4-31B-it)**
+
+*Google*
+
+Gemma 4 31B is an instruction-tuned, multimodal LLM capable of processing text and images to generate text. It excels at reasoning, coding, and handling long contexts (256K tokens) with a hybrid attention mechanism for efficient inference, suitable for complex agentic workflows.
+
+`image-text-to-text` `32.7B`
+
+⬇️ 2,026,015 • ❤️ 1,721 • 1d ago
+
+---
+
 **[VoxCPM2](https://huggingface.co/openbmb/VoxCPM2)**
 
 *OpenBMB*
@@ -429,7 +429,7 @@ VoxCPM2 is a 2B parameter, 30-language multilingual text-to-speech model capable
 
 `text-to-speech`
 
-⬇️ 5,722 • ❤️ 688 • 3d ago
+⬇️ 5,722 • ❤️ 690 • 3d ago
 
 ---
 
@@ -453,7 +453,7 @@ OmniVoice is a massively multilingual, zero-shot text-to-speech model supporting
 
 `text-to-speech`
 
-⬇️ 340,361 • ❤️ 494 • 6d ago
+⬇️ 340,361 • ❤️ 495 • 6d ago
 
 ---
 
@@ -465,7 +465,7 @@ This image-text-to-text model, Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled, 
 
 `image-text-to-text` `27.8B`
 
-⬇️ 566,643 • ❤️ 2,575 • 5d ago
+⬇️ 566,643 • ❤️ 2,578 • 5d ago
 
 ---
 
@@ -477,7 +477,7 @@ Gemma 4 E4B is a multimodal, instruction-tuned LLM from Google DeepMind, support
 
 `any-to-any` `8.0B`
 
-⬇️ 1,136,791 • ❤️ 579 • 1d ago
+⬇️ 1,136,791 • ❤️ 582 • 1d ago
 
 ---
 
@@ -489,7 +489,7 @@ Gemma 4 26B A4B is a multimodal instruction-tuned model capable of processing te
 
 `image-text-to-text` `26.5B`
 
-⬇️ 1,523,413 • ❤️ 601 • 1d ago
+⬇️ 1,523,413 • ❤️ 605 • 1d ago
 
 ---
 
@@ -566,7 +566,7 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
 
-▲ 155 • 💬 2 • ⭐ 59,227 • 6mo ago
+▲ 155 • 💬 2 • ⭐ 59,315 • 6mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
 
@@ -647,7 +647,7 @@ The highest-scoring AI memory system ever benchmarked. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 41.4k • 🔱 5.3k • 12h ago
+⭐ 41.5k • 🔱 5.3k • 13h ago
 
 ---
 
@@ -657,7 +657,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 30.3k • 🔱 5.9k • 23h ago
+⭐ 30.5k • 🔱 5.9k • 1d ago
 
 ---
 
@@ -667,7 +667,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Ope
 
 `Python` `claude-code` `codex` `graphrag` `knowledge-graph` `openclaw`
 
-⭐ 21.7k • 🔱 2.2k • 1d ago
+⭐ 21.8k • 🔱 2.3k • 1d ago
 
 ---
 
@@ -677,7 +677,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Ope
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 17.3k • 🔱 784 • 2h ago
+⭐ 17.8k • 🔱 801 • 3h ago
 
 ---
 
@@ -687,7 +687,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `JavaScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 15.1k • 🔱 1.4k • 4h ago
+⭐ 15.1k • 🔱 1.4k • 5h ago
 
 ---
 
@@ -697,7 +697,7 @@ Clone any website with one command using AI coding agents
 
 `TypeScript` `ai` `ai-agents` `ai-tools` `automation` `boilerplate`
 
-⭐ 10.1k • 🔱 1.4k • 12d ago
+⭐ 10.2k • 🔱 1.4k • 12d ago
 
 ---
 
@@ -717,7 +717,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 7.4k • 🔱 459 • 2h ago
+⭐ 7.4k • 🔱 459 • 3h ago
 
 ---
 
@@ -727,7 +727,7 @@ AI Agent 源码深度研究报告
 
 `Python`
 
-⭐ 5.4k • 🔱 1.6k • 15h ago
+⭐ 5.4k • 🔱 1.6k • 16h ago
 
 ---
 

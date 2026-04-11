@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-11T18:47:36.015404+00:00'
+updated: '2026-04-11T19:35:33.076252+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 11, 2026 at 18:47 UTC  
+**Last Updated:** April 11, 2026 at 19:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Kame Robotics unveils a compact open-source quadruped for desk-top robotics experiments](https://www.reddit.com/r/robotics/comments/1siofos/kame_robotics_unveils_a_compact_opensource/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2042912788717408509
 
-7h ago
+8h ago
 
 ---
 
@@ -50,7 +50,7 @@ From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2042912788717408509
 
 I've been seeing a lot of noise from the tech world about robotics being the next big wave. Curious what people actually deploying and maintaining these systems think. What's working, what's vaporware, and what does the gap between a demo and a real production deployment actually look like?
 
-9h ago
+10h ago
 
 ---
 
@@ -58,7 +58,7 @@ I've been seeing a lot of noise from the tech world about robotics being the nex
 
 I know we usually only post our own projects here, but i was procrastinating on my own codebase today and went down a rabbit hole looking at github repos from some 48h REDHackathon happening in shanghai right now (hosted by rednote I think? today is their demo day). tbh i mostly expected to see a bunch of hastily duct-taped openai wrappers and weekend spaghetti code. clicked on one of the hardware submissions called Mira. at first glance the picture just looks like a cute 3d-printed pixar lamp. I figured it was just a physical shell with a basic python script piping some face tracking coordinates directly to a couple servos. but looking at the actual code... the system architecture is surprisingly hardcore. They didnt just hardcode reactions. they built a full embodied interaction system. the pipeline goes from single camera input -> vision event extraction -> scene selection -> local bridge / safety layer -> ESP32 firmware. Instead of raw tracking they built a scene-based motion choreography abstraction. it interprets visual data into states like 'curious_observe', 'cute_probe', and 'standup_reminder'. The esp32 firmware isnt a toy either... it has a custom binary serial protocol, touch thresholds, and ack/err handling. they even built offline rehearsal scripts, fault injection, and a web director console so they could test the logic without the physical hardware glitching out on stage. Most ai right now just sits in a chat window waiting for a prompt. this thing is trying to actually notice your presence in a physical space and respond with body language and light rhythms before you even say a word. idk, seeing hardware prototypes with this level of release-oriented engineering come out of a 48h builder camp makes me feel pretty lazy today lol. its just a stark reminder that the next phase of ai probably isnt going to be on a screen, but actually sitting on our desks observing us. anyway just thought id share something cool that isnt another b2b saas wrapper. repo if anyone wants to look at the c++ / esp32 logic (not mine obviously): github.com/JunkaiWang-TheoPhy/Mira-Light-AI-That-Sees-You
 
-2h ago
+3h ago
 
 ---
 
@@ -72,7 +72,7 @@ I know we usually only post our own projects here, but i was procrastinating on 
 
 Hi to everyone Recently i am beginning in robotics, building some basic robots to undertand Logic and gain practical experience. This excercise leads me to a question: when does the robotics stop being robots that feels like toys to become a serious business with real aplications? Idk if question is clear enough, if so, let me know.
 
-28m ago
+1h ago
 
 ---
 
@@ -80,7 +80,7 @@ Hi to everyone Recently i am beginning in robotics, building some basic robots t
 
 So there is this competition that we will be joining next month to qualify for nationals. I have seen many builds that include a so-called "pull up switch", for 2 months I had been trying to find out how to create one of those, since there are no existing tutorials online. I reckon it is a micro switch connected to the driver but still confused. Does anyone have an idea on how pull up switches are made, or done? We are using one of those cytron URC10 R1.1 SumoBot Controller.
 
-2h ago
+3h ago
 
 ---
 
@@ -96,7 +96,7 @@ So there is this competition that we will be joining next month to qualify for n
 
 I'm currently working on a Yaskawa Ms-100 with Dx100, changing a wrist unit. The manual we have is for a MS-100II with DX200. This manual says the wrist uses flange sealant. We removed the wrist and found that there is an O-ring. The manual does not show this O-ring on the parts list or diagram. I cannot find a MS100 specific manual on Yaskawa's site, only the MS100II. Is anyone familiar with these that could offer some advice?
 
-9h ago
+10h ago
 
 ---
 
@@ -116,7 +116,7 @@ Context and Setup : Ros2 Humble , Gazebo Ignition Fortress . Ubuntu 22.04 I am t
 
 Robots are undoubtedly a big part of the future. In this edition of Home Team, Mike Max introduces Kanon Nakajima, a local robot buff in Minnesota whose story started in Japan.
 
-CBS News • 1h ago
+CBS News • 2h ago
 
 ---
 
@@ -140,7 +140,7 @@ The Washington Post • 1d ago
 
 Robotic bird decoys mimic mating rituals to help restore declining sage grouse populations in US national parks.
 
-Interesting Engineering • 21h ago
+Interesting Engineering • 22h ago
 
 ---
 
@@ -156,7 +156,7 @@ Fox News • 2d ago
 
 Meet 'Digit', a humanoid robotic worker made by Agility Robotics, now part of a new wave of robots replacing workers at companies like Schaeffler, Toyota, and GXO. NBC News' Brian Cheung takes a look.
 
-NBC News • 3h ago
+NBC News • 4h ago
 
 ---
 
@@ -198,7 +198,7 @@ Humanoid robots are being used for some manual tasks at the Schaeffler auto part
 
 📺 NBC News
 
-👁️ 58K • 👍 809 • 💬 455 • ⏱️ 4:56 • 1d ago
+👁️ 63K • 👍 862 • 💬 477 • ⏱️ 4:56 • 1d ago
 
 ---
 
@@ -208,17 +208,15 @@ Could AI become dangerous? Can we trust AI Agents? AGI. Use code insideai at htt
 
 📺 InsideAI
 
-👁️ 342K • 👍 15K • 💬 1K • ⏱️ 16:24 • 2d ago
+👁️ 352K • 👍 15K • 💬 1K • ⏱️ 16:24 • 2d ago
 
 ---
 
-**[Disney&#39;s New Olaf Robot Isn&#39;t What You Think](https://www.youtube.com/watch?v=VvXhpnvjVGE)**
+**[I SAW MY FiRST delivery robot #minivacay #robot #justthebells10](https://www.youtube.com/watch?v=yGJyWvJ9uS4)**
 
-Everyone is getting 7 things wrong about Disney's new Olaf animatronic. I asked Imagineering how the free roaming Olaf works, ...
+📺 Just the Bells 10
 
-📺 Guide2WDW
-
-👁️ 21K • 👍 626 • 💬 80 • ⏱️ 19:30 • 1d ago
+👁️ 19K • 👍 1K • 💬 48 • ⏱️ 0:33 • 18h ago
 
 ---
 
@@ -228,7 +226,57 @@ Lymow → https://lymowtradecolimited.pxf.io/OYr2VG The Lymow One Plus isn't you
 
 📺 How To with Doc
 
-👁️ 12K • 👍 799 • 💬 152 • ⏱️ 21:24 • 1d ago
+👁️ 13K • 👍 808 • 💬 153 • ⏱️ 21:24 • 1d ago
+
+---
+
+**[South Korea Is Building Robots the World Didn’t See Coming!](https://www.youtube.com/watch?v=H09m8a3oL_4)**
+
+South Korea is building robots you've only seen in movies, from giant walking machines to exoskeletons that give people back ...
+
+📺 DeCode
+
+👁️ 47K • 👍 895 • 💬 84 • ⏱️ 14:45 • 2d ago
+
+---
+
+**[I TESTED THE HOVER IN CHAMPION LEAGUE! FINALLY USING THIS ROBOT! (War Robots)](https://www.youtube.com/watch?v=KShsWuXuvXY)**
+
+In this video I tested out the Hover in Champion league. https://wr.my.games/Wolfblood7.
+
+📺 Wolfblood7
+
+👁️ 3K • 👍 153 • 💬 39 • ⏱️ 13:54 • 12h ago
+
+---
+
+**[Unitree H1 Humanoid Robot Breaks Limits at 22 4 MPH](https://www.youtube.com/watch?v=sfcqAZcWoMo)**
+
+The Unitree H1 humanoid robot just reached an incredible 10 meters per second, which is about 22.4 miles per hour, putting it ...
+
+📺 DPCcars
+
+👁️ 1K • 👍 47 • 💬 8 • ⏱️ 1:24 • 5h ago
+
+---
+
+**[2026 Ultimate Robot Vacuum and Mop Comparison || Roborock, Eufy, Dreame, Narwal, Ecovacs, MOVA](https://www.youtube.com/watch?v=Pv9_2D_Xc5k)**
+
+I tested every flagship robotic vacuum and mop from Roborock, Eufy, Dreame, Narwal, Ecovacs, and MOVA available in 2025 to ...
+
+📺 The Hook Up
+
+👁️ 19K • 👍 694 • 💬 159 • ⏱️ 26:12 • 3d ago
+
+---
+
+**[Are AI soldiers about to take over the battlefield? | DW News](https://www.youtube.com/watch?v=q83LtZza5eA)**
+
+US startup Foundation is developing humanoid robots for military use. The goal is for its Phantom model to identify targets and ...
+
+📺 DW News
+
+👁️ 72K • 👍 550 • 💬 101 • ⏱️ 1:22 • 5d ago
 
 ---
 
@@ -239,54 +287,6 @@ The world wasn't ready for what 2026 had in store — a wave of humanoid robots 
 📺 The AI Nexus
 
 👁️ 8K • 👍 272 • 💬 19 • ⏱️ 16:42 • 5d ago
-
----
-
-**[Humanoid robot](https://www.youtube.com/watch?v=alwW86f-MTg)**
-
-humanoidrobot #robot #robotics #roblox #shorts #funny #funnyvideo ##youtubeshorts #fypシ.
-
-📺 SeeNizz Vlog
-
-👁️ 273 • 👍 3 • ⏱️ 0:36 • 1h ago
-
----
-
-**[South Korea Is Building Robots the World Didn’t See Coming!](https://www.youtube.com/watch?v=H09m8a3oL_4)**
-
-South Korea is building robots you've only seen in movies, from giant walking machines to exoskeletons that give people back ...
-
-📺 DeCode
-
-👁️ 46K • 👍 879 • 💬 83 • ⏱️ 14:45 • 2d ago
-
----
-
-**[Optimus Prime Evolution: Ultimate Robot Truck Toys Comparison &amp; Step-by-Step Transformation Details](https://www.youtube.com/watch?v=wMIHYod8c7g)**
-
-Welcome to the ultimate Optimus Prime comparison! In this video, we dive deep into the world of Transformers toys, comparing ...
-
-📺 Bob ToysReview
-
-👁️ 14K • 👍 3K • 💬 167 • ⏱️ 9:25 • 11h ago
-
----
-
-**[2026 Ultimate Robot Vacuum and Mop Comparison || Roborock, Eufy, Dreame, Narwal, Ecovacs, MOVA](https://www.youtube.com/watch?v=Pv9_2D_Xc5k)**
-
-I tested every flagship robotic vacuum and mop from Roborock, Eufy, Dreame, Narwal, Ecovacs, and MOVA available in 2025 to ...
-
-📺 The Hook Up
-
-👁️ 19K • 👍 683 • 💬 155 • ⏱️ 26:12 • 3d ago
-
----
-
-**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=K_maQBulcfg)**
-
-📺 Robot Julie 
-
-👁️ 27K • 👍 57 • 💬 2 • ⏱️ 0:21 • 1d ago
 
 ---
 

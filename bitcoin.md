@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-11T18:47:36.007175+00:00'
+updated: '2026-04-11T19:35:33.066967+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
 - videos
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 11, 2026 at 18:47 UTC  
+**Last Updated:** April 11, 2026 at 19:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1462.79B
+**Market Cap:** $1474.05B
 Rank #1
 
-**Circulating Supply:** 20,014,400 BTC
+**Circulating Supply:** 20,014,425 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--42.0%
+-41.5%
 
 **All-Time Low:** $67.81
-+107702.7%
++108639.1%
 
 ---
 
@@ -103,7 +103,7 @@ If you can get to 1 Bitcoin, you are ahead of 99.9% of humanity. That sounds rid
 
 Wiki for Bitcoin Core development. Contribute to bitcoin-core/bitcoin-devwiki development by creating an account on GitHub.
 
-🔗 [GitHub](https://github.com/bitcoin-core/bitcoin-devwiki/wiki/31.0-Release-Candidate-Testing-Guide) • 1h ago
+🔗 [GitHub](https://github.com/bitcoin-core/bitcoin-devwiki/wiki/31.0-Release-Candidate-Testing-Guide) • 2h ago
 
 ---
 
@@ -111,7 +111,7 @@ Wiki for Bitcoin Core development. Contribute to bitcoin-core/bitcoin-devwiki de
 
 The stock market is closed on weekend. Bitcoin is one of the few assets that can be traded on weekend. By my understanding, that would mean bitcoins volume should be higher on weekend than on weekdays because traders cant trade stocks, so trading focused on bitcoin. But bitcoins volume on weekends is actually lower than on weekdays, despite weekend, by my logic, being the time frame where everyone would jump to bitcoin because the stock market is closed
 
-8h ago
+9h ago
 
 ---
 
@@ -135,7 +135,7 @@ Japan plans to reclassify cryptocurrencies as financial products under the Finan
 
 I’m just honestly perplexed why this really matters? For real, what difference is it going to make to finally unmask the real SN and how is that going to change the impact his held coins will make when they’re finally sold? Everyone is anonymous on the chain so why should they be any different? Sure, there’s the impact of data hungry machines and their environmental impact but sincerely that ship sailed a decade ago. But how is any of that going to change once we all know for sure who to blame? Is t it all the rest of us, constantly moving coins around that are to blame? So curious to hear opinions on this article.
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/04/09/podcasts/the-daily/satoshi-nakamoto-bitcoin-creator.html?unlocked_article_code=1.Z1A.Zc6v.htjM1l8I6VbV&smid=nytcore-ios-share) • 19h ago
+🔗 [nytimes.com](https://www.nytimes.com/2026/04/09/podcasts/the-daily/satoshi-nakamoto-bitcoin-creator.html?unlocked_article_code=1.Z1A.Zc6v.htjM1l8I6VbV&smid=nytcore-ios-share) • 20h ago
 
 ---
 
@@ -143,7 +143,7 @@ I’m just honestly perplexed why this really matters? For real, what difference
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-12h ago
+13h ago
 
 ---
 
@@ -163,13 +163,13 @@ Every cycle we talk about the supply shock, but I’m noticing that volatility i
 
 Six weeks of war have revealed that bitcoin's floor depends entirely on a handful of mandated buyers absorbing what everyone else is trying to get rid of.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
 **[U.S. Treasury Secretary Fuels Huge $1.5 Quadrillion Crypto Prediction As The Bitcoin Price Suddenly Soars](https://www.forbes.com/sites/digital-assets/2026/04/11/us-treasury-secretary-fuels-huge-15-quadrillion-crypto-prediction-as-the-bitcoin-price-suddenly-soars/)**
 
-Forbes • 7h ago
+Forbes • 8h ago
 
 ---
 
@@ -177,7 +177,7 @@ Forbes • 7h ago
 
 Bitcoin’s weekly chart is showing an uncomfortable comparison to one of the most brutal sell-offs in its history, and at least one analyst believes the worst may still be ahead. This technical outlook is looking at the current price action as a mirror of the 2022 macro fractal sequence that sent Bi…
 
-TradingView • 1h ago
+TradingView • 2h ago
 
 ---
 
@@ -185,7 +185,7 @@ TradingView • 1h ago
 
 Fee-conscious investors face a trade-off between cost savings and exposure to sharper price swings in these two bitcoin ETFs.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -193,7 +193,7 @@ Yahoo Finance • 1h ago
 
 On-chain data points to easing selling pressure, with realized losses falling and spot markets shifting toward net buying.
 
-CoinDesk • 46m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -201,7 +201,7 @@ CoinDesk • 46m ago
 
 The market rose over the week after a two-week ceasefire was announced, triggering a derivatives short squeeze that wiped out over $430 million in bearish positions.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -217,7 +217,7 @@ TradingView • 10h ago
 
 The Iranian regime has increasingly resorted to digital assets to evade U.S. sanctions.
 
-Fortune • 23h ago
+Fortune • 1d ago
 
 ---
 
@@ -231,7 +231,7 @@ MarketWatch • 21h ago
 
 A new brief from the Bitcoin Policy Institute says advances in quantum computing may bring forward risks to Bitcoin’s cryptography, though developers are already working on fixes.
 
-Bitcoin Magazine • 22h ago
+Bitcoin Magazine • 23h ago
 
 ---
 
@@ -265,7 +265,7 @@ Neha Narula
 
 The average production cost was sitting at $88,000 per bitcoin in mid-March, according to Checkonchain's difficulty regression model.
 
-⬆️ 153 • 💬 139 • 5h ago • [coindesk.com](https://www.coindesk.com/markets/2026/03/22/bitcoin-miners-are-losing-usd19-000-on-every-btc-produced-as-difficulty-drops-7-8)
+⬆️ 153 • 💬 139 • 6h ago • [coindesk.com](https://www.coindesk.com/markets/2026/03/22/bitcoin-miners-are-losing-usd19-000-on-every-btc-produced-as-difficulty-drops-7-8)
 
 ---
 
@@ -301,7 +301,7 @@ New York Times report claims London-born Adam Back is creator of the cryptocurre
 
 Bitcoin Core Will Maintain the Protocol. It May Not Save It. The reference implementation that sustains a $1.4 trillion network continues to produce quality code while losing the institutional capa...
 
-⬆️ 3 • 💬 0 • 13h ago • [GitHub](https://github.com/bitcoin/bitcoin/issues/35055)
+⬆️ 3 • 💬 0 • 14h ago • [GitHub](https://github.com/bitcoin/bitcoin/issues/35055)
 
 ---
 
@@ -323,7 +323,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 12K • 👍 1K • 💬 17 • ⏱️ 52:49 • 5h ago
+👁️ 19K • 👍 1K • 💬 17 • ⏱️ 52:49 • 6h ago
 
 ---
 
@@ -333,7 +333,7 @@ Follow me on X for my best content: http://www.X.com/AdamBLiv Transform Dormant 
 
 📺 Adam Livingston
 
-👁️ 9K • 👍 815 • 💬 204 • ⏱️ 18:40 • 21h ago
+👁️ 10K • 👍 849 • 💬 212 • ⏱️ 18:40 • 21h ago
 
 ---
 
@@ -343,17 +343,7 @@ Everyone is distracted by Satoshi theories while real money floods into Bitcoin.
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 1K • 💬 104 • ⏱️ 10:48 • 21h ago
-
----
-
-**[The White House Just Leaked Crypto’s Future.](https://www.youtube.com/watch?v=HmPN38i0wnc)**
-
-GREAT NEWS! Clarity act just received...some clarity. Research paper ...
-
-📺 Digital Asset News
-
-👁️ 23K • 👍 1K • 💬 84 • ⏱️ 18:39 • 2d ago
+👁️ 23K • 👍 1K • 💬 110 • ⏱️ 10:48 • 22h ago
 
 ---
 
@@ -363,7 +353,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 ✓
 
 📺 Altcoin Daily
 
-👁️ 40K • 👍 2K • 💬 375 • ⏱️ 12:20 • 1d ago
+👁️ 40K • 👍 2K • 💬 373 • ⏱️ 12:20 • 1d ago
 
 ---
 
@@ -373,27 +363,17 @@ Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bi
 
 📺 Tyler S
 
-👁️ 11K • 👍 703 • 💬 399 • ⏱️ 19:36 • 1d ago
+👁️ 11K • 👍 713 • 💬 395 • ⏱️ 19:36 • 1d ago
 
 ---
 
-**[Morgan Stanley&#39;s Bitcoin ETF Move Changes Everything - Adam Back Explains](https://www.youtube.com/watch?v=fXwN3pW3nZk)**
+**[Bitcoin Bulls Eye Major Breakout](https://www.youtube.com/watch?v=OZK5hdKfb18)**
 
-Is Adam Back the real Satoshi Nakamoto? He addresses the enduring mystery of Bitcoin's anonymous creator and explains why ...
+Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FREE Crypto Predictions & Compete Weekly ...
 
-📺 Yahoo Finance
+📺 CryptosRUs
 
-👁️ 16K • 👍 255 • 💬 144 • ⏱️ 8:56 • 2d ago
-
----
-
-**[my lessons from 1792 days in bitcoin (this will save you years)](https://www.youtube.com/watch?v=e0EPQg20SaQ)**
-
-soon to be 2000 days in bitcoin. here are 3 lessons i learned that could save you from costly mistakes. Thanks to Storyblocks for ...
-
-📺 BTC Isla
-
-👁️ 7K • 👍 737 • 💬 185 • ⏱️ 9:15 • 1d ago
+👁️ 18K • 👍 897 • 💬 235 • ⏱️ 49:15 • 1d ago
 
 ---
 
@@ -403,7 +383,7 @@ Plenty of crypto newbies lost money chasing the bitcoin boom that followed Donal
 
 📺 Forbes
 
-👁️ 55K • 👍 1K • 💬 237 • ⏱️ 5:05 • 1d ago
+👁️ 58K • 👍 2K • 💬 243 • ⏱️ 5:05 • 1d ago
 
 ---
 
@@ -413,7 +393,27 @@ Get a chance win a ROLEX! BTCC COMPETITION: ...
 
 📺 Crypto Lifer
 
-👁️ 2K • 👍 216 • 💬 99 • ⏱️ 16:31 • 7h ago
+👁️ 2K • 👍 224 • 💬 123 • ⏱️ 16:31 • 8h ago
+
+---
+
+**[my lessons from 1792 days in bitcoin (this will save you years)](https://www.youtube.com/watch?v=e0EPQg20SaQ)**
+
+soon to be 2000 days in bitcoin. here are 3 lessons i learned that could save you from costly mistakes. Thanks to Storyblocks for ...
+
+📺 BTC Isla
+
+👁️ 7K • 👍 760 • 💬 186 • ⏱️ 9:15 • 1d ago
+
+---
+
+**[I&#39;m short bitcoin and the S&amp;P500](https://www.youtube.com/watch?v=YPodMKJOq6Q)**
+
+TOOBIT — DEPOSIT & UNLOCK UP TO 30,000 USDT DEPOSIT BONUS! Limited spots ...
+
+📺 100XClub
+
+👁️ 8K • 👍 732 • 💬 167 • ⏱️ 7:49 • 1d ago
 
 ---
 
