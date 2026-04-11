@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-11T08:44:42.035149+00:00'
+updated: '2026-04-11T09:40:58.933711+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
+- social
 - news
 - videos
-- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 11, 2026 at 08:44 UTC  
+**Last Updated:** April 11, 2026 at 09:40 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Six months ago I committed to using AI tools for everything I possibly could in my work. Every day, every task, every workflow. Here's the honest report as of April 2026. What's Genuinely Incredible First drafts of anything — AI eliminated the blank-page problem entirely. I don't dread starting anymore. Research synthesis — Feeding 10 articles into Claude Opus 4.6 and asking "what's the common thread?" gets me a better synthesis in 2 minutes than I could produce in an hour. Code for non-coders — I've built automation scripts, web scrapers, and a custom dashboard without knowing how to code. Cursor (powered by Claude) changed what "non-technical" means. The tool has 2M+ users now for good reason. Getting unstuck — Talking through a problem with an AI that can actually push back is underrated. Not therapy, but something. Learning new topics fast — "Teach me [topic] like I'm smart but completely new to this. What are the most common misconceptions?" is my go-to for rapid learning. What's Massively Overhyped "AI will do it for you" — Everything still requires your judgment and context. The AI drafts. You think. AI SEO content — The "publish 100 AI articles and watch traffic pour in" strategy is even more dead in 2026 than it was in 2024. Google has gotten much better at identifying low-value AI content. AI chatbots for customer service — Unless you invest heavily in training and iteration, they frustrate users more than they help. "Set it and forget it" automation — AI workflows break. They require monitoring. Fully autonomous workflows exist only in narrow, controlled cases. Chasing the newest model — New model releases happen constantly now. I've learned to stay on a model that works for my tasks rather than jumping to every new release. What's Quietly Dangerous (Nobody Talks About This) Skill atrophy — My first-draft writing has gotten worse. I outsourced that skill and I'm losing the muscle. I now intentionally write without AI some days. Confidence without competence — Frontier models give confident-sounding answers to things they don't know. If you're not knowledgeable enough to catch errors, you can build strategies on wrong foundations. The "good enough" trap — AI output is often 80% there. If you stop at 80%, your work looks like everyone else's. The 20% you add is the differentiation. Over-automation without understanding — I automated a workflow without fully understanding it first. When it broke, I couldn't fix it. Understand before you automate. Vendor dependency — My workflows are deeply integrated with specific AI tools and APIs. Pricing changes, policy shifts, and service disruptions are real risks at this point. The Honest Summary AI tools have made me more productive, creative, and capable than I've ever been. They've also made me lazier in ways I didn't notice until recently. The people winning with AI in 2026 aren't the ones using the most tools or running the newest models. They're the ones using AI to amplify genuine skills and judgment — not replace them. What's your honest take after 6+ months of serious AI use? Curious whether others have hit these same walls.
 
-6h ago
+7h ago
 
 ---
 
@@ -49,7 +49,7 @@ Six months ago I committed to using AI tools for everything I possibly could in 
 
 A California man, who has filed multiple lawsuits against major university systems over his son's college rejections, says artificial intelligence has become the key to pursuing the cases after no law firm agreed to represent them.
 
-🔗 [ABC7 Los Angeles](https://abc7.com/story/google-engineer-rejected-16-colleges-uses-ai-sue-universities-racial-discrimination/18861654/) • 18h ago
+🔗 [ABC7 Los Angeles](https://abc7.com/story/google-engineer-rejected-16-colleges-uses-ai-sue-universities-racial-discrimination/18861654/) • 19h ago
 
 ---
 
@@ -57,7 +57,7 @@ A California man, who has filed multiple lawsuits against major university syste
 
 How has Claude far surpassed the competitors? They were not first to market or ever had the most cash yet their feature are far and away the best on the market.
 
-11h ago
+12h ago
 
 ---
 
@@ -65,7 +65,7 @@ How has Claude far surpassed the competitors? They were not first to market or e
 
 I’ve been thinking about how AI might not actually replace humans, but instead integrate with us over time. Almost like an extension of cognition. Tools didn’t replace physical work, they amplified it. AI might be doing the same for thinking, like helping with decision-making, creativity, and problem-solving rather than fully replacing them. Curious how others see this: do you think AI will replace human thinking, or gradually merge with it? I’ve written down some extended thoughts on this if anyone’s interested.
 
-🔗 [Medium](https://medium.com/pen-with-paper/the-future-of-ai-might-not-be-what-you-think-it-is-cc8b34fbbe76) • 7h ago
+🔗 [Medium](https://medium.com/pen-with-paper/the-future-of-ai-might-not-be-what-you-think-it-is-cc8b34fbbe76) • 8h ago
 
 ---
 
@@ -73,7 +73,7 @@ I’ve been thinking about how AI might not actually replace humans, but instead
 
 i want to be very clear upfront, i'm not talking about people who are genuinely trying. i'm not talking about the person in their bedroom at midnight editing their 30th video because they actually love what they make. i'm talking about the other kind. the ones who downloaded CapCut on a Tuesday, pointed their phone at their face on Wednesday, and by Friday were telling people at family dinners that they're a "content creator." the internet used to be where you went to find something you couldn't find anywhere else. now it's where everyone goes to show you something you've already seen just slightly worse. and i think i finally understand why this is happening. somewhere along the way, the word "content creator" got completely detached from the word "content." the creator part became the goal. the actual content became an afterthought. a necessary inconvenience between you and the fame you've already decided you deserve. people don't ask themselves "what do i have to give?" anymore. they ask "what do i have to post?" and those two questions produce very, very different things.
 
-13h ago
+14h ago
 
 ---
 
@@ -81,13 +81,13 @@ i want to be very clear upfront, i'm not talking about people who are genuinely 
 
 sasha and Rosita both die in season 7, episode 16 of The Walking Dead, titled "The First Day of the Rest of Your Life". Sasha sacrifices herself as a way to help the group fight Negan, while Rosita survives the episode. Sasha's death is a result of her plan to infiltrate Negan's compound and die as a means to create a distraction for the group's attack.
 
-1h ago
+2h ago
 
 ---
 
 **[Elon Musk Asks for OpenAI’s Nonprofit to Get Any Damages From His Lawsuit](https://www.reddit.com/r/artificial/comments/1shwfk3/elon_musk_asks_for_openais_nonprofit_to_get_any/)**
 
-🔗 [wsj.com](https://www.wsj.com/tech/ai/elon-musk-asks-for-openais-nonprofit-to-get-any-damages-from-his-lawsuit-76089f6f) • 13h ago
+🔗 [wsj.com](https://www.wsj.com/tech/ai/elon-musk-asks-for-openais-nonprofit-to-get-any-damages-from-his-lawsuit-76089f6f) • 14h ago
 
 ---
 
@@ -95,7 +95,7 @@ sasha and Rosita both die in season 7, episode 16 of The Walking Dead, titled "T
 
 So I just made this workout on a whiteboard and I was feeling lazy so I asked Claude to read it. And it did, almost flawlessly. I was and am genuinely surprised how far AI has come within the last couple of years. I know you're probably laughing at me, telling me it's easy, but hey, I can live with that. Besides, I am 57 and been a developer since 1990, so I have followed the trends closely in this area and AI is by far the wildest thing that has happened.
 
-14h ago
+15h ago
 
 ---
 
@@ -103,7 +103,7 @@ So I just made this workout on a whiteboard and I was feeling lazy so I asked Cl
 
 A few days ago, Andrej Karpathy’s post on "LLM Knowledge Bases" went viral. He proposed a shift from manipulating code to manipulating knowledge-using LLMs to incrementally compile raw data into a structured, interlinked graph of markdown files. I loved the idea and started testing it out. It worked incredibly well, and I decided this was how I wanted to store all my research moving forward. But the friction was killing me. My primary device is my phone, and every time I found a great article or paper, I had to wait until I was at my laptop, copy the link over, and run a mess of scripts just to ingest one thing. I wanted the "Knowledge wiki" in my pocket. 🎒 I’m not a TypeScript developer, but I decided to "vibecode" the entire solution into a native app using Tauri v2 and LangGraph.js. After a lot of back-and-forth debugging and iteration, I’ve released LLM Wiki. How it works with different sources: The app is built to be a universal "knowledge funnel." I’ve integrated specialized extractors for different media: * PDFs: It uses a local worker to parse academic papers and reports directly on-device. * Web Articles: I’ve integrated Mozilla’s Readability engine to strip the "noise" from URLs, giving the LLM clean markdown to analyze. * YouTube: It fetches transcripts directly from the URL. You can literally shared a 40-minute deep-dive video from the YouTube app into LLM Wiki, and it will automatically document the key concepts and entities into your graph while you're still watching. The "Agentic" Core: Under the hood, it’s powered by two main LangGraph agents. The Ingest Agent handles the heavy lifting of planning which pages to create or update to avoid duplication. The Lint Agent is your automated editor—it scans for broken links, "orphan" pages that aren't linked to anything, and factual contradictions between different sources, suggesting fixes for you to approve. Check it out (Open Source): The app is fully open-source and brings-your-own-key (OpenAI, Anthropic, Google, or any custom endpoint). Since I vibecoded this without prior TS experience, there will definitely be some bugs, but it’s been incredibly stable for my own use cases. GitHub (APK and EXE in the Releases): https://github.com/Kellysmoky123/LlmWiki If you find any issues or want to help refine the agents, please open an issue or a PR. I'd love to see where we can take this "compiled knowledge" idea!
 
-16h ago
+17h ago
 
 ---
 
@@ -111,7 +111,7 @@ A few days ago, Andrej Karpathy’s post on "LLM Knowledge Bases" went viral. He
 
 Financial industry leaders met to discuss potential cyber risks posed by Anthropic's latest AI model, which has found weaknesses in every major computer operating system.
 
-🔗 [cbsnews.com](https://www.cbsnews.com/news/mythos-anthropic-ai-cybersecurity-risks-powell-bessent/) • 12h ago
+🔗 [cbsnews.com](https://www.cbsnews.com/news/mythos-anthropic-ai-cybersecurity-risks-powell-bessent/) • 13h ago
 
 ---
 
@@ -123,7 +123,7 @@ Financial industry leaders met to discuss potential cyber risks posed by Anthrop
 
 A new initiative to secure the world’s most critical software and give defenders a durable advantage in the coming AI-driven era of cybersecurity.
 
-Anthropic • 2h ago
+Anthropic • 3h ago
 
 ---
 
@@ -131,7 +131,7 @@ Anthropic • 2h ago
 
 Claude Mythos’s apparent superhuman hacking abilities are alarming experts as the Trump administration remains blinded by hostility
 
-The Guardian • 16h ago
+The Guardian • 17h ago
 
 ---
 
@@ -139,7 +139,7 @@ The Guardian • 16h ago
 
 Experts warn eliminating boring tasks with AI could drain our mental bandwidth.
 
-Fortune • 43m ago
+Fortune • 1h ago
 
 ---
 
@@ -147,19 +147,19 @@ Fortune • 43m ago
 
 Illia Polosukhin, a co-author of the seminal transformer paper, said our institutions need to be better prepared as AI agents become more capable.
 
-Business Insider • 33m ago
+Business Insider • 1h ago
 
 ---
 
 **[Molotov Cocktail Is Hurled at Home of Sam Altman, OpenAI’s CEO](https://www.nytimes.com/2026/04/10/us/open-ai-sam-altman-molotov-cocktail.html)**
 
-The New York Times • 14h ago
+The New York Times • 15h ago
 
 ---
 
 **[Man arrested after Molotov cocktail attack on SF home of OpenAI CEO Sam Altman](https://www.sfgate.com/bayarea/article/attack-openai-sam-altman-22199855.php)**
 
-SFGATE • 14h ago
+SFGATE • 15h ago
 
 ---
 
@@ -175,7 +175,7 @@ The Guardian • 1d ago
 
 Learn how memory scaling allows AI agents to improve with every interaction. Databricks Research shares data on boosting accuracy and efficiency using MemAlign.
 
-Databricks • 15h ago
+Databricks • 16h ago
 
 ---
 
@@ -183,7 +183,7 @@ Databricks • 15h ago
 
 A conservative Idaho blogger who defamed a drag performer by implying he exposed himself during Coeur d’Alene’s Pride in the Park four years ago wants her jury verdict thrown out.
 
-The Spokesman-Review • 6h ago
+The Spokesman-Review • 7h ago
 
 ---
 
@@ -203,7 +203,7 @@ WIRED • 1d ago
 
 The ChatGPT-maker testified in favor of an Illinois bill that would limit when AI labs can be held liable—even in cases where their products cause “critical harm.”
 
-⬆️ 429 • 💬 312 • 19h ago • [WIRED](https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/)
+⬆️ 429 • 💬 312 • 20h ago • [WIRED](https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/)
 
 ---
 
@@ -211,7 +211,7 @@ The ChatGPT-maker testified in favor of an Illinois bill that would limit when A
 
 Linux kernel source tree. Contribute to torvalds/linux development by creating an account on GitHub.
 
-⬆️ 304 • 💬 199 • 14h ago • [GitHub](https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst)
+⬆️ 304 • 💬 199 • 15h ago • [GitHub](https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst)
 
 ---
 
@@ -247,7 +247,7 @@ In 1958, Mao ordered every village to produce steel. The steel was useless. The 
 
 Reports say Fed chair Jerome Powell among attenders at meeting in Washington
 
-⬆️ 105 • 💬 92 • 18h ago • [the Guardian](https://www.theguardian.com/technology/2026/apr/10/us-summoned-bank-bosses-to-discuss-cyber-risks-posed-by-anthropic-latest-ai-model)
+⬆️ 105 • 💬 92 • 19h ago • [the Guardian](https://www.theguardian.com/technology/2026/apr/10/us-summoned-bank-bosses-to-discuss-cyber-risks-posed-by-anthropic-latest-ai-model)
 
 ---
 
@@ -269,7 +269,7 @@ Bixonimania doesn’t exist except in a clutch of obviously bogus academic paper
 
 YC-backed autonomous coding agent platform. Twill ships PRs in sandboxed environments, and pings you when it needs your input. Integrates with GitHub, Slack, Linear, and more.
 
-⬆️ 67 • 💬 63 • 16h ago • [Twill](https://twill.ai)
+⬆️ 67 • 💬 63 • 17h ago • [Twill](https://twill.ai)
 
 ---
 
@@ -283,7 +283,7 @@ Here's the AI News you probably missed this week (and some you definitely didn't
 
 📺 Matt Wolfe
 
-👁️ 53K • 👍 2K • 💬 274 • ⏱️ 35:50 • 17h ago
+👁️ 57K • 👍 3K • 💬 284 • ⏱️ 35:50 • 18h ago
 
 ---
 
@@ -293,7 +293,7 @@ Could AI become dangerous? Can we trust AI Agents? AGI. Use code insideai at htt
 
 📺 InsideAI
 
-👁️ 310K • 👍 14K • 💬 1K • ⏱️ 16:24 • 1d ago
+👁️ 315K • 👍 14K • 💬 1K • ⏱️ 16:24 • 1d ago
 
 ---
 
@@ -303,7 +303,17 @@ AI company Anthropic will not release their new model, Mythos AI, to the public 
 
 📺 NBC News
 
-👁️ 153K • 👍 2K • 💬 531 • ⏱️ 6:07 • 2d ago
+👁️ 156K • 👍 2K • 💬 535 • ⏱️ 6:07 • 2d ago
+
+---
+
+**[San Francisco store created and managed by AI](https://www.youtube.com/watch?v=QQWiSRVrIEA)**
+
+Shoppers in San Francisco now have access to a store built, developed and run almost entirely by an AI bot. Scott Budman ...
+
+📺 NBC Bay Area
+
+👁️ 432 • 👍 16 • 💬 8 • ⏱️ 2:11 • 2h ago
 
 ---
 
@@ -313,37 +323,7 @@ Try Seedance 2.0 on Higgsfield: https://higgsfield.ai/s/seedance-2-0-airevolutio
 
 📺 AI Revolution
 
-👁️ 41K • 👍 1K • 💬 117 • ⏱️ 17:37 • 1d ago
-
----
-
-**[Seedance 2.0 Just Changed the Way we Make AI Videos](https://www.youtube.com/watch?v=dQXt30-IHM4)**
-
-Access Seedance 2.0 on Higgsfield https://higgsfield.ai?fpr=ai&fp_sid=isa9 In this video, I break down how Seedance 2.0 ...
-
-📺 Isa does AI
-
-👁️ 12K • 💬 7 • ⏱️ 8:49 • 18h ago
-
----
-
-**[Neuralink brain chip allows nonverbal man to talk using AI | Katie Pavlich Tonight](https://www.youtube.com/watch?v=9awnA05i70k)**
-
-Brad Smith, the third man to ever receive a Neuralink brain chip, joins NewsNation to discuss how it has transformed his life, ...
-
-📺 NewsNation
-
-👁️ 21K • 👍 347 • 💬 83 • ⏱️ 5:10 • 1d ago
-
----
-
-**[The Most Dangerous AI Just Went Live...](https://www.youtube.com/watch?v=kdix0L7csac)**
-
-Hello guys and gals, it's me Mutahar again! This time we take a look at Claude Mythos. In the last few days a massive project was ...
-
-📺 SomeOrdinaryGamers
-
-👁️ 429K • 👍 17K • 💬 2K • ⏱️ 20:17 • 2d ago
+👁️ 42K • 👍 1K • 💬 119 • ⏱️ 17:37 • 1d ago
 
 ---
 
@@ -353,27 +333,47 @@ Mo Gawdat is a former chief business officer at Google X and a longtime tech lea
 
 📺 Business Insider
 
-👁️ 38K • 👍 1K • 💬 279 • ⏱️ 33:39 • 19h ago
+👁️ 42K • 👍 2K • 💬 290 • ⏱️ 33:39 • 20h ago
 
 ---
 
-**[Why Anthropic is saying its new AI model, Mythos, is too dangerous to release](https://www.youtube.com/watch?v=K0lYvhIo8Jw)**
+**[The Most Dangerous AI Just Went Live...](https://www.youtube.com/watch?v=kdix0L7csac)**
 
-Anthropic has announced that it is teaming up with industry competitors to "secure the world's most critical software" from its own ...
+Hello guys and gals, it's me Mutahar again! This time we take a look at Claude Mythos. In the last few days a massive project was ...
 
-📺 CBS News
+📺 SomeOrdinaryGamers
 
-👁️ 9K • 👍 111 • 💬 35 • ⏱️ 5:27 • 10h ago
+👁️ 431K • 👍 17K • 💬 2K • ⏱️ 20:17 • 2d ago
 
 ---
 
-**[There Are Only 5 Safe Places to Build in AI Right Now. Are You in One?](https://www.youtube.com/watch?v=ib2m9HVX7as)**
+**[The Music Industry Is Turning On AI Artists](https://www.youtube.com/watch?v=EcwCBRgLDmU)**
 
-Full Story w/ Prompts: ...
+Free Case Evaluation: https://www.topmusicattorney.com/freecaseevaluation Say Hi On IG ...
 
-📺 AI News & Strategy Daily | Nate B Jones
+📺 Top Music Attorney
 
-👁️ 59K • 👍 2K • 💬 190 • ⏱️ 26:11 • 18h ago
+👁️ 15K • 👍 672 • 💬 577 • ⏱️ 10:40 • 19h ago
+
+---
+
+**[Neuralink brain chip allows nonverbal man to talk using AI | Katie Pavlich Tonight](https://www.youtube.com/watch?v=9awnA05i70k)**
+
+Brad Smith, the third man to ever receive a Neuralink brain chip, joins NewsNation to discuss how it has transformed his life, ...
+
+📺 NewsNation
+
+👁️ 21K • 👍 351 • 💬 79 • ⏱️ 5:10 • 1d ago
+
+---
+
+**[&#39;Terrifying warning sign&#39;: Anthropic delays AI model over security concerns](https://www.youtube.com/watch?v=htBaVVh_k90)**
+
+Anthropic says Mythos (officially dubbed “Claude Mythos Preview”) is not ready for a public launch because of the ways it could ...
+
+📺 CNN
+
+👁️ 1.0M • 👍 12K • 💬 2K • ⏱️ 9:58 • 2d ago
 
 ---
 
@@ -389,7 +389,7 @@ Gemma 4 31B is an instruction-tuned, multimodal LLM capable of processing text a
 
 `image-text-to-text` `32.7B`
 
-⬇️ 2,026,015 • ❤️ 1,688 • 16h ago
+⬇️ 2,026,015 • ❤️ 1,699 • 17h ago
 
 ---
 
@@ -401,7 +401,7 @@ GLM-5.1 is a next-generation language model optimized for agentic engineering, f
 
 `text-generation` `753.9B`
 
-⬇️ 23,998 • ❤️ 945 • 2d ago
+⬇️ 23,998 • ❤️ 946 • 2d ago
 
 ---
 
@@ -413,7 +413,7 @@ Gemma-4-31B-JANG_4M-CRACK is a 31B parameter text-generation model optimized for
 
 `image-text-to-text` `6.4B`
 
-⬇️ 89,753 • ❤️ 910 • 1d ago
+⬇️ 89,753 • ❤️ 913 • 1d ago
 
 ---
 
@@ -437,7 +437,7 @@ VOID is a video-to-video diffusion model for object and interaction removal, cap
 
 `video-to-video`
 
-⬇️ 0 • ❤️ 743 • 4d ago
+⬇️ 0 • ❤️ 744 • 4d ago
 
 ---
 
@@ -449,7 +449,7 @@ OmniVoice is a massively multilingual, zero-shot text-to-speech model supporting
 
 `text-to-speech`
 
-⬇️ 340,361 • ❤️ 481 • 5d ago
+⬇️ 340,361 • ❤️ 482 • 5d ago
 
 ---
 
@@ -461,7 +461,7 @@ This image-text-to-text model, Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled, 
 
 `image-text-to-text` `27.8B`
 
-⬇️ 566,643 • ❤️ 2,570 • 5d ago
+⬇️ 566,643 • ❤️ 2,571 • 5d ago
 
 ---
 
@@ -473,7 +473,7 @@ Gemma 4 E4B is a multimodal, instruction-tuned LLM from Google DeepMind, support
 
 `any-to-any` `8.0B`
 
-⬇️ 1,136,791 • ❤️ 570 • 16h ago
+⬇️ 1,136,791 • ❤️ 570 • 17h ago
 
 ---
 
@@ -485,7 +485,7 @@ Gemma 4 26B A4B is a multimodal instruction-tuned model capable of processing te
 
 `image-text-to-text` `26.5B`
 
-⬇️ 1,523,413 • ❤️ 592 • 16h ago
+⬇️ 1,523,413 • ❤️ 593 • 17h ago
 
 ---
 
@@ -549,7 +549,7 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-▲ 7 • 💬 0 • ⭐ 12,706 • 8mo ago
+▲ 8 • 💬 0 • ⭐ 12,706 • 8mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
@@ -589,7 +589,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 VOID is a video object removal framework that uses vision-language models and video diffusion models to generate physically plausible scenes by leveraging causal reasoning and counterfactual reasoning.
 
-▲ 51 • 💬 5 • ⭐ 1,440 • 9d ago
+▲ 52 • 💬 5 • ⭐ 1,440 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.02296) • [💻 code](https://github.com/Netflix/void-model) • [🔗 project](https://void-model.github.io/)
 
@@ -615,7 +615,7 @@ AI-Trader presents the first fully automated live benchmark for evaluating large
 
 HY-Embodied-0.5 is a foundation model family for embodied agents featuring Mixture-of-Transformers architecture and iterative post-training for enhanced visual perception and reasoning capabilities.
 
-▲ 131 • 💬 4 • ⭐ 275 • 3d ago
+▲ 134 • 💬 4 • ⭐ 275 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.07430) • [💻 code](https://github.com/Tencent-Hunyuan/HY-Embodied)
 
@@ -643,7 +643,7 @@ The highest-scoring AI memory system ever benchmarked. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 40.6k • 🔱 5.1k • 2h ago
+⭐ 40.7k • 🔱 5.2k • 3h ago
 
 ---
 
@@ -653,7 +653,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 29.7k • 🔱 5.7k • 13h ago
+⭐ 29.9k • 🔱 5.7k • 14h ago
 
 ---
 
@@ -663,17 +663,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Ope
 
 `Python` `claude-code` `codex` `graphrag` `knowledge-graph` `openclaw`
 
-⭐ 20.8k • 🔱 2.1k • 15h ago
-
----
-
-**[jackwener/OpenCLI](https://github.com/jackwener/OpenCLI)**
-
-Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.
-
-`JavaScript` `ai-agent` `ai-agents` `ai-tools` `cli`
-
-⭐ 15.0k • 🔱 1.4k • 2h ago
+⭐ 21.0k • 🔱 2.1k • 15h ago
 
 ---
 
@@ -683,7 +673,17 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 14.5k • 🔱 654 • 1d ago
+⭐ 15.1k • 🔱 682 • 1d ago
+
+---
+
+**[jackwener/OpenCLI](https://github.com/jackwener/OpenCLI)**
+
+Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.
+
+`JavaScript` `ai-agent` `ai-agents` `ai-tools` `cli`
+
+⭐ 15.0k • 🔱 1.4k • 3h ago
 
 ---
 
@@ -713,7 +713,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 7.4k • 🔱 457 • 1h ago
+⭐ 7.4k • 🔱 457 • 1m ago
 
 ---
 
@@ -723,7 +723,7 @@ AI Agent 源码深度研究报告
 
 `Python`
 
-⭐ 5.4k • 🔱 1.6k • 5h ago
+⭐ 5.4k • 🔱 1.6k • 6h ago
 
 ---
 
@@ -733,7 +733,7 @@ AI Agent 源码深度研究报告
 
 `Python`
 
-⭐ 4.2k • 🔱 430 • 2d ago
+⭐ 4.2k • 🔱 431 • 2d ago
 
 ---
 

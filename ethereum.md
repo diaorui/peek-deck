@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-11T08:44:42.049987+00:00'
+updated: '2026-04-11T09:40:58.946929+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - news
 - videos
-- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 11, 2026 at 08:44 UTC  
+**Last Updated:** April 11, 2026 at 09:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $269.94B
+**Market Cap:** $270.84B
 Rank #2
 
 **Circulating Supply:** 120,691,071 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--54.8%
+-54.6%
 
 **All-Time Low:** $0.43
-+516278.4%
++518294.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 So I went back through my wallet history and used a couple of MEV tracking tools to figure out how much value I actually lost to sandwich attacks and front-running over the past 6 months. not gonna share exact numbers but it was enough to make me seriously rethink where and how I trade on-chain. the thing that pissed me off the most wasn't even the big trades. it was the small ones. $200-500 swaps getting sandwiched for a few bucks each time. doesn't feel like much in the moment but it adds up fast when you're making multiple trades a week. what I learned: AMMs are basically open season for MEV bots. your trade hits the mempool and you're cooked private RPCs like flashbots protect help but they're not a complete solution. you're still trusting the builder not to screw you intent-based systems (cow swap etc) are better but they introduce solver trust assumptions and don't work for everything the only architecture where MEV extraction is structurally impossible is one where transaction ordering is provable and verifiable. not hidden, not trusted, but mathematically proven to be fair honestly the biggest takeaway is that most people have no idea how much they're losing. the "invisible tax" framing is accurate. you never see a line item that says "MEV bot took $4.50 from this trade" but it's happening on basically every swap. anyone else tracked their MEV losses? curious what numbers people are seeing. also curious if anyone has found a setup that actually eliminates it, not just reduces it.
 
-22h ago
+23h ago
 
 ---
 
@@ -80,7 +80,7 @@ So I went back through my wallet history and used a couple of MEV tracking tools
 
 Roman Storm acquittal hearing, ETHGlobal Cannes hackathon finalists, EVM Now block explorer
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-19/) • 18h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-19/) • 19h ago
 
 ---
 
@@ -120,7 +120,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The Ethereum Layer 2 powering Predictstreet. Built by Abu Dhabi's IHC, hosting a UAE central-bank-licensed stablecoin, with BlackRock and Mastercard as collaborators.
 
-🔗 [Company Gibraltar | company.gi](https://company.gi/blog/adi-chain-explained) • 1d ago
+🔗 [Company Gibraltar | company.gi](https://company.gi/blog/adi-chain-explained) • 2d ago
 
 ---
 
@@ -164,7 +164,7 @@ Decrypt • 1d ago
 
 Bitcoin opened at $71,783.52 on Friday and then rose slightly in early trading. Ethereum showed the same trend, opening at $2,189.99 and rising somewhat in early hours.
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -172,7 +172,7 @@ Yahoo Finance • 21h ago
 
 Ethereum is holding above key price levels as the market prepares for a decisive move. The chart looks constructive. The March data from XWIN Research Japan explains why the chart may be understating what is actually happening beneath it.The report documents a capital rotation that played out in pl…
 
-TradingView • 6h ago
+TradingView • 7h ago
 
 ---
 
@@ -188,7 +188,7 @@ Yahoo Finance • 1d ago
 
 Bitmine Immersion's hybrid model combines large-scale ETH holdings, with MAVAN projected to generate $300 million annually. Learn why BMNR stock is a strong buy.
 
-Seeking Alpha • 22h ago
+Seeking Alpha • 23h ago
 
 ---
 
@@ -202,7 +202,7 @@ TipRanks • 1d ago
 
 The crypto market has rebounded, with Bitcoin rising 10% over the last eight days and Ethereum up 12% in the same period. The total market cap is now up
 
-Coinpedia Fintech News • 17h ago
+Coinpedia Fintech News • 18h ago
 
 ---
 
@@ -224,7 +224,7 @@ The Block • 2d ago
 
 Dubai, UAE, April  10, 2026  (GLOBE NEWSWIRE) -- Pepeto just hit a major checkpoint on its Binance level exchange, pushing the zero fee swap engin...
 
-markets.businessinsider.com • 7h ago
+markets.businessinsider.com • 8h ago
 
 ---
 
@@ -238,7 +238,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 14K • 👍 438 • 💬 20 • ⏱️ 20:08 • 2d ago
+👁️ 14K • 👍 440 • 💬 20 • ⏱️ 20:08 • 2d ago
 
 ---
 
@@ -248,37 +248,7 @@ In this video, I take a closer look at the current Ethereum market structure and
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 189 • 💬 12 • ⏱️ 9:25 • 13h ago
-
----
-
-**[They Used Ethereum To Start Ja Rule’s Whiskey #conversationsarekey#AmberAndOpal #JaRule](https://www.youtube.com/watch?v=KJPR3E6A2KA)**
-
-During COVID, Entrepreneur Sandy Sandiford and his partners made an unusual investment decision — they used Ethereum to ...
-
-📺 Conversations Are Key Podcast
-
-👁️ 1K • 👍 15 • 💬 1 • ⏱️ 0:49 • 9h ago
-
----
-
-**[CLARITY Rally in 3 Days?📈Crypto Technical Analysis @TimWarrenTrades](https://www.youtube.com/watch?v=96h2EGSZvEk)**
-
-Coinbase Global (NASDAQ: $COIN) CEO Brian Armstrong is calling for the passage in Congress of the U.S. Clarity Act.
-
-📺 Paul Barron Network
-
-👁️ 40K • 👍 2K • 💬 236 • ⏱️ 33:50 • 13h ago
-
----
-
-**[BITCOIN BREAKOUT CONFIRMED (Short Squeeze Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=OsUEKIvn0tQ)**
-
-BITCOIN BREAKOUT CONFIRMED (Short Squeeze Now)!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
-
-📺 Crypto World
-
-👁️ 4K • 👍 213 • 💬 300 • ⏱️ 20:46 • 10h ago
+👁️ 3K • 👍 194 • 💬 13 • ⏱️ 9:25 • 14h ago
 
 ---
 
@@ -288,17 +258,47 @@ In this video we talk about developments in the Ethereum ecosystem, covering bot
 
 📺 Elijah Cheng
 
-👁️ 5K • 👍 179 • 💬 34 • ⏱️ 37:25 • 16h ago
+👁️ 5K • 👍 192 • 💬 35 • ⏱️ 37:25 • 17h ago
 
 ---
 
-**[Bitminw (BMNR) Holds $11B in Ethereum, So Why Is It Still Down 43%?](https://www.youtube.com/watch?v=UAGwuFdYM0o)**
+**[They Used Ethereum To Start Ja Rule’s Whiskey #conversationsarekey#AmberAndOpal #JaRule](https://www.youtube.com/watch?v=KJPR3E6A2KA)**
 
-In this video, we break down everything happening with BMNR stock, including its massive 4.8 million ETH accumulation, current ...
+During COVID, Entrepreneur Sandy Sandiford and his partners made an unusual investment decision — they used Ethereum to ...
 
-📺 BiGB Stcok
+📺 Conversations Are Key Podcast
 
-👁️ 499 • 👍 26 • 💬 42 • ⏱️ 9:32 • 12h ago
+👁️ 1K • 👍 15 • 💬 1 • ⏱️ 0:49 • 10h ago
+
+---
+
+**[CLARITY Rally in 3 Days?📈Crypto Technical Analysis @TimWarrenTrades](https://www.youtube.com/watch?v=96h2EGSZvEk)**
+
+Coinbase Global (NASDAQ: $COIN) CEO Brian Armstrong is calling for the passage in Congress of the U.S. Clarity Act.
+
+📺 Paul Barron Network
+
+👁️ 42K • 👍 2K • 💬 243 • ⏱️ 33:50 • 14h ago
+
+---
+
+**[BITCOIN BREAKOUT CONFIRMED (Short Squeeze Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=OsUEKIvn0tQ)**
+
+BITCOIN BREAKOUT CONFIRMED (Short Squeeze Now)!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
+
+📺 Crypto World
+
+👁️ 4K • 👍 226 • 💬 293 • ⏱️ 20:46 • 11h ago
+
+---
+
+**[Ethereum: This Might Be a Fake Move](https://www.youtube.com/watch?v=QpgmpJLh7Fs)**
+
+In this video, I take a closer look at the current Ethereum market structure and explain why the recent move higher does not ...
+
+📺 More Crypto Online
+
+👁️ 4K • 👍 207 • 💬 30 • ⏱️ 10:05 • 1d ago
 
 ---
 
@@ -308,7 +308,17 @@ Daily BTC, ETH, TSLA trades. Subscribe. Bybit bonus up to $30000 https://partner
 
 📺 James Crypto Guru
 
-👁️ 649 • 💬 8 • ⏱️ 10:43 • 8h ago
+👁️ 817 • 💬 8 • ⏱️ 10:43 • 9h ago
+
+---
+
+**[Bitminw (BMNR) Holds $11B in Ethereum, So Why Is It Still Down 43%?](https://www.youtube.com/watch?v=UAGwuFdYM0o)**
+
+In this video, we break down everything happening with BMNR stock, including its massive 4.8 million ETH accumulation, current ...
+
+📺 BiGB Stcok
+
+👁️ 590 • 👍 27 • 💬 42 • ⏱️ 9:32 • 13h ago
 
 ---
 
@@ -318,17 +328,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 212 • 👍 13 • ⏱️ 4:53 • 23h ago
-
----
-
-**[Ethereum Top Coming?: Bearish Signal to Crash Setup](https://www.youtube.com/watch?v=1rI8XtfnEaM)**
-
-Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
-
-📺 Trade Confident
-
-👁️ 164 • 👍 7 • 💬 1 • ⏱️ 5:27 • 13h ago
+👁️ 223 • 👍 13 • ⏱️ 4:53 • 1d ago
 
 ---
 
