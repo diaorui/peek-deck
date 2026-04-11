@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-11T11:30:49.860753+00:00'
+updated: '2026-04-11T13:00:54.865947+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
-- social
 - videos
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 11, 2026 at 11:30 UTC  
+**Last Updated:** April 11, 2026 at 13:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,241.77
+### $2,245.01
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.9%  
-**7d:** +6.3%  
-**30d:** +7.1%  
+**24h:** +0.0%  
+**7d:** +6.4%  
+**30d:** +7.2%  
 **90d:** -27.6%  
-**1y:** +36.2%  
+**1y:** +36.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $270.84B
+**Market Cap:** $271.04B
 Rank #2
 
 **Circulating Supply:** 120,691,071 ETH
@@ -62,7 +62,7 @@ No max supply
 -54.6%
 
 **All-Time Low:** $0.43
-+518294.7%
++518574.1%
 
 ---
 
@@ -80,7 +80,7 @@ So I went back through my wallet history and used a couple of MEV tracking tools
 
 Roman Storm acquittal hearing, ETHGlobal Cannes hackathon finalists, EVM Now block explorer
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-19/) • 21h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-19/) • 22h ago
 
 ---
 
@@ -164,7 +164,7 @@ Decrypt • 1d ago
 
 Ethereum’s growing base of active users may be one reason investors are putting more money into it — and less into Bitcoin.Exchange Outflows Point To A Shift In Holding BehaviorData from on-chain research firm XWIN Research shows Ethereum recorded a sustained drop in exchange-held supply throughout…
 
-TradingView • 1h ago
+TradingView • 3h ago
 
 ---
 
@@ -176,12 +176,6 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Most large cryptocurrencies fall as Ethereum tumbles](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-as-ethereum-tumbles-91a2f421-9307bc266dcb)**
-
-MarketWatch • 1d ago
-
----
-
 **[Bitmine Immersion: Market Is Missing The Hybrid Ethereum Model](https://seekingalpha.com/article/4889757-bitmine-immersion-market-is-missing-the-hybrid-ethereum-model)**
 
 Bitmine Immersion's hybrid model combines large-scale ETH holdings, with MAVAN projected to generate $300 million annually. Learn why BMNR stock is a strong buy.
@@ -190,11 +184,33 @@ Seeking Alpha • 1d ago
 
 ---
 
+**[Most large cryptocurrencies fall as Ethereum tumbles](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-as-ethereum-tumbles-91a2f421-9307bc266dcb)**
+
+MarketWatch • 1d ago
+
+---
+
 **[Why is Crypto Rallying Today: Price Targets For Bitcoin, Ethereum and XRP](https://coinpedia.org/news/why-is-crypto-rallying-price-targets-for-bitcoin-ethereum-and-xrp/)**
 
 The crypto market has rebounded, with Bitcoin rising 10% over the last eight days and Ethereum up 12% in the same period. The total market cap is now up
 
-Coinpedia Fintech News • 20h ago
+Coinpedia Fintech News • 21h ago
+
+---
+
+**[Crypto News: Pepeto Announces Binance Level Exchange Update While Ethereum Price Prediction Maps Path to $7,500](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-announces-binance-level-exchange-update-while-ethereum-price-prediction-maps-path-to-7-500-1036012554)**
+
+Dubai, UAE, April  10, 2026  (GLOBE NEWSWIRE) -- Pepeto just hit a major checkpoint on its Binance level exchange, pushing the zero fee swap engin...
+
+markets.businessinsider.com • 12h ago
+
+---
+
+**[Ethereum staking ratio hits record high at 30%](https://www.thestreet.com/crypto/markets/ethereum-staking-ratio-hits-record-high-at-30)**
+
+Ethereum still occupies the top spot among staking-based blockchains.
+
+thestreet.com • 22h ago
 
 ---
 
@@ -206,27 +222,11 @@ The Block • 2d ago
 
 ---
 
-**[Crypto News: Pepeto Announces Binance Level Exchange Update While Ethereum Price Prediction Maps Path to $7,500](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-announces-binance-level-exchange-update-while-ethereum-price-prediction-maps-path-to-7-500-1036012554)**
+**[Bitmine controls 3.8% of Ethereum supply as hedge against Iran conflict](https://cryptobriefing.com/bitmine-controls-38-of-ethereum-supply-as-hedge-against-iran-conflict/)**
 
-Dubai, UAE, April  10, 2026  (GLOBE NEWSWIRE) -- Pepeto just hit a major checkpoint on its Binance level exchange, pushing the zero fee swap engin...
+Bitmine now controls 3.8% of Ethereum's circulating supply, valued at $10 billion, as a hedge against the Iran conflict. The Ethereum price above $2,200 market
 
-markets.businessinsider.com • 10h ago
-
----
-
-**[Ethereum staking ratio hits record high at 30%](https://www.thestreet.com/crypto/markets/ethereum-staking-ratio-hits-record-high-at-30)**
-
-Ethereum still occupies the top spot among staking-based blockchains.
-
-thestreet.com • 21h ago
-
----
-
-**[Michael Nadeau: Ethereum's performance signals a new normal, the L2 roadmap's impact on value capture, and the challenges of bridging solutions | Bankless](https://cryptobriefing.com/michael-nadeau-ethereums-performance-signals-a-new-normal-the-l2-roadmaps-impact-on-value-capture-and-the-challenges-of-bridging-solutions-bankless/)**
-
-Ethereum's evolving roadmap raises questions about its future cycles and valuation challenges amid market uncertainty.
-
-Crypto Briefing • 10h ago
+Crypto Briefing • 5h ago
 
 ---
 
@@ -234,13 +234,23 @@ Crypto Briefing • 10h ago
 
 ## YouTube Videos: "ethereum"
 
+**[ADA, XRP &amp; ETH Holders NEED to Hear This IMMEDIATELY – Matt Hougan](https://www.youtube.com/watch?v=Ai1_0W5vZBM)**
+
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+
+📺 Savvy Finance
+
+👁️ 2K • 👍 97 • 💬 5 • ⏱️ 15:02 • 16h ago
+
+---
+
 **[Tom Lee &amp; Raoul Pal: &quot;Don&#39;t SELL Your Ethereum Before Watching This&quot; | [2026 Crypto Prediction]](https://www.youtube.com/watch?v=Cjdfxhy2Ids)**
 
 My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
 📺 Crypto Nutshell
 
-👁️ 14K • 👍 440 • 💬 20 • ⏱️ 20:08 • 2d ago
+👁️ 15K • 👍 442 • 💬 20 • ⏱️ 20:08 • 2d ago
 
 ---
 
@@ -250,17 +260,37 @@ In this video, I take a closer look at the current Ethereum market structure and
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 194 • 💬 13 • ⏱️ 9:25 • 16h ago
+👁️ 3K • 👍 205 • 💬 13 • ⏱️ 9:25 • 17h ago
 
 ---
 
-**[This is BMNR Stock Price when they OWN 5% of ETH!](https://www.youtube.com/watch?v=OBr1T90IhkI)**
+**[ETHEREUM BREAKOUT OR DUMP?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=cYcGmcexe6E)**
 
-In this video we talk about developments in the Ethereum ecosystem, covering both the bear and bull case, answering questions ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 Elijah Cheng
+📺 Cilinix Crypto
 
-👁️ 5K • 👍 192 • 💬 35 • ⏱️ 37:25 • 19h ago
+👁️ 38 • 👍 6 • 💬 2 • ⏱️ 4:38 • 2h ago
+
+---
+
+**[CRYPTO LIVE TRADING || 11 APRIL  | ‪@ClockTraderlive‬ #bitcoin #ethereum #crypto #btclivetrading](https://www.youtube.com/watch?v=T4BlXNwD4YY)**
+
+join my social platforms for updates and analysis ✓Instagram: ...
+
+📺 Aryan trader Live
+
+👁️ 8K • 👍 5K • 💬 2 • ⏱️ 1:18:53 • 7m ago
+
+---
+
+**[Ethereum (ETH) - Análise de hoje, 11/04/2026 #ETH #Ethereum #BTC #bitcoin #XRP #vitalik #ETH](https://www.youtube.com/watch?v=kVjuNTRfwJA)**
+
+ASSINE agora GEMAS Altcoins Alert !!! - (R$100/mês): https://pay.hotmart.com/Y93614691E https://degenscan.io #eth #BTC ...
+
+📺 Trade with Renato Ulianov
+
+👁️ 314 • 👍 68 • 💬 6 • ⏱️ 2:58 • 2h ago
 
 ---
 
@@ -270,7 +300,7 @@ During COVID, Entrepreneur Sandy Sandiford and his partners made an unusual inve
 
 📺 Conversations Are Key Podcast
 
-👁️ 1K • 👍 15 • 💬 1 • ⏱️ 0:49 • 11h ago
+👁️ 1K • 👍 16 • 💬 1 • ⏱️ 0:49 • 13h ago
 
 ---
 
@@ -280,7 +310,17 @@ Coinbase Global (NASDAQ: $COIN) CEO Brian Armstrong is calling for the passage i
 
 📺 Paul Barron Network
 
-👁️ 42K • 👍 2K • 💬 243 • ⏱️ 33:50 • 16h ago
+👁️ 44K • 👍 2K • 💬 250 • ⏱️ 33:50 • 18h ago
+
+---
+
+**[This is BMNR Stock Price when they OWN 5% of ETH!](https://www.youtube.com/watch?v=OBr1T90IhkI)**
+
+In this video we talk about developments in the Ethereum ecosystem, covering both the bear and bull case, answering questions ...
+
+📺 Elijah Cheng
+
+👁️ 6K • 👍 199 • 💬 37 • ⏱️ 37:25 • 20h ago
 
 ---
 
@@ -290,47 +330,7 @@ BITCOIN BREAKOUT CONFIRMED (Short Squeeze Now)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 4K • 👍 226 • 💬 293 • ⏱️ 20:46 • 13h ago
-
----
-
-**[Ethereum: This Might Be a Fake Move](https://www.youtube.com/watch?v=QpgmpJLh7Fs)**
-
-In this video, I take a closer look at the current Ethereum market structure and explain why the recent move higher does not ...
-
-📺 More Crypto Online
-
-👁️ 4K • 👍 207 • 💬 30 • ⏱️ 10:05 • 1d ago
-
----
-
-**[BITCOIN &amp; ETH TRADES FROM YESTERDAY IN PROFIT, GOOGLE &amp; NVIDIA STOCK +15% IN 1 WEEK](https://www.youtube.com/watch?v=Mx_EQYdjfJM)**
-
-Daily BTC, ETH, TSLA trades. Subscribe. Bybit bonus up to $30000 https://partner.bybit.com/b/Buyalts Weex, $200 sign-up, ...
-
-📺 James Crypto Guru
-
-👁️ 817 • 💬 8 • ⏱️ 10:43 • 11h ago
-
----
-
-**[Bitminw (BMNR) Holds $11B in Ethereum, So Why Is It Still Down 43%?](https://www.youtube.com/watch?v=UAGwuFdYM0o)**
-
-In this video, we break down everything happening with BMNR stock, including its massive 4.8 million ETH accumulation, current ...
-
-📺 BiGB Stcok
-
-👁️ 590 • 👍 27 • 💬 42 • ⏱️ 9:32 • 15h ago
-
----
-
-**[LAST CHANCE FOR ETHEREUM!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=n-poiGJWoF0)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 223 • 👍 13 • ⏱️ 4:53 • 1d ago
+👁️ 5K • 👍 242 • 💬 295 • ⏱️ 20:46 • 14h ago
 
 ---
 
