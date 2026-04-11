@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-11T17:32:42.118788+00:00'
+updated: '2026-04-11T18:47:36.007175+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
+- social
 - videos
 - news
-- social
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 11, 2026 at 17:32 UTC  
+**Last Updated:** April 11, 2026 at 18:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $73,123.38
+### $73,481.93
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** +6.0%  
-**30d:** +3.1%  
-**90d:** -19.8%  
-**1y:** -14.2%  
+**24h:** +0.4%  
+**7d:** +6.4%  
+**30d:** +3.5%  
+**90d:** -19.5%  
+**1y:** -13.9%  
 
 ---
 
@@ -77,25 +77,25 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[My university's business school moved to a new building and we're now in the Satoshi floor. Is this a sign?](https://www.reddit.com/r/Bitcoin/comments/1si9i7t/my_universitys_business_school_moved_to_a_new/)**
-
-12h ago
-
----
-
 **[A Boomer and a non-investor told me to sell.](https://www.reddit.com/r/Bitcoin/comments/1sil12w/a_boomer_and_a_noninvestor_told_me_to_sell/)**
 
 Well i guess it’s time we rip! A boomer told me that the best assets are tangible ones etc houses and alike. A non investor told me to stay in cash cuz market will collapse lol Knowing Donald dump he will pump the markets for midterms.
 
-2h ago
+4h ago
 
 ---
 
-**[Why is the volume lower on weekends?](https://www.reddit.com/r/Bitcoin/comments/1sifa3k/why_is_the_volume_lower_on_weekends/)**
+**[My university's business school moved to a new building and we're now in the Satoshi floor. Is this a sign?](https://www.reddit.com/r/Bitcoin/comments/1si9i7t/my_universitys_business_school_moved_to_a_new/)**
 
-The stock market is closed on weekend. Bitcoin is one of the few assets that can be traded on weekend. By my understanding, that would mean bitcoins volume should be higher on weekend than on weekdays because traders cant trade stocks, so trading focused on bitcoin. But bitcoins volume on weekends is actually lower than on weekdays, despite weekend, by my logic, being the time frame where everyone would jump to bitcoin because the stock market is closed
+14h ago
 
-7h ago
+---
+
+**[1 Bitcoin Puts You Ahead of 99.9% of People](https://www.reddit.com/r/Bitcoin/comments/1sipp5v/1_bitcoin_puts_you_ahead_of_999_of_people/)**
+
+If you can get to 1 Bitcoin, you are ahead of 99.9% of humanity. That sounds ridiculous, but the math is real. In this video, I break down just how rare it is to own a full Bitcoin, and why not every millionaire on Earth can get one.
+
+🔗 [youtu.be](https://youtu.be/5Al_yE9il2o) • 1h ago
 
 ---
 
@@ -103,7 +103,15 @@ The stock market is closed on weekend. Bitcoin is one of the few assets that can
 
 Wiki for Bitcoin Core development. Contribute to bitcoin-core/bitcoin-devwiki development by creating an account on GitHub.
 
-🔗 [GitHub](https://github.com/bitcoin-core/bitcoin-devwiki/wiki/31.0-Release-Candidate-Testing-Guide) • 21m ago
+🔗 [GitHub](https://github.com/bitcoin-core/bitcoin-devwiki/wiki/31.0-Release-Candidate-Testing-Guide) • 1h ago
+
+---
+
+**[Why is the volume lower on weekends?](https://www.reddit.com/r/Bitcoin/comments/1sifa3k/why_is_the_volume_lower_on_weekends/)**
+
+The stock market is closed on weekend. Bitcoin is one of the few assets that can be traded on weekend. By my understanding, that would mean bitcoins volume should be higher on weekend than on weekdays because traders cant trade stocks, so trading focused on bitcoin. But bitcoins volume on weekends is actually lower than on weekdays, despite weekend, by my logic, being the time frame where everyone would jump to bitcoin because the stock market is closed
+
+8h ago
 
 ---
 
@@ -111,7 +119,7 @@ Wiki for Bitcoin Core development. Contribute to bitcoin-core/bitcoin-devwiki de
 
 I made around 100% in 3 weeks and was happy with that 🫡🫣
 
-23h ago
+1d ago
 
 ---
 
@@ -123,27 +131,11 @@ Japan plans to reclassify cryptocurrencies as financial products under the Finan
 
 ---
 
-**[If only…](https://www.reddit.com/r/Bitcoin/comments/1sioszl/if_only/)**
-
-It’s Saturday morning. It is beautiful. The sun is shining and there is not a cloud in sight. I’ve been up and excited since 5 am because today I pick up my motorcycle. A beautiful Bonneville. I spent an hour putting together a used bike inspection checklist, I got my garage space organized, I made a list of aftermarket parts, I got an insurance quote. I’ve even got an organized and decent seller who’s giving me a decent price. I’m leaving my house to get the cash when I realize…. It’s Saturday. The bank is closed. I can’t get my cash. Which means I can’t get my bike. I immediately think, “well I could just offer to send them bitcoin.” Except I can’t. Cash in hand to test ride and cash to buy. Not to mention they may assume I’m some sort of scammer. If only.
-
-20m ago
-
----
-
 **[Why is everyone so obsessed with the unmasking?](https://www.reddit.com/r/Bitcoin/comments/1si1zz6/why_is_everyone_so_obsessed_with_the_unmasking/)**
 
 I’m just honestly perplexed why this really matters? For real, what difference is it going to make to finally unmask the real SN and how is that going to change the impact his held coins will make when they’re finally sold? Everyone is anonymous on the chain so why should they be any different? Sure, there’s the impact of data hungry machines and their environmental impact but sincerely that ship sailed a decade ago. But how is any of that going to change once we all know for sure who to blame? Is t it all the rest of us, constantly moving coins around that are to blame? So curious to hear opinions on this article.
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/04/09/podcasts/the-daily/satoshi-nakamoto-bitcoin-creator.html?unlocked_article_code=1.Z1A.Zc6v.htjM1l8I6VbV&smid=nytcore-ios-share) • 18h ago
-
----
-
-**[Is the 'Halving' becoming a self-fulfilling prophecy for the bots in 2026?](https://www.reddit.com/r/Bitcoin/comments/1sijh99/is_the_halving_becoming_a_selffulfilling_prophecy/)**
-
-Every cycle we talk about the supply shock, but I’m noticing that volatility is increasingly front-run by institutional algorithms months in advance. Are we reaching a point where the Halving is fully priced in by the time it actually happens? As a developer, I’m seeing more "smart money" infrastructure being built around predicting bot behavior rather than actual supply changes. What’s your take? Is the halving still a factor, or just a scheduled volatility event for the algos?
-
-3h ago
+🔗 [nytimes.com](https://www.nytimes.com/2026/04/09/podcasts/the-daily/satoshi-nakamoto-bitcoin-creator.html?unlocked_article_code=1.Z1A.Zc6v.htjM1l8I6VbV&smid=nytcore-ios-share) • 19h ago
 
 ---
 
@@ -151,7 +143,15 @@ Every cycle we talk about the supply shock, but I’m noticing that volatility i
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-11h ago
+12h ago
+
+---
+
+**[Is the 'Halving' becoming a self-fulfilling prophecy for the bots in 2026?](https://www.reddit.com/r/Bitcoin/comments/1sijh99/is_the_halving_becoming_a_selffulfilling_prophecy/)**
+
+Every cycle we talk about the supply shock, but I’m noticing that volatility is increasingly front-run by institutional algorithms months in advance. Are we reaching a point where the Halving is fully priced in by the time it actually happens? As a developer, I’m seeing more "smart money" infrastructure being built around predicting bot behavior rather than actual supply changes. What’s your take? Is the halving still a factor, or just a scheduled volatility event for the algos?
+
+5h ago
 
 ---
 
@@ -163,57 +163,53 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Six weeks of war have revealed that bitcoin's floor depends entirely on a handful of mandated buyers absorbing what everyone else is trying to get rid of.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
 **[U.S. Treasury Secretary Fuels Huge $1.5 Quadrillion Crypto Prediction As The Bitcoin Price Suddenly Soars](https://www.forbes.com/sites/digital-assets/2026/04/11/us-treasury-secretary-fuels-huge-15-quadrillion-crypto-prediction-as-the-bitcoin-price-suddenly-soars/)**
 
-Forbes • 6h ago
+Forbes • 7h ago
 
 ---
 
-**[Did The NYT Identify Bitcoin's Creator? Morgan Stanley Launches ETF, Cryptos Rally.](https://www.investors.com/news/bitcoin-price-satoshi-nakamoto-identity-nyt-investigation-adam-back-morgan-stanley-bitcoin-etf/)**
+**[Bitcoin Flashes ‘Dangerous’ Macro Fractal – What To Expect For Price](https://www.tradingview.com/news/newsbtc:dc8a7d21e094b:0-bitcoin-flashes-dangerous-macro-fractal-what-to-expect-for-price/)**
 
-Investor's Business Daily • 2d ago
+Bitcoin’s weekly chart is showing an uncomfortable comparison to one of the most brutal sell-offs in its history, and at least one analyst believes the worst may still be ahead. This technical outlook is looking at the current price action as a mirror of the 2022 macro fractal sequence that sent Bi…
 
----
-
-**['Not Going to Stop at Bitcoin': Morgan Stanley Weighs Tokenization, Tax Solutions in Crypto Push](https://decrypt.co/364030/not-going-stop-bitcoin-morgan-stanley-weighs-tokenization-tax-solutions)**
-
-The debut of Morgan Stanley’s Bitcoin ETF marked a milestone this week, but the financial powerhouse is already weighing its next moves.
-
-Decrypt • 59m ago
+TradingView • 1h ago
 
 ---
 
-**[‘Let The Games Begin’—A ‘Tremendous’ $6.2 Trillion ETF Price Earthquake Is Suddenly Hurtling Toward Bitcoin](https://www.forbes.com/sites/digital-assets/2026/04/09/let-the-games-begin-a-massive-62-trillion-price-earthquake-is-suddenly-hurtling-toward-bitcoin/)**
+**[HODL Offers Bitcoin Investors Lower Fees Than IBIT](https://finance.yahoo.com/markets/crypto/articles/hodl-offers-bitcoin-investors-lower-171716412.html)**
 
-Forbes • 1d ago
-
----
-
-**[Jim Cramer on Riot Platforms: “If You Want That, You Just Go Buy Bitcoin”](https://finance.yahoo.com/markets/stocks/articles/jim-cramer-riot-platforms-want-154703773.html)**
-
-Riot Platforms, Inc. (NASDAQ:RIOT) is among the stocks Jim Cramer reviewed while discussing the Iran ceasefire that triggered a relief rally. A caller asked if the stock is a buy, sell, or hold, and Cramer replied: If you want that, you just go buy Bitcoin. And I’m happy if you go buy Bitcoin, but just […]
+Fee-conscious investors face a trade-off between cost savings and exposure to sharper price swings in these two bitcoin ETFs.
 
 Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin and Ethereum are up — but these privacy coins have surged even harder](https://www.dlnews.com/articles/markets/bitcoin-price-rises-this-week-but-zcash-does-better/)**
+**[Bitcoin price analysis: BTC sellers might be running out of steam](https://www.coindesk.com/markets/2026/04/11/bitcoin-signals-potential-seller-exhaustion-as-realized-losses-decline)**
 
-Bitcoin and Ethereum rose this week.  But privacy coins got a bigger boost.  Leading privacy coins surge when crypto bigwigs talk about them.
+On-chain data points to easing selling pressure, with realized losses falling and spot markets shifting toward net buying.
 
-dlnews.com • 2h ago
+CoinDesk • 46m ago
 
 ---
 
-**[Bitcoin, solana surge as Iran looks to charge tolls for Strait of Hormuz passage to be paid in crypto](https://finance.yahoo.com/news/bitcoin-solana-surge-as-iran-looks-to-charge-tolls-for-strait-of-hormuz-passage-to-be-paid-in-crypto-142009952.html)**
+**[Bitcoin, broader market flat as U.S.-Iran negotiations begin](https://www.coindesk.com/markets/2026/04/11/bitcoin-broader-market-flat-as-u-s-iran-negotiations-begin)**
 
-Iran is looking to charge shipowners a fee of $1 per barrel of oil onboard for safe passage across the Strait of Hormuz, to be paid in cryptocurrency, according to the Financial Times.
+The market rose over the week after a two-week ceasefire was announced, triggering a derivatives short squeeze that wiped out over $430 million in bearish positions.
 
-Yahoo Finance • 3d ago
+CoinDesk • 2h ago
+
+---
+
+**[No, Bitcoin Has Not Bottomed Yet: Analyst Who Called the Top Explains Why](https://www.tradingview.com/news/coinpedia:8c58ec922094b:0-no-bitcoin-has-not-bottomed-yet-analyst-who-called-the-top-explains-why/)**
+
+Bitcoin just had its best week in a while. The ceasefire rally, the CPI relief, $73,000 briefly touched. After weeks of grinding losses, it finally feels like something has changed.But one analyst who publicly called the top six months ago is not buying the narrative shift. According to Benjamin Co…
+
+TradingView • 10h ago
 
 ---
 
@@ -221,15 +217,21 @@ Yahoo Finance • 3d ago
 
 The Iranian regime has increasingly resorted to digital assets to evade U.S. sanctions.
 
-Fortune • 22h ago
+Fortune • 23h ago
 
 ---
 
-**[Bitcoin business: Are Iran and the U.S. in agreement on cryptocurrency?](https://seekingalpha.com/news/4573993-bitcoin-business-are-iran-and-the-u-s-in-agreement-on-cryptocurrency)**
+**[Software stocks are getting pulverized — but bitcoin’s rebound hints that a bottom might be in](https://www.marketwatch.com/story/software-stocks-are-getting-pulverized-but-bitcoins-rebound-hints-that-a-bottom-might-be-in-512baac7)**
 
-Iran may charge Strait of Hormuz tolls in bitcoin, evading sanctions and reshaping oil shipping flows.
+MarketWatch • 21h ago
 
-Seeking Alpha • 1d ago
+---
+
+**[Bitcoin Policy Institute Warns Quantum Advances Are Compressing Timeline for Network Upgrades](https://bitcoinmagazine.com/news/bitcoin-policy-institute-warns-of-quantum)**
+
+A new brief from the Bitcoin Policy Institute says advances in quantum computing may bring forward risks to Bitcoin’s cryptography, though developers are already working on fixes.
+
+Bitcoin Magazine • 22h ago
 
 ---
 
@@ -239,7 +241,7 @@ Seeking Alpha • 1d ago
 
 **[Who is Satoshi Nakamoto? My quest to unmask Bitcoin's creator](https://news.ycombinator.com/item?id=47685320)**
 
-⬆️ 622 • 💬 816 • 3d ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)
+⬆️ 623 • 💬 819 • 3d ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)
 
 ---
 
@@ -263,7 +265,7 @@ Neha Narula
 
 The average production cost was sitting at $88,000 per bitcoin in mid-March, according to Checkonchain's difficulty regression model.
 
-⬆️ 134 • 💬 131 • 4h ago • [coindesk.com](https://www.coindesk.com/markets/2026/03/22/bitcoin-miners-are-losing-usd19-000-on-every-btc-produced-as-difficulty-drops-7-8)
+⬆️ 153 • 💬 139 • 5h ago • [coindesk.com](https://www.coindesk.com/markets/2026/03/22/bitcoin-miners-are-losing-usd19-000-on-every-btc-produced-as-difficulty-drops-7-8)
 
 ---
 
@@ -299,7 +301,7 @@ New York Times report claims London-born Adam Back is creator of the cryptocurre
 
 Bitcoin Core Will Maintain the Protocol. It May Not Save It. The reference implementation that sustains a $1.4 trillion network continues to produce quality code while losing the institutional capa...
 
-⬆️ 3 • 💬 0 • 12h ago • [GitHub](https://github.com/bitcoin/bitcoin/issues/35055)
+⬆️ 3 • 💬 0 • 13h ago • [GitHub](https://github.com/bitcoin/bitcoin/issues/35055)
 
 ---
 
@@ -321,7 +323,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 12K • 👍 1K • 💬 17 • ⏱️ 52:49 • 4h ago
+👁️ 12K • 👍 1K • 💬 17 • ⏱️ 52:49 • 5h ago
 
 ---
 
@@ -331,7 +333,7 @@ Follow me on X for my best content: http://www.X.com/AdamBLiv Transform Dormant 
 
 📺 Adam Livingston
 
-👁️ 9K • 👍 815 • 💬 204 • ⏱️ 18:40 • 19h ago
+👁️ 9K • 👍 815 • 💬 204 • ⏱️ 18:40 • 21h ago
 
 ---
 
@@ -341,7 +343,7 @@ Everyone is distracted by Satoshi theories while real money floods into Bitcoin.
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 1K • 💬 104 • ⏱️ 10:48 • 20h ago
+👁️ 22K • 👍 1K • 💬 104 • ⏱️ 10:48 • 21h ago
 
 ---
 
@@ -401,7 +403,7 @@ Plenty of crypto newbies lost money chasing the bitcoin boom that followed Donal
 
 📺 Forbes
 
-👁️ 55K • 👍 1K • 💬 237 • ⏱️ 5:05 • 23h ago
+👁️ 55K • 👍 1K • 💬 237 • ⏱️ 5:05 • 1d ago
 
 ---
 
@@ -411,7 +413,7 @@ Get a chance win a ROLEX! BTCC COMPETITION: ...
 
 📺 Crypto Lifer
 
-👁️ 2K • 👍 216 • 💬 99 • ⏱️ 16:31 • 6h ago
+👁️ 2K • 👍 216 • 💬 99 • ⏱️ 16:31 • 7h ago
 
 ---
 

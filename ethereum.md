@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-11T17:32:42.124757+00:00'
+updated: '2026-04-11T18:47:36.012559+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
+- social
 - videos
 - news
-- social
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 11, 2026 at 17:32 UTC  
+**Last Updated:** April 11, 2026 at 18:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,259.44
+### $2,303.77
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.7%  
-**7d:** +7.3%  
-**30d:** +8.1%  
-**90d:** -26.9%  
-**1y:** +37.5%  
+**24h:** +2.1%  
+**7d:** +8.9%  
+**30d:** +9.8%  
+**90d:** -25.8%  
+**1y:** +39.6%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Over the past year I've been thinking a lot about Web3. Not the trading, not the speculation, not the casino. I don't trade crypto. I don't follow the markets. What fascinates me is the underlying idea: decentralized systems with code as the only authority. The technology itself. I've been a backend engineer for over a decade. Rails, SQL, the usual stack. But like many engineers, I burned out. The excitement to build faded. You know the feeling. You're competent, productive, but not discovering anything anymore. Then I looked seriously at blockchain. Not as an investor, but as an engineer. I asked myself: what would an application look like if built with absolute fidelity to what blockchain promises? Real utility (useful for the masses, not DeFi nonesense) NO off-chain layers (100% on-chain) NO insider advantages (fair economics) NO dependence on investors (self-sustaining) NO pointless tokenomics (ETH in, ETH out) Those five principles became my compass. I tried to build something that never violated them. But the Web3 ecosystem is built around tokenomics and speculation. There's no blueprint to follow. So I started pulling my own thread: I wanted to build something useful, deterministic, fully on-chain, with no complicated tokenomics. A simple game like TicTacToe with real ETH stakes? Interesting, but too narrow. Then the frame shifted. I wasn't building a game anymore. I was building a tournament layer. A universal competitive infrastructure that's fair, open-source, and 100% on-chain. That's when the hard problems started. How do you handle draws on a decentralized platform? How do you stop players griefing opponents without central authority? These aren't just technical questions. They're moral ones. They forced me to think deeply about fairness, about building a system nobody controls and nobody can manipulate. The answers surprised me. Forget Kubernetes, Redis, all that complexity. With these constraints (fully on-chain, truly open, completely decentralized) the legacy stack collapses into something elegant. A client talking directly to contracts. No servers. No databases. No company. Just code. That freedom changed how I think about software. So I built ETour A 100% on-chain tournament protocol, now live on Arbitrum. Players pay an entry fee, compete, the best player wins and takes the pot. Code decides everything. No intermediaries. As Web3 should be. I open-sourced it so developers can build their own games on it and inherit all of its features for free. I'm not here to tell you this is revolutionary. I built this because it felt like a problem worth solving. ETour is what came out the other side. The code is public. The contracts are immutable. The logic is yours to verify. PS: The technical docs are not final and will be updated soon. https://etour.games https://etour.games/whitepaper https://etour.games/manual https://etour.games/docs TLDR: ETour is useful, it's live, and it's open-source. Go ahead and play on it, or build your own game using its 100% on-chain and open source tournament modules.
 
-4h ago
+5h ago
 
 ---
 
@@ -80,7 +80,7 @@ Over the past year I've been thinking a lot about Web3. Not the trading, not the
 
 I’ve spent the last dozen articles exploring vProgs and their capabilities. In particular, I’ve argued that the emerging proof economy…
 
-🔗 [Medium](https://medium.com/@james_allan/vprogs-vs-smart-contracts-when-should-you-use-each-fcdc0e4a42ce) • 1h ago
+🔗 [Medium](https://medium.com/@james_allan/vprogs-vs-smart-contracts-when-should-you-use-each-fcdc0e4a42ce) • 2h ago
 
 ---
 
@@ -152,9 +152,17 @@ I've learnt that we can now invest in gold directly in crypto, which is quite ex
 
 ## Google News: "ethereum"
 
+**[Bitmine Immersion: Market Is Missing The Hybrid Ethereum Model](https://seekingalpha.com/article/4889757-bitmine-immersion-market-is-missing-the-hybrid-ethereum-model)**
+
+Bitmine Immersion's hybrid model combines large-scale ETH holdings, with MAVAN projected to generate $300 million annually. Learn why BMNR stock is a strong buy.
+
+Seeking Alpha • 1d ago
+
+---
+
 **[Bitmine Immersion Q2 Preview: Ethereum Thesis Facing Important Report Card](https://seekingalpha.com/article/4890024-bitmine-immersion-q2-preview-ethereum-thesis-facing-important-report-card)**
 
-Seeking Alpha • 2h ago
+Seeking Alpha • 4h ago
 
 ---
 
@@ -166,17 +174,11 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Bitmine Stock Plugs Into a New Power Source as Ethereum Holdings Hits Record Highs; BMNR Up 15%](https://www.tipranks.com/news/bitmine-stock-plugs-into-a-new-power-source-as-ethereum-holdings-hit-record-highs-bmnr-up-15)**
-
-TipRanks • 2d ago
-
----
-
 **[Bitcoin and Ethereum are up — but these privacy coins have surged even harder](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-privacy-coins-surged-152520038.html)**
 
 Bitcoin and Ethereum rose this week. But privacy coins got a bigger boost. Leading privacy coins surge when crypto bigwigs talk about them.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -188,17 +190,17 @@ Decrypt • 1d ago
 
 ---
 
-**[Ethereum Mirrors A 2023 Setup As Buyers Take Control Of Derivatives On Binance](https://www.tradingview.com/news/newsbtc:cc4620f37094b:0-ethereum-mirrors-a-2023-setup-as-buyers-take-control-of-derivatives-on-binance/)**
-
-Ethereum is pushing toward $2,200. The macro environment is uncertain. And top analyst Darkfost has identified a signal in the derivatives market that has not appeared in nearly three years — emerging at precisely the moment the price is testing a level that matters.The signal comes from the ETH Ta…
-
-TradingView • 12h ago
-
----
-
 **[Most large cryptocurrencies fall as Ethereum tumbles](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-as-ethereum-tumbles-91a2f421-9307bc266dcb)**
 
 MarketWatch • 2d ago
+
+---
+
+**[Capital Is Rotating From Bitcoin To Ethereum – On-Chain Data Shows It Is Not Over](https://www.tradingview.com/news/newsbtc:f12427177094b:0-capital-is-rotating-from-bitcoin-to-ethereum-on-chain-data-shows-it-is-not-over/)**
+
+Ethereum is holding above key price levels as the market prepares for a decisive move. The chart looks constructive. The March data from XWIN Research Japan explains why the chart may be understating what is actually happening beneath it.The report documents a capital rotation that played out in pl…
+
+TradingView • 16h ago
 
 ---
 
@@ -210,19 +212,19 @@ Coinpedia Fintech News • 1d ago
 
 ---
 
-**[Ethereum Foundation sells 1,250 ETH for $2.8M, halts staking](https://cryptobriefing.com/ethereum-foundation-sells-1250-eth-for-28m-halts-staking/)**
-
-The Ethereum Foundation sold 1,250 ETH for $2.8 million and stopped staking ETH, pushing odds in the Ethereum Above Price Predictions in April market toward bea
-
-Crypto Briefing • 3h ago
-
----
-
 **[Crypto News: Pepeto Announces Binance Level Exchange Update While Ethereum Price Prediction Maps Path to $7,500](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-announces-binance-level-exchange-update-while-ethereum-price-prediction-maps-path-to-7-500-1036012554)**
 
 Dubai, UAE, April  10, 2026  (GLOBE NEWSWIRE) -- Pepeto just hit a major checkpoint on its Binance level exchange, pushing the zero fee swap engin...
 
-markets.businessinsider.com • 16h ago
+markets.businessinsider.com • 17h ago
+
+---
+
+**[Ethereum Foundation sells 1,250 ETH for $2.8M, halts staking](https://cryptobriefing.com/ethereum-foundation-sells-1250-eth-for-28m-halts-staking/)**
+
+The Ethereum Foundation sold 1,250 ETH for $2.8 million and stopped staking ETH, pushing odds in the Ethereum Above Price Predictions in April market toward bea
+
+Crypto Briefing • 4h ago
 
 ---
 
@@ -236,7 +238,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 1K • 👍 85 • 💬 5 • ⏱️ 19:27 • 1h ago
+👁️ 1K • 👍 85 • 💬 5 • ⏱️ 19:27 • 2h ago
 
 ---
 
@@ -246,7 +248,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 122 • 💬 28 • ⏱️ 15:02 • 21h ago
+👁️ 3K • 👍 122 • 💬 28 • ⏱️ 15:02 • 22h ago
 
 ---
 
@@ -256,7 +258,7 @@ In this video, I take a closer look at the current Ethereum market structure and
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 208 • 💬 11 • ⏱️ 9:25 • 22h ago
+👁️ 3K • 👍 208 • 💬 11 • ⏱️ 9:25 • 23h ago
 
 ---
 
@@ -266,7 +268,7 @@ In this video, we break down Ethereum's latest price action heading into April 2
 
 📺 Gordon Frayne
 
-👁️ 156 • 👍 6 • 💬 3 • ⏱️ 12:24 • 11h ago
+👁️ 156 • 👍 6 • 💬 3 • ⏱️ 12:24 • 12h ago
 
 ---
 
@@ -276,7 +278,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 96 • 👍 10 • 💬 3 • ⏱️ 4:38 • 6h ago
+👁️ 96 • 👍 10 • 💬 3 • ⏱️ 4:38 • 7h ago
 
 ---
 
@@ -286,7 +288,7 @@ Coinbase Global (NASDAQ: $COIN) CEO Brian Armstrong is calling for the passage i
 
 📺 Paul Barron Network
 
-👁️ 48K • 👍 2K • 💬 265 • ⏱️ 33:50 • 22h ago
+👁️ 48K • 👍 2K • 💬 265 • ⏱️ 33:50 • 1d ago
 
 ---
 
@@ -316,7 +318,7 @@ During COVID, Entrepreneur Sandy Sandiford and his partners made an unusual inve
 
 📺 Conversations Are Key Podcast
 
-👁️ 1K • 👍 16 • 💬 1 • ⏱️ 0:49 • 17h ago
+👁️ 1K • 👍 16 • 💬 1 • ⏱️ 0:49 • 19h ago
 
 ---
 
@@ -326,7 +328,7 @@ join my social platforms for updates and analysis ✓Instagram: ...
 
 📺 Aryan trader Live
 
-👁️ 4K • 👍 4K • 💬 2 • ⏱️ 42:59 • 1h ago
+👁️ 4K • 👍 4K • 💬 2 • ⏱️ 42:59 • 2h ago
 
 ---
 
