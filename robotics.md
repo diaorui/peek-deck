@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-11T06:01:55.124061+00:00'
+updated: '2026-04-11T07:32:52.070150+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 11, 2026 at 06:01 UTC  
+**Last Updated:** April 11, 2026 at 07:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[XSTO introduces a hybrid biped robot that rolls on wheels and jumps over obstacles](https://www.reddit.com/r/robotics/comments/1shskju/xsto_introduces_a_hybrid_biped_robot_that_rolls/)**
 
-12h ago
+14h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 58 Home partnered with X Square Robot to launch a cleaning service in Shenzhen where a human cleaner shows up with a robot partner. The robot handles structured tasks like wiping surfaces, picking up debris, and tidying, while the human handles everything that requires judgment. What makes this interesting from a technical standpoint: the robot runs on an end-to-end VLA (Vision-Language-Action) model called WALL-A that takes video and language input and outputs motor commands directly with no intermediate planning layer. But the real story isn't the model architecture, it's the deployment strategy. The company frames this as "grass-fed vs grain-fed" training data. Models trained on clean lab data perform well in controlled environments but fall apart in real homes where every apartment has a different layout, random clutter on the floor, pets walking through the workspace, kids' toys in unpredictable places. You can see in this video exactly why that matters: the robot is navigating around a Corgi, working in a room absolutely covered in children's toys, and dealing with narrow doorways in a real Chinese apartment. None of this is a problem you'd encounter in a lab. A few years ago this kind of footage would have been a staged demo. The fact that it's a paying service operating in real apartments suggests robots in everyday homes are closer than most people think.
 
-15h ago
+17h ago
 
 ---
 
@@ -50,7 +50,7 @@ Robotics research and industry news
 
 Context and Setup : Ros2 Humble , Gazebo Ignition Fortress . Ubuntu 22.04 I am trying to make a SLAM robot this was my model with Lidar (laser_frame) in Rviz current I am publishing to cmd_vel to rotate the bot but along with the bot the 2D point cloud is also rotating in Rviz. is this normal or a problem (actually having issues with mapping too) tf: Map ->odom -> base_footprint-> base_link -> laser_frame Please help , stuck here.
 
-10h ago
+11h ago
 
 ---
 
@@ -58,7 +58,7 @@ Context and Setup : Ros2 Humble , Gazebo Ignition Fortress . Ubuntu 22.04 I am t
 
 How do u solve a problem of Coverage path planning ? I’m stuck at generating a trajectory for coordinates with surface normals. Whats the ideal approach to tackle the trajectory generation which would cover the whole region.
 
-49m ago
+2h ago
 
 ---
 
@@ -72,6 +72,14 @@ How do u solve a problem of Coverage path planning ? I’m stuck at generating a
 
 We are publishing our first deep dive on what we believe is one of the most challenging layers in egocentric data - SLAM and VIO in the context of long-horizon state tracking. We break down how SLAM and VIO fail in egocentric settings - visual features vanish at close range, depth sensors saturate, fast head motion blurs frames, and these failures don't always occur in isolation. They hit at the exact same moment, leading to compounding errors and making the downstream data unusable. We believe the foundation for high-quality egocentric data demands sub-centimeter precision over long episodes ranging from a few minutes to up to an hour. You can find more at fpv_labs
 
+18h ago
+
+---
+
+**[Automating physics setup for MuJoCo from 3D meshes](https://www.reddit.com/r/robotics/comments/1shpacr/automating_physics_setup_for_mujoco_from_3d_meshes/)**
+
+Been working on a pipeline to automate physics setup for sim-to-real workflows. Given a 3D mesh (.obj/.glb), it: computes geometry (volume, bounding box, watertightness) estimates material + density derives mass, friction, restitution generates domain randomization ranges exports multiple MuJoCo XMLs for different surface/fill conditions Example (ceramic mug): 9 profiles (empty/half/full × clean/worn/contaminated) mass: 0.5 - 2.25 kg friction down to 0.175 (contaminated) DR bounds auto-generated per profile Goal is to remove manual tuning of object physics during sim setup. Curious where this would break in real pipelines or what edge cases I’m missing, especially around non watertight meshes or unusual materials.
+
 16h ago
 
 ---
@@ -80,15 +88,7 @@ We are publishing our first deep dive on what we believe is one of the most chal
 
 You can try it at flomotion.app it took me a few months to build it. For now it's basically free AI. I would appreciate if you could tell me how to make it better and more useful. I learned a lot about robotics while building and testing it.
 
-15h ago
-
----
-
-**[Automating physics setup for MuJoCo from 3D meshes](https://www.reddit.com/r/robotics/comments/1shpacr/automating_physics_setup_for_mujoco_from_3d_meshes/)**
-
-Been working on a pipeline to automate physics setup for sim-to-real workflows. Given a 3D mesh (.obj/.glb), it: computes geometry (volume, bounding box, watertightness) estimates material + density derives mass, friction, restitution generates domain randomization ranges exports multiple MuJoCo XMLs for different surface/fill conditions Example (ceramic mug): 9 profiles (empty/half/full × clean/worn/contaminated) mass: 0.5 - 2.25 kg friction down to 0.175 (contaminated) DR bounds auto-generated per profile Goal is to remove manual tuning of object physics during sim setup. Curious where this would break in real pipelines or what edge cases I’m missing, especially around non watertight meshes or unusual materials.
-
-14h ago
+16h ago
 
 ---
 
@@ -100,7 +100,7 @@ Been working on a pipeline to automate physics setup for sim-to-real workflows. 
 
 **[Anyone still using Sony IMX291 cameras for low-light industrial setups?](https://www.reddit.com/r/robotics/comments/1shrpmf/anyone_still_using_sony_imx291_cameras_for/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -112,7 +112,7 @@ Been working on a pipeline to automate physics setup for sim-to-real workflows. 
 
 Economies worldwide are prioritising the integration of factory robots, as automation becomes a critical tool for boosting productivity. In the global automation race, the Western European countries reached a record 267 robots per 10,000 employees in the manufacturing industry 2024 – ahead of North America with 204 units and Asia with 131 units. This is according to the World Robotics 2025 report, presented by the International Federation of Robotics (IFR).
 
-IFR International Federation of Robotics • 2d ago
+IFR International Federation of Robotics • 3d ago
 
 ---
 
@@ -160,15 +160,7 @@ Kharon • 1d ago
 
 These Southern Utah students now have a big reason to brag after a celebrated performance at a state-level robotics competition.
 
-St. George News • 1d ago
-
----
-
-**[Local high school robotics team heading to World Championship](https://www.yahoo.com/news/articles/local-high-school-robotics-team-021822067.html)**
-
-(COLORADO SPRINGS) — James Irwin Charter High School’s (JICHS) robotics team has qualified for the 2026 VEX Robotics World Championship. According to a press release from JICHS, this international tou...
-
-Yahoo • 3h ago
+stgeorgeutah.com • 1d ago
 
 ---
 
@@ -186,6 +178,12 @@ Politico • 1d ago
 
 ---
 
+**[Electrofluidic fiber muscles could enable silent robotic systems](https://techxplore.com/news/2026-04-electrofluidic-fiber-muscles-enable-silent.html)**
+
+Tech Xplore • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
@@ -196,7 +194,7 @@ Could AI become dangerous? Can we trust AI Agents? AGI. Use code insideai at htt
 
 📺 InsideAI
 
-👁️ 303K • 👍 14K • 💬 1K • ⏱️ 16:24 • 1d ago
+👁️ 310K • 👍 14K • 💬 1K • ⏱️ 16:24 • 1d ago
 
 ---
 
@@ -216,17 +214,7 @@ Lymow → https://lymowtradecolimited.pxf.io/OYr2VG The Lymow One Plus isn't you
 
 📺 How To with Doc
 
-👁️ 11K • 👍 731 • 💬 133 • ⏱️ 21:24 • 1d ago
-
----
-
-**[South Korea Is Building Robots the World Didn’t See Coming!](https://www.youtube.com/watch?v=H09m8a3oL_4)**
-
-South Korea is building robots you've only seen in movies, from giant walking machines to exoskeletons that give people back ...
-
-📺 DeCode
-
-👁️ 41K • 👍 799 • 💬 74 • ⏱️ 14:45 • 1d ago
+👁️ 11K • 👍 737 • 💬 135 • ⏱️ 21:24 • 1d ago
 
 ---
 
@@ -240,13 +228,13 @@ The world wasn't ready for what 2026 had in store — a wave of humanoid robots 
 
 ---
 
-**[I found the MINOS CHEAT CODE in War Robots](https://www.youtube.com/watch?v=SC1cTg5jbX0)**
+**[South Korea Is Building Robots the World Didn’t See Coming!](https://www.youtube.com/watch?v=H09m8a3oL_4)**
 
-Join the Marvel Strike Force 8th Anniversary Event NOW: https://bit.ly/4m9Pyon Use code MSF8 to get Deadpool, Gwenpool, ...
+South Korea is building robots you've only seen in movies, from giant walking machines to exoskeletons that give people back ...
 
-📺 Manni-Gaming
+📺 DeCode
 
-👁️ 9K • 👍 545 • 💬 101 • ⏱️ 16:14 • 15h ago
+👁️ 43K • 👍 818 • 💬 74 • ⏱️ 14:45 • 1d ago
 
 ---
 
@@ -256,7 +244,7 @@ US startup Foundation is developing humanoid robots for military use. The goal i
 
 📺 DW News
 
-👁️ 73K • 👍 551 • 💬 101 • ⏱️ 1:22 • 5d ago
+👁️ 72K • 👍 550 • 💬 101 • ⏱️ 1:22 • 5d ago
 
 ---
 
@@ -266,15 +254,17 @@ I tested every flagship robotic vacuum and mop from Roborock, Eufy, Dreame, Narw
 
 📺 The Hook Up
 
-👁️ 18K • 👍 648 • 💬 155 • ⏱️ 26:12 • 2d ago
+👁️ 18K • 👍 658 • 💬 155 • ⏱️ 26:12 • 2d ago
 
 ---
 
-**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=kxSunP8Cf9g)**
+**[I Spent 100 Hours In China&#39;s Robot City](https://www.youtube.com/watch?v=PXGK_MFShXU)**
 
-📺 Robot Julie 
+I spent 100 hours in the world's most futuristic city! WATCH MORE videos we filmed in China ▸ https://youtu.be/elF_v9sukWU ...
 
-👁️ 114K • 👍 863 • 💬 6 • ⏱️ 0:22 • 2d ago
+📺 Hafu Go
+
+👁️ 844K • 👍 8K • 💬 313 • ⏱️ 25:46 • 6d ago
 
 ---
 
@@ -285,6 +275,14 @@ Welch Labs Book: https://www.welchlabs.com/resources/ai-book-ezrzm-msrmc Book & 
 📺 Welch Labs
 
 👁️ 103K • 👍 5K • 💬 241 • ⏱️ 35:02 • 6d ago
+
+---
+
+**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=kxSunP8Cf9g)**
+
+📺 Robot Julie 
+
+👁️ 122K • 👍 913 • 💬 7 • ⏱️ 0:22 • 2d ago
 
 ---
 
