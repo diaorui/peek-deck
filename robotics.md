@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-11T15:02:07.775608+00:00'
+updated: '2026-04-11T15:56:46.572756+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 11, 2026 at 15:02 UTC  
+**Last Updated:** April 11, 2026 at 15:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2042912788717408509
 
-3h ago
+4h ago
 
 ---
 
@@ -44,13 +44,13 @@ From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2042912788717408509
 
 I've been seeing a lot of noise from the tech world about robotics being the next big wave. Curious what people actually deploying and maintaining these systems think. What's working, what's vaporware, and what does the gap between a demo and a real production deployment actually look like?
 
-5h ago
+6h ago
 
 ---
 
 **[XSTO introduces a hybrid biped robot that rolls on wheels and jumps over obstacles](https://www.reddit.com/r/robotics/comments/1shskju/xsto_introduces_a_hybrid_biped_robot_that_rolls/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -66,7 +66,7 @@ I've been seeing a lot of noise from the tech world about robotics being the nex
 
 Context and Setup : Ros2 Humble , Gazebo Ignition Fortress . Ubuntu 22.04 I am trying to make a SLAM robot this was my model with Lidar (laser_frame) in Rviz current I am publishing to cmd_vel to rotate the bot but along with the bot the 2D point cloud is also rotating in Rviz. is this normal or a problem (actually having issues with mapping too) tf: Map ->odom -> base_footprint-> base_link -> laser_frame Please help , stuck here.
 
-19h ago
+20h ago
 
 ---
 
@@ -82,7 +82,7 @@ I'm currently working on a Yaskawa Ms-100 with Dx100, changing a wrist unit. The
 
 How do u solve a problem of Coverage path planning ? I’m stuck at generating a trajectory for coordinates with surface normals. Whats the ideal approach to tackle the trajectory generation which would cover the whole region.
 
-9h ago
+10h ago
 
 ---
 
@@ -120,35 +120,11 @@ IFR International Federation of Robotics • 3d ago
 
 ---
 
-**[New humanoid robots replacing workers in factories](https://www.nbcnews.com/video/shorts/new-humanoid-robots-replacing-workers-in-factories-261041221991)**
-
-Meet 'Digit', a humanoid robotic worker made by Agility Robotics, now part of a new wave of robots replacing workers at companies like Schaeffler, Toyota, and GXO. NBC News' Brian Cheung takes a look.
-
-NBC News • 2h ago
-
----
-
-**[Humanoid robots hit mass production in China](https://www.foxnews.com/tech/humanoid-robots-hit-mass-production-china)**
-
-A Chinese factory is producing humanoid robots every 30 minutes, marking a shift toward large-scale manufacturing and broader adoption.
-
-Fox News • 1d ago
-
----
-
-**['World's first' humanoid robot for real household use launched in China](https://interestingengineering.com/ai-robotics/worlds-first-humanoid-robot-for-household)**
-
-World’s first service humanoid, UniX AI’s Panther enters homes with global rollout, marking a step toward everyday robot use.
-
-Interesting Engineering • 2d ago
-
----
-
 **[CEO Andy Jassy shares 3 ways Amazon is innovating to make customers’ lives easier and better](https://www.aboutamazon.com/news/innovation-at-amazon/amazon-ceo-andy-jassy-robotics-rural-delivery-broadband)**
 
 In his annual letter to shareholders, Jassy shares how robotics, faster rural delivery, and broadband connectivity for underserved customers and geographies will help improve the customer experience.
 
-About Amazon • 23h ago
+About Amazon • 1d ago
 
 ---
 
@@ -160,11 +136,11 @@ The Washington Post • 1d ago
 
 ---
 
-**[China’s Robotics Champion Is Going Public. Its PLA Ties and Western Dependence Aren’t.](https://www.kharon.com/brief/unitree-robotics-ipo-china-pla-robot-wolf)**
+**[Humanoid robots hit mass production in China](https://www.foxnews.com/tech/humanoid-robots-hit-mass-production-china)**
 
-The Shanghai IPO of Unitree Robotics is “part of China’s broader positioning in the global race for physical AI,” Sunny Cheung of the Jamestown Foundation said. But its filings tell only part of the story.
+A Chinese factory is producing humanoid robots every 30 minutes, marking a shift toward large-scale manufacturing and broader adoption.
 
-Kharon • 1d ago
+Fox News • 1d ago
 
 ---
 
@@ -172,7 +148,15 @@ Kharon • 1d ago
 
 These Southern Utah students now have a big reason to brag after a celebrated performance at a state-level robotics competition.
 
-stgeorgeutah.com • 1d ago
+St. George News • 1d ago
+
+---
+
+**[New humanoid robots replacing workers in factories](https://www.nbcnews.com/video/shorts/new-humanoid-robots-replacing-workers-in-factories-261041221991)**
+
+Meet 'Digit', a humanoid robotic worker made by Agility Robotics, now part of a new wave of robots replacing workers at companies like Schaeffler, Toyota, and GXO. NBC News' Brian Cheung takes a look.
+
+NBC News • 3h ago
 
 ---
 
@@ -184,9 +168,25 @@ The Maritime Executive • 1d ago
 
 ---
 
-**[Electrofluidic fiber muscles could enable silent robotic systems](https://techxplore.com/news/2026-04-electrofluidic-fiber-muscles-enable-silent.html)**
+**[China’s Robotics Champion Is Going Public. Its PLA Ties and Western Dependence Aren’t.](https://www.kharon.com/brief/unitree-robotics-ipo-china-pla-robot-wolf)**
 
-Tech Xplore • 1d ago
+The Shanghai IPO of Unitree Robotics is “part of China’s broader positioning in the global race for physical AI,” Sunny Cheung of the Jamestown Foundation said. But its filings tell only part of the story.
+
+Kharon • 1d ago
+
+---
+
+**[National robotics push caught in delayed Trump-Xi meeting](https://www.politico.com/news/2026/04/09/national-robotics-trump-xi-china-00861918)**
+
+Politico • 2d ago
+
+---
+
+**[Faraday Future Showcases Autonomous Food Delivery Scenario with Its FX Aegis Robot, Integrates OpenClaw to Enable No-Code Skills Development and Accelerate Real-World Deployment of EAI Robots](https://finance.yahoo.com/sectors/technology/articles/faraday-future-showcases-autonomous-food-053300649.html)**
+
+LOS ANGELES, April 10, 2026--Faraday Future Intelligent Electric Inc. (Nasdaq: FFAI) ("Faraday Future," "FF," or the "Company"), a California-based global Embodied AI (EAI) ecosystem company, today released its latest EAI (Embodied AI) robotics demonstration video. In the video, the FX Aegis quadruped robot, equipped with a rear-mounted shopping basket expansion, autonomously completes a food delivery task in a real-world environment with no human intervention, demonstrating Aegis's ability to i
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -278,7 +278,7 @@ Welcome to the ultimate Optimus Prime comparison! In this video, we dive deep in
 
 📺 Bob ToysReview
 
-👁️ 9K • 👍 3K • 💬 166 • ⏱️ 9:25 • 7h ago
+👁️ 9K • 👍 3K • 💬 166 • ⏱️ 9:25 • 8h ago
 
 ---
 
