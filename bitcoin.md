@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-11T02:26:01.176609+00:00'
+updated: '2026-04-11T04:33:36.645871+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
 - cryptocurrency
-- news
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 11, 2026 at 02:26 UTC  
+**Last Updated:** April 11, 2026 at 04:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $73,005.86
+### $72,800.08
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.6%  
-**7d:** +5.8%  
-**30d:** +2.9%  
-**90d:** -20.0%  
-**1y:** -14.4%  
+**24h:** +1.0%  
+**7d:** +5.5%  
+**30d:** +2.6%  
+**90d:** -20.2%  
+**1y:** -14.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1461.88B
+**Market Cap:** $1456.60B
 Rank #1
 
 **Circulating Supply:** 20,014,159 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--42.1%
+-42.2%
 
 **All-Time Low:** $67.81
-+107599.5%
++107278.0%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Japan plans to reclassify cryptocurrencies as financial products under the Financial Instruments and Exchange Act, shifting them from a payment-based framework to one aligned with traditional securities regulation.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/japan-moves-to-classify-bitcoin-and-crypto) • 9h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/japan-moves-to-classify-bitcoin-and-crypto) • 11h ago
 
 ---
 
@@ -89,7 +89,7 @@ Japan plans to reclassify cryptocurrencies as financial products under the Finan
 
 I made around 100% in 3 weeks and was happy with that 🫡🫣
 
-8h ago
+10h ago
 
 ---
 
@@ -97,7 +97,15 @@ I made around 100% in 3 weeks and was happy with that 🫡🫣
 
 I’m just honestly perplexed why this really matters? For real, what difference is it going to make to finally unmask the real SN and how is that going to change the impact his held coins will make when they’re finally sold? Everyone is anonymous on the chain so why should they be any different? Sure, there’s the impact of data hungry machines and their environmental impact but sincerely that ship sailed a decade ago. But how is any of that going to change once we all know for sure who to blame? Is t it all the rest of us, constantly moving coins around that are to blame? So curious to hear opinions on this article.
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/04/09/podcasts/the-daily/satoshi-nakamoto-bitcoin-creator.html?unlocked_article_code=1.Z1A.Zc6v.htjM1l8I6VbV&smid=nytcore-ios-share) • 3h ago
+🔗 [nytimes.com](https://www.nytimes.com/2026/04/09/podcasts/the-daily/satoshi-nakamoto-bitcoin-creator.html?unlocked_article_code=1.Z1A.Zc6v.htjM1l8I6VbV&smid=nytcore-ios-share) • 5h ago
+
+---
+
+**[End of year predictions](https://www.reddit.com/r/Bitcoin/comments/1si6hvp/end_of_year_predictions/)**
+
+Temp check. What are our predictions on where we're at by end of the year?
+
+2h ago
 
 ---
 
@@ -105,15 +113,7 @@ I’m just honestly perplexed why this really matters? For real, what difference
 
 It looks like the block explorer has been hacked on Blockchain.com. When you search for a wallet address it shows you bunch of specific addresses only. For example for Satoshi address: https://www.blockchain.com/en/explorer/addresses/btc/1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa, it shows me the following ones only: 1PyJph17b4nAKqp4UvbxUZXpoesDzvZkVL 1PAZba3CAFRYm7gNBhrzH8Dz1FkYDCwJPs 1PyJph17b4nAKqp4UvbxUZXpoesDzvZkVL 1PbwAPq7aUepWrrToVh1snhv8mqy9wrGnk bc1qdmaslupuaetajnfzex8zw6jc93ww32ur6gj3we Be aware guys. Also it will be great to report it to Blockchain, but their support system a bit hard to use. Hope they are reading r/Bitcoin sometimes.
 
-9h ago
-
----
-
-**[Solo miner vs. mining farms... is it really anybody’s game?](https://www.reddit.com/r/Bitcoin/comments/1si2v6w/solo_miner_vs_mining_farms_is_it_really_anybodys/)**
-
-What if every home in the world with electricity had a 6 TH/s miner plugged in or a 200 TH/s the same way every home has a bathroom or shower? How would that level of universal mining power affect block discovery and ultimately the future of Bitcoin itself?
-
-2h ago
+11h ago
 
 ---
 
@@ -121,7 +121,7 @@ What if every home in the world with electricity had a 6 TH/s miner plugged in o
 
 An economist named Steve Keen says Bitcoin will go to zero because it uses too much energy. It only took me ten minutes to break down why his "critique" makes no sense
 
-🔗 [youtu.be](https://youtu.be/t7Ca56-XxPM) • 6h ago
+🔗 [youtu.be](https://youtu.be/t7Ca56-XxPM) • 8h ago
 
 ---
 
@@ -129,7 +129,7 @@ An economist named Steve Keen says Bitcoin will go to zero because it uses too m
 
 A three-part deep dive into quantum computing's actual threat to Bitcoin. 17 researchers, 13 proposals, real engineering. No hype. No FUD.
 
-🔗 [Bitcoin & Quantum Computing](https://bitcoinquantum.space/) • 8h ago
+🔗 [Bitcoin & Quantum Computing](https://bitcoinquantum.space/) • 11h ago
 
 ---
 
@@ -137,7 +137,7 @@ A three-part deep dive into quantum computing's actual threat to Bitcoin. 17 res
 
 Is it actually going to go up?
 
-22h ago
+1d ago
 
 ---
 
@@ -145,7 +145,7 @@ Is it actually going to go up?
 
 The new feature on the Bitcoin wallet Exodus lets users spend crypto directly from a self-custodial wallet.
 
-🔗 [Decrypt](https://decrypt.co/363947/exodus-pay-bitcoin-wallet-spending-app) • 7h ago
+🔗 [Decrypt](https://decrypt.co/363947/exodus-pay-bitcoin-wallet-spending-app) • 9h ago
 
 ---
 
@@ -153,7 +153,7 @@ The new feature on the Bitcoin wallet Exodus lets users spend crypto directly fr
 
 ADX hit 60.1 on the 4H. That's an absurdly strong trend reading. EMA ribbon flipped bullish. MACD is at +563. By every technical measure this is a confirmed uptrend. Meanwhile Fear & Greed is at 16. Extreme Fear. Retail is actually net short at 0.86 while smart money flipped long at 1.06. Let that sink in — smart money is long, retail is short, technicals are screaming bullish, and sentiment is at the floor. Ohhh and CPI drops in a few hours. If it comes in cool, this thing flies. If it comes in hot, we retest $69K and everyone says "told you so." Best asymmetric setup in weeks and almost nobody is talking about it.
 
-21h ago
+23h ago
 
 ---
 
@@ -175,25 +175,41 @@ Bloomberg.com • 1d ago
 
 ---
 
+**[Bitcoin price news: BTC reverses early loss, rises above $72,000 on Middle East hopes](https://www.coindesk.com/markets/2026/04/09/bitcoin-shoots-above-usd72-000-as-optimism-grows-over-middle-east-ceasefire)**
+
+Israeli Prime Minister Netanyahu reportedly has signaled a willingness to negotiate with Lebanon.
+
+CoinDesk • 1d ago
+
+---
+
+**[Bhutan has sold 70% of its bitcoin in 18 months. It may have stopped BTC mining too.](https://www.coindesk.com/markets/2026/04/11/bhutan-has-sold-70-of-its-bitcoin-in-18-months-it-may-have-stopped-btc-mining-too)**
+
+The kingdom's holdings have dropped from 13,000 BTC to 3,954 since October 2024, with $215.7 million moved out this year alone. Its last mining inflow over $100,000 was recorded more than a year ago.
+
+CoinDesk • 27m ago
+
+---
+
 **[Software stocks are getting pulverized — but bitcoin’s rebound hints that a bottom might be in](https://www.marketwatch.com/story/software-stocks-are-getting-pulverized-but-bitcoins-rebound-hints-that-a-bottom-might-be-in-512baac7)**
 
-MarketWatch • 4h ago
+MarketWatch • 6h ago
 
 ---
 
-**[Bitcoin tracks for 9% gain on the week, best since October](https://www.cnbc.com/video/2026/04/10/bitcoin-tracks-for-9-percent-gain-in-best-week-since-october.html)**
+**[Bitcoin Policy Institute Warns Quantum Advances Are Compressing Timeline for Network Upgrades](https://bitcoinmagazine.com/news/bitcoin-policy-institute-warns-of-quantum)**
 
-CNBC's Tanaya Macheel reports on news regarding bitcoin.
+A new brief from the Bitcoin Policy Institute says advances in quantum computing may bring forward risks to Bitcoin’s cryptography, though developers are already working on fixes.
 
-CNBC • 6h ago
+Bitcoin Magazine • 1d ago
 
 ---
 
-**[US government moves bitcoin possibly linked to steroid distribution conspiracy](https://www.theblock.co/post/397104/us-government-bitcoin-possibly-linked-steroid-distribution-conspiracy?utm_source=news.xml&utm_medium=rss)**
+**[Current price of Bitcoin for April 9, 2026](https://fortune.com/article/price-of-bitcoin-04-09-2026/)**
 
-The U.S. government currently holds roughly 328,000 bitcoins, worth more than $22 billion at current prices, among other crypto assets.
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-The Block • 5h ago
+Fortune • 1d ago
 
 ---
 
@@ -219,29 +235,13 @@ Financial Times • 2d ago
 
 ---
 
-**[Current price of Bitcoin for April 9, 2026](https://fortune.com/article/price-of-bitcoin-04-09-2026/)**
-
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 1d ago
-
----
-
-**[Strategy's (MSTR) Bitcoin Ambition Is Reshaping Corporate Finance. Everyone Else Is Falling Behind](https://bitcoinmagazine.com/news/strategys-bitcoin-ambition-is-reshaping)**
-
-Michael Saylor’s Strategy is driving nearly all corporate Bitcoin accumulation, turning its STRC-fueled treasury model into the dominant force reshaping how companies approach Bitcoin in 2026.
-
-Bitcoin Magazine • 1d ago
-
----
-
 ---
 
 ## HackerNews: "bitcoin"
 
 **[Who is Satoshi Nakamoto? My quest to unmask Bitcoin's creator](https://news.ycombinator.com/item?id=47685320)**
 
-⬆️ 617 • 💬 811 • 2d ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)
+⬆️ 617 • 💬 812 • 2d ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)
 
 ---
 
@@ -301,7 +301,7 @@ For years, bitcoin creator Satoshi Nakamoto has avoided discovery. Now, a 10,000
 
 The most popular and trusted block explorer and crypto transaction search engine.
 
-⬆️ 2 • 💬 2 • 3h ago • [blockchain.com](https://www.blockchain.com/explorer/addresses/btc/1PWo3JeB9jrGwfHDNpdGK54CRas7fsVzXU)
+⬆️ 2 • 💬 2 • 5h ago • [blockchain.com](https://www.blockchain.com/explorer/addresses/btc/1PWo3JeB9jrGwfHDNpdGK54CRas7fsVzXU)
 
 ---
 
@@ -321,7 +321,7 @@ Everyone is distracted by Satoshi theories while real money floods into Bitcoin.
 
 📺 Simply Bitcoin
 
-👁️ 10K • 👍 782 • 💬 73 • ⏱️ 10:48 • 5h ago
+👁️ 14K • 👍 901 • 💬 73 • ⏱️ 10:48 • 7h ago
 
 ---
 
@@ -331,7 +331,27 @@ Follow me on X for my best content: http://www.X.com/AdamBLiv Transform Dormant 
 
 📺 Adam Livingston
 
-👁️ 3K • 👍 443 • 💬 85 • ⏱️ 18:40 • 4h ago
+👁️ 4K • 👍 533 • 💬 121 • ⏱️ 18:40 • 6h ago
+
+---
+
+**[How The Trumps Blew $1 Billion On Bitcoin](https://www.youtube.com/watch?v=waQJEjiPWhg)**
+
+Plenty of crypto newbies lost money chasing the bitcoin boom that followed Donald Trump's reelection. None of them took as big a ...
+
+📺 Forbes
+
+👁️ 39K • 👍 1K • 💬 163 • ⏱️ 5:05 • 10h ago
+
+---
+
+**[“It’s Not Too Late To Sell Your Bitcoin” Ben Cowen Explains](https://www.youtube.com/watch?v=lrALqzuBSHQ)**
+
+The Exact Date Bitcoin Hits Bottom in 2026 (Ben Cowen Explains) Gain Access to these charts: ...
+
+📺 Altcoin Daily
+
+👁️ 21K • 👍 1K • 💬 145 • ⏱️ 31:14 • 11h ago
 
 ---
 
@@ -341,7 +361,17 @@ IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purp
 
 📺 The Kenzo Guy
 
-👁️ 2K • 👍 119 • 💬 6 • ⏱️ 23:56 • 6h ago
+👁️ 3K • 👍 140 • 💬 7 • ⏱️ 23:56 • 8h ago
+
+---
+
+**[CLARITY Rally in 3 Days?📈Crypto Technical Analysis @TimWarrenTrades](https://www.youtube.com/watch?v=96h2EGSZvEk)**
+
+Coinbase Global (NASDAQ: $COIN) CEO Brian Armstrong is calling for the passage in Congress of the U.S. Clarity Act.
+
+📺 Paul Barron Network
+
+👁️ 36K • 👍 2K • 💬 211 • ⏱️ 33:50 • 9h ago
 
 ---
 
@@ -355,13 +385,23 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 ✓
 
 ---
 
-**[“It’s Not Too Late To Sell Your Bitcoin” Ben Cowen Explains](https://www.youtube.com/watch?v=lrALqzuBSHQ)**
+**[Iran Just Put a Bitcoin Toll on The World&#39;s Oil Supply! (The Petrodollar Is DONE)](https://www.youtube.com/watch?v=X_ADrg6SirI)**
 
-The Exact Date Bitcoin Hits Bottom in 2026 (Ben Cowen Explains) Gain Access to these charts: ...
+A sanctioned nation is building a sovereign Bitcoin treasury through a toll booth. Iran is demanding Bitcoin as payment for oil ...
 
-📺 Altcoin Daily
+📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 135 • ⏱️ 31:14 • 9h ago
+👁️ 34K • 👍 3K • 💬 293 • ⏱️ 23:12 • 1d ago
+
+---
+
+**[Bitcoin Bulls Eye Major Breakout](https://www.youtube.com/watch?v=OZK5hdKfb18)**
+
+Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FREE Crypto Predictions & Compete Weekly ...
+
+📺 CryptosRUs
+
+👁️ 17K • 👍 855 • 💬 148 • ⏱️ 49:15 • 14h ago
 
 ---
 
@@ -371,47 +411,7 @@ Arthur Hayes is the CIO of Maelstrom and co-founder of BitMEX. In this conversat
 
 📺 Anthony Pompliano
 
-👁️ 37K • 👍 1K • 💬 6 • ⏱️ 49:53 • 1d ago
-
----
-
-**[&#39;I am not Satoshi,&#39; says Adam Back on bitcoin creator theory](https://www.youtube.com/watch?v=4Ql-xCNBElk)**
-
-CNBC's “Squawk Box” team talks about the potential true identity of Bitcoin creator Satoshi Nakamoto after New York Times' ...
-
-📺 CNBC Television
-
-👁️ 12K • 👍 143 • 💬 66 • ⏱️ 4:51 • 13h ago
-
----
-
-**[Iran Just Put a Bitcoin Toll on The World&#39;s Oil Supply! (The Petrodollar Is DONE)](https://www.youtube.com/watch?v=X_ADrg6SirI)**
-
-A sanctioned nation is building a sovereign Bitcoin treasury through a toll booth. Iran is demanding Bitcoin as payment for oil ...
-
-📺 Simply Bitcoin
-
-👁️ 33K • 👍 3K • 💬 292 • ⏱️ 23:12 • 1d ago
-
----
-
-**[The White House Just Leaked Crypto’s Future.](https://www.youtube.com/watch?v=HmPN38i0wnc)**
-
-GREAT NEWS! Clarity act just received...some clarity. Research paper ...
-
-📺 Digital Asset News
-
-👁️ 22K • 👍 1K • 💬 84 • ⏱️ 18:39 • 2d ago
-
----
-
-**[Morgan Stanley&#39;s Bitcoin ETF Move Changes Everything - Adam Back Explains](https://www.youtube.com/watch?v=fXwN3pW3nZk)**
-
-Is Adam Back the real Satoshi Nakamoto? He addresses the enduring mystery of Bitcoin's anonymous creator and explains why ...
-
-📺 Yahoo Finance
-
-👁️ 13K • 👍 231 • 💬 125 • ⏱️ 8:56 • 1d ago
+👁️ 38K • 👍 2K • 💬 6 • ⏱️ 49:53 • 1d ago
 
 ---
 

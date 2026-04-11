@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-11T02:26:01.184981+00:00'
+updated: '2026-04-11T04:33:36.655014+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 11, 2026 at 02:26 UTC  
+**Last Updated:** April 11, 2026 at 04:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[XSTO introduces a hybrid biped robot that rolls on wheels and jumps over obstacles](https://www.reddit.com/r/robotics/comments/1shskju/xsto_introduces_a_hybrid_biped_robot_that_rolls/)**
 
-9h ago
+11h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 58 Home partnered with X Square Robot to launch a cleaning service in Shenzhen where a human cleaner shows up with a robot partner. The robot handles structured tasks like wiping surfaces, picking up debris, and tidying, while the human handles everything that requires judgment. What makes this interesting from a technical standpoint: the robot runs on an end-to-end VLA (Vision-Language-Action) model called WALL-A that takes video and language input and outputs motor commands directly with no intermediate planning layer. But the real story isn't the model architecture, it's the deployment strategy. The company frames this as "grass-fed vs grain-fed" training data. Models trained on clean lab data perform well in controlled environments but fall apart in real homes where every apartment has a different layout, random clutter on the floor, pets walking through the workspace, kids' toys in unpredictable places. You can see in this video exactly why that matters: the robot is navigating around a Corgi, working in a room absolutely covered in children's toys, and dealing with narrow doorways in a real Chinese apartment. None of this is a problem you'd encounter in a lab. A few years ago this kind of footage would have been a staged demo. The fact that it's a paying service operating in real apartments suggests robots in everyday homes are closer than most people think.
 
-12h ago
+14h ago
 
 ---
 
@@ -50,7 +50,7 @@ Robotics research and industry news
 
 Context and Setup : Ros2 Humble , Gazebo Ignition Fortress . Ubuntu 22.04 I am trying to make a SLAM robot this was my model with Lidar (laser_frame) in Rviz current I am publishing to cmd_vel to rotate the bot but along with the bot the 2D point cloud is also rotating in Rviz. is this normal or a problem (actually having issues with mapping too) tf: Map ->odom -> base_footprint-> base_link -> laser_frame Please help , stuck here.
 
-6h ago
+8h ago
 
 ---
 
@@ -64,7 +64,7 @@ Context and Setup : Ros2 Humble , Gazebo Ignition Fortress . Ubuntu 22.04 I am t
 
 We are publishing our first deep dive on what we believe is one of the most challenging layers in egocentric data - SLAM and VIO in the context of long-horizon state tracking. We break down how SLAM and VIO fail in egocentric settings - visual features vanish at close range, depth sensors saturate, fast head motion blurs frames, and these failures don't always occur in isolation. They hit at the exact same moment, leading to compounding errors and making the downstream data unusable. We believe the foundation for high-quality egocentric data demands sub-centimeter precision over long episodes ranging from a few minutes to up to an hour. You can find more at fpv_labs
 
-13h ago
+15h ago
 
 ---
 
@@ -72,7 +72,7 @@ We are publishing our first deep dive on what we believe is one of the most chal
 
 Been working on a pipeline to automate physics setup for sim-to-real workflows. Given a 3D mesh (.obj/.glb), it: computes geometry (volume, bounding box, watertightness) estimates material + density derives mass, friction, restitution generates domain randomization ranges exports multiple MuJoCo XMLs for different surface/fill conditions Example (ceramic mug): 9 profiles (empty/half/full × clean/worn/contaminated) mass: 0.5 - 2.25 kg friction down to 0.175 (contaminated) DR bounds auto-generated per profile Goal is to remove manual tuning of object physics during sim setup. Curious where this would break in real pipelines or what edge cases I’m missing, especially around non watertight meshes or unusual materials.
 
-11h ago
+13h ago
 
 ---
 
@@ -84,7 +84,7 @@ Been working on a pipeline to automate physics setup for sim-to-real workflows. 
 
 **[Anyone still using Sony IMX291 cameras for low-light industrial setups?](https://www.reddit.com/r/robotics/comments/1shrpmf/anyone_still_using_sony_imx291_cameras_for/)**
 
-9h ago
+11h ago
 
 ---
 
@@ -92,7 +92,7 @@ Been working on a pipeline to automate physics setup for sim-to-real workflows. 
 
 You can try it at flomotion.app it took me a few months to build it. For now it's basically free AI. I would appreciate if you could tell me how to make it better and more useful. I learned a lot about robotics while building and testing it.
 
-11h ago
+13h ago
 
 ---
 
@@ -100,7 +100,7 @@ You can try it at flomotion.app it took me a few months to build it. For now it'
 
 https://preview.redd.it/hllt5xajpbug1.png?width=1192&format=png&auto=webp&s=4fe28a28013fa07cacaef79d1512887848f52997 https://preview.redd.it/rb7jug3lpbug1.png?width=1033&format=png&auto=webp&s=7d00c8125c25ca01a5061fdbd2ebbdb8599618d6 https://preview.redd.it/11h2k3wlpbug1.png?width=846&format=png&auto=webp&s=5d07b76e41cb86e68db3807abf5412a3ace1df21 Rate my design 1-10 https://www.tinkercad.com/things/5qwlk5KBEEY-robotic-dogstl
 
-17h ago
+20h ago
 
 ---
 
@@ -116,14 +116,6 @@ IFR International Federation of Robotics • 2d ago
 
 ---
 
-**[Opinion | Meet Abi, the AI-powered robot companion for senior care](https://www.washingtonpost.com/opinions/2026/04/09/ai-robot-senior-care-abi/)**
-
-This new tech from Australia is coming to America’s senior care facilities.
-
-The Washington Post • 22h ago
-
----
-
 **[New humanoid robots replacing workers in factories](https://www.nbcnews.com/video/shorts/new-humanoid-robots-replacing-workers-in-factories-261041221991)**
 
 Meet 'Digit', a humanoid robotic worker made by Agility Robotics, now part of a new wave of robots replacing workers at companies like Schaeffler, Toyota, and GXO. NBC News' Brian Cheung takes a look.
@@ -132,19 +124,41 @@ NBC News • 1d ago
 
 ---
 
-**[Unitree’s cheapest $4K sport-ready R1 humanoid robot to hit US markets via AliExpress](https://interestingengineering.com/ai-robotics/unitree-r1-robot-aliexpress-global-debut)**
-
-Unitree plans global launch of its $4,370 R1 humanoid robot via AliExpress, targeting U.S. and Europe markets.
-
-Interesting Engineering • 1d ago
-
----
-
 **[Meet ‘Alex’: A Disaster-Response Humanoid Challenging China’s Robotics Rise](https://www.eweek.com/news/ihmc-alex-robot-china-robotics-race/)**
 
 IHMC unveils Alex, a disaster-ready humanoid robot built for high-risk environments, as China accelerates its dominance in global robotics.
 
 eWeek • 1d ago
+
+---
+
+**[Unitree to launch cheapest humanoid robot globally next week, starting at over $4,000](https://e.vnexpress.net/news/tech/tech-news/unitree-to-launch-cheapest-humanoid-robot-globally-next-week-starting-at-over-4-000-5060948.html)**
+
+Chinese robotics firm Unitree Robotics will launch its cheapest humanoid robot R1 globally next week via AliExpress, starting at 29,900 yuan (US$4,370), sources told South China Morning Post.
+
+VnExpress International • 15h ago
+
+---
+
+**[Local high school robotics team heading to World Championship](https://www.yahoo.com/news/articles/local-high-school-robotics-team-021822067.html)**
+
+(COLORADO SPRINGS) — James Irwin Charter High School’s (JICHS) robotics team has qualified for the 2026 VEX Robotics World Championship. According to a press release from JICHS, this international tou...
+
+Yahoo • 2h ago
+
+---
+
+**[Opinion | Meet Abi, the AI-powered robot companion for senior care](https://www.washingtonpost.com/opinions/2026/04/09/ai-robot-senior-care-abi/)**
+
+This new tech from Australia is coming to America’s senior care facilities.
+
+The Washington Post • 1d ago
+
+---
+
+**[Why do people kick Uber Eats robots? What’s motivating Philadelphians to attack autonomous tech](https://billypenn.com/2026/04/09/uber-eats-delivery-robot-abuse-ethics-philadelphia-temple/)**
+
+Billy Penn at WHYY • 1d ago
 
 ---
 
@@ -164,25 +178,11 @@ St. George News • 1d ago
 
 ---
 
-**[Cactus High School robotics team dominates competition, advances to world championship](https://www.yahoo.com/news/articles/cactus-high-school-robotics-team-192625590.html)**
+**[HII Brings In Robotics for Shipyard Grinding, Blasting and Painting](https://maritime-executive.com/article/hii-brings-in-robotics-for-shipyard-grinding-blasting-and-painting)**
 
-The Cobra Commanders were honored with the excellence in engineering award for their team's innovative design approach, strong mechanical execution, and technical rigor.  The Cobra Commanders represen...
+Most of the high-profile robotics initiatives in shipbuilding focus on welding or cutting, but there's much more that has to happen to get a ship into...
 
-Yahoo • 6h ago
-
----
-
-**[Local robotics team could make it to world championships, here’s how to help](https://www.news9.com/oklahoma-city-news/okc-robotics-team-world-championship-fundraiser)**
-
-A local team could take Oklahoma to the global stage through robotics.
-
-News 9 • 4h ago
-
----
-
-**[National robotics push caught in delayed Trump-Xi meeting](https://www.politico.com/news/2026/04/09/national-robotics-trump-xi-china-00861918)**
-
-Politico • 1d ago
+The Maritime Executive • 1d ago
 
 ---
 
@@ -196,7 +196,7 @@ Could AI become dangerous? Can we trust AI Agents? AGI. Use code insideai at htt
 
 📺 InsideAI
 
-👁️ 296K • 👍 13K • 💬 1K • ⏱️ 16:24 • 1d ago
+👁️ 303K • 👍 14K • 💬 1K • ⏱️ 16:24 • 1d ago
 
 ---
 
@@ -210,13 +210,23 @@ Tesla Optimus Gen 3 $20K robot shocks—24/7 worker that could replace jobs fast
 
 ---
 
+**[Why the Lymow One Plus is the Best Robot Mower Not Sponsored](https://www.youtube.com/watch?v=TCBaaSISul8)**
+
+Lymow → https://lymowtradecolimited.pxf.io/OYr2VG The Lymow One Plus isn't your average robot mower. Instead of those tiny, ...
+
+📺 How To with Doc
+
+👁️ 11K • 👍 731 • 💬 133 • ⏱️ 21:24 • 1d ago
+
+---
+
 **[South Korea Is Building Robots the World Didn’t See Coming!](https://www.youtube.com/watch?v=H09m8a3oL_4)**
 
 South Korea is building robots you've only seen in movies, from giant walking machines to exoskeletons that give people back ...
 
 📺 DeCode
 
-👁️ 40K • 👍 776 • 💬 65 • ⏱️ 14:45 • 1d ago
+👁️ 41K • 👍 799 • 💬 74 • ⏱️ 14:45 • 1d ago
 
 ---
 
@@ -236,17 +246,7 @@ Join the Marvel Strike Force 8th Anniversary Event NOW: https://bit.ly/4m9Pyon U
 
 📺 Manni-Gaming
 
-👁️ 9K • 👍 514 • 💬 99 • ⏱️ 16:14 • 11h ago
-
----
-
-**[2026 Ultimate Robot Vacuum and Mop Comparison || Roborock, Eufy, Dreame, Narwal, Ecovacs, MOVA](https://www.youtube.com/watch?v=Pv9_2D_Xc5k)**
-
-I tested every flagship robotic vacuum and mop from Roborock, Eufy, Dreame, Narwal, Ecovacs, and MOVA available in 2025 to ...
-
-📺 The Hook Up
-
-👁️ 17K • 👍 644 • 💬 152 • ⏱️ 26:12 • 2d ago
+👁️ 9K • 👍 545 • 💬 101 • ⏱️ 16:14 • 13h ago
 
 ---
 
@@ -256,17 +256,17 @@ US startup Foundation is developing humanoid robots for military use. The goal i
 
 📺 DW News
 
-👁️ 73K • 👍 552 • 💬 101 • ⏱️ 1:22 • 5d ago
+👁️ 73K • 👍 551 • 💬 101 • ⏱️ 1:22 • 5d ago
 
 ---
 
-**[Subduer Are SO Back… Where Have They Been? Rust Beast | War Robots](https://www.youtube.com/watch?v=uWk_XDpdg8M)**
+**[2026 Ultimate Robot Vacuum and Mop Comparison || Roborock, Eufy, Dreame, Narwal, Ecovacs, MOVA](https://www.youtube.com/watch?v=Pv9_2D_Xc5k)**
 
-The Subduer are back!? I haven't used subduer in years now and I barely see them on the battlefield. So let's see what Subduer ...
+I tested every flagship robotic vacuum and mop from Roborock, Eufy, Dreame, Narwal, Ecovacs, and MOVA available in 2025 to ...
 
-📺 PREDATOR WR
+📺 The Hook Up
 
-👁️ 8K • 👍 412 • 💬 46 • ⏱️ 15:33 • 14h ago
+👁️ 18K • 👍 648 • 💬 155 • ⏱️ 26:12 • 2d ago
 
 ---
 
@@ -274,7 +274,7 @@ The Subduer are back!? I haven't used subduer in years now and I barely see them
 
 📺 Robot Julie 
 
-👁️ 109K • 👍 831 • 💬 6 • ⏱️ 0:22 • 2d ago
+👁️ 114K • 👍 863 • 💬 6 • ⏱️ 0:22 • 2d ago
 
 ---
 
@@ -284,7 +284,7 @@ Welch Labs Book: https://www.welchlabs.com/resources/ai-book-ezrzm-msrmc Book & 
 
 📺 Welch Labs
 
-👁️ 102K • 👍 5K • 💬 241 • ⏱️ 35:02 • 6d ago
+👁️ 103K • 👍 5K • 💬 241 • ⏱️ 35:02 • 6d ago
 
 ---
 
