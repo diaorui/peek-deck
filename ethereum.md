@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-11T16:41:37.901022+00:00'
+updated: '2026-04-11T17:32:42.124757+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
 - news
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 11, 2026 at 16:41 UTC  
+**Last Updated:** April 11, 2026 at 17:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,249.11
+### $2,259.44
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** +6.6%  
-**30d:** +7.4%  
-**90d:** -27.4%  
-**1y:** +36.6%  
+**24h:** +0.7%  
+**7d:** +7.3%  
+**30d:** +8.1%  
+**90d:** -26.9%  
+**1y:** +37.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $270.67B
+**Market Cap:** $272.71B
 Rank #2
 
 **Circulating Supply:** 120,691,071 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--54.7%
+-54.3%
 
 **All-Time Low:** $0.43
-+517872.0%
++521687.4%
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Over the past year I've been thinking a lot about Web3. Not the trading, not the speculation, not the casino. I don't trade crypto. I don't follow the markets. What fascinates me is the underlying idea: decentralized systems with code as the only authority. The technology itself. I've been a backend engineer for over a decade. Rails, SQL, the usual stack. But like many engineers, I burned out. The excitement to build faded. You know the feeling. You're competent, productive, but not discovering anything anymore. Then I looked seriously at blockchain. Not as an investor, but as an engineer. I asked myself: what would an application look like if built with absolute fidelity to what blockchain promises? Real utility (useful for the masses, not DeFi nonesense) NO off-chain layers (100% on-chain) NO insider advantages (fair economics) NO dependence on investors (self-sustaining) NO pointless tokenomics (ETH in, ETH out) Those five principles became my compass. I tried to build something that never violated them. But the Web3 ecosystem is built around tokenomics and speculation. There's no blueprint to follow. So I started pulling my own thread: I wanted to build something useful, deterministic, fully on-chain, with no complicated tokenomics. A simple game like TicTacToe with real ETH stakes? Interesting, but too narrow. Then the frame shifted. I wasn't building a game anymore. I was building a tournament layer. A universal competitive infrastructure that's fair, open-source, and 100% on-chain. That's when the hard problems started. How do you handle draws on a decentralized platform? How do you stop players griefing opponents without central authority? These aren't just technical questions. They're moral ones. They forced me to think deeply about fairness, about building a system nobody controls and nobody can manipulate. The answers surprised me. Forget Kubernetes, Redis, all that complexity. With these constraints (fully on-chain, truly open, completely decentralized) the legacy stack collapses into something elegant. A client talking directly to contracts. No servers. No databases. No company. Just code. That freedom changed how I think about software. So I built ETour A 100% on-chain tournament protocol, now live on Arbitrum. Players pay an entry fee, compete, the best player wins and takes the pot. Code decides everything. No intermediaries. As Web3 should be. I open-sourced it so developers can build their own games on it and inherit all of its features for free. I'm not here to tell you this is revolutionary. I built this because it felt like a problem worth solving. ETour is what came out the other side. The code is public. The contracts are immutable. The logic is yours to verify. PS: The technical docs are not final and will be updated soon. https://etour.games https://etour.games/whitepaper https://etour.games/manual https://etour.games/docs TLDR: ETour is useful, it's live, and it's open-source. Go ahead and play on it, or build your own game using its 100% on-chain and open source tournament modules.
 
-3h ago
+4h ago
+
+---
+
+**[vProgs vs Smart Contracts: When Should You Use Each?](https://www.reddit.com/r/ethereum/comments/1sin6jy/vprogs_vs_smart_contracts_when_should_you_use_each/)**
+
+I’ve spent the last dozen articles exploring vProgs and their capabilities. In particular, I’ve argued that the emerging proof economy…
+
+🔗 [Medium](https://medium.com/@james_allan/vprogs-vs-smart-contracts-when-should-you-use-each-fcdc0e4a42ce) • 1h ago
 
 ---
 
@@ -140,23 +148,13 @@ I've learnt that we can now invest in gold directly in crypto, which is quite ex
 
 ---
 
-**[ethlocal.world — a globe for Ethereum events and communities](https://www.reddit.com/r/ethereum/comments/1sf98ns/ethlocalworld_a_globe_for_ethereum_events_and/)**
-
-I just built ethlocal.world: a simple way to explore Ethereum activity around the world. The idea was pretty straightforward: Ethereum is global, but it can still be surprisingly hard to get a quick sense of what’s happening locally or regionally. So I made a site that maps events and communities in one place and lets you browse by region and type. It takes data from ethereum.org and was inspired by the Codex Ambassadors globe. Link: https://ethlocal.world Would love honest feedback from people here: Is this actually useful? What feels missing or confusing? Is the globe view helpful, or do you mainly want a cleaner list/filter experience? What would make something like this genuinely valuable for local Ethereum communities? Built it as a small project for the Ethereum community, and I’d love to improve it based on feedback.
-
-3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
 
-**[TD Cuts Bitcoin Giant Strategy's Price Target, Calls Ethereum Treasury Sharplink a ‘Buy’](https://decrypt.co/363902/td-cuts-bitcoin-giant-strategy-price-target-ethereum-treasury-sharplink-buy)**
+**[Bitmine Immersion Q2 Preview: Ethereum Thesis Facing Important Report Card](https://seekingalpha.com/article/4890024-bitmine-immersion-q2-preview-ethereum-thesis-facing-important-report-card)**
 
-TD Cowen remains positive on $55 billion Bitcoin treasury pioneer Strategy, despite trimming its price target yet again.
-
-Decrypt • 1d ago
+Seeking Alpha • 2h ago
 
 ---
 
@@ -168,31 +166,25 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Bitmine Immersion Q2 Preview: Ethereum Thesis Facing Important Report Card](https://seekingalpha.com/article/4890024-bitmine-immersion-q2-preview-ethereum-thesis-facing-important-report-card?source=generic_rss)**
-
-Bitmine Immersion Technologies has pivoted to become the largest Ethereum treasury globally. Rad my analysis of BMNR stock here.
-
-Seeking Alpha • 2h ago
-
----
-
 **[Bitmine Stock Plugs Into a New Power Source as Ethereum Holdings Hits Record Highs; BMNR Up 15%](https://www.tipranks.com/news/bitmine-stock-plugs-into-a-new-power-source-as-ethereum-holdings-hit-record-highs-bmnr-up-15)**
 
 TipRanks • 2d ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Friday, April 10, 2026: Prices rise ahead of CPI report](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-april-10-2026-prices-rise-ahead-of-cpi-report-111733660.html)**
+**[Bitcoin and Ethereum are up — but these privacy coins have surged even harder](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-privacy-coins-surged-152520038.html)**
 
-Bitcoin opened at $71,783.52 on Friday and then rose slightly in early trading. Ethereum showed the same trend, opening at $2,189.99 and rising somewhat in early hours.
+Bitcoin and Ethereum rose this week. But privacy coins got a bigger boost. Leading privacy coins surge when crypto bigwigs talk about them.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Most large cryptocurrencies fall as Ethereum tumbles](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-as-ethereum-tumbles-91a2f421-9307bc266dcb)**
+**[TD Cuts Bitcoin Giant Strategy's Price Target, Calls Ethereum Treasury Sharplink a ‘Buy’](https://decrypt.co/363902/td-cuts-bitcoin-giant-strategy-price-target-ethereum-treasury-sharplink-buy)**
 
-MarketWatch • 2d ago
+TD Cowen remains positive on $55 billion Bitcoin treasury pioneer Strategy, despite trimming its price target yet again.
+
+Decrypt • 1d ago
 
 ---
 
@@ -200,7 +192,13 @@ MarketWatch • 2d ago
 
 Ethereum is pushing toward $2,200. The macro environment is uncertain. And top analyst Darkfost has identified a signal in the derivatives market that has not appeared in nearly three years — emerging at precisely the moment the price is testing a level that matters.The signal comes from the ETH Ta…
 
-TradingView • 11h ago
+TradingView • 12h ago
+
+---
+
+**[Most large cryptocurrencies fall as Ethereum tumbles](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-as-ethereum-tumbles-91a2f421-9307bc266dcb)**
+
+MarketWatch • 2d ago
 
 ---
 
@@ -216,7 +214,7 @@ Coinpedia Fintech News • 1d ago
 
 The Ethereum Foundation sold 1,250 ETH for $2.8 million and stopped staking ETH, pushing odds in the Ethereum Above Price Predictions in April market toward bea
 
-Crypto Briefing • 2h ago
+Crypto Briefing • 3h ago
 
 ---
 
@@ -224,7 +222,7 @@ Crypto Briefing • 2h ago
 
 Dubai, UAE, April  10, 2026  (GLOBE NEWSWIRE) -- Pepeto just hit a major checkpoint on its Binance level exchange, pushing the zero fee swap engin...
 
-markets.businessinsider.com • 15h ago
+markets.businessinsider.com • 16h ago
 
 ---
 
@@ -232,23 +230,23 @@ markets.businessinsider.com • 15h ago
 
 ## YouTube Videos: "ethereum"
 
+**[Raoul Pal: &quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=Gys5vX-3hfg)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 1K • 👍 85 • 💬 5 • ⏱️ 19:27 • 1h ago
+
+---
+
 **[ADA, XRP &amp; ETH Holders NEED to Hear This IMMEDIATELY – Matt Hougan](https://www.youtube.com/watch?v=Ai1_0W5vZBM)**
 
 Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
 
 📺 Savvy Finance
 
-👁️ 2K • 👍 111 • 💬 28 • ⏱️ 15:02 • 20h ago
-
----
-
-**[Tom Lee &amp; Raoul Pal: &quot;Don&#39;t SELL Your Ethereum Before Watching This&quot; | [2026 Crypto Prediction]](https://www.youtube.com/watch?v=Cjdfxhy2Ids)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 15K • 👍 444 • 💬 21 • ⏱️ 20:08 • 3d ago
+👁️ 3K • 👍 122 • 💬 28 • ⏱️ 15:02 • 21h ago
 
 ---
 
@@ -258,7 +256,7 @@ In this video, I take a closer look at the current Ethereum market structure and
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 206 • 💬 13 • ⏱️ 9:25 • 21h ago
+👁️ 3K • 👍 208 • 💬 11 • ⏱️ 9:25 • 22h ago
 
 ---
 
@@ -268,17 +266,7 @@ In this video, we break down Ethereum's latest price action heading into April 2
 
 📺 Gordon Frayne
 
-👁️ 113 • 👍 5 • 💬 1 • ⏱️ 12:24 • 10h ago
-
----
-
-**[CLARITY Rally in 3 Days?📈Crypto Technical Analysis @TimWarrenTrades](https://www.youtube.com/watch?v=96h2EGSZvEk)**
-
-Coinbase Global (NASDAQ: $COIN) CEO Brian Armstrong is calling for the passage in Congress of the U.S. Clarity Act.
-
-📺 Paul Barron Network
-
-👁️ 45K • 👍 2K • 💬 253 • ⏱️ 33:50 • 21h ago
+👁️ 156 • 👍 6 • 💬 3 • ⏱️ 12:24 • 11h ago
 
 ---
 
@@ -288,27 +276,17 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 64 • 👍 8 • 💬 2 • ⏱️ 4:38 • 5h ago
+👁️ 96 • 👍 10 • 💬 3 • ⏱️ 4:38 • 6h ago
 
 ---
 
-**[They Used Ethereum To Start Ja Rule’s Whiskey #conversationsarekey#AmberAndOpal #JaRule](https://www.youtube.com/watch?v=KJPR3E6A2KA)**
+**[CLARITY Rally in 3 Days?📈Crypto Technical Analysis @TimWarrenTrades](https://www.youtube.com/watch?v=96h2EGSZvEk)**
 
-During COVID, Entrepreneur Sandy Sandiford and his partners made an unusual investment decision — they used Ethereum to ...
+Coinbase Global (NASDAQ: $COIN) CEO Brian Armstrong is calling for the passage in Congress of the U.S. Clarity Act.
 
-📺 Conversations Are Key Podcast
+📺 Paul Barron Network
 
-👁️ 1K • 👍 16 • 💬 1 • ⏱️ 0:49 • 17h ago
-
----
-
-**[CRYPTO LIVE TRADING || 11 APRIL  | ‪@ClockTraderlive‬ #bitcoin #ethereum #crypto #btclivetrading](https://www.youtube.com/watch?v=T4BlXNwD4YY)**
-
-join my social platforms for updates and analysis ✓Instagram: ...
-
-📺 Aryan trader Live
-
-👁️ 12K • 👍 5K • 💬 7 • ⏱️ 1:18:53 • 3h ago
+👁️ 48K • 👍 2K • 💬 265 • ⏱️ 33:50 • 22h ago
 
 ---
 
@@ -328,7 +306,27 @@ In this video we talk about developments in the Ethereum ecosystem, covering bot
 
 📺 Elijah Cheng
 
-👁️ 6K • 👍 206 • 💬 37 • ⏱️ 37:25 • 1d ago
+👁️ 6K • 👍 219 • 💬 40 • ⏱️ 37:25 • 1d ago
+
+---
+
+**[They Used Ethereum To Start Ja Rule’s Whiskey #conversationsarekey#AmberAndOpal #JaRule](https://www.youtube.com/watch?v=KJPR3E6A2KA)**
+
+During COVID, Entrepreneur Sandy Sandiford and his partners made an unusual investment decision — they used Ethereum to ...
+
+📺 Conversations Are Key Podcast
+
+👁️ 1K • 👍 16 • 💬 1 • ⏱️ 0:49 • 17h ago
+
+---
+
+**[CRYPTO LIVE TRADING || 11 APRIL  | ‪@ClockTraderlive‬ #bitcoin #ethereum #crypto #btclivetrading](https://www.youtube.com/watch?v=BBczbmUYwmY)**
+
+join my social platforms for updates and analysis ✓Instagram: ...
+
+📺 Aryan trader Live
+
+👁️ 4K • 👍 4K • 💬 2 • ⏱️ 42:59 • 1h ago
 
 ---
 
