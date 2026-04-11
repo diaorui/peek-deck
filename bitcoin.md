@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-11T09:40:58.941684+00:00'
+updated: '2026-04-11T10:36:01.006130+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
 - news
-- videos
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 11, 2026 at 09:40 UTC  
+**Last Updated:** April 11, 2026 at 10:36 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $72,740.75
+### $72,845.93
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.3%  
-**7d:** +5.3%  
-**30d:** +2.4%  
-**90d:** -20.4%  
-**1y:** -14.7%  
+**24h:** +1.0%  
+**7d:** +5.6%  
+**30d:** +2.7%  
+**90d:** -20.1%  
+**1y:** -14.5%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[My university's business school moved to a new building and we're now in the Satoshi floor. Is this a sign?](https://www.reddit.com/r/Bitcoin/comments/1si9i7t/my_universitys_business_school_moved_to_a_new/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 I made around 100% in 3 weeks and was happy with that 🫡🫣
 
-15h ago
+16h ago
 
 ---
 
@@ -95,7 +95,7 @@ I made around 100% in 3 weeks and was happy with that 🫡🫣
 
 Japan plans to reclassify cryptocurrencies as financial products under the Financial Instruments and Exchange Act, shifting them from a payment-based framework to one aligned with traditional securities regulation.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/japan-moves-to-classify-bitcoin-and-crypto) • 16h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/japan-moves-to-classify-bitcoin-and-crypto) • 17h ago
 
 ---
 
@@ -103,7 +103,7 @@ Japan plans to reclassify cryptocurrencies as financial products under the Finan
 
 I’m just honestly perplexed why this really matters? For real, what difference is it going to make to finally unmask the real SN and how is that going to change the impact his held coins will make when they’re finally sold? Everyone is anonymous on the chain so why should they be any different? Sure, there’s the impact of data hungry machines and their environmental impact but sincerely that ship sailed a decade ago. But how is any of that going to change once we all know for sure who to blame? Is t it all the rest of us, constantly moving coins around that are to blame? So curious to hear opinions on this article.
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/04/09/podcasts/the-daily/satoshi-nakamoto-bitcoin-creator.html?unlocked_article_code=1.Z1A.Zc6v.htjM1l8I6VbV&smid=nytcore-ios-share) • 10h ago
+🔗 [nytimes.com](https://www.nytimes.com/2026/04/09/podcasts/the-daily/satoshi-nakamoto-bitcoin-creator.html?unlocked_article_code=1.Z1A.Zc6v.htjM1l8I6VbV&smid=nytcore-ios-share) • 11h ago
 
 ---
 
@@ -111,15 +111,15 @@ I’m just honestly perplexed why this really matters? For real, what difference
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-3h ago
+4h ago
 
 ---
 
-**[Blockchain.com explorer has been compromised or something](https://www.reddit.com/r/Bitcoin/comments/1shs1s0/blockchaincom_explorer_has_been_compromised_or/)**
+**[Why is the volume lower on weekends?](https://www.reddit.com/r/Bitcoin/comments/1sifa3k/why_is_the_volume_lower_on_weekends/)**
 
-It looks like the block explorer has been hacked on Blockchain.com. When you search for a wallet address it shows you bunch of specific addresses only. For example for Satoshi address: https://www.blockchain.com/en/explorer/addresses/btc/1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa, it shows me the following ones only: 1PyJph17b4nAKqp4UvbxUZXpoesDzvZkVL 1PAZba3CAFRYm7gNBhrzH8Dz1FkYDCwJPs 1PyJph17b4nAKqp4UvbxUZXpoesDzvZkVL 1PbwAPq7aUepWrrToVh1snhv8mqy9wrGnk bc1qdmaslupuaetajnfzex8zw6jc93ww32ur6gj3we Be aware guys. Also it will be great to report it to Blockchain, but their support system a bit hard to use. Hope they are reading r/Bitcoin sometimes.
+The stock market is closed on weekend. Bitcoin is one of the few assets that can be traded on weekend. By my understanding, that would mean bitcoins volume should be higher on weekend than on weekdays because traders cant trade stocks, so trading focused on bitcoin. But bitcoins volume on weekends is actually lower than on weekdays, despite weekend, by my logic, being the time frame where everyone would jump to bitcoin because the stock market is closed
 
-16h ago
+17m ago
 
 ---
 
@@ -127,7 +127,15 @@ It looks like the block explorer has been hacked on Blockchain.com. When you sea
 
 Got it yesterday and it seems to be running smoothly. Not sure I'll ever hit a block but this was the last piece to a full setup. I have a bitcoin core full node running with inbound/outbound connections, and now I've got 90T helping secure the network, its not much but im doing my part to help decentralize and just maybe I'll hit a block!
 
-9h ago
+10h ago
+
+---
+
+**[Blockchain.com explorer has been compromised or something](https://www.reddit.com/r/Bitcoin/comments/1shs1s0/blockchaincom_explorer_has_been_compromised_or/)**
+
+It looks like the block explorer has been hacked on Blockchain.com. When you search for a wallet address it shows you bunch of specific addresses only. For example for Satoshi address: https://www.blockchain.com/en/explorer/addresses/btc/1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa, it shows me the following ones only: 1PyJph17b4nAKqp4UvbxUZXpoesDzvZkVL 1PAZba3CAFRYm7gNBhrzH8Dz1FkYDCwJPs 1PyJph17b4nAKqp4UvbxUZXpoesDzvZkVL 1PbwAPq7aUepWrrToVh1snhv8mqy9wrGnk bc1qdmaslupuaetajnfzex8zw6jc93ww32ur6gj3we Be aware guys. Also it will be great to report it to Blockchain, but their support system a bit hard to use. Hope they are reading r/Bitcoin sometimes.
+
+17h ago
 
 ---
 
@@ -135,7 +143,7 @@ Got it yesterday and it seems to be running smoothly. Not sure I'll ever hit a b
 
 An economist named Steve Keen says Bitcoin will go to zero because it uses too much energy. It only took me ten minutes to break down why his "critique" makes no sense
 
-🔗 [youtu.be](https://youtu.be/t7Ca56-XxPM) • 13h ago
+🔗 [youtu.be](https://youtu.be/t7Ca56-XxPM) • 14h ago
 
 ---
 
@@ -143,15 +151,7 @@ An economist named Steve Keen says Bitcoin will go to zero because it uses too m
 
 A three-part deep dive into quantum computing's actual threat to Bitcoin. 17 researchers, 13 proposals, real engineering. No hype. No FUD.
 
-🔗 [Bitcoin & Quantum Computing](https://bitcoinquantum.space/) • 16h ago
-
----
-
-**[Is Bitcoin set to skyrocket?](https://www.reddit.com/r/Bitcoin/comments/1shbt4d/is_bitcoin_set_to_skyrocket/)**
-
-Is it actually going to go up?
-
-1d ago
+🔗 [Bitcoin & Quantum Computing](https://bitcoinquantum.space/) • 17h ago
 
 ---
 
@@ -163,7 +163,7 @@ Is it actually going to go up?
 
 The kingdom's holdings have dropped from 13,000 BTC to 3,954 since October 2024, with $215.7 million moved out this year alone. Its last mining inflow over $100,000 was recorded more than a year ago.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -175,11 +175,19 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Circle (CRCL) and Bullish (BLSH) fail to participate in Thursday rally](https://www.coindesk.com/markets/2026/04/09/bitcoin-tops-usd72-000-but-circle-and-bullish-drop-sharply-after-downgrades)**
+**[Bitcoin 23 Bar Theory: What Happens To The BTC Price If The Bottom Is In?](https://www.tradingview.com/news/newsbtc:548e93c12094b:0-bitcoin-23-bar-theory-what-happens-to-the-btc-price-if-the-bottom-is-in/)**
 
-Eased Middle East tensions pushed crypto prices and U.S. stocks sizable hjigher.
+Over the years, there have been different metrics, technicals, and ways in which investors have tried to predict the Bitcoin price bottom with each bear market. Some of these have reportedly done so with some accuracy, while others have seen a deviation. Recently, a pseudonymous crypto analyst who…
 
-CoinDesk • 1d ago
+TradingView • 2h ago
+
+---
+
+**[Ethereum Steals The Spotlight As Capital Moves Away From Bitcoin](https://www.tradingview.com/news/newsbtc:7a26766ec094b:0-ethereum-steals-the-spotlight-as-capital-moves-away-from-bitcoin/)**
+
+Ethereum’s growing base of active users may be one reason investors are putting more money into it — and less into Bitcoin.Exchange Outflows Point To A Shift In Holding BehaviorData from on-chain research firm XWIN Research shows Ethereum recorded a sustained drop in exchange-held supply throughout…
+
+TradingView • 1h ago
 
 ---
 
@@ -187,21 +195,13 @@ CoinDesk • 1d ago
 
 Strategy Inc (NasdaqGS:MSTR) has launched Nitric Boost Ultra, a health supplement focused on circulation, energy, and stamina support. The product introduces ingredients such as L Arginine and beetroot powder to Strategy's portfolio, which has historically centered on Bitcoin exposure. This move expands the company beyond digital assets into the consumer health supplements market. Strategy, trading at around $128.64, is widely associated with its aggressive Bitcoin accumulation approach...
 
-Yahoo Finance • 2h ago
-
----
-
-**[Bitcoin 23 Bar Theory: What Happens To The BTC Price If The Bottom Is In?](https://www.tradingview.com/news/newsbtc:548e93c12094b:0-bitcoin-23-bar-theory-what-happens-to-the-btc-price-if-the-bottom-is-in/)**
-
-Over the years, there have been different metrics, technicals, and ways in which investors have tried to predict the Bitcoin price bottom with each bear market. Some of these have reportedly done so with some accuracy, while others have seen a deviation. Recently, a pseudonymous crypto analyst who…
-
-TradingView • 1h ago
+Yahoo Finance • 3h ago
 
 ---
 
 **[Software stocks are getting pulverized — but bitcoin’s rebound hints that a bottom might be in](https://www.marketwatch.com/story/software-stocks-are-getting-pulverized-but-bitcoins-rebound-hints-that-a-bottom-might-be-in-512baac7)**
 
-MarketWatch • 12h ago
+MarketWatch • 13h ago
 
 ---
 
@@ -209,15 +209,15 @@ MarketWatch • 12h ago
 
 A new brief from the Bitcoin Policy Institute says advances in quantum computing may bring forward risks to Bitcoin’s cryptography, though developers are already working on fixes.
 
-Bitcoin Magazine • 13h ago
+Bitcoin Magazine • 14h ago
 
 ---
 
-**[Strategy's Michael Saylor says bitcoin likely bottomed near $60K, suggests quantum risk is overblown](https://www.theblock.co/post/396836/strategys-michael-saylor-says-bitcoin-likely-bottomed-near-60k-suggests-quantum-risk-is-overblown)**
+**[Quantum-safe bitcoin now possible without a soft fork, but costs $200 a pop, new research shows](https://www.coindesk.com/markets/2026/04/10/quantum-safe-bitcoin-now-possible-without-a-soft-fork-but-costs-usd200-a-pop)**
 
-Strategy's Michael Saylor said bitcoin has likely bottomed near $60,000 and downplayed quantum computing risks.
+A new scheme from a StarkWare researcher works under existing consensus rules, offering an emergency fallback while BIP-360 awaits activation.
 
-The Block • 1d ago
+CoinDesk • 1d ago
 
 ---
 
@@ -231,7 +231,7 @@ Yahoo Finance • 2d ago
 
 **[Wall Street Still Loves Bitcoin Even if Fever Is Cooling](https://www.bloomberg.com/news/newsletters/2026-04-09/wall-street-still-loves-bitcoin-even-if-fever-is-cooling)**
 
-Bloomberg.com • 1d ago
+Bloomberg.com • 2d ago
 
 ---
 
@@ -293,7 +293,7 @@ New York Times report claims London-born Adam Back is creator of the cryptocurre
 
 Bitcoin Core Will Maintain the Protocol. It May Not Save It. The reference implementation that sustains a $1.4 trillion network continues to produce quality code while losing the institutional capa...
 
-⬆️ 3 • 💬 0 • 4h ago • [GitHub](https://github.com/bitcoin/bitcoin/issues/35055)
+⬆️ 3 • 💬 0 • 5h ago • [GitHub](https://github.com/bitcoin/bitcoin/issues/35055)
 
 ---
 
@@ -333,7 +333,7 @@ Everyone is distracted by Satoshi theories while real money floods into Bitcoin.
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 1K • 💬 84 • ⏱️ 10:48 • 12h ago
+👁️ 19K • 👍 1K • 💬 84 • ⏱️ 10:48 • 13h ago
 
 ---
 
@@ -343,7 +343,7 @@ Plenty of crypto newbies lost money chasing the bitcoin boom that followed Donal
 
 📺 Forbes
 
-👁️ 46K • 👍 1K • 💬 187 • ⏱️ 5:05 • 15h ago
+👁️ 46K • 👍 1K • 💬 187 • ⏱️ 5:05 • 16h ago
 
 ---
 
@@ -353,7 +353,7 @@ My Trading Signals https://discord.com/invite/jRAnCV9CTB Trade on MEXC ...
 
 📺 Road To $1 Million USD
 
-👁️ 3K • 👍 195 • 💬 9 • ⏱️ 7:04 • 11h ago
+👁️ 3K • 👍 195 • 💬 9 • ⏱️ 7:04 • 12h ago
 
 ---
 
@@ -403,7 +403,7 @@ Coinbase Global (NASDAQ: $COIN) CEO Brian Armstrong is calling for the passage i
 
 📺 Paul Barron Network
 
-👁️ 42K • 👍 2K • 💬 243 • ⏱️ 33:50 • 14h ago
+👁️ 42K • 👍 2K • 💬 243 • ⏱️ 33:50 • 15h ago
 
 ---
 

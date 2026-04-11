@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-11T09:40:58.949744+00:00'
+updated: '2026-04-11T10:36:01.015229+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 11, 2026 at 09:40 UTC  
+**Last Updated:** April 11, 2026 at 10:36 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,15 @@ Robotics research and industry news
 
 **[XSTO introduces a hybrid biped robot that rolls on wheels and jumps over obstacles](https://www.reddit.com/r/robotics/comments/1shskju/xsto_introduces_a_hybrid_biped_robot_that_rolls/)**
 
-16h ago
+17h ago
+
+---
+
+**[People with 10+ years in industrial automation - is the robotics hype matching reality on the floor?](https://www.reddit.com/r/robotics/comments/1siej3f/people_with_10_years_in_industrial_automation_is/)**
+
+I've been seeing a lot of noise from the tech world about robotics being the next big wave. Curious what people actually deploying and maintaining these systems think. What's working, what's vaporware, and what does the gap between a demo and a real production deployment actually look like?
+
+1h ago
 
 ---
 
@@ -42,7 +50,15 @@ Robotics research and industry news
 
 58 Home partnered with X Square Robot to launch a cleaning service in Shenzhen where a human cleaner shows up with a robot partner. The robot handles structured tasks like wiping surfaces, picking up debris, and tidying, while the human handles everything that requires judgment. What makes this interesting from a technical standpoint: the robot runs on an end-to-end VLA (Vision-Language-Action) model called WALL-A that takes video and language input and outputs motor commands directly with no intermediate planning layer. But the real story isn't the model architecture, it's the deployment strategy. The company frames this as "grass-fed vs grain-fed" training data. Models trained on clean lab data perform well in controlled environments but fall apart in real homes where every apartment has a different layout, random clutter on the floor, pets walking through the workspace, kids' toys in unpredictable places. You can see in this video exactly why that matters: the robot is navigating around a Corgi, working in a room absolutely covered in children's toys, and dealing with narrow doorways in a real Chinese apartment. None of this is a problem you'd encounter in a lab. A few years ago this kind of footage would have been a staged demo. The fact that it's a paying service operating in real apartments suggests robots in everyday homes are closer than most people think.
 
-19h ago
+20h ago
+
+---
+
+**[Yaskawa details](https://www.reddit.com/r/robotics/comments/1sidxld/yaskawa_details/)**
+
+I'm currently working on a Yaskawa Ms-100 with Dx100, changing a wrist unit. The manual we have is for a MS-100II with DX200. This manual says the wrist uses flange sealant. We removed the wrist and found that there is an O-ring. The manual does not show this O-ring on the parts list or diagram. I cannot find a MS100 specific manual on Yaskawa's site, only the MS100II. Is anyone familiar with these that could offer some advice?
+
+1h ago
 
 ---
 
@@ -58,7 +74,7 @@ Context and Setup : Ros2 Humble , Gazebo Ignition Fortress . Ubuntu 22.04 I am t
 
 How do u solve a problem of Coverage path planning ? I’m stuck at generating a trajectory for coordinates with surface normals. Whats the ideal approach to tackle the trajectory generation which would cover the whole region.
 
-4h ago
+5h ago
 
 ---
 
@@ -72,6 +88,14 @@ How do u solve a problem of Coverage path planning ? I’m stuck at generating a
 
 We are publishing our first deep dive on what we believe is one of the most challenging layers in egocentric data - SLAM and VIO in the context of long-horizon state tracking. We break down how SLAM and VIO fail in egocentric settings - visual features vanish at close range, depth sensors saturate, fast head motion blurs frames, and these failures don't always occur in isolation. They hit at the exact same moment, leading to compounding errors and making the downstream data unusable. We believe the foundation for high-quality egocentric data demands sub-centimeter precision over long episodes ranging from a few minutes to up to an hour. You can find more at fpv_labs
 
+21h ago
+
+---
+
+**[I built an agent that can design electric circuits. Then another that can design CAD. Would you try it for your next project?](https://www.reddit.com/r/robotics/comments/1shobix/i_built_an_agent_that_can_design_electric/)**
+
+You can try it at flomotion.app it took me a few months to build it. For now it's basically free AI. I would appreciate if you could tell me how to make it better and more useful. I learned a lot about robotics while building and testing it.
+
 20h ago
 
 ---
@@ -80,27 +104,7 @@ We are publishing our first deep dive on what we believe is one of the most chal
 
 Been working on a pipeline to automate physics setup for sim-to-real workflows. Given a 3D mesh (.obj/.glb), it: computes geometry (volume, bounding box, watertightness) estimates material + density derives mass, friction, restitution generates domain randomization ranges exports multiple MuJoCo XMLs for different surface/fill conditions Example (ceramic mug): 9 profiles (empty/half/full × clean/worn/contaminated) mass: 0.5 - 2.25 kg friction down to 0.175 (contaminated) DR bounds auto-generated per profile Goal is to remove manual tuning of object physics during sim setup. Curious where this would break in real pipelines or what edge cases I’m missing, especially around non watertight meshes or unusual materials.
 
-18h ago
-
----
-
-**[I built an agent that can design electric circuits. Then another that can design CAD. Would you try it for your next project?](https://www.reddit.com/r/robotics/comments/1shobix/i_built_an_agent_that_can_design_electric/)**
-
-You can try it at flomotion.app it took me a few months to build it. For now it's basically free AI. I would appreciate if you could tell me how to make it better and more useful. I learned a lot about robotics while building and testing it.
-
 19h ago
-
----
-
-**[Now they are full grown 😀 (audio with detailed description on the hardware and power supply)](https://www.reddit.com/r/robotics/comments/1sh4kuq/now_they_are_full_grown_audio_with_detailed/)**
-
-1d ago
-
----
-
-**[Anyone still using Sony IMX291 cameras for low-light industrial setups?](https://www.reddit.com/r/robotics/comments/1shrpmf/anyone_still_using_sony_imx291_cameras_for/)**
-
-17h ago
 
 ---
 
@@ -116,19 +120,19 @@ IFR International Federation of Robotics • 3d ago
 
 ---
 
-**[New humanoid robots replacing workers in factories](https://www.nbcnews.com/video/shorts/new-humanoid-robots-replacing-workers-in-factories-261041221991)**
-
-Meet 'Digit', a humanoid robotic worker made by Agility Robotics, now part of a new wave of robots replacing workers at companies like Schaeffler, Toyota, and GXO. NBC News' Brian Cheung takes a look.
-
-NBC News • 1d ago
-
----
-
 **[Humanoid robots hit mass production in China](https://www.foxnews.com/tech/humanoid-robots-hit-mass-production-china)**
 
 A Chinese factory is producing humanoid robots every 30 minutes, marking a shift toward large-scale manufacturing and broader adoption.
 
 Fox News • 1d ago
+
+---
+
+**[New humanoid robots replacing workers in factories](https://www.nbcnews.com/video/shorts/new-humanoid-robots-replacing-workers-in-factories-261041221991)**
+
+Meet 'Digit', a humanoid robotic worker made by Agility Robotics, now part of a new wave of robots replacing workers at companies like Schaeffler, Toyota, and GXO. NBC News' Brian Cheung takes a look.
+
+NBC News • 1d ago
 
 ---
 
@@ -172,15 +176,15 @@ The Maritime Executive • 1d ago
 
 ---
 
-**[National robotics push caught in delayed Trump-Xi meeting](https://www.politico.com/news/2026/04/09/national-robotics-trump-xi-china-00861918)**
-
-Politico • 2d ago
-
----
-
 **[Electrofluidic fiber muscles could enable silent robotic systems](https://techxplore.com/news/2026-04-electrofluidic-fiber-muscles-enable-silent.html)**
 
 Tech Xplore • 1d ago
+
+---
+
+**[National robotics push caught in delayed Trump-Xi meeting](https://www.politico.com/news/2026/04/09/national-robotics-trump-xi-china-00861918)**
+
+Politico • 2d ago
 
 ---
 
@@ -244,7 +248,7 @@ Join the Marvel Strike Force 8th Anniversary Event NOW: https://bit.ly/4m9Pyon U
 
 📺 Manni-Gaming
 
-👁️ 11K • 👍 596 • 💬 102 • ⏱️ 16:14 • 18h ago
+👁️ 11K • 👍 596 • 💬 102 • ⏱️ 16:14 • 19h ago
 
 ---
 
@@ -252,7 +256,7 @@ Join the Marvel Strike Force 8th Anniversary Event NOW: https://bit.ly/4m9Pyon U
 
 📺 Just the Bells 10
 
-👁️ 11K • 👍 744 • 💬 37 • ⏱️ 0:33 • 8h ago
+👁️ 11K • 👍 744 • 💬 37 • ⏱️ 0:33 • 9h ago
 
 ---
 
