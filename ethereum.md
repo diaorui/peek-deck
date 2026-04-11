@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-11T04:33:36.651854+00:00'
+updated: '2026-04-11T06:01:55.121226+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 11, 2026 at 04:33 UTC  
+**Last Updated:** April 11, 2026 at 06:01 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,240.94
+### $2,232.46
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.0%  
-**7d:** +6.2%  
-**30d:** +7.0%  
-**90d:** -27.7%  
-**1y:** +36.1%  
+**24h:** +2.5%  
+**7d:** +5.8%  
+**30d:** +6.7%  
+**90d:** -27.9%  
+**1y:** +35.7%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 So I went back through my wallet history and used a couple of MEV tracking tools to figure out how much value I actually lost to sandwich attacks and front-running over the past 6 months. not gonna share exact numbers but it was enough to make me seriously rethink where and how I trade on-chain. the thing that pissed me off the most wasn't even the big trades. it was the small ones. $200-500 swaps getting sandwiched for a few bucks each time. doesn't feel like much in the moment but it adds up fast when you're making multiple trades a week. what I learned: AMMs are basically open season for MEV bots. your trade hits the mempool and you're cooked private RPCs like flashbots protect help but they're not a complete solution. you're still trusting the builder not to screw you intent-based systems (cow swap etc) are better but they introduce solver trust assumptions and don't work for everything the only architecture where MEV extraction is structurally impossible is one where transaction ordering is provable and verifiable. not hidden, not trusted, but mathematically proven to be fair honestly the biggest takeaway is that most people have no idea how much they're losing. the "invisible tax" framing is accurate. you never see a line item that says "MEV bot took $4.50 from this trade" but it's happening on basically every swap. anyone else tracked their MEV losses? curious what numbers people are seeing. also curious if anyone has found a setup that actually eliminates it, not just reduces it.
 
-18h ago
+20h ago
 
 ---
 
@@ -80,7 +80,7 @@ So I went back through my wallet history and used a couple of MEV tracking tools
 
 Roman Storm acquittal hearing, ETHGlobal Cannes hackathon finalists, EVM Now block explorer
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-19/) • 14h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-19/) • 15h ago
 
 ---
 
@@ -88,7 +88,7 @@ Roman Storm acquittal hearing, ETHGlobal Cannes hackathon finalists, EVM Now blo
 
 Ethereum developers align on Glamsterdam devnet progress, Hegota Account Abstraction direction, & key execution layer upgrades shaping the roadmap.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-234/) • 20h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-234/) • 21h ago
 
 ---
 
@@ -112,7 +112,7 @@ World Liberty Financial deposited 3B WLFI tokens as collateral to borrow $50M of
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -144,7 +144,7 @@ I just built ethlocal.world: a simple way to explore Ethereum activity around th
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -160,19 +160,19 @@ Decrypt • 1d ago
 
 ---
 
+**[Ethereum Mirrors A 2023 Setup As Buyers Take Control Of Derivatives On Binance](https://www.tradingview.com/news/newsbtc:cc4620f37094b:0-ethereum-mirrors-a-2023-setup-as-buyers-take-control-of-derivatives-on-binance/)**
+
+Ethereum is pushing toward $2,200. The macro environment is uncertain. And top analyst Darkfost has identified a signal in the derivatives market that has not appeared in nearly three years — emerging at precisely the moment the price is testing a level that matters.The signal comes from the ETH Ta…
+
+TradingView • 1h ago
+
+---
+
 **[Bitcoin and ethereum prices today, Friday, April 10, 2026: Prices rise ahead of CPI report](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-april-10-2026-prices-rise-ahead-of-cpi-report-111733660.html)**
 
 Bitcoin opened at $71,783.52 on Friday and then rose slightly in early trading. Ethereum showed the same trend, opening at $2,189.99 and rising somewhat in early hours.
 
-Yahoo Finance • 17h ago
-
----
-
-**[Capital Is Rotating From Bitcoin To Ethereum – On-Chain Data Shows It Is Not Over](https://www.tradingview.com/news/newsbtc:f12427177094b:0-capital-is-rotating-from-bitcoin-to-ethereum-on-chain-data-shows-it-is-not-over/)**
-
-Ethereum is holding above key price levels as the market prepares for a decisive move. The chart looks constructive. The March data from XWIN Research Japan explains why the chart may be understating what is actually happening beneath it.The report documents a capital rotation that played out in pl…
-
-TradingView • 2h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -180,7 +180,7 @@ TradingView • 2h ago
 
 The crypto market has rebounded, with Bitcoin rising 10% over the last eight days and Ethereum up 12% in the same period. The total market cap is now up
 
-Coinpedia Fintech News • 13h ago
+Coinpedia Fintech News • 14h ago
 
 ---
 
@@ -196,7 +196,7 @@ Yahoo Finance • 1d ago
 
 Bitmine Immersion's hybrid model combines large-scale ETH holdings, with MAVAN projected to generate $300 million annually. Learn why BMNR stock is a strong buy.
 
-Seeking Alpha • 17h ago
+Seeking Alpha • 19h ago
 
 ---
 
@@ -220,11 +220,11 @@ The Block • 2d ago
 
 ---
 
-**[Crypto News: Pepeto Announces Binance Level Exchange Update While Ethereum Price Prediction Maps Path to $7,500](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-announces-binance-level-exchange-update-while-ethereum-price-prediction-maps-path-to-7-500-1036012554)**
+**[Ethereum staking ratio hits record high at 30%](https://www.thestreet.com/crypto/markets/ethereum-staking-ratio-hits-record-high-at-30)**
 
-Dubai, UAE, April  10, 2026  (GLOBE NEWSWIRE) -- Pepeto just hit a major checkpoint on its Binance level exchange, pushing the zero fee swap engin...
+Ethereum still occupies the top spot among staking-based blockchains.
 
-markets.businessinsider.com • 3h ago
+thestreet.com • 15h ago
 
 ---
 
@@ -238,7 +238,7 @@ In this video, I take a closer look at the current Ethereum market structure and
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 179 • 💬 12 • ⏱️ 9:25 • 9h ago
+👁️ 3K • 👍 179 • 💬 12 • ⏱️ 9:25 • 10h ago
 
 ---
 
@@ -258,7 +258,7 @@ During COVID, Entrepreneur Sandy Sandiford and his partners made an unusual inve
 
 📺 Conversations Are Key Podcast
 
-👁️ 1K • 👍 15 • 💬 1 • ⏱️ 0:49 • 4h ago
+👁️ 1K • 👍 15 • 💬 1 • ⏱️ 0:49 • 6h ago
 
 ---
 
@@ -268,7 +268,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 293 • 👍 62 • ⏱️ 5:58 • 1h ago
+👁️ 293 • 👍 62 • ⏱️ 5:58 • 3h ago
 
 ---
 
@@ -278,7 +278,7 @@ Daily BTC, ETH, TSLA trades. Subscribe. Bybit bonus up to $30000 https://partner
 
 📺 James Crypto Guru
 
-👁️ 413 • 💬 2 • ⏱️ 10:43 • 4h ago
+👁️ 413 • 💬 2 • ⏱️ 10:43 • 5h ago
 
 ---
 
@@ -288,7 +288,7 @@ BITCOIN BREAKOUT CONFIRMED (Short Squeeze Now)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 3K • 👍 191 • 💬 293 • ⏱️ 20:46 • 6h ago
+👁️ 3K • 👍 191 • 💬 293 • ⏱️ 20:46 • 7h ago
 
 ---
 
@@ -298,7 +298,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 197 • 👍 13 • ⏱️ 4:53 • 19h ago
+👁️ 197 • 👍 13 • ⏱️ 4:53 • 21h ago
 
 ---
 
