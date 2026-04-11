@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-11T10:36:01.012079+00:00'
+updated: '2026-04-11T11:30:49.860753+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - cryptocurrency
+- news
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 11, 2026 at 10:36 UTC  
+**Last Updated:** April 11, 2026 at 11:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -80,7 +80,7 @@ So I went back through my wallet history and used a couple of MEV tracking tools
 
 Roman Storm acquittal hearing, ETHGlobal Cannes hackathon finalists, EVM Now block explorer
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-19/) • 20h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-19/) • 21h ago
 
 ---
 
@@ -172,7 +172,7 @@ TradingView • 1h ago
 
 Bitcoin opened at $71,783.52 on Friday and then rose slightly in early trading. Ethereum showed the same trend, opening at $2,189.99 and rising somewhat in early hours.
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -194,7 +194,7 @@ Seeking Alpha • 1d ago
 
 The crypto market has rebounded, with Bitcoin rising 10% over the last eight days and Ethereum up 12% in the same period. The total market cap is now up
 
-Coinpedia Fintech News • 19h ago
+Coinpedia Fintech News • 20h ago
 
 ---
 
@@ -210,7 +210,7 @@ The Block • 2d ago
 
 Dubai, UAE, April  10, 2026  (GLOBE NEWSWIRE) -- Pepeto just hit a major checkpoint on its Binance level exchange, pushing the zero fee swap engin...
 
-markets.businessinsider.com • 9h ago
+markets.businessinsider.com • 10h ago
 
 ---
 
@@ -218,7 +218,7 @@ markets.businessinsider.com • 9h ago
 
 Ethereum still occupies the top spot among staking-based blockchains.
 
-thestreet.com • 20h ago
+thestreet.com • 21h ago
 
 ---
 
@@ -226,7 +226,7 @@ thestreet.com • 20h ago
 
 Ethereum's evolving roadmap raises questions about its future cycles and valuation challenges amid market uncertainty.
 
-Crypto Briefing • 9h ago
+Crypto Briefing • 10h ago
 
 ---
 
@@ -250,7 +250,7 @@ In this video, I take a closer look at the current Ethereum market structure and
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 194 • 💬 13 • ⏱️ 9:25 • 15h ago
+👁️ 3K • 👍 194 • 💬 13 • ⏱️ 9:25 • 16h ago
 
 ---
 
@@ -260,7 +260,7 @@ In this video we talk about developments in the Ethereum ecosystem, covering bot
 
 📺 Elijah Cheng
 
-👁️ 5K • 👍 192 • 💬 35 • ⏱️ 37:25 • 18h ago
+👁️ 5K • 👍 192 • 💬 35 • ⏱️ 37:25 • 19h ago
 
 ---
 
@@ -270,7 +270,7 @@ During COVID, Entrepreneur Sandy Sandiford and his partners made an unusual inve
 
 📺 Conversations Are Key Podcast
 
-👁️ 1K • 👍 15 • 💬 1 • ⏱️ 0:49 • 10h ago
+👁️ 1K • 👍 15 • 💬 1 • ⏱️ 0:49 • 11h ago
 
 ---
 
@@ -280,7 +280,7 @@ Coinbase Global (NASDAQ: $COIN) CEO Brian Armstrong is calling for the passage i
 
 📺 Paul Barron Network
 
-👁️ 42K • 👍 2K • 💬 243 • ⏱️ 33:50 • 15h ago
+👁️ 42K • 👍 2K • 💬 243 • ⏱️ 33:50 • 16h ago
 
 ---
 
@@ -290,7 +290,7 @@ BITCOIN BREAKOUT CONFIRMED (Short Squeeze Now)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 4K • 👍 226 • 💬 293 • ⏱️ 20:46 • 12h ago
+👁️ 4K • 👍 226 • 💬 293 • ⏱️ 20:46 • 13h ago
 
 ---
 
@@ -310,7 +310,7 @@ Daily BTC, ETH, TSLA trades. Subscribe. Bybit bonus up to $30000 https://partner
 
 📺 James Crypto Guru
 
-👁️ 817 • 💬 8 • ⏱️ 10:43 • 10h ago
+👁️ 817 • 💬 8 • ⏱️ 10:43 • 11h ago
 
 ---
 
@@ -320,7 +320,7 @@ In this video, we break down everything happening with BMNR stock, including its
 
 📺 BiGB Stcok
 
-👁️ 590 • 👍 27 • 💬 42 • ⏱️ 9:32 • 14h ago
+👁️ 590 • 👍 27 • 💬 42 • ⏱️ 9:32 • 15h ago
 
 ---
 

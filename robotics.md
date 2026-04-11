@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-11T10:36:01.015229+00:00'
+updated: '2026-04-11T11:30:49.863519+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 11, 2026 at 10:36 UTC  
+**Last Updated:** April 11, 2026 at 11:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[XSTO introduces a hybrid biped robot that rolls on wheels and jumps over obstacles](https://www.reddit.com/r/robotics/comments/1shskju/xsto_introduces_a_hybrid_biped_robot_that_rolls/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -50,7 +50,7 @@ I've been seeing a lot of noise from the tech world about robotics being the nex
 
 58 Home partnered with X Square Robot to launch a cleaning service in Shenzhen where a human cleaner shows up with a robot partner. The robot handles structured tasks like wiping surfaces, picking up debris, and tidying, while the human handles everything that requires judgment. What makes this interesting from a technical standpoint: the robot runs on an end-to-end VLA (Vision-Language-Action) model called WALL-A that takes video and language input and outputs motor commands directly with no intermediate planning layer. But the real story isn't the model architecture, it's the deployment strategy. The company frames this as "grass-fed vs grain-fed" training data. Models trained on clean lab data perform well in controlled environments but fall apart in real homes where every apartment has a different layout, random clutter on the floor, pets walking through the workspace, kids' toys in unpredictable places. You can see in this video exactly why that matters: the robot is navigating around a Corgi, working in a room absolutely covered in children's toys, and dealing with narrow doorways in a real Chinese apartment. None of this is a problem you'd encounter in a lab. A few years ago this kind of footage would have been a staged demo. The fact that it's a paying service operating in real apartments suggests robots in everyday homes are closer than most people think.
 
-20h ago
+21h ago
 
 ---
 
@@ -58,7 +58,7 @@ I've been seeing a lot of noise from the tech world about robotics being the nex
 
 I'm currently working on a Yaskawa Ms-100 with Dx100, changing a wrist unit. The manual we have is for a MS-100II with DX200. This manual says the wrist uses flange sealant. We removed the wrist and found that there is an O-ring. The manual does not show this O-ring on the parts list or diagram. I cannot find a MS100 specific manual on Yaskawa's site, only the MS100II. Is anyone familiar with these that could offer some advice?
 
-1h ago
+2h ago
 
 ---
 
@@ -66,7 +66,7 @@ I'm currently working on a Yaskawa Ms-100 with Dx100, changing a wrist unit. The
 
 Context and Setup : Ros2 Humble , Gazebo Ignition Fortress . Ubuntu 22.04 I am trying to make a SLAM robot this was my model with Lidar (laser_frame) in Rviz current I am publishing to cmd_vel to rotate the bot but along with the bot the 2D point cloud is also rotating in Rviz. is this normal or a problem (actually having issues with mapping too) tf: Map ->odom -> base_footprint-> base_link -> laser_frame Please help , stuck here.
 
-14h ago
+15h ago
 
 ---
 
@@ -74,7 +74,7 @@ Context and Setup : Ros2 Humble , Gazebo Ignition Fortress . Ubuntu 22.04 I am t
 
 How do u solve a problem of Coverage path planning ? I’m stuck at generating a trajectory for coordinates with surface normals. Whats the ideal approach to tackle the trajectory generation which would cover the whole region.
 
-5h ago
+6h ago
 
 ---
 
@@ -88,7 +88,7 @@ How do u solve a problem of Coverage path planning ? I’m stuck at generating a
 
 We are publishing our first deep dive on what we believe is one of the most challenging layers in egocentric data - SLAM and VIO in the context of long-horizon state tracking. We break down how SLAM and VIO fail in egocentric settings - visual features vanish at close range, depth sensors saturate, fast head motion blurs frames, and these failures don't always occur in isolation. They hit at the exact same moment, leading to compounding errors and making the downstream data unusable. We believe the foundation for high-quality egocentric data demands sub-centimeter precision over long episodes ranging from a few minutes to up to an hour. You can find more at fpv_labs
 
-21h ago
+22h ago
 
 ---
 
@@ -104,7 +104,7 @@ You can try it at flomotion.app it took me a few months to build it. For now it'
 
 Been working on a pipeline to automate physics setup for sim-to-real workflows. Given a 3D mesh (.obj/.glb), it: computes geometry (volume, bounding box, watertightness) estimates material + density derives mass, friction, restitution generates domain randomization ranges exports multiple MuJoCo XMLs for different surface/fill conditions Example (ceramic mug): 9 profiles (empty/half/full × clean/worn/contaminated) mass: 0.5 - 2.25 kg friction down to 0.175 (contaminated) DR bounds auto-generated per profile Goal is to remove manual tuning of object physics during sim setup. Curious where this would break in real pipelines or what edge cases I’m missing, especially around non watertight meshes or unusual materials.
 
-19h ago
+20h ago
 
 ---
 
@@ -248,7 +248,7 @@ Join the Marvel Strike Force 8th Anniversary Event NOW: https://bit.ly/4m9Pyon U
 
 📺 Manni-Gaming
 
-👁️ 11K • 👍 596 • 💬 102 • ⏱️ 16:14 • 19h ago
+👁️ 11K • 👍 596 • 💬 102 • ⏱️ 16:14 • 20h ago
 
 ---
 
@@ -256,7 +256,7 @@ Join the Marvel Strike Force 8th Anniversary Event NOW: https://bit.ly/4m9Pyon U
 
 📺 Just the Bells 10
 
-👁️ 11K • 👍 744 • 💬 37 • ⏱️ 0:33 • 9h ago
+👁️ 11K • 👍 744 • 💬 37 • ⏱️ 0:33 • 10h ago
 
 ---
 
@@ -276,7 +276,7 @@ I spent 100 hours in the world's most futuristic city! WATCH MORE videos we film
 
 📺 Hafu Go
 
-👁️ 848K • 👍 8K • 💬 313 • ⏱️ 25:46 • 6d ago
+👁️ 848K • 👍 8K • 💬 313 • ⏱️ 25:46 • 7d ago
 
 ---
 
