@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-11T22:34:02.247860+00:00'
+updated: '2026-04-11T23:36:09.028298+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
-- cryptocurrency
 - videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 11, 2026 at 22:34 UTC  
+**Last Updated:** April 11, 2026 at 23:36 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $73,314.45
+### $73,113.69
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** +6.3%  
-**30d:** +3.3%  
-**90d:** -19.6%  
-**1y:** -14.0%  
+**24h:** +0.4%  
+**7d:** +6.0%  
+**30d:** +3.0%  
+**90d:** -19.9%  
+**1y:** -14.2%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Iran’s Strait of Hormuz Management Plan, passed in late March 2026, mandates Bitcoin toll payments. Each fully laden tanker carrying 2 million barrels faces a Bitcoin toll of up to $2 million. Bitcoin surged toward $73,000 as shipping firms faced the prospect of stockpiling BTC for tolls. Stablecoins were rejected due to freeze functions and GENIUS framework compliance requirements.
 
-🔗 [Blockonomi](https://blockonomi.com/iran-enforces-bitcoin-as-the-only-means-to-pay-toll-on-strait-of-hormuz/) • 2h ago
+🔗 [Blockonomi](https://blockonomi.com/iran-enforces-bitcoin-as-the-only-means-to-pay-toll-on-strait-of-hormuz/) • 3h ago
 
 ---
 
@@ -89,7 +89,7 @@ Iran’s Strait of Hormuz Management Plan, passed in late March 2026, mandates B
 
 If you can get to 1 Bitcoin, you are ahead of 99.9% of humanity. That sounds ridiculous, but the math is real. In this video, I break down just how rare it is to own a full Bitcoin, and why not every millionaire on Earth can get one.
 
-🔗 [youtu.be](https://youtu.be/5Al_yE9il2o) • 4h ago
+🔗 [youtu.be](https://youtu.be/5Al_yE9il2o) • 5h ago
 
 ---
 
@@ -97,7 +97,7 @@ If you can get to 1 Bitcoin, you are ahead of 99.9% of humanity. That sounds rid
 
 Well i guess it’s time we rip! A boomer told me that the best assets are tangible ones etc houses and alike. A non investor told me to stay in cash cuz market will collapse lol Knowing Donald dump he will pump the markets for midterms.
 
-7h ago
+8h ago
 
 ---
 
@@ -105,13 +105,7 @@ Well i guess it’s time we rip! A boomer told me that the best assets are tangi
 
 B-b-but the cycle... Stop. This is not the past. It doesn't follow the imaginary lines people make up to feel in control. It can legit shoot up from here, and if it "follows the cycle and goes down" it doesn't mean it will have to go up again. For now, it looks like the train is leaving the station.
 
-3h ago
-
----
-
-**[My university's business school moved to a new building and we're now in the Satoshi floor. Is this a sign?](https://www.reddit.com/r/Bitcoin/comments/1si9i7t/my_universitys_business_school_moved_to_a_new/)**
-
-17h ago
+4h ago
 
 ---
 
@@ -119,15 +113,21 @@ B-b-but the cycle... Stop. This is not the past. It doesn't follow the imaginary
 
 Wiki for Bitcoin Core development. Contribute to bitcoin-core/bitcoin-devwiki development by creating an account on GitHub.
 
-🔗 [GitHub](https://github.com/bitcoin-core/bitcoin-devwiki/wiki/31.0-Release-Candidate-Testing-Guide) • 5h ago
+🔗 [GitHub](https://github.com/bitcoin-core/bitcoin-devwiki/wiki/31.0-Release-Candidate-Testing-Guide) • 6h ago
 
 ---
 
-**[Why is the volume lower on weekends?](https://www.reddit.com/r/Bitcoin/comments/1sifa3k/why_is_the_volume_lower_on_weekends/)**
+**[My university's business school moved to a new building and we're now in the Satoshi floor. Is this a sign?](https://www.reddit.com/r/Bitcoin/comments/1si9i7t/my_universitys_business_school_moved_to_a_new/)**
 
-The stock market is closed on weekend. Bitcoin is one of the few assets that can be traded on weekend. By my understanding, that would mean bitcoins volume should be higher on weekend than on weekdays because traders cant trade stocks, so trading focused on bitcoin. But bitcoins volume on weekends is actually lower than on weekdays, despite weekend, by my logic, being the time frame where everyone would jump to bitcoin because the stock market is closed
+18h ago
 
-12h ago
+---
+
+**[With Bitcoin now being accepted by Iran, will this lead to blacklisting of coins?](https://www.reddit.com/r/Bitcoin/comments/1siwr6l/with_bitcoin_now_being_accepted_by_iran_will_this/)**
+
+Will governments seek to freeze or ban btc that has passed through Iranian wallets? Will they punish individuals or organizations that accept or spend tainted btc? At 2 million dollars per tanker, that adds up quickly.
+
+1h ago
 
 ---
 
@@ -135,23 +135,23 @@ The stock market is closed on weekend. Bitcoin is one of the few assets that can
 
 I like knowing that I’m one of the miners working to clear my own transaction, and that if I succeed, the fees I’m paying will come back to me. I have very little hash power, so the odds are astronomical, but I enjoy the feeling of participation and increased connection to how the technology works.
 
-2h ago
+3h ago
 
 ---
 
-**[12 years ago I entered and exited BTC](https://www.reddit.com/r/Bitcoin/comments/1shuh5p/12_years_ago_i_entered_and_exited_btc/)**
+**[BIP-85 child seed with lightning wallet](https://www.reddit.com/r/Bitcoin/comments/1sirz4s/bip85_child_seed_with_lightning_wallet/)**
 
-I made around 100% in 3 weeks and was happy with that 🫡🫣
+I wanted to use a BIP-85 child seed with a lightning wallet (which naturally also supports on-chain) and apparently it wasn't possible. I tried with Aqua and with Phoenix, but they both state that you can only restore a wallet with seeds generated from that same wallet... What's up with that? It kind of defeats the purpose of having only one seed to rule them all. Is this a limitation on all lightning wallets? Does anyone know of a wallet where it is possible to do it? Thanks in advance.
 
-1d ago
+4h ago
 
 ---
 
-**[Is the 'Halving' becoming a self-fulfilling prophecy for the bots in 2026?](https://www.reddit.com/r/Bitcoin/comments/1sijh99/is_the_halving_becoming_a_selffulfilling_prophecy/)**
+**[Why is the volume lower on weekends?](https://www.reddit.com/r/Bitcoin/comments/1sifa3k/why_is_the_volume_lower_on_weekends/)**
 
-Every cycle we talk about the supply shock, but I’m noticing that volatility is increasingly front-run by institutional algorithms months in advance. Are we reaching a point where the Halving is fully priced in by the time it actually happens? As a developer, I’m seeing more "smart money" infrastructure being built around predicting bot behavior rather than actual supply changes. What’s your take? Is the halving still a factor, or just a scheduled volatility event for the algos?
+The stock market is closed on weekend. Bitcoin is one of the few assets that can be traded on weekend. By my understanding, that would mean bitcoins volume should be higher on weekend than on weekdays because traders cant trade stocks, so trading focused on bitcoin. But bitcoins volume on weekends is actually lower than on weekdays, despite weekend, by my logic, being the time frame where everyone would jump to bitcoin because the stock market is closed
 
-8h ago
+13h ago
 
 ---
 
@@ -159,33 +159,19 @@ Every cycle we talk about the supply shock, but I’m noticing that volatility i
 
 ## Google News: "bitcoin"
 
-**[Bitcoin price analysis: BTC sellers might be running out of steam](https://www.coindesk.com/markets/2026/04/11/bitcoin-signals-potential-seller-exhaustion-as-realized-losses-decline)**
+**[Musk’s SpaceX holds $603 million in bitcoin despite $5 billion loss stemming from xAI](https://www.coindesk.com/markets/2026/04/11/musk-s-spacex-holds-usd603-million-in-bitcoin-despite-usd5-billion-loss-stemming-from-xai)**
 
-On-chain data points to easing selling pressure, with realized losses falling and spot markets shifting toward net buying.
+Arkham data shows 8,285 BTC in Coinbase Prime custody as the company swings from $8 billion profit to nearly $5 billion loss ahead of its IPO push.
 
 CoinDesk • 4h ago
 
 ---
 
-**[Bitcoin, broader market flat as U.S.-Iran negotiations begin](https://www.coindesk.com/markets/2026/04/11/bitcoin-broader-market-flat-as-u-s-iran-negotiations-begin)**
+**[Forget Bitcoin ETFs; This Is How Crypto Is Really Going Mainstream](https://www.fool.com/investing/2026/04/11/this-is-how-crypto-is-going-mainstream/)**
 
-The market rose over the week after a two-week ceasefire was announced, triggering a derivatives short squeeze that wiped out over $430 million in bearish positions.
+Everyone's talking about Bitcoin ETFs. Almost nobody is talking about this bigger shift in how money moves on digital rails.
 
-CoinDesk • 6h ago
-
----
-
-**[U.S. Treasury Secretary Fuels Huge $1.5 Quadrillion Crypto Prediction As The Bitcoin Price Suddenly Soars](https://www.forbes.com/sites/digital-assets/2026/04/11/us-treasury-secretary-fuels-huge-15-quadrillion-crypto-prediction-as-the-bitcoin-price-suddenly-soars/)**
-
-Forbes • 11h ago
-
----
-
-**[Zcash Jumped 49% Last Week As Privacy Coins Outperform Bitcoin and Ethereum](https://finance.yahoo.com/markets/crypto/articles/zcash-jumped-49-last-week-211200076.html)**
-
-Zcash and Dash (CRYPTO: $DASH) outpaced bitcoin (CRYPTO: $BTC) and ether (CRYPTO: $ETH) this week as a broader reli...
-
-Yahoo Finance • 1h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -195,17 +181,33 @@ MarketWatch • 1d ago
 
 ---
 
-**[Unmasking the Creator of Bitcoin](https://www.nytimes.com/2026/04/09/podcasts/the-daily/satoshi-nakamoto-bitcoin-creator.html)**
+**[Bitcoin price analysis: BTC sellers might be running out of steam](https://www.coindesk.com/markets/2026/04/11/bitcoin-signals-potential-seller-exhaustion-as-realized-losses-decline)**
 
-The New York Times • 2d ago
+On-chain data points to easing selling pressure, with realized losses falling and spot markets shifting toward net buying.
+
+CoinDesk • 5h ago
 
 ---
 
-**[Forget Bitcoin ETFs; This Is How Crypto Is Really Going Mainstream](https://www.fool.com/investing/2026/04/11/this-is-how-crypto-is-going-mainstream/)**
+**[Bitcoin, broader market flat as U.S.-Iran negotiations begin](https://www.coindesk.com/markets/2026/04/11/bitcoin-broader-market-flat-as-u-s-iran-negotiations-begin)**
 
-Everyone's talking about Bitcoin ETFs. Almost nobody is talking about this bigger shift in how money moves on digital rails.
+The market rose over the week after a two-week ceasefire was announced, triggering a derivatives short squeeze that wiped out over $430 million in bearish positions.
 
-The Motley Fool • 2h ago
+CoinDesk • 7h ago
+
+---
+
+**[U.S. Treasury Secretary Fuels Huge $1.5 Quadrillion Crypto Prediction As The Bitcoin Price Suddenly Soars](https://www.forbes.com/sites/digital-assets/2026/04/11/us-treasury-secretary-fuels-huge-15-quadrillion-crypto-prediction-as-the-bitcoin-price-suddenly-soars/)**
+
+Forbes • 12h ago
+
+---
+
+**[Adam Back explains why he's not bitcoin creator Satoshi Nakamoto](https://finance.yahoo.com/markets/crypto/article/adam-back-explains-why-hes-not-bitcoin-creator-satoshi-nakamoto-172837820.html)**
+
+The Blockstream CEO told Yahoo Finance that the real creator of Bitcoin wouldn't be doing interviews or speaking at conferences under their real name.
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -229,7 +231,7 @@ thestreet.com • 2d ago
 
 The debut of Morgan Stanley’s Bitcoin ETF marked a milestone this week, but the financial powerhouse is already weighing its next moves.
 
-Decrypt • 6h ago
+Decrypt • 7h ago
 
 ---
 
@@ -239,7 +241,7 @@ Decrypt • 6h ago
 
 **[Who is Satoshi Nakamoto? My quest to unmask Bitcoin's creator](https://news.ycombinator.com/item?id=47685320)**
 
-⬆️ 624 • 💬 819 • 3d ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)
+⬆️ 625 • 💬 819 • 3d ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)
 
 ---
 
@@ -247,7 +249,7 @@ Decrypt • 6h ago
 
 The average production cost was sitting at $88,000 per bitcoin in mid-March, according to Checkonchain's difficulty regression model.
 
-⬆️ 204 • 💬 185 • 9h ago • [coindesk.com](https://www.coindesk.com/markets/2026/03/22/bitcoin-miners-are-losing-usd19-000-on-every-btc-produced-as-difficulty-drops-7-8)
+⬆️ 209 • 💬 190 • 10h ago • [coindesk.com](https://www.coindesk.com/markets/2026/03/22/bitcoin-miners-are-losing-usd19-000-on-every-btc-produced-as-difficulty-drops-7-8)
 
 ---
 
@@ -255,7 +257,7 @@ The average production cost was sitting at $88,000 per bitcoin in mid-March, acc
 
 Country’s oil exporters’ union says toll to be paid in cryptocurrency and vessels monitored for weapons
 
-⬆️ 173 • 💬 276 • 3d ago • [ft.com](https://www.ft.com/content/02aefac4-ea62-48db-9326-c0da373b11b8)
+⬆️ 173 • 💬 277 • 3d ago • [ft.com](https://www.ft.com/content/02aefac4-ea62-48db-9326-c0da373b11b8)
 
 ---
 
@@ -299,7 +301,7 @@ New York Times report claims London-born Adam Back is creator of the cryptocurre
 
 Bitcoin Core Will Maintain the Protocol. It May Not Save It. The reference implementation that sustains a $1.4 trillion network continues to produce quality code while losing the institutional capa...
 
-⬆️ 3 • 💬 0 • 17h ago • [GitHub](https://github.com/bitcoin/bitcoin/issues/35055)
+⬆️ 3 • 💬 0 • 18h ago • [GitHub](https://github.com/bitcoin/bitcoin/issues/35055)
 
 ---
 
@@ -321,7 +323,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 27K • 👍 2K • 💬 17 • ⏱️ 52:49 • 9h ago
+👁️ 27K • 👍 2K • 💬 17 • ⏱️ 52:49 • 10h ago
 
 ---
 
@@ -341,7 +343,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 ✓
 
 📺 Altcoin Daily
 
-👁️ 18K • 👍 1K • 💬 63 • ⏱️ 12:09 • 5h ago
+👁️ 18K • 👍 1K • 💬 63 • ⏱️ 12:09 • 6h ago
 
 ---
 
@@ -361,7 +363,7 @@ Get a chance win a ROLEX! BTCC COMPETITION: ...
 
 📺 Crypto Lifer
 
-👁️ 2K • 👍 231 • 💬 144 • ⏱️ 16:31 • 11h ago
+👁️ 2K • 👍 231 • 💬 144 • ⏱️ 16:31 • 12h ago
 
 ---
 
