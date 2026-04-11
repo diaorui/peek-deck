@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-11T07:32:52.061954+00:00'
+updated: '2026-04-11T08:44:42.043768+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 11, 2026 at 07:32 UTC  
+**Last Updated:** April 11, 2026 at 08:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $72,794.70
+### $72,740.75
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.8%  
-**7d:** +5.5%  
-**30d:** +2.6%  
-**90d:** -20.2%  
-**1y:** -14.6%  
+**24h:** +1.3%  
+**7d:** +5.3%  
+**30d:** +2.4%  
+**90d:** -20.4%  
+**1y:** -14.7%  
 
 ---
 
@@ -77,11 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[My university's business school moved to a new building and we're now in the Satoshi floor. Is this a sign?](https://www.reddit.com/r/Bitcoin/comments/1si9i7t/my_universitys_business_school_moved_to_a_new/)**
+
+3h ago
+
+---
+
 **[12 years ago I entered and exited BTC](https://www.reddit.com/r/Bitcoin/comments/1shuh5p/12_years_ago_i_entered_and_exited_btc/)**
 
 I made around 100% in 3 weeks and was happy with that 🫡🫣
 
-13h ago
+14h ago
 
 ---
 
@@ -89,7 +95,7 @@ I made around 100% in 3 weeks and was happy with that 🫡🫣
 
 Japan plans to reclassify cryptocurrencies as financial products under the Financial Instruments and Exchange Act, shifting them from a payment-based framework to one aligned with traditional securities regulation.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/japan-moves-to-classify-bitcoin-and-crypto) • 14h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/japan-moves-to-classify-bitcoin-and-crypto) • 15h ago
 
 ---
 
@@ -97,13 +103,7 @@ Japan plans to reclassify cryptocurrencies as financial products under the Finan
 
 I’m just honestly perplexed why this really matters? For real, what difference is it going to make to finally unmask the real SN and how is that going to change the impact his held coins will make when they’re finally sold? Everyone is anonymous on the chain so why should they be any different? Sure, there’s the impact of data hungry machines and their environmental impact but sincerely that ship sailed a decade ago. But how is any of that going to change once we all know for sure who to blame? Is t it all the rest of us, constantly moving coins around that are to blame? So curious to hear opinions on this article.
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/04/09/podcasts/the-daily/satoshi-nakamoto-bitcoin-creator.html?unlocked_article_code=1.Z1A.Zc6v.htjM1l8I6VbV&smid=nytcore-ios-share) • 8h ago
-
----
-
-**[My university's business school moved to a new building and we're now in the Satoshi floor. Is this a sign?](https://www.reddit.com/r/Bitcoin/comments/1si9i7t/my_universitys_business_school_moved_to_a_new/)**
-
-2h ago
+🔗 [nytimes.com](https://www.nytimes.com/2026/04/09/podcasts/the-daily/satoshi-nakamoto-bitcoin-creator.html?unlocked_article_code=1.Z1A.Zc6v.htjM1l8I6VbV&smid=nytcore-ios-share) • 9h ago
 
 ---
 
@@ -111,7 +111,7 @@ I’m just honestly perplexed why this really matters? For real, what difference
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-1h ago
+2h ago
 
 ---
 
@@ -119,23 +119,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 It looks like the block explorer has been hacked on Blockchain.com. When you search for a wallet address it shows you bunch of specific addresses only. For example for Satoshi address: https://www.blockchain.com/en/explorer/addresses/btc/1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa, it shows me the following ones only: 1PyJph17b4nAKqp4UvbxUZXpoesDzvZkVL 1PAZba3CAFRYm7gNBhrzH8Dz1FkYDCwJPs 1PyJph17b4nAKqp4UvbxUZXpoesDzvZkVL 1PbwAPq7aUepWrrToVh1snhv8mqy9wrGnk bc1qdmaslupuaetajnfzex8zw6jc93ww32ur6gj3we Be aware guys. Also it will be great to report it to Blockchain, but their support system a bit hard to use. Hope they are reading r/Bitcoin sometimes.
 
-14h ago
-
----
-
-**[this might be the dumbest bitcoin critcism i've ever heard...](https://www.reddit.com/r/Bitcoin/comments/1shy02t/this_might_be_the_dumbest_bitcoin_critcism_ive/)**
-
-An economist named Steve Keen says Bitcoin will go to zero because it uses too much energy. It only took me ten minutes to break down why his "critique" makes no sense
-
-🔗 [youtu.be](https://youtu.be/t7Ca56-XxPM) • 11h ago
-
----
-
-**[Bitcoin and Quantum Computing — Research Series by NVK](https://www.reddit.com/r/Bitcoin/comments/1sht782/bitcoin_and_quantum_computing_research_series_by/)**
-
-A three-part deep dive into quantum computing's actual threat to Bitcoin. 17 researchers, 13 proposals, real engineering. No hype. No FUD.
-
-🔗 [Bitcoin & Quantum Computing](https://bitcoinquantum.space/) • 14h ago
+15h ago
 
 ---
 
@@ -143,7 +127,23 @@ A three-part deep dive into quantum computing's actual threat to Bitcoin. 17 res
 
 Got it yesterday and it seems to be running smoothly. Not sure I'll ever hit a block but this was the last piece to a full setup. I have a bitcoin core full node running with inbound/outbound connections, and now I've got 90T helping secure the network, its not much but im doing my part to help decentralize and just maybe I'll hit a block!
 
-7h ago
+8h ago
+
+---
+
+**[this might be the dumbest bitcoin critcism i've ever heard...](https://www.reddit.com/r/Bitcoin/comments/1shy02t/this_might_be_the_dumbest_bitcoin_critcism_ive/)**
+
+An economist named Steve Keen says Bitcoin will go to zero because it uses too much energy. It only took me ten minutes to break down why his "critique" makes no sense
+
+🔗 [youtu.be](https://youtu.be/t7Ca56-XxPM) • 12h ago
+
+---
+
+**[Bitcoin and Quantum Computing — Research Series by NVK](https://www.reddit.com/r/Bitcoin/comments/1sht782/bitcoin_and_quantum_computing_research_series_by/)**
+
+A three-part deep dive into quantum computing's actual threat to Bitcoin. 17 researchers, 13 proposals, real engineering. No hype. No FUD.
+
+🔗 [Bitcoin & Quantum Computing](https://bitcoinquantum.space/) • 15h ago
 
 ---
 
@@ -163,7 +163,7 @@ Is it actually going to go up?
 
 The kingdom's holdings have dropped from 13,000 BTC to 3,954 since October 2024, with $215.7 million moved out this year alone. Its last mining inflow over $100,000 was recorded more than a year ago.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -175,20 +175,6 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Strategy Inc Supplement Launch Tests Valuation Gap And Bitcoin Focus](https://finance.yahoo.com/markets/stocks/articles/strategy-inc-supplement-launch-tests-070743043.html)**
-
-Strategy Inc (NasdaqGS:MSTR) has launched Nitric Boost Ultra, a health supplement focused on circulation, energy, and stamina support. The product introduces ingredients such as L Arginine and beetroot powder to Strategy's portfolio, which has historically centered on Bitcoin exposure. This move expands the company beyond digital assets into the consumer health supplements market. Strategy, trading at around $128.64, is widely associated with its aggressive Bitcoin accumulation approach...
-
-Yahoo Finance • 25m ago
-
----
-
-**[Software stocks are getting pulverized — but bitcoin’s rebound hints that a bottom might be in](https://www.marketwatch.com/story/software-stocks-are-getting-pulverized-but-bitcoins-rebound-hints-that-a-bottom-might-be-in-512baac7)**
-
-MarketWatch • 9h ago
-
----
-
 **[Circle (CRCL) and Bullish (BLSH) fail to participate in Thursday rally](https://www.coindesk.com/markets/2026/04/09/bitcoin-tops-usd72-000-but-circle-and-bullish-drop-sharply-after-downgrades)**
 
 Eased Middle East tensions pushed crypto prices and U.S. stocks sizable hjigher.
@@ -197,11 +183,49 @@ CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin price news: BTC moves up to $72,400 after March inflation data](https://www.coindesk.com/markets/2026/04/10/bitcoin-rises-after-core-cpi-rose-a-less-than-forecast-0-2-in-march)**
+**[Strategy Inc Supplement Launch Tests Valuation Gap And Bitcoin Focus](https://finance.yahoo.com/markets/stocks/articles/strategy-inc-supplement-launch-tests-070743043.html)**
 
-Headline inflation rose 0.9% last month, driven by the sharp rise in energy costs due to the Iran war.
+Strategy Inc (NasdaqGS:MSTR) has launched Nitric Boost Ultra, a health supplement focused on circulation, energy, and stamina support. The product introduces ingredients such as L Arginine and beetroot powder to Strategy's portfolio, which has historically centered on Bitcoin exposure. This move expands the company beyond digital assets into the consumer health supplements market. Strategy, trading at around $128.64, is widely associated with its aggressive Bitcoin accumulation approach...
 
-CoinDesk • 17h ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin 23 Bar Theory: What Happens To The BTC Price If The Bottom Is In?](https://www.tradingview.com/news/newsbtc:548e93c12094b:0-bitcoin-23-bar-theory-what-happens-to-the-btc-price-if-the-bottom-is-in/)**
+
+Over the years, there have been different metrics, technicals, and ways in which investors have tried to predict the Bitcoin price bottom with each bear market. Some of these have reportedly done so with some accuracy, while others have seen a deviation. Recently, a pseudonymous crypto analyst who…
+
+TradingView • 14m ago
+
+---
+
+**[Software stocks are getting pulverized — but bitcoin’s rebound hints that a bottom might be in](https://www.marketwatch.com/story/software-stocks-are-getting-pulverized-but-bitcoins-rebound-hints-that-a-bottom-might-be-in-512baac7)**
+
+MarketWatch • 11h ago
+
+---
+
+**[Bitcoin Policy Institute Warns Quantum Advances Are Compressing Timeline for Network Upgrades](https://bitcoinmagazine.com/news/bitcoin-policy-institute-warns-of-quantum)**
+
+A new brief from the Bitcoin Policy Institute says advances in quantum computing may bring forward risks to Bitcoin’s cryptography, though developers are already working on fixes.
+
+Bitcoin Magazine • 12h ago
+
+---
+
+**[Strategy's Michael Saylor says bitcoin likely bottomed near $60K, suggests quantum risk is overblown](https://www.theblock.co/post/396836/strategys-michael-saylor-says-bitcoin-likely-bottomed-near-60k-suggests-quantum-risk-is-overblown)**
+
+Strategy's Michael Saylor said bitcoin has likely bottomed near $60,000 and downplayed quantum computing risks.
+
+The Block • 1d ago
+
+---
+
+**[Bitcoin Pioneer Adam Back, Bernstein Say Quantum Threat to BTC Isn’t Existential](https://finance.yahoo.com/markets/crypto/articles/bitcoin-pioneer-adam-back-bernstein-185803494.html)**
+
+Anxieties over the quantum threat to Bitcoin have been growing, but Bernstein backs Back in saying there’s no cause for alarm.
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -211,35 +235,13 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Current price of Bitcoin for April 9, 2026](https://fortune.com/article/price-of-bitcoin-04-09-2026/)**
-
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 1d ago
-
----
-
-**[‘Will Be Destroyed’—Iran’s Bitcoin Toll Sparks $100K Price Prediction](https://www.forbes.com/sites/digital-assets/2026/04/08/will-be-destroyed-irans-bitcoin-toll-sparks-100k-price-prediction/)**
-
-Forbes • 2d ago
-
----
-
-**[Bitcoin, solana surge as Iran looks to charge tolls for Strait of Hormuz passage to be paid in crypto](https://finance.yahoo.com/news/bitcoin-solana-surge-as-iran-looks-to-charge-tolls-for-strait-of-hormuz-passage-to-be-paid-in-crypto-142009952.html)**
-
-Iran is looking to charge shipowners a fee of $1 per barrel of oil onboard for safe passage across the Strait of Hormuz, to be paid in cryptocurrency, according to the Financial Times.
-
-Yahoo Finance • 2d ago
-
----
-
 ---
 
 ## HackerNews: "bitcoin"
 
 **[Who is Satoshi Nakamoto? My quest to unmask Bitcoin's creator](https://news.ycombinator.com/item?id=47685320)**
 
-⬆️ 618 • 💬 812 • 3d ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)
+⬆️ 620 • 💬 812 • 3d ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)
 
 ---
 
@@ -255,7 +257,7 @@ Country’s oil exporters’ union says toll to be paid in cryptocurrency and ve
 
 Neha Narula
 
-⬆️ 168 • 💬 137 • 3d ago • [nehanarula.org](https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html)
+⬆️ 168 • 💬 138 • 3d ago • [nehanarula.org](https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html)
 
 ---
 
@@ -291,7 +293,7 @@ New York Times report claims London-born Adam Back is creator of the cryptocurre
 
 Bitcoin Core Will Maintain the Protocol. It May Not Save It. The reference implementation that sustains a $1.4 trillion network continues to produce quality code while losing the institutional capa...
 
-⬆️ 3 • 💬 0 • 2h ago • [GitHub](https://github.com/bitcoin/bitcoin/issues/35055)
+⬆️ 3 • 💬 0 • 3h ago • [GitHub](https://github.com/bitcoin/bitcoin/issues/35055)
 
 ---
 
@@ -307,7 +309,7 @@ For years, bitcoin creator Satoshi Nakamoto has avoided discovery. Now, a 10,000
 
 The most popular and trusted block explorer and crypto transaction search engine.
 
-⬆️ 2 • 💬 2 • 8h ago • [blockchain.com](https://www.blockchain.com/explorer/addresses/btc/1PWo3JeB9jrGwfHDNpdGK54CRas7fsVzXU)
+⬆️ 2 • 💬 2 • 10h ago • [blockchain.com](https://www.blockchain.com/explorer/addresses/btc/1PWo3JeB9jrGwfHDNpdGK54CRas7fsVzXU)
 
 ---
 
@@ -321,7 +323,7 @@ Everyone is distracted by Satoshi theories while real money floods into Bitcoin.
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 997 • 💬 77 • ⏱️ 10:48 • 10h ago
+👁️ 17K • 👍 997 • 💬 77 • ⏱️ 10:48 • 11h ago
 
 ---
 
@@ -331,7 +333,7 @@ Follow me on X for my best content: http://www.X.com/AdamBLiv Transform Dormant 
 
 📺 Adam Livingston
 
-👁️ 6K • 👍 605 • 💬 138 • ⏱️ 18:40 • 9h ago
+👁️ 6K • 👍 605 • 💬 138 • ⏱️ 18:40 • 11h ago
 
 ---
 
@@ -341,7 +343,7 @@ Plenty of crypto newbies lost money chasing the bitcoin boom that followed Donal
 
 📺 Forbes
 
-👁️ 43K • 👍 1K • 💬 173 • ⏱️ 5:05 • 13h ago
+👁️ 43K • 👍 1K • 💬 173 • ⏱️ 5:05 • 14h ago
 
 ---
 
@@ -361,7 +363,7 @@ My Trading Signals https://discord.com/invite/jRAnCV9CTB Trade on MEXC ...
 
 📺 Road To $1 Million USD
 
-👁️ 2K • 👍 186 • 💬 8 • ⏱️ 7:04 • 9h ago
+👁️ 2K • 👍 186 • 💬 8 • ⏱️ 7:04 • 10h ago
 
 ---
 
@@ -381,7 +383,7 @@ Coinbase Global (NASDAQ: $COIN) CEO Brian Armstrong is calling for the passage i
 
 📺 Paul Barron Network
 
-👁️ 40K • 👍 2K • 💬 236 • ⏱️ 33:50 • 12h ago
+👁️ 40K • 👍 2K • 💬 236 • ⏱️ 33:50 • 13h ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-11T07:32:52.067278+00:00'
+updated: '2026-04-11T08:44:42.049987+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 11, 2026 at 07:32 UTC  
+**Last Updated:** April 11, 2026 at 08:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,235.05
+### $2,234.32
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.5%  
-**7d:** +6.0%  
-**30d:** +6.8%  
-**90d:** -27.8%  
-**1y:** +35.8%  
+**24h:** +1.7%  
+**7d:** +5.9%  
+**30d:** +6.7%  
+**90d:** -27.9%  
+**1y:** +35.7%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 So I went back through my wallet history and used a couple of MEV tracking tools to figure out how much value I actually lost to sandwich attacks and front-running over the past 6 months. not gonna share exact numbers but it was enough to make me seriously rethink where and how I trade on-chain. the thing that pissed me off the most wasn't even the big trades. it was the small ones. $200-500 swaps getting sandwiched for a few bucks each time. doesn't feel like much in the moment but it adds up fast when you're making multiple trades a week. what I learned: AMMs are basically open season for MEV bots. your trade hits the mempool and you're cooked private RPCs like flashbots protect help but they're not a complete solution. you're still trusting the builder not to screw you intent-based systems (cow swap etc) are better but they introduce solver trust assumptions and don't work for everything the only architecture where MEV extraction is structurally impossible is one where transaction ordering is provable and verifiable. not hidden, not trusted, but mathematically proven to be fair honestly the biggest takeaway is that most people have no idea how much they're losing. the "invisible tax" framing is accurate. you never see a line item that says "MEV bot took $4.50 from this trade" but it's happening on basically every swap. anyone else tracked their MEV losses? curious what numbers people are seeing. also curious if anyone has found a setup that actually eliminates it, not just reduces it.
 
-21h ago
+22h ago
 
 ---
 
@@ -80,7 +80,7 @@ So I went back through my wallet history and used a couple of MEV tracking tools
 
 Roman Storm acquittal hearing, ETHGlobal Cannes hackathon finalists, EVM Now block explorer
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-19/) • 17h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-19/) • 18h ago
 
 ---
 
@@ -88,7 +88,7 @@ Roman Storm acquittal hearing, ETHGlobal Cannes hackathon finalists, EVM Now blo
 
 Ethereum developers align on Glamsterdam devnet progress, Hegota Account Abstraction direction, & key execution layer upgrades shaping the roadmap.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-234/) • 23h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-234/) • 1d ago
 
 ---
 
@@ -160,35 +160,27 @@ Decrypt • 1d ago
 
 ---
 
-**[Ethereum Mirrors A 2023 Setup As Buyers Take Control Of Derivatives On Binance](https://www.tradingview.com/news/newsbtc:cc4620f37094b:0-ethereum-mirrors-a-2023-setup-as-buyers-take-control-of-derivatives-on-binance/)**
-
-Ethereum is pushing toward $2,200. The macro environment is uncertain. And top analyst Darkfost has identified a signal in the derivatives market that has not appeared in nearly three years — emerging at precisely the moment the price is testing a level that matters.The signal comes from the ETH Ta…
-
-TradingView • 2h ago
-
----
-
 **[Bitcoin and ethereum prices today, Friday, April 10, 2026: Prices rise ahead of CPI report](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-april-10-2026-prices-rise-ahead-of-cpi-report-111733660.html)**
 
 Bitcoin opened at $71,783.52 on Friday and then rose slightly in early trading. Ethereum showed the same trend, opening at $2,189.99 and rising somewhat in early hours.
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 21h ago
 
 ---
 
-**[Why is Crypto Rallying Today: Price Targets For Bitcoin, Ethereum and XRP](https://coinpedia.org/news/why-is-crypto-rallying-price-targets-for-bitcoin-ethereum-and-xrp/)**
+**[Capital Is Rotating From Bitcoin To Ethereum – On-Chain Data Shows It Is Not Over](https://www.tradingview.com/news/newsbtc:f12427177094b:0-capital-is-rotating-from-bitcoin-to-ethereum-on-chain-data-shows-it-is-not-over/)**
 
-The crypto market has rebounded, with Bitcoin rising 10% over the last eight days and Ethereum up 12% in the same period. The total market cap is now up
+Ethereum is holding above key price levels as the market prepares for a decisive move. The chart looks constructive. The March data from XWIN Research Japan explains why the chart may be understating what is actually happening beneath it.The report documents a capital rotation that played out in pl…
 
-Coinpedia Fintech News • 16h ago
+TradingView • 6h ago
 
 ---
 
-**[Tom Lee's BitMine Uplisted to NYSE as Ethereum Firm Expands Buyback Program to $4 Billion](https://decrypt.co/363823/tom-lee-bitmine-uplisted-nyse-ethereum-firm-expands-buybacks-4-billion)**
+**[Tom Lee's BitMine Uplisted to NYSE as Ethereum Firm Expands Buyback Program to $4 Billion](https://finance.yahoo.com/markets/stocks/articles/tom-lees-bitmine-uplisted-nyse-155826429.html)**
 
 Ethereum treasury giant BitMine Immersion Technologies upped its share buyback program to $4 billion and was uplisted to the NYSE on Thursday.
 
-Decrypt • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -196,13 +188,21 @@ Decrypt • 1d ago
 
 Bitmine Immersion's hybrid model combines large-scale ETH holdings, with MAVAN projected to generate $300 million annually. Learn why BMNR stock is a strong buy.
 
-Seeking Alpha • 20h ago
+Seeking Alpha • 22h ago
 
 ---
 
 **[Bitmine Stock Plugs Into a New Power Source as Ethereum Holdings Hits Record Highs; BMNR Up 15%](https://www.tipranks.com/news/bitmine-stock-plugs-into-a-new-power-source-as-ethereum-holdings-hit-record-highs-bmnr-up-15)**
 
 TipRanks • 1d ago
+
+---
+
+**[Why is Crypto Rallying Today: Price Targets For Bitcoin, Ethereum and XRP](https://coinpedia.org/news/why-is-crypto-rallying-price-targets-for-bitcoin-ethereum-and-xrp/)**
+
+The crypto market has rebounded, with Bitcoin rising 10% over the last eight days and Ethereum up 12% in the same period. The total market cap is now up
+
+Coinpedia Fintech News • 17h ago
 
 ---
 
@@ -220,11 +220,11 @@ The Block • 2d ago
 
 ---
 
-**[Ethereum staking ratio hits record high at 30%](https://www.thestreet.com/crypto/markets/ethereum-staking-ratio-hits-record-high-at-30)**
+**[Crypto News: Pepeto Announces Binance Level Exchange Update While Ethereum Price Prediction Maps Path to $7,500](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-announces-binance-level-exchange-update-while-ethereum-price-prediction-maps-path-to-7-500-1036012554)**
 
-Ethereum still occupies the top spot among staking-based blockchains.
+Dubai, UAE, April  10, 2026  (GLOBE NEWSWIRE) -- Pepeto just hit a major checkpoint on its Binance level exchange, pushing the zero fee swap engin...
 
-thestreet.com • 17h ago
+markets.businessinsider.com • 7h ago
 
 ---
 
@@ -248,7 +248,7 @@ In this video, I take a closer look at the current Ethereum market structure and
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 189 • 💬 12 • ⏱️ 9:25 • 12h ago
+👁️ 3K • 👍 189 • 💬 12 • ⏱️ 9:25 • 13h ago
 
 ---
 
@@ -258,7 +258,7 @@ During COVID, Entrepreneur Sandy Sandiford and his partners made an unusual inve
 
 📺 Conversations Are Key Podcast
 
-👁️ 1K • 👍 15 • 💬 1 • ⏱️ 0:49 • 7h ago
+👁️ 1K • 👍 15 • 💬 1 • ⏱️ 0:49 • 9h ago
 
 ---
 
@@ -268,7 +268,7 @@ Coinbase Global (NASDAQ: $COIN) CEO Brian Armstrong is calling for the passage i
 
 📺 Paul Barron Network
 
-👁️ 40K • 👍 2K • 💬 236 • ⏱️ 33:50 • 12h ago
+👁️ 40K • 👍 2K • 💬 236 • ⏱️ 33:50 • 13h ago
 
 ---
 
@@ -278,7 +278,7 @@ BITCOIN BREAKOUT CONFIRMED (Short Squeeze Now)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 4K • 👍 213 • 💬 300 • ⏱️ 20:46 • 9h ago
+👁️ 4K • 👍 213 • 💬 300 • ⏱️ 20:46 • 10h ago
 
 ---
 
@@ -288,7 +288,7 @@ In this video we talk about developments in the Ethereum ecosystem, covering bot
 
 📺 Elijah Cheng
 
-👁️ 5K • 👍 179 • 💬 34 • ⏱️ 37:25 • 15h ago
+👁️ 5K • 👍 179 • 💬 34 • ⏱️ 37:25 • 16h ago
 
 ---
 
@@ -298,7 +298,7 @@ In this video, we break down everything happening with BMNR stock, including its
 
 📺 BiGB Stcok
 
-👁️ 499 • 👍 26 • 💬 42 • ⏱️ 9:32 • 11h ago
+👁️ 499 • 👍 26 • 💬 42 • ⏱️ 9:32 • 12h ago
 
 ---
 
@@ -308,7 +308,7 @@ Daily BTC, ETH, TSLA trades. Subscribe. Bybit bonus up to $30000 https://partner
 
 📺 James Crypto Guru
 
-👁️ 649 • 💬 8 • ⏱️ 10:43 • 7h ago
+👁️ 649 • 💬 8 • ⏱️ 10:43 • 8h ago
 
 ---
 
@@ -318,7 +318,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 212 • 👍 13 • ⏱️ 4:53 • 22h ago
+👁️ 212 • 👍 13 • ⏱️ 4:53 • 23h ago
 
 ---
 
@@ -328,7 +328,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 164 • 👍 7 • 💬 1 • ⏱️ 5:27 • 12h ago
+👁️ 164 • 👍 7 • 💬 1 • ⏱️ 5:27 • 13h ago
 
 ---
 

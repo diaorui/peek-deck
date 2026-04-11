@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-04-11T07:32:51.570001+00:00"
+          "dateModified": "2026-04-11T08:44:41.526943+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -926,7 +926,7 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1si24zq/im_amazed_how_happily_blind_everyone_seems_to_be/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1shr8wv/i_vibecoded_karpathys_llm_wiki_into_a_native/', '_blank')">
                     <div class="post-thumbnail">
                         
                     </div>
@@ -934,13 +934,13 @@
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1si24zq/im_amazed_how_happily_blind_everyone_seems_to_be/" target="_blank" onclick="event.stopPropagation();">i'm amazed how happily blind everyone seems to be</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1shr8wv/i_vibecoded_karpathys_llm_wiki_into_a_native/" target="_blank" onclick="event.stopPropagation();">I "Vibecoded" Karpathy’s LLM Wiki into a native Android/Windows app to kill the friction of personal knowledge bases.</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            Being someone who is not a programmer by background but over the past few years has taken a deliberate interest in becoming proficient in reading and writing Python at a minimum, but also other things like JSON and even JavaScript because these are the languages that A.I. loves to use by default. I've always felt the need to at least be able to have a passive understanding of the work being done by A.I., but what I'm amazed at is how little most people care about what's happening under the hood when they ask A.I. to do work or do an analysis. It almost seems the less technical you are and the higher up you are in leadership, the more blindly and blissfully happy you are to just tell Claude to go do something and come back with the results and put that output or decision into action. It just surprises me that normally rational, smart, and otherwise diligent people are so willing to blindly trust something that, if you have even a slight awareness of its underlying technology, you are aware that it is prone to hallucination but also can so easily make incorrect assumptions with poor context and poor prompting and poor data. I'm just so surprised how far people are willing to push A.I. without any understanding of what's happening under the hood. It reminds me of when back in the day people used to say, "You can't use Wikipedia; it's not a trusted source," but people used Wikipedia anyway. In that case, I can't remember a single instance where using Wikipedia actually had a real-world negative outcome probably because people were just using Wikipedia for research papers instead of using it for real world high stakes decision-making. In this case, people are using it in real world high stakes decision-making and I'm curious what the breaking point might be where an individual or an organization decides to rely on an A.I. output or decision that they have no understanding of how it got there or whether or not it hallucinated information or data and put it into action. A serious problem resolves from it. I'm sure this has happened already, but I haven't seen it necessarily happen firsthand. Based on what I'm observing from my colleagues and people that I interact with, I feel like it's inevitable.
+                            A few days ago, Andrej Karpathy’s post on "LLM Knowledge Bases" went viral. He proposed a shift from manipulating code to manipulating knowledge-using LLMs to incrementally compile raw data into a structured, interlinked graph of markdown files. I loved the idea and started testing it out. It worked incredibly well, and I decided this was how I wanted to store all my research moving forward. But the friction was killing me. My primary device is my phone, and every time I found a great article or paper, I had to wait until I was at my laptop, copy the link over, and run a mess of scripts just to ingest one thing. I wanted the "Knowledge wiki" in my pocket. 🎒 I’m not a TypeScript developer, but I decided to "vibecode" the entire solution into a native app using Tauri v2 and LangGraph.js. After a lot of back-and-forth debugging and iteration, I’ve released LLM Wiki. How it works with different sources: The app is built to be a universal "knowledge funnel." I’ve integrated specialized extractors for different media: * PDFs: It uses a local worker to parse academic papers and reports directly on-device. * Web Articles: I’ve integrated Mozilla’s Readability engine to strip the "noise" from URLs, giving the LLM clean markdown to analyze. * YouTube: It fetches transcripts directly from the URL. You can literally shared a 40-minute deep-dive video from the YouTube app into LLM Wiki, and it will automatically document the key concepts and entities into your graph while you're still watching. The "Agentic" Core: Under the hood, it’s powered by two main LangGraph agents. The Ingest Agent handles the heavy lifting of planning which pages to create or update to avoid duplication. The Lint Agent is your automated editor—it scans for broken links, "orphan" pages that aren't linked to anything, and factual contradictions between different sources, suggesting fixes for you to approve. Check it out (Open Source): The app is fully open-source and brings-your-own-key (OpenAI, Anthropic, Google, or any custom endpoint). Since I vibecoded this without prior TS experience, there will definitely be some bugs, but it’s been incredibly stable for my own use cases. GitHub (APK and EXE in the Releases): https://github.com/Kellysmoky123/LlmWiki If you find any issues or want to help refine the agents, please open an issue or a PR. I'd love to see where we can take this "compiled knowledge" idea!
                         </div>
                         
 
@@ -949,7 +949,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1775862207.0"></span>
+                                    <span data-timestamp="1775837938.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -959,21 +959,23 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1si8ufx/does_anyone_know_about_useai/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1shxvr4/fed_chair_jerome_powell_treasurys_bessent_and_top/', '_blank')">
                     <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/McfwXIqnXXyGltERNzmII2pV5zxOU2BwXxCrhqJUQWI.jpeg?width=640&crop=smart&auto=webp&s=107e060e2c43cb5b268e24d11e8e780aa8e57c6b" alt="Fed Chair Jerome Powell, Treasury's Bessent and top bank CEOs met over Anthropic's Mythos model" onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1si8ufx/does_anyone_know_about_useai/" target="_blank" onclick="event.stopPropagation();">Does anyone know about use.ai?</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1shxvr4/fed_chair_jerome_powell_treasurys_bessent_and_top/" target="_blank" onclick="event.stopPropagation();">Fed Chair Jerome Powell, Treasury's Bessent and top bank CEOs met over Anthropic's Mythos model</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            So fucked up i am that i mistook claud with some ai named use.ai and also i paid fucking ₹84 through my credit card for 7days subscription!!!! This use.ai fucking copied the whole UI of claud..i didn’t even bother to think why the logo is white instead of orange !! Its still okay that my ₹84 spent in vain but the i afraid its not fraud and take all the money from my credit card !! 😭😭
+                            Financial industry leaders met to discuss potential cyber risks posed by Anthropic's latest AI model, which has found weaknesses in every major computer operating system.
                         </div>
                         
 
@@ -982,10 +984,25 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1775880692.0"></span>
+                                    <span data-timestamp="1775852160.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://www.cbsnews.com/news/mythos-anthropic-ai-cybersecurity-risks-powell-bessent/" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://www.cbsnews.com/fly/bundles/cbsnewscore/icons/icon-192x192.png" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
+                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
+                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
+                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
+                                            </svg>
+                                            
+                                        
+                                        <span>cbsnews.com</span>
+                                    </a>
+                                </div>
                                 
                             </div>
                         </div>
@@ -1015,7 +1032,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-04-11T07:32:32.923158+00:00">Updated 2026-04-11T07:32:32.923158+00:00</small>
+        <small data-timestamp="2026-04-11T08:44:23.873836+00:00">Updated 2026-04-11T08:44:23.873836+00:00</small>
     </div>
 </div>
 
@@ -1234,7 +1251,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1775870219.0"></span>
+                                    <span data-timestamp="1775886621.0"></span>
                                 </div>
                                 
                             </div>
@@ -1242,20 +1259,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/04/10/powell-bessent-us-bank-ceos-anthropic-mythos-ai-cyber.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.theguardian.com/technology/2026/apr/10/anthropic-new-ai-model-claude-mythos-implications', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108289742-1775823205494-Untitled-1.jpg?v=1775823264&w=1920&h=1080');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://i.guim.co.uk/img/media/3afc39d2a8b0a3f01e27daff3016624d884dd56d/557_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=2a4b84087e1f2a7bcedd790dadae74f4');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.cnbc.com/2026/04/10/powell-bessent-us-bank-ceos-anthropic-mythos-ai-cyber.html" target="_blank" onclick="event.stopPropagation();">Powell, Bessent discussed Anthropic's Mythos AI cyber threat with major U.S. banks</a>
+                            <a href="https://www.theguardian.com/technology/2026/apr/10/anthropic-new-ai-model-claude-mythos-implications" target="_blank" onclick="event.stopPropagation();">Anthropic’s new AI tool has implications for us all – whether we can use it or not | Shakeel Hashim</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Anthropic rolled out the new Mythos AI model to a select group of companies over concerns that hackers could exploit its capabilities.
+                            Claude Mythos’s apparent superhuman hacking abilities are alarming experts as the Trump administration remains blinded by hostility
                         </div>
                         
 
@@ -1265,9 +1282,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="CNBC" class="news-favicon">
-                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Guardian" class="news-favicon">
+                                    <a href="https://www.theguardian.com" target="_blank" onclick="event.stopPropagation();">The Guardian</a>
                                     
                                 </div>
                                 
@@ -1275,7 +1292,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1775824724.0"></span>
+                                    <span data-timestamp="1775837700.0"></span>
                                 </div>
                                 
                             </div>
@@ -1283,20 +1300,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.nbcbayarea.com/news/local/san-francisco-store-created-and-managed-by-ai/4067044/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://fortune.com/2026/04/11/ai-workers-productivity-brain-recovery-cognitive-offload-overload/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://media.nbcbayarea.com/2026/04/47336939500-1080pnbcstations.jpg?quality=85&strip=all&resize=1200%2C675');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-1795494942-e1775841537133.jpg?resize=1200,600');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.nbcbayarea.com/news/local/san-francisco-store-created-and-managed-by-ai/4067044/" target="_blank" onclick="event.stopPropagation();">San Francisco store created and managed by AI</a>
+                            <a href="https://fortune.com/2026/04/11/ai-workers-productivity-brain-recovery-cognitive-offload-overload/" target="_blank" onclick="event.stopPropagation();">AI eliminating grunt work could remove exactly what our brains need to recover, psychologists say</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Shoppers in San Francisco now have access to a store built, developed and run almost entirely by an AI bot.
+                            Experts warn eliminating boring tasks with AI could drain our mental bandwidth.
                         </div>
                         
 
@@ -1306,9 +1323,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nbcbayarea.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="NBC Bay Area" class="news-favicon">
-                                    <a href="https://www.nbcbayarea.com" target="_blank" onclick="event.stopPropagation();">NBC Bay Area</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://fortune.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Fortune" class="news-favicon">
+                                    <a href="https://fortune.com" target="_blank" onclick="event.stopPropagation();">Fortune</a>
                                     
                                 </div>
                                 
@@ -1316,7 +1333,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1775888477.0"></span>
+                                    <span data-timestamp="1775894460.0"></span>
                                 </div>
                                 
                             </div>
@@ -1324,20 +1341,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/sectors/technology/article/coreweave-stock-climbs-10-on-anthropic-deal-141357017.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.businessinsider.com/illia-polosukhin-transformer-author-ai-agents-near-protocol-2026-4', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/ny/api/res/1.2/.TCzWEzvKCgJZtHUT.hJww--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-02/470ed5b0-090f-11f1-bfff-704e47687301');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://i.insider.com/69d85dee05c9b303c4e76d3e?width=1200&format=jpeg');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://finance.yahoo.com/sectors/technology/article/coreweave-stock-climbs-10-on-anthropic-deal-141357017.html" target="_blank" onclick="event.stopPropagation();">CoreWeave stock climbs 10% on Anthropic deal</a>
+                            <a href="https://www.businessinsider.com/illia-polosukhin-transformer-author-ai-agents-near-protocol-2026-4" target="_blank" onclick="event.stopPropagation();">'A billionaire's chief of staff': How this AI pioneer puts a dozen agents to work</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Anthropic and CoreWeave have entered into a new agreement that will see CoreWeave's AI infrastructure power Anthropic's various models.
+                            Illia Polosukhin, a co-author of the seminal transformer paper, said our institutions need to be better prepared as AI agents become more capable.
                         </div>
                         
 
@@ -1347,9 +1364,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Yahoo Finance" class="news-favicon">
-                                    <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo Finance</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.businessinsider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Business Insider" class="news-favicon">
+                                    <a href="https://www.businessinsider.com" target="_blank" onclick="event.stopPropagation();">Business Insider</a>
                                     
                                 </div>
                                 
@@ -1357,7 +1374,122 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1775853977.0"></span>
+                                    <span data-timestamp="1775895060.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/04/10/us/open-ai-sam-altman-molotov-cocktail.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.nytimes.com/2026/04/10/us/open-ai-sam-altman-molotov-cocktail.html" target="_blank" onclick="event.stopPropagation();">Molotov Cocktail Is Hurled at Home of Sam Altman, OpenAI’s CEO</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The New York Times" class="news-favicon">
+                                    <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1775844311.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.sfgate.com/bayarea/article/attack-openai-sam-altman-22199855.php', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.sfgate.com/bayarea/article/attack-openai-sam-altman-22199855.php" target="_blank" onclick="event.stopPropagation();">Man arrested after Molotov cocktail attack on SF home of OpenAI CEO Sam Altman</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.sfgate.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="SFGATE" class="news-favicon">
+                                    <a href="https://www.sfgate.com" target="_blank" onclick="event.stopPropagation();">SFGATE</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1775845719.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.theguardian.com/commentisfree/2026/apr/10/ai-companies-owners-openai-chatgpt-sam-altman', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://i.guim.co.uk/img/media/5b159f0a4ab644187eac8ef560051bc791814eda/0_0_2500_2001/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=7fe6e817e9c39dcba9f1a3bc8e785783');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.theguardian.com/commentisfree/2026/apr/10/ai-companies-owners-openai-chatgpt-sam-altman" target="_blank" onclick="event.stopPropagation();">AI products are reaching further into our lives. Does it matter who controls the companies behind them? | Van Badham</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Every organisation needs guardrails that channel them away from human fallibility and collectively minimise the harm they can do
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Guardian" class="news-favicon">
+                                    <a href="https://www.theguardian.com" target="_blank" onclick="event.stopPropagation();">The Guardian</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1775805660.0"></span>
                                 </div>
                                 
                             </div>
@@ -1406,88 +1538,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.wired.com/story/inside-the-pro-iran-meme-machine-trolling-trump-with-ai-lego-cartoons/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://media.wired.com/photos/69d681be0aa0c0c6d4da5c6c/191:100/w_1280,c_limit/GettyImages-825967636.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.wired.com/story/inside-the-pro-iran-meme-machine-trolling-trump-with-ai-lego-cartoons/" target="_blank" onclick="event.stopPropagation();">The Pro-Iran Meme Machine Trolling Trump With AI Lego Cartoons</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Since the beginning of the Iran war, the group Explosive Media has released over a dozen viral videos mocking Trump and the US.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wired.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="WIRED" class="news-favicon">
-                                    <a href="https://www.wired.com" target="_blank" onclick="event.stopPropagation();">WIRED</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1775741100.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.edweek.org/technology/opinion-blooms-taxonomy-needs-an-update-for-the-ai-age/2026/04', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://epe.brightspotcdn.com/dims4/default/13bece6/2147483647/strip/true/crop/1720x1290+0+0/resize/840x630!/quality/90/?url=https%3A%2F%2Fepe-brightspot.s3.us-east-1.amazonaws.com%2F96%2Fb6%2F9863e211489bb2d6cd4b1d772714%2F042026-opinion-schoonover-ai-2205372036.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.edweek.org/technology/opinion-blooms-taxonomy-needs-an-update-for-the-ai-age/2026/04" target="_blank" onclick="event.stopPropagation();">Bloom's Taxonomy Needs an Update for the AI Age (Opinion)</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Here’s how one superintendent is reimagining the classic framework of learning objectives.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.edweek.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Education Week" class="news-favicon">
-                                    <a href="https://www.edweek.org" target="_blank" onclick="event.stopPropagation();">Education Week</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1775845890.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.spokesman.com/stories/2026/apr/10/idaho-conservative-blogger-who-defamed-drag-perfor/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://thumb.spokesman.com/IOMPfuURB9bdpMWPe3S5K_ufA6k=/1200x630/smart/media.spokesman.com/photos/2026/04/10/647a926055721.hires.jpg');"></div>
@@ -1529,20 +1579,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.npr.org/2026/04/10/nx-s1-5780796/artificial-intelligence-ai-mental-health-chatgpt-jama-psychiatry', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3500x1969+0+182/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F21%2F5a%2F50b105664bb3bcaed7ef99343b07%2Fap25217544856274.jpg');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://media.wired.com/photos/69d81fc99011397f817a1986/191:100/w_1280,c_limit/OpenAI-Backs-Bill-That-Lets-AI-Labs-Dodge-Liability-for-Critical-Harms-Business-2244268254.jpg');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.npr.org/2026/04/10/nx-s1-5780796/artificial-intelligence-ai-mental-health-chatgpt-jama-psychiatry" target="_blank" onclick="event.stopPropagation();">'How are you using AI?' Your therapist should ask you that question, experts argue</a>
+                            <a href="https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/" target="_blank" onclick="event.stopPropagation();">OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths or Financial Disasters</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            A paper in JAMA Psychiatry says mental health providers should ask if patients are using artificial intelligence chatbots, just as they would ask patients about sleep habits and substance use.
+                            The ChatGPT-maker testified in favor of an Illinois bill that would limit when AI labs can be held liable—even in cases where their products cause “critical harm.”
                         </div>
                         
 
@@ -1552,9 +1602,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.npr.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="NPR" class="news-favicon">
-                                    <a href="https://www.npr.org" target="_blank" onclick="event.stopPropagation();">NPR</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wired.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="WIRED" class="news-favicon">
+                                    <a href="https://www.wired.com" target="_blank" onclick="event.stopPropagation();">WIRED</a>
                                     
                                 </div>
                                 
@@ -1562,44 +1612,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1775827811.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.sfgate.com/bayarea/article/attack-openai-sam-altman-22199855.php', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.sfgate.com/bayarea/article/attack-openai-sam-altman-22199855.php" target="_blank" onclick="event.stopPropagation();">Man arrested after Molotov cocktail attack on SF home of OpenAI CEO Sam Altman</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.sfgate.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="SFGATE" class="news-favicon">
-                                    <a href="https://www.sfgate.com" target="_blank" onclick="event.stopPropagation();">SFGATE</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1775845719.0"></span>
+                                    <span data-timestamp="1775780340.0"></span>
                                 </div>
                                 
                             </div>
@@ -1627,7 +1640,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-04-11T07:32:46.995650+00:00">Updated 2026-04-11T07:32:46.995650+00:00</small>
+        <small data-timestamp="2026-04-11T08:44:40.617705+00:00">Updated 2026-04-11T08:44:40.617705+00:00</small>
     </div>
 </div>
 
@@ -1855,7 +1868,7 @@
                                     <span class="post-points">▲ 429</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 311</span>
+                                    <span style="color: #9ca3af;">💬 312</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1901,10 +1914,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 276</span>
+                                    <span class="post-points">▲ 304</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 182</span>
+                                    <span style="color: #9ca3af;">💬 199</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1995,7 +2008,7 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 136</span>
+                                    <span class="post-points">▲ 137</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 181</span>
@@ -2043,10 +2056,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 133</span>
+                                    <span class="post-points">▲ 135</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 184</span>
+                                    <span style="color: #9ca3af;">💬 185</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2255,20 +2268,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=47699086', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=47720418', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" style="background-image: url('https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/04/app-store-connect-ios.webp?resize=1200%2C628&quality=82&strip=all&ssl=1');"></div>
+                    <div class="post-thumbnail" style="background-image: url('https://twill.ai/link-preview-card.png');"></div>
 
                     <div class="post-content">
                         <!-- Post title (fixed 3-line height) -->
                         <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=47699086" target="_blank" onclick="event.stopPropagation();">App Store sees 84% surge in new apps as AI coding tools take off</a>
+                            <a href="https://news.ycombinator.com/item?id=47720418" target="_blank" onclick="event.stopPropagation();">Launch HN: Twill.ai (YC S25) – Delegate to cloud agents, get back PRs</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            Thanks to the new possibilities afforded by AI coding tools, the App Store is seeing a resurgence in new app submissions.
+                            YC-backed autonomous coding agent platform. Twill ships PRs in sandboxed environments, and pings you when it needs your input. Integrates with GitHub, Slack, Linear, and more.
                         </div>
                         
 
@@ -2276,26 +2289,26 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 65</span>
+                                    <span class="post-points">▲ 67</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 74</span>
+                                    <span style="color: #9ca3af;">💬 63</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-04-09T03:51:41Z"></span>
+                                    <span class="post-age" data-timestamp="2026-04-10T16:22:13Z"></span>
                                 </div>
                                 <!-- External article source (on same line as time) -->
                                 
                                 <div class="post-meta-item post-source">
-                                    <a href="https://9to5mac.com/2026/04/06/app-store-sees-84-surge-in-new-apps-as-ai-coding-tools-take-off/" target="_blank" onclick="event.stopPropagation();">
+                                    <a href="https://twill.ai" target="_blank" onclick="event.stopPropagation();">
                                         
                                             
-                                            <img src="https://9to5mac.com/wp-content/uploads/sites/6/2019/10/cropped-cropped-mac1-1.png?w=180" alt="" class="post-favicon">
+                                            <img src="https://twill.ai/favicon.svg" alt="" class="post-favicon">
                                             
                                         
-                                        <span>9to5Mac</span>
+                                        <span>Twill</span>
                                     </a>
                                 </div>
                                 
@@ -2324,7 +2337,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-04-11T07:32:32.600747+00:00">Updated 2026-04-11T07:32:32.600747+00:00</small>
+        <small data-timestamp="2026-04-11T08:44:24.990793+00:00">Updated 2026-04-11T08:44:24.990793+00:00</small>
     </div>
 </div>
 
