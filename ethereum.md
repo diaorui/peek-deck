@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-11T21:34:15.462940+00:00'
+updated: '2026-04-11T22:34:02.253975+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- news
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 11, 2026 at 21:34 UTC  
+**Last Updated:** April 11, 2026 at 22:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,301.36
+### $2,303.34
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.6%  
-**7d:** +8.5%  
-**30d:** +9.4%  
-**90d:** -26.1%  
-**1y:** +39.1%  
+**24h:** +2.5%  
+**7d:** +9.1%  
+**30d:** +10.0%  
+**90d:** -25.7%  
+**1y:** +39.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $280.30B
+**Market Cap:** $278.33B
 Rank #2
 
 **Circulating Supply:** 120,691,071 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--53.0%
+-53.4%
 
 **All-Time Low:** $0.43
-+536623.5%
++531868.1%
 
 ---
 
@@ -72,15 +72,7 @@ No max supply
 
 Over the past year I've been thinking a lot about Web3. Not the trading, not the speculation, not the casino. I don't trade crypto. I don't follow the markets. What fascinates me is the underlying idea: decentralized systems with code as the only authority. The technology itself. I've been a backend engineer for over a decade. Rails, SQL, the usual stack. But like many engineers, I burned out. The excitement to build faded. You know the feeling. You're competent, productive, but not discovering anything anymore. Then I looked seriously at blockchain. Not as an investor, but as an engineer. I asked myself: what would an application look like if built with absolute fidelity to what blockchain promises? Real utility (useful for the masses, not DeFi nonesense) NO off-chain layers (100% on-chain) NO insider advantages (fair economics) NO dependence on investors (self-sustaining) NO pointless tokenomics (ETH in, ETH out) Those five principles became my compass. I tried to build something that never violated them. But the Web3 ecosystem is built around tokenomics and speculation. There's no blueprint to follow. So I started pulling my own thread: I wanted to build something useful, deterministic, fully on-chain, with no complicated tokenomics. A simple game like TicTacToe with real ETH stakes? Interesting, but too narrow. Then the frame shifted. I wasn't building a game anymore. I was building a tournament layer. A universal competitive infrastructure that's fair, open-source, and 100% on-chain. That's when the hard problems started. How do you handle draws on a decentralized platform? How do you stop players griefing opponents without central authority? These aren't just technical questions. They're moral ones. They forced me to think deeply about fairness, about building a system nobody controls and nobody can manipulate. The answers surprised me. Forget Kubernetes, Redis, all that complexity. With these constraints (fully on-chain, truly open, completely decentralized) the legacy stack collapses into something elegant. A client talking directly to contracts. No servers. No databases. No company. Just code. That freedom changed how I think about software. So I built ETour A 100% on-chain tournament protocol, now live on Arbitrum. Players pay an entry fee, compete, the best player wins and takes the pot. Code decides everything. No intermediaries. As Web3 should be. I open-sourced it so developers can build their own games on it and inherit all of its features for free. I'm not here to tell you this is revolutionary. I built this because it felt like a problem worth solving. ETour is what came out the other side. The code is public. The contracts are immutable. The logic is yours to verify. PS: The technical docs are not final and will be updated soon. https://etour.games https://etour.games/whitepaper https://etour.games/manual https://etour.games/docs TLDR: ETour is useful, it's live, and it's open-source. Go ahead and play on it, or build your own game using its 100% on-chain and open source tournament modules.
 
-8h ago
-
----
-
-**[vProgs vs Smart Contracts: When Should You Use Each?](https://www.reddit.com/r/ethereum/comments/1sin6jy/vprogs_vs_smart_contracts_when_should_you_use_each/)**
-
-I’ve spent the last dozen articles exploring vProgs and their capabilities. In particular, I’ve argued that the emerging proof economy…
-
-🔗 [Medium](https://medium.com/@james_allan/vprogs-vs-smart-contracts-when-should-you-use-each-fcdc0e4a42ce) • 5h ago
+9h ago
 
 ---
 
@@ -144,7 +136,15 @@ The Ethereum Layer 2 powering Predictstreet. Built by Abu Dhabi's IHC, hosting a
 
 I've learnt that we can now invest in gold directly in crypto, which is quite exciting as I don't trust any bank or broker, so here's a few questions: Is this safe? What is the best within Paxos or Tether gold, is this as trustable as USDT/Stablecoins? How to buy it? EDIT: I'm getting a lot of dms asking for answers too, so I digged and understood. I was right, it's basically same as holding stablecoins like USDT in term of trust. The thing is that you easily lose -3% in slippage, I bought PAXG through https://leather.finance, which is a DEX aggregator I had 1:1, be careful when buying.
 
-3d ago
+4d ago
+
+---
+
+**[ethlocal.world — a globe for Ethereum events and communities](https://www.reddit.com/r/ethereum/comments/1sf98ns/ethlocalworld_a_globe_for_ethereum_events_and/)**
+
+I just built ethlocal.world: a simple way to explore Ethereum activity around the world. The idea was pretty straightforward: Ethereum is global, but it can still be surprisingly hard to get a quick sense of what’s happening locally or regionally. So I made a site that maps events and communities in one place and lets you browse by region and type. It takes data from ethereum.org and was inspired by the Codex Ambassadors globe. Link: https://ethlocal.world Would love honest feedback from people here: Is this actually useful? What feels missing or confusing? Is the globe view helpful, or do you mainly want a cleaner list/filter experience? What would make something like this genuinely valuable for local Ethereum communities? Built it as a small project for the Ethereum community, and I’d love to improve it based on feedback.
+
+4d ago
 
 ---
 
@@ -156,15 +156,15 @@ I've learnt that we can now invest in gold directly in crypto, which is quite ex
 
 An analyst on X has made a bold call on Ethereum, stating that the asset is on the verge of a parabolic move. The claim is based on a golden triangle formation on the chart, a setup that shows a breakout could be approaching for the leading altcoin. This approaching breakout could also serve as the…
 
-TradingView • 2h ago
+TradingView • 3h ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Friday, April 10, 2026: Prices rise ahead of CPI report](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-april-10-2026-prices-rise-ahead-of-cpi-report-111733660.html)**
+**[Zcash Jumped 49% Last Week As Privacy Coins Outperform Bitcoin and Ethereum](https://finance.yahoo.com/markets/crypto/articles/zcash-jumped-49-last-week-211200076.html)**
 
-Bitcoin opened at $71,783.52 on Friday and then rose slightly in early trading. Ethereum showed the same trend, opening at $2,189.99 and rising somewhat in early hours.
+Zcash and Dash (CRYPTO: $DASH) outpaced bitcoin (CRYPTO: $BTC) and ether (CRYPTO: $ETH) this week as a broader reli...
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -172,7 +172,7 @@ Yahoo Finance • 1d ago
 
 TD Cowen remains positive on $55 billion Bitcoin treasury pioneer Strategy, despite trimming its price target yet again.
 
-Decrypt • 1d ago
+Decrypt • 2d ago
 
 ---
 
@@ -204,11 +204,11 @@ MarketWatch • 2d ago
 
 ---
 
-**[Crypto News: Pepeto Announces Binance Level Exchange Update While Ethereum Price Prediction Maps Path to $7,500](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-announces-binance-level-exchange-update-while-ethereum-price-prediction-maps-path-to-7-500-1036012554)**
+**[Why is Crypto Rallying Today: Price Targets For Bitcoin, Ethereum and XRP](https://coinpedia.org/news/why-is-crypto-rallying-price-targets-for-bitcoin-ethereum-and-xrp/)**
 
-Dubai, UAE, April  10, 2026  (GLOBE NEWSWIRE) -- Pepeto just hit a major checkpoint on its Binance level exchange, pushing the zero fee swap engin...
+The crypto market has rebounded, with Bitcoin rising 10% over the last eight days and Ethereum up 12% in the same period. The total market cap is now up
 
-markets.businessinsider.com • 20h ago
+Coinpedia Fintech News • 1d ago
 
 ---
 
@@ -216,15 +216,15 @@ markets.businessinsider.com • 20h ago
 
 The Ethereum Foundation sold 1,250 ETH for $2.8 million and stopped staking ETH, pushing odds in the Ethereum Above Price Predictions in April market toward bea
 
-Crypto Briefing • 7h ago
+Crypto Briefing • 8h ago
 
 ---
 
-**[Why is Crypto Rallying Today: Price Targets For Bitcoin, Ethereum and XRP](https://coinpedia.org/news/why-is-crypto-rallying-price-targets-for-bitcoin-ethereum-and-xrp/)**
+**[Crypto News: Pepeto Announces Binance Level Exchange Update While Ethereum Price Prediction Maps Path to $7,500](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-announces-binance-level-exchange-update-while-ethereum-price-prediction-maps-path-to-7-500-1036012554)**
 
-The crypto market has rebounded, with Bitcoin rising 10% over the last eight days and Ethereum up 12% in the same period. The total market cap is now up
+Dubai, UAE, April  10, 2026  (GLOBE NEWSWIRE) -- Pepeto just hit a major checkpoint on its Binance level exchange, pushing the zero fee swap engin...
 
-Coinpedia Fintech News • 1d ago
+markets.businessinsider.com • 21h ago
 
 ---
 
@@ -238,7 +238,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 4K • 👍 235 • 💬 13 • ⏱️ 19:27 • 5h ago
+👁️ 9K • 👍 402 • 💬 26 • ⏱️ 19:27 • 6h ago
 
 ---
 
@@ -248,17 +248,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 127 • 💬 28 • ⏱️ 15:02 • 1d ago
-
----
-
-**[ETHEREUM BREAKOUT OR DUMP?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=cYcGmcexe6E)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 144 • 👍 12 • 💬 3 • ⏱️ 4:38 • 10h ago
+👁️ 3K • 👍 148 • 💬 27 • ⏱️ 15:02 • 1d ago
 
 ---
 
@@ -268,7 +258,27 @@ Coinbase Global (NASDAQ: $COIN) CEO Brian Armstrong is calling for the passage i
 
 📺 Paul Barron Network
 
-👁️ 49K • 👍 2K • 💬 266 • ⏱️ 33:50 • 1d ago
+👁️ 50K • 👍 2K • 💬 228 • ⏱️ 33:50 • 1d ago
+
+---
+
+**[ETHEREUM BREAKOUT OR DUMP?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=cYcGmcexe6E)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 171 • 👍 12 • 💬 3 • ⏱️ 4:38 • 11h ago
+
+---
+
+**[This is BMNR Stock Price when they OWN 5% of ETH!](https://www.youtube.com/watch?v=OBr1T90IhkI)**
+
+In this video we talk about developments in the Ethereum ecosystem, covering both the bear and bull case, answering questions ...
+
+📺 Elijah Cheng
+
+👁️ 7K • 👍 228 • 💬 44 • ⏱️ 37:25 • 1d ago
 
 ---
 
@@ -278,7 +288,17 @@ In this video, we break down Ethereum's latest price action heading into April 2
 
 📺 Gordon Frayne
 
-👁️ 191 • 👍 8 • 💬 3 • ⏱️ 12:24 • 15h ago
+👁️ 227 • 👍 12 • 💬 5 • ⏱️ 12:24 • 16h ago
+
+---
+
+**[Ethereum: Can we see another rally from here?](https://www.youtube.com/watch?v=rBNh1HPNNVk)**
+
+In this video, I take a closer look at the current Ethereum market structure and explain why the recent move higher does not ...
+
+📺 More Crypto Online
+
+👁️ 4K • 👍 211 • 💬 11 • ⏱️ 9:25 • 1d ago
 
 ---
 
@@ -292,33 +312,13 @@ Ethereum price prediction. Ethereum looks like it's going to drop over the next 
 
 ---
 
-**[This is BMNR Stock Price when they OWN 5% of ETH!](https://www.youtube.com/watch?v=OBr1T90IhkI)**
+**[Ethereum vs Solana: Which One Should You Pick?](https://www.youtube.com/watch?v=KPd1hWb2HnQ)**
 
-In this video we talk about developments in the Ethereum ecosystem, covering both the bear and bull case, answering questions ...
+cPenNetwork #cpen cPen Network: Building a Sustainable Future for Blockchain, Integrated with Web2. Install cPen mobile app ...
 
-📺 Elijah Cheng
+📺 cPen
 
-👁️ 7K • 👍 222 • 💬 42 • ⏱️ 37:25 • 1d ago
-
----
-
-**[They Used Ethereum To Start Ja Rule’s Whiskey #conversationsarekey#AmberAndOpal #JaRule](https://www.youtube.com/watch?v=KJPR3E6A2KA)**
-
-During COVID, Entrepreneur Sandy Sandiford and his partners made an unusual investment decision — they used Ethereum to ...
-
-📺 Conversations Are Key Podcast
-
-👁️ 1K • 👍 16 • 💬 1 • ⏱️ 0:49 • 21h ago
-
----
-
-**[Ethereum: Can we see another rally from here?](https://www.youtube.com/watch?v=rBNh1HPNNVk)**
-
-In this video, I take a closer look at the current Ethereum market structure and explain why the recent move higher does not ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 209 • 💬 11 • ⏱️ 9:25 • 1d ago
+👁️ 9K • 👍 616 • 💬 76 • ⏱️ 1:38 • 6h ago
 
 ---
 
@@ -328,7 +328,7 @@ Earth's top Ethereum buyer just acquired 71000 ETH, signaling a potential market
 
 📺 CoinBros
 
-👁️ 775 • ⏱️ 0:33 • 1d ago
+👁️ 788 • ⏱️ 0:33 • 2d ago
 
 ---
 
