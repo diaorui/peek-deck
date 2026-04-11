@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-11T15:56:46.564707+00:00'
+updated: '2026-04-11T16:41:37.894982+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
-- news
 - videos
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 11, 2026 at 15:56 UTC  
+**Last Updated:** April 11, 2026 at 16:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -95,7 +95,7 @@ Well i guess it’s time we rip! A boomer told me that the best assets are tangi
 
 The stock market is closed on weekend. Bitcoin is one of the few assets that can be traded on weekend. By my understanding, that would mean bitcoins volume should be higher on weekend than on weekdays because traders cant trade stocks, so trading focused on bitcoin. But bitcoins volume on weekends is actually lower than on weekdays, despite weekend, by my logic, being the time frame where everyone would jump to bitcoin because the stock market is closed
 
-5h ago
+6h ago
 
 ---
 
@@ -103,7 +103,7 @@ The stock market is closed on weekend. Bitcoin is one of the few assets that can
 
 I made around 100% in 3 weeks and was happy with that 🫡🫣
 
-21h ago
+22h ago
 
 ---
 
@@ -111,7 +111,7 @@ I made around 100% in 3 weeks and was happy with that 🫡🫣
 
 Japan plans to reclassify cryptocurrencies as financial products under the Financial Instruments and Exchange Act, shifting them from a payment-based framework to one aligned with traditional securities regulation.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/japan-moves-to-classify-bitcoin-and-crypto) • 22h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/japan-moves-to-classify-bitcoin-and-crypto) • 23h ago
 
 ---
 
@@ -119,7 +119,7 @@ Japan plans to reclassify cryptocurrencies as financial products under the Finan
 
 I’m just honestly perplexed why this really matters? For real, what difference is it going to make to finally unmask the real SN and how is that going to change the impact his held coins will make when they’re finally sold? Everyone is anonymous on the chain so why should they be any different? Sure, there’s the impact of data hungry machines and their environmental impact but sincerely that ship sailed a decade ago. But how is any of that going to change once we all know for sure who to blame? Is t it all the rest of us, constantly moving coins around that are to blame? So curious to hear opinions on this article.
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/04/09/podcasts/the-daily/satoshi-nakamoto-bitcoin-creator.html?unlocked_article_code=1.Z1A.Zc6v.htjM1l8I6VbV&smid=nytcore-ios-share) • 16h ago
+🔗 [nytimes.com](https://www.nytimes.com/2026/04/09/podcasts/the-daily/satoshi-nakamoto-bitcoin-creator.html?unlocked_article_code=1.Z1A.Zc6v.htjM1l8I6VbV&smid=nytcore-ios-share) • 17h ago
 
 ---
 
@@ -127,7 +127,7 @@ I’m just honestly perplexed why this really matters? For real, what difference
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-9h ago
+10h ago
 
 ---
 
@@ -143,7 +143,7 @@ Every cycle we talk about the supply shock, but I’m noticing that volatility i
 
 Got it yesterday and it seems to be running smoothly. Not sure I'll ever hit a block but this was the last piece to a full setup. I have a bitcoin core full node running with inbound/outbound connections, and now I've got 90T helping secure the network, its not much but im doing my part to help decentralize and just maybe I'll hit a block!
 
-15h ago
+16h ago
 
 ---
 
@@ -151,7 +151,7 @@ Got it yesterday and it seems to be running smoothly. Not sure I'll ever hit a b
 
 An economist named Steve Keen says Bitcoin will go to zero because it uses too much energy. It only took me ten minutes to break down why his "critique" makes no sense
 
-🔗 [youtu.be](https://youtu.be/t7Ca56-XxPM) • 19h ago
+🔗 [youtu.be](https://youtu.be/t7Ca56-XxPM) • 20h ago
 
 ---
 
@@ -163,7 +163,7 @@ An economist named Steve Keen says Bitcoin will go to zero because it uses too m
 
 Six weeks of war have revealed that bitcoin's floor depends entirely on a handful of mandated buyers absorbing what everyone else is trying to get rid of.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -179,7 +179,7 @@ The New York Times • 1d ago
 
 In the past week, the Bitcoin market rose by almost 10%, representing a significant rally amid recent bearish struggles. Notably, the leading cryptocurrency has now reclaimed the $73,000 price zone for the first time since mid-March, translating to a mild bullish undertone for most investors. Howev…
 
-TradingView • 1h ago
+TradingView • 2h ago
 
 ---
 
@@ -187,7 +187,7 @@ TradingView • 1h ago
 
 Bitcoin and Ethereum rose this week.  But privacy coins got a bigger boost.  Leading privacy coins surge when crypto bigwigs talk about them.
 
-dlnews.com • 31m ago
+dlnews.com • 1h ago
 
 ---
 
@@ -211,7 +211,7 @@ Yahoo Finance • 3d ago
 
 The Iranian regime has increasingly resorted to digital assets to evade U.S. sanctions.
 
-Fortune • 20h ago
+Fortune • 21h ago
 
 ---
 
@@ -225,7 +225,7 @@ Seeking Alpha • 1d ago
 
 **[Software stocks are getting pulverized — but bitcoin’s rebound hints that a bottom might be in](https://www.marketwatch.com/story/software-stocks-are-getting-pulverized-but-bitcoins-rebound-hints-that-a-bottom-might-be-in-512baac7)**
 
-MarketWatch • 18h ago
+MarketWatch • 19h ago
 
 ---
 
@@ -267,7 +267,7 @@ Neha Narula
 
 The average production cost was sitting at $88,000 per bitcoin in mid-March, according to Checkonchain's difficulty regression model.
 
-⬆️ 108 • 💬 100 • 2h ago • [coindesk.com](https://www.coindesk.com/markets/2026/03/22/bitcoin-miners-are-losing-usd19-000-on-every-btc-produced-as-difficulty-drops-7-8)
+⬆️ 108 • 💬 100 • 3h ago • [coindesk.com](https://www.coindesk.com/markets/2026/03/22/bitcoin-miners-are-losing-usd19-000-on-every-btc-produced-as-difficulty-drops-7-8)
 
 ---
 
@@ -303,7 +303,7 @@ New York Times report claims London-born Adam Back is creator of the cryptocurre
 
 Bitcoin Core Will Maintain the Protocol. It May Not Save It. The reference implementation that sustains a $1.4 trillion network continues to produce quality code while losing the institutional capa...
 
-⬆️ 3 • 💬 0 • 10h ago • [GitHub](https://github.com/bitcoin/bitcoin/issues/35055)
+⬆️ 3 • 💬 0 • 11h ago • [GitHub](https://github.com/bitcoin/bitcoin/issues/35055)
 
 ---
 
@@ -325,7 +325,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 5K • 👍 580 • 💬 17 • ⏱️ 52:49 • 2h ago
+👁️ 5K • 👍 580 • 💬 17 • ⏱️ 52:49 • 3h ago
 
 ---
 
@@ -335,7 +335,7 @@ Everyone is distracted by Satoshi theories while real money floods into Bitcoin.
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 1K • 💬 87 • ⏱️ 10:48 • 18h ago
+👁️ 21K • 👍 1K • 💬 87 • ⏱️ 10:48 • 19h ago
 
 ---
 
@@ -345,7 +345,7 @@ Follow me on X for my best content: http://www.X.com/AdamBLiv Transform Dormant 
 
 📺 Adam Livingston
 
-👁️ 8K • 👍 764 • 💬 202 • ⏱️ 18:40 • 18h ago
+👁️ 8K • 👍 764 • 💬 202 • ⏱️ 18:40 • 19h ago
 
 ---
 
@@ -385,7 +385,7 @@ My Trading Signals https://discord.com/invite/jRAnCV9CTB Trade on MEXC ...
 
 📺 Road To $1 Million USD
 
-👁️ 3K • 👍 206 • 💬 16 • ⏱️ 7:04 • 17h ago
+👁️ 3K • 👍 206 • 💬 16 • ⏱️ 7:04 • 18h ago
 
 ---
 
@@ -395,7 +395,7 @@ Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bi
 
 📺 Tyler S
 
-👁️ 10K • 👍 693 • 💬 398 • ⏱️ 19:36 • 23h ago
+👁️ 10K • 👍 693 • 💬 398 • ⏱️ 19:36 • 1d ago
 
 ---
 
@@ -415,7 +415,7 @@ Plenty of crypto newbies lost money chasing the bitcoin boom that followed Donal
 
 📺 Forbes
 
-👁️ 52K • 👍 1K • 💬 212 • ⏱️ 5:05 • 21h ago
+👁️ 52K • 👍 1K • 💬 212 • ⏱️ 5:05 • 22h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-11T15:56:46.572756+00:00'
+updated: '2026-04-11T16:41:37.904211+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 11, 2026 at 15:56 UTC  
+**Last Updated:** April 11, 2026 at 16:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2042912788717408509
 
-4h ago
+5h ago
 
 ---
 
@@ -44,13 +44,13 @@ From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2042912788717408509
 
 I've been seeing a lot of noise from the tech world about robotics being the next big wave. Curious what people actually deploying and maintaining these systems think. What's working, what's vaporware, and what does the gap between a demo and a real production deployment actually look like?
 
-6h ago
+7h ago
 
 ---
 
 **[XSTO introduces a hybrid biped robot that rolls on wheels and jumps over obstacles](https://www.reddit.com/r/robotics/comments/1shskju/xsto_introduces_a_hybrid_biped_robot_that_rolls/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -66,7 +66,7 @@ I've been seeing a lot of noise from the tech world about robotics being the nex
 
 Context and Setup : Ros2 Humble , Gazebo Ignition Fortress . Ubuntu 22.04 I am trying to make a SLAM robot this was my model with Lidar (laser_frame) in Rviz current I am publishing to cmd_vel to rotate the bot but along with the bot the 2D point cloud is also rotating in Rviz. is this normal or a problem (actually having issues with mapping too) tf: Map ->odom -> base_footprint-> base_link -> laser_frame Please help , stuck here.
 
-20h ago
+21h ago
 
 ---
 
@@ -74,7 +74,7 @@ Context and Setup : Ros2 Humble , Gazebo Ignition Fortress . Ubuntu 22.04 I am t
 
 I'm currently working on a Yaskawa Ms-100 with Dx100, changing a wrist unit. The manual we have is for a MS-100II with DX200. This manual says the wrist uses flange sealant. We removed the wrist and found that there is an O-ring. The manual does not show this O-ring on the parts list or diagram. I cannot find a MS100 specific manual on Yaskawa's site, only the MS100II. Is anyone familiar with these that could offer some advice?
 
-6h ago
+7h ago
 
 ---
 
@@ -82,7 +82,7 @@ I'm currently working on a Yaskawa Ms-100 with Dx100, changing a wrist unit. The
 
 How do u solve a problem of Coverage path planning ? I’m stuck at generating a trajectory for coordinates with surface normals. Whats the ideal approach to tackle the trajectory generation which would cover the whole region.
 
-10h ago
+11h ago
 
 ---
 
@@ -148,7 +148,7 @@ Fox News • 1d ago
 
 These Southern Utah students now have a big reason to brag after a celebrated performance at a state-level robotics competition.
 
-St. George News • 1d ago
+St. George News • 2d ago
 
 ---
 
@@ -156,7 +156,7 @@ St. George News • 1d ago
 
 Meet 'Digit', a humanoid robotic worker made by Agility Robotics, now part of a new wave of robots replacing workers at companies like Schaeffler, Toyota, and GXO. NBC News' Brian Cheung takes a look.
 
-NBC News • 3h ago
+NBC News • 4h ago
 
 ---
 
@@ -258,7 +258,7 @@ In this video, I'll show you a first look at the brand-new Dyson Spot+Scrub AI R
 
 📺 Just A Dad Approved
 
-👁️ 1K • 👍 53 • 💬 22 • ⏱️ 55:21 • 3h ago
+👁️ 1K • 👍 53 • 💬 22 • ⏱️ 55:21 • 4h ago
 
 ---
 
@@ -278,7 +278,7 @@ Welcome to the ultimate Optimus Prime comparison! In this video, we dive deep in
 
 📺 Bob ToysReview
 
-👁️ 9K • 👍 3K • 💬 166 • ⏱️ 9:25 • 8h ago
+👁️ 9K • 👍 3K • 💬 166 • ⏱️ 9:25 • 9h ago
 
 ---
 
