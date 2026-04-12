@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-12T16:53:21.550010+00:00'
+updated: '2026-04-12T17:35:54.678614+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
-- videos
 - cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 12, 2026 at 16:53 UTC  
+**Last Updated:** April 12, 2026 at 17:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -85,13 +85,13 @@ Rank #1
 
 **[Iran Enforces Bitcoin as the Only Means to Pay Toll on Strait of Hormuz](https://www.reddit.com/r/Bitcoin/comments/1sjd9qb/iran_enforces_bitcoin_as_the_only_means_to_pay/)**
 
-4h ago
+5h ago
 
 ---
 
 **[Never "download" your Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1sjanj9/never_download_your_bitcoin/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -107,13 +107,13 @@ Iran’s Strait of Hormuz Management Plan, passed in late March 2026, mandates B
 
 Just a quick heads up for anyone waking up tomorrow and wondering why crypto dipped again. The US–Iran meeting that’s been going on for the past 21 hours just ended, and it didn’t go well at all. Markets usually react fast to stuff like this, so if your portfolio looks red, that’s probably the reason. Not trying to spread fear, just giving you a bit of context so you’re not confused when you check your wallet. Stay safe out there guys and DO NOT PANIC-SELL based on emotions. Do your own research and don’t make decisions based on short-term news. Sooner or later we'll fly in green again (i hope😅)
 
-10h ago
+11h ago
 
 ---
 
 **[Mining bitcoin in Oklahoma oilfields where waste gas isn't a liability. It is turned into productive energy instead 🎬](https://www.reddit.com/r/Bitcoin/comments/1sjif4k/mining_bitcoin_in_oklahoma_oilfields_where_waste/)**
 
-52m ago
+1h ago
 
 ---
 
@@ -121,7 +121,7 @@ Just a quick heads up for anyone waking up tomorrow and wondering why crypto dip
 
 This is the third post in the series. First one covered why 5 BTC beats $2.5M in an S&P index fund, second one went deeper on the math. I went another layer deeper and this one gives you a single number. 1 BTC = $20K per year safe withdrawals for the next 30 years with 99% confidence. 2 BTC = $40K. 3 BTC = $60K. 5 BTC = $100K. No timing. No trading. You just sell a fixed dollar amount every month at whatever price Bitcoin happens to be. Dumbest possible strategy and it works. How I got here I ran 5,000 simulated price paths forward at every possible starting price between deep bear (half of trend) and peak bull (2.5x trend). Six different stress scenarios. Three time horizons. Nearly a million total simulations. The model isn't a line on a chart. It has four moving parts: A power law trend that decelerates over decades. No infinite-growth fairy tales. A price floor at 0.432x trend. Tested every cycle. Never broken. Reflects back up. Mean reversion. Prices that stretch away from the long-term trend get pulled back, like a rubber band. Measured half-life: about 11 months. Fat-tailed shocks and a wobbly floor in the stress scenarios, because I wanted to break it. I couldn't. $20K is the stress test, not the base case The $20K number assumes your cost of living grows at 7% per year. Your expenses double every decade. That matches M2 money supply growth, which is what most Bitcoiners mean when they say "real inflation." Under milder assumptions the number goes up: 3% CPI: $25-27K per BTC per year No inflation growth: $27-31K per BTC per year $20K is the floor of the floor. Harshest inflation assumption. 99% in-model survival. 30 year horizon. Entry price doesn't matter This is the finding that surprised me most. At 30 years, the difference in safe withdrawal between buying at the bottom and buying at the top is about $1,000 per year. The curves are almost flat. The reason is mean reversion. If you buy low, prices pull you back to trend within about two years. If you buy high, same thing in reverse. After that, both buyers spend the remaining 28 years selling into the same price distribution. The early advantage or disadvantage washes out. This is the opposite of stocks. In equity retirement planning, buying at a high valuation crushes your safe withdrawal rate. With Bitcoin under the power law, it doesn't. Mean reversion rescues bear buyers and humbles bull buyers, and the net effect on your wallet is roughly zero. You keep almost all of it Here's the part nobody expects. On the median path, after 30 years of withdrawals, you still hold over 95% of your bitcoin. The price growth so thoroughly outpaces the selling that you barely touch principal. You're not spending down a pile. You're skimming off the growth. The comparison that matters The traditional 4% rule says you need $500K in an S&P 500 index fund to safely pull $20K per year. One bitcoin at today's trend price (~$131K) does the same job. At bear entries the comparison gets silly. A bitcoin bought at 0.52x trend (~$69K) supports a 29% annual withdrawal rate relative to purchase price. The Bengen 4% rule doesn't compete. It's not even the same sport. What this is NOT saying This is a model. The power law has held for 15 years across four complete halving cycles. That's real data. But 15 years is not 150 years. I price the model risk separately: roughly a 1% structural haircut over 30 years. That brings true survival from 99% to about 98%. The question isn't whether Bitcoin will crash 80%. The model already handles that. The question is whether adoption keeps following the power law and whether the floor holds. Those are the only two things that matter. Everything else is already in the stress test. All figures are pre-tax. Account for your local capital gains treatment when planning actual spendable income. Bottom line 1 BTC = $20K per year. Worst case inflation. Any entry price. 99% in-model reliability. 30 years. Stack accordingly. Research and methodology is published on https://btcpowerlaw.nl/research/bitcoin-swr/
 
-3h ago
+4h ago
 
 ---
 
@@ -129,7 +129,7 @@ This is the third post in the series. First one covered why 5 BTC beats $2.5M in
 
 Let that sink in for a second. One week ago retail was heavily long at 1.73 L/S ratio. Today it's 0.745 — net short. In seven days retail went from max bullish to betting against BTC. Meanwhile Morgan Stanley is rolling out BTC ETF access to 16,000 financial advisors. Institutional infrastructure is expanding while retail is panic shorting. Fear & Greed went from 9 to 16 — still Extreme Fear but improving. The weekly trend: 9, 11, 12, 13, 11, 17, 14, 16. Slowly grinding up while retail flips bearish. BTC is 15.3% below the 200 EMA at $84,632 so the macro structure is still bearish. No argument there. But the aggressor ratio is at 0.6213 — that's buy dominant. Somebody is accumulating while retail exits. Iran-US talks collapsing yesterday pushed price from $73.8K to $71.6K. Geopolitics is driving short term action but it doesn't change the fact that institutional rails are being built in the background. The last time retail was this short and institutions were this active, it didn't end well for the shorts.
 
-10h ago
+11h ago
 
 ---
 
@@ -137,7 +137,7 @@ Let that sink in for a second. One week ago retail was heavily long at 1.73 L/S 
 
 Many Bitcoiners know the core value prop - scarcity, decentralization, sound money (e.g Austrian Economics and all that). But if you're a consistent DCA buyer like I am, you've felt the other side of that: buying at local tops and immediately watching a 10-20% drawdown hit your stack. TLDR: Bitcoin's no wash sale rule means every dip is a tax harvesting opportunity. Most people know this exists. Almost nobody is actually doing it systematically. What most Bitcoiners don't know is that volatility creates a legal tax harvesting opportunity that essentially doesn't exist for other kinds of investors. Here’s why this works (and why it’s different from stocks): In 2014, the IRS issued Notice 2014-21 classifying Bitcoin as property, not a security. This means the wash sale rule which prevents stock investors from selling at a loss and immediately rebuying - doesn't actually apply to Bitcoin**.** In practice: if you bought 1 BTC at $110,000 and it drops to $80,000, you can sell and rebuy within seconds, locking in a $30,000 capital loss while maintaining your exact position. No 30-day waiting period. No penalty. The obvious question then is, what about the spread? If you're in a 32% bracket in the US, that $30k loss is a $9,600 credit. Even after a 0.5% exchange spread (maybe $500 on the round trip), you're still up over $9,000 in liquidity immediately. You're exchanging a small certain cost for a massive tax benefit you can redeploy straight back into BTC. (Quick note on how the losses actually apply: up to $3,000 per year offsets your ordinary W2 income directly - so a few hundred bucks back at minimum regardless of your gains situation. Everything above that carries forward indefinitely to offset future capital gains. So even if you have no gains this year, the losses don't disappear - they stack.) Ten dollars of tax savings compounding in BTC for a decade is worth a lot more than ten dollars at filing time years from now. The catch now is that actually doing this is a nightmare. If you're DCA'ing regularly, figuring out which specific lots are harvestable - and exactly when - is genuinely tedious to do manually. And while tools are out there that show you harvesting opportunities, they're broad 💩coin tax reporting platforms where Bitcoin is one of hundreds of nonsense assets. They show you a snapshot - they don't continuously monitor your positions and alert you automatically as opportunities emerge throughout the year & harvest them for you. I'm an engineer who got annoyed doing this by hand with my Strike => self custody setup and built a software layer specifically for this. Bitcoin-only, continuously monitors your cost basis across your exchange accounts, surfaces harvestable opportunities in real time, and executes the harvest automatically across all major exchanges with full tax lot tracking updated instantly. Personally, I didn’t want to host other people’s API keys, so I also built a self-host option for more technically savvy & privacy centric brothers/sisters. You can run it via your own GitHub Secrets so the keys never leave your infrastructure. If you want managed software with reports to share with your CPA and stuff like that, that's also available. If anyone wants to try it or learn more, I’ve got 10 spots for the first people from the sub who want to jump in & try it out. Happy to help with the setup personally! EDIT: Okay so this post has blown up more than anticipated. Transparently I was only initially planning to allow for 10 users to try from the sub and we’ve nearly reached that threshold. Feel free to leave a comment or DM me directly if you’d be interested and I’ll be happy to talk through things. We don’t support all exchanges and all hardware wallets today although we support the major ones and are adding more. Let me know if you have any questions or concerns!
 
-16h ago
+17h ago
 
 ---
 
@@ -145,7 +145,7 @@ Many Bitcoiners know the core value prop - scarcity, decentralization, sound mon
 
 So, just how much Bitcoin does one sell to make the market drop $1000?
 
-13h ago
+14h ago
 
 ---
 
@@ -155,7 +155,7 @@ So, just how much Bitcoin does one sell to make the market drop $1000?
 
 **[‘No Deal’— Bitcoin Braces For Crash After Fruitless Vance Iran Talks](https://www.forbes.com/sites/digital-assets/2026/04/11/no-deal--bitcoin-braces-for-crash-after-fruitless-vance-iran-talks/)**
 
-Forbes • 13h ago
+Forbes • 14h ago
 
 ---
 
@@ -163,7 +163,7 @@ Forbes • 13h ago
 
 Arkham data shows 8,285 BTC in Coinbase Prime custody as the company swings from $8 billion profit to nearly $5 billion loss ahead of its IPO push.
 
-CoinDesk • 21h ago
+CoinDesk • 22h ago
 
 ---
 
@@ -171,7 +171,7 @@ CoinDesk • 21h ago
 
 The company has no greater ambition than to accumulate Bitcoin.
 
-The Motley Fool • 37m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -179,7 +179,7 @@ The Motley Fool • 37m ago
 
 A fake Ledger app from Apple’s Mac App Store drained nearly 6 BTC, worth more than $424,000, from the musician G. Love.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -187,7 +187,7 @@ Yahoo Finance • 1h ago
 
 After a tremendous 16,820% gain in the past 10 years, it's reasonable to believe that the leading cryptocurrency's performance won't be nearly as impressive in the future.
 
-The Motley Fool • 37m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -213,7 +213,7 @@ The New York Times • 3d ago
 
 Bitcoin and Ether aren’t far from levels that could signal a trend reversal this year, despite a growing consensus across the industry calling for a bear market, according to macro analyst Jordi Visser.“If we trade above $76,000 and at the same time we see Ethereum above $2,400, I believe that is t…
 
-TradingView — Track All Markets • 11h ago
+TradingView — Track All Markets • 12h ago
 
 ---
 
@@ -221,7 +221,7 @@ TradingView — Track All Markets • 11h ago
 
 Research suggests Bitcoin users could defend against future quantum attacks using a transaction design that works within existing rules.
 
-Decrypt • 3h ago
+Decrypt • 4h ago
 
 ---
 
@@ -263,7 +263,7 @@ Neha Narula
 
 The British computer scientist and entrepreneur has denied being the man who the New York Times identified at Satoshi Nakamoto.
 
-⬆️ 15 • 💬 1 • 3d ago • [bbc.com](https://www.bbc.com/news/articles/cgrl4l1y9yxo)
+⬆️ 15 • 💬 1 • 4d ago • [bbc.com](https://www.bbc.com/news/articles/cgrl4l1y9yxo)
 
 ---
 
@@ -277,7 +277,7 @@ The British computer scientist and entrepreneur has denied being the man who the
 
 A three-part deep dive into quantum computing's actual threat to Bitcoin. 17 researchers, 13 proposals, real engineering. No hype. No FUD.
 
-⬆️ 5 • 💬 1 • 21h ago • [Bitcoin & Quantum Computing](https://bitcoinquantum.space)
+⬆️ 5 • 💬 1 • 22h ago • [Bitcoin & Quantum Computing](https://bitcoinquantum.space)
 
 ---
 
@@ -285,7 +285,7 @@ A three-part deep dive into quantum computing's actual threat to Bitcoin. 17 res
 
 Arkham data shows 8,285 BTC in Coinbase Prime custody as the company swings from $8 billion profit to nearly $5 billion loss ahead of its IPO push.
 
-⬆️ 4 • 💬 0 • 36m ago • [coindesk.com](https://www.coindesk.com/markets/2026/04/11/musk-s-spacex-holds-usd603-million-in-bitcoin-despite-usd5-billion-loss-stemming-from-xai)
+⬆️ 4 • 💬 0 • 1h ago • [coindesk.com](https://www.coindesk.com/markets/2026/04/11/musk-s-spacex-holds-usd603-million-in-bitcoin-despite-usd5-billion-loss-stemming-from-xai)
 
 ---
 
@@ -323,7 +323,7 @@ Bitcoin #Crypto #Finance Ben Cowen joins me to break down why Bitcoin still look
 
 📺 The Wolf Of All Streets
 
-👁️ 6K • 👍 529 • 💬 172 • ⏱️ 30:53 • 3h ago
+👁️ 6K • 👍 529 • 💬 172 • ⏱️ 30:53 • 4h ago
 
 ---
 
@@ -343,7 +343,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 ✓
 
 📺 Altcoin Daily
 
-👁️ 42K • 👍 2K • 💬 99 • ⏱️ 12:09 • 23h ago
+👁️ 42K • 👍 2K • 💬 99 • ⏱️ 12:09 • 1d ago
 
 ---
 
@@ -353,7 +353,7 @@ Support the show & help keep Bitcoin News Alerts independent - tap “Join” to
 
 📺 Bitcoin News Alerts
 
-👁️ 3K • 👍 162 • 💬 83 • ⏱️ 19:15 • 18h ago
+👁️ 3K • 👍 162 • 💬 83 • ⏱️ 19:15 • 19h ago
 
 ---
 
@@ -373,7 +373,7 @@ Three massive moves just hit Bitcoin in one week and almost nobody is talking ab
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 1K • 💬 144 • ⏱️ 16:43 • 20h ago
+👁️ 22K • 👍 1K • 💬 144 • ⏱️ 16:43 • 21h ago
 
 ---
 
@@ -401,7 +401,7 @@ Plenty of crypto newbies lost money chasing the bitcoin boom that followed Donal
 
 📺 CryptoWendyO
 
-👁️ 5K • 👍 362 • 💬 26 • ⏱️ 1:00 • 19h ago
+👁️ 5K • 👍 362 • 💬 26 • ⏱️ 1:00 • 20h ago
 
 ---
 

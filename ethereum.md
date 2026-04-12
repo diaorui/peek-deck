@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-12T16:53:21.555206+00:00'
+updated: '2026-04-12T17:35:54.684530+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
-- videos
 - cryptocurrency
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 12, 2026 at 16:53 UTC  
+**Last Updated:** April 12, 2026 at 17:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 **Welcome to the Daily General Discussion on** r/ethereum [https://imgur.com/3y7vezP\](https://imgur.com/3y7vezP) Bookmarking this link will always bring you to the current daily: [https://old.reddit.com/r/ethereum/about/sticky/?num=2\](https://old.reddit.com/r/ethereum/about/sticky/?num=2) Please use this thread to discuss Ethereum topics, news, events, and even *price*! Price discussion posted elsewhere in the subreddit will **continue to be removed.** As always, be constructive. - [Subreddit Rules](https://www.reddit.com/r/ethereum/about/rules/) Want to stake? Learn more at r/ethstaker **Community Links** * [Ethereum Jobs](https://ethereum.org/en/community/get-involved/#ethereum-jobs), [Twitter](https://x.com/ethereum) * [EVMavericks YouTube](https://www.youtube.com/@evmavericks), [Discord](https://discord.gg/evmavericks), [Doots Podcast](https://evmavericks.libsyn.com/) * [Doots Website](https://dailydoots.com/), Old Reddit [Doots Extension](https://github.com/etheralpha/ethfinance-extension) by u/hanniabu Calendar: [https://dailydoots.com/events/\](https://dailydoots.com/events/)
 
-11h ago
+12h ago
 
 ---
 
@@ -80,7 +80,7 @@ No max supply
 
 I permanently lost $2,000 USD value trying to stake via direct contract interaction on Aerodrome. The CLGauge contract accepts safeTransferFrom via the onERC721Received hook but silently fails to update the staking state, creating a black hole for assets. I’m sharing this to warn other developers and integrators building on top of Aerodrome (Base chain), and hopefully get the attention of the Core Team or the Emergency Council, since standard Discord support just gave me the "contracts are immutable" playbook. Recently, I performed a safeTransferFrom (as a fallback to approve and deposit) directly to the Aerodrome Gauge (0x83e2E9493996651ed63033d81f5052cBE2fEB6A1). The transaction was mathematically and technically successful on-chain because the Gauge contract explicitly implements the IERC721Receiver interface. However, this is where the integration trap lies: While the contract gladly accepted physical custody of my NFT position, it completely failed to trigger the internal logic to update the _stakes mapping and the rewardGrowth snapshots. The Reality: By exposing the receiver hook without the corresponding push-based deposit logic, Aerodrome's contract signals false compatibility. It creates a critical state mismatch: the Gauge owns the NFT, but my wallet is no longer recognized as the owner, meaning I can neither call deposit() nor withdraw(). Has any other developer encountered this problem?
 
-3m ago
+45m ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The Ether Machine terminates its SPAC merger with Dynamix, citing unfavorable market conditions amid ETH's sharp decline from its 2025 highs.
 
-BeInCrypto • 21h ago
+BeInCrypto • 22h ago
 
 ---
 
@@ -162,7 +162,7 @@ BeInCrypto • 21h ago
 
 @Etherdude 1166 Views|1 Like
 
-Moomoo • 2h ago
+Moomoo • 3h ago
 
 ---
 
@@ -184,7 +184,7 @@ TradingView — Track All Markets • 10h ago
 
 **[Is Ethereum truly undervalued? Strong on-chain growth says yes, but…](https://ambcrypto.com/is-ethereum-truly-undervalued-strong-on-chain-growth-says-yes-but/)**
 
-AMBCrypto • 1h ago
+AMBCrypto • 2h ago
 
 ---
 
@@ -192,7 +192,7 @@ AMBCrypto • 1h ago
 
 Ethereum is currently 55% below its all-time high as U.S.-Iran tensions escalate. The likelihood of Ethereum exceeding key April price targets has dropped, with
 
-Crypto Briefing • 11h ago
+Crypto Briefing • 12h ago
 
 ---
 
@@ -214,7 +214,7 @@ Seeking Alpha • 2d ago
 
 **[Ethereum or Solana: Ethereum (ETH), Solana (SOL), and Pepeto, Which One Should You Buy During the Dip in 2026](https://financefeeds.com/ethereum-or-solana-ethereum-eth-solana-sol-and-pepeto-which-one-should-you-buy-during-the-dip-in-2026/)**
 
-FinanceFeeds • 10h ago
+FinanceFeeds • 11h ago
 
 ---
 
@@ -236,7 +236,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 690 • 👍 62 • 💬 105 • ⏱️ 10:57 • 3h ago
+👁️ 690 • 👍 62 • 💬 105 • ⏱️ 10:57 • 4h ago
 
 ---
 
@@ -256,7 +256,7 @@ Ethereum has completed a five wave move up from the March lows – a critical El
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 175 • 💬 18 • ⏱️ 9:19 • 15h ago
+👁️ 3K • 👍 175 • 💬 18 • ⏱️ 9:19 • 16h ago
 
 ---
 
@@ -286,7 +286,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 156 • 👍 9 • 💬 3 • ⏱️ 4:41 • 7h ago
+👁️ 156 • 👍 9 • 💬 3 • ⏱️ 4:41 • 8h ago
 
 ---
 
@@ -296,7 +296,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 171 • 👍 33 • ⏱️ 5:19 • 1h ago
+👁️ 171 • 👍 33 • ⏱️ 5:19 • 2h ago
 
 ---
 

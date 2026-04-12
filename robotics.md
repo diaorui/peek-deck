@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-12T16:53:21.558039+00:00'
+updated: '2026-04-12T17:35:54.687736+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 12, 2026 at 16:53 UTC  
+**Last Updated:** April 12, 2026 at 17:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Somewhere in Poland](https://www.reddit.com/r/robotics/comments/1sjhnd1/somewhere_in_poland/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Hi everyone! I've been developing the LS3 BostonDynamics Mini quadruped for a while now. The goal was to create a modular, 3D-printable frame that can carry a Raspberry Pi. It’s still a work in progress, but the mechanical assembly is finally done! I'm happy to discuss the kinematics or electronics if anyone is interested!
 
-8h ago
+9h ago
 
 ---
 
@@ -50,13 +50,13 @@ Hi everyone! I've been developing the LS3 BostonDynamics Mini quadruped for a wh
 
 Technical blog post with multiple videos: https://generalistai.com/blog/apr-02-2026-GEN-1
 
-6h ago
+7h ago
 
 ---
 
 **[Kame Robotics unveils a compact open-source quadruped for desk-top robotics experiments](https://www.reddit.com/r/robotics/comments/1siofos/kame_robotics_unveils_a_compact_opensource/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -72,7 +72,7 @@ After more than two years of solo development, I'm releasing v1.0 of the Bimo Ro
 
 I know we usually only post our own projects here, but i was procrastinating on my own codebase today and went down a rabbit hole looking at github repos from some 48h REDHackathon happening in shanghai right now (hosted by rednote I think? today is their demo day). tbh i mostly expected to see a bunch of hastily duct-taped openai wrappers and weekend spaghetti code. clicked on one of the hardware submissions called Mira. at first glance the picture just looks like a cute 3d-printed pixar lamp. I figured it was just a physical shell with a basic python script piping some face tracking coordinates directly to a couple servos. but looking at the actual code... the system architecture is surprisingly hardcore. They didnt just hardcode reactions. they built a full embodied interaction system. the pipeline goes from single camera input -> vision event extraction -> scene selection -> local bridge / safety layer -> ESP32 firmware. Instead of raw tracking they built a scene-based motion choreography abstraction. it interprets visual data into states like 'curious_observe', 'cute_probe', and 'standup_reminder'. The esp32 firmware isnt a toy either... it has a custom binary serial protocol, touch thresholds, and ack/err handling. they even built offline rehearsal scripts, fault injection, and a web director console so they could test the logic without the physical hardware glitching out on stage. Most ai right now just sits in a chat window waiting for a prompt. this thing is trying to actually notice your presence in a physical space and respond with body language and light rhythms before you even say a word. idk, seeing hardware prototypes with this level of release-oriented engineering come out of a 48h builder camp makes me feel pretty lazy today lol. its just a stark reminder that the next phase of ai probably isnt going to be on a screen, but actually sitting on our desks observing us. anyway just thought id share something cool that isnt another b2b saas wrapper. repo if anyone wants to look at the c++ / esp32 logic (not mine obviously): github.com/JunkaiWang-TheoPhy/Mira-Light-AI-That-Sees-You
 
-7h ago
+8h ago
 
 ---
 
@@ -88,7 +88,7 @@ This is more of a rant for me to verbalize my thoughts. Feel free to add your in
 
 PNP Robotics: Haptic Teleoperation for data collection. At the Embodied AI Conference, we’re excited to showcase our integration of the Haply Inverse3 haptic joystick with Franka robots, enabling real-time pose control and immersive haptic feedback for intuitive teleoperation. EmbodiedAI #HapticTeleoperation #Franka #Haply #Robotics #Teleoperation
 
-11h ago
+12h ago
 
 ---
 
@@ -104,7 +104,7 @@ From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2042912788717408509
 
 Recently I was spending time building my ROS 2 robots and one functionality I always wanted was Pan Tilt camera, so I built it 🚀 I designed motor housing with CAD, and used micro-ros to control MCU. Lastly I made simple PID object follower using high speed, low latency Isaac ROS object detection running on Robot’s Jetson.
 
-🔗 [youtu.be](https://youtu.be/CmBWlHjohjg) • 1h ago
+🔗 [youtu.be](https://youtu.be/CmBWlHjohjg) • 2h ago
 
 ---
 
@@ -132,7 +132,7 @@ About Amazon • 2d ago
 
 40 teams battled during the two-day district qualifiers at Escanaba High School.
 
-Upper Michigan's Source • 19h ago
+Upper Michigan's Source • 20h ago
 
 ---
 
@@ -148,7 +148,7 @@ The Washington Post • 2d ago
 
 <p>PLAINS TWP. — It was a celebration of robotics on Saturday as regional schools gathered at Wilkes-Barre Area High School for Wolfpack Robotics’ second Robo Rally.</p>
 
-Times Leader • 16h ago
+Times Leader • 17h ago
 
 ---
 
@@ -164,7 +164,7 @@ NBC News • 2d ago
 
 A Chinese factory is producing humanoid robots every 30 minutes, marking a shift toward large-scale manufacturing and broader adoption.
 
-Fox News • 2d ago
+Fox News • 3d ago
 
 ---
 
@@ -198,7 +198,7 @@ Try Seedance 2.0 with Claude on Higgsfield: https://higgsfield.ai/s/seedance-2-0
 
 📺 AI Revolution
 
-👁️ 46K • 👍 926 • 💬 124 • ⏱️ 14:57 • 17h ago
+👁️ 46K • 👍 926 • 💬 124 • ⏱️ 14:57 • 18h ago
 
 ---
 
@@ -218,7 +218,7 @@ Could AI become dangerous? Can we trust AI Agents? AGI. Use code insideai at htt
 
 📺 InsideAI
 
-👁️ 487K • 👍 19K • 💬 2K • ⏱️ 16:24 • 2d ago
+👁️ 487K • 👍 19K • 💬 2K • ⏱️ 16:24 • 3d ago
 
 ---
 
@@ -238,7 +238,7 @@ Toyota Motor Corp. showcased its latest AI-powered basketball robot, CUE7, showc
 
 📺 Al Jazeera English
 
-👁️ 7K • 👍 134 • 💬 16 • ⏱️ 0:42 • 4h ago
+👁️ 7K • 👍 134 • 💬 16 • ⏱️ 0:42 • 5h ago
 
 ---
 

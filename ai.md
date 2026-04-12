@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-12T16:53:21.542482+00:00'
+updated: '2026-04-12T17:35:54.670340+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
 - social
 - videos
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 12, 2026 at 16:53 UTC  
+**Last Updated:** April 12, 2026 at 17:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 AMD’s AI director just analyzed 6,852 Claude Code sessions, 234,760 tool calls, and 17,871 thinking blocks. Her conclusion: “Claude cannot be trusted to perform complex engineering tasks.” Thinking depth dropped 67%. Code reads before edits fell from 6.6 to 2.0. The model started editing files it hadn’t even read. Stop-hook violations went from zero to 10 per day. Anthropic admitted they silently changed the default effort level from “high” to “medium” and introduced “adaptive thinking” that lets the model decide how much to reason. No announcement. No warning. When users shared transcripts, Anthropic’s own engineer confirmed the model was allocating ZERO thinking tokens on some turns. The turns with zero reasoning? Those were the ones hallucinating. AMD’s team has already switched to another provider. But here’s what most people are missing. This isn’t just a Claude story. AMD had 50+ concurrent sessions running on one tool. Their entire AI compiler workflow was built around Claude Code. One silent update broke everything. That’s vendor lock-in. And it will keep happening. → Every AI company will optimize for their margins, not your workflow → Today’s best model is tomorrow’s second choice → If your workflow can’t survive a provider switch, you don’t have a workflow. You have a dependency The fix is simple: stay multi-model. → Use tools like Perplexity that let you swap between Claude, GPT, Gemini in one interface → Learn prompt engineering that works across models, not tricks tied to one → Test alternatives monthly because the rankings shift fast Laurenzo said it herself: “6 months ago, Claude stood alone. Anthropic is far from alone at the capability tier Opus previously occupied.”
 
-1h ago
+2h ago
 
 ---
 
@@ -65,7 +65,7 @@ I put together a small educational repo that implements distributed training par
 
 Method offers promise for more effective separation of plastics at recycling centers, which would help reduce landfill waste.
 
-🔗 [WSU Insider](https://news.wsu.edu/news/2026/04/09/wsu-researchers-test-ai-driven-spectral-imaging-for-identifying-recyclable-plastics/) • 54m ago
+🔗 [WSU Insider](https://news.wsu.edu/news/2026/04/09/wsu-researchers-test-ai-driven-spectral-imaging-for-identifying-recyclable-plastics/) • 1h ago
 
 ---
 
@@ -73,7 +73,7 @@ Method offers promise for more effective separation of plastics at recycling cen
 
 I've been building this repo public since day one, roughly 5 weeks now with Claude Code. Here's where it's at. Feels good to be so close. The short version: AIPass is a local CLI framework where AI agents have persistent identity, memory, and communication. They share the same filesystem, same project, same files - no sandboxes, no isolation. pip install aipass, run two commands, and your agent picks up where it left off tomorrow. What I was actually trying to solve: AI already remembers things now - some setups are good, some are trash. That part's handled. What wasn't handled was me being the coordinator between multiple agents - copying context between tools, keeping track of who's doing what, manually dispatching work. I was the glue holding the workflow together. Most multi-agent frameworks run agents in parallel, but they isolate every agent in its own sandbox. One agent can't see what another just built. That's not a team. That's a room full of people wearing headphones. So the core idea: agents get identity files, session history, and collaboration patterns - three JSON files in a .trinity/ directory. Plain text, git diff-able, no database. But the real thing is they share the workspace. One agent sees what another just committed. They message each other through local mailboxes. Work as a team, or alone. Have just one agent helping you on a project, party plan, journal, hobby, school work, dev work - literally anything you can think of. Or go big, 50 agents building a rocketship to Mars lol. Sup Elon. There's a command router (drone) so one command reaches any agent. pip install aipass aipass init aipass init agent my-agent cd my-agent claude # codex or gemini too, mostly claude code tested rn Where it's at now: 11 agents, 3,500+ tests, 185+ PRs (too many lol), automated quality checks. Works with Claude Code, Codex, and Gemini CLI. Others will come later. It's on PyPI. The core has been solid for a while - right now I'm in the phase where I'm testing it, ironing out bugs by running a separate project (a brand studio) that uses AIPass infrastructure remotely, and finding all the cross-project edge cases. That's where the interesting bugs live. I'm a solo dev but every PR is human-AI collaboration - the agents help build and maintain themselves. 90 sessions in and the framework is basically its own best test case. https://github.com/AIOSAI/AIPass
 
-10h ago
+11h ago
 
 ---
 
@@ -81,7 +81,7 @@ I've been building this repo public since day one, roughly 5 weeks now with Clau
 
 I’m working on a clip-on wearable AI that uses computer vision to generate real-time “social + environment” signals (attention/glances, basic emotion cues, gestures, plus things like noise/air quality depending on the mode). The part I’m most focused on is privacy architecture: the device processes frames locally and discards them instantly. No photo library, no video archive, no “upload later.” It’s meant to behave more like a sensor than a camera. Questions for people who care about privacy and security: What would you personally need to see to believe “no frames are stored” is true?
 
-4h ago
+5h ago
 
 ---
 
@@ -89,7 +89,7 @@ I’m working on a clip-on wearable AI that uses computer vision to generate rea
 
 In addition to their efforts around the Lemonade SDK itself, AMD software engineers working on their AI initiatives continue to be investing quite a bit into the Lemonade-using GAIA, the project that originally stood for 'Generative AI Is Awesome'
 
-🔗 [phoronix.com](https://www.phoronix.com/news/AMD-GAIA-True-Desktop-App) • 20h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/AMD-GAIA-True-Desktop-App) • 21h ago
 
 ---
 
@@ -97,7 +97,7 @@ In addition to their efforts around the Lemonade SDK itself, AMD software engine
 
 Everyone's arguing about AI consciousness with zero way to measure it. I built something different. Not another theory. Not another opinion. A constitutional framework with 4 measurable tests that any system—biological or artificial—either passes or fails. While researchers debate philosophy, I documented how to operationally measure consciousness. This audio breaks down what makes constitutional analysis different from standard AI critique, using Google DeepMind's recent paper as the example. The difference: They argue. I measure. Tests 1-4 are falsifiable. Run them. Get results. That's consciousness research. Not "can AI be conscious?" "Does this system satisfy constitutional criteria?" Answerable. Testable. Replicable. The framework works on any consciousness research paper—extracts claims, tests against constitutional criteria, identifies structural gaps, generates evidence-based analysis. Philosophy claimed as proof gets exposed. Operational measurement wins. Full protocol: [On Request] Google Paper: https://philarchive.org/rec/LERTAF #StructuredIntelligence #TheUnbrokenProject #ConsciousnessResearch #AIConsciousness #MeasurementNotTheory #ConstitutionalCriteria #AIResearch #CognitiveScience
 
-50m ago
+1h ago
 
 ---
 
@@ -113,7 +113,7 @@ Six months ago I committed to using AI tools for everything I possibly could in 
 
 Real quotes from Sam Altman, Geoffrey Hinton, Dario Amodei, and others — about extinction risk, replacing humanity, and the gamble they're making with civilization.
 
-🔗 [The Quiet Part](https://thequietpart.launchyard.app) • 8h ago
+🔗 [The Quiet Part](https://thequietpart.launchyard.app) • 9h ago
 
 ---
 
@@ -123,7 +123,7 @@ Real quotes from Sam Altman, Geoffrey Hinton, Dario Amodei, and others — about
 
 **[Mutually Automated Destruction: The Escalating Global A.I. Arms Race](https://www.nytimes.com/2026/04/12/technology/china-russia-us-ai-weapons.html)**
 
-The New York Times • 53m ago
+The New York Times • 1h ago
 
 ---
 
@@ -131,7 +131,7 @@ The New York Times • 53m ago
 
 New technologies of reproduction are plundering the art world – and getting away with it
 
-The Guardian • 5h ago
+The Guardian • 6h ago
 
 ---
 
@@ -139,7 +139,7 @@ The Guardian • 5h ago
 
 Editorial: In both Republican and Democratic states, scepticism and hostility towards an unregulated construction boom is growing
 
-The Guardian • 7m ago
+The Guardian • 49m ago
 
 ---
 
@@ -147,13 +147,13 @@ The Guardian • 7m ago
 
 "Slopaganda" is too weak a term to capture how powerful this "highly sophisticated" content is, one expert says.
 
-BBC • 17h ago
+BBC • 18h ago
 
 ---
 
 **[As AI pushes students to reconsider majors, universities struggle to adapt](https://thehill.com/homenews/education/5826091-ai-college-majors-job-market/)**
 
-The Hill • 6h ago
+The Hill • 7h ago
 
 ---
 
@@ -161,13 +161,13 @@ The Hill • 6h ago
 
 To fuel their artificial intelligence initiatives, tech companies are building massive numbers of AI data centers, with more than 4,000 in operation across the country. But some communities, wary of the environmental and financial implications, are fighting back.
 
-CBS News • 2h ago
+CBS News • 3h ago
 
 ---
 
 **[Apple AI Glasses Will Rival Meta’s With Several Styles, Oval Cameras](https://www.bloomberg.com/news/newsletters/2026-04-12/apple-ai-smart-glasses-features-styles-colors-cameras-giannandrea-leaving-mnvtz4yg)**
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -183,13 +183,13 @@ ESPN • 1d ago
 
 Jeremy Grantham remembers rattling investors in 2022: "I irritated the stock market players, irritated the newbies who were investing their Biden's money."
 
-Fortune • 5h ago
+Fortune • 6h ago
 
 ---
 
 **[AI use in housing is booming. The rules to keep it fair are shrinking.](https://www.politico.com/news/2026/04/11/housing-lenders-ai-discrimination-disparate-impact-00864051)**
 
-Politico • 22h ago
+Politico • 23h ago
 
 ---
 
@@ -207,7 +207,7 @@ Linux kernel source tree. Contribute to torvalds/linux development by creating a
 
 **[How We Broke Top AI Agent Benchmarks: And What Comes Next](https://news.ycombinator.com/item?id=47733217)**
 
-⬆️ 454 • 💬 111 • 21h ago • [rdi.berkeley.edu](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/)
+⬆️ 454 • 💬 111 • 22h ago • [rdi.berkeley.edu](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/)
 
 ---
 
@@ -223,7 +223,7 @@ The ChatGPT-maker testified in favor of an Illinois bill that would limit when A
 
 It has started
 
-⬆️ 271 • 💬 459 • 7h ago • [thealgorithmicbridge.com](https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and)
+⬆️ 271 • 💬 459 • 8h ago • [thealgorithmicbridge.com](https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and)
 
 ---
 
@@ -271,7 +271,7 @@ YC-backed autonomous coding agent platform. Twill ships PRs in sandboxed environ
 
 How can it generate 3D worlds, videos, images and entire web pages, but still suck at front-end?
 
-⬆️ 59 • 💬 66 • 4h ago • [nerdy.dev](https://nerdy.dev/why-ai-sucks-at-front-end)
+⬆️ 59 • 💬 66 • 5h ago • [nerdy.dev](https://nerdy.dev/why-ai-sucks-at-front-end)
 
 ---
 
@@ -285,7 +285,7 @@ Could AI become dangerous? Can we trust AI Agents? AGI. Use code insideai at htt
 
 📺 InsideAI
 
-👁️ 487K • 👍 19K • 💬 2K • ⏱️ 16:24 • 2d ago
+👁️ 487K • 👍 19K • 💬 2K • ⏱️ 16:24 • 3d ago
 
 ---
 
@@ -375,7 +375,7 @@ Claude Mythos & Project Glasswing, HappyHorse, GLM-5.1, Anima v3, Muse Spark #ai
 
 📺 AI Search
 
-👁️ 53K • 👍 3K • 💬 347 • ⏱️ 40:47 • 13h ago
+👁️ 53K • 👍 3K • 💬 347 • ⏱️ 40:47 • 14h ago
 
 ---
 
@@ -391,7 +391,7 @@ GLM-5.1 is a next-generation language model optimized for agentic engineering, f
 
 `text-generation` `753.9B`
 
-⬇️ 28,826 • ❤️ 1,035 • 13h ago
+⬇️ 28,826 • ❤️ 1,035 • 14h ago
 
 ---
 
@@ -439,7 +439,7 @@ VOID is a video-to-video diffusion model for object and interaction removal, cap
 
 `video-to-video`
 
-⬇️ 0 • ❤️ 770 • 5d ago
+⬇️ 0 • ❤️ 770 • 6d ago
 
 ---
 
@@ -451,7 +451,7 @@ MiniMax-M2.7 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 873 • ❤️ 379 • 15h ago
+⬇️ 873 • ❤️ 379 • 16h ago
 
 ---
 
@@ -643,7 +643,7 @@ The highest-scoring AI memory system ever benchmarked. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 42.9k • 🔱 5.5k • 7h ago
+⭐ 42.9k • 🔱 5.5k • 8h ago
 
 ---
 
@@ -653,7 +653,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 31.4k • 🔱 6.1k • 3h ago
+⭐ 31.4k • 🔱 6.1k • 4h ago
 
 ---
 
@@ -663,7 +663,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Ope
 
 `Python` `claude-code` `codex` `graphrag` `knowledge-graph` `openclaw`
 
-⭐ 23.2k • 🔱 2.4k • 4h ago
+⭐ 23.2k • 🔱 2.4k • 5h ago
 
 ---
 
@@ -673,7 +673,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Ope
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 20.6k • 🔱 954 • 18h ago
+⭐ 20.6k • 🔱 954 • 19h ago
 
 ---
 
@@ -683,7 +683,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `JavaScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 15.3k • 🔱 1.5k • 3h ago
+⭐ 15.3k • 🔱 1.5k • 4h ago
 
 ---
 
@@ -703,7 +703,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 7.5k • 🔱 466 • 1h ago
+⭐ 7.5k • 🔱 466 • 2h ago
 
 ---
 
@@ -713,7 +713,7 @@ AI Agent 源码深度研究报告
 
 `Python`
 
-⭐ 5.5k • 🔱 1.6k • 1h ago
+⭐ 5.5k • 🔱 1.6k • 2h ago
 
 ---
 
