@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-11T23:36:09.034241+00:00'
+updated: '2026-04-12T02:41:54.274348+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
+- social
 - videos
 - cryptocurrency
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 11, 2026 at 23:36 UTC  
+**Last Updated:** April 12, 2026 at 02:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,288.26
+### $2,227.27
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.2%  
-**7d:** +8.5%  
-**30d:** +9.3%  
-**90d:** -26.1%  
-**1y:** +39.0%  
+**24h:** -0.4%  
+**7d:** +5.8%  
+**30d:** +6.2%  
+**90d:** -32.9%  
+**1y:** +39.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $278.33B
+**Market Cap:** $268.87B
 Rank #2
 
-**Circulating Supply:** 120,691,071 ETH
+**Circulating Supply:** 120,691,054 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--53.4%
+-55.0%
 
 **All-Time Low:** $0.43
-+531868.1%
++514271.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Over the past year I've been thinking a lot about Web3. Not the trading, not the speculation, not the casino. I don't trade crypto. I don't follow the markets. What fascinates me is the underlying idea: decentralized systems with code as the only authority. The technology itself. I've been a backend engineer for over a decade. Rails, SQL, the usual stack. But like many engineers, I burned out. The excitement to build faded. You know the feeling. You're competent, productive, but not discovering anything anymore. Then I looked seriously at blockchain. Not as an investor, but as an engineer. I asked myself: what would an application look like if built with absolute fidelity to what blockchain promises? Real utility (useful for the masses, not DeFi nonesense) NO off-chain layers (100% on-chain) NO insider advantages (fair economics) NO dependence on investors (self-sustaining) NO pointless tokenomics (ETH in, ETH out) Those five principles became my compass. I tried to build something that never violated them. But the Web3 ecosystem is built around tokenomics and speculation. There's no blueprint to follow. So I started pulling my own thread: I wanted to build something useful, deterministic, fully on-chain, with no complicated tokenomics. A simple game like TicTacToe with real ETH stakes? Interesting, but too narrow. Then the frame shifted. I wasn't building a game anymore. I was building a tournament layer. A universal competitive infrastructure that's fair, open-source, and 100% on-chain. That's when the hard problems started. How do you handle draws on a decentralized platform? How do you stop players griefing opponents without central authority? These aren't just technical questions. They're moral ones. They forced me to think deeply about fairness, about building a system nobody controls and nobody can manipulate. The answers surprised me. Forget Kubernetes, Redis, all that complexity. With these constraints (fully on-chain, truly open, completely decentralized) the legacy stack collapses into something elegant. A client talking directly to contracts. No servers. No databases. No company. Just code. That freedom changed how I think about software. So I built ETour A 100% on-chain tournament protocol, now live on Arbitrum. Players pay an entry fee, compete, the best player wins and takes the pot. Code decides everything. No intermediaries. As Web3 should be. I open-sourced it so developers can build their own games on it and inherit all of its features for free. I'm not here to tell you this is revolutionary. I built this because it felt like a problem worth solving. ETour is what came out the other side. The code is public. The contracts are immutable. The logic is yours to verify. PS: The technical docs are not final and will be updated soon. https://etour.games https://etour.games/whitepaper https://etour.games/manual https://etour.games/docs TLDR: ETour is useful, it's live, and it's open-source. Go ahead and play on it, or build your own game using its 100% on-chain and open source tournament modules.
 
-10h ago
+13h ago
 
 ---
 
@@ -152,19 +152,33 @@ I just built ethlocal.world: a simple way to explore Ethereum activity around th
 
 ## Google News: "ethereum"
 
+**[Bitcoin and ethereum prices today, Friday, April 10, 2026: Prices rise ahead of CPI report](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-april-10-2026-prices-rise-ahead-of-cpi-report-111733660.html)**
+
+Bitcoin opened at $71,783.52 on Friday and then rose slightly in early trading. Ethereum showed the same trend, opening at $2,189.99 and rising somewhat in early hours.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[3 Cryptocurrencies That AI Assistants Keep Recommending](https://www.fool.com/investing/2026/04/11/3-cryptocurrencies-that-ai-assistants-keep-recomme/)**
+
+Bitcoin and Ethereum came out on top, but the third recommendation might surprise you.
+
+The Motley Fool • 44m ago
+
+---
+
+**[Most large cryptocurrencies fall as Ethereum tumbles](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-as-ethereum-tumbles-91a2f421-9307bc266dcb)**
+
+MarketWatch • 2d ago
+
+---
+
 **[Ethereum Is About To Go ‘Parabolic’ – Analyst Signals Golden Triangle Formation](https://www.tradingview.com/news/newsbtc:237f5e313094b:0-ethereum-is-about-to-go-parabolic-analyst-signals-golden-triangle-formation/)**
 
 An analyst on X has made a bold call on Ethereum, stating that the asset is on the verge of a parabolic move. The claim is based on a golden triangle formation on the chart, a setup that shows a breakout could be approaching for the leading altcoin. This approaching breakout could also serve as the…
 
-TradingView • 4h ago
-
----
-
-**[Zcash Jumped 49% Last Week As Privacy Coins Outperform Bitcoin and Ethereum](https://finance.yahoo.com/markets/crypto/articles/zcash-jumped-49-last-week-211200076.html)**
-
-Zcash and Dash (CRYPTO: $DASH) outpaced bitcoin (CRYPTO: $BTC) and ether (CRYPTO: $ETH) this week as a broader reli...
-
-Yahoo Finance • 2h ago
+TradingView • 7h ago
 
 ---
 
@@ -198,33 +212,19 @@ TipRanks • 2d ago
 
 ---
 
-**[Why is Crypto Rallying Today: Price Targets For Bitcoin, Ethereum and XRP](https://coinpedia.org/news/why-is-crypto-rallying-price-targets-for-bitcoin-ethereum-and-xrp/)**
-
-The crypto market has rebounded, with Bitcoin rising 10% over the last eight days and Ethereum up 12% in the same period. The total market cap is now up
-
-Coinpedia Fintech News • 1d ago
-
----
-
-**[Most large cryptocurrencies fall as Ethereum tumbles](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-as-ethereum-tumbles-91a2f421-9307bc266dcb)**
-
-MarketWatch • 2d ago
-
----
-
 **[Ethereum Foundation sells 1,250 ETH for $2.8M, halts staking](https://cryptobriefing.com/ethereum-foundation-sells-1250-eth-for-28m-halts-staking/)**
 
 The Ethereum Foundation sold 1,250 ETH for $2.8 million and stopped staking ETH, pushing odds in the Ethereum Above Price Predictions in April market toward bea
 
-Crypto Briefing • 9h ago
+Crypto Briefing • 12h ago
 
 ---
 
-**[Crypto News: Pepeto Announces Binance Level Exchange Update While Ethereum Price Prediction Maps Path to $7,500](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-announces-binance-level-exchange-update-while-ethereum-price-prediction-maps-path-to-7-500-1036012554)**
+**[Ethereum Foundation swaps 5,000 ETH into stablecoins for operational and grant funding](https://www.theblock.co/post/396728/ethereum-foundation-swaps-5000-eth-stablecoins-operational-grant-funding)**
 
-Dubai, UAE, April  10, 2026  (GLOBE NEWSWIRE) -- Pepeto just hit a major checkpoint on its Binance level exchange, pushing the zero fee swap engin...
+So far, the CoWSwap TWAP transactions have been drawn from a wallet associated with the Ethereum Foundation's DeFi activities.
 
-markets.businessinsider.com • 22h ago
+The Block • 3d ago
 
 ---
 
@@ -238,57 +238,27 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 9K • 👍 402 • 💬 26 • ⏱️ 19:27 • 7h ago
+👁️ 15K • 👍 514 • 💬 31 • ⏱️ 19:27 • 10h ago
 
 ---
 
-**[ADA, XRP &amp; ETH Holders NEED to Hear This IMMEDIATELY – Matt Hougan](https://www.youtube.com/watch?v=Ai1_0W5vZBM)**
+**[Ethereum Price Analysis – Is a Pullback Coming Next Week?](https://www.youtube.com/watch?v=TKYhyD_smXY)**
 
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+Ethereum has completed a five wave move up from the March lows – a critical Elliott Wave signal. In this video I break down what ...
 
-📺 Savvy Finance
+📺 More Crypto Online
 
-👁️ 3K • 👍 148 • 💬 27 • ⏱️ 15:02 • 1d ago
-
----
-
-**[CLARITY Rally in 3 Days?📈Crypto Technical Analysis @TimWarrenTrades](https://www.youtube.com/watch?v=96h2EGSZvEk)**
-
-Coinbase Global (NASDAQ: $COIN) CEO Brian Armstrong is calling for the passage in Congress of the U.S. Clarity Act.
-
-📺 Paul Barron Network
-
-👁️ 50K • 👍 2K • 💬 228 • ⏱️ 33:50 • 1d ago
+👁️ 334 • 👍 31 • 💬 7 • ⏱️ 9:19 • 1h ago
 
 ---
 
-**[ETHEREUM BREAKOUT OR DUMP?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=cYcGmcexe6E)**
+**[BITCOIN PRICE SQUEEZE: Final Warning (Urgent)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=OruVCDpa6DY)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+BITCOIN PRICE SQUEEZE: Final Warning (Urgent)!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
 
-📺 Cilinix Crypto
+📺 Crypto World
 
-👁️ 171 • 👍 12 • 💬 3 • ⏱️ 4:38 • 12h ago
-
----
-
-**[This is BMNR Stock Price when they OWN 5% of ETH!](https://www.youtube.com/watch?v=OBr1T90IhkI)**
-
-In this video we talk about developments in the Ethereum ecosystem, covering both the bear and bull case, answering questions ...
-
-📺 Elijah Cheng
-
-👁️ 7K • 👍 228 • 💬 44 • ⏱️ 37:25 • 1d ago
-
----
-
-**[Ethereum (ETH) Price Prediction Update! —  April 2026](https://www.youtube.com/watch?v=FLYgS1nzrgU)**
-
-In this video, we break down Ethereum's latest price action heading into April 2026 and what the current structure is signaling for ...
-
-📺 Gordon Frayne
-
-👁️ 227 • 👍 12 • 💬 5 • ⏱️ 12:24 • 17h ago
+👁️ 4K • 👍 213 • 💬 245 • ⏱️ 22:15 • 4h ago
 
 ---
 
@@ -298,7 +268,47 @@ In this video, I take a closer look at the current Ethereum market structure and
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 211 • 💬 11 • ⏱️ 9:25 • 1d ago
+👁️ 4K • 👍 213 • 💬 11 • ⏱️ 9:25 • 1d ago
+
+---
+
+**[ADA, XRP &amp; ETH Holders NEED to Hear This IMMEDIATELY – Matt Hougan](https://www.youtube.com/watch?v=Ai1_0W5vZBM)**
+
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+
+📺 Savvy Finance
+
+👁️ 4K • 👍 164 • 💬 27 • ⏱️ 15:02 • 1d ago
+
+---
+
+**[CLARITY Rally in 3 Days?📈Crypto Technical Analysis @TimWarrenTrades](https://www.youtube.com/watch?v=96h2EGSZvEk)**
+
+Coinbase Global (NASDAQ: $COIN) CEO Brian Armstrong is calling for the passage in Congress of the U.S. Clarity Act.
+
+📺 Paul Barron Network
+
+👁️ 52K • 👍 2K • 💬 229 • ⏱️ 33:50 • 1d ago
+
+---
+
+**[This is BMNR Stock Price when they OWN 5% of ETH!](https://www.youtube.com/watch?v=OBr1T90IhkI)**
+
+In this video we talk about developments in the Ethereum ecosystem, covering both the bear and bull case, answering questions ...
+
+📺 Elijah Cheng
+
+👁️ 7K • 👍 233 • 💬 44 • ⏱️ 37:25 • 1d ago
+
+---
+
+**[ETHEREUM BREAKOUT OR DUMP?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=cYcGmcexe6E)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 311 • 👍 12 • 💬 3 • ⏱️ 4:38 • 15h ago
 
 ---
 
@@ -312,23 +322,13 @@ Ethereum price prediction. Ethereum looks like it's going to drop over the next 
 
 ---
 
-**[Ethereum vs Solana: Which One Should You Pick?](https://www.youtube.com/watch?v=KPd1hWb2HnQ)**
+**[Ethereum (ETH) Price Prediction Update! —  April 2026](https://www.youtube.com/watch?v=FLYgS1nzrgU)**
 
-cPenNetwork #cpen cPen Network: Building a Sustainable Future for Blockchain, Integrated with Web2. Install cPen mobile app ...
+In this video, we break down Ethereum's latest price action heading into April 2026 and what the current structure is signaling for ...
 
-📺 cPen
+📺 Gordon Frayne
 
-👁️ 9K • 👍 616 • 💬 76 • ⏱️ 1:38 • 7h ago
-
----
-
-**[Ethereum Bottom? Massive 71K ETH Buy Signal! #shorts](https://www.youtube.com/watch?v=JO1E_T1-WqY)**
-
-Earth's top Ethereum buyer just acquired 71000 ETH, signaling a potential market bottom. Smart investors position themselves ...
-
-📺 CoinBros
-
-👁️ 788 • ⏱️ 0:33 • 2d ago
+👁️ 268 • 👍 14 • 💬 5 • ⏱️ 12:24 • 20h ago
 
 ---
 

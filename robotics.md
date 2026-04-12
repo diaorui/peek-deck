@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-11T23:36:09.037492+00:00'
+updated: '2026-04-12T02:41:54.277557+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 11, 2026 at 23:36 UTC  
+**Last Updated:** April 12, 2026 at 02:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Kame Robotics unveils a compact open-source quadruped for desk-top robotics experiments](https://www.reddit.com/r/robotics/comments/1siofos/kame_robotics_unveils_a_compact_opensource/)**
 
-6h ago
+9h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2042912788717408509
 
-12h ago
+15h ago
 
 ---
 
@@ -50,7 +50,7 @@ From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2042912788717408509
 
 I've been seeing a lot of noise from the tech world about robotics being the next big wave. Curious what people actually deploying and maintaining these systems think. What's working, what's vaporware, and what does the gap between a demo and a real production deployment actually look like?
 
-14h ago
+17h ago
 
 ---
 
@@ -58,15 +58,7 @@ I've been seeing a lot of noise from the tech world about robotics being the nex
 
 I know we usually only post our own projects here, but i was procrastinating on my own codebase today and went down a rabbit hole looking at github repos from some 48h REDHackathon happening in shanghai right now (hosted by rednote I think? today is their demo day). tbh i mostly expected to see a bunch of hastily duct-taped openai wrappers and weekend spaghetti code. clicked on one of the hardware submissions called Mira. at first glance the picture just looks like a cute 3d-printed pixar lamp. I figured it was just a physical shell with a basic python script piping some face tracking coordinates directly to a couple servos. but looking at the actual code... the system architecture is surprisingly hardcore. They didnt just hardcode reactions. they built a full embodied interaction system. the pipeline goes from single camera input -> vision event extraction -> scene selection -> local bridge / safety layer -> ESP32 firmware. Instead of raw tracking they built a scene-based motion choreography abstraction. it interprets visual data into states like 'curious_observe', 'cute_probe', and 'standup_reminder'. The esp32 firmware isnt a toy either... it has a custom binary serial protocol, touch thresholds, and ack/err handling. they even built offline rehearsal scripts, fault injection, and a web director console so they could test the logic without the physical hardware glitching out on stage. Most ai right now just sits in a chat window waiting for a prompt. this thing is trying to actually notice your presence in a physical space and respond with body language and light rhythms before you even say a word. idk, seeing hardware prototypes with this level of release-oriented engineering come out of a 48h builder camp makes me feel pretty lazy today lol. its just a stark reminder that the next phase of ai probably isnt going to be on a screen, but actually sitting on our desks observing us. anyway just thought id share something cool that isnt another b2b saas wrapper. repo if anyone wants to look at the c++ / esp32 logic (not mine obviously): github.com/JunkaiWang-TheoPhy/Mira-Light-AI-That-Sees-You
 
-7h ago
-
----
-
-**[Why's no one building baymax type robots](https://www.reddit.com/r/robotics/comments/1siya0x/whys_no_one_building_baymax_type_robots/)**
-
-all the robotics startups seem to be focusing on hard body robots where are those cute huggable robots promised in the movies? what are the challenges?
-
-9m ago
+10h ago
 
 ---
 
@@ -76,17 +68,9 @@ all the robotics startups seem to be focusing on hard body robots where are thos
 
 ---
 
-**[What actuator is this? CS2 recoil shoulder device](https://www.reddit.com/r/robotics/comments/1siva97/what_actuator_is_this_cs2_recoil_shoulder_device/)**
-
-Hey, I came across this YouTube short of a CS2 player using a device that physically “kicks” his shoulder to simulate recoil, and I’m trying to figure out exactly what kind of actuator this is. Here’s the video: https://www.youtube.com/shorts/B08AjXtAGAg Thanks!
-
-2h ago
-
----
-
 **[Help! Isaac sim 4.5.0 on GCP T4: vulkan reports wrong version (535.32) despite 535.288 installed.](https://www.reddit.com/r/robotics/comments/1siuypj/help_isaac_sim_450_on_gcp_t4_vulkan_reports_wrong/)**
 
-2h ago
+5h ago
 
 ---
 
@@ -94,7 +78,7 @@ Hey, I came across this YouTube short of a CS2 player using a device that physic
 
 So there is this competition that we will be joining next month to qualify for nationals. I have seen many builds that include a so-called "pull up switch", for 2 months I had been trying to find out how to create one of those, since there are no existing tutorials online. I reckon it is a micro switch connected to the driver but still confused. Does anyone have an idea on how pull up switches are made, or done? We are using one of those cytron URC10 R1.1 SumoBot Controller.
 
-7h ago
+10h ago
 
 ---
 
@@ -106,9 +90,33 @@ So there is this competition that we will be joining next month to qualify for n
 
 ---
 
+**[Why's no one building baymax type robots](https://www.reddit.com/r/robotics/comments/1siya0x/whys_no_one_building_baymax_type_robots/)**
+
+all the robotics startups seem to be focusing on hard body robots where are those cute huggable robots promised in the movies? what are the challenges?
+
+3h ago
+
+---
+
+**[Yaskawa details](https://www.reddit.com/r/robotics/comments/1sidxld/yaskawa_details/)**
+
+I'm currently working on a Yaskawa Ms-100 with Dx100, changing a wrist unit. The manual we have is for a MS-100II with DX200. This manual says the wrist uses flange sealant. We removed the wrist and found that there is an O-ring. The manual does not show this O-ring on the parts list or diagram. I cannot find a MS100 specific manual on Yaskawa's site, only the MS100II. Is anyone familiar with these that could offer some advice?
+
+17h ago
+
+---
+
 ---
 
 ## Google News: "robotics"
+
+**[Building the Future of Texas Robotics](https://news.utexas.edu/2026/04/09/building-the-future-of-texas-robotics/)**
+
+Deepu Talla helps bring the future of robotics closer to reality through the Nvidia-Talla Endowment for Texas Robotics.
+
+The University of Texas at Austin • 2d ago
+
+---
 
 **[CEO Andy Jassy shares 3 ways Amazon is innovating to make customers’ lives easier and better](https://www.aboutamazon.com/news/innovation-at-amazon/amazon-ceo-andy-jassy-robotics-rural-delivery-broadband)**
 
@@ -126,11 +134,41 @@ The Washington Post • 1d ago
 
 ---
 
+**[Wolfpack Robotics Team hosts Robo Rally](https://www.yahoo.com/lifestyle/articles/wolfpack-robotics-team-hosts-robo-203420984.html)**
+
+Robo Rally was held at the Wilkes-Barre Area High School on Saturday.  The event was hosted by the Wilkes-Barre Area Wolfpack Robotics team and featured student-built robots, live demonstrations, and ...
+
+Yahoo • 6h ago
+
+---
+
 **[Humanoid robots hit mass production in China](https://www.foxnews.com/tech/humanoid-robots-hit-mass-production-china)**
 
 A Chinese factory is producing humanoid robots every 30 minutes, marking a shift toward large-scale manufacturing and broader adoption.
 
 Fox News • 2d ago
+
+---
+
+**[New humanoid robots replacing workers in factories](https://www.nbcnews.com/video/shorts/new-humanoid-robots-replacing-workers-in-factories-261041221991)**
+
+Meet 'Digit', a humanoid robotic worker made by Agility Robotics, now part of a new wave of robots replacing workers at companies like Schaeffler, Toyota, and GXO. NBC News' Brian Cheung takes a look.
+
+NBC News • 2d ago
+
+---
+
+**[Unitree’s cheapest $4K sport-ready R1 humanoid robot to hit US markets via AliExpress](https://interestingengineering.com/ai-robotics/unitree-r1-robot-aliexpress-global-debut)**
+
+Unitree plans global launch of its $4,370 R1 humanoid robot via AliExpress, targeting U.S. and Europe markets.
+
+Interesting Engineering • 2d ago
+
+---
+
+**[Electrofluidic fiber muscles could enable silent robotic systems](https://techxplore.com/news/2026-04-electrofluidic-fiber-muscles-enable-silent.html)**
+
+Tech Xplore • 2d ago
 
 ---
 
@@ -142,49 +180,9 @@ Interesting Engineering • 1d ago
 
 ---
 
-**[New humanoid robots replacing workers in factories](https://www.nbcnews.com/video/shorts/new-humanoid-robots-replacing-workers-in-factories-261041221991)**
-
-Meet 'Digit', a humanoid robotic worker made by Agility Robotics, now part of a new wave of robots replacing workers at companies like Schaeffler, Toyota, and GXO. NBC News' Brian Cheung takes a look.
-
-NBC News • 5h ago
-
----
-
-**[Minnesota college student mentors Japanese robotics team she founded](https://www.cbsnews.com/minnesota/video/minnesota-college-student-mentors-japanese-robotics-team-she-founded/)**
-
-Robots are undoubtedly a big part of the future. In this edition of Home Team, Mike Max introduces Kanon Nakajima, a local robot buff in Minnesota whose story started in Japan.
-
-CBS News • 6h ago
-
----
-
 **[National robotics push caught in delayed Trump-Xi meeting](https://www.politico.com/news/2026/04/09/national-robotics-trump-xi-china-00861918)**
 
 Politico • 2d ago
-
----
-
-**[China’s Robotics Champion Is Going Public. Its PLA Ties and Western Dependence Aren’t.](https://www.kharon.com/brief/unitree-robotics-ipo-china-pla-robot-wolf)**
-
-The Shanghai IPO of Unitree Robotics is “part of China’s broader positioning in the global race for physical AI,” Sunny Cheung of the Jamestown Foundation said. But its filings tell only part of the story.
-
-Kharon • 2d ago
-
----
-
-**[Local robotics team could make it to world championships, here’s how to help](https://www.news9.com/oklahoma-city-news/okc-robotics-team-world-championship-fundraiser)**
-
-A local team could take Oklahoma to the global stage through robotics.
-
-News 9 • 1d ago
-
----
-
-**[Rivers Edge Convention Center Hosts 51 High School Robotics Teams For A Thrilling Competition](https://wjon.com/st-cloud-robotics-competition/)**
-
-Downtown St. Cloud is buzzing as 51 high school robotics teams compete in the FIRST Robotics Granite City Regional, bringing creativity and energy to the Rivers Edge Convention Center this week.
-
-WJON • 1d ago
 
 ---
 
@@ -192,33 +190,23 @@ WJON • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[Humanoid robots take over manual job at auto parts plant](https://www.youtube.com/watch?v=JMxKpo_Llt8)**
-
-Humanoid robots are being used for some manual tasks at the Schaeffler auto parts plant in Cheraw, S.C. Proponents argue that ...
-
-📺 NBC News
-
-👁️ 69K • 👍 950 • 💬 521 • ⏱️ 4:56 • 1d ago
-
----
-
 **[AI agent in a robot does exactly what experts warned](https://www.youtube.com/watch?v=woTy4dTiT20)**
 
 Could AI become dangerous? Can we trust AI Agents? AGI. Use code insideai at https://incogni.com/insideai to get an exclusive ...
 
 📺 InsideAI
 
-👁️ 373K • 👍 16K • 💬 1K • ⏱️ 16:24 • 2d ago
+👁️ 410K • 👍 17K • 💬 1K • ⏱️ 16:24 • 2d ago
 
 ---
 
-**[Unitree H1 Humanoid Robot Breaks Limits at 22.4 MPH](https://www.youtube.com/watch?v=sfcqAZcWoMo)**
+**[Humanoid robots take over manual job at auto parts plant](https://www.youtube.com/watch?v=JMxKpo_Llt8)**
 
-The Unitree H1 humanoid robot just reached an incredible 10 meters per second, which is about 22.4 miles per hour, putting it ...
+Humanoid robots are being used for some manual tasks at the Schaeffler auto parts plant in Cheraw, S.C. Proponents argue that ...
 
-📺 DPCcars
+📺 NBC News
 
-👁️ 2K • 👍 68 • 💬 15 • ⏱️ 1:24 • 9h ago
+👁️ 78K • 👍 1K • 💬 572 • ⏱️ 4:56 • 2d ago
 
 ---
 
@@ -228,7 +216,7 @@ Everyone is getting 7 things wrong about Disney's new Olaf animatronic. I asked 
 
 📺 Guide2WDW
 
-👁️ 24K • 👍 682 • 💬 87 • ⏱️ 19:30 • 2d ago
+👁️ 26K • 👍 729 • 💬 88 • ⏱️ 19:30 • 2d ago
 
 ---
 
@@ -238,7 +226,17 @@ Unitree's H1 humanoid robot is back on top. Or is it? The Chinese robotics leade
 
 📺 Kalil 4.0
 
-👁️ 737 • 👍 41 • 💬 4 • ⏱️ 1:02 • 3h ago
+👁️ 1K • 👍 57 • 💬 4 • ⏱️ 1:02 • 6h ago
+
+---
+
+**[These NEW Human-Like AI Robots of 2026 Just SHOCKED the World!](https://www.youtube.com/watch?v=FOfieag6fi4)**
+
+The world wasn't ready for what 2026 had in store — a wave of humanoid robots so advanced, so eerily lifelike, that the line ...
+
+📺 The AI Nexus
+
+👁️ 8K • 👍 273 • 💬 19 • ⏱️ 16:42 • 6d ago
 
 ---
 
@@ -248,15 +246,7 @@ Lymow → https://lymowtradecolimited.pxf.io/OYr2VG The Lymow One Plus isn't you
 
 📺 How To with Doc
 
-👁️ 13K • 👍 817 • 💬 156 • ⏱️ 21:24 • 2d ago
-
----
-
-**[I SAW MY FiRST delivery robot #minivacay #robot #justthebells10](https://www.youtube.com/watch?v=yGJyWvJ9uS4)**
-
-📺 Just the Bells 10
-
-👁️ 21K • 👍 1K • 💬 50 • ⏱️ 0:33 • 22h ago
+👁️ 14K • 👍 840 • 💬 160 • ⏱️ 21:24 • 2d ago
 
 ---
 
@@ -266,17 +256,15 @@ South Korea is building robots you've only seen in movies, from giant walking ma
 
 📺 DeCode
 
-👁️ 49K • 👍 926 • 💬 87 • ⏱️ 14:45 • 2d ago
+👁️ 50K • 👍 960 • 💬 89 • ⏱️ 14:45 • 2d ago
 
 ---
 
-**[I TESTED THE HOVER IN CHAMPION LEAGUE! FINALLY USING THIS ROBOT! (War Robots)](https://www.youtube.com/watch?v=KShsWuXuvXY)**
+**[I SAW MY FiRST delivery robot #minivacay #robot #justthebells10](https://www.youtube.com/watch?v=yGJyWvJ9uS4)**
 
-In this video I tested out the Hover in Champion league. https://wr.my.games/Wolfblood7.
+📺 Just the Bells 10
 
-📺 Wolfblood7
-
-👁️ 3K • 👍 163 • 💬 43 • ⏱️ 13:54 • 16h ago
+👁️ 24K • 👍 1K • 💬 57 • ⏱️ 0:33 • 1d ago
 
 ---
 
@@ -287,6 +275,16 @@ US startup Foundation is developing humanoid robots for military use. The goal i
 📺 DW News
 
 👁️ 72K • 👍 550 • 💬 101 • ⏱️ 1:22 • 6d ago
+
+---
+
+**[I TESTED THE HOVER IN CHAMPION LEAGUE! FINALLY USING THIS ROBOT! (War Robots)](https://www.youtube.com/watch?v=KShsWuXuvXY)**
+
+In this video I tested out the Hover in Champion league. https://wr.my.games/Wolfblood7.
+
+📺 Wolfblood7
+
+👁️ 3K • 👍 174 • 💬 42 • ⏱️ 13:54 • 19h ago
 
 ---
 

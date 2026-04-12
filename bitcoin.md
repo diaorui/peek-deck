@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-11T23:36:09.028298+00:00'
+updated: '2026-04-12T02:41:54.268276+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
+- social
 - videos
 - cryptocurrency
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 11, 2026 at 23:36 UTC  
+**Last Updated:** April 12, 2026 at 02:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $73,113.69
+### $71,883.07
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** +6.0%  
-**30d:** +3.0%  
-**90d:** -19.9%  
+**24h:** -1.3%  
+**7d:** +4.4%  
+**30d:** +0.9%  
+**90d:** -24.6%  
 **1y:** -14.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1470.36B
+**Market Cap:** $1439.13B
 Rank #1
 
-**Circulating Supply:** 20,014,478 BTC
+**Circulating Supply:** 20,014,543 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--41.8%
+-43.0%
 
 **All-Time Low:** $67.81
-+108115.6%
++105896.2%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Iran’s Strait of Hormuz Management Plan, passed in late March 2026, mandates Bitcoin toll payments. Each fully laden tanker carrying 2 million barrels faces a Bitcoin toll of up to $2 million. Bitcoin surged toward $73,000 as shipping firms faced the prospect of stockpiling BTC for tolls. Stablecoins were rejected due to freeze functions and GENIUS framework compliance requirements.
 
-🔗 [Blockonomi](https://blockonomi.com/iran-enforces-bitcoin-as-the-only-means-to-pay-toll-on-strait-of-hormuz/) • 3h ago
+🔗 [Blockonomi](https://blockonomi.com/iran-enforces-bitcoin-as-the-only-means-to-pay-toll-on-strait-of-hormuz/) • 7h ago
 
 ---
 
@@ -89,7 +89,23 @@ Iran’s Strait of Hormuz Management Plan, passed in late March 2026, mandates B
 
 If you can get to 1 Bitcoin, you are ahead of 99.9% of humanity. That sounds ridiculous, but the math is real. In this video, I break down just how rare it is to own a full Bitcoin, and why not every millionaire on Earth can get one.
 
-🔗 [youtu.be](https://youtu.be/5Al_yE9il2o) • 5h ago
+🔗 [youtu.be](https://youtu.be/5Al_yE9il2o) • 8h ago
+
+---
+
+**[The IRS Gave Hodlers a Huge Tax Advantage in 2014 - Most Still Don't Know About It!](https://www.reddit.com/r/Bitcoin/comments/1sizrbp/the_irs_gave_hodlers_a_huge_tax_advantage_in_2014/)**
+
+Many Bitcoiners know the core value prop - scarcity, decentralization, sound money (e.g Austrian Economics and all that). But if you're a consistent DCA buyer like I am, you've felt the other side of that: buying at local tops and immediately watching a 10-20% drawdown hit your stack. TLDR: Bitcoin's no wash sale rule means every dip is a tax harvesting opportunity. Most people know this exists. Almost nobody is actually doing it systematically. What most Bitcoiners don't know is that volatility creates a legal tax harvesting opportunity that essentially doesn't exist for other kinds of investors. Here’s why this works (and why it’s different from stocks): In 2014, the IRS issued Notice 2014-21 classifying Bitcoin as property, not a security. This means the wash sale rule which prevents stock investors from selling at a loss and immediately rebuying - doesn't actually apply to Bitcoin**.** In practice: if you bought 1 BTC at $110,000 and it drops to $80,000, you can sell and rebuy within seconds, locking in a $30,000 capital loss while maintaining your exact position. No 30-day waiting period. No penalty. The obvious question then is, what about the spread? If you're in a 32% bracket in the US, that $30k loss is a $9,600 credit. Even after a 0.5% exchange spread (maybe $500 on the round trip), you're still up over $9,000 in liquidity immediately. You're exchanging a small certain cost for a massive tax benefit you can redeploy straight back into BTC. (Quick note on how the losses actually apply: up to $3,000 per year offsets your ordinary W2 income directly - so a few hundred bucks back at minimum regardless of your gains situation. Everything above that carries forward indefinitely to offset future capital gains. So even if you have no gains this year, the losses don't disappear - they stack.) Ten dollars of tax savings compounding in BTC for a decade is worth a lot more than ten dollars at filing time years from now. The catch now is that actually doing this is a nightmare. If you're DCA'ing regularly, figuring out which specific lots are harvestable - and exactly when - is genuinely tedious to do manually. And while tools are out there that show you harvesting opportunities, they're broad 💩coin tax reporting platforms where Bitcoin is one of hundreds of nonsense assets. They show you a snapshot - they don't continuously monitor your positions and alert you automatically as opportunities emerge throughout the year & harvest them for you. I'm an engineer who got annoyed doing this by hand with my Strike => self custody setup and built a software layer specifically for this. Bitcoin-only, continuously monitors your cost basis across your exchange accounts, surfaces harvestable opportunities in real time, and executes the harvest automatically across all major exchanges with full tax lot tracking updated instantly. Personally, I didn’t want to host other people’s API keys, so I also built a self-host option for more technically savvy & privacy centric brothers/sisters. You can run it via your own GitHub Secrets so the keys never leave your infrastructure. If you want managed software with reports to share with your CPA and stuff like that, that's also available. If anyone wants to try it or learn more, I’ve got 10 spots for the first people from the sub who want to jump in & try it out. Happy to help with the setup personally! EDIT: Okay so this post has blown up more than anticipated. Transparently I was only initially planning to allow for 10 users to try from the sub and we’ve nearly reached that threshold. Feel free to leave a comment or DM me directly if you’d be interested and I’ll be happy to talk through things. We don’t support all exchanges and all hardware wallets today although we support the major ones and are adding more. Let me know if you have any questions or concerns!
+
+2h ago
+
+---
+
+**[B-but it must go lower](https://www.reddit.com/r/Bitcoin/comments/1sire39/bbut_it_must_go_lower/)**
+
+B-b-but the cycle... Stop. This is not the past. It doesn't follow the imaginary lines people make up to feel in control. It can legit shoot up from here, and if it "follows the cycle and goes down" it doesn't mean it will have to go up again. For now, it looks like the train is leaving the station.
+
+7h ago
 
 ---
 
@@ -97,13 +113,13 @@ If you can get to 1 Bitcoin, you are ahead of 99.9% of humanity. That sounds rid
 
 Well i guess it’s time we rip! A boomer told me that the best assets are tangible ones etc houses and alike. A non investor told me to stay in cash cuz market will collapse lol Knowing Donald dump he will pump the markets for midterms.
 
-8h ago
+11h ago
 
 ---
 
-**[B-but it must go lower](https://www.reddit.com/r/Bitcoin/comments/1sire39/bbut_it_must_go_lower/)**
+**[With Bitcoin now being accepted by Iran, will this lead to blacklisting of coins?](https://www.reddit.com/r/Bitcoin/comments/1siwr6l/with_bitcoin_now_being_accepted_by_iran_will_this/)**
 
-B-b-but the cycle... Stop. This is not the past. It doesn't follow the imaginary lines people make up to feel in control. It can legit shoot up from here, and if it "follows the cycle and goes down" it doesn't mean it will have to go up again. For now, it looks like the train is leaving the station.
+Will governments seek to freeze or ban btc that has passed through Iranian wallets? Will they punish individuals or organizations that accept or spend tainted btc? At 2 million dollars per tanker, that adds up quickly.
 
 4h ago
 
@@ -113,21 +129,13 @@ B-b-but the cycle... Stop. This is not the past. It doesn't follow the imaginary
 
 Wiki for Bitcoin Core development. Contribute to bitcoin-core/bitcoin-devwiki development by creating an account on GitHub.
 
-🔗 [GitHub](https://github.com/bitcoin-core/bitcoin-devwiki/wiki/31.0-Release-Candidate-Testing-Guide) • 6h ago
+🔗 [GitHub](https://github.com/bitcoin-core/bitcoin-devwiki/wiki/31.0-Release-Candidate-Testing-Guide) • 9h ago
 
 ---
 
 **[My university's business school moved to a new building and we're now in the Satoshi floor. Is this a sign?](https://www.reddit.com/r/Bitcoin/comments/1si9i7t/my_universitys_business_school_moved_to_a_new/)**
 
-18h ago
-
----
-
-**[With Bitcoin now being accepted by Iran, will this lead to blacklisting of coins?](https://www.reddit.com/r/Bitcoin/comments/1siwr6l/with_bitcoin_now_being_accepted_by_iran_will_this/)**
-
-Will governments seek to freeze or ban btc that has passed through Iranian wallets? Will they punish individuals or organizations that accept or spend tainted btc? At 2 million dollars per tanker, that adds up quickly.
-
-1h ago
+21h ago
 
 ---
 
@@ -135,7 +143,7 @@ Will governments seek to freeze or ban btc that has passed through Iranian walle
 
 I like knowing that I’m one of the miners working to clear my own transaction, and that if I succeed, the fees I’m paying will come back to me. I have very little hash power, so the odds are astronomical, but I enjoy the feeling of participation and increased connection to how the technology works.
 
-3h ago
+6h ago
 
 ---
 
@@ -143,15 +151,7 @@ I like knowing that I’m one of the miners working to clear my own transaction,
 
 I wanted to use a BIP-85 child seed with a lightning wallet (which naturally also supports on-chain) and apparently it wasn't possible. I tried with Aqua and with Phoenix, but they both state that you can only restore a wallet with seeds generated from that same wallet... What's up with that? It kind of defeats the purpose of having only one seed to rule them all. Is this a limitation on all lightning wallets? Does anyone know of a wallet where it is possible to do it? Thanks in advance.
 
-4h ago
-
----
-
-**[Why is the volume lower on weekends?](https://www.reddit.com/r/Bitcoin/comments/1sifa3k/why_is_the_volume_lower_on_weekends/)**
-
-The stock market is closed on weekend. Bitcoin is one of the few assets that can be traded on weekend. By my understanding, that would mean bitcoins volume should be higher on weekend than on weekdays because traders cant trade stocks, so trading focused on bitcoin. But bitcoins volume on weekends is actually lower than on weekdays, despite weekend, by my logic, being the time frame where everyone would jump to bitcoin because the stock market is closed
-
-13h ago
+7h ago
 
 ---
 
@@ -163,7 +163,7 @@ The stock market is closed on weekend. Bitcoin is one of the few assets that can
 
 Arkham data shows 8,285 BTC in Coinbase Prime custody as the company swings from $8 billion profit to nearly $5 billion loss ahead of its IPO push.
 
-CoinDesk • 4h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -171,7 +171,39 @@ CoinDesk • 4h ago
 
 Everyone's talking about Bitcoin ETFs. Almost nobody is talking about this bigger shift in how money moves on digital rails.
 
-The Motley Fool • 3h ago
+The Motley Fool • 5h ago
+
+---
+
+**[Bitcoin price analysis: BTC sellers might be running out of steam](https://www.coindesk.com/markets/2026/04/11/bitcoin-signals-potential-seller-exhaustion-as-realized-losses-decline)**
+
+On-chain data points to easing selling pressure, with realized losses falling and spot markets shifting toward net buying.
+
+CoinDesk • 8h ago
+
+---
+
+**[Bitcoin, broader market flat as U.S.-Iran negotiations begin](https://www.coindesk.com/markets/2026/04/11/bitcoin-broader-market-flat-as-u-s-iran-negotiations-begin)**
+
+The market rose over the week after a two-week ceasefire was announced, triggering a derivatives short squeeze that wiped out over $430 million in bearish positions.
+
+CoinDesk • 10h ago
+
+---
+
+**[Bitcoin and other cryptos fall as U.S., Iranian negotiators fail to reach war resolution](https://www.coindesk.com/markets/2026/04/11/bitcoin-and-other-cryptos-fall-as-u-s-iranian-negotiators-fail-to-reach-war-resolution)**
+
+U.S. Vice President J.D. Vance said negotiations had ended after a daylong session in Pakistan.
+
+CoinDesk • 33m ago
+
+---
+
+**[3 Cryptocurrencies That AI Assistants Keep Recommending](https://www.fool.com/investing/2026/04/11/3-cryptocurrencies-that-ai-assistants-keep-recomme/)**
+
+Bitcoin and Ethereum came out on top, but the third recommendation might surprise you.
+
+The Motley Fool • 44m ago
 
 ---
 
@@ -181,33 +213,9 @@ MarketWatch • 1d ago
 
 ---
 
-**[Bitcoin price analysis: BTC sellers might be running out of steam](https://www.coindesk.com/markets/2026/04/11/bitcoin-signals-potential-seller-exhaustion-as-realized-losses-decline)**
+**[Unmasking the Creator of Bitcoin](https://www.nytimes.com/2026/04/09/podcasts/the-daily/satoshi-nakamoto-bitcoin-creator.html)**
 
-On-chain data points to easing selling pressure, with realized losses falling and spot markets shifting toward net buying.
-
-CoinDesk • 5h ago
-
----
-
-**[Bitcoin, broader market flat as U.S.-Iran negotiations begin](https://www.coindesk.com/markets/2026/04/11/bitcoin-broader-market-flat-as-u-s-iran-negotiations-begin)**
-
-The market rose over the week after a two-week ceasefire was announced, triggering a derivatives short squeeze that wiped out over $430 million in bearish positions.
-
-CoinDesk • 7h ago
-
----
-
-**[U.S. Treasury Secretary Fuels Huge $1.5 Quadrillion Crypto Prediction As The Bitcoin Price Suddenly Soars](https://www.forbes.com/sites/digital-assets/2026/04/11/us-treasury-secretary-fuels-huge-15-quadrillion-crypto-prediction-as-the-bitcoin-price-suddenly-soars/)**
-
-Forbes • 12h ago
-
----
-
-**[Adam Back explains why he's not bitcoin creator Satoshi Nakamoto](https://finance.yahoo.com/markets/crypto/article/adam-back-explains-why-hes-not-bitcoin-creator-satoshi-nakamoto-172837820.html)**
-
-The Blockstream CEO told Yahoo Finance that the real creator of Bitcoin wouldn't be doing interviews or speaking at conferences under their real name.
-
-Yahoo Finance • 2d ago
+The New York Times • 2d ago
 
 ---
 
@@ -227,21 +235,13 @@ thestreet.com • 2d ago
 
 ---
 
-**['Not Going to Stop at Bitcoin': Morgan Stanley Weighs Tokenization, Tax Solutions in Crypto Push](https://decrypt.co/364030/not-going-stop-bitcoin-morgan-stanley-weighs-tokenization-tax-solutions)**
-
-The debut of Morgan Stanley’s Bitcoin ETF marked a milestone this week, but the financial powerhouse is already weighing its next moves.
-
-Decrypt • 7h ago
-
----
-
 ---
 
 ## HackerNews: "bitcoin"
 
 **[Who is Satoshi Nakamoto? My quest to unmask Bitcoin's creator](https://news.ycombinator.com/item?id=47685320)**
 
-⬆️ 625 • 💬 819 • 3d ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)
+⬆️ 625 • 💬 831 • 3d ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)
 
 ---
 
@@ -249,7 +249,7 @@ Decrypt • 7h ago
 
 The average production cost was sitting at $88,000 per bitcoin in mid-March, according to Checkonchain's difficulty regression model.
 
-⬆️ 209 • 💬 190 • 10h ago • [coindesk.com](https://www.coindesk.com/markets/2026/03/22/bitcoin-miners-are-losing-usd19-000-on-every-btc-produced-as-difficulty-drops-7-8)
+⬆️ 221 • 💬 195 • 13h ago • [coindesk.com](https://www.coindesk.com/markets/2026/03/22/bitcoin-miners-are-losing-usd19-000-on-every-btc-produced-as-difficulty-drops-7-8)
 
 ---
 
@@ -301,7 +301,7 @@ New York Times report claims London-born Adam Back is creator of the cryptocurre
 
 Bitcoin Core Will Maintain the Protocol. It May Not Save It. The reference implementation that sustains a $1.4 trillion network continues to produce quality code while losing the institutional capa...
 
-⬆️ 3 • 💬 0 • 18h ago • [GitHub](https://github.com/bitcoin/bitcoin/issues/35055)
+⬆️ 3 • 💬 0 • 21h ago • [GitHub](https://github.com/bitcoin/bitcoin/issues/35055)
 
 ---
 
@@ -317,23 +317,23 @@ For years, bitcoin creator Satoshi Nakamoto has avoided discovery. Now, a 10,000
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin &amp; AI Will DOMINATE The Next Rotation](https://www.youtube.com/watch?v=urhiMNIk27Q)**
-
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
-
-📺 Anthony Pompliano
-
-👁️ 27K • 👍 2K • 💬 17 • ⏱️ 52:49 • 10h ago
-
----
-
 **[BREAKING: STRC BITCOIN SINGULARITY - BITCOIN TO $3 MILLION](https://www.youtube.com/watch?v=bUQhzn7goKM)**
 
 Follow me on X for my best content: http://www.X.com/AdamBLiv Transform Dormant Home Equity into Bitcoin with Horizon: ...
 
 📺 Adam Livingston
 
-👁️ 10K • 👍 888 • 💬 183 • ⏱️ 18:40 • 1d ago
+👁️ 11K • 👍 906 • 💬 184 • ⏱️ 18:40 • 1d ago
+
+---
+
+**[Bitcoin &amp; AI Will DOMINATE The Next Rotation](https://www.youtube.com/watch?v=urhiMNIk27Q)**
+
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+
+📺 Anthony Pompliano
+
+👁️ 35K • 👍 2K • 💬 16 • ⏱️ 52:49 • 13h ago
 
 ---
 
@@ -343,7 +343,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 ✓
 
 📺 Altcoin Daily
 
-👁️ 18K • 👍 1K • 💬 63 • ⏱️ 12:09 • 6h ago
+👁️ 29K • 👍 1K • 💬 78 • ⏱️ 12:09 • 9h ago
 
 ---
 
@@ -353,17 +353,17 @@ Everyone is distracted by Satoshi theories while real money floods into Bitcoin.
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 1K • 💬 112 • ⏱️ 10:48 • 1d ago
+👁️ 25K • 👍 1K • 💬 112 • ⏱️ 10:48 • 1d ago
 
 ---
 
-**[Saturday Bitcoin Update: BTC Ready to Explode or Fake Everyone Again?](https://www.youtube.com/watch?v=wqpQC6VcWR0)**
+**[Morgan Stanley Just CONFIRMED the Bitcoin supply shock is accelerating!!! | EP 1480](https://www.youtube.com/watch?v=ZwiBypKJvyA)**
 
-Get a chance win a ROLEX! BTCC COMPETITION: ...
+Bitcoin price seems bubbly hitting $73k again as the amount of bitcoin being bought is at unheard of levels!
 
-📺 Crypto Lifer
+📺 Simply Bitcoin
 
-👁️ 2K • 👍 231 • 💬 144 • ⏱️ 16:31 • 12h ago
+👁️ 8K • 👍 383 • 💬 25 • ⏱️ 1:32:29 • 1d ago
 
 ---
 
@@ -373,17 +373,7 @@ Is Adam Back the real Satoshi Nakamoto? He addresses the enduring mystery of Bit
 
 📺 Yahoo Finance
 
-👁️ 17K • 👍 260 • 💬 144 • ⏱️ 8:56 • 2d ago
-
----
-
-**[Bitcoin Bulls Eye Major Breakout](https://www.youtube.com/watch?v=OZK5hdKfb18)**
-
-Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FREE Crypto Predictions & Compete Weekly ...
-
-📺 CryptosRUs
-
-👁️ 18K • 👍 900 • 💬 230 • ⏱️ 49:15 • 1d ago
+👁️ 17K • 👍 261 • 💬 144 • ⏱️ 8:56 • 2d ago
 
 ---
 
@@ -393,7 +383,7 @@ Plenty of crypto newbies lost money chasing the bitcoin boom that followed Donal
 
 📺 Forbes
 
-👁️ 62K • 👍 2K • 💬 276 • ⏱️ 5:05 • 1d ago
+👁️ 74K • 👍 2K • 💬 321 • ⏱️ 5:05 • 1d ago
 
 ---
 
@@ -403,17 +393,27 @@ soon to be 2000 days in bitcoin. here are 3 lessons i learned that could save yo
 
 📺 BTC Isla
 
-👁️ 7K • 👍 782 • 💬 136 • ⏱️ 9:15 • 1d ago
+👁️ 8K • 👍 802 • 💬 138 • ⏱️ 9:15 • 1d ago
 
 ---
 
-**[“It’s Not Too Late To Sell Your Bitcoin” Ben Cowen Explains](https://www.youtube.com/watch?v=lrALqzuBSHQ)**
+**[Saturday Bitcoin Update: BTC Ready to Explode or Fake Everyone Again?](https://www.youtube.com/watch?v=wqpQC6VcWR0)**
 
-The Exact Date Bitcoin Hits Bottom in 2026 (Ben Cowen Explains) Gain Access to these charts: ...
+Get a chance win a ROLEX! BTCC COMPETITION: ...
 
-📺 Altcoin Daily
+📺 Crypto Lifer
 
-👁️ 35K • 👍 2K • 💬 297 • ⏱️ 31:14 • 1d ago
+👁️ 3K • 👍 234 • 💬 110 • ⏱️ 16:31 • 15h ago
+
+---
+
+**[Raoul Pal: &quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=Gys5vX-3hfg)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 15K • 👍 514 • 💬 31 • ⏱️ 19:27 • 10h ago
 
 ---
 
