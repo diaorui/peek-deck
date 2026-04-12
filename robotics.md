@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-12T09:12:41.786596+00:00'
+updated: '2026-04-12T10:07:10.361110+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 12, 2026 at 09:12 UTC  
+**Last Updated:** April 12, 2026 at 10:07 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Kame Robotics unveils a compact open-source quadruped for desk-top robotics experiments](https://www.reddit.com/r/robotics/comments/1siofos/kame_robotics_unveils_a_compact_opensource/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Hi everyone! I've been developing the LS3 BostonDynamics Mini quadruped for a while now. The goal was to create a modular, 3D-printable frame that can carry a Raspberry Pi. It’s still a work in progress, but the mechanical assembly is finally done! I'm happy to discuss the kinematics or electronics if anyone is interested!
 
-53m ago
+1h ago
 
 ---
 
@@ -58,7 +58,7 @@ PNP Robotics: Haptic Teleoperation for data collection. At the Embodied AI Confe
 
 From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2042912788717408509
 
-21h ago
+22h ago
 
 ---
 
@@ -66,7 +66,7 @@ From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2042912788717408509
 
 I've been seeing a lot of noise from the tech world about robotics being the next big wave. Curious what people actually deploying and maintaining these systems think. What's working, what's vaporware, and what does the gap between a demo and a real production deployment actually look like?
 
-23h ago
+1d ago
 
 ---
 
@@ -74,7 +74,7 @@ I've been seeing a lot of noise from the tech world about robotics being the nex
 
 I got finnaly my orp-cambotv1 working. It was a struggle i had to change my motor holders and print a new 12v motor holder(still possible work in progress) but i did it. i only need to to make the code more readable and documentible
 
-🔗 [youtube.com](https://youtube.com/shorts/lO5StFCWxCo?si=HMFmLq7GH5zTx3M_) • 18m ago
+🔗 [youtube.com](https://youtube.com/shorts/lO5StFCWxCo?si=HMFmLq7GH5zTx3M_) • 1h ago
 
 ---
 
@@ -94,7 +94,7 @@ I know we usually only post our own projects here, but i was procrastinating on 
 
 **[Help! Isaac sim 4.5.0 on GCP T4: vulkan reports wrong version (535.32) despite 535.288 installed.](https://www.reddit.com/r/robotics/comments/1siuypj/help_isaac_sim_450_on_gcp_t4_vulkan_reports_wrong/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -122,7 +122,7 @@ The University of Texas at Austin • 2d ago
 
 Longwood's Unified Robotics, an inclusive team of neurodivergent and neurotypical students, began in fall 2025.
 
-Newsday • 12m ago
+Newsday • 1h ago
 
 ---
 
@@ -196,17 +196,7 @@ Try Seedance 2.0 with Claude on Higgsfield: https://higgsfield.ai/s/seedance-2-0
 
 📺 AI Revolution
 
-👁️ 37K • 👍 764 • 💬 93 • ⏱️ 14:57 • 9h ago
-
----
-
-**[AI agent in a robot does exactly what experts warned](https://www.youtube.com/watch?v=woTy4dTiT20)**
-
-Could AI become dangerous? Can we trust AI Agents? AGI. Use code insideai at https://incogni.com/insideai to get an exclusive ...
-
-📺 InsideAI
-
-👁️ 454K • 👍 18K • 💬 2K • ⏱️ 16:24 • 2d ago
+👁️ 40K • 👍 803 • 💬 97 • ⏱️ 14:57 • 10h ago
 
 ---
 
@@ -216,7 +206,17 @@ Go to https://www.artwine.com to get your limited bottle of Ukrainian sparkling 
 
 📺 Paul Warburg
 
-👁️ 51K • 👍 7K • 💬 478 • ⏱️ 31:17 • 5h ago
+👁️ 76K • 👍 9K • 💬 614 • ⏱️ 31:17 • 6h ago
+
+---
+
+**[AI agent in a robot does exactly what experts warned](https://www.youtube.com/watch?v=woTy4dTiT20)**
+
+Could AI become dangerous? Can we trust AI Agents? AGI. Use code insideai at https://incogni.com/insideai to get an exclusive ...
+
+📺 InsideAI
+
+👁️ 462K • 👍 18K • 💬 2K • ⏱️ 16:24 • 2d ago
 
 ---
 
@@ -226,7 +226,17 @@ Humanoid robots are being used for some manual tasks at the Schaeffler auto part
 
 📺 NBC News
 
-👁️ 87K • 👍 1K • 💬 604 • ⏱️ 4:56 • 2d ago
+👁️ 88K • 👍 1K • 💬 612 • ⏱️ 4:56 • 2d ago
+
+---
+
+**[Unitree H1 Humanoid Robot Breaks Limits at 22.4 MPH](https://www.youtube.com/watch?v=sfcqAZcWoMo)**
+
+The Unitree H1 humanoid robot just reached an incredible 10 meters per second, which is about 22.4 miles per hour, putting it ...
+
+📺 DPCcars
+
+👁️ 25K • 👍 184 • 💬 61 • ⏱️ 1:24 • 20h ago
 
 ---
 
@@ -236,17 +246,7 @@ Everyone is getting 7 things wrong about Disney's new Olaf animatronic. I asked 
 
 📺 Guide2WDW
 
-👁️ 29K • 👍 776 • 💬 89 • ⏱️ 19:30 • 2d ago
-
----
-
-**[Unitree H1 Humanoid Robot Reclaims Record for Fastest Robot? #robotics #robot #unitreerobotics](https://www.youtube.com/watch?v=rSgpueUzl6g)**
-
-Unitree's H1 humanoid robot is back on top. Or is it? The Chinese robotics leader just shared footage of its full-sized humanoid to ...
-
-📺 Kalil 4.0
-
-👁️ 2K • 👍 75 • 💬 5 • ⏱️ 1:02 • 13h ago
+👁️ 29K • 👍 788 • 💬 91 • ⏱️ 19:30 • 2d ago
 
 ---
 
@@ -258,13 +258,13 @@ Unitree's H1 humanoid robot is back on top. Or is it? The Chinese robotics leade
 
 ---
 
-**[South Korea Is Building Robots the World Didn’t See Coming!](https://www.youtube.com/watch?v=H09m8a3oL_4)**
+**[Unitree H1 Humanoid Robot Reclaims Record for Fastest Robot? #robotics #robot #unitreerobotics](https://www.youtube.com/watch?v=rSgpueUzl6g)**
 
-South Korea is building robots you've only seen in movies, from giant walking machines to exoskeletons that give people back ...
+Unitree's H1 humanoid robot is back on top. Or is it? The Chinese robotics leader just shared footage of its full-sized humanoid to ...
 
-📺 DeCode
+📺 Kalil 4.0
 
-👁️ 52K • 👍 982 • 💬 92 • ⏱️ 14:45 • 2d ago
+👁️ 2K • 👍 82 • 💬 6 • ⏱️ 1:02 • 14h ago
 
 ---
 
@@ -274,17 +274,15 @@ Lymow → https://lymowtradecolimited.pxf.io/OYr2VG The Lymow One Plus isn't you
 
 📺 How To with Doc
 
-👁️ 15K • 👍 852 • 💬 162 • ⏱️ 21:24 • 2d ago
+👁️ 15K • 👍 858 • 💬 162 • ⏱️ 21:24 • 2d ago
 
 ---
 
-**[Are AI soldiers about to take over the battlefield? | DW News](https://www.youtube.com/watch?v=q83LtZza5eA)**
+**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=K_maQBulcfg)**
 
-US startup Foundation is developing humanoid robots for military use. The goal is for its Phantom model to identify targets and ...
+📺 Robot Julie 
 
-📺 DW News
-
-👁️ 72K • 👍 550 • 💬 101 • ⏱️ 1:22 • 6d ago
+👁️ 28K • 👍 61 • 💬 2 • ⏱️ 0:21 • 2d ago
 
 ---
 
