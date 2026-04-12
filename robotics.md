@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-12T06:53:19.761050+00:00'
+updated: '2026-04-12T08:03:25.611909+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 12, 2026 at 06:53 UTC  
+**Last Updated:** April 12, 2026 at 08:03 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,15 +34,7 @@ Robotics research and industry news
 
 **[Kame Robotics unveils a compact open-source quadruped for desk-top robotics experiments](https://www.reddit.com/r/robotics/comments/1siofos/kame_robotics_unveils_a_compact_opensource/)**
 
-13h ago
-
----
-
-**[Unitree H1 at 10 m/s (Leg length: 0.4+0.4=0.8m, body weight: approx. 62kg)](https://www.reddit.com/r/robotics/comments/1sigfd3/unitree_h1_at_10_ms_leg_length_040408m_body/)**
-
-From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2042912788717408509
-
-19h ago
+15h ago
 
 ---
 
@@ -50,7 +42,15 @@ From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2042912788717408509
 
 PNP Robotics: Haptic Teleoperation for data collection. At the Embodied AI Conference, we’re excited to showcase our integration of the Haply Inverse3 haptic joystick with Franka robots, enabling real-time pose control and immersive haptic feedback for intuitive teleoperation. EmbodiedAI #HapticTeleoperation #Franka #Haply #Robotics #Teleoperation
 
-1h ago
+2h ago
+
+---
+
+**[Unitree H1 at 10 m/s (Leg length: 0.4+0.4=0.8m, body weight: approx. 62kg)](https://www.reddit.com/r/robotics/comments/1sigfd3/unitree_h1_at_10_ms_leg_length_040408m_body/)**
+
+From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2042912788717408509
+
+20h ago
 
 ---
 
@@ -58,7 +58,7 @@ PNP Robotics: Haptic Teleoperation for data collection. At the Embodied AI Confe
 
 I've been seeing a lot of noise from the tech world about robotics being the next big wave. Curious what people actually deploying and maintaining these systems think. What's working, what's vaporware, and what does the gap between a demo and a real production deployment actually look like?
 
-21h ago
+22h ago
 
 ---
 
@@ -66,7 +66,7 @@ I've been seeing a lot of noise from the tech world about robotics being the nex
 
 I know we usually only post our own projects here, but i was procrastinating on my own codebase today and went down a rabbit hole looking at github repos from some 48h REDHackathon happening in shanghai right now (hosted by rednote I think? today is their demo day). tbh i mostly expected to see a bunch of hastily duct-taped openai wrappers and weekend spaghetti code. clicked on one of the hardware submissions called Mira. at first glance the picture just looks like a cute 3d-printed pixar lamp. I figured it was just a physical shell with a basic python script piping some face tracking coordinates directly to a couple servos. but looking at the actual code... the system architecture is surprisingly hardcore. They didnt just hardcode reactions. they built a full embodied interaction system. the pipeline goes from single camera input -> vision event extraction -> scene selection -> local bridge / safety layer -> ESP32 firmware. Instead of raw tracking they built a scene-based motion choreography abstraction. it interprets visual data into states like 'curious_observe', 'cute_probe', and 'standup_reminder'. The esp32 firmware isnt a toy either... it has a custom binary serial protocol, touch thresholds, and ack/err handling. they even built offline rehearsal scripts, fault injection, and a web director console so they could test the logic without the physical hardware glitching out on stage. Most ai right now just sits in a chat window waiting for a prompt. this thing is trying to actually notice your presence in a physical space and respond with body language and light rhythms before you even say a word. idk, seeing hardware prototypes with this level of release-oriented engineering come out of a 48h builder camp makes me feel pretty lazy today lol. its just a stark reminder that the next phase of ai probably isnt going to be on a screen, but actually sitting on our desks observing us. anyway just thought id share something cool that isnt another b2b saas wrapper. repo if anyone wants to look at the c++ / esp32 logic (not mine obviously): github.com/JunkaiWang-TheoPhy/Mira-Light-AI-That-Sees-You
 
-14h ago
+15h ago
 
 ---
 
@@ -78,7 +78,7 @@ I know we usually only post our own projects here, but i was procrastinating on 
 
 **[Help! Isaac sim 4.5.0 on GCP T4: vulkan reports wrong version (535.32) despite 535.288 installed.](https://www.reddit.com/r/robotics/comments/1siuypj/help_isaac_sim_450_on_gcp_t4_vulkan_reports_wrong/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -94,7 +94,7 @@ I know we usually only post our own projects here, but i was procrastinating on 
 
 So there is this competition that we will be joining next month to qualify for nationals. I have seen many builds that include a so-called "pull up switch", for 2 months I had been trying to find out how to create one of those, since there are no existing tutorials online. I reckon it is a micro switch connected to the driver but still confused. Does anyone have an idea on how pull up switches are made, or done? We are using one of those cytron URC10 R1.1 SumoBot Controller.
 
-14h ago
+15h ago
 
 ---
 
@@ -102,7 +102,7 @@ So there is this competition that we will be joining next month to qualify for n
 
 all the robotics startups seem to be focusing on hard body robots where are those cute huggable robots promised in the movies? what are the challenges?
 
-7h ago
+8h ago
 
 ---
 
@@ -164,17 +164,17 @@ Interesting Engineering • 1d ago
 
 ---
 
+**[National robotics push caught in delayed Trump-Xi meeting](https://www.politico.com/news/2026/04/09/national-robotics-trump-xi-china-00861918)**
+
+Politico • 2d ago
+
+---
+
 **[Wolfpack Robotics Team hosts Robo Rally](https://www.yahoo.com/lifestyle/articles/wolfpack-robotics-team-hosts-robo-203420984.html)**
 
 Robo Rally was held at the Wilkes-Barre Area High School on Saturday.  The event was hosted by the Wilkes-Barre Area Wolfpack Robotics team and featured student-built robots, live demonstrations, and ...
 
-Yahoo • 10h ago
-
----
-
-**[National robotics push caught in delayed Trump-Xi meeting](https://www.politico.com/news/2026/04/09/national-robotics-trump-xi-china-00861918)**
-
-Politico • 2d ago
+Yahoo • 11h ago
 
 ---
 
@@ -196,7 +196,7 @@ Try Seedance 2.0 with Claude on Higgsfield: https://higgsfield.ai/s/seedance-2-0
 
 📺 AI Revolution
 
-👁️ 21K • 👍 647 • 💬 79 • ⏱️ 14:57 • 7h ago
+👁️ 37K • 👍 764 • 💬 93 • ⏱️ 14:57 • 8h ago
 
 ---
 
@@ -206,7 +206,17 @@ Could AI become dangerous? Can we trust AI Agents? AGI. Use code insideai at htt
 
 📺 InsideAI
 
-👁️ 436K • 👍 18K • 💬 1K • ⏱️ 16:24 • 2d ago
+👁️ 454K • 👍 18K • 💬 2K • ⏱️ 16:24 • 2d ago
+
+---
+
+**[Ukraine’s New Combat Robots are Absolutely Shredding Russia Right Now](https://www.youtube.com/watch?v=RvDmz7cBAcE)**
+
+Go to https://www.artwine.com to get your limited bottle of Ukrainian sparkling wine, rescued from the cellars of Bakhmut. Must be ...
+
+📺 Paul Warburg
+
+👁️ 51K • 👍 7K • 💬 478 • ⏱️ 31:17 • 4h ago
 
 ---
 
@@ -216,7 +226,7 @@ Humanoid robots are being used for some manual tasks at the Schaeffler auto part
 
 📺 NBC News
 
-👁️ 83K • 👍 1K • 💬 597 • ⏱️ 4:56 • 2d ago
+👁️ 87K • 👍 1K • 💬 604 • ⏱️ 4:56 • 2d ago
 
 ---
 
@@ -226,7 +236,7 @@ Everyone is getting 7 things wrong about Disney's new Olaf animatronic. I asked 
 
 📺 Guide2WDW
 
-👁️ 28K • 👍 754 • 💬 89 • ⏱️ 19:30 • 2d ago
+👁️ 29K • 👍 776 • 💬 89 • ⏱️ 19:30 • 2d ago
 
 ---
 
@@ -236,17 +246,15 @@ Unitree's H1 humanoid robot is back on top. Or is it? The Chinese robotics leade
 
 📺 Kalil 4.0
 
-👁️ 2K • 👍 70 • 💬 5 • ⏱️ 1:02 • 11h ago
+👁️ 2K • 👍 75 • 💬 5 • ⏱️ 1:02 • 12h ago
 
 ---
 
-**[Why the Lymow One Plus is the Best Robot Mower Not Sponsored](https://www.youtube.com/watch?v=TCBaaSISul8)**
+**[I SAW MY FiRST delivery robot #minivacay #robot #justthebells10](https://www.youtube.com/watch?v=yGJyWvJ9uS4)**
 
-Lymow → https://lymowtradecolimited.pxf.io/OYr2VG The Lymow One Plus isn't your average robot mower. Instead of those tiny, ...
+📺 Just the Bells 10
 
-📺 How To with Doc
-
-👁️ 14K • 👍 844 • 💬 161 • ⏱️ 21:24 • 2d ago
+👁️ 27K • 👍 1K • 💬 59 • ⏱️ 0:33 • 1d ago
 
 ---
 
@@ -256,15 +264,17 @@ South Korea is building robots you've only seen in movies, from giant walking ma
 
 📺 DeCode
 
-👁️ 51K • 👍 972 • 💬 90 • ⏱️ 14:45 • 2d ago
+👁️ 52K • 👍 982 • 💬 92 • ⏱️ 14:45 • 2d ago
 
 ---
 
-**[I SAW MY FiRST delivery robot #minivacay #robot #justthebells10](https://www.youtube.com/watch?v=yGJyWvJ9uS4)**
+**[Why the Lymow One Plus is the Best Robot Mower Not Sponsored](https://www.youtube.com/watch?v=TCBaaSISul8)**
 
-📺 Just the Bells 10
+Lymow → https://lymowtradecolimited.pxf.io/OYr2VG The Lymow One Plus isn't your average robot mower. Instead of those tiny, ...
 
-👁️ 26K • 👍 1K • 💬 57 • ⏱️ 0:33 • 1d ago
+📺 How To with Doc
+
+👁️ 15K • 👍 852 • 💬 162 • ⏱️ 21:24 • 2d ago
 
 ---
 
@@ -274,17 +284,7 @@ US startup Foundation is developing humanoid robots for military use. The goal i
 
 📺 DW News
 
-👁️ 71K • 👍 550 • 💬 101 • ⏱️ 1:22 • 6d ago
-
----
-
-**[I TESTED THE HOVER IN CHAMPION LEAGUE! FINALLY USING THIS ROBOT! (War Robots)](https://www.youtube.com/watch?v=KShsWuXuvXY)**
-
-In this video I tested out the Hover in Champion league. https://wr.my.games/Wolfblood7.
-
-📺 Wolfblood7
-
-👁️ 3K • 👍 179 • 💬 43 • ⏱️ 13:54 • 23h ago
+👁️ 72K • 👍 550 • 💬 101 • ⏱️ 1:22 • 6d ago
 
 ---
 
