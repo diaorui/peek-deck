@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-12T21:36:33.052028+00:00'
+updated: '2026-04-12T22:36:02.588298+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 12, 2026 at 21:36 UTC  
+**Last Updated:** April 12, 2026 at 22:36 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Somewhere in Poland](https://www.reddit.com/r/robotics/comments/1sjhnd1/somewhere_in_poland/)**
 
-6h ago
+7h ago
 
 ---
 
 **[massive robotic hand that produce up to11000 pound force.](https://www.reddit.com/r/robotics/comments/1sjmxyz/massive_robotic_hand_that_produce_up_to11000/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -48,7 +48,7 @@ Robotics research and industry news
 
 Hi everyone! I've been developing the LS3 BostonDynamics Mini quadruped for a while now. The goal was to create a modular, 3D-printable frame that can carry a Raspberry Pi. It’s still a work in progress, but the mechanical assembly is finally done! I'm happy to discuss the kinematics or electronics if anyone is interested!
 
-13h ago
+14h ago
 
 ---
 
@@ -56,7 +56,7 @@ Hi everyone! I've been developing the LS3 BostonDynamics Mini quadruped for a wh
 
 Technical blog post with multiple videos: https://generalistai.com/blog/apr-02-2026-GEN-1
 
-11h ago
+12h ago
 
 ---
 
@@ -64,7 +64,15 @@ Technical blog post with multiple videos: https://generalistai.com/blog/apr-02-2
 
 After more than two years of solo development, I'm releasing v1.0 of the Bimo Robotics Kit. Bimo is an open-source bipedal robotics platform designed as a complete research and education kit. The core value is the full sim-to-real pipeline: you train RL locomotion models in Isaac Lab and deploy directly on the physical hardware. The v1.0 release includes: - Startup guide (zero to walking in one session) - Full MCU code for the onboard microcontroller. - Main controller board overview and pinout. - Updated Bimo API for hardware control. - Improved Isaac Lab task code for more stable sim-to-real transfer. - Pre-trained stable walking model. Turning and push recovery models are next on the Isaac Lab environment roadmap. The platform ships with a walking model as a baseline you can extend, which is kind of the point for a research kit. Check out all the details here: - Github: https://github.com/mekion/the-bimo-project - Discord: https://discord.gg/9uXsArwXHG - Mekion: https://www.mekion.com/product/ Happy to answer questions about the Isaac Lab integration, the hardware design decisions, or what it's like building this as a solo founder. Let me know what you think about the project.
 
-5h ago
+6h ago
+
+---
+
+**[Found this open-source 'Pixar lamp' while procrastinating today. the engineering under the hood is actually insane for a weekend build](https://www.reddit.com/r/robotics/comments/1sj9u8y/found_this_opensource_pixar_lamp_while/)**
+
+I know we usually only post our own projects here, but i was procrastinating on my own codebase today and went down a rabbit hole looking at github repos from some 48h REDHackathon happening in shanghai right now (hosted by rednote I think? today is their demo day). tbh i mostly expected to see a bunch of hastily duct-taped openai wrappers and weekend spaghetti code. clicked on one of the hardware submissions called Mira. at first glance the picture just looks like a cute 3d-printed pixar lamp. I figured it was just a physical shell with a basic python script piping some face tracking coordinates directly to a couple servos. but looking at the actual code... the system architecture is surprisingly hardcore. They didnt just hardcode reactions. they built a full embodied interaction system. the pipeline goes from single camera input -> vision event extraction -> scene selection -> local bridge / safety layer -> ESP32 firmware. Instead of raw tracking they built a scene-based motion choreography abstraction. it interprets visual data into states like 'curious_observe', 'cute_probe', and 'standup_reminder'. The esp32 firmware isnt a toy either... it has a custom binary serial protocol, touch thresholds, and ack/err handling. they even built offline rehearsal scripts, fault injection, and a web director console so they could test the logic without the physical hardware glitching out on stage. Most ai right now just sits in a chat window waiting for a prompt. this thing is trying to actually notice your presence in a physical space and respond with body language and light rhythms before you even say a word. idk, seeing hardware prototypes with this level of release-oriented engineering come out of a 48h builder camp makes me feel pretty lazy today lol. its just a stark reminder that the next phase of ai probably isnt going to be on a screen, but actually sitting on our desks observing us. anyway just thought id share something cool that isnt another b2b saas wrapper. repo if anyone wants to look at the c++ / esp32 logic (not mine obviously): github.com/JunkaiWang-TheoPhy/Mira-Light-AI-That-Sees-You
+
+13h ago
 
 ---
 
@@ -74,11 +82,11 @@ After more than two years of solo development, I'm releasing v1.0 of the Bimo Ro
 
 ---
 
-**[Found this open-source 'Pixar lamp' while procrastinating today. the engineering under the hood is actually insane for a weekend build](https://www.reddit.com/r/robotics/comments/1sj9u8y/found_this_opensource_pixar_lamp_while/)**
+**[PNP Robotics: Haptic Teleoperation for data collection.](https://www.reddit.com/r/robotics/comments/1sj5dfk/pnp_robotics_haptic_teleoperation_for_data/)**
 
-I know we usually only post our own projects here, but i was procrastinating on my own codebase today and went down a rabbit hole looking at github repos from some 48h REDHackathon happening in shanghai right now (hosted by rednote I think? today is their demo day). tbh i mostly expected to see a bunch of hastily duct-taped openai wrappers and weekend spaghetti code. clicked on one of the hardware submissions called Mira. at first glance the picture just looks like a cute 3d-printed pixar lamp. I figured it was just a physical shell with a basic python script piping some face tracking coordinates directly to a couple servos. but looking at the actual code... the system architecture is surprisingly hardcore. They didnt just hardcode reactions. they built a full embodied interaction system. the pipeline goes from single camera input -> vision event extraction -> scene selection -> local bridge / safety layer -> ESP32 firmware. Instead of raw tracking they built a scene-based motion choreography abstraction. it interprets visual data into states like 'curious_observe', 'cute_probe', and 'standup_reminder'. The esp32 firmware isnt a toy either... it has a custom binary serial protocol, touch thresholds, and ack/err handling. they even built offline rehearsal scripts, fault injection, and a web director console so they could test the logic without the physical hardware glitching out on stage. Most ai right now just sits in a chat window waiting for a prompt. this thing is trying to actually notice your presence in a physical space and respond with body language and light rhythms before you even say a word. idk, seeing hardware prototypes with this level of release-oriented engineering come out of a 48h builder camp makes me feel pretty lazy today lol. its just a stark reminder that the next phase of ai probably isnt going to be on a screen, but actually sitting on our desks observing us. anyway just thought id share something cool that isnt another b2b saas wrapper. repo if anyone wants to look at the c++ / esp32 logic (not mine obviously): github.com/JunkaiWang-TheoPhy/Mira-Light-AI-That-Sees-You
+PNP Robotics: Haptic Teleoperation for data collection. At the Embodied AI Conference, we’re excited to showcase our integration of the Haply Inverse3 haptic joystick with Franka robots, enabling real-time pose control and immersive haptic feedback for intuitive teleoperation. EmbodiedAI #HapticTeleoperation #Franka #Haply #Robotics #Teleoperation
 
-12h ago
+17h ago
 
 ---
 
@@ -86,15 +94,7 @@ I know we usually only post our own projects here, but i was procrastinating on 
 
 Hello everyone, a few months ago i had this idea of a layer that helps Robis unterstand the world. with the Help of a few tools that are generalized an AI Agent can steer any Robot and the engineers only need to change the control layer. I open sourced the whole thing and sat together with universities in switzerland as well as robotic companies in europe. All of them are very interested to make this happen and i will continue to sit together with them to make this project happen. If you are interested as well feel free to clone it and try it out 😇 I have opened the Github Repo to the Public for research use. If you have Questions feel free to ask, i will post more infos in the Comments.
 
-🔗 [GitHub](https://github.com/beyondExp/GIL) • 2h ago
-
----
-
-**[PNP Robotics: Haptic Teleoperation for data collection.](https://www.reddit.com/r/robotics/comments/1sj5dfk/pnp_robotics_haptic_teleoperation_for_data/)**
-
-PNP Robotics: Haptic Teleoperation for data collection. At the Embodied AI Conference, we’re excited to showcase our integration of the Haply Inverse3 haptic joystick with Franka robots, enabling real-time pose control and immersive haptic feedback for intuitive teleoperation. EmbodiedAI #HapticTeleoperation #Franka #Haply #Robotics #Teleoperation
-
-16h ago
+🔗 [GitHub](https://github.com/beyondExp/GIL) • 3h ago
 
 ---
 
@@ -122,7 +122,7 @@ The University of Texas at Austin • 3d ago
 
 Chinese robotics startup Unitree Robotics released a video on Saturday showing its H1 robot reached a sprint speed of up to 10 meters per second, noting that the humanoid robot broke the world record again.
 
-Global Times • 11h ago
+Global Times • 12h ago
 
 ---
 
@@ -142,11 +142,11 @@ About Amazon • 2d ago
 
 ---
 
-**[Hidden in plain sight: Robots reveal ‘shipwreck city’ below the surface of a Washington lake](https://www.10tv.com/article/news/nation-world/robotics-underwater-detection-shipwrecks-sonar-survey-remote-operated-vehicle-washington-lake-union/507-d5e09930-31c1-491f-8c8b-01f9fcbba5b8)**
+**[New humanoid robots replacing workers in factories](https://www.nbcnews.com/video/shorts/new-humanoid-robots-replacing-workers-in-factories-261041221991)**
 
-'Shipwreck city': A high-tech survey has found dozens of possible wrecks in Washington state, with robotics capturing images in areas too dangerous for divers.
+Meet 'Digit', a humanoid robotic worker made by Agility Robotics, now part of a new wave of robots replacing workers at companies like Schaeffler, Toyota, and GXO. NBC News' Brian Cheung takes a look.
 
-10TV • 3h ago
+NBC News • 3d ago
 
 ---
 
@@ -158,19 +158,19 @@ The Washington Post • 2d ago
 
 ---
 
+**[Hidden in plain sight: Robots reveal ‘shipwreck city’ below the surface of a Washington lake](https://www.10tv.com/article/news/nation-world/robotics-underwater-detection-shipwrecks-sonar-survey-remote-operated-vehicle-washington-lake-union/507-d5e09930-31c1-491f-8c8b-01f9fcbba5b8)**
+
+'Shipwreck city': A high-tech survey has found dozens of possible wrecks in Washington state, with robotics capturing images in areas too dangerous for divers.
+
+10TV • 4h ago
+
+---
+
 **[Students shine at Wolfpack Robotics’ Robo Rally](https://www.timesleader.com/news/1738534/students-shine-at-wolfpack-robotics-robo-rally)**
 
 <p>PLAINS TWP. — It was a celebration of robotics on Saturday as regional schools gathered at Wilkes-Barre Area High School for Wolfpack Robotics’ second Robo Rally.</p>
 
-Times Leader • 21h ago
-
----
-
-**[New humanoid robots replacing workers in factories](https://www.nbcnews.com/video/shorts/new-humanoid-robots-replacing-workers-in-factories-261041221991)**
-
-Meet 'Digit', a humanoid robotic worker made by Agility Robotics, now part of a new wave of robots replacing workers at companies like Schaeffler, Toyota, and GXO. NBC News' Brian Cheung takes a look.
-
-NBC News • 3d ago
+Times Leader • 22h ago
 
 ---
 
@@ -180,9 +180,11 @@ Tech Xplore • 3d ago
 
 ---
 
-**[National robotics push caught in delayed Trump-Xi meeting](https://www.politico.com/news/2026/04/09/national-robotics-trump-xi-china-00861918)**
+**[Resolved: Laundry folding is the future of home robotics](https://www.pcworld.com/article/3110605/resolved-laundry-folding-is-the-future-of-home-robotics.html)**
 
-Politico • 3d ago
+Hot on the heels of LG's laundry-folding robot showcased at CES, Syncere has released a much more elegant home robot that marries a floor lamp to laundry-folding functions.
+
+PCWorld • 3d ago
 
 ---
 
@@ -196,7 +198,7 @@ Go to https://www.artwine.com to get your limited bottle of Ukrainian sparkling 
 
 📺 Paul Warburg
 
-👁️ 167K • 👍 16K • 💬 1K • ⏱️ 31:17 • 17h ago
+👁️ 167K • 👍 16K • 💬 1K • ⏱️ 31:17 • 18h ago
 
 ---
 
@@ -206,7 +208,7 @@ Try Seedance 2.0 with Claude on Higgsfield: https://higgsfield.ai/s/seedance-2-0
 
 📺 AI Revolution
 
-👁️ 54K • 👍 1K • 💬 136 • ⏱️ 14:57 • 22h ago
+👁️ 54K • 👍 1K • 💬 136 • ⏱️ 14:57 • 23h ago
 
 ---
 
@@ -226,7 +228,7 @@ This humanoid robot just hit 10 meters per second — matching the speed of elit
 
 📺 The AI Nexus
 
-👁️ 5K • 👍 184 • 💬 18 • ⏱️ 25:42 • 18h ago
+👁️ 5K • 👍 184 • 💬 18 • ⏱️ 25:42 • 19h ago
 
 ---
 
@@ -246,7 +248,7 @@ Acid Titan shotguns have fallen into the ground. I havent been seeing them aroun
 
 📺 PREDATOR WR
 
-👁️ 7K • 👍 346 • 💬 56 • ⏱️ 14:11 • 9h ago
+👁️ 7K • 👍 346 • 💬 56 • ⏱️ 14:11 • 10h ago
 
 ---
 
@@ -286,7 +288,7 @@ In this video I tested out the Curie with Basileus. https://wr.my.games/Wolfbloo
 
 📺 Wolfblood7
 
-👁️ 2K • 👍 127 • 💬 27 • ⏱️ 13:17 • 13h ago
+👁️ 2K • 👍 127 • 💬 27 • ⏱️ 13:17 • 14h ago
 
 ---
 

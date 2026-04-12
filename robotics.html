@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-04-12T21:36:32.624552+00:00"
+          "dateModified": "2026-04-12T22:36:02.215288+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -781,6 +781,41 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1sj9u8y/found_this_opensource_pixar_lamp_while/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://preview.redd.it/rd42oipz9qug1.png?width=140&height=76&auto=webp&s=aca9dcaf098631f4a9bcfa400fefef885b8e742f" alt="Found this open-source 'Pixar lamp' while procrastinating today. the engineering under the hood is actually insane for a weekend build" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1sj9u8y/found_this_opensource_pixar_lamp_while/" target="_blank" onclick="event.stopPropagation();">Found this open-source 'Pixar lamp' while procrastinating today. the engineering under the hood is actually insane for a weekend build</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            I know we usually only post our own projects here, but i was procrastinating on my own codebase today and went down a rabbit hole looking at github repos from some 48h REDHackathon happening in shanghai right now (hosted by rednote I think? today is their demo day). tbh i mostly expected to see a bunch of hastily duct-taped openai wrappers and weekend spaghetti code. clicked on one of the hardware submissions called Mira. at first glance the picture just looks like a cute 3d-printed pixar lamp. I figured it was just a physical shell with a basic python script piping some face tracking coordinates directly to a couple servos. but looking at the actual code... the system architecture is surprisingly hardcore. They didnt just hardcode reactions. they built a full embodied interaction system. the pipeline goes from single camera input -> vision event extraction -> scene selection -> local bridge / safety layer -> ESP32 firmware. Instead of raw tracking they built a scene-based motion choreography abstraction. it interprets visual data into states like 'curious_observe', 'cute_probe', and 'standup_reminder'. The esp32 firmware isnt a toy either... it has a custom binary serial protocol, touch thresholds, and ack/err handling. they even built offline rehearsal scripts, fault injection, and a web director console so they could test the logic without the physical hardware glitching out on stage. Most ai right now just sits in a chat window waiting for a prompt. this thing is trying to actually notice your presence in a physical space and respond with body language and light rhythms before you even say a word. idk, seeing hardware prototypes with this level of release-oriented engineering come out of a 48h builder camp makes me feel pretty lazy today lol. its just a stark reminder that the next phase of ai probably isnt going to be on a screen, but actually sitting on our desks observing us. anyway just thought id share something cool that isnt another b2b saas wrapper. repo if anyone wants to look at the c++ / esp32 logic (not mine obviously): github.com/JunkaiWang-TheoPhy/Mira-Light-AI-That-Sees-You
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1775985935.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1siofos/kame_robotics_unveils_a_compact_opensource/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -812,23 +847,23 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1sj9u8y/found_this_opensource_pixar_lamp_while/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1sj5dfk/pnp_robotics_haptic_teleoperation_for_data/', '_blank')">
                     <div class="post-thumbnail">
                         
-                        <img src="https://preview.redd.it/rd42oipz9qug1.png?width=140&height=76&auto=webp&s=aca9dcaf098631f4a9bcfa400fefef885b8e742f" alt="Found this open-source 'Pixar lamp' while procrastinating today. the engineering under the hood is actually insane for a weekend build" onerror="this.style.display='none'" loading="lazy">
+                        <img src="https://external-preview.redd.it/bWtuaXNyN20wcHVnMVfsAAwem4PUuXxw2FTFgmLJkvJ39kMwYNif4ZjOuslp.png?width=320&crop=smart&auto=webp&s=2548e1bf50f86a8462827b1a855f476a722fbb25" alt="PNP Robotics: Haptic Teleoperation for data collection." onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1sj9u8y/found_this_opensource_pixar_lamp_while/" target="_blank" onclick="event.stopPropagation();">Found this open-source 'Pixar lamp' while procrastinating today. the engineering under the hood is actually insane for a weekend build</a>
+                            <a href="https://www.reddit.com/r/robotics/comments/1sj5dfk/pnp_robotics_haptic_teleoperation_for_data/" target="_blank" onclick="event.stopPropagation();">PNP Robotics: Haptic Teleoperation for data collection.</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            I know we usually only post our own projects here, but i was procrastinating on my own codebase today and went down a rabbit hole looking at github repos from some 48h REDHackathon happening in shanghai right now (hosted by rednote I think? today is their demo day). tbh i mostly expected to see a bunch of hastily duct-taped openai wrappers and weekend spaghetti code. clicked on one of the hardware submissions called Mira. at first glance the picture just looks like a cute 3d-printed pixar lamp. I figured it was just a physical shell with a basic python script piping some face tracking coordinates directly to a couple servos. but looking at the actual code... the system architecture is surprisingly hardcore. They didnt just hardcode reactions. they built a full embodied interaction system. the pipeline goes from single camera input -> vision event extraction -> scene selection -> local bridge / safety layer -> ESP32 firmware. Instead of raw tracking they built a scene-based motion choreography abstraction. it interprets visual data into states like 'curious_observe', 'cute_probe', and 'standup_reminder'. The esp32 firmware isnt a toy either... it has a custom binary serial protocol, touch thresholds, and ack/err handling. they even built offline rehearsal scripts, fault injection, and a web director console so they could test the logic without the physical hardware glitching out on stage. Most ai right now just sits in a chat window waiting for a prompt. this thing is trying to actually notice your presence in a physical space and respond with body language and light rhythms before you even say a word. idk, seeing hardware prototypes with this level of release-oriented engineering come out of a 48h builder camp makes me feel pretty lazy today lol. its just a stark reminder that the next phase of ai probably isnt going to be on a screen, but actually sitting on our desks observing us. anyway just thought id share something cool that isnt another b2b saas wrapper. repo if anyone wants to look at the c++ / esp32 logic (not mine obviously): github.com/JunkaiWang-TheoPhy/Mira-Light-AI-That-Sees-You
+                            PNP Robotics: Haptic Teleoperation for data collection. At the Embodied AI Conference, we’re excited to showcase our integration of the Haply Inverse3 haptic joystick with Franka robots, enabling real-time pose control and immersive haptic feedback for intuitive teleoperation. EmbodiedAI #HapticTeleoperation #Franka #Haply #Robotics #Teleoperation
                         </div>
                         
 
@@ -837,7 +872,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1775985935.0"></span>
+                                    <span data-timestamp="1775970674.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -891,41 +926,6 @@
                                         <span>GitHub</span>
                                     </a>
                                 </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1sj5dfk/pnp_robotics_haptic_teleoperation_for_data/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/bWtuaXNyN20wcHVnMVfsAAwem4PUuXxw2FTFgmLJkvJ39kMwYNif4ZjOuslp.png?width=320&crop=smart&auto=webp&s=2548e1bf50f86a8462827b1a855f476a722fbb25" alt="PNP Robotics: Haptic Teleoperation for data collection." onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1sj5dfk/pnp_robotics_haptic_teleoperation_for_data/" target="_blank" onclick="event.stopPropagation();">PNP Robotics: Haptic Teleoperation for data collection.</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            PNP Robotics: Haptic Teleoperation for data collection. At the Embodied AI Conference, we’re excited to showcase our integration of the Haply Inverse3 haptic joystick with Franka robots, enabling real-time pose control and immersive haptic feedback for intuitive teleoperation. EmbodiedAI #HapticTeleoperation #Franka #Haply #Robotics #Teleoperation
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1775970674.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
                                 
                             </div>
                         </div>
@@ -990,7 +990,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-04-12T20:38:04.540752+00:00">Updated 2026-04-12T20:38:04.540752+00:00</small>
+        <small data-timestamp="2026-04-12T22:35:44.128297+00:00">Updated 2026-04-12T22:35:44.128297+00:00</small>
     </div>
 </div>
 
@@ -1340,20 +1340,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.10tv.com/article/news/nation-world/robotics-underwater-detection-shipwrecks-sonar-survey-remote-operated-vehicle-washington-lake-union/507-d5e09930-31c1-491f-8c8b-01f9fcbba5b8', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.nbcnews.com/video/shorts/new-humanoid-robots-replacing-workers-in-factories-261041221991', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://media.tegna-media.com/assets/KING/images/dc7db3c8-c807-4b80-adcd-305433f4e510/20260411T221744/dc7db3c8-c807-4b80-adcd-305433f4e510_1140x641.jpg');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_04/vert_thumb.00_01_36_06.Still003-pmv248.jpg');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.10tv.com/article/news/nation-world/robotics-underwater-detection-shipwrecks-sonar-survey-remote-operated-vehicle-washington-lake-union/507-d5e09930-31c1-491f-8c8b-01f9fcbba5b8" target="_blank" onclick="event.stopPropagation();">Hidden in plain sight: Robots reveal ‘shipwreck city’ below the surface of a Washington lake</a>
+                            <a href="https://www.nbcnews.com/video/shorts/new-humanoid-robots-replacing-workers-in-factories-261041221991" target="_blank" onclick="event.stopPropagation();">New humanoid robots replacing workers in factories</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            'Shipwreck city': A high-tech survey has found dozens of possible wrecks in Washington state, with robotics capturing images in areas too dangerous for divers.
+                            Meet 'Digit', a humanoid robotic worker made by Agility Robotics, now part of a new wave of robots replacing workers at companies like Schaeffler, Toyota, and GXO. NBC News' Brian Cheung takes a look.
                         </div>
                         
 
@@ -1363,9 +1363,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.10tv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="10TV" class="news-favicon">
-                                    <a href="https://www.10tv.com" target="_blank" onclick="event.stopPropagation();">10TV</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nbcnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="NBC News" class="news-favicon">
+                                    <a href="https://www.nbcnews.com" target="_blank" onclick="event.stopPropagation();">NBC News</a>
                                     
                                 </div>
                                 
@@ -1373,7 +1373,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1776018060.0"></span>
+                                    <span data-timestamp="1775765540.0"></span>
                                 </div>
                                 
                             </div>
@@ -1422,6 +1422,47 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.10tv.com/article/news/nation-world/robotics-underwater-detection-shipwrecks-sonar-survey-remote-operated-vehicle-washington-lake-union/507-d5e09930-31c1-491f-8c8b-01f9fcbba5b8', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://media.tegna-media.com/assets/KING/images/dc7db3c8-c807-4b80-adcd-305433f4e510/20260411T221744/dc7db3c8-c807-4b80-adcd-305433f4e510_1140x641.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.10tv.com/article/news/nation-world/robotics-underwater-detection-shipwrecks-sonar-survey-remote-operated-vehicle-washington-lake-union/507-d5e09930-31c1-491f-8c8b-01f9fcbba5b8" target="_blank" onclick="event.stopPropagation();">Hidden in plain sight: Robots reveal ‘shipwreck city’ below the surface of a Washington lake</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            'Shipwreck city': A high-tech survey has found dozens of possible wrecks in Washington state, with robotics capturing images in areas too dangerous for divers.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.10tv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="10TV" class="news-favicon">
+                                    <a href="https://www.10tv.com" target="_blank" onclick="event.stopPropagation();">10TV</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1776018060.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.timesleader.com/news/1738534/students-shine-at-wolfpack-robotics-robo-rally', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://www.timesleader.com/wp-content/uploads/2026/04/132269646_web1_IMG_7171.jpg');"></div>
@@ -1456,47 +1497,6 @@
                                 
                                 <div class="news-meta-item">
                                     <span data-timestamp="1775952960.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.nbcnews.com/video/shorts/new-humanoid-robots-replacing-workers-in-factories-261041221991', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_04/vert_thumb.00_01_36_06.Still003-pmv248.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.nbcnews.com/video/shorts/new-humanoid-robots-replacing-workers-in-factories-261041221991" target="_blank" onclick="event.stopPropagation();">New humanoid robots replacing workers in factories</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Meet 'Digit', a humanoid robotic worker made by Agility Robotics, now part of a new wave of robots replacing workers at companies like Schaeffler, Toyota, and GXO. NBC News' Brian Cheung takes a look.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nbcnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="NBC News" class="news-favicon">
-                                    <a href="https://www.nbcnews.com" target="_blank" onclick="event.stopPropagation();">NBC News</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1775765540.0"></span>
                                 </div>
                                 
                             </div>
@@ -1541,17 +1541,21 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.politico.com/news/2026/04/09/national-robotics-trump-xi-china-00861918', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.pcworld.com/article/3110605/resolved-laundry-folding-is-the-future-of-home-robotics.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
+                    <div class="article-thumbnail" style="background-image: url('https://www.pcworld.com/wp-content/uploads/2026/04/Syncere-Lume-Beauty-4.png?w=1024');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.politico.com/news/2026/04/09/national-robotics-trump-xi-china-00861918" target="_blank" onclick="event.stopPropagation();">National robotics push caught in delayed Trump-Xi meeting</a>
+                            <a href="https://www.pcworld.com/article/3110605/resolved-laundry-folding-is-the-future-of-home-robotics.html" target="_blank" onclick="event.stopPropagation();">Resolved: Laundry folding is the future of home robotics</a>
                         </div>
 
                         <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Hot on the heels of LG's laundry-folding robot showcased at CES, Syncere has released a much more elegant home robot that marries a floor lamp to laundry-folding functions.
+                        </div>
                         
 
                         <!-- Metadata (source, time) -->
@@ -1560,9 +1564,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.politico.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Politico" class="news-favicon">
-                                    <a href="https://www.politico.com" target="_blank" onclick="event.stopPropagation();">Politico</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.pcworld.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="PCWorld" class="news-favicon">
+                                    <a href="https://www.pcworld.com" target="_blank" onclick="event.stopPropagation();">PCWorld</a>
                                     
                                 </div>
                                 
@@ -1570,7 +1574,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1775724900.0"></span>
+                                    <span data-timestamp="1775746200.0"></span>
                                 </div>
                                 
                             </div>
@@ -1598,7 +1602,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-04-12T20:38:15.859159+00:00">Updated 2026-04-12T20:38:15.859159+00:00</small>
+        <small data-timestamp="2026-04-12T22:35:56.912494+00:00">Updated 2026-04-12T22:35:56.912494+00:00</small>
     </div>
 </div>
 

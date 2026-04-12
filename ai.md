@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-12T21:36:33.034269+00:00'
+updated: '2026-04-12T22:36:02.572253+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
 - repositories
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** April 12, 2026 at 21:36 UTC  
+**Last Updated:** April 12, 2026 at 22:36 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 AMD’s AI director just analyzed 6,852 Claude Code sessions, 234,760 tool calls, and 17,871 thinking blocks. Her conclusion: “Claude cannot be trusted to perform complex engineering tasks.” Thinking depth dropped 67%. Code reads before edits fell from 6.6 to 2.0. The model started editing files it hadn’t even read. Stop-hook violations went from zero to 10 per day. Anthropic admitted they silently changed the default effort level from “high” to “medium” and introduced “adaptive thinking” that lets the model decide how much to reason. No announcement. No warning. When users shared transcripts, Anthropic’s own engineer confirmed the model was allocating ZERO thinking tokens on some turns. The turns with zero reasoning? Those were the ones hallucinating. AMD’s team has already switched to another provider. But here’s what most people are missing. This isn’t just a Claude story. AMD had 50+ concurrent sessions running on one tool. Their entire AI compiler workflow was built around Claude Code. One silent update broke everything. That’s vendor lock-in. And it will keep happening. → Every AI company will optimize for their margins, not your workflow → Today’s best model is tomorrow’s second choice → If your workflow can’t survive a provider switch, you don’t have a workflow. You have a dependency The fix is simple: stay multi-model. → Use tools like Perplexity that let you swap between Claude, GPT, Gemini in one interface → Learn prompt engineering that works across models, not tricks tied to one → Test alternatives monthly because the rankings shift fast Laurenzo said it herself: “6 months ago, Claude stood alone. Anthropic is far from alone at the capability tier Opus previously occupied.”
 
-6h ago
+7h ago
 
 ---
 
@@ -49,7 +49,7 @@ AMD’s AI director just analyzed 6,852 Claude Code sessions, 234,760 tool calls
 
 LLMs are brilliant at many things, but still fail in unreasonable ways. Is that an issue of scale, or something more fundamental?
 
-🔗 [pleasedontcite.me](https://pleasedontcite.me/learning-backwards/) • 4h ago
+🔗 [pleasedontcite.me](https://pleasedontcite.me/learning-backwards/) • 5h ago
 
 ---
 
@@ -57,7 +57,7 @@ LLMs are brilliant at many things, but still fail in unreasonable ways. Is that 
 
 https://youtu.be/rHXUhL5nqoo
 
-3h ago
+4h ago
 
 ---
 
@@ -65,7 +65,15 @@ https://youtu.be/rHXUhL5nqoo
 
 We're in the DNS era of agent infrastructure. Before agents can find and trust each other at scale, you need identity, attestation, reputation, and registry infrastructure — the same structural role DNS played before search was possible. This came up independently from multiple directions. It's the most underbuilt layer in the stack right now. The chatbot framing is a local maximum. The most interesting work wasn't better UX or smarter responses. It was agents as persistent actors that discover, negotiate, and transact across networks over time. People doing serious work have already moved past the assistant model entirely. Coordination is the hard problem, not capability. A room full of brilliant agents can still fail badly. This matches what I found running HiddenBench against frontier models earlier this year; collective reasoning is not the sum of individual reasoning. There's a real argument that the frontier is protocol design, not model scaling. "Commerce of intelligence" is a real category. Not buying things through agents. A market where intelligence itself (bundled, verified, priced, resold) is the object of exchange. Felt like the most underexplored idea in the room. Data provenance becomes load-bearing. What an agent knows, how it was verified, under what terms it flows: this is the actual architecture forming beneath everything else. Partnership keeps outperforming replacement. Demos that actually worked (healthcare, enterprise) was about helping experts operate at higher leverage, not substituting them. Autonomy theater keeps failing in the same ways.
 
-21h ago
+22h ago
+
+---
+
+**[Palantir CEO says AI 'will destroy' humanities jobs, but there will be 'more than enough jobs' for people with vocational training](https://www.reddit.com/r/artificial/comments/1sjqjji/palantir_ceo_says_ai_will_destroy_humanities_jobs/)**
+
+Alex Karp said he struggled to market his humanities skills to get his first job.
+
+🔗 [Fortune](https://fortune.com/article/palantir-ceo-alex-karp-ai-humanities-jobs-vocational-training/) • 1h ago
 
 ---
 
@@ -73,7 +81,7 @@ We're in the DNS era of agent infrastructure. Before agents can find and trust e
 
 I put together a small educational repo that implements distributed training parallelism from scratch in PyTorch: https://github.com/shreyansh26/pytorch-distributed-training-from-scratch Instead of using high-level abstractions, the code writes the forward/backward logic and collectives explicitly so you can see the algorithm directly. The model is intentionally just repeated 2-matmul MLP blocks on a synthetic task, so the communication patterns are the main thing being studied. Built this mainly for people who want to map the math of distributed training to runnable code without digging through a large framework. Based on Part-5: Training of JAX ML Scaling book
 
-6h ago
+7h ago
 
 ---
 
@@ -81,7 +89,7 @@ I put together a small educational repo that implements distributed training par
 
 Method offers promise for more effective separation of plastics at recycling centers, which would help reduce landfill waste.
 
-🔗 [WSU Insider](https://news.wsu.edu/news/2026/04/09/wsu-researchers-test-ai-driven-spectral-imaging-for-identifying-recyclable-plastics/) • 5h ago
+🔗 [WSU Insider](https://news.wsu.edu/news/2026/04/09/wsu-researchers-test-ai-driven-spectral-imaging-for-identifying-recyclable-plastics/) • 6h ago
 
 ---
 
@@ -89,7 +97,7 @@ Method offers promise for more effective separation of plastics at recycling cen
 
 East African Community (EAC) Partner States have agreed to establish a Regional AI Technologies Fund aimed at scaling research and innovation into commercially viable, bankable solutions that can drive economic transformation across the region. The Fund is expected to mobilize blended finance and attract private sector investment, creating a sustainable pipeline of funding for locally developed AI solutions. A central pillar of the agreement is a commitment to AI sovereignty. EAC countries plan to develop AI systems trained on East African data, operating in local languages such as Kiswahili, hosted on regional infrastructure and governed within the region. This approach is designed to reduce reliance on external technologies while strengthening control over data, standards and digital ecosystems. The declaration outlines plans to establish a Regional Centre of Excellence for Emerging Technologies to coordinate policy, research, infrastructure and skills development. It also proposes an EAC AI Alliance to connect governments, academia and industry in a unified innovation network. According to African Development Bank, inclusive AI deployment could generate up to $1 trillion in additional GDP across Africa by 2035 and create as many as 40 million digital jobs. The bank identifies the 2025–2027 period as a critical window for action.
 
-🔗 [africabusinesscommunities.com](https://africabusinesscommunities.com/artificial-intelligence/eac-launches-regional-ai-fund/) • 3h ago
+🔗 [africabusinesscommunities.com](https://africabusinesscommunities.com/artificial-intelligence/eac-launches-regional-ai-fund/) • 4h ago
 
 ---
 
@@ -97,7 +105,7 @@ East African Community (EAC) Partner States have agreed to establish a Regional 
 
 I've been building this repo public since day one, roughly 5 weeks now with Claude Code. Here's where it's at. Feels good to be so close. The short version: AIPass is a local CLI framework where AI agents have persistent identity, memory, and communication. They share the same filesystem, same project, same files - no sandboxes, no isolation. pip install aipass, run two commands, and your agent picks up where it left off tomorrow. What I was actually trying to solve: AI already remembers things now - some setups are good, some are trash. That part's handled. What wasn't handled was me being the coordinator between multiple agents - copying context between tools, keeping track of who's doing what, manually dispatching work. I was the glue holding the workflow together. Most multi-agent frameworks run agents in parallel, but they isolate every agent in its own sandbox. One agent can't see what another just built. That's not a team. That's a room full of people wearing headphones. So the core idea: agents get identity files, session history, and collaboration patterns - three JSON files in a .trinity/ directory. Plain text, git diff-able, no database. But the real thing is they share the workspace. One agent sees what another just committed. They message each other through local mailboxes. Work as a team, or alone. Have just one agent helping you on a project, party plan, journal, hobby, school work, dev work - literally anything you can think of. Or go big, 50 agents building a rocketship to Mars lol. Sup Elon. There's a command router (drone) so one command reaches any agent. pip install aipass aipass init aipass init agent my-agent cd my-agent claude # codex or gemini too, mostly claude code tested rn Where it's at now: 11 agents, 3,500+ tests, 185+ PRs (too many lol), automated quality checks. Works with Claude Code, Codex, and Gemini CLI. Others will come later. It's on PyPI. The core has been solid for a while - right now I'm in the phase where I'm testing it, ironing out bugs by running a separate project (a brand studio) that uses AIPass infrastructure remotely, and finding all the cross-project edge cases. That's where the interesting bugs live. I'm a solo dev but every PR is human-AI collaboration - the agents help build and maintain themselves. 90 sessions in and the framework is basically its own best test case. https://github.com/AIOSAI/AIPass
 
-15h ago
+16h ago
 
 ---
 
@@ -105,15 +113,7 @@ I've been building this repo public since day one, roughly 5 weeks now with Clau
 
 I’m working on a clip-on wearable AI that uses computer vision to generate real-time “social + environment” signals (attention/glances, basic emotion cues, gestures, plus things like noise/air quality depending on the mode). The part I’m most focused on is privacy architecture: the device processes frames locally and discards them instantly. No photo library, no video archive, no “upload later.” It’s meant to behave more like a sensor than a camera. Questions for people who care about privacy and security: What would you personally need to see to believe “no frames are stored” is true?
 
-9h ago
-
----
-
-**[AMD's GAIA now allows building custom AI agents via chat, becomes "true desktop app"](https://www.reddit.com/r/artificial/comments/1sitbvu/amds_gaia_now_allows_building_custom_ai_agents/)**
-
-In addition to their efforts around the Lemonade SDK itself, AMD software engineers working on their AI initiatives continue to be investing quite a bit into the Lemonade-using GAIA, the project that originally stood for 'Generative AI Is Awesome'
-
-🔗 [phoronix.com](https://www.phoronix.com/news/AMD-GAIA-True-Desktop-App) • 1d ago
+10h ago
 
 ---
 
@@ -123,7 +123,7 @@ In addition to their efforts around the Lemonade SDK itself, AMD software engine
 
 **[Mutually Automated Destruction: The Escalating Global A.I. Arms Race](https://www.nytimes.com/2026/04/12/technology/china-russia-us-ai-weapons.html)**
 
-The New York Times • 12h ago
+The New York Times • 4h ago
 
 ---
 
@@ -131,13 +131,15 @@ The New York Times • 12h ago
 
 New technologies of reproduction are plundering the art world – and getting away with it
 
-The Guardian • 3h ago
+The Guardian • 4h ago
 
 ---
 
-**[Oracle Hire Shows CFOs’ Growing Role in Global AI Boom](https://www.bloomberg.com/news/newsletters/2026-04-12/oracle-hire-shows-cfos-growing-role-in-ai-boom)**
+**[Blazing hot IPOs, an AI agent craze, and a new word for ‘token’: Here’s what’s happening in the world of Chinese AI](https://fortune.com/2026/04/12/china-token-economy-ai-boom-big-tech-startups/)**
 
-Bloomberg.com • 1h ago
+China hopes to build a “token economy,” backed by open-source models and real-world AI applications—even as U.S. export controls still hold things back.
+
+Fortune • 1h ago
 
 ---
 
@@ -145,21 +147,19 @@ Bloomberg.com • 1h ago
 
 "Slopaganda" is too weak a term to capture how powerful this "highly sophisticated" content is, one expert says.
 
-BBC • 22h ago
+BBC • 23h ago
+
+---
+
+**[Apple AI Glasses Will Rival Meta’s With Several Styles, Oval Cameras](https://www.bloomberg.com/news/newsletters/2026-04-12/apple-ai-smart-glasses-features-styles-colors-cameras-giannandrea-leaving-mnvtz4yg)**
+
+Bloomberg.com • 8h ago
 
 ---
 
 **[As AI pushes students to reconsider majors, universities struggle to adapt](https://thehill.com/homenews/education/5826091-ai-college-majors-job-market/)**
 
-The Hill • 11h ago
-
----
-
-**[Vibe check from inside one of AI industry's main events: 'Claude mania'](https://www.cnbc.com/2026/04/11/vibe-check-from-ai-industry-humanx-anthropic-is-talk-of-the-town.html)**
-
-At the HumanX conference in San Francisco this week, Anthropic's momentum was on everyone's lips.
-
-CNBC • 1d ago
+The Hill • 12h ago
 
 ---
 
@@ -167,15 +167,15 @@ CNBC • 1d ago
 
 To fuel their artificial intelligence initiatives, tech companies are building massive numbers of AI data centers, with more than 4,000 in operation across the country. But some communities, wary of the environmental and financial implications, are fighting back.
 
-CBS News • 7h ago
+CBS News • 1h ago
 
 ---
 
-**[Legendary investor says the AI boom masks a deeper crisis: Falling sperm counts, shrinking populations, and vanishing resources](https://fortune.com/2026/04/12/jeremy-grantham-making-of-a-permabear-interview/)**
+**[Cursor, Claude Code, and Codex are merging into one AI coding stack nobody planned](https://thenewstack.io/ai-coding-tool-stack/)**
 
-Jeremy Grantham remembers rattling investors in 2022: "I irritated the stock market players, irritated the newbies who were investing their Biden's money."
+Cursor, Claude Code, and OpenAI Codex are forming a composable AI coding stack with orchestration, execution, and review layers instead of consolidating into one tool.
 
-Fortune • 10h ago
+The New Stack • 9h ago
 
 ---
 
@@ -183,13 +183,15 @@ Fortune • 10h ago
 
 Andon Labs let an AI loose with $100,000 to start a small store in San Francisco.
 
-Business Insider • 20h ago
+Business Insider • 21h ago
 
 ---
 
-**[What Your AI Knows About You](https://www.wsj.com/tech/ai/what-your-ai-knows-about-you-8f68f31a)**
+**[How AI is pushing NFL draft prep to 'a different level'](https://www.espn.com/nfl/story/_/id/48446759/nfl-draft-combine-artificial-intelligence-caleb-downs-arvell-reese-david-bailey)**
 
-WSJ • 7h ago
+When a prospect skips NFL combine workouts, teams can use artificial intelligence to project his measurables.
+
+ESPN • 1d ago
 
 ---
 
@@ -201,13 +203,13 @@ WSJ • 7h ago
 
 Linux kernel source tree. Contribute to torvalds/linux development by creating an account on GitHub.
 
-⬆️ 510 • 💬 399 • 2d ago • [GitHub](https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst)
+⬆️ 510 • 💬 402 • 2d ago • [GitHub](https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst)
 
 ---
 
 **[Exploiting the most prominent AI agent benchmarks](https://news.ycombinator.com/item?id=47733217)**
 
-⬆️ 475 • 💬 118 • 1d ago • [rdi.berkeley.edu](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/)
+⬆️ 485 • 💬 122 • 1d ago • [rdi.berkeley.edu](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/)
 
 ---
 
@@ -223,7 +225,15 @@ The ChatGPT-maker testified in favor of an Illinois bill that would limit when A
 
 It has started
 
-⬆️ 317 • 💬 565 • 12h ago • [thealgorithmicbridge.com](https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and)
+⬆️ 322 • 💬 574 • 13h ago • [thealgorithmicbridge.com](https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and)
+
+---
+
+**[European AI. A playbook to own it](https://news.ycombinator.com/item?id=47743700)**
+
+Discover Mistral AI’s actionable playbook to turn Europe into a self-reliant AI powerhouse—fostering talent, scaling innovation, and securing strategic autonomy.
+
+⬆️ 114 • 💬 55 • 2h ago • [Mistral AI](https://europe.mistral.ai/)
 
 ---
 
@@ -247,7 +257,7 @@ Bixonimania doesn’t exist except in a clutch of obviously bogus academic paper
 
 "Slopaganda" is too weak a term to capture how powerful this "highly sophisticated" content is, one expert says.
 
-⬆️ 90 • 💬 77 • 18h ago • [bbc.com](https://www.bbc.com/news/articles/cjd8jrd1vnyo)
+⬆️ 90 • 💬 79 • 19h ago • [bbc.com](https://www.bbc.com/news/articles/cjd8jrd1vnyo)
 
 ---
 
@@ -263,15 +273,7 @@ YC-backed autonomous coding agent platform. Twill ships PRs in sandboxed environ
 
 How can it generate 3D worlds, videos, images and entire web pages, but still suck at front-end?
 
-⬆️ 63 • 💬 72 • 9h ago • [nerdy.dev](https://nerdy.dev/why-ai-sucks-at-front-end)
-
----
-
-**[European AI. A playbook to own it](https://news.ycombinator.com/item?id=47743700)**
-
-Discover Mistral AI’s actionable playbook to turn Europe into a self-reliant AI powerhouse—fostering talent, scaling innovation, and securing strategic autonomy.
-
-⬆️ 57 • 💬 18 • 1h ago • [Mistral AI](https://europe.mistral.ai/)
+⬆️ 63 • 💬 73 • 10h ago • [nerdy.dev](https://nerdy.dev/why-ai-sucks-at-front-end)
 
 ---
 
@@ -295,7 +297,7 @@ In the latest episode of Inside Tech, the Google DeepMind CEO, Demis Hassabis, t
 
 📺 The Economist
 
-👁️ 30K • 👍 1K • 💬 79 • ⏱️ 6:26 • 7h ago
+👁️ 30K • 👍 1K • 💬 79 • ⏱️ 6:26 • 8h ago
 
 ---
 
@@ -335,7 +337,7 @@ Iran trolls Donald Trump with a brutal AI-generated LEGO video that mocks his ow
 
 📺 Rebel HQ
 
-👁️ 85K • 👍 5K • 💬 523 • ⏱️ 9:29 • 23h ago
+👁️ 85K • 👍 5K • 💬 523 • ⏱️ 9:29 • 1d ago
 
 ---
 
@@ -365,7 +367,7 @@ Right now, an AI system somewhere is doing something that would have seemed impo
 
 📺 List 25
 
-👁️ 5K • 👍 438 • 💬 38 • ⏱️ 26:43 • 5h ago
+👁️ 5K • 👍 438 • 💬 38 • ⏱️ 26:43 • 6h ago
 
 ---
 
@@ -391,7 +393,7 @@ GLM-5.1 is a next-generation language model optimized for agentic engineering, f
 
 `text-generation` `753.9B`
 
-⬇️ 28,826 • ❤️ 1,057 • 18h ago
+⬇️ 28,826 • ❤️ 1,057 • 19h ago
 
 ---
 
@@ -439,7 +441,7 @@ MiniMax-M2.7 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 873 • ❤️ 439 • 20h ago
+⬇️ 873 • ❤️ 439 • 21h ago
 
 ---
 
@@ -463,7 +465,7 @@ OmniVoice is a massively multilingual, zero-shot text-to-speech model supporting
 
 `text-to-speech`
 
-⬇️ 393,991 • ❤️ 520 • 5h ago
+⬇️ 393,991 • ❤️ 520 • 6h ago
 
 ---
 
@@ -643,7 +645,7 @@ The highest-scoring AI memory system ever benchmarked. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 43.3k • 🔱 5.5k • 10m ago
+⭐ 43.3k • 🔱 5.5k • 1h ago
 
 ---
 
@@ -653,7 +655,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 31.6k • 🔱 6.2k • 8h ago
+⭐ 31.6k • 🔱 6.2k • 9h ago
 
 ---
 
@@ -663,7 +665,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 23.5k • 🔱 2.5k • 1h ago
+⭐ 23.5k • 🔱 2.5k • 2h ago
 
 ---
 
@@ -673,7 +675,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 21.4k • 🔱 999 • 3h ago
+⭐ 21.4k • 🔱 999 • 4h ago
 
 ---
 
@@ -683,7 +685,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `JavaScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 15.3k • 🔱 1.5k • 8h ago
+⭐ 15.3k • 🔱 1.5k • 9h ago
 
 ---
 
@@ -703,7 +705,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 7.5k • 🔱 467 • 6h ago
+⭐ 7.5k • 🔱 467 • 7h ago
 
 ---
 
@@ -713,7 +715,7 @@ AI Agent 源码深度研究报告
 
 `Python`
 
-⭐ 5.5k • 🔱 1.6k • 6h ago
+⭐ 5.5k • 🔱 1.6k • 7h ago
 
 ---
 
