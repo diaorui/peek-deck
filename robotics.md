@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-12T08:03:25.611909+00:00'
+updated: '2026-04-12T09:12:41.786596+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 12, 2026 at 08:03 UTC  
+**Last Updated:** April 12, 2026 at 09:12 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,15 @@ Robotics research and industry news
 
 **[Kame Robotics unveils a compact open-source quadruped for desk-top robotics experiments](https://www.reddit.com/r/robotics/comments/1siofos/kame_robotics_unveils_a_compact_opensource/)**
 
-15h ago
+16h ago
+
+---
+
+**[LS3 Boston Dynamics Mini Resin Printing](https://www.reddit.com/r/robotics/comments/1sj8q52/ls3_boston_dynamics_mini_resin_printing/)**
+
+Hi everyone! I've been developing the LS3 BostonDynamics Mini quadruped for a while now. The goal was to create a modular, 3D-printable frame that can carry a Raspberry Pi. It’s still a work in progress, but the mechanical assembly is finally done! I'm happy to discuss the kinematics or electronics if anyone is interested!
+
+53m ago
 
 ---
 
@@ -42,7 +50,7 @@ Robotics research and industry news
 
 PNP Robotics: Haptic Teleoperation for data collection. At the Embodied AI Conference, we’re excited to showcase our integration of the Haply Inverse3 haptic joystick with Franka robots, enabling real-time pose control and immersive haptic feedback for intuitive teleoperation. EmbodiedAI #HapticTeleoperation #Franka #Haply #Robotics #Teleoperation
 
-2h ago
+4h ago
 
 ---
 
@@ -50,7 +58,7 @@ PNP Robotics: Haptic Teleoperation for data collection. At the Embodied AI Confe
 
 From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2042912788717408509
 
-20h ago
+21h ago
 
 ---
 
@@ -58,7 +66,15 @@ From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2042912788717408509
 
 I've been seeing a lot of noise from the tech world about robotics being the next big wave. Curious what people actually deploying and maintaining these systems think. What's working, what's vaporware, and what does the gap between a demo and a real production deployment actually look like?
 
-22h ago
+23h ago
+
+---
+
+**[cambotv1 update 12-04-2026 #automobile #robotics #cad #raspberrypi #rob...](https://www.reddit.com/r/robotics/comments/1sj9b4i/cambotv1_update_12042026_automobile_robotics_cad/)**
+
+I got finnaly my orp-cambotv1 working. It was a struggle i had to change my motor holders and print a new 12v motor holder(still possible work in progress) but i did it. i only need to to make the code more readable and documentible
+
+🔗 [youtube.com](https://youtube.com/shorts/lO5StFCWxCo?si=HMFmLq7GH5zTx3M_) • 18m ago
 
 ---
 
@@ -66,7 +82,7 @@ I've been seeing a lot of noise from the tech world about robotics being the nex
 
 I know we usually only post our own projects here, but i was procrastinating on my own codebase today and went down a rabbit hole looking at github repos from some 48h REDHackathon happening in shanghai right now (hosted by rednote I think? today is their demo day). tbh i mostly expected to see a bunch of hastily duct-taped openai wrappers and weekend spaghetti code. clicked on one of the hardware submissions called Mira. at first glance the picture just looks like a cute 3d-printed pixar lamp. I figured it was just a physical shell with a basic python script piping some face tracking coordinates directly to a couple servos. but looking at the actual code... the system architecture is surprisingly hardcore. They didnt just hardcode reactions. they built a full embodied interaction system. the pipeline goes from single camera input -> vision event extraction -> scene selection -> local bridge / safety layer -> ESP32 firmware. Instead of raw tracking they built a scene-based motion choreography abstraction. it interprets visual data into states like 'curious_observe', 'cute_probe', and 'standup_reminder'. The esp32 firmware isnt a toy either... it has a custom binary serial protocol, touch thresholds, and ack/err handling. they even built offline rehearsal scripts, fault injection, and a web director console so they could test the logic without the physical hardware glitching out on stage. Most ai right now just sits in a chat window waiting for a prompt. this thing is trying to actually notice your presence in a physical space and respond with body language and light rhythms before you even say a word. idk, seeing hardware prototypes with this level of release-oriented engineering come out of a 48h builder camp makes me feel pretty lazy today lol. its just a stark reminder that the next phase of ai probably isnt going to be on a screen, but actually sitting on our desks observing us. anyway just thought id share something cool that isnt another b2b saas wrapper. repo if anyone wants to look at the c++ / esp32 logic (not mine obviously): github.com/JunkaiWang-TheoPhy/Mira-Light-AI-That-Sees-You
 
-15h ago
+17h ago
 
 ---
 
@@ -78,7 +94,7 @@ I know we usually only post our own projects here, but i was procrastinating on 
 
 **[Help! Isaac sim 4.5.0 on GCP T4: vulkan reports wrong version (535.32) despite 535.288 installed.](https://www.reddit.com/r/robotics/comments/1siuypj/help_isaac_sim_450_on_gcp_t4_vulkan_reports_wrong/)**
 
-10h ago
+12h ago
 
 ---
 
@@ -87,22 +103,6 @@ I know we usually only post our own projects here, but i was procrastinating on 
 58 Home partnered with X Square Robot to launch a cleaning service in Shenzhen where a human cleaner shows up with a robot partner. The robot handles structured tasks like wiping surfaces, picking up debris, and tidying, while the human handles everything that requires judgment. What makes this interesting from a technical standpoint: the robot runs on an end-to-end VLA (Vision-Language-Action) model called WALL-A that takes video and language input and outputs motor commands directly with no intermediate planning layer. But the real story isn't the model architecture, it's the deployment strategy. The company frames this as "grass-fed vs grain-fed" training data. Models trained on clean lab data perform well in controlled environments but fall apart in real homes where every apartment has a different layout, random clutter on the floor, pets walking through the workspace, kids' toys in unpredictable places. You can see in this video exactly why that matters: the robot is navigating around a Corgi, working in a room absolutely covered in children's toys, and dealing with narrow doorways in a real Chinese apartment. None of this is a problem you'd encounter in a lab. A few years ago this kind of footage would have been a staged demo. The fact that it's a paying service operating in real apartments suggests robots in everyday homes are closer than most people think.
 
 1d ago
-
----
-
-**[Sumobot inquiry](https://www.reddit.com/r/robotics/comments/1sinbhd/sumobot_inquiry/)**
-
-So there is this competition that we will be joining next month to qualify for nationals. I have seen many builds that include a so-called "pull up switch", for 2 months I had been trying to find out how to create one of those, since there are no existing tutorials online. I reckon it is a micro switch connected to the driver but still confused. Does anyone have an idea on how pull up switches are made, or done? We are using one of those cytron URC10 R1.1 SumoBot Controller.
-
-15h ago
-
----
-
-**[Why's no one building baymax type robots](https://www.reddit.com/r/robotics/comments/1siya0x/whys_no_one_building_baymax_type_robots/)**
-
-all the robotics startups seem to be focusing on hard body robots where are those cute huggable robots promised in the movies? what are the challenges?
-
-8h ago
 
 ---
 
@@ -115,6 +115,14 @@ all the robotics startups seem to be focusing on hard body robots where are thos
 Deepu Talla helps bring the future of robotics closer to reality through the Nvidia-Talla Endowment for Texas Robotics.
 
 The University of Texas at Austin • 2d ago
+
+---
+
+**[Longwood's Robolions shares the thrill of robotics with special needs students](https://www.newsday.com/long-island/li-life/long-island-longwood-unified-robotics-icjjbnz8)**
+
+Longwood's Unified Robotics, an inclusive team of neurodivergent and neurotypical students, began in fall 2025.
+
+Newsday • 12m ago
 
 ---
 
@@ -166,23 +174,15 @@ Interesting Engineering • 1d ago
 
 **[National robotics push caught in delayed Trump-Xi meeting](https://www.politico.com/news/2026/04/09/national-robotics-trump-xi-china-00861918)**
 
-Politico • 2d ago
+Politico • 3d ago
 
 ---
 
-**[Wolfpack Robotics Team hosts Robo Rally](https://www.yahoo.com/lifestyle/articles/wolfpack-robotics-team-hosts-robo-203420984.html)**
+**[China’s Robotics Champion Is Going Public. Its PLA Ties and Western Dependence Aren’t.](https://www.kharon.com/brief/unitree-robotics-ipo-china-pla-robot-wolf)**
 
-Robo Rally was held at the Wilkes-Barre Area High School on Saturday.  The event was hosted by the Wilkes-Barre Area Wolfpack Robotics team and featured student-built robots, live demonstrations, and ...
+The Shanghai IPO of Unitree Robotics is “part of China’s broader positioning in the global race for physical AI,” Sunny Cheung of the Jamestown Foundation said. But its filings tell only part of the story.
 
-Yahoo • 11h ago
-
----
-
-**[Local robotics team could make it to world championships, here’s how to help](https://www.news9.com/oklahoma-city-news/okc-robotics-team-world-championship-fundraiser)**
-
-A local team could take Oklahoma to the global stage through robotics.
-
-News 9 • 1d ago
+Kharon • 2d ago
 
 ---
 
@@ -196,7 +196,7 @@ Try Seedance 2.0 with Claude on Higgsfield: https://higgsfield.ai/s/seedance-2-0
 
 📺 AI Revolution
 
-👁️ 37K • 👍 764 • 💬 93 • ⏱️ 14:57 • 8h ago
+👁️ 37K • 👍 764 • 💬 93 • ⏱️ 14:57 • 9h ago
 
 ---
 
@@ -216,7 +216,7 @@ Go to https://www.artwine.com to get your limited bottle of Ukrainian sparkling 
 
 📺 Paul Warburg
 
-👁️ 51K • 👍 7K • 💬 478 • ⏱️ 31:17 • 4h ago
+👁️ 51K • 👍 7K • 💬 478 • ⏱️ 31:17 • 5h ago
 
 ---
 
@@ -246,7 +246,7 @@ Unitree's H1 humanoid robot is back on top. Or is it? The Chinese robotics leade
 
 📺 Kalil 4.0
 
-👁️ 2K • 👍 75 • 💬 5 • ⏱️ 1:02 • 12h ago
+👁️ 2K • 👍 75 • 💬 5 • ⏱️ 1:02 • 13h ago
 
 ---
 
