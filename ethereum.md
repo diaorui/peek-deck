@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-12T14:08:40.466025+00:00'
+updated: '2026-04-12T15:05:29.959295+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
 - videos
+- cryptocurrency
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 12, 2026 at 14:08 UTC  
+**Last Updated:** April 12, 2026 at 15:05 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,206.33
+### $2,181.87
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.2%  
-**7d:** +4.1%  
-**30d:** +4.6%  
-**90d:** -34.0%  
-**1y:** +37.2%  
+**24h:** -3.5%  
+**7d:** +3.5%  
+**30d:** +4.0%  
+**90d:** -34.4%  
+**1y:** +36.5%  
 
 ---
 
@@ -72,7 +72,13 @@ No max supply
 
 **Welcome to the Daily General Discussion on** r/ethereum [https://imgur.com/3y7vezP\](https://imgur.com/3y7vezP) Bookmarking this link will always bring you to the current daily: [https://old.reddit.com/r/ethereum/about/sticky/?num=2\](https://old.reddit.com/r/ethereum/about/sticky/?num=2) Please use this thread to discuss Ethereum topics, news, events, and even *price*! Price discussion posted elsewhere in the subreddit will **continue to be removed.** As always, be constructive. - [Subreddit Rules](https://www.reddit.com/r/ethereum/about/rules/) Want to stake? Learn more at r/ethstaker **Community Links** * [Ethereum Jobs](https://ethereum.org/en/community/get-involved/#ethereum-jobs), [Twitter](https://x.com/ethereum) * [EVMavericks YouTube](https://www.youtube.com/@evmavericks), [Discord](https://discord.gg/evmavericks), [Doots Podcast](https://evmavericks.libsyn.com/) * [Doots Website](https://dailydoots.com/), Old Reddit [Doots Extension](https://github.com/etheralpha/ethfinance-extension) by u/hanniabu Calendar: [https://dailydoots.com/events/\](https://dailydoots.com/events/)
 
-9h ago
+10h ago
+
+---
+
+**[Is the "Crypto Purge" at Twitter simply an algorithm glitch—or a massive Conflict of Interest?](https://www.reddit.com/r/ethereum/comments/1sjf56t/is_the_crypto_purge_at_twitter_simply_an/)**
+
+1h ago
 
 ---
 
@@ -140,14 +146,6 @@ The Ethereum Layer 2 powering Predictstreet. Built by Abu Dhabi's IHC, hosting a
 
 ---
 
-**[How safe is Tokenized Gold?](https://www.reddit.com/r/ethereum/comments/1sfaxjn/how_safe_is_tokenized_gold/)**
-
-I've learnt that we can now invest in gold directly in crypto, which is quite exciting as I don't trust any bank or broker, so here's a few questions: Is this safe? What is the best within Paxos or Tether gold, is this as trustable as USDT/Stablecoins? How to buy it? EDIT: I'm getting a lot of dms asking for answers too, so I digged and understood. I was right, it's basically same as holding stablecoins like USDT in term of trust. The thing is that you easily lose -3% in slippage, I bought PAXG through https://leather.finance, which is a DEX aggregator I had 1:1, be careful when buying.
-
-4d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -156,29 +154,23 @@ I've learnt that we can now invest in gold directly in crypto, which is quite ex
 
 The Ether Machine terminates its SPAC merger with Dynamix, citing unfavorable market conditions amid ETH's sharp decline from its 2025 highs.
 
-BeInCrypto • 18h ago
+BeInCrypto • 19h ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Friday, April 10, 2026: Prices rise ahead of CPI report](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-april-10-2026-prices-rise-ahead-of-cpi-report-111733660.html)**
+**[$Ethereum (ETH.CC)$](https://www.moomoo.com/community/feed/ethereum-eth-cc-116392149581830)**
 
-Bitcoin opened at $71,783.52 on Friday and then rose slightly in early trading. Ethereum showed the same trend, opening at $2,189.99 and rising somewhat in early hours.
+@Etherdude 1166 Views|1 Like
 
-Yahoo Finance • 2d ago
+Moomoo • 51m ago
 
 ---
 
-**[TD Cuts Bitcoin Giant Strategy's Price Target, Calls Ethereum Treasury Sharplink a ‘Buy’](https://decrypt.co/363902/td-cuts-bitcoin-giant-strategy-price-target-ethereum-treasury-sharplink-buy)**
+**[TD Cuts Bitcoin Giant Strategy's Price Target, Calls Ethereum Treasury Sharplink a ‘Buy’](https://finance.yahoo.com/markets/crypto/articles/td-cuts-bitcoin-giant-strategys-220921727.html)**
 
 TD Cowen remains positive on $55 billion Bitcoin treasury pioneer Strategy, despite trimming its price target yet again.
 
-Decrypt • 2d ago
-
----
-
-**[Most large cryptocurrencies fall as Ethereum tumbles](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-as-ethereum-tumbles-91a2f421-9307bc266dcb)**
-
-MarketWatch • 3d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -186,13 +178,13 @@ MarketWatch • 3d ago
 
 An analyst on X has made a bold call on Ethereum, stating that the asset is on the verge of a parabolic move. The claim is based on a golden triangle formation on the chart, a setup that shows a breakout could be approaching for the leading altcoin. This approaching breakout could also serve as the…
 
-TradingView — Track All Markets • 18h ago
+TradingView — Track All Markets • 19h ago
 
 ---
 
 **[Weekly recap of Bitcoin, Ethereum, Solana, and XRP ETF performance](https://ambcrypto.com/weekly-recap-of-bitcoin-ethereum-solana-and-xrp-etf-performance/)**
 
-AMBCrypto • 3h ago
+AMBCrypto • 4h ago
 
 ---
 
@@ -200,7 +192,13 @@ AMBCrypto • 3h ago
 
 Ethereum is currently 55% below its all-time high as U.S.-Iran tensions escalate. The likelihood of Ethereum exceeding key April price targets has dropped, with
 
-Crypto Briefing • 8h ago
+Crypto Briefing • 9h ago
+
+---
+
+**[Most large cryptocurrencies fall as Ethereum tumbles](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-as-ethereum-tumbles-91a2f421-9307bc266dcb)**
+
+MarketWatch • 3d ago
 
 ---
 
@@ -212,17 +210,19 @@ Seeking Alpha • 2d ago
 
 ---
 
-**[Tom Lee's BitMine Uplisted to NYSE as Ethereum Firm Expands Buyback Program to $4 Billion](https://finance.yahoo.com/markets/stocks/articles/tom-lees-bitmine-uplisted-nyse-155826429.html)**
+**[Why is Crypto Rallying Today: Price Targets For Bitcoin, Ethereum and XRP](https://coinpedia.org/news/why-is-crypto-rallying-price-targets-for-bitcoin-ethereum-and-xrp/)**
 
-Ethereum treasury giant BitMine Immersion Technologies upped its share buyback program to $4 billion and was uplisted to the NYSE on Thursday.
+The crypto market has rebounded, with Bitcoin rising 10% over the last eight days and Ethereum up 12% in the same period. The total market cap is now up
 
-Yahoo Finance • 2d ago
+Coinpedia • 1d ago
 
 ---
 
-**[Bitmine Stock Plugs Into a New Power Source as Ethereum Holdings Hits Record Highs; BMNR Up 15%](https://www.tipranks.com/news/bitmine-stock-plugs-into-a-new-power-source-as-ethereum-holdings-hit-record-highs-bmnr-up-15)**
+**[Ethereum Price Forecast: Increased derivatives demand spurred ETH's rise after US-Iran ceasefire](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-increased-derivatives-demand-spurred-eths-rise-after-us-iran-ceasefire-202604110553)**
 
-TipRanks • 3d ago
+Ethereum (ETH) saw major improvements across key onchain metrics after the US-Iran ceasefire announcement on Tuesday, according to a CryptoQuant analysis. The top altcoin rose by 6% within 24 hours following the move, its largest single-day gain in more than a month.
+
+FXStreet • 1d ago
 
 ---
 
@@ -236,7 +236,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 21K • 👍 639 • 💬 94 • ⏱️ 19:27 • 21h ago
+👁️ 21K • 👍 639 • 💬 94 • ⏱️ 19:27 • 22h ago
 
 ---
 
@@ -246,7 +246,7 @@ Ethereum has completed a five wave move up from the March lows – a critical El
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 160 • 💬 13 • ⏱️ 9:19 • 13h ago
+👁️ 3K • 👍 160 • 💬 13 • ⏱️ 9:19 • 14h ago
 
 ---
 
@@ -256,7 +256,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 101 • 👍 7 • 💬 3 • ⏱️ 4:41 • 4h ago
+👁️ 101 • 👍 7 • 💬 3 • ⏱️ 4:41 • 5h ago
 
 ---
 
@@ -266,7 +266,7 @@ join my social platforms for updates and analysis ✓Instagram: ...
 
 📺 Aryan trader Live
 
-👁️ 5K • 👍 4K • 3h ago
+👁️ 5K • 👍 4K • 4h ago
 
 ---
 
@@ -276,7 +276,7 @@ BITCOIN PRICE SQUEEZE: Final Warning (Urgent)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 8K • 👍 298 • 💬 252 • ⏱️ 22:15 • 15h ago
+👁️ 8K • 👍 298 • 💬 252 • ⏱️ 22:15 • 16h ago
 
 ---
 
@@ -286,7 +286,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 1K • 👍 115 • ⏱️ 5:12 • 7h ago
+👁️ 1K • 👍 115 • ⏱️ 5:12 • 8h ago
 
 ---
 

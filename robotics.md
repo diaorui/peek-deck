@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-12T14:08:40.469289+00:00'
+updated: '2026-04-12T15:05:29.962501+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 12, 2026 at 14:08 UTC  
+**Last Updated:** April 12, 2026 at 15:05 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hi everyone! I've been developing the LS3 BostonDynamics Mini quadruped for a while now. The goal was to create a modular, 3D-printable frame that can carry a Raspberry Pi. It’s still a work in progress, but the mechanical assembly is finally done! I'm happy to discuss the kinematics or electronics if anyone is interested!
 
-5h ago
+6h ago
 
 ---
 
@@ -44,13 +44,13 @@ Hi everyone! I've been developing the LS3 BostonDynamics Mini quadruped for a wh
 
 Technical blog post with multiple videos: https://generalistai.com/blog/apr-02-2026-GEN-1
 
-3h ago
+4h ago
 
 ---
 
 **[Kame Robotics unveils a compact open-source quadruped for desk-top robotics experiments](https://www.reddit.com/r/robotics/comments/1siofos/kame_robotics_unveils_a_compact_opensource/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -58,7 +58,15 @@ Technical blog post with multiple videos: https://generalistai.com/blog/apr-02-2
 
 I know we usually only post our own projects here, but i was procrastinating on my own codebase today and went down a rabbit hole looking at github repos from some 48h REDHackathon happening in shanghai right now (hosted by rednote I think? today is their demo day). tbh i mostly expected to see a bunch of hastily duct-taped openai wrappers and weekend spaghetti code. clicked on one of the hardware submissions called Mira. at first glance the picture just looks like a cute 3d-printed pixar lamp. I figured it was just a physical shell with a basic python script piping some face tracking coordinates directly to a couple servos. but looking at the actual code... the system architecture is surprisingly hardcore. They didnt just hardcode reactions. they built a full embodied interaction system. the pipeline goes from single camera input -> vision event extraction -> scene selection -> local bridge / safety layer -> ESP32 firmware. Instead of raw tracking they built a scene-based motion choreography abstraction. it interprets visual data into states like 'curious_observe', 'cute_probe', and 'standup_reminder'. The esp32 firmware isnt a toy either... it has a custom binary serial protocol, touch thresholds, and ack/err handling. they even built offline rehearsal scripts, fault injection, and a web director console so they could test the logic without the physical hardware glitching out on stage. Most ai right now just sits in a chat window waiting for a prompt. this thing is trying to actually notice your presence in a physical space and respond with body language and light rhythms before you even say a word. idk, seeing hardware prototypes with this level of release-oriented engineering come out of a 48h builder camp makes me feel pretty lazy today lol. its just a stark reminder that the next phase of ai probably isnt going to be on a screen, but actually sitting on our desks observing us. anyway just thought id share something cool that isnt another b2b saas wrapper. repo if anyone wants to look at the c++ / esp32 logic (not mine obviously): github.com/JunkaiWang-TheoPhy/Mira-Light-AI-That-Sees-You
 
-4h ago
+5h ago
+
+---
+
+**[Has anyone else pivoted from robotics to physics simulation development? Currently on the fence.](https://www.reddit.com/r/robotics/comments/1sjexfr/has_anyone_else_pivoted_from_robotics_to_physics/)**
+
+This is more of a rant for me to verbalize my thoughts. Feel free to add your input, especially if you have been in my shoes before! I am a robotics engineer specialising in controls, but more or less doing a bit of everything, from computer vision, planning and controls to CAD. From the time I was still a student, I was always fascinated by both control theory and physics simulations, and I was always on the fence with choosing one or the other as a career path. In the end, I chose robotics as my job for the last 2 years. As of late, I am having second thoughts about my career choice. Here are some of the reasons that lead me to leave robotics. Both of the companies I have worked for were very startup minded, forcing me to work long hours either directly (deadlines) or indirectly (so that I can learn and become competitive). I am scared this is the case with most robotics companies in my immediate area. I am not really into hardware-focused jobs. Both of the robotics roles I have worked in had lots of travel during deployments, and it's a huge stress for me every time because lots of things can and do go wrong. I do not feel content when I solve a problem that has been puzzling me for days/weeks. Instead I am just stressed about the next one. The more I use ROS, the more I grow tired of it. Whereas, whenever I work on plain C++ CMake projects I get a sigh of relief. I understand that a lot packages and their inter communication make my life much much easier (eg. ros2_control, moveit2, etc), but the inertia I feel when using ROS has never gone completely away. It is a skill issue, I know, but I do not feel as motivated to get better at it compared to other skills I have learned. Now, I realize robotics is a field that will experience more booms in the next years, so leaving it even temporarily seems like a bad move on my part. Having said that, here are the reasons I am considering simulation software development as a job. My undergrad thesis was a real time fluid simulator. This was my first experience working in a bigger simulation project, and I fell in love with it. I grew as a software engineer immensely, and I was exposed to a large variety of papers and algorithms on numerical methods and the current state of the art. No field has ever given me as much satisfaction and a need to "git gud" as writing physics sim codes. Robotics has never given me the same feeling. The math behind physics sims is really interesting to me. Like I can talk for hours why I like certain families of numerical methods over others, and finding a new shiny paper about a method and testing it through code is a borderline past time activity to me. I love writing C++. It is my favourite language by far, beside its pain points, and I really enjoy using it for high performance applications. I find pure software projects freeing, as everything I need is in my computer. I don't need to plan my free time and schedule around travels, and don't have to worry about drivers, closed source hardware, talking to suppliers etc. I find that a lot of the stuff I have learned in robotics transfers over to simulation software development. 3D math, discrete math, GPU acceleration, C++, data visualization etc. In my mind, If I could pivot to writing code for, say, robotics gyms, CAD finite element codes, CFD solvers etc, I would be a happy camper. Taking the time to write this post makes me all the more motivated to make the switch. I am curious if there are any like minded roboticists here sharing my thoughts!
+
+1h ago
 
 ---
 
@@ -66,7 +74,7 @@ I know we usually only post our own projects here, but i was procrastinating on 
 
 PNP Robotics: Haptic Teleoperation for data collection. At the Embodied AI Conference, we’re excited to showcase our integration of the Haply Inverse3 haptic joystick with Franka robots, enabling real-time pose control and immersive haptic feedback for intuitive teleoperation. EmbodiedAI #HapticTeleoperation #Franka #Haply #Robotics #Teleoperation
 
-8h ago
+9h ago
 
 ---
 
@@ -78,11 +86,19 @@ From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2042912788717408509
 
 ---
 
+**[ROS 2 Pan Tilt Camera](https://www.reddit.com/r/robotics/comments/1sjgxh4/ros_2_pan_tilt_camera/)**
+
+Recently I was spending time building my ROS 2 robots and one functionality I always wanted was Pan Tilt camera, so I built it 🚀 I designed motor housing with CAD, and used micro-ros to control MCU. Lastly I made simple PID object follower using high speed, low latency Isaac ROS object detection running on Robot’s Jetson.
+
+🔗 [youtu.be](https://youtu.be/CmBWlHjohjg) • 1m ago
+
+---
+
 **[MIT CSAIL Director Daniela Rus on the Future of Robotics](https://www.reddit.com/r/robotics/comments/1sjcj62/mit_csail_director_daniela_rus_on_the_future_of/)**
 
 MIT’s Daniela Rus talks about how robotics is starting to overlap more with biology and AI. One project uses machine learning to analyze sperm whale sounds, finding repeatable patterns and even predicting what comes next. There’s also work inspired by animals like octopuses, looking at more flexible, distributed control systems instead of rigid robot designs.
 
-🔗 [Automate](http://automate.org/robotics/industry-insights/mit-csail-director-daniela-rus-on-the-future-of-robotics) • 2h ago
+🔗 [Automate](http://automate.org/robotics/industry-insights/mit-csail-director-daniela-rus-on-the-future-of-robotics) • 3h ago
 
 ---
 
@@ -94,22 +110,6 @@ I've been seeing a lot of noise from the tech world about robotics being the nex
 
 ---
 
-**[cambotv1 update 12-04-2026 #automobile #robotics #cad #raspberrypi #rob...](https://www.reddit.com/r/robotics/comments/1sj9b4i/cambotv1_update_12042026_automobile_robotics_cad/)**
-
-I got finnaly my orp-cambotv1 working. It was a struggle i had to change my motor holders and print a new 12v motor holder(still possible work in progress) but i did it. i only need to to make the code more readable and documentible
-
-🔗 [youtube.com](https://youtube.com/shorts/lO5StFCWxCo?si=HMFmLq7GH5zTx3M_) • 5h ago
-
----
-
-**[Found this open-source 'Pixar lamp' while procrastinating today. the engineering under the hood is actually insane for a weekend build](https://www.reddit.com/r/robotics/comments/1sin63l/found_this_opensource_pixar_lamp_while/)**
-
-I know we usually only post our own projects here, but i was procrastinating on my own codebase today and went down a rabbit hole looking at github repos from some 48h REDHackathon happening in shanghai right now (hosted by rednote I think? today is their demo day). tbh i mostly expected to see a bunch of hastily duct-taped openai wrappers and weekend spaghetti code. clicked on one of the hardware submissions called Mira. at first glance the picture just looks like a cute 3d-printed pixar lamp. I figured it was just a physical shell with a basic python script piping some face tracking coordinates directly to a couple servos. but looking at the actual code... the system architecture is surprisingly hardcore. They didnt just hardcode reactions. they built a full embodied interaction system. the pipeline goes from single camera input -> vision event extraction -> scene selection -> local bridge / safety layer -> ESP32 firmware. Instead of raw tracking they built a scene-based motion choreography abstraction. it interprets visual data into states like 'curious_observe', 'cute_probe', and 'standup_reminder'. The esp32 firmware isnt a toy either... it has a custom binary serial protocol, touch thresholds, and ack/err handling. they even built offline rehearsal scripts, fault injection, and a web director console so they could test the logic without the physical hardware glitching out on stage. Most ai right now just sits in a chat window waiting for a prompt. this thing is trying to actually notice your presence in a physical space and respond with body language and light rhythms before you even say a word. idk, seeing hardware prototypes with this level of release-oriented engineering come out of a 48h builder camp makes me feel pretty lazy today lol. its just a stark reminder that the next phase of ai probably isnt going to be on a screen, but actually sitting on our desks observing us. anyway just thought id share something cool that isnt another b2b saas wrapper. repo if anyone wants to look at the c++ / esp32 logic (not mine obviously): github.com/JunkaiWang-TheoPhy/Mira-Light-AI-That-Sees-You
-
-21h ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -118,7 +118,7 @@ I know we usually only post our own projects here, but i was procrastinating on 
 
 Deepu Talla helps bring the future of robotics closer to reality through the Nvidia-Talla Endowment for Texas Robotics.
 
-The University of Texas at Austin • 2d ago
+The University of Texas at Austin • 3d ago
 
 ---
 
@@ -130,11 +130,27 @@ About Amazon • 1d ago
 
 ---
 
+**[UP robotics teams compete for Michigan FIRST Robotics state finals](https://www.uppermichiganssource.com/2026/04/11/up-robotics-teams-compete-michigan-first-robotics-state-finals/)**
+
+40 teams battled during the two-day district qualifiers at Escanaba High School.
+
+Upper Michigan's Source • 17h ago
+
+---
+
 **[Opinion | Meet Abi, the AI-powered robot companion for senior care](https://www.washingtonpost.com/opinions/2026/04/09/ai-robot-senior-care-abi/)**
 
 This new tech from Australia is coming to America’s senior care facilities.
 
 The Washington Post • 2d ago
+
+---
+
+**[New humanoid robots replacing workers in factories](https://www.nbcnews.com/video/shorts/new-humanoid-robots-replacing-workers-in-factories-261041221991)**
+
+Meet 'Digit', a humanoid robotic worker made by Agility Robotics, now part of a new wave of robots replacing workers at companies like Schaeffler, Toyota, and GXO. NBC News' Brian Cheung takes a look.
+
+NBC News • 2d ago
 
 ---
 
@@ -146,17 +162,17 @@ Fox News • 2d ago
 
 ---
 
-**[Electrofluidic fiber muscles could enable silent robotic systems](https://techxplore.com/news/2026-04-electrofluidic-fiber-muscles-enable-silent.html)**
+**[Students shine at Wolfpack Robotics’ Robo Rally](https://www.timesleader.com/news/1738534/students-shine-at-wolfpack-robotics-robo-rally)**
 
-Tech Xplore • 2d ago
+<p>PLAINS TWP. — It was a celebration of robotics on Saturday as regional schools gathered at Wilkes-Barre Area High School for Wolfpack Robotics’ second Robo Rally.</p>
+
+Times Leader • 14h ago
 
 ---
 
-**[New humanoid robots replacing workers in factories](https://www.nbcnews.com/video/shorts/new-humanoid-robots-replacing-workers-in-factories-261041221991)**
+**[Electrofluidic fiber muscles could enable silent robotic systems](https://techxplore.com/news/2026-04-electrofluidic-fiber-muscles-enable-silent.html)**
 
-Meet 'Digit', a humanoid robotic worker made by Agility Robotics, now part of a new wave of robots replacing workers at companies like Schaeffler, Toyota, and GXO. NBC News' Brian Cheung takes a look.
-
-NBC News • 2d ago
+Tech Xplore • 2d ago
 
 ---
 
@@ -174,22 +190,6 @@ Politico • 3d ago
 
 ---
 
-**[China’s Robotics Champion Is Going Public. Its PLA Ties and Western Dependence Aren’t.](https://www.kharon.com/brief/unitree-robotics-ipo-china-pla-robot-wolf)**
-
-The Shanghai IPO of Unitree Robotics is “part of China’s broader positioning in the global race for physical AI,” Sunny Cheung of the Jamestown Foundation said. But its filings tell only part of the story.
-
-Kharon • 2d ago
-
----
-
-**[Resolved: Laundry folding is the future of home robotics](https://www.pcworld.com/article/3110605/resolved-laundry-folding-is-the-future-of-home-robotics.html)**
-
-Hot on the heels of LG's laundry-folding robot showcased at CES, Syncere has released a much more elegant home robot that marries a floor lamp to laundry-folding functions.
-
-PCWorld • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -200,7 +200,7 @@ Try Seedance 2.0 with Claude on Higgsfield: https://higgsfield.ai/s/seedance-2-0
 
 📺 AI Revolution
 
-👁️ 43K • 👍 860 • 💬 116 • ⏱️ 14:57 • 14h ago
+👁️ 43K • 👍 860 • 💬 116 • ⏱️ 14:57 • 15h ago
 
 ---
 
@@ -210,7 +210,7 @@ Go to https://www.artwine.com to get your limited bottle of Ukrainian sparkling 
 
 📺 Paul Warburg
 
-👁️ 108K • 👍 12K • 💬 827 • ⏱️ 31:17 • 10h ago
+👁️ 108K • 👍 12K • 💬 827 • ⏱️ 31:17 • 11h ago
 
 ---
 
@@ -240,7 +240,7 @@ Toyota Motor Corp. showcased its latest AI-powered basketball robot, CUE7, showc
 
 📺 Al Jazeera English
 
-👁️ 2K • 👍 67 • 💬 3 • ⏱️ 0:42 • 1h ago
+👁️ 2K • 👍 67 • 💬 3 • ⏱️ 0:42 • 2h ago
 
 ---
 

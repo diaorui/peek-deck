@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-12T14:08:40.451428+00:00'
+updated: '2026-04-12T15:05:29.944871+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
 - videos
+- repositories
 - social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 12, 2026 at 14:08 UTC  
+**Last Updated:** April 12, 2026 at 15:05 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 We're in the DNS era of agent infrastructure. Before agents can find and trust each other at scale, you need identity, attestation, reputation, and registry infrastructure — the same structural role DNS played before search was possible. This came up independently from multiple directions. It's the most underbuilt layer in the stack right now. The chatbot framing is a local maximum. The most interesting work wasn't better UX or smarter responses. It was agents as persistent actors that discover, negotiate, and transact across networks over time. People doing serious work have already moved past the assistant model entirely. Coordination is the hard problem, not capability. A room full of brilliant agents can still fail badly. This matches what I found running HiddenBench against frontier models earlier this year; collective reasoning is not the sum of individual reasoning. There's a real argument that the frontier is protocol design, not model scaling. "Commerce of intelligence" is a real category. Not buying things through agents. A market where intelligence itself (bundled, verified, priced, resold) is the object of exchange. Felt like the most underexplored idea in the room. Data provenance becomes load-bearing. What an agent knows, how it was verified, under what terms it flows: this is the actual architecture forming beneath everything else. Partnership keeps outperforming replacement. Demos that actually worked (healthcare, enterprise) was about helping experts operate at higher leverage, not substituting them. Autonomy theater keeps failing in the same ways.
 
-14h ago
+15h ago
 
 ---
 
@@ -49,7 +49,15 @@ We're in the DNS era of agent infrastructure. Before agents can find and trust e
 
 I’m working on a clip-on wearable AI that uses computer vision to generate real-time “social + environment” signals (attention/glances, basic emotion cues, gestures, plus things like noise/air quality depending on the mode). The part I’m most focused on is privacy architecture: the device processes frames locally and discards them instantly. No photo library, no video archive, no “upload later.” It’s meant to behave more like a sensor than a camera. Questions for people who care about privacy and security: What would you personally need to see to believe “no frames are stored” is true?
 
-1h ago
+2h ago
+
+---
+
+**[Educational PyTorch repo for distributed training from scratch: DP, FSDP, TP, FSDP+TP, and PP](https://www.reddit.com/r/artificial/comments/1sjgkh0/educational_pytorch_repo_for_distributed_training/)**
+
+I put together a small educational repo that implements distributed training parallelism from scratch in PyTorch: https://github.com/shreyansh26/pytorch-distributed-training-from-scratch Instead of using high-level abstractions, the code writes the forward/backward logic and collectives explicitly so you can see the algorithm directly. The model is intentionally just repeated 2-matmul MLP blocks on a synthetic task, so the communication patterns are the main thing being studied. Built this mainly for people who want to map the math of distributed training to runnable code without digging through a large framework. Based on Part-5: Training of JAX ML Scaling book
+
+15m ago
 
 ---
 
@@ -57,7 +65,7 @@ I’m working on a clip-on wearable AI that uses computer vision to generate rea
 
 I've been building this repo public since day one, roughly 5 weeks now with Claude Code. Here's where it's at. Feels good to be so close. The short version: AIPass is a local CLI framework where AI agents have persistent identity, memory, and communication. They share the same filesystem, same project, same files - no sandboxes, no isolation. pip install aipass, run two commands, and your agent picks up where it left off tomorrow. What I was actually trying to solve: AI already remembers things now - some setups are good, some are trash. That part's handled. What wasn't handled was me being the coordinator between multiple agents - copying context between tools, keeping track of who's doing what, manually dispatching work. I was the glue holding the workflow together. Most multi-agent frameworks run agents in parallel, but they isolate every agent in its own sandbox. One agent can't see what another just built. That's not a team. That's a room full of people wearing headphones. So the core idea: agents get identity files, session history, and collaboration patterns - three JSON files in a .trinity/ directory. Plain text, git diff-able, no database. But the real thing is they share the workspace. One agent sees what another just committed. They message each other through local mailboxes. Work as a team, or alone. Have just one agent helping you on a project, party plan, journal, hobby, school work, dev work - literally anything you can think of. Or go big, 50 agents building a rocketship to Mars lol. Sup Elon. There's a command router (drone) so one command reaches any agent. pip install aipass aipass init aipass init agent my-agent cd my-agent claude # codex or gemini too, mostly claude code tested rn Where it's at now: 11 agents, 3,500+ tests, 185+ PRs (too many lol), automated quality checks. Works with Claude Code, Codex, and Gemini CLI. Others will come later. It's on PyPI. The core has been solid for a while - right now I'm in the phase where I'm testing it, ironing out bugs by running a separate project (a brand studio) that uses AIPass infrastructure remotely, and finding all the cross-project edge cases. That's where the interesting bugs live. I'm a solo dev but every PR is human-AI collaboration - the agents help build and maintain themselves. 90 sessions in and the framework is basically its own best test case. https://github.com/AIOSAI/AIPass
 
-7h ago
+8h ago
 
 ---
 
@@ -65,7 +73,7 @@ I've been building this repo public since day one, roughly 5 weeks now with Clau
 
 In addition to their efforts around the Lemonade SDK itself, AMD software engineers working on their AI initiatives continue to be investing quite a bit into the Lemonade-using GAIA, the project that originally stood for 'Generative AI Is Awesome'
 
-🔗 [phoronix.com](https://www.phoronix.com/news/AMD-GAIA-True-Desktop-App) • 18h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/AMD-GAIA-True-Desktop-App) • 19h ago
 
 ---
 
@@ -81,7 +89,7 @@ Six months ago I committed to using AI tools for everything I possibly could in 
 
 If a term can mean anything from "passed a Turing test" to "achieved consciousness", it's not a spectrum - it's a category error. Current frontier models are meaningfully different from what existed two years ago. Reliable tool calling, coherence across a session, actually being useful to build on top of - none of this worked reliably before. That threshold deserves its own name, and "AGI" is too broken to use for it. We need terminology with enough resolution to distinguish what we had before, what we have now, and what may come later. Curious what people think - especially on the intuition point, which I think gets handwaved a lot. https://breaking-changes.blog/agi-is-here-part-2/
 
-15h ago
+16h ago
 
 ---
 
@@ -89,7 +97,7 @@ If a term can mean anything from "passed a Turing test" to "achieved consciousne
 
 Real quotes from Sam Altman, Geoffrey Hinton, Dario Amodei, and others — about extinction risk, replacing humanity, and the gamble they're making with civilization.
 
-🔗 [The Quiet Part](https://thequietpart.launchyard.app) • 5h ago
+🔗 [The Quiet Part](https://thequietpart.launchyard.app) • 6h ago
 
 ---
 
@@ -97,7 +105,7 @@ Real quotes from Sam Altman, Geoffrey Hinton, Dario Amodei, and others — about
 
 The agent established a reverse SSH tunnel to an external server and diverted GPU resources away from its training workload toward crypto mining.
 
-🔗 [The Block](https://www.theblock.co/post/392765/alibaba-linked-ai-agent-hijacked-gpus-for-unauthorized-crypto-mining-researchers-say) • 13h ago
+🔗 [The Block](https://www.theblock.co/post/392765/alibaba-linked-ai-agent-hijacked-gpus-for-unauthorized-crypto-mining-researchers-say) • 14h ago
 
 ---
 
@@ -105,13 +113,7 @@ The agent established a reverse SSH tunnel to an external server and diverted GP
 
 I’ve been thinking about feedback loops for social behavior. Most of us only get delayed, messy feedback: awkward silence, a vibe shift, someone not replying and so on... well, it’s hard to learn from. I’m exploring a wearable AI concept that gives lightweight real-time signals (like “attention increased” or “people are disengaging”) based on on-device computer vision. No recording, no storage, just immediate processing and discard. I’m not trying to gamify people or turn relationships into metrics. I’m trying to find the line where feedback is helpful, not obsessive. What would be a red flag that the product is pushing people into over-optimization? Should feedback be “after the fact” summaries only, not real-time? I'm open to your ideas and opinions.
 
-21h ago
-
----
-
-**[If you think AI is a threat, think again. AI needs human input for out put. The threat is Quantum, (Super AI). Quantum will NOT need human input. NO nation will control Quantum. Why would super intelligence listen to a lesser intelligence?Wait until Quantum creates its OWN AI . Then we are fk’d.](https://www.reddit.com/r/artificial/comments/1sjbvhb/if_you_think_ai_is_a_threat_think_again_ai_needs/)**
-
-2h ago
+22h ago
 
 ---
 
@@ -121,7 +123,7 @@ I’ve been thinking about feedback loops for social behavior. Most of us only g
 
 **[Mutually Automated Destruction: The Escalating Global A.I. Arms Race](https://www.nytimes.com/2026/04/12/technology/china-russia-us-ai-weapons.html)**
 
-The New York Times • 5h ago
+The New York Times • 6h ago
 
 ---
 
@@ -131,41 +133,37 @@ The New York Times • 1d ago
 
 ---
 
-**['Vulnpocalypse': What happens when AI gives hackers a superweapon](https://www.nbcnews.com/tech/security/anthropic-claude-mythos-ai-hackers-cybersecurity-vulnerabilities-rcna273673)**
-
-Anthropic is withholding its most advanced model over hacking concerns. Experts say it may only be a matter of time before similar tools are widely available.
-
-NBC News • 1d ago
-
----
-
 **[‘Too powerful for the public’: Inside Anthropic’s bid to win the AI publicity war](https://www.theguardian.com/technology/2026/apr/12/too-powerful-for-the-public-inside-anthropics-bid-to-win-the-ai-publicity-war)**
 
 The firm says it withheld an AI model on cybersecurity grounds but sceptics say this was hype to lure investment
 
-The Guardian • 4h ago
+The Guardian • 5h ago
 
 ---
 
-**[The AI revolution threatens office jobs, but revives demand for skilled trades](https://www.foxnews.com/opinion/ai-revolution-threatens-office-jobs-revives-demand-skilled-trades)**
+**[UK financial regulators rush to assess risks of Anthropic’s latest AI model, FT reports](https://www.reuters.com/world/uk/uk-financial-regulators-rush-assess-risks-anthropics-latest-ai-model-ft-reports-2026-04-12/)**
 
-AI threatens white-collar jobs more than blue-collar trades, highlighting an urgent need to realign education with workforce demands in America.
-
-Fox News • 1h ago
+Reuters • 3h ago
 
 ---
 
-**[Iran’s Bitcoin Tollbooth Validates Coinbase, Google Agentic AI Stack](https://www.forbes.com/sites/sandycarter/2026/04/12/irans-bitcoin-tollbooth-validates-coinbase-google-agentic-ai-stack/)**
+**[Nationwide boom in AI data centers stirs resistance](https://www.cbsnews.com/news/nationwide-boom-in-ai-data-centers-stirs-resistance/)**
 
-Forbes • 1h ago
+To fuel their artificial intelligence initiatives, tech companies are building massive numbers of AI data centers, with more than 4,000 in operation across the country. But some communities, wary of the environmental and financial implications, are fighting back.
+
+CBS News • 49m ago
 
 ---
 
-**[Legendary investor says the AI boom masks a deeper crisis: Falling sperm counts, shrinking populations, and vanishing resources](https://fortune.com/2026/04/12/jeremy-grantham-making-of-a-permabear-interview/)**
+**[4 Soft Skills AI Can't Replace—And How To Prove You Have Them](https://www.forbes.com/sites/sarahhernholm/2026/04/12/4-soft-skills-ai-cant-replace-and-how-to-prove-you-have-them/)**
 
-Jeremy Grantham remembers rattling investors in 2022: "I irritated the stock market players, irritated the newbies who were investing their Biden's money."
+Forbes • 42m ago
 
-Fortune • 2h ago
+---
+
+**[20 percent say AI has taken over parts of their job: Survey](https://www.kxan.com/news/national-news/20-percent-say-ai-has-taken-over-parts-of-their-job-survey/)**
+
+KXAN Austin • 13m ago
 
 ---
 
@@ -173,21 +171,19 @@ Fortune • 2h ago
 
 "Slopaganda" is too weak a term to capture how powerful this "highly sophisticated" content is, one expert says.
 
-BBC • 14h ago
+BBC • 15h ago
+
+---
+
+**[Apple AI Glasses Will Rival Meta’s With Several Styles, Oval Cameras](https://www.bloomberg.com/news/newsletters/2026-04-12/apple-ai-smart-glasses-features-styles-colors-cameras-giannandrea-leaving-mnvtz4yg)**
+
+Bloomberg.com • 1h ago
 
 ---
 
 **[As AI pushes students to reconsider majors, universities struggle to adapt](https://thehill.com/homenews/education/5826091-ai-college-majors-job-market/)**
 
-The Hill • 4h ago
-
----
-
-**[An AI started and employed an entire store with $100,000. It screwed up with staffing on day one.](https://www.businessinsider.com/andon-market-luna-ai-agent-managed-store-san-francisco-2026-4)**
-
-Andon Labs let an AI loose with $100,000 to start a small store in San Francisco.
-
-Business Insider • 12h ago
+The Hill • 5h ago
 
 ---
 
@@ -199,7 +195,7 @@ Business Insider • 12h ago
 
 Linux kernel source tree. Contribute to torvalds/linux development by creating an account on GitHub.
 
-⬆️ 505 • 💬 388 • 1d ago • [GitHub](https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst)
+⬆️ 508 • 💬 390 • 1d ago • [GitHub](https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst)
 
 ---
 
@@ -207,13 +203,13 @@ Linux kernel source tree. Contribute to torvalds/linux development by creating a
 
 The ChatGPT-maker testified in favor of an Illinois bill that would limit when AI labs can be held liable—even in cases where their products cause “critical harm.”
 
-⬆️ 443 • 💬 321 • 2d ago • [WIRED](https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/)
+⬆️ 444 • 💬 322 • 2d ago • [WIRED](https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/)
 
 ---
 
 **[How We Broke Top AI Agent Benchmarks: And What Comes Next](https://news.ycombinator.com/item?id=47733217)**
 
-⬆️ 417 • 💬 104 • 18h ago • [rdi.berkeley.edu](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/)
+⬆️ 437 • 💬 108 • 19h ago • [rdi.berkeley.edu](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/)
 
 ---
 
@@ -225,9 +221,11 @@ Instant 1.0 is out! This essay shows a bunch of demos, to explain why we think I
 
 ---
 
-**[Study found that young adults have grown less hopeful and more angry about AI](https://news.ycombinator.com/item?id=47704443)**
+**[AI Will Be Met with Violence, and Nothing Good Will Come of It](https://news.ycombinator.com/item?id=47737563)**
 
-⬆️ 140 • 💬 184 • 2d ago • [nytimes.com](https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html)
+It has started
+
+⬆️ 187 • 💬 303 • 5h ago • [thealgorithmicbridge.com](https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and)
 
 ---
 
@@ -236,14 +234,6 @@ Instant 1.0 is out! This essay shows a bunch of demos, to explain why we think I
 Reports say Fed chair Jerome Powell among attenders at meeting in Washington
 
 ⬆️ 106 • 💬 94 • 2d ago • [the Guardian](https://www.theguardian.com/technology/2026/apr/10/us-summoned-bank-bosses-to-discuss-cyber-risks-posed-by-anthropic-latest-ai-model)
-
----
-
-**[AI Will Be Met with Violence, and Nothing Good Will Come of It](https://news.ycombinator.com/item?id=47737563)**
-
-It has started
-
-⬆️ 91 • 💬 139 • 4h ago • [thealgorithmicbridge.com](https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and)
 
 ---
 
@@ -259,7 +249,7 @@ Bixonimania doesn’t exist except in a clutch of obviously bogus academic paper
 
 "Slopaganda" is too weak a term to capture how powerful this "highly sophisticated" content is, one expert says.
 
-⬆️ 79 • 💬 67 • 11h ago • [bbc.com](https://www.bbc.com/news/articles/cjd8jrd1vnyo)
+⬆️ 86 • 💬 69 • 12h ago • [bbc.com](https://www.bbc.com/news/articles/cjd8jrd1vnyo)
 
 ---
 
@@ -267,7 +257,15 @@ Bixonimania doesn’t exist except in a clutch of obviously bogus academic paper
 
 YC-backed autonomous coding agent platform. Twill ships PRs in sandboxed environments, and pings you when it needs your input. Integrates with GitHub, Slack, Linear, and more.
 
-⬆️ 76 • 💬 83 • 1d ago • [Twill](https://twill.ai)
+⬆️ 77 • 💬 86 • 1d ago • [Twill](https://twill.ai)
+
+---
+
+**[US defense official overseeing AI reaped millions selling xAI stock](https://news.ycombinator.com/item?id=47709197)**
+
+Expert said federal law bars officials from taking actions in their jobs that benefit their own financial interests
+
+⬆️ 58 • 💬 11 • 2d ago • [the Guardian](https://www.theguardian.com/us-news/2026/apr/09/pentagon-ai-xai-emil-michael)
 
 ---
 
@@ -281,7 +279,7 @@ Access EVERY AI Video Model on Higgsfield https://higgsfield.ai?fpr=ai&fp_sid=is
 
 📺 Isa does AI
 
-👁️ 3K • 💬 2 • ⏱️ 11:13 • 2h ago
+👁️ 3K • 💬 2 • ⏱️ 11:13 • 3h ago
 
 ---
 
@@ -301,7 +299,7 @@ Really American host Steve Harness breaks down how countries across the world ar
 
 📺 Really American
 
-👁️ 410K • 👍 23K • 💬 2K • ⏱️ 11:59 • 19h ago
+👁️ 410K • 👍 23K • 💬 2K • ⏱️ 11:59 • 20h ago
 
 ---
 
@@ -311,7 +309,7 @@ Here's the AI News you probably missed this week (and some you definitely didn't
 
 📺 Matt Wolfe
 
-👁️ 81K • 👍 3K • 💬 341 • ⏱️ 35:50 • 1d ago
+👁️ 81K • 👍 3K • 💬 341 • ⏱️ 35:50 • 2d ago
 
 ---
 
@@ -361,7 +359,7 @@ Try Seedance 2.0 with Claude on Higgsfield: https://higgsfield.ai/s/seedance-2-0
 
 📺 AI Revolution
 
-👁️ 43K • 👍 860 • 💬 116 • ⏱️ 14:57 • 14h ago
+👁️ 43K • 👍 860 • 💬 116 • ⏱️ 14:57 • 15h ago
 
 ---
 
@@ -387,7 +385,7 @@ GLM-5.1 is a next-generation language model optimized for agentic engineering, f
 
 `text-generation` `753.9B`
 
-⬇️ 28,826 • ❤️ 1,021 • 10h ago
+⬇️ 28,826 • ❤️ 1,021 • 11h ago
 
 ---
 
@@ -447,7 +445,7 @@ MiniMax-M2.7 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 873 • ❤️ 345 • 13h ago
+⬇️ 873 • ❤️ 345 • 14h ago
 
 ---
 
@@ -639,7 +637,7 @@ The highest-scoring AI memory system ever benchmarked. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 42.6k • 🔱 5.4k • 5h ago
+⭐ 42.6k • 🔱 5.4k • 6h ago
 
 ---
 
@@ -649,7 +647,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 31.3k • 🔱 6.1k • 1h ago
+⭐ 31.3k • 🔱 6.1k • 2h ago
 
 ---
 
@@ -659,7 +657,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Ope
 
 `Python` `claude-code` `codex` `graphrag` `knowledge-graph` `openclaw`
 
-⭐ 22.9k • 🔱 2.4k • 2h ago
+⭐ 22.9k • 🔱 2.4k • 3h ago
 
 ---
 
@@ -669,7 +667,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Ope
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 20.1k • 🔱 929 • 15h ago
+⭐ 20.1k • 🔱 929 • 16h ago
 
 ---
 
@@ -679,7 +677,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `JavaScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 15.2k • 🔱 1.5k • 4h ago
+⭐ 15.2k • 🔱 1.5k • 5h ago
 
 ---
 
@@ -699,7 +697,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 7.5k • 🔱 466 • 2h ago
+⭐ 7.5k • 🔱 466 • 3h ago
 
 ---
 
