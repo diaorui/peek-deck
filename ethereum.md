@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-12T17:35:54.684530+00:00'
+updated: '2026-04-12T18:52:48.875996+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
-- videos
 - news
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 12, 2026 at 17:35 UTC  
+**Last Updated:** April 12, 2026 at 18:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,185.95
+### $2,200.87
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.3%  
-**7d:** +3.7%  
-**30d:** +4.2%  
-**90d:** -34.2%  
-**1y:** +36.7%  
+**24h:** -4.7%  
+**7d:** +4.7%  
+**30d:** +5.1%  
+**90d:** -33.6%  
+**1y:** +38.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $263.88B
+**Market Cap:** $265.69B
 Rank #2
 
 **Circulating Supply:** 120,691,054 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--55.8%
+-55.5%
 
 **All-Time Low:** $0.43
-+504864.4%
++508368.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 **Welcome to the Daily General Discussion on** r/ethereum [https://imgur.com/3y7vezP\](https://imgur.com/3y7vezP) Bookmarking this link will always bring you to the current daily: [https://old.reddit.com/r/ethereum/about/sticky/?num=2\](https://old.reddit.com/r/ethereum/about/sticky/?num=2) Please use this thread to discuss Ethereum topics, news, events, and even *price*! Price discussion posted elsewhere in the subreddit will **continue to be removed.** As always, be constructive. - [Subreddit Rules](https://www.reddit.com/r/ethereum/about/rules/) Want to stake? Learn more at r/ethstaker **Community Links** * [Ethereum Jobs](https://ethereum.org/en/community/get-involved/#ethereum-jobs), [Twitter](https://x.com/ethereum) * [EVMavericks YouTube](https://www.youtube.com/@evmavericks), [Discord](https://discord.gg/evmavericks), [Doots Podcast](https://evmavericks.libsyn.com/) * [Doots Website](https://dailydoots.com/), Old Reddit [Doots Extension](https://github.com/etheralpha/ethfinance-extension) by u/hanniabu Calendar: [https://dailydoots.com/events/\](https://dailydoots.com/events/)
 
-12h ago
+13h ago
 
 ---
 
@@ -80,13 +80,19 @@ No max supply
 
 I permanently lost $2,000 USD value trying to stake via direct contract interaction on Aerodrome. The CLGauge contract accepts safeTransferFrom via the onERC721Received hook but silently fails to update the staking state, creating a black hole for assets. I’m sharing this to warn other developers and integrators building on top of Aerodrome (Base chain), and hopefully get the attention of the Core Team or the Emergency Council, since standard Discord support just gave me the "contracts are immutable" playbook. Recently, I performed a safeTransferFrom (as a fallback to approve and deposit) directly to the Aerodrome Gauge (0x83e2E9493996651ed63033d81f5052cBE2fEB6A1). The transaction was mathematically and technically successful on-chain because the Gauge contract explicitly implements the IERC721Receiver interface. However, this is where the integration trap lies: While the contract gladly accepted physical custody of my NFT position, it completely failed to trigger the internal logic to update the _stakes mapping and the rewardGrowth snapshots. The Reality: By exposing the receiver hook without the corresponding push-based deposit logic, Aerodrome's contract signals false compatibility. It creates a critical state mismatch: the Gauge owns the NFT, but my wallet is no longer recognized as the owner, meaning I can neither call deposit() nor withdraw(). Has any other developer encountered this problem?
 
-45m ago
+2h ago
+
+---
+
+**[World Liberty Financial borrowed its own stablecoin against its own token on a platform run by its own advisor and Justin Sun (WLFI biggest investor) just called it fraud.](https://www.reddit.com/r/ethereum/comments/1sjkjuc/world_liberty_financial_borrowed_its_own/)**
+
+1h ago
 
 ---
 
 **[Is the "Crypto Purge" at Twitter simply an algorithm glitch—or a massive Conflict of Interest?](https://www.reddit.com/r/ethereum/comments/1sjf56t/is_the_crypto_purge_at_twitter_simply_an/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -138,14 +144,6 @@ World Liberty Financial deposited 3B WLFI tokens as collateral to borrow $50M of
 
 ---
 
-**[Daily General Discussion April 08, 2026](https://www.reddit.com/r/ethereum/comments/1sfjgae/daily_general_discussion_april_08_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-4d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -154,7 +152,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The Ether Machine terminates its SPAC merger with Dynamix, citing unfavorable market conditions amid ETH's sharp decline from its 2025 highs.
 
-BeInCrypto • 22h ago
+BeInCrypto • 23h ago
 
 ---
 
@@ -162,7 +160,7 @@ BeInCrypto • 22h ago
 
 @Etherdude 1166 Views|1 Like
 
-Moomoo • 3h ago
+Moomoo • 4h ago
 
 ---
 
@@ -178,29 +176,19 @@ Yahoo Finance • 2d ago
 
 Ethereum price has risen in the past few days, helped by the ongoing exchange-traded funds (ETF) inflows and the recently announced US-Iran ceasefire. ETH token was trading at $2,220 on Sunday, up by 30% from its lowest level this year.Ethereum price is sending mixed signals The three-day chart sho…
 
-TradingView — Track All Markets • 10h ago
+TradingView — Track All Markets • 12h ago
 
 ---
 
-**[Is Ethereum truly undervalued? Strong on-chain growth says yes, but…](https://ambcrypto.com/is-ethereum-truly-undervalued-strong-on-chain-growth-says-yes-but/)**
+**[Weekly recap of Bitcoin, Ethereum, Solana, and XRP ETF performance](https://ambcrypto.com/weekly-recap-of-bitcoin-ethereum-solana-and-xrp-etf-performance/)**
 
-AMBCrypto • 2h ago
-
----
-
-**[Ethereum struggles amid US-Iran tensions, April price targets in doubt](https://cryptobriefing.com/ethereum-struggles-amid-us-iran-tensions-april-price-targets-in-doubt/)**
-
-Ethereum is currently 55% below its all-time high as U.S.-Iran tensions escalate. The likelihood of Ethereum exceeding key April price targets has dropped, with
-
-Crypto Briefing • 12h ago
+AMBCrypto • 7h ago
 
 ---
 
-**[Why is Crypto Rallying Today: Price Targets For Bitcoin, Ethereum and XRP](https://coinpedia.org/news/why-is-crypto-rallying-price-targets-for-bitcoin-ethereum-and-xrp/)**
+**[Most large cryptocurrencies fall as Ethereum tumbles](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-as-ethereum-tumbles-91a2f421-9307bc266dcb)**
 
-The crypto market has rebounded, with Bitcoin rising 10% over the last eight days and Ethereum up 12% in the same period. The total market cap is now up
-
-Coinpedia • 2d ago
+MarketWatch • 3d ago
 
 ---
 
@@ -212,17 +200,25 @@ Seeking Alpha • 2d ago
 
 ---
 
-**[Ethereum or Solana: Ethereum (ETH), Solana (SOL), and Pepeto, Which One Should You Buy During the Dip in 2026](https://financefeeds.com/ethereum-or-solana-ethereum-eth-solana-sol-and-pepeto-which-one-should-you-buy-during-the-dip-in-2026/)**
+**[Ethereum struggles amid US-Iran tensions, April price targets in doubt](https://cryptobriefing.com/ethereum-struggles-amid-us-iran-tensions-april-price-targets-in-doubt/)**
 
-FinanceFeeds • 11h ago
+Ethereum is currently 55% below its all-time high as U.S.-Iran tensions escalate. The likelihood of Ethereum exceeding key April price targets has dropped, with
+
+Crypto Briefing • 13h ago
 
 ---
 
-**[Ethereum Price Forecast: Increased derivatives demand spurred ETH's rise after US-Iran ceasefire](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-increased-derivatives-demand-spurred-eths-rise-after-us-iran-ceasefire-202604110553)**
+**[Why is Crypto Rallying Today: Price Targets For Bitcoin, Ethereum and XRP](https://coinpedia.org/news/why-is-crypto-rallying-price-targets-for-bitcoin-ethereum-and-xrp/)**
 
-Ethereum (ETH) saw major improvements across key onchain metrics after the US-Iran ceasefire announcement on Tuesday, according to a CryptoQuant analysis. The top altcoin rose by 6% within 24 hours following the move, its largest single-day gain in more than a month.
+The crypto market has rebounded, with Bitcoin rising 10% over the last eight days and Ethereum up 12% in the same period. The total market cap is now up
 
-FXStreet • 1d ago
+Coinpedia • 2d ago
+
+---
+
+**[Ethereum or Solana: Ethereum (ETH), Solana (SOL), and Pepeto, Which One Should You Buy During the Dip in 2026](https://financefeeds.com/ethereum-or-solana-ethereum-eth-solana-sol-and-pepeto-which-one-should-you-buy-during-the-dip-in-2026/)**
+
+FinanceFeeds • 12h ago
 
 ---
 
@@ -236,7 +232,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 690 • 👍 62 • 💬 105 • ⏱️ 10:57 • 4h ago
+👁️ 1K • 👍 90 • 💬 108 • ⏱️ 10:57 • 5h ago
 
 ---
 
@@ -246,7 +242,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 22K • 👍 672 • 💬 95 • ⏱️ 19:27 • 1d ago
+👁️ 23K • 👍 684 • 💬 161 • ⏱️ 19:27 • 1d ago
+
+---
+
+**[Ethereum Launches War-Proof Browser To Kill Chrome?🌐Freedom Browser INTERVIEW](https://www.youtube.com/watch?v=MkVhdstQvmE)**
+
+Freedom is a minimalist browser for Swarm and IPFS. No centralized gateways. You connect directly to peers and become part of ...
+
+📺 Paul Barron Network
+
+👁️ 7K • 👍 687 • 💬 86 • ⏱️ 18:02 • 2h ago
 
 ---
 
@@ -256,37 +262,7 @@ Ethereum has completed a five wave move up from the March lows – a critical El
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 175 • 💬 18 • ⏱️ 9:19 • 16h ago
-
----
-
-**[CRYPTO LIVE TRADING || 12 APRIL  | ‪@ClockTraderlive‬ #bitcoin #ethereum #crypto #btclivetrading](https://www.youtube.com/watch?v=aZ9_TTFf_JY)**
-
-join my social platforms for updates and analysis ✓Instagram: ...
-
-📺 Aryan trader Live
-
-👁️ 3K • 👍 4K • 2h ago
-
----
-
-**[BITCOIN PRICE SQUEEZE: Final Warning (Urgent)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=OruVCDpa6DY)**
-
-BITCOIN PRICE SQUEEZE: Final Warning (Urgent)!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
-
-📺 Crypto World
-
-👁️ 8K • 👍 308 • 💬 266 • ⏱️ 22:15 • 18h ago
-
----
-
-**[CRUCIAL ETHEREUM UPDATE🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=oi3hmciShIc)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 156 • 👍 9 • 💬 3 • ⏱️ 4:41 • 8h ago
+👁️ 3K • 👍 181 • 💬 19 • ⏱️ 9:19 • 17h ago
 
 ---
 
@@ -296,27 +272,17 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 171 • 👍 33 • ⏱️ 5:19 • 2h ago
+👁️ 528 • 👍 75 • ⏱️ 5:19 • 3h ago
 
 ---
 
-**[CLARITY Rally in 3 Days?📈Crypto Technical Analysis @TimWarrenTrades](https://www.youtube.com/watch?v=96h2EGSZvEk)**
+**[CRUCIAL ETHEREUM UPDATE🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=oi3hmciShIc)**
 
-Coinbase Global (NASDAQ: $COIN) CEO Brian Armstrong is calling for the passage in Congress of the U.S. Clarity Act.
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 Paul Barron Network
+📺 Cilinix Crypto
 
-👁️ 55K • 👍 3K • 💬 213 • ⏱️ 33:50 • 1d ago
-
----
-
-**[Live Market Analysis BTC-ETH-Gold(XAUT) With FinLAB](https://www.youtube.com/watch?v=7kSsaYMXb9s)**
-
-Phone number : 8638229734 , 6000311798 To Trade with me Together Open Account here AND Get Rs.10000/- Credits ...
-
-📺 FinLAB
-
-👁️ 126 • 👍 955 • 1h ago
+👁️ 213 • 👍 10 • 💬 3 • ⏱️ 4:41 • 9h ago
 
 ---
 
@@ -326,7 +292,37 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 211 • 💬 27 • ⏱️ 15:02 • 1d ago
+👁️ 5K • 👍 221 • 💬 27 • ⏱️ 15:02 • 1d ago
+
+---
+
+**[BITCOIN PRICE SQUEEZE: Final Warning (Urgent)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=OruVCDpa6DY)**
+
+BITCOIN PRICE SQUEEZE: Final Warning (Urgent)!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
+
+📺 Crypto World
+
+👁️ 9K • 👍 317 • 💬 419 • ⏱️ 22:15 • 20h ago
+
+---
+
+**[BMNR Stock Next Week&#39;s Price Analysis | Detailed Analysis with Ethereum Price Action](https://www.youtube.com/watch?v=1bVsQuJ-zvg)**
+
+BMNR Next Week Price Action Forecast | Detailed Analysis with Ethereum Price Action A company on the NYSE quietly ...
+
+📺 Smart Stock Sam
+
+👁️ 99 • 👍 10 • 💬 4 • ⏱️ 14:47 • 2h ago
+
+---
+
+**[CLARITY Rally in 3 Days?📈Crypto Technical Analysis @TimWarrenTrades](https://www.youtube.com/watch?v=96h2EGSZvEk)**
+
+Coinbase Global (NASDAQ: $COIN) CEO Brian Armstrong is calling for the passage in Congress of the U.S. Clarity Act.
+
+📺 Paul Barron Network
+
+👁️ 56K • 👍 3K • 💬 214 • ⏱️ 33:50 • 2d ago
 
 ---
 

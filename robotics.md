@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-12T17:35:54.687736+00:00'
+updated: '2026-04-12T18:52:48.878959+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 12, 2026 at 17:35 UTC  
+**Last Updated:** April 12, 2026 at 18:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Somewhere in Poland](https://www.reddit.com/r/robotics/comments/1sjhnd1/somewhere_in_poland/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Hi everyone! I've been developing the LS3 BostonDynamics Mini quadruped for a while now. The goal was to create a modular, 3D-printable frame that can carry a Raspberry Pi. It’s still a work in progress, but the mechanical assembly is finally done! I'm happy to discuss the kinematics or electronics if anyone is interested!
 
-9h ago
+10h ago
 
 ---
 
@@ -50,7 +50,15 @@ Hi everyone! I've been developing the LS3 BostonDynamics Mini quadruped for a wh
 
 Technical blog post with multiple videos: https://generalistai.com/blog/apr-02-2026-GEN-1
 
-7h ago
+8h ago
+
+---
+
+**[I've finally built the Bimo Robotics Kit v1.0, an open-source bipedal robotics platform.](https://www.reddit.com/r/robotics/comments/1sjhufo/ive_finally_built_the_bimo_robotics_kit_v10_an/)**
+
+After more than two years of solo development, I'm releasing v1.0 of the Bimo Robotics Kit. Bimo is an open-source bipedal robotics platform designed as a complete research and education kit. The core value is the full sim-to-real pipeline: you train RL locomotion models in Isaac Lab and deploy directly on the physical hardware. The v1.0 release includes: - Startup guide (zero to walking in one session) - Full MCU code for the onboard microcontroller. - Main controller board overview and pinout. - Updated Bimo API for hardware control. - Improved Isaac Lab task code for more stable sim-to-real transfer. - Pre-trained stable walking model. Turning and push recovery models are next on the Isaac Lab environment roadmap. The platform ships with a walking model as a baseline you can extend, which is kind of the point for a research kit. Check out all the details here: - Github: https://github.com/mekion/the-bimo-project - Discord: https://discord.gg/9uXsArwXHG - Mekion: https://www.mekion.com/product/ Happy to answer questions about the Isaac Lab integration, the hardware design decisions, or what it's like building this as a solo founder. Let me know what you think about the project.
+
+3h ago
 
 ---
 
@@ -60,11 +68,11 @@ Technical blog post with multiple videos: https://generalistai.com/blog/apr-02-2
 
 ---
 
-**[I've finally built the Bimo Robotics Kit v1.0, an open-source bipedal robotics platform.](https://www.reddit.com/r/robotics/comments/1sjhufo/ive_finally_built_the_bimo_robotics_kit_v10_an/)**
+**[Has anyone else pivoted from robotics to physics simulation development? Currently on the fence.](https://www.reddit.com/r/robotics/comments/1sjexfr/has_anyone_else_pivoted_from_robotics_to_physics/)**
 
-After more than two years of solo development, I'm releasing v1.0 of the Bimo Robotics Kit. Bimo is an open-source bipedal robotics platform designed as a complete research and education kit. The core value is the full sim-to-real pipeline: you train RL locomotion models in Isaac Lab and deploy directly on the physical hardware. The v1.0 release includes: - Startup guide (zero to walking in one session) - Full MCU code for the onboard microcontroller. - Main controller board overview and pinout. - Updated Bimo API for hardware control. - Improved Isaac Lab task code for more stable sim-to-real transfer. - Pre-trained stable walking model. Turning and push recovery models are next on the Isaac Lab environment roadmap. The platform ships with a walking model as a baseline you can extend, which is kind of the point for a research kit. Check out all the details here: - Github: https://github.com/mekion/the-bimo-project - Discord: https://discord.gg/9uXsArwXHG - Mekion: https://www.mekion.com/product/ Happy to answer questions about the Isaac Lab integration, the hardware design decisions, or what it's like building this as a solo founder. Let me know what you think about the project.
+This is more of a rant for me to verbalize my thoughts. Feel free to add your input, especially if you have been in my shoes before! I am a robotics engineer specialising in controls, but more or less doing a bit of everything, from computer vision, planning and controls to CAD. From the time I was still a student, I was always fascinated by both control theory and physics simulations, and I was always on the fence with choosing one or the other as a career path. In the end, I chose robotics as my job for the last 2 years. As of late, I am having second thoughts about my career choice. Here are some of the reasons that lead me to leave robotics. Both of the companies I have worked for were very startup minded, forcing me to work long hours either directly (deadlines) or indirectly (so that I can learn and become competitive). I am scared this is the case with most robotics companies in my immediate area. I am not really into hardware-focused jobs. Both of the robotics roles I have worked in had lots of travel during deployments, and it's a huge stress for me every time because lots of things can and do go wrong. I do not feel content when I solve a problem that has been puzzling me for days/weeks. Instead I am just stressed about the next one. The more I use ROS, the more I grow tired of it. Whereas, whenever I work on plain C++ CMake projects I get a sigh of relief. I understand that a lot packages and their inter communication make my life much much easier (eg. ros2_control, moveit2, etc), but the inertia I feel when using ROS has never gone completely away. It is a skill issue, I know, but I do not feel as motivated to get better at it compared to other skills I have learned. Now, I realize robotics is a field that will experience more booms in the next years, so leaving it even temporarily seems like a bad move on my part. Having said that, here are the reasons I am considering simulation software development as a job. My undergrad thesis was a real time fluid simulator. This was my first experience working in a bigger simulation project, and I fell in love with it. I grew as a software engineer immensely, and I was exposed to a large variety of papers and algorithms on numerical methods and the current state of the art. No field has ever given me as much satisfaction and a need to "git gud" as writing physics sim codes. Robotics has never given me the same feeling. The math behind physics sims is really interesting to me. Like I can talk for hours why I like certain families of numerical methods over others, and finding a new shiny paper about a method and testing it through code is a borderline past time activity to me. I love writing C++. It is my favourite language by far, beside its pain points, and I really enjoy using it for high performance applications. I find pure software projects freeing, as everything I need is in my computer. I don't need to plan my free time and schedule around travels, and don't have to worry about drivers, closed source hardware, talking to suppliers etc. I find that a lot of the stuff I have learned in robotics transfers over to simulation software development. 3D math, discrete math, GPU acceleration, C++, data visualization etc. In my mind, If I could pivot to writing code for, say, robotics gyms, CAD finite element codes, CFD solvers etc, I would be a happy camper. Taking the time to write this post makes me all the more motivated to make the switch. I am curious if there are any like minded roboticists here sharing my thoughts!
 
-1h ago
+5h ago
 
 ---
 
@@ -72,15 +80,7 @@ After more than two years of solo development, I'm releasing v1.0 of the Bimo Ro
 
 I know we usually only post our own projects here, but i was procrastinating on my own codebase today and went down a rabbit hole looking at github repos from some 48h REDHackathon happening in shanghai right now (hosted by rednote I think? today is their demo day). tbh i mostly expected to see a bunch of hastily duct-taped openai wrappers and weekend spaghetti code. clicked on one of the hardware submissions called Mira. at first glance the picture just looks like a cute 3d-printed pixar lamp. I figured it was just a physical shell with a basic python script piping some face tracking coordinates directly to a couple servos. but looking at the actual code... the system architecture is surprisingly hardcore. They didnt just hardcode reactions. they built a full embodied interaction system. the pipeline goes from single camera input -> vision event extraction -> scene selection -> local bridge / safety layer -> ESP32 firmware. Instead of raw tracking they built a scene-based motion choreography abstraction. it interprets visual data into states like 'curious_observe', 'cute_probe', and 'standup_reminder'. The esp32 firmware isnt a toy either... it has a custom binary serial protocol, touch thresholds, and ack/err handling. they even built offline rehearsal scripts, fault injection, and a web director console so they could test the logic without the physical hardware glitching out on stage. Most ai right now just sits in a chat window waiting for a prompt. this thing is trying to actually notice your presence in a physical space and respond with body language and light rhythms before you even say a word. idk, seeing hardware prototypes with this level of release-oriented engineering come out of a 48h builder camp makes me feel pretty lazy today lol. its just a stark reminder that the next phase of ai probably isnt going to be on a screen, but actually sitting on our desks observing us. anyway just thought id share something cool that isnt another b2b saas wrapper. repo if anyone wants to look at the c++ / esp32 logic (not mine obviously): github.com/JunkaiWang-TheoPhy/Mira-Light-AI-That-Sees-You
 
-8h ago
-
----
-
-**[Has anyone else pivoted from robotics to physics simulation development? Currently on the fence.](https://www.reddit.com/r/robotics/comments/1sjexfr/has_anyone_else_pivoted_from_robotics_to_physics/)**
-
-This is more of a rant for me to verbalize my thoughts. Feel free to add your input, especially if you have been in my shoes before! I am a robotics engineer specialising in controls, but more or less doing a bit of everything, from computer vision, planning and controls to CAD. From the time I was still a student, I was always fascinated by both control theory and physics simulations, and I was always on the fence with choosing one or the other as a career path. In the end, I chose robotics as my job for the last 2 years. As of late, I am having second thoughts about my career choice. Here are some of the reasons that lead me to leave robotics. Both of the companies I have worked for were very startup minded, forcing me to work long hours either directly (deadlines) or indirectly (so that I can learn and become competitive). I am scared this is the case with most robotics companies in my immediate area. I am not really into hardware-focused jobs. Both of the robotics roles I have worked in had lots of travel during deployments, and it's a huge stress for me every time because lots of things can and do go wrong. I do not feel content when I solve a problem that has been puzzling me for days/weeks. Instead I am just stressed about the next one. The more I use ROS, the more I grow tired of it. Whereas, whenever I work on plain C++ CMake projects I get a sigh of relief. I understand that a lot packages and their inter communication make my life much much easier (eg. ros2_control, moveit2, etc), but the inertia I feel when using ROS has never gone completely away. It is a skill issue, I know, but I do not feel as motivated to get better at it compared to other skills I have learned. Now, I realize robotics is a field that will experience more booms in the next years, so leaving it even temporarily seems like a bad move on my part. Having said that, here are the reasons I am considering simulation software development as a job. My undergrad thesis was a real time fluid simulator. This was my first experience working in a bigger simulation project, and I fell in love with it. I grew as a software engineer immensely, and I was exposed to a large variety of papers and algorithms on numerical methods and the current state of the art. No field has ever given me as much satisfaction and a need to "git gud" as writing physics sim codes. Robotics has never given me the same feeling. The math behind physics sims is really interesting to me. Like I can talk for hours why I like certain families of numerical methods over others, and finding a new shiny paper about a method and testing it through code is a borderline past time activity to me. I love writing C++. It is my favourite language by far, beside its pain points, and I really enjoy using it for high performance applications. I find pure software projects freeing, as everything I need is in my computer. I don't need to plan my free time and schedule around travels, and don't have to worry about drivers, closed source hardware, talking to suppliers etc. I find that a lot of the stuff I have learned in robotics transfers over to simulation software development. 3D math, discrete math, GPU acceleration, C++, data visualization etc. In my mind, If I could pivot to writing code for, say, robotics gyms, CAD finite element codes, CFD solvers etc, I would be a happy camper. Taking the time to write this post makes me all the more motivated to make the switch. I am curious if there are any like minded roboticists here sharing my thoughts!
-
-3h ago
+9h ago
 
 ---
 
@@ -88,7 +88,13 @@ This is more of a rant for me to verbalize my thoughts. Feel free to add your in
 
 PNP Robotics: Haptic Teleoperation for data collection. At the Embodied AI Conference, we’re excited to showcase our integration of the Haply Inverse3 haptic joystick with Franka robots, enabling real-time pose control and immersive haptic feedback for intuitive teleoperation. EmbodiedAI #HapticTeleoperation #Franka #Haply #Robotics #Teleoperation
 
-12h ago
+13h ago
+
+---
+
+**[massive robotic hand that produce up to11000 pound force.](https://www.reddit.com/r/robotics/comments/1sjmxyz/massive_robotic_hand_that_produce_up_to11000/)**
+
+3m ago
 
 ---
 
@@ -97,14 +103,6 @@ PNP Robotics: Haptic Teleoperation for data collection. At the Embodied AI Confe
 From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2042912788717408509
 
 1d ago
-
----
-
-**[ROS 2 Pan Tilt Camera](https://www.reddit.com/r/robotics/comments/1sjgxh4/ros_2_pan_tilt_camera/)**
-
-Recently I was spending time building my ROS 2 robots and one functionality I always wanted was Pan Tilt camera, so I built it 🚀 I designed motor housing with CAD, and used micro-ros to control MCU. Lastly I made simple PID object follower using high speed, low latency Isaac ROS object detection running on Robot’s Jetson.
-
-🔗 [youtu.be](https://youtu.be/CmBWlHjohjg) • 2h ago
 
 ---
 
@@ -120,11 +118,11 @@ The University of Texas at Austin • 3d ago
 
 ---
 
-**[CEO Andy Jassy shares 3 ways Amazon is innovating to make customers’ lives easier and better](https://www.aboutamazon.com/news/innovation-at-amazon/amazon-ceo-andy-jassy-robotics-rural-delivery-broadband)**
+**[Hidden in plain sight: Robots reveal ‘shipwreck city’ below the surface of a Washington lake](https://www.10tv.com/article/news/nation-world/robotics-underwater-detection-shipwrecks-sonar-survey-remote-operated-vehicle-washington-lake-union/507-d5e09930-31c1-491f-8c8b-01f9fcbba5b8)**
 
-In his annual letter to shareholders, Jassy shares how robotics, faster rural delivery, and broadband connectivity for underserved customers and geographies will help improve the customer experience.
+'Shipwreck city': A high-tech survey has found dozens of possible wrecks in Washington state, with robotics capturing images in areas too dangerous for divers.
 
-About Amazon • 2d ago
+10TV • 31m ago
 
 ---
 
@@ -132,7 +130,23 @@ About Amazon • 2d ago
 
 40 teams battled during the two-day district qualifiers at Escanaba High School.
 
-Upper Michigan's Source • 20h ago
+Upper Michigan's Source • 21h ago
+
+---
+
+**[Unitree’s H1 robot hits 10 m/s sprint speed, getting close to Usain Bolt’s 100m world record](https://www.globaltimes.cn/page/202604/1358712.shtml)**
+
+Chinese robotics startup Unitree Robotics released a video on Saturday showing its H1 robot reached a sprint speed of up to 10 meters per second, noting that the humanoid robot broke the world record again.
+
+Global Times • 8h ago
+
+---
+
+**[CEO Andy Jassy shares 3 ways Amazon is innovating to make customers’ lives easier and better](https://www.aboutamazon.com/news/innovation-at-amazon/amazon-ceo-andy-jassy-robotics-rural-delivery-broadband)**
+
+In his annual letter to shareholders, Jassy shares how robotics, faster rural delivery, and broadband connectivity for underserved customers and geographies will help improve the customer experience.
+
+About Amazon • 2d ago
 
 ---
 
@@ -148,7 +162,7 @@ The Washington Post • 2d ago
 
 <p>PLAINS TWP. — It was a celebration of robotics on Saturday as regional schools gathered at Wilkes-Barre Area High School for Wolfpack Robotics’ second Robo Rally.</p>
 
-Times Leader • 17h ago
+Times Leader • 18h ago
 
 ---
 
@@ -160,25 +174,9 @@ NBC News • 2d ago
 
 ---
 
-**[Humanoid robots hit mass production in China](https://www.foxnews.com/tech/humanoid-robots-hit-mass-production-china)**
-
-A Chinese factory is producing humanoid robots every 30 minutes, marking a shift toward large-scale manufacturing and broader adoption.
-
-Fox News • 3d ago
-
----
-
 **[Electrofluidic fiber muscles could enable silent robotic systems](https://techxplore.com/news/2026-04-electrofluidic-fiber-muscles-enable-silent.html)**
 
-Tech Xplore • 2d ago
-
----
-
-**[Robotic birds mimic mating to help bring back vanishing grouse](https://interestingengineering.com/ai-robotics/robotic-sage-grouse-conservation)**
-
-Robotic bird decoys mimic mating rituals to help restore declining sage grouse populations in US national parks.
-
-Interesting Engineering • 1d ago
+Tech Xplore • 3d ago
 
 ---
 
@@ -198,7 +196,7 @@ Try Seedance 2.0 with Claude on Higgsfield: https://higgsfield.ai/s/seedance-2-0
 
 📺 AI Revolution
 
-👁️ 46K • 👍 926 • 💬 124 • ⏱️ 14:57 • 18h ago
+👁️ 50K • 👍 973 • 💬 146 • ⏱️ 14:57 • 19h ago
 
 ---
 
@@ -208,17 +206,7 @@ Go to https://www.artwine.com to get your limited bottle of Ukrainian sparkling 
 
 📺 Paul Warburg
 
-👁️ 135K • 👍 14K • 💬 965 • ⏱️ 31:17 • 13h ago
-
----
-
-**[AI agent in a robot does exactly what experts warned](https://www.youtube.com/watch?v=woTy4dTiT20)**
-
-Could AI become dangerous? Can we trust AI Agents? AGI. Use code insideai at https://incogni.com/insideai to get an exclusive ...
-
-📺 InsideAI
-
-👁️ 487K • 👍 19K • 💬 2K • ⏱️ 16:24 • 3d ago
+👁️ 153K • 👍 15K • 💬 1K • ⏱️ 31:17 • 15h ago
 
 ---
 
@@ -228,37 +216,7 @@ Humanoid robots are being used for some manual tasks at the Schaeffler auto part
 
 📺 NBC News
 
-👁️ 94K • 👍 1K • 💬 670 • ⏱️ 4:56 • 2d ago
-
----
-
-**[Toyota unveils AI basketball robot CUE7](https://www.youtube.com/watch?v=Nm3fEub7U4w)**
-
-Toyota Motor Corp. showcased its latest AI-powered basketball robot, CUE7, showcasing advances in AI robotics. The robot will ...
-
-📺 Al Jazeera English
-
-👁️ 7K • 👍 134 • 💬 16 • ⏱️ 0:42 • 5h ago
-
----
-
-**[Disney&#39;s New Olaf Robot Isn&#39;t What You Think](https://www.youtube.com/watch?v=VvXhpnvjVGE)**
-
-Everyone is getting 7 things wrong about Disney's new Olaf animatronic. I asked Imagineering how the free roaming Olaf works, ...
-
-📺 Guide2WDW
-
-👁️ 31K • 👍 832 • 💬 92 • ⏱️ 19:30 • 2d ago
-
----
-
-**[Why the Lymow One Plus is the Best Robot Mower Not Sponsored](https://www.youtube.com/watch?v=TCBaaSISul8)**
-
-Lymow → https://lymowtradecolimited.pxf.io/OYr2VG The Lymow One Plus isn't your average robot mower. Instead of those tiny, ...
-
-📺 How To with Doc
-
-👁️ 15K • 👍 899 • 💬 165 • ⏱️ 21:24 • 2d ago
+👁️ 100K • 👍 1K • 💬 711 • ⏱️ 4:56 • 2d ago
 
 ---
 
@@ -268,7 +226,37 @@ The world wasn't ready for what 2026 had in store — a wave of humanoid robots 
 
 📺 The AI Nexus
 
-👁️ 9K • 👍 274 • 💬 19 • ⏱️ 16:42 • 6d ago
+👁️ 9K • 👍 276 • 💬 19 • ⏱️ 16:42 • 6d ago
+
+---
+
+**[Why the Lymow One Plus is the Best Robot Mower Not Sponsored](https://www.youtube.com/watch?v=TCBaaSISul8)**
+
+Lymow → https://lymowtradecolimited.pxf.io/OYr2VG The Lymow One Plus isn't your average robot mower. Instead of those tiny, ...
+
+📺 How To with Doc
+
+👁️ 16K • 👍 917 • 💬 165 • ⏱️ 21:24 • 2d ago
+
+---
+
+**[Disney&#39;s New Olaf Robot Isn&#39;t What You Think](https://www.youtube.com/watch?v=VvXhpnvjVGE)**
+
+Everyone is getting 7 things wrong about Disney's new Olaf animatronic. I asked Imagineering how the free roaming Olaf works, ...
+
+📺 Guide2WDW
+
+👁️ 33K • 👍 856 • 💬 93 • ⏱️ 19:30 • 2d ago
+
+---
+
+**[Are AI soldiers about to take over the battlefield? | DW News](https://www.youtube.com/watch?v=q83LtZza5eA)**
+
+US startup Foundation is developing humanoid robots for military use. The goal is for its Phantom model to identify targets and ...
+
+📺 DW News
+
+👁️ 72K • 👍 552 • 💬 101 • ⏱️ 1:22 • 6d ago
 
 ---
 
@@ -276,17 +264,27 @@ The world wasn't ready for what 2026 had in store — a wave of humanoid robots 
 
 📺 Just the Bells 10
 
-👁️ 28K • 👍 1K • 💬 63 • ⏱️ 0:33 • 1d ago
+👁️ 28K • 👍 1K • 💬 64 • ⏱️ 0:33 • 1d ago
 
 ---
 
-**[10m/s!! Unitree Breaks the World Record Again😊](https://www.youtube.com/watch?v=zoMDadPQLKA)**
+**[The Fastest Robots I&#39;ve Seen in Person](https://www.youtube.com/watch?v=TEWUaD9BmNE)**
 
-With the physique of an ordinary person, running at a world champion's speed! Leg length: 0.4+0.4=0.8m, body weight: approx.
+I've been to CES (Las Vegas, Nevada), World Robot Conference (Beijing, China), and IREX (Tokyo, Japan). These are the fastest ...
 
-📺 Unitree Robotics
+📺 Automatic Addison
 
-👁️ 1.8M • 👍 1K • 💬 211 • ⏱️ 0:31 • 1d ago
+👁️ 1K • 👍 41 • 💬 8 • ⏱️ 1:38 • 6h ago
+
+---
+
+**[Unitree H1 Humanoid Robot Breaks Limits at 22.4 MPH](https://www.youtube.com/watch?v=sfcqAZcWoMo)**
+
+The Unitree H1 humanoid robot just reached an incredible 10 meters per second, which is about 22.4 miles per hour, putting it ...
+
+📺 DPCcars
+
+👁️ 48K • 👍 224 • 💬 96 • ⏱️ 1:24 • 1d ago
 
 ---
 
