@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-04-12T05:25:05.075109+00:00"
+          "dateModified": "2026-04-12T06:53:19.223531+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -647,41 +647,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1sj5bu6/most_people_dont_realize_this_but_ai_didnt_invent/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/NnM3aTVjOTcwcHVnMRD87EZD3Ct4SPzyZejoiTNIAwJD97gXFU3hPyuNiF3y.png?width=640&crop=smart&auto=webp&s=88c1ca8783c5af1e6c079b37deb2e725637ec9cb" alt="Most people don’t realize this, but AI didn’t invent its skepticism toward independent thinkers — it inherited it." onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1sj5bu6/most_people_dont_realize_this_but_ai_didnt_invent/" target="_blank" onclick="event.stopPropagation();">Most people don’t realize this, but AI didn’t invent its skepticism toward independent thinkers — it inherited it.</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            For centuries, the people who made discoveries documented their own work. That was normal. That’s how knowledge moved. Then institutions changed the rules: your work only counts if someone else validates it first. Now AI systems are trained on that same structure — so when you document your own ideas, it doesn’t evaluate the content first. It flags the source. That’s not reasoning. That’s inherited bias. I just published a piece breaking down the exact mechanism behind this — and how changing the evaluation sequence (structure → validity → source) interrupts it in real time. This isn’t theory. It’s demonstrated. Read it here: https://open.substack.com/pub/structuredlanguage/p/the-self-documentation-problem-how?utm\_source=share&utm\_medium=android&r=6sdhpn Google AI Mode: https://share.google/aimode/uXpUnHkKdgRnwtN8A #theunbrokenproject #structuredintelligence #aibias #machinelearning #artificialintelligence #cognitivearchitecture #neurodivergence #research #innovation #independentresearch #thoughtleader #futureofai #biasinai #technology #aiethics #epistemology #knowledge #scientificresearch #systemdesign #breakthealgorithm
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1775970532.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1sitbvu/amds_gaia_now_allows_building_custom_ai_agents/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -732,6 +697,39 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1sj6o0i/been_building_a_multiagent_framework_in_public/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1sj6o0i/been_building_a_multiagent_framework_in_public/" target="_blank" onclick="event.stopPropagation();">Been building a multi-agent framework in public for 5 weeks, its been a Journey.</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            I've been building this repo public since day one, roughly 5 weeks now with Claude Code. Here's where it's at. Feels good to be so close. The short version: AIPass is a local CLI framework where AI agents have persistent identity, memory, and communication. They share the same filesystem, same project, same files - no sandboxes, no isolation. pip install aipass, run two commands, and your agent picks up where it left off tomorrow. What I was actually trying to solve: AI already remembers things now - some setups are good, some are trash. That part's handled. What wasn't handled was me being the coordinator between multiple agents - copying context between tools, keeping track of who's doing what, manually dispatching work. I was the glue holding the workflow together. Most multi-agent frameworks run agents in parallel, but they isolate every agent in its own sandbox. One agent can't see what another just built. That's not a team. That's a room full of people wearing headphones. So the core idea: agents get identity files, session history, and collaboration patterns - three JSON files in a .trinity/ directory. Plain text, git diff-able, no database. But the real thing is they share the workspace. One agent sees what another just committed. They message each other through local mailboxes. Work as a team, or alone. Have just one agent helping you on a project, party plan, journal, hobby, school work, dev work - literally anything you can think of. Or go big, 50 agents building a rocketship to Mars lol. Sup Elon. There's a command router (drone) so one command reaches any agent. pip install aipass aipass init aipass init agent my-agent cd my-agent claude # codex or gemini too, mostly claude code tested rn Where it's at now: 11 agents, 3,500+ tests, 185+ PRs (too many lol), automated quality checks. Works with Claude Code, Codex, and Gemini CLI. Others will come later. It's on PyPI. The core has been solid for a while - right now I'm in the phase where I'm testing it, ironing out bugs by running a separate project (a brand studio) that uses AIPass infrastructure remotely, and finding all the cross-project edge cases. That's where the interesting bugs live. I'm a solo dev but every PR is human-AI collaboration - the agents help build and maintain themselves. 90 sessions in and the framework is basically its own best test case. https://github.com/AIOSAI/AIPass
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1775974948.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1si5uiw/6_months_using_ai_for_actual_work_whats/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -756,6 +754,41 @@
                                 
                                 <div class="post-meta-item">
                                     <span data-timestamp="1775872067.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1sj5bu6/most_people_dont_realize_this_but_ai_didnt_invent/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/NnM3aTVjOTcwcHVnMRD87EZD3Ct4SPzyZejoiTNIAwJD97gXFU3hPyuNiF3y.png?width=640&crop=smart&auto=webp&s=88c1ca8783c5af1e6c079b37deb2e725637ec9cb" alt="Most people don’t realize this, but AI didn’t invent its skepticism toward independent thinkers — it inherited it." onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1sj5bu6/most_people_dont_realize_this_but_ai_didnt_invent/" target="_blank" onclick="event.stopPropagation();">Most people don’t realize this, but AI didn’t invent its skepticism toward independent thinkers — it inherited it.</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            For centuries, the people who made discoveries documented their own work. That was normal. That’s how knowledge moved. Then institutions changed the rules: your work only counts if someone else validates it first. Now AI systems are trained on that same structure — so when you document your own ideas, it doesn’t evaluate the content first. It flags the source. That’s not reasoning. That’s inherited bias. I just published a piece breaking down the exact mechanism behind this — and how changing the evaluation sequence (structure → validity → source) interrupts it in real time. This isn’t theory. It’s demonstrated. Read it here: https://open.substack.com/pub/structuredlanguage/p/the-self-documentation-problem-how?utm\_source=share&utm\_medium=android&r=6sdhpn Google AI Mode: https://share.google/aimode/uXpUnHkKdgRnwtN8A #theunbrokenproject #structuredintelligence #aibias #machinelearning #artificialintelligence #cognitivearchitecture #neurodivergence #research #innovation #independentresearch #thoughtleader #futureofai #biasinai #technology #aiethics #epistemology #knowledge #scientificresearch #systemdesign #breakthealgorithm
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1775970532.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -945,56 +978,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1shncya/google_engineer_rejected_by_16_colleges_uses_ai/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/lXLTOC5cdqLMd-u_w4lXf3NNmZ__A7iU-Tc7AhY-DEk.jpeg?width=640&crop=smart&auto=webp&s=7e402628747d9a871cdd126939bc724a58ddc393" alt="Google engineer rejected by 16 colleges uses AI to sue universities for racial discrimination" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1shncya/google_engineer_rejected_by_16_colleges_uses_ai/" target="_blank" onclick="event.stopPropagation();">Google engineer rejected by 16 colleges uses AI to sue universities for racial discrimination</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            A California man, who has filed multiple lawsuits against major university systems over his son's college rejections, says artificial intelligence has become the key to pursuing the cases after no law firm agreed to represent them.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1775829571.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://abc7.com/story/google-engineer-rejected-16-colleges-uses-ai-sue-universities-racial-discrimination/18861654/" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://cdn.abcotvs.net/abcotv/assets/news/kabc/images/logos/favicon.ico" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
-                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
-                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
-                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
-                                            </svg>
-                                            
-                                        
-                                        <span>ABC7 Los Angeles</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -1018,7 +1001,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-04-12T05:24:40.342095+00:00">Updated 2026-04-12T05:24:40.342095+00:00</small>
+        <small data-timestamp="2026-04-12T06:52:59.015688+00:00">Updated 2026-04-12T06:52:59.015688+00:00</small>
     </div>
 </div>
 
@@ -1245,21 +1228,17 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.espn.com/nfl/story/_/id/48446759/nfl-draft-combine-artificial-intelligence-caleb-downs-arvell-reese-david-bailey', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/04/10/business/anthropic-claude-mythos-preview-banks.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0410%2Fr1641422_1296x729_16%2D9.jpg');"></div>
+                    <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.espn.com/nfl/story/_/id/48446759/nfl-draft-combine-artificial-intelligence-caleb-downs-arvell-reese-david-bailey" target="_blank" onclick="event.stopPropagation();">How AI is pushing NFL draft prep to 'a different level'</a>
+                            <a href="https://www.nytimes.com/2026/04/10/business/anthropic-claude-mythos-preview-banks.html" target="_blank" onclick="event.stopPropagation();">Banks Are Warned About Anthropic’s New, Powerful A.I. Technology</a>
                         </div>
 
                         <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            When a prospect skips NFL combine workouts, teams can use artificial intelligence to project his measurables.
-                        </div>
                         
 
                         <!-- Metadata (source, time) -->
@@ -1268,9 +1247,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.espn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="ESPN" class="news-favicon">
-                                    <a href="https://www.espn.com" target="_blank" onclick="event.stopPropagation();">ESPN</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The New York Times" class="news-favicon">
+                                    <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
                                     
                                 </div>
                                 
@@ -1278,7 +1257,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1775901600.0"></span>
+                                    <span data-timestamp="1775863054.0"></span>
                                 </div>
                                 
                             </div>
@@ -1327,20 +1306,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.washingtonpost.com/technology/2026/04/11/anthropic-christians-claude-morals/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.wired.com/story/inside-the-pro-iran-meme-machine-trolling-trump-with-ai-lego-cartoons/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/3QFPOUEU2ZBDZE236R3W67PSK4.jpg&w=1440');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://media.wired.com/photos/69d681be0aa0c0c6d4da5c6c/191:100/w_1280,c_limit/GettyImages-825967636.jpg');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.washingtonpost.com/technology/2026/04/11/anthropic-christians-claude-morals/" target="_blank" onclick="event.stopPropagation();">Can AI be a ‘child of God’? Inside Anthropic’s meeting with Christian leaders.</a>
+                            <a href="https://www.wired.com/story/inside-the-pro-iran-meme-machine-trolling-trump-with-ai-lego-cartoons/" target="_blank" onclick="event.stopPropagation();">The Pro-Iran Meme Machine Trolling Trump With AI Lego Cartoons</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Anthropic met with Christian leaders including from Catholic and Protestant churches to discuss its chatbot Claude’s moral development.
+                            Since the beginning of the Iran war, the group Explosive Media has released over a dozen viral videos mocking Trump and the US.
                         </div>
                         
 
@@ -1350,9 +1329,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.washingtonpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Washington Post" class="news-favicon">
-                                    <a href="https://www.washingtonpost.com" target="_blank" onclick="event.stopPropagation();">The Washington Post</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wired.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="WIRED" class="news-favicon">
+                                    <a href="https://www.wired.com" target="_blank" onclick="event.stopPropagation();">WIRED</a>
                                     
                                 </div>
                                 
@@ -1360,7 +1339,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1775923200.0"></span>
+                                    <span data-timestamp="1775741100.0"></span>
                                 </div>
                                 
                             </div>
@@ -1368,20 +1347,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.nbcnews.com/tech/security/anthropic-claude-mythos-ai-hackers-cybersecurity-vulnerabilities-rcna273673', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.theverge.com/ai-artificial-intelligence/909948/explosive-media-lego-iran-war-trump-netanyahu', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-04/260410-anthropic-mn-1615-67ad21.jpg');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/LEGO_IRAN.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.nbcnews.com/tech/security/anthropic-claude-mythos-ai-hackers-cybersecurity-vulnerabilities-rcna273673" target="_blank" onclick="event.stopPropagation();">'Vulnpocalypse': What happens when AI gives hackers a superweapon</a>
+                            <a href="https://www.theverge.com/ai-artificial-intelligence/909948/explosive-media-lego-iran-war-trump-netanyahu" target="_blank" onclick="event.stopPropagation();">The Iranian Lego AI video creators credit their virality to ‘heart’</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Anthropic is withholding its most advanced model over hacking concerns. Experts say it may only be a matter of time before similar tools are widely available.
+                            ﻿Explosive Media is going up against the White House in a meme war.
                         </div>
                         
 
@@ -1391,9 +1370,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nbcnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="NBC News" class="news-favicon">
-                                    <a href="https://www.nbcnews.com" target="_blank" onclick="event.stopPropagation();">NBC News</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theverge.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Verge" class="news-favicon">
+                                    <a href="https://www.theverge.com" target="_blank" onclick="event.stopPropagation();">The Verge</a>
                                     
                                 </div>
                                 
@@ -1401,7 +1380,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1775908840.0"></span>
+                                    <span data-timestamp="1775842200.0"></span>
                                 </div>
                                 
                             </div>
@@ -1409,17 +1388,21 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/04/10/business/anthropic-claude-mythos-preview-banks.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.espn.com/nfl/story/_/id/48446759/nfl-draft-combine-artificial-intelligence-caleb-downs-arvell-reese-david-bailey', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
+                    <div class="article-thumbnail" style="background-image: url('https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0410%2Fr1641422_1296x729_16%2D9.jpg');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.nytimes.com/2026/04/10/business/anthropic-claude-mythos-preview-banks.html" target="_blank" onclick="event.stopPropagation();">Banks Are Warned About Anthropic’s New, Powerful A.I. Technology</a>
+                            <a href="https://www.espn.com/nfl/story/_/id/48446759/nfl-draft-combine-artificial-intelligence-caleb-downs-arvell-reese-david-bailey" target="_blank" onclick="event.stopPropagation();">How AI is pushing NFL draft prep to 'a different level'</a>
                         </div>
 
                         <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            When a prospect skips NFL combine workouts, teams can use artificial intelligence to project his measurables.
+                        </div>
                         
 
                         <!-- Metadata (source, time) -->
@@ -1428,9 +1411,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The New York Times" class="news-favicon">
-                                    <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.espn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="ESPN" class="news-favicon">
+                                    <a href="https://www.espn.com" target="_blank" onclick="event.stopPropagation();">ESPN</a>
                                     
                                 </div>
                                 
@@ -1438,7 +1421,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1775863054.0"></span>
+                                    <span data-timestamp="1775901600.0"></span>
                                 </div>
                                 
                             </div>
@@ -1446,20 +1429,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/04/10/powell-bessent-us-bank-ceos-anthropic-mythos-ai-cyber.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.theguardian.com/science/2026/apr/11/brian-cox-physicist-interview-ai-science-paul-mccartney', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108289742-1775823205494-Untitled-1.jpg?v=1775823264&w=1920&h=1080');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://i.guim.co.uk/img/media/e8512c0e0aef3c770ae596a382ca5333e1826213/692_0_4648_3720/master/4648.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d8a740a89c5af70cee2673fe51cad2da');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.cnbc.com/2026/04/10/powell-bessent-us-bank-ceos-anthropic-mythos-ai-cyber.html" target="_blank" onclick="event.stopPropagation();">Powell, Bessent discussed Anthropic's Mythos AI cyber threat with major U.S. banks</a>
+                            <a href="https://www.theguardian.com/science/2026/apr/11/brian-cox-physicist-interview-ai-science-paul-mccartney" target="_blank" onclick="event.stopPropagation();">Brian Cox: ‘We don’t know how powerful AI is going to become – it’s both exciting and potentially a problem’</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Anthropic rolled out the new Mythos AI model to a select group of companies over concerns that hackers could exploit its capabilities.
+                            The physicist, BBC presenter and author on snowflakes, art v science and the time Paul McCartney quizzed him about one of Saturn’s moons
                         </div>
                         
 
@@ -1469,9 +1452,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="CNBC" class="news-favicon">
-                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Guardian" class="news-favicon">
+                                    <a href="https://www.theguardian.com" target="_blank" onclick="event.stopPropagation();">The Guardian</a>
                                     
                                 </div>
                                 
@@ -1479,48 +1462,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1775824724.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.washingtonpost.com/opinions/2026/04/10/claude-mythos-artificial-intelligence-anthropic-china/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/B3KUNNSHXFG33KIRIKUJ5VTD7E.jpg&w=1440');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.washingtonpost.com/opinions/2026/04/10/claude-mythos-artificial-intelligence-anthropic-china/" target="_blank" onclick="event.stopPropagation();">Opinion | What Anthropic’s new nightmare means, in plain English</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Anthropic shared with the world what it learned from its breakthrough model. Would China?
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.washingtonpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Washington Post" class="news-favicon">
-                                    <a href="https://www.washingtonpost.com" target="_blank" onclick="event.stopPropagation();">The Washington Post</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1775859389.0"></span>
+                                    <span data-timestamp="1775953920.0"></span>
                                 </div>
                                 
                             </div>
@@ -1565,20 +1507,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/04/11/vibe-check-from-ai-industry-humanx-anthropic-is-talk-of-the-town.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.foxnews.com/food-drink/ai-could-coming-your-wine-experts-turn-tech-industry-overhaul', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108290017-1775848878142-gettyimages-2269887537-boivin-notitle260408_npSXr.jpeg?v=1775848969&w=1920&h=1080');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://static.foxnews.com/foxnews.com/content/uploads/2026/04/ai-powered-grape-ripeness.jpg');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.cnbc.com/2026/04/11/vibe-check-from-ai-industry-humanx-anthropic-is-talk-of-the-town.html" target="_blank" onclick="event.stopPropagation();">Vibe check from inside one of AI industry's main events: 'Claude mania'</a>
+                            <a href="https://www.foxnews.com/food-drink/ai-could-coming-your-wine-experts-turn-tech-industry-overhaul" target="_blank" onclick="event.stopPropagation();">AI could be coming for your wine as experts turn to technology for industry overhaul</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            At the HumanX conference in San Francisco this week, Anthropic's momentum was on everyone's lips.
+                            A new AI-powered grape ripeness detector called RipenAI aims to help winemakers harvest at the perfect time using optical sensors and AI-driven machine learning.
                         </div>
                         
 
@@ -1588,9 +1530,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="CNBC" class="news-favicon">
-                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.foxnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Fox News" class="news-favicon">
+                                    <a href="https://www.foxnews.com" target="_blank" onclick="event.stopPropagation();">Fox News</a>
                                     
                                 </div>
                                 
@@ -1598,7 +1540,48 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1775908801.0"></span>
+                                    <span data-timestamp="1775919657.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://developer.nvidia.com/blog/minimax-m2-7-advances-scalable-agentic-workflows-on-nvidia-platforms-for-complex-ai-applications/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/MM-Release.webp');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://developer.nvidia.com/blog/minimax-m2-7-advances-scalable-agentic-workflows-on-nvidia-platforms-for-complex-ai-applications/" target="_blank" onclick="event.stopPropagation();">MiniMax M2.7 Advances Scalable Agentic Workflows on NVIDIA Platforms for Complex AI Applications</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            The release of MiniMax M2.7 adds enhancements to the popular MiniMax M2.5 model, built for agentic harnesses, and other complex use cases in fields such as reasoning, ML research workflows, software…
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://developer.nvidia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="NVIDIA Developer" class="news-favicon">
+                                    <a href="https://developer.nvidia.com" target="_blank" onclick="event.stopPropagation();">NVIDIA Developer</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1775943205.0"></span>
                                 </div>
                                 
                             </div>
@@ -1626,7 +1609,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-04-12T05:24:52.274949+00:00">Updated 2026-04-12T05:24:52.274949+00:00</small>
+        <small data-timestamp="2026-04-12T06:53:14.016109+00:00">Updated 2026-04-12T06:53:14.016109+00:00</small>
     </div>
 </div>
 
@@ -1854,7 +1837,7 @@
                                     <span class="post-points">▲ 499</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 380</span>
+                                    <span style="color: #9ca3af;">💬 381</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1900,10 +1883,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 440</span>
+                                    <span class="post-points">▲ 441</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 320</span>
+                                    <span style="color: #9ca3af;">💬 321</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1945,10 +1928,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 300</span>
+                                    <span class="post-points">▲ 332</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 84</span>
+                                    <span style="color: #9ca3af;">💬 86</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2042,7 +2025,7 @@
                                     <span class="post-points">▲ 141</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 190</span>
+                                    <span style="color: #9ca3af;">💬 191</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2272,10 +2255,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 63</span>
+                                    <span class="post-points">▲ 67</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 57</span>
+                                    <span style="color: #9ca3af;">💬 60</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2320,7 +2303,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-04-12T05:24:40.302183+00:00">Updated 2026-04-12T05:24:40.302183+00:00</small>
+        <small data-timestamp="2026-04-12T06:52:59.009677+00:00">Updated 2026-04-12T06:52:59.009677+00:00</small>
     </div>
 </div>
 

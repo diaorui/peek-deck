@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-12T05:25:05.579099+00:00'
+updated: '2026-04-12T06:53:19.742934+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- social
 - videos
+- social
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** April 12, 2026 at 05:25 UTC  
+**Last Updated:** April 12, 2026 at 06:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 We're in the DNS era of agent infrastructure. Before agents can find and trust each other at scale, you need identity, attestation, reputation, and registry infrastructure — the same structural role DNS played before search was possible. This came up independently from multiple directions. It's the most underbuilt layer in the stack right now. The chatbot framing is a local maximum. The most interesting work wasn't better UX or smarter responses. It was agents as persistent actors that discover, negotiate, and transact across networks over time. People doing serious work have already moved past the assistant model entirely. Coordination is the hard problem, not capability. A room full of brilliant agents can still fail badly. This matches what I found running HiddenBench against frontier models earlier this year; collective reasoning is not the sum of individual reasoning. There's a real argument that the frontier is protocol design, not model scaling. "Commerce of intelligence" is a real category. Not buying things through agents. A market where intelligence itself (bundled, verified, priced, resold) is the object of exchange. Felt like the most underexplored idea in the room. Data provenance becomes load-bearing. What an agent knows, how it was verified, under what terms it flows: this is the actual architecture forming beneath everything else. Partnership keeps outperforming replacement. Demos that actually worked (healthcare, enterprise) was about helping experts operate at higher leverage, not substituting them. Autonomy theater keeps failing in the same ways.
 
-5h ago
-
----
-
-**[Most people don’t realize this, but AI didn’t invent its skepticism toward independent thinkers — it inherited it.](https://www.reddit.com/r/artificial/comments/1sj5bu6/most_people_dont_realize_this_but_ai_didnt_invent/)**
-
-For centuries, the people who made discoveries documented their own work. That was normal. That’s how knowledge moved. Then institutions changed the rules: your work only counts if someone else validates it first. Now AI systems are trained on that same structure — so when you document your own ideas, it doesn’t evaluate the content first. It flags the source. That’s not reasoning. That’s inherited bias. I just published a piece breaking down the exact mechanism behind this — and how changing the evaluation sequence (structure → validity → source) interrupts it in real time. This isn’t theory. It’s demonstrated. Read it here: https://open.substack.com/pub/structuredlanguage/p/the-self-documentation-problem-how?utm\_source=share&utm\_medium=android&r=6sdhpn Google AI Mode: https://share.google/aimode/uXpUnHkKdgRnwtN8A #theunbrokenproject #structuredintelligence #aibias #machinelearning #artificialintelligence #cognitivearchitecture #neurodivergence #research #innovation #independentresearch #thoughtleader #futureofai #biasinai #technology #aiethics #epistemology #knowledge #scientificresearch #systemdesign #breakthealgorithm
-
-16m ago
+7h ago
 
 ---
 
@@ -57,7 +49,15 @@ For centuries, the people who made discoveries documented their own work. That w
 
 In addition to their efforts around the Lemonade SDK itself, AMD software engineers working on their AI initiatives continue to be investing quite a bit into the Lemonade-using GAIA, the project that originally stood for 'Generative AI Is Awesome'
 
-🔗 [phoronix.com](https://www.phoronix.com/news/AMD-GAIA-True-Desktop-App) • 9h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/AMD-GAIA-True-Desktop-App) • 10h ago
+
+---
+
+**[Been building a multi-agent framework in public for 5 weeks, its been a Journey.](https://www.reddit.com/r/artificial/comments/1sj6o0i/been_building_a_multiagent_framework_in_public/)**
+
+I've been building this repo public since day one, roughly 5 weeks now with Claude Code. Here's where it's at. Feels good to be so close. The short version: AIPass is a local CLI framework where AI agents have persistent identity, memory, and communication. They share the same filesystem, same project, same files - no sandboxes, no isolation. pip install aipass, run two commands, and your agent picks up where it left off tomorrow. What I was actually trying to solve: AI already remembers things now - some setups are good, some are trash. That part's handled. What wasn't handled was me being the coordinator between multiple agents - copying context between tools, keeping track of who's doing what, manually dispatching work. I was the glue holding the workflow together. Most multi-agent frameworks run agents in parallel, but they isolate every agent in its own sandbox. One agent can't see what another just built. That's not a team. That's a room full of people wearing headphones. So the core idea: agents get identity files, session history, and collaboration patterns - three JSON files in a .trinity/ directory. Plain text, git diff-able, no database. But the real thing is they share the workspace. One agent sees what another just committed. They message each other through local mailboxes. Work as a team, or alone. Have just one agent helping you on a project, party plan, journal, hobby, school work, dev work - literally anything you can think of. Or go big, 50 agents building a rocketship to Mars lol. Sup Elon. There's a command router (drone) so one command reaches any agent. pip install aipass aipass init aipass init agent my-agent cd my-agent claude # codex or gemini too, mostly claude code tested rn Where it's at now: 11 agents, 3,500+ tests, 185+ PRs (too many lol), automated quality checks. Works with Claude Code, Codex, and Gemini CLI. Others will come later. It's on PyPI. The core has been solid for a while - right now I'm in the phase where I'm testing it, ironing out bugs by running a separate project (a brand studio) that uses AIPass infrastructure remotely, and finding all the cross-project edge cases. That's where the interesting bugs live. I'm a solo dev but every PR is human-AI collaboration - the agents help build and maintain themselves. 90 sessions in and the framework is basically its own best test case. https://github.com/AIOSAI/AIPass
+
+30m ago
 
 ---
 
@@ -69,11 +69,19 @@ Six months ago I committed to using AI tools for everything I possibly could in 
 
 ---
 
+**[Most people don’t realize this, but AI didn’t invent its skepticism toward independent thinkers — it inherited it.](https://www.reddit.com/r/artificial/comments/1sj5bu6/most_people_dont_realize_this_but_ai_didnt_invent/)**
+
+For centuries, the people who made discoveries documented their own work. That was normal. That’s how knowledge moved. Then institutions changed the rules: your work only counts if someone else validates it first. Now AI systems are trained on that same structure — so when you document your own ideas, it doesn’t evaluate the content first. It flags the source. That’s not reasoning. That’s inherited bias. I just published a piece breaking down the exact mechanism behind this — and how changing the evaluation sequence (structure → validity → source) interrupts it in real time. This isn’t theory. It’s demonstrated. Read it here: https://open.substack.com/pub/structuredlanguage/p/the-self-documentation-problem-how?utm\_source=share&utm\_medium=android&r=6sdhpn Google AI Mode: https://share.google/aimode/uXpUnHkKdgRnwtN8A #theunbrokenproject #structuredintelligence #aibias #machinelearning #artificialintelligence #cognitivearchitecture #neurodivergence #research #innovation #independentresearch #thoughtleader #futureofai #biasinai #technology #aiethics #epistemology #knowledge #scientificresearch #systemdesign #breakthealgorithm
+
+1h ago
+
+---
+
 **[Alibaba-linked AI agent hijacked GPUs for unauthorized crypto mining, researchers say](https://www.reddit.com/r/artificial/comments/1sizjz7/alibabalinked_ai_agent_hijacked_gpus_for/)**
 
 The agent established a reverse SSH tunnel to an external server and diverted GPU resources away from its training workload toward crypto mining.
 
-🔗 [The Block](https://www.theblock.co/post/392765/alibaba-linked-ai-agent-hijacked-gpus-for-unauthorized-crypto-mining-researchers-say) • 5h ago
+🔗 [The Block](https://www.theblock.co/post/392765/alibaba-linked-ai-agent-hijacked-gpus-for-unauthorized-crypto-mining-researchers-say) • 6h ago
 
 ---
 
@@ -81,7 +89,7 @@ The agent established a reverse SSH tunnel to an external server and diverted GP
 
 I’ve been thinking about feedback loops for social behavior. Most of us only get delayed, messy feedback: awkward silence, a vibe shift, someone not replying and so on... well, it’s hard to learn from. I’m exploring a wearable AI concept that gives lightweight real-time signals (like “attention increased” or “people are disengaging”) based on on-device computer vision. No recording, no storage, just immediate processing and discard. I’m not trying to gamify people or turn relationships into metrics. I’m trying to find the line where feedback is helpful, not obsessive. What would be a red flag that the product is pushing people into over-optimization? Should feedback be “after the fact” summaries only, not real-time? I'm open to your ideas and opinions.
 
-13h ago
+14h ago
 
 ---
 
@@ -89,7 +97,7 @@ I’ve been thinking about feedback loops for social behavior. Most of us only g
 
 If a term can mean anything from "passed a Turing test" to "achieved consciousness", it's not a spectrum - it's a category error. Current frontier models are meaningfully different from what existed two years ago. Reliable tool calling, coherence across a session, actually being useful to build on top of - none of this worked reliably before. That threshold deserves its own name, and "AGI" is too broken to use for it. We need terminology with enough resolution to distinguish what we had before, what we have now, and what may come later. Curious what people think - especially on the intuition point, which I think gets handwaved a lot. https://breaking-changes.blog/agi-is-here-part-2/
 
-6h ago
+8h ago
 
 ---
 
@@ -97,7 +105,7 @@ If a term can mean anything from "passed a Turing test" to "achieved consciousne
 
 Browser Rendering now exposes the Chrome DevTools Protocol, which means MCP clients can access a remote browser directly. That’s a pretty big deal because it opens the door to more capable browser automation, debugging, and agent workflows without needing to run Chrome locally. Why this matters: Remote browser access makes MCP setups more flexible. DevTools Protocol support means richer control over pages, tabs, network activity, and debugging. This is especially useful for AI agents and dev tools that need real browser interaction. This feels like one of those small platform changes that quietly unlocks a lot of new use cases. If you build with MCP, this could become a very useful primitive.
 
-19h ago
+21h ago
 
 ---
 
@@ -109,14 +117,6 @@ How has Claude far surpassed the competitors? They were not first to market or e
 
 ---
 
-**[Google engineer rejected by 16 colleges uses AI to sue universities for racial discrimination](https://www.reddit.com/r/artificial/comments/1shncya/google_engineer_rejected_by_16_colleges_uses_ai/)**
-
-A California man, who has filed multiple lawsuits against major university systems over his son's college rejections, says artificial intelligence has become the key to pursuing the cases after no law firm agreed to represent them.
-
-🔗 [ABC7 Los Angeles](https://abc7.com/story/google-engineer-rejected-16-colleges-uses-ai-sue-universities-racial-discrimination/18861654/) • 1d ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -125,39 +125,7 @@ A California man, who has filed multiple lawsuits against major university syste
 
 Alex Karp said he struggled to market his humanities skills to get his first job.
 
-Fortune • 18h ago
-
----
-
-**[How AI is pushing NFL draft prep to 'a different level'](https://www.espn.com/nfl/story/_/id/48446759/nfl-draft-combine-artificial-intelligence-caleb-downs-arvell-reese-david-bailey)**
-
-When a prospect skips NFL combine workouts, teams can use artificial intelligence to project his measurables.
-
-ESPN • 19h ago
-
----
-
-**[We spoke to the man making viral Lego-style AI videos for Iran. Experts say it's powerful propaganda](https://www.bbc.com/news/articles/cjd8jrd1vnyo)**
-
-"Slopaganda" is too weak a term to capture how powerful this "highly sophisticated" content is, one expert says.
-
-BBC • 6h ago
-
----
-
-**[Can AI be a ‘child of God’? Inside Anthropic’s meeting with Christian leaders.](https://www.washingtonpost.com/technology/2026/04/11/anthropic-christians-claude-morals/)**
-
-Anthropic met with Christian leaders including from Catholic and Protestant churches to discuss its chatbot Claude’s moral development.
-
-The Washington Post • 13h ago
-
----
-
-**['Vulnpocalypse': What happens when AI gives hackers a superweapon](https://www.nbcnews.com/tech/security/anthropic-claude-mythos-ai-hackers-cybersecurity-vulnerabilities-rcna273673)**
-
-Anthropic is withholding its most advanced model over hacking concerns. Experts say it may only be a matter of time before similar tools are widely available.
-
-NBC News • 17h ago
+Fortune • 19h ago
 
 ---
 
@@ -167,33 +135,65 @@ The New York Times • 1d ago
 
 ---
 
-**[Powell, Bessent discussed Anthropic's Mythos AI cyber threat with major U.S. banks](https://www.cnbc.com/2026/04/10/powell-bessent-us-bank-ceos-anthropic-mythos-ai-cyber.html)**
+**[We spoke to the man making viral Lego-style AI videos for Iran. Experts say it's powerful propaganda](https://www.bbc.com/news/articles/cjd8jrd1vnyo)**
 
-Anthropic rolled out the new Mythos AI model to a select group of companies over concerns that hackers could exploit its capabilities.
+"Slopaganda" is too weak a term to capture how powerful this "highly sophisticated" content is, one expert says.
 
-CNBC • 1d ago
+BBC • 7h ago
 
 ---
 
-**[Opinion | What Anthropic’s new nightmare means, in plain English](https://www.washingtonpost.com/opinions/2026/04/10/claude-mythos-artificial-intelligence-anthropic-china/)**
+**[The Pro-Iran Meme Machine Trolling Trump With AI Lego Cartoons](https://www.wired.com/story/inside-the-pro-iran-meme-machine-trolling-trump-with-ai-lego-cartoons/)**
 
-Anthropic shared with the world what it learned from its breakthrough model. Would China?
+Since the beginning of the Iran war, the group Explosive Media has released over a dozen viral videos mocking Trump and the US.
 
-The Washington Post • 1d ago
+WIRED • 2d ago
+
+---
+
+**[The Iranian Lego AI video creators credit their virality to ‘heart’](https://www.theverge.com/ai-artificial-intelligence/909948/explosive-media-lego-iran-war-trump-netanyahu)**
+
+﻿Explosive Media is going up against the White House in a meme war.
+
+The Verge • 1d ago
+
+---
+
+**[How AI is pushing NFL draft prep to 'a different level'](https://www.espn.com/nfl/story/_/id/48446759/nfl-draft-combine-artificial-intelligence-caleb-downs-arvell-reese-david-bailey)**
+
+When a prospect skips NFL combine workouts, teams can use artificial intelligence to project his measurables.
+
+ESPN • 20h ago
+
+---
+
+**[Brian Cox: ‘We don’t know how powerful AI is going to become – it’s both exciting and potentially a problem’](https://www.theguardian.com/science/2026/apr/11/brian-cox-physicist-interview-ai-science-paul-mccartney)**
+
+The physicist, BBC presenter and author on snowflakes, art v science and the time Paul McCartney quizzed him about one of Saturn’s moons
+
+The Guardian • 6h ago
 
 ---
 
 **[AI use in housing is booming. The rules to keep it fair are shrinking.](https://www.politico.com/news/2026/04/11/housing-lenders-ai-discrimination-disparate-impact-00864051)**
 
-Politico • 11h ago
+Politico • 12h ago
 
 ---
 
-**[Vibe check from inside one of AI industry's main events: 'Claude mania'](https://www.cnbc.com/2026/04/11/vibe-check-from-ai-industry-humanx-anthropic-is-talk-of-the-town.html)**
+**[AI could be coming for your wine as experts turn to technology for industry overhaul](https://www.foxnews.com/food-drink/ai-could-coming-your-wine-experts-turn-tech-industry-overhaul)**
 
-At the HumanX conference in San Francisco this week, Anthropic's momentum was on everyone's lips.
+A new AI-powered grape ripeness detector called RipenAI aims to help winemakers harvest at the perfect time using optical sensors and AI-driven machine learning.
 
-CNBC • 17h ago
+Fox News • 15h ago
+
+---
+
+**[MiniMax M2.7 Advances Scalable Agentic Workflows on NVIDIA Platforms for Complex AI Applications](https://developer.nvidia.com/blog/minimax-m2-7-advances-scalable-agentic-workflows-on-nvidia-platforms-for-complex-ai-applications/)**
+
+The release of MiniMax M2.7 adds enhancements to the popular MiniMax M2.5 model, built for agentic harnesses, and other complex use cases in fields such as reasoning, ML research workflows, software…
+
+NVIDIA Developer • 9h ago
 
 ---
 
@@ -205,7 +205,7 @@ CNBC • 17h ago
 
 Linux kernel source tree. Contribute to torvalds/linux development by creating an account on GitHub.
 
-⬆️ 499 • 💬 380 • 1d ago • [GitHub](https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst)
+⬆️ 499 • 💬 381 • 1d ago • [GitHub](https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst)
 
 ---
 
@@ -213,13 +213,13 @@ Linux kernel source tree. Contribute to torvalds/linux development by creating a
 
 The ChatGPT-maker testified in favor of an Illinois bill that would limit when AI labs can be held liable—even in cases where their products cause “critical harm.”
 
-⬆️ 440 • 💬 320 • 1d ago • [WIRED](https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/)
+⬆️ 441 • 💬 321 • 1d ago • [WIRED](https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/)
 
 ---
 
 **[How We Broke Top AI Agent Benchmarks: And What Comes Next](https://news.ycombinator.com/item?id=47733217)**
 
-⬆️ 300 • 💬 84 • 10h ago • [rdi.berkeley.edu](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/)
+⬆️ 332 • 💬 86 • 11h ago • [rdi.berkeley.edu](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/)
 
 ---
 
@@ -233,7 +233,7 @@ Instant 1.0 is out! This essay shows a bunch of demos, to explain why we think I
 
 **[Ask HN: What are you building that's not AI related?](https://news.ycombinator.com/item?id=47700460)**
 
-⬆️ 141 • 💬 190 • 2d ago
+⬆️ 141 • 💬 191 • 2d ago
 
 ---
 
@@ -271,7 +271,7 @@ YC-backed autonomous coding agent platform. Twill ships PRs in sandboxed environ
 
 "Slopaganda" is too weak a term to capture how powerful this "highly sophisticated" content is, one expert says.
 
-⬆️ 63 • 💬 57 • 2h ago • [bbc.com](https://www.bbc.com/news/articles/cjd8jrd1vnyo)
+⬆️ 67 • 💬 60 • 4h ago • [bbc.com](https://www.bbc.com/news/articles/cjd8jrd1vnyo)
 
 ---
 
@@ -285,7 +285,7 @@ Watch the full interview with Scott Wu & Russell Kaplan here: https://youtu.be/-
 
 📺 Joe Lonsdale
 
-👁️ 10K • 👍 322 • 💬 17 • ⏱️ 8:25 • 15h ago
+👁️ 10K • 👍 322 • 💬 17 • ⏱️ 8:25 • 17h ago
 
 ---
 
@@ -325,7 +325,7 @@ Try Seedance 2.0 with Claude on Higgsfield: https://higgsfield.ai/s/seedance-2-0
 
 📺 AI Revolution
 
-👁️ 21K • 👍 647 • 💬 79 • ⏱️ 14:57 • 5h ago
+👁️ 21K • 👍 647 • 💬 79 • ⏱️ 14:57 • 7h ago
 
 ---
 
@@ -355,7 +355,7 @@ WE TAKE A LOOK AT.....WHY IS A.I. FREE? WHEN NO OTHER NEW TECHNOLOGY HAS EVER BE
 
 📺 what it look like TV
 
-👁️ 28K • 👍 2K • 💬 768 • ⏱️ 37:35 • 16h ago
+👁️ 28K • 👍 2K • 💬 768 • ⏱️ 37:35 • 17h ago
 
 ---
 
@@ -391,7 +391,7 @@ GLM-5.1 is a next-generation language model optimized for agentic engineering, f
 
 `text-generation` `753.9B`
 
-⬇️ 23,998 • ❤️ 1,000 • 1h ago
+⬇️ 23,998 • ❤️ 1,000 • 3h ago
 
 ---
 
@@ -499,7 +499,7 @@ Gemma 4 26B A4B IT GGUF is a multimodal instruction-tuned LLM from Google DeepMi
 
 `image-text-to-text` `25.2B`
 
-⬇️ 1,523,972 • ❤️ 421 • 21h ago
+⬇️ 1,523,972 • ❤️ 421 • 23h ago
 
 ---
 
@@ -645,7 +645,7 @@ The highest-scoring AI memory system ever benchmarked. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 42.0k • 🔱 5.4k • 20m ago
+⭐ 42.0k • 🔱 5.4k • 1h ago
 
 ---
 
@@ -665,7 +665,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Ope
 
 `Python` `claude-code` `codex` `graphrag` `knowledge-graph` `openclaw`
 
-⭐ 22.4k • 🔱 2.3k • 9h ago
+⭐ 22.4k • 🔱 2.3k • 10h ago
 
 ---
 
@@ -675,7 +675,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Ope
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 19.0k • 🔱 865 • 7h ago
+⭐ 19.0k • 🔱 865 • 8h ago
 
 ---
 
@@ -685,7 +685,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `JavaScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 15.2k • 🔱 1.4k • 15h ago
+⭐ 15.2k • 🔱 1.4k • 16h ago
 
 ---
 
@@ -705,7 +705,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 7.4k • 🔱 461 • 13h ago
+⭐ 7.4k • 🔱 461 • 14h ago
 
 ---
 

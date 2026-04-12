@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-12T05:25:05.592457+00:00'
+updated: '2026-04-12T06:53:19.757798+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 12, 2026 at 05:25 UTC  
+**Last Updated:** April 12, 2026 at 06:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,215.59
+### $2,216.07
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.9%  
+**24h:** -0.8%  
 **7d:** +5.1%  
-**30d:** +5.5%  
-**90d:** -33.4%  
-**1y:** +38.5%  
+**30d:** +5.6%  
+**90d:** -33.3%  
+**1y:** +38.6%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 **Welcome to the Daily General Discussion on** r/ethereum [https://imgur.com/3y7vezP\](https://imgur.com/3y7vezP) Bookmarking this link will always bring you to the current daily: [https://old.reddit.com/r/ethereum/about/sticky/?num=2\](https://old.reddit.com/r/ethereum/about/sticky/?num=2) Please use this thread to discuss Ethereum topics, news, events, and even *price*! Price discussion posted elsewhere in the subreddit will **continue to be removed.** As always, be constructive. - [Subreddit Rules](https://www.reddit.com/r/ethereum/about/rules/) Want to stake? Learn more at r/ethstaker **Community Links** * [Ethereum Jobs](https://ethereum.org/en/community/get-involved/#ethereum-jobs), [Twitter](https://x.com/ethereum) * [EVMavericks YouTube](https://www.youtube.com/@evmavericks), [Discord](https://discord.gg/evmavericks), [Doots Podcast](https://evmavericks.libsyn.com/) * [Doots Website](https://dailydoots.com/), Old Reddit [Doots Extension](https://github.com/etheralpha/ethfinance-extension) by u/hanniabu Calendar: [https://dailydoots.com/events/\](https://dailydoots.com/events/)
 
-23m ago
+1h ago
 
 ---
 
@@ -80,7 +80,7 @@ No max supply
 
 Over the past year I've been thinking a lot about Web3. Not the trading, not the speculation, not the casino. I don't trade crypto. I don't follow the markets. What fascinates me is the underlying idea: decentralized systems with code as the only authority. The technology itself. I've been a backend engineer for over a decade. Rails, SQL, the usual stack. But like many engineers, I burned out. The excitement to build faded. You know the feeling. You're competent, productive, but not discovering anything anymore. Then I looked seriously at blockchain. Not as an investor, but as an engineer. I asked myself: what would an application look like if built with absolute fidelity to what blockchain promises? Real utility (useful for the masses, not DeFi nonesense) NO off-chain layers (100% on-chain) NO insider advantages (fair economics) NO dependence on investors (self-sustaining) NO pointless tokenomics (ETH in, ETH out) Those five principles became my compass. I tried to build something that never violated them. But the Web3 ecosystem is built around tokenomics and speculation. There's no blueprint to follow. So I started pulling my own thread: I wanted to build something useful, deterministic, fully on-chain, with no complicated tokenomics. A simple game like TicTacToe with real ETH stakes? Interesting, but too narrow. Then the frame shifted. I wasn't building a game anymore. I was building a tournament layer. A universal competitive infrastructure that's fair, open-source, and 100% on-chain. That's when the hard problems started. How do you handle draws on a decentralized platform? How do you stop players griefing opponents without central authority? These aren't just technical questions. They're moral ones. They forced me to think deeply about fairness, about building a system nobody controls and nobody can manipulate. The answers surprised me. Forget Kubernetes, Redis, all that complexity. With these constraints (fully on-chain, truly open, completely decentralized) the legacy stack collapses into something elegant. A client talking directly to contracts. No servers. No databases. No company. Just code. That freedom changed how I think about software. So I built ETour A 100% on-chain tournament protocol, now live on Arbitrum. Players pay an entry fee, compete, the best player wins and takes the pot. Code decides everything. No intermediaries. As Web3 should be. I open-sourced it so developers can build their own games on it and inherit all of its features for free. I'm not here to tell you this is revolutionary. I built this because it felt like a problem worth solving. ETour is what came out the other side. The code is public. The contracts are immutable. The logic is yours to verify. PS: The technical docs are not final and will be updated soon. https://etour.games https://etour.games/whitepaper https://etour.games/manual https://etour.games/docs TLDR: ETour is useful, it's live, and it's open-source. Go ahead and play on it, or build your own game using its 100% on-chain and open source tournament modules.
 
-15h ago
+17h ago
 
 ---
 
@@ -156,15 +156,15 @@ I've learnt that we can now invest in gold directly in crypto, which is quite ex
 
 The Ether Machine terminates its SPAC merger with Dynamix, citing unfavorable market conditions amid ETH's sharp decline from its 2025 highs.
 
-BeInCrypto • 10h ago
+BeInCrypto • 11h ago
 
 ---
 
-**[$Ethereum (ETH.CC)$ Same old story, retail buys the weekend then institutions sell for a nice profit .](https://www.moomoo.com/community/feed/ethereum-eth-cc-same-old-story-retail-buys-the-weekend-116389188075526)**
+**[$Ethereum (ETH.CC)$](https://www.moomoo.com/community/feed/ethereum-eth-cc-116390023593990)**
 
-@Barrel hunter 3684 Views
+@106649116 2471 Views
 
-Moomoo • 3h ago
+Moomoo • 1h ago
 
 ---
 
@@ -180,7 +180,13 @@ Yahoo Finance • 2d ago
 
 An analyst on X has made a bold call on Ethereum, stating that the asset is on the verge of a parabolic move. The claim is based on a golden triangle formation on the chart, a setup that shows a breakout could be approaching for the leading altcoin. This approaching breakout could also serve as the…
 
-TradingView • 9h ago
+TradingView • 11h ago
+
+---
+
+**[Most large cryptocurrencies fall as Ethereum tumbles](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-as-ethereum-tumbles-91a2f421-9307bc266dcb)**
+
+MarketWatch • 2d ago
 
 ---
 
@@ -218,15 +224,7 @@ Coinpedia Fintech News • 1d ago
 
 The Ethereum Foundation sold 1,250 ETH for $2.8 million and stopped staking ETH, pushing odds in the Ethereum Above Price Predictions in April market toward bea
 
-Crypto Briefing • 15h ago
-
----
-
-**[Ethereum Price Forecast: Increased derivatives demand spurred ETH's rise after US-Iran ceasefire](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-increased-derivatives-demand-spurred-eths-rise-after-us-iran-ceasefire-202604110553)**
-
-Ethereum (ETH) saw major improvements across key onchain metrics after the US-Iran ceasefire announcement on Tuesday, according to a CryptoQuant analysis. The top altcoin rose by 6% within 24 hours following the move, its largest single-day gain in more than a month.
-
-FXStreet • 23h ago
+Crypto Briefing • 16h ago
 
 ---
 
@@ -240,7 +238,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 17K • 👍 555 • 💬 42 • ⏱️ 19:27 • 13h ago
+👁️ 17K • 👍 555 • 💬 42 • ⏱️ 19:27 • 14h ago
 
 ---
 
@@ -250,7 +248,7 @@ Ethereum has completed a five wave move up from the March lows – a critical El
 
 📺 More Crypto Online
 
-👁️ 822 • 👍 79 • 💬 9 • ⏱️ 9:19 • 4h ago
+👁️ 822 • 👍 79 • 💬 9 • ⏱️ 9:19 • 5h ago
 
 ---
 
@@ -260,7 +258,7 @@ BITCOIN PRICE SQUEEZE: Final Warning (Urgent)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 5K • 👍 256 • 💬 245 • ⏱️ 22:15 • 6h ago
+👁️ 5K • 👍 256 • 💬 245 • ⏱️ 22:15 • 8h ago
 
 ---
 
@@ -320,7 +318,7 @@ In this video, we break down Ethereum's latest price action heading into April 2
 
 📺 Gordon Frayne
 
-👁️ 279 • 👍 15 • 💬 5 • ⏱️ 12:24 • 22h ago
+👁️ 279 • 👍 15 • 💬 5 • ⏱️ 12:24 • 1d ago
 
 ---
 
@@ -330,7 +328,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 331 • 👍 12 • 💬 3 • ⏱️ 4:38 • 18h ago
+👁️ 331 • 👍 12 • 💬 3 • ⏱️ 4:38 • 19h ago
 
 ---
 
