@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-12T11:06:57.298649+00:00'
+updated: '2026-04-12T11:57:08.144040+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
-- social
 - cryptocurrency
+- videos
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 12, 2026 at 11:06 UTC  
+**Last Updated:** April 12, 2026 at 11:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Iran’s Strait of Hormuz Management Plan, passed in late March 2026, mandates Bitcoin toll payments. Each fully laden tanker carrying 2 million barrels faces a Bitcoin toll of up to $2 million. Bitcoin surged toward $73,000 as shipping firms faced the prospect of stockpiling BTC for tolls. Stablecoins were rejected due to freeze functions and GENIUS framework compliance requirements.
 
-🔗 [Blockonomi](https://blockonomi.com/iran-enforces-bitcoin-as-the-only-means-to-pay-toll-on-strait-of-hormuz/) • 15h ago
+🔗 [Blockonomi](https://blockonomi.com/iran-enforces-bitcoin-as-the-only-means-to-pay-toll-on-strait-of-hormuz/) • 16h ago
 
 ---
 
@@ -89,13 +89,13 @@ Iran’s Strait of Hormuz Management Plan, passed in late March 2026, mandates B
 
 Just a quick heads up for anyone waking up tomorrow and wondering why crypto dipped again. The US–Iran meeting that’s been going on for the past 21 hours just ended, and it didn’t go well at all. Markets usually react fast to stuff like this, so if your portfolio looks red, that’s probably the reason. Not trying to spread fear, just giving you a bit of context so you’re not confused when you check your wallet. Stay safe out there guys and DO NOT PANIC-SELL based on emotions. Do your own research and don’t make decisions based on short-term news. Sooner or later we'll fly in green again (i hope😅)
 
-5h ago
+6h ago
 
 ---
 
 **[Never "download" your Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1sjanj9/never_download_your_bitcoin/)**
 
-53m ago
+1h ago
 
 ---
 
@@ -103,7 +103,7 @@ Just a quick heads up for anyone waking up tomorrow and wondering why crypto dip
 
 Let that sink in for a second. One week ago retail was heavily long at 1.73 L/S ratio. Today it's 0.745 — net short. In seven days retail went from max bullish to betting against BTC. Meanwhile Morgan Stanley is rolling out BTC ETF access to 16,000 financial advisors. Institutional infrastructure is expanding while retail is panic shorting. Fear & Greed went from 9 to 16 — still Extreme Fear but improving. The weekly trend: 9, 11, 12, 13, 11, 17, 14, 16. Slowly grinding up while retail flips bearish. BTC is 15.3% below the 200 EMA at $84,632 so the macro structure is still bearish. No argument there. But the aggressor ratio is at 0.6213 — that's buy dominant. Somebody is accumulating while retail exits. Iran-US talks collapsing yesterday pushed price from $73.8K to $71.6K. Geopolitics is driving short term action but it doesn't change the fact that institutional rails are being built in the background. The last time retail was this short and institutions were this active, it didn't end well for the shorts.
 
-5h ago
+6h ago
 
 ---
 
@@ -111,7 +111,7 @@ Let that sink in for a second. One week ago retail was heavily long at 1.73 L/S 
 
 Many Bitcoiners know the core value prop - scarcity, decentralization, sound money (e.g Austrian Economics and all that). But if you're a consistent DCA buyer like I am, you've felt the other side of that: buying at local tops and immediately watching a 10-20% drawdown hit your stack. TLDR: Bitcoin's no wash sale rule means every dip is a tax harvesting opportunity. Most people know this exists. Almost nobody is actually doing it systematically. What most Bitcoiners don't know is that volatility creates a legal tax harvesting opportunity that essentially doesn't exist for other kinds of investors. Here’s why this works (and why it’s different from stocks): In 2014, the IRS issued Notice 2014-21 classifying Bitcoin as property, not a security. This means the wash sale rule which prevents stock investors from selling at a loss and immediately rebuying - doesn't actually apply to Bitcoin**.** In practice: if you bought 1 BTC at $110,000 and it drops to $80,000, you can sell and rebuy within seconds, locking in a $30,000 capital loss while maintaining your exact position. No 30-day waiting period. No penalty. The obvious question then is, what about the spread? If you're in a 32% bracket in the US, that $30k loss is a $9,600 credit. Even after a 0.5% exchange spread (maybe $500 on the round trip), you're still up over $9,000 in liquidity immediately. You're exchanging a small certain cost for a massive tax benefit you can redeploy straight back into BTC. (Quick note on how the losses actually apply: up to $3,000 per year offsets your ordinary W2 income directly - so a few hundred bucks back at minimum regardless of your gains situation. Everything above that carries forward indefinitely to offset future capital gains. So even if you have no gains this year, the losses don't disappear - they stack.) Ten dollars of tax savings compounding in BTC for a decade is worth a lot more than ten dollars at filing time years from now. The catch now is that actually doing this is a nightmare. If you're DCA'ing regularly, figuring out which specific lots are harvestable - and exactly when - is genuinely tedious to do manually. And while tools are out there that show you harvesting opportunities, they're broad 💩coin tax reporting platforms where Bitcoin is one of hundreds of nonsense assets. They show you a snapshot - they don't continuously monitor your positions and alert you automatically as opportunities emerge throughout the year & harvest them for you. I'm an engineer who got annoyed doing this by hand with my Strike => self custody setup and built a software layer specifically for this. Bitcoin-only, continuously monitors your cost basis across your exchange accounts, surfaces harvestable opportunities in real time, and executes the harvest automatically across all major exchanges with full tax lot tracking updated instantly. Personally, I didn’t want to host other people’s API keys, so I also built a self-host option for more technically savvy & privacy centric brothers/sisters. You can run it via your own GitHub Secrets so the keys never leave your infrastructure. If you want managed software with reports to share with your CPA and stuff like that, that's also available. If anyone wants to try it or learn more, I’ve got 10 spots for the first people from the sub who want to jump in & try it out. Happy to help with the setup personally! EDIT: Okay so this post has blown up more than anticipated. Transparently I was only initially planning to allow for 10 users to try from the sub and we’ve nearly reached that threshold. Feel free to leave a comment or DM me directly if you’d be interested and I’ll be happy to talk through things. We don’t support all exchanges and all hardware wallets today although we support the major ones and are adding more. Let me know if you have any questions or concerns!
 
-10h ago
+11h ago
 
 ---
 
@@ -119,7 +119,7 @@ Many Bitcoiners know the core value prop - scarcity, decentralization, sound mon
 
 So, just how much Bitcoin does one sell to make the market drop $1000?
 
-7h ago
+8h ago
 
 ---
 
@@ -127,7 +127,7 @@ So, just how much Bitcoin does one sell to make the market drop $1000?
 
 If you can get to 1 Bitcoin, you are ahead of 99.9% of humanity. That sounds ridiculous, but the math is real. In this video, I break down just how rare it is to own a full Bitcoin, and why not every millionaire on Earth can get one.
 
-🔗 [youtu.be](https://youtu.be/5Al_yE9il2o) • 17h ago
+🔗 [youtu.be](https://youtu.be/5Al_yE9il2o) • 18h ago
 
 ---
 
@@ -135,7 +135,7 @@ If you can get to 1 Bitcoin, you are ahead of 99.9% of humanity. That sounds rid
 
 Will governments seek to freeze or ban btc that has passed through Iranian wallets? Will they punish individuals or organizations that accept or spend tainted btc? At 2 million dollars per tanker, that adds up quickly.
 
-12h ago
+13h ago
 
 ---
 
@@ -151,7 +151,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://youtube.com/shorts/G5xv2cBc95E?si=HL_ooLQCGEmgw_ek) • 8h ago
+🔗 [youtube.com](https://youtube.com/shorts/G5xv2cBc95E?si=HL_ooLQCGEmgw_ek) • 9h ago
 
 ---
 
@@ -163,13 +163,13 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Arkham data shows 8,285 BTC in Coinbase Prime custody as the company swings from $8 billion profit to nearly $5 billion loss ahead of its IPO push.
 
-CoinDesk • 15h ago
+CoinDesk • 16h ago
 
 ---
 
 **[‘No Deal’— Bitcoin Braces For Crash After Fruitless Vance Iran Talks](https://www.forbes.com/sites/digital-assets/2026/04/11/no-deal--bitcoin-braces-for-crash-after-fruitless-vance-iran-talks/)**
 
-Forbes • 7h ago
+Forbes • 8h ago
 
 ---
 
@@ -177,7 +177,7 @@ Forbes • 7h ago
 
 U.S. Vice President J.D. Vance said negotiations had ended after a daylong session in Pakistan.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -185,7 +185,7 @@ CoinDesk • 5h ago
 
 Bitcoin surged near $74k on optimism around US–Iran talks, but pulled back after negotiations ended without a deal, keeping markets volatile.
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -215,7 +215,7 @@ MarketWatch • 1d ago
 
 Bitcoin and Ether aren’t far from levels that could signal a trend reversal this year, despite a growing consensus across the industry calling for a bear market, according to macro analyst Jordi Visser.“If we trade above $76,000 and at the same time we see Ethereum above $2,400, I believe that is t…
 
-TradingView — Track All Markets • 5h ago
+TradingView — Track All Markets • 6h ago
 
 ---
 
@@ -227,7 +227,7 @@ The New York Times • 3d ago
 
 **[Why is quantum computing seen as a challenge to Bitcoin?](https://www.investing.com/news/economy-news/why-is-quantum-computing-seen-as-a-challenge-to-bitcoin-4609025)**
 
-Investing.com • 5h ago
+Investing.com • 6h ago
 
 ---
 
@@ -245,7 +245,7 @@ Investing.com • 5h ago
 
 The average production cost was sitting at $88,000 per bitcoin in mid-March, according to Checkonchain's difficulty regression model.
 
-⬆️ 230 • 💬 212 • 21h ago • [coindesk.com](https://www.coindesk.com/markets/2026/03/22/bitcoin-miners-are-losing-usd19-000-on-every-btc-produced-as-difficulty-drops-7-8)
+⬆️ 230 • 💬 212 • 22h ago • [coindesk.com](https://www.coindesk.com/markets/2026/03/22/bitcoin-miners-are-losing-usd19-000-on-every-btc-produced-as-difficulty-drops-7-8)
 
 ---
 
@@ -297,7 +297,7 @@ New York Times report claims London-born Adam Back is creator of the cryptocurre
 
 A three-part deep dive into quantum computing's actual threat to Bitcoin. 17 researchers, 13 proposals, real engineering. No hype. No FUD.
 
-⬆️ 3 • 💬 0 • 15h ago • [Bitcoin & Quantum Computing](https://bitcoinquantum.space)
+⬆️ 3 • 💬 0 • 16h ago • [Bitcoin & Quantum Computing](https://bitcoinquantum.space)
 
 ---
 
@@ -339,7 +339,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 ✓
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 102 • ⏱️ 12:09 • 18h ago
+👁️ 38K • 👍 2K • 💬 102 • ⏱️ 12:09 • 19h ago
 
 ---
 
@@ -349,7 +349,7 @@ FortisX https://fortisx.fi/kol/aaron - Deposit from $100: Get a 1% bonus - Withd
 
 📺 Aaron Bennett
 
-👁️ 2K • 👍 133 • 💬 145 • ⏱️ 10:44 • 7h ago
+👁️ 2K • 👍 133 • 💬 145 • ⏱️ 10:44 • 8h ago
 
 ---
 
@@ -399,7 +399,7 @@ Get a chance win a ROLEX! BTCC COMPETITION: ...
 
 📺 Crypto Lifer
 
-👁️ 3K • 👍 234 • 💬 121 • ⏱️ 16:31 • 23h ago
+👁️ 3K • 👍 234 • 💬 121 • ⏱️ 16:31 • 1d ago
 
 ---
 
