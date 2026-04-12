@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-12T16:00:25.604096+00:00'
+updated: '2026-04-12T16:53:21.555206+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 12, 2026 at 16:00 UTC  
+**Last Updated:** April 12, 2026 at 16:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,181.87
+### $2,185.95
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.5%  
-**7d:** +3.5%  
-**30d:** +4.0%  
-**90d:** -34.4%  
-**1y:** +36.5%  
+**24h:** -3.3%  
+**7d:** +3.7%  
+**30d:** +4.2%  
+**90d:** -34.2%  
+**1y:** +36.7%  
 
 ---
 
@@ -72,13 +72,21 @@ No max supply
 
 **Welcome to the Daily General Discussion on** r/ethereum [https://imgur.com/3y7vezP\](https://imgur.com/3y7vezP) Bookmarking this link will always bring you to the current daily: [https://old.reddit.com/r/ethereum/about/sticky/?num=2\](https://old.reddit.com/r/ethereum/about/sticky/?num=2) Please use this thread to discuss Ethereum topics, news, events, and even *price*! Price discussion posted elsewhere in the subreddit will **continue to be removed.** As always, be constructive. - [Subreddit Rules](https://www.reddit.com/r/ethereum/about/rules/) Want to stake? Learn more at r/ethstaker **Community Links** * [Ethereum Jobs](https://ethereum.org/en/community/get-involved/#ethereum-jobs), [Twitter](https://x.com/ethereum) * [EVMavericks YouTube](https://www.youtube.com/@evmavericks), [Discord](https://discord.gg/evmavericks), [Doots Podcast](https://evmavericks.libsyn.com/) * [Doots Website](https://dailydoots.com/), Old Reddit [Doots Extension](https://github.com/etheralpha/ethfinance-extension) by u/hanniabu Calendar: [https://dailydoots.com/events/\](https://dailydoots.com/events/)
 
-10h ago
+11h ago
+
+---
+
+**[WARNING: Aerodrome's CLGauge have an Integration Trap - Lost $2k due to incomplete ERC-721 implementation](https://www.reddit.com/r/ethereum/comments/1sjjq2i/warning_aerodromes_clgauge_have_an_integration/)**
+
+I permanently lost $2,000 USD value trying to stake via direct contract interaction on Aerodrome. The CLGauge contract accepts safeTransferFrom via the onERC721Received hook but silently fails to update the staking state, creating a black hole for assets. I’m sharing this to warn other developers and integrators building on top of Aerodrome (Base chain), and hopefully get the attention of the Core Team or the Emergency Council, since standard Discord support just gave me the "contracts are immutable" playbook. Recently, I performed a safeTransferFrom (as a fallback to approve and deposit) directly to the Aerodrome Gauge (0x83e2E9493996651ed63033d81f5052cBE2fEB6A1). The transaction was mathematically and technically successful on-chain because the Gauge contract explicitly implements the IERC721Receiver interface. However, this is where the integration trap lies: While the contract gladly accepted physical custody of my NFT position, it completely failed to trigger the internal logic to update the _stakes mapping and the rewardGrowth snapshots. The Reality: By exposing the receiver hook without the corresponding push-based deposit logic, Aerodrome's contract signals false compatibility. It creates a critical state mismatch: the Gauge owns the NFT, but my wallet is no longer recognized as the owner, meaning I can neither call deposit() nor withdraw(). Has any other developer encountered this problem?
+
+3m ago
 
 ---
 
 **[Is the "Crypto Purge" at Twitter simply an algorithm glitch—or a massive Conflict of Interest?](https://www.reddit.com/r/ethereum/comments/1sjf56t/is_the_crypto_purge_at_twitter_simply_an/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -138,14 +146,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[What Is ADI Chain? The Blockchain Behind Predictstreet](https://www.reddit.com/r/ethereum/comments/1sgkyvr/what_is_adi_chain_the_blockchain_behind/)**
-
-The Ethereum Layer 2 powering Predictstreet. Built by Abu Dhabi's IHC, hosting a UAE central-bank-licensed stablecoin, with BlackRock and Mastercard as collaborators.
-
-🔗 [Company Gibraltar | company.gi](https://company.gi/blog/adi-chain-explained) • 3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -154,7 +154,7 @@ The Ethereum Layer 2 powering Predictstreet. Built by Abu Dhabi's IHC, hosting a
 
 The Ether Machine terminates its SPAC merger with Dynamix, citing unfavorable market conditions amid ETH's sharp decline from its 2025 highs.
 
-BeInCrypto • 20h ago
+BeInCrypto • 21h ago
 
 ---
 
@@ -162,7 +162,7 @@ BeInCrypto • 20h ago
 
 @Etherdude 1166 Views|1 Like
 
-Moomoo • 1h ago
+Moomoo • 2h ago
 
 ---
 
@@ -174,17 +174,17 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Ethereum Is About To Go ‘Parabolic’ – Analyst Signals Golden Triangle Formation](https://www.tradingview.com/news/newsbtc:237f5e313094b:0-ethereum-is-about-to-go-parabolic-analyst-signals-golden-triangle-formation/)**
+**[Ethereum price prediction: sending mixed signals as ETH ETF inflows rise](https://www.tradingview.com/news/invezz:50b4ccd0c094b:0-ethereum-price-prediction-sending-mixed-signals-as-eth-etf-inflows-rise/)**
 
-An analyst on X has made a bold call on Ethereum, stating that the asset is on the verge of a parabolic move. The claim is based on a golden triangle formation on the chart, a setup that shows a breakout could be approaching for the leading altcoin. This approaching breakout could also serve as the…
+Ethereum price has risen in the past few days, helped by the ongoing exchange-traded funds (ETF) inflows and the recently announced US-Iran ceasefire. ETH token was trading at $2,220 on Sunday, up by 30% from its lowest level this year.Ethereum price is sending mixed signals The three-day chart sho…
 
-TradingView — Track All Markets • 20h ago
+TradingView — Track All Markets • 10h ago
 
 ---
 
-**[Weekly recap of Bitcoin, Ethereum, Solana, and XRP ETF performance](https://ambcrypto.com/weekly-recap-of-bitcoin-ethereum-solana-and-xrp-etf-performance/)**
+**[Is Ethereum truly undervalued? Strong on-chain growth says yes, but…](https://ambcrypto.com/is-ethereum-truly-undervalued-strong-on-chain-growth-says-yes-but/)**
 
-AMBCrypto • 5h ago
+AMBCrypto • 1h ago
 
 ---
 
@@ -192,13 +192,15 @@ AMBCrypto • 5h ago
 
 Ethereum is currently 55% below its all-time high as U.S.-Iran tensions escalate. The likelihood of Ethereum exceeding key April price targets has dropped, with
 
-Crypto Briefing • 10h ago
+Crypto Briefing • 11h ago
 
 ---
 
-**[Most large cryptocurrencies fall as Ethereum tumbles](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-as-ethereum-tumbles-91a2f421-9307bc266dcb)**
+**[Why is Crypto Rallying Today: Price Targets For Bitcoin, Ethereum and XRP](https://coinpedia.org/news/why-is-crypto-rallying-price-targets-for-bitcoin-ethereum-and-xrp/)**
 
-MarketWatch • 3d ago
+The crypto market has rebounded, with Bitcoin rising 10% over the last eight days and Ethereum up 12% in the same period. The total market cap is now up
+
+Coinpedia • 2d ago
 
 ---
 
@@ -210,11 +212,9 @@ Seeking Alpha • 2d ago
 
 ---
 
-**[Why is Crypto Rallying Today: Price Targets For Bitcoin, Ethereum and XRP](https://coinpedia.org/news/why-is-crypto-rallying-price-targets-for-bitcoin-ethereum-and-xrp/)**
+**[Ethereum or Solana: Ethereum (ETH), Solana (SOL), and Pepeto, Which One Should You Buy During the Dip in 2026](https://financefeeds.com/ethereum-or-solana-ethereum-eth-solana-sol-and-pepeto-which-one-should-you-buy-during-the-dip-in-2026/)**
 
-The crypto market has rebounded, with Bitcoin rising 10% over the last eight days and Ethereum up 12% in the same period. The total market cap is now up
-
-Coinpedia • 2d ago
+FinanceFeeds • 10h ago
 
 ---
 
@@ -246,7 +246,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 22K • 👍 672 • 💬 95 • ⏱️ 19:27 • 23h ago
+👁️ 22K • 👍 672 • 💬 95 • ⏱️ 19:27 • 1d ago
 
 ---
 
@@ -256,7 +256,7 @@ Ethereum has completed a five wave move up from the March lows – a critical El
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 175 • 💬 18 • ⏱️ 9:19 • 14h ago
+👁️ 3K • 👍 175 • 💬 18 • ⏱️ 9:19 • 15h ago
 
 ---
 
@@ -266,7 +266,7 @@ join my social platforms for updates and analysis ✓Instagram: ...
 
 📺 Aryan trader Live
 
-👁️ 3K • 👍 4K • 1h ago
+👁️ 3K • 👍 4K • 2h ago
 
 ---
 
@@ -276,7 +276,7 @@ BITCOIN PRICE SQUEEZE: Final Warning (Urgent)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 8K • 👍 308 • 💬 266 • ⏱️ 22:15 • 17h ago
+👁️ 8K • 👍 308 • 💬 266 • ⏱️ 22:15 • 18h ago
 
 ---
 
@@ -286,7 +286,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 156 • 👍 9 • 💬 3 • ⏱️ 4:41 • 6h ago
+👁️ 156 • 👍 9 • 💬 3 • ⏱️ 4:41 • 7h ago
 
 ---
 
@@ -296,7 +296,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 171 • 👍 33 • ⏱️ 5:19 • 39m ago
+👁️ 171 • 👍 33 • ⏱️ 5:19 • 1h ago
 
 ---
 
@@ -316,7 +316,7 @@ Phone number : 8638229734 , 6000311798 To Trade with me Together Open Account he
 
 📺 FinLAB
 
-👁️ 126 • 👍 955 • 23m ago
+👁️ 126 • 👍 955 • 1h ago
 
 ---
 
