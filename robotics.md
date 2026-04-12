@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-12T19:39:46.837061+00:00'
+updated: '2026-04-12T20:38:17.184795+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 12, 2026 at 19:39 UTC  
+**Last Updated:** April 12, 2026 at 20:38 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,13 @@ Robotics research and industry news
 
 **[Somewhere in Poland](https://www.reddit.com/r/robotics/comments/1sjhnd1/somewhere_in_poland/)**
 
-4h ago
+5h ago
+
+---
+
+**[massive robotic hand that produce up to11000 pound force.](https://www.reddit.com/r/robotics/comments/1sjmxyz/massive_robotic_hand_that_produce_up_to11000/)**
+
+1h ago
 
 ---
 
@@ -42,7 +48,7 @@ Robotics research and industry news
 
 Hi everyone! I've been developing the LS3 BostonDynamics Mini quadruped for a while now. The goal was to create a modular, 3D-printable frame that can carry a Raspberry Pi. It’s still a work in progress, but the mechanical assembly is finally done! I'm happy to discuss the kinematics or electronics if anyone is interested!
 
-11h ago
+12h ago
 
 ---
 
@@ -50,7 +56,7 @@ Hi everyone! I've been developing the LS3 BostonDynamics Mini quadruped for a wh
 
 Technical blog post with multiple videos: https://generalistai.com/blog/apr-02-2026-GEN-1
 
-9h ago
+10h ago
 
 ---
 
@@ -68,19 +74,19 @@ After more than two years of solo development, I'm releasing v1.0 of the Bimo Ro
 
 ---
 
-**[Has anyone else pivoted from robotics to physics simulation development? Currently on the fence.](https://www.reddit.com/r/robotics/comments/1sjexfr/has_anyone_else_pivoted_from_robotics_to_physics/)**
-
-This is more of a rant for me to verbalize my thoughts. Feel free to add your input, especially if you have been in my shoes before! I am a robotics engineer specialising in controls, but more or less doing a bit of everything, from computer vision, planning and controls to CAD. From the time I was still a student, I was always fascinated by both control theory and physics simulations, and I was always on the fence with choosing one or the other as a career path. In the end, I chose robotics as my job for the last 2 years. As of late, I am having second thoughts about my career choice. Here are some of the reasons that lead me to leave robotics. Both of the companies I have worked for were very startup minded, forcing me to work long hours either directly (deadlines) or indirectly (so that I can learn and become competitive). I am scared this is the case with most robotics companies in my immediate area. I am not really into hardware-focused jobs. Both of the robotics roles I have worked in had lots of travel during deployments, and it's a huge stress for me every time because lots of things can and do go wrong. I do not feel content when I solve a problem that has been puzzling me for days/weeks. Instead I am just stressed about the next one. The more I use ROS, the more I grow tired of it. Whereas, whenever I work on plain C++ CMake projects I get a sigh of relief. I understand that a lot packages and their inter communication make my life much much easier (eg. ros2_control, moveit2, etc), but the inertia I feel when using ROS has never gone completely away. It is a skill issue, I know, but I do not feel as motivated to get better at it compared to other skills I have learned. Now, I realize robotics is a field that will experience more booms in the next years, so leaving it even temporarily seems like a bad move on my part. Having said that, here are the reasons I am considering simulation software development as a job. My undergrad thesis was a real time fluid simulator. This was my first experience working in a bigger simulation project, and I fell in love with it. I grew as a software engineer immensely, and I was exposed to a large variety of papers and algorithms on numerical methods and the current state of the art. No field has ever given me as much satisfaction and a need to "git gud" as writing physics sim codes. Robotics has never given me the same feeling. The math behind physics sims is really interesting to me. Like I can talk for hours why I like certain families of numerical methods over others, and finding a new shiny paper about a method and testing it through code is a borderline past time activity to me. I love writing C++. It is my favourite language by far, beside its pain points, and I really enjoy using it for high performance applications. I find pure software projects freeing, as everything I need is in my computer. I don't need to plan my free time and schedule around travels, and don't have to worry about drivers, closed source hardware, talking to suppliers etc. I find that a lot of the stuff I have learned in robotics transfers over to simulation software development. 3D math, discrete math, GPU acceleration, C++, data visualization etc. In my mind, If I could pivot to writing code for, say, robotics gyms, CAD finite element codes, CFD solvers etc, I would be a happy camper. Taking the time to write this post makes me all the more motivated to make the switch. I am curious if there are any like minded roboticists here sharing my thoughts!
-
-5h ago
-
----
-
 **[Found this open-source 'Pixar lamp' while procrastinating today. the engineering under the hood is actually insane for a weekend build](https://www.reddit.com/r/robotics/comments/1sj9u8y/found_this_opensource_pixar_lamp_while/)**
 
 I know we usually only post our own projects here, but i was procrastinating on my own codebase today and went down a rabbit hole looking at github repos from some 48h REDHackathon happening in shanghai right now (hosted by rednote I think? today is their demo day). tbh i mostly expected to see a bunch of hastily duct-taped openai wrappers and weekend spaghetti code. clicked on one of the hardware submissions called Mira. at first glance the picture just looks like a cute 3d-printed pixar lamp. I figured it was just a physical shell with a basic python script piping some face tracking coordinates directly to a couple servos. but looking at the actual code... the system architecture is surprisingly hardcore. They didnt just hardcode reactions. they built a full embodied interaction system. the pipeline goes from single camera input -> vision event extraction -> scene selection -> local bridge / safety layer -> ESP32 firmware. Instead of raw tracking they built a scene-based motion choreography abstraction. it interprets visual data into states like 'curious_observe', 'cute_probe', and 'standup_reminder'. The esp32 firmware isnt a toy either... it has a custom binary serial protocol, touch thresholds, and ack/err handling. they even built offline rehearsal scripts, fault injection, and a web director console so they could test the logic without the physical hardware glitching out on stage. Most ai right now just sits in a chat window waiting for a prompt. this thing is trying to actually notice your presence in a physical space and respond with body language and light rhythms before you even say a word. idk, seeing hardware prototypes with this level of release-oriented engineering come out of a 48h builder camp makes me feel pretty lazy today lol. its just a stark reminder that the next phase of ai probably isnt going to be on a screen, but actually sitting on our desks observing us. anyway just thought id share something cool that isnt another b2b saas wrapper. repo if anyone wants to look at the c++ / esp32 logic (not mine obviously): github.com/JunkaiWang-TheoPhy/Mira-Light-AI-That-Sees-You
 
-10h ago
+11h ago
+
+---
+
+**[GIL (General Intelligence Layer)](https://www.reddit.com/r/robotics/comments/1sjnx41/gil_general_intelligence_layer/)**
+
+Hello everyone, a few months ago i had this idea of a layer that helps Robis unterstand the world. with the Help of a few tools that are generalized an AI Agent can steer any Robot and the engineers only need to change the control layer. I open sourced the whole thing and sat together with universities in switzerland as well as robotic companies in europe. All of them are very interested to make this happen and i will continue to sit together with them to make this project happen. If you are interested as well feel free to clone it and try it out 😇 I have opened the Github Repo to the Public for research use. If you have Questions feel free to ask, i will post more infos in the Comments.
+
+🔗 [GitHub](https://github.com/beyondExp/GIL) • 1h ago
 
 ---
 
@@ -88,13 +94,7 @@ I know we usually only post our own projects here, but i was procrastinating on 
 
 PNP Robotics: Haptic Teleoperation for data collection. At the Embodied AI Conference, we’re excited to showcase our integration of the Haply Inverse3 haptic joystick with Franka robots, enabling real-time pose control and immersive haptic feedback for intuitive teleoperation. EmbodiedAI #HapticTeleoperation #Franka #Haply #Robotics #Teleoperation
 
-14h ago
-
----
-
-**[massive robotic hand that produce up to11000 pound force.](https://www.reddit.com/r/robotics/comments/1sjmxyz/massive_robotic_hand_that_produce_up_to11000/)**
-
-50m ago
+15h ago
 
 ---
 
@@ -118,11 +118,11 @@ The University of Texas at Austin • 3d ago
 
 ---
 
-**[Hidden in plain sight: Robots reveal ‘shipwreck city’ below the surface of a Washington lake](https://www.10tv.com/article/news/nation-world/robotics-underwater-detection-shipwrecks-sonar-survey-remote-operated-vehicle-washington-lake-union/507-d5e09930-31c1-491f-8c8b-01f9fcbba5b8)**
+**[Unitree’s H1 robot hits 10 m/s sprint speed, getting close to Usain Bolt’s 100m world record](https://www.globaltimes.cn/page/202604/1358712.shtml)**
 
-'Shipwreck city': A high-tech survey has found dozens of possible wrecks in Washington state, with robotics capturing images in areas too dangerous for divers.
+Chinese robotics startup Unitree Robotics released a video on Saturday showing its H1 robot reached a sprint speed of up to 10 meters per second, noting that the humanoid robot broke the world record again.
 
-10TV • 1h ago
+Global Times • 10h ago
 
 ---
 
@@ -130,15 +130,7 @@ The University of Texas at Austin • 3d ago
 
 40 teams battled during the two-day district qualifiers at Escanaba High School.
 
-Upper Michigan's Source • 22h ago
-
----
-
-**[Unitree’s H1 robot hits 10 m/s sprint speed, getting close to Usain Bolt’s 100m world record](https://www.globaltimes.cn/page/202604/1358712.shtml)**
-
-Chinese robotics startup Unitree Robotics released a video on Saturday showing its H1 robot reached a sprint speed of up to 10 meters per second, noting that the humanoid robot broke the world record again.
-
-Global Times • 9h ago
+Upper Michigan's Source • 23h ago
 
 ---
 
@@ -147,6 +139,14 @@ Global Times • 9h ago
 In his annual letter to shareholders, Jassy shares how robotics, faster rural delivery, and broadband connectivity for underserved customers and geographies will help improve the customer experience.
 
 About Amazon • 2d ago
+
+---
+
+**[Hidden in plain sight: Robots reveal ‘shipwreck city’ below the surface of a Washington lake](https://www.10tv.com/article/news/nation-world/robotics-underwater-detection-shipwrecks-sonar-survey-remote-operated-vehicle-washington-lake-union/507-d5e09930-31c1-491f-8c8b-01f9fcbba5b8)**
+
+'Shipwreck city': A high-tech survey has found dozens of possible wrecks in Washington state, with robotics capturing images in areas too dangerous for divers.
+
+10TV • 2h ago
 
 ---
 
@@ -162,7 +162,7 @@ The Washington Post • 2d ago
 
 <p>PLAINS TWP. — It was a celebration of robotics on Saturday as regional schools gathered at Wilkes-Barre Area High School for Wolfpack Robotics’ second Robo Rally.</p>
 
-Times Leader • 19h ago
+Times Leader • 20h ago
 
 ---
 
@@ -170,7 +170,7 @@ Times Leader • 19h ago
 
 Meet 'Digit', a humanoid robotic worker made by Agility Robotics, now part of a new wave of robots replacing workers at companies like Schaeffler, Toyota, and GXO. NBC News' Brian Cheung takes a look.
 
-NBC News • 2d ago
+NBC News • 3d ago
 
 ---
 
@@ -196,7 +196,7 @@ Try Seedance 2.0 with Claude on Higgsfield: https://higgsfield.ai/s/seedance-2-0
 
 📺 AI Revolution
 
-👁️ 50K • 👍 973 • 💬 146 • ⏱️ 14:57 • 20h ago
+👁️ 50K • 👍 973 • 💬 146 • ⏱️ 14:57 • 21h ago
 
 ---
 
@@ -206,7 +206,7 @@ Go to https://www.artwine.com to get your limited bottle of Ukrainian sparkling 
 
 📺 Paul Warburg
 
-👁️ 153K • 👍 15K • 💬 1K • ⏱️ 31:17 • 15h ago
+👁️ 153K • 👍 15K • 💬 1K • ⏱️ 31:17 • 16h ago
 
 ---
 
@@ -274,7 +274,7 @@ I've been to CES (Las Vegas, Nevada), World Robot Conference (Beijing, China), a
 
 📺 Automatic Addison
 
-👁️ 1K • 👍 41 • 💬 8 • ⏱️ 1:38 • 6h ago
+👁️ 1K • 👍 41 • 💬 8 • ⏱️ 1:38 • 7h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-12T19:39:46.834133+00:00'
+updated: '2026-04-12T20:38:17.181944+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
+- social
 - news
 - cryptocurrency
-- social
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 12, 2026 at 19:39 UTC  
+**Last Updated:** April 12, 2026 at 20:38 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,200.87
+### $2,202.79
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -4.7%  
-**7d:** +4.7%  
-**30d:** +5.1%  
-**90d:** -33.6%  
-**1y:** +38.0%  
+**24h:** -4.2%  
+**7d:** +4.5%  
+**30d:** +5.0%  
+**90d:** -33.7%  
+**1y:** +37.8%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 **Welcome to the Daily General Discussion on** r/ethereum [https://imgur.com/3y7vezP\](https://imgur.com/3y7vezP) Bookmarking this link will always bring you to the current daily: [https://old.reddit.com/r/ethereum/about/sticky/?num=2\](https://old.reddit.com/r/ethereum/about/sticky/?num=2) Please use this thread to discuss Ethereum topics, news, events, and even *price*! Price discussion posted elsewhere in the subreddit will **continue to be removed.** As always, be constructive. - [Subreddit Rules](https://www.reddit.com/r/ethereum/about/rules/) Want to stake? Learn more at r/ethstaker **Community Links** * [Ethereum Jobs](https://ethereum.org/en/community/get-involved/#ethereum-jobs), [Twitter](https://x.com/ethereum) * [EVMavericks YouTube](https://www.youtube.com/@evmavericks), [Discord](https://discord.gg/evmavericks), [Doots Podcast](https://evmavericks.libsyn.com/) * [Doots Website](https://dailydoots.com/), Old Reddit [Doots Extension](https://github.com/etheralpha/ethfinance-extension) by u/hanniabu Calendar: [https://dailydoots.com/events/\](https://dailydoots.com/events/)
 
-14h ago
+15h ago
 
 ---
 
@@ -80,19 +80,19 @@ No max supply
 
 I permanently lost $2,000 USD value trying to stake via direct contract interaction on Aerodrome. The CLGauge contract accepts safeTransferFrom via the onERC721Received hook but silently fails to update the staking state, creating a black hole for assets. I’m sharing this to warn other developers and integrators building on top of Aerodrome (Base chain), and hopefully get the attention of the Core Team or the Emergency Council, since standard Discord support just gave me the "contracts are immutable" playbook. Recently, I performed a safeTransferFrom (as a fallback to approve and deposit) directly to the Aerodrome Gauge (0x83e2E9493996651ed63033d81f5052cBE2fEB6A1). The transaction was mathematically and technically successful on-chain because the Gauge contract explicitly implements the IERC721Receiver interface. However, this is where the integration trap lies: While the contract gladly accepted physical custody of my NFT position, it completely failed to trigger the internal logic to update the _stakes mapping and the rewardGrowth snapshots. The Reality: By exposing the receiver hook without the corresponding push-based deposit logic, Aerodrome's contract signals false compatibility. It creates a critical state mismatch: the Gauge owns the NFT, but my wallet is no longer recognized as the owner, meaning I can neither call deposit() nor withdraw(). Has any other developer encountered this problem?
 
-2h ago
+3h ago
 
 ---
 
 **[World Liberty Financial borrowed its own stablecoin against its own token on a platform run by its own advisor and Justin Sun (WLFI biggest investor) just called it fraud.](https://www.reddit.com/r/ethereum/comments/1sjkjuc/world_liberty_financial_borrowed_its_own/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Is the "Crypto Purge" at Twitter simply an algorithm glitch—or a massive Conflict of Interest?](https://www.reddit.com/r/ethereum/comments/1sjf56t/is_the_crypto_purge_at_twitter_simply_an/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -156,14 +156,6 @@ BeInCrypto • 1d ago
 
 ---
 
-**[$Ethereum (ETH.CC)$](https://www.moomoo.com/community/feed/ethereum-eth-cc-116392149581830)**
-
-@Etherdude 1166 Views|1 Like
-
-Moomoo • 5h ago
-
----
-
 **[TD Cuts Bitcoin Giant Strategy's Price Target, Calls Ethereum Treasury Sharplink a ‘Buy’](https://finance.yahoo.com/markets/crypto/articles/td-cuts-bitcoin-giant-strategys-220921727.html)**
 
 TD Cowen remains positive on $55 billion Bitcoin treasury pioneer Strategy, despite trimming its price target yet again.
@@ -176,19 +168,21 @@ Yahoo Finance • 2d ago
 
 Ethereum price has risen in the past few days, helped by the ongoing exchange-traded funds (ETF) inflows and the recently announced US-Iran ceasefire. ETH token was trading at $2,220 on Sunday, up by 30% from its lowest level this year.Ethereum price is sending mixed signals The three-day chart sho…
 
-TradingView — Track All Markets • 12h ago
+TradingView — Track All Markets • 13h ago
 
 ---
 
 **[Weekly recap of Bitcoin, Ethereum, Solana, and XRP ETF performance](https://ambcrypto.com/weekly-recap-of-bitcoin-ethereum-solana-and-xrp-etf-performance/)**
 
-AMBCrypto • 8h ago
+AMBCrypto • 9h ago
 
 ---
 
-**[Most large cryptocurrencies fall as Ethereum tumbles](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-as-ethereum-tumbles-91a2f421-9307bc266dcb)**
+**[Ethereum struggles amid US-Iran tensions, April price targets in doubt](https://cryptobriefing.com/ethereum-struggles-amid-us-iran-tensions-april-price-targets-in-doubt/)**
 
-MarketWatch • 3d ago
+Ethereum is currently 55% below its all-time high as U.S.-Iran tensions escalate. The likelihood of Ethereum exceeding key April price targets has dropped, with
+
+Crypto Briefing • 15h ago
 
 ---
 
@@ -197,14 +191,6 @@ MarketWatch • 3d ago
 Bitmine Immersion's hybrid model combines large-scale ETH holdings, with MAVAN projected to generate $300 million annually. Learn why BMNR stock is a strong buy.
 
 Seeking Alpha • 2d ago
-
----
-
-**[Ethereum struggles amid US-Iran tensions, April price targets in doubt](https://cryptobriefing.com/ethereum-struggles-amid-us-iran-tensions-april-price-targets-in-doubt/)**
-
-Ethereum is currently 55% below its all-time high as U.S.-Iran tensions escalate. The likelihood of Ethereum exceeding key April price targets has dropped, with
-
-Crypto Briefing • 14h ago
 
 ---
 
@@ -218,7 +204,21 @@ Coinpedia • 2d ago
 
 **[Ethereum or Solana: Ethereum (ETH), Solana (SOL), and Pepeto, Which One Should You Buy During the Dip in 2026](https://financefeeds.com/ethereum-or-solana-ethereum-eth-solana-sol-and-pepeto-which-one-should-you-buy-during-the-dip-in-2026/)**
 
-FinanceFeeds • 13h ago
+FinanceFeeds • 14h ago
+
+---
+
+**[Ethereum Price Forecast: Increased derivatives demand spurred ETH's rise after US-Iran ceasefire](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-increased-derivatives-demand-spurred-eths-rise-after-us-iran-ceasefire-202604110553)**
+
+Ethereum (ETH) saw major improvements across key onchain metrics after the US-Iran ceasefire announcement on Tuesday, according to a CryptoQuant analysis. The top altcoin rose by 6% within 24 hours following the move, its largest single-day gain in more than a month.
+
+FXStreet • 1d ago
+
+---
+
+**[Most large cryptocurrencies fall as Ethereum tumbles](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-fall-as-ethereum-tumbles-91a2f421-9307bc266dcb)**
+
+MarketWatch • 3d ago
 
 ---
 
@@ -232,7 +232,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 1K • 👍 90 • 💬 108 • ⏱️ 10:57 • 6h ago
+👁️ 1K • 👍 90 • 💬 108 • ⏱️ 10:57 • 7h ago
 
 ---
 
@@ -252,7 +252,7 @@ Freedom is a minimalist browser for Swarm and IPFS. No centralized gateways. You
 
 📺 Paul Barron Network
 
-👁️ 7K • 👍 687 • 💬 86 • ⏱️ 18:02 • 3h ago
+👁️ 7K • 👍 687 • 💬 86 • ⏱️ 18:02 • 4h ago
 
 ---
 
@@ -262,7 +262,7 @@ Ethereum has completed a five wave move up from the March lows – a critical El
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 181 • 💬 19 • ⏱️ 9:19 • 18h ago
+👁️ 3K • 👍 181 • 💬 19 • ⏱️ 9:19 • 19h ago
 
 ---
 
@@ -272,7 +272,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 528 • 👍 75 • ⏱️ 5:19 • 4h ago
+👁️ 528 • 👍 75 • ⏱️ 5:19 • 5h ago
 
 ---
 
@@ -282,7 +282,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 213 • 👍 10 • 💬 3 • ⏱️ 4:41 • 10h ago
+👁️ 213 • 👍 10 • 💬 3 • ⏱️ 4:41 • 11h ago
 
 ---
 
@@ -292,7 +292,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 221 • 💬 27 • ⏱️ 15:02 • 1d ago
+👁️ 5K • 👍 221 • 💬 27 • ⏱️ 15:02 • 2d ago
 
 ---
 
@@ -312,7 +312,7 @@ BMNR Next Week Price Action Forecast | Detailed Analysis with Ethereum Price Act
 
 📺 Smart Stock Sam
 
-👁️ 99 • 👍 10 • 💬 4 • ⏱️ 14:47 • 2h ago
+👁️ 99 • 👍 10 • 💬 4 • ⏱️ 14:47 • 3h ago
 
 ---
 
