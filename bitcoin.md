@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-12T20:38:17.176720+00:00'
+updated: '2026-04-12T21:36:33.042685+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- social
 - news
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 12, 2026 at 20:38 UTC  
+**Last Updated:** April 12, 2026 at 21:36 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1423.93B
+**Market Cap:** $1426.49B
 Rank #1
 
-**Circulating Supply:** 20,014,884 BTC
+**Circulating Supply:** 20,014,918 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--43.6%
+-43.5%
 
 **All-Time Low:** $67.81
-+104825.5%
++105004.0%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Iran Enforces Bitcoin as the Only Means to Pay Toll on Strait of Hormuz](https://www.reddit.com/r/Bitcoin/comments/1sjd9qb/iran_enforces_bitcoin_as_the_only_means_to_pay/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -91,13 +91,13 @@ Rank #1
 
 **[Never "download" your Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1sjanj9/never_download_your_bitcoin/)**
 
-10h ago
+11h ago
 
 ---
 
 **[Mining bitcoin in Oklahoma oilfields where waste gas isn't a liability. It is turned into productive energy instead 🎬](https://www.reddit.com/r/Bitcoin/comments/1sjif4k/mining_bitcoin_in_oklahoma_oilfields_where_waste/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -113,13 +113,13 @@ Iran’s Strait of Hormuz Management Plan, passed in late March 2026, mandates B
 
 Just a quick heads up for anyone waking up tomorrow and wondering why crypto dipped again. The US–Iran meeting that’s been going on for the past 21 hours just ended, and it didn’t go well at all. Markets usually react fast to stuff like this, so if your portfolio looks red, that’s probably the reason. Not trying to spread fear, just giving you a bit of context so you’re not confused when you check your wallet. Stay safe out there guys and DO NOT PANIC-SELL based on emotions. Do your own research and don’t make decisions based on short-term news. Sooner or later we'll fly in green again (i hope😅)
 
-14h ago
+15h ago
 
 ---
 
 **[Genesis block newspaper going to auction](https://www.reddit.com/r/Bitcoin/comments/1sjjs57/genesis_block_newspaper_going_to_auction/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -127,7 +127,7 @@ Just a quick heads up for anyone waking up tomorrow and wondering why crypto dip
 
 Everything else is an IOU. thank you for attending my Sunday Bitcoin Talk.
 
-4h ago
+5h ago
 
 ---
 
@@ -135,7 +135,7 @@ Everything else is an IOU. thank you for attending my Sunday Bitcoin Talk.
 
 EDIT: Removed the 95% stack retention claim. That number was wrong. The core SWR finding ($20K/yr, 99% survival, 30 years) stands. Thanks to commenters who caught it. This is the third post in the series. First one covered why 5 BTC beats $2.5M in an S&P index fund, second one went deeper on the math. I went another layer deeper and this one gives you a single number. 1 BTC = $20K per year safe withdrawals for the next 30 years with 99% confidence. 2 BTC = $40K. 3 BTC = $60K. 5 BTC = $100K. No timing. No trading. You just sell a fixed dollar amount every month at whatever price Bitcoin happens to be. Dumbest possible strategy and it works. How I got here I ran 5,000 simulated price paths forward at every possible starting price between deep bear (half of trend) and peak bull (2.5x trend). Six different stress scenarios. Three time horizons. Nearly a million total simulations. The model isn't a line on a chart. It has four moving parts: A power law trend that decelerates over decades. No infinite-growth fairy tales. A price floor at 0.432x trend. Tested every cycle. Never broken. Reflects back up. Mean reversion. Prices that stretch away from the long-term trend get pulled back, like a rubber band. Measured half-life: about 11 months. Fat-tailed shocks and a wobbly floor in the stress scenarios, because I wanted to break it. I couldn't. $20K is the stress test, not the base case The $20K number assumes your cost of living grows at 7% per year. Your expenses double every decade. That matches M2 money supply growth, which is what most Bitcoiners mean when they say "real inflation." Under milder assumptions the number goes up: 3% CPI: $25-27K per BTC per year No inflation growth: $27-31K per BTC per year $20K is the floor of the floor. Harshest inflation assumption. 99% in-model survival. 30 year horizon. Entry price doesn't matter This is the finding that surprised me most. At 30 years, the difference in safe withdrawal between buying at the bottom and buying at the top is about $1,000 per year. The curves are almost flat. The reason is mean reversion. If you buy low, prices pull you back to trend within about two years. If you buy high, same thing in reverse. After that, both buyers spend the remaining 28 years selling into the same price distribution. The early advantage or disadvantage washes out. This is the opposite of stocks. In equity retirement planning, buying at a high valuation crushes your safe withdrawal rate. With Bitcoin under the power law, it doesn't. Mean reversion rescues bear buyers and humbles bull buyers, and the net effect on your wallet is roughly zero. The comparison that matters The traditional 4% rule says you need $500K in an S&P 500 index fund to safely pull $20K per year. One bitcoin at today's trend price (~$131K) does the same job. At bear entries the comparison gets silly. A bitcoin bought at 0.52x trend (~$69K) supports a 29% annual withdrawal rate relative to purchase price. The Bengen 4% rule doesn't compete. It's not even the same sport. What this is NOT saying This is a model. The power law has held for 15 years across four complete halving cycles. That's real data. But 15 years is not 150 years. I price the model risk separately: roughly a 1% structural haircut over 30 years. That brings true survival from 99% to about 98%. The question isn't whether Bitcoin will crash 80%. The model already handles that. The question is whether adoption keeps following the power law and whether the floor holds. Those are the only two things that matter. Everything else is already in the stress test. All figures are pre-tax. Account for your local capital gains treatment when planning actual spendable income. Bottom line 1 BTC = $20K per year. Worst case inflation. Any entry price. 99% in-model reliability. 30 years. Stack accordingly. Research and methodology is published on https://btcpowerlaw.nl/research/bitcoin-swr/
 
-7h ago
+8h ago
 
 ---
 
@@ -143,7 +143,7 @@ EDIT: Removed the 95% stack retention claim. That number was wrong. The core SWR
 
 In 2018 the Cash App website let you buy a children's book "My First Bitcoin and the Legend of Satoshi Nakamoto". Does anyone know where you can still get copies of this?
 
-3h ago
+4h ago
 
 ---
 
@@ -153,7 +153,7 @@ In 2018 the Cash App website let you buy a children's book "My First Bitcoin and
 
 **[Bitcoin Price Suddenly Braced For Critical Week As U.S. Treasury Secretary Fuels Huge $1.5 Quadrillion Crypto Prediction](https://www.forbes.com/sites/digital-assets/2026/04/12/us-treasury-secretary-fuels-huge-15-quadrillion-crypto-prediction-as-the-bitcoin-price-suddenly-soars/)**
 
-Forbes • 8h ago
+Forbes • 9h ago
 
 ---
 
@@ -169,19 +169,19 @@ CoinDesk • 1d ago
 
 MicroStrategy reveals 2.05% annual Bitcoin growth could fund all STRC preferred stock dividends indefinitely.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[US-Iran Talks End With No Deal, Bitcoin Slumps in Potential Stock Market Preview](https://www.barrons.com/articles/us-iran-talks-end-bitcoin-stocks-b130c8db)**
 
-Barron's • 16h ago
+Barron's • 17h ago
 
 ---
 
 **[Why is quantum computing seen as a challenge to Bitcoin?](https://www.investing.com/news/economy-news/why-is-quantum-computing-seen-as-a-challenge-to-bitcoin-4609025)**
 
-Investing.com • 14h ago
+Investing.com • 15h ago
 
 ---
 
@@ -189,7 +189,7 @@ Investing.com • 14h ago
 
 Everyone's talking about Bitcoin ETFs. Almost nobody is talking about this bigger shift in how money moves on digital rails.
 
-The Motley Fool • 23h ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -201,7 +201,7 @@ The New York Times • 3d ago
 
 **[Software stocks are getting pulverized — but bitcoin’s rebound hints that a bottom might be in](https://www.marketwatch.com/story/software-stocks-are-getting-pulverized-but-bitcoins-rebound-hints-that-a-bottom-might-be-in-512baac7)**
 
-MarketWatch • 1d ago
+MarketWatch • 2d ago
 
 ---
 
@@ -209,7 +209,7 @@ MarketWatch • 1d ago
 
 According to market analyst Darkfost, Bitcoin’s price-based supply distribution is revealing critical zones that could define the asset’s near-term trajectory. This latest piece of important on-chain data is offering a clearer picture of where the market may be headed next, following the positive p…
 
-TradingView — Track All Markets • 4h ago
+TradingView — Track All Markets • 5h ago
 
 ---
 
@@ -217,7 +217,7 @@ TradingView — Track All Markets • 4h ago
 
 Talks aimed at easing U.S.-Iran tensions ended without a breakthrough, keeping markets on edge.
 
-thestreet.com • 10h ago
+thestreet.com • 11h ago
 
 ---
 
@@ -251,7 +251,7 @@ Country’s oil exporters’ union says toll to be paid in cryptocurrency and ve
 
 Neha Narula
 
-⬆️ 169 • 💬 138 • 4d ago • [nehanarula.org](https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html)
+⬆️ 169 • 💬 138 • 5d ago • [nehanarula.org](https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html)
 
 ---
 
@@ -267,7 +267,7 @@ The British computer scientist and entrepreneur has denied being the man who the
 
 Arkham data shows 8,285 BTC in Coinbase Prime custody as the company swings from $8 billion profit to nearly $5 billion loss ahead of its IPO push.
 
-⬆️ 14 • 💬 7 • 4h ago • [coindesk.com](https://www.coindesk.com/markets/2026/04/11/musk-s-spacex-holds-usd603-million-in-bitcoin-despite-usd5-billion-loss-stemming-from-xai)
+⬆️ 14 • 💬 7 • 5h ago • [coindesk.com](https://www.coindesk.com/markets/2026/04/11/musk-s-spacex-holds-usd603-million-in-bitcoin-despite-usd5-billion-loss-stemming-from-xai)
 
 ---
 
@@ -289,7 +289,7 @@ A three-part deep dive into quantum computing's actual threat to Bitcoin. 17 res
 
 Imagine one person holding the keys to Bitcoin’s entire future. That was Satoshi—until Hal Finney, Gavin Andresen, and Wladimir van der Laan stepped in. Today’s maintainer team is more decentralized than ever… but is it enough?
 
-⬆️ 4 • 💬 0 • 8h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/print/the-core-issue-the-role-and-history-of-bitcoin-core-maintainers)
+⬆️ 4 • 💬 0 • 9h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/print/the-core-issue-the-role-and-history-of-bitcoin-core-maintainers)
 
 ---
 
@@ -303,23 +303,23 @@ Imagine one person holding the keys to Bitcoin’s entire future. That was Satos
 
 ## YouTube Videos: "bitcoin"
 
-**[Massive Bitcoin News You May Have Missed (Iran &amp; Morgan Stanley)](https://www.youtube.com/watch?v=LJKAZk9bbtI)**
-
-BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 ✓ Bitunix (no kyc, $10k bonus): ...
-
-📺 Altcoin Daily
-
-👁️ 44K • 👍 2K • 💬 254 • ⏱️ 12:09 • 1d ago
-
----
-
 **[&quot;Bitcoin Will Bottom When This Happens&quot; | Ben Cowen](https://www.youtube.com/watch?v=3KpN_F3VyRI)**
 
 Bitcoin #Crypto #Finance Ben Cowen joins me to break down why Bitcoin still looks like it's following the same midterm-year ...
 
 📺 The Wolf Of All Streets
 
-👁️ 15K • 👍 906 • 💬 455 • ⏱️ 30:53 • 7h ago
+👁️ 23K • 👍 1K • 💬 469 • ⏱️ 30:53 • 8h ago
+
+---
+
+**[Massive Bitcoin News You May Have Missed (Iran &amp; Morgan Stanley)](https://www.youtube.com/watch?v=LJKAZk9bbtI)**
+
+BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 ✓ Bitunix (no kyc, $10k bonus): ...
+
+📺 Altcoin Daily
+
+👁️ 44K • 👍 2K • 💬 178 • ⏱️ 12:09 • 1d ago
 
 ---
 
@@ -329,47 +329,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 50K • 👍 2K • 💬 16 • ⏱️ 52:49 • 1d ago
-
----
-
-**[$5M Bitcoin Incoming - There Isn’t Enough Supply](https://www.youtube.com/watch?v=1wDbhM93viE)**
-
-Support the show & help keep Bitcoin News Alerts independent - tap “Join” to become a member. Full uncensored livestream ...
-
-📺 Bitcoin News Alerts
-
-👁️ 3K • 👍 167 • 💬 111 • ⏱️ 19:15 • 22h ago
-
----
-
-**[Did Morgan Stanley Just Trigger a Bitcoin SUPPLY SHOCK? | Trillions Are Coming!](https://www.youtube.com/watch?v=QZoep8QfSqk)**
-
-Everyone is distracted by Satoshi theories while real money floods into Bitcoin. A $10 trillion asset manager just made a historic ...
-
-📺 Simply Bitcoin
-
-👁️ 27K • 👍 1K • 💬 113 • ⏱️ 10:48 • 1d ago
-
----
-
-**[Iran Just Used Bitcoin To Break US Sanctions! (Here&#39;s What Nobody Told You)](https://www.youtube.com/watch?v=fanZYr79j7A)**
-
-Three massive moves just hit Bitcoin in one week and almost nobody is talking about it. A sanctioned nation is demanding Bitcoin ...
-
-📺 Simply Bitcoin
-
-👁️ 23K • 👍 2K • 💬 253 • ⏱️ 16:43 • 1d ago
-
----
-
-**[The Exact Date Bitcoin May Bottom in 2026 (Ben Cowen Explains)](https://www.youtube.com/watch?v=lrALqzuBSHQ)**
-
-The Exact Date Bitcoin Hits Bottom in 2026? (Ben Cowen Explains) Gain Access to these charts: ...
-
-📺 Altcoin Daily
-
-👁️ 44K • 👍 2K • 💬 321 • ⏱️ 31:14 • 2d ago
+👁️ 52K • 👍 2K • 💬 16 • ⏱️ 52:49 • 1d ago
 
 ---
 
@@ -379,7 +339,47 @@ Bitcoin is sending out some SERIOUS signals right now… and almost nobody is co
 
 📺 Crypto Love
 
-👁️ 588 • 👍 122 • 💬 166 • ⏱️ 9:35 • 3h ago
+👁️ 1K • 👍 194 • 💬 234 • ⏱️ 9:35 • 4h ago
+
+---
+
+**[$5M Bitcoin Incoming - There Isn’t Enough Supply](https://www.youtube.com/watch?v=1wDbhM93viE)**
+
+Support the show & help keep Bitcoin News Alerts independent - tap “Join” to become a member. Full uncensored livestream ...
+
+📺 Bitcoin News Alerts
+
+👁️ 3K • 👍 173 • 💬 149 • ⏱️ 19:15 • 23h ago
+
+---
+
+**[Did Morgan Stanley Just Trigger a Bitcoin SUPPLY SHOCK? | Trillions Are Coming!](https://www.youtube.com/watch?v=QZoep8QfSqk)**
+
+Everyone is distracted by Satoshi theories while real money floods into Bitcoin. A $10 trillion asset manager just made a historic ...
+
+📺 Simply Bitcoin
+
+👁️ 27K • 👍 1K • 💬 113 • ⏱️ 10:48 • 2d ago
+
+---
+
+**[Iran Just Used Bitcoin To Break US Sanctions! (Here&#39;s What Nobody Told You)](https://www.youtube.com/watch?v=fanZYr79j7A)**
+
+Three massive moves just hit Bitcoin in one week and almost nobody is talking about it. A sanctioned nation is demanding Bitcoin ...
+
+📺 Simply Bitcoin
+
+👁️ 24K • 👍 2K • 💬 200 • ⏱️ 16:43 • 1d ago
+
+---
+
+**[The Exact Date Bitcoin May Bottom in 2026 (Ben Cowen Explains)](https://www.youtube.com/watch?v=lrALqzuBSHQ)**
+
+The Exact Date Bitcoin Hits Bottom in 2026? (Ben Cowen Explains) Gain Access to these charts: ...
+
+📺 Altcoin Daily
+
+👁️ 45K • 👍 2K • 💬 321 • ⏱️ 31:14 • 2d ago
 
 ---
 
@@ -389,17 +389,17 @@ Plenty of crypto newbies lost money chasing the bitcoin boom that followed Donal
 
 📺 Forbes
 
-👁️ 123K • 👍 3K • 💬 456 • ⏱️ 5:05 • 2d ago
+👁️ 127K • 👍 3K • 💬 467 • ⏱️ 5:05 • 2d ago
 
 ---
 
-**[Michael Saylor: $2M to $40M With One Simple Bitcoin Strategy](https://www.youtube.com/watch?v=BxYClOh-Mlo)**
+**[The 5 Levels of Bitcoin Wealth Explained: From 0.01 - 100, Here’s Where You Stand](https://www.youtube.com/watch?v=o-U8LsSIz1I)**
 
-Michael Saylor breaks down how dollar cost averaging $50K per year into Bitcoin turns $2M into $40M, beating conventional ...
+Today we're going to explain where you stand in the different levels of Bitcoin wealth. After ranking every level of Bitcoin wealth ...
 
-📺 Bitcoin Magazine
+📺 Luke Mikic
 
-👁️ 4K • 👍 125 • 💬 12 • ⏱️ 1:53 • 1d ago
+👁️ 3K • 👍 301 • 💬 151 • ⏱️ 24:55 • 5h ago
 
 ---
 

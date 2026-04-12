@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-12T20:38:17.184795+00:00'
+updated: '2026-04-12T21:36:33.052028+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 12, 2026 at 20:38 UTC  
+**Last Updated:** April 12, 2026 at 21:36 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Somewhere in Poland](https://www.reddit.com/r/robotics/comments/1sjhnd1/somewhere_in_poland/)**
 
-5h ago
+6h ago
 
 ---
 
 **[massive robotic hand that produce up to11000 pound force.](https://www.reddit.com/r/robotics/comments/1sjmxyz/massive_robotic_hand_that_produce_up_to11000/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -48,7 +48,7 @@ Robotics research and industry news
 
 Hi everyone! I've been developing the LS3 BostonDynamics Mini quadruped for a while now. The goal was to create a modular, 3D-printable frame that can carry a Raspberry Pi. It’s still a work in progress, but the mechanical assembly is finally done! I'm happy to discuss the kinematics or electronics if anyone is interested!
 
-12h ago
+13h ago
 
 ---
 
@@ -56,7 +56,7 @@ Hi everyone! I've been developing the LS3 BostonDynamics Mini quadruped for a wh
 
 Technical blog post with multiple videos: https://generalistai.com/blog/apr-02-2026-GEN-1
 
-10h ago
+11h ago
 
 ---
 
@@ -64,7 +64,7 @@ Technical blog post with multiple videos: https://generalistai.com/blog/apr-02-2
 
 After more than two years of solo development, I'm releasing v1.0 of the Bimo Robotics Kit. Bimo is an open-source bipedal robotics platform designed as a complete research and education kit. The core value is the full sim-to-real pipeline: you train RL locomotion models in Isaac Lab and deploy directly on the physical hardware. The v1.0 release includes: - Startup guide (zero to walking in one session) - Full MCU code for the onboard microcontroller. - Main controller board overview and pinout. - Updated Bimo API for hardware control. - Improved Isaac Lab task code for more stable sim-to-real transfer. - Pre-trained stable walking model. Turning and push recovery models are next on the Isaac Lab environment roadmap. The platform ships with a walking model as a baseline you can extend, which is kind of the point for a research kit. Check out all the details here: - Github: https://github.com/mekion/the-bimo-project - Discord: https://discord.gg/9uXsArwXHG - Mekion: https://www.mekion.com/product/ Happy to answer questions about the Isaac Lab integration, the hardware design decisions, or what it's like building this as a solo founder. Let me know what you think about the project.
 
-4h ago
+5h ago
 
 ---
 
@@ -78,7 +78,7 @@ After more than two years of solo development, I'm releasing v1.0 of the Bimo Ro
 
 I know we usually only post our own projects here, but i was procrastinating on my own codebase today and went down a rabbit hole looking at github repos from some 48h REDHackathon happening in shanghai right now (hosted by rednote I think? today is their demo day). tbh i mostly expected to see a bunch of hastily duct-taped openai wrappers and weekend spaghetti code. clicked on one of the hardware submissions called Mira. at first glance the picture just looks like a cute 3d-printed pixar lamp. I figured it was just a physical shell with a basic python script piping some face tracking coordinates directly to a couple servos. but looking at the actual code... the system architecture is surprisingly hardcore. They didnt just hardcode reactions. they built a full embodied interaction system. the pipeline goes from single camera input -> vision event extraction -> scene selection -> local bridge / safety layer -> ESP32 firmware. Instead of raw tracking they built a scene-based motion choreography abstraction. it interprets visual data into states like 'curious_observe', 'cute_probe', and 'standup_reminder'. The esp32 firmware isnt a toy either... it has a custom binary serial protocol, touch thresholds, and ack/err handling. they even built offline rehearsal scripts, fault injection, and a web director console so they could test the logic without the physical hardware glitching out on stage. Most ai right now just sits in a chat window waiting for a prompt. this thing is trying to actually notice your presence in a physical space and respond with body language and light rhythms before you even say a word. idk, seeing hardware prototypes with this level of release-oriented engineering come out of a 48h builder camp makes me feel pretty lazy today lol. its just a stark reminder that the next phase of ai probably isnt going to be on a screen, but actually sitting on our desks observing us. anyway just thought id share something cool that isnt another b2b saas wrapper. repo if anyone wants to look at the c++ / esp32 logic (not mine obviously): github.com/JunkaiWang-TheoPhy/Mira-Light-AI-That-Sees-You
 
-11h ago
+12h ago
 
 ---
 
@@ -86,7 +86,7 @@ I know we usually only post our own projects here, but i was procrastinating on 
 
 Hello everyone, a few months ago i had this idea of a layer that helps Robis unterstand the world. with the Help of a few tools that are generalized an AI Agent can steer any Robot and the engineers only need to change the control layer. I open sourced the whole thing and sat together with universities in switzerland as well as robotic companies in europe. All of them are very interested to make this happen and i will continue to sit together with them to make this project happen. If you are interested as well feel free to clone it and try it out 😇 I have opened the Github Repo to the Public for research use. If you have Questions feel free to ask, i will post more infos in the Comments.
 
-🔗 [GitHub](https://github.com/beyondExp/GIL) • 1h ago
+🔗 [GitHub](https://github.com/beyondExp/GIL) • 2h ago
 
 ---
 
@@ -94,7 +94,7 @@ Hello everyone, a few months ago i had this idea of a layer that helps Robis unt
 
 PNP Robotics: Haptic Teleoperation for data collection. At the Embodied AI Conference, we’re excited to showcase our integration of the Haply Inverse3 haptic joystick with Franka robots, enabling real-time pose control and immersive haptic feedback for intuitive teleoperation. EmbodiedAI #HapticTeleoperation #Franka #Haply #Robotics #Teleoperation
 
-15h ago
+16h ago
 
 ---
 
@@ -122,7 +122,7 @@ The University of Texas at Austin • 3d ago
 
 Chinese robotics startup Unitree Robotics released a video on Saturday showing its H1 robot reached a sprint speed of up to 10 meters per second, noting that the humanoid robot broke the world record again.
 
-Global Times • 10h ago
+Global Times • 11h ago
 
 ---
 
@@ -130,7 +130,7 @@ Global Times • 10h ago
 
 40 teams battled during the two-day district qualifiers at Escanaba High School.
 
-Upper Michigan's Source • 23h ago
+Upper Michigan's Source • 1d ago
 
 ---
 
@@ -146,7 +146,7 @@ About Amazon • 2d ago
 
 'Shipwreck city': A high-tech survey has found dozens of possible wrecks in Washington state, with robotics capturing images in areas too dangerous for divers.
 
-10TV • 2h ago
+10TV • 3h ago
 
 ---
 
@@ -162,7 +162,7 @@ The Washington Post • 2d ago
 
 <p>PLAINS TWP. — It was a celebration of robotics on Saturday as regional schools gathered at Wilkes-Barre Area High School for Wolfpack Robotics’ second Robo Rally.</p>
 
-Times Leader • 20h ago
+Times Leader • 21h ago
 
 ---
 
@@ -190,23 +190,63 @@ Politico • 3d ago
 
 ## YouTube Videos: "robotics"
 
-**[New AI Robot Is Starting to Feel Human (Artificial Humans Are Here)](https://www.youtube.com/watch?v=HOgCL8lKuDc)**
-
-Try Seedance 2.0 with Claude on Higgsfield: https://higgsfield.ai/s/seedance-2-0-airevolutionx-LDckkB Realbotix just launched ...
-
-📺 AI Revolution
-
-👁️ 50K • 👍 973 • 💬 146 • ⏱️ 14:57 • 21h ago
-
----
-
 **[Ukraine’s New Combat Robots are Absolutely Shredding Russia Right Now](https://www.youtube.com/watch?v=RvDmz7cBAcE)**
 
 Go to https://www.artwine.com to get your limited bottle of Ukrainian sparkling wine, rescued from the cellars of Bakhmut. Must be ...
 
 📺 Paul Warburg
 
-👁️ 153K • 👍 15K • 💬 1K • ⏱️ 31:17 • 16h ago
+👁️ 167K • 👍 16K • 💬 1K • ⏱️ 31:17 • 17h ago
+
+---
+
+**[New AI Robot Is Starting to Feel Human (Artificial Humans Are Here)](https://www.youtube.com/watch?v=HOgCL8lKuDc)**
+
+Try Seedance 2.0 with Claude on Higgsfield: https://higgsfield.ai/s/seedance-2-0-airevolutionx-LDckkB Realbotix just launched ...
+
+📺 AI Revolution
+
+👁️ 54K • 👍 1K • 💬 136 • ⏱️ 14:57 • 22h ago
+
+---
+
+**[Why Every Tech Expert is Now Watching This New AI Robot](https://www.youtube.com/watch?v=bwBYN9hun84)**
+
+Imagine a task so delicate it's been the "holy grail" of engineering for three decades. We're talking about handling things that fold, ...
+
+📺 PRO ROBOTS
+
+👁️ 20K • 👍 619 • 💬 42 • ⏱️ 6:30 • 4d ago
+
+---
+
+**[Unitree H1 AI Robot SHOCKS the World AGAIN… Breaks Speed Record!](https://www.youtube.com/watch?v=5vrTfZNOu-o)**
+
+This humanoid robot just hit 10 meters per second — matching the speed of elite human sprinters. Unitree's H1 AI robot isn't ...
+
+📺 The AI Nexus
+
+👁️ 5K • 👍 184 • 💬 18 • ⏱️ 25:42 • 18h ago
+
+---
+
+**[AI agent in a robot does exactly what experts warned](https://www.youtube.com/watch?v=woTy4dTiT20)**
+
+Could AI become dangerous? Can we trust AI Agents? AGI. Use code insideai at https://incogni.com/insideai to get an exclusive ...
+
+📺 InsideAI
+
+👁️ 510K • 👍 20K • 💬 2K • ⏱️ 16:24 • 3d ago
+
+---
+
+**[This Is Ridiculously Bad... Acid Anguisher Are Terrible Now | War Robots](https://www.youtube.com/watch?v=RAVXK_8ThLA)**
+
+Acid Titan shotguns have fallen into the ground. I havent been seeing them around as much recently. But this is insane, I did not ...
+
+📺 PREDATOR WR
+
+👁️ 7K • 👍 346 • 💬 56 • ⏱️ 14:11 • 9h ago
 
 ---
 
@@ -216,7 +256,7 @@ Humanoid robots are being used for some manual tasks at the Schaeffler auto part
 
 📺 NBC News
 
-👁️ 100K • 👍 1K • 💬 711 • ⏱️ 4:56 • 2d ago
+👁️ 104K • 👍 1K • 💬 737 • ⏱️ 4:56 • 2d ago
 
 ---
 
@@ -236,55 +276,17 @@ Lymow → https://lymowtradecolimited.pxf.io/OYr2VG The Lymow One Plus isn't you
 
 📺 How To with Doc
 
-👁️ 16K • 👍 917 • 💬 165 • ⏱️ 21:24 • 2d ago
+👁️ 16K • 👍 936 • 💬 167 • ⏱️ 21:24 • 3d ago
 
 ---
 
-**[Disney&#39;s New Olaf Robot Isn&#39;t What You Think](https://www.youtube.com/watch?v=VvXhpnvjVGE)**
+**[CURIE IS ACTUALLY OVERPOWERED WITH BASILEUS! SECRET STRONG ROBOT? (War Robots)](https://www.youtube.com/watch?v=lNqyCD5fuxs)**
 
-Everyone is getting 7 things wrong about Disney's new Olaf animatronic. I asked Imagineering how the free roaming Olaf works, ...
+In this video I tested out the Curie with Basileus. https://wr.my.games/Wolfblood7.
 
-📺 Guide2WDW
+📺 Wolfblood7
 
-👁️ 33K • 👍 856 • 💬 93 • ⏱️ 19:30 • 2d ago
-
----
-
-**[Are AI soldiers about to take over the battlefield? | DW News](https://www.youtube.com/watch?v=q83LtZza5eA)**
-
-US startup Foundation is developing humanoid robots for military use. The goal is for its Phantom model to identify targets and ...
-
-📺 DW News
-
-👁️ 72K • 👍 552 • 💬 101 • ⏱️ 1:22 • 6d ago
-
----
-
-**[I SAW MY FiRST delivery robot #minivacay #robot #justthebells10](https://www.youtube.com/watch?v=yGJyWvJ9uS4)**
-
-📺 Just the Bells 10
-
-👁️ 28K • 👍 1K • 💬 64 • ⏱️ 0:33 • 1d ago
-
----
-
-**[The Fastest Robots I&#39;ve Seen in Person](https://www.youtube.com/watch?v=TEWUaD9BmNE)**
-
-I've been to CES (Las Vegas, Nevada), World Robot Conference (Beijing, China), and IREX (Tokyo, Japan). These are the fastest ...
-
-📺 Automatic Addison
-
-👁️ 1K • 👍 41 • 💬 8 • ⏱️ 1:38 • 7h ago
-
----
-
-**[Unitree H1 Humanoid Robot Breaks Limits at 22.4 MPH](https://www.youtube.com/watch?v=sfcqAZcWoMo)**
-
-The Unitree H1 humanoid robot just reached an incredible 10 meters per second, which is about 22.4 miles per hour, putting it ...
-
-📺 DPCcars
-
-👁️ 48K • 👍 224 • 💬 96 • ⏱️ 1:24 • 1d ago
+👁️ 2K • 👍 127 • 💬 27 • ⏱️ 13:17 • 13h ago
 
 ---
 
