@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-12T13:14:23.187687+00:00'
+updated: '2026-04-12T14:08:40.469289+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 12, 2026 at 13:14 UTC  
+**Last Updated:** April 12, 2026 at 14:08 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hi everyone! I've been developing the LS3 BostonDynamics Mini quadruped for a while now. The goal was to create a modular, 3D-printable frame that can carry a Raspberry Pi. It’s still a work in progress, but the mechanical assembly is finally done! I'm happy to discuss the kinematics or electronics if anyone is interested!
 
-4h ago
+5h ago
 
 ---
 
@@ -50,7 +50,7 @@ Technical blog post with multiple videos: https://generalistai.com/blog/apr-02-2
 
 **[Kame Robotics unveils a compact open-source quadruped for desk-top robotics experiments](https://www.reddit.com/r/robotics/comments/1siofos/kame_robotics_unveils_a_compact_opensource/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -58,7 +58,7 @@ Technical blog post with multiple videos: https://generalistai.com/blog/apr-02-2
 
 I know we usually only post our own projects here, but i was procrastinating on my own codebase today and went down a rabbit hole looking at github repos from some 48h REDHackathon happening in shanghai right now (hosted by rednote I think? today is their demo day). tbh i mostly expected to see a bunch of hastily duct-taped openai wrappers and weekend spaghetti code. clicked on one of the hardware submissions called Mira. at first glance the picture just looks like a cute 3d-printed pixar lamp. I figured it was just a physical shell with a basic python script piping some face tracking coordinates directly to a couple servos. but looking at the actual code... the system architecture is surprisingly hardcore. They didnt just hardcode reactions. they built a full embodied interaction system. the pipeline goes from single camera input -> vision event extraction -> scene selection -> local bridge / safety layer -> ESP32 firmware. Instead of raw tracking they built a scene-based motion choreography abstraction. it interprets visual data into states like 'curious_observe', 'cute_probe', and 'standup_reminder'. The esp32 firmware isnt a toy either... it has a custom binary serial protocol, touch thresholds, and ack/err handling. they even built offline rehearsal scripts, fault injection, and a web director console so they could test the logic without the physical hardware glitching out on stage. Most ai right now just sits in a chat window waiting for a prompt. this thing is trying to actually notice your presence in a physical space and respond with body language and light rhythms before you even say a word. idk, seeing hardware prototypes with this level of release-oriented engineering come out of a 48h builder camp makes me feel pretty lazy today lol. its just a stark reminder that the next phase of ai probably isnt going to be on a screen, but actually sitting on our desks observing us. anyway just thought id share something cool that isnt another b2b saas wrapper. repo if anyone wants to look at the c++ / esp32 logic (not mine obviously): github.com/JunkaiWang-TheoPhy/Mira-Light-AI-That-Sees-You
 
-3h ago
+4h ago
 
 ---
 
@@ -82,7 +82,7 @@ From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2042912788717408509
 
 MIT’s Daniela Rus talks about how robotics is starting to overlap more with biology and AI. One project uses machine learning to analyze sperm whale sounds, finding repeatable patterns and even predicting what comes next. There’s also work inspired by animals like octopuses, looking at more flexible, distributed control systems instead of rigid robot designs.
 
-🔗 [Automate](http://automate.org/robotics/industry-insights/mit-csail-director-daniela-rus-on-the-future-of-robotics) • 1h ago
+🔗 [Automate](http://automate.org/robotics/industry-insights/mit-csail-director-daniela-rus-on-the-future-of-robotics) • 2h ago
 
 ---
 
@@ -98,7 +98,7 @@ I've been seeing a lot of noise from the tech world about robotics being the nex
 
 I got finnaly my orp-cambotv1 working. It was a struggle i had to change my motor holders and print a new 12v motor holder(still possible work in progress) but i did it. i only need to to make the code more readable and documentible
 
-🔗 [youtube.com](https://youtube.com/shorts/lO5StFCWxCo?si=HMFmLq7GH5zTx3M_) • 4h ago
+🔗 [youtube.com](https://youtube.com/shorts/lO5StFCWxCo?si=HMFmLq7GH5zTx3M_) • 5h ago
 
 ---
 
@@ -200,7 +200,7 @@ Try Seedance 2.0 with Claude on Higgsfield: https://higgsfield.ai/s/seedance-2-0
 
 📺 AI Revolution
 
-👁️ 43K • 👍 860 • 💬 116 • ⏱️ 14:57 • 13h ago
+👁️ 43K • 👍 860 • 💬 116 • ⏱️ 14:57 • 14h ago
 
 ---
 
@@ -210,7 +210,7 @@ Go to https://www.artwine.com to get your limited bottle of Ukrainian sparkling 
 
 📺 Paul Warburg
 
-👁️ 108K • 👍 12K • 💬 827 • ⏱️ 31:17 • 9h ago
+👁️ 108K • 👍 12K • 💬 827 • ⏱️ 31:17 • 10h ago
 
 ---
 
@@ -260,7 +260,7 @@ The Unitree H1 humanoid robot just reached an incredible 10 meters per second, w
 
 📺 DPCcars
 
-👁️ 33K • 👍 209 • 💬 71 • ⏱️ 1:24 • 23h ago
+👁️ 33K • 👍 209 • 💬 71 • ⏱️ 1:24 • 1d ago
 
 ---
 
