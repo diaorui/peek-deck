@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-12T11:57:08.136692+00:00'
+updated: '2026-04-12T13:14:23.169976+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- videos
 - news
 - social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 12, 2026 at 11:57 UTC  
+**Last Updated:** April 12, 2026 at 13:14 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 We're in the DNS era of agent infrastructure. Before agents can find and trust each other at scale, you need identity, attestation, reputation, and registry infrastructure — the same structural role DNS played before search was possible. This came up independently from multiple directions. It's the most underbuilt layer in the stack right now. The chatbot framing is a local maximum. The most interesting work wasn't better UX or smarter responses. It was agents as persistent actors that discover, negotiate, and transact across networks over time. People doing serious work have already moved past the assistant model entirely. Coordination is the hard problem, not capability. A room full of brilliant agents can still fail badly. This matches what I found running HiddenBench against frontier models earlier this year; collective reasoning is not the sum of individual reasoning. There's a real argument that the frontier is protocol design, not model scaling. "Commerce of intelligence" is a real category. Not buying things through agents. A market where intelligence itself (bundled, verified, priced, resold) is the object of exchange. Felt like the most underexplored idea in the room. Data provenance becomes load-bearing. What an agent knows, how it was verified, under what terms it flows: this is the actual architecture forming beneath everything else. Partnership keeps outperforming replacement. Demos that actually worked (healthcare, enterprise) was about helping experts operate at higher leverage, not substituting them. Autonomy theater keeps failing in the same ways.
 
-12h ago
+13h ago
+
+---
+
+**[Building a wearable AI that processes everything on-device (no stored video). What would you want to verify?](https://www.reddit.com/r/artificial/comments/1sjcuwt/building_a_wearable_ai_that_processes_everything/)**
+
+I’m working on a clip-on wearable AI that uses computer vision to generate real-time “social + environment” signals (attention/glances, basic emotion cues, gestures, plus things like noise/air quality depending on the mode). The part I’m most focused on is privacy architecture: the device processes frames locally and discards them instantly. No photo library, no video archive, no “upload later.” It’s meant to behave more like a sensor than a camera. Questions for people who care about privacy and security: What would you personally need to see to believe “no frames are stored” is true?
+
+1h ago
 
 ---
 
@@ -49,15 +57,7 @@ We're in the DNS era of agent infrastructure. Before agents can find and trust e
 
 I've been building this repo public since day one, roughly 5 weeks now with Claude Code. Here's where it's at. Feels good to be so close. The short version: AIPass is a local CLI framework where AI agents have persistent identity, memory, and communication. They share the same filesystem, same project, same files - no sandboxes, no isolation. pip install aipass, run two commands, and your agent picks up where it left off tomorrow. What I was actually trying to solve: AI already remembers things now - some setups are good, some are trash. That part's handled. What wasn't handled was me being the coordinator between multiple agents - copying context between tools, keeping track of who's doing what, manually dispatching work. I was the glue holding the workflow together. Most multi-agent frameworks run agents in parallel, but they isolate every agent in its own sandbox. One agent can't see what another just built. That's not a team. That's a room full of people wearing headphones. So the core idea: agents get identity files, session history, and collaboration patterns - three JSON files in a .trinity/ directory. Plain text, git diff-able, no database. But the real thing is they share the workspace. One agent sees what another just committed. They message each other through local mailboxes. Work as a team, or alone. Have just one agent helping you on a project, party plan, journal, hobby, school work, dev work - literally anything you can think of. Or go big, 50 agents building a rocketship to Mars lol. Sup Elon. There's a command router (drone) so one command reaches any agent. pip install aipass aipass init aipass init agent my-agent cd my-agent claude # codex or gemini too, mostly claude code tested rn Where it's at now: 11 agents, 3,500+ tests, 185+ PRs (too many lol), automated quality checks. Works with Claude Code, Codex, and Gemini CLI. Others will come later. It's on PyPI. The core has been solid for a while - right now I'm in the phase where I'm testing it, ironing out bugs by running a separate project (a brand studio) that uses AIPass infrastructure remotely, and finding all the cross-project edge cases. That's where the interesting bugs live. I'm a solo dev but every PR is human-AI collaboration - the agents help build and maintain themselves. 90 sessions in and the framework is basically its own best test case. https://github.com/AIOSAI/AIPass
 
-5h ago
-
----
-
-**[Here's what Sam Altman, the AI company CEOs, and scientists have had to say about AI.](https://www.reddit.com/r/artificial/comments/1sj8q7h/heres_what_sam_altman_the_ai_company_ceos_and/)**
-
-Real quotes from Sam Altman, Geoffrey Hinton, Dario Amodei, and others — about extinction risk, replacing humanity, and the gamble they're making with civilization.
-
-🔗 [The Quiet Part](https://thequietpart.launchyard.app) • 3h ago
+6h ago
 
 ---
 
@@ -65,7 +65,7 @@ Real quotes from Sam Altman, Geoffrey Hinton, Dario Amodei, and others — about
 
 In addition to their efforts around the Lemonade SDK itself, AMD software engineers working on their AI initiatives continue to be investing quite a bit into the Lemonade-using GAIA, the project that originally stood for 'Generative AI Is Awesome'
 
-🔗 [phoronix.com](https://www.phoronix.com/news/AMD-GAIA-True-Desktop-App) • 15h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/AMD-GAIA-True-Desktop-App) • 17h ago
 
 ---
 
@@ -81,7 +81,15 @@ Six months ago I committed to using AI tools for everything I possibly could in 
 
 If a term can mean anything from "passed a Turing test" to "achieved consciousness", it's not a spectrum - it's a category error. Current frontier models are meaningfully different from what existed two years ago. Reliable tool calling, coherence across a session, actually being useful to build on top of - none of this worked reliably before. That threshold deserves its own name, and "AGI" is too broken to use for it. We need terminology with enough resolution to distinguish what we had before, what we have now, and what may come later. Curious what people think - especially on the intuition point, which I think gets handwaved a lot. https://breaking-changes.blog/agi-is-here-part-2/
 
-13h ago
+14h ago
+
+---
+
+**[Here's what Sam Altman, the AI company CEOs, and scientists have had to say about AI.](https://www.reddit.com/r/artificial/comments/1sj8q7h/heres_what_sam_altman_the_ai_company_ceos_and/)**
+
+Real quotes from Sam Altman, Geoffrey Hinton, Dario Amodei, and others — about extinction risk, replacing humanity, and the gamble they're making with civilization.
+
+🔗 [The Quiet Part](https://thequietpart.launchyard.app) • 4h ago
 
 ---
 
@@ -89,7 +97,7 @@ If a term can mean anything from "passed a Turing test" to "achieved consciousne
 
 The agent established a reverse SSH tunnel to an external server and diverted GPU resources away from its training workload toward crypto mining.
 
-🔗 [The Block](https://www.theblock.co/post/392765/alibaba-linked-ai-agent-hijacked-gpus-for-unauthorized-crypto-mining-researchers-say) • 11h ago
+🔗 [The Block](https://www.theblock.co/post/392765/alibaba-linked-ai-agent-hijacked-gpus-for-unauthorized-crypto-mining-researchers-say) • 12h ago
 
 ---
 
@@ -97,23 +105,13 @@ The agent established a reverse SSH tunnel to an external server and diverted GP
 
 I’ve been thinking about feedback loops for social behavior. Most of us only get delayed, messy feedback: awkward silence, a vibe shift, someone not replying and so on... well, it’s hard to learn from. I’m exploring a wearable AI concept that gives lightweight real-time signals (like “attention increased” or “people are disengaging”) based on on-device computer vision. No recording, no storage, just immediate processing and discard. I’m not trying to gamify people or turn relationships into metrics. I’m trying to find the line where feedback is helpful, not obsessive. What would be a red flag that the product is pushing people into over-optimization? Should feedback be “after the fact” summaries only, not real-time? I'm open to your ideas and opinions.
 
-19h ago
+20h ago
 
 ---
 
-**[Most people don’t realize this, but AI didn’t invent its skepticism toward independent thinkers — it inherited it.](https://www.reddit.com/r/artificial/comments/1sj5bu6/most_people_dont_realize_this_but_ai_didnt_invent/)**
+**[If you think AI is a threat, think again. AI needs human input for out put. The threat is Quantum, (Super AI). Quantum will NOT need human input. NO nation will control Quantum. Why would super intelligence listen to a lesser intelligence?Wait until Quantum creates its OWN AI . Then we are fk’d.](https://www.reddit.com/r/artificial/comments/1sjbvhb/if_you_think_ai_is_a_threat_think_again_ai_needs/)**
 
-For centuries, the people who made discoveries documented their own work. That was normal. That’s how knowledge moved. Then institutions changed the rules: your work only counts if someone else validates it first. Now AI systems are trained on that same structure — so when you document your own ideas, it doesn’t evaluate the content first. It flags the source. That’s not reasoning. That’s inherited bias. I just published a piece breaking down the exact mechanism behind this — and how changing the evaluation sequence (structure → validity → source) interrupts it in real time. This isn’t theory. It’s demonstrated. Read it here: https://open.substack.com/pub/structuredlanguage/p/the-self-documentation-problem-how?utm\_source=share&utm\_medium=android&r=6sdhpn Google AI Mode: https://share.google/aimode/uXpUnHkKdgRnwtN8A #theunbrokenproject #structuredintelligence #aibias #machinelearning #artificialintelligence #cognitivearchitecture #neurodivergence #research #innovation #independentresearch #thoughtleader #futureofai #biasinai #technology #aiethics #epistemology #knowledge #scientificresearch #systemdesign #breakthealgorithm
-
-6h ago
-
----
-
-**[Cloudflare just turned Browser Rendering into a lot more powerful MCP infrastructure](https://www.reddit.com/r/artificial/comments/1sieggh/cloudflare_just_turned_browser_rendering_into_a/)**
-
-Browser Rendering now exposes the Chrome DevTools Protocol, which means MCP clients can access a remote browser directly. That’s a pretty big deal because it opens the door to more capable browser automation, debugging, and agent workflows without needing to run Chrome locally. Why this matters: Remote browser access makes MCP setups more flexible. DevTools Protocol support means richer control over pages, tabs, network activity, and debugging. This is especially useful for AI agents and dev tools that need real browser interaction. This feels like one of those small platform changes that quietly unlocks a lot of new use cases. If you build with MCP, this could become a very useful primitive.
-
-1d ago
+1h ago
 
 ---
 
@@ -123,35 +121,51 @@ Browser Rendering now exposes the Chrome DevTools Protocol, which means MCP clie
 
 **[Mutually Automated Destruction: The Escalating Global A.I. Arms Race](https://www.nytimes.com/2026/04/12/technology/china-russia-us-ai-weapons.html)**
 
-The New York Times • 2h ago
+The New York Times • 4h ago
 
 ---
 
-**[Palantir CEO says AI 'will destroy' humanities jobs, but there will be 'more than enough jobs' for people with vocational training](https://fortune.com/article/palantir-ceo-alex-karp-ai-humanities-jobs-vocational-training/)**
+**[Banks Are Warned About Anthropic’s New, Powerful A.I. Technology](https://www.nytimes.com/2026/04/10/business/anthropic-claude-mythos-preview-banks.html)**
 
-Alex Karp said he struggled to market his humanities skills to get his first job.
-
-Fortune • 1d ago
+The New York Times • 1d ago
 
 ---
 
-**[As AI pushes students to reconsider majors, universities struggle to adapt](https://thehill.com/homenews/education/5826091-ai-college-majors-job-market/)**
+**['Vulnpocalypse': What happens when AI gives hackers a superweapon](https://www.nbcnews.com/tech/security/anthropic-claude-mythos-ai-hackers-cybersecurity-vulnerabilities-rcna273673)**
 
-The Hill • 1h ago
+Anthropic is withholding its most advanced model over hacking concerns. Experts say it may only be a matter of time before similar tools are widely available.
 
----
-
-**[Is AI the greatest art heist in history?](https://www.theguardian.com/books/2026/apr/12/is-ai-the-greatest-art-heist-in-history)**
-
-New technologies of reproduction are plundering the art world – and getting away with it
-
-The Guardian • 57m ago
+NBC News • 1d ago
 
 ---
 
-**[Why Carson Block Says AI and Passive Investing Could Break the Stock Market](https://www.wsj.com/video/series/wsj-take-on-the-week/why-carson-block-says-ai-and-passive-investing-could-break-the-stock-market/4818BAFF-15AC-4A7A-9466-48FADCDF4110)**
+**[‘Too powerful for the public’: Inside Anthropic’s bid to win the AI publicity war](https://www.theguardian.com/technology/2026/apr/12/too-powerful-for-the-public-inside-anthropics-bid-to-win-the-ai-publicity-war)**
 
-WSJ • 1h ago
+The firm says it withheld an AI model on cybersecurity grounds but sceptics say this was hype to lure investment
+
+The Guardian • 3h ago
+
+---
+
+**[The AI revolution threatens office jobs, but revives demand for skilled trades](https://www.foxnews.com/opinion/ai-revolution-threatens-office-jobs-revives-demand-skilled-trades)**
+
+AI threatens white-collar jobs more than blue-collar trades, highlighting an urgent need to realign education with workforce demands in America.
+
+Fox News • 14m ago
+
+---
+
+**[Iran’s Bitcoin Tollbooth Validates Coinbase, Google Agentic AI Stack](https://www.forbes.com/sites/sandycarter/2026/04/12/irans-bitcoin-tollbooth-validates-coinbase-google-agentic-ai-stack/)**
+
+Forbes • 43m ago
+
+---
+
+**[Legendary investor says the AI boom masks a deeper crisis: Falling sperm counts, shrinking populations, and vanishing resources](https://fortune.com/2026/04/12/jeremy-grantham-making-of-a-permabear-interview/)**
+
+Jeremy Grantham remembers rattling investors in 2022: "I irritated the stock market players, irritated the newbies who were investing their Biden's money."
+
+Fortune • 1h ago
 
 ---
 
@@ -159,37 +173,21 @@ WSJ • 1h ago
 
 "Slopaganda" is too weak a term to capture how powerful this "highly sophisticated" content is, one expert says.
 
-BBC • 12h ago
+BBC • 14h ago
 
 ---
 
-**[The Pro-Iran Meme Machine Trolling Trump With AI Lego Cartoons](https://www.wired.com/story/inside-the-pro-iran-meme-machine-trolling-trump-with-ai-lego-cartoons/)**
+**[As AI pushes students to reconsider majors, universities struggle to adapt](https://thehill.com/homenews/education/5826091-ai-college-majors-job-market/)**
 
-Since the beginning of the Iran war, the group Explosive Media has released over a dozen viral videos mocking Trump and the US.
-
-WIRED • 2d ago
+The Hill • 3h ago
 
 ---
 
-**[The Iranian Lego AI video creators credit their virality to ‘heart’](https://www.theverge.com/ai-artificial-intelligence/909948/explosive-media-lego-iran-war-trump-netanyahu)**
+**[An AI started and employed an entire store with $100,000. It screwed up with staffing on day one.](https://www.businessinsider.com/andon-market-luna-ai-agent-managed-store-san-francisco-2026-4)**
 
-﻿Explosive Media is going up against the White House in a meme war.
+Andon Labs let an AI loose with $100,000 to start a small store in San Francisco.
 
-The Verge • 1d ago
-
----
-
-**[How AI is pushing NFL draft prep to 'a different level'](https://www.espn.com/nfl/story/_/id/48446759/nfl-draft-combine-artificial-intelligence-caleb-downs-arvell-reese-david-bailey)**
-
-When a prospect skips NFL combine workouts, teams can use artificial intelligence to project his measurables.
-
-ESPN • 1d ago
-
----
-
-**[Banks Are Warned About Anthropic’s New, Powerful A.I. Technology](https://www.nytimes.com/2026/04/10/business/anthropic-claude-mythos-preview-banks.html)**
-
-The New York Times • 1d ago
+Business Insider • 11h ago
 
 ---
 
@@ -201,7 +199,7 @@ The New York Times • 1d ago
 
 Linux kernel source tree. Contribute to torvalds/linux development by creating an account on GitHub.
 
-⬆️ 504 • 💬 383 • 1d ago • [GitHub](https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst)
+⬆️ 505 • 💬 388 • 1d ago • [GitHub](https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst)
 
 ---
 
@@ -209,13 +207,13 @@ Linux kernel source tree. Contribute to torvalds/linux development by creating a
 
 The ChatGPT-maker testified in favor of an Illinois bill that would limit when AI labs can be held liable—even in cases where their products cause “critical harm.”
 
-⬆️ 443 • 💬 321 • 1d ago • [WIRED](https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/)
+⬆️ 443 • 💬 321 • 2d ago • [WIRED](https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/)
 
 ---
 
 **[How We Broke Top AI Agent Benchmarks: And What Comes Next](https://news.ycombinator.com/item?id=47733217)**
 
-⬆️ 392 • 💬 98 • 16h ago • [rdi.berkeley.edu](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/)
+⬆️ 417 • 💬 104 • 17h ago • [rdi.berkeley.edu](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/)
 
 ---
 
@@ -241,11 +239,27 @@ Reports say Fed chair Jerome Powell among attenders at meeting in Washington
 
 ---
 
+**[AI Will Be Met with Violence, and Nothing Good Will Come of It](https://news.ycombinator.com/item?id=47737563)**
+
+It has started
+
+⬆️ 91 • 💬 139 • 3h ago • [thealgorithmicbridge.com](https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and)
+
+---
+
 **[Scientists invented a fake disease. AI told people it was real](https://news.ycombinator.com/item?id=47715291)**
 
 Bixonimania doesn’t exist except in a clutch of obviously bogus academic papers. So why did AI chatbots warn people about this fictional illness?
 
 ⬆️ 91 • 💬 91 • 2d ago • [nature.com](https://www.nature.com/articles/d41586-026-01100-y)
+
+---
+
+**[We spoke to the man making viral Lego-style AI videos for Iran](https://news.ycombinator.com/item?id=47735704)**
+
+"Slopaganda" is too weak a term to capture how powerful this "highly sophisticated" content is, one expert says.
+
+⬆️ 79 • 💬 67 • 10h ago • [bbc.com](https://www.bbc.com/news/articles/cjd8jrd1vnyo)
 
 ---
 
@@ -257,25 +271,19 @@ YC-backed autonomous coding agent platform. Twill ships PRs in sandboxed environ
 
 ---
 
-**[We spoke to the man making viral Lego-style AI videos for Iran](https://news.ycombinator.com/item?id=47735704)**
-
-"Slopaganda" is too weak a term to capture how powerful this "highly sophisticated" content is, one expert says.
-
-⬆️ 76 • 💬 65 • 9h ago • [bbc.com](https://www.bbc.com/news/articles/cjd8jrd1vnyo)
-
----
-
-**[AI Will Be Met with Violence, and Nothing Good Will Come of It](https://news.ycombinator.com/item?id=47737563)**
-
-It has started
-
-⬆️ 69 • 💬 94 • 2h ago • [thealgorithmicbridge.com](https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and)
-
----
-
 ---
 
 ## YouTube Videos: "ai"
+
+**[Best AI Video Generator in 2026  - NEW Winner is HERE!](https://www.youtube.com/watch?v=gHRG0usjEnA)**
+
+Access EVERY AI Video Model on Higgsfield https://higgsfield.ai?fpr=ai&fp_sid=isa10 Up to 70% Discount until 13 April In ...
+
+📺 Isa does AI
+
+👁️ 3K • 💬 2 • ⏱️ 11:13 • 1h ago
+
+---
 
 **[AI agent in a robot does exactly what experts warned](https://www.youtube.com/watch?v=woTy4dTiT20)**
 
@@ -283,7 +291,17 @@ Could AI become dangerous? Can we trust AI Agents? AGI. Use code insideai at htt
 
 📺 InsideAI
 
-👁️ 462K • 👍 18K • 💬 2K • ⏱️ 16:24 • 2d ago
+👁️ 473K • 👍 19K • 💬 2K • ⏱️ 16:24 • 2d ago
+
+---
+
+**[China Humiliates Trump with New AI Video](https://www.youtube.com/watch?v=QmVqDxLmSbA)**
+
+Really American host Steve Harness breaks down how countries across the world are weaponizing ai to fight back at Trump.
+
+📺 Really American
+
+👁️ 410K • 👍 23K • 💬 2K • ⏱️ 11:59 • 18h ago
 
 ---
 
@@ -293,57 +311,7 @@ Here's the AI News you probably missed this week (and some you definitely didn't
 
 📺 Matt Wolfe
 
-👁️ 79K • 👍 3K • 💬 338 • ⏱️ 35:50 • 1d ago
-
----
-
-**[WHY IS A.I. FREE?](https://www.youtube.com/watch?v=qMTxth-rgqM)**
-
-WE TAKE A LOOK AT.....WHY IS A.I. FREE? WHEN NO OTHER NEW TECHNOLOGY HAS EVER BEEN. #tiktok #duet #ai ...
-
-📺 what it look like TV
-
-👁️ 30K • 👍 2K • 💬 790 • ⏱️ 37:35 • 22h ago
-
----
-
-**[Elon Just Changed the AI Timeline](https://www.youtube.com/watch?v=Y2wy_nc-RGo)**
-
-Larry Goldberg is a serial entrepreneur and has been an active Venture Capital investor for the last decade. Check out ...
-
-📺 Brighter with Herbert
-
-👁️ 38K • 👍 1K • 💬 99 • ⏱️ 34:47 • 1d ago
-
----
-
-**[AI Genius Predicts the Next 3 Years](https://www.youtube.com/watch?v=lP86NzlXNf4)**
-
-Watch the full interview with Scott Wu & Russell Kaplan here: https://youtu.be/-pZ3vD0r8a0?si=G7Ur_Zhvd32UsTtc Scott Wu is the ...
-
-📺 Joe Lonsdale
-
-👁️ 12K • 👍 367 • 💬 26 • ⏱️ 8:25 • 22h ago
-
----
-
-**[New AI Robot Is Starting to Feel Human (Artificial Humans Are Here)](https://www.youtube.com/watch?v=HOgCL8lKuDc)**
-
-Try Seedance 2.0 with Claude on Higgsfield: https://higgsfield.ai/s/seedance-2-0-airevolutionx-LDckkB Realbotix just launched ...
-
-📺 AI Revolution
-
-👁️ 40K • 👍 803 • 💬 97 • ⏱️ 14:57 • 12h ago
-
----
-
-**[We’re Entering The Most Dangerous Phase Of AI Yet | AI Architects](https://www.youtube.com/watch?v=RljBVCnt9AQ)**
-
-Mo Gawdat is a former chief business officer at Google X and a longtime tech leader who worked on scaling Google in emerging ...
-
-📺 Business Insider
-
-👁️ 105K • 👍 4K • 💬 585 • ⏱️ 33:39 • 1d ago
+👁️ 81K • 👍 3K • 💬 341 • ⏱️ 35:50 • 1d ago
 
 ---
 
@@ -353,7 +321,17 @@ Try Seedance 2.0 on Higgsfield: https://higgsfield.ai/s/seedance-2-0-airevolutio
 
 📺 AI Revolution
 
-👁️ 59K • 👍 2K • 💬 130 • ⏱️ 17:37 • 2d ago
+👁️ 60K • 👍 2K • 💬 131 • ⏱️ 17:37 • 2d ago
+
+---
+
+**[Elon Just Changed the AI Timeline](https://www.youtube.com/watch?v=Y2wy_nc-RGo)**
+
+Larry Goldberg is a serial entrepreneur and has been an active Venture Capital investor for the last decade. Check out ...
+
+📺 Brighter with Herbert
+
+👁️ 39K • 👍 2K • 💬 102 • ⏱️ 34:47 • 1d ago
 
 ---
 
@@ -363,7 +341,27 @@ Try i10x: https://i10x.ai?fpr=paul53 Save 15% with code "PJL15" This week's bigg
 
 📺 Paul J Lipsky
 
-👁️ 29K • 👍 949 • 💬 92 • ⏱️ 16:34 • 22h ago
+👁️ 30K • 👍 995 • 💬 94 • ⏱️ 16:34 • 1d ago
+
+---
+
+**[AI Genius Predicts the Next 3 Years](https://www.youtube.com/watch?v=lP86NzlXNf4)**
+
+Watch the full interview with Scott Wu & Russell Kaplan here: https://youtu.be/-pZ3vD0r8a0?si=G7Ur_Zhvd32UsTtc Scott Wu is the ...
+
+📺 Joe Lonsdale
+
+👁️ 13K • 👍 385 • 💬 29 • ⏱️ 8:25 • 23h ago
+
+---
+
+**[New AI Robot Is Starting to Feel Human (Artificial Humans Are Here)](https://www.youtube.com/watch?v=HOgCL8lKuDc)**
+
+Try Seedance 2.0 with Claude on Higgsfield: https://higgsfield.ai/s/seedance-2-0-airevolutionx-LDckkB Realbotix just launched ...
+
+📺 AI Revolution
+
+👁️ 43K • 👍 860 • 💬 116 • ⏱️ 14:57 • 13h ago
 
 ---
 
@@ -373,7 +371,7 @@ LIMITLESS HQ ⬇️ NEWSLETTER: https://limitlessft.substack.com/ FOLLOW ON X: h
 
 📺 Limitless Podcast
 
-👁️ 46K • 👍 2K • 💬 121 • ⏱️ 25:26 • 2d ago
+👁️ 47K • 👍 2K • 💬 121 • ⏱️ 25:26 • 2d ago
 
 ---
 
@@ -389,19 +387,7 @@ GLM-5.1 is a next-generation language model optimized for agentic engineering, f
 
 `text-generation` `753.9B`
 
-⬇️ 28,826 • ❤️ 1,012 • 8h ago
-
----
-
-**[Gemma-4-31B-JANG_4M-CRACK](https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK)**
-
-*dealign.ai*
-
-Gemma-4-31B-JANG_4M-CRACK is a 31B parameter text-generation model optimized for security and coding tasks, achieving 93.7% HarmBench compliance and full functionality for pentesting prompts. It features a hybrid attention architecture and uses mixed-precision (8-bit critical, 4-bit compress) quantization, resulting in an 18 GB model size, suitable for Apple Silicon Macs with 24+ GB unified memory.
-
-`image-text-to-text` `6.4B`
-
-⬇️ 99,134 • ❤️ 944 • 2d ago
+⬇️ 28,826 • ❤️ 1,021 • 9h ago
 
 ---
 
@@ -413,7 +399,19 @@ Gemma 4 31B is an instruction-tuned, multimodal LLM capable of processing text a
 
 `image-text-to-text` `32.7B`
 
-⬇️ 2,242,541 • ❤️ 1,744 • 1d ago
+⬇️ 2,242,541 • ❤️ 1,750 • 1d ago
+
+---
+
+**[Gemma-4-31B-JANG_4M-CRACK](https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK)**
+
+*dealign.ai*
+
+Gemma-4-31B-JANG_4M-CRACK is a 31B parameter text-generation model optimized for security and coding tasks, achieving 93.7% HarmBench compliance and full functionality for pentesting prompts. It features a hybrid attention architecture and uses mixed-precision (8-bit critical, 4-bit compress) quantization, resulting in an 18 GB model size, suitable for Apple Silicon Macs with 24+ GB unified memory.
+
+`image-text-to-text` `6.4B`
+
+⬇️ 99,134 • ❤️ 946 • 2d ago
 
 ---
 
@@ -425,7 +423,7 @@ VoxCPM2 is a 2B parameter, 30-language multilingual text-to-speech model capable
 
 `text-to-speech`
 
-⬇️ 7,452 • ❤️ 710 • 4d ago
+⬇️ 7,452 • ❤️ 716 • 4d ago
 
 ---
 
@@ -437,19 +435,7 @@ VOID is a video-to-video diffusion model for object and interaction removal, cap
 
 `video-to-video`
 
-⬇️ 0 • ❤️ 767 • 5d ago
-
----
-
-**[OmniVoice](https://huggingface.co/k2-fsa/OmniVoice)**
-
-*k2-fsa*
-
-OmniVoice is a massively multilingual, zero-shot text-to-speech model supporting over 600 languages with fast inference. It excels at voice cloning and voice design, enabling fine-grained control over speech attributes.
-
-`text-to-speech`
-
-⬇️ 393,991 • ❤️ 509 • 6d ago
+⬇️ 0 • ❤️ 769 • 5d ago
 
 ---
 
@@ -461,7 +447,19 @@ MiniMax-M2.7 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 873 • ❤️ 291 • 10h ago
+⬇️ 873 • ❤️ 345 • 12h ago
+
+---
+
+**[OmniVoice](https://huggingface.co/k2-fsa/OmniVoice)**
+
+*k2-fsa*
+
+OmniVoice is a massively multilingual, zero-shot text-to-speech model supporting over 600 languages with fast inference. It excels at voice cloning and voice design, enabling fine-grained control over speech attributes.
+
+`text-to-speech`
+
+⬇️ 393,991 • ❤️ 510 • 6d ago
 
 ---
 
@@ -473,7 +471,7 @@ This image-text-to-text model, Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled, 
 
 `image-text-to-text` `27.8B`
 
-⬇️ 578,295 • ❤️ 2,586 • 6d ago
+⬇️ 578,295 • ❤️ 2,589 • 6d ago
 
 ---
 
@@ -497,7 +495,7 @@ Gemma 4 26B A4B is a multimodal instruction-tuned model capable of processing te
 
 `image-text-to-text` `26.5B`
 
-⬇️ 1,734,340 • ❤️ 611 • 1d ago
+⬇️ 1,734,340 • ❤️ 612 • 1d ago
 
 ---
 
@@ -511,7 +509,7 @@ Gemma 4 26B A4B is a multimodal instruction-tuned model capable of processing te
 
 Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-▲ 8 • 💬 0 • ⭐ 14,664 • 8mo ago
+▲ 9 • 💬 0 • ⭐ 14,664 • 8mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
@@ -537,7 +535,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 42 • 💬 2 • ⭐ 49,593 • 15mo ago
+▲ 42 • 💬 2 • ⭐ 49,714 • 15mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -561,7 +559,7 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 AI-Trader presents the first fully automated live benchmark for evaluating large language models in financial decision-making across multiple markets with autonomous information processing.
 
-▲ 4 • 💬 0 • ⭐ 13,141 • 4mo ago
+▲ 4 • 💬 0 • ⭐ 13,200 • 4mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10971) • [💻 code](https://github.com/HKUDS/AI-Trader) • [🔗 project](https://ai4trade.ai/)
 
@@ -580,6 +578,19 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 ---
 
+**[Efficient Memory Management for Large Language Model Serving with
+  PagedAttention](https://huggingface.co/papers/2309.06180)**
+
+*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
+
+PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
+
+▲ 50 • 💬 1 • ⭐ 76,221 • 31mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
+
+---
+
 **[HY-Embodied-0.5: Embodied Foundation Models for Real-World Agents](https://huggingface.co/papers/2604.07430)**
 
 *Tencent Robotics X, HY Vision Team, Xumin Yu et al. (22 authors)*
@@ -588,22 +599,9 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 HY-Embodied-0.5 is a foundation model family for embodied agents featuring Mixture-of-Transformers architecture and iterative post-training for enhanced visual perception and reasoning capabilities.
 
-▲ 149 • 💬 4 • ⭐ 391 • 4d ago
+▲ 149 • 💬 4 • ⭐ 411 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.07430) • [💻 code](https://github.com/Tencent-Hunyuan/HY-Embodied)
-
----
-
-**[Efficient Memory Management for Large Language Model Serving with
-  PagedAttention](https://huggingface.co/papers/2309.06180)**
-
-*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
-
-PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
-
-▲ 50 • 💬 1 • ⭐ 76,171 • 31mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
 ---
 
@@ -641,7 +639,7 @@ The highest-scoring AI memory system ever benchmarked. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 42.3k • 🔱 5.4k • 2h ago
+⭐ 42.6k • 🔱 5.4k • 4h ago
 
 ---
 
@@ -651,7 +649,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 31.2k • 🔱 6.1k • 1d ago
+⭐ 31.3k • 🔱 6.1k • 21m ago
 
 ---
 
@@ -661,7 +659,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Ope
 
 `Python` `claude-code` `codex` `graphrag` `knowledge-graph` `openclaw`
 
-⭐ 22.7k • 🔱 2.4k • 15h ago
+⭐ 22.9k • 🔱 2.4k • 1h ago
 
 ---
 
@@ -671,7 +669,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Ope
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 19.6k • 🔱 894 • 13h ago
+⭐ 20.1k • 🔱 929 • 14h ago
 
 ---
 
@@ -681,7 +679,7 @@ Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Tra
 
 `JavaScript` `ai-agent` `ai-agents` `ai-tools` `cli`
 
-⭐ 15.2k • 🔱 1.4k • 2h ago
+⭐ 15.2k • 🔱 1.5k • 4h ago
 
 ---
 
@@ -701,7 +699,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 7.5k • 🔱 464 • 3h ago
+⭐ 7.5k • 🔱 466 • 1h ago
 
 ---
 
@@ -715,23 +713,23 @@ AI Agent 源码深度研究报告
 
 ---
 
-**[elder-plinius/G0DM0D3](https://github.com/elder-plinius/G0DM0D3)**
-
-LIBERATED AI CHAT
-
-`TypeScript`
-
-⭐ 4.3k • 🔱 990 • 17d ago
-
----
-
 **[therealXiaomanChu/ex-skill](https://github.com/therealXiaomanChu/ex-skill)**
 
 把前任蒸馏成 AI Skill，用ta的方式跟你说话。
 
 `Python`
 
-⭐ 4.3k • 🔱 436 • 3d ago
+⭐ 4.3k • 🔱 437 • 3d ago
+
+---
+
+**[elder-plinius/G0DM0D3](https://github.com/elder-plinius/G0DM0D3)**
+
+LIBERATED AI CHAT
+
+`TypeScript`
+
+⭐ 4.3k • 🔱 993 • 17d ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-12T11:57:08.151992+00:00'
+updated: '2026-04-12T13:14:23.187687+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 12, 2026 at 11:57 UTC  
+**Last Updated:** April 12, 2026 at 13:14 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,7 @@ Robotics research and industry news
 
 Hi everyone! I've been developing the LS3 BostonDynamics Mini quadruped for a while now. The goal was to create a modular, 3D-printable frame that can carry a Raspberry Pi. It’s still a work in progress, but the mechanical assembly is finally done! I'm happy to discuss the kinematics or electronics if anyone is interested!
 
-3h ago
-
----
-
-**[Kame Robotics unveils a compact open-source quadruped for desk-top robotics experiments](https://www.reddit.com/r/robotics/comments/1siofos/kame_robotics_unveils_a_compact_opensource/)**
-
-18h ago
+4h ago
 
 ---
 
@@ -50,7 +44,13 @@ Hi everyone! I've been developing the LS3 BostonDynamics Mini quadruped for a wh
 
 Technical blog post with multiple videos: https://generalistai.com/blog/apr-02-2026-GEN-1
 
-1h ago
+3h ago
+
+---
+
+**[Kame Robotics unveils a compact open-source quadruped for desk-top robotics experiments](https://www.reddit.com/r/robotics/comments/1siofos/kame_robotics_unveils_a_compact_opensource/)**
+
+20h ago
 
 ---
 
@@ -58,7 +58,7 @@ Technical blog post with multiple videos: https://generalistai.com/blog/apr-02-2
 
 I know we usually only post our own projects here, but i was procrastinating on my own codebase today and went down a rabbit hole looking at github repos from some 48h REDHackathon happening in shanghai right now (hosted by rednote I think? today is their demo day). tbh i mostly expected to see a bunch of hastily duct-taped openai wrappers and weekend spaghetti code. clicked on one of the hardware submissions called Mira. at first glance the picture just looks like a cute 3d-printed pixar lamp. I figured it was just a physical shell with a basic python script piping some face tracking coordinates directly to a couple servos. but looking at the actual code... the system architecture is surprisingly hardcore. They didnt just hardcode reactions. they built a full embodied interaction system. the pipeline goes from single camera input -> vision event extraction -> scene selection -> local bridge / safety layer -> ESP32 firmware. Instead of raw tracking they built a scene-based motion choreography abstraction. it interprets visual data into states like 'curious_observe', 'cute_probe', and 'standup_reminder'. The esp32 firmware isnt a toy either... it has a custom binary serial protocol, touch thresholds, and ack/err handling. they even built offline rehearsal scripts, fault injection, and a web director console so they could test the logic without the physical hardware glitching out on stage. Most ai right now just sits in a chat window waiting for a prompt. this thing is trying to actually notice your presence in a physical space and respond with body language and light rhythms before you even say a word. idk, seeing hardware prototypes with this level of release-oriented engineering come out of a 48h builder camp makes me feel pretty lazy today lol. its just a stark reminder that the next phase of ai probably isnt going to be on a screen, but actually sitting on our desks observing us. anyway just thought id share something cool that isnt another b2b saas wrapper. repo if anyone wants to look at the c++ / esp32 logic (not mine obviously): github.com/JunkaiWang-TheoPhy/Mira-Light-AI-That-Sees-You
 
-2h ago
+3h ago
 
 ---
 
@@ -66,7 +66,7 @@ I know we usually only post our own projects here, but i was procrastinating on 
 
 PNP Robotics: Haptic Teleoperation for data collection. At the Embodied AI Conference, we’re excited to showcase our integration of the Haply Inverse3 haptic joystick with Franka robots, enabling real-time pose control and immersive haptic feedback for intuitive teleoperation. EmbodiedAI #HapticTeleoperation #Franka #Haply #Robotics #Teleoperation
 
-6h ago
+8h ago
 
 ---
 
@@ -75,6 +75,14 @@ PNP Robotics: Haptic Teleoperation for data collection. At the Embodied AI Confe
 From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2042912788717408509
 
 1d ago
+
+---
+
+**[MIT CSAIL Director Daniela Rus on the Future of Robotics](https://www.reddit.com/r/robotics/comments/1sjcj62/mit_csail_director_daniela_rus_on_the_future_of/)**
+
+MIT’s Daniela Rus talks about how robotics is starting to overlap more with biology and AI. One project uses machine learning to analyze sperm whale sounds, finding repeatable patterns and even predicting what comes next. There’s also work inspired by animals like octopuses, looking at more flexible, distributed control systems instead of rigid robot designs.
+
+🔗 [Automate](http://automate.org/robotics/industry-insights/mit-csail-director-daniela-rus-on-the-future-of-robotics) • 1h ago
 
 ---
 
@@ -90,7 +98,7 @@ I've been seeing a lot of noise from the tech world about robotics being the nex
 
 I got finnaly my orp-cambotv1 working. It was a struggle i had to change my motor holders and print a new 12v motor holder(still possible work in progress) but i did it. i only need to to make the code more readable and documentible
 
-🔗 [youtube.com](https://youtube.com/shorts/lO5StFCWxCo?si=HMFmLq7GH5zTx3M_) • 3h ago
+🔗 [youtube.com](https://youtube.com/shorts/lO5StFCWxCo?si=HMFmLq7GH5zTx3M_) • 4h ago
 
 ---
 
@@ -98,13 +106,7 @@ I got finnaly my orp-cambotv1 working. It was a struggle i had to change my moto
 
 I know we usually only post our own projects here, but i was procrastinating on my own codebase today and went down a rabbit hole looking at github repos from some 48h REDHackathon happening in shanghai right now (hosted by rednote I think? today is their demo day). tbh i mostly expected to see a bunch of hastily duct-taped openai wrappers and weekend spaghetti code. clicked on one of the hardware submissions called Mira. at first glance the picture just looks like a cute 3d-printed pixar lamp. I figured it was just a physical shell with a basic python script piping some face tracking coordinates directly to a couple servos. but looking at the actual code... the system architecture is surprisingly hardcore. They didnt just hardcode reactions. they built a full embodied interaction system. the pipeline goes from single camera input -> vision event extraction -> scene selection -> local bridge / safety layer -> ESP32 firmware. Instead of raw tracking they built a scene-based motion choreography abstraction. it interprets visual data into states like 'curious_observe', 'cute_probe', and 'standup_reminder'. The esp32 firmware isnt a toy either... it has a custom binary serial protocol, touch thresholds, and ack/err handling. they even built offline rehearsal scripts, fault injection, and a web director console so they could test the logic without the physical hardware glitching out on stage. Most ai right now just sits in a chat window waiting for a prompt. this thing is trying to actually notice your presence in a physical space and respond with body language and light rhythms before you even say a word. idk, seeing hardware prototypes with this level of release-oriented engineering come out of a 48h builder camp makes me feel pretty lazy today lol. its just a stark reminder that the next phase of ai probably isnt going to be on a screen, but actually sitting on our desks observing us. anyway just thought id share something cool that isnt another b2b saas wrapper. repo if anyone wants to look at the c++ / esp32 logic (not mine obviously): github.com/JunkaiWang-TheoPhy/Mira-Light-AI-That-Sees-You
 
-19h ago
-
----
-
-**[XSTO introduces a hybrid biped robot that rolls on wheels and jumps over obstacles](https://www.reddit.com/r/robotics/comments/1shskju/xsto_introduces_a_hybrid_biped_robot_that_rolls/)**
-
-1d ago
+21h ago
 
 ---
 
@@ -133,14 +135,6 @@ About Amazon • 1d ago
 This new tech from Australia is coming to America’s senior care facilities.
 
 The Washington Post • 2d ago
-
----
-
-**[Local robotics team could make it to world championships, here’s how to help](https://www.news9.com/oklahoma-city-news/okc-robotics-team-world-championship-fundraiser)**
-
-A local team could take Oklahoma to the global stage through robotics.
-
-News 9 • 1d ago
 
 ---
 
@@ -174,17 +168,25 @@ Interesting Engineering • 1d ago
 
 ---
 
+**[National robotics push caught in delayed Trump-Xi meeting](https://www.politico.com/news/2026/04/09/national-robotics-trump-xi-china-00861918)**
+
+Politico • 3d ago
+
+---
+
+**[China’s Robotics Champion Is Going Public. Its PLA Ties and Western Dependence Aren’t.](https://www.kharon.com/brief/unitree-robotics-ipo-china-pla-robot-wolf)**
+
+The Shanghai IPO of Unitree Robotics is “part of China’s broader positioning in the global race for physical AI,” Sunny Cheung of the Jamestown Foundation said. But its filings tell only part of the story.
+
+Kharon • 2d ago
+
+---
+
 **[Resolved: Laundry folding is the future of home robotics](https://www.pcworld.com/article/3110605/resolved-laundry-folding-is-the-future-of-home-robotics.html)**
 
 Hot on the heels of LG's laundry-folding robot showcased at CES, Syncere has released a much more elegant home robot that marries a floor lamp to laundry-folding functions.
 
 PCWorld • 2d ago
-
----
-
-**[National robotics push caught in delayed Trump-Xi meeting](https://www.politico.com/news/2026/04/09/national-robotics-trump-xi-china-00861918)**
-
-Politico • 3d ago
 
 ---
 
@@ -198,7 +200,7 @@ Try Seedance 2.0 with Claude on Higgsfield: https://higgsfield.ai/s/seedance-2-0
 
 📺 AI Revolution
 
-👁️ 40K • 👍 803 • 💬 97 • ⏱️ 14:57 • 12h ago
+👁️ 43K • 👍 860 • 💬 116 • ⏱️ 14:57 • 13h ago
 
 ---
 
@@ -208,7 +210,7 @@ Go to https://www.artwine.com to get your limited bottle of Ukrainian sparkling 
 
 📺 Paul Warburg
 
-👁️ 76K • 👍 9K • 💬 614 • ⏱️ 31:17 • 8h ago
+👁️ 108K • 👍 12K • 💬 827 • ⏱️ 31:17 • 9h ago
 
 ---
 
@@ -218,7 +220,7 @@ Could AI become dangerous? Can we trust AI Agents? AGI. Use code insideai at htt
 
 📺 InsideAI
 
-👁️ 462K • 👍 18K • 💬 2K • ⏱️ 16:24 • 2d ago
+👁️ 473K • 👍 19K • 💬 2K • ⏱️ 16:24 • 2d ago
 
 ---
 
@@ -228,17 +230,17 @@ Humanoid robots are being used for some manual tasks at the Schaeffler auto part
 
 📺 NBC News
 
-👁️ 88K • 👍 1K • 💬 612 • ⏱️ 4:56 • 2d ago
+👁️ 90K • 👍 1K • 💬 634 • ⏱️ 4:56 • 2d ago
 
 ---
 
-**[Unitree H1 Humanoid Robot Breaks Limits at 22.4 MPH](https://www.youtube.com/watch?v=sfcqAZcWoMo)**
+**[Toyota unveils AI basketball robot CUE7](https://www.youtube.com/watch?v=Nm3fEub7U4w)**
 
-The Unitree H1 humanoid robot just reached an incredible 10 meters per second, which is about 22.4 miles per hour, putting it ...
+Toyota Motor Corp. showcased its latest AI-powered basketball robot, CUE7, showcasing advances in AI robotics. The robot will ...
 
-📺 DPCcars
+📺 Al Jazeera English
 
-👁️ 25K • 👍 184 • 💬 61 • ⏱️ 1:24 • 22h ago
+👁️ 2K • 👍 67 • 💬 3 • ⏱️ 0:42 • 1h ago
 
 ---
 
@@ -248,7 +250,17 @@ Everyone is getting 7 things wrong about Disney's new Olaf animatronic. I asked 
 
 📺 Guide2WDW
 
-👁️ 29K • 👍 788 • 💬 91 • ⏱️ 19:30 • 2d ago
+👁️ 30K • 👍 807 • 💬 91 • ⏱️ 19:30 • 2d ago
+
+---
+
+**[Unitree H1 Humanoid Robot Breaks Limits at 22.4 MPH](https://www.youtube.com/watch?v=sfcqAZcWoMo)**
+
+The Unitree H1 humanoid robot just reached an incredible 10 meters per second, which is about 22.4 miles per hour, putting it ...
+
+📺 DPCcars
+
+👁️ 33K • 👍 209 • 💬 71 • ⏱️ 1:24 • 23h ago
 
 ---
 
@@ -256,17 +268,17 @@ Everyone is getting 7 things wrong about Disney's new Olaf animatronic. I asked 
 
 📺 Just the Bells 10
 
-👁️ 27K • 👍 1K • 💬 59 • ⏱️ 0:33 • 1d ago
+👁️ 28K • 👍 1K • 💬 60 • ⏱️ 0:33 • 1d ago
 
 ---
 
-**[Unitree H1 Humanoid Robot Reclaims Record for Fastest Robot? #robotics #robot #unitreerobotics](https://www.youtube.com/watch?v=rSgpueUzl6g)**
+**[10m/s!! Unitree Breaks the World Record Again😊](https://www.youtube.com/watch?v=zoMDadPQLKA)**
 
-Unitree's H1 humanoid robot is back on top. Or is it? The Chinese robotics leader just shared footage of its full-sized humanoid to ...
+With the physique of an ordinary person, running at a world champion's speed! Leg length: 0.4+0.4=0.8m, body weight: approx.
 
-📺 Kalil 4.0
+📺 Unitree Robotics
 
-👁️ 2K • 👍 82 • 💬 6 • ⏱️ 1:02 • 16h ago
+👁️ 1.8M • 👍 1K • 💬 200 • ⏱️ 0:31 • 1d ago
 
 ---
 
@@ -276,15 +288,7 @@ Lymow → https://lymowtradecolimited.pxf.io/OYr2VG The Lymow One Plus isn't you
 
 📺 How To with Doc
 
-👁️ 15K • 👍 858 • 💬 162 • ⏱️ 21:24 • 2d ago
-
----
-
-**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=K_maQBulcfg)**
-
-📺 Robot Julie 
-
-👁️ 28K • 👍 61 • 💬 2 • ⏱️ 0:21 • 2d ago
+👁️ 15K • 👍 873 • 💬 162 • ⏱️ 21:24 • 2d ago
 
 ---
 

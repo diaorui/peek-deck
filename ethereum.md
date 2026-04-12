@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-12T11:57:08.149273+00:00'
+updated: '2026-04-12T13:14:23.184432+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- videos
 - news
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 12, 2026 at 11:57 UTC  
+**Last Updated:** April 12, 2026 at 13:14 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,200.92
+### $2,206.33
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.0%  
-**7d:** +4.5%  
-**30d:** +4.9%  
-**90d:** -33.8%  
-**1y:** +37.7%  
+**24h:** -2.2%  
+**7d:** +4.1%  
+**30d:** +4.6%  
+**90d:** -34.0%  
+**1y:** +37.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $267.27B
+**Market Cap:** $265.09B
 Rank #2
 
 **Circulating Supply:** 120,691,054 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--55.2%
+-55.6%
 
 **All-Time Low:** $0.43
-+511340.5%
++506804.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 **Welcome to the Daily General Discussion on** r/ethereum [https://imgur.com/3y7vezP\](https://imgur.com/3y7vezP) Bookmarking this link will always bring you to the current daily: [https://old.reddit.com/r/ethereum/about/sticky/?num=2\](https://old.reddit.com/r/ethereum/about/sticky/?num=2) Please use this thread to discuss Ethereum topics, news, events, and even *price*! Price discussion posted elsewhere in the subreddit will **continue to be removed.** As always, be constructive. - [Subreddit Rules](https://www.reddit.com/r/ethereum/about/rules/) Want to stake? Learn more at r/ethstaker **Community Links** * [Ethereum Jobs](https://ethereum.org/en/community/get-involved/#ethereum-jobs), [Twitter](https://x.com/ethereum) * [EVMavericks YouTube](https://www.youtube.com/@evmavericks), [Discord](https://discord.gg/evmavericks), [Doots Podcast](https://evmavericks.libsyn.com/) * [Doots Website](https://dailydoots.com/), Old Reddit [Doots Extension](https://github.com/etheralpha/ethfinance-extension) by u/hanniabu Calendar: [https://dailydoots.com/events/\](https://dailydoots.com/events/)
 
-6h ago
+8h ago
 
 ---
 
@@ -80,7 +80,7 @@ No max supply
 
 Over the past year I've been thinking a lot about Web3. Not the trading, not the speculation, not the casino. I don't trade crypto. I don't follow the markets. What fascinates me is the underlying idea: decentralized systems with code as the only authority. The technology itself. I've been a backend engineer for over a decade. Rails, SQL, the usual stack. But like many engineers, I burned out. The excitement to build faded. You know the feeling. You're competent, productive, but not discovering anything anymore. Then I looked seriously at blockchain. Not as an investor, but as an engineer. I asked myself: what would an application look like if built with absolute fidelity to what blockchain promises? Real utility (useful for the masses, not DeFi nonesense) NO off-chain layers (100% on-chain) NO insider advantages (fair economics) NO dependence on investors (self-sustaining) NO pointless tokenomics (ETH in, ETH out) Those five principles became my compass. I tried to build something that never violated them. But the Web3 ecosystem is built around tokenomics and speculation. There's no blueprint to follow. So I started pulling my own thread: I wanted to build something useful, deterministic, fully on-chain, with no complicated tokenomics. A simple game like TicTacToe with real ETH stakes? Interesting, but too narrow. Then the frame shifted. I wasn't building a game anymore. I was building a tournament layer. A universal competitive infrastructure that's fair, open-source, and 100% on-chain. That's when the hard problems started. How do you handle draws on a decentralized platform? How do you stop players griefing opponents without central authority? These aren't just technical questions. They're moral ones. They forced me to think deeply about fairness, about building a system nobody controls and nobody can manipulate. The answers surprised me. Forget Kubernetes, Redis, all that complexity. With these constraints (fully on-chain, truly open, completely decentralized) the legacy stack collapses into something elegant. A client talking directly to contracts. No servers. No databases. No company. Just code. That freedom changed how I think about software. So I built ETour A 100% on-chain tournament protocol, now live on Arbitrum. Players pay an entry fee, compete, the best player wins and takes the pot. Code decides everything. No intermediaries. As Web3 should be. I open-sourced it so developers can build their own games on it and inherit all of its features for free. I'm not here to tell you this is revolutionary. I built this because it felt like a problem worth solving. ETour is what came out the other side. The code is public. The contracts are immutable. The logic is yours to verify. PS: The technical docs are not final and will be updated soon. https://etour.games https://etour.games/whitepaper https://etour.games/manual https://etour.games/docs TLDR: ETour is useful, it's live, and it's open-source. Go ahead and play on it, or build your own game using its 100% on-chain and open source tournament modules.
 
-22h ago
+23h ago
 
 ---
 
@@ -156,23 +156,23 @@ I've learnt that we can now invest in gold directly in crypto, which is quite ex
 
 The Ether Machine terminates its SPAC merger with Dynamix, citing unfavorable market conditions amid ETH's sharp decline from its 2025 highs.
 
-BeInCrypto • 16h ago
+BeInCrypto • 18h ago
 
 ---
 
-**[TD Cuts Bitcoin Giant Strategy's Price Target, Calls Ethereum Treasury Sharplink a ‘Buy’](https://finance.yahoo.com/markets/crypto/articles/td-cuts-bitcoin-giant-strategys-220921727.html)**
+**[Bitcoin and ethereum prices today, Friday, April 10, 2026: Prices rise ahead of CPI report](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-april-10-2026-prices-rise-ahead-of-cpi-report-111733660.html)**
 
-TD Cowen remains positive on $55 billion Bitcoin treasury pioneer Strategy, despite trimming its price target yet again.
+Bitcoin opened at $71,783.52 on Friday and then rose slightly in early trading. Ethereum showed the same trend, opening at $2,189.99 and rising somewhat in early hours.
 
 Yahoo Finance • 2d ago
 
 ---
 
-**[Ethereum Is About To Go ‘Parabolic’ – Analyst Signals Golden Triangle Formation](https://www.tradingview.com/news/newsbtc:237f5e313094b:0-ethereum-is-about-to-go-parabolic-analyst-signals-golden-triangle-formation/)**
+**[TD Cuts Bitcoin Giant Strategy's Price Target, Calls Ethereum Treasury Sharplink a ‘Buy’](https://decrypt.co/363902/td-cuts-bitcoin-giant-strategy-price-target-ethereum-treasury-sharplink-buy)**
 
-An analyst on X has made a bold call on Ethereum, stating that the asset is on the verge of a parabolic move. The claim is based on a golden triangle formation on the chart, a setup that shows a breakout could be approaching for the leading altcoin. This approaching breakout could also serve as the…
+TD Cowen remains positive on $55 billion Bitcoin treasury pioneer Strategy, despite trimming its price target yet again.
 
-TradingView — Track All Markets • 16h ago
+Decrypt • 2d ago
 
 ---
 
@@ -182,11 +182,25 @@ MarketWatch • 2d ago
 
 ---
 
-**[Tom Lee's BitMine Uplisted to NYSE as Ethereum Firm Expands Buyback Program to $4 Billion](https://finance.yahoo.com/markets/stocks/articles/tom-lees-bitmine-uplisted-nyse-155826429.html)**
+**[Ethereum Is About To Go ‘Parabolic’ – Analyst Signals Golden Triangle Formation](https://www.tradingview.com/news/newsbtc:237f5e313094b:0-ethereum-is-about-to-go-parabolic-analyst-signals-golden-triangle-formation/)**
 
-Ethereum treasury giant BitMine Immersion Technologies upped its share buyback program to $4 billion and was uplisted to the NYSE on Thursday.
+An analyst on X has made a bold call on Ethereum, stating that the asset is on the verge of a parabolic move. The claim is based on a golden triangle formation on the chart, a setup that shows a breakout could be approaching for the leading altcoin. This approaching breakout could also serve as the…
 
-Yahoo Finance • 2d ago
+TradingView — Track All Markets • 17h ago
+
+---
+
+**[Weekly recap of Bitcoin, Ethereum, Solana, and XRP ETF performance](https://ambcrypto.com/weekly-recap-of-bitcoin-ethereum-solana-and-xrp-etf-performance/)**
+
+AMBCrypto • 2h ago
+
+---
+
+**[Ethereum struggles amid US-Iran tensions, April price targets in doubt](https://cryptobriefing.com/ethereum-struggles-amid-us-iran-tensions-april-price-targets-in-doubt/)**
+
+Ethereum is currently 55% below its all-time high as U.S.-Iran tensions escalate. The likelihood of Ethereum exceeding key April price targets has dropped, with
+
+Crypto Briefing • 8h ago
 
 ---
 
@@ -198,31 +212,17 @@ Seeking Alpha • 2d ago
 
 ---
 
+**[Tom Lee's BitMine Uplisted to NYSE as Ethereum Firm Expands Buyback Program to $4 Billion](https://finance.yahoo.com/markets/stocks/articles/tom-lees-bitmine-uplisted-nyse-155826429.html)**
+
+Ethereum treasury giant BitMine Immersion Technologies upped its share buyback program to $4 billion and was uplisted to the NYSE on Thursday.
+
+Yahoo Finance • 2d ago
+
+---
+
 **[Bitmine Stock Plugs Into a New Power Source as Ethereum Holdings Hits Record Highs; BMNR Up 15%](https://www.tipranks.com/news/bitmine-stock-plugs-into-a-new-power-source-as-ethereum-holdings-hit-record-highs-bmnr-up-15)**
 
 TipRanks • 3d ago
-
----
-
-**[Why is Crypto Rallying Today: Price Targets For Bitcoin, Ethereum and XRP](https://coinpedia.org/news/why-is-crypto-rallying-price-targets-for-bitcoin-ethereum-and-xrp/)**
-
-The crypto market has rebounded, with Bitcoin rising 10% over the last eight days and Ethereum up 12% in the same period. The total market cap is now up
-
-Coinpedia • 1d ago
-
----
-
-**[Ethereum Foundation sells 1,250 ETH for $2.8M, halts staking](https://cryptobriefing.com/ethereum-foundation-sells-1250-eth-for-28m-halts-staking/)**
-
-The Ethereum Foundation sold 1,250 ETH for $2.8 million and stopped staking ETH, pushing odds in the Ethereum Above Price Predictions in April market toward bea
-
-Crypto Briefing • 21h ago
-
----
-
-**[Ethereum or Solana: Ethereum (ETH), Solana (SOL), and Pepeto, Which One Should You Buy During the Dip in 2026](https://financefeeds.com/ethereum-or-solana-ethereum-eth-solana-sol-and-pepeto-which-one-should-you-buy-during-the-dip-in-2026/)**
-
-FinanceFeeds • 5h ago
 
 ---
 
@@ -236,7 +236,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 20K • 👍 601 • 💬 91 • ⏱️ 19:27 • 19h ago
+👁️ 21K • 👍 639 • 💬 94 • ⏱️ 19:27 • 20h ago
 
 ---
 
@@ -246,7 +246,27 @@ Ethereum has completed a five wave move up from the March lows – a critical El
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 142 • 💬 13 • ⏱️ 9:19 • 10h ago
+👁️ 3K • 👍 160 • 💬 13 • ⏱️ 9:19 • 12h ago
+
+---
+
+**[CRUCIAL ETHEREUM UPDATE🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=oi3hmciShIc)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 101 • 👍 7 • 💬 3 • ⏱️ 4:41 • 3h ago
+
+---
+
+**[CRYPTO LIVE TRADING || 12 APRIL  | ‪@ClockTraderlive‬ #bitcoin #ethereum #crypto #btclivetrading](https://www.youtube.com/watch?v=F6SI4kz_T80)**
+
+join my social platforms for updates and analysis ✓Instagram: ...
+
+📺 Aryan trader Live
+
+👁️ 5K • 👍 4K • 2h ago
 
 ---
 
@@ -256,7 +276,7 @@ BITCOIN PRICE SQUEEZE: Final Warning (Urgent)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 7K • 👍 290 • 💬 254 • ⏱️ 22:15 • 13h ago
+👁️ 8K • 👍 298 • 💬 252 • ⏱️ 22:15 • 14h ago
 
 ---
 
@@ -266,7 +286,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 588 • 👍 89 • ⏱️ 5:12 • 5h ago
+👁️ 1K • 👍 115 • ⏱️ 5:12 • 6h ago
 
 ---
 
@@ -276,17 +296,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 187 • 💬 27 • ⏱️ 15:02 • 1d ago
-
----
-
-**[Btc Live Trading | Crypto Live Trading | Live Trading | Live Crypto Trading | Bitcoin Live Trading](https://www.youtube.com/watch?v=DFsgu7CdR1U)**
-
-BTC LIVE TRADING TODAY | BITCOIN LIVE | CRYPTO LIVE TRADING Start your trading journey with XM — a trusted and ...
-
-📺 Ashutosh Kumar
-
-👁️ 6K • 👍 523 • 4h ago
+👁️ 5K • 👍 195 • 💬 27 • ⏱️ 15:02 • 1d ago
 
 ---
 
@@ -297,16 +307,6 @@ Coinbase Global (NASDAQ: $COIN) CEO Brian Armstrong is calling for the passage i
 📺 Paul Barron Network
 
 👁️ 54K • 👍 2K • 💬 211 • ⏱️ 33:50 • 1d ago
-
----
-
-**[Ethereum vs Solana: Which One Should You Pick?](https://www.youtube.com/watch?v=KPd1hWb2HnQ)**
-
-cPenNetwork #cpen cPen Network: Building a Sustainable Future for Blockchain, Integrated with Web2. Install cPen mobile app ...
-
-📺 cPen
-
-👁️ 20K • 👍 1K • 💬 146 • ⏱️ 1:38 • 20h ago
 
 ---
 
