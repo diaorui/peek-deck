@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-12T15:05:29.959295+00:00'
+updated: '2026-04-12T16:00:25.604096+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- cryptocurrency
 - social
 - news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 12, 2026 at 15:05 UTC  
+**Last Updated:** April 12, 2026 at 16:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $265.09B
+**Market Cap:** $263.88B
 Rank #2
 
 **Circulating Supply:** 120,691,054 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--55.6%
+-55.8%
 
 **All-Time Low:** $0.43
-+506804.5%
++504864.4%
 
 ---
 
@@ -78,7 +78,7 @@ No max supply
 
 **[Is the "Crypto Purge" at Twitter simply an algorithm glitch—or a massive Conflict of Interest?](https://www.reddit.com/r/ethereum/comments/1sjf56t/is_the_crypto_purge_at_twitter_simply_an/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -154,7 +154,7 @@ The Ethereum Layer 2 powering Predictstreet. Built by Abu Dhabi's IHC, hosting a
 
 The Ether Machine terminates its SPAC merger with Dynamix, citing unfavorable market conditions amid ETH's sharp decline from its 2025 highs.
 
-BeInCrypto • 19h ago
+BeInCrypto • 20h ago
 
 ---
 
@@ -162,7 +162,7 @@ BeInCrypto • 19h ago
 
 @Etherdude 1166 Views|1 Like
 
-Moomoo • 51m ago
+Moomoo • 1h ago
 
 ---
 
@@ -178,13 +178,13 @@ Yahoo Finance • 2d ago
 
 An analyst on X has made a bold call on Ethereum, stating that the asset is on the verge of a parabolic move. The claim is based on a golden triangle formation on the chart, a setup that shows a breakout could be approaching for the leading altcoin. This approaching breakout could also serve as the…
 
-TradingView — Track All Markets • 19h ago
+TradingView — Track All Markets • 20h ago
 
 ---
 
 **[Weekly recap of Bitcoin, Ethereum, Solana, and XRP ETF performance](https://ambcrypto.com/weekly-recap-of-bitcoin-ethereum-solana-and-xrp-etf-performance/)**
 
-AMBCrypto • 4h ago
+AMBCrypto • 5h ago
 
 ---
 
@@ -192,7 +192,7 @@ AMBCrypto • 4h ago
 
 Ethereum is currently 55% below its all-time high as U.S.-Iran tensions escalate. The likelihood of Ethereum exceeding key April price targets has dropped, with
 
-Crypto Briefing • 9h ago
+Crypto Briefing • 10h ago
 
 ---
 
@@ -214,7 +214,7 @@ Seeking Alpha • 2d ago
 
 The crypto market has rebounded, with Bitcoin rising 10% over the last eight days and Ethereum up 12% in the same period. The total market cap is now up
 
-Coinpedia • 1d ago
+Coinpedia • 2d ago
 
 ---
 
@@ -230,13 +230,23 @@ FXStreet • 1d ago
 
 ## YouTube Videos: "ethereum"
 
+**[Ethereum Supply Shock + BlackRock Staking = Massive Setup](https://www.youtube.com/watch?v=MhOmj6JSAgs)**
+
+Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to stay smart on crypto: ...
+
+📺 Milk Road
+
+👁️ 690 • 👍 62 • 💬 105 • ⏱️ 10:57 • 3h ago
+
+---
+
 **[Raoul Pal: &quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=Gys5vX-3hfg)**
 
 My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
 📺 Crypto Nutshell
 
-👁️ 21K • 👍 639 • 💬 94 • ⏱️ 19:27 • 22h ago
+👁️ 22K • 👍 672 • 💬 95 • ⏱️ 19:27 • 23h ago
 
 ---
 
@@ -246,27 +256,17 @@ Ethereum has completed a five wave move up from the March lows – a critical El
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 160 • 💬 13 • ⏱️ 9:19 • 14h ago
+👁️ 3K • 👍 175 • 💬 18 • ⏱️ 9:19 • 14h ago
 
 ---
 
-**[CRUCIAL ETHEREUM UPDATE🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=oi3hmciShIc)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 101 • 👍 7 • 💬 3 • ⏱️ 4:41 • 5h ago
-
----
-
-**[CRYPTO LIVE TRADING || 12 APRIL  | ‪@ClockTraderlive‬ #bitcoin #ethereum #crypto #btclivetrading](https://www.youtube.com/watch?v=F6SI4kz_T80)**
+**[CRYPTO LIVE TRADING || 12 APRIL  | ‪@ClockTraderlive‬ #bitcoin #ethereum #crypto #btclivetrading](https://www.youtube.com/watch?v=aZ9_TTFf_JY)**
 
 join my social platforms for updates and analysis ✓Instagram: ...
 
 📺 Aryan trader Live
 
-👁️ 5K • 👍 4K • 4h ago
+👁️ 3K • 👍 4K • 1h ago
 
 ---
 
@@ -276,27 +276,27 @@ BITCOIN PRICE SQUEEZE: Final Warning (Urgent)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 8K • 👍 298 • 💬 252 • ⏱️ 22:15 • 16h ago
+👁️ 8K • 👍 308 • 💬 266 • ⏱️ 22:15 • 17h ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=Rzxi1xSH2mA)**
+**[CRUCIAL ETHEREUM UPDATE🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=oi3hmciShIc)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 156 • 👍 9 • 💬 3 • ⏱️ 4:41 • 6h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=Be0MuVrrJvY)**
 
 Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
 
 📺 Crypto Gyan
 
-👁️ 1K • 👍 115 • ⏱️ 5:12 • 8h ago
-
----
-
-**[ADA, XRP &amp; ETH Holders NEED to Hear This IMMEDIATELY – Matt Hougan](https://www.youtube.com/watch?v=Ai1_0W5vZBM)**
-
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
-
-📺 Savvy Finance
-
-👁️ 5K • 👍 195 • 💬 27 • ⏱️ 15:02 • 1d ago
+👁️ 171 • 👍 33 • ⏱️ 5:19 • 39m ago
 
 ---
 
@@ -306,27 +306,27 @@ Coinbase Global (NASDAQ: $COIN) CEO Brian Armstrong is calling for the passage i
 
 📺 Paul Barron Network
 
-👁️ 54K • 👍 2K • 💬 211 • ⏱️ 33:50 • 1d ago
+👁️ 55K • 👍 3K • 💬 213 • ⏱️ 33:50 • 1d ago
 
 ---
 
-**[Ethereum Bottom? Massive 71K ETH Buy Signal! #shorts](https://www.youtube.com/watch?v=JO1E_T1-WqY)**
+**[Live Market Analysis BTC-ETH-Gold(XAUT) With FinLAB](https://www.youtube.com/watch?v=7kSsaYMXb9s)**
 
-Earth's top Ethereum buyer just acquired 71000 ETH, signaling a potential market bottom. Smart investors position themselves ...
+Phone number : 8638229734 , 6000311798 To Trade with me Together Open Account here AND Get Rs.10000/- Credits ...
 
-📺 CoinBros
+📺 FinLAB
 
-👁️ 800 • ⏱️ 0:33 • 2d ago
+👁️ 126 • 👍 955 • 23m ago
 
 ---
 
-**[Ethereum price prediction - ETH will make good money](https://www.youtube.com/watch?v=S1g9zI4MahI)**
+**[ADA, XRP &amp; ETH Holders NEED to Hear This IMMEDIATELY – Matt Hougan](https://www.youtube.com/watch?v=Ai1_0W5vZBM)**
 
-Ethereum price prediction. Ethereum looks like it's going to drop over the next few weeks. My ethereum technical analysis helps ...
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
 
-📺 Crypto With James
+📺 Savvy Finance
 
-👁️ 5K • 👍 48 • 💬 16 • ⏱️ 11:33 • 2d ago
+👁️ 5K • 👍 211 • 💬 27 • ⏱️ 15:02 • 1d ago
 
 ---
 
