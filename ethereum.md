@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-12T18:52:48.875996+00:00'
+updated: '2026-04-12T19:39:46.834133+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
+- cryptocurrency
 - social
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 12, 2026 at 18:52 UTC  
+**Last Updated:** April 12, 2026 at 19:39 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 **Welcome to the Daily General Discussion on** r/ethereum [https://imgur.com/3y7vezP\](https://imgur.com/3y7vezP) Bookmarking this link will always bring you to the current daily: [https://old.reddit.com/r/ethereum/about/sticky/?num=2\](https://old.reddit.com/r/ethereum/about/sticky/?num=2) Please use this thread to discuss Ethereum topics, news, events, and even *price*! Price discussion posted elsewhere in the subreddit will **continue to be removed.** As always, be constructive. - [Subreddit Rules](https://www.reddit.com/r/ethereum/about/rules/) Want to stake? Learn more at r/ethstaker **Community Links** * [Ethereum Jobs](https://ethereum.org/en/community/get-involved/#ethereum-jobs), [Twitter](https://x.com/ethereum) * [EVMavericks YouTube](https://www.youtube.com/@evmavericks), [Discord](https://discord.gg/evmavericks), [Doots Podcast](https://evmavericks.libsyn.com/) * [Doots Website](https://dailydoots.com/), Old Reddit [Doots Extension](https://github.com/etheralpha/ethfinance-extension) by u/hanniabu Calendar: [https://dailydoots.com/events/\](https://dailydoots.com/events/)
 
-13h ago
+14h ago
 
 ---
 
@@ -86,13 +86,13 @@ I permanently lost $2,000 USD value trying to stake via direct contract interact
 
 **[World Liberty Financial borrowed its own stablecoin against its own token on a platform run by its own advisor and Justin Sun (WLFI biggest investor) just called it fraud.](https://www.reddit.com/r/ethereum/comments/1sjkjuc/world_liberty_financial_borrowed_its_own/)**
 
-1h ago
+2h ago
 
 ---
 
 **[Is the "Crypto Purge" at Twitter simply an algorithm glitch—or a massive Conflict of Interest?](https://www.reddit.com/r/ethereum/comments/1sjf56t/is_the_crypto_purge_at_twitter_simply_an/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -152,7 +152,7 @@ World Liberty Financial deposited 3B WLFI tokens as collateral to borrow $50M of
 
 The Ether Machine terminates its SPAC merger with Dynamix, citing unfavorable market conditions amid ETH's sharp decline from its 2025 highs.
 
-BeInCrypto • 23h ago
+BeInCrypto • 1d ago
 
 ---
 
@@ -160,7 +160,7 @@ BeInCrypto • 23h ago
 
 @Etherdude 1166 Views|1 Like
 
-Moomoo • 4h ago
+Moomoo • 5h ago
 
 ---
 
@@ -182,7 +182,7 @@ TradingView — Track All Markets • 12h ago
 
 **[Weekly recap of Bitcoin, Ethereum, Solana, and XRP ETF performance](https://ambcrypto.com/weekly-recap-of-bitcoin-ethereum-solana-and-xrp-etf-performance/)**
 
-AMBCrypto • 7h ago
+AMBCrypto • 8h ago
 
 ---
 
@@ -204,7 +204,7 @@ Seeking Alpha • 2d ago
 
 Ethereum is currently 55% below its all-time high as U.S.-Iran tensions escalate. The likelihood of Ethereum exceeding key April price targets has dropped, with
 
-Crypto Briefing • 13h ago
+Crypto Briefing • 14h ago
 
 ---
 
@@ -218,7 +218,7 @@ Coinpedia • 2d ago
 
 **[Ethereum or Solana: Ethereum (ETH), Solana (SOL), and Pepeto, Which One Should You Buy During the Dip in 2026](https://financefeeds.com/ethereum-or-solana-ethereum-eth-solana-sol-and-pepeto-which-one-should-you-buy-during-the-dip-in-2026/)**
 
-FinanceFeeds • 12h ago
+FinanceFeeds • 13h ago
 
 ---
 
@@ -232,7 +232,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 1K • 👍 90 • 💬 108 • ⏱️ 10:57 • 5h ago
+👁️ 1K • 👍 90 • 💬 108 • ⏱️ 10:57 • 6h ago
 
 ---
 
@@ -252,7 +252,7 @@ Freedom is a minimalist browser for Swarm and IPFS. No centralized gateways. You
 
 📺 Paul Barron Network
 
-👁️ 7K • 👍 687 • 💬 86 • ⏱️ 18:02 • 2h ago
+👁️ 7K • 👍 687 • 💬 86 • ⏱️ 18:02 • 3h ago
 
 ---
 
@@ -262,7 +262,7 @@ Ethereum has completed a five wave move up from the March lows – a critical El
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 181 • 💬 19 • ⏱️ 9:19 • 17h ago
+👁️ 3K • 👍 181 • 💬 19 • ⏱️ 9:19 • 18h ago
 
 ---
 
@@ -272,7 +272,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 528 • 👍 75 • ⏱️ 5:19 • 3h ago
+👁️ 528 • 👍 75 • ⏱️ 5:19 • 4h ago
 
 ---
 
@@ -282,7 +282,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 213 • 👍 10 • 💬 3 • ⏱️ 4:41 • 9h ago
+👁️ 213 • 👍 10 • 💬 3 • ⏱️ 4:41 • 10h ago
 
 ---
 
@@ -302,7 +302,7 @@ BITCOIN PRICE SQUEEZE: Final Warning (Urgent)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 9K • 👍 317 • 💬 419 • ⏱️ 22:15 • 20h ago
+👁️ 9K • 👍 317 • 💬 419 • ⏱️ 22:15 • 21h ago
 
 ---
 
