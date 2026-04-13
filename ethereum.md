@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-13T19:47:47.474477+00:00'
+updated: '2026-04-13T20:57:12.006515+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
-- social
 - videos
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 13, 2026 at 19:47 UTC  
+**Last Updated:** April 13, 2026 at 20:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,251.28
+### $2,252.16
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.0%  
-**7d:** +0.7%  
-**30d:** +3.7%  
-**90d:** -32.8%  
-**1y:** +39.2%  
+**24h:** +1.9%  
+**7d:** +0.5%  
+**30d:** +3.5%  
+**90d:** -32.9%  
+**1y:** +38.9%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -88,7 +88,7 @@ I permanently lost $2,000 USD value trying to stake via direct contract interact
 
 I built a CLI tool in rust called LaunchDex that deploys a full DEX--factory contract, router, liquidity pair and swap frontend--on Ethereum, Arbitrum, and Base in a single command. The whole process that typically takes weeks of manual contract deployment, configuration and frontend setup is reduced to launchdex deploy. Contract addresses are saved automatically and a custom swap interface is generated and ready to deploy. The tool is built on top of verified Uniswap v2 contracts so the deployed DEX is production-grade and audited. Multi-token support lets you add additional trading pairs to an existing factory with one command. The generated frontend includes an embedded wallet so user can swap tokens without needing Metamask installed. Let me know what you think
 
-19h ago
+21h ago
 
 ---
 
@@ -110,7 +110,7 @@ I built a CLI tool in rust called LaunchDex that deploys a full DEX--factory con
 
 There’s a lot of focus lately on calldata in the context of rollups and EIP-2028 gas economics (16 vs 4 gas per byte). While data availability is important, I often see the actual low-level execution mechanics get glossed over. I wrote a deep dive on EVM internals covering this exact topic. If you've ever wondered what happens at the opcode level the millisecond your transaction payload hits a smart contract, here is the actual lifecycle of calldata: The Raw Byte Handoff & The 4-Byte Check When a transaction is sent, the EVM doesn't understand "functions" or "parameters", it just sees a raw hex-encoded blob in a read-only area called calldata. Before anything else, the EVM checks the length of this data: The Function Dispatcher (The EVM's Switchboard) If there is data, the EVM runs the dispatcher essentially a giant, compiler-generated switch/case statement: If it finds a match, it uses JUMPI to move the Program Counter to that specific block of code. ABI Decoding & Stack Loading Once the EVM jumps to the right function, it has to "unpack" the arguments: Dynamic Types (string, bytes[]): The calldata contains an offset (a pointer). The EVM reads this offset, jumps to that position in the calldata, reads the length prefix, and then processes the actual data. The payable Word Before executing any actual business logic, the EVM checks the callvalue (msg.value). If the target function is not explicitly marked as payable, but the transaction includes ETH, the EVM triggers a REVERT right here. This prevents trapped funds and happens before your code even starts running. memory vs. calldata Execution This is where the famous gas savings come in during execution: If a function parameter is declared as memory, the EVM is forced to use CALLDATACOPY to move the read-only bytes into mutable memory. This triggers memory expansion gas costs. If declared as calldata, the EVM skips the copy process entirely. It just uses CALLDATALOAD to read directly from the original transaction payload, saving you the memory expansion overhead. source/deep dive overview: https://andreyobruchkov1996.substack.com/p/what-actually-happens-when-calldata
 
-22h ago
+1d ago
 
 ---
 
@@ -152,7 +152,7 @@ Roman Storm acquittal hearing, ETHGlobal Cannes hackathon finalists, EVM Now blo
 
 A forged cross-chain message bypassed state proof validation on the bridge contract, granting admin control over the bridged DOT token and allowing the attacker to mint and dump the entire supply for $237,000.
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
 
 ---
 
@@ -168,7 +168,7 @@ BeInCrypto • 2d ago
 
 BitMine Immersion Technologies' Ethereum treasury gained another $157 million of ETH last week, its biggest acquisition since December.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -176,7 +176,7 @@ Yahoo Finance • 5h ago
 
 If crypto treasury companies are loading up on Bitcoin and Ethereum, should you be too?
 
-The Motley Fool • 7h ago
+The Motley Fool • 8h ago
 
 ---
 
@@ -184,7 +184,7 @@ The Motley Fool • 7h ago
 
 Bitmine now owns more than 4% of the total ETH coin supply of 120.7 million Bitmine is 81% of the way to the 'Alchemy of 5%' in just 9 months Bitmine uplisted...
 
-PR Newswire • 7h ago
+PR Newswire • 8h ago
 
 ---
 
@@ -192,7 +192,7 @@ PR Newswire • 7h ago
 
 Ethereum price started a fresh decline and traded below $2,250. ETH is now consolidating above $2,175 and might struggle to recover.Ethereum Price Dips AgainEthereum price failed to remain stable above $2,250 and started a downside correction, like Bitcoin. ETH price dipped below the $2,220 and $2…
 
-TradingView — Track All Markets • 15h ago
+TradingView — Track All Markets • 16h ago
 
 ---
 
@@ -200,13 +200,13 @@ TradingView — Track All Markets • 15h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 6h ago
+Fortune • 7h ago
 
 ---
 
 **[Bitcoin, XRP, Ethereum Fall. Iran Peace Failure Causes a Crypto Headache.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-iran-crypto-46d858c6)**
 
-Barron's • 7h ago
+Barron's • 8h ago
 
 ---
 
@@ -214,13 +214,13 @@ Barron's • 7h ago
 
 Bitcoin (BTC) and Ethereum (ETH) held gains on Monday after rising by over 2.5% and 3.5%, respectively, and Ripple (XRP) stabilized around the key level, the previous week.
 
-FXStreet • 16h ago
+FXStreet • 17h ago
 
 ---
 
 **[Ethereum Price Near Breakout?: On-Chain Signals Just Flipped Bullish](https://www.binance.com/en/square/post/312093831468945)**
 
-Binance • 6h ago
+Binance • 7h ago
 
 ---
 
@@ -234,7 +234,7 @@ Here is the latest on bitcoin, ethereum and crypto in general! Be aware of whats
 
 📺 Thomas Kralow
 
-👁️ 11K • 👍 1K • 💬 47 • ⏱️ 10:18 • 8h ago
+👁️ 11K • 👍 1K • 💬 47 • ⏱️ 10:18 • 9h ago
 
 ---
 
@@ -254,7 +254,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 354 • 👍 40 • 💬 7 • ⏱️ 38:50 • 1h ago
+👁️ 354 • 👍 40 • 💬 7 • ⏱️ 38:50 • 2h ago
 
 ---
 
@@ -284,7 +284,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 📺 The Moon Show
 
-👁️ 9K • 👍 888 • 💬 68 • ⏱️ 8:32 • 10h ago
+👁️ 9K • 👍 888 • 💬 68 • ⏱️ 8:32 • 11h ago
 
 ---
 
@@ -294,7 +294,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 235 • 👍 25 • 💬 2 • ⏱️ 5:26 • 10h ago
+👁️ 235 • 👍 25 • 💬 2 • ⏱️ 5:26 • 11h ago
 
 ---
 
@@ -314,7 +314,7 @@ Daily BTC, ETH, TSLA trades. Subscribe. Bybit bonus up to $30000 https://partner
 
 📺 James Crypto Guru
 
-👁️ 2K • 👍 126 • 💬 18 • ⏱️ 11:17 • 17h ago
+👁️ 2K • 👍 126 • 💬 18 • ⏱️ 11:17 • 18h ago
 
 ---
 
@@ -324,7 +324,7 @@ BITCOIN WARNING SIGNAL CONFIRMED (This is Next)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 7K • 👍 262 • 💬 468 • ⏱️ 17:54 • 22h ago
+👁️ 7K • 👍 262 • 💬 468 • ⏱️ 17:54 • 23h ago
 
 ---
 

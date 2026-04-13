@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-13T19:47:47.477616+00:00'
+updated: '2026-04-13T20:57:12.009347+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 13, 2026 at 19:47 UTC  
+**Last Updated:** April 13, 2026 at 20:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Beijing’s Humanoid Robot Half Marathon, Night Run Test - Around 40% of teams are running fully autonomous, remote-controlled runs get a 1.2× penalty (Beijing's E-Town Half Marathon on April 19 with 100+ teams, 300+ humanoids competing)](https://www.reddit.com/r/robotics/comments/1sk6p2y/beijings_humanoid_robot_half_marathon_night_run/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -42,7 +42,15 @@ Robotics research and industry news
 
 Zack Jackowski, VP of Atlas Product at Boston Dynamics, explains that the first robot is really just a research machine used to figure out how everything actually works together. When they built it, they didn’t fully understand how all the components would interact, so it ended up overbuilt and a bit unbalanced, with things like multiple computers and parts pushed to extremes. He describes how the second-generation design is where that learning gets applied. Once they have real data, they can simplify the system, remove what isn’t needed, and make better decisions about weight, strength, and compute. The result isn’t not just a cheaper version, it’s a more efficient and better-performing robot overall because it’s based on what they learned from the first one rather than assumptions. j
 
-3h ago
+4h ago
+
+---
+
+**[I quit my robotics job because they were moving into weaponized platforms. Now I'm starting my own venture and need some feedback.](https://www.reddit.com/r/robotics/comments/1skn0jj/i_quit_my_robotics_job_because_they_were_moving/)**
+
+Two weeks ago, I quit my job at a robotics company. I didn't have another offer lined up, and I was working with some amazing hardware (Boston Dynamics, Unitree, Husarion). On paper, it was great. But the company began moving into the defense sector and planned to mount teleoperated weapons on the platforms for a demo. That crossed a hard line for me, so I walked away. I want to build robots (and the tools we use to control them) that actually adapt to people and improve interactions, not something that could potentially hurt someone. I've decided to take the leap into entrepreneurship. Right now, I'm trying to better understand how engineers, developers, and makers actually work with their robots day to day, what frustrates them about current control interfaces, and what's missing. If you work with robots (ROS2, embedded, commercial, whatever) or just tinker with them, I would really appreciate 3 minutes of your time to fill out this customer discovery survey: 👉 https://forms.gle/3Nm76wkeT5CMt23c8 I'm also really curious to hear your thoughts here in the thread: Have any of you faced similar ethical dilemmas in your robotics careers? How did you handle it? Happy to discuss in the comments. Thanks!
+
+27m ago
 
 ---
 
@@ -54,7 +62,7 @@ Zack Jackowski, VP of Atlas Product at Boston Dynamics, explains that the first 
 
 **[PeritasAI and NVIDIA Isaac Enabling Real-Time AI Awareness in Surgical Robotics](https://www.reddit.com/r/robotics/comments/1skgc65/peritasai_and_nvidia_isaac_enabling_realtime_ai/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -68,6 +76,22 @@ Zack Jackowski, VP of Atlas Product at Boston Dynamics, explains that the first 
 
 The first clip is the final product — a recital for friends and family after 1+ year of work. The remainder of clips are in chronological order: proof-of-concept (breadboard), construction and testing, enclosure and sound-proofing (to eliminate clicking sound from actuators), and final testing before the recital. After the initial proof-of-concept, I bought an old piano and used a lot of its parts in the construction — you can see the “hammers” (and backstops) that play the keys. Built with an Arduino Mega, it plays any midi file. It has 88 individual actuators with PWM to adjust for pressure (velocity). This was a fun project, but glad to be done!
 
+2h ago
+
+---
+
+**[How VLAs work - mathematics for engineers](https://www.reddit.com/r/robotics/comments/1skmrg0/how_vlas_work_mathematics_for_engineers/)**
+
+I wrote this article to help engineers understand the deep-learning math behind VLAs, which can be used to supercharge your existing robots (with open models like openVLA, gr00t and others) Including: how VLMs are being repurposed into control policies why action tokenization vs continuous control is a real fork in the road what’s actually hard (hint: data + embodiment, not just scaling) The interesting bit: it frames VLA not as magic, but as a pretty natural extension of sequence modeling (like GPT with torque and acceleration). Let me know what you think
+
+🔗 [Towards Data Science](https://towardsdatascience.com/how-visual-language-action-vla-models-work/) • 36m ago
+
+---
+
+**[AI Robot](https://www.reddit.com/r/robotics/comments/1skm2af/ai_robot/)**
+
+Hey! I'm making autonomous car with supported Gemini. Gemini is processing image and make decision. After that, When Gemini made the decision of movement, it send a movement command to ESP32 like forward,backward,left,right. I'm using IMX219-83 stereo camera. I want gemini to do everything about image-processing, maker-decision. So I'm not sure about using Nvidia-VPI. Can the Gemini create a sense of depth using the left and right images from the stereo camera?
+
 1h ago
 
 ---
@@ -76,31 +100,7 @@ The first clip is the final product — a recital for friends and family after 1
 
 l have open source the Algorithm on github.l have test the RoboBaton mini servel days.l find that it's good to use.l buy the camera from website : myrobotproject.
 
-3h ago
-
----
-
-**[How VLAs Work - Mathematics for Engineers](https://www.reddit.com/r/robotics/comments/1skijkw/how_vlas_work_mathematics_for_engineers/)**
-
-I wrote this article to help engineers understand the deep-learning math behind VLAs, which can be used to supercharge your existing robots (with open models like openVLA, gr00t and others) Including: how VLMs are being repurposed into control policies why action tokenization vs continuous control is a real fork in the road what’s actually hard (hint: data + embodiment, not just scaling) The interesting bit: it frames VLA not as magic, but as a pretty natural extension of sequence modeling (like GPT with torque and acceleration). Let me know what you think
-
-🔗 [contributor.insightmediagroup.io](https://contributor.insightmediagroup.io/how-visual-language-action-vla-models-work/) • 1h ago
-
----
-
-**[I've finally built the Bimo Robotics Kit v1.0, an open-source bipedal robotics platform.](https://www.reddit.com/r/robotics/comments/1sjhufo/ive_finally_built_the_bimo_robotics_kit_v10_an/)**
-
-After more than two years of solo development, I'm releasing v1.0 of the Bimo Robotics Kit. Bimo is an open-source bipedal robotics platform designed as a complete research and education kit. The core value is the full sim-to-real pipeline: you train RL locomotion models in Isaac Lab and deploy directly on the physical hardware. The v1.0 release includes: - Startup guide (zero to walking in one session) - Full MCU code for the onboard microcontroller. - Main controller board overview and pinout. - Updated Bimo API for hardware control. - Improved Isaac Lab task code for more stable sim-to-real transfer. - Pre-trained stable walking model. Turning and push recovery models are next on the Isaac Lab environment roadmap. The platform ships with a walking model as a baseline you can extend, which is kind of the point for a research kit. Check out all the details here: - Github: https://github.com/mekion/the-bimo-project - Discord: https://discord.gg/9uXsArwXHG - Mekion: https://www.mekion.com/product/ Happy to answer questions about the Isaac Lab integration, the hardware design decisions, or what it's like building this as a solo founder. Let me know what you think about the project.
-
-1d ago
-
----
-
-**[Humanoid robots are now entering e-commerce: Could this mark the beginning of a workforce transformation ?](https://www.reddit.com/r/robotics/comments/1skikyr/humanoid_robots_are_now_entering_ecommerce_could/)**
-
-The R1 robot, developed by Unitree Robotics, has hit the market at a relatively low price of $4,370. It cannot perform household chores at this point, but its physical capabilities are quite advanced. The real turning point, however, is that it has reached a price point where anyone can afford it. Historically, every area where technology has become more affordable has sparked major transformations. Could this be the robotic version of the same process?
-
-1h ago
+5h ago
 
 ---
 
@@ -116,14 +116,6 @@ Interesting Engineering • 2d ago
 
 ---
 
-**[Transitive Robotics announces Transitive 2.0 open-source robotics framework](https://www.therobotreport.com/transitive-robotics-announces-transitive-2-0-open-source-robotics-framework/)**
-
-Transitive 2.0 adds ClickHouse, Grafana, and Alertmanager, offering advanced storage and monitoring to help scale growing robot fleets.
-
-The Robot Report • 1h ago
-
----
-
 **[Faraday Future Eyes Massive 'Capital Light' Robotics Opportunity As President Jerry Wang Touts EV Startup's 'First Mover' Advantage](https://finance.yahoo.com/markets/stocks/articles/faraday-future-eyes-massive-capital-104614360.html)**
 
 Faraday Future Intelligent Electric Inc. is aggressively expanding beyond electric vehicles into the booming robotics market, positioning itself as a pioneer in an embodied AI ecosystem that President Jerry Wang projects could reach $30 trillion in value. Seizing A Multi-Trillion Dollar Opportunity In an exclusive interview with Benzinga, Wang detailed the strategic evolution driving the California-based company. Observing industry-wide trends, Faraday Future is deploying humanoid and quadruped
@@ -134,7 +126,7 @@ Yahoo Finance • 1d ago
 
 **[Humanoid robots show off their language and boxing skills in Hong Kong](https://www.seattletimes.com/business/humanoid-robots-show-off-their-language-and-boxing-skills-in-hong-kong/)**
 
-The Seattle Times • 7h ago
+The Seattle Times • 8h ago
 
 ---
 
@@ -143,6 +135,22 @@ The Seattle Times • 7h ago
 In his annual letter to shareholders, Jassy shares how robotics, faster rural delivery, and broadband connectivity for underserved customers and geographies will help improve the customer experience.
 
 About Amazon • 3d ago
+
+---
+
+**[Versatile robot uses tracked flippers to traverse varying terrain](https://newatlas.com/robotics/athena-robot-tracked-flippers-rough-terrain/)**
+
+Disaster sites vary as widely as rescue missions. Using robotics to help often requires multiple robots to survey, climb, lift, or manipulate objects. Athena unites all these capabilities in a single, rugged, autonomous platform built for search and rescue.
+
+New Atlas • 4h ago
+
+---
+
+**[Humanoid robots show off their language and boxing skills](https://apnews.com/video/humanoid-robots-show-off-their-language-and-boxing-skills-35c464f8ff2440a1997284fa64ad0331)**
+
+What will the next generation of robots be able to do? In Hong Kong, the machines have been showing off their ability to teach, dance and even fight.
+
+AP News • 4h ago
 
 ---
 
@@ -158,31 +166,23 @@ kare11.com • 1d ago
 
 Minth Group is a profitable dividend auto supplier pivoting to EV battery housings, AI data center cooling, & robotics. Learn more about MNTHF stock here.
 
-Seeking Alpha • 7h ago
+Seeking Alpha • 8h ago
 
 ---
 
-**[Versatile robot uses tracked flippers to traverse varying terrain](https://newatlas.com/robotics/athena-robot-tracked-flippers-rough-terrain/)**
+**[Locus Robotics launches Locus Array for fully autonomous fulfillment](https://www.therobotreport.com/locus-robotics-launches-locus-array-for-fully-autonomous-fulfillment/)**
 
-Disaster sites vary as widely as rescue missions. Using robotics to help often requires multiple robots to survey, climb, lift, or manipulate objects. Athena unites all these capabilities in a single, rugged, autonomous platform built for search and rescue.
+Locus Array is designed to complete fulfillment workflows without manual intervention and is already in use at DHL and other customers.
 
-New Atlas • 3h ago
-
----
-
-**[UP robotics teams compete for Michigan FIRST Robotics state finals](https://www.uppermichiganssource.com/2026/04/11/up-robotics-teams-compete-michigan-first-robotics-state-finals/)**
-
-40 teams battled during the two-day district qualifiers at Escanaba High School.
-
-Upper Michigan's Source • 1d ago
+The Robot Report • 4h ago
 
 ---
 
-**[Corvus Robotics Launches Corvus Trident, an AI Powered Device That Tracks Every Pallet from Dock Door to Departure](https://markets.businessinsider.com/news/stocks/corvus-robotics-launches-corvus-trident-an-ai-powered-device-that-tracks-every-pallet-from-dock-door-to-departure-1036015241)**
+**[Harding FIRST robotics team going to nationals](https://www.tribtoday.com/news/local-news/2026/04/harding-first-robotics-team-going-to-nationals/)**
 
-ATLANTA, April  13, 2026  (GLOBE NEWSWIRE) -- (MODEX 2026, Booth  A3818 )  — Corvus Robotics  today announced Corvus Trident, a new AI powered dev...
+WARREN — The Warren G. Harding High School FIRST Robotics Team E.L.I.T.E (Encouraging Learning in Technology and Engineering)  48, ...
 
-markets.businessinsider.com • 7h ago
+tribtoday.com • 16h ago
 
 ---
 
@@ -246,7 +246,7 @@ In a wild glimpse into the future of work, Indian factory workers are now wearin
 
 📺 Vedas Words
 
-👁️ 3K • 💬 2 • ⏱️ 0:04 • 2h ago
+👁️ 3K • 💬 2 • ⏱️ 0:04 • 3h ago
 
 ---
 
