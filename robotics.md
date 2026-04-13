@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-13T05:43:39.323809+00:00'
+updated: '2026-04-13T08:05:37.789611+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 13, 2026 at 05:43 UTC  
+**Last Updated:** April 13, 2026 at 08:05 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[massive robotic hand that produce up to11000 pound force.](https://www.reddit.com/r/robotics/comments/1sjmxyz/massive_robotic_hand_that_produce_up_to11000/)**
 
-10h ago
+13h ago
 
 ---
 
 **[Somewhere in Poland](https://www.reddit.com/r/robotics/comments/1sjhnd1/somewhere_in_poland/)**
 
-14h ago
+16h ago
 
 ---
 
@@ -48,7 +48,7 @@ Robotics research and industry news
 
 After more than two years of solo development, I'm releasing v1.0 of the Bimo Robotics Kit. Bimo is an open-source bipedal robotics platform designed as a complete research and education kit. The core value is the full sim-to-real pipeline: you train RL locomotion models in Isaac Lab and deploy directly on the physical hardware. The v1.0 release includes: - Startup guide (zero to walking in one session) - Full MCU code for the onboard microcontroller. - Main controller board overview and pinout. - Updated Bimo API for hardware control. - Improved Isaac Lab task code for more stable sim-to-real transfer. - Pre-trained stable walking model. Turning and push recovery models are next on the Isaac Lab environment roadmap. The platform ships with a walking model as a baseline you can extend, which is kind of the point for a research kit. Check out all the details here: - Github: https://github.com/mekion/the-bimo-project - Discord: https://discord.gg/9uXsArwXHG - Mekion: https://www.mekion.com/product/ Happy to answer questions about the Isaac Lab integration, the hardware design decisions, or what it's like building this as a solo founder. Let me know what you think about the project.
 
-14h ago
+16h ago
 
 ---
 
@@ -56,7 +56,7 @@ After more than two years of solo development, I'm releasing v1.0 of the Bimo Ro
 
 Hi everyone! I've been developing the LS3 BostonDynamics Mini quadruped for a while now. The goal was to create a modular, 3D-printable frame that can carry a Raspberry Pi. It’s still a work in progress, but the mechanical assembly is finally done! I'm happy to discuss the kinematics or electronics if anyone is interested!
 
-21h ago
+23h ago
 
 ---
 
@@ -64,7 +64,7 @@ Hi everyone! I've been developing the LS3 BostonDynamics Mini quadruped for a wh
 
 Technical blog post with multiple videos: https://generalistai.com/blog/apr-02-2026-GEN-1
 
-19h ago
+21h ago
 
 ---
 
@@ -72,7 +72,7 @@ Technical blog post with multiple videos: https://generalistai.com/blog/apr-02-2
 
 I know we usually only post our own projects here, but i was procrastinating on my own codebase today and went down a rabbit hole looking at github repos from some 48h REDHackathon happening in shanghai right now (hosted by rednote I think? today is their demo day). tbh i mostly expected to see a bunch of hastily duct-taped openai wrappers and weekend spaghetti code. clicked on one of the hardware submissions called Mira. at first glance the picture just looks like a cute 3d-printed pixar lamp. I figured it was just a physical shell with a basic python script piping some face tracking coordinates directly to a couple servos. but looking at the actual code... the system architecture is surprisingly hardcore. They didnt just hardcode reactions. they built a full embodied interaction system. the pipeline goes from single camera input -> vision event extraction -> scene selection -> local bridge / safety layer -> ESP32 firmware. Instead of raw tracking they built a scene-based motion choreography abstraction. it interprets visual data into states like 'curious_observe', 'cute_probe', and 'standup_reminder'. The esp32 firmware isnt a toy either... it has a custom binary serial protocol, touch thresholds, and ack/err handling. they even built offline rehearsal scripts, fault injection, and a web director console so they could test the logic without the physical hardware glitching out on stage. Most ai right now just sits in a chat window waiting for a prompt. this thing is trying to actually notice your presence in a physical space and respond with body language and light rhythms before you even say a word. idk, seeing hardware prototypes with this level of release-oriented engineering come out of a 48h builder camp makes me feel pretty lazy today lol. its just a stark reminder that the next phase of ai probably isnt going to be on a screen, but actually sitting on our desks observing us. anyway just thought id share something cool that isnt another b2b saas wrapper. repo if anyone wants to look at the c++ / esp32 logic (not mine obviously): github.com/JunkaiWang-TheoPhy/Mira-Light-AI-That-Sees-You
 
-20h ago
+22h ago
 
 ---
 
@@ -94,7 +94,7 @@ PNP Robotics: Haptic Teleoperation for data collection. At the Embodied AI Confe
 
 Hello everyone, a few months ago i had this idea of a layer that helps Robis unterstand the world. with the Help of a few tools that are generalized an AI Agent can steer any Robot and the engineers only need to change the control layer. I open sourced the whole thing and sat together with universities in switzerland as well as robotic companies in europe. All of them are very interested to make this happen and i will continue to sit together with them to make this project happen. If you are interested as well feel free to clone it and try it out 😇 I have opened the Github Repo to the Public for research use. If you have Questions feel free to ask, i will post more infos in the Comments.
 
-🔗 [GitHub](https://github.com/beyondExp/GIL) • 10h ago
+🔗 [GitHub](https://github.com/beyondExp/GIL) • 12h ago
 
 ---
 
@@ -102,7 +102,7 @@ Hello everyone, a few months ago i had this idea of a layer that helps Robis unt
 
 I bought a Chinese clone ODrive 3.6 (56V) from Banggood to run two hoverboard motors, but I’m having a weird issue where Axis 0 won’t work properly while Axis 1 works fine. Axis 0 sometimes makes it through the motor calibration phase, but then fails during the encoder polarity step. Other times it just constantly throws a DRV_FAULT, but last_drv_fault stays at 0, which is confusing. At first I assumed the board was faulty, so I ordered two more similar boards from AliExpress but both of them have the exact same issue: Axis 0 doesn’t work at all, Axis 1 is fine. I’ve tried: lowering calibration current original firmware firmware versions 0.5.4 and 0.5.6 pretty much every other troubleshooting step I could think of Still no luck. Has anyone run into this issue with these clone ODrive boards and managed to fix it? #odrive #odesc #Hoverboard #FOC #motor
 
-4h ago
+7h ago
 
 ---
 
@@ -110,27 +110,19 @@ I bought a Chinese clone ODrive 3.6 (56V) from Banggood to run two hoverboard mo
 
 ## Google News: "robotics"
 
+**[Hidden in plain sight: Robots reveal ‘shipwreck city’ below the surface of a Washington lake](https://www.kare11.com/article/news/nation-world/robotics-underwater-detection-shipwrecks-sonar-survey-remote-operated-vehicle-washington-lake-union/507-d5e09930-31c1-491f-8c8b-01f9fcbba5b8)**
+
+'Shipwreck city': A high-tech survey has found dozens of possible wrecks in Washington state, with robotics capturing images in areas too dangerous for divers.
+
+kare11.com • 13h ago
+
+---
+
 **[Unitree’s H1 robot hits 10 m/s sprint speed, getting close to Usain Bolt’s 100m world record](https://www.globaltimes.cn/page/202604/1358712.shtml)**
 
 Chinese robotics startup Unitree Robotics released a video on Saturday showing its H1 robot reached a sprint speed of up to 10 meters per second, noting that the humanoid robot broke the world record again.
 
-Global Times • 19h ago
-
----
-
-**[New humanoid robots replacing workers in factories](https://www.nbcnews.com/video/shorts/new-humanoid-robots-replacing-workers-in-factories-261041221991)**
-
-Meet 'Digit', a humanoid robotic worker made by Agility Robotics, now part of a new wave of robots replacing workers at companies like Schaeffler, Toyota, and GXO. NBC News' Brian Cheung takes a look.
-
-NBC News • 3d ago
-
----
-
-**[CEO Andy Jassy shares 3 ways Amazon is innovating to make customers’ lives easier and better](https://www.aboutamazon.com/news/innovation-at-amazon/amazon-ceo-andy-jassy-robotics-rural-delivery-broadband)**
-
-In his annual letter to shareholders, Jassy shares how robotics, faster rural delivery, and broadband connectivity for underserved customers and geographies will help improve the customer experience.
-
-About Amazon • 2d ago
+Global Times • 21h ago
 
 ---
 
@@ -142,11 +134,27 @@ Upper Michigan's Source • 1d ago
 
 ---
 
-**[Chung Eui-sun backs robotics, AI and $26B US push to drive Hyundai growth - CHOSUNBIZ](https://biz.chosun.com/en/en-industry/2026/04/13/F5JF4TKX5VHNTDWPXCQG4ZJAV4/)**
+**[CEO Andy Jassy shares 3 ways Amazon is innovating to make customers’ lives easier and better](https://www.aboutamazon.com/news/innovation-at-amazon/amazon-ceo-andy-jassy-robotics-rural-delivery-broadband)**
 
-Chung Eui-sun backs robotics, AI and $26B US push to drive Hyundai growth Hyundai chief Chung Eui-sun spotlights human-collaborative robots, AI, and a 2028 US investment roadmap
+In his annual letter to shareholders, Jassy shares how robotics, faster rural delivery, and broadband connectivity for underserved customers and geographies will help improve the customer experience.
 
-Chosunbiz • 24m ago
+About Amazon • 2d ago
+
+---
+
+**[New humanoid robots replacing workers in factories](https://www.nbcnews.com/video/shorts/new-humanoid-robots-replacing-workers-in-factories-261041221991)**
+
+Meet 'Digit', a humanoid robotic worker made by Agility Robotics, now part of a new wave of robots replacing workers at companies like Schaeffler, Toyota, and GXO. NBC News' Brian Cheung takes a look.
+
+NBC News • 3d ago
+
+---
+
+**[Students shine at Wolfpack Robotics’ Robo Rally](https://www.timesleader.com/news/1738534/students-shine-at-wolfpack-robotics-robo-rally)**
+
+<p>PLAINS TWP. — It was a celebration of robotics on Saturday as regional schools gathered at Wilkes-Barre Area High School for Wolfpack Robotics’ second Robo Rally.</p>
+
+Times Leader • 1d ago
 
 ---
 
@@ -154,7 +162,7 @@ Chosunbiz • 24m ago
 
 The early-stage fund, which backed Mentee Robotics from its Series A, is doubling down on hardware-meets-AI companies — a space many still shy away from
 
-ynetnews • 10h ago
+ynetnews • 13h ago
 
 ---
 
@@ -170,23 +178,15 @@ The Washington Post • 3d ago
 
 Hundreds of high school students gathered in St. Cloud for an intense FIRST Robotics tournament, showcasing skills and collaboration in a unique three-versus-three format at River's Edge Convention Center.
 
-WJON • 15h ago
+WJON • 17h ago
 
 ---
 
-**[Students shine at Wolfpack Robotics’ Robo Rally](https://www.timesleader.com/news/1738534/students-shine-at-wolfpack-robotics-robo-rally)**
+**[Harding FIRST robotics team going to nationals](https://www.tribtoday.com/news/local-news/2026/04/harding-first-robotics-team-going-to-nationals/)**
 
-<p>PLAINS TWP. — It was a celebration of robotics on Saturday as regional schools gathered at Wilkes-Barre Area High School for Wolfpack Robotics’ second Robo Rally.</p>
+WARREN — The Warren G. Harding High School FIRST Robotics Team E.L.I.T.E (Encouraging Learning in Technology and Engineering)  48, ...
 
-Times Leader • 1d ago
-
----
-
-**[China’s Robotics Champion Is Going Public. Its PLA Ties and Western Dependence Aren’t.](https://www.kharon.com/brief/unitree-robotics-ipo-china-pla-robot-wolf)**
-
-The Shanghai IPO of Unitree Robotics is “part of China’s broader positioning in the global race for physical AI,” Sunny Cheung of the Jamestown Foundation said. But its filings tell only part of the story.
-
-Kharon • 3d ago
+tribtoday.com • 4h ago
 
 ---
 
@@ -200,7 +200,7 @@ Try Seedance 2.0 with Claude on Higgsfield: https://higgsfield.ai/s/seedance-2-0
 
 📺 AI Revolution
 
-👁️ 66K • 👍 1K • 💬 144 • ⏱️ 14:57 • 1d ago
+👁️ 68K • 👍 1K • 💬 148 • ⏱️ 14:57 • 1d ago
 
 ---
 
@@ -210,7 +210,15 @@ Go to https://www.artwine.com to get your limited bottle of Ukrainian sparkling 
 
 📺 Paul Warburg
 
-👁️ 194K • 👍 17K • 💬 1K • ⏱️ 31:17 • 1d ago
+👁️ 199K • 👍 18K • 💬 1K • ⏱️ 31:17 • 1d ago
+
+---
+
+**[Mind-Blowing Robots You Must See! Robots Just Blew Our Minds 🤖✨#singapore #ai #robotics](https://www.youtube.com/watch?v=iZBYkpuOdkk)**
+
+📺 SS tiny labs
+
+👁️ 1K • 👍 13 • ⏱️ 0:55 • 6h ago
 
 ---
 
@@ -220,17 +228,7 @@ Acid Titan shotguns have fallen into the ground. I havent been seeing them aroun
 
 📺 PREDATOR WR
 
-👁️ 9K • 👍 432 • 💬 62 • ⏱️ 14:11 • 17h ago
-
----
-
-**[CURIE IS ACTUALLY OVERPOWERED WITH BASILEUS! SECRET STRONG ROBOT? (War Robots)](https://www.youtube.com/watch?v=lNqyCD5fuxs)**
-
-In this video I tested out the Curie with Basileus. https://wr.my.games/Wolfblood7.
-
-📺 Wolfblood7
-
-👁️ 3K • 👍 143 • 💬 34 • ⏱️ 13:17 • 21h ago
+👁️ 10K • 👍 450 • 💬 62 • ⏱️ 14:11 • 20h ago
 
 ---
 
@@ -242,23 +240,23 @@ In this video I tested out the Curie with Basileus. https://wr.my.games/Wolfbloo
 
 ---
 
+**[AMMIT cannot even die right… War Robots](https://www.youtube.com/watch?v=Mz7zB43oDos)**
+
+War Robots Gameplay: AMMIT with VELOS weapons is nuts! My War Robots Creator Link: https://wr.my.games/manni - Code: ...
+
+📺 Manni-Gaming
+
+👁️ 11K • 👍 534 • 💬 118 • ⏱️ 14:46 • 19h ago
+
+---
+
 **[Disney&#39;s New Olaf Robot Isn&#39;t What You Think](https://www.youtube.com/watch?v=VvXhpnvjVGE)**
 
 Everyone is getting 7 things wrong about Disney's new Olaf animatronic. I asked Imagineering how the free roaming Olaf works, ...
 
 📺 Guide2WDW
 
-👁️ 37K • 👍 945 • 💬 96 • ⏱️ 19:30 • 3d ago
-
----
-
-**[The Fastest Robots I&#39;ve Seen in Person](https://www.youtube.com/watch?v=TEWUaD9BmNE)**
-
-I've been to CES (Las Vegas, Nevada), World Robot Conference (Beijing, China), and IREX (Tokyo, Japan). These are the fastest ...
-
-📺 Automatic Addison
-
-👁️ 1K • 👍 53 • 💬 8 • ⏱️ 1:38 • 16h ago
+👁️ 38K • 👍 953 • 💬 96 • ⏱️ 19:30 • 3d ago
 
 ---
 
@@ -268,17 +266,17 @@ Lymow → https://lymowtradecolimited.pxf.io/OYr2VG The Lymow One Plus isn't you
 
 📺 How To with Doc
 
-👁️ 18K • 👍 973 • 💬 177 • ⏱️ 21:24 • 3d ago
+👁️ 18K • 👍 975 • 💬 179 • ⏱️ 21:24 • 3d ago
 
 ---
 
-**[AMMIT cannot even die right… War Robots](https://www.youtube.com/watch?v=Mz7zB43oDos)**
+**[CURIE IS ACTUALLY OVERPOWERED WITH BASILEUS! SECRET STRONG ROBOT? (War Robots)](https://www.youtube.com/watch?v=lNqyCD5fuxs)**
 
-War Robots Gameplay: AMMIT with VELOS weapons is nuts! My War Robots Creator Link: https://wr.my.games/manni - Code: ...
+In this video I tested out the Curie with Basileus. https://wr.my.games/Wolfblood7.
 
-📺 Manni-Gaming
+📺 Wolfblood7
 
-👁️ 10K • 👍 516 • 💬 117 • ⏱️ 14:46 • 16h ago
+👁️ 3K • 👍 146 • 💬 34 • ⏱️ 13:17 • 23h ago
 
 ---
 
