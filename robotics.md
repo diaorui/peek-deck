@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-13T10:14:17.549363+00:00'
+updated: '2026-04-13T11:50:50.982111+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 13, 2026 at 10:14 UTC  
+**Last Updated:** April 13, 2026 at 11:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,15 +32,21 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Beijing’s Humanoid Robot Half Marathon, Night Run Test - Around 40% of teams are running fully autonomous, remote-controlled runs get a 1.2× penalty (Beijing's E-Town Half Marathon on April 19 with 100+ teams, 300+ humanoids competing)](https://www.reddit.com/r/robotics/comments/1sk6p2y/beijings_humanoid_robot_half_marathon_night_run/)**
+
+1h ago
+
+---
+
 **[massive robotic hand that produce up to11000 pound force.](https://www.reddit.com/r/robotics/comments/1sjmxyz/massive_robotic_hand_that_produce_up_to11000/)**
 
-15h ago
+17h ago
 
 ---
 
 **[Somewhere in Poland](https://www.reddit.com/r/robotics/comments/1sjhnd1/somewhere_in_poland/)**
 
-18h ago
+20h ago
 
 ---
 
@@ -48,7 +54,7 @@ Robotics research and industry news
 
 After more than two years of solo development, I'm releasing v1.0 of the Bimo Robotics Kit. Bimo is an open-source bipedal robotics platform designed as a complete research and education kit. The core value is the full sim-to-real pipeline: you train RL locomotion models in Isaac Lab and deploy directly on the physical hardware. The v1.0 release includes: - Startup guide (zero to walking in one session) - Full MCU code for the onboard microcontroller. - Main controller board overview and pinout. - Updated Bimo API for hardware control. - Improved Isaac Lab task code for more stable sim-to-real transfer. - Pre-trained stable walking model. Turning and push recovery models are next on the Isaac Lab environment roadmap. The platform ships with a walking model as a baseline you can extend, which is kind of the point for a research kit. Check out all the details here: - Github: https://github.com/mekion/the-bimo-project - Discord: https://discord.gg/9uXsArwXHG - Mekion: https://www.mekion.com/product/ Happy to answer questions about the Isaac Lab integration, the hardware design decisions, or what it's like building this as a solo founder. Let me know what you think about the project.
 
-18h ago
+20h ago
 
 ---
 
@@ -72,7 +78,7 @@ Technical blog post with multiple videos: https://generalistai.com/blog/apr-02-2
 
 The Building Editor is gone in Gazebo Ignition, so what's the best way to create custom worlds now without hand-coding raw SDF? I'm using ROS2 + Gazebo Harmonic and want to build environments like roads, terrain, and indoor spaces. I've looked at Blender → DAE → SDF, Fuel models, and heightmaps but not sure what people actually use in practice. Like building the custom 3d model and export it to sdf something kind of. Any tools, tutorials, or repos you'd recommend?
 
-8m ago
+1h ago
 
 ---
 
@@ -98,14 +104,6 @@ PNP Robotics: Haptic Teleoperation for data collection. At the Embodied AI Confe
 
 ---
 
-**[ROS 2 Pan Tilt Camera](https://www.reddit.com/r/robotics/comments/1sjgxh4/ros_2_pan_tilt_camera/)**
-
-Recently I was spending time building my ROS 2 robots and one functionality I always wanted was Pan Tilt camera, so I built it 🚀 I designed motor housing with CAD, and used micro-ros to control MCU. Lastly I made simple PID object follower using high speed, low latency Isaac ROS object detection running on Robot’s Jetson.
-
-🔗 [youtu.be](https://youtu.be/CmBWlHjohjg) • 19h ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -118,19 +116,28 @@ Interesting Engineering • 2d ago
 
 ---
 
+**[Faraday Future Eyes Massive 'Capital Light' Robotics Opportunity As President Jerry Wang Touts EV Startup's 'First Mover' Advantage](https://finance.yahoo.com/markets/stocks/articles/faraday-future-eyes-massive-capital-104614360.html)**
+
+Faraday Future Intelligent Electric Inc. is aggressively expanding beyond electric vehicles into the booming robotics market, positioning itself as a pioneer in an embodied AI ecosystem that President Jerry Wang projects could reach $30 trillion in value. Seizing A Multi-Trillion Dollar Opportunity In an exclusive interview with Benzinga, Wang detailed the strategic evolution driving the California-based company. Observing industry-wide trends, Faraday Future is deploying humanoid and quadruped
+
+Yahoo Finance • 1d ago
+
+---
+
 **[Hidden in plain sight: Robots reveal ‘shipwreck city’ below the surface of a Washington lake](https://www.9news.com/article/news/nation-world/robotics-underwater-detection-shipwrecks-sonar-survey-remote-operated-vehicle-washington-lake-union/507-d5e09930-31c1-491f-8c8b-01f9fcbba5b8)**
 
 'Shipwreck city': A high-tech survey has found dozens of possible wrecks in Washington state, with robotics capturing images in areas too dangerous for divers.
 
-KUSA.com • 15h ago
+KUSA.com • 17h ago
 
 ---
 
-**[Unitree’s H1 robot hits 10 m/s sprint speed, getting close to Usain Bolt’s 100m world record](https://www.globaltimes.cn/page/202604/1358712.shtml)**
+**[Humanoid robots to compete in Beijing half-marathon](https://www.scmp.com/video/sport/3349927/chinese-teams-fine-tune-robots-beijing-humanoid-half-marathon)**
 
-Chinese robotics startup Unitree Robotics released a video on Saturday showing its H1 robot reached a sprint speed of up to 10 meters per second, noting that the humanoid robot broke the world record again.
+Read more on the story: https://sc.mp/4obcc
+  Sections of Beijing were closed off for a test run ahead of the second humanoid robot half-marathon to be held in the world. The race is scheduled to be…
 
-Global Times • 23h ago
+South China Morning Post • 22m ago
 
 ---
 
@@ -150,27 +157,11 @@ About Amazon • 2d ago
 
 ---
 
-**[Students shine at Wolfpack Robotics’ Robo Rally](https://www.timesleader.com/news/1738534/students-shine-at-wolfpack-robotics-robo-rally)**
+**[Chery brings humanoid robot to general consumer market](https://cnevpost.com/2026/04/13/chery-brings-humanoid-robot-to-general-consumer-market/)**
 
-<p>PLAINS TWP. — It was a celebration of robotics on Saturday as regional schools gathered at Wilkes-Barre Area High School for Wolfpack Robotics’ second Robo Rally.</p>
+Chery's Aimoga has launched online sales of its robots to ordinary consumers, with a humanoid model carrying a retail price tag of 285,800 yuan ($41,830).
 
-Times Leader • 1d ago
-
----
-
-**[Israel's 10D bets on physical AI and deep tech as its next frontier](https://www.ynetnews.com/business/article/hjodjvfnbe)**
-
-The early-stage fund, which backed Mentee Robotics from its Series A, is doubling down on hardware-meets-AI companies — a space many still shy away from
-
-ynetnews • 15h ago
-
----
-
-**[Harding FIRST robotics team going to nationals](https://www.tribtoday.com/news/local-news/2026/04/harding-first-robotics-team-going-to-nationals/)**
-
-WARREN — The Warren G. Harding High School FIRST Robotics Team E.L.I.T.E (Encouraging Learning in Technology and Engineering)  48, ...
-
-tribtoday.com • 6h ago
+CnEVPost • 6h ago
 
 ---
 
@@ -178,7 +169,7 @@ tribtoday.com • 6h ago
 
 Hundreds of high school students gathered in St. Cloud for an intense FIRST Robotics tournament, showcasing skills and collaboration in a unique three-versus-three format at River's Edge Convention Center.
 
-WJON • 19h ago
+WJON • 21h ago
 
 ---
 
@@ -187,6 +178,14 @@ WJON • 19h ago
 Humanoid robots are being used for some manual tasks at the Schaeffler auto parts plant in Cheraw, S.C. Proponents argue that the robots will not replace humans but rather displace them to different roles in the company. NBC News’ Brian Cheung gets a firsthand look at how the robots work and how they’re impacting the workforce.
 
 NBC News • 3d ago
+
+---
+
+**[Students shine at Wolfpack Robotics’ Robo Rally](https://www.timesleader.com/news/1738534/students-shine-at-wolfpack-robotics-robo-rally)**
+
+<p>PLAINS TWP. — It was a celebration of robotics on Saturday as regional schools gathered at Wilkes-Barre Area High School for Wolfpack Robotics’ second Robo Rally.</p>
+
+Times Leader • 1d ago
 
 ---
 
@@ -218,7 +217,7 @@ Go to https://www.artwine.com to get your limited bottle of Ukrainian sparkling 
 
 📺 SS tiny labs
 
-👁️ 1K • 👍 13 • ⏱️ 0:55 • 8h ago
+👁️ 1K • 👍 13 • ⏱️ 0:55 • 9h ago
 
 ---
 
@@ -228,7 +227,7 @@ Acid Titan shotguns have fallen into the ground. I havent been seeing them aroun
 
 📺 PREDATOR WR
 
-👁️ 11K • 👍 463 • 💬 63 • ⏱️ 14:11 • 22h ago
+👁️ 11K • 👍 463 • 💬 63 • ⏱️ 14:11 • 23h ago
 
 ---
 
@@ -238,7 +237,7 @@ Toyota Motor Corp. unveiled its latest AI-powered basketball robot, CUE7, on Sun
 
 📺 WeShow Sports
 
-👁️ 4K • 👍 70 • 💬 11 • ⏱️ 3:02 • 23h ago
+👁️ 4K • 👍 70 • 💬 11 • ⏱️ 3:02 • 1d ago
 
 ---
 
@@ -246,7 +245,7 @@ Toyota Motor Corp. unveiled its latest AI-powered basketball robot, CUE7, on Sun
 
 📺 zhulongfeng 6
 
-👁️ 2K • 👍 9 • ⏱️ 0:12 • 8h ago
+👁️ 2K • 👍 9 • ⏱️ 0:12 • 9h ago
 
 ---
 

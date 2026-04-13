@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-13T10:14:17.541071+00:00'
+updated: '2026-04-13T11:50:50.974058+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 13, 2026 at 10:14 UTC  
+**Last Updated:** April 13, 2026 at 11:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $70,824.65
+### $70,926.99
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.9%  
-**7d:** -1.6%  
-**30d:** -2.7%  
-**90d:** -27.0%  
-**1y:** -16.3%  
+**24h:** -0.3%  
+**7d:** -1.4%  
+**30d:** -2.5%  
+**90d:** -26.9%  
+**1y:** -16.2%  
 
 ---
 
@@ -79,19 +79,19 @@ Rank #1
 
 **[DCA and HOLD your Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1sjdeeo/dca_and_hold_your_bitcoin/)**
 
-21h ago
+23h ago
 
 ---
 
 **[Iran Enforces Bitcoin as the Only Means to Pay Toll on Strait of Hormuz](https://www.reddit.com/r/Bitcoin/comments/1sjd9qb/iran_enforces_bitcoin_as_the_only_means_to_pay/)**
 
-21h ago
+23h ago
 
 ---
 
 **[Someone: what’s in your mind?](https://www.reddit.com/r/Bitcoin/comments/1sjx6cx/someone_whats_in_your_mind/)**
 
-8h ago
+10h ago
 
 ---
 
@@ -99,7 +99,15 @@ Rank #1
 
 Money is the operating system of society. If the operating system is owned by a private group, used as a tool for social engineering and can be printed at will, then the "bugs" we see—inflation, wealth inequality, and constant war—are actually features of that specific design. By moving to a system with a fixed supply you aren't just changing a currency; you are changing the underlying incentives of human civilization.
 
-5h ago
+6h ago
+
+---
+
+**[Help needed](https://www.reddit.com/r/Bitcoin/comments/1sk170e/help_needed/)**
+
+My older sister passed sway and I found a wallet.dat file? I have no idea how much its has or even how to acces it, what I did do was get the hash? Can anyone guide me through a path on obtaining these funds?
+
+6h ago
 
 ---
 
@@ -109,17 +117,9 @@ Money is the operating system of society. If the operating system is owned by a 
 
 ---
 
-**[Help needed](https://www.reddit.com/r/Bitcoin/comments/1sk170e/help_needed/)**
-
-My older sister passed sway and I found a wallet.dat file? I have no idea how much its has or even how to acces it, what I did do was get the hash? Can anyone guide me through a path on obtaining these funds?
-
-5h ago
-
----
-
 **[Mining bitcoin in Oklahoma oilfields where waste gas isn't a liability. It is turned into productive energy instead 🎬](https://www.reddit.com/r/Bitcoin/comments/1sjif4k/mining_bitcoin_in_oklahoma_oilfields_where_waste/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -127,7 +127,15 @@ My older sister passed sway and I found a wallet.dat file? I have no idea how mu
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-4h ago
+5h ago
+
+---
+
+**[Apathy and Idiocracy won](https://www.reddit.com/r/Bitcoin/comments/1sk7m17/apathy_and_idiocracy_won/)**
+
+The most bullish event happened last week in the history of BTC without any significant price impact. A major country (Iran) decided to use BTC as a toll payment in order to get around sanctions and a hedge against they own hyper inflating currency. In my humble opinion this was the most bullish thing that ever happen bitcoin and unthinkable a couple of years ago. And yet, retail is looking at charts, talking about cycles and gambling on trying to time the market. It’s absurd and the fact that this story had no effect on the retail sentiment retail is bearish AF :( Idiocracy won.
+
+42m ago
 
 ---
 
@@ -135,15 +143,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Ask (and answer!) away! Here are the general rules: If you'd like to learn something, ask. If you'd like to share knowledge, answer. Any question about Bitcoin is fair game. And don't forget to check out /r/BitcoinBeginners You can sort by new to see the latest questions that may not be answered yet.
 
-3h ago
-
----
-
-**[How do coinbase loans work? Are they legit?](https://www.reddit.com/r/Bitcoin/comments/1sk5wcu/how_do_coinbase_loans_work_are_they_legit/)**
-
-Looking to borrow some usd against my bitcoin to fund a small business investment and looking at coinbase loans. The rate looks very competitive but not 100% sure how it works and wanna make sure it’s completely legit before handing over any of my stack. Any insight on any of the following q’s would be much appreciated… What is morpho exactly (just the name of Coinbase’s lending product)? Why does it say I need to ‘wrap’ my bitcoin (is that a bad thing)? How do the smart contracts work (do these require you to be an advanced user)? What protections are there against liquidations when price fluctuates? How are they able to offer such a low APR compared to others on the market? Is there any customer support if something goes wrong? Are there any risks I should be aware of before getting started (e.g. could the whole blockfi thing happen again)? Thanks in advance for any insight - I guess I just wanna know if this is gonna be manageable for a normie like me or if it's too risky.
-
-38m ago
+4h ago
 
 ---
 
@@ -151,49 +151,65 @@ Looking to borrow some usd against my bitcoin to fund a small business investmen
 
 ## Google News: "bitcoin"
 
-**[Bitcoin price news: BTC adds to weekend losses on Trump blockade order](https://www.coindesk.com/markets/2026/04/12/bitcoin-slips-below-usd71-000-as-trump-orders-blockade-of-strait-of-hormuz)**
+**[Bitcoin, broader market flat as U.S.-Iran negotiations begin](https://www.coindesk.com/markets/2026/04/11/bitcoin-broader-market-flat-as-u-s-iran-negotiations-begin)**
 
-"Effective immediately, the United States Navy ... will begin the process of blockading any and all ships trying to enter, or leave, the Strait of Hormuz," said the president in a social media post.
+The market rose over the week after a two-week ceasefire was announced, triggering a derivatives short squeeze that wiped out over $430 million in bearish positions.
 
-CoinDesk • 11h ago
-
----
-
-**[Could Buying Bitcoin Today Still Set You Up for Life?](https://www.fool.com/investing/2026/04/12/could-buying-bitcoin-today-still-set-you-up-for-li/)**
-
-After a tremendous 16,820% gain in the past 10 years, it's reasonable to believe that the leading cryptocurrency's performance won't be nearly as impressive in the future.
-
-The Motley Fool • 17h ago
+CoinDesk • 1d ago
 
 ---
 
-**[Strategy's Michael Saylor Says "Bitcoin Has Won." Does That Make It a Buy?](https://finance.yahoo.com/markets/crypto/articles/strategys-michael-saylor-says-bitcoin-091700270.html)**
+**[U.S.-Iran talks fail in Pakistan as Bitcoin, XRP fall](https://www.thestreet.com/crypto/markets/bitcoin-xrp-drop-as-u-s-iran-talks-fail-in-pakistan)**
 
-The coin's most visible proponent is pleased about its long-term progress.
+Talks aimed at easing U.S.-Iran tensions ended without a breakthrough, keeping markets on edge.
 
-Yahoo Finance • 57m ago
-
----
-
-**[Oil price surges 8% on Iran: Five things to know in Bitcoin this week](https://www.tradingview.com/news/cointelegraph:4c413f617094b:0-oil-price-surges-8-on-iran-five-things-to-know-in-bitcoin-this-week/)**
-
-Bitcoin (BTC) held $70,000 at the weekly close as markets reacted to a breakdown in US-Iran negotiations and escalating tensions around the Strait of Hormuz.Iran breakdown sends oil above $100The US-Iran war is once again the main topic of debate among market participants after the sudden breakdown…
-
-TradingView — Track All Markets • 1h ago
+thestreet.com • 1d ago
 
 ---
 
-**[Holding Some Bitcoin Just Helped Me Sleep Better At Night. Here's How](https://www.fool.com/investing/2026/04/13/holding-some-bitcoin-just-helped-me-sleep-better-a/)**
+**[Bitcoin slides to $71,000 after Trump's blockade order in Strait of Hormuz](https://www.theblock.co/post/397147/bitcoin-trump-blockade-hormuz)**
 
-Sometimes insights arrive when they're least expected.
+High-level negotiations between the US and Iran failed to reach a meaningful resolution earlier on Sunday.
 
-The Motley Fool • 4m ago
+The Block • 10h ago
 
 ---
 
 **['First Crypto Bank'—Kraken's Fed Approval Sparks $100K Bitcoin Warning](https://www.forbes.com/sites/digital-assets/2026/04/12/first-crypto-bank-krakens-fed-approval-sparks-100k-bitcoin-warning/)**
 
-Forbes • 10h ago
+Forbes • 11h ago
+
+---
+
+**[Which Cryptocurrency Should You Be Hoarding Right Now, Bitcoin or Ethereum?](https://www.fool.com/investing/2026/04/13/which-cryptocurrency-should-you-be-hoarding-right/)**
+
+If crypto treasury companies are loading up on Bitcoin and Ethereum, should you be too?
+
+The Motley Fool • 3m ago
+
+---
+
+**[Bitcoin anchors near $70,000 as RAVE's 3,400% surge signals speculative froth](https://www.coindesk.com/daybook-us/2026/04/13/bitcoin-anchors-near-usd70-000-as-rave-s-3-400-surge-signals-speculative-froth)**
+
+Bitcoin and major cryptocurrencies remain relatively resilient. Surges in some smaller tokens showed there's still froth left in the market.
+
+CoinDesk • 26m ago
+
+---
+
+**[Bitcoin and ethereum price today, Monday, April 13, 2026: Prices under pressure after U.S.-Iran peace talks fail](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-monday-april-13-2026-prices-under-pressure-after-us-iran-peace-talks-fail-113342218.html)**
+
+​​Bitcoin opened at  $70,741.30 on Monday, while ethereum opened at $2,191.66. Both cryptos were down more than 3% since the prior day’s open.
+
+Yahoo Finance • 17m ago
+
+---
+
+**[Bitcoin Bulls Must Hold This Level Or Price Could Crash To $65,000 Again](https://www.tradingview.com/news/newsbtc:c250caedc094b:0-bitcoin-bulls-must-hold-this-level-or-price-could-crash-to-65-000-again/)**
+
+Over the last week, the Bitcoin bulls looked to have taken control of the price, eventually pushing it back above $73,000 again. There has been a slowdown since then, with bears trying to retest the $70,000 level over the weekend. For now, the bulls are still open, but there is still the possibilit…
+
+TradingView — Track All Markets • 4h ago
 
 ---
 
@@ -203,23 +219,9 @@ Investing.com • 1d ago
 
 ---
 
-**[Bitcoin Retreats as Geopolitics, Rate Expectations Weigh on Crypto](https://www.barrons.com/livecoverage/stock-market-news-today-041326/card/bitcoin-retreats-as-geopolitics-rate-expectations-weigh-on-crypto-m8tvUHVcSzrK6Lc5WMJF?siteid=yhoof2&yptr=yahoo)**
-
-Barron's • 2h ago
-
----
-
 **[Software stocks are getting pulverized — but bitcoin’s rebound hints that a bottom might be in](https://www.marketwatch.com/story/software-stocks-are-getting-pulverized-but-bitcoins-rebound-hints-that-a-bottom-might-be-in-512baac7)**
 
 MarketWatch • 2d ago
-
----
-
-**[There’s a Way to Make Bitcoin Safe From Quantum Without a Fork, Researchers Say](https://decrypt.co/364092/quantum-safe-bitcoin-transactions-without-fork)**
-
-Research suggests Bitcoin users could defend against future quantum attacks using a transaction design that works within existing rules.
-
-Decrypt • 21h ago
 
 ---
 
@@ -261,7 +263,7 @@ Neha Narula
 
 Arkham data shows 8,285 BTC in Coinbase Prime custody as the company swings from $8 billion profit to nearly $5 billion loss ahead of its IPO push.
 
-⬆️ 25 • 💬 9 • 17h ago • [coindesk.com](https://www.coindesk.com/markets/2026/04/11/musk-s-spacex-holds-usd603-million-in-bitcoin-despite-usd5-billion-loss-stemming-from-xai)
+⬆️ 25 • 💬 9 • 19h ago • [coindesk.com](https://www.coindesk.com/markets/2026/04/11/musk-s-spacex-holds-usd603-million-in-bitcoin-despite-usd5-billion-loss-stemming-from-xai)
 
 ---
 
@@ -291,7 +293,7 @@ A three-part deep dive into quantum computing's actual threat to Bitcoin. 17 res
 
 Imagine one person holding the keys to Bitcoin’s entire future. That was Satoshi—until Hal Finney, Gavin Andresen, and Wladimir van der Laan stepped in. Today’s maintainer team is more decentralized than ever… but is it enough?
 
-⬆️ 4 • 💬 0 • 22h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/print/the-core-issue-the-role-and-history-of-bitcoin-core-maintainers)
+⬆️ 4 • 💬 0 • 1d ago • [Bitcoin Magazine](https://bitcoinmagazine.com/print/the-core-issue-the-role-and-history-of-bitcoin-core-maintainers)
 
 ---
 
@@ -311,7 +313,7 @@ Bitcoin just dropped hard as geopolitical tension spikes, but the real story is 
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 1K • 💬 118 • ⏱️ 16:31 • 12h ago
+👁️ 21K • 👍 1K • 💬 118 • ⏱️ 16:31 • 13h ago
 
 ---
 
@@ -321,7 +323,7 @@ Bitcoin #Crypto #Finance Ben Cowen joins me to break down why Bitcoin still look
 
 📺 The Wolf Of All Streets
 
-👁️ 38K • 👍 1K • 💬 602 • ⏱️ 30:53 • 21h ago
+👁️ 38K • 👍 1K • 💬 602 • ⏱️ 30:53 • 22h ago
 
 ---
 
@@ -351,7 +353,7 @@ Bitcoin is sending out some SERIOUS signals right now… and almost nobody is co
 
 📺 Crypto Love
 
-👁️ 3K • 👍 278 • 💬 387 • ⏱️ 9:35 • 17h ago
+👁️ 3K • 👍 278 • 💬 387 • ⏱️ 9:35 • 18h ago
 
 ---
 
@@ -361,7 +363,7 @@ TIA PRO LIFETIME DISCOUNT - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAPS
 
 📺 Jason Pizzino
 
-👁️ 11K • 👍 901 • 💬 434 • ⏱️ 26:41 • 8h ago
+👁️ 11K • 👍 901 • 💬 434 • ⏱️ 26:41 • 10h ago
 
 ---
 
@@ -381,7 +383,7 @@ Today we're going to explain where you stand in the different levels of Bitcoin 
 
 📺 Luke Mikic
 
-👁️ 9K • 👍 490 • 💬 231 • ⏱️ 24:55 • 18h ago
+👁️ 9K • 👍 490 • 💬 231 • ⏱️ 24:55 • 19h ago
 
 ---
 
@@ -391,7 +393,7 @@ Support the show - become a member. Full uncensored livestream daily on Rumble: 
 
 📺 Bitcoin News Alerts
 
-👁️ 2K • 👍 92 • 💬 101 • ⏱️ 19:25 • 11h ago
+👁️ 2K • 👍 92 • 💬 101 • ⏱️ 19:25 • 13h ago
 
 ---
 
