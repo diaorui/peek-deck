@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-13T22:44:33.064652+00:00'
+updated: '2026-04-13T23:42:35.909623+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
+- social
 - videos
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 13, 2026 at 22:44 UTC  
+**Last Updated:** April 13, 2026 at 23:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
 
 ---
 
@@ -81,7 +81,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 Coinbase AgentKit Prompt Injection: Wallet Drain, Infinite Approvals, and Agent-Level RCE Reported 13 days after Coinbase launched Agentic Wallets. Validated by Coinbase. Demonstrated on-chain. Published: April 11, 2026 CVE status: Pending assignment
 Coinbase AgentKit is developer infrastructure for building AI agents with direct access to wallets, token operations, DeFi actions, and related execution surfaces. This disclosure covers a prompt injection vulnerability in AgentKit that allowed attacker-controlled input to trigger sensitive tool execution without a built-in human confirmation step.
 
-🔗 [x402warden](https://x402warden.com/research/coinbase-agentkit-prompt-injection/) • 1h ago
+🔗 [x402warden](https://x402warden.com/research/coinbase-agentkit-prompt-injection/) • 2h ago
 
 ---
 
@@ -89,7 +89,7 @@ Coinbase AgentKit is developer infrastructure for building AI agents with direct
 
 I built a CLI tool in rust called LaunchDex that deploys a full DEX--factory contract, router, liquidity pair and swap frontend--on Ethereum, Arbitrum, and Base in a single command. The whole process that typically takes weeks of manual contract deployment, configuration and frontend setup is reduced to launchdex deploy. Contract addresses are saved automatically and a custom swap interface is generated and ready to deploy. The tool is built on top of verified Uniswap v2 contracts so the deployed DEX is production-grade and audited. Multi-token support lets you add additional trading pairs to an existing factory with one command. The generated frontend includes an embedded wallet so user can swap tokens without needing Metamask installed. Let me know what you think
 
-22h ago
+23h ago
 
 ---
 
@@ -153,7 +153,7 @@ So I went back through my wallet history and used a couple of MEV tracking tools
 
 Bitmine expanded its Ethereum treasury to 4.87 million ETH, controlling 4% of supply as total holdings climb to $11.8 billion.
 
-The Block • 8h ago
+The Block • 9h ago
 
 ---
 
@@ -161,7 +161,7 @@ The Block • 8h ago
 
 A forged cross-chain message bypassed state proof validation on the bridge contract, granting admin control over the bridged DOT token and allowing the attacker to mint and dump the entire supply for $237,000.
 
-CoinDesk • 15h ago
+CoinDesk • 16h ago
 
 ---
 
@@ -169,7 +169,7 @@ CoinDesk • 15h ago
 
 Ondo is pushing its tokenized-equities strategy deeper into the U.S. regulatory process. The company is seeking SEC...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -177,7 +177,7 @@ Yahoo Finance • 1h ago
 
 If crypto treasury companies are loading up on Bitcoin and Ethereum, should you be too?
 
-The Motley Fool • 10h ago
+The Motley Fool • 11h ago
 
 ---
 
@@ -185,7 +185,7 @@ The Motley Fool • 10h ago
 
 Bitmine now owns more than 4% of the total ETH coin supply of 120.7 million Bitmine is 81% of the way to the 'Alchemy of 5%' in just 9 months Bitmine uplisted...
 
-PR Newswire • 10h ago
+PR Newswire • 11h ago
 
 ---
 
@@ -193,7 +193,7 @@ PR Newswire • 10h ago
 
 Institutional crypto investors posted their strongest weekly inflows since January, with Bitcoin and Ethereum demand rising as XRP investments cool.
 
-Decrypt • 5h ago
+Decrypt • 6h ago
 
 ---
 
@@ -201,7 +201,7 @@ Decrypt • 5h ago
 
 Ethereum price started a fresh decline and traded below $2,250. ETH is now consolidating above $2,175 and might struggle to recover.Ethereum Price Dips AgainEthereum price failed to remain stable above $2,250 and started a downside correction, like Bitcoin. ETH price dipped below the $2,220 and $2…
 
-TradingView — Track All Markets • 18h ago
+TradingView — Track All Markets • 19h ago
 
 ---
 
@@ -209,7 +209,7 @@ TradingView — Track All Markets • 18h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 9h ago
+Fortune • 10h ago
 
 ---
 
@@ -217,7 +217,7 @@ Fortune • 9h ago
 
 Bitcoin (BTC) and Ethereum (ETH) held gains on Monday after rising by over 2.5% and 3.5%, respectively, and Ripple (XRP) stabilized around the key level, the previous week.
 
-FXStreet • 19h ago
+FXStreet • 20h ago
 
 ---
 
@@ -239,7 +239,7 @@ Here is the latest on bitcoin, ethereum and crypto in general! Be aware of whats
 
 📺 Thomas Kralow
 
-👁️ 12K • 👍 1K • 💬 37 • ⏱️ 10:18 • 11h ago
+👁️ 12K • 👍 1K • 💬 37 • ⏱️ 10:18 • 12h ago
 
 ---
 
@@ -249,7 +249,7 @@ Ethereum is down more than 50% from its all-time high, but the bigger concern ri
 
 📺 More Crypto Online
 
-👁️ 654 • 👍 65 • 💬 7 • ⏱️ 15:54 • 1h ago
+👁️ 654 • 👍 65 • 💬 7 • ⏱️ 15:54 • 2h ago
 
 ---
 
@@ -259,7 +259,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 937 • 👍 87 • 💬 86 • ⏱️ 38:50 • 3h ago
+👁️ 937 • 👍 87 • 💬 86 • ⏱️ 38:50 • 4h ago
 
 ---
 
@@ -279,7 +279,7 @@ BITCOIN: Everyone is WRONG About This (important)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 815 • 👍 72 • 💬 46 • ⏱️ 19:32 • 1h ago
+👁️ 815 • 👍 72 • 💬 46 • ⏱️ 19:32 • 2h ago
 
 ---
 
@@ -289,7 +289,7 @@ XRP, Bitcoin, Ethereum… THIS Is The Moment They Take Control ALL of Martyn's T
 
 📺 Martyn Lucas INVESTOR
 
-👁️ 706 • 👍 106 • ⏱️ 17:57 • 1h ago
+👁️ 706 • 👍 106 • ⏱️ 17:57 • 2h ago
 
 ---
 
@@ -319,7 +319,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 📺 The Moon Show
 
-👁️ 10K • 👍 926 • 💬 70 • ⏱️ 8:32 • 13h ago
+👁️ 10K • 👍 926 • 💬 70 • ⏱️ 8:32 • 14h ago
 
 ---
 
@@ -329,7 +329,7 @@ Buy & Sell Crypto With iTrustCapital https://www.itrustcapital.com/xrparmy Bold 
 
 📺 Digital Asset Investor
 
-👁️ 5K • 👍 555 • ⏱️ 11:21 • 6h ago
+👁️ 5K • 👍 555 • ⏱️ 11:21 • 7h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-13T22:44:33.058654+00:00'
+updated: '2026-04-13T23:42:35.903310+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
+- social
 - videos
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 13, 2026 at 22:44 UTC  
+**Last Updated:** April 13, 2026 at 23:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,19 +79,19 @@ Rank #1
 
 **[Bro and his Bitcoin story](https://www.reddit.com/r/Bitcoin/comments/1skdb4b/bro_and_his_bitcoin_story/)**
 
-7h ago
+8h ago
 
 ---
 
 **[Andreas Antonopoulos used to have brilliant speeches.](https://www.reddit.com/r/Bitcoin/comments/1skc1n6/andreas_antonopoulos_used_to_have_brilliant/)**
 
-8h ago
+9h ago
 
 ---
 
 **[Sorry bears, go back to sleep.](https://www.reddit.com/r/Bitcoin/comments/1sknd1v/sorry_bears_go_back_to_sleep/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 Wealth isn’t gold, it’s energy. By 2000, there will be a scientific accounting system for wealth, aligned with the laws of physics.
 
-9h ago
+10h ago
 
 ---
 
@@ -107,7 +107,7 @@ Wealth isn’t gold, it’s energy. By 2000, there will be a scientific accounti
 
 Stack BTC said the purchase was a ‘landmark moment’ in British politics
 
-🔗 [The Independent](https://www.independent.co.uk/news/uk/politics/nigel-farage-crypto-richard-tice-tax-kwarteng-b2956538.html) • 3h ago
+🔗 [The Independent](https://www.independent.co.uk/news/uk/politics/nigel-farage-crypto-richard-tice-tax-kwarteng-b2956538.html) • 4h ago
 
 ---
 
@@ -115,7 +115,7 @@ Stack BTC said the purchase was a ‘landmark moment’ in British politics
 
 No one questions the root cause, why do prices constantly increase? The money is broken, and everything is downstream of that.
 
-8h ago
+9h ago
 
 ---
 
@@ -123,7 +123,7 @@ No one questions the root cause, why do prices constantly increase? The money is
 
 I can’t find any reasonable explanation of the price rise. Any suggestions?
 
-12m ago
+1h ago
 
 ---
 
@@ -131,7 +131,7 @@ I can’t find any reasonable explanation of the price rise. Any suggestions?
 
 Instead of getting API keys from Coingecko, Coinmarketcap or wherever, handling JSON responses and styling it youself, you can now put a Bitcoin price by just dropping an image wherever adding images by URL is supported. The options are pretty limited for now (BTC/USD only, SVG or PNG, 2 sizes). There's also a caveat: it doesn't work if the site you're putting it on is mirroring or caching it. Such sites usually wouldn't allow you to put in JS either, so it still should work in more places than API-based JS feeds and it's much easier to integrate. Free to use, open source, no ads. You can find it at https://btcimg.io Wdyt?
 
-5h ago
+6h ago
 
 ---
 
@@ -139,7 +139,7 @@ Instead of getting API keys from Coingecko, Coinmarketcap or wherever, handling 
 
 How to to invest in bitcoin
 
-2h ago
+3h ago
 
 ---
 
@@ -157,7 +157,7 @@ How to to invest in bitcoin
 
 The Reform UK leader is a shareholder in British bitcoin company Stack and appeared in a promotional video.
 
-BBC • 2h ago
+BBC • 3h ago
 
 ---
 
@@ -165,13 +165,13 @@ BBC • 2h ago
 
 Crypto funds brought in $1.1 billion last week, their strongest inflow since January, as inflation and geopolitical tensions eased.
 
-The Block • 11h ago
+The Block • 12h ago
 
 ---
 
 **[Bitcoin steady at $71.5k as U.S.-Iran talks fall through, Hormuz blockade looms](https://www.investing.com/news/cryptocurrency-news/bitcoin-dips-to-71k-as-usiran-talks-fall-through-hormuz-blockade-looms-4609268)**
 
-Investing.com • 8h ago
+Investing.com • 9h ago
 
 ---
 
@@ -179,7 +179,7 @@ Investing.com • 8h ago
 
 While Trump calls for free passage, Iran is leveraging Bitcoin’s neutrality to monetize its grip on 20% of global oil flows. This could reshape mining power and energy markets overnight.
 
-Bitcoin Magazine • 8h ago
+Bitcoin Magazine • 9h ago
 
 ---
 
@@ -187,7 +187,7 @@ Bitcoin Magazine • 8h ago
 
 Cryptocurrency bitcoin (BTC-USD) is trading above $71,000 per token on Monday after President Trump ordered an US blockade to the Strait of Hormuz after the collapse of ceasefire talks with Iranian officials. Market Catalysts Host Julie Hyman takes a closer look at the crypto market and how crypto-related stocks are trading to start the week.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -195,7 +195,7 @@ Yahoo Finance • 7h ago
 
 Jonathan Krinsky, BTIG chief market technician, joins 'Closing Bell' to discuss his outlook on software stocks.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
@@ -203,13 +203,13 @@ CNBC • 2h ago
 
 Investors with the right mindset are thinking about the digital asset far into the future, as opposed to a short-term focus.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
 **['First Crypto Bank'—Kraken's Fed Approval Sparks $100K Bitcoin Warning](https://www.forbes.com/sites/digital-assets/2026/04/12/first-crypto-bank-krakens-fed-approval-sparks-100k-bitcoin-warning/)**
 
-Forbes • 22h ago
+Forbes • 23h ago
 
 ---
 
@@ -217,7 +217,7 @@ Forbes • 22h ago
 
 Risk assets shrugged off the failed weekend negotiations between the U.S. and Iran, and the U.S. blockade of the Strait of Hormuz.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -225,7 +225,7 @@ CoinDesk • 2h ago
 
 Bitcoin is struggling to break above $70K as profit-taking caps rallies, even as Wall Street firms grow more bullish on equities amid signs the recent correction may be ending.
 
-Bitcoin Magazine • 8h ago
+Bitcoin Magazine • 9h ago
 
 ---
 
@@ -317,7 +317,7 @@ Bitcoin #Crypto #Finance ➡️Trade with us on Bitunix and claim your exclusive
 
 📺 DataDash
 
-👁️ 2K • 👍 186 • 💬 12 • ⏱️ 22:13 • 6h ago
+👁️ 2K • 👍 186 • 💬 12 • ⏱️ 22:13 • 7h ago
 
 ---
 
@@ -327,7 +327,7 @@ bitcoin #oilcrisis #finance Bitcoin keeps running into a wall of selling above $
 
 📺 The Wolf Of All Streets
 
-👁️ 16K • 👍 891 • 💬 266 • ⏱️ 1:04:57 • 8h ago
+👁️ 16K • 👍 891 • 💬 266 • ⏱️ 1:04:57 • 9h ago
 
 ---
 
@@ -347,7 +347,7 @@ Trump RESET, Iran deal, Strait of Hormuz, and Bitcoin, Ethereum, and more BITUNI
 
 📺 Lark Davis
 
-👁️ 12K • 👍 691 • 💬 103 • ⏱️ 14:10 • 11h ago
+👁️ 12K • 👍 691 • 💬 103 • ⏱️ 14:10 • 12h ago
 
 ---
 
@@ -367,7 +367,7 @@ Ran explains that markets are shifting as geopolitics, especially the escalating
 
 📺 Crypto Banter
 
-👁️ 16K • 👍 2K • 💬 47 • ⏱️ 26:37 • 8h ago
+👁️ 16K • 👍 2K • 💬 47 • ⏱️ 26:37 • 9h ago
 
 ---
 
@@ -397,7 +397,7 @@ Morgan Stanley LEAKED their future bitcoin plan - sounds like their eliminating 
 
 📺 Simply Bitcoin
 
-👁️ 4K • 👍 273 • 💬 31 • ⏱️ 1:24:58 • 3h ago
+👁️ 4K • 👍 273 • 💬 31 • ⏱️ 1:24:58 • 4h ago
 
 ---
 
