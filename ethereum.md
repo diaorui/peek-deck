@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-13T20:57:12.006515+00:00'
+updated: '2026-04-13T21:54:48.219722+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- videos
 - news
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 13, 2026 at 20:57 UTC  
+**Last Updated:** April 13, 2026 at 21:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $272.29B
+**Market Cap:** $273.02B
 Rank #2
 
 **Circulating Supply:** 120,691,024 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--54.4%
+-54.2%
 
 **All-Time Low:** $0.43
-+520959.9%
++522622.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -152,7 +152,7 @@ Roman Storm acquittal hearing, ETHGlobal Cannes hackathon finalists, EVM Now blo
 
 A forged cross-chain message bypassed state proof validation on the bridge contract, granting admin control over the bridged DOT token and allowing the attacker to mint and dump the entire supply for $237,000.
 
-CoinDesk • 13h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -168,7 +168,7 @@ BeInCrypto • 2d ago
 
 BitMine Immersion Technologies' Ethereum treasury gained another $157 million of ETH last week, its biggest acquisition since December.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -176,7 +176,7 @@ Yahoo Finance • 6h ago
 
 If crypto treasury companies are loading up on Bitcoin and Ethereum, should you be too?
 
-The Motley Fool • 8h ago
+The Motley Fool • 9h ago
 
 ---
 
@@ -184,7 +184,7 @@ The Motley Fool • 8h ago
 
 Bitmine now owns more than 4% of the total ETH coin supply of 120.7 million Bitmine is 81% of the way to the 'Alchemy of 5%' in just 9 months Bitmine uplisted...
 
-PR Newswire • 8h ago
+PR Newswire • 9h ago
 
 ---
 
@@ -192,7 +192,7 @@ PR Newswire • 8h ago
 
 Ethereum price started a fresh decline and traded below $2,250. ETH is now consolidating above $2,175 and might struggle to recover.Ethereum Price Dips AgainEthereum price failed to remain stable above $2,250 and started a downside correction, like Bitcoin. ETH price dipped below the $2,220 and $2…
 
-TradingView — Track All Markets • 16h ago
+TradingView — Track All Markets • 17h ago
 
 ---
 
@@ -200,13 +200,13 @@ TradingView — Track All Markets • 16h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 7h ago
+Fortune • 8h ago
 
 ---
 
 **[Bitcoin, XRP, Ethereum Fall. Iran Peace Failure Causes a Crypto Headache.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-iran-crypto-46d858c6)**
 
-Barron's • 8h ago
+Barron's • 9h ago
 
 ---
 
@@ -214,13 +214,13 @@ Barron's • 8h ago
 
 Bitcoin (BTC) and Ethereum (ETH) held gains on Monday after rising by over 2.5% and 3.5%, respectively, and Ripple (XRP) stabilized around the key level, the previous week.
 
-FXStreet • 17h ago
+FXStreet • 18h ago
 
 ---
 
 **[Ethereum Price Near Breakout?: On-Chain Signals Just Flipped Bullish](https://www.binance.com/en/square/post/312093831468945)**
 
-Binance • 7h ago
+Binance • 8h ago
 
 ---
 
@@ -234,17 +234,17 @@ Here is the latest on bitcoin, ethereum and crypto in general! Be aware of whats
 
 📺 Thomas Kralow
 
-👁️ 11K • 👍 1K • 💬 47 • ⏱️ 10:18 • 9h ago
+👁️ 12K • 👍 1K • 💬 37 • ⏱️ 10:18 • 10h ago
 
 ---
 
-**[Ethereum Supply Shock + BlackRock Staking = Massive Setup](https://www.youtube.com/watch?v=MhOmj6JSAgs)**
+**[Ethereum Bounce Looks Weak - Here&#39;s What the Structure Says](https://www.youtube.com/watch?v=uk1iW8koJTE)**
 
-Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to stay smart on crypto: ...
+Ethereum is down more than 50% from its all-time high, but the bigger concern right now is not just the decline — it's the structure ...
 
-📺 Milk Road
+📺 More Crypto Online
 
-👁️ 4K • 👍 157 • 💬 47 • ⏱️ 10:57 • 1d ago
+👁️ 654 • 👍 65 • 💬 7 • ⏱️ 15:54 • 52m ago
 
 ---
 
@@ -254,7 +254,37 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 354 • 👍 40 • 💬 7 • ⏱️ 38:50 • 2h ago
+👁️ 937 • 👍 87 • 💬 86 • ⏱️ 38:50 • 3h ago
+
+---
+
+**[Ethereum Supply Shock + BlackRock Staking = Massive Setup](https://www.youtube.com/watch?v=MhOmj6JSAgs)**
+
+Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to stay smart on crypto: ...
+
+📺 Milk Road
+
+👁️ 4K • 👍 161 • 💬 47 • ⏱️ 10:57 • 1d ago
+
+---
+
+**[BITCOIN: Everyone is WRONG About This (important)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=uZnjzuPNTng)**
+
+BITCOIN: Everyone is WRONG About This (important)!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
+
+📺 Crypto World
+
+👁️ 815 • 👍 72 • 💬 46 • ⏱️ 19:32 • 39m ago
+
+---
+
+**[🚨 XRP, Bitcoin, Ethereum… THIS Is The Moment They Take Control | Martyn Lucas Investor](https://www.youtube.com/watch?v=CnoW_JE0JoI)**
+
+XRP, Bitcoin, Ethereum… THIS Is The Moment They Take Control ALL of Martyn's Trades on Discord Includes 1 on 1 support ...
+
+📺 Martyn Lucas INVESTOR
+
+👁️ 706 • 👍 106 • ⏱️ 17:57 • 26m ago
 
 ---
 
@@ -264,7 +294,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 28K • 👍 781 • 💬 96 • ⏱️ 19:27 • 2d ago
+👁️ 28K • 👍 786 • 💬 97 • ⏱️ 19:27 • 2d ago
 
 ---
 
@@ -274,7 +304,7 @@ Freedom is a minimalist browser for Swarm and IPFS. No centralized gateways. You
 
 📺 Paul Barron Network
 
-👁️ 38K • 👍 2K • 💬 150 • ⏱️ 18:02 • 1d ago
+👁️ 40K • 👍 2K • 💬 152 • ⏱️ 18:02 • 1d ago
 
 ---
 
@@ -284,47 +314,17 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 📺 The Moon Show
 
-👁️ 9K • 👍 888 • 💬 68 • ⏱️ 8:32 • 11h ago
+👁️ 10K • 👍 926 • 💬 70 • ⏱️ 8:32 • 12h ago
 
 ---
 
-**[ETHEREUM ABOUT TO FALL?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=ovCeVXSdFSg)**
+**[XRP To Surpass Ethereum &amp; Ripple President On Big Pivot Point](https://www.youtube.com/watch?v=gO3AcEsMeO8)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+Buy & Sell Crypto With iTrustCapital https://www.itrustcapital.com/xrparmy Bold XRP Price Prediction & Ripple Prime On The New ...
 
-📺 Cilinix Crypto
+📺 Digital Asset Investor
 
-👁️ 235 • 👍 25 • 💬 2 • ⏱️ 5:26 • 11h ago
-
----
-
-**[Ethereum Price Analysis – Is a Pullback Coming Next Week?](https://www.youtube.com/watch?v=TKYhyD_smXY)**
-
-Ethereum has completed a five wave move up from the March lows – a critical Elliott Wave signal. In this video I break down what ...
-
-📺 More Crypto Online
-
-👁️ 4K • 👍 204 • 💬 22 • ⏱️ 9:19 • 1d ago
-
----
-
-**[BITCOIN &amp; ETH DROP ON NO CEASEFIRE DEAL (EXPECT THE SAME FOR STOCKS)](https://www.youtube.com/watch?v=eqMS9_GGb5E)**
-
-Daily BTC, ETH, TSLA trades. Subscribe. Bybit bonus up to $30000 https://partner.bybit.com/b/Buyalts Weex, $200 sign-up, ...
-
-📺 James Crypto Guru
-
-👁️ 2K • 👍 126 • 💬 18 • ⏱️ 11:17 • 18h ago
-
----
-
-**[BITCOIN WARNING SIGNAL CONFIRMED (This is Next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=BBhN_g5Tyyw)**
-
-BITCOIN WARNING SIGNAL CONFIRMED (This is Next)!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
-
-📺 Crypto World
-
-👁️ 7K • 👍 262 • 💬 468 • ⏱️ 17:54 • 23h ago
+👁️ 5K • 👍 555 • ⏱️ 11:21 • 5h ago
 
 ---
 
