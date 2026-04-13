@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-13T13:28:44.178711+00:00'
+updated: '2026-04-13T15:03:10.434664+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
-- social
 - news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 13, 2026 at 13:28 UTC  
+**Last Updated:** April 13, 2026 at 15:03 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $71,214.72
+### $72,360.17
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.7%  
-**7d:** -1.1%  
-**30d:** -2.1%  
-**90d:** -26.6%  
-**1y:** -15.8%  
+**24h:** +2.0%  
+**7d:** +0.5%  
+**30d:** -0.5%  
+**90d:** -25.4%  
+**1y:** -14.5%  
 
 ---
 
@@ -77,11 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Strategy Acquires Massive 13,927 BTC worth of $1 billion and Now Holds 780,897 BTC](https://www.reddit.com/r/Bitcoin/comments/1sk9d3i/strategy_acquires_massive_13927_btc_worth_of_1/)**
+**[Andreas Antonopoulos used to have brilliant speeches.](https://www.reddit.com/r/Bitcoin/comments/1skc1n6/andreas_antonopoulos_used_to_have_brilliant/)**
 
-April 13, 2026
+50m ago
 
-🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-13927-btc-now-holds-780897-btc_04-13-2026) • 59m ago
+---
+
+**[Buckminster Fuller describing Bitcoin in 1967](https://www.reddit.com/r/Bitcoin/comments/1ska6o5/buckminster_fuller_describing_bitcoin_in_1967/)**
+
+Wealth isn’t gold, it’s energy. By 2000, there will be a scientific accounting system for wealth, aligned with the laws of physics.
+
+2h ago
 
 ---
 
@@ -99,15 +105,15 @@ April 13, 2026
 
 **[Someone: what’s in your mind?](https://www.reddit.com/r/Bitcoin/comments/1sjx6cx/someone_whats_in_your_mind/)**
 
-11h ago
+13h ago
 
 ---
 
-**[Buckminster Fuller describing Bitcoin in 1967](https://www.reddit.com/r/Bitcoin/comments/1ska6o5/buckminster_fuller_describing_bitcoin_in_1967/)**
+**[We may not like it (I sure don't) but we'll be getting wealth taxes and UBI. Jackson explains why on the latest TLT](https://www.reddit.com/r/Bitcoin/comments/1skcnau/we_may_not_like_it_i_sure_dont_but_well_be/)**
 
-Wealth isn’t gold, it’s energy. By 2000, there will be a scientific accounting system for wealth, aligned with the laws of physics.
+No one questions the root cause, why do prices constantly increase? The money is broken, and everything is downstream of that.
 
-26m ago
+28m ago
 
 ---
 
@@ -115,15 +121,7 @@ Wealth isn’t gold, it’s energy. By 2000, there will be a scientific accounti
 
 Money is the operating system of society. If the operating system is owned by a private group, used as a tool for social engineering and can be printed at will, then the "bugs" we see—inflation, wealth inequality, and constant war—are actually features of that specific design. By moving to a system with a fixed supply you aren't just changing a currency; you are changing the underlying incentives of human civilization.
 
-8h ago
-
----
-
-**[Help needed](https://www.reddit.com/r/Bitcoin/comments/1sk170e/help_needed/)**
-
-My older sister passed sway and I found a wallet.dat file? I have no idea how much its has or even how to acces it, what I did do was get the hash? Can anyone guide me through a path on obtaining these funds?
-
-8h ago
+10h ago
 
 ---
 
@@ -131,21 +129,21 @@ My older sister passed sway and I found a wallet.dat file? I have no idea how mu
 
 Looking to borrow some usd against my bitcoin to fund a small business investment and looking at coinbase loans. The rate looks very competitive but not 100% sure how it works and wanna make sure it’s completely legit before handing over any of my stack. Any insight on any of the following q’s would be much appreciated… What is morpho exactly (just the name of Coinbase’s lending product)? Why does it say I need to ‘wrap’ my bitcoin (is that a bad thing)? How do the smart contracts work (do these require you to be an advanced user)? What protections are there against liquidations when price fluctuates? How are they able to offer such a low APR compared to others on the market? Is there any customer support if something goes wrong? Are there any risks I should be aware of before getting started (e.g. could the whole blockfi thing happen again)? Thanks in advance for any insight - I guess I just wanna know if this is gonna be manageable for a normie like me or if it's too risky.
 
-3h ago
+5h ago
 
 ---
 
-**[Never "download" your Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1sjanj9/never_download_your_bitcoin/)**
+**[Help needed](https://www.reddit.com/r/Bitcoin/comments/1sk170e/help_needed/)**
 
-1d ago
+My older sister passed sway and I found a wallet.dat file? I have no idea how much its has or even how to acces it, what I did do was get the hash? Can anyone guide me through a path on obtaining these funds?
+
+10h ago
 
 ---
 
-**[Daily Discussion, April 13, 2026](https://www.reddit.com/r/Bitcoin/comments/1sk2c51/daily_discussion_april_13_2026/)**
+**[Bro and his Bitcoin story](https://www.reddit.com/r/Bitcoin/comments/1skdb4b/bro_and_his_bitcoin_story/)**
 
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-7h ago
+5m ago
 
 ---
 
@@ -157,23 +155,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Bitcoin has once again seen heavy profit-taking above $70,000, according to Glassnode.
 
-CoinDesk • 5h ago
-
----
-
-**[Bitcoin, broader market flat as U.S.-Iran negotiations begin](https://www.coindesk.com/markets/2026/04/11/bitcoin-broader-market-flat-as-u-s-iran-negotiations-begin)**
-
-The market rose over the week after a two-week ceasefire was announced, triggering a derivatives short squeeze that wiped out over $430 million in bearish positions.
-
-CoinDesk • 1d ago
-
----
-
-**[U.S.-Iran talks fail in Pakistan as Bitcoin, XRP fall](https://www.thestreet.com/crypto/markets/bitcoin-xrp-drop-as-u-s-iran-talks-fail-in-pakistan)**
-
-Talks aimed at easing U.S.-Iran tensions ended without a breakthrough, keeping markets on edge.
-
-thestreet.com • 1d ago
+CoinDesk • 6h ago
 
 ---
 
@@ -181,27 +163,7 @@ thestreet.com • 1d ago
 
 High-level negotiations between the US and Iran failed to reach a meaningful resolution earlier on Sunday.
 
-The Block • 11h ago
-
----
-
-**[The Bitcoin Cycle No One Wants To Admit: Boom, Bust, Repeat](https://www.forbes.com/sites/digital-assets/2026/04/13/the-bitcoin-cycle-no-one-wants-to-admit-boom-bust-repeat/)**
-
-Forbes • 50m ago
-
----
-
-**[Bitcoin mining giant Foundry adds new pool for privacy-focused ZCash](https://fortune.com/2026/04/13/bitcoin-mining-giant-foundry-adds-new-pool-for-privacy-focused-zcash/)**
-
-The move reflects a bet that institutions will embrace ZCash, and as Foundry positions itself as a linchpin of U.S. crypto strategy.
-
-Fortune • 29m ago
-
----
-
-**[Bitcoin, XRP, Ethereum Fall. Iran Peace Failure Causes a Crypto Headache.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-iran-crypto-46d858c6)**
-
-Barron's • 56m ago
+The Block • 13h ago
 
 ---
 
@@ -209,23 +171,59 @@ Barron's • 56m ago
 
 MicroStrategy reveals 2.05% annual Bitcoin growth could fund all STRC preferred stock dividends indefinitely.
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
-**[Could Buying Bitcoin Today Still Set You Up for Life?](https://www.fool.com/investing/2026/04/12/could-buying-bitcoin-today-still-set-you-up-for-li/)**
+**[Michael Saylor's Strategy added 13,927 bitcoin for $1 billion](https://www.coindesk.com/markets/2026/04/13/michael-saylor-s-strategy-added-13-927-bitcoin-for-usd1-billion)**
 
-After a tremendous 16,820% gain in the past 10 years, it's reasonable to believe that the leading cryptocurrency's performance won't be nearly as impressive in the future.
+Last week's purchases were completely funded by sales of Stretch, the companies perpetual preferred stock.
 
-The Motley Fool • 20h ago
+CoinDesk • 2h ago
 
 ---
 
-**[Bitcoin April 13 daily chart alert— Basing, coiling potentially bullish](https://www.kitco.com/news/article/2026-04-13/bitcoin-april-13-daily-chart-alert-basing-coiling-potentially-bullish)**
+**[Strategy Snaps Up More Bitcoin. It’s Using Preferred Stock Sales to Buy the Dip.](https://www.barrons.com/articles/strategy-stock-bitcoin-purchases-17e66aad)**
 
-The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
+Barron's • 26m ago
 
-KITCO • 38m ago
+---
+
+**[SpaceX holds $603M in bitcoin despite $5B loss](https://finance.yahoo.com/video/spacex-holds-603m-bitcoin-despite-144049266.html)**
+
+SpaceX holds 8,285 bitcoin worth $603 million despite posting a nearly $5 billion loss for 2025, making it the fourth-largest known corporate bitcoin holder as the company moves toward an IPO. CoinDesk's Jennifer Sanasie hosts "CoinDesk Daily."
+
+Yahoo Finance • 22m ago
+
+---
+
+**[Bitcoin price news: BTC modestly bounces after weekend tumble](https://www.coindesk.com/markets/2026/04/13/bitcoin-moves-off-lowest-level-as-worst-of-weekend-fears-slip-away)**
+
+As the U.S. blockade of the Strait of Hormuz goes into effect, reports say Iran is considering the abandonment of uranium enrichment as a way to end the war.
+
+CoinDesk • 9m ago
+
+---
+
+**['First Crypto Bank'—Kraken's Fed Approval Sparks $100K Bitcoin Warning](https://www.forbes.com/sites/digital-assets/2026/04/12/first-crypto-bank-krakens-fed-approval-sparks-100k-bitcoin-warning/)**
+
+Forbes • 14h ago
+
+---
+
+**[Bitcoin mining giant Foundry adds new pool for privacy-focused ZCash](https://fortune.com/2026/04/13/bitcoin-mining-giant-foundry-adds-new-pool-for-privacy-focused-zcash/)**
+
+The move reflects a bet that institutions will embrace ZCash, and as Foundry positions itself as a linchpin of U.S. crypto strategy.
+
+Fortune • 2h ago
+
+---
+
+**[Is Bitcoin the Safest Cryptocurrency to Own for the Long Term?](https://www.fool.com/investing/2026/04/13/is-bitcoin-safest-cryptocurrency-to-own-long-term/)**
+
+Investors pay a lot of attention to the top digital asset's possible upside, but it might be more important to understand factors that protect its downside.
+
+The Motley Fool • 51m ago
 
 ---
 
@@ -243,7 +241,7 @@ KITCO • 38m ago
 
 The average production cost was sitting at $88,000 per bitcoin in mid-March, according to Checkonchain's difficulty regression model.
 
-⬆️ 237 • 💬 224 • 2d ago • [coindesk.com](https://www.coindesk.com/markets/2026/03/22/bitcoin-miners-are-losing-usd19-000-on-every-btc-produced-as-difficulty-drops-7-8)
+⬆️ 238 • 💬 224 • 2d ago • [coindesk.com](https://www.coindesk.com/markets/2026/03/22/bitcoin-miners-are-losing-usd19-000-on-every-btc-produced-as-difficulty-drops-7-8)
 
 ---
 
@@ -251,7 +249,7 @@ The average production cost was sitting at $88,000 per bitcoin in mid-March, acc
 
 Country’s oil exporters’ union says toll to be paid in cryptocurrency and vessels monitored for weapons
 
-⬆️ 174 • 💬 277 • 4d ago • [ft.com](https://www.ft.com/content/02aefac4-ea62-48db-9326-c0da373b11b8)
+⬆️ 174 • 💬 277 • 5d ago • [ft.com](https://www.ft.com/content/02aefac4-ea62-48db-9326-c0da373b11b8)
 
 ---
 
@@ -267,7 +265,7 @@ Neha Narula
 
 Arkham data shows 8,285 BTC in Coinbase Prime custody as the company swings from $8 billion profit to nearly $5 billion loss ahead of its IPO push.
 
-⬆️ 25 • 💬 9 • 21h ago • [coindesk.com](https://www.coindesk.com/markets/2026/04/11/musk-s-spacex-holds-usd603-million-in-bitcoin-despite-usd5-billion-loss-stemming-from-xai)
+⬆️ 25 • 💬 9 • 22h ago • [coindesk.com](https://www.coindesk.com/markets/2026/04/11/musk-s-spacex-holds-usd603-million-in-bitcoin-despite-usd5-billion-loss-stemming-from-xai)
 
 ---
 
@@ -289,7 +287,7 @@ The British computer scientist and entrepreneur has denied being the man who the
 
 A three-part deep dive into quantum computing's actual threat to Bitcoin. 17 researchers, 13 proposals, real engineering. No hype. No FUD.
 
-⬆️ 5 • 💬 1 • 1d ago • [Bitcoin & Quantum Computing](https://bitcoinquantum.space)
+⬆️ 6 • 💬 1 • 1d ago • [Bitcoin & Quantum Computing](https://bitcoinquantum.space)
 
 ---
 
@@ -317,7 +315,7 @@ Bitcoin just dropped hard as geopolitical tension spikes, but the real story is 
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 1K • 💬 121 • ⏱️ 16:31 • 15h ago
+👁️ 24K • 👍 1K • 💬 121 • ⏱️ 16:31 • 16h ago
 
 ---
 
@@ -357,7 +355,7 @@ Bitcoin is sending out some SERIOUS signals right now… and almost nobody is co
 
 📺 Crypto Love
 
-👁️ 3K • 👍 287 • 💬 388 • ⏱️ 9:35 • 20h ago
+👁️ 3K • 👍 287 • 💬 388 • ⏱️ 9:35 • 22h ago
 
 ---
 
@@ -367,7 +365,7 @@ Bitcoin #Crypto #Finance #bitcoin #oilcrisis #finance Bitcoin keeps running into
 
 📺 The Wolf Of All Streets
 
-👁️ 2K • 👍 161 • 43m ago
+👁️ 2K • 👍 161 • 2h ago
 
 ---
 
@@ -375,7 +373,7 @@ Bitcoin #Crypto #Finance #bitcoin #oilcrisis #finance Bitcoin keeps running into
 
 📺 CryptoWendyO
 
-👁️ 5K • 👍 255 • 💬 18 • ⏱️ 1:00 • 13h ago
+👁️ 5K • 👍 255 • 💬 18 • ⏱️ 1:00 • 14h ago
 
 ---
 
@@ -395,7 +393,7 @@ TIA PRO LIFETIME DISCOUNT - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAPS
 
 📺 Jason Pizzino
 
-👁️ 14K • 👍 1K • 💬 521 • ⏱️ 26:41 • 12h ago
+👁️ 14K • 👍 1K • 💬 521 • ⏱️ 26:41 • 13h ago
 
 ---
 
@@ -405,7 +403,7 @@ Today we're going to explain where you stand in the different levels of Bitcoin 
 
 📺 Luke Mikic
 
-👁️ 10K • 👍 503 • 💬 239 • ⏱️ 24:55 • 21h ago
+👁️ 10K • 👍 503 • 💬 239 • ⏱️ 24:55 • 22h ago
 
 ---
 
