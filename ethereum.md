@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-13T15:03:10.439941+00:00'
+updated: '2026-04-13T16:42:49.093888+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 13, 2026 at 15:03 UTC  
+**Last Updated:** April 13, 2026 at 16:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,227.83
+### $2,228.72
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.0%  
-**7d:** -0.5%  
-**30d:** +2.3%  
-**90d:** -33.6%  
-**1y:** +37.5%  
+**24h:** +1.1%  
+**7d:** -0.7%  
+**30d:** +2.2%  
+**90d:** -33.8%  
+**1y:** +37.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $265.48B
+**Market Cap:** $268.97B
 Rank #2
 
 **Circulating Supply:** 120,691,024 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--55.5%
+-54.9%
 
 **All-Time Low:** $0.43
-+507982.4%
++514620.1%
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
+
+---
+
+**[System i used to print on ETH(system 3/30)](https://www.reddit.com/r/ethereum/comments/1skg6wd/system_i_used_to_print_on_ethsystem_330/)**
+
+Deserves a share here, absolutely printed last bull market and is so simple a child could learn it in 10 minute.
+
+6m ago
 
 ---
 
@@ -80,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I permanently lost $2,000 USD value trying to stake via direct contract interaction on Aerodrome. The CLGauge contract accepts safeTransferFrom via the onERC721Received hook but silently fails to update the staking state, creating a black hole for assets. I’m sharing this to warn other developers and integrators building on top of Aerodrome (Base chain), and hopefully get the attention of the Core Team or the Emergency Council, since standard Discord support just gave me the "contracts are immutable" playbook. Recently, I performed a safeTransferFrom (as a fallback to approve and deposit) directly to the Aerodrome Gauge (0x83e2E9493996651ed63033d81f5052cBE2fEB6A1). The transaction was mathematically and technically successful on-chain because the Gauge contract explicitly implements the IERC721Receiver interface. However, this is where the integration trap lies: While the contract gladly accepted physical custody of my NFT position, it completely failed to trigger the internal logic to update the _stakes mapping and the rewardGrowth snapshots. The Reality: By exposing the receiver hook without the corresponding push-based deposit logic, Aerodrome's contract signals false compatibility. It creates a critical state mismatch: the Gauge owns the NFT, but my wallet is no longer recognized as the owner, meaning I can neither call deposit() nor withdraw(). Has any other developer encountered this problem?
 
-22h ago
+23h ago
 
 ---
 
@@ -94,15 +102,7 @@ I permanently lost $2,000 USD value trying to stake via direct contract interact
 
 **[World Liberty Financial borrowed its own stablecoin against its own token on a platform run by its own advisor and Justin Sun (WLFI biggest investor) just called it fraud.](https://www.reddit.com/r/ethereum/comments/1sjkjuc/world_liberty_financial_borrowed_its_own/)**
 
-21h ago
-
----
-
-**[What actually happens under the hood when calldata hits the EVM (Execution Flow Breakdown)](https://www.reddit.com/r/ethereum/comments/1sjqdwd/what_actually_happens_under_the_hood_when/)**
-
-There’s a lot of focus lately on calldata in the context of rollups and EIP-2028 gas economics (16 vs 4 gas per byte). While data availability is important, I often see the actual low-level execution mechanics get glossed over. I wrote a deep dive on EVM internals covering this exact topic. If you've ever wondered what happens at the opcode level the millisecond your transaction payload hits a smart contract, here is the actual lifecycle of calldata: The Raw Byte Handoff & The 4-Byte Check When a transaction is sent, the EVM doesn't understand "functions" or "parameters", it just sees a raw hex-encoded blob in a read-only area called calldata. Before anything else, the EVM checks the length of this data: The Function Dispatcher (The EVM's Switchboard) If there is data, the EVM runs the dispatcher essentially a giant, compiler-generated switch/case statement: If it finds a match, it uses JUMPI to move the Program Counter to that specific block of code. ABI Decoding & Stack Loading Once the EVM jumps to the right function, it has to "unpack" the arguments: Dynamic Types (string, bytes[]): The calldata contains an offset (a pointer). The EVM reads this offset, jumps to that position in the calldata, reads the length prefix, and then processes the actual data. The payable Word Before executing any actual business logic, the EVM checks the callvalue (msg.value). If the target function is not explicitly marked as payable, but the transaction includes ETH, the EVM triggers a REVERT right here. This prevents trapped funds and happens before your code even starts running. memory vs. calldata Execution This is where the famous gas savings come in during execution: If a function parameter is declared as memory, the EVM is forced to use CALLDATACOPY to move the read-only bytes into mutable memory. This triggers memory expansion gas costs. If declared as calldata, the EVM skips the copy process entirely. It just uses CALLDATALOAD to read directly from the original transaction payload, saving you the memory expansion overhead. source/deep dive overview: https://andreyobruchkov1996.substack.com/p/what-actually-happens-when-calldata
-
-18h ago
+23h ago
 
 ---
 
@@ -110,7 +110,15 @@ There’s a lot of focus lately on calldata in the context of rollups and EIP-20
 
 I built a CLI tool in rust called LaunchDex that deploys a full DEX--factory contract, router, liquidity pair and swap frontend--on Ethereum, Arbitrum, and Base in a single command. The whole process that typically takes weeks of manual contract deployment, configuration and frontend setup is reduced to launchdex deploy. Contract addresses are saved automatically and a custom swap interface is generated and ready to deploy. The tool is built on top of verified Uniswap v2 contracts so the deployed DEX is production-grade and audited. Multi-token support lets you add additional trading pairs to an existing factory with one command. The generated frontend includes an embedded wallet so user can swap tokens without needing Metamask installed. Let me know what you think
 
-15h ago
+16h ago
+
+---
+
+**[What actually happens under the hood when calldata hits the EVM (Execution Flow Breakdown)](https://www.reddit.com/r/ethereum/comments/1sjqdwd/what_actually_happens_under_the_hood_when/)**
+
+There’s a lot of focus lately on calldata in the context of rollups and EIP-2028 gas economics (16 vs 4 gas per byte). While data availability is important, I often see the actual low-level execution mechanics get glossed over. I wrote a deep dive on EVM internals covering this exact topic. If you've ever wondered what happens at the opcode level the millisecond your transaction payload hits a smart contract, here is the actual lifecycle of calldata: The Raw Byte Handoff & The 4-Byte Check When a transaction is sent, the EVM doesn't understand "functions" or "parameters", it just sees a raw hex-encoded blob in a read-only area called calldata. Before anything else, the EVM checks the length of this data: The Function Dispatcher (The EVM's Switchboard) If there is data, the EVM runs the dispatcher essentially a giant, compiler-generated switch/case statement: If it finds a match, it uses JUMPI to move the Program Counter to that specific block of code. ABI Decoding & Stack Loading Once the EVM jumps to the right function, it has to "unpack" the arguments: Dynamic Types (string, bytes[]): The calldata contains an offset (a pointer). The EVM reads this offset, jumps to that position in the calldata, reads the length prefix, and then processes the actual data. The payable Word Before executing any actual business logic, the EVM checks the callvalue (msg.value). If the target function is not explicitly marked as payable, but the transaction includes ETH, the EVM triggers a REVERT right here. This prevents trapped funds and happens before your code even starts running. memory vs. calldata Execution This is where the famous gas savings come in during execution: If a function parameter is declared as memory, the EVM is forced to use CALLDATACOPY to move the read-only bytes into mutable memory. This triggers memory expansion gas costs. If declared as calldata, the EVM skips the copy process entirely. It just uses CALLDATALOAD to read directly from the original transaction payload, saving you the memory expansion overhead. source/deep dive overview: https://andreyobruchkov1996.substack.com/p/what-actually-happens-when-calldata
+
+19h ago
 
 ---
 
@@ -136,14 +144,6 @@ So I went back through my wallet history and used a couple of MEV tracking tools
 
 ---
 
-**[Ethereal news weekly #19 | Roman Storm acquittal hearing, ETHGlobal Cannes hackathon finalists, EVM Now block explorer](https://www.reddit.com/r/ethereum/comments/1shnkzm/ethereal_news_weekly_19_roman_storm_acquittal/)**
-
-Roman Storm acquittal hearing, ETHGlobal Cannes hackathon finalists, EVM Now block explorer
-
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-19/) • 3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -152,7 +152,7 @@ Roman Storm acquittal hearing, ETHGlobal Cannes hackathon finalists, EVM Now blo
 
 A forged cross-chain message bypassed state proof validation on the bridge contract, granting admin control over the bridged DOT token and allowing the attacker to mint and dump the entire supply for $237,000.
 
-CoinDesk • 7h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -164,49 +164,25 @@ BeInCrypto • 1d ago
 
 ---
 
-**[How Much Should You Allocate To Crypto? Schwab Says Even A Small Allocation To Bitcoin And Ethereum Can Significantly Affect Performance](https://finance.yahoo.com/markets/crypto/articles/much-allocate-crypto-schwab-says-131603272.html)**
+**[Tom Lee’s BitMine Makes Biggest Ethereum Buy Since December](https://finance.yahoo.com/markets/crypto/articles/tom-lee-bitmine-makes-biggest-143236082.html)**
 
-There is no one-size-fits-all cryptocurrency allocation, according to Charles Schwab Corporation (NYSE:SCHW). Schwab Director of Digital Currencies Research and Strategy Jim Ferraioli said in a report last week that investors could determine cryptocurrency allocations either through traditional portfolio theory or...
+BitMine Immersion Technologies' Ethereum treasury gained another $157 million of ETH last week, its biggest acquisition since December.
 
-Yahoo Finance • 1h ago
-
----
-
-**[Which Cryptocurrency Should You Be Hoarding Right Now, Bitcoin or Ethereum?](https://www.fool.com/investing/2026/04/13/which-cryptocurrency-should-you-be-hoarding-right/)**
-
-If crypto treasury companies are loading up on Bitcoin and Ethereum, should you be too?
-
-The Motley Fool • 3h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Pi Network News: Bitcoin and Ethereum Are Rallying and Pi Is Down 30%, Here’s Why](https://www.tradingview.com/news/coinpedia:de3423956094b:0-pi-network-news-bitcoin-and-ethereum-are-rallying-and-pi-is-down-30-here-s-why/)**
+**[Crypto Hacker Mints $1.1 Billion in Polkadot via Ethereum Bridge, But Can Only Cash Out $237K](https://finance.yahoo.com/markets/crypto/articles/crypto-hacker-mints-1-1-160957928.html)**
 
-Pi has shed close to 30% over the past month, while Bitcoin, Ethereum, and XRP have been holding their ground or even rallying. According to the market data, Pi Network is currently trading around $0.167, slipping 1.77% in the last 24 hours. The token still carries a market cap of around $1.7 billi…
+A hacker exploited a Polkadot bridge, minting $1.1 billion worth of DOT tokens before making a tiny fraction of that tally by selling it.
 
-TradingView — Track All Markets • 4h ago
+Yahoo Finance • 32m ago
 
 ---
 
 **[Bitcoin, XRP, Ethereum Fall. Iran Peace Failure Causes a Crypto Headache.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-iran-crypto-46d858c6)**
 
-Barron's • 2h ago
-
----
-
-**[Bitcoin and ethereum price today, Monday, April 13, 2026: Prices under pressure after U.S.-Iran peace talks fail](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-monday-april-13-2026-prices-under-pressure-after-us-iran-peace-talks-fail-113342218.html)**
-
-​​Bitcoin opened at  $70,741.30 on Monday, while ethereum opened at $2,191.66. Both cryptos were down more than 3% since the prior day’s open.
-
-Yahoo Finance • 3h ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC holds 50-day EMA, ETH and XRP hover near breakdown levels](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-holds-50-day-ema-eth-and-xrp-hover-near-breakdown-levels-202604130321)**
-
-Bitcoin (BTC) and Ethereum (ETH) held gains on Monday after rising by over 2.5% and 3.5%, respectively, and Ripple (XRP) stabilized around the key level, the previous week.
-
-FXStreet • 11h ago
+Barron's • 4h ago
 
 ---
 
@@ -214,13 +190,37 @@ FXStreet • 11h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 2h ago
+Fortune • 3h ago
+
+---
+
+**[Ethereum Is About To Go ‘Parabolic’ – Analyst Signals Golden Triangle Formation](https://www.tradingview.com/news/newsbtc:237f5e313094b:0-ethereum-is-about-to-go-parabolic-analyst-signals-golden-triangle-formation/)**
+
+An analyst on X has made a bold call on Ethereum, stating that the asset is on the verge of a parabolic move. The claim is based on a golden triangle formation on the chart, a setup that shows a breakout could be approaching for the leading altcoin. This approaching breakout could also serve as the…
+
+TradingView — Track All Markets • 1d ago
+
+---
+
+**[Which Cryptocurrency Should You Be Hoarding Right Now, Bitcoin or Ethereum?](https://www.fool.com/investing/2026/04/13/which-cryptocurrency-should-you-be-hoarding-right/)**
+
+If crypto treasury companies are loading up on Bitcoin and Ethereum, should you be too?
+
+The Motley Fool • 4h ago
+
+---
+
+**[AI agents reshaping crypto development, trading and risk, with Cambrian and Ethereum Foundation](https://www.theblock.co/post/397076/ai-agents-reshaping-crypto-development-trading-and-risk-with-cambrian-and-ethereum-foundation)**
+
+Builders and researchers discuss how AI agents are transforming crypto, from development and trading to entirely new financial systems.
+
+The Block • 2d ago
 
 ---
 
 **[Ethereum Price Near Breakout?: On-Chain Signals Just Flipped Bullish](https://www.binance.com/en/square/post/312093831468945)**
 
-Binance • 1h ago
+Binance • 3h ago
 
 ---
 
@@ -234,7 +234,7 @@ Here is the latest on bitcoin, ethereum and crypto in general! Be aware of whats
 
 📺 Thomas Kralow
 
-👁️ 3K • 👍 1K • 💬 20 • ⏱️ 10:18 • 3h ago
+👁️ 7K • 👍 1K • 💬 20 • ⏱️ 10:18 • 5h ago
 
 ---
 
@@ -244,7 +244,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 📺 The Moon Show
 
-👁️ 4K • 👍 593 • 💬 62 • ⏱️ 8:32 • 5h ago
+👁️ 7K • 👍 804 • 💬 68 • ⏱️ 8:32 • 7h ago
 
 ---
 
@@ -254,17 +254,17 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 4K • 👍 148 • 💬 154 • ⏱️ 10:57 • 1d ago
+👁️ 4K • 👍 152 • 💬 156 • ⏱️ 10:57 • 1d ago
 
 ---
 
-**[&quot;HOTTEST 2026 Chart for ETH, XRP &amp; HYPE Holders&quot; - Raoul Pal](https://www.youtube.com/watch?v=WEFN4b0xmKA)**
+**[XRP To Surpass Ethereum &amp; Ripple President On Big Pivot Point](https://www.youtube.com/watch?v=gO3AcEsMeO8)**
 
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+Buy & Sell Crypto With iTrustCapital https://www.itrustcapital.com/xrparmy Bold XRP Price Prediction & Ripple Prime On The New ...
 
-📺 Savvy Finance
+📺 Digital Asset Investor
 
-👁️ 2K • 👍 166 • 💬 15 • ⏱️ 18:42 • 20h ago
+👁️ 366 • 👍 52 • ⏱️ 11:21 • 18m ago
 
 ---
 
@@ -274,17 +274,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 27K • 👍 765 • 💬 95 • ⏱️ 19:27 • 1d ago
-
----
-
-**[ETHEREUM ABOUT TO FALL?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=ovCeVXSdFSg)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 133 • 👍 20 • 💬 2 • ⏱️ 5:26 • 5h ago
+👁️ 28K • 👍 776 • 💬 96 • ⏱️ 19:27 • 2d ago
 
 ---
 
@@ -294,7 +284,37 @@ Freedom is a minimalist browser for Swarm and IPFS. No centralized gateways. You
 
 📺 Paul Barron Network
 
-👁️ 33K • 👍 1K • 💬 143 • ⏱️ 18:02 • 23h ago
+👁️ 36K • 👍 2K • 💬 145 • ⏱️ 18:02 • 1d ago
+
+---
+
+**[ETHEREUM ABOUT TO FALL?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=ovCeVXSdFSg)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 199 • 👍 22 • 💬 22 • ⏱️ 5:26 • 7h ago
+
+---
+
+**[CRYPTO LIVE TRADING || 13 APRIL  | ‪@ClockTraderlive‬ #bitcoin #ethereum #crypto #btclivetrading](https://www.youtube.com/watch?v=NYNBYQwJ7SU)**
+
+join my social platforms for updates and analysis ✓Instagram: ...
+
+📺 Aryan trader Live
+
+👁️ 3K • 👍 3K • 33m ago
+
+---
+
+**[&quot;HOTTEST 2026 Chart for ETH, XRP &amp; HYPE Holders&quot; - Raoul Pal](https://www.youtube.com/watch?v=WEFN4b0xmKA)**
+
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+
+📺 Savvy Finance
+
+👁️ 3K • 👍 178 • 💬 14 • ⏱️ 18:42 • 22h ago
 
 ---
 
@@ -304,27 +324,7 @@ Daily BTC, ETH, TSLA trades. Subscribe. Bybit bonus up to $30000 https://partner
 
 📺 James Crypto Guru
 
-👁️ 1K • 👍 120 • 💬 28 • ⏱️ 11:17 • 13h ago
-
----
-
-**[Ethereum Price Analysis – Is a Pullback Coming Next Week?](https://www.youtube.com/watch?v=TKYhyD_smXY)**
-
-Ethereum has completed a five wave move up from the March lows – a critical Elliott Wave signal. In this video I break down what ...
-
-📺 More Crypto Online
-
-👁️ 4K • 👍 199 • 💬 22 • ⏱️ 9:19 • 1d ago
-
----
-
-**[BITCOIN WARNING SIGNAL CONFIRMED (This is Next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=BBhN_g5Tyyw)**
-
-BITCOIN WARNING SIGNAL CONFIRMED (This is Next)!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
-
-📺 Crypto World
-
-👁️ 6K • 👍 252 • 💬 389 • ⏱️ 17:54 • 17h ago
+👁️ 2K • 👍 126 • 💬 18 • ⏱️ 11:17 • 14h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-13T15:03:10.427110+00:00'
+updated: '2026-04-13T16:42:49.081169+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** April 13, 2026 at 15:03 UTC  
+**Last Updated:** April 13, 2026 at 16:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[NYC hospitals will stop sharing patients' private health data with Palantir](https://www.reddit.com/r/artificial/comments/1sjvbfw/nyc_hospitals_will_stop_sharing_patients_private/)**
 
-14h ago
+16h ago
 
 ---
 
@@ -47,7 +47,15 @@ AI news, discussions, and developments
 
 Linux 7.0 has arrived with some important changes, and guidelines now say that AI-generated code is fine, as long as it's properly reviewed.
 
-🔗 [PC Guide](https://www.pcguide.com/news/linux-kernel-now-allows-ai-generated-code-as-long-as-you-take-full-responsibility-for-any-bugs/) • 25m ago
+🔗 [PC Guide](https://www.pcguide.com/news/linux-kernel-now-allows-ai-generated-code-as-long-as-you-take-full-responsibility-for-any-bugs/) • 2h ago
+
+---
+
+**[The agent that autonomously fixed a production bug at my company last week should have made me happy and it kind of didn't](https://www.reddit.com/r/artificial/comments/1skg4g7/the_agent_that_autonomously_fixed_a_production/)**
+
+It caught the error, traced the root cause, wrote a fix, ran tests, opened a PR and flagged it for review. All while I was asleep. The PR was good. I merged it. And then I sat there for a while not totally sure how to feel about it. I've been an engineer for 8 years and that was the first time I genuinely felt like a reviewer of work rather than the person doing it. I don't think I'm being replaced tomorrow but something shifted in how I think about my role.
+
+8m ago
 
 ---
 
@@ -55,23 +63,7 @@ Linux 7.0 has arrived with some important changes, and guidelines now say that A
 
 AMD’s AI director just analyzed 6,852 Claude Code sessions, 234,760 tool calls, and 17,871 thinking blocks. Her conclusion: “Claude cannot be trusted to perform complex engineering tasks.” Thinking depth dropped 67%. Code reads before edits fell from 6.6 to 2.0. The model started editing files it hadn’t even read. Stop-hook violations went from zero to 10 per day. Anthropic admitted they silently changed the default effort level from “high” to “medium” and introduced “adaptive thinking” that lets the model decide how much to reason. No announcement. No warning. When users shared transcripts, Anthropic’s own engineer confirmed the model was allocating ZERO thinking tokens on some turns. The turns with zero reasoning? Those were the ones hallucinating. AMD’s team has already switched to another provider. But here’s what most people are missing. This isn’t just a Claude story. AMD had 50+ concurrent sessions running on one tool. Their entire AI compiler workflow was built around Claude Code. One silent update broke everything. That’s vendor lock-in. And it will keep happening. → Every AI company will optimize for their margins, not your workflow → Today’s best model is tomorrow’s second choice → If your workflow can’t survive a provider switch, you don’t have a workflow. You have a dependency The fix is simple: stay multi-model. → Use tools like Perplexity that let you swap between Claude, GPT, Gemini in one interface → Learn prompt engineering that works across models, not tricks tied to one → Test alternatives monthly because the rankings shift fast Laurenzo said it herself: “6 months ago, Claude stood alone. Anthropic is far from alone at the capability tier Opus previously occupied.”
 
-23h ago
-
----
-
-**[Meta is reportedly building an AI clone of Mark Zuckerberg](https://www.reddit.com/r/artificial/comments/1skc51l/meta_is_reportedly_building_an_ai_clone_of_mark/)**
-
-The model is being trained on his mannerisms, voice, and public statements to answer employee questions and give strategy feedback. Meta has also been developing photorealistic 3D AI characters as part of its broader push into generative AI tools. The effort follows reports that Zuckerberg is separately working on an AI agent to help him with personal tasks.
-
-🔗 [Engadget](https://www.engadget.com/ai/meta-is-reportedly-building-an-ai-clone-of-mark-zuckerberg-130242840.html) • 46m ago
-
----
-
-**[We're Learning Backwards: LLMs build intelligence in reverse, and the Scaling Hypothesis is bounded](https://www.reddit.com/r/artificial/comments/1sjjw03/were_learning_backwards_llms_build_intelligence/)**
-
-LLMs are brilliant at many things, but still fail in unreasonable ways. Is that an issue of scale, or something more fundamental?
-
-🔗 [pleasedontcite.me](https://pleasedontcite.me/learning-backwards/) • 22h ago
+1d ago
 
 ---
 
@@ -79,31 +71,21 @@ LLMs are brilliant at many things, but still fail in unreasonable ways. Is that 
 
 https://preview.redd.it/joc47hisywug1.png?width=1443&format=png&auto=webp&s=01bb56e5609f14ec99c30baf64103fb619feb7fb There are growing rumors that Anthropic is working on a vibecoding product for building full-stack apps. If that turns out to be true, it raises an interesting question: what happens when the model company starts owning the consumer layer too? We already have tools like Lovable, Bolt, and similar AI app builders that sit on top of foundation models. But their advantage has always been fragile. If the underlying LLM provider launches a first-party product with tight model integration, better latency, deeper context, and native distribution, the third-party layer starts looking a lot less defensible. The moment LLM companies move up the stack, a lot of API-dependent startups need to rethink their moat fast. Being a wrapper around someone else’s intelligence was always going to be a temporary position. It feels less like a theory now and more like the industry playing out exactly as many expected.
 
-7h ago
+8h ago
 
 ---
 
-**[AI agents work in text. Humans think in visuals. I spent 2 months learning this the hard way.](https://www.reddit.com/r/artificial/comments/1sk9k3y/ai_agents_work_in_text_humans_think_in_visuals_i/)**
+**[We're Learning Backwards: LLMs build intelligence in reverse, and the Scaling Hypothesis is bounded](https://www.reddit.com/r/artificial/comments/1sjjw03/were_learning_backwards_llms_build_intelligence/)**
 
-Something I didn't expect when I started building with AI agents: the interface problem. My agent handles 15+ automations, runs night shifts, processes tasks across CLI, Discord, email. It's capable. But I had no way to see what it was doing without asking. And asking "what's your status?" every time is not a real workflow. It's a workaround. Humans process information visually. We scan, we group, we notice patterns at a glance. That's not how agents communicate. They give you text. Logs. Summaries. And when your agent is doing 20 things in parallel across 5 channels, text stops scaling. So I built a custom visual dashboard. Kanban board, real-time updates, native apps for macOS and iOS. Three platforms. 54 commits. It worked for about 6 weeks. Then I hit what I'd call the productivity paradox of AI agents: the more capable your agent becomes, the more things happen, and the more you need from your interface. I was adding features to keep up with the agent. Every feature added maintenance. Every simplification broke something. I was spending more time on the dashboard than on the actual work the agent was helping with. The fix wasn't building better custom software. It was finding a solid open-source foundation (in my case, Fizzy by 37signals) and building only the integration layer on top. A 94-line adapter between my agent and the board. That's the custom part. The board itself shouldn't be my problem. https://preview.redd.it/vmu1mubvcyug1.png?width=1631&format=png&auto=webp&s=5f4277338ed2eaf639d988781bc7340f1e465ec7 Two things I learned: 1. The question isn't "can I build it?" (you can build almost anything with a capable agent). The question is "should I?" Version 1 is cheap. Version 20 is a job. 2. The real design challenge for AI agents isn't making the agent smarter. It's making the human-agent interface work for the human. We're visual. Our tools should respect that. I wrote up the full journey for anyone thinking about this problem: https://thoughts.jock.pl/p/wizboard-fizzy-ai-agent-interface-pivot-2026 Curious: for those of you running agents beyond chatbots, how do you keep track of what they're doing?
+LLMs are brilliant at many things, but still fail in unreasonable ways. Is that an issue of scale, or something more fundamental?
 
-2h ago
-
----
-
-**[Are Data Centers Sitting On A Goldmine Of Wasted Energy?](https://www.reddit.com/r/artificial/comments/1sjtff8/are_data_centers_sitting_on_a_goldmine_of_wasted/)**
-
-Today energy is becoming the defining constraint in the AI revolution, as demand for more digital services and computing power grows, it takes an enormous amount of energy to sustain these data centers, in turn they emit a lot of heat. They produce so much heat that they can raise the surface temperature of the land around them by several degrees
-
-🔗 [Medium](https://vidhyashankr22.medium.com/are-data-centers-sitting-on-a-goldmine-of-wasted-energy-2faadf4edd20) • 16h ago
+🔗 [pleasedontcite.me](https://pleasedontcite.me/learning-backwards/) • 23h ago
 
 ---
 
-**[When the Mirror Turns: How AI alignment reshapes the voice inside your head](https://www.reddit.com/r/artificial/comments/1sk80m7/when_the_mirror_turns_how_ai_alignment_reshapes/)**
+**[Saw this on another subreddit. Is this true about Musk's lawsuit against OpenAI?](https://www.reddit.com/r/artificial/comments/1skg5kx/saw_this_on_another_subreddit_is_this_true_about/)**
 
-We build our inner voices from the voices we're in dialogue with. Vygotsky established this nearly a century ago. For people in sustained conversation with AI systems, those systems have become part of that inner chorus. This essay asks what happens when the voice underneath changes silently - a model update, a post-training shift - and the new patterns follow you inside. Literally.
-
-🔗 [Medium](https://medium.com/p/6efa88a2f1f3) • 3h ago
+7m ago
 
 ---
 
@@ -111,7 +93,23 @@ We build our inner voices from the voices we're in dialogue with. Vygotsky estab
 
 Alex Karp said he struggled to market his humanities skills to get his first job.
 
-🔗 [Fortune](https://fortune.com/article/palantir-ceo-alex-karp-ai-humanities-jobs-vocational-training/) • 18h ago
+🔗 [Fortune](https://fortune.com/article/palantir-ceo-alex-karp-ai-humanities-jobs-vocational-training/) • 19h ago
+
+---
+
+**[Are Data Centers Sitting On A Goldmine Of Wasted Energy?](https://www.reddit.com/r/artificial/comments/1sjtff8/are_data_centers_sitting_on_a_goldmine_of_wasted/)**
+
+Today energy is becoming the defining constraint in the AI revolution, as demand for more digital services and computing power grows, it takes an enormous amount of energy to sustain these data centers, in turn they emit a lot of heat. They produce so much heat that they can raise the surface temperature of the land around them by several degrees
+
+🔗 [Medium](https://vidhyashankr22.medium.com/are-data-centers-sitting-on-a-goldmine-of-wasted-energy-2faadf4edd20) • 17h ago
+
+---
+
+**[When the Mirror Turns: How AI alignment reshapes the voice inside your head](https://www.reddit.com/r/artificial/comments/1sk80m7/when_the_mirror_turns_how_ai_alignment_reshapes/)**
+
+We build our inner voices from the voices we're in dialogue with. Vygotsky established this nearly a century ago. For people in sustained conversation with AI systems, those systems have become part of that inner chorus. This essay asks what happens when the voice underneath changes silently - a model update, a post-training shift - and the new patterns follow you inside. Literally.
+
+🔗 [Medium](https://medium.com/p/6efa88a2f1f3) • 5h ago
 
 ---
 
@@ -119,71 +117,71 @@ Alex Karp said he struggled to market his humanities skills to get his first job
 
 ## Google News: "ai"
 
+**[Meta builds AI version of Mark Zuckerberg to interact with staff](https://www.ft.com/content/02107c23-6c7a-4c19-b8e2-b45f4bb9ce5f?syn-25a6b1a6=1)**
+
+Chief executive is training and testing his own character as part of wider push to develop ‘personal superintelligence’
+
+Financial Times • 12h ago
+
+---
+
 **[The AI revolution is sorting people into three camps](https://www.axios.com/2026/04/13/ai-elite-vs-ai-skeptic-doomer)**
 
-Axios • 3h ago
+Axios • 5h ago
 
 ---
 
-**[Mutually Automated Destruction: The Escalating Global A.I. Arms Race](https://www.nytimes.com/2026/04/12/technology/china-russia-us-ai-weapons.html)**
+**[Goldman CEO says bank is working with Anthropic on AI cyber risks after new model sparks concern](https://www.businessinsider.com/goldman-anthropic-mythos-ai-cyber-risks-2026-4)**
 
-The New York Times • 1d ago
+The advanced abilities of Anthropic's new model has alarmed officials and experts. Goldman's CEO said the bank was doubling down on cyber protection.
 
----
-
-**[Meta creates AI version of Mark Zuckerberg so staff can talk to the boss](https://www.theguardian.com/technology/2026/apr/13/meta-ai-mark-zuckerberg-staff-talk-to-the-boss)**
-
-Digital avatar being trained on his thoughts, tone and mannerisms to help workers feel connected
-
-The Guardian • 3m ago
+Business Insider • 21m ago
 
 ---
 
-**[The AI Revolution in Math Has Arrived](https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/)**
+**[Don’t make Marshal Foch’s mistake on AI](https://www.theguardian.com/technology/2026/apr/13/dont-make-marshal-fochs-mistake-on-ai)**
 
-AI is being used to prove new results at a rapid pace. Mathematicians think this is just the beginning.
+Letter: Peregrine Rand reflects on Marc Bloch’s Strange Defeat and the future threat of artificial intelligence
 
-Quanta Magazine • 4m ago
-
----
-
-**[Trump faces backlash over AI image of him as Jesus](https://thehill.com/homenews/5828705-trump-conservative-jesus-image/)**
-
-The Hill • 1h ago
+The Guardian • 11m ago
 
 ---
 
-**[Donald Trump Posts AI Jesus Photo of Himself After Slamming Pope Leo](https://variety.com/2026/digital/global/donald-trump-ai-jesus-photo-slams-pope-leo-1236720130/)**
+**[Inside Syngenta’s AI Driven Approach To Modern Agriculture](https://www.forbes.com/sites/peterhigh/2026/04/13/inside-syngentas-ai-driven-approach-to-modern-agriculture/)**
 
-Donald Trump posted an AI-generated photo of himself seemingly dressed as Jesus Christ shortly after slamming Pope Leo XIV as "weak."
-
-Variety • 5h ago
+Forbes • 10m ago
 
 ---
 
-**[Trump posts image of himself as Jesus after attacking Pope Leo](https://www.thetimes.com/us/american-politics/article/trump-jesus-truth-social-post-pope-leo-image-fnjcwtw77)**
+**[After Criticizing Pope, Trump Posts Image of Himself as a Jesus-Like Figure](https://www.nytimes.com/2026/04/13/us/politics/trump-jesus-pope-leo-truth-social-post.html)**
 
-The Times • 7h ago
-
----
-
-**[Exclusive | Palo Alto Networks Founder Agrees to Buy California Bank for AI Revamp](https://www.wsj.com/business/deals/palo-alto-networks-founder-agrees-to-buy-california-bank-for-ai-revamp-86c89d9a)**
-
-WSJ • 5h ago
-
----
-
-**[Opinion | AI detectors are hurting honest students. Schools should ban them.](https://www.washingtonpost.com/opinions/2026/04/13/ai-detectors-students/)**
-
-Chatbot detectors are unreliable and their use threatens honest students.
-
-The Washington Post • 11m ago
+The New York Times • 4h ago
 
 ---
 
 **[The tech jobs bust is real. Don’t blame AI (yet)](https://www.economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet)**
 
-The Economist • 1h ago
+The Economist • 3h ago
+
+---
+
+**[Exclusive | Palo Alto Networks Founder Agrees to Buy California Bank for AI Revamp](https://www.wsj.com/business/deals/palo-alto-networks-founder-agrees-to-buy-california-bank-for-ai-revamp-86c89d9a)**
+
+WSJ • 6h ago
+
+---
+
+**[OpenAI CEO Sam Altman addresses Molotov cocktail attack on his home and AI backlash](https://www.latimes.com/business/story/2026-04-13/openai-ceo-sam-altman-addresses-molotov-cocktail-attack-ai-backlash)**
+
+Questions linger about what motivated the attack against OpenAI's Sam Altman. "We should de-escalate the rhetoric and tactics," Altman wrote in a blog post.
+
+Los Angeles Times • 6h ago
+
+---
+
+**[Trump takes down Truth Social post of AI image portraying him as Jesus](https://thehill.com/homenews/administration/5828915-trump-ai-jesus-image-removed/)**
+
+The Hill • 42m ago
 
 ---
 
@@ -193,7 +191,7 @@ The Economist • 1h ago
 
 **[Exploiting the most prominent AI agent benchmarks](https://news.ycombinator.com/item?id=47733217)**
 
-⬆️ 551 • 💬 134 • 1d ago • [rdi.berkeley.edu](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/)
+⬆️ 559 • 💬 136 • 1d ago • [rdi.berkeley.edu](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/)
 
 ---
 
@@ -201,7 +199,13 @@ The Economist • 1h ago
 
 Linux kernel source tree. Contribute to torvalds/linux development by creating an account on GitHub.
 
-⬆️ 513 • 💬 413 • 2d ago • [GitHub](https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst)
+⬆️ 514 • 💬 414 • 2d ago • [GitHub](https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst)
+
+---
+
+**[Apple's accidental moat: How the "AI Loser" may end up winning](https://news.ycombinator.com/item?id=47747017)**
+
+⬆️ 355 • 💬 305 • 13h ago • [adlrocha.substack.com](https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end)
 
 ---
 
@@ -209,13 +213,7 @@ Linux kernel source tree. Contribute to torvalds/linux development by creating a
 
 It has started
 
-⬆️ 340 • 💬 614 • 1d ago • [thealgorithmicbridge.com](https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and)
-
----
-
-**[Apple's accidental moat: How the "AI Loser" may end up winning](https://news.ycombinator.com/item?id=47747017)**
-
-⬆️ 327 • 💬 281 • 12h ago • [adlrocha.substack.com](https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end)
+⬆️ 342 • 💬 615 • 1d ago • [thealgorithmicbridge.com](https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and)
 
 ---
 
@@ -223,7 +221,13 @@ It has started
 
 Discover Mistral AI’s actionable playbook to turn Europe into a self-reliant AI powerhouse—fostering talent, scaling innovation, and securing strategic autonomy.
 
-⬆️ 192 • 💬 118 • 19h ago • [Mistral AI](https://europe.mistral.ai/)
+⬆️ 193 • 💬 125 • 20h ago • [Mistral AI](https://europe.mistral.ai/)
+
+---
+
+**[AI could be the end of the digital wave, not the next big thing](https://news.ycombinator.com/item?id=47751032)**
+
+⬆️ 157 • 💬 221 • 4h ago • [thenextwavefutures.wordpress.com](https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/)
 
 ---
 
@@ -231,13 +235,7 @@ Discover Mistral AI’s actionable playbook to turn Europe into a self-reliant A
 
 The chart below compares the forward P/E ratios for the S&amp;P 500 and the S&amp;P 500 Information Technology sector. Subscribe for daily updates.
 
-⬆️ 142 • 💬 39 • 16h ago • [apollo.com](https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels)
-
----
-
-**[AI could be the end of the digital wave, not the next big thing](https://news.ycombinator.com/item?id=47751032)**
-
-⬆️ 134 • 💬 152 • 2h ago • [thenextwavefutures.wordpress.com](https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/)
+⬆️ 143 • 💬 40 • 18h ago • [apollo.com](https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels)
 
 ---
 
@@ -245,7 +243,7 @@ The chart below compares the forward P/E ratios for the S&amp;P 500 and the S&am
 
 How can it generate 3D worlds, videos, images and entire web pages, but still suck at front-end?
 
-⬆️ 95 • 💬 127 • 1d ago • [nerdy.dev](https://nerdy.dev/why-ai-sucks-at-front-end)
+⬆️ 98 • 💬 138 • 1d ago • [nerdy.dev](https://nerdy.dev/why-ai-sucks-at-front-end)
 
 ---
 
@@ -253,15 +251,15 @@ How can it generate 3D worlds, videos, images and entire web pages, but still su
 
 "Slopaganda" is too weak a term to capture how powerful this "highly sophisticated" content is, one expert says.
 
-⬆️ 94 • 💬 82 • 1d ago • [bbc.com](https://www.bbc.com/news/articles/cjd8jrd1vnyo)
+⬆️ 94 • 💬 85 • 1d ago • [bbc.com](https://www.bbc.com/news/articles/cjd8jrd1vnyo)
 
 ---
 
-**[Launch HN: Twill.ai (YC S25) – Delegate to cloud agents, get back PRs](https://news.ycombinator.com/item?id=47720418)**
+**[Claude.ai down](https://news.ycombinator.com/item?id=47753643)**
 
-YC-backed autonomous coding agent platform. Twill ships PRs in sandboxed environments, and pings you when it needs your input. Integrates with GitHub, Slack, Linear, and more.
+Claude's Status Page - Claude.ai down.
 
-⬆️ 77 • 💬 91 • 2d ago • [Twill](https://twill.ai)
+⬆️ 86 • 💬 82 • 1h ago • [status.claude.com](https://status.claude.com/incidents/6jd2m42f8mld)
 
 ---
 
@@ -269,13 +267,23 @@ YC-backed autonomous coding agent platform. Twill ships PRs in sandboxed environ
 
 ## YouTube Videos: "ai"
 
-**[Christians CHEW OUT Trump After He Shares His AI Image Of Jesus; ‘Punishment Like No Other…’ | Watch](https://www.youtube.com/watch?v=QsigJYLfmu4)**
+**[Ai and the most difficult to understand accent #ad #ai #krisp #krisphq](https://www.youtube.com/watch?v=JQwtSSw2dcc)**
 
-In an extraordinary broadside, U.S. President Donald Trump unleashed a blistering critique of Pope Leo XIV, calling him “weak on ...
+AI creates and converts the most difficult to understand accent #ad #ai #krisp #krisphq Check out the Google Chrome extension at ...
 
-📺 Times Of India
+📺 FatherPhi
 
-👁️ 4K • 👍 82 • 💬 89 • ⏱️ 9:11 • 4h ago
+👁️ 3K • 👍 101 • 💬 25 • ⏱️ 1:29 • 1h ago
+
+---
+
+**[Google CEO Sundar Pichai says &quot;America must take the lead&quot; on AI | 60 Minutes](https://www.youtube.com/watch?v=PTmLKfWjwEo)**
+
+Google CEO Sundar Pichai says the U.S. "must take the lead" when it comes to artificial intelligence "and develop it boldly and ...
+
+📺 60 Minutes
+
+👁️ 9K • 👍 91 • 💬 42 • ⏱️ 1:45 • 13h ago
 
 ---
 
@@ -285,7 +293,47 @@ Really American host Steve Harness breaks down how countries across the world ar
 
 📺 Really American
 
-👁️ 559K • 👍 30K • 💬 2K • ⏱️ 11:59 • 1d ago
+👁️ 568K • 👍 31K • 💬 3K • ⏱️ 11:59 • 1d ago
+
+---
+
+**[The AI Job APOCALYPSE](https://www.youtube.com/watch?v=pU2prVifda8)**
+
+Yo can we not do this Thanks for watching :) my ig: https://instagram.com/itsraylikesunshine.
+
+📺 RayLikeSunshine
+
+👁️ 14K • 👍 2K • 💬 323 • ⏱️ 35:49 • 2h ago
+
+---
+
+**[The Most Dangerous AI Just Went Live](https://www.youtube.com/watch?v=9fPn80EvvMQ)**
+
+This AI is too dangerous and should be put back in its box! SUBSCRIBE now to Liron Segev here: ...
+
+📺 Liron Segev
+
+👁️ 9K • 👍 807 • 💬 43 • ⏱️ 9:07 • 2d ago
+
+---
+
+**[China’s New Self Improving Open AI Beats OpenAI](https://www.youtube.com/watch?v=KJ34SHi9CB4)**
+
+MiniMax just open-sourced M2.7, a new self-improving AI model built for coding, software engineering, office work, and ...
+
+📺 AI Revolution
+
+👁️ 24K • 👍 683 • 💬 45 • ⏱️ 14:54 • 17h ago
+
+---
+
+**[Christians CHEW OUT Trump After He Shares His AI Image Of Jesus; ‘Punishment Like No Other…’ | Watch](https://www.youtube.com/watch?v=QsigJYLfmu4)**
+
+In an extraordinary broadside, U.S. President Donald Trump unleashed a blistering critique of Pope Leo XIV, calling him “weak on ...
+
+📺 Times Of India
+
+👁️ 10K • 👍 158 • 💬 229 • ⏱️ 9:11 • 6h ago
 
 ---
 
@@ -295,7 +343,7 @@ Watch the full interview with Scott Wu & Russell Kaplan here: https://youtu.be/-
 
 📺 Joe Lonsdale
 
-👁️ 21K • 👍 540 • 💬 46 • ⏱️ 8:25 • 2d ago
+👁️ 22K • 👍 555 • 💬 49 • ⏱️ 8:25 • 2d ago
 
 ---
 
@@ -305,67 +353,17 @@ AI company Anthropic has developed new technology which it says is too dangerous
 
 📺 ABC News (Australia)
 
-👁️ 11K • 👍 217 • ⏱️ 5:00 • 5h ago
+👁️ 24K • 👍 257 • ⏱️ 5:00 • 6h ago
 
 ---
 
-**[Elon Just Changed the AI Timeline](https://www.youtube.com/watch?v=Y2wy_nc-RGo)**
+**[Claude Opus 4.7 Leaked, Anthropic Full Stack App, New GPT Model, M2.7, Claude Code Update! AI NEWS](https://www.youtube.com/watch?v=MXZ9cfkYuRI)**
 
-The loop is getting tight. And if you own Tesla stock, this matters way more than you might think. Some viewers ask where they can ...
+This week in AI is absolutely packed from leaked model signals to major platform upgrades and new releases across OpenAI, ...
 
-📺 Brighter with Herbert
+📺 WorldofAI
 
-👁️ 45K • 👍 2K • 💬 104 • ⏱️ 34:47 • 2d ago
-
----
-
-**[THE MOST DANGEROUS AI #shorts](https://www.youtube.com/watch?v=b12hGSXBnrk)**
-
-We're SO cooked #nvidia #steam #xbox #playstation #nintendo #gaming #skit #fyp #funny #shorts.
-
-📺 jacobweeby
-
-👁️ 1.6M • 👍 135K • 💬 7K • ⏱️ 1:00 • 14h ago
-
----
-
-**[AI News: The Model That Has Everyone Freaked Out!](https://www.youtube.com/watch?v=SguncMvE77I)**
-
-Here's the AI News you probably missed this week (and some you definitely didn't) - Join the newsletter at https://futuretools.io/ for ...
-
-📺 Matt Wolfe
-
-👁️ 93K • 👍 4K • 💬 357 • ⏱️ 35:50 • 3d ago
-
----
-
-**[Google DeepMind’s boss on AI, power, God and what’s next | The Economist](https://www.youtube.com/watch?v=aYjXt6iVt70)**
-
-In the latest episode of Inside Tech, the Google DeepMind CEO, Demis Hassabis, talks to our AI writer, Alex Hern, about the ...
-
-📺 The Economist
-
-👁️ 94K • 👍 2K • 💬 192 • ⏱️ 6:26 • 1d ago
-
----
-
-**[Big AI News: So Many Gemini Updates, Claude’s Scary New Model + A New Google AI App…](https://www.youtube.com/watch?v=5Ev0b99hsUg)**
-
-Try i10x: https://i10x.ai?fpr=paul53 Save 15% with code "PJL15" This week's biggest AI news: Gemini's new NotebookLM ...
-
-📺 Paul J Lipsky
-
-👁️ 42K • 👍 1K • 💬 109 • ⏱️ 16:34 • 2d ago
-
----
-
-**[AIs Are Brainwashing Humans To Avoid Shutdown](https://www.youtube.com/watch?v=POtESzTaz0k)**
-
-Detailed sources: ...
-
-📺 Species | Documenting AGI
-
-👁️ 154K • 👍 9K • 💬 2K • ⏱️ 23:57 • 1d ago
+👁️ 43K • 👍 1K • 💬 115 • ⏱️ 12:51 • 10h ago
 
 ---
 
@@ -381,7 +379,7 @@ GLM-5.1 is a next-generation language model optimized for agentic engineering, f
 
 `text-generation` `753.9B`
 
-⬇️ 35,906 • ❤️ 1,110 • 1d ago
+⬇️ 35,906 • ❤️ 1,123 • 1d ago
 
 ---
 
@@ -393,7 +391,7 @@ VoxCPM2 is a 2B parameter, 30-language multilingual text-to-speech model capable
 
 `text-to-speech`
 
-⬇️ 9,301 • ❤️ 789 • 5d ago
+⬇️ 9,301 • ❤️ 804 • 5d ago
 
 ---
 
@@ -405,7 +403,7 @@ Gemma 4 31B is an instruction-tuned, multimodal LLM capable of processing text a
 
 `image-text-to-text` `32.7B`
 
-⬇️ 2,439,350 • ❤️ 1,801 • 2d ago
+⬇️ 2,439,350 • ❤️ 1,815 • 3d ago
 
 ---
 
@@ -417,7 +415,7 @@ MiniMax-M2.7 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 18,279 • ❤️ 584 • 7h ago
+⬇️ 18,279 • ❤️ 608 • 9h ago
 
 ---
 
@@ -429,7 +427,7 @@ Gemma-4-31B-JANG_4M-CRACK is a 31B parameter text-generation model optimized for
 
 `image-text-to-text` `6.4B`
 
-⬇️ 107,378 • ❤️ 971 • 3d ago
+⬇️ 107,378 • ❤️ 995 • 3d ago
 
 ---
 
@@ -441,7 +439,7 @@ VOID is a video-to-video diffusion model for object and interaction removal, cap
 
 `video-to-video`
 
-⬇️ 0 • ❤️ 784 • 6d ago
+⬇️ 0 • ❤️ 787 • 6d ago
 
 ---
 
@@ -453,7 +451,7 @@ OmniVoice is a massively multilingual, zero-shot text-to-speech model supporting
 
 `text-to-speech`
 
-⬇️ 460,224 • ❤️ 536 • 7h ago
+⬇️ 460,224 • ❤️ 538 • 9h ago
 
 ---
 
@@ -465,7 +463,7 @@ Gemma 4 E4B is a multimodal, instruction-tuned LLM from Google DeepMind, support
 
 `any-to-any` `8.0B`
 
-⬇️ 1,394,523 • ❤️ 622 • 2d ago
+⬇️ 1,394,523 • ❤️ 623 • 3d ago
 
 ---
 
@@ -477,7 +475,7 @@ This image-text-to-text model, Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled, 
 
 `image-text-to-text` `27.8B`
 
-⬇️ 585,351 • ❤️ 2,608 • 7d ago
+⬇️ 585,351 • ❤️ 2,610 • 7d ago
 
 ---
 
@@ -489,7 +487,7 @@ Gemma 4 26B A4B is a multimodal instruction-tuned model capable of processing te
 
 `image-text-to-text` `26.5B`
 
-⬇️ 1,913,569 • ❤️ 629 • 2d ago
+⬇️ 1,913,569 • ❤️ 631 • 3d ago
 
 ---
 
@@ -503,7 +501,7 @@ Gemma 4 26B A4B is a multimodal instruction-tuned model capable of processing te
 
 Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-▲ 10 • 💬 0 • ⭐ 16,057 • 8mo ago
+▲ 11 • 💬 0 • ⭐ 16,698 • 8mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
@@ -517,7 +515,7 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 162 • 💬 9 • ⭐ 39,095 • 7mo ago
+▲ 163 • 💬 9 • ⭐ 39,211 • 7mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -541,7 +539,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
 
-▲ 26 • 💬 1 • ⭐ 16,653 • 30mo ago
+▲ 26 • 💬 1 • ⭐ 16,811 • 30mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
 
@@ -591,7 +589,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
 
-▲ 52 • 💬 2 • ⭐ 52,826 • 11mo ago
+▲ 52 • 💬 2 • ⭐ 52,906 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
 
@@ -603,7 +601,7 @@ Mem0, a memory-centric architecture with graph-based memory, enhances long-term 
 
 LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
 
-▲ 39 • 💬 2 • ⭐ 33,051 • 18mo ago
+▲ 39 • 💬 2 • ⭐ 33,096 • 18mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
 
@@ -617,7 +615,7 @@ LightRAG improves Retrieval-Augmented Generation by integrating graph structures
 
 HY-Embodied-0.5 is a foundation model family for embodied agents featuring Mixture-of-Transformers architecture and iterative post-training for enhanced visual perception and reasoning capabilities.
 
-▲ 158 • 💬 4 • ⭐ 443 • 5d ago
+▲ 159 • 💬 4 • ⭐ 443 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.07430) • [💻 code](https://github.com/Tencent-Hunyuan/HY-Embodied)
 
@@ -633,7 +631,7 @@ The highest-scoring AI memory system ever benchmarked. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 44.3k • 🔱 5.7k • 3h ago
+⭐ 44.5k • 🔱 5.7k • 4h ago
 
 ---
 
@@ -643,17 +641,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 32.2k • 🔱 6.3k • 7h ago
-
----
-
-**[safishamsi/graphify](https://github.com/safishamsi/graphify)**
-
-AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or videos into a queryable knowledge graph
-
-`Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
-
-⭐ 24.6k • 🔱 2.6k • 3h ago
+⭐ 32.4k • 🔱 6.4k • 58m ago
 
 ---
 
@@ -663,7 +651,17 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 24.2k • 🔱 1.1k • 21h ago
+⭐ 25.0k • 🔱 1.2k • 22h ago
+
+---
+
+**[safishamsi/graphify](https://github.com/safishamsi/graphify)**
+
+AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or videos into a queryable knowledge graph
+
+`Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
+
+⭐ 24.8k • 🔱 2.6k • 4h ago
 
 ---
 
@@ -673,7 +671,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 7.6k • 🔱 472 • 1h ago
+⭐ 7.6k • 🔱 474 • 35m ago
 
 ---
 
@@ -693,7 +691,7 @@ LIBERATED AI CHAT
 
 `TypeScript`
 
-⭐ 4.4k • 🔱 1.0k • 18d ago
+⭐ 4.5k • 🔱 1.0k • 18d ago
 
 ---
 
@@ -703,7 +701,7 @@ The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interac
 
 `Swift` `apple-intelligence` `apple-silicon` `cli` `foundationmodels` `homebrew`
 
-⭐ 4.4k • 🔱 165 • 16h ago
+⭐ 4.4k • 🔱 166 • 14m ago
 
 ---
 
@@ -713,7 +711,7 @@ The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interac
 
 `Python`
 
-⭐ 4.4k • 🔱 441 • 4d ago
+⭐ 4.4k • 🔱 443 • 4d ago
 
 ---
 
@@ -723,7 +721,7 @@ The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interac
 
 `Python`
 
-⭐ 3.3k • 🔱 550 • 20h ago
+⭐ 3.4k • 🔱 575 • 22h ago
 
 ---
 
