@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-13T11:50:50.982111+00:00'
+updated: '2026-04-13T13:28:44.186633+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 13, 2026 at 11:50 UTC  
+**Last Updated:** April 13, 2026 at 13:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,19 +34,27 @@ Robotics research and industry news
 
 **[Beijing’s Humanoid Robot Half Marathon, Night Run Test - Around 40% of teams are running fully autonomous, remote-controlled runs get a 1.2× penalty (Beijing's E-Town Half Marathon on April 19 with 100+ teams, 300+ humanoids competing)](https://www.reddit.com/r/robotics/comments/1sk6p2y/beijings_humanoid_robot_half_marathon_night_run/)**
 
-1h ago
+3h ago
 
 ---
 
 **[massive robotic hand that produce up to11000 pound force.](https://www.reddit.com/r/robotics/comments/1sjmxyz/massive_robotic_hand_that_produce_up_to11000/)**
 
-17h ago
+18h ago
 
 ---
 
 **[Somewhere in Poland](https://www.reddit.com/r/robotics/comments/1sjhnd1/somewhere_in_poland/)**
 
-20h ago
+21h ago
+
+---
+
+**[Custom World Creation in Gazebo Ignition (gz-sim) — What's Your Workflow in 2026?](https://www.reddit.com/r/robotics/comments/1sk6ew1/custom_world_creation_in_gazebo_ignition_gzsim/)**
+
+The Building Editor is gone in Gazebo Ignition, so what's the best way to create custom worlds now without hand-coding raw SDF? I'm using ROS2 + Gazebo Harmonic and want to build environments like roads, terrain, and indoor spaces. I've looked at Blender → DAE → SDF, Fuel models, and heightmaps but not sure what people actually use in practice. Like building the custom 3d model and export it to sdf something kind of. Any tools, tutorials, or repos you'd recommend?
+
+3h ago
 
 ---
 
@@ -54,7 +62,7 @@ Robotics research and industry news
 
 After more than two years of solo development, I'm releasing v1.0 of the Bimo Robotics Kit. Bimo is an open-source bipedal robotics platform designed as a complete research and education kit. The core value is the full sim-to-real pipeline: you train RL locomotion models in Isaac Lab and deploy directly on the physical hardware. The v1.0 release includes: - Startup guide (zero to walking in one session) - Full MCU code for the onboard microcontroller. - Main controller board overview and pinout. - Updated Bimo API for hardware control. - Improved Isaac Lab task code for more stable sim-to-real transfer. - Pre-trained stable walking model. Turning and push recovery models are next on the Isaac Lab environment roadmap. The platform ships with a walking model as a baseline you can extend, which is kind of the point for a research kit. Check out all the details here: - Github: https://github.com/mekion/the-bimo-project - Discord: https://discord.gg/9uXsArwXHG - Mekion: https://www.mekion.com/product/ Happy to answer questions about the Isaac Lab integration, the hardware design decisions, or what it's like building this as a solo founder. Let me know what you think about the project.
 
-20h ago
+21h ago
 
 ---
 
@@ -71,14 +79,6 @@ Hi everyone! I've been developing the LS3 BostonDynamics Mini quadruped for a wh
 Technical blog post with multiple videos: https://generalistai.com/blog/apr-02-2026-GEN-1
 
 1d ago
-
----
-
-**[Custom World Creation in Gazebo Ignition (gz-sim) — What's Your Workflow in 2026?](https://www.reddit.com/r/robotics/comments/1sk6ew1/custom_world_creation_in_gazebo_ignition_gzsim/)**
-
-The Building Editor is gone in Gazebo Ignition, so what's the best way to create custom worlds now without hand-coding raw SDF? I'm using ROS2 + Gazebo Harmonic and want to build environments like roads, terrain, and indoor spaces. I've looked at Blender → DAE → SDF, Fuel models, and heightmaps but not sure what people actually use in practice. Like building the custom 3d model and export it to sdf something kind of. Any tools, tutorials, or repos you'd recommend?
-
-1h ago
 
 ---
 
@@ -116,28 +116,19 @@ Interesting Engineering • 2d ago
 
 ---
 
-**[Faraday Future Eyes Massive 'Capital Light' Robotics Opportunity As President Jerry Wang Touts EV Startup's 'First Mover' Advantage](https://finance.yahoo.com/markets/stocks/articles/faraday-future-eyes-massive-capital-104614360.html)**
-
-Faraday Future Intelligent Electric Inc. is aggressively expanding beyond electric vehicles into the booming robotics market, positioning itself as a pioneer in an embodied AI ecosystem that President Jerry Wang projects could reach $30 trillion in value. Seizing A Multi-Trillion Dollar Opportunity In an exclusive interview with Benzinga, Wang detailed the strategic evolution driving the California-based company. Observing industry-wide trends, Faraday Future is deploying humanoid and quadruped
-
-Yahoo Finance • 1d ago
-
----
-
 **[Hidden in plain sight: Robots reveal ‘shipwreck city’ below the surface of a Washington lake](https://www.9news.com/article/news/nation-world/robotics-underwater-detection-shipwrecks-sonar-survey-remote-operated-vehicle-washington-lake-union/507-d5e09930-31c1-491f-8c8b-01f9fcbba5b8)**
 
 'Shipwreck city': A high-tech survey has found dozens of possible wrecks in Washington state, with robotics capturing images in areas too dangerous for divers.
 
-KUSA.com • 17h ago
+KUSA.com • 19h ago
 
 ---
 
-**[Humanoid robots to compete in Beijing half-marathon](https://www.scmp.com/video/sport/3349927/chinese-teams-fine-tune-robots-beijing-humanoid-half-marathon)**
+**[Humanoid robots show off their language and boxing skills in Hong Kong](https://www.newsday.com/business/robots-humanoid-hong-kong-china-e55104)**
 
-Read more on the story: https://sc.mp/4obcc
-  Sections of Beijing were closed off for a test run ahead of the second humanoid robot half-marathon to be held in the world. The race is scheduled to be…
+A humanoid robot called X2 Ultra from China's leading humanoid robot manufacturer AGIBOT has been impressing visitors in Hong Kong.
 
-South China Morning Post • 22m ago
+Newsday • 48m ago
 
 ---
 
@@ -149,6 +140,21 @@ Upper Michigan's Source • 1d ago
 
 ---
 
+**[This robot sees danger, decides its route and powers over obstacles while carrying loads](https://techxplore.com/news/2026-04-robot-danger-route-powers-obstacles.html)**
+
+Tech Xplore • 23h ago
+
+---
+
+**[Humanoid robots to compete in Beijing half-marathon](https://www.scmp.com/video/sport/3349927/chinese-teams-fine-tune-robots-beijing-humanoid-half-marathon)**
+
+Read more on the story: https://sc.mp/4obcc
+  Sections of Beijing were closed off for a test run ahead of the second humanoid robot half-marathon to be held in the world. The race is scheduled to be…
+
+South China Morning Post • 2h ago
+
+---
+
 **[CEO Andy Jassy shares 3 ways Amazon is innovating to make customers’ lives easier and better](https://www.aboutamazon.com/news/innovation-at-amazon/amazon-ceo-andy-jassy-robotics-rural-delivery-broadband)**
 
 In his annual letter to shareholders, Jassy shares how robotics, faster rural delivery, and broadband connectivity for underserved customers and geographies will help improve the customer experience.
@@ -157,35 +163,27 @@ About Amazon • 2d ago
 
 ---
 
-**[Chery brings humanoid robot to general consumer market](https://cnevpost.com/2026/04/13/chery-brings-humanoid-robot-to-general-consumer-market/)**
-
-Chery's Aimoga has launched online sales of its robots to ordinary consumers, with a humanoid model carrying a retail price tag of 285,800 yuan ($41,830).
-
-CnEVPost • 6h ago
-
----
-
 **[High School Robotics Teams Shine At The Granite City Regional In St. Cloud](https://wjon.com/granite-city-robotics-tournament/)**
 
 Hundreds of high school students gathered in St. Cloud for an intense FIRST Robotics tournament, showcasing skills and collaboration in a unique three-versus-three format at River's Edge Convention Center.
 
-WJON • 21h ago
+WJON • 23h ago
 
 ---
 
-**[Humanoid robots take over manual job at auto parts plant](https://www.nbcnews.com/video/humanoid-robots-take-over-manual-job-at-auto-parts-plant-261061189841)**
+**[Minth: A Small Cap Quietly Pivoting To AI And Robots (OTCMKTS:MNTHF)](https://seekingalpha.com/article/4890175-minth-a-small-cap-quietly-pivoting-to-ai-and-robots)**
 
-Humanoid robots are being used for some manual tasks at the Schaeffler auto parts plant in Cheraw, S.C. Proponents argue that the robots will not replace humans but rather displace them to different roles in the company. NBC News’ Brian Cheung gets a firsthand look at how the robots work and how they’re impacting the workforce.
+Minth Group is a profitable dividend auto supplier pivoting to EV battery housings, AI data center cooling, & robotics. Learn more about MNTHF stock here.
 
-NBC News • 3d ago
+Seeking Alpha • 1h ago
 
 ---
 
-**[Students shine at Wolfpack Robotics’ Robo Rally](https://www.timesleader.com/news/1738534/students-shine-at-wolfpack-robotics-robo-rally)**
+**[Corvus Robotics Launches Corvus Trident, an AI Powered Device That Tracks Every Pallet from Dock Door to Departure](https://markets.businessinsider.com/news/stocks/corvus-robotics-launches-corvus-trident-an-ai-powered-device-that-tracks-every-pallet-from-dock-door-to-departure-1036015241)**
 
-<p>PLAINS TWP. — It was a celebration of robotics on Saturday as regional schools gathered at Wilkes-Barre Area High School for Wolfpack Robotics’ second Robo Rally.</p>
+ATLANTA, April  13, 2026  (GLOBE NEWSWIRE) -- (MODEX 2026, Booth  A3818 )  — Corvus Robotics  today announced Corvus Trident, a new AI powered dev...
 
-Times Leader • 1d ago
+markets.businessinsider.com • 1h ago
 
 ---
 
@@ -199,7 +197,7 @@ Try Seedance 2.0 with Claude on Higgsfield: https://higgsfield.ai/s/seedance-2-0
 
 📺 AI Revolution
 
-👁️ 70K • 👍 1K • 💬 150 • ⏱️ 14:57 • 1d ago
+👁️ 72K • 👍 1K • 💬 151 • ⏱️ 14:57 • 1d ago
 
 ---
 
@@ -209,7 +207,7 @@ Go to https://www.artwine.com to get your limited bottle of Ukrainian sparkling 
 
 📺 Paul Warburg
 
-👁️ 202K • 👍 18K • 💬 1K • ⏱️ 31:17 • 1d ago
+👁️ 207K • 👍 18K • 💬 1K • ⏱️ 31:17 • 1d ago
 
 ---
 
@@ -217,7 +215,15 @@ Go to https://www.artwine.com to get your limited bottle of Ukrainian sparkling 
 
 📺 SS tiny labs
 
-👁️ 1K • 👍 13 • ⏱️ 0:55 • 9h ago
+👁️ 1K • 👍 13 • ⏱️ 0:55 • 11h ago
+
+---
+
+**[Spraying robot #robot #machine #industrialrobots #automation #spray](https://www.youtube.com/watch?v=W6I2539CBP8)**
+
+📺 zhulongfeng 6
+
+👁️ 3K • 👍 15 • ⏱️ 0:12 • 11h ago
 
 ---
 
@@ -227,7 +233,7 @@ Acid Titan shotguns have fallen into the ground. I havent been seeing them aroun
 
 📺 PREDATOR WR
 
-👁️ 11K • 👍 463 • 💬 63 • ⏱️ 14:11 • 23h ago
+👁️ 12K • 👍 469 • 💬 64 • ⏱️ 14:11 • 1d ago
 
 ---
 
@@ -237,25 +243,7 @@ Toyota Motor Corp. unveiled its latest AI-powered basketball robot, CUE7, on Sun
 
 📺 WeShow Sports
 
-👁️ 4K • 👍 70 • 💬 11 • ⏱️ 3:02 • 1d ago
-
----
-
-**[Spraying robot #robot #machine #industrialrobots #automation #spray](https://www.youtube.com/watch?v=W6I2539CBP8)**
-
-📺 zhulongfeng 6
-
-👁️ 2K • 👍 9 • ⏱️ 0:12 • 9h ago
-
----
-
-**[Disney&#39;s New Olaf Robot Isn&#39;t What You Think](https://www.youtube.com/watch?v=VvXhpnvjVGE)**
-
-Everyone is getting 7 things wrong about Disney's new Olaf animatronic. I asked Imagineering how the free roaming Olaf works, ...
-
-📺 Guide2WDW
-
-👁️ 38K • 👍 959 • 💬 96 • ⏱️ 19:30 • 3d ago
+👁️ 5K • 👍 91 • 💬 16 • ⏱️ 3:02 • 1d ago
 
 ---
 
@@ -267,23 +255,33 @@ Everyone is getting 7 things wrong about Disney's new Olaf animatronic. I asked 
 
 ---
 
-**[South Korea Is Building Robots the World Didn’t See Coming!](https://www.youtube.com/watch?v=H09m8a3oL_4)**
+**[Disney&#39;s New Olaf Robot Isn&#39;t What You Think](https://www.youtube.com/watch?v=VvXhpnvjVGE)**
 
-South Korea is building robots you've only seen in movies, from giant walking machines to exoskeletons that give people back ...
+Everyone is getting 7 things wrong about Disney's new Olaf animatronic. I asked Imagineering how the free roaming Olaf works, ...
 
-📺 DeCode
+📺 Guide2WDW
 
-👁️ 57K • 👍 1K • 💬 94 • ⏱️ 14:45 • 3d ago
+👁️ 38K • 👍 975 • 💬 97 • ⏱️ 19:30 • 3d ago
 
 ---
 
-**[CURIE IS ACTUALLY OVERPOWERED WITH BASILEUS! SECRET STRONG ROBOT? (War Robots)](https://www.youtube.com/watch?v=lNqyCD5fuxs)**
+**[Why the Lymow One Plus is the Best Robot Mower Not Sponsored](https://www.youtube.com/watch?v=TCBaaSISul8)**
 
-In this video I tested out the Curie with Basileus. https://wr.my.games/Wolfblood7.
+Lymow → https://lymowtradecolimited.pxf.io/OYr2VG The Lymow One Plus isn't your average robot mower. Instead of those tiny, ...
 
-📺 Wolfblood7
+📺 How To with Doc
 
-👁️ 3K • 👍 147 • 💬 34 • ⏱️ 13:17 • 1d ago
+👁️ 18K • 👍 987 • 💬 184 • ⏱️ 21:24 • 3d ago
+
+---
+
+**[AMMIT cannot even die right… War Robots](https://www.youtube.com/watch?v=Mz7zB43oDos)**
+
+War Robots Gameplay: AMMIT with VELOS weapons is nuts! My War Robots Creator Link: https://wr.my.games/manni - Code: ...
+
+📺 Manni-Gaming
+
+👁️ 12K • 👍 561 • 💬 126 • ⏱️ 14:46 • 1d ago
 
 ---
 
