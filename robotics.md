@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-13T21:54:48.222890+00:00'
+updated: '2026-04-13T22:44:33.067793+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 13, 2026 at 21:54 UTC  
+**Last Updated:** April 13, 2026 at 22:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,9 +32,17 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[I quit my robotics job because they were moving into weaponized platforms. Now I'm starting my own venture and need some feedback.](https://www.reddit.com/r/robotics/comments/1skn0jj/i_quit_my_robotics_job_because_they_were_moving/)**
+
+Two weeks ago, I quit my job at a robotics company. I didn't have another offer lined up, and I was working with some amazing hardware (Boston Dynamics, Unitree, Husarion). On paper, it was great. But the company began moving into the defense sector and planned to mount teleoperated weapons on the platforms for a demo. That crossed a hard line for me, so I walked away. I want to build robots (and the tools we use to control them) that actually adapt to people and improve interactions, not something that could potentially hurt someone. I've decided to take the leap into entrepreneurship. Right now, I'm trying to better understand how engineers, developers, and makers actually work with their robots day to day, what frustrates them about current control interfaces, and what's missing. If you work with robots (ROS2, embedded, commercial, whatever) or just tinker with them, I would really appreciate 3 minutes of your time to fill out this customer discovery survey: 👉 https://forms.gle/3Nm76wkeT5CMt23c8 I'm also really curious to hear your thoughts here in the thread: Have any of you faced similar ethical dilemmas in your robotics careers? How did you handle it? Happy to discuss in the comments. Thanks!
+
+2h ago
+
+---
+
 **[Beijing’s Humanoid Robot Half Marathon, Night Run Test - Around 40% of teams are running fully autonomous, remote-controlled runs get a 1.2× penalty (Beijing's E-Town Half Marathon on April 19 with 100+ teams, 300+ humanoids competing)](https://www.reddit.com/r/robotics/comments/1sk6p2y/beijings_humanoid_robot_half_marathon_night_run/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -42,15 +50,7 @@ Robotics research and industry news
 
 Zack Jackowski, VP of Atlas Product at Boston Dynamics, explains that the first robot is really just a research machine used to figure out how everything actually works together. When they built it, they didn’t fully understand how all the components would interact, so it ended up overbuilt and a bit unbalanced, with things like multiple computers and parts pushed to extremes. He describes how the second-generation design is where that learning gets applied. Once they have real data, they can simplify the system, remove what isn’t needed, and make better decisions about weight, strength, and compute. The result isn’t not just a cheaper version, it’s a more efficient and better-performing robot overall because it’s based on what they learned from the first one rather than assumptions. j
 
-5h ago
-
----
-
-**[I quit my robotics job because they were moving into weaponized platforms. Now I'm starting my own venture and need some feedback.](https://www.reddit.com/r/robotics/comments/1skn0jj/i_quit_my_robotics_job_because_they_were_moving/)**
-
-Two weeks ago, I quit my job at a robotics company. I didn't have another offer lined up, and I was working with some amazing hardware (Boston Dynamics, Unitree, Husarion). On paper, it was great. But the company began moving into the defense sector and planned to mount teleoperated weapons on the platforms for a demo. That crossed a hard line for me, so I walked away. I want to build robots (and the tools we use to control them) that actually adapt to people and improve interactions, not something that could potentially hurt someone. I've decided to take the leap into entrepreneurship. Right now, I'm trying to better understand how engineers, developers, and makers actually work with their robots day to day, what frustrates them about current control interfaces, and what's missing. If you work with robots (ROS2, embedded, commercial, whatever) or just tinker with them, I would really appreciate 3 minutes of your time to fill out this customer discovery survey: 👉 https://forms.gle/3Nm76wkeT5CMt23c8 I'm also really curious to hear your thoughts here in the thread: Have any of you faced similar ethical dilemmas in your robotics careers? How did you handle it? Happy to discuss in the comments. Thanks!
-
-1h ago
+6h ago
 
 ---
 
@@ -60,9 +60,17 @@ Two weeks ago, I quit my job at a robotics company. I didn't have another offer 
 
 ---
 
+**[Building a Robot task planner using a textual scene representation and LLMs](https://www.reddit.com/r/robotics/comments/1sko1to/building_a_robot_task_planner_using_a_textual/)**
+
+This is a concept I worked on for a company a while ago. Using movement primitives, we wanted to explore how well a robot can plan tasks and then run them in simulation. The verdict was that it's surprisingly powerful. I go into detail how it works on my blogpost https://boesch.dev/posts/llm-trajectory/, but the gist is that composite movement primitives with higher order primitives can lead to a very rich set of tools for LLM task planning. Try the demo here: https://llm-trajectory.boesch.dev/ Or run it yourself with a more powerful LLM: https://github.com/Encrux/llm_trajectory
+
+1h ago
+
+---
+
 **[PeritasAI and NVIDIA Isaac Enabling Real-Time AI Awareness in Surgical Robotics](https://www.reddit.com/r/robotics/comments/1skgc65/peritasai_and_nvidia_isaac_enabling_realtime_ai/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -72,11 +80,11 @@ Two weeks ago, I quit my job at a robotics company. I didn't have another offer 
 
 ---
 
-**[Robotic Piano Player](https://www.reddit.com/r/robotics/comments/1skj9je/robotic_piano_player/)**
+**[Open-source RoboBaton mini control limo test on github](https://www.reddit.com/r/robotics/comments/1skeu5w/opensource_robobaton_mini_control_limo_test_on/)**
 
-The first clip is the final product — a recital for friends and family after 1+ year of work. The remainder of clips are in chronological order: proof-of-concept (breadboard), construction and testing, enclosure and sound-proofing (to eliminate clicking sound from actuators), and final testing before the recital. After the initial proof-of-concept, I bought an old piano and used a lot of its parts in the construction — you can see the “hammers” (and backstops) that play the keys. Built with an Arduino Mega, it plays any midi file. It has 88 individual actuators with PWM to adjust for pressure (velocity). This was a fun project, but glad to be done!
+l have open source the Algorithm on github.l have test the RoboBaton mini servel days.l find that it's good to use.l buy the camera from website : myrobotproject.
 
-3h ago
+6h ago
 
 ---
 
@@ -84,7 +92,7 @@ The first clip is the final product — a recital for friends and family after 1
 
 I wrote this article to help engineers understand the deep-learning math behind VLAs, which can be used to supercharge your existing robots (with open models like openVLA, gr00t and others) Including: how VLMs are being repurposed into control policies why action tokenization vs continuous control is a real fork in the road what’s actually hard (hint: data + embodiment, not just scaling) The interesting bit: it frames VLA not as magic, but as a pretty natural extension of sequence modeling (like GPT with torque and acceleration). Let me know what you think
 
-🔗 [Towards Data Science](https://towardsdatascience.com/how-visual-language-action-vla-models-work/) • 1h ago
+🔗 [Towards Data Science](https://towardsdatascience.com/how-visual-language-action-vla-models-work/) • 2h ago
 
 ---
 
@@ -92,15 +100,7 @@ I wrote this article to help engineers understand the deep-learning math behind 
 
 Hey! I'm making autonomous car with supported Gemini. Gemini is processing image and make decision. After that, When Gemini made the decision of movement, it send a movement command to ESP32 like forward,backward,left,right. I'm using IMX219-83 stereo camera. I want gemini to do everything about image-processing, maker-decision. So I'm not sure about using Nvidia-VPI. Can the Gemini create a sense of depth using the left and right images from the stereo camera?
 
-1h ago
-
----
-
-**[Open-source RoboBaton mini control limo test on github](https://www.reddit.com/r/robotics/comments/1skeu5w/opensource_robobaton_mini_control_limo_test_on/)**
-
-l have open source the Algorithm on github.l have test the RoboBaton mini servel days.l find that it's good to use.l buy the camera from website : myrobotproject.
-
-6h ago
+2h ago
 
 ---
 
@@ -116,6 +116,22 @@ Interesting Engineering • 3d ago
 
 ---
 
+**[Pickle Robot to share lessons learned from taking robots out of the lab and into the field](https://www.therobotreport.com/pickle-robot-to-share-lessons-learned-from-taking-robots-out-of-the-lab-and-into-the-field/)**
+
+At the Robotics Summit, Pickle Robot's founder and CTO will break down the lessons it learned in making warehouse robots commercially viable.
+
+The Robot Report • 1h ago
+
+---
+
+**[AGIBOT launches Genie Studio Agent zero-code application platform for robots](https://www.therobotreport.com/agibot-launches-genie-studio-agent-zero-code-application-platform-for-robots/)**
+
+AGIBOT said it designed Genie Studio Agent to provide a full lifecycle software infrastructure, from development to deployment.
+
+The Robot Report • 6m ago
+
+---
+
 **[Faraday Future Eyes Massive 'Capital Light' Robotics Opportunity As President Jerry Wang Touts EV Startup's 'First Mover' Advantage](https://finance.yahoo.com/markets/stocks/articles/faraday-future-eyes-massive-capital-104614360.html)**
 
 Faraday Future Intelligent Electric Inc. is aggressively expanding beyond electric vehicles into the booming robotics market, positioning itself as a pioneer in an embodied AI ecosystem that President Jerry Wang projects could reach $30 trillion in value. Seizing A Multi-Trillion Dollar Opportunity In an exclusive interview with Benzinga, Wang detailed the strategic evolution driving the California-based company. Observing industry-wide trends, Faraday Future is deploying humanoid and quadruped
@@ -126,7 +142,7 @@ Yahoo Finance • 1d ago
 
 **[Humanoid robots show off their language and boxing skills in Hong Kong](https://www.seattletimes.com/business/humanoid-robots-show-off-their-language-and-boxing-skills-in-hong-kong/)**
 
-The Seattle Times • 9h ago
+The Seattle Times • 10h ago
 
 ---
 
@@ -138,11 +154,17 @@ About Amazon • 3d ago
 
 ---
 
+**[Hyundai Motor Chairman Doubles Down On AI And Robotics](https://www.forbes.com/sites/catzxwang/2026/04/13/hyundai-motor-chairman-doubles-down-on-ai-and-robotics/)**
+
+Forbes • 1h ago
+
+---
+
 **[Versatile robot uses tracked flippers to traverse varying terrain](https://newatlas.com/robotics/athena-robot-tracked-flippers-rough-terrain/)**
 
 Disaster sites vary as widely as rescue missions. Using robotics to help often requires multiple robots to survey, climb, lift, or manipulate objects. Athena unites all these capabilities in a single, rugged, autonomous platform built for search and rescue.
 
-New Atlas • 5h ago
+New Atlas • 6h ago
 
 ---
 
@@ -150,15 +172,7 @@ New Atlas • 5h ago
 
 What will the next generation of robots be able to do? In Hong Kong, the machines have been showing off their ability to teach, dance and even fight.
 
-AP News • 5h ago
-
----
-
-**[Hidden in plain sight: Robots reveal ‘shipwreck city’ below the surface of a Washington lake](https://www.kare11.com/article/news/nation-world/robotics-underwater-detection-shipwrecks-sonar-survey-remote-operated-vehicle-washington-lake-union/507-d5e09930-31c1-491f-8c8b-01f9fcbba5b8)**
-
-'Shipwreck city': A high-tech survey has found dozens of possible wrecks in Washington state, with robotics capturing images in areas too dangerous for divers.
-
-kare11.com • 1d ago
+AP News • 6h ago
 
 ---
 
@@ -166,23 +180,7 @@ kare11.com • 1d ago
 
 Minth Group is a profitable dividend auto supplier pivoting to EV battery housings, AI data center cooling, & robotics. Learn more about MNTHF stock here.
 
-Seeking Alpha • 9h ago
-
----
-
-**[Locus Robotics launches Locus Array for fully autonomous fulfillment](https://www.therobotreport.com/locus-robotics-launches-locus-array-for-fully-autonomous-fulfillment/)**
-
-Locus Array is designed to complete fulfillment workflows without manual intervention and is already in use at DHL and other customers.
-
-The Robot Report • 5h ago
-
----
-
-**[Harding FIRST robotics team going to nationals](https://www.tribtoday.com/news/local-news/2026/04/harding-first-robotics-team-going-to-nationals/)**
-
-WARREN — The Warren G. Harding High School FIRST Robotics Team E.L.I.T.E (Encouraging Learning in Technology and Engineering)  48, ...
-
-tribtoday.com • 17h ago
+Seeking Alpha • 10h ago
 
 ---
 
@@ -246,7 +244,7 @@ Robots can now FEEL your touch — and what's happening inside their skin will b
 
 📺 The AI Nexus
 
-👁️ 4K • 👍 158 • 💬 6 • ⏱️ 18:35 • 20h ago
+👁️ 4K • 👍 158 • 💬 6 • ⏱️ 18:35 • 21h ago
 
 ---
 

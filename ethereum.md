@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-13T21:54:48.219722+00:00'
+updated: '2026-04-13T22:44:33.064652+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
 - social
+- cryptocurrency
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 13, 2026 at 21:54 UTC  
+**Last Updated:** April 13, 2026 at 22:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,252.16
+### $2,342.59
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.9%  
-**7d:** +0.5%  
-**30d:** +3.5%  
-**90d:** -32.9%  
-**1y:** +38.9%  
+**24h:** +7.1%  
+**7d:** +4.5%  
+**30d:** +7.6%  
+**90d:** -30.2%  
+**1y:** +44.5%  
 
 ---
 
@@ -72,7 +72,24 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
+
+---
+
+**[Coinbase AgentKit Prompt Injection: Wallet Drain, Infinite Approvals, and Agent-Level RCE (validated by Coinbase, on-chain PoC)](https://www.reddit.com/r/ethereum/comments/1skozp6/coinbase_agentkit_prompt_injection_wallet_drain/)**
+
+Coinbase AgentKit Prompt Injection: Wallet Drain, Infinite Approvals, and Agent-Level RCE Reported 13 days after Coinbase launched Agentic Wallets. Validated by Coinbase. Demonstrated on-chain. Published: April 11, 2026 CVE status: Pending assignment
+Coinbase AgentKit is developer infrastructure for building AI agents with direct access to wallets, token operations, DeFi actions, and related execution surfaces. This disclosure covers a prompt injection vulnerability in AgentKit that allowed attacker-controlled input to trigger sensitive tool execution without a built-in human confirmation step.
+
+🔗 [x402warden](https://x402warden.com/research/coinbase-agentkit-prompt-injection/) • 1h ago
+
+---
+
+**[Deploy a full DEX on Ethereum, Arbitrum, or Base in one command.](https://www.reddit.com/r/ethereum/comments/1sjuq3y/deploy_a_full_dex_on_ethereum_arbitrum_or_base_in/)**
+
+I built a CLI tool in rust called LaunchDex that deploys a full DEX--factory contract, router, liquidity pair and swap frontend--on Ethereum, Arbitrum, and Base in a single command. The whole process that typically takes weeks of manual contract deployment, configuration and frontend setup is reduced to launchdex deploy. Contract addresses are saved automatically and a custom swap interface is generated and ready to deploy. The tool is built on top of verified Uniswap v2 contracts so the deployed DEX is production-grade and audited. Multi-token support lets you add additional trading pairs to an existing factory with one command. The generated frontend includes an embedded wallet so user can swap tokens without needing Metamask installed. Let me know what you think
+
+22h ago
 
 ---
 
@@ -84,23 +101,15 @@ I permanently lost $2,000 USD value trying to stake via direct contract interact
 
 ---
 
-**[Deploy a full DEX on Ethereum, Arbitrum, or Base in one command.](https://www.reddit.com/r/ethereum/comments/1sjuq3y/deploy_a_full_dex_on_ethereum_arbitrum_or_base_in/)**
+**[World Liberty Financial borrowed its own stablecoin against its own token on a platform run by its own advisor and Justin Sun (WLFI biggest investor) just called it fraud.](https://www.reddit.com/r/ethereum/comments/1sjkjuc/world_liberty_financial_borrowed_its_own/)**
 
-I built a CLI tool in rust called LaunchDex that deploys a full DEX--factory contract, router, liquidity pair and swap frontend--on Ethereum, Arbitrum, and Base in a single command. The whole process that typically takes weeks of manual contract deployment, configuration and frontend setup is reduced to launchdex deploy. Contract addresses are saved automatically and a custom swap interface is generated and ready to deploy. The tool is built on top of verified Uniswap v2 contracts so the deployed DEX is production-grade and audited. Multi-token support lets you add additional trading pairs to an existing factory with one command. The generated frontend includes an embedded wallet so user can swap tokens without needing Metamask installed. Let me know what you think
-
-21h ago
+1d ago
 
 ---
 
 **[Daily General Discussion April 12, 2026](https://www.reddit.com/r/ethereum/comments/1sj56x3/daily_general_discussion_april_12_2026/)**
 
 **Welcome to the Daily General Discussion on** r/ethereum [https://imgur.com/3y7vezP\](https://imgur.com/3y7vezP) Bookmarking this link will always bring you to the current daily: [https://old.reddit.com/r/ethereum/about/sticky/?num=2\](https://old.reddit.com/r/ethereum/about/sticky/?num=2) Please use this thread to discuss Ethereum topics, news, events, and even *price*! Price discussion posted elsewhere in the subreddit will **continue to be removed.** As always, be constructive. - [Subreddit Rules](https://www.reddit.com/r/ethereum/about/rules/) Want to stake? Learn more at r/ethstaker **Community Links** * [Ethereum Jobs](https://ethereum.org/en/community/get-involved/#ethereum-jobs), [Twitter](https://x.com/ethereum) * [EVMavericks YouTube](https://www.youtube.com/@evmavericks), [Discord](https://discord.gg/evmavericks), [Doots Podcast](https://evmavericks.libsyn.com/) * [Doots Website](https://dailydoots.com/), Old Reddit [Doots Extension](https://github.com/etheralpha/ethfinance-extension) by u/hanniabu Calendar: [https://dailydoots.com/events/\](https://dailydoots.com/events/)
-
-1d ago
-
----
-
-**[World Liberty Financial borrowed its own stablecoin against its own token on a platform run by its own advisor and Justin Sun (WLFI biggest investor) just called it fraud.](https://www.reddit.com/r/ethereum/comments/1sjkjuc/world_liberty_financial_borrowed_its_own/)**
 
 1d ago
 
@@ -136,23 +145,79 @@ So I went back through my wallet history and used a couple of MEV tracking tools
 
 ---
 
-**[Ethereal news weekly #19 | Roman Storm acquittal hearing, ETHGlobal Cannes hackathon finalists, EVM Now block explorer](https://www.reddit.com/r/ethereum/comments/1shnkzm/ethereal_news_weekly_19_roman_storm_acquittal/)**
-
-Roman Storm acquittal hearing, ETHGlobal Cannes hackathon finalists, EVM Now block explorer
-
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-19/) • 3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
+
+**[Bitmine holds 4% of ethereum supply as total holdings reach $11.8 billion](https://www.theblock.co/post/397229/bitmine-holds-4-of-ethereum-supply-as-total-holdings-reach-11-8-billion)**
+
+Bitmine expanded its Ethereum treasury to 4.87 million ETH, controlling 4% of supply as total holdings climb to $11.8 billion.
+
+The Block • 8h ago
+
+---
 
 **[Attacker mints $1 billion Polkadot tokens on Ethereum, ends up stealing just $250,000](https://www.coindesk.com/tech/2026/04/13/attacker-mints-usd1-billion-polkadot-tokens-on-ethereum-ends-up-stealing-just-usd250-000)**
 
 A forged cross-chain message bypassed state proof validation on the bridge contract, granting admin control over the bridged DOT token and allowing the attacker to mint and dump the entire supply for $237,000.
 
-CoinDesk • 14h ago
+CoinDesk • 15h ago
+
+---
+
+**[Ondo Seeks SEC Clearance for an Ethereum-Based Tokenized Equities Model](https://finance.yahoo.com/markets/crypto/articles/ondo-seeks-sec-clearance-ethereum-210800141.html)**
+
+Ondo is pushing its tokenized-equities strategy deeper into the U.S. regulatory process. The company is seeking SEC...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Which Cryptocurrency Should You Be Hoarding Right Now, Bitcoin or Ethereum?](https://www.fool.com/investing/2026/04/13/which-cryptocurrency-should-you-be-hoarding-right/)**
+
+If crypto treasury companies are loading up on Bitcoin and Ethereum, should you be too?
+
+The Motley Fool • 10h ago
+
+---
+
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.875 Million Tokens, and Total Crypto and Total Cash Holdings of $11.8 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-4-875-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-8-billion-302740122.html)**
+
+Bitmine now owns more than 4% of the total ETH coin supply of 120.7 million Bitmine is 81% of the way to the 'Alchemy of 5%' in just 9 months Bitmine uplisted...
+
+PR Newswire • 10h ago
+
+---
+
+**[Surging Bitcoin, Ethereum ETF Investments Drive Crypto Funds to Best Week Since January](https://decrypt.co/364130/surging-bitcoin-ethereum-etf-investments-crypto-funds-best-week-since-january)**
+
+Institutional crypto investors posted their strongest weekly inflows since January, with Bitcoin and Ethereum demand rising as XRP investments cool.
+
+Decrypt • 5h ago
+
+---
+
+**[Ethereum Price Slips Below Support, Bears Seize Momentum](https://www.tradingview.com/news/newsbtc:f1cb03443094b:0-ethereum-price-slips-below-support-bears-seize-momentum/)**
+
+Ethereum price started a fresh decline and traded below $2,250. ETH is now consolidating above $2,175 and might struggle to recover.Ethereum Price Dips AgainEthereum price failed to remain stable above $2,250 and started a downside correction, like Bitcoin. ETH price dipped below the $2,220 and $2…
+
+TradingView — Track All Markets • 18h ago
+
+---
+
+**[Current price of Ethereum for April 13, 2026](https://fortune.com/article/price-of-ethereum-04-13-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 9h ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC holds 50-day EMA, ETH and XRP hover near breakdown levels](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-holds-50-day-ema-eth-and-xrp-hover-near-breakdown-levels-202604130321)**
+
+Bitcoin (BTC) and Ethereum (ETH) held gains on Monday after rising by over 2.5% and 3.5%, respectively, and Ripple (XRP) stabilized around the key level, the previous week.
+
+FXStreet • 19h ago
 
 ---
 
@@ -161,66 +226,6 @@ CoinDesk • 14h ago
 The Ether Machine terminates its SPAC merger with Dynamix, citing unfavorable market conditions amid ETH's sharp decline from its 2025 highs.
 
 BeInCrypto • 2d ago
-
----
-
-**[Tom Lee’s BitMine Makes Biggest Ethereum Buy Since December](https://finance.yahoo.com/markets/crypto/articles/tom-lee-bitmine-makes-biggest-143236082.html)**
-
-BitMine Immersion Technologies' Ethereum treasury gained another $157 million of ETH last week, its biggest acquisition since December.
-
-Yahoo Finance • 7h ago
-
----
-
-**[Which Cryptocurrency Should You Be Hoarding Right Now, Bitcoin or Ethereum?](https://www.fool.com/investing/2026/04/13/which-cryptocurrency-should-you-be-hoarding-right/)**
-
-If crypto treasury companies are loading up on Bitcoin and Ethereum, should you be too?
-
-The Motley Fool • 9h ago
-
----
-
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.875 Million Tokens, and Total Crypto and Total Cash Holdings of $11.8 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-4-875-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-8-billion-302740122.html)**
-
-Bitmine now owns more than 4% of the total ETH coin supply of 120.7 million Bitmine is 81% of the way to the 'Alchemy of 5%' in just 9 months Bitmine uplisted...
-
-PR Newswire • 9h ago
-
----
-
-**[Ethereum Price Slips Below Support, Bears Seize Momentum](https://www.tradingview.com/news/newsbtc:f1cb03443094b:0-ethereum-price-slips-below-support-bears-seize-momentum/)**
-
-Ethereum price started a fresh decline and traded below $2,250. ETH is now consolidating above $2,175 and might struggle to recover.Ethereum Price Dips AgainEthereum price failed to remain stable above $2,250 and started a downside correction, like Bitcoin. ETH price dipped below the $2,220 and $2…
-
-TradingView — Track All Markets • 17h ago
-
----
-
-**[Current price of Ethereum for April 13, 2026](https://fortune.com/article/price-of-ethereum-04-13-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 8h ago
-
----
-
-**[Bitcoin, XRP, Ethereum Fall. Iran Peace Failure Causes a Crypto Headache.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-iran-crypto-46d858c6)**
-
-Barron's • 9h ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC holds 50-day EMA, ETH and XRP hover near breakdown levels](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-holds-50-day-ema-eth-and-xrp-hover-near-breakdown-levels-202604130321)**
-
-Bitcoin (BTC) and Ethereum (ETH) held gains on Monday after rising by over 2.5% and 3.5%, respectively, and Ripple (XRP) stabilized around the key level, the previous week.
-
-FXStreet • 18h ago
-
----
-
-**[Ethereum Price Near Breakout?: On-Chain Signals Just Flipped Bullish](https://www.binance.com/en/square/post/312093831468945)**
-
-Binance • 8h ago
 
 ---
 
@@ -234,7 +239,7 @@ Here is the latest on bitcoin, ethereum and crypto in general! Be aware of whats
 
 📺 Thomas Kralow
 
-👁️ 12K • 👍 1K • 💬 37 • ⏱️ 10:18 • 10h ago
+👁️ 12K • 👍 1K • 💬 37 • ⏱️ 10:18 • 11h ago
 
 ---
 
@@ -244,7 +249,7 @@ Ethereum is down more than 50% from its all-time high, but the bigger concern ri
 
 📺 More Crypto Online
 
-👁️ 654 • 👍 65 • 💬 7 • ⏱️ 15:54 • 52m ago
+👁️ 654 • 👍 65 • 💬 7 • ⏱️ 15:54 • 1h ago
 
 ---
 
@@ -274,7 +279,7 @@ BITCOIN: Everyone is WRONG About This (important)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 815 • 👍 72 • 💬 46 • ⏱️ 19:32 • 39m ago
+👁️ 815 • 👍 72 • 💬 46 • ⏱️ 19:32 • 1h ago
 
 ---
 
@@ -284,7 +289,7 @@ XRP, Bitcoin, Ethereum… THIS Is The Moment They Take Control ALL of Martyn's T
 
 📺 Martyn Lucas INVESTOR
 
-👁️ 706 • 👍 106 • ⏱️ 17:57 • 26m ago
+👁️ 706 • 👍 106 • ⏱️ 17:57 • 1h ago
 
 ---
 
@@ -314,7 +319,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 📺 The Moon Show
 
-👁️ 10K • 👍 926 • 💬 70 • ⏱️ 8:32 • 12h ago
+👁️ 10K • 👍 926 • 💬 70 • ⏱️ 8:32 • 13h ago
 
 ---
 
@@ -324,7 +329,7 @@ Buy & Sell Crypto With iTrustCapital https://www.itrustcapital.com/xrparmy Bold 
 
 📺 Digital Asset Investor
 
-👁️ 5K • 👍 555 • ⏱️ 11:21 • 5h ago
+👁️ 5K • 👍 555 • ⏱️ 11:21 • 6h ago
 
 ---
 

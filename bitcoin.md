@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-13T21:54:48.213777+00:00'
+updated: '2026-04-13T22:44:33.058654+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - social
+- cryptocurrency
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 13, 2026 at 21:54 UTC  
+**Last Updated:** April 13, 2026 at 22:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $73,207.94
+### $74,208.41
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.5%  
-**7d:** +1.6%  
-**30d:** +0.5%  
-**90d:** -24.6%  
-**1y:** -13.6%  
+**24h:** +4.8%  
+**7d:** +3.0%  
+**30d:** +1.9%  
+**90d:** -23.6%  
+**1y:** -12.4%  
 
 ---
 
@@ -79,19 +79,11 @@ Rank #1
 
 **[Bro and his Bitcoin story](https://www.reddit.com/r/Bitcoin/comments/1skdb4b/bro_and_his_bitcoin_story/)**
 
-6h ago
-
----
-
-**[Andreas Antonopoulos used to have brilliant speeches.](https://www.reddit.com/r/Bitcoin/comments/1skc1n6/andreas_antonopoulos_used_to_have_brilliant/)**
-
 7h ago
 
 ---
 
-**[Buckminster Fuller describing Bitcoin in 1967](https://www.reddit.com/r/Bitcoin/comments/1ska6o5/buckminster_fuller_describing_bitcoin_in_1967/)**
-
-Wealth isn’t gold, it’s energy. By 2000, there will be a scientific accounting system for wealth, aligned with the laws of physics.
+**[Andreas Antonopoulos used to have brilliant speeches.](https://www.reddit.com/r/Bitcoin/comments/1skc1n6/andreas_antonopoulos_used_to_have_brilliant/)**
 
 8h ago
 
@@ -99,7 +91,15 @@ Wealth isn’t gold, it’s energy. By 2000, there will be a scientific accounti
 
 **[Sorry bears, go back to sleep.](https://www.reddit.com/r/Bitcoin/comments/1sknd1v/sorry_bears_go_back_to_sleep/)**
 
-1h ago
+2h ago
+
+---
+
+**[Buckminster Fuller describing Bitcoin in 1967](https://www.reddit.com/r/Bitcoin/comments/1ska6o5/buckminster_fuller_describing_bitcoin_in_1967/)**
+
+Wealth isn’t gold, it’s energy. By 2000, there will be a scientific accounting system for wealth, aligned with the laws of physics.
+
+9h ago
 
 ---
 
@@ -107,7 +107,7 @@ Wealth isn’t gold, it’s energy. By 2000, there will be a scientific accounti
 
 Stack BTC said the purchase was a ‘landmark moment’ in British politics
 
-🔗 [The Independent](https://www.independent.co.uk/news/uk/politics/nigel-farage-crypto-richard-tice-tax-kwarteng-b2956538.html) • 2h ago
+🔗 [The Independent](https://www.independent.co.uk/news/uk/politics/nigel-farage-crypto-richard-tice-tax-kwarteng-b2956538.html) • 3h ago
 
 ---
 
@@ -115,7 +115,15 @@ Stack BTC said the purchase was a ‘landmark moment’ in British politics
 
 No one questions the root cause, why do prices constantly increase? The money is broken, and everything is downstream of that.
 
-7h ago
+8h ago
+
+---
+
+**[Why the sudden rise?](https://www.reddit.com/r/Bitcoin/comments/1skqbd6/why_the_sudden_rise/)**
+
+I can’t find any reasonable explanation of the price rise. Any suggestions?
+
+12m ago
 
 ---
 
@@ -127,19 +135,15 @@ Instead of getting API keys from Coingecko, Coinmarketcap or wherever, handling 
 
 ---
 
+**[How to invest in Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1sklyaz/how_to_invest_in_bitcoin/)**
+
+How to to invest in bitcoin
+
+2h ago
+
+---
+
 **[DCA and HOLD your Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1sjdeeo/dca_and_hold_your_bitcoin/)**
-
-1d ago
-
----
-
-**[Someone: what’s in your mind?](https://www.reddit.com/r/Bitcoin/comments/1sjx6cx/someone_whats_in_your_mind/)**
-
-20h ago
-
----
-
-**[Iran Enforces Bitcoin as the Only Means to Pay Toll on Strait of Hormuz](https://www.reddit.com/r/Bitcoin/comments/1sjd9qb/iran_enforces_bitcoin_as_the_only_means_to_pay/)**
 
 1d ago
 
@@ -149,41 +153,33 @@ Instead of getting API keys from Coingecko, Coinmarketcap or wherever, handling 
 
 ## Google News: "bitcoin"
 
-**[Strategy Buys $1 Billion Of Bitcoin Using Preferred Stock](https://finance.yahoo.com/markets/crypto/articles/strategy-buys-1-billion-bitcoin-125800121.html)**
+**[Lib Dems call for inquiry into Farage Bitcoin deal](https://www.bbc.com/news/articles/cd9vgw2g3w2o)**
 
-Serial cryptocurrency acquirer Strategy (NASDAQ: $MSTR) has purchased $1 billion U.S. worth of Bitcoin (CRYPTO: $BT...
+The Reform UK leader is a shareholder in British bitcoin company Stack and appeared in a promotional video.
 
-Yahoo Finance • 8h ago
-
----
-
-**[Michael Saylor's Strategy added 13,927 bitcoin for $1 billion](https://www.coindesk.com/markets/2026/04/13/michael-saylor-s-strategy-added-13-927-bitcoin-for-usd1-billion)**
-
-Last week's purchases were completely funded by sales of Stretch, the companies perpetual preferred stock.
-
-CoinDesk • 9h ago
+BBC • 2h ago
 
 ---
 
-**['Think bigger': Michael Saylor's Strategy buys another 13,927 bitcoin for $1 billion as holdings reach 780,897 BTC](https://www.theblock.co/post/397188/think-bigger-michael-saylors-strategy-buys-more-bitcoin)**
+**[Crypto funds pull in $1.1 billion as bitcoin products lead strongest inflow week since January: CoinShares](https://www.theblock.co/post/397191/crypto-funds-pull-in-1-1-billion-as-bitcoin-products-lead-strongest-inflow-week-since-january-coinshares)**
 
-Strategy's holdings now account for more than 3.7% of the total 21 million bitcoin supply — worth around $55 billion.
+Crypto funds brought in $1.1 billion last week, their strongest inflow since January, as inflation and geopolitical tensions eased.
 
-The Block • 9h ago
+The Block • 11h ago
 
 ---
 
 **[Bitcoin steady at $71.5k as U.S.-Iran talks fall through, Hormuz blockade looms](https://www.investing.com/news/cryptocurrency-news/bitcoin-dips-to-71k-as-usiran-talks-fall-through-hormuz-blockade-looms-4609268)**
 
-Investing.com • 7h ago
+Investing.com • 8h ago
 
 ---
 
-**[Three-Way Bitcoin Outlook Tied To US–Iran War—Which Case Is Most Realistic?](https://www.tradingview.com/news/newsbtc:009028fa2094b:0-three-way-bitcoin-outlook-tied-to-us-iran-war-which-case-is-most-realistic/)**
+**[From Sanctions Target To Bitcoin Power Move: Iran’s Hormuz Strategy Explained](https://bitcoinmagazine.com/politics/why-iran-wants-bitcoin-for-safe-passage-though-the-strait-of-hormuz)**
 
-Bitcoin (BTC) is trying to steady itself after a shaky start to the week. After dipping briefly toward the key $70,000 support level on Sunday, BTC has since bounced back and is now trading above $72,000 on Monday. However, the next move may depend less on internal crypto dynamics and more on the e…
+While Trump calls for free passage, Iran is leveraging Bitcoin’s neutrality to monetize its grip on 20% of global oil flows. This could reshape mining power and energy markets overnight.
 
-TradingView — Track All Markets • 2h ago
+Bitcoin Magazine • 8h ago
 
 ---
 
@@ -191,15 +187,7 @@ TradingView — Track All Markets • 2h ago
 
 Cryptocurrency bitcoin (BTC-USD) is trading above $71,000 per token on Monday after President Trump ordered an US blockade to the Strait of Hormuz after the collapse of ceasefire talks with Iranian officials. Market Catalysts Host Julie Hyman takes a closer look at the crypto market and how crypto-related stocks are trading to start the week.
 
-Yahoo Finance • 6h ago
-
----
-
-**[BItcoin price news: BTC retakes $73,000 as oil gives up gains, stocks advance](https://www.coindesk.com/markets/2026/04/13/bitcoin-erases-weekend-decline-returns-to-usd73-400-as-oil-retreats-back-under-usd100)**
-
-Risk assets shrugged off the failed weekend negotiations between the U.S. and Iran, and the U.S. blockade of the Strait of Hormuz.
-
-CoinDesk • 1h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -211,9 +199,25 @@ CNBC • 2h ago
 
 ---
 
+**[Where Will Bitcoin Be in 10 Years?](https://www.fool.com/investing/2026/04/13/where-will-bitcoin-be-in-10-years/)**
+
+Investors with the right mindset are thinking about the digital asset far into the future, as opposed to a short-term focus.
+
+The Motley Fool • 1h ago
+
+---
+
 **['First Crypto Bank'—Kraken's Fed Approval Sparks $100K Bitcoin Warning](https://www.forbes.com/sites/digital-assets/2026/04/12/first-crypto-bank-krakens-fed-approval-sparks-100k-bitcoin-warning/)**
 
-Forbes • 21h ago
+Forbes • 22h ago
+
+---
+
+**[BItcoin price news: BTC retakes $73,000 as oil gives up gains, stocks advance](https://www.coindesk.com/markets/2026/04/13/bitcoin-erases-weekend-decline-returns-to-usd73-400-as-oil-retreats-back-under-usd100)**
+
+Risk assets shrugged off the failed weekend negotiations between the U.S. and Iran, and the U.S. blockade of the Strait of Hormuz.
+
+CoinDesk • 2h ago
 
 ---
 
@@ -221,7 +225,7 @@ Forbes • 21h ago
 
 Bitcoin is struggling to break above $70K as profit-taking caps rallies, even as Wall Street firms grow more bullish on equities amid signs the recent correction may be ending.
 
-Bitcoin Magazine • 7h ago
+Bitcoin Magazine • 8h ago
 
 ---
 
@@ -299,7 +303,7 @@ Imagine one person holding the keys to Bitcoin’s entire future. That was Satos
 
 **[Bitcoin.com Deplatformed by YouTube](https://news.ycombinator.com/item?id=47697080)**
 
-⬆️ 4 • 💬 0 • 4d ago • [X (formerly Twitter)](https://twitter.com/i/status/2041756576600748142)
+⬆️ 4 • 💬 0 • 5d ago • [X (formerly Twitter)](https://twitter.com/i/status/2041756576600748142)
 
 ---
 
@@ -313,7 +317,7 @@ Bitcoin #Crypto #Finance ➡️Trade with us on Bitunix and claim your exclusive
 
 📺 DataDash
 
-👁️ 2K • 👍 186 • 💬 12 • ⏱️ 22:13 • 5h ago
+👁️ 2K • 👍 186 • 💬 12 • ⏱️ 22:13 • 6h ago
 
 ---
 
@@ -323,7 +327,7 @@ bitcoin #oilcrisis #finance Bitcoin keeps running into a wall of selling above $
 
 📺 The Wolf Of All Streets
 
-👁️ 16K • 👍 891 • 💬 266 • ⏱️ 1:04:57 • 7h ago
+👁️ 16K • 👍 891 • 💬 266 • ⏱️ 1:04:57 • 8h ago
 
 ---
 
@@ -333,7 +337,7 @@ Bitcoin just dropped hard as geopolitical tension spikes, but the real story is 
 
 📺 Simply Bitcoin
 
-👁️ 28K • 👍 2K • 💬 129 • ⏱️ 16:31 • 23h ago
+👁️ 28K • 👍 2K • 💬 129 • ⏱️ 16:31 • 1d ago
 
 ---
 
@@ -343,7 +347,7 @@ Trump RESET, Iran deal, Strait of Hormuz, and Bitcoin, Ethereum, and more BITUNI
 
 📺 Lark Davis
 
-👁️ 12K • 👍 691 • 💬 103 • ⏱️ 14:10 • 10h ago
+👁️ 12K • 👍 691 • 💬 103 • ⏱️ 14:10 • 11h ago
 
 ---
 
@@ -363,7 +367,7 @@ Ran explains that markets are shifting as geopolitics, especially the escalating
 
 📺 Crypto Banter
 
-👁️ 16K • 👍 2K • 💬 47 • ⏱️ 26:37 • 7h ago
+👁️ 16K • 👍 2K • 💬 47 • ⏱️ 26:37 • 8h ago
 
 ---
 
@@ -383,7 +387,7 @@ Bitcoin is showing signs of a potential pullback, and in this video Sheldon brea
 
 📺 Crypto Banter
 
-👁️ 5K • 👍 440 • 💬 13 • ⏱️ 26:15 • 12h ago
+👁️ 5K • 👍 440 • 💬 13 • ⏱️ 26:15 • 13h ago
 
 ---
 
