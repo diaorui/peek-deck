@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-14T02:39:15.202316+00:00'
+updated: '2026-04-14T05:25:11.793852+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
+- social
 - cryptocurrency
 - news
-- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 14, 2026 at 02:39 UTC  
+**Last Updated:** April 14, 2026 at 05:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,367.85
+### $2,366.64
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +8.1%  
-**7d:** +8.4%  
-**30d:** +0.9%  
-**90d:** -28.5%  
-**1y:** +49.4%  
+**24h:** +7.8%  
+**7d:** +8.2%  
+**30d:** +0.8%  
+**90d:** -28.6%  
+**1y:** +49.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $285.83B
+**Market Cap:** $285.70B
 Rank #2
 
 **Circulating Supply:** 120,690,992 ETH
@@ -62,17 +62,25 @@ No max supply
 -52.1%
 
 **All-Time Low:** $0.43
-+546751.0%
++546573.2%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion April 14, 2026](https://www.reddit.com/r/ethereum/comments/1skz0ll/daily_general_discussion_april_14_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+23m ago
+
+---
+
 **[Daily General Discussion April 13, 2026](https://www.reddit.com/r/ethereum/comments/1sk173h/daily_general_discussion_april_13_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-21h ago
+1d ago
 
 ---
 
@@ -81,7 +89,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 Coinbase AgentKit Prompt Injection: Wallet Drain, Infinite Approvals, and Agent-Level RCE Reported 13 days after Coinbase launched Agentic Wallets. Validated by Coinbase. Demonstrated on-chain. Published: April 11, 2026 CVE status: Pending assignment
 Coinbase AgentKit is developer infrastructure for building AI agents with direct access to wallets, token operations, DeFi actions, and related execution surfaces. This disclosure covers a prompt injection vulnerability in AgentKit that allowed attacker-controlled input to trigger sensitive tool execution without a built-in human confirmation step.
 
-🔗 [x402warden](https://x402warden.com/research/coinbase-agentkit-prompt-injection/) • 4h ago
+🔗 [x402warden](https://x402warden.com/research/coinbase-agentkit-prompt-injection/) • 7h ago
 
 ---
 
@@ -111,7 +119,7 @@ I built a CLI tool in rust called LaunchDex that deploys a full DEX--factory con
 
 **Welcome to the Daily General Discussion on** r/ethereum [https://imgur.com/3y7vezP\](https://imgur.com/3y7vezP) Bookmarking this link will always bring you to the current daily: [https://old.reddit.com/r/ethereum/about/sticky/?num=2\](https://old.reddit.com/r/ethereum/about/sticky/?num=2) Please use this thread to discuss Ethereum topics, news, events, and even *price*! Price discussion posted elsewhere in the subreddit will **continue to be removed.** As always, be constructive. - [Subreddit Rules](https://www.reddit.com/r/ethereum/about/rules/) Want to stake? Learn more at r/ethstaker **Community Links** * [Ethereum Jobs](https://ethereum.org/en/community/get-involved/#ethereum-jobs), [Twitter](https://x.com/ethereum) * [EVMavericks YouTube](https://www.youtube.com/@evmavericks), [Discord](https://discord.gg/evmavericks), [Doots Podcast](https://evmavericks.libsyn.com/) * [Doots Website](https://dailydoots.com/), Old Reddit [Doots Extension](https://github.com/etheralpha/ethfinance-extension) by u/hanniabu Calendar: [https://dailydoots.com/events/\](https://dailydoots.com/events/)
 
-1d ago
+2d ago
 
 ---
 
@@ -137,39 +145,31 @@ Over the past year I've been thinking a lot about Web3. Not the trading, not the
 
 ---
 
-**[I tracked how much MEV I lost over 6 months of trading on DEXs. the number was disgusting.](https://www.reddit.com/r/ethereum/comments/1shi3pv/i_tracked_how_much_mev_i_lost_over_6_months_of/)**
-
-So I went back through my wallet history and used a couple of MEV tracking tools to figure out how much value I actually lost to sandwich attacks and front-running over the past 6 months. not gonna share exact numbers but it was enough to make me seriously rethink where and how I trade on-chain. the thing that pissed me off the most wasn't even the big trades. it was the small ones. $200-500 swaps getting sandwiched for a few bucks each time. doesn't feel like much in the moment but it adds up fast when you're making multiple trades a week. what I learned: AMMs are basically open season for MEV bots. your trade hits the mempool and you're cooked private RPCs like flashbots protect help but they're not a complete solution. you're still trusting the builder not to screw you intent-based systems (cow swap etc) are better but they introduce solver trust assumptions and don't work for everything the only architecture where MEV extraction is structurally impossible is one where transaction ordering is provable and verifiable. not hidden, not trusted, but mathematically proven to be fair honestly the biggest takeaway is that most people have no idea how much they're losing. the "invisible tax" framing is accurate. you never see a line item that says "MEV bot took $4.50 from this trade" but it's happening on basically every swap. anyone else tracked their MEV losses? curious what numbers people are seeing. also curious if anyone has found a setup that actually eliminates it, not just reduces it.
-
-3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
+
+**[Bitmine holds 4% of ethereum supply as total holdings reach $11.8 billion](https://www.theblock.co/post/397229/bitmine-holds-4-of-ethereum-supply-as-total-holdings-reach-11-8-billion)**
+
+Bitmine expanded its Ethereum treasury to 4.87 million ETH, controlling 4% of supply as total holdings climb to $11.8 billion.
+
+The Block • 15h ago
+
+---
 
 **[Attacker mints $1 billion Polkadot tokens on Ethereum, ends up stealing just $250,000](https://www.coindesk.com/tech/2026/04/13/attacker-mints-usd1-billion-polkadot-tokens-on-ethereum-ends-up-stealing-just-usd250-000)**
 
 A forged cross-chain message bypassed state proof validation on the bridge contract, granting admin control over the bridged DOT token and allowing the attacker to mint and dump the entire supply for $237,000.
 
-CoinDesk • 19h ago
+CoinDesk • 21h ago
 
 ---
 
-**[Tom Lee’s BitMine Makes Biggest Ethereum Buy Since December](https://decrypt.co/364119/tom-lees-bitmine-biggest-ethereum-buy-since-december)**
+**[Ether outpaces bitcoin as ETF flows split and Ethereum activity jumps 41% on-week](https://www.coindesk.com/markets/2026/04/14/ether-outpaces-bitcoin-as-etf-flows-split-and-ethereum-activity-jumps-41-on-week)**
 
-BitMine Immersion Technologies' Ethereum treasury gained another $157 million of ETH last week, its biggest acquisition since December.
+Ether is outperforming bitcoin as ETF flows, spot prices and a 41% jump in Ethereum transactions move in the same direction for the first time in months.
 
-Decrypt • 12h ago
-
----
-
-**[Ethereum Profit-Loss Indicator Is Hovering Just Below Neutral – The Market Waits for A Catalyst](https://www.tradingview.com/news/newsbtc:b50f1fd79094b:0-ethereum-profit-loss-indicator-is-hovering-just-below-neutral-the-market-waits-for-a-catalyst/)**
-
-Ethereum has been consolidating for weeks. Selling pressure is present. Uncertainty is higher. An Arab Chain analysis has identified a condition in the on-chain data that describes exactly what this market is doing — and why it cannot stay here indefinitely.The report tracks Ethereum’s Net Unrealiz…
-
-TradingView — Track All Markets • 1h ago
+CoinDesk • 1h ago
 
 ---
 
@@ -177,21 +177,21 @@ TradingView — Track All Markets • 1h ago
 
 There is no one-size-fits-all cryptocurrency allocation, according to Charles Schwab Corporation (NYSE:SCHW). Schwab Director of Digital Currencies Research and Strategy Jim Ferraioli said in a report last week that investors could determine cryptocurrency allocations either through traditional portfolio theory or...
 
-Yahoo Finance • 13h ago
-
----
-
-**[Ondo seeks SEC clearance for tokenized equities model on Ethereum](https://www.theblock.co/post/397258/ondo-seeks-sec-clearance-tokenized-equities-model-ethereum)**
-
-The SEC is signaling openness to tokenization, encouraging firms to engage directly as it fine-tunes regulations.
-
-The Block • 8h ago
+Yahoo Finance • 16h ago
 
 ---
 
 **[Bitcoin, XRP, Ethereum Fall. Iran Peace Failure Causes a Crypto Headache.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-iran-crypto-46d858c6)**
 
-Barron's • 14h ago
+Barron's • 16h ago
+
+---
+
+**[A Historic Ethereum Signal Just Fired – Discover What Happens Next](https://www.tradingview.com/news/newsbtc:c70dbd912094b:0-a-historic-ethereum-signal-just-fired-discover-what-happens-next/)**
+
+Ethereum has been consolidating below $2,200 for weeks. The selling pressure is real. The uncertainty is higher. And the participants who hold enough ETH to move markets just crossed back into profit, which, in the history of this asset, has never happened quietly.A CryptoQuant analyst tracking the…
+
+TradingView — Track All Markets • 6h ago
 
 ---
 
@@ -199,7 +199,7 @@ Barron's • 14h ago
 
 If crypto treasury companies are loading up on Bitcoin and Ethereum, should you be too?
 
-The Motley Fool • 14h ago
+The Motley Fool • 16h ago
 
 ---
 
@@ -207,23 +207,23 @@ The Motley Fool • 14h ago
 
 Bitmine now owns more than 4% of the total ETH coin supply of 120.7 million Bitmine is 81% of the way to the 'Alchemy of 5%' in just 9 months Bitmine uplisted...
 
-PR Newswire • 14h ago
+PR Newswire • 16h ago
 
 ---
 
-**[Crypto News: AlphaPepe Releases AI DEX Demo Whilst Ethereum Price Prediction Sinks To $2,000 After Failed Iran War Negotiations](https://www.mymalonetelegram.com/online_features/press_releases/crypto-news-alphapepe-releases-ai-dex-demo-whilst-ethereum-price-prediction-sinks-to-2-000/article_7fcfe1da-f95e-5ab1-b961-6505a631291a.html)**
+**[Surging Bitcoin, Ethereum ETF Investments Drive Crypto Funds to Best Week Since January](https://decrypt.co/364130/surging-bitcoin-ethereum-etf-investments-crypto-funds-best-week-since-january)**
 
-MONACO, April 13, 2026 (GLOBE NEWSWIRE) -- AlphaPepe has released the first public demo of its AI-powered
+Institutional crypto investors posted their strongest weekly inflows since January, with Bitcoin and Ethereum demand rising as XRP investments cool.
 
-The Malone Telegram • 1h ago
+Decrypt • 12h ago
 
 ---
 
-**[Current price of Ethereum for April 13, 2026](https://fortune.com/article/price-of-ethereum-04-13-2026/)**
+**[Ondo Finance Seeks SEC Approval for Tokenized Securities on Ethereum](https://coinmarketcap.com/academy/article/ondo-finance-seeks-sec-approval-for-tokenized-securities-on-ethereum)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+Under the proposed model, the underlying equities would remain held through the Depository Trust Company via U.S. broker-dealer Alpaca.
 
-Fortune • 13h ago
+CoinMarketCap • 6h ago
 
 ---
 
@@ -237,7 +237,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 2K • 👍 135 • 💬 97 • ⏱️ 38:50 • 7h ago
+👁️ 3K • 👍 150 • 💬 99 • ⏱️ 38:50 • 10h ago
 
 ---
 
@@ -247,7 +247,7 @@ Here is the latest on bitcoin, ethereum and crypto in general! Be aware of whats
 
 📺 Thomas Kralow
 
-👁️ 14K • 👍 1K • 💬 23 • ⏱️ 10:18 • 14h ago
+👁️ 14K • 👍 1K • 💬 25 • ⏱️ 10:18 • 17h ago
 
 ---
 
@@ -257,7 +257,7 @@ Ethereum is down more than 50% from its all-time high, but the bigger concern ri
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 169 • 💬 17 • ⏱️ 15:54 • 5h ago
+👁️ 3K • 👍 200 • 💬 20 • ⏱️ 15:54 • 8h ago
 
 ---
 
@@ -267,17 +267,7 @@ BITCOIN: Everyone is WRONG About This (important)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 4K • 👍 262 • 💬 40 • ⏱️ 19:32 • 5h ago
-
----
-
-**[XRP To Surpass Ethereum &amp; Ripple President On Big Pivot Point](https://www.youtube.com/watch?v=gO3AcEsMeO8)**
-
-Buy & Sell Crypto With iTrustCapital https://www.itrustcapital.com/xrparmy Bold XRP Price Prediction & Ripple Prime On The New ...
-
-📺 Digital Asset Investor
-
-👁️ 7K • 👍 671 • ⏱️ 11:21 • 10h ago
+👁️ 6K • 👍 299 • 💬 76 • ⏱️ 19:32 • 8h ago
 
 ---
 
@@ -287,7 +277,27 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 4K • 👍 166 • 💬 26 • ⏱️ 10:57 • 1d ago
+👁️ 4K • 👍 167 • 💬 26 • ⏱️ 10:57 • 1d ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=6pD49iG95Ok)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Crypto Gyan
+
+👁️ 370 • 👍 67 • ⏱️ 6:29 • 1h ago
+
+---
+
+**[XRP To Surpass Ethereum &amp; Ripple President On Big Pivot Point](https://www.youtube.com/watch?v=gO3AcEsMeO8)**
+
+Buy & Sell Crypto With iTrustCapital https://www.itrustcapital.com/xrparmy Bold XRP Price Prediction & Ripple Prime On The New ...
+
+📺 Digital Asset Investor
+
+👁️ 8K • 👍 698 • ⏱️ 11:21 • 13h ago
 
 ---
 
@@ -297,7 +307,15 @@ Freedom is a minimalist browser for Swarm and IPFS. No centralized gateways. You
 
 📺 Paul Barron Network
 
-👁️ 42K • 👍 2K • 💬 153 • ⏱️ 18:02 • 1d ago
+👁️ 43K • 👍 2K • 💬 142 • ⏱️ 18:02 • 1d ago
+
+---
+
+**[XRP To Blast Past Ethereum in 30 to 45 days? #xrp Ethereum](https://www.youtube.com/watch?v=9MwBTILliFk)**
+
+📺 Digital Asset Investor
+
+👁️ 5K • 👍 174 • ⏱️ 0:43 • 12h ago
 
 ---
 
@@ -307,27 +325,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 29K • 👍 790 • 💬 74 • ⏱️ 19:27 • 2d ago
-
----
-
-**[🚨 XRP, Bitcoin, Ethereum… THIS Is The Moment They Take Control | Martyn Lucas Investor](https://www.youtube.com/watch?v=CnoW_JE0JoI)**
-
-XRP, Bitcoin, Ethereum… THIS Is The Moment They Take Control ALL of Martyn's Trades on Discord Includes 1 on 1 support ...
-
-📺 Martyn Lucas INVESTOR
-
-👁️ 2K • 👍 181 • 💬 2 • ⏱️ 17:57 • 5h ago
-
----
-
-**[ETHEREUM ABOUT TO FALL?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=ovCeVXSdFSg)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 304 • 👍 25 • 💬 2 • ⏱️ 5:26 • 17h ago
+👁️ 29K • 👍 790 • 💬 104 • ⏱️ 19:27 • 2d ago
 
 ---
 
