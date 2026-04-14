@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-14T09:02:38.190741+00:00'
+updated: '2026-04-14T10:45:42.874779+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 14, 2026 at 09:02 UTC  
+**Last Updated:** April 14, 2026 at 10:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,390.55
+### $2,375.98
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +9.4%  
-**7d:** +9.1%  
-**30d:** +1.5%  
-**90d:** -28.0%  
-**1y:** +50.4%  
+**24h:** +8.5%  
+**7d:** +8.5%  
+**30d:** +1.0%  
+**90d:** -28.4%  
+**1y:** +49.6%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
@@ -81,7 +81,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 Coinbase AgentKit Prompt Injection: Wallet Drain, Infinite Approvals, and Agent-Level RCE Reported 13 days after Coinbase launched Agentic Wallets. Validated by Coinbase. Demonstrated on-chain. Published: April 11, 2026 CVE status: Pending assignment
 Coinbase AgentKit is developer infrastructure for building AI agents with direct access to wallets, token operations, DeFi actions, and related execution surfaces. This disclosure covers a prompt injection vulnerability in AgentKit that allowed attacker-controlled input to trigger sensitive tool execution without a built-in human confirmation step.
 
-🔗 [x402warden](https://x402warden.com/research/coinbase-agentkit-prompt-injection/) • 11h ago
+🔗 [x402warden](https://x402warden.com/research/coinbase-agentkit-prompt-injection/) • 13h ago
 
 ---
 
@@ -149,11 +149,27 @@ Over the past year I've been thinking a lot about Web3. Not the trading, not the
 
 ## Google News: "ethereum"
 
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.875 Million Tokens, and Total Crypto and Total Cash Holdings of $11.8 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-4-875-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-8-billion-302740122.html)**
+
+Bitmine now owns more than 4% of the total ETH coin supply of 120.7 million Bitmine is 81% of the way to the 'Alchemy of 5%' in just 9 months Bitmine uplisted...
+
+PR Newswire • 22h ago
+
+---
+
+**[Tom Lee’s BitMine Makes Biggest Ethereum Buy Since December](https://finance.yahoo.com/markets/crypto/articles/tom-lee-bitmine-makes-biggest-143236082.html)**
+
+BitMine Immersion Technologies' Ethereum treasury gained another $157 million of ETH last week, its biggest acquisition since December.
+
+Yahoo Finance • 20h ago
+
+---
+
 **[Bitmine holds 4% of ethereum supply as total holdings reach $11.8 billion](https://www.theblock.co/post/397229/bitmine-holds-4-of-ethereum-supply-as-total-holdings-reach-11-8-billion)**
 
 Bitmine expanded its Ethereum treasury to 4.87 million ETH, controlling 4% of supply as total holdings climb to $11.8 billion.
 
-The Block • 19h ago
+The Block • 20h ago
 
 ---
 
@@ -169,29 +185,29 @@ CoinDesk • 1d ago
 
 There is no one-size-fits-all cryptocurrency allocation, according to Charles Schwab Corporation (NYSE:SCHW). Schwab Director of Digital Currencies Research and Strategy Jim Ferraioli said in a report last week that investors could determine cryptocurrency allocations either through traditional portfolio theory or...
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 21h ago
 
 ---
 
 **[Bitcoin, XRP, Ethereum Fall. Iran Peace Failure Causes a Crypto Headache.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-iran-crypto-46d858c6)**
 
-Barron's • 20h ago
+Barron's • 22h ago
 
 ---
 
-**[Surging Bitcoin, Ethereum ETF Investments Drive Crypto Funds to Best Week Since January](https://decrypt.co/364130/surging-bitcoin-ethereum-etf-investments-crypto-funds-best-week-since-january)**
+**[Which Cryptocurrency Should You Be Hoarding Right Now, Bitcoin or Ethereum?](https://www.fool.com/investing/2026/04/13/which-cryptocurrency-should-you-be-hoarding-right/)**
 
-Institutional crypto investors posted their strongest weekly inflows since January, with Bitcoin and Ethereum demand rising as XRP investments cool.
+If crypto treasury companies are loading up on Bitcoin and Ethereum, should you be too?
 
-Decrypt • 16h ago
+The Motley Fool • 22h ago
 
 ---
 
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.875 Million Tokens, and Total Crypto and Total Cash Holdings of $11.8 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-4-875-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-8-billion-302740122.html)**
+**[Why Are Bitcoin, Ethereum and XRP Prices Surging Today?](https://coinpedia.org/news/why-are-bitcoin-ethereum-and-xrp-prices-surging-today/)**
 
-Bitmine now owns more than 4% of the total ETH coin supply of 120.7 million Bitmine is 81% of the way to the 'Alchemy of 5%' in just 9 months Bitmine uplisted...
+Crypto markets are having a strong Tuesday. Bitcoin jumped nearly $4,000 in 12 hours, hitting $74,461. Ethereum surged 7.85% to $2,366 and XRP climbed
 
-PR Newswire • 20h ago
+Coinpedia • 6h ago
 
 ---
 
@@ -199,31 +215,15 @@ PR Newswire • 20h ago
 
 Ethereum has been consolidating below $2,200 for weeks. The selling pressure is real. The uncertainty is higher. And the participants who hold enough ETH to move markets just crossed back into profit, which, in the history of this asset, has never happened quietly.A CryptoQuant analyst tracking the…
 
-TradingView — Track All Markets • 10h ago
+TradingView — Track All Markets • 11h ago
 
 ---
 
-**[Current price of Ethereum for April 13, 2026](https://fortune.com/article/price-of-ethereum-04-13-2026/)**
+**[Surging Bitcoin, Ethereum ETF Investments Drive Crypto Funds to Best Week Since January](https://decrypt.co/364130/surging-bitcoin-ethereum-etf-investments-crypto-funds-best-week-since-january)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+Institutional crypto investors posted their strongest weekly inflows since January, with Bitcoin and Ethereum demand rising as XRP investments cool.
 
-Fortune • 19h ago
-
----
-
-**[Crypto News: AlphaPepe Releases AI DEX Demo Whilst Ethereum Price Prediction Sinks To $2,000 After Failed Iran War Negotiations](https://www.mymalonetelegram.com/online_features/press_releases/crypto-news-alphapepe-releases-ai-dex-demo-whilst-ethereum-price-prediction-sinks-to-2-000/article_7fcfe1da-f95e-5ab1-b961-6505a631291a.html)**
-
-MONACO, April 13, 2026 (GLOBE NEWSWIRE) -- AlphaPepe has released the first public demo of its AI-powered
-
-The Malone Telegram • 7h ago
-
----
-
-**[Crypto News: ETH Based Pepeto Stages Update While the Ethereum Price Prediction Aims For Five Figures](https://markets.businessinsider.com/news/stocks/crypto-news-eth-based-pepeto-stages-update-while-the-ethereum-price-prediction-aims-for-five-figures-1036018543)**
-
-Dubai, UAE, April  14, 2026  (GLOBE NEWSWIRE) -- Ethereum based crypto Pepeto announced the last presale stage sell out, with funds raised crossin...
-
-markets.businessinsider.com • 3h ago
+Decrypt • 17h ago
 
 ---
 
@@ -237,7 +237,7 @@ BloFin - No KYC/No VPN needed [Trade ETH Coin Futures!] https://marzell.org/Blof
 
 📺 Marzell Crypto
 
-👁️ 167 • 👍 16 • 💬 120 • ⏱️ 5:01 • 3h ago
+👁️ 167 • 👍 16 • 💬 120 • ⏱️ 5:01 • 5h ago
 
 ---
 
@@ -247,7 +247,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 4K • 👍 162 • 💬 102 • ⏱️ 38:50 • 14h ago
+👁️ 4K • 👍 162 • 💬 102 • ⏱️ 38:50 • 16h ago
 
 ---
 
@@ -257,7 +257,7 @@ Here is the latest on bitcoin, ethereum and crypto in general! Be aware of whats
 
 📺 Thomas Kralow
 
-👁️ 15K • 👍 2K • 💬 27 • ⏱️ 10:18 • 21h ago
+👁️ 15K • 👍 2K • 💬 27 • ⏱️ 10:18 • 23h ago
 
 ---
 
@@ -267,7 +267,7 @@ Ethereum is down more than 50% from its all-time high, but the bigger concern ri
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 213 • 💬 21 • ⏱️ 15:54 • 12h ago
+👁️ 4K • 👍 213 • 💬 21 • ⏱️ 15:54 • 13h ago
 
 ---
 
@@ -277,7 +277,7 @@ BITCOIN: Everyone is WRONG About This (important)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 7K • 👍 311 • 💬 102 • ⏱️ 19:32 • 11h ago
+👁️ 7K • 👍 311 • 💬 102 • ⏱️ 19:32 • 13h ago
 
 ---
 
@@ -297,7 +297,7 @@ Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zu
 
 📺 Krypto Trading & Investing
 
-👁️ 2K • 👍 501 • 💬 77 • ⏱️ 13:54 • 3h ago
+👁️ 2K • 👍 501 • 💬 77 • ⏱️ 13:54 • 5h ago
 
 ---
 
@@ -307,7 +307,7 @@ Daily BTC, ETH, TSLA trades. Subscribe. Bybit bonus up to $30000 https://partner
 
 📺 James Crypto Guru
 
-👁️ 1K • 👍 106 • 💬 6 • ⏱️ 9:17 • 8h ago
+👁️ 1K • 👍 106 • 💬 6 • ⏱️ 9:17 • 10h ago
 
 ---
 
@@ -327,7 +327,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 1K • 👍 127 • ⏱️ 6:29 • 5h ago
+👁️ 1K • 👍 127 • ⏱️ 6:29 • 7h ago
 
 ---
 
