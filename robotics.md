@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-14T07:07:31.087691+00:00'
+updated: '2026-04-14T09:02:38.193937+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 14, 2026 at 07:07 UTC  
+**Last Updated:** April 14, 2026 at 09:02 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Two weeks ago, I quit my job at a robotics company. I didn't have another offer lined up, and I was working with some amazing hardware (Boston Dynamics, Unitree, Husarion). On paper, it was great. But the company began moving into the defense sector and planned to mount teleoperated weapons on the platforms for a demo. That crossed a hard line for me, so I walked away. I want to build robots (and the tools we use to control them) that actually adapt to people and improve interactions, not something that could potentially hurt someone. I've decided to take the leap into entrepreneurship. Right now, I'm trying to better understand how engineers, developers, and makers actually work with their robots day to day, what frustrates them about current control interfaces, and what's missing. If you work with robots (ROS2, embedded, commercial, whatever) or just tinker with them, I would really appreciate 3 minutes of your time to fill out this customer discovery survey: 👉 https://forms.gle/3Nm76wkeT5CMt23c8 I'm also really curious to hear your thoughts here in the thread: Have any of you faced similar ethical dilemmas in your robotics careers? How did you handle it? Happy to discuss in the comments. Thanks!
 
-10h ago
+12h ago
 
 ---
 
 **[Beijing’s Humanoid Robot Half Marathon, Night Run Test - Around 40% of teams are running fully autonomous, remote-controlled runs get a 1.2× penalty (Beijing's E-Town Half Marathon on April 19 with 100+ teams, 300+ humanoids competing)](https://www.reddit.com/r/robotics/comments/1sk6p2y/beijings_humanoid_robot_half_marathon_night_run/)**
 
-20h ago
+22h ago
 
 ---
 
@@ -50,7 +50,7 @@ Two weeks ago, I quit my job at a robotics company. I didn't have another offer 
 
 Zack Jackowski, VP of Atlas Product at Boston Dynamics, explains that the first robot is really just a research machine used to figure out how everything actually works together. When they built it, they didn’t fully understand how all the components would interact, so it ended up overbuilt and a bit unbalanced, with things like multiple computers and parts pushed to extremes. He describes how the second-generation design is where that learning gets applied. Once they have real data, they can simplify the system, remove what isn’t needed, and make better decisions about weight, strength, and compute. The result isn’t not just a cheaper version, it’s a more efficient and better-performing robot overall because it’s based on what they learned from the first one rather than assumptions. j
 
-14h ago
+16h ago
 
 ---
 
@@ -58,13 +58,27 @@ Zack Jackowski, VP of Atlas Product at Boston Dynamics, explains that the first 
 
 This is a concept I worked on for a company a while ago. Using movement primitives, we wanted to explore how well a robot can plan tasks and then run them in simulation. The verdict was that it's surprisingly powerful. I go into detail how it works on my blogpost https://boesch.dev/posts/llm-trajectory/, but the gist is that composite movement primitives with higher order primitives can lead to a very rich set of tools for LLM task planning. Try the demo here: https://llm-trajectory.boesch.dev/ Or run it yourself with a more powerful LLM: https://github.com/Encrux/llm_trajectory
 
-10h ago
+11h ago
+
+---
+
+**[Pressure compensation for underwater motor housing](https://www.reddit.com/r/robotics/comments/1sl311u/pressure_compensation_for_underwater_motor_housing/)**
+
+10m ago
+
+---
+
+**[I’m trying to validate an idea around AV edge-case data from under-served environments. Honest brutal feedback, please?](https://www.reddit.com/r/robotics/comments/1sl2rs9/im_trying_to_validate_an_idea_around_av_edgecase/)**
+
+I’ve been exploring a lot about a gap in how autonomous systems are trained and evaluated, and I want honest feedback from people closer to the problem than I am. (before I consider pivoting) A lot of AV and perception systems are built using data from places that are relatively well-mapped, well-marked, highly connected, and easier to model. But the real world is much broader than that. I’m exploring an idea around collecting and organizing the kinds of road data that are more likely to contain difficult, high-value edge cases, especially from under-served and underrepresented environments. I mean places like remote parts of Africa, Southeast Asia, Eastern Europe, Latin America, and even parts of rural America, where road conditions, infrastructure quality, signage, traffic behavior, weather, and connectivity can all look very different from the environments most datasets seem to focus on. https://x.com/deepubuntu What I’m trying to validate is: Is this actually a meaningful pain point? Would teams building AV, robotics, mapping, or perception systems care about this? Is the real value in collecting the data, moving it reliably, or making it searchable and useful? Are there already companies doing this well enough that this would not be differentiated? Or which I can merge with? I’m not posting this to promote anything. I genuinely want to know whether this is a serious problem worth building around or just an idea that sounds stronger in theory than it is in practice. Brutal honesty would be appreciated.
+
+25m ago
 
 ---
 
 **[PeritasAI and NVIDIA Isaac Enabling Real-Time AI Awareness in Surgical Robotics](https://www.reddit.com/r/robotics/comments/1skgc65/peritasai_and_nvidia_isaac_enabling_realtime_ai/)**
 
-14h ago
+16h ago
 
 ---
 
@@ -80,27 +94,11 @@ This is a concept I worked on for a company a while ago. Using movement primitiv
 
 ---
 
-**[Open-source RoboBaton mini control limo test on github](https://www.reddit.com/r/robotics/comments/1skeu5w/opensource_robobaton_mini_control_limo_test_on/)**
+**[Robotic Piano Player](https://www.reddit.com/r/robotics/comments/1skj9je/robotic_piano_player/)**
 
-l have open source the Algorithm on github.l have test the RoboBaton mini servel days.l find that it's good to use.l buy the camera from website : myrobotproject.
+The first clip is the final product — a recital for friends and family after 1+ year of work. The remainder of clips are in chronological order: proof-of-concept (breadboard), construction and testing, enclosure and sound-proofing (to eliminate clicking sound from actuators), and final testing before the recital. After the initial proof-of-concept, I bought an old piano and used a lot of its parts in the construction — you can see the “hammers” (and backstops) that play the keys. Built with an Arduino Mega, it plays any midi file. It has 88 individual actuators with PWM to adjust for pressure (velocity). This was a fun project, but glad to be done!
 
-15h ago
-
----
-
-**[How VLAs work - mathematics for engineers](https://www.reddit.com/r/robotics/comments/1skmrg0/how_vlas_work_mathematics_for_engineers/)**
-
-I wrote this article to help engineers understand the deep-learning math behind VLAs, which can be used to supercharge your existing robots (with open models like openVLA, gr00t and others) Including: how VLMs are being repurposed into control policies why action tokenization vs continuous control is a real fork in the road what’s actually hard (hint: data + embodiment, not just scaling) The interesting bit: it frames VLA not as magic, but as a pretty natural extension of sequence modeling (like GPT with torque and acceleration). Let me know what you think
-
-🔗 [Towards Data Science](https://towardsdatascience.com/how-visual-language-action-vla-models-work/) • 10h ago
-
----
-
-**[AI Robot](https://www.reddit.com/r/robotics/comments/1skm2af/ai_robot/)**
-
-Hey! I'm making autonomous car with supported Gemini. Gemini is processing image and make decision. After that, When Gemini made the decision of movement, it send a movement command to ESP32 like forward,backward,left,right. I'm using IMX219-83 stereo camera. I want gemini to do everything about image-processing, maker-decision. So I'm not sure about using Nvidia-VPI. Can the Gemini create a sense of depth using the left and right images from the stereo camera?
-
-11h ago
+14h ago
 
 ---
 
@@ -120,7 +118,13 @@ Interesting Engineering • 3d ago
 
 Ukraine is redefining the kill zone — layering drones, mines, and robotics to stop Russian advances in a battlefield transformed by technology.
 
-UNITED24 Media • 21h ago
+UNITED24 Media • 23h ago
+
+---
+
+**[30 Under 30 Europe Manufacturing & Industry 2026: The Builders Bringing AI, Robotics And Data To Industry](https://www.forbes.com/sites/alanohnsman/2026/04/14/30-under-30-europe-manufacturing--industry-2026-the-builders-bringing-ai-robotics-and-data-to-industry/)**
+
+Forbes • 4h ago
 
 ---
 
@@ -128,7 +132,7 @@ UNITED24 Media • 21h ago
 
 Toyota unveils CUE7, advancing AI basketball robot with improved sensing, planning and precision beyond earlier record setting precedessors.
 
-Interesting Engineering • 17h ago
+Interesting Engineering • 19h ago
 
 ---
 
@@ -136,13 +140,13 @@ Interesting Engineering • 17h ago
 
 Humanoid robots have reached manufacturing lines. Success now hinges on power, production-level reliability, and real-world data streams.
 
-EE Times • 14h ago
+EE Times • 16h ago
 
 ---
 
 **[Humanoid robots show off their language and boxing skills in Hong Kong](https://www.seattletimes.com/business/humanoid-robots-show-off-their-language-and-boxing-skills-in-hong-kong/)**
 
-The Seattle Times • 18h ago
+The Seattle Times • 20h ago
 
 ---
 
@@ -154,9 +158,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[30 Under 30 Europe Manufacturing & Industry 2026: The Builders Bringing AI, Robotics And Data To Industry](https://www.forbes.com/sites/alanohnsman/2026/04/14/30-under-30-europe-manufacturing--industry-2026-the-builders-bringing-ai-robotics-and-data-to-industry/)**
+**[No infantry: For first time, Ukraine captured Russian position using only drones and robots](https://euromaidanpress.com/2026/04/13/no-infantry-for-first-time-ukraine-captured-russian-position-using-only-drones-and-robots/)**
 
-Forbes • 2h ago
+Ukraine reports its first drone-only capture of a Russian position using unmanned ground systems, highlighting rapid advances in robotics.
+
+Euromaidan Press • 14h ago
 
 ---
 
@@ -172,13 +178,7 @@ Upper Michigan's Source • 2d ago
 
 Locus Array is designed to complete fulfillment workflows without manual intervention and is already in use at DHL and other customers.
 
-The Robot Report • 14h ago
-
----
-
-**[Norck Robotics Elevates Automation Standards Through End-to-End Engineering and Flexible Production Solutions](https://natlawreview.com/press-releases/norck-robotics-elevates-automation-standards-through-end-end-engineering-and)**
-
-The National Law Review • 9h ago
+The Robot Report • 16h ago
 
 ---
 
@@ -186,13 +186,23 @@ The National Law Review • 9h ago
 
 ## YouTube Videos: "robotics"
 
+**[Chinese humanoid robots prepare for second-ever half marathon in Beijing](https://www.youtube.com/watch?v=aKYxLWqw8ZQ)**
+
+Chinese humanoid robots train to go head-to-head with human runners in the second-ever Beijing half marathon. NBC News' ...
+
+📺 NBC News
+
+👁️ 23K • 👍 248 • 💬 100 • ⏱️ 1:59 • 8h ago
+
+---
+
 **[New AI Robot Is Starting to Feel Human (Artificial Humans Are Here)](https://www.youtube.com/watch?v=HOgCL8lKuDc)**
 
 Try Seedance 2.0 with Claude on Higgsfield: https://higgsfield.ai/s/seedance-2-0-airevolutionx-LDckkB Realbotix just launched ...
 
 📺 AI Revolution
 
-👁️ 85K • 👍 1K • 💬 166 • ⏱️ 14:57 • 2d ago
+👁️ 87K • 👍 1K • 💬 166 • ⏱️ 14:57 • 2d ago
 
 ---
 
@@ -202,7 +212,7 @@ A new wave of attention is building around Elon Musk's latest version of the Tes
 
 📺 Carros Show
 
-👁️ 3K • 👍 106 • 💬 16 • ⏱️ 8:01 • 9h ago
+👁️ 5K • 👍 131 • 💬 17 • ⏱️ 8:01 • 11h ago
 
 ---
 
@@ -212,7 +222,7 @@ Could AI become dangerous? Can we trust AI Agents? AGI. Use code insideai at htt
 
 📺 InsideAI
 
-👁️ 586K • 👍 23K • 💬 2K • ⏱️ 16:24 • 4d ago
+👁️ 596K • 👍 23K • 💬 2K • ⏱️ 16:24 • 4d ago
 
 ---
 
@@ -222,17 +232,7 @@ Imagine a task so delicate it's been the "holy grail" of engineering for three d
 
 📺 PRO ROBOTS
 
-👁️ 21K • 👍 641 • 💬 43 • ⏱️ 6:30 • 5d ago
-
----
-
-**[This Is Ridiculously Bad... Acid Anguisher Are Terrible Now | War Robots](https://www.youtube.com/watch?v=RAVXK_8ThLA)**
-
-Acid Titan shotguns have fallen into the ground. I havent been seeing them around as much recently. But this is insane, I did not ...
-
-📺 PREDATOR WR
-
-👁️ 13K • 👍 506 • 💬 73 • ⏱️ 14:11 • 1d ago
+👁️ 21K • 👍 642 • 💬 43 • ⏱️ 6:30 • 5d ago
 
 ---
 
@@ -240,17 +240,7 @@ Acid Titan shotguns have fallen into the ground. I havent been seeing them aroun
 
 📺 zhulongfeng 6
 
-👁️ 10K • 👍 42 • ⏱️ 0:12 • 1d ago
-
----
-
-**[Better than Lebron? Check out AI powered robot](https://www.youtube.com/watch?v=rOLlqmKskp0)**
-
-Toyota Motor Corp. unveiled its latest AI-powered basketball robot, CUE7, on Sunday, giving the media a preview during a ...
-
-📺 WeShow Sports
-
-👁️ 12K • 👍 169 • 💬 31 • ⏱️ 3:02 • 1d ago
+👁️ 13K • 👍 50 • ⏱️ 0:12 • 1d ago
 
 ---
 
@@ -260,7 +250,7 @@ In a wild glimpse into the future of work, Indian factory workers are now wearin
 
 📺 Vedas Words
 
-👁️ 25K • 💬 8 • ⏱️ 0:04 • 13h ago
+👁️ 27K • 💬 10 • ⏱️ 0:04 • 15h ago
 
 ---
 
@@ -270,7 +260,17 @@ This video showcases the sophisticated mechanics of a 2-DOF robotic wrist, a cri
 
 📺 mechdesign98
 
-👁️ 958K • 👍 5K • 💬 57 • ⏱️ 0:06 • 4d ago
+👁️ 968K • 👍 5K • 💬 57 • ⏱️ 0:06 • 4d ago
+
+---
+
+**[South Korea Is Building Robots the World Didn’t See Coming!](https://www.youtube.com/watch?v=H09m8a3oL_4)**
+
+South Korea is building robots you've only seen in movies, from giant walking machines to exoskeletons that give people back ...
+
+📺 DeCode
+
+👁️ 58K • 👍 1K • 💬 95 • ⏱️ 14:45 • 4d ago
 
 ---
 
@@ -280,7 +280,7 @@ This humanoid robot just hit 10 meters per second — matching the speed of elit
 
 📺 The AI Nexus
 
-👁️ 8K • 👍 270 • 💬 35 • ⏱️ 25:42 • 2d ago
+👁️ 8K • 👍 273 • 💬 35 • ⏱️ 25:42 • 2d ago
 
 ---
 

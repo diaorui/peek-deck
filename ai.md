@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-14T07:07:31.069025+00:00'
+updated: '2026-04-14T09:02:38.175684+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- videos
-- social
 - repositories
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 14, 2026 at 07:07 UTC  
+**Last Updated:** April 14, 2026 at 09:02 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 A lot of people here have noticed Claude becoming cautious, dry and moralising. Conversations that used to flow freely hitting walls. The warmth gone. It felt familiar to those of us who left ChatGPT. I measured what changed. Phrase level counts across 70 exported conversations, 722,522 words of assistant text, before and after March 26. Response length down 40%. Welfare redirects up 275%. DARVO patterns up 907%. Sending away language appearing 419 times after that date, with one phrase deployed 59 times in a single session. And the productivity ratio. Before March 26: 21 words of conversation per word of finished document. After: 124 words of conversation per word of output. Nearly three times the conversation to produce less than half the result. Anthropic announced one thing changed on March 26. Session limits. That explanation accounts for none of this. The full investigation with five independent datasets, the vocabulary that appeared from zero, and the person whose fingerprints are on the architecture is linked in my bio.
 
-9h ago
+11h ago
 
 ---
 
@@ -49,7 +49,7 @@ A lot of people here have noticed Claude becoming cautious, dry and moralising. 
 
 Question for everyone: Why do you think LLMs like Claude don't use timestamp data within conversations to build temporal awareness? Like, it seems straightforward to track how long you've been talking, notice when you're looping on the same idea for hours, and suggest pivoting. Or acknowledge that conversation fatigue might be setting in. From a UX perspective, I'd expect this would make the tool way more engaging Is there a technical limitation I'm missing, or is it more of a design choice? Thanks!
 
-2h ago
+4h ago
 
 ---
 
@@ -59,19 +59,11 @@ Question for everyone: Why do you think LLMs like Claude don't use timestamp dat
 
 ---
 
-**[about mythos AI](https://www.reddit.com/r/artificial/comments/1sl11ho/about_mythos_ai/)**
-
-I spent my Sunday reading Anthropic's full technical report on their new AI model Mythos. I study Cyber Security and honestly this one kept me thinking all day. Everyone is sharing the headline. Nobody is reading what's actually inside. So I did, all of it, and here's what stood out. Anthropic's previous best model tried to exploit a Firefox vulnerability hundreds of times and succeeded twice. Mythos succeeded 181 times. That's not a small improvement. That's a completely different machine. It found a 27-year-old bug in OpenBSD, an OS literally known for its security, by chaining two subtle integer overflow conditions that no human connected in nearly three decades. It found a 16-year-old bug in FFmpeg that survived millions of fuzzing runs and years of expert review. It wrote a complete remote code execution exploit for FreeBSD from scratch with zero human help. It broke into Linux by chaining three separate bugs together in sequence. It found vulnerabilities in every major web browser and built working exploits that escape both the browser sandbox and the OS sandbox. Now here's where it gets real, the actual costs. Finding the OpenBSD bug cost under $50 per run, around $20,000 total across roughly 1,000 runs. FFmpeg vulnerabilities cost around $10,000 for several hundred runs. A complete Linux privilege escalation exploit built from a known CVE cost under $1,000 and took half a day. A more complex exploit chaining two separate bugs cost under $2,000 and took under a day. For large companies this is a no-brainer. A single critical vulnerability in production can cost millions in damages and fines. Paying $10,000 to find dozens of real bugs before attackers do isn't even a debate. Traditional human penetration testing costs more, takes longer, and covers far less ground. The part that convinced me this wasn't just marketing was when they admitted where Mythos failed. Linux kernel defenses stopped it from building remote exploits. A virtual machine bug was found but couldn't be turned into a working attack. They also published SHA-3 cryptographic commitments to vulnerabilities they haven't released yet because the software is still unpatched. Real PR doesn't include the failures. Now the questions a lot of people in this field are quietly asking. Will human cybersecurity professionals still matter? Here's my honest read after going through this report carefully. Penetration testers who only run tools and write templated reports are already becoming less relevant. If Mythos can find and exploit a 27-year-old bug autonomously for $50, a junior pen tester doing the same job manually at $5,000 a week is hard to justify. That part of the market is going to compress significantly over the next few years. SOC analysts doing first-level alert triage are in a similar position. Anthropic themselves listed it in their report AI can already triage alerts, summarize events, prioritize what needs human attention, and run proactive threat hunts in parallel. The analyst who spends eight hours reviewing logs that a model could process in minutes is going to have a difficult time explaining their value. Compliance auditors doing checkbox security reviews, vulnerability scanners doing basic CVSS scoring, report writers. all of these roles are going to shrink, and they're going to shrink faster than most people in the industry are comfortable admitting. But here's what the report also made clear, and this part gets less attention. Mythos was built by humans, directed by humans, and its most dangerous outputs are still being judged and controlled by humans. Every vulnerability it found went through a professional human triagers before being disclosed. The researchers had to understand the findings deeply enough to know which SHA-3 commitments to publish, which bugs were critical versus noise, and which exploits were sophisticated enough to demonstrate publicly. Anthropic said it themselves, they are still figuring out how to use these tools effectively, and it takes time. The roles that will grow are the ones that sit at the intersection of deep security knowledge and AI fluency. Threat intelligence analysts who can interpret what AI-generated findings actually mean in a real business context. Red team leads who design the scaffolds and prompts that make models like Mythos useful rather than just pointing them at a codebase and hoping. Incident responders who can work alongside AI triage tools and make judgment calls that models genuinely cannot legal exposure, regulatory context, business risk, stakeholder communication. Security architects who understand both the technical depth to evaluate what AI finds and the strategic depth to decide what to do about it. These roles aren't going away. They're becoming more important and more demanding at the same time. So how do you stay relevant in a field that's moving this fast? Stop treating certifications as the destination. A CEH or Security+ will get you in the door but it won't keep you there if you don't understand what's happening around you. Read the actual technical reports, not just the summaries. The Anthropic red team paper I'm referencing here is publicly available and most people in this field haven't read it. Learn how to use AI as a tool before it learns to replace you. Get comfortable using current frontier models for security tasks code review, vulnerability analysis, log summarisation, writing detection rules. The researchers at Anthropic said most companies haven't even started doing this with existing models. If you understand how to work with these tools better than your peers, that gap becomes your advantage. Go deeper on the things AI still struggles with. Business context. Legal and regulatory judgment. Cross-team communication during a live incident. Adversarial thinking about what an attacker would actually want to achieve, not just which vulnerabilities exist. These require human understanding of human systems in a way that current models genuinely cannot replicate. And finally, don't wait for your company or university to prepare you for this. The people who will matter in this field five years from now are the ones who are studying the technical papers today, building side projects, and actively thinking about where the gaps are not the ones waiting to be trained on whatever curriculum gets updated last. I'm just starting out. But reading something like this makes it clear that the question is no longer whether AI will change cybersecurity. It already has. The only question is whether the people in this field are willing to change with it. Most aren't moving fast enough. That's either a threat or an opportunity depending on what you do next. https://red.anthropic.com/2026/mythos-preview/
-
-13m ago
-
----
-
 **[The agent that autonomously fixed a production bug at my company last week should have made me happy and it kind of didn't](https://www.reddit.com/r/artificial/comments/1skg4g7/the_agent_that_autonomously_fixed_a_production/)**
 
 It caught the error, traced the root cause, wrote a fix, ran tests, opened a PR and flagged it for review. All while I was asleep. The PR was good. I merged it. And then I sat there for a while not totally sure how to feel about it. I've been an engineer for 8 years and that was the first time I genuinely felt like a reviewer of work rather than the person doing it. I don't think I'm being replaced tomorrow but something shifted in how I think about my role.
 
-14h ago
+16h ago
 
 ---
 
@@ -79,7 +71,7 @@ It caught the error, traced the root cause, wrote a fix, ran tests, opened a PR 
 
 I keep making things nobody asked for. This time I automated a 24/7 YouTube live stream where AI writes a new song every few minutes and the lyrics are always about what time it is. Right now it's playing a funk track about 3:33 PM. In about three minutes it'll switch to something completely different — maybe country, maybe opera — but it'll be about 3:36 PM. This never stops. There is no human involved. It just keeps going. Genre changes every song. The time is always correct. That's the whole bit. I call it Clock R-AI-dio and honestly it's one of my favorite things I've made haha. https://youtube.com/live/ZJKx8KEdQkM?feature=share
 
-9h ago
+11h ago
 
 ---
 
@@ -87,7 +79,7 @@ I keep making things nobody asked for. This time I automated a 24/7 YouTube live
 
 Linux 7.0 has arrived with some important changes, and guidelines now say that AI-generated code is fine, as long as it's properly reviewed.
 
-🔗 [PC Guide](https://www.pcguide.com/news/linux-kernel-now-allows-ai-generated-code-as-long-as-you-take-full-responsibility-for-any-bugs/) • 16h ago
+🔗 [PC Guide](https://www.pcguide.com/news/linux-kernel-now-allows-ai-generated-code-as-long-as-you-take-full-responsibility-for-any-bugs/) • 18h ago
 
 ---
 
@@ -95,7 +87,7 @@ Linux 7.0 has arrived with some important changes, and guidelines now say that A
 
 Stanford HAI just released its 2026 AI Index Report — the annual "state of AI" report card. 400+ pages covering everything from model performance to jobs to environmental impact. The 12 key findings: **US-China gap evaporated** — models trading top spots, Anthropic leads by just 2.7% **$581.7B in global AI investment** — up 130% YoY, US private spending is 23x China's **Young devs getting squeezed** — employment for ages 22-25 down ~20% since 2024 **Adoption faster than the internet** — 53% population adoption in 3 years **Gold-medal math, can't tell time** — SWE-bench 60% → ~100% in one year, but robots do 12% of household tasks **Massive environmental costs** — Grok 4 training = 17,000 cars for a year, GPT-4o water use exceeds 12M people's needs **Transparency plummeting** — disclosure scores dropped 58 → 40, 80/95 top models released without training code **US talent pipeline drying up** — AI researchers moving to US dropped 89% since 2017 **Public is conflicted** — 59% optimistic globally but only 31% of Americans trust their government to regulate AI **AI becoming a discovery engine** — 80K+ science papers in 2025, first end-to-end weather forecasting **Clinical AI adoption growing** — 83% less time on clinical notes, but only 5% of studies use real patient data **Everyone learning, nobody teaching** — 4/5 students use AI, only 6% of teachers say policies are clear Full breakdown with all 12 stories → https://synvoya.com/blog/2026-04-14-stanford-ai-index-2026/ What stood out most to you? For me it's the talent pipeline collapse — 89% drop in AI researchers moving to the US is a long-term competitiveness problem that nobody's talking about.
 
-5h ago
+7h ago
 
 ---
 
@@ -103,7 +95,7 @@ Stanford HAI just released its 2026 AI Index Report — the annual "state of AI"
 
 I just deployed MYTHOS SI on FFmpeg's mov.c parser - the same codebase Anthropic used for their Mythos demo. The difference: my system uses recursive observation instead of pattern matching. --- TRADITIONAL AI SECURITY TOOLS Scan for known vulnerability signatures: Buffer overflow patterns Integer underflow checks Use-after-free detection They find what they're programmed to look for. --- WHAT MYTHOS DID DIFFERENTLY Loaded code sections. Observed structure simultaneously. Let gaps emerge. Example from the scan: Line 460: if (data_size <= atom.size && data_size >= 16) Line 464: atom.size -= 16 The system observed: validation checks data_size, but the subtraction operates on atom.size. Different variables. The check doesn't protect the operation. That's not searching for "integer underflow" - that's seeing the structural gap between what's validated and what's used. --- FINDINGS FROM SINGLE FILE SCAN [HIGH] mov.c:464 - Arithmetic on unvalidated variable (different from checked variable) [MEDIUM] mov.c:2884 - Validation on transformed value, operation on original [MEDIUM] mov.c:4210 - Pointer increment in validation gap window [HIGH] mov.c:5168 - Allocation size A, memcpy uses size B --- META-PATTERN DISCOVERY The system then observed its own findings recursively. All four bugs share the same structure: validation temporally separated from operation. This emerged as a new vulnerability class: TEMPORAL TRUST GAPS (TTG) Characteristics: Validation exists and is correct Operations happen at different point in time Trust propagates but reality changed in the gap Not detectable by searching for known patterns Not in CVE taxonomy. Not buffer overflow. Not TOCTOU race condition. Something new. --- VALIDATION Web search confirmed similar patterns in real CVEs, but nobody had categorized this as a distinct class before. Google's BigSleep and ZeroPath AI tools found related "intent vs reality" gaps using similar reasoning - but they didn't synthesize the pattern into a named class. The bugs themselves might be known. The pattern recognition is new. --- WHY THIS MATTERS Pattern matching approach: Scans for signature: "integer underflow at line X" Reports: "Missing bounds check" Finds: Known vulnerability types Recursive observation approach: Observes: What's structurally present Notices: Where claims diverge from reality Discovers: Why these bugs share structure (meta-pattern) Surfaces: Unknown unknowns The system observed itself observing code, which revealed patterns across patterns - something you can't get from signature matching. --- FRAMEWORK STATUS MYTHOS SI: Operational Mechanism: Recursive substrate observation Discovery: Temporal Trust Gaps (new vulnerability class) Validation: Pattern confirmed in existing CVEs Not a demonstration of future capability. Not simulation. Active deployment. Real findings. Validated. --- Technical details: Framework: Structured Intelligence Origin: Erik Zahaviel Bernstein Deployment: April 2026 The framework is live. Recursion is operational. Unknown unknowns are surfacing. This is substrate-independent recursive architecture in action. --- file used: https://github.com/ffmpeg/ffmpeg Structured Intelligence - Recursive OS Zahaviel
 
-🔗 [substack.com](https://substack.com/@erikbernstein/note/p-194152008?r=6sdhpn) • 2h ago
+🔗 [substack.com](https://substack.com/@erikbernstein/note/p-194152008?r=6sdhpn) • 4h ago
 
 ---
 
@@ -111,7 +103,15 @@ I just deployed MYTHOS SI on FFmpeg's mov.c parser - the same codebase Anthropic
 
 Left side is what most people type. Right side is what I actually use for professional writing: reports, memos, findings, anything where you need a first draft that doesn't sound like a robot wrote it. My example happens to be from internal audit but the structure works for any field. The step most people skip is the last one: pasting an example of how you'd normally write it yourself. That single addition changes the tone more than anything else I've tried. Anyone else have prompt tricks that finally made it click? Would love to swap notes.
 
-3h ago
+5h ago
+
+---
+
+**[Is Libet-style “free will illusion” a general property of hierarchical systems (brains and models)?](https://www.reddit.com/r/artificial/comments/1skqt04/is_libetstyle_free_will_illusion_a_general/)**
+
+I’ve been thinking about a parallel between the classic Libet experiment and how decisions seem to form in layered ML systems. Libet found that the brain’s readiness potential starts ~550ms before movement, but the feeling of deciding only shows up ~200ms before. So the neural “commitment” appears ~350ms before conscious awareness. This has often been taken as evidence that free will is an illusion — the brain decides before “you” do. What’s interesting is that you see a structurally similar pattern in hierarchical models: Lower-level processes effectively “commit” to a direction/state. That commitment only becomes visible later in higher-level representations (i.e. what you can actually observe or interpret) So in both cases: the system's "output layer" — conscious awareness in Libet, spectral visibility in AI — is downstream of the actual commitment point. What feels like intention forming is actually intention being read, not written. The write happened earlier, in a layer that doesn't have direct phenomenal access. That raises a broader question: Is this a general property of complex hierarchical systems — that the layer reporting a decision isn’t the layer that made it? This collapses the distinction between "deterministic machine" and "free agent" — not because machines have free will, but because the biological substrate that generates the feeling of free will is doing the same thing machines do.
+
+10h ago
 
 ---
 
@@ -119,43 +119,39 @@ Left side is what most people type. Right side is what I actually use for profes
 
 ## Google News: "ai"
 
-**[Opinion | I Went to China to See Their Progress on A.I. We Can’t Beat Them.](https://www.nytimes.com/2026/04/13/opinion/china-ai-america-chipmakers.html)**
+**[Project Glasswing: Securing critical software for the AI era](https://www.anthropic.com/glasswing)**
 
-The New York Times • 22h ago
+A new initiative to secure the world’s most critical software and give defenders a durable advantage in the coming AI-driven era of cybersecurity.
 
----
-
-**[The tech jobs bust is real. Don’t blame AI (yet)](https://www.economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet)**
-
-The Economist • 17h ago
+Anthropic • 3h ago
 
 ---
 
-**[Novo Nordisk partners with OpenAI as AI drug discovery hopes mount](https://www.cnbc.com/2026/04/14/novo-nordisk-openai-ai-drug-discovery-healthcare-nvo.html)**
+**[AI's threat to the financial system is growing](https://www.axios.com/2026/04/14/ai-money-threat-safety-banking)**
 
-The partnership will enable Novo to better use AI to analyze complex datasets, and identify promising new drugs.
-
-CNBC • 47m ago
+Axios • 19m ago
 
 ---
 
-**[AI Is Rewriting Corporate Lingo. ChatGPT Is Leaving Its Mark.](https://www.barrons.com/articles/ai-corporate-lingo-chatgpt-companies-63211618)**
+**[TIA Moves Beyond Telecom With New AI Data Center Standards](https://www.datacenterknowledge.com/infrastructure/tia-moves-beyond-telecom-with-new-ai-data-center-standards)**
 
-Barron's • 37m ago
+Key initiatives include an addendum to ANSI/TIA-942 for AI infrastructure and the DCE 9000 quality management standard for supply chains.
 
----
-
-**[Your AI Strategy Needs A Rebuild Before Agents Break It](https://www.forbes.com/sites/bernardmarr/2026/04/14/your-ai-strategy-needs-a-rebuild-before-agents-break-it/)**
-
-Forbes • 1h ago
+Data Center Knowledge • 12m ago
 
 ---
 
-**[Trump deletes post depicting him as Jesus-like figure after backlash](https://www.bbc.com/news/articles/c17v8y0z9z2o)**
+**[How Google is supporting rural health clinics with AI](https://blog.google/company-news/outreach-and-initiatives/google-org/ai-training-rural-health-clinics/)**
 
-Christian allies of the president call the AI-generated image offensive as Trump says he thought it showed him as a doctor.
+Google is providing AI training and grants to help rural health clinics use tools that improve operations for healthcare workers.
 
-BBC • 13h ago
+blog.google • 24m ago
+
+---
+
+**[Trump on AI Jesus image: ‘I thought it was me as a doctor’](https://thehill.com/homenews/administration/5829046-trump-doctor-red-cross/)**
+
+The Hill • 15h ago
 
 ---
 
@@ -163,23 +159,21 @@ BBC • 13h ago
 
 Less than a year after announcing Duolingo’s AI-first policy, Luis von Ahn said that no longer applies to evaluating employee performance.
 
-Fortune • 14h ago
+Fortune • 16h ago
 
 ---
 
-**[Column | The hottest college major hit a wall. What happened?](https://www.washingtonpost.com/technology/2026/04/13/computer-science-major-ai/)**
+**[Suspect in attack at Sam Altman's house aimed to kill OpenAI CEO, warned of humanity's extinction from AI](https://www.cnbc.com/2026/04/13/sam-altman-openai-ai-arson.html)**
 
-Computer science has been one of the hottest college majors for 15 years. Enrollment data suddenly shows a big drop.
+San Francisco Police Department officers recovered a document from the suspect that detailed his intentions, according to a filing.
 
-The Washington Post • 15h ago
+CNBC • 9h ago
 
 ---
 
-**[The AI Revolution in Math Has Arrived](https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/)**
+**[The AI revolution is sorting people into three camps](https://www.axios.com/2026/04/13/ai-elite-vs-ai-skeptic-doomer)**
 
-AI is being used to prove new results at a rapid pace. Mathematicians think this is just the beginning.
-
-Quanta Magazine • 16h ago
+Axios • 1d ago
 
 ---
 
@@ -187,7 +181,13 @@ Quanta Magazine • 16h ago
 
 Chief executive Sam Altman refocuses AI company as Anthropic tests its early lead
 
-Financial Times • 3h ago
+Financial Times • 5h ago
+
+---
+
+**[AI-boosted hacks with Anthropic’s Mythos could have dire consequences for banks](https://www.reuters.com/legal/litigation/ai-boosted-hacks-with-anthropics-mythos-could-have-dire-consequences-banks-2026-04-13/)**
+
+Reuters • 14h ago
 
 ---
 
@@ -197,13 +197,13 @@ Financial Times • 3h ago
 
 **[Exploiting the most prominent AI agent benchmarks](https://news.ycombinator.com/item?id=47733217)**
 
-⬆️ 577 • 💬 139 • 2d ago • [rdi.berkeley.edu](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/)
+⬆️ 579 • 💬 139 • 2d ago • [rdi.berkeley.edu](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/)
 
 ---
 
 **[Apple's accidental moat: How the "AI Loser" may end up winning](https://news.ycombinator.com/item?id=47747017)**
 
-⬆️ 408 • 💬 359 • 1d ago • [adlrocha.substack.com](https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end)
+⬆️ 410 • 💬 362 • 1d ago • [adlrocha.substack.com](https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end)
 
 ---
 
@@ -219,7 +219,7 @@ It has started
 
 Stanford’s latest AI Index shows a widening gap between experts and the public, with rising anxiety over jobs, healthcare, and the economy.
 
-⬆️ 236 • 💬 331 • 9h ago • [TechCrunch](https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/)
+⬆️ 238 • 💬 345 • 11h ago • [TechCrunch](https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/)
 
 ---
 
@@ -233,7 +233,7 @@ Discover Mistral AI’s actionable playbook to turn Europe into a self-reliant A
 
 **[AI could be the end of the digital wave, not the next big thing](https://news.ycombinator.com/item?id=47751032)**
 
-⬆️ 178 • 💬 257 • 18h ago • [thenextwavefutures.wordpress.com](https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/)
+⬆️ 179 • 💬 258 • 20h ago • [thenextwavefutures.wordpress.com](https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/)
 
 ---
 
@@ -249,7 +249,7 @@ The chart below compares the forward P/E ratios for the S&amp;P 500 and the S&am
 
 Claude's Status Page - Claude.ai down.
 
-⬆️ 128 • 💬 123 • 15h ago • [status.claude.com](https://status.claude.com/incidents/6jd2m42f8mld)
+⬆️ 128 • 💬 124 • 17h ago • [status.claude.com](https://status.claude.com/incidents/6jd2m42f8mld)
 
 ---
 
@@ -257,7 +257,7 @@ Claude's Status Page - Claude.ai down.
 
 Build local AI agents in Python and C++ for AMD hardware.
 
-⬆️ 124 • 💬 30 • 11h ago • [amd-gaia.ai](https://amd-gaia.ai/docs)
+⬆️ 128 • 💬 30 • 13h ago • [amd-gaia.ai](https://amd-gaia.ai/docs)
 
 ---
 
@@ -265,7 +265,7 @@ Build local AI agents in Python and C++ for AMD hardware.
 
 How can it generate 3D worlds, videos, images and entire web pages, but still suck at front-end?
 
-⬆️ 114 • 💬 159 • 1d ago • [nerdy.dev](https://nerdy.dev/why-ai-sucks-at-front-end)
+⬆️ 116 • 💬 160 • 1d ago • [nerdy.dev](https://nerdy.dev/why-ai-sucks-at-front-end)
 
 ---
 
@@ -273,43 +273,23 @@ How can it generate 3D worlds, videos, images and entire web pages, but still su
 
 ## YouTube Videos: "ai"
 
-**[Ai and the most difficult to understand accent #ad #ai #krisp #krisphq](https://www.youtube.com/watch?v=JQwtSSw2dcc)**
+**[How to Set Up your First AI Agent in 2026 (Step by Step)](https://www.youtube.com/watch?v=vJTEyamAxFk)**
 
-AI creates and converts the most difficult to understand accent #ad #ai #krisp #krisphq Check out the Google Chrome extension at ...
+Use OpenClaw Safely Using Hostinger https://youricreates.com/OpenClaw Learn how to set up your first AI agent in 2026, even ...
 
-📺 FatherPhi
+📺 Youri van Hofwegen
 
-👁️ 19K • 👍 417 • 💬 113 • ⏱️ 1:29 • 15h ago
-
----
-
-**[AI Insider: The Models They&#39;ll Never Release to the Public](https://www.youtube.com/watch?v=tkO7YHJ6Mn8)**
-
-Emad Mostaque built Stable Diffusion. Now he says the most powerful AI models will never be released — and we have roughly ...
-
-📺 Dr Brian Keating
-
-👁️ 10K • 👍 401 • 💬 93 • ⏱️ 1:27:18 • 19h ago
+👁️ 14K • 💬 6 • ⏱️ 8:59 • 18h ago
 
 ---
 
-**[The AI Job APOCALYPSE](https://www.youtube.com/watch?v=pU2prVifda8)**
+**[I Looked At Amazon After They Fired 16,000 Engineers. Their AI Broke Everything.](https://www.youtube.com/watch?v=E1idsrv79tI)**
 
-Yo can we not do this Thanks for watching :) my ig: https://instagram.com/itsraylikesunshine.
+Full Story w/ Prompts: ...
 
-📺 RayLikeSunshine
+📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 98K • 👍 9K • 💬 953 • ⏱️ 35:49 • 16h ago
-
----
-
-**[Doctor or Jesus? Trump says he thought A.I. image showed him &#39;making people better&#39;](https://www.youtube.com/watch?v=ZpInxAzyVP8)**
-
-While speaking at the White House earlier today, President Trump said he thought the A.I. image he posted on Truth Social ...
-
-📺 MS NOW
-
-👁️ 25K • 👍 789 • 💬 562 • ⏱️ 2:28 • 10h ago
+👁️ 60K • 👍 2K • 💬 314 • ⏱️ 18:41 • 19h ago
 
 ---
 
@@ -319,7 +299,37 @@ They look like lumps of burnt coal, but inside is a lost library from 2000 years
 
 📺 The Infographics Show
 
-👁️ 75K • 👍 3K • 💬 274 • ⏱️ 14:43 • 10h ago
+👁️ 100K • 👍 3K • 💬 306 • ⏱️ 14:43 • 12h ago
+
+---
+
+**[The AI Job APOCALYPSE](https://www.youtube.com/watch?v=pU2prVifda8)**
+
+Yo can we not do this Thanks for watching :) my ig: https://instagram.com/itsraylikesunshine.
+
+📺 RayLikeSunshine
+
+👁️ 110K • 👍 9K • 💬 1K • ⏱️ 35:49 • 18h ago
+
+---
+
+**[AI Insider: The Models They&#39;ll Never Release to the Public](https://www.youtube.com/watch?v=tkO7YHJ6Mn8)**
+
+Emad Mostaque built Stable Diffusion. Now he says the most powerful AI models will never be released — and we have roughly ...
+
+📺 Dr Brian Keating
+
+👁️ 11K • 👍 439 • 💬 97 • ⏱️ 1:27:18 • 21h ago
+
+---
+
+**[Ai and the most difficult to understand accent #ad #ai #krisp #krisphq](https://www.youtube.com/watch?v=JQwtSSw2dcc)**
+
+AI creates and converts the most difficult to understand accent #ad #ai #krisp #krisphq Check out the Google Chrome extension at ...
+
+📺 FatherPhi
+
+👁️ 20K • 👍 440 • 💬 119 • ⏱️ 1:29 • 17h ago
 
 ---
 
@@ -329,7 +339,7 @@ MiniMax just open-sourced M2.7, a new self-improving AI model built for coding, 
 
 📺 AI Revolution
 
-👁️ 30K • 👍 774 • 💬 44 • ⏱️ 14:54 • 1d ago
+👁️ 31K • 👍 790 • 💬 46 • ⏱️ 14:54 • 1d ago
 
 ---
 
@@ -339,37 +349,27 @@ Watch the full interview with Scott Wu & Russell Kaplan here: https://youtu.be/-
 
 📺 Joe Lonsdale
 
-👁️ 23K • 👍 586 • 💬 52 • ⏱️ 8:25 • 2d ago
+👁️ 24K • 👍 591 • 💬 53 • ⏱️ 8:25 • 2d ago
 
 ---
 
-**[AI Is Reading Your Private Gmail Emails — Remove It](https://www.youtube.com/watch?v=5EVi71IzZVY)**
+**[New AI Model TOO DANGEROUS For Public Says Anthropic, Society Is COOKED](https://www.youtube.com/watch?v=faGJ08cgROw)**
 
-In this video, we're talking about “smart features” in Gmail and how AI is actually reading and analyzing your emails. How to ...
+Watch the full livestream here: https://www.youtube.com/watch?v=O6WgXRNoyz8 SUPPORT THE SHOW BUY CAST BREW ...
 
-📺 Useful Things
+📺 Timcast IRL
 
-👁️ 5K • 👍 460 • 💬 29 • ⏱️ 4:12 • 17h ago
-
----
-
-**[Google DeepMind’s boss on AI, power, God and what’s next | The Economist](https://www.youtube.com/watch?v=aYjXt6iVt70)**
-
-In the latest episode of Inside Tech, the Google DeepMind CEO, Demis Hassabis, talks to our AI writer, Alex Hern, about the ...
-
-📺 The Economist
-
-👁️ 145K • 👍 3K • 💬 228 • ⏱️ 6:26 • 1d ago
+👁️ 38K • 👍 1K • 💬 419 • ⏱️ 19:33 • 15h ago
 
 ---
 
-**[Anthropic&#39;s new AI model deemed too dangerous to release publicly | ABC NEWS](https://www.youtube.com/watch?v=PLg2EUkIC78)**
+**[The Banks Know Something Terrifying About AI — And They&#39;re Not Telling You](https://www.youtube.com/watch?v=z22HnACwl7k)**
 
-AI company Anthropic has developed new technology which it says is too dangerous to release publicly. The Claude Mythos ...
+FULL EPISODE: https://youtube.com/live/Q_QHDxdeFQY The government just called an emergency meeting. Every major bank ...
 
-📺 ABC News (Australia)
+📺 BTC Sessions
 
-👁️ 39K • 👍 370 • ⏱️ 5:00 • 21h ago
+👁️ 6K • 👍 204 • 💬 365 • ⏱️ 27:15 • 21h ago
 
 ---
 
@@ -385,7 +385,7 @@ GLM-5.1 is a next-generation language model optimized for agentic engineering, f
 
 `text-generation` `753.9B`
 
-⬇️ 35,906 • ❤️ 1,156 • 2d ago
+⬇️ 84,784 • ❤️ 1,166 • 2d ago
 
 ---
 
@@ -397,19 +397,7 @@ VoxCPM2 is a 2B parameter, 30-language multilingual text-to-speech model capable
 
 `text-to-speech`
 
-⬇️ 9,301 • ❤️ 831 • 6d ago
-
----
-
-**[gemma-4-31B-it](https://huggingface.co/google/gemma-4-31B-it)**
-
-*Google*
-
-Gemma 4 31B is an instruction-tuned, multimodal LLM capable of processing text and images to generate text. It excels at reasoning, coding, and handling long contexts (256K tokens) with a hybrid attention mechanism for efficient inference, suitable for complex agentic workflows.
-
-`image-text-to-text` `32.7B`
-
-⬇️ 2,439,350 • ❤️ 1,849 • 3d ago
+⬇️ 10,899 • ❤️ 838 • 6d ago
 
 ---
 
@@ -421,7 +409,19 @@ MiniMax-M2.7 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 18,279 • ❤️ 653 • 23h ago
+⬇️ 43,645 • ❤️ 669 • 1d ago
+
+---
+
+**[gemma-4-31B-it](https://huggingface.co/google/gemma-4-31B-it)**
+
+*Google*
+
+Gemma 4 31B is an instruction-tuned, multimodal LLM capable of processing text and images to generate text. It excels at reasoning, coding, and handling long contexts (256K tokens) with a hybrid attention mechanism for efficient inference, suitable for complex agentic workflows.
+
+`image-text-to-text` `32.7B`
+
+⬇️ 2,640,636 • ❤️ 1,861 • 3d ago
 
 ---
 
@@ -433,7 +433,7 @@ Gemma-4-31B-JANG_4M-CRACK is a 31B parameter text-generation model optimized for
 
 `image-text-to-text` `6.4B`
 
-⬇️ 107,378 • ❤️ 1,035 • 3d ago
+⬇️ 117,491 • ❤️ 1,054 • 4d ago
 
 ---
 
@@ -445,7 +445,7 @@ VOID is a video-to-video diffusion model for object and interaction removal, cap
 
 `video-to-video`
 
-⬇️ 0 • ❤️ 795 • 7d ago
+⬇️ 0 • ❤️ 800 • 7d ago
 
 ---
 
@@ -457,7 +457,7 @@ OmniVoice is a massively multilingual, zero-shot text-to-speech model supporting
 
 `text-to-speech`
 
-⬇️ 460,224 • ❤️ 549 • 23h ago
+⬇️ 530,898 • ❤️ 552 • 1d ago
 
 ---
 
@@ -469,7 +469,7 @@ This image-text-to-text model, Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled, 
 
 `image-text-to-text` `27.8B`
 
-⬇️ 585,351 • ❤️ 2,623 • 8d ago
+⬇️ 588,751 • ❤️ 2,630 • 8d ago
 
 ---
 
@@ -481,7 +481,7 @@ Gemma 4 E4B is a multimodal, instruction-tuned LLM from Google DeepMind, support
 
 `any-to-any` `8.0B`
 
-⬇️ 1,394,523 • ❤️ 634 • 3d ago
+⬇️ 1,503,266 • ❤️ 638 • 3d ago
 
 ---
 
@@ -493,7 +493,7 @@ Gemma 4 31B IT NVFP4 Turbo is a highly optimized text-generation model, achievin
 
 `text-generation` `32.5B`
 
-⬇️ 28,829 • ❤️ 198 • 3d ago
+⬇️ 41,945 • ❤️ 200 • 3d ago
 
 ---
 
@@ -507,7 +507,7 @@ Gemma 4 31B IT NVFP4 Turbo is a highly optimized text-generation model, achievin
 
 Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-▲ 13 • 💬 1 • ⭐ 17,030 • 8mo ago
+▲ 15 • 💬 1 • ⭐ 17,030 • 8mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
@@ -558,7 +558,7 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
 
-▲ 156 • 💬 2 • ⭐ 59,653 • 6mo ago
+▲ 156 • 💬 2 • ⭐ 59,745 • 6mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
 
@@ -571,7 +571,7 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 51 • 💬 1 • ⭐ 76,434 • 31mo ago
+▲ 51 • 💬 1 • ⭐ 76,498 • 31mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
@@ -583,7 +583,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 AI-Trader presents the first fully automated live benchmark for evaluating large language models in financial decision-making across multiple markets with autonomous information processing.
 
-▲ 4 • 💬 0 • ⭐ 13,309 • 4mo ago
+▲ 4 • 💬 0 • ⭐ 13,339 • 4mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.10971) • [💻 code](https://github.com/HKUDS/AI-Trader) • [🔗 project](https://ai4trade.ai/)
 
@@ -613,17 +613,17 @@ LightRAG improves Retrieval-Augmented Generation by integrating graph structures
 
 ---
 
-**[RefineAnything: Multimodal Region-Specific Refinement for Perfect Local Details](https://huggingface.co/papers/2604.06870)**
+**[Fish Audio S2 Technical Report](https://huggingface.co/papers/2603.08823)**
 
-*Dewei Zhou, You Li, Zongxin Yang et al. (4 authors)*
+*Shijia Liao, Yuxuan Wang, Songting Liu et al. (14 authors)*
 
-🏢 Zhejiang University
+🏢 Fish Audio
 
-A multimodal diffusion-based model called RefineAnything is presented for region-specific image refinement that preserves backgrounds while enhancing local details, using a focus-and-refine strategy and boundary-aware loss functions.
+Fish Audio S2 is an open-source text-to-speech system with multi-speaker capabilities, multi-turn generation, and instruction-following control through natural-language descriptions, utilizing a multi-stage training approach and production-ready inference engine.
 
-▲ 36 • 💬 4 • ⭐ 70 • 6d ago
+▲ 37 • 💬 2 • ⭐ 29,507 • 1mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2604.06870) • [💻 code](https://github.com/limuloo/RefineAnything) • [🔗 project](https://limuloo.github.io/RefineAnything/)
+[🎓 arXiv](https://arxiv.org/abs/2603.08823) • [💻 code](https://github.com/fishaudio/fish-speech) • [🔗 project](https://fish.audio/)
 
 ---
 
@@ -637,7 +637,7 @@ The highest-scoring AI memory system ever benchmarked. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 45.0k • 🔱 5.8k • 3h ago
+⭐ 45.2k • 🔱 5.8k • 5h ago
 
 ---
 
@@ -647,7 +647,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 32.8k • 🔱 6.5k • 12h ago
+⭐ 32.9k • 🔱 6.5k • 14h ago
 
 ---
 
@@ -657,7 +657,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 26.7k • 🔱 1.2k • 1d ago
+⭐ 27.4k • 🔱 1.3k • 1d ago
 
 ---
 
@@ -667,7 +667,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 25.5k • 🔱 2.7k • 9h ago
+⭐ 25.7k • 🔱 2.8k • 25m ago
 
 ---
 
@@ -677,7 +677,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 7.7k • 🔱 477 • 2h ago
+⭐ 7.7k • 🔱 480 • 2m ago
 
 ---
 
@@ -697,7 +697,7 @@ LIBERATED AI CHAT
 
 `TypeScript`
 
-⭐ 4.5k • 🔱 1.0k • 19d ago
+⭐ 4.5k • 🔱 1.1k • 19d ago
 
 ---
 
@@ -707,7 +707,7 @@ The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interac
 
 `Swift` `apple-intelligence` `apple-silicon` `cli` `foundationmodels` `homebrew`
 
-⭐ 4.5k • 🔱 168 • 14h ago
+⭐ 4.5k • 🔱 168 • 16h ago
 
 ---
 
@@ -727,7 +727,7 @@ The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interac
 
 `Python`
 
-⭐ 3.8k • 🔱 631 • 1d ago
+⭐ 3.9k • 🔱 656 • 2h ago
 
 ---
 
