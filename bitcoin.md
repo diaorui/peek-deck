@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-13T23:42:35.903310+00:00'
+updated: '2026-04-14T02:39:15.196318+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - videos
+- cryptocurrency
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 13, 2026 at 23:42 UTC  
+**Last Updated:** April 14, 2026 at 02:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $74,208.41
+### $74,337.81
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +4.8%  
-**7d:** +3.0%  
-**30d:** +1.9%  
-**90d:** -23.6%  
-**1y:** -12.4%  
+**24h:** +4.7%  
+**7d:** +4.5%  
+**30d:** -0.8%  
+**90d:** -22.3%  
+**1y:** -11.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1466.53B
+**Market Cap:** $1487.86B
 Rank #1
 
-**Circulating Supply:** 20,015,418 BTC
+**Circulating Supply:** 20,015,490 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--41.9%
+-41.0%
 
 **All-Time Low:** $67.81
-+107931.3%
++109515.1%
 
 ---
 
@@ -79,17 +79,33 @@ Rank #1
 
 **[Bro and his Bitcoin story](https://www.reddit.com/r/Bitcoin/comments/1skdb4b/bro_and_his_bitcoin_story/)**
 
-8h ago
+11h ago
+
+---
+
+**[Why the sudden rise?](https://www.reddit.com/r/Bitcoin/comments/1skqbd6/why_the_sudden_rise/)**
+
+I can’t find any reasonable explanation of the price rise. Any suggestions?
+
+4h ago
+
+---
+
+**[Sorry bears, go back to sleep.](https://www.reddit.com/r/Bitcoin/comments/1sknd1v/sorry_bears_go_back_to_sleep/)**
+
+5h ago
 
 ---
 
 **[Andreas Antonopoulos used to have brilliant speeches.](https://www.reddit.com/r/Bitcoin/comments/1skc1n6/andreas_antonopoulos_used_to_have_brilliant/)**
 
-9h ago
+12h ago
 
 ---
 
-**[Sorry bears, go back to sleep.](https://www.reddit.com/r/Bitcoin/comments/1sknd1v/sorry_bears_go_back_to_sleep/)**
+**[Over a trillion dollars in interest annually. (The cost to service the US debt.)](https://www.reddit.com/r/Bitcoin/comments/1skreir/over_a_trillion_dollars_in_interest_annually_the/)**
+
+I am bailing on this disaster. I am putting it all into bitcoin. Not to try and make money but to literally save my life.
 
 3h ago
 
@@ -99,7 +115,7 @@ Rank #1
 
 Wealth isn’t gold, it’s energy. By 2000, there will be a scientific accounting system for wealth, aligned with the laws of physics.
 
-10h ago
+13h ago
 
 ---
 
@@ -107,31 +123,7 @@ Wealth isn’t gold, it’s energy. By 2000, there will be a scientific accounti
 
 Stack BTC said the purchase was a ‘landmark moment’ in British politics
 
-🔗 [The Independent](https://www.independent.co.uk/news/uk/politics/nigel-farage-crypto-richard-tice-tax-kwarteng-b2956538.html) • 4h ago
-
----
-
-**[We may not like it (I sure don't) but we'll be getting wealth taxes and UBI. Jackson explains why on the latest TLT](https://www.reddit.com/r/Bitcoin/comments/1skcnau/we_may_not_like_it_i_sure_dont_but_well_be/)**
-
-No one questions the root cause, why do prices constantly increase? The money is broken, and everything is downstream of that.
-
-9h ago
-
----
-
-**[Why the sudden rise?](https://www.reddit.com/r/Bitcoin/comments/1skqbd6/why_the_sudden_rise/)**
-
-I can’t find any reasonable explanation of the price rise. Any suggestions?
-
-1h ago
-
----
-
-**[I made an easily embeddable Bitcoin price ticker. WDYT?](https://www.reddit.com/r/Bitcoin/comments/1skgkxn/i_made_an_easily_embeddable_bitcoin_price_ticker/)**
-
-Instead of getting API keys from Coingecko, Coinmarketcap or wherever, handling JSON responses and styling it youself, you can now put a Bitcoin price by just dropping an image wherever adding images by URL is supported. The options are pretty limited for now (BTC/USD only, SVG or PNG, 2 sizes). There's also a caveat: it doesn't work if the site you're putting it on is mirroring or caching it. Such sites usually wouldn't allow you to put in JS either, so it still should work in more places than API-based JS feeds and it's much easier to integrate. Free to use, open source, no ads. You can find it at https://btcimg.io Wdyt?
-
-6h ago
+🔗 [The Independent](https://www.independent.co.uk/news/uk/politics/nigel-farage-crypto-richard-tice-tax-kwarteng-b2956538.html) • 7h ago
 
 ---
 
@@ -139,13 +131,23 @@ Instead of getting API keys from Coingecko, Coinmarketcap or wherever, handling 
 
 How to to invest in bitcoin
 
-3h ago
+6h ago
 
 ---
 
-**[DCA and HOLD your Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1sjdeeo/dca_and_hold_your_bitcoin/)**
+**[We may not like it (I sure don't) but we'll be getting wealth taxes and UBI. Jackson explains why on the latest TLT](https://www.reddit.com/r/Bitcoin/comments/1skcnau/we_may_not_like_it_i_sure_dont_but_well_be/)**
 
-1d ago
+No one questions the root cause, why do prices constantly increase? The money is broken, and everything is downstream of that.
+
+12h ago
+
+---
+
+**[I made an easily embeddable Bitcoin price ticker. WDYT?](https://www.reddit.com/r/Bitcoin/comments/1skgkxn/i_made_an_easily_embeddable_bitcoin_price_ticker/)**
+
+Instead of getting API keys from Coingecko, Coinmarketcap or wherever, handling JSON responses and styling it youself, you can now put a Bitcoin price by just dropping an image wherever adding images by URL is supported. The options are pretty limited for now (BTC/USD only, SVG or PNG, 2 sizes). There's also a caveat: it doesn't work if the site you're putting it on is mirroring or caching it. Such sites usually wouldn't allow you to put in JS either, so it still should work in more places than API-based JS feeds and it's much easier to integrate. Free to use, open source, no ads. You can find it at https://btcimg.io Wdyt?
+
+9h ago
 
 ---
 
@@ -157,29 +159,29 @@ How to to invest in bitcoin
 
 The Reform UK leader is a shareholder in British bitcoin company Stack and appeared in a promotional video.
 
-BBC • 3h ago
+BBC • 6h ago
 
 ---
 
-**[Crypto funds pull in $1.1 billion as bitcoin products lead strongest inflow week since January: CoinShares](https://www.theblock.co/post/397191/crypto-funds-pull-in-1-1-billion-as-bitcoin-products-lead-strongest-inflow-week-since-january-coinshares)**
+**[Bitcoin slides to $71,000 after Trump's blockade order in Strait of Hormuz](https://www.theblock.co/post/397147/bitcoin-trump-blockade-hormuz)**
 
-Crypto funds brought in $1.1 billion last week, their strongest inflow since January, as inflation and geopolitical tensions eased.
+High-level negotiations between the US and Iran failed to reach a meaningful resolution earlier on Sunday.
 
-The Block • 12h ago
-
----
-
-**[Bitcoin steady at $71.5k as U.S.-Iran talks fall through, Hormuz blockade looms](https://www.investing.com/news/cryptocurrency-news/bitcoin-dips-to-71k-as-usiran-talks-fall-through-hormuz-blockade-looms-4609268)**
-
-Investing.com • 9h ago
+The Block • 1d ago
 
 ---
 
-**[From Sanctions Target To Bitcoin Power Move: Iran’s Hormuz Strategy Explained](https://bitcoinmagazine.com/politics/why-iran-wants-bitcoin-for-safe-passage-though-the-strait-of-hormuz)**
+**[How The Iran War Is Repricing Bitcoin](https://bitcoinmagazine.com/bitcoin-for-corporations/iran-war-reprice-bt)**
 
-While Trump calls for free passage, Iran is leveraging Bitcoin’s neutrality to monetize its grip on 20% of global oil flows. This could reshape mining power and energy markets overnight.
+The Iran War is bringing trustless payments back to the forefront. The market is reacting.
 
-Bitcoin Magazine • 9h ago
+Bitcoin Magazine • 14h ago
+
+---
+
+**[Bitcoin (BTC) Climbs to Four-Week High on Hopes of US-Iran Peace Talks](https://www.bloomberg.com/news/articles/2026-04-14/bitcoin-climbs-to-four-week-high-on-hopes-of-us-iran-peace-talks)**
+
+Bloomberg.com • 1h ago
 
 ---
 
@@ -187,7 +189,7 @@ Bitcoin Magazine • 9h ago
 
 Cryptocurrency bitcoin (BTC-USD) is trading above $71,000 per token on Monday after President Trump ordered an US blockade to the Strait of Hormuz after the collapse of ceasefire talks with Iranian officials. Market Catalysts Host Julie Hyman takes a closer look at the crypto market and how crypto-related stocks are trading to start the week.
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -195,37 +197,37 @@ Yahoo Finance • 8h ago
 
 Jonathan Krinsky, BTIG chief market technician, joins 'Closing Bell' to discuss his outlook on software stocks.
 
-CNBC • 3h ago
+CNBC • 6h ago
 
 ---
 
-**[Where Will Bitcoin Be in 10 Years?](https://www.fool.com/investing/2026/04/13/where-will-bitcoin-be-in-10-years/)**
+**[How Much Should You Allocate To Crypto? Schwab Says Even A Small Allocation To Bitcoin And Ethereum Can Significantly Affect Performance](https://finance.yahoo.com/markets/crypto/articles/much-allocate-crypto-schwab-says-131603272.html)**
 
-Investors with the right mindset are thinking about the digital asset far into the future, as opposed to a short-term focus.
+There is no one-size-fits-all cryptocurrency allocation, according to Charles Schwab Corporation (NYSE:SCHW). Schwab Director of Digital Currencies Research and Strategy Jim Ferraioli said in a report last week that investors could determine cryptocurrency allocations either through traditional portfolio theory or...
 
-The Motley Fool • 2h ago
+Yahoo Finance • 13h ago
+
+---
+
+**[Bitcoin Price Skyrockets 6% Near $75,000 as Short Liquidations Accelerate](https://bitcoinmagazine.com/markets/bitcoin-price-skyrockets-6-past-75000)**
+
+Bitcoin price surged over 5% to near $75,000 after days of range-bound trading
+
+Bitcoin Magazine • 2h ago
 
 ---
 
 **['First Crypto Bank'—Kraken's Fed Approval Sparks $100K Bitcoin Warning](https://www.forbes.com/sites/digital-assets/2026/04/12/first-crypto-bank-krakens-fed-approval-sparks-100k-bitcoin-warning/)**
 
-Forbes • 23h ago
+Forbes • 1d ago
 
 ---
 
-**[BItcoin price news: BTC retakes $73,000 as oil gives up gains, stocks advance](https://www.coindesk.com/markets/2026/04/13/bitcoin-erases-weekend-decline-returns-to-usd73-400-as-oil-retreats-back-under-usd100)**
+**[Music superstar loses retirement fund to fake app](https://www.thestreet.com/crypto/markets/music-superstar-loses-retirement-fund-to-fake-app)**
 
-Risk assets shrugged off the failed weekend negotiations between the U.S. and Iran, and the U.S. blockade of the Strait of Hormuz.
+American musician loses retirement fund saved in digital assets.
 
-CoinDesk • 3h ago
-
----
-
-**[Bitcoin Faces Selling Strain Above $70K as Wall Street Signals Correction Near End](https://bitcoinmagazine.com/news/bitcoin-faces-selling-strain-above-70k)**
-
-Bitcoin is struggling to break above $70K as profit-taking caps rallies, even as Wall Street firms grow more bullish on equities amid signs the recent correction may be ending.
-
-Bitcoin Magazine • 9h ago
+thestreet.com • 6h ago
 
 ---
 
@@ -235,7 +237,7 @@ Bitcoin Magazine • 9h ago
 
 **[Who is Satoshi Nakamoto? My quest to unmask Bitcoin's creator](https://news.ycombinator.com/item?id=47685320)**
 
-⬆️ 632 • 💬 835 • 5d ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)
+⬆️ 633 • 💬 835 • 5d ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)
 
 ---
 
@@ -243,7 +245,7 @@ Bitcoin Magazine • 9h ago
 
 The average production cost was sitting at $88,000 per bitcoin in mid-March, according to Checkonchain's difficulty regression model.
 
-⬆️ 239 • 💬 225 • 2d ago • [coindesk.com](https://www.coindesk.com/markets/2026/03/22/bitcoin-miners-are-losing-usd19-000-on-every-btc-produced-as-difficulty-drops-7-8)
+⬆️ 240 • 💬 226 • 2d ago • [coindesk.com](https://www.coindesk.com/markets/2026/03/22/bitcoin-miners-are-losing-usd19-000-on-every-btc-produced-as-difficulty-drops-7-8)
 
 ---
 
@@ -259,7 +261,7 @@ Country’s oil exporters’ union says toll to be paid in cryptocurrency and ve
 
 Neha Narula
 
-⬆️ 169 • 💬 138 • 6d ago • [nehanarula.org](https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html)
+⬆️ 170 • 💬 138 • 6d ago • [nehanarula.org](https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html)
 
 ---
 
@@ -267,7 +269,7 @@ Neha Narula
 
 Arkham data shows 8,285 BTC in Coinbase Prime custody as the company swings from $8 billion profit to nearly $5 billion loss ahead of its IPO push.
 
-⬆️ 26 • 💬 9 • 1d ago • [coindesk.com](https://www.coindesk.com/markets/2026/04/11/musk-s-spacex-holds-usd603-million-in-bitcoin-despite-usd5-billion-loss-stemming-from-xai)
+⬆️ 27 • 💬 9 • 1d ago • [coindesk.com](https://www.coindesk.com/markets/2026/04/11/musk-s-spacex-holds-usd603-million-in-bitcoin-despite-usd5-billion-loss-stemming-from-xai)
 
 ---
 
@@ -317,77 +319,47 @@ Bitcoin #Crypto #Finance ➡️Trade with us on Bitunix and claim your exclusive
 
 📺 DataDash
 
-👁️ 2K • 👍 186 • 💬 12 • ⏱️ 22:13 • 7h ago
+👁️ 5K • 👍 271 • 💬 53 • ⏱️ 22:13 • 10h ago
 
 ---
 
-**[Bitcoin Under MAJOR Pressure As Trump Tensions Peak! What Happens Next?](https://www.youtube.com/watch?v=CLdQDf8ysE4)**
+**[Why Bitcoin’s Supply Shock is ALREADY Here](https://www.youtube.com/watch?v=Uuquk67tAFY)**
 
-bitcoin #oilcrisis #finance Bitcoin keeps running into a wall of selling above $70K — roughly $20M/hour in profit-taking — and now ...
+JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investanswers.io/indicators 🏖️ IA RETIRE ON: ...
 
-📺 The Wolf Of All Streets
+📺 InvestAnswers
 
-👁️ 16K • 👍 891 • 💬 266 • ⏱️ 1:04:57 • 9h ago
-
----
-
-**[ALERT: Whales Just Bought $526 Million MORE Bitcoin! (This Pattern Says EVERYTHING)](https://www.youtube.com/watch?v=pxYZHp_N6Ok)**
-
-Bitcoin just dropped hard as geopolitical tension spikes, but the real story is what smart money is doing right now. This breakdown ...
-
-📺 Simply Bitcoin
-
-👁️ 28K • 👍 2K • 💬 129 • ⏱️ 16:31 • 1d ago
+👁️ 17K • 👍 2K • 💬 87 • ⏱️ 23:49 • 4h ago
 
 ---
 
-**[Bitcoin Holders: The World’s Most Powerful Reset Is Starting](https://www.youtube.com/watch?v=-F5m4LYFGZE)**
+**[SAYLOR&#39;S ENDGAME IS HERE - STRATEGY TO 2 MILLION BITCOIN BY 2027](https://www.youtube.com/watch?v=3BgmsBMlgKA)**
 
-Trump RESET, Iran deal, Strait of Hormuz, and Bitcoin, Ethereum, and more BITUNIX TRADE THE TOP COINS (available ...
+Follow me on X for my best content: http://www.X.com/AdamBLiv Transform Dormant Home Equity into Bitcoin with Horizon: ...
 
-📺 Lark Davis
+📺 Adam Livingston
 
-👁️ 12K • 👍 691 • 💬 103 • ⏱️ 14:10 • 12h ago
-
----
-
-**[&quot;Bitcoin Will Bottom When This Happens&quot; | Ben Cowen](https://www.youtube.com/watch?v=3KpN_F3VyRI)**
-
-Bitcoin #Crypto #Finance Ben Cowen joins me to break down why Bitcoin still looks like it's following the same midterm-year ...
-
-📺 The Wolf Of All Streets
-
-👁️ 44K • 👍 2K • 💬 653 • ⏱️ 30:53 • 1d ago
+👁️ 4K • 👍 496 • 💬 88 • ⏱️ 19:40 • 6h ago
 
 ---
 
-**[IT&#39;S OVER.](https://www.youtube.com/watch?v=6Vnr4SHQ_rM)**
+**[Bitcoin And Wall Street Both At A Turning Point](https://www.youtube.com/watch?v=3wlth8blq8U)**
 
-Ran explains that markets are shifting as geopolitics, especially the escalating Iran war after failed negotiations and Trump's ...
+Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FREE Crypto Predictions & Compete Weekly ...
 
-📺 Crypto Banter
+📺 CryptosRUs
 
-👁️ 16K • 👍 2K • 💬 47 • ⏱️ 26:37 • 9h ago
-
----
-
-**[Bitcoin &amp; AI Will DOMINATE The Next Rotation](https://www.youtube.com/watch?v=urhiMNIk27Q)**
-
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
-
-📺 Anthony Pompliano
-
-👁️ 62K • 👍 3K • 💬 126 • ⏱️ 52:49 • 2d ago
+👁️ 4K • 👍 469 • 💬 117 • ⏱️ 8:20 • 2h ago
 
 ---
 
-**[Bitcoin Pullback In Play Next Trades I’m Watching](https://www.youtube.com/watch?v=B2PRIE0ANWE)**
+**[No CLARITY Causing Ultimate Black Swan Crash?🔥Crypto Market Update🚨](https://www.youtube.com/watch?v=jCc0Ekunqm0)**
 
-Bitcoin is showing signs of a potential pullback, and in this video Sheldon breaks down what's really happening behind the ...
+One of World Liberty Financial's biggest investors accused the company of “treating the crypto community as a personal ATM.
 
-📺 Crypto Banter
+📺 Paul Barron Network
 
-👁️ 5K • 👍 440 • 💬 13 • ⏱️ 26:15 • 13h ago
+👁️ 48K • 👍 3K • 💬 238 • ⏱️ 15:11 • 7h ago
 
 ---
 
@@ -397,17 +369,47 @@ Morgan Stanley LEAKED their future bitcoin plan - sounds like their eliminating 
 
 📺 Simply Bitcoin
 
-👁️ 4K • 👍 273 • 💬 31 • ⏱️ 1:24:58 • 4h ago
+👁️ 6K • 👍 319 • 💬 17 • ⏱️ 1:24:58 • 7h ago
 
 ---
 
-**[Massive Bitcoin News You May Have Missed (Iran &amp; Morgan Stanley)](https://www.youtube.com/watch?v=LJKAZk9bbtI)**
+**[The Case for $50M Bitcoin and Patrick Witt &#39;Cautiously Optimistic&#39; on Clarity Act](https://www.youtube.com/watch?v=g9lXL0lZnj0)**
 
-BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 ✓ Bitunix (no kyc, $10k bonus): ...
+On this episode of CoinDesk's Public Keys at the New York Stock Exchange, Jennifer Sanasie is joined by White House Executive ...
+
+📺 CoinDesk
+
+👁️ 2K • 👍 88 • 💬 7 • ⏱️ 34:41 • 8h ago
+
+---
+
+**[ALERT: Whales Just Bought $526 Million MORE Bitcoin! (This Pattern Says EVERYTHING)](https://www.youtube.com/watch?v=pxYZHp_N6Ok)**
+
+Bitcoin just dropped hard as geopolitical tension spikes, but the real story is what smart money is doing right now. This breakdown ...
+
+📺 Simply Bitcoin
+
+👁️ 29K • 👍 2K • 💬 113 • ⏱️ 16:31 • 1d ago
+
+---
+
+**[Bitcoin Golden Cross Confirmed](https://www.youtube.com/watch?v=XNNAcytZjkQ)**
+
+Nick Valdez looks at the recent GOLD/BTC chart moves and what it might spell for future price action of the 2 major assets!
+
+📺 Discover Crypto
+
+👁️ 3K • 👍 191 • 💬 109 • ⏱️ 7:13 • 4h ago
+
+---
+
+**[I Just Discovered the &#39;Rocket Fuel&#39; That Will Explode Crypto](https://www.youtube.com/watch?v=zlK-i6eLDNA)**
+
+Subscribe to Jordi: https://www.youtube.com/@JordiVisserLabs BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: ...
 
 📺 Altcoin Daily
 
-👁️ 50K • 👍 2K • 💬 412 • ⏱️ 12:09 • 2d ago
+👁️ 4K • 👍 523 • 💬 25 • ⏱️ 10:18 • 1h ago
 
 ---
 
