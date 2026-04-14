@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-14T20:56:27.333994+00:00'
+updated: '2026-04-14T21:54:38.059991+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 14, 2026 at 20:56 UTC  
+**Last Updated:** April 14, 2026 at 21:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 OpenArm is an open-source humanoid arm platform developed by Enactic in Tokyo. It includes full CAD files, control code, firmware, and simulation tools, allowing users to build, modify, and test the system themselves. The arms are compliant and backdrivable, with teleoperation support that includes force feedback and gravity compensation. It also integrates with MuJoCo and Isaac Sim, enabling simulation-first development before running on real hardware. Project page: https://github.com/enactic/OpenArm
 
-3h ago
+4h ago
 
 ---
 
@@ -44,7 +44,7 @@ OpenArm is an open-source humanoid arm platform developed by Enactic in Tokyo. I
 
 Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/2043873782620926032
 
-10h ago
+11h ago
 
 ---
 
@@ -60,7 +60,7 @@ Two weeks ago, I quit my job at a robotics company. I didn't have another offer 
 
 Check out why we built determinism as a core principle for our open source copper-rs project. Imagine being able to instantly reproduce deterministically any bug on your robotics platform, just jumping at the time the mistake happened, fix it, compare and never regress. https://youtu.be/eMpEeXYkQDw
 
-1h ago
+2h ago
 
 ---
 
@@ -82,7 +82,7 @@ Zack Jackowski, VP of Atlas Product at Boston Dynamics, explains that the first 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/pY5s8RPUAwo?si=GtUB0T0mQDFhVWyd) • 3h ago
+🔗 [youtu.be](https://youtu.be/pY5s8RPUAwo?si=GtUB0T0mQDFhVWyd) • 4h ago
 
 ---
 
@@ -90,7 +90,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 This is a concept I worked on for a company a while ago. Using movement primitives, we wanted to explore how well a robot can plan tasks and then run them in simulation. The verdict was that it's surprisingly powerful. I go into detail how it works on my blogpost https://boesch.dev/posts/llm-trajectory/, but the gist is that composite movement primitives with higher order primitives can lead to a very rich set of tools for LLM task planning. Try the demo here: https://llm-trajectory.boesch.dev/ Or run it yourself with a more powerful LLM: https://github.com/Encrux/llm_trajectory
 
-23h ago
+1d ago
 
 ---
 
@@ -98,7 +98,7 @@ This is a concept I worked on for a company a while ago. Using movement primitiv
 
 Hi all, We’re running a live quadruped robot combat event and would genuinely value input from this community. The concept is to create a competitive format where engineers and roboticists can push their machines in a controlled, real-world environment. Think of it as an intersection of robotics research, sport, and entertainment. The first pilot is planned for 3 July at Outernet in London. Would you consider competing in something like this? What technical or safety considerations would be essential? What rules or constraints would make it credible and worthwhile? Has anyone here worked on quadrupeds in competitive or high-stress environments? If you’ve built with platforms like Unitree or similar systems, your perspective would be especially valuable. Happy to share more context if helpful, and keen to hear your thoughts.
 
-5h ago
+6h ago
 
 ---
 
@@ -106,7 +106,7 @@ Hi all, We’re running a live quadruped robot combat event and would genuinely 
 
 so guys, what are your thoughts on it ?Is it a big deal? currently, who is the most advanced humanoid robot closer to holygrail , Is it figure or agibot ? or someone else ,both figure and agibot, uses VLA, right? and not the world model. so how far along are we ? i feel like the only thing missing is lifelong learning with the right framework of reinforcement learning. so among unitree, agibot , ubtech, optimus , atlas ,figure. can you rank these players based on superior tech ,smarter and more cabablity and also. who do you think will dominate the future of humanoid robotics ? and why? i want to the opinions of experts too ,ideally ai and humanoid robotics researcher and engineer. to understand their perspective on advancements in Ai humanoid robotics. is the day when robots can live with us, speak with us, and be our partners, helping us achieve our goals do task on our laptop and household chores and even protect us ,how far away is that day? is it truly that far, as people make it to be? and who do you think will get us there ?
 
-8h ago
+9h ago
 
 ---
 
@@ -118,7 +118,7 @@ so guys, what are your thoughts on it ?Is it a big deal? currently, who is the m
 
 Gemini Robotics ER 1.6 upgrades spatial reasoning and multi-view understanding, unlocking new capabilities like instrument reading for autonomous robots.
 
-Google DeepMind • 5h ago
+Google DeepMind • 6h ago
 
 ---
 
@@ -126,7 +126,7 @@ Google DeepMind • 5h ago
 
 An overview of Gemini Robotics-ER 1.6, an upgrade to our reasoning-first model that helps robots to understand their environment.
 
-blog.google • 5h ago
+blog.google • 6h ago
 
 ---
 
@@ -134,13 +134,13 @@ blog.google • 5h ago
 
 The addition of Gemini Robotics brings embodied AI reasoning to inspection robots
 
-IEEE Spectrum • 1h ago
+IEEE Spectrum • 2h ago
 
 ---
 
 **[First victory for the battle brigade run by robots alone](https://www.thetimes.com/world/russia-ukraine-war/article/ukraine-robot-army-war-russia-surrender-jvld9rllc)**
 
-The Times • 9h ago
+The Times • 10h ago
 
 ---
 
@@ -148,19 +148,19 @@ The Times • 9h ago
 
 The owner of a robot delivery service is trying to turn a shattering experience into a good laugh.
 
-ABC7 Chicago • 3h ago
+ABC7 Chicago • 4h ago
 
 ---
 
 **[30 Under 30 Europe Manufacturing & Industry 2026: The Builders Bringing AI, Robotics And Data To Industry](https://www.forbes.com/sites/alanohnsman/2026/04/14/30-under-30-europe-manufacturing--industry-2026-the-builders-bringing-ai-robotics-and-data-to-industry/)**
 
-Forbes • 16h ago
+Forbes • 17h ago
 
 ---
 
 **[Hyundai Motor Chairman Doubles Down On AI And Robotics](https://www.forbes.com/sites/catzxwang/2026/04/13/hyundai-motor-chairman-doubles-down-on-ai-and-robotics/)**
 
-Forbes • 23h ago
+Forbes • 1d ago
 
 ---
 
@@ -198,7 +198,17 @@ Boston Dynamics just did what most people thought would take years longer. Atlas
 
 📺 AI Revolution
 
-👁️ 30K • 👍 1K • 💬 87 • ⏱️ 21:49 • 21h ago
+👁️ 32K • 👍 1K • 💬 93 • ⏱️ 21:49 • 21h ago
+
+---
+
+**[LIVE: AI and Robotics: Where Do We Go From Here](https://www.youtube.com/watch?v=BwRJ-aWb0Gc)**
+
+AI and robotics will impact our economy, our politics, our privacy, our emotional well-being, our environment, and even our ...
+
+📺 Senator Bernie Sanders
+
+👁️ 4K • 👍 506 • 💬 28 • ⏱️ 1:03:51 • 1h ago
 
 ---
 
@@ -208,17 +218,17 @@ Chinese humanoid robots train to go head-to-head with human runners in the secon
 
 📺 NBC News
 
-👁️ 59K • 👍 479 • 💬 179 • ⏱️ 1:59 • 20h ago
+👁️ 61K • 👍 491 • 💬 182 • ⏱️ 1:59 • 21h ago
 
 ---
 
-**[Elon Musk’s New Tesla Optimus Robot Looks Shockingly Human](https://www.youtube.com/watch?v=MbqMwLHx8-4)**
+**[Smarter Inspections Powered by Google Gemini Robotics | Boston Dynamics](https://www.youtube.com/watch?v=kBwxmlI2yHQ)**
 
-A new wave of attention is building around Elon Musk's latest version of the Tesla Optimus robot, which is being described as ...
+The introduction of AI Visual inspections expanded what Spot and Orbit could tell you about your facility - now, AIVI-Learning ...
 
-📺 Carros Show
+📺 Boston Dynamics
 
-👁️ 7K • 👍 172 • 💬 30 • ⏱️ 8:01 • 23h ago
+👁️ 11K • 👍 772 • 💬 72 • ⏱️ 1:40 • 6h ago
 
 ---
 
@@ -228,17 +238,17 @@ Try Seedance 2.0 with Claude on Higgsfield: https://higgsfield.ai/s/seedance-2-0
 
 📺 AI Revolution
 
-👁️ 90K • 👍 1K • 💬 172 • ⏱️ 14:57 • 2d ago
+👁️ 91K • 👍 1K • 💬 173 • ⏱️ 14:57 • 2d ago
 
 ---
 
-**[Why Every Tech Expert is Now Watching This New AI Robot](https://www.youtube.com/watch?v=bwBYN9hun84)**
+**[Elon Musk’s New Tesla Optimus Robot Looks Shockingly Human](https://www.youtube.com/watch?v=MbqMwLHx8-4)**
 
-Imagine a task so delicate it's been the "holy grail" of engineering for three decades. We're talking about handling things that fold, ...
+A new wave of attention is building around Elon Musk's latest version of the Tesla Optimus robot, which is being described as ...
 
-📺 PRO ROBOTS
+📺 Carros Show
 
-👁️ 40K • 👍 646 • 💬 44 • ⏱️ 6:30 • 6d ago
+👁️ 8K • 👍 180 • 💬 30 • ⏱️ 8:01 • 1d ago
 
 ---
 
@@ -248,47 +258,37 @@ Could AI become dangerous? Can we trust AI Agents? AGI. Use code insideai at htt
 
 📺 InsideAI
 
-👁️ 640K • 👍 24K • 💬 2K • ⏱️ 16:24 • 5d ago
+👁️ 652K • 👍 25K • 💬 2K • ⏱️ 16:24 • 5d ago
 
 ---
 
-**[Toyota unveils AI basketball robot CUE7](https://www.youtube.com/watch?v=Nm3fEub7U4w)**
+**[Why Every Tech Expert is Now Watching This New AI Robot](https://www.youtube.com/watch?v=bwBYN9hun84)**
 
-Toyota Motor Corp. showcased its latest AI-powered basketball robot, CUE7, showcasing advances in AI robotics. The robot will ...
+Imagine a task so delicate it's been the "holy grail" of engineering for three decades. We're talking about handling things that fold, ...
 
-📺 Al Jazeera English
+📺 PRO ROBOTS
 
-👁️ 95K • 👍 413 • 💬 64 • ⏱️ 0:42 • 2d ago
-
----
-
-**[Robot Arm Mechanism | How Would You Rate This Build? 🤗 #robotics #engineering #mechanism](https://www.youtube.com/watch?v=dFu_nU5GKAE)**
-
-This video showcases the sophisticated mechanics of a 2-DOF robotic wrist, a critical assembly within a 5-DOF robotic arm system ...
-
-📺 mechdesign98
-
-👁️ 1.0M • 👍 6K • 💬 59 • ⏱️ 0:06 • 4d ago
+👁️ 41K • 👍 647 • 💬 44 • ⏱️ 6:30 • 6d ago
 
 ---
 
-**[South Korea Is Building Robots the World Didn’t See Coming!](https://www.youtube.com/watch?v=H09m8a3oL_4)**
+**[I&#39;m not sure about those ULTIMATE MOLOTS [War Robots]](https://www.youtube.com/watch?v=_bof6bF1siU)**
 
-South Korea is building robots you've only seen in movies, from giant walking machines to exoskeletons that give people back ...
+War Robots Gameplay: Ultimate Molots for the first time My War Robots Creator Link: https://wr.my.games/manni - Code: 'manni' ...
 
-📺 DeCode
+📺 Manni-Gaming
 
-👁️ 58K • 👍 1K • 💬 97 • ⏱️ 14:45 • 5d ago
+👁️ 5K • 👍 300 • 💬 37 • ⏱️ 18:17 • 8h ago
 
 ---
 
-**[Humanoid robots take over manual job at auto parts plant](https://www.youtube.com/watch?v=JMxKpo_Llt8)**
+**[Ukraine’s New Combat Robots are Absolutely Shredding Russia Right Now](https://www.youtube.com/watch?v=RvDmz7cBAcE)**
 
-Humanoid robots are being used for some manual tasks at the Schaeffler auto parts plant in Cheraw, S.C. Proponents argue that ...
+Go to https://www.artwine.com to get your limited bottle of Ukrainian sparkling wine, rescued from the cellars of Bakhmut. Must be ...
 
-📺 NBC News
+📺 Paul Warburg
 
-👁️ 123K • 👍 2K • 💬 855 • ⏱️ 4:56 • 4d ago
+👁️ 252K • 👍 20K • 💬 1K • ⏱️ 31:17 • 2d ago
 
 ---
 

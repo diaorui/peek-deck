@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-14T20:56:27.331232+00:00'
+updated: '2026-04-14T21:54:38.056823+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
-- videos
 - social
+- videos
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 14, 2026 at 20:56 UTC  
+**Last Updated:** April 14, 2026 at 21:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $279.05B
+**Market Cap:** $279.88B
 Rank #2
 
 **Circulating Supply:** 120,690,992 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--53.3%
+-53.0%
 
 **All-Time Low:** $0.43
-+533842.8%
++536263.2%
 
 ---
 
@@ -80,7 +80,7 @@ Man I was looking at some recent governance votes across a few protocols and the
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 A fake Ledger Live clone sat on Apple's App Store for seven days and drained $9.5 million from 50 victims across Bitcoin, Ethereum, Solana, Tron and XRP. Apple's review process, which promises to protect users, let it through. Then removed it after the damage was done.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/fake-ledger-app-apple-app-store-9-million-drained/) • 2h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/fake-ledger-app-apple-app-store-9-million-drained/) • 3h ago
 
 ---
 
@@ -97,7 +97,7 @@ A fake Ledger Live clone sat on Apple's App Store for seven days and drained $9.
 Coinbase AgentKit Prompt Injection: Wallet Drain, Infinite Approvals, and Agent-Level RCE Reported 13 days after Coinbase launched Agentic Wallets. Validated by Coinbase. Demonstrated on-chain. Published: April 11, 2026 CVE status: Pending assignment
 Coinbase AgentKit is developer infrastructure for building AI agents with direct access to wallets, token operations, DeFi actions, and related execution surfaces. This disclosure covers a prompt injection vulnerability in AgentKit that allowed attacker-controlled input to trigger sensitive tool execution without a built-in human confirmation step.
 
-🔗 [x402warden](https://x402warden.com/research/coinbase-agentkit-prompt-injection/) • 23h ago
+🔗 [x402warden](https://x402warden.com/research/coinbase-agentkit-prompt-injection/) • 1d ago
 
 ---
 
@@ -135,7 +135,7 @@ I permanently lost $2,000 USD value trying to stake via direct contract interact
 
 There’s a lot of focus lately on calldata in the context of rollups and EIP-2028 gas economics (16 vs 4 gas per byte). While data availability is important, I often see the actual low-level execution mechanics get glossed over. I wrote a deep dive on EVM internals covering this exact topic. If you've ever wondered what happens at the opcode level the millisecond your transaction payload hits a smart contract, here is the actual lifecycle of calldata: The Raw Byte Handoff & The 4-Byte Check When a transaction is sent, the EVM doesn't understand "functions" or "parameters", it just sees a raw hex-encoded blob in a read-only area called calldata. Before anything else, the EVM checks the length of this data: The Function Dispatcher (The EVM's Switchboard) If there is data, the EVM runs the dispatcher essentially a giant, compiler-generated switch/case statement: If it finds a match, it uses JUMPI to move the Program Counter to that specific block of code. ABI Decoding & Stack Loading Once the EVM jumps to the right function, it has to "unpack" the arguments: Dynamic Types (string, bytes[]): The calldata contains an offset (a pointer). The EVM reads this offset, jumps to that position in the calldata, reads the length prefix, and then processes the actual data. The payable Word Before executing any actual business logic, the EVM checks the callvalue (msg.value). If the target function is not explicitly marked as payable, but the transaction includes ETH, the EVM triggers a REVERT right here. This prevents trapped funds and happens before your code even starts running. memory vs. calldata Execution This is where the famous gas savings come in during execution: If a function parameter is declared as memory, the EVM is forced to use CALLDATACOPY to move the read-only bytes into mutable memory. This triggers memory expansion gas costs. If declared as calldata, the EVM skips the copy process entirely. It just uses CALLDATALOAD to read directly from the original transaction payload, saving you the memory expansion overhead. source/deep dive overview: https://andreyobruchkov1996.substack.com/p/what-actually-happens-when-calldata
 
-1d ago
+2d ago
 
 ---
 
@@ -187,7 +187,7 @@ Decrypt • 1d ago
 
 The organization unveiled a new initiative aimed at tackling a persistent challenge in crypto development—the high cost of smart contract security audits.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -195,7 +195,7 @@ CoinDesk • 2h ago
 
 For the first time since mid-March, Bitcoin (CRYPTO: BTC) is back above $75,000. The Bitcoin price had been ranging below $70,000 for more than a month, with every rally getting cut short by the bearish pressure the Middle East war has put on the market. Right now, the whole market is surging—Bitcoin has climbed 5.9%, ... Bitcoin Hits $75,000 as XRP, Ethereum, and Solana All Surge: Is the Crypto Bull Run Starting?
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -209,13 +209,13 @@ Barron's • 1d ago
 
 The rally has seen Bitcoin price rise to around $75,000 after falling as low as almost $60,000 in recent months.
 
-Fortune • 4h ago
+Fortune • 5h ago
 
 ---
 
 **[Ethereum Price Prediction: Pepeto Hits $9M Raised While ETH Bounces 12,24% on Record ETF Inflows](https://www.binance.com/en/square/post/312541119359905)**
 
-Binance • 1h ago
+Binance • 2h ago
 
 ---
 
@@ -237,7 +237,7 @@ BloFin - No KYC/No VPN needed [Trade ETH Coin Futures!] https://marzell.org/Blof
 
 📺 Marzell Crypto
 
-👁️ 573 • 👍 27 • 💬 119 • ⏱️ 5:01 • 15h ago
+👁️ 627 • 👍 27 • 💬 121 • ⏱️ 5:01 • 16h ago
 
 ---
 
@@ -251,53 +251,13 @@ Here is the latest on bitcoin, ethereum and crypto in general! Be aware of whats
 
 ---
 
-**[Ethereum Bounce Looks Weak - Here&#39;s What the Structure Says](https://www.youtube.com/watch?v=uk1iW8koJTE)**
-
-Ethereum is down more than 50% from its all-time high, but the bigger concern right now is not just the decline — it's the structure ...
-
-📺 More Crypto Online
-
-👁️ 5K • 👍 232 • 💬 28 • ⏱️ 15:54 • 23h ago
-
----
-
 **[Bitcoin to $200k, Ethereum To $10k Is &#39;Programed&#39;](https://www.youtube.com/watch?v=q50SBPezTJo)**
 
 Tony Edwards of Thinking Crypto interview. We talk: Incoming Bitcoin Bottom, QE, Trump Pump, Altcoin Season, Supercycle, ...
 
 📺 Altcoin Daily
 
-👁️ 1K • 👍 61 • 💬 2 • ⏱️ 0:59 • 3h ago
-
----
-
-**[Bitcoin &amp; Ethereum Whales Are Buying Like It’s a Bull Market… The Signal Is Clear](https://www.youtube.com/watch?v=lX6XC7LPRYs)**
-
-Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to stay smart on crypto: ...
-
-📺 Milk Road
-
-👁️ 5K • 👍 198 • 💬 91 • ⏱️ 38:50 • 1d ago
-
----
-
-**[ETHEREUM BROKE OUT! What&#39;s Next?🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=h2K-uk9JfSg)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 537 • 👍 27 • 💬 17 • ⏱️ 4:45 • 11h ago
-
----
-
-**[Ethereum Supply Shock + BlackRock Staking = Massive Setup](https://www.youtube.com/watch?v=MhOmj6JSAgs)**
-
-Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to stay smart on crypto: ...
-
-📺 Milk Road
-
-👁️ 5K • 👍 170 • 💬 24 • ⏱️ 10:57 • 2d ago
+👁️ 2K • 👍 90 • 💬 68 • ⏱️ 0:59 • 4h ago
 
 ---
 
@@ -311,23 +271,63 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 ---
 
+**[Ethereum Bounce Looks Weak - Here&#39;s What the Structure Says](https://www.youtube.com/watch?v=uk1iW8koJTE)**
+
+Ethereum is down more than 50% from its all-time high, but the bigger concern right now is not just the decline — it's the structure ...
+
+📺 More Crypto Online
+
+👁️ 5K • 👍 233 • 💬 30 • ⏱️ 15:54 • 1d ago
+
+---
+
+**[LIVE: Elon Musk Reveals Terafab - The Project That Could Change Digital Assets Forever!](https://www.youtube.com/watch?v=t3orL-YiFCw)**
+
+Elon Musk is live right now revealing Terafab, the revolutionary project from Tesla, SpaceX, and xAI that could completely change ...
+
+📺 TheMrNokia I Abdulla Zaki
+
+👁️ 3K • 👍 2K • 58m ago
+
+---
+
+**[Ethereum Supply Shock + BlackRock Staking = Massive Setup](https://www.youtube.com/watch?v=MhOmj6JSAgs)**
+
+Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to stay smart on crypto: ...
+
+📺 Milk Road
+
+👁️ 5K • 👍 170 • 💬 24 • ⏱️ 10:57 • 2d ago
+
+---
+
+**[Bitcoin &amp; Ethereum Whales Are Buying Like It’s a Bull Market… The Signal Is Clear](https://www.youtube.com/watch?v=lX6XC7LPRYs)**
+
+Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to stay smart on crypto: ...
+
+📺 Milk Road
+
+👁️ 6K • 👍 202 • 💬 90 • ⏱️ 38:50 • 1d ago
+
+---
+
+**[ETHEREUM BROKE OUT! What&#39;s Next?🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=h2K-uk9JfSg)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 599 • 👍 27 • 💬 18 • ⏱️ 4:45 • 12h ago
+
+---
+
 **[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=0UjB6P8DlLE)**
 
 Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
 
 📺 Crypto Gyan
 
-👁️ 507 • 👍 67 • ⏱️ 6:09 • 5h ago
-
----
-
-**[ПРОИЗОЙДЁТ НЕВЕРОЯТНОЕ! ОБЗОР БИТКОИНА, ETHEREUM, CARDANO, NEAR PROTOCOL, AVALANCHE!](https://www.youtube.com/watch?v=ur2DPlgkYto)**
-
-Рынок продолжает расти, поэтому разберём текущую ситуацию на рынке и узнаем реально ли продолжение роста.
-
-📺 Kaito Trade
-
-👁️ 253 • 👍 29 • 💬 10 • ⏱️ 16:49 • 6h ago
+👁️ 690 • 👍 72 • ⏱️ 6:09 • 6h ago
 
 ---
 
