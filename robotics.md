@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-14T05:25:11.797004+00:00'
+updated: '2026-04-14T07:07:31.087691+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 14, 2026 at 05:25 UTC  
+**Last Updated:** April 14, 2026 at 07:07 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Two weeks ago, I quit my job at a robotics company. I didn't have another offer lined up, and I was working with some amazing hardware (Boston Dynamics, Unitree, Husarion). On paper, it was great. But the company began moving into the defense sector and planned to mount teleoperated weapons on the platforms for a demo. That crossed a hard line for me, so I walked away. I want to build robots (and the tools we use to control them) that actually adapt to people and improve interactions, not something that could potentially hurt someone. I've decided to take the leap into entrepreneurship. Right now, I'm trying to better understand how engineers, developers, and makers actually work with their robots day to day, what frustrates them about current control interfaces, and what's missing. If you work with robots (ROS2, embedded, commercial, whatever) or just tinker with them, I would really appreciate 3 minutes of your time to fill out this customer discovery survey: 👉 https://forms.gle/3Nm76wkeT5CMt23c8 I'm also really curious to hear your thoughts here in the thread: Have any of you faced similar ethical dilemmas in your robotics careers? How did you handle it? Happy to discuss in the comments. Thanks!
 
-8h ago
+10h ago
 
 ---
 
 **[Beijing’s Humanoid Robot Half Marathon, Night Run Test - Around 40% of teams are running fully autonomous, remote-controlled runs get a 1.2× penalty (Beijing's E-Town Half Marathon on April 19 with 100+ teams, 300+ humanoids competing)](https://www.reddit.com/r/robotics/comments/1sk6p2y/beijings_humanoid_robot_half_marathon_night_run/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -50,7 +50,7 @@ Two weeks ago, I quit my job at a robotics company. I didn't have another offer 
 
 Zack Jackowski, VP of Atlas Product at Boston Dynamics, explains that the first robot is really just a research machine used to figure out how everything actually works together. When they built it, they didn’t fully understand how all the components would interact, so it ended up overbuilt and a bit unbalanced, with things like multiple computers and parts pushed to extremes. He describes how the second-generation design is where that learning gets applied. Once they have real data, they can simplify the system, remove what isn’t needed, and make better decisions about weight, strength, and compute. The result isn’t not just a cheaper version, it’s a more efficient and better-performing robot overall because it’s based on what they learned from the first one rather than assumptions. j
 
-12h ago
+14h ago
 
 ---
 
@@ -58,13 +58,13 @@ Zack Jackowski, VP of Atlas Product at Boston Dynamics, explains that the first 
 
 This is a concept I worked on for a company a while ago. Using movement primitives, we wanted to explore how well a robot can plan tasks and then run them in simulation. The verdict was that it's surprisingly powerful. I go into detail how it works on my blogpost https://boesch.dev/posts/llm-trajectory/, but the gist is that composite movement primitives with higher order primitives can lead to a very rich set of tools for LLM task planning. Try the demo here: https://llm-trajectory.boesch.dev/ Or run it yourself with a more powerful LLM: https://github.com/Encrux/llm_trajectory
 
-8h ago
+10h ago
 
 ---
 
 **[PeritasAI and NVIDIA Isaac Enabling Real-Time AI Awareness in Surgical Robotics](https://www.reddit.com/r/robotics/comments/1skgc65/peritasai_and_nvidia_isaac_enabling_realtime_ai/)**
 
-12h ago
+14h ago
 
 ---
 
@@ -84,7 +84,7 @@ This is a concept I worked on for a company a while ago. Using movement primitiv
 
 l have open source the Algorithm on github.l have test the RoboBaton mini servel days.l find that it's good to use.l buy the camera from website : myrobotproject.
 
-13h ago
+15h ago
 
 ---
 
@@ -92,7 +92,7 @@ l have open source the Algorithm on github.l have test the RoboBaton mini servel
 
 I wrote this article to help engineers understand the deep-learning math behind VLAs, which can be used to supercharge your existing robots (with open models like openVLA, gr00t and others) Including: how VLMs are being repurposed into control policies why action tokenization vs continuous control is a real fork in the road what’s actually hard (hint: data + embodiment, not just scaling) The interesting bit: it frames VLA not as magic, but as a pretty natural extension of sequence modeling (like GPT with torque and acceleration). Let me know what you think
 
-🔗 [Towards Data Science](https://towardsdatascience.com/how-visual-language-action-vla-models-work/) • 9h ago
+🔗 [Towards Data Science](https://towardsdatascience.com/how-visual-language-action-vla-models-work/) • 10h ago
 
 ---
 
@@ -100,7 +100,7 @@ I wrote this article to help engineers understand the deep-learning math behind 
 
 Hey! I'm making autonomous car with supported Gemini. Gemini is processing image and make decision. After that, When Gemini made the decision of movement, it send a movement command to ESP32 like forward,backward,left,right. I'm using IMX219-83 stereo camera. I want gemini to do everything about image-processing, maker-decision. So I'm not sure about using Nvidia-VPI. Can the Gemini create a sense of depth using the left and right images from the stereo camera?
 
-9h ago
+11h ago
 
 ---
 
@@ -108,9 +108,41 @@ Hey! I'm making autonomous car with supported Gemini. Gemini is processing image
 
 ## Google News: "robotics"
 
+**[Robotic birds mimic mating to help bring back vanishing grouse](https://interestingengineering.com/ai-robotics/robotic-sage-grouse-conservation)**
+
+Robotic bird decoys mimic mating rituals to help restore declining sage grouse populations in US national parks.
+
+Interesting Engineering • 3d ago
+
+---
+
+**[Drones, Mines, and Robots. What is Ukraine's Kill Zone and How Does it Work?](https://united24media.com/war-in-ukraine/drones-mines-and-robots-what-is-ukraines-kill-zone-and-how-does-it-work-17858)**
+
+Ukraine is redefining the kill zone — layering drones, mines, and robotics to stop Russian advances in a battlefield transformed by technology.
+
+UNITED24 Media • 21h ago
+
+---
+
+**[Toyota's CUE7 humanoid robot shoots basketballs with precision tech](https://interestingengineering.com/ai-robotics/toyota-cue7-basketball-robot)**
+
+Toyota unveils CUE7, advancing AI basketball robot with improved sensing, planning and precision beyond earlier record setting precedessors.
+
+Interesting Engineering • 17h ago
+
+---
+
+**[Humanoids Hit the Factory Floor](https://www.eetimes.com/humanoids-hit-the-factory-floor/)**
+
+Humanoid robots have reached manufacturing lines. Success now hinges on power, production-level reliability, and real-world data streams.
+
+EE Times • 14h ago
+
+---
+
 **[Humanoid robots show off their language and boxing skills in Hong Kong](https://www.seattletimes.com/business/humanoid-robots-show-off-their-language-and-boxing-skills-in-hong-kong/)**
 
-The Seattle Times • 16h ago
+The Seattle Times • 18h ago
 
 ---
 
@@ -124,7 +156,7 @@ Yahoo Finance • 1d ago
 
 **[30 Under 30 Europe Manufacturing & Industry 2026: The Builders Bringing AI, Robotics And Data To Industry](https://www.forbes.com/sites/alanohnsman/2026/04/14/30-under-30-europe-manufacturing--industry-2026-the-builders-bringing-ai-robotics-and-data-to-industry/)**
 
-Forbes • 55m ago
+Forbes • 2h ago
 
 ---
 
@@ -136,50 +168,17 @@ Upper Michigan's Source • 2d ago
 
 ---
 
-**[Hidden in plain sight: Robots reveal ‘shipwreck city’ below the surface of a Washington lake](https://www.wthr.com/article/news/nation-world/robotics-underwater-detection-shipwrecks-sonar-survey-remote-operated-vehicle-washington-lake-union/507-d5e09930-31c1-491f-8c8b-01f9fcbba5b8)**
-
-'Shipwreck city': A high-tech survey has found dozens of possible wrecks in Washington state, with robotics capturing images in areas too dangerous for divers.
-
-WTHR • 1d ago
-
----
-
-**[Humanoid robots show off their language and boxing skills](https://apnews.com/video/humanoid-robots-show-off-their-language-and-boxing-skills-35c464f8ff2440a1997284fa64ad0331)**
-
-What will the next generation of robots be able to do? In Hong Kong, the machines have been showing off their ability to teach, dance and even fight.
-
-AP News • 13h ago
-
----
-
 **[Locus Robotics launches Locus Array for fully autonomous fulfillment](https://www.therobotreport.com/locus-robotics-launches-locus-array-for-fully-autonomous-fulfillment/)**
 
 Locus Array is designed to complete fulfillment workflows without manual intervention and is already in use at DHL and other customers.
 
-The Robot Report • 12h ago
-
----
-
-**['Changing lives' — Windsor hosts high-pressure battle of the robots](https://windsorstar.com/news/local-news/changing-lives-windsor-hosts-high-pressure-battle-of-the-robots)**
-
-'Changing lives' — Windsor hosts high-pressure battle of the robots as top student teams seek championship berth.
-
-Windsor Star • 11h ago
+The Robot Report • 14h ago
 
 ---
 
 **[Norck Robotics Elevates Automation Standards Through End-to-End Engineering and Flexible Production Solutions](https://natlawreview.com/press-releases/norck-robotics-elevates-automation-standards-through-end-end-engineering-and)**
 
-The National Law Review • 7h ago
-
----
-
-**[Humanoid robots to compete in Beijing half-marathon](https://www.scmp.com/video/sport/3349927/chinese-teams-fine-tune-robots-beijing-humanoid-half-marathon)**
-
-Read more on the story: https://sc.mp/4obcc
-  Sections of Beijing were closed off for a test run ahead of the second humanoid robot half-marathon to be held in the world. The race is scheduled to be…
-
-South China Morning Post • 17h ago
+The National Law Review • 9h ago
 
 ---
 
@@ -203,7 +202,7 @@ A new wave of attention is building around Elon Musk's latest version of the Tes
 
 📺 Carros Show
 
-👁️ 3K • 👍 106 • 💬 16 • ⏱️ 8:01 • 7h ago
+👁️ 3K • 👍 106 • 💬 16 • ⏱️ 8:01 • 9h ago
 
 ---
 
@@ -261,7 +260,7 @@ In a wild glimpse into the future of work, Indian factory workers are now wearin
 
 📺 Vedas Words
 
-👁️ 25K • 💬 8 • ⏱️ 0:04 • 11h ago
+👁️ 25K • 💬 8 • ⏱️ 0:04 • 13h ago
 
 ---
 

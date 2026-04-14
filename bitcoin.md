@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-14T05:25:11.787909+00:00'
+updated: '2026-04-14T07:07:31.078180+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
-- news
 - videos
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 14, 2026 at 05:25 UTC  
+**Last Updated:** April 14, 2026 at 07:07 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $74,359.51
+### $74,656.26
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +4.6%  
-**7d:** +4.6%  
-**30d:** -0.7%  
-**90d:** -22.2%  
-**1y:** -11.2%  
+**24h:** +5.5%  
+**7d:** +5.0%  
+**30d:** -0.3%  
+**90d:** -21.9%  
+**1y:** -10.8%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Sorry bears, go back to sleep.](https://www.reddit.com/r/Bitcoin/comments/1sknd1v/sorry_bears_go_back_to_sleep/)**
 
-8h ago
+10h ago
 
 ---
 
@@ -87,19 +87,19 @@ Rank #1
 
 I can’t find any reasonable explanation of the price rise. Any suggestions?
 
-6h ago
+8h ago
 
 ---
 
 **[Bro and his Bitcoin story](https://www.reddit.com/r/Bitcoin/comments/1skdb4b/bro_and_his_bitcoin_story/)**
 
-14h ago
+16h ago
 
 ---
 
 **[Andreas Antonopoulos used to have brilliant speeches.](https://www.reddit.com/r/Bitcoin/comments/1skc1n6/andreas_antonopoulos_used_to_have_brilliant/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -107,7 +107,15 @@ I can’t find any reasonable explanation of the price rise. Any suggestions?
 
 I am bailing on this disaster. I am putting it all into bitcoin. Not to try and make money but to literally save my life.
 
-6h ago
+7h ago
+
+---
+
+**[I don’t invest in Bitcoin… I just emotionally gamble with extra steps.](https://www.reddit.com/r/Bitcoin/comments/1sl0wxc/i_dont_invest_in_bitcoin_i_just_emotionally/)**
+
+Agree ?😅🤣
+
+21m ago
 
 ---
 
@@ -115,7 +123,7 @@ I am bailing on this disaster. I am putting it all into bitcoin. Not to try and 
 
 Wealth isn’t gold, it’s energy. By 2000, there will be a scientific accounting system for wealth, aligned with the laws of physics.
 
-16h ago
+18h ago
 
 ---
 
@@ -123,31 +131,23 @@ Wealth isn’t gold, it’s energy. By 2000, there will be a scientific accounti
 
 Stack BTC said the purchase was a ‘landmark moment’ in British politics
 
-🔗 [The Independent](https://www.independent.co.uk/news/uk/politics/nigel-farage-crypto-richard-tice-tax-kwarteng-b2956538.html) • 10h ago
+🔗 [The Independent](https://www.independent.co.uk/news/uk/politics/nigel-farage-crypto-richard-tice-tax-kwarteng-b2956538.html) • 11h ago
 
 ---
 
-**[How to invest in Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1sklyaz/how_to_invest_in_bitcoin/)**
+**[Buying and Sending Bitcoin Australia](https://www.reddit.com/r/Bitcoin/comments/1skywku/buying_and_sending_bitcoin_australia/)**
 
-How to to invest in bitcoin
+Hi I usually use coinjar but recently they are requiring full details of the recipient of sent crypto, I'm looking for some info on the easiest way to send coin. I'm ok with giving my info but the recipient isn't, screw coinjar
 
-9h ago
-
----
-
-**[We may not like it (I sure don't) but we'll be getting wealth taxes and UBI. Jackson explains why on the latest TLT](https://www.reddit.com/r/Bitcoin/comments/1skcnau/we_may_not_like_it_i_sure_dont_but_well_be/)**
-
-No one questions the root cause, why do prices constantly increase? The money is broken, and everything is downstream of that.
-
-14h ago
+2h ago
 
 ---
 
-**[I made an easily embeddable Bitcoin price ticker. WDYT?](https://www.reddit.com/r/Bitcoin/comments/1skgkxn/i_made_an_easily_embeddable_bitcoin_price_ticker/)**
+**[Daily Discussion, April 14, 2026](https://www.reddit.com/r/Bitcoin/comments/1sl04s5/daily_discussion_april_14_2026/)**
 
-Instead of getting API keys from Coingecko, Coinmarketcap or wherever, handling JSON responses and styling it youself, you can now put a Bitcoin price by just dropping an image wherever adding images by URL is supported. The options are pretty limited for now (BTC/USD only, SVG or PNG, 2 sizes). There's also a caveat: it doesn't work if the site you're putting it on is mirroring or caching it. Such sites usually wouldn't allow you to put in JS either, so it still should work in more places than API-based JS feeds and it's much easier to integrate. Free to use, open source, no ads. You can find it at https://btcimg.io Wdyt?
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-12h ago
+1h ago
 
 ---
 
@@ -159,7 +159,7 @@ Instead of getting API keys from Coingecko, Coinmarketcap or wherever, handling 
 
 The Reform UK leader is a shareholder in British bitcoin company Stack and appeared in a promotional video.
 
-BBC • 8h ago
+BBC • 10h ago
 
 ---
 
@@ -167,13 +167,13 @@ BBC • 8h ago
 
 The Iran War is bringing trustless payments back to the forefront. The market is reacting.
 
-Bitcoin Magazine • 16h ago
+Bitcoin Magazine • 18h ago
 
 ---
 
 **[Bitcoin (BTC) Climbs to Four-Week High on Hopes of US-Iran Peace Talks](https://www.bloomberg.com/news/articles/2026-04-14/bitcoin-climbs-to-four-week-high-on-hopes-of-us-iran-peace-talks)**
 
-Bloomberg.com • 4h ago
+Bloomberg • 5h ago
 
 ---
 
@@ -181,21 +181,27 @@ Bloomberg.com • 4h ago
 
 Cryptocurrency bitcoin (BTC-USD) is trading above $71,000 per token on Monday after President Trump ordered an US blockade to the Strait of Hormuz after the collapse of ceasefire talks with Iranian officials. Market Catalysts Host Julie Hyman takes a closer look at the crypto market and how crypto-related stocks are trading to start the week.
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 15h ago
 
 ---
 
-**[BTC, ETH, SOL news: Bearish bets lose $430 million as bitcoin breaks $74,000](https://www.coindesk.com/markets/2026/04/14/bearish-bets-lose-usd430-million-as-btc-eth-surge-as-much-as-7)**
+**[Japan's central bank cools rate hike expectations, removing a key risk for bitcoin's rally](https://www.coindesk.com/markets/2026/04/14/japan-s-central-bank-cools-rate-hike-expectations-removing-a-key-risk-for-bitcoin-s-rally)**
 
-The six-week range that capped every rally at $73,000 finally broke on Monday as stocks erased all Iran war losses and Trump signaled willingness to resume peace talks.
+The BOJ's dovish shift keeps the yen carry trade alive, the same trade whose unwind crashed bitcoin 24% in two days in August 2024.
 
-CoinDesk • 30m ago
+CoinDesk • 1h ago
 
 ---
 
-**[Ether outpaces bitcoin as ETF flows split and Ethereum activity jumps 41% on-week](https://www.coindesk.com/markets/2026/04/14/ether-outpaces-bitcoin-as-etf-flows-split-and-ethereum-activity-jumps-41-on-week)**
+**[Coinbase Has Grown Its Game. But the Stock Can’t Escape Bitcoin’s Orbit.](https://www.barrons.com/articles/coinbase-stock-bitcoin-5f5c8d24)**
 
-Ether is outperforming bitcoin as ETF flows, spot prices and a 41% jump in Ethereum transactions move in the same direction for the first time in months.
+Barron's • 1h ago
+
+---
+
+**[Rave ranks alongside bitcoin and ether in the top three — just not in the way you think](https://www.coindesk.com/markets/2026/04/14/rave-ranks-alongside-bitcoin-and-ether-in-the-top-three-just-not-in-the-way-you-think)**
+
+RaveDAO’s RAVE token is the third-largest cryptocurrency by futures liquidations after bitcoin and ether.
 
 CoinDesk • 1h ago
 
@@ -205,7 +211,7 @@ CoinDesk • 1h ago
 
 For the first time since launching its high-yield securities in July, Michael Saylor’s Strategy Inc. funded its latest $1 billion weekly Bitcoin purchase entirely through the sale of its “Stretch” perpetual preferred shares.
 
-Bloomberg.com • 14h ago
+Bloomberg • 16h ago
 
 ---
 
@@ -213,23 +219,15 @@ Bloomberg.com • 14h ago
 
 Strategy's holdings now account for more than 3.7% of the total 21 million bitcoin supply — worth around $55 billion.
 
-The Block • 17h ago
+The Block • 19h ago
 
 ---
 
-**[MicroStrategy STRC Volume Hits $1.1 Billion After Michael Saylor Buys More Bitcoin](https://finance.yahoo.com/markets/crypto/articles/microstrategy-strc-volume-hits-1-213819785.html)**
+**[Michael Saylor's Strategy added 13,927 bitcoin for $1 billion](https://www.coindesk.com/markets/2026/04/13/michael-saylor-s-strategy-added-13-927-bitcoin-for-usd1-billion)**
 
-MicroStrategy’s STRC posts $1.1 billion volume, fueling speculation of massive Bitcoin accumulation by Saylor.
+Last week's purchases were completely funded by sales of Stretch, the companies perpetual preferred stock.
 
-Yahoo Finance • 7h ago
-
----
-
-**[Scaramucci Cautions Against Bitcoin Anxiety: 'The Asset Didn't Change. The Price Did'](https://finance.yahoo.com/markets/crypto/articles/scaramucci-cautions-against-bitcoin-anxiety-220105929.html)**
-
-On Saturday, Anthony Scaramucci used a post on X to describe the whiplash of holding Bitcoin through a run-up to $126,000 and a drop to $72,000, arguing the coin itself is unchanged even as emotions swing with the quote. The...
-
-Yahoo Finance • 7h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -321,7 +319,7 @@ Bitcoin #Crypto #Finance ➡️Trade with us on Bitunix and claim your exclusive
 
 📺 DataDash
 
-👁️ 6K • 👍 289 • 💬 62 • ⏱️ 22:13 • 13h ago
+👁️ 6K • 👍 289 • 💬 62 • ⏱️ 22:13 • 15h ago
 
 ---
 
@@ -331,7 +329,7 @@ Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FR
 
 📺 CryptosRUs
 
-👁️ 9K • 👍 643 • 💬 144 • ⏱️ 8:20 • 4h ago
+👁️ 9K • 👍 643 • 💬 144 • ⏱️ 8:20 • 6h ago
 
 ---
 
@@ -341,7 +339,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investa
 
 📺 InvestAnswers
 
-👁️ 23K • 👍 3K • 💬 104 • ⏱️ 23:49 • 7h ago
+👁️ 23K • 👍 3K • 💬 104 • ⏱️ 23:49 • 9h ago
 
 ---
 
@@ -351,7 +349,7 @@ Subscribe to Jordi: https://www.youtube.com/@JordiVisserLabs BTC Conference 2026
 
 📺 Altcoin Daily
 
-👁️ 10K • 👍 939 • 💬 65 • ⏱️ 10:18 • 4h ago
+👁️ 10K • 👍 939 • 💬 65 • ⏱️ 10:18 • 6h ago
 
 ---
 
@@ -361,7 +359,7 @@ Follow me on X for my best content: http://www.X.com/AdamBLiv Transform Dormant 
 
 📺 Adam Livingston
 
-👁️ 5K • 👍 580 • 💬 93 • ⏱️ 19:40 • 9h ago
+👁️ 5K • 👍 580 • 💬 93 • ⏱️ 19:40 • 11h ago
 
 ---
 
@@ -371,7 +369,7 @@ Nick Valdez looks at the recent GOLD/BTC chart moves and what it might spell for
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 220 • 💬 136 • ⏱️ 7:13 • 6h ago
+👁️ 4K • 👍 220 • 💬 136 • ⏱️ 7:13 • 8h ago
 
 ---
 
@@ -381,7 +379,7 @@ WILL THIS LEVEL HOLD? CRYPTO RETIREMENT ACCOUNT HERE Sign up for iTrustCapital a
 
 📺 Crypto Jebb
 
-👁️ 4K • 👍 302 • 💬 75 • ⏱️ 11:18 • 11h ago
+👁️ 4K • 👍 302 • 💬 75 • ⏱️ 11:18 • 13h ago
 
 ---
 
@@ -401,7 +399,7 @@ Morgan Stanley LEAKED their future bitcoin plan - sounds like their eliminating 
 
 📺 Simply Bitcoin
 
-👁️ 6K • 👍 336 • 💬 16 • ⏱️ 1:24:58 • 10h ago
+👁️ 6K • 👍 336 • 💬 16 • ⏱️ 1:24:58 • 12h ago
 
 ---
 

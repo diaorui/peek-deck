@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-14T05:25:11.793852+00:00'
+updated: '2026-04-14T07:07:31.084403+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
-- news
 - videos
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 14, 2026 at 05:25 UTC  
+**Last Updated:** April 14, 2026 at 07:07 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,366.64
+### $2,372.68
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +7.8%  
-**7d:** +8.2%  
-**30d:** +0.8%  
-**90d:** -28.6%  
-**1y:** +49.2%  
+**24h:** +9.1%  
+**7d:** +8.8%  
+**30d:** +1.3%  
+**90d:** -28.2%  
+**1y:** +50.0%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-23m ago
+2h ago
 
 ---
 
@@ -89,21 +89,21 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 Coinbase AgentKit Prompt Injection: Wallet Drain, Infinite Approvals, and Agent-Level RCE Reported 13 days after Coinbase launched Agentic Wallets. Validated by Coinbase. Demonstrated on-chain. Published: April 11, 2026 CVE status: Pending assignment
 Coinbase AgentKit is developer infrastructure for building AI agents with direct access to wallets, token operations, DeFi actions, and related execution surfaces. This disclosure covers a prompt injection vulnerability in AgentKit that allowed attacker-controlled input to trigger sensitive tool execution without a built-in human confirmation step.
 
-🔗 [x402warden](https://x402warden.com/research/coinbase-agentkit-prompt-injection/) • 7h ago
-
----
-
-**[WARNING: Aerodrome's CLGauge have an Integration Trap - Lost $2k due to incomplete ERC-721 implementation](https://www.reddit.com/r/ethereum/comments/1sjjq2i/warning_aerodromes_clgauge_have_an_integration/)**
-
-I permanently lost $2,000 USD value trying to stake via direct contract interaction on Aerodrome. The CLGauge contract accepts safeTransferFrom via the onERC721Received hook but silently fails to update the staking state, creating a black hole for assets. I’m sharing this to warn other developers and integrators building on top of Aerodrome (Base chain), and hopefully get the attention of the Core Team or the Emergency Council, since standard Discord support just gave me the "contracts are immutable" playbook. Recently, I performed a safeTransferFrom (as a fallback to approve and deposit) directly to the Aerodrome Gauge (0x83e2E9493996651ed63033d81f5052cBE2fEB6A1). The transaction was mathematically and technically successful on-chain because the Gauge contract explicitly implements the IERC721Receiver interface. However, this is where the integration trap lies: While the contract gladly accepted physical custody of my NFT position, it completely failed to trigger the internal logic to update the _stakes mapping and the rewardGrowth snapshots. The Reality: By exposing the receiver hook without the corresponding push-based deposit logic, Aerodrome's contract signals false compatibility. It creates a critical state mismatch: the Gauge owns the NFT, but my wallet is no longer recognized as the owner, meaning I can neither call deposit() nor withdraw(). Has any other developer encountered this problem?
-
-1d ago
+🔗 [x402warden](https://x402warden.com/research/coinbase-agentkit-prompt-injection/) • 9h ago
 
 ---
 
 **[Deploy a full DEX on Ethereum, Arbitrum, or Base in one command.](https://www.reddit.com/r/ethereum/comments/1sjuq3y/deploy_a_full_dex_on_ethereum_arbitrum_or_base_in/)**
 
 I built a CLI tool in rust called LaunchDex that deploys a full DEX--factory contract, router, liquidity pair and swap frontend--on Ethereum, Arbitrum, and Base in a single command. The whole process that typically takes weeks of manual contract deployment, configuration and frontend setup is reduced to launchdex deploy. Contract addresses are saved automatically and a custom swap interface is generated and ready to deploy. The tool is built on top of verified Uniswap v2 contracts so the deployed DEX is production-grade and audited. Multi-token support lets you add additional trading pairs to an existing factory with one command. The generated frontend includes an embedded wallet so user can swap tokens without needing Metamask installed. Let me know what you think
+
+1d ago
+
+---
+
+**[WARNING: Aerodrome's CLGauge have an Integration Trap - Lost $2k due to incomplete ERC-721 implementation](https://www.reddit.com/r/ethereum/comments/1sjjq2i/warning_aerodromes_clgauge_have_an_integration/)**
+
+I permanently lost $2,000 USD value trying to stake via direct contract interaction on Aerodrome. The CLGauge contract accepts safeTransferFrom via the onERC721Received hook but silently fails to update the staking state, creating a black hole for assets. I’m sharing this to warn other developers and integrators building on top of Aerodrome (Base chain), and hopefully get the attention of the Core Team or the Emergency Council, since standard Discord support just gave me the "contracts are immutable" playbook. Recently, I performed a safeTransferFrom (as a fallback to approve and deposit) directly to the Aerodrome Gauge (0x83e2E9493996651ed63033d81f5052cBE2fEB6A1). The transaction was mathematically and technically successful on-chain because the Gauge contract explicitly implements the IERC721Receiver interface. However, this is where the integration trap lies: While the contract gladly accepted physical custody of my NFT position, it completely failed to trigger the internal logic to update the _stakes mapping and the rewardGrowth snapshots. The Reality: By exposing the receiver hook without the corresponding push-based deposit logic, Aerodrome's contract signals false compatibility. It creates a critical state mismatch: the Gauge owns the NFT, but my wallet is no longer recognized as the owner, meaning I can neither call deposit() nor withdraw(). Has any other developer encountered this problem?
 
 1d ago
 
@@ -153,7 +153,7 @@ Over the past year I've been thinking a lot about Web3. Not the trading, not the
 
 Bitmine expanded its Ethereum treasury to 4.87 million ETH, controlling 4% of supply as total holdings climb to $11.8 billion.
 
-The Block • 15h ago
+The Block • 17h ago
 
 ---
 
@@ -161,29 +161,21 @@ The Block • 15h ago
 
 A forged cross-chain message bypassed state proof validation on the bridge contract, granting admin control over the bridged DOT token and allowing the attacker to mint and dump the entire supply for $237,000.
 
-CoinDesk • 21h ago
+CoinDesk • 23h ago
 
 ---
 
-**[Ether outpaces bitcoin as ETF flows split and Ethereum activity jumps 41% on-week](https://www.coindesk.com/markets/2026/04/14/ether-outpaces-bitcoin-as-etf-flows-split-and-ethereum-activity-jumps-41-on-week)**
+**[Bitmine’s Ethereum Holdings Cross 4% Milestone After Latest Weekly Accumulation](https://finance.yahoo.com/markets/crypto/articles/bitmine-ethereum-holdings-cross-4-045759705.html)**
 
-Ether is outperforming bitcoin as ETF flows, spot prices and a 41% jump in Ethereum transactions move in the same direction for the first time in months.
+Bitmine Immersion Technologies bought 71,524 ETH last week, pushing holdings past 4% of supply and 81% toward its 5% target.
 
-CoinDesk • 1h ago
-
----
-
-**[How Much Should You Allocate To Crypto? Schwab Says Even A Small Allocation To Bitcoin And Ethereum Can Significantly Affect Performance](https://finance.yahoo.com/markets/crypto/articles/much-allocate-crypto-schwab-says-131603272.html)**
-
-There is no one-size-fits-all cryptocurrency allocation, according to Charles Schwab Corporation (NYSE:SCHW). Schwab Director of Digital Currencies Research and Strategy Jim Ferraioli said in a report last week that investors could determine cryptocurrency allocations either through traditional portfolio theory or...
-
-Yahoo Finance • 16h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[Bitcoin, XRP, Ethereum Fall. Iran Peace Failure Causes a Crypto Headache.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-iran-crypto-46d858c6)**
 
-Barron's • 16h ago
+Barron's • 18h ago
 
 ---
 
@@ -191,23 +183,7 @@ Barron's • 16h ago
 
 Ethereum has been consolidating below $2,200 for weeks. The selling pressure is real. The uncertainty is higher. And the participants who hold enough ETH to move markets just crossed back into profit, which, in the history of this asset, has never happened quietly.A CryptoQuant analyst tracking the…
 
-TradingView — Track All Markets • 6h ago
-
----
-
-**[Which Cryptocurrency Should You Be Hoarding Right Now, Bitcoin or Ethereum?](https://www.fool.com/investing/2026/04/13/which-cryptocurrency-should-you-be-hoarding-right/)**
-
-If crypto treasury companies are loading up on Bitcoin and Ethereum, should you be too?
-
-The Motley Fool • 16h ago
-
----
-
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.875 Million Tokens, and Total Crypto and Total Cash Holdings of $11.8 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-4-875-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-8-billion-302740122.html)**
-
-Bitmine now owns more than 4% of the total ETH coin supply of 120.7 million Bitmine is 81% of the way to the 'Alchemy of 5%' in just 9 months Bitmine uplisted...
-
-PR Newswire • 16h ago
+TradingView — Track All Markets • 8h ago
 
 ---
 
@@ -215,15 +191,39 @@ PR Newswire • 16h ago
 
 Institutional crypto investors posted their strongest weekly inflows since January, with Bitcoin and Ethereum demand rising as XRP investments cool.
 
-Decrypt • 12h ago
+Decrypt • 14h ago
 
 ---
 
-**[Ondo Finance Seeks SEC Approval for Tokenized Securities on Ethereum](https://coinmarketcap.com/academy/article/ondo-finance-seeks-sec-approval-for-tokenized-securities-on-ethereum)**
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.875 Million Tokens, and Total Crypto and Total Cash Holdings of $11.8 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-4-875-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-8-billion-302740122.html)**
 
-Under the proposed model, the underlying equities would remain held through the Depository Trust Company via U.S. broker-dealer Alpaca.
+Bitmine now owns more than 4% of the total ETH coin supply of 120.7 million Bitmine is 81% of the way to the 'Alchemy of 5%' in just 9 months Bitmine uplisted...
 
-CoinMarketCap • 6h ago
+PR Newswire • 18h ago
+
+---
+
+**[Current price of Ethereum for April 13, 2026](https://fortune.com/article/price-of-ethereum-04-13-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 18h ago
+
+---
+
+**[Ethereum Price Near Breakout?: On-Chain Signals Just Flipped Bullish](https://coinpedia.org/price-analysis/ethereum-price-near-breakout-on-chain-signals-just-flipped-bullish/)**
+
+Ethereum is starting to flash signals that have historically marked the beginning of major rallies. Whales are back in profit, over $135 million in ETH
+
+Coinpedia Fintech News • 18h ago
+
+---
+
+**[Crypto News: ETH Based Pepeto Stages Update While the Ethereum Price Prediction Aims For Five Figures](https://markets.businessinsider.com/news/stocks/crypto-news-eth-based-pepeto-stages-update-while-the-ethereum-price-prediction-aims-for-five-figures-1036018543)**
+
+Dubai, UAE, April  14, 2026  (GLOBE NEWSWIRE) -- Ethereum based crypto Pepeto announced the last presale stage sell out, with funds raised crossin...
+
+markets.businessinsider.com • 1h ago
 
 ---
 
@@ -237,7 +237,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 3K • 👍 150 • 💬 99 • ⏱️ 38:50 • 10h ago
+👁️ 3K • 👍 150 • 💬 99 • ⏱️ 38:50 • 12h ago
 
 ---
 
@@ -247,7 +247,7 @@ Here is the latest on bitcoin, ethereum and crypto in general! Be aware of whats
 
 📺 Thomas Kralow
 
-👁️ 14K • 👍 1K • 💬 25 • ⏱️ 10:18 • 17h ago
+👁️ 14K • 👍 1K • 💬 25 • ⏱️ 10:18 • 19h ago
 
 ---
 
@@ -257,7 +257,7 @@ Ethereum is down more than 50% from its all-time high, but the bigger concern ri
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 200 • 💬 20 • ⏱️ 15:54 • 8h ago
+👁️ 3K • 👍 200 • 💬 20 • ⏱️ 15:54 • 10h ago
 
 ---
 
@@ -267,7 +267,7 @@ BITCOIN: Everyone is WRONG About This (important)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 6K • 👍 299 • 💬 76 • ⏱️ 19:32 • 8h ago
+👁️ 6K • 👍 299 • 💬 76 • ⏱️ 19:32 • 9h ago
 
 ---
 
@@ -287,7 +287,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 370 • 👍 67 • ⏱️ 6:29 • 1h ago
+👁️ 370 • 👍 67 • ⏱️ 6:29 • 3h ago
 
 ---
 
@@ -297,7 +297,7 @@ Buy & Sell Crypto With iTrustCapital https://www.itrustcapital.com/xrparmy Bold 
 
 📺 Digital Asset Investor
 
-👁️ 8K • 👍 698 • ⏱️ 11:21 • 13h ago
+👁️ 8K • 👍 698 • ⏱️ 11:21 • 14h ago
 
 ---
 
@@ -315,7 +315,7 @@ Freedom is a minimalist browser for Swarm and IPFS. No centralized gateways. You
 
 📺 Digital Asset Investor
 
-👁️ 5K • 👍 174 • ⏱️ 0:43 • 12h ago
+👁️ 5K • 👍 174 • ⏱️ 0:43 • 14h ago
 
 ---
 
