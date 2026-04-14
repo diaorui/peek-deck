@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-14T22:47:36.036835+00:00'
+updated: '2026-04-14T23:42:34.286260+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - social
 - repositories
 - news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 14, 2026 at 22:47 UTC  
+**Last Updated:** April 14, 2026 at 23:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ As many of you have likely seen, the Claude Code community newswire has been abl
 
 Documents show the tax agency is testing a Palantir tool to surface “highest-value” audit and investigation targets from a maze of legacy systems.
 
-🔗 [WIRED](https://www.wired.com/story/documents-reveal-palantir-irs-contract-fraud-clean-energy-credits/) • 3h ago
+🔗 [WIRED](https://www.wired.com/story/documents-reveal-palantir-irs-contract-fraud-clean-energy-credits/) • 4h ago
 
 ---
 
@@ -57,7 +57,7 @@ Documents show the tax agency is testing a Palantir tool to surface “highest-v
 
 Question for everyone: Why do you think LLMs like Claude don't use timestamp data within conversations to build temporal awareness? Like, it seems straightforward to track how long you've been talking, notice when you're looping on the same idea for hours, and suggest pivoting. Or acknowledge that conversation fatigue might be setting in. From a UX perspective, I'd expect this would make the tool way more engaging Is there a technical limitation I'm missing, or is it more of a design choice? Thanks! EDIT: Thanks all for the discussion! I got some pretty interesting insights!
 
-18h ago
+19h ago
 
 ---
 
@@ -65,7 +65,7 @@ Question for everyone: Why do you think LLMs like Claude don't use timestamp dat
 
 Has anyone built a Julia‑based AI assistant.... an agent that can just make new tools and horde code snippits? Ahh the agent i made this little bundle of sarcasm to solve problems it shouldnt be able too. so "If it can't, it reiterates until it can. browser, direct os access, social media, ect ect. This project has changed alot in the last 7 months and im stoked to be able to show it. https://reddit.com/link/1slo319/video/6lh6s1wfu7vg1/player forge new Julia functions on the fly store and query a persistent SQLite memory for notes, telemetry, budgets, code Snippets auto pulled from github .etc., send SMS messages via Twilio or another provider, and pillage GitHub repositories fetch file trees, raw blobs, or whole repos LICENSE FRIENDLY i could go on but u get it. wont hopefully lookin to make something of this. Also looking for thoughts on this. dev tool? hacker toy? ill keep on it till im rendering applications on demand!
 
-4m ago
+59m ago
 
 ---
 
@@ -73,7 +73,7 @@ Has anyone built a Julia‑based AI assistant.... an agent that can just make ne
 
 Researchers say a new AI system can identify disease-causing mutations and explain their biological effects, potentially changing how genetic disorders are diagnosed.
 
-🔗 [TIME](https://time.com/article/2026/04/14/ai-disease-genetic-mayo-clinic-goodfire/?utm_source=reddit&utm_medium=social&utm_campaign=editorial) • 2h ago
+🔗 [TIME](https://time.com/article/2026/04/14/ai-disease-genetic-mayo-clinic-goodfire/?utm_source=reddit&utm_medium=social&utm_campaign=editorial) • 3h ago
 
 ---
 
@@ -81,7 +81,7 @@ Researchers say a new AI system can identify disease-causing mutations and expla
 
 I built Arc Sentry, a pre-generation guardrail for open source LLMs that blocks prompt injection before the model generates a response. It works on Mistral, Qwen, and Llama by reading the residual stream, not output filtering. Prompt injection is OWASP LLM Top 10 #1. Most defenses scan outputs or text patterns, by the time they fire, the model has already processed the attack. Arc Sentry blocks before generate() is called. I want to test it on real deployments, so I’m offering 5 free security audits this week. What I need from you: • Your system prompt or a description of what your bot does • 5-10 examples of normal user messages What you get back within 24 hours: • Your bot tested against JailbreakBench and Garak attack prompts • Full report showing what got blocked and what didn’t • Honest assessment of where it works and where it doesn’t No call. Email only. 9hannahnine@gmail.com If it’s useful after seeing the results, it’s $199/month to deploy.
 
-50m ago
+1h ago
 
 ---
 
@@ -105,7 +105,7 @@ A lot of people here have noticed Claude becoming cautious, dry and moralising. 
 
 Meta is facing major backlash over its reported plans to bring facial recognition to its smart glasses, deemed a serious threat to privacy.
 
-🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/a-serious-threat-to-privacy-meta-issued-warning-by-75-orgs-over-planned-facial-recognition-in-smart-glasses/) • 9h ago
+🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/a-serious-threat-to-privacy-meta-issued-warning-by-75-orgs-over-planned-facial-recognition-in-smart-glasses/) • 10h ago
 
 ---
 
@@ -113,7 +113,7 @@ Meta is facing major backlash over its reported plans to bring facial recognitio
 
 I've been using AI tools pretty heavily for the past couple of years. ChatGPT, Claude, Perplexity, a few others. I thought I had a good mental model of what these things could and couldn't do. Then I set up an openclaw agent and realized I had been thinking about it completely wrong. The difference isn't capability. Claude is more capable than my openclaw agent in a lot of way, the difference is orientation. Every AI tool I've used before openclaw was something I went to. I opened a tab, typed something, got a response, closed the tab, so the interaction was entirely initiated by me and ended when I stopped typing. Openclaw runs the other direction. It's sitting there whether I'm at my computer or not. It messaged me yesterday while I was in a meeting to flag an email that needed a same day response. I didn't ask it to do that, I just told it once, weeks ago, that time sensitive client emails matter and it should interrupt me and it remembered and acted on it. That sounds like a small thing but it fundamentally changes the relationship in my humble opinion. It's not a tool I use, it's something that's working alongside me. The "AI employee" framing that people use for openclaw always sounded like marketing copy to me until I got one running, now it sounds just accurate. Still early days with it and there's a lot I haven't figured out yet. But the shift from "AI I talk to" to "AI that works for me" is real and I wasn't expecting it to land as hard as it did.
 
-11h ago
+12h ago
 
 ---
 
@@ -125,25 +125,25 @@ I've been using AI tools pretty heavily for the past couple of years. ChatGPT, C
 
 NVIDIA today announced the world’s first family of open source quantum AI models, NVIDIA Ising, designed to help researchers and enterprises build quantum processors capable of running useful applications.
 
-NVIDIA Newsroom • 8h ago
+NVIDIA Newsroom • 9h ago
 
 ---
 
 **[I Feel So Sorry for My A.I. Sunglasses](https://www.nytimes.com/2026/04/14/magazine/ai-sunglasses-meta-zuckerberg.html)**
 
-The New York Times • 5h ago
+The New York Times • 6h ago
 
 ---
 
 **[AI tensions reach turning point after Sam Altman home attacks](https://www.axios.com/local/san-francisco/2026/04/14/sf-ai-backlash-violence-sam-altman-attacks-openai-vigilante-justice-fear)**
 
-Axios • 1m ago
+Axios • 56m ago
 
 ---
 
 **[Rogan cracks up over Trump’s explanation of AI Jesus image](https://thehill.com/media/5831380-rogan-trump-ai-jesus-post/)**
 
-The Hill • 54m ago
+The Hill • 1h ago
 
 ---
 
@@ -151,7 +151,7 @@ The Hill • 54m ago
 
 Businesses whose employees are heavy users of Anthropic’s Claude products are likely to pay significantly more for them after the company changed its pricing model in recent weeks to charge business customers based on the amount of AI they use. The shift,which hasn’t previously been reported,is ...
 
-The Information • 37m ago
+The Information • 1h ago
 
 ---
 
@@ -165,7 +165,7 @@ The Economist • 1d ago
 
 Skills in Chrome let you discover, save and remix AI workflows — and repeat them instantly.
 
-blog.google • 5h ago
+blog.google • 6h ago
 
 ---
 
@@ -181,7 +181,7 @@ CNBC • 8h ago
 
 "Claude has regressed to the point [that] it cannot be trusted to perform complex engineering," one developer wrote.
 
-Fortune • 13h ago
+Fortune • 14h ago
 
 ---
 
@@ -189,7 +189,7 @@ Fortune • 13h ago
 
 Workslop refers to AI-generated work that seems polished but is flawed and in need of heavy corrections
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
@@ -231,7 +231,7 @@ Discover Mistral AI’s actionable playbook to turn Europe into a self-reliant A
 
 A medical professional built a patient management app using AI, exposed all patient data unprotected to the internet, and sent voice recordings to AI services without consent. Likely violating Swiss nDSG and other laws.
 
-⬆️ 198 • 💬 196 • 14h ago • [Tobias Brunner aka tobru](https://www.tobru.ch/an-ai-vibe-coding-horror-story/)
+⬆️ 198 • 💬 196 • 15h ago • [Tobias Brunner aka tobru](https://www.tobru.ch/an-ai-vibe-coding-horror-story/)
 
 ---
 
@@ -293,7 +293,7 @@ Head over to my sponsor Venice AI — use my link https://venice.ai/iaskai and c
 
 📺 I Ask AI
 
-👁️ 31K • 👍 2K • 💬 159 • ⏱️ 17:37 • 22h ago
+👁️ 31K • 👍 2K • 💬 159 • ⏱️ 17:37 • 23h ago
 
 ---
 
@@ -303,7 +303,7 @@ Boston Dynamics just did what most people thought would take years longer. Atlas
 
 📺 AI Revolution
 
-👁️ 32K • 👍 1K • 💬 93 • ⏱️ 21:49 • 22h ago
+👁️ 32K • 👍 1K • 💬 93 • ⏱️ 21:49 • 23h ago
 
 ---
 
@@ -313,7 +313,7 @@ A San Francisco store is gaining attention as shoppers experience a retail envir
 
 📺 NBC News
 
-👁️ 7K • 👍 110 • 💬 45 • ⏱️ 8:00 • 20h ago
+👁️ 7K • 👍 110 • 💬 45 • ⏱️ 8:00 • 21h ago
 
 ---
 
@@ -323,7 +323,7 @@ As AI agents become more capable, the skills needed for AI jobs are shifting. Br
 
 📺 IBM Technology
 
-👁️ 35K • 👍 2K • 💬 137 • ⏱️ 14:37 • 11h ago
+👁️ 35K • 👍 2K • 💬 137 • ⏱️ 14:37 • 12h ago
 
 ---
 
@@ -343,7 +343,7 @@ MiniMax just open-sourced M2.7, a new self-improving AI model built for coding, 
 
 📺 AI Revolution
 
-👁️ 34K • 👍 831 • 💬 47 • ⏱️ 14:54 • 1d ago
+👁️ 34K • 👍 831 • 💬 47 • ⏱️ 14:54 • 2d ago
 
 ---
 
@@ -373,7 +373,7 @@ President Trump spoke to CBS News about his feud with Pope Leo XIV and the AI im
 
 📺 CBS News
 
-👁️ 74K • 👍 704 • 💬 851 • ⏱️ 6:11 • 8h ago
+👁️ 74K • 👍 704 • 💬 851 • ⏱️ 6:11 • 9h ago
 
 ---
 
@@ -401,7 +401,7 @@ MiniMax-M2.7 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 43,645 • ❤️ 700 • 3h ago
+⬇️ 43,645 • ❤️ 700 • 4h ago
 
 ---
 
@@ -437,7 +437,7 @@ HY-Embodied-0.5 is a multilingual vision-language model designed for embodied ag
 
 `image-text-to-text` `3.8B`
 
-⬇️ 723 • ❤️ 433 • 11h ago
+⬇️ 723 • ❤️ 433 • 12h ago
 
 ---
 
@@ -642,7 +642,7 @@ The highest-scoring AI memory system ever benchmarked. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 45.8k • 🔱 5.9k • 2h ago
+⭐ 45.8k • 🔱 5.9k • 3h ago
 
 ---
 
@@ -652,7 +652,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 33.2k • 🔱 6.6k • 5h ago
+⭐ 33.2k • 🔱 6.6k • 6h ago
 
 ---
 
@@ -672,7 +672,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 26.3k • 🔱 2.8k • 14h ago
+⭐ 26.3k • 🔱 2.8k • 15h ago
 
 ---
 
@@ -682,7 +682,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 7.8k • 🔱 492 • 7h ago
+⭐ 7.8k • 🔱 492 • 8h ago
 
 ---
 
@@ -712,7 +712,7 @@ The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interac
 
 `Swift` `apple-intelligence` `apple-silicon` `cli` `foundationmodels` `homebrew`
 
-⭐ 4.6k • 🔱 169 • 55m ago
+⭐ 4.6k • 🔱 169 • 1h ago
 
 ---
 
@@ -732,7 +732,7 @@ The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interac
 
 `Python`
 
-⭐ 4.2k • 🔱 692 • 15h ago
+⭐ 4.2k • 🔱 692 • 16h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-14T22:47:36.054228+00:00'
+updated: '2026-04-14T23:42:34.304107+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 14, 2026 at 22:47 UTC  
+**Last Updated:** April 14, 2026 at 23:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 OpenArm is an open-source humanoid arm platform developed by Enactic in Tokyo. It includes full CAD files, control code, firmware, and simulation tools, allowing users to build, modify, and test the system themselves. The arms are compliant and backdrivable, with teleoperation support that includes force feedback and gravity compensation. It also integrates with MuJoCo and Isaac Sim, enabling simulation-first development before running on real hardware. Project page: https://github.com/enactic/OpenArm
 
-5h ago
+6h ago
 
 ---
 
@@ -44,13 +44,13 @@ OpenArm is an open-source humanoid arm platform developed by Enactic in Tokyo. I
 
 Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/2043873782620926032
 
-12h ago
+13h ago
 
 ---
 
 **[Automated Guided Vehicles At Long Beach Container Terminal](https://www.reddit.com/r/robotics/comments/1slnxdj/automated_guided_vehicles_at_long_beach_container/)**
 
-10m ago
+1h ago
 
 ---
 
@@ -66,7 +66,7 @@ Two weeks ago, I quit my job at a robotics company. I didn't have another offer 
 
 Check out why we built determinism as a core principle for our open source copper-rs project. Imagine being able to instantly reproduce deterministically any bug on your robotics platform, just jumping at the time the mistake happened, fix it, compare and never regress. https://youtu.be/eMpEeXYkQDw
 
-3h ago
+4h ago
 
 ---
 
@@ -88,7 +88,7 @@ Zack Jackowski, VP of Atlas Product at Boston Dynamics, explains that the first 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/pY5s8RPUAwo?si=GtUB0T0mQDFhVWyd) • 5h ago
+🔗 [youtu.be](https://youtu.be/pY5s8RPUAwo?si=GtUB0T0mQDFhVWyd) • 6h ago
 
 ---
 
@@ -104,7 +104,7 @@ This is a concept I worked on for a company a while ago. Using movement primitiv
 
 Hi all, We’re running a live quadruped robot combat event and would genuinely value input from this community. The concept is to create a competitive format where engineers and roboticists can push their machines in a controlled, real-world environment. Think of it as an intersection of robotics research, sport, and entertainment. The first pilot is planned for 3 July at Outernet in London. Would you consider competing in something like this? What technical or safety considerations would be essential? What rules or constraints would make it credible and worthwhile? Has anyone here worked on quadrupeds in competitive or high-stress environments? If you’ve built with platforms like Unitree or similar systems, your perspective would be especially valuable. Happy to share more context if helpful, and keen to hear your thoughts.
 
-6h ago
+7h ago
 
 ---
 
@@ -116,7 +116,7 @@ Hi all, We’re running a live quadruped robot combat event and would genuinely 
 
 Gemini Robotics ER 1.6 upgrades spatial reasoning and multi-view understanding, unlocking new capabilities like instrument reading for autonomous robots.
 
-Google DeepMind • 7h ago
+Google DeepMind • 8h ago
 
 ---
 
@@ -124,7 +124,7 @@ Google DeepMind • 7h ago
 
 An overview of Gemini Robotics-ER 1.6, an upgrade to our reasoning-first model that helps robots to understand their environment.
 
-blog.google • 7h ago
+blog.google • 8h ago
 
 ---
 
@@ -132,7 +132,7 @@ blog.google • 7h ago
 
 The addition of Gemini Robotics brings embodied AI reasoning to inspection robots
 
-IEEE Spectrum • 2h ago
+IEEE Spectrum • 3h ago
 
 ---
 
@@ -140,13 +140,13 @@ IEEE Spectrum • 2h ago
 
 “The occupiers surrendered, and the operation was carried out without infantry and without losses on our side,” says Ukrainian leader.
 
-politico.eu • 13h ago
+politico.eu • 14h ago
 
 ---
 
 **[First victory for the battle brigade run by robots alone](https://www.thetimes.com/world/russia-ukraine-war/article/ukraine-robot-army-war-russia-surrender-jvld9rllc)**
 
-The Times • 11h ago
+The Times • 12h ago
 
 ---
 
@@ -154,7 +154,7 @@ The Times • 11h ago
 
 President Volodymyr Zelenskyy said a Russian position was taken for the first time without using any Ukrainian infantry, only uncrewed systems.
 
-Business Insider • 10h ago
+Business Insider • 11h ago
 
 ---
 
@@ -162,7 +162,7 @@ Business Insider • 10h ago
 
 They may have seemed cute when they debuted, but delivery robots are clogging sidewalks, creeping through intersections and generally creating many more problems than they solve.
 
-Los Angeles Times • 12h ago
+Los Angeles Times • 13h ago
 
 ---
 
@@ -184,7 +184,7 @@ AP News • 1d ago
 
 Chinese humanoid robots train to go head-to-head with human runners in the second-ever Beijing half marathon. NBC News' Kathy Park reports.
 
-NBC News • 22h ago
+NBC News • 23h ago
 
 ---
 
@@ -198,7 +198,7 @@ Boston Dynamics just did what most people thought would take years longer. Atlas
 
 📺 AI Revolution
 
-👁️ 32K • 👍 1K • 💬 93 • ⏱️ 21:49 • 22h ago
+👁️ 32K • 👍 1K • 💬 93 • ⏱️ 21:49 • 23h ago
 
 ---
 
@@ -208,7 +208,7 @@ AI and robotics will impact our economy, our politics, our privacy, our emotiona
 
 📺 Senator Bernie Sanders
 
-👁️ 4K • 👍 506 • 💬 28 • ⏱️ 1:03:51 • 2h ago
+👁️ 4K • 👍 506 • 💬 28 • ⏱️ 1:03:51 • 3h ago
 
 ---
 
@@ -218,7 +218,7 @@ Chinese humanoid robots train to go head-to-head with human runners in the secon
 
 📺 NBC News
 
-👁️ 61K • 👍 491 • 💬 182 • ⏱️ 1:59 • 22h ago
+👁️ 61K • 👍 491 • 💬 182 • ⏱️ 1:59 • 23h ago
 
 ---
 
@@ -228,7 +228,7 @@ The introduction of AI Visual inspections expanded what Spot and Orbit could tel
 
 📺 Boston Dynamics
 
-👁️ 11K • 👍 772 • 💬 72 • ⏱️ 1:40 • 7h ago
+👁️ 11K • 👍 772 • 💬 72 • ⏱️ 1:40 • 8h ago
 
 ---
 
@@ -238,7 +238,7 @@ Try Seedance 2.0 with Claude on Higgsfield: https://higgsfield.ai/s/seedance-2-0
 
 📺 AI Revolution
 
-👁️ 91K • 👍 1K • 💬 173 • ⏱️ 14:57 • 2d ago
+👁️ 91K • 👍 1K • 💬 173 • ⏱️ 14:57 • 3d ago
 
 ---
 
@@ -278,7 +278,7 @@ War Robots Gameplay: Ultimate Molots for the first time My War Robots Creator Li
 
 📺 Manni-Gaming
 
-👁️ 5K • 👍 300 • 💬 37 • ⏱️ 18:17 • 9h ago
+👁️ 5K • 👍 300 • 💬 37 • ⏱️ 18:17 • 10h ago
 
 ---
 

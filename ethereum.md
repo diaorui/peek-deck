@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-14T22:47:36.051088+00:00'
+updated: '2026-04-14T23:42:34.300872+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
-- news
 - cryptocurrency
+- news
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 14, 2026 at 22:47 UTC  
+**Last Updated:** April 14, 2026 at 23:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Man I was looking at some recent governance votes across a few protocols and the amount of obvious botting is just depressing at this point. it feels like every time we come up with a new sybil resistance mechanism, someone just spins up a better script to farm it and now with AI agents getting actually decent at mimicking random on-chain behavior and passing standard checks, it seems like pure software solutions are just dead in the water. I really hate the idea of forced traditional KYC for web3 stuff because it completely defeats the point of privacy and just builds another centralized honeypot. was reading this technical deep dive the other day about setting up a private Proof Of Human using ZK tech so you don't actually tie your daily wallet to your real identity. tbh it made me realize we might actually need some kind of hardware or biometric anchor if we want to keep things decentralized without getting completely overrun by server farms it just sucks that the ecosystem is moving in a direction where simply "proving you are a person" is becoming the hardest part of interacting with ethereum. Idk, curious how you guys think L2s are gonna handle this long term because the current meta of hoping for the best isn't working
 
-3h ago
+4h ago
 
 ---
 
@@ -80,7 +80,7 @@ Man I was looking at some recent governance votes across a few protocols and the
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
 
 ---
 
@@ -88,13 +88,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 A fake Ledger Live clone sat on Apple's App Store for seven days and drained $9.5 million from 50 victims across Bitcoin, Ethereum, Solana, Tron and XRP. Apple's review process, which promises to protect users, let it through. Then removed it after the damage was done.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/fake-ledger-app-apple-app-store-9-million-drained/) • 4h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/fake-ledger-app-apple-app-store-9-million-drained/) • 5h ago
 
 ---
 
 **[Building a prediction market sector index — is this a gap or am I missing something obvious?](https://www.reddit.com/r/ethereum/comments/1slnr4y/building_a_prediction_market_sector_index_is_this/)**
 
-17m ago
+1h ago
 
 ---
 
@@ -169,7 +169,7 @@ Decrypt • 1d ago
 
 CoW Swap, a decentralized exchange used by Ethereum co-founder Vitalik Buterin, paused its protocol after suffering a front-end attack.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -177,7 +177,7 @@ Yahoo Finance • 1h ago
 
 The organization unveiled a new initiative aimed at tackling a persistent challenge in crypto development—the high cost of smart contract security audits.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -199,13 +199,13 @@ PR Newswire • 1d ago
 
 The rally has seen Bitcoin price rise to around $75,000 after falling as low as almost $60,000 in recent months.
 
-Fortune • 6h ago
+Fortune • 7h ago
 
 ---
 
 **[Ethereum Break Above Key Averages Supports Ongoing Uptrend Setup](https://www.investing.com/analysis/ethereum-break-above-key-averages-supports-ongoing-uptrend-setup-200678442)**
 
-Investing.com • 41m ago
+Investing.com • 1h ago
 
 ---
 
@@ -221,7 +221,7 @@ TradingView — Track All Markets • 1d ago
 
 Ripple CEO Brad Garlinghouse says XRP could challenge Ethereum for the #2 crypto spot, driven by real-world cross-border payment utility.
 
-Coinpaper • 10h ago
+Coinpaper • 11h ago
 
 ---
 
@@ -235,7 +235,7 @@ BloFin - No KYC/No VPN needed [Trade ETH Coin Futures!] https://marzell.org/Blof
 
 📺 Marzell Crypto
 
-👁️ 627 • 👍 27 • 💬 121 • ⏱️ 5:01 • 17h ago
+👁️ 627 • 👍 27 • 💬 121 • ⏱️ 5:01 • 18h ago
 
 ---
 
@@ -285,7 +285,7 @@ Elon Musk is live right now revealing Terafab, the revolutionary project from Te
 
 📺 TheMrNokia I Abdulla Zaki
 
-👁️ 3K • 👍 2K • 1h ago
+👁️ 3K • 👍 2K • 2h ago
 
 ---
 
@@ -315,7 +315,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 599 • 👍 27 • 💬 18 • ⏱️ 4:45 • 13h ago
+👁️ 599 • 👍 27 • 💬 18 • ⏱️ 4:45 • 14h ago
 
 ---
 
