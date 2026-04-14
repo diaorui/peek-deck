@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-14T18:05:40.347246+00:00'
+updated: '2026-04-14T19:49:11.447836+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- cryptocurrency
-- social
 - videos
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 14, 2026 at 18:05 UTC  
+**Last Updated:** April 14, 2026 at 19:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,340.76
+### $2,311.42
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +3.6%  
-**7d:** +7.0%  
-**30d:** -0.4%  
-**90d:** -29.4%  
-**1y:** +47.5%  
+**24h:** +2.6%  
+**7d:** +5.6%  
+**30d:** -1.7%  
+**90d:** -30.3%  
+**1y:** +45.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $283.52B
+**Market Cap:** $279.05B
 Rank #2
 
 **Circulating Supply:** 120,690,992 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--52.5%
+-53.3%
 
 **All-Time Low:** $0.43
-+542827.0%
++533842.8%
 
 ---
 
@@ -72,7 +72,23 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
+
+---
+
+**[are we basically accepting that DAOs will be run by bots soon?](https://www.reddit.com/r/ethereum/comments/1slhx0g/are_we_basically_accepting_that_daos_will_be_run/)**
+
+Man I was looking at some recent governance votes across a few protocols and the amount of obvious botting is just depressing at this point. it feels like every time we come up with a new sybil resistance mechanism, someone just spins up a better script to farm it and now with AI agents getting actually decent at mimicking random on-chain behavior and passing standard checks, it seems like pure software solutions are just dead in the water. I really hate the idea of forced traditional KYC for web3 stuff because it completely defeats the point of privacy and just builds another centralized honeypot. was reading this technical deep dive the other day about setting up a private Proof Of Human using ZK tech so you don't actually tie your daily wallet to your real identity. tbh it made me realize we might actually need some kind of hardware or biometric anchor if we want to keep things decentralized without getting completely overrun by server farms it just sucks that the ecosystem is moving in a direction where simply "proving you are a person" is becoming the hardest part of interacting with ethereum. Idk, curious how you guys think L2s are gonna handle this long term because the current meta of hoping for the best isn't working
+
+53m ago
+
+---
+
+**[Apple Charges $99 a Year to Keep You Safe. A Fake Ledger App Just Drained $9.5 Million in a Week](https://www.reddit.com/r/ethereum/comments/1slh9gu/apple_charges_99_a_year_to_keep_you_safe_a_fake/)**
+
+A fake Ledger Live clone sat on Apple's App Store for seven days and drained $9.5 million from 50 victims across Bitcoin, Ethereum, Solana, Tron and XRP. Apple's review process, which promises to protect users, let it through. Then removed it after the damage was done.
+
+🔗 [DailyCoinPost](https://dailycoinpost.com/fake-ledger-app-apple-app-store-9-million-drained/) • 1h ago
 
 ---
 
@@ -81,7 +97,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 Coinbase AgentKit Prompt Injection: Wallet Drain, Infinite Approvals, and Agent-Level RCE Reported 13 days after Coinbase launched Agentic Wallets. Validated by Coinbase. Demonstrated on-chain. Published: April 11, 2026 CVE status: Pending assignment
 Coinbase AgentKit is developer infrastructure for building AI agents with direct access to wallets, token operations, DeFi actions, and related execution surfaces. This disclosure covers a prompt injection vulnerability in AgentKit that allowed attacker-controlled input to trigger sensitive tool execution without a built-in human confirmation step.
 
-🔗 [x402warden](https://x402warden.com/research/coinbase-agentkit-prompt-injection/) • 20h ago
+🔗 [x402warden](https://x402warden.com/research/coinbase-agentkit-prompt-injection/) • 22h ago
 
 ---
 
@@ -131,23 +147,17 @@ There’s a lot of focus lately on calldata in the context of rollups and EIP-20
 
 ---
 
-**[Is the "Crypto Purge" at Twitter simply an algorithm glitch—or a massive Conflict of Interest?](https://www.reddit.com/r/ethereum/comments/1sjf56t/is_the_crypto_purge_at_twitter_simply_an/)**
-
-2d ago
-
----
-
-**[My journey trying to build something useful](https://www.reddit.com/r/ethereum/comments/1sij1vy/my_journey_trying_to_build_something_useful/)**
-
-Over the past year I've been thinking a lot about Web3. Not the trading, not the speculation, not the casino. I don't trade crypto. I don't follow the markets. What fascinates me is the underlying idea: decentralized systems with code as the only authority. The technology itself. I've been a backend engineer for over a decade. Rails, SQL, the usual stack. But like many engineers, I burned out. The excitement to build faded. You know the feeling. You're competent, productive, but not discovering anything anymore. Then I looked seriously at blockchain. Not as an investor, but as an engineer. I asked myself: what would an application look like if built with absolute fidelity to what blockchain promises? Real utility (useful for the masses, not DeFi nonesense) NO off-chain layers (100% on-chain) NO insider advantages (fair economics) NO dependence on investors (self-sustaining) NO pointless tokenomics (ETH in, ETH out) Those five principles became my compass. I tried to build something that never violated them. But the Web3 ecosystem is built around tokenomics and speculation. There's no blueprint to follow. So I started pulling my own thread: I wanted to build something useful, deterministic, fully on-chain, with no complicated tokenomics. A simple game like TicTacToe with real ETH stakes? Interesting, but too narrow. Then the frame shifted. I wasn't building a game anymore. I was building a tournament layer. A universal competitive infrastructure that's fair, open-source, and 100% on-chain. That's when the hard problems started. How do you handle draws on a decentralized platform? How do you stop players griefing opponents without central authority? These aren't just technical questions. They're moral ones. They forced me to think deeply about fairness, about building a system nobody controls and nobody can manipulate. The answers surprised me. Forget Kubernetes, Redis, all that complexity. With these constraints (fully on-chain, truly open, completely decentralized) the legacy stack collapses into something elegant. A client talking directly to contracts. No servers. No databases. No company. Just code. That freedom changed how I think about software. So I built ETour A 100% on-chain tournament protocol, now live on Arbitrum. Players pay an entry fee, compete, the best player wins and takes the pot. Code decides everything. No intermediaries. As Web3 should be. I open-sourced it so developers can build their own games on it and inherit all of its features for free. I'm not here to tell you this is revolutionary. I built this because it felt like a problem worth solving. ETour is what came out the other side. The code is public. The contracts are immutable. The logic is yours to verify. PS: The technical docs are not final and will be updated soon. https://etour.games https://etour.games/whitepaper https://etour.games/manual https://etour.games/docs TLDR: ETour is useful, it's live, and it's open-source. Go ahead and play on it, or build your own game using its 100% on-chain and open source tournament modules.
-
-3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
+
+**[Ondo seeks SEC clearance for tokenized equities model on Ethereum](https://www.theblock.co/post/397258/ondo-seeks-sec-clearance-tokenized-equities-model-ethereum)**
+
+The SEC is signaling openness to tokenization, encouraging firms to engage directly as it fine-tunes regulations.
+
+The Block • 1d ago
+
+---
 
 **[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.875 Million Tokens, and Total Crypto and Total Cash Holdings of $11.8 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-4-875-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-8-billion-302740122.html)**
 
@@ -173,11 +183,11 @@ Decrypt • 1d ago
 
 ---
 
-**[Crypto News: ByBit Is Now Letting Traders Use Bitcoin and Ethereum to Trade Stocks Like Apple and BlackRock’s IBIT](https://finance.yahoo.com/markets/crypto/articles/crypto-news-bybit-now-letting-164044776.html)**
+**[Ethereum Foundation unveils $1M audit subsidy program to boost crypto security and cut costs for builders](https://www.coindesk.com/tech/2026/04/14/ethereum-foundation-unveils-usd1m-audit-subsidy-program-to-boost-crypto-security-and-cut-costs-for-builders)**
 
-Most people who hold Bitcoin (CRYPTO: BTC) or Ethereum (CRYPTO: ETH) are doing one of two things with it. They’re either holding and waiting for the price to go up, or trading it for other cryptos—and ByBit just added a third option. The crypto exchange, which serves over 80 million users and ranks among the ... Crypto News: ByBit Is Now Letting Traders Use Bitcoin and Ethereum to Trade Stocks Like Apple and BlackRock’s IBIT
+The organization unveiled a new initiative aimed at tackling a persistent challenge in crypto development—the high cost of smart contract security audits.
 
-Yahoo Finance • 1h ago
+CoinDesk • 1h ago
 
 ---
 
@@ -185,15 +195,15 @@ Yahoo Finance • 1h ago
 
 The EF tapped Areta's audit marketplace to provide access to over 20 security firms like Blocksec, Cetora, Hacken, Immunefi and Quantstamp.
 
-The Block • 1h ago
+The Block • 3h ago
 
 ---
 
-**[CoinDesk 20 performance update: Ethereum (ETH) price rises 5.4%](https://www.coindesk.com/coindesk-indices/2026/04/14/coindesk-20-performance-update-ethereum-eth-price-rises-5-4)**
+**[Bitcoin Hits $75,000 as XRP, Ethereum, and Solana All Surge: Is the Crypto Bull Run Starting?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-hits-75-000-xrp-113610617.html)**
 
-Aave (AAVE), up 3.6% from Monday, joined Ethereum as a top performer.
+For the first time since mid-March, Bitcoin (CRYPTO: BTC) is back above $75,000. The Bitcoin price had been ranging below $70,000 for more than a month, with every rally getting cut short by the bearish pressure the Middle East war has put on the market. Right now, the whole market is surging—Bitcoin has climbed 5.9%, ... Bitcoin Hits $75,000 as XRP, Ethereum, and Solana All Surge: Is the Crypto Bull Run Starting?
 
-CoinDesk • 4h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -203,25 +213,19 @@ Barron's • 1d ago
 
 ---
 
+**[Bitcoin, Ethereum approach two-month highs as markets grow optimistic over U.S.-Iran peace negotiations](https://fortune.com/2026/04/14/bitcoin-ethereum-price-today-us-iran-peace-talks/)**
+
+The rally has seen Bitcoin price rise to around $75,000 after falling as low as almost $60,000 in recent months.
+
+Fortune • 3h ago
+
+---
+
 **[Marc Andreesen Just Said That Artificial General Intelligence (AGI) Is Here. Here's What That Could Mean for Ethereum.](https://www.fool.com/investing/2026/04/14/marc-andreesen-just-said-that-artificial-general-i/)**
 
 If Andreesen is right, Ethereum could be in for a wild ride pretty soon.
 
-The Motley Fool • 3h ago
-
----
-
-**[Ethereum leads way as large cryptocurrencies post gains](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-post-gains-f608b9dd-f4607b97363e)**
-
-MarketWatch • 4h ago
-
----
-
-**[A Historic Ethereum Signal Just Fired – Discover What Happens Next](https://www.tradingview.com/news/newsbtc:c70dbd912094b:0-a-historic-ethereum-signal-just-fired-discover-what-happens-next/)**
-
-Ethereum has been consolidating below $2,200 for weeks. The selling pressure is real. The uncertainty is higher. And the participants who hold enough ETH to move markets just crossed back into profit, which, in the history of this asset, has never happened quietly.A CryptoQuant analyst tracking the…
-
-TradingView — Track All Markets • 19h ago
+The Motley Fool • 5h ago
 
 ---
 
@@ -235,7 +239,7 @@ BloFin - No KYC/No VPN needed [Trade ETH Coin Futures!] https://marzell.org/Blof
 
 📺 Marzell Crypto
 
-👁️ 435 • 👍 26 • 💬 134 • ⏱️ 5:01 • 12h ago
+👁️ 573 • 👍 27 • 💬 119 • ⏱️ 5:01 • 14h ago
 
 ---
 
@@ -245,17 +249,7 @@ Here is the latest on bitcoin, ethereum and crypto in general! Be aware of whats
 
 📺 Thomas Kralow
 
-👁️ 16K • 👍 2K • 💬 29 • ⏱️ 10:18 • 1d ago
-
----
-
-**[Bitcoin &amp; Ethereum Whales Are Buying Like It’s a Bull Market… The Signal Is Clear](https://www.youtube.com/watch?v=lX6XC7LPRYs)**
-
-Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to stay smart on crypto: ...
-
-📺 Milk Road
-
-👁️ 5K • 👍 190 • 💬 91 • ⏱️ 38:50 • 23h ago
+👁️ 17K • 👍 2K • 💬 28 • ⏱️ 10:18 • 1d ago
 
 ---
 
@@ -265,7 +259,27 @@ Ethereum is down more than 50% from its all-time high, but the bigger concern ri
 
 📺 More Crypto Online
 
-👁️ 5K • 👍 233 • 💬 29 • ⏱️ 15:54 • 21h ago
+👁️ 5K • 👍 232 • 💬 28 • ⏱️ 15:54 • 22h ago
+
+---
+
+**[Bitcoin to $200k, Ethereum To $10k Is &#39;Programed&#39;](https://www.youtube.com/watch?v=q50SBPezTJo)**
+
+Tony Edwards of Thinking Crypto interview. We talk: Incoming Bitcoin Bottom, QE, Trump Pump, Altcoin Season, Supercycle, ...
+
+📺 Altcoin Daily
+
+👁️ 1K • 👍 61 • 💬 2 • ⏱️ 0:59 • 2h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Whales Are Buying Like It’s a Bull Market… The Signal Is Clear](https://www.youtube.com/watch?v=lX6XC7LPRYs)**
+
+Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to stay smart on crypto: ...
+
+📺 Milk Road
+
+👁️ 5K • 👍 198 • 💬 91 • ⏱️ 38:50 • 1d ago
 
 ---
 
@@ -275,27 +289,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 381 • 👍 25 • 💬 17 • ⏱️ 4:45 • 8h ago
-
----
-
-**[CRYPTO LIVE TRADING || 14 APRIL  | ‪@ClockTraderlive‬ #bitcoin #ethereum #crypto #btclivetrading](https://www.youtube.com/watch?v=Sr0RfhAnaHo)**
-
-join my social platforms for updates and analysis ✓Instagram: ...
-
-📺 Aryan trader Live
-
-👁️ 5K • 👍 5K • 2h ago
-
----
-
-**[ETHEREUM ALERT !!!!](https://www.youtube.com/watch?v=TGcjfizAtl0)**
-
-BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome 20% ...
-
-📺 The Moon Show
-
-👁️ 12K • 👍 1K • 💬 74 • ⏱️ 8:32 • 1d ago
+👁️ 537 • 👍 27 • 💬 17 • ⏱️ 4:45 • 10h ago
 
 ---
 
@@ -305,17 +299,17 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 5K • 👍 169 • 💬 25 • ⏱️ 10:57 • 2d ago
+👁️ 5K • 👍 170 • 💬 24 • ⏱️ 10:57 • 2d ago
 
 ---
 
-**[BITCOIN: Everyone is WRONG About This (important)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=uZnjzuPNTng)**
+**[ETHEREUM ALERT !!!!](https://www.youtube.com/watch?v=TGcjfizAtl0)**
 
-BITCOIN: Everyone is WRONG About This (important)!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
+BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome 20% ...
 
-📺 Crypto World
+📺 The Moon Show
 
-👁️ 9K • 👍 339 • 💬 150 • ⏱️ 19:32 • 20h ago
+👁️ 13K • 👍 1K • 💬 73 • ⏱️ 8:32 • 1d ago
 
 ---
 
@@ -325,7 +319,17 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 216 • 👍 36 • ⏱️ 6:09 • 2h ago
+👁️ 507 • 👍 67 • ⏱️ 6:09 • 4h ago
+
+---
+
+**[ПРОИЗОЙДЁТ НЕВЕРОЯТНОЕ! ОБЗОР БИТКОИНА, ETHEREUM, CARDANO, NEAR PROTOCOL, AVALANCHE!](https://www.youtube.com/watch?v=ur2DPlgkYto)**
+
+Рынок продолжает расти, поэтому разберём текущую ситуацию на рынке и узнаем реально ли продолжение роста.
+
+📺 Kaito Trade
+
+👁️ 253 • 👍 29 • 💬 10 • ⏱️ 16:49 • 4h ago
 
 ---
 

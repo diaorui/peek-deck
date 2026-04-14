@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-14T18:05:40.341205+00:00'
+updated: '2026-04-14T19:49:11.441815+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- cryptocurrency
-- social
 - videos
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 14, 2026 at 18:05 UTC  
+**Last Updated:** April 14, 2026 at 19:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $74,766.69
+### $74,173.96
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.0%  
-**7d:** +5.2%  
-**30d:** -0.1%  
-**90d:** -21.8%  
-**1y:** -10.6%  
+**24h:** +1.2%  
+**7d:** +4.2%  
+**30d:** -1.1%  
+**90d:** -22.5%  
+**1y:** -11.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1504.94B
+**Market Cap:** $1484.42B
 Rank #1
 
-**Circulating Supply:** 20,015,753 BTC
+**Circulating Supply:** 20,015,818 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--40.3%
+-41.2%
 
 **All-Time Low:** $67.81
-+110892.5%
++109290.9%
 
 ---
 
@@ -81,15 +81,13 @@ Rank #1
 
 I got to thinking, while there is only going to be 21 million BTC how many people can really own 1?
 
-2h ago
+4h ago
 
 ---
 
-**[When The Fed Admitted They Just Print the Money (out of thin air)](https://www.reddit.com/r/Bitcoin/comments/1sl6ve2/when_the_fed_admitted_they_just_print_the_money/)**
+**[Defund War. Buy Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1slb55q/defund_war_buy_bitcoin/)**
 
-https://www.youtube.com/@bitcoinphilosopher
-
-5h ago
+4h ago
 
 ---
 
@@ -97,7 +95,15 @@ https://www.youtube.com/@bitcoinphilosopher
 
 $250 trillion sitting in bonds, equities, real estate, and cash worldwide means that the reallocation has barely started.
 
-1h ago
+3h ago
+
+---
+
+**[When The Fed Admitted They Just Print the Money (out of thin air)](https://www.reddit.com/r/Bitcoin/comments/1sl6ve2/when_the_fed_admitted_they_just_print_the_money/)**
+
+https://www.youtube.com/@bitcoinphilosopher
+
+7h ago
 
 ---
 
@@ -105,7 +111,7 @@ $250 trillion sitting in bonds, equities, real estate, and cash worldwide means 
 
 It’s easy to think about security later. But your setup today is the one you’ll rely on when it’s worth much more.
 
-3h ago
+5h ago
 
 ---
 
@@ -113,7 +119,7 @@ It’s easy to think about security later. But your setup today is the one you�
 
 I can’t find any reasonable explanation of the price rise. Any suggestions?
 
-19h ago
+21h ago
 
 ---
 
@@ -121,7 +127,13 @@ I can’t find any reasonable explanation of the price rise. Any suggestions?
 
 Agree ?😅🤣
 
-11h ago
+13h ago
+
+---
+
+**[We're officially halfway until the next Bitcoin halving (105,000 blocks remaining)](https://www.reddit.com/r/Bitcoin/comments/1sl3xj3/were_officially_halfway_until_the_next_bitcoin/)**
+
+10h ago
 
 ---
 
@@ -129,27 +141,13 @@ Agree ?😅🤣
 
 how does it feel watching institutions and smart retail buying it up when the price is low, while you watch the price rise and wait for it to go lower "soon"? Just curious, at what point will the special rest accept that the train is leavig the station?
 
-9h ago
+11h ago
 
 ---
 
 **[Sorry bears, go back to sleep.](https://www.reddit.com/r/Bitcoin/comments/1sknd1v/sorry_bears_go_back_to_sleep/)**
 
-21h ago
-
----
-
-**[Russell Napier: We Are Headed Towards a System of National Capitalism](https://www.reddit.com/r/Bitcoin/comments/1sl0et5/russell_napier_we_are_headed_towards_a_system_of/)**
-
-Market strategist and historian Russell Napier outlines a future in which governments mandate where investors should deploy their capital. The global monetary system that has existed since 1994 is being radically restructured.
-
-🔗 [The Market](https://themarket.ch/interview/russell-napier-we-are-headed-towards-a-system-of-national-capitalism-ld.12718?srsltid=AfmBOormhwOxGBtngiTtVGhVBzwkwWBLqtnn__bbjWqx8t4LvttzaEfB) • 11h ago
-
----
-
-**[Bro and his Bitcoin story](https://www.reddit.com/r/Bitcoin/comments/1skdb4b/bro_and_his_bitcoin_story/)**
-
-1d ago
+23h ago
 
 ---
 
@@ -157,65 +155,67 @@ Market strategist and historian Russell Napier outlines a future in which govern
 
 ## Google News: "bitcoin"
 
-**['Chaos is a ladder': Bitwise says geopolitical tension lifts bitcoin's appeal, calls $1 million target a possible baseline price](https://www.theblock.co/post/397380/chaos-is-ladder-bitwise-geopolitical-tension-lifts-bitcoins-appeal-1-million-baseline-price)**
+**[Gal Gadot, Isla Fisher Join Casey Affleck, Pete Davidson In 'Bitcoin'](https://deadline.com/2026/04/gal-gadot-isla-fisher-casey-affleck-pete-davidson-bitcoin-1236860330/)**
 
-Bitwise CIO Matt Hougan says bitcoin has outperformed stocks and gold during the Iran conflict as geopolitical uncertainty boosts its appeal.
+The Doug Liman thriller sees Oscar winner Affleck star as computer scientist Craig Wright who has claimed to be the founder of Bitcoin.
+
+Deadline • 2h ago
+
+---
+
+**[Goldman Sachs files for Bitcoin ETF that invests in other Bitcoin exchange-traded products](https://www.theblock.co/post/397412/goldman-sachs-files-for-bitcoin-etf-that-invests-in-other-bitcoin-etfs)**
+
+The fund would provide exposure to ETPs that hold bitcoin, options on spot Bitcoin ETPs and options on “Bitcoin ETP Indices."
 
 The Block • 4h ago
 
 ---
 
-**[BTC tests $75,000 ‘structural breakout’ level with $85,000 upside in view](https://www.coindesk.com/markets/2026/04/14/bitcoin-hits-usd75-000-for-first-time-since-early-february-but-will-it-hold-and-what-it-means-if-it-does)**
+**[Goldman Sachs makes surprise jump into Bitcoin ETFs with a product one analyst dubs “Boomer Candy”](https://fortune.com/2026/04/14/goldman-sachs-bitcoin-etf-boomer-candy/)**
 
-Sustained move above key level could trigger fresh inflows, while failure may test $65K support.
+The filing from a major U.S. bank comes shortly after Morgan Stanley’s Bitcoin ETF launched
 
-CoinDesk • 3h ago
-
----
-
-**[Gal Gadot, Isla Fisher Join Casey Affleck, Pete Davidson In 'Bitcoin'](https://deadline.com/2026/04/gal-gadot-isla-fisher-casey-affleck-pete-davidson-bitcoin-1236860330/)**
-
-The Doug Liman thriller sees Oscar winner Affleck star as computer scientist Craig Wright who has claimed to be the founder of Bitcoin.
-
-Deadline • 44m ago
+Fortune • 1h ago
 
 ---
 
-**[Dickinson Supervisors Discuss Solar, Bitcoin, Battery, Data Center Moratorium](https://www.exploreokoboji.com/news/dickinson-supervisors-discuss-solar-bitcoin-battery-data-center-moratorium/)**
+**[Goldman Sachs files for bitcoin income ETF in crypto push](https://www.coindesk.com/business/2026/04/14/goldman-sachs-files-for-bitcoin-income-etf-in-crypto-push)**
 
-Explore Okoboji • 1h ago
+The bank is moving deeper into crypto with a bitcoin ETF that generates income by selling options on bitcoin-linked funds, following BlackRock’s push into similar yield-focused products.
 
----
-
-**[Why Bitcoin Is Increasingly Being Treated Like Digital Gold](https://www.fool.com/investing/2026/04/14/why-bitcoin-is-being-treated-like-gold/)**
-
-Bitcoin is earning its store-of-value reputation, but only halfway. Here's what's still missing.
-
-The Motley Fool • 59m ago
+CoinDesk • 4h ago
 
 ---
 
-**[Bitcoin jumps to $74,000, but Wall Street is 'cautious' crypto bear market isn't over](https://finance.yahoo.com/news/bitcoin-jumps-to-74000-but-wall-street-is-cautious-crypto-bear-market-isnt-over-151420711.html)**
+**[Fed chairman nominee Kevin Warsh's vast holdings include crypto](https://www.coindesk.com/policy/2026/04/14/the-next-fed-chair-has-a-crypto-portfolio-here-s-everything-that-s-in-it)**
 
-Bitcoin bounced above $74,000 on Tuesday, but Wall Street warns it's a bear market rally, and the token could go lower before it goes higher.
+Kevin Warsh's financial disclosure reveals stakes in DeFi protocols, Ethereum scaling networks, a Bitcoin Lightning startup, and prediction markets — all of which he's promised to sell.
 
-Yahoo Finance • 2h ago
-
----
-
-**[Jordy Visser: Bitcoin will be significantly higher next time I see you](https://www.cnbc.com/video/2026/04/14/jordy-visser-bitcoin-will-be-significantly-higher-next-time-i-see-you.html)**
-
-Jordy Visser, Head of Macro Research at 22V Research, says markets are forward-looking, driven by AI growth and resilient earnings, while inflation risks persist and Bitcoin benefits from negative real yields.
-
-CNBC • 6h ago
+CoinDesk • 50m ago
 
 ---
 
-**[Lib Dems call for inquiry into Farage Bitcoin deal](https://www.bbc.com/news/articles/cd9vgw2g3w2o)**
+**[Here's Why You Shouldn't Put More Than 5% of Your Portfolio in Any One Crypto](https://www.fool.com/investing/2026/04/14/heres-why-you-shouldnt-put-more-than-x-of-your-por/)**
 
-The Reform UK leader is a shareholder in British bitcoin company Stack and appeared in a promotional video.
+Most investors can't stomach the crypto market's wild long-term swings.
 
-BBC • 21h ago
+The Motley Fool • 19m ago
+
+---
+
+**[Bitcoin Moves Past Halfway Point In Halving Cycle As Supply Tightens Toward 2028](https://bitcoinmagazine.com/news/bitcoin-moves-past-halfway-point-halving)**
+
+Bitcoin is now just past the midpoint of its current halving cycle ahead of the 2028 supply cut, while miners continue to face shrinking block rewards.
+
+Bitcoin Magazine • 34m ago
+
+---
+
+**[Bitcoin Price Will Hit $21M, Claims Michael Saylor, Following Strategy’s Latest $1B Purchase](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-hit-21m-claims-145218173.html)**
+
+Saylor doubles down on extreme long-term bullishness. Financing model aims to avoid forced liquidation risk. Bitcoin's price remains volatile. Michael Saylor, executive chairman of Bitcoin-buying ...
+
+Yahoo Finance • 4h ago
 
 ---
 
@@ -227,9 +227,11 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Bitcoin Is Gaining Momentum. How to Play the Rebound.](https://www.barrons.com/articles/bitcoin-is-gaining-momentum-how-to-play-the-rebound-36bbfdbd)**
+**[Is Strategy's Bitcoin Bet Brilliant, or Reckless?](https://www.fool.com/investing/2026/04/12/is-strategys-bitcoin-bet-brilliant-or-reckless/)**
 
-Barron's • 1d ago
+The company has no greater ambition than to accumulate Bitcoin.
+
+The Motley Fool • 2d ago
 
 ---
 
@@ -293,7 +295,7 @@ The British computer scientist and entrepreneur has denied being the man who the
 
 A three-part deep dive into quantum computing's actual threat to Bitcoin. 17 researchers, 13 proposals, real engineering. No hype. No FUD.
 
-⬆️ 6 • 💬 1 • 2d ago • [Bitcoin & Quantum Computing](https://bitcoinquantum.space)
+⬆️ 6 • 💬 1 • 3d ago • [Bitcoin & Quantum Computing](https://bitcoinquantum.space)
 
 ---
 
@@ -321,17 +323,7 @@ Subscribe to Jordi: https://www.youtube.com/@JordiVisserLabs BTC Conference 2026
 
 📺 Altcoin Daily
 
-👁️ 28K • 👍 2K • 💬 99 • ⏱️ 10:18 • 17h ago
-
----
-
-**[🚨Bitcoin Is About to Shock Everyone 🚨 $100K Move Coming?](https://www.youtube.com/watch?v=rErRcM9olec)**
-
-Bitcoin #Crypto #Finance ➡️Trade with us on Bitunix and claim your exclusive bonuses today ...
-
-📺 DataDash
-
-👁️ 8K • 👍 338 • 💬 71 • ⏱️ 22:13 • 1d ago
+👁️ 31K • 👍 2K • 💬 99 • ⏱️ 10:18 • 18h ago
 
 ---
 
@@ -341,37 +333,17 @@ Ran breaks down why markets are suddenly behaving like geopolitical risk is cool
 
 📺 Crypto Banter
 
-👁️ 6K • 👍 591 • 💬 18 • ⏱️ 24:52 • 3h ago
+👁️ 10K • 👍 767 • 💬 25 • ⏱️ 24:52 • 5h ago
 
 ---
 
-**[Bitcoin Just Broke Out: Short Squeeze Could Follow](https://www.youtube.com/watch?v=oqXZhss4roY)**
+**[🚨Bitcoin Is About to Shock Everyone 🚨 $100K Move Coming?](https://www.youtube.com/watch?v=rErRcM9olec)**
 
-Bitcoin is breaking out right now, and momentum is starting to build fast. In this session, Sheldon breaks down why short squeeze ...
+Bitcoin #Crypto #Finance ➡️Trade with us on Bitunix and claim your exclusive bonuses today ...
 
-📺 Crypto Banter
+📺 DataDash
 
-👁️ 5K • 👍 417 • 💬 13 • ⏱️ 15:06 • 7h ago
-
----
-
-**[Bitcoin And Wall Street Both At A Turning Point](https://www.youtube.com/watch?v=3wlth8blq8U)**
-
-Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FREE Crypto Predictions & Compete Weekly ...
-
-📺 CryptosRUs
-
-👁️ 15K • 👍 861 • 💬 275 • ⏱️ 8:20 • 17h ago
-
----
-
-**[SAYLOR&#39;S ENDGAME IS HERE - STRATEGY TO 2 MILLION BITCOIN BY 2027](https://www.youtube.com/watch?v=3BgmsBMlgKA)**
-
-Follow me on X for my best content: http://www.X.com/AdamBLiv Transform Dormant Home Equity into Bitcoin with Horizon: ...
-
-📺 Adam Livingston
-
-👁️ 7K • 👍 766 • 💬 125 • ⏱️ 19:40 • 22h ago
+👁️ 8K • 👍 350 • 💬 81 • ⏱️ 22:13 • 1d ago
 
 ---
 
@@ -381,37 +353,67 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investa
 
 📺 InvestAnswers
 
-👁️ 36K • 👍 3K • 💬 138 • ⏱️ 23:49 • 20h ago
+👁️ 39K • 👍 4K • 💬 139 • ⏱️ 23:49 • 21h ago
 
 ---
 
-**[Bitcoin: Realist Vs. Doomer](https://www.youtube.com/watch?v=QA5EWeTnINs)**
+**[Bitcoin And Wall Street Both At A Turning Point](https://www.youtube.com/watch?v=3wlth8blq8U)**
 
-Is Bitcoin headed for long-term dominance, or a massive collapse? In this video, we break down the two opposing perspectives ...
+Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FREE Crypto Predictions & Compete Weekly ...
+
+📺 CryptosRUs
+
+👁️ 15K • 👍 866 • 💬 213 • ⏱️ 8:20 • 19h ago
+
+---
+
+**[SAYLOR&#39;S ENDGAME IS HERE - STRATEGY TO 2 MILLION BITCOIN BY 2027](https://www.youtube.com/watch?v=3BgmsBMlgKA)**
+
+Follow me on X for my best content: http://www.X.com/AdamBLiv Transform Dormant Home Equity into Bitcoin with Horizon: ...
+
+📺 Adam Livingston
+
+👁️ 8K • 👍 805 • 💬 143 • ⏱️ 19:40 • 23h ago
+
+---
+
+**[What Bitcoin Usually Does](https://www.youtube.com/watch?v=D8AaIgGkrW8)**
+
+Into The Cryptoverse Premium: https://intothecryptoverse.com For inquiries and to subscribe to the monthy newsletter (free): ...
 
 📺 Benjamin Cowen
 
-👁️ 88K • 👍 5K • 💬 338 • ⏱️ 33:36 • 1d ago
+👁️ 10K • 👍 248 • 💬 7 • ⏱️ 0:46 • 22h ago
 
 ---
 
-**[LIVE: Michael Saylor on Bitcoin Bull Run &amp; MSTR Stock – BTC Price Prediction](https://www.youtube.com/watch?v=epdMwlpP0jQ)**
+**[Bitcoin Just Broke Out: Short Squeeze Could Follow](https://www.youtube.com/watch?v=oqXZhss4roY)**
 
-BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Сonference. A visionary Bitcoin ...
+Bitcoin is breaking out right now, and momentum is starting to build fast. In this session, Sheldon breaks down why short squeeze ...
 
-📺 Logan Fullmer
+📺 Crypto Banter
 
-👁️ 2K • 👍 1K • 1h ago
+👁️ 6K • 👍 429 • 💬 16 • ⏱️ 15:06 • 9h ago
 
 ---
 
-**[BITCOIN: We&#39;re Being PLAYED Right Now! (here&#39;s proof) - BTC Price Prediction Today](https://www.youtube.com/watch?v=7bipa606Osk)**
+**[Michael Saylor&#39;s &#39;Strategy&#39; Buys 13,927 Bitcoin Worth $1 Billion — Is BTC About to Explode Now?](https://www.youtube.com/watch?v=0mjJ4_nADHw)**
 
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
+IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purposes only. NOT financial, investment, or ...
 
-📺 BitcoinHyper
+📺 The Kenzo Guy
 
-👁️ 6K • 👍 606 • 💬 38 • ⏱️ 14:30 • 7h ago
+👁️ 3K • 👍 189 • 💬 15 • ⏱️ 27:02 • 23h ago
+
+---
+
+**[Bitcoin Golden Cross Confirmed](https://www.youtube.com/watch?v=XNNAcytZjkQ)**
+
+Nick Valdez looks at the recent GOLD/BTC chart moves and what it might spell for future price action of the 2 major assets!
+
+📺 Discover Crypto
+
+👁️ 6K • 👍 269 • 💬 187 • ⏱️ 7:13 • 21h ago
 
 ---
 
