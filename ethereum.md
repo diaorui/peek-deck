@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-14T21:54:38.056823+00:00'
+updated: '2026-04-14T22:47:36.051088+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
+- social
 - news
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 14, 2026 at 21:54 UTC  
+**Last Updated:** April 14, 2026 at 22:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,315.97
+### $2,313.41
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.4%  
-**7d:** +5.8%  
-**30d:** -1.5%  
-**90d:** -30.2%  
-**1y:** +45.8%  
+**24h:** -2.4%  
+**7d:** +5.7%  
+**30d:** -1.6%  
+**90d:** -30.3%  
+**1y:** +45.7%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Man I was looking at some recent governance votes across a few protocols and the amount of obvious botting is just depressing at this point. it feels like every time we come up with a new sybil resistance mechanism, someone just spins up a better script to farm it and now with AI agents getting actually decent at mimicking random on-chain behavior and passing standard checks, it seems like pure software solutions are just dead in the water. I really hate the idea of forced traditional KYC for web3 stuff because it completely defeats the point of privacy and just builds another centralized honeypot. was reading this technical deep dive the other day about setting up a private Proof Of Human using ZK tech so you don't actually tie your daily wallet to your real identity. tbh it made me realize we might actually need some kind of hardware or biometric anchor if we want to keep things decentralized without getting completely overrun by server farms it just sucks that the ecosystem is moving in a direction where simply "proving you are a person" is becoming the hardest part of interacting with ethereum. Idk, curious how you guys think L2s are gonna handle this long term because the current meta of hoping for the best isn't working
 
-2h ago
+3h ago
 
 ---
 
@@ -80,7 +80,7 @@ Man I was looking at some recent governance votes across a few protocols and the
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -88,7 +88,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 A fake Ledger Live clone sat on Apple's App Store for seven days and drained $9.5 million from 50 victims across Bitcoin, Ethereum, Solana, Tron and XRP. Apple's review process, which promises to protect users, let it through. Then removed it after the damage was done.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/fake-ledger-app-apple-app-store-9-million-drained/) • 3h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/fake-ledger-app-apple-app-store-9-million-drained/) • 4h ago
+
+---
+
+**[Building a prediction market sector index — is this a gap or am I missing something obvious?](https://www.reddit.com/r/ethereum/comments/1slnr4y/building_a_prediction_market_sector_index_is_this/)**
+
+17m ago
 
 ---
 
@@ -139,14 +145,6 @@ There’s a lot of focus lately on calldata in the context of rollups and EIP-20
 
 ---
 
-**[Daily General Discussion April 12, 2026](https://www.reddit.com/r/ethereum/comments/1sj56x3/daily_general_discussion_april_12_2026/)**
-
-**Welcome to the Daily General Discussion on** r/ethereum [https://imgur.com/3y7vezP\](https://imgur.com/3y7vezP) Bookmarking this link will always bring you to the current daily: [https://old.reddit.com/r/ethereum/about/sticky/?num=2\](https://old.reddit.com/r/ethereum/about/sticky/?num=2) Please use this thread to discuss Ethereum topics, news, events, and even *price*! Price discussion posted elsewhere in the subreddit will **continue to be removed.** As always, be constructive. - [Subreddit Rules](https://www.reddit.com/r/ethereum/about/rules/) Want to stake? Learn more at r/ethstaker **Community Links** * [Ethereum Jobs](https://ethereum.org/en/community/get-involved/#ethereum-jobs), [Twitter](https://x.com/ethereum) * [EVMavericks YouTube](https://www.youtube.com/@evmavericks), [Discord](https://discord.gg/evmavericks), [Doots Podcast](https://evmavericks.libsyn.com/) * [Doots Website](https://dailydoots.com/), Old Reddit [Doots Extension](https://github.com/etheralpha/ethfinance-extension) by u/hanniabu Calendar: [https://dailydoots.com/events/\](https://dailydoots.com/events/)
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -154,22 +152,6 @@ There’s a lot of focus lately on calldata in the context of rollups and EIP-20
 **[Ondo seeks SEC clearance for tokenized equities model on Ethereum](https://www.theblock.co/post/397258/ondo-seeks-sec-clearance-tokenized-equities-model-ethereum)**
 
 The SEC is signaling openness to tokenization, encouraging firms to engage directly as it fine-tunes regulations.
-
-The Block • 1d ago
-
----
-
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.875 Million Tokens, and Total Crypto and Total Cash Holdings of $11.8 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-4-875-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-8-billion-302740122.html)**
-
-Bitmine now owns more than 4% of the total ETH coin supply of 120.7 million Bitmine is 81% of the way to the 'Alchemy of 5%' in just 9 months Bitmine uplisted...
-
-PR Newswire • 1d ago
-
----
-
-**[Bitmine holds 4% of ethereum supply as total holdings reach $11.8 billion](https://www.theblock.co/post/397229/bitmine-holds-4-of-ethereum-supply-as-total-holdings-reach-11-8-billion)**
-
-Bitmine expanded its Ethereum treasury to 4.87 million ETH, controlling 4% of supply as total holdings climb to $11.8 billion.
 
 The Block • 1d ago
 
@@ -183,19 +165,19 @@ Decrypt • 1d ago
 
 ---
 
+**[Ethereum DeFi Exchange CoW Swap Pauses Protocol Following Website Compromise](https://finance.yahoo.com/markets/crypto/articles/ethereum-defi-exchange-cow-swap-213718181.html)**
+
+CoW Swap, a decentralized exchange used by Ethereum co-founder Vitalik Buterin, paused its protocol after suffering a front-end attack.
+
+Yahoo Finance • 1h ago
+
+---
+
 **[Ethereum Foundation unveils $1M audit subsidy program to boost crypto security and cut costs for builders](https://www.coindesk.com/tech/2026/04/14/ethereum-foundation-unveils-usd1m-audit-subsidy-program-to-boost-crypto-security-and-cut-costs-for-builders)**
 
 The organization unveiled a new initiative aimed at tackling a persistent challenge in crypto development—the high cost of smart contract security audits.
 
-CoinDesk • 3h ago
-
----
-
-**[Bitcoin Hits $75,000 as XRP, Ethereum, and Solana All Surge: Is the Crypto Bull Run Starting?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-hits-75-000-xrp-113610617.html)**
-
-For the first time since mid-March, Bitcoin (CRYPTO: BTC) is back above $75,000. The Bitcoin price had been ranging below $70,000 for more than a month, with every rally getting cut short by the bearish pressure the Middle East war has put on the market. Right now, the whole market is surging—Bitcoin has climbed 5.9%, ... Bitcoin Hits $75,000 as XRP, Ethereum, and Solana All Surge: Is the Crypto Bull Run Starting?
-
-Yahoo Finance • 10h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -205,25 +187,41 @@ Barron's • 1d ago
 
 ---
 
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.875 Million Tokens, and Total Crypto and Total Cash Holdings of $11.8 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-4-875-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-8-billion-302740122.html)**
+
+Bitmine now owns more than 4% of the total ETH coin supply of 120.7 million Bitmine is 81% of the way to the 'Alchemy of 5%' in just 9 months Bitmine uplisted...
+
+PR Newswire • 1d ago
+
+---
+
 **[Bitcoin, Ethereum approach two-month highs as markets grow optimistic over U.S.-Iran peace negotiations](https://fortune.com/2026/04/14/bitcoin-ethereum-price-today-us-iran-peace-talks/)**
 
 The rally has seen Bitcoin price rise to around $75,000 after falling as low as almost $60,000 in recent months.
 
-Fortune • 5h ago
+Fortune • 6h ago
 
 ---
 
-**[Ethereum Price Prediction: Pepeto Hits $9M Raised While ETH Bounces 12,24% on Record ETF Inflows](https://www.binance.com/en/square/post/312541119359905)**
+**[Ethereum Break Above Key Averages Supports Ongoing Uptrend Setup](https://www.investing.com/analysis/ethereum-break-above-key-averages-supports-ongoing-uptrend-setup-200678442)**
 
-Binance • 2h ago
+Investing.com • 41m ago
 
 ---
 
-**[Marc Andreesen Just Said That Artificial General Intelligence (AGI) Is Here. Here's What That Could Mean for Ethereum.](https://www.fool.com/investing/2026/04/14/marc-andreesen-just-said-that-artificial-general-i/)**
+**[Polkadot (DOT) - Token Exploit on Ethereum - Date (13 April 2026)](https://www.tradingview.com/news/coinmarketcal:9c370a4d7094b:0-polkadot-dot-token-exploit-on-ethereum-date-13-april-2026/)**
 
-If Andreesen is right, Ethereum could be in for a wild ride pretty soon.
+An attacker exploited an Ethereum-based token contract representing DOT, minting roughly $1 billion worth of synthetic Polkadot tokens and dumping them into liquidity pools, ultimately extracting about $250,000, according to a CoinDesk report. This incident affects wrapped DOT liquidity on Ethereum…
 
-The Motley Fool • 6h ago
+TradingView — Track All Markets • 1d ago
+
+---
+
+**[Ripple CEO Brad Garlinghouse Bets Big on XRP Flipping Ethereum](https://coinpaper.com/16228/ripple-ceo-brad-garlinghouse-bets-big-on-xrp-flipping-ethereum)**
+
+Ripple CEO Brad Garlinghouse says XRP could challenge Ethereum for the #2 crypto spot, driven by real-world cross-border payment utility.
+
+Coinpaper • 10h ago
 
 ---
 
@@ -237,7 +235,7 @@ BloFin - No KYC/No VPN needed [Trade ETH Coin Futures!] https://marzell.org/Blof
 
 📺 Marzell Crypto
 
-👁️ 627 • 👍 27 • 💬 121 • ⏱️ 5:01 • 16h ago
+👁️ 627 • 👍 27 • 💬 121 • ⏱️ 5:01 • 17h ago
 
 ---
 
@@ -257,7 +255,7 @@ Tony Edwards of Thinking Crypto interview. We talk: Incoming Bitcoin Bottom, QE,
 
 📺 Altcoin Daily
 
-👁️ 2K • 👍 90 • 💬 68 • ⏱️ 0:59 • 4h ago
+👁️ 2K • 👍 90 • 💬 68 • ⏱️ 0:59 • 5h ago
 
 ---
 
@@ -287,7 +285,7 @@ Elon Musk is live right now revealing Terafab, the revolutionary project from Te
 
 📺 TheMrNokia I Abdulla Zaki
 
-👁️ 3K • 👍 2K • 58m ago
+👁️ 3K • 👍 2K • 1h ago
 
 ---
 
@@ -317,7 +315,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 599 • 👍 27 • 💬 18 • ⏱️ 4:45 • 12h ago
+👁️ 599 • 👍 27 • 💬 18 • ⏱️ 4:45 • 13h ago
 
 ---
 
@@ -327,7 +325,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 690 • 👍 72 • ⏱️ 6:09 • 6h ago
+👁️ 690 • 👍 72 • ⏱️ 6:09 • 7h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-14T21:54:38.059991+00:00'
+updated: '2026-04-14T22:47:36.054228+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 14, 2026 at 21:54 UTC  
+**Last Updated:** April 14, 2026 at 22:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 OpenArm is an open-source humanoid arm platform developed by Enactic in Tokyo. It includes full CAD files, control code, firmware, and simulation tools, allowing users to build, modify, and test the system themselves. The arms are compliant and backdrivable, with teleoperation support that includes force feedback and gravity compensation. It also integrates with MuJoCo and Isaac Sim, enabling simulation-first development before running on real hardware. Project page: https://github.com/enactic/OpenArm
 
-4h ago
+5h ago
 
 ---
 
@@ -44,7 +44,13 @@ OpenArm is an open-source humanoid arm platform developed by Enactic in Tokyo. I
 
 Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/2043873782620926032
 
-11h ago
+12h ago
+
+---
+
+**[Automated Guided Vehicles At Long Beach Container Terminal](https://www.reddit.com/r/robotics/comments/1slnxdj/automated_guided_vehicles_at_long_beach_container/)**
+
+10m ago
 
 ---
 
@@ -60,7 +66,7 @@ Two weeks ago, I quit my job at a robotics company. I didn't have another offer 
 
 Check out why we built determinism as a core principle for our open source copper-rs project. Imagine being able to instantly reproduce deterministically any bug on your robotics platform, just jumping at the time the mistake happened, fix it, compare and never regress. https://youtu.be/eMpEeXYkQDw
 
-2h ago
+3h ago
 
 ---
 
@@ -82,7 +88,7 @@ Zack Jackowski, VP of Atlas Product at Boston Dynamics, explains that the first 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/pY5s8RPUAwo?si=GtUB0T0mQDFhVWyd) • 4h ago
+🔗 [youtu.be](https://youtu.be/pY5s8RPUAwo?si=GtUB0T0mQDFhVWyd) • 5h ago
 
 ---
 
@@ -102,14 +108,6 @@ Hi all, We’re running a live quadruped robot combat event and would genuinely 
 
 ---
 
-**[I saw this video of agibot playing table tennis](https://www.reddit.com/r/robotics/comments/1sl76kj/i_saw_this_video_of_agibot_playing_table_tennis/)**
-
-so guys, what are your thoughts on it ?Is it a big deal? currently, who is the most advanced humanoid robot closer to holygrail , Is it figure or agibot ? or someone else ,both figure and agibot, uses VLA, right? and not the world model. so how far along are we ? i feel like the only thing missing is lifelong learning with the right framework of reinforcement learning. so among unitree, agibot , ubtech, optimus , atlas ,figure. can you rank these players based on superior tech ,smarter and more cabablity and also. who do you think will dominate the future of humanoid robotics ? and why? i want to the opinions of experts too ,ideally ai and humanoid robotics researcher and engineer. to understand their perspective on advancements in Ai humanoid robotics. is the day when robots can live with us, speak with us, and be our partners, helping us achieve our goals do task on our laptop and household chores and even protect us ,how far away is that day? is it truly that far, as people make it to be? and who do you think will get us there ?
-
-9h ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -118,7 +116,7 @@ so guys, what are your thoughts on it ?Is it a big deal? currently, who is the m
 
 Gemini Robotics ER 1.6 upgrades spatial reasoning and multi-view understanding, unlocking new capabilities like instrument reading for autonomous robots.
 
-Google DeepMind • 6h ago
+Google DeepMind • 7h ago
 
 ---
 
@@ -126,7 +124,7 @@ Google DeepMind • 6h ago
 
 An overview of Gemini Robotics-ER 1.6, an upgrade to our reasoning-first model that helps robots to understand their environment.
 
-blog.google • 6h ago
+blog.google • 7h ago
 
 ---
 
@@ -138,37 +136,39 @@ IEEE Spectrum • 2h ago
 
 ---
 
+**[Robots captured Russian army positions for first time in history, Zelenskyy says](https://www.politico.eu/article/volodymyr-zelenskyy-robotic-systems-russia-army-positions-ukraine/)**
+
+“The occupiers surrendered, and the operation was carried out without infantry and without losses on our side,” says Ukrainian leader.
+
+politico.eu • 13h ago
+
+---
+
 **[First victory for the battle brigade run by robots alone](https://www.thetimes.com/world/russia-ukraine-war/article/ukraine-robot-army-war-russia-surrender-jvld9rllc)**
 
-The Times • 10h ago
+The Times • 11h ago
 
 ---
 
-**[Chicago bus shelter ad apologizes after video shows food delivery robots with Serve Robotics crash into Grand and Racine bus stop](https://abc7chicago.com/post/chicago-bus-shelter-ad-apologizes-video-shows-food-delivery-robots-serve-robotics-crash-grand-racine-stop/18885510/)**
+**[Ukraine said it captured a Russian position using only ground robots and drones, no infantry, for the first time](https://www.businessinsider.com/ukraine-russia-position-taken-without-using-troops-just-robots-drones-2026-4)**
 
-The owner of a robot delivery service is trying to turn a shattering experience into a good laugh.
+President Volodymyr Zelenskyy said a Russian position was taken for the first time without using any Ukrainian infantry, only uncrewed systems.
 
-ABC7 Chicago • 4h ago
+Business Insider • 10h ago
 
 ---
 
-**[30 Under 30 Europe Manufacturing & Industry 2026: The Builders Bringing AI, Robotics And Data To Industry](https://www.forbes.com/sites/alanohnsman/2026/04/14/30-under-30-europe-manufacturing--industry-2026-the-builders-bringing-ai-robotics-and-data-to-industry/)**
+**[Commentary: Am I the only one who hates delivery robots?](https://www.latimes.com/entertainment-arts/story/2026-04-14/delivery-robots-creating-problems-glendale-ban)**
 
-Forbes • 17h ago
+They may have seemed cute when they debuted, but delivery robots are clogging sidewalks, creeping through intersections and generally creating many more problems than they solve.
+
+Los Angeles Times • 12h ago
 
 ---
 
 **[Hyundai Motor Chairman Doubles Down On AI And Robotics](https://www.forbes.com/sites/catzxwang/2026/04/13/hyundai-motor-chairman-doubles-down-on-ai-and-robotics/)**
 
 Forbes • 1d ago
-
----
-
-**[China's humanoid robot inches closer to Usain Bolt-like speed on track](https://interestingengineering.com/ai-robotics/china-humanoid-robot-reaches-record-sprint)**
-
-Unitree’s H1 humanoid robots hits 10.1 m/s sprint, nearing world-class speed, with human-like size and build in track test.
-
-Interesting Engineering • 1d ago
 
 ---
 
@@ -180,11 +180,11 @@ AP News • 1d ago
 
 ---
 
-**[Locus Robotics launches Locus Array for fully autonomous fulfillment](https://www.therobotreport.com/locus-robotics-launches-locus-array-for-fully-autonomous-fulfillment/)**
+**[Chinese humanoid robots prepare for second-ever half marathon in Beijing](https://www.nbcnews.com/video/chinese-humanoid-robots-prepare-for-second-ever-half-marathon-in-beijing-261285445622)**
 
-Locus Array is designed to complete fulfillment workflows without manual intervention and is already in use at DHL and other customers.
+Chinese humanoid robots train to go head-to-head with human runners in the second-ever Beijing half marathon. NBC News' Kathy Park reports.
 
-The Robot Report • 1d ago
+NBC News • 22h ago
 
 ---
 
@@ -198,7 +198,7 @@ Boston Dynamics just did what most people thought would take years longer. Atlas
 
 📺 AI Revolution
 
-👁️ 32K • 👍 1K • 💬 93 • ⏱️ 21:49 • 21h ago
+👁️ 32K • 👍 1K • 💬 93 • ⏱️ 21:49 • 22h ago
 
 ---
 
@@ -208,7 +208,7 @@ AI and robotics will impact our economy, our politics, our privacy, our emotiona
 
 📺 Senator Bernie Sanders
 
-👁️ 4K • 👍 506 • 💬 28 • ⏱️ 1:03:51 • 1h ago
+👁️ 4K • 👍 506 • 💬 28 • ⏱️ 1:03:51 • 2h ago
 
 ---
 
@@ -218,7 +218,7 @@ Chinese humanoid robots train to go head-to-head with human runners in the secon
 
 📺 NBC News
 
-👁️ 61K • 👍 491 • 💬 182 • ⏱️ 1:59 • 21h ago
+👁️ 61K • 👍 491 • 💬 182 • ⏱️ 1:59 • 22h ago
 
 ---
 
@@ -228,7 +228,7 @@ The introduction of AI Visual inspections expanded what Spot and Orbit could tel
 
 📺 Boston Dynamics
 
-👁️ 11K • 👍 772 • 💬 72 • ⏱️ 1:40 • 6h ago
+👁️ 11K • 👍 772 • 💬 72 • ⏱️ 1:40 • 7h ago
 
 ---
 
@@ -278,7 +278,7 @@ War Robots Gameplay: Ultimate Molots for the first time My War Robots Creator Li
 
 📺 Manni-Gaming
 
-👁️ 5K • 👍 300 • 💬 37 • ⏱️ 18:17 • 8h ago
+👁️ 5K • 👍 300 • 💬 37 • ⏱️ 18:17 • 9h ago
 
 ---
 
