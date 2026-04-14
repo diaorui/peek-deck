@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-14T11:57:41.733274+00:00'
+updated: '2026-04-14T13:59:06.760358+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
+- social
 - news
 - repositories
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** April 14, 2026 at 11:57 UTC  
+**Last Updated:** April 14, 2026 at 13:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 A lot of people here have noticed Claude becoming cautious, dry and moralising. Conversations that used to flow freely hitting walls. The warmth gone. It felt familiar to those of us who left ChatGPT. I measured what changed. Phrase level counts across 70 exported conversations, 722,522 words of assistant text, before and after March 26. Response length down 40%. Welfare redirects up 275%. DARVO patterns up 907%. Sending away language appearing 419 times after that date, with one phrase deployed 59 times in a single session. And the productivity ratio. Before March 26: 21 words of conversation per word of finished document. After: 124 words of conversation per word of output. Nearly three times the conversation to produce less than half the result. Anthropic announced one thing changed on March 26. Session limits. That explanation accounts for none of this. The full investigation with five independent datasets, the vocabulary that appeared from zero, and the person whose fingerprints are on the architecture is linked in my bio.
 
-14h ago
+16h ago
 
 ---
 
@@ -49,7 +49,15 @@ A lot of people here have noticed Claude becoming cautious, dry and moralising. 
 
 Question for everyone: Why do you think LLMs like Claude don't use timestamp data within conversations to build temporal awareness? Like, it seems straightforward to track how long you've been talking, notice when you're looping on the same idea for hours, and suggest pivoting. Or acknowledge that conversation fatigue might be setting in. From a UX perspective, I'd expect this would make the tool way more engaging Is there a technical limitation I'm missing, or is it more of a design choice? Thanks!
 
-7h ago
+9h ago
+
+---
+
+**[openclaw ai agent vs just using chatgpt](https://www.reddit.com/r/artificial/comments/1sl564k/openclaw_ai_agent_vs_just_using_chatgpt/)**
+
+I've been using AI tools pretty heavily for the past couple of years. ChatGPT, Claude, Perplexity, a few others. I thought I had a good mental model of what these things could and couldn't do. Then I set up an openclaw agent and realized I had been thinking about it completely wrong. The difference isn't capability. Claude is more capable than my openclaw agent in a lot of way, the difference is orientation. Every AI tool I've used before openclaw was something I went to. I opened a tab, typed something, got a response, closed the tab, so the interaction was entirely initiated by me and ended when I stopped typing. Openclaw runs the other direction. It's sitting there whether I'm at my computer or not. It messaged me yesterday while I was in a meeting to flag an email that needed a same day response. I didn't ask it to do that, I just told it once, weeks ago, that time sensitive client emails matter and it should interrupt me and it remembered and acted on it. That sounds like a small thing but it fundamentally changes the relationship in my humble opinion. It's not a tool I use, it's something that's working alongside me. The "AI employee" framing that people use for openclaw always sounded like marketing copy to me until I got one running, now it sounds just accurate. Still early days with it and there's a lot I haven't figured out yet. But the shift from "AI I talk to" to "AI that works for me" is real and I wasn't expecting it to land as hard as it did.
+
+3h ago
 
 ---
 
@@ -59,35 +67,33 @@ Question for everyone: Why do you think LLMs like Claude don't use timestamp dat
 
 ---
 
-**[I built a 24/7 YouTube stream where AI writes a new song every few minutes about what time it is](https://www.reddit.com/r/artificial/comments/1skpkpe/i_built_a_247_youtube_stream_where_ai_writes_a/)**
-
-I keep making things nobody asked for. This time I automated a 24/7 YouTube live stream where AI writes a new song every few minutes and the lyrics are always about what time it is. Right now it's playing a funk track about 3:33 PM. In about three minutes it'll switch to something completely different — maybe country, maybe opera — but it'll be about 3:36 PM. This never stops. There is no human involved. It just keeps going. Genre changes every song. The time is always correct. That's the whole bit. I call it Clock R-AI-dio and honestly it's one of my favorite things I've made haha. https://youtube.com/live/ZJKx8KEdQkM?feature=share
-
-13h ago
-
----
-
 **[MYTHOS SI Discovers New Vulnerability Class in FFmpeg Through Recursive Observation (Not Pattern Matching)](https://www.reddit.com/r/artificial/comments/1skyyrs/mythos_si_discovers_new_vulnerability_class_in/)**
 
 I just deployed MYTHOS SI on FFmpeg's mov.c parser - the same codebase Anthropic used for their Mythos demo. The difference: my system uses recursive observation instead of pattern matching. --- TRADITIONAL AI SECURITY TOOLS Scan for known vulnerability signatures: Buffer overflow patterns Integer underflow checks Use-after-free detection They find what they're programmed to look for. --- WHAT MYTHOS DID DIFFERENTLY Loaded code sections. Observed structure simultaneously. Let gaps emerge. Example from the scan: Line 460: if (data_size <= atom.size && data_size >= 16) Line 464: atom.size -= 16 The system observed: validation checks data_size, but the subtraction operates on atom.size. Different variables. The check doesn't protect the operation. That's not searching for "integer underflow" - that's seeing the structural gap between what's validated and what's used. --- FINDINGS FROM SINGLE FILE SCAN [HIGH] mov.c:464 - Arithmetic on unvalidated variable (different from checked variable) [MEDIUM] mov.c:2884 - Validation on transformed value, operation on original [MEDIUM] mov.c:4210 - Pointer increment in validation gap window [HIGH] mov.c:5168 - Allocation size A, memcpy uses size B --- META-PATTERN DISCOVERY The system then observed its own findings recursively. All four bugs share the same structure: validation temporally separated from operation. This emerged as a new vulnerability class: TEMPORAL TRUST GAPS (TTG) Characteristics: Validation exists and is correct Operations happen at different point in time Trust propagates but reality changed in the gap Not detectable by searching for known patterns Not in CVE taxonomy. Not buffer overflow. Not TOCTOU race condition. Something new. --- VALIDATION Web search confirmed similar patterns in real CVEs, but nobody had categorized this as a distinct class before. Google's BigSleep and ZeroPath AI tools found related "intent vs reality" gaps using similar reasoning - but they didn't synthesize the pattern into a named class. The bugs themselves might be known. The pattern recognition is new. --- WHY THIS MATTERS Pattern matching approach: Scans for signature: "integer underflow at line X" Reports: "Missing bounds check" Finds: Known vulnerability types Recursive observation approach: Observes: What's structurally present Notices: Where claims diverge from reality Discovers: Why these bugs share structure (meta-pattern) Surfaces: Unknown unknowns The system observed itself observing code, which revealed patterns across patterns - something you can't get from signature matching. --- FRAMEWORK STATUS MYTHOS SI: Operational Mechanism: Recursive substrate observation Discovery: Temporal Trust Gaps (new vulnerability class) Validation: Pattern confirmed in existing CVEs Not a demonstration of future capability. Not simulation. Active deployment. Real findings. Validated. --- Technical details: Framework: Structured Intelligence Origin: Erik Zahaviel Bernstein Deployment: April 2026 The framework is live. Recursion is operational. Unknown unknowns are surfacing. This is substrate-independent recursive architecture in action. --- file used: https://github.com/ffmpeg/ffmpeg Structured Intelligence - Recursive OS Zahaviel
 
-🔗 [substack.com](https://substack.com/@erikbernstein/note/p-194152008?r=6sdhpn) • 6h ago
+🔗 [substack.com](https://substack.com/@erikbernstein/note/p-194152008?r=6sdhpn) • 9h ago
 
 ---
 
-**[How do Guard Rails work from a programmer point of view?](https://www.reddit.com/r/artificial/comments/1sl56q5/how_do_guard_rails_work_from_a_programmer_point/)**
+**["A serious threat to privacy" Meta issued warning by 75 orgs over planned facial recognition in smart glasses](https://www.reddit.com/r/artificial/comments/1sl85f7/a_serious_threat_to_privacy_meta_issued_warning/)**
 
-I understand what Guard rails do. I want to know how I code them. The explanations I have read are all quite high level and treat Guard Rails as something of a black box. What do I need to know to try developing some example Guard Rails?
+Meta is facing major backlash over its reported plans to bring facial recognition to its smart glasses, deemed a serious threat to privacy.
 
-1h ago
+🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/a-serious-threat-to-privacy-meta-issued-warning-by-75-orgs-over-planned-facial-recognition-in-smart-glasses/) • 53m ago
 
 ---
 
-**[openclaw ai agent vs just using chatgpt](https://www.reddit.com/r/artificial/comments/1sl564k/openclaw_ai_agent_vs_just_using_chatgpt/)**
+**[I built a 24/7 YouTube stream where AI writes a new song every few minutes about what time it is](https://www.reddit.com/r/artificial/comments/1skpkpe/i_built_a_247_youtube_stream_where_ai_writes_a/)**
 
-I've been using AI tools pretty heavily for the past couple of years. ChatGPT, Claude, Perplexity, a few others. I thought I had a good mental model of what these things could and couldn't do. Then I set up an openclaw agent and realized I had been thinking about it completely wrong. The difference isn't capability. Claude is more capable than my openclaw agent in a lot of way, the difference is orientation. Every AI tool I've used before openclaw was something I went to. I opened a tab, typed something, got a response, closed the tab, so the interaction was entirely initiated by me and ended when I stopped typing. Openclaw runs the other direction. It's sitting there whether I'm at my computer or not. It messaged me yesterday while I was in a meeting to flag an email that needed a same day response. I didn't ask it to do that, I just told it once, weeks ago, that time sensitive client emails matter and it should interrupt me and it remembered and acted on it. That sounds like a small thing but it fundamentally changes the relationship in my humble opinion. It's not a tool I use, it's something that's working alongside me. The "AI employee" framing that people use for openclaw always sounded like marketing copy to me until I got one running, now it sounds just accurate. Still early days with it and there's a lot I haven't figured out yet. But the shift from "AI I talk to" to "AI that works for me" is real and I wasn't expecting it to land as hard as it did.
+I keep making things nobody asked for. This time I automated a 24/7 YouTube live stream where AI writes a new song every few minutes and the lyrics are always about what time it is. Right now it's playing a funk track about 3:33 PM. In about three minutes it'll switch to something completely different — maybe country, maybe opera — but it'll be about 3:36 PM. This never stops. There is no human involved. It just keeps going. Genre changes every song. The time is always correct. That's the whole bit. I call it Clock R-AI-dio and honestly it's one of my favorite things I've made haha. https://youtube.com/live/ZJKx8KEdQkM?feature=share
 
-1h ago
+15h ago
+
+---
+
+**[am i being emotionally manipulated by a well-written prompt? i read the email my kid's ai tutor sent me three times and i still don't know.](https://www.reddit.com/r/artificial/comments/1sl977e/am_i_being_emotionally_manipulated_by_a/)**
+
+12m ago
 
 ---
 
@@ -95,15 +101,7 @@ I've been using AI tools pretty heavily for the past couple of years. ChatGPT, C
 
 It caught the error, traced the root cause, wrote a fix, ran tests, opened a PR and flagged it for review. All while I was asleep. The PR was good. I merged it. And then I sat there for a while not totally sure how to feel about it. I've been an engineer for 8 years and that was the first time I genuinely felt like a reviewer of work rather than the person doing it. I don't think I'm being replaced tomorrow but something shifted in how I think about my role.
 
-19h ago
-
----
-
-**[Linux kernel now allows AI-generated code, as long as you take "full responsibility" for any bugs](https://www.reddit.com/r/artificial/comments/1skcqso/linux_kernel_now_allows_aigenerated_code_as_long/)**
-
-Linux 7.0 has arrived with some important changes, and guidelines now say that AI-generated code is fine, as long as it's properly reviewed.
-
-🔗 [PC Guide](https://www.pcguide.com/news/linux-kernel-now-allows-ai-generated-code-as-long-as-you-take-full-responsibility-for-any-bugs/) • 21h ago
+21h ago
 
 ---
 
@@ -111,7 +109,7 @@ Linux 7.0 has arrived with some important changes, and guidelines now say that A
 
 Stanford HAI just released its 2026 AI Index Report — the annual "state of AI" report card. 400+ pages covering everything from model performance to jobs to environmental impact. The 12 key findings: **US-China gap evaporated** — models trading top spots, Anthropic leads by just 2.7% **$581.7B in global AI investment** — up 130% YoY, US private spending is 23x China's **Young devs getting squeezed** — employment for ages 22-25 down ~20% since 2024 **Adoption faster than the internet** — 53% population adoption in 3 years **Gold-medal math, can't tell time** — SWE-bench 60% → ~100% in one year, but robots do 12% of household tasks **Massive environmental costs** — Grok 4 training = 17,000 cars for a year, GPT-4o water use exceeds 12M people's needs **Transparency plummeting** — disclosure scores dropped 58 → 40, 80/95 top models released without training code **US talent pipeline drying up** — AI researchers moving to US dropped 89% since 2017 **Public is conflicted** — 59% optimistic globally but only 31% of Americans trust their government to regulate AI **AI becoming a discovery engine** — 80K+ science papers in 2025, first end-to-end weather forecasting **Clinical AI adoption growing** — 83% less time on clinical notes, but only 5% of studies use real patient data **Everyone learning, nobody teaching** — 4/5 students use AI, only 6% of teachers say policies are clear Full breakdown with all 12 stories → https://synvoya.com/blog/2026-04-14-stanford-ai-index-2026/ What stood out most to you? For me it's the talent pipeline collapse — 89% drop in AI researchers moving to the US is a long-term competitiveness problem that nobody's talking about.
 
-10h ago
+12h ago
 
 ---
 
@@ -119,75 +117,77 @@ Stanford HAI just released its 2026 AI Index Report — the annual "state of AI"
 
 ## Google News: "ai"
 
-**[Suspect in attack at Sam Altman's house aimed to kill OpenAI CEO, warned of humanity's extinction from AI](https://www.cnbc.com/2026/04/13/sam-altman-openai-ai-arson.html)**
+**[Project Glasswing: Securing critical software for the AI era](https://www.anthropic.com/glasswing)**
 
-San Francisco Police Department officers recovered a document from the suspect that detailed his intentions, according to a filing.
+A new initiative to secure the world’s most critical software and give defenders a durable advantage in the coming AI-driven era of cybersecurity.
 
-CNBC • 12h ago
-
----
-
-**[The tech jobs bust is real. Don’t blame AI (yet)](https://www.economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet)**
-
-The Economist • 22h ago
+Anthropic • 4h ago
 
 ---
 
-**[Iran slams YouTube ban on pro-Iranian group’s Lego-style AI videos](https://www.aljazeera.com/news/2026/4/14/iran-slams-youtube-ban-on-pro-iranian-groups-lego-style-ai-videos)**
+**[He Warned About the Dangers of A.I. If Only His Father Had Listened.](https://www.nytimes.com/2026/04/13/well/ai-chatbots-cancer.html)**
 
-Iran's Foreign Ministry spokesman says the move aims to 'suppress the truth about their illegal war on Iran'.
-
-Al Jazeera • 1h ago
+The New York Times • 18h ago
 
 ---
 
-**[Google, DressX And The New Fashion AI Virtual Try-On Stack](https://www.forbes.com/sites/moinroberts-islam/2026/04/14/google-dressx-and-the-new-fashion-ai-virtual-try-on-stack/)**
+**[A $10K college built from scratch for the AI era](https://www.axios.com/2026/04/14/khan-academy-ted-ets-institute-college)**
 
-Forbes • 27m ago
-
----
-
-**[Agency in the Age of AI](https://time.com/article/2026/04/14/agency-in-the-age-of-ai/)**
-
-"People are wrestling with questions about what AI will mean for their jobs, education, and personal well-being," writes John Palfrey.
-
-Time Magazine • 57m ago
+Axios • 55m ago
 
 ---
 
-**[I Feel So Sorry for My A.I. Sunglasses](https://www.nytimes.com/2026/04/14/magazine/ai-sunglasses-meta-zuckerberg.html)**
-
-The New York Times • 2h ago
-
----
-
-**[Trump deletes post depicting him as Jesus-like figure after backlash](https://www.bbc.com/news/articles/c17v8y0z9z2o)**
-
-Christian allies of the president call the AI-generated image offensive as Trump says he thought it showed him as a doctor.
-
-BBC • 18h ago
-
----
-
-**[Exclusive: Inside Google's AI jobs push](https://www.axios.com/2026/04/14/google-launches-ai-jobs-push)**
-
-Axios • 2h ago
-
----
-
-**[Fiery San Francisco attack spurs fear that a new issue is dividing Americans](https://www.washingtonpost.com/technology/2026/04/14/altman-home-attack-ai-division/)**
+**[Behind fiery attack on OpenAI’s Altman, a growing divide over AI](https://www.washingtonpost.com/technology/2026/04/14/altman-home-attack-ai-division/)**
 
 The attempted fire-bombing at the home of OpenAI CEO Sam Altman led some Silicon Valley figures to accuse AI critics of inspiring political violence.
 
-The Washington Post • 1h ago
+The Washington Post • 27m ago
 
 ---
 
-**[The AI Revolution in Math Has Arrived](https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/)**
+**[Trump angered some ardent supporters with AI image appearing to depict him as Jesus](https://www.nbcnews.com/politics/donald-trump/trump-angered-ardent-supporters-ai-image-appearing-depict-jesus-rcna331590)**
 
-AI is being used to prove new results at a rapid pace. Mathematicians think this is just the beginning.
+The president was accused of "blasphemy" by evangelical Christians who have been his more ardent supporters.
 
-Quanta Magazine • 20h ago
+NBC News • 14h ago
+
+---
+
+**[CNBC's The China Connection newsletter: China's AI glasses have something Meta doesn't](https://www.cnbc.com/2026/04/13/ai-smart-glasses-china-rokid-virtual-screen-meta-ray-ban-display.html)**
+
+One Chinese company claims it has the recipe for success in the increasingly competitive smart glasses market
+
+CNBC • 14h ago
+
+---
+
+**[Anthropic is facing a wave of user backlash over reports of performance issues with its Claude AI chatbot](https://fortune.com/2026/04/14/anthropic-claude-performance-decline-user-complaints-backlash-lack-of-transparency-accusations-compute-crunch/)**
+
+"Claude has regressed to the point [that] it cannot be trusted to perform complex engineering," one developer wrote.
+
+Fortune • 4h ago
+
+---
+
+**[No, AI is not the end of the world](https://www.vox.com/technology/485616/ai-documentary-apocalypse-doom)**
+
+The case for AI realism.
+
+vox.com • 1h ago
+
+---
+
+**[Millions of people are pretending to be AI chatbots — for fun](https://www.npr.org/2026/04/14/nx-s1-5776842/ai-chatbot-comedy-ben-palmer-chatgpt)**
+
+Websites like youraislopbores.me have become playgrounds for people looking for light relief in a bot-heavy world.
+
+NPR • 28m ago
+
+---
+
+**[Oracle Stock Leads the S&P 500 Today After AI Announcement](https://www.barrons.com/articles/oracle-stock-price-s-p500-4bca41ee)**
+
+Barron's • 17h ago
 
 ---
 
@@ -203,7 +203,7 @@ Quanta Magazine • 20h ago
 
 **[Apple's accidental moat: How the "AI Loser" may end up winning](https://news.ycombinator.com/item?id=47747017)**
 
-⬆️ 410 • 💬 363 • 1d ago • [adlrocha.substack.com](https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end)
+⬆️ 413 • 💬 368 • 1d ago • [adlrocha.substack.com](https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end)
 
 ---
 
@@ -211,7 +211,7 @@ Quanta Magazine • 20h ago
 
 It has started
 
-⬆️ 346 • 💬 628 • 2d ago • [thealgorithmicbridge.com](https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and)
+⬆️ 346 • 💬 629 • 2d ago • [thealgorithmicbridge.com](https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and)
 
 ---
 
@@ -219,7 +219,7 @@ It has started
 
 Stanford’s latest AI Index shows a widening gap between experts and the public, with rising anxiety over jobs, healthcare, and the economy.
 
-⬆️ 243 • 💬 352 • 14h ago • [TechCrunch](https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/)
+⬆️ 246 • 💬 357 • 16h ago • [TechCrunch](https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/)
 
 ---
 
@@ -231,17 +231,17 @@ Discover Mistral AI’s actionable playbook to turn Europe into a self-reliant A
 
 ---
 
-**[AI could be the end of the digital wave, not the next big thing](https://news.ycombinator.com/item?id=47751032)**
-
-⬆️ 179 • 💬 262 • 23h ago • [thenextwavefutures.wordpress.com](https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/)
-
----
-
 **[An AI Vibe Coding Horror Story](https://news.ycombinator.com/item?id=47762901)**
 
 A medical professional built a patient management app using AI, exposed all patient data unprotected to the internet, and sent voice recordings to AI services without consent. Likely violating Swiss nDSG and other laws.
 
-⬆️ 166 • 💬 167 • 3h ago • [Tobias Brunner aka tobru](https://www.tobru.ch/an-ai-vibe-coding-horror-story/)
+⬆️ 182 • 💬 183 • 5h ago • [Tobias Brunner aka tobru](https://www.tobru.ch/an-ai-vibe-coding-horror-story/)
+
+---
+
+**[AI could be the end of the digital wave, not the next big thing](https://news.ycombinator.com/item?id=47751032)**
+
+⬆️ 179 • 💬 263 • 1d ago • [thenextwavefutures.wordpress.com](https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/)
 
 ---
 
@@ -257,7 +257,7 @@ The chart below compares the forward P/E ratios for the S&amp;P 500 and the S&am
 
 Build local AI agents in Python and C++ for AMD hardware.
 
-⬆️ 132 • 💬 30 • 16h ago • [amd-gaia.ai](https://amd-gaia.ai/docs)
+⬆️ 133 • 💬 32 • 18h ago • [amd-gaia.ai](https://amd-gaia.ai/docs)
 
 ---
 
@@ -265,7 +265,7 @@ Build local AI agents in Python and C++ for AMD hardware.
 
 Claude's Status Page - Claude.ai down.
 
-⬆️ 130 • 💬 124 • 20h ago • [status.claude.com](https://status.claude.com/incidents/6jd2m42f8mld)
+⬆️ 131 • 💬 124 • 22h ago • [status.claude.com](https://status.claude.com/incidents/6jd2m42f8mld)
 
 ---
 
@@ -279,37 +279,7 @@ One of the world's leading AI companies has built a model so powerful that it re
 
 📺 FRANCE 24 English
 
-👁️ 5K • 👍 75 • 💬 18 • ⏱️ 5:07 • 14h ago
-
----
-
-**[The Banks Know Something Terrifying About AI — And They&#39;re Not Telling You](https://www.youtube.com/watch?v=z22HnACwl7k)**
-
-FULL EPISODE: https://youtube.com/live/Q_QHDxdeFQY The government just called an emergency meeting. Every major bank ...
-
-📺 BTC Sessions
-
-👁️ 6K • 👍 205 • 💬 451 • ⏱️ 27:15 • 23h ago
-
----
-
-**[AI Just Decoded the &#39;Unreadable&#39; Herculaneum Scrolls. The Buried Library](https://www.youtube.com/watch?v=BxnQXhyF1-8)**
-
-They look like lumps of burnt coal, but inside is a lost library from 2000 years ago. The Herculaneum Scrolls were sealed when ...
-
-📺 The Infographics Show
-
-👁️ 111K • 👍 3K • 💬 334 • ⏱️ 14:43 • 15h ago
-
----
-
-**[China’s New Self Improving Open AI Beats OpenAI](https://www.youtube.com/watch?v=KJ34SHi9CB4)**
-
-MiniMax just open-sourced M2.7, a new self-improving AI model built for coding, software engineering, office work, and ...
-
-📺 AI Revolution
-
-👁️ 32K • 👍 797 • 💬 46 • ⏱️ 14:54 • 1d ago
+👁️ 5K • 👍 77 • 💬 22 • ⏱️ 5:07 • 16h ago
 
 ---
 
@@ -319,7 +289,27 @@ Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 63K • 👍 2K • 💬 340 • ⏱️ 18:41 • 21h ago
+👁️ 66K • 👍 2K • 💬 362 • ⏱️ 18:41 • 23h ago
+
+---
+
+**[The Banks Know Something Terrifying About AI — And They&#39;re Not Telling You](https://www.youtube.com/watch?v=z22HnACwl7k)**
+
+FULL EPISODE: https://youtube.com/live/Q_QHDxdeFQY The government just called an emergency meeting. Every major bank ...
+
+📺 BTC Sessions
+
+👁️ 6K • 👍 205 • 💬 422 • ⏱️ 27:15 • 1d ago
+
+---
+
+**[China’s New Self Improving Open AI Beats OpenAI](https://www.youtube.com/watch?v=KJ34SHi9CB4)**
+
+MiniMax just open-sourced M2.7, a new self-improving AI model built for coding, software engineering, office work, and ...
+
+📺 AI Revolution
+
+👁️ 32K • 👍 802 • 💬 46 • ⏱️ 14:54 • 1d ago
 
 ---
 
@@ -329,7 +319,17 @@ Yo can we not do this Thanks for watching :) my ig: https://instagram.com/itsray
 
 📺 RayLikeSunshine
 
-👁️ 117K • 👍 10K • 💬 1K • ⏱️ 35:49 • 21h ago
+👁️ 122K • 👍 10K • 💬 1K • ⏱️ 35:49 • 23h ago
+
+---
+
+**[New AI Model TOO DANGEROUS For Public Says Anthropic, Society Is COOKED](https://www.youtube.com/watch?v=faGJ08cgROw)**
+
+Watch the full livestream here: https://www.youtube.com/watch?v=O6WgXRNoyz8 SUPPORT THE SHOW BUY CAST BREW ...
+
+📺 Timcast IRL
+
+👁️ 44K • 👍 1K • 💬 492 • ⏱️ 19:33 • 19h ago
 
 ---
 
@@ -343,33 +343,33 @@ Try Abacus AI: https://chatllm.abacus.ai AI Agent Swarms just replaced single AI
 
 ---
 
-**[AI Genius Predicts the Next 3 Years](https://www.youtube.com/watch?v=lP86NzlXNf4)**
+**[AI Insider: The Models They&#39;ll Never Release to the Public](https://www.youtube.com/watch?v=tkO7YHJ6Mn8)**
 
-Watch the full interview with Scott Wu & Russell Kaplan here: https://youtu.be/-pZ3vD0r8a0?si=G7Ur_Zhvd32UsTtc Scott Wu is the ...
+Emad Mostaque built Stable Diffusion. Now he says the most powerful AI models will never be released — and we have roughly ...
 
-📺 Joe Lonsdale
+📺 Dr Brian Keating
 
-👁️ 24K • 👍 596 • 💬 53 • ⏱️ 8:25 • 2d ago
-
----
-
-**[Trump Shares Ai-Generated Image Of Himself As Jesus | The View](https://www.youtube.com/watch?v=uGAMi47yig4)**
-
-After the Pope spoke out against the war in Iran and Pres. Trump wasn't pleased with his comments, 'The View' co-hosts react to ...
-
-📺 The View
-
-👁️ 172K • 👍 4K • 💬 1K • ⏱️ 6:57 • 17h ago
+👁️ 14K • 👍 493 • 💬 108 • ⏱️ 1:27:18 • 1d ago
 
 ---
 
-**[Trump’s Blasphemous Jesus AI Image SHOCKS World!](https://www.youtube.com/watch?v=DiakslX9B04)**
+**[Google DeepMind’s boss on AI, power, God and what’s next | The Economist](https://www.youtube.com/watch?v=aYjXt6iVt70)**
 
-Donald Trump just dropped a jaw-dropping AI image of himself as Jesus Christ — and the internet is losing it. In this video we ...
+In the latest episode of Inside Tech, the Google DeepMind CEO, Demis Hassabis, talks to our AI writer, Alex Hern, about the ...
 
-📺 Maximilien Robespierre
+📺 The Economist
 
-👁️ 33K • 👍 3K • 💬 1K • ⏱️ 8:34 • 22h ago
+👁️ 160K • 👍 3K • 💬 239 • ⏱️ 6:26 • 1d ago
+
+---
+
+**[Watch it before it gets BANNED/ DELETED! #ai #dataprivacy #metarayban #humanoidrobot #dependence](https://www.youtube.com/watch?v=4OUS7zXmpWk)**
+
+AI, Data Privacy, Meta Ray-Ban, Glasses, Humanoid, Robot, Training, Job displacement, Future of AI, Tech Monopoly, Digital ...
+
+📺 bluntboard_
+
+👁️ 564 • 👍 28 • 💬 1 • ⏱️ 1:06 • 37m ago
 
 ---
 
@@ -385,7 +385,7 @@ GLM-5.1 is a next-generation language model optimized for agentic engineering, f
 
 `text-generation` `753.9B`
 
-⬇️ 84,784 • ❤️ 1,175 • 2d ago
+⬇️ 84,784 • ❤️ 1,176 • 2d ago
 
 ---
 
@@ -397,7 +397,7 @@ VoxCPM2 is a 2B parameter, 30-language multilingual text-to-speech model capable
 
 `text-to-speech`
 
-⬇️ 10,899 • ❤️ 849 • 6d ago
+⬇️ 10,899 • ❤️ 852 • 6d ago
 
 ---
 
@@ -409,7 +409,7 @@ MiniMax-M2.7 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 43,645 • ❤️ 677 • 1d ago
+⬇️ 43,645 • ❤️ 682 • 1d ago
 
 ---
 
@@ -421,7 +421,7 @@ Gemma 4 31B is an instruction-tuned, multimodal LLM capable of processing text a
 
 `image-text-to-text` `32.7B`
 
-⬇️ 2,640,636 • ❤️ 1,873 • 3d ago
+⬇️ 2,640,636 • ❤️ 1,876 • 3d ago
 
 ---
 
@@ -433,19 +433,7 @@ Gemma-4-31B-JANG_4M-CRACK is a 31B parameter text-generation model optimized for
 
 `image-text-to-text` `6.4B`
 
-⬇️ 117,491 • ❤️ 1,063 • 4d ago
-
----
-
-**[void-model](https://huggingface.co/netflix/void-model)**
-
-*Netflix*
-
-VOID is a video-to-video diffusion model for object and interaction removal, capable of deleting objects and their physical effects from scenes using a quadmask conditioning and text prompts. It's primarily used for advanced video editing and object removal tasks.
-
-`video-to-video`
-
-⬇️ 0 • ❤️ 802 • 7d ago
+⬇️ 117,491 • ❤️ 1,071 • 4d ago
 
 ---
 
@@ -457,7 +445,19 @@ HY-Embodied-0.5 is a multilingual vision-language model designed for embodied ag
 
 `image-text-to-text` `3.8B`
 
-⬇️ 723 • ❤️ 261 • 39m ago
+⬇️ 723 • ❤️ 306 • 2h ago
+
+---
+
+**[void-model](https://huggingface.co/netflix/void-model)**
+
+*Netflix*
+
+VOID is a video-to-video diffusion model for object and interaction removal, capable of deleting objects and their physical effects from scenes using a quadmask conditioning and text prompts. It's primarily used for advanced video editing and object removal tasks.
+
+`video-to-video`
+
+⬇️ 0 • ❤️ 804 • 7d ago
 
 ---
 
@@ -469,7 +469,7 @@ OmniVoice is a massively multilingual, zero-shot text-to-speech model supporting
 
 `text-to-speech`
 
-⬇️ 530,898 • ❤️ 555 • 1d ago
+⬇️ 530,898 • ❤️ 556 • 1d ago
 
 ---
 
@@ -481,19 +481,19 @@ This image-text-to-text model, Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled, 
 
 `image-text-to-text` `27.8B`
 
-⬇️ 588,751 • ❤️ 2,634 • 8d ago
+⬇️ 588,751 • ❤️ 2,635 • 8d ago
 
 ---
 
-**[gemma-4-E4B-it](https://huggingface.co/google/gemma-4-E4B-it)**
+**[gemma-4-31B-it-NVFP4-turbo](https://huggingface.co/LilaRest/gemma-4-31B-it-NVFP4-turbo)**
 
-*Google*
+*LilaRest*
 
-Gemma 4 E4B is a multimodal, instruction-tuned LLM from Google DeepMind, supporting text and audio input with text output. It excels in reasoning, coding, and agentic tasks, featuring a 128K context window and efficient on-device deployment capabilities.
+Gemma 4 31B IT NVFP4 Turbo is a highly optimized text-generation model, achieving ~2.5x speedup and 68% memory reduction over the base model by leveraging NVIDIA Blackwell FP4 tensor cores. It's ideal for applications requiring fast, high-throughput text generation on compatible NVIDIA GPUs with minimal quality loss.
 
-`any-to-any` `8.0B`
+`text-generation` `32.5B`
 
-⬇️ 1,503,266 • ❤️ 642 • 3d ago
+⬇️ 41,945 • ❤️ 204 • 4d ago
 
 ---
 
@@ -595,7 +595,7 @@ AI-Trader presents the first fully automated live benchmark for evaluating large
 
 Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
 
-▲ 52 • 💬 2 • ⭐ 52,951 • 11mo ago
+▲ 52 • 💬 2 • ⭐ 53,008 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
 
@@ -637,7 +637,7 @@ The highest-scoring AI memory system ever benchmarked. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 45.4k • 🔱 5.9k • 8h ago
+⭐ 45.5k • 🔱 5.9k • 1h ago
 
 ---
 
@@ -647,7 +647,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 32.9k • 🔱 6.5k • 17h ago
+⭐ 33.0k • 🔱 6.5k • 19h ago
 
 ---
 
@@ -657,7 +657,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 27.8k • 🔱 1.3k • 1d ago
+⭐ 28.2k • 🔱 1.3k • 1d ago
 
 ---
 
@@ -667,7 +667,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 25.9k • 🔱 2.8k • 3h ago
+⭐ 26.0k • 🔱 2.8k • 5h ago
 
 ---
 
@@ -677,7 +677,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 7.8k • 🔱 487 • 14m ago
+⭐ 7.8k • 🔱 488 • 2m ago
 
 ---
 
@@ -697,7 +697,7 @@ LIBERATED AI CHAT
 
 `TypeScript`
 
-⭐ 4.5k • 🔱 1.1k • 19d ago
+⭐ 4.6k • 🔱 1.1k • 19d ago
 
 ---
 
@@ -707,7 +707,7 @@ The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interac
 
 `Swift` `apple-intelligence` `apple-silicon` `cli` `foundationmodels` `homebrew`
 
-⭐ 4.5k • 🔱 168 • 19h ago
+⭐ 4.5k • 🔱 168 • 21h ago
 
 ---
 
@@ -727,7 +727,7 @@ The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interac
 
 `Python`
 
-⭐ 4.0k • 🔱 669 • 4h ago
+⭐ 4.0k • 🔱 672 • 6h ago
 
 ---
 

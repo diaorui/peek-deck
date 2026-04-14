@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-14T11:57:41.746364+00:00'
+updated: '2026-04-14T13:59:06.775436+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- social
 - videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 14, 2026 at 11:57 UTC  
+**Last Updated:** April 14, 2026 at 13:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,374.67
+### $2,392.03
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +8.3%  
-**7d:** +8.5%  
-**30d:** +0.9%  
-**90d:** -28.4%  
-**1y:** +49.5%  
+**24h:** +7.0%  
+**7d:** +9.2%  
+**30d:** +1.7%  
+**90d:** -27.9%  
+**1y:** +50.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $286.65B
+**Market Cap:** $288.58B
 Rank #2
 
 **Circulating Supply:** 120,690,992 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--52.0%
+-51.7%
 
 **All-Time Low:** $0.43
-+548439.3%
++552210.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+8h ago
 
 ---
 
@@ -81,7 +81,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 Coinbase AgentKit Prompt Injection: Wallet Drain, Infinite Approvals, and Agent-Level RCE Reported 13 days after Coinbase launched Agentic Wallets. Validated by Coinbase. Demonstrated on-chain. Published: April 11, 2026 CVE status: Pending assignment
 Coinbase AgentKit is developer infrastructure for building AI agents with direct access to wallets, token operations, DeFi actions, and related execution surfaces. This disclosure covers a prompt injection vulnerability in AgentKit that allowed attacker-controlled input to trigger sensitive tool execution without a built-in human confirmation step.
 
-🔗 [x402warden](https://x402warden.com/research/coinbase-agentkit-prompt-injection/) • 14h ago
+🔗 [x402warden](https://x402warden.com/research/coinbase-agentkit-prompt-injection/) • 16h ago
 
 ---
 
@@ -133,7 +133,7 @@ There’s a lot of focus lately on calldata in the context of rollups and EIP-20
 
 **[Is the "Crypto Purge" at Twitter simply an algorithm glitch—or a massive Conflict of Interest?](https://www.reddit.com/r/ethereum/comments/1sjf56t/is_the_crypto_purge_at_twitter_simply_an/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -141,7 +141,7 @@ There’s a lot of focus lately on calldata in the context of rollups and EIP-20
 
 Over the past year I've been thinking a lot about Web3. Not the trading, not the speculation, not the casino. I don't trade crypto. I don't follow the markets. What fascinates me is the underlying idea: decentralized systems with code as the only authority. The technology itself. I've been a backend engineer for over a decade. Rails, SQL, the usual stack. But like many engineers, I burned out. The excitement to build faded. You know the feeling. You're competent, productive, but not discovering anything anymore. Then I looked seriously at blockchain. Not as an investor, but as an engineer. I asked myself: what would an application look like if built with absolute fidelity to what blockchain promises? Real utility (useful for the masses, not DeFi nonesense) NO off-chain layers (100% on-chain) NO insider advantages (fair economics) NO dependence on investors (self-sustaining) NO pointless tokenomics (ETH in, ETH out) Those five principles became my compass. I tried to build something that never violated them. But the Web3 ecosystem is built around tokenomics and speculation. There's no blueprint to follow. So I started pulling my own thread: I wanted to build something useful, deterministic, fully on-chain, with no complicated tokenomics. A simple game like TicTacToe with real ETH stakes? Interesting, but too narrow. Then the frame shifted. I wasn't building a game anymore. I was building a tournament layer. A universal competitive infrastructure that's fair, open-source, and 100% on-chain. That's when the hard problems started. How do you handle draws on a decentralized platform? How do you stop players griefing opponents without central authority? These aren't just technical questions. They're moral ones. They forced me to think deeply about fairness, about building a system nobody controls and nobody can manipulate. The answers surprised me. Forget Kubernetes, Redis, all that complexity. With these constraints (fully on-chain, truly open, completely decentralized) the legacy stack collapses into something elegant. A client talking directly to contracts. No servers. No databases. No company. Just code. That freedom changed how I think about software. So I built ETour A 100% on-chain tournament protocol, now live on Arbitrum. Players pay an entry fee, compete, the best player wins and takes the pot. Code decides everything. No intermediaries. As Web3 should be. I open-sourced it so developers can build their own games on it and inherit all of its features for free. I'm not here to tell you this is revolutionary. I built this because it felt like a problem worth solving. ETour is what came out the other side. The code is public. The contracts are immutable. The logic is yours to verify. PS: The technical docs are not final and will be updated soon. https://etour.games https://etour.games/whitepaper https://etour.games/manual https://etour.games/docs TLDR: ETour is useful, it's live, and it's open-source. Go ahead and play on it, or build your own game using its 100% on-chain and open source tournament modules.
 
-2d ago
+3d ago
 
 ---
 
@@ -153,7 +153,7 @@ Over the past year I've been thinking a lot about Web3. Not the trading, not the
 
 Bitmine now owns more than 4% of the total ETH coin supply of 120.7 million Bitmine is 81% of the way to the 'Alchemy of 5%' in just 9 months Bitmine uplisted...
 
-PR Newswire • 23h ago
+PR Newswire • 1d ago
 
 ---
 
@@ -161,13 +161,13 @@ PR Newswire • 23h ago
 
 Bitmine expanded its Ethereum treasury to 4.87 million ETH, controlling 4% of supply as total holdings climb to $11.8 billion.
 
-The Block • 22h ago
+The Block • 1d ago
 
 ---
 
 **[Bitmine Hits 4% of Ethereum Supply — Will ‘Alchemy of 5%’ Aid Tom Lee’s Bullish Price Call?](https://www.ccn.com/news/crypto/bitmine-4-ethereum-supply-alchemy-5-tom-lees-bullish-price-call/)**
 
-CCN.com • 2h ago
+CCN.com • 4h ago
 
 ---
 
@@ -181,7 +181,15 @@ CoinDesk • 1d ago
 
 **[Bitcoin, XRP, Ethereum Fall. Iran Peace Failure Causes a Crypto Headache.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-iran-crypto-46d858c6)**
 
-Barron's • 23h ago
+Barron's • 1d ago
+
+---
+
+**[CoinDesk 20 performance update: Ethereum (ETH) price rises 5.4%](https://www.coindesk.com/coindesk-indices/2026/04/14/coindesk-20-performance-update-ethereum-eth-price-rises-5-4)**
+
+Aave (AAVE), up 3.6% from Monday, joined Ethereum as a top performer.
+
+CoinDesk • 39m ago
 
 ---
 
@@ -189,15 +197,23 @@ Barron's • 23h ago
 
 A trader opened a high-risk short bet on Ethereum late Sunday, with liquidation looming just a hair’s breadth away. Daring Bet Or Something More? The trader opened a 25x leveraged short position on ETH on the decentralized perpetual trading platform...
 
-Yahoo Finance • 26m ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Bitcoin Hits $75,000 as XRP, Ethereum, and Solana All Surge: Is the Crypto Bull Run Starting?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-hits-75-000-xrp-113610617.html)**
+**[Which Cryptocurrency Should You Be Hoarding Right Now, Bitcoin or Ethereum?](https://www.fool.com/investing/2026/04/13/which-cryptocurrency-should-you-be-hoarding-right/)**
 
-For the first time since mid-March, Bitcoin (CRYPTO: BTC) is back above $75,000. The Bitcoin price had been ranging below $70,000 for more than a month, with every rally getting cut short by the bearish pressure the Middle East war has put on the market. Right now, the whole market is surging—Bitcoin has climbed 5.9%, ... Bitcoin Hits $75,000 as XRP, Ethereum, and Solana All Surge: Is the Crypto Bull Run Starting?
+If crypto treasury companies are loading up on Bitcoin and Ethereum, should you be too?
 
-Yahoo Finance • 21m ago
+The Motley Fool • 1d ago
+
+---
+
+**[Current price of Ethereum for April 14, 2026](https://fortune.com/article/price-of-ethereum-04-14-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 1h ago
 
 ---
 
@@ -205,29 +221,33 @@ Yahoo Finance • 21m ago
 
 Ethereum has been consolidating below $2,200 for weeks. The selling pressure is real. The uncertainty is higher. And the participants who hold enough ETH to move markets just crossed back into profit, which, in the history of this asset, has never happened quietly.A CryptoQuant analyst tracking the…
 
-TradingView — Track All Markets • 12h ago
-
----
-
-**[Kavita Gupta: Ethereum outperforms Bitcoin, insider trading poses unique challenges in prediction markets, and long-term strategies are key for navigating volatility | Unchained](https://cryptobriefing.com/kavita-gupta-ethereum-outperforms-bitcoin-insider-trading-poses-unique-challenges-in-prediction-markets-and-long-term-strategies-are-key-for-navigating-volatility-unchained/)**
-
-Ethereum's recent outperformance of Bitcoin suggests a shift in crypto market dynamics and investor sentiment.
-
-Crypto Briefing • 6h ago
-
----
-
-**[Crypto News: ETH Based Pepeto Stages Update While the Ethereum Price Prediction Aims For Five Figures](https://markets.businessinsider.com/news/stocks/crypto-news-eth-based-pepeto-stages-update-while-the-ethereum-price-prediction-aims-for-five-figures-1036018543)**
-
-Dubai, UAE, April  14, 2026  (GLOBE NEWSWIRE) -- Ethereum based crypto Pepeto announced the last presale stage sell out, with funds raised crossin...
-
-markets.businessinsider.com • 5h ago
+TradingView — Track All Markets • 14h ago
 
 ---
 
 ---
 
 ## YouTube Videos: "ethereum"
+
+**[🔴 Ethereum Is Finally Breaking Out – Next Target $3,000?](https://www.youtube.com/watch?v=EzqGrq9CQOo)**
+
+BloFin - No KYC/No VPN needed [Trade ETH Coin Futures!] https://marzell.org/Blofin_Trade CoinGPT ...
+
+📺 Marzell Crypto
+
+👁️ 318 • 👍 23 • 💬 117 • ⏱️ 5:01 • 8h ago
+
+---
+
+**[ETHEREUM BROKE OUT! What&#39;s Next?🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=h2K-uk9JfSg)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 261 • 👍 22 • 💬 17 • ⏱️ 4:45 • 4h ago
+
+---
 
 **[🚨 BTC &amp; ETH: OH MY..........](https://www.youtube.com/watch?v=1IfF4Y2CSPU)**
 
@@ -245,47 +265,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 4K • 👍 174 • 💬 96 • ⏱️ 38:50 • 17h ago
-
----
-
-**[🔴 Ethereum Is Finally Breaking Out – Next Target $3,000?](https://www.youtube.com/watch?v=EzqGrq9CQOo)**
-
-BloFin - No KYC/No VPN needed [Trade ETH Coin Futures!] https://marzell.org/Blofin_Trade CoinGPT ...
-
-📺 Marzell Crypto
-
-👁️ 247 • 👍 22 • 💬 117 • ⏱️ 5:01 • 6h ago
-
----
-
-**[CRYPTO LIVE TRADING || 14 APRIL  | ‪@ClockTraderlive‬ #bitcoin #ethereum #crypto #btclivetrading](https://www.youtube.com/watch?v=0DcDmK-mQCI)**
-
-join my social platforms for updates and analysis ✓Instagram: ...
-
-📺 Aryan trader Live
-
-👁️ 3K • 👍 3K • 1h ago
-
----
-
-**[ETHEREUM BROKE OUT! What&#39;s Next?🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=h2K-uk9JfSg)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 166 • 👍 15 • 💬 3 • ⏱️ 4:45 • 2h ago
-
----
-
-**[Ethereum Supply Shock + BlackRock Staking = Massive Setup](https://www.youtube.com/watch?v=MhOmj6JSAgs)**
-
-Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to stay smart on crypto: ...
-
-📺 Milk Road
-
-👁️ 5K • 👍 169 • 💬 26 • ⏱️ 10:57 • 1d ago
+👁️ 5K • 👍 181 • 💬 92 • ⏱️ 38:50 • 19h ago
 
 ---
 
@@ -295,7 +275,37 @@ Ethereum is down more than 50% from its all-time high, but the bigger concern ri
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 224 • 💬 26 • ⏱️ 15:54 • 14h ago
+👁️ 4K • 👍 227 • 💬 28 • ⏱️ 15:54 • 16h ago
+
+---
+
+**[Ethereum Supply Shock + BlackRock Staking = Massive Setup](https://www.youtube.com/watch?v=MhOmj6JSAgs)**
+
+Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to stay smart on crypto: ...
+
+📺 Milk Road
+
+👁️ 5K • 👍 169 • 💬 25 • ⏱️ 10:57 • 2d ago
+
+---
+
+**[Raoul Pal: &quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=Gys5vX-3hfg)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 30K • 👍 798 • 💬 104 • ⏱️ 19:27 • 2d ago
+
+---
+
+**[BITCOIN: Everyone is WRONG About This (important)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=uZnjzuPNTng)**
+
+BITCOIN: Everyone is WRONG About This (important)!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
+
+📺 Crypto World
+
+👁️ 8K • 👍 326 • 💬 148 • ⏱️ 19:32 • 16h ago
 
 ---
 
@@ -305,27 +315,17 @@ Registre sua conta na MEXC aqui - https://www.mexc.com/pt-PT/auth/signup?inviteC
 
 📺 Lobo Cripto Oficial
 
-👁️ 83 • 👍 20 • 💬 6 • ⏱️ 9:41 • 38m ago
+👁️ 211 • 👍 52 • 💬 13 • ⏱️ 9:41 • 2h ago
 
 ---
 
-**[Bitcoin &amp; Ethereum. Wir nehmen 76-78k ins Visir! Darauf musst du jetzt achten!](https://www.youtube.com/watch?v=Vbe1P-rsu0E)**
+**[Ethereum Launches War-Proof Browser To Kill Chrome?🌐Freedom Browser INTERVIEW](https://www.youtube.com/watch?v=MkVhdstQvmE)**
 
-Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zurück bis max 400 USDT) ...
+Freedom is a minimalist browser for Swarm and IPFS. No centralized gateways. You connect directly to peers and become part of ...
 
-📺 Krypto Trading & Investing
+📺 Paul Barron Network
 
-👁️ 3K • 👍 556 • 💬 78 • ⏱️ 13:54 • 6h ago
-
----
-
-**[Stocks &amp; Ethereum About to Explode or Implode? War Shift Signals a Massive Market Trap](https://www.youtube.com/watch?v=S74UFJ5Tqy4)**
-
-Stocks & Ethereum are moving fast as war sentiment shifts and markets react. Is this rally real, or a massive market trap?
-
-📺 Gabbie Trades
-
-👁️ 95 • 👍 25 • 💬 7 • ⏱️ 10:22 • 2h ago
+👁️ 49K • 👍 2K • 💬 180 • ⏱️ 18:02 • 1d ago
 
 ---
 

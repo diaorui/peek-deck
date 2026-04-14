@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-14T11:57:41.749198+00:00'
+updated: '2026-04-14T13:59:06.778824+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 14, 2026 at 11:57 UTC  
+**Last Updated:** April 14, 2026 at 13:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/2043873782620926032
 
-1h ago
+3h ago
 
 ---
 
@@ -44,13 +44,7 @@ Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/2043873782620926032
 
 Two weeks ago, I quit my job at a robotics company. I didn't have another offer lined up, and I was working with some amazing hardware (Boston Dynamics, Unitree, Husarion). On paper, it was great. But the company began moving into the defense sector and planned to mount teleoperated weapons on the platforms for a demo. That crossed a hard line for me, so I walked away. I want to build robots (and the tools we use to control them) that actually adapt to people and improve interactions, not something that could potentially hurt someone. I've decided to take the leap into entrepreneurship. Right now, I'm trying to better understand how engineers, developers, and makers actually work with their robots day to day, what frustrates them about current control interfaces, and what's missing. If you work with robots (ROS2, embedded, commercial, whatever) or just tinker with them, I would really appreciate 3 minutes of your time to fill out this customer discovery survey: 👉 https://forms.gle/3Nm76wkeT5CMt23c8 I'm also really curious to hear your thoughts here in the thread: Have any of you faced similar ethical dilemmas in your robotics careers? How did you handle it? Happy to discuss in the comments. Thanks!
 
-15h ago
-
----
-
-**[I built my first robotic arm, any advice? I would like to play chess with it. At the end of the arm there’s a hole for a stylus pen to tap on my iPad](https://www.reddit.com/r/robotics/comments/1sl3kd6/i_built_my_first_robotic_arm_any_advice_i_would/)**
-
-2h ago
+17h ago
 
 ---
 
@@ -64,7 +58,7 @@ Two weeks ago, I quit my job at a robotics company. I didn't have another offer 
 
 Zack Jackowski, VP of Atlas Product at Boston Dynamics, explains that the first robot is really just a research machine used to figure out how everything actually works together. When they built it, they didn’t fully understand how all the components would interact, so it ended up overbuilt and a bit unbalanced, with things like multiple computers and parts pushed to extremes. He describes how the second-generation design is where that learning gets applied. Once they have real data, they can simplify the system, remove what isn’t needed, and make better decisions about weight, strength, and compute. The result isn’t not just a cheaper version, it’s a more efficient and better-performing robot overall because it’s based on what they learned from the first one rather than assumptions. j
 
-19h ago
+21h ago
 
 ---
 
@@ -72,19 +66,27 @@ Zack Jackowski, VP of Atlas Product at Boston Dynamics, explains that the first 
 
 This is a concept I worked on for a company a while ago. Using movement primitives, we wanted to explore how well a robot can plan tasks and then run them in simulation. The verdict was that it's surprisingly powerful. I go into detail how it works on my blogpost https://boesch.dev/posts/llm-trajectory/, but the gist is that composite movement primitives with higher order primitives can lead to a very rich set of tools for LLM task planning. Try the demo here: https://llm-trajectory.boesch.dev/ Or run it yourself with a more powerful LLM: https://github.com/Encrux/llm_trajectory
 
-14h ago
+16h ago
+
+---
+
+**[I saw this video of agibot playing table tennis](https://www.reddit.com/r/robotics/comments/1sl76kj/i_saw_this_video_of_agibot_playing_table_tennis/)**
+
+so guys, what are your thoughts on it ?Is it a big deal? currently, who is the most advanced humanoid robot closer to holygrail , Is it figure or agibot ? or someone else ,both figure and agibot, uses VLA, right? and not the world model. so how far along are we ? i feel like the only thing missing is lifelong learning with the right framework of reinforcement learning. so among unitree, agibot , ubtech, optimus , atlas ,figure. can you rank these players based on superior tech ,smarter and more cabablity and also. who do you think will dominate the future of humanoid robotics ? and why? i want to the opinions of experts too ,ideally ai and humanoid robotics researcher and engineer. to understand their perspective on advancements in Ai humanoid robotics. is the day when robots can live with us, speak with us, and be our partners, helping us achieve our goals do task on our laptop and household chores and even protect us ,how far away is that day? is it truly that far, as people make it to be? and who do you think will get us there ?
+
+1h ago
 
 ---
 
 **[Pressure compensation for underwater motor housing](https://www.reddit.com/r/robotics/comments/1sl311u/pressure_compensation_for_underwater_motor_housing/)**
 
-3h ago
+5h ago
 
 ---
 
 **[PeritasAI and NVIDIA Isaac Enabling Real-Time AI Awareness in Surgical Robotics](https://www.reddit.com/r/robotics/comments/1skgc65/peritasai_and_nvidia_isaac_enabling_realtime_ai/)**
 
-19h ago
+21h ago
 
 ---
 
@@ -104,19 +106,11 @@ This is a concept I worked on for a company a while ago. Using movement primitiv
 
 ## Google News: "robotics"
 
-**[Commentary: Am I the only one who hates delivery robots?](https://www.yahoo.com/lifestyle/articles/commentary-am-only-one-hates-100000504.html)**
+**[Humanoid robots show off boxing and language skills in Hong Kong](https://apnews.com/video/humanoid-robots-show-off-their-language-and-boxing-skills-35c464f8ff2440a1997284fa64ad0331)**
 
-They may have seemed cute when they debuted, but delivery robots are clogging sidewalks, creeping through intersections and generally creating many more problems than they solve.
+What will the next generation of robots be able to do? In Hong Kong, the machines have been showing off their ability to teach, dance and even fight.
 
-Yahoo • 1h ago
-
----
-
-**[Robots captured Russian army positions for first time in history, Zelenskyy says](https://www.politico.eu/article/volodymyr-zelenskyy-robotic-systems-russia-army-positions-ukraine/)**
-
-“The occupiers surrendered, and the operation was carried out without infantry and without losses on our side,” says Ukrainian leader.
-
-politico.eu • 2h ago
+AP News • 21h ago
 
 ---
 
@@ -124,21 +118,29 @@ politico.eu • 2h ago
 
 Locus Array is designed to complete fulfillment workflows without manual intervention and is already in use at DHL and other customers.
 
-The Robot Report • 19h ago
+The Robot Report • 21h ago
+
+---
+
+**[Robots captured Russian army positions for first time in history, Zelenskyy says](https://www.politico.eu/article/volodymyr-zelenskyy-robotic-systems-russia-army-positions-ukraine/)**
+
+“The occupiers surrendered, and the operation was carried out without infantry and without losses on our side,” says Ukrainian leader.
+
+politico.eu • 4h ago
+
+---
+
+**[Chinese humanoid robots prepare for second-ever half marathon in Beijing](https://www.nbcnews.com/video/chinese-humanoid-robots-prepare-for-second-ever-half-marathon-in-beijing-261285445622)**
+
+Chinese humanoid robots train to go head-to-head with human runners in the second-ever Beijing half marathon. NBC News' Kathy Park reports.
+
+NBC News • 13h ago
 
 ---
 
 **[30 Under 30 Europe Manufacturing & Industry 2026: The Builders Bringing AI, Robotics And Data To Industry](https://www.forbes.com/sites/alanohnsman/2026/04/14/30-under-30-europe-manufacturing--industry-2026-the-builders-bringing-ai-robotics-and-data-to-industry/)**
 
-Forbes • 7h ago
-
----
-
-**[Humanoid robots show off boxing and language skills in Hong Kong](https://apnews.com/video/humanoid-robots-show-off-their-language-and-boxing-skills-35c464f8ff2440a1997284fa64ad0331)**
-
-What will the next generation of robots be able to do? In Hong Kong, the machines have been showing off their ability to teach, dance and even fight.
-
-AP News • 19h ago
+Forbes • 9h ago
 
 ---
 
@@ -146,37 +148,39 @@ AP News • 19h ago
 
 Humanoid robots have reached manufacturing lines. Success now hinges on power, production-level reliability, and real-world data streams.
 
-EE Times • 18h ago
+EE Times • 20h ago
 
 ---
 
-**[Toyota's CUE7 humanoid robot shoots basketballs with precision tech](https://interestingengineering.com/ai-robotics/toyota-cue7-basketball-robot)**
+**[Drones, Mines, and Robots. What is Ukraine's Kill Zone and How Does it Work?](https://united24media.com/war-in-ukraine/drones-mines-and-robots-what-is-ukraines-kill-zone-and-how-does-it-work-17858)**
 
-Toyota unveils CUE7, advancing AI basketball robot with improved sensing, planning and precision beyond earlier record setting precedessors.
+Ukraine is redefining the kill zone — layering drones, mines, and robotics to stop Russian advances in a battlefield transformed by technology.
 
-Interesting Engineering • 22h ago
-
----
-
-**[Hidden in plain sight: Robots reveal ‘shipwreck city’ below the surface of a Washington lake](https://www.kare11.com/article/news/nation-world/robotics-underwater-detection-shipwrecks-sonar-survey-remote-operated-vehicle-washington-lake-union/507-d5e09930-31c1-491f-8c8b-01f9fcbba5b8)**
-
-'Shipwreck city': A high-tech survey has found dozens of possible wrecks in Washington state, with robotics capturing images in areas too dangerous for divers.
-
-kare11.com • 1d ago
+UNITED24 Media • 1d ago
 
 ---
 
-**[Robot race set for Boston's Seaport on Sunday ahead of marathon](https://www.masslive.com/news/2026/04/could-this-robot-race-become-the-next-boston-marathon.html)**
+**[Commentary: Am I the only one who hates delivery robots?](https://www.yahoo.com/lifestyle/articles/commentary-am-only-one-hates-100000504.html)**
 
-MassLive • 2h ago
+They may have seemed cute when they debuted, but delivery robots are clogging sidewalks, creeping through intersections and generally creating many more problems than they solve.
+
+Yahoo • 3h ago
 
 ---
 
-**[UP robotics teams compete for Michigan FIRST Robotics state finals](https://www.uppermichiganssource.com/2026/04/11/up-robotics-teams-compete-michigan-first-robotics-state-finals/)**
+**[First humanoid robot with embodied intelligence for high-risk tasks enters service](https://interestingengineering.com/ai-robotics/china-embodied-ai-humanoid-robot)**
 
-40 teams battled during the two-day district qualifiers at Escanaba High School.
+China has reportedly deployed its first "embodied" intelligent humanoid robot designed for high-risk industrial operations.
 
-Upper Michigan's Source • 2d ago
+Interesting Engineering • 1d ago
+
+---
+
+**[Minth: A Small Cap Quietly Pivoting To AI And Robots (OTCMKTS:MNTHF)](https://seekingalpha.com/article/4890175-minth-a-small-cap-quietly-pivoting-to-ai-and-robots)**
+
+Minth Group is a profitable dividend auto supplier pivoting to EV battery housings, AI data center cooling, & robotics. Learn more about MNTHF stock here.
+
+Seeking Alpha • 1d ago
 
 ---
 
@@ -190,7 +194,7 @@ Chinese humanoid robots train to go head-to-head with human runners in the secon
 
 📺 NBC News
 
-👁️ 33K • 👍 337 • 💬 137 • ⏱️ 1:59 • 11h ago
+👁️ 40K • 👍 394 • 💬 156 • ⏱️ 1:59 • 13h ago
 
 ---
 
@@ -200,27 +204,7 @@ Try Seedance 2.0 with Claude on Higgsfield: https://higgsfield.ai/s/seedance-2-0
 
 📺 AI Revolution
 
-👁️ 87K • 👍 1K • 💬 166 • ⏱️ 14:57 • 2d ago
-
----
-
-**[Elon Musk’s New Tesla Optimus Robot Looks Shockingly Human](https://www.youtube.com/watch?v=MbqMwLHx8-4)**
-
-A new wave of attention is building around Elon Musk's latest version of the Tesla Optimus robot, which is being described as ...
-
-📺 Carros Show
-
-👁️ 6K • 👍 138 • 💬 17 • ⏱️ 8:01 • 14h ago
-
----
-
-**[Why Every Tech Expert is Now Watching This New AI Robot](https://www.youtube.com/watch?v=bwBYN9hun84)**
-
-Imagine a task so delicate it's been the "holy grail" of engineering for three decades. We're talking about handling things that fold, ...
-
-📺 PRO ROBOTS
-
-👁️ 23K • 👍 642 • 💬 43 • ⏱️ 6:30 • 6d ago
+👁️ 88K • 👍 1K • 💬 169 • ⏱️ 14:57 • 2d ago
 
 ---
 
@@ -230,15 +214,37 @@ Could AI become dangerous? Can we trust AI Agents? AGI. Use code insideai at htt
 
 📺 InsideAI
 
-👁️ 604K • 👍 23K • 💬 2K • ⏱️ 16:24 • 4d ago
+👁️ 612K • 👍 23K • 💬 2K • ⏱️ 16:24 • 4d ago
 
 ---
 
-**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=NWhYwjXBWm0)**
+**[Why Every Tech Expert is Now Watching This New AI Robot](https://www.youtube.com/watch?v=bwBYN9hun84)**
 
-📺 Robot Julie 
+Imagine a task so delicate it's been the "holy grail" of engineering for three decades. We're talking about handling things that fold, ...
 
-👁️ 30K • 👍 85 • 💬 1 • ⏱️ 0:24 • 1d ago
+📺 PRO ROBOTS
+
+👁️ 25K • 👍 642 • 💬 44 • ⏱️ 6:30 • 6d ago
+
+---
+
+**[Vector &amp; Waymaker ♨️🧲 Robot &amp; Titan Spotlight — War Robots](https://www.youtube.com/watch?v=c9DhliuUq94)**
+
+Get the update on your app store: https://wr.my.games/play ➡️ Get the update through the official APK: ...
+
+📺 War Robots [WR]
+
+👁️ 16K • 👍 1K • 💬 87 • ⏱️ 1:23 • 2h ago
+
+---
+
+**[Robot Arm Mechanism | How Would You Rate This Build? 🤗 #robotics #engineering #mechanism](https://www.youtube.com/watch?v=dFu_nU5GKAE)**
+
+This video showcases the sophisticated mechanics of a 2-DOF robotic wrist, a critical assembly within a 5-DOF robotic arm system ...
+
+📺 mechdesign98
+
+👁️ 980K • 👍 6K • 💬 59 • ⏱️ 0:06 • 4d ago
 
 ---
 
@@ -252,31 +258,33 @@ South Korea is building robots you've only seen in movies, from giant walking ma
 
 ---
 
-**[Robot Arm Mechanism | How Would You Rate This Build? 🤗 #robotics #engineering #mechanism](https://www.youtube.com/watch?v=dFu_nU5GKAE)**
-
-This video showcases the sophisticated mechanics of a 2-DOF robotic wrist, a critical assembly within a 5-DOF robotic arm system ...
-
-📺 mechdesign98
-
-👁️ 975K • 👍 6K • 💬 58 • ⏱️ 0:06 • 4d ago
-
----
-
 **[Humanoid robots take over manual job at auto parts plant](https://www.youtube.com/watch?v=JMxKpo_Llt8)**
 
 Humanoid robots are being used for some manual tasks at the Schaeffler auto parts plant in Cheraw, S.C. Proponents argue that ...
 
 📺 NBC News
 
-👁️ 121K • 👍 2K • 💬 831 • ⏱️ 4:56 • 4d ago
+👁️ 122K • 👍 2K • 💬 840 • ⏱️ 4:56 • 4d ago
 
 ---
 
-**[I SAW MY FiRST delivery robot #minivacay #robot #justthebells10](https://www.youtube.com/watch?v=yGJyWvJ9uS4)**
+**[2026 Ultimate Robot Vacuum and Mop Comparison || Roborock, Eufy, Dreame, Narwal, Ecovacs, MOVA](https://www.youtube.com/watch?v=Pv9_2D_Xc5k)**
 
-📺 Just the Bells 10
+I tested every flagship robotic vacuum and mop from Roborock, Eufy, Dreame, Narwal, Ecovacs, and MOVA available in 2025 to ...
 
-👁️ 33K • 👍 1K • 💬 78 • ⏱️ 0:33 • 3d ago
+📺 The Hook Up
+
+👁️ 28K • 👍 846 • 💬 186 • ⏱️ 26:12 • 5d ago
+
+---
+
+**[Why the Lymow One Plus is the Best Robot Mower Not Sponsored](https://www.youtube.com/watch?v=TCBaaSISul8)**
+
+Lymow → https://lymowtradecolimited.pxf.io/OYr2VG The Lymow One Plus isn't your average robot mower. Instead of those tiny, ...
+
+📺 How To with Doc
+
+👁️ 21K • 👍 1K • 💬 195 • ⏱️ 21:24 • 4d ago
 
 ---
 
