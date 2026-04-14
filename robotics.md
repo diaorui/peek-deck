@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-14T16:41:28.520608+00:00'
+updated: '2026-04-14T18:05:40.350516+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 14, 2026 at 16:41 UTC  
+**Last Updated:** April 14, 2026 at 18:05 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,15 @@ Robotics research and industry news
 
 Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/2043873782620926032
 
-6h ago
+7h ago
+
+---
+
+**[OpenArm: An open-source humanoid arm you can actually build, simulate, and teleoperate](https://www.reddit.com/r/robotics/comments/1sletlb/openarm_an_opensource_humanoid_arm_you_can/)**
+
+OpenArm is an open-source humanoid arm platform developed by Enactic in Tokyo. It includes full CAD files, control code, firmware, and simulation tools, allowing users to build, modify, and test the system themselves. The arms are compliant and backdrivable, with teleoperation support that includes force feedback and gravity compensation. It also integrates with MuJoCo and Isaac Sim, enabling simulation-first development before running on real hardware. Project page: https://github.com/enactic/OpenArm
+
+58m ago
 
 ---
 
@@ -44,13 +52,21 @@ Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/2043873782620926032
 
 Two weeks ago, I quit my job at a robotics company. I didn't have another offer lined up, and I was working with some amazing hardware (Boston Dynamics, Unitree, Husarion). On paper, it was great. But the company began moving into the defense sector and planned to mount teleoperated weapons on the platforms for a demo. That crossed a hard line for me, so I walked away. I want to build robots (and the tools we use to control them) that actually adapt to people and improve interactions, not something that could potentially hurt someone. I've decided to take the leap into entrepreneurship. Right now, I'm trying to better understand how engineers, developers, and makers actually work with their robots day to day, what frustrates them about current control interfaces, and what's missing. If you work with robots (ROS2, embedded, commercial, whatever) or just tinker with them, I would really appreciate 3 minutes of your time to fill out this customer discovery survey: 👉 https://forms.gle/3Nm76wkeT5CMt23c8 I'm also really curious to hear your thoughts here in the thread: Have any of you faced similar ethical dilemmas in your robotics careers? How did you handle it? Happy to discuss in the comments. Thanks!
 
-20h ago
+21h ago
 
 ---
 
 **[Beijing’s Humanoid Robot Half Marathon, Night Run Test - Around 40% of teams are running fully autonomous, remote-controlled runs get a 1.2× penalty (Beijing's E-Town Half Marathon on April 19 with 100+ teams, 300+ humanoids competing)](https://www.reddit.com/r/robotics/comments/1sk6p2y/beijings_humanoid_robot_half_marathon_night_run/)**
 
 1d ago
+
+---
+
+**[SMRSC 2026 on India Today Network (SSII Surgical Robotics)](https://www.reddit.com/r/robotics/comments/1slf2jq/smrsc_2026_on_india_today_network_ssii_surgical/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtu.be](https://youtu.be/pY5s8RPUAwo?si=GtUB0T0mQDFhVWyd) • 49m ago
 
 ---
 
@@ -62,17 +78,11 @@ Zack Jackowski, VP of Atlas Product at Boston Dynamics, explains that the first 
 
 ---
 
-**[Looks like robots are entering the Pilates industry 😄](https://www.reddit.com/r/robotics/comments/1sldvye/looks_like_robots_are_entering_the_pilates/)**
-
-6m ago
-
----
-
 **[Building a Robot task planner using a textual scene representation and LLMs](https://www.reddit.com/r/robotics/comments/1sko1to/building_a_robot_task_planner_using_a_textual/)**
 
 This is a concept I worked on for a company a while ago. Using movement primitives, we wanted to explore how well a robot can plan tasks and then run them in simulation. The verdict was that it's surprisingly powerful. I go into detail how it works on my blogpost https://boesch.dev/posts/llm-trajectory/, but the gist is that composite movement primitives with higher order primitives can lead to a very rich set of tools for LLM task planning. Try the demo here: https://llm-trajectory.boesch.dev/ Or run it yourself with a more powerful LLM: https://github.com/Encrux/llm_trajectory
 
-19h ago
+21h ago
 
 ---
 
@@ -80,7 +90,7 @@ This is a concept I worked on for a company a while ago. Using movement primitiv
 
 Hi all, We’re running a live quadruped robot combat event and would genuinely value input from this community. The concept is to create a competitive format where engineers and roboticists can push their machines in a controlled, real-world environment. Think of it as an intersection of robotics research, sport, and entertainment. The first pilot is planned for 3 July at Outernet in London. Would you consider competing in something like this? What technical or safety considerations would be essential? What rules or constraints would make it credible and worthwhile? Has anyone here worked on quadrupeds in competitive or high-stress environments? If you’ve built with platforms like Unitree or similar systems, your perspective would be especially valuable. Happy to share more context if helpful, and keen to hear your thoughts.
 
-53m ago
+2h ago
 
 ---
 
@@ -88,19 +98,13 @@ Hi all, We’re running a live quadruped robot combat event and would genuinely 
 
 so guys, what are your thoughts on it ?Is it a big deal? currently, who is the most advanced humanoid robot closer to holygrail , Is it figure or agibot ? or someone else ,both figure and agibot, uses VLA, right? and not the world model. so how far along are we ? i feel like the only thing missing is lifelong learning with the right framework of reinforcement learning. so among unitree, agibot , ubtech, optimus , atlas ,figure. can you rank these players based on superior tech ,smarter and more cabablity and also. who do you think will dominate the future of humanoid robotics ? and why? i want to the opinions of experts too ,ideally ai and humanoid robotics researcher and engineer. to understand their perspective on advancements in Ai humanoid robotics. is the day when robots can live with us, speak with us, and be our partners, helping us achieve our goals do task on our laptop and household chores and even protect us ,how far away is that day? is it truly that far, as people make it to be? and who do you think will get us there ?
 
-4h ago
+5h ago
 
 ---
 
-**[Pressure compensation for underwater motor housing](https://www.reddit.com/r/robotics/comments/1sl311u/pressure_compensation_for_underwater_motor_housing/)**
+**[Looks like robots are entering the Pilates industry 😄](https://www.reddit.com/r/robotics/comments/1sldvye/looks_like_robots_are_entering_the_pilates/)**
 
-7h ago
-
----
-
-**[PeritasAI and NVIDIA Isaac Enabling Real-Time AI Awareness in Surgical Robotics](https://www.reddit.com/r/robotics/comments/1skgc65/peritasai_and_nvidia_isaac_enabling_realtime_ai/)**
-
-1d ago
+1h ago
 
 ---
 
@@ -112,7 +116,7 @@ so guys, what are your thoughts on it ?Is it a big deal? currently, who is the m
 
 Gemini Robotics ER 1.6 upgrades spatial reasoning and multi-view understanding, unlocking new capabilities like instrument reading for autonomous robots.
 
-Google DeepMind • 1h ago
+Google DeepMind • 3h ago
 
 ---
 
@@ -120,35 +124,21 @@ Google DeepMind • 1h ago
 
 “The occupiers surrendered, and the operation was carried out without infantry and without losses on our side,” says Ukrainian leader.
 
-politico.eu • 7h ago
+politico.eu • 8h ago
 
 ---
 
-**[First victory for the battle brigade run by robots alone](https://www.thetimes.com/world/russia-ukraine-war/article/ukraine-robot-army-war-russia-surrender-jvld9rllc)**
+**[Work in a warehouse? This robot’s coming for your job.](https://www.bostonglobe.com/2026/04/14/business/work-warehouse-this-robots-coming-your-job/)**
 
-The Times • 5h ago
+If it works, Locus Robotics' new system could replace thousands of “pickers,” who walk among the shelves, pulling out individual items.
 
----
-
-**[Drones, Mines, and Robots. What is Ukraine's Kill Zone and How Does it Work?](https://united24media.com/war-in-ukraine/drones-mines-and-robots-what-is-ukraines-kill-zone-and-how-does-it-work-17858)**
-
-Ukraine is redefining the kill zone — layering drones, mines, and robotics to stop Russian advances in a battlefield transformed by technology.
-
-UNITED24 Media • 1d ago
-
----
-
-**[Locus Robotics launches Locus Array for fully autonomous fulfillment](https://www.therobotreport.com/locus-robotics-launches-locus-array-for-fully-autonomous-fulfillment/)**
-
-Locus Array is designed to complete fulfillment workflows without manual intervention and is already in use at DHL and other customers.
-
-The Robot Report • 23h ago
+The Boston Globe • 2h ago
 
 ---
 
 **[30 Under 30 Europe Manufacturing & Industry 2026: The Builders Bringing AI, Robotics And Data To Industry](https://www.forbes.com/sites/alanohnsman/2026/04/14/30-under-30-europe-manufacturing--industry-2026-the-builders-bringing-ai-robotics-and-data-to-industry/)**
 
-Forbes • 12h ago
+Forbes • 13h ago
 
 ---
 
@@ -156,15 +146,7 @@ Forbes • 12h ago
 
 Chinese humanoid robots train to go head-to-head with human runners in the second-ever Beijing half marathon. NBC News' Kathy Park reports.
 
-NBC News • 16h ago
-
----
-
-**[Humanoid robots show off boxing and language skills in Hong Kong](https://apnews.com/video/humanoid-robots-show-off-their-language-and-boxing-skills-35c464f8ff2440a1997284fa64ad0331)**
-
-What will the next generation of robots be able to do? In Hong Kong, the machines have been showing off their ability to teach, dance and even fight.
-
-AP News • 1d ago
+NBC News • 17h ago
 
 ---
 
@@ -176,11 +158,35 @@ Interesting Engineering • 1d ago
 
 ---
 
-**[Liberty Schools Robotics Team bound for world competition](https://www.yahoo.com/news/articles/liberty-schools-robotics-team-bound-143744611.html)**
+**[Locus Robotics launches Locus Array for fully autonomous fulfillment](https://www.therobotreport.com/locus-robotics-launches-locus-array-for-fully-autonomous-fulfillment/)**
 
-The Liberty Local Schools Robotics team has been invited to the VEX Robotics World Championship in St. Louis after achieving success in Ohio competitions, including ranking #1 in the Skills Competitio...
+Locus Array is designed to complete fulfillment workflows without manual intervention and is already in use at DHL and other customers.
 
-Yahoo • 2h ago
+The Robot Report • 1d ago
+
+---
+
+**[Humanoid robots show off boxing and language skills in Hong Kong](https://apnews.com/video/humanoid-robots-show-off-their-language-and-boxing-skills-35c464f8ff2440a1997284fa64ad0331)**
+
+What will the next generation of robots be able to do? In Hong Kong, the machines have been showing off their ability to teach, dance and even fight.
+
+AP News • 1d ago
+
+---
+
+**[A semi-humanoid robot for cargo and care debuts in Hong Kong](https://www.stocktitan.net/news/MIMI/axonex-intelligence-s-ai-robotics-series-makes-a-splash-at-inno-ex-s66j7r0t9sd4.html)**
+
+At InnoEX, Axonex is showing 6 robot series, including NEX, which is designed to recognize 100+ scenes, objects and actions through April 16.
+
+Stock Titan • 4h ago
+
+---
+
+**[Humanoid robots show off boxing and customer service skills as they take on new jobs](https://www.the-independent.com/tech/humanoid-robots-boxing-customer-service-hong-kong-convention-b2956647.html)**
+
+One company said it has already sold more than 400 robots with female features and soft synthetic faces
+
+the-independent.com • 1d ago
 
 ---
 
@@ -194,7 +200,7 @@ Boston Dynamics just did what most people thought would take years longer. Atlas
 
 📺 AI Revolution
 
-👁️ 25K • 👍 979 • 💬 83 • ⏱️ 21:49 • 16h ago
+👁️ 25K • 👍 979 • 💬 83 • ⏱️ 21:49 • 18h ago
 
 ---
 
@@ -204,7 +210,7 @@ Chinese humanoid robots train to go head-to-head with human runners in the secon
 
 📺 NBC News
 
-👁️ 52K • 👍 440 • 💬 170 • ⏱️ 1:59 • 15h ago
+👁️ 52K • 👍 440 • 💬 170 • ⏱️ 1:59 • 17h ago
 
 ---
 
@@ -234,7 +240,7 @@ Could AI become dangerous? Can we trust AI Agents? AGI. Use code insideai at htt
 
 📺 InsideAI
 
-👁️ 624K • 👍 24K • 💬 2K • ⏱️ 16:24 • 4d ago
+👁️ 624K • 👍 24K • 💬 2K • ⏱️ 16:24 • 5d ago
 
 ---
 

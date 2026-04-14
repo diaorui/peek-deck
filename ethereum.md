@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-14T16:41:28.517426+00:00'
+updated: '2026-04-14T18:05:40.347246+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - news
+- cryptocurrency
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 14, 2026 at 16:41 UTC  
+**Last Updated:** April 14, 2026 at 18:05 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,350.08
+### $2,340.76
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +5.5%  
-**7d:** +7.2%  
-**30d:** -0.2%  
-**90d:** -29.2%  
-**1y:** +47.8%  
+**24h:** +3.6%  
+**7d:** +7.0%  
+**30d:** -0.4%  
+**90d:** -29.4%  
+**1y:** +47.5%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+13h ago
 
 ---
 
@@ -81,7 +81,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 Coinbase AgentKit Prompt Injection: Wallet Drain, Infinite Approvals, and Agent-Level RCE Reported 13 days after Coinbase launched Agentic Wallets. Validated by Coinbase. Demonstrated on-chain. Published: April 11, 2026 CVE status: Pending assignment
 Coinbase AgentKit is developer infrastructure for building AI agents with direct access to wallets, token operations, DeFi actions, and related execution surfaces. This disclosure covers a prompt injection vulnerability in AgentKit that allowed attacker-controlled input to trigger sensitive tool execution without a built-in human confirmation step.
 
-🔗 [x402warden](https://x402warden.com/research/coinbase-agentkit-prompt-injection/) • 19h ago
+🔗 [x402warden](https://x402warden.com/research/coinbase-agentkit-prompt-injection/) • 20h ago
 
 ---
 
@@ -105,13 +105,13 @@ I built a CLI tool in rust called LaunchDex that deploys a full DEX--factory con
 
 I permanently lost $2,000 USD value trying to stake via direct contract interaction on Aerodrome. The CLGauge contract accepts safeTransferFrom via the onERC721Received hook but silently fails to update the staking state, creating a black hole for assets. I’m sharing this to warn other developers and integrators building on top of Aerodrome (Base chain), and hopefully get the attention of the Core Team or the Emergency Council, since standard Discord support just gave me the "contracts are immutable" playbook. Recently, I performed a safeTransferFrom (as a fallback to approve and deposit) directly to the Aerodrome Gauge (0x83e2E9493996651ed63033d81f5052cBE2fEB6A1). The transaction was mathematically and technically successful on-chain because the Gauge contract explicitly implements the IERC721Receiver interface. However, this is where the integration trap lies: While the contract gladly accepted physical custody of my NFT position, it completely failed to trigger the internal logic to update the _stakes mapping and the rewardGrowth snapshots. The Reality: By exposing the receiver hook without the corresponding push-based deposit logic, Aerodrome's contract signals false compatibility. It creates a critical state mismatch: the Gauge owns the NFT, but my wallet is no longer recognized as the owner, meaning I can neither call deposit() nor withdraw(). Has any other developer encountered this problem?
 
-1d ago
+2d ago
 
 ---
 
 **[World Liberty Financial borrowed its own stablecoin against its own token on a platform run by its own advisor and Justin Sun (WLFI biggest investor) just called it fraud.](https://www.reddit.com/r/ethereum/comments/1sjkjuc/world_liberty_financial_borrowed_its_own/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -165,17 +165,27 @@ The Block • 1d ago
 
 ---
 
-**[Bitmine Hits 4% of Ethereum Supply — Will ‘Alchemy of 5%’ Aid Tom Lee’s Bullish Price Call?](https://www.ccn.com/news/crypto/bitmine-4-ethereum-supply-alchemy-5-tom-lees-bullish-price-call/)**
+**[Tom Lee’s BitMine Makes Biggest Ethereum Buy Since December](https://decrypt.co/364119/tom-lees-bitmine-biggest-ethereum-buy-since-december)**
 
-CCN.com • 7h ago
+BitMine Immersion Technologies' Ethereum treasury gained another $157 million of ETH last week, its biggest acquisition since December.
+
+Decrypt • 1d ago
 
 ---
 
-**[Ripple CEO Brad Garlinghouse Bets Big on XRP Flipping Ethereum](https://coinpaper.com/16228/ripple-ceo-brad-garlinghouse-bets-big-on-xrp-flipping-ethereum)**
+**[Crypto News: ByBit Is Now Letting Traders Use Bitcoin and Ethereum to Trade Stocks Like Apple and BlackRock’s IBIT](https://finance.yahoo.com/markets/crypto/articles/crypto-news-bybit-now-letting-164044776.html)**
 
-Ripple CEO Brad Garlinghouse says XRP could challenge Ethereum for the #2 crypto spot, driven by real-world cross-border payment utility.
+Most people who hold Bitcoin (CRYPTO: BTC) or Ethereum (CRYPTO: ETH) are doing one of two things with it. They’re either holding and waiting for the price to go up, or trading it for other cryptos—and ByBit just added a third option. The crypto exchange, which serves over 80 million users and ranks among the ... Crypto News: ByBit Is Now Letting Traders Use Bitcoin and Ethereum to Trade Stocks Like Apple and BlackRock’s IBIT
 
-Coinpaper • 4h ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Ethereum Foundation launches $1 million crypto security subsidy, providing access to over 20 audit firms](https://www.theblock.co/post/397427/ethereum-foundation-launches-1-million-crypto-security-subsidy-providing-access-to-over-20-audit-firms)**
+
+The EF tapped Areta's audit marketplace to provide access to over 20 security firms like Blocksec, Cetora, Hacken, Immunefi and Quantstamp.
+
+The Block • 1h ago
 
 ---
 
@@ -183,31 +193,7 @@ Coinpaper • 4h ago
 
 Aave (AAVE), up 3.6% from Monday, joined Ethereum as a top performer.
 
-CoinDesk • 3h ago
-
----
-
-**[Bitcoin, Ethereum approach two-month highs as markets grow optimistic over U.S.-Iran peace negotiations](https://fortune.com/2026/04/14/bitcoin-ethereum-price-today-us-iran-peace-talks/)**
-
-The rally has seen Bitcoin price rise to around $75,000 after falling as low as almost $60,000 in recent months.
-
-Fortune • 20m ago
-
----
-
-**[Marc Andreesen Just Said That Artificial General Intelligence (AGI) Is Here. Here's What That Could Mean for Ethereum.](https://www.fool.com/investing/2026/04/14/marc-andreesen-just-said-that-artificial-general-i/)**
-
-If Andreesen is right, Ethereum could be in for a wild ride pretty soon.
-
-The Motley Fool • 2h ago
-
----
-
-**[Bitcoin Hits $75,000 as XRP, Ethereum, and Solana All Surge: Is the Crypto Bull Run Starting?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-hits-75-000-xrp-113610617.html)**
-
-For the first time since mid-March, Bitcoin (CRYPTO: BTC) is back above $75,000. The Bitcoin price had been ranging below $70,000 for more than a month, with every rally getting cut short by the bearish pressure the Middle East war has put on the market. Right now, the whole market is surging—Bitcoin has climbed 5.9%, ... Bitcoin Hits $75,000 as XRP, Ethereum, and Solana All Surge: Is the Crypto Bull Run Starting?
-
-Yahoo Finance • 5h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -217,11 +203,25 @@ Barron's • 1d ago
 
 ---
 
-**[Crypto Hacker Mints $1.1 Billion in Polkadot via Ethereum Bridge, But Can Only Cash Out $237K](https://decrypt.co/364131/crypto-hacker-mints-billion-polkadot-ethereum-bridge-cashes-out-237k)**
+**[Marc Andreesen Just Said That Artificial General Intelligence (AGI) Is Here. Here's What That Could Mean for Ethereum.](https://www.fool.com/investing/2026/04/14/marc-andreesen-just-said-that-artificial-general-i/)**
 
-A hacker exploited a Polkadot bridge, minting $1.1 billion worth of DOT tokens before making a tiny fraction of that tally by selling it.
+If Andreesen is right, Ethereum could be in for a wild ride pretty soon.
 
-Decrypt • 1d ago
+The Motley Fool • 3h ago
+
+---
+
+**[Ethereum leads way as large cryptocurrencies post gains](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-post-gains-f608b9dd-f4607b97363e)**
+
+MarketWatch • 4h ago
+
+---
+
+**[A Historic Ethereum Signal Just Fired – Discover What Happens Next](https://www.tradingview.com/news/newsbtc:c70dbd912094b:0-a-historic-ethereum-signal-just-fired-discover-what-happens-next/)**
+
+Ethereum has been consolidating below $2,200 for weeks. The selling pressure is real. The uncertainty is higher. And the participants who hold enough ETH to move markets just crossed back into profit, which, in the history of this asset, has never happened quietly.A CryptoQuant analyst tracking the…
+
+TradingView — Track All Markets • 19h ago
 
 ---
 
@@ -235,7 +235,7 @@ BloFin - No KYC/No VPN needed [Trade ETH Coin Futures!] https://marzell.org/Blof
 
 📺 Marzell Crypto
 
-👁️ 435 • 👍 26 • 💬 134 • ⏱️ 5:01 • 11h ago
+👁️ 435 • 👍 26 • 💬 134 • ⏱️ 5:01 • 12h ago
 
 ---
 
@@ -255,7 +255,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 5K • 👍 190 • 💬 91 • ⏱️ 38:50 • 21h ago
+👁️ 5K • 👍 190 • 💬 91 • ⏱️ 38:50 • 23h ago
 
 ---
 
@@ -265,7 +265,7 @@ Ethereum is down more than 50% from its all-time high, but the bigger concern ri
 
 📺 More Crypto Online
 
-👁️ 5K • 👍 233 • 💬 29 • ⏱️ 15:54 • 19h ago
+👁️ 5K • 👍 233 • 💬 29 • ⏱️ 15:54 • 21h ago
 
 ---
 
@@ -275,7 +275,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 381 • 👍 25 • 💬 17 • ⏱️ 4:45 • 7h ago
+👁️ 381 • 👍 25 • 💬 17 • ⏱️ 4:45 • 8h ago
 
 ---
 
@@ -285,7 +285,7 @@ join my social platforms for updates and analysis ✓Instagram: ...
 
 📺 Aryan trader Live
 
-👁️ 5K • 👍 5K • 1h ago
+👁️ 5K • 👍 5K • 2h ago
 
 ---
 
@@ -315,7 +315,7 @@ BITCOIN: Everyone is WRONG About This (important)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 9K • 👍 339 • 💬 150 • ⏱️ 19:32 • 19h ago
+👁️ 9K • 👍 339 • 💬 150 • ⏱️ 19:32 • 20h ago
 
 ---
 
@@ -325,7 +325,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 216 • 👍 36 • ⏱️ 6:09 • 56m ago
+👁️ 216 • 👍 36 • ⏱️ 6:09 • 2h ago
 
 ---
 

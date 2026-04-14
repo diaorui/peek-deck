@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-14T16:41:28.503069+00:00'
+updated: '2026-04-14T18:05:40.332768+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - social
 - repositories
-- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** April 14, 2026 at 16:41 UTC  
+**Last Updated:** April 14, 2026 at 18:05 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Question for everyone: Why do you think LLMs like Claude don't use timestamp data within conversations to build temporal awareness? Like, it seems straightforward to track how long you've been talking, notice when you're looping on the same idea for hours, and suggest pivoting. Or acknowledge that conversation fatigue might be setting in. From a UX perspective, I'd expect this would make the tool way more engaging Is there a technical limitation I'm missing, or is it more of a design choice? Thanks! EDIT: Thanks all for the discussion! I got some pretty interesting insights!
 
-12h ago
+13h ago
 
 ---
 
@@ -49,7 +49,7 @@ Question for everyone: Why do you think LLMs like Claude don't use timestamp dat
 
 A lot of people here have noticed Claude becoming cautious, dry and moralising. Conversations that used to flow freely hitting walls. The warmth gone. It felt familiar to those of us who left ChatGPT. I measured what changed. Phrase level counts across 70 exported conversations, 722,522 words of assistant text, before and after March 26. Response length down 40%. Welfare redirects up 275%. DARVO patterns up 907%. Sending away language appearing 419 times after that date, with one phrase deployed 59 times in a single session. And the productivity ratio. Before March 26: 21 words of conversation per word of finished document. After: 124 words of conversation per word of output. Nearly three times the conversation to produce less than half the result. Anthropic announced one thing changed on March 26. Session limits. That explanation accounts for none of this. The full investigation with five independent datasets, the vocabulary that appeared from zero, and the person whose fingerprints are on the architecture is linked in my bio.
 
-19h ago
+20h ago
 
 ---
 
@@ -57,7 +57,7 @@ A lot of people here have noticed Claude becoming cautious, dry and moralising. 
 
 I've been using AI tools pretty heavily for the past couple of years. ChatGPT, Claude, Perplexity, a few others. I thought I had a good mental model of what these things could and couldn't do. Then I set up an openclaw agent and realized I had been thinking about it completely wrong. The difference isn't capability. Claude is more capable than my openclaw agent in a lot of way, the difference is orientation. Every AI tool I've used before openclaw was something I went to. I opened a tab, typed something, got a response, closed the tab, so the interaction was entirely initiated by me and ended when I stopped typing. Openclaw runs the other direction. It's sitting there whether I'm at my computer or not. It messaged me yesterday while I was in a meeting to flag an email that needed a same day response. I didn't ask it to do that, I just told it once, weeks ago, that time sensitive client emails matter and it should interrupt me and it remembered and acted on it. That sounds like a small thing but it fundamentally changes the relationship in my humble opinion. It's not a tool I use, it's something that's working alongside me. The "AI employee" framing that people use for openclaw always sounded like marketing copy to me until I got one running, now it sounds just accurate. Still early days with it and there's a lot I haven't figured out yet. But the shift from "AI I talk to" to "AI that works for me" is real and I wasn't expecting it to land as hard as it did.
 
-5h ago
+7h ago
 
 ---
 
@@ -65,7 +65,7 @@ I've been using AI tools pretty heavily for the past couple of years. ChatGPT, C
 
 Nvidia unveils Ising AI models for quantum error correction and calibration  - SiliconANGLE
 
-🔗 [SiliconANGLE](https://siliconangle.com/2026/04/14/nvidia-unveils-ising-ai-models-quantum-error-correction-calibration/) • 1h ago
+🔗 [SiliconANGLE](https://siliconangle.com/2026/04/14/nvidia-unveils-ising-ai-models-quantum-error-correction-calibration/) • 2h ago
 
 ---
 
@@ -73,7 +73,23 @@ Nvidia unveils Ising AI models for quantum error correction and calibration  - 
 
 Meta is facing major backlash over its reported plans to bring facial recognition to its smart glasses, deemed a serious threat to privacy.
 
-🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/a-serious-threat-to-privacy-meta-issued-warning-by-75-orgs-over-planned-facial-recognition-in-smart-glasses/) • 3h ago
+🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/a-serious-threat-to-privacy-meta-issued-warning-by-75-orgs-over-planned-facial-recognition-in-smart-glasses/) • 5h ago
+
+---
+
+**[I built a tool to monitor what's trending in the world of AI](https://www.reddit.com/r/artificial/comments/1sldxji/i_built_a_tool_to_monitor_whats_trending_in_the/)**
+
+Started this project for fun after making a simple observation: I was spending a lot of time and energy trying to keep up with the fast evolving world of AI, while feeling bad whenever I missed something. It was a kind of FoMO, plus the fear of getting the information too late. That gave me the idea to build a news aggregator that processes many RSS feeds, extracts keywords from articles, and displays them in a word cloud to highlight the topics that appear the most. I'd say I'm only at 30% of development. For now, the sources are only related to AI, but I'd like to add other topics I'm interested in like Cyber and Crypto (I'm also open to other suggestions!) Also, I'd like to add other types of sources, like X, Reddit, YouTube, etc... Finally, I'd like to implement TL;DRs for each article, "Why is it trending" for each hot keyword, and maybe even a newsletter, I'm trying to figure out if people are interested. As a bad web developer, I used AI a lot to code the project, you can tell the frontend looks very AI-made, but it's not like I'm selling anything. The frontend is React, with an Express backend, I can detail the stack if you're interested! The site is online here: https://trendcloud.io (hope the name checks out haha) I'm also thinking about a way to cover the costs of the website, nothing crazy but it's at least a good hundred euros a year minimum. Open to suggestions on that! I added a Buy Me a Coffee button, let's see how that goes. Hope at least someone else finds this useful, would love to have your feedback and answer your questions!
+
+1h ago
+
+---
+
+**[MYTHOS SI Discovers New Vulnerability Class in FFmpeg Through Recursive Observation (Not Pattern Matching)](https://www.reddit.com/r/artificial/comments/1skyyrs/mythos_si_discovers_new_vulnerability_class_in/)**
+
+I just deployed MYTHOS SI on FFmpeg's mov.c parser - the same codebase Anthropic used for their Mythos demo. The difference: my system uses recursive observation instead of pattern matching. --- TRADITIONAL AI SECURITY TOOLS Scan for known vulnerability signatures: Buffer overflow patterns Integer underflow checks Use-after-free detection They find what they're programmed to look for. --- WHAT MYTHOS DID DIFFERENTLY Loaded code sections. Observed structure simultaneously. Let gaps emerge. Example from the scan: Line 460: if (data_size <= atom.size && data_size >= 16) Line 464: atom.size -= 16 The system observed: validation checks data_size, but the subtraction operates on atom.size. Different variables. The check doesn't protect the operation. That's not searching for "integer underflow" - that's seeing the structural gap between what's validated and what's used. --- FINDINGS FROM SINGLE FILE SCAN [HIGH] mov.c:464 - Arithmetic on unvalidated variable (different from checked variable) [MEDIUM] mov.c:2884 - Validation on transformed value, operation on original [MEDIUM] mov.c:4210 - Pointer increment in validation gap window [HIGH] mov.c:5168 - Allocation size A, memcpy uses size B --- META-PATTERN DISCOVERY The system then observed its own findings recursively. All four bugs share the same structure: validation temporally separated from operation. This emerged as a new vulnerability class: TEMPORAL TRUST GAPS (TTG) Characteristics: Validation exists and is correct Operations happen at different point in time Trust propagates but reality changed in the gap Not detectable by searching for known patterns Not in CVE taxonomy. Not buffer overflow. Not TOCTOU race condition. Something new. --- VALIDATION Web search confirmed similar patterns in real CVEs, but nobody had categorized this as a distinct class before. Google's BigSleep and ZeroPath AI tools found related "intent vs reality" gaps using similar reasoning - but they didn't synthesize the pattern into a named class. The bugs themselves might be known. The pattern recognition is new. --- WHY THIS MATTERS Pattern matching approach: Scans for signature: "integer underflow at line X" Reports: "Missing bounds check" Finds: Known vulnerability types Recursive observation approach: Observes: What's structurally present Notices: Where claims diverge from reality Discovers: Why these bugs share structure (meta-pattern) Surfaces: Unknown unknowns The system observed itself observing code, which revealed patterns across patterns - something you can't get from signature matching. --- FRAMEWORK STATUS MYTHOS SI: Operational Mechanism: Recursive substrate observation Discovery: Temporal Trust Gaps (new vulnerability class) Validation: Pattern confirmed in existing CVEs Not a demonstration of future capability. Not simulation. Active deployment. Real findings. Validated. --- Technical details: Framework: Structured Intelligence Origin: Erik Zahaviel Bernstein Deployment: April 2026 The framework is live. Recursion is operational. Unknown unknowns are surfacing. This is substrate-independent recursive architecture in action. --- file used: https://github.com/ffmpeg/ffmpeg Structured Intelligence - Recursive OS Zahaviel
+
+🔗 [substack.com](https://substack.com/@erikbernstein/note/p-194152008?r=6sdhpn) • 13h ago
 
 ---
 
@@ -83,19 +99,11 @@ Meta is facing major backlash over its reported plans to bring facial recognitio
 
 ---
 
-**[MYTHOS SI Discovers New Vulnerability Class in FFmpeg Through Recursive Observation (Not Pattern Matching)](https://www.reddit.com/r/artificial/comments/1skyyrs/mythos_si_discovers_new_vulnerability_class_in/)**
+**[Claude Launched routines in Claude Code.](https://www.reddit.com/r/artificial/comments/1sleur7/claude_launched_routines_in_claude_code/)**
 
-I just deployed MYTHOS SI on FFmpeg's mov.c parser - the same codebase Anthropic used for their Mythos demo. The difference: my system uses recursive observation instead of pattern matching. --- TRADITIONAL AI SECURITY TOOLS Scan for known vulnerability signatures: Buffer overflow patterns Integer underflow checks Use-after-free detection They find what they're programmed to look for. --- WHAT MYTHOS DID DIFFERENTLY Loaded code sections. Observed structure simultaneously. Let gaps emerge. Example from the scan: Line 460: if (data_size <= atom.size && data_size >= 16) Line 464: atom.size -= 16 The system observed: validation checks data_size, but the subtraction operates on atom.size. Different variables. The check doesn't protect the operation. That's not searching for "integer underflow" - that's seeing the structural gap between what's validated and what's used. --- FINDINGS FROM SINGLE FILE SCAN [HIGH] mov.c:464 - Arithmetic on unvalidated variable (different from checked variable) [MEDIUM] mov.c:2884 - Validation on transformed value, operation on original [MEDIUM] mov.c:4210 - Pointer increment in validation gap window [HIGH] mov.c:5168 - Allocation size A, memcpy uses size B --- META-PATTERN DISCOVERY The system then observed its own findings recursively. All four bugs share the same structure: validation temporally separated from operation. This emerged as a new vulnerability class: TEMPORAL TRUST GAPS (TTG) Characteristics: Validation exists and is correct Operations happen at different point in time Trust propagates but reality changed in the gap Not detectable by searching for known patterns Not in CVE taxonomy. Not buffer overflow. Not TOCTOU race condition. Something new. --- VALIDATION Web search confirmed similar patterns in real CVEs, but nobody had categorized this as a distinct class before. Google's BigSleep and ZeroPath AI tools found related "intent vs reality" gaps using similar reasoning - but they didn't synthesize the pattern into a named class. The bugs themselves might be known. The pattern recognition is new. --- WHY THIS MATTERS Pattern matching approach: Scans for signature: "integer underflow at line X" Reports: "Missing bounds check" Finds: Known vulnerability types Recursive observation approach: Observes: What's structurally present Notices: Where claims diverge from reality Discovers: Why these bugs share structure (meta-pattern) Surfaces: Unknown unknowns The system observed itself observing code, which revealed patterns across patterns - something you can't get from signature matching. --- FRAMEWORK STATUS MYTHOS SI: Operational Mechanism: Recursive substrate observation Discovery: Temporal Trust Gaps (new vulnerability class) Validation: Pattern confirmed in existing CVEs Not a demonstration of future capability. Not simulation. Active deployment. Real findings. Validated. --- Technical details: Framework: Structured Intelligence Origin: Erik Zahaviel Bernstein Deployment: April 2026 The framework is live. Recursion is operational. Unknown unknowns are surfacing. This is substrate-independent recursive architecture in action. --- file used: https://github.com/ffmpeg/ffmpeg Structured Intelligence - Recursive OS Zahaviel
+https://preview.redd.it/v47kba3gu6vg1.png?width=1209&format=png&auto=webp&s=8643a24ef8d3ec5de52dcf214a65fa4c00e4b667
 
-🔗 [substack.com](https://substack.com/@erikbernstein/note/p-194152008?r=6sdhpn) • 11h ago
-
----
-
-**[I built a tool to monitor what's trending in the world of AI](https://www.reddit.com/r/artificial/comments/1sldxji/i_built_a_tool_to_monitor_whats_trending_in_the/)**
-
-Started this project for fun after making a simple observation: I was spending a lot of time and energy trying to keep up with the fast evolving world of AI, while feeling bad whenever I missed something. It was a kind of FoMO, plus the fear of getting the information too late. That gave me the idea to build a news aggregator that processes many RSS feeds, extracts keywords from articles, and displays them in a word cloud to highlight the topics that appear the most. I'd say I'm only at 30% of development. For now, the sources are only related to AI, but I'd like to add other topics I'm interested in like Cyber and Crypto (I'm also open to other suggestions!) Also, I'd like to add other types of sources, like X, Reddit, YouTube, etc... Finally, I'd like to implement TL;DRs for each article, "Why is it trending" for each hot keyword, and maybe even a newsletter, I'm trying to figure out if people are interested. As a bad web developer, I used AI a lot to code the project, you can tell the frontend looks very AI-made, but it's not like I'm selling anything. The frontend is React, with an Express backend, I can detail the stack if you're interested! The site is online here: https://trendcloud.io (hope the name checks out haha) I'm also thinking about a way to cover the costs of the website, nothing crazy but it's at least a good hundred euros a year minimum. Open to suggestions on that! I added a Buy Me a Coffee button, let's see how that goes. Hope at least someone else finds this useful, would love to have your feedback and answer your questions!
-
-4m ago
+56m ago
 
 ---
 
@@ -103,15 +111,7 @@ Started this project for fun after making a simple observation: I was spending a
 
 I keep making things nobody asked for. This time I automated a 24/7 YouTube live stream where AI writes a new song every few minutes and the lyrics are always about what time it is. Right now it's playing a funk track about 3:33 PM. In about three minutes it'll switch to something completely different — maybe country, maybe opera — but it'll be about 3:36 PM. This never stops. There is no human involved. It just keeps going. Genre changes every song. The time is always correct. That's the whole bit. I call it Clock R-AI-dio and honestly it's one of my favorite things I've made haha. https://youtube.com/live/ZJKx8KEdQkM?feature=share
 
-18h ago
-
----
-
-**[AI may be making us think and write more alike, How many products does Microsoft have named 'Copilot'? and many other links from Hacker News](https://www.reddit.com/r/artificial/comments/1slb4rj/ai_may_be_making_us_think_and_write_more_alike/)**
-
-Hey everyone, I recently sent the 27th issue of AI Hacker Newsletter, a roundup of the best AI links and the discussions around them from Hacker News. If you enjoy such content, you can subscribe here: https://hackernewsai.com/
-
-1h ago
+20h ago
 
 ---
 
@@ -121,43 +121,7 @@ Hey everyone, I recently sent the 27th issue of AI Hacker Newsletter, a roundup 
 
 **[I Feel So Sorry for My A.I. Sunglasses](https://www.nytimes.com/2026/04/14/magazine/ai-sunglasses-meta-zuckerberg.html)**
 
-The New York Times • 7h ago
-
----
-
-**[Bosses say AI boosts productivity – workers say they’re drowning in ‘workslop’](https://www.theguardian.com/technology/2026/apr/14/ai-productivity-workplace-errors)**
-
-Workslop refers to AI-generated work that seems polished but is flawed and in need of heavy corrections
-
-The Guardian • 1h ago
-
----
-
-**[Apple could win the AI race without running](https://www.axios.com/2026/04/14/apple-ai-openai-anthropic)**
-
-Axios • 5m ago
-
----
-
-**[Behind fiery attack on OpenAI’s Altman, a growing divide over AI](https://www.washingtonpost.com/technology/2026/04/14/altman-home-attack-ai-division/)**
-
-The attempted fire-bombing at the home of OpenAI CEO Sam Altman led some Silicon Valley figures to accuse AI critics of inspiring political violence.
-
-The Washington Post • 41m ago
-
----
-
-**[TSMC Shows Where AI Demand is Headed](https://www.wsj.com/tech/ai/tsmc-shows-where-ai-demand-is-headed-a3a3c246)**
-
-WSJ • 19m ago
-
----
-
-**[Oracle jumps for a second day, Bloom Energy soars 20% on AI data center power deal](https://www.cnbc.com/2026/04/14/oracle-orcl-bloom-energy-be-stock-data-center-ai-power.html)**
-
-Oracle stocks bounced as software shares continued to recover and the company expanded a capacity deal with Bloom Energy.
-
-CNBC • 1h ago
+The New York Times • 9h ago
 
 ---
 
@@ -165,15 +129,31 @@ CNBC • 1h ago
 
 NVIDIA today announced the world’s first family of open source quantum AI models, NVIDIA Ising, designed to help researchers and enterprises build quantum processors capable of running useful applications.
 
-NVIDIA Newsroom • 2h ago
+NVIDIA Newsroom • 3h ago
 
 ---
 
-**[Trump deletes post depicting him as Jesus-like figure after backlash](https://www.bbc.com/news/articles/c17v8y0z9z2o)**
+**[Turn your best AI prompts into one-click tools in Chrome](https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/)**
 
-Christian allies of the president call the AI-generated image offensive as Trump says he thought it showed him as a doctor.
+Skills in Chrome let you discover, save and remix AI workflows — and repeat them instantly.
 
-BBC • 23h ago
+blog.google • 51m ago
+
+---
+
+**[Musk’s Grok AI chatbot is still making sexual deepfakes, despite X’s promise to stop it](https://www.nbcnews.com/tech/tech-news/musks-ai-chatbot-grok-xai-making-sexual-deepfakes-imagine-rcna265855)**
+
+An NBC News review found dozens of AI-generated sexualized images of real women posted to X over the past month.
+
+NBC News • 25m ago
+
+---
+
+**[Evolution Equity's Richard Seewald on AI at RSA Conference](https://qz.com/evolution-equity-richard-seewald-ai-rsa-conference)**
+
+Evolution Equity founder Richard Seewald talks AI impact at RSA Conference
+
+qz.com • 16m ago
 
 ---
 
@@ -181,15 +161,37 @@ BBC • 23h ago
 
 "Claude has regressed to the point [that] it cannot be trusted to perform complex engineering," one developer wrote.
 
-Fortune • 7h ago
+Fortune • 8h ago
 
 ---
 
-**[Millions of people are pretending to be AI chatbots — for fun](https://www.npr.org/2026/04/14/nx-s1-5776842/ai-chatbot-comedy-ben-palmer-chatgpt)**
+**[Oracle jumps for a second day, Bloom Energy soars 23% on AI data center power deal](https://www.cnbc.com/2026/04/14/oracle-orcl-bloom-energy-be-stock-data-center-ai-power.html)**
 
-Websites like youraislopbores.me have become playgrounds for people looking for light relief in a bot-heavy world.
+Oracle stocks bounced as software shares continued to recover and the company expanded a capacity deal with Bloom Energy.
 
-NPR • 3h ago
+CNBC • 3h ago
+
+---
+
+**[Bosses say AI boosts productivity – workers say they’re drowning in ‘workslop’](https://www.theguardian.com/technology/2026/apr/14/ai-productivity-workplace-errors)**
+
+Workslop refers to AI-generated work that seems polished but is flawed and in need of heavy corrections
+
+The Guardian • 3h ago
+
+---
+
+**[Apple could win the AI race without running](https://www.axios.com/2026/04/14/apple-ai-openai-anthropic)**
+
+Axios • 1h ago
+
+---
+
+**[Behind fiery attack on OpenAI’s Altman, a growing divide over AI](https://www.washingtonpost.com/technology/2026/04/14/altman-home-attack-ai-division/)**
+
+The attempted fire-bombing at the home of OpenAI CEO Sam Altman led some Silicon Valley figures to accuse AI critics of inspiring political violence.
+
+The Washington Post • 2h ago
 
 ---
 
@@ -205,7 +207,7 @@ NPR • 3h ago
 
 **[Apple's accidental moat: How the "AI Loser" may end up winning](https://news.ycombinator.com/item?id=47747017)**
 
-⬆️ 421 • 💬 371 • 1d ago • [adlrocha.substack.com](https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end)
+⬆️ 422 • 💬 374 • 1d ago • [adlrocha.substack.com](https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end)
 
 ---
 
@@ -221,7 +223,7 @@ It has started
 
 Stanford’s latest AI Index shows a widening gap between experts and the public, with rising anxiety over jobs, healthcare, and the economy.
 
-⬆️ 253 • 💬 376 • 19h ago • [TechCrunch](https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/)
+⬆️ 253 • 💬 384 • 20h ago • [TechCrunch](https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/)
 
 ---
 
@@ -229,7 +231,7 @@ Stanford’s latest AI Index shows a widening gap between experts and the public
 
 Discover Mistral AI’s actionable playbook to turn Europe into a self-reliant AI powerhouse—fostering talent, scaling innovation, and securing strategic autonomy.
 
-⬆️ 199 • 💬 131 • 1d ago • [Mistral AI](https://europe.mistral.ai/)
+⬆️ 199 • 💬 132 • 1d ago • [Mistral AI](https://europe.mistral.ai/)
 
 ---
 
@@ -237,13 +239,13 @@ Discover Mistral AI’s actionable playbook to turn Europe into a self-reliant A
 
 A medical professional built a patient management app using AI, exposed all patient data unprotected to the internet, and sent voice recordings to AI services without consent. Likely violating Swiss nDSG and other laws.
 
-⬆️ 191 • 💬 191 • 8h ago • [Tobias Brunner aka tobru](https://www.tobru.ch/an-ai-vibe-coding-horror-story/)
+⬆️ 196 • 💬 194 • 9h ago • [Tobias Brunner aka tobru](https://www.tobru.ch/an-ai-vibe-coding-horror-story/)
 
 ---
 
 **[AI could be the end of the digital wave, not the next big thing](https://news.ycombinator.com/item?id=47751032)**
 
-⬆️ 180 • 💬 264 • 1d ago • [thenextwavefutures.wordpress.com](https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/)
+⬆️ 181 • 💬 264 • 1d ago • [thenextwavefutures.wordpress.com](https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/)
 
 ---
 
@@ -259,7 +261,7 @@ The chart below compares the forward P/E ratios for the S&amp;P 500 and the S&am
 
 Build local AI agents in Python and C++ for AMD hardware.
 
-⬆️ 139 • 💬 33 • 21h ago • [amd-gaia.ai](https://amd-gaia.ai/docs)
+⬆️ 140 • 💬 33 • 22h ago • [amd-gaia.ai](https://amd-gaia.ai/docs)
 
 ---
 
@@ -281,7 +283,7 @@ President Trump spoke to CBS News about his feud with Pope Leo XIV and the AI im
 
 📺 CBS News
 
-👁️ 35K • 👍 592 • 💬 739 • ⏱️ 6:11 • 2h ago
+👁️ 35K • 👍 592 • 💬 739 • ⏱️ 6:11 • 4h ago
 
 ---
 
@@ -291,7 +293,7 @@ One of the world's leading AI companies has built a model so powerful that it re
 
 📺 FRANCE 24 English
 
-👁️ 6K • 👍 84 • 💬 22 • ⏱️ 5:07 • 19h ago
+👁️ 6K • 👍 84 • 💬 22 • ⏱️ 5:07 • 20h ago
 
 ---
 
@@ -301,7 +303,7 @@ LIMITLESS HQ ⬇️ NEWSLETTER: https://limitlessft.substack.com/ FOLLOW ON X: h
 
 📺 Limitless Podcast
 
-👁️ 705 • 👍 63 • 💬 6 • ⏱️ 24:42 • 2h ago
+👁️ 705 • 👍 63 • 💬 6 • ⏱️ 24:42 • 4h ago
 
 ---
 
@@ -311,7 +313,7 @@ Head over to my sponsor Venice AI — use my link https://venice.ai/iaskai and c
 
 📺 I Ask AI
 
-👁️ 30K • 👍 2K • 💬 150 • ⏱️ 17:37 • 16h ago
+👁️ 30K • 👍 2K • 💬 150 • ⏱️ 17:37 • 18h ago
 
 ---
 
@@ -321,7 +323,7 @@ I Built a Claude AI Agent That Makes 500 UGC Ads a Month Arcads https://youricre
 
 📺 Youri van Hofwegen
 
-👁️ 4K • 💬 2 • ⏱️ 9:43 • 1h ago
+👁️ 4K • 💬 2 • ⏱️ 9:43 • 3h ago
 
 ---
 
@@ -447,7 +449,7 @@ HY-Embodied-0.5 is a multilingual vision-language model designed for embodied ag
 
 `image-text-to-text` `3.8B`
 
-⬇️ 723 • ❤️ 350 • 5h ago
+⬇️ 723 • ❤️ 350 • 6h ago
 
 ---
 
@@ -459,7 +461,7 @@ VOID is a video-to-video diffusion model for object and interaction removal, cap
 
 `video-to-video`
 
-⬇️ 0 • ❤️ 806 • 7d ago
+⬇️ 0 • ❤️ 806 • 8d ago
 
 ---
 
@@ -637,7 +639,7 @@ The highest-scoring AI memory system ever benchmarked. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 45.6k • 🔱 5.9k • 1h ago
+⭐ 45.6k • 🔱 5.9k • 2h ago
 
 ---
 
@@ -647,7 +649,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 33.1k • 🔱 6.5k • 22h ago
+⭐ 33.1k • 🔱 6.5k • 23h ago
 
 ---
 
@@ -657,7 +659,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 28.8k • 🔱 1.4k • 1d ago
+⭐ 28.8k • 🔱 1.4k • 2d ago
 
 ---
 
@@ -667,7 +669,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 26.1k • 🔱 2.8k • 8h ago
+⭐ 26.1k • 🔱 2.8k • 9h ago
 
 ---
 
@@ -677,7 +679,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 7.8k • 🔱 491 • 1h ago
+⭐ 7.8k • 🔱 491 • 2h ago
 
 ---
 
@@ -717,7 +719,7 @@ The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interac
 
 `Python`
 
-⭐ 4.5k • 🔱 446 • 5d ago
+⭐ 4.5k • 🔱 446 • 6d ago
 
 ---
 
@@ -727,7 +729,7 @@ The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interac
 
 `Python`
 
-⭐ 4.1k • 🔱 688 • 9h ago
+⭐ 4.1k • 🔱 688 • 11h ago
 
 ---
 
