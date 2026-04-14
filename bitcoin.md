@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-14T19:49:11.441815+00:00'
+updated: '2026-04-14T20:56:27.326033+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - news
 - videos
 - social
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 14, 2026 at 19:49 UTC  
+**Last Updated:** April 14, 2026 at 20:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $74,173.96
+### $74,165.57
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.2%  
-**7d:** +4.2%  
-**30d:** -1.1%  
-**90d:** -22.5%  
-**1y:** -11.5%  
+**24h:** +1.3%  
+**7d:** +4.3%  
+**30d:** -1.0%  
+**90d:** -22.4%  
+**1y:** -11.4%  
 
 ---
 
@@ -77,17 +77,25 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Defund War. Buy Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1slb55q/defund_war_buy_bitcoin/)**
+
+5h ago
+
+---
+
+**[$3.5 Trillion Goldman Sachs Files For Bitcoin Premium Income ETF](https://www.reddit.com/r/Bitcoin/comments/1slk7k8/35_trillion_goldman_sachs_files_for_bitcoin/)**
+
+Goldman Sachs has filed to launch a Bitcoin Premium Income ETF, signaling a deeper push by the Wall Street bank into crypto-linked investment products that blend Bitcoin exposure with an options-based income strategy. The move follows similar “premium income” designs from issuers such as BlackRock, Morgan Stanley and Grayscale that seek to turn BTC’s volatility into a steady yield stream for investors. A Bitcoin Premium Income ETF typically holds spot BTC exposure, often through shares of an existing spot Bitcoin ETF, and then sells call options on that position to generate option premium income. This “covered‑call” structure collects cash from option buyers and distributes that cash as income, in exchange for giving up part of BTC’s upside above a set strike price. In practice, the fund benefits when BTC trades sideways or rises only modestly, because it keeps the option premiums while price moves stay inside the range of the sold calls. When BTC rallies sharply, the ETF’s gains are capped beyond the strike, since it has already agreed to sell that upside to option buyers. During sell‑offs, the fund still absorbs most of the downside, with the collected premiums providing only partial cushioning. Goldman Sachs has already built a large balance‑sheet position in spot BTC ETFs from other issuers, with filings showing more than a billion dollars of exposure through funds such as BlackRock’s iShares Bitcoin Trust and Fidelity’s Wise Origin Bitcoin Fund. A proprietary Bitcoin Premium Income ETF would shift the bank from simply holding third‑party products to manufacturing its own yield‑focused vehicle for clients. That step aligns Goldman with a growing trend: traditional asset managers now design BTC strategies that look and feel like familiar equity income funds, using covered calls to turn volatility into distributions. For investors, a Goldman‑branded product could broaden access to options‑based BTC income strategies inside brokerage and wealth platforms that already distribute the firm’s ETFs. For yield‑seeking investors who want BTC exposure but prefer a smoother payout profile, a premium income ETF offers a trade‑off: higher potential cash distributions in exchange for surrendering a chunk of long‑term upside. It may appeal to advisers and institutions that view pure spot BTC ETFs as too volatile, yet still want regulated, exchange‑traded access to the asset class. At the market‑structure level, Goldman’s move underscores how fast BTC is integrating into mainstream portfolio tools, from plain‑vanilla spot ETFs to more complex options‑overlay products. If the SEC approves the filing, it could intensify competition in a new niche of Bitcoin income strategies and further legitimize the idea of using BTC not only as a speculative asset, but as an underlying for structured yield.
+
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/goldman-sachs-bitcoin-premium-income-etf) • 40m ago
+
+---
+
 **[How many people really own 1 BTC (or more)?](https://www.reddit.com/r/Bitcoin/comments/1slbgwr/how_many_people_really_own_1_btc_or_more/)**
 
 I got to thinking, while there is only going to be 21 million BTC how many people can really own 1?
 
-4h ago
-
----
-
-**[Defund War. Buy Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1slb55q/defund_war_buy_bitcoin/)**
-
-4h ago
+5h ago
 
 ---
 
@@ -95,7 +103,7 @@ I got to thinking, while there is only going to be 21 million BTC how many peopl
 
 $250 trillion sitting in bonds, equities, real estate, and cash worldwide means that the reallocation has barely started.
 
-3h ago
+4h ago
 
 ---
 
@@ -103,7 +111,7 @@ $250 trillion sitting in bonds, equities, real estate, and cash worldwide means 
 
 https://www.youtube.com/@bitcoinphilosopher
 
-7h ago
+8h ago
 
 ---
 
@@ -111,7 +119,21 @@ https://www.youtube.com/@bitcoinphilosopher
 
 It’s easy to think about security later. But your setup today is the one you’ll rely on when it’s worth much more.
 
-5h ago
+6h ago
+
+---
+
+**[Lightning node management](https://www.reddit.com/r/Bitcoin/comments/1sljkol/lightning_node_management/)**
+
+Hey guys, i am working on a wallet as a service platform that focuses on a lightning network. But right now i am having trouble recieving funds from other lightning wallets, please help. I would really appreciate. I am using a managed lightning node on voltage.
+
+1h ago
+
+---
+
+**[We're officially halfway until the next Bitcoin halving (105,000 blocks remaining)](https://www.reddit.com/r/Bitcoin/comments/1sl3xj3/were_officially_halfway_until_the_next_bitcoin/)**
+
+11h ago
 
 ---
 
@@ -119,7 +141,7 @@ It’s easy to think about security later. But your setup today is the one you�
 
 I can’t find any reasonable explanation of the price rise. Any suggestions?
 
-21h ago
+22h ago
 
 ---
 
@@ -127,27 +149,7 @@ I can’t find any reasonable explanation of the price rise. Any suggestions?
 
 Agree ?😅🤣
 
-13h ago
-
----
-
-**[We're officially halfway until the next Bitcoin halving (105,000 blocks remaining)](https://www.reddit.com/r/Bitcoin/comments/1sl3xj3/were_officially_halfway_until_the_next_bitcoin/)**
-
-10h ago
-
----
-
-**[question about the cycle](https://www.reddit.com/r/Bitcoin/comments/1sl2u2f/question_about_the_cycle/)**
-
-how does it feel watching institutions and smart retail buying it up when the price is low, while you watch the price rise and wait for it to go lower "soon"? Just curious, at what point will the special rest accept that the train is leavig the station?
-
-11h ago
-
----
-
-**[Sorry bears, go back to sleep.](https://www.reddit.com/r/Bitcoin/comments/1sknd1v/sorry_bears_go_back_to_sleep/)**
-
-23h ago
+14h ago
 
 ---
 
@@ -159,7 +161,21 @@ how does it feel watching institutions and smart retail buying it up when the pr
 
 The Doug Liman thriller sees Oscar winner Affleck star as computer scientist Craig Wright who has claimed to be the founder of Bitcoin.
 
-Deadline • 2h ago
+Deadline • 3h ago
+
+---
+
+**[Goldman Sachs files Bitcoin ETF targeting steady income, not just gains](https://seekingalpha.com/news/4574918-goldman-sachs-files-bitcoin-etf-targeting-steady-income-not-just-gains)**
+
+Goldman Sachs’ Bitcoin Premium Income ETF aims for BTC exposure via ETPs and call overwrites for monthly income—learn risks, structure, and what’s next.
+
+Seeking Alpha • 1h ago
+
+---
+
+**[Goldman Sachs files for its first bitcoin ETF product](https://www.reuters.com/legal/transactional/goldman-sachs-files-its-first-bitcoin-etf-product-2026-04-14/)**
+
+Reuters • 34m ago
 
 ---
 
@@ -167,47 +183,31 @@ Deadline • 2h ago
 
 The fund would provide exposure to ETPs that hold bitcoin, options on spot Bitcoin ETPs and options on “Bitcoin ETP Indices."
 
-The Block • 4h ago
+The Block • 5h ago
 
 ---
 
-**[Goldman Sachs makes surprise jump into Bitcoin ETFs with a product one analyst dubs “Boomer Candy”](https://fortune.com/2026/04/14/goldman-sachs-bitcoin-etf-boomer-candy/)**
+**[Bitcoin price: BTC pulls back after breakout attempt, but larger move could be in store](https://www.coindesk.com/markets/2026/04/14/bitcoin-usd75-000-breakout-fails-but-a-rare-signal-is-hinting-at-major-market-bottom)**
 
-The filing from a major U.S. bank comes shortly after Morgan Stanley’s Bitcoin ETF launched
+Derivatives funding rates have now remained negative for 46 days, a streak last seen following the FTX crash which marked the bottom of 2022's crypto winter.
 
-Fortune • 1h ago
-
----
-
-**[Goldman Sachs files for bitcoin income ETF in crypto push](https://www.coindesk.com/business/2026/04/14/goldman-sachs-files-for-bitcoin-income-etf-in-crypto-push)**
-
-The bank is moving deeper into crypto with a bitcoin ETF that generates income by selling options on bitcoin-linked funds, following BlackRock’s push into similar yield-focused products.
-
-CoinDesk • 4h ago
+CoinDesk • 41m ago
 
 ---
 
-**[Fed chairman nominee Kevin Warsh's vast holdings include crypto](https://www.coindesk.com/policy/2026/04/14/the-next-fed-chair-has-a-crypto-portfolio-here-s-everything-that-s-in-it)**
+**[Goldman Sachs To Launch Bitcoin Income ETF](https://finance.yahoo.com/markets/crypto/articles/goldman-sachs-launch-bitcoin-income-203600311.html)**
 
-Kevin Warsh's financial disclosure reveals stakes in DeFi protocols, Ethereum scaling networks, a Bitcoin Lightning startup, and prediction markets — all of which he's promised to sell.
+Wall Street investment bank Goldman Sachs (NYSE: $GS) has filed to launch a Bitcoin (CRYPTO: $BTC) exchange-traded ...
 
-CoinDesk • 50m ago
-
----
-
-**[Here's Why You Shouldn't Put More Than 5% of Your Portfolio in Any One Crypto](https://www.fool.com/investing/2026/04/14/heres-why-you-shouldnt-put-more-than-x-of-your-por/)**
-
-Most investors can't stomach the crypto market's wild long-term swings.
-
-The Motley Fool • 19m ago
+Yahoo Finance • 20m ago
 
 ---
 
-**[Bitcoin Moves Past Halfway Point In Halving Cycle As Supply Tightens Toward 2028](https://bitcoinmagazine.com/news/bitcoin-moves-past-halfway-point-halving)**
+**[Jordy Visser: Bitcoin will be significantly higher next time I see you](https://www.cnbc.com/video/2026/04/14/jordy-visser-bitcoin-will-be-significantly-higher-next-time-i-see-you.html)**
 
-Bitcoin is now just past the midpoint of its current halving cycle ahead of the 2028 supply cut, while miners continue to face shrinking block rewards.
+Jordy Visser, Head of Macro Research at 22V Research, says markets are forward-looking, driven by AI growth and resilient earnings, while inflation risks persist and Bitcoin benefits from negative real yields.
 
-Bitcoin Magazine • 34m ago
+CNBC • 10h ago
 
 ---
 
@@ -215,7 +215,7 @@ Bitcoin Magazine • 34m ago
 
 Saylor doubles down on extreme long-term bullishness. Financing model aims to avoid forced liquidation risk. Bitcoin's price remains volatile. Michael Saylor, executive chairman of Bitcoin-buying ...
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -265,7 +265,7 @@ Country’s oil exporters’ union says toll to be paid in cryptocurrency and ve
 
 Neha Narula
 
-⬆️ 170 • 💬 138 • 6d ago • [nehanarula.org](https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html)
+⬆️ 170 • 💬 138 • 7d ago • [nehanarula.org](https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html)
 
 ---
 
@@ -323,7 +323,7 @@ Subscribe to Jordi: https://www.youtube.com/@JordiVisserLabs BTC Conference 2026
 
 📺 Altcoin Daily
 
-👁️ 31K • 👍 2K • 💬 99 • ⏱️ 10:18 • 18h ago
+👁️ 31K • 👍 2K • 💬 99 • ⏱️ 10:18 • 20h ago
 
 ---
 
@@ -333,7 +333,7 @@ Ran breaks down why markets are suddenly behaving like geopolitical risk is cool
 
 📺 Crypto Banter
 
-👁️ 10K • 👍 767 • 💬 25 • ⏱️ 24:52 • 5h ago
+👁️ 10K • 👍 767 • 💬 25 • ⏱️ 24:52 • 6h ago
 
 ---
 
@@ -353,7 +353,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investa
 
 📺 InvestAnswers
 
-👁️ 39K • 👍 4K • 💬 139 • ⏱️ 23:49 • 21h ago
+👁️ 39K • 👍 4K • 💬 139 • ⏱️ 23:49 • 23h ago
 
 ---
 
@@ -363,7 +363,7 @@ Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FR
 
 📺 CryptosRUs
 
-👁️ 15K • 👍 866 • 💬 213 • ⏱️ 8:20 • 19h ago
+👁️ 15K • 👍 866 • 💬 213 • ⏱️ 8:20 • 20h ago
 
 ---
 
@@ -373,7 +373,7 @@ Follow me on X for my best content: http://www.X.com/AdamBLiv Transform Dormant 
 
 📺 Adam Livingston
 
-👁️ 8K • 👍 805 • 💬 143 • ⏱️ 19:40 • 23h ago
+👁️ 8K • 👍 805 • 💬 143 • ⏱️ 19:40 • 1d ago
 
 ---
 
@@ -383,7 +383,7 @@ Into The Cryptoverse Premium: https://intothecryptoverse.com For inquiries and t
 
 📺 Benjamin Cowen
 
-👁️ 10K • 👍 248 • 💬 7 • ⏱️ 0:46 • 22h ago
+👁️ 10K • 👍 248 • 💬 7 • ⏱️ 0:46 • 23h ago
 
 ---
 
@@ -393,7 +393,7 @@ Bitcoin is breaking out right now, and momentum is starting to build fast. In th
 
 📺 Crypto Banter
 
-👁️ 6K • 👍 429 • 💬 16 • ⏱️ 15:06 • 9h ago
+👁️ 6K • 👍 429 • 💬 16 • ⏱️ 15:06 • 10h ago
 
 ---
 
@@ -403,7 +403,7 @@ IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purp
 
 📺 The Kenzo Guy
 
-👁️ 3K • 👍 189 • 💬 15 • ⏱️ 27:02 • 23h ago
+👁️ 3K • 👍 189 • 💬 15 • ⏱️ 27:02 • 1d ago
 
 ---
 
@@ -413,7 +413,7 @@ Nick Valdez looks at the recent GOLD/BTC chart moves and what it might spell for
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 269 • 💬 187 • ⏱️ 7:13 • 21h ago
+👁️ 6K • 👍 269 • 💬 187 • ⏱️ 7:13 • 22h ago
 
 ---
 

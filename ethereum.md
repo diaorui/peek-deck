@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-14T19:49:11.447836+00:00'
+updated: '2026-04-14T20:56:27.331232+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - news
 - videos
 - social
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 14, 2026 at 19:49 UTC  
+**Last Updated:** April 14, 2026 at 20:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,311.42
+### $2,315.97
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.6%  
-**7d:** +5.6%  
-**30d:** -1.7%  
-**90d:** -30.3%  
-**1y:** +45.6%  
+**24h:** +2.4%  
+**7d:** +5.8%  
+**30d:** -1.5%  
+**90d:** -30.2%  
+**1y:** +45.8%  
 
 ---
 
@@ -68,19 +68,19 @@ No max supply
 
 ## Reddit: r/ethereum
 
-**[Daily General Discussion April 14, 2026](https://www.reddit.com/r/ethereum/comments/1skz0ll/daily_general_discussion_april_14_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-14h ago
-
----
-
 **[are we basically accepting that DAOs will be run by bots soon?](https://www.reddit.com/r/ethereum/comments/1slhx0g/are_we_basically_accepting_that_daos_will_be_run/)**
 
 Man I was looking at some recent governance votes across a few protocols and the amount of obvious botting is just depressing at this point. it feels like every time we come up with a new sybil resistance mechanism, someone just spins up a better script to farm it and now with AI agents getting actually decent at mimicking random on-chain behavior and passing standard checks, it seems like pure software solutions are just dead in the water. I really hate the idea of forced traditional KYC for web3 stuff because it completely defeats the point of privacy and just builds another centralized honeypot. was reading this technical deep dive the other day about setting up a private Proof Of Human using ZK tech so you don't actually tie your daily wallet to your real identity. tbh it made me realize we might actually need some kind of hardware or biometric anchor if we want to keep things decentralized without getting completely overrun by server farms it just sucks that the ecosystem is moving in a direction where simply "proving you are a person" is becoming the hardest part of interacting with ethereum. Idk, curious how you guys think L2s are gonna handle this long term because the current meta of hoping for the best isn't working
 
-53m ago
+2h ago
+
+---
+
+**[Daily General Discussion April 14, 2026](https://www.reddit.com/r/ethereum/comments/1skz0ll/daily_general_discussion_april_14_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+15h ago
 
 ---
 
@@ -88,7 +88,7 @@ Man I was looking at some recent governance votes across a few protocols and the
 
 A fake Ledger Live clone sat on Apple's App Store for seven days and drained $9.5 million from 50 victims across Bitcoin, Ethereum, Solana, Tron and XRP. Apple's review process, which promises to protect users, let it through. Then removed it after the damage was done.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/fake-ledger-app-apple-app-store-9-million-drained/) • 1h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/fake-ledger-app-apple-app-store-9-million-drained/) • 2h ago
 
 ---
 
@@ -97,7 +97,7 @@ A fake Ledger Live clone sat on Apple's App Store for seven days and drained $9.
 Coinbase AgentKit Prompt Injection: Wallet Drain, Infinite Approvals, and Agent-Level RCE Reported 13 days after Coinbase launched Agentic Wallets. Validated by Coinbase. Demonstrated on-chain. Published: April 11, 2026 CVE status: Pending assignment
 Coinbase AgentKit is developer infrastructure for building AI agents with direct access to wallets, token operations, DeFi actions, and related execution surfaces. This disclosure covers a prompt injection vulnerability in AgentKit that allowed attacker-controlled input to trigger sensitive tool execution without a built-in human confirmation step.
 
-🔗 [x402warden](https://x402warden.com/research/coinbase-agentkit-prompt-injection/) • 22h ago
+🔗 [x402warden](https://x402warden.com/research/coinbase-agentkit-prompt-injection/) • 23h ago
 
 ---
 
@@ -187,15 +187,7 @@ Decrypt • 1d ago
 
 The organization unveiled a new initiative aimed at tackling a persistent challenge in crypto development—the high cost of smart contract security audits.
 
-CoinDesk • 1h ago
-
----
-
-**[Ethereum Foundation launches $1 million crypto security subsidy, providing access to over 20 audit firms](https://www.theblock.co/post/397427/ethereum-foundation-launches-1-million-crypto-security-subsidy-providing-access-to-over-20-audit-firms)**
-
-The EF tapped Areta's audit marketplace to provide access to over 20 security firms like Blocksec, Cetora, Hacken, Immunefi and Quantstamp.
-
-The Block • 3h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -203,7 +195,7 @@ The Block • 3h ago
 
 For the first time since mid-March, Bitcoin (CRYPTO: BTC) is back above $75,000. The Bitcoin price had been ranging below $70,000 for more than a month, with every rally getting cut short by the bearish pressure the Middle East war has put on the market. Right now, the whole market is surging—Bitcoin has climbed 5.9%, ... Bitcoin Hits $75,000 as XRP, Ethereum, and Solana All Surge: Is the Crypto Bull Run Starting?
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -217,7 +209,13 @@ Barron's • 1d ago
 
 The rally has seen Bitcoin price rise to around $75,000 after falling as low as almost $60,000 in recent months.
 
-Fortune • 3h ago
+Fortune • 4h ago
+
+---
+
+**[Ethereum Price Prediction: Pepeto Hits $9M Raised While ETH Bounces 12,24% on Record ETF Inflows](https://www.binance.com/en/square/post/312541119359905)**
+
+Binance • 1h ago
 
 ---
 
@@ -225,7 +223,7 @@ Fortune • 3h ago
 
 If Andreesen is right, Ethereum could be in for a wild ride pretty soon.
 
-The Motley Fool • 5h ago
+The Motley Fool • 6h ago
 
 ---
 
@@ -239,7 +237,7 @@ BloFin - No KYC/No VPN needed [Trade ETH Coin Futures!] https://marzell.org/Blof
 
 📺 Marzell Crypto
 
-👁️ 573 • 👍 27 • 💬 119 • ⏱️ 5:01 • 14h ago
+👁️ 573 • 👍 27 • 💬 119 • ⏱️ 5:01 • 15h ago
 
 ---
 
@@ -259,7 +257,7 @@ Ethereum is down more than 50% from its all-time high, but the bigger concern ri
 
 📺 More Crypto Online
 
-👁️ 5K • 👍 232 • 💬 28 • ⏱️ 15:54 • 22h ago
+👁️ 5K • 👍 232 • 💬 28 • ⏱️ 15:54 • 23h ago
 
 ---
 
@@ -269,7 +267,7 @@ Tony Edwards of Thinking Crypto interview. We talk: Incoming Bitcoin Bottom, QE,
 
 📺 Altcoin Daily
 
-👁️ 1K • 👍 61 • 💬 2 • ⏱️ 0:59 • 2h ago
+👁️ 1K • 👍 61 • 💬 2 • ⏱️ 0:59 • 3h ago
 
 ---
 
@@ -289,7 +287,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 537 • 👍 27 • 💬 17 • ⏱️ 4:45 • 10h ago
+👁️ 537 • 👍 27 • 💬 17 • ⏱️ 4:45 • 11h ago
 
 ---
 
@@ -319,7 +317,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 507 • 👍 67 • ⏱️ 6:09 • 4h ago
+👁️ 507 • 👍 67 • ⏱️ 6:09 • 5h ago
 
 ---
 
@@ -329,7 +327,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Kaito Trade
 
-👁️ 253 • 👍 29 • 💬 10 • ⏱️ 16:49 • 4h ago
+👁️ 253 • 👍 29 • 💬 10 • ⏱️ 16:49 • 6h ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-14T19:49:11.451046+00:00'
+updated: '2026-04-14T20:56:27.333994+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 14, 2026 at 19:49 UTC  
+**Last Updated:** April 14, 2026 at 20:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,19 +32,19 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Just watched a robot kill itself (from Nima Zeighami)](https://www.reddit.com/r/robotics/comments/1sl4bz1/just_watched_a_robot_kill_itself_from_nima/)**
-
-Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/2043873782620926032
-
-9h ago
-
----
-
 **[OpenArm: An open-source humanoid arm you can actually build, simulate, and teleoperate](https://www.reddit.com/r/robotics/comments/1sletlb/openarm_an_opensource_humanoid_arm_you_can/)**
 
 OpenArm is an open-source humanoid arm platform developed by Enactic in Tokyo. It includes full CAD files, control code, firmware, and simulation tools, allowing users to build, modify, and test the system themselves. The arms are compliant and backdrivable, with teleoperation support that includes force feedback and gravity compensation. It also integrates with MuJoCo and Isaac Sim, enabling simulation-first development before running on real hardware. Project page: https://github.com/enactic/OpenArm
 
-2h ago
+3h ago
+
+---
+
+**[Just watched a robot kill itself (from Nima Zeighami)](https://www.reddit.com/r/robotics/comments/1sl4bz1/just_watched_a_robot_kill_itself_from_nima/)**
+
+Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/2043873782620926032
+
+10h ago
 
 ---
 
@@ -52,7 +52,7 @@ OpenArm is an open-source humanoid arm platform developed by Enactic in Tokyo. I
 
 Two weeks ago, I quit my job at a robotics company. I didn't have another offer lined up, and I was working with some amazing hardware (Boston Dynamics, Unitree, Husarion). On paper, it was great. But the company began moving into the defense sector and planned to mount teleoperated weapons on the platforms for a demo. That crossed a hard line for me, so I walked away. I want to build robots (and the tools we use to control them) that actually adapt to people and improve interactions, not something that could potentially hurt someone. I've decided to take the leap into entrepreneurship. Right now, I'm trying to better understand how engineers, developers, and makers actually work with their robots day to day, what frustrates them about current control interfaces, and what's missing. If you work with robots (ROS2, embedded, commercial, whatever) or just tinker with them, I would really appreciate 3 minutes of your time to fill out this customer discovery survey: 👉 https://forms.gle/3Nm76wkeT5CMt23c8 I'm also really curious to hear your thoughts here in the thread: Have any of you faced similar ethical dilemmas in your robotics careers? How did you handle it? Happy to discuss in the comments. Thanks!
 
-23h ago
+1d ago
 
 ---
 
@@ -60,7 +60,7 @@ Two weeks ago, I quit my job at a robotics company. I didn't have another offer 
 
 Check out why we built determinism as a core principle for our open source copper-rs project. Imagine being able to instantly reproduce deterministically any bug on your robotics platform, just jumping at the time the mistake happened, fix it, compare and never regress. https://youtu.be/eMpEeXYkQDw
 
-8m ago
+1h ago
 
 ---
 
@@ -82,7 +82,7 @@ Zack Jackowski, VP of Atlas Product at Boston Dynamics, explains that the first 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/pY5s8RPUAwo?si=GtUB0T0mQDFhVWyd) • 2h ago
+🔗 [youtu.be](https://youtu.be/pY5s8RPUAwo?si=GtUB0T0mQDFhVWyd) • 3h ago
 
 ---
 
@@ -90,7 +90,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 This is a concept I worked on for a company a while ago. Using movement primitives, we wanted to explore how well a robot can plan tasks and then run them in simulation. The verdict was that it's surprisingly powerful. I go into detail how it works on my blogpost https://boesch.dev/posts/llm-trajectory/, but the gist is that composite movement primitives with higher order primitives can lead to a very rich set of tools for LLM task planning. Try the demo here: https://llm-trajectory.boesch.dev/ Or run it yourself with a more powerful LLM: https://github.com/Encrux/llm_trajectory
 
-22h ago
+23h ago
 
 ---
 
@@ -98,7 +98,7 @@ This is a concept I worked on for a company a while ago. Using movement primitiv
 
 Hi all, We’re running a live quadruped robot combat event and would genuinely value input from this community. The concept is to create a competitive format where engineers and roboticists can push their machines in a controlled, real-world environment. Think of it as an intersection of robotics research, sport, and entertainment. The first pilot is planned for 3 July at Outernet in London. Would you consider competing in something like this? What technical or safety considerations would be essential? What rules or constraints would make it credible and worthwhile? Has anyone here worked on quadrupeds in competitive or high-stress environments? If you’ve built with platforms like Unitree or similar systems, your perspective would be especially valuable. Happy to share more context if helpful, and keen to hear your thoughts.
 
-4h ago
+5h ago
 
 ---
 
@@ -106,7 +106,7 @@ Hi all, We’re running a live quadruped robot combat event and would genuinely 
 
 so guys, what are your thoughts on it ?Is it a big deal? currently, who is the most advanced humanoid robot closer to holygrail , Is it figure or agibot ? or someone else ,both figure and agibot, uses VLA, right? and not the world model. so how far along are we ? i feel like the only thing missing is lifelong learning with the right framework of reinforcement learning. so among unitree, agibot , ubtech, optimus , atlas ,figure. can you rank these players based on superior tech ,smarter and more cabablity and also. who do you think will dominate the future of humanoid robotics ? and why? i want to the opinions of experts too ,ideally ai and humanoid robotics researcher and engineer. to understand their perspective on advancements in Ai humanoid robotics. is the day when robots can live with us, speak with us, and be our partners, helping us achieve our goals do task on our laptop and household chores and even protect us ,how far away is that day? is it truly that far, as people make it to be? and who do you think will get us there ?
 
-7h ago
+8h ago
 
 ---
 
@@ -118,53 +118,49 @@ so guys, what are your thoughts on it ?Is it a big deal? currently, who is the m
 
 Gemini Robotics ER 1.6 upgrades spatial reasoning and multi-view understanding, unlocking new capabilities like instrument reading for autonomous robots.
 
-Google DeepMind • 4h ago
+Google DeepMind • 5h ago
 
 ---
 
-**[Robots captured Russian army positions for first time in history, Zelenskyy says](https://www.politico.eu/article/volodymyr-zelenskyy-robotic-systems-russia-army-positions-ukraine/)**
+**[Gemini Robotics ER-1.6 enhances reasoning to help robots navigate real-world tasks.](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-1-6/)**
 
-“The occupiers surrendered, and the operation was carried out without infantry and without losses on our side,” says Ukrainian leader.
+An overview of Gemini Robotics-ER 1.6, an upgrade to our reasoning-first model that helps robots to understand their environment.
 
-politico.eu • 10h ago
+blog.google • 5h ago
+
+---
+
+**[​Boston Dynamics and Google DeepMind Teach Spot to Reason​](https://spectrum.ieee.org/boston-dynamics-spot-google-deepmind)**
+
+The addition of Gemini Robotics brings embodied AI reasoning to inspection robots
+
+IEEE Spectrum • 1h ago
+
+---
+
+**[First victory for the battle brigade run by robots alone](https://www.thetimes.com/world/russia-ukraine-war/article/ukraine-robot-army-war-russia-surrender-jvld9rllc)**
+
+The Times • 9h ago
+
+---
+
+**[Chicago bus shelter ad apologizes after video shows food delivery robots with Serve Robotics crash into Grand and Racine bus stop](https://abc7chicago.com/post/chicago-bus-shelter-ad-apologizes-video-shows-food-delivery-robots-serve-robotics-crash-grand-racine-stop/18885510/)**
+
+The owner of a robot delivery service is trying to turn a shattering experience into a good laugh.
+
+ABC7 Chicago • 3h ago
 
 ---
 
 **[30 Under 30 Europe Manufacturing & Industry 2026: The Builders Bringing AI, Robotics And Data To Industry](https://www.forbes.com/sites/alanohnsman/2026/04/14/30-under-30-europe-manufacturing--industry-2026-the-builders-bringing-ai-robotics-and-data-to-industry/)**
 
-Forbes • 15h ago
+Forbes • 16h ago
 
 ---
 
-**[Humanoid robots show off boxing and language skills in Hong Kong](https://apnews.com/video/humanoid-robots-show-off-their-language-and-boxing-skills-35c464f8ff2440a1997284fa64ad0331)**
+**[Hyundai Motor Chairman Doubles Down On AI And Robotics](https://www.forbes.com/sites/catzxwang/2026/04/13/hyundai-motor-chairman-doubles-down-on-ai-and-robotics/)**
 
-What will the next generation of robots be able to do? In Hong Kong, the machines have been showing off their ability to teach, dance and even fight.
-
-AP News • 1d ago
-
----
-
-**[A semi-humanoid robot for cargo and care debuts in Hong Kong](https://www.stocktitan.net/news/MIMI/axonex-intelligence-s-ai-robotics-series-makes-a-splash-at-inno-ex-s66j7r0t9sd4.html)**
-
-At InnoEX, Axonex is showing 6 robot series, including NEX, which is designed to recognize 100+ scenes, objects and actions through April 16.
-
-Stock Titan • 5h ago
-
----
-
-**[Humanoid robots show off boxing and customer service skills as they take on new jobs](https://www.the-independent.com/tech/humanoid-robots-boxing-customer-service-hong-kong-convention-b2956647.html)**
-
-One company said it has already sold more than 400 robots with female features and soft synthetic faces
-
-the-independent.com • 1d ago
-
----
-
-**[Locus Robotics launches Locus Array for fully autonomous fulfillment](https://www.therobotreport.com/locus-robotics-launches-locus-array-for-fully-autonomous-fulfillment/)**
-
-Locus Array is designed to complete fulfillment workflows without manual intervention and is already in use at DHL and other customers.
-
-The Robot Report • 1d ago
+Forbes • 23h ago
 
 ---
 
@@ -176,19 +172,19 @@ Interesting Engineering • 1d ago
 
 ---
 
-**[Chinese humanoid robots prepare for second-ever half marathon in Beijing](https://www.nbcnews.com/video/chinese-humanoid-robots-prepare-for-second-ever-half-marathon-in-beijing-261285445622)**
+**[Humanoid robots show off boxing and language skills in Hong Kong](https://apnews.com/video/humanoid-robots-show-off-their-language-and-boxing-skills-35c464f8ff2440a1997284fa64ad0331)**
 
-Chinese humanoid robots train to go head-to-head with human runners in the second-ever Beijing half marathon. NBC News' Kathy Park reports.
+What will the next generation of robots be able to do? In Hong Kong, the machines have been showing off their ability to teach, dance and even fight.
 
-NBC News • 19h ago
+AP News • 1d ago
 
 ---
 
-**[Centre County 4-H Robotics Team Qualifies for World Championship](https://www.statecollege.com/articles/community/centre-county-4-h-robotics-team-qualifies-for-world-championship/)**
+**[Locus Robotics launches Locus Array for fully autonomous fulfillment](https://www.therobotreport.com/locus-robotics-launches-locus-array-for-fully-autonomous-fulfillment/)**
 
-Centre Punch, the Centre County 4-H Robotics high school team, has earned a spot in the world championship after an outstanding performance at a FIRST
+Locus Array is designed to complete fulfillment workflows without manual intervention and is already in use at DHL and other customers.
 
-StateCollege.com • 15h ago
+The Robot Report • 1d ago
 
 ---
 
@@ -202,7 +198,7 @@ Boston Dynamics just did what most people thought would take years longer. Atlas
 
 📺 AI Revolution
 
-👁️ 30K • 👍 1K • 💬 87 • ⏱️ 21:49 • 19h ago
+👁️ 30K • 👍 1K • 💬 87 • ⏱️ 21:49 • 21h ago
 
 ---
 
@@ -212,7 +208,7 @@ Chinese humanoid robots train to go head-to-head with human runners in the secon
 
 📺 NBC News
 
-👁️ 59K • 👍 479 • 💬 179 • ⏱️ 1:59 • 19h ago
+👁️ 59K • 👍 479 • 💬 179 • ⏱️ 1:59 • 20h ago
 
 ---
 
@@ -222,7 +218,7 @@ A new wave of attention is building around Elon Musk's latest version of the Tes
 
 📺 Carros Show
 
-👁️ 7K • 👍 172 • 💬 30 • ⏱️ 8:01 • 22h ago
+👁️ 7K • 👍 172 • 💬 30 • ⏱️ 8:01 • 23h ago
 
 ---
 
