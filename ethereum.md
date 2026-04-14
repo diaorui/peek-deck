@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-14T15:20:22.435176+00:00'
+updated: '2026-04-14T16:41:28.517426+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
+- cryptocurrency
 - news
 - videos
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 14, 2026 at 15:20 UTC  
+**Last Updated:** April 14, 2026 at 16:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,339.41
+### $2,350.08
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +5.2%  
-**7d:** +7.0%  
-**30d:** -0.4%  
-**90d:** -29.4%  
-**1y:** +47.5%  
+**24h:** +5.5%  
+**7d:** +7.2%  
+**30d:** -0.2%  
+**90d:** -29.2%  
+**1y:** +47.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $288.58B
+**Market Cap:** $283.52B
 Rank #2
 
 **Circulating Supply:** 120,690,992 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--51.7%
+-52.5%
 
 **All-Time Low:** $0.43
-+552210.9%
++542827.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -81,7 +81,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 Coinbase AgentKit Prompt Injection: Wallet Drain, Infinite Approvals, and Agent-Level RCE Reported 13 days after Coinbase launched Agentic Wallets. Validated by Coinbase. Demonstrated on-chain. Published: April 11, 2026 CVE status: Pending assignment
 Coinbase AgentKit is developer infrastructure for building AI agents with direct access to wallets, token operations, DeFi actions, and related execution surfaces. This disclosure covers a prompt injection vulnerability in AgentKit that allowed attacker-controlled input to trigger sensitive tool execution without a built-in human confirmation step.
 
-🔗 [x402warden](https://x402warden.com/research/coinbase-agentkit-prompt-injection/) • 17h ago
+🔗 [x402warden](https://x402warden.com/research/coinbase-agentkit-prompt-injection/) • 19h ago
 
 ---
 
@@ -167,15 +167,47 @@ The Block • 1d ago
 
 **[Bitmine Hits 4% of Ethereum Supply — Will ‘Alchemy of 5%’ Aid Tom Lee’s Bullish Price Call?](https://www.ccn.com/news/crypto/bitmine-4-ethereum-supply-alchemy-5-tom-lees-bullish-price-call/)**
 
-CCN.com • 6h ago
+CCN.com • 7h ago
 
 ---
 
-**[Crypto Hacker Mints $1.1 Billion in Polkadot via Ethereum Bridge, But Can Only Cash Out $237K](https://decrypt.co/364131/crypto-hacker-mints-billion-polkadot-ethereum-bridge-cashes-out-237k)**
+**[Ripple CEO Brad Garlinghouse Bets Big on XRP Flipping Ethereum](https://coinpaper.com/16228/ripple-ceo-brad-garlinghouse-bets-big-on-xrp-flipping-ethereum)**
 
-A hacker exploited a Polkadot bridge, minting $1.1 billion worth of DOT tokens before making a tiny fraction of that tally by selling it.
+Ripple CEO Brad Garlinghouse says XRP could challenge Ethereum for the #2 crypto spot, driven by real-world cross-border payment utility.
 
-Decrypt • 23h ago
+Coinpaper • 4h ago
+
+---
+
+**[CoinDesk 20 performance update: Ethereum (ETH) price rises 5.4%](https://www.coindesk.com/coindesk-indices/2026/04/14/coindesk-20-performance-update-ethereum-eth-price-rises-5-4)**
+
+Aave (AAVE), up 3.6% from Monday, joined Ethereum as a top performer.
+
+CoinDesk • 3h ago
+
+---
+
+**[Bitcoin, Ethereum approach two-month highs as markets grow optimistic over U.S.-Iran peace negotiations](https://fortune.com/2026/04/14/bitcoin-ethereum-price-today-us-iran-peace-talks/)**
+
+The rally has seen Bitcoin price rise to around $75,000 after falling as low as almost $60,000 in recent months.
+
+Fortune • 20m ago
+
+---
+
+**[Marc Andreesen Just Said That Artificial General Intelligence (AGI) Is Here. Here's What That Could Mean for Ethereum.](https://www.fool.com/investing/2026/04/14/marc-andreesen-just-said-that-artificial-general-i/)**
+
+If Andreesen is right, Ethereum could be in for a wild ride pretty soon.
+
+The Motley Fool • 2h ago
+
+---
+
+**[Bitcoin Hits $75,000 as XRP, Ethereum, and Solana All Surge: Is the Crypto Bull Run Starting?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-hits-75-000-xrp-113610617.html)**
+
+For the first time since mid-March, Bitcoin (CRYPTO: BTC) is back above $75,000. The Bitcoin price had been ranging below $70,000 for more than a month, with every rally getting cut short by the bearish pressure the Middle East war has put on the market. Right now, the whole market is surging—Bitcoin has climbed 5.9%, ... Bitcoin Hits $75,000 as XRP, Ethereum, and Solana All Surge: Is the Crypto Bull Run Starting?
+
+Yahoo Finance • 5h ago
 
 ---
 
@@ -185,41 +217,11 @@ Barron's • 1d ago
 
 ---
 
-**[Marc Andreesen Just Said That Artificial General Intelligence (AGI) Is Here. Here's What That Could Mean for Ethereum.](https://www.fool.com/investing/2026/04/14/marc-andreesen-just-said-that-artificial-general-i/)**
+**[Crypto Hacker Mints $1.1 Billion in Polkadot via Ethereum Bridge, But Can Only Cash Out $237K](https://decrypt.co/364131/crypto-hacker-mints-billion-polkadot-ethereum-bridge-cashes-out-237k)**
 
-If Andreesen is right, Ethereum could be in for a wild ride pretty soon.
+A hacker exploited a Polkadot bridge, minting $1.1 billion worth of DOT tokens before making a tiny fraction of that tally by selling it.
 
-The Motley Fool • 48m ago
-
----
-
-**[CoinDesk 20 performance update: Ethereum (ETH) price rises 5.4%](https://www.coindesk.com/coindesk-indices/2026/04/14/coindesk-20-performance-update-ethereum-eth-price-rises-5-4)**
-
-Aave (AAVE), up 3.6% from Monday, joined Ethereum as a top performer.
-
-CoinDesk • 2h ago
-
----
-
-**[Current price of Ethereum for April 14, 2026](https://fortune.com/article/price-of-ethereum-04-14-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 2h ago
-
----
-
-**[Ethereum leads way as large cryptocurrencies post gains](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-post-gains-f608b9dd-f4607b97363e)**
-
-MarketWatch • 1h ago
-
----
-
-**[A Historic Ethereum Signal Just Fired – Discover What Happens Next](https://www.tradingview.com/news/newsbtc:c70dbd912094b:0-a-historic-ethereum-signal-just-fired-discover-what-happens-next/)**
-
-Ethereum has been consolidating below $2,200 for weeks. The selling pressure is real. The uncertainty is higher. And the participants who hold enough ETH to move markets just crossed back into profit, which, in the history of this asset, has never happened quietly.A CryptoQuant analyst tracking the…
-
-TradingView — Track All Markets • 16h ago
+Decrypt • 1d ago
 
 ---
 
@@ -233,17 +235,7 @@ BloFin - No KYC/No VPN needed [Trade ETH Coin Futures!] https://marzell.org/Blof
 
 📺 Marzell Crypto
 
-👁️ 318 • 👍 23 • 💬 117 • ⏱️ 5:01 • 10h ago
-
----
-
-**[ETHEREUM BROKE OUT! What&#39;s Next?🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=h2K-uk9JfSg)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 261 • 👍 22 • 💬 17 • ⏱️ 4:45 • 6h ago
+👁️ 435 • 👍 26 • 💬 134 • ⏱️ 5:01 • 11h ago
 
 ---
 
@@ -253,7 +245,7 @@ Here is the latest on bitcoin, ethereum and crypto in general! Be aware of whats
 
 📺 Thomas Kralow
 
-👁️ 16K • 👍 2K • 💬 27 • ⏱️ 10:18 • 1d ago
+👁️ 16K • 👍 2K • 💬 29 • ⏱️ 10:18 • 1d ago
 
 ---
 
@@ -263,7 +255,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 5K • 👍 181 • 💬 92 • ⏱️ 38:50 • 20h ago
+👁️ 5K • 👍 190 • 💬 91 • ⏱️ 38:50 • 21h ago
 
 ---
 
@@ -273,7 +265,37 @@ Ethereum is down more than 50% from its all-time high, but the bigger concern ri
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 227 • 💬 28 • ⏱️ 15:54 • 18h ago
+👁️ 5K • 👍 233 • 💬 29 • ⏱️ 15:54 • 19h ago
+
+---
+
+**[ETHEREUM BROKE OUT! What&#39;s Next?🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=h2K-uk9JfSg)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 381 • 👍 25 • 💬 17 • ⏱️ 4:45 • 7h ago
+
+---
+
+**[CRYPTO LIVE TRADING || 14 APRIL  | ‪@ClockTraderlive‬ #bitcoin #ethereum #crypto #btclivetrading](https://www.youtube.com/watch?v=Sr0RfhAnaHo)**
+
+join my social platforms for updates and analysis ✓Instagram: ...
+
+📺 Aryan trader Live
+
+👁️ 5K • 👍 5K • 1h ago
+
+---
+
+**[ETHEREUM ALERT !!!!](https://www.youtube.com/watch?v=TGcjfizAtl0)**
+
+BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome 20% ...
+
+📺 The Moon Show
+
+👁️ 12K • 👍 1K • 💬 74 • ⏱️ 8:32 • 1d ago
 
 ---
 
@@ -287,43 +309,23 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 ---
 
-**[Raoul Pal: &quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=Gys5vX-3hfg)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 30K • 👍 798 • 💬 104 • ⏱️ 19:27 • 2d ago
-
----
-
 **[BITCOIN: Everyone is WRONG About This (important)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=uZnjzuPNTng)**
 
 BITCOIN: Everyone is WRONG About This (important)!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
 
 📺 Crypto World
 
-👁️ 8K • 👍 326 • 💬 148 • ⏱️ 19:32 • 18h ago
+👁️ 9K • 👍 339 • 💬 150 • ⏱️ 19:32 • 19h ago
 
 ---
 
-**[🚀 ETHEREUM (ETH) HOJE 14/04 - ETH RUMO À PROJEÇÃO DO PADRÃO OCOI NO DIÁRIO! #eth #lobocripto](https://www.youtube.com/watch?v=U3Fy7jhIRvE)**
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=0UjB6P8DlLE)**
 
-Registre sua conta na MEXC aqui - https://www.mexc.com/pt-PT/auth/signup?inviteCode=1oVJR ✔️ Seja Membro Apoiador do ...
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
 
-📺 Lobo Cripto Oficial
+📺 Crypto Gyan
 
-👁️ 211 • 👍 52 • 💬 13 • ⏱️ 9:41 • 4h ago
-
----
-
-**[Ethereum Launches War-Proof Browser To Kill Chrome?🌐Freedom Browser INTERVIEW](https://www.youtube.com/watch?v=MkVhdstQvmE)**
-
-Freedom is a minimalist browser for Swarm and IPFS. No centralized gateways. You connect directly to peers and become part of ...
-
-📺 Paul Barron Network
-
-👁️ 49K • 👍 2K • 💬 180 • ⏱️ 18:02 • 1d ago
+👁️ 216 • 👍 36 • ⏱️ 6:09 • 56m ago
 
 ---
 

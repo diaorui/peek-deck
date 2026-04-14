@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-14T15:20:22.429146+00:00'
+updated: '2026-04-14T16:41:28.511524+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
+- cryptocurrency
 - news
 - videos
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 14, 2026 at 15:20 UTC  
+**Last Updated:** April 14, 2026 at 16:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $74,792.85
+### $75,253.75
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +3.6%  
-**7d:** +5.2%  
-**30d:** -0.1%  
-**90d:** -21.8%  
-**1y:** -10.6%  
+**24h:** +4.3%  
+**7d:** +5.9%  
+**30d:** +0.5%  
+**90d:** -21.3%  
+**1y:** -10.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1508.63B
+**Market Cap:** $1504.94B
 Rank #1
 
-**Circulating Supply:** 20,015,718 BTC
+**Circulating Supply:** 20,015,753 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--40.2%
+-40.3%
 
 **All-Time Low:** $67.81
-+111162.4%
++110892.5%
 
 ---
 
@@ -77,17 +77,25 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[[ Removed by Reddit ]](https://www.reddit.com/r/Bitcoin/comments/1sl91li/removed_by_reddit/)**
+**[When The Fed Admitted They Just Print the Money (out of thin air)](https://www.reddit.com/r/Bitcoin/comments/1sl6ve2/when_the_fed_admitted_they_just_print_the_money/)**
 
-[ Removed by Reddit on account of violating the content policy. ]
+https://www.youtube.com/@bitcoinphilosopher
+
+4h ago
+
+---
+
+**[How many people really own 1 BTC (or more)?](https://www.reddit.com/r/Bitcoin/comments/1slbgwr/how_many_people_really_own_1_btc_or_more/)**
+
+I got to thinking, while there is only going to be 21 million BTC how many people can really own 1?
 
 1h ago
 
 ---
 
-**[When The Fed Admitted They Just Print the Money (out of thin air)](https://www.reddit.com/r/Bitcoin/comments/1sl6ve2/when_the_fed_admitted_they_just_print_the_money/)**
+**[[ Removed by Reddit ]](https://www.reddit.com/r/Bitcoin/comments/1sl91li/removed_by_reddit/)**
 
-https://www.youtube.com/@bitcoinphilosopher
+[ Removed by Reddit on account of violating the content policy. ]
 
 3h ago
 
@@ -97,7 +105,15 @@ https://www.youtube.com/@bitcoinphilosopher
 
 It’s easy to think about security later. But your setup today is the one you’ll rely on when it’s worth much more.
 
-1h ago
+2h ago
+
+---
+
+**[Bitcoin is less than 1% of global investable assets](https://www.reddit.com/r/Bitcoin/comments/1sld7oo/bitcoin_is_less_than_1_of_global_investable_assets/)**
+
+$250 trillion sitting in bonds, equities, real estate, and cash worldwide means that the reallocation has barely started.
+
+30m ago
 
 ---
 
@@ -105,7 +121,7 @@ It’s easy to think about security later. But your setup today is the one you�
 
 I can’t find any reasonable explanation of the price rise. Any suggestions?
 
-16h ago
+18h ago
 
 ---
 
@@ -113,13 +129,7 @@ I can’t find any reasonable explanation of the price rise. Any suggestions?
 
 Agree ?😅🤣
 
-8h ago
-
----
-
-**[Sorry bears, go back to sleep.](https://www.reddit.com/r/Bitcoin/comments/1sknd1v/sorry_bears_go_back_to_sleep/)**
-
-18h ago
+9h ago
 
 ---
 
@@ -127,7 +137,13 @@ Agree ?😅🤣
 
 how does it feel watching institutions and smart retail buying it up when the price is low, while you watch the price rise and wait for it to go lower "soon"? Just curious, at what point will the special rest accept that the train is leavig the station?
 
-6h ago
+8h ago
+
+---
+
+**[Sorry bears, go back to sleep.](https://www.reddit.com/r/Bitcoin/comments/1sknd1v/sorry_bears_go_back_to_sleep/)**
+
+20h ago
 
 ---
 
@@ -137,39 +153,15 @@ how does it feel watching institutions and smart retail buying it up when the pr
 
 ---
 
-**[Russell Napier: We Are Headed Towards a System of National Capitalism](https://www.reddit.com/r/Bitcoin/comments/1sl0et5/russell_napier_we_are_headed_towards_a_system_of/)**
-
-Market strategist and historian Russell Napier outlines a future in which governments mandate where investors should deploy their capital. The global monetary system that has existed since 1994 is being radically restructured.
-
-🔗 [The Market](https://themarket.ch/interview/russell-napier-we-are-headed-towards-a-system-of-national-capitalism-ld.12718?srsltid=AfmBOormhwOxGBtngiTtVGhVBzwkwWBLqtnn__bbjWqx8t4LvttzaEfB) • 9h ago
-
----
-
-**[Over a trillion dollars in interest annually. (The cost to service the US debt.)](https://www.reddit.com/r/Bitcoin/comments/1skreir/over_a_trillion_dollars_in_interest_annually_the/)**
-
-I am bailing on this disaster. I am putting it all into bitcoin. Not to try and make money but to literally save my life.
-
-16h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
-
-**[Bitcoin Shorts Get Rekt as BTC Jumps Above $75K, Hitting 2-Month Price High](https://decrypt.co/364294/bitcoin-shorts-rekt-btc-jumps-above-75k-2-month-price-high)**
-
-Bitcoin just hit its highest price in over two months, with Ethereum and other top coins rising faster as crypto bears get liquidated.
-
-Decrypt • 46m ago
-
----
 
 **[Lib Dems call for inquiry into Farage Bitcoin deal](https://www.bbc.com/news/articles/cd9vgw2g3w2o)**
 
 The Reform UK leader is a shareholder in British bitcoin company Stack and appeared in a promotional video.
 
-BBC • 18h ago
+BBC • 20h ago
 
 ---
 
@@ -177,59 +169,65 @@ BBC • 18h ago
 
 Tether has launched tether.wallet, a self-custodial crypto wallet supporting USDT, bitcoin, and tokenized gold.
 
-The Block • 2h ago
+The Block • 4h ago
 
 ---
 
-**[Bitcoin jumps to $74,000, but Wall Street is 'cautious' crypto bear market isn't over](https://finance.yahoo.com/news/bitcoin-jumps-to-74000-but-wall-street-is-cautious-crypto-bear-market-isnt-over-151420711.html)**
+**[Bitcoin Climbs to Four-Week High on Hopes of US-Iran Peace Talks](https://www.bloomberg.com/news/articles/2026-04-14/bitcoin-climbs-to-four-week-high-on-hopes-of-us-iran-peace-talks)**
 
-Bitcoin bounced above $74,000 on Tuesday, but Wall Street warns it's a bear market rally, and the token could go lower before it goes higher.
-
-Yahoo Finance • 6m ago
+Bloomberg.com • 5h ago
 
 ---
 
-**[Bitcoin price news: BTC completes rebound from Feb. 5 crash](https://www.coindesk.com/markets/2026/04/14/bitcoin-climbs-to-highest-level-since-feb-5-crash-that-sent-price-plunging-to-usd60-000)**
+**[Bitcoin, Ethereum approach two-month highs as markets grow optimistic over U.S.-Iran peace negotiations](https://fortune.com/2026/04/14/bitcoin-ethereum-price-today-us-iran-peace-talks/)**
 
-Optimism over developments in the Middle East sparked a sharp decline in oil prices and rallies across risk markets.
+The rally has seen Bitcoin price rise to around $75,000 after falling as low as almost $60,000 in recent months.
 
-CoinDesk • 31m ago
-
----
-
-**[Jordy Visser: Bitcoin will be significantly higher next time I see you](https://www.cnbc.com/video/2026/04/14/jordy-visser-bitcoin-will-be-significantly-higher-next-time-i-see-you.html)**
-
-Jordy Visser, Head of Macro Research at 22V Research, says markets are forward-looking, driven by AI growth and resilient earnings, while inflation risks persist and Bitcoin benefits from negative real yields.
-
-CNBC • 4h ago
+Fortune • 20m ago
 
 ---
 
-**[Bitcoin Is Gaining Momentum. How to Play the Rebound.](https://www.barrons.com/articles/bitcoin-is-gaining-momentum-how-to-play-the-rebound-36bbfdbd)**
+**[Bitcoin Hits $75,000 as XRP, Ethereum, and Solana All Surge: Is the Crypto Bull Run Starting?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-hits-75-000-xrp-113610617.html)**
 
-Barron's • 21h ago
+For the first time since mid-March, Bitcoin (CRYPTO: BTC) is back above $75,000. The Bitcoin price had been ranging below $70,000 for more than a month, with every rally getting cut short by the bearish pressure the Middle East war has put on the market. Right now, the whole market is surging—Bitcoin has climbed 5.9%, ... Bitcoin Hits $75,000 as XRP, Ethereum, and Solana All Surge: Is the Crypto Bull Run Starting?
 
----
-
-**['Dumped $1,800 In 20 Minutes'—Bitcoin Braced For Crash](https://www.forbes.com/sites/digital-assets/2026/04/13/dumped-1800-in-20-minutes-bitcoin-braced-for-crash/)**
-
-Forbes • 18h ago
+Yahoo Finance • 5h ago
 
 ---
 
-**[Dollar share falls to 45%—are Bitcoin, gold the silent reserve rivals?](https://seekingalpha.com/news/4574515-dollar-share-falls-to-45are-bitcoin-gold-the-silent-reserve-rivals)**
+**[Goldman Sachs files for bitcoin income ETF in crypto push](https://www.coindesk.com/business/2026/04/14/goldman-sachs-files-for-bitcoin-income-etf-in-crypto-push)**
 
-Dollar dominance is fading as central banks diversify into gold and Bitcoin.
+The bank is moving deeper into crypto with a bitcoin ETF that generates income by selling options on bitcoin-linked funds, following BlackRock’s push into similar yield-focused products.
 
-Seeking Alpha • 29m ago
+CoinDesk • 1h ago
 
 ---
 
-**[Could Buying Bitcoin Today Still Set You Up for Life?](https://www.fool.com/investing/2026/04/12/could-buying-bitcoin-today-still-set-you-up-for-li/)**
+**[Ether outpaces bitcoin as ETF flows split and Ethereum activity jumps 41% on-week](https://www.coindesk.com/markets/2026/04/14/ether-outpaces-bitcoin-as-etf-flows-split-and-ethereum-activity-jumps-41-on-week)**
 
-After a tremendous 16,820% gain in the past 10 years, it's reasonable to believe that the leading cryptocurrency's performance won't be nearly as impressive in the future.
+Ether is outperforming bitcoin as ETF flows, spot prices and a 41% jump in Ethereum transactions move in the same direction for the first time in months.
 
-The Motley Fool • 1d ago
+CoinDesk • 12h ago
+
+---
+
+**[Bitcoin Price Hits $74,000 as Spot ETFs See $291 Million Flight](https://www.tipranks.com/news/bitcoin-price-hits-74000-as-spot-etfs-see-291-million-flight)**
+
+TipRanks • 2h ago
+
+---
+
+**[Why Coinbase Stock Can’t Escape Bitcoin’s Orbit](https://www.barrons.com/articles/coinbase-stock-price-bitcoin-link-5f5c8d24)**
+
+Barron's • 1h ago
+
+---
+
+**[Strategy Funds Entire $1 Billion Bitcoin Buy With Hybrid Securities](https://www.bloomberg.com/news/articles/2026-04-13/strategy-funds-entire-1-billion-bitcoin-buy-with-hybrid-securities)**
+
+For the first time since launching its high-yield securities in July, Michael Saylor’s Strategy Inc. funded its latest $1 billion weekly Bitcoin purchase entirely through the sale of its “Stretch” perpetual preferred shares.
+
+Bloomberg.com • 1d ago
 
 ---
 
@@ -271,7 +269,7 @@ Neha Narula
 
 Arkham data shows 8,285 BTC in Coinbase Prime custody as the company swings from $8 billion profit to nearly $5 billion loss ahead of its IPO push.
 
-⬆️ 27 • 💬 9 • 1d ago • [coindesk.com](https://www.coindesk.com/markets/2026/04/11/musk-s-spacex-holds-usd603-million-in-bitcoin-despite-usd5-billion-loss-stemming-from-xai)
+⬆️ 27 • 💬 9 • 2d ago • [coindesk.com](https://www.coindesk.com/markets/2026/04/11/musk-s-spacex-holds-usd603-million-in-bitcoin-despite-usd5-billion-loss-stemming-from-xai)
 
 ---
 
@@ -315,23 +313,43 @@ Imagine one person holding the keys to Bitcoin’s entire future. That was Satos
 
 ## YouTube Videos: "bitcoin"
 
-**[🚨Bitcoin Is About to Shock Everyone 🚨 $100K Move Coming?](https://www.youtube.com/watch?v=rErRcM9olec)**
-
-Bitcoin #Crypto #Finance ➡️Trade with us on Bitunix and claim your exclusive bonuses today ...
-
-📺 DataDash
-
-👁️ 7K • 👍 327 • 💬 68 • ⏱️ 22:13 • 23h ago
-
----
-
 **[Crypto Holders - You Have Waited 5 Years For The Next 5 Months](https://www.youtube.com/watch?v=zlK-i6eLDNA)**
 
 Subscribe to Jordi: https://www.youtube.com/@JordiVisserLabs BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: ...
 
 📺 Altcoin Daily
 
-👁️ 24K • 👍 2K • 💬 89 • ⏱️ 10:18 • 14h ago
+👁️ 28K • 👍 2K • 💬 99 • ⏱️ 10:18 • 15h ago
+
+---
+
+**[🚨Bitcoin Is About to Shock Everyone 🚨 $100K Move Coming?](https://www.youtube.com/watch?v=rErRcM9olec)**
+
+Bitcoin #Crypto #Finance ➡️Trade with us on Bitunix and claim your exclusive bonuses today ...
+
+📺 DataDash
+
+👁️ 8K • 👍 338 • 💬 71 • ⏱️ 22:13 • 1d ago
+
+---
+
+**[Bitcoin Is One Move Away From $78K [24H Countdown]](https://www.youtube.com/watch?v=WscqjPmmpO4)**
+
+Ran breaks down why markets are suddenly behaving like geopolitical risk is cooling off, not heating up. Equities have bounced ...
+
+📺 Crypto Banter
+
+👁️ 6K • 👍 591 • 💬 18 • ⏱️ 24:52 • 2h ago
+
+---
+
+**[Bitcoin Just Broke Out: Short Squeeze Could Follow](https://www.youtube.com/watch?v=oqXZhss4roY)**
+
+Bitcoin is breaking out right now, and momentum is starting to build fast. In this session, Sheldon breaks down why short squeeze ...
+
+📺 Crypto Banter
+
+👁️ 5K • 👍 417 • 💬 13 • ⏱️ 15:06 • 6h ago
 
 ---
 
@@ -341,7 +359,17 @@ Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FR
 
 📺 CryptosRUs
 
-👁️ 14K • 👍 849 • 💬 200 • ⏱️ 8:20 • 14h ago
+👁️ 15K • 👍 861 • 💬 275 • ⏱️ 8:20 • 16h ago
+
+---
+
+**[SAYLOR&#39;S ENDGAME IS HERE - STRATEGY TO 2 MILLION BITCOIN BY 2027](https://www.youtube.com/watch?v=3BgmsBMlgKA)**
+
+Follow me on X for my best content: http://www.X.com/AdamBLiv Transform Dormant Home Equity into Bitcoin with Horizon: ...
+
+📺 Adam Livingston
+
+👁️ 7K • 👍 766 • 💬 125 • ⏱️ 19:40 • 20h ago
 
 ---
 
@@ -351,27 +379,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investa
 
 📺 InvestAnswers
 
-👁️ 34K • 👍 3K • 💬 137 • ⏱️ 23:49 • 17h ago
-
----
-
-**[&quot;Bitcoin Will Bottom When This Happens&quot; | Ben Cowen](https://www.youtube.com/watch?v=3KpN_F3VyRI)**
-
-Bitcoin #Crypto #Finance Ben Cowen joins me to break down why Bitcoin still looks like it's following the same midterm-year ...
-
-📺 The Wolf Of All Streets
-
-👁️ 49K • 👍 2K • 💬 622 • ⏱️ 30:53 • 2d ago
-
----
-
-**[Emergency! Bitcoin Weekly Sell Signal Flashing While Price Eyes $77K](https://www.youtube.com/watch?v=sUhLOjnjC0w)**
-
-Bitcoin approaches $77K as The Trading Parrot reveals a rare weekly Cerberus "warning sell" signal flashing for the first time this ...
-
-📺 The Trading Parrot
-
-👁️ 1K • 👍 238 • 💬 55 • ⏱️ 38:44 • 3h ago
+👁️ 36K • 👍 3K • 💬 138 • ⏱️ 23:49 • 18h ago
 
 ---
 
@@ -381,35 +389,27 @@ Is Bitcoin headed for long-term dominance, or a massive collapse? In this video,
 
 📺 Benjamin Cowen
 
-👁️ 85K • 👍 5K • 💬 320 • ⏱️ 33:36 • 1d ago
+👁️ 88K • 👍 5K • 💬 338 • ⏱️ 33:36 • 1d ago
 
 ---
 
-**[Bitcoin Under MAJOR Pressure As Trump Tensions Peak! What Happens Next?](https://www.youtube.com/watch?v=CLdQDf8ysE4)**
+**[LIVE: Michael Saylor on Bitcoin Bull Run &amp; MSTR Stock – BTC Price Prediction](https://www.youtube.com/watch?v=epdMwlpP0jQ)**
 
-bitcoin #oilcrisis #finance Bitcoin keeps running into a wall of selling above $70K — roughly $20M/hour in profit-taking — and now ...
+BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Сonference. A visionary Bitcoin ...
 
-📺 The Wolf Of All Streets
+📺 Logan Fullmer
 
-👁️ 22K • 👍 1K • 💬 381 • ⏱️ 1:04:57 • 1d ago
-
----
-
-**[What Bitcoin Usually Does](https://www.youtube.com/watch?v=D8AaIgGkrW8)**
-
-Into The Cryptoverse Premium: https://intothecryptoverse.com For inquiries and to subscribe to the monthy newsletter (free): ...
-
-📺 Benjamin Cowen
-
-👁️ 8K • 👍 219 • 💬 7 • ⏱️ 0:46 • 17h ago
+👁️ 2K • 👍 1K • 27m ago
 
 ---
 
-**[WOW $1.8 TRILLION CRYPTO PUMP INCOMING?! #crypto #xrp #ai #bitcoin](https://www.youtube.com/watch?v=ulOepaMhaps)**
+**[BITCOIN: We&#39;re Being PLAYED Right Now! (here&#39;s proof) - BTC Price Prediction Today](https://www.youtube.com/watch?v=7bipa606Osk)**
 
-📺 CryptoWendyO
+Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
-👁️ 6K • 👍 475 • 💬 34 • ⏱️ 1:58 • 14h ago
+📺 BitcoinHyper
+
+👁️ 6K • 👍 606 • 💬 38 • ⏱️ 14:30 • 6h ago
 
 ---
 
