@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-14T13:59:06.775436+00:00'
+updated: '2026-04-14T15:20:22.435176+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - social
 - news
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 14, 2026 at 13:59 UTC  
+**Last Updated:** April 14, 2026 at 15:20 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,392.03
+### $2,339.41
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +7.0%  
-**7d:** +9.2%  
-**30d:** +1.7%  
-**90d:** -27.9%  
-**1y:** +50.6%  
+**24h:** +5.2%  
+**7d:** +7.0%  
+**30d:** -0.4%  
+**90d:** -29.4%  
+**1y:** +47.5%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
+10h ago
 
 ---
 
@@ -81,7 +81,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 Coinbase AgentKit Prompt Injection: Wallet Drain, Infinite Approvals, and Agent-Level RCE Reported 13 days after Coinbase launched Agentic Wallets. Validated by Coinbase. Demonstrated on-chain. Published: April 11, 2026 CVE status: Pending assignment
 Coinbase AgentKit is developer infrastructure for building AI agents with direct access to wallets, token operations, DeFi actions, and related execution surfaces. This disclosure covers a prompt injection vulnerability in AgentKit that allowed attacker-controlled input to trigger sensitive tool execution without a built-in human confirmation step.
 
-🔗 [x402warden](https://x402warden.com/research/coinbase-agentkit-prompt-injection/) • 16h ago
+🔗 [x402warden](https://x402warden.com/research/coinbase-agentkit-prompt-injection/) • 17h ago
 
 ---
 
@@ -167,15 +167,15 @@ The Block • 1d ago
 
 **[Bitmine Hits 4% of Ethereum Supply — Will ‘Alchemy of 5%’ Aid Tom Lee’s Bullish Price Call?](https://www.ccn.com/news/crypto/bitmine-4-ethereum-supply-alchemy-5-tom-lees-bullish-price-call/)**
 
-CCN.com • 4h ago
+CCN.com • 6h ago
 
 ---
 
-**[Attacker mints $1 billion Polkadot tokens on Ethereum, ends up stealing just $250,000](https://www.coindesk.com/tech/2026/04/13/attacker-mints-usd1-billion-polkadot-tokens-on-ethereum-ends-up-stealing-just-usd250-000)**
+**[Crypto Hacker Mints $1.1 Billion in Polkadot via Ethereum Bridge, But Can Only Cash Out $237K](https://decrypt.co/364131/crypto-hacker-mints-billion-polkadot-ethereum-bridge-cashes-out-237k)**
 
-A forged cross-chain message bypassed state proof validation on the bridge contract, granting admin control over the bridged DOT token and allowing the attacker to mint and dump the entire supply for $237,000.
+A hacker exploited a Polkadot bridge, minting $1.1 billion worth of DOT tokens before making a tiny fraction of that tally by selling it.
 
-CoinDesk • 1d ago
+Decrypt • 23h ago
 
 ---
 
@@ -185,27 +185,19 @@ Barron's • 1d ago
 
 ---
 
+**[Marc Andreesen Just Said That Artificial General Intelligence (AGI) Is Here. Here's What That Could Mean for Ethereum.](https://www.fool.com/investing/2026/04/14/marc-andreesen-just-said-that-artificial-general-i/)**
+
+If Andreesen is right, Ethereum could be in for a wild ride pretty soon.
+
+The Motley Fool • 48m ago
+
+---
+
 **[CoinDesk 20 performance update: Ethereum (ETH) price rises 5.4%](https://www.coindesk.com/coindesk-indices/2026/04/14/coindesk-20-performance-update-ethereum-eth-price-rises-5-4)**
 
 Aave (AAVE), up 3.6% from Monday, joined Ethereum as a top performer.
 
-CoinDesk • 39m ago
-
----
-
-**[This Trader Stands To Get Liquidated On Their 25x Leveraged Ethereum Short With Only A $9 Price Move](https://finance.yahoo.com/markets/crypto/articles/trader-stands-liquidated-25x-leveraged-113124733.html)**
-
-A trader opened a high-risk short bet on Ethereum late Sunday, with liquidation looming just a hair’s breadth away. Daring Bet Or Something More? The trader opened a 25x leveraged short position on ETH on the decentralized perpetual trading platform...
-
-Yahoo Finance • 2h ago
-
----
-
-**[Which Cryptocurrency Should You Be Hoarding Right Now, Bitcoin or Ethereum?](https://www.fool.com/investing/2026/04/13/which-cryptocurrency-should-you-be-hoarding-right/)**
-
-If crypto treasury companies are loading up on Bitcoin and Ethereum, should you be too?
-
-The Motley Fool • 1d ago
+CoinDesk • 2h ago
 
 ---
 
@@ -213,7 +205,13 @@ The Motley Fool • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 1h ago
+Fortune • 2h ago
+
+---
+
+**[Ethereum leads way as large cryptocurrencies post gains](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-post-gains-f608b9dd-f4607b97363e)**
+
+MarketWatch • 1h ago
 
 ---
 
@@ -221,7 +219,7 @@ Fortune • 1h ago
 
 Ethereum has been consolidating below $2,200 for weeks. The selling pressure is real. The uncertainty is higher. And the participants who hold enough ETH to move markets just crossed back into profit, which, in the history of this asset, has never happened quietly.A CryptoQuant analyst tracking the…
 
-TradingView — Track All Markets • 14h ago
+TradingView — Track All Markets • 16h ago
 
 ---
 
@@ -235,7 +233,7 @@ BloFin - No KYC/No VPN needed [Trade ETH Coin Futures!] https://marzell.org/Blof
 
 📺 Marzell Crypto
 
-👁️ 318 • 👍 23 • 💬 117 • ⏱️ 5:01 • 8h ago
+👁️ 318 • 👍 23 • 💬 117 • ⏱️ 5:01 • 10h ago
 
 ---
 
@@ -245,7 +243,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 261 • 👍 22 • 💬 17 • ⏱️ 4:45 • 4h ago
+👁️ 261 • 👍 22 • 💬 17 • ⏱️ 4:45 • 6h ago
 
 ---
 
@@ -265,7 +263,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 5K • 👍 181 • 💬 92 • ⏱️ 38:50 • 19h ago
+👁️ 5K • 👍 181 • 💬 92 • ⏱️ 38:50 • 20h ago
 
 ---
 
@@ -275,7 +273,7 @@ Ethereum is down more than 50% from its all-time high, but the bigger concern ri
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 227 • 💬 28 • ⏱️ 15:54 • 16h ago
+👁️ 4K • 👍 227 • 💬 28 • ⏱️ 15:54 • 18h ago
 
 ---
 
@@ -305,7 +303,7 @@ BITCOIN: Everyone is WRONG About This (important)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 8K • 👍 326 • 💬 148 • ⏱️ 19:32 • 16h ago
+👁️ 8K • 👍 326 • 💬 148 • ⏱️ 19:32 • 18h ago
 
 ---
 
@@ -315,7 +313,7 @@ Registre sua conta na MEXC aqui - https://www.mexc.com/pt-PT/auth/signup?inviteC
 
 📺 Lobo Cripto Oficial
 
-👁️ 211 • 👍 52 • 💬 13 • ⏱️ 9:41 • 2h ago
+👁️ 211 • 👍 52 • 💬 13 • ⏱️ 9:41 • 4h ago
 
 ---
 

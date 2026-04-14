@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-14T13:59:06.769210+00:00'
+updated: '2026-04-14T15:20:22.429146+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - social
 - news
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 14, 2026 at 13:59 UTC  
+**Last Updated:** April 14, 2026 at 15:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $75,466.73
+### $74,792.85
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +4.2%  
-**7d:** +6.2%  
-**30d:** +0.8%  
-**90d:** -21.0%  
-**1y:** -9.8%  
+**24h:** +3.6%  
+**7d:** +5.2%  
+**30d:** -0.1%  
+**90d:** -21.8%  
+**1y:** -10.6%  
 
 ---
 
@@ -77,19 +77,27 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[When The Fed Admitted They Just Print the Money (out of thin air)](https://www.reddit.com/r/Bitcoin/comments/1sl6ve2/when_the_fed_admitted_they_just_print_the_money/)**
+**[[ Removed by Reddit ]](https://www.reddit.com/r/Bitcoin/comments/1sl91li/removed_by_reddit/)**
 
-https://www.youtube.com/@bitcoinphilosopher
+[ Removed by Reddit on account of violating the content policy. ]
 
 1h ago
 
 ---
 
-**[$75K & more BTC 🚀🚀💰](https://www.reddit.com/r/Bitcoin/comments/1sl91li/75k_more_btc/)**
+**[When The Fed Admitted They Just Print the Money (out of thin air)](https://www.reddit.com/r/Bitcoin/comments/1sl6ve2/when_the_fed_admitted_they_just_print_the_money/)**
 
-When it hits $75K keep piling on people!!! only you can get it up, baby 🍆💦💦💦❤️‍🔥
+https://www.youtube.com/@bitcoinphilosopher
 
-18m ago
+3h ago
+
+---
+
+**[Bitcoin’s up… good reminder to secure it like it’s 10x](https://www.reddit.com/r/Bitcoin/comments/1sla00o/bitcoins_up_good_reminder_to_secure_it_like_its/)**
+
+It’s easy to think about security later. But your setup today is the one you’ll rely on when it’s worth much more.
+
+1h ago
 
 ---
 
@@ -97,7 +105,7 @@ When it hits $75K keep piling on people!!! only you can get it up, baby 🍆💦
 
 I can’t find any reasonable explanation of the price rise. Any suggestions?
 
-15h ago
+16h ago
 
 ---
 
@@ -105,19 +113,13 @@ I can’t find any reasonable explanation of the price rise. Any suggestions?
 
 Agree ?😅🤣
 
-7h ago
+8h ago
 
 ---
 
 **[Sorry bears, go back to sleep.](https://www.reddit.com/r/Bitcoin/comments/1sknd1v/sorry_bears_go_back_to_sleep/)**
 
-17h ago
-
----
-
-**[Bro and his Bitcoin story](https://www.reddit.com/r/Bitcoin/comments/1skdb4b/bro_and_his_bitcoin_story/)**
-
-23h ago
+18h ago
 
 ---
 
@@ -125,7 +127,13 @@ Agree ?😅🤣
 
 how does it feel watching institutions and smart retail buying it up when the price is low, while you watch the price rise and wait for it to go lower "soon"? Just curious, at what point will the special rest accept that the train is leavig the station?
 
-5h ago
+6h ago
+
+---
+
+**[Bro and his Bitcoin story](https://www.reddit.com/r/Bitcoin/comments/1skdb4b/bro_and_his_bitcoin_story/)**
+
+1d ago
 
 ---
 
@@ -133,7 +141,7 @@ how does it feel watching institutions and smart retail buying it up when the pr
 
 Market strategist and historian Russell Napier outlines a future in which governments mandate where investors should deploy their capital. The global monetary system that has existed since 1994 is being radically restructured.
 
-🔗 [The Market](https://themarket.ch/interview/russell-napier-we-are-headed-towards-a-system-of-national-capitalism-ld.12718?srsltid=AfmBOormhwOxGBtngiTtVGhVBzwkwWBLqtnn__bbjWqx8t4LvttzaEfB) • 7h ago
+🔗 [The Market](https://themarket.ch/interview/russell-napier-we-are-headed-towards-a-system-of-national-capitalism-ld.12718?srsltid=AfmBOormhwOxGBtngiTtVGhVBzwkwWBLqtnn__bbjWqx8t4LvttzaEfB) • 9h ago
 
 ---
 
@@ -141,13 +149,7 @@ Market strategist and historian Russell Napier outlines a future in which govern
 
 I am bailing on this disaster. I am putting it all into bitcoin. Not to try and make money but to literally save my life.
 
-14h ago
-
----
-
-**[Andreas Antonopoulos used to have brilliant speeches.](https://www.reddit.com/r/Bitcoin/comments/1skc1n6/andreas_antonopoulos_used_to_have_brilliant/)**
-
-23h ago
+16h ago
 
 ---
 
@@ -155,19 +157,43 @@ I am bailing on this disaster. I am putting it all into bitcoin. Not to try and 
 
 ## Google News: "bitcoin"
 
+**[Bitcoin Shorts Get Rekt as BTC Jumps Above $75K, Hitting 2-Month Price High](https://decrypt.co/364294/bitcoin-shorts-rekt-btc-jumps-above-75k-2-month-price-high)**
+
+Bitcoin just hit its highest price in over two months, with Ethereum and other top coins rising faster as crypto bears get liquidated.
+
+Decrypt • 46m ago
+
+---
+
 **[Lib Dems call for inquiry into Farage Bitcoin deal](https://www.bbc.com/news/articles/cd9vgw2g3w2o)**
 
 The Reform UK leader is a shareholder in British bitcoin company Stack and appeared in a promotional video.
 
-BBC • 17h ago
+BBC • 18h ago
 
 ---
 
-**[Crypto funds pull in $1.1 billion as bitcoin products lead strongest inflow week since January: CoinShares](https://www.theblock.co/post/397191/crypto-funds-pull-in-1-1-billion-as-bitcoin-products-lead-strongest-inflow-week-since-january-coinshares)**
+**[Tether launches self-custodial wallet supporting USDT, bitcoin and tokenized gold](https://www.theblock.co/post/397358/tether-launches-self-custodial-wallet-supporting-usdt-bitcoin-and-tokenized-gold)**
 
-Crypto funds brought in $1.1 billion last week, their strongest inflow since January, as inflation and geopolitical tensions eased.
+Tether has launched tether.wallet, a self-custodial crypto wallet supporting USDT, bitcoin, and tokenized gold.
 
-The Block • 1d ago
+The Block • 2h ago
+
+---
+
+**[Bitcoin jumps to $74,000, but Wall Street is 'cautious' crypto bear market isn't over](https://finance.yahoo.com/news/bitcoin-jumps-to-74000-but-wall-street-is-cautious-crypto-bear-market-isnt-over-151420711.html)**
+
+Bitcoin bounced above $74,000 on Tuesday, but Wall Street warns it's a bear market rally, and the token could go lower before it goes higher.
+
+Yahoo Finance • 6m ago
+
+---
+
+**[Bitcoin price news: BTC completes rebound from Feb. 5 crash](https://www.coindesk.com/markets/2026/04/14/bitcoin-climbs-to-highest-level-since-feb-5-crash-that-sent-price-plunging-to-usd60-000)**
+
+Optimism over developments in the Middle East sparked a sharp decline in oil prices and rallies across risk markets.
+
+CoinDesk • 31m ago
 
 ---
 
@@ -175,57 +201,35 @@ The Block • 1d ago
 
 Jordy Visser, Head of Macro Research at 22V Research, says markets are forward-looking, driven by AI growth and resilient earnings, while inflation risks persist and Bitcoin benefits from negative real yields.
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
-**[Robinhood and Strategy Stocks Jump. Why Bitcoin May Finally Be Back.](https://www.barrons.com/articles/robinhood-stock-strategy-bitcoin-xrp-cryptos-7ad89476)**
+**[Bitcoin Is Gaining Momentum. How to Play the Rebound.](https://www.barrons.com/articles/bitcoin-is-gaining-momentum-how-to-play-the-rebound-36bbfdbd)**
 
-Barron's • 1h ago
-
----
-
-**[Bitcoin tests $75,000 ‘structural breakout’ level with $85,000 upside in view](https://www.coindesk.com/markets/2026/04/14/bitcoin-hits-usd75-000-for-first-time-since-early-february-but-will-it-hold-and-what-it-means-if-it-does)**
-
-Sustained move above key level could trigger fresh inflows, while failure may test $65K support.
-
-CoinDesk • 1h ago
-
----
-
-**[Bitcoin Climbs to Four-Week High on Hopes of US-Iran Peace Talks](https://www.bloomberg.com/news/articles/2026-04-14/bitcoin-climbs-to-four-week-high-on-hopes-of-us-iran-peace-talks)**
-
-Bloomberg.com • 2h ago
-
----
-
-**[How The Iran War Is Repricing Bitcoin](https://bitcoinmagazine.com/bitcoin-for-corporations/iran-war-reprice-bt)**
-
-The Iran War is bringing trustless payments back to the forefront. The market is reacting.
-
-Bitcoin Magazine • 1d ago
-
----
-
-**[Bitcoin and ethereum price today, Tuesday, April 14, 2026: Prices rebound despite U.S. blockade in the Middle East](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-tuesday-april-14-2026-prices-rebound-despite-us-blockade-in-the-middle-east-112122040.html)**
-
-​​Bitcoin (BTC-USD) opened at $74,442.23 and ethereum (ETH-USD) opened at $2,369.90. Bitcoin was up 5.2% and ethereum was up 8.1% from Monday’s open.
-
-Yahoo Finance • 2h ago
+Barron's • 21h ago
 
 ---
 
 **['Dumped $1,800 In 20 Minutes'—Bitcoin Braced For Crash](https://www.forbes.com/sites/digital-assets/2026/04/13/dumped-1800-in-20-minutes-bitcoin-braced-for-crash/)**
 
-Forbes • 17h ago
+Forbes • 18h ago
 
 ---
 
-**[Scaramucci Cautions Against Bitcoin Anxiety: 'The Asset Didn't Change. The Price Did'](https://finance.yahoo.com/markets/crypto/articles/scaramucci-cautions-against-bitcoin-anxiety-220105929.html)**
+**[Dollar share falls to 45%—are Bitcoin, gold the silent reserve rivals?](https://seekingalpha.com/news/4574515-dollar-share-falls-to-45are-bitcoin-gold-the-silent-reserve-rivals)**
 
-On Saturday, Anthony Scaramucci used a post on X to describe the whiplash of holding Bitcoin through a run-up to $126,000 and a drop to $72,000, arguing the coin itself is unchanged even as emotions swing with the quote. The...
+Dollar dominance is fading as central banks diversify into gold and Bitcoin.
 
-Yahoo Finance • 15h ago
+Seeking Alpha • 29m ago
+
+---
+
+**[Could Buying Bitcoin Today Still Set You Up for Life?](https://www.fool.com/investing/2026/04/12/could-buying-bitcoin-today-still-set-you-up-for-li/)**
+
+After a tremendous 16,820% gain in the past 10 years, it's reasonable to believe that the leading cryptocurrency's performance won't be nearly as impressive in the future.
+
+The Motley Fool • 1d ago
 
 ---
 
@@ -243,7 +247,7 @@ Yahoo Finance • 15h ago
 
 The average production cost was sitting at $88,000 per bitcoin in mid-March, according to Checkonchain's difficulty regression model.
 
-⬆️ 240 • 💬 226 • 3d ago • [coindesk.com](https://www.coindesk.com/markets/2026/03/22/bitcoin-miners-are-losing-usd19-000-on-every-btc-produced-as-difficulty-drops-7-8)
+⬆️ 241 • 💬 226 • 3d ago • [coindesk.com](https://www.coindesk.com/markets/2026/03/22/bitcoin-miners-are-losing-usd19-000-on-every-btc-produced-as-difficulty-drops-7-8)
 
 ---
 
@@ -251,7 +255,7 @@ The average production cost was sitting at $88,000 per bitcoin in mid-March, acc
 
 Country’s oil exporters’ union says toll to be paid in cryptocurrency and vessels monitored for weapons
 
-⬆️ 174 • 💬 277 • 5d ago • [ft.com](https://www.ft.com/content/02aefac4-ea62-48db-9326-c0da373b11b8)
+⬆️ 174 • 💬 277 • 6d ago • [ft.com](https://www.ft.com/content/02aefac4-ea62-48db-9326-c0da373b11b8)
 
 ---
 
@@ -317,7 +321,7 @@ Bitcoin #Crypto #Finance ➡️Trade with us on Bitunix and claim your exclusive
 
 📺 DataDash
 
-👁️ 7K • 👍 327 • 💬 68 • ⏱️ 22:13 • 21h ago
+👁️ 7K • 👍 327 • 💬 68 • ⏱️ 22:13 • 23h ago
 
 ---
 
@@ -327,7 +331,7 @@ Subscribe to Jordi: https://www.youtube.com/@JordiVisserLabs BTC Conference 2026
 
 📺 Altcoin Daily
 
-👁️ 24K • 👍 2K • 💬 89 • ⏱️ 10:18 • 13h ago
+👁️ 24K • 👍 2K • 💬 89 • ⏱️ 10:18 • 14h ago
 
 ---
 
@@ -337,7 +341,7 @@ Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FR
 
 📺 CryptosRUs
 
-👁️ 14K • 👍 849 • 💬 200 • ⏱️ 8:20 • 13h ago
+👁️ 14K • 👍 849 • 💬 200 • ⏱️ 8:20 • 14h ago
 
 ---
 
@@ -347,7 +351,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investa
 
 📺 InvestAnswers
 
-👁️ 34K • 👍 3K • 💬 137 • ⏱️ 23:49 • 16h ago
+👁️ 34K • 👍 3K • 💬 137 • ⏱️ 23:49 • 17h ago
 
 ---
 
@@ -367,7 +371,7 @@ Bitcoin approaches $77K as The Trading Parrot reveals a rare weekly Cerberus "wa
 
 📺 The Trading Parrot
 
-👁️ 1K • 👍 238 • 💬 55 • ⏱️ 38:44 • 2h ago
+👁️ 1K • 👍 238 • 💬 55 • ⏱️ 38:44 • 3h ago
 
 ---
 
@@ -387,7 +391,7 @@ bitcoin #oilcrisis #finance Bitcoin keeps running into a wall of selling above $
 
 📺 The Wolf Of All Streets
 
-👁️ 22K • 👍 1K • 💬 381 • ⏱️ 1:04:57 • 23h ago
+👁️ 22K • 👍 1K • 💬 381 • ⏱️ 1:04:57 • 1d ago
 
 ---
 
@@ -397,7 +401,7 @@ Into The Cryptoverse Premium: https://intothecryptoverse.com For inquiries and t
 
 📺 Benjamin Cowen
 
-👁️ 8K • 👍 219 • 💬 7 • ⏱️ 0:46 • 16h ago
+👁️ 8K • 👍 219 • 💬 7 • ⏱️ 0:46 • 17h ago
 
 ---
 
@@ -405,7 +409,7 @@ Into The Cryptoverse Premium: https://intothecryptoverse.com For inquiries and t
 
 📺 CryptoWendyO
 
-👁️ 6K • 👍 475 • 💬 34 • ⏱️ 1:58 • 12h ago
+👁️ 6K • 👍 475 • 💬 34 • ⏱️ 1:58 • 14h ago
 
 ---
 
