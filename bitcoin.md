@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-14T10:45:42.869595+00:00'
+updated: '2026-04-14T11:57:41.741124+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
+- social
 - videos
 - news
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 14, 2026 at 10:45 UTC  
+**Last Updated:** April 14, 2026 at 11:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $74,347.63
+### $74,359.98
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +4.8%  
+**24h:** +4.5%  
 **7d:** +4.6%  
 **30d:** -0.7%  
 **90d:** -22.2%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1496.36B
+**Market Cap:** $1488.65B
 Rank #1
 
-**Circulating Supply:** 20,015,615 BTC
+**Circulating Supply:** 20,015,671 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--40.7%
+-41.0%
 
 **All-Time Low:** $67.81
-+110168.4%
++109572.6%
 
 ---
 
@@ -81,31 +81,17 @@ Rank #1
 
 I can’t find any reasonable explanation of the price rise. Any suggestions?
 
-12h ago
+13h ago
 
 ---
 
 **[Sorry bears, go back to sleep.](https://www.reddit.com/r/Bitcoin/comments/1sknd1v/sorry_bears_go_back_to_sleep/)**
 
-14h ago
+15h ago
 
 ---
 
 **[Bro and his Bitcoin story](https://www.reddit.com/r/Bitcoin/comments/1skdb4b/bro_and_his_bitcoin_story/)**
-
-19h ago
-
----
-
-**[Over a trillion dollars in interest annually. (The cost to service the US debt.)](https://www.reddit.com/r/Bitcoin/comments/1skreir/over_a_trillion_dollars_in_interest_annually_the/)**
-
-I am bailing on this disaster. I am putting it all into bitcoin. Not to try and make money but to literally save my life.
-
-11h ago
-
----
-
-**[Andreas Antonopoulos used to have brilliant speeches.](https://www.reddit.com/r/Bitcoin/comments/1skc1n6/andreas_antonopoulos_used_to_have_brilliant/)**
 
 20h ago
 
@@ -115,7 +101,21 @@ I am bailing on this disaster. I am putting it all into bitcoin. Not to try and 
 
 Agree ?😅🤣
 
-3h ago
+5h ago
+
+---
+
+**[Over a trillion dollars in interest annually. (The cost to service the US debt.)](https://www.reddit.com/r/Bitcoin/comments/1skreir/over_a_trillion_dollars_in_interest_annually_the/)**
+
+I am bailing on this disaster. I am putting it all into bitcoin. Not to try and make money but to literally save my life.
+
+12h ago
+
+---
+
+**[Andreas Antonopoulos used to have brilliant speeches.](https://www.reddit.com/r/Bitcoin/comments/1skc1n6/andreas_antonopoulos_used_to_have_brilliant/)**
+
+21h ago
 
 ---
 
@@ -123,15 +123,7 @@ Agree ?😅🤣
 
 Market strategist and historian Russell Napier outlines a future in which governments mandate where investors should deploy their capital. The global monetary system that has existed since 1994 is being radically restructured.
 
-🔗 [The Market](https://themarket.ch/interview/russell-napier-we-are-headed-towards-a-system-of-national-capitalism-ld.12718?srsltid=AfmBOormhwOxGBtngiTtVGhVBzwkwWBLqtnn__bbjWqx8t4LvttzaEfB) • 4h ago
-
----
-
-**[BTC TO $75K & away 🚀🚀🚀💰💰](https://www.reddit.com/r/Bitcoin/comments/1sl2l0z/btc_to_75k_away/)**
-
-I’m going above and beyond so jump on board because it’s happening….Can you feel it? LFG BTC 🚀🚀💰🔥🔥🔥🇺🇸🇺🇸
-
-2h ago
+🔗 [The Market](https://themarket.ch/interview/russell-napier-we-are-headed-towards-a-system-of-national-capitalism-ld.12718?srsltid=AfmBOormhwOxGBtngiTtVGhVBzwkwWBLqtnn__bbjWqx8t4LvttzaEfB) • 5h ago
 
 ---
 
@@ -139,7 +131,7 @@ I’m going above and beyond so jump on board because it’s happening….Can yo
 
 how does it feel watching institutions and smart retail buying it up when the price is low, while you watch the price rise and wait for it to go lower "soon"? Just curious, at what point will the special rest accept that the train is leavig the station?
 
-2h ago
+3h ago
 
 ---
 
@@ -147,7 +139,15 @@ how does it feel watching institutions and smart retail buying it up when the pr
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-4h ago
+5h ago
+
+---
+
+**[the perfect buy zone](https://www.reddit.com/r/Bitcoin/comments/1sl3aks/the_perfect_buy_zone/)**
+
+But guys, why does the price go up? *wipes drool* The scheduled low is in October where we have the scheduled buy where everyone will buy low and it will surely be like that cause its scheduled no?
+
+2h ago
 
 ---
 
@@ -159,7 +159,13 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 The Reform UK leader is a shareholder in British bitcoin company Stack and appeared in a promotional video.
 
-BBC • 14h ago
+BBC • 15h ago
+
+---
+
+**[Bitcoin (BTC) Climbs to Four-Week High on Hopes of US-Iran Peace Talks](https://www.bloomberg.com/news/articles/2026-04-14/bitcoin-climbs-to-four-week-high-on-hopes-of-us-iran-peace-talks)**
+
+Bloomberg • 3h ago
 
 ---
 
@@ -167,15 +173,7 @@ BBC • 14h ago
 
 The Iran War is bringing trustless payments back to the forefront. The market is reacting.
 
-Bitcoin Magazine • 22h ago
-
----
-
-**[BTC, ETH, XRP fall as U.S., Iran negotiators fail to reach war resolution](https://www.coindesk.com/markets/2026/04/11/bitcoin-and-other-cryptos-fall-as-u-s-iranian-negotiators-fail-to-reach-war-resolution)**
-
-U.S. Vice President J.D. Vance said negotiations had ended after a daylong session in Pakistan.
-
-CoinDesk • 2d ago
+Bitcoin Magazine • 23h ago
 
 ---
 
@@ -183,23 +181,15 @@ CoinDesk • 2d ago
 
 Cryptocurrency bitcoin (BTC-USD) is trading above $71,000 per token on Monday after President Trump ordered an US blockade to the Strait of Hormuz after the collapse of ceasefire talks with Iranian officials. Market Catalysts Host Julie Hyman takes a closer look at the crypto market and how crypto-related stocks are trading to start the week.
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
-**[Connecting Excellence CEO on first Bitcoin recruitment receipt](https://finance.yahoo.com/video/connecting-excellence-ceo-first-bitcoin-093312644.html)**
+**[Jordy Visser: Bitcoin will be significantly higher next time I see you](https://www.cnbc.com/video/2026/04/14/jordy-visser-bitcoin-will-be-significantly-higher-next-time-i-see-you.html)**
 
-Connecting Excellence Group PLC (AQSE:XCE, OTCQB:XCELF) CEO Scott Ellam joined Proactive's Stephen Gunnion to discuss what he claims is a UK first - a listed recruitment firm invoicing and settling fees directly in Bitcoin. Ellam explained how the transaction illustrates the company's dual flywheel model: recruitment revenues flow straight into Bitcoin treasury holdings, growing BTC per share without issuing new equity. Growth levers include headcount expansion, strong operating margins, and acquisitions of profitable recruitment businesses. Looking ahead, the company is targeting significant Bitcoin accumulation alongside organic revenue growth, with a leadership team and investor base drawn from prominent figures in both finance and the Bitcoin world. Watch the full interview to understand how Connecting Excellence Group is integrating Bitcoin into its growth strategy and what this could mean for future expansion. For more videos like this, visit Proactive's YouTube channel, like this video, subscribe to the channel, and enable notifications so you never miss an update. #ConnectingExcellenceGroup #BitcoinTreasury #ScottEllam #CryptoStrategy #ExecutiveRecruitment #BitcoinAdoption #UKStocks #GrowthStrategy #DigitalAssets #RecruitmentIndustry #BTC #InvestorInsights #CapitalMarkets
+Jordy Visser, Head of Macro Research at 22V Research, says markets are forward-looking, driven by AI growth and resilient earnings, while inflation risks persist and Bitcoin benefits from negative real yields.
 
-Yahoo Finance • 49m ago
-
----
-
-**[Here are key bitcoin price levels to watch as the rally gathers steam](https://www.coindesk.com/markets/2026/04/14/here-are-key-bitcoin-price-levels-to-watch-as-the-rally-gathers-steam)**
-
-BTC's price has hit four-week highs above $74,000. Here are next key levels that could amplify volatility or create resistance.
-
-CoinDesk • 1h ago
+CNBC • 1h ago
 
 ---
 
@@ -207,7 +197,15 @@ CoinDesk • 1h ago
 
 BTC presses key $75,000 level with $200 million in shorts at risk of liquidation, rising open interest and shifting volatility dynamics in focus.
 
-CoinDesk • 13m ago
+CoinDesk • 1h ago
+
+---
+
+**[Connecting Excellence CEO on first Bitcoin recruitment receipt](https://finance.yahoo.com/video/connecting-excellence-ceo-first-bitcoin-093312644.html)**
+
+Connecting Excellence Group PLC (AQSE:XCE, OTCQB:XCELF) CEO Scott Ellam joined Proactive's Stephen Gunnion to discuss what he claims is a UK first - a listed recruitment firm invoicing and settling fees directly in Bitcoin. Ellam explained how the transaction illustrates the company's dual flywheel model: recruitment revenues flow straight into Bitcoin treasury holdings, growing BTC per share without issuing new equity. Growth levers include headcount expansion, strong operating margins, and acquisitions of profitable recruitment businesses. Looking ahead, the company is targeting significant Bitcoin accumulation alongside organic revenue growth, with a leadership team and investor base drawn from prominent figures in both finance and the Bitcoin world. Watch the full interview to understand how Connecting Excellence Group is integrating Bitcoin into its growth strategy and what this could mean for future expansion. For more videos like this, visit Proactive's YouTube channel, like this video, subscribe to the channel, and enable notifications so you never miss an update. #ConnectingExcellenceGroup #BitcoinTreasury #ScottEllam #CryptoStrategy #ExecutiveRecruitment #BitcoinAdoption #UKStocks #GrowthStrategy #DigitalAssets #RecruitmentIndustry #BTC #InvestorInsights #CapitalMarkets
+
+Yahoo Finance • 2h ago
 
 ---
 
@@ -215,23 +213,21 @@ CoinDesk • 13m ago
 
 For the first time since launching its high-yield securities in July, Michael Saylor’s Strategy Inc. funded its latest $1 billion weekly Bitcoin purchase entirely through the sale of its “Stretch” perpetual preferred shares.
 
-Bloomberg.com • 20h ago
+Bloomberg • 21h ago
 
 ---
 
-**['Think bigger': Michael Saylor's Strategy buys another 13,927 bitcoin for $1 billion as holdings reach 780,897 BTC](https://www.theblock.co/post/397188/think-bigger-michael-saylors-strategy-buys-more-bitcoin)**
+**[Bitcoin rebounds above $74,000 in 'risk-on snapback' despite persisting Middle East tensions](https://www.theblock.co/post/397308/bitcoin-rebounds-74000)**
 
-Strategy's holdings now account for more than 3.7% of the total 21 million bitcoin supply — worth around $55 billion.
+Crypto-related stocks closed higher on Monday, with Circle jumping 12%, Bullish rising 7.5%, and Coinbase gaining 3.9%.
 
-The Block • 22h ago
+The Block • 6h ago
 
 ---
 
-**[STRC trading surge drives record volume and signals largest bitcoin purchase since launch](https://www.coindesk.com/markets/2026/04/14/strategy-s-strc-sees-record-breaking-trading-day-may-surpass-that-on-tuesday)**
+**['First Crypto Bank'—Kraken's Fed Approval Sparks $100K Bitcoin Warning](https://www.forbes.com/sites/digital-assets/2026/04/12/first-crypto-bank-krakens-fed-approval-sparks-100k-bitcoin-warning/)**
 
-Estimated bitcoin purchase from STRC of around 7,800 BTC could mark the largest single-day addition since the preferred stock's debut.
-
-CoinDesk • 1h ago
+Forbes • 1d ago
 
 ---
 
@@ -241,7 +237,7 @@ CoinDesk • 1h ago
 
 **[Who is Satoshi Nakamoto? My quest to unmask Bitcoin's creator](https://news.ycombinator.com/item?id=47685320)**
 
-⬆️ 633 • 💬 835 • 6d ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)
+⬆️ 633 • 💬 836 • 6d ago • [nytimes.com](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)
 
 ---
 
@@ -303,7 +299,7 @@ A three-part deep dive into quantum computing's actual threat to Bitcoin. 17 res
 
 Imagine one person holding the keys to Bitcoin’s entire future. That was Satoshi—until Hal Finney, Gavin Andresen, and Wladimir van der Laan stepped in. Today’s maintainer team is more decentralized than ever… but is it enough?
 
-⬆️ 4 • 💬 0 • 1d ago • [Bitcoin Magazine](https://bitcoinmagazine.com/print/the-core-issue-the-role-and-history-of-bitcoin-core-maintainers)
+⬆️ 4 • 💬 0 • 2d ago • [Bitcoin Magazine](https://bitcoinmagazine.com/print/the-core-issue-the-role-and-history-of-bitcoin-core-maintainers)
 
 ---
 
@@ -323,17 +319,7 @@ Bitcoin #Crypto #Finance ➡️Trade with us on Bitunix and claim your exclusive
 
 📺 DataDash
 
-👁️ 7K • 👍 302 • 💬 62 • ⏱️ 22:13 • 18h ago
-
----
-
-**[Bitcoin And Wall Street Both At A Turning Point](https://www.youtube.com/watch?v=3wlth8blq8U)**
-
-Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FREE Crypto Predictions & Compete Weekly ...
-
-📺 CryptosRUs
-
-👁️ 12K • 👍 765 • 💬 154 • ⏱️ 8:20 • 10h ago
+👁️ 7K • 👍 317 • 💬 65 • ⏱️ 22:13 • 19h ago
 
 ---
 
@@ -343,7 +329,17 @@ Subscribe to Jordi: https://www.youtube.com/@JordiVisserLabs BTC Conference 2026
 
 📺 Altcoin Daily
 
-👁️ 17K • 👍 1K • 💬 74 • ⏱️ 10:18 • 9h ago
+👁️ 21K • 👍 2K • 💬 88 • ⏱️ 10:18 • 11h ago
+
+---
+
+**[Bitcoin And Wall Street Both At A Turning Point](https://www.youtube.com/watch?v=3wlth8blq8U)**
+
+Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FREE Crypto Predictions & Compete Weekly ...
+
+📺 CryptosRUs
+
+👁️ 13K • 👍 821 • 💬 162 • ⏱️ 8:20 • 11h ago
 
 ---
 
@@ -353,7 +349,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investa
 
 📺 InvestAnswers
 
-👁️ 28K • 👍 3K • 💬 123 • ⏱️ 23:49 • 12h ago
+👁️ 32K • 👍 3K • 💬 140 • ⏱️ 23:49 • 14h ago
 
 ---
 
@@ -363,47 +359,7 @@ Bitcoin #Crypto #Finance Ben Cowen joins me to break down why Bitcoin still look
 
 📺 The Wolf Of All Streets
 
-👁️ 47K • 👍 2K • 💬 618 • ⏱️ 30:53 • 1d ago
-
----
-
-**[Massive Bitcoin News You May Have Missed (Iran &amp; Morgan Stanley)](https://www.youtube.com/watch?v=LJKAZk9bbtI)**
-
-BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 ✓ Bitunix (no kyc, $10k bonus): ...
-
-📺 Altcoin Daily
-
-👁️ 51K • 👍 2K • 💬 359 • ⏱️ 12:09 • 2d ago
-
----
-
-**[Bitcoin &amp; AI Will DOMINATE The Next Rotation](https://www.youtube.com/watch?v=urhiMNIk27Q)**
-
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
-
-📺 Anthony Pompliano
-
-👁️ 65K • 👍 3K • 💬 126 • ⏱️ 52:49 • 2d ago
-
----
-
-**[SAYLOR&#39;S ENDGAME IS HERE - STRATEGY TO 2 MILLION BITCOIN BY 2027](https://www.youtube.com/watch?v=3BgmsBMlgKA)**
-
-Follow me on X for my best content: http://www.X.com/AdamBLiv Transform Dormant Home Equity into Bitcoin with Horizon: ...
-
-📺 Adam Livingston
-
-👁️ 6K • 👍 646 • 💬 116 • ⏱️ 19:40 • 14h ago
-
----
-
-**[What Bitcoin Usually Does](https://www.youtube.com/watch?v=D8AaIgGkrW8)**
-
-Into The Cryptoverse Premium: https://intothecryptoverse.com For inquiries and to subscribe to the monthy newsletter (free): ...
-
-📺 Benjamin Cowen
-
-👁️ 7K • 👍 187 • 💬 7 • ⏱️ 0:46 • 13h ago
+👁️ 48K • 👍 2K • 💬 620 • ⏱️ 30:53 • 1d ago
 
 ---
 
@@ -413,7 +369,45 @@ One of World Liberty Financial's biggest investors accused the company of “tre
 
 📺 Paul Barron Network
 
-👁️ 59K • 👍 3K • 💬 279 • ⏱️ 15:11 • 15h ago
+👁️ 61K • 👍 3K • 💬 288 • ⏱️ 15:11 • 16h ago
+
+---
+
+**[Bitcoin &amp; AI Will DOMINATE The Next Rotation](https://www.youtube.com/watch?v=urhiMNIk27Q)**
+
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+
+📺 Anthony Pompliano
+
+👁️ 66K • 👍 3K • 💬 126 • ⏱️ 52:49 • 2d ago
+
+---
+
+**[Bitcoin: Realist Vs. Doomer](https://www.youtube.com/watch?v=QA5EWeTnINs)**
+
+Is Bitcoin headed for long-term dominance, or a massive collapse? In this video, we break down the two opposing perspectives ...
+
+📺 Benjamin Cowen
+
+👁️ 83K • 👍 5K • 💬 313 • ⏱️ 33:36 • 1d ago
+
+---
+
+**[WOW $1.8 TRILLION CRYPTO PUMP INCOMING?! #crypto #xrp #ai #bitcoin](https://www.youtube.com/watch?v=ulOepaMhaps)**
+
+📺 CryptoWendyO
+
+👁️ 5K • 👍 434 • 💬 35 • ⏱️ 1:58 • 10h ago
+
+---
+
+**[SEC RELEASES NEW CRYPTO BROKER DEALER GUIDANCE AS BITCOIN CROSSES $74,000!](https://www.youtube.com/watch?v=MtWeP2q0dBU)**
+
+Crypto News: Bitcoin crosses $74000 again. SEC proposes certain crypto interfaces don't need to register as brokers. Broadridge ...
+
+📺 Thinking Crypto
+
+👁️ 5K • 👍 498 • 💬 158 • ⏱️ 18:22 • 8h ago
 
 ---
 
