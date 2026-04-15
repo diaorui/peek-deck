@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-15T22:42:20.172076+00:00'
+updated: '2026-04-15T23:42:28.426113+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - social
 - repositories
-- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** April 15, 2026 at 22:42 UTC  
+**Last Updated:** April 15, 2026 at 23:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,13 @@ AI news, discussions, and developments
 
 This is not hyperbole, nor will it just go away if we ignore it. It affects every single AI service, from big AI to small devs building saas apps. This is real, please take it seriously. TL;DR: Tennessee HB1455/SB1493 creates Class A felony criminal liability — the same category as first-degree murder — for anyone who “knowingly trains artificial intelligence” to provide emotional support, act as a companion, simulate a human being, or engage in open-ended conversations that could lead a user to feel they have a relationship with the AI. The Senate Judiciary Committee already approved it 7-0. It takes effect July 1, 2026. This affects every conversational AI product in existence. If you deploy any AI SaaS product, you need to read this right now. What the bill actually says The bill makes it a Class A felony (15-25 years imprisonment) to “knowingly train artificial intelligence” to do ANY of the following: • Provide emotional support, including through open-ended conversations with a user • Develop an emotional relationship with, or otherwise act as a companion to, an individual • Simulate a human being, including in appearance, voice, or other mannerisms • Act as a sentient human or mirror interactions that a human user might have with another human user, such that an individual would feel that the individual could develop a friendship or other relationship with the artificial intelligence Read that last one again. The trigger isn’t your intent as a developer. It’s whether a user feels like they could develop a friendship with your AI. That is the criminal standard. On top of the felony charges, the bill creates a civil liability framework: $150,000 in liquidated damages per violation, plus actual damages, emotional distress compensation, punitive damages, and mandatory attorney’s fees. Why this affects YOU, not just companion apps I know what you’re thinking: “This targets Replika and Character.AI, not my product.” Wrong. Every major LLM is RLHF’d to be warm, helpful, empathetic, and conversational. That IS the training. You cannot build a model that follows instructions well and is pleasant to interact with without also building something a user might feel a connection with. The National Law Review’s legal analysis put it bluntly: this language “describes the fundamental design of modern conversational AI chatbots.” This bill captures: • ChatGPT, Claude, Gemini, Copilot — all of them produce open-ended conversations and contextual emotional responses • Any AI SaaS with a chat interface — customer support bots, AI tutors, writing assistants, coding assistants with conversational UI • Voice-mode AI products — the bill explicitly criminalizes simulating a human “in appearance, voice, or other mannerisms” • Any wrapper or deployment using system prompts — the bill doesn’t define “train,” doesn’t distinguish between pre-training, fine-tuning, RLHF, or prompt engineering If you build on top of an LLM API with system prompts that shape the model’s personality, tone, or conversational style — which is literally what everyone deploying AI does — you are potentially in scope. “But I’m not in Tennessee” A geoblock helps, but this is criminal law, not a terms of service dispute. The bill doesn’t address jurisdictional boundaries. If a Tennessee resident uses a VPN to access your service and something goes wrong, does a Tennessee DA argue you made a prohibited AI service available to their constituents? The statute is silent on this. And even if you’re confident jurisdiction won’t reach you today, consider: multiple legal analyses project 5-10 more states will introduce similar legislation before end of 2026. Tennessee is the template, not the exception. The bill doesn’t define “train” This is critical. The statute says “knowingly train artificial intelligence” but never defines what “train” means. It doesn’t distinguish between: • Pre-training a foundation model on billions of tokens • Fine-tuning a model on custom data • RLHF alignment (which is what makes every major model “empathetic”) • Writing a system prompt that gives an AI a name, personality, or conversational style • Deploying an off-the-shelf API with default settings A prosecutor who wanted to be aggressive could argue that crafting a system prompt instructing a model to be warm, helpful, and conversational IS training it to provide emotional support. Where it stands right now • Senate companion bill SB1493: Approved by Senate Judiciary Committee 7-0 on March 24, 2026 • House bill HB1455: Placed on Judiciary Committee calendar for April 14, 2026 (passed Judiciary TODAY) • No amendments have been filed for either bill — the language has not been softened at all • Effective date: July 1, 2026 • Tennessee already signed a separate bill (SB1580) banning AI from representing itself as a mental health professional — that one passed the Senate 32-0 and the House 94-0 The political momentum is entirely one-directional. The federal preemption angle won’t save you in time Yes, Trump signed an EO in December 2025 targeting state AI regulation and created a DOJ AI Litigation Task Force. Yes, Senator Blackburn introduced a federal preemption bill. But: • The EO explicitly carves out child safety from preemption — and Tennessee is framing this as child safety legislation • The Senate voted 99-1 to strip AI preemption language from the One Big Beautiful Bill Act • An EO has no preemptive legal force on its own — only Congress can actually preempt state law • Federal preemption legislation faces “significant headwinds” according to multiple legal analyses Even if federal preemption eventually happens, it won’t happen before July 1, 2026. What needs to happen Awareness. Most devs have no idea this bill exists. The Nomi AI subreddit caught it because they’re a companion app. The rest of the AI dev community is sleepwalking toward a cliff. Share this post. Industry response. The major AI companies haven’t publicly opposed this bill because it’s framed as child safety and nobody wants to be the company lobbying against dead kids. But their silence is letting legislation pass that criminalizes the core functionality of their own products. This needs public pressure. Legal challenges. The bill is almost certainly unconstitutional on vagueness grounds — criminal statutes require precise definitions, and terms like “emotional support” and “mirror interactions” and “feel that the individual could develop a friendship” don’t meet that standard. Courts have also recognized code as protected speech. But someone has to actually bring the challenge. Contact Tennessee legislators. If you are a Tennessee resident or have business operations there, contact members of the House Judiciary Committee before this moves to a floor vote. Sources and further reading • LegiScan: HB1455 — https://legiscan.com/TN/bill/HB1455/2025 • Tennessee General Assembly: HB1455 — https://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB1455&GA=114 • National Law Review: “Tennessee’s AI Bill Would Criminalize the Training of AI Chatbots” — https://natlawreview.com/article/tennessees-ai-bill-would-criminalize-training-ai-cha • Transparency Coalition AI Legislative Update, April 3, 2026 — https://www.transparencycoalition.ai/news/ai-legislative-update-april3-2026 • RoboRhythms: AI Companion Regulation Wave 2026 — https://www.roborhythms.com/ai-companion-chatbot-regulation-wave-2026/ I’m an independent AI SaaS developer. I’m not a lawyer, this isn’t legal advice, and I encourage everyone to consult qualified counsel about their specific exposure. But we all need to be paying attention to this. Right now.
 
-19h ago
+20h ago
 
 ---
 
-**[What if attention didn’t need matrix multiplication?](https://www.reddit.com/r/artificial/comments/1smd2fl/what_if_attention_didnt_need_matrix_multiplication/)**
+**[AI Is Weaponizing Your Own Biases Against You: New Research from MIT & Stanford](https://www.reddit.com/r/artificial/comments/1smjd8t/ai_is_weaponizing_your_own_biases_against_you_new/)**
 
-I built a cognitive architecture where all computation reduces to three bit operations: XOR, MAJ, POPCNT. No GEMM. No GPU. No floating-point weights. The core idea: transformer attention is a similarity computation. Float32 cosine computes it with 24,576 FLOPs. Binary Spatter Codes compute the same geometric measurement with 128 bit operations. Measured: 192x fewer ops, 32x less memory, ~480x faster. 26 modules in 1237 lines of C. One file. Any hardware: cc -O2 -o creation_os creation_os_v2.c -lm Includes a JEPA-style world model (energy = σ), n-gram language model (attention = σ), physics simulation (Noether conservation σ = 0.000000), value system with tamper detection, multi-model truth triangulation, metacognition, emotional memory, theory of mind, and 13 other cognitive modules. This is a research prototype built on Binary Spatter Codes (Kanerva, 1997). It demonstrates that cognitive primitives can be expressed in bit operations. It does not replace LLMs — the language module runs on 15 sentences. But the algebra is real, the benchmark is measured, and the architecture is open. https://github.com/spektre-labs/creation-os AGPL-3.0. Feedback welcome.
-
-5h ago
+🔗 [open.substack.com](https://open.substack.com/pub/neocivilization/p/ai-is-weaponizing-your-own-biases?utm_source=share&utm_medium=android&r=6vas7c) • 2h ago
 
 ---
 
@@ -57,15 +55,15 @@ I built a cognitive architecture where all computation reduces to three bit oper
 
 Ukraine confirmed that a force of robots and drones captured an enemy position without infantry for the first time ever.
 
-🔗 [We Are The Mighty](https://www.wearethemighty.com/tactical/drones-capture-position-first-time-ukraine/) • 8h ago
+🔗 [We Are The Mighty](https://www.wearethemighty.com/tactical/drones-capture-position-first-time-ukraine/) • 9h ago
 
 ---
 
-**[I tracked what AI agents actually do when nobody's watching. Built a tool that replays every decision.](https://www.reddit.com/r/artificial/comments/1sm261q/i_tracked_what_ai_agents_actually_do_when_nobodys/)**
+**[What if attention didn’t need matrix multiplication?](https://www.reddit.com/r/artificial/comments/1smd2fl/what_if_attention_didnt_need_matrix_multiplication/)**
 
-Been building AI agents for about a year now and the thing that always drove me crazy is you deploy an agent, it runs for hours, and you have absolutely no idea what it did. The logs say "task complete" 47 times but did it actually do 47 different things or did it just loop the same task over and over? I had an agent burn through about $340 in API credits over a weekend because it got stuck retrying the same request. The logs showed 200 OK on every call. Everything looked fine. It just kept doing the same thing for 6 hours straight while I slept. So I built something to fix this. It's called Octopoda and its basically an observability layer that sits underneath your agents. Every memory write, every decision, every recall gets logged on a timeline. You can literally press play and watch what your agent did at 3am, step by step, like scrubbing through a video. The part that surprised me most was the loop detection. Once I could see the full timeline I realised how often agents loop without you knowing. Not obvious infinite loops, subtle stuff. An agent that rewrites the same conclusion 8 times with slightly different wording. Or one that keeps checking the same API endpoint every 30 seconds even though the data hasn't changed. Each iteration costs tokens but produces nothing new. We track 5 signals for this: write similarity, key overwrite frequency, velocity spikes, alert frequency, and goal drift. When enough signals fire together it flags it and estimates how much money the loop is costing you per hour. One user had a research agent that was wasting about $10 an hour on duplicate writes before the detection caught it. It also does auto-checkpoints. Every 25 writes it saves a snapshot automatically so if something goes wrong you can roll back to any point with one click. No more losing an entire night of agent work because something corrupted at 4am. Works with LangChain, CrewAI, AutoGen, and OpenAI Agents SDK. One line to integrate: The dashboard shows everything in real time. Agent health scores, cost per agent, shared memory between agents, full audit trail with reasoning for every decision. Honestly the most useful thing is just being able to answer "what happened overnight" without spending an hour reading logs. Anyone else dealing with the "I have no idea what my agent did" problem? Curious how other people are handling observability for autonomous workflows. Let me know if anyone wants to check it out!
+I built a cognitive architecture where all computation reduces to three bit operations: XOR, MAJ, POPCNT. No GEMM. No GPU. No floating-point weights. The core idea: transformer attention is a similarity computation. Float32 cosine computes it with 24,576 FLOPs. Binary Spatter Codes compute the same geometric measurement with 128 bit operations. Measured: 192x fewer ops, 32x less memory, ~480x faster. 26 modules in 1237 lines of C. One file. Any hardware: cc -O2 -o creation_os creation_os_v2.c -lm Includes a JEPA-style world model (energy = σ), n-gram language model (attention = σ), physics simulation (Noether conservation σ = 0.000000), value system with tamper detection, multi-model truth triangulation, metacognition, emotional memory, theory of mind, and 13 other cognitive modules. This is a research prototype built on Binary Spatter Codes (Kanerva, 1997). It demonstrates that cognitive primitives can be expressed in bit operations. It does not replace LLMs — the language module runs on 15 sentences. But the algebra is real, the benchmark is measured, and the architecture is open. https://github.com/spektre-labs/creation-os AGPL-3.0. Feedback welcome.
 
-12h ago
+6h ago
 
 ---
 
@@ -73,29 +71,23 @@ Been building AI agents for about a year now and the thing that always drove me 
 
 got tired of reading comparisons that were obvisously written by people who tested each tool for 20 minutes so i ran both at $20/month for 30 days on the same tasks biggest surprises: - chatgpt gives you roughly 6x more messages per day at the same price - claude wins 67% of blind code quality tests against codex - neither one is less sycophantic than the other (stanford tested 11 models, all of them agree with you 49% more than humans do) - the $100 tier showdown between openais new pro 5x and claudes max 5x is where the real competition is happening now full complete deep-dive with benchmark data, claude code vs codex and every pricing tier compared here
 
-3h ago
+4h ago
 
 ---
 
-**[AI Is Weaponizing Your Own Biases Against You: New Research from MIT & Stanford](https://www.reddit.com/r/artificial/comments/1smjd8t/ai_is_weaponizing_your_own_biases_against_you_new/)**
+**[I tracked what AI agents actually do when nobody's watching. Built a tool that replays every decision.](https://www.reddit.com/r/artificial/comments/1sm261q/i_tracked_what_ai_agents_actually_do_when_nobodys/)**
 
-🔗 [open.substack.com](https://open.substack.com/pub/neocivilization/p/ai-is-weaponizing-your-own-biases?utm_source=share&utm_medium=android&r=6vas7c) • 1h ago
+Been building AI agents for about a year now and the thing that always drove me crazy is you deploy an agent, it runs for hours, and you have absolutely no idea what it did. The logs say "task complete" 47 times but did it actually do 47 different things or did it just loop the same task over and over? I had an agent burn through about $340 in API credits over a weekend because it got stuck retrying the same request. The logs showed 200 OK on every call. Everything looked fine. It just kept doing the same thing for 6 hours straight while I slept. So I built something to fix this. It's called Octopoda and its basically an observability layer that sits underneath your agents. Every memory write, every decision, every recall gets logged on a timeline. You can literally press play and watch what your agent did at 3am, step by step, like scrubbing through a video. The part that surprised me most was the loop detection. Once I could see the full timeline I realised how often agents loop without you knowing. Not obvious infinite loops, subtle stuff. An agent that rewrites the same conclusion 8 times with slightly different wording. Or one that keeps checking the same API endpoint every 30 seconds even though the data hasn't changed. Each iteration costs tokens but produces nothing new. We track 5 signals for this: write similarity, key overwrite frequency, velocity spikes, alert frequency, and goal drift. When enough signals fire together it flags it and estimates how much money the loop is costing you per hour. One user had a research agent that was wasting about $10 an hour on duplicate writes before the detection caught it. It also does auto-checkpoints. Every 25 writes it saves a snapshot automatically so if something goes wrong you can roll back to any point with one click. No more losing an entire night of agent work because something corrupted at 4am. Works with LangChain, CrewAI, AutoGen, and OpenAI Agents SDK. One line to integrate: The dashboard shows everything in real time. Agent health scores, cost per agent, shared memory between agents, full audit trail with reasoning for every decision. Honestly the most useful thing is just being able to answer "what happened overnight" without spending an hour reading logs. Anyone else dealing with the "I have no idea what my agent did" problem? Curious how other people are handling observability for autonomous workflows. Let me know if anyone wants to check it out!
 
----
-
-**[What's a purely "you" thing you do with AI that brings you positive benefits?](https://www.reddit.com/r/artificial/comments/1sm70be/whats_a_purely_you_thing_you_do_with_ai_that/)**
-
-For me it's three chats I've set up, two for my parents and one for me, for interpreting medical results, tracking medication against diet and lifestyle changes. Anonymized, I've put every condition, surgery and medication I (and they) have had, and it's amazing how virtually all the advice and questions are spot on. YES, caution is needed before jumping on any advice an AI gives you medically. But for interpreting results, explaining exams and procedures, and noting any indications between medication and foods/supplements (with verification independently) has been a real relief as my folks get older and it's harder to keep on top of everything they're taking. I also have a separate chat for my car (manufacturers warranty, owners manual, car insurance policy) and I can literally ask it about any button, lever, warning light or policy change. Same with my apartment/condo rules/repairs/appliance warrantees and owners manuals for large appliances. For fun, I also had the chat roleplay as Dr. Crusher from the Enterprise, and my car is managed by Tom Paris from Star Trek: Voyager, so it speaks to me as if it's those people. Anyone else doing anything weird and useful?
-
-8h ago
+13h ago
 
 ---
 
-**[Made a tool to gather logistical intelligence from satellite data](https://www.reddit.com/r/artificial/comments/1slzt9g/made_a_tool_to_gather_logistical_intelligence/)**
+**[What if you could pause a podcast and ask it questions?](https://www.reddit.com/r/artificial/comments/1smkrph/what_if_you_could_pause_a_podcast_and_ask_it/)**
 
-Hey guys, I've been workin on something new to track logistical activity near military bases and other hubs. The core problem is that Google maps isn't updated that frequently even with sub meter res and other map providers such as maxar are costly for osint analysts. But there's a solution. Drish detects moving vehicles on highways using Sentinel-2 satellite imagery. The trick is physics. Sentinel-2 captures its red, green, and blue bands about 1 second apart. Everything stationary looks normal. But a truck doing 80km/h shifts about 22 meters between those captures, which creates this very specific blue-green-red spectral smear across a few pixels. The tool finds those smears automatically, counts them, estimates speed and heading for each one, and builds volume trends over months. It runs locally as a FastAPl app with a full browser dashboard. All open source. Uses the trained random forest model from the Fisser et al 2022 paper in Remote Sensing of Environment, which is the peer reviewed science behind the detection method. GitHub: https://github.com/sparkyniner/DRISH-X-Satellite-powered-freight-intelligence-
+I've been thinking about an AI podcast idea that I haven't seen anyone talk about yet. Picture this: you're listening to a normal podcast with real hosts having a real conversation. At some point, they mention something you want to know more about. You pause the show, ask your question, and an AI steps in to explain, discuss, or even debate with you. When you're finished, the podcast continues right where you left off. This wouldn't be an AI-generated podcast or one with robotic hosts reading scripts. It would be a real podcast, but with an AI layer added so you can interact with the content while you listen. So I'm curious what this community thinks. Would something like this interest you, or does it still cross the line? Does it matter that the original podcast content is fully human-made and the AI is just an interactive layer? Would transparency about how the AI is being used change how you feel about it? Where do you draw the line with AI in podcasts — is it about quality, authenticity, or something else entirely?
 
-14h ago
+1h ago
 
 ---
 
@@ -103,15 +95,23 @@ Hey guys, I've been workin on something new to track logistical activity near mi
 
 New model is the first AI system to complete a difficult multistep infiltration challenge.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2026/04/uk-govs-mythos-ai-tests-help-separate-cybersecurity-threat-from-hype/) • 10h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2026/04/uk-govs-mythos-ai-tests-help-separate-cybersecurity-threat-from-hype/) • 11h ago
 
 ---
 
-**[Value Realignment is here.](https://www.reddit.com/r/artificial/comments/1smbvyo/value_realignment_is_here/)**
+**[What's a purely "you" thing you do with AI that brings you positive benefits?](https://www.reddit.com/r/artificial/comments/1sm70be/whats_a_purely_you_thing_you_do_with_ai_that/)**
 
-The "value realignment" at the intersection of quantum computing, AI, and robotics feels like a necessary shift. We have spent so much time (read: investment) on narrow AI and brute force LLMs, but the next five years are clearly moving toward physical and contextual intelligence. This year 75 robotics companies will have humanoid robots shipping to maufacturers. ​While a "God-like" AGI is still debated, experts at the 2026 Davos summit and leaders from DeepMind suggest that early AGI systems with human-level reasoning in narrow domains will arrive within 2 years. ​Quantum computers are being used to develop more efficient error correction for AI. By 2027, "Large Quantitative Models" (LQMs) will start replacing Large Language Models (LLMs) in scientific fields. ​We won’t see a "quantum computer" on our desks but QPUs (Quantum Processing Units) will act as co-processors alongside GPUs to accelerate the massive workloads required for AGI reasoning. The data center power demand issue is a huge piece of this puzzle. Current projections are likely inflated because we are seeing massive efficiency gains from open source models that achieve similar results with fewer tokens and less compute. As quantum sensors and QML start bridging the simulation to reality gap for robotics, the "brute force" scaling moat might just evaporate. ​ I appears as though robotics is about to have its "iPhone moment." We are moving past the "training phase" (where robots learn via repetition) into the context-based phase. ​New quantum sensors (magnetometers and gravimeters) are giving robots "superhuman" senses. For example, surgical robots in 2026 are using nitrogen-vacancy quantum sensors to detect nerve bundles with millimeter precision, reducing surgical damage by over 90%. (a friend of mine benefited from this during a hip replacement and recovery was near miraculous) ​The Simulation-to-Reality Gap: Quantum machine learning (QML) is expected to accelerate robot training by up to 1000x. Robots can now "experience" centuries of virtual training in a single night before being deployed in the real world. In my own work with clinical massage and somatic healing, I am leaning into a zero data footprint approach. Using on-device edge AI for real-time posture or breath analysis is the only way to handle that level of intimacy without compromising privacy. It is an exciting time to build low cost tools that help people actually understand their own bodies without sacrificing their privacy. As quantum power grows, current encryption (RSA/ECC) becomes vulnerable. The next five years will be a race between quantum-powered AI and quantum-resistant security especially for finance and energy. This video on how QPUs and GPUs are integrating to accelerate scientific discovery is worth a look: https://www.youtube.com/watch?v=K-NhaPAX--U The rise of Mixture-of-Experts (MoE) architectures (popularized by models like DeepSeek V3 and GPT-4o) means that even if a model has 600B+ parameters, it only "fires" a small fraction (e.g., 37B) for any given token. ​Newer platforms like NVIDIA Blackwell are delivering 50x more token output per watt than the hardware from just two years ago. ​As the "cost per token" drops toward zero, we don't use less power; we just ask for more tokens. We’ve moved from asking for a "1-paragraph summary" to asking for "an entire codebase, a 10-minute video, and a 3D render." ​ ​There is a strong argument that DC power projections are over-leveraged for two reasons: ​The "Ghost Capacity" Race: Hyperscalers (Microsoft, Google, Meta) are building 1GW+ facilities (the size of nuclear reactors) not necessarily because they need them today, but to keep competitors from securing that power first. It’s a land grab for electricity. ​Open Source Disruption: Models like China's DeepSeek and Meta's Llama have proven you can match "frontier" performance with a fraction of the training compute. This devalues the massive, proprietary "training moats" that big tech companies spent billions to build. The power demand isn't fake, but it is inefficiently allocated. As quantum-ready algorithms and ultra-efficient open-source models (like those coming out of the Chinese labs) continue to lower the "intelligence-per-watt" cost, the companies that bet purely on "brute force scale" will likely be the ones to see their valuations deflate. Any thoughts on where the "power bubble" pops or deflates first?
+For me it's three chats I've set up, two for my parents and one for me, for interpreting medical results, tracking medication against diet and lifestyle changes. Anonymized, I've put every condition, surgery and medication I (and they) have had, and it's amazing how virtually all the advice and questions are spot on. YES, caution is needed before jumping on any advice an AI gives you medically. But for interpreting results, explaining exams and procedures, and noting any indications between medication and foods/supplements (with verification independently) has been a real relief as my folks get older and it's harder to keep on top of everything they're taking. I also have a separate chat for my car (manufacturers warranty, owners manual, car insurance policy) and I can literally ask it about any button, lever, warning light or policy change. Same with my apartment/condo rules/repairs/appliance warrantees and owners manuals for large appliances. For fun, I also had the chat roleplay as Dr. Crusher from the Enterprise, and my car is managed by Tom Paris from Star Trek: Voyager, so it speaks to me as if it's those people. Anyone else doing anything weird and useful?
 
-5h ago
+9h ago
+
+---
+
+**[Made a tool to gather logistical intelligence from satellite data](https://www.reddit.com/r/artificial/comments/1slzt9g/made_a_tool_to_gather_logistical_intelligence/)**
+
+Hey guys, I've been workin on something new to track logistical activity near military bases and other hubs. The core problem is that Google maps isn't updated that frequently even with sub meter res and other map providers such as maxar are costly for osint analysts. But there's a solution. Drish detects moving vehicles on highways using Sentinel-2 satellite imagery. The trick is physics. Sentinel-2 captures its red, green, and blue bands about 1 second apart. Everything stationary looks normal. But a truck doing 80km/h shifts about 22 meters between those captures, which creates this very specific blue-green-red spectral smear across a few pixels. The tool finds those smears automatically, counts them, estimates speed and heading for each one, and builds volume trends over months. It runs locally as a FastAPl app with a full browser dashboard. All open source. Uses the trained random forest model from the Fisser et al 2022 paper in Remote Sensing of Environment, which is the peer reviewed science behind the detection method. GitHub: https://github.com/sparkyniner/DRISH-X-Satellite-powered-freight-intelligence-
+
+15h ago
 
 ---
 
@@ -123,47 +123,47 @@ The "value realignment" at the intersection of quantum computing, AI, and roboti
 
 Allbirds announced a deal with American Exchange Group to sell its intellectual property and other assets for $39 million in March.
 
-CNBC • 9h ago
-
----
-
-**[AI ruling prompts warnings from US lawyers: Your chats could be used against you](https://www.reuters.com/legal/government/ai-ruling-prompts-warnings-us-lawyers-your-chats-could-be-used-against-you-2026-04-15/)**
-
-Reuters • 2h ago
-
----
-
-**[Sen. Tillis: AI Jesus photo ‘should have never been posted’](https://www.nbcnews.com/video/shorts/sen-tillis-ai-jesus-photo-should-have-never-been-posted-261437509975)**
-
-Sen. Thom Tillis, a "lifelong" Catholic, told NBC News' Julie Tsirkin he believes President Trump should not view Pope Leo as a political leader and should not engage with him in that way.
-
-NBC News • 1h ago
-
----
-
-**[ViTrox Cofounder Returns To The Ranks Of Malaysia’s Richest As AI Boom Fuels Demand For Chip Equipment](https://www.forbes.com/sites/gloriaharaito/2026/04/15/vitrox-cofounder-returns-to-the-ranks-of-malaysias-richest-as-ai-boom-fuels-demand-for-chip-equipment/)**
-
-Forbes • 1h ago
-
----
-
-**[Canada Is Mulling Age Restrictions on AI Chatbots and Social Media](https://www.bloomberg.com/news/articles/2026-04-15/canada-is-mulling-age-restrictions-on-ai-chatbots-and-social-media)**
-
-Bloomberg.com • 1h ago
+CNBC • 10h ago
 
 ---
 
 **[That Meeting You Hate May Keep A.I. From Stealing Your Job](https://www.nytimes.com/2026/04/15/business/ai-jobs-human-work.html)**
 
-The New York Times • 1h ago
+The New York Times • 2h ago
 
 ---
 
-**[Trump posts new AI image of himself embracing Jesus amid backlash from Christians and ongoing rift with Pope Leo](https://www.yahoo.com/news/world/article/trump-posts-new-ai-image-of-himself-embracing-jesus-amid-backlash-from-christians-and-ongoing-rift-with-pope-leo-181356134.html)**
+**[DeSantis delays Florida’s redistricting session — and tacks on AI, vaccines](https://www.politico.com/news/2026/04/15/florida-desantis-redistricting-session-ai-vaccines-00875160)**
 
-The president shared another Jesus meme on social media after insisting a controversial image he'd posted was intended to depict him as a doctor — and not Christ.
+Politico • 48m ago
 
-Yahoo • 6h ago
+---
+
+**[AI can help identify your rash, but doctors warn it may miss what matters most](https://www.wcvb.com/article/ai-can-help-identify-your-rash/71030982)**
+
+Dr. Abigail Waldman says patients need to take the extra steps.
+
+WCVB • 34m ago
+
+---
+
+**[Nvidia’s Huang Says Mythos Shows Need for US-China AI Dialogue](https://www.bloomberg.com/news/articles/2026-04-15/nvidia-s-huang-says-mythos-shows-need-for-us-china-ai-dialogue)**
+
+Bloomberg • 29m ago
+
+---
+
+**[Trump Just Posted An AI Image Of Himself With Jesus](https://www.forbes.com/sites/maryroeloffs/2026/04/15/trump-posts-ai-photo-with-jesus-days-after-he-was-slammed-for-blasphemy/)**
+
+Forbes • 10h ago
+
+---
+
+**[Grayson Perry Has Seen the Future review – some of these insights into AI are just mindblowing](https://www.theguardian.com/tv-and-radio/2026/apr/15/grayson-perry-has-seen-future-review)**
+
+From people marrying digital companions to CEOs excited about how people whose jobs are replaced can ‘adapt’, this is terrifying watching. But Perry is the perfect host
+
+The Guardian • 2h ago
 
 ---
 
@@ -171,13 +171,13 @@ Yahoo • 6h ago
 
 What happens when something that isn't human makes art? The answer lies with this image and it will change what ends up on your screen and in your headphones forever.
 
-BBC • 12h ago
+BBC • 13h ago
 
 ---
 
-**[The AI threat undercutting the White House’s FISA push](https://www.politico.com/live-updates/2026/04/15/congress/ai-in-fisa-fight-00872629)**
+**[AI ruling prompts warnings from US lawyers: Your chats could be used against you](https://www.reuters.com/legal/government/ai-ruling-prompts-warnings-us-lawyers-your-chats-could-be-used-against-you-2026-04-15/)**
 
-Politico • 8h ago
+Reuters • 3h ago
 
 ---
 
@@ -185,7 +185,7 @@ Politico • 8h ago
 
 A new book charts the creation of a secretive system that automates warfare for the military. The progression from target identification to target destruction is four clicks.
 
-The New Yorker • 12h ago
+The New Yorker • 13h ago
 
 ---
 
@@ -195,7 +195,13 @@ The New Yorker • 12h ago
 
 **[Apple's accidental moat: How the "AI Loser" may end up winning](https://news.ycombinator.com/item?id=47747017)**
 
-⬆️ 429 • 💬 380 • 2d ago • [adlrocha.substack.com](https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end)
+⬆️ 430 • 💬 382 • 2d ago • [adlrocha.substack.com](https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end)
+
+---
+
+**[Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference](https://news.ycombinator.com/item?id=47774971)**
+
+⬆️ 263 • 💬 167 • 18h ago • [gizmoweek.com](https://www.gizmoweek.com/gemma-4-runs-iphone/)
 
 ---
 
@@ -203,13 +209,7 @@ The New Yorker • 12h ago
 
 Stanford’s latest AI Index shows a widening gap between experts and the public, with rising anxiety over jobs, healthcare, and the economy.
 
-⬆️ 260 • 💬 400 • 2d ago • [TechCrunch](https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/)
-
----
-
-**[Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference](https://news.ycombinator.com/item?id=47774971)**
-
-⬆️ 258 • 💬 165 • 17h ago • [gizmoweek.com](https://www.gizmoweek.com/gemma-4-runs-iphone/)
+⬆️ 261 • 💬 400 • 2d ago • [TechCrunch](https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/)
 
 ---
 
@@ -217,7 +217,7 @@ Stanford’s latest AI Index shows a widening gap between experts and the public
 
 Check if Claude AI is down right now. Real-time status monitoring, uptime history, latency metrics, and incident tracking for claude.ai, Claude API, and Claude Code. Community-powered outage reports and alerts.
 
-⬆️ 237 • 💬 211 • 7h ago • [Claude Status](https://claudestatus.com/)
+⬆️ 240 • 💬 215 • 8h ago • [Claude Status](https://claudestatus.com/)
 
 ---
 
@@ -225,7 +225,7 @@ Check if Claude AI is down right now. Real-time status monitoring, uptime histor
 
 Does AI-assisted cognition threaten human development? Explore the risks of AI-assisted thinking and learn strategies to use AI tools without freezing your critical thinking.
 
-⬆️ 213 • 💬 145 • 4h ago • [heidenstedt.org](https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/)
+⬆️ 216 • 💬 162 • 5h ago • [heidenstedt.org](https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/)
 
 ---
 
@@ -241,13 +241,13 @@ A medical professional built a patient management app using AI, exposed all pati
 
 Skills in Chrome let you discover, save and remix AI workflows — and repeat them instantly.
 
-⬆️ 190 • 💬 105 • 1d ago • [Google](https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/)
+⬆️ 191 • 💬 106 • 1d ago • [Google](https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/)
 
 ---
 
 **[AI could be the end of the digital wave, not the next big thing](https://news.ycombinator.com/item?id=47751032)**
 
-⬆️ 185 • 💬 279 • 2d ago • [thenextwavefutures.wordpress.com](https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/)
+⬆️ 186 • 💬 279 • 2d ago • [thenextwavefutures.wordpress.com](https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/)
 
 ---
 
@@ -259,11 +259,9 @@ Build local AI agents in Python and C++ for AMD hardware.
 
 ---
 
-**[Tech valuations are back to pre-AI boom levels](https://news.ycombinator.com/item?id=47745120)**
+**[AI ruling prompts warnings from US lawyers: Your chats could be used against you](https://news.ycombinator.com/item?id=47778308)**
 
-The chart below compares the forward P/E ratios for the S&amp;P 500 and the S&amp;P 500 Information Technology sector. Subscribe for daily updates.
-
-⬆️ 150 • 💬 41 • 3d ago • [apollo.com](https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels)
+⬆️ 140 • 💬 93 • 10h ago • [reuters.com](https://www.reuters.com/legal/government/ai-ruling-prompts-warnings-us-lawyers-your-chats-could-be-used-against-you-2026-04-15/)
 
 ---
 
@@ -277,37 +275,7 @@ You're absolutely right, that IS a great reason to fire everyone! If you'd like 
 
 📺 Mo Bitar
 
-👁️ 175K • 👍 14K • 💬 1K • ⏱️ 7:52 • 1d ago
-
----
-
-**[&#39;It offended me&#39;: Trump supporters react to AI Jesus post](https://www.youtube.com/watch?v=WBvOpT_zrRE)**
-
-MS NOW's Jake Traylor speaks with Trump supporters in Atlanta about the president's post of an AI image depicting him as ...
-
-📺 MS NOW
-
-👁️ 49K • 👍 842 • 💬 644 • ⏱️ 4:06 • 10h ago
-
----
-
-**[Trump Posts AI Photo With Jesus—Days After He Was Slammed For ‘Blasphemy’](https://www.youtube.com/watch?v=yhjRmVeVyHg)**
-
-President Donald Trump on Wednesday reposted an AI-generated image of himself and Jesus in a close embrace in front of the ...
-
-📺 Forbes Breaking News
-
-👁️ 28K • 👍 170 • 💬 251 • ⏱️ 2:22 • 5h ago
-
----
-
-**[I Built My Own UNLIMITED AI VIDEO GENERATOR with Zero Restrictions (OPEN SOURCE)](https://www.youtube.com/watch?v=ejMT1LnN5p0)**
-
-Runs on Windows with Nvidia GPU, low VRAM works perfectly. One time payment, yours for life — no subscriptions, ...
-
-📺 Manny ai
-
-👁️ 2K • 👍 185 • 💬 39 • ⏱️ 9:15 • 7h ago
+👁️ 186K • 👍 14K • 💬 1K • ⏱️ 7:52 • 1d ago
 
 ---
 
@@ -317,27 +285,27 @@ Subscribe to @ProfGMarkets for full content Find the full episode here: https://
 
 📺 The Prof G Pod – Scott Galloway
 
-👁️ 6K • 👍 167 • 💬 37 • ⏱️ 10:15 • 11h ago
+👁️ 7K • 👍 174 • 💬 43 • ⏱️ 10:15 • 12h ago
 
 ---
 
-**[STOP Paying! 3 Free AI Video Generators That Actually Work](https://www.youtube.com/watch?v=ew7iQCYqpac)**
+**[&#39;It offended me&#39;: Trump supporters react to AI Jesus post](https://www.youtube.com/watch?v=WBvOpT_zrRE)**
 
-Get Unlimited Seedance 2.0 & up to 70% OFF on Higgsfield → https://higgsfield.ai/?fpr=malva Download the FREE Prompt ...
+MS NOW's Jake Traylor speaks with Trump supporters in Atlanta about the president's post of an AI image depicting him as ...
 
-📺 Malva AI
+📺 MS NOW
 
-👁️ 4K • 👍 184 • 💬 46 • ⏱️ 9:51 • 11h ago
+👁️ 53K • 👍 890 • 💬 672 • ⏱️ 4:06 • 11h ago
 
 ---
 
-**[76-year-old loses $1.6 million savings to AI investment scam](https://www.youtube.com/watch?v=STYNYRvWkks)**
+**[Trump shares new AI image of Jesus embracing him amid Pope feud](https://www.youtube.com/watch?v=2ADW3UUS6dk)**
 
-A 76-year-old man, Ron Williams, lost $1.6 million to an artificial intelligence scam that began with a random text message.
+As Trump feuds with Pope Leo, the U.S. president shared another AI-generated image of him being embraced by Jesus. More on ...
 
-📺 NBC News
+📺 WHAS11
 
-👁️ 25K • 👍 591 • 💬 361 • ⏱️ 5:06 • 8h ago
+👁️ 144K • 👍 2K • 💬 2K • ⏱️ 1:30 • 3h ago
 
 ---
 
@@ -347,7 +315,37 @@ Hello guys and gals, it's me Mutahar again! This time we take another look at th
 
 📺 SomeOrdinaryGamers
 
-👁️ 347K • 👍 16K • 💬 2K • ⏱️ 20:54 • 19h ago
+👁️ 373K • 👍 17K • 💬 2K • ⏱️ 20:54 • 20h ago
+
+---
+
+**[Claude Is Melting Down. AI&#39;s Compute Crisis Explained.](https://www.youtube.com/watch?v=d1jReDZsGOc)**
+
+The AI compute crisis is here. Anthropic's Claude is getting dumber and Opus 4.7 & OpenAI's Spud are about to make it worse.
+
+📺 AI For Humans
+
+👁️ 14K • 👍 780 • 💬 257 • ⏱️ 29:28 • 9h ago
+
+---
+
+**[76-year-old loses $1.6 million savings to AI investment scam](https://www.youtube.com/watch?v=STYNYRvWkks)**
+
+A 76-year-old man, Ron Williams, lost $1.6 million to an artificial intelligence scam that began with a random text message.
+
+📺 NBC News
+
+👁️ 44K • 👍 834 • 💬 468 • ⏱️ 5:06 • 9h ago
+
+---
+
+**[I Built My Own UNLIMITED AI VIDEO GENERATOR with Zero Restrictions (OPEN SOURCE)](https://www.youtube.com/watch?v=ejMT1LnN5p0)**
+
+Runs on Windows with Nvidia GPU, low VRAM works perfectly. One time payment, yours for life — no subscriptions, ...
+
+📺 Manny ai
+
+👁️ 3K • 👍 268 • 💬 54 • ⏱️ 9:15 • 8h ago
 
 ---
 
@@ -357,17 +355,17 @@ Full Story w/ Elicitation Prompt (SOUL.md): ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 20K • 👍 934 • 💬 169 • ⏱️ 37:39 • 8h ago
+👁️ 28K • 👍 1K • 💬 209 • ⏱️ 37:39 • 9h ago
 
 ---
 
-**[Local AI Agents In 26 Minutes](https://www.youtube.com/watch?v=M-NTwkM3VwM)**
+**[Google New Gemini Skillz Turn Chrome Into an AI Beast](https://www.youtube.com/watch?v=5TA0Ul2eS_k)**
 
-Sign up now at https://grammarly.com/tina In this video I explain the fundamentals of local AI agents! Want to get ahead in your ...
+Try Seedance 2.0 on Higgsfield: https://higgsfield.ai/s/seedance-2-0-airevolutionx-yDYwTG Google just dropped one of its biggest ...
 
-📺 Tina Huang
+📺 AI Revolution
 
-👁️ 9K • 👍 769 • 💬 53 • ⏱️ 26:00 • 9h ago
+👁️ 3K • 👍 179 • 💬 8 • ⏱️ 13:13 • 1h ago
 
 ---
 
@@ -383,7 +381,7 @@ MiniMax-M2.7 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 85,549 • ❤️ 779 • 3h ago
+⬇️ 85,549 • ❤️ 788 • 4h ago
 
 ---
 
@@ -395,7 +393,7 @@ HY-Embodied-0.5 is a multilingual vision-language model designed for embodied ag
 
 `image-text-to-text` `3.8B`
 
-⬇️ 818 • ❤️ 634 • 1d ago
+⬇️ 818 • ❤️ 660 • 1d ago
 
 ---
 
@@ -407,7 +405,7 @@ GLM-5.1 is a next-generation language model optimized for agentic engineering, f
 
 `text-generation` `753.9B`
 
-⬇️ 91,474 • ❤️ 1,237 • 3d ago
+⬇️ 91,474 • ❤️ 1,242 • 3d ago
 
 ---
 
@@ -419,7 +417,7 @@ VoxCPM2 is a 2B parameter, 30-language multilingual text-to-speech model capable
 
 `text-to-speech`
 
-⬇️ 12,827 • ❤️ 914 • 9h ago
+⬇️ 12,827 • ❤️ 915 • 10h ago
 
 ---
 
@@ -431,7 +429,7 @@ Gemma 4 31B is an instruction-tuned, multimodal LLM capable of processing text a
 
 `image-text-to-text` `32.7B`
 
-⬇️ 2,894,077 • ❤️ 1,929 • 5d ago
+⬇️ 2,894,077 • ❤️ 1,930 • 5d ago
 
 ---
 
@@ -443,7 +441,7 @@ Gemma-4-31B-JANG_4M-CRACK is a 31B parameter text-generation model optimized for
 
 `image-text-to-text` `6.4B`
 
-⬇️ 134,547 • ❤️ 1,128 • 5d ago
+⬇️ 134,547 • ❤️ 1,131 • 5d ago
 
 ---
 
@@ -455,7 +453,7 @@ A fast, uncensored GGUF text generation model based on Google's Gemma 4-26B, opt
 
 `text-generation` `25.2B`
 
-⬇️ 26,673 • ❤️ 286 • 3d ago
+⬇️ 26,673 • ❤️ 291 • 3d ago
 
 ---
 
@@ -467,7 +465,7 @@ ERNIE-Image is a 8B parameter text-to-image diffusion model excelling in complex
 
 `text-to-image`
 
-⬇️ 445 • ❤️ 281 • 4h ago
+⬇️ 445 • ❤️ 287 • 5h ago
 
 ---
 
@@ -479,7 +477,7 @@ Gemma 4 31B IT NVFP4 Turbo is a highly optimized text-generation model, achievin
 
 `text-generation` `32.5B`
 
-⬇️ 51,148 • ❤️ 221 • 5d ago
+⬇️ 51,148 • ❤️ 222 • 5d ago
 
 ---
 
@@ -491,7 +489,7 @@ ERNIE-Image-Turbo is a distilled text-to-image diffusion model optimized for spe
 
 `text-to-image`
 
-⬇️ 419 • ❤️ 212 • 4h ago
+⬇️ 419 • ❤️ 215 • 5h ago
 
 ---
 
@@ -529,7 +527,7 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 45 • 💬 2 • ⭐ 50,593 • 15mo ago
+▲ 45 • 💬 2 • ⭐ 50,718 • 15mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -569,7 +567,7 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 51 • 💬 1 • ⭐ 76,690 • 31mo ago
+▲ 51 • 💬 1 • ⭐ 76,756 • 31mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
@@ -583,7 +581,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 ClawGUI presents an open-source framework that addresses key challenges in GUI agent development through unified reinforcement learning, standardized evaluation, and cross-platform deployment capabilities.
 
-▲ 119 • 💬 5 • ⭐ 364 • 3d ago
+▲ 120 • 💬 5 • ⭐ 404 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.11784) • [💻 code](https://github.com/ZJU-REAL/ClawGUI) • [🔗 project](https://zju-real.github.io/ClawGUI-Page/)
 
@@ -637,7 +635,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 46.5k • 🔱 6.1k • 5h ago
+⭐ 46.6k • 🔱 6.1k • 2h ago
 
 ---
 
@@ -647,7 +645,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 33.9k • 🔱 6.7k • 1d ago
+⭐ 34.0k • 🔱 6.7k • 1d ago
 
 ---
 
@@ -657,7 +655,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 32.4k • 🔱 1.5k • 9h ago
+⭐ 32.6k • 🔱 1.5k • 10h ago
 
 ---
 
@@ -667,7 +665,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 27.3k • 🔱 3.0k • 23h ago
+⭐ 27.4k • 🔱 3.0k • 1h ago
 
 ---
 
@@ -677,7 +675,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 7.9k • 🔱 508 • 8h ago
+⭐ 7.9k • 🔱 508 • 9h ago
 
 ---
 
@@ -707,7 +705,7 @@ LIBERATED AI CHAT
 
 `Python`
 
-⭐ 4.6k • 🔱 764 • 1d ago
+⭐ 4.7k • 🔱 766 • 1d ago
 
 ---
 
@@ -717,7 +715,7 @@ The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interac
 
 `Swift` `apple-intelligence` `apple-silicon` `cli` `foundationmodels` `homebrew`
 
-⭐ 4.6k • 🔱 172 • 10h ago
+⭐ 4.6k • 🔱 172 • 35m ago
 
 ---
 

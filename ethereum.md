@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-15T22:42:20.184688+00:00'
+updated: '2026-04-15T23:42:28.439997+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
-- videos
 - cryptocurrency
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 15, 2026 at 22:42 UTC  
+**Last Updated:** April 15, 2026 at 23:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,353.28
+### $2,351.15
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.9%  
-**7d:** +7.7%  
-**30d:** +1.8%  
-**90d:** -28.5%  
-**1y:** +49.5%  
+**24h:** +0.8%  
+**7d:** +7.4%  
+**30d:** +1.5%  
+**90d:** -28.6%  
+**1y:** +49.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $284.80B
+**Market Cap:** $283.94B
 Rank #2
 
 **Circulating Supply:** 120,690,957 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--52.3%
+-52.4%
 
 **All-Time Low:** $0.43
-+544884.9%
++543118.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
 
 ---
 
@@ -148,17 +148,9 @@ There’s a lot of focus lately on calldata in the context of rollups and EIP-20
 
 ## Google News: "ethereum"
 
-**[Ripple CEO Brad Garlinghouse Bets Big on XRP Flipping Ethereum](https://coinpaper.com/16228/ripple-ceo-brad-garlinghouse-bets-big-on-xrp-flipping-ethereum)**
-
-Ripple CEO Brad Garlinghouse says XRP could challenge Ethereum for the #2 crypto spot, driven by real-world cross-border payment utility.
-
-Coinpaper • 1d ago
-
----
-
 **[Bitmine Reports $3.8 Billion Loss As Ethereum Sinks](https://finance.yahoo.com/news/bitmine-reports-3-8-billion-125000138.html)**
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -166,7 +158,7 @@ Yahoo Finance • 9h ago
 
 The largest corporate ether holder posted a $3.8 billion quarterly loss as its pivot from mining to ETH accumulation continues.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -178,25 +170,33 @@ PR Newswire • 2d ago
 
 ---
 
+**[Ripple CEO Brad Garlinghouse Bets Big on XRP Flipping Ethereum](https://coinpaper.com/16228/ripple-ceo-brad-garlinghouse-bets-big-on-xrp-flipping-ethereum)**
+
+Ripple CEO Brad Garlinghouse says XRP could challenge Ethereum for the #2 crypto spot, driven by real-world cross-border payment utility.
+
+Coinpaper • 1d ago
+
+---
+
+**[Bitcoin and ethereum prices today, Tuesday, April 14, 2026: Prices rebound despite U.S. blockade in the Middle East](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-april-14-2026-prices-rebound-despite-us-blockade-in-the-middle-east-112122301.html)**
+
+​​Bitcoin (BTC-USD) opened at $74,442.23 and ethereum (ETH-USD) opened at $2,369.90. Bitcoin was up 5.2% and ethereum was up 8.1% from Monday's open.
+
+Yahoo Finance • 1d ago
+
+---
+
 **[Bitcoin, XRP, Ethereum Fall. Iran Peace Failure Causes a Crypto Headache.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-iran-crypto-46d858c6)**
 
 Barron's • 2d ago
 
 ---
 
-**[Ethereum Foundation unveils $1M audit subsidy program to boost crypto security and cut costs for builders](https://www.coindesk.com/tech/2026/04/14/ethereum-foundation-unveils-usd1m-audit-subsidy-program-to-boost-crypto-security-and-cut-costs-for-builders)**
+**[Ethereum Foundation launches $1 million crypto security subsidy, providing access to over 20 audit firms](https://www.theblock.co/post/397427/ethereum-foundation-launches-1-million-crypto-security-subsidy-providing-access-to-over-20-audit-firms)**
 
-The organization unveiled a new initiative aimed at tackling a persistent challenge in crypto development—the high cost of smart contract security audits.
+The EF tapped Areta's audit marketplace to provide access to over 20 security firms like Blocksec, Cetora, Hacken, Immunefi and Quantstamp.
 
-CoinDesk • 1d ago
-
----
-
-**[Ether.fi commits $3 billion in ETH as 'validator liquidity' to ETHGas over three years](https://www.theblock.co/post/397457/etherfi-3-billion-eth-validator-liquidity-ethgas-three-years)**
-
-ETHGas is a marketplace for Ethereum blockspace futures that allows blockspace to be bought and sold in advance for guaranteed execution.
-
-The Block • 22h ago
+The Block • 1d ago
 
 ---
 
@@ -204,7 +204,7 @@ The Block • 22h ago
 
 Ethereum’s derivatives market on Binance is flashing a setup that could leave short sellers exposed if the recent move higher continues. According to analysis shared on X by CryptoQuant contributor Darkfost, positioning has become increasingly one-sided even as ETH has rebounded sharply from its Fe…
 
-TradingView — Track All Markets • 12h ago
+TradingView — Track All Markets • 13h ago
 
 ---
 
@@ -216,11 +216,11 @@ Decrypt • 2d ago
 
 ---
 
-**[Current price of Ethereum for April 15, 2026](https://fortune.com/article/price-of-ethereum-04-15-2026/)**
+**[Which Cryptocurrency Should You Be Hoarding Right Now, Bitcoin or Ethereum?](https://www.fool.com/investing/2026/04/13/which-cryptocurrency-should-you-be-hoarding-right/)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+If crypto treasury companies are loading up on Bitcoin and Ethereum, should you be too?
 
-Fortune • 9h ago
+The Motley Fool • 2d ago
 
 ---
 
@@ -228,23 +228,43 @@ Fortune • 9h ago
 
 ## YouTube Videos: "ethereum"
 
-**[URGENT $60,000 Ethereum Incoming Despite Crypto Clarity Delay $120M flows to XRP!](https://www.youtube.com/watch?v=jFuYQZuHFgw)**
-
-URGENT $60000 Ethereum Incoming Despite Crypto Clarity Delay $120M flows to XRP! ether.fi (Partner) ...
-
-📺 CryptoWendyO
-
-👁️ 3K • 👍 294 • 💬 17 • ⏱️ 32:36 • 4h ago
-
----
-
 **[This Ethereum Analysis Says BUY BEFORE IT&#39;S TOO LATE! Ethereum Technical Analysis 2026](https://www.youtube.com/watch?v=jgUZRil56eA)**
 
 Buy Ethereum? CRYPTO RETIREMENT ACCOUNT HERE Sign up for iTrustCapital and get a $100 funding bonus after ...
 
 📺 Crypto Jebb
 
-👁️ 1K • 👍 112 • 💬 23 • ⏱️ 14:10 • 4h ago
+👁️ 2K • 👍 162 • 💬 56 • ⏱️ 14:10 • 5h ago
+
+---
+
+**[URGENT $60,000 Ethereum Incoming Despite Crypto Clarity Delay $120M flows to XRP!](https://www.youtube.com/watch?v=jFuYQZuHFgw)**
+
+URGENT $60000 Ethereum Incoming Despite Crypto Clarity Delay $120M flows to XRP! ether.fi (Partner) ...
+
+📺 CryptoWendyO
+
+👁️ 4K • 👍 367 • 💬 19 • ⏱️ 32:36 • 5h ago
+
+---
+
+**[Michael Saylor on Ethereum: It’s Still the Leader](https://www.youtube.com/watch?v=BtiLtGZXPX4)**
+
+Michael Saylor's Ethereum view has changed. Bitcoin is digital capital. Ethereum is leading the tokenization race. #Bitcoin ...
+
+📺 Bankless
+
+👁️ 535 • 👍 34 • 💬 22 • ⏱️ 1:17 • 1h ago
+
+---
+
+**[Tom Lee :&quot;Bitcoin &amp; ETH Holders NEED to Hear This IMMEDIATELY [2026 New Price Prediction]](https://www.youtube.com/watch?v=DVUa0wyPWzQ)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 3K • 👍 162 • 💬 9 • ⏱️ 14:46 • 7h ago
 
 ---
 
@@ -254,7 +274,7 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 3K • 👍 203 • 💬 37 • ⏱️ 11:55 • 9h ago
+👁️ 4K • 👍 232 • 💬 41 • ⏱️ 11:55 • 10h ago
 
 ---
 
@@ -264,7 +284,7 @@ Companies over the course of 2026 have been all but frothing at the mouth trying
 
 📺 The Modern Investor
 
-👁️ 5K • 👍 665 • 💬 356 • ⏱️ 29:08 • 12h ago
+👁️ 6K • 👍 691 • 💬 358 • ⏱️ 29:08 • 13h ago
 
 ---
 
@@ -274,17 +294,17 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 67 • 👍 9 • 💬 2 • ⏱️ 4:49 • 2h ago
+👁️ 144 • 👍 10 • 💬 3 • ⏱️ 4:49 • 3h ago
 
 ---
 
-**[WHY Crypto’s Bottom Is Likely In (explained in less than 4 minutes)](https://www.youtube.com/watch?v=jSAHAA7m_V8)**
+**[XRP, Bitcoin, Ethereum EXPLODING: How I Turned $5,000 Into $1M (Almost) Martyn Lucas Investor](https://www.youtube.com/watch?v=Lm3bFjChKJY)**
 
-Tom Lee explains why the crypto bottom is likely in (in less than 4 minutes). ⭐ Follow Altcoin Daily on X: ...
+XRP, Bitcoin, Ethereum EXPLODING: How I Turned $5000 Into $1M (Almost) ALL of Martyn's Trades on Discord Includes 1 on 1 ...
 
-📺 Altcoin Daily
+📺 Martyn Lucas INVESTOR
 
-👁️ 27K • 👍 2K • 💬 193 • ⏱️ 9:28 • 1d ago
+👁️ 927 • 👍 93 • 💬 3 • ⏱️ 14:26 • 2h ago
 
 ---
 
@@ -294,17 +314,7 @@ BloFin - No KYC/No VPN needed [Trade ETH Coin Futures!] https://marzell.org/Blof
 
 📺 Marzell Crypto
 
-👁️ 814 • 👍 29 • 💬 88 • ⏱️ 5:01 • 1d ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=HwMAmJ4P1eQ)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Crypto Gyan
-
-👁️ 624 • 👍 63 • 💬 4 • ⏱️ 5:54 • 7h ago
+👁️ 819 • 👍 30 • 💬 88 • ⏱️ 5:01 • 1d ago
 
 ---
 
@@ -314,17 +324,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 146 • 👍 14 • 💬 1 • ⏱️ 4:24 • 13h ago
-
----
-
-**[XRP TO $27,000?!?! ETHEREUM GETS FLIPPED IN 2 MONTHS?!](https://www.youtube.com/watch?v=W-ZKWPZ8zkU)**
-
-We're diving into the latest "xrp news today" as extreme "xrp price" targets, ranging from $10000 to $50000, are causing a stir ...
-
-📺 Ripple Moon Watch
-
-👁️ 2K • 👍 164 • 💬 63 • ⏱️ 19:27 • 9h ago
+👁️ 176 • 👍 16 • 💬 1 • ⏱️ 4:24 • 14h ago
 
 ---
 
