@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-14T23:42:34.300872+00:00'
+updated: '2026-04-15T02:37:29.264635+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
 - social
+- news
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 14, 2026 at 23:42 UTC  
+**Last Updated:** April 15, 2026 at 02:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,43 +36,51 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,313.41
+### $2,325.23
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.4%  
-**7d:** +5.7%  
-**30d:** -1.6%  
-**90d:** -30.3%  
-**1y:** +45.7%  
+**24h:** -2.0%  
+**7d:** +5.9%  
+**30d:** +0.1%  
+**90d:** -29.6%  
+**1y:** +47.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $279.88B
+**Market Cap:** $280.03B
 Rank #2
 
-**Circulating Supply:** 120,690,992 ETH
+**Circulating Supply:** 120,690,957 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--53.0%
+-53.1%
 
 **All-Time Low:** $0.43
-+536263.2%
++535609.6%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[Apple Charges $99 a Year to Keep You Safe. A Fake Ledger App Just Drained $9.5 Million in a Week](https://www.reddit.com/r/ethereum/comments/1slh9gu/apple_charges_99_a_year_to_keep_you_safe_a_fake/)**
+
+A fake Ledger Live clone sat on Apple's App Store for seven days and drained $9.5 million from 50 victims across Bitcoin, Ethereum, Solana, Tron and XRP. Apple's review process, which promises to protect users, let it through. Then removed it after the damage was done.
+
+🔗 [DailyCoinPost](https://dailycoinpost.com/fake-ledger-app-apple-app-store-9-million-drained/) • 8h ago
+
+---
+
 **[are we basically accepting that DAOs will be run by bots soon?](https://www.reddit.com/r/ethereum/comments/1slhx0g/are_we_basically_accepting_that_daos_will_be_run/)**
 
 Man I was looking at some recent governance votes across a few protocols and the amount of obvious botting is just depressing at this point. it feels like every time we come up with a new sybil resistance mechanism, someone just spins up a better script to farm it and now with AI agents getting actually decent at mimicking random on-chain behavior and passing standard checks, it seems like pure software solutions are just dead in the water. I really hate the idea of forced traditional KYC for web3 stuff because it completely defeats the point of privacy and just builds another centralized honeypot. was reading this technical deep dive the other day about setting up a private Proof Of Human using ZK tech so you don't actually tie your daily wallet to your real identity. tbh it made me realize we might actually need some kind of hardware or biometric anchor if we want to keep things decentralized without getting completely overrun by server farms it just sucks that the ecosystem is moving in a direction where simply "proving you are a person" is becoming the hardest part of interacting with ethereum. Idk, curious how you guys think L2s are gonna handle this long term because the current meta of hoping for the best isn't working
 
-4h ago
+7h ago
 
 ---
 
@@ -80,21 +88,13 @@ Man I was looking at some recent governance votes across a few protocols and the
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-18h ago
-
----
-
-**[Apple Charges $99 a Year to Keep You Safe. A Fake Ledger App Just Drained $9.5 Million in a Week](https://www.reddit.com/r/ethereum/comments/1slh9gu/apple_charges_99_a_year_to_keep_you_safe_a_fake/)**
-
-A fake Ledger Live clone sat on Apple's App Store for seven days and drained $9.5 million from 50 victims across Bitcoin, Ethereum, Solana, Tron and XRP. Apple's review process, which promises to protect users, let it through. Then removed it after the damage was done.
-
-🔗 [DailyCoinPost](https://dailycoinpost.com/fake-ledger-app-apple-app-store-9-million-drained/) • 5h ago
+21h ago
 
 ---
 
 **[Building a prediction market sector index — is this a gap or am I missing something obvious?](https://www.reddit.com/r/ethereum/comments/1slnr4y/building_a_prediction_market_sector_index_is_this/)**
 
-1h ago
+4h ago
 
 ---
 
@@ -119,7 +119,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I built a CLI tool in rust called LaunchDex that deploys a full DEX--factory contract, router, liquidity pair and swap frontend--on Ethereum, Arbitrum, and Base in a single command. The whole process that typically takes weeks of manual contract deployment, configuration and frontend setup is reduced to launchdex deploy. Contract addresses are saved automatically and a custom swap interface is generated and ready to deploy. The tool is built on top of verified Uniswap v2 contracts so the deployed DEX is production-grade and audited. Multi-token support lets you add additional trading pairs to an existing factory with one command. The generated frontend includes an embedded wallet so user can swap tokens without needing Metamask installed. Let me know what you think
 
-1d ago
+2d ago
 
 ---
 
@@ -157,19 +157,27 @@ The Block • 1d ago
 
 ---
 
-**[Tom Lee’s BitMine Makes Biggest Ethereum Buy Since December](https://decrypt.co/364119/tom-lees-bitmine-biggest-ethereum-buy-since-december)**
+**[Ripple CEO Brad Garlinghouse Bets Big on XRP Flipping Ethereum](https://coinpaper.com/16228/ripple-ceo-brad-garlinghouse-bets-big-on-xrp-flipping-ethereum)**
 
-BitMine Immersion Technologies' Ethereum treasury gained another $157 million of ETH last week, its biggest acquisition since December.
+Ripple CEO Brad Garlinghouse says XRP could challenge Ethereum for the #2 crypto spot, driven by real-world cross-border payment utility.
 
-Decrypt • 1d ago
+Coinpaper • 14h ago
 
 ---
 
-**[Ethereum DeFi Exchange CoW Swap Pauses Protocol Following Website Compromise](https://finance.yahoo.com/markets/crypto/articles/ethereum-defi-exchange-cow-swap-213718181.html)**
+**[ether.fi’s ETHGas Deal Backs a Bigger Push to Make Ethereum Execution More Predictable](https://finance.yahoo.com/markets/crypto/articles/ether-fi-ethgas-deal-backs-012400391.html)**
 
-CoW Swap, a decentralized exchange used by Ethereum co-founder Vitalik Buterin, paused its protocol after suffering a front-end attack.
+ether.fi has committed about $3 billion in ETH to ETHGas, backing a three-year agreement that gives the blockspace ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Ether.fi commits $3 billion in ETH as 'validator liquidity' to ETHGas over three years](https://www.theblock.co/post/397457/etherfi-3-billion-eth-validator-liquidity-ethgas-three-years)**
+
+ETHGas is a marketplace for Ethereum blockspace futures that allows blockspace to be bought and sold in advance for guaranteed execution.
+
+The Block • 2h ago
 
 ---
 
@@ -177,13 +185,29 @@ Yahoo Finance • 2h ago
 
 The organization unveiled a new initiative aimed at tackling a persistent challenge in crypto development—the high cost of smart contract security audits.
 
-CoinDesk • 5h ago
+CoinDesk • 8h ago
+
+---
+
+**[Bitcoin Hits $75,000 as XRP, Ethereum, and Solana All Surge: Is the Crypto Bull Run Starting?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-hits-75-000-xrp-113610617.html)**
+
+For the first time since mid-March, Bitcoin (CRYPTO: BTC) is back above $75,000. The Bitcoin price had been ranging below $70,000 for more than a month, with every rally getting cut short by the bearish pressure the Middle East war has put on the market. Right now, the whole market is surging—Bitcoin has climbed 5.9%, ... Bitcoin Hits $75,000 as XRP, Ethereum, and Solana All Surge: Is the Crypto Bull Run Starting?
+
+Yahoo Finance • 15h ago
 
 ---
 
 **[Bitcoin, XRP, Ethereum Fall. Iran Peace Failure Causes a Crypto Headache.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-iran-crypto-46d858c6)**
 
 Barron's • 1d ago
+
+---
+
+**[Why Are Bitcoin, Ethereum and XRP Prices Surging Today?](https://coinpedia.org/news/why-are-bitcoin-ethereum-and-xrp-prices-surging-today/)**
+
+Crypto markets are having a strong Tuesday. Bitcoin jumped nearly $4,000 in 12 hours, hitting $74,461. Ethereum surged 7.85% to $2,366 and XRP climbed
+
+Coinpedia • 22h ago
 
 ---
 
@@ -195,33 +219,11 @@ PR Newswire • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum approach two-month highs as markets grow optimistic over U.S.-Iran peace negotiations](https://fortune.com/2026/04/14/bitcoin-ethereum-price-today-us-iran-peace-talks/)**
+**[Crypto Hacker Mints $1.1 Billion in Polkadot via Ethereum Bridge, But Can Only Cash Out $237K](https://decrypt.co/364131/crypto-hacker-mints-billion-polkadot-ethereum-bridge-cashes-out-237k)**
 
-The rally has seen Bitcoin price rise to around $75,000 after falling as low as almost $60,000 in recent months.
+A hacker exploited a Polkadot bridge, minting $1.1 billion worth of DOT tokens before making a tiny fraction of that tally by selling it.
 
-Fortune • 7h ago
-
----
-
-**[Ethereum Break Above Key Averages Supports Ongoing Uptrend Setup](https://www.investing.com/analysis/ethereum-break-above-key-averages-supports-ongoing-uptrend-setup-200678442)**
-
-Investing.com • 1h ago
-
----
-
-**[Polkadot (DOT) - Token Exploit on Ethereum - Date (13 April 2026)](https://www.tradingview.com/news/coinmarketcal:9c370a4d7094b:0-polkadot-dot-token-exploit-on-ethereum-date-13-april-2026/)**
-
-An attacker exploited an Ethereum-based token contract representing DOT, minting roughly $1 billion worth of synthetic Polkadot tokens and dumping them into liquidity pools, ultimately extracting about $250,000, according to a CoinDesk report. This incident affects wrapped DOT liquidity on Ethereum…
-
-TradingView — Track All Markets • 1d ago
-
----
-
-**[Ripple CEO Brad Garlinghouse Bets Big on XRP Flipping Ethereum](https://coinpaper.com/16228/ripple-ceo-brad-garlinghouse-bets-big-on-xrp-flipping-ethereum)**
-
-Ripple CEO Brad Garlinghouse says XRP could challenge Ethereum for the #2 crypto spot, driven by real-world cross-border payment utility.
-
-Coinpaper • 11h ago
+Decrypt • 1d ago
 
 ---
 
@@ -235,7 +237,17 @@ BloFin - No KYC/No VPN needed [Trade ETH Coin Futures!] https://marzell.org/Blof
 
 📺 Marzell Crypto
 
-👁️ 627 • 👍 27 • 💬 121 • ⏱️ 5:01 • 18h ago
+👁️ 697 • 👍 29 • 💬 89 • ⏱️ 5:01 • 21h ago
+
+---
+
+**[Bitcoin to $200k, Ethereum To $10k Is &#39;Programed&#39;](https://www.youtube.com/watch?v=q50SBPezTJo)**
+
+Tony Edwards of Thinking Crypto interview. We talk: Incoming Bitcoin Bottom, QE, Trump Pump, Altcoin Season, Supercycle, ...
+
+📺 Altcoin Daily
+
+👁️ 3K • 👍 121 • 💬 67 • ⏱️ 0:59 • 8h ago
 
 ---
 
@@ -246,16 +258,6 @@ Here is the latest on bitcoin, ethereum and crypto in general! Be aware of whats
 📺 Thomas Kralow
 
 👁️ 17K • 👍 2K • 💬 28 • ⏱️ 10:18 • 1d ago
-
----
-
-**[Bitcoin to $200k, Ethereum To $10k Is &#39;Programed&#39;](https://www.youtube.com/watch?v=q50SBPezTJo)**
-
-Tony Edwards of Thinking Crypto interview. We talk: Incoming Bitcoin Bottom, QE, Trump Pump, Altcoin Season, Supercycle, ...
-
-📺 Altcoin Daily
-
-👁️ 2K • 👍 90 • 💬 68 • ⏱️ 0:59 • 5h ago
 
 ---
 
@@ -275,17 +277,7 @@ Ethereum is down more than 50% from its all-time high, but the bigger concern ri
 
 📺 More Crypto Online
 
-👁️ 5K • 👍 233 • 💬 30 • ⏱️ 15:54 • 1d ago
-
----
-
-**[LIVE: Elon Musk Reveals Terafab - The Project That Could Change Digital Assets Forever!](https://www.youtube.com/watch?v=t3orL-YiFCw)**
-
-Elon Musk is live right now revealing Terafab, the revolutionary project from Tesla, SpaceX, and xAI that could completely change ...
-
-📺 TheMrNokia I Abdulla Zaki
-
-👁️ 3K • 👍 2K • 2h ago
+👁️ 5K • 👍 234 • 💬 30 • ⏱️ 15:54 • 1d ago
 
 ---
 
@@ -295,7 +287,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 5K • 👍 170 • 💬 24 • ⏱️ 10:57 • 2d ago
+👁️ 5K • 👍 171 • 💬 24 • ⏱️ 10:57 • 2d ago
 
 ---
 
@@ -305,27 +297,37 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 6K • 👍 202 • 💬 90 • ⏱️ 38:50 • 1d ago
+👁️ 6K • 👍 203 • 💬 91 • ⏱️ 38:50 • 1d ago
 
 ---
 
-**[ETHEREUM BROKE OUT! What&#39;s Next?🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=h2K-uk9JfSg)**
+**[Ethereum Launches War-Proof Browser To Kill Chrome?🌐Freedom Browser INTERVIEW](https://www.youtube.com/watch?v=MkVhdstQvmE)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+Freedom is a minimalist browser for Swarm and IPFS. No centralized gateways. You connect directly to peers and become part of ...
 
-📺 Cilinix Crypto
+📺 Paul Barron Network
 
-👁️ 599 • 👍 27 • 💬 18 • ⏱️ 4:45 • 14h ago
+👁️ 60K • 👍 2K • 💬 252 • ⏱️ 18:02 • 2d ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=0UjB6P8DlLE)**
+**[ПРОИЗОЙДЁТ НЕВЕРОЯТНОЕ! ОБЗОР БИТКОИНА, ETHEREUM, CARDANO, NEAR PROTOCOL, AVALANCHE!](https://www.youtube.com/watch?v=ur2DPlgkYto)**
 
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+Рынок продолжает расти, поэтому разберём текущую ситуацию на рынке и узнаем реально ли продолжение роста.
 
-📺 Crypto Gyan
+📺 Kaito Trade
 
-👁️ 690 • 👍 72 • ⏱️ 6:09 • 7h ago
+👁️ 369 • 👍 33 • 💬 10 • ⏱️ 16:49 • 11h ago
+
+---
+
+**[BITCOIN 75.000? y la ¡GRAN POLÉMICA de Ethereum…!](https://www.youtube.com/watch?v=_DOe03rtnKY)**
+
+BITCOIN vuelve a encender las alarmas ¿Vamos hacia los 75.000 o esto es solo otra trampa del mercado? En este vídeo ...
+
+📺 Rodrigo Arnedo Noticias Bitcoin
+
+👁️ 3K • 👍 336 • 💬 17 • ⏱️ 29:08 • 13h ago
 
 ---
 

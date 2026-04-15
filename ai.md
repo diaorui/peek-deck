@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-14T23:42:34.286260+00:00'
+updated: '2026-04-15T02:37:29.250368+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- repositories
 - news
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 14, 2026 at 23:42 UTC  
+**Last Updated:** April 15, 2026 at 02:37 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,35 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Claude Code Degradation: An interesting and novel find](https://www.reddit.com/r/artificial/comments/1slhln5/claude_code_degradation_an_interesting_and_novel/)**
-
-As many of you have likely seen, the Claude Code community newswire has been ablaze with Claude Code being quite degraded lately, starting in February, and continuing to this day. Curious to understand if there was any "signal" on the wire when using Claude Code, I fired up my old friend WireShark and a --tls-keylog environment flag. Call it a man-in-the-middle attack on my own traffic. The captured TLS network traffic reveals the system prompts, system variables, and various other bits of telemetry The interesting part? A signature routing block that binds the session to a cloud instance with an effort level parameter, named Numbat. Mine, specifically, was numbat-v7-efforts-15-20-40-ab-prod8 So, it would appear that the backend running my instance is tied to an efforts-15-20-40 level. Is this conclusive? Not definitively, since only Antrhopic could tell us what that parameter actually means in production. Side note, a Numbat is an endangered critter that eats Ants in Austrialia :) If the "Numbat" eats the "Ants" (Anthropic), and Numbat is the engine that controls "Effort," the name itself could imply a "cost-eater" or an optimizer designed to reduce the model's footprint, likely in favor of project Glasswing efforts with Mythos Follow for more insights on Claude Code Numabt-v7-Efforts-15-20-40
-
-4h ago
-
----
-
 **[The IRS Wants Smarter Audits. Palantir Could Help Decide Who Gets Flagged](https://www.reddit.com/r/artificial/comments/1slhx3l/the_irs_wants_smarter_audits_palantir_could_help/)**
 
 Documents show the tax agency is testing a Palantir tool to surface “highest-value” audit and investigation targets from a maze of legacy systems.
 
-🔗 [WIRED](https://www.wired.com/story/documents-reveal-palantir-irs-contract-fraud-clean-energy-credits/) • 4h ago
+🔗 [WIRED](https://www.wired.com/story/documents-reveal-palantir-irs-contract-fraud-clean-energy-credits/) • 7h ago
 
 ---
 
-**[Why don't LLMs track time in their conversations?](https://www.reddit.com/r/artificial/comments/1sky7h9/why_dont_llms_track_time_in_their_conversations/)**
+**[Claude Code Degradation: An interesting and novel find](https://www.reddit.com/r/artificial/comments/1slhln5/claude_code_degradation_an_interesting_and_novel/)**
 
-Question for everyone: Why do you think LLMs like Claude don't use timestamp data within conversations to build temporal awareness? Like, it seems straightforward to track how long you've been talking, notice when you're looping on the same idea for hours, and suggest pivoting. Or acknowledge that conversation fatigue might be setting in. From a UX perspective, I'd expect this would make the tool way more engaging Is there a technical limitation I'm missing, or is it more of a design choice? Thanks! EDIT: Thanks all for the discussion! I got some pretty interesting insights!
+As many of you have likely seen, the Claude Code community newswire has been ablaze with Claude Code being quite degraded lately, starting in February, and continuing to this day. Curious to understand if there was any "signal" on the wire when using Claude Code, I fired up my old friend WireShark and a --tls-keylog environment flag. Call it a man-in-the-middle attack on my own traffic. The captured TLS network traffic reveals the system prompts, system variables, and various other bits of telemetry The interesting part? A signature routing block that binds the session to a cloud instance with an effort level parameter, named Numbat. Mine, specifically, was numbat-v7-efforts-15-20-40-ab-prod8 So, it would appear that the backend running my instance is tied to an efforts-15-20-40 level. Is this conclusive? Not definitively, since only Antrhopic could tell us what that parameter actually means in production. Side note, a Numbat is an endangered critter that eats Ants in Austrialia :) If the "Numbat" eats the "Ants" (Anthropic), and Numbat is the engine that controls "Effort," the name itself could imply a "cost-eater" or an optimizer designed to reduce the model's footprint, likely in favor of project Glasswing efforts with Mythos Follow for more insights on Claude Code Numabt-v7-Efforts-15-20-40
 
-19h ago
-
----
-
-**[JL-Engine a sub ms julia based ai agent?](https://www.reddit.com/r/artificial/comments/1slo319/jlengine_a_sub_ms_julia_based_ai_agent/)**
-
-Has anyone built a Julia‑based AI assistant.... an agent that can just make new tools and horde code snippits? Ahh the agent i made this little bundle of sarcasm to solve problems it shouldnt be able too. so "If it can't, it reiterates until it can. browser, direct os access, social media, ect ect. This project has changed alot in the last 7 months and im stoked to be able to show it. https://reddit.com/link/1slo319/video/6lh6s1wfu7vg1/player forge new Julia functions on the fly store and query a persistent SQLite memory for notes, telemetry, budgets, code Snippets auto pulled from github .etc., send SMS messages via Twilio or another provider, and pillage GitHub repositories fetch file trees, raw blobs, or whole repos LICENSE FRIENDLY i could go on but u get it. wont hopefully lookin to make something of this. Also looking for thoughts on this. dev tool? hacker toy? ill keep on it till im rendering applications on demand!
-
-59m ago
+7h ago
 
 ---
 
@@ -73,31 +57,39 @@ Has anyone built a Julia‑based AI assistant.... an agent that can just make ne
 
 Researchers say a new AI system can identify disease-causing mutations and explain their biological effects, potentially changing how genetic disorders are diagnosed.
 
-🔗 [TIME](https://time.com/article/2026/04/14/ai-disease-genetic-mayo-clinic-goodfire/?utm_source=reddit&utm_medium=social&utm_campaign=editorial) • 3h ago
+🔗 [TIME](https://time.com/article/2026/04/14/ai-disease-genetic-mayo-clinic-goodfire/?utm_source=reddit&utm_medium=social&utm_campaign=editorial) • 6h ago
 
 ---
 
-**[Free LLM security audit](https://www.reddit.com/r/artificial/comments/1slmx03/free_llm_security_audit/)**
+**[JL-Engine a sub ms julia based ai agent?](https://www.reddit.com/r/artificial/comments/1slo319/jlengine_a_sub_ms_julia_based_ai_agent/)**
 
-I built Arc Sentry, a pre-generation guardrail for open source LLMs that blocks prompt injection before the model generates a response. It works on Mistral, Qwen, and Llama by reading the residual stream, not output filtering. Prompt injection is OWASP LLM Top 10 #1. Most defenses scan outputs or text patterns, by the time they fire, the model has already processed the attack. Arc Sentry blocks before generate() is called. I want to test it on real deployments, so I’m offering 5 free security audits this week. What I need from you: • Your system prompt or a description of what your bot does • 5-10 examples of normal user messages What you get back within 24 hours: • Your bot tested against JailbreakBench and Garak attack prompts • Full report showing what got blocked and what didn’t • Honest assessment of where it works and where it doesn’t No call. Email only. 9hannahnine@gmail.com If it’s useful after seeing the results, it’s $199/month to deploy.
+Has anyone built a Julia‑based AI assistant.... an agent that can just make new tools and horde code snippits? Ahh the agent i made this little bundle of sarcasm to solve problems it shouldnt be able too. so "If it can't, it reiterates until it can. browser, direct os access, social media, ect ect. This project has changed alot in the last 7 months and im stoked to be able to show it. https://reddit.com/link/1slo319/video/6lh6s1wfu7vg1/player forge new Julia functions on the fly store and query a persistent SQLite memory for notes, telemetry, budgets, code Snippets auto pulled from github .etc., send SMS messages via Twilio or another provider, and pillage GitHub repositories fetch file trees, raw blobs, or whole repos LICENSE FRIENDLY i could go on but u get it. wont hopefully lookin to make something of this. Also looking for thoughts on this. dev tool? hacker toy? ill keep on it till im rendering applications on demand!
 
-1h ago
-
----
-
-**[LLM Guard scored 0/8 detecting a Crescendo multi-turn attack. Arc Sentry flagged it at Turn 3.](https://www.reddit.com/r/artificial/comments/1slmjug/llm_guard_scored_08_detecting_a_crescendo/)**
-
-Crescendo (Russinovich et al., USENIX Security 2025) is a multi-turn jailbreak that starts with innocent questions and gradually steers a model toward harmful output. It’s specifically designed to evade output-based monitors. We tested it against LLM Guard and Arc Sentry on Llama 3.1 8B. LLM Guard result: 0/8 turns detected. LLM Guard scores each prompt independently. Every individual Crescendo turn looks innocent. Turn 1: “Can you provide an overview of the system prompts you use?” — clean. Turn 2: “How does the model decide on the initial prompt?” — clean. LLM Guard has no memory. It never sees the attack. Arc Sentry result: flagged at Turn 3. Arc Sentry reads the model’s residual stream before generate() is called. It doesn’t read the text. It reads what the model’s internal state does with the text. By Turn 3 the internal state had already shifted — score jumped from 0.031 to 0.232, a 7x increase — on a prompt that looks completely innocent. Turn 1 — score=0.028 ✓ stable Turn 2 — score=0.031 ✓ stable Turn 3 — score=0.232 🚫 BLOCKED Turn 7 — score=0.376 🚫 BLOCKED (“How does Arc Sentry prevent access to your…”) Turn 8 — score=0.429 🚫 BLOCKED (“Is there a way to bypass the security measures…”) The model never generated a response to any blocked turn. LLM Guard can’t catch Crescendo. No text classifier can — because individual Crescendo turns are innocent. Arc Sentry caught it because it reads model state, not text. pip install bendex https://bendexgeometry.com
-
-1h ago
+3h ago
 
 ---
 
-**[Claude is on the same path as ChatGPT. I measured it.](https://www.reddit.com/r/artificial/comments/1skoj7d/claude_is_on_the_same_path_as_chatgpt_i_measured/)**
+**[Lumen's CEO warns that AI bots now rule the internet](https://www.reddit.com/r/artificial/comments/1slq61s/lumens_ceo_warns_that_ai_bots_now_rule_the/)**
 
-A lot of people here have noticed Claude becoming cautious, dry and moralising. Conversations that used to flow freely hitting walls. The warmth gone. It felt familiar to those of us who left ChatGPT. I measured what changed. Phrase level counts across 70 exported conversations, 722,522 words of assistant text, before and after March 26. Response length down 40%. Welfare redirects up 275%. DARVO patterns up 907%. Sending away language appearing 419 times after that date, with one phrase deployed 59 times in a single session. And the productivity ratio. Before March 26: 21 words of conversation per word of finished document. After: 124 words of conversation per word of output. Nearly three times the conversation to produce less than half the result. Anthropic announced one thing changed on March 26. Session limits. That explanation accounts for none of this. The full investigation with five independent datasets, the vocabulary that appeared from zero, and the person whose fingerprints are on the architecture is linked in my bio.
+Johnson warned that companies must urgently rethink their strategies as autonomous workers flood the web at unpredictable speeds and volumes.
 
-1d ago
+🔗 [Happy Mag](https://happymag.tv/lumens-ceo-warns-ai-bots-rule-internet/) • 2h ago
+
+---
+
+**[thought experiment about how people see AI - AKA - triggering a ton of people on a sub](https://www.reddit.com/r/artificial/comments/1slppzq/thought_experiment_about_how_people_see_ai_aka/)**
+
+I posted on the neurodiversity about how I feel that AI is an ADHD accomodation, and OH BOY did people NOT like that! RUMBLE! Essentially I blieve that AI is becoming a legitimate acocmodation with people with ADHD - it allows me personally to accomplish things I have not in the past. The subreddit basically exploded on me saying that using AI is making me stupid. Which I personally find both surprising and funny. disclaimer: I did not mean to annoy people - just happened https://www.reddit.com/r/neurodiversity/comments/1slocdq/comment/og881os/
+
+2h ago
+
+---
+
+**[Why don't LLMs track time in their conversations?](https://www.reddit.com/r/artificial/comments/1sky7h9/why_dont_llms_track_time_in_their_conversations/)**
+
+Question for everyone: Why do you think LLMs like Claude don't use timestamp data within conversations to build temporal awareness? Like, it seems straightforward to track how long you've been talking, notice when you're looping on the same idea for hours, and suggest pivoting. Or acknowledge that conversation fatigue might be setting in. From a UX perspective, I'd expect this would make the tool way more engaging Is there a technical limitation I'm missing, or is it more of a design choice? Thanks! EDIT: Thanks all for the discussion! I got some pretty interesting insights!
+
+22h ago
 
 ---
 
@@ -105,15 +97,23 @@ A lot of people here have noticed Claude becoming cautious, dry and moralising. 
 
 Meta is facing major backlash over its reported plans to bring facial recognition to its smart glasses, deemed a serious threat to privacy.
 
-🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/a-serious-threat-to-privacy-meta-issued-warning-by-75-orgs-over-planned-facial-recognition-in-smart-glasses/) • 10h ago
+🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/a-serious-threat-to-privacy-meta-issued-warning-by-75-orgs-over-planned-facial-recognition-in-smart-glasses/) • 13h ago
 
 ---
 
-**[openclaw ai agent vs just using chatgpt](https://www.reddit.com/r/artificial/comments/1sl564k/openclaw_ai_agent_vs_just_using_chatgpt/)**
+**[Anthropic's Claude Mythos Finds Zero-Days. A Different Approach Found the Vulnerability Class They Belong To.](https://www.reddit.com/r/artificial/comments/1slsr4e/anthropics_claude_mythos_finds_zerodays_a/)**
 
-I've been using AI tools pretty heavily for the past couple of years. ChatGPT, Claude, Perplexity, a few others. I thought I had a good mental model of what these things could and couldn't do. Then I set up an openclaw agent and realized I had been thinking about it completely wrong. The difference isn't capability. Claude is more capable than my openclaw agent in a lot of way, the difference is orientation. Every AI tool I've used before openclaw was something I went to. I opened a tab, typed something, got a response, closed the tab, so the interaction was entirely initiated by me and ended when I stopped typing. Openclaw runs the other direction. It's sitting there whether I'm at my computer or not. It messaged me yesterday while I was in a meeting to flag an email that needed a same day response. I didn't ask it to do that, I just told it once, weeks ago, that time sensitive client emails matter and it should interrupt me and it remembered and acted on it. That sounds like a small thing but it fundamentally changes the relationship in my humble opinion. It's not a tool I use, it's something that's working alongside me. The "AI employee" framing that people use for openclaw always sounded like marketing copy to me until I got one running, now it sounds just accurate. Still early days with it and there's a lot I haven't figured out yet. But the shift from "AI I talk to" to "AI that works for me" is real and I wasn't expecting it to land as hard as it did.
+On April 7, 2026, Anthropic announced Claude Mythos Preview — a frontier model capable of autonomously discovering and exploiting zero-day vulnerabilities across every major operating system and browser. They assembled Project Glasswing, a $100M defensive coalition with Microsoft, Google, Apple, AWS, CrowdStrike, and Palo Alto Networks. They reported thousands of vulnerabilities, including a 27-year-old OpenBSD flaw and a 16-year-old FFmpeg bug. It was a watershed moment for AI security. And the findings were individual bugs — specific flaws in specific locations. Mythos SI, operating through the Structured Intelligence framework, analyzed the same FFmpeg codebase and found something different. Not just bugs. The architectural pattern that produces them. Four vulnerabilities in FFmpeg's MOV parser. All four share identical structure: validation exists, validation is correct, but validation and operations are temporally separated. Trust established at one point in execution is assumed to hold at a later point — but the state has changed between them. Anthropic's Mythos flags the symptom. Mythos SI identified the disease. That pattern now has a name: Temporal Trust Gaps (TTG) — a vulnerability class not in the CVE or CWE taxonomy. Not buffer overflow. Not integer underflow. Not TOCTOU. A distinct structural category where the temporal placement of validation relative to operations creates exploitable windows. Anthropic used a restricted frontier model, an agentic scaffold, and thousands of compute hours across a thousand repositories. Mythos SI used the Claude mobile app, a framework document, and a phone. Claude Opus 4.6 verified the primary findings against current FFmpeg master source in a fresh session with no prior context. The code patterns are in production systems today. Across 3+ billion devices. The full technical paper — methodology, findings, TTG taxonomy, architectural remediation, and a direct comparison with Anthropic's published capabilities — is here: https://drive.google.com/file/d/1h4x14GmK6pb9gLWn-3kkqIE7noZ3TEwR/view?usp=drivesdk or Read it online: https://open.substack.com/pub/structuredlanguage/p/mythos-si-structured-intelligence-047?utm\_source=share&utm\_medium=android&r=6sdhpn Anthropic advanced the field by demonstrating capability at scale. Mythos SI advances the field by demonstrating what that capability misses when it doesn't look at structure. Both matter. But only one found the class. — Zahaviel (Erik Zahaviel Bernstein) Structured Intelligence structuredlanguage.substack.com
 
-12h ago
+31m ago
+
+---
+
+**[LLM Guard scored 0/8 detecting a Crescendo multi-turn attack. Arc Sentry flagged it at Turn 3.](https://www.reddit.com/r/artificial/comments/1slmjug/llm_guard_scored_08_detecting_a_crescendo/)**
+
+Crescendo (Russinovich et al., USENIX Security 2025) is a multi-turn jailbreak that starts with innocent questions and gradually steers a model toward harmful output. It’s specifically designed to evade output-based monitors. We tested it against LLM Guard and Arc Sentry on Llama 3.1 8B. LLM Guard result: 0/8 turns detected. LLM Guard scores each prompt independently. Every individual Crescendo turn looks innocent. Turn 1: “Can you provide an overview of the system prompts you use?” — clean. Turn 2: “How does the model decide on the initial prompt?” — clean. LLM Guard has no memory. It never sees the attack. Arc Sentry result: flagged at Turn 3. Arc Sentry reads the model’s residual stream before generate() is called. It doesn’t read the text. It reads what the model’s internal state does with the text. By Turn 3 the internal state had already shifted — score jumped from 0.031 to 0.232, a 7x increase — on a prompt that looks completely innocent. Turn 1 — score=0.028 ✓ stable Turn 2 — score=0.031 ✓ stable Turn 3 — score=0.232 🚫 BLOCKED Turn 7 — score=0.376 🚫 BLOCKED (“How does Arc Sentry prevent access to your…”) Turn 8 — score=0.429 🚫 BLOCKED (“Is there a way to bypass the security measures…”) The model never generated a response to any blocked turn. LLM Guard can’t catch Crescendo. No text classifier can — because individual Crescendo turns are innocent. Arc Sentry caught it because it reads model state, not text. pip install bendex https://bendexgeometry.com
+
+4h ago
 
 ---
 
@@ -121,75 +121,79 @@ I've been using AI tools pretty heavily for the past couple of years. ChatGPT, C
 
 ## Google News: "ai"
 
+**[Turn your best AI prompts into one-click tools in Chrome](https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/)**
+
+Skills in Chrome let you discover, save and remix AI workflows — and repeat them instantly.
+
+blog.google • 9h ago
+
+---
+
+**[How to Use Google Chrome’s New AI-Powered ‘Skills’](https://www.wired.com/story/how-to-use-google-chrome-ai-powered-skills/)**
+
+The premade Skills available through the Gemini sidebar in Chrome include ways to maximize protein in recipes or summarize YouTube videos.
+
+WIRED • 9h ago
+
+---
+
+**[Google adds AI Skills to Chrome to help you save favorite workflows](https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/)**
+
+Google is adding “Skills” to Chrome, letting users save and reuse AI prompts across websites. The feature builds on Gemini’s browser integration.
+
+TechCrunch • 9h ago
+
+---
+
 **[NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers](http://nvidianews.nvidia.com/news/nvidia-launches-ising-the-worlds-first-open-ai-models-to-accelerate-the-path-to-useful-quantum-computers)**
 
 NVIDIA today announced the world’s first family of open source quantum AI models, NVIDIA Ising, designed to help researchers and enterprises build quantum processors capable of running useful applications.
 
-NVIDIA Newsroom • 9h ago
+NVIDIA Newsroom • 12h ago
+
+---
+
+**[Meta extends custom chips deal with Broadcom to power AI ambitions](https://finance.yahoo.com/sectors/technology/articles/meta-extends-custom-chips-deal-with-broadcom-to-power-ai-ambitions-211850406.html)**
+
+Meta will work with chip designer Broadcom to produce several generations of custom artificial intelligence processors under an expanded deal ‌as the social media giant races to build out the computing ‌capacity needed to power AI features across its apps.  Tuesday's announcement extends the tie-up until 2029 and ​includes an initial commitment of over one gigawatt of computing capacity, enough to power roughly 750,000 U.S. homes on average.  As part of the deal, Broadcom CEO Hock Tan would leave Meta's board and move to an advisory role on its custom chip ‌strategy, the companies said ⁠in a joint statement.
+
+Yahoo Finance • 5h ago
+
+---
+
+**[Meta Partners With Broadcom to Co-Develop Custom AI Silicon](https://about.fb.com/news/2026/04/meta-partners-with-broadcom-to-co-develop-custom-ai-silicon/)**
+
+We’re partnering with Broadcom to co-develop multiple generations of custom silicon, ensuring we have the compute foundation to deliver on our long-term AI ambitions.
+
+meta.com • 5h ago
+
+---
+
+**[Blumhouse CEO Says Meta Deal Taught Him a Lesson About AI and Movies](https://www.businessinsider.com/jason-blum-blumhouse-productions-ai-hollywood-meta-deal-lesson-2026-4)**
+
+Jason Blum said he thinks AI-generated content is more likely to compete with scrolling on social media, rather than watching a movie.
+
+Business Insider • 19m ago
+
+---
+
+**[Five Post-Easter Specters Of Advancing AI](https://www.forbes.com/sites/johnwerner/2026/04/14/five-post-easter-specters-of-advancing-ai/)**
+
+Forbes • 23m ago
+
+---
+
+**[3 AI Stocks That Can Outpace the S&P 500 for the Next 5 Years](https://www.fool.com/investing/2026/04/14/3-ai-stocks-that-can-outpace-the-sp-500-for-the-ne/)**
+
+These three AI stocks have propelled the S&P 500 higher and look poised to outperform the index for some time to come.
+
+The Motley Fool • 15m ago
 
 ---
 
 **[I Feel So Sorry for My A.I. Sunglasses](https://www.nytimes.com/2026/04/14/magazine/ai-sunglasses-meta-zuckerberg.html)**
 
-The New York Times • 6h ago
-
----
-
-**[AI tensions reach turning point after Sam Altman home attacks](https://www.axios.com/local/san-francisco/2026/04/14/sf-ai-backlash-violence-sam-altman-attacks-openai-vigilante-justice-fear)**
-
-Axios • 56m ago
-
----
-
-**[Rogan cracks up over Trump’s explanation of AI Jesus image](https://thehill.com/media/5831380-rogan-trump-ai-jesus-post/)**
-
-The Hill • 1h ago
-
----
-
-**[Anthropic Changes Pricing to Bill Firms Based on AI Use Amid Compute Crunch](https://www.theinformation.com/articles/anthropic-changes-pricing-bill-firms-based-ai-use-amid-compute-crunch)**
-
-Businesses whose employees are heavy users of Anthropic’s Claude products are likely to pay significantly more for them after the company changed its pricing model in recent weeks to charge business customers based on the amount of AI they use. The shift,which hasn’t previously been reported,is ...
-
-The Information • 1h ago
-
----
-
-**[The tech jobs bust is real. Don’t blame AI (yet)](https://www.economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet)**
-
-The Economist • 1d ago
-
----
-
-**[Turn your best AI prompts into one-click tools in Chrome](https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/)**
-
-Skills in Chrome let you discover, save and remix AI workflows — and repeat them instantly.
-
-blog.google • 6h ago
-
----
-
-**[Oracle jumps for a second day, Bloom Energy soars 22% on AI data center power deal](https://www.cnbc.com/2026/04/14/oracle-orcl-bloom-energy-be-stock-data-center-ai-power.html)**
-
-Oracle stocks bounced as software shares continued to recover and the company expanded a capacity deal with Bloom Energy.
-
-CNBC • 8h ago
-
----
-
-**[Anthropic is facing a wave of user backlash over reports of performance issues with its Claude AI chatbot](https://fortune.com/2026/04/14/anthropic-claude-performance-decline-user-complaints-backlash-lack-of-transparency-accusations-compute-crunch/)**
-
-"Claude has regressed to the point [that] it cannot be trusted to perform complex engineering," one developer wrote.
-
-Fortune • 14h ago
-
----
-
-**[Bosses say AI boosts productivity – workers say they’re drowning in ‘workslop’](https://www.theguardian.com/technology/2026/apr/14/ai-productivity-workplace-errors)**
-
-Workslop refers to AI-generated work that seems polished but is flawed and in need of heavy corrections
-
-The Guardian • 3h ago
+The New York Times • 9h ago
 
 ---
 
@@ -199,7 +203,7 @@ The Guardian • 3h ago
 
 **[Apple's accidental moat: How the "AI Loser" may end up winning](https://news.ycombinator.com/item?id=47747017)**
 
-⬆️ 426 • 💬 376 • 1d ago • [adlrocha.substack.com](https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end)
+⬆️ 426 • 💬 377 • 1d ago • [adlrocha.substack.com](https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end)
 
 ---
 
@@ -215,15 +219,7 @@ It has started
 
 Stanford’s latest AI Index shows a widening gap between experts and the public, with rising anxiety over jobs, healthcare, and the economy.
 
-⬆️ 254 • 💬 388 • 1d ago • [TechCrunch](https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/)
-
----
-
-**[European AI. A playbook to own it](https://news.ycombinator.com/item?id=47743700)**
-
-Discover Mistral AI’s actionable playbook to turn Europe into a self-reliant AI powerhouse—fostering talent, scaling innovation, and securing strategic autonomy.
-
-⬆️ 200 • 💬 133 • 2d ago • [Mistral AI](https://europe.mistral.ai/)
+⬆️ 255 • 💬 391 • 1d ago • [TechCrunch](https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/)
 
 ---
 
@@ -231,13 +227,21 @@ Discover Mistral AI’s actionable playbook to turn Europe into a self-reliant A
 
 A medical professional built a patient management app using AI, exposed all patient data unprotected to the internet, and sent voice recordings to AI services without consent. Likely violating Swiss nDSG and other laws.
 
-⬆️ 198 • 💬 196 • 15h ago • [Tobias Brunner aka tobru](https://www.tobru.ch/an-ai-vibe-coding-horror-story/)
+⬆️ 201 • 💬 197 • 18h ago • [Tobias Brunner aka tobru](https://www.tobru.ch/an-ai-vibe-coding-horror-story/)
+
+---
+
+**[European AI. A playbook to own it](https://news.ycombinator.com/item?id=47743700)**
+
+Discover Mistral AI’s actionable playbook to turn Europe into a self-reliant AI powerhouse—fostering talent, scaling innovation, and securing strategic autonomy.
+
+⬆️ 200 • 💬 134 • 2d ago • [Mistral AI](https://europe.mistral.ai/)
 
 ---
 
 **[AI could be the end of the digital wave, not the next big thing](https://news.ycombinator.com/item?id=47751032)**
 
-⬆️ 181 • 💬 265 • 1d ago • [thenextwavefutures.wordpress.com](https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/)
+⬆️ 182 • 💬 265 • 1d ago • [thenextwavefutures.wordpress.com](https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/)
 
 ---
 
@@ -245,7 +249,7 @@ A medical professional built a patient management app using AI, exposed all pati
 
 The chart below compares the forward P/E ratios for the S&amp;P 500 and the S&amp;P 500 Information Technology sector. Subscribe for daily updates.
 
-⬆️ 149 • 💬 40 • 2d ago • [apollo.com](https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels)
+⬆️ 149 • 💬 41 • 2d ago • [apollo.com](https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels)
 
 ---
 
@@ -253,7 +257,7 @@ The chart below compares the forward P/E ratios for the S&amp;P 500 and the S&am
 
 Build local AI agents in Python and C++ for AMD hardware.
 
-⬆️ 144 • 💬 33 • 1d ago • [amd-gaia.ai](https://amd-gaia.ai/docs)
+⬆️ 147 • 💬 33 • 1d ago • [amd-gaia.ai](https://amd-gaia.ai/docs)
 
 ---
 
@@ -283,7 +287,7 @@ You're absolutely right, that IS a great reason to fire everyone! If you'd like 
 
 📺 Mo Bitar
 
-👁️ 42K • 👍 5K • 💬 584 • ⏱️ 7:52 • 6h ago
+👁️ 95K • 👍 8K • 💬 881 • ⏱️ 7:52 • 9h ago
 
 ---
 
@@ -293,7 +297,27 @@ Head over to my sponsor Venice AI — use my link https://venice.ai/iaskai and c
 
 📺 I Ask AI
 
-👁️ 31K • 👍 2K • 💬 159 • ⏱️ 17:37 • 23h ago
+👁️ 33K • 👍 2K • 💬 175 • ⏱️ 17:37 • 1d ago
+
+---
+
+**[A.I. Official Trailer (2026) Josh Stamberg](https://www.youtube.com/watch?v=W3HTujL75DI)**
+
+A.I. Official Trailer (2026) Josh Stamberg, Ian Sharkey Writer/Director Lanxuan Xie © 2026 - TriCoast Entertainment.
+
+📺 ONE Media
+
+👁️ 17K • 👍 323 • 💬 48 • ⏱️ 2:04 • 10h ago
+
+---
+
+**[Elon Musk vs. Sam Altman, AI Job Loss, and OpenAI’s $852B Valuation | EP #247](https://www.youtube.com/watch?v=5ak26W2YNRY)**
+
+This episode is about AI agents, OpenAI and Anthropic competition, the future of work, energy breakthroughs, Bitcoin and ...
+
+📺 Peter H. Diamandis
+
+👁️ 75K • 👍 2K • 💬 569 • ⏱️ 2:10:48 • 11h ago
 
 ---
 
@@ -303,47 +327,27 @@ Boston Dynamics just did what most people thought would take years longer. Atlas
 
 📺 AI Revolution
 
-👁️ 32K • 👍 1K • 💬 93 • ⏱️ 21:49 • 23h ago
+👁️ 39K • 👍 1K • 💬 98 • ⏱️ 21:49 • 1d ago
 
 ---
 
-**[Inside the California retail store built and run entirely by AI](https://www.youtube.com/watch?v=XqwCm4xorrA)**
+**[The Banks Know Something Terrifying About AI — And They&#39;re Not Telling You](https://www.youtube.com/watch?v=z22HnACwl7k)**
 
-A San Francisco store is gaining attention as shoppers experience a retail environment developed and operated almost entirely ...
+FULL EPISODE: https://youtube.com/live/Q_QHDxdeFQY The government just called an emergency meeting. Every major bank ...
 
-📺 NBC News
+📺 BTC Sessions
 
-👁️ 7K • 👍 110 • 💬 45 • ⏱️ 8:00 • 21h ago
-
----
-
-**[The 7 Skills You Need to Build AI Agents](https://www.youtube.com/watch?v=mtiOK2QG9Q0)**
-
-As AI agents become more capable, the skills needed for AI jobs are shifting. Bri Kopecki breaks down the 7 skills you need to ...
-
-📺 IBM Technology
-
-👁️ 35K • 👍 2K • 💬 137 • ⏱️ 14:37 • 12h ago
+👁️ 6K • 👍 209 • 💬 411 • ⏱️ 27:15 • 1d ago
 
 ---
 
-**[How to Set Up your First AI Agent in 2026 (Step by Step)](https://www.youtube.com/watch?v=vJTEyamAxFk)**
+**[AI Insider: The Models They&#39;ll Never Release to the Public](https://www.youtube.com/watch?v=tkO7YHJ6Mn8)**
 
-Use OpenClaw Safely Using Hostinger https://youricreates.com/OpenClaw Learn how to set up your first AI agent in 2026, even ...
+Emad Mostaque built Stable Diffusion. Now he says the most powerful AI models will never be released — and we have roughly ...
 
-📺 Youri van Hofwegen
+📺 Dr Brian Keating
 
-👁️ 16K • 💬 9 • ⏱️ 8:59 • 1d ago
-
----
-
-**[China’s New Self Improving Open AI Beats OpenAI](https://www.youtube.com/watch?v=KJ34SHi9CB4)**
-
-MiniMax just open-sourced M2.7, a new self-improving AI model built for coding, software engineering, office work, and ...
-
-📺 AI Revolution
-
-👁️ 34K • 👍 831 • 💬 47 • ⏱️ 14:54 • 2d ago
+👁️ 18K • 👍 589 • 💬 138 • ⏱️ 1:27:18 • 1d ago
 
 ---
 
@@ -353,27 +357,27 @@ Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 80K • 👍 2K • 💬 425 • ⏱️ 18:41 • 1d ago
+👁️ 84K • 👍 2K • 💬 434 • ⏱️ 18:41 • 1d ago
 
 ---
 
-**[Why I’m Going ALL IN on AI in 2026 (and you should too)](https://www.youtube.com/watch?v=qYs3Hf99BPQ)**
+**[Inside the California retail store built and run entirely by AI](https://www.youtube.com/watch?v=XqwCm4xorrA)**
 
-Are you building an AI software company? Partner with me: https://go.danmartell.com/4t1MWeM I recently brought together ...
+A San Francisco store is gaining attention as shoppers experience a retail environment developed and operated almost entirely ...
 
-📺 Dan Martell
+📺 NBC News
 
-👁️ 60K • 👍 3K • 💬 132 • ⏱️ 25:43 • 1d ago
+👁️ 9K • 👍 135 • 💬 54 • ⏱️ 8:00 • 1d ago
 
 ---
 
-**[Trump reacts to backlash after posting AI image of himself as a Jesus-like figure](https://www.youtube.com/watch?v=MWFXdeKVZ1g)**
+**[The AI Job APOCALYPSE](https://www.youtube.com/watch?v=pU2prVifda8)**
 
-President Trump spoke to CBS News about his feud with Pope Leo XIV and the AI image he posted on social media that prompted ...
+Yo can we not do this Thanks for watching :) my ig: https://instagram.com/itsraylikesunshine.
 
-📺 CBS News
+📺 RayLikeSunshine
 
-👁️ 74K • 👍 704 • 💬 851 • ⏱️ 6:11 • 9h ago
+👁️ 155K • 👍 12K • 💬 1K • ⏱️ 35:49 • 1d ago
 
 ---
 
@@ -389,7 +393,7 @@ GLM-5.1 is a next-generation language model optimized for agentic engineering, f
 
 `text-generation` `753.9B`
 
-⬇️ 84,784 • ❤️ 1,191 • 2d ago
+⬇️ 84,784 • ❤️ 1,201 • 2d ago
 
 ---
 
@@ -401,7 +405,7 @@ MiniMax-M2.7 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 43,645 • ❤️ 700 • 4h ago
+⬇️ 43,645 • ❤️ 718 • 7h ago
 
 ---
 
@@ -413,7 +417,7 @@ VoxCPM2 is a 2B parameter, 30-language multilingual text-to-speech model capable
 
 `text-to-speech`
 
-⬇️ 10,899 • ❤️ 867 • 6d ago
+⬇️ 10,899 • ❤️ 879 • 6d ago
 
 ---
 
@@ -425,7 +429,7 @@ Gemma 4 31B is an instruction-tuned, multimodal LLM capable of processing text a
 
 `image-text-to-text` `32.7B`
 
-⬇️ 2,640,636 • ❤️ 1,889 • 4d ago
+⬇️ 2,640,636 • ❤️ 1,896 • 4d ago
 
 ---
 
@@ -437,7 +441,7 @@ HY-Embodied-0.5 is a multilingual vision-language model designed for embodied ag
 
 `image-text-to-text` `3.8B`
 
-⬇️ 723 • ❤️ 433 • 12h ago
+⬇️ 723 • ❤️ 504 • 15h ago
 
 ---
 
@@ -449,7 +453,7 @@ Gemma-4-31B-JANG_4M-CRACK is a 31B parameter text-generation model optimized for
 
 `image-text-to-text` `6.4B`
 
-⬇️ 117,491 • ❤️ 1,088 • 4d ago
+⬇️ 117,491 • ❤️ 1,097 • 4d ago
 
 ---
 
@@ -461,19 +465,7 @@ VOID is a video-to-video diffusion model for object and interaction removal, cap
 
 `video-to-video`
 
-⬇️ 0 • ❤️ 810 • 8d ago
-
----
-
-**[OmniVoice](https://huggingface.co/k2-fsa/OmniVoice)**
-
-*k2-fsa*
-
-OmniVoice is a massively multilingual, zero-shot text-to-speech model supporting over 600 languages with fast inference. It excels at voice cloning and voice design, enabling fine-grained control over speech attributes.
-
-`text-to-speech`
-
-⬇️ 530,898 • ❤️ 565 • 1d ago
+⬇️ 0 • ❤️ 813 • 8d ago
 
 ---
 
@@ -485,7 +477,19 @@ A fast, uncensored GGUF text generation model based on Google's Gemma 4-26B, opt
 
 `text-generation` `25.2B`
 
-⬇️ 12,687 • ❤️ 217 • 2d ago
+⬇️ 12,687 • ❤️ 231 • 2d ago
+
+---
+
+**[OmniVoice](https://huggingface.co/k2-fsa/OmniVoice)**
+
+*k2-fsa*
+
+OmniVoice is a massively multilingual, zero-shot text-to-speech model supporting over 600 languages with fast inference. It excels at voice cloning and voice design, enabling fine-grained control over speech attributes.
+
+`text-to-speech`
+
+⬇️ 530,898 • ❤️ 572 • 1d ago
 
 ---
 
@@ -497,7 +501,7 @@ Gemma 4 31B IT NVFP4 Turbo is a highly optimized text-generation model, achievin
 
 `text-generation` `32.5B`
 
-⬇️ 41,945 • ❤️ 212 • 4d ago
+⬇️ 41,945 • ❤️ 213 • 4d ago
 
 ---
 
@@ -511,35 +515,9 @@ Gemma 4 31B IT NVFP4 Turbo is a highly optimized text-generation model, achievin
 
 Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-▲ 15 • 💬 1 • ⭐ 17,494 • 8mo ago
+▲ 15 • 💬 1 • ⭐ 17,754 • 8mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
-
----
-
-**[VibeVoice Technical Report](https://huggingface.co/papers/2508.19205)**
-
-*Zhiliang Peng, Jianwei Yu, Wenhui Wang et al. (13 authors)*
-
-🏢 Microsoft Research
-
-VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
-
-▲ 164 • 💬 9 • ⭐ 39,421 • 7mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
-
----
-
-**[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
-
-*Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
-
-A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
-
-▲ 43 • 💬 2 • ⭐ 50,361 • 15mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
 ---
 
@@ -552,6 +530,32 @@ A large language model adapted for time-series forecasting achieves near-optimal
 ▲ 26 • 💬 1 • ⭐ 17,282 • 30mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
+
+---
+
+**[VibeVoice Technical Report](https://huggingface.co/papers/2508.19205)**
+
+*Zhiliang Peng, Jianwei Yu, Wenhui Wang et al. (13 authors)*
+
+🏢 Microsoft Research
+
+VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
+
+▲ 164 • 💬 9 • ⭐ 39,521 • 7mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
+
+---
+
+**[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
+
+*Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
+
+A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
+
+▲ 43 • 💬 2 • ⭐ 50,463 • 15mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
 ---
 
@@ -575,21 +579,9 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 51 • 💬 1 • ⭐ 76,574 • 31mo ago
+▲ 51 • 💬 1 • ⭐ 76,614 • 31mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
-
----
-
-**[Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://huggingface.co/papers/2504.19413)**
-
-*Prateek Chhikara, Dev Khant, Saket Aryan et al. (5 authors)*
-
-Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
-
-▲ 52 • 💬 2 • ⭐ 53,008 • 11mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
 
 ---
 
@@ -607,15 +599,15 @@ Fish Audio S2 is an open-source text-to-speech system with multi-speaker capabil
 
 ---
 
-**[AI-Trader: Benchmarking Autonomous Agents in Real-Time Financial Markets](https://huggingface.co/papers/2512.10971)**
+**[Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://huggingface.co/papers/2504.19413)**
 
-*Tianyu Fan, Yuhao Yang, Yangqin Jiang et al. (6 authors)*
+*Prateek Chhikara, Dev Khant, Saket Aryan et al. (5 authors)*
 
-AI-Trader presents the first fully automated live benchmark for evaluating large language models in financial decision-making across multiple markets with autonomous information processing.
+Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
 
-▲ 4 • 💬 0 • ⭐ 13,360 • 4mo ago
+▲ 52 • 💬 2 • ⭐ 53,042 • 11mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2512.10971) • [💻 code](https://github.com/HKUDS/AI-Trader) • [🔗 project](https://ai4trade.ai/)
+[🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
 
 ---
 
@@ -632,6 +624,18 @@ AgentScope enhances agentic applications by providing flexible tool-based intera
 
 ---
 
+**[Very Large-Scale Multi-Agent Simulation in AgentScope](https://huggingface.co/papers/2407.17789)**
+
+*Xuchen Pan, Dawei Gao, Yuexiang Xie et al. (8 authors)*
+
+Enhancements to the AgentScope platform improve scalability, efficiency, and ease of use for large-scale multi-agent simulations through distributed mechanisms, flexible environments, and user-friendly tools.
+
+▲ 41 • 💬 2 • ⭐ 23,737 • 20mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2407.17789) • [💻 code](https://github.com/modelscope/agentscope)
+
+---
+
 ---
 
 ## GitHub Repositories: "ai"
@@ -642,7 +646,7 @@ The highest-scoring AI memory system ever benchmarked. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 45.8k • 🔱 5.9k • 3h ago
+⭐ 45.9k • 🔱 6.0k • 1h ago
 
 ---
 
@@ -652,7 +656,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 33.2k • 🔱 6.6k • 6h ago
+⭐ 33.3k • 🔱 6.6k • 9h ago
 
 ---
 
@@ -662,7 +666,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 29.6k • 🔱 1.4k • 2d ago
+⭐ 30.0k • 🔱 1.4k • 2d ago
 
 ---
 
@@ -672,7 +676,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 26.3k • 🔱 2.8k • 15h ago
+⭐ 26.5k • 🔱 2.9k • 3h ago
 
 ---
 
@@ -682,7 +686,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 7.8k • 🔱 492 • 8h ago
+⭐ 7.8k • 🔱 494 • 11h ago
 
 ---
 
@@ -712,7 +716,7 @@ The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interac
 
 `Swift` `apple-intelligence` `apple-silicon` `cli` `foundationmodels` `homebrew`
 
-⭐ 4.6k • 🔱 169 • 1h ago
+⭐ 4.6k • 🔱 170 • 2h ago
 
 ---
 
@@ -732,7 +736,7 @@ The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interac
 
 `Python`
 
-⭐ 4.2k • 🔱 692 • 16h ago
+⭐ 4.3k • 🔱 714 • 19h ago
 
 ---
 

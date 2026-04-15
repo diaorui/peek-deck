@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-14T23:42:34.304107+00:00'
+updated: '2026-04-15T02:37:29.267754+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 14, 2026 at 23:42 UTC  
+**Last Updated:** April 15, 2026 at 02:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,13 @@ Robotics research and industry news
 
 OpenArm is an open-source humanoid arm platform developed by Enactic in Tokyo. It includes full CAD files, control code, firmware, and simulation tools, allowing users to build, modify, and test the system themselves. The arms are compliant and backdrivable, with teleoperation support that includes force feedback and gravity compensation. It also integrates with MuJoCo and Isaac Sim, enabling simulation-first development before running on real hardware. Project page: https://github.com/enactic/OpenArm
 
-6h ago
+9h ago
+
+---
+
+**[Automated Guided Vehicles At Long Beach Container Terminal](https://www.reddit.com/r/robotics/comments/1slnxdj/automated_guided_vehicles_at_long_beach_container/)**
+
+4h ago
 
 ---
 
@@ -44,13 +50,15 @@ OpenArm is an open-source humanoid arm platform developed by Enactic in Tokyo. I
 
 Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/2043873782620926032
 
-13h ago
+16h ago
 
 ---
 
-**[Automated Guided Vehicles At Long Beach Container Terminal](https://www.reddit.com/r/robotics/comments/1slnxdj/automated_guided_vehicles_at_long_beach_container/)**
+**[Google DeepMind launches Gemini Robotics ER 1.6, a reasoning-first model that enables robots to understand environments through spatial reasoning and multi-view understanding](https://www.reddit.com/r/robotics/comments/1sltawg/google_deepmind_launches_gemini_robotics_er_16_a/)**
 
-1h ago
+Blog post: Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning: https://deepmind.google/blog/gemini-robotics-er-1-6/ From Google DeepMind on 𝕏: https://x.com/GoogleDeepMind/status/2044069878781390929
+
+6m ago
 
 ---
 
@@ -62,11 +70,19 @@ Two weeks ago, I quit my job at a robotics company. I didn't have another offer 
 
 ---
 
+**[Josh Bongard’s talks have a criminally low amount of views..](https://www.reddit.com/r/robotics/comments/1slr4d3/josh_bongards_talks_have_a_criminally_low_amount/)**
+
+https://youtube.com/@joshbongard3314?si=SUzZJityisRA-UE8 It is honestly wild to me how few views Josh Bongard’s YouTube lectures have. He has been doing fascinating work at the intersection of artificial intelligence, evolutionary systems, robotics, and intelligence itself, his talks are full of substance and he is a close collaborator of Michael Levin. No hype, just real ideas from someone who has spent years thinking deeply about how minds and machines emerge, adapt, and learn.
+
+1h ago
+
+---
+
 **[Time travel debugging for robots](https://www.reddit.com/r/robotics/comments/1slj6x3/time_travel_debugging_for_robots/)**
 
 Check out why we built determinism as a core principle for our open source copper-rs project. Imagine being able to instantly reproduce deterministically any bug on your robotics platform, just jumping at the time the mistake happened, fix it, compare and never regress. https://youtu.be/eMpEeXYkQDw
 
-4h ago
+6h ago
 
 ---
 
@@ -88,23 +104,7 @@ Zack Jackowski, VP of Atlas Product at Boston Dynamics, explains that the first 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/pY5s8RPUAwo?si=GtUB0T0mQDFhVWyd) • 6h ago
-
----
-
-**[Building a Robot task planner using a textual scene representation and LLMs](https://www.reddit.com/r/robotics/comments/1sko1to/building_a_robot_task_planner_using_a_textual/)**
-
-This is a concept I worked on for a company a while ago. Using movement primitives, we wanted to explore how well a robot can plan tasks and then run them in simulation. The verdict was that it's surprisingly powerful. I go into detail how it works on my blogpost https://boesch.dev/posts/llm-trajectory/, but the gist is that composite movement primitives with higher order primitives can lead to a very rich set of tools for LLM task planning. Try the demo here: https://llm-trajectory.boesch.dev/ Or run it yourself with a more powerful LLM: https://github.com/Encrux/llm_trajectory
-
-1d ago
-
----
-
-**[Compete in a Robot Dog Fight at London’s Outernet](https://www.reddit.com/r/robotics/comments/1slcjnh/compete_in_a_robot_dog_fight_at_londons_outernet/)**
-
-Hi all, We’re running a live quadruped robot combat event and would genuinely value input from this community. The concept is to create a competitive format where engineers and roboticists can push their machines in a controlled, real-world environment. Think of it as an intersection of robotics research, sport, and entertainment. The first pilot is planned for 3 July at Outernet in London. Would you consider competing in something like this? What technical or safety considerations would be essential? What rules or constraints would make it credible and worthwhile? Has anyone here worked on quadrupeds in competitive or high-stress environments? If you’ve built with platforms like Unitree or similar systems, your perspective would be especially valuable. Happy to share more context if helpful, and keen to hear your thoughts.
-
-7h ago
+🔗 [youtu.be](https://youtu.be/pY5s8RPUAwo?si=GtUB0T0mQDFhVWyd) • 9h ago
 
 ---
 
@@ -116,23 +116,21 @@ Hi all, We’re running a live quadruped robot combat event and would genuinely 
 
 Gemini Robotics ER 1.6 upgrades spatial reasoning and multi-view understanding, unlocking new capabilities like instrument reading for autonomous robots.
 
-Google DeepMind • 8h ago
+Google DeepMind • 11h ago
 
 ---
 
-**[Gemini Robotics ER-1.6 enhances reasoning to help robots navigate real-world tasks.](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-1-6/)**
+**[Tools for Your To Do List with Spot and Gemini Robotics](https://bostondynamics.com/blog/tools-for-your-to-do-list-with-spot-and-gemini-robotics/)**
 
-An overview of Gemini Robotics-ER 1.6, an upgrade to our reasoning-first model that helps robots to understand their environment.
+A recent demo shows Boston Dynamics Spot in a residential home, using Google’s visual-language model (VLM) Gemini Robotics-ER 1.5 for embodied reasoning.
 
-blog.google • 8h ago
+Boston Dynamics • 11h ago
 
 ---
 
-**[​Boston Dynamics and Google DeepMind Teach Spot to Reason​](https://spectrum.ieee.org/boston-dynamics-spot-google-deepmind)**
+**[Google's DeepMind launches more advanced Gemini robotics (GOOG:NASDAQ)](https://seekingalpha.com/news/4574852-googles-deepmind-launches-more-advanced-gemini-robotics)**
 
-The addition of Gemini Robotics brings embodied AI reasoning to inspection robots
-
-IEEE Spectrum • 3h ago
+Seeking Alpha • 10h ago
 
 ---
 
@@ -140,35 +138,21 @@ IEEE Spectrum • 3h ago
 
 “The occupiers surrendered, and the operation was carried out without infantry and without losses on our side,” says Ukrainian leader.
 
-politico.eu • 14h ago
+politico.eu • 17h ago
+
+---
+
+**[Ukraine’s military robot surge aims to offset drone risks to humans](https://arstechnica.com/ai/2026/04/ukraines-military-robot-surge-aims-to-offset-drone-risks-to-humans/)**
+
+Ukraine is replacing more soldiers with robots in the battlefield kill zone.
+
+Ars Technica • 3h ago
 
 ---
 
 **[First victory for the battle brigade run by robots alone](https://www.thetimes.com/world/russia-ukraine-war/article/ukraine-robot-army-war-russia-surrender-jvld9rllc)**
 
-The Times • 12h ago
-
----
-
-**[Ukraine said it captured a Russian position using only ground robots and drones, no infantry, for the first time](https://www.businessinsider.com/ukraine-russia-position-taken-without-using-troops-just-robots-drones-2026-4)**
-
-President Volodymyr Zelenskyy said a Russian position was taken for the first time without using any Ukrainian infantry, only uncrewed systems.
-
-Business Insider • 11h ago
-
----
-
-**[Commentary: Am I the only one who hates delivery robots?](https://www.latimes.com/entertainment-arts/story/2026-04-14/delivery-robots-creating-problems-glendale-ban)**
-
-They may have seemed cute when they debuted, but delivery robots are clogging sidewalks, creeping through intersections and generally creating many more problems than they solve.
-
-Los Angeles Times • 13h ago
-
----
-
-**[Hyundai Motor Chairman Doubles Down On AI And Robotics](https://www.forbes.com/sites/catzxwang/2026/04/13/hyundai-motor-chairman-doubles-down-on-ai-and-robotics/)**
-
-Forbes • 1d ago
+The Times • 15h ago
 
 ---
 
@@ -180,11 +164,25 @@ AP News • 1d ago
 
 ---
 
-**[Chinese humanoid robots prepare for second-ever half marathon in Beijing](https://www.nbcnews.com/video/chinese-humanoid-robots-prepare-for-second-ever-half-marathon-in-beijing-261285445622)**
+**[Hyundai Motor Chairman Doubles Down On AI And Robotics](https://www.forbes.com/sites/catzxwang/2026/04/13/hyundai-motor-chairman-doubles-down-on-ai-and-robotics/)**
 
-Chinese humanoid robots train to go head-to-head with human runners in the second-ever Beijing half marathon. NBC News' Kathy Park reports.
+Forbes • 1d ago
 
-NBC News • 23h ago
+---
+
+**[Tesla's Shanghai factory can build humanoid robots, China boss says](https://asia.nikkei.com/business/technology/tesla-s-shanghai-factory-can-build-humanoid-robots-china-boss-says)**
+
+Vehicle plant has potential to help solve mass-production challenge
+
+Nikkei Asia • 11h ago
+
+---
+
+**[Chicago bus shelter ad apologizes after video shows food delivery robots with Serve Robotics crash into Grand and Racine bus stop](https://abc7chicago.com/post/chicago-bus-shelter-ad-apologizes-video-shows-food-delivery-robots-serve-robotics-crash-grand-racine-stop/18885510/)**
+
+The owner of a robot delivery service is trying to turn a shattering experience into a good laugh.
+
+ABC7 Chicago • 9h ago
 
 ---
 
@@ -198,7 +196,7 @@ Boston Dynamics just did what most people thought would take years longer. Atlas
 
 📺 AI Revolution
 
-👁️ 32K • 👍 1K • 💬 93 • ⏱️ 21:49 • 23h ago
+👁️ 39K • 👍 1K • 💬 98 • ⏱️ 21:49 • 1d ago
 
 ---
 
@@ -208,7 +206,7 @@ AI and robotics will impact our economy, our politics, our privacy, our emotiona
 
 📺 Senator Bernie Sanders
 
-👁️ 4K • 👍 506 • 💬 28 • ⏱️ 1:03:51 • 3h ago
+👁️ 6K • 👍 618 • 💬 72 • ⏱️ 1:03:51 • 6h ago
 
 ---
 
@@ -218,7 +216,7 @@ Chinese humanoid robots train to go head-to-head with human runners in the secon
 
 📺 NBC News
 
-👁️ 61K • 👍 491 • 💬 182 • ⏱️ 1:59 • 23h ago
+👁️ 69K • 👍 548 • 💬 201 • ⏱️ 1:59 • 1d ago
 
 ---
 
@@ -228,7 +226,7 @@ The introduction of AI Visual inspections expanded what Spot and Orbit could tel
 
 📺 Boston Dynamics
 
-👁️ 11K • 👍 772 • 💬 72 • ⏱️ 1:40 • 8h ago
+👁️ 16K • 👍 946 • 💬 82 • ⏱️ 1:40 • 11h ago
 
 ---
 
@@ -238,7 +236,7 @@ Try Seedance 2.0 with Claude on Higgsfield: https://higgsfield.ai/s/seedance-2-0
 
 📺 AI Revolution
 
-👁️ 91K • 👍 1K • 💬 173 • ⏱️ 14:57 • 3d ago
+👁️ 92K • 👍 1K • 💬 174 • ⏱️ 14:57 • 3d ago
 
 ---
 
@@ -248,7 +246,17 @@ A new wave of attention is building around Elon Musk's latest version of the Tes
 
 📺 Carros Show
 
-👁️ 8K • 👍 180 • 💬 30 • ⏱️ 8:01 • 1d ago
+👁️ 9K • 👍 214 • 💬 28 • ⏱️ 8:01 • 1d ago
+
+---
+
+**[Ukraine Just Won The First Battle Using an Entire Robot Army... Footage is INSANE ](https://www.youtube.com/watch?v=dA5RYTxKLuo)**
+
+Terminator is about to become real?! If you want to help support independent journalism, become a Member: ...
+
+📺 Benny Johnson
+
+👁️ 89K • 👍 9K • 💬 1K • ⏱️ 11:20 • 4h ago
 
 ---
 
@@ -258,7 +266,7 @@ Could AI become dangerous? Can we trust AI Agents? AGI. Use code insideai at htt
 
 📺 InsideAI
 
-👁️ 652K • 👍 25K • 💬 2K • ⏱️ 16:24 • 5d ago
+👁️ 675K • 👍 25K • 💬 2K • ⏱️ 16:24 • 5d ago
 
 ---
 
@@ -268,7 +276,7 @@ Imagine a task so delicate it's been the "holy grail" of engineering for three d
 
 📺 PRO ROBOTS
 
-👁️ 41K • 👍 647 • 💬 44 • ⏱️ 6:30 • 6d ago
+👁️ 41K • 👍 648 • 💬 44 • ⏱️ 6:30 • 6d ago
 
 ---
 
@@ -278,17 +286,7 @@ War Robots Gameplay: Ultimate Molots for the first time My War Robots Creator Li
 
 📺 Manni-Gaming
 
-👁️ 5K • 👍 300 • 💬 37 • ⏱️ 18:17 • 10h ago
-
----
-
-**[Ukraine’s New Combat Robots are Absolutely Shredding Russia Right Now](https://www.youtube.com/watch?v=RvDmz7cBAcE)**
-
-Go to https://www.artwine.com to get your limited bottle of Ukrainian sparkling wine, rescued from the cellars of Bakhmut. Must be ...
-
-📺 Paul Warburg
-
-👁️ 252K • 👍 20K • 💬 1K • ⏱️ 31:17 • 2d ago
+👁️ 6K • 👍 354 • 💬 43 • ⏱️ 18:17 • 13h ago
 
 ---
 
