@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-15T07:08:50.427533+00:00'
+updated: '2026-04-15T09:04:17.831485+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 15, 2026 at 07:08 UTC  
+**Last Updated:** April 15, 2026 at 09:04 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Blog post: Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning: https://deepmind.google/blog/gemini-robotics-er-1-6/ From Google DeepMind on 𝕏: https://x.com/GoogleDeepMind/status/2044069878781390929
 
-4h ago
+6h ago
 
 ---
 
 **[Automated Guided Vehicles At Long Beach Container Terminal](https://www.reddit.com/r/robotics/comments/1slnxdj/automated_guided_vehicles_at_long_beach_container/)**
 
-8h ago
+10h ago
 
 ---
 
@@ -50,7 +50,7 @@ Blog post: Gemini Robotics-ER 1.6: Powering real-world robotics tasks through en
 
 OpenArm is an open-source humanoid arm platform developed by Enactic in Tokyo. It includes full CAD files, control code, firmware, and simulation tools, allowing users to build, modify, and test the system themselves. The arms are compliant and backdrivable, with teleoperation support that includes force feedback and gravity compensation. It also integrates with MuJoCo and Isaac Sim, enabling simulation-first development before running on real hardware. Project page: https://github.com/enactic/OpenArm
 
-14h ago
+15h ago
 
 ---
 
@@ -58,7 +58,7 @@ OpenArm is an open-source humanoid arm platform developed by Enactic in Tokyo. I
 
 Curious how it does over longer distances. Didn’t expect it to look this stable, but I’m guessing things might get tricky over a full half marathon distance.
 
-3h ago
+5h ago
 
 ---
 
@@ -66,7 +66,15 @@ Curious how it does over longer distances. Didn’t expect it to look this stabl
 
 Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/2043873782620926032
 
-21h ago
+22h ago
+
+---
+
+**[Josh Bongard’s talks have a criminally low amount of views..](https://www.reddit.com/r/robotics/comments/1slr4d3/josh_bongards_talks_have_a_criminally_low_amount/)**
+
+https://youtube.com/@joshbongard3314?si=SUzZJityisRA-UE8 It is honestly wild to me how few views Josh Bongard’s YouTube lectures have. He has been doing fascinating work at the intersection of artificial intelligence, evolutionary systems, robotics, and intelligence itself, his talks are full of substance and he is a close collaborator of Michael Levin. No hype, just real ideas from someone who has spent years thinking deeply about how minds and machines emerge, adapt, and learn.
+
+8h ago
 
 ---
 
@@ -78,19 +86,11 @@ Two weeks ago, I quit my job at a robotics company. I didn't have another offer 
 
 ---
 
-**[Josh Bongard’s talks have a criminally low amount of views..](https://www.reddit.com/r/robotics/comments/1slr4d3/josh_bongards_talks_have_a_criminally_low_amount/)**
-
-https://youtube.com/@joshbongard3314?si=SUzZJityisRA-UE8 It is honestly wild to me how few views Josh Bongard’s YouTube lectures have. He has been doing fascinating work at the intersection of artificial intelligence, evolutionary systems, robotics, and intelligence itself, his talks are full of substance and he is a close collaborator of Michael Levin. No hype, just real ideas from someone who has spent years thinking deeply about how minds and machines emerge, adapt, and learn.
-
-6h ago
-
----
-
 **[Time travel debugging for robots](https://www.reddit.com/r/robotics/comments/1slj6x3/time_travel_debugging_for_robots/)**
 
 Check out why we built determinism as a core principle for our open source copper-rs project. Imagine being able to instantly reproduce deterministically any bug on your robotics platform, just jumping at the time the mistake happened, fix it, compare and never regress. https://youtu.be/eMpEeXYkQDw
 
-11h ago
+13h ago
 
 ---
 
@@ -116,7 +116,7 @@ Zack Jackowski, VP of Atlas Product at Boston Dynamics, explains that the first 
 
 Gemini Robotics ER 1.6 upgrades spatial reasoning and multi-view understanding, unlocking new capabilities like instrument reading for autonomous robots.
 
-Google DeepMind • 16h ago
+Google DeepMind • 18h ago
 
 ---
 
@@ -124,7 +124,7 @@ Google DeepMind • 16h ago
 
 The addition of Gemini Robotics brings embodied AI reasoning to inspection robots
 
-IEEE Spectrum • 11h ago
+IEEE Spectrum • 13h ago
 
 ---
 
@@ -132,7 +132,15 @@ IEEE Spectrum • 11h ago
 
 A recent demo shows Boston Dynamics Spot in a residential home, using Google’s visual-language model (VLM) Gemini Robotics-ER 1.5 for embodied reasoning.
 
-Boston Dynamics • 16h ago
+Boston Dynamics • 17h ago
+
+---
+
+**[Chicago bus shelter ad apologizes after video shows food delivery robots with Serve Robotics crash into Grand and Racine bus stop](https://abc7chicago.com/post/chicago-bus-shelter-ad-apologizes-video-shows-food-delivery-robots-serve-robotics-crash-grand-racine-stop/18885510/)**
+
+The owner of a robot delivery service is trying to turn a shattering experience into a good laugh.
+
+ABC7 Chicago • 15h ago
 
 ---
 
@@ -140,15 +148,13 @@ Boston Dynamics • 16h ago
 
 “The occupiers surrendered, and the operation was carried out without infantry and without losses on our side,” says Ukrainian leader.
 
-politico.eu • 21h ago
+politico.eu • 23h ago
 
 ---
 
-**[Commentary: Am I the only one who hates delivery robots?](https://www.latimes.com/entertainment-arts/story/2026-04-14/delivery-robots-creating-problems-glendale-ban)**
+**[Korean AI chip startup DEEPX, Hyundai work on robots powered by generative AI](https://www.reuters.com/business/autos-transportation/korean-ai-chip-startup-deepx-hyundai-work-robots-powered-by-generative-ai-2026-04-15/)**
 
-They may have seemed cute when they debuted, but delivery robots are clogging sidewalks, creeping through intersections and generally creating many more problems than they solve.
-
-Los Angeles Times • 21h ago
+Reuters • 6h ago
 
 ---
 
@@ -156,7 +162,7 @@ Los Angeles Times • 21h ago
 
 Since its inception, the program has been one of — if not the — best in the country, and now the students are preparing to perform on the world stage.
 
-Yahoo • 4h ago
+Yahoo • 6h ago
 
 ---
 
@@ -164,27 +170,23 @@ Yahoo • 4h ago
 
 The Maui High School robotics team 2443 Blue Thunder made history at the FIRST Robotics Competition Denver Regional, capturing the Regional Championship title and earning a coveted spot at the World Championships in Houston, Texas.
 
-Maui Now • 11h ago
+Maui Now • 13h ago
 
 ---
 
-**[Korean AI chip startup DEEPX, Hyundai work on robots powered by generative AI](https://www.reuters.com/business/autos-transportation/korean-ai-chip-startup-deepx-hyundai-work-robots-powered-by-generative-ai-2026-04-15/)**
+**[Centre County 4-H Robotics Team Qualifies for World Championship](https://www.statecollege.com/articles/community/centre-county-4-h-robotics-team-qualifies-for-world-championship/)**
 
-Reuters • 4h ago
+Centre Punch, the Centre County 4-H Robotics high school team, has earned a spot in the world championship after an outstanding performance at a FIRST
 
----
-
-**[30 Under 30 Europe Manufacturing & Industry 2026: The Builders Bringing AI, Robotics And Data To Industry](https://www.forbes.com/sites/alanohnsman/2026/04/14/30-under-30-europe-manufacturing--industry-2026-the-builders-bringing-ai-robotics-and-data-to-industry/)**
-
-Forbes • 1d ago
+StateCollege.com • 1d ago
 
 ---
 
-**[Ukraine’s military robot surge aims to offset drone risks to humans](https://arstechnica.com/ai/2026/04/ukraines-military-robot-surge-aims-to-offset-drone-risks-to-humans/)**
+**[Company offers lighthearted apology after delivery robot crashes into bus shelter](https://www.nbcchicago.com/news/local/robotics-company-offers-lighthearted-apology-after-delivery-robot-crashes-into-bus-shelter/3922837/)**
 
-Ukraine is replacing more soldiers with robots in the battlefield kill zone.
+A robotics company has issued a cheeky apology after one of their robots crashed into a Chicago Transit Authority bus stop last month.
 
-Ars Technica • 8h ago
+NBC 5 Chicago • 7h ago
 
 ---
 
@@ -198,17 +200,7 @@ Boston Dynamics just did what most people thought would take years longer. Atlas
 
 📺 AI Revolution
 
-👁️ 47K • 👍 1K • 💬 101 • ⏱️ 21:49 • 1d ago
-
----
-
-**[LIVE: AI and Robotics: Where Do We Go From Here](https://www.youtube.com/watch?v=BwRJ-aWb0Gc)**
-
-AI and robotics will impact our economy, our politics, our privacy, our emotional well-being, our environment, and even our ...
-
-📺 Senator Bernie Sanders
-
-👁️ 7K • 👍 657 • 💬 80 • ⏱️ 1:03:51 • 11h ago
+👁️ 51K • 👍 1K • 💬 108 • ⏱️ 21:49 • 1d ago
 
 ---
 
@@ -218,65 +210,7 @@ Chinese humanoid robots train to go head-to-head with human runners in the secon
 
 📺 NBC News
 
-👁️ 76K • 👍 588 • 💬 212 • ⏱️ 1:59 • 1d ago
-
----
-
-**[Tesla Just Started Mass Producing Humanoid Robots — And Nobody Is Ready](https://www.youtube.com/watch?v=2sHaQffX0w0)**
-
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *Tesla ...
-
-📺 Julia McCoy
-
-👁️ 19K • 👍 923 • 💬 112 • ⏱️ 4:16 • 16h ago
-
----
-
-**[Ukraine Just Won The First Battle Using an Entire Robot Army... Footage is INSANE ](https://www.youtube.com/watch?v=dA5RYTxKLuo)**
-
-Terminator is about to become real?! If you want to help support independent journalism, become a Member: ...
-
-📺 Benny Johnson
-
-👁️ 144K • 👍 11K • 💬 2K • ⏱️ 11:20 • 8h ago
-
----
-
-**[A historic event! ROBOTS went offensive, capturing Russians for the first time: operation details](https://www.youtube.com/watch?v=8ylpjflYZbU)**
-
-For the first time, a Russian position at the front was fully captured without any infantry involvement — only robotic systems were ...
-
-📺 UATV English
-
-👁️ 5K • 👍 396 • 💬 17 • ⏱️ 10:56 • 9h ago
-
----
-
-**[New AI Robot Is Starting to Feel Human (Artificial Humans Are Here)](https://www.youtube.com/watch?v=HOgCL8lKuDc)**
-
-Try Seedance 2.0 with Claude on Higgsfield: https://higgsfield.ai/s/seedance-2-0-airevolutionx-LDckkB Realbotix just launched ...
-
-📺 AI Revolution
-
-👁️ 93K • 👍 2K • 💬 178 • ⏱️ 14:57 • 3d ago
-
----
-
-**[Smarter Inspections Powered by Google Gemini Robotics | Boston Dynamics](https://www.youtube.com/watch?v=kBwxmlI2yHQ)**
-
-The introduction of AI Visual inspections expanded what Spot and Orbit could tell you about your facility - now, AIVI-Learning ...
-
-📺 Boston Dynamics
-
-👁️ 18K • 👍 1K • 💬 84 • ⏱️ 1:40 • 15h ago
-
----
-
-**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=CAAKZgJCtzo)**
-
-📺 Robot Julie 
-
-👁️ 5K • 👍 23 • ⏱️ 0:21 • 6h ago
+👁️ 84K • 👍 637 • 💬 248 • ⏱️ 1:59 • 1d ago
 
 ---
 
@@ -286,7 +220,75 @@ A new wave of attention is building around Elon Musk's latest version of the Tes
 
 📺 Carros Show
 
-👁️ 10K • 👍 230 • 💬 30 • ⏱️ 8:01 • 1d ago
+👁️ 11K • 👍 245 • 💬 30 • ⏱️ 8:01 • 1d ago
+
+---
+
+**[New AI Robot Is Starting to Feel Human (Artificial Humans Are Here)](https://www.youtube.com/watch?v=HOgCL8lKuDc)**
+
+Try Seedance 2.0 with Claude on Higgsfield: https://higgsfield.ai/s/seedance-2-0-airevolutionx-LDckkB Realbotix just launched ...
+
+📺 AI Revolution
+
+👁️ 94K • 👍 2K • 💬 179 • ⏱️ 14:57 • 3d ago
+
+---
+
+**[Why Every Tech Expert is Now Watching This New AI Robot](https://www.youtube.com/watch?v=bwBYN9hun84)**
+
+Imagine a task so delicate it's been the "holy grail" of engineering for three decades. We're talking about handling things that fold, ...
+
+📺 PRO ROBOTS
+
+👁️ 42K • 👍 648 • 💬 44 • ⏱️ 6:30 • 6d ago
+
+---
+
+**[For the first time in history Ukrainian robots captured Russian position and occupiers surrendered](https://www.youtube.com/watch?v=XzqhdqTqLkE)**
+
+Kanal13​ #likekanal13​ #subscribekanal13 #warinukraine https://www.youtube.com/user/kanal13az?sub_confirmation=1 ...
+
+📺 Kanal13
+
+👁️ 34K • 👍 918 • 💬 55 • ⏱️ 10:09 • 21h ago
+
+---
+
+**[AI agent in a robot does exactly what experts warned](https://www.youtube.com/watch?v=woTy4dTiT20)**
+
+Could AI become dangerous? Can we trust AI Agents? AGI. Use code insideai at https://incogni.com/insideai to get an exclusive ...
+
+📺 InsideAI
+
+👁️ 695K • 👍 25K • 💬 2K • ⏱️ 16:24 • 5d ago
+
+---
+
+**[Clone Humanoid Robot With 206 BONES + Superhuman Hand (AI NEWS)](https://www.youtube.com/watch?v=k3b0VoYQdbI)**
+
+Clone Robotics unveils a 206-bone android body with 164 degrees of freedom powered by artificial muscles, tendons, and a ...
+
+📺 AI News
+
+👁️ 6K • 👍 149 • 💬 15 • ⏱️ 8:04 • 6d ago
+
+---
+
+**[Robot in Poland scares off wild boars](https://www.youtube.com/watch?v=BmwTEOGb88k)**
+
+A humanoid robot named Edward Warchocki chased away a herd of wild boars in Warsaw, shouting "Go away!" in Polish as the ...
+
+📺 Reuters
+
+👁️ 23K • 👍 471 • 💬 55 • ⏱️ 0:26 • 16h ago
+
+---
+
+**[$8,000 welding robot#robot #industrial #welding #automatic #mechanic](https://www.youtube.com/watch?v=GzJg5vJKkZ8)**
+
+📺 BerontRobotPeng2
+
+👁️ 818K • 👍 5K • 💬 86 • ⏱️ 0:23 • 6d ago
 
 ---
 

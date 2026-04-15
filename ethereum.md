@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-15T07:08:50.424672+00:00'
+updated: '2026-04-15T09:04:17.828183+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
-- videos
+- social
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 15, 2026 at 07:08 UTC  
+**Last Updated:** April 15, 2026 at 09:04 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,318.88
+### $2,327.33
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.9%  
-**7d:** +5.8%  
-**30d:** +0.0%  
-**90d:** -29.7%  
-**1y:** +46.9%  
+**24h:** -2.0%  
+**7d:** +6.3%  
+**30d:** +0.5%  
+**90d:** -29.4%  
+**1y:** +47.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $281.25B
+**Market Cap:** $281.02B
 Rank #2
 
 **Circulating Supply:** 120,690,957 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--53.0%
+-52.9%
 
 **All-Time Low:** $0.43
-+537288.6%
++537838.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2h ago
+4h ago
 
 ---
 
@@ -80,15 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 A fake Ledger Live clone sat on Apple's App Store for seven days and drained $9.5 million from 50 victims across Bitcoin, Ethereum, Solana, Tron and XRP. Apple's review process, which promises to protect users, let it through. Then removed it after the damage was done.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/fake-ledger-app-apple-app-store-9-million-drained/) • 12h ago
-
----
-
-**[ether.fi Commits $3 Billion ETH to ETHGas for Realtime Ethereum](https://www.reddit.com/r/ethereum/comments/1slyf4y/etherfi_commits_3_billion_eth_to_ethgas_for/)**
-
-ether.fi commits $3B ETH to ETHGas to build Ethereum blockspace forward market, enabling realtime execution and predictable gas pricing.
-
-🔗 [Cryip.co](https://cryip.co/etherfi-commits-3-billion-usd-eth-ethgas-realtime-ethereum/) • 16m ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/fake-ledger-app-apple-app-store-9-million-drained/) • 14h ago
 
 ---
 
@@ -96,7 +88,7 @@ ether.fi commits $3B ETH to ETHGas to build Ethereum blockspace forward market, 
 
 Man I was looking at some recent governance votes across a few protocols and the amount of obvious botting is just depressing at this point. it feels like every time we come up with a new sybil resistance mechanism, someone just spins up a better script to farm it and now with AI agents getting actually decent at mimicking random on-chain behavior and passing standard checks, it seems like pure software solutions are just dead in the water. I really hate the idea of forced traditional KYC for web3 stuff because it completely defeats the point of privacy and just builds another centralized honeypot. was reading this technical deep dive the other day about setting up a private Proof Of Human using ZK tech so you don't actually tie your daily wallet to your real identity. tbh it made me realize we might actually need some kind of hardware or biometric anchor if we want to keep things decentralized without getting completely overrun by server farms it just sucks that the ecosystem is moving in a direction where simply "proving you are a person" is becoming the hardest part of interacting with ethereum. Idk, curious how you guys think L2s are gonna handle this long term because the current meta of hoping for the best isn't working
 
-12h ago
+14h ago
 
 ---
 
@@ -110,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Building a prediction market sector index — is this a gap or am I missing something obvious?](https://www.reddit.com/r/ethereum/comments/1slnr4y/building_a_prediction_market_sector_index_is_this/)**
 
-8h ago
+10h ago
 
 ---
 
@@ -144,15 +136,23 @@ I permanently lost $2,000 USD value trying to stake via direct contract interact
 
 ---
 
+**[What actually happens under the hood when calldata hits the EVM (Execution Flow Breakdown)](https://www.reddit.com/r/ethereum/comments/1sjqdwd/what_actually_happens_under_the_hood_when/)**
+
+There’s a lot of focus lately on calldata in the context of rollups and EIP-2028 gas economics (16 vs 4 gas per byte). While data availability is important, I often see the actual low-level execution mechanics get glossed over. I wrote a deep dive on EVM internals covering this exact topic. If you've ever wondered what happens at the opcode level the millisecond your transaction payload hits a smart contract, here is the actual lifecycle of calldata: The Raw Byte Handoff & The 4-Byte Check When a transaction is sent, the EVM doesn't understand "functions" or "parameters", it just sees a raw hex-encoded blob in a read-only area called calldata. Before anything else, the EVM checks the length of this data: The Function Dispatcher (The EVM's Switchboard) If there is data, the EVM runs the dispatcher essentially a giant, compiler-generated switch/case statement: If it finds a match, it uses JUMPI to move the Program Counter to that specific block of code. ABI Decoding & Stack Loading Once the EVM jumps to the right function, it has to "unpack" the arguments: Dynamic Types (string, bytes[]): The calldata contains an offset (a pointer). The EVM reads this offset, jumps to that position in the calldata, reads the length prefix, and then processes the actual data. The payable Word Before executing any actual business logic, the EVM checks the callvalue (msg.value). If the target function is not explicitly marked as payable, but the transaction includes ETH, the EVM triggers a REVERT right here. This prevents trapped funds and happens before your code even starts running. memory vs. calldata Execution This is where the famous gas savings come in during execution: If a function parameter is declared as memory, the EVM is forced to use CALLDATACOPY to move the read-only bytes into mutable memory. This triggers memory expansion gas costs. If declared as calldata, the EVM skips the copy process entirely. It just uses CALLDATALOAD to read directly from the original transaction payload, saving you the memory expansion overhead. source/deep dive overview: https://andreyobruchkov1996.substack.com/p/what-actually-happens-when-calldata
+
+2d ago
+
+---
+
 ---
 
 ## Google News: "ethereum"
 
-**[Ripple CEO Brad Garlinghouse Bets Big on XRP Flipping Ethereum](https://coinpaper.com/16228/ripple-ceo-brad-garlinghouse-bets-big-on-xrp-flipping-ethereum)**
+**[Tom Lee’s BitMine Makes Biggest Ethereum Buy Since December](https://finance.yahoo.com/markets/crypto/articles/tom-lee-bitmine-makes-biggest-143236082.html)**
 
-Ripple CEO Brad Garlinghouse says XRP could challenge Ethereum for the #2 crypto spot, driven by real-world cross-border payment utility.
+BitMine Immersion Technologies' Ethereum treasury gained another $157 million of ETH last week, its biggest acquisition since December.
 
-Coinpaper • 18h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -160,15 +160,7 @@ Coinpaper • 18h ago
 
 The largest corporate ether holder posted a $3.8 billion quarterly loss as its pivot from mining to ETH accumulation continues.
 
-CoinDesk • 30m ago
-
----
-
-**[Tom Lee’s BitMine Makes Biggest Ethereum Buy Since December](https://finance.yahoo.com/markets/crypto/articles/tom-lee-bitmine-makes-biggest-143236082.html)**
-
-BitMine Immersion Technologies' Ethereum treasury gained another $157 million of ETH last week, its biggest acquisition since December.
-
-Yahoo Finance • 1d ago
+CoinDesk • 2h ago
 
 ---
 
@@ -180,19 +172,27 @@ PR Newswire • 1d ago
 
 ---
 
-**[ETH, BTC price: What next as Ether/bitcoin ratio bounces from 2026 lows](https://www.coindesk.com/markets/2026/04/15/ether-bitcoin-ratio-bounces-from-2026-lows-in-signs-of-broader-crypto-recovery)**
+**[Ripple CEO Brad Garlinghouse Bets Big on XRP Flipping Ethereum](https://coinpaper.com/16228/ripple-ceo-brad-garlinghouse-bets-big-on-xrp-flipping-ethereum)**
 
-The ETH/BTC ratio hit its highest since January as Ethereum's network added 284,000 new users in Q1 and stablecoin supply reached a record $180 billion.
+Ripple CEO Brad Garlinghouse says XRP could challenge Ethereum for the #2 crypto spot, driven by real-world cross-border payment utility.
 
-CoinDesk • 2h ago
+Coinpaper • 20h ago
 
 ---
 
-**[Bitcoin Hits $75,000 as XRP, Ethereum, and Solana All Surge: Is the Crypto Bull Run Starting?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-hits-75-000-xrp-113610617.html)**
+**[3 Bullish Signals Suggest Ethereum May Be Undervalued in April](https://finance.yahoo.com/markets/crypto/articles/3-bullish-signals-suggest-ethereum-062623125.html)**
 
-For the first time since mid-March, Bitcoin (CRYPTO: BTC) is back above $75,000. The Bitcoin price had been ranging below $70,000 for more than a month, with every rally getting cut short by the bearish pressure the Middle East war has put on the market. Right now, the whole market is surging—Bitcoin has climbed 5.9%, ... Bitcoin Hits $75,000 as XRP, Ethereum, and Solana All Surge: Is the Crypto Bull Run Starting?
+Ethereum shows 3 bullish signals in April 2026 as record transactions, Rainbow Chart levels, and MACD cross point to potential upside.
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 2h ago
+
+---
+
+**[USDT, USDC Activity Drops To Lowest Level Of 2026 On Ethereum](https://www.tradingview.com/news/newsbtc:7cae969f6094b:0-usdt-usdc-activity-drops-to-lowest-level-of-2026-on-ethereum/)**
+
+On-chain data shows the Ethereum versions of USDT and USDC, the two largest stablecoins, have seen their active addresses fall to the lowest level of 2026.USDC & USDT Active Addresses Have Fallen On The Ethereum NetworkIn a new post on X, on-chain analytics firm Santiment has talked about the lates…
+
+TradingView — Track All Markets • 2h ago
 
 ---
 
@@ -210,17 +210,19 @@ Decrypt • 1d ago
 
 ---
 
-**[Santiment Reveals: Retail ETH Sell-Off Signals Powerful Bullish Momentum for Ethereum](https://www.binance.com/en/square/post/312681201016881)**
+**[Current price of Ethereum for April 14, 2026](https://fortune.com/article/price-of-ethereum-04-14-2026/)**
 
-Binance • 2h ago
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 20h ago
 
 ---
 
-**[Marc Andreesen Just Said That Artificial General Intelligence (AGI) Is Here. Here's What That Could Mean for Ethereum.](https://www.fool.com/investing/2026/04/14/marc-andreesen-just-said-that-artificial-general-i/)**
+**[Crypto News: Pepeto Reveals DeFi Update And Ethereum Price Aims Higher as Bull Run Signals Build](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-reveals-defi-update-and-ethereum-price-aims-higher-as-bull-run-signals-build-1036023348)**
 
-If Andreesen is right, Ethereum could be in for a wild ride pretty soon.
+Dubai, UAE, April  15, 2026  (GLOBE NEWSWIRE) -- Ethereum based crypto Pepeto announces continuous advancement of the Defi tools, tools that aim t...
 
-The Motley Fool • 16h ago
+markets.businessinsider.com • 1h ago
 
 ---
 
@@ -228,23 +230,23 @@ The Motley Fool • 16h ago
 
 ## YouTube Videos: "ethereum"
 
-**[BITCOIN SHORT SQUEEZE PREDICTED: Get Ready For THIS!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=dpn_vvJGfFw)**
-
-BITCOIN SHORT SQUEEZE PREDICTED: Get Ready For THIS!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
-
-📺 Crypto World
-
-👁️ 2K • 👍 167 • 💬 110 • ⏱️ 22:06 • 4h ago
-
----
-
 **[🚨 BTC &amp; ETH: OH MY..........](https://www.youtube.com/watch?v=1IfF4Y2CSPU)**
 
 Here is the latest on bitcoin, ethereum and crypto in general! Be aware of whats going on! ---------- EXCHANGE BONUSES ...
 
 📺 Thomas Kralow
 
-👁️ 17K • 👍 2K • 💬 28 • ⏱️ 10:18 • 1d ago
+👁️ 17K • 👍 2K • 💬 9 • ⏱️ 10:18 • 1d ago
+
+---
+
+**[BITCOIN SHORT SQUEEZE PREDICTED: Get Ready For THIS!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=dpn_vvJGfFw)**
+
+BITCOIN SHORT SQUEEZE PREDICTED: Get Ready For THIS!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
+
+📺 Crypto World
+
+👁️ 4K • 👍 249 • 💬 209 • ⏱️ 22:06 • 6h ago
 
 ---
 
@@ -254,17 +256,7 @@ Tony Edwards of Thinking Crypto interview. We talk: Incoming Bitcoin Bottom, QE,
 
 📺 Altcoin Daily
 
-👁️ 4K • 👍 130 • 💬 70 • ⏱️ 0:59 • 13h ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=dURwIrchrGA)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Crypto Gyan
-
-👁️ 281 • 👍 47 • ⏱️ 6:34 • 3h ago
+👁️ 5K • 👍 140 • 💬 65 • ⏱️ 0:59 • 15h ago
 
 ---
 
@@ -274,17 +266,17 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 5K • 👍 173 • 💬 24 • ⏱️ 10:57 • 2d ago
+👁️ 5K • 👍 171 • 💬 24 • ⏱️ 10:57 • 2d ago
 
 ---
 
-**[🔴 Ethereum Is Finally Breaking Out – Next Target $3,000?](https://www.youtube.com/watch?v=EzqGrq9CQOo)**
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=dURwIrchrGA)**
 
-BloFin - No KYC/No VPN needed [Trade ETH Coin Futures!] https://marzell.org/Blofin_Trade CoinGPT ...
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
 
-📺 Marzell Crypto
+📺 Crypto Gyan
 
-👁️ 729 • 👍 29 • 💬 89 • ⏱️ 5:01 • 1d ago
+👁️ 664 • 👍 74 • ⏱️ 6:34 • 5h ago
 
 ---
 
@@ -294,7 +286,17 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 6K • 👍 204 • 💬 91 • ⏱️ 38:50 • 1d ago
+👁️ 6K • 👍 206 • 💬 92 • ⏱️ 38:50 • 1d ago
+
+---
+
+**[🔴 Ethereum Is Finally Breaking Out – Next Target $3,000?](https://www.youtube.com/watch?v=EzqGrq9CQOo)**
+
+BloFin - No KYC/No VPN needed [Trade ETH Coin Futures!] https://marzell.org/Blofin_Trade CoinGPT ...
+
+📺 Marzell Crypto
+
+👁️ 762 • 👍 29 • 💬 89 • ⏱️ 5:01 • 1d ago
 
 ---
 
@@ -304,17 +306,7 @@ Ethereum is down more than 50% from its all-time high, but the bigger concern ri
 
 📺 More Crypto Online
 
-👁️ 5K • 👍 234 • 💬 30 • ⏱️ 15:54 • 1d ago
-
----
-
-**[Bitcoin &amp; Ethereum. Warum wir die hochs nochmal anpeilen und dann aufpassen sollten!!](https://www.youtube.com/watch?v=c59c-3HLZwQ)**
-
-Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zurück bis max 400 USDT) ...
-
-📺 Krypto Trading & Investing
-
-👁️ 944 • 👍 278 • 💬 74 • ⏱️ 13:25 • 2h ago
+👁️ 5K • 👍 236 • 💬 31 • ⏱️ 15:54 • 1d ago
 
 ---
 
@@ -325,6 +317,16 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 📺 The Moon Show
 
 👁️ 13K • 👍 1K • 💬 73 • ⏱️ 8:32 • 1d ago
+
+---
+
+**[Bitcoin &amp; Ethereum. Warum wir die hochs nochmal anpeilen und dann aufpassen sollten!!](https://www.youtube.com/watch?v=c59c-3HLZwQ)**
+
+Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zurück bis max 400 USDT) ...
+
+📺 Krypto Trading & Investing
+
+👁️ 3K • 👍 553 • 💬 60 • ⏱️ 13:25 • 4h ago
 
 ---
 
