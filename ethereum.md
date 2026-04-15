@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-15T13:47:50.545645+00:00'
+updated: '2026-04-15T15:05:54.508256+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
 - social
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 15, 2026 at 13:47 UTC  
+**Last Updated:** April 15, 2026 at 15:05 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,324.91
+### $2,340.56
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.4%  
-**7d:** +5.9%  
-**30d:** +0.1%  
-**90d:** -29.6%  
-**1y:** +47.0%  
+**24h:** +0.2%  
+**7d:** +6.8%  
+**30d:** +0.9%  
+**90d:** -29.1%  
+**1y:** +48.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $280.77B
+**Market Cap:** $282.43B
 Rank #2
 
 **Circulating Supply:** 120,690,957 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--53.0%
+-52.6%
 
 **All-Time Low:** $0.43
-+537184.7%
++540896.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
+10h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 A fake Ledger Live clone sat on Apple's App Store for seven days and drained $9.5 million from 50 victims across Bitcoin, Ethereum, Solana, Tron and XRP. Apple's review process, which promises to protect users, let it through. Then removed it after the damage was done.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/fake-ledger-app-apple-app-store-9-million-drained/) • 19h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/fake-ledger-app-apple-app-store-9-million-drained/) • 20h ago
 
 ---
 
@@ -88,7 +88,7 @@ A fake Ledger Live clone sat on Apple's App Store for seven days and drained $9.
 
 Man I was looking at some recent governance votes across a few protocols and the amount of obvious botting is just depressing at this point. it feels like every time we come up with a new sybil resistance mechanism, someone just spins up a better script to farm it and now with AI agents getting actually decent at mimicking random on-chain behavior and passing standard checks, it seems like pure software solutions are just dead in the water. I really hate the idea of forced traditional KYC for web3 stuff because it completely defeats the point of privacy and just builds another centralized honeypot. was reading this technical deep dive the other day about setting up a private Proof Of Human using ZK tech so you don't actually tie your daily wallet to your real identity. tbh it made me realize we might actually need some kind of hardware or biometric anchor if we want to keep things decentralized without getting completely overrun by server farms it just sucks that the ecosystem is moving in a direction where simply "proving you are a person" is becoming the hardest part of interacting with ethereum. Idk, curious how you guys think L2s are gonna handle this long term because the current meta of hoping for the best isn't working
 
-18h ago
+20h ago
 
 ---
 
@@ -102,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Building a prediction market sector index — is this a gap or am I missing something obvious?](https://www.reddit.com/r/ethereum/comments/1slnr4y/building_a_prediction_market_sector_index_is_this/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -166,7 +166,7 @@ Barron's • 2d ago
 
 Bitcoin opened at $74,175.23 and ethereum  opened at $2,323.19. Both were down slightly from the day before.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -174,21 +174,19 @@ Yahoo Finance • 2h ago
 
 The largest corporate ether holder posted a $3.8 billion quarterly loss as its pivot from mining to ETH accumulation continues.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
 **[Bitmine Reports $3.8 Billion Loss As Ethereum Sinks](https://finance.yahoo.com/news/bitmine-reports-3-8-billion-125000138.html)**
 
-Yahoo Finance • 57m ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.875 Million Tokens, and Total Crypto and Total Cash Holdings of $11.8 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-4-875-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-8-billion-302740122.html)**
+**[Bitmine Swallows a $3.8 Billion Bitter Pill as Tom Lee’s Massive Ethereum Bet Hits an Accounting Wall](https://www.tipranks.com/news/bitmine-swallows-a-3-8-billion-bitter-pill-as-tom-lees-massive-ethereum-bet-hits-an-accounting-wall)**
 
-Bitmine now owns more than 4% of the total ETH coin supply of 120.7 million Bitmine is 81% of the way to the 'Alchemy of 5%' in just 9 months Bitmine uplisted...
-
-PR Newswire • 2d ago
+TipRanks • 52m ago
 
 ---
 
@@ -196,7 +194,15 @@ PR Newswire • 2d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 30m ago
+Fortune • 1h ago
+
+---
+
+**[Ethereum-Bitcoin Ratio Moves Off Recent Low](https://finance.yahoo.com/markets/crypto/articles/ethereum-bitcoin-ratio-moves-off-132900652.html)**
+
+In a positive development, the Ethereum-Bitcoin ratio has moved off its low for this year, signaling a possible rec...
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -204,21 +210,15 @@ Fortune • 30m ago
 
 The organization unveiled a new initiative aimed at tackling a persistent challenge in crypto development—the high cost of smart contract security audits.
 
-CoinDesk • 19h ago
+CoinDesk • 21h ago
 
 ---
 
-**[Is Ethereum a Buy Right Now? Blockchain Wheels Spin Fast as ETH’s Price Sits in a Rare Cheap Zone](https://www.tipranks.com/news/is-ethereum-a-buy-right-now-blockchain-wheels-spin-fast-as-eths-price-sits-in-a-rare-cheap-zone)**
+**[Ethereum Shorts Pile Up On Binance As Squeeze Risk Grows](https://www.tradingview.com/news/newsbtc:fe515b4c6094b:0-ethereum-shorts-pile-up-on-binance-as-squeeze-risk-grows/)**
 
-TipRanks • 1h ago
+Ethereum’s derivatives market on Binance is flashing a setup that could leave short sellers exposed if the recent move higher continues. According to analysis shared on X by CryptoQuant contributor Darkfost, positioning has become increasingly one-sided even as ETH has rebounded sharply from its Fe…
 
----
-
-**[Ondo seeks SEC clearance for tokenized equities model on Ethereum](https://www.theblock.co/post/397258/ondo-seeks-sec-clearance-tokenized-equities-model-ethereum)**
-
-The SEC is signaling openness to tokenization, encouraging firms to engage directly as it fine-tunes regulations.
-
-The Block • 1d ago
+TradingView — Track All Markets • 5h ago
 
 ---
 
@@ -226,43 +226,23 @@ The Block • 1d ago
 
 ## YouTube Videos: "ethereum"
 
+**[Ethereum Holders - This Is The Moment Of Truth](https://www.youtube.com/watch?v=ONDvSJKWo9c)**
+
+Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ Deposit from $100: Get a 1% bonus ✔️ Withdraw anytime ...
+
+📺 Tyler Hill Crypto
+
+👁️ 843 • 👍 100 • 💬 15 • ⏱️ 11:55 • 1h ago
+
+---
+
 **[This Has Just Reshaped The Crypto Industry Bitcoin &amp; Ethereum Golden Triangle Parabolic Predictions](https://www.youtube.com/watch?v=YGR0GHb0GlI)**
 
 Companies over the course of 2026 have been all but frothing at the mouth trying to accumulate as much Bitcoin and Ethereum as ...
 
 📺 The Modern Investor
 
-👁️ 1K • 👍 312 • 💬 187 • ⏱️ 29:08 • 3h ago
-
----
-
-**[WHY Crypto’s Bottom Is Likely In (explained in less than 4 minutes)](https://www.youtube.com/watch?v=jSAHAA7m_V8)**
-
-Tom Lee explains why the crypto bottom is likely in (in less than 4 minutes). ⭐ Follow Altcoin Daily on X: ...
-
-📺 Altcoin Daily
-
-👁️ 23K • 👍 2K • 💬 97 • ⏱️ 9:28 • 16h ago
-
----
-
-**[🚨 BTC &amp; ETH: OH MY..........](https://www.youtube.com/watch?v=1IfF4Y2CSPU)**
-
-Here is the latest on bitcoin, ethereum and crypto in general! Be aware of whats going on! ---------- EXCHANGE BONUSES ...
-
-📺 Thomas Kralow
-
-👁️ 17K • 👍 2K • 💬 9 • ⏱️ 10:18 • 2d ago
-
----
-
-**[Bitcoin to $200k, Ethereum To $10k Is &#39;Programed&#39;](https://www.youtube.com/watch?v=q50SBPezTJo)**
-
-Tony Edwards of Thinking Crypto interview. We talk: Incoming Bitcoin Bottom, QE, Trump Pump, Altcoin Season, Supercycle, ...
-
-📺 Altcoin Daily
-
-👁️ 5K • 👍 147 • 💬 65 • ⏱️ 0:59 • 20h ago
+👁️ 3K • 👍 535 • 💬 318 • ⏱️ 29:08 • 4h ago
 
 ---
 
@@ -272,27 +252,17 @@ BITCOIN SHORT SQUEEZE PREDICTED: Get Ready For THIS!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 5K • 👍 284 • 💬 216 • ⏱️ 22:06 • 11h ago
+👁️ 6K • 👍 306 • 💬 326 • ⏱️ 22:06 • 12h ago
 
 ---
 
-**[CRYPTO LIVE TRADING || 15 APRIL  | ‪@ClockTraderlive‬ #bitcoin #ethereum #crypto #btclivetrading](https://www.youtube.com/watch?v=FTp_saBeHVE)**
+**[XRP TO $27,000?!?! ETHEREUM GETS FLIPPED IN 2 MONTHS?!](https://www.youtube.com/watch?v=W-ZKWPZ8zkU)**
 
-join my social platforms for updates and analysis ✓Instagram: ...
+We're diving into the latest "xrp news today" as extreme "xrp price" targets, ranging from $10000 to $50000, are causing a stir ...
 
-📺 Aryan trader Live
+📺 Ripple Moon Watch
 
-👁️ 3K • 👍 2K • 3h ago
-
----
-
-**[Ethereum Supply Shock + BlackRock Staking = Massive Setup](https://www.youtube.com/watch?v=MhOmj6JSAgs)**
-
-Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to stay smart on crypto: ...
-
-📺 Milk Road
-
-👁️ 5K • 👍 171 • 💬 24 • ⏱️ 10:57 • 3d ago
+👁️ 512 • 👍 75 • 💬 39 • ⏱️ 19:27 • 1h ago
 
 ---
 
@@ -302,17 +272,17 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 62 • 👍 8 • 💬 1 • ⏱️ 4:24 • 5h ago
+👁️ 106 • 👍 12 • 💬 1 • ⏱️ 4:24 • 6h ago
 
 ---
 
-**[Ethereum Bounce Looks Weak - Here&#39;s What the Structure Says](https://www.youtube.com/watch?v=uk1iW8koJTE)**
+**[LIVE - $3,000,000 BTC ETH Long Trade](https://www.youtube.com/watch?v=q8ju74KJN4o)**
 
-Ethereum is down more than 50% from its all-time high, but the bigger concern right now is not just the decline — it's the structure ...
+After a lengthy vacation CryptoFace join sus with MarketCipher midweek to see if we can saddle up and long btc and eth Sign up ...
 
-📺 More Crypto Online
+📺 Crypto Face
 
-👁️ 5K • 👍 240 • 💬 31 • ⏱️ 15:54 • 1d ago
+👁️ 5K • 👍 318 • 2h ago
 
 ---
 
@@ -322,7 +292,37 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 6K • 👍 208 • 💬 92 • ⏱️ 38:50 • 1d ago
+👁️ 6K • 👍 211 • 💬 95 • ⏱️ 38:50 • 1d ago
+
+---
+
+**[Bitcoin to $200k, Ethereum To $10k Is &#39;Programed&#39;](https://www.youtube.com/watch?v=q50SBPezTJo)**
+
+Tony Edwards of Thinking Crypto interview. We talk: Incoming Bitcoin Bottom, QE, Trump Pump, Altcoin Season, Supercycle, ...
+
+📺 Altcoin Daily
+
+👁️ 5K • 👍 160 • 💬 65 • ⏱️ 0:59 • 21h ago
+
+---
+
+**[Crypto Live Trading 15 April ||  @MrStarSahil   #bitcoin #ethereum #cryptotrading](https://www.youtube.com/watch?v=vxWLAqCMKnU)**
+
+TRADE IN CRYPTO AND GOLD SAFELY (CRYPTO/ Gold Token) :- https://india.delta.exchange/?code=JFWJTR Google ...
+
+📺 Vibe With Sahil
+
+👁️ 3K • 👍 260 • 1h ago
+
+---
+
+**[Ethereum Bounce Looks Weak - Here&#39;s What the Structure Says](https://www.youtube.com/watch?v=uk1iW8koJTE)**
+
+Ethereum is down more than 50% from its all-time high, but the bigger concern right now is not just the decline — it's the structure ...
+
+📺 More Crypto Online
+
+👁️ 5K • 👍 242 • 💬 31 • ⏱️ 15:54 • 1d ago
 
 ---
 
