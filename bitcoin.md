@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-15T20:51:16.686996+00:00'
+updated: '2026-04-15T21:53:52.064205+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - news
+- social
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 15, 2026 at 20:51 UTC  
+**Last Updated:** April 15, 2026 at 21:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,14 +38,14 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $74,702.38
+### $74,804.99
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
-**7d:** +4.1%  
+**24h:** +0.9%  
+**7d:** +4.0%  
 **30d:** +1.1%  
 **90d:** -21.8%  
 **1y:** -11.1%  
@@ -77,11 +77,19 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Question: Has the safety of the "old" Bitcoin address format been compromised in any way?](https://www.reddit.com/r/Bitcoin/comments/1smh3cn/question_has_the_safety_of_the_old_bitcoin/)**
+
+Hello, I have a concern based on semi-technical article I read on local (Czech) news site. I have some Bitcoin in a cold storage address in the "old" format (starting with "1F...") that I have created in 2015. During the following 11 years, my BTC just sat there, with very few partial withdrawals (3 or 4 total). No "change address" was used, the remaining BTC are still in the same wallet. I do not intend to do anything with the remaining BTC in the near future, I just want them to sit there. Unfortunately, during those 10 years, I was less active in the Bitcoin scene and did not closely watch the developments and happenings in the world of Bitcoin. I just want to hold the remaining BTC for several more years, I don't need them now. My question is: Are my remaining BTC still reasonably safe in that old address or is there some truth to the rumor that "Old format BTC wallets are now at risk?" P.S: Of course, my private key from that wallet is securely stored and I am aware of the importance of it not being leaked / lost. That's not what my question is about. UPDATE: I am genuinely perplexed why some users here keep suggesting to "get Trezor". I would STILL have to store the private key somewhere (in case the Trezor malfunctions) and the device itself would only introduce a new attack vector. I am absolutely at loss understanding how Trezor could possibly be useful in my scenario, where I am only planning to do ONE additional transaction from this address to the exchange.
+
+1h ago
+
+---
+
 **[New Bitcoiner here.](https://www.reddit.com/r/Bitcoin/comments/1sm4a99/new_bitcoiner_here/)**
 
 Yes, i started buying since the February 2026. I believe this year could be a good year to start stacking. Wish me luck boys. See you in 10years.
 
-8h ago
+9h ago
 
 ---
 
@@ -89,15 +97,7 @@ Yes, i started buying since the February 2026. I believe this year could be a go
 
 Andrew Mensah and Gbemi Oladipo. Mods, remove if off topic. I just felt like this represents how Bitcoin is becoming a household name without nocoiners realizing what's going on. The best kind of adoption, IMHO.
 
-22h ago
-
----
-
-**[Question: Has the safety of the "old" Bitcoin address format been compromised in any way?](https://www.reddit.com/r/Bitcoin/comments/1smh3cn/question_has_the_safety_of_the_old_bitcoin/)**
-
-Hello, I have a concern based on semi-technical article I read on local (Czech) news site. I have some Bitcoin in a cold storage address in the "old" format (starting with "1F...") that I have created in 2015. During the following 11 years, my BTC just sat there, with very few partial withdrawals (3 or 4 total). No "change address" was used, the remaining BTC are still in the same wallet. I do not intend to do anything with the remaining BTC in the near future, I just want them to sit there. Unfortunately, during those 10 years, I was less active in the Bitcoin scene and did not closely watch the developments and happenings in the world of Bitcoin. I just want to hold the remaining BTC for several more years, I don't need them now. My question is: Are my remaining BTC still reasonably safe in that old address or is there some truth to the rumor that "Old format BTC wallets are now at risk?" P.S: Of course, my private key from that wallet is securely stored and I am aware of the importance of it not being leaked / lost. That's not what my question is about.
-
-52m ago
+1d ago
 
 ---
 
@@ -105,7 +105,7 @@ Hello, I have a concern based on semi-technical article I read on local (Czech) 
 
 Billionaire venture capitalist Tim Draper has never shied away from advocating Bitcoin (BTC), no matter what Wall Street thinks. Draper was among the earlier investors in Elon Musk's Tesla (Nasdaq: TSLA) in 2006, long before the EV car maker experimented with Bitcoin payments and built a ...
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/billionaire-tim-draper-doubles-down-005000353.html) • 19h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/billionaire-tim-draper-doubles-down-005000353.html) • 20h ago
 
 ---
 
@@ -113,7 +113,7 @@ Billionaire venture capitalist Tim Draper has never shied away from advocating B
 
 A veteran Wall Street investor and market strategist is making a bold call on Bitcoin (BTC), going as far as to stake his reputation on it. In a new CNBC interview, former Morgan Stanley managing director Jordan Visser says he expects the largest cryptocurrency by market cap to soar to much higher levels the next time he appears on the program.
 
-🔗 [CapitalAI Daily](https://www.capitalaidaily.com/ill-put-my-neck-out-there-wall-street-veteran-predicts-bitcoin-btc-will-be-significantly-higher-amid-confluence-of-three-catalysts/) • 16h ago
+🔗 [CapitalAI Daily](https://www.capitalaidaily.com/ill-put-my-neck-out-there-wall-street-veteran-predicts-bitcoin-btc-will-be-significantly-higher-amid-confluence-of-three-catalysts/) • 17h ago
 
 ---
 
@@ -121,7 +121,7 @@ A veteran Wall Street investor and market strategist is making a bold call on Bi
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/Mxl4mJZBDk8?si=hKjzcix0L82eYHSQ) • 35m ago
+🔗 [youtu.be](https://youtu.be/Mxl4mJZBDk8?si=hKjzcix0L82eYHSQ) • 1h ago
 
 ---
 
@@ -139,17 +139,19 @@ Goldman Sachs has filed to launch a Bitcoin Premium Income ETF, signaling a deep
 
 ---
 
-**[Daily Discussion, April 15, 2026](https://www.reddit.com/r/Bitcoin/comments/1slxnbb/daily_discussion_april_15_2026/)**
+**[Dope (2015) - Bitcoin Scene](https://www.reddit.com/r/Bitcoin/comments/1sm9qhq/dope_2015_bitcoin_scene/)**
 
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-14h ago
+🔗 [youtube.com](https://youtube.com/shorts/TeIOxnRmkq0) • 6h ago
 
 ---
 
-**[The 200K Meme Guy:](https://www.reddit.com/r/Bitcoin/comments/1slwj6g/the_200k_meme_guy/)**
+**[Bitcoin meetups](https://www.reddit.com/r/Bitcoin/comments/1smjraw/bitcoin_meetups/)**
 
-15h ago
+How many of you actually attend your local meetup? This podcast is great and I think there's so many Bitcoiners that aren't getting involved. Huge opportunity to build your own meetup. https://open.spotify.com/show/5v5AX2C7ubaV1xjfL2EMZV?si=wfyeaPsjSeWTvRfCY9O9pw%0A
+
+18m ago
 
 ---
 
@@ -157,65 +159,31 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 ## Google News: "bitcoin"
 
-**[How a £2m bitcoin order made Nigel Farage the political face of UK crypto](https://www.theguardian.com/politics/2026/apr/15/how-a-2m-bitcoin-order-made-nigel-farage-the-political-face-of-uk-crypto)**
+**[Bitcoin nears breakout above $75,000 with short squeeze risk building](https://www.coindesk.com/markets/2026/04/14/bitcoin-tests-usd75-000-as-usd200-million-in-shorts-face-liquidation-risk)**
 
-Promotion of ‘bitcoin treasury’ firm with Kwasi Kwarteng draws new attention to Reform leader’s relations with industry
+BTC presses key $75,000 level with $200 million in shorts at risk of liquidation, rising open interest and shifting volatility dynamics in focus.
 
-The Guardian • 12h ago
-
----
-
-**[Gal Gadot, Isla Fisher Join Casey Affleck, Pete Davidson In 'Bitcoin'](https://deadline.com/2026/04/gal-gadot-isla-fisher-casey-affleck-pete-davidson-bitcoin-1236860330/)**
-
-The Doug Liman thriller sees Oscar winner Affleck star as computer scientist Craig Wright who has claimed to be the founder of Bitcoin.
-
-Deadline • 11h ago
+CoinDesk • 1d ago
 
 ---
 
-**['Killing Satoshi': $70M Bitcoin Film Starring Casey Affleck Will Make Heavy Use of AI](https://www.yahoo.com/entertainment/movies/articles/killing-satoshi-70m-bitcoin-film-201248303.html)**
+**[Bitcoin Climbs to Four-Week High on Hopes of US-Iran Peace Talks](https://www.bloomberg.com/news/articles/2026-04-14/bitcoin-climbs-to-four-week-high-on-hopes-of-us-iran-peace-talks)**
 
-A $70 million feature film focusing on Bitcoin and the hunt for creator Satoshi Nakamoto will lean heavily on AI tools.
-
-Yahoo • 38m ago
+Bloomberg.com • 1d ago
 
 ---
 
-**[Bitcoin jumps to $74,000, but Wall Street is 'cautious' crypto bear market isn't over](https://finance.yahoo.com/news/bitcoin-jumps-to-74000-but-wall-street-is-cautious-crypto-bear-market-isnt-over-151420711.html)**
+**[Bitcoin and ethereum prices today, Tuesday, April 14, 2026: Prices rebound despite U.S. blockade in the Middle East](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-april-14-2026-prices-rebound-despite-us-blockade-in-the-middle-east-112122301.html)**
 
-Bitcoin bounced above $74,000 on Tuesday, but Wall Street warns it's a bear market rally, and the token could go lower before it goes higher.
+​​Bitcoin (BTC-USD) opened at $74,442.23 and ethereum (ETH-USD) opened at $2,369.90. Bitcoin was up 5.2% and ethereum was up 8.1% from Monday's open.
 
 Yahoo Finance • 1d ago
 
 ---
 
-**[IMF's global debt warning underscores bitcoin's (BTC) role in investor portfolios](https://www.coindesk.com/markets/2026/04/15/the-imf-just-repriced-the-macro-backdrop-for-bitcoin-with-a-global-debt-warning)**
-
-The IMF warns that global public debt could reach about 100% of world GDP by 2029.
-
-CoinDesk • 9h ago
-
----
-
-**[Tether moves 951 BTC as Bitcoin rebounds to $75K monthly peak](https://seekingalpha.com/news/4575410-tether-buys-951-btc-as-bitcoin-rebounds-to-75k-monthly-peak)**
-
-Tether buys 951 BTC ($70M) as Bitcoin dips near $73K, boosting reserves to 97,141 BTC ($7.2B).
-
-Seeking Alpha • 52m ago
-
----
-
-**[Bitcoin Price Passes $75,000 as Iran War Turns It From ‘Digital Gold’ Into Geopolitical Settlement Bet](https://bitcoinmagazine.com/news/bitcoin-price-passes-75000-as-iran-war)**
-
-Bitcoin price jumped past $75,000 on Wednesday as traders recalibrated what the asset represents in the wake of the Iran conflict and an unusually stretched derivatives market.
-
-Bitcoin Magazine • 46m ago
-
----
-
 **[Goldman’s Bitcoin ETF Push Signals Wall Street Taming of Crypto](https://www.bloomberg.com/news/articles/2026-04-15/goldman-s-bitcoin-etf-push-signals-wall-street-taming-of-crypto)**
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 5h ago
 
 ---
 
@@ -227,11 +195,41 @@ Fortune • 1d ago
 
 ---
 
-**[BTC gyrations likely to calm as Goldman, BlackRock's explore income ETFs: Crypto Daily](https://www.coindesk.com/daybook-us/2026/04/15/income-etfs-could-be-bitcoin-s-volatility-kill-switch)**
+**[Goldman Sachs files for its first bitcoin ETF product](https://www.reuters.com/legal/transactional/goldman-sachs-files-its-first-bitcoin-etf-product-2026-04-14/)**
 
-What you need to know for April 15, 2026
+Reuters • 1d ago
 
-CoinDesk • 9h ago
+---
+
+**[Strive Raises SATA Preferred Yield to 13%; Tops Hut 8 in Bitcoin Holdings](https://finance.yahoo.com/markets/crypto/articles/strive-raises-sata-preferred-yield-203600772.html)**
+
+Strive said Wednesday it is raising the dividend rate on its Variable Rate Series A Perpetual Preferred Stock to 13...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Iran's Bitcoin toll 'virtually impossible' to collect, says policy institute](https://www.dlnews.com/articles/markets/iran-bitcoin-toll-impossible-to-collect-says-analyst/)**
+
+An Iranian government spokesperson said the country wants Bitcoin for passage through the Strait of Hormuz.  The demand comes as Israel, Iran and the US remain at war.   Bitcoin isn't ready to handle that level of payments, said the Bitcoin Policy Institute.
+
+dlnews.com • 33m ago
+
+---
+
+**[Anthropic's Mythos isn't threatening bitcoin. The real AI risk is at crypto exchanges](https://www.cnbc.com/2026/04/15/anthropics-mythos-isnt-threatening-bitcoin-the-real-ai-risk-is-at-crypto-exchanges-.html)**
+
+The Bitcoin blockchain itself has never been hacked and has operated securely and without interruption since 2009. The Mythos threat probably won't change that.
+
+CNBC • 5h ago
+
+---
+
+**[Inside Doug Liman's $70 Million AI-Made Movie Starring Casey Affleck and Gal Gadot | Exclusive](https://www.thewrap.com/creative-content/movies/ai-movie-bitcoin-killing-satoshi-gal-gadot-casey-affleck-doug-liman/)**
+
+Doug Liman made a $70 million movie using AI about the creator of bitcoin called Killing Satoshi, starring Gal Gadot, Casey Affleck and Pete Davidson.
+
+TheWrap • 8h ago
 
 ---
 
@@ -295,7 +293,7 @@ New York Times report claims London-born Adam Back is creator of the cryptocurre
 
 C64 Bitcoin wallet. Contribute to geek197/c64wallet development by creating an account on GitHub.
 
-⬆️ 3 • 💬 0 • 9h ago • [GitHub](https://github.com/geek197/c64wallet)
+⬆️ 3 • 💬 0 • 10h ago • [GitHub](https://github.com/geek197/c64wallet)
 
 ---
 
@@ -325,7 +323,7 @@ Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FR
 
 📺 CryptosRUs
 
-👁️ 13K • 👍 862 • 💬 119 • ⏱️ 37:53 • 6h ago
+👁️ 13K • 👍 862 • 💬 119 • ⏱️ 37:53 • 7h ago
 
 ---
 
@@ -335,7 +333,7 @@ Michael Saylor may have just revealed the most aggressive Bitcoin accumulation s
 
 📺 Simply Bitcoin
 
-👁️ 60K • 👍 3K • 💬 339 • ⏱️ 20:15 • 22h ago
+👁️ 60K • 👍 3K • 💬 339 • ⏱️ 20:15 • 23h ago
 
 ---
 
@@ -355,7 +353,7 @@ Anthony Pompliano and John Pompliano break down what's really happening with bit
 
 📺 Anthony Pompliano
 
-👁️ 24K • 👍 1K • 💬 40 • ⏱️ 28:36 • 23h ago
+👁️ 24K • 👍 1K • 💬 40 • ⏱️ 28:36 • 1d ago
 
 ---
 
@@ -375,7 +373,7 @@ Bitcoin #Crypto #Finance Is Michael Saylor quietly triggering a Bitcoin supply c
 
 📺 The Wolf Of All Streets
 
-👁️ 11K • 👍 673 • 💬 171 • ⏱️ 41:53 • 6h ago
+👁️ 11K • 👍 673 • 💬 171 • ⏱️ 41:53 • 7h ago
 
 ---
 
@@ -385,7 +383,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Sade Robinson 
 
-👁️ 2K • 👍 1K • 47m ago
+👁️ 2K • 👍 1K • 1h ago
 
 ---
 
@@ -395,7 +393,7 @@ Subscribe for daily Bitcoin signal - not noise. Watch the full uncensored livest
 
 📺 Bitcoin News Alerts
 
-👁️ 2K • 👍 171 • 💬 107 • ⏱️ 20:00 • 22h ago
+👁️ 2K • 👍 171 • 💬 107 • ⏱️ 20:00 • 23h ago
 
 ---
 
@@ -405,7 +403,7 @@ IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purp
 
 📺 The Kenzo Guy
 
-👁️ 11K • 👍 430 • 💬 34 • ⏱️ 24:05 • 21h ago
+👁️ 11K • 👍 430 • 💬 34 • ⏱️ 24:05 • 22h ago
 
 ---
 
@@ -415,7 +413,7 @@ Bitcoin bull and bear takes as buyers keep piling in! Stocks ripping BITUNIX TRA
 
 📺 Lark Davis
 
-👁️ 9K • 👍 543 • 💬 49 • ⏱️ 20:45 • 8h ago
+👁️ 9K • 👍 543 • 💬 49 • ⏱️ 20:45 • 9h ago
 
 ---
 

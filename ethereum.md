@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-15T20:51:16.692220+00:00'
+updated: '2026-04-15T21:53:52.070235+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - news
+- social
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 15, 2026 at 20:51 UTC  
+**Last Updated:** April 15, 2026 at 21:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,13 +36,13 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,359.47
+### $2,353.28
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.5%  
+**24h:** +1.9%  
 **7d:** +7.7%  
 **30d:** +1.8%  
 **90d:** -28.5%  
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -102,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Building a prediction market sector index — is this a gap or am I missing something obvious?](https://www.reddit.com/r/ethereum/comments/1slnr4y/building_a_prediction_market_sector_index_is_this/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -140,7 +140,7 @@ I permanently lost $2,000 USD value trying to stake via direct contract interact
 
 There’s a lot of focus lately on calldata in the context of rollups and EIP-2028 gas economics (16 vs 4 gas per byte). While data availability is important, I often see the actual low-level execution mechanics get glossed over. I wrote a deep dive on EVM internals covering this exact topic. If you've ever wondered what happens at the opcode level the millisecond your transaction payload hits a smart contract, here is the actual lifecycle of calldata: The Raw Byte Handoff & The 4-Byte Check When a transaction is sent, the EVM doesn't understand "functions" or "parameters", it just sees a raw hex-encoded blob in a read-only area called calldata. Before anything else, the EVM checks the length of this data: The Function Dispatcher (The EVM's Switchboard) If there is data, the EVM runs the dispatcher essentially a giant, compiler-generated switch/case statement: If it finds a match, it uses JUMPI to move the Program Counter to that specific block of code. ABI Decoding & Stack Loading Once the EVM jumps to the right function, it has to "unpack" the arguments: Dynamic Types (string, bytes[]): The calldata contains an offset (a pointer). The EVM reads this offset, jumps to that position in the calldata, reads the length prefix, and then processes the actual data. The payable Word Before executing any actual business logic, the EVM checks the callvalue (msg.value). If the target function is not explicitly marked as payable, but the transaction includes ETH, the EVM triggers a REVERT right here. This prevents trapped funds and happens before your code even starts running. memory vs. calldata Execution This is where the famous gas savings come in during execution: If a function parameter is declared as memory, the EVM is forced to use CALLDATACOPY to move the read-only bytes into mutable memory. This triggers memory expansion gas costs. If declared as calldata, the EVM skips the copy process entirely. It just uses CALLDATALOAD to read directly from the original transaction payload, saving you the memory expansion overhead. source/deep dive overview: https://andreyobruchkov1996.substack.com/p/what-actually-happens-when-calldata
 
-2d ago
+3d ago
 
 ---
 
@@ -158,7 +158,7 @@ Coinpaper • 1d ago
 
 **[Bitmine Reports $3.8 Billion Loss As Ethereum Sinks](https://finance.yahoo.com/news/bitmine-reports-3-8-billion-125000138.html)**
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -166,7 +166,7 @@ Yahoo Finance • 8h ago
 
 The largest corporate ether holder posted a $3.8 billion quarterly loss as its pivot from mining to ETH accumulation continues.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -192,19 +192,27 @@ CoinDesk • 1d ago
 
 ---
 
+**[Ether.fi commits $3 billion in ETH as 'validator liquidity' to ETHGas over three years](https://www.theblock.co/post/397457/etherfi-3-billion-eth-validator-liquidity-ethgas-three-years)**
+
+ETHGas is a marketplace for Ethereum blockspace futures that allows blockspace to be bought and sold in advance for guaranteed execution.
+
+The Block • 21h ago
+
+---
+
 **[Ethereum Shorts Pile Up On Binance As Squeeze Risk Grows](https://www.tradingview.com/news/newsbtc:fe515b4c6094b:0-ethereum-shorts-pile-up-on-binance-as-squeeze-risk-grows/)**
 
 Ethereum’s derivatives market on Binance is flashing a setup that could leave short sellers exposed if the recent move higher continues. According to analysis shared on X by CryptoQuant contributor Darkfost, positioning has become increasingly one-sided even as ETH has rebounded sharply from its Fe…
 
-TradingView — Track All Markets • 10h ago
+TradingView — Track All Markets • 11h ago
 
 ---
 
-**[Ondo seeks SEC clearance for tokenized equities model on Ethereum](https://www.theblock.co/post/397258/ondo-seeks-sec-clearance-tokenized-equities-model-ethereum)**
+**[Crypto Hacker Mints $1.1 Billion in Polkadot via Ethereum Bridge, But Can Only Cash Out $237K](https://decrypt.co/364131/crypto-hacker-mints-billion-polkadot-ethereum-bridge-cashes-out-237k)**
 
-The SEC is signaling openness to tokenization, encouraging firms to engage directly as it fine-tunes regulations.
+A hacker exploited a Polkadot bridge, minting $1.1 billion worth of DOT tokens before making a tiny fraction of that tally by selling it.
 
-The Block • 2d ago
+Decrypt • 2d ago
 
 ---
 
@@ -212,15 +220,7 @@ The Block • 2d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 7h ago
-
----
-
-**[Which Cryptocurrency Should You Be Hoarding Right Now, Bitcoin or Ethereum?](https://www.fool.com/investing/2026/04/13/which-cryptocurrency-should-you-be-hoarding-right/)**
-
-If crypto treasury companies are loading up on Bitcoin and Ethereum, should you be too?
-
-The Motley Fool • 2d ago
+Fortune • 8h ago
 
 ---
 
@@ -234,7 +234,7 @@ URGENT $60000 Ethereum Incoming Despite Crypto Clarity Delay $120M flows to XRP!
 
 📺 CryptoWendyO
 
-👁️ 3K • 👍 294 • 💬 17 • ⏱️ 32:36 • 2h ago
+👁️ 3K • 👍 294 • 💬 17 • ⏱️ 32:36 • 3h ago
 
 ---
 
@@ -244,7 +244,7 @@ Buy Ethereum? CRYPTO RETIREMENT ACCOUNT HERE Sign up for iTrustCapital and get a
 
 📺 Crypto Jebb
 
-👁️ 1K • 👍 112 • 💬 23 • ⏱️ 14:10 • 2h ago
+👁️ 1K • 👍 112 • 💬 23 • ⏱️ 14:10 • 3h ago
 
 ---
 
@@ -254,7 +254,7 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 3K • 👍 203 • 💬 37 • ⏱️ 11:55 • 7h ago
+👁️ 3K • 👍 203 • 💬 37 • ⏱️ 11:55 • 8h ago
 
 ---
 
@@ -264,7 +264,7 @@ Companies over the course of 2026 have been all but frothing at the mouth trying
 
 📺 The Modern Investor
 
-👁️ 5K • 👍 665 • 💬 356 • ⏱️ 29:08 • 10h ago
+👁️ 5K • 👍 665 • 💬 356 • ⏱️ 29:08 • 11h ago
 
 ---
 
@@ -274,7 +274,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 67 • 👍 9 • 💬 2 • ⏱️ 4:49 • 49m ago
+👁️ 67 • 👍 9 • 💬 2 • ⏱️ 4:49 • 1h ago
 
 ---
 
@@ -284,7 +284,7 @@ Tom Lee explains why the crypto bottom is likely in (in less than 4 minutes). �
 
 📺 Altcoin Daily
 
-👁️ 27K • 👍 2K • 💬 193 • ⏱️ 9:28 • 23h ago
+👁️ 27K • 👍 2K • 💬 193 • ⏱️ 9:28 • 1d ago
 
 ---
 
@@ -304,7 +304,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 624 • 👍 63 • 💬 4 • ⏱️ 5:54 • 5h ago
+👁️ 624 • 👍 63 • 💬 4 • ⏱️ 5:54 • 6h ago
 
 ---
 
@@ -314,7 +314,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 146 • 👍 14 • 💬 1 • ⏱️ 4:24 • 12h ago
+👁️ 146 • 👍 14 • 💬 1 • ⏱️ 4:24 • 13h ago
 
 ---
 
@@ -324,7 +324,7 @@ We're diving into the latest "xrp news today" as extreme "xrp price" targets, ra
 
 📺 Ripple Moon Watch
 
-👁️ 2K • 👍 164 • 💬 63 • ⏱️ 19:27 • 7h ago
+👁️ 2K • 👍 164 • 💬 63 • ⏱️ 19:27 • 8h ago
 
 ---
 
