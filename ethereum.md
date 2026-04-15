@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-15T09:04:17.828183+00:00'
+updated: '2026-04-15T10:42:33.019691+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
 - news
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 15, 2026 at 09:04 UTC  
+**Last Updated:** April 15, 2026 at 10:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,327.33
+### $2,317.23
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.0%  
-**7d:** +6.3%  
-**30d:** +0.5%  
-**90d:** -29.4%  
-**1y:** +47.6%  
+**24h:** -2.6%  
+**7d:** +5.6%  
+**30d:** -0.2%  
+**90d:** -29.8%  
+**1y:** +46.7%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 A fake Ledger Live clone sat on Apple's App Store for seven days and drained $9.5 million from 50 victims across Bitcoin, Ethereum, Solana, Tron and XRP. Apple's review process, which promises to protect users, let it through. Then removed it after the damage was done.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/fake-ledger-app-apple-app-store-9-million-drained/) • 14h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/fake-ledger-app-apple-app-store-9-million-drained/) • 16h ago
 
 ---
 
@@ -88,7 +88,7 @@ A fake Ledger Live clone sat on Apple's App Store for seven days and drained $9.
 
 Man I was looking at some recent governance votes across a few protocols and the amount of obvious botting is just depressing at this point. it feels like every time we come up with a new sybil resistance mechanism, someone just spins up a better script to farm it and now with AI agents getting actually decent at mimicking random on-chain behavior and passing standard checks, it seems like pure software solutions are just dead in the water. I really hate the idea of forced traditional KYC for web3 stuff because it completely defeats the point of privacy and just builds another centralized honeypot. was reading this technical deep dive the other day about setting up a private Proof Of Human using ZK tech so you don't actually tie your daily wallet to your real identity. tbh it made me realize we might actually need some kind of hardware or biometric anchor if we want to keep things decentralized without getting completely overrun by server farms it just sucks that the ecosystem is moving in a direction where simply "proving you are a person" is becoming the hardest part of interacting with ethereum. Idk, curious how you guys think L2s are gonna handle this long term because the current meta of hoping for the best isn't working
 
-14h ago
+15h ago
 
 ---
 
@@ -102,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Building a prediction market sector index — is this a gap or am I missing something obvious?](https://www.reddit.com/r/ethereum/comments/1slnr4y/building_a_prediction_market_sector_index_is_this/)**
 
-10h ago
+12h ago
 
 ---
 
@@ -148,11 +148,11 @@ There’s a lot of focus lately on calldata in the context of rollups and EIP-20
 
 ## Google News: "ethereum"
 
-**[Tom Lee’s BitMine Makes Biggest Ethereum Buy Since December](https://finance.yahoo.com/markets/crypto/articles/tom-lee-bitmine-makes-biggest-143236082.html)**
+**[Ripple CEO Brad Garlinghouse Bets Big on XRP Flipping Ethereum](https://coinpaper.com/16228/ripple-ceo-brad-garlinghouse-bets-big-on-xrp-flipping-ethereum)**
 
-BitMine Immersion Technologies' Ethereum treasury gained another $157 million of ETH last week, its biggest acquisition since December.
+Ripple CEO Brad Garlinghouse says XRP could challenge Ethereum for the #2 crypto spot, driven by real-world cross-border payment utility.
 
-Yahoo Finance • 1d ago
+Coinpaper • 22h ago
 
 ---
 
@@ -160,7 +160,13 @@ Yahoo Finance • 1d ago
 
 The largest corporate ether holder posted a $3.8 billion quarterly loss as its pivot from mining to ETH accumulation continues.
 
-CoinDesk • 2h ago
+CoinDesk • 35m ago
+
+---
+
+**[Tom Lee Says Ethereum in ‘Final Stages’ of Crypto Winter as Bitmine Reports $3.8B Loss](https://www.ccn.com/news/crypto/tom-lee-ethereum-end-crypto-winter-bitmine-reports-billion-loss/)**
+
+CCN.com • 1h ago
 
 ---
 
@@ -172,19 +178,11 @@ PR Newswire • 1d ago
 
 ---
 
-**[Ripple CEO Brad Garlinghouse Bets Big on XRP Flipping Ethereum](https://coinpaper.com/16228/ripple-ceo-brad-garlinghouse-bets-big-on-xrp-flipping-ethereum)**
-
-Ripple CEO Brad Garlinghouse says XRP could challenge Ethereum for the #2 crypto spot, driven by real-world cross-border payment utility.
-
-Coinpaper • 20h ago
-
----
-
 **[3 Bullish Signals Suggest Ethereum May Be Undervalued in April](https://finance.yahoo.com/markets/crypto/articles/3-bullish-signals-suggest-ethereum-062623125.html)**
 
 Ethereum shows 3 bullish signals in April 2026 as record transactions, Rainbow Chart levels, and MACD cross point to potential upside.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -192,37 +190,35 @@ Yahoo Finance • 2h ago
 
 On-chain data shows the Ethereum versions of USDT and USDC, the two largest stablecoins, have seen their active addresses fall to the lowest level of 2026.USDC & USDT Active Addresses Have Fallen On The Ethereum NetworkIn a new post on X, on-chain analytics firm Santiment has talked about the lates…
 
-TradingView — Track All Markets • 2h ago
+TradingView — Track All Markets • 3h ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Fall. Iran Peace Failure Causes a Crypto Headache.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-iran-crypto-46d858c6)**
+**[Bitcoin, Ethereum and XRP Prices Falling as Kraken co-CEO Confirms IPO push.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-prices-cryptos-1da22190)**
 
-Barron's • 1d ago
+Barron's • 1h ago
 
 ---
 
-**[Crypto Hacker Mints $1.1 Billion in Polkadot via Ethereum Bridge, But Can Only Cash Out $237K](https://decrypt.co/364131/crypto-hacker-mints-billion-polkadot-ethereum-bridge-cashes-out-237k)**
+**[Ethereum Foundation launches $1 million crypto security subsidy, providing access to over 20 audit firms](https://www.theblock.co/post/397427/ethereum-foundation-launches-1-million-crypto-security-subsidy-providing-access-to-over-20-audit-firms)**
 
-A hacker exploited a Polkadot bridge, minting $1.1 billion worth of DOT tokens before making a tiny fraction of that tally by selling it.
+The EF tapped Areta's audit marketplace to provide access to over 20 security firms like Blocksec, Cetora, Hacken, Immunefi and Quantstamp.
+
+The Block • 18h ago
+
+---
+
+**[Ethereum Price Prediction: ETH Records 4 Consecutive Days of ETF Inflows Despite Rejection – Anal...](https://www.binance.com/en/square/post/312745577319794)**
+
+Binance • 1h ago
+
+---
+
+**[Surging Bitcoin, Ethereum ETF Investments Drive Crypto Funds to Best Week Since January](https://decrypt.co/364130/surging-bitcoin-ethereum-etf-investments-crypto-funds-best-week-since-january)**
+
+Institutional crypto investors posted their strongest weekly inflows since January, with Bitcoin and Ethereum demand rising as XRP investments cool.
 
 Decrypt • 1d ago
-
----
-
-**[Current price of Ethereum for April 14, 2026](https://fortune.com/article/price-of-ethereum-04-14-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 20h ago
-
----
-
-**[Crypto News: Pepeto Reveals DeFi Update And Ethereum Price Aims Higher as Bull Run Signals Build](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-reveals-defi-update-and-ethereum-price-aims-higher-as-bull-run-signals-build-1036023348)**
-
-Dubai, UAE, April  15, 2026  (GLOBE NEWSWIRE) -- Ethereum based crypto Pepeto announces continuous advancement of the Defi tools, tools that aim t...
-
-markets.businessinsider.com • 1h ago
 
 ---
 
@@ -246,7 +242,7 @@ BITCOIN SHORT SQUEEZE PREDICTED: Get Ready For THIS!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 4K • 👍 249 • 💬 209 • ⏱️ 22:06 • 6h ago
+👁️ 4K • 👍 249 • 💬 209 • ⏱️ 22:06 • 7h ago
 
 ---
 
@@ -256,7 +252,7 @@ Tony Edwards of Thinking Crypto interview. We talk: Incoming Bitcoin Bottom, QE,
 
 📺 Altcoin Daily
 
-👁️ 5K • 👍 140 • 💬 65 • ⏱️ 0:59 • 15h ago
+👁️ 5K • 👍 140 • 💬 65 • ⏱️ 0:59 • 16h ago
 
 ---
 
@@ -276,7 +272,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 664 • 👍 74 • ⏱️ 6:34 • 5h ago
+👁️ 664 • 👍 74 • ⏱️ 6:34 • 7h ago
 
 ---
 
@@ -316,7 +312,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 📺 The Moon Show
 
-👁️ 13K • 👍 1K • 💬 73 • ⏱️ 8:32 • 1d ago
+👁️ 13K • 👍 1K • 💬 73 • ⏱️ 8:32 • 2d ago
 
 ---
 
@@ -326,7 +322,7 @@ Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zu
 
 📺 Krypto Trading & Investing
 
-👁️ 3K • 👍 553 • 💬 60 • ⏱️ 13:25 • 4h ago
+👁️ 3K • 👍 553 • 💬 60 • ⏱️ 13:25 • 6h ago
 
 ---
 

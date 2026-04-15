@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-15T09:04:17.822033+00:00'
+updated: '2026-04-15T10:42:33.013713+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
 - news
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 15, 2026 at 09:04 UTC  
+**Last Updated:** April 15, 2026 at 10:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $74,066.67
+### $73,885.73
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
-**7d:** +3.1%  
-**30d:** +0.2%  
-**90d:** -22.5%  
-**1y:** -12.0%  
+**24h:** -0.8%  
+**7d:** +2.8%  
+**30d:** -0.1%  
+**90d:** -22.7%  
+**1y:** -12.2%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Andrew Mensah and Gbemi Oladipo. Mods, remove if off topic. I just felt like this represents how Bitcoin is becoming a household name without nocoiners realizing what's going on. The best kind of adoption, IMHO.
 
-11h ago
+12h ago
 
 ---
 
@@ -89,7 +89,7 @@ Andrew Mensah and Gbemi Oladipo. Mods, remove if off topic. I just felt like thi
 
 Billionaire venture capitalist Tim Draper has never shied away from advocating Bitcoin (BTC), no matter what Wall Street thinks. Draper was among the earlier investors in Elon Musk's Tesla (Nasdaq: TSLA) in 2006, long before the EV car maker experimented with Bitcoin payments and built a ...
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/billionaire-tim-draper-doubles-down-005000353.html) • 7h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/billionaire-tim-draper-doubles-down-005000353.html) • 9h ago
 
 ---
 
@@ -97,13 +97,7 @@ Billionaire venture capitalist Tim Draper has never shied away from advocating B
 
 Goldman Sachs has filed to launch a Bitcoin Premium Income ETF, signaling a deeper push by the Wall Street bank into crypto-linked investment products that blend Bitcoin exposure with an options-based income strategy. The move follows similar “premium income” designs from issuers such as BlackRock, Morgan Stanley and Grayscale that seek to turn BTC’s volatility into a steady yield stream for investors. A Bitcoin Premium Income ETF typically holds spot BTC exposure, often through shares of an existing spot Bitcoin ETF, and then sells call options on that position to generate option premium income. This “covered‑call” structure collects cash from option buyers and distributes that cash as income, in exchange for giving up part of BTC’s upside above a set strike price. In practice, the fund benefits when BTC trades sideways or rises only modestly, because it keeps the option premiums while price moves stay inside the range of the sold calls. When BTC rallies sharply, the ETF’s gains are capped beyond the strike, since it has already agreed to sell that upside to option buyers. During sell‑offs, the fund still absorbs most of the downside, with the collected premiums providing only partial cushioning. Goldman Sachs has already built a large balance‑sheet position in spot BTC ETFs from other issuers, with filings showing more than a billion dollars of exposure through funds such as BlackRock’s iShares Bitcoin Trust and Fidelity’s Wise Origin Bitcoin Fund. A proprietary Bitcoin Premium Income ETF would shift the bank from simply holding third‑party products to manufacturing its own yield‑focused vehicle for clients. That step aligns Goldman with a growing trend: traditional asset managers now design BTC strategies that look and feel like familiar equity income funds, using covered calls to turn volatility into distributions. For investors, a Goldman‑branded product could broaden access to options‑based BTC income strategies inside brokerage and wealth platforms that already distribute the firm’s ETFs. For yield‑seeking investors who want BTC exposure but prefer a smoother payout profile, a premium income ETF offers a trade‑off: higher potential cash distributions in exchange for surrendering a chunk of long‑term upside. It may appeal to advisers and institutions that view pure spot BTC ETFs as too volatile, yet still want regulated, exchange‑traded access to the asset class. At the market‑structure level, Goldman’s move underscores how fast BTC is integrating into mainstream portfolio tools, from plain‑vanilla spot ETFs to more complex options‑overlay products. If the SEC approves the filing, it could intensify competition in a new niche of Bitcoin income strategies and further legitimize the idea of using BTC not only as a speculative asset, but as an underlying for structured yield.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/goldman-sachs-bitcoin-premium-income-etf) • 12h ago
-
----
-
-**[Defund War. Buy Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1slb55q/defund_war_buy_bitcoin/)**
-
-18h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/goldman-sachs-bitcoin-premium-income-etf) • 14h ago
 
 ---
 
@@ -111,7 +105,13 @@ Goldman Sachs has filed to launch a Bitcoin Premium Income ETF, signaling a deep
 
 A veteran Wall Street investor and market strategist is making a bold call on Bitcoin (BTC), going as far as to stake his reputation on it. In a new CNBC interview, former Morgan Stanley managing director Jordan Visser says he expects the largest cryptocurrency by market cap to soar to much higher levels the next time he appears on the program.
 
-🔗 [CapitalAI Daily](https://www.capitalaidaily.com/ill-put-my-neck-out-there-wall-street-veteran-predicts-bitcoin-btc-will-be-significantly-higher-amid-confluence-of-three-catalysts/) • 4h ago
+🔗 [CapitalAI Daily](https://www.capitalaidaily.com/ill-put-my-neck-out-there-wall-street-veteran-predicts-bitcoin-btc-will-be-significantly-higher-amid-confluence-of-three-catalysts/) • 5h ago
+
+---
+
+**[Defund War. Buy Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1slb55q/defund_war_buy_bitcoin/)**
+
+19h ago
 
 ---
 
@@ -119,7 +119,7 @@ A veteran Wall Street investor and market strategist is making a bold call on Bi
 
 $250 trillion sitting in bonds, equities, real estate, and cash worldwide means that the reallocation has barely started.
 
-16h ago
+18h ago
 
 ---
 
@@ -127,7 +127,7 @@ $250 trillion sitting in bonds, equities, real estate, and cash worldwide means 
 
 I got to thinking, while there is only going to be 21 million BTC how many people can really own 1?
 
-17h ago
+19h ago
 
 ---
 
@@ -135,7 +135,15 @@ I got to thinking, while there is only going to be 21 million BTC how many peopl
 
 The Doug Liman thriller sees Oscar winner Affleck star as computer scientist Craig Wright who has claimed to be the founder of Bitcoin.
 
-🔗 [Deadline](https://deadline.com/2026/04/gal-gadot-isla-fisher-casey-affleck-pete-davidson-bitcoin-1236860330/) • 11h ago
+🔗 [Deadline](https://deadline.com/2026/04/gal-gadot-isla-fisher-casey-affleck-pete-davidson-bitcoin-1236860330/) • 12h ago
+
+---
+
+**[Where would you invest 20k to 25k CAD?](https://www.reddit.com/r/Bitcoin/comments/1slv0jf/where_would_you_invest_20k_to_25k_cad/)**
+
+wondering other opinions, if you had 20k to 25k to invest in crypto, which would you choose and why? open to high and low risk suggestions. bitcoin good option currently?
+
+6h ago
 
 ---
 
@@ -143,15 +151,7 @@ The Doug Liman thriller sees Oscar winner Affleck star as computer scientist Cra
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-2h ago
-
----
-
-**[When The Fed Admitted They Just Print the Money (out of thin air)](https://www.reddit.com/r/Bitcoin/comments/1sl6ve2/when_the_fed_admitted_they_just_print_the_money/)**
-
-https://www.youtube.com/@bitcoinphilosopher
-
-20h ago
+4h ago
 
 ---
 
@@ -163,7 +163,7 @@ https://www.youtube.com/@bitcoinphilosopher
 
 Promotion of ‘bitcoin treasury’ firm with Kwasi Kwarteng draws new attention to Reform leader’s relations with industry
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
@@ -171,7 +171,7 @@ The Guardian • 1h ago
 
 The ETH/BTC ratio hit its highest since January as Ethereum's network added 284,000 new users in Q1 and stablecoin supply reached a record $180 billion.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -179,21 +179,15 @@ CoinDesk • 4h ago
 
 The Doug Liman thriller sees Oscar winner Affleck star as computer scientist Craig Wright who has claimed to be the founder of Bitcoin.
 
-Deadline • 15h ago
+Deadline • 17h ago
 
 ---
 
-**[Strategy Funds Entire $1 Billion Bitcoin Buy With Hybrid Securities](https://www.bloomberg.com/news/articles/2026-04-13/strategy-funds-entire-1-billion-bitcoin-buy-with-hybrid-securities)**
+**[Bitcoin Price Will Hit $21M, Claims Michael Saylor, Following Strategy’s Latest $1B Purchase](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-hit-21m-claims-145218173.html)**
 
-For the first time since launching its high-yield securities in July, Michael Saylor’s Strategy Inc. funded its latest $1 billion weekly Bitcoin purchase entirely through the sale of its “Stretch” perpetual preferred shares.
+Saylor doubles down on extreme long-term bullishness. Financing model aims to avoid forced liquidation risk. Bitcoin's price remains volatile. Michael Saylor, executive chairman of Bitcoin-buying ...
 
-Bloomberg.com • 1d ago
-
----
-
-**[Goldman Sachs files for its first bitcoin ETF product](https://www.reuters.com/legal/transactional/goldman-sachs-files-its-first-bitcoin-etf-product-2026-04-14/)**
-
-Reuters • 12h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -201,37 +195,41 @@ Reuters • 12h ago
 
 The fund would provide exposure to ETPs that hold bitcoin, options on spot Bitcoin ETPs and options on “Bitcoin ETP Indices."
 
-The Block • 17h ago
+The Block • 19h ago
 
 ---
 
-**[Goldman Sachs files for bitcoin income ETF in crypto push](https://www.coindesk.com/business/2026/04/14/goldman-sachs-files-for-bitcoin-income-etf-in-crypto-push)**
+**[Goldman Sachs files for its first bitcoin ETF product](https://www.reuters.com/legal/transactional/goldman-sachs-files-its-first-bitcoin-etf-product-2026-04-14/)**
 
-The bank is moving deeper into crypto with a bitcoin ETF that generates income by selling options on bitcoin-linked funds, following BlackRock’s push into similar yield-focused products.
-
-CoinDesk • 17h ago
+Reuters • 13h ago
 
 ---
 
-**[Billionaire Tim Draper Predicts Bitcoin Will Reach This Price in 18 Months](https://finance.yahoo.com/markets/crypto/articles/billionaire-tim-draper-predicts-bitcoin-194349742.html)**
+**[Goldman Sachs makes surprise jump into Bitcoin ETFs with a product one analyst dubs ‘boomer candy’](https://fortune.com/2026/04/14/goldman-sachs-bitcoin-etf-boomer-candy/)**
 
-Tim Draper recounts his Bitcoin losses and US Marshals auction win while predicting BTC could reach $250,000 in 18 months.
+The filing from a major U.S. bank comes shortly after Morgan Stanley’s Bitcoin ETF launched
 
-Yahoo Finance • 13h ago
+Fortune • 16h ago
 
 ---
 
 **[‘True Currency’—Elon Musk’s X Is Quietly Teasing A Bitcoin And Crypto Price Game-Changer](https://www.forbes.com/sites/digital-assets/2026/04/14/true-currency-elon-musks-x-is-quietly-teasing-a-bitcoin-and-crypto-price-game-changer/)**
 
-Forbes • 21h ago
+Forbes • 22h ago
 
 ---
 
-**[Fake Ledger app on Apple App Store linked to $9.5M crypto theft across Bitcoin, Tron, Solana: ZachXBT](https://www.theblock.co/post/397388/fake-ledger-app-apple-app-store-crypto-theft-bitcoin-tron-solana-zachxbt)**
+**[Bitcoin Price Rising During Iran War? Bitwise CIO Points to ‘Dual Use Case’ Over Gold After $1M Prediction](https://www.ccn.com/news/crypto/bitcoin-price-rising-iran-war-bitwise-dual-use-case-gold-1m-prediction/)**
 
-A fake Ledger app on Apple's App Store drained $9.5M from more than 50 victims across Bitcoin, Tron and Solana, ZachXBT said.
+CCN.com • 2h ago
 
-The Block • 18h ago
+---
+
+**[Trump Fed Pick Kevin Warsh Reveals Stake in Bitcoin Lightning Startup Flashnet](https://bitcoinmagazine.com/news/kevin-warsh-stake-bitcoin-startup)**
+
+Kevin Warsh, President Donald Trump’s nominee to lead the Federal Reserve, has reported an equity stake in Bitcoin payments startup Flashnet.
+
+Bitcoin Magazine • 17h ago
 
 ---
 
@@ -323,7 +321,7 @@ Michael Saylor may have just revealed the most aggressive Bitcoin accumulation s
 
 📺 Simply Bitcoin
 
-👁️ 41K • 👍 2K • 💬 230 • ⏱️ 20:15 • 10h ago
+👁️ 41K • 👍 2K • 💬 230 • ⏱️ 20:15 • 12h ago
 
 ---
 
@@ -343,7 +341,7 @@ Anthony Pompliano and John Pompliano break down what's really happening with bit
 
 📺 Anthony Pompliano
 
-👁️ 18K • 👍 777 • 💬 4 • ⏱️ 28:36 • 12h ago
+👁️ 18K • 👍 777 • 💬 4 • ⏱️ 28:36 • 13h ago
 
 ---
 
@@ -353,7 +351,7 @@ IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purp
 
 📺 The Kenzo Guy
 
-👁️ 8K • 👍 331 • 💬 24 • ⏱️ 24:05 • 10h ago
+👁️ 8K • 👍 331 • 💬 24 • ⏱️ 24:05 • 11h ago
 
 ---
 
@@ -373,7 +371,7 @@ Many factors caused the crypto and bitcoin pump but I don't think it will last s
 
 📺 Digital Asset News
 
-👁️ 6K • 👍 459 • 💬 35 • ⏱️ 35:55 • 12h ago
+👁️ 6K • 👍 459 • 💬 35 • ⏱️ 35:55 • 14h ago
 
 ---
 
@@ -393,7 +391,7 @@ Subscribe for daily Bitcoin signal - not noise. Watch the full uncensored livest
 
 📺 Bitcoin News Alerts
 
-👁️ 2K • 👍 134 • 💬 116 • ⏱️ 20:00 • 10h ago
+👁️ 2K • 👍 134 • 💬 116 • ⏱️ 20:00 • 12h ago
 
 ---
 
@@ -403,7 +401,7 @@ The global elite have had a pretty sweet gig for about a century. Print money. H
 
 📺 Swan Bitcoin
 
-👁️ 5K • 👍 485 • 💬 40 • ⏱️ 16:47 • 11h ago
+👁️ 5K • 👍 485 • 💬 40 • ⏱️ 16:47 • 13h ago
 
 ---
 
@@ -413,7 +411,7 @@ Follow me on X for my best content: http://www.X.com/AdamBLiv Transform Dormant 
 
 📺 Adam Livingston
 
-👁️ 5K • 👍 643 • 💬 132 • ⏱️ 16:22 • 12h ago
+👁️ 5K • 👍 643 • 💬 132 • ⏱️ 16:22 • 14h ago
 
 ---
 

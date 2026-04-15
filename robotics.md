@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-15T09:04:17.831485+00:00'
+updated: '2026-04-15T10:42:33.022866+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 15, 2026 at 09:04 UTC  
+**Last Updated:** April 15, 2026 at 10:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,21 @@ Robotics research and industry news
 
 Blog post: Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning: https://deepmind.google/blog/gemini-robotics-er-1-6/ From Google DeepMind on 𝕏: https://x.com/GoogleDeepMind/status/2044069878781390929
 
-6h ago
+8h ago
+
+---
+
+**[Truck -> Stretch by Boston Dynamics -> Conveyor -> Reflex -> Pallet](https://www.reddit.com/r/robotics/comments/1sm1c9x/truck_stretch_by_boston_dynamics_conveyor_reflex/)**
+
+From Reflex Robotics on 𝕏: https://x.com/ReflexRobot/status/2044154114108543297
+
+56m ago
 
 ---
 
 **[Automated Guided Vehicles At Long Beach Container Terminal](https://www.reddit.com/r/robotics/comments/1slnxdj/automated_guided_vehicles_at_long_beach_container/)**
 
-10h ago
+12h ago
 
 ---
 
@@ -50,7 +58,7 @@ Blog post: Gemini Robotics-ER 1.6: Powering real-world robotics tasks through en
 
 OpenArm is an open-source humanoid arm platform developed by Enactic in Tokyo. It includes full CAD files, control code, firmware, and simulation tools, allowing users to build, modify, and test the system themselves. The arms are compliant and backdrivable, with teleoperation support that includes force feedback and gravity compensation. It also integrates with MuJoCo and Isaac Sim, enabling simulation-first development before running on real hardware. Project page: https://github.com/enactic/OpenArm
 
-15h ago
+17h ago
 
 ---
 
@@ -58,7 +66,7 @@ OpenArm is an open-source humanoid arm platform developed by Enactic in Tokyo. I
 
 Curious how it does over longer distances. Didn’t expect it to look this stable, but I’m guessing things might get tricky over a full half marathon distance.
 
-5h ago
+7h ago
 
 ---
 
@@ -66,7 +74,29 @@ Curious how it does over longer distances. Didn’t expect it to look this stabl
 
 Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/2043873782620926032
 
-22h ago
+1d ago
+
+---
+
+**[issue with 2 or 3 dof ik solver of moveit2](https://www.reddit.com/r/robotics/comments/1sm2d8i/issue_with_2_or_3_dof_ik_solver_of_moveit2/)**
+
+i was trying to move my 2/3 dof manipulator by using moveit default ik kdl but for every coordinate its showing cant find solution, ik solver timeout,invalid pose state.. i heard kdl has issue with dof less than 6 as it is designed for 6dof,is it true?? if yes ,then whats the solution for lower dof?? although i can bypass ik solver by manually solving it but i want to use moveit's ik solver as fot 4,5 dof it will be hard. thank you
+
+just now
+
+---
+
+**[Robot dog with Elon Musk's face wandering the streets.](https://www.reddit.com/r/robotics/comments/1sm2aej/robot_dog_with_elon_musks_face_wandering_the/)**
+
+4m ago
+
+---
+
+**[Very well done primer on what is Physical AI](https://www.reddit.com/r/robotics/comments/1sm0nap/very_well_done_primer_on_what_is_physical_ai/)**
+
+I have seen the question "What is Physical AI" pop up on my reddit feed quite a few times. Thought it would be useful to share this video and surface a very nice explanation.
+
+🔗 [youtube.com](https://www.youtube.com/watch?v=GOsnf5lOIrI) • 1h ago
 
 ---
 
@@ -74,37 +104,7 @@ Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/2043873782620926032
 
 https://youtube.com/@joshbongard3314?si=SUzZJityisRA-UE8 It is honestly wild to me how few views Josh Bongard’s YouTube lectures have. He has been doing fascinating work at the intersection of artificial intelligence, evolutionary systems, robotics, and intelligence itself, his talks are full of substance and he is a close collaborator of Michael Levin. No hype, just real ideas from someone who has spent years thinking deeply about how minds and machines emerge, adapt, and learn.
 
-8h ago
-
----
-
-**[I quit my robotics job because they were moving into weaponized platforms. Now I'm starting my own venture and need some feedback.](https://www.reddit.com/r/robotics/comments/1skn0jj/i_quit_my_robotics_job_because_they_were_moving/)**
-
-Two weeks ago, I quit my job at a robotics company. I didn't have another offer lined up, and I was working with some amazing hardware (Boston Dynamics, Unitree, Husarion). On paper, it was great. But the company began moving into the defense sector and planned to mount teleoperated weapons on the platforms for a demo. That crossed a hard line for me, so I walked away. I want to build robots (and the tools we use to control them) that actually adapt to people and improve interactions, not something that could potentially hurt someone. I've decided to take the leap into entrepreneurship. Right now, I'm trying to better understand how engineers, developers, and makers actually work with their robots day to day, what frustrates them about current control interfaces, and what's missing. If you work with robots (ROS2, embedded, commercial, whatever) or just tinker with them, I would really appreciate 3 minutes of your time to fill out this customer discovery survey: 👉 https://forms.gle/3Nm76wkeT5CMt23c8 I'm also really curious to hear your thoughts here in the thread: Have any of you faced similar ethical dilemmas in your robotics careers? How did you handle it? Happy to discuss in the comments. Thanks!
-
-1d ago
-
----
-
-**[Time travel debugging for robots](https://www.reddit.com/r/robotics/comments/1slj6x3/time_travel_debugging_for_robots/)**
-
-Check out why we built determinism as a core principle for our open source copper-rs project. Imagine being able to instantly reproduce deterministically any bug on your robotics platform, just jumping at the time the mistake happened, fix it, compare and never regress. https://youtu.be/eMpEeXYkQDw
-
-13h ago
-
----
-
-**[Beijing’s Humanoid Robot Half Marathon, Night Run Test - Around 40% of teams are running fully autonomous, remote-controlled runs get a 1.2× penalty (Beijing's E-Town Half Marathon on April 19 with 100+ teams, 300+ humanoids competing)](https://www.reddit.com/r/robotics/comments/1sk6p2y/beijings_humanoid_robot_half_marathon_night_run/)**
-
-1d ago
-
----
-
-**[Boston Dynamics on why second-gen robots are where the real progress happens](https://www.reddit.com/r/robotics/comments/1skg5ki/boston_dynamics_on_why_secondgen_robots_are_where/)**
-
-Zack Jackowski, VP of Atlas Product at Boston Dynamics, explains that the first robot is really just a research machine used to figure out how everything actually works together. When they built it, they didn’t fully understand how all the components would interact, so it ended up overbuilt and a bit unbalanced, with things like multiple computers and parts pushed to extremes. He describes how the second-generation design is where that learning gets applied. Once they have real data, they can simplify the system, remove what isn’t needed, and make better decisions about weight, strength, and compute. The result isn’t not just a cheaper version, it’s a more efficient and better-performing robot overall because it’s based on what they learned from the first one rather than assumptions. j
-
-1d ago
+9h ago
 
 ---
 
@@ -116,7 +116,7 @@ Zack Jackowski, VP of Atlas Product at Boston Dynamics, explains that the first 
 
 Gemini Robotics ER 1.6 upgrades spatial reasoning and multi-view understanding, unlocking new capabilities like instrument reading for autonomous robots.
 
-Google DeepMind • 18h ago
+Google DeepMind • 19h ago
 
 ---
 
@@ -124,7 +124,7 @@ Google DeepMind • 18h ago
 
 The addition of Gemini Robotics brings embodied AI reasoning to inspection robots
 
-IEEE Spectrum • 13h ago
+IEEE Spectrum • 14h ago
 
 ---
 
@@ -132,15 +132,27 @@ IEEE Spectrum • 13h ago
 
 A recent demo shows Boston Dynamics Spot in a residential home, using Google’s visual-language model (VLM) Gemini Robotics-ER 1.5 for embodied reasoning.
 
-Boston Dynamics • 17h ago
+Boston Dynamics • 19h ago
 
 ---
 
-**[Chicago bus shelter ad apologizes after video shows food delivery robots with Serve Robotics crash into Grand and Racine bus stop](https://abc7chicago.com/post/chicago-bus-shelter-ad-apologizes-video-shows-food-delivery-robots-serve-robotics-crash-grand-racine-stop/18885510/)**
+**[Tesla’s Chinese Robot Rival Ramps up Global Push Ahead of IPO](https://www.bloomberg.com/news/articles/2026-04-15/tesla-s-chinese-robot-rival-ramps-up-global-push-ahead-of-ipo)**
 
-The owner of a robot delivery service is trying to turn a shattering experience into a good laugh.
+Bloomberg.com • 1h ago
 
-ABC7 Chicago • 15h ago
+---
+
+**[Chinese humanoid robots prepare for second-ever half marathon in Beijing](https://www.nbcnews.com/video/chinese-humanoid-robots-prepare-for-second-ever-half-marathon-in-beijing-261285445622)**
+
+Chinese humanoid robots train to go head-to-head with human runners in the second-ever Beijing half marathon. NBC News' Kathy Park reports.
+
+NBC News • 1d ago
+
+---
+
+**[Hyundai Motor Chairman Doubles Down On AI And Robotics](https://www.forbes.com/sites/catzxwang/2026/04/13/hyundai-motor-chairman-doubles-down-on-ai-and-robotics/)**
+
+Forbes • 1d ago
 
 ---
 
@@ -148,37 +160,21 @@ ABC7 Chicago • 15h ago
 
 “The occupiers surrendered, and the operation was carried out without infantry and without losses on our side,” says Ukrainian leader.
 
-politico.eu • 23h ago
+politico.eu • 1d ago
 
 ---
 
 **[Korean AI chip startup DEEPX, Hyundai work on robots powered by generative AI](https://www.reuters.com/business/autos-transportation/korean-ai-chip-startup-deepx-hyundai-work-robots-powered-by-generative-ai-2026-04-15/)**
 
-Reuters • 6h ago
+Reuters • 7h ago
 
 ---
 
-**[Hesston Robotics prepares for world championship, needs final push in funding](https://www.yahoo.com/lifestyle/articles/hesston-robotics-prepares-world-championship-030000703.html)**
+**[Chicago bus shelter ad apologizes after video shows food delivery robots with Serve Robotics crash into Grand and Racine bus stop](https://abc7chicago.com/post/chicago-bus-shelter-ad-apologizes-video-shows-food-delivery-robots-serve-robotics-crash-grand-racine-stop/18885510/)**
 
-Since its inception, the program has been one of — if not the — best in the country, and now the students are preparing to perform on the world stage.
+The owner of a robot delivery service is trying to turn a shattering experience into a good laugh.
 
-Yahoo • 6h ago
-
----
-
-**[Maui High School robotics team wins Denver Regional, Qualifies for World Championships](https://mauinow.com/2026/04/14/maui-high-school-robotics-team-wins-denver-regional-qualifies-for-world-championships/)**
-
-The Maui High School robotics team 2443 Blue Thunder made history at the FIRST Robotics Competition Denver Regional, capturing the Regional Championship title and earning a coveted spot at the World Championships in Houston, Texas.
-
-Maui Now • 13h ago
-
----
-
-**[Centre County 4-H Robotics Team Qualifies for World Championship](https://www.statecollege.com/articles/community/centre-county-4-h-robotics-team-qualifies-for-world-championship/)**
-
-Centre Punch, the Centre County 4-H Robotics high school team, has earned a spot in the world championship after an outstanding performance at a FIRST
-
-StateCollege.com • 1d ago
+ABC7 Chicago • 17h ago
 
 ---
 
@@ -186,7 +182,7 @@ StateCollege.com • 1d ago
 
 A robotics company has issued a cheeky apology after one of their robots crashed into a Chicago Transit Authority bus stop last month.
 
-NBC 5 Chicago • 7h ago
+NBC 5 Chicago • 9h ago
 
 ---
 
@@ -250,7 +246,7 @@ Kanal13​ #likekanal13​ #subscribekanal13 #warinukraine https://www.youtube.c
 
 📺 Kanal13
 
-👁️ 34K • 👍 918 • 💬 55 • ⏱️ 10:09 • 21h ago
+👁️ 34K • 👍 918 • 💬 55 • ⏱️ 10:09 • 22h ago
 
 ---
 
@@ -280,7 +276,7 @@ A humanoid robot named Edward Warchocki chased away a herd of wild boars in Wars
 
 📺 Reuters
 
-👁️ 23K • 👍 471 • 💬 55 • ⏱️ 0:26 • 16h ago
+👁️ 23K • 👍 471 • 💬 55 • ⏱️ 0:26 • 18h ago
 
 ---
 
