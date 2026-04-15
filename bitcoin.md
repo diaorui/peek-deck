@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-15T21:53:52.064205+00:00'
+updated: '2026-04-15T22:42:20.179492+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
+- news
 - videos
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 15, 2026 at 21:53 UTC  
+**Last Updated:** April 15, 2026 at 22:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Hello, I have a concern based on semi-technical article I read on local (Czech) news site. I have some Bitcoin in a cold storage address in the "old" format (starting with "1F...") that I have created in 2015. During the following 11 years, my BTC just sat there, with very few partial withdrawals (3 or 4 total). No "change address" was used, the remaining BTC are still in the same wallet. I do not intend to do anything with the remaining BTC in the near future, I just want them to sit there. Unfortunately, during those 10 years, I was less active in the Bitcoin scene and did not closely watch the developments and happenings in the world of Bitcoin. I just want to hold the remaining BTC for several more years, I don't need them now. My question is: Are my remaining BTC still reasonably safe in that old address or is there some truth to the rumor that "Old format BTC wallets are now at risk?" P.S: Of course, my private key from that wallet is securely stored and I am aware of the importance of it not being leaked / lost. That's not what my question is about. UPDATE: I am genuinely perplexed why some users here keep suggesting to "get Trezor". I would STILL have to store the private key somewhere (in case the Trezor malfunctions) and the device itself would only introduce a new attack vector. I am absolutely at loss understanding how Trezor could possibly be useful in my scenario, where I am only planning to do ONE additional transaction from this address to the exchange.
 
-1h ago
+2h ago
 
 ---
 
@@ -89,7 +89,7 @@ Hello, I have a concern based on semi-technical article I read on local (Czech) 
 
 Yes, i started buying since the February 2026. I believe this year could be a good year to start stacking. Wish me luck boys. See you in 10years.
 
-9h ago
+10h ago
 
 ---
 
@@ -105,7 +105,7 @@ Andrew Mensah and Gbemi Oladipo. Mods, remove if off topic. I just felt like thi
 
 Billionaire venture capitalist Tim Draper has never shied away from advocating Bitcoin (BTC), no matter what Wall Street thinks. Draper was among the earlier investors in Elon Musk's Tesla (Nasdaq: TSLA) in 2006, long before the EV car maker experimented with Bitcoin payments and built a ...
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/billionaire-tim-draper-doubles-down-005000353.html) • 20h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/billionaire-tim-draper-doubles-down-005000353.html) • 21h ago
 
 ---
 
@@ -121,7 +121,7 @@ A veteran Wall Street investor and market strategist is making a bold call on Bi
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/Mxl4mJZBDk8?si=hKjzcix0L82eYHSQ) • 1h ago
+🔗 [youtu.be](https://youtu.be/Mxl4mJZBDk8?si=hKjzcix0L82eYHSQ) • 2h ago
 
 ---
 
@@ -143,7 +143,7 @@ Goldman Sachs has filed to launch a Bitcoin Premium Income ETF, signaling a deep
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://youtube.com/shorts/TeIOxnRmkq0) • 6h ago
+🔗 [youtube.com](https://youtube.com/shorts/TeIOxnRmkq0) • 7h ago
 
 ---
 
@@ -151,7 +151,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 How many of you actually attend your local meetup? This podcast is great and I think there's so many Bitcoiners that aren't getting involved. Huge opportunity to build your own meetup. https://open.spotify.com/show/5v5AX2C7ubaV1xjfL2EMZV?si=wfyeaPsjSeWTvRfCY9O9pw%0A
 
-18m ago
+1h ago
 
 ---
 
@@ -183,7 +183,7 @@ Yahoo Finance • 1d ago
 
 **[Goldman’s Bitcoin ETF Push Signals Wall Street Taming of Crypto](https://www.bloomberg.com/news/articles/2026-04-15/goldman-s-bitcoin-etf-push-signals-wall-street-taming-of-crypto)**
 
-Bloomberg.com • 5h ago
+Bloomberg.com • 6h ago
 
 ---
 
@@ -205,7 +205,7 @@ Reuters • 1d ago
 
 Strive said Wednesday it is raising the dividend rate on its Variable Rate Series A Perpetual Preferred Stock to 13...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -213,7 +213,7 @@ Yahoo Finance • 1h ago
 
 An Iranian government spokesperson said the country wants Bitcoin for passage through the Strait of Hormuz.  The demand comes as Israel, Iran and the US remain at war.   Bitcoin isn't ready to handle that level of payments, said the Bitcoin Policy Institute.
 
-dlnews.com • 33m ago
+dlnews.com • 1h ago
 
 ---
 
@@ -221,7 +221,7 @@ dlnews.com • 33m ago
 
 The Bitcoin blockchain itself has never been hacked and has operated securely and without interruption since 2009. The Mythos threat probably won't change that.
 
-CNBC • 5h ago
+CNBC • 6h ago
 
 ---
 
@@ -229,7 +229,7 @@ CNBC • 5h ago
 
 Doug Liman made a $70 million movie using AI about the creator of bitcoin called Killing Satoshi, starring Gal Gadot, Casey Affleck and Pete Davidson.
 
-TheWrap • 8h ago
+TheWrap • 9h ago
 
 ---
 
@@ -271,7 +271,7 @@ Imagine one person holding the keys to Bitcoin’s entire future. That was Satos
 
 **[Bitcoin.com Deplatformed by YouTube](https://news.ycombinator.com/item?id=47697080)**
 
-⬆️ 4 • 💬 0 • 6d ago • [X (formerly Twitter)](https://twitter.com/i/status/2041756576600748142)
+⬆️ 4 • 💬 0 • 7d ago • [X (formerly Twitter)](https://twitter.com/i/status/2041756576600748142)
 
 ---
 
@@ -285,7 +285,7 @@ Imagine one person holding the keys to Bitcoin’s entire future. That was Satos
 
 New York Times report claims London-born Adam Back is creator of the cryptocurrency after comparing writings
 
-⬆️ 3 • 💬 1 • 6d ago • [the Guardian](https://www.theguardian.com/technology/2026/apr/08/british-computer-scientist-adam-back-denies-he-is-bitcoin-developer-satoshi-nakamoto)
+⬆️ 3 • 💬 1 • 7d ago • [the Guardian](https://www.theguardian.com/technology/2026/apr/08/british-computer-scientist-adam-back-denies-he-is-bitcoin-developer-satoshi-nakamoto)
 
 ---
 
@@ -293,7 +293,7 @@ New York Times report claims London-born Adam Back is creator of the cryptocurre
 
 C64 Bitcoin wallet. Contribute to geek197/c64wallet development by creating an account on GitHub.
 
-⬆️ 3 • 💬 0 • 10h ago • [GitHub](https://github.com/geek197/c64wallet)
+⬆️ 3 • 💬 0 • 11h ago • [GitHub](https://github.com/geek197/c64wallet)
 
 ---
 
@@ -309,7 +309,7 @@ Bitcoin Core Will Maintain the Protocol. It May Not Save It. The reference imple
 
 The most popular and trusted block explorer and crypto transaction search engine.
 
-⬆️ 2 • 💬 2 • 4d ago • [blockchain.com](https://www.blockchain.com/explorer/addresses/btc/1PWo3JeB9jrGwfHDNpdGK54CRas7fsVzXU)
+⬆️ 2 • 💬 2 • 5d ago • [blockchain.com](https://www.blockchain.com/explorer/addresses/btc/1PWo3JeB9jrGwfHDNpdGK54CRas7fsVzXU)
 
 ---
 
@@ -323,7 +323,7 @@ Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FR
 
 📺 CryptosRUs
 
-👁️ 13K • 👍 862 • 💬 119 • ⏱️ 37:53 • 7h ago
+👁️ 13K • 👍 862 • 💬 119 • ⏱️ 37:53 • 8h ago
 
 ---
 
@@ -333,7 +333,7 @@ Michael Saylor may have just revealed the most aggressive Bitcoin accumulation s
 
 📺 Simply Bitcoin
 
-👁️ 60K • 👍 3K • 💬 339 • ⏱️ 20:15 • 23h ago
+👁️ 60K • 👍 3K • 💬 339 • ⏱️ 20:15 • 1d ago
 
 ---
 
@@ -373,7 +373,7 @@ Bitcoin #Crypto #Finance Is Michael Saylor quietly triggering a Bitcoin supply c
 
 📺 The Wolf Of All Streets
 
-👁️ 11K • 👍 673 • 💬 171 • ⏱️ 41:53 • 7h ago
+👁️ 11K • 👍 673 • 💬 171 • ⏱️ 41:53 • 8h ago
 
 ---
 
@@ -383,7 +383,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Sade Robinson 
 
-👁️ 2K • 👍 1K • 1h ago
+👁️ 2K • 👍 1K • 2h ago
 
 ---
 
@@ -393,7 +393,7 @@ Subscribe for daily Bitcoin signal - not noise. Watch the full uncensored livest
 
 📺 Bitcoin News Alerts
 
-👁️ 2K • 👍 171 • 💬 107 • ⏱️ 20:00 • 23h ago
+👁️ 2K • 👍 171 • 💬 107 • ⏱️ 20:00 • 1d ago
 
 ---
 
@@ -403,7 +403,7 @@ IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purp
 
 📺 The Kenzo Guy
 
-👁️ 11K • 👍 430 • 💬 34 • ⏱️ 24:05 • 22h ago
+👁️ 11K • 👍 430 • 💬 34 • ⏱️ 24:05 • 23h ago
 
 ---
 
@@ -413,7 +413,7 @@ Bitcoin bull and bear takes as buyers keep piling in! Stocks ripping BITUNIX TRA
 
 📺 Lark Davis
 
-👁️ 9K • 👍 543 • 💬 49 • ⏱️ 20:45 • 9h ago
+👁️ 9K • 👍 543 • 💬 49 • ⏱️ 20:45 • 10h ago
 
 ---
 

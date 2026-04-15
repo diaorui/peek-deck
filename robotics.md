@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-15T21:53:52.073462+00:00'
+updated: '2026-04-15T22:42:20.187525+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 15, 2026 at 21:53 UTC  
+**Last Updated:** April 15, 2026 at 22:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,13 +44,13 @@ From Reflex Robotics on 𝕏: https://x.com/ReflexRobot/status/20441541141085432
 
 Teleoperation through a ps5 controller, powered by ROS2 and an stm32. Honestly not too happy with it but this is my first robot ever, wanted to challenge myself. Too much vibration and shaky teleop.
 
-4h ago
+5h ago
 
 ---
 
 **[Robot dog with Elon Musk's face wandering the streets.](https://www.reddit.com/r/robotics/comments/1sm2aej/robot_dog_with_elon_musks_face_wandering_the/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -66,7 +66,7 @@ l get a dtof lidar, l want to use it on my drone for obstacles avoidance. today,
 
 Blog post: Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning: https://deepmind.google/blog/gemini-robotics-er-1-6/ From Google DeepMind on 𝕏: https://x.com/GoogleDeepMind/status/2044069878781390929
 
-19h ago
+20h ago
 
 ---
 
@@ -74,7 +74,7 @@ Blog post: Gemini Robotics-ER 1.6: Powering real-world robotics tasks through en
 
 Ukraine's defense ministry said that its forces tripled UGV missions since November to over 9,000 tasks in March alone.
 
-🔗 [Business Insider](https://www.businessinsider.com/ukraine-ground-robots-troops-uncrewed-ground-vehicles-first-quarter-2026-4) • 9h ago
+🔗 [Business Insider](https://www.businessinsider.com/ukraine-ground-robots-troops-uncrewed-ground-vehicles-first-quarter-2026-4) • 10h ago
 
 ---
 
@@ -82,7 +82,7 @@ Ukraine's defense ministry said that its forces tripled UGV missions since Novem
 
 The architecture is a dual system: → Gemini Robotics-ER 1.6: the "strategist" — spatial reasoning, object counting, instrument reading, task verification → Gemini Robotics 1.5 (VLA): executes motor commands The instrument reading jump (23%- 93%) comes from agentic vision — the model iterates visually rather than making a single-pass prediction. Current deployment: Boston Dynamics Spot reading pressure meters and sight glasses during facility inspection. The honest limitation: these demos are in controlled environments. Industrial deployment requires handling edge cases that structured tests don't surface. Full analysis: https://www.aiuniverse.news/google-deepminds-new-robot-brain-masters-reading-dials-and-understanding-space/
 
-🔗 [AI Universe](https://www.aiuniverse.news/google-deepminds-new-robot-brain-masters-reading-dials-and-understanding-space/) • 7h ago
+🔗 [AI Universe](https://www.aiuniverse.news/google-deepminds-new-robot-brain-masters-reading-dials-and-understanding-space/) • 8h ago
 
 ---
 
@@ -90,7 +90,7 @@ The architecture is a dual system: → Gemini Robotics-ER 1.6: the "strategist" 
 
 Seems like some people have access to view their paper decisions for RSS? Decisions were sent out but then deleted. You can view under Recent Activity in Open Review.
 
-1h ago
+2h ago
 
 ---
 
@@ -106,7 +106,7 @@ OpenArm is an open-source humanoid arm platform developed by Enactic in Tokyo. I
 
 https://i.redd.it/mw5wu8lgndvg1.gif Robots process each camera frame and forget it. RTSM watches an RGB-D stream, segments objects, tracks them across viewpoints, and maintains a queryable 3D object map. pip install rtsm[gpu] && rtsm demo Built with SAM2 + Grounding DINO + SigLIP. Apache 2.0. Any AI agent can query via MCP. GitHub: https://github.com/calabi-inc/rtsm
 
-5h ago
+6h ago
 
 ---
 
@@ -134,13 +134,13 @@ blog.google • 1d ago
 
 Google's AI enables robots to read gauges while inspecting industrial facilities.
 
-Ars Technica • 2h ago
+Ars Technica • 3h ago
 
 ---
 
 **[Skild AI Acquires Zebra Technologies’ Robotics Automation Business](https://www.bloomberg.com/news/articles/2026-04-15/skild-ai-acquires-zebra-technologies-robotics-automation-business)**
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -154,7 +154,7 @@ politico.eu • 1d ago
 
 **[Cadence, Nvidia working together on developing AI for robotics](https://www.reuters.com/technology/cadence-nvidia-working-together-developing-ai-robotics-2026-04-15/)**
 
-Reuters • 31m ago
+Reuters • 1h ago
 
 ---
 
@@ -162,7 +162,7 @@ Reuters • 31m ago
 
 Panther has been filmed doing basic household chores, like making the bed and cooking breakfast.
 
-Live Science • 5h ago
+Live Science • 6h ago
 
 ---
 
@@ -170,13 +170,13 @@ Live Science • 5h ago
 
 A robotics company has issued a cheeky apology after one of their robots crashed into a Chicago Transit Authority bus stop last month.
 
-NBC 5 Chicago • 20h ago
+NBC 5 Chicago • 21h ago
 
 ---
 
 **[Hesston Robotics prepares for world championship, needs final push in funding](https://www.ksn.com/community/positive-connections/hesston-robotics-prepares-for-world-championship-needs-final-push-in-funding/)**
 
-KSN.com • 18h ago
+KSN.com • 19h ago
 
 ---
 
@@ -184,7 +184,7 @@ KSN.com • 18h ago
 
 Pilot programs in robotics labs and physical learning spaces will test AI companions beyond screens, shaping scalable education use cases in North America.
 
-Stock Titan • 10h ago
+Stock Titan • 11h ago
 
 ---
 
@@ -278,7 +278,7 @@ The Dyson spot+scrub ai robot vacuum is highly anticipated. We purchased one to 
 
 📺 Vacuum Nerds
 
-👁️ 3K • 👍 95 • 💬 27 • ⏱️ 13:22 • 8h ago
+👁️ 3K • 👍 95 • 💬 27 • ⏱️ 13:22 • 9h ago
 
 ---
 
