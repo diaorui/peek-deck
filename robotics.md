@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-15T11:56:51.865539+00:00'
+updated: '2026-04-15T13:47:50.548490+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 15, 2026 at 11:56 UTC  
+**Last Updated:** April 15, 2026 at 13:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,19 +32,33 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Google DeepMind launches Gemini Robotics ER 1.6, a reasoning-first model that enables robots to understand environments through spatial reasoning and multi-view understanding](https://www.reddit.com/r/robotics/comments/1sltawg/google_deepmind_launches_gemini_robotics_er_16_a/)**
-
-Blog post: Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning: https://deepmind.google/blog/gemini-robotics-er-1-6/ From Google DeepMind on 𝕏: https://x.com/GoogleDeepMind/status/2044069878781390929
-
-9h ago
-
----
-
 **[Truck -> Stretch by Boston Dynamics -> Conveyor -> Reflex -> Pallet](https://www.reddit.com/r/robotics/comments/1sm1c9x/truck_stretch_by_boston_dynamics_conveyor_reflex/)**
 
 From Reflex Robotics on 𝕏: https://x.com/ReflexRobot/status/2044154114108543297
 
-2h ago
+4h ago
+
+---
+
+**[Google DeepMind launches Gemini Robotics ER 1.6, a reasoning-first model that enables robots to understand environments through spatial reasoning and multi-view understanding](https://www.reddit.com/r/robotics/comments/1sltawg/google_deepmind_launches_gemini_robotics_er_16_a/)**
+
+Blog post: Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning: https://deepmind.google/blog/gemini-robotics-er-1-6/ From Google DeepMind on 𝕏: https://x.com/GoogleDeepMind/status/2044069878781390929
+
+11h ago
+
+---
+
+**[Robot dog with Elon Musk's face wandering the streets.](https://www.reddit.com/r/robotics/comments/1sm2aej/robot_dog_with_elon_musks_face_wandering_the/)**
+
+3h ago
+
+---
+
+**[Ukraine says it replaced human soldiers with 'ground robots' in over 21,000 missions for Q1](https://www.reddit.com/r/robotics/comments/1sm3vb7/ukraine_says_it_replaced_human_soldiers_with/)**
+
+Ukraine's defense ministry said that its forces tripled UGV missions since November to over 9,000 tasks in March alone.
+
+🔗 [Business Insider](https://www.businessinsider.com/ukraine-ground-robots-troops-uncrewed-ground-vehicles-first-quarter-2026-4) • 1h ago
 
 ---
 
@@ -52,7 +66,7 @@ From Reflex Robotics on 𝕏: https://x.com/ReflexRobot/status/20441541141085432
 
 OpenArm is an open-source humanoid arm platform developed by Enactic in Tokyo. It includes full CAD files, control code, firmware, and simulation tools, allowing users to build, modify, and test the system themselves. The arms are compliant and backdrivable, with teleoperation support that includes force feedback and gravity compensation. It also integrates with MuJoCo and Isaac Sim, enabling simulation-first development before running on real hardware. Project page: https://github.com/enactic/OpenArm
 
-18h ago
+20h ago
 
 ---
 
@@ -60,13 +74,7 @@ OpenArm is an open-source humanoid arm platform developed by Enactic in Tokyo. I
 
 Curious how it does over longer distances. Didn’t expect it to look this stable, but I’m guessing things might get tricky over a full half marathon distance.
 
-8h ago
-
----
-
-**[Robot dog with Elon Musk's face wandering the streets.](https://www.reddit.com/r/robotics/comments/1sm2aej/robot_dog_with_elon_musks_face_wandering_the/)**
-
-1h ago
+10h ago
 
 ---
 
@@ -78,19 +86,11 @@ Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/2043873782620926032
 
 ---
 
-**[Ukraine says it replaced human soldiers with 'ground robots' in over 21,000 missions for Q1](https://www.reddit.com/r/robotics/comments/1sm3vb7/ukraine_says_it_replaced_human_soldiers_with/)**
-
-Ukraine's defense ministry said that its forces tripled UGV missions since November to over 9,000 tasks in March alone.
-
-🔗 [Business Insider](https://www.businessinsider.com/ukraine-ground-robots-troops-uncrewed-ground-vehicles-first-quarter-2026-4) • 2m ago
-
----
-
 **[issue with 2 or 3 dof ik solver of moveit2](https://www.reddit.com/r/robotics/comments/1sm2d8i/issue_with_2_or_3_dof_ik_solver_of_moveit2/)**
 
 i was trying to move my 2/3 dof manipulator by using moveit default ik kdl but for every coordinate its showing cant find solution, ik solver timeout,invalid pose state.. i heard kdl has issue with dof less than 6 as it is designed for 6dof,is it true?? if yes ,then whats the solution for lower dof?? although i can bypass ik solver by manually solving it but i want to use moveit's ik solver as fot 4,5 dof it will be hard. thank you
 
-1h ago
+3h ago
 
 ---
 
@@ -98,7 +98,7 @@ i was trying to move my 2/3 dof manipulator by using moveit default ik kdl but f
 
 I have seen the question "What is Physical AI" pop up on my reddit feed quite a few times. Thought it would be useful to share this video and surface a very nice explanation.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=GOsnf5lOIrI) • 2h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=GOsnf5lOIrI) • 4h ago
 
 ---
 
@@ -106,7 +106,7 @@ I have seen the question "What is Physical AI" pop up on my reddit feed quite a 
 
 https://youtube.com/@joshbongard3314?si=SUzZJityisRA-UE8 It is honestly wild to me how few views Josh Bongard’s YouTube lectures have. He has been doing fascinating work at the intersection of artificial intelligence, evolutionary systems, robotics, and intelligence itself, his talks are full of substance and he is a close collaborator of Michael Levin. No hype, just real ideas from someone who has spent years thinking deeply about how minds and machines emerge, adapt, and learn.
 
-11h ago
+12h ago
 
 ---
 
@@ -118,15 +118,7 @@ https://youtube.com/@joshbongard3314?si=SUzZJityisRA-UE8 It is honestly wild to 
 
 Gemini Robotics ER 1.6 upgrades spatial reasoning and multi-view understanding, unlocking new capabilities like instrument reading for autonomous robots.
 
-Google DeepMind • 20h ago
-
----
-
-**[​Boston Dynamics and Google DeepMind Teach Spot to Reason​](https://spectrum.ieee.org/boston-dynamics-spot-google-deepmind)**
-
-The addition of Gemini Robotics brings embodied AI reasoning to inspection robots
-
-IEEE Spectrum • 16h ago
+Google DeepMind • 22h ago
 
 ---
 
@@ -134,7 +126,15 @@ IEEE Spectrum • 16h ago
 
 An overview of Gemini Robotics-ER 1.6, an upgrade to our reasoning-first model that helps robots to understand their environment.
 
-blog.google • 20h ago
+blog.google • 22h ago
+
+---
+
+**[​Boston Dynamics and Google DeepMind Teach Spot to Reason​](https://spectrum.ieee.org/boston-dynamics-spot-google-deepmind)**
+
+The addition of Gemini Robotics brings embodied AI reasoning to inspection robots
+
+IEEE Spectrum • 17h ago
 
 ---
 
@@ -142,37 +142,7 @@ blog.google • 20h ago
 
 Pilot programs in robotics labs and physical learning spaces will test AI companions beyond screens, shaping scalable education use cases in North America.
 
-Stock Titan • 20m ago
-
----
-
-**[Chinese humanoid robots prepare for second-ever half marathon in Beijing](https://www.nbcnews.com/video/chinese-humanoid-robots-prepare-for-second-ever-half-marathon-in-beijing-261285445622)**
-
-Chinese humanoid robots train to go head-to-head with human runners in the second-ever Beijing half marathon. NBC News' Kathy Park reports.
-
-NBC News • 1d ago
-
----
-
-**[Agibot's G2 humanoid robots with embodied AI work in Chinese factory](https://interestingengineering.com/ai-robotics/agibot-humanoid-robot-china-factory)**
-
-Agibot deploys humanoid G2 robots in live factory, handling precise tasks and advancing real-world industrial AI adoption.
-
-Interesting Engineering • 50m ago
-
----
-
-**[Tesla’s Chinese Robot Rival Ramps up Global Push Ahead of IPO](https://www.bloomberg.com/news/articles/2026-04-15/tesla-s-chinese-robot-rival-ramps-up-global-push-ahead-of-ipo)**
-
-Bloomberg.com • 2h ago
-
----
-
-**[Glitching robots are funny but AI experts say they signal 'Terminator'-level danger: 'Early warning signs'](https://nypost.com/2026/04/15/tech/glitching-robots-are-funny-but-ai-experts-say-they-signal-terminator-level-danger-early-warning-signs/)**
-
-In the dystopian future, these machines rage against you.
-
-New York Post • 56m ago
+Stock Titan • 2h ago
 
 ---
 
@@ -186,7 +156,35 @@ politico.eu • 1d ago
 
 **[Korean AI chip startup DEEPX, Hyundai work on robots powered by generative AI](https://www.reuters.com/business/autos-transportation/korean-ai-chip-startup-deepx-hyundai-work-robots-powered-by-generative-ai-2026-04-15/)**
 
-Reuters • 8h ago
+Reuters • 10h ago
+
+---
+
+**[Maui High School robotics team wins Denver Regional, Qualifies for World Championships](https://mauinow.com/2026/04/14/maui-high-school-robotics-team-wins-denver-regional-qualifies-for-world-championships/)**
+
+The Maui High School robotics team 2443 Blue Thunder made history at the FIRST Robotics Competition Denver Regional, capturing the Regional Championship title and earning a coveted spot at the World Championships in Houston, Texas.
+
+Maui Now • 18h ago
+
+---
+
+**[Glitching robots are funny but AI experts say they signal 'Terminator'-level danger: 'Early warning signs'](https://nypost.com/2026/04/15/tech/glitching-robots-are-funny-but-ai-experts-say-they-signal-terminator-level-danger-early-warning-signs/)**
+
+In the dystopian future, these machines rage against you.
+
+New York Post • 2h ago
+
+---
+
+**[30 Under 30 Europe Manufacturing & Industry 2026: The Builders Bringing AI, Robotics And Data To Industry](https://www.forbes.com/sites/alanohnsman/2026/04/14/30-under-30-europe-manufacturing--industry-2026-the-builders-bringing-ai-robotics-and-data-to-industry/)**
+
+Forbes • 1d ago
+
+---
+
+**[Tesla’s Chinese Robot Rival Ramps Pre-IPO Global Push](https://www.bloomberg.com/news/articles/2026-04-15/tesla-s-chinese-robot-rival-ramps-up-global-push-ahead-of-ipo)**
+
+Bloomberg.com • 4h ago
 
 ---
 
@@ -240,7 +238,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 27K • 👍 1K • 💬 132 • ⏱️ 4:16 • 20h ago
+👁️ 27K • 👍 1K • 💬 132 • ⏱️ 4:16 • 22h ago
 
 ---
 
@@ -278,7 +276,7 @@ A humanoid robot named Edward Warchocki chased away a herd of wild boars in Wars
 
 📺 Reuters
 
-👁️ 24K • 👍 484 • 💬 58 • ⏱️ 0:26 • 19h ago
+👁️ 24K • 👍 484 • 💬 58 • ⏱️ 0:26 • 21h ago
 
 ---
 

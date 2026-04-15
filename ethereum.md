@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-15T11:56:51.862756+00:00'
+updated: '2026-04-15T13:47:50.545645+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
-- videos
 - cryptocurrency
+- news
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 15, 2026 at 11:56 UTC  
+**Last Updated:** April 15, 2026 at 13:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,333.70
+### $2,324.91
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.8%  
-**7d:** +6.4%  
-**30d:** +0.6%  
-**90d:** -29.3%  
-**1y:** +47.7%  
+**24h:** -1.4%  
+**7d:** +5.9%  
+**30d:** +0.1%  
+**90d:** -29.6%  
+**1y:** +47.0%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+8h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 A fake Ledger Live clone sat on Apple's App Store for seven days and drained $9.5 million from 50 victims across Bitcoin, Ethereum, Solana, Tron and XRP. Apple's review process, which promises to protect users, let it through. Then removed it after the damage was done.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/fake-ledger-app-apple-app-store-9-million-drained/) • 17h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/fake-ledger-app-apple-app-store-9-million-drained/) • 19h ago
 
 ---
 
@@ -88,7 +88,7 @@ A fake Ledger Live clone sat on Apple's App Store for seven days and drained $9.
 
 Man I was looking at some recent governance votes across a few protocols and the amount of obvious botting is just depressing at this point. it feels like every time we come up with a new sybil resistance mechanism, someone just spins up a better script to farm it and now with AI agents getting actually decent at mimicking random on-chain behavior and passing standard checks, it seems like pure software solutions are just dead in the water. I really hate the idea of forced traditional KYC for web3 stuff because it completely defeats the point of privacy and just builds another centralized honeypot. was reading this technical deep dive the other day about setting up a private Proof Of Human using ZK tech so you don't actually tie your daily wallet to your real identity. tbh it made me realize we might actually need some kind of hardware or biometric anchor if we want to keep things decentralized without getting completely overrun by server farms it just sucks that the ecosystem is moving in a direction where simply "proving you are a person" is becoming the hardest part of interacting with ethereum. Idk, curious how you guys think L2s are gonna handle this long term because the current meta of hoping for the best isn't working
 
-17h ago
+18h ago
 
 ---
 
@@ -102,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Building a prediction market sector index — is this a gap or am I missing something obvious?](https://www.reddit.com/r/ethereum/comments/1slnr4y/building_a_prediction_market_sector_index_is_this/)**
 
-13h ago
+15h ago
 
 ---
 
@@ -156,9 +156,9 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum and XRP Prices Fall. Even an IPO Isn’t Lifting Cryptos.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-prices-cryptos-1da22190)**
+**[Bitcoin, XRP, Ethereum Fall. Iran Peace Failure Causes a Crypto Headache.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-iran-crypto-46d858c6)**
 
-Barron's • 2h ago
+Barron's • 2d ago
 
 ---
 
@@ -166,23 +166,37 @@ Barron's • 2h ago
 
 Bitcoin opened at $74,175.23 and ethereum  opened at $2,323.19. Both were down slightly from the day before.
 
-Yahoo Finance • 31m ago
-
----
-
-**[Ethereum Shorts Pile Up On Binance As Squeeze Risk Grows](https://www.tradingview.com/news/newsbtc:fe515b4c6094b:0-ethereum-shorts-pile-up-on-binance-as-squeeze-risk-grows/)**
-
-Ethereum’s derivatives market on Binance is flashing a setup that could leave short sellers exposed if the recent move higher continues. According to analysis shared on X by CryptoQuant contributor Darkfost, positioning has become increasingly one-sided even as ETH has rebounded sharply from its Fe…
-
-TradingView — Track All Markets • 1h ago
-
----
-
-**[BitMine Reports $3.82 Billion Quarterly Loss as Ethereum Bet Weighs Heavy](https://finance.yahoo.com/markets/crypto/articles/bitmine-reports-3-82-billion-090629115.html)**
-
-BitMine posted a $3.82 billion Q2 loss as unrealized Ethereum losses offset surging staking revenue from its 4.9 million ETH treasury.
-
 Yahoo Finance • 2h ago
+
+---
+
+**[Ethereum treasury news: Bitmine sits on $10 billion ETH but books $3.6 billion loss](https://www.coindesk.com/markets/2026/04/15/ethereum-treasury-firm-bitmine-reports-usd3-8-billion-q1-loss-in-latest-filing)**
+
+The largest corporate ether holder posted a $3.8 billion quarterly loss as its pivot from mining to ETH accumulation continues.
+
+CoinDesk • 3h ago
+
+---
+
+**[Bitmine Reports $3.8 Billion Loss As Ethereum Sinks](https://finance.yahoo.com/news/bitmine-reports-3-8-billion-125000138.html)**
+
+Yahoo Finance • 57m ago
+
+---
+
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.875 Million Tokens, and Total Crypto and Total Cash Holdings of $11.8 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-4-875-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-8-billion-302740122.html)**
+
+Bitmine now owns more than 4% of the total ETH coin supply of 120.7 million Bitmine is 81% of the way to the 'Alchemy of 5%' in just 9 months Bitmine uplisted...
+
+PR Newswire • 2d ago
+
+---
+
+**[Current price of Ethereum for April 15, 2026](https://fortune.com/article/price-of-ethereum-04-15-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 30m ago
 
 ---
 
@@ -190,7 +204,13 @@ Yahoo Finance • 2h ago
 
 The organization unveiled a new initiative aimed at tackling a persistent challenge in crypto development—the high cost of smart contract security audits.
 
-CoinDesk • 17h ago
+CoinDesk • 19h ago
+
+---
+
+**[Is Ethereum a Buy Right Now? Blockchain Wheels Spin Fast as ETH’s Price Sits in a Rare Cheap Zone](https://www.tipranks.com/news/is-ethereum-a-buy-right-now-blockchain-wheels-spin-fast-as-eths-price-sits-in-a-rare-cheap-zone)**
+
+TipRanks • 1h ago
 
 ---
 
@@ -199,28 +219,6 @@ CoinDesk • 17h ago
 The SEC is signaling openness to tokenization, encouraging firms to engage directly as it fine-tunes regulations.
 
 The Block • 1d ago
-
----
-
-**[Ethereum treasury news: Bitmine sits on $10 billion ETH but books $3.6 billion loss](https://www.coindesk.com/markets/2026/04/15/ethereum-treasury-firm-bitmine-reports-usd3-8-billion-q1-loss-in-latest-filing)**
-
-The largest corporate ether holder posted a $3.8 billion quarterly loss as its pivot from mining to ETH accumulation continues.
-
-CoinDesk • 1h ago
-
----
-
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.875 Million Tokens, and Total Crypto and Total Cash Holdings of $11.8 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-4-875-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-8-billion-302740122.html)**
-
-Bitmine now owns more than 4% of the total ETH coin supply of 120.7 million Bitmine is 81% of the way to the 'Alchemy of 5%' in just 9 months Bitmine uplisted...
-
-PR Newswire • 1d ago
-
----
-
-**[Tom Lee Says Ethereum in ‘Final Stages’ of Crypto Winter as Bitmine Reports $3.8B Loss](https://www.ccn.com/news/crypto/tom-lee-ethereum-end-crypto-winter-bitmine-reports-billion-loss/)**
-
-CCN.com • 2h ago
 
 ---
 
@@ -234,7 +232,7 @@ Companies over the course of 2026 have been all but frothing at the mouth trying
 
 📺 The Modern Investor
 
-👁️ 1K • 👍 312 • 💬 187 • ⏱️ 29:08 • 1h ago
+👁️ 1K • 👍 312 • 💬 187 • ⏱️ 29:08 • 3h ago
 
 ---
 
@@ -244,7 +242,7 @@ Tom Lee explains why the crypto bottom is likely in (in less than 4 minutes). �
 
 📺 Altcoin Daily
 
-👁️ 23K • 👍 2K • 💬 97 • ⏱️ 9:28 • 14h ago
+👁️ 23K • 👍 2K • 💬 97 • ⏱️ 9:28 • 16h ago
 
 ---
 
@@ -264,7 +262,7 @@ Tony Edwards of Thinking Crypto interview. We talk: Incoming Bitcoin Bottom, QE,
 
 📺 Altcoin Daily
 
-👁️ 5K • 👍 147 • 💬 65 • ⏱️ 0:59 • 18h ago
+👁️ 5K • 👍 147 • 💬 65 • ⏱️ 0:59 • 20h ago
 
 ---
 
@@ -274,7 +272,7 @@ BITCOIN SHORT SQUEEZE PREDICTED: Get Ready For THIS!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 5K • 👍 284 • 💬 216 • ⏱️ 22:06 • 9h ago
+👁️ 5K • 👍 284 • 💬 216 • ⏱️ 22:06 • 11h ago
 
 ---
 
@@ -284,7 +282,7 @@ join my social platforms for updates and analysis ✓Instagram: ...
 
 📺 Aryan trader Live
 
-👁️ 3K • 👍 2K • 1h ago
+👁️ 3K • 👍 2K • 3h ago
 
 ---
 
@@ -294,7 +292,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 5K • 👍 171 • 💬 24 • ⏱️ 10:57 • 2d ago
+👁️ 5K • 👍 171 • 💬 24 • ⏱️ 10:57 • 3d ago
 
 ---
 
@@ -304,7 +302,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 62 • 👍 8 • 💬 1 • ⏱️ 4:24 • 3h ago
+👁️ 62 • 👍 8 • 💬 1 • ⏱️ 4:24 • 5h ago
 
 ---
 
