@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-15T19:49:26.317686+00:00'
+updated: '2026-04-15T20:51:16.692220+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - cryptocurrency
 - news
 - videos
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 15, 2026 at 19:49 UTC  
+**Last Updated:** April 15, 2026 at 20:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,363.85
+### $2,359.47
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.4%  
-**7d:** +8.2%  
-**30d:** +2.3%  
-**90d:** -28.1%  
-**1y:** +50.2%  
+**24h:** +1.5%  
+**7d:** +7.7%  
+**30d:** +1.8%  
+**90d:** -28.5%  
+**1y:** +49.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $283.44B
+**Market Cap:** $284.80B
 Rank #2
 
 **Circulating Supply:** 120,690,957 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--52.4%
+-52.3%
 
 **All-Time Low:** $0.43
-+543125.0%
++544884.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -102,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Building a prediction market sector index — is this a gap or am I missing something obvious?](https://www.reddit.com/r/ethereum/comments/1slnr4y/building_a_prediction_market_sector_index_is_this/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -158,7 +158,7 @@ Coinpaper • 1d ago
 
 **[Bitmine Reports $3.8 Billion Loss As Ethereum Sinks](https://finance.yahoo.com/news/bitmine-reports-3-8-billion-125000138.html)**
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -166,37 +166,21 @@ Yahoo Finance • 6h ago
 
 The largest corporate ether holder posted a $3.8 billion quarterly loss as its pivot from mining to ETH accumulation continues.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
-**[Tom Lee's BitMine Posts $3.8 Billion Quarterly Loss Due to Ethereum Price Plunge](https://finance.yahoo.com/markets/crypto/articles/tom-lees-bitmine-posts-3-171741655.html)**
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.875 Million Tokens, and Total Crypto and Total Cash Holdings of $11.8 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-4-875-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-8-billion-302740122.html)**
 
-Leading Ethereum treasury firm BitMine Immersion Technologies posted a major loss thanks to unrealized losses on its ETH.
+Bitmine now owns more than 4% of the total ETH coin supply of 120.7 million Bitmine is 81% of the way to the 'Alchemy of 5%' in just 9 months Bitmine uplisted...
 
-Yahoo Finance • 2h ago
+PR Newswire • 2d ago
 
 ---
 
 **[Bitcoin, XRP, Ethereum Fall. Iran Peace Failure Causes a Crypto Headache.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-iran-crypto-46d858c6)**
 
 Barron's • 2d ago
-
----
-
-**[Bitcoin and ethereum prices today, Tuesday, April 14, 2026: Prices rebound despite U.S. blockade in the Middle East](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-april-14-2026-prices-rebound-despite-us-blockade-in-the-middle-east-112122301.html)**
-
-​​Bitcoin (BTC-USD) opened at $74,442.23 and ethereum (ETH-USD) opened at $2,369.90. Bitcoin was up 5.2% and ethereum was up 8.1% from Monday's open.
-
-Yahoo Finance • 1d ago
-
----
-
-**[ETH, BTC price: What next as Ether/bitcoin ratio bounces from 2026 lows](https://www.coindesk.com/markets/2026/04/15/ether-bitcoin-ratio-bounces-from-2026-lows-in-signs-of-broader-crypto-recovery)**
-
-The ETH/BTC ratio hit its highest since January as Ethereum's network added 284,000 new users in Q1 and stablecoin supply reached a record $180 billion.
-
-CoinDesk • 15h ago
 
 ---
 
@@ -212,7 +196,15 @@ CoinDesk • 1d ago
 
 Ethereum’s derivatives market on Binance is flashing a setup that could leave short sellers exposed if the recent move higher continues. According to analysis shared on X by CryptoQuant contributor Darkfost, positioning has become increasingly one-sided even as ETH has rebounded sharply from its Fe…
 
-TradingView — Track All Markets • 9h ago
+TradingView — Track All Markets • 10h ago
+
+---
+
+**[Ondo seeks SEC clearance for tokenized equities model on Ethereum](https://www.theblock.co/post/397258/ondo-seeks-sec-clearance-tokenized-equities-model-ethereum)**
+
+The SEC is signaling openness to tokenization, encouraging firms to engage directly as it fine-tunes regulations.
+
+The Block • 2d ago
 
 ---
 
@@ -220,7 +212,15 @@ TradingView — Track All Markets • 9h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 6h ago
+Fortune • 7h ago
+
+---
+
+**[Which Cryptocurrency Should You Be Hoarding Right Now, Bitcoin or Ethereum?](https://www.fool.com/investing/2026/04/13/which-cryptocurrency-should-you-be-hoarding-right/)**
+
+If crypto treasury companies are loading up on Bitcoin and Ethereum, should you be too?
+
+The Motley Fool • 2d ago
 
 ---
 
@@ -228,13 +228,33 @@ Fortune • 6h ago
 
 ## YouTube Videos: "ethereum"
 
+**[URGENT $60,000 Ethereum Incoming Despite Crypto Clarity Delay $120M flows to XRP!](https://www.youtube.com/watch?v=jFuYQZuHFgw)**
+
+URGENT $60000 Ethereum Incoming Despite Crypto Clarity Delay $120M flows to XRP! ether.fi (Partner) ...
+
+📺 CryptoWendyO
+
+👁️ 3K • 👍 294 • 💬 17 • ⏱️ 32:36 • 2h ago
+
+---
+
+**[This Ethereum Analysis Says BUY BEFORE IT&#39;S TOO LATE! Ethereum Technical Analysis 2026](https://www.youtube.com/watch?v=jgUZRil56eA)**
+
+Buy Ethereum? CRYPTO RETIREMENT ACCOUNT HERE Sign up for iTrustCapital and get a $100 funding bonus after ...
+
+📺 Crypto Jebb
+
+👁️ 1K • 👍 112 • 💬 23 • ⏱️ 14:10 • 2h ago
+
+---
+
 **[If You Hold Altcoins You NEED To Watch This Closely.](https://www.youtube.com/watch?v=ONDvSJKWo9c)**
 
 Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ Deposit from $100: Get a 1% bonus ✔️ Withdraw anytime ...
 
 📺 Tyler Hill Crypto
 
-👁️ 2K • 👍 170 • 💬 33 • ⏱️ 11:55 • 6h ago
+👁️ 3K • 👍 203 • 💬 37 • ⏱️ 11:55 • 7h ago
 
 ---
 
@@ -244,27 +264,37 @@ Companies over the course of 2026 have been all but frothing at the mouth trying
 
 📺 The Modern Investor
 
-👁️ 5K • 👍 629 • 💬 355 • ⏱️ 29:08 • 9h ago
+👁️ 5K • 👍 665 • 💬 356 • ⏱️ 29:08 • 10h ago
 
 ---
 
-**[XRP TO $27,000?!?! ETHEREUM GETS FLIPPED IN 2 MONTHS?!](https://www.youtube.com/watch?v=W-ZKWPZ8zkU)**
+**[Ethereum PROFIT Incoming: Our Trading Strategy After The Crash](https://www.youtube.com/watch?v=WfgNGL43DeI)**
 
-We're diving into the latest "xrp news today" as extreme "xrp price" targets, ranging from $10000 to $50000, are causing a stir ...
+Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
 
-📺 Ripple Moon Watch
+📺 Trade Confident
 
-👁️ 1K • 👍 137 • 💬 52 • ⏱️ 19:27 • 6h ago
+👁️ 67 • 👍 9 • 💬 2 • ⏱️ 4:49 • 49m ago
 
 ---
 
-**[BITCOIN SHORT SQUEEZE PREDICTED: Get Ready For THIS!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=dpn_vvJGfFw)**
+**[WHY Crypto’s Bottom Is Likely In (explained in less than 4 minutes)](https://www.youtube.com/watch?v=jSAHAA7m_V8)**
 
-BITCOIN SHORT SQUEEZE PREDICTED: Get Ready For THIS!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
+Tom Lee explains why the crypto bottom is likely in (in less than 4 minutes). ⭐ Follow Altcoin Daily on X: ...
 
-📺 Crypto World
+📺 Altcoin Daily
 
-👁️ 7K • 👍 321 • 💬 328 • ⏱️ 22:06 • 17h ago
+👁️ 27K • 👍 2K • 💬 193 • ⏱️ 9:28 • 23h ago
+
+---
+
+**[🔴 Ethereum Is Finally Breaking Out – Next Target $3,000?](https://www.youtube.com/watch?v=EzqGrq9CQOo)**
+
+BloFin - No KYC/No VPN needed [Trade ETH Coin Futures!] https://marzell.org/Blofin_Trade CoinGPT ...
+
+📺 Marzell Crypto
+
+👁️ 814 • 👍 29 • 💬 88 • ⏱️ 5:01 • 1d ago
 
 ---
 
@@ -274,7 +304,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 379 • 👍 51 • 💬 4 • ⏱️ 5:54 • 4h ago
+👁️ 624 • 👍 63 • 💬 4 • ⏱️ 5:54 • 5h ago
 
 ---
 
@@ -284,47 +314,17 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 146 • 👍 14 • 💬 1 • ⏱️ 4:24 • 11h ago
+👁️ 146 • 👍 14 • 💬 1 • ⏱️ 4:24 • 12h ago
 
 ---
 
-**[🚨 BTC &amp; ETH: OH MY..........](https://www.youtube.com/watch?v=1IfF4Y2CSPU)**
+**[XRP TO $27,000?!?! ETHEREUM GETS FLIPPED IN 2 MONTHS?!](https://www.youtube.com/watch?v=W-ZKWPZ8zkU)**
 
-Here is the latest on bitcoin, ethereum and crypto in general! Be aware of whats going on! ---------- EXCHANGE BONUSES ...
+We're diving into the latest "xrp news today" as extreme "xrp price" targets, ranging from $10000 to $50000, are causing a stir ...
 
-📺 Thomas Kralow
+📺 Ripple Moon Watch
 
-👁️ 18K • 👍 2K • 💬 9 • ⏱️ 10:18 • 2d ago
-
----
-
-**[Bitcoin &amp; Ethereum Whales Are Buying Like It’s a Bull Market… The Signal Is Clear](https://www.youtube.com/watch?v=lX6XC7LPRYs)**
-
-Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to stay smart on crypto: ...
-
-📺 Milk Road
-
-👁️ 6K • 👍 212 • 💬 95 • ⏱️ 38:50 • 2d ago
-
----
-
-**[Ethereum Bounce Looks Weak - Here&#39;s What the Structure Says](https://www.youtube.com/watch?v=uk1iW8koJTE)**
-
-Ethereum is down more than 50% from its all-time high, but the bigger concern right now is not just the decline — it's the structure ...
-
-📺 More Crypto Online
-
-👁️ 5K • 👍 242 • 💬 31 • ⏱️ 15:54 • 1d ago
-
----
-
-**[Bitcoin to $200k, Ethereum To $10k Is &#39;Programed&#39;](https://www.youtube.com/watch?v=q50SBPezTJo)**
-
-Tony Edwards of Thinking Crypto interview. We talk: Incoming Bitcoin Bottom, QE, Trump Pump, Altcoin Season, Supercycle, ...
-
-📺 Altcoin Daily
-
-👁️ 6K • 👍 170 • 💬 65 • ⏱️ 0:59 • 1d ago
+👁️ 2K • 👍 164 • 💬 63 • ⏱️ 19:27 • 7h ago
 
 ---
 

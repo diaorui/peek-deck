@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-15T19:49:26.311728+00:00'
+updated: '2026-04-15T20:51:16.686996+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - cryptocurrency
 - news
 - videos
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 15, 2026 at 19:49 UTC  
+**Last Updated:** April 15, 2026 at 20:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $75,021.42
+### $74,702.38
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.3%  
-**7d:** +4.4%  
-**30d:** +1.4%  
-**90d:** -21.6%  
-**1y:** -10.9%  
+**24h:** +0.6%  
+**7d:** +4.1%  
+**30d:** +1.1%  
+**90d:** -21.8%  
+**1y:** -11.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1483.34B
+**Market Cap:** $1496.77B
 Rank #1
 
-**Circulating Supply:** 20,016,259 BTC
+**Circulating Supply:** 20,016,303 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--41.1%
+-40.7%
 
 **All-Time Low:** $67.81
-+109364.7%
++110174.3%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Yes, i started buying since the February 2026. I believe this year could be a good year to start stacking. Wish me luck boys. See you in 10years.
 
-7h ago
+8h ago
 
 ---
 
@@ -89,7 +89,15 @@ Yes, i started buying since the February 2026. I believe this year could be a go
 
 Andrew Mensah and Gbemi Oladipo. Mods, remove if off topic. I just felt like this represents how Bitcoin is becoming a household name without nocoiners realizing what's going on. The best kind of adoption, IMHO.
 
-21h ago
+22h ago
+
+---
+
+**[Question: Has the safety of the "old" Bitcoin address format been compromised in any way?](https://www.reddit.com/r/Bitcoin/comments/1smh3cn/question_has_the_safety_of_the_old_bitcoin/)**
+
+Hello, I have a concern based on semi-technical article I read on local (Czech) news site. I have some Bitcoin in a cold storage address in the "old" format (starting with "1F...") that I have created in 2015. During the following 11 years, my BTC just sat there, with very few partial withdrawals (3 or 4 total). No "change address" was used, the remaining BTC are still in the same wallet. I do not intend to do anything with the remaining BTC in the near future, I just want them to sit there. Unfortunately, during those 10 years, I was less active in the Bitcoin scene and did not closely watch the developments and happenings in the world of Bitcoin. I just want to hold the remaining BTC for several more years, I don't need them now. My question is: Are my remaining BTC still reasonably safe in that old address or is there some truth to the rumor that "Old format BTC wallets are now at risk?" P.S: Of course, my private key from that wallet is securely stored and I am aware of the importance of it not being leaked / lost. That's not what my question is about.
+
+52m ago
 
 ---
 
@@ -97,7 +105,7 @@ Andrew Mensah and Gbemi Oladipo. Mods, remove if off topic. I just felt like thi
 
 Billionaire venture capitalist Tim Draper has never shied away from advocating Bitcoin (BTC), no matter what Wall Street thinks. Draper was among the earlier investors in Elon Musk's Tesla (Nasdaq: TSLA) in 2006, long before the EV car maker experimented with Bitcoin payments and built a ...
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/billionaire-tim-draper-doubles-down-005000353.html) • 18h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/billionaire-tim-draper-doubles-down-005000353.html) • 19h ago
 
 ---
 
@@ -105,7 +113,15 @@ Billionaire venture capitalist Tim Draper has never shied away from advocating B
 
 A veteran Wall Street investor and market strategist is making a bold call on Bitcoin (BTC), going as far as to stake his reputation on it. In a new CNBC interview, former Morgan Stanley managing director Jordan Visser says he expects the largest cryptocurrency by market cap to soar to much higher levels the next time he appears on the program.
 
-🔗 [CapitalAI Daily](https://www.capitalaidaily.com/ill-put-my-neck-out-there-wall-street-veteran-predicts-bitcoin-btc-will-be-significantly-higher-amid-confluence-of-three-catalysts/) • 15h ago
+🔗 [CapitalAI Daily](https://www.capitalaidaily.com/ill-put-my-neck-out-there-wall-street-veteran-predicts-bitcoin-btc-will-be-significantly-higher-amid-confluence-of-three-catalysts/) • 16h ago
+
+---
+
+**[She runs a non-profit accepting Bitcoin to back UK entrepreneurs… pretty cool](https://www.reddit.com/r/Bitcoin/comments/1smhlde/she_runs_a_nonprofit_accepting_bitcoin_to_back_uk/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtu.be](https://youtu.be/Mxl4mJZBDk8?si=hKjzcix0L82eYHSQ) • 35m ago
 
 ---
 
@@ -113,7 +129,7 @@ A veteran Wall Street investor and market strategist is making a bold call on Bi
 
 Goldman Sachs has filed to launch a Bitcoin Premium Income ETF, signaling a deeper push by the Wall Street bank into crypto-linked investment products that blend Bitcoin exposure with an options-based income strategy. The move follows similar “premium income” designs from issuers such as BlackRock, Morgan Stanley and Grayscale that seek to turn BTC’s volatility into a steady yield stream for investors. A Bitcoin Premium Income ETF typically holds spot BTC exposure, often through shares of an existing spot Bitcoin ETF, and then sells call options on that position to generate option premium income. This “covered‑call” structure collects cash from option buyers and distributes that cash as income, in exchange for giving up part of BTC’s upside above a set strike price. In practice, the fund benefits when BTC trades sideways or rises only modestly, because it keeps the option premiums while price moves stay inside the range of the sold calls. When BTC rallies sharply, the ETF’s gains are capped beyond the strike, since it has already agreed to sell that upside to option buyers. During sell‑offs, the fund still absorbs most of the downside, with the collected premiums providing only partial cushioning. Goldman Sachs has already built a large balance‑sheet position in spot BTC ETFs from other issuers, with filings showing more than a billion dollars of exposure through funds such as BlackRock’s iShares Bitcoin Trust and Fidelity’s Wise Origin Bitcoin Fund. A proprietary Bitcoin Premium Income ETF would shift the bank from simply holding third‑party products to manufacturing its own yield‑focused vehicle for clients. That step aligns Goldman with a growing trend: traditional asset managers now design BTC strategies that look and feel like familiar equity income funds, using covered calls to turn volatility into distributions. For investors, a Goldman‑branded product could broaden access to options‑based BTC income strategies inside brokerage and wealth platforms that already distribute the firm’s ETFs. For yield‑seeking investors who want BTC exposure but prefer a smoother payout profile, a premium income ETF offers a trade‑off: higher potential cash distributions in exchange for surrendering a chunk of long‑term upside. It may appeal to advisers and institutions that view pure spot BTC ETFs as too volatile, yet still want regulated, exchange‑traded access to the asset class. At the market‑structure level, Goldman’s move underscores how fast BTC is integrating into mainstream portfolio tools, from plain‑vanilla spot ETFs to more complex options‑overlay products. If the SEC approves the filing, it could intensify competition in a new niche of Bitcoin income strategies and further legitimize the idea of using BTC not only as a speculative asset, but as an underlying for structured yield.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/goldman-sachs-bitcoin-premium-income-etf) • 23h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/goldman-sachs-bitcoin-premium-income-etf) • 1d ago
 
 ---
 
@@ -127,35 +143,81 @@ Goldman Sachs has filed to launch a Bitcoin Premium Income ETF, signaling a deep
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-13h ago
-
----
-
-**[Blockchain.com down??](https://www.reddit.com/r/Bitcoin/comments/1sm3532/blockchaincom_down/)**
-
-I’ve been unable to log in to my Blockchain.com account since yesterday, and it’s starting to become really concerning. I’ve tried multiple ways to regain access, including completing the email verification process and using my seed phrase for recovery, but each time I run into the same issue, an error screen that prevents me from moving forward. No matter what approach I take, I seem to hit a dead end. At this point, I’m not sure whether this is a broader issue affecting other users or something specific to my account. That’s part of why I’m posting here , I’m hoping to find out if anyone else has experienced something similar recently. If this is a system-wide problem, at least I’ll know I’m not alone, but if it’s just me, then I need to figure out what exactly is going wrong and how to fix it. What’s making the situation more stressful is that I currently have over $5,000 worth of assets in my Blockchain wallet. Being locked out without any clear explanation or immediate support is honestly frustrating and a bit alarming. I understand that security measures can sometimes create extra steps or delays, but being completely unable to access my account despite using the correct credentials and recovery methods is another level entirely. I’ve already reached out to customer support, but so far the response has been very slow and not particularly helpful. I haven’t received any clear guidance or timeline for resolution, which just adds to the uncertainty. Given how time-sensitive crypto markets can be, this lack of responsiveness is especially difficult to deal with. I’ve also tried basic troubleshooting steps on my end—clearing cache, switching devices and browsers, and ensuring my internet connection is stable but none of these have made a difference. The issue persists regardless of what I try, which makes me think it could be something deeper, either on the platform’s side or related to account verification. Has anyone else run into login or recovery issues like this with Blockchain.com recently? If so, how did you resolve it? Were you able to regain access on your own, or did it require intervention from support? Any advice, insight, or shared experiences would be really appreciated right now. At this point, I’m just trying to understand what’s happening and find a reliable way to regain access to my account. Thanks in advance to anyone who can help or point me in the right direction.
-
-8h ago
-
----
-
-**[Bitcoin is less than 1% of global investable assets](https://www.reddit.com/r/Bitcoin/comments/1sld7oo/bitcoin_is_less_than_1_of_global_investable_assets/)**
-
-$250 trillion sitting in bonds, equities, real estate, and cash worldwide means that the reallocation has barely started.
-
-1d ago
+14h ago
 
 ---
 
 **[The 200K Meme Guy:](https://www.reddit.com/r/Bitcoin/comments/1slwj6g/the_200k_meme_guy/)**
 
-14h ago
+15h ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
+
+**[How a £2m bitcoin order made Nigel Farage the political face of UK crypto](https://www.theguardian.com/politics/2026/apr/15/how-a-2m-bitcoin-order-made-nigel-farage-the-political-face-of-uk-crypto)**
+
+Promotion of ‘bitcoin treasury’ firm with Kwasi Kwarteng draws new attention to Reform leader’s relations with industry
+
+The Guardian • 12h ago
+
+---
+
+**[Gal Gadot, Isla Fisher Join Casey Affleck, Pete Davidson In 'Bitcoin'](https://deadline.com/2026/04/gal-gadot-isla-fisher-casey-affleck-pete-davidson-bitcoin-1236860330/)**
+
+The Doug Liman thriller sees Oscar winner Affleck star as computer scientist Craig Wright who has claimed to be the founder of Bitcoin.
+
+Deadline • 11h ago
+
+---
+
+**['Killing Satoshi': $70M Bitcoin Film Starring Casey Affleck Will Make Heavy Use of AI](https://www.yahoo.com/entertainment/movies/articles/killing-satoshi-70m-bitcoin-film-201248303.html)**
+
+A $70 million feature film focusing on Bitcoin and the hunt for creator Satoshi Nakamoto will lean heavily on AI tools.
+
+Yahoo • 38m ago
+
+---
+
+**[Bitcoin jumps to $74,000, but Wall Street is 'cautious' crypto bear market isn't over](https://finance.yahoo.com/news/bitcoin-jumps-to-74000-but-wall-street-is-cautious-crypto-bear-market-isnt-over-151420711.html)**
+
+Bitcoin bounced above $74,000 on Tuesday, but Wall Street warns it's a bear market rally, and the token could go lower before it goes higher.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[IMF's global debt warning underscores bitcoin's (BTC) role in investor portfolios](https://www.coindesk.com/markets/2026/04/15/the-imf-just-repriced-the-macro-backdrop-for-bitcoin-with-a-global-debt-warning)**
+
+The IMF warns that global public debt could reach about 100% of world GDP by 2029.
+
+CoinDesk • 9h ago
+
+---
+
+**[Tether moves 951 BTC as Bitcoin rebounds to $75K monthly peak](https://seekingalpha.com/news/4575410-tether-buys-951-btc-as-bitcoin-rebounds-to-75k-monthly-peak)**
+
+Tether buys 951 BTC ($70M) as Bitcoin dips near $73K, boosting reserves to 97,141 BTC ($7.2B).
+
+Seeking Alpha • 52m ago
+
+---
+
+**[Bitcoin Price Passes $75,000 as Iran War Turns It From ‘Digital Gold’ Into Geopolitical Settlement Bet](https://bitcoinmagazine.com/news/bitcoin-price-passes-75000-as-iran-war)**
+
+Bitcoin price jumped past $75,000 on Wednesday as traders recalibrated what the asset represents in the wake of the Iran conflict and an unusually stretched derivatives market.
+
+Bitcoin Magazine • 46m ago
+
+---
+
+**[Goldman’s Bitcoin ETF Push Signals Wall Street Taming of Crypto](https://www.bloomberg.com/news/articles/2026-04-15/goldman-s-bitcoin-etf-push-signals-wall-street-taming-of-crypto)**
+
+Bloomberg.com • 4h ago
+
+---
 
 **[Goldman Sachs makes surprise jump into Bitcoin ETFs with a product one analyst dubs ‘boomer candy’](https://fortune.com/2026/04/14/goldman-sachs-bitcoin-etf-boomer-candy/)**
 
@@ -165,73 +227,11 @@ Fortune • 1d ago
 
 ---
 
-**[Goldman Sachs files for its first bitcoin ETF product](https://www.reuters.com/legal/transactional/goldman-sachs-files-its-first-bitcoin-etf-product-2026-04-14/)**
-
-Reuters • 23h ago
-
----
-
 **[BTC gyrations likely to calm as Goldman, BlackRock's explore income ETFs: Crypto Daily](https://www.coindesk.com/daybook-us/2026/04/15/income-etfs-could-be-bitcoin-s-volatility-kill-switch)**
 
 What you need to know for April 15, 2026
 
-CoinDesk • 8h ago
-
----
-
-**[How a £2m bitcoin order made Nigel Farage the political face of UK crypto](https://www.theguardian.com/politics/2026/apr/15/how-a-2m-bitcoin-order-made-nigel-farage-the-political-face-of-uk-crypto)**
-
-Promotion of ‘bitcoin treasury’ firm with Kwasi Kwarteng draws new attention to Reform leader’s relations with industry
-
-The Guardian • 11h ago
-
----
-
-**[Why AI can now exploit crypto platforms faster than ever](https://www.cnbc.com/video/2026/04/15/mythos-vs-crypto-why-bitcoin-may-be-safe-but-apps-are-not.html)**
-
-Artificial intelligence is reshaping cybersecurity across the crypto industry. While Bitcoin itself is considered resilient, the platforms that connect users to their assets may be more vulnerable. AI can scan complex software systems quickly, uncovering hidden flaws and enabling faster attacks. This shift is forcing crypto companies to rethink how they protect their infrastructure.
-
-CNBC • 1h ago
-
----
-
-**[Oakwood Police warn senior citizens of Bitcoin scams](https://accesswdun.com/news/oakwood-police-warn-senior-citizens-of-bitcoin-scams)**
-
-Senior citizens in Hall County should be wary of scammers using Bitcoin and other cryptocurrency schemes. The Oakwood Police Department said these scams normally begin with a phone call, text message or email that appears to come from a trusted source, such as a bank, government agency, or even a
-
-AccessWDUN • 2h ago
-
----
-
-**[Strategy Bitcoin Bet Deepens As Preferred Stock Funding Reshapes Capital Stack](https://finance.yahoo.com/markets/crypto/articles/strategy-bitcoin-bet-deepens-preferred-190307142.html?.tsrc=rss)**
-
-Strategy Inc. (NasdaqGS:MSTR) bought 13,927 BTC for about US$1b, funded entirely through Stretch (STRC) preferred stock sales. The transaction brings company holdings to nearly 781,000 BTC and did not dilute existing MSTR common shareholders. Recent trading activity in STRC has increased, highlighting added complexity in Strategy's capital structure and risk profile. The move coincided with the preferred stock's ex-dividend date and reinforces Strategy's role as the largest public corporate...
-
-Yahoo Finance • 46m ago
-
----
-
-**[Bitcoin Developers Propose Bitcoin Quantum Migration Plan That Would Freeze Legacy Coins](https://bitcoinmagazine.com/news/bitcoin-developers-propose-quantum-plan)**
-
-BIP-361 proposes migrating Bitcoin away from legacy cryptographic signatures to quantum-resistant alternatives through a phased deadline that could eventually make unmigrated coins permanently unspendable.
-
-Bitcoin Magazine • 2h ago
-
----
-
-**[Bitcoin researchers propose phased sunset of legacy signatures to address quantum risks](https://www.theblock.co/post/397556/bitcoin-researchers-propose-phased-sunset-of-legacy-signatures-to-address-quantum-risks)**
-
-A new Bitcoin proposal outlines a phased plan to restrict and eventually render quantum-vulnerable funds unspendable.
-
-The Block • 6h ago
-
----
-
-**[The Protocol: Bitcoin proposal that could freeze quantum-related coins](https://www.coindesk.com/tech/2026/04/15/the-protocol-bitcoin-proposal-that-could-freeze-quantum-related-coins)**
-
-Also: AI agents & crypto payments, CoW Swap hijack, ZK proofs on XRPL.
-
-CoinDesk • 1h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -295,7 +295,7 @@ New York Times report claims London-born Adam Back is creator of the cryptocurre
 
 C64 Bitcoin wallet. Contribute to geek197/c64wallet development by creating an account on GitHub.
 
-⬆️ 3 • 💬 0 • 8h ago • [GitHub](https://github.com/geek197/c64wallet)
+⬆️ 3 • 💬 0 • 9h ago • [GitHub](https://github.com/geek197/c64wallet)
 
 ---
 
@@ -307,11 +307,11 @@ Bitcoin Core Will Maintain the Protocol. It May Not Save It. The reference imple
 
 ---
 
-**[The New York Times may have found Bitcoin founder Satoshi Nakamoto](https://news.ycombinator.com/item?id=47695452)**
+**[Blockchain.com explorer bug causing wrong bitcoin address to be displayed](https://news.ycombinator.com/item?id=47724574)**
 
-For years, bitcoin creator Satoshi Nakamoto has avoided discovery. Now, a 10,000-word New York Times investigation may have unraveled the mystery, landing on British computer scientist Dr. Adam Back as Nakamoto.
+The most popular and trusted block explorer and crypto transaction search engine.
 
-⬆️ 2 • 💬 6 • 6d ago • [Yahoo Finance](https://finance.yahoo.com/markets/crypto/article/the-new-york-times-may-have-found-bitcoin-founder-satoshi-nakamoto-heres-what-you-need-to-know-193426720.html)
+⬆️ 2 • 💬 2 • 4d ago • [blockchain.com](https://www.blockchain.com/explorer/addresses/btc/1PWo3JeB9jrGwfHDNpdGK54CRas7fsVzXU)
 
 ---
 
@@ -319,23 +319,23 @@ For years, bitcoin creator Satoshi Nakamoto has avoided discovery. Now, a 10,000
 
 ## YouTube Videos: "bitcoin"
 
-**[Michael Saylor Predicts $400T Bitcoin After Buying $1B in a Single Day!](https://www.youtube.com/watch?v=yl2q52XWG6s)**
-
-Michael Saylor may have just revealed the most aggressive Bitcoin accumulation strategy yet. This breaks down how Strategy's ...
-
-📺 Simply Bitcoin
-
-👁️ 56K • 👍 3K • 💬 328 • ⏱️ 20:15 • 21h ago
-
----
-
 **[Bitcoin and Markets Will Boom...Acording to Trump](https://www.youtube.com/watch?v=B5wXzddYtEM)**
 
 Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FREE Crypto Predictions & Compete Weekly ...
 
 📺 CryptosRUs
 
-👁️ 10K • 👍 767 • 💬 115 • ⏱️ 37:53 • 5h ago
+👁️ 13K • 👍 862 • 💬 119 • ⏱️ 37:53 • 6h ago
+
+---
+
+**[Michael Saylor Predicts $400T Bitcoin After Buying $1B in a Single Day!](https://www.youtube.com/watch?v=yl2q52XWG6s)**
+
+Michael Saylor may have just revealed the most aggressive Bitcoin accumulation strategy yet. This breaks down how Strategy's ...
+
+📺 Simply Bitcoin
+
+👁️ 60K • 👍 3K • 💬 339 • ⏱️ 20:15 • 22h ago
 
 ---
 
@@ -345,57 +345,47 @@ Subscribe to Jordi: https://www.youtube.com/@JordiVisserLabs BTC Conference 2026
 
 📺 Altcoin Daily
 
-👁️ 40K • 👍 2K • 💬 195 • ⏱️ 10:18 • 1d ago
+👁️ 41K • 👍 2K • 💬 196 • ⏱️ 10:18 • 1d ago
 
 ---
 
-**[Short Squeeze Over For Bitcoin OR Will It Pump More?](https://www.youtube.com/watch?v=22dpBz85kUg)**
+**[Wall Street Is ALL-IN On Bitcoin](https://www.youtube.com/watch?v=3CKCdABPDiM)**
 
-Kyle Doops breaks down the Bitcoin bear flag and US market indices. Learn the liquidity map levels and why volume is the key ...
+Anthony Pompliano and John Pompliano break down what's really happening with bitcoin and the macro environment, covering ...
 
-📺 Crypto Banter
+📺 Anthony Pompliano
 
-👁️ 12K • 👍 1K • 💬 11 • ⏱️ 37:09 • 11h ago
-
----
-
-**[$3.5 Trillion Goldman Sachs Files For Bitcoin Premium Income ETF — Every BTC Holder Must See This](https://www.youtube.com/watch?v=F8jcz2_GJJA)**
-
-IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purposes only. NOT financial, investment, or ...
-
-📺 The Kenzo Guy
-
-👁️ 11K • 👍 424 • 💬 34 • ⏱️ 24:05 • 20h ago
+👁️ 24K • 👍 1K • 💬 40 • ⏱️ 28:36 • 23h ago
 
 ---
 
-**[🚨Bitcoin Is About to Shock Everyone 🚨 $100K Move Coming?](https://www.youtube.com/watch?v=rErRcM9olec)**
+**[Sentiment Surge Brings Back Hope?🚀Crypto Market Update](https://www.youtube.com/watch?v=sEwSc1JMRU8)**
 
-Bitcoin #Crypto #Finance ➡️Trade with us on Bitunix and claim your exclusive bonuses today ...
+Crypto markets are betting that the U.S. and Iran war may be progressing towards peace. Bitcoin rose 5% over the past 24 hours ...
 
-📺 DataDash
+📺 Paul Barron Network
 
-👁️ 9K • 👍 371 • 💬 97 • ⏱️ 22:13 • 2d ago
-
----
-
-**[Bitcoin Just Hit $75,000 Again… Should You Buy Now or Wait?](https://www.youtube.com/watch?v=GHLCoNLUEWE)**
-
-Bitcoin just touched $75000 again… But here's the part nobody is explaining: Price is NOT the signal. What actually matters right ...
-
-📺 Tim Talks Finance
-
-👁️ 2K • 👍 111 • 💬 30 • ⏱️ 9:08 • 23h ago
+👁️ 49K • 👍 2K • 💬 189 • ⏱️ 14:35 • 1d ago
 
 ---
 
-**[The Real Reason Bitcoin Just Breached $74,000. and WILL IT LAST???](https://www.youtube.com/watch?v=h75EiWSsM14)**
+**[Is A Bitcoin Supply Crisis Incoming? Michael Saylor Is Buying Everything!](https://www.youtube.com/watch?v=UmRdP5FjZqI)**
 
-Many factors caused the crypto and bitcoin pump but I don't think it will last so... The links below may include affiliate links, which ...
+Bitcoin #Crypto #Finance Is Michael Saylor quietly triggering a Bitcoin supply crisis? While most of the market is focused on ...
 
-📺 Digital Asset News
+📺 The Wolf Of All Streets
 
-👁️ 7K • 👍 499 • 💬 42 • ⏱️ 35:55 • 23h ago
+👁️ 11K • 👍 673 • 💬 171 • ⏱️ 41:53 • 6h ago
+
+---
+
+**[LIVE: Michael Saylor on Bitcoin Bull Run &amp; MSTR Stock – BTC Price Prediction](https://www.youtube.com/watch?v=onE_f6dwhNU)**
+
+BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Сonference. A visionary Bitcoin ...
+
+📺 Sade Robinson 
+
+👁️ 2K • 👍 1K • 47m ago
 
 ---
 
@@ -405,17 +395,27 @@ Subscribe for daily Bitcoin signal - not noise. Watch the full uncensored livest
 
 📺 Bitcoin News Alerts
 
-👁️ 2K • 👍 161 • 💬 106 • ⏱️ 20:00 • 21h ago
+👁️ 2K • 👍 171 • 💬 107 • ⏱️ 20:00 • 22h ago
 
 ---
 
-**[BITCOIN: Don&#39;t F**K This Up! (it’s coming) - BTC Price Prediction Today](https://www.youtube.com/watch?v=AbGmgpyUKCU)**
+**[$3.5 Trillion Goldman Sachs Files For Bitcoin Premium Income ETF — Every BTC Holder Must See This](https://www.youtube.com/watch?v=F8jcz2_GJJA)**
 
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
+IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purposes only. NOT financial, investment, or ...
 
-📺 BitcoinHyper
+📺 The Kenzo Guy
 
-👁️ 7K • 👍 554 • 💬 89 • ⏱️ 12:56 • 10h ago
+👁️ 11K • 👍 430 • 💬 34 • ⏱️ 24:05 • 21h ago
+
+---
+
+**[Bitcoin Buyers Refusing To Stop](https://www.youtube.com/watch?v=wJ11Yj8Kq1w)**
+
+Bitcoin bull and bear takes as buyers keep piling in! Stocks ripping BITUNIX TRADE THE TOP COINS (available everywhere) ...
+
+📺 Lark Davis
+
+👁️ 9K • 👍 543 • 💬 49 • ⏱️ 20:45 • 8h ago
 
 ---
 
