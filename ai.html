@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-04-15T15:05:53.982202+00:00"
+          "dateModified": "2026-04-15T16:36:16.844796+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -647,41 +647,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1sm261q/i_tracked_what_ai_agents_actually_do_when_nobodys/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/MTljaGd5OGgwY3ZnMSvD7dGV9EKOG9paYPfRp2fdzGB_8GNHIlngc5qo4Rez.png?width=640&crop=smart&auto=webp&s=67bdb6c902e39bedd2c08464054cf904d418df7f" alt="I tracked what AI agents actually do when nobody's watching. Built a tool that replays every decision." onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1sm261q/i_tracked_what_ai_agents_actually_do_when_nobodys/" target="_blank" onclick="event.stopPropagation();">I tracked what AI agents actually do when nobody's watching. Built a tool that replays every decision.</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Been building AI agents for about a year now and the thing that always drove me crazy is you deploy an agent, it runs for hours, and you have absolutely no idea what it did. The logs say "task complete" 47 times but did it actually do 47 different things or did it just loop the same task over and over? I had an agent burn through about $340 in API credits over a weekend because it got stuck retrying the same request. The logs showed 200 OK on every call. Everything looked fine. It just kept doing the same thing for 6 hours straight while I slept. So I built something to fix this. It's called Octopoda and its basically an observability layer that sits underneath your agents. Every memory write, every decision, every recall gets logged on a timeline. You can literally press play and watch what your agent did at 3am, step by step, like scrubbing through a video. The part that surprised me most was the loop detection. Once I could see the full timeline I realised how often agents loop without you knowing. Not obvious infinite loops, subtle stuff. An agent that rewrites the same conclusion 8 times with slightly different wording. Or one that keeps checking the same API endpoint every 30 seconds even though the data hasn't changed. Each iteration costs tokens but produces nothing new. We track 5 signals for this: write similarity, key overwrite frequency, velocity spikes, alert frequency, and goal drift. When enough signals fire together it flags it and estimates how much money the loop is costing you per hour. One user had a research agent that was wasting about $10 an hour on duplicate writes before the detection caught it. It also does auto-checkpoints. Every 25 writes it saves a snapshot automatically so if something goes wrong you can roll back to any point with one click. No more losing an entire night of agent work because something corrupted at 4am. Works with LangChain, CrewAI, AutoGen, and OpenAI Agents SDK. One line to integrate: The dashboard shows everything in real time. Agent health scores, cost per agent, shared memory between agents, full audit trail with reasoning for every decision. Honestly the most useful thing is just being able to answer "what happened overnight" without spending an hour reading logs. Anyone else dealing with the "I have no idea what my agent did" problem? Curious how other people are handling observability for autonomous workflows. Let me know if anyone wants to check it out!
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1776249099.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1sm6y5q/for_the_first_time_in_history_ukraine_captured_a/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -726,6 +691,74 @@
                                         <span>We Are The Mighty</span>
                                     </a>
                                 </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1sm261q/i_tracked_what_ai_agents_actually_do_when_nobodys/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/MTljaGd5OGgwY3ZnMSvD7dGV9EKOG9paYPfRp2fdzGB_8GNHIlngc5qo4Rez.png?width=640&crop=smart&auto=webp&s=67bdb6c902e39bedd2c08464054cf904d418df7f" alt="I tracked what AI agents actually do when nobody's watching. Built a tool that replays every decision." onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1sm261q/i_tracked_what_ai_agents_actually_do_when_nobodys/" target="_blank" onclick="event.stopPropagation();">I tracked what AI agents actually do when nobody's watching. Built a tool that replays every decision.</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Been building AI agents for about a year now and the thing that always drove me crazy is you deploy an agent, it runs for hours, and you have absolutely no idea what it did. The logs say "task complete" 47 times but did it actually do 47 different things or did it just loop the same task over and over? I had an agent burn through about $340 in API credits over a weekend because it got stuck retrying the same request. The logs showed 200 OK on every call. Everything looked fine. It just kept doing the same thing for 6 hours straight while I slept. So I built something to fix this. It's called Octopoda and its basically an observability layer that sits underneath your agents. Every memory write, every decision, every recall gets logged on a timeline. You can literally press play and watch what your agent did at 3am, step by step, like scrubbing through a video. The part that surprised me most was the loop detection. Once I could see the full timeline I realised how often agents loop without you knowing. Not obvious infinite loops, subtle stuff. An agent that rewrites the same conclusion 8 times with slightly different wording. Or one that keeps checking the same API endpoint every 30 seconds even though the data hasn't changed. Each iteration costs tokens but produces nothing new. We track 5 signals for this: write similarity, key overwrite frequency, velocity spikes, alert frequency, and goal drift. When enough signals fire together it flags it and estimates how much money the loop is costing you per hour. One user had a research agent that was wasting about $10 an hour on duplicate writes before the detection caught it. It also does auto-checkpoints. Every 25 writes it saves a snapshot automatically so if something goes wrong you can roll back to any point with one click. No more losing an entire night of agent work because something corrupted at 4am. Works with LangChain, CrewAI, AutoGen, and OpenAI Agents SDK. One line to integrate: The dashboard shows everything in real time. Agent health scores, cost per agent, shared memory between agents, full audit trail with reasoning for every decision. Honestly the most useful thing is just being able to answer "what happened overnight" without spending an hour reading logs. Anyone else dealing with the "I have no idea what my agent did" problem? Curious how other people are handling observability for autonomous workflows. Let me know if anyone wants to check it out!
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1776249099.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1sm70be/whats_a_purely_you_thing_you_do_with_ai_that/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1sm70be/whats_a_purely_you_thing_you_do_with_ai_that/" target="_blank" onclick="event.stopPropagation();">What's a purely "you" thing you do with AI that brings you positive benefits?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            For me it's three chats I've set up, two for my parents and one for me, for interpreting medical results, tracking medication against diet and lifestyle changes. Anonymized, I've put every condition, surgery and medication I (and they) have had, and it's amazing how virtually all the advice and questions are spot on. YES, caution is needed before jumping on any advice an AI gives you medically. But for interpreting results, explaining exams and procedures, and noting any indications between medication and foods/supplements (with verification independently) has been a real relief as my folks get older and it's harder to keep on top of everything they're taking. I also have a separate chat for my car (manufacturers warranty, owners manual, car insurance policy) and I can literally ask it about any button, lever, warning light or policy change. Same with my apartment/condo rules/repairs/appliance warrantees and owners manuals for large appliances. For fun, I also had the chat roleplay as Dr. Crusher from the Enterprise, and my car is managed by Tom Paris from Star Trek: Voyager, so it speaks to me as if it's those people. Anyone else doing anything weird and useful?
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1776261747.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
                                 
                             </div>
                         </div>
@@ -782,39 +815,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1sm70be/whats_a_purely_you_thing_you_do_with_ai_that/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1sm70be/whats_a_purely_you_thing_you_do_with_ai_that/" target="_blank" onclick="event.stopPropagation();">What's a purely "you" thing you do with AI that brings you positive benefits?</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            For me it's three chats I've set up, two for my parents and one for me, for interpreting medical results, tracking medication against diet and lifestyle changes. Anonymized, I've put every condition, surgery and medication I (and they) have had, and it's amazing how virtually all the advice and questions are spot on. YES, caution is needed before jumping on any advice an AI gives you medically. But for interpreting results, explaining exams and procedures, and noting any indications between medication and foods/supplements (with verification independently) has been a real relief as my folks get older and it's harder to keep on top of everything they're taking. I also have a separate chat for my car (manufacturers warranty, owners manual, car insurance policy) and I can literally ask it about any button, lever, warning light or policy change. Same with my apartment/condo rules/repairs/appliance warrantees and owners manuals for large appliances. For fun, I also had the chat roleplay as Dr. Crusher from the Enterprise, and my car is managed by Tom Paris from Star Trek: Voyager, so it speaks to me as if it's those people. Anyone else doing anything weird and useful?
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1776261747.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1slzt9g/made_a_tool_to_gather_logistical_intelligence/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -850,6 +850,105 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1smb4jd/construction_estimating_software_that_uses_ai_has/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1smb4jd/construction_estimating_software_that_uses_ai_has/" target="_blank" onclick="event.stopPropagation();">Construction estimating software that uses AI.. has anyone here tested one?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            i run a small remodeling business and estimating is honestly the worst part… still stuck doing everything in spreadsheets and it takes forever been seeing a bunch of tools lately saying they can generate estimates from plans or descriptions which sounds cool but also kinda feels like marketing bs like does it actually save time or do you end up fixing everything anyway? if anyone’s used one on real jobs, how accurate was it?
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1776270590.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1smax4v/wtf_its_real_allbirds_the_shoe_company_is/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1smax4v/wtf_its_real_allbirds_the_shoe_company_is/" target="_blank" onclick="event.stopPropagation();">WTF. Its real. AllBirds (the shoe company) is pivoting to inference.</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            I'm profoundly ambivalent re: how to feel about this; is it great -- what a scrappy, bold pivot! Or wildly dumb - its so far from their core competencies.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1776270148.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1sm9hv8/why_i_am_doing_this_the_origin_story_of_projectai/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1sm9hv8/why_i_am_doing_this_the_origin_story_of_projectai/" target="_blank" onclick="event.stopPropagation();">Why I Am Doing This: The Origin Story Of Project-AI — A Constitutional Governance Framework for AI Systems [Research Paper]</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            I just published a research paper on Zenodo laying out the origin story and full rationale behind Project-AI — a multi-layered constitutional governance framework for AI systems. This isn't just another alignment paper. It argues that governance needs to be a structural property of AI architecture — not an external constraint bolted on after the fact. Core components covered: - AGI Charter (identity + continuity as protected surfaces) - Thirsty's Symbolic Compression Grammar (TSCG / TSCG-B) - STATE_REGISTER (operational continuity) - OctoReflex (syscall-level containment via control theory) DOI: https://doi.org/10.5281/zenodo.19592336 Full paper (open access): https://zenodo.org/records/19592336 Feedback welcome. This is solo independent research — built from lived experience and technical investigation into what real enforceable AI governance looks like.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1776267172.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1sm8f7c/how_i_made_2700_building_a_legal_ai_research/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -864,7 +963,7 @@
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            Got some good engagement on my earlier post "I made €2,700 building a RAG system for a law firm — here's what actually worked technically" so I wanted to go deeper into the actual architecture for anyone building something similar. Shipped a RAG system for a German GDPR compliance company. Sharing the full stack because I haven't seen many production legal RAG breakdowns and I ran into problems that generic RAG tutorials don't cover. The problem: legal research isn't just "find relevant text." Different sources have different legal weight. A Supreme Court ruling beats a lower court opinion. An official regulatory guideline beats a blog post. The system needs to know this hierarchy and use it when generating answers. Here's how I solved it: Three retrieval strategies selectable per query. Flat (standard RAG, all sources equal), Category Priority (sources grouped by authority tier, LLM resolves conflicts top down), and Layered Category (independent search per category so every authority level gets representation even if one category dominates similarity scores). Without the category priority approach the system would sometimes build answers from lower authority sources just because they had better semantic similarity to the query. Custom chunking pipeline for legal documents. Nested clause structures, cross references between sections, footnotes that reference other documents. Built a chunker that preserves hierarchical depth and section relationships. Chunks get assembled into condensed "cheatsheets" before hitting the LLM. These are cached with deterministic hashing so repeated patterns skip regeneration. Dual embedding support. AWS Bedrock Titan for production and local Ollama as fallback. Swappable from the admin panel without restarting the app. Embeddings are cached per provider and model combo with thread safe locking so switching models doesn't corrupt anything. Metadata injection layer. After vector search every retrieved chunk gets enriched with full document metadata from the database in a single batched query. Region, category, framework, date, tags, and all user annotations attached to that document. This rides alongside the chunk content into the prompt. Bilingual with hard language enforcement. Regex based detection identifies German vs English in the query. The prompt forces output in the detected language and explicitly blocks drifting into French or other languages. This actually happens more than you'd think when source documents are multilingual. Source citation engineering. Probably 40% of my prompt engineering time went here. The prompts contain explicit "NEVER do X" instructions for every lazy citation pattern I caught during testing. No "according to professional literature" without naming the document. Must cite exact document titles, exact court names, exact article numbers. For legal use vague attribution is worthless. Streaming with optional simplification pass. Answers stream via SSE. Second LLM pass can intercept the completed stream, rewrite the full legal analysis in plain language, then stream the simplified version as separate tokens. Adds latency but non lawyers needed plain language explanations of complex GDPR obligations. Stack: FastAPI backend, AWS Bedrock with Claude for generation, Bedrock Titan for embeddings with Ollama as local fallback, FAISS for vector search, PostgreSQL for document metadata and comments. Deployed in EU region for GDPR compliance of the tool itself. €2,700 for the complete build. Now in conversations about recurring monthly maintenance. Biggest lesson: domain specific RAG is 80% prompt engineering and metadata architecture 20% retrieval. Making the LLM behave like a legal professional who respects authority hierarchies and cites sources properly was the real work. Happy to answer questions if anyone is building something similar or thinking about going into professional services RAG. Both posts now reference back to the earlier titles. The storytelling version links to both the RAG post and the marketing agencies post to show a pattern of wins. The technical version references the RAG post specifically for continuity. Want me to adjust anything?
+                            Got some good engagement on my earlier post "I made €2,700 building a RAG system for a law firm — here's what actually worked technically" so I wanted to go deeper into the actual architecture for anyone building something similar. Shipped a RAG system for a German GDPR compliance company. Sharing the full stack because I haven't seen many production legal RAG breakdowns and I ran into problems that generic RAG tutorials don't cover. The problem: legal research isn't just "find relevant text." Different sources have different legal weight. A Supreme Court ruling beats a lower court opinion. An official regulatory guideline beats a blog post. The system needs to know this hierarchy and use it when generating answers. Here's how I solved it: Three retrieval strategies selectable per query. Flat (standard RAG, all sources equal), Category Priority (sources grouped by authority tier, LLM resolves conflicts top down), and Layered Category (independent search per category so every authority level gets representation even if one category dominates similarity scores). Without the category priority approach the system would sometimes build answers from lower authority sources just because they had better semantic similarity to the query. Custom chunking pipeline for legal documents. Nested clause structures, cross references between sections, footnotes that reference other documents. Built a chunker that preserves hierarchical depth and section relationships. Chunks get assembled into condensed "cheatsheets" before hitting the LLM. These are cached with deterministic hashing so repeated patterns skip regeneration. Dual embedding support. AWS Bedrock Titan for production and local Ollama as fallback. Swappable from the admin panel without restarting the app. Embeddings are cached per provider and model combo with thread safe locking so switching models doesn't corrupt anything. Metadata injection layer. After vector search every retrieved chunk gets enriched with full document metadata from the database in a single batched query. Region, category, framework, date, tags, and all user annotations attached to that document. This rides alongside the chunk content into the prompt. Bilingual with hard language enforcement. Regex based detection identifies German vs English in the query. The prompt forces output in the detected language and explicitly blocks drifting into French or other languages. This actually happens more than you'd think when source documents are multilingual. Source citation engineering. Probably 40% of my prompt engineering time went here. The prompts contain explicit "NEVER do X" instructions for every lazy citation pattern I caught during testing. No "according to professional literature" without naming the document. Must cite exact document titles, exact court names, exact article numbers. For legal use vague attribution is worthless. Streaming with optional simplification pass. Answers stream via SSE. Second LLM pass can intercept the completed stream, rewrite the full legal analysis in plain language, then stream the simplified version as separate tokens. Adds latency but non lawyers needed plain language explanations of complex GDPR obligations. Stack: FastAPI backend, AWS Bedrock with Claude for generation, Bedrock Titan for embeddings with Ollama as local fallback, FAISS for vector search, PostgreSQL for document metadata and comments. Deployed in EU region for GDPR compliance of the tool itself. €2,700 for the complete build. Now in conversations about recurring monthly maintenance. Biggest lesson: domain specific RAG is 80% prompt engineering and metadata architecture 20% retrieval. Making the LLM behave like a legal professional who respects authority hierarchies and cites sources properly was the real work. Happy to answer questions if anyone is building something similar or thinking about going into professional services RAG.
                         </div>
                         
 
@@ -877,156 +976,6 @@
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1slhx3l/the_irs_wants_smarter_audits_palantir_could_help/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/MfjC3MmRJMlpn0i2AJc6IvZq3CKTB3YnQGF9SN8SVIM.jpeg?width=640&crop=smart&auto=webp&s=f513d8ad26c36a6e9781ce9f2bc0f1520bf20087" alt="The IRS Wants Smarter Audits. Palantir Could Help Decide Who Gets Flagged" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1slhx3l/the_irs_wants_smarter_audits_palantir_could_help/" target="_blank" onclick="event.stopPropagation();">The IRS Wants Smarter Audits. Palantir Could Help Decide Who Gets Flagged</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Documents show the tax agency is testing a Palantir tool to surface “highest-value” audit and investigation targets from a maze of legacy systems.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1776192926.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://www.wired.com/story/documents-reveal-palantir-irs-contract-fraud-clean-energy-credits/" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://www.wired.com/verso/static/wired-us/assets/favicon.ico" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
-                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
-                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
-                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
-                                            </svg>
-                                            
-                                        
-                                        <span>WIRED</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1slzjhh/gemini_roboticser_16_powering_realworld_robotics/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/HV_X8M73CVoPnpypockIc-yuzU0SQHGEMLtysXqzSl0.jpeg?width=640&crop=smart&auto=webp&s=5aacac4cfb07746362f6ecf5d587146e541ee6d3" alt="Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1slzjhh/gemini_roboticser_16_powering_realworld_robotics/" target="_blank" onclick="event.stopPropagation();">Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Gemini Robotics-ER 1.6 is a significant upgrade to the reasoning-first model that enables robots to understand their environments with unprecedented precision. By enhancing spatial reasoning and multi-view understanding, researchers are bringing a new level of autonomy to physical agents.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1776239904.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://deepmind.google/blog/gemini-robotics-er-1-6/" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://storage.googleapis.com/gdm-deepmind-com-prod-public/icons/google_deepmind_2x_96dp.png" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
-                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
-                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
-                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
-                                            </svg>
-                                            
-                                        
-                                        <span>Google DeepMind</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1slzihs/openai_expands_its_cyber_defense_program_with/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/5kLSOV-NBYCPO9hOVPBmbZiuO1fNjVTHKJxGNdF8mt4.jpeg?width=640&crop=smart&auto=webp&s=3d2c8049a8c99e94d14f0b3c62fbdf833377057f" alt="OpenAI expands its cyber defense program with GPT-5.4-Cyber for vetted researchers" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1slzihs/openai_expands_its_cyber_defense_program_with/" target="_blank" onclick="event.stopPropagation();">OpenAI expands its cyber defense program with GPT-5.4-Cyber for vetted researchers</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            The company is scaling its Trusted Access for Cyber (TAC) program to thousands of verified individual defenders and hundreds of teams responsible for defending critical software. Alongside that expansion, OpenAI is releasing GPT-5.4-Cyber, a version of GPT-5.4 fine-tuned specifically for defensive cybersecurity work.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1776239816.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://www.helpnetsecurity.com/2026/04/15/openai-gpt-5-4-cyber/" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://www.helpnetsecurity.com/wp-content/themes/hns25jul/apple-touch-icon.png" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
-                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
-                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
-                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
-                                            </svg>
-                                            
-                                        
-                                        <span>Help Net Security</span>
-                                    </a>
-                                </div>
                                 
                             </div>
                         </div>
@@ -1056,7 +1005,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-04-15T15:05:23.171501+00:00">Updated 2026-04-15T15:05:23.171501+00:00</small>
+        <small data-timestamp="2026-04-15T16:35:45.468973+00:00">Updated 2026-04-15T16:35:45.468973+00:00</small>
     </div>
 </div>
 
@@ -1249,7 +1198,7 @@
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.cnbc.com/2026/04/15/allbirds-bird-stock-shoes-ai.html" target="_blank" onclick="event.stopPropagation();">Struggling shoe retailer Allbirds makes bizarre pivot from shoes to AI, stock explodes more than 300%</a>
+                            <a href="https://www.cnbc.com/2026/04/15/allbirds-bird-stock-shoes-ai.html" target="_blank" onclick="event.stopPropagation();">Struggling shoe retailer Allbirds makes bizarre pivot from shoes to AI, stock explodes more than 700%</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1283,14 +1232,14 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/04/15/opinion/art-artificial-intelligence.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/04/15/magazine/ai-black-box-interpretability-research.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.nytimes.com/2026/04/15/opinion/art-artificial-intelligence.html" target="_blank" onclick="event.stopPropagation();">Opinion | Don’t Use A.I. to Do This</a>
+                            <a href="https://www.nytimes.com/2026/04/15/magazine/ai-black-box-interpretability-research.html" target="_blank" onclick="event.stopPropagation();">We Don’t Really Know How A.I. Works. That’s a Problem.</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1312,7 +1261,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1776243785.0"></span>
+                                    <span data-timestamp="1776243780.0"></span>
                                 </div>
                                 
                             </div>
@@ -1320,20 +1269,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://qz.com/allbirds-newbird-ai-pivot-stock-041526', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.today.com/health/diet-fitness/ai-nutrition-app-simple-man-loses-100-pounds-rcna331799', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/api/media/file/GettyImages-2269153872-300x200.jpg');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2026-04/man-loses-100-pounds-ai-weight-loss-app-mh-04142026-90829e.png');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://qz.com/allbirds-newbird-ai-pivot-stock-041526" target="_blank" onclick="event.stopPropagation();">Allbirds stock surged 373% after the sneaker brand pivoted to AI computing</a>
+                            <a href="https://www.today.com/health/diet-fitness/ai-nutrition-app-simple-man-loses-100-pounds-rcna331799" target="_blank" onclick="event.stopPropagation();">Man, 43, Lost 100 Pounds in a Year With an AI Nutrition App. What to Know Before Trying One</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            The San Francisco company is selling its footwear assets for $39 million and rebranding as NewBird AI, a GPU-as-a-Service provider
+                            After struggling with weight loss for years, one man turned to an AI-powered nutrition app and lost over 100 pounds. Experts explain how these tools work, and where they can fall short.
                         </div>
                         
 
@@ -1343,9 +1292,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://qz.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="qz.com" class="news-favicon">
-                                    <a href="https://qz.com" target="_blank" onclick="event.stopPropagation();">qz.com</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.today.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="TODAY.com" class="news-favicon">
+                                    <a href="https://www.today.com" target="_blank" onclick="event.stopPropagation();">TODAY.com</a>
                                     
                                 </div>
                                 
@@ -1353,7 +1302,126 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1776264742.0"></span>
+                                    <span data-timestamp="1776270817.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.nbcnews.com/tech/tech-news/allbirds-buzzy-shoe-startup-pivots-ai-rcna331943', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-04/260415-allbirds-mn-1030-d44ec3.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.nbcnews.com/tech/tech-news/allbirds-buzzy-shoe-startup-pivots-ai-rcna331943" target="_blank" onclick="event.stopPropagation();">Allbirds, once a buzzy shoe startup, pivots to AI</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            The company's share price shot up more than 300% on the news, offering some sense of the ongoing excitement for AI investments.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nbcnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="NBC News" class="news-favicon">
+                                    <a href="https://www.nbcnews.com" target="_blank" onclick="event.stopPropagation();">NBC News</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1776269707.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.barrons.com/articles/tech-earnings-preview-ai-spending-stocks-to-buy-d98ba0c2', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.barrons.com/articles/tech-earnings-preview-ai-spending-stocks-to-buy-d98ba0c2" target="_blank" onclick="event.stopPropagation();">Tech Earnings Are Here. AI Spending Remains the Focus.</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.barrons.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Barron's" class="news-favicon">
+                                    <a href="https://www.barrons.com" target="_blank" onclick="event.stopPropagation();">Barron's</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1776270240.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.theguardian.com/media/2026/apr/15/ai-firm-accused-sexist-advert-narwhal-labs-misogyny', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://i.guim.co.uk/img/media/24d1e3056491bcd2232d7e77a8a40e938909e8e2/167_0_1666_1333/master/1666.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0db7a85c02cff23589073e5011c27884');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.theguardian.com/media/2026/apr/15/ai-firm-accused-sexist-advert-narwhal-labs-misogyny" target="_blank" onclick="event.stopPropagation();">‘Misogyny with a marketing budget’: UK AI firm accused of sexist advert</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Narwhal Labs ad for ‘AI employee’ contains strapline: ‘She outworks everyone. And she’ll never ask for a raise’
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Guardian" class="news-favicon">
+                                    <a href="https://www.theguardian.com" target="_blank" onclick="event.stopPropagation();">The Guardian</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1776257880.0"></span>
                                 </div>
                                 
                             </div>
@@ -1431,126 +1499,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1776244729.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.cnn.com/2026/04/15/world/video/are-factory-workers-training-ai-to-replace-themselves-digvid-vrtc-hnk', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://media.cnn.com/api/v1/images/stellar/prod/118839-factoryworkersai-vertical-clean-thumb.jpg?c=16x9&q=w_800,c_fill');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.cnn.com/2026/04/15/world/video/are-factory-workers-training-ai-to-replace-themselves-digvid-vrtc-hnk" target="_blank" onclick="event.stopPropagation();">Are factory workers training AI to replace themselves?</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            A viral video from a factory has sparked conversation both online and within the industry about whether workers are training AI to replace their jobs. CNN’s Rhea Mogul explains.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="CNN" class="news-favicon">
-                                    <a href="https://www.cnn.com" target="_blank" onclick="event.stopPropagation();">CNN</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1776241620.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.politico.com/live-updates/2026/04/15/congress/ai-in-fisa-fight-00872629', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.politico.com/live-updates/2026/04/15/congress/ai-in-fisa-fight-00872629" target="_blank" onclick="event.stopPropagation();">The AI threat undercutting the White House’s FISA push</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.politico.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Politico" class="news-favicon">
-                                    <a href="https://www.politico.com" target="_blank" onclick="event.stopPropagation();">Politico</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1776260637.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('http://nvidianews.nvidia.com/news/nvidia-launches-ising-the-worlds-first-open-ai-models-to-accelerate-the-path-to-useful-quantum-computers', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://iprsoftwaremedia.com/219/files/202604/69dd81573d633202e6df77bc_04132026q/04132026q_651f0725-2b7f-4b33-8240-d271595b2d15-prv.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="http://nvidianews.nvidia.com/news/nvidia-launches-ising-the-worlds-first-open-ai-models-to-accelerate-the-path-to-useful-quantum-computers" target="_blank" onclick="event.stopPropagation();">NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            NVIDIA today announced the world’s first family of open source quantum AI models, NVIDIA Ising, designed to help researchers and enterprises build quantum processors capable of running useful applications.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=http://nvidianews.nvidia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="NVIDIA Newsroom" class="news-favicon">
-                                    <a href="http://nvidianews.nvidia.com" target="_blank" onclick="event.stopPropagation();">NVIDIA Newsroom</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1776175526.0"></span>
+                                    <span data-timestamp="1776247200.0"></span>
                                 </div>
                                 
                             </div>
@@ -1587,7 +1536,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1776261725.0"></span>
+                                    <span data-timestamp="1776265802.0"></span>
                                 </div>
                                 
                             </div>
@@ -1595,17 +1544,21 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.axios.com/2026/04/15/mccormick-ai-revolution-risks-energy', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.cnn.com/2026/04/15/investing/allbirds-pivot-to-ai', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
+                    <div class="article-thumbnail" style="background-image: url('https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1337507275.jpg?c=16x9&q=w_800,c_fill');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.axios.com/2026/04/15/mccormick-ai-revolution-risks-energy" target="_blank" onclick="event.stopPropagation();">Exclusive: AI's revolution comes with risks, Sen. McCormick says</a>
+                            <a href="https://www.cnn.com/2026/04/15/investing/allbirds-pivot-to-ai" target="_blank" onclick="event.stopPropagation();">Allbirds shares soar 600% as it pivots from footwear to AI</a>
                         </div>
 
                         <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Shares of Allbirds — the 2010s pioneer of trendy sneakers and eco-conscious Millennial retail marketing — took flight in an almost comical fashion Wednesday morning after the company announced an extremely 2026 pivot: abandoning its environmental agenda and getting into the AI business.
+                        </div>
                         
 
                         <!-- Metadata (source, time) -->
@@ -1614,9 +1567,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.axios.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Axios" class="news-favicon">
-                                    <a href="https://www.axios.com" target="_blank" onclick="event.stopPropagation();">Axios</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="CNN" class="news-favicon">
+                                    <a href="https://www.cnn.com" target="_blank" onclick="event.stopPropagation();">CNN</a>
                                     
                                 </div>
                                 
@@ -1624,7 +1577,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1776257735.0"></span>
+                                    <span data-timestamp="1776267635.0"></span>
                                 </div>
                                 
                             </div>
@@ -1652,7 +1605,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-04-15T15:05:39.779834+00:00">Updated 2026-04-15T15:05:39.779834+00:00</small>
+        <small data-timestamp="2026-04-15T16:36:14.431192+00:00">Updated 2026-04-15T16:36:14.431192+00:00</small>
     </div>
 </div>
 
@@ -1928,7 +1881,7 @@
                                     <span class="post-points">▲ 259</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 397</span>
+                                    <span style="color: #9ca3af;">💬 399</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2002,6 +1955,54 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=47774971', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="post-thumbnail" ></div>
+
+                    <div class="post-content">
+                        <!-- Post title (fixed 3-line height) -->
+                        <div class="post-title">
+                            <a href="https://news.ycombinator.com/item?id=47774971" target="_blank" onclick="event.stopPropagation();">Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (points, comments, time) -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-points">▲ 205</span>
+                                </div>
+                                <div class="post-meta-item">
+                                    <span style="color: #9ca3af;">💬 132</span>
+                                </div>
+                            </div>
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-age" data-timestamp="2026-04-15T05:19:06Z"></span>
+                                </div>
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://www.gizmoweek.com/gemma-4-runs-iphone/" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0;">
+                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
+                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
+                                            </svg>
+                                            
+                                        
+                                        <span>gizmoweek.com</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=47743700', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="post-thumbnail" style="background-image: url('https://europe.mistral.ai/images/og.png');"></div>
@@ -2043,6 +2044,104 @@
                                             
                                         
                                         <span>Mistral AI</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=47779730', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="post-thumbnail" style="background-image: url('https://claudestatus.com/og-image.png');"></div>
+
+                    <div class="post-content">
+                        <!-- Post title (fixed 3-line height) -->
+                        <div class="post-title">
+                            <a href="https://news.ycombinator.com/item?id=47779730" target="_blank" onclick="event.stopPropagation();">Elevated errors on Claude.ai, API, Claude Code</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Check if Claude AI is down right now. Real-time status monitoring, uptime history, latency metrics, and incident tracking for claude.ai, Claude API, and Claude Code. Community-powered outage reports and alerts.
+                        </div>
+                        
+
+                        <!-- Metadata (points, comments, time) -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-points">▲ 189</span>
+                                </div>
+                                <div class="post-meta-item">
+                                    <span style="color: #9ca3af;">💬 163</span>
+                                </div>
+                            </div>
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-age" data-timestamp="2026-04-15T14:44:00Z"></span>
+                                </div>
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://claudestatus.com/" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://claudestatus.com/apple-touch-icon.png" alt="" class="post-favicon">
+                                            
+                                        
+                                        <span>Claude Status</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=47768339', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="post-thumbnail" style="background-image: url('https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleChrome_RR_Skills_KeywordHeader-Thumbnai.width-1300.png');"></div>
+
+                    <div class="post-content">
+                        <!-- Post title (fixed 3-line height) -->
+                        <div class="post-title">
+                            <a href="https://news.ycombinator.com/item?id=47768339" target="_blank" onclick="event.stopPropagation();">Turn your best AI prompts into one-click tools in Chrome</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Skills in Chrome let you discover, save and remix AI workflows — and repeat them instantly.
+                        </div>
+                        
+
+                        <!-- Metadata (points, comments, time) -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-points">▲ 187</span>
+                                </div>
+                                <div class="post-meta-item">
+                                    <span style="color: #9ca3af;">💬 101</span>
+                                </div>
+                            </div>
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-age" data-timestamp="2026-04-14T17:09:43Z"></span>
+                                </div>
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260319-1641" alt="" class="post-favicon">
+                                            
+                                        
+                                        <span>Google</span>
                                     </a>
                                 </div>
                                 
@@ -2099,103 +2198,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=47768339', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" style="background-image: url('https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleChrome_RR_Skills_KeywordHeader-Thumbnai.width-1300.png');"></div>
-
-                    <div class="post-content">
-                        <!-- Post title (fixed 3-line height) -->
-                        <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=47768339" target="_blank" onclick="event.stopPropagation();">Turn your best AI prompts into one-click tools in Chrome</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Skills in Chrome let you discover, save and remix AI workflows — and repeat them instantly.
-                        </div>
-                        
-
-                        <!-- Metadata (points, comments, time) -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-points">▲ 183</span>
-                                </div>
-                                <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 100</span>
-                                </div>
-                            </div>
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-04-14T17:09:43Z"></span>
-                                </div>
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20260319-1641" alt="" class="post-favicon">
-                                            
-                                        
-                                        <span>Google</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=47774971', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" ></div>
-
-                    <div class="post-content">
-                        <!-- Post title (fixed 3-line height) -->
-                        <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=47774971" target="_blank" onclick="event.stopPropagation();">Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (points, comments, time) -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-points">▲ 159</span>
-                                </div>
-                                <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 101</span>
-                                </div>
-                            </div>
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-04-15T05:19:06Z"></span>
-                                </div>
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://www.gizmoweek.com/gemma-4-runs-iphone/" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0;">
-                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
-                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
-                                            </svg>
-                                            
-                                        
-                                        <span>gizmoweek.com</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=47756772', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="post-thumbnail" style="background-image: url('https://amd-fe836e11.mintlify.app/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DGetting%2BStarted%26title%3DWelcome%26description%3DBuild%2Blocal%2BAI%2Bagents%2Bin%2BPython%2Band%2BC%252B%252B%2Bfor%2BAMD%2Bhardware.%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Famd-fe836e11%252FPgPhi3UrqFX2lV53%252Fassets%252Ffavicon.ico%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DPgPhi3UrqFX2lV53%2526q%253D85%2526s%253D77bcf8b2d70613766cc02f16b0e208a0%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Famd-fe836e11%252FPgPhi3UrqFX2lV53%252Fassets%252Ffavicon.ico%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DPgPhi3UrqFX2lV53%2526q%253D85%2526s%253D77bcf8b2d70613766cc02f16b0e208a0%26primaryColor%3D%2523ED1C24%26lightColor%3D%2523F4484D%26darkColor%3D%2523C8171E%26backgroundLight%3D%2523ffffff%26backgroundDark%3D%25230e0a0c&w=1200&q=100');"></div>
@@ -2217,7 +2219,7 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 152</span>
+                                    <span class="post-points">▲ 153</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 34</span>
@@ -2294,55 +2296,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=47753643', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" style="background-image: url('https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png');"></div>
-
-                    <div class="post-content">
-                        <!-- Post title (fixed 3-line height) -->
-                        <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=47753643" target="_blank" onclick="event.stopPropagation();">Claude.ai down</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Claude's Status Page - Claude.ai down.
-                        </div>
-                        
-
-                        <!-- Metadata (points, comments, time) -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-points">▲ 134</span>
-                                </div>
-                                <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 126</span>
-                                </div>
-                            </div>
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-04-13T15:41:08Z"></span>
-                                </div>
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://status.claude.com/incidents/6jd2m42f8mld" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://dka575ofm4ao0.cloudfront.net/pages-favicon_logos/original/362807/NEW_spark-96-96-2225c423-f16f-42a4-b9d1-c58c10b998cb.png" alt="" class="post-favicon">
-                                            
-                                        
-                                        <span>status.claude.com</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 102, 0, 0.05); border-color: #ff6600;"
@@ -2363,7 +2316,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-04-15T15:05:22.003674+00:00">Updated 2026-04-15T15:05:22.003674+00:00</small>
+        <small data-timestamp="2026-04-15T16:35:46.590542+00:00">Updated 2026-04-15T16:35:46.590542+00:00</small>
     </div>
 </div>
 

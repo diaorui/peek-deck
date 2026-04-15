@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-15T15:05:54.508256+00:00'
+updated: '2026-04-15T16:36:17.293393+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
-- cryptocurrency
 - videos
+- cryptocurrency
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 15, 2026 at 15:05 UTC  
+**Last Updated:** April 15, 2026 at 16:36 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,340.56
+### $2,342.09
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
-**7d:** +6.8%  
-**30d:** +0.9%  
-**90d:** -29.1%  
-**1y:** +48.2%  
+**24h:** +0.4%  
+**7d:** +7.2%  
+**30d:** +1.3%  
+**90d:** -28.8%  
+**1y:** +48.8%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 A fake Ledger Live clone sat on Apple's App Store for seven days and drained $9.5 million from 50 victims across Bitcoin, Ethereum, Solana, Tron and XRP. Apple's review process, which promises to protect users, let it through. Then removed it after the damage was done.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/fake-ledger-app-apple-app-store-9-million-drained/) • 20h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/fake-ledger-app-apple-app-store-9-million-drained/) • 22h ago
 
 ---
 
@@ -88,7 +88,7 @@ A fake Ledger Live clone sat on Apple's App Store for seven days and drained $9.
 
 Man I was looking at some recent governance votes across a few protocols and the amount of obvious botting is just depressing at this point. it feels like every time we come up with a new sybil resistance mechanism, someone just spins up a better script to farm it and now with AI agents getting actually decent at mimicking random on-chain behavior and passing standard checks, it seems like pure software solutions are just dead in the water. I really hate the idea of forced traditional KYC for web3 stuff because it completely defeats the point of privacy and just builds another centralized honeypot. was reading this technical deep dive the other day about setting up a private Proof Of Human using ZK tech so you don't actually tie your daily wallet to your real identity. tbh it made me realize we might actually need some kind of hardware or biometric anchor if we want to keep things decentralized without getting completely overrun by server farms it just sucks that the ecosystem is moving in a direction where simply "proving you are a person" is becoming the hardest part of interacting with ethereum. Idk, curious how you guys think L2s are gonna handle this long term because the current meta of hoping for the best isn't working
 
-20h ago
+21h ago
 
 ---
 
@@ -102,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Building a prediction market sector index — is this a gap or am I missing something obvious?](https://www.reddit.com/r/ethereum/comments/1slnr4y/building_a_prediction_market_sector_index_is_this/)**
 
-16h ago
+18h ago
 
 ---
 
@@ -148,25 +148,19 @@ There’s a lot of focus lately on calldata in the context of rollups and EIP-20
 
 ## Google News: "ethereum"
 
-**[Bitcoin and ethereum prices today, Tuesday, April 14, 2026: Prices rebound despite U.S. blockade in the Middle East](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-april-14-2026-prices-rebound-despite-us-blockade-in-the-middle-east-112122301.html)**
+**[Ripple CEO Brad Garlinghouse Bets Big on XRP Flipping Ethereum](https://coinpaper.com/16228/ripple-ceo-brad-garlinghouse-bets-big-on-xrp-flipping-ethereum)**
 
-​​Bitcoin (BTC-USD) opened at $74,442.23 and ethereum (ETH-USD) opened at $2,369.90. Bitcoin was up 5.2% and ethereum was up 8.1% from Monday's open.
+Ripple CEO Brad Garlinghouse says XRP could challenge Ethereum for the #2 crypto spot, driven by real-world cross-border payment utility.
 
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin, XRP, Ethereum Fall. Iran Peace Failure Causes a Crypto Headache.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-iran-crypto-46d858c6)**
-
-Barron's • 2d ago
+Coinpaper • 1d ago
 
 ---
 
-**[Bitcoin and ethereum price today, Wednesday, April 15, 2026: Prices hold amid geopolitical tensions and ETF demand](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-wednesday-april-15-2026-prices-hold-amid-geopolitical-tensions-and-etf-demand-112532730.html)**
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.875 Million Tokens, and Total Crypto and Total Cash Holdings of $11.8 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-4-875-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-8-billion-302740122.html)**
 
-Bitcoin opened at $74,175.23 and ethereum  opened at $2,323.19. Both were down slightly from the day before.
+Bitmine now owns more than 4% of the total ETH coin supply of 120.7 million Bitmine is 81% of the way to the 'Alchemy of 5%' in just 9 months Bitmine uplisted...
 
-Yahoo Finance • 3h ago
+PR Newswire • 2d ago
 
 ---
 
@@ -174,19 +168,13 @@ Yahoo Finance • 3h ago
 
 The largest corporate ether holder posted a $3.8 billion quarterly loss as its pivot from mining to ETH accumulation continues.
 
-CoinDesk • 4h ago
+CoinDesk • 6h ago
 
 ---
 
 **[Bitmine Reports $3.8 Billion Loss As Ethereum Sinks](https://finance.yahoo.com/news/bitmine-reports-3-8-billion-125000138.html)**
 
-Yahoo Finance • 2h ago
-
----
-
-**[Bitmine Swallows a $3.8 Billion Bitter Pill as Tom Lee’s Massive Ethereum Bet Hits an Accounting Wall](https://www.tipranks.com/news/bitmine-swallows-a-3-8-billion-bitter-pill-as-tom-lees-massive-ethereum-bet-hits-an-accounting-wall)**
-
-TipRanks • 52m ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -194,7 +182,15 @@ TipRanks • 52m ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 1h ago
+Fortune • 23m ago
+
+---
+
+**[ETH, BTC price: What next as Ether/bitcoin ratio bounces from 2026 lows](https://www.coindesk.com/markets/2026/04/15/ether-bitcoin-ratio-bounces-from-2026-lows-in-signs-of-broader-crypto-recovery)**
+
+The ETH/BTC ratio hit its highest since January as Ethereum's network added 284,000 new users in Q1 and stablecoin supply reached a record $180 billion.
+
+CoinDesk • 11h ago
 
 ---
 
@@ -202,7 +198,15 @@ Fortune • 1h ago
 
 In a positive development, the Ethereum-Bitcoin ratio has moved off its low for this year, signaling a possible rec...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 3h ago
+
+---
+
+**[Which Cryptocurrency Should You Be Hoarding Right Now, Bitcoin or Ethereum?](https://www.fool.com/investing/2026/04/13/which-cryptocurrency-should-you-be-hoarding-right/)**
+
+If crypto treasury companies are loading up on Bitcoin and Ethereum, should you be too?
+
+The Motley Fool • 2d ago
 
 ---
 
@@ -210,7 +214,7 @@ Yahoo Finance • 1h ago
 
 The organization unveiled a new initiative aimed at tackling a persistent challenge in crypto development—the high cost of smart contract security audits.
 
-CoinDesk • 21h ago
+CoinDesk • 22h ago
 
 ---
 
@@ -218,7 +222,7 @@ CoinDesk • 21h ago
 
 Ethereum’s derivatives market on Binance is flashing a setup that could leave short sellers exposed if the recent move higher continues. According to analysis shared on X by CryptoQuant contributor Darkfost, positioning has become increasingly one-sided even as ETH has rebounded sharply from its Fe…
 
-TradingView — Track All Markets • 5h ago
+TradingView — Track All Markets • 6h ago
 
 ---
 
@@ -232,7 +236,7 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 843 • 👍 100 • 💬 15 • ⏱️ 11:55 • 1h ago
+👁️ 843 • 👍 100 • 💬 15 • ⏱️ 11:55 • 3h ago
 
 ---
 
@@ -242,7 +246,7 @@ Companies over the course of 2026 have been all but frothing at the mouth trying
 
 📺 The Modern Investor
 
-👁️ 3K • 👍 535 • 💬 318 • ⏱️ 29:08 • 4h ago
+👁️ 3K • 👍 535 • 💬 318 • ⏱️ 29:08 • 6h ago
 
 ---
 
@@ -252,7 +256,7 @@ BITCOIN SHORT SQUEEZE PREDICTED: Get Ready For THIS!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 6K • 👍 306 • 💬 326 • ⏱️ 22:06 • 12h ago
+👁️ 6K • 👍 306 • 💬 326 • ⏱️ 22:06 • 13h ago
 
 ---
 
@@ -262,7 +266,7 @@ We're diving into the latest "xrp news today" as extreme "xrp price" targets, ra
 
 📺 Ripple Moon Watch
 
-👁️ 512 • 👍 75 • 💬 39 • ⏱️ 19:27 • 1h ago
+👁️ 512 • 👍 75 • 💬 39 • ⏱️ 19:27 • 3h ago
 
 ---
 
@@ -272,7 +276,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 106 • 👍 12 • 💬 1 • ⏱️ 4:24 • 6h ago
+👁️ 106 • 👍 12 • 💬 1 • ⏱️ 4:24 • 7h ago
 
 ---
 
@@ -282,7 +286,7 @@ After a lengthy vacation CryptoFace join sus with MarketCipher midweek to see if
 
 📺 Crypto Face
 
-👁️ 5K • 👍 318 • 2h ago
+👁️ 5K • 👍 318 • 4h ago
 
 ---
 
@@ -302,7 +306,7 @@ Tony Edwards of Thinking Crypto interview. We talk: Incoming Bitcoin Bottom, QE,
 
 📺 Altcoin Daily
 
-👁️ 5K • 👍 160 • 💬 65 • ⏱️ 0:59 • 21h ago
+👁️ 5K • 👍 160 • 💬 65 • ⏱️ 0:59 • 22h ago
 
 ---
 
@@ -312,7 +316,7 @@ TRADE IN CRYPTO AND GOLD SAFELY (CRYPTO/ Gold Token) :- https://india.delta.exch
 
 📺 Vibe With Sahil
 
-👁️ 3K • 👍 260 • 1h ago
+👁️ 3K • 👍 260 • 2h ago
 
 ---
 
