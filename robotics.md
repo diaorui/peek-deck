@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-15T05:25:20.620652+00:00'
+updated: '2026-04-15T07:08:50.427533+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 15, 2026 at 05:25 UTC  
+**Last Updated:** April 15, 2026 at 07:08 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Blog post: Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning: https://deepmind.google/blog/gemini-robotics-er-1-6/ From Google DeepMind on 𝕏: https://x.com/GoogleDeepMind/status/2044069878781390929
 
-2h ago
+4h ago
 
 ---
 
 **[Automated Guided Vehicles At Long Beach Container Terminal](https://www.reddit.com/r/robotics/comments/1slnxdj/automated_guided_vehicles_at_long_beach_container/)**
 
-6h ago
+8h ago
 
 ---
 
@@ -50,7 +50,7 @@ Blog post: Gemini Robotics-ER 1.6: Powering real-world robotics tasks through en
 
 OpenArm is an open-source humanoid arm platform developed by Enactic in Tokyo. It includes full CAD files, control code, firmware, and simulation tools, allowing users to build, modify, and test the system themselves. The arms are compliant and backdrivable, with teleoperation support that includes force feedback and gravity compensation. It also integrates with MuJoCo and Isaac Sim, enabling simulation-first development before running on real hardware. Project page: https://github.com/enactic/OpenArm
 
-12h ago
+14h ago
 
 ---
 
@@ -58,7 +58,7 @@ OpenArm is an open-source humanoid arm platform developed by Enactic in Tokyo. I
 
 Curious how it does over longer distances. Didn’t expect it to look this stable, but I’m guessing things might get tricky over a full half marathon distance.
 
-1h ago
+3h ago
 
 ---
 
@@ -66,7 +66,7 @@ Curious how it does over longer distances. Didn’t expect it to look this stabl
 
 Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/2043873782620926032
 
-19h ago
+21h ago
 
 ---
 
@@ -82,7 +82,7 @@ Two weeks ago, I quit my job at a robotics company. I didn't have another offer 
 
 https://youtube.com/@joshbongard3314?si=SUzZJityisRA-UE8 It is honestly wild to me how few views Josh Bongard’s YouTube lectures have. He has been doing fascinating work at the intersection of artificial intelligence, evolutionary systems, robotics, and intelligence itself, his talks are full of substance and he is a close collaborator of Michael Levin. No hype, just real ideas from someone who has spent years thinking deeply about how minds and machines emerge, adapt, and learn.
 
-4h ago
+6h ago
 
 ---
 
@@ -90,19 +90,19 @@ https://youtube.com/@joshbongard3314?si=SUzZJityisRA-UE8 It is honestly wild to 
 
 Check out why we built determinism as a core principle for our open source copper-rs project. Imagine being able to instantly reproduce deterministically any bug on your robotics platform, just jumping at the time the mistake happened, fix it, compare and never regress. https://youtu.be/eMpEeXYkQDw
 
-9h ago
-
----
-
-**[Hot take on general robotics](https://www.reddit.com/r/robotics/comments/1sltj2y/hot_take_on_general_robotics/)**
-
-The reason we haven’t solved general robotics is not because we need “more data”, it’s because general robotics AKA physical artificial general intelligence is a theoretical scifi concept that is not proven with zero scientific backing in the real world and to be clear, what I mean is: there is zero validated pathway from current methods to that level of generality - **Not saying will never happen** - but rather current methods are unproven & proving to be inefficient by the day. Current claims like: “Tell it anything, works in any random messy environment, like a human, makes emotions, jobs will become optional and we just need more data, if we had the data we’ll be at 100% AGI now” - what this is essentially proposing is consciousness in a bunch of metal, actuators, motors & silicon chips screwed together in human form. This is not scientifically established as an achievable engineering target today, speculative at best therefore not grounded within engineering, physics, controls, AI & no existing system shows anything close to that level of generalization. Tesla started it as a cool research project & every other humanoid company is a clone of that with people from LLM, computer vision & computer science backgrounds. The concept of a humanoid robot is incredible, a system that can fit into any space a human can and could theoretically do everything a human can. But just because it can theoretically do it, doesn’t mean it has to be the case end to end. Massive amounts of utilitity can be extracted from the technology when you realise a part of that tech is only a part of the equation. Meaning, starting & stopping at humanoid robots is not the way to go. And to clarify, I'm not calling out all robotics or speaking broadly, its:“Human-level, open-world, instruction-following humanoids emerge just by scaling current AI + more data.” - the evidence is basically nonexistent.
-
-2h ago
+11h ago
 
 ---
 
 **[Beijing’s Humanoid Robot Half Marathon, Night Run Test - Around 40% of teams are running fully autonomous, remote-controlled runs get a 1.2× penalty (Beijing's E-Town Half Marathon on April 19 with 100+ teams, 300+ humanoids competing)](https://www.reddit.com/r/robotics/comments/1sk6p2y/beijings_humanoid_robot_half_marathon_night_run/)**
+
+1d ago
+
+---
+
+**[Boston Dynamics on why second-gen robots are where the real progress happens](https://www.reddit.com/r/robotics/comments/1skg5ki/boston_dynamics_on_why_secondgen_robots_are_where/)**
+
+Zack Jackowski, VP of Atlas Product at Boston Dynamics, explains that the first robot is really just a research machine used to figure out how everything actually works together. When they built it, they didn’t fully understand how all the components would interact, so it ended up overbuilt and a bit unbalanced, with things like multiple computers and parts pushed to extremes. He describes how the second-generation design is where that learning gets applied. Once they have real data, they can simplify the system, remove what isn’t needed, and make better decisions about weight, strength, and compute. The result isn’t not just a cheaper version, it’s a more efficient and better-performing robot overall because it’s based on what they learned from the first one rather than assumptions. j
 
 1d ago
 
@@ -116,7 +116,7 @@ The reason we haven’t solved general robotics is not because we need “more d
 
 Gemini Robotics ER 1.6 upgrades spatial reasoning and multi-view understanding, unlocking new capabilities like instrument reading for autonomous robots.
 
-Google DeepMind • 14h ago
+Google DeepMind • 16h ago
 
 ---
 
@@ -124,7 +124,7 @@ Google DeepMind • 14h ago
 
 The addition of Gemini Robotics brings embodied AI reasoning to inspection robots
 
-IEEE Spectrum • 9h ago
+IEEE Spectrum • 11h ago
 
 ---
 
@@ -132,13 +132,7 @@ IEEE Spectrum • 9h ago
 
 A recent demo shows Boston Dynamics Spot in a residential home, using Google’s visual-language model (VLM) Gemini Robotics-ER 1.5 for embodied reasoning.
 
-Boston Dynamics • 14h ago
-
----
-
-**[Korean AI chip startup DEEPX, Hyundai work on robots powered by generative AI](https://www.reuters.com/business/autos-transportation/korean-ai-chip-startup-deepx-hyundai-work-robots-powered-by-generative-ai-2026-04-15/)**
-
-Reuters • 2h ago
+Boston Dynamics • 16h ago
 
 ---
 
@@ -146,21 +140,23 @@ Reuters • 2h ago
 
 “The occupiers surrendered, and the operation was carried out without infantry and without losses on our side,” says Ukrainian leader.
 
-politico.eu • 19h ago
+politico.eu • 21h ago
 
 ---
 
-**[Ukraine’s military robot surge aims to offset drone risks to humans](https://arstechnica.com/ai/2026/04/ukraines-military-robot-surge-aims-to-offset-drone-risks-to-humans/)**
+**[Commentary: Am I the only one who hates delivery robots?](https://www.latimes.com/entertainment-arts/story/2026-04-14/delivery-robots-creating-problems-glendale-ban)**
 
-Ukraine is replacing more soldiers with robots in the battlefield kill zone.
+They may have seemed cute when they debuted, but delivery robots are clogging sidewalks, creeping through intersections and generally creating many more problems than they solve.
 
-Ars Technica • 6h ago
+Los Angeles Times • 21h ago
 
 ---
 
-**[First victory for the battle brigade run by robots alone](https://www.thetimes.com/world/russia-ukraine-war/article/ukraine-robot-army-war-russia-surrender-jvld9rllc)**
+**[Hesston Robotics prepares for world championship, needs final push in funding](https://www.yahoo.com/lifestyle/articles/hesston-robotics-prepares-world-championship-030000703.html)**
 
-The Times • 18h ago
+Since its inception, the program has been one of — if not the — best in the country, and now the students are preparing to perform on the world stage.
+
+Yahoo • 4h ago
 
 ---
 
@@ -168,7 +164,13 @@ The Times • 18h ago
 
 The Maui High School robotics team 2443 Blue Thunder made history at the FIRST Robotics Competition Denver Regional, capturing the Regional Championship title and earning a coveted spot at the World Championships in Houston, Texas.
 
-Maui Now • 9h ago
+Maui Now • 11h ago
+
+---
+
+**[Korean AI chip startup DEEPX, Hyundai work on robots powered by generative AI](https://www.reuters.com/business/autos-transportation/korean-ai-chip-startup-deepx-hyundai-work-robots-powered-by-generative-ai-2026-04-15/)**
+
+Reuters • 4h ago
 
 ---
 
@@ -178,11 +180,11 @@ Forbes • 1d ago
 
 ---
 
-**[Chicago bus shelter ad apologizes after video shows food delivery robots with Serve Robotics crash into Grand and Racine bus stop](https://abc7chicago.com/post/chicago-bus-shelter-ad-apologizes-video-shows-food-delivery-robots-serve-robotics-crash-grand-racine-stop/18885510/)**
+**[Ukraine’s military robot surge aims to offset drone risks to humans](https://arstechnica.com/ai/2026/04/ukraines-military-robot-surge-aims-to-offset-drone-risks-to-humans/)**
 
-The owner of a robot delivery service is trying to turn a shattering experience into a good laugh.
+Ukraine is replacing more soldiers with robots in the battlefield kill zone.
 
-ABC7 Chicago • 11h ago
+Ars Technica • 8h ago
 
 ---
 
@@ -206,7 +208,7 @@ AI and robotics will impact our economy, our politics, our privacy, our emotiona
 
 📺 Senator Bernie Sanders
 
-👁️ 7K • 👍 657 • 💬 80 • ⏱️ 1:03:51 • 9h ago
+👁️ 7K • 👍 657 • 💬 80 • ⏱️ 1:03:51 • 11h ago
 
 ---
 
@@ -226,7 +228,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 19K • 👍 923 • 💬 112 • ⏱️ 4:16 • 14h ago
+👁️ 19K • 👍 923 • 💬 112 • ⏱️ 4:16 • 16h ago
 
 ---
 
@@ -236,7 +238,7 @@ Terminator is about to become real?! If you want to help support independent jou
 
 📺 Benny Johnson
 
-👁️ 144K • 👍 11K • 💬 2K • ⏱️ 11:20 • 6h ago
+👁️ 144K • 👍 11K • 💬 2K • ⏱️ 11:20 • 8h ago
 
 ---
 
@@ -246,7 +248,7 @@ For the first time, a Russian position at the front was fully captured without a
 
 📺 UATV English
 
-👁️ 5K • 👍 396 • 💬 17 • ⏱️ 10:56 • 7h ago
+👁️ 5K • 👍 396 • 💬 17 • ⏱️ 10:56 • 9h ago
 
 ---
 
@@ -266,7 +268,7 @@ The introduction of AI Visual inspections expanded what Spot and Orbit could tel
 
 📺 Boston Dynamics
 
-👁️ 18K • 👍 1K • 💬 84 • ⏱️ 1:40 • 14h ago
+👁️ 18K • 👍 1K • 💬 84 • ⏱️ 1:40 • 15h ago
 
 ---
 
@@ -274,7 +276,7 @@ The introduction of AI Visual inspections expanded what Spot and Orbit could tel
 
 📺 Robot Julie 
 
-👁️ 5K • 👍 23 • ⏱️ 0:21 • 4h ago
+👁️ 5K • 👍 23 • ⏱️ 0:21 • 6h ago
 
 ---
 

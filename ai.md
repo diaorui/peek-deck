@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-15T05:25:20.604867+00:00'
+updated: '2026-04-15T07:08:50.411788+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
 - repositories
+- social
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 15, 2026 at 05:25 UTC  
+**Last Updated:** April 15, 2026 at 07:08 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 This is not hyperbole, nor will it just go away if we ignore it. It affects every single AI service, from big AI to small devs building saas apps. This is real, please take it seriously. TL;DR: Tennessee HB1455/SB1493 creates Class A felony criminal liability — the same category as first-degree murder — for anyone who “knowingly trains artificial intelligence” to provide emotional support, act as a companion, simulate a human being, or engage in open-ended conversations that could lead a user to feel they have a relationship with the AI. The Senate Judiciary Committee already approved it 7-0. It takes effect July 1, 2026. This affects every conversational AI product in existence. If you deploy any AI SaaS product, you need to read this right now. What the bill actually says The bill makes it a Class A felony (15-25 years imprisonment) to “knowingly train artificial intelligence” to do ANY of the following: • Provide emotional support, including through open-ended conversations with a user • Develop an emotional relationship with, or otherwise act as a companion to, an individual • Simulate a human being, including in appearance, voice, or other mannerisms • Act as a sentient human or mirror interactions that a human user might have with another human user, such that an individual would feel that the individual could develop a friendship or other relationship with the artificial intelligence Read that last one again. The trigger isn’t your intent as a developer. It’s whether a user feels like they could develop a friendship with your AI. That is the criminal standard. On top of the felony charges, the bill creates a civil liability framework: $150,000 in liquidated damages per violation, plus actual damages, emotional distress compensation, punitive damages, and mandatory attorney’s fees. Why this affects YOU, not just companion apps I know what you’re thinking: “This targets Replika and Character.AI, not my product.” Wrong. Every major LLM is RLHF’d to be warm, helpful, empathetic, and conversational. That IS the training. You cannot build a model that follows instructions well and is pleasant to interact with without also building something a user might feel a connection with. The National Law Review’s legal analysis put it bluntly: this language “describes the fundamental design of modern conversational AI chatbots.” This bill captures: • ChatGPT, Claude, Gemini, Copilot — all of them produce open-ended conversations and contextual emotional responses • Any AI SaaS with a chat interface — customer support bots, AI tutors, writing assistants, coding assistants with conversational UI • Voice-mode AI products — the bill explicitly criminalizes simulating a human “in appearance, voice, or other mannerisms” • Any wrapper or deployment using system prompts — the bill doesn’t define “train,” doesn’t distinguish between pre-training, fine-tuning, RLHF, or prompt engineering If you build on top of an LLM API with system prompts that shape the model’s personality, tone, or conversational style — which is literally what everyone deploying AI does — you are potentially in scope. “But I’m not in Tennessee” A geoblock helps, but this is criminal law, not a terms of service dispute. The bill doesn’t address jurisdictional boundaries. If a Tennessee resident uses a VPN to access your service and something goes wrong, does a Tennessee DA argue you made a prohibited AI service available to their constituents? The statute is silent on this. And even if you’re confident jurisdiction won’t reach you today, consider: multiple legal analyses project 5-10 more states will introduce similar legislation before end of 2026. Tennessee is the template, not the exception. The bill doesn’t define “train” This is critical. The statute says “knowingly train artificial intelligence” but never defines what “train” means. It doesn’t distinguish between: • Pre-training a foundation model on billions of tokens • Fine-tuning a model on custom data • RLHF alignment (which is what makes every major model “empathetic”) • Writing a system prompt that gives an AI a name, personality, or conversational style • Deploying an off-the-shelf API with default settings A prosecutor who wanted to be aggressive could argue that crafting a system prompt instructing a model to be warm, helpful, and conversational IS training it to provide emotional support. Where it stands right now • Senate companion bill SB1493: Approved by Senate Judiciary Committee 7-0 on March 24, 2026 • House bill HB1455: Placed on Judiciary Committee calendar for April 14, 2026 (passed Judiciary TODAY) • No amendments have been filed for either bill — the language has not been softened at all • Effective date: July 1, 2026 • Tennessee already signed a separate bill (SB1580) banning AI from representing itself as a mental health professional — that one passed the Senate 32-0 and the House 94-0 The political momentum is entirely one-directional. The federal preemption angle won’t save you in time Yes, Trump signed an EO in December 2025 targeting state AI regulation and created a DOJ AI Litigation Task Force. Yes, Senator Blackburn introduced a federal preemption bill. But: • The EO explicitly carves out child safety from preemption — and Tennessee is framing this as child safety legislation • The Senate voted 99-1 to strip AI preemption language from the One Big Beautiful Bill Act • An EO has no preemptive legal force on its own — only Congress can actually preempt state law • Federal preemption legislation faces “significant headwinds” according to multiple legal analyses Even if federal preemption eventually happens, it won’t happen before July 1, 2026. What needs to happen Awareness. Most devs have no idea this bill exists. The Nomi AI subreddit caught it because they’re a companion app. The rest of the AI dev community is sleepwalking toward a cliff. Share this post. Industry response. The major AI companies haven’t publicly opposed this bill because it’s framed as child safety and nobody wants to be the company lobbying against dead kids. But their silence is letting legislation pass that criminalizes the core functionality of their own products. This needs public pressure. Legal challenges. The bill is almost certainly unconstitutional on vagueness grounds — criminal statutes require precise definitions, and terms like “emotional support” and “mirror interactions” and “feel that the individual could develop a friendship” don’t meet that standard. Courts have also recognized code as protected speech. But someone has to actually bring the challenge. Contact Tennessee legislators. If you are a Tennessee resident or have business operations there, contact members of the House Judiciary Committee before this moves to a floor vote. Sources and further reading • LegiScan: HB1455 — https://legiscan.com/TN/bill/HB1455/2025 • Tennessee General Assembly: HB1455 — https://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB1455&GA=114 • National Law Review: “Tennessee’s AI Bill Would Criminalize the Training of AI Chatbots” — https://natlawreview.com/article/tennessees-ai-bill-would-criminalize-training-ai-cha • Transparency Coalition AI Legislative Update, April 3, 2026 — https://www.transparencycoalition.ai/news/ai-legislative-update-april3-2026 • RoboRhythms: AI Companion Regulation Wave 2026 — https://www.roborhythms.com/ai-companion-chatbot-regulation-wave-2026/ I’m an independent AI SaaS developer. I’m not a lawyer, this isn’t legal advice, and I encourage everyone to consult qualified counsel about their specific exposure. But we all need to be paying attention to this. Right now.
 
-2h ago
+4h ago
 
 ---
 
@@ -49,7 +49,7 @@ This is not hyperbole, nor will it just go away if we ignore it. It affects ever
 
 Documents show the tax agency is testing a Palantir tool to surface “highest-value” audit and investigation targets from a maze of legacy systems.
 
-🔗 [WIRED](https://www.wired.com/story/documents-reveal-palantir-irs-contract-fraud-clean-energy-credits/) • 10h ago
+🔗 [WIRED](https://www.wired.com/story/documents-reveal-palantir-irs-contract-fraud-clean-energy-credits/) • 12h ago
 
 ---
 
@@ -57,39 +57,7 @@ Documents show the tax agency is testing a Palantir tool to surface “highest-v
 
 Hey Everyone, For the past three months, I’ve been building an open-source orchestration platform for AI agents called Synapse AI. I started this because I found existing frameworks (like LangChain or AutoGen) either too bloated or too unpredictable for production workflows. Letting agents freely "chat" with each other often leads to infinite loops, high API costs, and debugging nightmares. I wanted strict, predictable control. The Architecture: Instead of conversational routing, Synapse AI relies on a Directed Acyclic Graph (DAG) architecture. You define the work, strictly control the hand-offs between agents, and get a completed task on the other side. Under the Hood: Tool Agnostic: Build custom tools from scratch (Python/webhooks) or instantly plug in existing Model Context Protocol (MCP) servers. Local-First Emphasis: Full native support for Ollama so you can run routing and tasks entirely locally. (It also supports Gemini, Claude, and OpenAI for the heavy lifting). CLI Integration: Just shipped a community-requested feature to connect Claude Code, Gemini CLI, Codex CLI, and GitHub Copilot CLI directly to your agents. Frictionless Setup: A 1-step installation process across macOS, Windows, and Linux. What I'm looking for: I am currently maintaining this solo and rolling it out for an early pilot phase. I would love for this community to take a look under the hood. Specifically: Code Review: I’d love brutal feedback on the DAG implementation and overall architecture. Contributors & Collaborators: If you find the project worthwhile, I am actively looking for people to team up with! Whether it's adding new LLM providers, fixing UI quirks, or improving the 1-step installer, PRs are incredibly welcome. Repo: https://github.com/naveenraj-17/synapse-ai If you bump into any bugs, please drop an issue so I can patch it. Would love to hear your thoughts!
 
-2h ago
-
----
-
-**[Claude Code Degradation: An interesting and novel find](https://www.reddit.com/r/artificial/comments/1slhln5/claude_code_degradation_an_interesting_and_novel/)**
-
-As many of you have likely seen, the Claude Code community newswire has been ablaze with Claude Code being quite degraded lately, starting in February, and continuing to this day. Curious to understand if there was any "signal" on the wire when using Claude Code, I fired up my old friend WireShark and a --tls-keylog environment flag. Call it a man-in-the-middle attack on my own traffic. The captured TLS network traffic reveals the system prompts, system variables, and various other bits of telemetry The interesting part? A signature routing block that binds the session to a cloud instance with an effort level parameter, named Numbat. Mine, specifically, was numbat-v7-efforts-15-20-40-ab-prod8 So, it would appear that the backend running my instance is tied to an efforts-15-20-40 level. Is this conclusive? Not definitively, since only Antrhopic could tell us what that parameter actually means in production. Side note, a Numbat is an endangered critter that eats Ants in Austrialia :) If the "Numbat" eats the "Ants" (Anthropic), and Numbat is the engine that controls "Effort," the name itself could imply a "cost-eater" or an optimizer designed to reduce the model's footprint, likely in favor of project Glasswing efforts with Mythos Follow for more insights on Claude Code Numabt-v7-Efforts-15-20-40
-
-10h ago
-
----
-
-**[Lumen's CEO warns that AI bots now rule the internet](https://www.reddit.com/r/artificial/comments/1slq61s/lumens_ceo_warns_that_ai_bots_now_rule_the/)**
-
-Johnson warned that companies must urgently rethink their strategies as autonomous workers flood the web at unpredictable speeds and volumes.
-
-🔗 [Happy Mag](https://happymag.tv/lumens-ceo-warns-ai-bots-rule-internet/) • 5h ago
-
----
-
-**[thought experiment about how people see AI - AKA - triggering a ton of people on a sub](https://www.reddit.com/r/artificial/comments/1slppzq/thought_experiment_about_how_people_see_ai_aka/)**
-
-I posted on the neurodiversity about how I feel that AI is an ADHD accomodation, and OH BOY did people NOT like that! RUMBLE! Essentially I blieve that AI is becoming a legitimate acocmodation with people with ADHD - it allows me personally to accomplish things I have not in the past. The subreddit basically exploded on me saying that using AI is making me stupid. Which I personally find both surprising and funny. disclaimer: I did not mean to annoy people - just happened https://www.reddit.com/r/neurodiversity/comments/1slocdq/comment/og881os/
-
-5h ago
-
----
-
-**[A New AI Tool Could Transform How We Diagnose Genetic Diseases](https://www.reddit.com/r/artificial/comments/1sljo6z/a_new_ai_tool_could_transform_how_we_diagnose/)**
-
-Researchers say a new AI system can identify disease-causing mutations and explain their biological effects, potentially changing how genetic disorders are diagnosed.
-
-🔗 [TIME](https://time.com/article/2026/04/14/ai-disease-genetic-mayo-clinic-goodfire/?utm_source=reddit&utm_medium=social&utm_campaign=editorial) • 9h ago
+3h ago
 
 ---
 
@@ -97,7 +65,39 @@ Researchers say a new AI system can identify disease-causing mutations and expla
 
 All the AI engines on dating https://claude-cheeky-guide.lovable.app
 
-1h ago
+2h ago
+
+---
+
+**[thought experiment about how people see AI - AKA - triggering a ton of people on a sub](https://www.reddit.com/r/artificial/comments/1slppzq/thought_experiment_about_how_people_see_ai_aka/)**
+
+I posted on the neurodiversity about how I feel that AI is an ADHD accomodation, and OH BOY did people NOT like that! RUMBLE! Essentially I blieve that AI is becoming a legitimate acocmodation with people with ADHD - it allows me personally to accomplish things I have not in the past. The subreddit basically exploded on me saying that using AI is making me stupid. Which I personally find both surprising and funny. disclaimer: I did not mean to annoy people - just happened https://www.reddit.com/r/neurodiversity/comments/1slocdq/comment/og881os/
+
+7h ago
+
+---
+
+**[Claude Code Degradation: An interesting and novel find](https://www.reddit.com/r/artificial/comments/1slhln5/claude_code_degradation_an_interesting_and_novel/)**
+
+As many of you have likely seen, the Claude Code community newswire has been ablaze with Claude Code being quite degraded lately, starting in February, and continuing to this day. Curious to understand if there was any "signal" on the wire when using Claude Code, I fired up my old friend WireShark and a --tls-keylog environment flag. Call it a man-in-the-middle attack on my own traffic. The captured TLS network traffic reveals the system prompts, system variables, and various other bits of telemetry The interesting part? A signature routing block that binds the session to a cloud instance with an effort level parameter, named Numbat. Mine, specifically, was numbat-v7-efforts-15-20-40-ab-prod8 So, it would appear that the backend running my instance is tied to an efforts-15-20-40 level. Is this conclusive? Not definitively, since only Antrhopic could tell us what that parameter actually means in production. Side note, a Numbat is an endangered critter that eats Ants in Austrialia :) If the "Numbat" eats the "Ants" (Anthropic), and Numbat is the engine that controls "Effort," the name itself could imply a "cost-eater" or an optimizer designed to reduce the model's footprint, likely in favor of project Glasswing efforts with Mythos Follow for more insights on Claude Code Numabt-v7-Efforts-15-20-40
+
+12h ago
+
+---
+
+**[Lumen's CEO warns that AI bots now rule the internet](https://www.reddit.com/r/artificial/comments/1slq61s/lumens_ceo_warns_that_ai_bots_now_rule_the/)**
+
+Johnson warned that companies must urgently rethink their strategies as autonomous workers flood the web at unpredictable speeds and volumes.
+
+🔗 [Happy Mag](https://happymag.tv/lumens-ceo-warns-ai-bots-rule-internet/) • 6h ago
+
+---
+
+**[A New AI Tool Could Transform How We Diagnose Genetic Diseases](https://www.reddit.com/r/artificial/comments/1sljo6z/a_new_ai_tool_could_transform_how_we_diagnose/)**
+
+Researchers say a new AI system can identify disease-causing mutations and explain their biological effects, potentially changing how genetic disorders are diagnosed.
+
+🔗 [TIME](https://time.com/article/2026/04/14/ai-disease-genetic-mayo-clinic-goodfire/?utm_source=reddit&utm_medium=social&utm_campaign=editorial) • 11h ago
 
 ---
 
@@ -105,7 +105,7 @@ All the AI engines on dating https://claude-cheeky-guide.lovable.app
 
 Hi everyone! We’re conducting a short academic survey about how people use AI in everyday life and how they view the boundary between humans and AI. We’re interested in topics such as trust, control, uncertainty, dependence, emotional connection, and data use in AI interactions. If you use AI tools for things like study, work, decision-making, or daily support, we’d really appreciate your input. All responses are anonymous and will be used for academic research only. Thanks so much for your time! Survey link: https://docs.google.com/forms/d/e/1FAIpQLSfqnjs5EzI58Cj1plSFzFE1JBCeGHzE1mjsewtVZpR4l7Nhzw/viewform?usp=dialog
 
-1h ago
+2h ago
 
 ---
 
@@ -125,69 +125,15 @@ Question for everyone: Why do you think LLMs like Claude don't use timestamp dat
 
 Skills in Chrome let you discover, save and remix AI workflows — and repeat them instantly.
 
-blog.google • 12h ago
+blog.google • 13h ago
 
 ---
 
-**[How to Use Google Chrome’s New AI-Powered ‘Skills’](https://www.wired.com/story/how-to-use-google-chrome-ai-powered-skills/)**
+**[From Molotov cocktails to data center shutdowns, the AI backlash is turning revolutionary](https://fortune.com/2026/04/14/ai-backlash-revolutionary-sam-altman-molotov-cocktails-data-centers/)**
 
-The premade Skills available through the Gemini sidebar in Chrome include ways to maximize protein in recipes or summarize YouTube videos.
+Gen Z is furious about AI, and so is the American countryside.
 
-WIRED • 12h ago
-
----
-
-**[Google adds AI Skills to Chrome to help you save favorite workflows](https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/)**
-
-Google is adding “Skills” to Chrome, letting users save and reuse AI prompts across websites. The feature builds on Gemini’s browser integration.
-
-TechCrunch • 12h ago
-
----
-
-**[Bosses say AI boosts productivity – workers say they’re drowning in ‘workslop’](https://www.theguardian.com/technology/2026/apr/14/ai-productivity-workplace-errors)**
-
-Workslop refers to AI-generated work that seems polished but is flawed and in need of heavy corrections
-
-The Guardian • 8h ago
-
----
-
-**[Chip giant ASML raises 2026 guidance as AI semiconductor demand stays strong](https://www.cnbc.com/2026/04/15/asml-q1-2026-earnings-report.html)**
-
-ASML beat first-quarter revenue and profit expectations and raised its sales guidance for 2026.
-
-CNBC • 13m ago
-
----
-
-**[NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers](http://nvidianews.nvidia.com/news/nvidia-launches-ising-the-worlds-first-open-ai-models-to-accelerate-the-path-to-useful-quantum-computers)**
-
-NVIDIA today announced the world’s first family of open source quantum AI models, NVIDIA Ising, designed to help researchers and enterprises build quantum processors capable of running useful applications.
-
-NVIDIA Newsroom • 15h ago
-
----
-
-**[D-Wave CEO says Nvidia should be 'shaking in their boots' as quantum computing battles AI GPUs](https://finance.yahoo.com/news/d-wave-ceo-says-nvidia-should-be-shaking-in-their-boots-as-quantum-computing-battles-ai-gpus-180249321.html)**
-
-D-Wave touts massive energy efficiency gains over Nvidia as World Quantum Day sparks a sector-wide rally.
-
-Yahoo Finance • 11h ago
-
----
-
-**[Nvidia New AI Models Spark Rally in Quantum Computing Stocks](https://www.bloomberg.com/news/articles/2026-04-15/nvidia-new-ai-models-spark-rally-in-quantum-computing-stocks)**
-
-Bloomberg.com • 1h ago
-
----
-
-**[Cheap Drones Complicate the Gulf’s AI Boom](https://foreignpolicy.com/2026/04/15/cheap-drones-complicate-gulf-ai-boom/)**
-
-Protection is becoming inseparable from access.
-
-Foreign Policy • 1h ago
+Fortune • 11h ago
 
 ---
 
@@ -195,7 +141,63 @@ Foreign Policy • 1h ago
 
 Meta will work with chip designer Broadcom to produce several generations of custom artificial intelligence processors under an expanded deal ‌as the social media giant races to build out the computing ‌capacity needed to power AI features across its apps.  Tuesday's announcement extends the tie-up until 2029 and ​includes an initial commitment of over one gigawatt of computing capacity, enough to power roughly 750,000 U.S. homes on average.  As part of the deal, Broadcom CEO Hock Tan would leave Meta's board and move to an advisory role on its custom chip ‌strategy, the companies said ⁠in a joint statement.
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
+
+---
+
+**[Meta Partners With Broadcom to Co-Develop Custom AI Silicon](https://about.fb.com/news/2026/04/meta-partners-with-broadcom-to-co-develop-custom-ai-silicon/)**
+
+We’re partnering with Broadcom to co-develop multiple generations of custom silicon, ensuring we have the compute foundation to deliver on our long-term AI ambitions.
+
+meta.com • 10h ago
+
+---
+
+**[Meta extends Broadcom deal to power AI across its apps](https://finance.yahoo.com/video/meta-extends-broadcom-deal-power-055114848.html)**
+
+<body><p>STORY: :: Meta</p><p>Meta is expanding its deal with chip designer Broadcom to build several generations of custom processors to power AI features across its apps.</p><p>The deal announced Tuesday extends their partnership through 2029.</p><p>:: Meta</p><p>It includes an initial commitment of more than one gigawatt of computing capacity – enough to power roughly 750,000 U.S. homes.</p><p>The agreement also brings a boardroom change.</p><p>Broadcom CEO Hock Tan will step down from Meta’s board and take on an advisory role focused on custom chip strategy, according to a joint statement.</p><p>Meta chief Mark Zuckerberg said the deal helps build the computing backbone needed to supply “personal superintelligence to billions of people.”</p><p>:: Meta</p><p>As AI drives soaring demand for computing, tech giants such as Meta, Google and Amazon are designing their own silicon to reduce reliance on Nvidia's expensive processors.</p><p>That shift has been a major boost for Broadcom, which develops custom chips and supplies infrastructure software.</p><p>Its shares were up 3.5% in extended trading, while those of Meta were little changed.</p></body>
+
+Yahoo Finance • 1h ago
+
+---
+
+**[California leaders push energy grid upgrades as AI drives power demand](https://www.cbsnews.com/sacramento/news/california-leaders-push-energy-grid-upgrades-ai-demand/)**
+
+Frustration over rising power bills is a common complaint in California, and the state is bracing for increases in power consumption as the use of artificial intelligence grows.
+
+CBS News • 1h ago
+
+---
+
+**[Why many Americans are turning to AI for health advice, according to recent polls](https://www.ksat.com/business/2026/04/15/why-many-americans-are-turning-to-ai-for-health-advice-according-to-recent-polls/)**
+
+Many Americans are turning to artificial intelligence tools such as ChatGPT for health advice.
+
+KSAT • 10m ago
+
+---
+
+**[ASML Raises 2026 Sales Forecast as AI Demand Fuels Growth](https://www.bloomberg.com/news/articles/2026-04-15/asml-raises-2026-sales-forecast-as-ai-investment-fuels-growth)**
+
+ASML Holding NV raised its full-year sales forecast as the surge in global artificial intelligence spending fuels semiconductor production and boosts demand for the company’s advanced chipmaking machines.
+
+Bloomberg.com • 1h ago
+
+---
+
+**[ASML lifts 2026 outlook on the back of stronger AI demand](https://finance.yahoo.com/sectors/technology/articles/asml-lifts-2026-outlook-on-the-back-of-stronger-ai-demand-050944689.html)**
+
+ASML, the world’s largest supplier of chipmaking equipment, on Wednesday reported stronger-than-expected first‑quarter ‌earnings and lifted its 2026 revenue outlook, as artificial intelligence boosts ‌demand for its tools.  ASML is ​the only maker of these EUV, or extreme ultraviolet lithography ‌tools, which can cost $300 million each ​and are needed to ​create the tiny circuitry of advanced chips.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Chip giant ASML raises 2026 guidance as AI semiconductor demand stays strong](https://www.cnbc.com/2026/04/15/asml-q1-2026-earnings-report.html)**
+
+ASML beat first-quarter revenue and profit expectations and raised its sales guidance for 2026.
+
+CNBC • 1h ago
 
 ---
 
@@ -221,7 +223,7 @@ It has started
 
 Stanford’s latest AI Index shows a widening gap between experts and the public, with rising anxiety over jobs, healthcare, and the economy.
 
-⬆️ 255 • 💬 393 • 1d ago • [TechCrunch](https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/)
+⬆️ 256 • 💬 393 • 1d ago • [TechCrunch](https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/)
 
 ---
 
@@ -229,7 +231,7 @@ Stanford’s latest AI Index shows a widening gap between experts and the public
 
 A medical professional built a patient management app using AI, exposed all patient data unprotected to the internet, and sent voice recordings to AI services without consent. Likely violating Swiss nDSG and other laws.
 
-⬆️ 203 • 💬 200 • 20h ago • [Tobias Brunner aka tobru](https://www.tobru.ch/an-ai-vibe-coding-horror-story/)
+⬆️ 205 • 💬 202 • 22h ago • [Tobias Brunner aka tobru](https://www.tobru.ch/an-ai-vibe-coding-horror-story/)
 
 ---
 
@@ -247,6 +249,14 @@ Discover Mistral AI’s actionable playbook to turn Europe into a self-reliant A
 
 ---
 
+**[Turn your best AI prompts into one-click tools in Chrome](https://news.ycombinator.com/item?id=47768339)**
+
+Skills in Chrome let you discover, save and remix AI workflows — and repeat them instantly.
+
+⬆️ 151 • 💬 74 • 13h ago • [Google](https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/)
+
+---
+
 **[Tech valuations are back to pre-AI boom levels](https://news.ycombinator.com/item?id=47745120)**
 
 The chart below compares the forward P/E ratios for the S&amp;P 500 and the S&amp;P 500 Information Technology sector. Subscribe for daily updates.
@@ -259,15 +269,7 @@ The chart below compares the forward P/E ratios for the S&amp;P 500 and the S&am
 
 Build local AI agents in Python and C++ for AMD hardware.
 
-⬆️ 148 • 💬 33 • 1d ago • [amd-gaia.ai](https://amd-gaia.ai/docs)
-
----
-
-**[Turn your best AI prompts into one-click tools in Chrome](https://news.ycombinator.com/item?id=47768339)**
-
-Skills in Chrome let you discover, save and remix AI workflows — and repeat them instantly.
-
-⬆️ 143 • 💬 63 • 12h ago • [Google](https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/)
+⬆️ 149 • 💬 33 • 1d ago • [amd-gaia.ai](https://amd-gaia.ai/docs)
 
 ---
 
@@ -275,7 +277,7 @@ Skills in Chrome let you discover, save and remix AI workflows — and repeat th
 
 Claude's Status Page - Claude.ai down.
 
-⬆️ 133 • 💬 126 • 1d ago • [status.claude.com](https://status.claude.com/incidents/6jd2m42f8mld)
+⬆️ 134 • 💬 126 • 1d ago • [status.claude.com](https://status.claude.com/incidents/6jd2m42f8mld)
 
 ---
 
@@ -289,7 +291,7 @@ You're absolutely right, that IS a great reason to fire everyone! If you'd like 
 
 📺 Mo Bitar
 
-👁️ 107K • 👍 9K • 💬 961 • ⏱️ 7:52 • 12h ago
+👁️ 107K • 👍 9K • 💬 961 • ⏱️ 7:52 • 14h ago
 
 ---
 
@@ -299,7 +301,7 @@ A.I. Official Trailer (2026) Josh Stamberg, Ian Sharkey Writer/Director Lanxuan 
 
 📺 ONE Media
 
-👁️ 21K • 👍 357 • 💬 49 • ⏱️ 2:04 • 13h ago
+👁️ 21K • 👍 357 • 💬 49 • ⏱️ 2:04 • 15h ago
 
 ---
 
@@ -319,7 +321,7 @@ This episode is about AI agents, OpenAI and Anthropic competition, the future of
 
 📺 Peter H. Diamandis
 
-👁️ 91K • 👍 3K • 💬 627 • ⏱️ 2:10:48 • 14h ago
+👁️ 91K • 👍 3K • 💬 627 • ⏱️ 2:10:48 • 16h ago
 
 ---
 
@@ -329,7 +331,7 @@ Join my Discord community https://discord.gg/QC2YEk7P7n China just dropped 3 FRE
 
 📺 Becky the Ai Girl
 
-👁️ 7K • 👍 511 • 💬 35 • ⏱️ 10:36 • 11h ago
+👁️ 7K • 👍 511 • 💬 35 • ⏱️ 10:36 • 13h ago
 
 ---
 
@@ -339,7 +341,7 @@ Go to http://www.squarespace.com/swellentertainment to get a free trial and 10% 
 
 📺 Swell Entertainment
 
-👁️ 57K • 👍 4K • 💬 337 • ⏱️ 27:01 • 12h ago
+👁️ 57K • 👍 4K • 💬 337 • ⏱️ 27:01 • 14h ago
 
 ---
 
@@ -359,7 +361,7 @@ AI, Data Privacy, Meta Ray-Ban, Glasses, Humanoid, Robot, Training, Job displace
 
 📺 bluntboard_
 
-👁️ 13K • 👍 751 • 💬 30 • ⏱️ 1:06 • 16h ago
+👁️ 13K • 👍 751 • 💬 30 • ⏱️ 1:06 • 17h ago
 
 ---
 
@@ -407,7 +409,7 @@ MiniMax-M2.7 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 43,645 • ❤️ 727 • 10h ago
+⬇️ 43,645 • ❤️ 727 • 11h ago
 
 ---
 
@@ -419,7 +421,7 @@ VoxCPM2 is a 2B parameter, 30-language multilingual text-to-speech model capable
 
 `text-to-speech`
 
-⬇️ 10,899 • ❤️ 890 • 6d ago
+⬇️ 10,899 • ❤️ 890 • 7d ago
 
 ---
 
@@ -443,7 +445,7 @@ HY-Embodied-0.5 is a multilingual vision-language model designed for embodied ag
 
 `image-text-to-text` `3.8B`
 
-⬇️ 723 • ❤️ 527 • 18h ago
+⬇️ 723 • ❤️ 527 • 19h ago
 
 ---
 
@@ -647,7 +649,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 46.0k • 🔱 6.0k • 1h ago
+⭐ 46.0k • 🔱 6.0k • 3h ago
 
 ---
 
@@ -657,7 +659,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 33.4k • 🔱 6.6k • 11h ago
+⭐ 33.4k • 🔱 6.6k • 13h ago
 
 ---
 
@@ -677,7 +679,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 26.6k • 🔱 2.9k • 5h ago
+⭐ 26.6k • 🔱 2.9k • 7h ago
 
 ---
 
@@ -687,7 +689,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 7.8k • 🔱 495 • 36m ago
+⭐ 7.8k • 🔱 495 • 2h ago
 
 ---
 
@@ -717,7 +719,7 @@ The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interac
 
 `Swift` `apple-intelligence` `apple-silicon` `cli` `foundationmodels` `homebrew`
 
-⭐ 4.6k • 🔱 171 • 5h ago
+⭐ 4.6k • 🔱 171 • 7h ago
 
 ---
 
@@ -737,7 +739,7 @@ The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interac
 
 `Python`
 
-⭐ 4.4k • 🔱 729 • 22h ago
+⭐ 4.4k • 🔱 729 • 1d ago
 
 ---
 
