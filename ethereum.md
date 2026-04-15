@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-15T10:42:33.019691+00:00'
+updated: '2026-04-15T11:56:51.862756+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 15, 2026 at 10:42 UTC  
+**Last Updated:** April 15, 2026 at 11:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,317.23
+### $2,333.70
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.6%  
-**7d:** +5.6%  
-**30d:** -0.2%  
-**90d:** -29.8%  
-**1y:** +46.7%  
+**24h:** -1.8%  
+**7d:** +6.4%  
+**30d:** +0.6%  
+**90d:** -29.3%  
+**1y:** +47.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $281.02B
+**Market Cap:** $280.77B
 Rank #2
 
 **Circulating Supply:** 120,690,957 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--52.9%
+-53.0%
 
 **All-Time Low:** $0.43
-+537838.3%
++537184.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+6h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 A fake Ledger Live clone sat on Apple's App Store for seven days and drained $9.5 million from 50 victims across Bitcoin, Ethereum, Solana, Tron and XRP. Apple's review process, which promises to protect users, let it through. Then removed it after the damage was done.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/fake-ledger-app-apple-app-store-9-million-drained/) • 16h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/fake-ledger-app-apple-app-store-9-million-drained/) • 17h ago
 
 ---
 
@@ -88,7 +88,7 @@ A fake Ledger Live clone sat on Apple's App Store for seven days and drained $9.
 
 Man I was looking at some recent governance votes across a few protocols and the amount of obvious botting is just depressing at this point. it feels like every time we come up with a new sybil resistance mechanism, someone just spins up a better script to farm it and now with AI agents getting actually decent at mimicking random on-chain behavior and passing standard checks, it seems like pure software solutions are just dead in the water. I really hate the idea of forced traditional KYC for web3 stuff because it completely defeats the point of privacy and just builds another centralized honeypot. was reading this technical deep dive the other day about setting up a private Proof Of Human using ZK tech so you don't actually tie your daily wallet to your real identity. tbh it made me realize we might actually need some kind of hardware or biometric anchor if we want to keep things decentralized without getting completely overrun by server farms it just sucks that the ecosystem is moving in a direction where simply "proving you are a person" is becoming the hardest part of interacting with ethereum. Idk, curious how you guys think L2s are gonna handle this long term because the current meta of hoping for the best isn't working
 
-15h ago
+17h ago
 
 ---
 
@@ -102,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Building a prediction market sector index — is this a gap or am I missing something obvious?](https://www.reddit.com/r/ethereum/comments/1slnr4y/building_a_prediction_market_sector_index_is_this/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -148,11 +148,57 @@ There’s a lot of focus lately on calldata in the context of rollups and EIP-20
 
 ## Google News: "ethereum"
 
-**[Ripple CEO Brad Garlinghouse Bets Big on XRP Flipping Ethereum](https://coinpaper.com/16228/ripple-ceo-brad-garlinghouse-bets-big-on-xrp-flipping-ethereum)**
+**[Bitcoin and ethereum prices today, Tuesday, April 14, 2026: Prices rebound despite U.S. blockade in the Middle East](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-april-14-2026-prices-rebound-despite-us-blockade-in-the-middle-east-112122301.html)**
 
-Ripple CEO Brad Garlinghouse says XRP could challenge Ethereum for the #2 crypto spot, driven by real-world cross-border payment utility.
+​​Bitcoin (BTC-USD) opened at $74,442.23 and ethereum (ETH-USD) opened at $2,369.90. Bitcoin was up 5.2% and ethereum was up 8.1% from Monday's open.
 
-Coinpaper • 22h ago
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin, Ethereum and XRP Prices Fall. Even an IPO Isn’t Lifting Cryptos.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-prices-cryptos-1da22190)**
+
+Barron's • 2h ago
+
+---
+
+**[Bitcoin and ethereum price today, Wednesday, April 15, 2026: Prices hold amid geopolitical tensions and ETF demand](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-wednesday-april-15-2026-prices-hold-amid-geopolitical-tensions-and-etf-demand-112532730.html)**
+
+Bitcoin opened at $74,175.23 and ethereum  opened at $2,323.19. Both were down slightly from the day before.
+
+Yahoo Finance • 31m ago
+
+---
+
+**[Ethereum Shorts Pile Up On Binance As Squeeze Risk Grows](https://www.tradingview.com/news/newsbtc:fe515b4c6094b:0-ethereum-shorts-pile-up-on-binance-as-squeeze-risk-grows/)**
+
+Ethereum’s derivatives market on Binance is flashing a setup that could leave short sellers exposed if the recent move higher continues. According to analysis shared on X by CryptoQuant contributor Darkfost, positioning has become increasingly one-sided even as ETH has rebounded sharply from its Fe…
+
+TradingView — Track All Markets • 1h ago
+
+---
+
+**[BitMine Reports $3.82 Billion Quarterly Loss as Ethereum Bet Weighs Heavy](https://finance.yahoo.com/markets/crypto/articles/bitmine-reports-3-82-billion-090629115.html)**
+
+BitMine posted a $3.82 billion Q2 loss as unrealized Ethereum losses offset surging staking revenue from its 4.9 million ETH treasury.
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Ethereum Foundation unveils $1M audit subsidy program to boost crypto security and cut costs for builders](https://www.coindesk.com/tech/2026/04/14/ethereum-foundation-unveils-usd1m-audit-subsidy-program-to-boost-crypto-security-and-cut-costs-for-builders)**
+
+The organization unveiled a new initiative aimed at tackling a persistent challenge in crypto development—the high cost of smart contract security audits.
+
+CoinDesk • 17h ago
+
+---
+
+**[Ondo seeks SEC clearance for tokenized equities model on Ethereum](https://www.theblock.co/post/397258/ondo-seeks-sec-clearance-tokenized-equities-model-ethereum)**
+
+The SEC is signaling openness to tokenization, encouraging firms to engage directly as it fine-tunes regulations.
+
+The Block • 1d ago
 
 ---
 
@@ -160,13 +206,7 @@ Coinpaper • 22h ago
 
 The largest corporate ether holder posted a $3.8 billion quarterly loss as its pivot from mining to ETH accumulation continues.
 
-CoinDesk • 35m ago
-
----
-
-**[Tom Lee Says Ethereum in ‘Final Stages’ of Crypto Winter as Bitmine Reports $3.8B Loss](https://www.ccn.com/news/crypto/tom-lee-ethereum-end-crypto-winter-bitmine-reports-billion-loss/)**
-
-CCN.com • 1h ago
+CoinDesk • 1h ago
 
 ---
 
@@ -178,47 +218,9 @@ PR Newswire • 1d ago
 
 ---
 
-**[3 Bullish Signals Suggest Ethereum May Be Undervalued in April](https://finance.yahoo.com/markets/crypto/articles/3-bullish-signals-suggest-ethereum-062623125.html)**
+**[Tom Lee Says Ethereum in ‘Final Stages’ of Crypto Winter as Bitmine Reports $3.8B Loss](https://www.ccn.com/news/crypto/tom-lee-ethereum-end-crypto-winter-bitmine-reports-billion-loss/)**
 
-Ethereum shows 3 bullish signals in April 2026 as record transactions, Rainbow Chart levels, and MACD cross point to potential upside.
-
-Yahoo Finance • 4h ago
-
----
-
-**[USDT, USDC Activity Drops To Lowest Level Of 2026 On Ethereum](https://www.tradingview.com/news/newsbtc:7cae969f6094b:0-usdt-usdc-activity-drops-to-lowest-level-of-2026-on-ethereum/)**
-
-On-chain data shows the Ethereum versions of USDT and USDC, the two largest stablecoins, have seen their active addresses fall to the lowest level of 2026.USDC & USDT Active Addresses Have Fallen On The Ethereum NetworkIn a new post on X, on-chain analytics firm Santiment has talked about the lates…
-
-TradingView — Track All Markets • 3h ago
-
----
-
-**[Bitcoin, Ethereum and XRP Prices Falling as Kraken co-CEO Confirms IPO push.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-prices-cryptos-1da22190)**
-
-Barron's • 1h ago
-
----
-
-**[Ethereum Foundation launches $1 million crypto security subsidy, providing access to over 20 audit firms](https://www.theblock.co/post/397427/ethereum-foundation-launches-1-million-crypto-security-subsidy-providing-access-to-over-20-audit-firms)**
-
-The EF tapped Areta's audit marketplace to provide access to over 20 security firms like Blocksec, Cetora, Hacken, Immunefi and Quantstamp.
-
-The Block • 18h ago
-
----
-
-**[Ethereum Price Prediction: ETH Records 4 Consecutive Days of ETF Inflows Despite Rejection – Anal...](https://www.binance.com/en/square/post/312745577319794)**
-
-Binance • 1h ago
-
----
-
-**[Surging Bitcoin, Ethereum ETF Investments Drive Crypto Funds to Best Week Since January](https://decrypt.co/364130/surging-bitcoin-ethereum-etf-investments-crypto-funds-best-week-since-january)**
-
-Institutional crypto investors posted their strongest weekly inflows since January, with Bitcoin and Ethereum demand rising as XRP investments cool.
-
-Decrypt • 1d ago
+CCN.com • 2h ago
 
 ---
 
@@ -226,23 +228,33 @@ Decrypt • 1d ago
 
 ## YouTube Videos: "ethereum"
 
+**[This Has Just Reshaped The Crypto Industry Bitcoin &amp; Ethereum Golden Triangle Parabolic Predictions](https://www.youtube.com/watch?v=YGR0GHb0GlI)**
+
+Companies over the course of 2026 have been all but frothing at the mouth trying to accumulate as much Bitcoin and Ethereum as ...
+
+📺 The Modern Investor
+
+👁️ 1K • 👍 312 • 💬 187 • ⏱️ 29:08 • 1h ago
+
+---
+
+**[WHY Crypto’s Bottom Is Likely In (explained in less than 4 minutes)](https://www.youtube.com/watch?v=jSAHAA7m_V8)**
+
+Tom Lee explains why the crypto bottom is likely in (in less than 4 minutes). ⭐ Follow Altcoin Daily on X: ...
+
+📺 Altcoin Daily
+
+👁️ 23K • 👍 2K • 💬 97 • ⏱️ 9:28 • 14h ago
+
+---
+
 **[🚨 BTC &amp; ETH: OH MY..........](https://www.youtube.com/watch?v=1IfF4Y2CSPU)**
 
 Here is the latest on bitcoin, ethereum and crypto in general! Be aware of whats going on! ---------- EXCHANGE BONUSES ...
 
 📺 Thomas Kralow
 
-👁️ 17K • 👍 2K • 💬 9 • ⏱️ 10:18 • 1d ago
-
----
-
-**[BITCOIN SHORT SQUEEZE PREDICTED: Get Ready For THIS!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=dpn_vvJGfFw)**
-
-BITCOIN SHORT SQUEEZE PREDICTED: Get Ready For THIS!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
-
-📺 Crypto World
-
-👁️ 4K • 👍 249 • 💬 209 • ⏱️ 22:06 • 7h ago
+👁️ 17K • 👍 2K • 💬 9 • ⏱️ 10:18 • 2d ago
 
 ---
 
@@ -252,7 +264,27 @@ Tony Edwards of Thinking Crypto interview. We talk: Incoming Bitcoin Bottom, QE,
 
 📺 Altcoin Daily
 
-👁️ 5K • 👍 140 • 💬 65 • ⏱️ 0:59 • 16h ago
+👁️ 5K • 👍 147 • 💬 65 • ⏱️ 0:59 • 18h ago
+
+---
+
+**[BITCOIN SHORT SQUEEZE PREDICTED: Get Ready For THIS!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=dpn_vvJGfFw)**
+
+BITCOIN SHORT SQUEEZE PREDICTED: Get Ready For THIS!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
+
+📺 Crypto World
+
+👁️ 5K • 👍 284 • 💬 216 • ⏱️ 22:06 • 9h ago
+
+---
+
+**[CRYPTO LIVE TRADING || 15 APRIL  | ‪@ClockTraderlive‬ #bitcoin #ethereum #crypto #btclivetrading](https://www.youtube.com/watch?v=FTp_saBeHVE)**
+
+join my social platforms for updates and analysis ✓Instagram: ...
+
+📺 Aryan trader Live
+
+👁️ 3K • 👍 2K • 1h ago
 
 ---
 
@@ -266,33 +298,13 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=dURwIrchrGA)**
+**[ETHEREUM RALLY UPDATE!🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=QhsjIx2DFBA)**
 
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 Crypto Gyan
+📺 Cilinix Crypto
 
-👁️ 664 • 👍 74 • ⏱️ 6:34 • 7h ago
-
----
-
-**[Bitcoin &amp; Ethereum Whales Are Buying Like It’s a Bull Market… The Signal Is Clear](https://www.youtube.com/watch?v=lX6XC7LPRYs)**
-
-Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to stay smart on crypto: ...
-
-📺 Milk Road
-
-👁️ 6K • 👍 206 • 💬 92 • ⏱️ 38:50 • 1d ago
-
----
-
-**[🔴 Ethereum Is Finally Breaking Out – Next Target $3,000?](https://www.youtube.com/watch?v=EzqGrq9CQOo)**
-
-BloFin - No KYC/No VPN needed [Trade ETH Coin Futures!] https://marzell.org/Blofin_Trade CoinGPT ...
-
-📺 Marzell Crypto
-
-👁️ 762 • 👍 29 • 💬 89 • ⏱️ 5:01 • 1d ago
+👁️ 62 • 👍 8 • 💬 1 • ⏱️ 4:24 • 3h ago
 
 ---
 
@@ -302,27 +314,17 @@ Ethereum is down more than 50% from its all-time high, but the bigger concern ri
 
 📺 More Crypto Online
 
-👁️ 5K • 👍 236 • 💬 31 • ⏱️ 15:54 • 1d ago
+👁️ 5K • 👍 240 • 💬 31 • ⏱️ 15:54 • 1d ago
 
 ---
 
-**[ETHEREUM ALERT !!!!](https://www.youtube.com/watch?v=TGcjfizAtl0)**
+**[Bitcoin &amp; Ethereum Whales Are Buying Like It’s a Bull Market… The Signal Is Clear](https://www.youtube.com/watch?v=lX6XC7LPRYs)**
 
-BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome 20% ...
+Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to stay smart on crypto: ...
 
-📺 The Moon Show
+📺 Milk Road
 
-👁️ 13K • 👍 1K • 💬 73 • ⏱️ 8:32 • 2d ago
-
----
-
-**[Bitcoin &amp; Ethereum. Warum wir die hochs nochmal anpeilen und dann aufpassen sollten!!](https://www.youtube.com/watch?v=c59c-3HLZwQ)**
-
-Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zurück bis max 400 USDT) ...
-
-📺 Krypto Trading & Investing
-
-👁️ 3K • 👍 553 • 💬 60 • ⏱️ 13:25 • 6h ago
+👁️ 6K • 👍 208 • 💬 92 • ⏱️ 38:50 • 1d ago
 
 ---
 

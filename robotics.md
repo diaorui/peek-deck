@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-15T10:42:33.022866+00:00'
+updated: '2026-04-15T11:56:51.865539+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 15, 2026 at 10:42 UTC  
+**Last Updated:** April 15, 2026 at 11:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Blog post: Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning: https://deepmind.google/blog/gemini-robotics-er-1-6/ From Google DeepMind on 𝕏: https://x.com/GoogleDeepMind/status/2044069878781390929
 
-8h ago
+9h ago
 
 ---
 
@@ -44,13 +44,7 @@ Blog post: Gemini Robotics-ER 1.6: Powering real-world robotics tasks through en
 
 From Reflex Robotics on 𝕏: https://x.com/ReflexRobot/status/2044154114108543297
 
-56m ago
-
----
-
-**[Automated Guided Vehicles At Long Beach Container Terminal](https://www.reddit.com/r/robotics/comments/1slnxdj/automated_guided_vehicles_at_long_beach_container/)**
-
-12h ago
+2h ago
 
 ---
 
@@ -58,7 +52,7 @@ From Reflex Robotics on 𝕏: https://x.com/ReflexRobot/status/20441541141085432
 
 OpenArm is an open-source humanoid arm platform developed by Enactic in Tokyo. It includes full CAD files, control code, firmware, and simulation tools, allowing users to build, modify, and test the system themselves. The arms are compliant and backdrivable, with teleoperation support that includes force feedback and gravity compensation. It also integrates with MuJoCo and Isaac Sim, enabling simulation-first development before running on real hardware. Project page: https://github.com/enactic/OpenArm
 
-17h ago
+18h ago
 
 ---
 
@@ -66,7 +60,13 @@ OpenArm is an open-source humanoid arm platform developed by Enactic in Tokyo. I
 
 Curious how it does over longer distances. Didn’t expect it to look this stable, but I’m guessing things might get tricky over a full half marathon distance.
 
-7h ago
+8h ago
+
+---
+
+**[Robot dog with Elon Musk's face wandering the streets.](https://www.reddit.com/r/robotics/comments/1sm2aej/robot_dog_with_elon_musks_face_wandering_the/)**
+
+1h ago
 
 ---
 
@@ -78,17 +78,19 @@ Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/2043873782620926032
 
 ---
 
+**[Ukraine says it replaced human soldiers with 'ground robots' in over 21,000 missions for Q1](https://www.reddit.com/r/robotics/comments/1sm3vb7/ukraine_says_it_replaced_human_soldiers_with/)**
+
+Ukraine's defense ministry said that its forces tripled UGV missions since November to over 9,000 tasks in March alone.
+
+🔗 [Business Insider](https://www.businessinsider.com/ukraine-ground-robots-troops-uncrewed-ground-vehicles-first-quarter-2026-4) • 2m ago
+
+---
+
 **[issue with 2 or 3 dof ik solver of moveit2](https://www.reddit.com/r/robotics/comments/1sm2d8i/issue_with_2_or_3_dof_ik_solver_of_moveit2/)**
 
 i was trying to move my 2/3 dof manipulator by using moveit default ik kdl but for every coordinate its showing cant find solution, ik solver timeout,invalid pose state.. i heard kdl has issue with dof less than 6 as it is designed for 6dof,is it true?? if yes ,then whats the solution for lower dof?? although i can bypass ik solver by manually solving it but i want to use moveit's ik solver as fot 4,5 dof it will be hard. thank you
 
-just now
-
----
-
-**[Robot dog with Elon Musk's face wandering the streets.](https://www.reddit.com/r/robotics/comments/1sm2aej/robot_dog_with_elon_musks_face_wandering_the/)**
-
-4m ago
+1h ago
 
 ---
 
@@ -96,7 +98,7 @@ just now
 
 I have seen the question "What is Physical AI" pop up on my reddit feed quite a few times. Thought it would be useful to share this video and surface a very nice explanation.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=GOsnf5lOIrI) • 1h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=GOsnf5lOIrI) • 2h ago
 
 ---
 
@@ -104,7 +106,7 @@ I have seen the question "What is Physical AI" pop up on my reddit feed quite a 
 
 https://youtube.com/@joshbongard3314?si=SUzZJityisRA-UE8 It is honestly wild to me how few views Josh Bongard’s YouTube lectures have. He has been doing fascinating work at the intersection of artificial intelligence, evolutionary systems, robotics, and intelligence itself, his talks are full of substance and he is a close collaborator of Michael Levin. No hype, just real ideas from someone who has spent years thinking deeply about how minds and machines emerge, adapt, and learn.
 
-9h ago
+11h ago
 
 ---
 
@@ -116,7 +118,7 @@ https://youtube.com/@joshbongard3314?si=SUzZJityisRA-UE8 It is honestly wild to 
 
 Gemini Robotics ER 1.6 upgrades spatial reasoning and multi-view understanding, unlocking new capabilities like instrument reading for autonomous robots.
 
-Google DeepMind • 19h ago
+Google DeepMind • 20h ago
 
 ---
 
@@ -124,21 +126,23 @@ Google DeepMind • 19h ago
 
 The addition of Gemini Robotics brings embodied AI reasoning to inspection robots
 
-IEEE Spectrum • 14h ago
+IEEE Spectrum • 16h ago
 
 ---
 
-**[Tools for Your To Do List with Spot and Gemini Robotics](https://bostondynamics.com/blog/tools-for-your-to-do-list-with-spot-and-gemini-robotics/)**
+**[Gemini Robotics ER-1.6 enhances reasoning to help robots navigate real-world tasks.](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-1-6/)**
 
-A recent demo shows Boston Dynamics Spot in a residential home, using Google’s visual-language model (VLM) Gemini Robotics-ER 1.5 for embodied reasoning.
+An overview of Gemini Robotics-ER 1.6, an upgrade to our reasoning-first model that helps robots to understand their environment.
 
-Boston Dynamics • 19h ago
+blog.google • 20h ago
 
 ---
 
-**[Tesla’s Chinese Robot Rival Ramps up Global Push Ahead of IPO](https://www.bloomberg.com/news/articles/2026-04-15/tesla-s-chinese-robot-rival-ramps-up-global-push-ahead-of-ipo)**
+**[Can classroom robots become tutors? Classover and Luka will test it](https://www.stocktitan.net/news/KIDZ/classover-and-luka-announce-strategic-collaboration-to-advance-ai-c6h5kg38hkmc.html)**
 
-Bloomberg.com • 1h ago
+Pilot programs in robotics labs and physical learning spaces will test AI companions beyond screens, shaping scalable education use cases in North America.
+
+Stock Titan • 20m ago
 
 ---
 
@@ -150,9 +154,25 @@ NBC News • 1d ago
 
 ---
 
-**[Hyundai Motor Chairman Doubles Down On AI And Robotics](https://www.forbes.com/sites/catzxwang/2026/04/13/hyundai-motor-chairman-doubles-down-on-ai-and-robotics/)**
+**[Agibot's G2 humanoid robots with embodied AI work in Chinese factory](https://interestingengineering.com/ai-robotics/agibot-humanoid-robot-china-factory)**
 
-Forbes • 1d ago
+Agibot deploys humanoid G2 robots in live factory, handling precise tasks and advancing real-world industrial AI adoption.
+
+Interesting Engineering • 50m ago
+
+---
+
+**[Tesla’s Chinese Robot Rival Ramps up Global Push Ahead of IPO](https://www.bloomberg.com/news/articles/2026-04-15/tesla-s-chinese-robot-rival-ramps-up-global-push-ahead-of-ipo)**
+
+Bloomberg.com • 2h ago
+
+---
+
+**[Glitching robots are funny but AI experts say they signal 'Terminator'-level danger: 'Early warning signs'](https://nypost.com/2026/04/15/tech/glitching-robots-are-funny-but-ai-experts-say-they-signal-terminator-level-danger-early-warning-signs/)**
+
+In the dystopian future, these machines rage against you.
+
+New York Post • 56m ago
 
 ---
 
@@ -166,23 +186,7 @@ politico.eu • 1d ago
 
 **[Korean AI chip startup DEEPX, Hyundai work on robots powered by generative AI](https://www.reuters.com/business/autos-transportation/korean-ai-chip-startup-deepx-hyundai-work-robots-powered-by-generative-ai-2026-04-15/)**
 
-Reuters • 7h ago
-
----
-
-**[Chicago bus shelter ad apologizes after video shows food delivery robots with Serve Robotics crash into Grand and Racine bus stop](https://abc7chicago.com/post/chicago-bus-shelter-ad-apologizes-video-shows-food-delivery-robots-serve-robotics-crash-grand-racine-stop/18885510/)**
-
-The owner of a robot delivery service is trying to turn a shattering experience into a good laugh.
-
-ABC7 Chicago • 17h ago
-
----
-
-**[Company offers lighthearted apology after delivery robot crashes into bus shelter](https://www.nbcchicago.com/news/local/robotics-company-offers-lighthearted-apology-after-delivery-robot-crashes-into-bus-shelter/3922837/)**
-
-A robotics company has issued a cheeky apology after one of their robots crashed into a Chicago Transit Authority bus stop last month.
-
-NBC 5 Chicago • 9h ago
+Reuters • 8h ago
 
 ---
 
@@ -196,7 +200,7 @@ Boston Dynamics just did what most people thought would take years longer. Atlas
 
 📺 AI Revolution
 
-👁️ 51K • 👍 1K • 💬 108 • ⏱️ 21:49 • 1d ago
+👁️ 54K • 👍 2K • 💬 110 • ⏱️ 21:49 • 1d ago
 
 ---
 
@@ -206,17 +210,7 @@ Chinese humanoid robots train to go head-to-head with human runners in the secon
 
 📺 NBC News
 
-👁️ 84K • 👍 637 • 💬 248 • ⏱️ 1:59 • 1d ago
-
----
-
-**[Elon Musk’s New Tesla Optimus Robot Looks Shockingly Human](https://www.youtube.com/watch?v=MbqMwLHx8-4)**
-
-A new wave of attention is building around Elon Musk's latest version of the Tesla Optimus robot, which is being described as ...
-
-📺 Carros Show
-
-👁️ 11K • 👍 245 • 💬 30 • ⏱️ 8:01 • 1d ago
+👁️ 89K • 👍 673 • 💬 263 • ⏱️ 1:59 • 1d ago
 
 ---
 
@@ -226,27 +220,27 @@ Try Seedance 2.0 with Claude on Higgsfield: https://higgsfield.ai/s/seedance-2-0
 
 📺 AI Revolution
 
-👁️ 94K • 👍 2K • 💬 179 • ⏱️ 14:57 • 3d ago
+👁️ 94K • 👍 2K • 💬 180 • ⏱️ 14:57 • 3d ago
 
 ---
 
-**[Why Every Tech Expert is Now Watching This New AI Robot](https://www.youtube.com/watch?v=bwBYN9hun84)**
+**[Elon Musk’s New Tesla Optimus Robot Looks Shockingly Human](https://www.youtube.com/watch?v=MbqMwLHx8-4)**
 
-Imagine a task so delicate it's been the "holy grail" of engineering for three decades. We're talking about handling things that fold, ...
+A new wave of attention is building around Elon Musk's latest version of the Tesla Optimus robot, which is being described as ...
 
-📺 PRO ROBOTS
+📺 Carros Show
 
-👁️ 42K • 👍 648 • 💬 44 • ⏱️ 6:30 • 6d ago
+👁️ 11K • 👍 256 • 💬 32 • ⏱️ 8:01 • 1d ago
 
 ---
 
-**[For the first time in history Ukrainian robots captured Russian position and occupiers surrendered](https://www.youtube.com/watch?v=XzqhdqTqLkE)**
+**[Tesla Just Started Mass Producing Humanoid Robots — And Nobody Is Ready](https://www.youtube.com/watch?v=2sHaQffX0w0)**
 
-Kanal13​ #likekanal13​ #subscribekanal13 #warinukraine https://www.youtube.com/user/kanal13az?sub_confirmation=1 ...
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *Tesla ...
 
-📺 Kanal13
+📺 Julia McCoy
 
-👁️ 34K • 👍 918 • 💬 55 • ⏱️ 10:09 • 22h ago
+👁️ 27K • 👍 1K • 💬 132 • ⏱️ 4:16 • 20h ago
 
 ---
 
@@ -256,17 +250,25 @@ Could AI become dangerous? Can we trust AI Agents? AGI. Use code insideai at htt
 
 📺 InsideAI
 
-👁️ 695K • 👍 25K • 💬 2K • ⏱️ 16:24 • 5d ago
+👁️ 702K • 👍 26K • 💬 2K • ⏱️ 16:24 • 5d ago
 
 ---
 
-**[Clone Humanoid Robot With 206 BONES + Superhuman Hand (AI NEWS)](https://www.youtube.com/watch?v=k3b0VoYQdbI)**
+**[Spraying robot #robot #machine #industrialrobots #automation #spray](https://www.youtube.com/watch?v=7raoJzxm75c)**
 
-Clone Robotics unveils a 206-bone android body with 164 degrees of freedom powered by artificial muscles, tendons, and a ...
+📺 zhulongfeng 6
 
-📺 AI News
+👁️ 33K • 👍 63 • ⏱️ 0:09 • 1d ago
 
-👁️ 6K • 👍 149 • 💬 15 • ⏱️ 8:04 • 6d ago
+---
+
+**[For the first time in history Ukrainian robots captured Russian position and occupiers surrendered](https://www.youtube.com/watch?v=XzqhdqTqLkE)**
+
+Kanal13​ #likekanal13​ #subscribekanal13 #warinukraine https://www.youtube.com/user/kanal13az?sub_confirmation=1 ...
+
+📺 Kanal13
+
+👁️ 36K • 👍 931 • 💬 58 • ⏱️ 10:09 • 1d ago
 
 ---
 
@@ -276,7 +278,7 @@ A humanoid robot named Edward Warchocki chased away a herd of wild boars in Wars
 
 📺 Reuters
 
-👁️ 23K • 👍 471 • 💬 55 • ⏱️ 0:26 • 18h ago
+👁️ 24K • 👍 484 • 💬 58 • ⏱️ 0:26 • 19h ago
 
 ---
 
@@ -284,7 +286,7 @@ A humanoid robot named Edward Warchocki chased away a herd of wild boars in Wars
 
 📺 BerontRobotPeng2
 
-👁️ 818K • 👍 5K • 💬 86 • ⏱️ 0:23 • 6d ago
+👁️ 828K • 👍 5K • 💬 87 • ⏱️ 0:23 • 6d ago
 
 ---
 
