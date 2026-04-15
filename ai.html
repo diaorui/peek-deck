@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-04-15T18:06:32.750327+00:00"
+          "dateModified": "2026-04-15T19:49:25.805636+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -647,6 +647,39 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1smd2fl/what_if_attention_didnt_need_matrix_multiplication/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1smd2fl/what_if_attention_didnt_need_matrix_multiplication/" target="_blank" onclick="event.stopPropagation();">What if attention didn’t need matrix multiplication?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            I built a cognitive architecture where all computation reduces to three bit operations: XOR, MAJ, POPCNT. No GEMM. No GPU. No floating-point weights. The core idea: transformer attention is a similarity computation. Float32 cosine computes it with 24,576 FLOPs. Binary Spatter Codes compute the same geometric measurement with 128 bit operations. Measured: 192x fewer ops, 32x less memory, ~480x faster. 26 modules in 1237 lines of C. One file. Any hardware: cc -O2 -o creation_os creation_os_v2.c -lm Includes a JEPA-style world model (energy = σ), n-gram language model (attention = σ), physics simulation (Noether conservation σ = 0.000000), value system with tamper detection, multi-model truth triangulation, metacognition, emotional memory, theory of mind, and 13 other cognitive modules. This is a research prototype built on Binary Spatter Codes (Kanerva, 1997). It demonstrates that cognitive primitives can be expressed in bit operations. It does not replace LLMs — the language module runs on 15 sentences. But the algebra is real, the benchmark is measured, and the architecture is open. https://github.com/spektre-labs/creation-os AGPL-3.0. Feedback welcome.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1776274654.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1sm6y5q/for_the_first_time_in_history_ukraine_captured_a/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -815,23 +848,21 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1slzt9g/made_a_tool_to_gather_logistical_intelligence/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1smfssa/honest_chatgpt_vs_claude_comparison_after_using/', '_blank')">
                     <div class="post-thumbnail">
-                        
-                        <img src="https://preview.redd.it/azlaodj0cbvg1.jpeg?width=640&crop=smart&auto=webp&s=c3cf7b14e22e9517746d17c12fab84f17230d0d7" alt="Made a tool to gather logistical intelligence from satellite data" onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1slzt9g/made_a_tool_to_gather_logistical_intelligence/" target="_blank" onclick="event.stopPropagation();">Made a tool to gather logistical intelligence from satellite data</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1smfssa/honest_chatgpt_vs_claude_comparison_after_using/" target="_blank" onclick="event.stopPropagation();">Honest ChatGPT vs Claude comparison after using both daily for a month</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            Hey guys, I've been workin on something new to track logistical activity near military bases and other hubs. The core problem is that Google maps isn't updated that frequently even with sub meter res and other map providers such as maxar are costly for osint analysts. But there's a solution. Drish detects moving vehicles on highways using Sentinel-2 satellite imagery. The trick is physics. Sentinel-2 captures its red, green, and blue bands about 1 second apart. Everything stationary looks normal. But a truck doing 80km/h shifts about 22 meters between those captures, which creates this very specific blue-green-red spectral smear across a few pixels. The tool finds those smears automatically, counts them, estimates speed and heading for each one, and builds volume trends over months. It runs locally as a FastAPl app with a full browser dashboard. All open source. Uses the trained random forest model from the Fisser et al 2022 paper in Remote Sensing of Environment, which is the peer reviewed science behind the detection method. GitHub: https://github.com/sparkyniner/DRISH-X-Satellite-powered-freight-intelligence-
+                            got tired of reading comparisons that were obvisously written by people who tested each tool for 20 minutes so i ran both at $20/month for 30 days on the same tasks biggest surprises: - chatgpt gives you roughly 6x more messages per day at the same price - claude wins 67% of blind code quality tests against codex - neither one is less sycophantic than the other (stanford tested 11 models, all of them agree with you 49% more than humans do) - the $100 tier showdown between openais new pro 5x and claudes max 5x is where the real competition is happening now full complete deep-dive with benchmark data, claude code vs codex and every pricing tier compared here
                         </div>
                         
 
@@ -840,7 +871,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1776240858.0"></span>
+                                    <span data-timestamp="1776280367.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -883,21 +914,23 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1smb4jd/construction_estimating_software_that_uses_ai_has/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1slzt9g/made_a_tool_to_gather_logistical_intelligence/', '_blank')">
                     <div class="post-thumbnail">
+                        
+                        <img src="https://preview.redd.it/azlaodj0cbvg1.jpeg?width=640&crop=smart&auto=webp&s=c3cf7b14e22e9517746d17c12fab84f17230d0d7" alt="Made a tool to gather logistical intelligence from satellite data" onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1smb4jd/construction_estimating_software_that_uses_ai_has/" target="_blank" onclick="event.stopPropagation();">Construction estimating software that uses AI.. has anyone here tested one?</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1slzt9g/made_a_tool_to_gather_logistical_intelligence/" target="_blank" onclick="event.stopPropagation();">Made a tool to gather logistical intelligence from satellite data</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            i run a small remodeling business and estimating is honestly the worst part… still stuck doing everything in spreadsheets and it takes forever been seeing a bunch of tools lately saying they can generate estimates from plans or descriptions which sounds cool but also kinda feels like marketing bs like does it actually save time or do you end up fixing everything anyway? if anyone’s used one on real jobs, how accurate was it?
+                            Hey guys, I've been workin on something new to track logistical activity near military bases and other hubs. The core problem is that Google maps isn't updated that frequently even with sub meter res and other map providers such as maxar are costly for osint analysts. But there's a solution. Drish detects moving vehicles on highways using Sentinel-2 satellite imagery. The trick is physics. Sentinel-2 captures its red, green, and blue bands about 1 second apart. Everything stationary looks normal. But a truck doing 80km/h shifts about 22 meters between those captures, which creates this very specific blue-green-red spectral smear across a few pixels. The tool finds those smears automatically, counts them, estimates speed and heading for each one, and builds volume trends over months. It runs locally as a FastAPl app with a full browser dashboard. All open source. Uses the trained random forest model from the Fisser et al 2022 paper in Remote Sensing of Environment, which is the peer reviewed science behind the detection method. GitHub: https://github.com/sparkyniner/DRISH-X-Satellite-powered-freight-intelligence-
                         </div>
                         
 
@@ -906,7 +939,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1776270590.0"></span>
+                                    <span data-timestamp="1776240858.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -916,7 +949,7 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1smax4v/wtf_its_real_allbirds_the_shoe_company_is/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1smbz2w/final_year_tech_project_ideas/', '_blank')">
                     <div class="post-thumbnail">
                         
                     </div>
@@ -924,13 +957,13 @@
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1smax4v/wtf_its_real_allbirds_the_shoe_company_is/" target="_blank" onclick="event.stopPropagation();">WTF. Its real. AllBirds (the shoe company) is pivoting to inference.</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1smbz2w/final_year_tech_project_ideas/" target="_blank" onclick="event.stopPropagation();">Final year tech project ideas?</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            I'm profoundly ambivalent re: how to feel about this; is it great -- what a scrappy, bold pivot! Or wildly dumb - its so far from their core competencies.
+                            Need some Ai based project ideas for placement interviews and final year project submission
                         </div>
                         
 
@@ -939,40 +972,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1776270148.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1smdg23/week_6_aipass_update_answering_the_top_questions/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1smdg23/week_6_aipass_update_answering_the_top_questions/" target="_blank" onclick="event.stopPropagation();">Week 6 AIPass update - answering the top questions from last post (file conflicts, remote models, scale)</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Followup to last post with answers to the top questions from the comments. Appreciate everyone who jumped in. The most common one by a mile was "what happens when two agents write to the same file at the same time?" Fair question, it's the first thing everyone asks about a shared-filesystem setup. Honest answer: almost never happens, because the framework makes it hard to happen. Four things keep it clean: Planning first. Every multi-agent task runs through a flow plan template before any file gets touched. The plan assigns files and phases so agents don't collide by default. Templates here if you're curious: github.com/AIOSAI/AIPass/tree/main/src/aipass/flow/templates Dispatch blockers. An agent can't exist in two places at once. If five senders email the same agent about the same thing, it queues them, doesn't spawn five copies. No "5 agents fixing the same bug" nightmares. Git flow. Agents don't merge their own work. They build features on main locally, submit a PR, and only the orchestrator merges. When an agent is writing a PR it sets a repo-wide git block until it's done. JSON over markdown for state files. Markdown let agents drift into their own formats over time. JSON holds structure. You can run `cat .trinity/local.json` and see exactly what an agent thinks at any time. Second common question: "doesn't a local framework with a remote model defeat the point?" Local means the orchestration is local - agents, memory, files, messaging all on your machine. The model is the brain you plug in. And you don't need API keys - AIPass runs on your existing Claude Pro/Max, Codex, or Gemini CLI subscription by invoking each CLI as an official subprocess. No token extraction, no proxying, nothing sketchy. Or point it at a local model. Or mix all of them. You're not locked to one vendor and you're not paying for API credits on top of a sub you already have. On scale: I've run 30 agents at once without a crash, and 3 agents each with 40 sub-agents at around 80% CPU with occasional spikes. Compute is the bottleneck, not the framework. I'd love to test 1000 but my machine would cry before I got there. If someone wants to try it, please tell me what broke. Shipped this week: new watchdog module (5 handlers, 100+ tests) for event automation, fixed a git PR lock file leak that was leaking into commits, plus a bunch of quality-checker fixes. About 6 weeks in. Solo dev, every PR is human+AI collab. pip install aipass https://github.com/AIOSAI/AIPass Keep the questions coming, that's what got this post written.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1776275439.0"></span>
+                                    <span data-timestamp="1776272398.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -1005,7 +1005,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-04-15T18:05:56.821601+00:00">Updated 2026-04-15T18:05:56.821601+00:00</small>
+        <small data-timestamp="2026-04-15T19:48:58.997680+00:00">Updated 2026-04-15T19:48:58.997680+00:00</small>
     </div>
 </div>
 
@@ -1191,6 +1191,129 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="news-carousel-ai">
                 
+                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/04/15/allbirds-bird-stock-shoes-ai.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/106842219-1613662078967-gettyimages-1231220283-ALLBIRDS_IPO.jpeg?v=1769615688&w=1920&h=1080');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.cnbc.com/2026/04/15/allbirds-bird-stock-shoes-ai.html" target="_blank" onclick="event.stopPropagation();">Struggling shoe retailer Allbirds makes bizarre pivot from shoes to AI, stock explodes more than 700%</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Allbirds announced a deal with American Exchange Group to sell its intellectual property and other assets for $39 million in March.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="CNBC" class="news-favicon">
+                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1776259537.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.nbcnews.com/tech/tech-news/allbirds-buzzy-shoe-startup-pivots-ai-rcna331943', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-04/260415-allbirds-mn-1030-d44ec3.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.nbcnews.com/tech/tech-news/allbirds-buzzy-shoe-startup-pivots-ai-rcna331943" target="_blank" onclick="event.stopPropagation();">Allbirds, once a buzzy shoe startup, pivots to AI</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            The company's share price shot up more than 300% on the news, offering some sense of the ongoing excitement for AI investments.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nbcnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="NBC News" class="news-favicon">
+                                    <a href="https://www.nbcnews.com" target="_blank" onclick="event.stopPropagation();">NBC News</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1776269707.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://qz.com/allbirds-newbird-ai-rebrand-gpu-infrastructure-041526', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/api/media/file/GettyImages-2269153873-300x200.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://qz.com/allbirds-newbird-ai-rebrand-gpu-infrastructure-041526" target="_blank" onclick="event.stopPropagation();">Allbirds rebrands as NewBird AI to enter AI chip market</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            The sustainable sneaker brand is selling its footwear assets and pivoting to GPU-as-a-Service after stock fell below $3
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://qz.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="qz.com" class="news-favicon">
+                                    <a href="https://qz.com" target="_blank" onclick="event.stopPropagation();">qz.com</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1776281595.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/04/15/magazine/ai-black-box-interpretability-research.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
@@ -1228,137 +1351,14 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('http://nvidianews.nvidia.com/news/nvidia-launches-ising-the-worlds-first-open-ai-models-to-accelerate-the-path-to-useful-quantum-computers', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://iprsoftwaremedia.com/219/files/202604/69dd81573d633202e6df77bc_04132026q/04132026q_651f0725-2b7f-4b33-8240-d271595b2d15-prv.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="http://nvidianews.nvidia.com/news/nvidia-launches-ising-the-worlds-first-open-ai-models-to-accelerate-the-path-to-useful-quantum-computers" target="_blank" onclick="event.stopPropagation();">NVIDIA Launches Ising, the World’s First Open AI Models to Accelerate the Path to Useful Quantum Computers</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            NVIDIA today announced the world’s first family of open source quantum AI models, NVIDIA Ising, designed to help researchers and enterprises build quantum processors capable of running useful applications.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=http://nvidianews.nvidia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="NVIDIA Newsroom" class="news-favicon">
-                                    <a href="http://nvidianews.nvidia.com" target="_blank" onclick="event.stopPropagation();">NVIDIA Newsroom</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1776175526.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.cnn.com/2026/04/15/investing/allbirds-pivot-to-ai', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1337507275.jpg?c=16x9&q=w_800,c_fill');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.cnn.com/2026/04/15/investing/allbirds-pivot-to-ai" target="_blank" onclick="event.stopPropagation();">Allbirds shares soar 600% as it pivots from footwear to AI</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Shares of Allbirds — the 2010s pioneer of trendy sneakers and eco-conscious Millennial retail marketing — took flight in an almost comical fashion Wednesday morning after the company announced an extremely 2026 pivot: abandoning its environmental agenda and getting into the AI business.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="CNN" class="news-favicon">
-                                    <a href="https://www.cnn.com" target="_blank" onclick="event.stopPropagation();">CNN</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1776267635.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.wired.com/story/ai-could-democratize-one-of-techs-most-valuable-resources/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://media.wired.com/photos/69dea084bbe4a9ff56b3014b/191:100/w_1280,c_limit/AL-Lab-AI-Could-Democratize-One-of-Techs-Most-Valuable-Resources-Business.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.wired.com/story/ai-could-democratize-one-of-techs-most-valuable-resources/" target="_blank" onclick="event.stopPropagation();">AI Could Democratize One of Tech's Most Valuable Resources</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            AI is making it easier to design chips and optimize software for different silicon. Some startups envision a revolution in chipmaking.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wired.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="WIRED" class="news-favicon">
-                                    <a href="https://www.wired.com" target="_blank" onclick="event.stopPropagation();">WIRED</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1776276000.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.forbes.com/sites/maryroeloffs/2026/04/15/trump-posts-ai-photo-with-jesus-days-after-he-was-slammed-for-blasphemy/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.axios.com/2026/04/15/axios-ai-moonshot', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.forbes.com/sites/maryroeloffs/2026/04/15/trump-posts-ai-photo-with-jesus-days-after-he-was-slammed-for-blasphemy/" target="_blank" onclick="event.stopPropagation();">Trump Just Posted An AI Image Of Himself With Jesus</a>
+                            <a href="https://www.axios.com/2026/04/15/axios-ai-moonshot" target="_blank" onclick="event.stopPropagation();">Axios C-Suite: Axios' AI moonshot</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1370,9 +1370,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.forbes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Forbes" class="news-favicon">
-                                    <a href="https://www.forbes.com" target="_blank" onclick="event.stopPropagation();">Forbes</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.axios.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Axios" class="news-favicon">
+                                    <a href="https://www.axios.com" target="_blank" onclick="event.stopPropagation();">Axios</a>
                                     
                                 </div>
                                 
@@ -1380,7 +1380,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1776259438.0"></span>
+                                    <span data-timestamp="1776280817.0"></span>
                                 </div>
                                 
                             </div>
@@ -1388,17 +1388,21 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://thehill.com/policy/international/5832224-iran-trump-social-media-war/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.hollywoodreporter.com/movies/movie-news/val-kilmer-ai-generated-as-deep-as-the-grave-trailer-1236565441/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
+                    <div class="article-thumbnail" style="background-image: url('https://www.hollywoodreporter.com/wp-content/uploads/2026/04/As-Deep-as-the-Grave-Val-Kilmer.jpg?w=1296&h=730&crop=1');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://thehill.com/policy/international/5832224-iran-trump-social-media-war/" target="_blank" onclick="event.stopPropagation();">Iran embassy in Tajikistan posts AI video of Jesus punching Trump in the face</a>
+                            <a href="https://www.hollywoodreporter.com/movies/movie-news/val-kilmer-ai-generated-as-deep-as-the-grave-trailer-1236565441/" target="_blank" onclick="event.stopPropagation();">Val Kilmer’s AI-Generated Performance in ‘As Deep as the Grave’ Debuts With Trailer</a>
                         </div>
 
                         <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            The late actor's daughter gave her blessing for writer-director Coerte Voorhees to digitally create scenes using Kilmer's likeness.
+                        </div>
                         
 
                         <!-- Metadata (source, time) -->
@@ -1407,9 +1411,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://thehill.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Hill" class="news-favicon">
-                                    <a href="https://thehill.com" target="_blank" onclick="event.stopPropagation();">The Hill</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.hollywoodreporter.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Hollywood Reporter" class="news-favicon">
+                                    <a href="https://www.hollywoodreporter.com" target="_blank" onclick="event.stopPropagation();">The Hollywood Reporter</a>
                                     
                                 </div>
                                 
@@ -1417,7 +1421,48 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1776267840.0"></span>
+                                    <span data-timestamp="1776281116.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.cincinnati.com/story/news/crime/2026/04/15/cincinnati-area-mason-high-school-student-used-ai-to-make-nudes-of-classmates-police-say/89623536007/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://www.cincinnati.com/gcdn/-mm-/dfa19799321543dd8f7a3accb235005122e90da3/c=0-101-5287-3088/local/-/media/2018/01/09/Cincinnati/Cincinnati/636511290913290851-CINMag-08-01-2013-Our-1-B011-2013-06-20-IMG-mason-bigger-better-1-1-703EMBH5-L238660992-IMG-mason-bigger-better-1-1-703EMBH5.jpg?width=3200&height=1808&fit=crop&format=pjpg&auto=webp');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.cincinnati.com/story/news/crime/2026/04/15/cincinnati-area-mason-high-school-student-used-ai-to-make-nudes-of-classmates-police-say/89623536007/" target="_blank" onclick="event.stopPropagation();">Mason student used AI with classmates' social media pics to make nudes</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            A second Cincinnati-area high school student has been arrested for using AI with underage classmates' social media photos to make nudes.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cincinnati.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Cincinnati Enquirer" class="news-favicon">
+                                    <a href="https://www.cincinnati.com" target="_blank" onclick="event.stopPropagation();">Cincinnati Enquirer</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1776281820.0"></span>
                                 </div>
                                 
                             </div>
@@ -1466,96 +1511,14 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/04/10/powell-bessent-us-bank-ceos-anthropic-mythos-ai-cyber.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108289742-1775823205494-Untitled-1.jpg?v=1775823264&w=1920&h=1080');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.cnbc.com/2026/04/10/powell-bessent-us-bank-ceos-anthropic-mythos-ai-cyber.html" target="_blank" onclick="event.stopPropagation();">Powell, Bessent discussed Anthropic's Mythos AI cyber threat with major U.S. banks</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Anthropic rolled out the new Mythos AI model to a select group of companies over concerns that hackers could exploit its capabilities.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="CNBC" class="news-favicon">
-                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1775824724.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/04/15/anthropics-mythos-isnt-threatening-bitcoin-the-real-ai-risk-is-at-crypto-exchanges-.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108285631-1774986195722-gettyimages-2268688342-raa-anthropi260331_npMR4.jpeg?v=1774986237&w=1920&h=1080');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.cnbc.com/2026/04/15/anthropics-mythos-isnt-threatening-bitcoin-the-real-ai-risk-is-at-crypto-exchanges-.html" target="_blank" onclick="event.stopPropagation();">Anthropic's Mythos isn't threatening bitcoin. The real AI risk is at crypto exchanges</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            The Bitcoin blockchain itself has never been hacked and has operated securely and without interruption since 2009. The Mythos threat probably won't change that.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="CNBC" class="news-favicon">
-                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1776270396.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.wsj.com/opinion/with-mythos-ai-pays-for-itself-b4d29d5a', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.forbes.com/sites/maryroeloffs/2026/04/15/trump-posts-ai-photo-with-jesus-days-after-he-was-slammed-for-blasphemy/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.wsj.com/opinion/with-mythos-ai-pays-for-itself-b4d29d5a" target="_blank" onclick="event.stopPropagation();">Opinion | With Mythos, AI Pays for Itself</a>
+                            <a href="https://www.forbes.com/sites/maryroeloffs/2026/04/15/trump-posts-ai-photo-with-jesus-days-after-he-was-slammed-for-blasphemy/" target="_blank" onclick="event.stopPropagation();">Trump Just Posted An AI Image Of Himself With Jesus</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1567,9 +1530,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wsj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="WSJ" class="news-favicon">
-                                    <a href="https://www.wsj.com" target="_blank" onclick="event.stopPropagation();">WSJ</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.forbes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Forbes" class="news-favicon">
+                                    <a href="https://www.forbes.com" target="_blank" onclick="event.stopPropagation();">Forbes</a>
                                     
                                 </div>
                                 
@@ -1577,7 +1540,48 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1776198960.0"></span>
+                                    <span data-timestamp="1776259438.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.theguardian.com/us-news/2026/apr/15/donald-trump-ai-images-jesus', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://i.guim.co.uk/img/media/991ad6dad8c3acf1eff39cc24a4187a83b977414/648_0_6847_5477/master/6847.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b2244ef70b8981ec2337a2581842df32');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.theguardian.com/us-news/2026/apr/15/donald-trump-ai-images-jesus" target="_blank" onclick="event.stopPropagation();">The AI images Trump can’t get enough of</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Who wouldn’t want to be a king, a footballer, a friend of lions, a maestro and Jesus?
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Guardian" class="news-favicon">
+                                    <a href="https://www.theguardian.com" target="_blank" onclick="event.stopPropagation();">The Guardian</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1776277860.0"></span>
                                 </div>
                                 
                             </div>
@@ -1605,7 +1609,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-04-15T18:06:22.882193+00:00">Updated 2026-04-15T18:06:22.882193+00:00</small>
+        <small data-timestamp="2026-04-15T19:49:20.958994+00:00">Updated 2026-04-15T19:49:20.958994+00:00</small>
     </div>
 </div>
 
@@ -1881,7 +1885,7 @@
                                     <span class="post-points">▲ 259</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 399</span>
+                                    <span style="color: #9ca3af;">💬 400</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1923,10 +1927,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 223</span>
+                                    <span class="post-points">▲ 247</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 151</span>
+                                    <span style="color: #9ca3af;">💬 160</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1975,10 +1979,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 219</span>
+                                    <span class="post-points">▲ 232</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 201</span>
+                                    <span style="color: #9ca3af;">💬 209</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2125,7 +2129,7 @@
                                     <span class="post-points">▲ 187</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 104</span>
+                                    <span style="color: #9ca3af;">💬 105</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2170,7 +2174,7 @@
                                     <span class="post-points">▲ 185</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 277</span>
+                                    <span style="color: #9ca3af;">💬 278</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2316,7 +2320,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-04-15T18:05:56.771983+00:00">Updated 2026-04-15T18:05:56.771983+00:00</small>
+        <small data-timestamp="2026-04-15T19:48:58.971569+00:00">Updated 2026-04-15T19:48:58.971569+00:00</small>
     </div>
 </div>
 

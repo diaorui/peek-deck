@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-15T18:06:33.318193+00:00'
+updated: '2026-04-15T19:49:26.320816+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 15, 2026 at 18:06 UTC  
+**Last Updated:** April 15, 2026 at 19:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Reflex Robotics on 𝕏: https://x.com/ReflexRobot/status/2044154114108543297
 
-8h ago
+10h ago
 
 ---
 
@@ -44,13 +44,13 @@ From Reflex Robotics on 𝕏: https://x.com/ReflexRobot/status/20441541141085432
 
 Teleoperation through a ps5 controller, powered by ROS2 and an stm32. Honestly not too happy with it but this is my first robot ever, wanted to challenge myself. Too much vibration and shaky teleop.
 
-1h ago
+2h ago
 
 ---
 
 **[Robot dog with Elon Musk's face wandering the streets.](https://www.reddit.com/r/robotics/comments/1sm2aej/robot_dog_with_elon_musks_face_wandering_the/)**
 
-7h ago
+9h ago
 
 ---
 
@@ -58,7 +58,7 @@ Teleoperation through a ps5 controller, powered by ROS2 and an stm32. Honestly n
 
 Blog post: Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning: https://deepmind.google/blog/gemini-robotics-er-1-6/ From Google DeepMind on 𝕏: https://x.com/GoogleDeepMind/status/2044069878781390929
 
-15h ago
+17h ago
 
 ---
 
@@ -66,7 +66,7 @@ Blog post: Gemini Robotics-ER 1.6: Powering real-world robotics tasks through en
 
 l get a dtof lidar, l want to use it on my drone for obstacles avoidance. today, l make a simple test on its point cloud and depth map, it's great ! Share the test results with you. And the code with open source on the github later,
 
-2h ago
+3h ago
 
 ---
 
@@ -74,7 +74,7 @@ l get a dtof lidar, l want to use it on my drone for obstacles avoidance. today,
 
 Ukraine's defense ministry said that its forces tripled UGV missions since November to over 9,000 tasks in March alone.
 
-🔗 [Business Insider](https://www.businessinsider.com/ukraine-ground-robots-troops-uncrewed-ground-vehicles-first-quarter-2026-4) • 6h ago
+🔗 [Business Insider](https://www.businessinsider.com/ukraine-ground-robots-troops-uncrewed-ground-vehicles-first-quarter-2026-4) • 7h ago
 
 ---
 
@@ -82,7 +82,7 @@ Ukraine's defense ministry said that its forces tripled UGV missions since Novem
 
 The architecture is a dual system: → Gemini Robotics-ER 1.6: the "strategist" — spatial reasoning, object counting, instrument reading, task verification → Gemini Robotics 1.5 (VLA): executes motor commands The instrument reading jump (23%- 93%) comes from agentic vision — the model iterates visually rather than making a single-pass prediction. Current deployment: Boston Dynamics Spot reading pressure meters and sight glasses during facility inspection. The honest limitation: these demos are in controlled environments. Industrial deployment requires handling edge cases that structured tests don't surface. Full analysis: https://www.aiuniverse.news/google-deepminds-new-robot-brain-masters-reading-dials-and-understanding-space/
 
-🔗 [AI Universe](https://www.aiuniverse.news/google-deepminds-new-robot-brain-masters-reading-dials-and-understanding-space/) • 3h ago
+🔗 [AI Universe](https://www.aiuniverse.news/google-deepminds-new-robot-brain-masters-reading-dials-and-understanding-space/) • 5h ago
 
 ---
 
@@ -98,7 +98,7 @@ OpenArm is an open-source humanoid arm platform developed by Enactic in Tokyo. I
 
 https://i.redd.it/mw5wu8lgndvg1.gif Robots process each camera frame and forget it. RTSM watches an RGB-D stream, segments objects, tracks them across viewpoints, and maintains a queryable 3D object map. pip install rtsm[gpu] && rtsm demo Built with SAM2 + Grounding DINO + SigLIP. Apache 2.0. Any AI agent can query via MCP. GitHub: https://github.com/calabi-inc/rtsm
 
-2h ago
+3h ago
 
 ---
 
@@ -106,7 +106,7 @@ https://i.redd.it/mw5wu8lgndvg1.gif Robots process each camera frame and forget 
 
 If my math is correct, this could have 12*16GB modules =192GB of memory and 64*12= 768bit wide bus, therefore 820-920 GB/s bandwidth (pretty cool!) I wonder if they want to use it also in their TeslaBots or just in cars. If they use it robots, the memory bandwith would be 3x that of competitors (Jetson Thor) but also would have more TDP, so battery life ~ 1 hour?
 
-🔗 [TechPowerUp](https://www.techpowerup.com/348241/tesla-tapes-out-ai5-chip-in-partnership-with-tsmc-and-samsung) • 4h ago
+🔗 [TechPowerUp](https://www.techpowerup.com/348241/tesla-tapes-out-ai5-chip-in-partnership-with-tsmc-and-samsung) • 6h ago
 
 ---
 
@@ -122,14 +122,6 @@ Google DeepMind • 1d ago
 
 ---
 
-**[Gemini Robotics ER-1.6 enhances reasoning to help robots navigate real-world tasks.](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-1-6/)**
-
-An overview of Gemini Robotics-ER 1.6, an upgrade to our reasoning-first model that helps robots to understand their environment.
-
-blog.google • 1d ago
-
----
-
 **[AIVI-Learning Is Now Powered by Google Gemini Robotics](https://bostondynamics.com/blog/aivi-learning-now-powered-google-gemini-robotics/)**
 
 We have partnered with Google Cloud and Google DeepMind to integrate Gemini and Gemini Robotics ER 1.6 into Orbit AIVI-Learning.
@@ -138,57 +130,59 @@ Boston Dynamics • 1d ago
 
 ---
 
-**[Verdant Robotics expands into grass seed and sod, “where the weeds and the crop can look nearly identical’](https://agfundernews.com/verdant-robotics-expands-into-grass-seed-and-sod-where-the-weeds-and-the-crop-can-look-nearly-identical)**
+**[Gemini Robotics ER-1.6 enhances reasoning to help robots navigate real-world tasks.](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-1-6/)**
 
-Verdant Robotics' ability to distinguish between grass crops and grass weed species is critical as crop and weed can look nearly identical.
+An overview of Gemini Robotics-ER 1.6, an upgrade to our reasoning-first model that helps robots to understand their environment.
 
-AgFunderNews • 3h ago
-
----
-
-**[Robots captured Russian army positions for first time in history, Zelenskyy says](https://www.politico.eu/article/volodymyr-zelenskyy-robotic-systems-russia-army-positions-ukraine/)**
-
-“The occupiers surrendered, and the operation was carried out without infantry and without losses on our side,” says Ukrainian leader.
-
-politico.eu • 1d ago
+blog.google • 1d ago
 
 ---
 
-**[Tesla Tapes Out AI5 Chip for Next-Generation Self-Driving and Robotics](https://eletric-vehicles.com/tesla/tesla-tapes-out-ai5-chip-for-next-generation-self-driving-and-robotics/)**
+**[​Boston Dynamics and Google DeepMind Teach Spot to Reason​](https://spectrum.ieee.org/boston-dynamics-spot-google-deepmind)**
 
-Tesla has completed the design of its next-generation AI5 inference chip, CEO Elon Musk announced on Wednesday, reaching a critical milestone in the company's effort to build custom silicon for its autonomous driving and robotics programmes.
+The addition of Gemini Robotics brings embodied AI reasoning to inspection robots
 
-eletric-vehicles.com • 10h ago
-
----
-
-**[Tesla’s Chinese Robot Rival Ramps up Global Push Ahead of IPO](https://www.bloomberg.com/news/articles/2026-04-15/tesla-s-chinese-robot-rival-ramps-up-global-push-ahead-of-ipo)**
-
-Bloomberg.com • 8h ago
+IEEE Spectrum • 23h ago
 
 ---
 
-**[Tesla Shanghai factory could crack humanoid robot production at scale](https://interestingengineering.com/ai-robotics/teslas-shanghai-humanoid-robot-production)**
+**[Google’s latest AI lets robots understand, plan, and act in real environments](https://interestingengineering.com/ai-robotics/google-gemini-robotics-er16-embodied-reasoning)**
 
-Tesla is eyeing the Shanghai gigafactory in China to solve the biggest obstacle to scaling humanoid robot production.
+Google launches Gemini Robotics-ER 1.6, enabling robots to reason, read gauges, and act autonomously in real-world settings.
 
-Interesting Engineering • 10h ago
-
----
-
-**[This humanoid robot does all your housework for you — and its makers say it's ready for your home](https://www.livescience.com/technology/robotics/this-humanoid-robot-does-all-your-housework-for-you-and-its-makers-say-its-ready-for-your-home)**
-
-Panther has been filmed doing basic household chores, like making the bed and cooking breakfast.
-
-Live Science • 1h ago
+Interesting Engineering • 20h ago
 
 ---
 
-**[Glitching robots are funny but AI experts say they signal 'Terminator'-level danger: 'Early warning signs'](https://nypost.com/2026/04/15/tech/glitching-robots-are-funny-but-ai-experts-say-they-signal-terminator-level-danger-early-warning-signs/)**
+**[Google's DeepMind launches more advanced Gemini robotics (GOOG:NASDAQ)](https://seekingalpha.com/news/4574852-googles-deepmind-launches-more-advanced-gemini-robotics)**
 
-In the dystopian future, these machines rage against you.
+Seeking Alpha • 1d ago
 
-New York Post • 7h ago
+---
+
+**[Google DeepMind Releases New AI Model to Bring Robots Closer to Real Autonomy](https://www.tipranks.com/news/google-deepmind-releases-new-ai-model-to-bring-robots-closer-to-real-autonomy)**
+
+TipRanks • 1d ago
+
+---
+
+**[Tools for Your To Do List with Spot and Gemini Robotics](https://bostondynamics.com/blog/tools-for-your-to-do-list-with-spot-and-gemini-robotics/)**
+
+A recent demo shows Boston Dynamics Spot in a residential home, using Google’s visual-language model (VLM) Gemini Robotics-ER 1.5 for embodied reasoning.
+
+Boston Dynamics • 1d ago
+
+---
+
+**[Cadence, Nvidia working together on developing AI for robotics](https://www.reuters.com/technology/cadence-nvidia-working-together-developing-ai-robotics-2026-04-15/)**
+
+Reuters • 1h ago
+
+---
+
+**[Skild AI Acquires Zebra Technologies’ Robotics Automation Business](https://www.bloomberg.com/news/articles/2026-04-15/skild-ai-acquires-zebra-technologies-robotics-automation-business)**
+
+Bloomberg.com • 54m ago
 
 ---
 
@@ -282,7 +276,7 @@ The Dyson spot+scrub ai robot vacuum is highly anticipated. We purchased one to 
 
 📺 Vacuum Nerds
 
-👁️ 2K • 👍 67 • 💬 22 • ⏱️ 13:22 • 5h ago
+👁️ 2K • 👍 67 • 💬 22 • ⏱️ 13:22 • 6h ago
 
 ---
 
