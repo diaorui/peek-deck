@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-15T02:37:29.267754+00:00'
+updated: '2026-04-15T05:25:20.620652+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 15, 2026 at 02:37 UTC  
+**Last Updated:** April 15, 2026 at 05:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,17 +32,33 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[OpenArm: An open-source humanoid arm you can actually build, simulate, and teleoperate](https://www.reddit.com/r/robotics/comments/1sletlb/openarm_an_opensource_humanoid_arm_you_can/)**
+**[Google DeepMind launches Gemini Robotics ER 1.6, a reasoning-first model that enables robots to understand environments through spatial reasoning and multi-view understanding](https://www.reddit.com/r/robotics/comments/1sltawg/google_deepmind_launches_gemini_robotics_er_16_a/)**
 
-OpenArm is an open-source humanoid arm platform developed by Enactic in Tokyo. It includes full CAD files, control code, firmware, and simulation tools, allowing users to build, modify, and test the system themselves. The arms are compliant and backdrivable, with teleoperation support that includes force feedback and gravity compensation. It also integrates with MuJoCo and Isaac Sim, enabling simulation-first development before running on real hardware. Project page: https://github.com/enactic/OpenArm
+Blog post: Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning: https://deepmind.google/blog/gemini-robotics-er-1-6/ From Google DeepMind on 𝕏: https://x.com/GoogleDeepMind/status/2044069878781390929
 
-9h ago
+2h ago
 
 ---
 
 **[Automated Guided Vehicles At Long Beach Container Terminal](https://www.reddit.com/r/robotics/comments/1slnxdj/automated_guided_vehicles_at_long_beach_container/)**
 
-4h ago
+6h ago
+
+---
+
+**[OpenArm: An open-source humanoid arm you can actually build, simulate, and teleoperate](https://www.reddit.com/r/robotics/comments/1sletlb/openarm_an_opensource_humanoid_arm_you_can/)**
+
+OpenArm is an open-source humanoid arm platform developed by Enactic in Tokyo. It includes full CAD files, control code, firmware, and simulation tools, allowing users to build, modify, and test the system themselves. The arms are compliant and backdrivable, with teleoperation support that includes force feedback and gravity compensation. It also integrates with MuJoCo and Isaac Sim, enabling simulation-first development before running on real hardware. Project page: https://github.com/enactic/OpenArm
+
+12h ago
+
+---
+
+**[Saw a humanoid robot training for a half marathon](https://www.reddit.com/r/robotics/comments/1sluror/saw_a_humanoid_robot_training_for_a_half_marathon/)**
+
+Curious how it does over longer distances. Didn’t expect it to look this stable, but I’m guessing things might get tricky over a full half marathon distance.
+
+1h ago
 
 ---
 
@@ -50,15 +66,7 @@ OpenArm is an open-source humanoid arm platform developed by Enactic in Tokyo. I
 
 Nima Zeighami on 𝕏: https://x.com/NimaZeighami/status/2043873782620926032
 
-16h ago
-
----
-
-**[Google DeepMind launches Gemini Robotics ER 1.6, a reasoning-first model that enables robots to understand environments through spatial reasoning and multi-view understanding](https://www.reddit.com/r/robotics/comments/1sltawg/google_deepmind_launches_gemini_robotics_er_16_a/)**
-
-Blog post: Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning: https://deepmind.google/blog/gemini-robotics-er-1-6/ From Google DeepMind on 𝕏: https://x.com/GoogleDeepMind/status/2044069878781390929
-
-6m ago
+19h ago
 
 ---
 
@@ -74,7 +82,7 @@ Two weeks ago, I quit my job at a robotics company. I didn't have another offer 
 
 https://youtube.com/@joshbongard3314?si=SUzZJityisRA-UE8 It is honestly wild to me how few views Josh Bongard’s YouTube lectures have. He has been doing fascinating work at the intersection of artificial intelligence, evolutionary systems, robotics, and intelligence itself, his talks are full of substance and he is a close collaborator of Michael Levin. No hype, just real ideas from someone who has spent years thinking deeply about how minds and machines emerge, adapt, and learn.
 
-1h ago
+4h ago
 
 ---
 
@@ -82,29 +90,21 @@ https://youtube.com/@joshbongard3314?si=SUzZJityisRA-UE8 It is honestly wild to 
 
 Check out why we built determinism as a core principle for our open source copper-rs project. Imagine being able to instantly reproduce deterministically any bug on your robotics platform, just jumping at the time the mistake happened, fix it, compare and never regress. https://youtu.be/eMpEeXYkQDw
 
-6h ago
+9h ago
+
+---
+
+**[Hot take on general robotics](https://www.reddit.com/r/robotics/comments/1sltj2y/hot_take_on_general_robotics/)**
+
+The reason we haven’t solved general robotics is not because we need “more data”, it’s because general robotics AKA physical artificial general intelligence is a theoretical scifi concept that is not proven with zero scientific backing in the real world and to be clear, what I mean is: there is zero validated pathway from current methods to that level of generality - **Not saying will never happen** - but rather current methods are unproven & proving to be inefficient by the day. Current claims like: “Tell it anything, works in any random messy environment, like a human, makes emotions, jobs will become optional and we just need more data, if we had the data we’ll be at 100% AGI now” - what this is essentially proposing is consciousness in a bunch of metal, actuators, motors & silicon chips screwed together in human form. This is not scientifically established as an achievable engineering target today, speculative at best therefore not grounded within engineering, physics, controls, AI & no existing system shows anything close to that level of generalization. Tesla started it as a cool research project & every other humanoid company is a clone of that with people from LLM, computer vision & computer science backgrounds. The concept of a humanoid robot is incredible, a system that can fit into any space a human can and could theoretically do everything a human can. But just because it can theoretically do it, doesn’t mean it has to be the case end to end. Massive amounts of utilitity can be extracted from the technology when you realise a part of that tech is only a part of the equation. Meaning, starting & stopping at humanoid robots is not the way to go. And to clarify, I'm not calling out all robotics or speaking broadly, its:“Human-level, open-world, instruction-following humanoids emerge just by scaling current AI + more data.” - the evidence is basically nonexistent.
+
+2h ago
 
 ---
 
 **[Beijing’s Humanoid Robot Half Marathon, Night Run Test - Around 40% of teams are running fully autonomous, remote-controlled runs get a 1.2× penalty (Beijing's E-Town Half Marathon on April 19 with 100+ teams, 300+ humanoids competing)](https://www.reddit.com/r/robotics/comments/1sk6p2y/beijings_humanoid_robot_half_marathon_night_run/)**
 
 1d ago
-
----
-
-**[Boston Dynamics on why second-gen robots are where the real progress happens](https://www.reddit.com/r/robotics/comments/1skg5ki/boston_dynamics_on_why_secondgen_robots_are_where/)**
-
-Zack Jackowski, VP of Atlas Product at Boston Dynamics, explains that the first robot is really just a research machine used to figure out how everything actually works together. When they built it, they didn’t fully understand how all the components would interact, so it ended up overbuilt and a bit unbalanced, with things like multiple computers and parts pushed to extremes. He describes how the second-generation design is where that learning gets applied. Once they have real data, they can simplify the system, remove what isn’t needed, and make better decisions about weight, strength, and compute. The result isn’t not just a cheaper version, it’s a more efficient and better-performing robot overall because it’s based on what they learned from the first one rather than assumptions. j
-
-1d ago
-
----
-
-**[SMRSC 2026 on India Today Network (SSII Surgical Robotics)](https://www.reddit.com/r/robotics/comments/1slf2jq/smrsc_2026_on_india_today_network_ssii_surgical/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtu.be](https://youtu.be/pY5s8RPUAwo?si=GtUB0T0mQDFhVWyd) • 9h ago
 
 ---
 
@@ -116,7 +116,15 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Gemini Robotics ER 1.6 upgrades spatial reasoning and multi-view understanding, unlocking new capabilities like instrument reading for autonomous robots.
 
-Google DeepMind • 11h ago
+Google DeepMind • 14h ago
+
+---
+
+**[​Boston Dynamics and Google DeepMind Teach Spot to Reason​](https://spectrum.ieee.org/boston-dynamics-spot-google-deepmind)**
+
+The addition of Gemini Robotics brings embodied AI reasoning to inspection robots
+
+IEEE Spectrum • 9h ago
 
 ---
 
@@ -124,13 +132,13 @@ Google DeepMind • 11h ago
 
 A recent demo shows Boston Dynamics Spot in a residential home, using Google’s visual-language model (VLM) Gemini Robotics-ER 1.5 for embodied reasoning.
 
-Boston Dynamics • 11h ago
+Boston Dynamics • 14h ago
 
 ---
 
-**[Google's DeepMind launches more advanced Gemini robotics (GOOG:NASDAQ)](https://seekingalpha.com/news/4574852-googles-deepmind-launches-more-advanced-gemini-robotics)**
+**[Korean AI chip startup DEEPX, Hyundai work on robots powered by generative AI](https://www.reuters.com/business/autos-transportation/korean-ai-chip-startup-deepx-hyundai-work-robots-powered-by-generative-ai-2026-04-15/)**
 
-Seeking Alpha • 10h ago
+Reuters • 2h ago
 
 ---
 
@@ -138,7 +146,7 @@ Seeking Alpha • 10h ago
 
 “The occupiers surrendered, and the operation was carried out without infantry and without losses on our side,” says Ukrainian leader.
 
-politico.eu • 17h ago
+politico.eu • 19h ago
 
 ---
 
@@ -146,35 +154,27 @@ politico.eu • 17h ago
 
 Ukraine is replacing more soldiers with robots in the battlefield kill zone.
 
-Ars Technica • 3h ago
+Ars Technica • 6h ago
 
 ---
 
 **[First victory for the battle brigade run by robots alone](https://www.thetimes.com/world/russia-ukraine-war/article/ukraine-robot-army-war-russia-surrender-jvld9rllc)**
 
-The Times • 15h ago
+The Times • 18h ago
 
 ---
 
-**[Humanoid robots show off boxing and language skills in Hong Kong](https://apnews.com/video/humanoid-robots-show-off-their-language-and-boxing-skills-35c464f8ff2440a1997284fa64ad0331)**
+**[Maui High School robotics team wins Denver Regional, Qualifies for World Championships](https://mauinow.com/2026/04/14/maui-high-school-robotics-team-wins-denver-regional-qualifies-for-world-championships/)**
 
-What will the next generation of robots be able to do? In Hong Kong, the machines have been showing off their ability to teach, dance and even fight.
+The Maui High School robotics team 2443 Blue Thunder made history at the FIRST Robotics Competition Denver Regional, capturing the Regional Championship title and earning a coveted spot at the World Championships in Houston, Texas.
 
-AP News • 1d ago
+Maui Now • 9h ago
 
 ---
 
-**[Hyundai Motor Chairman Doubles Down On AI And Robotics](https://www.forbes.com/sites/catzxwang/2026/04/13/hyundai-motor-chairman-doubles-down-on-ai-and-robotics/)**
+**[30 Under 30 Europe Manufacturing & Industry 2026: The Builders Bringing AI, Robotics And Data To Industry](https://www.forbes.com/sites/alanohnsman/2026/04/14/30-under-30-europe-manufacturing--industry-2026-the-builders-bringing-ai-robotics-and-data-to-industry/)**
 
 Forbes • 1d ago
-
----
-
-**[Tesla's Shanghai factory can build humanoid robots, China boss says](https://asia.nikkei.com/business/technology/tesla-s-shanghai-factory-can-build-humanoid-robots-china-boss-says)**
-
-Vehicle plant has potential to help solve mass-production challenge
-
-Nikkei Asia • 11h ago
 
 ---
 
@@ -182,7 +182,7 @@ Nikkei Asia • 11h ago
 
 The owner of a robot delivery service is trying to turn a shattering experience into a good laugh.
 
-ABC7 Chicago • 9h ago
+ABC7 Chicago • 11h ago
 
 ---
 
@@ -196,7 +196,7 @@ Boston Dynamics just did what most people thought would take years longer. Atlas
 
 📺 AI Revolution
 
-👁️ 39K • 👍 1K • 💬 98 • ⏱️ 21:49 • 1d ago
+👁️ 47K • 👍 1K • 💬 101 • ⏱️ 21:49 • 1d ago
 
 ---
 
@@ -206,7 +206,7 @@ AI and robotics will impact our economy, our politics, our privacy, our emotiona
 
 📺 Senator Bernie Sanders
 
-👁️ 6K • 👍 618 • 💬 72 • ⏱️ 1:03:51 • 6h ago
+👁️ 7K • 👍 657 • 💬 80 • ⏱️ 1:03:51 • 9h ago
 
 ---
 
@@ -216,37 +216,17 @@ Chinese humanoid robots train to go head-to-head with human runners in the secon
 
 📺 NBC News
 
-👁️ 69K • 👍 548 • 💬 201 • ⏱️ 1:59 • 1d ago
+👁️ 76K • 👍 588 • 💬 212 • ⏱️ 1:59 • 1d ago
 
 ---
 
-**[Smarter Inspections Powered by Google Gemini Robotics | Boston Dynamics](https://www.youtube.com/watch?v=kBwxmlI2yHQ)**
+**[Tesla Just Started Mass Producing Humanoid Robots — And Nobody Is Ready](https://www.youtube.com/watch?v=2sHaQffX0w0)**
 
-The introduction of AI Visual inspections expanded what Spot and Orbit could tell you about your facility - now, AIVI-Learning ...
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *Tesla ...
 
-📺 Boston Dynamics
+📺 Julia McCoy
 
-👁️ 16K • 👍 946 • 💬 82 • ⏱️ 1:40 • 11h ago
-
----
-
-**[New AI Robot Is Starting to Feel Human (Artificial Humans Are Here)](https://www.youtube.com/watch?v=HOgCL8lKuDc)**
-
-Try Seedance 2.0 with Claude on Higgsfield: https://higgsfield.ai/s/seedance-2-0-airevolutionx-LDckkB Realbotix just launched ...
-
-📺 AI Revolution
-
-👁️ 92K • 👍 1K • 💬 174 • ⏱️ 14:57 • 3d ago
-
----
-
-**[Elon Musk’s New Tesla Optimus Robot Looks Shockingly Human](https://www.youtube.com/watch?v=MbqMwLHx8-4)**
-
-A new wave of attention is building around Elon Musk's latest version of the Tesla Optimus robot, which is being described as ...
-
-📺 Carros Show
-
-👁️ 9K • 👍 214 • 💬 28 • ⏱️ 8:01 • 1d ago
+👁️ 19K • 👍 923 • 💬 112 • ⏱️ 4:16 • 14h ago
 
 ---
 
@@ -256,37 +236,55 @@ Terminator is about to become real?! If you want to help support independent jou
 
 📺 Benny Johnson
 
-👁️ 89K • 👍 9K • 💬 1K • ⏱️ 11:20 • 4h ago
+👁️ 144K • 👍 11K • 💬 2K • ⏱️ 11:20 • 6h ago
 
 ---
 
-**[AI agent in a robot does exactly what experts warned](https://www.youtube.com/watch?v=woTy4dTiT20)**
+**[A historic event! ROBOTS went offensive, capturing Russians for the first time: operation details](https://www.youtube.com/watch?v=8ylpjflYZbU)**
 
-Could AI become dangerous? Can we trust AI Agents? AGI. Use code insideai at https://incogni.com/insideai to get an exclusive ...
+For the first time, a Russian position at the front was fully captured without any infantry involvement — only robotic systems were ...
 
-📺 InsideAI
+📺 UATV English
 
-👁️ 675K • 👍 25K • 💬 2K • ⏱️ 16:24 • 5d ago
-
----
-
-**[Why Every Tech Expert is Now Watching This New AI Robot](https://www.youtube.com/watch?v=bwBYN9hun84)**
-
-Imagine a task so delicate it's been the "holy grail" of engineering for three decades. We're talking about handling things that fold, ...
-
-📺 PRO ROBOTS
-
-👁️ 41K • 👍 648 • 💬 44 • ⏱️ 6:30 • 6d ago
+👁️ 5K • 👍 396 • 💬 17 • ⏱️ 10:56 • 7h ago
 
 ---
 
-**[I&#39;m not sure about those ULTIMATE MOLOTS [War Robots]](https://www.youtube.com/watch?v=_bof6bF1siU)**
+**[New AI Robot Is Starting to Feel Human (Artificial Humans Are Here)](https://www.youtube.com/watch?v=HOgCL8lKuDc)**
 
-War Robots Gameplay: Ultimate Molots for the first time My War Robots Creator Link: https://wr.my.games/manni - Code: 'manni' ...
+Try Seedance 2.0 with Claude on Higgsfield: https://higgsfield.ai/s/seedance-2-0-airevolutionx-LDckkB Realbotix just launched ...
 
-📺 Manni-Gaming
+📺 AI Revolution
 
-👁️ 6K • 👍 354 • 💬 43 • ⏱️ 18:17 • 13h ago
+👁️ 93K • 👍 2K • 💬 178 • ⏱️ 14:57 • 3d ago
+
+---
+
+**[Smarter Inspections Powered by Google Gemini Robotics | Boston Dynamics](https://www.youtube.com/watch?v=kBwxmlI2yHQ)**
+
+The introduction of AI Visual inspections expanded what Spot and Orbit could tell you about your facility - now, AIVI-Learning ...
+
+📺 Boston Dynamics
+
+👁️ 18K • 👍 1K • 💬 84 • ⏱️ 1:40 • 14h ago
+
+---
+
+**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=CAAKZgJCtzo)**
+
+📺 Robot Julie 
+
+👁️ 5K • 👍 23 • ⏱️ 0:21 • 4h ago
+
+---
+
+**[Elon Musk’s New Tesla Optimus Robot Looks Shockingly Human](https://www.youtube.com/watch?v=MbqMwLHx8-4)**
+
+A new wave of attention is building around Elon Musk's latest version of the Tesla Optimus robot, which is being described as ...
+
+📺 Carros Show
+
+👁️ 10K • 👍 230 • 💬 30 • ⏱️ 8:01 • 1d ago
 
 ---
 

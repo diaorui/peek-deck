@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-15T02:37:29.264635+00:00'
+updated: '2026-04-15T05:25:20.617761+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
-- videos
 - cryptocurrency
+- news
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 15, 2026 at 02:37 UTC  
+**Last Updated:** April 15, 2026 at 05:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,43 +36,51 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,325.23
+### $2,324.97
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.0%  
-**7d:** +5.9%  
-**30d:** +0.1%  
-**90d:** -29.6%  
-**1y:** +47.0%  
+**24h:** -2.1%  
+**7d:** +6.1%  
+**30d:** +0.3%  
+**90d:** -29.5%  
+**1y:** +47.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $280.03B
+**Market Cap:** $281.25B
 Rank #2
 
 **Circulating Supply:** 120,690,957 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--53.1%
+-53.0%
 
 **All-Time Low:** $0.43
-+535609.6%
++537288.6%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion April 15, 2026](https://www.reddit.com/r/ethereum/comments/1slwfew/daily_general_discussion_april_15_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+23m ago
+
+---
+
 **[Apple Charges $99 a Year to Keep You Safe. A Fake Ledger App Just Drained $9.5 Million in a Week](https://www.reddit.com/r/ethereum/comments/1slh9gu/apple_charges_99_a_year_to_keep_you_safe_a_fake/)**
 
 A fake Ledger Live clone sat on Apple's App Store for seven days and drained $9.5 million from 50 victims across Bitcoin, Ethereum, Solana, Tron and XRP. Apple's review process, which promises to protect users, let it through. Then removed it after the damage was done.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/fake-ledger-app-apple-app-store-9-million-drained/) • 8h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/fake-ledger-app-apple-app-store-9-million-drained/) • 10h ago
 
 ---
 
@@ -80,7 +88,7 @@ A fake Ledger Live clone sat on Apple's App Store for seven days and drained $9.
 
 Man I was looking at some recent governance votes across a few protocols and the amount of obvious botting is just depressing at this point. it feels like every time we come up with a new sybil resistance mechanism, someone just spins up a better script to farm it and now with AI agents getting actually decent at mimicking random on-chain behavior and passing standard checks, it seems like pure software solutions are just dead in the water. I really hate the idea of forced traditional KYC for web3 stuff because it completely defeats the point of privacy and just builds another centralized honeypot. was reading this technical deep dive the other day about setting up a private Proof Of Human using ZK tech so you don't actually tie your daily wallet to your real identity. tbh it made me realize we might actually need some kind of hardware or biometric anchor if we want to keep things decentralized without getting completely overrun by server farms it just sucks that the ecosystem is moving in a direction where simply "proving you are a person" is becoming the hardest part of interacting with ethereum. Idk, curious how you guys think L2s are gonna handle this long term because the current meta of hoping for the best isn't working
 
-7h ago
+10h ago
 
 ---
 
@@ -88,22 +96,13 @@ Man I was looking at some recent governance votes across a few protocols and the
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-21h ago
+1d ago
 
 ---
 
 **[Building a prediction market sector index — is this a gap or am I missing something obvious?](https://www.reddit.com/r/ethereum/comments/1slnr4y/building_a_prediction_market_sector_index_is_this/)**
 
-4h ago
-
----
-
-**[Coinbase AgentKit Prompt Injection: Wallet Drain, Infinite Approvals, and Agent-Level RCE (validated by Coinbase, on-chain PoC)](https://www.reddit.com/r/ethereum/comments/1skozp6/coinbase_agentkit_prompt_injection_wallet_drain/)**
-
-Coinbase AgentKit Prompt Injection: Wallet Drain, Infinite Approvals, and Agent-Level RCE Reported 13 days after Coinbase launched Agentic Wallets. Validated by Coinbase. Demonstrated on-chain. Published: April 11, 2026 CVE status: Pending assignment
-Coinbase AgentKit is developer infrastructure for building AI agents with direct access to wallets, token operations, DeFi actions, and related execution surfaces. This disclosure covers a prompt injection vulnerability in AgentKit that allowed attacker-controlled input to trigger sensitive tool execution without a built-in human confirmation step.
-
-🔗 [x402warden](https://x402warden.com/research/coinbase-agentkit-prompt-injection/) • 1d ago
+6h ago
 
 ---
 
@@ -111,7 +110,7 @@ Coinbase AgentKit is developer infrastructure for building AI agents with direct
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -149,43 +148,27 @@ There’s a lot of focus lately on calldata in the context of rollups and EIP-20
 
 ## Google News: "ethereum"
 
-**[Ondo seeks SEC clearance for tokenized equities model on Ethereum](https://www.theblock.co/post/397258/ondo-seeks-sec-clearance-tokenized-equities-model-ethereum)**
+**[Ripple CEO Brad Garlinghouse Bets Big on XRP Flipping Ethereum](https://coinpaper.com/16228/ripple-ceo-brad-garlinghouse-bets-big-on-xrp-flipping-ethereum)**
 
-The SEC is signaling openness to tokenization, encouraging firms to engage directly as it fine-tunes regulations.
+Ripple CEO Brad Garlinghouse says XRP could challenge Ethereum for the #2 crypto spot, driven by real-world cross-border payment utility.
+
+Coinpaper • 17h ago
+
+---
+
+**[Bitmine holds 4% of ethereum supply as total holdings reach $11.8 billion](https://www.theblock.co/post/397229/bitmine-holds-4-of-ethereum-supply-as-total-holdings-reach-11-8-billion)**
+
+Bitmine expanded its Ethereum treasury to 4.87 million ETH, controlling 4% of supply as total holdings climb to $11.8 billion.
 
 The Block • 1d ago
 
 ---
 
-**[Ripple CEO Brad Garlinghouse Bets Big on XRP Flipping Ethereum](https://coinpaper.com/16228/ripple-ceo-brad-garlinghouse-bets-big-on-xrp-flipping-ethereum)**
+**[ETH, BTC price: What next as Ether/bitcoin ratio bounces from 2026 lows](https://www.coindesk.com/markets/2026/04/15/ether-bitcoin-ratio-bounces-from-2026-lows-in-signs-of-broader-crypto-recovery)**
 
-Ripple CEO Brad Garlinghouse says XRP could challenge Ethereum for the #2 crypto spot, driven by real-world cross-border payment utility.
+The ETH/BTC ratio hit its highest since January as Ethereum's network added 284,000 new users in Q1 and stablecoin supply reached a record $180 billion.
 
-Coinpaper • 14h ago
-
----
-
-**[ether.fi’s ETHGas Deal Backs a Bigger Push to Make Ethereum Execution More Predictable](https://finance.yahoo.com/markets/crypto/articles/ether-fi-ethgas-deal-backs-012400391.html)**
-
-ether.fi has committed about $3 billion in ETH to ETHGas, backing a three-year agreement that gives the blockspace ...
-
-Yahoo Finance • 1h ago
-
----
-
-**[Ether.fi commits $3 billion in ETH as 'validator liquidity' to ETHGas over three years](https://www.theblock.co/post/397457/etherfi-3-billion-eth-validator-liquidity-ethgas-three-years)**
-
-ETHGas is a marketplace for Ethereum blockspace futures that allows blockspace to be bought and sold in advance for guaranteed execution.
-
-The Block • 2h ago
-
----
-
-**[Ethereum Foundation unveils $1M audit subsidy program to boost crypto security and cut costs for builders](https://www.coindesk.com/tech/2026/04/14/ethereum-foundation-unveils-usd1m-audit-subsidy-program-to-boost-crypto-security-and-cut-costs-for-builders)**
-
-The organization unveiled a new initiative aimed at tackling a persistent challenge in crypto development—the high cost of smart contract security audits.
-
-CoinDesk • 8h ago
+CoinDesk • 36m ago
 
 ---
 
@@ -193,7 +176,7 @@ CoinDesk • 8h ago
 
 For the first time since mid-March, Bitcoin (CRYPTO: BTC) is back above $75,000. The Bitcoin price had been ranging below $70,000 for more than a month, with every rally getting cut short by the bearish pressure the Middle East war has put on the market. Right now, the whole market is surging—Bitcoin has climbed 5.9%, ... Bitcoin Hits $75,000 as XRP, Ethereum, and Solana All Surge: Is the Crypto Bull Run Starting?
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -207,15 +190,7 @@ Barron's • 1d ago
 
 Crypto markets are having a strong Tuesday. Bitcoin jumped nearly $4,000 in 12 hours, hitting $74,461. Ethereum surged 7.85% to $2,366 and XRP climbed
 
-Coinpedia • 22h ago
-
----
-
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.875 Million Tokens, and Total Crypto and Total Cash Holdings of $11.8 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-4-875-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-8-billion-302740122.html)**
-
-Bitmine now owns more than 4% of the total ETH coin supply of 120.7 million Bitmine is 81% of the way to the 'Alchemy of 5%' in just 9 months Bitmine uplisted...
-
-PR Newswire • 1d ago
+Coinpedia • 1d ago
 
 ---
 
@@ -227,27 +202,39 @@ Decrypt • 1d ago
 
 ---
 
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.875 Million Tokens, and Total Crypto and Total Cash Holdings of $11.8 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-4-875-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-8-billion-302740122.html)**
+
+Bitmine now owns more than 4% of the total ETH coin supply of 120.7 million Bitmine is 81% of the way to the 'Alchemy of 5%' in just 9 months Bitmine uplisted...
+
+PR Newswire • 1d ago
+
+---
+
+**[Ethereum About To Turn? Death Cross Says Bottom Is Closer Than You Think](https://www.tradingview.com/news/newsbtc:602109914094b:0-ethereum-about-to-turn-death-cross-says-bottom-is-closer-than-you-think/)**
+
+Ethereum may be closer to a major turning point than it appears, as key technical signals begin to align. Despite recent weakness, the emergence of a death cross, often seen near the end of downtrends, suggests the market could be approaching its final phase of capitulation. With historical pattern…
+
+TradingView — Track All Markets • 1d ago
+
+---
+
+**[Stablecoin liquidity stays idle at $319B as Ethereum activity slows – Why?](https://ambcrypto.com/?p=588901)**
+
+AMBCrypto • 6h ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
 
-**[🔴 Ethereum Is Finally Breaking Out – Next Target $3,000?](https://www.youtube.com/watch?v=EzqGrq9CQOo)**
+**[BITCOIN SHORT SQUEEZE PREDICTED: Get Ready For THIS!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=dpn_vvJGfFw)**
 
-BloFin - No KYC/No VPN needed [Trade ETH Coin Futures!] https://marzell.org/Blofin_Trade CoinGPT ...
+BITCOIN SHORT SQUEEZE PREDICTED: Get Ready For THIS!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
 
-📺 Marzell Crypto
+📺 Crypto World
 
-👁️ 697 • 👍 29 • 💬 89 • ⏱️ 5:01 • 21h ago
-
----
-
-**[Bitcoin to $200k, Ethereum To $10k Is &#39;Programed&#39;](https://www.youtube.com/watch?v=q50SBPezTJo)**
-
-Tony Edwards of Thinking Crypto interview. We talk: Incoming Bitcoin Bottom, QE, Trump Pump, Altcoin Season, Supercycle, ...
-
-📺 Altcoin Daily
-
-👁️ 3K • 👍 121 • 💬 67 • ⏱️ 0:59 • 8h ago
+👁️ 2K • 👍 167 • 💬 110 • ⏱️ 22:06 • 2h ago
 
 ---
 
@@ -261,13 +248,53 @@ Here is the latest on bitcoin, ethereum and crypto in general! Be aware of whats
 
 ---
 
-**[ETHEREUM ALERT !!!!](https://www.youtube.com/watch?v=TGcjfizAtl0)**
+**[Bitcoin to $200k, Ethereum To $10k Is &#39;Programed&#39;](https://www.youtube.com/watch?v=q50SBPezTJo)**
 
-BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome 20% ...
+Tony Edwards of Thinking Crypto interview. We talk: Incoming Bitcoin Bottom, QE, Trump Pump, Altcoin Season, Supercycle, ...
 
-📺 The Moon Show
+📺 Altcoin Daily
 
-👁️ 13K • 👍 1K • 💬 73 • ⏱️ 8:32 • 1d ago
+👁️ 4K • 👍 130 • 💬 70 • ⏱️ 0:59 • 11h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=dURwIrchrGA)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Crypto Gyan
+
+👁️ 281 • 👍 47 • ⏱️ 6:34 • 1h ago
+
+---
+
+**[Ethereum Supply Shock + BlackRock Staking = Massive Setup](https://www.youtube.com/watch?v=MhOmj6JSAgs)**
+
+Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to stay smart on crypto: ...
+
+📺 Milk Road
+
+👁️ 5K • 👍 173 • 💬 24 • ⏱️ 10:57 • 2d ago
+
+---
+
+**[🔴 Ethereum Is Finally Breaking Out – Next Target $3,000?](https://www.youtube.com/watch?v=EzqGrq9CQOo)**
+
+BloFin - No KYC/No VPN needed [Trade ETH Coin Futures!] https://marzell.org/Blofin_Trade CoinGPT ...
+
+📺 Marzell Crypto
+
+👁️ 729 • 👍 29 • 💬 89 • ⏱️ 5:01 • 1d ago
+
+---
+
+**[Bitcoin &amp; Ethereum Whales Are Buying Like It’s a Bull Market… The Signal Is Clear](https://www.youtube.com/watch?v=lX6XC7LPRYs)**
+
+Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to stay smart on crypto: ...
+
+📺 Milk Road
+
+👁️ 6K • 👍 204 • 💬 91 • ⏱️ 38:50 • 1d ago
 
 ---
 
@@ -281,53 +308,23 @@ Ethereum is down more than 50% from its all-time high, but the bigger concern ri
 
 ---
 
-**[Ethereum Supply Shock + BlackRock Staking = Massive Setup](https://www.youtube.com/watch?v=MhOmj6JSAgs)**
+**[Bitcoin &amp; Ethereum. Warum wir die hochs nochmal anpeilen und dann aufpassen sollten!!](https://www.youtube.com/watch?v=c59c-3HLZwQ)**
 
-Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to stay smart on crypto: ...
+Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zurück bis max 400 USDT) ...
 
-📺 Milk Road
+📺 Krypto Trading & Investing
 
-👁️ 5K • 👍 171 • 💬 24 • ⏱️ 10:57 • 2d ago
-
----
-
-**[Bitcoin &amp; Ethereum Whales Are Buying Like It’s a Bull Market… The Signal Is Clear](https://www.youtube.com/watch?v=lX6XC7LPRYs)**
-
-Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to stay smart on crypto: ...
-
-📺 Milk Road
-
-👁️ 6K • 👍 203 • 💬 91 • ⏱️ 38:50 • 1d ago
+👁️ 944 • 👍 278 • 💬 74 • ⏱️ 13:25 • 1h ago
 
 ---
 
-**[Ethereum Launches War-Proof Browser To Kill Chrome?🌐Freedom Browser INTERVIEW](https://www.youtube.com/watch?v=MkVhdstQvmE)**
+**[ETHEREUM ALERT !!!!](https://www.youtube.com/watch?v=TGcjfizAtl0)**
 
-Freedom is a minimalist browser for Swarm and IPFS. No centralized gateways. You connect directly to peers and become part of ...
+BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome 20% ...
 
-📺 Paul Barron Network
+📺 The Moon Show
 
-👁️ 60K • 👍 2K • 💬 252 • ⏱️ 18:02 • 2d ago
-
----
-
-**[ПРОИЗОЙДЁТ НЕВЕРОЯТНОЕ! ОБЗОР БИТКОИНА, ETHEREUM, CARDANO, NEAR PROTOCOL, AVALANCHE!](https://www.youtube.com/watch?v=ur2DPlgkYto)**
-
-Рынок продолжает расти, поэтому разберём текущую ситуацию на рынке и узнаем реально ли продолжение роста.
-
-📺 Kaito Trade
-
-👁️ 369 • 👍 33 • 💬 10 • ⏱️ 16:49 • 11h ago
-
----
-
-**[BITCOIN 75.000? y la ¡GRAN POLÉMICA de Ethereum…!](https://www.youtube.com/watch?v=_DOe03rtnKY)**
-
-BITCOIN vuelve a encender las alarmas ¿Vamos hacia los 75.000 o esto es solo otra trampa del mercado? En este vídeo ...
-
-📺 Rodrigo Arnedo Noticias Bitcoin
-
-👁️ 3K • 👍 336 • 💬 17 • ⏱️ 29:08 • 13h ago
+👁️ 13K • 👍 1K • 💬 73 • ⏱️ 8:32 • 1d ago
 
 ---
 
