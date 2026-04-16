@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-16T17:52:35.217117+00:00'
+updated: '2026-04-16T19:17:19.753253+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 16, 2026 at 17:52 UTC  
+**Last Updated:** April 16, 2026 at 19:17 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,19 @@ Robotics research and industry news
 
 From The Humanoid Hub on 𝕏: https://x.com/TheHumanoidHub/status/2044504579480686900
 
-9h ago
-
----
-
-**[I 3D-printed a capture point for my Capture the Base robot game](https://www.reddit.com/r/robotics/comments/1sn2ptz/i_3dprinted_a_capture_point_for_my_capture_the/)**
-
-4h ago
+10h ago
 
 ---
 
 **[Multi-Robot Synchronization Demo from ESTUN Robotics](https://www.reddit.com/r/robotics/comments/1sn9asg/multirobot_synchronization_demo_from_estun/)**
 
-58m ago
+2h ago
+
+---
+
+**[I 3D-printed a capture point for my Capture the Base robot game](https://www.reddit.com/r/robotics/comments/1sn2ptz/i_3dprinted_a_capture_point_for_my_capture_the/)**
+
+6h ago
 
 ---
 
@@ -56,7 +56,7 @@ From The Humanoid Hub on 𝕏: https://x.com/TheHumanoidHub/status/2044504579480
 
 Joining the existing D457 GMSL/FAKRA, we’re introducing GMSL support across three of our most widely used depth cameras: 📷D401 - Sub-millimeter precision for robotic arms and humanoids 📷D430 -High-accuracy depth sensing for mid-range robotics and AMRs 📷D415 - High-precision depth camera for spatial intelligence for factories
 
-2h ago
+3h ago
 
 ---
 
@@ -64,7 +64,7 @@ Joining the existing D457 GMSL/FAKRA, we’re introducing GMSL support across th
 
 Boston Dynamics is positioning Atlas for future deployment in industrial environments, with a focus on sectors like manufacturing and warehousing. The article explains that training the robot on a wide range of behaviors is contributing to improved overall capability, even when those behaviors are not directly tied to specific tasks. This reflects a broader trend in robotics where more varied data improves performance.
 
-🔗 [Automate](https://www.automate.org/robotics/industry-insights/balancing-work-and-play-with-boston-dynamics-atlas) • 18m ago
+🔗 [Automate](https://www.automate.org/robotics/industry-insights/balancing-work-and-play-with-boston-dynamics-atlas) • 1h ago
 
 ---
 
@@ -88,7 +88,7 @@ From Reflex Robotics on 𝕏: https://x.com/ReflexRobot/status/20441541141085432
 
 I have a question for everyone understanding TIA, UR-Robots and cameras. In my use case, there is a Camera (Wenglor vision sensor) that gives me back values for X, Y and RZ. I want to use these in Tia to communicate them to the robot in order to pick the object. A connection using Lan is not possible, therefor I use Rte. However, if I use Rte, the ur can't communicate with the camera and I have to use the plc as an translator, but the easiest way (URCap "detect object") isn't possible anymore. So now to the application: I have a robot thats supposed to find an object over the camera. After picking it up, it checks the object with another camera Programm for a code and stores the code. That part already works because I directly use the plc to cam. No robot involved. So there is two parts of the Programm, using the same camera. I already calibrated the robot to the camera. I get the return values X, Y and RZ and need to add them to the Robot base coordinate. Then I can hand over these values to the robot and pick the item. In theory the idea is simple, in reality it's really hard. Has anyone ever done something similar and can help me out? Or are there other ideas?
 
-2h ago
+3h ago
 
 ---
 
@@ -96,7 +96,7 @@ I have a question for everyone understanding TIA, UR-Robots and cameras. In my u
 
 Hello, I am implementing a full joint impedance controller on a factory robot arm (with feedforward coriolus, mass matrix, gravity comp, and friction comp). It works well, up to about 0.2 deg accuracy due to low gains (which I want) and static friction deadband. If I increase the coulomb friction compensation I introduce small high-frequency oscillations. My ideas to solve this are either some secondary low amplitude damping term that allows me to increase friction comp and damp out its oscillations, or add some clipped/gated integral term. I was wondering if anyone has chased steady state error to ~0.01 deg and if either of my above ideas are standard in industry. Note I really just care about decreasing the error of my sensed versus realized joint angles, and I am not too concerned with hardware tolerances/physical accuracy. I more so just want my realized joint values to be within 0.01deg of my commanded, and I don’t want to increase my P gain. Any advice as to what’s happening under the hood on these sub-mm controllers would be greatly appreciated.
 
-6h ago
+7h ago
 
 ---
 
@@ -104,7 +104,7 @@ Hello, I am implementing a full joint impedance controller on a factory robot ar
 
 Two days ago I visited an electronics store to buy a Cozmo robot for my nephew as a learning toy. I wanted something interactive and smart. But when I checked the robots I felt disappointed. Some looked cheap and some sensors seemed weak. I could not pick one confidently. I visited another store. Some robots were smart but costly. Some looked interactive but small. Some seemed perfect but battery seemed weak. I remembered buying a robot toy last week that stopped working quickly. That made me hesitate even more. To check more variety and options while scrolling many online marketplaces including alibaba I found many Cozmo robots. Some were smart and interactive. Some were simple and affordable. Some had extra programming features. Seeing all these options made me excited but also confused. Now I am thinking should I buy this Cozmo robot online for variety or check a store to feel the quality first? What would you do in my place?
 
-3h ago
+4h ago
 
 ---
 
@@ -124,15 +124,15 @@ Google DeepMind • 2d ago
 
 Google's AI enables robots to read gauges while inspecting industrial facilities.
 
-Ars Technica • 22h ago
+Ars Technica • 23h ago
 
 ---
 
-**[Gemini Robotics ER-1.6 enhances reasoning to help robots navigate real-world tasks.](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-1-6/)**
+**[Spot robot gets Gemini AI to boost real-world inspection tasks](https://interestingengineering.com/ai-robotics/spot-robot-gemini-ai-industrial-inspection)**
 
-An overview of Gemini Robotics-ER 1.6, an upgrade to our reasoning-first model that helps robots to understand their environment.
+Spot robot gets Gemini AI upgrade to detect hazards, read gauges, and perform tasks with improved reasoning.
 
-blog.google • 2d ago
+Interesting Engineering • 23h ago
 
 ---
 
@@ -140,15 +140,21 @@ blog.google • 2d ago
 
 Skild AI today announced the acquisition of Zebra Technologies' Robotics Automation business, including its Symmetry Fulfillment orchestration platform. This...
 
-Business Wire • 20h ago
+Business Wire • 21h ago
 
 ---
 
-**[This local teen will compete in the world's largest robotics competition!](https://www.yahoo.com/news/videos/local-teen-compete-worlds-largest-164800577.html)**
+**[Sounds from robotics competition mistaken for gunfire, no active shooter on FAMU campus](https://www.wctv.tv/2026/04/16/sounds-robotics-competition-mistaken-gunfire-no-active-shooter-famu-campus/)**
 
-A local teen has created an incredible healthcare device and is now preparing to take his invention to the world's largest robotics competition. Ashley is standing by to find out more about the device...
+Sounds from a robotics competition hosted on Florida A&M’s campus were mistaken for gunfire Wednesday afternoon.
 
-Yahoo • 1h ago
+WCTV • 1h ago
+
+---
+
+**[Grab Looks to AI Robots to Deliver Your Meal](https://www.wsj.com/tech/ai/grab-looks-to-ai-robots-to-deliver-your-meal-819caf01)**
+
+WSJ • 8h ago
 
 ---
 
@@ -160,19 +166,19 @@ Live Science • 1d ago
 
 ---
 
-**[Voracious demand for robotics training data is transforming gig work](https://www.businessinsider.com/robotics-ai-training-data-transforming-instawork-gig-work-platform-instacore-2026-4)**
-
-The race for robotics data is transforming gig work, as Instawork turns its workforce into a key engine for training AI-powered machines.
-
-Business Insider • 8h ago
-
----
-
 **[Russians will surrender to robots. Russian robots won’t.](https://www.defenseone.com/technology/2026/04/russians-will-surrender-robots-russian-robots-wont/412889/)**
 
 After a historic first, communications and navigation still obstruct the future for roboticized ground assault.
 
-Defense One • 15h ago
+Defense One • 16h ago
+
+---
+
+**[Voracious demand for robotics training data is transforming gig work](https://www.businessinsider.com/robotics-ai-training-data-transforming-instawork-gig-work-platform-instacore-2026-4)**
+
+The race for robotics data is transforming gig work, as Instawork turns its workforce into a key engine for training AI-powered machines.
+
+Business Insider • 10h ago
 
 ---
 
@@ -180,13 +186,7 @@ Defense One • 15h ago
 
 Summit High’s Chaos Theory robotics team is headed to the world championship after a standout season. Now it's working to raise funds to make the trip to Houston.
 
-Central Oregon Daily • 12h ago
-
----
-
-**[Cadence, Nvidia working together on developing AI for robotics](https://www.reuters.com/technology/cadence-nvidia-working-together-developing-ai-robotics-2026-04-15/)**
-
-Reuters • 20h ago
+Central Oregon Daily • 13h ago
 
 ---
 
@@ -210,7 +210,7 @@ President Zelenskyy says that for the first time ever, the Ukrainian army was ab
 
 📺 NBC News
 
-👁️ 309K • 👍 5K • 💬 1K • ⏱️ 3:12 • 17h ago
+👁️ 309K • 👍 5K • 💬 1K • ⏱️ 3:12 • 18h ago
 
 ---
 
@@ -250,7 +250,7 @@ Now this is a sight that wasn't on our Bingo card. A humanoid robot named Edward
 
 📺 Inside Edition
 
-👁️ 90K • 👍 3K • 💬 576 • ⏱️ 1:07 • 22h ago
+👁️ 90K • 👍 3K • 💬 576 • ⏱️ 1:07 • 23h ago
 
 ---
 
@@ -280,7 +280,7 @@ War Robots Gameplay: New Update Robot: VECTOR - how broken is it? My War Robots 
 
 📺 Manni-Gaming
 
-👁️ 4K • 👍 297 • 💬 61 • ⏱️ 20:12 • 5h ago
+👁️ 4K • 👍 297 • 💬 61 • ⏱️ 20:12 • 7h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-16T17:52:35.214205+00:00'
+updated: '2026-04-16T19:17:19.750443+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - cryptocurrency
 - news
-- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 16, 2026 at 17:52 UTC  
+**Last Updated:** April 16, 2026 at 19:17 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,324.99
+### $2,339.27
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.4%  
-**7d:** +3.6%  
-**30d:** +5.4%  
-**90d:** -29.8%  
-**1y:** +47.0%  
+**24h:** -1.2%  
+**7d:** +4.1%  
+**30d:** +5.9%  
+**90d:** -29.4%  
+**1y:** +47.7%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+14h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/73hHq2ua1ts?si=fwxBRn1_pW7xDziX) • 1h ago
+🔗 [youtu.be](https://youtu.be/73hHq2ua1ts?si=fwxBRn1_pW7xDziX) • 3h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 A fake Ledger Live clone sat on Apple's App Store for seven days and drained $9.5 million from 50 victims across Bitcoin, Ethereum, Solana, Tron and XRP. Apple's review process, which promises to protect users, let it through. Then removed it after the damage was done.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/fake-ledger-app-apple-app-store-9-million-drained/) • 1d ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/fake-ledger-app-apple-app-store-9-million-drained/) • 2d ago
 
 ---
 
@@ -104,7 +104,7 @@ A fake Ledger Live clone sat on Apple's App Store for seven days and drained $9.
 
 Man I was looking at some recent governance votes across a few protocols and the amount of obvious botting is just depressing at this point. it feels like every time we come up with a new sybil resistance mechanism, someone just spins up a better script to farm it and now with AI agents getting actually decent at mimicking random on-chain behavior and passing standard checks, it seems like pure software solutions are just dead in the water. I really hate the idea of forced traditional KYC for web3 stuff because it completely defeats the point of privacy and just builds another centralized honeypot. was reading this technical deep dive the other day about setting up a private Proof Of Human using ZK tech so you don't actually tie your daily wallet to your real identity. tbh it made me realize we might actually need some kind of hardware or biometric anchor if we want to keep things decentralized without getting completely overrun by server farms it just sucks that the ecosystem is moving in a direction where simply "proving you are a person" is becoming the hardest part of interacting with ethereum. Idk, curious how you guys think L2s are gonna handle this long term because the current meta of hoping for the best isn't working
 
-1d ago
+2d ago
 
 ---
 
@@ -154,7 +154,7 @@ I permanently lost $2,000 USD value trying to stake via direct contract interact
 
 Aave (AAVE), down 1.1% from Wednesday, was also an underperformer.
 
-CoinDesk • 43m ago
+CoinDesk • 2h ago
 
 ---
 
@@ -164,23 +164,19 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[ETH Rangers Program Recap](https://blog.ethereum.org/2026/04/16/eth-rangers-recap)**
+**[Charles Schwab begins rollout of spot bitcoin, ethereum trading platform](https://www.theblock.co/post/397756/charles-schwab-begins-rollout-spot-bitcoin-ethereum-trading-platform)**
 
-Ethereum Foundation Blog • 3h ago
+The new platform, called Schwab Crypto, will roll out over the coming weeks and will only support bitcoin and ethereum at first.
 
----
-
-**[Sui Media(@Newsalpha)'s insights](https://www.binance.com/en/square/post/313204146670962)**
-
-Binance • 1h ago
+The Block • 4h ago
 
 ---
 
-**[Charles Schwab To Launch Bitcoin And Ethereum Trading](https://finance.yahoo.com/markets/crypto/articles/charles-schwab-launch-bitcoin-ethereum-144200988.html)**
+**[Charles Schwab Weighs Prediction Markets Move as Bitcoin, Ethereum Trading Nears](https://decrypt.co/364617/charles-schwab-weighs-prediction-markets-bitcoin-ethereum-trading-nears)**
 
-Financial services company Charles Schwab (NYSE: $SCHW) is launching a new crypto trading platform as it seeks to b...
+Charles Schwab President and CEO Rick Wurster indicated that America’s largest discount brokerage will likely support prediction markets.
 
-Yahoo Finance • 3h ago
+Decrypt • 1h ago
 
 ---
 
@@ -188,7 +184,7 @@ Yahoo Finance • 3h ago
 
 Charles Schwab CEO Rick Wurster joins 'Money Movers' to discuss the company's latest earnings report, market themes, and more.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -196,7 +192,7 @@ CNBC • 1h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 5h ago
+Fortune • 6h ago
 
 ---
 
@@ -206,19 +202,27 @@ Barron's • 3d ago
 
 ---
 
-**[Ethereum Foundation launches $1 million crypto security subsidy, providing access to over 20 audit firms](https://www.theblock.co/post/397427/ethereum-foundation-launches-1-million-crypto-security-subsidy-providing-access-to-over-20-audit-firms)**
+**[Ethereum Retail Hands Still In Disbelief, Keep Selling Into Strength](https://www.tradingview.com/news/newsbtc:bacd05afb094b:0-ethereum-retail-hands-still-in-disbelief-keep-selling-into-strength/)**
 
-The EF tapped Areta's audit marketplace to provide access to over 20 security firms like Blocksec, Cetora, Hacken, Immunefi and Quantstamp.
+On-chain data shows the small Ethereum hands have sold into the latest price surge, a sign that retail traders don’t believe that the rally will last.Ethereum Retail Supply Has Seen A Notable Decline RecentlyAccording to data from on-chain analytics firm Santiment, the retail-sized Ethereum investo…
 
-The Block • 2d ago
+TradingView — Track All Markets • 11h ago
 
 ---
 
-**[Bitcoin Targets $80,000, Ethereum Eyes $2,700 and XRP Could Hit $1.55 Says Chart Analyst](https://www.tradingview.com/news/coinpedia:d2718fb33094b:0-bitcoin-targets-80-000-ethereum-eyes-2-700-and-xrp-could-hit-1-55-says-chart-analyst/)**
+**[Charles Schwab is launching direct bitcoin and ethereum trading](https://qz.com/charles-schwab-direct-bitcoin-ethereum-trading-041626)**
 
-Gareth Soloway, chief market strategist at Verified.com, laid out his latest price targets for Bitcoin, Ethereum and XRP this week.He said that Bitcoin has formed a micro bullish breakout on shorter timeframes while the bigger macro pattern remains bearish. Soloway has maintained an $80,000 upside…
+The brokerage, which manages more than $11 trillion in client assets, will charge a 0.75% fee per crypto trade
 
-TradingView — Track All Markets • 1d ago
+qz.com • 2h ago
+
+---
+
+**[XRP Outperforms Bitcoin, Ethereum, and Solana With a 4% Gain: Is the XRP Breakout Starting?](https://247wallst.com/investing/2026/04/16/xrp-outperforms-bitcoin-ethereum-and-solana-with-a-4-gain-is-the-xrp-breakout-starting/)**
+
+XRP climbed 4% to $1.41 on April 16, beating Bitcoin, Ethereum, and Solana. Is this the XRP breakout, or another fake-out at $1.45?
+
+24/7 Wall St. • 2h ago
 
 ---
 
@@ -232,7 +236,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 113 • 💬 7 • ⏱️ 8:23 • 6h ago
+👁️ 2K • 👍 113 • 💬 7 • ⏱️ 8:23 • 8h ago
 
 ---
 
@@ -242,7 +246,7 @@ Buy Ethereum? CRYPTO RETIREMENT ACCOUNT HERE Sign up for iTrustCapital and get a
 
 📺 Crypto Jebb
 
-👁️ 5K • 👍 251 • 💬 127 • ⏱️ 14:10 • 23h ago
+👁️ 5K • 👍 251 • 💬 127 • ⏱️ 14:10 • 1d ago
 
 ---
 
@@ -252,7 +256,7 @@ Ethereum is flashing a fractal that mirrors the November 2024 altcoin breakout, 
 
 📺 Crypto Capital Venture
 
-👁️ 3K • 👍 318 • 💬 114 • ⏱️ 11:01 • 3h ago
+👁️ 3K • 👍 318 • 💬 114 • ⏱️ 11:01 • 5h ago
 
 ---
 
@@ -262,7 +266,7 @@ Ethereum developer Joe Schiarizzi—ex-ConsenSys, Gitcoin, OpenSea, Solarpunk VC
 
 📺 Paul Barron Network
 
-👁️ 7K • 👍 644 • 💬 176 • ⏱️ 22:10 • 5h ago
+👁️ 7K • 👍 644 • 💬 176 • ⏱️ 22:10 • 6h ago
 
 ---
 
@@ -272,7 +276,7 @@ In this video, we break down the latest update on BMNR (Bitmine) and why the cur
 
 📺 BiGB Stcok
 
-👁️ 484 • 👍 40 • 💬 15 • ⏱️ 8:53 • 5h ago
+👁️ 484 • 👍 40 • 💬 15 • ⏱️ 8:53 • 6h ago
 
 ---
 
@@ -282,7 +286,7 @@ Ethereum is moving higher in a corrective bounce and approaching a major resista
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 315 • 💬 23 • ⏱️ 9:49 • 17h ago
+👁️ 4K • 👍 315 • 💬 23 • ⏱️ 9:49 • 18h ago
 
 ---
 
@@ -302,7 +306,7 @@ Michael Saylor's Ethereum view has changed. Bitcoin is digital capital. Ethereum
 
 📺 Bankless
 
-👁️ 4K • 👍 107 • 💬 68 • ⏱️ 1:17 • 19h ago
+👁️ 4K • 👍 107 • 💬 68 • ⏱️ 1:17 • 21h ago
 
 ---
 
@@ -322,7 +326,7 @@ URGENT $60000 Ethereum Incoming Despite Crypto Clarity Delay $120M flows to XRP!
 
 📺 CryptoWendyO
 
-👁️ 6K • 👍 435 • 💬 40 • ⏱️ 32:36 • 23h ago
+👁️ 6K • 👍 435 • 💬 40 • ⏱️ 32:36 • 1d ago
 
 ---
 

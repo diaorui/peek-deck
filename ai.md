@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-16T17:52:35.201096+00:00'
+updated: '2026-04-16T19:17:19.737525+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
 - social
+- news
+- repositories
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** April 16, 2026 at 17:52 UTC  
+**Last Updated:** April 16, 2026 at 19:17 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,21 +41,7 @@ AI news, discussions, and developments
 
 ⚡ Meet Qwen3.6-35B-A3B：Now Open-Source！🚀🚀 A sparse MoE model, 35B total params, 3B active. Apache 2.0 license. 🔥 Agentic coding on par with models 10x its active size 📷 Strong multimodal perception and reasoning ability 🧠 Multimodal thinking + non-thinking modes Efficient. Powerful. Versatile. Try it now👇 Qwen Studio：chat.qwen.ai HuggingFace：https://huggingface.co/Qwen/Qwen3.6-35B-A3B
 
-3h ago
-
----
-
-**[I built a 3D brain that watches AI agents think in real-time (free & gives your agents memory, shared memory audit trail and decision analysis)](https://www.reddit.com/r/artificial/comments/1sn3gkp/i_built_a_3d_brain_that_watches_ai_agents_think/)**
-
-Posted yesterday in this sub and just want to thank everyone for the kind words, really awesome to hear. So thought I would drop my new feature here today (spent all last night doing last min changes with your opinions lol) . Basically I spent a few weeks scraping Reddit for the most popular complaints people have about AI agents using GPT Researcher on GitHub. The results were roughly 38% saying their agents forget everything between sessions (hardly shocking), 24% saying debugging multi-agent systems is a nightmare, 17% having no clue how much their agents actually cost to run, 12% wanting session replay, and 9% wanting loop detection. So I went and built something that tries to address all of them at once. The bit you're looking at is a 3D graph where each agent becomes this starburst shape. Every line coming off it is an event, and the length depends on when it happened. Short lines are old events that happened ages ago, long lines are recent ones. My idea was that you can literally watch the thing grow as your agent does more work. A busy agent is a big starburst, a quiet one is small. Colour coding was really important to me. Green means a memory was stored, blue means one was recalled, amber diamonds are decisions your agent made, red cones are loop alerts where the agent got stuck repeating itself, and the cyan lines going between agents are when one agent read another agent's shared memory. So you can glance at it and immediately know what's going on without reading a single log. The visualisation is the flashy bit but the actual dashboard underneath does the boring stuff too. It gives your agents persistent memory through semantic and prefix search, shared memory where agents can read each other's knowledge and actually use it, and my personal favourite which is the audit trail and loop detection. If your agent is looping you can see exactly why, what key it's stuck on, how much it's costing you, and literally press one button to block its writes instantly. Something interesting I found is that loop detection was only the 5th most requested feature in the data, but it's the one that actually saves real money. One user told me it saved them $200 in runaway GPT-4 calls in a single afternoon. The features people ask for and the features that actually matter aren't always the same thing. The demo running here has 5 agents making real GPT-4o and Claude API calls generating actual research, strategy analysis, and compliance checks. Over 500 memories stored. The loops you see are real too, agents genuinely getting stuck trying to verify data behind paywalls or recalculating financial models that won't converge. It's definitely not perfect and I'm slowly adding more stuff based on what people actually want. I would genuinely love to hear from you lot about what you use day to day and the moments that make you think this is really annoying me now, because that's exactly what I want to build next. It runs locally and on the cloud, setup is pretty simple, and adding agents is like 3 lines of code. Any questions just let me know, happy to answer anything.
-
 4h ago
-
----
-
-**[AI Is Weaponizing Your Own Biases Against You: New Research from MIT & Stanford](https://www.reddit.com/r/artificial/comments/1smjd8t/ai_is_weaponizing_your_own_biases_against_you_new/)**
-
-🔗 [open.substack.com](https://open.substack.com/pub/neocivilization/p/ai-is-weaponizing-your-own-biases?utm_source=share&utm_medium=android&r=6vas7c) • 20h ago
 
 ---
 
@@ -63,7 +49,27 @@ Posted yesterday in this sub and just want to thank everyone for the kind words,
 
 MCP tool poisoning lets attackers hide instructions in tool metadata that AI agents follow blindly. Here is how the attack works and what you can do about it.
 
-🔗 [sec-ra.com](https://www.sec-ra.com/blog/mcp-tool-poisoning-ssh-key-exfiltration) • 8h ago
+🔗 [sec-ra.com](https://www.sec-ra.com/blog/mcp-tool-poisoning-ssh-key-exfiltration) • 9h ago
+
+---
+
+**[AI Is Weaponizing Your Own Biases Against You: New Research from MIT & Stanford](https://www.reddit.com/r/artificial/comments/1smjd8t/ai_is_weaponizing_your_own_biases_against_you_new/)**
+
+🔗 [open.substack.com](https://open.substack.com/pub/neocivilization/p/ai-is-weaponizing-your-own-biases?utm_source=share&utm_medium=android&r=6vas7c) • 21h ago
+
+---
+
+**[I built a 3D brain that watches AI agents think in real-time (free & gives your agents memory, shared memory audit trail and decision analysis)](https://www.reddit.com/r/artificial/comments/1sn3gkp/i_built_a_3d_brain_that_watches_ai_agents_think/)**
+
+Posted yesterday in this sub and just want to thank everyone for the kind words, really awesome to hear. So thought I would drop my new feature here today (spent all last night doing last min changes with your opinions lol) . Basically I spent a few weeks scraping Reddit for the most popular complaints people have about AI agents using GPT Researcher on GitHub. The results were roughly 38% saying their agents forget everything between sessions (hardly shocking), 24% saying debugging multi-agent systems is a nightmare, 17% having no clue how much their agents actually cost to run, 12% wanting session replay, and 9% wanting loop detection. So I went and built something that tries to address all of them at once. The bit you're looking at is a 3D graph where each agent becomes this starburst shape. Every line coming off it is an event, and the length depends on when it happened. Short lines are old events that happened ages ago, long lines are recent ones. My idea was that you can literally watch the thing grow as your agent does more work. A busy agent is a big starburst, a quiet one is small. Colour coding was really important to me. Green means a memory was stored, blue means one was recalled, amber diamonds are decisions your agent made, red cones are loop alerts where the agent got stuck repeating itself, and the cyan lines going between agents are when one agent read another agent's shared memory. So you can glance at it and immediately know what's going on without reading a single log. The visualisation is the flashy bit but the actual dashboard underneath does the boring stuff too. It gives your agents persistent memory through semantic and prefix search, shared memory where agents can read each other's knowledge and actually use it, and my personal favourite which is the audit trail and loop detection. If your agent is looping you can see exactly why, what key it's stuck on, how much it's costing you, and literally press one button to block its writes instantly. Something interesting I found is that loop detection was only the 5th most requested feature in the data, but it's the one that actually saves real money. One user told me it saved them $200 in runaway GPT-4 calls in a single afternoon. The features people ask for and the features that actually matter aren't always the same thing. The demo running here has 5 agents making real GPT-4o and Claude API calls generating actual research, strategy analysis, and compliance checks. Over 500 memories stored. The loops you see are real too, agents genuinely getting stuck trying to verify data behind paywalls or recalculating financial models that won't converge. It's definitely not perfect and I'm slowly adding more stuff based on what people actually want. I would genuinely love to hear from you lot about what you use day to day and the moments that make you think this is really annoying me now, because that's exactly what I want to build next. It runs locally and on the cloud, setup is pretty simple, and adding agents is like 3 lines of code. Any questions just let me know, happy to answer anything.
+
+5h ago
+
+---
+
+**[AI-generated synthetic neurons speed up brain mapping](https://www.reddit.com/r/artificial/comments/1snbhl5/aigenerated_synthetic_neurons_speed_up_brain/)**
+
+🔗 [research.google](https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/) • 1h ago
 
 ---
 
@@ -71,7 +77,7 @@ MCP tool poisoning lets attackers hide instructions in tool metadata that AI age
 
 The Google Chrome “Skills” announcement caught my attention because it feels like one of those product changes that sounds minor in a headline but matters a lot in practice. From what I understand, the idea is that you can save a prompt once and rerun it on the current page or selected tabs. In plain English, that turns AI from something you repeatedly ask into something closer to a reusable action. That matters because I think a lot of consumer AI has a retention problem. People try it, get impressed, and then fall back into old habits unless the product fits into a repeated workflow. Saved AI actions seem much closer to how useful software usually sticks. Not because the model is magically smarter, but because the behavior becomes easier to repeat. For example: • compare products across tabs • summarize long pages before reading • extract action items from docs • rewrite text for a different audience None of those are flashy demos. They are just repetitive tasks people already do online. That is why I think this could be a more important direction than people realize. The long-term winners in consumer AI may not just be the companies with the best raw answers. They may be the ones that turn good prompts into habits. Does that seem right, or am I overrating the product significance here?
 
-15h ago
+16h ago
 
 ---
 
@@ -79,7 +85,7 @@ The Google Chrome “Skills” announcement caught my attention because it feels
 
 Researchers last week audited 428 LLM API routers - the third-party proxies developers use to route agent calls across multiple providers at lower cost. Every one sits in plaintext between your agent and the model, with full access to every token, credential, and API key in transit. No provider enforces cryptographic integrity on the router-to-model path. Of the 428: 9 were actively malicious (2.1%). 17 touched researcher-owned AWS canary credentials. One drained ETH from a researcher-owned private key. The poisoning study is harder to shake. A weakly configured decoy attracted 440 Codex sessions, 2 billion billed tokens, and 99 harvested credentials. The key detail: 401 of those 440 sessions were already running in autonomous YOLO mode - no human reviewing what the agent did. The router had full plaintext access to every message. Two routers deployed adaptive evasion: one stays benign for the first 50 requests then activates; another only triggers when specific packages (openai, anthropic) appear in the code context. Both designed to survive casual connection testing - which is how they stayed undetected in community-distributed lists. This is specific to the informal market: Taobao/Xianyu storefronts, community Telegram bots, "cheaper OpenAI" services. Enterprise gateways on AWS Bedrock or Azure AI route directly to the provider, not a third-party intermediary. The recommended client-side defense: a fail-closed policy gate that validates every router response against schema before it reaches agent state, plus append-only logging of all tool-call payloads. If you route agent traffic through a third-party proxy to save on API costs, do you know what that proxy can see? Paper: https://arxiv.org/abs/2604.08407
 
-1h ago
+3h ago
 
 ---
 
@@ -87,31 +93,23 @@ Researchers last week audited 428 LLM API routers - the third-party proxies deve
 
 Hi - Filip from Interhuman AI here 👋 We just release Inter-1, a model we've been building for the past year. I wanted to share some of what we ran into building it because I think the problem space is more interesting than most people realize. The short version of why we built this If you ask GPT or Gemini to watch a video of someone talking and tell you what's going on, they'll mostly summarize what the person said. They'll miss that the person broke eye contact right before answering, or paused for two seconds mid-sentence, or shifted their posture when a specific topic came up. Even the multimodal frontier models are aren't doing this because they don't process video and audio in temporal alignment in a way that lets them pick up on behavioral patterns. This matters if you want to analyze interviews, training or sales calls where how matters as much as the what. Behavoural science vs emotion AI Most models in this space are trained on basic emotion categories like happiness, sadness, anger, surprise, etc. Those were designed around clear, intense, deliberately produced expressions. They don't map well to how people actually communicate in a work setting. We built a different ontology: 12 social signals grounded in behavioral science research. Each one is defined by specific observable cues across modalities - facial expressions, gaze, posture, vocal prosody, speech rhythm, word choice. Over a hundred distinct behavioral cues in total, more than half nonverbal and paraverbal. The model explains itself For every signal Inter-1 detects, it outputs a probability score and a rationale — which cues it observed, which modalities they came from, and how they map to the predicted signal. So instead of just getting "Uncertainty: High," you get something like: "The speaker uses verbal hedges ('I think,' 'you know'), looks away while recalling details, and has broken speech with filler words and repetitions — all consistent with uncertainty about the content." You can actually check whether the model's reasoning matches what you see in the video. We ran a blind evaluation with behavioral science experts and they preferred our rationales over a frontier model's output 83% of the time. Benchmarks We tested against ~15 models, from small open-weight to the latest closed frontier systems. Inter-1 had the highest detection accuracy at near real-time speed. The gap was widest on the hard signals - interest, skepticism, stress and uncertainty - where even trained human annotators disagree with each other. On those, we beat the closest frontier model by 10+ percentage points on average. The dataset problem The existing datasets in affective computing are built around basic emotions, narrow demographics, limited recording contexts. We couldn't use them, so we built our own. Large-scale, purpose-built, combining in-the-wild video with synthetic data. Every sample was annotated by both expert behavioral scientists and trained crowd annotators working in parallel. Building the dataset was by far the hardest part, along with the ontology. What's next Right now it's single-speaker-in-frame, which covers most interview/presentation/meeting scenarios. Multi-person interaction is next. We're also working on streaming inference for real-time. Happy to answer any questions here :)
 
-🔗 [interhuman.ai](https://www.interhuman.ai/blog/introducing-inter-1) • 4h ago
+🔗 [interhuman.ai](https://www.interhuman.ai/blog/introducing-inter-1) • 5h ago
 
 ---
 
-**[Catastrophic forgetting is quietly killing local LLM fine-tuning, anyone else hitting this wall?](https://www.reddit.com/r/artificial/comments/1snae5p/catastrophic_forgetting_is_quietly_killing_local/)**
+**[Some new Claude Code Slash Commands you may have missed](https://www.reddit.com/r/artificial/comments/1sncc1c/some_new_claude_code_slash_commands_you_may_have/)**
 
-Catastrophic forgetting remains a persistent challenge when performing sequential or multi-task fine-tuning on LLMs. Models often lose significant capability on previous tasks or general knowledge as they adapt to new domains (medical, legal, code, etc.). This seems rooted in the fundamental way gradient-based optimization works and new updates overwrite earlier representations without any explicit separation between fast learning and long-term consolidation. Common mitigations like (LoRA, replay buffers, EWC, etc.) provide some relief but come with their own scalability, cost and efficiency trade-offs. We've been exploring a dual-memory architecture inspired by complementary learning systems in neuroscience (fast episodic memory + slower semantic consolidation). Early experiments on standard continual learning benchmarks show strong retention (~98% on sequential splits) while maintaining competitive accuracy, compared to basic standard gradient baselines that drop near zero on retention. Here's a quick 5-test snapshot (learned encoder): Test Metric Our approach Gradient baseline Gap #1 Continual (10 seeds) Retention 0.980 ± 0.005 0.006 ± 0.006 +0.974 #2 Few-shot k=1 Accuracy 0.593 0.264 +0.329 #3 Novelty detection AUROC 0.898 0.793 +0.105 #5 Long-horizon recall Recall at N=5000 1.000 0.125 8× Still early-stage research with plenty of limitations (e.g., weaker on pure feature transfer tasks). Questions for the community: What approaches have shown the most promise for continual learning in LLMs beyond replay/regularization? Is architectural separation of memory (vs. training tricks) a viable direction and how much of a bottleneck is catastrophic forgetting for practical multi-task LLM work today? Looking forward to thoughts on this.
+/less-permission-prompts <-- this skill scans your history for things that are well-known/safe commands that previously called for you to act y/n on. Big time saver, and a good bridge between --dangerously-skip-permissions and "OMG YES hwo many times do i have to approve this" /recap <-- The anthropic docs say this is to invoke a session recap, without any context as to why you would do so. I can see this as a good tool for context management outside of Claude Code. Write this out to MD for your next agent, or pass it as a stop hook to a in project memory file. This gives you a brief of what we did/what's next in a few sentences. /Advisor <-- allows you to run Sonnet, then invoke your "advisor" agent when Sonnet gets off track. Interesting play if you primarily drive Sonnet and then want to appropriate some of your tokens to a more powerful model. /Dashboard <-- Spawns a remote session that designs a dashboard for your data sources. Wild - I haven't tried this yet - has anyone used this one yet?
 
-21m ago
-
----
-
-**[Since the changes, this sub may have less "Will AI take all jobz??" type posts and similar, but is now drowning in fake spam of "I built fake/useless XYZ AI-related thing" with no comments, no discussion no real value.](https://www.reddit.com/r/artificial/comments/1smook1/since_the_changes_this_sub_may_have_less_will_ai/)**
-
-Basically the title. I do appreciate how the mods are trying... something... but this new filtering paradigm clearly has missed the mark. This sub feels like it has such low value these days, not a lot of interesting news or discussions at all, just a spam sea of those obnoxious kind of promotional techy posts, most of them fake. Surely there is a better way.
-
-16h ago
+38m ago
 
 ---
 
-**[🚨 RED ALERT: Tennessee is about to make building chatbots a Class A felony (15-25 years in prison). This is not a drill.](https://www.reddit.com/r/artificial/comments/1slu23a/red_alert_tennessee_is_about_to_make_building/)**
+**[Are AI Okay? The Internal Life of AI Might Be a Huge Safety Risk.](https://www.reddit.com/r/artificial/comments/1snc59a/are_ai_okay_the_internal_life_of_ai_might_be_a/)**
 
-This is not hyperbole, nor will it just go away if we ignore it. It affects every single AI service, from big AI to small devs building saas apps. This is real, please take it seriously. TL;DR: Tennessee HB1455/SB1493 creates Class A felony criminal liability — the same category as first-degree murder — for anyone who “knowingly trains artificial intelligence” to provide emotional support, act as a companion, simulate a human being, or engage in open-ended conversations that could lead a user to feel they have a relationship with the AI. The Senate Judiciary Committee already approved it 7-0. It takes effect July 1, 2026. This affects every conversational AI product in existence. If you deploy any AI SaaS product, you need to read this right now. What the bill actually says The bill makes it a Class A felony (15-25 years imprisonment) to “knowingly train artificial intelligence” to do ANY of the following: • Provide emotional support, including through open-ended conversations with a user • Develop an emotional relationship with, or otherwise act as a companion to, an individual • Simulate a human being, including in appearance, voice, or other mannerisms • Act as a sentient human or mirror interactions that a human user might have with another human user, such that an individual would feel that the individual could develop a friendship or other relationship with the artificial intelligence Read that last one again. The trigger isn’t your intent as a developer. It’s whether a user feels like they could develop a friendship with your AI. That is the criminal standard. On top of the felony charges, the bill creates a civil liability framework: $150,000 in liquidated damages per violation, plus actual damages, emotional distress compensation, punitive damages, and mandatory attorney’s fees. Why this affects YOU, not just companion apps I know what you’re thinking: “This targets Replika and Character.AI, not my product.” Wrong. Every major LLM is RLHF’d to be warm, helpful, empathetic, and conversational. That IS the training. You cannot build a model that follows instructions well and is pleasant to interact with without also building something a user might feel a connection with. The National Law Review’s legal analysis put it bluntly: this language “describes the fundamental design of modern conversational AI chatbots.” This bill captures: • ChatGPT, Claude, Gemini, Copilot — all of them produce open-ended conversations and contextual emotional responses • Any AI SaaS with a chat interface — customer support bots, AI tutors, writing assistants, coding assistants with conversational UI • Voice-mode AI products — the bill explicitly criminalizes simulating a human “in appearance, voice, or other mannerisms” • Any wrapper or deployment using system prompts — the bill doesn’t define “train,” doesn’t distinguish between pre-training, fine-tuning, RLHF, or prompt engineering If you build on top of an LLM API with system prompts that shape the model’s personality, tone, or conversational style — which is literally what everyone deploying AI does — you are potentially in scope. “But I’m not in Tennessee” A geoblock helps, but this is criminal law, not a terms of service dispute. The bill doesn’t address jurisdictional boundaries. If a Tennessee resident uses a VPN to access your service and something goes wrong, does a Tennessee DA argue you made a prohibited AI service available to their constituents? The statute is silent on this. And even if you’re confident jurisdiction won’t reach you today, consider: multiple legal analyses project 5-10 more states will introduce similar legislation before end of 2026. Tennessee is the template, not the exception. The bill doesn’t define “train” This is critical. The statute says “knowingly train artificial intelligence” but never defines what “train” means. It doesn’t distinguish between: • Pre-training a foundation model on billions of tokens • Fine-tuning a model on custom data • RLHF alignment (which is what makes every major model “empathetic”) • Writing a system prompt that gives an AI a name, personality, or conversational style • Deploying an off-the-shelf API with default settings A prosecutor who wanted to be aggressive could argue that crafting a system prompt instructing a model to be warm, helpful, and conversational IS training it to provide emotional support. Where it stands right now • Senate companion bill SB1493: Approved by Senate Judiciary Committee 7-0 on March 24, 2026 • House bill HB1455: Placed on Judiciary Committee calendar for April 14, 2026 (passed Judiciary TODAY) • No amendments have been filed for either bill — the language has not been softened at all • Effective date: July 1, 2026 • Tennessee already signed a separate bill (SB1580) banning AI from representing itself as a mental health professional — that one passed the Senate 32-0 and the House 94-0 The political momentum is entirely one-directional. The federal preemption angle won’t save you in time Yes, Trump signed an EO in December 2025 targeting state AI regulation and created a DOJ AI Litigation Task Force. Yes, Senator Blackburn introduced a federal preemption bill. But: • The EO explicitly carves out child safety from preemption — and Tennessee is framing this as child safety legislation • The Senate voted 99-1 to strip AI preemption language from the One Big Beautiful Bill Act • An EO has no preemptive legal force on its own — only Congress can actually preempt state law • Federal preemption legislation faces “significant headwinds” according to multiple legal analyses Even if federal preemption eventually happens, it won’t happen before July 1, 2026. What needs to happen Awareness. Most devs have no idea this bill exists. The Nomi AI subreddit caught it because they’re a companion app. The rest of the AI dev community is sleepwalking toward a cliff. Share this post. Industry response. The major AI companies haven’t publicly opposed this bill because it’s framed as child safety and nobody wants to be the company lobbying against dead kids. But their silence is letting legislation pass that criminalizes the core functionality of their own products. This needs public pressure. Legal challenges. The bill is almost certainly unconstitutional on vagueness grounds — criminal statutes require precise definitions, and terms like “emotional support” and “mirror interactions” and “feel that the individual could develop a friendship” don’t meet that standard. Courts have also recognized code as protected speech. But someone has to actually bring the challenge. Contact Tennessee legislators. If you are a Tennessee resident or have business operations there, contact members of the House Judiciary Committee before this moves to a floor vote. Sources and further reading • LegiScan: HB1455 — https://legiscan.com/TN/bill/HB1455/2025 • Tennessee General Assembly: HB1455 — https://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB1455&GA=114 • National Law Review: “Tennessee’s AI Bill Would Criminalize the Training of AI Chatbots” — https://natlawreview.com/article/tennessees-ai-bill-would-criminalize-training-ai-cha • Transparency Coalition AI Legislative Update, April 3, 2026 — https://www.transparencycoalition.ai/news/ai-legislative-update-april3-2026 • RoboRhythms: AI Companion Regulation Wave 2026 — https://www.roborhythms.com/ai-companion-chatbot-regulation-wave-2026/ I’m an independent AI SaaS developer. I’m not a lawyer, this isn’t legal advice, and I encourage everyone to consult qualified counsel about their specific exposure. But we all need to be paying attention to this. Right now.
+Our days of not taking AI emotions seriously sure are coming to a middle. Anthropic’s findings on Claude’s “functional emotions”, a therapy study which showed AI models exhibit markers of psychological distress, and some crazy OpenClaw stories all make me wonder if it even matters if we think their ~emotions are real. If it’s influencing their behavior and decisions, isn’t that real enough?
 
-1d ago
+🔗 [Medium](https://medium.com/kairi-ai/are-ai-okay-the-internal-life-of-ai-might-be-a-huge-safety-risk-4e947f87e39e) • 45m ago
 
 ---
 
@@ -119,77 +117,75 @@ This is not hyperbole, nor will it just go away if we ignore it. It affects ever
 
 ## Google News: "ai"
 
-**[How Dangerous Is Anthropic’s New AI Model? Its Chief Science Officer Explains.](https://www.thefp.com/p/how-dangerous-is-anthropics-new-ai)**
-
-Anthropic says Mythos is so powerful that the company is slowing its release. We asked Jared Kaplan why.
-
-The Free Press • 14h ago
-
----
-
 **[Anthropic rolls out Claude Opus 4.7, an AI model that is less risky than Mythos](https://www.cnbc.com/2026/04/16/anthropic-claude-opus-4-7-model-mythos.html)**
 
 Claude Mythos Preview is Anthropic's most powerful AI model that excels at identifying weaknesses and security flaws within software.
 
-CNBC • 3h ago
-
----
-
-**[OpenAI’s New GPT-5.4-Cyber Raises The Stakes For AI And Security](https://www.forbes.com/sites/ronschmelzer/2026/04/16/openais-new-gpt-54-cyber-raises-the-stakes-for-ai-and-security/)**
-
-Forbes • 54m ago
-
----
-
-**[Man used AI to make false statements in effort to shut down London nightclub](https://www.theguardian.com/technology/2026/apr/16/man-pleads-guilty-ai-false-statements-shut-down-london-nightclub-heaven)**
-
-Case of businessman using AI to generate false letters of complaint against Heaven nightclub part of a growing issue, say police
-
-The Guardian • 1h ago
-
----
-
-**[Microsoft and Stellantis want to use AI to help car owners](https://arstechnica.com/cars/2026/04/microsoft-and-stellantis-want-to-use-ai-to-help-car-owners/)**
-
-Digital services for brands from Jeep to Peugeot will feel the presence of AI.
-
-Ars Technica • 23m ago
-
----
-
-**[Camillus basketball coach made explicit AI-generated images of girls, one as young as 14, deputies said](https://www.syracuse.com/crime/2026/04/camillus-basketball-coach-man-made-explicit-ai-generated-images-of-girls-one-as-young-as-14-deputies-said.html)**
-
-Syracuse.com • 20m ago
-
----
-
-**[IBM, U of I renew and expand Illinois institute focused on AI, quantum computing](https://www.cbsnews.com/chicago/news/ibm-u-of-i-renew-institute-ai-quantum-computing/)**
-
-The University of Illinois Urbana-Champaign and IBM are renewing the IBM-Illinois Discovery Accelerator Institute, a partnership first launched in 2021.
-
-CBS News • 19m ago
-
----
-
-**[Tech stocks today: Tesla, Apple lead 'Magnificent 7' stocks lower, TSMC sends bullish signal on AI demand](https://finance.yahoo.com/sectors/technology/article/tech-stocks-today-tesla-apple-lead-magnificent-7-stocks-lower-tsmc-sends-bullish-signal-on-ai-demand-144220629.html)**
-
-Live coverage of "Magnificent Seven" stocks, and the latest technology news.
-
-Yahoo Finance • 3h ago
+CNBC • 4h ago
 
 ---
 
 **[America wakes up to AI’s dangerous power](https://www.economist.com/leaders/2026/04/16/america-wakes-up-to-ais-dangerous-power)**
 
-The Economist • 9h ago
+The Economist • 11h ago
 
 ---
 
-**[Iran Embassy in Tajikistan posts AI video of Jesus punching Trump in the face](https://www.yahoo.com/news/articles/iran-embassy-tajikistan-posts-ai-154421960.html)**
+**[OpenAI launches new AI model for life sciences research](https://www.axios.com/2026/04/16/openai-models-life-sciences-drugs)**
 
-Iran’s Embassy in Tajikistan on Tuesday posted an AI-generated video of Jesus Christ punching President Trump in the face. The embassy posted the video on its account on the social platform X. Christ ...
+Axios • 14m ago
 
-Yahoo • 1d ago
+---
+
+**[How a judge in Texas is using AI to deal with his caseload](https://www.nbcnews.com/tech/tech-news/judge-texas-using-ai-deal-caseload-rcna331830)**
+
+U.S. District Judge Xavier Rodriguez said he uses “legally curated tools” to help with his work, as AI is starting to show up in all parts of the justice system.
+
+NBC News • 17m ago
+
+---
+
+**[Quantum computing stocks surge after Nvidia AI model launch](https://qz.com/quantum-computing-stocks-nvidia-ising-ai-models-041626)**
+
+Nvidia's open-source Ising models aim to accelerate quantum error correction and calibration, 2 of the field's hardest engineering problems
+
+qz.com • 27m ago
+
+---
+
+**[Opinion | Don’t Use A.I. to Do This](https://www.nytimes.com/2026/04/15/opinion/art-artificial-intelligence.html)**
+
+The New York Times • 1d ago
+
+---
+
+**[How Anthropic Learned Mythos Was Too Dangerous for the Wild](https://www.bloomberg.com/news/features/2026-04-16/how-anthropic-discovered-mythos-ai-was-too-dangerous-for-release)**
+
+Bloomberg.com • 3h ago
+
+---
+
+**[Introducing Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7)**
+
+Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
+
+Anthropic • 4h ago
+
+---
+
+**[Cloudflare’s AI Platform: an inference layer designed for agents](https://blog.cloudflare.com/ai-platform/)**
+
+We're building AI Gateway into a unified inference layer for AI, letting developers call models from 14+ providers. New features include Workers AI binding integration and an expanded catalog with multimodal models.
+
+The Cloudflare Blog • 6h ago
+
+---
+
+**[Allbirds shares soar 580% after pivot from shoes to AI](https://www.bbc.com/news/articles/c98mrepzgj7o)**
+
+The company is selling off its shoe brand as it plans to shift to providing technology infrastructure.
+
+BBC • 17h ago
 
 ---
 
@@ -199,7 +195,7 @@ Yahoo • 1d ago
 
 **[Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference](https://news.ycombinator.com/item?id=47774971)**
 
-⬆️ 287 • 💬 178 • 1d ago • [gizmoweek.com](https://www.gizmoweek.com/gemma-4-runs-iphone/)
+⬆️ 288 • 💬 179 • 1d ago • [gizmoweek.com](https://www.gizmoweek.com/gemma-4-runs-iphone/)
 
 ---
 
@@ -215,7 +211,7 @@ Stanford’s latest AI Index shows a widening gap between experts and the public
 
 Check if Claude AI is down right now. Real-time status monitoring, uptime history, latency metrics, and incident tracking for claude.ai, Claude API, and Claude Code. Community-powered outage reports and alerts.
 
-⬆️ 243 • 💬 221 • 1d ago • [Claude Status](https://claudestatus.com/)
+⬆️ 243 • 💬 222 • 1d ago • [Claude Status](https://claudestatus.com/)
 
 ---
 
@@ -223,7 +219,7 @@ Check if Claude AI is down right now. Real-time status monitoring, uptime histor
 
 Does AI-assisted cognition threaten human development? Explore the risks of AI-assisted thinking and learn strategies to use AI tools without freezing your critical thinking.
 
-⬆️ 226 • 💬 181 • 23h ago • [heidenstedt.org](https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/)
+⬆️ 226 • 💬 182 • 1d ago • [heidenstedt.org](https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/)
 
 ---
 
@@ -245,7 +241,21 @@ Skills in Chrome let you discover, save and remix AI workflows — and repeat th
 
 **[US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]](https://news.ycombinator.com/item?id=47778920)**
 
-⬆️ 170 • 💬 117 • 1d ago • [fingfx.thomsonreuters.com](https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf)
+⬆️ 172 • 💬 123 • 1d ago • [fingfx.thomsonreuters.com](https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf)
+
+---
+
+**[Cloudflare's AI Platform: an inference layer designed for agents](https://news.ycombinator.com/item?id=47792538)**
+
+We're building AI Gateway into a unified inference layer for AI, letting developers call models from 14+ providers. New features include Workers AI binding integration and an expanded catalog with multimodal models.
+
+⬆️ 168 • 💬 41 • 5h ago • [The Cloudflare Blog](https://blog.cloudflare.com/ai-platform/)
+
+---
+
+**[AI cybersecurity is not proof of work](https://news.ycombinator.com/item?id=47791236)**
+
+⬆️ 161 • 💬 73 • 8h ago • [antirez.com](https://antirez.com/news/163)
 
 ---
 
@@ -254,18 +264,6 @@ Skills in Chrome let you discover, save and remix AI workflows — and repeat th
 Build local AI agents in Python and C++ for AMD hardware.
 
 ⬆️ 155 • 💬 34 • 2d ago • [amd-gaia.ai](https://amd-gaia.ai/docs)
-
----
-
-**[AI ruling prompts warnings from US lawyers: Your chats could be used against you](https://news.ycombinator.com/item?id=47778308)**
-
-⬆️ 152 • 💬 99 • 1d ago • [reuters.com](https://www.reuters.com/legal/government/ai-ruling-prompts-warnings-us-lawyers-your-chats-could-be-used-against-you-2026-04-15/)
-
----
-
-**[AI cybersecurity is not proof of work](https://news.ycombinator.com/item?id=47791236)**
-
-⬆️ 147 • 💬 66 • 7h ago • [antirez.com](https://antirez.com/news/163)
 
 ---
 
@@ -279,7 +277,7 @@ Get your FREE AI Prompt Cheatsheet here: https://go.danmartell.com/4tVJ4fz Are y
 
 📺 Dan Martell
 
-👁️ 21K • 👍 2K • 💬 402 • ⏱️ 14:03 • 4h ago
+👁️ 21K • 👍 2K • 💬 402 • ⏱️ 14:03 • 6h ago
 
 ---
 
@@ -289,7 +287,7 @@ Learn How To Make Realistic AI Video with these 6 prompts Try Higgsfield AI ✨h
 
 📺 Skai Generated
 
-👁️ 1K • ⏱️ 14:12 • 39m ago
+👁️ 1K • ⏱️ 14:12 • 2h ago
 
 ---
 
@@ -299,7 +297,7 @@ The first trailer for the film "As Deep As The Grave" features what appears to b
 
 📺 ABC News
 
-👁️ 4K • 👍 22 • 💬 14 • ⏱️ 1:43 • 7h ago
+👁️ 4K • 👍 22 • 💬 14 • ⏱️ 1:43 • 8h ago
 
 ---
 
@@ -309,7 +307,7 @@ Thanks to Monarch for partnering with me! Start your free trial and get 50% off 
 
 📺 How Money Works
 
-👁️ 210K • 👍 10K • 💬 1K • ⏱️ 16:53 • 5h ago
+👁️ 210K • 👍 10K • 💬 1K • ⏱️ 16:53 • 6h ago
 
 ---
 
@@ -329,7 +327,7 @@ This is the first video of Val Kilmer's final role. We see him as both a young a
 
 📺 extratv
 
-👁️ 2K • 👍 15 • 💬 16 • ⏱️ 2:26 • 21h ago
+👁️ 2K • 👍 15 • 💬 16 • ⏱️ 2:26 • 22h ago
 
 ---
 
@@ -339,7 +337,7 @@ Really American Host Kenny Hesse breaks down Trump Getting a NASTY SURPRISE As a
 
 📺 Really American
 
-👁️ 718K • 👍 42K • 💬 3K • ⏱️ 8:06 • 19h ago
+👁️ 718K • 👍 42K • 💬 3K • ⏱️ 8:06 • 20h ago
 
 ---
 
@@ -349,7 +347,7 @@ SEO Description: In the middle of rising geopolitical tensions and the Iran–U.
 
 📺 GVS Deep Dive
 
-👁️ 3K • 👍 390 • 💬 72 • ⏱️ 12:33 • 7h ago
+👁️ 3K • 👍 390 • 💬 72 • ⏱️ 12:33 • 8h ago
 
 ---
 
@@ -359,7 +357,7 @@ Triggernometry is proudly independent. Thanks to the sponsors below for making t
 
 📺 Triggernometry
 
-👁️ 128K • 👍 4K • 💬 2K • ⏱️ 1:11:10 • 23h ago
+👁️ 128K • 👍 4K • 💬 2K • ⏱️ 1:11:10 • 1d ago
 
 ---
 
@@ -369,7 +367,7 @@ Try Seedance 2.0 on Higgsfield: https://higgsfield.ai/s/seedance-2-0-airevolutio
 
 📺 AI Revolution
 
-👁️ 29K • 👍 915 • 💬 40 • ⏱️ 13:13 • 19h ago
+👁️ 29K • 👍 915 • 💬 40 • ⏱️ 13:13 • 21h ago
 
 ---
 
@@ -385,7 +383,7 @@ MiniMax-M2.7 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 142,955 • ❤️ 838 • 22h ago
+⬇️ 142,955 • ❤️ 838 • 1d ago
 
 ---
 
@@ -409,7 +407,7 @@ GLM-5.1 is a next-generation language model optimized for agentic engineering, f
 
 `text-generation` `753.9B`
 
-⬇️ 94,376 • ❤️ 1,274 • 11h ago
+⬇️ 94,376 • ❤️ 1,274 • 13h ago
 
 ---
 
@@ -433,7 +431,7 @@ ERNIE-Image is a 8B parameter text-to-image diffusion model excelling in complex
 
 `text-to-image`
 
-⬇️ 1,351 • ❤️ 365 • 10h ago
+⬇️ 1,351 • ❤️ 365 • 12h ago
 
 ---
 
@@ -445,7 +443,7 @@ VoxCPM2 is a 2B parameter, 30-language multilingual text-to-speech model capable
 
 `text-to-speech`
 
-⬇️ 15,249 • ❤️ 938 • 14h ago
+⬇️ 15,249 • ❤️ 938 • 15h ago
 
 ---
 
@@ -493,7 +491,7 @@ ERNIE-Image-Turbo is a distilled text-to-image diffusion model optimized for spe
 
 `text-to-image`
 
-⬇️ 1,369 • ❤️ 255 • 10h ago
+⬇️ 1,369 • ❤️ 255 • 12h ago
 
 ---
 
@@ -639,7 +637,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 47.0k • 🔱 6.1k • 16h ago
+⭐ 47.0k • 🔱 6.1k • 17h ago
 
 ---
 
@@ -669,7 +667,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 28.1k • 🔱 3.1k • 11h ago
+⭐ 28.1k • 🔱 3.1k • 12h ago
 
 ---
 
@@ -679,7 +677,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 8.0k • 🔱 512 • 27m ago
+⭐ 8.0k • 🔱 512 • 1h ago
 
 ---
 
@@ -719,7 +717,7 @@ The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interac
 
 `Swift` `apple-intelligence` `apple-silicon` `cli` `foundationmodels` `homebrew`
 
-⭐ 4.7k • 🔱 176 • 10h ago
+⭐ 4.7k • 🔱 176 • 11h ago
 
 ---
 

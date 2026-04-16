@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-16T17:52:35.208883+00:00'
+updated: '2026-04-16T19:17:19.745191+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - cryptocurrency
 - news
-- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 16, 2026 at 17:52 UTC  
+**Last Updated:** April 16, 2026 at 19:17 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $74,315.27
+### $74,847.88
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** +0.0%  
-**7d:** +2.0%  
-**30d:** +4.4%  
-**90d:** -21.8%  
-**1y:** -12.4%  
+**7d:** +2.6%  
+**30d:** +5.1%  
+**90d:** -21.3%  
+**1y:** -11.9%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[After putting your bitcoin in cold storage](https://www.reddit.com/r/Bitcoin/comments/1sn37ok/after_putting_your_bitcoin_in_cold_storage/)**
 
-4h ago
+6h ago
 
 ---
 
@@ -87,13 +87,19 @@ Rank #1
 
 This was proposed for some time, getting more attention currently. I'm personally not a fan of freezing any coins, just trying to inform the masses. Hopefully u/statoshi will join us and explain the options. https://github.com/bitcoin/bips/blob/master/bip-0361.mediawiki There's an alternative proposal called Hourglass, introduced recently. https://github.com/cryptoquick/bips/blob/hourglass/bip-hourglass.mediawiki Adam Back advocated for optional quantum-resistant Bitcoin upgrades at Paris Blockchain Week on Wednesday, not sure about the details. https://decrypt.co/364562/adam-back-pushes-for-optional-upgrades-to-quantum-proof-bitcoin Tagging u/adam3us too.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/bitcoin-developers-propose-quantum-plan) • 5h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/bitcoin-developers-propose-quantum-plan) • 6h ago
+
+---
+
+**[Revealed](https://www.reddit.com/r/Bitcoin/comments/1sn3jb2/revealed/)**
+
+5h ago
 
 ---
 
 **[Popular Chinese commentator 'Professor Jiang' claims Bitcoin is a "CIA operation." Do you believe that?](https://www.reddit.com/r/Bitcoin/comments/1smpmuh/popular_chinese_commentator_professor_jiang/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -101,25 +107,27 @@ This was proposed for some time, getting more attention currently. I'm personall
 
 Answer: KRIPTO EXPERT AND PROFESSOR
 
-4h ago
-
----
-
-**[Revealed](https://www.reddit.com/r/Bitcoin/comments/1sn3jb2/revealed/)**
-
-4h ago
+6h ago
 
 ---
 
 **[Time in the market > timing the market](https://www.reddit.com/r/Bitcoin/comments/1sn33pt/time_in_the_market_timing_the_market/)**
 
-4h ago
+6h ago
 
 ---
 
 **[Bitcoin and the rise of cypherpunks](https://www.reddit.com/r/Bitcoin/comments/1sn6dt6/bitcoin_and_the_rise_of_cypherpunks/)**
 
-2h ago
+4h ago
+
+---
+
+**[the largest publicly traded brokerage firm in the US just announced spot bitcoin trading for its 35+ million retail clients](https://www.reddit.com/r/Bitcoin/comments/1sn7hpz/the_largest_publicly_traded_brokerage_firm_in_the/)**
+
+Charles Schwab is beginning to roll out access to spot bitcoin in the coming weeks to their clients. I thought this part of their press release was funny "Schwab is already a leader in digital assets" Schwab offering bitcoin services isn't a surprise given the drumbeat of institutional adoption first BlackRock launches a bitcoin ETF and Jane Street becomes one of its largest buyers Morgan Stanley files for a bitcoin ETF Goldman Sachs discloses a $1.1 billion BTC position Abu Dhabi sovereign funds are accumulating Harvard makes bitcoin its largest public allocation Bitcoin price is still down ~40% and the conversation has shifted to the war and AI, but don't sleep on bitcoin because the infrastructure is being built to broaden the education and access to the asset class and there are only 21 million
+
+3h ago
 
 ---
 
@@ -127,23 +135,13 @@ Answer: KRIPTO EXPERT AND PROFESSOR
 
 Curious to get honest feedback from the community. Hypothetical: imagine you could buy bitcoin via a after tax deduction from your paycheck. Does not flow through your bank account. Direct buy for bitcoin, any amount, post tax, optional. If your company offered this, would this be something youd do? If fees were less than standard exchange rates? Same?
 
-3h ago
+4h ago
 
 ---
 
-**[Bitcoin maxi](https://www.reddit.com/r/Bitcoin/comments/1smmzu0/bitcoin_maxi/)**
+**[Them: $6,506 a second / Me: down $164 and still calling it a setup](https://www.reddit.com/r/Bitcoin/comments/1snccqn/them_6506_a_second_me_down_164_and_still_calling/)**
 
-Highly considering selling 100K worth of my global equity ETF in my TFSA and going all in Bitcoin ETF, someone convince me not to or I’m going in
-
-18h ago
-
----
-
-**[Whales loading up and retail on sidelines](https://www.reddit.com/r/Bitcoin/comments/1smpu5n/whales_loading_up_and_retail_on_sidelines/)**
-
-All ur favorite YouTubers telling u we’re gonna go lower yet check the whale buys, all time high rn. Retail is just waiting for a bottom. U think the price is going to everyone’s target? Being on the sidelines is one thing but those of u shorting will get rekt. Especially those with leverage lol good luck. 3 green candles on the weekly, moon time Buy now or regret missing the pump
-
-16h ago
+37m ago
 
 ---
 
@@ -155,53 +153,55 @@ All ur favorite YouTubers telling u we’re gonna go lower yet check the whale b
 
 Charles Schwab is rolling out crypto trading, allowing clients to buy bitcoin and ether through a new arm called Schwab Crypto.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
-**[Goldman’s Bitcoin ETF Push Signals Wall Street Taming of Crypto](https://www.bloomberg.com/news/articles/2026-04-15/goldman-s-bitcoin-etf-push-signals-wall-street-taming-of-crypto)**
+**[Charles Schwab begins rollout of spot bitcoin, ethereum trading platform](https://www.theblock.co/post/397756/charles-schwab-begins-rollout-spot-bitcoin-ethereum-trading-platform)**
 
-Bloomberg.com • 1d ago
+The new platform, called Schwab Crypto, will roll out over the coming weeks and will only support bitcoin and ethereum at first.
 
----
-
-**[The cheapest bitcoin ETF yet: Morgan Stanley uses 0.14% fee to draw $100 million in first week](https://www.coindesk.com/markets/2026/04/16/morgan-stanley-s-bitcoin-etf-reaches-usd100m-in-first-week-marking-the-bank-s-strongest-launch)**
-
-Morgan Stanley’s new MSBT fund has quickly attracted over $100 million by offering the market's lowest fees, sparking a fresh wave of competition from rivals like Goldman Sachs.
-
-CoinDesk • 8h ago
+The Block • 4h ago
 
 ---
 
-**[Morgan Stanley's bitcoin ETF hits $100M in week one](https://www.coindesk.com/video/morgan-stanleys-bitcoin-etf-hits-100m-in-week-one)**
+**[Charles Schwab Announces Details of Spot Crypto Trading Launch](https://pressroom.aboutschwab.com/press-releases/press-release/2026/Charles-Schwab-Announces-Details-of-Spot-Crypto-Trading-Launch/default.aspx)**
 
-Morgan Stanley's spot bitcoin ETF pulled in $100 million in its first week, making it the firm's most successful ETF launch ever. CoinDesk's Jennifer Sanasie hosts "CoinDesk Daily." | CoinDesk Videos
+Retail clients will have access to Schwab Crypto™ alongside the research, education, service and comprehensive investing, trading, wealth, and banking offers they already enjoy at Schwab Charles Schwab today announced Schwab Crypto™, a spot crypto trading offer that will begin a phased rollout to retail clients in the coming weeks. Schwab Crypto will provide direct access to bitcoin and ethereum trading, combined with educational content and experienced professional support all at a great value.
 
-CoinDesk • 49m ago
-
----
-
-**[XRP Outperforms Bitcoin, Ethereum, and Solana With a 4% Gain: Is the XRP Breakout Starting?](https://finance.yahoo.com/markets/crypto/articles/xrp-outperforms-bitcoin-ethereum-solana-163608207.html)**
-
-XRP (CRYPTO: XRP) is up 4% to $1.41, outperforming Bitcoin, Ethereum, and Solana in a single session—the first time in weeks the token has led the market. The move is being driven by Rakuten Wallet listing XRP yesterday and the SEC’s crypto roundtable happening today, with institutional money moving in behind both catalysts. The only ... XRP Outperforms Bitcoin, Ethereum, and Solana With a 4% Gain: Is the XRP Breakout Starting?
-
-Yahoo Finance • 1h ago
+About Schwab • 5h ago
 
 ---
 
-**[Cardano's Charles Hoskinson says Bitcoin's quantum fix is a hard fork that can't save Satoshi's coins](https://www.coindesk.com/tech/2026/04/16/cardano-s-hoskinson-says-bitcoin-s-quantum-fix-is-a-hard-fork-that-can-t-save-satoshi-s-coins)**
+**[Bitcoin price news: BTC slides after failing at key resistance levels](https://www.coindesk.com/markets/2026/04/16/bitcoin-slides-back-below-usd74-000-as-breakout-to-higher-levels-fails-again)**
 
-The Cardano founder argues BIP-361 is mislabeled as a soft fork and that its zero-knowledge recovery plan cannot rescue roughly 1.7 million pre-2013 bitcoin, including Satoshi's holdings.
+The $75,000-$76,000 range has proven to be stiff resistance as bitcoin attempts to claw back this year's losses.
 
-CoinDesk • 1h ago
+CoinDesk • 4h ago
 
 ---
 
-**[Charles Schwab CEO on launching bitcoin, ethereum trading](https://www.cnbc.com/video/2026/04/16/charles-schwab-ceo-on-launching-bitcoin-ethereum-trading.html)**
+**[G. Love Says He Was Scammed Out of More Than $400K Because of ‘Malicious’ App: ‘Let It Serve as a Warning’](https://www.billboard.com/music/music-news/g-love-loses-retirement-fund-bitcoin-scam-1236224422/)**
 
-Charles Schwab CEO Rick Wurster joins 'Money Movers' to discuss the company's latest earnings report, market themes, and more.
+G. Love lost hist retirement fund in an alleged bitcoin scam, the musician shared on social media.
 
-CNBC • 1h ago
+Billboard • 1h ago
+
+---
+
+**[Bitcoin Scholars Fund Launches With $21 Million Goal to Bring Bitcoin Education to K–12 Schools](https://bitcoinmagazine.com/news/bitcoin-scholars-fund-launches)**
+
+Bitcoin Scholars Fund aims to redirect $21 million in federal tax credits into K–12 Bitcoin education, offering donors a “net cost $0” way to fund curricula.
+
+Bitcoin Magazine • 4m ago
+
+---
+
+**[Adding bitcoin alongside gold to your portfolio juiced returns and didn't raise risk, study shows](https://www.cnbc.com/2026/04/16/adding-bitcoin-alongside-gold-to-your-portfolio-juiced-returns-and-didnt-raise-risk-study-shows.html)**
+
+A mix of both gold and bitcoin increased the efficiency of a bond-and-equity portfolio over the last 10 years, according to a study by Citi.
+
+CNBC • 45m ago
 
 ---
 
@@ -209,21 +209,19 @@ CNBC • 1h ago
 
 Resignation announced of Jai Patel, whose liquidated crypto firm was relaunched as Stack BTC this year
 
-The Guardian • 9h ago
+The Guardian • 11h ago
 
 ---
 
 **[Former Fed Chair Issues Shock ‘Hyperinflation’ U.S. Dollar Warning—Fueling Huge Bitcoin Price Predictions](https://www.forbes.com/sites/digital-assets/2026/04/16/former-fed-chair-issues-shock-hyperinflation-us-dollar-warning-fueling-huge-bitcoin-price-predictions/)**
 
-Forbes • 4h ago
+Forbes • 5h ago
 
 ---
 
-**[Bitcoin rally is taking a breather near $75,000. Onchain data shows why](https://www.coindesk.com/markets/2026/04/16/bitcoin-rally-is-taking-a-breather-near-usd75-000-onchain-data-shows-why)**
+**[Goldman’s Bitcoin ETF Push Signals Wall Street Taming of Crypto](https://www.bloomberg.com/news/articles/2026-04-15/goldman-s-bitcoin-etf-push-signals-wall-street-taming-of-crypto)**
 
-BTC is up 10% for the month, but the bull run has stalled near $75,000 in the past 48 hours. Here's why.
-
-CoinDesk • 12h ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -259,7 +257,7 @@ A three-part deep dive into quantum computing's actual threat to Bitcoin. 17 res
 
 The Blockstream CEO’s approach contrasts with BIP-361, a proposal that would implement mandatory freezes of quantum-vulnerable Bitcoin.
 
-⬆️ 4 • 💬 1 • 5h ago • [Decrypt](https://decrypt.co/364562/adam-back-pushes-for-optional-upgrades-to-quantum-proof-bitcoin)
+⬆️ 4 • 💬 1 • 6h ago • [Decrypt](https://decrypt.co/364562/adam-back-pushes-for-optional-upgrades-to-quantum-proof-bitcoin)
 
 ---
 
@@ -317,7 +315,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Com
 
 📺 Altcoin Daily
 
-👁️ 36K • 👍 2K • 💬 122 • ⏱️ 14:13 • 15h ago
+👁️ 36K • 👍 2K • 💬 122 • ⏱️ 14:13 • 17h ago
 
 ---
 
@@ -327,7 +325,7 @@ Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FR
 
 📺 CryptosRUs
 
-👁️ 10K • 👍 725 • 💬 15 • ⏱️ 44:22 • 3h ago
+👁️ 10K • 👍 725 • 💬 15 • ⏱️ 44:22 • 4h ago
 
 ---
 
@@ -347,7 +345,7 @@ As cryptocurrency continues to embed itself in American politics, Jon is joined 
 
 📺 The Weekly Show with Jon Stewart
 
-👁️ 95K • 👍 3K • 💬 668 • ⏱️ 1:35:48 • 22h ago
+👁️ 95K • 👍 3K • 💬 668 • ⏱️ 1:35:48 • 23h ago
 
 ---
 
@@ -367,7 +365,7 @@ Bitcoin just entered a new phase and most people still don't see it. Massive ins
 
 📺 Simply Bitcoin
 
-👁️ 30K • 👍 2K • 💬 176 • ⏱️ 16:45 • 20h ago
+👁️ 30K • 👍 2K • 💬 176 • ⏱️ 16:45 • 21h ago
 
 ---
 
@@ -377,7 +375,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 6K • 👍 454 • 💬 64 • ⏱️ 12:52 • 6h ago
+👁️ 6K • 👍 454 • 💬 64 • ⏱️ 12:52 • 8h ago
 
 ---
 
@@ -397,7 +395,7 @@ Despite peace talks falling apart this weekend, cryptocurrency punters don't see
 
 📺 Paul Barron Network
 
-👁️ 40K • 👍 2K • 💬 163 • ⏱️ 15:24 • 22h ago
+👁️ 40K • 👍 2K • 💬 163 • ⏱️ 15:24 • 23h ago
 
 ---
 
