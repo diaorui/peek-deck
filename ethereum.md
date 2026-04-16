@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-16T16:05:16.457206+00:00'
+updated: '2026-04-16T17:52:35.214205+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
-- videos
 - cryptocurrency
+- news
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 16, 2026 at 16:05 UTC  
+**Last Updated:** April 16, 2026 at 17:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,341.32
+### $2,324.99
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.3%  
-**7d:** +4.3%  
-**30d:** +6.2%  
-**90d:** -29.3%  
-**1y:** +48.1%  
+**24h:** -1.4%  
+**7d:** +3.6%  
+**30d:** +5.4%  
+**90d:** -29.8%  
+**1y:** +47.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $278.19B
+**Market Cap:** $280.81B
 Rank #2
 
 **Circulating Supply:** 120,690,932 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--53.5%
+-52.9%
 
 **All-Time Low:** $0.43
-+531584.0%
++537598.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/73hHq2ua1ts?si=fwxBRn1_pW7xDziX) • 5m ago
+🔗 [youtu.be](https://youtu.be/73hHq2ua1ts?si=fwxBRn1_pW7xDziX) • 1h ago
 
 ---
 
@@ -142,7 +142,7 @@ I built a CLI tool in rust called LaunchDex that deploys a full DEX--factory con
 
 I permanently lost $2,000 USD value trying to stake via direct contract interaction on Aerodrome. The CLGauge contract accepts safeTransferFrom via the onERC721Received hook but silently fails to update the staking state, creating a black hole for assets. I’m sharing this to warn other developers and integrators building on top of Aerodrome (Base chain), and hopefully get the attention of the Core Team or the Emergency Council, since standard Discord support just gave me the "contracts are immutable" playbook. Recently, I performed a safeTransferFrom (as a fallback to approve and deposit) directly to the Aerodrome Gauge (0x83e2E9493996651ed63033d81f5052cBE2fEB6A1). The transaction was mathematically and technically successful on-chain because the Gauge contract explicitly implements the IERC721Receiver interface. However, this is where the integration trap lies: While the contract gladly accepted physical custody of my NFT position, it completely failed to trigger the internal logic to update the _stakes mapping and the rewardGrowth snapshots. The Reality: By exposing the receiver hook without the corresponding push-based deposit logic, Aerodrome's contract signals false compatibility. It creates a critical state mismatch: the Gauge owns the NFT, but my wallet is no longer recognized as the owner, meaning I can neither call deposit() nor withdraw(). Has any other developer encountered this problem?
 
-3d ago
+4d ago
 
 ---
 
@@ -150,33 +150,45 @@ I permanently lost $2,000 USD value trying to stake via direct contract interact
 
 ## Google News: "ethereum"
 
+**[CoinDesk 20 performance update: Ethereum (ETH) price drops 1.3% as index trades lower](https://www.coindesk.com/coindesk-indices/2026/04/16/coindesk-20-performance-update-ethereum-eth-price-drops-1-3-as-index-trades-lower)**
+
+Aave (AAVE), down 1.1% from Wednesday, was also an underperformer.
+
+CoinDesk • 43m ago
+
+---
+
 **[Bitmine Reports $3.8 Billion Loss As Ethereum Sinks](https://finance.yahoo.com/news/bitmine-reports-3-8-billion-125000138.html)**
 
 Yahoo Finance • 1d ago
 
 ---
 
-**[Ripple CEO Brad Garlinghouse Bets Big on XRP Flipping Ethereum](https://coinpaper.com/16228/ripple-ceo-brad-garlinghouse-bets-big-on-xrp-flipping-ethereum)**
+**[ETH Rangers Program Recap](https://blog.ethereum.org/2026/04/16/eth-rangers-recap)**
 
-Ripple CEO Brad Garlinghouse says XRP could challenge Ethereum for the #2 crypto spot, driven by real-world cross-border payment utility.
-
-Coinpaper • 2d ago
+Ethereum Foundation Blog • 3h ago
 
 ---
 
-**[Charles Schwab to launch direct bitcoin, ethereum trading to compete with Robinhood](https://www.cnbc.com/2026/04/16/charles-schwab-to-launch-direct-bitcoin-ethereum-trading-to-compete-with-robinhood.html)**
+**[Sui Media(@Newsalpha)'s insights](https://www.binance.com/en/square/post/313204146670962)**
 
-Charles Schwab is rolling out crypto trading, allowing clients to buy bitcoin and ether through a new arm called Schwab Crypto.
-
-CNBC • 2h ago
+Binance • 1h ago
 
 ---
 
-**[CoinDesk 20 performance update: Ethereum (ETH) price drops 1.3% as index trades lower](https://www.coindesk.com/coindesk-indices/2026/04/16/coindesk-20-performance-update-ethereum-eth-price-drops-1-3-as-index-trades-lower)**
+**[Charles Schwab To Launch Bitcoin And Ethereum Trading](https://finance.yahoo.com/markets/crypto/articles/charles-schwab-launch-bitcoin-ethereum-144200988.html)**
 
-Aave (AAVE), down 1.1% from Wednesday, was also an underperformer.
+Financial services company Charles Schwab (NYSE: $SCHW) is launching a new crypto trading platform as it seeks to b...
 
-CoinDesk • 2h ago
+Yahoo Finance • 3h ago
+
+---
+
+**[Charles Schwab CEO on launching bitcoin, ethereum trading](https://www.cnbc.com/video/2026/04/16/charles-schwab-ceo-on-launching-bitcoin-ethereum-trading.html)**
+
+Charles Schwab CEO Rick Wurster joins 'Money Movers' to discuss the company's latest earnings report, market themes, and more.
+
+CNBC • 1h ago
 
 ---
 
@@ -184,15 +196,7 @@ CoinDesk • 2h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 3h ago
-
----
-
-**[Ethereum Foundation launches $1 million crypto security subsidy, providing access to over 20 audit firms](https://www.theblock.co/post/397427/ethereum-foundation-launches-1-million-crypto-security-subsidy-providing-access-to-over-20-audit-firms)**
-
-The EF tapped Areta's audit marketplace to provide access to over 20 security firms like Blocksec, Cetora, Hacken, Immunefi and Quantstamp.
-
-The Block • 1d ago
+Fortune • 5h ago
 
 ---
 
@@ -202,17 +206,11 @@ Barron's • 3d ago
 
 ---
 
-**[Ethereum Crypto Open Interest Just Hit $34 Billion in 24 Hours: Is a Breakout or a Liquidation Ca...](https://www.binance.com/en/square/post/313163514724225)**
+**[Ethereum Foundation launches $1 million crypto security subsidy, providing access to over 20 audit firms](https://www.theblock.co/post/397427/ethereum-foundation-launches-1-million-crypto-security-subsidy-providing-access-to-over-20-audit-firms)**
 
-Binance • 2h ago
+The EF tapped Areta's audit marketplace to provide access to over 20 security firms like Blocksec, Cetora, Hacken, Immunefi and Quantstamp.
 
----
-
-**[Charles Schwab is launching direct bitcoin and ethereum trading](https://qz.com/charles-schwab-direct-bitcoin-ethereum-trading-041626)**
-
-The brokerage, which manages more than $11 trillion in client assets, will charge a 0.75% fee per crypto trade
-
-qz.com • 45m ago
+The Block • 2d ago
 
 ---
 
@@ -234,7 +232,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 765 • 👍 80 • 💬 5 • ⏱️ 8:23 • 4h ago
+👁️ 2K • 👍 113 • 💬 7 • ⏱️ 8:23 • 6h ago
 
 ---
 
@@ -244,17 +242,17 @@ Buy Ethereum? CRYPTO RETIREMENT ACCOUNT HERE Sign up for iTrustCapital and get a
 
 📺 Crypto Jebb
 
-👁️ 5K • 👍 245 • 💬 129 • ⏱️ 14:10 • 22h ago
+👁️ 5K • 👍 251 • 💬 127 • ⏱️ 14:10 • 23h ago
 
 ---
 
-**[I Can&#39;t Believe They Actually Did This Bitcoin And Ethereum Won&#39;t Be The Same Cardano Just Did THIS](https://www.youtube.com/watch?v=NpB7OcPjS0s)**
+**[Insane Ethereum Fractal: Ignite Altcoins Or Trap Bulls...](https://www.youtube.com/watch?v=MM9bTgBSVrQ)**
 
-Being in crypto right now feels like being in some elaborate fever dream. Bitcoin and Ethereum should be at LEAST double in ...
+Ethereum is flashing a fractal that mirrors the November 2024 altcoin breakout, and the setup is showing up across Cardano, Sui, ...
 
-📺 The Modern Investor
+📺 Crypto Capital Venture
 
-👁️ 4K • 👍 618 • 💬 127 • ⏱️ 29:17 • 6h ago
+👁️ 3K • 👍 318 • 💬 114 • ⏱️ 11:01 • 3h ago
 
 ---
 
@@ -264,7 +262,17 @@ Ethereum developer Joe Schiarizzi—ex-ConsenSys, Gitcoin, OpenSea, Solarpunk VC
 
 📺 Paul Barron Network
 
-👁️ 2K • 👍 338 • 💬 85 • ⏱️ 22:10 • 3h ago
+👁️ 7K • 👍 644 • 💬 176 • ⏱️ 22:10 • 5h ago
+
+---
+
+**[Smart Money Is Accumulating ETH, But bitmine (BMNR) Is Different](https://www.youtube.com/watch?v=NCWeLlzcTfY)**
+
+In this video, we break down the latest update on BMNR (Bitmine) and why the current situation is far more complex than it ...
+
+📺 BiGB Stcok
+
+👁️ 484 • 👍 40 • 💬 15 • ⏱️ 8:53 • 5h ago
 
 ---
 
@@ -274,7 +282,17 @@ Ethereum is moving higher in a corrective bounce and approaching a major resista
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 306 • 💬 20 • ⏱️ 9:49 • 15h ago
+👁️ 4K • 👍 315 • 💬 23 • ⏱️ 9:49 • 17h ago
+
+---
+
+**[Ethereum Is About To Make A VERY Important Decision](https://www.youtube.com/watch?v=ONDvSJKWo9c)**
+
+Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ Deposit from $100: Get a 1% bonus ✔️ Withdraw anytime ...
+
+📺 Tyler Hill Crypto
+
+👁️ 5K • 👍 262 • 💬 113 • ⏱️ 11:55 • 1d ago
 
 ---
 
@@ -284,7 +302,7 @@ Michael Saylor's Ethereum view has changed. Bitcoin is digital capital. Ethereum
 
 📺 Bankless
 
-👁️ 3K • 👍 99 • 💬 32 • ⏱️ 1:17 • 18h ago
+👁️ 4K • 👍 107 • 💬 68 • ⏱️ 1:17 • 19h ago
 
 ---
 
@@ -294,7 +312,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 240 • 💬 13 • ⏱️ 14:46 • 23h ago
+👁️ 5K • 👍 245 • 💬 14 • ⏱️ 14:46 • 1d ago
 
 ---
 
@@ -304,27 +322,7 @@ URGENT $60000 Ethereum Incoming Despite Crypto Clarity Delay $120M flows to XRP!
 
 📺 CryptoWendyO
 
-👁️ 6K • 👍 427 • 💬 40 • ⏱️ 32:36 • 21h ago
-
----
-
-**[Ethereum’s Wall Street Moment Is Here | Raoul Pal the Journey Man](https://www.youtube.com/watch?v=855YrRfkyIc)**
-
-Raoul welcomes Vivek Raman, Co-Founder and CEO of Etherealize, and Danny Ryan, Co-Founder and President at Etherealize, ...
-
-📺 Raoul Pal The Journey Man
-
-👁️ 515 • 👍 43 • 💬 3 • ⏱️ 1:11:56 • 3h ago
-
----
-
-**[If You Hold Altcoins You NEED To Watch This Closely.](https://www.youtube.com/watch?v=ONDvSJKWo9c)**
-
-Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ Deposit from $100: Get a 1% bonus ✔️ Withdraw anytime ...
-
-📺 Tyler Hill Crypto
-
-👁️ 5K • 👍 257 • 💬 124 • ⏱️ 11:55 • 1d ago
+👁️ 6K • 👍 435 • 💬 40 • ⏱️ 32:36 • 23h ago
 
 ---
 
