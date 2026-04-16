@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-16T19:17:19.750443+00:00'
+updated: '2026-04-16T20:09:52.106743+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - news
+- social
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 16, 2026 at 19:17 UTC  
+**Last Updated:** April 16, 2026 at 20:09 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $280.81B
+**Market Cap:** $284.55B
 Rank #2
 
 **Circulating Supply:** 120,690,932 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--52.9%
+-52.3%
 
 **All-Time Low:** $0.43
-+537598.1%
++544222.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/73hHq2ua1ts?si=fwxBRn1_pW7xDziX) • 3h ago
+🔗 [youtu.be](https://youtu.be/73hHq2ua1ts?si=fwxBRn1_pW7xDziX) • 4h ago
 
 ---
 
@@ -154,7 +154,7 @@ I permanently lost $2,000 USD value trying to stake via direct contract interact
 
 Aave (AAVE), down 1.1% from Wednesday, was also an underperformer.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -168,7 +168,7 @@ Yahoo Finance • 1d ago
 
 The new platform, called Schwab Crypto, will roll out over the coming weeks and will only support bitcoin and ethereum at first.
 
-The Block • 4h ago
+The Block • 5h ago
 
 ---
 
@@ -176,7 +176,7 @@ The Block • 4h ago
 
 Charles Schwab President and CEO Rick Wurster indicated that America’s largest discount brokerage will likely support prediction markets.
 
-Decrypt • 1h ago
+Decrypt • 2h ago
 
 ---
 
@@ -184,7 +184,7 @@ Decrypt • 1h ago
 
 Charles Schwab CEO Rick Wurster joins 'Money Movers' to discuss the company's latest earnings report, market themes, and more.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
@@ -192,7 +192,7 @@ CNBC • 2h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 6h ago
+Fortune • 7h ago
 
 ---
 
@@ -206,7 +206,7 @@ Barron's • 3d ago
 
 On-chain data shows the small Ethereum hands have sold into the latest price surge, a sign that retail traders don’t believe that the rally will last.Ethereum Retail Supply Has Seen A Notable Decline RecentlyAccording to data from on-chain analytics firm Santiment, the retail-sized Ethereum investo…
 
-TradingView — Track All Markets • 11h ago
+TradingView — Track All Markets • 12h ago
 
 ---
 
@@ -214,7 +214,7 @@ TradingView — Track All Markets • 11h ago
 
 The brokerage, which manages more than $11 trillion in client assets, will charge a 0.75% fee per crypto trade
 
-qz.com • 2h ago
+qz.com • 3h ago
 
 ---
 
@@ -222,7 +222,7 @@ qz.com • 2h ago
 
 XRP climbed 4% to $1.41 on April 16, beating Bitcoin, Ethereum, and Solana. Is this the XRP breakout, or another fake-out at $1.45?
 
-24/7 Wall St. • 2h ago
+24/7 Wall St. • 3h ago
 
 ---
 
@@ -236,27 +236,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 113 • 💬 7 • ⏱️ 8:23 • 8h ago
-
----
-
-**[This Ethereum Analysis Says BUY BEFORE IT&#39;S TOO LATE! Ethereum Technical Analysis 2026](https://www.youtube.com/watch?v=jgUZRil56eA)**
-
-Buy Ethereum? CRYPTO RETIREMENT ACCOUNT HERE Sign up for iTrustCapital and get a $100 funding bonus after ...
-
-📺 Crypto Jebb
-
-👁️ 5K • 👍 251 • 💬 127 • ⏱️ 14:10 • 1d ago
-
----
-
-**[Insane Ethereum Fractal: Ignite Altcoins Or Trap Bulls...](https://www.youtube.com/watch?v=MM9bTgBSVrQ)**
-
-Ethereum is flashing a fractal that mirrors the November 2024 altcoin breakout, and the setup is showing up across Cardano, Sui, ...
-
-📺 Crypto Capital Venture
-
-👁️ 3K • 👍 318 • 💬 114 • ⏱️ 11:01 • 5h ago
+👁️ 2K • 👍 121 • 💬 11 • ⏱️ 8:23 • 8h ago
 
 ---
 
@@ -266,27 +246,17 @@ Ethereum developer Joe Schiarizzi—ex-ConsenSys, Gitcoin, OpenSea, Solarpunk VC
 
 📺 Paul Barron Network
 
-👁️ 7K • 👍 644 • 💬 176 • ⏱️ 22:10 • 6h ago
+👁️ 9K • 👍 755 • 💬 195 • ⏱️ 22:10 • 7h ago
 
 ---
 
-**[Smart Money Is Accumulating ETH, But bitmine (BMNR) Is Different](https://www.youtube.com/watch?v=NCWeLlzcTfY)**
+**[Insane Ethereum Fractal: Ignite Altcoins Or Trap Bulls...](https://www.youtube.com/watch?v=MM9bTgBSVrQ)**
 
-In this video, we break down the latest update on BMNR (Bitmine) and why the current situation is far more complex than it ...
+Ethereum is flashing a fractal that mirrors the November 2024 altcoin breakout, and the setup is showing up across Cardano, Sui, ...
 
-📺 BiGB Stcok
+📺 Crypto Capital Venture
 
-👁️ 484 • 👍 40 • 💬 15 • ⏱️ 8:53 • 6h ago
-
----
-
-**[Ethereum Analysis: How High Can This Bounce Actually Go?](https://www.youtube.com/watch?v=2Vs2aLFcCWY)**
-
-Ethereum is moving higher in a corrective bounce and approaching a major resistance cluster. In this video I walk through the ...
-
-📺 More Crypto Online
-
-👁️ 4K • 👍 315 • 💬 23 • ⏱️ 9:49 • 18h ago
+👁️ 5K • 👍 405 • 💬 50 • ⏱️ 11:01 • 6h ago
 
 ---
 
@@ -296,7 +266,37 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 5K • 👍 262 • 💬 113 • ⏱️ 11:55 • 1d ago
+👁️ 5K • 👍 261 • 💬 113 • ⏱️ 11:55 • 1d ago
+
+---
+
+**[Ethereum’s Wall Street Moment Is Here | Raoul Pal the Journey Man](https://www.youtube.com/watch?v=855YrRfkyIc)**
+
+Raoul welcomes Vivek Raman, Co-Founder and CEO of Etherealize, and Danny Ryan, Co-Founder and President at Etherealize, ...
+
+📺 Raoul Pal The Journey Man
+
+👁️ 2K • 👍 143 • 💬 4 • ⏱️ 1:11:56 • 7h ago
+
+---
+
+**[Ethereum Analysis: How High Can This Bounce Actually Go?](https://www.youtube.com/watch?v=2Vs2aLFcCWY)**
+
+Ethereum is moving higher in a corrective bounce and approaching a major resistance cluster. In this video I walk through the ...
+
+📺 More Crypto Online
+
+👁️ 5K • 👍 319 • 💬 23 • ⏱️ 9:49 • 19h ago
+
+---
+
+**[Smart Money Is Accumulating ETH, But bitmine (BMNR) Is Different](https://www.youtube.com/watch?v=NCWeLlzcTfY)**
+
+In this video, we break down the latest update on BMNR (Bitmine) and why the current situation is far more complex than it ...
+
+📺 BiGB Stcok
+
+👁️ 830 • 👍 45 • 💬 15 • ⏱️ 8:53 • 7h ago
 
 ---
 
@@ -306,7 +306,7 @@ Michael Saylor's Ethereum view has changed. Bitcoin is digital capital. Ethereum
 
 📺 Bankless
 
-👁️ 4K • 👍 107 • 💬 68 • ⏱️ 1:17 • 21h ago
+👁️ 5K • 👍 110 • 💬 41 • ⏱️ 1:17 • 22h ago
 
 ---
 
@@ -316,17 +316,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 245 • 💬 14 • ⏱️ 14:46 • 1d ago
+👁️ 5K • 👍 247 • 💬 14 • ⏱️ 14:46 • 1d ago
 
 ---
 
-**[URGENT $60,000 Ethereum Incoming Despite Crypto Clarity Delay $120M flows to XRP!](https://www.youtube.com/watch?v=jFuYQZuHFgw)**
+**[This Ethereum Analysis Says BUY BEFORE IT&#39;S TOO LATE! Ethereum Technical Analysis 2026](https://www.youtube.com/watch?v=jgUZRil56eA)**
 
-URGENT $60000 Ethereum Incoming Despite Crypto Clarity Delay $120M flows to XRP! ether.fi (Partner) ...
+Buy Ethereum? CRYPTO RETIREMENT ACCOUNT HERE Sign up for iTrustCapital and get a $100 funding bonus after ...
 
-📺 CryptoWendyO
+📺 Crypto Jebb
 
-👁️ 6K • 👍 435 • 💬 40 • ⏱️ 32:36 • 1d ago
+👁️ 5K • 👍 254 • 💬 127 • ⏱️ 14:10 • 1d ago
 
 ---
 

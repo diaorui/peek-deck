@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-16T19:17:19.745191+00:00'
+updated: '2026-04-16T20:09:52.100784+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - news
+- social
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 16, 2026 at 19:17 UTC  
+**Last Updated:** April 16, 2026 at 20:09 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1489.62B
+**Market Cap:** $1507.64B
 Rank #1
 
-**Circulating Supply:** 20,016,718 BTC
+**Circulating Supply:** 20,016,781 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--41.0%
+-40.3%
 
 **All-Time Low:** $67.81
-+109644.9%
++110945.6%
 
 ---
 
@@ -87,19 +87,19 @@ Rank #1
 
 This was proposed for some time, getting more attention currently. I'm personally not a fan of freezing any coins, just trying to inform the masses. Hopefully u/statoshi will join us and explain the options. https://github.com/bitcoin/bips/blob/master/bip-0361.mediawiki There's an alternative proposal called Hourglass, introduced recently. https://github.com/cryptoquick/bips/blob/hourglass/bip-hourglass.mediawiki Adam Back advocated for optional quantum-resistant Bitcoin upgrades at Paris Blockchain Week on Wednesday, not sure about the details. https://decrypt.co/364562/adam-back-pushes-for-optional-upgrades-to-quantum-proof-bitcoin Tagging u/adam3us too.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/bitcoin-developers-propose-quantum-plan) • 6h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/bitcoin-developers-propose-quantum-plan) • 7h ago
 
 ---
 
 **[Revealed](https://www.reddit.com/r/Bitcoin/comments/1sn3jb2/revealed/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Popular Chinese commentator 'Professor Jiang' claims Bitcoin is a "CIA operation." Do you believe that?](https://www.reddit.com/r/Bitcoin/comments/1smpmuh/popular_chinese_commentator_professor_jiang/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -107,7 +107,7 @@ This was proposed for some time, getting more attention currently. I'm personall
 
 Answer: KRIPTO EXPERT AND PROFESSOR
 
-6h ago
+7h ago
 
 ---
 
@@ -127,7 +127,7 @@ Answer: KRIPTO EXPERT AND PROFESSOR
 
 Charles Schwab is beginning to roll out access to spot bitcoin in the coming weeks to their clients. I thought this part of their press release was funny "Schwab is already a leader in digital assets" Schwab offering bitcoin services isn't a surprise given the drumbeat of institutional adoption first BlackRock launches a bitcoin ETF and Jane Street becomes one of its largest buyers Morgan Stanley files for a bitcoin ETF Goldman Sachs discloses a $1.1 billion BTC position Abu Dhabi sovereign funds are accumulating Harvard makes bitcoin its largest public allocation Bitcoin price is still down ~40% and the conversation has shifted to the war and AI, but don't sleep on bitcoin because the infrastructure is being built to broaden the education and access to the asset class and there are only 21 million
 
-3h ago
+4h ago
 
 ---
 
@@ -135,13 +135,13 @@ Charles Schwab is beginning to roll out access to spot bitcoin in the coming wee
 
 Curious to get honest feedback from the community. Hypothetical: imagine you could buy bitcoin via a after tax deduction from your paycheck. Does not flow through your bank account. Direct buy for bitcoin, any amount, post tax, optional. If your company offered this, would this be something youd do? If fees were less than standard exchange rates? Same?
 
-4h ago
+5h ago
 
 ---
 
 **[Them: $6,506 a second / Me: down $164 and still calling it a setup](https://www.reddit.com/r/Bitcoin/comments/1snccqn/them_6506_a_second_me_down_164_and_still_calling/)**
 
-37m ago
+1h ago
 
 ---
 
@@ -153,7 +153,7 @@ Curious to get honest feedback from the community. Hypothetical: imagine you cou
 
 Charles Schwab is rolling out crypto trading, allowing clients to buy bitcoin and ether through a new arm called Schwab Crypto.
 
-CNBC • 5h ago
+CNBC • 6h ago
 
 ---
 
@@ -161,7 +161,7 @@ CNBC • 5h ago
 
 The new platform, called Schwab Crypto, will roll out over the coming weeks and will only support bitcoin and ethereum at first.
 
-The Block • 4h ago
+The Block • 5h ago
 
 ---
 
@@ -169,7 +169,7 @@ The Block • 4h ago
 
 Retail clients will have access to Schwab Crypto™ alongside the research, education, service and comprehensive investing, trading, wealth, and banking offers they already enjoy at Schwab Charles Schwab today announced Schwab Crypto™, a spot crypto trading offer that will begin a phased rollout to retail clients in the coming weeks. Schwab Crypto will provide direct access to bitcoin and ethereum trading, combined with educational content and experienced professional support all at a great value.
 
-About Schwab • 5h ago
+About Schwab • 6h ago
 
 ---
 
@@ -177,7 +177,7 @@ About Schwab • 5h ago
 
 The $75,000-$76,000 range has proven to be stiff resistance as bitcoin attempts to claw back this year's losses.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -185,7 +185,7 @@ CoinDesk • 4h ago
 
 G. Love lost hist retirement fund in an alleged bitcoin scam, the musician shared on social media.
 
-Billboard • 1h ago
+Billboard • 2h ago
 
 ---
 
@@ -193,7 +193,7 @@ Billboard • 1h ago
 
 Bitcoin Scholars Fund aims to redirect $21 million in federal tax credits into K–12 Bitcoin education, offering donors a “net cost $0” way to fund curricula.
 
-Bitcoin Magazine • 4m ago
+Bitcoin Magazine • 57m ago
 
 ---
 
@@ -201,7 +201,7 @@ Bitcoin Magazine • 4m ago
 
 A mix of both gold and bitcoin increased the efficiency of a bond-and-equity portfolio over the last 10 years, according to a study by Citi.
 
-CNBC • 45m ago
+CNBC • 1h ago
 
 ---
 
@@ -215,7 +215,7 @@ The Guardian • 11h ago
 
 **[Former Fed Chair Issues Shock ‘Hyperinflation’ U.S. Dollar Warning—Fueling Huge Bitcoin Price Predictions](https://www.forbes.com/sites/digital-assets/2026/04/16/former-fed-chair-issues-shock-hyperinflation-us-dollar-warning-fueling-huge-bitcoin-price-predictions/)**
 
-Forbes • 5h ago
+Forbes • 6h ago
 
 ---
 
@@ -249,7 +249,7 @@ Arkham data shows 8,285 BTC in Coinbase Prime custody as the company swings from
 
 A three-part deep dive into quantum computing's actual threat to Bitcoin. 17 researchers, 13 proposals, real engineering. No hype. No FUD.
 
-⬆️ 6 • 💬 1 • 4d ago • [Bitcoin & Quantum Computing](https://bitcoinquantum.space)
+⬆️ 6 • 💬 1 • 5d ago • [Bitcoin & Quantum Computing](https://bitcoinquantum.space)
 
 ---
 
@@ -257,7 +257,7 @@ A three-part deep dive into quantum computing's actual threat to Bitcoin. 17 res
 
 The Blockstream CEO’s approach contrasts with BIP-361, a proposal that would implement mandatory freezes of quantum-vulnerable Bitcoin.
 
-⬆️ 4 • 💬 1 • 6h ago • [Decrypt](https://decrypt.co/364562/adam-back-pushes-for-optional-upgrades-to-quantum-proof-bitcoin)
+⬆️ 4 • 💬 1 • 7h ago • [Decrypt](https://decrypt.co/364562/adam-back-pushes-for-optional-upgrades-to-quantum-proof-bitcoin)
 
 ---
 
@@ -315,7 +315,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Com
 
 📺 Altcoin Daily
 
-👁️ 36K • 👍 2K • 💬 122 • ⏱️ 14:13 • 17h ago
+👁️ 39K • 👍 2K • 💬 108 • ⏱️ 14:13 • 18h ago
 
 ---
 
@@ -325,27 +325,7 @@ Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FR
 
 📺 CryptosRUs
 
-👁️ 10K • 👍 725 • 💬 15 • ⏱️ 44:22 • 4h ago
-
----
-
-**[Is A Bitcoin Supply Crisis Incoming? Michael Saylor Is Buying Everything!](https://www.youtube.com/watch?v=UmRdP5FjZqI)**
-
-Bitcoin #Crypto #Finance Is Michael Saylor quietly triggering a Bitcoin supply crisis? While most of the market is focused on ...
-
-📺 The Wolf Of All Streets
-
-👁️ 20K • 👍 860 • 💬 370 • ⏱️ 41:53 • 1d ago
-
----
-
-**[The Other Side of the Bitcoin: Crypto &amp; Corruption w/Ben McKenzie | The Weekly Show with Jon Stewart](https://www.youtube.com/watch?v=3fhLpauSInk)**
-
-As cryptocurrency continues to embed itself in American politics, Jon is joined by Ben McKenzie, author of "Easy Money" and ...
-
-📺 The Weekly Show with Jon Stewart
-
-👁️ 95K • 👍 3K • 💬 668 • ⏱️ 1:35:48 • 23h ago
+👁️ 13K • 👍 814 • ⏱️ 44:22 • 5h ago
 
 ---
 
@@ -355,7 +335,17 @@ Michael Saylor may have just revealed the most aggressive Bitcoin accumulation s
 
 📺 Simply Bitcoin
 
-👁️ 78K • 👍 3K • 💬 394 • ⏱️ 20:15 • 1d ago
+👁️ 80K • 👍 3K • 💬 380 • ⏱️ 20:15 • 1d ago
+
+---
+
+**[Is A Bitcoin Supply Crisis Incoming? Michael Saylor Is Buying Everything!](https://www.youtube.com/watch?v=UmRdP5FjZqI)**
+
+Bitcoin #Crypto #Finance Is Michael Saylor quietly triggering a Bitcoin supply crisis? While most of the market is focused on ...
+
+📺 The Wolf Of All Streets
+
+👁️ 20K • 👍 861 • 💬 375 • ⏱️ 41:53 • 1d ago
 
 ---
 
@@ -365,7 +355,17 @@ Bitcoin just entered a new phase and most people still don't see it. Massive ins
 
 📺 Simply Bitcoin
 
-👁️ 30K • 👍 2K • 💬 176 • ⏱️ 16:45 • 21h ago
+👁️ 30K • 👍 2K • 💬 162 • ⏱️ 16:45 • 22h ago
+
+---
+
+**[The Other Side of the Bitcoin: Crypto &amp; Corruption w/Ben McKenzie | The Weekly Show with Jon Stewart](https://www.youtube.com/watch?v=3fhLpauSInk)**
+
+As cryptocurrency continues to embed itself in American politics, Jon is joined by Ben McKenzie, author of "Easy Money" and ...
+
+📺 The Weekly Show with Jon Stewart
+
+👁️ 104K • 👍 4K • 💬 682 • ⏱️ 1:35:48 • 1d ago
 
 ---
 
@@ -375,37 +375,35 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 6K • 👍 454 • 💬 64 • ⏱️ 12:52 • 8h ago
+👁️ 7K • 👍 477 • 💬 61 • ⏱️ 12:52 • 9h ago
 
 ---
 
-**[Crypto Holders - You Have Waited 5 Years For The Next 5 Months](https://www.youtube.com/watch?v=zlK-i6eLDNA)**
+**[🚨 Bitcoin Is About to Surprise Everyone 🚨 Stocks Just Confirmed It](https://www.youtube.com/watch?v=ao7HjmnyRFY)**
 
-Subscribe to Jordi: https://www.youtube.com/@JordiVisserLabs BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: ...
+Build your long term Bitcoin position with iTrust (+$100 bonus): https://www.itrustcapital.com/go/datadash Get daily trade setups ...
 
-📺 Altcoin Daily
+📺 DataDash
 
-👁️ 44K • 👍 2K • 💬 188 • ⏱️ 10:18 • 2d ago
-
----
-
-**[Rally Extended?📈Crypto Market Update](https://www.youtube.com/watch?v=8IBIXMiHQIM)**
-
-Despite peace talks falling apart this weekend, cryptocurrency punters don't see high chances of the two-week U.S.–Iran ceasefire ...
-
-📺 Paul Barron Network
-
-👁️ 40K • 👍 2K • 💬 163 • ⏱️ 15:24 • 23h ago
+👁️ 2K • 👍 176 • 💬 6 • ⏱️ 10:32 • 5h ago
 
 ---
 
-**[Wall Street Is ALL-IN On Bitcoin](https://www.youtube.com/watch?v=3CKCdABPDiM)**
+**[Lutnick, Epstein &amp; Crypto | The Weekly Show with Jon Stewart](https://www.youtube.com/watch?v=c_nEUP5xYO8)**
 
-Anthony Pompliano and John Pompliano break down what's really happening with bitcoin and the macro environment, covering ...
+Ben McKenzie on how crypto helps criminals and hostile states evade sanctions — and how Commerce Secretary Howard ...
 
-📺 Anthony Pompliano
+📺 The Weekly Show with Jon Stewart
 
-👁️ 28K • 👍 1K • 💬 40 • ⏱️ 28:36 • 1d ago
+👁️ 80K • 👍 3K • 💬 106 • ⏱️ 2:52 • 1d ago
+
+---
+
+**[Was the bitcoin paid in the Nancy Guthrie Case? #truecrime #fyp #nancyguthrie #missingperson](https://www.youtube.com/watch?v=ZOFU1ev1UV0)**
+
+📺 In The Public Defense ⚖️
+
+👁️ 968 • 👍 25 • 💬 2 • ⏱️ 2:50 • 7h ago
 
 ---
 
