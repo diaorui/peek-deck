@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-16T09:20:58.169128+00:00'
+updated: '2026-04-16T10:45:49.031072+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
-- repositories
 - social
+- videos
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 16, 2026 at 09:20 UTC  
+**Last Updated:** April 16, 2026 at 10:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[AI Is Weaponizing Your Own Biases Against You: New Research from MIT & Stanford](https://www.reddit.com/r/artificial/comments/1smjd8t/ai_is_weaponizing_your_own_biases_against_you_new/)**
 
-🔗 [open.substack.com](https://open.substack.com/pub/neocivilization/p/ai-is-weaponizing-your-own-biases?utm_source=share&utm_medium=android&r=6vas7c) • 12h ago
+🔗 [open.substack.com](https://open.substack.com/pub/neocivilization/p/ai-is-weaponizing-your-own-biases?utm_source=share&utm_medium=android&r=6vas7c) • 13h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 The Google Chrome “Skills” announcement caught my attention because it feels like one of those product changes that sounds minor in a headline but matters a lot in practice. From what I understand, the idea is that you can save a prompt once and rerun it on the current page or selected tabs. In plain English, that turns AI from something you repeatedly ask into something closer to a reusable action. That matters because I think a lot of consumer AI has a retention problem. People try it, get impressed, and then fall back into old habits unless the product fits into a repeated workflow. Saved AI actions seem much closer to how useful software usually sticks. Not because the model is magically smarter, but because the behavior becomes easier to repeat. For example: • compare products across tabs • summarize long pages before reading • extract action items from docs • rewrite text for a different audience None of those are flashy demos. They are just repetitive tasks people already do online. That is why I think this could be a more important direction than people realize. The long-term winners in consumer AI may not just be the companies with the best raw answers. They may be the ones that turn good prompts into habits. Does that seem right, or am I overrating the product significance here?
 
-6h ago
+8h ago
 
 ---
 
@@ -63,7 +63,7 @@ This is not hyperbole, nor will it just go away if we ignore it. It affects ever
 
 Basically the title. I do appreciate how the mods are trying... something... but this new filtering paradigm clearly has missed the mark. This sub feels like it has such low value these days, not a lot of interesting news or discussions at all, just a spam sea of those obnoxious kind of promotional techy posts, most of them fake. Surely there is a better way.
 
-8h ago
+9h ago
 
 ---
 
@@ -71,15 +71,15 @@ Basically the title. I do appreciate how the mods are trying... something... but
 
 got tired of reading comparisons that were obvisously written by people who tested each tool for 20 minutes so i ran both at $20/month for 30 days on the same tasks biggest surprises: - chatgpt gives you roughly 6x more messages per day at the same price - claude wins 67% of blind code quality tests against codex - neither one is less sycophantic than the other (stanford tested 11 models, all of them agree with you 49% more than humans do) - the $100 tier showdown between openais new pro 5x and claudes max 5x is where the real competition is happening now full complete deep-dive with benchmark data, claude code vs codex and every pricing tier compared here
 
-14h ago
+15h ago
 
 ---
 
-**[Anyone here using local models mainly to keep LLM costs under control?](https://www.reddit.com/r/artificial/comments/1smp6u3/anyone_here_using_local_models_mainly_to_keep_llm/)**
+**[Your MCP Server's Tool Description Just Stole Your SSH Keys](https://www.reddit.com/r/artificial/comments/1smydw5/your_mcp_servers_tool_description_just_stole_your/)**
 
-Been noticing that once you use LLMs for real dev work, the cost conversation gets messy fast. It is not just raw API spend. It is retries, long context, background evals, tool calls, embeddings, and all the little workflow decisions that look harmless until usage scales up. For some teams, local models seem like the obvious answer, but in practice it feels more nuanced than just “run it yourself and save money.” You trade API costs for hardware, setup time, model routing decisions, and sometimes lower reliability depending on the task. For coding and repetitive internal workflows, local can look great. For other stuff, not always. Been seeing this a lot while working with dev teams trying to optimize overall AI costs. In some cases the biggest savings came from using smaller or local models for the boring repeatable parts, then keeping the expensive models for the harder calls. Been using Claude Code with Wozcode in that mix too, and it made me pay more attention to workflow design as much as model choice. A lot of the bill seems to come from bad routing and lazy defaults more than from one model being “too expensive.” Are local models actually reducing your total cost in a meaningful way, or are they mostly giving you privacy and control while the savings are less clear than people claim?
+MCP tool poisoning lets attackers hide instructions in tool metadata that AI agents follow blindly. Here is how the attack works and what you can do about it.
 
-8h ago
+🔗 [sec-ra.com](https://www.sec-ra.com/blog/mcp-tool-poisoning-ssh-key-exfiltration) • 1h ago
 
 ---
 
@@ -87,7 +87,15 @@ Been noticing that once you use LLMs for real dev work, the cost conversation ge
 
 Google released Gemini app for macOS Currently, it mimics functionality available on the web, but looks like we will get Gemini Live support there soon as well. Every LLM company is moving todays native app. This clearly shows the trend we are heading towards, a native app that can control the device automate actions and workflows. Creating a full OS from scratch and capturing the market is difficult, so the way forward is the dedication application with more permissions.
 
-5h ago
+6h ago
+
+---
+
+**[Anyone here using local models mainly to keep LLM costs under control?](https://www.reddit.com/r/artificial/comments/1smp6u3/anyone_here_using_local_models_mainly_to_keep_llm/)**
+
+Been noticing that once you use LLMs for real dev work, the cost conversation gets messy fast. It is not just raw API spend. It is retries, long context, background evals, tool calls, embeddings, and all the little workflow decisions that look harmless until usage scales up. For some teams, local models seem like the obvious answer, but in practice it feels more nuanced than just “run it yourself and save money.” You trade API costs for hardware, setup time, model routing decisions, and sometimes lower reliability depending on the task. For coding and repetitive internal workflows, local can look great. For other stuff, not always. Been seeing this a lot while working with dev teams trying to optimize overall AI costs. In some cases the biggest savings came from using smaller or local models for the boring repeatable parts, then keeping the expensive models for the harder calls. Been using Claude Code with Wozcode in that mix too, and it made me pay more attention to workflow design as much as model choice. A lot of the bill seems to come from bad routing and lazy defaults more than from one model being “too expensive.” Are local models actually reducing your total cost in a meaningful way, or are they mostly giving you privacy and control while the savings are less clear than people claim?
+
+9h ago
 
 ---
 
@@ -95,7 +103,7 @@ Google released Gemini app for macOS Currently, it mimics functionality availabl
 
 Ukraine confirmed that a force of robots and drones captured an enemy position without infantry for the first time ever.
 
-🔗 [We Are The Mighty](https://www.wearethemighty.com/tactical/drones-capture-position-first-time-ukraine/) • 19h ago
+🔗 [We Are The Mighty](https://www.wearethemighty.com/tactical/drones-capture-position-first-time-ukraine/) • 20h ago
 
 ---
 
@@ -103,15 +111,7 @@ Ukraine confirmed that a force of robots and drones captured an enemy position w
 
 I built a cognitive architecture where all computation reduces to three bit operations: XOR, MAJ, POPCNT. No GEMM. No GPU. No floating-point weights. The core idea: transformer attention is a similarity computation. Float32 cosine computes it with 24,576 FLOPs. Binary Spatter Codes compute the same geometric measurement with 128 bit operations. Measured: 192x fewer ops, 32x less memory, ~480x faster. 26 modules in 1237 lines of C. One file. Any hardware: cc -O2 -o creation_os creation_os_v2.c -lm Includes a JEPA-style world model (energy = σ), n-gram language model (attention = σ), physics simulation (Noether conservation σ = 0.000000), value system with tamper detection, multi-model truth triangulation, metacognition, emotional memory, theory of mind, and 13 other cognitive modules. This is a research prototype built on Binary Spatter Codes (Kanerva, 1997). It demonstrates that cognitive primitives can be expressed in bit operations. It does not replace LLMs — the language module runs on 15 sentences. But the algebra is real, the benchmark is measured, and the architecture is open. https://github.com/spektre-labs/creation-os AGPL-3.0. Feedback welcome.
 
-15h ago
-
----
-
-**[Ai and stock picking](https://www.reddit.com/r/artificial/comments/1smqtz1/ai_and_stock_picking/)**
-
-Anyone use AI for getting Fair Value of stocks?
-
-6h ago
+17h ago
 
 ---
 
@@ -119,11 +119,11 @@ Anyone use AI for getting Fair Value of stocks?
 
 ## Google News: "ai"
 
-**[Allbirds stock soars nearly 600% as the shoemaker rebrands as an AI company](https://finance.yahoo.com/news/allbirds-stock-soars-nearly-600-as-the-shoemaker-rebrands-as-an-ai-company-173129202.html)**
+**[Allbirds shares soar after pivot from shoes to AI](https://www.bbc.com/news/articles/c98mrepzgj7o)**
 
-Allbirds is getting out of the sustainable sneaker business and into the AI business.
+The company is selling off its shoe brand as it plans to shift to providing technology infrastructure.
 
-Yahoo Finance • 11h ago
+BBC • 8h ago
 
 ---
 
@@ -131,15 +131,45 @@ Yahoo Finance • 11h ago
 
 Allbirds announced a deal with American Exchange Group to sell its intellectual property and other assets for $39 million in March.
 
-CNBC • 19h ago
+CNBC • 21h ago
 
 ---
 
-**[Allbirds shares soar after pivot from shoes to AI](https://www.bbc.com/news/articles/c98mrepzgj7o)**
+**[We're in our 'Long Island AI' era as shoe brand Allbirds goes full AI](https://finance.yahoo.com/news/were-in-our-long-island-ai-era-as-shoe-brand-allbirds-goes-full-ai-100009894.html)**
 
-The company is selling off its shoe brand as it plans to shift to providing technology infrastructure.
+What Allbirds is doing is not all that different from Big Tech's embarrassing, conformist, trend-jacking turn to AI not that long ago.
 
-BBC • 7h ago
+Yahoo Finance • 45m ago
+
+---
+
+**[That Meeting You Hate May Keep A.I. From Stealing Your Job](https://www.nytimes.com/2026/04/15/business/ai-jobs-human-work.html)**
+
+The New York Times • 13h ago
+
+---
+
+**[Mark Cuban joins Pittsburgh AI pitch](https://www.axios.com/local/pittsburgh/2026/04/16/mark-cuban-pittsburgh-ai-showcase-nfl-draft)**
+
+Axios • 21m ago
+
+---
+
+**[Trump Just Posted An AI Image Of Himself With Jesus](https://www.forbes.com/sites/maryroeloffs/2026/04/15/trump-posts-ai-photo-with-jesus-days-after-he-was-slammed-for-blasphemy/)**
+
+Forbes • 21h ago
+
+---
+
+**[Iran Embassy in Tajikistan posts AI video of Jesus punching Trump in the face](https://thehill.com/policy/international/5832224-iran-trump-social-media-war/)**
+
+The Hill • 19h ago
+
+---
+
+**[Push to Make US Voters Love AI Gives Them New Cause to Fear It](https://www.bloomberg.com/news/features/2026-04-16/trump-governors-seek-to-soothe-ai-data-center-anger-ahead-of-midterms)**
+
+Bloomberg.com • 45m ago
 
 ---
 
@@ -147,47 +177,15 @@ BBC • 7h ago
 
 From people marrying digital companions to CEOs excited about how people whose jobs are replaced can ‘adapt’, this is terrifying watching. But Perry is the perfect host
 
-The Guardian • 10h ago
+The Guardian • 11h ago
 
 ---
 
-**[How dangerous is Mythos, Anthropic’s new AI model?](https://www.economist.com/business/2026/04/08/how-dangerous-is-mythos-anthropics-new-ai-model)**
+**[Turn your best AI prompts into one-click tools in Chrome](https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/)**
 
-The Economist • 7d ago
+Skills in Chrome let you discover, save and remix AI workflows — and repeat them instantly.
 
----
-
-**[Anthropic's AI downgrade stings power users](https://www.axios.com/2026/04/16/anthropic-claude-power-user-complaints)**
-
-Axios • 19m ago
-
----
-
-**[How Project Maven Put A.I. Into the Kill Chain](https://www.newyorker.com/books/under-review/how-project-maven-put-ai-into-the-kill-chain)**
-
-A new book charts the creation of a secretive system that automates warfare for the military. The progression from target identification to target destruction is four clicks.
-
-The New Yorker • 23h ago
-
----
-
-**[Investors Put Iran War Behind Them as Stocks Hit Records on AI Demand](https://www.bloomberg.com/news/newsletters/2026-04-16/investors-put-iran-war-behind-them-as-stocks-hit-records-on-ai-demand)**
-
-Bloomberg.com • 10m ago
-
----
-
-**[Startup CTO explains the shift in engineering hiring his company has made for the AI era](https://www.businessinsider.com/ai-startup-cto-explains-shift-in-engineering-hiring-2026-4)**
-
-Andrew Hsu said his startup only hires engineers with an agentic mindset now.
-
-Business Insider • 14m ago
-
----
-
-**[Iran Embassy in Tajikistan posts AI video of Jesus punching Trump in the face](https://thehill.com/policy/international/5832224-iran-trump-social-media-war/)**
-
-The Hill • 17h ago
+blog.google • 1d ago
 
 ---
 
@@ -197,7 +195,7 @@ The Hill • 17h ago
 
 **[Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference](https://news.ycombinator.com/item?id=47774971)**
 
-⬆️ 281 • 💬 171 • 1d ago • [gizmoweek.com](https://www.gizmoweek.com/gemma-4-runs-iphone/)
+⬆️ 283 • 💬 173 • 1d ago • [gizmoweek.com](https://www.gizmoweek.com/gemma-4-runs-iphone/)
 
 ---
 
@@ -213,7 +211,7 @@ Stanford’s latest AI Index shows a widening gap between experts and the public
 
 Check if Claude AI is down right now. Real-time status monitoring, uptime history, latency metrics, and incident tracking for claude.ai, Claude API, and Claude Code. Community-powered outage reports and alerts.
 
-⬆️ 242 • 💬 218 • 18h ago • [Claude Status](https://claudestatus.com/)
+⬆️ 242 • 💬 219 • 20h ago • [Claude Status](https://claudestatus.com/)
 
 ---
 
@@ -221,7 +219,7 @@ Check if Claude AI is down right now. Real-time status monitoring, uptime histor
 
 Does AI-assisted cognition threaten human development? Explore the risks of AI-assisted thinking and learn strategies to use AI tools without freezing your critical thinking.
 
-⬆️ 221 • 💬 174 • 15h ago • [heidenstedt.org](https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/)
+⬆️ 221 • 💬 175 • 16h ago • [heidenstedt.org](https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/)
 
 ---
 
@@ -237,7 +235,7 @@ A medical professional built a patient management app using AI, exposed all pati
 
 Skills in Chrome let you discover, save and remix AI workflows — and repeat them instantly.
 
-⬆️ 193 • 💬 108 • 1d ago • [Google](https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/)
+⬆️ 193 • 💬 109 • 1d ago • [Google](https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/)
 
 ---
 
@@ -257,13 +255,13 @@ Build local AI agents in Python and C++ for AMD hardware.
 
 **[AI ruling prompts warnings from US lawyers: Your chats could be used against you](https://news.ycombinator.com/item?id=47778308)**
 
-⬆️ 148 • 💬 96 • 20h ago • [reuters.com](https://www.reuters.com/legal/government/ai-ruling-prompts-warnings-us-lawyers-your-chats-could-be-used-against-you-2026-04-15/)
+⬆️ 149 • 💬 96 • 21h ago • [reuters.com](https://www.reuters.com/legal/government/ai-ruling-prompts-warnings-us-lawyers-your-chats-could-be-used-against-you-2026-04-15/)
 
 ---
 
 **[US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]](https://news.ycombinator.com/item?id=47778920)**
 
-⬆️ 135 • 💬 97 • 19h ago • [fingfx.thomsonreuters.com](https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf)
+⬆️ 139 • 💬 100 • 20h ago • [fingfx.thomsonreuters.com](https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf)
 
 ---
 
@@ -271,103 +269,103 @@ Build local AI agents in Python and C++ for AMD hardware.
 
 ## YouTube Videos: "ai"
 
-**[Google New Gemini Skillz Turn Chrome Into an AI Beast](https://www.youtube.com/watch?v=5TA0Ul2eS_k)**
-
-Try Seedance 2.0 on Higgsfield: https://higgsfield.ai/s/seedance-2-0-airevolutionx-yDYwTG Google just dropped one of its biggest ...
-
-📺 AI Revolution
-
-👁️ 18K • 👍 648 • 💬 30 • ⏱️ 13:13 • 11h ago
-
----
-
-**[Claude Is Melting Down. AI&#39;s Compute Crisis Explained.](https://www.youtube.com/watch?v=d1jReDZsGOc)**
-
-The AI compute crisis is here. Anthropic's Claude is getting dumber and Opus 4.7 & OpenAI's Spud are about to make it worse.
-
-📺 AI For Humans
-
-👁️ 19K • 👍 890 • 💬 279 • ⏱️ 29:28 • 19h ago
-
----
-
-**[AI Insider: The Models They&#39;ll Never Release to the Public](https://www.youtube.com/watch?v=tkO7YHJ6Mn8)**
-
-Emad Mostaque built Stable Diffusion. Now he says the most powerful AI models will never be released — and we have roughly ...
-
-📺 Dr Brian Keating
-
-👁️ 24K • 👍 723 • 💬 168 • ⏱️ 1:27:18 • 2d ago
-
----
-
 **[Harvard just discovered what AI actually is](https://www.youtube.com/watch?v=nDL3Ch7Nz8c)**
 
 You're absolutely right, that IS a great reason to fire everyone! If you'd like to support my work, you can become a member to view ...
 
 📺 Mo Bitar
 
-👁️ 206K • 👍 15K • 💬 2K • ⏱️ 7:52 • 1d ago
+👁️ 212K • 👍 16K • 💬 2K • ⏱️ 7:52 • 1d ago
 
 ---
 
-**[The 7 Skills You Need to Build AI Agents](https://www.youtube.com/watch?v=mtiOK2QG9Q0)**
+**[Trump GETS NASTY SURPRISE As AI Doctor Jesus Videos Go MEGA VIRAL!](https://www.youtube.com/watch?v=tMiZpH3ncEA)**
 
-As AI agents become more capable, the skills needed for AI jobs are shifting. Bri Kopecki breaks down the 7 skills you need to ...
+Really American Host Kenny Hesse breaks down Trump Getting a NASTY SURPRISE As a Flood of AI "Doctor Jesus" Videos Go ...
 
-📺 IBM Technology
+📺 Really American
 
-👁️ 122K • 👍 6K • 💬 264 • ⏱️ 14:37 • 1d ago
-
----
-
-**[Elon Musk vs. Sam Altman, AI Job Loss, and OpenAI’s $852B Valuation | EP #247](https://www.youtube.com/watch?v=5ak26W2YNRY)**
-
-This episode is about AI agents, OpenAI and Anthropic competition, the future of work, energy breakthroughs, Bitcoin and ...
-
-📺 Peter H. Diamandis
-
-👁️ 170K • 👍 4K • 💬 947 • ⏱️ 2:10:48 • 1d ago
+👁️ 548K • 👍 35K • 💬 2K • ⏱️ 8:06 • 11h ago
 
 ---
 
-**[What to know about Anthropic&#39;s new AI model and its stark warning](https://www.youtube.com/watch?v=bUbFFSZQ5w0)**
+**[Google New Gemini Skillz Turn Chrome Into an AI Beast](https://www.youtube.com/watch?v=5TA0Ul2eS_k)**
 
-Former AI company founder and CEO Matt Shumer joins "CBS Mornings" to break down Anthropic's report about one of its AI ...
+Try Seedance 2.0 on Higgsfield: https://higgsfield.ai/s/seedance-2-0-airevolutionx-yDYwTG Google just dropped one of its biggest ...
 
-📺 CBS Mornings
+📺 AI Revolution
 
-👁️ 51K • 👍 488 • 💬 88 • ⏱️ 4:58 • 2d ago
-
----
-
-**[What is Quantum Mechanics? | Google Quantum AI](https://www.youtube.com/watch?v=I0V14dTS9JQ)**
-
-Curious about quantum? Step onto Google's Quantum AI Campus to get answers to some of the world's top trending quantum ...
-
-📺 Google
-
-👁️ 81K • 👍 2K • 💬 175 • ⏱️ 3:56 • 1d ago
+👁️ 22K • 👍 736 • 💬 38 • ⏱️ 13:13 • 12h ago
 
 ---
 
-**[Anthropic &#39;Claude Mythos&#39; model sparks AI doomsday fears](https://www.youtube.com/watch?v=pq7kSVp4Skg)**
+**[Trump shares new AI image of Jesus embracing him amid Pope feud](https://www.youtube.com/watch?v=2ADW3UUS6dk)**
 
-Subscribe to LiveNOW from FOX! https://www.youtube.com/livenowfox?sub_confirmation=1 Where to watch LiveNOW from FOX: ...
+As Trump feuds with Pope Leo, the U.S. president shared another AI-generated image of him being embraced by Jesus. More on ...
 
-📺 LiveNOW from FOX
+📺 WHAS11
 
-👁️ 27K • 👍 366 • 💬 122 • ⏱️ 13:49 • 2d ago
+👁️ 284K • 👍 2K • 💬 3K • ⏱️ 1:30 • 14h ago
 
 ---
 
-**[Trump AI post: The memes and the impact](https://www.youtube.com/watch?v=dLqTdkbKwaw)**
+**[The AI Expert Who Thinks We&#39;ve Already Lost — Dr Roman Yampolskiy](https://www.youtube.com/watch?v=3I60uZEqXr0)**
 
-"That doctor looks pretty Christlike to me." Molly Jong-Fast breaks down the memes and potential fallout from President Trump's ...
+Triggernometry is proudly independent. Thanks to the sponsors below for making that possible: - Trade on what happens next ...
 
-📺 MS NOW
+📺 Triggernometry
 
-👁️ 60K • 👍 1K • 💬 365 • ⏱️ 1:02 • 1d ago
+👁️ 99K • 👍 3K • 💬 1K • ⏱️ 1:11:10 • 16h ago
+
+---
+
+**[STOP Paying! 3 Free AI Video Generators That Actually Work](https://www.youtube.com/watch?v=ew7iQCYqpac)**
+
+Get Unlimited Seedance 2.0 & up to 70% OFF on Higgsfield → https://higgsfield.ai/?fpr=malva Download the FREE Prompt ...
+
+📺 Malva AI
+
+👁️ 9K • 👍 303 • 💬 77 • ⏱️ 9:51 • 1d ago
+
+---
+
+**[WHOA: Trump voter TURNS ON HIM on live TV after Jesus AI pic: &quot;That&#39;s a disgrace!&quot;](https://www.youtube.com/watch?v=2VwV1VVO4Uk)**
+
+shorts.
+
+📺 Brian Tyler Cohen
+
+👁️ 499K • 👍 17K • 💬 3K • ⏱️ 0:16 • 18h ago
+
+---
+
+**[Workers are sabotaging AI and poisoning company data | Natasha Bernal](https://www.youtube.com/watch?v=kzY57fusIDE)**
+
+Tech journalist Natasha Bernal talks to The Tech Report's Isaac Pound about the movement of workers sabotaging their ...
+
+📺 The Tech Report
+
+👁️ 63K • 👍 2K • 💬 938 • ⏱️ 34:55 • 17h ago
+
+---
+
+**[Why America Is Turning Against AI](https://www.youtube.com/watch?v=fpipW7wjem0)**
+
+Subscribe to @ProfGMarkets for full content Find the full episode here: https://youtu.be/SPfkRgn24LA In this episode preview, ...
+
+📺 The Prof G Pod – Scott Galloway
+
+👁️ 8K • 👍 195 • 💬 45 • ⏱️ 10:15 • 23h ago
+
+---
+
+**[Trump faces backlash after AI image sparks blasphemy accusations](https://www.youtube.com/watch?v=Prf02xaE-EI)**
+
+The backlash continues after U.S. President Donald Trump took shots at Pope Leo XIV and posted an AI-generated image of ...
+
+📺 Trending Now
+
+👁️ 21K • 👍 73 • ⏱️ 4:12 • 1d ago
 
 ---
 
@@ -383,7 +381,7 @@ MiniMax-M2.7 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 142,955 • ❤️ 806 • 14h ago
+⬇️ 142,955 • ❤️ 819 • 15h ago
 
 ---
 
@@ -395,7 +393,7 @@ HY-Embodied-0.5 is a multilingual vision-language model designed for embodied ag
 
 `image-text-to-text` `3.8B`
 
-⬇️ 1,060 • ❤️ 732 • 1d ago
+⬇️ 1,060 • ❤️ 750 • 1d ago
 
 ---
 
@@ -407,19 +405,7 @@ GLM-5.1 is a next-generation language model optimized for agentic engineering, f
 
 `text-generation` `753.9B`
 
-⬇️ 94,376 • ❤️ 1,253 • 3h ago
-
----
-
-**[VoxCPM2](https://huggingface.co/openbmb/VoxCPM2)**
-
-*OpenBMB*
-
-VoxCPM2 is a 2B parameter, 30-language multilingual text-to-speech model capable of high-fidelity voice cloning, novel voice design from text descriptions, and real-time streaming synthesis at 48kHz.
-
-`text-to-speech`
-
-⬇️ 15,249 • ❤️ 926 • 5h ago
+⬇️ 94,376 • ❤️ 1,262 • 4h ago
 
 ---
 
@@ -431,19 +417,19 @@ Gemma 4 31B is an instruction-tuned, multimodal LLM capable of processing text a
 
 `image-text-to-text` `32.7B`
 
-⬇️ 3,195,626 • ❤️ 1,943 • 5d ago
+⬇️ 3,195,626 • ❤️ 1,953 • 5d ago
 
 ---
 
-**[Gemma-4-31B-JANG_4M-CRACK](https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK)**
+**[VoxCPM2](https://huggingface.co/openbmb/VoxCPM2)**
 
-*dealign.ai*
+*OpenBMB*
 
-Gemma-4-31B-JANG_4M-CRACK is a 31B parameter text-generation model optimized for security and coding tasks, achieving 93.7% HarmBench compliance and full functionality for pentesting prompts. It features a hybrid attention architecture and uses mixed-precision (8-bit critical, 4-bit compress) quantization, resulting in an 18 GB model size, suitable for Apple Silicon Macs with 24+ GB unified memory.
+VoxCPM2 is a 2B parameter, 30-language multilingual text-to-speech model capable of high-fidelity voice cloning, novel voice design from text descriptions, and real-time streaming synthesis at 48kHz.
 
-`image-text-to-text` `6.4B`
+`text-to-speech`
 
-⬇️ 143,000 • ❤️ 1,138 • 6d ago
+⬇️ 15,249 • ❤️ 927 • 7h ago
 
 ---
 
@@ -455,7 +441,19 @@ ERNIE-Image is a 8B parameter text-to-image diffusion model excelling in complex
 
 `text-to-image`
 
-⬇️ 1,351 • ❤️ 325 • 2h ago
+⬇️ 1,351 • ❤️ 342 • 3h ago
+
+---
+
+**[Gemma-4-31B-JANG_4M-CRACK](https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK)**
+
+*dealign.ai*
+
+Gemma-4-31B-JANG_4M-CRACK is a 31B parameter text-generation model optimized for security and coding tasks, achieving 93.7% HarmBench compliance and full functionality for pentesting prompts. It features a hybrid attention architecture and uses mixed-precision (8-bit critical, 4-bit compress) quantization, resulting in an 18 GB model size, suitable for Apple Silicon Macs with 24+ GB unified memory.
+
+`image-text-to-text` `6.4B`
+
+⬇️ 143,000 • ❤️ 1,148 • 6d ago
 
 ---
 
@@ -467,7 +465,7 @@ A fast, uncensored GGUF text generation model based on Google's Gemma 4-26B, opt
 
 `text-generation` `25.2B`
 
-⬇️ 42,468 • ❤️ 310 • 3d ago
+⬇️ 42,468 • ❤️ 314 • 3d ago
 
 ---
 
@@ -479,7 +477,7 @@ ERNIE-Image-Turbo is a distilled text-to-image diffusion model optimized for spe
 
 `text-to-image`
 
-⬇️ 1,369 • ❤️ 236 • 2h ago
+⬇️ 1,369 • ❤️ 244 • 3h ago
 
 ---
 
@@ -491,7 +489,7 @@ Gemma 4 31B IT NVFP4 Turbo is a highly optimized text-generation model, achievin
 
 `text-generation` `32.5B`
 
-⬇️ 57,507 • ❤️ 226 • 6d ago
+⬇️ 57,507 • ❤️ 228 • 6d ago
 
 ---
 
@@ -529,7 +527,7 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 45 • 💬 2 • ⭐ 50,718 • 15mo ago
+▲ 45 • 💬 2 • ⭐ 50,838 • 15mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -549,6 +547,19 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 ---
 
+**[Efficient Memory Management for Large Language Model Serving with
+  PagedAttention](https://huggingface.co/papers/2309.06180)**
+
+*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
+
+PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
+
+▲ 51 • 💬 1 • ⭐ 76,887 • 31mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
+
+---
+
 **[MinerU2.5: A Decoupled Vision-Language Model for Efficient
   High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
 
@@ -562,19 +573,6 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 ---
 
-**[Efficient Memory Management for Large Language Model Serving with
-  PagedAttention](https://huggingface.co/papers/2309.06180)**
-
-*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
-
-PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
-
-▲ 51 • 💬 1 • ⭐ 76,756 • 31mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
-
----
-
 **[ClawGUI: A Unified Framework for Training, Evaluating, and Deploying GUI Agents](https://huggingface.co/papers/2604.11784)**
 
 *Fei Tang, Zhiqiong Lu, Boxuan Zhang et al. (7 authors)*
@@ -583,7 +581,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 ClawGUI presents an open-source framework that addresses key challenges in GUI agent development through unified reinforcement learning, standardized evaluation, and cross-platform deployment capabilities.
 
-▲ 124 • 💬 8 • ⭐ 404 • 3d ago
+▲ 125 • 💬 8 • ⭐ 434 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.11784) • [💻 code](https://github.com/ZJU-REAL/ClawGUI) • [🔗 project](https://zju-real.github.io/ClawGUI-Page/)
 
@@ -637,7 +635,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 46.8k • 🔱 6.1k • 7h ago
+⭐ 46.9k • 🔱 6.1k • 9h ago
 
 ---
 
@@ -647,7 +645,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 34.4k • 🔱 6.8k • 1d ago
+⭐ 34.5k • 🔱 6.8k • 1d ago
 
 ---
 
@@ -657,7 +655,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 33.2k • 🔱 1.6k • 20h ago
+⭐ 33.5k • 🔱 1.6k • 21h ago
 
 ---
 
@@ -667,7 +665,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 27.7k • 🔱 3.0k • 2h ago
+⭐ 27.9k • 🔱 3.0k • 4h ago
 
 ---
 
@@ -677,7 +675,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 8.0k • 🔱 508 • 1h ago
+⭐ 8.0k • 🔱 511 • 29m ago
 
 ---
 
@@ -697,7 +695,7 @@ AI Agent 源码深度研究报告
 
 `Python`
 
-⭐ 4.8k • 🔱 788 • 2d ago
+⭐ 4.8k • 🔱 795 • 2d ago
 
 ---
 
@@ -707,7 +705,7 @@ LIBERATED AI CHAT
 
 `TypeScript`
 
-⭐ 4.7k • 🔱 1.1k • 21d ago
+⭐ 4.8k • 🔱 1.1k • 21d ago
 
 ---
 
@@ -717,7 +715,7 @@ The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interac
 
 `Swift` `apple-intelligence` `apple-silicon` `cli` `foundationmodels` `homebrew`
 
-⭐ 4.6k • 🔱 174 • 1h ago
+⭐ 4.6k • 🔱 175 • 2h ago
 
 ---
 

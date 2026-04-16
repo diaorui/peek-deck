@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-16T09:20:58.186949+00:00'
+updated: '2026-04-16T10:45:49.048971+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 16, 2026 at 09:20 UTC  
+**Last Updated:** April 16, 2026 at 10:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From The Humanoid Hub on 𝕏: https://x.com/TheHumanoidHub/status/2044504579480686900
 
-33m ago
+1h ago
 
 ---
 
@@ -44,7 +44,7 @@ From The Humanoid Hub on 𝕏: https://x.com/TheHumanoidHub/status/2044504579480
 
 From Reflex Robotics on 𝕏: https://x.com/ReflexRobot/status/2044154114108543297
 
-23h ago
+1d ago
 
 ---
 
@@ -52,7 +52,19 @@ From Reflex Robotics on 𝕏: https://x.com/ReflexRobot/status/20441541141085432
 
 Teleoperation through a ps5 controller, powered by ROS2 and an stm32. Honestly not too happy with it but this is my first robot ever, wanted to challenge myself. Too much vibration and shaky teleop.
 
-16h ago
+17h ago
+
+---
+
+**[Debugging robots with ReductStore and Foxglove](https://www.reddit.com/r/robotics/comments/1smx37u/debugging_robots_with_reductstore_and_foxglove/)**
+
+2h ago
+
+---
+
+**[Robot dog with Elon Musk's face wandering the streets.](https://www.reddit.com/r/robotics/comments/1sm2aej/robot_dog_with_elon_musks_face_wandering_the/)**
+
+1d ago
 
 ---
 
@@ -60,19 +72,7 @@ Teleoperation through a ps5 controller, powered by ROS2 and an stm32. Honestly n
 
 l get a dtof lidar, l want to use it on my drone for obstacles avoidance. today, l make a simple test on its point cloud and depth map, it's great ! Share the test results with you. And the code with open source on the github later,
 
-17h ago
-
----
-
-**[Robot dog with Elon Musk's face wandering the streets.](https://www.reddit.com/r/robotics/comments/1sm2aej/robot_dog_with_elon_musks_face_wandering_the/)**
-
-22h ago
-
----
-
-**[Debugging robots with ReductStore and Foxglove](https://www.reddit.com/r/robotics/comments/1smx37u/debugging_robots_with_reductstore_and_foxglove/)**
-
-1h ago
+18h ago
 
 ---
 
@@ -80,7 +80,7 @@ l get a dtof lidar, l want to use it on my drone for obstacles avoidance. today,
 
 Ukraine's defense ministry said that its forces tripled UGV missions since November to over 9,000 tasks in March alone.
 
-🔗 [Business Insider](https://www.businessinsider.com/ukraine-ground-robots-troops-uncrewed-ground-vehicles-first-quarter-2026-4) • 21h ago
+🔗 [Business Insider](https://www.businessinsider.com/ukraine-ground-robots-troops-uncrewed-ground-vehicles-first-quarter-2026-4) • 22h ago
 
 ---
 
@@ -88,7 +88,7 @@ Ukraine's defense ministry said that its forces tripled UGV missions since Novem
 
 The right side is showing a brain visualizer where you can see the neural activity controlling the arm. By interacting with the cortical areas in the visualizer, the Franka Panda arm on the left responds in real-time. This was done without any code using FEAGI, an open-source neurorobotics platform that uses spiking neural networks.
 
-11h ago
+12h ago
 
 ---
 
@@ -104,7 +104,7 @@ Blog post: Gemini Robotics-ER 1.6: Powering real-world robotics tasks through en
 
 The architecture is a dual system: → Gemini Robotics-ER 1.6: the "strategist" — spatial reasoning, object counting, instrument reading, task verification → Gemini Robotics 1.5 (VLA): executes motor commands The instrument reading jump (23%- 93%) comes from agentic vision — the model iterates visually rather than making a single-pass prediction. Current deployment: Boston Dynamics Spot reading pressure meters and sight glasses during facility inspection. The honest limitation: these demos are in controlled environments. Industrial deployment requires handling edge cases that structured tests don't surface. Full analysis: https://www.aiuniverse.news/google-deepminds-new-robot-brain-masters-reading-dials-and-understanding-space/
 
-🔗 [AI Universe](https://www.aiuniverse.news/google-deepminds-new-robot-brain-masters-reading-dials-and-understanding-space/) • 19h ago
+🔗 [AI Universe](https://www.aiuniverse.news/google-deepminds-new-robot-brain-masters-reading-dials-and-understanding-space/) • 20h ago
 
 ---
 
@@ -140,15 +140,7 @@ Boston Dynamics • 1d ago
 
 Skild AI today announced the acquisition of Zebra Technologies' Robotics Automation business, including its Symmetry Fulfillment orchestration platform. This...
 
-Business Wire • 11h ago
-
----
-
-**[Chicago bus shelter ad apologizes after video shows food delivery robots with Serve Robotics crash into Grand and Racine bus stop](https://abc7chicago.com/post/chicago-bus-shelter-ad-apologizes-video-shows-food-delivery-robots-serve-robotics-crash-grand-racine-stop/18885510/)**
-
-The owner of a robot delivery service is trying to turn a shattering experience into a good laugh.
-
-ABC7 Chicago • 1d ago
+Business Wire • 13h ago
 
 ---
 
@@ -156,13 +148,19 @@ ABC7 Chicago • 1d ago
 
 “The occupiers surrendered, and the operation was carried out without infantry and without losses on our side,” says Ukrainian leader.
 
-politico.eu • 1d ago
+politico.eu • 2d ago
 
 ---
 
 **[Cadence, Nvidia working together on developing AI for robotics](https://www.reuters.com/technology/cadence-nvidia-working-together-developing-ai-robotics-2026-04-15/)**
 
-Reuters • 11h ago
+Reuters • 13h ago
+
+---
+
+**[Cadence and Nvidia (NVDA) Team Up to Train Robots Faster with AI](https://www.tipranks.com/news/cadence-and-nvidia-nvda-team-up-to-train-robots-faster-with-ai)**
+
+TipRanks • 16h ago
 
 ---
 
@@ -170,13 +168,7 @@ Reuters • 11h ago
 
 Cadence and Nvidia expand their AI partnership to close the sim-to-real gap in robotics, fusing physics engines with Nvidia’s Isaac and Cosmos models.
 
-The Next Web • 1h ago
-
----
-
-**[Cadence and Nvidia (NVDA) Team Up to Train Robots Faster with AI](https://www.tipranks.com/news/cadence-and-nvidia-nvda-team-up-to-train-robots-faster-with-ai)**
-
-TipRanks • 15h ago
+The Next Web • 3h ago
 
 ---
 
@@ -184,7 +176,13 @@ TipRanks • 15h ago
 
 Panther has been filmed doing basic household chores, like making the bed and cooking breakfast.
 
-Live Science • 16h ago
+Live Science • 18h ago
+
+---
+
+**[Tesla’s Chinese Robot Rival Ramps Pre-IPO Global Push](https://www.bloomberg.com/news/articles/2026-04-15/tesla-s-chinese-robot-rival-ramps-up-global-push-ahead-of-ipo)**
+
+Bloomberg.com • 1d ago
 
 ---
 
@@ -198,27 +196,7 @@ Boston Dynamics just did what most people thought would take years longer. Atlas
 
 📺 AI Revolution
 
-👁️ 81K • 👍 2K • 💬 133 • ⏱️ 21:49 • 2d ago
-
----
-
-**[Ukrainian president says robots captured territory from Russian soldiers](https://www.youtube.com/watch?v=XiGwWwcnT7M)**
-
-President Zelenskyy says that for the first time ever, the Ukrainian army was able to use only robots to retake territory from Russian ...
-
-📺 NBC News
-
-👁️ 179K • 👍 3K • 💬 637 • ⏱️ 3:12 • 8h ago
-
----
-
-**[Final FTC Top 25 | DECODE - Presented by Studica Robotics](https://www.youtube.com/watch?v=AdT94eYEI5Q)**
-
-Editors note: The end game stats in the graphics were displaying teleop (teleopCombined - dcBasePoints) not end game.
-
-📺 FUN Robotics Network
-
-👁️ 1K • 👍 35 • ⏱️ 1:09:27 • 7h ago
+👁️ 84K • 👍 2K • 💬 138 • ⏱️ 21:49 • 2d ago
 
 ---
 
@@ -228,17 +206,7 @@ Chinese humanoid robots train to go head-to-head with human runners in the secon
 
 📺 NBC News
 
-👁️ 133K • 👍 906 • 💬 378 • ⏱️ 1:59 • 2d ago
-
----
-
-**[Ukraine Just Won The First Battle Using an Entire Robot Army... Footage is INSANE ](https://www.youtube.com/watch?v=dA5RYTxKLuo)**
-
-Terminator is about to become real?! If you want to help support independent journalism, become a Member: ...
-
-📺 Benny Johnson
-
-👁️ 219K • 👍 15K • 💬 2K • ⏱️ 11:20 • 1d ago
+👁️ 135K • 👍 920 • 💬 383 • ⏱️ 1:59 • 2d ago
 
 ---
 
@@ -252,21 +220,23 @@ Try Seedance 2.0 with Claude on Higgsfield: https://higgsfield.ai/s/seedance-2-0
 
 ---
 
+**[Tesla Just Started Mass Producing Humanoid Robots — And Nobody Is Ready](https://www.youtube.com/watch?v=2sHaQffX0w0)**
+
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *Tesla ...
+
+📺 Julia McCoy
+
+👁️ 58K • 👍 2K • 💬 242 • ⏱️ 4:16 • 1d ago
+
+---
+
 **[AI agent in a robot does exactly what experts warned](https://www.youtube.com/watch?v=woTy4dTiT20)**
 
 Could AI become dangerous? Can we trust AI Agents? AGI. Use code insideai at https://incogni.com/insideai to get an exclusive ...
 
 📺 InsideAI
 
-👁️ 772K • 👍 28K • 💬 2K • ⏱️ 16:24 • 6d ago
-
----
-
-**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=tUddKeqba5E)**
-
-📺 Robot Julie 
-
-👁️ 8K • 👍 42 • 💬 2 • ⏱️ 0:23 • 8h ago
+👁️ 781K • 👍 28K • 💬 2K • ⏱️ 16:24 • 6d ago
 
 ---
 
@@ -276,17 +246,43 @@ A new wave of attention is building around Elon Musk's latest version of the Tes
 
 📺 Carros Show
 
-👁️ 16K • 👍 342 • 💬 55 • ⏱️ 8:01 • 2d ago
+👁️ 16K • 👍 351 • 💬 56 • ⏱️ 8:01 • 2d ago
 
 ---
 
-**[Tesla Just Started Mass Producing Humanoid Robots — And Nobody Is Ready](https://www.youtube.com/watch?v=2sHaQffX0w0)**
+**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=tUddKeqba5E)**
 
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *Tesla ...
+📺 Robot Julie 
 
-📺 Julia McCoy
+👁️ 10K • 👍 50 • 💬 2 • ⏱️ 0:23 • 10h ago
 
-👁️ 56K • 👍 2K • 💬 238 • ⏱️ 4:16 • 1d ago
+---
+
+**[For the first time in history Ukrainian robots captured Russian position and occupiers surrendered](https://www.youtube.com/watch?v=XzqhdqTqLkE)**
+
+Kanal13​ #likekanal13​ #subscribekanal13 #warinukraine https://www.youtube.com/user/kanal13az?sub_confirmation=1 ...
+
+📺 Kanal13
+
+👁️ 47K • 👍 1K • 💬 77 • ⏱️ 10:09 • 1d ago
+
+---
+
+**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=CAAKZgJCtzo)**
+
+📺 Robot Julie 
+
+👁️ 22K • 👍 106 • ⏱️ 0:21 • 1d ago
+
+---
+
+**[What&#39;s Going On With The Dyson Spot+Scrub Ai Robot Vac?](https://www.youtube.com/watch?v=UX9VFszU88E)**
+
+The Dyson spot+scrub ai robot vacuum is highly anticipated. We purchased one to find out how it competes with the best flagship ...
+
+📺 Vacuum Nerds
+
+👁️ 6K • 👍 142 • 💬 43 • ⏱️ 13:22 • 21h ago
 
 ---
 

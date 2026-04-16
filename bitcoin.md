@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-16T09:20:58.177666+00:00'
+updated: '2026-04-16T10:45:49.039699+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - social
+- videos
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 16, 2026 at 09:20 UTC  
+**Last Updated:** April 16, 2026 at 10:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $74,822.39
+### $74,411.05
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.1%  
-**7d:** +2.5%  
-**30d:** +5.0%  
-**90d:** -21.4%  
-**1y:** -12.0%  
+**24h:** +0.3%  
+**7d:** +2.0%  
+**30d:** +4.5%  
+**90d:** -21.8%  
+**1y:** -12.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1498.41B
+**Market Cap:** $1489.58B
 Rank #1
 
-**Circulating Supply:** 20,016,490 BTC
+**Circulating Supply:** 20,016,553 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--40.7%
+-41.0%
 
 **All-Time Low:** $67.81
-+110183.1%
++109636.0%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Popular Chinese commentator 'Professor Jiang' claims Bitcoin is a "CIA operation." Do you believe that?](https://www.reddit.com/r/Bitcoin/comments/1smpmuh/popular_chinese_commentator_professor_jiang/)**
 
-7h ago
+9h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Highly considering selling 100K worth of my global equity ETF in my TFSA and going all in Bitcoin ETF, someone convince me not to or I’m going in
 
-9h ago
+11h ago
 
 ---
 
@@ -95,7 +95,7 @@ Highly considering selling 100K worth of my global equity ETF in my TFSA and goi
 
 All ur favorite YouTubers telling u we’re gonna go lower yet check the whale buys, all time high rn. Retail is just waiting for a bottom. U think the price is going to everyone’s target? Being on the sidelines is one thing but those of u shorting will get rekt. Especially those with leverage lol good luck. 3 green candles on the weekly, moon time Buy now or regret missing the pump
 
-7h ago
+8h ago
 
 ---
 
@@ -103,15 +103,7 @@ All ur favorite YouTubers telling u we’re gonna go lower yet check the whale b
 
 Hello, I have a concern based on semi-technical article I read on local (Czech) news site. I have some Bitcoin in a cold storage address in the "old" format (starting with "1F...") that I have created in 2015. During the following 11 years, my BTC just sat there, with very few partial withdrawals (3 or 4 total). No "change address" was used, the remaining BTC are still in the same wallet. I do not intend to do anything with the remaining BTC in the near future, I just want them to sit there. Unfortunately, during those 10 years, I was less active in the Bitcoin scene and did not closely watch the developments and happenings in the world of Bitcoin. I just want to hold the remaining BTC for several more years, I don't need them now. My question is: Are my remaining BTC still reasonably safe in that old address or is there some truth to the rumor that "Old format BTC wallets are now at risk?" P.S: Of course, my private key from that wallet is securely stored and I am aware of the importance of it not being leaked / lost. That's not what my question is about. UPDATE: I am genuinely perplexed why some users here keep suggesting to "get Trezor". I would STILL have to store the private key somewhere (in case the Trezor malfunctions) and the device itself would only introduce a new attack vector. I am absolutely at loss understanding how Trezor could possibly be useful in my scenario, where I am only planning to do ONE additional transaction from this address to the exchange.
 
-13h ago
-
----
-
-**[Happy Tax Day! The Bitcoin Scholars Fund is a new nonprofit aiming to divert $21 million in 2027 from the Federal Government to K-12 bitcoin education using a new $1,700 OBBBA tax credit; a $0 net cost to you](https://www.reddit.com/r/Bitcoin/comments/1smm9t5/happy_tax_day_the_bitcoin_scholars_fund_is_a_new/)**
-
-Our $21M Goal: Redirecting federal taxes to K-12 bitcoin education. Join the Genesis 12,000 to claim a 1:1 tax credit on $1,700 and fund kids at zero net cost.
-
-🔗 [bitcoinscholars.org](http://bitcoinscholars.org) • 10h ago
+14h ago
 
 ---
 
@@ -119,15 +111,15 @@ Our $21M Goal: Redirecting federal taxes to K-12 bitcoin education. Join the Gen
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-3h ago
+4h ago
 
 ---
 
-**[⚡ Lightning Thursday! April 16, 2026: Explore the Lightning Network!⚡](https://www.reddit.com/r/Bitcoin/comments/1smw5a9/lightning_thursday_april_16_2026_explore_the/)**
+**[Happy Tax Day! The Bitcoin Scholars Fund is a new nonprofit aiming to divert $21 million in 2027 from the Federal Government to K-12 bitcoin education using a new $1,700 OBBBA tax credit; a $0 net cost to you](https://www.reddit.com/r/Bitcoin/comments/1smm9t5/happy_tax_day_the_bitcoin_scholars_fund_is_a_new/)**
 
-The lightning network is a second-layer solution on top of the Bitcoin blockchain that enables quick, cheap and scalable Bitcoin payments. Here is the place to discuss and learn more about lightning! Ask your questions about lightning Provide reviews, feedback, comparisons of LN apps, services, websites etc Learn about new LN features, development, apps Link to good quality resources (articles, wikis etc) Resources: Here is an awesome list of resources compiled by Jameson Lopp: https://bitcoinfo.org/lightning.html Want to test out your lightning fire power? tip the Bitcoin devs! https://bitcoindevlist.com/ Previous threads: Search Lnbook getting closer towards being finished and can already be seen at: https://github.com/lnbook/lnbook Lightning Dedicated YouTube Channel: https://youtube.com/renepickhardt Also there is the playlist by chaincode labs: https://youtube.com/playlist?list=PLpLH33TRghT17_U3as2P3vHfAGL8pSOOY Lightning stores: https://www.lightningnetworkstores.com/ Learn more and talk about lightning right here in r/Bitcoin, r/bitcoinbeginners and r/thelightningnetwork
+Our $21M Goal: Redirecting federal taxes to K-12 bitcoin education. Join the Genesis 12,000 to claim a 1:1 tax credit on $1,700 and fund kids at zero net cost.
 
-2h ago
+🔗 [bitcoinscholars.org](http://bitcoinscholars.org) • 11h ago
 
 ---
 
@@ -135,7 +127,15 @@ The lightning network is a second-layer solution on top of the Bitcoin blockchai
 
 Estoy por comprar alrededor de 4mil usd en bitcoin. Dinero que justo me llegó. Ya tengo 7mil en btc. Sigo el precio todos los días y estos días ha estado a la alza. Creen que vuelva a bajar de $70mil usd o ya compro? Que harían si fueran yo?
 
-6h ago
+7h ago
+
+---
+
+**[⚡ Lightning Thursday! April 16, 2026: Explore the Lightning Network!⚡](https://www.reddit.com/r/Bitcoin/comments/1smw5a9/lightning_thursday_april_16_2026_explore_the/)**
+
+The lightning network is a second-layer solution on top of the Bitcoin blockchain that enables quick, cheap and scalable Bitcoin payments. Here is the place to discuss and learn more about lightning! Ask your questions about lightning Provide reviews, feedback, comparisons of LN apps, services, websites etc Learn about new LN features, development, apps Link to good quality resources (articles, wikis etc) Resources: Here is an awesome list of resources compiled by Jameson Lopp: https://bitcoinfo.org/lightning.html Want to test out your lightning fire power? tip the Bitcoin devs! https://bitcoindevlist.com/ Previous threads: Search Lnbook getting closer towards being finished and can already be seen at: https://github.com/lnbook/lnbook Lightning Dedicated YouTube Channel: https://youtube.com/renepickhardt Also there is the playlist by chaincode labs: https://youtube.com/playlist?list=PLpLH33TRghT17_U3as2P3vHfAGL8pSOOY Lightning stores: https://www.lightningnetworkstores.com/ Learn more and talk about lightning right here in r/Bitcoin, r/bitcoinbeginners and r/thelightningnetwork
+
+3h ago
 
 ---
 
@@ -143,15 +143,15 @@ Estoy por comprar alrededor de 4mil usd en bitcoin. Dinero que justo me llegó. 
 
 Yes, i started buying since the February 2026. I believe this year could be a good year to start stacking. Wish me luck boys. See you in 10years.
 
-21h ago
+22h ago
 
 ---
 
-**[Daredevil: Born Again S2 E5](https://www.reddit.com/r/Bitcoin/comments/1smsf6l/daredevil_born_again_s2_e5/)**
+**[Bitcoin Stuck, US Stocks Jump to Record Highs Amid Hopes of Iran Deal Progress](https://www.reddit.com/r/Bitcoin/comments/1smyeg6/bitcoin_stuck_us_stocks_jump_to_record_highs_amid/)**
 
-Kingpin suggested diversifying by investing in Bitcoin! I was so shocked, I had to rewind.
+Hopes for a potential deal between the US and Iran, and a robust start to the corporate earnings season, drove the S&P 500 and Nasdaq indices to record highs, as Bitcoin (BTC) recouped some ground to break above $75,000. : Get all the latest crypto news at Sandmark
 
-5h ago
+🔗 [Sandmark](https://www.sandmark.com/news/top-news/bitcoin-stuck-us-stocks-jump-record-highs-amid-hopes-iran-deal-progress) • 1h ago
 
 ---
 
@@ -159,25 +159,33 @@ Kingpin suggested diversifying by investing in Bitcoin! I was so shocked, I had 
 
 ## Google News: "bitcoin"
 
-**[Bitcoin (BTC) can be used as cash, but capital gains taxes turn even a cup of coffee into a mountain of paperwork](https://www.coindesk.com/policy/2026/04/16/buying-coffee-with-bitcoin-is-easy-the-resulting-tax-burden-is-not)**
+**[CEO of bitcoin firm championed by Nigel Farage leaves company](https://www.theguardian.com/politics/2026/apr/16/ceo-of-bitcoin-firm-championed-by-nigel-farage-leaves-company-stack-btc)**
 
-A think tank argues that U.S. tax rules make using bitcoin for everyday payments impractical, as each transaction is treated as a taxable capital gains event requiring detailed reporting.
+Resignation announced of Jai Patel, whose liquidated crypto firm was relaunched as Stack BTC this year
 
-CoinDesk • 30m ago
+The Guardian • 2h ago
 
 ---
 
-**[Trump issues ultimatum to Fed chair as Bitcoin trembles at $75,000. ‘I’ll have to fire him’](https://www.dlnews.com/articles/markets/trump-issues-ultimatum-to-fed-chair-as-bitcoin-price-trembles-at-75-fire-him/)**
+**[CryptoQuant says bitcoin rally faces rising profit-taking risk as exchange inflows jump](https://www.theblock.co/post/397664/cryptoquant-bitcoin-rally-profit-taking-risk)**
 
-Trump threatened to fire Fed chair Jerome Powell if he remains at the central bank after his term ends in May. Markets haven’t priced in the upcoming leadership transition, analyst says.
+BTC's recent rally is facing rising profit-taking risk, with several indicators showing growing signs of selling pressure, according to CQ.
 
-dlnews.com • 29m ago
+The Block • 13h ago
+
+---
+
+**[If You’d Invested $1,000 in Bitcoin 5 Years Ago, Should You Cash Out or Keep Holding?](https://finance.yahoo.com/markets/crypto/articles/d-invested-1-000-bitcoin-102559646.html)**
+
+Bitcoin (CRYPTO: BTC) is trading above $74,000 after a bearish first quarter that saw it lose 23% of its value. Buying BTC in 2026 is a different game from buying in 2021, when the coin was far cheaper and most of the recent growth was still ahead. If you invested $1,000 in Bitcoin in January ... If You’d Invested $1,000 in Bitcoin 5 Years Ago, Should You Cash Out or Keep Holding?
+
+Yahoo Finance • 19m ago
 
 ---
 
 **[Goldman’s Bitcoin ETF Push Signals Wall Street Taming of Crypto](https://www.bloomberg.com/news/articles/2026-04-15/goldman-s-bitcoin-etf-push-signals-wall-street-taming-of-crypto)**
 
-Bloomberg.com • 17h ago
+Bloomberg.com • 18h ago
 
 ---
 
@@ -193,15 +201,7 @@ Fortune • 1d ago
 
 Goldman Sachs has filed a registration statement with the Securities and Exchange Commission (SEC) for a new bitcoin exchange-traded fund (ETF). The
 
-PYMNTS.com • 10h ago
-
----
-
-**[CEO of bitcoin firm championed by Nigel Farage leaves company](https://www.theguardian.com/politics/2026/apr/16/ceo-of-bitcoin-firm-championed-by-nigel-farage-leaves-company-stack-btc)**
-
-Resignation announced of Jai Patel, whose liquidated crypto firm was relaunched as Stack BTC this year
-
-The Guardian • 1h ago
+PYMNTS.com • 12h ago
 
 ---
 
@@ -209,15 +209,7 @@ The Guardian • 1h ago
 
 The Bitcoin blockchain itself has never been hacked and has operated securely and without interruption since 2009. The Mythos threat probably won't change that.
 
-CNBC • 16h ago
-
----
-
-**[Crypto Community Pushes Back at Professor Jiang’s Viral CIA Bitcoin Theory](https://www.yahoo.com/news/articles/crypto-community-pushes-back-professor-072156223.html)**
-
-The crypto community is pushing back hard on Professor Jiang's viral claim that Bitcoin was most likely a creation of the CIA.
-
-Yahoo • 1h ago
+CNBC • 18h ago
 
 ---
 
@@ -225,13 +217,21 @@ Yahoo • 1h ago
 
 Doug Liman made a $70 million movie using AI about the creator of bitcoin called Killing Satoshi, starring Gal Gadot, Casey Affleck and Pete Davidson.
 
-TheWrap • 20h ago
+TheWrap • 21h ago
 
 ---
 
 **[‘Just The First Step’—Musk’s X Crypto Move Sparks Bitcoin Buzz](https://www.forbes.com/sites/digital-assets/2026/04/15/just-the-first-step-musks-x-crypto-move-sparks-bitcoin-buzz/)**
 
-Forbes • 14h ago
+Forbes • 15h ago
+
+---
+
+**[Oakwood Police warn senior citizens of Bitcoin scams](https://accesswdun.com/news/oakwood-police-warn-senior-citizens-of-bitcoin-scams)**
+
+Senior citizens in Hall County should be wary of scammers using Bitcoin and other cryptocurrency schemes. The Oakwood Police Department said these scams normally begin with a phone call, text message or email that appears to come from a trusted source, such as a bank, government agency, or even a
+
+accesswdun.com • 16h ago
 
 ---
 
@@ -281,7 +281,7 @@ Imagine one person holding the keys to Bitcoin’s entire future. That was Satos
 
 C64 Bitcoin wallet. Contribute to geek197/c64wallet development by creating an account on GitHub.
 
-⬆️ 3 • 💬 0 • 21h ago • [GitHub](https://github.com/geek197/c64wallet)
+⬆️ 3 • 💬 0 • 23h ago • [GitHub](https://github.com/geek197/c64wallet)
 
 ---
 
@@ -309,7 +309,7 @@ The most popular and trusted block explorer and crypto transaction search engine
 
 **[How the Bitcoin protocol works (2013)](https://news.ycombinator.com/item?id=47787017)**
 
-⬆️ 2 • 💬 0 • 9h ago • [michaelnielsen.org](https://michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/)
+⬆️ 2 • 💬 0 • 10h ago • [michaelnielsen.org](https://michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/)
 
 ---
 
@@ -317,83 +317,23 @@ The most popular and trusted block explorer and crypto transaction search engine
 
 ## YouTube Videos: "bitcoin"
 
+**[The Crypto Market Is Getting Absurd](https://www.youtube.com/watch?v=OzwcedpfW68)**
+
+BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Commonwealth Union: ...
+
+📺 Altcoin Daily
+
+👁️ 24K • 👍 1K • 💬 89 • ⏱️ 14:13 • 8h ago
+
+---
+
 **[Is A Bitcoin Supply Crisis Incoming? Michael Saylor Is Buying Everything!](https://www.youtube.com/watch?v=UmRdP5FjZqI)**
 
 Bitcoin #Crypto #Finance Is Michael Saylor quietly triggering a Bitcoin supply crisis? While most of the market is focused on ...
 
 📺 The Wolf Of All Streets
 
-👁️ 18K • 👍 823 • 💬 314 • ⏱️ 41:53 • 19h ago
-
----
-
-**[Strategy Buys 4,000 Bitcoin in 30 Minutes | Bitcoin&#39;s Price Floor Just Changed FOREVER](https://www.youtube.com/watch?v=OyA6eKmys4E)**
-
-Bitcoin just entered a new phase and most people still don't see it. Massive institutional buys, macro shifts, and a supply shock are ...
-
-📺 Simply Bitcoin
-
-👁️ 23K • 👍 2K • 💬 132 • ⏱️ 16:45 • 11h ago
-
----
-
-**[Michael Saylor Predicts $400T Bitcoin After Buying $1B in a Single Day!](https://www.youtube.com/watch?v=yl2q52XWG6s)**
-
-Michael Saylor may have just revealed the most aggressive Bitcoin accumulation strategy yet. This breaks down how Strategy's ...
-
-📺 Simply Bitcoin
-
-👁️ 73K • 👍 3K • 💬 385 • ⏱️ 20:15 • 1d ago
-
----
-
-**[Rally Extended?📈Crypto Market Update](https://www.youtube.com/watch?v=8IBIXMiHQIM)**
-
-Despite peace talks falling apart this weekend, cryptocurrency punters don't see high chances of the two-week U.S.–Iran ceasefire ...
-
-📺 Paul Barron Network
-
-👁️ 34K • 👍 2K • 💬 126 • ⏱️ 15:24 • 13h ago
-
----
-
-**[NEW REPORT: The Iran War is a Strategic Bitcoin reserve Battle, Here&#39;s How | EP 1483](https://www.youtube.com/watch?v=NF7WqVZy5vs)**
-
-There's a lot of moving parts to the war in Iran, but a new report by Luxor Technology reveals the truth .
-
-📺 Simply Bitcoin
-
-👁️ 7K • 👍 342 • 💬 49 • ⏱️ 1:31:18 • 14h ago
-
----
-
-**[$3.5 Trillion Goldman Sachs Files For Bitcoin Premium Income ETF — Every BTC Holder Must See This](https://www.youtube.com/watch?v=F8jcz2_GJJA)**
-
-IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purposes only. NOT financial, investment, or ...
-
-📺 The Kenzo Guy
-
-👁️ 13K • 👍 460 • 💬 36 • ⏱️ 24:05 • 1d ago
-
----
-
-**[Crypto Holders - You Have Waited 5 Years For The Next 5 Months](https://www.youtube.com/watch?v=zlK-i6eLDNA)**
-
-Subscribe to Jordi: https://www.youtube.com/@JordiVisserLabs BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: ...
-
-📺 Altcoin Daily
-
-👁️ 43K • 👍 2K • 💬 199 • ⏱️ 10:18 • 2d ago
-
----
-
-**[The Other Side of the Bitcoin: Crypto &amp; Corruption w/Ben McKenzie | The Weekly Show with Jon Stewart](https://www.youtube.com/watch?v=3fhLpauSInk)**
-
-As cryptocurrency continues to embed itself in American politics, Jon is joined by Ben McKenzie, author of "Easy Money" and ...
-
-📺 The Weekly Show with Jon Stewart
-
-👁️ 64K • 👍 2K • 💬 476 • ⏱️ 1:35:48 • 13h ago
+👁️ 18K • 👍 833 • 💬 359 • ⏱️ 41:53 • 20h ago
 
 ---
 
@@ -403,7 +343,47 @@ Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FR
 
 📺 CryptosRUs
 
-👁️ 17K • 👍 985 • 💬 166 • ⏱️ 37:53 • 18h ago
+👁️ 18K • 👍 991 • 💬 165 • ⏱️ 37:53 • 20h ago
+
+---
+
+**[Michael Saylor Predicts $400T Bitcoin After Buying $1B in a Single Day!](https://www.youtube.com/watch?v=yl2q52XWG6s)**
+
+Michael Saylor may have just revealed the most aggressive Bitcoin accumulation strategy yet. This breaks down how Strategy's ...
+
+📺 Simply Bitcoin
+
+👁️ 74K • 👍 3K • 💬 388 • ⏱️ 20:15 • 1d ago
+
+---
+
+**[The Other Side of the Bitcoin: Crypto &amp; Corruption w/Ben McKenzie | The Weekly Show with Jon Stewart](https://www.youtube.com/watch?v=3fhLpauSInk)**
+
+As cryptocurrency continues to embed itself in American politics, Jon is joined by Ben McKenzie, author of "Easy Money" and ...
+
+📺 The Weekly Show with Jon Stewart
+
+👁️ 73K • 👍 3K • 💬 506 • ⏱️ 1:35:48 • 15h ago
+
+---
+
+**[Rally Extended?📈Crypto Market Update](https://www.youtube.com/watch?v=8IBIXMiHQIM)**
+
+Despite peace talks falling apart this weekend, cryptocurrency punters don't see high chances of the two-week U.S.–Iran ceasefire ...
+
+📺 Paul Barron Network
+
+👁️ 36K • 👍 2K • 💬 136 • ⏱️ 15:24 • 15h ago
+
+---
+
+**[Crypto Holders - You Have Waited 5 Years For The Next 5 Months](https://www.youtube.com/watch?v=zlK-i6eLDNA)**
+
+Subscribe to Jordi: https://www.youtube.com/@JordiVisserLabs BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: ...
+
+📺 Altcoin Daily
+
+👁️ 43K • 👍 2K • 💬 190 • ⏱️ 10:18 • 2d ago
 
 ---
 
@@ -413,7 +393,27 @@ Into The Cryptoverse Premium: https://intothecryptoverse.com For inquiries and t
 
 📺 Benjamin Cowen
 
-👁️ 19K • 👍 351 • 💬 17 • ⏱️ 0:56 • 17h ago
+👁️ 21K • 👍 370 • 💬 19 • ⏱️ 0:56 • 18h ago
+
+---
+
+**[$3.5 Trillion Goldman Sachs Files For Bitcoin Premium Income ETF — Every BTC Holder Must See This](https://www.youtube.com/watch?v=F8jcz2_GJJA)**
+
+IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purposes only. NOT financial, investment, or ...
+
+📺 The Kenzo Guy
+
+👁️ 13K • 👍 464 • 💬 36 • ⏱️ 24:05 • 1d ago
+
+---
+
+**[Strategy Buys 4,000 Bitcoin in 30 Minutes | Bitcoin&#39;s Price Floor Just Changed FOREVER](https://www.youtube.com/watch?v=OyA6eKmys4E)**
+
+Bitcoin just entered a new phase and most people still don't see it. Massive institutional buys, macro shifts, and a supply shock are ...
+
+📺 Simply Bitcoin
+
+👁️ 25K • 👍 2K • 💬 133 • ⏱️ 16:45 • 13h ago
 
 ---
 
