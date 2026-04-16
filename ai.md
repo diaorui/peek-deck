@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-16T07:48:50.184042+00:00'
+updated: '2026-04-16T09:20:58.169128+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
+- news
 - repositories
 - social
-- news
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 16, 2026 at 07:48 UTC  
+**Last Updated:** April 16, 2026 at 09:20 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,15 @@ AI news, discussions, and developments
 
 **[AI Is Weaponizing Your Own Biases Against You: New Research from MIT & Stanford](https://www.reddit.com/r/artificial/comments/1smjd8t/ai_is_weaponizing_your_own_biases_against_you_new/)**
 
-🔗 [open.substack.com](https://open.substack.com/pub/neocivilization/p/ai-is-weaponizing-your-own-biases?utm_source=share&utm_medium=android&r=6vas7c) • 10h ago
+🔗 [open.substack.com](https://open.substack.com/pub/neocivilization/p/ai-is-weaponizing-your-own-biases?utm_source=share&utm_medium=android&r=6vas7c) • 12h ago
+
+---
+
+**[Google’s Chrome “Skills” feature feels like a bigger AI product shift than another model upgrade](https://www.reddit.com/r/artificial/comments/1smqrg7/googles_chrome_skills_feature_feels_like_a_bigger/)**
+
+The Google Chrome “Skills” announcement caught my attention because it feels like one of those product changes that sounds minor in a headline but matters a lot in practice. From what I understand, the idea is that you can save a prompt once and rerun it on the current page or selected tabs. In plain English, that turns AI from something you repeatedly ask into something closer to a reusable action. That matters because I think a lot of consumer AI has a retention problem. People try it, get impressed, and then fall back into old habits unless the product fits into a repeated workflow. Saved AI actions seem much closer to how useful software usually sticks. Not because the model is magically smarter, but because the behavior becomes easier to repeat. For example: • compare products across tabs • summarize long pages before reading • extract action items from docs • rewrite text for a different audience None of those are flashy demos. They are just repetitive tasks people already do online. That is why I think this could be a more important direction than people realize. The long-term winners in consumer AI may not just be the companies with the best raw answers. They may be the ones that turn good prompts into habits. Does that seem right, or am I overrating the product significance here?
+
+6h ago
 
 ---
 
@@ -55,15 +63,7 @@ This is not hyperbole, nor will it just go away if we ignore it. It affects ever
 
 Basically the title. I do appreciate how the mods are trying... something... but this new filtering paradigm clearly has missed the mark. This sub feels like it has such low value these days, not a lot of interesting news or discussions at all, just a spam sea of those obnoxious kind of promotional techy posts, most of them fake. Surely there is a better way.
 
-6h ago
-
----
-
-**[Google’s Chrome “Skills” feature feels like a bigger AI product shift than another model upgrade](https://www.reddit.com/r/artificial/comments/1smqrg7/googles_chrome_skills_feature_feels_like_a_bigger/)**
-
-The Google Chrome “Skills” announcement caught my attention because it feels like one of those product changes that sounds minor in a headline but matters a lot in practice. From what I understand, the idea is that you can save a prompt once and rerun it on the current page or selected tabs. In plain English, that turns AI from something you repeatedly ask into something closer to a reusable action. That matters because I think a lot of consumer AI has a retention problem. People try it, get impressed, and then fall back into old habits unless the product fits into a repeated workflow. Saved AI actions seem much closer to how useful software usually sticks. Not because the model is magically smarter, but because the behavior becomes easier to repeat. For example: • compare products across tabs • summarize long pages before reading • extract action items from docs • rewrite text for a different audience None of those are flashy demos. They are just repetitive tasks people already do online. That is why I think this could be a more important direction than people realize. The long-term winners in consumer AI may not just be the companies with the best raw answers. They may be the ones that turn good prompts into habits. Does that seem right, or am I overrating the product significance here?
-
-5h ago
+8h ago
 
 ---
 
@@ -71,7 +71,7 @@ The Google Chrome “Skills” announcement caught my attention because it feels
 
 got tired of reading comparisons that were obvisously written by people who tested each tool for 20 minutes so i ran both at $20/month for 30 days on the same tasks biggest surprises: - chatgpt gives you roughly 6x more messages per day at the same price - claude wins 67% of blind code quality tests against codex - neither one is less sycophantic than the other (stanford tested 11 models, all of them agree with you 49% more than humans do) - the $100 tier showdown between openais new pro 5x and claudes max 5x is where the real competition is happening now full complete deep-dive with benchmark data, claude code vs codex and every pricing tier compared here
 
-12h ago
+14h ago
 
 ---
 
@@ -79,7 +79,7 @@ got tired of reading comparisons that were obvisously written by people who test
 
 Been noticing that once you use LLMs for real dev work, the cost conversation gets messy fast. It is not just raw API spend. It is retries, long context, background evals, tool calls, embeddings, and all the little workflow decisions that look harmless until usage scales up. For some teams, local models seem like the obvious answer, but in practice it feels more nuanced than just “run it yourself and save money.” You trade API costs for hardware, setup time, model routing decisions, and sometimes lower reliability depending on the task. For coding and repetitive internal workflows, local can look great. For other stuff, not always. Been seeing this a lot while working with dev teams trying to optimize overall AI costs. In some cases the biggest savings came from using smaller or local models for the boring repeatable parts, then keeping the expensive models for the harder calls. Been using Claude Code with Wozcode in that mix too, and it made me pay more attention to workflow design as much as model choice. A lot of the bill seems to come from bad routing and lazy defaults more than from one model being “too expensive.” Are local models actually reducing your total cost in a meaningful way, or are they mostly giving you privacy and control while the savings are less clear than people claim?
 
-6h ago
+8h ago
 
 ---
 
@@ -87,7 +87,7 @@ Been noticing that once you use LLMs for real dev work, the cost conversation ge
 
 Google released Gemini app for macOS Currently, it mimics functionality available on the web, but looks like we will get Gemini Live support there soon as well. Every LLM company is moving todays native app. This clearly shows the trend we are heading towards, a native app that can control the device automate actions and workflows. Creating a full OS from scratch and capturing the market is difficult, so the way forward is the dedication application with more permissions.
 
-3h ago
+5h ago
 
 ---
 
@@ -95,7 +95,7 @@ Google released Gemini app for macOS Currently, it mimics functionality availabl
 
 Ukraine confirmed that a force of robots and drones captured an enemy position without infantry for the first time ever.
 
-🔗 [We Are The Mighty](https://www.wearethemighty.com/tactical/drones-capture-position-first-time-ukraine/) • 17h ago
+🔗 [We Are The Mighty](https://www.wearethemighty.com/tactical/drones-capture-position-first-time-ukraine/) • 19h ago
 
 ---
 
@@ -103,7 +103,7 @@ Ukraine confirmed that a force of robots and drones captured an enemy position w
 
 I built a cognitive architecture where all computation reduces to three bit operations: XOR, MAJ, POPCNT. No GEMM. No GPU. No floating-point weights. The core idea: transformer attention is a similarity computation. Float32 cosine computes it with 24,576 FLOPs. Binary Spatter Codes compute the same geometric measurement with 128 bit operations. Measured: 192x fewer ops, 32x less memory, ~480x faster. 26 modules in 1237 lines of C. One file. Any hardware: cc -O2 -o creation_os creation_os_v2.c -lm Includes a JEPA-style world model (energy = σ), n-gram language model (attention = σ), physics simulation (Noether conservation σ = 0.000000), value system with tamper detection, multi-model truth triangulation, metacognition, emotional memory, theory of mind, and 13 other cognitive modules. This is a research prototype built on Binary Spatter Codes (Kanerva, 1997). It demonstrates that cognitive primitives can be expressed in bit operations. It does not replace LLMs — the language module runs on 15 sentences. But the algebra is real, the benchmark is measured, and the architecture is open. https://github.com/spektre-labs/creation-os AGPL-3.0. Feedback welcome.
 
-14h ago
+15h ago
 
 ---
 
@@ -111,7 +111,7 @@ I built a cognitive architecture where all computation reduces to three bit oper
 
 Anyone use AI for getting Fair Value of stocks?
 
-5h ago
+6h ago
 
 ---
 
@@ -123,7 +123,23 @@ Anyone use AI for getting Fair Value of stocks?
 
 Allbirds is getting out of the sustainable sneaker business and into the AI business.
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
+
+---
+
+**[Struggling shoe retailer Allbirds makes bizarre pivot to AI, adds $127 million in value](https://www.cnbc.com/2026/04/15/allbirds-bird-stock-shoes-ai.html)**
+
+Allbirds announced a deal with American Exchange Group to sell its intellectual property and other assets for $39 million in March.
+
+CNBC • 19h ago
+
+---
+
+**[Allbirds shares soar after pivot from shoes to AI](https://www.bbc.com/news/articles/c98mrepzgj7o)**
+
+The company is selling off its shoe brand as it plans to shift to providing technology infrastructure.
+
+BBC • 7h ago
 
 ---
 
@@ -131,63 +147,47 @@ Yahoo Finance • 10h ago
 
 From people marrying digital companions to CEOs excited about how people whose jobs are replaced can ‘adapt’, this is terrifying watching. But Perry is the perfect host
 
-The Guardian • 8h ago
+The Guardian • 10h ago
 
 ---
 
-**[Education experts to Mamdani: why are you foisting AI on our kids?](https://fortune.com/2026/04/16/doctors-experts-ai-moratorium-schools/)**
+**[How dangerous is Mythos, Anthropic’s new AI model?](https://www.economist.com/business/2026/04/08/how-dangerous-is-mythos-anthropics-new-ai-model)**
 
-"If a local children's hospital told parents, 'We've got this new drug, it has potential, just trust us,' people would be horrified."
-
-Fortune • 47m ago
+The Economist • 7d ago
 
 ---
 
-**[Neuro-Symbolic AI Wins On Long-Horizon Reasoning And Does So At A Lower Energy Cost](https://www.forbes.com/sites/lanceeliot/2026/04/16/neuro-symbolic-ai-wins-on-long-horizon-reasoning-and-does-so-at-a-lower-energy-cost/)**
+**[Anthropic's AI downgrade stings power users](https://www.axios.com/2026/04/16/anthropic-claude-power-user-complaints)**
 
-Forbes • 33m ago
+Axios • 19m ago
 
 ---
 
-**[Trump Just Posted An AI Image Of Himself With Jesus](https://www.forbes.com/sites/maryroeloffs/2026/04/15/trump-posts-ai-photo-with-jesus-days-after-he-was-slammed-for-blasphemy/)**
+**[How Project Maven Put A.I. Into the Kill Chain](https://www.newyorker.com/books/under-review/how-project-maven-put-ai-into-the-kill-chain)**
 
-Forbes • 18h ago
+A new book charts the creation of a secretive system that automates warfare for the military. The progression from target identification to target destruction is four clicks.
+
+The New Yorker • 23h ago
+
+---
+
+**[Investors Put Iran War Behind Them as Stocks Hit Records on AI Demand](https://www.bloomberg.com/news/newsletters/2026-04-16/investors-put-iran-war-behind-them-as-stocks-hit-records-on-ai-demand)**
+
+Bloomberg.com • 10m ago
+
+---
+
+**[Startup CTO explains the shift in engineering hiring his company has made for the AI era](https://www.businessinsider.com/ai-startup-cto-explains-shift-in-engineering-hiring-2026-4)**
+
+Andrew Hsu said his startup only hires engineers with an agentic mindset now.
+
+Business Insider • 14m ago
 
 ---
 
 **[Iran Embassy in Tajikistan posts AI video of Jesus punching Trump in the face](https://thehill.com/policy/international/5832224-iran-trump-social-media-war/)**
 
-The Hill • 16h ago
-
----
-
-**[Trump posts new AI image of himself embracing Jesus amid backlash from Christians and ongoing rift with Pope Leo](https://www.yahoo.com/news/world/article/trump-posts-new-ai-image-of-himself-embracing-jesus-amid-backlash-from-christians-and-ongoing-rift-with-pope-leo-181356134.html)**
-
-The president shared another Jesus meme on social media after insisting a controversial image he'd posted was intended to depict him as a doctor — and not Christ.
-
-Yahoo • 15h ago
-
----
-
-**[This monkey selfie will protect you from AI slop](https://www.bbc.com/future/article/20260414-the-monkey-selfie-that-predicted-the-ai-age)**
-
-What happens when something that isn't human makes art? The answer lies with this image and it will change what ends up on your screen and in your headphones forever.
-
-BBC • 21h ago
-
----
-
-**[Opinion | Don’t Use A.I. to Do This](https://www.nytimes.com/2026/04/15/opinion/art-artificial-intelligence.html)**
-
-The New York Times • 22h ago
-
----
-
-**[Turn your best AI prompts into one-click tools in Chrome](https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/)**
-
-Skills in Chrome let you discover, save and remix AI workflows — and repeat them instantly.
-
-blog.google • 1d ago
+The Hill • 17h ago
 
 ---
 
@@ -197,7 +197,7 @@ blog.google • 1d ago
 
 **[Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference](https://news.ycombinator.com/item?id=47774971)**
 
-⬆️ 279 • 💬 169 • 1d ago • [gizmoweek.com](https://www.gizmoweek.com/gemma-4-runs-iphone/)
+⬆️ 281 • 💬 171 • 1d ago • [gizmoweek.com](https://www.gizmoweek.com/gemma-4-runs-iphone/)
 
 ---
 
@@ -205,7 +205,7 @@ blog.google • 1d ago
 
 Stanford’s latest AI Index shows a widening gap between experts and the public, with rising anxiety over jobs, healthcare, and the economy.
 
-⬆️ 261 • 💬 400 • 2d ago • [TechCrunch](https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/)
+⬆️ 261 • 💬 401 • 2d ago • [TechCrunch](https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/)
 
 ---
 
@@ -213,7 +213,7 @@ Stanford’s latest AI Index shows a widening gap between experts and the public
 
 Check if Claude AI is down right now. Real-time status monitoring, uptime history, latency metrics, and incident tracking for claude.ai, Claude API, and Claude Code. Community-powered outage reports and alerts.
 
-⬆️ 242 • 💬 218 • 17h ago • [Claude Status](https://claudestatus.com/)
+⬆️ 242 • 💬 218 • 18h ago • [Claude Status](https://claudestatus.com/)
 
 ---
 
@@ -221,7 +221,7 @@ Check if Claude AI is down right now. Real-time status monitoring, uptime histor
 
 Does AI-assisted cognition threaten human development? Explore the risks of AI-assisted thinking and learn strategies to use AI tools without freezing your critical thinking.
 
-⬆️ 221 • 💬 174 • 13h ago • [heidenstedt.org](https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/)
+⬆️ 221 • 💬 174 • 15h ago • [heidenstedt.org](https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/)
 
 ---
 
@@ -229,7 +229,7 @@ Does AI-assisted cognition threaten human development? Explore the risks of AI-a
 
 A medical professional built a patient management app using AI, exposed all patient data unprotected to the internet, and sent voice recordings to AI services without consent. Likely violating Swiss nDSG and other laws.
 
-⬆️ 211 • 💬 210 • 1d ago • [Tobias Brunner aka tobru](https://www.tobru.ch/an-ai-vibe-coding-horror-story/)
+⬆️ 211 • 💬 210 • 2d ago • [Tobias Brunner aka tobru](https://www.tobru.ch/an-ai-vibe-coding-horror-story/)
 
 ---
 
@@ -257,15 +257,13 @@ Build local AI agents in Python and C++ for AMD hardware.
 
 **[AI ruling prompts warnings from US lawyers: Your chats could be used against you](https://news.ycombinator.com/item?id=47778308)**
 
-⬆️ 148 • 💬 96 • 18h ago • [reuters.com](https://www.reuters.com/legal/government/ai-ruling-prompts-warnings-us-lawyers-your-chats-could-be-used-against-you-2026-04-15/)
+⬆️ 148 • 💬 96 • 20h ago • [reuters.com](https://www.reuters.com/legal/government/ai-ruling-prompts-warnings-us-lawyers-your-chats-could-be-used-against-you-2026-04-15/)
 
 ---
 
-**[Claude.ai down](https://news.ycombinator.com/item?id=47753643)**
+**[US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]](https://news.ycombinator.com/item?id=47778920)**
 
-Claude's Status Page - Claude.ai down.
-
-⬆️ 134 • 💬 126 • 2d ago • [status.claude.com](https://status.claude.com/incidents/6jd2m42f8mld)
+⬆️ 135 • 💬 97 • 19h ago • [fingfx.thomsonreuters.com](https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf)
 
 ---
 
@@ -279,7 +277,7 @@ Try Seedance 2.0 on Higgsfield: https://higgsfield.ai/s/seedance-2-0-airevolutio
 
 📺 AI Revolution
 
-👁️ 18K • 👍 648 • 💬 30 • ⏱️ 13:13 • 9h ago
+👁️ 18K • 👍 648 • 💬 30 • ⏱️ 13:13 • 11h ago
 
 ---
 
@@ -289,7 +287,7 @@ The AI compute crisis is here. Anthropic's Claude is getting dumber and Opus 4.7
 
 📺 AI For Humans
 
-👁️ 19K • 👍 890 • 💬 279 • ⏱️ 29:28 • 18h ago
+👁️ 19K • 👍 890 • 💬 279 • ⏱️ 29:28 • 19h ago
 
 ---
 
@@ -385,7 +383,7 @@ MiniMax-M2.7 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 142,955 • ❤️ 806 • 12h ago
+⬇️ 142,955 • ❤️ 806 • 14h ago
 
 ---
 
@@ -409,7 +407,7 @@ GLM-5.1 is a next-generation language model optimized for agentic engineering, f
 
 `text-generation` `753.9B`
 
-⬇️ 94,376 • ❤️ 1,253 • 1h ago
+⬇️ 94,376 • ❤️ 1,253 • 3h ago
 
 ---
 
@@ -421,7 +419,7 @@ VoxCPM2 is a 2B parameter, 30-language multilingual text-to-speech model capable
 
 `text-to-speech`
 
-⬇️ 15,249 • ❤️ 926 • 4h ago
+⬇️ 15,249 • ❤️ 926 • 5h ago
 
 ---
 
@@ -457,7 +455,7 @@ ERNIE-Image is a 8B parameter text-to-image diffusion model excelling in complex
 
 `text-to-image`
 
-⬇️ 1,351 • ❤️ 325 • 33m ago
+⬇️ 1,351 • ❤️ 325 • 2h ago
 
 ---
 
@@ -481,7 +479,7 @@ ERNIE-Image-Turbo is a distilled text-to-image diffusion model optimized for spe
 
 `text-to-image`
 
-⬇️ 1,369 • ❤️ 236 • 49m ago
+⬇️ 1,369 • ❤️ 236 • 2h ago
 
 ---
 
@@ -493,7 +491,7 @@ Gemma 4 31B IT NVFP4 Turbo is a highly optimized text-generation model, achievin
 
 `text-generation` `32.5B`
 
-⬇️ 57,507 • ❤️ 226 • 5d ago
+⬇️ 57,507 • ❤️ 226 • 6d ago
 
 ---
 
@@ -639,7 +637,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 46.8k • 🔱 6.1k • 6h ago
+⭐ 46.8k • 🔱 6.1k • 7h ago
 
 ---
 
@@ -659,7 +657,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 33.2k • 🔱 1.6k • 18h ago
+⭐ 33.2k • 🔱 1.6k • 20h ago
 
 ---
 
@@ -669,7 +667,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 27.7k • 🔱 3.0k • 1h ago
+⭐ 27.7k • 🔱 3.0k • 2h ago
 
 ---
 
@@ -679,7 +677,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 8.0k • 🔱 508 • 7m ago
+⭐ 8.0k • 🔱 508 • 1h ago
 
 ---
 
@@ -719,7 +717,7 @@ The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interac
 
 `Swift` `apple-intelligence` `apple-silicon` `cli` `foundationmodels` `homebrew`
 
-⭐ 4.6k • 🔱 174 • 4m ago
+⭐ 4.6k • 🔱 174 • 1h ago
 
 ---
 

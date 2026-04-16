@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-16T07:48:50.197243+00:00'
+updated: '2026-04-16T09:20:58.183682+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
-- news
 - videos
+- news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 16, 2026 at 07:48 UTC  
+**Last Updated:** April 16, 2026 at 09:20 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,347.55
+### $2,346.40
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.8%  
-**7d:** +4.6%  
-**30d:** +6.5%  
-**90d:** -29.1%  
-**1y:** +48.5%  
+**24h:** +0.7%  
+**7d:** +4.4%  
+**30d:** +6.3%  
+**90d:** -29.2%  
+**1y:** +48.2%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2h ago
+4h ago
 
 ---
 
@@ -150,7 +150,7 @@ I permanently lost $2,000 USD value trying to stake via direct contract interact
 
 **[Bitmine Reports $3.8 Billion Loss As Ethereum Sinks](https://finance.yahoo.com/news/bitmine-reports-3-8-billion-125000138.html)**
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -158,7 +158,7 @@ Yahoo Finance • 18h ago
 
 The largest corporate ether holder posted a $3.8 billion quarterly loss as its pivot from mining to ETH accumulation continues.
 
-CoinDesk • 19h ago
+CoinDesk • 20h ago
 
 ---
 
@@ -172,7 +172,7 @@ PR Newswire • 2d ago
 
 **[Ethereum Analysis: How High Can This Bounce Actually Go $BTC $ETH $BNB](https://www.binance.com/en/square/post/313054977695089)**
 
-Binance • 1h ago
+Binance • 2h ago
 
 ---
 
@@ -190,11 +190,11 @@ Barron's • 2d ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Tuesday, April 14, 2026: Prices rebound despite U.S. blockade in the Middle East](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-april-14-2026-prices-rebound-despite-us-blockade-in-the-middle-east-112122301.html)**
+**[Which Cryptocurrency Should You Be Hoarding Right Now, Bitcoin or Ethereum?](https://finance.yahoo.com/markets/crypto/articles/cryptocurrency-hoarding-now-bitcoin-ethereum-115000780.html)**
 
-​​Bitcoin (BTC-USD) opened at $74,442.23 and ethereum (ETH-USD) opened at $2,369.90. Bitcoin was up 5.2% and ethereum was up 8.1% from Monday's open.
+If crypto treasury companies are loading up on Bitcoin and Ethereum, should you be too?
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -210,15 +210,13 @@ CoinDesk • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 18h ago
+Fortune • 20h ago
 
 ---
 
-**[Crypto Hacker Mints $1.1 Billion in Polkadot via Ethereum Bridge, But Can Only Cash Out $237K](https://decrypt.co/364131/crypto-hacker-mints-billion-polkadot-ethereum-bridge-cashes-out-237k)**
+**[Ethereum absorbs $8.4B – But stablecoin activity is moving elsewhere](https://ambcrypto.com/?p=589331)**
 
-A hacker exploited a Polkadot bridge, minting $1.1 billion worth of DOT tokens before making a tiny fraction of that tally by selling it.
-
-Decrypt • 2d ago
+AMBCrypto • 10h ago
 
 ---
 
@@ -232,7 +230,7 @@ Buy Ethereum? CRYPTO RETIREMENT ACCOUNT HERE Sign up for iTrustCapital and get a
 
 📺 Crypto Jebb
 
-👁️ 4K • 👍 222 • 💬 133 • ⏱️ 14:10 • 13h ago
+👁️ 4K • 👍 222 • 💬 133 • ⏱️ 14:10 • 15h ago
 
 ---
 
@@ -242,7 +240,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 4K • 👍 219 • 💬 11 • ⏱️ 14:46 • 15h ago
+👁️ 4K • 👍 219 • 💬 11 • ⏱️ 14:46 • 17h ago
 
 ---
 
@@ -252,7 +250,7 @@ Ethereum is moving higher in a corrective bounce and approaching a major resista
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 237 • 💬 14 • ⏱️ 9:49 • 7h ago
+👁️ 3K • 👍 237 • 💬 14 • ⏱️ 9:49 • 9h ago
 
 ---
 
@@ -262,7 +260,7 @@ URGENT $60000 Ethereum Incoming Despite Crypto Clarity Delay $120M flows to XRP!
 
 📺 CryptoWendyO
 
-👁️ 6K • 👍 417 • 💬 40 • ⏱️ 32:36 • 13h ago
+👁️ 6K • 👍 417 • 💬 40 • ⏱️ 32:36 • 15h ago
 
 ---
 
@@ -272,7 +270,7 @@ Michael Saylor's Ethereum view has changed. Bitcoin is digital capital. Ethereum
 
 📺 Bankless
 
-👁️ 2K • 👍 75 • 💬 4 • ⏱️ 1:17 • 9h ago
+👁️ 2K • 👍 75 • 💬 4 • ⏱️ 1:17 • 11h ago
 
 ---
 
@@ -282,7 +280,7 @@ BITCOIN & STOCKS BREAKING OUT (All Time Highs)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 2K • 👍 141 • 💬 100 • ⏱️ 23:10 • 3h ago
+👁️ 2K • 👍 141 • 💬 100 • ⏱️ 23:10 • 4h ago
 
 ---
 
@@ -292,7 +290,7 @@ Companies over the course of 2026 have been all but frothing at the mouth trying
 
 📺 The Modern Investor
 
-👁️ 6K • 👍 734 • 💬 429 • ⏱️ 29:08 • 21h ago
+👁️ 6K • 👍 734 • 💬 429 • ⏱️ 29:08 • 23h ago
 
 ---
 
@@ -302,7 +300,7 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 4K • 👍 251 • 💬 124 • ⏱️ 11:55 • 18h ago
+👁️ 4K • 👍 251 • 💬 124 • ⏱️ 11:55 • 20h ago
 
 ---
 
@@ -312,7 +310,7 @@ Hier kannst du mich unterstützen und die die Börse BYDFI ansehen! OFFIZIELLER 
 
 📺 Krypto Trading & Investing
 
-👁️ 2K • 👍 401 • 💬 66 • ⏱️ 8:47 • 3h ago
+👁️ 2K • 👍 401 • 💬 66 • ⏱️ 8:47 • 5h ago
 
 ---
 
@@ -322,7 +320,7 @@ We're diving into the latest "xrp news today" as extreme "xrp price" targets, ra
 
 📺 Ripple Moon Watch
 
-👁️ 3K • 👍 203 • 💬 65 • ⏱️ 19:27 • 18h ago
+👁️ 3K • 👍 203 • 💬 65 • ⏱️ 19:27 • 19h ago
 
 ---
 
