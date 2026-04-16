@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-15T23:42:28.439997+00:00'
+updated: '2026-04-16T02:45:22.719250+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- cryptocurrency
 - videos
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 15, 2026 at 23:42 UTC  
+**Last Updated:** April 16, 2026 at 02:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,351.15
+### $2,367.18
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.8%  
-**7d:** +7.4%  
-**30d:** +1.5%  
-**90d:** -28.6%  
-**1y:** +49.1%  
+**24h:** +1.6%  
+**7d:** +5.4%  
+**30d:** +7.3%  
+**90d:** -28.5%  
+**1y:** +49.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $283.94B
+**Market Cap:** $285.45B
 Rank #2
 
-**Circulating Supply:** 120,690,957 ETH
+**Circulating Supply:** 120,690,932 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--52.4%
+-52.1%
 
 **All-Time Low:** $0.43
-+543118.0%
++546667.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-18h ago
+21h ago
 
 ---
 
@@ -118,7 +118,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I built a CLI tool in rust called LaunchDex that deploys a full DEX--factory contract, router, liquidity pair and swap frontend--on Ethereum, Arbitrum, and Base in a single command. The whole process that typically takes weeks of manual contract deployment, configuration and frontend setup is reduced to launchdex deploy. Contract addresses are saved automatically and a custom swap interface is generated and ready to deploy. The tool is built on top of verified Uniswap v2 contracts so the deployed DEX is production-grade and audited. Multi-token support lets you add additional trading pairs to an existing factory with one command. The generated frontend includes an embedded wallet so user can swap tokens without needing Metamask installed. Let me know what you think
 
-2d ago
+3d ago
 
 ---
 
@@ -150,7 +150,7 @@ There’s a lot of focus lately on calldata in the context of rollups and EIP-20
 
 **[Bitmine Reports $3.8 Billion Loss As Ethereum Sinks](https://finance.yahoo.com/news/bitmine-reports-3-8-billion-125000138.html)**
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -158,7 +158,7 @@ Yahoo Finance • 10h ago
 
 The largest corporate ether holder posted a $3.8 billion quarterly loss as its pivot from mining to ETH accumulation continues.
 
-CoinDesk • 11h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -170,19 +170,11 @@ PR Newswire • 2d ago
 
 ---
 
-**[Ripple CEO Brad Garlinghouse Bets Big on XRP Flipping Ethereum](https://coinpaper.com/16228/ripple-ceo-brad-garlinghouse-bets-big-on-xrp-flipping-ethereum)**
+**[XRP Has Unique Advantages Over Bitcoin, Ethereum, Trader Argues](https://finance.yahoo.com/markets/crypto/articles/xrp-unique-advantages-over-bitcoin-003107877.html)**
 
-Ripple CEO Brad Garlinghouse says XRP could challenge Ethereum for the #2 crypto spot, driven by real-world cross-border payment utility.
+XRP is emerging as a preferred asset, with traders arguing its long-term potential lies in its role within global payments and evolving financial infrastructure. Positioned for Growth Without Dominance In his Apr.13 podcast, trader Cryptoinsightuk said XRP doesn't need to...
 
-Coinpaper • 1d ago
-
----
-
-**[Bitcoin and ethereum prices today, Tuesday, April 14, 2026: Prices rebound despite U.S. blockade in the Middle East](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-april-14-2026-prices-rebound-despite-us-blockade-in-the-middle-east-112122301.html)**
-
-​​Bitcoin (BTC-USD) opened at $74,442.23 and ethereum (ETH-USD) opened at $2,369.90. Bitcoin was up 5.2% and ethereum was up 8.1% from Monday's open.
-
-Yahoo Finance • 1d ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -204,7 +196,7 @@ The Block • 1d ago
 
 Ethereum’s derivatives market on Binance is flashing a setup that could leave short sellers exposed if the recent move higher continues. According to analysis shared on X by CryptoQuant contributor Darkfost, positioning has become increasingly one-sided even as ETH has rebounded sharply from its Fe…
 
-TradingView — Track All Markets • 13h ago
+TradingView — Track All Markets • 16h ago
 
 ---
 
@@ -216,11 +208,17 @@ Decrypt • 2d ago
 
 ---
 
-**[Which Cryptocurrency Should You Be Hoarding Right Now, Bitcoin or Ethereum?](https://www.fool.com/investing/2026/04/13/which-cryptocurrency-should-you-be-hoarding-right/)**
+**[Ethereum absorbs $8.4B – But stablecoin activity is moving elsewhere](https://ambcrypto.com/?p=589331)**
 
-If crypto treasury companies are loading up on Bitcoin and Ethereum, should you be too?
+AMBCrypto • 3h ago
 
-The Motley Fool • 2d ago
+---
+
+**[Crypto News: Pepeto Reveals DeFi Update And Ethereum Price Aims Higher as Bull Run Signals Build](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-reveals-defi-update-and-ethereum-price-aims-higher-as-bull-run-signals-build-1036023348)**
+
+Dubai, UAE, April  15, 2026  (GLOBE NEWSWIRE) -- Ethereum based crypto Pepeto announces continuous advancement of the Defi tools, tools that aim t...
+
+markets.businessinsider.com • 19h ago
 
 ---
 
@@ -234,7 +232,17 @@ Buy Ethereum? CRYPTO RETIREMENT ACCOUNT HERE Sign up for iTrustCapital and get a
 
 📺 Crypto Jebb
 
-👁️ 2K • 👍 162 • 💬 56 • ⏱️ 14:10 • 5h ago
+👁️ 3K • 👍 197 • 💬 131 • ⏱️ 14:10 • 8h ago
+
+---
+
+**[Ethereum Analysis: How High Can This Bounce Actually Go?](https://www.youtube.com/watch?v=2Vs2aLFcCWY)**
+
+Ethereum is moving higher in a corrective bounce and approaching a major resistance cluster. In this video I walk through the ...
+
+📺 More Crypto Online
+
+👁️ 895 • 👍 103 • 💬 8 • ⏱️ 9:49 • 2h ago
 
 ---
 
@@ -244,17 +252,7 @@ URGENT $60000 Ethereum Incoming Despite Crypto Clarity Delay $120M flows to XRP!
 
 📺 CryptoWendyO
 
-👁️ 4K • 👍 367 • 💬 19 • ⏱️ 32:36 • 5h ago
-
----
-
-**[Michael Saylor on Ethereum: It’s Still the Leader](https://www.youtube.com/watch?v=BtiLtGZXPX4)**
-
-Michael Saylor's Ethereum view has changed. Bitcoin is digital capital. Ethereum is leading the tokenization race. #Bitcoin ...
-
-📺 Bankless
-
-👁️ 535 • 👍 34 • 💬 22 • ⏱️ 1:17 • 1h ago
+👁️ 5K • 👍 390 • 💬 23 • ⏱️ 32:36 • 8h ago
 
 ---
 
@@ -264,7 +262,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 3K • 👍 162 • 💬 9 • ⏱️ 14:46 • 7h ago
+👁️ 3K • 👍 195 • 💬 11 • ⏱️ 14:46 • 10h ago
+
+---
+
+**[Michael Saylor on Ethereum: It’s Still the Leader](https://www.youtube.com/watch?v=BtiLtGZXPX4)**
+
+Michael Saylor's Ethereum view has changed. Bitcoin is digital capital. Ethereum is leading the tokenization race. #Bitcoin ...
+
+📺 Bankless
+
+👁️ 1K • 👍 55 • 💬 3 • ⏱️ 1:17 • 4h ago
 
 ---
 
@@ -274,7 +282,7 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 4K • 👍 232 • 💬 41 • ⏱️ 11:55 • 10h ago
+👁️ 4K • 👍 244 • 💬 110 • ⏱️ 11:55 • 13h ago
 
 ---
 
@@ -284,7 +292,7 @@ Companies over the course of 2026 have been all but frothing at the mouth trying
 
 📺 The Modern Investor
 
-👁️ 6K • 👍 691 • 💬 358 • ⏱️ 29:08 • 13h ago
+👁️ 6K • 👍 712 • 💬 428 • ⏱️ 29:08 • 16h ago
 
 ---
 
@@ -294,7 +302,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 144 • 👍 10 • 💬 3 • ⏱️ 4:49 • 3h ago
+👁️ 192 • 👍 13 • 💬 3 • ⏱️ 4:49 • 6h ago
 
 ---
 
@@ -304,27 +312,17 @@ XRP, Bitcoin, Ethereum EXPLODING: How I Turned $5000 Into $1M (Almost) ALL of Ma
 
 📺 Martyn Lucas INVESTOR
 
-👁️ 927 • 👍 93 • 💬 3 • ⏱️ 14:26 • 2h ago
+👁️ 1K • 👍 106 • 💬 5 • ⏱️ 14:26 • 5h ago
 
 ---
 
-**[🔴 Ethereum Is Finally Breaking Out – Next Target $3,000?](https://www.youtube.com/watch?v=EzqGrq9CQOo)**
+**[XRP TO $27,000?!?! ETHEREUM GETS FLIPPED IN 2 MONTHS?!](https://www.youtube.com/watch?v=W-ZKWPZ8zkU)**
 
-BloFin - No KYC/No VPN needed [Trade ETH Coin Futures!] https://marzell.org/Blofin_Trade CoinGPT ...
+We're diving into the latest "xrp news today" as extreme "xrp price" targets, ranging from $10000 to $50000, are causing a stir ...
 
-📺 Marzell Crypto
+📺 Ripple Moon Watch
 
-👁️ 819 • 👍 30 • 💬 88 • ⏱️ 5:01 • 1d ago
-
----
-
-**[ETHEREUM RALLY UPDATE!🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=QhsjIx2DFBA)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 176 • 👍 16 • 💬 1 • ⏱️ 4:24 • 14h ago
+👁️ 3K • 👍 191 • 💬 63 • ⏱️ 19:27 • 13h ago
 
 ---
 

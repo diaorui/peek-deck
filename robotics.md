@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-15T23:42:28.442823+00:00'
+updated: '2026-04-16T02:45:22.722418+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 15, 2026 at 23:42 UTC  
+**Last Updated:** April 16, 2026 at 02:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Reflex Robotics on 𝕏: https://x.com/ReflexRobot/status/2044154114108543297
 
-13h ago
+16h ago
 
 ---
 
@@ -44,13 +44,13 @@ From Reflex Robotics on 𝕏: https://x.com/ReflexRobot/status/20441541141085432
 
 Teleoperation through a ps5 controller, powered by ROS2 and an stm32. Honestly not too happy with it but this is my first robot ever, wanted to challenge myself. Too much vibration and shaky teleop.
 
-6h ago
+9h ago
 
 ---
 
 **[Robot dog with Elon Musk's face wandering the streets.](https://www.reddit.com/r/robotics/comments/1sm2aej/robot_dog_with_elon_musks_face_wandering_the/)**
 
-13h ago
+16h ago
 
 ---
 
@@ -58,7 +58,7 @@ Teleoperation through a ps5 controller, powered by ROS2 and an stm32. Honestly n
 
 l get a dtof lidar, l want to use it on my drone for obstacles avoidance. today, l make a simple test on its point cloud and depth map, it's great ! Share the test results with you. And the code with open source on the github later,
 
-7h ago
+10h ago
 
 ---
 
@@ -66,7 +66,7 @@ l get a dtof lidar, l want to use it on my drone for obstacles avoidance. today,
 
 Ukraine's defense ministry said that its forces tripled UGV missions since November to over 9,000 tasks in March alone.
 
-🔗 [Business Insider](https://www.businessinsider.com/ukraine-ground-robots-troops-uncrewed-ground-vehicles-first-quarter-2026-4) • 11h ago
+🔗 [Business Insider](https://www.businessinsider.com/ukraine-ground-robots-troops-uncrewed-ground-vehicles-first-quarter-2026-4) • 14h ago
 
 ---
 
@@ -74,15 +74,7 @@ Ukraine's defense ministry said that its forces tripled UGV missions since Novem
 
 Blog post: Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning: https://deepmind.google/blog/gemini-robotics-er-1-6/ From Google DeepMind on 𝕏: https://x.com/GoogleDeepMind/status/2044069878781390929
 
-21h ago
-
----
-
-**[Google DeepMind's Gemini Robotics-ER 1.6: instrument reading jumped from 23% to 93% accuracy. Now deployed on Boston Dynamics Spot for industrial inspection.](https://www.reddit.com/r/robotics/comments/1sm7876/google_deepminds_gemini_roboticser_16_instrument/)**
-
-The architecture is a dual system: → Gemini Robotics-ER 1.6: the "strategist" — spatial reasoning, object counting, instrument reading, task verification → Gemini Robotics 1.5 (VLA): executes motor commands The instrument reading jump (23%- 93%) comes from agentic vision — the model iterates visually rather than making a single-pass prediction. Current deployment: Boston Dynamics Spot reading pressure meters and sight glasses during facility inspection. The honest limitation: these demos are in controlled environments. Industrial deployment requires handling edge cases that structured tests don't surface. Full analysis: https://www.aiuniverse.news/google-deepminds-new-robot-brain-masters-reading-dials-and-understanding-space/
-
-🔗 [AI Universe](https://www.aiuniverse.news/google-deepminds-new-robot-brain-masters-reading-dials-and-understanding-space/) • 9h ago
+1d ago
 
 ---
 
@@ -90,7 +82,23 @@ The architecture is a dual system: → Gemini Robotics-ER 1.6: the "strategist" 
 
 The right side is showing a brain visualizer where you can see the neural activity controlling the arm. By interacting with the cortical areas in the visualizer, the Franka Panda arm on the left responds in real-time. This was done without any code using FEAGI, an open-source neurorobotics platform that uses spiking neural networks.
 
-1h ago
+4h ago
+
+---
+
+**[Google DeepMind's Gemini Robotics-ER 1.6: instrument reading jumped from 23% to 93% accuracy. Now deployed on Boston Dynamics Spot for industrial inspection.](https://www.reddit.com/r/robotics/comments/1sm7876/google_deepminds_gemini_roboticser_16_instrument/)**
+
+The architecture is a dual system: → Gemini Robotics-ER 1.6: the "strategist" — spatial reasoning, object counting, instrument reading, task verification → Gemini Robotics 1.5 (VLA): executes motor commands The instrument reading jump (23%- 93%) comes from agentic vision — the model iterates visually rather than making a single-pass prediction. Current deployment: Boston Dynamics Spot reading pressure meters and sight glasses during facility inspection. The honest limitation: these demos are in controlled environments. Industrial deployment requires handling edge cases that structured tests don't surface. Full analysis: https://www.aiuniverse.news/google-deepminds-new-robot-brain-masters-reading-dials-and-understanding-space/
+
+🔗 [AI Universe](https://www.aiuniverse.news/google-deepminds-new-robot-brain-masters-reading-dials-and-understanding-space/) • 12h ago
+
+---
+
+**[Persistent object memory for robots – tracks what, where, and when](https://www.reddit.com/r/robotics/comments/1smaekh/persistent_object_memory_for_robots_tracks_what/)**
+
+https://i.redd.it/mw5wu8lgndvg1.gif Robots process each camera frame and forget it. RTSM watches an RGB-D stream, segments objects, tracks them across viewpoints, and maintains a queryable 3D object map. pip install rtsm[gpu] && rtsm demo Built with SAM2 + Grounding DINO + SigLIP. Apache 2.0. Any AI agent can query via MCP. GitHub: https://github.com/calabi-inc/rtsm
+
+10h ago
 
 ---
 
@@ -98,15 +106,7 @@ The right side is showing a brain visualizer where you can see the neural activi
 
 Seems like some people have access to view their paper decisions for RSS? Decisions were sent out but then deleted. You can view under Recent Activity in Open Review.
 
-3h ago
-
----
-
-**[OpenArm: An open-source humanoid arm you can actually build, simulate, and teleoperate](https://www.reddit.com/r/robotics/comments/1sletlb/openarm_an_opensource_humanoid_arm_you_can/)**
-
-OpenArm is an open-source humanoid arm platform developed by Enactic in Tokyo. It includes full CAD files, control code, firmware, and simulation tools, allowing users to build, modify, and test the system themselves. The arms are compliant and backdrivable, with teleoperation support that includes force feedback and gravity compensation. It also integrates with MuJoCo and Isaac Sim, enabling simulation-first development before running on real hardware. Project page: https://github.com/enactic/OpenArm
-
-1d ago
+6h ago
 
 ---
 
@@ -122,6 +122,14 @@ Google DeepMind • 1d ago
 
 ---
 
+**[Gemini Robotics ER-1.6 enhances reasoning to help robots navigate real-world tasks.](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-1-6/)**
+
+An overview of Gemini Robotics-ER 1.6, an upgrade to our reasoning-first model that helps robots to understand their environment.
+
+blog.google • 1d ago
+
+---
+
 **[AIVI-Learning Is Now Powered by Google Gemini Robotics](https://bostondynamics.com/blog/aivi-learning-now-powered-google-gemini-robotics/)**
 
 We have partnered with Google Cloud and Google DeepMind to integrate Gemini and Gemini Robotics ER 1.6 into Orbit AIVI-Learning.
@@ -130,11 +138,11 @@ Boston Dynamics • 1d ago
 
 ---
 
-**[Boston Dynamics’ robot dog now reads gauges and thermometers with Google’s AI](https://arstechnica.com/ai/2026/04/robot-dogs-now-read-gauges-and-thermometers-using-google-gemini/)**
+**[Skild AI Acquires Zebra Technologies' Robotics Automation Business](https://www.businesswire.com/news/home/20260415518240/en/Skild-AI-Acquires-Zebra-Technologies-Robotics-Automation-Business)**
 
-Google's AI enables robots to read gauges while inspecting industrial facilities.
+Skild AI today announced the acquisition of Zebra Technologies' Robotics Automation business, including its Symmetry Fulfillment orchestration platform. This...
 
-Ars Technica • 4h ago
+Business Wire • 5h ago
 
 ---
 
@@ -146,17 +154,23 @@ politico.eu • 1d ago
 
 ---
 
-**[Big-name manufacturers showcase robotics, automation at Upper Macungie event](https://www.wfmz.com/news/area/lehighvalley/lehigh-county/western-lehigh-county/big-name-manufacturers-showcase-robotics-automation-at-upper-macungie-event/article_02d3683a-e1ef-45a8-bf90-3a721ffd9080.html)**
+**[Cadence, Nvidia working together on developing AI for robotics](https://www.reuters.com/technology/cadence-nvidia-working-together-developing-ai-robotics-2026-04-15/)**
 
-Several manufacturers like Neff, Demco, and Just Born set up booths to showcase their automation solutions, like robots, help their own company and workflow.
-
-WFMZ.com • 7h ago
+Reuters • 5h ago
 
 ---
 
-**[Cadence, Nvidia working together on developing AI for robotics](https://www.reuters.com/technology/cadence-nvidia-working-together-developing-ai-robotics-2026-04-15/)**
+**[Tesla’s Chinese Robot Rival Ramps Pre-IPO Global Push](https://www.bloomberg.com/news/articles/2026-04-15/tesla-s-chinese-robot-rival-ramps-up-global-push-ahead-of-ipo)**
 
-Reuters • 2h ago
+Bloomberg.com • 17h ago
+
+---
+
+**[Chinese humanoid robots prepare for second-ever half marathon in Beijing](https://www.nbcnews.com/video/chinese-humanoid-robots-prepare-for-second-ever-half-marathon-in-beijing-261285445622)**
+
+Chinese humanoid robots train to go head-to-head with human runners in the second-ever Beijing half marathon. NBC News' Kathy Park reports.
+
+NBC News • 2d ago
 
 ---
 
@@ -164,13 +178,7 @@ Reuters • 2h ago
 
 Panther has been filmed doing basic household chores, like making the bed and cooking breakfast.
 
-Live Science • 7h ago
-
----
-
-**[Skild AI Acquires Zebra Technologies’ Robotics Automation Business](https://www.bloomberg.com/news/articles/2026-04-15/skild-ai-acquires-zebra-technologies-robotics-automation-business)**
-
-Bloomberg • 4h ago
+Live Science • 10h ago
 
 ---
 
@@ -178,15 +186,7 @@ Bloomberg • 4h ago
 
 Six students from Brownsville's Harmony Science Academy will miss the 2026 VEX Robotics World Championship due to a scheduling conflict with mandatory STAAR testing, leaving the qualifying team and parents disappointed.
 
-KRGV • 19h ago
-
----
-
-**[Can classroom robots become tutors? Classover and Luka will test it](https://www.stocktitan.net/news/KIDZ/classover-and-luka-announce-strategic-collaboration-to-advance-ai-c6h5kg38hkmc.html)**
-
-Pilot programs in robotics labs and physical learning spaces will test AI companions beyond screens, shaping scalable education use cases in North America.
-
-Stock Titan • 12h ago
+KRGV • 22h ago
 
 ---
 
@@ -200,7 +200,7 @@ Boston Dynamics just did what most people thought would take years longer. Atlas
 
 📺 AI Revolution
 
-👁️ 68K • 👍 2K • 💬 127 • ⏱️ 21:49 • 1d ago
+👁️ 73K • 👍 2K • 💬 130 • ⏱️ 21:49 • 2d ago
 
 ---
 
@@ -210,7 +210,27 @@ Chinese humanoid robots train to go head-to-head with human runners in the secon
 
 📺 NBC News
 
-👁️ 113K • 👍 826 • 💬 345 • ⏱️ 1:59 • 1d ago
+👁️ 121K • 👍 863 • 💬 359 • ⏱️ 1:59 • 2d ago
+
+---
+
+**[Final FTC Top 25 | DECODE - Presented by Studica Robotics](https://www.youtube.com/watch?v=AdT94eYEI5Q)**
+
+Editors note: The end game stats in the graphics were displaying teleop (teleopCombined - dcBasePoints) not end game.
+
+📺 FUN Robotics Network
+
+👁️ 826 • 👍 27 • ⏱️ 1:14:46 • 1h ago
+
+---
+
+**[Kopin (KOPN): The next Kraken Robotics? | The $22 Billion Anduril Catalyst](https://www.youtube.com/watch?v=JK_tSF6CNos)**
+
+Is Kopin ($KOPN) the hidden winner of the $22 Billion "Eagle Eye" project, or is the hype misplaced? Investors in Kraken Robotics ...
+
+📺 Market Mavericks: Talks
+
+👁️ 346 • 👍 23 • 💬 8 • ⏱️ 14:52 • 13h ago
 
 ---
 
@@ -220,37 +240,17 @@ Try Seedance 2.0 with Claude on Higgsfield: https://higgsfield.ai/s/seedance-2-0
 
 📺 AI Revolution
 
-👁️ 96K • 👍 2K • 💬 179 • ⏱️ 14:57 • 4d ago
+👁️ 97K • 👍 2K • 💬 179 • ⏱️ 14:57 • 4d ago
 
 ---
 
-**[Ukraine Just Won The First Battle Using an Entire Robot Army... Footage is INSANE ](https://www.youtube.com/watch?v=dA5RYTxKLuo)**
+**[MORNING BUZZ: Humanoid robot goes viral for chasing off wild boars in Poland](https://www.youtube.com/watch?v=0szaFknQGOk)**
 
-Terminator is about to become real?! If you want to help support independent journalism, become a Member: ...
+WARSAW, POLAND (WCIV) — No it's not Science Fiction, and it's surprisingly not AI. A Polish humanoid robot is going viral ...
 
-📺 Benny Johnson
+📺 ABC News 4
 
-👁️ 212K • 👍 14K • 💬 2K • ⏱️ 11:20 • 1d ago
-
----
-
-**[For the first time in history Ukrainian robots captured Russian position and occupiers surrendered](https://www.youtube.com/watch?v=XzqhdqTqLkE)**
-
-Kanal13​ #likekanal13​ #subscribekanal13 #warinukraine https://www.youtube.com/user/kanal13az?sub_confirmation=1 ...
-
-📺 Kanal13
-
-👁️ 43K • 👍 993 • 💬 68 • ⏱️ 10:09 • 1d ago
-
----
-
-**[Tesla Just Started Mass Producing Humanoid Robots — And Nobody Is Ready](https://www.youtube.com/watch?v=2sHaQffX0w0)**
-
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *Tesla ...
-
-📺 Julia McCoy
-
-👁️ 46K • 👍 1K • 💬 202 • ⏱️ 4:16 • 1d ago
+👁️ 885 • 👍 6 • ⏱️ 2:22 • 11h ago
 
 ---
 
@@ -260,17 +260,27 @@ Could AI become dangerous? Can we trust AI Agents? AGI. Use code insideai at htt
 
 📺 InsideAI
 
-👁️ 748K • 👍 27K • 💬 2K • ⏱️ 16:24 • 6d ago
+👁️ 758K • 👍 27K • 💬 2K • ⏱️ 16:24 • 6d ago
 
 ---
 
-**[Smarter Inspections Powered by Google Gemini Robotics | Boston Dynamics](https://www.youtube.com/watch?v=kBwxmlI2yHQ)**
+**[Ukrainian president says robots captured territory from Russian soldiers](https://www.youtube.com/watch?v=XiGwWwcnT7M)**
 
-The introduction of AI Visual inspections expanded what Spot and Orbit could tell you about your facility - now, AIVI-Learning ...
+President Zelenskyy says that for the first time ever, the Ukrainian army was able to use only robots to retake territory from Russian ...
 
-📺 Boston Dynamics
+📺 NBC News
 
-👁️ 30K • 👍 1K • 💬 103 • ⏱️ 1:40 • 1d ago
+👁️ 25K • 👍 836 • 💬 151 • ⏱️ 3:12 • 1h ago
+
+---
+
+**[For the first time in history Ukrainian robots captured Russian position and occupiers surrendered](https://www.youtube.com/watch?v=XzqhdqTqLkE)**
+
+Kanal13​ #likekanal13​ #subscribekanal13 #warinukraine https://www.youtube.com/user/kanal13az?sub_confirmation=1 ...
+
+📺 Kanal13
+
+👁️ 44K • 👍 1K • 💬 76 • ⏱️ 10:09 • 1d ago
 
 ---
 
@@ -280,17 +290,7 @@ A new wave of attention is building around Elon Musk's latest version of the Tes
 
 📺 Carros Show
 
-👁️ 14K • 👍 313 • 💬 37 • ⏱️ 8:01 • 2d ago
-
----
-
-**[Humanoid robot chases off wild boars in Warsaw, Poland](https://www.youtube.com/watch?v=CNb2DT4pC2w)**
-
-The Sun brings you breaking news and in-depth analysis on the stories that matter most. From the ongoing war in Ukraine to ...
-
-📺 The Sun
-
-👁️ 118K • 👍 2K • 💬 255 • ⏱️ 0:34 • 13h ago
+👁️ 15K • 👍 328 • 💬 40 • ⏱️ 8:01 • 2d ago
 
 ---
 
