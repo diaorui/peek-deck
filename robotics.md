@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-16T11:59:16.421051+00:00'
+updated: '2026-04-16T14:07:19.401960+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 16, 2026 at 11:59 UTC  
+**Last Updated:** April 16, 2026 at 14:07 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,21 @@ Robotics research and industry news
 
 From The Humanoid Hub on 𝕏: https://x.com/TheHumanoidHub/status/2044504579480686900
 
-3h ago
+5h ago
+
+---
+
+**[I 3D-printed a capture point for my Capture the Base robot game](https://www.reddit.com/r/robotics/comments/1sn2ptz/i_3dprinted_a_capture_point_for_my_capture_the/)**
+
+1h ago
+
+---
+
+**[Made a 3d printed 6-axis robotic arm as my graduation project.](https://www.reddit.com/r/robotics/comments/1smbw9w/made_a_3d_printed_6axis_robotic_arm_as_my/)**
+
+Teleoperation through a ps5 controller, powered by ROS2 and an stm32. Honestly not too happy with it but this is my first robot ever, wanted to challenge myself. Too much vibration and shaky teleop.
+
+21h ago
 
 ---
 
@@ -48,17 +62,17 @@ From Reflex Robotics on 𝕏: https://x.com/ReflexRobot/status/20441541141085432
 
 ---
 
-**[Made a 3d printed 6-axis robotic arm as my graduation project.](https://www.reddit.com/r/robotics/comments/1smbw9w/made_a_3d_printed_6axis_robotic_arm_as_my/)**
+**[Looking for advice on sub-millimeter robot arm accuracy](https://www.reddit.com/r/robotics/comments/1sn0o7g/looking_for_advice_on_submillimeter_robot_arm/)**
 
-Teleoperation through a ps5 controller, powered by ROS2 and an stm32. Honestly not too happy with it but this is my first robot ever, wanted to challenge myself. Too much vibration and shaky teleop.
+Hello, I am implementing a full joint impedance controller on a factory robot arm (with feedforward coriolus, mass matrix, gravity comp, and friction comp). It works well, up to about 0.2 deg accuracy due to low gains (which I want) and static friction deadband. If I increase the coulomb friction compensation I introduce small high-frequency oscillations. My ideas to solve this are either some secondary low amplitude damping term that allows me to increase friction comp and damp out its oscillations, or add some clipped/gated integral term. I was wondering if anyone has chased steady state error to ~0.01 deg and if either of my above ideas are standard in industry. Note I really just care about decreasing the error of my sensed versus realized joint angles, and I am not too concerned with hardware tolerances/physical accuracy. I more so just want my realized joint values to be within 0.01deg of my commanded, and I don’t want to increase my P gain. Any advice as to what’s happening under the hood on these sub-mm controllers would be greatly appreciated.
 
-19h ago
+2h ago
 
 ---
 
-**[Debugging robots with ReductStore and Foxglove](https://www.reddit.com/r/robotics/comments/1smx37u/debugging_robots_with_reductstore_and_foxglove/)**
+**[I gave Reachy Mini a custom 3D printed outfit, then built and deployed a live object detection app on her camera.](https://www.reddit.com/r/robotics/comments/1sn30om/i_gave_reachy_mini_a_custom_3d_printed_outfit/)**
 
-3h ago
+1h ago
 
 ---
 
@@ -68,19 +82,17 @@ Teleoperation through a ps5 controller, powered by ROS2 and an stm32. Honestly n
 
 ---
 
+**[Debugging robots with ReductStore and Foxglove](https://www.reddit.com/r/robotics/comments/1smx37u/debugging_robots_with_reductstore_and_foxglove/)**
+
+6h ago
+
+---
+
 **[Raspberry Pi 4B & dtof lidar Test](https://www.reddit.com/r/robotics/comments/1sm9zvp/raspberry_pi_4b_dtof_lidar_test/)**
 
 l get a dtof lidar, l want to use it on my drone for obstacles avoidance. today, l make a simple test on its point cloud and depth map, it's great ! Share the test results with you. And the code with open source on the github later,
 
-20h ago
-
----
-
-**[Looking for advice on sub-millimeter robot arm accuracy](https://www.reddit.com/r/robotics/comments/1sn0o7g/looking_for_advice_on_submillimeter_robot_arm/)**
-
-Hello, I am implementing a full joint impedance controller on a factory robot arm (with feedforward coriolus, mass matrix, gravity comp, and friction comp). It works well, up to about 0.2 deg accuracy due to low gains (which I want) and static friction deadband. If I increase the coulomb friction compensation I introduce small high-frequency oscillations. My ideas to solve this are either some secondary low amplitude damping term that allows me to increase friction comp and damp out its oscillations, or add some clipped/gated integral term. I was wondering if anyone has chased steady state error to ~0.01 deg and if either of my above ideas are standard in industry. Note I really just care about decreasing the error of my sensed versus realized joint angles, and I am not too concerned with hardware tolerances/physical accuracy. I more so just want my realized joint values to be within 0.01deg of my commanded, and I don’t want to increase my P gain. Any advice as to what’s happening under the hood on these sub-mm controllers would be greatly appreciated.
-
-34m ago
+22h ago
 
 ---
 
@@ -89,22 +101,6 @@ Hello, I am implementing a full joint impedance controller on a factory robot ar
 Ukraine's defense ministry said that its forces tripled UGV missions since November to over 9,000 tasks in March alone.
 
 🔗 [Business Insider](https://www.businessinsider.com/ukraine-ground-robots-troops-uncrewed-ground-vehicles-first-quarter-2026-4) • 1d ago
-
----
-
-**[Controlling a simulated Franka Panda Arm with a Simulated Brain](https://www.reddit.com/r/robotics/comments/1smkprk/controlling_a_simulated_franka_panda_arm_with_a/)**
-
-The right side is showing a brain visualizer where you can see the neural activity controlling the arm. By interacting with the cortical areas in the visualizer, the Franka Panda arm on the left responds in real-time. This was done without any code using FEAGI, an open-source neurorobotics platform that uses spiking neural networks.
-
-13h ago
-
----
-
-**[Google DeepMind's Gemini Robotics-ER 1.6: instrument reading jumped from 23% to 93% accuracy. Now deployed on Boston Dynamics Spot for industrial inspection.](https://www.reddit.com/r/robotics/comments/1sm7876/google_deepminds_gemini_roboticser_16_instrument/)**
-
-The architecture is a dual system: → Gemini Robotics-ER 1.6: the "strategist" — spatial reasoning, object counting, instrument reading, task verification → Gemini Robotics 1.5 (VLA): executes motor commands The instrument reading jump (23%- 93%) comes from agentic vision — the model iterates visually rather than making a single-pass prediction. Current deployment: Boston Dynamics Spot reading pressure meters and sight glasses during facility inspection. The honest limitation: these demos are in controlled environments. Industrial deployment requires handling edge cases that structured tests don't surface. Full analysis: https://www.aiuniverse.news/google-deepminds-new-robot-brain-masters-reading-dials-and-understanding-space/
-
-🔗 [AI Universe](https://www.aiuniverse.news/google-deepminds-new-robot-brain-masters-reading-dials-and-understanding-space/) • 21h ago
 
 ---
 
@@ -120,11 +116,11 @@ Google DeepMind • 1d ago
 
 ---
 
-**[Gemini Robotics ER-1.6 enhances reasoning to help robots navigate real-world tasks.](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-1-6/)**
+**[Boston Dynamics’ robot dog now reads gauges and thermometers with Google’s AI](https://arstechnica.com/ai/2026/04/robot-dogs-now-read-gauges-and-thermometers-using-google-gemini/)**
 
-An overview of Gemini Robotics-ER 1.6, an upgrade to our reasoning-first model that helps robots to understand their environment.
+Google's AI enables robots to read gauges while inspecting industrial facilities.
 
-blog.google • 1d ago
+Ars Technica • 18h ago
 
 ---
 
@@ -140,7 +136,23 @@ Boston Dynamics • 1d ago
 
 Skild AI today announced the acquisition of Zebra Technologies' Robotics Automation business, including its Symmetry Fulfillment orchestration platform. This...
 
-Business Wire • 14h ago
+Business Wire • 16h ago
+
+---
+
+**[How will robots help us in the future?](https://www.bbc.com/news/videos/cn8dp42evllo)**
+
+BBC Radio Berkshire speaks to engineers at Extend Robotics in Reading.
+
+BBC • 3h ago
+
+---
+
+**[This humanoid robot does all your housework for you — and its makers say it's ready for your home](https://www.livescience.com/technology/robotics/this-humanoid-robot-does-all-your-housework-for-you-and-its-makers-say-its-ready-for-your-home)**
+
+Panther has been filmed doing basic household chores, like making the bed and cooking breakfast.
+
+Live Science • 21h ago
 
 ---
 
@@ -152,39 +164,23 @@ politico.eu • 2d ago
 
 ---
 
-**[Russians will surrender to robots. Russian robots won’t.](https://www.defenseone.com/technology/2026/04/russians-will-surrender-robots-russian-robots-wont/412889/)**
-
-After a historic first, communications and navigation still obstruct the future for roboticized ground assault.
-
-Defense One • 9h ago
-
----
-
-**[Ukrainian robots capture enemy position without troops in historic first, Zelenskyy says](https://www.euractiv.com/news/ukrainian-robots-capture-enemy-position-without-troops-in-historic-first-zelenskyy-says/)**
-
-"The future is already on the front line," the Ukrainian president said
-
-Euractiv • 1d ago
-
----
-
 **[Cadence, Nvidia working together on developing AI for robotics](https://www.reuters.com/technology/cadence-nvidia-working-together-developing-ai-robotics-2026-04-15/)**
 
-Reuters • 14h ago
+Reuters • 16h ago
 
 ---
 
-**[Cadence and Nvidia (NVDA) Team Up to Train Robots Faster with AI](https://www.tipranks.com/news/cadence-and-nvidia-nvda-team-up-to-train-robots-faster-with-ai)**
+**[Tesla’s Chinese Robot Rival Ramps Pre-IPO Global Push](https://www.bloomberg.com/news/articles/2026-04-15/tesla-s-chinese-robot-rival-ramps-up-global-push-ahead-of-ipo)**
 
-TipRanks • 18h ago
+Bloomberg • 1d ago
 
 ---
 
-**[Cadence and Nvidia are bridging the simulation gap that’s slowing down robotics](https://thenextweb.com/news/cadence-nvidia-robotics-physics-simulation-ai)**
+**[Robots crack jokes and grasp items at Humanoid Robot Expo in Tokyo](https://apnews.com/video/humanoid-robots-crack-jokes-and-grasp-items-at-humanoid-robot-expo-in-tokyo-8be83603b1964e2ab90bb506cc4e5860)**
 
-Cadence and Nvidia expand their AI partnership to close the sim-to-real gap in robotics, fusing physics engines with Nvidia’s Isaac and Cosmos models.
+They can dance and they're good at doing repetitive work we humans tire of, but the big question at the Tokyo Expo is when will the humanoids be able to look after us at home.
 
-The Next Web • 4h ago
+AP News • 4h ago
 
 ---
 
@@ -198,17 +194,7 @@ Boston Dynamics just did what most people thought would take years longer. Atlas
 
 📺 AI Revolution
 
-👁️ 84K • 👍 2K • 💬 138 • ⏱️ 21:49 • 2d ago
-
----
-
-**[Chinese humanoid robots prepare for second-ever half marathon in Beijing](https://www.youtube.com/watch?v=aKYxLWqw8ZQ)**
-
-Chinese humanoid robots train to go head-to-head with human runners in the second-ever Beijing half marathon. NBC News' ...
-
-📺 NBC News
-
-👁️ 135K • 👍 920 • 💬 383 • ⏱️ 1:59 • 2d ago
+👁️ 87K • 👍 2K • 💬 144 • ⏱️ 21:49 • 2d ago
 
 ---
 
@@ -218,7 +204,37 @@ Try Seedance 2.0 with Claude on Higgsfield: https://higgsfield.ai/s/seedance-2-0
 
 📺 AI Revolution
 
-👁️ 97K • 👍 2K • 💬 179 • ⏱️ 14:57 • 4d ago
+👁️ 98K • 👍 2K • 💬 179 • ⏱️ 14:57 • 4d ago
+
+---
+
+**[Chinese humanoid robots prepare for second-ever half marathon in Beijing](https://www.youtube.com/watch?v=aKYxLWqw8ZQ)**
+
+Chinese humanoid robots train to go head-to-head with human runners in the second-ever Beijing half marathon. NBC News' ...
+
+📺 NBC News
+
+👁️ 138K • 👍 958 • 💬 389 • ⏱️ 1:59 • 2d ago
+
+---
+
+**[Ukraine Just Won The First Battle Using an Entire Robot Army... Footage is INSANE ](https://www.youtube.com/watch?v=dA5RYTxKLuo)**
+
+Terminator is about to become real?! If you want to help support independent journalism, become a Member: ...
+
+📺 Benny Johnson
+
+👁️ 221K • 👍 15K • 💬 2K • ⏱️ 11:20 • 1d ago
+
+---
+
+**[Ukrainian president says robots captured territory from Russian soldiers](https://www.youtube.com/watch?v=XiGwWwcnT7M)**
+
+President Zelenskyy says that for the first time ever, the Ukrainian army was able to use only robots to retake territory from Russian ...
+
+📺 NBC News
+
+👁️ 269K • 👍 4K • 💬 964 • ⏱️ 3:12 • 13h ago
 
 ---
 
@@ -228,7 +244,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 58K • 👍 2K • 💬 242 • ⏱️ 4:16 • 1d ago
+👁️ 60K • 👍 2K • 💬 256 • ⏱️ 4:16 • 1d ago
 
 ---
 
@@ -238,7 +254,7 @@ Could AI become dangerous? Can we trust AI Agents? AGI. Use code insideai at htt
 
 📺 InsideAI
 
-👁️ 781K • 👍 28K • 💬 2K • ⏱️ 16:24 • 6d ago
+👁️ 800K • 👍 28K • 💬 2K • ⏱️ 16:24 • 6d ago
 
 ---
 
@@ -248,15 +264,17 @@ A new wave of attention is building around Elon Musk's latest version of the Tes
 
 📺 Carros Show
 
-👁️ 16K • 👍 351 • 💬 56 • ⏱️ 8:01 • 2d ago
+👁️ 17K • 👍 361 • 💬 57 • ⏱️ 8:01 • 2d ago
 
 ---
 
-**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=tUddKeqba5E)**
+**[Robot Arm Mechanism | How Would You Rate This Build? 🤗 #robotics #engineering #mechanism](https://www.youtube.com/watch?v=dFu_nU5GKAE)**
 
-📺 Robot Julie 
+This video showcases the sophisticated mechanics of a 2-DOF robotic wrist, a critical assembly within a 5-DOF robotic arm system ...
 
-👁️ 10K • 👍 50 • 💬 2 • ⏱️ 0:23 • 11h ago
+📺 mechdesign98
+
+👁️ 1.1M • 👍 6K • 💬 60 • ⏱️ 0:06 • 6d ago
 
 ---
 
@@ -266,25 +284,7 @@ Kanal13​ #likekanal13​ #subscribekanal13 #warinukraine https://www.youtube.c
 
 📺 Kanal13
 
-👁️ 47K • 👍 1K • 💬 77 • ⏱️ 10:09 • 2d ago
-
----
-
-**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=CAAKZgJCtzo)**
-
-📺 Robot Julie 
-
-👁️ 22K • 👍 106 • ⏱️ 0:21 • 1d ago
-
----
-
-**[What&#39;s Going On With The Dyson Spot+Scrub Ai Robot Vac?](https://www.youtube.com/watch?v=UX9VFszU88E)**
-
-The Dyson spot+scrub ai robot vacuum is highly anticipated. We purchased one to find out how it competes with the best flagship ...
-
-📺 Vacuum Nerds
-
-👁️ 6K • 👍 142 • 💬 43 • ⏱️ 13:22 • 23h ago
+👁️ 48K • 👍 1K • 💬 77 • ⏱️ 10:09 • 2d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-16T11:59:16.412039+00:00'
+updated: '2026-04-16T14:07:19.393856+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
-- cryptocurrency
 - videos
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 16, 2026 at 11:59 UTC  
+**Last Updated:** April 16, 2026 at 14:07 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $74,583.51
+### $73,772.75
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** +2.2%  
-**30d:** +4.6%  
-**90d:** -21.6%  
-**1y:** -12.2%  
+**24h:** -0.1%  
+**7d:** +1.1%  
+**30d:** +3.5%  
+**90d:** -22.5%  
+**1y:** -13.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1489.58B
+**Market Cap:** $1475.48B
 Rank #1
 
-**Circulating Supply:** 20,016,553 BTC
+**Circulating Supply:** 20,016,625 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--41.0%
+-41.5%
 
 **All-Time Low:** $67.81
-+109636.0%
++108612.6%
 
 ---
 
@@ -79,7 +79,29 @@ Rank #1
 
 **[Popular Chinese commentator 'Professor Jiang' claims Bitcoin is a "CIA operation." Do you believe that?](https://www.reddit.com/r/Bitcoin/comments/1smpmuh/popular_chinese_commentator_professor_jiang/)**
 
-10h ago
+12h ago
+
+---
+
+**[Bitcoin Quantum Migration Plan That Would Freeze Legacy Coins - BIP 361 Discussion](https://www.reddit.com/r/Bitcoin/comments/1sn2cuo/bitcoin_quantum_migration_plan_that_would_freeze/)**
+
+This was proposed for some time, getting more attention currently. I'm personally not a fan of freezing any coins, just trying to inform the masses. Hopefully u/statoshi will join us and explain the options. https://github.com/bitcoin/bips/blob/master/bip-0361.mediawiki There's an alternative proposal called Hourglass, introduced recently. https://github.com/cryptoquick/bips/blob/hourglass/bip-hourglass.mediawiki Adam Back advocated for optional quantum-resistant Bitcoin upgrades at Paris Blockchain Week on Wednesday, not sure about the details. https://decrypt.co/364562/adam-back-pushes-for-optional-upgrades-to-quantum-proof-bitcoin Tagging u/adam3us too.
+
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/bitcoin-developers-propose-quantum-plan) • 1h ago
+
+---
+
+**[After putting your bitcoin in cold storage](https://www.reddit.com/r/Bitcoin/comments/1sn37ok/after_putting_your_bitcoin_in_cold_storage/)**
+
+52m ago
+
+---
+
+**[What you want to be when you grow up?](https://www.reddit.com/r/Bitcoin/comments/1sn2xlx/what_you_want_to_be_when_you_grow_up/)**
+
+Answer: KRIPTO EXPERT AND PROFESSOR
+
+1h ago
 
 ---
 
@@ -87,7 +109,7 @@ Rank #1
 
 Highly considering selling 100K worth of my global equity ETF in my TFSA and going all in Bitcoin ETF, someone convince me not to or I’m going in
 
-12h ago
+14h ago
 
 ---
 
@@ -95,15 +117,7 @@ Highly considering selling 100K worth of my global equity ETF in my TFSA and goi
 
 All ur favorite YouTubers telling u we’re gonna go lower yet check the whale buys, all time high rn. Retail is just waiting for a bottom. U think the price is going to everyone’s target? Being on the sidelines is one thing but those of u shorting will get rekt. Especially those with leverage lol good luck. 3 green candles on the weekly, moon time Buy now or regret missing the pump
 
-10h ago
-
----
-
-**[Question: Has the safety of the "old" Bitcoin address format been compromised in any way?](https://www.reddit.com/r/Bitcoin/comments/1smh3cn/question_has_the_safety_of_the_old_bitcoin/)**
-
-Hello, I have a concern based on semi-technical article I read on local (Czech) news site. I have some Bitcoin in a cold storage address in the "old" format (starting with "1F...") that I have created in 2015. During the following 11 years, my BTC just sat there, with very few partial withdrawals (3 or 4 total). No "change address" was used, the remaining BTC are still in the same wallet. I do not intend to do anything with the remaining BTC in the near future, I just want them to sit there. Unfortunately, during those 10 years, I was less active in the Bitcoin scene and did not closely watch the developments and happenings in the world of Bitcoin. I just want to hold the remaining BTC for several more years, I don't need them now. My question is: Are my remaining BTC still reasonably safe in that old address or is there some truth to the rumor that "Old format BTC wallets are now at risk?" P.S: Of course, my private key from that wallet is securely stored and I am aware of the importance of it not being leaked / lost. That's not what my question is about. UPDATE: I am genuinely perplexed why some users here keep suggesting to "get Trezor". I would STILL have to store the private key somewhere (in case the Trezor malfunctions) and the device itself would only introduce a new attack vector. I am absolutely at loss understanding how Trezor could possibly be useful in my scenario, where I am only planning to do ONE additional transaction from this address to the exchange.
-
-16h ago
+12h ago
 
 ---
 
@@ -111,45 +125,29 @@ Hello, I have a concern based on semi-technical article I read on local (Czech) 
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-5h ago
-
----
-
-**[Happy Tax Day! The Bitcoin Scholars Fund is a new nonprofit aiming to divert $21 million in 2027 from the Federal Government to K-12 bitcoin education using a new $1,700 OBBBA tax credit; a $0 net cost to you](https://www.reddit.com/r/Bitcoin/comments/1smm9t5/happy_tax_day_the_bitcoin_scholars_fund_is_a_new/)**
-
-Our $21M Goal: Redirecting federal taxes to K-12 bitcoin education. Join the Genesis 12,000 to claim a 1:1 tax credit on $1,700 and fund kids at zero net cost.
-
-🔗 [bitcoinscholars.org](http://bitcoinscholars.org) • 12h ago
-
----
-
-**[Daredevil: Born Again S2 E5](https://www.reddit.com/r/Bitcoin/comments/1smsf6l/daredevil_born_again_s2_e5/)**
-
-Kingpin suggested diversifying by investing in Bitcoin! I was so shocked, I had to rewind.
-
 8h ago
 
 ---
 
-**[can i move btc from legacy address to latest taproot](https://www.reddit.com/r/Bitcoin/comments/1smzxw0/can_i_move_btc_from_legacy_address_to_latest/)**
+**[Time in the market > timing the market](https://www.reddit.com/r/Bitcoin/comments/1sn33pt/time_in_the_market_timing_the_market/)**
 
-can i move btc from legacy address to latest taproot address? i got ledger nano s, and have very small amount of btc in 1HP and can i send it directly to taproot p2tr new address? if yes how? i will ignore dms
+56m ago
+
+---
+
+**[Moving All Crypto Assets into Bitcoin, Recommend me a Best Wallet](https://www.reddit.com/r/Bitcoin/comments/1sn26e0/moving_all_crypto_assets_into_bitcoin_recommend/)**
+
+I recently bought a hardware wallet, what are the beginner mistakes I should avoid. Till now, I was holding assets on an exchange.
 
 1h ago
 
 ---
 
-**[Compraré bitcoin](https://www.reddit.com/r/Bitcoin/comments/1smrryb/compraré_bitcoin/)**
+**[Question: Has the safety of the "old" Bitcoin address format been compromised in any way?](https://www.reddit.com/r/Bitcoin/comments/1smh3cn/question_has_the_safety_of_the_old_bitcoin/)**
 
-Estoy por comprar alrededor de 4mil usd en bitcoin. Dinero que justo me llegó. Ya tengo 7mil en btc. Sigo el precio todos los días y estos días ha estado a la alza. Creen que vuelva a bajar de $70mil usd o ya compro? Que harían si fueran yo?
+Hello, I have a concern based on semi-technical article I read on local (Czech) news site. I have some Bitcoin in a cold storage address in the "old" format (starting with "1F...") that I have created in 2015. During the following 11 years, my BTC just sat there, with very few partial withdrawals (3 or 4 total). No "change address" was used, the remaining BTC are still in the same wallet. I do not intend to do anything with the remaining BTC in the near future, I just want them to sit there. Unfortunately, during those 10 years, I was less active in the Bitcoin scene and did not closely watch the developments and happenings in the world of Bitcoin. I just want to hold the remaining BTC for several more years, I don't need them now. My question is: Are my remaining BTC still reasonably safe in that old address or is there some truth to the rumor that "Old format BTC wallets are now at risk?" P.S: Of course, my private key from that wallet is securely stored and I am aware of the importance of it not being leaked / lost. That's not what my question is about. UPDATE: I am genuinely perplexed why some users here keep suggesting to "get Trezor". I would STILL have to store the private key somewhere (in case the Trezor malfunctions) and the device itself would only introduce a new attack vector. I am absolutely at loss understanding how Trezor could possibly be useful in my scenario, where I am only planning to do ONE additional transaction from this address to the exchange.
 
-8h ago
-
----
-
-**[found a photo I took of my phone from 15/12/2020](https://www.reddit.com/r/Bitcoin/comments/1smtj6i/found_a_photo_i_took_of_my_phone_from_15122020/)**
-
-7h ago
+18h ago
 
 ---
 
@@ -161,29 +159,7 @@ Estoy por comprar alrededor de 4mil usd en bitcoin. Dinero que justo me llegó. 
 
 Resignation announced of Jai Patel, whose liquidated crypto firm was relaunched as Stack BTC this year
 
-The Guardian • 3h ago
-
----
-
-**[Bitcoin rally is taking a breather near $75,000. Onchain data shows why](https://www.coindesk.com/markets/2026/04/16/bitcoin-rally-is-taking-a-breather-near-usd75-000-onchain-data-shows-why)**
-
-BTC is up 10% for the month, but the bull run has stalled near $75,000 in the past 48 hours. Here's why.
-
-CoinDesk • 6h ago
-
----
-
-**[Saylor’s Strategy on the cusp of being profitable on its bitcoin holdings again](https://www.marketwatch.com/story/saylors-strategy-on-the-cusp-of-being-profitable-on-its-bitcoin-holdings-again-e95c6b74)**
-
-MarketWatch • 45m ago
-
----
-
-**[Bitcoin vs Gold in 2026: Which Is the Better Hedge Right Now?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-vs-gold-2026-better-113700312.html)**
-
-Over the years, Gold and Bitcoin (CRYPTO: BTC) have been fighting over the “best inflation hedge” title, and depending on the angle you decide to argue from, both assets make a pretty good case. However, in 2026, one of them has made a much more convincing argument. Gold is valued at around $4,800 per ounce ... Bitcoin vs Gold in 2026: Which Is the Better Hedge Right Now?
-
-Yahoo Finance • 22m ago
+The Guardian • 5h ago
 
 ---
 
@@ -191,13 +167,29 @@ Yahoo Finance • 22m ago
 
 Despite a surge in short positioning, bitcoin has climbed toward $75,000, with past episodes of negative funding rates often aligning with local market bottoms.
 
-CoinDesk • 38m ago
+CoinDesk • 2h ago
+
+---
+
+**[Buy the dip mode on: BlackRock pulls $505M into Bitcoin ETF in 48H](https://seekingalpha.com/news/4575672-buy-the-dip-mode-on-blackrock-pulls-505m-into-bitcoin-etf-in-48h)**
+
+BlackRock’s IBIT drew $505.7M in 48 hours, boosting Bitcoin holdings to $59.3B.
+
+Seeking Alpha • 39m ago
+
+---
+
+**[Bitcoin Developer Coalition Floats BIP-361 to Freeze Quantum-Vulnerable Wallets](https://finance.yahoo.com/markets/crypto/articles/bitcoin-developer-coalition-floats-bip-223007637.html)**
+
+Bitcoin’s current quantum defense plan seeks to solve a future threat at the detriment of its most sacred rule.
+
+Yahoo Finance • 15h ago
 
 ---
 
 **[Goldman’s Bitcoin ETF Push Signals Wall Street Taming of Crypto](https://www.bloomberg.com/news/articles/2026-04-15/goldman-s-bitcoin-etf-push-signals-wall-street-taming-of-crypto)**
 
-Bloomberg.com • 19h ago
+Bloomberg • 22h ago
 
 ---
 
@@ -213,23 +205,29 @@ Fortune • 1d ago
 
 Goldman Sachs has filed a registration statement with the Securities and Exchange Commission (SEC) for a new bitcoin exchange-traded fund (ETF). The
 
-PYMNTS.com • 13h ago
+PYMNTS.com • 15h ago
 
 ---
 
-**[Anthropic's Mythos isn't threatening bitcoin. The real AI risk is at crypto exchanges](https://www.cnbc.com/2026/04/15/anthropics-mythos-isnt-threatening-bitcoin-the-real-ai-risk-is-at-crypto-exchanges-.html)**
+**[Inside Doug Liman's $70 Million AI-Made Movie Starring Casey Affleck and Gal Gadot | Exclusive](https://www.thewrap.com/creative-content/movies/ai-movie-bitcoin-killing-satoshi-gal-gadot-casey-affleck-doug-liman/)**
 
-The Bitcoin blockchain itself has never been hacked and has operated securely and without interruption since 2009. The Mythos threat probably won't change that.
+Doug Liman made a $70 million movie using AI about the creator of bitcoin called Killing Satoshi, starring Gal Gadot, Casey Affleck and Pete Davidson.
 
-CNBC • 19h ago
+TheWrap • 1d ago
 
 ---
 
-**[Bitcoin vs. Stocks: It’s time to stop pretending they’re the same](https://nypost.com/business/stocks-vs-bitcoin-portfolio-guide/)**
+**[Saylor’s Strategy on the cusp of being profitable on its bitcoin holdings again](https://www.marketwatch.com/story/saylors-strategy-on-the-cusp-of-being-profitable-on-its-bitcoin-holdings-again-e95c6b74)**
 
-It is dangerously easy to treat Bitcoin and traditional stocks as equals when they sit side-by-side in your brokerage app.
+MarketWatch • 2h ago
 
-New York Post • 1h ago
+---
+
+**[Bitdeer hits 70 EH/s in self-mining bitcoin operations, claims top spot by compute](https://www.theblock.co/post/397631/bitdeer-self-mining-bitcoin-70-eh-s-canaan-cleanspark)**
+
+Bitdeer's total hashrate under management grew to 78.1 EH/s, including its massive self-mining fleet and hosted machines.
+
+The Block • 20h ago
 
 ---
 
@@ -241,7 +239,7 @@ New York Post • 1h ago
 
 The average production cost was sitting at $88,000 per bitcoin in mid-March, according to Checkonchain's difficulty regression model.
 
-⬆️ 243 • 💬 228 • 4d ago • [coindesk.com](https://www.coindesk.com/markets/2026/03/22/bitcoin-miners-are-losing-usd19-000-on-every-btc-produced-as-difficulty-drops-7-8)
+⬆️ 243 • 💬 228 • 5d ago • [coindesk.com](https://www.coindesk.com/markets/2026/03/22/bitcoin-miners-are-losing-usd19-000-on-every-btc-produced-as-difficulty-drops-7-8)
 
 ---
 
@@ -258,6 +256,14 @@ Arkham data shows 8,285 BTC in Coinbase Prime custody as the company swings from
 A three-part deep dive into quantum computing's actual threat to Bitcoin. 17 researchers, 13 proposals, real engineering. No hype. No FUD.
 
 ⬆️ 6 • 💬 1 • 4d ago • [Bitcoin & Quantum Computing](https://bitcoinquantum.space)
+
+---
+
+**[Adam Back Pushes for Optional Upgrades to Quantum-Proof Bitcoin](https://news.ycombinator.com/item?id=47792058)**
+
+The Blockstream CEO’s approach contrasts with BIP-361, a proposal that would implement mandatory freezes of quantum-vulnerable Bitcoin.
+
+⬆️ 4 • 💬 1 • 1h ago • [Decrypt](https://decrypt.co/364562/adam-back-pushes-for-optional-upgrades-to-quantum-proof-bitcoin)
 
 ---
 
@@ -305,12 +311,6 @@ The most popular and trusted block explorer and crypto transaction search engine
 
 ---
 
-**[How the Bitcoin protocol works (2013)](https://news.ycombinator.com/item?id=47787017)**
-
-⬆️ 2 • 💬 0 • 11h ago • [michaelnielsen.org](https://michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/)
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -321,87 +321,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Com
 
 📺 Altcoin Daily
 
-👁️ 24K • 👍 1K • 💬 89 • ⏱️ 14:13 • 9h ago
-
----
-
-**[Is A Bitcoin Supply Crisis Incoming? Michael Saylor Is Buying Everything!](https://www.youtube.com/watch?v=UmRdP5FjZqI)**
-
-Bitcoin #Crypto #Finance Is Michael Saylor quietly triggering a Bitcoin supply crisis? While most of the market is focused on ...
-
-📺 The Wolf Of All Streets
-
-👁️ 18K • 👍 833 • 💬 359 • ⏱️ 41:53 • 22h ago
-
----
-
-**[Bitcoin and Markets Will Boom...Acording to Trump](https://www.youtube.com/watch?v=B5wXzddYtEM)**
-
-Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FREE Crypto Predictions & Compete Weekly ...
-
-📺 CryptosRUs
-
-👁️ 18K • 👍 991 • 💬 165 • ⏱️ 37:53 • 21h ago
-
----
-
-**[Michael Saylor Predicts $400T Bitcoin After Buying $1B in a Single Day!](https://www.youtube.com/watch?v=yl2q52XWG6s)**
-
-Michael Saylor may have just revealed the most aggressive Bitcoin accumulation strategy yet. This breaks down how Strategy's ...
-
-📺 Simply Bitcoin
-
-👁️ 74K • 👍 3K • 💬 388 • ⏱️ 20:15 • 1d ago
-
----
-
-**[The Other Side of the Bitcoin: Crypto &amp; Corruption w/Ben McKenzie | The Weekly Show with Jon Stewart](https://www.youtube.com/watch?v=3fhLpauSInk)**
-
-As cryptocurrency continues to embed itself in American politics, Jon is joined by Ben McKenzie, author of "Easy Money" and ...
-
-📺 The Weekly Show with Jon Stewart
-
-👁️ 73K • 👍 3K • 💬 506 • ⏱️ 1:35:48 • 16h ago
-
----
-
-**[Rally Extended?📈Crypto Market Update](https://www.youtube.com/watch?v=8IBIXMiHQIM)**
-
-Despite peace talks falling apart this weekend, cryptocurrency punters don't see high chances of the two-week U.S.–Iran ceasefire ...
-
-📺 Paul Barron Network
-
-👁️ 36K • 👍 2K • 💬 136 • ⏱️ 15:24 • 16h ago
-
----
-
-**[Crypto Holders - You Have Waited 5 Years For The Next 5 Months](https://www.youtube.com/watch?v=zlK-i6eLDNA)**
-
-Subscribe to Jordi: https://www.youtube.com/@JordiVisserLabs BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: ...
-
-📺 Altcoin Daily
-
-👁️ 43K • 👍 2K • 💬 190 • ⏱️ 10:18 • 2d ago
-
----
-
-**[Bitcoin Can Do This](https://www.youtube.com/watch?v=jV98XhnR4VU)**
-
-Into The Cryptoverse Premium: https://intothecryptoverse.com For inquiries and to subscribe to the monthy newsletter (free): ...
-
-📺 Benjamin Cowen
-
-👁️ 21K • 👍 370 • 💬 19 • ⏱️ 0:56 • 19h ago
-
----
-
-**[$3.5 Trillion Goldman Sachs Files For Bitcoin Premium Income ETF — Every BTC Holder Must See This](https://www.youtube.com/watch?v=F8jcz2_GJJA)**
-
-IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purposes only. NOT financial, investment, or ...
-
-📺 The Kenzo Guy
-
-👁️ 13K • 👍 464 • 💬 36 • ⏱️ 24:05 • 1d ago
+👁️ 30K • 👍 2K • 💬 100 • ⏱️ 14:13 • 12h ago
 
 ---
 
@@ -411,7 +331,87 @@ Bitcoin just entered a new phase and most people still don't see it. Massive ins
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 133 • ⏱️ 16:45 • 14h ago
+👁️ 27K • 👍 2K • 💬 153 • ⏱️ 16:45 • 16h ago
+
+---
+
+**[Michael Saylor Predicts $400T Bitcoin After Buying $1B in a Single Day!](https://www.youtube.com/watch?v=yl2q52XWG6s)**
+
+Michael Saylor may have just revealed the most aggressive Bitcoin accumulation strategy yet. This breaks down how Strategy's ...
+
+📺 Simply Bitcoin
+
+👁️ 76K • 👍 3K • 💬 390 • ⏱️ 20:15 • 1d ago
+
+---
+
+**[Is A Bitcoin Supply Crisis Incoming? Michael Saylor Is Buying Everything!](https://www.youtube.com/watch?v=UmRdP5FjZqI)**
+
+Bitcoin #Crypto #Finance Is Michael Saylor quietly triggering a Bitcoin supply crisis? While most of the market is focused on ...
+
+📺 The Wolf Of All Streets
+
+👁️ 19K • 👍 846 • 💬 369 • ⏱️ 41:53 • 1d ago
+
+---
+
+**[NFA Live! Bitcoin in 2026](https://www.youtube.com/watch?v=dLf8cfhelRs)**
+
+Let's talk about Bitcoin and more! Subscribe to Guy: https://www.youtube.com/@coinbureaupodcast Subscribe to Rob: ...
+
+📺 Benjamin Cowen
+
+👁️ 4K • 👍 300 • 💬 5 • ⏱️ 28:50 • 26m ago
+
+---
+
+**[The Other Side of the Bitcoin: Crypto &amp; Corruption w/Ben McKenzie | The Weekly Show with Jon Stewart](https://www.youtube.com/watch?v=3fhLpauSInk)**
+
+As cryptocurrency continues to embed itself in American politics, Jon is joined by Ben McKenzie, author of "Easy Money" and ...
+
+📺 The Weekly Show with Jon Stewart
+
+👁️ 80K • 👍 3K • 💬 574 • ⏱️ 1:35:48 • 18h ago
+
+---
+
+**[Bitcoin and Markets Will Boom...Acording to Trump](https://www.youtube.com/watch?v=B5wXzddYtEM)**
+
+Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FREE Crypto Predictions & Compete Weekly ...
+
+📺 CryptosRUs
+
+👁️ 18K • 👍 1K • 💬 165 • ⏱️ 37:53 • 23h ago
+
+---
+
+**[Rally Extended?📈Crypto Market Update](https://www.youtube.com/watch?v=8IBIXMiHQIM)**
+
+Despite peace talks falling apart this weekend, cryptocurrency punters don't see high chances of the two-week U.S.–Iran ceasefire ...
+
+📺 Paul Barron Network
+
+👁️ 38K • 👍 2K • 💬 131 • ⏱️ 15:24 • 18h ago
+
+---
+
+**[BITCOIN: The Breakout Is HOURS Away! (get ready) - BTC Price Prediction Today](https://www.youtube.com/watch?v=weru4awffVc)**
+
+Want a free $30000 bonus + $20 just for signing up? Go here: ...
+
+📺 BitcoinHyper
+
+👁️ 3K • 👍 354 • 💬 56 • ⏱️ 12:52 • 3h ago
+
+---
+
+**[This Fake App Store Crypto Wallet Stole Musician&#39;s Life Savings](https://www.youtube.com/watch?v=RRnlPUzMlgY)**
+
+Watch the full Daily DeFranco Show: https://www.youtube.com/@PhilipDeFranco?sub_confirmation=1 Get More News Clips: ...
+
+📺 DeFranco News Clips
+
+👁️ 905K • 👍 33K • 💬 1K • ⏱️ 1:04 • 1d ago
 
 ---
 
