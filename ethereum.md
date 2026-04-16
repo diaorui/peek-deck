@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-16T14:07:19.399113+00:00'
+updated: '2026-04-16T16:05:16.457206+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
+- news
 - videos
 - cryptocurrency
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 16, 2026 at 14:07 UTC  
+**Last Updated:** April 16, 2026 at 16:05 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,301.58
+### $2,341.32
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.3%  
-**7d:** +2.6%  
-**30d:** +4.4%  
-**90d:** -30.5%  
-**1y:** +45.6%  
+**24h:** -0.3%  
+**7d:** +4.3%  
+**30d:** +6.2%  
+**90d:** -29.3%  
+**1y:** +48.1%  
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+11h ago
+
+---
+
+**[Ep. 146 - Justin Ahn - quidli.xyz - The Daily Doots Podcast](https://www.reddit.com/r/ethereum/comments/1sn7qz6/ep_146_justin_ahn_quidlixyz_the_daily_doots/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtu.be](https://youtu.be/73hHq2ua1ts?si=fwxBRn1_pW7xDziX) • 5m ago
 
 ---
 
@@ -138,12 +146,6 @@ I permanently lost $2,000 USD value trying to stake via direct contract interact
 
 ---
 
-**[World Liberty Financial borrowed its own stablecoin against its own token on a platform run by its own advisor and Justin Sun (WLFI biggest investor) just called it fraud.](https://www.reddit.com/r/ethereum/comments/1sjkjuc/world_liberty_financial_borrowed_its_own/)**
-
-3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -151,22 +153,6 @@ I permanently lost $2,000 USD value trying to stake via direct contract interact
 **[Bitmine Reports $3.8 Billion Loss As Ethereum Sinks](https://finance.yahoo.com/news/bitmine-reports-3-8-billion-125000138.html)**
 
 Yahoo Finance • 1d ago
-
----
-
-**[Ethereum treasury news: Bitmine sits on $10 billion ETH but books $3.6 billion loss](https://www.coindesk.com/markets/2026/04/15/ethereum-treasury-firm-bitmine-reports-usd3-8-billion-q1-loss-in-latest-filing)**
-
-The largest corporate ether holder posted a $3.8 billion quarterly loss as its pivot from mining to ETH accumulation continues.
-
-CoinDesk • 1d ago
-
----
-
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.875 Million Tokens, and Total Crypto and Total Cash Holdings of $11.8 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-4-875-million-tokens-and-total-crypto-and-total-cash-holdings-of-11-8-billion-302740122.html)**
-
-Bitmine now owns more than 4% of the total ETH coin supply of 120.7 million Bitmine is 81% of the way to the 'Alchemy of 5%' in just 9 months Bitmine uplisted...
-
-PR Newswire • 3d ago
 
 ---
 
@@ -182,23 +168,7 @@ Coinpaper • 2d ago
 
 Charles Schwab is rolling out crypto trading, allowing clients to buy bitcoin and ether through a new arm called Schwab Crypto.
 
-CNBC • 23m ago
-
----
-
-**[Bitcoin and ethereum price today, Thursday, April 16, 2026: Prices hold amid profit-taking and cautious outlook](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-thursday-april-16-2026-prices-hold-amid-profit-taking-and-cautious-outlook-111641743.html)**
-
-Bitcoin (BTC-USD) opened at $74,813.22 and ethereum (ETH-USD) opened at $2,359.95 on Thursday. Both cryptos dipped in early trading.
-
-Yahoo Finance • 2h ago
-
----
-
-**[ETH, BTC price: What next as Ether/bitcoin ratio bounces from 2026 lows](https://www.coindesk.com/markets/2026/04/15/ether-bitcoin-ratio-bounces-from-2026-lows-in-signs-of-broader-crypto-recovery)**
-
-The ETH/BTC ratio hit its highest since January as Ethereum's network added 284,000 new users in Q1 and stablecoin supply reached a record $180 billion.
-
-CoinDesk • 1d ago
+CNBC • 2h ago
 
 ---
 
@@ -206,7 +176,7 @@ CoinDesk • 1d ago
 
 Aave (AAVE), down 1.1% from Wednesday, was also an underperformer.
 
-CoinDesk • 46m ago
+CoinDesk • 2h ago
 
 ---
 
@@ -214,7 +184,7 @@ CoinDesk • 46m ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 1h ago
+Fortune • 3h ago
 
 ---
 
@@ -223,6 +193,34 @@ Fortune • 1h ago
 The EF tapped Areta's audit marketplace to provide access to over 20 security firms like Blocksec, Cetora, Hacken, Immunefi and Quantstamp.
 
 The Block • 1d ago
+
+---
+
+**[Bitcoin, XRP, Ethereum Fall. Iran Peace Failure Causes a Crypto Headache.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-iran-crypto-46d858c6)**
+
+Barron's • 3d ago
+
+---
+
+**[Ethereum Crypto Open Interest Just Hit $34 Billion in 24 Hours: Is a Breakout or a Liquidation Ca...](https://www.binance.com/en/square/post/313163514724225)**
+
+Binance • 2h ago
+
+---
+
+**[Charles Schwab is launching direct bitcoin and ethereum trading](https://qz.com/charles-schwab-direct-bitcoin-ethereum-trading-041626)**
+
+The brokerage, which manages more than $11 trillion in client assets, will charge a 0.75% fee per crypto trade
+
+qz.com • 45m ago
+
+---
+
+**[Bitcoin Targets $80,000, Ethereum Eyes $2,700 and XRP Could Hit $1.55 Says Chart Analyst](https://www.tradingview.com/news/coinpedia:d2718fb33094b:0-bitcoin-targets-80-000-ethereum-eyes-2-700-and-xrp-could-hit-1-55-says-chart-analyst/)**
+
+Gareth Soloway, chief market strategist at Verified.com, laid out his latest price targets for Bitcoin, Ethereum and XRP this week.He said that Bitcoin has formed a micro bullish breakout on shorter timeframes while the bigger macro pattern remains bearish. Soloway has maintained an $80,000 upside…
+
+TradingView — Track All Markets • 1d ago
 
 ---
 
@@ -236,7 +234,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 765 • 👍 80 • 💬 5 • ⏱️ 8:23 • 2h ago
+👁️ 765 • 👍 80 • 💬 5 • ⏱️ 8:23 • 4h ago
 
 ---
 
@@ -246,7 +244,7 @@ Buy Ethereum? CRYPTO RETIREMENT ACCOUNT HERE Sign up for iTrustCapital and get a
 
 📺 Crypto Jebb
 
-👁️ 5K • 👍 245 • 💬 129 • ⏱️ 14:10 • 20h ago
+👁️ 5K • 👍 245 • 💬 129 • ⏱️ 14:10 • 22h ago
 
 ---
 
@@ -256,7 +254,7 @@ Being in crypto right now feels like being in some elaborate fever dream. Bitcoi
 
 📺 The Modern Investor
 
-👁️ 4K • 👍 618 • 💬 127 • ⏱️ 29:17 • 4h ago
+👁️ 4K • 👍 618 • 💬 127 • ⏱️ 29:17 • 6h ago
 
 ---
 
@@ -266,7 +264,7 @@ Ethereum developer Joe Schiarizzi—ex-ConsenSys, Gitcoin, OpenSea, Solarpunk VC
 
 📺 Paul Barron Network
 
-👁️ 2K • 👍 338 • 💬 85 • ⏱️ 22:10 • 1h ago
+👁️ 2K • 👍 338 • 💬 85 • ⏱️ 22:10 • 3h ago
 
 ---
 
@@ -276,7 +274,7 @@ Ethereum is moving higher in a corrective bounce and approaching a major resista
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 306 • 💬 20 • ⏱️ 9:49 • 13h ago
+👁️ 4K • 👍 306 • 💬 20 • ⏱️ 9:49 • 15h ago
 
 ---
 
@@ -286,7 +284,7 @@ Michael Saylor's Ethereum view has changed. Bitcoin is digital capital. Ethereum
 
 📺 Bankless
 
-👁️ 3K • 👍 99 • 💬 32 • ⏱️ 1:17 • 16h ago
+👁️ 3K • 👍 99 • 💬 32 • ⏱️ 1:17 • 18h ago
 
 ---
 
@@ -296,7 +294,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 240 • 💬 13 • ⏱️ 14:46 • 21h ago
+👁️ 5K • 👍 240 • 💬 13 • ⏱️ 14:46 • 23h ago
 
 ---
 
@@ -306,7 +304,7 @@ URGENT $60000 Ethereum Incoming Despite Crypto Clarity Delay $120M flows to XRP!
 
 📺 CryptoWendyO
 
-👁️ 6K • 👍 427 • 💬 40 • ⏱️ 32:36 • 19h ago
+👁️ 6K • 👍 427 • 💬 40 • ⏱️ 32:36 • 21h ago
 
 ---
 
@@ -316,7 +314,7 @@ Raoul welcomes Vivek Raman, Co-Founder and CEO of Etherealize, and Danny Ryan, C
 
 📺 Raoul Pal The Journey Man
 
-👁️ 515 • 👍 43 • 💬 3 • ⏱️ 1:11:56 • 1h ago
+👁️ 515 • 👍 43 • 💬 3 • ⏱️ 1:11:56 • 3h ago
 
 ---
 

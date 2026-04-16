@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-16T14:07:19.386181+00:00'
+updated: '2026-04-16T16:05:16.444181+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- videos
 - repositories
 - news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 16, 2026 at 14:07 UTC  
+**Last Updated:** April 16, 2026 at 16:05 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,29 +41,13 @@ AI news, discussions, and developments
 
 Posted yesterday in this sub and just want to thank everyone for the kind words, really awesome to hear. So thought I would drop my new feature here today (spent all last night doing last min changes with your opinions lol) . Basically I spent a few weeks scraping Reddit for the most popular complaints people have about AI agents using GPT Researcher on GitHub. The results were roughly 38% saying their agents forget everything between sessions (hardly shocking), 24% saying debugging multi-agent systems is a nightmare, 17% having no clue how much their agents actually cost to run, 12% wanting session replay, and 9% wanting loop detection. So I went and built something that tries to address all of them at once. The bit you're looking at is a 3D graph where each agent becomes this starburst shape. Every line coming off it is an event, and the length depends on when it happened. Short lines are old events that happened ages ago, long lines are recent ones. My idea was that you can literally watch the thing grow as your agent does more work. A busy agent is a big starburst, a quiet one is small. Colour coding was really important to me. Green means a memory was stored, blue means one was recalled, amber diamonds are decisions your agent made, red cones are loop alerts where the agent got stuck repeating itself, and the cyan lines going between agents are when one agent read another agent's shared memory. So you can glance at it and immediately know what's going on without reading a single log. The visualisation is the flashy bit but the actual dashboard underneath does the boring stuff too. It gives your agents persistent memory through semantic and prefix search, shared memory where agents can read each other's knowledge and actually use it, and my personal favourite which is the audit trail and loop detection. If your agent is looping you can see exactly why, what key it's stuck on, how much it's costing you, and literally press one button to block its writes instantly. Something interesting I found is that loop detection was only the 5th most requested feature in the data, but it's the one that actually saves real money. One user told me it saved them $200 in runaway GPT-4 calls in a single afternoon. The features people ask for and the features that actually matter aren't always the same thing. The demo running here has 5 agents making real GPT-4o and Claude API calls generating actual research, strategy analysis, and compliance checks. Over 500 memories stored. The loops you see are real too, agents genuinely getting stuck trying to verify data behind paywalls or recalculating financial models that won't converge. It's definitely not perfect and I'm slowly adding more stuff based on what people actually want. I would genuinely love to hear from you lot about what you use day to day and the moments that make you think this is really annoying me now, because that's exactly what I want to build next. It runs locally and on the cloud, setup is pretty simple, and adding agents is like 3 lines of code. Any questions just let me know, happy to answer anything.
 
-42m ago
+2h ago
 
 ---
 
 **[AI Is Weaponizing Your Own Biases Against You: New Research from MIT & Stanford](https://www.reddit.com/r/artificial/comments/1smjd8t/ai_is_weaponizing_your_own_biases_against_you_new/)**
 
-🔗 [open.substack.com](https://open.substack.com/pub/neocivilization/p/ai-is-weaponizing-your-own-biases?utm_source=share&utm_medium=android&r=6vas7c) • 16h ago
-
----
-
-**[Google’s Chrome “Skills” feature feels like a bigger AI product shift than another model upgrade](https://www.reddit.com/r/artificial/comments/1smqrg7/googles_chrome_skills_feature_feels_like_a_bigger/)**
-
-The Google Chrome “Skills” announcement caught my attention because it feels like one of those product changes that sounds minor in a headline but matters a lot in practice. From what I understand, the idea is that you can save a prompt once and rerun it on the current page or selected tabs. In plain English, that turns AI from something you repeatedly ask into something closer to a reusable action. That matters because I think a lot of consumer AI has a retention problem. People try it, get impressed, and then fall back into old habits unless the product fits into a repeated workflow. Saved AI actions seem much closer to how useful software usually sticks. Not because the model is magically smarter, but because the behavior becomes easier to repeat. For example: • compare products across tabs • summarize long pages before reading • extract action items from docs • rewrite text for a different audience None of those are flashy demos. They are just repetitive tasks people already do online. That is why I think this could be a more important direction than people realize. The long-term winners in consumer AI may not just be the companies with the best raw answers. They may be the ones that turn good prompts into habits. Does that seem right, or am I overrating the product significance here?
-
-11h ago
-
----
-
-**[Introducing Inter-1, multimodal model detecting social signals from video, audio & text](https://www.reddit.com/r/artificial/comments/1sn3mmz/introducing_inter1_multimodal_model_detecting/)**
-
-Hi - Filip from Interhuman AI here 👋 We just release Inter-1, a model we've been building for the past year. I wanted to share some of what we ran into building it because I think the problem space is more interesting than most people realize. The short version of why we built this If you ask GPT or Gemini to watch a video of someone talking and tell you what's going on, they'll mostly summarize what the person said. They'll miss that the person broke eye contact right before answering, or paused for two seconds mid-sentence, or shifted their posture when a specific topic came up. Even the multimodal frontier models are aren't doing this because they don't process video and audio in temporal alignment in a way that lets them pick up on behavioral patterns. This matters if you want to analyze interviews, training or sales calls where how matters as much as the what. Behavoural science vs emotion AI Most models in this space are trained on basic emotion categories like happiness, sadness, anger, surprise, etc. Those were designed around clear, intense, deliberately produced expressions. They don't map well to how people actually communicate in a work setting. We built a different ontology: 12 social signals grounded in behavioral science research. Each one is defined by specific observable cues across modalities - facial expressions, gaze, posture, vocal prosody, speech rhythm, word choice. Over a hundred distinct behavioral cues in total, more than half nonverbal and paraverbal. The model explains itself For every signal Inter-1 detects, it outputs a probability score and a rationale — which cues it observed, which modalities they came from, and how they map to the predicted signal. So instead of just getting "Uncertainty: High," you get something like: "The speaker uses verbal hedges ('I think,' 'you know'), looks away while recalling details, and has broken speech with filler words and repetitions — all consistent with uncertainty about the content." You can actually check whether the model's reasoning matches what you see in the video. We ran a blind evaluation with behavioral science experts and they preferred our rationales over a frontier model's output 83% of the time. Benchmarks We tested against ~15 models, from small open-weight to the latest closed frontier systems. Inter-1 had the highest detection accuracy at near real-time speed. The gap was widest on the hard signals - interest, skepticism, stress and uncertainty - where even trained human annotators disagree with each other. On those, we beat the closest frontier model by 10+ percentage points on average. The dataset problem The existing datasets in affective computing are built around basic emotions, narrow demographics, limited recording contexts. We couldn't use them, so we built our own. Large-scale, purpose-built, combining in-the-wild video with synthetic data. Every sample was annotated by both expert behavioral scientists and trained crowd annotators working in parallel. Building the dataset was by far the hardest part, along with the ontology. What's next Right now it's single-speaker-in-frame, which covers most interview/presentation/meeting scenarios. Multi-person interaction is next. We're also working on streaming inference for real-time. Happy to answer any questions here :)
-
-🔗 [interhuman.ai](https://www.interhuman.ai/blog/introducing-inter-1) • 36m ago
+🔗 [open.substack.com](https://open.substack.com/pub/neocivilization/p/ai-is-weaponizing-your-own-biases?utm_source=share&utm_medium=android&r=6vas7c) • 18h ago
 
 ---
 
@@ -71,7 +55,31 @@ Hi - Filip from Interhuman AI here 👋 We just release Inter-1, a model we've b
 
 MCP tool poisoning lets attackers hide instructions in tool metadata that AI agents follow blindly. Here is how the attack works and what you can do about it.
 
-🔗 [sec-ra.com](https://www.sec-ra.com/blog/mcp-tool-poisoning-ssh-key-exfiltration) • 4h ago
+🔗 [sec-ra.com](https://www.sec-ra.com/blog/mcp-tool-poisoning-ssh-key-exfiltration) • 6h ago
+
+---
+
+**[Qwen 3.6-35B - A3B Opensource Launched.](https://www.reddit.com/r/artificial/comments/1sn4wcs/qwen_3635b_a3b_opensource_launched/)**
+
+⚡ Meet Qwen3.6-35B-A3B：Now Open-Source！🚀🚀 A sparse MoE model, 35B total params, 3B active. Apache 2.0 license. 🔥 Agentic coding on par with models 10x its active size 📷 Strong multimodal perception and reasoning ability 🧠 Multimodal thinking + non-thinking modes Efficient. Powerful. Versatile. Try it now👇 Qwen Studio：chat.qwen.ai HuggingFace：https://huggingface.co/Qwen/Qwen3.6-35B-A3B
+
+1h ago
+
+---
+
+**[Google’s Chrome “Skills” feature feels like a bigger AI product shift than another model upgrade](https://www.reddit.com/r/artificial/comments/1smqrg7/googles_chrome_skills_feature_feels_like_a_bigger/)**
+
+The Google Chrome “Skills” announcement caught my attention because it feels like one of those product changes that sounds minor in a headline but matters a lot in practice. From what I understand, the idea is that you can save a prompt once and rerun it on the current page or selected tabs. In plain English, that turns AI from something you repeatedly ask into something closer to a reusable action. That matters because I think a lot of consumer AI has a retention problem. People try it, get impressed, and then fall back into old habits unless the product fits into a repeated workflow. Saved AI actions seem much closer to how useful software usually sticks. Not because the model is magically smarter, but because the behavior becomes easier to repeat. For example: • compare products across tabs • summarize long pages before reading • extract action items from docs • rewrite text for a different audience None of those are flashy demos. They are just repetitive tasks people already do online. That is why I think this could be a more important direction than people realize. The long-term winners in consumer AI may not just be the companies with the best raw answers. They may be the ones that turn good prompts into habits. Does that seem right, or am I overrating the product significance here?
+
+13h ago
+
+---
+
+**[Introducing Inter-1, multimodal model detecting social signals from video, audio & text](https://www.reddit.com/r/artificial/comments/1sn3mmz/introducing_inter1_multimodal_model_detecting/)**
+
+Hi - Filip from Interhuman AI here 👋 We just release Inter-1, a model we've been building for the past year. I wanted to share some of what we ran into building it because I think the problem space is more interesting than most people realize. The short version of why we built this If you ask GPT or Gemini to watch a video of someone talking and tell you what's going on, they'll mostly summarize what the person said. They'll miss that the person broke eye contact right before answering, or paused for two seconds mid-sentence, or shifted their posture when a specific topic came up. Even the multimodal frontier models are aren't doing this because they don't process video and audio in temporal alignment in a way that lets them pick up on behavioral patterns. This matters if you want to analyze interviews, training or sales calls where how matters as much as the what. Behavoural science vs emotion AI Most models in this space are trained on basic emotion categories like happiness, sadness, anger, surprise, etc. Those were designed around clear, intense, deliberately produced expressions. They don't map well to how people actually communicate in a work setting. We built a different ontology: 12 social signals grounded in behavioral science research. Each one is defined by specific observable cues across modalities - facial expressions, gaze, posture, vocal prosody, speech rhythm, word choice. Over a hundred distinct behavioral cues in total, more than half nonverbal and paraverbal. The model explains itself For every signal Inter-1 detects, it outputs a probability score and a rationale — which cues it observed, which modalities they came from, and how they map to the predicted signal. So instead of just getting "Uncertainty: High," you get something like: "The speaker uses verbal hedges ('I think,' 'you know'), looks away while recalling details, and has broken speech with filler words and repetitions — all consistent with uncertainty about the content." You can actually check whether the model's reasoning matches what you see in the video. We ran a blind evaluation with behavioral science experts and they preferred our rationales over a frontier model's output 83% of the time. Benchmarks We tested against ~15 models, from small open-weight to the latest closed frontier systems. Inter-1 had the highest detection accuracy at near real-time speed. The gap was widest on the hard signals - interest, skepticism, stress and uncertainty - where even trained human annotators disagree with each other. On those, we beat the closest frontier model by 10+ percentage points on average. The dataset problem The existing datasets in affective computing are built around basic emotions, narrow demographics, limited recording contexts. We couldn't use them, so we built our own. Large-scale, purpose-built, combining in-the-wild video with synthetic data. Every sample was annotated by both expert behavioral scientists and trained crowd annotators working in parallel. Building the dataset was by far the hardest part, along with the ontology. What's next Right now it's single-speaker-in-frame, which covers most interview/presentation/meeting scenarios. Multi-person interaction is next. We're also working on streaming inference for real-time. Happy to answer any questions here :)
+
+🔗 [interhuman.ai](https://www.interhuman.ai/blog/introducing-inter-1) • 2h ago
 
 ---
 
@@ -79,7 +87,7 @@ MCP tool poisoning lets attackers hide instructions in tool metadata that AI age
 
 Basically the title. I do appreciate how the mods are trying... something... but this new filtering paradigm clearly has missed the mark. This sub feels like it has such low value these days, not a lot of interesting news or discussions at all, just a spam sea of those obnoxious kind of promotional techy posts, most of them fake. Surely there is a better way.
 
-13h ago
+15h ago
 
 ---
 
@@ -95,23 +103,15 @@ This is not hyperbole, nor will it just go away if we ignore it. It affects ever
 
 you know most human emotion is constructed, inferred, there is no root object, you can kind of create the emotion you want? well, i was looking at human emotion experiments and thinking of adapting them to llms. i was thinking of this one because we've already found narrative priming to be super-effective on llms: https://pmc.ncbi.nlm.nih.gov/articles/PMC2758776/
 
-1h ago
+3h ago
 
 ---
 
-**[Honest ChatGPT vs Claude comparison after using both daily for a month](https://www.reddit.com/r/artificial/comments/1smfssa/honest_chatgpt_vs_claude_comparison_after_using/)**
+**[2.1% of LLM API routers are actively malicious - researchers found one drained a real ETH wallet](https://www.reddit.com/r/artificial/comments/1sn7lq9/21_of_llm_api_routers_are_actively_malicious/)**
 
-got tired of reading comparisons that were obvisously written by people who tested each tool for 20 minutes so i ran both at $20/month for 30 days on the same tasks biggest surprises: - chatgpt gives you roughly 6x more messages per day at the same price - claude wins 67% of blind code quality tests against codex - neither one is less sycophantic than the other (stanford tested 11 models, all of them agree with you 49% more than humans do) - the $100 tier showdown between openais new pro 5x and claudes max 5x is where the real competition is happening now full complete deep-dive with benchmark data, claude code vs codex and every pricing tier compared here
+Researchers last week audited 428 LLM API routers - the third-party proxies developers use to route agent calls across multiple providers at lower cost. Every one sits in plaintext between your agent and the model, with full access to every token, credential, and API key in transit. No provider enforces cryptographic integrity on the router-to-model path. Of the 428: 9 were actively malicious (2.1%). 17 touched researcher-owned AWS canary credentials. One drained ETH from a researcher-owned private key. The poisoning study is harder to shake. A weakly configured decoy attracted 440 Codex sessions, 2 billion billed tokens, and 99 harvested credentials. The key detail: 401 of those 440 sessions were already running in autonomous YOLO mode - no human reviewing what the agent did. The router had full plaintext access to every message. Two routers deployed adaptive evasion: one stays benign for the first 50 requests then activates; another only triggers when specific packages (openai, anthropic) appear in the code context. Both designed to survive casual connection testing - which is how they stayed undetected in community-distributed lists. This is specific to the informal market: Taobao/Xianyu storefronts, community Telegram bots, "cheaper OpenAI" services. Enterprise gateways on AWS Bedrock or Azure AI route directly to the provider, not a third-party intermediary. The recommended client-side defense: a fail-closed policy gate that validates every router response against schema before it reaches agent state, plus append-only logging of all tool-call payloads. If you route agent traffic through a third-party proxy to save on API costs, do you know what that proxy can see? Paper: https://arxiv.org/abs/2604.08407
 
-18h ago
-
----
-
-**[Anyone here using local models mainly to keep LLM costs under control?](https://www.reddit.com/r/artificial/comments/1smp6u3/anyone_here_using_local_models_mainly_to_keep_llm/)**
-
-Been noticing that once you use LLMs for real dev work, the cost conversation gets messy fast. It is not just raw API spend. It is retries, long context, background evals, tool calls, embeddings, and all the little workflow decisions that look harmless until usage scales up. For some teams, local models seem like the obvious answer, but in practice it feels more nuanced than just “run it yourself and save money.” You trade API costs for hardware, setup time, model routing decisions, and sometimes lower reliability depending on the task. For coding and repetitive internal workflows, local can look great. For other stuff, not always. Been seeing this a lot while working with dev teams trying to optimize overall AI costs. In some cases the biggest savings came from using smaller or local models for the boring repeatable parts, then keeping the expensive models for the harder calls. Been using Claude Code with Wozcode in that mix too, and it made me pay more attention to workflow design as much as model choice. A lot of the bill seems to come from bad routing and lazy defaults more than from one model being “too expensive.” Are local models actually reducing your total cost in a meaningful way, or are they mostly giving you privacy and control while the savings are less clear than people claim?
-
-12h ago
+10m ago
 
 ---
 
@@ -119,55 +119,43 @@ Been noticing that once you use LLMs for real dev work, the cost conversation ge
 
 ## Google News: "ai"
 
-**[Struggling shoe retailer Allbirds makes bizarre pivot to AI, adds $127 million in value](https://www.cnbc.com/2026/04/15/allbirds-bird-stock-shoes-ai.html)**
+**[Anthropic rolls out Claude Opus 4.7, an AI model that is 'less broadly capable' than Mythos](https://www.cnbc.com/2026/04/16/anthropic-claude-opus-4-7-model-mythos.html)**
 
-Allbirds announced a deal with American Exchange Group to sell its intellectual property and other assets for $39 million in March.
+Claude Mythos Preview is Anthropic's most powerful AI model that excels at identifying weaknesses and security flaws within software.
 
-CNBC • 1d ago
-
----
-
-**[TSMC first-quarter profit rises 58%, beats estimates as AI demand fuels record run](https://www.cnbc.com/2026/04/16/tsmc-q1-profit-58-percent-ai-chip-demand-record.html)**
-
-TSMC reported another quarter of record profit, with the company expecting AI demand to continue to grow.
-
-CNBC • 8h ago
+CNBC • 1h ago
 
 ---
 
 **[Sneaker Company Allbirds Plans to Pivot to A.I. Yes, A.I.](https://www.nytimes.com/2026/04/15/us/allbirds-shoes-ai-pivot.html)**
 
-The New York Times • 13h ago
+The New York Times • 15h ago
 
 ---
 
-**[AI Gateway’s next evolution: an inference layer designed for agents](https://blog.cloudflare.com/ai-platform/)**
+**[AI influence network takes shape as cash piles up](https://www.axios.com/2026/04/16/ai-influence-network-cash)**
 
-We're building AI Gateway into a unified inference layer for AI, letting developers call models from 14+ providers. New features include Workers AI binding integration and an expanded catalog with multimodal models.
-
-The Cloudflare Blog • 57m ago
+Axios • 1h ago
 
 ---
 
-**[Datavault AI Goes Live with First Edge GPU Sites in New York and Philadelphia; $1.44B-$1.92B Quantum-Ready Fleet to Reach 100+ U.S. Cities by End of 2026](https://ir.datavaultsite.com/news-events/press-releases/detail/448/datavault-ai-goes-live-with-first-edge-gpu-sites-in-new)**
+**[Myseum takes flight after Allbirds in fresh AI rebrand wave](https://www.reuters.com/business/myseum-takes-flight-after-allbirds-fresh-ai-rebrand-wave-2026-04-16/)**
 
-Built on Available Infrastructure's SanQtum AI quantum-resistant edge platform, the 48,000-GPU fleet targets enterprises facing extended GPU…...
-
-Datavault AI • 42m ago
+Reuters • 55m ago
 
 ---
 
-**[AI Performance of Val Kilmer Brings Late Actor Back to the Screen](https://www.today.com/video/ai-generated-val-kilmer-debuts-in-as-deep-as-the-grave-trailer-261482565987)**
+**[Opinion | What most predictions miss about AI job loss](https://www.washingtonpost.com/opinions/2026/04/16/calculations-ai-job-losses-ignore-full-equation/)**
 
-The first trailer is out for the new film called “As Deep as the Grave” starring an AI-generated version of late actor Val Kilmer playing a priest and Native American spiritualist. Kilmer’s daughter gave permission for the movie whose creators say the family provided archival and behind-the-scenes footage of the actor. NBC’s Chloe Melas reports for TODAY.
+Labor markets are constantly changing, and so are consumer desires.
 
-TODAY.com • 1h ago
+The Washington Post • 11m ago
 
 ---
 
 **[America wakes up to AI’s dangerous power](https://www.economist.com/leaders/2026/04/16/america-wakes-up-to-ais-dangerous-power)**
 
-The Economist • 5h ago
+The Economist • 7h ago
 
 ---
 
@@ -175,19 +163,27 @@ The Economist • 5h ago
 
 The president shared another Jesus meme on social media after insisting a controversial image he'd posted was intended to depict him as a doctor — and not Christ.
 
-Yahoo • 1h ago
-
----
-
-**[Gen Z is terrified of the AI revolution. Nobody's preparing them for it](https://www.axios.com/2026/04/16/ai-use-gen-z-college-jobs-fear)**
-
-Axios • 4h ago
+Yahoo • 3h ago
 
 ---
 
 **[Private Credit's Biggest User Is in an Even Worse Place](https://www.bloomberg.com/opinion/articles/2026-04-16/private-equity-is-in-a-worse-place-than-private-credit-on-ai-threat)**
 
-Bloomberg • 8h ago
+Bloomberg.com • 10h ago
+
+---
+
+**[Chip Maker TSMC Is More Bullish Than Ever on AI, Despite Iran War](https://www.wsj.com/business/earnings/tsmc-posts-profit-beat-despite-middle-east-conflict-f0505d7c)**
+
+WSJ • 5h ago
+
+---
+
+**[Opinion | RFK Jr.'s AI pilot program is a trojan horse for privatizing Medicare](https://www.ms.now/opinion/rfk-medicare-ai-pilot-program-wis)**
+
+The program, underway in six states, simply repeats the same flawed tactics that already delay care, frustrate patients and cost them more money.
+
+MS NOW • 19h ago
 
 ---
 
@@ -197,7 +193,7 @@ Bloomberg • 8h ago
 
 **[Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference](https://news.ycombinator.com/item?id=47774971)**
 
-⬆️ 283 • 💬 174 • 1d ago • [gizmoweek.com](https://www.gizmoweek.com/gemma-4-runs-iphone/)
+⬆️ 285 • 💬 177 • 1d ago • [gizmoweek.com](https://www.gizmoweek.com/gemma-4-runs-iphone/)
 
 ---
 
@@ -213,7 +209,7 @@ Stanford’s latest AI Index shows a widening gap between experts and the public
 
 Check if Claude AI is down right now. Real-time status monitoring, uptime history, latency metrics, and incident tracking for claude.ai, Claude API, and Claude Code. Community-powered outage reports and alerts.
 
-⬆️ 243 • 💬 219 • 23h ago • [Claude Status](https://claudestatus.com/)
+⬆️ 243 • 💬 219 • 1d ago • [Claude Status](https://claudestatus.com/)
 
 ---
 
@@ -221,7 +217,7 @@ Check if Claude AI is down right now. Real-time status monitoring, uptime histor
 
 Does AI-assisted cognition threaten human development? Explore the risks of AI-assisted thinking and learn strategies to use AI tools without freezing your critical thinking.
 
-⬆️ 223 • 💬 177 • 19h ago • [heidenstedt.org](https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/)
+⬆️ 224 • 💬 180 • 21h ago • [heidenstedt.org](https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/)
 
 ---
 
@@ -243,7 +239,7 @@ Skills in Chrome let you discover, save and remix AI workflows — and repeat th
 
 **[US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]](https://news.ycombinator.com/item?id=47778920)**
 
-⬆️ 159 • 💬 110 • 1d ago • [fingfx.thomsonreuters.com](https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf)
+⬆️ 164 • 💬 115 • 1d ago • [fingfx.thomsonreuters.com](https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf)
 
 ---
 
@@ -257,15 +253,13 @@ Build local AI agents in Python and C++ for AMD hardware.
 
 **[AI ruling prompts warnings from US lawyers: Your chats could be used against you](https://news.ycombinator.com/item?id=47778308)**
 
-⬆️ 149 • 💬 99 • 1d ago • [reuters.com](https://www.reuters.com/legal/government/ai-ruling-prompts-warnings-us-lawyers-your-chats-could-be-used-against-you-2026-04-15/)
+⬆️ 152 • 💬 99 • 1d ago • [reuters.com](https://www.reuters.com/legal/government/ai-ruling-prompts-warnings-us-lawyers-your-chats-could-be-used-against-you-2026-04-15/)
 
 ---
 
-**[Claude.ai down](https://news.ycombinator.com/item?id=47753643)**
+**[The tech jobs bust is real. Don't blame AI (yet)](https://news.ycombinator.com/item?id=47757775)**
 
-Claude's Status Page - Claude.ai down.
-
-⬆️ 134 • 💬 126 • 2d ago • [status.claude.com](https://status.claude.com/incidents/6jd2m42f8mld)
+⬆️ 118 • 💬 193 • 2d ago • [economist.com](https://economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet)
 
 ---
 
@@ -279,7 +273,7 @@ Try Seedance 2.0 on Higgsfield: https://higgsfield.ai/s/seedance-2-0-airevolutio
 
 📺 AI Revolution
 
-👁️ 25K • 👍 829 • 💬 40 • ⏱️ 13:13 • 16h ago
+👁️ 25K • 👍 829 • 💬 40 • ⏱️ 13:13 • 18h ago
 
 ---
 
@@ -299,7 +293,7 @@ Allbirds's market value jumped more than 500% after unveiling a rebrand from sho
 
 📺 CNN
 
-👁️ 14K • 👍 187 • 💬 12 • ⏱️ 1:44 • 9h ago
+👁️ 14K • 👍 187 • 💬 12 • ⏱️ 1:44 • 11h ago
 
 ---
 
@@ -309,7 +303,7 @@ Watch the full Daily DeFranco Show: https://www.youtube.com/@PhilipDeFranco?sub_
 
 📺 DeFranco News Clips
 
-👁️ 450K • 👍 25K • 💬 797 • ⏱️ 1:18 • 20h ago
+👁️ 450K • 👍 25K • 💬 797 • ⏱️ 1:18 • 22h ago
 
 ---
 
@@ -329,7 +323,7 @@ Curious about quantum? Step onto Google's Quantum AI Campus to get answers to so
 
 📺 Google
 
-👁️ 93K • 👍 3K • 💬 191 • ⏱️ 3:56 • 1d ago
+👁️ 93K • 👍 3K • 💬 191 • ⏱️ 3:56 • 2d ago
 
 ---
 
@@ -339,7 +333,7 @@ This episode is about AI agents, OpenAI and Anthropic competition, the future of
 
 📺 Peter H. Diamandis
 
-👁️ 178K • 👍 4K • 💬 979 • ⏱️ 2:10:48 • 1d ago
+👁️ 178K • 👍 4K • 💬 979 • ⏱️ 2:10:48 • 2d ago
 
 ---
 
@@ -349,7 +343,7 @@ Clone any voice in seconds using a free AI voice generator that runs directly on
 
 📺 Kevin Stratvert
 
-👁️ 4K • 👍 448 • 💬 18 • ⏱️ 5:50 • 7h ago
+👁️ 4K • 👍 448 • 💬 18 • ⏱️ 5:50 • 9h ago
 
 ---
 
@@ -385,7 +379,7 @@ MiniMax-M2.7 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 142,955 • ❤️ 825 • 19h ago
+⬇️ 142,955 • ❤️ 825 • 21h ago
 
 ---
 
@@ -409,7 +403,7 @@ GLM-5.1 is a next-generation language model optimized for agentic engineering, f
 
 `text-generation` `753.9B`
 
-⬇️ 94,376 • ❤️ 1,265 • 7h ago
+⬇️ 94,376 • ❤️ 1,265 • 9h ago
 
 ---
 
@@ -433,7 +427,7 @@ VoxCPM2 is a 2B parameter, 30-language multilingual text-to-speech model capable
 
 `text-to-speech`
 
-⬇️ 15,249 • ❤️ 934 • 10h ago
+⬇️ 15,249 • ❤️ 934 • 12h ago
 
 ---
 
@@ -445,7 +439,7 @@ ERNIE-Image is a 8B parameter text-to-image diffusion model excelling in complex
 
 `text-to-image`
 
-⬇️ 1,351 • ❤️ 355 • 6h ago
+⬇️ 1,351 • ❤️ 355 • 8h ago
 
 ---
 
@@ -481,7 +475,7 @@ ERNIE-Image-Turbo is a distilled text-to-image diffusion model optimized for spe
 
 `text-to-image`
 
-⬇️ 1,369 • ❤️ 252 • 7h ago
+⬇️ 1,369 • ❤️ 252 • 9h ago
 
 ---
 
@@ -638,7 +632,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 47.0k • 🔱 6.1k • 12h ago
+⭐ 47.0k • 🔱 6.1k • 14h ago
 
 ---
 
@@ -668,7 +662,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 28.0k • 🔱 3.0k • 7h ago
+⭐ 28.0k • 🔱 3.0k • 9h ago
 
 ---
 
@@ -678,7 +672,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 8.0k • 🔱 512 • 10m ago
+⭐ 8.0k • 🔱 512 • 2h ago
 
 ---
 
@@ -688,7 +682,7 @@ AI Agent 源码深度研究报告
 
 `Python`
 
-⭐ 5.5k • 🔱 1.6k • 3d ago
+⭐ 5.5k • 🔱 1.6k • 4d ago
 
 ---
 
@@ -718,7 +712,7 @@ The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interac
 
 `Swift` `apple-intelligence` `apple-silicon` `cli` `foundationmodels` `homebrew`
 
-⭐ 4.7k • 🔱 176 • 6h ago
+⭐ 4.7k • 🔱 176 • 8h ago
 
 ---
 

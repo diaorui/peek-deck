@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-16T14:07:19.393856+00:00'
+updated: '2026-04-16T16:05:16.451907+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
+- news
 - videos
 - cryptocurrency
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 16, 2026 at 14:07 UTC  
+**Last Updated:** April 16, 2026 at 16:05 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $73,772.75
+### $74,762.80
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** +1.1%  
-**30d:** +3.5%  
-**90d:** -22.5%  
-**1y:** -13.2%  
+**24h:** +0.8%  
+**7d:** +2.5%  
+**30d:** +4.9%  
+**90d:** -21.4%  
+**1y:** -12.0%  
 
 ---
 
@@ -77,23 +77,23 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Popular Chinese commentator 'Professor Jiang' claims Bitcoin is a "CIA operation." Do you believe that?](https://www.reddit.com/r/Bitcoin/comments/1smpmuh/popular_chinese_commentator_professor_jiang/)**
-
-12h ago
-
----
-
 **[Bitcoin Quantum Migration Plan That Would Freeze Legacy Coins - BIP 361 Discussion](https://www.reddit.com/r/Bitcoin/comments/1sn2cuo/bitcoin_quantum_migration_plan_that_would_freeze/)**
 
 This was proposed for some time, getting more attention currently. I'm personally not a fan of freezing any coins, just trying to inform the masses. Hopefully u/statoshi will join us and explain the options. https://github.com/bitcoin/bips/blob/master/bip-0361.mediawiki There's an alternative proposal called Hourglass, introduced recently. https://github.com/cryptoquick/bips/blob/hourglass/bip-hourglass.mediawiki Adam Back advocated for optional quantum-resistant Bitcoin upgrades at Paris Blockchain Week on Wednesday, not sure about the details. https://decrypt.co/364562/adam-back-pushes-for-optional-upgrades-to-quantum-proof-bitcoin Tagging u/adam3us too.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/bitcoin-developers-propose-quantum-plan) • 1h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/bitcoin-developers-propose-quantum-plan) • 3h ago
 
 ---
 
 **[After putting your bitcoin in cold storage](https://www.reddit.com/r/Bitcoin/comments/1sn37ok/after_putting_your_bitcoin_in_cold_storage/)**
 
-52m ago
+2h ago
+
+---
+
+**[Popular Chinese commentator 'Professor Jiang' claims Bitcoin is a "CIA operation." Do you believe that?](https://www.reddit.com/r/Bitcoin/comments/1smpmuh/popular_chinese_commentator_professor_jiang/)**
+
+14h ago
 
 ---
 
@@ -101,7 +101,19 @@ This was proposed for some time, getting more attention currently. I'm personall
 
 Answer: KRIPTO EXPERT AND PROFESSOR
 
-1h ago
+3h ago
+
+---
+
+**[Revealed](https://www.reddit.com/r/Bitcoin/comments/1sn3jb2/revealed/)**
+
+2h ago
+
+---
+
+**[Time in the market > timing the market](https://www.reddit.com/r/Bitcoin/comments/1sn33pt/time_in_the_market_timing_the_market/)**
+
+2h ago
 
 ---
 
@@ -109,7 +121,21 @@ Answer: KRIPTO EXPERT AND PROFESSOR
 
 Highly considering selling 100K worth of my global equity ETF in my TFSA and going all in Bitcoin ETF, someone convince me not to or I’m going in
 
-14h ago
+16h ago
+
+---
+
+**[Would you actually use payroll based bitcoin buying?](https://www.reddit.com/r/Bitcoin/comments/1sn5byu/would_you_actually_use_payroll_based_bitcoin/)**
+
+Curious to get honest feedback from the community. Hypothetical: imagine you could buy bitcoin via a after tax deduction from your paycheck. Does not flow through your bank account. Direct buy for bitcoin, any amount, post tax, optional. If your company offered this, would this be something youd do? If fees were less than standard exchange rates? Same?
+
+1h ago
+
+---
+
+**[Bitcoin and the rise of cypherpunks](https://www.reddit.com/r/Bitcoin/comments/1sn6dt6/bitcoin_and_the_rise_of_cypherpunks/)**
+
+54m ago
 
 ---
 
@@ -117,37 +143,7 @@ Highly considering selling 100K worth of my global equity ETF in my TFSA and goi
 
 All ur favorite YouTubers telling u we’re gonna go lower yet check the whale buys, all time high rn. Retail is just waiting for a bottom. U think the price is going to everyone’s target? Being on the sidelines is one thing but those of u shorting will get rekt. Especially those with leverage lol good luck. 3 green candles on the weekly, moon time Buy now or regret missing the pump
 
-12h ago
-
----
-
-**[Daily Discussion, April 16, 2026](https://www.reddit.com/r/Bitcoin/comments/1smv06w/daily_discussion_april_16_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-8h ago
-
----
-
-**[Time in the market > timing the market](https://www.reddit.com/r/Bitcoin/comments/1sn33pt/time_in_the_market_timing_the_market/)**
-
-56m ago
-
----
-
-**[Moving All Crypto Assets into Bitcoin, Recommend me a Best Wallet](https://www.reddit.com/r/Bitcoin/comments/1sn26e0/moving_all_crypto_assets_into_bitcoin_recommend/)**
-
-I recently bought a hardware wallet, what are the beginner mistakes I should avoid. Till now, I was holding assets on an exchange.
-
-1h ago
-
----
-
-**[Question: Has the safety of the "old" Bitcoin address format been compromised in any way?](https://www.reddit.com/r/Bitcoin/comments/1smh3cn/question_has_the_safety_of_the_old_bitcoin/)**
-
-Hello, I have a concern based on semi-technical article I read on local (Czech) news site. I have some Bitcoin in a cold storage address in the "old" format (starting with "1F...") that I have created in 2015. During the following 11 years, my BTC just sat there, with very few partial withdrawals (3 or 4 total). No "change address" was used, the remaining BTC are still in the same wallet. I do not intend to do anything with the remaining BTC in the near future, I just want them to sit there. Unfortunately, during those 10 years, I was less active in the Bitcoin scene and did not closely watch the developments and happenings in the world of Bitcoin. I just want to hold the remaining BTC for several more years, I don't need them now. My question is: Are my remaining BTC still reasonably safe in that old address or is there some truth to the rumor that "Old format BTC wallets are now at risk?" P.S: Of course, my private key from that wallet is securely stored and I am aware of the importance of it not being leaked / lost. That's not what my question is about. UPDATE: I am genuinely perplexed why some users here keep suggesting to "get Trezor". I would STILL have to store the private key somewhere (in case the Trezor malfunctions) and the device itself would only introduce a new attack vector. I am absolutely at loss understanding how Trezor could possibly be useful in my scenario, where I am only planning to do ONE additional transaction from this address to the exchange.
-
-18h ago
+14h ago
 
 ---
 
@@ -155,27 +151,49 @@ Hello, I have a concern based on semi-technical article I read on local (Czech) 
 
 ## Google News: "bitcoin"
 
+**[Goldman’s Bitcoin ETF Push Signals Wall Street Taming of Crypto](https://www.bloomberg.com/news/articles/2026-04-15/goldman-s-bitcoin-etf-push-signals-wall-street-taming-of-crypto)**
+
+Bloomberg.com • 1d ago
+
+---
+
+**[The cheapest bitcoin ETF yet: Morgan Stanley uses 0.14% fee to draw $100 million in first week](https://www.coindesk.com/markets/2026/04/16/morgan-stanley-s-bitcoin-etf-reaches-usd100m-in-first-week-marking-the-bank-s-strongest-launch)**
+
+Morgan Stanley’s new MSBT fund has quickly attracted over $100 million by offering the market's lowest fees, sparking a fresh wave of competition from rivals like Goldman Sachs.
+
+CoinDesk • 6h ago
+
+---
+
+**[Bitcoin Miner ETFs: The Shift Beyond Mining](https://seekingalpha.com/article/4891282-bitcoin-miner-etfs-shift-beyond-mining)**
+
+While there are several blockchain/crypto equity ETFs, there are only a couple of pure-play Bitcoin mining ETFs left after some earlier closures.
+
+Seeking Alpha • 32m ago
+
+---
+
 **[CEO of bitcoin firm championed by Nigel Farage leaves company](https://www.theguardian.com/politics/2026/apr/16/ceo-of-bitcoin-firm-championed-by-nigel-farage-leaves-company-stack-btc)**
 
 Resignation announced of Jai Patel, whose liquidated crypto firm was relaunched as Stack BTC this year
 
-The Guardian • 5h ago
+The Guardian • 7h ago
 
 ---
 
-**[Bitcoin funding rates hit most negative since 2023, history suggests bottom is in](https://www.coindesk.com/markets/2026/04/16/bitcoin-funding-rates-hit-most-negative-since-2023-history-suggests-bottom-is-in)**
+**[Bitcoin Price Passes $75,000 as Iran War Turns It From ‘Digital Gold’ Into Geopolitical Settlement Bet](https://bitcoinmagazine.com/news/bitcoin-price-passes-75000-as-iran-war)**
 
-Despite a surge in short positioning, bitcoin has climbed toward $75,000, with past episodes of negative funding rates often aligning with local market bottoms.
+Bitcoin price jumped past $75,000 on Wednesday as traders recalibrated what the asset represents in the wake of the Iran conflict and an unusually stretched derivatives market.
 
-CoinDesk • 2h ago
+Bitcoin Magazine • 20h ago
 
 ---
 
-**[Buy the dip mode on: BlackRock pulls $505M into Bitcoin ETF in 48H](https://seekingalpha.com/news/4575672-buy-the-dip-mode-on-blackrock-pulls-505m-into-bitcoin-etf-in-48h)**
+**[Steak ’n Shake Teases “Bitcoin Milkshake” For Bitcoin Conference 2026](https://bitcoinmagazine.com/news/steak-n-shake-teases-bitcoin-milkshake-for-bitcoin-conference-2026)**
 
-BlackRock’s IBIT drew $505.7M in 48 hours, boosting Bitcoin holdings to $59.3B.
+Steak ’n Shake teased a Bitcoin-themed “Milkshake” for the Bitcoin Conference 2026, reinforcing its broader Bitcoin-focused strategy spanning payments, treasury, and payroll.
 
-Seeking Alpha • 39m ago
+Bitcoin Magazine • 32m ago
 
 ---
 
@@ -183,51 +201,29 @@ Seeking Alpha • 39m ago
 
 Bitcoin’s current quantum defense plan seeks to solve a future threat at the detriment of its most sacred rule.
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 17h ago
 
 ---
 
-**[Goldman’s Bitcoin ETF Push Signals Wall Street Taming of Crypto](https://www.bloomberg.com/news/articles/2026-04-15/goldman-s-bitcoin-etf-push-signals-wall-street-taming-of-crypto)**
+**[Anthropic's Mythos isn't threatening bitcoin. The real AI risk is at crypto exchanges](https://www.cnbc.com/2026/04/15/anthropics-mythos-isnt-threatening-bitcoin-the-real-ai-risk-is-at-crypto-exchanges-.html)**
 
-Bloomberg • 22h ago
+The Bitcoin blockchain itself has never been hacked and has operated securely and without interruption since 2009. The Mythos threat probably won't change that.
 
----
-
-**[Goldman Sachs makes surprise jump into Bitcoin ETFs with a product one analyst dubs ‘boomer candy’](https://fortune.com/2026/04/14/goldman-sachs-bitcoin-etf-boomer-candy/)**
-
-The filing from a major U.S. bank comes shortly after Morgan Stanley’s Bitcoin ETF launched
-
-Fortune • 1d ago
+CNBC • 23h ago
 
 ---
 
-**[Goldman Sachs Seeks SEC Approval for New Bitcoin ETF](https://www.pymnts.com/cryptocurrency/2026/goldman-sachs-seeks-sec-approval-for-new-bitcoin-etf/)**
+**[Bitcoin vs. Stocks: It’s time to stop pretending they’re the same](https://nypost.com/business/stocks-vs-bitcoin-portfolio-guide/)**
 
-Goldman Sachs has filed a registration statement with the Securities and Exchange Commission (SEC) for a new bitcoin exchange-traded fund (ETF). The
+It is dangerously easy to treat Bitcoin and traditional stocks as equals when they sit side-by-side in your brokerage app.
 
-PYMNTS.com • 15h ago
-
----
-
-**[Inside Doug Liman's $70 Million AI-Made Movie Starring Casey Affleck and Gal Gadot | Exclusive](https://www.thewrap.com/creative-content/movies/ai-movie-bitcoin-killing-satoshi-gal-gadot-casey-affleck-doug-liman/)**
-
-Doug Liman made a $70 million movie using AI about the creator of bitcoin called Killing Satoshi, starring Gal Gadot, Casey Affleck and Pete Davidson.
-
-TheWrap • 1d ago
+New York Post • 5h ago
 
 ---
 
-**[Saylor’s Strategy on the cusp of being profitable on its bitcoin holdings again](https://www.marketwatch.com/story/saylors-strategy-on-the-cusp-of-being-profitable-on-its-bitcoin-holdings-again-e95c6b74)**
+**[Former Fed Chair Issues Shock ‘Hyperinflation’ U.S. Dollar Warning—Fueling Huge Bitcoin Price Predictions](https://www.forbes.com/sites/digital-assets/2026/04/16/former-fed-chair-issues-shock-hyperinflation-us-dollar-warning-fueling-huge-bitcoin-price-predictions/)**
 
-MarketWatch • 2h ago
-
----
-
-**[Bitdeer hits 70 EH/s in self-mining bitcoin operations, claims top spot by compute](https://www.theblock.co/post/397631/bitdeer-self-mining-bitcoin-70-eh-s-canaan-cleanspark)**
-
-Bitdeer's total hashrate under management grew to 78.1 EH/s, including its massive self-mining fleet and hosted machines.
-
-The Block • 20h ago
+Forbes • 2h ago
 
 ---
 
@@ -263,7 +259,7 @@ A three-part deep dive into quantum computing's actual threat to Bitcoin. 17 res
 
 The Blockstream CEO’s approach contrasts with BIP-361, a proposal that would implement mandatory freezes of quantum-vulnerable Bitcoin.
 
-⬆️ 4 • 💬 1 • 1h ago • [Decrypt](https://decrypt.co/364562/adam-back-pushes-for-optional-upgrades-to-quantum-proof-bitcoin)
+⬆️ 4 • 💬 1 • 3h ago • [Decrypt](https://decrypt.co/364562/adam-back-pushes-for-optional-upgrades-to-quantum-proof-bitcoin)
 
 ---
 
@@ -277,7 +273,7 @@ Imagine one person holding the keys to Bitcoin’s entire future. That was Satos
 
 **[Unmasking the Creator of Bitcoin](https://news.ycombinator.com/item?id=47752949)**
 
-⬆️ 3 • 💬 2 • 2d ago • [nytimes.com](https://www.nytimes.com/2026/04/09/podcasts/the-daily/satoshi-nakamoto-bitcoin-creator.html)
+⬆️ 3 • 💬 2 • 3d ago • [nytimes.com](https://www.nytimes.com/2026/04/09/podcasts/the-daily/satoshi-nakamoto-bitcoin-creator.html)
 
 ---
 
@@ -321,7 +317,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Com
 
 📺 Altcoin Daily
 
-👁️ 30K • 👍 2K • 💬 100 • ⏱️ 14:13 • 12h ago
+👁️ 30K • 👍 2K • 💬 100 • ⏱️ 14:13 • 14h ago
 
 ---
 
@@ -331,7 +327,7 @@ Bitcoin just entered a new phase and most people still don't see it. Massive ins
 
 📺 Simply Bitcoin
 
-👁️ 27K • 👍 2K • 💬 153 • ⏱️ 16:45 • 16h ago
+👁️ 27K • 👍 2K • 💬 153 • ⏱️ 16:45 • 18h ago
 
 ---
 
@@ -361,7 +357,7 @@ Let's talk about Bitcoin and more! Subscribe to Guy: https://www.youtube.com/@co
 
 📺 Benjamin Cowen
 
-👁️ 4K • 👍 300 • 💬 5 • ⏱️ 28:50 • 26m ago
+👁️ 4K • 👍 300 • 💬 5 • ⏱️ 28:50 • 2h ago
 
 ---
 
@@ -371,7 +367,7 @@ As cryptocurrency continues to embed itself in American politics, Jon is joined 
 
 📺 The Weekly Show with Jon Stewart
 
-👁️ 80K • 👍 3K • 💬 574 • ⏱️ 1:35:48 • 18h ago
+👁️ 80K • 👍 3K • 💬 574 • ⏱️ 1:35:48 • 20h ago
 
 ---
 
@@ -381,7 +377,7 @@ Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FR
 
 📺 CryptosRUs
 
-👁️ 18K • 👍 1K • 💬 165 • ⏱️ 37:53 • 23h ago
+👁️ 18K • 👍 1K • 💬 165 • ⏱️ 37:53 • 1d ago
 
 ---
 
@@ -391,7 +387,7 @@ Despite peace talks falling apart this weekend, cryptocurrency punters don't see
 
 📺 Paul Barron Network
 
-👁️ 38K • 👍 2K • 💬 131 • ⏱️ 15:24 • 18h ago
+👁️ 38K • 👍 2K • 💬 131 • ⏱️ 15:24 • 20h ago
 
 ---
 
@@ -401,7 +397,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 3K • 👍 354 • 💬 56 • ⏱️ 12:52 • 3h ago
+👁️ 3K • 👍 354 • 💬 56 • ⏱️ 12:52 • 5h ago
 
 ---
 

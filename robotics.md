@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-16T14:07:19.401960+00:00'
+updated: '2026-04-16T16:05:16.460061+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 16, 2026 at 14:07 UTC  
+**Last Updated:** April 16, 2026 at 16:05 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 From The Humanoid Hub on 𝕏: https://x.com/TheHumanoidHub/status/2044504579480686900
 
-5h ago
+7h ago
 
 ---
 
 **[I 3D-printed a capture point for my Capture the Base robot game](https://www.reddit.com/r/robotics/comments/1sn2ptz/i_3dprinted_a_capture_point_for_my_capture_the/)**
 
-1h ago
+3h ago
 
 ---
 
@@ -50,7 +50,7 @@ From The Humanoid Hub on 𝕏: https://x.com/TheHumanoidHub/status/2044504579480
 
 Teleoperation through a ps5 controller, powered by ROS2 and an stm32. Honestly not too happy with it but this is my first robot ever, wanted to challenge myself. Too much vibration and shaky teleop.
 
-21h ago
+23h ago
 
 ---
 
@@ -62,45 +62,47 @@ From Reflex Robotics on 𝕏: https://x.com/ReflexRobot/status/20441541141085432
 
 ---
 
+**[Pick an object with camera via TIA](https://www.reddit.com/r/robotics/comments/1sn7b1t/pick_an_object_with_camera_via_tia/)**
+
+I have a question for everyone understanding TIA, UR-Robots and cameras. In my use case, there is a Camera (Wenglor vision sensor) that gives me back values for X, Y and RZ. I want to use these in Tia to communicate them to the robot in order to pick the object. A connection using Lan is not possible, therefor I use Rte. However, if I use Rte, the ur can't communicate with the camera and I have to use the plc as an translator, but the easiest way (URCap "detect object") isn't possible anymore. So now to the application: I have a robot thats supposed to find an object over the camera. After picking it up, it checks the object with another camera Programm for a code and stores the code. That part already works because I directly use the plc to cam. No robot involved. So there is two parts of the Programm, using the same camera. I already calibrated the robot to the camera. I get the return values X, Y and RZ and need to add them to the Robot base coordinate. Then I can hand over these values to the robot and pick the item. In theory the idea is simple, in reality it's really hard. Has anyone ever done something similar and can help me out? Or are there other ideas?
+
+21m ago
+
+---
+
+**[RealSense now supports GMSL across stereo camera product line!](https://www.reddit.com/r/robotics/comments/1sn6q45/realsense_now_supports_gmsl_across_stereo_camera/)**
+
+Joining the existing D457 GMSL/FAKRA, we’re introducing GMSL support across three of our most widely used depth cameras: 📷D401 - Sub-millimeter precision for robotic arms and humanoids 📷D430 -High-accuracy depth sensing for mid-range robotics and AMRs 📷D415 - High-precision depth camera for spatial intelligence for factories
+
+41m ago
+
+---
+
 **[Looking for advice on sub-millimeter robot arm accuracy](https://www.reddit.com/r/robotics/comments/1sn0o7g/looking_for_advice_on_submillimeter_robot_arm/)**
 
 Hello, I am implementing a full joint impedance controller on a factory robot arm (with feedforward coriolus, mass matrix, gravity comp, and friction comp). It works well, up to about 0.2 deg accuracy due to low gains (which I want) and static friction deadband. If I increase the coulomb friction compensation I introduce small high-frequency oscillations. My ideas to solve this are either some secondary low amplitude damping term that allows me to increase friction comp and damp out its oscillations, or add some clipped/gated integral term. I was wondering if anyone has chased steady state error to ~0.01 deg and if either of my above ideas are standard in industry. Note I really just care about decreasing the error of my sensed versus realized joint angles, and I am not too concerned with hardware tolerances/physical accuracy. I more so just want my realized joint values to be within 0.01deg of my commanded, and I don’t want to increase my P gain. Any advice as to what’s happening under the hood on these sub-mm controllers would be greatly appreciated.
 
-2h ago
+4h ago
+
+---
+
+**[Is cozmo robot useful for learning and fun?](https://www.reddit.com/r/robotics/comments/1sn5ejr/is_cozmo_robot_useful_for_learning_and_fun/)**
+
+Two days ago I visited an electronics store to buy a Cozmo robot for my nephew as a learning toy. I wanted something interactive and smart. But when I checked the robots I felt disappointed. Some looked cheap and some sensors seemed weak. I could not pick one confidently. I visited another store. Some robots were smart but costly. Some looked interactive but small. Some seemed perfect but battery seemed weak. I remembered buying a robot toy last week that stopped working quickly. That made me hesitate even more. To check more variety and options while scrolling many online marketplaces including alibaba I found many Cozmo robots. Some were smart and interactive. Some were simple and affordable. Some had extra programming features. Seeing all these options made me excited but also confused. Now I am thinking should I buy this Cozmo robot online for variety or check a store to feel the quality first? What would you do in my place?
+
+1h ago
 
 ---
 
 **[I gave Reachy Mini a custom 3D printed outfit, then built and deployed a live object detection app on her camera.](https://www.reddit.com/r/robotics/comments/1sn30om/i_gave_reachy_mini_a_custom_3d_printed_outfit/)**
 
-1h ago
+2h ago
 
 ---
 
 **[Robot dog with Elon Musk's face wandering the streets.](https://www.reddit.com/r/robotics/comments/1sm2aej/robot_dog_with_elon_musks_face_wandering_the/)**
 
 1d ago
-
----
-
-**[Debugging robots with ReductStore and Foxglove](https://www.reddit.com/r/robotics/comments/1smx37u/debugging_robots_with_reductstore_and_foxglove/)**
-
-6h ago
-
----
-
-**[Raspberry Pi 4B & dtof lidar Test](https://www.reddit.com/r/robotics/comments/1sm9zvp/raspberry_pi_4b_dtof_lidar_test/)**
-
-l get a dtof lidar, l want to use it on my drone for obstacles avoidance. today, l make a simple test on its point cloud and depth map, it's great ! Share the test results with you. And the code with open source on the github later,
-
-22h ago
-
----
-
-**[Ukraine says it replaced human soldiers with 'ground robots' in over 21,000 missions for Q1](https://www.reddit.com/r/robotics/comments/1sm3vb7/ukraine_says_it_replaced_human_soldiers_with/)**
-
-Ukraine's defense ministry said that its forces tripled UGV missions since November to over 9,000 tasks in March alone.
-
-🔗 [Business Insider](https://www.businessinsider.com/ukraine-ground-robots-troops-uncrewed-ground-vehicles-first-quarter-2026-4) • 1d ago
 
 ---
 
@@ -112,7 +114,15 @@ Ukraine's defense ministry said that its forces tripled UGV missions since Novem
 
 Gemini Robotics ER 1.6 upgrades spatial reasoning and multi-view understanding, unlocking new capabilities like instrument reading for autonomous robots.
 
-Google DeepMind • 1d ago
+Google DeepMind • 2d ago
+
+---
+
+**[Gemini Robotics ER-1.6 enhances reasoning to help robots navigate real-world tasks.](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-1-6/)**
+
+An overview of Gemini Robotics-ER 1.6, an upgrade to our reasoning-first model that helps robots to understand their environment.
+
+blog.google • 2d ago
 
 ---
 
@@ -120,15 +130,7 @@ Google DeepMind • 1d ago
 
 Google's AI enables robots to read gauges while inspecting industrial facilities.
 
-Ars Technica • 18h ago
-
----
-
-**[Tools for Your To Do List with Spot and Gemini Robotics](https://bostondynamics.com/blog/tools-for-your-to-do-list-with-spot-and-gemini-robotics/)**
-
-A recent demo shows Boston Dynamics Spot in a residential home, using Google’s visual-language model (VLM) Gemini Robotics-ER 1.5 for embodied reasoning.
-
-Boston Dynamics • 1d ago
+Ars Technica • 20h ago
 
 ---
 
@@ -136,15 +138,7 @@ Boston Dynamics • 1d ago
 
 Skild AI today announced the acquisition of Zebra Technologies' Robotics Automation business, including its Symmetry Fulfillment orchestration platform. This...
 
-Business Wire • 16h ago
-
----
-
-**[How will robots help us in the future?](https://www.bbc.com/news/videos/cn8dp42evllo)**
-
-BBC Radio Berkshire speaks to engineers at Extend Robotics in Reading.
-
-BBC • 3h ago
+Business Wire • 18h ago
 
 ---
 
@@ -152,7 +146,7 @@ BBC • 3h ago
 
 Panther has been filmed doing basic household chores, like making the bed and cooking breakfast.
 
-Live Science • 21h ago
+Live Science • 23h ago
 
 ---
 
@@ -164,23 +158,31 @@ politico.eu • 2d ago
 
 ---
 
+**[Summit HS robotics team heads to worlds after historic season](https://www.centraloregondaily.com/news/local/summit-robotics-team-first-world-championship-houston/article_823c6ce1-d994-4998-a10d-f90824ea2799.html)**
+
+Summit High’s Chaos Theory robotics team is headed to the world championship after a standout season. Now it's working to raise funds to make the trip to Houston.
+
+Central Oregon Daily • 10h ago
+
+---
+
 **[Cadence, Nvidia working together on developing AI for robotics](https://www.reuters.com/technology/cadence-nvidia-working-together-developing-ai-robotics-2026-04-15/)**
 
-Reuters • 16h ago
+Reuters • 18h ago
+
+---
+
+**[Kraken Robotics Announces $28 Million In SeaPower Battery And Kraken SAS Orders](https://www.krakenrobotics.com/news-releases/kraken-robotics-announces-28-million-in-seapower-battery-and-kraken-sas-orders/)**
+
+Kraken Robotics Announces $28 Million in SeaPower Battery and Kraken SAS Orders
+
+Kraken Robotics • 5h ago
 
 ---
 
 **[Tesla’s Chinese Robot Rival Ramps Pre-IPO Global Push](https://www.bloomberg.com/news/articles/2026-04-15/tesla-s-chinese-robot-rival-ramps-up-global-push-ahead-of-ipo)**
 
-Bloomberg • 1d ago
-
----
-
-**[Robots crack jokes and grasp items at Humanoid Robot Expo in Tokyo](https://apnews.com/video/humanoid-robots-crack-jokes-and-grasp-items-at-humanoid-robot-expo-in-tokyo-8be83603b1964e2ab90bb506cc4e5860)**
-
-They can dance and they're good at doing repetitive work we humans tire of, but the big question at the Tokyo Expo is when will the humanoids be able to look after us at home.
-
-AP News • 4h ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -234,7 +236,7 @@ President Zelenskyy says that for the first time ever, the Ukrainian army was ab
 
 📺 NBC News
 
-👁️ 269K • 👍 4K • 💬 964 • ⏱️ 3:12 • 13h ago
+👁️ 269K • 👍 4K • 💬 964 • ⏱️ 3:12 • 15h ago
 
 ---
 
@@ -244,7 +246,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 60K • 👍 2K • 💬 256 • ⏱️ 4:16 • 1d ago
+👁️ 60K • 👍 2K • 💬 256 • ⏱️ 4:16 • 2d ago
 
 ---
 
