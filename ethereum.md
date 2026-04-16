@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-16T05:32:18.920159+00:00'
+updated: '2026-04-16T07:48:50.197243+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - cryptocurrency
+- social
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 16, 2026 at 05:32 UTC  
+**Last Updated:** April 16, 2026 at 07:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,357.64
+### $2,347.55
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.8%  
-**7d:** +5.0%  
-**30d:** +6.9%  
-**90d:** -28.8%  
-**1y:** +49.1%  
+**24h:** +0.8%  
+**7d:** +4.6%  
+**30d:** +6.5%  
+**90d:** -29.1%  
+**1y:** +48.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $284.62B
+**Market Cap:** $283.69B
 Rank #2
 
 **Circulating Supply:** 120,690,932 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--52.3%
+-52.5%
 
 **All-Time Low:** $0.43
-+544559.2%
++542522.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-31m ago
+2h ago
 
 ---
 
@@ -150,7 +150,7 @@ I permanently lost $2,000 USD value trying to stake via direct contract interact
 
 **[Bitmine Reports $3.8 Billion Loss As Ethereum Sinks](https://finance.yahoo.com/news/bitmine-reports-3-8-billion-125000138.html)**
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -158,7 +158,7 @@ Yahoo Finance • 16h ago
 
 The largest corporate ether holder posted a $3.8 billion quarterly loss as its pivot from mining to ETH accumulation continues.
 
-CoinDesk • 16h ago
+CoinDesk • 19h ago
 
 ---
 
@@ -170,11 +170,9 @@ PR Newswire • 2d ago
 
 ---
 
-**[Ethereum Price Gears Up, Another Increase Could Be Imminent](https://www.tradingview.com/news/newsbtc:aa3e228bf094b:0-ethereum-price-gears-up-another-increase-could-be-imminent/)**
+**[Ethereum Analysis: How High Can This Bounce Actually Go $BTC $ETH $BNB](https://www.binance.com/en/square/post/313054977695089)**
 
-Ethereum price started a fresh increase and remained stable above $2,320. ETH is now consolidating and might aim for more gains if it clears $2,380.Ethereum Price Aims Fresh IncreaseEthereum price managed to stay above the $2,220 support and started a fresh increase, like Bitcoin. ETH price gained…
-
-TradingView — Track All Markets • 2h ago
+Binance • 1h ago
 
 ---
 
@@ -192,11 +190,19 @@ Barron's • 2d ago
 
 ---
 
-**[Crypto Hacker Mints $1.1 Billion in Polkadot via Ethereum Bridge, But Can Only Cash Out $237K](https://decrypt.co/364131/crypto-hacker-mints-billion-polkadot-ethereum-bridge-cashes-out-237k)**
+**[Bitcoin and ethereum prices today, Tuesday, April 14, 2026: Prices rebound despite U.S. blockade in the Middle East](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-april-14-2026-prices-rebound-despite-us-blockade-in-the-middle-east-112122301.html)**
 
-A hacker exploited a Polkadot bridge, minting $1.1 billion worth of DOT tokens before making a tiny fraction of that tally by selling it.
+​​Bitcoin (BTC-USD) opened at $74,442.23 and ethereum (ETH-USD) opened at $2,369.90. Bitcoin was up 5.2% and ethereum was up 8.1% from Monday's open.
 
-Decrypt • 2d ago
+Yahoo Finance • 1d ago
+
+---
+
+**[ETH, BTC price: What next as Ether/bitcoin ratio bounces from 2026 lows](https://www.coindesk.com/markets/2026/04/15/ether-bitcoin-ratio-bounces-from-2026-lows-in-signs-of-broader-crypto-recovery)**
+
+The ETH/BTC ratio hit its highest since January as Ethereum's network added 284,000 new users in Q1 and stablecoin supply reached a record $180 billion.
+
+CoinDesk • 1d ago
 
 ---
 
@@ -204,21 +210,15 @@ Decrypt • 2d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 16h ago
+Fortune • 18h ago
 
 ---
 
-**[Ripple CEO Brad Garlinghouse Bets Big on XRP Flipping Ethereum](https://coinpaper.com/16228/ripple-ceo-brad-garlinghouse-bets-big-on-xrp-flipping-ethereum)**
+**[Crypto Hacker Mints $1.1 Billion in Polkadot via Ethereum Bridge, But Can Only Cash Out $237K](https://decrypt.co/364131/crypto-hacker-mints-billion-polkadot-ethereum-bridge-cashes-out-237k)**
 
-Ripple CEO Brad Garlinghouse says XRP could challenge Ethereum for the #2 crypto spot, driven by real-world cross-border payment utility.
+A hacker exploited a Polkadot bridge, minting $1.1 billion worth of DOT tokens before making a tiny fraction of that tally by selling it.
 
-Coinpaper • 1d ago
-
----
-
-**[Ethereum absorbs $8.4B – But stablecoin activity is moving elsewhere](https://ambcrypto.com/?p=589331)**
-
-AMBCrypto • 6h ago
+Decrypt • 2d ago
 
 ---
 
@@ -232,7 +232,7 @@ Buy Ethereum? CRYPTO RETIREMENT ACCOUNT HERE Sign up for iTrustCapital and get a
 
 📺 Crypto Jebb
 
-👁️ 4K • 👍 217 • 💬 134 • ⏱️ 14:10 • 11h ago
+👁️ 4K • 👍 222 • 💬 133 • ⏱️ 14:10 • 13h ago
 
 ---
 
@@ -242,17 +242,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 4K • 👍 209 • 💬 12 • ⏱️ 14:46 • 13h ago
-
----
-
-**[BITCOIN &amp; STOCKS BREAKING OUT (All Time Highs)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=wLOLkVRFAHU)**
-
-BITCOIN & STOCKS BREAKING OUT (All Time Highs)!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
-
-📺 Crypto World
-
-👁️ 898 • 👍 75 • 💬 16 • ⏱️ 23:10 • 1h ago
+👁️ 4K • 👍 219 • 💬 11 • ⏱️ 14:46 • 15h ago
 
 ---
 
@@ -262,17 +252,7 @@ Ethereum is moving higher in a corrective bounce and approaching a major resista
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 186 • 💬 13 • ⏱️ 9:49 • 5h ago
-
----
-
-**[Michael Saylor on Ethereum: It’s Still the Leader](https://www.youtube.com/watch?v=BtiLtGZXPX4)**
-
-Michael Saylor's Ethereum view has changed. Bitcoin is digital capital. Ethereum is leading the tokenization race. #Bitcoin ...
-
-📺 Bankless
-
-👁️ 2K • 👍 68 • 💬 4 • ⏱️ 1:17 • 7h ago
+👁️ 3K • 👍 237 • 💬 14 • ⏱️ 9:49 • 7h ago
 
 ---
 
@@ -282,7 +262,27 @@ URGENT $60000 Ethereum Incoming Despite Crypto Clarity Delay $120M flows to XRP!
 
 📺 CryptoWendyO
 
-👁️ 6K • 👍 412 • 💬 23 • ⏱️ 32:36 • 11h ago
+👁️ 6K • 👍 417 • 💬 40 • ⏱️ 32:36 • 13h ago
+
+---
+
+**[Michael Saylor on Ethereum: It’s Still the Leader](https://www.youtube.com/watch?v=BtiLtGZXPX4)**
+
+Michael Saylor's Ethereum view has changed. Bitcoin is digital capital. Ethereum is leading the tokenization race. #Bitcoin ...
+
+📺 Bankless
+
+👁️ 2K • 👍 75 • 💬 4 • ⏱️ 1:17 • 9h ago
+
+---
+
+**[BITCOIN &amp; STOCKS BREAKING OUT (All Time Highs)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=wLOLkVRFAHU)**
+
+BITCOIN & STOCKS BREAKING OUT (All Time Highs)!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
+
+📺 Crypto World
+
+👁️ 2K • 👍 141 • 💬 100 • ⏱️ 23:10 • 3h ago
 
 ---
 
@@ -292,17 +292,7 @@ Companies over the course of 2026 have been all but frothing at the mouth trying
 
 📺 The Modern Investor
 
-👁️ 6K • 👍 723 • 💬 428 • ⏱️ 29:08 • 19h ago
-
----
-
-**[XRP TO $27,000?!?! ETHEREUM GETS FLIPPED IN 2 MONTHS?!](https://www.youtube.com/watch?v=W-ZKWPZ8zkU)**
-
-We're diving into the latest "xrp news today" as extreme "xrp price" targets, ranging from $10000 to $50000, are causing a stir ...
-
-📺 Ripple Moon Watch
-
-👁️ 3K • 👍 197 • 💬 66 • ⏱️ 19:27 • 16h ago
+👁️ 6K • 👍 734 • 💬 429 • ⏱️ 29:08 • 21h ago
 
 ---
 
@@ -312,17 +302,27 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 4K • 👍 250 • 💬 125 • ⏱️ 11:55 • 16h ago
+👁️ 4K • 👍 251 • 💬 124 • ⏱️ 11:55 • 18h ago
 
 ---
 
-**[🔴 Ethereum Is Finally Breaking Out – Next Target $3,000?](https://www.youtube.com/watch?v=EzqGrq9CQOo)**
+**[Bitcoin und Ethereum, weiter auf dem Weg in Richtung 78k, aktuell kein Grund für Panik!](https://www.youtube.com/watch?v=wRj6v1PgXzU)**
 
-BloFin - No KYC/No VPN needed [Trade ETH Coin Futures!] https://marzell.org/Blofin_Trade CoinGPT ...
+Hier kannst du mich unterstützen und die die Börse BYDFI ansehen! OFFIZIELLER Partner von Newcastle United!
 
-📺 Marzell Crypto
+📺 Krypto Trading & Investing
 
-👁️ 859 • 👍 31 • 💬 88 • ⏱️ 5:01 • 2d ago
+👁️ 2K • 👍 401 • 💬 66 • ⏱️ 8:47 • 3h ago
+
+---
+
+**[XRP TO $27,000?!?! ETHEREUM GETS FLIPPED IN 2 MONTHS?!](https://www.youtube.com/watch?v=W-ZKWPZ8zkU)**
+
+We're diving into the latest "xrp news today" as extreme "xrp price" targets, ranging from $10000 to $50000, are causing a stir ...
+
+📺 Ripple Moon Watch
+
+👁️ 3K • 👍 203 • 💬 65 • ⏱️ 19:27 • 18h ago
 
 ---
 

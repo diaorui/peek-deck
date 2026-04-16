@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-16T05:32:18.904962+00:00'
+updated: '2026-04-16T07:48:50.184042+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
 - repositories
+- social
 - news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 16, 2026 at 05:32 UTC  
+**Last Updated:** April 16, 2026 at 07:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[AI Is Weaponizing Your Own Biases Against You: New Research from MIT & Stanford](https://www.reddit.com/r/artificial/comments/1smjd8t/ai_is_weaponizing_your_own_biases_against_you_new/)**
 
-🔗 [open.substack.com](https://open.substack.com/pub/neocivilization/p/ai-is-weaponizing-your-own-biases?utm_source=share&utm_medium=android&r=6vas7c) • 8h ago
+🔗 [open.substack.com](https://open.substack.com/pub/neocivilization/p/ai-is-weaponizing-your-own-biases?utm_source=share&utm_medium=android&r=6vas7c) • 10h ago
 
 ---
 
@@ -55,7 +55,7 @@ This is not hyperbole, nor will it just go away if we ignore it. It affects ever
 
 Basically the title. I do appreciate how the mods are trying... something... but this new filtering paradigm clearly has missed the mark. This sub feels like it has such low value these days, not a lot of interesting news or discussions at all, just a spam sea of those obnoxious kind of promotional techy posts, most of them fake. Surely there is a better way.
 
-4h ago
+6h ago
 
 ---
 
@@ -63,7 +63,7 @@ Basically the title. I do appreciate how the mods are trying... something... but
 
 The Google Chrome “Skills” announcement caught my attention because it feels like one of those product changes that sounds minor in a headline but matters a lot in practice. From what I understand, the idea is that you can save a prompt once and rerun it on the current page or selected tabs. In plain English, that turns AI from something you repeatedly ask into something closer to a reusable action. That matters because I think a lot of consumer AI has a retention problem. People try it, get impressed, and then fall back into old habits unless the product fits into a repeated workflow. Saved AI actions seem much closer to how useful software usually sticks. Not because the model is magically smarter, but because the behavior becomes easier to repeat. For example: • compare products across tabs • summarize long pages before reading • extract action items from docs • rewrite text for a different audience None of those are flashy demos. They are just repetitive tasks people already do online. That is why I think this could be a more important direction than people realize. The long-term winners in consumer AI may not just be the companies with the best raw answers. They may be the ones that turn good prompts into habits. Does that seem right, or am I overrating the product significance here?
 
-3h ago
+5h ago
 
 ---
 
@@ -71,7 +71,7 @@ The Google Chrome “Skills” announcement caught my attention because it feels
 
 got tired of reading comparisons that were obvisously written by people who tested each tool for 20 minutes so i ran both at $20/month for 30 days on the same tasks biggest surprises: - chatgpt gives you roughly 6x more messages per day at the same price - claude wins 67% of blind code quality tests against codex - neither one is less sycophantic than the other (stanford tested 11 models, all of them agree with you 49% more than humans do) - the $100 tier showdown between openais new pro 5x and claudes max 5x is where the real competition is happening now full complete deep-dive with benchmark data, claude code vs codex and every pricing tier compared here
 
-10h ago
+12h ago
 
 ---
 
@@ -79,23 +79,7 @@ got tired of reading comparisons that were obvisously written by people who test
 
 Been noticing that once you use LLMs for real dev work, the cost conversation gets messy fast. It is not just raw API spend. It is retries, long context, background evals, tool calls, embeddings, and all the little workflow decisions that look harmless until usage scales up. For some teams, local models seem like the obvious answer, but in practice it feels more nuanced than just “run it yourself and save money.” You trade API costs for hardware, setup time, model routing decisions, and sometimes lower reliability depending on the task. For coding and repetitive internal workflows, local can look great. For other stuff, not always. Been seeing this a lot while working with dev teams trying to optimize overall AI costs. In some cases the biggest savings came from using smaller or local models for the boring repeatable parts, then keeping the expensive models for the harder calls. Been using Claude Code with Wozcode in that mix too, and it made me pay more attention to workflow design as much as model choice. A lot of the bill seems to come from bad routing and lazy defaults more than from one model being “too expensive.” Are local models actually reducing your total cost in a meaningful way, or are they mostly giving you privacy and control while the savings are less clear than people claim?
 
-4h ago
-
----
-
-**[For the first time in history, Ukraine captured a Russian position and prisoners, using only robots and drones](https://www.reddit.com/r/artificial/comments/1sm6y5q/for_the_first_time_in_history_ukraine_captured_a/)**
-
-Ukraine confirmed that a force of robots and drones captured an enemy position without infantry for the first time ever.
-
-🔗 [We Are The Mighty](https://www.wearethemighty.com/tactical/drones-capture-position-first-time-ukraine/) • 15h ago
-
----
-
-**[What if attention didn’t need matrix multiplication?](https://www.reddit.com/r/artificial/comments/1smd2fl/what_if_attention_didnt_need_matrix_multiplication/)**
-
-I built a cognitive architecture where all computation reduces to three bit operations: XOR, MAJ, POPCNT. No GEMM. No GPU. No floating-point weights. The core idea: transformer attention is a similarity computation. Float32 cosine computes it with 24,576 FLOPs. Binary Spatter Codes compute the same geometric measurement with 128 bit operations. Measured: 192x fewer ops, 32x less memory, ~480x faster. 26 modules in 1237 lines of C. One file. Any hardware: cc -O2 -o creation_os creation_os_v2.c -lm Includes a JEPA-style world model (energy = σ), n-gram language model (attention = σ), physics simulation (Noether conservation σ = 0.000000), value system with tamper detection, multi-model truth triangulation, metacognition, emotional memory, theory of mind, and 13 other cognitive modules. This is a research prototype built on Binary Spatter Codes (Kanerva, 1997). It demonstrates that cognitive primitives can be expressed in bit operations. It does not replace LLMs — the language module runs on 15 sentences. But the algebra is real, the benchmark is measured, and the architecture is open. https://github.com/spektre-labs/creation-os AGPL-3.0. Feedback welcome.
-
-11h ago
+6h ago
 
 ---
 
@@ -103,7 +87,23 @@ I built a cognitive architecture where all computation reduces to three bit oper
 
 Google released Gemini app for macOS Currently, it mimics functionality available on the web, but looks like we will get Gemini Live support there soon as well. Every LLM company is moving todays native app. This clearly shows the trend we are heading towards, a native app that can control the device automate actions and workflows. Creating a full OS from scratch and capturing the market is difficult, so the way forward is the dedication application with more permissions.
 
-1h ago
+3h ago
+
+---
+
+**[For the first time in history, Ukraine captured a Russian position and prisoners, using only robots and drones](https://www.reddit.com/r/artificial/comments/1sm6y5q/for_the_first_time_in_history_ukraine_captured_a/)**
+
+Ukraine confirmed that a force of robots and drones captured an enemy position without infantry for the first time ever.
+
+🔗 [We Are The Mighty](https://www.wearethemighty.com/tactical/drones-capture-position-first-time-ukraine/) • 17h ago
+
+---
+
+**[What if attention didn’t need matrix multiplication?](https://www.reddit.com/r/artificial/comments/1smd2fl/what_if_attention_didnt_need_matrix_multiplication/)**
+
+I built a cognitive architecture where all computation reduces to three bit operations: XOR, MAJ, POPCNT. No GEMM. No GPU. No floating-point weights. The core idea: transformer attention is a similarity computation. Float32 cosine computes it with 24,576 FLOPs. Binary Spatter Codes compute the same geometric measurement with 128 bit operations. Measured: 192x fewer ops, 32x less memory, ~480x faster. 26 modules in 1237 lines of C. One file. Any hardware: cc -O2 -o creation_os creation_os_v2.c -lm Includes a JEPA-style world model (energy = σ), n-gram language model (attention = σ), physics simulation (Noether conservation σ = 0.000000), value system with tamper detection, multi-model truth triangulation, metacognition, emotional memory, theory of mind, and 13 other cognitive modules. This is a research prototype built on Binary Spatter Codes (Kanerva, 1997). It demonstrates that cognitive primitives can be expressed in bit operations. It does not replace LLMs — the language module runs on 15 sentences. But the algebra is real, the benchmark is measured, and the architecture is open. https://github.com/spektre-labs/creation-os AGPL-3.0. Feedback welcome.
+
+14h ago
 
 ---
 
@@ -111,7 +111,7 @@ Google released Gemini app for macOS Currently, it mimics functionality availabl
 
 Anyone use AI for getting Fair Value of stocks?
 
-2h ago
+5h ago
 
 ---
 
@@ -119,39 +119,45 @@ Anyone use AI for getting Fair Value of stocks?
 
 ## Google News: "ai"
 
-**[Struggling shoe retailer Allbirds makes bizarre pivot to AI, adds $127 million in value](https://www.cnbc.com/2026/04/15/allbirds-bird-stock-shoes-ai.html)**
+**[Allbirds stock soars nearly 600% as the shoemaker rebrands as an AI company](https://finance.yahoo.com/news/allbirds-stock-soars-nearly-600-as-the-shoemaker-rebrands-as-an-ai-company-173129202.html)**
 
-Allbirds announced a deal with American Exchange Group to sell its intellectual property and other assets for $39 million in March.
+Allbirds is getting out of the sustainable sneaker business and into the AI business.
 
-CNBC • 16h ago
-
----
-
-**[That Meeting You Hate May Keep A.I. From Stealing Your Job](https://www.nytimes.com/2026/04/15/business/ai-jobs-human-work.html)**
-
-The New York Times • 14h ago
+Yahoo Finance • 10h ago
 
 ---
 
-**[Jensen Huang explains why Nvidia invests in tons of companies, instead of trying to pick winners](https://www.businessinsider.com/jensen-huang-explains-nvidia-doesnt-pick-winners-openai-anthropic-intel-2026-4)**
+**[Grayson Perry Has Seen the Future review – some of these insights into AI are just mindblowing](https://www.theguardian.com/tv-and-radio/2026/apr/15/grayson-perry-has-seen-future-review)**
 
-Huang said that there were two reasons behind this. One, its not Nvidia's job to pick winners. Two, the company's history is a lesson.
+From people marrying digital companions to CEOs excited about how people whose jobs are replaced can ‘adapt’, this is terrifying watching. But Perry is the perfect host
 
-Business Insider • 7m ago
-
----
-
-**[Australian federal court issues warning to lawyers over ‘unacceptable’ use of AI](https://www.theguardian.com/law/2026/apr/16/australia-federal-court-warning-lawyers-ai-artificial-intelligence)**
-
-New guidance to legal profession ‘embraces’ use of technology but flags penalties for lawyers who ‘mislead the court’ with AI-generated errors
-
-The Guardian • 1h ago
+The Guardian • 8h ago
 
 ---
 
-**[BlackRock Strategist ‘Definitely’ Likes Korean Stocks on AI](https://www.bloomberg.com/news/articles/2026-04-16/blackrock-strategist-definitely-likes-korean-stocks-on-ai)**
+**[Education experts to Mamdani: why are you foisting AI on our kids?](https://fortune.com/2026/04/16/doctors-experts-ai-moratorium-schools/)**
 
-Bloomberg.com • 41m ago
+"If a local children's hospital told parents, 'We've got this new drug, it has potential, just trust us,' people would be horrified."
+
+Fortune • 47m ago
+
+---
+
+**[Neuro-Symbolic AI Wins On Long-Horizon Reasoning And Does So At A Lower Energy Cost](https://www.forbes.com/sites/lanceeliot/2026/04/16/neuro-symbolic-ai-wins-on-long-horizon-reasoning-and-does-so-at-a-lower-energy-cost/)**
+
+Forbes • 33m ago
+
+---
+
+**[Trump Just Posted An AI Image Of Himself With Jesus](https://www.forbes.com/sites/maryroeloffs/2026/04/15/trump-posts-ai-photo-with-jesus-days-after-he-was-slammed-for-blasphemy/)**
+
+Forbes • 18h ago
+
+---
+
+**[Iran Embassy in Tajikistan posts AI video of Jesus punching Trump in the face](https://thehill.com/policy/international/5832224-iran-trump-social-media-war/)**
+
+The Hill • 16h ago
 
 ---
 
@@ -159,7 +165,7 @@ Bloomberg.com • 41m ago
 
 The president shared another Jesus meme on social media after insisting a controversial image he'd posted was intended to depict him as a doctor — and not Christ.
 
-Yahoo • 13h ago
+Yahoo • 15h ago
 
 ---
 
@@ -167,23 +173,13 @@ Yahoo • 13h ago
 
 What happens when something that isn't human makes art? The answer lies with this image and it will change what ends up on your screen and in your headphones forever.
 
-BBC • 19h ago
+BBC • 21h ago
 
 ---
 
-**[Opinion | RFK Jr.'s AI pilot program is a trojan horse for privatizing Medicare](https://www.ms.now/opinion/rfk-medicare-ai-pilot-program-wis)**
+**[Opinion | Don’t Use A.I. to Do This](https://www.nytimes.com/2026/04/15/opinion/art-artificial-intelligence.html)**
 
-The program, underway in six states, simply repeats the same flawed tactics that already delay care, frustrate patients and cost them more money.
-
-MS NOW • 8h ago
-
----
-
-**[How Project Maven Put A.I. Into the Kill Chain](https://www.newyorker.com/books/under-review/how-project-maven-put-ai-into-the-kill-chain)**
-
-A new book charts the creation of a secretive system that automates warfare for the military. The progression from target identification to target destruction is four clicks.
-
-The New Yorker • 19h ago
+The New York Times • 22h ago
 
 ---
 
@@ -201,7 +197,7 @@ blog.google • 1d ago
 
 **[Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference](https://news.ycombinator.com/item?id=47774971)**
 
-⬆️ 277 • 💬 168 • 1d ago • [gizmoweek.com](https://www.gizmoweek.com/gemma-4-runs-iphone/)
+⬆️ 279 • 💬 169 • 1d ago • [gizmoweek.com](https://www.gizmoweek.com/gemma-4-runs-iphone/)
 
 ---
 
@@ -217,7 +213,7 @@ Stanford’s latest AI Index shows a widening gap between experts and the public
 
 Check if Claude AI is down right now. Real-time status monitoring, uptime history, latency metrics, and incident tracking for claude.ai, Claude API, and Claude Code. Community-powered outage reports and alerts.
 
-⬆️ 242 • 💬 217 • 14h ago • [Claude Status](https://claudestatus.com/)
+⬆️ 242 • 💬 218 • 17h ago • [Claude Status](https://claudestatus.com/)
 
 ---
 
@@ -225,7 +221,7 @@ Check if Claude AI is down right now. Real-time status monitoring, uptime histor
 
 Does AI-assisted cognition threaten human development? Explore the risks of AI-assisted thinking and learn strategies to use AI tools without freezing your critical thinking.
 
-⬆️ 221 • 💬 173 • 11h ago • [heidenstedt.org](https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/)
+⬆️ 221 • 💬 174 • 13h ago • [heidenstedt.org](https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/)
 
 ---
 
@@ -241,7 +237,7 @@ A medical professional built a patient management app using AI, exposed all pati
 
 Skills in Chrome let you discover, save and remix AI workflows — and repeat them instantly.
 
-⬆️ 192 • 💬 108 • 1d ago • [Google](https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/)
+⬆️ 193 • 💬 108 • 1d ago • [Google](https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/)
 
 ---
 
@@ -255,13 +251,13 @@ Skills in Chrome let you discover, save and remix AI workflows — and repeat th
 
 Build local AI agents in Python and C++ for AMD hardware.
 
-⬆️ 154 • 💬 34 • 2d ago • [amd-gaia.ai](https://amd-gaia.ai/docs)
+⬆️ 155 • 💬 34 • 2d ago • [amd-gaia.ai](https://amd-gaia.ai/docs)
 
 ---
 
 **[AI ruling prompts warnings from US lawyers: Your chats could be used against you](https://news.ycombinator.com/item?id=47778308)**
 
-⬆️ 146 • 💬 96 • 16h ago • [reuters.com](https://www.reuters.com/legal/government/ai-ruling-prompts-warnings-us-lawyers-your-chats-could-be-used-against-you-2026-04-15/)
+⬆️ 148 • 💬 96 • 18h ago • [reuters.com](https://www.reuters.com/legal/government/ai-ruling-prompts-warnings-us-lawyers-your-chats-could-be-used-against-you-2026-04-15/)
 
 ---
 
@@ -283,17 +279,7 @@ Try Seedance 2.0 on Higgsfield: https://higgsfield.ai/s/seedance-2-0-airevolutio
 
 📺 AI Revolution
 
-👁️ 14K • 👍 551 • 💬 27 • ⏱️ 13:13 • 7h ago
-
----
-
-**[AI Insider: The Models They&#39;ll Never Release to the Public](https://www.youtube.com/watch?v=tkO7YHJ6Mn8)**
-
-Emad Mostaque built Stable Diffusion. Now he says the most powerful AI models will never be released — and we have roughly ...
-
-📺 Dr Brian Keating
-
-👁️ 23K • 👍 719 • 💬 170 • ⏱️ 1:27:18 • 2d ago
+👁️ 18K • 👍 648 • 💬 30 • ⏱️ 13:13 • 9h ago
 
 ---
 
@@ -303,17 +289,17 @@ The AI compute crisis is here. Anthropic's Claude is getting dumber and Opus 4.7
 
 📺 AI For Humans
 
-👁️ 18K • 👍 869 • 💬 276 • ⏱️ 29:28 • 15h ago
+👁️ 19K • 👍 890 • 💬 279 • ⏱️ 29:28 • 18h ago
 
 ---
 
-**[The 7 Skills You Need to Build AI Agents](https://www.youtube.com/watch?v=mtiOK2QG9Q0)**
+**[AI Insider: The Models They&#39;ll Never Release to the Public](https://www.youtube.com/watch?v=tkO7YHJ6Mn8)**
 
-As AI agents become more capable, the skills needed for AI jobs are shifting. Bri Kopecki breaks down the 7 skills you need to ...
+Emad Mostaque built Stable Diffusion. Now he says the most powerful AI models will never be released — and we have roughly ...
 
-📺 IBM Technology
+📺 Dr Brian Keating
 
-👁️ 118K • 👍 5K • 💬 264 • ⏱️ 14:37 • 1d ago
+👁️ 24K • 👍 723 • 💬 168 • ⏱️ 1:27:18 • 2d ago
 
 ---
 
@@ -323,27 +309,17 @@ You're absolutely right, that IS a great reason to fire everyone! If you'd like 
 
 📺 Mo Bitar
 
-👁️ 202K • 👍 15K • 💬 2K • ⏱️ 7:52 • 1d ago
+👁️ 206K • 👍 15K • 💬 2K • ⏱️ 7:52 • 1d ago
 
 ---
 
-**[How Allbirds’ pivot from shoes to AI sent its market value soaring](https://www.youtube.com/watch?v=lyNltN1B1ZY)**
+**[The 7 Skills You Need to Build AI Agents](https://www.youtube.com/watch?v=mtiOK2QG9Q0)**
 
-Allbirds's market value jumped more than 500% after unveiling a rebrand from shoes to AI. Erin Burnett speaks with Dan Ives, ...
+As AI agents become more capable, the skills needed for AI jobs are shifting. Bri Kopecki breaks down the 7 skills you need to ...
 
-📺 CNN
+📺 IBM Technology
 
-👁️ 4K • 👍 27 • 💬 3 • ⏱️ 1:44 • 38m ago
-
----
-
-**[What is Quantum Mechanics? | Google Quantum AI](https://www.youtube.com/watch?v=I0V14dTS9JQ)**
-
-Curious about quantum? Step onto Google's Quantum AI Campus to get answers to some of the world's top trending quantum ...
-
-📺 Google
-
-👁️ 75K • 👍 2K • 💬 172 • ⏱️ 3:56 • 1d ago
+👁️ 122K • 👍 6K • 💬 264 • ⏱️ 14:37 • 1d ago
 
 ---
 
@@ -353,7 +329,27 @@ This episode is about AI agents, OpenAI and Anthropic competition, the future of
 
 📺 Peter H. Diamandis
 
-👁️ 167K • 👍 4K • 💬 938 • ⏱️ 2:10:48 • 1d ago
+👁️ 170K • 👍 4K • 💬 947 • ⏱️ 2:10:48 • 1d ago
+
+---
+
+**[What to know about Anthropic&#39;s new AI model and its stark warning](https://www.youtube.com/watch?v=bUbFFSZQ5w0)**
+
+Former AI company founder and CEO Matt Shumer joins "CBS Mornings" to break down Anthropic's report about one of its AI ...
+
+📺 CBS Mornings
+
+👁️ 51K • 👍 488 • 💬 88 • ⏱️ 4:58 • 2d ago
+
+---
+
+**[What is Quantum Mechanics? | Google Quantum AI](https://www.youtube.com/watch?v=I0V14dTS9JQ)**
+
+Curious about quantum? Step onto Google's Quantum AI Campus to get answers to some of the world's top trending quantum ...
+
+📺 Google
+
+👁️ 81K • 👍 2K • 💬 175 • ⏱️ 3:56 • 1d ago
 
 ---
 
@@ -363,17 +359,17 @@ Subscribe to LiveNOW from FOX! https://www.youtube.com/livenowfox?sub_confirmati
 
 📺 LiveNOW from FOX
 
-👁️ 27K • 👍 361 • 💬 122 • ⏱️ 13:49 • 2d ago
+👁️ 27K • 👍 366 • 💬 122 • ⏱️ 13:49 • 2d ago
 
 ---
 
-**[AI CEO vs engineer.](https://www.youtube.com/watch?v=CEz1AauzsAo)**
+**[Trump AI post: The memes and the impact](https://www.youtube.com/watch?v=dLqTdkbKwaw)**
 
-AI CEOs. Interview with a AI CEO vs AI Engineer with Josh Doe and Jackson Jineer - aired on © The AI. Programmer humor ...
+"That doctor looks pretty Christlike to me." Molly Jong-Fast breaks down the memes and potential fallout from President Trump's ...
 
-📺 Kai Lentit
+📺 MS NOW
 
-👁️ 246K • 👍 8K • 💬 162 • ⏱️ 1:01 • 1d ago
+👁️ 60K • 👍 1K • 💬 365 • ⏱️ 1:02 • 1d ago
 
 ---
 
@@ -389,7 +385,7 @@ MiniMax-M2.7 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 85,549 • ❤️ 800 • 10h ago
+⬇️ 142,955 • ❤️ 806 • 12h ago
 
 ---
 
@@ -401,7 +397,7 @@ HY-Embodied-0.5 is a multilingual vision-language model designed for embodied ag
 
 `image-text-to-text` `3.8B`
 
-⬇️ 818 • ❤️ 709 • 1d ago
+⬇️ 1,060 • ❤️ 732 • 1d ago
 
 ---
 
@@ -413,19 +409,7 @@ GLM-5.1 is a next-generation language model optimized for agentic engineering, f
 
 `text-generation` `753.9B`
 
-⬇️ 91,474 • ❤️ 1,248 • 4d ago
-
----
-
-**[gemma-4-31B-it](https://huggingface.co/google/gemma-4-31B-it)**
-
-*Google*
-
-Gemma 4 31B is an instruction-tuned, multimodal LLM capable of processing text and images to generate text. It excels at reasoning, coding, and handling long contexts (256K tokens) with a hybrid attention mechanism for efficient inference, suitable for complex agentic workflows.
-
-`image-text-to-text` `32.7B`
-
-⬇️ 2,894,077 • ❤️ 1,937 • 5d ago
+⬇️ 94,376 • ❤️ 1,253 • 1h ago
 
 ---
 
@@ -437,7 +421,19 @@ VoxCPM2 is a 2B parameter, 30-language multilingual text-to-speech model capable
 
 `text-to-speech`
 
-⬇️ 12,827 • ❤️ 921 • 2h ago
+⬇️ 15,249 • ❤️ 926 • 4h ago
+
+---
+
+**[gemma-4-31B-it](https://huggingface.co/google/gemma-4-31B-it)**
+
+*Google*
+
+Gemma 4 31B is an instruction-tuned, multimodal LLM capable of processing text and images to generate text. It excels at reasoning, coding, and handling long contexts (256K tokens) with a hybrid attention mechanism for efficient inference, suitable for complex agentic workflows.
+
+`image-text-to-text` `32.7B`
+
+⬇️ 3,195,626 • ❤️ 1,943 • 5d ago
 
 ---
 
@@ -449,7 +445,7 @@ Gemma-4-31B-JANG_4M-CRACK is a 31B parameter text-generation model optimized for
 
 `image-text-to-text` `6.4B`
 
-⬇️ 134,547 • ❤️ 1,135 • 5d ago
+⬇️ 143,000 • ❤️ 1,138 • 6d ago
 
 ---
 
@@ -461,7 +457,7 @@ ERNIE-Image is a 8B parameter text-to-image diffusion model excelling in complex
 
 `text-to-image`
 
-⬇️ 445 • ❤️ 307 • 11h ago
+⬇️ 1,351 • ❤️ 325 • 33m ago
 
 ---
 
@@ -473,7 +469,7 @@ A fast, uncensored GGUF text generation model based on Google's Gemma 4-26B, opt
 
 `text-generation` `25.2B`
 
-⬇️ 26,673 • ❤️ 305 • 3d ago
+⬇️ 42,468 • ❤️ 310 • 3d ago
 
 ---
 
@@ -485,7 +481,7 @@ ERNIE-Image-Turbo is a distilled text-to-image diffusion model optimized for spe
 
 `text-to-image`
 
-⬇️ 419 • ❤️ 225 • 11h ago
+⬇️ 1,369 • ❤️ 236 • 49m ago
 
 ---
 
@@ -497,7 +493,7 @@ Gemma 4 31B IT NVFP4 Turbo is a highly optimized text-generation model, achievin
 
 `text-generation` `32.5B`
 
-⬇️ 51,148 • ❤️ 225 • 5d ago
+⬇️ 57,507 • ❤️ 226 • 5d ago
 
 ---
 
@@ -511,7 +507,7 @@ Gemma 4 31B IT NVFP4 Turbo is a highly optimized text-generation model, achievin
 
 Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-▲ 18 • 💬 1 • ⭐ 18,347 • 8mo ago
+▲ 19 • 💬 1 • ⭐ 18,347 • 8mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
@@ -589,21 +585,9 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 ClawGUI presents an open-source framework that addresses key challenges in GUI agent development through unified reinforcement learning, standardized evaluation, and cross-platform deployment capabilities.
 
-▲ 123 • 💬 8 • ⭐ 404 • 3d ago
+▲ 124 • 💬 8 • ⭐ 404 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.11784) • [💻 code](https://github.com/ZJU-REAL/ClawGUI) • [🔗 project](https://zju-real.github.io/ClawGUI-Page/)
-
----
-
-**[Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://huggingface.co/papers/2504.19413)**
-
-*Prateek Chhikara, Dev Khant, Saket Aryan et al. (5 authors)*
-
-Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
-
-▲ 52 • 💬 2 • ⭐ 53,131 • 11mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
 
 ---
 
@@ -616,6 +600,18 @@ LightRAG improves Retrieval-Augmented Generation by integrating graph structures
 ▲ 39 • 💬 2 • ⭐ 33,387 • 18mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
+
+---
+
+**[Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://huggingface.co/papers/2504.19413)**
+
+*Prateek Chhikara, Dev Khant, Saket Aryan et al. (5 authors)*
+
+Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
+
+▲ 52 • 💬 2 • ⭐ 53,173 • 11mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
 
 ---
 
@@ -643,7 +639,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 46.7k • 🔱 6.1k • 3h ago
+⭐ 46.8k • 🔱 6.1k • 6h ago
 
 ---
 
@@ -653,7 +649,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 34.2k • 🔱 6.8k • 1d ago
+⭐ 34.4k • 🔱 6.8k • 1d ago
 
 ---
 
@@ -663,7 +659,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 32.9k • 🔱 1.6k • 16h ago
+⭐ 33.2k • 🔱 1.6k • 18h ago
 
 ---
 
@@ -673,7 +669,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 27.6k • 🔱 3.0k • 7h ago
+⭐ 27.7k • 🔱 3.0k • 1h ago
 
 ---
 
@@ -683,7 +679,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 7.9k • 🔱 509 • 1h ago
+⭐ 8.0k • 🔱 508 • 7m ago
 
 ---
 
@@ -703,7 +699,7 @@ AI Agent 源码深度研究报告
 
 `Python`
 
-⭐ 4.8k • 🔱 778 • 1d ago
+⭐ 4.8k • 🔱 788 • 2d ago
 
 ---
 
@@ -723,7 +719,7 @@ The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interac
 
 `Swift` `apple-intelligence` `apple-silicon` `cli` `foundationmodels` `homebrew`
 
-⭐ 4.6k • 🔱 173 • 6h ago
+⭐ 4.6k • 🔱 174 • 4m ago
 
 ---
 
