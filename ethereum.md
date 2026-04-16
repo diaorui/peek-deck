@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-16T21:10:44.706792+00:00'
+updated: '2026-04-16T22:06:48.242668+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
 - social
+- videos
 - news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 16, 2026 at 21:10 UTC  
+**Last Updated:** April 16, 2026 at 22:06 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/73hHq2ua1ts?si=fwxBRn1_pW7xDziX) • 5h ago
+🔗 [youtu.be](https://youtu.be/73hHq2ua1ts?si=fwxBRn1_pW7xDziX) • 6h ago
 
 ---
 
@@ -154,7 +154,7 @@ I permanently lost $2,000 USD value trying to stake via direct contract interact
 
 The move comes amid ongoing changes at the EF, including a renewed focus on scaling and developing the Ethereum mainnet.
 
-The Block • 5h ago
+The Block • 6h ago
 
 ---
 
@@ -170,7 +170,7 @@ CoinDesk • 4h ago
 
 Josh Stark, a senior executive at the Ethereum Foundation, is stepping down from his role after five years.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -178,7 +178,7 @@ Yahoo Finance • 1h ago
 
 The new platform, called Schwab Crypto, will roll out over the coming weeks and will only support bitcoin and ethereum at first.
 
-The Block • 6h ago
+The Block • 7h ago
 
 ---
 
@@ -186,7 +186,7 @@ The Block • 6h ago
 
 Charles Schwab President and CEO Rick Wurster indicated that America’s largest discount brokerage will likely support prediction markets.
 
-Decrypt • 3h ago
+Decrypt • 4h ago
 
 ---
 
@@ -194,7 +194,7 @@ Decrypt • 3h ago
 
 Charles Schwab CEO Rick Wurster joins 'Money Movers' to discuss the company's latest earnings report, market themes, and more.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
@@ -208,7 +208,7 @@ Barron's • 3d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 8h ago
+Fortune • 9h ago
 
 ---
 
@@ -216,7 +216,7 @@ Fortune • 8h ago
 
 On-chain data shows the small Ethereum hands have sold into the latest price surge, a sign that retail traders don’t believe that the rally will last.Ethereum Retail Supply Has Seen A Notable Decline RecentlyAccording to data from on-chain analytics firm Santiment, the retail-sized Ethereum investo…
 
-TradingView — Track All Markets • 13h ago
+TradingView — Track All Markets • 14h ago
 
 ---
 
@@ -224,7 +224,7 @@ TradingView — Track All Markets • 13h ago
 
 XRP climbed 4% to $1.41 on April 16, beating Bitcoin, Ethereum, and Solana. Is this the XRP breakout, or another fake-out at $1.45?
 
-24/7 Wall St. • 4h ago
+24/7 Wall St. • 5h ago
 
 ---
 
@@ -238,7 +238,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 121 • 💬 11 • ⏱️ 8:23 • 9h ago
+👁️ 2K • 👍 121 • 💬 11 • ⏱️ 8:23 • 10h ago
 
 ---
 
@@ -248,7 +248,7 @@ Ethereum developer Joe Schiarizzi—ex-ConsenSys, Gitcoin, OpenSea, Solarpunk VC
 
 📺 Paul Barron Network
 
-👁️ 9K • 👍 755 • 💬 195 • ⏱️ 22:10 • 8h ago
+👁️ 9K • 👍 755 • 💬 195 • ⏱️ 22:10 • 9h ago
 
 ---
 
@@ -258,7 +258,7 @@ Ethereum is flashing a fractal that mirrors the November 2024 altcoin breakout, 
 
 📺 Crypto Capital Venture
 
-👁️ 5K • 👍 405 • 💬 50 • ⏱️ 11:01 • 7h ago
+👁️ 5K • 👍 405 • 💬 50 • ⏱️ 11:01 • 8h ago
 
 ---
 
@@ -278,7 +278,7 @@ Raoul welcomes Vivek Raman, Co-Founder and CEO of Etherealize, and Danny Ryan, C
 
 📺 Raoul Pal The Journey Man
 
-👁️ 2K • 👍 143 • 💬 4 • ⏱️ 1:11:56 • 8h ago
+👁️ 2K • 👍 143 • 💬 4 • ⏱️ 1:11:56 • 9h ago
 
 ---
 
@@ -288,7 +288,7 @@ Ethereum is moving higher in a corrective bounce and approaching a major resista
 
 📺 More Crypto Online
 
-👁️ 5K • 👍 319 • 💬 23 • ⏱️ 9:49 • 20h ago
+👁️ 5K • 👍 319 • 💬 23 • ⏱️ 9:49 • 21h ago
 
 ---
 
@@ -298,7 +298,7 @@ In this video, we break down the latest update on BMNR (Bitmine) and why the cur
 
 📺 BiGB Stcok
 
-👁️ 830 • 👍 45 • 💬 15 • ⏱️ 8:53 • 8h ago
+👁️ 830 • 👍 45 • 💬 15 • ⏱️ 8:53 • 9h ago
 
 ---
 
@@ -308,7 +308,7 @@ Michael Saylor's Ethereum view has changed. Bitcoin is digital capital. Ethereum
 
 📺 Bankless
 
-👁️ 5K • 👍 110 • 💬 41 • ⏱️ 1:17 • 23h ago
+👁️ 5K • 👍 110 • 💬 41 • ⏱️ 1:17 • 1d ago
 
 ---
 

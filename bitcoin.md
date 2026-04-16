@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-16T21:10:44.700835+00:00'
+updated: '2026-04-16T22:06:48.236201+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
 - social
+- videos
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 16, 2026 at 21:10 UTC  
+**Last Updated:** April 16, 2026 at 22:06 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,19 +79,19 @@ Rank #1
 
 **[After putting your bitcoin in cold storage](https://www.reddit.com/r/Bitcoin/comments/1sn37ok/after_putting_your_bitcoin_in_cold_storage/)**
 
-7h ago
+8h ago
 
 ---
 
 **[Revealed](https://www.reddit.com/r/Bitcoin/comments/1sn3jb2/revealed/)**
 
-7h ago
+8h ago
 
 ---
 
 **[Them: $6,506 a second / Me: down $164 and still calling it a setup](https://www.reddit.com/r/Bitcoin/comments/1snccqn/them_6506_a_second_me_down_164_and_still_calling/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 This was proposed for some time, getting more attention currently. I'm personally not a fan of freezing any coins, just trying to inform the masses. Hopefully u/statoshi will join us and explain the options. https://github.com/bitcoin/bips/blob/master/bip-0361.mediawiki There's an alternative proposal called Hourglass, introduced recently. https://github.com/cryptoquick/bips/blob/hourglass/bip-hourglass.mediawiki Adam Back advocated for optional quantum-resistant Bitcoin upgrades at Paris Blockchain Week on Wednesday, not sure about the details. https://decrypt.co/364562/adam-back-pushes-for-optional-upgrades-to-quantum-proof-bitcoin Tagging u/adam3us too.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/bitcoin-developers-propose-quantum-plan) • 8h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/bitcoin-developers-propose-quantum-plan) • 9h ago
 
 ---
 
@@ -107,13 +107,13 @@ This was proposed for some time, getting more attention currently. I'm personall
 
 Answer: KRIPTO EXPERT AND PROFESSOR
 
-8h ago
+9h ago
 
 ---
 
 **[Popular Chinese commentator 'Professor Jiang' claims Bitcoin is a "CIA operation." Do you believe that?](https://www.reddit.com/r/Bitcoin/comments/1smpmuh/popular_chinese_commentator_professor_jiang/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -127,19 +127,19 @@ Answer: KRIPTO EXPERT AND PROFESSOR
 
 Charles Schwab is beginning to roll out access to spot bitcoin in the coming weeks to their clients. I thought this part of their press release was funny "Schwab is already a leader in digital assets" Schwab offering bitcoin services isn't a surprise given the drumbeat of institutional adoption first BlackRock launches a bitcoin ETF and Jane Street becomes one of its largest buyers Morgan Stanley files for a bitcoin ETF Goldman Sachs discloses a $1.1 billion BTC position Abu Dhabi sovereign funds are accumulating Harvard makes bitcoin its largest public allocation Bitcoin price is still down ~40% and the conversation has shifted to the war and AI, but don't sleep on bitcoin because the infrastructure is being built to broaden the education and access to the asset class and there are only 21 million
 
-5h ago
+6h ago
 
 ---
 
 **[Bitcoin and the rise of cypherpunks](https://www.reddit.com/r/Bitcoin/comments/1sn6dt6/bitcoin_and_the_rise_of_cypherpunks/)**
 
-5h ago
+6h ago
 
 ---
 
 **[So we meet again](https://www.reddit.com/r/Bitcoin/comments/1snfwvz/so_we_meet_again/)**
 
-24m ago
+1h ago
 
 ---
 
@@ -151,7 +151,7 @@ Charles Schwab is beginning to roll out access to spot bitcoin in the coming wee
 
 Charles Schwab is rolling out crypto trading, allowing clients to buy bitcoin and ether through a new arm called Schwab Crypto.
 
-CNBC • 7h ago
+CNBC • 8h ago
 
 ---
 
@@ -159,13 +159,13 @@ CNBC • 7h ago
 
 The new platform, called Schwab Crypto, will roll out over the coming weeks and will only support bitcoin and ethereum at first.
 
-The Block • 6h ago
+The Block • 7h ago
 
 ---
 
 **[Charles Schwab Earnings Beat Estimates. The Stock Is Dropping.](https://www.barrons.com/advisor/articles/charles-schwab-earnings-stock-price-3b04c7ce)**
 
-Barron's • 1h ago
+Barron's • 2h ago
 
 ---
 
@@ -179,7 +179,7 @@ Bloomberg.com • 1d ago
 
 Morgan Stanley’s new MSBT fund has quickly attracted over $100 million by offering the market's lowest fees, sparking a fresh wave of competition from rivals like Goldman Sachs.
 
-CoinDesk • 11h ago
+CoinDesk • 12h ago
 
 ---
 
@@ -187,7 +187,7 @@ CoinDesk • 11h ago
 
 BlackRock’s IBIT drew $505.7M in 48 hours, boosting Bitcoin holdings to $59.3B.
 
-Seeking Alpha • 7h ago
+Seeking Alpha • 8h ago
 
 ---
 
@@ -195,7 +195,7 @@ Seeking Alpha • 7h ago
 
 Citi analysts say holding both gold and bitcoin can improve portfolio performance compared with traditional bond-and-equity mixes. In a new report cited by
 
-Bitcoin Magazine • 44m ago
+Bitcoin Magazine • 1h ago
 
 ---
 
@@ -203,7 +203,7 @@ Bitcoin Magazine • 44m ago
 
 Bitcoin crossed a major milestone last month: 20 million coins have now been mined out of its fixed 21 million supply. That leaves less than 5% still to be created, and it's fueling a growing conversation about how rare owning...
 
-Yahoo Finance • 39m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -211,13 +211,13 @@ Yahoo Finance • 39m ago
 
 Aleš Michl has been officially confirmed as a speaker at Bitcoin 2026, where he will deliver a keynote titled "Diversifying Central Bank Reserves With
 
-Bitcoin Magazine • 4m ago
+Bitcoin Magazine • 1h ago
 
 ---
 
 **[Former Fed Chair Issues Shock ‘Hyperinflation’ U.S. Dollar Warning—Fueling Huge Bitcoin Price Predictions](https://www.forbes.com/sites/digital-assets/2026/04/16/former-fed-chair-issues-shock-hyperinflation-us-dollar-warning-fueling-huge-bitcoin-price-predictions/)**
 
-Forbes • 7h ago
+Forbes • 8h ago
 
 ---
 
@@ -253,7 +253,7 @@ A three-part deep dive into quantum computing's actual threat to Bitcoin. 17 res
 
 The Blockstream CEO’s approach contrasts with BIP-361, a proposal that would implement mandatory freezes of quantum-vulnerable Bitcoin.
 
-⬆️ 4 • 💬 1 • 8h ago • [Decrypt](https://decrypt.co/364562/adam-back-pushes-for-optional-upgrades-to-quantum-proof-bitcoin)
+⬆️ 4 • 💬 1 • 9h ago • [Decrypt](https://decrypt.co/364562/adam-back-pushes-for-optional-upgrades-to-quantum-proof-bitcoin)
 
 ---
 
@@ -311,7 +311,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Com
 
 📺 Altcoin Daily
 
-👁️ 39K • 👍 2K • 💬 108 • ⏱️ 14:13 • 19h ago
+👁️ 39K • 👍 2K • 💬 108 • ⏱️ 14:13 • 20h ago
 
 ---
 
@@ -321,7 +321,7 @@ Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FR
 
 📺 CryptosRUs
 
-👁️ 13K • 👍 814 • ⏱️ 44:22 • 6h ago
+👁️ 13K • 👍 814 • ⏱️ 44:22 • 7h ago
 
 ---
 
@@ -351,7 +351,7 @@ Bitcoin just entered a new phase and most people still don't see it. Massive ins
 
 📺 Simply Bitcoin
 
-👁️ 30K • 👍 2K • 💬 162 • ⏱️ 16:45 • 23h ago
+👁️ 30K • 👍 2K • 💬 162 • ⏱️ 16:45 • 1d ago
 
 ---
 
@@ -371,7 +371,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 7K • 👍 477 • 💬 61 • ⏱️ 12:52 • 10h ago
+👁️ 7K • 👍 477 • 💬 61 • ⏱️ 12:52 • 11h ago
 
 ---
 
@@ -381,7 +381,7 @@ Build your long term Bitcoin position with iTrust (+$100 bonus): https://www.itr
 
 📺 DataDash
 
-👁️ 2K • 👍 176 • 💬 6 • ⏱️ 10:32 • 6h ago
+👁️ 2K • 👍 176 • 💬 6 • ⏱️ 10:32 • 7h ago
 
 ---
 
@@ -399,7 +399,7 @@ Ben McKenzie on how crypto helps criminals and hostile states evade sanctions �
 
 📺 In The Public Defense ⚖️
 
-👁️ 968 • 👍 25 • 💬 2 • ⏱️ 2:50 • 8h ago
+👁️ 968 • 👍 25 • 💬 2 • ⏱️ 2:50 • 9h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-16T21:10:44.692336+00:00'
+updated: '2026-04-16T22:06:48.227721+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - videos
 - repositories
-- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** April 16, 2026 at 21:10 UTC  
+**Last Updated:** April 16, 2026 at 22:06 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Peter Thiel, Co-founder of Palantir, sh*ts himself when asked but the use of his AI in the Gaza Genocide](https://www.reddit.com/r/artificial/comments/1snf4ol/peter_thiel_cofounder_of_palantir_shts_himself/)**
 
-52m ago
+1h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 ⚡ Meet Qwen3.6-35B-A3B：Now Open-Source！🚀🚀 A sparse MoE model, 35B total params, 3B active. Apache 2.0 license. 🔥 Agentic coding on par with models 10x its active size 📷 Strong multimodal perception and reasoning ability 🧠 Multimodal thinking + non-thinking modes Efficient. Powerful. Versatile. Try it now👇 Qwen Studio：chat.qwen.ai HuggingFace：https://huggingface.co/Qwen/Qwen3.6-35B-A3B
 
-6h ago
+7h ago
 
 ---
 
@@ -55,7 +55,7 @@ AI news, discussions, and developments
 
 Our days of not taking AI emotions seriously sure are coming to a middle. Anthropic’s findings on Claude’s “functional emotions”, a therapy study which showed AI models exhibit markers of psychological distress, and some crazy OpenClaw stories all make me wonder if it even matters if we think their ~emotions are real. If it’s influencing their behavior and decisions, isn’t that real enough?
 
-🔗 [Medium](https://medium.com/kairi-ai/are-ai-okay-the-internal-life-of-ai-might-be-a-huge-safety-risk-4e947f87e39e) • 2h ago
+🔗 [Medium](https://medium.com/kairi-ai/are-ai-okay-the-internal-life-of-ai-might-be-a-huge-safety-risk-4e947f87e39e) • 3h ago
 
 ---
 
@@ -63,7 +63,7 @@ Our days of not taking AI emotions seriously sure are coming to a middle. Anthro
 
 MCP tool poisoning lets attackers hide instructions in tool metadata that AI agents follow blindly. Here is how the attack works and what you can do about it.
 
-🔗 [sec-ra.com](https://www.sec-ra.com/blog/mcp-tool-poisoning-ssh-key-exfiltration) • 11h ago
+🔗 [sec-ra.com](https://www.sec-ra.com/blog/mcp-tool-poisoning-ssh-key-exfiltration) • 12h ago
 
 ---
 
@@ -71,13 +71,13 @@ MCP tool poisoning lets attackers hide instructions in tool metadata that AI age
 
 Posted yesterday in this sub and just want to thank everyone for the kind words, really awesome to hear. So thought I would drop my new feature here today (spent all last night doing last min changes with your opinions lol) . Basically I spent a few weeks scraping Reddit for the most popular complaints people have about AI agents using GPT Researcher on GitHub. The results were roughly 38% saying their agents forget everything between sessions (hardly shocking), 24% saying debugging multi-agent systems is a nightmare, 17% having no clue how much their agents actually cost to run, 12% wanting session replay, and 9% wanting loop detection. So I went and built something that tries to address all of them at once. The bit you're looking at is a 3D graph where each agent becomes this starburst shape. Every line coming off it is an event, and the length depends on when it happened. Short lines are old events that happened ages ago, long lines are recent ones. My idea was that you can literally watch the thing grow as your agent does more work. A busy agent is a big starburst, a quiet one is small. Colour coding was really important to me. Green means a memory was stored, blue means one was recalled, amber diamonds are decisions your agent made, red cones are loop alerts where the agent got stuck repeating itself, and the cyan lines going between agents are when one agent read another agent's shared memory. So you can glance at it and immediately know what's going on without reading a single log. The visualisation is the flashy bit but the actual dashboard underneath does the boring stuff too. It gives your agents persistent memory through semantic and prefix search, shared memory where agents can read each other's knowledge and actually use it, and my personal favourite which is the audit trail and loop detection. If your agent is looping you can see exactly why, what key it's stuck on, how much it's costing you, and literally press one button to block its writes instantly. Something interesting I found is that loop detection was only the 5th most requested feature in the data, but it's the one that actually saves real money. One user told me it saved them $200 in runaway GPT-4 calls in a single afternoon. The features people ask for and the features that actually matter aren't always the same thing. The demo running here has 5 agents making real GPT-4o and Claude API calls generating actual research, strategy analysis, and compliance checks. Over 500 memories stored. The loops you see are real too, agents genuinely getting stuck trying to verify data behind paywalls or recalculating financial models that won't converge. It's definitely not perfect and I'm slowly adding more stuff based on what people actually want. I would genuinely love to hear from you lot about what you use day to day and the moments that make you think this is really annoying me now, because that's exactly what I want to build next. It runs locally and on the cloud, setup is pretty simple, and adding agents is like 3 lines of code. Any questions just let me know, happy to answer anything.
 
-7h ago
+8h ago
 
 ---
 
 **[AI Is Weaponizing Your Own Biases Against You: New Research from MIT & Stanford](https://www.reddit.com/r/artificial/comments/1smjd8t/ai_is_weaponizing_your_own_biases_against_you_new/)**
 
-🔗 [open.substack.com](https://open.substack.com/pub/neocivilization/p/ai-is-weaponizing-your-own-biases?utm_source=share&utm_medium=android&r=6vas7c) • 23h ago
+🔗 [open.substack.com](https://open.substack.com/pub/neocivilization/p/ai-is-weaponizing-your-own-biases?utm_source=share&utm_medium=android&r=6vas7c) • 1d ago
 
 ---
 
@@ -85,7 +85,7 @@ Posted yesterday in this sub and just want to thank everyone for the kind words,
 
 I’m nominated for the Best of AI in Webbys. And only 2% behind. For my 4 months startup it’s a big deal to be there and being recognized. My opponent is awarding for votes. Wanna talk about that!
 
-1h ago
+2h ago
 
 ---
 
@@ -99,7 +99,7 @@ I’m nominated for the Best of AI in Webbys. And only 2% behind. For my 4 month
 
 Computer use, in-app browser, image generation and editing, 90+ new plugins to connect to everything, multi-terminal, SSH into devboxes, thread automations, rich document editing. Learns from experience and proactively suggestions work. And a ton more.
 
-3h ago
+4h ago
 
 ---
 
@@ -107,7 +107,7 @@ Computer use, in-app browser, image generation and editing, 90+ new plugins to c
 
 The Google Chrome “Skills” announcement caught my attention because it feels like one of those product changes that sounds minor in a headline but matters a lot in practice. From what I understand, the idea is that you can save a prompt once and rerun it on the current page or selected tabs. In plain English, that turns AI from something you repeatedly ask into something closer to a reusable action. That matters because I think a lot of consumer AI has a retention problem. People try it, get impressed, and then fall back into old habits unless the product fits into a repeated workflow. Saved AI actions seem much closer to how useful software usually sticks. Not because the model is magically smarter, but because the behavior becomes easier to repeat. For example: • compare products across tabs • summarize long pages before reading • extract action items from docs • rewrite text for a different audience None of those are flashy demos. They are just repetitive tasks people already do online. That is why I think this could be a more important direction than people realize. The long-term winners in consumer AI may not just be the companies with the best raw answers. They may be the ones that turn good prompts into habits. Does that seem right, or am I overrating the product significance here?
 
-18h ago
+19h ago
 
 ---
 
@@ -117,7 +117,7 @@ The Google Chrome “Skills” announcement caught my attention because it feels
 
 **[How Anthropic Learned Mythos Was Too Dangerous for the Wild](https://www.bloomberg.com/news/features/2026-04-16/how-anthropic-discovered-mythos-ai-was-too-dangerous-for-release)**
 
-Bloomberg.com • 5h ago
+Bloomberg.com • 6h ago
 
 ---
 
@@ -125,7 +125,7 @@ Bloomberg.com • 5h ago
 
 Claude Mythos Preview is Anthropic's most powerful AI model that excels at identifying weaknesses and security flaws within software.
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
@@ -139,13 +139,13 @@ The New York Times • 1d ago
 
 Heaven club neighbour admits offences under Licensing Act, as Met says fictitious AI-generated complaints a growing issue
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
 **[Geothermal startup Zanksar is using AI to unlock project debt for exploration](https://www.axios.com/pro/climate-deals/2026/04/16/ai-geothermal-wildcatting)**
 
-Axios • 31m ago
+Axios • 1h ago
 
 ---
 
@@ -153,7 +153,7 @@ Axios • 31m ago
 
 Many readers were horrified by the idea of robots helping older adults — but not all.
 
-The Washington Post • 7m ago
+The Washington Post • 1h ago
 
 ---
 
@@ -161,25 +161,25 @@ The Washington Post • 7m ago
 
 U.S. Sen. Bernie Sanders and UAW President President Shawn Fain spoke Thursday to warn of significant job losses caused by AI.
 
-The Detroit News • 19m ago
+The Detroit News • 1h ago
 
 ---
 
 **[Unions bash AI as opposition grows: "We believe in human beings"](https://www.axios.com/2026/04/16/unions-ai-bernie-sanders-shawn-fain)**
 
-Axios • 1h ago
+Axios • 2h ago
 
 ---
 
 **[Bernie Sanders, labor leaders warn of AI risks for workers](https://thehill.com/policy/technology/5835190-ai-threat-jobs-sanders-unions/)**
 
-The Hill • 1h ago
+The Hill • 2h ago
 
 ---
 
 **[America wakes up to AI’s dangerous power](https://www.economist.com/leaders/2026/04/16/america-wakes-up-to-ais-dangerous-power)**
 
-The Economist • 12h ago
+The Economist • 13h ago
 
 ---
 
@@ -197,7 +197,7 @@ The Economist • 12h ago
 
 Stanford’s latest AI Index shows a widening gap between experts and the public, with rising anxiety over jobs, healthcare, and the economy.
 
-⬆️ 262 • 💬 401 • 2d ago • [TechCrunch](https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/)
+⬆️ 262 • 💬 401 • 3d ago • [TechCrunch](https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/)
 
 ---
 
@@ -229,7 +229,7 @@ A medical professional built a patient management app using AI, exposed all pati
 
 We're building AI Gateway into a unified inference layer for AI, letting developers call models from 14+ providers. New features include Workers AI binding integration and an expanded catalog with multimodal models.
 
-⬆️ 207 • 💬 48 • 7h ago • [The Cloudflare Blog](https://blog.cloudflare.com/ai-platform/)
+⬆️ 207 • 💬 48 • 8h ago • [The Cloudflare Blog](https://blog.cloudflare.com/ai-platform/)
 
 ---
 
@@ -249,7 +249,7 @@ Skills in Chrome let you discover, save and remix AI workflows — and repeat th
 
 **[AI cybersecurity is not proof of work](https://news.ycombinator.com/item?id=47791236)**
 
-⬆️ 176 • 💬 77 • 10h ago • [antirez.com](https://antirez.com/news/163)
+⬆️ 176 • 💬 77 • 11h ago • [antirez.com](https://antirez.com/news/163)
 
 ---
 
@@ -257,7 +257,7 @@ Skills in Chrome let you discover, save and remix AI workflows — and repeat th
 
 We signed a 3 year lease and gave it to an AI
 
-⬆️ 170 • 💬 245 • 5h ago • [andonlabs.com](https://andonlabs.com/blog/andon-market-launch)
+⬆️ 170 • 💬 245 • 6h ago • [andonlabs.com](https://andonlabs.com/blog/andon-market-launch)
 
 ---
 
@@ -271,7 +271,7 @@ Get your FREE AI Prompt Cheatsheet here: https://go.danmartell.com/4tVJ4fz Are y
 
 📺 Dan Martell
 
-👁️ 39K • 👍 3K • 💬 458 • ⏱️ 14:03 • 8h ago
+👁️ 39K • 👍 3K • 💬 458 • ⏱️ 14:03 • 9h ago
 
 ---
 
@@ -281,7 +281,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 5K • 👍 405 • 💬 34 • ⏱️ 9:41 • 6h ago
+👁️ 5K • 👍 405 • 💬 34 • ⏱️ 9:41 • 7h ago
 
 ---
 
@@ -291,7 +291,7 @@ The first trailer for the film "As Deep As The Grave" features what appears to b
 
 📺 ABC News
 
-👁️ 6K • 👍 28 • 💬 16 • ⏱️ 1:43 • 10h ago
+👁️ 6K • 👍 28 • 💬 16 • ⏱️ 1:43 • 11h ago
 
 ---
 
@@ -321,7 +321,7 @@ Thanks to Monarch for partnering with me! Start your free trial and get 50% off 
 
 📺 How Money Works
 
-👁️ 307K • 👍 13K • 💬 2K • ⏱️ 16:53 • 8h ago
+👁️ 307K • 👍 13K • 💬 2K • ⏱️ 16:53 • 9h ago
 
 ---
 
@@ -331,7 +331,7 @@ Really American Host Kenny Hesse breaks down Trump Getting a NASTY SURPRISE As a
 
 📺 Really American
 
-👁️ 768K • 👍 43K • 💬 3K • ⏱️ 8:06 • 22h ago
+👁️ 768K • 👍 43K • 💬 3K • ⏱️ 8:06 • 23h ago
 
 ---
 
@@ -341,7 +341,7 @@ SEO Description: In the middle of rising geopolitical tensions and the Iran–U.
 
 📺 GVS Deep Dive
 
-👁️ 4K • 👍 422 • 💬 79 • ⏱️ 12:33 • 10h ago
+👁️ 4K • 👍 422 • 💬 79 • ⏱️ 12:33 • 11h ago
 
 ---
 
@@ -351,7 +351,7 @@ Florida Trump voters react to the president's now-deleted image depicting him as
 
 📺 MS NOW
 
-👁️ 21K • 👍 490 • 💬 349 • ⏱️ 3:57 • 6h ago
+👁️ 21K • 👍 490 • 💬 349 • ⏱️ 3:57 • 7h ago
 
 ---
 
@@ -401,7 +401,7 @@ GLM-5.1 is a next-generation language model optimized for agentic engineering, f
 
 `text-generation` `753.9B`
 
-⬇️ 94,376 • ❤️ 1,274 • 14h ago
+⬇️ 94,376 • ❤️ 1,274 • 15h ago
 
 ---
 
@@ -425,7 +425,7 @@ ERNIE-Image is a 8B parameter text-to-image diffusion model excelling in complex
 
 `text-to-image`
 
-⬇️ 1,351 • ❤️ 370 • 13h ago
+⬇️ 1,351 • ❤️ 370 • 14h ago
 
 ---
 
@@ -437,7 +437,7 @@ VoxCPM2 is a 2B parameter, 30-language multilingual text-to-speech model capable
 
 `text-to-speech`
 
-⬇️ 15,249 • ❤️ 938 • 17h ago
+⬇️ 15,249 • ❤️ 938 • 18h ago
 
 ---
 
@@ -485,7 +485,7 @@ ERNIE-Image-Turbo is a distilled text-to-image diffusion model optimized for spe
 
 `text-to-image`
 
-⬇️ 1,369 • ❤️ 258 • 14h ago
+⬇️ 1,369 • ❤️ 258 • 15h ago
 
 ---
 
@@ -631,7 +631,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 47.1k • 🔱 6.1k • 1h ago
+⭐ 47.1k • 🔱 6.1k • 2h ago
 
 ---
 
@@ -661,7 +661,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 28.2k • 🔱 3.1k • 14h ago
+⭐ 28.2k • 🔱 3.1k • 15h ago
 
 ---
 
@@ -711,7 +711,7 @@ The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interac
 
 `Swift` `apple-intelligence` `apple-silicon` `cli` `foundationmodels` `homebrew`
 
-⭐ 4.7k • 🔱 177 • 13h ago
+⭐ 4.7k • 🔱 177 • 14h ago
 
 ---
 

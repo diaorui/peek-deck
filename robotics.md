@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-16T21:10:44.710101+00:00'
+updated: '2026-04-16T22:06:48.245886+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 16, 2026 at 21:10 UTC  
+**Last Updated:** April 16, 2026 at 22:06 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,19 @@ Robotics research and industry news
 
 From The Humanoid Hub on 𝕏: https://x.com/TheHumanoidHub/status/2044504579480686900
 
-12h ago
+13h ago
 
 ---
 
 **[Multi-Robot Synchronization Demo from ESTUN Robotics](https://www.reddit.com/r/robotics/comments/1sn9asg/multirobot_synchronization_demo_from_estun/)**
 
-4h ago
+5h ago
 
 ---
 
 **[I 3D-printed a capture point for my Capture the Base robot game](https://www.reddit.com/r/robotics/comments/1sn2ptz/i_3dprinted_a_capture_point_for_my_capture_the/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -56,7 +56,7 @@ From The Humanoid Hub on 𝕏: https://x.com/TheHumanoidHub/status/2044504579480
 
 Boston Dynamics is positioning Atlas for future deployment in industrial environments, with a focus on sectors like manufacturing and warehousing. The article explains that training the robot on a wide range of behaviors is contributing to improved overall capability, even when those behaviors are not directly tied to specific tasks. This reflects a broader trend in robotics where more varied data improves performance.
 
-🔗 [Automate](https://www.automate.org/robotics/industry-insights/balancing-work-and-play-with-boston-dynamics-atlas) • 3h ago
+🔗 [Automate](https://www.automate.org/robotics/industry-insights/balancing-work-and-play-with-boston-dynamics-atlas) • 4h ago
 
 ---
 
@@ -64,7 +64,7 @@ Boston Dynamics is positioning Atlas for future deployment in industrial environ
 
 Joining the existing D457 GMSL/FAKRA, we’re introducing GMSL support across three of our most widely used depth cameras: 📷D401 - Sub-millimeter precision for robotic arms and humanoids 📷D430 -High-accuracy depth sensing for mid-range robotics and AMRs 📷D415 - High-precision depth camera for spatial intelligence for factories
 
-5h ago
+6h ago
 
 ---
 
@@ -72,7 +72,7 @@ Joining the existing D457 GMSL/FAKRA, we’re introducing GMSL support across th
 
 From May to July I will be able to give full time on my drone project I want to build an autonomous quadcopter which follows the target I want to start cheap rather than buying expensive components I want to learn while building so I want suggestions on what things should I learn components I will require (budget friendly)
 
-59m ago
+1h ago
 
 ---
 
@@ -96,7 +96,7 @@ From Reflex Robotics on 𝕏: https://x.com/ReflexRobot/status/20441541141085432
 
 I have a question for everyone understanding TIA, UR-Robots and cameras. In my use case, there is a Camera (Wenglor vision sensor) that gives me back values for X, Y and RZ. I want to use these in Tia to communicate them to the robot in order to pick the object. A connection using Lan is not possible, therefor I use Rte. However, if I use Rte, the ur can't communicate with the camera and I have to use the plc as an translator, but the easiest way (URCap "detect object") isn't possible anymore. So now to the application: I have a robot thats supposed to find an object over the camera. After picking it up, it checks the object with another camera Programm for a code and stores the code. That part already works because I directly use the plc to cam. No robot involved. So there is two parts of the Programm, using the same camera. I already calibrated the robot to the camera. I get the return values X, Y and RZ and need to add them to the Robot base coordinate. Then I can hand over these values to the robot and pick the item. In theory the idea is simple, in reality it's really hard. Has anyone ever done something similar and can help me out? Or are there other ideas?
 
-5h ago
+6h ago
 
 ---
 
@@ -104,7 +104,7 @@ I have a question for everyone understanding TIA, UR-Robots and cameras. In my u
 
 Hello, I am implementing a full joint impedance controller on a factory robot arm (with feedforward coriolus, mass matrix, gravity comp, and friction comp). It works well, up to about 0.2 deg accuracy due to low gains (which I want) and static friction deadband. If I increase the coulomb friction compensation I introduce small high-frequency oscillations. My ideas to solve this are either some secondary low amplitude damping term that allows me to increase friction comp and damp out its oscillations, or add some clipped/gated integral term. I was wondering if anyone has chased steady state error to ~0.01 deg and if either of my above ideas are standard in industry. Note I really just care about decreasing the error of my sensed versus realized joint angles, and I am not too concerned with hardware tolerances/physical accuracy. I more so just want my realized joint values to be within 0.01deg of my commanded, and I don’t want to increase my P gain. Any advice as to what’s happening under the hood on these sub-mm controllers would be greatly appreciated.
 
-9h ago
+10h ago
 
 ---
 
@@ -140,7 +140,7 @@ Boston Dynamics • 2d ago
 
 Skild AI today announced the acquisition of Zebra Technologies' Robotics Automation business, including its Symmetry Fulfillment orchestration platform. This...
 
-Business Wire • 23h ago
+Business Wire • 1d ago
 
 ---
 
@@ -148,7 +148,7 @@ Business Wire • 23h ago
 
 The new model, called π0.7, represents what the company describes as an early but meaningful step toward the long-sought goal of a general-purpose robot brain.
 
-TechCrunch • 44m ago
+TechCrunch • 1h ago
 
 ---
 
@@ -156,7 +156,7 @@ TechCrunch • 44m ago
 
 Sounds from a robotics competition hosted on Florida A&M’s campus were mistaken for gunfire Wednesday afternoon.
 
-WCTV • 2h ago
+WCTV • 3h ago
 
 ---
 
@@ -164,7 +164,7 @@ WCTV • 2h ago
 
 Sounds from a robotics competition hosted on Florida A&M’s campus were mistaken for gunfire Wednesday afternoon.
 
-WCTV • 2h ago
+WCTV • 3h ago
 
 ---
 
@@ -186,7 +186,7 @@ Live Science • 1d ago
 
 After a historic first, communications and navigation still obstruct the future for roboticized ground assault.
 
-Defense One • 18h ago
+Defense One • 19h ago
 
 ---
 
@@ -210,7 +210,7 @@ President Zelenskyy says that for the first time ever, the Ukrainian army was ab
 
 📺 NBC News
 
-👁️ 324K • 👍 5K • 💬 1K • ⏱️ 3:12 • 20h ago
+👁️ 324K • 👍 5K • 💬 1K • ⏱️ 3:12 • 21h ago
 
 ---
 
@@ -250,7 +250,7 @@ A new wave of attention is building around Elon Musk's latest version of the Tes
 
 📺 Carros Show
 
-👁️ 18K • 👍 377 • 💬 57 • ⏱️ 8:01 • 2d ago
+👁️ 18K • 👍 377 • 💬 57 • ⏱️ 8:01 • 3d ago
 
 ---
 
@@ -290,7 +290,7 @@ War Robots Gameplay: New Update Robot: VECTOR - how broken is it? My War Robots 
 
 📺 Manni-Gaming
 
-👁️ 5K • 👍 375 • 💬 67 • ⏱️ 20:12 • 8h ago
+👁️ 5K • 👍 375 • 💬 67 • ⏱️ 20:12 • 9h ago
 
 ---
 
