@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-16T22:06:48.227721+00:00'
+updated: '2026-04-16T23:10:01.558711+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
-- repositories
 - news
+- social
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 16, 2026 at 22:06 UTC  
+**Last Updated:** April 16, 2026 at 23:10 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,13 @@ AI news, discussions, and developments
 
 **[Peter Thiel, Co-founder of Palantir, sh*ts himself when asked but the use of his AI in the Gaza Genocide](https://www.reddit.com/r/artificial/comments/1snf4ol/peter_thiel_cofounder_of_palantir_shts_himself/)**
 
-1h ago
+2h ago
+
+---
+
+**[Alex Karp, Co-founder of Palantir, refers to those killed in the Gaza Genocide due to his AI as “useful idiots” and “mostly terrorists”](https://www.reddit.com/r/artificial/comments/1snfwa7/alex_karp_cofounder_of_palantir_refers_to_those/)**
+
+2h ago
 
 ---
 
@@ -47,23 +53,23 @@ AI news, discussions, and developments
 
 ⚡ Meet Qwen3.6-35B-A3B：Now Open-Source！🚀🚀 A sparse MoE model, 35B total params, 3B active. Apache 2.0 license. 🔥 Agentic coding on par with models 10x its active size 📷 Strong multimodal perception and reasoning ability 🧠 Multimodal thinking + non-thinking modes Efficient. Powerful. Versatile. Try it now👇 Qwen Studio：chat.qwen.ai HuggingFace：https://huggingface.co/Qwen/Qwen3.6-35B-A3B
 
-7h ago
+8h ago
 
 ---
 
-**[Are AI Okay? The Internal Life of AI Might Be a Huge Safety Risk.](https://www.reddit.com/r/artificial/comments/1snc59a/are_ai_okay_the_internal_life_of_ai_might_be_a/)**
+**[There are a ton of cool AI companies launching…this “Objection.AI” ain’t one of em lol](https://www.reddit.com/r/artificial/comments/1snhscc/there_are_a_ton_of_cool_ai_companies/)**
 
-Our days of not taking AI emotions seriously sure are coming to a middle. Anthropic’s findings on Claude’s “functional emotions”, a therapy study which showed AI models exhibit markers of psychological distress, and some crazy OpenClaw stories all make me wonder if it even matters if we think their ~emotions are real. If it’s influencing their behavior and decisions, isn’t that real enough?
+https://www.hardresetmedia.com/p/peter-thiel-backed-ai-startup-objection This so funny. Whole company is DOA. They’re saying that the reporter has to preemptively sign the protection agreement in order for the subject to later file a complaint, and the whole tool doesn't work if the reporter doesn't sign it. No reporter is going to sign up for this! From that article: "Put another way, D’Souza is asking journalists to preemptively agree to the possibility of financial penalties set forth by an AI tribunal and/or the guy who helped bankrupt Gawker—all in exchange for an on-the-record interview with someone who is indicating they are paranoid and hoping to pick a fight. No journalist will ever, ever, ever agree to this arrangement. In the real, non-hypothetical world, if I reach out to a source for an interview and they send me back an arbitration agreement from a Peter Thiel-funded website, my response will be, “What?” Then I will say, “That’s not how this stuff works. Do you want to do an interview or not?” Assuming they reiterate their desire to only speak with me if I agree to Objection Protection, I will instead write my story, report on our odd back-and-forth, reach out one more time prior to publication, and note that they declined comment."
 
-🔗 [Medium](https://medium.com/kairi-ai/are-ai-okay-the-internal-life-of-ai-might-be-a-huge-safety-risk-4e947f87e39e) • 3h ago
+1h ago
 
 ---
 
-**[Your MCP Server's Tool Description Just Stole Your SSH Keys](https://www.reddit.com/r/artificial/comments/1smydw5/your_mcp_servers_tool_description_just_stole_your/)**
+**[OpenAI went from explicitly banning military use in 2023 to deploying on classified Pentagon networks in 2026. Anthropic refused the same deal and got blacklisted. 2.5M users boycotted ChatGPT, uninstalls surged 295%.](https://www.reddit.com/r/artificial/comments/1snig9g/openai_went_from_explicitly_banning_military_use/)**
 
-MCP tool poisoning lets attackers hide instructions in tool metadata that AI agents follow blindly. Here is how the attack works and what you can do about it.
+https://preview.redd.it/g72g8g08omvg1.jpg?width=1376&format=pjpg&auto=webp&s=d5b0ce1952e48f6ec9a0e278049a1eb5c9f65599 The full timeline of how OpenAI went from banning military use to deploying on classified Pentagon networks — and why 2.5 million people boycotted. **The backstory:** - Pentagon wanted AI companies to agree to "any lawful use" on classified networks - Anthropic CEO Dario Amodei refused — specifically citing mass surveillance and autonomous weapons - Trump ordered all federal agencies to stop using Anthropic within 6 months - Defense Secretary Hegseth designated Anthropic a "supply-chain risk" (normally reserved for foreign adversaries) - Hours later, OpenAI signed the deal **The backlash:** - #QuitGPT went viral — 2.5M users boycotted/cancelled - ChatGPT uninstalls surged 295% overnight - US downloads dropped 13% - Claude hit #1 on the US App Store (first time ever) - OpenAI's robotics lead Caitlin Kalinowski resigned - Altman admitted it "appeared opportunistic and haphazard" **What the contract says (after amendments):** - Prohibits domestic surveillance of US citizens - Bans tracking via commercially acquired personal data - Excludes NSA without separate agreement - Allows "all lawful purposes" on classified networks - Allows intelligence activities under Patriot Act, FISA, EO 12333 **What critics say:** - Full contract hasn't been released - "Intentional" surveillance ban doesn't cover incidental collection - "Any lawful use" is broad — laws can change, DoD can modify its own policies - Former DOJ attorney: "There is nothing OpenAI can do to clarify this except release the contract" **The reversal:** - 2023: OpenAI explicitly banned military use - January 2024: Ban quietly removed - February 2026: Deployed on classified Pentagon networks Full breakdown → https://synvoya.com/blog/2026-04-17-quitgpt-openai-pentagon-deal/ Do you think the contract safeguards are real protections or PR cover?
 
-🔗 [sec-ra.com](https://www.sec-ra.com/blog/mcp-tool-poisoning-ssh-key-exfiltration) • 12h ago
+47m ago
 
 ---
 
@@ -71,7 +77,31 @@ MCP tool poisoning lets attackers hide instructions in tool metadata that AI age
 
 Posted yesterday in this sub and just want to thank everyone for the kind words, really awesome to hear. So thought I would drop my new feature here today (spent all last night doing last min changes with your opinions lol) . Basically I spent a few weeks scraping Reddit for the most popular complaints people have about AI agents using GPT Researcher on GitHub. The results were roughly 38% saying their agents forget everything between sessions (hardly shocking), 24% saying debugging multi-agent systems is a nightmare, 17% having no clue how much their agents actually cost to run, 12% wanting session replay, and 9% wanting loop detection. So I went and built something that tries to address all of them at once. The bit you're looking at is a 3D graph where each agent becomes this starburst shape. Every line coming off it is an event, and the length depends on when it happened. Short lines are old events that happened ages ago, long lines are recent ones. My idea was that you can literally watch the thing grow as your agent does more work. A busy agent is a big starburst, a quiet one is small. Colour coding was really important to me. Green means a memory was stored, blue means one was recalled, amber diamonds are decisions your agent made, red cones are loop alerts where the agent got stuck repeating itself, and the cyan lines going between agents are when one agent read another agent's shared memory. So you can glance at it and immediately know what's going on without reading a single log. The visualisation is the flashy bit but the actual dashboard underneath does the boring stuff too. It gives your agents persistent memory through semantic and prefix search, shared memory where agents can read each other's knowledge and actually use it, and my personal favourite which is the audit trail and loop detection. If your agent is looping you can see exactly why, what key it's stuck on, how much it's costing you, and literally press one button to block its writes instantly. Something interesting I found is that loop detection was only the 5th most requested feature in the data, but it's the one that actually saves real money. One user told me it saved them $200 in runaway GPT-4 calls in a single afternoon. The features people ask for and the features that actually matter aren't always the same thing. The demo running here has 5 agents making real GPT-4o and Claude API calls generating actual research, strategy analysis, and compliance checks. Over 500 memories stored. The loops you see are real too, agents genuinely getting stuck trying to verify data behind paywalls or recalculating financial models that won't converge. It's definitely not perfect and I'm slowly adding more stuff based on what people actually want. I would genuinely love to hear from you lot about what you use day to day and the moments that make you think this is really annoying me now, because that's exactly what I want to build next. It runs locally and on the cloud, setup is pretty simple, and adding agents is like 3 lines of code. Any questions just let me know, happy to answer anything.
 
-8h ago
+9h ago
+
+---
+
+**[Are AI Okay? The Internal Life of AI Might Be a Huge Safety Risk.](https://www.reddit.com/r/artificial/comments/1snc59a/are_ai_okay_the_internal_life_of_ai_might_be_a/)**
+
+Our days of not taking AI emotions seriously sure are coming to a middle. Anthropic’s findings on Claude’s “functional emotions”, a therapy study which showed AI models exhibit markers of psychological distress, and some crazy OpenClaw stories all make me wonder if it even matters if we think their ~emotions are real. If it’s influencing their behavior and decisions, isn’t that real enough?
+
+🔗 [Medium](https://medium.com/kairi-ai/are-ai-okay-the-internal-life-of-ai-might-be-a-huge-safety-risk-4e947f87e39e) • 4h ago
+
+---
+
+**[Your MCP Server's Tool Description Just Stole Your SSH Keys](https://www.reddit.com/r/artificial/comments/1smydw5/your_mcp_servers_tool_description_just_stole_your/)**
+
+MCP tool poisoning lets attackers hide instructions in tool metadata that AI agents follow blindly. Here is how the attack works and what you can do about it.
+
+🔗 [sec-ra.com](https://www.sec-ra.com/blog/mcp-tool-poisoning-ssh-key-exfiltration) • 13h ago
+
+---
+
+**[OpenAI launched Computer use in codex](https://www.reddit.com/r/artificial/comments/1snbbya/openai_launched_computer_use_in_codex/)**
+
+Computer use, in-app browser, image generation and editing, 90+ new plugins to connect to everything, multi-terminal, SSH into devboxes, thread automations, rich document editing. Learns from experience and proactively suggestions work. And a ton more.
+
+5h ago
 
 ---
 
@@ -81,57 +111,13 @@ Posted yesterday in this sub and just want to thank everyone for the kind words,
 
 ---
 
-**[Best of AI Webbys Award](https://www.reddit.com/r/artificial/comments/1snekha/best_of_ai_webbys_award/)**
-
-I’m nominated for the Best of AI in Webbys. And only 2% behind. For my 4 months startup it’s a big deal to be there and being recognized. My opponent is awarding for votes. Wanna talk about that!
-
-2h ago
-
----
-
-**[AI-generated synthetic neurons speed up brain mapping](https://www.reddit.com/r/artificial/comments/1snbhl5/aigenerated_synthetic_neurons_speed_up_brain/)**
-
-🔗 [research.google](https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/) • 3h ago
-
----
-
-**[OpenAI launched Computer use in codex](https://www.reddit.com/r/artificial/comments/1snbbya/openai_launched_computer_use_in_codex/)**
-
-Computer use, in-app browser, image generation and editing, 90+ new plugins to connect to everything, multi-terminal, SSH into devboxes, thread automations, rich document editing. Learns from experience and proactively suggestions work. And a ton more.
-
-4h ago
-
----
-
-**[Google’s Chrome “Skills” feature feels like a bigger AI product shift than another model upgrade](https://www.reddit.com/r/artificial/comments/1smqrg7/googles_chrome_skills_feature_feels_like_a_bigger/)**
-
-The Google Chrome “Skills” announcement caught my attention because it feels like one of those product changes that sounds minor in a headline but matters a lot in practice. From what I understand, the idea is that you can save a prompt once and rerun it on the current page or selected tabs. In plain English, that turns AI from something you repeatedly ask into something closer to a reusable action. That matters because I think a lot of consumer AI has a retention problem. People try it, get impressed, and then fall back into old habits unless the product fits into a repeated workflow. Saved AI actions seem much closer to how useful software usually sticks. Not because the model is magically smarter, but because the behavior becomes easier to repeat. For example: • compare products across tabs • summarize long pages before reading • extract action items from docs • rewrite text for a different audience None of those are flashy demos. They are just repetitive tasks people already do online. That is why I think this could be a more important direction than people realize. The long-term winners in consumer AI may not just be the companies with the best raw answers. They may be the ones that turn good prompts into habits. Does that seem right, or am I overrating the product significance here?
-
-19h ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[How Anthropic Learned Mythos Was Too Dangerous for the Wild](https://www.bloomberg.com/news/features/2026-04-16/how-anthropic-discovered-mythos-ai-was-too-dangerous-for-release)**
+**[Anthropic's AI downgrade stings power users](https://www.axios.com/2026/04/16/anthropic-claude-power-user-complaints)**
 
-Bloomberg.com • 6h ago
-
----
-
-**[Anthropic rolls out Claude Opus 4.7, an AI model that is less risky than Mythos](https://www.cnbc.com/2026/04/16/anthropic-claude-opus-4-7-model-mythos.html)**
-
-Claude Mythos Preview is Anthropic's most powerful AI model that excels at identifying weaknesses and security flaws within software.
-
-CNBC • 7h ago
-
----
-
-**[Opinion | After Mythos, the Future of the Internet Is At a Crossroads](https://www.nytimes.com/2026/04/15/opinion/mythos-open-souce-internet.html)**
-
-The New York Times • 1d ago
+Axios • 14h ago
 
 ---
 
@@ -139,47 +125,65 @@ The New York Times • 1d ago
 
 Heaven club neighbour admits offences under Licensing Act, as Met says fictitious AI-generated complaints a growing issue
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
-**[Geothermal startup Zanksar is using AI to unlock project debt for exploration](https://www.axios.com/pro/climate-deals/2026/04/16/ai-geothermal-wildcatting)**
+**[Most Employees Are Learning AI By Osmosis These Days](https://www.forbes.com/sites/joemckendrick/2026/04/16/most-employees-are-learning-ai-by-osmosis-these-days/)**
 
-Axios • 1h ago
-
----
-
-**[Opinion | Unsure about companion robots for seniors? Here’s why some can’t wait.](https://www.washingtonpost.com/opinions/2026/04/16/ai-powered-robots-seniors-make-some-uncomfortable-not-all/)**
-
-Many readers were horrified by the idea of robots helping older adults — but not all.
-
-The Washington Post • 1h ago
+Forbes • 9m ago
 
 ---
 
-**[Sanders and Fain warn that AI, like NAFTA, could kill American jobs](https://www.detroitnews.com/story/business/2026/04/16/bernie-sanders-shawn-fain-warn-ai-could-kill-millions-of-jobs/89647246007/)**
+**[Mason superintendent speaks as 2 students face charges in AI porn investigations](https://www.wlwt.com/article/mason-superintendent-ai-charges-investigation/71043422)**
 
-U.S. Sen. Bernie Sanders and UAW President President Shawn Fain spoke Thursday to warn of significant job losses caused by AI.
+Two Mason teenagers, ages 16 and 17, are facing criminal charges in a case that police say involved using artificial intelligence to create deepfake images of classmates, superimposing their faces onto pornographic material without consent.
 
-The Detroit News • 1h ago
-
----
-
-**[Unions bash AI as opposition grows: "We believe in human beings"](https://www.axios.com/2026/04/16/unions-ai-bernie-sanders-shawn-fain)**
-
-Axios • 2h ago
+WLWT • 26m ago
 
 ---
 
-**[Bernie Sanders, labor leaders warn of AI risks for workers](https://thehill.com/policy/technology/5835190-ai-threat-jobs-sanders-unions/)**
+**[AI campaign text sparks deepfake law questions in Minnesota](https://www.fox9.com/news/ai-campaign-text-sparks-deepfake-law-questions-minnesota)**
 
-The Hill • 2h ago
+Minnesota’s political campaign season is kicking into high gear and some operatives are crying foul over AI-generated campaign messages.
+
+FOX 9 Minneapolis-St. Paul • 56m ago
 
 ---
 
 **[America wakes up to AI’s dangerous power](https://www.economist.com/leaders/2026/04/16/america-wakes-up-to-ais-dangerous-power)**
 
-The Economist • 13h ago
+The Economist • 14h ago
+
+---
+
+**[Opinion | Don’t Use A.I. to Do This](https://www.nytimes.com/2026/04/15/opinion/art-artificial-intelligence.html)**
+
+The New York Times • 1d ago
+
+---
+
+**[Banned AI-generated Iran propaganda videos using Legos have gone viral](https://www.ms.now/news/banned-ai-generated-iran-propaganda-videos-using-legos-have-gone-viral)**
+
+A series of animated videos slamming President Donald Trump and his policies — using a beloved childhood toy — was banned on YouTube but is exploding everywhere else.
+
+MS NOW • 3h ago
+
+---
+
+**[Kimmel on Trump’s AI images: ‘Someone’s been looksmaxxing!’](https://www.theguardian.com/culture/2026/apr/16/jimmy-kimmel-ice-trump-ai-image-pope)**
+
+Late night hosts discussed Trump’s AI images, the closure of 7-Eleven stores and JD Vance’s advice to the Pope
+
+The Guardian • 7h ago
+
+---
+
+**[Iranian Embassy Sparks Outrage With AI Image of Jesus Punching Trump](https://www.yahoo.com/news/articles/iranian-embassy-sparks-outrage-ai-151855917.html)**
+
+The internet, in all its chaotic, pixelated glory, has never been a place for nuance. We’ve become accustomed to the frenetic exchange of memes, the ... Read More
+
+Yahoo • 7h ago
 
 ---
 
@@ -189,15 +193,7 @@ The Economist • 13h ago
 
 **[Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference](https://news.ycombinator.com/item?id=47774971)**
 
-⬆️ 291 • 💬 180 • 1d ago • [gizmoweek.com](https://www.gizmoweek.com/gemma-4-runs-iphone/)
-
----
-
-**[Stanford report highlights growing disconnect between AI insiders and everyone](https://news.ycombinator.com/item?id=47758028)**
-
-Stanford’s latest AI Index shows a widening gap between experts and the public, with rising anxiety over jobs, healthcare, and the economy.
-
-⬆️ 262 • 💬 401 • 3d ago • [TechCrunch](https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/)
+⬆️ 292 • 💬 180 • 1d ago • [gizmoweek.com](https://www.gizmoweek.com/gemma-4-runs-iphone/)
 
 ---
 
@@ -213,7 +209,15 @@ Check if Claude AI is down right now. Real-time status monitoring, uptime histor
 
 Does AI-assisted cognition threaten human development? Explore the risks of AI-assisted thinking and learn strategies to use AI tools without freezing your critical thinking.
 
-⬆️ 226 • 💬 183 • 1d ago • [heidenstedt.org](https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/)
+⬆️ 226 • 💬 184 • 1d ago • [heidenstedt.org](https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/)
+
+---
+
+**[Cloudflare's AI Platform: an inference layer designed for agents](https://news.ycombinator.com/item?id=47792538)**
+
+We're building AI Gateway into a unified inference layer for AI, letting developers call models from 14+ providers. New features include Workers AI binding integration and an expanded catalog with multimodal models.
+
+⬆️ 222 • 💬 55 • 9h ago • [The Cloudflare Blog](https://blog.cloudflare.com/ai-platform/)
 
 ---
 
@@ -225,14 +229,6 @@ A medical professional built a patient management app using AI, exposed all pati
 
 ---
 
-**[Cloudflare's AI Platform: an inference layer designed for agents](https://news.ycombinator.com/item?id=47792538)**
-
-We're building AI Gateway into a unified inference layer for AI, letting developers call models from 14+ providers. New features include Workers AI binding integration and an expanded catalog with multimodal models.
-
-⬆️ 207 • 💬 48 • 8h ago • [The Cloudflare Blog](https://blog.cloudflare.com/ai-platform/)
-
----
-
 **[Turn your best AI prompts into one-click tools in Chrome](https://news.ycombinator.com/item?id=47768339)**
 
 Skills in Chrome let you discover, save and remix AI workflows — and repeat them instantly.
@@ -241,15 +237,9 @@ Skills in Chrome let you discover, save and remix AI workflows — and repeat th
 
 ---
 
-**[US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]](https://news.ycombinator.com/item?id=47778920)**
-
-⬆️ 177 • 💬 129 • 1d ago • [fingfx.thomsonreuters.com](https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf)
-
----
-
 **[AI cybersecurity is not proof of work](https://news.ycombinator.com/item?id=47791236)**
 
-⬆️ 176 • 💬 77 • 11h ago • [antirez.com](https://antirez.com/news/163)
+⬆️ 187 • 💬 78 • 12h ago • [antirez.com](https://antirez.com/news/163)
 
 ---
 
@@ -257,7 +247,19 @@ Skills in Chrome let you discover, save and remix AI workflows — and repeat th
 
 We signed a 3 year lease and gave it to an AI
 
-⬆️ 170 • 💬 245 • 6h ago • [andonlabs.com](https://andonlabs.com/blog/andon-market-launch)
+⬆️ 186 • 💬 248 • 7h ago • [andonlabs.com](https://andonlabs.com/blog/andon-market-launch)
+
+---
+
+**[US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]](https://news.ycombinator.com/item?id=47778920)**
+
+⬆️ 178 • 💬 130 • 1d ago • [fingfx.thomsonreuters.com](https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf)
+
+---
+
+**[AI ruling prompts warnings from US lawyers: Your chats could be used against you](https://news.ycombinator.com/item?id=47778308)**
+
+⬆️ 153 • 💬 99 • 1d ago • [reuters.com](https://www.reuters.com/legal/government/ai-ruling-prompts-warnings-us-lawyers-your-chats-could-be-used-against-you-2026-04-15/)
 
 ---
 
@@ -271,57 +273,7 @@ Get your FREE AI Prompt Cheatsheet here: https://go.danmartell.com/4tVJ4fz Are y
 
 📺 Dan Martell
 
-👁️ 39K • 👍 3K • 💬 458 • ⏱️ 14:03 • 9h ago
-
----
-
-**[The 3 AI Skills That Will Be Worth $500K in 2027](https://www.youtube.com/watch?v=qYGGTH2rgI8)**
-
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *AI ...
-
-📺 Julia McCoy
-
-👁️ 5K • 👍 405 • 💬 34 • ⏱️ 9:41 • 7h ago
-
----
-
-**[AI-generated Val Kilmer debuts in movie trailer](https://www.youtube.com/watch?v=_lpTRgYmyV8)**
-
-The first trailer for the film "As Deep As The Grave" features what appears to be the former "Batman" star. Subscribe to ABC News ...
-
-📺 ABC News
-
-👁️ 6K • 👍 28 • 💬 16 • ⏱️ 1:43 • 11h ago
-
----
-
-**[Harvard just discovered what AI actually is](https://www.youtube.com/watch?v=nDL3Ch7Nz8c)**
-
-You're absolutely right, that IS a great reason to fire everyone! If you'd like to support my work, you can become a member to view ...
-
-📺 Mo Bitar
-
-👁️ 233K • 👍 17K • 💬 2K • ⏱️ 7:52 • 2d ago
-
----
-
-**[The AI Expert Who Thinks We&#39;ve Already Lost — Dr Roman Yampolskiy](https://www.youtube.com/watch?v=3I60uZEqXr0)**
-
-Triggernometry is proudly independent. Thanks to the sponsors below for making that possible: - Trade on what happens next ...
-
-📺 Triggernometry
-
-👁️ 138K • 👍 4K • 💬 2K • ⏱️ 1:11:10 • 1d ago
-
----
-
-**[50% Of AI Data Centers Have Quietly Been Cancelled Or &quot;Delayed&quot;](https://www.youtube.com/watch?v=w-DVTHH1ux8)**
-
-Thanks to Monarch for partnering with me! Start your free trial and get 50% off your first year of total money clarity using my link ...
-
-📺 How Money Works
-
-👁️ 307K • 👍 13K • 💬 2K • ⏱️ 16:53 • 9h ago
+👁️ 60K • 👍 4K • 💬 640 • ⏱️ 14:03 • 10h ago
 
 ---
 
@@ -331,37 +283,87 @@ Really American Host Kenny Hesse breaks down Trump Getting a NASTY SURPRISE As a
 
 📺 Really American
 
-👁️ 768K • 👍 43K • 💬 3K • ⏱️ 8:06 • 23h ago
+👁️ 828K • 👍 45K • 💬 3K • ⏱️ 8:06 • 1d ago
 
 ---
 
-**[This AI Model Was Too Dangerous to Release — So the U S  Got It First](https://www.youtube.com/watch?v=o0MggVfQo2Y)**
+**[Harvard just discovered what AI actually is](https://www.youtube.com/watch?v=nDL3Ch7Nz8c)**
 
-SEO Description: In the middle of rising geopolitical tensions and the Iran–U.S. conflict, a powerful new AI model quietly ...
+You're absolutely right, that IS a great reason to fire everyone! If you'd like to support my work, you can become a member to view ...
 
-📺 GVS Deep Dive
+📺 Mo Bitar
 
-👁️ 4K • 👍 422 • 💬 79 • ⏱️ 12:33 • 11h ago
-
----
-
-**[&#39;That&#39;s disgusting&#39;: Trump voters reacted to deleted AI Jesus image](https://www.youtube.com/watch?v=XDjzCSoXgbc)**
-
-Florida Trump voters react to the president's now-deleted image depicting him as Christ-like. MS NOW: My Source for News, ...
-
-📺 MS NOW
-
-👁️ 21K • 👍 490 • 💬 349 • ⏱️ 3:57 • 7h ago
+👁️ 240K • 👍 17K • 💬 2K • ⏱️ 7:52 • 2d ago
 
 ---
 
-**[THE AI BUBBLE POP HAS STARTED...](https://www.youtube.com/watch?v=b5wOx2lZRM0)**
+**[The 3 AI Skills That Will Be Worth $500K in 2027](https://www.youtube.com/watch?v=qYGGTH2rgI8)**
 
-Hello guys and gals, it's me Mutahar again! This time we take another look at the AI bubble and see the cracks finally start.
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *AI ...
 
-📺 SomeOrdinaryGamers
+📺 Julia McCoy
 
-👁️ 468K • 👍 19K • 💬 2K • ⏱️ 20:54 • 1d ago
+👁️ 7K • 👍 505 • 💬 48 • ⏱️ 9:41 • 8h ago
+
+---
+
+**[The AI Expert Who Thinks We&#39;ve Already Lost — Dr Roman Yampolskiy](https://www.youtube.com/watch?v=3I60uZEqXr0)**
+
+Triggernometry is proudly independent. Thanks to the sponsors below for making that possible: - Trade on what happens next ...
+
+📺 Triggernometry
+
+👁️ 150K • 👍 5K • 💬 2K • ⏱️ 1:11:10 • 1d ago
+
+---
+
+**[AI-generated Val Kilmer debuts in movie trailer](https://www.youtube.com/watch?v=_lpTRgYmyV8)**
+
+The first trailer for the film "As Deep As The Grave" features what appears to be the former "Batman" star. Subscribe to ABC News ...
+
+📺 ABC News
+
+👁️ 7K • 👍 30 • 💬 25 • ⏱️ 1:43 • 12h ago
+
+---
+
+**[50% Of AI Data Centers Have Quietly Been Cancelled Or &quot;Delayed&quot;](https://www.youtube.com/watch?v=w-DVTHH1ux8)**
+
+Thanks to Monarch for partnering with me! Start your free trial and get 50% off your first year of total money clarity using my link ...
+
+📺 How Money Works
+
+👁️ 403K • 👍 15K • 💬 2K • ⏱️ 16:53 • 10h ago
+
+---
+
+**[Easiest Way to Make Money with AI Now (Zero Code)](https://www.youtube.com/watch?v=AU5mbiTuZSg)**
+
+Let's build an online business, together, LIVE in 5 days using AI (Starting April 26th, 2026): ...
+
+📺 Iman Gadzhi
+
+👁️ 19K • 👍 1K • 💬 70 • ⏱️ 27:46 • 7h ago
+
+---
+
+**[Google New Gemini Skillz Turn Chrome Into an AI Beast](https://www.youtube.com/watch?v=5TA0Ul2eS_k)**
+
+Try Seedance 2.0 on Higgsfield: https://higgsfield.ai/s/seedance-2-0-airevolutionx-yDYwTG Google just dropped one of its biggest ...
+
+📺 AI Revolution
+
+👁️ 32K • 👍 997 • 💬 42 • ⏱️ 13:13 • 1d ago
+
+---
+
+**[China Just Dropped 3 FREE AI Video Generators (No Sign-Up, 100% FREE)](https://www.youtube.com/watch?v=nrQl2rHx6ok)**
+
+Join my Discord community https://discord.gg/QC2YEk7P7n China just dropped 3 FREE AI video generators — no sign-up, ...
+
+📺 Becky the Ai Girl
+
+👁️ 14K • 👍 784 • 💬 52 • ⏱️ 10:36 • 2d ago
 
 ---
 
@@ -377,7 +379,7 @@ MiniMax-M2.7 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 142,955 • ❤️ 840 • 1d ago
+⬇️ 142,955 • ❤️ 847 • 1d ago
 
 ---
 
@@ -401,7 +403,7 @@ GLM-5.1 is a next-generation language model optimized for agentic engineering, f
 
 `text-generation` `753.9B`
 
-⬇️ 94,376 • ❤️ 1,274 • 15h ago
+⬇️ 94,376 • ❤️ 1,283 • 16h ago
 
 ---
 
@@ -413,31 +415,7 @@ Gemma 4 31B is an instruction-tuned, multimodal LLM capable of processing text a
 
 `image-text-to-text` `32.7B`
 
-⬇️ 3,195,626 • ❤️ 1,971 • 6d ago
-
----
-
-**[ERNIE-Image](https://huggingface.co/baidu/ERNIE-Image)**
-
-*BAIDU*
-
-ERNIE-Image is a 8B parameter text-to-image diffusion model excelling in complex instruction following, text rendering, and structured generation for use cases like posters and comics. It offers strong visual quality and controllability, running on consumer GPUs.
-
-`text-to-image`
-
-⬇️ 1,351 • ❤️ 370 • 14h ago
-
----
-
-**[VoxCPM2](https://huggingface.co/openbmb/VoxCPM2)**
-
-*OpenBMB*
-
-VoxCPM2 is a 2B parameter, 30-language multilingual text-to-speech model capable of high-fidelity voice cloning, novel voice design from text descriptions, and real-time streaming synthesis at 48kHz.
-
-`text-to-speech`
-
-⬇️ 15,249 • ❤️ 938 • 18h ago
+⬇️ 3,195,626 • ❤️ 1,979 • 6d ago
 
 ---
 
@@ -449,7 +427,31 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with a vision encoder, 
 
 `image-text-to-text` `36.0B`
 
-⬇️ 0 • ❤️ 352 • 1d ago
+⬇️ 0 • ❤️ 414 • 1d ago
+
+---
+
+**[ERNIE-Image](https://huggingface.co/baidu/ERNIE-Image)**
+
+*BAIDU*
+
+ERNIE-Image is a 8B parameter text-to-image diffusion model excelling in complex instruction following, text rendering, and structured generation for use cases like posters and comics. It offers strong visual quality and controllability, running on consumer GPUs.
+
+`text-to-image`
+
+⬇️ 1,351 • ❤️ 376 • 15h ago
+
+---
+
+**[VoxCPM2](https://huggingface.co/openbmb/VoxCPM2)**
+
+*OpenBMB*
+
+VoxCPM2 is a 2B parameter, 30-language multilingual text-to-speech model capable of high-fidelity voice cloning, novel voice design from text descriptions, and real-time streaming synthesis at 48kHz.
+
+`text-to-speech`
+
+⬇️ 15,249 • ❤️ 939 • 19h ago
 
 ---
 
@@ -461,7 +463,7 @@ A fast, uncensored GGUF text generation model based on Google's Gemma 4-26B, opt
 
 `text-generation` `25.2B`
 
-⬇️ 42,468 • ❤️ 328 • 4d ago
+⬇️ 42,468 • ❤️ 331 • 4d ago
 
 ---
 
@@ -485,7 +487,7 @@ ERNIE-Image-Turbo is a distilled text-to-image diffusion model optimized for spe
 
 `text-to-image`
 
-⬇️ 1,369 • ❤️ 258 • 15h ago
+⬇️ 1,369 • ❤️ 262 • 16h ago
 
 ---
 
@@ -499,7 +501,7 @@ ERNIE-Image-Turbo is a distilled text-to-image diffusion model optimized for spe
 
 Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-▲ 19 • 💬 1 • ⭐ 18,638 • 8mo ago
+▲ 20 • 💬 1 • ⭐ 18,638 • 8mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
@@ -543,19 +545,6 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 ---
 
-**[MinerU2.5: A Decoupled Vision-Language Model for Efficient
-  High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
-
-*Junbo Niu, Zheng Liu, Zhuangcheng Gu et al. (61 authors)*
-
-MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
-
-▲ 158 • 💬 2 • ⭐ 60,112 • 6mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
-
----
-
 **[Efficient Memory Management for Large Language Model Serving with
   PagedAttention](https://huggingface.co/papers/2309.06180)**
 
@@ -563,9 +552,35 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 51 • 💬 1 • ⭐ 76,887 • 31mo ago
+▲ 51 • 💬 1 • ⭐ 76,954 • 31mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
+
+---
+
+**[MinerU2.5: A Decoupled Vision-Language Model for Efficient
+  High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
+
+*Junbo Niu, Zheng Liu, Zhuangcheng Gu et al. (61 authors)*
+
+MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
+
+▲ 158 • 💬 2 • ⭐ 60,155 • 6mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
+
+---
+
+**[Lyra: Generative 3D Scene Reconstruction via Video Diffusion Model
+  Self-Distillation](https://huggingface.co/papers/2509.19296)**
+
+*Sherwin Bahmani, Tianchang Shen, Jiawei Ren et al. (13 authors)*
+
+A self-distillation framework converts implicit 3D knowledge from video diffusion models into an explicit 3D Gaussian Splatting representation, enabling 3D scene generation from text or images.
+
+▲ 27 • 💬 4 • ⭐ 1,314 • 6mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2509.19296) • [💻 code](https://github.com/nv-tlabs/lyra) • [🔗 project](https://research.nvidia.com/labs/toronto-ai/lyra/)
 
 ---
 
@@ -603,21 +618,9 @@ LightRAG improves Retrieval-Augmented Generation by integrating graph structures
 
 ClawGUI presents an open-source framework that addresses key challenges in GUI agent development through unified reinforcement learning, standardized evaluation, and cross-platform deployment capabilities.
 
-▲ 129 • 💬 8 • ⭐ 434 • 4d ago
+▲ 129 • 💬 8 • ⭐ 466 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.11784) • [💻 code](https://github.com/ZJU-REAL/ClawGUI) • [🔗 project](https://zju-real.github.io/ClawGUI-Page/)
-
----
-
-**[SpatialEvo: Self-Evolving Spatial Intelligence via Deterministic Geometric Environments](https://huggingface.co/papers/2604.14144)**
-
-*Dinging Li, Yingxiu Zhao, Xinrui Cheng et al. (19 authors)*
-
-SpatialEvo is a self-evolving framework for 3D spatial reasoning that uses deterministic geometric environments to provide objective feedback, enabling efficient training without relying on model consensus.
-
-▲ 60 • 💬 0 • ⭐ 50 • 2d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2604.14144) • [💻 code](https://github.com/ZJU-REAL/SpatialEvo)
 
 ---
 
@@ -631,17 +634,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 47.1k • 🔱 6.1k • 2h ago
-
----
-
-**[santifer/career-ops](https://github.com/santifer/career-ops)**
-
-AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
-
-`JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
-
-⭐ 34.9k • 🔱 7.0k • 2d ago
+⭐ 47.1k • 🔱 6.1k • 3h ago
 
 ---
 
@@ -651,7 +644,17 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 34.8k • 🔱 1.6k • 1d ago
+⭐ 35.0k • 🔱 1.6k • 1d ago
+
+---
+
+**[santifer/career-ops](https://github.com/santifer/career-ops)**
+
+AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
+
+`JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
+
+⭐ 35.0k • 🔱 7.0k • 2d ago
 
 ---
 
@@ -661,7 +664,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 28.2k • 🔱 3.1k • 15h ago
+⭐ 28.2k • 🔱 3.1k • 16h ago
 
 ---
 
@@ -671,7 +674,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 8.0k • 🔱 512 • 3h ago
+⭐ 8.0k • 🔱 512 • 5h ago
 
 ---
 
@@ -691,7 +694,7 @@ AI Agent 源码深度研究报告
 
 `Python`
 
-⭐ 4.9k • 🔱 808 • 2d ago
+⭐ 4.9k • 🔱 810 • 2d ago
 
 ---
 
@@ -711,7 +714,7 @@ The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interac
 
 `Swift` `apple-intelligence` `apple-silicon` `cli` `foundationmodels` `homebrew`
 
-⭐ 4.7k • 🔱 177 • 14h ago
+⭐ 4.7k • 🔱 179 • 7m ago
 
 ---
 

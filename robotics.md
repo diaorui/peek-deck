@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-16T22:06:48.245886+00:00'
+updated: '2026-04-16T23:10:01.574485+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 16, 2026 at 22:06 UTC  
+**Last Updated:** April 16, 2026 at 23:10 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,27 @@ Robotics research and industry news
 
 From The Humanoid Hub on 𝕏: https://x.com/TheHumanoidHub/status/2044504579480686900
 
-13h ago
+14h ago
 
 ---
 
 **[Multi-Robot Synchronization Demo from ESTUN Robotics](https://www.reddit.com/r/robotics/comments/1sn9asg/multirobot_synchronization_demo_from_estun/)**
 
-5h ago
+6h ago
 
 ---
 
 **[I 3D-printed a capture point for my Capture the Base robot game](https://www.reddit.com/r/robotics/comments/1sn2ptz/i_3dprinted_a_capture_point_for_my_capture_the/)**
 
-9h ago
+10h ago
+
+---
+
+**[I built a ultra low cost quadruped robot that can walk](https://www.reddit.com/r/robotics/comments/1snhunp/i_built_a_ultra_low_cost_quadruped_robot_that_can/)**
+
+I tried to do a quadruped robot using cheap servos (MG90S), normal batteries and wood structure. I think that it could be built with less than R$200,00 (U$40,00 at conversion). The name of the project is Guara Nano. I used ESP32, 8x MG90S servos (chinese version), 4x Batteries 1,5V, MPU6050 and PCA9685. I cannot supply ESP32 with these batteries because of drop voltage, so I used micro-USB cable. I did two gaits that work, walk and trot, with control of velocity and height control. It can turn too, using side traction and go back. I also did a simple proportional control but I didn't tested too much. The code and process to build will be open-source, now I'm working on documentation and I'll post here soon. I would appreciate tips and suggestions for improvement, and perhaps some other similar works, not just the ones you find on Google, as I've already looked at all of them.
+
+1h ago
 
 ---
 
@@ -56,7 +64,7 @@ From The Humanoid Hub on 𝕏: https://x.com/TheHumanoidHub/status/2044504579480
 
 Boston Dynamics is positioning Atlas for future deployment in industrial environments, with a focus on sectors like manufacturing and warehousing. The article explains that training the robot on a wide range of behaviors is contributing to improved overall capability, even when those behaviors are not directly tied to specific tasks. This reflects a broader trend in robotics where more varied data improves performance.
 
-🔗 [Automate](https://www.automate.org/robotics/industry-insights/balancing-work-and-play-with-boston-dynamics-atlas) • 4h ago
+🔗 [Automate](https://www.automate.org/robotics/industry-insights/balancing-work-and-play-with-boston-dynamics-atlas) • 5h ago
 
 ---
 
@@ -64,15 +72,21 @@ Boston Dynamics is positioning Atlas for future deployment in industrial environ
 
 Joining the existing D457 GMSL/FAKRA, we’re introducing GMSL support across three of our most widely used depth cameras: 📷D401 - Sub-millimeter precision for robotic arms and humanoids 📷D430 -High-accuracy depth sensing for mid-range robotics and AMRs 📷D415 - High-precision depth camera for spatial intelligence for factories
 
-6h ago
+7h ago
 
 ---
 
-**[Autonomous Drone](https://www.reddit.com/r/robotics/comments/1snexcv/autonomous_drone/)**
+**[How to using coding agents for robotics sim (mujoco) or hardware test](https://www.reddit.com/r/robotics/comments/1sni77k/how_to_using_coding_agents_for_robotics_sim/)**
 
-From May to July I will be able to give full time on my drone project I want to build an autonomous quadcopter which follows the target I want to start cheap rather than buying expensive components I want to learn while building so I want suggestions on what things should I learn components I will require (budget friendly)
+I work in robotics, so I face issues in using simulator and when testing on actual hardware. Claude code did fairly well when I had a starter working setup in ros and gazebo. But I am trying it in mujoco to build environments and it doesn't work that well. Also when setting up conda environment my agent got stuck in a loop. How can I make environments using claude code completely? Is that even a right thing to do? PS: I am using claude code pro right now in CLI in cursor How to get better at using claude code and coding agents in general? And I mean everything from writing better prompts for planning, debugging but also learning the addons like skills and knowing when and how to leverage that. Would appreciate basic suggestion to extremely crazy ones that work too!
 
-1h ago
+57m ago
+
+---
+
+**[I gave Reachy Mini a custom 3D printed outfit, then built and deployed a live object detection app on her camera.](https://www.reddit.com/r/robotics/comments/1sn30om/i_gave_reachy_mini_a_custom_3d_printed_outfit/)**
+
+10h ago
 
 ---
 
@@ -92,25 +106,17 @@ From Reflex Robotics on 𝕏: https://x.com/ReflexRobot/status/20441541141085432
 
 ---
 
-**[Pick an object with camera via TIA](https://www.reddit.com/r/robotics/comments/1sn7b1t/pick_an_object_with_camera_via_tia/)**
-
-I have a question for everyone understanding TIA, UR-Robots and cameras. In my use case, there is a Camera (Wenglor vision sensor) that gives me back values for X, Y and RZ. I want to use these in Tia to communicate them to the robot in order to pick the object. A connection using Lan is not possible, therefor I use Rte. However, if I use Rte, the ur can't communicate with the camera and I have to use the plc as an translator, but the easiest way (URCap "detect object") isn't possible anymore. So now to the application: I have a robot thats supposed to find an object over the camera. After picking it up, it checks the object with another camera Programm for a code and stores the code. That part already works because I directly use the plc to cam. No robot involved. So there is two parts of the Programm, using the same camera. I already calibrated the robot to the camera. I get the return values X, Y and RZ and need to add them to the Robot base coordinate. Then I can hand over these values to the robot and pick the item. In theory the idea is simple, in reality it's really hard. Has anyone ever done something similar and can help me out? Or are there other ideas?
-
-6h ago
-
----
-
-**[Looking for advice on sub-millimeter robot arm accuracy](https://www.reddit.com/r/robotics/comments/1sn0o7g/looking_for_advice_on_submillimeter_robot_arm/)**
-
-Hello, I am implementing a full joint impedance controller on a factory robot arm (with feedforward coriolus, mass matrix, gravity comp, and friction comp). It works well, up to about 0.2 deg accuracy due to low gains (which I want) and static friction deadband. If I increase the coulomb friction compensation I introduce small high-frequency oscillations. My ideas to solve this are either some secondary low amplitude damping term that allows me to increase friction comp and damp out its oscillations, or add some clipped/gated integral term. I was wondering if anyone has chased steady state error to ~0.01 deg and if either of my above ideas are standard in industry. Note I really just care about decreasing the error of my sensed versus realized joint angles, and I am not too concerned with hardware tolerances/physical accuracy. I more so just want my realized joint values to be within 0.01deg of my commanded, and I don’t want to increase my P gain. Any advice as to what’s happening under the hood on these sub-mm controllers would be greatly appreciated.
-
-10h ago
-
----
-
 ---
 
 ## Google News: "robotics"
+
+**[Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught](https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/)**
+
+The new model, called π0.7, represents what the company describes as an early but meaningful step toward the long-sought goal of a general-purpose robot brain.
+
+TechCrunch • 2h ago
+
+---
 
 **[Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning](https://deepmind.google/blog/gemini-robotics-er-1-6/)**
 
@@ -120,57 +126,23 @@ Google DeepMind • 2d ago
 
 ---
 
-**[Boston Dynamics’ robot dog now reads gauges and thermometers with Google’s AI](https://arstechnica.com/ai/2026/04/robot-dogs-now-read-gauges-and-thermometers-using-google-gemini/)**
+**[Opinion | Unsure about companion robots for seniors? Here’s why some can’t wait.](https://www.washingtonpost.com/opinions/2026/04/16/ai-powered-robots-seniors-make-some-uncomfortable-not-all/)**
 
-Google's AI enables robots to read gauges while inspecting industrial facilities.
+Many readers were horrified by the idea of robots helping older adults — but not all.
 
-Ars Technica • 1d ago
-
----
-
-**[Tools for Your To Do List with Spot and Gemini Robotics](https://bostondynamics.com/blog/tools-for-your-to-do-list-with-spot-and-gemini-robotics/)**
-
-A recent demo shows Boston Dynamics Spot in a residential home, using Google’s visual-language model (VLM) Gemini Robotics-ER 1.5 for embodied reasoning.
-
-Boston Dynamics • 2d ago
+The Washington Post • 1h ago
 
 ---
 
-**[Skild AI Acquires Zebra Technologies' Robotics Automation Business](https://www.businesswire.com/news/home/20260415518240/en/Skild-AI-Acquires-Zebra-Technologies-Robotics-Automation-Business)**
+**[First state robotics championship starts tomorrow](https://www.channel3000.com/video/first-state-robotics-championship-starts-tomorrow/video_ff712bed-107b-5562-be3a-d326917a6de1.html)**
 
-Skild AI today announced the acquisition of Zebra Technologies' Robotics Automation business, including its Symmetry Fulfillment orchestration platform. This...
-
-Business Wire • 1d ago
-
----
-
-**[Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught](https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/)**
-
-The new model, called π0.7, represents what the company describes as an early but meaningful step toward the long-sought goal of a general-purpose robot brain.
-
-TechCrunch • 1h ago
-
----
-
-**[Sounds from robotics competition mistaken for gunfire, no active shooter on FAMU campus](https://www.wctv.tv/2026/04/16/sounds-robotics-competition-mistaken-gunfire-no-active-shooter-famu-campus/)**
-
-Sounds from a robotics competition hosted on Florida A&M’s campus were mistaken for gunfire Wednesday afternoon.
-
-WCTV • 3h ago
-
----
-
-**[TPD: Sounds from robotics competition mistaken for gunfire, no active shooter on FAMU campus](https://www.wctv.tv/2026/04/16/tpd-sounds-robotics-competition-mistaken-gunfire-no-active-shooter-famu-campus/)**
-
-Sounds from a robotics competition hosted on Florida A&M’s campus were mistaken for gunfire Wednesday afternoon.
-
-WCTV • 3h ago
+Channel 3000 • 1h ago
 
 ---
 
 **[Grab Looks to AI Robots to Deliver Your Meal](https://www.wsj.com/tech/ai/grab-looks-to-ai-robots-to-deliver-your-meal-819caf01)**
 
-WSJ • 10h ago
+WSJ • 12h ago
 
 ---
 
@@ -182,11 +154,35 @@ Live Science • 1d ago
 
 ---
 
-**[Russians will surrender to robots. Russian robots won’t.](https://www.defenseone.com/technology/2026/04/russians-will-surrender-robots-russian-robots-wont/412889/)**
+**[Robots crack jokes and grasp items at Humanoid Robot Expo in Tokyo](https://apnews.com/video/humanoid-robots-crack-jokes-and-grasp-items-at-humanoid-robot-expo-in-tokyo-8be83603b1964e2ab90bb506cc4e5860)**
 
-After a historic first, communications and navigation still obstruct the future for roboticized ground assault.
+They can dance and they're good at doing repetitive work we humans tire of, but the big question at the Tokyo Expo is when will the humanoids be able to look after us at home.
 
-Defense One • 19h ago
+AP News • 13h ago
+
+---
+
+**[What can China’s next generation of robots do?](https://www.euronews.com/next/2026/04/15/what-can-chinas-next-generation-of-robots-do)**
+
+At Hong Kong’s InnoEx fair, Chinese firms showcased humanoid robots that box, guide tours, dance on stage and promise emotional support and learning.
+
+Euronews • 1d ago
+
+---
+
+**[Skild AI Acquires Zebra Technologies' Robotics Automation Business](https://www.businesswire.com/news/home/20260415518240/en/Skild-AI-Acquires-Zebra-Technologies-Robotics-Automation-Business)**
+
+Skild AI today announced the acquisition of Zebra Technologies' Robotics Automation business, including its Symmetry Fulfillment orchestration platform. This...
+
+Business Wire • 1d ago
+
+---
+
+**[TPD: Sounds from robotics competition mistaken for gunfire, no active shooter on FAMU campus](https://www.wctv.tv/2026/04/16/tpd-sounds-robotics-competition-mistaken-gunfire-no-active-shooter-famu-campus/)**
+
+Sounds from a robotics competition hosted on Florida A&M’s campus were mistaken for gunfire Wednesday afternoon.
+
+WCTV • 4h ago
 
 ---
 
@@ -200,27 +196,7 @@ Boston Dynamics just did what most people thought would take years longer. Atlas
 
 📺 AI Revolution
 
-👁️ 94K • 👍 2K • 💬 155 • ⏱️ 21:49 • 2d ago
-
----
-
-**[Ukrainian president says robots captured territory from Russian soldiers](https://www.youtube.com/watch?v=XiGwWwcnT7M)**
-
-President Zelenskyy says that for the first time ever, the Ukrainian army was able to use only robots to retake territory from Russian ...
-
-📺 NBC News
-
-👁️ 324K • 👍 5K • 💬 1K • ⏱️ 3:12 • 21h ago
-
----
-
-**[Chinese humanoid robots prepare for second-ever half marathon in Beijing](https://www.youtube.com/watch?v=aKYxLWqw8ZQ)**
-
-Chinese humanoid robots train to go head-to-head with human runners in the second-ever Beijing half marathon. NBC News' ...
-
-📺 NBC News
-
-👁️ 146K • 👍 1K • 💬 401 • ⏱️ 1:59 • 2d ago
+👁️ 97K • 👍 2K • 💬 159 • ⏱️ 21:49 • 2d ago
 
 ---
 
@@ -230,7 +206,17 @@ Terminator is about to become real?! If you want to help support independent jou
 
 📺 Benny Johnson
 
-👁️ 223K • 👍 15K • 💬 2K • ⏱️ 11:20 • 1d ago
+👁️ 224K • 👍 15K • 💬 2K • ⏱️ 11:20 • 2d ago
+
+---
+
+**[Chinese humanoid robots prepare for second-ever half marathon in Beijing](https://www.youtube.com/watch?v=aKYxLWqw8ZQ)**
+
+Chinese humanoid robots train to go head-to-head with human runners in the second-ever Beijing half marathon. NBC News' ...
+
+📺 NBC News
+
+👁️ 149K • 👍 1K • 💬 407 • ⏱️ 1:59 • 2d ago
 
 ---
 
@@ -240,7 +226,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 66K • 👍 2K • 💬 267 • ⏱️ 4:16 • 2d ago
+👁️ 69K • 👍 2K • 💬 280 • ⏱️ 4:16 • 2d ago
 
 ---
 
@@ -250,7 +236,17 @@ A new wave of attention is building around Elon Musk's latest version of the Tes
 
 📺 Carros Show
 
-👁️ 18K • 👍 377 • 💬 57 • ⏱️ 8:01 • 3d ago
+👁️ 18K • 👍 382 • 💬 62 • ⏱️ 8:01 • 3d ago
+
+---
+
+**[Ukrainian president says robots captured territory from Russian soldiers](https://www.youtube.com/watch?v=XiGwWwcnT7M)**
+
+President Zelenskyy says that for the first time ever, the Ukrainian army was able to use only robots to retake territory from Russian ...
+
+📺 NBC News
+
+👁️ 341K • 👍 5K • 💬 1K • ⏱️ 3:12 • 22h ago
 
 ---
 
@@ -260,7 +256,17 @@ Now this is a sight that wasn't on our Bingo card. A humanoid robot named Edward
 
 📺 Inside Edition
 
-👁️ 95K • 👍 3K • 💬 581 • ⏱️ 1:07 • 1d ago
+👁️ 103K • 👍 3K • 💬 633 • ⏱️ 1:07 • 1d ago
+
+---
+
+**[New AI Robot Is Starting to Feel Human (Artificial Humans Are Here)](https://www.youtube.com/watch?v=HOgCL8lKuDc)**
+
+Try Seedance 2.0 with Claude on Higgsfield: https://higgsfield.ai/s/seedance-2-0-airevolutionx-LDckkB Realbotix just launched ...
+
+📺 AI Revolution
+
+👁️ 99K • 👍 2K • 💬 182 • ⏱️ 14:57 • 4d ago
 
 ---
 
@@ -274,23 +280,13 @@ A humanoid robot just sprinted at ten meters per second on an open track — no 
 
 ---
 
-**[New AI Robot Is Starting to Feel Human (Artificial Humans Are Here)](https://www.youtube.com/watch?v=HOgCL8lKuDc)**
+**[MORNING BUZZ: Humanoid robot goes viral for chasing off wild boars in Poland](https://www.youtube.com/watch?v=0szaFknQGOk)**
 
-Try Seedance 2.0 with Claude on Higgsfield: https://higgsfield.ai/s/seedance-2-0-airevolutionx-LDckkB Realbotix just launched ...
+WARSAW, POLAND (WCIV) — No it's not Science Fiction, and it's surprisingly not AI. A Polish humanoid robot is going viral ...
 
-📺 AI Revolution
+📺 ABC News 4
 
-👁️ 98K • 👍 2K • 💬 180 • ⏱️ 14:57 • 4d ago
-
----
-
-**[HOW BROKEN is the New Robot VECTOR really? [War Robots]](https://www.youtube.com/watch?v=3ilgFXJx-j0)**
-
-War Robots Gameplay: New Update Robot: VECTOR - how broken is it? My War Robots Creator Link: https://wr.my.games/manni ...
-
-📺 Manni-Gaming
-
-👁️ 5K • 👍 375 • 💬 67 • ⏱️ 20:12 • 9h ago
+👁️ 2K • 👍 14 • 💬 1 • ⏱️ 2:22 • 1d ago
 
 ---
 
