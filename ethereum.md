@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-16T02:45:22.719250+00:00'
+updated: '2026-04-16T05:32:18.920159+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
+- social
 - videos
 - cryptocurrency
-- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 16, 2026 at 02:45 UTC  
+**Last Updated:** April 16, 2026 at 05:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,43 +36,51 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,367.18
+### $2,357.64
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.6%  
-**7d:** +5.4%  
-**30d:** +7.3%  
-**90d:** -28.5%  
-**1y:** +49.6%  
+**24h:** +1.8%  
+**7d:** +5.0%  
+**30d:** +6.9%  
+**90d:** -28.8%  
+**1y:** +49.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $285.45B
+**Market Cap:** $284.62B
 Rank #2
 
 **Circulating Supply:** 120,690,932 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--52.1%
+-52.3%
 
 **All-Time Low:** $0.43
-+546667.9%
++544559.2%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion April 16, 2026](https://www.reddit.com/r/ethereum/comments/1smtw3t/daily_general_discussion_april_16_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+31m ago
+
+---
+
 **[Daily General Discussion April 15, 2026](https://www.reddit.com/r/ethereum/comments/1slwfew/daily_general_discussion_april_15_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-21h ago
+1d ago
 
 ---
 
@@ -96,7 +104,7 @@ Man I was looking at some recent governance votes across a few protocols and the
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -110,7 +118,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -136,21 +144,13 @@ I permanently lost $2,000 USD value trying to stake via direct contract interact
 
 ---
 
-**[What actually happens under the hood when calldata hits the EVM (Execution Flow Breakdown)](https://www.reddit.com/r/ethereum/comments/1sjqdwd/what_actually_happens_under_the_hood_when/)**
-
-There’s a lot of focus lately on calldata in the context of rollups and EIP-2028 gas economics (16 vs 4 gas per byte). While data availability is important, I often see the actual low-level execution mechanics get glossed over. I wrote a deep dive on EVM internals covering this exact topic. If you've ever wondered what happens at the opcode level the millisecond your transaction payload hits a smart contract, here is the actual lifecycle of calldata: The Raw Byte Handoff & The 4-Byte Check When a transaction is sent, the EVM doesn't understand "functions" or "parameters", it just sees a raw hex-encoded blob in a read-only area called calldata. Before anything else, the EVM checks the length of this data: The Function Dispatcher (The EVM's Switchboard) If there is data, the EVM runs the dispatcher essentially a giant, compiler-generated switch/case statement: If it finds a match, it uses JUMPI to move the Program Counter to that specific block of code. ABI Decoding & Stack Loading Once the EVM jumps to the right function, it has to "unpack" the arguments: Dynamic Types (string, bytes[]): The calldata contains an offset (a pointer). The EVM reads this offset, jumps to that position in the calldata, reads the length prefix, and then processes the actual data. The payable Word Before executing any actual business logic, the EVM checks the callvalue (msg.value). If the target function is not explicitly marked as payable, but the transaction includes ETH, the EVM triggers a REVERT right here. This prevents trapped funds and happens before your code even starts running. memory vs. calldata Execution This is where the famous gas savings come in during execution: If a function parameter is declared as memory, the EVM is forced to use CALLDATACOPY to move the read-only bytes into mutable memory. This triggers memory expansion gas costs. If declared as calldata, the EVM skips the copy process entirely. It just uses CALLDATALOAD to read directly from the original transaction payload, saving you the memory expansion overhead. source/deep dive overview: https://andreyobruchkov1996.substack.com/p/what-actually-happens-when-calldata
-
-3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
 
 **[Bitmine Reports $3.8 Billion Loss As Ethereum Sinks](https://finance.yahoo.com/news/bitmine-reports-3-8-billion-125000138.html)**
 
-Yahoo Finance • 13h ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -158,7 +158,7 @@ Yahoo Finance • 13h ago
 
 The largest corporate ether holder posted a $3.8 billion quarterly loss as its pivot from mining to ETH accumulation continues.
 
-CoinDesk • 14h ago
+CoinDesk • 16h ago
 
 ---
 
@@ -170,17 +170,11 @@ PR Newswire • 2d ago
 
 ---
 
-**[XRP Has Unique Advantages Over Bitcoin, Ethereum, Trader Argues](https://finance.yahoo.com/markets/crypto/articles/xrp-unique-advantages-over-bitcoin-003107877.html)**
+**[Ethereum Price Gears Up, Another Increase Could Be Imminent](https://www.tradingview.com/news/newsbtc:aa3e228bf094b:0-ethereum-price-gears-up-another-increase-could-be-imminent/)**
 
-XRP is emerging as a preferred asset, with traders arguing its long-term potential lies in its role within global payments and evolving financial infrastructure. Positioned for Growth Without Dominance In his Apr.13 podcast, trader Cryptoinsightuk said XRP doesn't need to...
+Ethereum price started a fresh increase and remained stable above $2,320. ETH is now consolidating and might aim for more gains if it clears $2,380.Ethereum Price Aims Fresh IncreaseEthereum price managed to stay above the $2,220 support and started a fresh increase, like Bitcoin. ETH price gained…
 
-Yahoo Finance • 2h ago
-
----
-
-**[Bitcoin, XRP, Ethereum Fall. Iran Peace Failure Causes a Crypto Headache.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-iran-crypto-46d858c6)**
-
-Barron's • 2d ago
+TradingView — Track All Markets • 2h ago
 
 ---
 
@@ -192,11 +186,9 @@ The Block • 1d ago
 
 ---
 
-**[Ethereum Shorts Pile Up On Binance As Squeeze Risk Grows](https://www.tradingview.com/news/newsbtc:fe515b4c6094b:0-ethereum-shorts-pile-up-on-binance-as-squeeze-risk-grows/)**
+**[Bitcoin, XRP, Ethereum Fall. Iran Peace Failure Causes a Crypto Headache.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-iran-crypto-46d858c6)**
 
-Ethereum’s derivatives market on Binance is flashing a setup that could leave short sellers exposed if the recent move higher continues. According to analysis shared on X by CryptoQuant contributor Darkfost, positioning has become increasingly one-sided even as ETH has rebounded sharply from its Fe…
-
-TradingView — Track All Markets • 16h ago
+Barron's • 2d ago
 
 ---
 
@@ -208,17 +200,25 @@ Decrypt • 2d ago
 
 ---
 
-**[Ethereum absorbs $8.4B – But stablecoin activity is moving elsewhere](https://ambcrypto.com/?p=589331)**
+**[Current price of Ethereum for April 15, 2026](https://fortune.com/article/price-of-ethereum-04-15-2026/)**
 
-AMBCrypto • 3h ago
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 16h ago
 
 ---
 
-**[Crypto News: Pepeto Reveals DeFi Update And Ethereum Price Aims Higher as Bull Run Signals Build](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-reveals-defi-update-and-ethereum-price-aims-higher-as-bull-run-signals-build-1036023348)**
+**[Ripple CEO Brad Garlinghouse Bets Big on XRP Flipping Ethereum](https://coinpaper.com/16228/ripple-ceo-brad-garlinghouse-bets-big-on-xrp-flipping-ethereum)**
 
-Dubai, UAE, April  15, 2026  (GLOBE NEWSWIRE) -- Ethereum based crypto Pepeto announces continuous advancement of the Defi tools, tools that aim t...
+Ripple CEO Brad Garlinghouse says XRP could challenge Ethereum for the #2 crypto spot, driven by real-world cross-border payment utility.
 
-markets.businessinsider.com • 19h ago
+Coinpaper • 1d ago
+
+---
+
+**[Ethereum absorbs $8.4B – But stablecoin activity is moving elsewhere](https://ambcrypto.com/?p=589331)**
+
+AMBCrypto • 6h ago
 
 ---
 
@@ -232,27 +232,7 @@ Buy Ethereum? CRYPTO RETIREMENT ACCOUNT HERE Sign up for iTrustCapital and get a
 
 📺 Crypto Jebb
 
-👁️ 3K • 👍 197 • 💬 131 • ⏱️ 14:10 • 8h ago
-
----
-
-**[Ethereum Analysis: How High Can This Bounce Actually Go?](https://www.youtube.com/watch?v=2Vs2aLFcCWY)**
-
-Ethereum is moving higher in a corrective bounce and approaching a major resistance cluster. In this video I walk through the ...
-
-📺 More Crypto Online
-
-👁️ 895 • 👍 103 • 💬 8 • ⏱️ 9:49 • 2h ago
-
----
-
-**[URGENT $60,000 Ethereum Incoming Despite Crypto Clarity Delay $120M flows to XRP!](https://www.youtube.com/watch?v=jFuYQZuHFgw)**
-
-URGENT $60000 Ethereum Incoming Despite Crypto Clarity Delay $120M flows to XRP! ether.fi (Partner) ...
-
-📺 CryptoWendyO
-
-👁️ 5K • 👍 390 • 💬 23 • ⏱️ 32:36 • 8h ago
+👁️ 4K • 👍 217 • 💬 134 • ⏱️ 14:10 • 11h ago
 
 ---
 
@@ -262,7 +242,27 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 3K • 👍 195 • 💬 11 • ⏱️ 14:46 • 10h ago
+👁️ 4K • 👍 209 • 💬 12 • ⏱️ 14:46 • 13h ago
+
+---
+
+**[BITCOIN &amp; STOCKS BREAKING OUT (All Time Highs)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=wLOLkVRFAHU)**
+
+BITCOIN & STOCKS BREAKING OUT (All Time Highs)!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
+
+📺 Crypto World
+
+👁️ 898 • 👍 75 • 💬 16 • ⏱️ 23:10 • 1h ago
+
+---
+
+**[Ethereum Analysis: How High Can This Bounce Actually Go?](https://www.youtube.com/watch?v=2Vs2aLFcCWY)**
+
+Ethereum is moving higher in a corrective bounce and approaching a major resistance cluster. In this video I walk through the ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 186 • 💬 13 • ⏱️ 9:49 • 5h ago
 
 ---
 
@@ -272,17 +272,17 @@ Michael Saylor's Ethereum view has changed. Bitcoin is digital capital. Ethereum
 
 📺 Bankless
 
-👁️ 1K • 👍 55 • 💬 3 • ⏱️ 1:17 • 4h ago
+👁️ 2K • 👍 68 • 💬 4 • ⏱️ 1:17 • 7h ago
 
 ---
 
-**[If You Hold Altcoins You NEED To Watch This Closely.](https://www.youtube.com/watch?v=ONDvSJKWo9c)**
+**[URGENT $60,000 Ethereum Incoming Despite Crypto Clarity Delay $120M flows to XRP!](https://www.youtube.com/watch?v=jFuYQZuHFgw)**
 
-Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ Deposit from $100: Get a 1% bonus ✔️ Withdraw anytime ...
+URGENT $60000 Ethereum Incoming Despite Crypto Clarity Delay $120M flows to XRP! ether.fi (Partner) ...
 
-📺 Tyler Hill Crypto
+📺 CryptoWendyO
 
-👁️ 4K • 👍 244 • 💬 110 • ⏱️ 11:55 • 13h ago
+👁️ 6K • 👍 412 • 💬 23 • ⏱️ 32:36 • 11h ago
 
 ---
 
@@ -292,27 +292,7 @@ Companies over the course of 2026 have been all but frothing at the mouth trying
 
 📺 The Modern Investor
 
-👁️ 6K • 👍 712 • 💬 428 • ⏱️ 29:08 • 16h ago
-
----
-
-**[Ethereum PROFIT Incoming: Our Trading Strategy After The Crash](https://www.youtube.com/watch?v=WfgNGL43DeI)**
-
-Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
-
-📺 Trade Confident
-
-👁️ 192 • 👍 13 • 💬 3 • ⏱️ 4:49 • 6h ago
-
----
-
-**[XRP, Bitcoin, Ethereum EXPLODING: How I Turned $5,000 Into $1M (Almost) Martyn Lucas Investor](https://www.youtube.com/watch?v=Lm3bFjChKJY)**
-
-XRP, Bitcoin, Ethereum EXPLODING: How I Turned $5000 Into $1M (Almost) ALL of Martyn's Trades on Discord Includes 1 on 1 ...
-
-📺 Martyn Lucas INVESTOR
-
-👁️ 1K • 👍 106 • 💬 5 • ⏱️ 14:26 • 5h ago
+👁️ 6K • 👍 723 • 💬 428 • ⏱️ 29:08 • 19h ago
 
 ---
 
@@ -322,7 +302,27 @@ We're diving into the latest "xrp news today" as extreme "xrp price" targets, ra
 
 📺 Ripple Moon Watch
 
-👁️ 3K • 👍 191 • 💬 63 • ⏱️ 19:27 • 13h ago
+👁️ 3K • 👍 197 • 💬 66 • ⏱️ 19:27 • 16h ago
+
+---
+
+**[If You Hold Altcoins You NEED To Watch This Closely.](https://www.youtube.com/watch?v=ONDvSJKWo9c)**
+
+Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ Deposit from $100: Get a 1% bonus ✔️ Withdraw anytime ...
+
+📺 Tyler Hill Crypto
+
+👁️ 4K • 👍 250 • 💬 125 • ⏱️ 11:55 • 16h ago
+
+---
+
+**[🔴 Ethereum Is Finally Breaking Out – Next Target $3,000?](https://www.youtube.com/watch?v=EzqGrq9CQOo)**
+
+BloFin - No KYC/No VPN needed [Trade ETH Coin Futures!] https://marzell.org/Blofin_Trade CoinGPT ...
+
+📺 Marzell Crypto
+
+👁️ 859 • 👍 31 • 💬 88 • ⏱️ 5:01 • 2d ago
 
 ---
 
