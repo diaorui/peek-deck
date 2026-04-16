@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-16T10:45:49.045749+00:00'
+updated: '2026-04-16T11:59:16.417931+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
-- cryptocurrency
 - news
+- social
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 16, 2026 at 10:45 UTC  
+**Last Updated:** April 16, 2026 at 11:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,15 +36,15 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,332.54
+### $2,335.61
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
+**24h:** +0.0%  
 **7d:** +4.0%  
-**30d:** +5.8%  
+**30d:** +5.9%  
 **90d:** -29.5%  
 **1y:** +47.6%  
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+6h ago
 
 ---
 
@@ -150,7 +150,7 @@ I permanently lost $2,000 USD value trying to stake via direct contract interact
 
 **[Bitmine Reports $3.8 Billion Loss As Ethereum Sinks](https://finance.yahoo.com/news/bitmine-reports-3-8-billion-125000138.html)**
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -170,29 +170,25 @@ PR Newswire • 2d ago
 
 ---
 
-**[Ethereum Price Prediction: ETH USD is 2% Between Make or Break](https://www.binance.com/en/square/post/313101070262049)**
+**[Ripple CEO Brad Garlinghouse Bets Big on XRP Flipping Ethereum](https://coinpaper.com/16228/ripple-ceo-brad-garlinghouse-bets-big-on-xrp-flipping-ethereum)**
 
-Binance • 1h ago
+Ripple CEO Brad Garlinghouse says XRP could challenge Ethereum for the #2 crypto spot, driven by real-world cross-border payment utility.
 
----
-
-**[Ethereum Analysis: How High Can This Bounce Actually Go $BTC $ETH $BNB](https://www.binance.com/en/square/post/313054977695089)**
-
-Binance • 4h ago
+Coinpaper • 1d ago
 
 ---
 
 **[Bitcoin Nears $75,000 as Ethereum, XRP Rally. How Cryptos Can Break Out.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-cryptos-today-351ec782)**
 
-Barron's • 1h ago
+Barron's • 2h ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Tuesday, April 14, 2026: Prices rebound despite U.S. blockade in the Middle East](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-april-14-2026-prices-rebound-despite-us-blockade-in-the-middle-east-112122301.html)**
+**[Bitcoin and ethereum price today, Thursday, April 16, 2026: Prices hold amid profit-taking and cautious outlook](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-thursday-april-16-2026-prices-hold-amid-profit-taking-and-cautious-outlook-111641743.html)**
 
-​​Bitcoin (BTC-USD) opened at $74,442.23 and ethereum (ETH-USD) opened at $2,369.90. Bitcoin was up 5.2% and ethereum was up 8.1% from Monday's open.
+Bitcoin (BTC-USD) opened at $74,813.22 and ethereum (ETH-USD) opened at $2,359.95 on Thursday. Both cryptos dipped in early trading.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 42m ago
 
 ---
 
@@ -204,19 +200,23 @@ CoinDesk • 1d ago
 
 ---
 
+**[Ethereum-Based NFT Platform Halts Operations](https://www.binance.com/en/square/post/313104964782738)**
+
+Binance • 2h ago
+
+---
+
+**[Ethereum Price Prediction: ETH USD is 2% Between Make or Break](https://www.binance.com/en/square/post/313101070262049)**
+
+Binance • 2h ago
+
+---
+
 **[Ethereum Foundation unveils $1M audit subsidy program to boost crypto security and cut costs for builders](https://www.coindesk.com/tech/2026/04/14/ethereum-foundation-unveils-usd1m-audit-subsidy-program-to-boost-crypto-security-and-cut-costs-for-builders)**
 
 The organization unveiled a new initiative aimed at tackling a persistent challenge in crypto development—the high cost of smart contract security audits.
 
 CoinDesk • 1d ago
-
----
-
-**[Ondo seeks SEC clearance for tokenized equities model on Ethereum](https://www.theblock.co/post/397258/ondo-seeks-sec-clearance-tokenized-equities-model-ethereum)**
-
-The SEC is signaling openness to tokenization, encouraging firms to engage directly as it fine-tunes regulations.
-
-The Block • 2d ago
 
 ---
 
@@ -230,7 +230,7 @@ Buy Ethereum? CRYPTO RETIREMENT ACCOUNT HERE Sign up for iTrustCapital and get a
 
 📺 Crypto Jebb
 
-👁️ 4K • 👍 228 • 💬 127 • ⏱️ 14:10 • 16h ago
+👁️ 4K • 👍 228 • 💬 127 • ⏱️ 14:10 • 17h ago
 
 ---
 
@@ -240,7 +240,7 @@ Being in crypto right now feels like being in some elaborate fever dream. Bitcoi
 
 📺 The Modern Investor
 
-👁️ 1K • 👍 203 • 💬 33 • ⏱️ 29:17 • 1h ago
+👁️ 1K • 👍 203 • 💬 33 • ⏱️ 29:17 • 2h ago
 
 ---
 
@@ -250,7 +250,7 @@ Ethereum is moving higher in a corrective bounce and approaching a major resista
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 280 • 💬 17 • ⏱️ 9:49 • 10h ago
+👁️ 3K • 👍 280 • 💬 17 • ⏱️ 9:49 • 11h ago
 
 ---
 
@@ -260,7 +260,7 @@ URGENT $60000 Ethereum Incoming Despite Crypto Clarity Delay $120M flows to XRP!
 
 📺 CryptoWendyO
 
-👁️ 6K • 👍 422 • 💬 40 • ⏱️ 32:36 • 16h ago
+👁️ 6K • 👍 422 • 💬 40 • ⏱️ 32:36 • 17h ago
 
 ---
 
@@ -270,7 +270,7 @@ Michael Saylor's Ethereum view has changed. Bitcoin is digital capital. Ethereum
 
 📺 Bankless
 
-👁️ 3K • 👍 83 • 💬 29 • ⏱️ 1:17 • 12h ago
+👁️ 3K • 👍 83 • 💬 29 • ⏱️ 1:17 • 13h ago
 
 ---
 
@@ -280,7 +280,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 47 • 👍 7 • 💬 1 • ⏱️ 5:03 • 1h ago
+👁️ 47 • 👍 7 • 💬 1 • ⏱️ 5:03 • 2h ago
 
 ---
 
@@ -290,7 +290,7 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 4K • 👍 256 • 💬 124 • ⏱️ 11:55 • 21h ago
+👁️ 4K • 👍 256 • 💬 124 • ⏱️ 11:55 • 22h ago
 
 ---
 
@@ -300,7 +300,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 4K • 👍 227 • 💬 13 • ⏱️ 14:46 • 18h ago
+👁️ 4K • 👍 227 • 💬 13 • ⏱️ 14:46 • 19h ago
 
 ---
 
@@ -310,7 +310,7 @@ BITCOIN & STOCKS BREAKING OUT (All Time Highs)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 4K • 👍 204 • 💬 104 • ⏱️ 23:10 • 6h ago
+👁️ 4K • 👍 204 • 💬 104 • ⏱️ 23:10 • 7h ago
 
 ---
 

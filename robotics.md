@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-16T10:45:49.048971+00:00'
+updated: '2026-04-16T11:59:16.421051+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 16, 2026 at 10:45 UTC  
+**Last Updated:** April 16, 2026 at 11:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From The Humanoid Hub on 𝕏: https://x.com/TheHumanoidHub/status/2044504579480686900
 
-1h ago
+3h ago
 
 ---
 
@@ -52,13 +52,13 @@ From Reflex Robotics on 𝕏: https://x.com/ReflexRobot/status/20441541141085432
 
 Teleoperation through a ps5 controller, powered by ROS2 and an stm32. Honestly not too happy with it but this is my first robot ever, wanted to challenge myself. Too much vibration and shaky teleop.
 
-17h ago
+19h ago
 
 ---
 
 **[Debugging robots with ReductStore and Foxglove](https://www.reddit.com/r/robotics/comments/1smx37u/debugging_robots_with_reductstore_and_foxglove/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -72,7 +72,15 @@ Teleoperation through a ps5 controller, powered by ROS2 and an stm32. Honestly n
 
 l get a dtof lidar, l want to use it on my drone for obstacles avoidance. today, l make a simple test on its point cloud and depth map, it's great ! Share the test results with you. And the code with open source on the github later,
 
-18h ago
+20h ago
+
+---
+
+**[Looking for advice on sub-millimeter robot arm accuracy](https://www.reddit.com/r/robotics/comments/1sn0o7g/looking_for_advice_on_submillimeter_robot_arm/)**
+
+Hello, I am implementing a full joint impedance controller on a factory robot arm (with feedforward coriolus, mass matrix, gravity comp, and friction comp). It works well, up to about 0.2 deg accuracy due to low gains (which I want) and static friction deadband. If I increase the coulomb friction compensation I introduce small high-frequency oscillations. My ideas to solve this are either some secondary low amplitude damping term that allows me to increase friction comp and damp out its oscillations, or add some clipped/gated integral term. I was wondering if anyone has chased steady state error to ~0.01 deg and if either of my above ideas are standard in industry. Note I really just care about decreasing the error of my sensed versus realized joint angles, and I am not too concerned with hardware tolerances/physical accuracy. I more so just want my realized joint values to be within 0.01deg of my commanded, and I don’t want to increase my P gain. Any advice as to what’s happening under the hood on these sub-mm controllers would be greatly appreciated.
+
+34m ago
 
 ---
 
@@ -80,7 +88,7 @@ l get a dtof lidar, l want to use it on my drone for obstacles avoidance. today,
 
 Ukraine's defense ministry said that its forces tripled UGV missions since November to over 9,000 tasks in March alone.
 
-🔗 [Business Insider](https://www.businessinsider.com/ukraine-ground-robots-troops-uncrewed-ground-vehicles-first-quarter-2026-4) • 22h ago
+🔗 [Business Insider](https://www.businessinsider.com/ukraine-ground-robots-troops-uncrewed-ground-vehicles-first-quarter-2026-4) • 1d ago
 
 ---
 
@@ -88,15 +96,7 @@ Ukraine's defense ministry said that its forces tripled UGV missions since Novem
 
 The right side is showing a brain visualizer where you can see the neural activity controlling the arm. By interacting with the cortical areas in the visualizer, the Franka Panda arm on the left responds in real-time. This was done without any code using FEAGI, an open-source neurorobotics platform that uses spiking neural networks.
 
-12h ago
-
----
-
-**[Google DeepMind launches Gemini Robotics ER 1.6, a reasoning-first model that enables robots to understand environments through spatial reasoning and multi-view understanding](https://www.reddit.com/r/robotics/comments/1sltawg/google_deepmind_launches_gemini_robotics_er_16_a/)**
-
-Blog post: Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning: https://deepmind.google/blog/gemini-robotics-er-1-6/ From Google DeepMind on 𝕏: https://x.com/GoogleDeepMind/status/2044069878781390929
-
-1d ago
+13h ago
 
 ---
 
@@ -104,7 +104,7 @@ Blog post: Gemini Robotics-ER 1.6: Powering real-world robotics tasks through en
 
 The architecture is a dual system: → Gemini Robotics-ER 1.6: the "strategist" — spatial reasoning, object counting, instrument reading, task verification → Gemini Robotics 1.5 (VLA): executes motor commands The instrument reading jump (23%- 93%) comes from agentic vision — the model iterates visually rather than making a single-pass prediction. Current deployment: Boston Dynamics Spot reading pressure meters and sight glasses during facility inspection. The honest limitation: these demos are in controlled environments. Industrial deployment requires handling edge cases that structured tests don't surface. Full analysis: https://www.aiuniverse.news/google-deepminds-new-robot-brain-masters-reading-dials-and-understanding-space/
 
-🔗 [AI Universe](https://www.aiuniverse.news/google-deepminds-new-robot-brain-masters-reading-dials-and-understanding-space/) • 20h ago
+🔗 [AI Universe](https://www.aiuniverse.news/google-deepminds-new-robot-brain-masters-reading-dials-and-understanding-space/) • 21h ago
 
 ---
 
@@ -128,9 +128,9 @@ blog.google • 1d ago
 
 ---
 
-**[AIVI-Learning Is Now Powered by Google Gemini Robotics](https://bostondynamics.com/blog/aivi-learning-now-powered-google-gemini-robotics/)**
+**[Tools for Your To Do List with Spot and Gemini Robotics](https://bostondynamics.com/blog/tools-for-your-to-do-list-with-spot-and-gemini-robotics/)**
 
-We have partnered with Google Cloud and Google DeepMind to integrate Gemini and Gemini Robotics ER 1.6 into Orbit AIVI-Learning.
+A recent demo shows Boston Dynamics Spot in a residential home, using Google’s visual-language model (VLM) Gemini Robotics-ER 1.5 for embodied reasoning.
 
 Boston Dynamics • 1d ago
 
@@ -140,7 +140,7 @@ Boston Dynamics • 1d ago
 
 Skild AI today announced the acquisition of Zebra Technologies' Robotics Automation business, including its Symmetry Fulfillment orchestration platform. This...
 
-Business Wire • 13h ago
+Business Wire • 14h ago
 
 ---
 
@@ -152,15 +152,31 @@ politico.eu • 2d ago
 
 ---
 
+**[Russians will surrender to robots. Russian robots won’t.](https://www.defenseone.com/technology/2026/04/russians-will-surrender-robots-russian-robots-wont/412889/)**
+
+After a historic first, communications and navigation still obstruct the future for roboticized ground assault.
+
+Defense One • 9h ago
+
+---
+
+**[Ukrainian robots capture enemy position without troops in historic first, Zelenskyy says](https://www.euractiv.com/news/ukrainian-robots-capture-enemy-position-without-troops-in-historic-first-zelenskyy-says/)**
+
+"The future is already on the front line," the Ukrainian president said
+
+Euractiv • 1d ago
+
+---
+
 **[Cadence, Nvidia working together on developing AI for robotics](https://www.reuters.com/technology/cadence-nvidia-working-together-developing-ai-robotics-2026-04-15/)**
 
-Reuters • 13h ago
+Reuters • 14h ago
 
 ---
 
 **[Cadence and Nvidia (NVDA) Team Up to Train Robots Faster with AI](https://www.tipranks.com/news/cadence-and-nvidia-nvda-team-up-to-train-robots-faster-with-ai)**
 
-TipRanks • 16h ago
+TipRanks • 18h ago
 
 ---
 
@@ -168,21 +184,7 @@ TipRanks • 16h ago
 
 Cadence and Nvidia expand their AI partnership to close the sim-to-real gap in robotics, fusing physics engines with Nvidia’s Isaac and Cosmos models.
 
-The Next Web • 3h ago
-
----
-
-**[This humanoid robot does all your housework for you — and its makers say it's ready for your home](https://www.livescience.com/technology/robotics/this-humanoid-robot-does-all-your-housework-for-you-and-its-makers-say-its-ready-for-your-home)**
-
-Panther has been filmed doing basic household chores, like making the bed and cooking breakfast.
-
-Live Science • 18h ago
-
----
-
-**[Tesla’s Chinese Robot Rival Ramps Pre-IPO Global Push](https://www.bloomberg.com/news/articles/2026-04-15/tesla-s-chinese-robot-rival-ramps-up-global-push-ahead-of-ipo)**
-
-Bloomberg.com • 1d ago
+The Next Web • 4h ago
 
 ---
 
@@ -254,7 +256,7 @@ A new wave of attention is building around Elon Musk's latest version of the Tes
 
 📺 Robot Julie 
 
-👁️ 10K • 👍 50 • 💬 2 • ⏱️ 0:23 • 10h ago
+👁️ 10K • 👍 50 • 💬 2 • ⏱️ 0:23 • 11h ago
 
 ---
 
@@ -264,7 +266,7 @@ Kanal13​ #likekanal13​ #subscribekanal13 #warinukraine https://www.youtube.c
 
 📺 Kanal13
 
-👁️ 47K • 👍 1K • 💬 77 • ⏱️ 10:09 • 1d ago
+👁️ 47K • 👍 1K • 💬 77 • ⏱️ 10:09 • 2d ago
 
 ---
 
@@ -282,7 +284,7 @@ The Dyson spot+scrub ai robot vacuum is highly anticipated. We purchased one to 
 
 📺 Vacuum Nerds
 
-👁️ 6K • 👍 142 • 💬 43 • ⏱️ 13:22 • 21h ago
+👁️ 6K • 👍 142 • 💬 43 • ⏱️ 13:22 • 23h ago
 
 ---
 
