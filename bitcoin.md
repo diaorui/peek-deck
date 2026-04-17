@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-17T10:57:54.841004+00:00'
+updated: '2026-04-17T11:56:08.492667+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- social
 - news
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 17, 2026 at 10:57 UTC  
+**Last Updated:** April 17, 2026 at 11:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,13 +81,13 @@ Rank #1
 
 I unload a few shipping containers each month at my job. I usually sign the inside wall like this one I unloaded today. I’ve been doing it for years. If you ever see my note out there in the wild let me know.
 
-11h ago
+12h ago
 
 ---
 
 **[So we meet again](https://www.reddit.com/r/Bitcoin/comments/1snfwvz/so_we_meet_again/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -95,19 +95,19 @@ I unload a few shipping containers each month at my job. I usually sign the insi
 
 Should I start buying Bitcoin on another broker account?
 
-7h ago
+8h ago
 
 ---
 
 **[After putting your bitcoin in cold storage](https://www.reddit.com/r/Bitcoin/comments/1sn37ok/after_putting_your_bitcoin_in_cold_storage/)**
 
-21h ago
+22h ago
 
 ---
 
 **[Revealed](https://www.reddit.com/r/Bitcoin/comments/1sn3jb2/revealed/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -115,7 +115,7 @@ Should I start buying Bitcoin on another broker account?
 
 In early April, Bitcoin’s options market briefly snapped into risk-off mode. : Get all the latest crypto news at Sandmark
 
-🔗 [Sandmark](https://www.sandmark.com/news/analysis/bitcoin-options-move-fear-quiet-confidence) • 49m ago
+🔗 [Sandmark](https://www.sandmark.com/news/analysis/bitcoin-options-move-fear-quiet-confidence) • 1h ago
 
 ---
 
@@ -123,7 +123,7 @@ In early April, Bitcoin’s options market briefly snapped into risk-off mode. :
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-4h ago
+5h ago
 
 ---
 
@@ -131,7 +131,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 This was proposed for some time, getting more attention currently. I'm personally not a fan of freezing any coins, just trying to inform the masses. Hopefully u/statoshi will join us and explain the options. https://github.com/bitcoin/bips/blob/master/bip-0361.mediawiki There's an alternative proposal called Hourglass, introduced recently. https://github.com/cryptoquick/bips/blob/hourglass/bip-hourglass.mediawiki Adam Back advocated for optional quantum-resistant Bitcoin upgrades at Paris Blockchain Week on Wednesday, not sure about the details. https://decrypt.co/364562/adam-back-pushes-for-optional-upgrades-to-quantum-proof-bitcoin Tagging u/adam3us too.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/bitcoin-developers-propose-quantum-plan) • 22h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/bitcoin-developers-propose-quantum-plan) • 23h ago
 
 ---
 
@@ -139,13 +139,13 @@ This was proposed for some time, getting more attention currently. I'm personall
 
 not looking for the wallet... off line people. I know that option. talking main place like Gemini , coin base, etc. USA available. I've been seeing a lot of coinbase \gemni lock out\fee complaints, but don't want to go with one of the little ones. where are you holding. where are you buying. ?
 
-8h ago
+9h ago
 
 ---
 
 **[The Architecture of Abundance: How Bitcoin Reveals the Truth of Time and Technology. How escaping the fiat illusion and holding the world's hardest money turns the relentless march of technology into unprecedented purchasing power.](https://www.reddit.com/r/Bitcoin/comments/1snsbj6/the_architecture_of_abundance_how_bitcoin_reveals/)**
 
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-architecture-of-abundance-how) • 4h ago
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-architecture-of-abundance-how) • 5h ago
 
 ---
 
@@ -157,7 +157,7 @@ not looking for the wallet... off line people. I know that option. talking main 
 
 Charles Schwab is rolling out crypto trading, allowing clients to buy bitcoin and ether through a new arm called Schwab Crypto.
 
-CNBC • 21h ago
+CNBC • 22h ago
 
 ---
 
@@ -165,7 +165,7 @@ CNBC • 21h ago
 
 The new platform, called Schwab Crypto, will roll out over the coming weeks and will only support bitcoin and ethereum at first.
 
-The Block • 20h ago
+The Block • 21h ago
 
 ---
 
@@ -173,13 +173,13 @@ The Block • 20h ago
 
 Charles Schwab President and CEO Rick Wurster indicated that America’s largest discount brokerage will likely support prediction markets.
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
 
 ---
 
 **[Bitcoin’s Greatest Mystery](https://www.nytimes.com/2026/04/16/world/bitcoin-satoshi-adam-back-israel-lebanon-ceasefire.html)**
 
-The New York Times • 6h ago
+The New York Times • 7h ago
 
 ---
 
@@ -187,13 +187,13 @@ The New York Times • 6h ago
 
 Token outperforms bitcoin and ether over seven days, though thinning participation signals consolidation rather than conviction.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
 **[Scott Melker ’s Bitcoin Thesis: ETFs, Institutional Access and a Missing Altseason Are Rewriting the Playbook](https://www.binance.com/en/square/post/313434795599698)**
 
-Binance • 2h ago
+Binance • 3h ago
 
 ---
 
@@ -201,7 +201,7 @@ Binance • 2h ago
 
 Bitcoin is trading around $75,000 after rallying 12% over the past two weeks. The next breakout will depend on two key catalysts, Kraken expert says. US stocks smashed a new historic high on Thursday.
 
-dlnews.com • 2h ago
+dlnews.com • 3h ago
 
 ---
 
@@ -215,13 +215,13 @@ Bloomberg.com • 1d ago
 
 The IMF warns that global public debt could reach about 100% of world GDP by 2029, a scenario where Bitcoin could stand out as investors seek alternatives outside traditional finance. The 100% Debt Trap Global public debt approaching 100% of...
 
-Yahoo Finance • 13h ago
+Yahoo Finance • 14h ago
 
 ---
 
 **[Former Fed Chair Issues Shock ‘Hyperinflation’ U.S. Dollar Warning—Fueling Huge Bitcoin Price Predictions](https://www.forbes.com/sites/digital-assets/2026/04/16/former-fed-chair-issues-shock-hyperinflation-us-dollar-warning-fueling-huge-bitcoin-price-predictions/)**
 
-Forbes • 21h ago
+Forbes • 22h ago
 
 ---
 
@@ -257,7 +257,7 @@ A three-part deep dive into quantum computing's actual threat to Bitcoin. 17 res
 
 The Blockstream CEO’s approach contrasts with BIP-361, a proposal that would implement mandatory freezes of quantum-vulnerable Bitcoin.
 
-⬆️ 4 • 💬 1 • 22h ago • [Decrypt](https://decrypt.co/364562/adam-back-pushes-for-optional-upgrades-to-quantum-proof-bitcoin)
+⬆️ 4 • 💬 1 • 23h ago • [Decrypt](https://decrypt.co/364562/adam-back-pushes-for-optional-upgrades-to-quantum-proof-bitcoin)
 
 ---
 
@@ -265,7 +265,7 @@ The Blockstream CEO’s approach contrasts with BIP-361, a proposal that would i
 
 Imagine one person holding the keys to Bitcoin’s entire future. That was Satoshi—until Hal Finney, Gavin Andresen, and Wladimir van der Laan stepped in. Today’s maintainer team is more decentralized than ever… but is it enough?
 
-⬆️ 4 • 💬 0 • 4d ago • [Bitcoin Magazine](https://bitcoinmagazine.com/print/the-core-issue-the-role-and-history-of-bitcoin-core-maintainers)
+⬆️ 4 • 💬 0 • 5d ago • [Bitcoin Magazine](https://bitcoinmagazine.com/print/the-core-issue-the-role-and-history-of-bitcoin-core-maintainers)
 
 ---
 
@@ -279,7 +279,7 @@ Imagine one person holding the keys to Bitcoin’s entire future. That was Satos
 
 C64 Bitcoin wallet. Contribute to geek197/c64wallet development by creating an account on GitHub.
 
-⬆️ 3 • 💬 0 • 1d ago • [GitHub](https://github.com/geek197/c64wallet)
+⬆️ 3 • 💬 0 • 2d ago • [GitHub](https://github.com/geek197/c64wallet)
 
 ---
 
@@ -325,7 +325,7 @@ IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purp
 
 📺 The Kenzo Guy
 
-👁️ 5K • 👍 284 • 💬 14 • ⏱️ 25:48 • 13h ago
+👁️ 5K • 👍 284 • 💬 14 • ⏱️ 25:48 • 14h ago
 
 ---
 
@@ -335,7 +335,7 @@ Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FR
 
 📺 CryptosRUs
 
-👁️ 18K • 👍 961 • 💬 43 • ⏱️ 44:22 • 20h ago
+👁️ 18K • 👍 961 • 💬 43 • ⏱️ 44:22 • 21h ago
 
 ---
 
@@ -345,7 +345,7 @@ In today's Markets Outlook, Bitwise CIO Matt Hougan joins CoinDesk's Jennifer Sa
 
 📺 CoinDesk
 
-👁️ 11K • 👍 300 • 💬 62 • ⏱️ 20:47 • 16h ago
+👁️ 11K • 👍 300 • 💬 62 • ⏱️ 20:47 • 17h ago
 
 ---
 
@@ -355,7 +355,7 @@ In today's Markets Outlook, Bitwise CIO Matt Hougan joins CoinDesk's Jennifer Sa
 
 📺 Krown
 
-👁️ 7K • 👍 563 • 💬 86 • ⏱️ 11:01 • 17h ago
+👁️ 7K • 👍 563 • 💬 86 • ⏱️ 11:01 • 18h ago
 
 ---
 
@@ -385,7 +385,7 @@ Bitcoin #Crypto #Finance Bitcoin whales are accumulating at a record pace, scoop
 
 📺 The Wolf Of All Streets
 
-👁️ 14K • 👍 761 • 💬 148 • ⏱️ 34:46 • 21h ago
+👁️ 14K • 👍 761 • 💬 148 • ⏱️ 34:46 • 22h ago
 
 ---
 

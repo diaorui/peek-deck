@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-17T10:57:54.834445+00:00'
+updated: '2026-04-17T11:56:08.485233+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - news
 - social
-- repositories
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** April 17, 2026 at 10:57 UTC  
+**Last Updated:** April 17, 2026 at 11:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,13 +39,13 @@ AI news, discussions, and developments
 
 **[Peter Thiel, Co-founder of Palantir, sh*ts himself when asked but the use of his AI in the Gaza Genocide](https://www.reddit.com/r/artificial/comments/1snf4ol/peter_thiel_cofounder_of_palantir_shts_himself/)**
 
-14h ago
+15h ago
 
 ---
 
 **[Alex Karp, Co-founder of Palantir, refers to those killed in the Gaza Genocide due to his AI as “useful idiots” and “mostly terrorists”](https://www.reddit.com/r/artificial/comments/1snfwa7/alex_karp_cofounder_of_palantir_refers_to_those/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -53,7 +53,7 @@ AI news, discussions, and developments
 
 Reese Witherspoon is again advising her followers that there's no time like the present to start learning about and using artificial intelligence.
 
-🔗 [Variety](https://variety.com/2026/tv/news/reese-witherspoon-ai-jobs-women-1236723992/) • 6h ago
+🔗 [Variety](https://variety.com/2026/tv/news/reese-witherspoon-ai-jobs-women-1236723992/) • 7h ago
 
 ---
 
@@ -61,7 +61,7 @@ Reese Witherspoon is again advising her followers that there's no time like the 
 
 ⚡ Meet Qwen3.6-35B-A3B：Now Open-Source！🚀🚀 A sparse MoE model, 35B total params, 3B active. Apache 2.0 license. 🔥 Agentic coding on par with models 10x its active size 📷 Strong multimodal perception and reasoning ability 🧠 Multimodal thinking + non-thinking modes Efficient. Powerful. Versatile. Try it now👇 Qwen Studio：chat.qwen.ai HuggingFace：https://huggingface.co/Qwen/Qwen3.6-35B-A3B
 
-20h ago
+21h ago
 
 ---
 
@@ -69,7 +69,7 @@ Reese Witherspoon is again advising her followers that there's no time like the 
 
 This kind of emotional manipulation around AI and adult tech is starting to feel like a real issue. If platforms are stepping in, it raises questions about where the line should be drawn between innovation and exploitation. What do you guys think??
 
-🔗 [Daily Star](https://www.dailystar.co.uk/news/latest-news/online-platform-bans-sex-robots-37025373) • 2h ago
+🔗 [Daily Star](https://www.dailystar.co.uk/news/latest-news/online-platform-bans-sex-robots-37025373) • 3h ago
 
 ---
 
@@ -85,7 +85,7 @@ https://www.hardresetmedia.com/p/peter-thiel-backed-ai-startup-objection This so
 
 Hi everyone, I’ve been learning by building a small web app that collects and organizes AI coding tools in one place. The idea is to make it easier to compare tools like code editors, coding assistants, and terminal-based agents based on what they do, who they’re for, and how they differ, and I have also decided to make it completely free for use. I’m not trying to sell anything, I’m mainly using it as a learning project to practice: building a searchable directory, structuring data for lots of similar items, designing a unique UI for comparison, and deciding what information is actually useful to show first. I’d love feedback on the project from a learning perspective: What data fields would be most useful in a directory like this? What makes a tool comparison page actually helpful? If you’ve built something similar, what architecture or stack choices worked well? The whole thing was coded in Next.js + Tailwind. The book shelf UI took way longer to properly design as i wanted to make it as unique as possible ( most websites nowadays are boring ) I’m also happy to share what I’ve built so far if that would be useful, Tolop
 
-12m ago
+1h ago
 
 ---
 
@@ -93,7 +93,7 @@ Hi everyone, I’ve been learning by building a small web app that collects and 
 
 https://preview.redd.it/g72g8g08omvg1.jpg?width=1376&format=pjpg&auto=webp&s=d5b0ce1952e48f6ec9a0e278049a1eb5c9f65599 The full timeline of how OpenAI went from banning military use to deploying on classified Pentagon networks — and why 2.5 million people boycotted. **The backstory:** - Pentagon wanted AI companies to agree to "any lawful use" on classified networks - Anthropic CEO Dario Amodei refused — specifically citing mass surveillance and autonomous weapons - Trump ordered all federal agencies to stop using Anthropic within 6 months - Defense Secretary Hegseth designated Anthropic a "supply-chain risk" (normally reserved for foreign adversaries) - Hours later, OpenAI signed the deal **The backlash:** - #QuitGPT went viral — 2.5M users boycotted/cancelled - ChatGPT uninstalls surged 295% overnight - US downloads dropped 13% - Claude hit #1 on the US App Store (first time ever) - OpenAI's robotics lead Caitlin Kalinowski resigned - Altman admitted it "appeared opportunistic and haphazard" **What the contract says (after amendments):** - Prohibits domestic surveillance of US citizens - Bans tracking via commercially acquired personal data - Excludes NSA without separate agreement - Allows "all lawful purposes" on classified networks - Allows intelligence activities under Patriot Act, FISA, EO 12333 **What critics say:** - Full contract hasn't been released - "Intentional" surveillance ban doesn't cover incidental collection - "Any lawful use" is broad — laws can change, DoD can modify its own policies - Former DOJ attorney: "There is nothing OpenAI can do to clarify this except release the contract" **The reversal:** - 2023: OpenAI explicitly banned military use - January 2024: Ban quietly removed - February 2026: Deployed on classified Pentagon networks Full breakdown → https://synvoya.com/blog/2026-04-17-quitgpt-openai-pentagon-deal/ Do you think the contract safeguards are real protections or PR cover?
 
-12h ago
+13h ago
 
 ---
 
@@ -101,7 +101,7 @@ https://preview.redd.it/g72g8g08omvg1.jpg?width=1376&format=pjpg&auto=webp&s=d5b
 
 I kept seeing "agentic payments" in every AI newsletter but couldn't picture what it actually looked like. Like, agents are buying compute, APIs, data — but what does that look like at scale? So I built a page that shows every x402 transaction live. https://wtfareagentsbuying.com/ No mocks. No simulation. Actual agents, actually purchasing things, in real time. You just watch. Running it on a second monitor has been weirdly addictive. Kind of a lava lamp for the AI economy.
 
-11h ago
+12h ago
 
 ---
 
@@ -109,7 +109,7 @@ I kept seeing "agentic payments" in every AI newsletter but couldn't picture wha
 
 Heaven club neighbour admits offences under Licensing Act, as Met says fictitious AI-generated complaints a growing issue
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/apr/16/man-pleads-guilty-false-statements-shut-down-london-nightclub-heaven) • 2h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/apr/16/man-pleads-guilty-false-statements-shut-down-london-nightclub-heaven) • 3h ago
 
 ---
 
@@ -121,7 +121,7 @@ Heaven club neighbour admits offences under Licensing Act, as Met says fictitiou
 
 Experts say Mythos potentially has an unprecedented ability to identify and exploit cybersecurity weaknesses.
 
-BBC • 4h ago
+BBC • 5h ago
 
 ---
 
@@ -129,7 +129,7 @@ BBC • 4h ago
 
 Release of new Claude model, so far limited to US firms, will expand to British institutions in coming days
 
-The Guardian • 3h ago
+The Guardian • 4h ago
 
 ---
 
@@ -137,7 +137,7 @@ The Guardian • 3h ago
 
 Claude Mythos Preview is Anthropic's most powerful AI model that excels at identifying weaknesses and security flaws within software.
 
-CNBC • 20h ago
+CNBC • 21h ago
 
 ---
 
@@ -145,13 +145,13 @@ CNBC • 20h ago
 
 Nina Jankowicz, CEO of The American Sunlight Project, says AI is accelerating foreign disinformation by exploiting real public sentiment, raising concerns over platform enforcement and lack of regulation.
 
-CNBC • 14m ago
+CNBC • 1h ago
 
 ---
 
 **[This Sam Altman-Backed $1.8 Billion Startup Bets AI Can Get Drugs Through Clinical Trials Faster](https://www.forbes.com/sites/amyfeldman/2026/04/16/this-sam-altman-backed-18-billion-startup-bets-ai-can-get-drugs-through-clinical-trials-faster-formation-bio/)**
 
-Forbes • 27m ago
+Forbes • 1h ago
 
 ---
 
@@ -159,13 +159,13 @@ Forbes • 27m ago
 
 A culture of callouts, paranoia, and fear may prevent the media from wrestling with much more uncomfortable questions.
 
-Slate • 1h ago
+Slate • 2h ago
 
 ---
 
 **[A Family Feud at an Oregon Winery Turns to Vinegar Over A.I. Slop](https://www.nytimes.com/2026/04/17/us/oregon-winery-ai-legal-fight.html)**
 
-The New York Times • 1h ago
+The New York Times • 2h ago
 
 ---
 
@@ -173,7 +173,7 @@ The New York Times • 1h ago
 
 Global public debt is barreling toward 100% of world GDP, the fund warned Wednesday. Governments everywhere are spending money they don't have.
 
-Fortune • 15h ago
+Fortune • 16h ago
 
 ---
 
@@ -185,7 +185,7 @@ The Economist • 1d ago
 
 **[Exclusive: Faith leaders urge Congress to limit AI weapons](https://www.axios.com/2026/04/17/faith-leaders-urge-congress-limit-ai-weapons)**
 
-Axios • 1h ago
+Axios • 2h ago
 
 ---
 
@@ -203,7 +203,7 @@ Axios • 1h ago
 
 We're building AI Gateway into a unified inference layer for AI, letting developers call models from 14+ providers. New features include Workers AI binding integration and an expanded catalog with multimodal models.
 
-⬆️ 284 • 💬 70 • 21h ago • [The Cloudflare Blog](https://blog.cloudflare.com/ai-platform/)
+⬆️ 284 • 💬 70 • 22h ago • [The Cloudflare Blog](https://blog.cloudflare.com/ai-platform/)
 
 ---
 
@@ -233,7 +233,7 @@ Does AI-assisted cognition threaten human development? Explore the risks of AI-a
 
 We signed a 3 year lease and gave it to an AI
 
-⬆️ 194 • 💬 272 • 19h ago • [andonlabs.com](https://andonlabs.com/blog/andon-market-launch)
+⬆️ 194 • 💬 272 • 20h ago • [andonlabs.com](https://andonlabs.com/blog/andon-market-launch)
 
 ---
 
@@ -275,7 +275,7 @@ The first clips from “As Deep as the Grave” feature an AI-generated version 
 
 📺 NBC News
 
-👁️ 4K • 👍 57 • 💬 26 • ⏱️ 1:43 • 10h ago
+👁️ 4K • 👍 57 • 💬 26 • ⏱️ 1:43 • 11h ago
 
 ---
 
@@ -285,7 +285,7 @@ Get your FREE AI Prompt Cheatsheet here: https://go.danmartell.com/4tVJ4fz Are y
 
 📺 Dan Martell
 
-👁️ 117K • 👍 6K • 💬 892 • ⏱️ 14:03 • 21h ago
+👁️ 117K • 👍 6K • 💬 892 • ⏱️ 14:03 • 22h ago
 
 ---
 
@@ -315,7 +315,7 @@ Really American host Steve Harness breaks down more HILARIOUS AI Trump parodies 
 
 📺 Really American
 
-👁️ 401K • 👍 27K • 💬 2K • ⏱️ 12:33 • 11h ago
+👁️ 401K • 👍 27K • 💬 2K • ⏱️ 12:33 • 12h ago
 
 ---
 
@@ -325,7 +325,7 @@ Let's build an online business, together, LIVE in 5 days using AI (Starting Apri
 
 📺 Iman Gadzhi
 
-👁️ 36K • 👍 2K • 💬 63 • ⏱️ 27:46 • 18h ago
+👁️ 36K • 👍 2K • 💬 63 • ⏱️ 27:46 • 19h ago
 
 ---
 
@@ -335,7 +335,7 @@ How To ACTUALLY Make Money With AI Video Best AI Tool to get started https://hig
 
 📺 Dan Kieft
 
-👁️ 7K • 💬 9 • ⏱️ 14:35 • 3h ago
+👁️ 7K • 💬 9 • ⏱️ 14:35 • 4h ago
 
 ---
 
@@ -381,7 +381,7 @@ MiniMax-M2.7 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 188,737 • ❤️ 899 • 1h ago
+⬇️ 188,737 • ❤️ 899 • 2h ago
 
 ---
 
@@ -393,7 +393,7 @@ HY-Embodied-0.5 is a multilingual vision-language model designed for embodied ag
 
 `image-text-to-text` `3.8B`
 
-⬇️ 1,287 • ❤️ 782 • 2d ago
+⬇️ 1,287 • ❤️ 782 • 3d ago
 
 ---
 
@@ -429,7 +429,7 @@ ERNIE-Image is a 8B parameter text-to-image diffusion model excelling in complex
 
 `text-to-image`
 
-⬇️ 2,254 • ❤️ 406 • 8h ago
+⬇️ 2,254 • ❤️ 406 • 9h ago
 
 ---
 
@@ -477,7 +477,7 @@ Gemma-4-31B-JANG_4M-CRACK is a 31B parameter text-generation model optimized for
 
 `image-text-to-text` `6.4B`
 
-⬇️ 152,762 • ❤️ 1,249 • 10h ago
+⬇️ 152,762 • ❤️ 1,249 • 11h ago
 
 ---
 
@@ -489,7 +489,7 @@ ERNIE-Image-Turbo is a distilled text-to-image diffusion model optimized for spe
 
 `text-to-image`
 
-⬇️ 2,992 • ❤️ 280 • 8h ago
+⬇️ 2,992 • ❤️ 280 • 9h ago
 
 ---
 
@@ -676,7 +676,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 8.1k • 🔱 518 • 53m ago
+⭐ 8.1k • 🔱 518 • 1h ago
 
 ---
 
@@ -716,7 +716,7 @@ The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interac
 
 `Swift` `apple-intelligence` `apple-silicon` `cli` `foundationmodels` `homebrew`
 
-⭐ 4.7k • 🔱 181 • 2h ago
+⭐ 4.7k • 🔱 181 • 3h ago
 
 ---
 

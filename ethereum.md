@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-17T10:57:54.847239+00:00'
+updated: '2026-04-17T11:56:08.497828+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- social
 - news
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 17, 2026 at 10:57 UTC  
+**Last Updated:** April 17, 2026 at 11:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+6h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Glamsterdam devnets drive Ethereum’s execution readiness while Hegotá opens the next phase of upgrade proposals & protocol evolution.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-consensus-acdc-call-177/) • 2h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-consensus-acdc-call-177/) • 3h ago
 
 ---
 
@@ -88,7 +88,7 @@ Glamsterdam devnets drive Ethereum’s execution readiness while Hegotá opens t
 
 Solidity developer survey results, ether.fi migrated to OP Mainnet, X $ETH cashtag
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-mini-0/) • 4h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-mini-0/) • 5h ago
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/73hHq2ua1ts?si=fwxBRn1_pW7xDziX) • 18h ago
+🔗 [youtu.be](https://youtu.be/73hHq2ua1ts?si=fwxBRn1_pW7xDziX) • 19h ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The move comes amid ongoing changes at the EF, including a renewed focus on scaling and developing the Ethereum mainnet.
 
-The Block • 19h ago
+The Block • 20h ago
 
 ---
 
@@ -162,7 +162,7 @@ The Block • 19h ago
 
 Aave (AAVE), down 1.1% from Wednesday, was also an underperformer.
 
-CoinDesk • 17h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -170,7 +170,7 @@ CoinDesk • 17h ago
 
 Charles Schwab is rolling out crypto trading, allowing clients to buy bitcoin and ether through a new arm called Schwab Crypto.
 
-CNBC • 21h ago
+CNBC • 22h ago
 
 ---
 
@@ -178,7 +178,7 @@ CNBC • 21h ago
 
 The new platform, called Schwab Crypto, will roll out over the coming weeks and will only support bitcoin and ethereum at first.
 
-The Block • 20h ago
+The Block • 21h ago
 
 ---
 
@@ -186,7 +186,7 @@ The Block • 20h ago
 
 Charles Schwab President and CEO Rick Wurster indicated that America’s largest discount brokerage will likely support prediction markets.
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -194,7 +194,7 @@ Yahoo Finance • 17h ago
 
 XRP (CRYPTO: XRP) is up 4% to $1.41, outperforming Bitcoin, Ethereum, and Solana in a single session—the first time in weeks the token has led the market. The move is being driven by Rakuten Wallet listing XRP yesterday and the SEC’s crypto roundtable happening today, with institutional money moving in behind both catalysts. The only ... XRP Outperforms Bitcoin, Ethereum, and Solana With a 4% Gain: Is the XRP Breakout Starting?
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -202,7 +202,7 @@ Yahoo Finance • 18h ago
 
 Ethereum has dropped to the $2,300 region after briefly reclaiming $2,400 on Thursday.The top altcoin has been facing pressure near $2,380, which aligns with a key technical resistance, closing the daily candle below this psychological level.The key resistance level is stuck between the cost basis…
 
-TradingView — Track All Markets • 4h ago
+TradingView — Track All Markets • 5h ago
 
 ---
 
@@ -210,7 +210,7 @@ TradingView — Track All Markets • 4h ago
 
 Polkadot bridge protocol Hyperbridge said losses from this week's hack were 10x worse than originally reported, tallying about $2.5 million.
 
-Decrypt • 19h ago
+Decrypt • 20h ago
 
 ---
 
@@ -218,7 +218,7 @@ Decrypt • 19h ago
 
 BlackRock's Bitcoin and Ethereum ETFs saw $111.5M in inflows. Bitcoin reaching $100,000 by December 31, 2026 at 38.5% YES, Ethereum above $1,800 at 100% YES.
 
-Crypto Briefing • 4h ago
+Crypto Briefing • 5h ago
 
 ---
 
@@ -226,7 +226,7 @@ Crypto Briefing • 4h ago
 
 Dubai, UAE, April  16, 2026  (GLOBE NEWSWIRE) -- Ethereum based crypto Pepeto just released a major DeFi exchange update, and the platform is now ...
 
-markets.businessinsider.com • 12h ago
+markets.businessinsider.com • 13h ago
 
 ---
 
@@ -240,7 +240,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 108 • 👍 7 • ⏱️ 4:53 • 2h ago
+👁️ 108 • 👍 7 • ⏱️ 4:53 • 3h ago
 
 ---
 
@@ -250,7 +250,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 4K • 👍 151 • 💬 19 • ⏱️ 8:23 • 23h ago
+👁️ 4K • 👍 151 • 💬 19 • ⏱️ 8:23 • 1d ago
 
 ---
 
@@ -270,7 +270,7 @@ Ethereum is flashing a fractal that mirrors the November 2024 altcoin breakout, 
 
 📺 Crypto Capital Venture
 
-👁️ 8K • 👍 517 • 💬 214 • ⏱️ 11:01 • 20h ago
+👁️ 8K • 👍 517 • 💬 214 • ⏱️ 11:01 • 21h ago
 
 ---
 
@@ -280,7 +280,7 @@ Raoul welcomes Vivek Raman, Co-Founder and CEO of Etherealize, and Danny Ryan, C
 
 📺 Raoul Pal The Journey Man
 
-👁️ 5K • 👍 225 • 💬 14 • ⏱️ 1:11:56 • 22h ago
+👁️ 5K • 👍 225 • 💬 14 • ⏱️ 1:11:56 • 23h ago
 
 ---
 
@@ -290,7 +290,7 @@ IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purp
 
 📺 The Kenzo Guy
 
-👁️ 5K • 👍 284 • 💬 14 • ⏱️ 25:48 • 13h ago
+👁️ 5K • 👍 284 • 💬 14 • ⏱️ 25:48 • 14h ago
 
 ---
 
@@ -330,7 +330,7 @@ Ethereum developer Joe Schiarizzi—ex-ConsenSys, Gitcoin, OpenSea, Solarpunk VC
 
 📺 Paul Barron Network
 
-👁️ 13K • 👍 911 • 💬 265 • ⏱️ 22:10 • 22h ago
+👁️ 13K • 👍 911 • 💬 265 • ⏱️ 22:10 • 23h ago
 
 ---
 

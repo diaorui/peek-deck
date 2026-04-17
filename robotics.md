@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-17T10:57:54.849462+00:00'
+updated: '2026-04-17T11:56:08.500610+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 17, 2026 at 10:57 UTC  
+**Last Updated:** April 17, 2026 at 11:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Physical Intelligence on 𝕏 (thread): https://x.com/physical_int/status/2044841263254638862 Blog post with multiple videos/demos: https://www.pi.website/blog/pi07 TechCrunch: Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught: https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/
 
-1h ago
+2h ago
 
 ---
 
@@ -44,7 +44,7 @@ From Physical Intelligence on 𝕏 (thread): https://x.com/physical_int/status/2
 
 I tried to do a quadruped robot using cheap servos (MG90S), normal batteries and wood structure. I think that it could be built with less than R$200,00 (U$40,00 at conversion). The name of the project is Guara Nano. I used ESP32, 8x MG90S servos (chinese version), 4x Batteries 1,5V, MPU6050 and PCA9685. I cannot supply ESP32 with these batteries because of drop voltage, so I used micro-USB cable. I did two gaits that work, walk and trot, with control of velocity and height control. It can turn too, using side traction and go back. I also did a simple proportional control but I didn't tested too much. The code and process to build will be open-source, now I'm working on documentation and I'll post here soon. I would appreciate tips and suggestions for improvement, and perhaps some other similar works, not just the ones you find on Google, as I've already looked at all of them.
 
-12h ago
+13h ago
 
 ---
 
@@ -58,7 +58,7 @@ From The Humanoid Hub on 𝕏: https://x.com/TheHumanoidHub/status/2044504579480
 
 **[Multi-Robot Synchronization Demo from ESTUN Robotics](https://www.reddit.com/r/robotics/comments/1sn9asg/multirobot_synchronization_demo_from_estun/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -66,13 +66,13 @@ From The Humanoid Hub on 𝕏: https://x.com/TheHumanoidHub/status/2044504579480
 
 Hi all, I’m working on a demolition robot (similar to Brokk/Husqvarna) and evaluating camera options for operator visibility. The setup will likely use multiple small fixed cameras around the arm/tool, so I’m trying to balance: Low-light performance Dust tolerance (with enclosure/air assist) Latency vs IP-based streaming (PoE/RTSP) Has anyone worked with camera systems in similar harsh environments (demolition, mining, etc.)? Would be great to hear what worked well in practice and any pitfalls to avoid.
 
-2h ago
+3h ago
 
 ---
 
 **[I 3D-printed a capture point for my Capture the Base robot game](https://www.reddit.com/r/robotics/comments/1sn2ptz/i_3dprinted_a_capture_point_for_my_capture_the/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -80,7 +80,7 @@ Hi all, I’m working on a demolition robot (similar to Brokk/Husqvarna) and eva
 
 I'm building a 5 bar linkage. It's for target shooting practice. I will attach a target to the end effector and move it around. How do you go from the linkage design to actually building it in real life? I want to eliminate as much friction as possible (in the hole of the arm where the bolt/rod goes through, arm on arm friction, and arm on bolt/nut friction), but also cant have play in the axial direction of the arm joint. These two seem to contradict each other. The stack up I am most happy with so far is: Bolt head Nylon washer Arm Spacer Arm 2 Nylon washer Nylock nut It needs to be tight enough that there isn't play along the shaft, but not so tight that the arms struggle to rotate, or even "grab" onto the nut and cause it to get loose (or more tight) In using aluminum arms. The arm lengths are 90 and 150mm. Thickness undecided yet. Possibly 2-4mm
 
-1h ago
+2h ago
 
 ---
 
@@ -88,7 +88,7 @@ I'm building a 5 bar linkage. It's for target shooting practice. I will attach a
 
 Sharing a video from a public-road robotics event in Akihabara, Tokyo, where robots were demonstrated outdoors. More than 30 exhibitors took part. I'm with ugo, one of the exhibitors shown here. Happy to share more context about the event or what was exhibited if people are curious.
 
-9h ago
+10h ago
 
 ---
 
@@ -96,13 +96,13 @@ Sharing a video from a public-road robotics event in Akihabara, Tokyo, where rob
 
 Boston Dynamics is positioning Atlas for future deployment in industrial environments, with a focus on sectors like manufacturing and warehousing. The article explains that training the robot on a wide range of behaviors is contributing to improved overall capability, even when those behaviors are not directly tied to specific tasks. This reflects a broader trend in robotics where more varied data improves performance.
 
-🔗 [Automate](https://www.automate.org/robotics/industry-insights/balancing-work-and-play-with-boston-dynamics-atlas) • 17h ago
+🔗 [Automate](https://www.automate.org/robotics/industry-insights/balancing-work-and-play-with-boston-dynamics-atlas) • 18h ago
 
 ---
 
 **[Learn C++17 for Robotics](https://www.reddit.com/r/robotics/comments/1snr1pi/learn_c17_for_robotics/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -114,7 +114,7 @@ Boston Dynamics is positioning Atlas for future deployment in industrial environ
 
 The new model, called π0.7, represents what the company describes as an early but meaningful step toward the long-sought goal of a general-purpose robot brain.
 
-TechCrunch • 14h ago
+TechCrunch • 15h ago
 
 ---
 
@@ -128,19 +128,19 @@ Google DeepMind • 2d ago
 
 **[Nvidia Alum Rides China’s Robotics Wave to $150 Million Debut](https://www.bloomberg.com/news/articles/2026-04-16/nvidia-alum-rides-china-s-robotics-wave-to-150-million-debut)**
 
-Bloomberg.com • 9h ago
+Bloomberg.com • 10h ago
 
 ---
 
 **[Robotic legs help elderly Hong Kong fire survivors climb back for belongings](https://www.reuters.com/world/china/robotic-legs-help-elderly-hong-kong-fire-survivors-climb-back-belongings-2026-04-17/)**
 
-Reuters • 8h ago
+Reuters • 9h ago
 
 ---
 
 **[Grab Looks to AI Robots to Deliver Your Meal](https://www.wsj.com/tech/ai/grab-looks-to-ai-robots-to-deliver-your-meal-819caf01)**
 
-WSJ • 23h ago
+WSJ • 1d ago
 
 ---
 
@@ -164,7 +164,7 @@ Central Oregon Daily • 1d ago
 
 Walker S2 is an adult-sized humanoid robot with legs, a torso, and arms. China is sending these robots to patrol their border with Vietnam.
 
-Earth.com • 12h ago
+Earth.com • 13h ago
 
 ---
 
@@ -180,7 +180,7 @@ Live Science • 1d ago
 
 Earlier this week, Google DeepMind released Gemini Robotics-ER-1.6, a new vision and language model to help robots make sense of their surroundings. To show off its capabilities, Boston Dynamics—which has an agreement to use Gemini in its humanoid robots—published a video of its robot dogs using ...
 
-The Information • 20h ago
+The Information • 21h ago
 
 ---
 
@@ -234,7 +234,7 @@ Physical Intelligence is building a foundation model that can control any robot 
 
 📺 Y Combinator
 
-👁️ 21K • 👍 547 • 💬 33 • ⏱️ 49:27 • 20h ago
+👁️ 21K • 👍 547 • 💬 33 • ⏱️ 49:27 • 21h ago
 
 ---
 
