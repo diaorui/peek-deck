@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-17T18:12:06.103030+00:00'
+updated: '2026-04-17T19:37:37.730649+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- news
 - cryptocurrency
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 17, 2026 at 18:12 UTC  
+**Last Updated:** April 17, 2026 at 19:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,438.07
+### $2,420.18
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +3.9%  
-**7d:** +6.5%  
-**30d:** +13.8%  
-**90d:** -25.9%  
-**1y:** +53.1%  
+**24h:** +3.3%  
+**7d:** +6.2%  
+**30d:** +13.6%  
+**90d:** -26.1%  
+**1y:** +52.8%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
 
 ---
 
@@ -80,13 +80,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Glamsterdam devnets drive Ethereum’s execution readiness while Hegotá opens the next phase of upgrade proposals & protocol evolution.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-consensus-acdc-call-177/) • 10h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-consensus-acdc-call-177/) • 11h ago
 
 ---
 
 **[I think Coinbase is building a fantastic business with stablecoins, and I would love others' opinions and thoughts.](https://www.reddit.com/r/ethereum/comments/1so3od4/i_think_coinbase_is_building_a_fantastic_business/)**
 
-3h ago
+4h ago
+
+---
+
+**[PolyApex Telegram Bot That Copies Polymarket Insiders Wallets](https://www.reddit.com/r/ethereum/comments/1so07v3/polyapex_telegram_bot_that_copies_polymarket/)**
+
+6h ago
 
 ---
 
@@ -94,13 +100,7 @@ Glamsterdam devnets drive Ethereum’s execution readiness while Hegotá opens t
 
 Solidity developer survey results, ether.fi migrated to OP Mainnet, X $ETH cashtag
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-mini-0/) • 11h ago
-
----
-
-**[PolyApex Telegram Bot That Copies Polymarket Insiders Wallets](https://www.reddit.com/r/ethereum/comments/1so07v3/polyapex_telegram_bot_that_copies_polymarket/)**
-
-5h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-mini-0/) • 12h ago
 
 ---
 
@@ -132,7 +132,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 A fake Ledger Live clone sat on Apple's App Store for seven days and drained $9.5 million from 50 victims across Bitcoin, Ethereum, Solana, Tron and XRP. Apple's review process, which promises to protect users, let it through. Then removed it after the damage was done.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/fake-ledger-app-apple-app-store-9-million-drained/) • 2d ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/fake-ledger-app-apple-app-store-9-million-drained/) • 3d ago
 
 ---
 
@@ -140,7 +140,7 @@ A fake Ledger Live clone sat on Apple's App Store for seven days and drained $9.
 
 Man I was looking at some recent governance votes across a few protocols and the amount of obvious botting is just depressing at this point. it feels like every time we come up with a new sybil resistance mechanism, someone just spins up a better script to farm it and now with AI agents getting actually decent at mimicking random on-chain behavior and passing standard checks, it seems like pure software solutions are just dead in the water. I really hate the idea of forced traditional KYC for web3 stuff because it completely defeats the point of privacy and just builds another centralized honeypot. was reading this technical deep dive the other day about setting up a private Proof Of Human using ZK tech so you don't actually tie your daily wallet to your real identity. tbh it made me realize we might actually need some kind of hardware or biometric anchor if we want to keep things decentralized without getting completely overrun by server farms it just sucks that the ecosystem is moving in a direction where simply "proving you are a person" is becoming the hardest part of interacting with ethereum. Idk, curious how you guys think L2s are gonna handle this long term because the current meta of hoping for the best isn't working
 
-2d ago
+3d ago
 
 ---
 
@@ -152,7 +152,7 @@ Man I was looking at some recent governance votes across a few protocols and the
 
 Quarterly transactions hit 200.4 million in Q1 2026, the first time above 200 million and more than double the 2023 lows.
 
-CoinDesk • 10h ago
+CoinDesk • 12h ago
 
 ---
 
@@ -168,7 +168,15 @@ The Block • 1d ago
 
 Strive (NASDAQ:ASST) stock is up 13% in Friday afternoon trading while Bitmine Immersion Technologies (NYSE:BMNR) shares are up 5%, as a broad crypto rally sends both names sharply higher. The catalyst is clear: Bitcoin (CRYPTO:BTC) is up 5% over the past 24 hours, trading near $77,800, while Ethereum (CRYPTO:ETH) has surged 5.5% to $2,444. Both ... Strive Soars 12%, Bitmine Jumps 5% as Bitcoin and Ethereum’s Surge Lifts the Crypto Proxy Trade
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
+
+---
+
+**[Crypto Trader Turns $2,500 Into $500K on Skyrocketing Ethereum Meme Coin](https://finance.yahoo.com/markets/crypto/articles/crypto-trader-turns-2-500-182605699.html)**
+
+A meme coin trader turned $2,500 into nearly $500,000 in a matter of hours via the Elon Musk-linked ASTEROID token on Ethereum.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -176,7 +184,7 @@ Yahoo Finance • 2h ago
 
 The pair of Ethereum developers announced their resignation form the EF earlier this week.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -196,33 +204,27 @@ CNBC • 1d ago
 
 ---
 
-**[Charles Schwab Weighs Prediction Markets Move as Bitcoin, Ethereum Trading Nears](https://decrypt.co/364617/charles-schwab-weighs-prediction-markets-bitcoin-ethereum-trading-nears)**
+**[Charles Schwab Weighs Prediction Markets Move as Bitcoin, Ethereum Trading Nears](https://finance.yahoo.com/markets/crypto/articles/charles-schwab-weighs-prediction-markets-172622437.html)**
 
 Charles Schwab President and CEO Rick Wurster indicated that America’s largest discount brokerage will likely support prediction markets.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Polkadot-Ethereum Bridge Hack Losses Were 10x Worse Than Reported, Team Admits](https://decrypt.co/364588/polkadot-ethereum-bridge-hack-losses-10x-worse-team-admits)**
+
+Polkadot bridge protocol Hyperbridge said losses from this week's hack were 10x worse than originally reported, tallying about $2.5 million.
 
 Decrypt • 1d ago
 
 ---
 
-**[Better Crypto Buy Right Now: Ethereum vs. Solana](https://www.fool.com/investing/2026/04/17/better-crypto-buy-right-now-ethereum-vs-solana/)**
+**[Could Ethereum slip below $2,200 if crypto correction deepens?](https://www.tradingview.com/news/invezz:211690b9e094b:0-could-ethereum-slip-below-2-200-if-crypto-correction-deepens/)**
 
-Amid the ongoing cryptocurrency bear market, these two interesting digital assets present investors with possible buy-the-dip opportunities.
+Ethereum has dropped to the $2,300 region after briefly reclaiming $2,400 on Thursday.The top altcoin has been facing pressure near $2,380, which aligns with a key technical resistance, closing the daily candle below this psychological level.The key resistance level is stuck between the cost basis…
 
-The Motley Fool • 4h ago
-
----
-
-**[Most large cryptocurrencies climb on Sui, Ethereum increases](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-climb-on-sui-ethereum-increases-6f01e867-dad5317f1ea1)**
-
-MarketWatch • 4h ago
-
----
-
-**[Bitcoin and ethereum prices today, Friday, April 17, 2026: Higher prices hold with ceasefire in effect](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-april-17-2026-higher-prices-hold-with-ceasefire-in-effect-114918376.html)**
-
-Bitcoin (BTC-USD) opened at $75,151.99 on Friday, 0.5% higher than Thursday’s opening price of $74,810.87. Ethereum (ETH-USD) opened at $2,348.49 on Friday, down 0.5% from Thursday’s opening price of $2,359.70.
-
-Yahoo Finance • 6h ago
+TradingView — Track All Markets • 13h ago
 
 ---
 
@@ -236,7 +238,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 445 • 👍 22 • ⏱️ 4:53 • 9h ago
+👁️ 445 • 👍 22 • ⏱️ 4:53 • 10h ago
 
 ---
 
@@ -286,7 +288,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 480 • 👍 56 • ⏱️ 5:23 • 2h ago
+👁️ 480 • 👍 56 • ⏱️ 5:23 • 4h ago
 
 ---
 
@@ -296,7 +298,7 @@ IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purp
 
 📺 The Kenzo Guy
 
-👁️ 6K • 👍 327 • 💬 27 • ⏱️ 25:48 • 21h ago
+👁️ 6K • 👍 327 • 💬 27 • ⏱️ 25:48 • 22h ago
 
 ---
 
@@ -306,7 +308,7 @@ Kripto para piyasasında herkes korku içindeyken, ETH grafiğinde tarihte sadec
 
 📺 Kripto Kafalar
 
-👁️ 349 • 👍 81 • 💬 18 • ⏱️ 9:43 • 3h ago
+👁️ 349 • 👍 81 • 💬 18 • ⏱️ 9:43 • 4h ago
 
 ---
 
@@ -326,7 +328,7 @@ BTC LIVE TRADING TODAY | BITCOIN LIVE | CRYPTO LIVE TRADING Start your trading j
 
 📺 Ashutosh Kumar
 
-👁️ 5K • 👍 667 • 1h ago
+👁️ 5K • 👍 667 • 3h ago
 
 ---
 
