@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-17T11:56:08.500610+00:00'
+updated: '2026-04-17T13:26:13.854917+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 17, 2026 at 11:56 UTC  
+**Last Updated:** April 17, 2026 at 13:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,13 @@ Robotics research and industry news
 
 From Physical Intelligence on 𝕏 (thread): https://x.com/physical_int/status/2044841263254638862 Blog post with multiple videos/demos: https://www.pi.website/blog/pi07 TechCrunch: Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught: https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/
 
-2h ago
+3h ago
+
+---
+
+**[H1 accelerating - jogging to running](https://www.reddit.com/r/robotics/comments/1snz9fk/h1_accelerating_jogging_to_running/)**
+
+1h ago
 
 ---
 
@@ -44,7 +50,7 @@ From Physical Intelligence on 𝕏 (thread): https://x.com/physical_int/status/2
 
 I tried to do a quadruped robot using cheap servos (MG90S), normal batteries and wood structure. I think that it could be built with less than R$200,00 (U$40,00 at conversion). The name of the project is Guara Nano. I used ESP32, 8x MG90S servos (chinese version), 4x Batteries 1,5V, MPU6050 and PCA9685. I cannot supply ESP32 with these batteries because of drop voltage, so I used micro-USB cable. I did two gaits that work, walk and trot, with control of velocity and height control. It can turn too, using side traction and go back. I also did a simple proportional control but I didn't tested too much. The code and process to build will be open-source, now I'm working on documentation and I'll post here soon. I would appreciate tips and suggestions for improvement, and perhaps some other similar works, not just the ones you find on Google, as I've already looked at all of them.
 
-13h ago
+15h ago
 
 ---
 
@@ -58,7 +64,7 @@ From The Humanoid Hub on 𝕏: https://x.com/TheHumanoidHub/status/2044504579480
 
 **[Multi-Robot Synchronization Demo from ESTUN Robotics](https://www.reddit.com/r/robotics/comments/1sn9asg/multirobot_synchronization_demo_from_estun/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -66,21 +72,13 @@ From The Humanoid Hub on 𝕏: https://x.com/TheHumanoidHub/status/2044504579480
 
 Hi all, I’m working on a demolition robot (similar to Brokk/Husqvarna) and evaluating camera options for operator visibility. The setup will likely use multiple small fixed cameras around the arm/tool, so I’m trying to balance: Low-light performance Dust tolerance (with enclosure/air assist) Latency vs IP-based streaming (PoE/RTSP) Has anyone worked with camera systems in similar harsh environments (demolition, mining, etc.)? Would be great to hear what worked well in practice and any pitfalls to avoid.
 
-3h ago
+5h ago
 
 ---
 
 **[I 3D-printed a capture point for my Capture the Base robot game](https://www.reddit.com/r/robotics/comments/1sn2ptz/i_3dprinted_a_capture_point_for_my_capture_the/)**
 
-23h ago
-
----
-
-**[How do you actually build linkages](https://www.reddit.com/r/robotics/comments/1snvs4t/how_do_you_actually_build_linkages/)**
-
-I'm building a 5 bar linkage. It's for target shooting practice. I will attach a target to the end effector and move it around. How do you go from the linkage design to actually building it in real life? I want to eliminate as much friction as possible (in the hole of the arm where the bolt/rod goes through, arm on arm friction, and arm on bolt/nut friction), but also cant have play in the axial direction of the arm joint. These two seem to contradict each other. The stack up I am most happy with so far is: Bolt head Nylon washer Arm Spacer Arm 2 Nylon washer Nylock nut It needs to be tight enough that there isn't play along the shaft, but not so tight that the arms struggle to rotate, or even "grab" onto the nut and cause it to get loose (or more tight) In using aluminum arms. The arm lengths are 90 and 150mm. Thickness undecided yet. Possibly 2-4mm
-
-2h ago
+1d ago
 
 ---
 
@@ -88,7 +86,15 @@ I'm building a 5 bar linkage. It's for target shooting practice. I will attach a
 
 Sharing a video from a public-road robotics event in Akihabara, Tokyo, where robots were demonstrated outdoors. More than 30 exhibitors took part. I'm with ugo, one of the exhibitors shown here. Happy to share more context about the event or what was exhibited if people are curious.
 
-10h ago
+11h ago
+
+---
+
+**[How do you actually build linkages](https://www.reddit.com/r/robotics/comments/1snvs4t/how_do_you_actually_build_linkages/)**
+
+I'm building a 5 bar linkage. It's for target shooting practice. I will attach a target to the end effector and move it around. How do you go from the linkage design to actually building it in real life? I want to eliminate as much friction as possible (in the hole of the arm where the bolt/rod goes through, arm on arm friction, and arm on bolt/nut friction), but also cant have play in the axial direction of the arm joint. These two seem to contradict each other. The stack up I am most happy with so far is: Bolt head Nylon washer Arm Spacer Arm 2 Nylon washer Nylock nut It needs to be tight enough that there isn't play along the shaft, but not so tight that the arms struggle to rotate, or even "grab" onto the nut and cause it to get loose (or more tight) In using aluminum arms. The arm lengths are 90 and 150mm. Thickness undecided yet. Possibly 2-4mm
+
+4h ago
 
 ---
 
@@ -96,13 +102,7 @@ Sharing a video from a public-road robotics event in Akihabara, Tokyo, where rob
 
 Boston Dynamics is positioning Atlas for future deployment in industrial environments, with a focus on sectors like manufacturing and warehousing. The article explains that training the robot on a wide range of behaviors is contributing to improved overall capability, even when those behaviors are not directly tied to specific tasks. This reflects a broader trend in robotics where more varied data improves performance.
 
-🔗 [Automate](https://www.automate.org/robotics/industry-insights/balancing-work-and-play-with-boston-dynamics-atlas) • 18h ago
-
----
-
-**[Learn C++17 for Robotics](https://www.reddit.com/r/robotics/comments/1snr1pi/learn_c17_for_robotics/)**
-
-7h ago
+🔗 [Automate](https://www.automate.org/robotics/industry-insights/balancing-work-and-play-with-boston-dynamics-atlas) • 19h ago
 
 ---
 
@@ -114,7 +114,7 @@ Boston Dynamics is positioning Atlas for future deployment in industrial environ
 
 The new model, called π0.7, represents what the company describes as an early but meaningful step toward the long-sought goal of a general-purpose robot brain.
 
-TechCrunch • 15h ago
+TechCrunch • 16h ago
 
 ---
 
@@ -126,15 +126,47 @@ Google DeepMind • 2d ago
 
 ---
 
-**[Nvidia Alum Rides China’s Robotics Wave to $150 Million Debut](https://www.bloomberg.com/news/articles/2026-04-16/nvidia-alum-rides-china-s-robotics-wave-to-150-million-debut)**
+**[The next great tech leap may be built on videos of people folding laundry](https://www.washingtonpost.com/technology/interactive/2026/robot-chores-video-data/)**
 
-Bloomberg.com • 10h ago
+Tech firms aim to trigger a robot revolution with video of humans doing housework. Gig workers are paid up to $25 an hour to film themselves doing various tasks.
+
+The Washington Post • 1h ago
+
+---
+
+**[Nvidia Alum Rides China’s Robotics Wave to 187% Debut Pop](https://www.bloomberg.com/news/articles/2026-04-16/nvidia-alum-rides-china-s-robotics-wave-to-150-million-debut)**
+
+Bloomberg.com • 11h ago
 
 ---
 
 **[Robotic legs help elderly Hong Kong fire survivors climb back for belongings](https://www.reuters.com/world/china/robotic-legs-help-elderly-hong-kong-fire-survivors-climb-back-belongings-2026-04-17/)**
 
-Reuters • 9h ago
+Reuters • 11h ago
+
+---
+
+**[This humanoid robot does all your housework for you — and its makers say it's ready for your home](https://www.livescience.com/technology/robotics/this-humanoid-robot-does-all-your-housework-for-you-and-its-makers-say-its-ready-for-your-home)**
+
+Panther has been filmed doing basic household chores, like making the bed and cooking breakfast.
+
+Live Science • 1d ago
+
+---
+
+**[Disturbing video shows humanoid robots preparing for border patrol duties](https://www.earth.com/news/humanoid-robots-walker-s2-preparing-for-border-patrol-duty-china-vietnam/)**
+
+Walker S2 is an adult-sized humanoid robot with legs, a torso, and arms. China is sending these robots to patrol their border with Vietnam.
+
+Earth.com • 15h ago
+
+---
+
+**[Robots crack jokes and grasp items at Humanoid Robot Expo in Tokyo](https://apnews.com/video/humanoid-robots-crack-jokes-and-grasp-items-at-humanoid-robot-expo-in-tokyo-8be83603b1964e2ab90bb506cc4e5860)**
+
+They can dance and they're good at doing repetitive work we humans tire of, but the big question at the Tokyo Expo is when will the humanoids be able to look after us at home.
+
+AP News • 1d ago
 
 ---
 
@@ -152,38 +184,6 @@ Defense One • 1d ago
 
 ---
 
-**[Summit HS robotics team heads to worlds after historic season](https://www.centraloregondaily.com/news/local/summit-robotics-team-first-world-championship-houston/article_823c6ce1-d994-4998-a10d-f90824ea2799.html)**
-
-Summit High’s Chaos Theory robotics team is headed to the world championship after a standout season. Now it's working to raise funds to make the trip to Houston.
-
-Central Oregon Daily • 1d ago
-
----
-
-**[Disturbing video shows humanoid robots preparing for border patrol duties](https://www.earth.com/news/humanoid-robots-walker-s2-preparing-for-border-patrol-duty-china-vietnam/)**
-
-Walker S2 is an adult-sized humanoid robot with legs, a torso, and arms. China is sending these robots to patrol their border with Vietnam.
-
-Earth.com • 13h ago
-
----
-
-**[This humanoid robot does all your housework for you — and its makers say it's ready for your home](https://www.livescience.com/technology/robotics/this-humanoid-robot-does-all-your-housework-for-you-and-its-makers-say-its-ready-for-your-home)**
-
-Panther has been filmed doing basic household chores, like making the bed and cooking breakfast.
-
-Live Science • 1d ago
-
----
-
-**[Google’s New Model Makes Robotic Brains Slightly Smarter](https://www.theinformation.com/newsletters/ai-agenda/googles-new-model-makes-robotic-brains-slightly-smarter)**
-
-Earlier this week, Google DeepMind released Gemini Robotics-ER-1.6, a new vision and language model to help robots make sense of their surroundings. To show off its capabilities, Boston Dynamics—which has an agreement to use Gemini in its humanoid robots—published a video of its robot dogs using ...
-
-The Information • 21h ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -194,17 +194,7 @@ Boston Dynamics just did what most people thought would take years longer. Atlas
 
 📺 AI Revolution
 
-👁️ 108K • 👍 2K • 💬 172 • ⏱️ 21:49 • 3d ago
-
----
-
-**[Tesla Just Started Mass Producing Humanoid Robots — And Nobody Is Ready](https://www.youtube.com/watch?v=2sHaQffX0w0)**
-
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *Tesla ...
-
-📺 Julia McCoy
-
-👁️ 76K • 👍 2K • 💬 302 • ⏱️ 4:16 • 2d ago
+👁️ 110K • 👍 2K • 💬 172 • ⏱️ 21:49 • 3d ago
 
 ---
 
@@ -214,7 +204,17 @@ Chinese humanoid robots train to go head-to-head with human runners in the secon
 
 📺 NBC News
 
-👁️ 160K • 👍 1K • 💬 430 • ⏱️ 1:59 • 3d ago
+👁️ 161K • 👍 1K • 💬 432 • ⏱️ 1:59 • 3d ago
+
+---
+
+**[Tesla Just Started Mass Producing Humanoid Robots — And Nobody Is Ready](https://www.youtube.com/watch?v=2sHaQffX0w0)**
+
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *Tesla ...
+
+📺 Julia McCoy
+
+👁️ 77K • 👍 2K • 💬 305 • ⏱️ 4:16 • 2d ago
 
 ---
 
@@ -234,17 +234,7 @@ Physical Intelligence is building a foundation model that can control any robot 
 
 📺 Y Combinator
 
-👁️ 21K • 👍 547 • 💬 33 • ⏱️ 49:27 • 21h ago
-
----
-
-**[LIVE: AI and Robotics: Where Do We Go From Here](https://www.youtube.com/watch?v=BwRJ-aWb0Gc)**
-
-AI and robotics will impact our economy, our politics, our privacy, our emotional well-being, our environment, and even our ...
-
-📺 Senator Bernie Sanders
-
-👁️ 14K • 👍 852 • 💬 150 • ⏱️ 1:03:51 • 2d ago
+👁️ 22K • 👍 579 • 💬 34 • ⏱️ 49:27 • 23h ago
 
 ---
 
@@ -264,7 +254,7 @@ President Zelenskyy says that for the first time ever, the Ukrainian army was ab
 
 📺 NBC News
 
-👁️ 434K • 👍 7K • 💬 1K • ⏱️ 3:12 • 1d ago
+👁️ 448K • 👍 7K • 💬 2K • ⏱️ 3:12 • 1d ago
 
 ---
 
@@ -274,7 +264,7 @@ A new wave of attention is building around Elon Musk's latest version of the Tes
 
 📺 Carros Show
 
-👁️ 20K • 👍 400 • 💬 68 • ⏱️ 8:01 • 3d ago
+👁️ 20K • 👍 402 • 💬 69 • ⏱️ 8:01 • 3d ago
 
 ---
 
@@ -284,7 +274,17 @@ Try Seedance 2.0 with Claude on Higgsfield: https://higgsfield.ai/s/seedance-2-0
 
 📺 AI Revolution
 
-👁️ 100K • 👍 2K • 💬 184 • ⏱️ 14:57 • 5d ago
+👁️ 101K • 👍 2K • 💬 184 • ⏱️ 14:57 • 5d ago
+
+---
+
+**[Brand New Haro380 6-Axis Mini Industrial Robot | WLKATA](https://www.youtube.com/watch?v=T5t0leyjU00)**
+
+Introducing the brand new Haro380 6-Axis mini industrial robotic arm. Get a first look at its smooth motion, precise control, and ...
+
+📺 WLKATA ROBOTICS
+
+👁️ 14K • 👍 372 • 💬 9 • ⏱️ 2:11 • 3d ago
 
 ---
 
