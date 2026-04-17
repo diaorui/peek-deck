@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-17T19:37:37.724282+00:00'
+updated: '2026-04-17T20:46:00.712170+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
-- social
 - news
+- videos
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 17, 2026 at 19:37 UTC  
+**Last Updated:** April 17, 2026 at 20:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,119.59
+### $77,470.26
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.8%  
-**7d:** +5.8%  
-**30d:** +10.5%  
-**90d:** -17.5%  
-**1y:** -8.5%  
+**24h:** +3.1%  
+**7d:** +5.7%  
+**30d:** +10.4%  
+**90d:** -17.6%  
+**1y:** -8.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1551.74B
+**Market Cap:** $1546.38B
 Rank #1
 
-**Circulating Supply:** 20,017,171 BTC
+**Circulating Supply:** 20,017,203 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
 -38.7%
 
 **All-Time Low:** $67.81
-+113858.1%
++113833.0%
 
 ---
 
@@ -81,19 +81,25 @@ Rank #1
 
 Hey everyone, I’ve been buying Bitcoin since 2012/2013. I’ve lived through it all, studied all cycles in detail, and I’m usually dead silent on Reddit, I just lurk, watch, and stay out of the noise. Never really comment. But… This feels massively like the 2013 cycle and the 2021 cycle. We’d hit a top, then a brutal dip where everyone piled into the “lower lows incoming,” “it’s over,” narrative. Capitulation everywhere. Then, surprise, it bounced hard and went on to make new cycle highs. That’s exactly what I see playing out right now. We topped at roughly $126,200 in early October 2025. Since then we’ve had the classic post-peak flush, fear, and bearish calls for even lower prices. But to me this looks like the same retest/bounce setup we’ve seen before. The crowd is getting shaken out again right before the next leg higher. In my experience, this is when things get very bullish. A lot of people are going to sit on the sidelines waiting for “the real bottom” that never comes. People think the cycle top has com and we have entered bear, but the market is maturing and becoming longer. Wouldn’t surprise me at all if we see the cycle top sometime in late 2026 or 2027 in the $180k–$220k range. Just my two sats after watching this market for over a decade. Do your own research, never financial advice… but damn if this doesn’t feel familiar in the best possible way. Stay safe out there. (And yeah… still not selling.)
 
-4h ago
+5h ago
 
 ---
 
 **[The current situation in one picture](https://www.reddit.com/r/Bitcoin/comments/1so1wy0/the_current_situation_in_one_picture/)**
 
-5h ago
+6h ago
 
 ---
 
 **[400-600m in shorts just got CRUSHED](https://www.reddit.com/r/Bitcoin/comments/1so0gn3/400600m_in_shorts_just_got_crushed/)**
 
 What do you guys think... will it HODL?
+
+7h ago
+
+---
+
+**[Every time they say BTC is dead, it just climbs another $4k.](https://www.reddit.com/r/Bitcoin/comments/1so2gyt/every_time_they_say_btc_is_dead_it_just_climbs/)**
 
 6h ago
 
@@ -103,13 +109,13 @@ What do you guys think... will it HODL?
 
 Hahahah trains leaving the station 😂😂 where are all the 30k people at now ?? Unlucky boys. Better luck next time 🤡✌️
 
-6h ago
+7h ago
 
 ---
 
-**[Every time they say BTC is dead, it just climbs another $4k.](https://www.reddit.com/r/Bitcoin/comments/1so2gyt/every_time_they_say_btc_is_dead_it_just_climbs/)**
+**[Bitcoin is dead](https://www.reddit.com/r/Bitcoin/comments/1socs7g/bitcoin_is_dead/)**
 
-5h ago
+11m ago
 
 ---
 
@@ -117,15 +123,7 @@ Hahahah trains leaving the station 😂😂 where are all the 30k people at now 
 
 I've been learning more about Bitcoin lately and curious what clicked for others. What made you believe in it long term?
 
-5h ago
-
----
-
-**[Shipping Containers](https://www.reddit.com/r/Bitcoin/comments/1snkc6n/shipping_containers/)**
-
-I unload a few shipping containers each month at my job. I usually sign the inside wall like this one I unloaded today. I’ve been doing it for years. If you ever see my note out there in the wild let me know.
-
-19h ago
+6h ago
 
 ---
 
@@ -133,21 +131,21 @@ I unload a few shipping containers each month at my job. I usually sign the insi
 
 I tried to explain why our money is broken in under a minute
 
-🔗 [youtu.be](https://youtu.be/92DyFWpwNQ8) • 30m ago
-
----
-
-**[Too many ppl bearish](https://www.reddit.com/r/Bitcoin/comments/1snw19g/too_many_ppl_bearish/)**
-
-Heavy liquidity in the 80s along with 2 cme gaps. If the bulls r really lucky they can hit 90k which has a ton of liquidity. At that point no one will know if we’re back in a bull market. 80s from here is still bullish. This is y u dca and buy the dips. Congrats to those who bought in the 60s. We going moon
-
-10h ago
+🔗 [youtu.be](https://youtu.be/92DyFWpwNQ8) • 1h ago
 
 ---
 
 **[this is really interesting](https://www.reddit.com/r/Bitcoin/comments/1so9tg4/this_is_really_interesting/)**
 
-50m ago
+1h ago
+
+---
+
+**[Shipping Containers](https://www.reddit.com/r/Bitcoin/comments/1snkc6n/shipping_containers/)**
+
+I unload a few shipping containers each month at my job. I usually sign the inside wall like this one I unloaded today. I’ve been doing it for years. If you ever see my note out there in the wild let me know.
+
+21h ago
 
 ---
 
@@ -165,31 +163,51 @@ CNBC • 1d ago
 
 **[Bitcoin’s Greatest Mystery](https://www.nytimes.com/2026/04/16/world/bitcoin-satoshi-adam-back-israel-lebanon-ceasefire.html)**
 
-The New York Times • 15h ago
+The New York Times • 16h ago
 
 ---
 
-**[Bitcoin price news: BTC eyes sustained breakout above $76,000 on Strait of Hormuz opening](https://www.coindesk.com/markets/2026/04/17/bitcoin-rises-past-usd76-000-aiming-at-major-breakout-as-oil-plunges-on-iran-cooldown)**
+**[Market rally breakdown: Dow Jones, bitcoin, Tesla, and more](https://finance.yahoo.com/video/market-rally-breakdown-dow-jones-bitcoin-tesla-and-more-193947251.html)**
 
-Iran's foreign minister said the Strait of Hormuz will remain completely open for the remainder of the ceasefire.
+On Friday, the Dow Jones Industrial Average (^DJI) surged over 800 points, while both the S&P 500 (^GSPC) and Nasdaq Composite (^IXIC) gained over 1% each. Yahoo Finance Markets and Data Editor Jared Blikre takes a look at the week's biggest market moves, including action from the "Magnificent Seven" (MAGS), semiconductor sector (^SOX), software sector (IGV), CBOE Volatility Index (^VIX), 10-year Treasury yields (^TNX), the US dollar (DX-Y.NYB), bitcoin (BTC-USD), and more.
 
-CoinDesk • 3h ago
-
----
-
-**[Bitcoin (BTC) bear market bottom indicator that marked every cycle low since 2015 still hasn’t triggered](https://www.coindesk.com/markets/2026/04/17/this-simple-indicator-has-called-every-bottom-since-2015-it-hasn-t-triggered-yet)**
-
-A bitcoin indicator based on key moving averages has accurately marked every bear market bottom since 2015. That signal hasn't fired yet.
-
-CoinDesk • 12h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin prices lose momentum, Coinbase & Robinhood stocks sink](https://finance.yahoo.com/video/bitcoin-prices-lose-momentum-coinbase--robinhood-stocks-sink-145522576.html)**
+**[When Quantum Computers Come for Your Bitcoin: What Classical Property Law Says Happens Next](https://bitcoinmagazine.com/legal/when-quantum-computers-come-for-your-bitcoin-what-classical-property-law-says-happens-next)**
 
-Yahoo Finance's Julie Hyman takes a look at the crypto trade's market moves on Thursday, including bitcoin (BTC-USD), Robinhood (HOOD), Coinbase (COIN), and Strategy (MSTR) sinking into the red.
+A look at the legal aspects and relevant laws regarding a hypothetical theft of bitcoin utilizing quantum computers.
 
-Yahoo Finance • 1d ago
+Bitcoin Magazine • 1h ago
+
+---
+
+**[Bitcoin Gains After Iran Foreign Minister Declares Strait of Hormuz Open](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-04-17-2026/card/bitcoin-gains-after-iran-foreign-minister-declares-strait-of-hormuz-open-OmNI2Wf8tld0CaPJtZUO)**
+
+WSJ • 5h ago
+
+---
+
+**[Bitcoin, Stocks Surge as Iran Says Strait of Hormuz Is 'Completely Open'](https://decrypt.co/364725/bitcoin-stocks-surge-iran-strait-hormuz-completely-open)**
+
+Bitcoin spiked above $77,000 as stock indices set records, following word that Iran's Strait of Hormuz is open during the ceasefire.
+
+Decrypt • 6h ago
+
+---
+
+**[Bitcoin Price: Bitcoin (BTC) Breaks $78,000 as Iran Opens the Strait of Hormuz](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-bitcoin-btc-breaks-195621207.html)**
+
+Bitcoin (CRYPTO: BTC) just broke $78,000 after Iran declared the Strait of Hormuz fully open for all commercial ships. Oil prices crashed 11% to $85.90 per barrel—its lowest since the war started—and BTC hit its highest price since before the conflict began in late February. The strait carries roughly 20% of the world’s oil supply, ... Bitcoin Price: Bitcoin (BTC) Breaks $78,000 as Iran Opens the Strait of Hormuz
+
+Yahoo Finance • 49m ago
+
+---
+
+**[Alcoa Is Close to a Deal to Sell Smelter Site to Bitcoin Miner](https://www.bloomberg.com/news/articles/2026-04-17/alcoa-is-close-to-a-deal-to-sell-smelter-site-to-bitcoin-miner)**
+
+Bloomberg.com • 4h ago
 
 ---
 
@@ -197,13 +215,7 @@ Yahoo Finance • 1d ago
 
 “Not only gotten away with it, they’ve made a ton of money,” says actor Ben McKenzie, whose doc explores crypto’s crash and Trump-fueled rise.
 
-New York Magazine • 8h ago
-
----
-
-**[Bitcoin’s Fragile Recovery Sets Up a Big Short-Squeeze Risk](https://www.bloomberg.com/news/articles/2026-04-16/bitcoin-s-fragile-recovery-sets-up-a-big-short-squeeze-risk)**
-
-Bloomberg.com • 8h ago
+New York Magazine • 9h ago
 
 ---
 
@@ -212,20 +224,6 @@ Bloomberg.com • 8h ago
 In our last Bitcoin analysis, "Bitcoin After the Cycle Peak: What Comes Next and How We're Positioning", we argued that Bitcoin was closer to a cycle low than most believed, even if one final drop remained ahead. Since that publication, the probability of another drop occurring in the coming weeks has increased meaningfully. If it does, it should set up a tradeable bounce within what we believe is an ongoing bear market. What gives us the confidence that we are in a new bear market cycle, rather than a pullback within a larger uptrend, is that Bitcoin continues to track sentiment patterns and global liquidity cycles with remarkable consistency. Recognizing this unconventional correlation has been the foundation of a framework that has filtered out narrative-driven noise and kept us on the right side of every major Bitcoin trend since 2020. These are themes that we first introduced in August of 2025, when Bitcoin was trading at around $115,000.
 
 IO Fund • 1d ago
-
----
-
-**[Bitcoin outlook still clouded by 'extreme fear' amid macro uncertainty and profit-taking despite rally to $76K, analysts say](https://www.theblock.co/post/397874/bitcoin-outlook-still-clouded-by-extreme-fear-amid-macro-uncertainty-and-profit-taking-despite-rally-to-76k-analysts-say)**
-
-Bitcoin climbed toward $76,000 as ETF demand improves and Wall Street hits record highs, but analysts say the rally still looks fragile.
-
-The Block • 7h ago
-
----
-
-**[Former Fed Chair Issues Shock ‘Hyperinflation’ U.S. Dollar Warning—Fueling Huge Bitcoin Price Predictions](https://www.forbes.com/sites/digital-assets/2026/04/16/former-fed-chair-issues-shock-hyperinflation-us-dollar-warning-fueling-huge-bitcoin-price-predictions/)**
-
-Forbes • 1d ago
 
 ---
 
@@ -319,17 +317,37 @@ Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FR
 
 📺 CryptosRUs
 
-👁️ 12K • 👍 930 • 💬 54 • ⏱️ 51:00 • 6h ago
+👁️ 16K • 👍 1K • 💬 104 • ⏱️ 50:58 • 2h ago
 
 ---
 
-**[Bitcoin Warning: Why BTC Hasn&#39;t Bottomed — Plus ETH, SOL, XRP &amp; Altcoin Targets](https://www.youtube.com/watch?v=qSxd31mu0UQ)**
+**[Bitcoin SURGES to 75k! Is RISK ON Regime Back](https://www.youtube.com/watch?v=hc7TNDccwcs)**
 
-Gareth Soloway, Chief Market Strategist at Verified Investing, breaks down the latest crypto price action across Bitcoin, Ethereum, ...
+Bitcoin is back at $75K as risk appetite returns—but the bigger story is unfolding beneath the surface. In this video, Adam ...
 
-📺 Verified Pro Traders
+📺 Swan Bitcoin
 
-👁️ 11K • 👍 980 • 💬 101 • ⏱️ 8:13 • 8h ago
+👁️ 3K • 👍 364 • 💬 54 • ⏱️ 9:53 • 3h ago
+
+---
+
+**[Bitcoin Is at $75,000. The Why Is What Worries Me. | Dana Love PhD](https://www.youtube.com/watch?v=TqkJdLpSUsU)**
+
+Dana Love, PhD breaks down who actually drove Bitcoin to $75000, and it wasn't retail. On-chain data from Q1 2026 shows ...
+
+📺 Dana Love, PhD
+
+👁️ 690 • 👍 54 • 💬 11 • ⏱️ 1:53 • 2h ago
+
+---
+
+**[Everything just changed!! Is Bitcoin READY to EXPLODE?! | EP 1485](https://www.youtube.com/watch?v=5TkxW2Tkb9s)**
+
+And just like that everything is now working in bitcoin's favor!! Bear market over or bull trap?
+
+📺 Simply Bitcoin
+
+👁️ 4K • 👍 286 • 💬 16 • ⏱️ 1:31:21 • 2h ago
 
 ---
 
@@ -339,27 +357,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Com
 
 📺 Altcoin Daily
 
-👁️ 48K • 👍 2K • 💬 139 • ⏱️ 14:13 • 1d ago
-
----
-
-**[$12 Trillion Charles Schwab To Launch Bitcoin And Ethereum Trading — “Schwab Crypto”  Is Coming](https://www.youtube.com/watch?v=vvq0fKhoUM0)**
-
-IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purposes only. NOT financial, investment, or ...
-
-📺 The Kenzo Guy
-
-👁️ 6K • 👍 327 • 💬 27 • ⏱️ 25:48 • 22h ago
-
----
-
-**[GET READY...Bitcoin Breakout Signals Are Back](https://www.youtube.com/watch?v=KMe058rJQRs)**
-
-Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FREE Crypto Predictions & Compete Weekly ...
-
-📺 CryptosRUs
-
-👁️ 18K • 👍 973 • 💬 43 • ⏱️ 44:22 • 1d ago
+👁️ 49K • 👍 2K • 💬 141 • ⏱️ 14:13 • 1d ago
 
 ---
 
@@ -369,17 +367,37 @@ In today's Markets Outlook, Bitwise CIO Matt Hougan joins CoinDesk's Jennifer Sa
 
 📺 CoinDesk
 
-👁️ 16K • 👍 398 • 💬 65 • ⏱️ 20:47 • 1d ago
+👁️ 17K • 👍 419 • 💬 65 • ⏱️ 20:47 • 1d ago
 
 ---
 
-**[Strategy Buys 4,000 Bitcoin in 30 Minutes | Bitcoin&#39;s Price Floor Just Changed FOREVER](https://www.youtube.com/watch?v=OyA6eKmys4E)**
+**[Bitcoin Warning: Why BTC Hasn&#39;t Bottomed — Plus ETH, SOL, XRP &amp; Altcoin Targets](https://www.youtube.com/watch?v=qSxd31mu0UQ)**
 
-Bitcoin just entered a new phase and most people still don't see it. Massive institutional buys, macro shifts, and a supply shock are ...
+Gareth Soloway, Chief Market Strategist at Verified Investing, breaks down the latest crypto price action across Bitcoin, Ethereum, ...
 
-📺 Simply Bitcoin
+📺 Verified Pro Traders
 
-👁️ 33K • 👍 2K • 💬 169 • ⏱️ 16:45 • 1d ago
+👁️ 13K • 👍 1K • 💬 130 • ⏱️ 8:13 • 10h ago
+
+---
+
+**[$12 Trillion Charles Schwab To Launch Bitcoin And Ethereum Trading — “Schwab Crypto”  Is Coming](https://www.youtube.com/watch?v=vvq0fKhoUM0)**
+
+IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purposes only. NOT financial, investment, or ...
+
+📺 The Kenzo Guy
+
+👁️ 6K • 👍 328 • 💬 27 • ⏱️ 25:48 • 23h ago
+
+---
+
+**[GET READY...Bitcoin Breakout Signals Are Back](https://www.youtube.com/watch?v=KMe058rJQRs)**
+
+Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FREE Crypto Predictions & Compete Weekly ...
+
+📺 CryptosRUs
+
+👁️ 18K • 👍 975 • 💬 43 • ⏱️ 44:22 • 1d ago
 
 ---
 
@@ -389,27 +407,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25%
 
 📺 Crypto Rover
 
-👁️ 11K • 👍 703 • 💬 30 • ⏱️ 9:18 • 13h ago
-
----
-
-**[You Keep Doubting This Bitcoin Rally [That&#39;s Why It Keeps Pumping]](https://www.youtube.com/watch?v=biKiwNkBUiw)**
-
-Ran breaks down what might be the most hated rally in crypto right now, where price keeps climbing but conviction is still missing.
-
-📺 Crypto Banter
-
-👁️ 17K • 👍 1K • 💬 43 • ⏱️ 28:53 • 1d ago
-
----
-
-**[The Other Side of the Bitcoin: Crypto &amp; Corruption w/Ben McKenzie | The Weekly Show with Jon Stewart](https://www.youtube.com/watch?v=3fhLpauSInk)**
-
-As cryptocurrency continues to embed itself in American politics, Jon is joined by Ben McKenzie, author of "Easy Money" and ...
-
-📺 The Weekly Show with Jon Stewart
-
-👁️ 151K • 👍 5K • 💬 930 • ⏱️ 1:35:48 • 1d ago
+👁️ 12K • 👍 709 • 💬 31 • ⏱️ 9:18 • 14h ago
 
 ---
 
