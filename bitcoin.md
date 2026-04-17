@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-17T21:42:21.330891+00:00'
+updated: '2026-04-17T22:40:43.017359+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
-- news
+- videos
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 17, 2026 at 21:42 UTC  
+**Last Updated:** April 17, 2026 at 22:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,470.26
+### $77,317.00
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** +3.1%  
-**7d:** +5.7%  
-**30d:** +10.4%  
-**90d:** -17.6%  
-**1y:** -8.6%  
+**7d:** +6.0%  
+**30d:** +10.6%  
+**90d:** -17.4%  
+**1y:** -8.4%  
 
 ---
 
@@ -77,17 +77,23 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Bitcoin is dead](https://www.reddit.com/r/Bitcoin/comments/1socs7g/bitcoin_is_dead/)**
+
+2h ago
+
+---
+
 **[My perspective](https://www.reddit.com/r/Bitcoin/comments/1so4dx3/my_perspective/)**
 
 Hey everyone, I’ve been buying Bitcoin since 2012/2013. I’ve lived through it all, studied all cycles in detail, and I’m usually dead silent on Reddit, I just lurk, watch, and stay out of the noise. Never really comment. But… This feels massively like the 2013 cycle and the 2021 cycle. We’d hit a top, then a brutal dip where everyone piled into the “lower lows incoming,” “it’s over,” narrative. Capitulation everywhere. Then, surprise, it bounced hard and went on to make new cycle highs. That’s exactly what I see playing out right now. We topped at roughly $126,200 in early October 2025. Since then we’ve had the classic post-peak flush, fear, and bearish calls for even lower prices. But to me this looks like the same retest/bounce setup we’ve seen before. The crowd is getting shaken out again right before the next leg higher. In my experience, this is when things get very bullish. A lot of people are going to sit on the sidelines waiting for “the real bottom” that never comes. People think the cycle top has com and we have entered bear, but the market is maturing and becoming longer. Wouldn’t surprise me at all if we see the cycle top sometime in late 2026 or 2027 in the $180k–$220k range. Just my two sats after watching this market for over a decade. Do your own research, never financial advice… but damn if this doesn’t feel familiar in the best possible way. Stay safe out there. (And yeah… still not selling.)
 
-6h ago
+7h ago
 
 ---
 
 **[The current situation in one picture](https://www.reddit.com/r/Bitcoin/comments/1so1wy0/the_current_situation_in_one_picture/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -95,13 +101,19 @@ Hey everyone, I’ve been buying Bitcoin since 2012/2013. I’ve lived through i
 
 What do you guys think... will it HODL?
 
-8h ago
+9h ago
 
 ---
 
 **[Every time they say BTC is dead, it just climbs another $4k.](https://www.reddit.com/r/Bitcoin/comments/1so2gyt/every_time_they_say_btc_is_dead_it_just_climbs/)**
 
-7h ago
+8h ago
+
+---
+
+**[this is really interesting](https://www.reddit.com/r/Bitcoin/comments/1so9tg4/this_is_really_interesting/)**
+
+3h ago
 
 ---
 
@@ -109,11 +121,13 @@ What do you guys think... will it HODL?
 
 Hahahah trains leaving the station 😂😂 where are all the 30k people at now ?? Unlucky boys. Better luck next time 🤡✌️
 
-8h ago
+9h ago
 
 ---
 
-**[Bitcoin is dead](https://www.reddit.com/r/Bitcoin/comments/1socs7g/bitcoin_is_dead/)**
+**[The 'Bought in 2012' Fallacy](https://www.reddit.com/r/Bitcoin/comments/1sodh69/the_bought_in_2012_fallacy/)**
+
+Is it just me, or are more and more people saying they bought Bitcoin over a decade ago? I don't know, it's a bit tiring reading certain posts that start by saying they've been holding BTC for X years and then use that as justification for the post. What do you think about this? Edit: I'm only referring to those who use it as justification for giving financial advice. If you're proud of having held for a long time and want to share it, that's not a bad thing, obviously. We all want to have that discipline, patience, and opportunity to share it someday the achievement.
 
 1h ago
 
@@ -123,7 +137,7 @@ Hahahah trains leaving the station 😂😂 where are all the 30k people at now 
 
 I've been learning more about Bitcoin lately and curious what clicked for others. What made you believe in it long term?
 
-7h ago
+8h ago
 
 ---
 
@@ -131,21 +145,7 @@ I've been learning more about Bitcoin lately and curious what clicked for others
 
 I tried to explain why our money is broken in under a minute
 
-🔗 [youtu.be](https://youtu.be/92DyFWpwNQ8) • 2h ago
-
----
-
-**[this is really interesting](https://www.reddit.com/r/Bitcoin/comments/1so9tg4/this_is_really_interesting/)**
-
-2h ago
-
----
-
-**[Shipping Containers](https://www.reddit.com/r/Bitcoin/comments/1snkc6n/shipping_containers/)**
-
-I unload a few shipping containers each month at my job. I usually sign the inside wall like this one I unloaded today. I’ve been doing it for years. If you ever see my note out there in the wild let me know.
-
-22h ago
+🔗 [youtu.be](https://youtu.be/92DyFWpwNQ8) • 3h ago
 
 ---
 
@@ -163,51 +163,31 @@ CNBC • 1d ago
 
 **[Bitcoin’s Greatest Mystery](https://www.nytimes.com/2026/04/16/world/bitcoin-satoshi-adam-back-israel-lebanon-ceasefire.html)**
 
-The New York Times • 17h ago
+The New York Times • 18h ago
 
 ---
 
-**[Market rally breakdown: Dow Jones, bitcoin, Tesla, and more](https://finance.yahoo.com/video/market-rally-breakdown-dow-jones-bitcoin-tesla-and-more-193947251.html)**
+**[Why Bitcoin Made a Breakthrough on Friday](https://www.fool.com/investing/2026/04/17/why-bitcoin-made-a-breakthrough-on-friday/)**
 
-On Friday, the Dow Jones Industrial Average (^DJI) surged over 800 points, while both the S&P 500 (^GSPC) and Nasdaq Composite (^IXIC) gained over 1% each. Yahoo Finance Markets and Data Editor Jared Blikre takes a look at the week's biggest market moves, including action from the "Magnificent Seven" (MAGS), semiconductor sector (^SOX), software sector (IGV), CBOE Volatility Index (^VIX), 10-year Treasury yields (^TNX), the US dollar (DX-Y.NYB), bitcoin (BTC-USD), and more.
+Geopolitical tensions were easing considerably... at least, for the moment.
 
-Yahoo Finance • 2h ago
-
----
-
-**[When Quantum Computers Come for Your Bitcoin: What Classical Property Law Says Happens Next](https://bitcoinmagazine.com/legal/when-quantum-computers-come-for-your-bitcoin-what-classical-property-law-says-happens-next)**
-
-A look at the legal aspects and relevant laws regarding a hypothetical theft of bitcoin utilizing quantum computers.
-
-Bitcoin Magazine • 1h ago
+The Motley Fool • 1h ago
 
 ---
 
-**[Bitcoin Gains After Iran Foreign Minister Declares Strait of Hormuz Open](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-04-17-2026/card/bitcoin-gains-after-iran-foreign-minister-declares-strait-of-hormuz-open-OmNI2Wf8tld0CaPJtZUO)**
+**[Bitcoin Cracks 7-Month Ceiling. Can Bulls Push It Higher?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-cracks-7-month-ceiling-211136484.html)**
 
-WSJ • 6h ago
-
----
-
-**[Bitcoin, Stocks Surge as Iran Says Strait of Hormuz Is 'Completely Open'](https://decrypt.co/364725/bitcoin-stocks-surge-iran-strait-hormuz-completely-open)**
-
-Bitcoin spiked above $77,000 as stock indices set records, following word that Iran's Strait of Hormuz is open during the ceasefire.
-
-Decrypt • 7h ago
-
----
-
-**[Bitcoin Price: Bitcoin (BTC) Breaks $78,000 as Iran Opens the Strait of Hormuz](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-bitcoin-btc-breaks-195621207.html)**
-
-Bitcoin (CRYPTO: BTC) just broke $78,000 after Iran declared the Strait of Hormuz fully open for all commercial ships. Oil prices crashed 11% to $85.90 per barrel—its lowest since the war started—and BTC hit its highest price since before the conflict began in late February. The strait carries roughly 20% of the world’s oil supply, ... Bitcoin Price: Bitcoin (BTC) Breaks $78,000 as Iran Opens the Strait of Hormuz
+The price of Bitcoin breaks a seven-month downtrend as geopolitical shifts and prediction markets point to $84K next.
 
 Yahoo Finance • 1h ago
 
 ---
 
-**[Alcoa Is Close to a Deal to Sell Smelter Site to Bitcoin Miner](https://www.bloomberg.com/news/articles/2026-04-17/alcoa-is-close-to-a-deal-to-sell-smelter-site-to-bitcoin-miner)**
+**[Why Bitcoin Made a Breakthrough on Friday](https://finance.yahoo.com/markets/crypto/articles/why-bitcoin-made-breakthrough-friday-215028745.html)**
 
-Bloomberg.com • 4h ago
+Geopolitical tensions were easing considerably... at least, for the moment.
+
+Yahoo Finance • 50m ago
 
 ---
 
@@ -215,15 +195,37 @@ Bloomberg.com • 4h ago
 
 “Not only gotten away with it, they’ve made a ton of money,” says actor Ben McKenzie, whose doc explores crypto’s crash and Trump-fueled rise.
 
-New York Magazine • 10h ago
+New York Magazine • 11h ago
 
 ---
 
-**[Bitcoin 2026 Price Prediction: Why the Dollar, Global Liquidity and Volume Signal More Downside Ahead](https://io-fund.com/crypto/bitcoin-price-prediction-2026-dollar-liquidity-volume-downside)**
+**[Bitcoin price news: BTC eyes sustained breakout above $76,000 on Strait of Hormuz opening](https://www.coindesk.com/markets/2026/04/17/bitcoin-rises-past-usd76-000-aiming-at-major-breakout-as-oil-plunges-on-iran-cooldown)**
 
-In our last Bitcoin analysis, "Bitcoin After the Cycle Peak: What Comes Next and How We're Positioning", we argued that Bitcoin was closer to a cycle low than most believed, even if one final drop remained ahead. Since that publication, the probability of another drop occurring in the coming weeks has increased meaningfully. If it does, it should set up a tradeable bounce within what we believe is an ongoing bear market. What gives us the confidence that we are in a new bear market cycle, rather than a pullback within a larger uptrend, is that Bitcoin continues to track sentiment patterns and global liquidity cycles with remarkable consistency. Recognizing this unconventional correlation has been the foundation of a framework that has filtered out narrative-driven noise and kept us on the right side of every major Bitcoin trend since 2020. These are themes that we first introduced in August of 2025, when Bitcoin was trading at around $115,000.
+Iran's foreign minister said the Strait of Hormuz will remain completely open for the remainder of the ceasefire.
 
-IO Fund • 1d ago
+CoinDesk • 6h ago
+
+---
+
+**[Bitcoin, Stocks Surge as Iran Says Strait of Hormuz Is 'Completely Open'](https://decrypt.co/364725/bitcoin-stocks-surge-iran-strait-hormuz-completely-open)**
+
+Bitcoin spiked above $77,000 as stock indices set records, following word that Iran's Strait of Hormuz is open during the ceasefire.
+
+Decrypt • 8h ago
+
+---
+
+**[Bitcoin Climbs to Two-Month High Amid Middle East Deal Optimism](https://finance.yahoo.com/markets/crypto/articles/bitcoin-climbs-two-month-high-185621449.html)**
+
+(Bloomberg) -- Bitcoin rose to the highest level since early February after a flurry of comments from the US and Iran sparked optimism that the conflict in the Middle East may be heading toward a resolution. Most Read from BloombergTrump Says Iran Will Suspend Nuclear Program as Hormuz OpensHow Anthropic Learned Mythos Was Too Dangerous for the WildIran Says Hormuz Strait Now Completely Open for Commercial ShipsHenry Paulson Suggests US Make a Break-Glass Treasuries PlanNorth Sea Oil Suddenly Ha
+
+Yahoo Finance • 3h ago
+
+---
+
+**[Alcoa Is Close to a Deal to Sell Smelter Site to Bitcoin Miner](https://www.bloomberg.com/news/articles/2026-04-17/alcoa-is-close-to-a-deal-to-sell-smelter-site-to-bitcoin-miner)**
+
+Bloomberg.com • 5h ago
 
 ---
 
@@ -293,17 +295,15 @@ Bitcoin Core Will Maintain the Protocol. It May Not Save It. The reference imple
 
 ---
 
-**[Blockchain.com explorer bug causing wrong bitcoin address to be displayed](https://news.ycombinator.com/item?id=47724574)**
-
-The most popular and trusted block explorer and crypto transaction search engine.
-
-⬆️ 2 • 💬 2 • 6d ago • [blockchain.com](https://www.blockchain.com/explorer/addresses/btc/1PWo3JeB9jrGwfHDNpdGK54CRas7fsVzXU)
-
----
-
 **[Digital Archaeology: where does Bitcoin's 21M come from?](https://news.ycombinator.com/item?id=47776334)**
 
 ⬆️ 2 • 💬 1 • 2d ago • [bayinformationsystems.substack.com](https://bayinformationsystems.substack.com/p/digital-archaeology-bitcoins-21-million)
+
+---
+
+**[How the Bitcoin protocol works (2013)](https://news.ycombinator.com/item?id=47787017)**
+
+⬆️ 2 • 💬 0 • 1d ago • [michaelnielsen.org](https://michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/)
 
 ---
 
@@ -317,7 +317,7 @@ Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FR
 
 📺 CryptosRUs
 
-👁️ 16K • 👍 1K • 💬 104 • ⏱️ 50:58 • 3h ago
+👁️ 16K • 👍 1K • 💬 104 • ⏱️ 50:58 • 4h ago
 
 ---
 
@@ -327,7 +327,7 @@ Bitcoin is back at $75K as risk appetite returns—but the bigger story is unfol
 
 📺 Swan Bitcoin
 
-👁️ 3K • 👍 364 • 💬 54 • ⏱️ 9:53 • 4h ago
+👁️ 3K • 👍 364 • 💬 54 • ⏱️ 9:53 • 5h ago
 
 ---
 
@@ -337,7 +337,7 @@ Dana Love, PhD breaks down who actually drove Bitcoin to $75000, and it wasn't r
 
 📺 Dana Love, PhD
 
-👁️ 690 • 👍 54 • 💬 11 • ⏱️ 1:53 • 3h ago
+👁️ 690 • 👍 54 • 💬 11 • ⏱️ 1:53 • 4h ago
 
 ---
 
@@ -347,7 +347,7 @@ And just like that everything is now working in bitcoin's favor!! Bear market ov
 
 📺 Simply Bitcoin
 
-👁️ 4K • 👍 286 • 💬 16 • ⏱️ 1:31:21 • 3h ago
+👁️ 4K • 👍 286 • 💬 16 • ⏱️ 1:31:21 • 4h ago
 
 ---
 
@@ -377,7 +377,7 @@ Gareth Soloway, Chief Market Strategist at Verified Investing, breaks down the l
 
 📺 Verified Pro Traders
 
-👁️ 13K • 👍 1K • 💬 130 • ⏱️ 8:13 • 10h ago
+👁️ 13K • 👍 1K • 💬 130 • ⏱️ 8:13 • 11h ago
 
 ---
 
@@ -407,7 +407,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25%
 
 📺 Crypto Rover
 
-👁️ 12K • 👍 709 • 💬 31 • ⏱️ 9:18 • 15h ago
+👁️ 12K • 👍 709 • 💬 31 • ⏱️ 9:18 • 16h ago
 
 ---
 

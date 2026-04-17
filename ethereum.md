@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-17T21:42:21.336974+00:00'
+updated: '2026-04-17T22:40:43.023256+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
-- news
+- videos
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 17, 2026 at 21:42 UTC  
+**Last Updated:** April 17, 2026 at 22:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +3.4%  
-**7d:** +5.9%  
-**30d:** +13.2%  
-**90d:** -26.3%  
-**1y:** +52.3%  
+**24h:** +3.9%  
+**7d:** +6.7%  
+**30d:** +14.1%  
+**90d:** -25.7%  
+**1y:** +53.5%  
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
 **[I think Coinbase is building a fantastic business with stablecoins, and I would love others' opinions and thoughts.](https://www.reddit.com/r/ethereum/comments/1so3od4/i_think_coinbase_is_building_a_fantastic_business/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Glamsterdam devnets drive Ethereum’s execution readiness while Hegotá opens the next phase of upgrade proposals & protocol evolution.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-consensus-acdc-call-177/) • 13h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-consensus-acdc-call-177/) • 14h ago
 
 ---
 
@@ -94,7 +94,7 @@ Glamsterdam devnets drive Ethereum’s execution readiness while Hegotá opens t
 
 Solidity developer survey results, ether.fi migrated to OP Mainnet, X $ETH cashtag
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-mini-0/) • 14h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-mini-0/) • 15h ago
 
 ---
 
@@ -154,31 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Quarterly transactions hit 200.4 million in Q1 2026, the first time above 200 million and more than double the 2023 lows.
 
-CoinDesk • 14h ago
-
----
-
-**[Charles Schwab begins rollout of spot bitcoin, ethereum trading platform](https://www.theblock.co/post/397756/charles-schwab-begins-rollout-spot-bitcoin-ethereum-trading-platform)**
-
-The new platform, called Schwab Crypto, will roll out over the coming weeks and will only support bitcoin and ethereum at first.
-
-The Block • 1d ago
-
----
-
-**[Crypto Trader Turns $2,500 Into $500K on Skyrocketing Ethereum Meme Coin](https://finance.yahoo.com/markets/crypto/articles/crypto-trader-turns-2-500-182605699.html)**
-
-A meme coin trader turned $2,500 into nearly $500,000 in a matter of hours via the Elon Musk-linked ASTEROID token on Ethereum.
-
-Yahoo Finance • 3h ago
-
----
-
-**[Charles Schwab to launch direct bitcoin, ether trading to compete with Robinhood](https://www.cnbc.com/2026/04/16/charles-schwab-to-launch-direct-bitcoin-ethereum-trading-to-compete-with-robinhood.html)**
-
-Charles Schwab is rolling out crypto trading, allowing clients to buy bitcoin and ether through a new arm called Schwab Crypto.
-
-CNBC • 1d ago
+CoinDesk • 15h ago
 
 ---
 
@@ -190,39 +166,65 @@ Decrypt • 1d ago
 
 ---
 
+**[XRP Price: XRP Flips BNB to Become the Fourth-Largest Crypto — Can It Catch Ethereum Next?](https://finance.yahoo.com/markets/crypto/articles/xrp-price-xrp-flips-bnb-220806496.html)**
+
+XRP (CRYPTO: XRP) initially reclaimed the number four spot in global crypto rankings in mid-March, overtaking BNB with a market cap of around $93 billion before the two assets traded places again. BNB reclaimed fourth briefly on March 23, reaching an $85.9 billion market cap versus XRP’s $85 billion, but the gap between the two ... XRP Price: XRP Flips BNB to Become the Fourth-Largest Crypto — Can It Catch Ethereum Next?
+
+Yahoo Finance • 32m ago
+
+---
+
+**[Charles Schwab begins rollout of spot bitcoin, ethereum trading platform](https://www.theblock.co/post/397756/charles-schwab-begins-rollout-spot-bitcoin-ethereum-trading-platform)**
+
+The new platform, called Schwab Crypto, will roll out over the coming weeks and will only support bitcoin and ethereum at first.
+
+The Block • 1d ago
+
+---
+
+**[Charles Schwab to launch direct bitcoin, ether trading to compete with Robinhood](https://www.cnbc.com/2026/04/16/charles-schwab-to-launch-direct-bitcoin-ethereum-trading-to-compete-with-robinhood.html)**
+
+Charles Schwab is rolling out crypto trading, allowing clients to buy bitcoin and ether through a new arm called Schwab Crypto.
+
+CNBC • 1d ago
+
+---
+
+**[Charles Schwab Weighs Prediction Markets Move as Bitcoin, Ethereum Trading Nears](https://decrypt.co/364617/charles-schwab-weighs-prediction-markets-bitcoin-ethereum-trading-nears)**
+
+Charles Schwab President and CEO Rick Wurster indicated that America’s largest discount brokerage will likely support prediction markets.
+
+Decrypt • 1d ago
+
+---
+
+**[Ethereum Foundation exec Josh Stark is stepping down](https://www.theblock.co/post/397777/ethereum-foundation-exec-josh-stark-is-stepping-down)**
+
+The move comes amid ongoing changes at the EF, including a renewed focus on scaling and developing the Ethereum mainnet.
+
+The Block • 1d ago
+
+---
+
+**[Why Ethereum Has Become One Of The Most Heavily Shorted Assets Globally](https://www.tradingview.com/news/newsbtc:a0c30e4d6094b:0-why-ethereum-has-become-one-of-the-most-heavily-shorted-assets-globally/)**
+
+Across global markets, Ethereum has emerged as one of the most heavily shorted assets, a positioning that reflects more than simple bearish sentiment. It signals a growing divergence between market expectations and ETH’s long-term fundamentals, placing the asset at the center of an increasingly com…
+
+TradingView — Track All Markets • 4h ago
+
+---
+
+**[How Fhenix and Ethereum Are Racing a Quantum Clock Nobody Can See](https://hackernoon.com/how-fhenix-and-ethereum-are-racing-a-quantum-clock-nobody-can-see)**
+
+Fhenix X Space with Guy Zyskind and Ethereum's Nicolas Serrano reframes post-quantum crypto from future risk to active timing problem.
+
+HackerNoon • 1h ago
+
+---
+
 **[Most large cryptocurrencies climb on Sui, Ethereum increases](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-climb-on-sui-ethereum-increases-6f01e867-dad5317f1ea1)**
 
-MarketWatch • 7h ago
-
----
-
-**[Could Ethereum slip below $2,200 if crypto correction deepens?](https://www.tradingview.com/news/invezz:211690b9e094b:0-could-ethereum-slip-below-2-200-if-crypto-correction-deepens/)**
-
-Ethereum has dropped to the $2,300 region after briefly reclaiming $2,400 on Thursday.The top altcoin has been facing pressure near $2,380, which aligns with a key technical resistance, closing the daily candle below this psychological level.The key resistance level is stuck between the cost basis…
-
-TradingView — Track All Markets • 15h ago
-
----
-
-**[Better Crypto Buy Right Now: Ethereum vs. Solana](https://www.fool.com/investing/2026/04/17/better-crypto-buy-right-now-ethereum-vs-solana/)**
-
-Amid the ongoing cryptocurrency bear market, these two interesting digital assets present investors with possible buy-the-dip opportunities.
-
-The Motley Fool • 7h ago
-
----
-
-**[ETH Rangers Program Recap](https://blog.ethereum.org/2026/04/16/eth-rangers-recap)**
-
-Ethereum Foundation Blog • 1d ago
-
----
-
-**[Current price of Ethereum for April 17, 2026](https://fortune.com/article/price-of-ethereum-04-17-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 8h ago
+MarketWatch • 8h ago
 
 ---
 
@@ -236,7 +238,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 554 • 👍 23 • ⏱️ 4:53 • 12h ago
+👁️ 554 • 👍 23 • ⏱️ 4:53 • 13h ago
 
 ---
 
@@ -256,7 +258,7 @@ Michael Saylor's Ethereum view has changed. Bitcoin is digital capital. Ethereum
 
 📺 Bankless
 
-👁️ 8K • 👍 167 • 💬 42 • ⏱️ 1:17 • 1d ago
+👁️ 8K • 👍 167 • 💬 42 • ⏱️ 1:17 • 2d ago
 
 ---
 
@@ -296,7 +298,7 @@ MALU Stake Pool: pool18zf8txwv8lmtpq2src8wrhz0pjut5qft8h5tfxnctwc95r7jvvj 🗳�
 
 📺 Linda CryptoFly
 
-👁️ 660 • 👍 129 • 💬 26 • ⏱️ 3:21 • 5h ago
+👁️ 660 • 👍 129 • 💬 26 • ⏱️ 3:21 • 6h ago
 
 ---
 
@@ -326,7 +328,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 839 • 👍 66 • ⏱️ 5:23 • 6h ago
+👁️ 839 • 👍 66 • ⏱️ 5:23 • 7h ago
 
 ---
 
