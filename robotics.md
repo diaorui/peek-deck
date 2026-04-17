@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-17T08:12:37.899635+00:00'
+updated: '2026-04-17T09:54:42.909593+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 17, 2026 at 08:12 UTC  
+**Last Updated:** April 17, 2026 at 09:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I tried to do a quadruped robot using cheap servos (MG90S), normal batteries and wood structure. I think that it could be built with less than R$200,00 (U$40,00 at conversion). The name of the project is Guara Nano. I used ESP32, 8x MG90S servos (chinese version), 4x Batteries 1,5V, MPU6050 and PCA9685. I cannot supply ESP32 with these batteries because of drop voltage, so I used micro-USB cable. I did two gaits that work, walk and trot, with control of velocity and height control. It can turn too, using side traction and go back. I also did a simple proportional control but I didn't tested too much. The code and process to build will be open-source, now I'm working on documentation and I'll post here soon. I would appreciate tips and suggestions for improvement, and perhaps some other similar works, not just the ones you find on Google, as I've already looked at all of them.
 
-10h ago
+11h ago
 
 ---
 
@@ -44,13 +44,13 @@ I tried to do a quadruped robot using cheap servos (MG90S), normal batteries and
 
 From The Humanoid Hub on 𝕏: https://x.com/TheHumanoidHub/status/2044504579480686900
 
-23h ago
+1d ago
 
 ---
 
 **[Multi-Robot Synchronization Demo from ESTUN Robotics](https://www.reddit.com/r/robotics/comments/1sn9asg/multirobot_synchronization_demo_from_estun/)**
 
-15h ago
+17h ago
 
 ---
 
@@ -58,13 +58,21 @@ From The Humanoid Hub on 𝕏: https://x.com/TheHumanoidHub/status/2044504579480
 
 Hi all, I’m working on a demolition robot (similar to Brokk/Husqvarna) and evaluating camera options for operator visibility. The setup will likely use multiple small fixed cameras around the arm/tool, so I’m trying to balance: Low-light performance Dust tolerance (with enclosure/air assist) Latency vs IP-based streaming (PoE/RTSP) Has anyone worked with camera systems in similar harsh environments (demolition, mining, etc.)? Would be great to hear what worked well in practice and any pitfalls to avoid.
 
-10m ago
+1h ago
 
 ---
 
 **[I 3D-printed a capture point for my Capture the Base robot game](https://www.reddit.com/r/robotics/comments/1sn2ptz/i_3dprinted_a_capture_point_for_my_capture_the/)**
 
-19h ago
+20h ago
+
+---
+
+**[How do you actually build linkages](https://www.reddit.com/r/robotics/comments/1snvs4t/how_do_you_actually_build_linkages/)**
+
+I'm building a 5 bar linkage. It's for target shooting practice. I will attach a target to the end effector and move it around. How do you go from the linkage design to actually building it in real life? I want to eliminate as much friction as possible (in the hole of the arm where the bolt/rod goes through, arm on arm friction, and arm on bolt/nut friction), but also cant have play in the axial direction of the arm joint. These two seem to contradict each other. The stack up I am most happy with so far is: Bolt head Nylon washer Arm Spacer Arm 2 Nylon washer Nylock nut It needs to be tight enough that there isn't play along the shaft, but not so tight that the arms struggle to rotate, or even "grab" onto the nut and cause it to get loose (or more tight) In using aluminum arms. The arm lengths are 90 and 150mm. Thickness undecided yet. Possibly 2-4mm
+
+38m ago
 
 ---
 
@@ -72,7 +80,7 @@ Hi all, I’m working on a demolition robot (similar to Brokk/Husqvarna) and eva
 
 Sharing a video from a public-road robotics event in Akihabara, Tokyo, where robots were demonstrated outdoors. More than 30 exhibitors took part. I'm with ugo, one of the exhibitors shown here. Happy to share more context about the event or what was exhibited if people are curious.
 
-6h ago
+8h ago
 
 ---
 
@@ -80,13 +88,13 @@ Sharing a video from a public-road robotics event in Akihabara, Tokyo, where rob
 
 Boston Dynamics is positioning Atlas for future deployment in industrial environments, with a focus on sectors like manufacturing and warehousing. The article explains that training the robot on a wide range of behaviors is contributing to improved overall capability, even when those behaviors are not directly tied to specific tasks. This reflects a broader trend in robotics where more varied data improves performance.
 
-🔗 [Automate](https://www.automate.org/robotics/industry-insights/balancing-work-and-play-with-boston-dynamics-atlas) • 14h ago
+🔗 [Automate](https://www.automate.org/robotics/industry-insights/balancing-work-and-play-with-boston-dynamics-atlas) • 16h ago
 
 ---
 
 **[Learn C++17 for Robotics](https://www.reddit.com/r/robotics/comments/1snr1pi/learn_c17_for_robotics/)**
 
-3h ago
+5h ago
 
 ---
 
@@ -94,13 +102,7 @@ Boston Dynamics is positioning Atlas for future deployment in industrial environ
 
 Joining the existing D457 GMSL/FAKRA, we’re introducing GMSL support across three of our most widely used depth cameras: 📷D401 - Sub-millimeter precision for robotic arms and humanoids 📷D430 -High-accuracy depth sensing for mid-range robotics and AMRs 📷D415 - High-precision depth camera for spatial intelligence for factories
 
-16h ago
-
----
-
-**[I gave Reachy Mini a custom 3D printed outfit, then built and deployed a live object detection app on her camera.](https://www.reddit.com/r/robotics/comments/1sn30om/i_gave_reachy_mini_a_custom_3d_printed_outfit/)**
-
-19h ago
+18h ago
 
 ---
 
@@ -112,7 +114,7 @@ Joining the existing D457 GMSL/FAKRA, we’re introducing GMSL support across th
 
 The new model, called π0.7, represents what the company describes as an early but meaningful step toward the long-sought goal of a general-purpose robot brain.
 
-TechCrunch • 11h ago
+TechCrunch • 13h ago
 
 ---
 
@@ -124,37 +126,21 @@ Google DeepMind • 2d ago
 
 ---
 
-**[Google’s New Model Makes Robotic Brains Slightly Smarter](https://www.theinformation.com/newsletters/ai-agenda/googles-new-model-makes-robotic-brains-slightly-smarter)**
-
-Earlier this week, Google DeepMind released Gemini Robotics-ER-1.6, a new vision and language model to help robots make sense of their surroundings. To show off its capabilities, Boston Dynamics—which has an agreement to use Gemini in its humanoid robots—published a video of its robot dogs using ...
-
-The Information • 18h ago
-
----
-
-**[Tools for Your To Do List with Spot and Gemini Robotics](https://bostondynamics.com/blog/tools-for-your-to-do-list-with-spot-and-gemini-robotics/)**
-
-A recent demo shows Boston Dynamics Spot in a residential home, using Google’s visual-language model (VLM) Gemini Robotics-ER 1.5 for embodied reasoning.
-
-Boston Dynamics • 2d ago
-
----
-
 **[Nvidia Alum Rides China’s Robotics Wave to $150 Million Debut](https://www.bloomberg.com/news/articles/2026-04-16/nvidia-alum-rides-china-s-robotics-wave-to-150-million-debut)**
 
-Bloomberg.com • 9h ago
+Bloomberg.com • 8h ago
 
 ---
 
 **[Robotic legs help elderly Hong Kong fire survivors climb back for belongings](https://www.reuters.com/world/china/robotic-legs-help-elderly-hong-kong-fire-survivors-climb-back-belongings-2026-04-17/)**
 
-Reuters • 6h ago
+Reuters • 7h ago
 
 ---
 
 **[Grab Looks to AI Robots to Deliver Your Meal](https://www.wsj.com/tech/ai/grab-looks-to-ai-robots-to-deliver-your-meal-819caf01)**
 
-WSJ • 21h ago
+WSJ • 22h ago
 
 ---
 
@@ -166,11 +152,11 @@ Defense One • 1d ago
 
 ---
 
-**[The AI Boom Is Making Training Robots the Hot New Gig](https://www.businessinsider.com/robotics-ai-training-data-transforming-instawork-gig-work-platform-instacore-2026-4)**
+**[Disturbing video shows humanoid robots preparing for border patrol duties](https://www.earth.com/news/humanoid-robots-walker-s2-preparing-for-border-patrol-duty-china-vietnam/)**
 
-The race for robotics data is transforming gig work, as Instawork turns its workforce into a key engine for training AI-powered machines.
+Walker S2 is an adult-sized humanoid robot with legs, a torso, and arms. China is sending these robots to patrol their border with Vietnam.
 
-Business Insider • 23h ago
+Earth.com • 11h ago
 
 ---
 
@@ -179,6 +165,22 @@ Business Insider • 23h ago
 Panther has been filmed doing basic household chores, like making the bed and cooking breakfast.
 
 Live Science • 1d ago
+
+---
+
+**[Google’s New Model Makes Robotic Brains Slightly Smarter](https://www.theinformation.com/newsletters/ai-agenda/googles-new-model-makes-robotic-brains-slightly-smarter)**
+
+Earlier this week, Google DeepMind released Gemini Robotics-ER-1.6, a new vision and language model to help robots make sense of their surroundings. To show off its capabilities, Boston Dynamics—which has an agreement to use Gemini in its humanoid robots—published a video of its robot dogs using ...
+
+The Information • 19h ago
+
+---
+
+**[The AI Boom Is Making Training Robots the Hot New Gig](https://www.businessinsider.com/robotics-ai-training-data-transforming-instawork-gig-work-platform-instacore-2026-4)**
+
+The race for robotics data is transforming gig work, as Instawork turns its workforce into a key engine for training AI-powered machines.
+
+Business Insider • 1d ago
 
 ---
 
@@ -252,7 +254,7 @@ Physical Intelligence is building a foundation model that can control any robot 
 
 📺 Y Combinator
 
-👁️ 20K • 👍 517 • 💬 33 • ⏱️ 49:27 • 18h ago
+👁️ 20K • 👍 517 • 💬 33 • ⏱️ 49:27 • 19h ago
 
 ---
 
@@ -272,7 +274,7 @@ When a huge Russian convoy got caught by Ukrainian robots, the incident reflecte
 
 📺 Military Force
 
-👁️ 33K • 👍 795 • 💬 24 • ⏱️ 23:12 • 16h ago
+👁️ 33K • 👍 795 • 💬 24 • ⏱️ 23:12 • 17h ago
 
 ---
 

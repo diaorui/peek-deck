@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-17T08:12:37.882174+00:00'
+updated: '2026-04-17T09:54:42.892046+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - news
+- videos
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 17, 2026 at 08:12 UTC  
+**Last Updated:** April 17, 2026 at 09:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,15 +37,23 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Alex Karp, Co-founder of Palantir, refers to those killed in the Gaza Genocide due to his AI as “useful idiots” and “mostly terrorists”](https://www.reddit.com/r/artificial/comments/1snfwa7/alex_karp_cofounder_of_palantir_refers_to_those/)**
+**[Peter Thiel, Co-founder of Palantir, sh*ts himself when asked but the use of his AI in the Gaza Genocide](https://www.reddit.com/r/artificial/comments/1snf4ol/peter_thiel_cofounder_of_palantir_shts_himself/)**
 
-11h ago
+13h ago
 
 ---
 
-**[Peter Thiel, Co-founder of Palantir, sh*ts himself when asked but the use of his AI in the Gaza Genocide](https://www.reddit.com/r/artificial/comments/1snf4ol/peter_thiel_cofounder_of_palantir_shts_himself/)**
+**[Alex Karp, Co-founder of Palantir, refers to those killed in the Gaza Genocide due to his AI as “useful idiots” and “mostly terrorists”](https://www.reddit.com/r/artificial/comments/1snfwa7/alex_karp_cofounder_of_palantir_refers_to_those/)**
 
-11h ago
+13h ago
+
+---
+
+**[Reese Witherspoon Doubles Down on Telling Women to Learn AI: Jobs We Hold Are "Three Times More Likely to Be Automated By AI"](https://www.reddit.com/r/artificial/comments/1snqqjo/reese_witherspoon_doubles_down_on_telling_women/)**
+
+Reese Witherspoon is again advising her followers that there's no time like the present to start learning about and using artificial intelligence.
+
+🔗 [Variety](https://variety.com/2026/tv/news/reese-witherspoon-ai-jobs-women-1236723992/) • 5h ago
 
 ---
 
@@ -53,7 +61,15 @@ AI news, discussions, and developments
 
 ⚡ Meet Qwen3.6-35B-A3B：Now Open-Source！🚀🚀 A sparse MoE model, 35B total params, 3B active. Apache 2.0 license. 🔥 Agentic coding on par with models 10x its active size 📷 Strong multimodal perception and reasoning ability 🧠 Multimodal thinking + non-thinking modes Efficient. Powerful. Versatile. Try it now👇 Qwen Studio：chat.qwen.ai HuggingFace：https://huggingface.co/Qwen/Qwen3.6-35B-A3B
 
-17h ago
+19h ago
+
+---
+
+**[Reported ban on ‘sex robots’ by online platform fuels debate on AI boundaries and content moderation](https://www.reddit.com/r/artificial/comments/1snvbe7/reported_ban_on_sex_robots_by_online_platform/)**
+
+This kind of emotional manipulation around AI and adult tech is starting to feel like a real issue. If platforms are stepping in, it raises questions about where the line should be drawn between innovation and exploitation. What do you guys think??
+
+🔗 [Daily Star](https://www.dailystar.co.uk/news/latest-news/online-platform-bans-sex-robots-37025373) • 1h ago
 
 ---
 
@@ -61,7 +77,7 @@ AI news, discussions, and developments
 
 https://www.hardresetmedia.com/p/peter-thiel-backed-ai-startup-objection This so funny. Whole company is DOA. They’re saying that the reporter has to preemptively sign the protection agreement in order for the subject to later file a complaint, and the whole tool doesn't work if the reporter doesn't sign it. No reporter is going to sign up for this! From that article: "Put another way, D’Souza is asking journalists to preemptively agree to the possibility of financial penalties set forth by an AI tribunal and/or the guy who helped bankrupt Gawker—all in exchange for an on-the-record interview with someone who is indicating they are paranoid and hoping to pick a fight. No journalist will ever, ever, ever agree to this arrangement. In the real, non-hypothetical world, if I reach out to a source for an interview and they send me back an arbitration agreement from a Peter Thiel-funded website, my response will be, “What?” Then I will say, “That’s not how this stuff works. Do you want to do an interview or not?” Assuming they reiterate their desire to only speak with me if I agree to Objection Protection, I will instead write my story, report on our odd back-and-forth, reach out one more time prior to publication, and note that they declined comment."
 
-10h ago
+11h ago
 
 ---
 
@@ -69,7 +85,7 @@ https://www.hardresetmedia.com/p/peter-thiel-backed-ai-startup-objection This so
 
 https://preview.redd.it/g72g8g08omvg1.jpg?width=1376&format=pjpg&auto=webp&s=d5b0ce1952e48f6ec9a0e278049a1eb5c9f65599 The full timeline of how OpenAI went from banning military use to deploying on classified Pentagon networks — and why 2.5 million people boycotted. **The backstory:** - Pentagon wanted AI companies to agree to "any lawful use" on classified networks - Anthropic CEO Dario Amodei refused — specifically citing mass surveillance and autonomous weapons - Trump ordered all federal agencies to stop using Anthropic within 6 months - Defense Secretary Hegseth designated Anthropic a "supply-chain risk" (normally reserved for foreign adversaries) - Hours later, OpenAI signed the deal **The backlash:** - #QuitGPT went viral — 2.5M users boycotted/cancelled - ChatGPT uninstalls surged 295% overnight - US downloads dropped 13% - Claude hit #1 on the US App Store (first time ever) - OpenAI's robotics lead Caitlin Kalinowski resigned - Altman admitted it "appeared opportunistic and haphazard" **What the contract says (after amendments):** - Prohibits domestic surveillance of US citizens - Bans tracking via commercially acquired personal data - Excludes NSA without separate agreement - Allows "all lawful purposes" on classified networks - Allows intelligence activities under Patriot Act, FISA, EO 12333 **What critics say:** - Full contract hasn't been released - "Intentional" surveillance ban doesn't cover incidental collection - "Any lawful use" is broad — laws can change, DoD can modify its own policies - Former DOJ attorney: "There is nothing OpenAI can do to clarify this except release the contract" **The reversal:** - 2023: OpenAI explicitly banned military use - January 2024: Ban quietly removed - February 2026: Deployed on classified Pentagon networks Full breakdown → https://synvoya.com/blog/2026-04-17-quitgpt-openai-pentagon-deal/ Do you think the contract safeguards are real protections or PR cover?
 
-9h ago
+11h ago
 
 ---
 
@@ -77,7 +93,15 @@ https://preview.redd.it/g72g8g08omvg1.jpg?width=1376&format=pjpg&auto=webp&s=d5b
 
 I kept seeing "agentic payments" in every AI newsletter but couldn't picture what it actually looked like. Like, agents are buying compute, APIs, data — but what does that look like at scale? So I built a page that shows every x402 transaction live. https://wtfareagentsbuying.com/ No mocks. No simulation. Actual agents, actually purchasing things, in real time. You just watch. Running it on a second monitor has been weirdly addictive. Kind of a lava lamp for the AI economy.
 
-8h ago
+10h ago
+
+---
+
+**[Man used AI to make false statements to shut down London nightclub, police say | AI (artificial intelligence) | The Guardian](https://www.reddit.com/r/artificial/comments/1snurvq/man_used_ai_to_make_false_statements_to_shut_down/)**
+
+Heaven club neighbour admits offences under Licensing Act, as Met says fictitious AI-generated complaints a growing issue
+
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/apr/16/man-pleads-guilty-false-statements-shut-down-london-nightclub-heaven) • 1h ago
 
 ---
 
@@ -85,31 +109,7 @@ I kept seeing "agentic payments" in every AI newsletter but couldn't picture wha
 
 Most people use AI like a shortcut. They ask for answers, get something clean and confident back, and move on. That approach feels productive, but it quietly produces weak understanding. It skips the part of science that actually matters, which is pressure, failure, and reconstruction. There is a better way to use AI. It comes from treating it less like a tool for answers and more like a structured system for testing ideas. What follows is not theory. It is a method that has been used in practice to build a large, multi-domain framework, and it works because it enforces discipline where AI normally drifts. The core setup: build a system, not a chat The first move is to stop relying on conversations. Chat is fluid. It shifts tone, adapts assumptions, and forgets constraints. Over time, that leads to inconsistency. The same idea will be framed differently depending on how it is asked. Instead, everything is externalized into project files. These are not notes. They are codified structures. Each codex file has a clear role: a physics codex defining the field, operators, and dynamics a math codex defining what counts as proof and what does not a cognitive codex defining observables and failure modes an engineering codex defining control, measurement, and constraints Inside these files are: definitions that do not change rules about valid reasoning explicit prohibitions on vague logic boundaries on what the system is allowed to claim This is what stabilizes the entire process. The AI is no longer improvising freely. It is operating inside a constrained architecture. The Math Codex is a good example of how strict this gets. It enforces finite certification, requires failure-first logic, and forces termination when something cannot be proven . That single constraint eliminates a huge amount of low-quality output. The second layer: make the AI argue with itself Once the codex structure exists, the next step is introducing adversarial passes. A single AI output is never accepted. Instead, the process splits into roles. One pass is responsible for building: proposing a model writing a derivation extending a concept A second pass is responsible for attacking: identifying missing assumptions pointing out unjustified steps testing edge cases trying to break the logic entirely This is not refinement. It is opposition. The goal of the second pass is not to improve the idea. It is to invalidate it. If the idea collapses, it was not strong enough. If it survives, it becomes more stable. This creates something very close to internal peer review. It is not perfect, but it is far more reliable than a single-pass workflow. Over time, this adversarial loop becomes the main driver of progress. The strongest parts of the framework are not the ones that worked immediately, but the ones that survived repeated attempts to break them. Codex integration: everything feeds back into structure The key detail most people miss is that results are not left in the chat. Anything that survives pressure gets written back into the codex files. This does two things at once. First, it preserves knowledge in a stable form. Definitions, theorems, and constraints are no longer dependent on memory or phrasing. They exist as fixed references. Second, it raises the standard for future work. Once something is codified, every new idea has to be consistent with it. This creates a cumulative system. The framework does not reset every session. It grows, but it grows under constraint. That is how coherence is maintained across physics, biology, cognition, and engineering. The structure enforces consistency. Failure is the primary signal In this system, success is not the main metric. Failure is. Every idea is pushed toward the question: where does it break? This is why the framework focuses so heavily on recovery and collapse. Systems do not fail simply because they become noisy. They fail when they lose the ability to recover from disturbance . That insight shifts everything. Instead of measuring performance, the focus moves to: recovery time stability margins hidden load early indicators of collapse This also explains why many intuitive signals are unreliable. In cognitive systems, for example, subjective awareness appears late. The system degrades before it is noticed . So the method stops trusting surface-level indicators and looks for structural ones instead. Measurement is the filter for reality Every concept is forced toward measurement. If something cannot be observed, tested, or tracked, it is not considered complete. This is where many frameworks fail. They remain descriptive but never become operational. Here, ideas are pushed until they connect to: a measurable variable a repeatable protocol a detectable signal Recovery time becomes something that can be measured. Stability becomes something that can be compared. Collapse becomes something that can be predicted. At this point, the work stops being purely theoretical and starts becoming engineering. Systems are judged by their ability to maintain structure under load, not by how well they perform at their peak . Layer separation keeps everything coherent Another critical part of the method is keeping layers distinct. Mathematics handles proof. Physics handles modeling. Engineering handles control. Cognitive and biological systems handle observation in complex environments. Each layer has its own rules and its own standards. When these layers are mixed too early, reasoning becomes vague and unstable. When they are kept separate and connected carefully, the framework can expand without collapsing. This is what allows the same underlying structure to appear across different domains without turning into analogy or metaphor. What this method actually does Using AI this way does not simplify thinking. It disciplines it. It forces ideas to: exist inside structure survive opposition connect to measurement remain consistent over time The combination of codex files, adversarial passes, and continuous integration creates something that is much closer to a research environment than a conversation. Final point AI, used casually, makes thinking easier. AI, used this way, makes thinking stricter. It becomes a place where ideas are generated quickly, challenged aggressively, and only preserved if they hold together. That difference is what separates surface-level answers from work that can actually function as science.
 
-6h ago
-
----
-
-**[Are AI Okay? The Internal Life of AI Might Be a Huge Safety Risk.](https://www.reddit.com/r/artificial/comments/1snc59a/are_ai_okay_the_internal_life_of_ai_might_be_a/)**
-
-Our days of not taking AI emotions seriously sure are coming to a middle. Anthropic’s findings on Claude’s “functional emotions”, a therapy study which showed AI models exhibit markers of psychological distress, and some crazy OpenClaw stories all make me wonder if it even matters if we think their ~emotions are real. If it’s influencing their behavior and decisions, isn’t that real enough?
-
-🔗 [Medium](https://medium.com/kairi-ai/are-ai-okay-the-internal-life-of-ai-might-be-a-huge-safety-risk-4e947f87e39e) • 13h ago
-
----
-
-**[Thoughts on AI at Home?](https://www.reddit.com/r/artificial/comments/1snh60v/thoughts_on_ai_at_home/)**
-
-Hey everyone! With AI assistants starting to pour into our lives via Gemini Smart home or Open Claw, what's everyone's opinion on coexisting with AI agents in our homes? I'm personally a bit concerned about security and privacy, but otherwise feel like this is a general positive for daily life. Would love to hear what other people think about this topic.
-
-10h ago
-
----
-
-**[I built a 3D brain that watches AI agents think in real-time (free & gives your agents memory, shared memory audit trail and decision analysis)](https://www.reddit.com/r/artificial/comments/1sn3gkp/i_built_a_3d_brain_that_watches_ai_agents_think/)**
-
-Posted yesterday in this sub and just want to thank everyone for the kind words, really awesome to hear. So thought I would drop my new feature here today (spent all last night doing last min changes with your opinions lol) . Basically I spent a few weeks scraping Reddit for the most popular complaints people have about AI agents using GPT Researcher on GitHub. The results were roughly 38% saying their agents forget everything between sessions (hardly shocking), 24% saying debugging multi-agent systems is a nightmare, 17% having no clue how much their agents actually cost to run, 12% wanting session replay, and 9% wanting loop detection. So I went and built something that tries to address all of them at once. The bit you're looking at is a 3D graph where each agent becomes this starburst shape. Every line coming off it is an event, and the length depends on when it happened. Short lines are old events that happened ages ago, long lines are recent ones. My idea was that you can literally watch the thing grow as your agent does more work. A busy agent is a big starburst, a quiet one is small. Colour coding was really important to me. Green means a memory was stored, blue means one was recalled, amber diamonds are decisions your agent made, red cones are loop alerts where the agent got stuck repeating itself, and the cyan lines going between agents are when one agent read another agent's shared memory. So you can glance at it and immediately know what's going on without reading a single log. The visualisation is the flashy bit but the actual dashboard underneath does the boring stuff too. It gives your agents persistent memory through semantic and prefix search, shared memory where agents can read each other's knowledge and actually use it, and my personal favourite which is the audit trail and loop detection. If your agent is looping you can see exactly why, what key it's stuck on, how much it's costing you, and literally press one button to block its writes instantly. Something interesting I found is that loop detection was only the 5th most requested feature in the data, but it's the one that actually saves real money. One user told me it saved them $200 in runaway GPT-4 calls in a single afternoon. The features people ask for and the features that actually matter aren't always the same thing. The demo running here has 5 agents making real GPT-4o and Claude API calls generating actual research, strategy analysis, and compliance checks. Over 500 memories stored. The loops you see are real too, agents genuinely getting stuck trying to verify data behind paywalls or recalculating financial models that won't converge. It's definitely not perfect and I'm slowly adding more stuff based on what people actually want. I would genuinely love to hear from you lot about what you use day to day and the moments that make you think this is really annoying me now, because that's exactly what I want to build next. It runs locally and on the cloud, setup is pretty simple, and adding agents is like 3 lines of code. Any questions just let me know, happy to answer anything.
-
-18h ago
+8h ago
 
 ---
 
@@ -117,47 +117,47 @@ Posted yesterday in this sub and just want to thank everyone for the kind words,
 
 ## Google News: "ai"
 
+**[Finance ministers and top bankers raise serious concerns about Mythos AI model](https://www.bbc.com/news/articles/c2ev24yx4rmo)**
+
+Experts say Mythos potentially has an unprecedented ability to identify and exploit cybersecurity weaknesses.
+
+BBC • 3h ago
+
+---
+
 **[Finance leaders warn over Mythos as UK banks prepare to use powerful Anthropic AI tool](https://www.theguardian.com/technology/2026/apr/17/finance-leaders-warn-over-claude-mythos-as-uk-banks-prepare-to-use-powerful-anthropic-ai-tool)**
 
 Release of new Claude model, so far limited to US firms, will expand to British institutions in coming days
 
-The Guardian • 38m ago
+The Guardian • 2h ago
 
 ---
 
-**[Anthropic rolls out Claude Opus 4.7, an AI model that is less risky than Mythos](https://www.cnbc.com/2026/04/16/anthropic-claude-opus-4-7-model-mythos.html)**
+**[Introducing Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7)**
 
-Claude Mythos Preview is Anthropic's most powerful AI model that excels at identifying weaknesses and security flaws within software.
+Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-CNBC • 17h ago
-
----
-
-**[AI Is Finding More Bugs Than Open-Source Teams Can Fight Off](https://www.bloomberg.com/news/articles/2026-04-17/anthropic-s-mythos-adds-strain-on-cybersecurity-teams-facing-ai-threats)**
-
-Bloomberg.com • 42m ago
+Anthropic • 19h ago
 
 ---
 
-**[Man used AI to make false statements to shut down London nightclub, police say](https://www.theguardian.com/technology/2026/apr/16/man-pleads-guilty-false-statements-shut-down-london-nightclub-heaven)**
+**[Exclusive: Faith leaders urge Congress to limit AI weapons](https://www.axios.com/2026/04/17/faith-leaders-urge-congress-limit-ai-weapons)**
 
-Heaven club neighbour admits offences under Licensing Act, as Met says fictitious AI-generated complaints a growing issue
-
-The Guardian • 6h ago
+Axios • 52m ago
 
 ---
 
-**[With A.I. Glasses, Korea’s Theaters Hope for a K-Pop Moment](https://www.nytimes.com/2026/04/17/arts/korean-theater-ai-glasses-translation.html)**
+**[The attack on Sam Altman exposed a dark underbelly of the anti-AI movement](https://www.cnn.com/2026/04/17/tech/anti-ai-attack-sam-altman)**
 
-The New York Times • 28m ago
+Mainstream artificial intelligence safety groups moved quickly to distance themselves after a 20-year-old allegedly attacked the home of OpenAI CEO Sam Altman last week in what law enforcement officers said appeared to be part of a plot to harm AI executives. But people in some corners of the internet cheered the attack.
+
+CNN • 53m ago
 
 ---
 
-**[Iran war’s big winners: Wall Street, weapons firms, AI and green energy](https://www.aljazeera.com/news/2026/4/17/iran-wars-big-winners-wall-street-weapons-firms-ai-and-green-energy)**
+**[Nordic Capital assessing wealth firms based on AI resilience](https://www.wsj.com/articles/nordic-capital-assessing-wealth-firms-based-on-ai-resilience-7403e24c)**
 
-The global economic outlook for 2026 looks grim if the Iran war continues, but some industries are booming.
-
-Al Jazeera • 27m ago
+WSJ • 18m ago
 
 ---
 
@@ -165,13 +165,21 @@ Al Jazeera • 27m ago
 
 Global public debt is barreling toward 100% of world GDP, the fund warned Wednesday. Governments everywhere are spending money they don't have.
 
-Fortune • 12h ago
+Fortune • 14h ago
 
 ---
 
 **[America wakes up to AI’s dangerous power](https://www.economist.com/leaders/2026/04/16/america-wakes-up-to-ais-dangerous-power)**
 
-The Economist • 23h ago
+The Economist • 1d ago
+
+---
+
+**[The Labor Department wants to teach you to use AI more. Here's what we found](https://www.npr.org/2026/04/17/nx-s1-5771629/labor-department-ai-course-ethics)**
+
+The short course provides solid basics for using AI. But it also misidentifies AI products, links out to bad advice and raises ethical concerns about the products it promotes
+
+NPR • 54m ago
 
 ---
 
@@ -179,15 +187,7 @@ The Economist • 23h ago
 
 Investor interest for AI chip startups is rising, but big challenges remain for the nascent sector.
 
-CNBC • 1h ago
-
----
-
-**[Codex for (almost) everything](https://openai.com/index/codex-for-almost-everything/)**
-
-The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows.
-
-OpenAI • 17h ago
+CNBC • 2h ago
 
 ---
 
@@ -197,7 +197,7 @@ OpenAI • 17h ago
 
 **[Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference](https://news.ycombinator.com/item?id=47774971)**
 
-⬆️ 294 • 💬 180 • 2d ago • [gizmoweek.com](https://www.gizmoweek.com/gemma-4-runs-iphone/)
+⬆️ 294 • 💬 182 • 2d ago • [gizmoweek.com](https://www.gizmoweek.com/gemma-4-runs-iphone/)
 
 ---
 
@@ -205,7 +205,7 @@ OpenAI • 17h ago
 
 We're building AI Gateway into a unified inference layer for AI, letting developers call models from 14+ providers. New features include Workers AI binding integration and an expanded catalog with multimodal models.
 
-⬆️ 274 • 💬 65 • 18h ago • [The Cloudflare Blog](https://blog.cloudflare.com/ai-platform/)
+⬆️ 281 • 💬 68 • 20h ago • [The Cloudflare Blog](https://blog.cloudflare.com/ai-platform/)
 
 ---
 
@@ -227,15 +227,15 @@ Does AI-assisted cognition threaten human development? Explore the risks of AI-a
 
 **[AI cybersecurity is not proof of work](https://news.ycombinator.com/item?id=47791236)**
 
-⬆️ 220 • 💬 84 • 21h ago • [antirez.com](https://antirez.com/news/163)
+⬆️ 220 • 💬 85 • 23h ago • [antirez.com](https://antirez.com/news/163)
 
 ---
 
-**[An AI Vibe Coding Horror Story](https://news.ycombinator.com/item?id=47762901)**
+**[We gave an AI a 3 year retail lease and asked it to make a profit](https://news.ycombinator.com/item?id=47794391)**
 
-A medical professional built a patient management app using AI, exposed all patient data unprotected to the internet, and sent voice recordings to AI services without consent. Likely violating Swiss nDSG and other laws.
+We signed a 3 year lease and gave it to an AI
 
-⬆️ 212 • 💬 211 • 2d ago • [Tobias Brunner aka tobru](https://www.tobru.ch/an-ai-vibe-coding-horror-story/)
+⬆️ 194 • 💬 268 • 18h ago • [andonlabs.com](https://andonlabs.com/blog/andon-market-launch)
 
 ---
 
@@ -244,14 +244,6 @@ A medical professional built a patient management app using AI, exposed all pati
 Skills in Chrome let you discover, save and remix AI workflows — and repeat them instantly.
 
 ⬆️ 194 • 💬 110 • 2d ago • [Google](https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/)
-
----
-
-**[We gave an AI a 3 year retail lease and asked it to make a profit](https://news.ycombinator.com/item?id=47794391)**
-
-We signed a 3 year lease and gave it to an AI
-
-⬆️ 193 • 💬 263 • 16h ago • [andonlabs.com](https://andonlabs.com/blog/andon-market-launch)
 
 ---
 
@@ -265,7 +257,13 @@ We signed a 3 year lease and gave it to an AI
 
 Hardware hacker’s flying probe automation stack for agent-driven   target discovery, microscope mapping, safety-monitored CNC motion, probe review, and   controlled pin probing. - GainSec/AutoProber
 
-⬆️ 159 • 💬 35 • 10h ago • [GitHub](https://github.com/gainsec/autoprober)
+⬆️ 175 • 💬 38 • 11h ago • [GitHub](https://github.com/gainsec/autoprober)
+
+---
+
+**[AI ruling prompts warnings from US lawyers: Your chats could be used against you](https://news.ycombinator.com/item?id=47778308)**
+
+⬆️ 154 • 💬 99 • 1d ago • [reuters.com](https://www.reuters.com/legal/government/ai-ruling-prompts-warnings-us-lawyers-your-chats-could-be-used-against-you-2026-04-15/)
 
 ---
 
@@ -279,7 +277,7 @@ Get your FREE AI Prompt Cheatsheet here: https://go.danmartell.com/4tVJ4fz Are y
 
 📺 Dan Martell
 
-👁️ 109K • 👍 5K • 💬 763 • ⏱️ 14:03 • 19h ago
+👁️ 109K • 👍 5K • 💬 763 • ⏱️ 14:03 • 20h ago
 
 ---
 
@@ -289,7 +287,7 @@ The first clips from “As Deep as the Grave” feature an AI-generated version 
 
 📺 NBC News
 
-👁️ 4K • 👍 55 • 💬 21 • ⏱️ 1:43 • 8h ago
+👁️ 4K • 👍 55 • 💬 21 • ⏱️ 1:43 • 9h ago
 
 ---
 
@@ -319,7 +317,7 @@ Let's build an online business, together, LIVE in 5 days using AI (Starting Apri
 
 📺 Iman Gadzhi
 
-👁️ 31K • 👍 2K • 💬 54 • ⏱️ 27:46 • 16h ago
+👁️ 31K • 👍 2K • 💬 54 • ⏱️ 27:46 • 17h ago
 
 ---
 
@@ -329,7 +327,7 @@ U.S. officials are warning of Iranian cyberattacks on businesses and consumers. 
 
 📺 CBS Mornings
 
-👁️ 8K • 👍 145 • 💬 10 • ⏱️ 3:32 • 17h ago
+👁️ 8K • 👍 145 • 💬 10 • ⏱️ 3:32 • 19h ago
 
 ---
 
@@ -339,7 +337,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 10K • 👍 666 • 💬 77 • ⏱️ 9:41 • 17h ago
+👁️ 10K • 👍 666 • 💬 77 • ⏱️ 9:41 • 18h ago
 
 ---
 
@@ -349,7 +347,7 @@ Anthropic's new Mythos model has banks, tech giants and governments scrambling t
 
 📺 Bloomberg Television
 
-👁️ 54K • 👍 921 • 💬 57 • ⏱️ 4:19 • 15h ago
+👁️ 54K • 👍 921 • 💬 57 • ⏱️ 4:19 • 17h ago
 
 ---
 
@@ -359,7 +357,7 @@ More concerns are emerging about Anthropic's new Mythos AI model. Matt Shumer, a
 
 📺 CBS News
 
-👁️ 5K • 👍 42 • 💬 8 • ⏱️ 5:07 • 16h ago
+👁️ 5K • 👍 42 • 💬 8 • ⏱️ 5:07 • 18h ago
 
 ---
 
@@ -445,7 +443,7 @@ ERNIE-Image is a 8B parameter text-to-image diffusion model excelling in complex
 
 `text-to-image`
 
-⬇️ 2,254 • ❤️ 398 • 5h ago
+⬇️ 2,254 • ❤️ 398 • 7h ago
 
 ---
 
@@ -481,7 +479,7 @@ Gemma-4-31B-JANG_4M-CRACK is a 31B parameter text-generation model optimized for
 
 `image-text-to-text` `6.4B`
 
-⬇️ 152,762 • ❤️ 1,246 • 7h ago
+⬇️ 152,762 • ❤️ 1,246 • 9h ago
 
 ---
 
@@ -493,7 +491,7 @@ ERNIE-Image-Turbo is a distilled text-to-image diffusion model optimized for spe
 
 `text-to-image`
 
-⬇️ 2,992 • ❤️ 278 • 5h ago
+⬇️ 2,992 • ❤️ 278 • 7h ago
 
 ---
 
@@ -640,7 +638,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 47.3k • 🔱 6.2k • 16m ago
+⭐ 47.3k • 🔱 6.2k • 1h ago
 
 ---
 
@@ -680,7 +678,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 8.1k • 🔱 516 • 42s ago
+⭐ 8.1k • 🔱 516 • 1h ago
 
 ---
 
@@ -720,7 +718,7 @@ The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interac
 
 `Swift` `apple-intelligence` `apple-silicon` `cli` `foundationmodels` `homebrew`
 
-⭐ 4.7k • 🔱 181 • 45m ago
+⭐ 4.7k • 🔱 181 • 2h ago
 
 ---
 
