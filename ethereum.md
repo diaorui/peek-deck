@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-17T22:40:43.023256+00:00'
+updated: '2026-04-17T23:40:01.817083+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
+- news
 - videos
 - social
-- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 17, 2026 at 22:40 UTC  
+**Last Updated:** April 17, 2026 at 23:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $292.30B
+**Market Cap:** $292.28B
 Rank #2
 
 **Circulating Supply:** 120,690,898 ETH
@@ -62,7 +62,7 @@ No max supply
 -51.0%
 
 **All-Time Low:** $0.43
-+559400.6%
++559158.1%
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
 
 ---
 
 **[I think Coinbase is building a fantastic business with stablecoins, and I would love others' opinions and thoughts.](https://www.reddit.com/r/ethereum/comments/1so3od4/i_think_coinbase_is_building_a_fantastic_business/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Glamsterdam devnets drive Ethereum’s execution readiness while Hegotá opens the next phase of upgrade proposals & protocol evolution.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-consensus-acdc-call-177/) • 14h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-consensus-acdc-call-177/) • 15h ago
 
 ---
 
@@ -94,7 +94,7 @@ Glamsterdam devnets drive Ethereum’s execution readiness while Hegotá opens t
 
 Solidity developer survey results, ether.fi migrated to OP Mainnet, X $ETH cashtag
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-mini-0/) • 15h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-mini-0/) • 16h ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Quarterly transactions hit 200.4 million in Q1 2026, the first time above 200 million and more than double the 2023 lows.
 
-CoinDesk • 15h ago
+CoinDesk • 16h ago
 
 ---
 
@@ -170,7 +170,7 @@ Decrypt • 1d ago
 
 XRP (CRYPTO: XRP) initially reclaimed the number four spot in global crypto rankings in mid-March, overtaking BNB with a market cap of around $93 billion before the two assets traded places again. BNB reclaimed fourth briefly on March 23, reaching an $85.9 billion market cap versus XRP’s $85 billion, but the gap between the two ... XRP Price: XRP Flips BNB to Become the Fourth-Largest Crypto — Can It Catch Ethereum Next?
 
-Yahoo Finance • 32m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -210,7 +210,7 @@ The Block • 1d ago
 
 Across global markets, Ethereum has emerged as one of the most heavily shorted assets, a positioning that reflects more than simple bearish sentiment. It signals a growing divergence between market expectations and ETH’s long-term fundamentals, placing the asset at the center of an increasingly com…
 
-TradingView — Track All Markets • 4h ago
+TradingView — Track All Markets • 5h ago
 
 ---
 
@@ -218,13 +218,13 @@ TradingView — Track All Markets • 4h ago
 
 Fhenix X Space with Guy Zyskind and Ethereum's Nicolas Serrano reframes post-quantum crypto from future risk to active timing problem.
 
-HackerNoon • 1h ago
+HackerNoon • 2h ago
 
 ---
 
 **[Most large cryptocurrencies climb on Sui, Ethereum increases](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-climb-on-sui-ethereum-increases-6f01e867-dad5317f1ea1)**
 
-MarketWatch • 8h ago
+MarketWatch • 9h ago
 
 ---
 
@@ -232,23 +232,63 @@ MarketWatch • 8h ago
 
 ## YouTube Videos: "ethereum"
 
+**[Something BIG Just Happened to Cardano - BTC, Ethereum &amp; Solana Joined](https://www.youtube.com/watch?v=yBXFD_ktHK0)**
+
+MALU Stake Pool: pool18zf8txwv8lmtpq2src8wrhz0pjut5qft8h5tfxnctwc95r7jvvj 🗳️ DRep ID: ...
+
+📺 Linda CryptoFly
+
+👁️ 1K • 👍 173 • 💬 30 • ⏱️ 3:21 • 7h ago
+
+---
+
 **[ETH ABOUT TO BREAKOUT?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=5Pu6-VHUevI)**
 
 ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
 📺 Cilinix Crypto
 
-👁️ 554 • 👍 23 • ⏱️ 4:53 • 13h ago
+👁️ 622 • 👍 24 • ⏱️ 4:53 • 14h ago
 
 ---
 
-**[AI Agents, Tokenization, and Ethereum’s Next Wave | Raoul Pal the Journey Man](https://www.youtube.com/watch?v=855YrRfkyIc)**
+**[🤩 Don&#39;t Miss The Opportunity In Ethereum !](https://www.youtube.com/watch?v=ZP5mgPEADco)**
 
-Raoul welcomes Vivek Raman, Co-Founder and CEO of Etherealize, and Danny Ryan, Co-Founder and President at Etherealize, ...
+Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
 
-📺 Raoul Pal The Journey Man
+📺 Gerhard - Bitcoin Strategy
 
-👁️ 7K • 👍 268 • 💬 12 • ⏱️ 1:11:56 • 1d ago
+👁️ 4K • 👍 163 • 💬 21 • ⏱️ 8:23 • 1d ago
+
+---
+
+**[Ethereum Analysis: How High Can This Bounce Actually Go?](https://www.youtube.com/watch?v=2Vs2aLFcCWY)**
+
+Ethereum is moving higher in a corrective bounce and approaching a major resistance cluster. In this video I walk through the ...
+
+📺 More Crypto Online
+
+👁️ 5K • 👍 336 • 💬 25 • ⏱️ 9:49 • 1d ago
+
+---
+
+**[How High Can Ethereum Go? ETH Crypto Analysis](https://www.youtube.com/watch?v=x3IFOoyL0UA)**
+
+In this video, I analyze the price action of Ethereum using custom indicators to predict the potential future trend. DM "4LIGHT" Up ...
+
+📺 Crypto 4Light
+
+👁️ 106 • 👍 4 • ⏱️ 9:39 • 8h ago
+
+---
+
+**[URGENT $60,000 Ethereum Incoming Despite Crypto Clarity Delay $120M flows to XRP!](https://www.youtube.com/watch?v=jFuYQZuHFgw)**
+
+URGENT $60000 Ethereum Incoming Despite Crypto Clarity Delay $120M flows to XRP! ether.fi (Partner) ...
+
+📺 CryptoWendyO
+
+👁️ 7K • 👍 442 • 💬 42 • ⏱️ 32:36 • 2d ago
 
 ---
 
@@ -258,7 +298,17 @@ Michael Saylor's Ethereum view has changed. Bitcoin is digital capital. Ethereum
 
 📺 Bankless
 
-👁️ 8K • 👍 167 • 💬 42 • ⏱️ 1:17 • 2d ago
+👁️ 8K • 👍 179 • 💬 41 • ⏱️ 1:17 • 2d ago
+
+---
+
+**[AI Agents, Tokenization, and Ethereum’s Next Wave | Raoul Pal the Journey Man](https://www.youtube.com/watch?v=855YrRfkyIc)**
+
+Raoul welcomes Vivek Raman, Co-Founder and CEO of Etherealize, and Danny Ryan, Co-Founder and President at Etherealize, ...
+
+📺 Raoul Pal The Journey Man
+
+👁️ 7K • 👍 281 • 💬 13 • ⏱️ 1:11:56 • 1d ago
 
 ---
 
@@ -272,46 +322,6 @@ Ethereum is flashing a fractal that mirrors the November 2024 altcoin breakout, 
 
 ---
 
-**[$12 Trillion Charles Schwab To Launch Bitcoin And Ethereum Trading — “Schwab Crypto”  Is Coming](https://www.youtube.com/watch?v=vvq0fKhoUM0)**
-
-IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purposes only. NOT financial, investment, or ...
-
-📺 The Kenzo Guy
-
-👁️ 6K • 👍 328 • 💬 27 • ⏱️ 25:48 • 1d ago
-
----
-
-**[🤩 Don&#39;t Miss The Opportunity In Ethereum !](https://www.youtube.com/watch?v=ZP5mgPEADco)**
-
-Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 4K • 👍 161 • 💬 21 • ⏱️ 8:23 • 1d ago
-
----
-
-**[Something BIG Just Happened to Cardano - BTC, Ethereum &amp; Solana Joined](https://www.youtube.com/watch?v=yBXFD_ktHK0)**
-
-MALU Stake Pool: pool18zf8txwv8lmtpq2src8wrhz0pjut5qft8h5tfxnctwc95r7jvvj 🗳️ DRep ID: ...
-
-📺 Linda CryptoFly
-
-👁️ 660 • 👍 129 • 💬 26 • ⏱️ 3:21 • 6h ago
-
----
-
-**[This Ethereum Analysis Says BUY BEFORE IT&#39;S TOO LATE! Ethereum Technical Analysis 2026](https://www.youtube.com/watch?v=jgUZRil56eA)**
-
-Buy Ethereum? CRYPTO RETIREMENT ACCOUNT HERE Sign up for iTrustCapital and get a $100 funding bonus after ...
-
-📺 Crypto Jebb
-
-👁️ 7K • 👍 284 • 💬 127 • ⏱️ 14:10 • 2d ago
-
----
-
 **[Tom Lee :&quot;Bitcoin &amp; ETH Holders NEED to Hear This IMMEDIATELY [2026 New Price Prediction]](https://www.youtube.com/watch?v=DVUa0wyPWzQ)**
 
 My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
@@ -319,16 +329,6 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 📺 Crypto Nutshell
 
 👁️ 6K • 👍 258 • 💬 14 • ⏱️ 14:46 • 2d ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=fbq_kqxXMQY)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Crypto Gyan
-
-👁️ 839 • 👍 66 • ⏱️ 5:23 • 7h ago
 
 ---
 

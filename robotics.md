@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-17T22:40:43.026394+00:00'
+updated: '2026-04-17T23:40:01.820288+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 17, 2026 at 22:40 UTC  
+**Last Updated:** April 17, 2026 at 23:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[The race ended before it got even started for this robot](https://www.reddit.com/r/robotics/comments/1so68c6/the_race_ended_before_it_got_even_started_for/)**
 
-6h ago
+7h ago
 
 ---
 
 **[H1 accelerating - jogging to running](https://www.reddit.com/r/robotics/comments/1snz9fk/h1_accelerating_jogging_to_running/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -48,13 +48,13 @@ Robotics research and industry news
 
 From Physical Intelligence on 𝕏 (thread): https://x.com/physical_int/status/2044841263254638862 Blog post with multiple videos/demos: https://www.pi.website/blog/pi07 TechCrunch: Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught: https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/
 
-12h ago
+13h ago
 
 ---
 
 **[3D printed monster motor that lifts + 15kg!](https://www.reddit.com/r/robotics/comments/1so1mv7/3d_printed_monster_motor_that_lifts_15kg/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -62,7 +62,7 @@ From Physical Intelligence on 𝕏 (thread): https://x.com/physical_int/status/2
 
 upgraded our robot: added a shell, cameras, onboard compute, basically everything it was missing. way heavier and way more complex now. got it doing continuous autonomous stair jumping in sim. no human input, policy decides everything on its own. but most of what we had working on the old rabbit bot just didn't carry over, had to retrain almost everything. still haven't gotten it to jump on the real robot yet, that's the next battle. right now we're deep in logs and calibration trying to close the gap. the usual lol btw we've been reading through all the questions you guys left on our previous posts, a lot of really good ones about sim2real, reward shaping, training workflow, etc. since RL questions came up the most, we're drafting with a writeup on that, sharing what we've learned and the mistakes we made along the way lol. should be up on r/MondoRobotics in a few days. not limited to RL though, if there's anything else you've been curious about, drop it in the comments. we'll try to cover what we can.
 
-8h ago
+9h ago
 
 ---
 
@@ -78,7 +78,7 @@ I tried to do a quadruped robot using cheap servos (MG90S), normal batteries and
 
 I discovered a GPS-free mode on the website (called myrobotproject) that enables pure vision-based flight using the Visio. Previously, I had only seen videos from the APM community featuring Intel cameras mounted on drones for GPS-denied navigation. I have my own drone and installed the Visio on it—the installation process was quite straightforward. I will open-source the related tutorial for everyone soon. If you have any interesting tests to share, I'd love to hear from you!
 
-6h ago
+7h ago
 
 ---
 
@@ -98,7 +98,7 @@ From The Humanoid Hub on 𝕏: https://x.com/TheHumanoidHub/status/2044504579480
 
 **[Breaking down camera choice for robotics data](https://www.reddit.com/r/robotics/comments/1so32nb/breaking_down_camera_choice_for_robotics_data/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -126,7 +126,7 @@ Google DeepMind • 3d ago
 
 Tech firms aim to trigger a robot revolution with video of humans doing housework. Gig workers are paid up to $25 an hour to film themselves doing various tasks.
 
-The Washington Post • 6h ago
+The Washington Post • 7h ago
 
 ---
 
@@ -142,19 +142,19 @@ IEEE Spectrum • 1d ago
 
 A second-place finish at the State Championships sends the student robotics team to global competition in Houston— if they can raise $50,000 to get there.
 
-The Santa Barbara Independent • 22h ago
+The Santa Barbara Independent • 23h ago
 
 ---
 
 **[Nvidia Alum Rides China’s Robotics Wave to 187% Debut Pop](https://www.bloomberg.com/news/articles/2026-04-16/nvidia-alum-rides-china-s-robotics-wave-to-150-million-debut)**
 
-Bloomberg.com • 20h ago
+Bloomberg.com • 21h ago
 
 ---
 
 **[Robotic legs help elderly Hong Kong fire survivors climb back for belongings](https://www.reuters.com/world/china/robotic-legs-help-elderly-hong-kong-fire-survivors-climb-back-belongings-2026-04-17/)**
 
-Reuters • 20h ago
+Reuters • 21h ago
 
 ---
 
@@ -184,33 +184,23 @@ Gulf Coast News and Weather • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[Ukrainian president says robots captured territory from Russian soldiers](https://www.youtube.com/watch?v=XiGwWwcnT7M)**
-
-President Zelenskyy says that for the first time ever, the Ukrainian army was able to use only robots to retake territory from Russian ...
-
-📺 NBC News
-
-👁️ 495K • 👍 7K • 💬 2K • ⏱️ 3:12 • 1d ago
-
----
-
 **[Boston Dynamics Won The AI Robot Race With This One Move](https://www.youtube.com/watch?v=7bPZJhhDQU4)**
 
 Boston Dynamics just did what most people thought would take years longer. Atlas is now entering real serial production, the ...
 
 📺 AI Revolution
 
-👁️ 116K • 👍 3K • 💬 182 • ⏱️ 21:49 • 3d ago
+👁️ 119K • 👍 3K • 💬 183 • ⏱️ 21:49 • 3d ago
 
 ---
 
-**[Japan Unveils First AI Robot Companion That&#39;s Indistinguishable From a Real Girl](https://www.youtube.com/watch?v=ciDX-3rI2zE)**
+**[Ukrainian president says robots captured territory from Russian soldiers](https://www.youtube.com/watch?v=XiGwWwcnT7M)**
 
-A new level of realism in robotics is drawing global attention as Japan introduces an AI-powered robot companion designed to ...
+President Zelenskyy says that for the first time ever, the Ukrainian army was able to use only robots to retake territory from Russian ...
 
-📺 Carros Show
+📺 NBC News
 
-👁️ 2K • 👍 72 • 💬 4 • ⏱️ 8:15 • 1d ago
+👁️ 507K • 👍 8K • 💬 2K • ⏱️ 3:12 • 1d ago
 
 ---
 
@@ -220,7 +210,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 79K • 👍 2K • 💬 307 • ⏱️ 4:16 • 3d ago
+👁️ 80K • 👍 2K • 💬 313 • ⏱️ 4:16 • 3d ago
 
 ---
 
@@ -230,27 +220,7 @@ China just revealed an autonomous robot war pack built from dog bots, drones, la
 
 📺 AI Revolution
 
-👁️ 38K • 👍 904 • 💬 93 • ⏱️ 16:14 • 1d ago
-
----
-
-**[Chinese humanoid robots prepare for second-ever half marathon in Beijing](https://www.youtube.com/watch?v=aKYxLWqw8ZQ)**
-
-Chinese humanoid robots train to go head-to-head with human runners in the second-ever Beijing half marathon. NBC News' ...
-
-📺 NBC News
-
-👁️ 165K • 👍 1K • 💬 442 • ⏱️ 1:59 • 3d ago
-
----
-
-**[FIRST Robotics Competition REBUILT 2026 - NE FIRST District Championship - Burns Division Day 1](https://www.youtube.com/watch?v=i1cedzJVzzg)**
-
-nefirst.org/nedcmp.
-
-📺 New England FIRST
-
-👁️ 9K • ⏱️ 8:15:12 • 16h ago
+👁️ 42K • 👍 941 • 💬 100 • ⏱️ 16:14 • 1d ago
 
 ---
 
@@ -260,17 +230,17 @@ Go to https://www.artwine.com to get your limited bottle of Ukrainian sparkling 
 
 📺 Paul Warburg
 
-👁️ 283K • 👍 21K • 💬 2K • ⏱️ 31:17 • 5d ago
+👁️ 284K • 👍 21K • 💬 2K • ⏱️ 31:17 • 5d ago
 
 ---
 
-**[Brand New Haro380 6-Axis Mini Industrial Robot | WLKATA](https://www.youtube.com/watch?v=T5t0leyjU00)**
+**[FIRST Robotics Competition REBUILT 2026 - NE FIRST District Championship - Burns Division Day 1](https://www.youtube.com/watch?v=i1cedzJVzzg)**
 
-Introducing the brand new Haro380 6-Axis mini industrial robotic arm. Get a first look at its smooth motion, precise control, and ...
+nefirst.org/nedcmp.
 
-📺 WLKATA ROBOTICS
+📺 New England FIRST
 
-👁️ 18K • 👍 481 • 💬 11 • ⏱️ 2:11 • 3d ago
+👁️ 10K • ⏱️ 8:15:12 • 17h ago
 
 ---
 
@@ -280,7 +250,37 @@ Physical Intelligence is building a foundation model that can control any robot 
 
 📺 Y Combinator
 
-👁️ 27K • 👍 699 • 💬 38 • ⏱️ 49:27 • 1d ago
+👁️ 28K • 👍 721 • 💬 39 • ⏱️ 49:27 • 1d ago
+
+---
+
+**[Chinese humanoid robots prepare for second-ever half marathon in Beijing](https://www.youtube.com/watch?v=aKYxLWqw8ZQ)**
+
+Chinese humanoid robots train to go head-to-head with human runners in the second-ever Beijing half marathon. NBC News' ...
+
+📺 NBC News
+
+👁️ 167K • 👍 1K • 💬 444 • ⏱️ 1:59 • 3d ago
+
+---
+
+**[New AI Robot Is Starting to Feel Human (Artificial Humans Are Here)](https://www.youtube.com/watch?v=HOgCL8lKuDc)**
+
+Try Seedance 2.0 with Claude on Higgsfield: https://higgsfield.ai/s/seedance-2-0-airevolutionx-LDckkB Realbotix just launched ...
+
+📺 AI Revolution
+
+👁️ 102K • 👍 2K • 💬 184 • ⏱️ 14:57 • 6d ago
+
+---
+
+**[China’s New H1 AI Robot Just BROKE the World Record… This Is Insane](https://www.youtube.com/watch?v=jz3TC2ZkLgw)**
+
+A humanoid robot just sprinted at ten meters per second on an open track — no cables, no harness, nothing but raw artificial ...
+
+📺 NextGen Humanoids
+
+👁️ 54K • 👍 1K • 💬 126 • ⏱️ 8:07 • 5d ago
 
 ---
 
