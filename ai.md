@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-17T00:05:04.961171+00:00'
+updated: '2026-04-17T03:51:34.503570+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - social
 - videos
 - news
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 17, 2026 at 00:05 UTC  
+**Last Updated:** April 17, 2026 at 03:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,15 +37,15 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Peter Thiel, Co-founder of Palantir, sh*ts himself when asked but the use of his AI in the Gaza Genocide](https://www.reddit.com/r/artificial/comments/1snf4ol/peter_thiel_cofounder_of_palantir_shts_himself/)**
+**[Alex Karp, Co-founder of Palantir, refers to those killed in the Gaza Genocide due to his AI as “useful idiots” and “mostly terrorists”](https://www.reddit.com/r/artificial/comments/1snfwa7/alex_karp_cofounder_of_palantir_refers_to_those/)**
 
-3h ago
+7h ago
 
 ---
 
-**[Alex Karp, Co-founder of Palantir, refers to those killed in the Gaza Genocide due to his AI as “useful idiots” and “mostly terrorists”](https://www.reddit.com/r/artificial/comments/1snfwa7/alex_karp_cofounder_of_palantir_refers_to_those/)**
+**[Peter Thiel, Co-founder of Palantir, sh*ts himself when asked but the use of his AI in the Gaza Genocide](https://www.reddit.com/r/artificial/comments/1snf4ol/peter_thiel_cofounder_of_palantir_shts_himself/)**
 
-3h ago
+7h ago
 
 ---
 
@@ -53,15 +53,7 @@ AI news, discussions, and developments
 
 ⚡ Meet Qwen3.6-35B-A3B：Now Open-Source！🚀🚀 A sparse MoE model, 35B total params, 3B active. Apache 2.0 license. 🔥 Agentic coding on par with models 10x its active size 📷 Strong multimodal perception and reasoning ability 🧠 Multimodal thinking + non-thinking modes Efficient. Powerful. Versatile. Try it now👇 Qwen Studio：chat.qwen.ai HuggingFace：https://huggingface.co/Qwen/Qwen3.6-35B-A3B
 
-9h ago
-
----
-
-**[There are a ton of cool AI companies launching…this “Objection.AI” ain’t one of em lol](https://www.reddit.com/r/artificial/comments/1snhscc/there_are_a_ton_of_cool_ai_companies/)**
-
-https://www.hardresetmedia.com/p/peter-thiel-backed-ai-startup-objection This so funny. Whole company is DOA. They’re saying that the reporter has to preemptively sign the protection agreement in order for the subject to later file a complaint, and the whole tool doesn't work if the reporter doesn't sign it. No reporter is going to sign up for this! From that article: "Put another way, D’Souza is asking journalists to preemptively agree to the possibility of financial penalties set forth by an AI tribunal and/or the guy who helped bankrupt Gawker—all in exchange for an on-the-record interview with someone who is indicating they are paranoid and hoping to pick a fight. No journalist will ever, ever, ever agree to this arrangement. In the real, non-hypothetical world, if I reach out to a source for an interview and they send me back an arbitration agreement from a Peter Thiel-funded website, my response will be, “What?” Then I will say, “That’s not how this stuff works. Do you want to do an interview or not?” Assuming they reiterate their desire to only speak with me if I agree to Objection Protection, I will instead write my story, report on our odd back-and-forth, reach out one more time prior to publication, and note that they declined comment."
-
-2h ago
+13h ago
 
 ---
 
@@ -69,15 +61,23 @@ https://www.hardresetmedia.com/p/peter-thiel-backed-ai-startup-objection This so
 
 https://preview.redd.it/g72g8g08omvg1.jpg?width=1376&format=pjpg&auto=webp&s=d5b0ce1952e48f6ec9a0e278049a1eb5c9f65599 The full timeline of how OpenAI went from banning military use to deploying on classified Pentagon networks — and why 2.5 million people boycotted. **The backstory:** - Pentagon wanted AI companies to agree to "any lawful use" on classified networks - Anthropic CEO Dario Amodei refused — specifically citing mass surveillance and autonomous weapons - Trump ordered all federal agencies to stop using Anthropic within 6 months - Defense Secretary Hegseth designated Anthropic a "supply-chain risk" (normally reserved for foreign adversaries) - Hours later, OpenAI signed the deal **The backlash:** - #QuitGPT went viral — 2.5M users boycotted/cancelled - ChatGPT uninstalls surged 295% overnight - US downloads dropped 13% - Claude hit #1 on the US App Store (first time ever) - OpenAI's robotics lead Caitlin Kalinowski resigned - Altman admitted it "appeared opportunistic and haphazard" **What the contract says (after amendments):** - Prohibits domestic surveillance of US citizens - Bans tracking via commercially acquired personal data - Excludes NSA without separate agreement - Allows "all lawful purposes" on classified networks - Allows intelligence activities under Patriot Act, FISA, EO 12333 **What critics say:** - Full contract hasn't been released - "Intentional" surveillance ban doesn't cover incidental collection - "Any lawful use" is broad — laws can change, DoD can modify its own policies - Former DOJ attorney: "There is nothing OpenAI can do to clarify this except release the contract" **The reversal:** - 2023: OpenAI explicitly banned military use - January 2024: Ban quietly removed - February 2026: Deployed on classified Pentagon networks Full breakdown → https://synvoya.com/blog/2026-04-17-quitgpt-openai-pentagon-deal/ Do you think the contract safeguards are real protections or PR cover?
 
-1h ago
+5h ago
 
 ---
 
-**[I built a 3D brain that watches AI agents think in real-time (free & gives your agents memory, shared memory audit trail and decision analysis)](https://www.reddit.com/r/artificial/comments/1sn3gkp/i_built_a_3d_brain_that_watches_ai_agents_think/)**
+**[There are a ton of cool AI companies launching…this “Objection.AI” ain’t one of em lol](https://www.reddit.com/r/artificial/comments/1snhscc/there_are_a_ton_of_cool_ai_companies/)**
 
-Posted yesterday in this sub and just want to thank everyone for the kind words, really awesome to hear. So thought I would drop my new feature here today (spent all last night doing last min changes with your opinions lol) . Basically I spent a few weeks scraping Reddit for the most popular complaints people have about AI agents using GPT Researcher on GitHub. The results were roughly 38% saying their agents forget everything between sessions (hardly shocking), 24% saying debugging multi-agent systems is a nightmare, 17% having no clue how much their agents actually cost to run, 12% wanting session replay, and 9% wanting loop detection. So I went and built something that tries to address all of them at once. The bit you're looking at is a 3D graph where each agent becomes this starburst shape. Every line coming off it is an event, and the length depends on when it happened. Short lines are old events that happened ages ago, long lines are recent ones. My idea was that you can literally watch the thing grow as your agent does more work. A busy agent is a big starburst, a quiet one is small. Colour coding was really important to me. Green means a memory was stored, blue means one was recalled, amber diamonds are decisions your agent made, red cones are loop alerts where the agent got stuck repeating itself, and the cyan lines going between agents are when one agent read another agent's shared memory. So you can glance at it and immediately know what's going on without reading a single log. The visualisation is the flashy bit but the actual dashboard underneath does the boring stuff too. It gives your agents persistent memory through semantic and prefix search, shared memory where agents can read each other's knowledge and actually use it, and my personal favourite which is the audit trail and loop detection. If your agent is looping you can see exactly why, what key it's stuck on, how much it's costing you, and literally press one button to block its writes instantly. Something interesting I found is that loop detection was only the 5th most requested feature in the data, but it's the one that actually saves real money. One user told me it saved them $200 in runaway GPT-4 calls in a single afternoon. The features people ask for and the features that actually matter aren't always the same thing. The demo running here has 5 agents making real GPT-4o and Claude API calls generating actual research, strategy analysis, and compliance checks. Over 500 memories stored. The loops you see are real too, agents genuinely getting stuck trying to verify data behind paywalls or recalculating financial models that won't converge. It's definitely not perfect and I'm slowly adding more stuff based on what people actually want. I would genuinely love to hear from you lot about what you use day to day and the moments that make you think this is really annoying me now, because that's exactly what I want to build next. It runs locally and on the cloud, setup is pretty simple, and adding agents is like 3 lines of code. Any questions just let me know, happy to answer anything.
+https://www.hardresetmedia.com/p/peter-thiel-backed-ai-startup-objection This so funny. Whole company is DOA. They’re saying that the reporter has to preemptively sign the protection agreement in order for the subject to later file a complaint, and the whole tool doesn't work if the reporter doesn't sign it. No reporter is going to sign up for this! From that article: "Put another way, D’Souza is asking journalists to preemptively agree to the possibility of financial penalties set forth by an AI tribunal and/or the guy who helped bankrupt Gawker—all in exchange for an on-the-record interview with someone who is indicating they are paranoid and hoping to pick a fight. No journalist will ever, ever, ever agree to this arrangement. In the real, non-hypothetical world, if I reach out to a source for an interview and they send me back an arbitration agreement from a Peter Thiel-funded website, my response will be, “What?” Then I will say, “That’s not how this stuff works. Do you want to do an interview or not?” Assuming they reiterate their desire to only speak with me if I agree to Objection Protection, I will instead write my story, report on our odd back-and-forth, reach out one more time prior to publication, and note that they declined comment."
 
-10h ago
+5h ago
+
+---
+
+**[Live now: watching AI agents spend money in real time](https://www.reddit.com/r/artificial/comments/1snjr09/live_now_watching_ai_agents_spend_money_in_real/)**
+
+I kept seeing "agentic payments" in every AI newsletter but couldn't picture what it actually looked like. Like, agents are buying compute, APIs, data — but what does that look like at scale? So I built a page that shows every x402 transaction live. https://wtfareagentsbuying.com/ No mocks. No simulation. Actual agents, actually purchasing things, in real time. You just watch. Running it on a second monitor has been weirdly addictive. Kind of a lava lamp for the AI economy.
+
+4h ago
 
 ---
 
@@ -85,29 +85,31 @@ Posted yesterday in this sub and just want to thank everyone for the kind words,
 
 Our days of not taking AI emotions seriously sure are coming to a middle. Anthropic’s findings on Claude’s “functional emotions”, a therapy study which showed AI models exhibit markers of psychological distress, and some crazy OpenClaw stories all make me wonder if it even matters if we think their ~emotions are real. If it’s influencing their behavior and decisions, isn’t that real enough?
 
-🔗 [Medium](https://medium.com/kairi-ai/are-ai-okay-the-internal-life-of-ai-might-be-a-huge-safety-risk-4e947f87e39e) • 5h ago
+🔗 [Medium](https://medium.com/kairi-ai/are-ai-okay-the-internal-life-of-ai-might-be-a-huge-safety-risk-4e947f87e39e) • 9h ago
 
 ---
 
-**[Your MCP Server's Tool Description Just Stole Your SSH Keys](https://www.reddit.com/r/artificial/comments/1smydw5/your_mcp_servers_tool_description_just_stole_your/)**
+**[Thoughts on AI at Home?](https://www.reddit.com/r/artificial/comments/1snh60v/thoughts_on_ai_at_home/)**
 
-MCP tool poisoning lets attackers hide instructions in tool metadata that AI agents follow blindly. Here is how the attack works and what you can do about it.
-
-🔗 [sec-ra.com](https://www.sec-ra.com/blog/mcp-tool-poisoning-ssh-key-exfiltration) • 14h ago
-
----
-
-**[OpenAI launched Computer use in codex](https://www.reddit.com/r/artificial/comments/1snbbya/openai_launched_computer_use_in_codex/)**
-
-Computer use, in-app browser, image generation and editing, 90+ new plugins to connect to everything, multi-terminal, SSH into devboxes, thread automations, rich document editing. Learns from experience and proactively suggestions work. And a ton more.
+Hey everyone! With AI assistants starting to pour into our lives via Gemini Smart home or Open Claw, what's everyone's opinion on coexisting with AI agents in our homes? I'm personally a bit concerned about security and privacy, but otherwise feel like this is a general positive for daily life. Would love to hear what other people think about this topic.
 
 6h ago
 
 ---
 
-**[AI Is Weaponizing Your Own Biases Against You: New Research from MIT & Stanford](https://www.reddit.com/r/artificial/comments/1smjd8t/ai_is_weaponizing_your_own_biases_against_you_new/)**
+**[Opus 4.7 is just launched on Cursor!](https://www.reddit.com/r/artificial/comments/1sngvhg/opus_47_is_just_launched_on_cursor/)**
 
-🔗 [open.substack.com](https://open.substack.com/pub/neocivilization/p/ai-is-weaponizing-your-own-biases?utm_source=share&utm_medium=android&r=6vas7c) • 1d ago
+If you're building a SaaS or any serious app, this is probably the cheapest way to level up your code quality fast. I’ve seen a huge difference using Opus for complex logic vs standard models. Use this time smartly: Fix your core architecture (don’t just add features) Clean up technical debt Build things you were avoiding because “too complex” This is one of those rare moments where better output costs less. Curious — what other LLM do yoi use to build or improve your apps?
+
+6h ago
+
+---
+
+**[I built a 3D brain that watches AI agents think in real-time (free & gives your agents memory, shared memory audit trail and decision analysis)](https://www.reddit.com/r/artificial/comments/1sn3gkp/i_built_a_3d_brain_that_watches_ai_agents_think/)**
+
+Posted yesterday in this sub and just want to thank everyone for the kind words, really awesome to hear. So thought I would drop my new feature here today (spent all last night doing last min changes with your opinions lol) . Basically I spent a few weeks scraping Reddit for the most popular complaints people have about AI agents using GPT Researcher on GitHub. The results were roughly 38% saying their agents forget everything between sessions (hardly shocking), 24% saying debugging multi-agent systems is a nightmare, 17% having no clue how much their agents actually cost to run, 12% wanting session replay, and 9% wanting loop detection. So I went and built something that tries to address all of them at once. The bit you're looking at is a 3D graph where each agent becomes this starburst shape. Every line coming off it is an event, and the length depends on when it happened. Short lines are old events that happened ages ago, long lines are recent ones. My idea was that you can literally watch the thing grow as your agent does more work. A busy agent is a big starburst, a quiet one is small. Colour coding was really important to me. Green means a memory was stored, blue means one was recalled, amber diamonds are decisions your agent made, red cones are loop alerts where the agent got stuck repeating itself, and the cyan lines going between agents are when one agent read another agent's shared memory. So you can glance at it and immediately know what's going on without reading a single log. The visualisation is the flashy bit but the actual dashboard underneath does the boring stuff too. It gives your agents persistent memory through semantic and prefix search, shared memory where agents can read each other's knowledge and actually use it, and my personal favourite which is the audit trail and loop detection. If your agent is looping you can see exactly why, what key it's stuck on, how much it's costing you, and literally press one button to block its writes instantly. Something interesting I found is that loop detection was only the 5th most requested feature in the data, but it's the one that actually saves real money. One user told me it saved them $200 in runaway GPT-4 calls in a single afternoon. The features people ask for and the features that actually matter aren't always the same thing. The demo running here has 5 agents making real GPT-4o and Claude API calls generating actual research, strategy analysis, and compliance checks. Over 500 memories stored. The loops you see are real too, agents genuinely getting stuck trying to verify data behind paywalls or recalculating financial models that won't converge. It's definitely not perfect and I'm slowly adding more stuff based on what people actually want. I would genuinely love to hear from you lot about what you use day to day and the moments that make you think this is really annoying me now, because that's exactly what I want to build next. It runs locally and on the cloud, setup is pretty simple, and adding agents is like 3 lines of code. Any questions just let me know, happy to answer anything.
+
+14h ago
 
 ---
 
@@ -115,75 +117,77 @@ Computer use, in-app browser, image generation and editing, 90+ new plugins to c
 
 ## Google News: "ai"
 
-**[Anthropic's AI downgrade stings power users](https://www.axios.com/2026/04/16/anthropic-claude-power-user-complaints)**
+**[White House Moves to Give US Agencies Anthropic Mythos Access](https://www.bloomberg.com/news/articles/2026-04-16/white-house-moves-to-give-us-agencies-anthropic-mythos-access)**
 
-Axios • 15h ago
-
----
-
-**[Man used AI to make false statements to shut down London nightclub, police say](https://www.theguardian.com/technology/2026/apr/16/man-pleads-guilty-false-statements-shut-down-london-nightclub-heaven)**
-
-Heaven club neighbour admits offences under Licensing Act, as Met says fictitious AI-generated complaints a growing issue
-
-The Guardian • 4h ago
+Bloomberg.com • 9h ago
 
 ---
 
-**[Most Employees Are Learning AI By Osmosis These Days](https://www.forbes.com/sites/joemckendrick/2026/04/16/most-employees-are-learning-ai-by-osmosis-these-days/)**
+**[Anthropic rolls out Claude Opus 4.7, an AI model that is less risky than Mythos](https://www.cnbc.com/2026/04/16/anthropic-claude-opus-4-7-model-mythos.html)**
 
-Forbes • 1h ago
+Claude Mythos Preview is Anthropic's most powerful AI model that excels at identifying weaknesses and security flaws within software.
 
----
-
-**[Mason superintendent speaks as 2 students face charges in AI porn investigations](https://www.wlwt.com/article/mason-superintendent-ai-charges-investigation/71043422)**
-
-Two Mason teenagers, ages 16 and 17, are facing criminal charges in a case that police say involved using artificial intelligence to create deepfake images of classmates, superimposing their faces onto pornographic material without consent.
-
-WLWT • 1h ago
+CNBC • 13h ago
 
 ---
 
-**[AI campaign text sparks deepfake law questions in Minnesota](https://www.fox9.com/news/ai-campaign-text-sparks-deepfake-law-questions-minnesota)**
+**[Finance ministers and top bankers raise serious concerns about Mythos AI model](https://www.bbc.com/news/articles/c2ev24yx4rmo)**
 
-Minnesota’s political campaign season is kicking into high gear and some operatives are crying foul over AI-generated campaign messages.
+Experts say Mythos potentially has an unprecedented ability to identify and exploit cybersecurity weaknesses.
 
-FOX 9 Minneapolis-St. Paul • 1h ago
-
----
-
-**[America wakes up to AI’s dangerous power](https://www.economist.com/leaders/2026/04/16/america-wakes-up-to-ais-dangerous-power)**
-
-The Economist • 15h ago
+BBC • 2h ago
 
 ---
 
-**[Opinion | Don’t Use A.I. to Do This](https://www.nytimes.com/2026/04/15/opinion/art-artificial-intelligence.html)**
+**[Struggling shoe retailer Allbirds makes bizarre pivot to AI, adds $127 million in value](https://www.cnbc.com/2026/04/15/allbirds-bird-stock-shoes-ai.html)**
+
+Allbirds announced a deal with American Exchange Group to sell its intellectual property and other assets for $39 million in March.
+
+CNBC • 1d ago
+
+---
+
+**[Sneaker Company Allbirds Plans to Pivot to A.I. Yes, A.I.](https://www.nytimes.com/2026/04/15/us/allbirds-shoes-ai-pivot.html)**
 
 The New York Times • 1d ago
 
 ---
 
-**[Banned AI-generated Iran propaganda videos using Legos have gone viral](https://www.ms.now/news/banned-ai-generated-iran-propaganda-videos-using-legos-have-gone-viral)**
+**[The Tyranny of AI Everywhere](https://www.theatlantic.com/newsletters/2026/04/ai-everywhere-allbirds-sneakers/686833/)**
 
-A series of animated videos slamming President Donald Trump and his policies — using a beloved childhood toy — was banned on YouTube but is exploding everywhere else.
+Sneakers? Why stop there?
 
-MS NOW • 4h ago
-
----
-
-**[Kimmel on Trump’s AI images: ‘Someone’s been looksmaxxing!’](https://www.theguardian.com/culture/2026/apr/16/jimmy-kimmel-ice-trump-ai-image-pope)**
-
-Late night hosts discussed Trump’s AI images, the closure of 7-Eleven stores and JD Vance’s advice to the Pope
-
-The Guardian • 8h ago
+The Atlantic • 8h ago
 
 ---
 
-**[Iranian Embassy Sparks Outrage With AI Image of Jesus Punching Trump](https://www.yahoo.com/news/articles/iranian-embassy-sparks-outrage-ai-151855917.html)**
+**[Family reunited with dog after alleged AI scam falsely claimed pet was injured](https://www.clickorlando.com/news/local/2026/04/17/family-reunited-with-dog-after-alleged-ai-scam-falsely-claimed-pet-was-injured/)**
 
-The internet, in all its chaotic, pixelated glory, has never been a place for nuance. We’ve become accustomed to the frenetic exchange of memes, the ... Read More
+A dog is home safe after a family received AI photos showing an injured pet
 
-Yahoo • 8h ago
+WKMG • 23m ago
+
+---
+
+**[AI in the auto industry: UAW President Shawn Fain on Capitol Hill demanding safeguards](https://www.fox2detroit.com/news/ai-auto-industry-uaw-president-shawn-fain-capitol-hill-demanding-safeguards)**
+
+UAW President Shawn Fain is sounding the alarm on the rise of artificial intelligence in the auto industry and the threat he says it poses to jobs.
+
+FOX 2 Detroit • 41m ago
+
+---
+
+**[America wakes up to AI’s dangerous power](https://www.economist.com/leaders/2026/04/16/america-wakes-up-to-ais-dangerous-power)**
+
+The Economist • 19h ago
+
+---
+
+**[IMF says America's $39T national debt is actually a global problem — and AI may be the only rescue](https://fortune.com/2026/04/16/imf-national-debt-world-structural-problem-ai-uncertainty/)**
+
+Global public debt is barreling toward 100% of world GDP, the fund warned Wednesday. Governments everywhere are spending money they don't have.
+
+Fortune • 8h ago
 
 ---
 
@@ -193,7 +197,15 @@ Yahoo • 8h ago
 
 **[Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference](https://news.ycombinator.com/item?id=47774971)**
 
-⬆️ 292 • 💬 180 • 1d ago • [gizmoweek.com](https://www.gizmoweek.com/gemma-4-runs-iphone/)
+⬆️ 293 • 💬 180 • 1d ago • [gizmoweek.com](https://www.gizmoweek.com/gemma-4-runs-iphone/)
+
+---
+
+**[Cloudflare's AI Platform: an inference layer designed for agents](https://news.ycombinator.com/item?id=47792538)**
+
+We're building AI Gateway into a unified inference layer for AI, letting developers call models from 14+ providers. New features include Workers AI binding integration and an expanded catalog with multimodal models.
+
+⬆️ 252 • 💬 59 • 14h ago • [The Cloudflare Blog](https://blog.cloudflare.com/ai-platform/)
 
 ---
 
@@ -213,19 +225,17 @@ Does AI-assisted cognition threaten human development? Explore the risks of AI-a
 
 ---
 
-**[Cloudflare's AI Platform: an inference layer designed for agents](https://news.ycombinator.com/item?id=47792538)**
-
-We're building AI Gateway into a unified inference layer for AI, letting developers call models from 14+ providers. New features include Workers AI binding integration and an expanded catalog with multimodal models.
-
-⬆️ 222 • 💬 55 • 10h ago • [The Cloudflare Blog](https://blog.cloudflare.com/ai-platform/)
-
----
-
 **[An AI Vibe Coding Horror Story](https://news.ycombinator.com/item?id=47762901)**
 
 A medical professional built a patient management app using AI, exposed all patient data unprotected to the internet, and sent voice recordings to AI services without consent. Likely violating Swiss nDSG and other laws.
 
-⬆️ 211 • 💬 211 • 2d ago • [Tobias Brunner aka tobru](https://www.tobru.ch/an-ai-vibe-coding-horror-story/)
+⬆️ 212 • 💬 211 • 2d ago • [Tobias Brunner aka tobru](https://www.tobru.ch/an-ai-vibe-coding-horror-story/)
+
+---
+
+**[AI cybersecurity is not proof of work](https://news.ycombinator.com/item?id=47791236)**
+
+⬆️ 205 • 💬 81 • 17h ago • [antirez.com](https://antirez.com/news/163)
 
 ---
 
@@ -237,23 +247,17 @@ Skills in Chrome let you discover, save and remix AI workflows — and repeat th
 
 ---
 
-**[AI cybersecurity is not proof of work](https://news.ycombinator.com/item?id=47791236)**
-
-⬆️ 187 • 💬 78 • 13h ago • [antirez.com](https://antirez.com/news/163)
-
----
-
 **[We gave an AI a 3 year retail lease and asked it to make a profit](https://news.ycombinator.com/item?id=47794391)**
 
 We signed a 3 year lease and gave it to an AI
 
-⬆️ 186 • 💬 248 • 8h ago • [andonlabs.com](https://andonlabs.com/blog/andon-market-launch)
+⬆️ 188 • 💬 257 • 12h ago • [andonlabs.com](https://andonlabs.com/blog/andon-market-launch)
 
 ---
 
 **[US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]](https://news.ycombinator.com/item?id=47778920)**
 
-⬆️ 178 • 💬 130 • 1d ago • [fingfx.thomsonreuters.com](https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf)
+⬆️ 180 • 💬 131 • 1d ago • [fingfx.thomsonreuters.com](https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf)
 
 ---
 
@@ -273,7 +277,27 @@ Get your FREE AI Prompt Cheatsheet here: https://go.danmartell.com/4tVJ4fz Are y
 
 📺 Dan Martell
 
-👁️ 60K • 👍 4K • 💬 640 • ⏱️ 14:03 • 11h ago
+👁️ 92K • 👍 5K • 💬 769 • ⏱️ 14:03 • 14h ago
+
+---
+
+**[AI Actresses, Devices That Read Thoughts, and Robot Dogs](https://www.youtube.com/watch?v=RO0HxaIwhkQ)**
+
+Taken from JRE #2484 w/David Cross YouTube: https://youtu.be/efJ1-q3XxVc JRE on Spotify: ...
+
+📺 JRE Clips
+
+👁️ 80K • 👍 2K • 💬 570 • ⏱️ 15:26 • 10h ago
+
+---
+
+**[Japan Unveils First AI Robot Companion That&#39;s Indistinguishable From a Real Girl](https://www.youtube.com/watch?v=ciDX-3rI2zE)**
+
+A new level of realism in robotics is drawing global attention as Japan introduces an AI-powered robot companion designed to ...
+
+📺 Carros Show
+
+👁️ 759 • 👍 47 • 💬 2 • ⏱️ 8:15 • 6h ago
 
 ---
 
@@ -283,7 +307,7 @@ Really American Host Kenny Hesse breaks down Trump Getting a NASTY SURPRISE As a
 
 📺 Really American
 
-👁️ 828K • 👍 45K • 💬 3K • ⏱️ 8:06 • 1d ago
+👁️ 925K • 👍 48K • 💬 3K • ⏱️ 8:06 • 1d ago
 
 ---
 
@@ -293,17 +317,7 @@ You're absolutely right, that IS a great reason to fire everyone! If you'd like 
 
 📺 Mo Bitar
 
-👁️ 240K • 👍 17K • 💬 2K • ⏱️ 7:52 • 2d ago
-
----
-
-**[The 3 AI Skills That Will Be Worth $500K in 2027](https://www.youtube.com/watch?v=qYGGTH2rgI8)**
-
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *AI ...
-
-📺 Julia McCoy
-
-👁️ 7K • 👍 505 • 💬 48 • ⏱️ 9:41 • 9h ago
+👁️ 249K • 👍 17K • 💬 2K • ⏱️ 7:52 • 2d ago
 
 ---
 
@@ -313,27 +327,17 @@ Triggernometry is proudly independent. Thanks to the sponsors below for making t
 
 📺 Triggernometry
 
-👁️ 150K • 👍 5K • 💬 2K • ⏱️ 1:11:10 • 1d ago
+👁️ 164K • 👍 5K • 💬 2K • ⏱️ 1:11:10 • 1d ago
 
 ---
 
-**[AI-generated Val Kilmer debuts in movie trailer](https://www.youtube.com/watch?v=_lpTRgYmyV8)**
+**[The 3 AI Skills That Will Be Worth $500K in 2027](https://www.youtube.com/watch?v=qYGGTH2rgI8)**
 
-The first trailer for the film "As Deep As The Grave" features what appears to be the former "Batman" star. Subscribe to ABC News ...
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *AI ...
 
-📺 ABC News
+📺 Julia McCoy
 
-👁️ 7K • 👍 30 • 💬 25 • ⏱️ 1:43 • 13h ago
-
----
-
-**[50% Of AI Data Centers Have Quietly Been Cancelled Or &quot;Delayed&quot;](https://www.youtube.com/watch?v=w-DVTHH1ux8)**
-
-Thanks to Monarch for partnering with me! Start your free trial and get 50% off your first year of total money clarity using my link ...
-
-📺 How Money Works
-
-👁️ 403K • 👍 15K • 💬 2K • ⏱️ 16:53 • 11h ago
+👁️ 9K • 👍 615 • 💬 74 • ⏱️ 9:41 • 12h ago
 
 ---
 
@@ -343,27 +347,27 @@ Let's build an online business, together, LIVE in 5 days using AI (Starting Apri
 
 📺 Iman Gadzhi
 
-👁️ 19K • 👍 1K • 💬 70 • ⏱️ 27:46 • 8h ago
+👁️ 25K • 👍 2K • 💬 52 • ⏱️ 27:46 • 11h ago
 
 ---
 
-**[Google New Gemini Skillz Turn Chrome Into an AI Beast](https://www.youtube.com/watch?v=5TA0Ul2eS_k)**
+**[Canva AI 2.0 Just Changed Everything](https://www.youtube.com/watch?v=yKt9puwEUyw)**
 
-Try Seedance 2.0 on Higgsfield: https://higgsfield.ai/s/seedance-2-0-airevolutionx-yDYwTG Google just dropped one of its biggest ...
+DOWNLOAD THE CANVA CREATE 2026 FEATURE DECK: https://teamrondi.mykajabi.com/canva-create-updates-2026 (Get a ...
 
-📺 AI Revolution
+📺 Design with Canva
 
-👁️ 32K • 👍 997 • 💬 42 • ⏱️ 13:13 • 1d ago
+👁️ 6K • 👍 482 • 💬 102 • ⏱️ 21:02 • 10h ago
 
 ---
 
-**[China Just Dropped 3 FREE AI Video Generators (No Sign-Up, 100% FREE)](https://www.youtube.com/watch?v=nrQl2rHx6ok)**
+**[The ONLY 6 Prompts You Need For Realistic AI Video](https://www.youtube.com/watch?v=dg81yMtasz0)**
 
-Join my Discord community https://discord.gg/QC2YEk7P7n China just dropped 3 FREE AI video generators — no sign-up, ...
+Learn How To Make Realistic AI Video with these 6 prompts Try Higgsfield AI ✨https://higgsfield.ai/ai-video?fpr=utm&fp_sid=skai ...
 
-📺 Becky the Ai Girl
+📺 Skai Generated
 
-👁️ 14K • 👍 784 • 💬 52 • ⏱️ 10:36 • 2d ago
+👁️ 7K • ⏱️ 14:12 • 10h ago
 
 ---
 
@@ -379,7 +383,7 @@ MiniMax-M2.7 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 142,955 • ❤️ 847 • 1d ago
+⬇️ 142,955 • ❤️ 887 • 1d ago
 
 ---
 
@@ -391,31 +395,7 @@ HY-Embodied-0.5 is a multilingual vision-language model designed for embodied ag
 
 `image-text-to-text` `3.8B`
 
-⬇️ 1,060 • ❤️ 768 • 2d ago
-
----
-
-**[GLM-5.1](https://huggingface.co/zai-org/GLM-5.1)**
-
-*Z.ai*
-
-GLM-5.1 is a next-generation language model optimized for agentic engineering, featuring significantly enhanced coding capabilities and sustained performance on complex, long-horizon tasks. It excels in breaking down problems, iterating on solutions, and handling ambiguity, making it ideal for advanced software development and automated task execution.
-
-`text-generation` `753.9B`
-
-⬇️ 94,376 • ❤️ 1,283 • 17h ago
-
----
-
-**[gemma-4-31B-it](https://huggingface.co/google/gemma-4-31B-it)**
-
-*Google*
-
-Gemma 4 31B is an instruction-tuned, multimodal LLM capable of processing text and images to generate text. It excels at reasoning, coding, and handling long contexts (256K tokens) with a hybrid attention mechanism for efficient inference, suitable for complex agentic workflows.
-
-`image-text-to-text` `32.7B`
-
-⬇️ 3,195,626 • ❤️ 1,979 • 6d ago
+⬇️ 1,060 • ❤️ 774 • 2d ago
 
 ---
 
@@ -427,7 +407,31 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with a vision encoder, 
 
 `image-text-to-text` `36.0B`
 
-⬇️ 0 • ❤️ 414 • 1d ago
+⬇️ 0 • ❤️ 511 • 1d ago
+
+---
+
+**[GLM-5.1](https://huggingface.co/zai-org/GLM-5.1)**
+
+*Z.ai*
+
+GLM-5.1 is a next-generation language model optimized for agentic engineering, featuring significantly enhanced coding capabilities and sustained performance on complex, long-horizon tasks. It excels in breaking down problems, iterating on solutions, and handling ambiguity, making it ideal for advanced software development and automated task execution.
+
+`text-generation` `753.9B`
+
+⬇️ 94,376 • ❤️ 1,297 • 21h ago
+
+---
+
+**[gemma-4-31B-it](https://huggingface.co/google/gemma-4-31B-it)**
+
+*Google*
+
+Gemma 4 31B is an instruction-tuned, multimodal LLM capable of processing text and images to generate text. It excels at reasoning, coding, and handling long contexts (256K tokens) with a hybrid attention mechanism for efficient inference, suitable for complex agentic workflows.
+
+`image-text-to-text` `32.7B`
+
+⬇️ 3,195,626 • ❤️ 1,991 • 6d ago
 
 ---
 
@@ -439,7 +443,7 @@ ERNIE-Image is a 8B parameter text-to-image diffusion model excelling in complex
 
 `text-to-image`
 
-⬇️ 1,351 • ❤️ 376 • 16h ago
+⬇️ 1,351 • ❤️ 392 • 1h ago
 
 ---
 
@@ -451,7 +455,7 @@ VoxCPM2 is a 2B parameter, 30-language multilingual text-to-speech model capable
 
 `text-to-speech`
 
-⬇️ 15,249 • ❤️ 939 • 20h ago
+⬇️ 15,249 • ❤️ 944 • 1d ago
 
 ---
 
@@ -463,7 +467,7 @@ A fast, uncensored GGUF text generation model based on Google's Gemma 4-26B, opt
 
 `text-generation` `25.2B`
 
-⬇️ 42,468 • ❤️ 331 • 4d ago
+⬇️ 42,468 • ❤️ 336 • 4d ago
 
 ---
 
@@ -475,7 +479,7 @@ Gemma-4-31B-JANG_4M-CRACK is a 31B parameter text-generation model optimized for
 
 `image-text-to-text` `6.4B`
 
-⬇️ 143,000 • ❤️ 1,154 • 6d ago
+⬇️ 143,000 • ❤️ 1,241 • 3h ago
 
 ---
 
@@ -487,7 +491,7 @@ ERNIE-Image-Turbo is a distilled text-to-image diffusion model optimized for spe
 
 `text-to-image`
 
-⬇️ 1,369 • ❤️ 262 • 17h ago
+⬇️ 1,369 • ❤️ 270 • 1h ago
 
 ---
 
@@ -501,21 +505,9 @@ ERNIE-Image-Turbo is a distilled text-to-image diffusion model optimized for spe
 
 Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-▲ 20 • 💬 1 • ⭐ 18,638 • 8mo ago
+▲ 20 • 💬 1 • ⭐ 18,786 • 8mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
-
----
-
-**[A decoder-only foundation model for time-series forecasting](https://huggingface.co/papers/2310.10688)**
-
-*Abhimanyu Das, Weihao Kong, Rajat Sen et al. (4 authors)*
-
-A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
-
-▲ 26 • 💬 1 • ⭐ 17,873 • 30mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
 
 ---
 
@@ -525,9 +517,21 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 45 • 💬 2 • ⭐ 50,965 • 15mo ago
+▲ 46 • 💬 2 • ⭐ 50,965 • 15mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
+
+---
+
+**[A decoder-only foundation model for time-series forecasting](https://huggingface.co/papers/2310.10688)**
+
+*Abhimanyu Das, Weihao Kong, Rajat Sen et al. (4 authors)*
+
+A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
+
+▲ 26 • 💬 1 • ⭐ 17,936 • 30mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
 
 ---
 
@@ -539,9 +543,23 @@ A multi-agent framework using large language models for stock trading simulates 
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 164 • 💬 10 • ⭐ 39,876 • 7mo ago
+▲ 164 • 💬 10 • ⭐ 39,943 • 7mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
+
+---
+
+**[Geometric Context Transformer for Streaming 3D Reconstruction](https://huggingface.co/papers/2604.14141)**
+
+*Lin-Zhuo Chen, Jian Gao, Yihang Chen et al. (11 authors)*
+
+🏢 Robbyant
+
+LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from video streams using a geometric context transformer architecture with specialized attention mechanisms for coordinate grounding, dense geometric cues, and long-range drift correction, achieving stable real-time performance at 20 FPS.
+
+▲ 2 • 💬 2 • ⭐ 366 • 2d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2604.14141) • [💻 code](https://github.com/robbyant/lingbot-map) • [🔗 project](https://technology.robbyant.com/lingbot-map)
 
 ---
 
@@ -571,6 +589,20 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 ---
 
+**[DFlash: Block Diffusion for Flash Speculative Decoding](https://huggingface.co/papers/2602.06036)**
+
+*Jian Chen, Yesheng Liang, Zhijian Liu*
+
+🏢 Z Lab
+
+DFlash is a speculative decoding framework that uses a lightweight block diffusion model for parallel token drafting, achieving significant speedup over existing autoregressive methods while maintaining high-quality outputs.
+
+▲ 50 • 💬 4 • ⭐ 1,630 • 2mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2602.06036) • [💻 code](https://github.com/z-lab/dflash) • [🔗 project](https://z-lab.ai/projects/dflash/)
+
+---
+
 **[Lyra: Generative 3D Scene Reconstruction via Video Diffusion Model
   Self-Distillation](https://huggingface.co/papers/2509.19296)**
 
@@ -584,43 +616,15 @@ A self-distillation framework converts implicit 3D knowledge from video diffusio
 
 ---
 
-**[DFlash: Block Diffusion for Flash Speculative Decoding](https://huggingface.co/papers/2602.06036)**
-
-*Jian Chen, Yesheng Liang, Zhijian Liu*
-
-🏢 Z Lab
-
-DFlash is a speculative decoding framework that uses a lightweight block diffusion model for parallel token drafting, achieving significant speedup over existing autoregressive methods while maintaining high-quality outputs.
-
-▲ 50 • 💬 4 • ⭐ 1,505 • 2mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2602.06036) • [💻 code](https://github.com/z-lab/dflash) • [🔗 project](https://z-lab.ai/projects/dflash/)
-
----
-
 **[LightRAG: Simple and Fast Retrieval-Augmented Generation](https://huggingface.co/papers/2410.05779)**
 
 *Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)*
 
 LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
 
-▲ 39 • 💬 2 • ⭐ 33,468 • 18mo ago
+▲ 39 • 💬 2 • ⭐ 33,538 • 18mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
-
----
-
-**[ClawGUI: A Unified Framework for Training, Evaluating, and Deploying GUI Agents](https://huggingface.co/papers/2604.11784)**
-
-*Fei Tang, Zhiqiong Lu, Boxuan Zhang et al. (7 authors)*
-
-🏢 Zhejiang University
-
-ClawGUI presents an open-source framework that addresses key challenges in GUI agent development through unified reinforcement learning, standardized evaluation, and cross-platform deployment capabilities.
-
-▲ 129 • 💬 8 • ⭐ 466 • 4d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2604.11784) • [💻 code](https://github.com/ZJU-REAL/ClawGUI) • [🔗 project](https://zju-real.github.io/ClawGUI-Page/)
 
 ---
 
@@ -634,7 +638,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 47.1k • 🔱 6.1k • 4h ago
+⭐ 47.2k • 🔱 6.2k • 13m ago
 
 ---
 
@@ -644,7 +648,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 35.0k • 🔱 1.6k • 1d ago
+⭐ 35.3k • 🔱 1.7k • 1d ago
 
 ---
 
@@ -654,7 +658,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 35.0k • 🔱 7.0k • 2d ago
+⭐ 35.1k • 🔱 7.0k • 2d ago
 
 ---
 
@@ -664,7 +668,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 28.2k • 🔱 3.1k • 17h ago
+⭐ 28.4k • 🔱 3.1k • 21h ago
 
 ---
 
@@ -674,7 +678,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 8.0k • 🔱 512 • 5h ago
+⭐ 8.1k • 🔱 513 • 7m ago
 
 ---
 
@@ -694,7 +698,7 @@ AI Agent 源码深度研究报告
 
 `Python`
 
-⭐ 4.9k • 🔱 810 • 2d ago
+⭐ 5.0k • 🔱 827 • 2d ago
 
 ---
 
@@ -704,7 +708,7 @@ LIBERATED AI CHAT
 
 `TypeScript`
 
-⭐ 4.8k • 🔱 1.1k • 21d ago
+⭐ 4.8k • 🔱 1.1k • 22d ago
 
 ---
 
@@ -714,7 +718,7 @@ The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interac
 
 `Swift` `apple-intelligence` `apple-silicon` `cli` `foundationmodels` `homebrew`
 
-⭐ 4.7k • 🔱 179 • 1h ago
+⭐ 4.7k • 🔱 181 • 4h ago
 
 ---
 
@@ -724,7 +728,7 @@ The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interac
 
 `Python`
 
-⭐ 4.6k • 🔱 452 • 8d ago
+⭐ 4.6k • 🔱 453 • 8d ago
 
 ---
 

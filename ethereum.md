@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-17T00:05:04.978443+00:00'
+updated: '2026-04-17T03:51:34.517980+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - videos
+- social
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 17, 2026 at 00:05 UTC  
+**Last Updated:** April 17, 2026 at 03:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,51 +36,51 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,344.56
+### $2,328.15
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.7%  
-**7d:** +4.4%  
-**30d:** +6.3%  
-**90d:** -29.2%  
-**1y:** +48.2%  
+**24h:** -1.0%  
+**7d:** +1.9%  
+**30d:** +9.0%  
+**90d:** -29.0%  
+**1y:** +46.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $283.05B
+**Market Cap:** $281.21B
 Rank #2
 
-**Circulating Supply:** 120,690,932 ETH
+**Circulating Supply:** 120,690,898 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--52.6%
+-52.9%
 
 **All-Time Low:** $0.43
-+541448.2%
++537752.9%
 
 ---
 
 ## Reddit: r/ethereum
 
-**[Daily General Discussion April 16, 2026](https://www.reddit.com/r/ethereum/comments/1smtw3t/daily_general_discussion_april_16_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-19h ago
-
----
-
 **[Ep. 146 - Justin Ahn - quidli.xyz - The Daily Doots Podcast](https://www.reddit.com/r/ethereum/comments/1sn7qz6/ep_146_justin_ahn_quidlixyz_the_daily_doots/)**
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/73hHq2ua1ts?si=fwxBRn1_pW7xDziX) • 8h ago
+🔗 [youtu.be](https://youtu.be/73hHq2ua1ts?si=fwxBRn1_pW7xDziX) • 11h ago
+
+---
+
+**[Daily General Discussion April 16, 2026](https://www.reddit.com/r/ethereum/comments/1smtw3t/daily_general_discussion_april_16_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+22h ago
 
 ---
 
@@ -154,7 +154,7 @@ I permanently lost $2,000 USD value trying to stake via direct contract interact
 
 The move comes amid ongoing changes at the EF, including a renewed focus on scaling and developing the Ethereum mainnet.
 
-The Block • 8h ago
+The Block • 12h ago
 
 ---
 
@@ -162,53 +162,23 @@ The Block • 8h ago
 
 Aave (AAVE), down 1.1% from Wednesday, was also an underperformer.
 
-CoinDesk • 6h ago
+CoinDesk • 10h ago
 
 ---
 
-**[Ethereum Foundation Helps Expose North Korean Workers That Infiltrated Crypto Firms](https://www.yahoo.com/news/articles/ethereum-foundation-helps-expose-north-210711129.html)**
+**[XRP Outperforms Bitcoin, Ethereum, and Solana With a 4% Gain: Is the XRP Breakout Starting?](https://finance.yahoo.com/markets/crypto/articles/xrp-outperforms-bitcoin-ethereum-solana-163608207.html)**
 
-The Ethereum Foundation reported that a six-month program helped expose around 100 DPRK IT workers across 53 crypto projects.
+XRP (CRYPTO: XRP) is up 4% to $1.41, outperforming Bitcoin, Ethereum, and Solana in a single session—the first time in weeks the token has led the market. The move is being driven by Rakuten Wallet listing XRP yesterday and the SEC’s crypto roundtable happening today, with institutional money moving in behind both catalysts. The only ... XRP Outperforms Bitcoin, Ethereum, and Solana With a 4% Gain: Is the XRP Breakout Starting?
 
-Yahoo • 2h ago
-
----
-
-**[Charles Schwab begins rollout of spot bitcoin, ethereum trading platform](https://www.theblock.co/post/397756/charles-schwab-begins-rollout-spot-bitcoin-ethereum-trading-platform)**
-
-The new platform, called Schwab Crypto, will roll out over the coming weeks and will only support bitcoin and ethereum at first.
-
-The Block • 9h ago
+Yahoo Finance • 11h ago
 
 ---
 
-**[Charles Schwab Weighs Prediction Markets Move as Bitcoin, Ethereum Trading Nears](https://decrypt.co/364617/charles-schwab-weighs-prediction-markets-bitcoin-ethereum-trading-nears)**
+**[Polkadot-Ethereum Bridge Hack Losses Were 10x Worse Than Reported, Team Admits](https://decrypt.co/364588/polkadot-ethereum-bridge-hack-losses-10x-worse-team-admits)**
 
-Charles Schwab President and CEO Rick Wurster indicated that America’s largest discount brokerage will likely support prediction markets.
+Polkadot bridge protocol Hyperbridge said losses from this week's hack were 10x worse than originally reported, tallying about $2.5 million.
 
-Decrypt • 6h ago
-
----
-
-**[Charles Schwab CEO on launching bitcoin, ethereum trading](https://www.cnbc.com/video/2026/04/16/charles-schwab-ceo-on-launching-bitcoin-ethereum-trading.html)**
-
-Charles Schwab CEO Rick Wurster joins 'Money Movers' to discuss the company's latest earnings report, market themes, and more.
-
-CNBC • 7h ago
-
----
-
-**[Bitcoin, XRP, Ethereum Fall. Iran Peace Failure Causes a Crypto Headache.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-iran-crypto-46d858c6)**
-
-Barron's • 3d ago
-
----
-
-**[Ethereum Retail Hands Still In Disbelief, Keep Selling Into Strength](https://www.tradingview.com/news/newsbtc:bacd05afb094b:0-ethereum-retail-hands-still-in-disbelief-keep-selling-into-strength/)**
-
-On-chain data shows the small Ethereum hands have sold into the latest price surge, a sign that retail traders don’t believe that the rally will last.Ethereum Retail Supply Has Seen A Notable Decline RecentlyAccording to data from on-chain analytics firm Santiment, the retail-sized Ethereum investo…
-
-TradingView — Track All Markets • 16h ago
+Decrypt • 12h ago
 
 ---
 
@@ -216,15 +186,43 @@ TradingView — Track All Markets • 16h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 11h ago
+Fortune • 15h ago
 
 ---
 
-**[Crypto News: AlphaPepe Announces Fast Stage Sell Out Whilst Ethereum Price Prediction Hits $7,500 Amid Iran War Fear Ease](https://markets.businessinsider.com/news/stocks/crypto-news-alphapepe-announces-fast-stage-sell-out-whilst-ethereum-price-prediction-hits-7-500-amid-iran-war-fear-ease-1036029336)**
+**[Bitmine Swallows a $3.8 Billion Bitter Pill as Tom Lee’s Massive Ethereum Bet Hits an Accounting Wall](https://www.tipranks.com/news/bitmine-swallows-a-3-8-billion-bitter-pill-as-tom-lees-massive-ethereum-bet-hits-an-accounting-wall)**
 
-MONACO, April  16, 2026  (GLOBE NEWSWIRE) -- AlphaPepe just sold out another presale stage faster than any round before it and the next stage is a...
+TipRanks • 1d ago
 
-markets.businessinsider.com • 9h ago
+---
+
+**[Charles Schwab to launch crypto trading with bitcoin, ethereum](https://www.bizjournals.com/dallas/news/2026/04/16/charles-schwab-launches-crypto-trading-bitcoin-eth.html)**
+
+The Business Journals • 7h ago
+
+---
+
+**[Ethereum Retail Hands Still In Disbelief, Keep Selling Into Strength](https://www.tradingview.com/news/newsbtc:bacd05afb094b:0-ethereum-retail-hands-still-in-disbelief-keep-selling-into-strength/)**
+
+On-chain data shows the small Ethereum hands have sold into the latest price surge, a sign that retail traders don’t believe that the rally will last.Ethereum Retail Supply Has Seen A Notable Decline RecentlyAccording to data from on-chain analytics firm Santiment, the retail-sized Ethereum investo…
+
+TradingView — Track All Markets • 19h ago
+
+---
+
+**[Crypto News: Ethereum Based Crypto Pepeto DEFI Exchange Update While Cardano Price Gains Strength](https://markets.businessinsider.com/news/stocks/crypto-news-ethereum-based-crypto-pepeto-defi-exchange-update-while-cardano-price-gains-strength-1036031345)**
+
+Dubai, UAE, April  16, 2026  (GLOBE NEWSWIRE) -- Ethereum based crypto Pepeto just released a major DeFi exchange update, and the platform is now ...
+
+markets.businessinsider.com • 5h ago
+
+---
+
+**[Charles Schwab launches spot trading for Bitcoin and Ethereum](https://cryptobriefing.com/charles-schwab-launches-spot-trading-for-bitcoin-and-ethereum/)**
+
+Charles Schwab launches spot trading for Bitcoin and Ethereum. Bitcoin between $70,000 and $72,000 on April 13 at 100% YES.
+
+Crypto Briefing • 3h ago
 
 ---
 
@@ -232,13 +230,23 @@ markets.businessinsider.com • 9h ago
 
 ## YouTube Videos: "ethereum"
 
+**[BITCOIN PRICE TARGETS REVEALED (Short Squeeze)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=3ZWbfmJy77s)**
+
+BITCOIN PRICE TARGETS REVEALED (Short Squeeze)!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
+
+📺 Crypto World
+
+👁️ 799 • 👍 72 • 💬 14 • ⏱️ 23:17 • 49m ago
+
+---
+
 **[🤩 Don&#39;t Miss The Opportunity In Ethereum !](https://www.youtube.com/watch?v=ZP5mgPEADco)**
 
 Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 3K • 👍 134 • 💬 12 • ⏱️ 8:23 • 12h ago
+👁️ 3K • 👍 141 • 💬 18 • ⏱️ 8:23 • 16h ago
 
 ---
 
@@ -248,27 +256,7 @@ Buy Ethereum? CRYPTO RETIREMENT ACCOUNT HERE Sign up for iTrustCapital and get a
 
 📺 Crypto Jebb
 
-👁️ 5K • 👍 257 • 💬 128 • ⏱️ 14:10 • 1d ago
-
----
-
-**[Insane Ethereum Fractal: Ignite Altcoins Or Trap Bulls...](https://www.youtube.com/watch?v=MM9bTgBSVrQ)**
-
-Ethereum is flashing a fractal that mirrors the November 2024 altcoin breakout, and the setup is showing up across Cardano, Sui, ...
-
-📺 Crypto Capital Venture
-
-👁️ 6K • 👍 452 • 💬 147 • ⏱️ 11:01 • 10h ago
-
----
-
-**[&quot;Pissed Off&quot; Ethereum Dev Runs For Congress🔥Joe Schiarizzi INTERVIEW](https://www.youtube.com/watch?v=t7SZfuqCu2I)**
-
-Ethereum developer Joe Schiarizzi—ex-ConsenSys, Gitcoin, OpenSea, Solarpunk VC founder—is running for Congress (VA-7) to ...
-
-📺 Paul Barron Network
-
-👁️ 11K • 👍 839 • 💬 207 • ⏱️ 22:10 • 11h ago
+👁️ 6K • 👍 262 • 💬 128 • ⏱️ 14:10 • 1d ago
 
 ---
 
@@ -278,27 +266,17 @@ IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purp
 
 📺 The Kenzo Guy
 
-👁️ 672 • 👍 80 • 💬 4 • ⏱️ 25:48 • 3h ago
+👁️ 3K • 👍 229 • 💬 8 • ⏱️ 25:48 • 6h ago
 
 ---
 
-**[Ethereum’s Wall Street Moment Is Here | Raoul Pal the Journey Man](https://www.youtube.com/watch?v=855YrRfkyIc)**
+**[Insane Ethereum Fractal: Ignite Altcoins Or Trap Bulls...](https://www.youtube.com/watch?v=MM9bTgBSVrQ)**
 
-Raoul welcomes Vivek Raman, Co-Founder and CEO of Etherealize, and Danny Ryan, Co-Founder and President at Etherealize, ...
+Ethereum is flashing a fractal that mirrors the November 2024 altcoin breakout, and the setup is showing up across Cardano, Sui, ...
 
-📺 Raoul Pal The Journey Man
+📺 Crypto Capital Venture
 
-👁️ 3K • 👍 165 • 💬 6 • ⏱️ 1:11:56 • 11h ago
-
----
-
-**[Michael Saylor on Ethereum: It’s Still the Leader](https://www.youtube.com/watch?v=BtiLtGZXPX4)**
-
-Michael Saylor's Ethereum view has changed. Bitcoin is digital capital. Ethereum is leading the tokenization race. #Bitcoin ...
-
-📺 Bankless
-
-👁️ 5K • 👍 120 • 💬 41 • ⏱️ 1:17 • 1d ago
+👁️ 7K • 👍 495 • 💬 93 • ⏱️ 11:01 • 13h ago
 
 ---
 
@@ -308,27 +286,47 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 5K • 👍 261 • 💬 113 • ⏱️ 11:55 • 1d ago
+👁️ 5K • 👍 264 • 💬 113 • ⏱️ 11:55 • 1d ago
 
 ---
 
-**[URGENT $60,000 Ethereum Incoming Despite Crypto Clarity Delay $120M flows to XRP!](https://www.youtube.com/watch?v=jFuYQZuHFgw)**
+**[Ethereum’s Wall Street Moment Is Here | Raoul Pal the Journey Man](https://www.youtube.com/watch?v=855YrRfkyIc)**
 
-URGENT $60000 Ethereum Incoming Despite Crypto Clarity Delay $120M flows to XRP! ether.fi (Partner) ...
+Raoul welcomes Vivek Raman, Co-Founder and CEO of Etherealize, and Danny Ryan, Co-Founder and President at Etherealize, ...
 
-📺 CryptoWendyO
+📺 Raoul Pal The Journey Man
 
-👁️ 6K • 👍 436 • 💬 41 • ⏱️ 32:36 • 1d ago
+👁️ 4K • 👍 187 • 💬 6 • ⏱️ 1:11:56 • 15h ago
 
 ---
 
-**[Ethereum Analysis: How High Can This Bounce Actually Go?](https://www.youtube.com/watch?v=2Vs2aLFcCWY)**
+**[Michael Saylor on Ethereum: It’s Still the Leader](https://www.youtube.com/watch?v=BtiLtGZXPX4)**
 
-Ethereum is moving higher in a corrective bounce and approaching a major resistance cluster. In this video I walk through the ...
+Michael Saylor's Ethereum view has changed. Bitcoin is digital capital. Ethereum is leading the tokenization race. #Bitcoin ...
 
-📺 More Crypto Online
+📺 Bankless
 
-👁️ 5K • 👍 325 • 💬 23 • ⏱️ 9:49 • 23h ago
+👁️ 6K • 👍 126 • 💬 42 • ⏱️ 1:17 • 1d ago
+
+---
+
+**[&quot;Pissed Off&quot; Ethereum Dev Runs For Congress🔥Joe Schiarizzi INTERVIEW](https://www.youtube.com/watch?v=t7SZfuqCu2I)**
+
+Ethereum developer Joe Schiarizzi—ex-ConsenSys, Gitcoin, OpenSea, Solarpunk VC founder—is running for Congress (VA-7) to ...
+
+📺 Paul Barron Network
+
+👁️ 12K • 👍 894 • 💬 262 • ⏱️ 22:10 • 15h ago
+
+---
+
+**[Tom Lee :&quot;Bitcoin &amp; ETH Holders NEED to Hear This IMMEDIATELY [2026 New Price Prediction]](https://www.youtube.com/watch?v=DVUa0wyPWzQ)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 5K • 👍 250 • 💬 14 • ⏱️ 14:46 • 1d ago
 
 ---
 
