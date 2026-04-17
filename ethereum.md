@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-17T14:41:51.289059+00:00'
+updated: '2026-04-17T16:02:12.244927+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
-- news
+- videos
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 17, 2026 at 14:41 UTC  
+**Last Updated:** April 17, 2026 at 16:02 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,447.56
+### $2,438.07
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +4.7%  
-**7d:** +7.2%  
-**30d:** +14.7%  
-**90d:** -25.4%  
-**1y:** +54.2%  
+**24h:** +5.3%  
+**7d:** +6.9%  
+**30d:** +14.3%  
+**90d:** -25.6%  
+**1y:** +53.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $291.82B
+**Market Cap:** $295.07B
 Rank #2
 
 **Circulating Supply:** 120,690,898 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--51.0%
+-50.6%
 
 **All-Time Low:** $0.43
-+559936.4%
++564278.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+11h ago
 
 ---
 
@@ -80,13 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Glamsterdam devnets drive Ethereum’s execution readiness while Hegotá opens the next phase of upgrade proposals & protocol evolution.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-consensus-acdc-call-177/) • 6h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-consensus-acdc-call-177/) • 7h ago
 
 ---
 
-**[PolyApex Telegram Bot That Copies Polymarket Insiders Wallets](https://www.reddit.com/r/ethereum/comments/1so07v3/polyapex_telegram_bot_that_copies_polymarket/)**
+**[I think Coinbase is building a fantastic business with stablecoins, and I would love others' opinions and thoughts.](https://www.reddit.com/r/ethereum/comments/1so3od4/i_think_coinbase_is_building_a_fantastic_business/)**
 
-1h ago
+55m ago
 
 ---
 
@@ -94,7 +94,13 @@ Glamsterdam devnets drive Ethereum’s execution readiness while Hegotá opens t
 
 Solidity developer survey results, ether.fi migrated to OP Mainnet, X $ETH cashtag
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-mini-0/) • 7h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-mini-0/) • 9h ago
+
+---
+
+**[PolyApex Telegram Bot That Copies Polymarket Insiders Wallets](https://www.reddit.com/r/ethereum/comments/1so07v3/polyapex_telegram_bot_that_copies_polymarket/)**
+
+3h ago
 
 ---
 
@@ -110,7 +116,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/73hHq2ua1ts?si=fwxBRn1_pW7xDziX) • 22h ago
+🔗 [youtu.be](https://youtu.be/73hHq2ua1ts?si=fwxBRn1_pW7xDziX) • 1d ago
 
 ---
 
@@ -138,14 +144,6 @@ Man I was looking at some recent governance votes across a few protocols and the
 
 ---
 
-**[Daily General Discussion April 14, 2026](https://www.reddit.com/r/ethereum/comments/1skz0ll/daily_general_discussion_april_14_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -154,15 +152,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Quarterly transactions hit 200.4 million in Q1 2026, the first time above 200 million and more than double the 2023 lows.
 
-CoinDesk • 7h ago
-
----
-
-**[Ethereum Foundation unveils $1M audit subsidy program to boost crypto security and cut costs for builders](https://www.coindesk.com/tech/2026/04/14/ethereum-foundation-unveils-usd1m-audit-subsidy-program-to-boost-crypto-security-and-cut-costs-for-builders)**
-
-The organization unveiled a new initiative aimed at tackling a persistent challenge in crypto development—the high cost of smart contract security audits.
-
-CoinDesk • 2d ago
+CoinDesk • 8h ago
 
 ---
 
@@ -170,21 +160,7 @@ CoinDesk • 2d ago
 
 The move comes amid ongoing changes at the EF, including a renewed focus on scaling and developing the Ethereum mainnet.
 
-The Block • 23h ago
-
----
-
-**[ETH Rangers Program Recap](https://blog.ethereum.org/2026/04/16/eth-rangers-recap)**
-
-Ethereum Foundation Blog • 1d ago
-
----
-
-**[Better Crypto Buy Right Now: Ethereum vs. Solana](https://www.fool.com/investing/2026/04/17/better-crypto-buy-right-now-ethereum-vs-solana/)**
-
-Amid the ongoing cryptocurrency bear market, these two interesting digital assets present investors with possible buy-the-dip opportunities.
-
-The Motley Fool • 48m ago
+The Block • 1d ago
 
 ---
 
@@ -192,15 +168,23 @@ The Motley Fool • 48m ago
 
 XRP (CRYPTO: XRP) is up 4% to $1.41, outperforming Bitcoin, Ethereum, and Solana in a single session—the first time in weeks the token has led the market. The move is being driven by Rakuten Wallet listing XRP yesterday and the SEC’s crypto roundtable happening today, with institutional money moving in behind both catalysts. The only ... XRP Outperforms Bitcoin, Ethereum, and Solana With a 4% Gain: Is the XRP Breakout Starting?
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
-**[Better Crypto Buy Right Now: Ethereum vs. Solana](https://www.theglobeandmail.com/investing/markets/stocks/INTC-Q/pressreleases/1367638/better-crypto-buy-right-now-ethereum-vs-solana/)**
+**[Better Crypto Buy Right Now: Ethereum vs. Solana](https://www.fool.com/investing/2026/04/17/better-crypto-buy-right-now-ethereum-vs-solana/)**
+
+Amid the ongoing cryptocurrency bear market, these two interesting digital assets present investors with possible buy-the-dip opportunities.
+
+The Motley Fool • 2h ago
+
+---
+
+**[Better Crypto Buy Right Now: Ethereum vs. Solana](https://www.theglobeandmail.com/investing/markets/stocks/INTC/pressreleases/1367638/better-crypto-buy-right-now-ethereum-vs-solana/)**
 
 Detailed price information for Intel Corp (INTC-Q) from The Globe and Mail including charting and trades.
 
-The Globe and Mail • 47m ago
+The Globe and Mail • 1h ago
 
 ---
 
@@ -208,7 +192,7 @@ The Globe and Mail • 47m ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 1h ago
+Fortune • 3h ago
 
 ---
 
@@ -216,15 +200,29 @@ Fortune • 1h ago
 
 Aave (AAVE), down 1.1% from Wednesday, was also an underperformer.
 
-CoinDesk • 21h ago
+CoinDesk • 22h ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Friday, April 17, 2026: Higher prices hold with ceasefire in effect](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-april-17-2026-higher-prices-hold-with-ceasefire-in-effect-114918376.html)**
+**[Ethereum Whales Are Sitting on a Breakeven Ceiling at $2,400 Price: Are They About to Kill the Ra...](https://www.binance.com/en/square/post/313512843674370)**
 
-Bitcoin (BTC-USD) opened at $75,151.99 on Friday, 0.5% higher than Thursday’s opening price of $74,810.87. Ethereum (ETH-USD) opened at $2,348.49 on Friday, down 0.5% from Thursday’s opening price of $2,359.70.
+Binance • 2h ago
 
-Yahoo Finance • 2h ago
+---
+
+**[Charles Schwab begins rollout of spot bitcoin, ethereum trading platform](https://www.theblock.co/post/397756/charles-schwab-begins-rollout-spot-bitcoin-ethereum-trading-platform)**
+
+The new platform, called Schwab Crypto, will roll out over the coming weeks and will only support bitcoin and ethereum at first.
+
+The Block • 1d ago
+
+---
+
+**[Charles Schwab to launch direct bitcoin, ether trading to compete with Robinhood](https://www.cnbc.com/2026/04/16/charles-schwab-to-launch-direct-bitcoin-ethereum-trading-to-compete-with-robinhood.html)**
+
+Charles Schwab is rolling out crypto trading, allowing clients to buy bitcoin and ether through a new arm called Schwab Crypto.
+
+CNBC • 1d ago
 
 ---
 
@@ -238,27 +236,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 192 • 👍 13 • ⏱️ 4:53 • 5h ago
-
----
-
-**[🤩 Don&#39;t Miss The Opportunity In Ethereum !](https://www.youtube.com/watch?v=ZP5mgPEADco)**
-
-Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 4K • 👍 154 • 💬 20 • ⏱️ 8:23 • 1d ago
-
----
-
-**[This Ethereum Analysis Says BUY BEFORE IT&#39;S TOO LATE! Ethereum Technical Analysis 2026](https://www.youtube.com/watch?v=jgUZRil56eA)**
-
-Buy Ethereum? CRYPTO RETIREMENT ACCOUNT HERE Sign up for iTrustCapital and get a $100 funding bonus after ...
-
-📺 Crypto Jebb
-
-👁️ 6K • 👍 271 • 💬 128 • ⏱️ 14:10 • 1d ago
+👁️ 316 • 👍 18 • ⏱️ 4:53 • 7h ago
 
 ---
 
@@ -268,17 +246,27 @@ Ethereum is flashing a fractal that mirrors the November 2024 altcoin breakout, 
 
 📺 Crypto Capital Venture
 
-👁️ 8K • 👍 527 • 💬 217 • ⏱️ 11:01 • 1d ago
+👁️ 8K • 👍 530 • 💬 148 • ⏱️ 11:01 • 1d ago
 
 ---
 
-**[Ethereum’s Wall Street Moment Is Here | Raoul Pal the Journey Man](https://www.youtube.com/watch?v=855YrRfkyIc)**
+**[🤩 Don&#39;t Miss The Opportunity In Ethereum !](https://www.youtube.com/watch?v=ZP5mgPEADco)**
+
+Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 4K • 👍 158 • 💬 21 • ⏱️ 8:23 • 1d ago
+
+---
+
+**[AI Agents, Tokenization, and Ethereum’s Next Wave | Raoul Pal the Journey Man](https://www.youtube.com/watch?v=855YrRfkyIc)**
 
 Raoul welcomes Vivek Raman, Co-Founder and CEO of Etherealize, and Danny Ryan, Co-Founder and President at Etherealize, ...
 
 📺 Raoul Pal The Journey Man
 
-👁️ 6K • 👍 235 • 💬 14 • ⏱️ 1:11:56 • 1d ago
+👁️ 6K • 👍 246 • 💬 10 • ⏱️ 1:11:56 • 1d ago
 
 ---
 
@@ -288,37 +276,7 @@ IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purp
 
 📺 The Kenzo Guy
 
-👁️ 5K • 👍 303 • 💬 14 • ⏱️ 25:48 • 17h ago
-
----
-
-**[URGENT $60,000 Ethereum Incoming Despite Crypto Clarity Delay $120M flows to XRP!](https://www.youtube.com/watch?v=jFuYQZuHFgw)**
-
-URGENT $60000 Ethereum Incoming Despite Crypto Clarity Delay $120M flows to XRP! ether.fi (Partner) ...
-
-📺 CryptoWendyO
-
-👁️ 7K • 👍 441 • 💬 42 • ⏱️ 32:36 • 1d ago
-
----
-
-**[Tom Lee :&quot;Bitcoin &amp; ETH Holders NEED to Hear This IMMEDIATELY [2026 New Price Prediction]](https://www.youtube.com/watch?v=DVUa0wyPWzQ)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 5K • 👍 257 • 💬 14 • ⏱️ 14:46 • 1d ago
-
----
-
-**[&quot;Pissed Off&quot; Ethereum Dev Runs For Congress🔥Joe Schiarizzi INTERVIEW](https://www.youtube.com/watch?v=t7SZfuqCu2I)**
-
-Ethereum developer Joe Schiarizzi—ex-ConsenSys, Gitcoin, OpenSea, Solarpunk VC founder—is running for Congress (VA-7) to ...
-
-📺 Paul Barron Network
-
-👁️ 13K • 👍 925 • 💬 269 • ⏱️ 22:10 • 1d ago
+👁️ 6K • 👍 321 • 💬 26 • ⏱️ 25:48 • 19h ago
 
 ---
 
@@ -328,7 +286,47 @@ Michael Saylor's Ethereum view has changed. Bitcoin is digital capital. Ethereum
 
 📺 Bankless
 
-👁️ 7K • 👍 147 • 💬 42 • ⏱️ 1:17 • 1d ago
+👁️ 7K • 👍 155 • 💬 42 • ⏱️ 1:17 • 1d ago
+
+---
+
+**[This Ethereum Analysis Says BUY BEFORE IT&#39;S TOO LATE! Ethereum Technical Analysis 2026](https://www.youtube.com/watch?v=jgUZRil56eA)**
+
+Buy Ethereum? CRYPTO RETIREMENT ACCOUNT HERE Sign up for iTrustCapital and get a $100 funding bonus after ...
+
+📺 Crypto Jebb
+
+👁️ 6K • 👍 276 • 💬 128 • ⏱️ 14:10 • 1d ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=fbq_kqxXMQY)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Crypto Gyan
+
+👁️ 187 • 👍 28 • ⏱️ 5:23 • 36m ago
+
+---
+
+**[&quot;Pissed Off&quot; Ethereum Dev Runs For Congress🔥Joe Schiarizzi INTERVIEW](https://www.youtube.com/watch?v=t7SZfuqCu2I)**
+
+Ethereum developer Joe Schiarizzi—ex-ConsenSys, Gitcoin, OpenSea, Solarpunk VC founder—is running for Congress (VA-7) to ...
+
+📺 Paul Barron Network
+
+👁️ 13K • 👍 928 • 💬 236 • ⏱️ 22:10 • 1d ago
+
+---
+
+**[CRYPTO LIVE TRADING || 17 APRIL  | ‪@ClockTraderlive‬ #bitcoin #ethereum #crypto #btclivetrading](https://www.youtube.com/watch?v=y1iMLbSHPDM)**
+
+join my social platforms for updates and analysis ✓Instagram: ...
+
+📺 Aryan trader Live
+
+👁️ 4K • 👍 1K • 💬 23 • ⏱️ 11:12 • 8m ago
 
 ---
 

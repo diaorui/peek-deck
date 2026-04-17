@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-17T14:41:51.283143+00:00'
+updated: '2026-04-17T16:02:12.237517+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
-- news
+- videos
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 17, 2026 at 14:41 UTC  
+**Last Updated:** April 17, 2026 at 16:02 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,734.31
+### $77,784.85
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +4.3%  
-**7d:** +6.7%  
-**30d:** +11.4%  
-**90d:** -16.9%  
-**1y:** -7.8%  
+**24h:** +4.9%  
+**7d:** +6.5%  
+**30d:** +11.2%  
+**90d:** -17.0%  
+**1y:** -7.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1537.12B
+**Market Cap:** $1557.50B
 Rank #1
 
-**Circulating Supply:** 20,017,090 BTC
+**Circulating Supply:** 20,017,137 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--39.0%
+-38.3%
 
 **All-Time Low:** $67.81
-+113287.4%
++114639.7%
 
 ---
 
@@ -81,13 +81,35 @@ Rank #1
 
 Hahahah trains leaving the station 😂😂 where are all the 30k people at now ?? Unlucky boys. Better luck next time 🤡✌️
 
-1h ago
+2h ago
 
 ---
 
 **[400-600m in shorts just got CRUSHED](https://www.reddit.com/r/Bitcoin/comments/1so0gn3/400600m_in_shorts_just_got_crushed/)**
 
 What do you guys think... will it HODL?
+
+2h ago
+
+---
+
+**[The current situation in one picture](https://www.reddit.com/r/Bitcoin/comments/1so1wy0/the_current_situation_in_one_picture/)**
+
+1h ago
+
+---
+
+**[My perspective](https://www.reddit.com/r/Bitcoin/comments/1so4dx3/my_perspective/)**
+
+Hey everyone, I’ve been buying Bitcoin since 2012/2013. I’ve lived through it all, studied all cycles in detail, and I’m usually dead silent on Reddit, I just lurk, watch, and stay out of the noise. Never really comment. But… This feels massively like the 2013 cycle and the 2021 cycle. We’d hit a top, then a brutal dip where everyone piled into the “lower lows incoming,” “it’s over,” narrative. Capitulation everywhere. Then, surprise, it bounced hard and went on to make new cycle highs. That’s exactly what I see playing out right now. We topped at roughly $126,200 in early October 2025. Since then we’ve had the classic post-peak flush, fear, and bearish calls for even lower prices. But to me this looks like the same retest/bounce setup we’ve seen before. The crowd is getting shaken out again right before the next leg higher. In my experience, this is when things get very bullish. A lot of people are going to sit on the sidelines waiting for “the real bottom” that never comes. People think the cycle top has com and we have entered bear, but the market is maturing and becoming longer. Wouldn’t surprise me at all if we see the cycle top sometime in late 2026 or 2027 in the $180k–$220k range. Just my two sats after watching this market for over a decade. Do your own research, never financial advice… but damn if this doesn’t feel familiar in the best possible way. Stay safe out there. (And yeah… still not selling.)
+
+29m ago
+
+---
+
+**[What’s one thing about Bitcoin that convinced you it’s here to stay?](https://www.reddit.com/r/Bitcoin/comments/1so2gl9/whats_one_thing_about_bitcoin_that_convinced_you/)**
+
+I've been learning more about Bitcoin lately and curious what clicked for others. What made you believe in it long term?
 
 1h ago
 
@@ -97,19 +119,7 @@ What do you guys think... will it HODL?
 
 I unload a few shipping containers each month at my job. I usually sign the inside wall like this one I unloaded today. I’ve been doing it for years. If you ever see my note out there in the wild let me know.
 
-15h ago
-
----
-
-**[The current situation in one picture](https://www.reddit.com/r/Bitcoin/comments/1so1wy0/the_current_situation_in_one_picture/)**
-
-39m ago
-
----
-
-**[So we meet again](https://www.reddit.com/r/Bitcoin/comments/1snfwvz/so_we_meet_again/)**
-
-17h ago
+16h ago
 
 ---
 
@@ -117,31 +127,13 @@ I unload a few shipping containers each month at my job. I usually sign the insi
 
 Heavy liquidity in the 80s along with 2 cme gaps. If the bulls r really lucky they can hit 90k which has a ton of liquidity. At that point no one will know if we’re back in a bull market. 80s from here is still bullish. This is y u dca and buy the dips. Congrats to those who bought in the 60s. We going moon
 
-5h ago
+6h ago
 
 ---
 
-**[Bitcoin Options Move From Fear to Quiet Confidence](https://www.reddit.com/r/Bitcoin/comments/1snwolh/bitcoin_options_move_from_fear_to_quiet_confidence/)**
+**[So we meet again](https://www.reddit.com/r/Bitcoin/comments/1snfwvz/so_we_meet_again/)**
 
-In early April, Bitcoin’s options market briefly snapped into risk-off mode. : Get all the latest crypto news at Sandmark
-
-🔗 [Sandmark](https://www.sandmark.com/news/analysis/bitcoin-options-move-fear-quiet-confidence) • 4h ago
-
----
-
-**[What’s one thing about Bitcoin that convinced you it’s here to stay?](https://www.reddit.com/r/Bitcoin/comments/1so2gl9/whats_one_thing_about_bitcoin_that_convinced_you/)**
-
-I've been learning more about Bitcoin lately and curious what clicked for others. What made you believe in it long term?
-
-19m ago
-
----
-
-**[I'm currently buying Bitcoin on Robinhood is this bad?](https://www.reddit.com/r/Bitcoin/comments/1snpc22/im_currently_buying_bitcoin_on_robinhood_is_this/)**
-
-Should I start buying Bitcoin on another broker account?
-
-11h ago
+19h ago
 
 ---
 
@@ -149,7 +141,15 @@ Should I start buying Bitcoin on another broker account?
 
 See you in a couple of hours when it plummets
 
-1h ago
+3h ago
+
+---
+
+**[Bitcoin Options Move From Fear to Quiet Confidence](https://www.reddit.com/r/Bitcoin/comments/1snwolh/bitcoin_options_move_from_fear_to_quiet_confidence/)**
+
+In early April, Bitcoin’s options market briefly snapped into risk-off mode. : Get all the latest crypto news at Sandmark
+
+🔗 [Sandmark](https://www.sandmark.com/news/analysis/bitcoin-options-move-fear-quiet-confidence) • 5h ago
 
 ---
 
@@ -165,31 +165,47 @@ CNBC • 1d ago
 
 ---
 
+**[Charles Schwab begins rollout of spot bitcoin, ethereum trading platform](https://www.theblock.co/post/397756/charles-schwab-begins-rollout-spot-bitcoin-ethereum-trading-platform)**
+
+The new platform, called Schwab Crypto, will roll out over the coming weeks and will only support bitcoin and ethereum at first.
+
+The Block • 1d ago
+
+---
+
+**[Charles Schwab Weighs Prediction Markets Move as Bitcoin, Ethereum Trading Nears](https://finance.yahoo.com/markets/crypto/articles/charles-schwab-weighs-prediction-markets-172622437.html)**
+
+Charles Schwab President and CEO Rick Wurster indicated that America’s largest discount brokerage will likely support prediction markets.
+
+Yahoo Finance • 22h ago
+
+---
+
+**[Bitcoin outlook still clouded by 'extreme fear' amid macro uncertainty and profit-taking despite rally to $76K, analysts say](https://www.theblock.co/post/397874/bitcoin-outlook-still-clouded-by-extreme-fear-amid-macro-uncertainty-and-profit-taking-despite-rally-to-76k-analysts-say)**
+
+Bitcoin climbed toward $76,000 as ETF demand improves and Wall Street hits record highs, but analysts say the rally still looks fragile.
+
+The Block • 4h ago
+
+---
+
+**[MSTR Stock Rips 15% as Strategy Posts Stunning $1.3 Billion Bitcoin Profit](https://www.tipranks.com/news/mstr-stock-rips-15-as-strategy-posts-stunning-1-3b-bitcoin-profit)**
+
+TipRanks • 33m ago
+
+---
+
+**[Goldman Sachs, Morgan Stanley bet big on Bitcoin. 'Wall Street has literally arrived'](https://www.dlnews.com/articles/markets/goldman-sachs-morgan-stanley-bet-big-on-bitcoin/)**
+
+Wall Street is coming for crypto.  Goldman Sachs has filed for a Bitcoin ETF. It is not alone in embracing digital assets.
+
+dlnews.com • 14m ago
+
+---
+
 **[Bitcoin’s Greatest Mystery](https://www.nytimes.com/2026/04/16/world/bitcoin-satoshi-adam-back-israel-lebanon-ceasefire.html)**
 
-The New York Times • 10h ago
-
----
-
-**[Bitcoin Gains After Iran Foreign Minister Declares Strait of Hormuz Open](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-04-17-2026/card/bitcoin-gains-after-iran-foreign-minister-declares-strait-of-hormuz-open-OmNI2Wf8tld0CaPJtZUO)**
-
-WSJ • 27m ago
-
----
-
-**[Bitcoin price news: BTC eyes sustained breakout above $76,000 on Strait of Hormuz opening](https://www.coindesk.com/markets/2026/04/17/bitcoin-rises-past-usd76-000-aiming-at-major-breakout-as-oil-plunges-on-iran-cooldown)**
-
-Iran's foreign minister said the Strait of Hormuz will remain completely open for the remainder of the ceasefire.
-
-CoinDesk • 1h ago
-
----
-
-**[Film Review: “Self Custody” Indie Film About Bitcoin On Amazon Prime](https://bitcoinmagazine.com/culture/film-review-self-custody-indie-film-about-bitcoin-on-amazon-prime)**
-
-In the wild west of money, where a forgotten password to your Bitcoin wallet can mean the difference between fortune and ruin, comes the taut 31-minute
-
-Bitcoin Magazine • 30m ago
+The New York Times • 11h ago
 
 ---
 
@@ -197,35 +213,23 @@ Bitcoin Magazine • 30m ago
 
 Venture capitalist Tim Draper predicted on Tuesday that Bitcoin will reach $250,000 in 18 months, and potentially higher, owing to inflationary pressures on the dollar. Draper Remains Bullish Draper recalled his accurate 2014 prediction on Fox Business that Bitcoin would...
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
-**[Bitcoin 2026 Price Prediction: Why the Dollar, Global Liquidity and Volume Signal More Downside Ahead](https://io-fund.com/crypto/bitcoin-price-prediction-2026-dollar-liquidity-volume-downside)**
+**[Bitcoin price news: BTC eyes sustained breakout above $76,000 on Strait of Hormuz opening](https://www.coindesk.com/markets/2026/04/17/bitcoin-rises-past-usd76-000-aiming-at-major-breakout-as-oil-plunges-on-iran-cooldown)**
 
-In our last Bitcoin analysis, "Bitcoin After the Cycle Peak: What Comes Next and How We're Positioning", we argued that Bitcoin was closer to a cycle low than most believed, even if one final drop remained ahead. Since that publication, the probability of another drop occurring in the coming weeks has increased meaningfully. If it does, it should set up a tradeable bounce within what we believe is an ongoing bear market. What gives us the confidence that we are in a new bear market cycle, rather than a pullback within a larger uptrend, is that Bitcoin continues to track sentiment patterns and global liquidity cycles with remarkable consistency. Recognizing this unconventional correlation has been the foundation of a framework that has filtered out narrative-driven noise and kept us on the right side of every major Bitcoin trend since 2020. These are themes that we first introduced in August of 2025, when Bitcoin was trading at around $115,000.
+Iran's foreign minister said the Strait of Hormuz will remain completely open for the remainder of the ceasefire.
 
-IO Fund • 1d ago
-
----
-
-**[Bitcoin’s Fragile Recovery Sets Up a Big Short-Squeeze Risk](https://www.bloomberg.com/news/articles/2026-04-16/bitcoin-s-fragile-recovery-sets-up-a-big-short-squeeze-risk)**
-
-Bloomberg.com • 3h ago
+CoinDesk • 2h ago
 
 ---
 
-**[The O.C. Guy Says Bitcoin Is ‘Still a Ponzi Scheme’](https://nymag.com/intelligencer/article/the-ocs-ben-mckenzie-says-bitcoin-is-lying-to-you-for-money.html)**
+**[Bitcoin bulls target $125,000 as U.S.-Iran peace talks trigger risk-on mood](https://www.coindesk.com/markets/2026/04/17/bitcoin-bulls-target-usd125-000-as-u-s-iran-peace-talks-trigger-risk-on-mood)**
 
-“Not only gotten away with it, they’ve made a ton of money,” says actor Ben McKenzie, whose doc explores crypto’s crash and Trump-fueled rise.
+Funding rates at 2023 lows signal the market is heavily short against bitcoin, ZeroStack's Daniel Reis-Faria says, setting up conditions for a forced unwind if prices push higher.
 
-New York Magazine • 3h ago
-
----
-
-**[Former Fed Chair Issues Shock ‘Hyperinflation’ U.S. Dollar Warning—Fueling Huge Bitcoin Price Predictions](https://www.forbes.com/sites/digital-assets/2026/04/16/former-fed-chair-issues-shock-hyperinflation-us-dollar-warning-fueling-huge-bitcoin-price-predictions/)**
-
-Forbes • 1d ago
+CoinDesk • 12h ago
 
 ---
 
@@ -275,7 +279,7 @@ Imagine one person holding the keys to Bitcoin’s entire future. That was Satos
 
 **[Unmasking the Creator of Bitcoin](https://news.ycombinator.com/item?id=47752949)**
 
-⬆️ 3 • 💬 2 • 3d ago • [nytimes.com](https://www.nytimes.com/2026/04/09/podcasts/the-daily/satoshi-nakamoto-bitcoin-creator.html)
+⬆️ 3 • 💬 2 • 4d ago • [nytimes.com](https://www.nytimes.com/2026/04/09/podcasts/the-daily/satoshi-nakamoto-bitcoin-creator.html)
 
 ---
 
@@ -313,13 +317,13 @@ The most popular and trusted block explorer and crypto transaction search engine
 
 ## YouTube Videos: "bitcoin"
 
-**[The Crypto Market Is Getting Absurd](https://www.youtube.com/watch?v=OzwcedpfW68)**
+**[Bitcoin Reclaims $76,000...Breakout Soon That Starts The Run](https://www.youtube.com/watch?v=aoTlUw-Fy2M)**
 
-BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Commonwealth Union: ...
+Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FREE Crypto Predictions & Compete Weekly ...
 
-📺 Altcoin Daily
+📺 CryptosRUs
 
-👁️ 47K • 👍 2K • 💬 147 • ⏱️ 14:13 • 1d ago
+👁️ 8K • 👍 744 • 💬 20 • ⏱️ 51:00 • 2h ago
 
 ---
 
@@ -329,17 +333,17 @@ IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purp
 
 📺 The Kenzo Guy
 
-👁️ 5K • 👍 303 • 💬 14 • ⏱️ 25:48 • 17h ago
+👁️ 6K • 👍 321 • 💬 26 • ⏱️ 25:48 • 19h ago
 
 ---
 
-**[GET READY...Bitcoin Breakout Signals Are Back](https://www.youtube.com/watch?v=KMe058rJQRs)**
+**[The Crypto Market Is Getting Absurd](https://www.youtube.com/watch?v=OzwcedpfW68)**
 
-Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FREE Crypto Predictions & Compete Weekly ...
+BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Commonwealth Union: ...
 
-📺 CryptosRUs
+📺 Altcoin Daily
 
-👁️ 18K • 👍 967 • 💬 43 • ⏱️ 44:22 • 1d ago
+👁️ 47K • 👍 2K • 💬 136 • ⏱️ 14:13 • 1d ago
 
 ---
 
@@ -349,17 +353,7 @@ In today's Markets Outlook, Bitwise CIO Matt Hougan joins CoinDesk's Jennifer Sa
 
 📺 CoinDesk
 
-👁️ 13K • 👍 340 • 💬 64 • ⏱️ 20:47 • 20h ago
-
----
-
-**[Michael Saylor Predicts $400T Bitcoin After Buying $1B in a Single Day!](https://www.youtube.com/watch?v=yl2q52XWG6s)**
-
-Michael Saylor may have just revealed the most aggressive Bitcoin accumulation strategy yet. This breaks down how Strategy's ...
-
-📺 Simply Bitcoin
-
-👁️ 86K • 👍 3K • 💬 390 • ⏱️ 20:15 • 2d ago
+👁️ 15K • 👍 376 • 💬 65 • ⏱️ 20:47 • 21h ago
 
 ---
 
@@ -369,7 +363,7 @@ Bitcoin just entered a new phase and most people still don't see it. Massive ins
 
 📺 Simply Bitcoin
 
-👁️ 33K • 👍 2K • 💬 165 • ⏱️ 16:45 • 1d ago
+👁️ 33K • 👍 2K • 💬 168 • ⏱️ 16:45 • 1d ago
 
 ---
 
@@ -379,37 +373,47 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25%
 
 📺 Crypto Rover
 
-👁️ 8K • 👍 619 • 💬 23 • ⏱️ 9:18 • 8h ago
+👁️ 10K • 👍 674 • 💬 47 • ⏱️ 9:18 • 9h ago
 
 ---
 
-**[Bitcoin Reaches Peak FUD!🔥Fixing Quantum🚨 INTERVIEW w/ Chris Tam BTQ Technologies](https://www.youtube.com/watch?v=iIA5ByvEla8)**
+**[GET READY...Bitcoin Breakout Signals Are Back](https://www.youtube.com/watch?v=KMe058rJQRs)**
 
-Professor Jiang and Ben McKenzie strike again. Meanwhile, Cardano founder Charles Hoskinson argues BIP-361 is mislabeled ...
+Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FREE Crypto Predictions & Compete Weekly ...
 
-📺 Paul Barron Network
+📺 CryptosRUs
 
-👁️ 27K • 👍 2K • 💬 182 • ⏱️ 21:01 • 19h ago
-
----
-
-**[Bitcoin Whales Accumulate At Record Numbers! What Do They Know?](https://www.youtube.com/watch?v=bmqK_Kv0kjA)**
-
-Bitcoin #Crypto #Finance Bitcoin whales are accumulating at a record pace, scooping up over 270000 BTC in just 30 days as ...
-
-📺 The Wolf Of All Streets
-
-👁️ 14K • 👍 773 • 💬 213 • ⏱️ 34:46 • 1d ago
+👁️ 18K • 👍 971 • 💬 43 • ⏱️ 44:22 • 1d ago
 
 ---
 
-**[The Other Side of the Bitcoin: Crypto &amp; Corruption w/Ben McKenzie | The Weekly Show with Jon Stewart](https://www.youtube.com/watch?v=3fhLpauSInk)**
+**[Michael Saylor Predicts $400T Bitcoin After Buying $1B in a Single Day!](https://www.youtube.com/watch?v=yl2q52XWG6s)**
 
-As cryptocurrency continues to embed itself in American politics, Jon is joined by Ben McKenzie, author of "Easy Money" and ...
+Michael Saylor may have just revealed the most aggressive Bitcoin accumulation strategy yet. This breaks down how Strategy's ...
 
-📺 The Weekly Show with Jon Stewart
+📺 Simply Bitcoin
 
-👁️ 142K • 👍 4K • 💬 904 • ⏱️ 1:35:48 • 1d ago
+👁️ 86K • 👍 3K • 💬 389 • ⏱️ 20:15 • 2d ago
+
+---
+
+**[BITCOIN PRICE TARGETS REVEALED (Short Squeeze)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=3ZWbfmJy77s)**
+
+BITCOIN PRICE TARGETS REVEALED (Short Squeeze)!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
+
+📺 Crypto World
+
+👁️ 6K • 👍 274 • 💬 117 • ⏱️ 23:17 • 13h ago
+
+---
+
+**[He LOST a Millionaire&#39;s Bitcoin?!](https://www.youtube.com/watch?v=t37RUrbMrAA)**
+
+He LOST a Millionaire's Bitcoin?! Welcome to The Success Formula Clips account - the most valuable clips from every episode.
+
+📺 Success Formula Daily
+
+👁️ 29K • 👍 145 • 💬 3 • ⏱️ 0:37 • 1d ago
 
 ---
 
