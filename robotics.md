@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-17T06:04:05.748536+00:00'
+updated: '2026-04-17T08:12:37.899635+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 17, 2026 at 06:04 UTC  
+**Last Updated:** April 17, 2026 at 08:12 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I tried to do a quadruped robot using cheap servos (MG90S), normal batteries and wood structure. I think that it could be built with less than R$200,00 (U$40,00 at conversion). The name of the project is Guara Nano. I used ESP32, 8x MG90S servos (chinese version), 4x Batteries 1,5V, MPU6050 and PCA9685. I cannot supply ESP32 with these batteries because of drop voltage, so I used micro-USB cable. I did two gaits that work, walk and trot, with control of velocity and height control. It can turn too, using side traction and go back. I also did a simple proportional control but I didn't tested too much. The code and process to build will be open-source, now I'm working on documentation and I'll post here soon. I would appreciate tips and suggestions for improvement, and perhaps some other similar works, not just the ones you find on Google, as I've already looked at all of them.
 
-8h ago
+10h ago
 
 ---
 
@@ -44,19 +44,27 @@ I tried to do a quadruped robot using cheap servos (MG90S), normal batteries and
 
 From The Humanoid Hub on 𝕏: https://x.com/TheHumanoidHub/status/2044504579480686900
 
-21h ago
+23h ago
 
 ---
 
 **[Multi-Robot Synchronization Demo from ESTUN Robotics](https://www.reddit.com/r/robotics/comments/1sn9asg/multirobot_synchronization_demo_from_estun/)**
 
-13h ago
+15h ago
+
+---
+
+**[Camera selection for demolition robot (low light, dust, multi-view setup)](https://www.reddit.com/r/robotics/comments/1snuijn/camera_selection_for_demolition_robot_low_light/)**
+
+Hi all, I’m working on a demolition robot (similar to Brokk/Husqvarna) and evaluating camera options for operator visibility. The setup will likely use multiple small fixed cameras around the arm/tool, so I’m trying to balance: Low-light performance Dust tolerance (with enclosure/air assist) Latency vs IP-based streaming (PoE/RTSP) Has anyone worked with camera systems in similar harsh environments (demolition, mining, etc.)? Would be great to hear what worked well in practice and any pitfalls to avoid.
+
+10m ago
 
 ---
 
 **[I 3D-printed a capture point for my Capture the Base robot game](https://www.reddit.com/r/robotics/comments/1sn2ptz/i_3dprinted_a_capture_point_for_my_capture_the/)**
 
-17h ago
+19h ago
 
 ---
 
@@ -64,7 +72,7 @@ From The Humanoid Hub on 𝕏: https://x.com/TheHumanoidHub/status/2044504579480
 
 Sharing a video from a public-road robotics event in Akihabara, Tokyo, where robots were demonstrated outdoors. More than 30 exhibitors took part. I'm with ugo, one of the exhibitors shown here. Happy to share more context about the event or what was exhibited if people are curious.
 
-4h ago
+6h ago
 
 ---
 
@@ -72,13 +80,13 @@ Sharing a video from a public-road robotics event in Akihabara, Tokyo, where rob
 
 Boston Dynamics is positioning Atlas for future deployment in industrial environments, with a focus on sectors like manufacturing and warehousing. The article explains that training the robot on a wide range of behaviors is contributing to improved overall capability, even when those behaviors are not directly tied to specific tasks. This reflects a broader trend in robotics where more varied data improves performance.
 
-🔗 [Automate](https://www.automate.org/robotics/industry-insights/balancing-work-and-play-with-boston-dynamics-atlas) • 12h ago
+🔗 [Automate](https://www.automate.org/robotics/industry-insights/balancing-work-and-play-with-boston-dynamics-atlas) • 14h ago
 
 ---
 
 **[Learn C++17 for Robotics](https://www.reddit.com/r/robotics/comments/1snr1pi/learn_c17_for_robotics/)**
 
-1h ago
+3h ago
 
 ---
 
@@ -86,21 +94,13 @@ Boston Dynamics is positioning Atlas for future deployment in industrial environ
 
 Joining the existing D457 GMSL/FAKRA, we’re introducing GMSL support across three of our most widely used depth cameras: 📷D401 - Sub-millimeter precision for robotic arms and humanoids 📷D430 -High-accuracy depth sensing for mid-range robotics and AMRs 📷D415 - High-precision depth camera for spatial intelligence for factories
 
-14h ago
+16h ago
 
 ---
 
 **[I gave Reachy Mini a custom 3D printed outfit, then built and deployed a live object detection app on her camera.](https://www.reddit.com/r/robotics/comments/1sn30om/i_gave_reachy_mini_a_custom_3d_printed_outfit/)**
 
-16h ago
-
----
-
-**[Made a 3d printed 6-axis robotic arm as my graduation project.](https://www.reddit.com/r/robotics/comments/1smbw9w/made_a_3d_printed_6axis_robotic_arm_as_my/)**
-
-Teleoperation through a ps5 controller, powered by ROS2 and an stm32. Honestly not too happy with it but this is my first robot ever, wanted to challenge myself. Too much vibration and shaky teleop.
-
-1d ago
+19h ago
 
 ---
 
@@ -112,7 +112,7 @@ Teleoperation through a ps5 controller, powered by ROS2 and an stm32. Honestly n
 
 The new model, called π0.7, represents what the company describes as an early but meaningful step toward the long-sought goal of a general-purpose robot brain.
 
-TechCrunch • 9h ago
+TechCrunch • 11h ago
 
 ---
 
@@ -128,7 +128,7 @@ Google DeepMind • 2d ago
 
 Earlier this week, Google DeepMind released Gemini Robotics-ER-1.6, a new vision and language model to help robots make sense of their surroundings. To show off its capabilities, Boston Dynamics—which has an agreement to use Gemini in its humanoid robots—published a video of its robot dogs using ...
 
-The Information • 16h ago
+The Information • 18h ago
 
 ---
 
@@ -142,19 +142,19 @@ Boston Dynamics • 2d ago
 
 **[Nvidia Alum Rides China’s Robotics Wave to $150 Million Debut](https://www.bloomberg.com/news/articles/2026-04-16/nvidia-alum-rides-china-s-robotics-wave-to-150-million-debut)**
 
-Bloomberg • 7h ago
+Bloomberg.com • 9h ago
 
 ---
 
 **[Robotic legs help elderly Hong Kong fire survivors climb back for belongings](https://www.reuters.com/world/china/robotic-legs-help-elderly-hong-kong-fire-survivors-climb-back-belongings-2026-04-17/)**
 
-Reuters • 4h ago
+Reuters • 6h ago
 
 ---
 
 **[Grab Looks to AI Robots to Deliver Your Meal](https://www.wsj.com/tech/ai/grab-looks-to-ai-robots-to-deliver-your-meal-819caf01)**
 
-WSJ • 18h ago
+WSJ • 21h ago
 
 ---
 
@@ -166,11 +166,11 @@ Defense One • 1d ago
 
 ---
 
-**[Summit HS robotics team heads to worlds after historic season](https://www.centraloregondaily.com/news/local/summit-robotics-team-first-world-championship-houston/article_823c6ce1-d994-4998-a10d-f90824ea2799.html)**
+**[The AI Boom Is Making Training Robots the Hot New Gig](https://www.businessinsider.com/robotics-ai-training-data-transforming-instawork-gig-work-platform-instacore-2026-4)**
 
-Summit High’s Chaos Theory robotics team is headed to the world championship after a standout season. Now it's working to raise funds to make the trip to Houston.
+The race for robotics data is transforming gig work, as Instawork turns its workforce into a key engine for training AI-powered machines.
 
-Central Oregon Daily • 1d ago
+Business Insider • 23h ago
 
 ---
 
@@ -186,23 +186,23 @@ Live Science • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[Boston Dynamics Won The AI Robot Race With This One Move](https://www.youtube.com/watch?v=7bPZJhhDQU4)**
-
-Boston Dynamics just did what most people thought would take years longer. Atlas is now entering real serial production, the ...
-
-📺 AI Revolution
-
-👁️ 105K • 👍 2K • 💬 168 • ⏱️ 21:49 • 3d ago
-
----
-
 **[Tesla Just Started Mass Producing Humanoid Robots — And Nobody Is Ready](https://www.youtube.com/watch?v=2sHaQffX0w0)**
 
 GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *Tesla ...
 
 📺 Julia McCoy
 
-👁️ 75K • 👍 2K • 💬 294 • ⏱️ 4:16 • 2d ago
+👁️ 76K • 👍 2K • 💬 299 • ⏱️ 4:16 • 2d ago
+
+---
+
+**[Boston Dynamics Won The AI Robot Race With This One Move](https://www.youtube.com/watch?v=7bPZJhhDQU4)**
+
+Boston Dynamics just did what most people thought would take years longer. Atlas is now entering real serial production, the ...
+
+📺 AI Revolution
+
+👁️ 107K • 👍 2K • 💬 170 • ⏱️ 21:49 • 3d ago
 
 ---
 
@@ -212,17 +212,7 @@ Terminator is about to become real?! If you want to help support independent jou
 
 📺 Benny Johnson
 
-👁️ 226K • 👍 15K • 💬 2K • ⏱️ 11:20 • 2d ago
-
----
-
-**[The GPT Moment for Robotics Is Here](https://www.youtube.com/watch?v=4EsUaur0nsQ)**
-
-Physical Intelligence is building a foundation model that can control any robot to do any task — what the team describes as the ...
-
-📺 Y Combinator
-
-👁️ 18K • 👍 485 • 💬 30 • ⏱️ 49:27 • 16h ago
+👁️ 227K • 👍 15K • 💬 2K • ⏱️ 11:20 • 2d ago
 
 ---
 
@@ -232,7 +222,7 @@ Chinese humanoid robots train to go head-to-head with human runners in the secon
 
 📺 NBC News
 
-👁️ 157K • 👍 1K • 💬 427 • ⏱️ 1:59 • 3d ago
+👁️ 159K • 👍 1K • 💬 429 • ⏱️ 1:59 • 3d ago
 
 ---
 
@@ -242,7 +232,7 @@ Go to https://www.artwine.com to get your limited bottle of Ukrainian sparkling 
 
 📺 Paul Warburg
 
-👁️ 281K • 👍 21K • 💬 2K • ⏱️ 31:17 • 5d ago
+👁️ 282K • 👍 21K • 💬 2K • ⏱️ 31:17 • 5d ago
 
 ---
 
@@ -252,17 +242,17 @@ AI and robotics will impact our economy, our politics, our privacy, our emotiona
 
 📺 Senator Bernie Sanders
 
-👁️ 14K • 👍 849 • 💬 148 • ⏱️ 1:03:51 • 2d ago
+👁️ 14K • 👍 852 • 💬 150 • ⏱️ 1:03:51 • 2d ago
 
 ---
 
-**[Elon Musk’s New Tesla Optimus Robot Looks Shockingly Human](https://www.youtube.com/watch?v=MbqMwLHx8-4)**
+**[The GPT Moment for Robotics Is Here](https://www.youtube.com/watch?v=4EsUaur0nsQ)**
 
-A new wave of attention is building around Elon Musk's latest version of the Tesla Optimus robot, which is being described as ...
+Physical Intelligence is building a foundation model that can control any robot to do any task — what the team describes as the ...
 
-📺 Carros Show
+📺 Y Combinator
 
-👁️ 20K • 👍 392 • 💬 63 • ⏱️ 8:01 • 3d ago
+👁️ 20K • 👍 517 • 💬 33 • ⏱️ 49:27 • 18h ago
 
 ---
 
@@ -272,17 +262,27 @@ President Zelenskyy says that for the first time ever, the Ukrainian army was ab
 
 📺 NBC News
 
-👁️ 402K • 👍 6K • 💬 1K • ⏱️ 3:12 • 1d ago
+👁️ 420K • 👍 6K • 💬 1K • ⏱️ 3:12 • 1d ago
 
 ---
 
-**[Humanoid Robot Spotted Chasing Herd Of Wild Boars Through Poland](https://www.youtube.com/watch?v=PAj-lMEoMBM)**
+**[Huge Russian Convoy Get Caught by Ukrainian Robots - Then THIS Happened...](https://www.youtube.com/watch?v=eVcsFtn-pjk)**
 
-Now this is a sight that wasn't on our Bingo card. A humanoid robot named Edward Warchocki was spotted playfully chasing a ...
+When a huge Russian convoy got caught by Ukrainian robots, the incident reflected a broader transformation unfolding across ...
 
-📺 Inside Edition
+📺 Military Force
 
-👁️ 124K • 👍 4K • 💬 684 • ⏱️ 1:07 • 1d ago
+👁️ 33K • 👍 795 • 💬 24 • ⏱️ 23:12 • 16h ago
+
+---
+
+**[Elon Musk’s New Tesla Optimus Robot Looks Shockingly Human](https://www.youtube.com/watch?v=MbqMwLHx8-4)**
+
+A new wave of attention is building around Elon Musk's latest version of the Tesla Optimus robot, which is being described as ...
+
+📺 Carros Show
+
+👁️ 20K • 👍 396 • 💬 68 • ⏱️ 8:01 • 3d ago
 
 ---
 

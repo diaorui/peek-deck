@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-17T06:04:05.740363+00:00'
+updated: '2026-04-17T08:12:37.890555+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 17, 2026 at 06:04 UTC  
+**Last Updated:** April 17, 2026 at 08:12 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $74,652.49
+### $75,071.09
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** +2.1%  
-**30d:** +6.6%  
-**90d:** -20.4%  
-**1y:** -11.7%  
+**24h:** +0.7%  
+**7d:** +2.9%  
+**30d:** +7.4%  
+**90d:** -19.8%  
+**1y:** -11.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1494.27B
+**Market Cap:** $1502.83B
 Rank #1
 
-**Circulating Supply:** 20,016,940 BTC
+**Circulating Supply:** 20,016,978 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--40.8%
+-40.4%
 
 **All-Time Low:** $67.81
-+109979.6%
++110659.5%
 
 ---
 
@@ -81,31 +81,39 @@ Rank #1
 
 I unload a few shipping containers each month at my job. I usually sign the inside wall like this one I unloaded today. I’ve been doing it for years. If you ever see my note out there in the wild let me know.
 
-6h ago
+8h ago
 
 ---
 
 **[So we meet again](https://www.reddit.com/r/Bitcoin/comments/1snfwvz/so_we_meet_again/)**
 
-9h ago
-
----
-
-**[After putting your bitcoin in cold storage](https://www.reddit.com/r/Bitcoin/comments/1sn37ok/after_putting_your_bitcoin_in_cold_storage/)**
-
-16h ago
-
----
-
-**[Revealed](https://www.reddit.com/r/Bitcoin/comments/1sn3jb2/revealed/)**
-
-16h ago
+11h ago
 
 ---
 
 **[I'm currently buying Bitcoin on Robinhood is this bad?](https://www.reddit.com/r/Bitcoin/comments/1snpc22/im_currently_buying_bitcoin_on_robinhood_is_this/)**
 
 Should I start buying Bitcoin on another broker account?
+
+4h ago
+
+---
+
+**[After putting your bitcoin in cold storage](https://www.reddit.com/r/Bitcoin/comments/1sn37ok/after_putting_your_bitcoin_in_cold_storage/)**
+
+18h ago
+
+---
+
+**[Revealed](https://www.reddit.com/r/Bitcoin/comments/1sn3jb2/revealed/)**
+
+18h ago
+
+---
+
+**[Daily Discussion, April 17, 2026](https://www.reddit.com/r/Bitcoin/comments/1snsfq2/daily_discussion_april_17_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
 2h ago
 
@@ -115,29 +123,13 @@ Should I start buying Bitcoin on another broker account?
 
 This was proposed for some time, getting more attention currently. I'm personally not a fan of freezing any coins, just trying to inform the masses. Hopefully u/statoshi will join us and explain the options. https://github.com/bitcoin/bips/blob/master/bip-0361.mediawiki There's an alternative proposal called Hourglass, introduced recently. https://github.com/cryptoquick/bips/blob/hourglass/bip-hourglass.mediawiki Adam Back advocated for optional quantum-resistant Bitcoin upgrades at Paris Blockchain Week on Wednesday, not sure about the details. https://decrypt.co/364562/adam-back-pushes-for-optional-upgrades-to-quantum-proof-bitcoin Tagging u/adam3us too.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/bitcoin-developers-propose-quantum-plan) • 17h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/bitcoin-developers-propose-quantum-plan) • 19h ago
 
 ---
 
 **[Time in the market > timing the market](https://www.reddit.com/r/Bitcoin/comments/1sn33pt/time_in_the_market_timing_the_market/)**
 
-16h ago
-
----
-
-**[the largest publicly traded brokerage firm in the US just announced spot bitcoin trading for its 35+ million retail clients](https://www.reddit.com/r/Bitcoin/comments/1sn7hpz/the_largest_publicly_traded_brokerage_firm_in_the/)**
-
-Charles Schwab is beginning to roll out access to spot bitcoin in the coming weeks to their clients. I thought this part of their press release was funny "Schwab is already a leader in digital assets" Schwab offering bitcoin services isn't a surprise given the drumbeat of institutional adoption first BlackRock launches a bitcoin ETF and Jane Street becomes one of its largest buyers Morgan Stanley files for a bitcoin ETF Goldman Sachs discloses a $1.1 billion BTC position Abu Dhabi sovereign funds are accumulating Harvard makes bitcoin its largest public allocation Bitcoin price is still down ~40% and the conversation has shifted to the war and AI, but don't sleep on bitcoin because the infrastructure is being built to broaden the education and access to the asset class and there are only 21 million
-
-14h ago
-
----
-
-**[What you want to be when you grow up?](https://www.reddit.com/r/Bitcoin/comments/1sn2xlx/what_you_want_to_be_when_you_grow_up/)**
-
-Answer: KRIPTO EXPERT AND PROFESSOR
-
-17h ago
+19h ago
 
 ---
 
@@ -145,7 +137,15 @@ Answer: KRIPTO EXPERT AND PROFESSOR
 
 not looking for the wallet... off line people. I know that option. talking main place like Gemini , coin base, etc. USA available. I've been seeing a lot of coinbase \gemni lock out\fee complaints, but don't want to go with one of the little ones. where are you holding. where are you buying. ?
 
-3h ago
+6h ago
+
+---
+
+**[the largest publicly traded brokerage firm in the US just announced spot bitcoin trading for its 35+ million retail clients](https://www.reddit.com/r/Bitcoin/comments/1sn7hpz/the_largest_publicly_traded_brokerage_firm_in_the/)**
+
+Charles Schwab is beginning to roll out access to spot bitcoin in the coming weeks to their clients. I thought this part of their press release was funny "Schwab is already a leader in digital assets" Schwab offering bitcoin services isn't a surprise given the drumbeat of institutional adoption first BlackRock launches a bitcoin ETF and Jane Street becomes one of its largest buyers Morgan Stanley files for a bitcoin ETF Goldman Sachs discloses a $1.1 billion BTC position Abu Dhabi sovereign funds are accumulating Harvard makes bitcoin its largest public allocation Bitcoin price is still down ~40% and the conversation has shifted to the war and AI, but don't sleep on bitcoin because the infrastructure is being built to broaden the education and access to the asset class and there are only 21 million
+
+16h ago
 
 ---
 
@@ -157,57 +157,41 @@ not looking for the wallet... off line people. I know that option. talking main 
 
 Charles Schwab is rolling out crypto trading, allowing clients to buy bitcoin and ether through a new arm called Schwab Crypto.
 
-CNBC • 16h ago
+CNBC • 18h ago
 
 ---
 
 **[Bitcoin’s Greatest Mystery](https://www.nytimes.com/2026/04/16/world/bitcoin-satoshi-adam-back-israel-lebanon-ceasefire.html)**
 
-The New York Times • 1h ago
+The New York Times • 3h ago
 
 ---
 
-**[The U.S. government moves $606,000 in bitcoin linked to the 2016 Bitfinex hack to Coinbase](https://www.coindesk.com/markets/2026/04/17/the-u-s-government-moves-usd606-000-in-bitcoin-linked-to-the-2016-bitfinex-hack-to-coinbase)**
+**[Bitcoin’s Fragile Recovery Sets Up a Big Short-Squeeze Risk](https://www.bloomberg.com/news/articles/2026-04-16/bitcoin-s-fragile-recovery-sets-up-a-big-short-squeeze-risk)**
 
-Bitfinex plans to use the returned coins to redeem all Recovery Right Tokens and devote at least 80 percent of remaining net proceeds to repurchasing and burning its UNUS SED LEO token.
-
-CoinDesk • 1h ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[Trump’s Crypto Agenda Is Struggling. 3 Things That Could Send Digital Asset Prices Higher.](https://www.barrons.com/articles/trump-crypto-bitcoin-sec-congress-regulation-2767997e)**
+**[Bitcoin (BTC) has a perfect bottom indicator. It's not flashing yet.](https://www.coindesk.com/markets/2026/04/17/this-simple-indicator-has-called-every-bottom-since-2015-it-hasn-t-triggered-yet)**
 
-Barron's • 34m ago
+A bitcoin indicator based on key moving averages has accurately marked every bear market bottom since 2015. That signal hasn't fired yet.
 
----
-
-**[Bitcoin bulls target $125,000 as U.S.-Iran peace talks trigger risk-on mood](https://www.coindesk.com/markets/2026/04/17/bitcoin-bulls-target-usd125-000-as-u-s-iran-peace-talks-trigger-risk-on-mood)**
-
-Funding rates at 2023 lows signal the market is heavily short against bitcoin, ZeroStack's Daniel Reis-Faria says, setting up conditions for a forced unwind if prices push higher.
-
-CoinDesk • 2h ago
+CoinDesk • 53m ago
 
 ---
 
-**[CryptoQuant says bitcoin rally faces rising profit-taking risk as exchange inflows jump](https://www.theblock.co/post/397664/cryptoquant-bitcoin-rally-profit-taking-risk)**
+**[Public Bitcoin Miners Sell Record 32,000 BTC in Q1 2026 as Margins Collapse](https://finance.yahoo.com/markets/crypto/articles/public-bitcoin-miners-sell-record-063831872.html)**
 
-BTC's recent rally is facing rising profit-taking risk, with several indicators showing growing signs of selling pressure, according to CQ.
+Public Bitcoin miners liquidated over 32,000 BTC in Q1 2026, topping 2025 totals as hashprice collapse hits margins.
 
-The Block • 1d ago
-
----
-
-**[Bitcoin Nears $75,000 as XRP Jumps. How Cryptos Can Break Out.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-cryptos-today-351ec782)**
-
-Barron's • 14h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin Faces '100% Debt Trap' Tailwind As IMF Warns Of Global Debt Surge](https://finance.yahoo.com/markets/crypto/articles/bitcoin-faces-100-debt-trap-213106102.html)**
+**[Former Fed Chair Issues Shock ‘Hyperinflation’ U.S. Dollar Warning—Fueling Huge Bitcoin Price Predictions](https://www.forbes.com/sites/digital-assets/2026/04/16/former-fed-chair-issues-shock-hyperinflation-us-dollar-warning-fueling-huge-bitcoin-price-predictions/)**
 
-The IMF warns that global public debt could reach about 100% of world GDP by 2029, a scenario where Bitcoin could stand out as investors seek alternatives outside traditional finance. The 100% Debt Trap Global public debt approaching 100% of...
-
-Yahoo Finance • 8h ago
+Forbes • 18h ago
 
 ---
 
@@ -215,13 +199,31 @@ Yahoo Finance • 8h ago
 
 G. Love claims he lost 5.9 Bitcoin, approximately $440,000, to scammers.
 
-Rolling Stone • 8h ago
+Rolling Stone • 10h ago
 
 ---
 
-**[Former Fed Chair Issues Shock ‘Hyperinflation’ U.S. Dollar Warning—Fueling Huge Bitcoin Price Predictions](https://www.forbes.com/sites/digital-assets/2026/04/16/former-fed-chair-issues-shock-hyperinflation-us-dollar-warning-fueling-huge-bitcoin-price-predictions/)**
+**[CEO of bitcoin firm championed by Nigel Farage leaves company](https://www.theguardian.com/politics/2026/apr/16/ceo-of-bitcoin-firm-championed-by-nigel-farage-leaves-company-stack-btc)**
 
-Forbes • 16h ago
+Resignation announced of Jai Patel, whose liquidated crypto firm was relaunched as Stack BTC this year
+
+The Guardian • 1d ago
+
+---
+
+**['Bitcoin taxes make no sense': Washington think tank argues US rules hinder everyday payments](https://www.theblock.co/post/397703/bitcoin-taxes-make-no-sense-washington-think-tank-argues-us-rules-hinder-everyday-payments)**
+
+The Cato Institute says U.S. bitcoin tax rules are overly complex and discourage everyday use despite growing crypto adoption.
+
+The Block • 21h ago
+
+---
+
+**[Hollywood’s First Big Budget AI-Generated Movie Is About Bitcoin, of Course](https://gizmodo.com/hollywoods-first-big-budget-ai-generated-movie-is-about-bitcoin-of-course-2000747573)**
+
+Casey Affleck and Gal Gadot star in 'Paycheck: The Movie.'
+
+Gizmodo • 10h ago
 
 ---
 
@@ -257,7 +259,7 @@ A three-part deep dive into quantum computing's actual threat to Bitcoin. 17 res
 
 The Blockstream CEO’s approach contrasts with BIP-361, a proposal that would implement mandatory freezes of quantum-vulnerable Bitcoin.
 
-⬆️ 4 • 💬 1 • 17h ago • [Decrypt](https://decrypt.co/364562/adam-back-pushes-for-optional-upgrades-to-quantum-proof-bitcoin)
+⬆️ 4 • 💬 1 • 19h ago • [Decrypt](https://decrypt.co/364562/adam-back-pushes-for-optional-upgrades-to-quantum-proof-bitcoin)
 
 ---
 
@@ -309,13 +311,13 @@ The most popular and trusted block explorer and crypto transaction search engine
 
 ## YouTube Videos: "bitcoin"
 
-**[&quot;Chaos Is a Ladder”: Bitwise’s Matt Hougan on Bitcoin’s Path to $1M](https://www.youtube.com/watch?v=v2MuE-dzQiw)**
+**[The Crypto Market Is Getting Absurd](https://www.youtube.com/watch?v=OzwcedpfW68)**
 
-In today's Markets Outlook, Bitwise CIO Matt Hougan joins CoinDesk's Jennifer Sanasie to make the case for $1 million bitcoin, ...
+BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Commonwealth Union: ...
 
-📺 CoinDesk
+📺 Altcoin Daily
 
-👁️ 9K • 👍 244 • 💬 52 • ⏱️ 20:47 • 11h ago
+👁️ 45K • 👍 2K • 💬 134 • ⏱️ 14:13 • 1d ago
 
 ---
 
@@ -325,17 +327,17 @@ IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purp
 
 📺 The Kenzo Guy
 
-👁️ 4K • 👍 256 • 💬 10 • ⏱️ 25:48 • 9h ago
+👁️ 5K • 👍 271 • 💬 13 • ⏱️ 25:48 • 11h ago
 
 ---
 
-**[The Crypto Market Is Getting Absurd](https://www.youtube.com/watch?v=OzwcedpfW68)**
+**[&quot;Chaos Is a Ladder”: Bitwise’s Matt Hougan on Bitcoin’s Path to $1M](https://www.youtube.com/watch?v=v2MuE-dzQiw)**
 
-BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Commonwealth Union: ...
+In today's Markets Outlook, Bitwise CIO Matt Hougan joins CoinDesk's Jennifer Sanasie to make the case for $1 million bitcoin, ...
 
-📺 Altcoin Daily
+📺 CoinDesk
 
-👁️ 45K • 👍 2K • 💬 146 • ⏱️ 14:13 • 1d ago
+👁️ 10K • 👍 269 • 💬 56 • ⏱️ 20:47 • 13h ago
 
 ---
 
@@ -345,27 +347,7 @@ Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FR
 
 📺 CryptosRUs
 
-👁️ 17K • 👍 947 • 💬 7 • ⏱️ 44:22 • 15h ago
-
----
-
-**[Strategy Buys 4,000 Bitcoin in 30 Minutes | Bitcoin&#39;s Price Floor Just Changed FOREVER](https://www.youtube.com/watch?v=OyA6eKmys4E)**
-
-Bitcoin just entered a new phase and most people still don't see it. Massive institutional buys, macro shifts, and a supply shock are ...
-
-📺 Simply Bitcoin
-
-👁️ 32K • 👍 2K • 💬 164 • ⏱️ 16:45 • 1d ago
-
----
-
-**[Bitcoin Reaches Peak FUD!🔥Fixing Quantum🚨 INTERVIEW w/ Chris Tam BTQ Technologies](https://www.youtube.com/watch?v=iIA5ByvEla8)**
-
-Professor Jiang and Ben McKenzie strike again. Meanwhile, Cardano founder Charles Hoskinson argues BIP-361 is mislabeled ...
-
-📺 Paul Barron Network
-
-👁️ 23K • 👍 1K • 💬 161 • ⏱️ 21:01 • 11h ago
+👁️ 17K • 👍 953 • 💬 7 • ⏱️ 44:22 • 17h ago
 
 ---
 
@@ -375,7 +357,47 @@ Michael Saylor may have just revealed the most aggressive Bitcoin accumulation s
 
 📺 Simply Bitcoin
 
-👁️ 84K • 👍 3K • 💬 389 • ⏱️ 20:15 • 2d ago
+👁️ 85K • 👍 3K • 💬 390 • ⏱️ 20:15 • 2d ago
+
+---
+
+**[Strategy Buys 4,000 Bitcoin in 30 Minutes | Bitcoin&#39;s Price Floor Just Changed FOREVER](https://www.youtube.com/watch?v=OyA6eKmys4E)**
+
+Bitcoin just entered a new phase and most people still don't see it. Massive institutional buys, macro shifts, and a supply shock are ...
+
+📺 Simply Bitcoin
+
+👁️ 32K • 👍 2K • 💬 165 • ⏱️ 16:45 • 1d ago
+
+---
+
+**[You Keep Doubting This Bitcoin Rally [That&#39;s Why It Keeps Pumping]](https://www.youtube.com/watch?v=biKiwNkBUiw)**
+
+Ran breaks down what might be the most hated rally in crypto right now, where price keeps climbing but conviction is still missing.
+
+📺 Crypto Banter
+
+👁️ 15K • 👍 1K • 💬 40 • ⏱️ 28:53 • 17h ago
+
+---
+
+**[The Real Reason Bitcoin Just Breached $74,000. and WILL IT LAST???](https://www.youtube.com/watch?v=h75EiWSsM14)**
+
+Many factors caused the crypto and bitcoin pump but I don't think it will last so... The links below may include affiliate links, which ...
+
+📺 Digital Asset News
+
+👁️ 7K • 👍 521 • 💬 43 • ⏱️ 35:55 • 2d ago
+
+---
+
+**[The Other Side of the Bitcoin: Crypto &amp; Corruption w/Ben McKenzie | The Weekly Show with Jon Stewart](https://www.youtube.com/watch?v=3fhLpauSInk)**
+
+As cryptocurrency continues to embed itself in American politics, Jon is joined by Ben McKenzie, author of "Easy Money" and ...
+
+📺 The Weekly Show with Jon Stewart
+
+👁️ 136K • 👍 4K • 💬 819 • ⏱️ 1:35:48 • 1d ago
 
 ---
 
@@ -385,27 +407,7 @@ He called Bitcoin's $126000 top. 178 days later, everything he warned about is s
 
 📺 No Bs Crypto
 
-👁️ 15K • 👍 752 • 💬 327 • ⏱️ 9:25 • 14h ago
-
----
-
-**[Lutnick, Epstein &amp; Crypto | The Weekly Show with Jon Stewart](https://www.youtube.com/watch?v=c_nEUP5xYO8)**
-
-Ben McKenzie on how crypto helps criminals and hostile states evade sanctions — and how Commerce Secretary Howard ...
-
-📺 The Weekly Show with Jon Stewart
-
-👁️ 100K • 👍 5K • 💬 129 • ⏱️ 2:52 • 1d ago
-
----
-
-**[Bitcoin @ $75,000: HIGHER or LOWER from here?](https://www.youtube.com/watch?v=muYN0sFssJo)**
-
-Subscribe for daily insights and updates for your Bitcoin journey. Follow on Facebook for more content or to reach out directly with ...
-
-📺 Joel Bomgar
-
-👁️ 549 • 👍 6 • 💬 2 • ⏱️ 2:58 • 7h ago
+👁️ 16K • 👍 787 • 💬 372 • ⏱️ 9:25 • 16h ago
 
 ---
 
