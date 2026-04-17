@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-16T23:10:01.566329+00:00'
+updated: '2026-04-17T00:05:04.972441+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
 - social
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 16, 2026 at 23:10 UTC  
+**Last Updated:** April 17, 2026 at 00:05 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[After putting your bitcoin in cold storage](https://www.reddit.com/r/Bitcoin/comments/1sn37ok/after_putting_your_bitcoin_in_cold_storage/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 This was proposed for some time, getting more attention currently. I'm personally not a fan of freezing any coins, just trying to inform the masses. Hopefully u/statoshi will join us and explain the options. https://github.com/bitcoin/bips/blob/master/bip-0361.mediawiki There's an alternative proposal called Hourglass, introduced recently. https://github.com/cryptoquick/bips/blob/hourglass/bip-hourglass.mediawiki Adam Back advocated for optional quantum-resistant Bitcoin upgrades at Paris Blockchain Week on Wednesday, not sure about the details. https://decrypt.co/364562/adam-back-pushes-for-optional-upgrades-to-quantum-proof-bitcoin Tagging u/adam3us too.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/bitcoin-developers-propose-quantum-plan) • 10h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/bitcoin-developers-propose-quantum-plan) • 11h ago
 
 ---
 
 **[Revealed](https://www.reddit.com/r/Bitcoin/comments/1sn3jb2/revealed/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -101,25 +101,25 @@ This was proposed for some time, getting more attention currently. I'm personall
 
 Answer: KRIPTO EXPERT AND PROFESSOR
 
-10h ago
+11h ago
 
 ---
 
 **[So we meet again](https://www.reddit.com/r/Bitcoin/comments/1snfwvz/so_we_meet_again/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Time in the market > timing the market](https://www.reddit.com/r/Bitcoin/comments/1sn33pt/time_in_the_market_timing_the_market/)**
 
-9h ago
+10h ago
 
 ---
 
 **[Popular Chinese commentator 'Professor Jiang' claims Bitcoin is a "CIA operation." Do you believe that?](https://www.reddit.com/r/Bitcoin/comments/1smpmuh/popular_chinese_commentator_professor_jiang/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -127,13 +127,13 @@ Answer: KRIPTO EXPERT AND PROFESSOR
 
 Charles Schwab is beginning to roll out access to spot bitcoin in the coming weeks to their clients. I thought this part of their press release was funny "Schwab is already a leader in digital assets" Schwab offering bitcoin services isn't a surprise given the drumbeat of institutional adoption first BlackRock launches a bitcoin ETF and Jane Street becomes one of its largest buyers Morgan Stanley files for a bitcoin ETF Goldman Sachs discloses a $1.1 billion BTC position Abu Dhabi sovereign funds are accumulating Harvard makes bitcoin its largest public allocation Bitcoin price is still down ~40% and the conversation has shifted to the war and AI, but don't sleep on bitcoin because the infrastructure is being built to broaden the education and access to the asset class and there are only 21 million
 
-7h ago
+8h ago
 
 ---
 
 **[Bitcoin and the rise of cypherpunks](https://www.reddit.com/r/Bitcoin/comments/1sn6dt6/bitcoin_and_the_rise_of_cypherpunks/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -141,7 +141,7 @@ Charles Schwab is beginning to roll out access to spot bitcoin in the coming wee
 
 Curious to get honest feedback from the community. Hypothetical: imagine you could buy bitcoin via a after tax deduction from your paycheck. Does not flow through your bank account. Direct buy for bitcoin, any amount, post tax, optional. If your company offered this, would this be something youd do? If fees were less than standard exchange rates? Same?
 
-8h ago
+9h ago
 
 ---
 
@@ -153,7 +153,7 @@ Curious to get honest feedback from the community. Hypothetical: imagine you cou
 
 Charles Schwab is rolling out crypto trading, allowing clients to buy bitcoin and ether through a new arm called Schwab Crypto.
 
-CNBC • 9h ago
+CNBC • 10h ago
 
 ---
 
@@ -161,7 +161,7 @@ CNBC • 9h ago
 
 The new platform, called Schwab Crypto, will roll out over the coming weeks and will only support bitcoin and ethereum at first.
 
-The Block • 8h ago
+The Block • 9h ago
 
 ---
 
@@ -169,7 +169,7 @@ The Block • 8h ago
 
 Charles Schwab President and CEO Rick Wurster indicated that America’s largest discount brokerage will likely support prediction markets.
 
-Decrypt • 5h ago
+Decrypt • 6h ago
 
 ---
 
@@ -177,7 +177,7 @@ Decrypt • 5h ago
 
 The Cardano founder argues BIP-361 is mislabeled as a soft fork and that its zero-knowledge recovery plan cannot rescue roughly 1.7 million pre-2013 bitcoin, including Satoshi's holdings.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -185,7 +185,7 @@ CoinDesk • 6h ago
 
 G. Love claims he lost 5.9 Bitcoin, approximately $440,000, to scammers.
 
-Rolling Stone • 1h ago
+Rolling Stone • 2h ago
 
 ---
 
@@ -193,7 +193,7 @@ Rolling Stone • 1h ago
 
 Casey Affleck and Gal Gadot star in 'Paycheck: The Movie.'
 
-Gizmodo • 1h ago
+Gizmodo • 2h ago
 
 ---
 
@@ -201,19 +201,19 @@ Gizmodo • 1h ago
 
 The IMF warns that global public debt could reach about 100% of world GDP by 2029, a scenario where Bitcoin could stand out as investors seek alternatives outside traditional finance. The 100% Debt Trap Global public debt approaching 100% of...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[Bitcoin’s Greatest Mystery](https://www.nytimes.com/2026/04/16/world/bitcoin-satoshi-adam-back-israel-lebanon-ceasefire.html)**
 
-The New York Times • 1h ago
+The New York Times • 2h ago
 
 ---
 
 **[Former Fed Chair Issues Shock ‘Hyperinflation’ U.S. Dollar Warning—Fueling Huge Bitcoin Price Predictions](https://www.forbes.com/sites/digital-assets/2026/04/16/former-fed-chair-issues-shock-hyperinflation-us-dollar-warning-fueling-huge-bitcoin-price-predictions/)**
 
-Forbes • 9h ago
+Forbes • 10h ago
 
 ---
 
@@ -255,7 +255,7 @@ A three-part deep dive into quantum computing's actual threat to Bitcoin. 17 res
 
 The Blockstream CEO’s approach contrasts with BIP-361, a proposal that would implement mandatory freezes of quantum-vulnerable Bitcoin.
 
-⬆️ 4 • 💬 1 • 10h ago • [Decrypt](https://decrypt.co/364562/adam-back-pushes-for-optional-upgrades-to-quantum-proof-bitcoin)
+⬆️ 4 • 💬 1 • 11h ago • [Decrypt](https://decrypt.co/364562/adam-back-pushes-for-optional-upgrades-to-quantum-proof-bitcoin)
 
 ---
 
@@ -313,7 +313,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Com
 
 📺 Altcoin Daily
 
-👁️ 41K • 👍 2K • 💬 139 • ⏱️ 14:13 • 21h ago
+👁️ 41K • 👍 2K • 💬 139 • ⏱️ 14:13 • 22h ago
 
 ---
 
@@ -323,7 +323,7 @@ Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FR
 
 📺 CryptosRUs
 
-👁️ 15K • 👍 883 • 💬 21 • ⏱️ 44:22 • 8h ago
+👁️ 15K • 👍 883 • 💬 21 • ⏱️ 44:22 • 9h ago
 
 ---
 
@@ -333,7 +333,7 @@ In today's Markets Outlook, Bitwise CIO Matt Hougan joins CoinDesk's Jennifer Sa
 
 📺 CoinDesk
 
-👁️ 2K • 👍 110 • 💬 46 • ⏱️ 20:47 • 4h ago
+👁️ 2K • 👍 110 • 💬 46 • ⏱️ 20:47 • 5h ago
 
 ---
 
@@ -353,7 +353,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 8K • 👍 498 • 💬 61 • ⏱️ 12:52 • 12h ago
+👁️ 8K • 👍 498 • 💬 61 • ⏱️ 12:52 • 13h ago
 
 ---
 
@@ -373,7 +373,7 @@ Ran breaks down what might be the most hated rally in crypto right now, where pr
 
 📺 Crypto Banter
 
-👁️ 12K • 👍 1K • 💬 35 • ⏱️ 28:53 • 8h ago
+👁️ 12K • 👍 1K • 💬 35 • ⏱️ 28:53 • 9h ago
 
 ---
 
@@ -393,7 +393,7 @@ Let's talk about Bitcoin and more! Subscribe to Guy: https://www.youtube.com/@co
 
 📺 Benjamin Cowen
 
-👁️ 16K • 👍 986 • 💬 33 • ⏱️ 28:50 • 9h ago
+👁️ 16K • 👍 986 • 💬 33 • ⏱️ 28:50 • 10h ago
 
 ---
 

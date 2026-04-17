@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-16T23:10:01.574485+00:00'
+updated: '2026-04-17T00:05:04.981576+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 16, 2026 at 23:10 UTC  
+**Last Updated:** April 17, 2026 at 00:05 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,19 @@ Robotics research and industry news
 
 From The Humanoid Hub on 𝕏: https://x.com/TheHumanoidHub/status/2044504579480686900
 
-14h ago
+15h ago
 
 ---
 
 **[Multi-Robot Synchronization Demo from ESTUN Robotics](https://www.reddit.com/r/robotics/comments/1sn9asg/multirobot_synchronization_demo_from_estun/)**
 
-6h ago
+7h ago
 
 ---
 
 **[I 3D-printed a capture point for my Capture the Base robot game](https://www.reddit.com/r/robotics/comments/1sn2ptz/i_3dprinted_a_capture_point_for_my_capture_the/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -56,7 +56,7 @@ From The Humanoid Hub on 𝕏: https://x.com/TheHumanoidHub/status/2044504579480
 
 I tried to do a quadruped robot using cheap servos (MG90S), normal batteries and wood structure. I think that it could be built with less than R$200,00 (U$40,00 at conversion). The name of the project is Guara Nano. I used ESP32, 8x MG90S servos (chinese version), 4x Batteries 1,5V, MPU6050 and PCA9685. I cannot supply ESP32 with these batteries because of drop voltage, so I used micro-USB cable. I did two gaits that work, walk and trot, with control of velocity and height control. It can turn too, using side traction and go back. I also did a simple proportional control but I didn't tested too much. The code and process to build will be open-source, now I'm working on documentation and I'll post here soon. I would appreciate tips and suggestions for improvement, and perhaps some other similar works, not just the ones you find on Google, as I've already looked at all of them.
 
-1h ago
+2h ago
 
 ---
 
@@ -64,7 +64,7 @@ I tried to do a quadruped robot using cheap servos (MG90S), normal batteries and
 
 Boston Dynamics is positioning Atlas for future deployment in industrial environments, with a focus on sectors like manufacturing and warehousing. The article explains that training the robot on a wide range of behaviors is contributing to improved overall capability, even when those behaviors are not directly tied to specific tasks. This reflects a broader trend in robotics where more varied data improves performance.
 
-🔗 [Automate](https://www.automate.org/robotics/industry-insights/balancing-work-and-play-with-boston-dynamics-atlas) • 5h ago
+🔗 [Automate](https://www.automate.org/robotics/industry-insights/balancing-work-and-play-with-boston-dynamics-atlas) • 6h ago
 
 ---
 
@@ -72,7 +72,7 @@ Boston Dynamics is positioning Atlas for future deployment in industrial environ
 
 Joining the existing D457 GMSL/FAKRA, we’re introducing GMSL support across three of our most widely used depth cameras: 📷D401 - Sub-millimeter precision for robotic arms and humanoids 📷D430 -High-accuracy depth sensing for mid-range robotics and AMRs 📷D415 - High-precision depth camera for spatial intelligence for factories
 
-7h ago
+8h ago
 
 ---
 
@@ -80,7 +80,7 @@ Joining the existing D457 GMSL/FAKRA, we’re introducing GMSL support across th
 
 I work in robotics, so I face issues in using simulator and when testing on actual hardware. Claude code did fairly well when I had a starter working setup in ros and gazebo. But I am trying it in mujoco to build environments and it doesn't work that well. Also when setting up conda environment my agent got stuck in a loop. How can I make environments using claude code completely? Is that even a right thing to do? PS: I am using claude code pro right now in CLI in cursor How to get better at using claude code and coding agents in general? And I mean everything from writing better prompts for planning, debugging but also learning the addons like skills and knowing when and how to leverage that. Would appreciate basic suggestion to extremely crazy ones that work too!
 
-57m ago
+1h ago
 
 ---
 
@@ -114,7 +114,7 @@ From Reflex Robotics on 𝕏: https://x.com/ReflexRobot/status/20441541141085432
 
 The new model, called π0.7, represents what the company describes as an early but meaningful step toward the long-sought goal of a general-purpose robot brain.
 
-TechCrunch • 2h ago
+TechCrunch • 3h ago
 
 ---
 
@@ -130,13 +130,13 @@ Google DeepMind • 2d ago
 
 Many readers were horrified by the idea of robots helping older adults — but not all.
 
-The Washington Post • 1h ago
+The Washington Post • 2h ago
 
 ---
 
 **[First state robotics championship starts tomorrow](https://www.channel3000.com/video/first-state-robotics-championship-starts-tomorrow/video_ff712bed-107b-5562-be3a-d326917a6de1.html)**
 
-Channel 3000 • 1h ago
+Channel 3000 • 2h ago
 
 ---
 
@@ -158,7 +158,7 @@ Live Science • 1d ago
 
 They can dance and they're good at doing repetitive work we humans tire of, but the big question at the Tokyo Expo is when will the humanoids be able to look after us at home.
 
-AP News • 13h ago
+AP News • 14h ago
 
 ---
 
@@ -182,7 +182,7 @@ Business Wire • 1d ago
 
 Sounds from a robotics competition hosted on Florida A&M’s campus were mistaken for gunfire Wednesday afternoon.
 
-WCTV • 4h ago
+WCTV • 5h ago
 
 ---
 
@@ -196,7 +196,7 @@ Boston Dynamics just did what most people thought would take years longer. Atlas
 
 📺 AI Revolution
 
-👁️ 97K • 👍 2K • 💬 159 • ⏱️ 21:49 • 2d ago
+👁️ 97K • 👍 2K • 💬 159 • ⏱️ 21:49 • 3d ago
 
 ---
 
@@ -246,7 +246,7 @@ President Zelenskyy says that for the first time ever, the Ukrainian army was ab
 
 📺 NBC News
 
-👁️ 341K • 👍 5K • 💬 1K • ⏱️ 3:12 • 22h ago
+👁️ 341K • 👍 5K • 💬 1K • ⏱️ 3:12 • 23h ago
 
 ---
 
@@ -266,7 +266,7 @@ Try Seedance 2.0 with Claude on Higgsfield: https://higgsfield.ai/s/seedance-2-0
 
 📺 AI Revolution
 
-👁️ 99K • 👍 2K • 💬 182 • ⏱️ 14:57 • 4d ago
+👁️ 99K • 👍 2K • 💬 182 • ⏱️ 14:57 • 5d ago
 
 ---
 

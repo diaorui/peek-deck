@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-16T23:10:01.571640+00:00'
+updated: '2026-04-17T00:05:04.978443+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
 - social
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 16, 2026 at 23:10 UTC  
+**Last Updated:** April 17, 2026 at 00:05 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-18h ago
+19h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/73hHq2ua1ts?si=fwxBRn1_pW7xDziX) • 7h ago
+🔗 [youtu.be](https://youtu.be/73hHq2ua1ts?si=fwxBRn1_pW7xDziX) • 8h ago
 
 ---
 
@@ -134,7 +134,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I built a CLI tool in rust called LaunchDex that deploys a full DEX--factory contract, router, liquidity pair and swap frontend--on Ethereum, Arbitrum, and Base in a single command. The whole process that typically takes weeks of manual contract deployment, configuration and frontend setup is reduced to launchdex deploy. Contract addresses are saved automatically and a custom swap interface is generated and ready to deploy. The tool is built on top of verified Uniswap v2 contracts so the deployed DEX is production-grade and audited. Multi-token support lets you add additional trading pairs to an existing factory with one command. The generated frontend includes an embedded wallet so user can swap tokens without needing Metamask installed. Let me know what you think
 
-3d ago
+4d ago
 
 ---
 
@@ -154,7 +154,7 @@ I permanently lost $2,000 USD value trying to stake via direct contract interact
 
 The move comes amid ongoing changes at the EF, including a renewed focus on scaling and developing the Ethereum mainnet.
 
-The Block • 7h ago
+The Block • 8h ago
 
 ---
 
@@ -178,7 +178,7 @@ Yahoo • 2h ago
 
 The new platform, called Schwab Crypto, will roll out over the coming weeks and will only support bitcoin and ethereum at first.
 
-The Block • 8h ago
+The Block • 9h ago
 
 ---
 
@@ -186,7 +186,7 @@ The Block • 8h ago
 
 Charles Schwab President and CEO Rick Wurster indicated that America’s largest discount brokerage will likely support prediction markets.
 
-Decrypt • 5h ago
+Decrypt • 6h ago
 
 ---
 
@@ -194,7 +194,7 @@ Decrypt • 5h ago
 
 Charles Schwab CEO Rick Wurster joins 'Money Movers' to discuss the company's latest earnings report, market themes, and more.
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
@@ -208,7 +208,7 @@ Barron's • 3d ago
 
 On-chain data shows the small Ethereum hands have sold into the latest price surge, a sign that retail traders don’t believe that the rally will last.Ethereum Retail Supply Has Seen A Notable Decline RecentlyAccording to data from on-chain analytics firm Santiment, the retail-sized Ethereum investo…
 
-TradingView — Track All Markets • 15h ago
+TradingView — Track All Markets • 16h ago
 
 ---
 
@@ -216,7 +216,7 @@ TradingView — Track All Markets • 15h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 10h ago
+Fortune • 11h ago
 
 ---
 
@@ -224,7 +224,7 @@ Fortune • 10h ago
 
 MONACO, April  16, 2026  (GLOBE NEWSWIRE) -- AlphaPepe just sold out another presale stage faster than any round before it and the next stage is a...
 
-markets.businessinsider.com • 8h ago
+markets.businessinsider.com • 9h ago
 
 ---
 
@@ -238,7 +238,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 3K • 👍 134 • 💬 12 • ⏱️ 8:23 • 11h ago
+👁️ 3K • 👍 134 • 💬 12 • ⏱️ 8:23 • 12h ago
 
 ---
 
@@ -258,7 +258,7 @@ Ethereum is flashing a fractal that mirrors the November 2024 altcoin breakout, 
 
 📺 Crypto Capital Venture
 
-👁️ 6K • 👍 452 • 💬 147 • ⏱️ 11:01 • 9h ago
+👁️ 6K • 👍 452 • 💬 147 • ⏱️ 11:01 • 10h ago
 
 ---
 
@@ -268,7 +268,7 @@ Ethereum developer Joe Schiarizzi—ex-ConsenSys, Gitcoin, OpenSea, Solarpunk VC
 
 📺 Paul Barron Network
 
-👁️ 11K • 👍 839 • 💬 207 • ⏱️ 22:10 • 10h ago
+👁️ 11K • 👍 839 • 💬 207 • ⏱️ 22:10 • 11h ago
 
 ---
 
@@ -278,7 +278,7 @@ IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purp
 
 📺 The Kenzo Guy
 
-👁️ 672 • 👍 80 • 💬 4 • ⏱️ 25:48 • 2h ago
+👁️ 672 • 👍 80 • 💬 4 • ⏱️ 25:48 • 3h ago
 
 ---
 
@@ -288,7 +288,7 @@ Raoul welcomes Vivek Raman, Co-Founder and CEO of Etherealize, and Danny Ryan, C
 
 📺 Raoul Pal The Journey Man
 
-👁️ 3K • 👍 165 • 💬 6 • ⏱️ 1:11:56 • 10h ago
+👁️ 3K • 👍 165 • 💬 6 • ⏱️ 1:11:56 • 11h ago
 
 ---
 
@@ -328,7 +328,7 @@ Ethereum is moving higher in a corrective bounce and approaching a major resista
 
 📺 More Crypto Online
 
-👁️ 5K • 👍 325 • 💬 23 • ⏱️ 9:49 • 22h ago
+👁️ 5K • 👍 325 • 💬 23 • ⏱️ 9:49 • 23h ago
 
 ---
 
