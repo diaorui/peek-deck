@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-17T16:02:12.244927+00:00'
+updated: '2026-04-17T17:14:15.888420+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
+- news
 - videos
 - social
-- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 17, 2026 at 16:02 UTC  
+**Last Updated:** April 17, 2026 at 17:14 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +5.3%  
-**7d:** +6.9%  
-**30d:** +14.3%  
-**90d:** -25.6%  
-**1y:** +53.7%  
+**24h:** +3.9%  
+**7d:** +6.5%  
+**30d:** +13.8%  
+**90d:** -25.9%  
+**1y:** +53.1%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -80,13 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Glamsterdam devnets drive Ethereum’s execution readiness while Hegotá opens the next phase of upgrade proposals & protocol evolution.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-consensus-acdc-call-177/) • 7h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-consensus-acdc-call-177/) • 9h ago
 
 ---
 
 **[I think Coinbase is building a fantastic business with stablecoins, and I would love others' opinions and thoughts.](https://www.reddit.com/r/ethereum/comments/1so3od4/i_think_coinbase_is_building_a_fantastic_business/)**
 
-55m ago
+2h ago
 
 ---
 
@@ -94,13 +94,13 @@ Glamsterdam devnets drive Ethereum’s execution readiness while Hegotá opens t
 
 Solidity developer survey results, ether.fi migrated to OP Mainnet, X $ETH cashtag
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-mini-0/) • 9h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-mini-0/) • 10h ago
 
 ---
 
 **[PolyApex Telegram Bot That Copies Polymarket Insiders Wallets](https://www.reddit.com/r/ethereum/comments/1so07v3/polyapex_telegram_bot_that_copies_polymarket/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -152,7 +152,7 @@ Man I was looking at some recent governance votes across a few protocols and the
 
 Quarterly transactions hit 200.4 million in Q1 2026, the first time above 200 million and more than double the 2023 lows.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -164,49 +164,19 @@ The Block • 1d ago
 
 ---
 
-**[XRP Outperforms Bitcoin, Ethereum, and Solana With a 4% Gain: Is the XRP Breakout Starting?](https://finance.yahoo.com/markets/crypto/articles/xrp-outperforms-bitcoin-ethereum-solana-163608207.html)**
+**[Strive Soars 12%, Bitmine Jumps 5% as Bitcoin and Ethereum’s Surge Lifts the Crypto Proxy Trade](https://finance.yahoo.com/markets/crypto/articles/strive-soars-12-bitmine-jumps-160848600.html)**
 
-XRP (CRYPTO: XRP) is up 4% to $1.41, outperforming Bitcoin, Ethereum, and Solana in a single session—the first time in weeks the token has led the market. The move is being driven by Rakuten Wallet listing XRP yesterday and the SEC’s crypto roundtable happening today, with institutional money moving in behind both catalysts. The only ... XRP Outperforms Bitcoin, Ethereum, and Solana With a 4% Gain: Is the XRP Breakout Starting?
+Strive (NASDAQ:ASST) stock is up 13% in Friday afternoon trading while Bitmine Immersion Technologies (NYSE:BMNR) shares are up 5%, as a broad crypto rally sends both names sharply higher. The catalyst is clear: Bitcoin (CRYPTO:BTC) is up 5% over the past 24 hours, trading near $77,800, while Ethereum (CRYPTO:ETH) has surged 5.5% to $2,444. Both ... Strive Soars 12%, Bitmine Jumps 5% as Bitcoin and Ethereum’s Surge Lifts the Crypto Proxy Trade
 
-Yahoo Finance • 23h ago
-
----
-
-**[Better Crypto Buy Right Now: Ethereum vs. Solana](https://www.fool.com/investing/2026/04/17/better-crypto-buy-right-now-ethereum-vs-solana/)**
-
-Amid the ongoing cryptocurrency bear market, these two interesting digital assets present investors with possible buy-the-dip opportunities.
-
-The Motley Fool • 2h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Better Crypto Buy Right Now: Ethereum vs. Solana](https://www.theglobeandmail.com/investing/markets/stocks/INTC/pressreleases/1367638/better-crypto-buy-right-now-ethereum-vs-solana/)**
+**[Ethereum Foundation Members Josh Stark, Trent Van Epps Resign](https://finance.yahoo.com/markets/crypto/articles/ethereum-foundation-members-josh-stark-162514968.html)**
 
-Detailed price information for Intel Corp (INTC-Q) from The Globe and Mail including charting and trades.
+The pair of Ethereum developers announced their resignation form the EF earlier this week.
 
-The Globe and Mail • 1h ago
-
----
-
-**[Current price of Ethereum for April 17, 2026](https://fortune.com/article/price-of-ethereum-04-17-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 3h ago
-
----
-
-**[CoinDesk 20 performance update: Ethereum (ETH) price drops 1.3% as index trades lower](https://www.coindesk.com/coindesk-indices/2026/04/16/coindesk-20-performance-update-ethereum-eth-price-drops-1-3-as-index-trades-lower)**
-
-Aave (AAVE), down 1.1% from Wednesday, was also an underperformer.
-
-CoinDesk • 22h ago
-
----
-
-**[Ethereum Whales Are Sitting on a Breakeven Ceiling at $2,400 Price: Are They About to Kill the Ra...](https://www.binance.com/en/square/post/313512843674370)**
-
-Binance • 2h ago
+Yahoo Finance • 49m ago
 
 ---
 
@@ -226,6 +196,36 @@ CNBC • 1d ago
 
 ---
 
+**[Charles Schwab Weighs Prediction Markets Move as Bitcoin, Ethereum Trading Nears](https://decrypt.co/364617/charles-schwab-weighs-prediction-markets-bitcoin-ethereum-trading-nears)**
+
+Charles Schwab President and CEO Rick Wurster indicated that America’s largest discount brokerage will likely support prediction markets.
+
+Decrypt • 23h ago
+
+---
+
+**[Better Crypto Buy Right Now: Ethereum vs. Solana](https://www.fool.com/investing/2026/04/17/better-crypto-buy-right-now-ethereum-vs-solana/)**
+
+Amid the ongoing cryptocurrency bear market, these two interesting digital assets present investors with possible buy-the-dip opportunities.
+
+The Motley Fool • 3h ago
+
+---
+
+**[Most large cryptocurrencies climb on Sui, Ethereum increases](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-climb-on-sui-ethereum-increases-6f01e867-dad5317f1ea1)**
+
+MarketWatch • 3h ago
+
+---
+
+**[Bitcoin and ethereum prices today, Friday, April 17, 2026: Higher prices hold with ceasefire in effect](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-april-17-2026-higher-prices-hold-with-ceasefire-in-effect-114918376.html)**
+
+Bitcoin (BTC-USD) opened at $75,151.99 on Friday, 0.5% higher than Thursday’s opening price of $74,810.87. Ethereum (ETH-USD) opened at $2,348.49 on Friday, down 0.5% from Thursday’s opening price of $2,359.70.
+
+Yahoo Finance • 5h ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
@@ -236,7 +236,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 316 • 👍 18 • ⏱️ 4:53 • 7h ago
+👁️ 316 • 👍 18 • ⏱️ 4:53 • 8h ago
 
 ---
 
@@ -276,7 +276,7 @@ IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purp
 
 📺 The Kenzo Guy
 
-👁️ 6K • 👍 321 • 💬 26 • ⏱️ 25:48 • 19h ago
+👁️ 6K • 👍 321 • 💬 26 • ⏱️ 25:48 • 20h ago
 
 ---
 
@@ -306,7 +306,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 187 • 👍 28 • ⏱️ 5:23 • 36m ago
+👁️ 187 • 👍 28 • ⏱️ 5:23 • 1h ago
 
 ---
 
@@ -326,7 +326,7 @@ join my social platforms for updates and analysis ✓Instagram: ...
 
 📺 Aryan trader Live
 
-👁️ 4K • 👍 1K • 💬 23 • ⏱️ 11:12 • 8m ago
+👁️ 4K • 👍 1K • 💬 23 • ⏱️ 11:12 • 1h ago
 
 ---
 

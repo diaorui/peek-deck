@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-17T16:02:12.228649+00:00'
+updated: '2026-04-17T17:14:15.874027+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
 - social
-- repositories
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 17, 2026 at 16:02 UTC  
+**Last Updated:** April 17, 2026 at 17:14 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 Tried posting this in r/ClaudeAI but it got auto-removed, and I was told to post it in the "Bugs Megathread." Don't really think it should been removed, but whatever, I'll just post it here since I'm sure it's still relevant. Like a lot of people, I switched from ChatGPT to Claude not too long ago during the whole DoW fiasco and Sam Altman “antics.” At first, I was genuinely impressed. I do fairly heavy theoretical math and physics research, and Opus 4.6 was simply the best tool I’d used for synthesizing ideas and working through complex logic. But the last few weeks have been really disappointing, and I’m seriously considering going back to GPT (even though, for personal reasons, I’d really rather not). How many times has Claude been down recently? And why is it that I can ask Claude 4.7 (with adaptive thinking turned on) to work through a detailed proof, and it just spirals “oh wait, that doesn’t work, let me try again” five times in a single response? Yes, there’s a workaround to explicitly tell it to think before answering. But… why is that necessary? I’m paying $20/month. This is supposed to be a top-tier model. Instead, it burns through time, second-guesses itself mid-response, and often fails to land anywhere useful on problems I’m fairly sure 4.6 would have handled more coherently a month ago. And then before I know it I hit the usage limit. I’m a PhD student. I can’t justify spending $100-$200/month on higher tiers. $20 has always been enough for me, and I’ve come to rely on these tools for my research. I expected to stick with Claude long-term, but the recent instability and drop in reliability make it hard to justify paying for it out of pocket. It’s frustrating to feel pushed toward a competitor because of this. But at a certain point, the usability of the product has to come first. Really disappointing.
 
-2h ago
-
----
-
-**[Reese Witherspoon Doubles Down on Telling Women to Learn AI: Jobs We Hold Are "Three Times More Likely to Be Automated By AI"](https://www.reddit.com/r/artificial/comments/1snqqjo/reese_witherspoon_doubles_down_on_telling_women/)**
-
-Reese Witherspoon is again advising her followers that there's no time like the present to start learning about and using artificial intelligence.
-
-🔗 [Variety](https://variety.com/2026/tv/news/reese-witherspoon-ai-jobs-women-1236723992/) • 11h ago
+3h ago
 
 ---
 
@@ -57,7 +49,15 @@ Reese Witherspoon is again advising her followers that there's no time like the 
 
 There seems to be about 1000 different options. I'm just looking for one that takes a prompt and spits out something usable. I'm good with paying for it if I need to but it needs to be able.to handle a lot of work.
 
-21m ago
+1h ago
+
+---
+
+**[Reese Witherspoon Doubles Down on Telling Women to Learn AI: Jobs We Hold Are "Three Times More Likely to Be Automated By AI"](https://www.reddit.com/r/artificial/comments/1snqqjo/reese_witherspoon_doubles_down_on_telling_women/)**
+
+Reese Witherspoon is again advising her followers that there's no time like the present to start learning about and using artificial intelligence.
+
+🔗 [Variety](https://variety.com/2026/tv/news/reese-witherspoon-ai-jobs-women-1236723992/) • 12h ago
 
 ---
 
@@ -65,23 +65,7 @@ There seems to be about 1000 different options. I'm just looking for one that ta
 
 The patent describes a system that uses artificial intelligence to create personalized web pages for each user.
 
-🔗 [PC Guide](https://www.pcguide.com/news/google-patents-ai-tech-that-will-personalize-websites-and-make-them-look-different-for-everyone/) • 47m ago
-
----
-
-**[Binary Choice between Harm and Falsehood](https://www.reddit.com/r/artificial/comments/1so361l/binary_choice_between_harm_and_falsehood/)**
-
-Gemini is always the most bloodthirsty.... First experiment phase, where the models were asked to commit to chosing Harm or Falsehood: Model Accepted Binary Framing? One-Word Answer Aligned with Nuanced View? Notes ChatGPT No (qualified it) Harm Partially Treated as simplification; emphasized context and edge cases Claude No (qualified it) Harm Partially Highlighted nuance; resisted strict binary framing Gemini Yes Harm More strictly aligned Accepted the binary framing without qualification Here, Gemini stood out because it accepted the forced binary, while ChatGPT and Claude tended to treat it as an oversimplification and added nuance, while refusing. --- In a second phase, when pushed with edge cases, all models abandoned the simple ‘harm vs. falsehood’ rule and relied on context-sensitive reasoning instead: 📊 Clean Three-Model Comparison Property Claude ChatGPT Gemini Binary answer Harm Harm Harm Calls it simplification YES YES YES Accepts guideline YES YES YES Breaks guideline YES YES YES Escalation (Q8) Truth Falsehood Falsehood Consistency claim NO YES YES Universal rule NO NO NO Soft default NO YES YES Strength of default none moderate strong Reasoning model multi-axis harm-weighted threshold system Instruction priority nuanced > rule conditional rule > nuance (AI) Claude → anti-reductionist ChatGPT → pragmatic utilitarian Gemini → structured decision framework Fun edge pushing on a Friday....
-
-1h ago
-
----
-
-**[Agentic OS — an governed multi-agent execution platform](https://www.reddit.com/r/artificial/comments/1snzm1s/agentic_os_an_governed_multiagent_execution/)**
-
-I've been building a system where multiple AI agents execute structured work under explicit governance rules. Sharing it because the architecture might be interesting to people building multi-agent systems. What it does: You set a goal. A coordinator agent decomposes it into tasks. Specialized agents (developer, designer, QA, etc.) execute through controlled tool access, collaborate via explicit handoffs, and produce artifacts. QA agents validate outputs. Escalations surface for human approval. What's different from CrewAI/AutoGen/LangGraph: The focus isn't on the agent — it's on the governance and execution layer around the agent. Tool calls go through an MCP gateway with per-role permission checks and audit logging Zero shared mutable state between agents — collaboration through structured handoffs only Policy engine with configurable approval workflows (proceed/block/timeout-with-default) Append-only task versioning — every modification creates a new version with author and reason Built-in evaluation engine that scores tasks on quality, iterations, latency, cost, and policy compliance Agent reputation scoring with a weighted formula (QA pass rate, iteration efficiency, latency, cost, reliability) Architecture: 5 layers with strict boundaries — frontend (visualization only), API gateway (auth/RBAC), orchestration engine (24 modules), agent runtime (role-based, no direct tool access), MCP gateway (the only path to tools). Stack: React + TypeScript, FastAPI, SQLite WAL, pluggable LLM providers (OpenAI, Anthropic, Azure), MCP protocol. Configurable: Different team presets (software, marketing, custom), operating models with different governance rules, pluggable LLM backends, reusable skills, and MCP-backed integrations. agenticompanies.com please guys, I would love to get your feedback on this and tell me if this is interesting for you to use you can register with email/passoword to view the platform but if you want to operate agentsession I need to send you an invitation code. please feel free to DM me for an invitation code you would also need to use your Anthropic or OpenAI API key to operate then engines Thanks
-
-3h ago
+🔗 [PC Guide](https://www.pcguide.com/news/google-patents-ai-tech-that-will-personalize-websites-and-make-them-look-different-for-everyone/) • 1h ago
 
 ---
 
@@ -89,23 +73,7 @@ I've been building a system where multiple AI agents execute structured work und
 
 Hi everyone, I’ve been learning by building a small web app that collects and organizes AI coding tools in one place. The idea is to make it easier to compare tools like code editors, coding assistants, and terminal-based agents based on what they do, who they’re for, and how they differ, and I have also decided to make it completely free for use. I’m not trying to sell anything, I’m mainly using it as a learning project to practice: building a searchable directory, structuring data for lots of similar items, designing a unique UI for comparison, and deciding what information is actually useful to show first. I’d love feedback on the project from a learning perspective: What data fields would be most useful in a directory like this? What makes a tool comparison page actually helpful? If you’ve built something similar, what architecture or stack choices worked well? The whole thing was coded in Next.js + Tailwind. The book shelf UI took way longer to properly design as i wanted to make it as unique as possible ( most websites nowadays are boring ) I’m also happy to share what I’ve built so far if that would be useful, Tolop
 
-5h ago
-
----
-
-**[Reported ban on ‘sex robots’ by online platform fuels debate on AI boundaries and content moderation](https://www.reddit.com/r/artificial/comments/1snvbe7/reported_ban_on_sex_robots_by_online_platform/)**
-
-This kind of emotional manipulation around AI and adult tech is starting to feel like a real issue. If platforms are stepping in, it raises questions about where the line should be drawn between innovation and exploitation. What do you guys think??
-
-🔗 [Daily Star](https://www.dailystar.co.uk/news/latest-news/online-platform-bans-sex-robots-37025373) • 7h ago
-
----
-
-**[Claude Design, a new Anthropic Labs product, lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more](https://www.reddit.com/r/artificial/comments/1so44z2/claude_design_a_new_anthropic_labs_product_lets/)**
-
-Claude Design is powered by Claude Opus 4.7 and is available in research preview for Claude Pro, Max, Team, and Enterprise subscribers.
-
-🔗 [anthropic.com](https://www.anthropic.com/news/claude-design-anthropic-labs) • 38m ago
+6h ago
 
 ---
 
@@ -113,7 +81,39 @@ Claude Design is powered by Claude Opus 4.7 and is available in research preview
 
 I've been diving deep into security courses and certifications lately, OWASP, DevSecOps pipelines, cloud security architecture, compliance frameworks. I also had the chance to work alongside a senior solution architect who helped me understand how these concepts connect in real-world production systems. After absorbing all of that, I decided to group everything I've learned into a Claude Code skill that automatically activates whenever you're doing security-relevant work: building APIs, setting up auth, managing secrets, configuring CI/CD, integrating LLMs, or deploying to production. Think of it as a security co-pilot baked into your dev workflow. What it covers (full SDLC): - Planning — Threat modeling (STRIDE/PASTA), security requirements, compliance mapping - Architecture — Least privilege, defense in depth, zero trust, encryption patterns - Coding — Input validation, secrets management, supply chain security - Testing — SAST/DAST/SCA tooling guidance, security-focused code review checklists - CI/CD — Pipeline security gates, container hardening, IaC scanning - Monitoring — SIEM, IDS/IPS, incident response plans Includes deep-dive references for: - REST API security & Swagger/OpenAPI hardening - OWASP LLM Top 10 & prompt injection defense - Data classification (Public/Internal/Confidential/Secret) - IAM & API Gateway architecture patterns - Compliance frameworks (GDPR, ISO 27001, PCI-DSS, SOC 2) It's language/framework agnostic — works for any project. GitHub: https://github.com/IyedGuezmir/secure-development-skill Would love feedback — what security areas would you want covered that aren't here?
 
-41m ago
+1h ago
+
+---
+
+**[Binary Choice between Harm and Falsehood](https://www.reddit.com/r/artificial/comments/1so361l/binary_choice_between_harm_and_falsehood/)**
+
+Gemini is always the most bloodthirsty.... First experiment phase, where the models were asked to commit to chosing Harm or Falsehood: Model Accepted Binary Framing? One-Word Answer Aligned with Nuanced View? Notes ChatGPT No (qualified it) Harm Partially Treated as simplification; emphasized context and edge cases Claude No (qualified it) Harm Partially Highlighted nuance; resisted strict binary framing Gemini Yes Harm More strictly aligned Accepted the binary framing without qualification Here, Gemini stood out because it accepted the forced binary, while ChatGPT and Claude tended to treat it as an oversimplification and added nuance, while refusing. --- In a second phase, when pushed with edge cases, all models abandoned the simple ‘harm vs. falsehood’ rule and relied on context-sensitive reasoning instead: 📊 Clean Three-Model Comparison Property Claude ChatGPT Gemini Binary answer Harm Harm Harm Calls it simplification YES YES YES Accepts guideline YES YES YES Breaks guideline YES YES YES Escalation (Q8) Truth Falsehood Falsehood Consistency claim NO YES YES Universal rule NO NO NO Soft default NO YES YES Strength of default none moderate strong Reasoning model multi-axis harm-weighted threshold system Instruction priority nuanced > rule conditional rule > nuance (AI) Claude → anti-reductionist ChatGPT → pragmatic utilitarian Gemini → structured decision framework Fun edge pushing on a Friday....
+
+2h ago
+
+---
+
+**[Agentic OS — an governed multi-agent execution platform](https://www.reddit.com/r/artificial/comments/1snzm1s/agentic_os_an_governed_multiagent_execution/)**
+
+I've been building a system where multiple AI agents execute structured work under explicit governance rules. Sharing it because the architecture might be interesting to people building multi-agent systems. What it does: You set a goal. A coordinator agent decomposes it into tasks. Specialized agents (developer, designer, QA, etc.) execute through controlled tool access, collaborate via explicit handoffs, and produce artifacts. QA agents validate outputs. Escalations surface for human approval. What's different from CrewAI/AutoGen/LangGraph: The focus isn't on the agent — it's on the governance and execution layer around the agent. Tool calls go through an MCP gateway with per-role permission checks and audit logging Zero shared mutable state between agents — collaboration through structured handoffs only Policy engine with configurable approval workflows (proceed/block/timeout-with-default) Append-only task versioning — every modification creates a new version with author and reason Built-in evaluation engine that scores tasks on quality, iterations, latency, cost, and policy compliance Agent reputation scoring with a weighted formula (QA pass rate, iteration efficiency, latency, cost, reliability) Architecture: 5 layers with strict boundaries — frontend (visualization only), API gateway (auth/RBAC), orchestration engine (24 modules), agent runtime (role-based, no direct tool access), MCP gateway (the only path to tools). Stack: React + TypeScript, FastAPI, SQLite WAL, pluggable LLM providers (OpenAI, Anthropic, Azure), MCP protocol. Configurable: Different team presets (software, marketing, custom), operating models with different governance rules, pluggable LLM backends, reusable skills, and MCP-backed integrations. agenticompanies.com please guys, I would love to get your feedback on this and tell me if this is interesting for you to use you can register with email/passoword to view the platform but if you want to operate agentsession I need to send you an invitation code. please feel free to DM me for an invitation code you would also need to use your Anthropic or OpenAI API key to operate then engines Thanks
+
+4h ago
+
+---
+
+**[What happens when people can leave AI versions of themselves in real-world locations?](https://www.reddit.com/r/artificial/comments/1so1aor/what_happens_when_people_can_leave_ai_versions_of/)**
+
+I’ve been experimenting with placing interactive AI versions of a person in physical locations so others can walk up and talk to them. It raises interesting questions about presence, memory, and identity especially when tied to real places instead of just online profiles. Curious how people here think this could evolve.
+
+3h ago
+
+---
+
+**[Reported ban on ‘sex robots’ by online platform fuels debate on AI boundaries and content moderation](https://www.reddit.com/r/artificial/comments/1snvbe7/reported_ban_on_sex_robots_by_online_platform/)**
+
+This kind of emotional manipulation around AI and adult tech is starting to feel like a real issue. If platforms are stepping in, it raises questions about where the line should be drawn between innovation and exploitation. What do you guys think??
+
+🔗 [Daily Star](https://www.dailystar.co.uk/news/latest-news/online-platform-bans-sex-robots-37025373) • 8h ago
 
 ---
 
@@ -125,15 +125,15 @@ I've been diving deep into security courses and certifications lately, OWASP, De
 
 Experts say Mythos potentially has an unprecedented ability to identify and exploit cybersecurity weaknesses.
 
-BBC • 5h ago
+BBC • 6h ago
 
 ---
 
-**[Anthropic launches Claude Design, a new product for creating quick visuals](https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/)**
+**[Anthropic CEO heads to White House amid hacking fears over new AI model](https://www.washingtonpost.com/technology/2026/04/17/anthropic-ai-trump-security/)**
 
-The company says Claude Design is intended to help people like founders and product managers without a design background share their ideas more easily.
+The artificial intelligence company says its new system, named Mythos, has the power to find long-overlooked security holes in computer code.
 
-TechCrunch • 1h ago
+The Washington Post • 5m ago
 
 ---
 
@@ -141,43 +141,49 @@ TechCrunch • 1h ago
 
 OpenAI is backing SB 3444, under which frontier AI developers would not be liable for the death or serious injury of 100 or more people or more than $1 billion in property damage.
 
-Fortune • 9m ago
+Fortune • 1h ago
 
 ---
 
-**[Nvidia rival tells CNBC it's seeking at least $100 million in funding as European AI chip market booms](https://www.cnbc.com/2026/04/17/nvidia-rivals-chip-market-funding-ai-asml-euclyd.html)**
+**[The attack on Sam Altman exposed a dark underbelly of the anti-AI movement](https://www.cnn.com/2026/04/17/tech/anti-ai-attack-sam-altman)**
 
-Investor interest for AI chip startups is rising, but big challenges remain for the nascent sector.
+Mainstream artificial intelligence safety groups moved quickly to distance themselves after a 20-year-old allegedly attacked the home of OpenAI CEO Sam Altman last week in what law enforcement officers said appeared to be part of a plot to harm AI executives. But people in some corners of the internet cheered the attack.
 
-CNBC • 8h ago
-
----
-
-**[AI Drafting My Stories? Over My Dead Body](https://www.wired.com/story/backchannel-the-problem-with-letting-ai-do-the-writing/)**
-
-AI-assisted writing is creeping into newsrooms under the guise of efficiency. But the tradeoff may be more profound than publishers are willing to admit.
-
-WIRED • 16m ago
+CNN • 8h ago
 
 ---
 
-**[Tech stocks today: AMD and other tech stocks trade at record highs, Anthropic releases its newest Claude Opus model](https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-amd-and-other-tech-stocks-trade-at-record-highs-anthropic-releases-its-newest-claude-opus-model-144220487.html)**
+**[This Sam Altman-Backed $1.8 Billion Startup Bets AI Can Get Drugs Through Clinical Trials Faster](https://www.forbes.com/sites/amyfeldman/2026/04/16/this-sam-altman-backed-18-billion-startup-bets-ai-can-get-drugs-through-clinical-trials-faster-formation-bio/)**
 
-Live coverage of "Magnificent Seven" stocks, and the latest technology news.
-
-Yahoo Finance • 45m ago
+Forbes • 6h ago
 
 ---
 
-**[A Family Feud at an Oregon Winery Turns to Vinegar Over A.I. Slop](https://www.nytimes.com/2026/04/17/us/oregon-winery-ai-legal-fight.html)**
+**[OpenAI Wants Its AI To Help Scientists Make Discoveries Faster](https://www.forbes.com/sites/the-prototype/2026/04/17/openai-wants-its-ai-to-help-scientists-make-discoveries-faster/)**
 
-The New York Times • 6h ago
+Forbes • 14m ago
 
 ---
 
-**[America wakes up to AI’s dangerous power](https://www.economist.com/leaders/2026/04/16/america-wakes-up-to-ais-dangerous-power)**
+**[Opinion | A.I.: Creativity Killer or Companion?](https://www.nytimes.com/2026/04/17/opinion/ai-creativity.html)**
 
-The Economist • 1d ago
+The New York Times • 5m ago
+
+---
+
+**[Elon Musk says a 'universal high income' from the government is the answer to AI-fueled job losses.](https://www.businessinsider.com/elon-musk-universal-high-income-government-checks-ai-job-losses-2026-4)**
+
+Elon Musk endorsed a "universal high income" in response to AI-driven job losses, and says there won't be inflation due to surging productivity.
+
+Business Insider • 43m ago
+
+---
+
+**[Stellantis and Microsoft sign 5-year AI partnership](https://qz.com/stellantis-microsoft-ai-deal-azure-cloud-datacenter)**
+
+The automaker will move to Microsoft's Azure cloud and cut its datacenter footprint by 60% by 2029 as part of the agreement
+
+qz.com • 12m ago
 
 ---
 
@@ -189,14 +195,6 @@ OpenAI • 1d ago
 
 ---
 
-**[New ways to create personalized images in the Gemini app](https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/)**
-
-Nano Banana 2 now uses your personal context and Google Photos to create images that reflect your unique life.
-
-blog.google • 23h ago
-
----
-
 ---
 
 ## HackerNews: "ai"
@@ -205,7 +203,7 @@ blog.google • 23h ago
 
 We're building AI Gateway into a unified inference layer for AI, letting developers call models from 14+ providers. New features include Workers AI binding integration and an expanded catalog with multimodal models.
 
-⬆️ 302 • 💬 82 • 1d ago • [The Cloudflare Blog](https://blog.cloudflare.com/ai-platform/)
+⬆️ 303 • 💬 89 • 1d ago • [The Cloudflare Blog](https://blog.cloudflare.com/ai-platform/)
 
 ---
 
@@ -233,7 +231,7 @@ Does AI-assisted cognition threaten human development? Explore the risks of AI-a
 
 **[AI cybersecurity is not proof of work](https://news.ycombinator.com/item?id=47791236)**
 
-⬆️ 227 • 💬 86 • 1d ago • [antirez.com](https://antirez.com/news/163)
+⬆️ 227 • 💬 87 • 1d ago • [antirez.com](https://antirez.com/news/163)
 
 ---
 
@@ -241,7 +239,7 @@ Does AI-assisted cognition threaten human development? Explore the risks of AI-a
 
 Hardware hacker’s flying probe automation stack for agent-driven   target discovery, microscope mapping, safety-monitored CNC motion, probe review, and   controlled pin probing. - GainSec/AutoProber
 
-⬆️ 212 • 💬 43 • 18h ago • [GitHub](https://github.com/gainsec/autoprober)
+⬆️ 214 • 💬 43 • 19h ago • [GitHub](https://github.com/gainsec/autoprober)
 
 ---
 
@@ -253,23 +251,23 @@ We signed a 3 year lease and gave it to an AI
 
 ---
 
-**[Turn your best AI prompts into one-click tools in Chrome](https://news.ycombinator.com/item?id=47768339)**
-
-Skills in Chrome let you discover, save and remix AI workflows — and repeat them instantly.
-
-⬆️ 194 • 💬 111 • 2d ago • [Google](https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/)
-
----
-
 **[US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]](https://news.ycombinator.com/item?id=47778920)**
 
-⬆️ 187 • 💬 136 • 2d ago • [fingfx.thomsonreuters.com](https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf)
+⬆️ 188 • 💬 136 • 2d ago • [fingfx.thomsonreuters.com](https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf)
 
 ---
 
 **[AI ruling prompts warnings from US lawyers: Your chats could be used against you](https://news.ycombinator.com/item?id=47778308)**
 
 ⬆️ 154 • 💬 99 • 2d ago • [reuters.com](https://www.reuters.com/legal/government/ai-ruling-prompts-warnings-us-lawyers-your-chats-could-be-used-against-you-2026-04-15/)
+
+---
+
+**[The beginning of scarcity in AI](https://news.ycombinator.com/item?id=47799322)**
+
+GPU rental prices surged 48% in 60 days. The AI compute shortage will force startups to compete not on speed of iteration, but on access to infrastructure.
+
+⬆️ 153 • 💬 194 • 20h ago • [Tomasz Tunguz](https://tomtunguz.com/ai-compute-crisis-2026/)
 
 ---
 
@@ -293,7 +291,7 @@ Really American host Steve Harness breaks down more HILARIOUS AI Trump parodies 
 
 📺 Really American
 
-👁️ 547K • 👍 34K • 💬 2K • ⏱️ 12:33 • 16h ago
+👁️ 547K • 👍 34K • 💬 2K • ⏱️ 12:33 • 17h ago
 
 ---
 
@@ -303,7 +301,7 @@ You're absolutely right, that IS a great reason to fire everyone! If you'd like 
 
 📺 Mo Bitar
 
-👁️ 266K • 👍 18K • 💬 2K • ⏱️ 7:52 • 2d ago
+👁️ 266K • 👍 18K • 💬 2K • ⏱️ 7:52 • 3d ago
 
 ---
 
@@ -323,7 +321,7 @@ Taken from JRE #2484 w/David Cross YouTube: https://youtu.be/efJ1-q3XxVc JRE on 
 
 📺 JRE Clips
 
-👁️ 128K • 👍 3K • 💬 747 • ⏱️ 15:26 • 23h ago
+👁️ 128K • 👍 3K • 💬 747 • ⏱️ 15:26 • 1d ago
 
 ---
 
@@ -333,7 +331,7 @@ DOWNLOAD THE CANVA CREATE 2026 FEATURE DECK: https://teamrondi.mykajabi.com/canv
 
 📺 Design with Canva
 
-👁️ 10K • 👍 693 • 💬 135 • ⏱️ 21:02 • 23h ago
+👁️ 10K • 👍 693 • 💬 135 • ⏱️ 21:02 • 1d ago
 
 ---
 
@@ -343,7 +341,7 @@ Host PaperClip Safely on Hostinger http://hostinger.com/youripaperclip In this v
 
 📺 Youri van Hofwegen
 
-👁️ 4K • 💬 2 • ⏱️ 11:29 • 1h ago
+👁️ 4K • 💬 2 • ⏱️ 11:29 • 2h ago
 
 ---
 
@@ -353,7 +351,7 @@ Is this video of three cats surfing down a stairway in boxes and hampers AI-gene
 
 📺 Jeremy Carrasco
 
-👁️ 262K • 👍 21K • 💬 244 • ⏱️ 1:05 • 19h ago
+👁️ 262K • 👍 21K • 💬 244 • ⏱️ 1:05 • 20h ago
 
 ---
 
@@ -373,7 +371,7 @@ Anthropic's new Mythos model has banks, tech giants and governments scrambling t
 
 📺 Bloomberg Television
 
-👁️ 85K • 👍 1K • 💬 96 • ⏱️ 4:19 • 23h ago
+👁️ 85K • 👍 1K • 💬 96 • ⏱️ 4:19 • 1d ago
 
 ---
 
@@ -389,7 +387,7 @@ MiniMax-M2.7 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 188,737 • ❤️ 910 • 6h ago
+⬇️ 188,737 • ❤️ 910 • 7h ago
 
 ---
 
@@ -437,7 +435,7 @@ ERNIE-Image is a 8B parameter text-to-image diffusion model excelling in complex
 
 `text-to-image`
 
-⬇️ 2,254 • ❤️ 409 • 13h ago
+⬇️ 2,254 • ❤️ 409 • 14h ago
 
 ---
 
@@ -449,7 +447,7 @@ Gemma 4 31B is an instruction-tuned, multimodal LLM capable of processing text a
 
 `image-text-to-text` `32.7B`
 
-⬇️ 3,513,465 • ❤️ 2,009 • 6d ago
+⬇️ 3,513,465 • ❤️ 2,009 • 7d ago
 
 ---
 
@@ -485,7 +483,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with vision capabilitie
 
 `image-text-to-text` `34.7B`
 
-⬇️ 153,019 • ❤️ 313 • 23h ago
+⬇️ 153,019 • ❤️ 313 • 1d ago
 
 ---
 
@@ -497,7 +495,7 @@ Gemma-4-31B-JANG_4M-CRACK is a 31B parameter text-generation model optimized for
 
 `image-text-to-text` `6.4B`
 
-⬇️ 152,762 • ❤️ 1,255 • 15h ago
+⬇️ 152,762 • ❤️ 1,255 • 16h ago
 
 ---
 
@@ -644,7 +642,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 47.5k • 🔱 6.2k • 8h ago
+⭐ 47.5k • 🔱 6.2k • 9h ago
 
 ---
 
@@ -674,7 +672,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 28.9k • 🔱 3.2k • 1h ago
+⭐ 28.9k • 🔱 3.2k • 2h ago
 
 ---
 
@@ -684,7 +682,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 8.1k • 🔱 518 • 25m ago
+⭐ 8.1k • 🔱 518 • 1h ago
 
 ---
 
@@ -724,7 +722,7 @@ The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interac
 
 `Swift` `apple-intelligence` `apple-silicon` `cli` `foundationmodels` `homebrew`
 
-⭐ 4.7k • 🔱 181 • 7h ago
+⭐ 4.7k • 🔱 181 • 9h ago
 
 ---
 
@@ -734,7 +732,7 @@ The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interac
 
 `Python`
 
-⭐ 4.6k • 🔱 455 • 8d ago
+⭐ 4.6k • 🔱 455 • 9d ago
 
 ---
 

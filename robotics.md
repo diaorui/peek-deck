@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-17T16:02:12.248254+00:00'
+updated: '2026-04-17T17:14:15.891659+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 17, 2026 at 16:02 UTC  
+**Last Updated:** April 17, 2026 at 17:14 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,13 @@ Robotics research and industry news
 
 **[H1 accelerating - jogging to running](https://www.reddit.com/r/robotics/comments/1snz9fk/h1_accelerating_jogging_to_running/)**
 
-3h ago
+4h ago
+
+---
+
+**[The race ended before it got even started for this robot](https://www.reddit.com/r/robotics/comments/1so68c6/the_race_ended_before_it_got_even_started_for/)**
+
+36m ago
 
 ---
 
@@ -42,13 +48,13 @@ Robotics research and industry news
 
 From Physical Intelligence on 𝕏 (thread): https://x.com/physical_int/status/2044841263254638862 Blog post with multiple videos/demos: https://www.pi.website/blog/pi07 TechCrunch: Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught: https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/
 
-6h ago
+7h ago
 
 ---
 
 **[3D printed monster motor that lifts + 15kg!](https://www.reddit.com/r/robotics/comments/1so1mv7/3d_printed_monster_motor_that_lifts_15kg/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -56,7 +62,7 @@ From Physical Intelligence on 𝕏 (thread): https://x.com/physical_int/status/2
 
 upgraded our robot: added a shell, cameras, onboard compute, basically everything it was missing. way heavier and way more complex now. got it doing continuous autonomous stair jumping in sim. no human input, policy decides everything on its own. but most of what we had working on the old rabbit bot just didn't carry over, had to retrain almost everything. still haven't gotten it to jump on the real robot yet, that's the next battle. right now we're deep in logs and calibration trying to close the gap. the usual lol btw we've been reading through all the questions you guys left on our previous posts, a lot of really good ones about sim2real, reward shaping, training workflow, etc. since RL questions came up the most, we're drafting with a writeup on that, sharing what we've learned and the mistakes we made along the way lol. should be up on r/MondoRobotics in a few days. not limited to RL though, if there's anything else you've been curious about, drop it in the comments. we'll try to cover what we can.
 
-1h ago
+2h ago
 
 ---
 
@@ -64,7 +70,7 @@ upgraded our robot: added a shell, cameras, onboard compute, basically everythin
 
 I tried to do a quadruped robot using cheap servos (MG90S), normal batteries and wood structure. I think that it could be built with less than R$200,00 (U$40,00 at conversion). The name of the project is Guara Nano. I used ESP32, 8x MG90S servos (chinese version), 4x Batteries 1,5V, MPU6050 and PCA9685. I cannot supply ESP32 with these batteries because of drop voltage, so I used micro-USB cable. I did two gaits that work, walk and trot, with control of velocity and height control. It can turn too, using side traction and go back. I also did a simple proportional control but I didn't tested too much. The code and process to build will be open-source, now I'm working on documentation and I'll post here soon. I would appreciate tips and suggestions for improvement, and perhaps some other similar works, not just the ones you find on Google, as I've already looked at all of them.
 
-18h ago
+19h ago
 
 ---
 
@@ -78,27 +84,21 @@ From The Humanoid Hub on 𝕏: https://x.com/TheHumanoidHub/status/2044504579480
 
 **[Multi-Robot Synchronization Demo from ESTUN Robotics](https://www.reddit.com/r/robotics/comments/1sn9asg/multirobot_synchronization_demo_from_estun/)**
 
-23h ago
+1d ago
 
 ---
 
 **[Breaking down camera choice for robotics data](https://www.reddit.com/r/robotics/comments/1so32nb/breaking_down_camera_choice_for_robotics_data/)**
 
+2h ago
+
+---
+
+**[Visual Navigation and Positioning Module: Indoor GPS-Denied Flight Test](https://www.reddit.com/r/robotics/comments/1so5h7a/visual_navigation_and_positioning_module_indoor/)**
+
+I discovered a GPS-free mode on the website (called myrobotproject) that enables pure vision-based flight using the Visio. Previously, I had only seen videos from the APM community featuring Intel cameras mounted on drones for GPS-denied navigation. I have my own drone and installed the Visio on it—the installation process was quite straightforward. I will open-source the related tutorial for everyone soon. If you have any interesting tests to share, I'd love to hear from you!
+
 1h ago
-
----
-
-**[Camera selection for demolition robot (low light, dust, multi-view setup)](https://www.reddit.com/r/robotics/comments/1snuijn/camera_selection_for_demolition_robot_low_light/)**
-
-Hi all, I’m working on a demolition robot (similar to Brokk/Husqvarna) and evaluating camera options for operator visibility. The setup will likely use multiple small fixed cameras around the arm/tool, so I’m trying to balance: Low-light performance Dust tolerance (with enclosure/air assist) Latency vs IP-based streaming (PoE/RTSP) Has anyone worked with camera systems in similar harsh environments (demolition, mining, etc.)? Would be great to hear what worked well in practice and any pitfalls to avoid.
-
-7h ago
-
----
-
-**[I 3D-printed a capture point for my Capture the Base robot game](https://www.reddit.com/r/robotics/comments/1sn2ptz/i_3dprinted_a_capture_point_for_my_capture_the/)**
-
-1d ago
 
 ---
 
@@ -110,7 +110,7 @@ Hi all, I’m working on a demolition robot (similar to Brokk/Husqvarna) and eva
 
 The new model, called π0.7, represents what the company describes as an early but meaningful step toward the long-sought goal of a general-purpose robot brain.
 
-TechCrunch • 19h ago
+TechCrunch • 20h ago
 
 ---
 
@@ -122,11 +122,19 @@ Google DeepMind • 3d ago
 
 ---
 
-**[GrayMatter Robotics integrates AI into US shipbuilding to take on China](https://www.foxbusiness.com/video/6393298828112)**
+**[Opinion | Unsure about companion robots for seniors? Here’s why some can’t wait.](https://www.washingtonpost.com/opinions/2026/04/16/ai-powered-robots-seniors-make-some-uncomfortable-not-all/)**
 
-GrayMatter Robotics CEO Ariyan Kabir discusses partnering with the Navy’s largest shipbuilder to bring AI into U.S. shipbuilding, counter China’s naval growth, and scale advanced robotics manufacturing on 'Mornings with Maria.'
+Many readers were horrified by the idea of robots helping older adults — but not all.
 
-Fox Business • 2h ago
+The Washington Post • 13h ago
+
+---
+
+**[Physical AI Company Chef Robotics Completes 100 Million Servings in Production](https://www.prnewswire.com/news-releases/physical-ai-company-chef-robotics-completes-100-million-servings-in-production-302746098.html)**
+
+/PRNewswire/ -- Chef Robotics, the market leader in food robotics, today announced its robots have completed 100 million servings in production at customer...
+
+PR Newswire • 41m ago
 
 ---
 
@@ -138,17 +146,27 @@ The Washington Post • 1h ago
 
 ---
 
-**[Nvidia Alum Rides China’s Robotics Wave to 187% Debut Pop](https://www.bloomberg.com/news/articles/2026-04-16/nvidia-alum-rides-china-s-robotics-wave-to-150-million-debut)**
-
-Bloomberg.com • 14h ago
-
----
-
 **[Disturbing video shows humanoid robots preparing for border patrol duties](https://www.earth.com/news/humanoid-robots-walker-s2-preparing-for-border-patrol-duty-china-vietnam/)**
 
 Walker S2 is an adult-sized humanoid robot with legs, a torso, and arms. China is sending these robots to patrol their border with Vietnam.
 
-Earth.com • 17h ago
+Earth.com • 19h ago
+
+---
+
+**[Flying cars and humanoid robots showcased at Edison Awards in Fort Myers](https://www.gulfcoastnewsnow.com/article/flying-cars-humanoid-robots-edison-awards-fort-myers/71041841)**
+
+Flying cars and humanoid robots showcased at Edison Awards in Fort Myers.
+
+Gulf Coast News and Weather • 18h ago
+
+---
+
+**[‘World’s first’: AGIBOT G2 humanoid robots run tablet testing on live factory line](https://interestingengineering.com/ai-robotics/agibot-g2-humanoid-robots-live-production-line)**
+
+AGIBOT deploys G2 humanoid robots on a live tablet production line at Longcheer, marking a shift from lab testing to industrial embodied AI use.
+
+Interesting Engineering • 21h ago
 
 ---
 
@@ -160,23 +178,9 @@ Defense One • 1d ago
 
 ---
 
-**[Grab Looks to AI Robots to Deliver Your Meal](https://www.wsj.com/tech/ai/grab-looks-to-ai-robots-to-deliver-your-meal-819caf01)**
-
-WSJ • 1d ago
-
----
-
 **[Robotic legs help elderly Hong Kong fire survivors climb back for belongings](https://www.reuters.com/world/china/robotic-legs-help-elderly-hong-kong-fire-survivors-climb-back-belongings-2026-04-17/)**
 
-Reuters • 14h ago
-
----
-
-**[Should Chicago continue to have delivery robots on city streets? Here's what you told us](https://chicago.suntimes.com/technology/2026/04/17/delivery-robots-chicago-city-streets-what-you-told-us)**
-
-The naysayers don't like the threat to jobs and consider the robots a sidewalk nuisance, while others don't want to stop technological progress and say the robots actually are safer than alternatives.
-
-Chicago Sun-Times • 1h ago
+Reuters • 15h ago
 
 ---
 
@@ -250,7 +254,7 @@ nefirst.org/nedcmp.
 
 📺 New England FIRST
 
-👁️ 8K • ⏱️ 8:15:12 • 9h ago
+👁️ 8K • ⏱️ 8:15:12 • 10h ago
 
 ---
 
