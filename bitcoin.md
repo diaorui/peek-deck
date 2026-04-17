@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-17T13:26:13.845916+00:00'
+updated: '2026-04-17T14:41:51.283143+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
+- cryptocurrency
 - news
 - social
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 17, 2026 at 13:26 UTC  
+**Last Updated:** April 17, 2026 at 14:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $76,870.00
+### $77,734.31
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +4.1%  
-**7d:** +5.2%  
-**30d:** +9.9%  
-**90d:** -18.0%  
-**1y:** -9.0%  
+**24h:** +4.3%  
+**7d:** +6.7%  
+**30d:** +11.4%  
+**90d:** -16.9%  
+**1y:** -7.8%  
 
 ---
 
@@ -77,17 +77,11 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Shipping Containers](https://www.reddit.com/r/Bitcoin/comments/1snkc6n/shipping_containers/)**
+**[Btc](https://www.reddit.com/r/Bitcoin/comments/1so108z/btc/)**
 
-I unload a few shipping containers each month at my job. I usually sign the inside wall like this one I unloaded today. I’ve been doing it for years. If you ever see my note out there in the wild let me know.
+Hahahah trains leaving the station 😂😂 where are all the 30k people at now ?? Unlucky boys. Better luck next time 🤡✌️
 
-13h ago
-
----
-
-**[So we meet again](https://www.reddit.com/r/Bitcoin/comments/1snfwvz/so_we_meet_again/)**
-
-16h ago
+1h ago
 
 ---
 
@@ -95,23 +89,27 @@ I unload a few shipping containers each month at my job. I usually sign the insi
 
 What do you guys think... will it HODL?
 
-19m ago
+1h ago
 
 ---
 
-**[Bitcoin Options Move From Fear to Quiet Confidence](https://www.reddit.com/r/Bitcoin/comments/1snwolh/bitcoin_options_move_from_fear_to_quiet_confidence/)**
+**[Shipping Containers](https://www.reddit.com/r/Bitcoin/comments/1snkc6n/shipping_containers/)**
 
-In early April, Bitcoin’s options market briefly snapped into risk-off mode. : Get all the latest crypto news at Sandmark
+I unload a few shipping containers each month at my job. I usually sign the inside wall like this one I unloaded today. I’ve been doing it for years. If you ever see my note out there in the wild let me know.
 
-🔗 [Sandmark](https://www.sandmark.com/news/analysis/bitcoin-options-move-fear-quiet-confidence) • 3h ago
+15h ago
 
 ---
 
-**[I'm currently buying Bitcoin on Robinhood is this bad?](https://www.reddit.com/r/Bitcoin/comments/1snpc22/im_currently_buying_bitcoin_on_robinhood_is_this/)**
+**[The current situation in one picture](https://www.reddit.com/r/Bitcoin/comments/1so1wy0/the_current_situation_in_one_picture/)**
 
-Should I start buying Bitcoin on another broker account?
+39m ago
 
-10h ago
+---
+
+**[So we meet again](https://www.reddit.com/r/Bitcoin/comments/1snfwvz/so_we_meet_again/)**
+
+17h ago
 
 ---
 
@@ -119,7 +117,31 @@ Should I start buying Bitcoin on another broker account?
 
 Heavy liquidity in the 80s along with 2 cme gaps. If the bulls r really lucky they can hit 90k which has a ton of liquidity. At that point no one will know if we’re back in a bull market. 80s from here is still bullish. This is y u dca and buy the dips. Congrats to those who bought in the 60s. We going moon
 
-3h ago
+5h ago
+
+---
+
+**[Bitcoin Options Move From Fear to Quiet Confidence](https://www.reddit.com/r/Bitcoin/comments/1snwolh/bitcoin_options_move_from_fear_to_quiet_confidence/)**
+
+In early April, Bitcoin’s options market briefly snapped into risk-off mode. : Get all the latest crypto news at Sandmark
+
+🔗 [Sandmark](https://www.sandmark.com/news/analysis/bitcoin-options-move-fear-quiet-confidence) • 4h ago
+
+---
+
+**[What’s one thing about Bitcoin that convinced you it’s here to stay?](https://www.reddit.com/r/Bitcoin/comments/1so2gl9/whats_one_thing_about_bitcoin_that_convinced_you/)**
+
+I've been learning more about Bitcoin lately and curious what clicked for others. What made you believe in it long term?
+
+19m ago
+
+---
+
+**[I'm currently buying Bitcoin on Robinhood is this bad?](https://www.reddit.com/r/Bitcoin/comments/1snpc22/im_currently_buying_bitcoin_on_robinhood_is_this/)**
+
+Should I start buying Bitcoin on another broker account?
+
+11h ago
 
 ---
 
@@ -127,27 +149,7 @@ Heavy liquidity in the 80s along with 2 cme gaps. If the bulls r really lucky th
 
 See you in a couple of hours when it plummets
 
-34m ago
-
----
-
-**[After putting your bitcoin in cold storage](https://www.reddit.com/r/Bitcoin/comments/1sn37ok/after_putting_your_bitcoin_in_cold_storage/)**
-
-1d ago
-
----
-
-**[Revealed](https://www.reddit.com/r/Bitcoin/comments/1sn3jb2/revealed/)**
-
-23h ago
-
----
-
-**[Daily Discussion, April 17, 2026](https://www.reddit.com/r/Bitcoin/comments/1snsfq2/daily_discussion_april_17_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-7h ago
+1h ago
 
 ---
 
@@ -159,37 +161,57 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Charles Schwab is rolling out crypto trading, allowing clients to buy bitcoin and ether through a new arm called Schwab Crypto.
 
-CNBC • 23h ago
+CNBC • 1d ago
 
 ---
 
 **[Bitcoin’s Greatest Mystery](https://www.nytimes.com/2026/04/16/world/bitcoin-satoshi-adam-back-israel-lebanon-ceasefire.html)**
 
-The New York Times • 9h ago
+The New York Times • 10h ago
 
 ---
 
-**[Musk's Father Says Family Holds 23,400 Bitcoin As X Money Due To Go Live This Month](https://finance.yahoo.com/markets/crypto/articles/musks-father-says-family-holds-120114358.html)**
+**[Bitcoin Gains After Iran Foreign Minister Declares Strait of Hormuz Open](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-04-17-2026/card/bitcoin-gains-after-iran-foreign-minister-declares-strait-of-hormuz-open-OmNI2Wf8tld0CaPJtZUO)**
 
-Errol Musk claimed in an interview that his sons Elon and Kimbal Musk hold a combined 23,400 Bitcoin, a stash worth roughly $1.7 billion at current prices around $74,000. The claim has not been independently verified. If accurate, it would...
-
-Yahoo Finance • 1h ago
+WSJ • 27m ago
 
 ---
 
-**[Bitcoin battles $76,000 resistance as traders clash over potential breakout: Crypto Markets Today](https://www.coindesk.com/markets/2026/04/17/bitcoin-stalls-below-usd76-000-as-sell-wall-caps-rally-despite-rising-derivatives-activity)**
+**[Bitcoin price news: BTC eyes sustained breakout above $76,000 on Strait of Hormuz opening](https://www.coindesk.com/markets/2026/04/17/bitcoin-rises-past-usd76-000-aiming-at-major-breakout-as-oil-plunges-on-iran-cooldown)**
 
-The bitcoin price is hovering near a key resistance level with $450 million in sell orders overhead as liquidations surge and derivatives data signal caution.
+Iran's foreign minister said the Strait of Hormuz will remain completely open for the remainder of the ceasefire.
 
-CoinDesk • 2h ago
+CoinDesk • 1h ago
 
 ---
 
-**[Bitcoin outlook still clouded by 'extreme fear' amid macro uncertainty and profit-taking despite rally to $76K, analysts say](https://www.theblock.co/post/397874/bitcoin-outlook-still-clouded-by-extreme-fear-amid-macro-uncertainty-and-profit-taking-despite-rally-to-76k-analysts-say)**
+**[Film Review: “Self Custody” Indie Film About Bitcoin On Amazon Prime](https://bitcoinmagazine.com/culture/film-review-self-custody-indie-film-about-bitcoin-on-amazon-prime)**
 
-Bitcoin climbed toward $76,000 as ETF demand improves and Wall Street hits record highs, but analysts say the rally still looks fragile.
+In the wild west of money, where a forgotten password to your Bitcoin wallet can mean the difference between fortune and ruin, comes the taut 31-minute
 
-The Block • 1h ago
+Bitcoin Magazine • 30m ago
+
+---
+
+**[Tim Draper Accurately Predicted Bitcoin At $10,000 — Now He Has 'Reason To Believe' It Will Go To $250,000 In 18 Months](https://finance.yahoo.com/markets/crypto/articles/tim-draper-accurately-predicted-bitcoin-193102134.html)**
+
+Venture capitalist Tim Draper predicted on Tuesday that Bitcoin will reach $250,000 in 18 months, and potentially higher, owing to inflationary pressures on the dollar. Draper Remains Bullish Draper recalled his accurate 2014 prediction on Fox Business that Bitcoin would...
+
+Yahoo Finance • 19h ago
+
+---
+
+**[Bitcoin 2026 Price Prediction: Why the Dollar, Global Liquidity and Volume Signal More Downside Ahead](https://io-fund.com/crypto/bitcoin-price-prediction-2026-dollar-liquidity-volume-downside)**
+
+In our last Bitcoin analysis, "Bitcoin After the Cycle Peak: What Comes Next and How We're Positioning", we argued that Bitcoin was closer to a cycle low than most believed, even if one final drop remained ahead. Since that publication, the probability of another drop occurring in the coming weeks has increased meaningfully. If it does, it should set up a tradeable bounce within what we believe is an ongoing bear market. What gives us the confidence that we are in a new bear market cycle, rather than a pullback within a larger uptrend, is that Bitcoin continues to track sentiment patterns and global liquidity cycles with remarkable consistency. Recognizing this unconventional correlation has been the foundation of a framework that has filtered out narrative-driven noise and kept us on the right side of every major Bitcoin trend since 2020. These are themes that we first introduced in August of 2025, when Bitcoin was trading at around $115,000.
+
+IO Fund • 1d ago
+
+---
+
+**[Bitcoin’s Fragile Recovery Sets Up a Big Short-Squeeze Risk](https://www.bloomberg.com/news/articles/2026-04-16/bitcoin-s-fragile-recovery-sets-up-a-big-short-squeeze-risk)**
+
+Bloomberg.com • 3h ago
 
 ---
 
@@ -197,37 +219,13 @@ The Block • 1h ago
 
 “Not only gotten away with it, they’ve made a ton of money,” says actor Ben McKenzie, whose doc explores crypto’s crash and Trump-fueled rise.
 
-New York Magazine • 2h ago
+New York Magazine • 3h ago
 
 ---
 
-**[Goldman’s Bitcoin ETF Push Signals Wall Street Taming of Crypto](https://www.bloomberg.com/news/articles/2026-04-15/goldman-s-bitcoin-etf-push-signals-wall-street-taming-of-crypto)**
+**[Former Fed Chair Issues Shock ‘Hyperinflation’ U.S. Dollar Warning—Fueling Huge Bitcoin Price Predictions](https://www.forbes.com/sites/digital-assets/2026/04/16/former-fed-chair-issues-shock-hyperinflation-us-dollar-warning-fueling-huge-bitcoin-price-predictions/)**
 
-Bloomberg.com • 1d ago
-
----
-
-**[The cheapest bitcoin ETF yet: Morgan Stanley uses 0.14% fee to draw $100 million in first week](https://www.coindesk.com/markets/2026/04/16/morgan-stanley-s-bitcoin-etf-reaches-usd100m-in-first-week-marking-the-bank-s-strongest-launch)**
-
-Morgan Stanley’s new MSBT fund has quickly attracted over $100 million by offering the market's lowest fees, sparking a fresh wave of competition from rivals like Goldman Sachs.
-
-CoinDesk • 1d ago
-
----
-
-**[Bitcoin ETFs add $186M as Morgan Stanley's MSBT inflows top $100M in first six trading days](https://www.theblock.co/post/397730/bitcoin-etfs-add-186m-as-morgan-stanleys-msbt-inflows-top-100m-in-first-six-trading-days)**
-
-U.S. spot bitcoin ETFs added $186 million in their second straight day of positive flows, as Morgan Stanley's MSBT topped WisdomTree's fund.
-
-The Block • 23h ago
-
----
-
-**[CEO of bitcoin firm championed by Nigel Farage leaves company](https://www.theguardian.com/politics/2026/apr/16/ceo-of-bitcoin-firm-championed-by-nigel-farage-leaves-company-stack-btc)**
-
-Resignation announced of Jai Patel, whose liquidated crypto firm was relaunched as Stack BTC this year
-
-The Guardian • 1d ago
+Forbes • 1d ago
 
 ---
 
@@ -331,7 +329,7 @@ IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purp
 
 📺 The Kenzo Guy
 
-👁️ 5K • 👍 303 • 💬 14 • ⏱️ 25:48 • 16h ago
+👁️ 5K • 👍 303 • 💬 14 • ⏱️ 25:48 • 17h ago
 
 ---
 
@@ -341,7 +339,7 @@ Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FR
 
 📺 CryptosRUs
 
-👁️ 18K • 👍 967 • 💬 43 • ⏱️ 44:22 • 23h ago
+👁️ 18K • 👍 967 • 💬 43 • ⏱️ 44:22 • 1d ago
 
 ---
 
@@ -351,7 +349,7 @@ In today's Markets Outlook, Bitwise CIO Matt Hougan joins CoinDesk's Jennifer Sa
 
 📺 CoinDesk
 
-👁️ 13K • 👍 340 • 💬 64 • ⏱️ 20:47 • 18h ago
+👁️ 13K • 👍 340 • 💬 64 • ⏱️ 20:47 • 20h ago
 
 ---
 
@@ -381,7 +379,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25%
 
 📺 Crypto Rover
 
-👁️ 8K • 👍 619 • 💬 23 • ⏱️ 9:18 • 7h ago
+👁️ 8K • 👍 619 • 💬 23 • ⏱️ 9:18 • 8h ago
 
 ---
 
@@ -391,7 +389,7 @@ Professor Jiang and Ben McKenzie strike again. Meanwhile, Cardano founder Charle
 
 📺 Paul Barron Network
 
-👁️ 27K • 👍 2K • 💬 182 • ⏱️ 21:01 • 18h ago
+👁️ 27K • 👍 2K • 💬 182 • ⏱️ 21:01 • 19h ago
 
 ---
 
@@ -401,7 +399,7 @@ Bitcoin #Crypto #Finance Bitcoin whales are accumulating at a record pace, scoop
 
 📺 The Wolf Of All Streets
 
-👁️ 14K • 👍 773 • 💬 213 • ⏱️ 34:46 • 23h ago
+👁️ 14K • 👍 773 • 💬 213 • ⏱️ 34:46 • 1d ago
 
 ---
 

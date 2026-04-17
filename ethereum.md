@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-17T13:26:13.851811+00:00'
+updated: '2026-04-17T14:41:51.289059+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
+- cryptocurrency
 - news
 - social
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 17, 2026 at 13:26 UTC  
+**Last Updated:** April 17, 2026 at 14:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,421.27
+### $2,447.56
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +4.9%  
-**7d:** +5.9%  
-**30d:** +13.3%  
-**90d:** -26.3%  
-**1y:** +52.4%  
+**24h:** +4.7%  
+**7d:** +7.2%  
+**30d:** +14.7%  
+**90d:** -25.4%  
+**1y:** +54.2%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
@@ -80,13 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Glamsterdam devnets drive Ethereum’s execution readiness while Hegotá opens the next phase of upgrade proposals & protocol evolution.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-consensus-acdc-call-177/) • 5h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-consensus-acdc-call-177/) • 6h ago
 
 ---
 
 **[PolyApex Telegram Bot That Copies Polymarket Insiders Wallets](https://www.reddit.com/r/ethereum/comments/1so07v3/polyapex_telegram_bot_that_copies_polymarket/)**
 
-28m ago
+1h ago
 
 ---
 
@@ -94,7 +94,7 @@ Glamsterdam devnets drive Ethereum’s execution readiness while Hegotá opens t
 
 Solidity developer survey results, ether.fi migrated to OP Mainnet, X $ETH cashtag
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-mini-0/) • 6h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-mini-0/) • 7h ago
 
 ---
 
@@ -110,7 +110,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/73hHq2ua1ts?si=fwxBRn1_pW7xDziX) • 21h ago
+🔗 [youtu.be](https://youtu.be/73hHq2ua1ts?si=fwxBRn1_pW7xDziX) • 22h ago
 
 ---
 
@@ -154,63 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Quarterly transactions hit 200.4 million in Q1 2026, the first time above 200 million and more than double the 2023 lows.
 
-CoinDesk • 5h ago
-
----
-
-**[Charles Schwab begins rollout of spot bitcoin, ethereum trading platform](https://www.theblock.co/post/397756/charles-schwab-begins-rollout-spot-bitcoin-ethereum-trading-platform)**
-
-The new platform, called Schwab Crypto, will roll out over the coming weeks and will only support bitcoin and ethereum at first.
-
-The Block • 23h ago
-
----
-
-**[Bitcoin and ethereum prices today, Friday, April 17, 2026: Higher prices hold with ceasefire in effect](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-april-17-2026-higher-prices-hold-with-ceasefire-in-effect-114918376.html)**
-
-Bitcoin (BTC-USD) opened at $75,151.99 on Friday, 0.5% higher than Thursday’s opening price of $74,810.87. Ethereum (ETH-USD) opened at $2,348.49 on Friday, down 0.5% from Thursday’s opening price of $2,359.70.
-
-Yahoo Finance • 1h ago
-
----
-
-**[Charles Schwab to launch direct bitcoin, ether trading to compete with Robinhood](https://www.cnbc.com/2026/04/16/charles-schwab-to-launch-direct-bitcoin-ethereum-trading-to-compete-with-robinhood.html)**
-
-Charles Schwab is rolling out crypto trading, allowing clients to buy bitcoin and ether through a new arm called Schwab Crypto.
-
-CNBC • 23h ago
-
----
-
-**[Current price of Ethereum for April 17, 2026](https://fortune.com/article/price-of-ethereum-04-17-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 41m ago
-
----
-
-**[Could Ethereum slip below $2,200 if crypto correction deepens?](https://www.tradingview.com/news/invezz:211690b9e094b:0-could-ethereum-slip-below-2-200-if-crypto-correction-deepens/)**
-
-Ethereum has dropped to the $2,300 region after briefly reclaiming $2,400 on Thursday.The top altcoin has been facing pressure near $2,380, which aligns with a key technical resistance, closing the daily candle below this psychological level.The key resistance level is stuck between the cost basis…
-
-TradingView — Track All Markets • 7h ago
-
----
-
-**[Polkadot-Ethereum Bridge Hack Losses Were 10x Worse Than Reported, Team Admits](https://decrypt.co/364588/polkadot-ethereum-bridge-hack-losses-10x-worse-team-admits)**
-
-Polkadot bridge protocol Hyperbridge said losses from this week's hack were 10x worse than originally reported, tallying about $2.5 million.
-
-Decrypt • 21h ago
-
----
-
-**[Ethereum Foundation exec Josh Stark is stepping down](https://www.theblock.co/post/397777/ethereum-foundation-exec-josh-stark-is-stepping-down)**
-
-The move comes amid ongoing changes at the EF, including a renewed focus on scaling and developing the Ethereum mainnet.
-
-The Block • 21h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -222,9 +166,65 @@ CoinDesk • 2d ago
 
 ---
 
+**[Ethereum Foundation exec Josh Stark is stepping down](https://www.theblock.co/post/397777/ethereum-foundation-exec-josh-stark-is-stepping-down)**
+
+The move comes amid ongoing changes at the EF, including a renewed focus on scaling and developing the Ethereum mainnet.
+
+The Block • 23h ago
+
+---
+
 **[ETH Rangers Program Recap](https://blog.ethereum.org/2026/04/16/eth-rangers-recap)**
 
-Ethereum Foundation Blog • 23h ago
+Ethereum Foundation Blog • 1d ago
+
+---
+
+**[Better Crypto Buy Right Now: Ethereum vs. Solana](https://www.fool.com/investing/2026/04/17/better-crypto-buy-right-now-ethereum-vs-solana/)**
+
+Amid the ongoing cryptocurrency bear market, these two interesting digital assets present investors with possible buy-the-dip opportunities.
+
+The Motley Fool • 48m ago
+
+---
+
+**[XRP Outperforms Bitcoin, Ethereum, and Solana With a 4% Gain: Is the XRP Breakout Starting?](https://finance.yahoo.com/markets/crypto/articles/xrp-outperforms-bitcoin-ethereum-solana-163608207.html)**
+
+XRP (CRYPTO: XRP) is up 4% to $1.41, outperforming Bitcoin, Ethereum, and Solana in a single session—the first time in weeks the token has led the market. The move is being driven by Rakuten Wallet listing XRP yesterday and the SEC’s crypto roundtable happening today, with institutional money moving in behind both catalysts. The only ... XRP Outperforms Bitcoin, Ethereum, and Solana With a 4% Gain: Is the XRP Breakout Starting?
+
+Yahoo Finance • 22h ago
+
+---
+
+**[Better Crypto Buy Right Now: Ethereum vs. Solana](https://www.theglobeandmail.com/investing/markets/stocks/INTC-Q/pressreleases/1367638/better-crypto-buy-right-now-ethereum-vs-solana/)**
+
+Detailed price information for Intel Corp (INTC-Q) from The Globe and Mail including charting and trades.
+
+The Globe and Mail • 47m ago
+
+---
+
+**[Current price of Ethereum for April 17, 2026](https://fortune.com/article/price-of-ethereum-04-17-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 1h ago
+
+---
+
+**[CoinDesk 20 performance update: Ethereum (ETH) price drops 1.3% as index trades lower](https://www.coindesk.com/coindesk-indices/2026/04/16/coindesk-20-performance-update-ethereum-eth-price-drops-1-3-as-index-trades-lower)**
+
+Aave (AAVE), down 1.1% from Wednesday, was also an underperformer.
+
+CoinDesk • 21h ago
+
+---
+
+**[Bitcoin and ethereum prices today, Friday, April 17, 2026: Higher prices hold with ceasefire in effect](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-april-17-2026-higher-prices-hold-with-ceasefire-in-effect-114918376.html)**
+
+Bitcoin (BTC-USD) opened at $75,151.99 on Friday, 0.5% higher than Thursday’s opening price of $74,810.87. Ethereum (ETH-USD) opened at $2,348.49 on Friday, down 0.5% from Thursday’s opening price of $2,359.70.
+
+Yahoo Finance • 2h ago
 
 ---
 
@@ -238,7 +238,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 192 • 👍 13 • ⏱️ 4:53 • 4h ago
+👁️ 192 • 👍 13 • ⏱️ 4:53 • 5h ago
 
 ---
 
@@ -268,7 +268,7 @@ Ethereum is flashing a fractal that mirrors the November 2024 altcoin breakout, 
 
 📺 Crypto Capital Venture
 
-👁️ 8K • 👍 527 • 💬 217 • ⏱️ 11:01 • 23h ago
+👁️ 8K • 👍 527 • 💬 217 • ⏱️ 11:01 • 1d ago
 
 ---
 
@@ -288,7 +288,7 @@ IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purp
 
 📺 The Kenzo Guy
 
-👁️ 5K • 👍 303 • 💬 14 • ⏱️ 25:48 • 16h ago
+👁️ 5K • 👍 303 • 💬 14 • ⏱️ 25:48 • 17h ago
 
 ---
 

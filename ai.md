@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-17T13:26:13.837507+00:00'
+updated: '2026-04-17T14:41:51.274716+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- news
 - repositories
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** April 17, 2026 at 13:26 UTC  
+**Last Updated:** April 17, 2026 at 14:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,43 +37,27 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Opus 4.7 is terrible, and Anthropic has completely dropped the ball](https://www.reddit.com/r/artificial/comments/1so16hr/opus_47_is_terrible_and_anthropic_has_completely/)**
+
+Tried posting this in r/ClaudeAI but it got auto-removed, and I was told to post it in the "Bugs Megathread." Don't really think it should been removed, but whatever, I'll just post it here since I'm sure it's still relevant. Like a lot of people, I switched from ChatGPT to Claude not too long ago during the whole DoW fiasco and Sam Altman “antics.” At first, I was genuinely impressed. I do fairly heavy theoretical math and physics research, and Opus 4.6 was simply the best tool I’d used for synthesizing ideas and working through complex logic. But the last few weeks have been really disappointing, and I’m seriously considering going back to GPT (even though, for personal reasons, I’d really rather not). How many times has Claude been down recently? And why is it that I can ask Claude 4.7 (with adaptive thinking turned on) to work through a detailed proof, and it just spirals “oh wait, that doesn’t work, let me try again” five times in a single response? Yes, there’s a workaround to explicitly tell it to think before answering. But… why is that necessary? I’m paying $20/month. This is supposed to be a top-tier model. Instead, it burns through time, second-guesses itself mid-response, and often fails to land anywhere useful on problems I’m fairly sure 4.6 would have handled more coherently a month ago. And then before I know it I hit the usage limit. I’m a PhD student. I can’t justify spending $100-$200/month on higher tiers. $20 has always been enough for me, and I’ve come to rely on these tools for my research. I expected to stick with Claude long-term, but the recent instability and drop in reliability make it hard to justify paying for it out of pocket. It’s frustrating to feel pushed toward a competitor because of this. But at a certain point, the usability of the product has to come first. Really disappointing.
+
+1h ago
+
+---
+
 **[Reese Witherspoon Doubles Down on Telling Women to Learn AI: Jobs We Hold Are "Three Times More Likely to Be Automated By AI"](https://www.reddit.com/r/artificial/comments/1snqqjo/reese_witherspoon_doubles_down_on_telling_women/)**
 
 Reese Witherspoon is again advising her followers that there's no time like the present to start learning about and using artificial intelligence.
 
-🔗 [Variety](https://variety.com/2026/tv/news/reese-witherspoon-ai-jobs-women-1236723992/) • 8h ago
+🔗 [Variety](https://variety.com/2026/tv/news/reese-witherspoon-ai-jobs-women-1236723992/) • 10h ago
 
 ---
 
-**[I built a small project to organize AI coding tools, looking for feedback on the structure and data model](https://www.reddit.com/r/artificial/comments/1snxdjk/i_built_a_small_project_to_organize_ai_coding/)**
+**[What happens when people can leave AI versions of themselves in real-world locations?](https://www.reddit.com/r/artificial/comments/1so1aor/what_happens_when_people_can_leave_ai_versions_of/)**
 
-Hi everyone, I’ve been learning by building a small web app that collects and organizes AI coding tools in one place. The idea is to make it easier to compare tools like code editors, coding assistants, and terminal-based agents based on what they do, who they’re for, and how they differ, and I have also decided to make it completely free for use. I’m not trying to sell anything, I’m mainly using it as a learning project to practice: building a searchable directory, structuring data for lots of similar items, designing a unique UI for comparison, and deciding what information is actually useful to show first. I’d love feedback on the project from a learning perspective: What data fields would be most useful in a directory like this? What makes a tool comparison page actually helpful? If you’ve built something similar, what architecture or stack choices worked well? The whole thing was coded in Next.js + Tailwind. The book shelf UI took way longer to properly design as i wanted to make it as unique as possible ( most websites nowadays are boring ) I’m also happy to share what I’ve built so far if that would be useful, Tolop
+I’ve been experimenting with placing interactive AI versions of a person in physical locations so others can walk up and talk to them. It raises interesting questions about presence, memory, and identity especially when tied to real places instead of just online profiles. Curious how people here think this could evolve.
 
-2h ago
-
----
-
-**[Agentic OS — an governed multi-agent execution platform](https://www.reddit.com/r/artificial/comments/1so03op/agentic_os_an_governed_multiagent_execution/)**
-
-I've been building a system where multiple AI agents execute structured work under explicit governance rules. Sharing it because the architecture might be interesting to people building multi-agent systems. What it does: You set a goal. A coordinator agent decomposes it into tasks. Specialized agents (developer, designer, QA, etc.) execute through controlled tool access, collaborate via explicit handoffs, and produce artifacts. QA agents validate outputs. Escalations surface for human approval. What's different from CrewAI/AutoGen/LangGraph: The focus isn't on the agent — it's on the governance and execution layer around the agent. Tool calls go through an MCP gateway with per-role permission checks and audit logging Zero shared mutable state between agents — collaboration through structured handoffs only Policy engine with configurable approval workflows (proceed/block/timeout-with-default) Append-only task versioning — every modification creates a new version with author and reason Built-in evaluation engine that scores tasks on quality, iterations, latency, cost, and policy compliance Agent reputation scoring with a weighted formula (QA pass rate, iteration efficiency, latency, cost, reliability) Architecture: 5 layers with strict boundaries — frontend (visualization only), API gateway (auth/RBAC), orchestration engine (24 modules), agent runtime (role-based, no direct tool access), MCP gateway (the only path to tools). Stack: React + TypeScript, FastAPI, SQLite WAL, pluggable LLM providers (OpenAI, Anthropic, Azure), MCP protocol. Configurable: Different team presets (software, marketing, custom), operating models with different governance rules, pluggable LLM backends, reusable skills, and MCP-backed integrations. please guys, I would love to get your feedback on this and tell me if this is interesting for you to use
-
-33m ago
-
----
-
-**[Qwen 3.6-35B - A3B Opensource Launched.](https://www.reddit.com/r/artificial/comments/1sn4wcs/qwen_3635b_a3b_opensource_launched/)**
-
-⚡ Meet Qwen3.6-35B-A3B：Now Open-Source！🚀🚀 A sparse MoE model, 35B total params, 3B active. Apache 2.0 license. 🔥 Agentic coding on par with models 10x its active size 📷 Strong multimodal perception and reasoning ability 🧠 Multimodal thinking + non-thinking modes Efficient. Powerful. Versatile. Try it now👇 Qwen Studio：chat.qwen.ai HuggingFace：https://huggingface.co/Qwen/Qwen3.6-35B-A3B
-
-23h ago
-
----
-
-**[Reported ban on ‘sex robots’ by online platform fuels debate on AI boundaries and content moderation](https://www.reddit.com/r/artificial/comments/1snvbe7/reported_ban_on_sex_robots_by_online_platform/)**
-
-This kind of emotional manipulation around AI and adult tech is starting to feel like a real issue. If platforms are stepping in, it raises questions about where the line should be drawn between innovation and exploitation. What do you guys think??
-
-🔗 [Daily Star](https://www.dailystar.co.uk/news/latest-news/online-platform-bans-sex-robots-37025373) • 4h ago
+1h ago
 
 ---
 
@@ -81,7 +65,47 @@ This kind of emotional manipulation around AI and adult tech is starting to feel
 
 I've been building a system where multiple AI agents execute structured work under explicit governance rules. Sharing it because the architecture might be interesting to people building multi-agent systems. What it does: You set a goal. A coordinator agent decomposes it into tasks. Specialized agents (developer, designer, QA, etc.) execute through controlled tool access, collaborate via explicit handoffs, and produce artifacts. QA agents validate outputs. Escalations surface for human approval. What's different from CrewAI/AutoGen/LangGraph: The focus isn't on the agent — it's on the governance and execution layer around the agent. Tool calls go through an MCP gateway with per-role permission checks and audit logging Zero shared mutable state between agents — collaboration through structured handoffs only Policy engine with configurable approval workflows (proceed/block/timeout-with-default) Append-only task versioning — every modification creates a new version with author and reason Built-in evaluation engine that scores tasks on quality, iterations, latency, cost, and policy compliance Agent reputation scoring with a weighted formula (QA pass rate, iteration efficiency, latency, cost, reliability) Architecture: 5 layers with strict boundaries — frontend (visualization only), API gateway (auth/RBAC), orchestration engine (24 modules), agent runtime (role-based, no direct tool access), MCP gateway (the only path to tools). Stack: React + TypeScript, FastAPI, SQLite WAL, pluggable LLM providers (OpenAI, Anthropic, Azure), MCP protocol. Configurable: Different team presets (software, marketing, custom), operating models with different governance rules, pluggable LLM backends, reusable skills, and MCP-backed integrations. agenticompanies.com please guys, I would love to get your feedback on this and tell me if this is interesting for you to use you can register with email/passoword to view the platform but if you want to operate agentsession I need to send you an invitation code. please feel free to DM me for an invitation code you would also need to use your Anthropic or OpenAI API key to operate then engines Thanks
 
-54m ago
+2h ago
+
+---
+
+**[I built a small project to organize AI coding tools, looking for feedback on the structure and data model](https://www.reddit.com/r/artificial/comments/1snxdjk/i_built_a_small_project_to_organize_ai_coding/)**
+
+Hi everyone, I’ve been learning by building a small web app that collects and organizes AI coding tools in one place. The idea is to make it easier to compare tools like code editors, coding assistants, and terminal-based agents based on what they do, who they’re for, and how they differ, and I have also decided to make it completely free for use. I’m not trying to sell anything, I’m mainly using it as a learning project to practice: building a searchable directory, structuring data for lots of similar items, designing a unique UI for comparison, and deciding what information is actually useful to show first. I’d love feedback on the project from a learning perspective: What data fields would be most useful in a directory like this? What makes a tool comparison page actually helpful? If you’ve built something similar, what architecture or stack choices worked well? The whole thing was coded in Next.js + Tailwind. The book shelf UI took way longer to properly design as i wanted to make it as unique as possible ( most websites nowadays are boring ) I’m also happy to share what I’ve built so far if that would be useful, Tolop
+
+3h ago
+
+---
+
+**[Reported ban on ‘sex robots’ by online platform fuels debate on AI boundaries and content moderation](https://www.reddit.com/r/artificial/comments/1snvbe7/reported_ban_on_sex_robots_by_online_platform/)**
+
+This kind of emotional manipulation around AI and adult tech is starting to feel like a real issue. If platforms are stepping in, it raises questions about where the line should be drawn between innovation and exploitation. What do you guys think??
+
+🔗 [Daily Star](https://www.dailystar.co.uk/news/latest-news/online-platform-bans-sex-robots-37025373) • 5h ago
+
+---
+
+**[Scaling an AI agent without making it dumber [Attention scoping pattern]](https://www.reddit.com/r/artificial/comments/1so2xsx/scaling_an_ai_agent_without_making_it_dumber/)**
+
+https://preview.redd.it/500j2iepd7vg1.png?width=3280&format=png&auto=webp&s=ab2003c63d2dce1c80bdda6acefaae1bcd92224b I wrote about how I scaled a single AI agent to 53 tools across five different product contexts in one chat window. The first two architectures failed under real conversations. The one that worked was unexpectedly simple: scope which tools the model sees per turn based on the user’s current intent instead of exposing all 53 tools at once. This post covers: - The two failed approaches (and why they broke) - The middleware pattern that actually worked - A three layer system prompt structure that made it reliable Read the full post: https://medium.com/@breezenik/scaling-an-ai-agent-to-53-tools-without-making-it-dumber-8bd44328ccd4 checkout the pattern with the quick demo on Github - https://github.com/breeznik/attention-scoping-pattern
+
+1m ago
+
+---
+
+**[Agentic OS — an governed multi-agent execution platform](https://www.reddit.com/r/artificial/comments/1so03op/agentic_os_an_governed_multiagent_execution/)**
+
+I've been building a system where multiple AI agents execute structured work under explicit governance rules. Sharing it because the architecture might be interesting to people building multi-agent systems. What it does: You set a goal. A coordinator agent decomposes it into tasks. Specialized agents (developer, designer, QA, etc.) execute through controlled tool access, collaborate via explicit handoffs, and produce artifacts. QA agents validate outputs. Escalations surface for human approval. What's different from CrewAI/AutoGen/LangGraph: The focus isn't on the agent — it's on the governance and execution layer around the agent. Tool calls go through an MCP gateway with per-role permission checks and audit logging Zero shared mutable state between agents — collaboration through structured handoffs only Policy engine with configurable approval workflows (proceed/block/timeout-with-default) Append-only task versioning — every modification creates a new version with author and reason Built-in evaluation engine that scores tasks on quality, iterations, latency, cost, and policy compliance Agent reputation scoring with a weighted formula (QA pass rate, iteration efficiency, latency, cost, reliability) Architecture: 5 layers with strict boundaries — frontend (visualization only), API gateway (auth/RBAC), orchestration engine (24 modules), agent runtime (role-based, no direct tool access), MCP gateway (the only path to tools). Stack: React + TypeScript, FastAPI, SQLite WAL, pluggable LLM providers (OpenAI, Anthropic, Azure), MCP protocol. Configurable: Different team presets (software, marketing, custom), operating models with different governance rules, pluggable LLM backends, reusable skills, and MCP-backed integrations. please guys, I would love to get your feedback on this and tell me if this is interesting for you to use
+
+1h ago
+
+---
+
+**[Qwen 3.6-35B - A3B Opensource Launched.](https://www.reddit.com/r/artificial/comments/1sn4wcs/qwen_3635b_a3b_opensource_launched/)**
+
+⚡ Meet Qwen3.6-35B-A3B：Now Open-Source！🚀🚀 A sparse MoE model, 35B total params, 3B active. Apache 2.0 license. 🔥 Agentic coding on par with models 10x its active size 📷 Strong multimodal perception and reasoning ability 🧠 Multimodal thinking + non-thinking modes Efficient. Powerful. Versatile. Try it now👇 Qwen Studio：chat.qwen.ai HuggingFace：https://huggingface.co/Qwen/Qwen3.6-35B-A3B
+
+1d ago
 
 ---
 
@@ -89,31 +113,7 @@ I've been building a system where multiple AI agents execute structured work und
 
 https://www.hardresetmedia.com/p/peter-thiel-backed-ai-startup-objection This so funny. Whole company is DOA. They’re saying that the reporter has to preemptively sign the protection agreement in order for the subject to later file a complaint, and the whole tool doesn't work if the reporter doesn't sign it. No reporter is going to sign up for this! From that article: "Put another way, D’Souza is asking journalists to preemptively agree to the possibility of financial penalties set forth by an AI tribunal and/or the guy who helped bankrupt Gawker—all in exchange for an on-the-record interview with someone who is indicating they are paranoid and hoping to pick a fight. No journalist will ever, ever, ever agree to this arrangement. In the real, non-hypothetical world, if I reach out to a source for an interview and they send me back an arbitration agreement from a Peter Thiel-funded website, my response will be, “What?” Then I will say, “That’s not how this stuff works. Do you want to do an interview or not?” Assuming they reiterate their desire to only speak with me if I agree to Objection Protection, I will instead write my story, report on our odd back-and-forth, reach out one more time prior to publication, and note that they declined comment."
 
-15h ago
-
----
-
-**[Man used AI to make false statements to shut down London nightclub, police say | AI (artificial intelligence) | The Guardian](https://www.reddit.com/r/artificial/comments/1snurvq/man_used_ai_to_make_false_statements_to_shut_down/)**
-
-Heaven club neighbour admits offences under Licensing Act, as Met says fictitious AI-generated complaints a growing issue
-
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/apr/16/man-pleads-guilty-false-statements-shut-down-london-nightclub-heaven) • 5h ago
-
----
-
-**[OpenAI went from explicitly banning military use in 2023 to deploying on classified Pentagon networks in 2026. Anthropic refused the same deal and got blacklisted. 2.5M users boycotted ChatGPT, uninstalls surged 295%.](https://www.reddit.com/r/artificial/comments/1snig9g/openai_went_from_explicitly_banning_military_use/)**
-
-https://preview.redd.it/g72g8g08omvg1.jpg?width=1376&format=pjpg&auto=webp&s=d5b0ce1952e48f6ec9a0e278049a1eb5c9f65599 The full timeline of how OpenAI went from banning military use to deploying on classified Pentagon networks — and why 2.5 million people boycotted. **The backstory:** - Pentagon wanted AI companies to agree to "any lawful use" on classified networks - Anthropic CEO Dario Amodei refused — specifically citing mass surveillance and autonomous weapons - Trump ordered all federal agencies to stop using Anthropic within 6 months - Defense Secretary Hegseth designated Anthropic a "supply-chain risk" (normally reserved for foreign adversaries) - Hours later, OpenAI signed the deal **The backlash:** - #QuitGPT went viral — 2.5M users boycotted/cancelled - ChatGPT uninstalls surged 295% overnight - US downloads dropped 13% - Claude hit #1 on the US App Store (first time ever) - OpenAI's robotics lead Caitlin Kalinowski resigned - Altman admitted it "appeared opportunistic and haphazard" **What the contract says (after amendments):** - Prohibits domestic surveillance of US citizens - Bans tracking via commercially acquired personal data - Excludes NSA without separate agreement - Allows "all lawful purposes" on classified networks - Allows intelligence activities under Patriot Act, FISA, EO 12333 **What critics say:** - Full contract hasn't been released - "Intentional" surveillance ban doesn't cover incidental collection - "Any lawful use" is broad — laws can change, DoD can modify its own policies - Former DOJ attorney: "There is nothing OpenAI can do to clarify this except release the contract" **The reversal:** - 2023: OpenAI explicitly banned military use - January 2024: Ban quietly removed - February 2026: Deployed on classified Pentagon networks Full breakdown → https://synvoya.com/blog/2026-04-17-quitgpt-openai-pentagon-deal/ Do you think the contract safeguards are real protections or PR cover?
-
-15h ago
-
----
-
-**[Live now: watching AI agents spend money in real time](https://www.reddit.com/r/artificial/comments/1snjr09/live_now_watching_ai_agents_spend_money_in_real/)**
-
-I kept seeing "agentic payments" in every AI newsletter but couldn't picture what it actually looked like. Like, agents are buying compute, APIs, data — but what does that look like at scale? So I built a page that shows every x402 transaction live. https://wtfareagentsbuying.com/ No mocks. No simulation. Actual agents, actually purchasing things, in real time. You just watch. Running it on a second monitor has been weirdly addictive. Kind of a lava lamp for the AI economy.
-
-14h ago
+16h ago
 
 ---
 
@@ -125,23 +125,23 @@ I kept seeing "agentic payments" in every AI newsletter but couldn't picture wha
 
 Experts say Mythos potentially has an unprecedented ability to identify and exploit cybersecurity weaknesses.
 
-BBC • 3h ago
+BBC • 4h ago
 
 ---
 
-**[Finance leaders warn over Mythos as UK banks prepare to use powerful Anthropic AI tool](https://www.theguardian.com/technology/2026/apr/17/finance-leaders-warn-over-claude-mythos-as-uk-banks-prepare-to-use-powerful-anthropic-ai-tool)**
+**[Anthropic rolls out Claude Opus 4.7, an AI model that is less risky than Mythos](https://www.cnbc.com/2026/04/16/anthropic-claude-opus-4-7-model-mythos.html)**
 
-Release of new Claude model, so far limited to US firms, will expand to British institutions in coming days
+Claude Mythos Preview is Anthropic's most powerful AI model that excels at identifying weaknesses and security flaws within software.
 
-The Guardian • 5h ago
+CNBC • 1d ago
 
 ---
 
-**[Anthropic discussing AI models, including cybersecurity ones, with EU](https://seekingalpha.com/news/4576081-anthropic-discussing-ai-models-including-cybersecurity-ones-with-eu)**
+**[Anthropic unveils Claude Opus 4.7 after concerns about its Mythos AI](https://finance.yahoo.com/video/anthropic-unveils-claude-opus-47-after-concerns-about-its-mythos-ai-140000289.html)**
 
-Anthropic ​is in discussion ‌with the European Commission for its different models, ​including its cyber​security ones, which are ⁠not yet available ​in the EU.
+Anthropic (ANTH.PVT) has released its new Claude model, Opus 4.7, after the private developer expressed deep concerns and cyber risks its new Mythos AI could present. Morning Brief Host Julie Hyman and Yahoo Finance Head of News Myles Udland report on how Anthropic's latest Claude variants are competing with OpenAI's ChatGPT (OPAI.PVT).
 
-Seeking Alpha • 1h ago
+Yahoo Finance • 41m ago
 
 ---
 
@@ -149,53 +149,53 @@ Seeking Alpha • 1h ago
 
 The short course provides solid basics for using AI. But it also misidentifies AI products, links out to bad advice and raises ethical concerns about the products it promotes
 
-NPR • 4h ago
+NPR • 5h ago
 
 ---
 
-**[Netflix plans to add a vertical video feed, use AI for recommendations](https://techcrunch.com/2026/04/17/netflix-plans-to-add-a-vertical-video-feed-use-ai-for-recommendations/)**
+**[Struggling shoe retailer Allbirds makes bizarre pivot to AI, adds $127 million in value](https://www.cnbc.com/2026/04/15/allbirds-bird-stock-shoes-ai.html)**
 
-Netflix is going to launch a TikTok-like vertical video feed within its apps this month, and plans to use AI broadly for content creation and recommendations.
+Allbirds announced a deal with American Exchange Group to sell its intellectual property and other assets for $39 million in March.
 
-TechCrunch • 8m ago
-
----
-
-**[Canva relaunches as AI-first platform with new agentic tools](https://qz.com/canva-ai-relaunch-conversational-agentic-design-tools-041726)**
-
-The $42 billion design startup is replacing its template-based approach with AI agents that respond to natural language prompts
-
-qz.com • 1h ago
+CNBC • 2d ago
 
 ---
 
-**[Is Mark Zuckerberg's Meta AI getting too smart?](https://www.foxnews.com/tech/mark-zuckerbergs-meta-ai-getting-smart)**
+**[Allbirds stock on track for 400% gain this week as shoemaker pivots to AI](https://finance.yahoo.com/news/allbirds-stock-on-track-for-400-gain-this-week-as-shoemaker-pivots-to-ai-133721433.html)**
 
-Meta's new Muse Spark AI model powers multimodal image recognition, parallel task handling and a dedicated shopping mode across its apps and AI glasses.
+Allbirds is getting out of the sustainable sneaker business and into the AI business.
 
-Fox News • 46m ago
-
----
-
-**[A Family Feud at an Oregon Winery Turns to Vinegar Over A.I. Slop](https://www.nytimes.com/2026/04/17/us/oregon-winery-ai-legal-fight.html)**
-
-The New York Times • 4h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Nvidia rival tells CNBC it's seeking at least $100 million in funding as European AI chip market booms](https://www.cnbc.com/2026/04/17/nvidia-rivals-chip-market-funding-ai-asml-euclyd.html)**
+**[The Tyranny of AI Everywhere](https://www.theatlantic.com/newsletters/2026/04/ai-everywhere-allbirds-sneakers/686833/)**
 
-Investor interest for AI chip startups is rising, but big challenges remain for the nascent sector.
+Sneakers? Why stop there?
 
-CNBC • 6h ago
+The Atlantic • 18h ago
 
 ---
 
-**[Codex for (almost) everything](https://openai.com/index/codex-for-almost-everything/)**
+**[Donald Trump Shares ANOTHER AI Jesus Christ Photo Amid Backlash: ‘I Think It Is Quite Nice’](https://www.yahoo.com/news/articles/donald-trump-shares-another-ai-141649927.html)**
 
-The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows.
+Why does the President’s latest post have people enraged? The post Donald Trump Shares ANOTHER AI Jesus Christ Photo Amid Backlash: ‘I Think It Is Quite Nice’ appeared first on Reality Tea.
 
-OpenAI • 22h ago
+Yahoo • 1d ago
+
+---
+
+**[House Republican says Trump ‘almost a second coming’ amid backlash over AI Jesus posts](https://thehill.com/homenews/administration/5836189-house-gop-troy-nehls-donald-trump-ai-jesus-post/)**
+
+The Hill • 32m ago
+
+---
+
+**[Franklin Graham defends Trump in letter shared on Truth Social after AI ‘Jesus’ image backlash](https://www.foxnews.com/politics/franklin-graham-defends-trump-letter-shared-truth-social-ai-jesus-image-backlash)**
+
+Rev. Franklin Graham defended Trump over an AI-generated image controversy, saying the president thought it depicted a doctor helping someone, not Jesus.
+
+Fox News • 13h ago
 
 ---
 
@@ -203,17 +203,17 @@ OpenAI • 22h ago
 
 ## HackerNews: "ai"
 
-**[Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference](https://news.ycombinator.com/item?id=47774971)**
-
-⬆️ 294 • 💬 182 • 2d ago • [gizmoweek.com](https://www.gizmoweek.com/gemma-4-runs-iphone/)
-
----
-
 **[Cloudflare's AI Platform: an inference layer designed for agents](https://news.ycombinator.com/item?id=47792538)**
 
 We're building AI Gateway into a unified inference layer for AI, letting developers call models from 14+ providers. New features include Workers AI binding integration and an expanded catalog with multimodal models.
 
-⬆️ 294 • 💬 75 • 1d ago • [The Cloudflare Blog](https://blog.cloudflare.com/ai-platform/)
+⬆️ 300 • 💬 78 • 1d ago • [The Cloudflare Blog](https://blog.cloudflare.com/ai-platform/)
+
+---
+
+**[Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference](https://news.ycombinator.com/item?id=47774971)**
+
+⬆️ 294 • 💬 182 • 2d ago • [gizmoweek.com](https://www.gizmoweek.com/gemma-4-runs-iphone/)
 
 ---
 
@@ -229,7 +229,7 @@ Check if Claude AI is down right now. Real-time status monitoring, uptime histor
 
 Does AI-assisted cognition threaten human development? Explore the risks of AI-assisted thinking and learn strategies to use AI tools without freezing your critical thinking.
 
-⬆️ 227 • 💬 186 • 1d ago • [heidenstedt.org](https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/)
+⬆️ 227 • 💬 187 • 1d ago • [heidenstedt.org](https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/)
 
 ---
 
@@ -243,7 +243,7 @@ Does AI-assisted cognition threaten human development? Explore the risks of AI-a
 
 Hardware hacker’s flying probe automation stack for agent-driven   target discovery, microscope mapping, safety-monitored CNC motion, probe review, and   controlled pin probing. - GainSec/AutoProber
 
-⬆️ 203 • 💬 40 • 15h ago • [GitHub](https://github.com/gainsec/autoprober)
+⬆️ 206 • 💬 40 • 16h ago • [GitHub](https://github.com/gainsec/autoprober)
 
 ---
 
@@ -251,7 +251,7 @@ Hardware hacker’s flying probe automation stack for agent-driven   target disc
 
 We signed a 3 year lease and gave it to an AI
 
-⬆️ 195 • 💬 274 • 22h ago • [andonlabs.com](https://andonlabs.com/blog/andon-market-launch)
+⬆️ 195 • 💬 274 • 23h ago • [andonlabs.com](https://andonlabs.com/blog/andon-market-launch)
 
 ---
 
@@ -265,7 +265,7 @@ Skills in Chrome let you discover, save and remix AI workflows — and repeat th
 
 **[US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]](https://news.ycombinator.com/item?id=47778920)**
 
-⬆️ 185 • 💬 135 • 1d ago • [fingfx.thomsonreuters.com](https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf)
+⬆️ 185 • 💬 135 • 2d ago • [fingfx.thomsonreuters.com](https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf)
 
 ---
 
@@ -295,7 +295,7 @@ The first clips from “As Deep as the Grave” feature an AI-generated version 
 
 📺 NBC News
 
-👁️ 5K • 👍 61 • 💬 28 • ⏱️ 1:43 • 13h ago
+👁️ 5K • 👍 61 • 💬 28 • ⏱️ 1:43 • 14h ago
 
 ---
 
@@ -305,7 +305,7 @@ Really American host Steve Harness breaks down more HILARIOUS AI Trump parodies 
 
 📺 Really American
 
-👁️ 464K • 👍 30K • 💬 2K • ⏱️ 12:33 • 13h ago
+👁️ 464K • 👍 30K • 💬 2K • ⏱️ 12:33 • 15h ago
 
 ---
 
@@ -335,7 +335,7 @@ Let's build an online business, together, LIVE in 5 days using AI (Starting Apri
 
 📺 Iman Gadzhi
 
-👁️ 40K • 👍 2K • 💬 68 • ⏱️ 27:46 • 21h ago
+👁️ 40K • 👍 2K • 💬 68 • ⏱️ 27:46 • 22h ago
 
 ---
 
@@ -345,7 +345,7 @@ How To ACTUALLY Make Money With AI Video Best AI Tool to get started https://hig
 
 📺 Dan Kieft
 
-👁️ 11K • 💬 10 • ⏱️ 14:35 • 5h ago
+👁️ 11K • 💬 10 • ⏱️ 14:35 • 6h ago
 
 ---
 
@@ -355,7 +355,7 @@ Learn How To Make Realistic AI Video with these 6 prompts Try Higgsfield AI ✨h
 
 📺 Skai Generated
 
-👁️ 10K • ⏱️ 14:12 • 20h ago
+👁️ 10K • ⏱️ 14:12 • 21h ago
 
 ---
 
@@ -365,7 +365,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 10K • 👍 701 • 💬 80 • ⏱️ 9:41 • 22h ago
+👁️ 10K • 👍 701 • 💬 80 • ⏱️ 9:41 • 23h ago
 
 ---
 
@@ -375,7 +375,7 @@ DOWNLOAD THE CANVA CREATE 2026 FEATURE DECK: https://teamrondi.mykajabi.com/canv
 
 📺 Design with Canva
 
-👁️ 9K • 👍 643 • 💬 121 • ⏱️ 21:02 • 20h ago
+👁️ 9K • 👍 643 • 💬 121 • ⏱️ 21:02 • 21h ago
 
 ---
 
@@ -391,7 +391,7 @@ MiniMax-M2.7 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 188,737 • ❤️ 903 • 3h ago
+⬇️ 188,737 • ❤️ 903 • 4h ago
 
 ---
 
@@ -439,7 +439,7 @@ ERNIE-Image is a 8B parameter text-to-image diffusion model excelling in complex
 
 `text-to-image`
 
-⬇️ 2,254 • ❤️ 406 • 10h ago
+⬇️ 2,254 • ❤️ 406 • 12h ago
 
 ---
 
@@ -463,7 +463,7 @@ A fast, uncensored GGUF text generation model based on Google's Gemma 4-26B, opt
 
 `text-generation` `25.2B`
 
-⬇️ 53,781 • ❤️ 368 • 4d ago
+⬇️ 53,781 • ❤️ 368 • 5d ago
 
 ---
 
@@ -487,7 +487,7 @@ Gemma-4-31B-JANG_4M-CRACK is a 31B parameter text-generation model optimized for
 
 `image-text-to-text` `6.4B`
 
-⬇️ 152,762 • ❤️ 1,251 • 12h ago
+⬇️ 152,762 • ❤️ 1,251 • 13h ago
 
 ---
 
@@ -499,7 +499,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with vision capabilitie
 
 `image-text-to-text` `34.7B`
 
-⬇️ 153,019 • ❤️ 289 • 20h ago
+⬇️ 153,019 • ❤️ 289 • 22h ago
 
 ---
 
@@ -646,7 +646,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 47.4k • 🔱 6.2k • 5h ago
+⭐ 47.4k • 🔱 6.2k • 6h ago
 
 ---
 
@@ -676,7 +676,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 28.8k • 🔱 3.2k • 1h ago
+⭐ 28.8k • 🔱 3.2k • 2h ago
 
 ---
 
@@ -686,7 +686,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 8.1k • 🔱 518 • 36m ago
+⭐ 8.1k • 🔱 518 • 1h ago
 
 ---
 
@@ -726,7 +726,7 @@ The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interac
 
 `Swift` `apple-intelligence` `apple-silicon` `cli` `foundationmodels` `homebrew`
 
-⭐ 4.7k • 🔱 181 • 5h ago
+⭐ 4.7k • 🔱 181 • 6h ago
 
 ---
 
