@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-17T20:46:00.721471+00:00'
+updated: '2026-04-17T21:42:21.340283+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 17, 2026 at 20:46 UTC  
+**Last Updated:** April 17, 2026 at 21:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[The race ended before it got even started for this robot](https://www.reddit.com/r/robotics/comments/1so68c6/the_race_ended_before_it_got_even_started_for/)**
 
-4h ago
+5h ago
 
 ---
 
 **[H1 accelerating - jogging to running](https://www.reddit.com/r/robotics/comments/1snz9fk/h1_accelerating_jogging_to_running/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -48,13 +48,13 @@ Robotics research and industry news
 
 From Physical Intelligence on 𝕏 (thread): https://x.com/physical_int/status/2044841263254638862 Blog post with multiple videos/demos: https://www.pi.website/blog/pi07 TechCrunch: Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught: https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/
 
-10h ago
+11h ago
 
 ---
 
 **[3D printed monster motor that lifts + 15kg!](https://www.reddit.com/r/robotics/comments/1so1mv7/3d_printed_monster_motor_that_lifts_15kg/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -62,7 +62,7 @@ From Physical Intelligence on 𝕏 (thread): https://x.com/physical_int/status/2
 
 upgraded our robot: added a shell, cameras, onboard compute, basically everything it was missing. way heavier and way more complex now. got it doing continuous autonomous stair jumping in sim. no human input, policy decides everything on its own. but most of what we had working on the old rabbit bot just didn't carry over, had to retrain almost everything. still haven't gotten it to jump on the real robot yet, that's the next battle. right now we're deep in logs and calibration trying to close the gap. the usual lol btw we've been reading through all the questions you guys left on our previous posts, a lot of really good ones about sim2real, reward shaping, training workflow, etc. since RL questions came up the most, we're drafting with a writeup on that, sharing what we've learned and the mistakes we made along the way lol. should be up on r/MondoRobotics in a few days. not limited to RL though, if there's anything else you've been curious about, drop it in the comments. we'll try to cover what we can.
 
-6h ago
+7h ago
 
 ---
 
@@ -70,7 +70,7 @@ upgraded our robot: added a shell, cameras, onboard compute, basically everythin
 
 I tried to do a quadruped robot using cheap servos (MG90S), normal batteries and wood structure. I think that it could be built with less than R$200,00 (U$40,00 at conversion). The name of the project is Guara Nano. I used ESP32, 8x MG90S servos (chinese version), 4x Batteries 1,5V, MPU6050 and PCA9685. I cannot supply ESP32 with these batteries because of drop voltage, so I used micro-USB cable. I did two gaits that work, walk and trot, with control of velocity and height control. It can turn too, using side traction and go back. I also did a simple proportional control but I didn't tested too much. The code and process to build will be open-source, now I'm working on documentation and I'll post here soon. I would appreciate tips and suggestions for improvement, and perhaps some other similar works, not just the ones you find on Google, as I've already looked at all of them.
 
-22h ago
+23h ago
 
 ---
 
@@ -98,7 +98,7 @@ From The Humanoid Hub on 𝕏: https://x.com/TheHumanoidHub/status/2044504579480
 
 ROS News for the Week of April 13th, 2026              ROSCon Turkey is go and ROSCon JP just dropped a fantastic logo for 2026. This week we also announced our next Gazebo Community Meeting. Most importantly, the deadline for ROSCon talk submissions is just nine days away! All of our upcoming ROS and robotics events are listed in the events section below.      Our Physical AI Special Interest Group has been killing it lately.  @dmitri_manajev just released an interactive inverse kinematics solv...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-april-13th-2026/54127) • 1h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-april-13th-2026/54127) • 2h ago
 
 ---
 
@@ -126,7 +126,7 @@ Google DeepMind • 3d ago
 
 Meet the Center Point-Urbana Robotics Team as they gear up for the Michiana Premier Event this June, competing against 95 teams from around the world!
 
-KCRG • 3h ago
+KCRG • 4h ago
 
 ---
 
@@ -134,7 +134,7 @@ KCRG • 3h ago
 
 Tech firms aim to trigger a robot revolution with video of humans doing housework. Gig workers are paid up to $25 an hour to film themselves doing various tasks.
 
-The Washington Post • 4h ago
+The Washington Post • 5h ago
 
 ---
 
@@ -148,13 +148,13 @@ IEEE Spectrum • 1d ago
 
 **[Nvidia Alum Rides China’s Robotics Wave to 187% Debut Pop](https://www.bloomberg.com/news/articles/2026-04-16/nvidia-alum-rides-china-s-robotics-wave-to-150-million-debut)**
 
-Bloomberg.com • 18h ago
+Bloomberg.com • 19h ago
 
 ---
 
 **[Robotic legs help elderly Hong Kong fire survivors climb back for belongings](https://www.reuters.com/world/china/robotic-legs-help-elderly-hong-kong-fire-survivors-climb-back-belongings-2026-04-17/)**
 
-Reuters • 18h ago
+Reuters • 19h ago
 
 ---
 
@@ -162,7 +162,7 @@ Reuters • 18h ago
 
 Walker S2 is an adult-sized humanoid robot with legs, a torso, and arms. China is sending these robots to patrol their border with Vietnam.
 
-Earth.com • 22h ago
+Earth.com • 23h ago
 
 ---
 
@@ -178,7 +178,7 @@ Interesting Engineering • 1d ago
 
 Flying cars and humanoid robots showcased at Edison Awards in Fort Myers.
 
-Gulf Coast News and Weather • 22h ago
+Gulf Coast News and Weather • 23h ago
 
 ---
 
@@ -212,7 +212,7 @@ A new level of realism in robotics is drawing global attention as Japan introduc
 
 📺 Carros Show
 
-👁️ 2K • 👍 72 • 💬 4 • ⏱️ 8:15 • 23h ago
+👁️ 2K • 👍 72 • 💬 4 • ⏱️ 8:15 • 1d ago
 
 ---
 
@@ -232,7 +232,7 @@ China just revealed an autonomous robot war pack built from dog bots, drones, la
 
 📺 AI Revolution
 
-👁️ 38K • 👍 904 • 💬 93 • ⏱️ 16:14 • 22h ago
+👁️ 38K • 👍 904 • 💬 93 • ⏱️ 16:14 • 23h ago
 
 ---
 
@@ -252,7 +252,7 @@ nefirst.org/nedcmp.
 
 📺 New England FIRST
 
-👁️ 9K • ⏱️ 8:15:12 • 14h ago
+👁️ 9K • ⏱️ 8:15:12 • 15h ago
 
 ---
 

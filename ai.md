@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-17T20:46:00.703925+00:00'
+updated: '2026-04-17T21:42:21.322326+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- social
 - news
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 17, 2026 at 20:46 UTC  
+**Last Updated:** April 17, 2026 at 21:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Tried posting this in r/ClaudeAI but it got auto-removed, and I was told to post it in the "Bugs Megathread." Don't really think it should been removed, but whatever, I'll just post it here since I'm sure it's still relevant. Like a lot of people, I switched from ChatGPT to Claude not too long ago during the whole DoW fiasco and Sam Altman “antics.” At first, I was genuinely impressed. I do fairly heavy theoretical math and physics research, and Opus 4.6 was simply the best tool I’d used for synthesizing ideas and working through complex logic. But the last few weeks have been really disappointing, and I’m seriously considering going back to GPT (even though, for personal reasons, I’d really rather not). How many times has Claude been down recently? And why is it that I can ask Claude 4.7 (with adaptive thinking turned on) to work through a detailed proof, and it just spirals “oh wait, that doesn’t work, let me try again” five times in a single response? Yes, there’s a workaround to explicitly tell it to think before answering. But… why is that necessary? I’m paying $20/month. This is supposed to be a top-tier model. Instead, it burns through time, second-guesses itself mid-response, and often fails to land anywhere useful on problems I’m fairly sure 4.6 would have handled more coherently a month ago. And then before I know it I hit the usage limit. I’m a PhD student. I can’t justify spending $100-$200/month on higher tiers. $20 has always been enough for me, and I’ve come to rely on these tools for my research. I expected to stick with Claude long-term, but the recent instability and drop in reliability make it hard to justify paying for it out of pocket. It’s frustrating to feel pushed toward a competitor because of this. But at a certain point, the usability of the product has to come first. Really disappointing.
 
-7h ago
+8h ago
 
 ---
 
@@ -49,7 +49,7 @@ Tried posting this in r/ClaudeAI but it got auto-removed, and I was told to post
 
 Reese Witherspoon is again advising her followers that there's no time like the present to start learning about and using artificial intelligence.
 
-🔗 [Variety](https://variety.com/2026/tv/news/reese-witherspoon-ai-jobs-women-1236723992/) • 16h ago
+🔗 [Variety](https://variety.com/2026/tv/news/reese-witherspoon-ai-jobs-women-1236723992/) • 17h ago
 
 ---
 
@@ -57,7 +57,7 @@ Reese Witherspoon is again advising her followers that there's no time like the 
 
 There seems to be about 1000 different options. I'm just looking for one that takes a prompt and spits out something usable. I'm good with paying for it if I need to but it needs to be able.to handle a lot of work.
 
-5h ago
+6h ago
 
 ---
 
@@ -65,7 +65,7 @@ There seems to be about 1000 different options. I'm just looking for one that ta
 
 The patent describes a system that uses artificial intelligence to create personalized web pages for each user.
 
-🔗 [PC Guide](https://www.pcguide.com/news/google-patents-ai-tech-that-will-personalize-websites-and-make-them-look-different-for-everyone/) • 5h ago
+🔗 [PC Guide](https://www.pcguide.com/news/google-patents-ai-tech-that-will-personalize-websites-and-make-them-look-different-for-everyone/) • 6h ago
 
 ---
 
@@ -73,7 +73,7 @@ The patent describes a system that uses artificial intelligence to create person
 
 I’ve been experimenting with placing interactive AI versions of a person in physical locations so others can walk up and talk to them. It raises interesting questions about presence, memory, and identity especially when tied to real places instead of just online profiles. Curious how people here think this could evolve.
 
-7h ago
+8h ago
 
 ---
 
@@ -81,7 +81,7 @@ I’ve been experimenting with placing interactive AI versions of a person in ph
 
 AI-generated “digital twins” of content creators and celebrities are popping up all over the place, and managing this revolution is a major priority for talent agencies like CAA. But will audiences truly respond to a digital facsimile of the star they think they know and love?
 
-🔗 [Vanity Fair](https://www.vanityfair.com/news/story/influencers-ai-clones) • 5h ago
+🔗 [Vanity Fair](https://www.vanityfair.com/news/story/influencers-ai-clones) • 6h ago
 
 ---
 
@@ -97,7 +97,7 @@ Hi everyone, I’ve been learning by building a small web app that collects and 
 
 Recently used "free" rates codex to give me a quick fastapi project sample. It gave me deprecated (a)app.on_event("startup). What are your experiences on current AI agent code outputs. Doesn't have to be codex or claude or co-pilot. Whichever one you use just want to gauge your experiences on outputs as of 2026 Q1/Q2. Does the latest model always use the latest code documentations? questions: 1. I didn't specify which version of fastapi to use for output, do you type that everytime for your workflow? does it work if you specify like "use only the latest version" 2. How many of you experience a lesser version code when trying to do one shot coding prompts. 3. What is the average code quality for the current outputs (as of right now, ignore last year experiences). Do you care? 4. Which language/framework you find gives you perfect code (or almost perfect)? trying to see which one to use as of 2026 while it's still being subsidized by corpos, been testing different agents for a while but there is always something I don't like. it's used to be 50/50 for code quality now it's up to 75% to my liking. So I see good progress from the agents.
 
-41m ago
+1h ago
 
 ---
 
@@ -105,7 +105,7 @@ Recently used "free" rates codex to give me a quick fastapi project sample. It g
 
 I've been building a system where multiple AI agents execute structured work under explicit governance rules. Sharing it because the architecture might be interesting to people building multi-agent systems. What it does: You set a goal. A coordinator agent decomposes it into tasks. Specialized agents (developer, designer, QA, etc.) execute through controlled tool access, collaborate via explicit handoffs, and produce artifacts. QA agents validate outputs. Escalations surface for human approval. What's different from CrewAI/AutoGen/LangGraph: The focus isn't on the agent — it's on the governance and execution layer around the agent. Tool calls go through an MCP gateway with per-role permission checks and audit logging Zero shared mutable state between agents — collaboration through structured handoffs only Policy engine with configurable approval workflows (proceed/block/timeout-with-default) Append-only task versioning — every modification creates a new version with author and reason Built-in evaluation engine that scores tasks on quality, iterations, latency, cost, and policy compliance Agent reputation scoring with a weighted formula (QA pass rate, iteration efficiency, latency, cost, reliability) Architecture: 5 layers with strict boundaries — frontend (visualization only), API gateway (auth/RBAC), orchestration engine (24 modules), agent runtime (role-based, no direct tool access), MCP gateway (the only path to tools). Stack: React + TypeScript, FastAPI, SQLite WAL, pluggable LLM providers (OpenAI, Anthropic, Azure), MCP protocol. Configurable: Different team presets (software, marketing, custom), operating models with different governance rules, pluggable LLM backends, reusable skills, and MCP-backed integrations. agenticompanies.com please guys, I would love to get your feedback on this and tell me if this is interesting for you to use you can register with email/passoword to view the platform but if you want to operate agentsession I need to send you an invitation code. please feel free to DM me for an invitation code you would also need to use your Anthropic or OpenAI API key to operate then engines Thanks
 
-8h ago
+9h ago
 
 ---
 
@@ -113,7 +113,7 @@ I've been building a system where multiple AI agents execute structured work und
 
 Claude Design is powered by Claude Opus 4.7 and is available in research preview for Claude Pro, Max, Team, and Enterprise subscribers.
 
-🔗 [anthropic.com](https://www.anthropic.com/news/claude-design-anthropic-labs) • 5h ago
+🔗 [anthropic.com](https://www.anthropic.com/news/claude-design-anthropic-labs) • 6h ago
 
 ---
 
@@ -141,7 +141,7 @@ blog.google • 2d ago
 
 Although you can already track hotel prices at the city level, the new update lets you do so for a specific hotel that you're interested in.
 
-TechCrunch • 6h ago
+TechCrunch • 7h ago
 
 ---
 
@@ -149,7 +149,7 @@ TechCrunch • 6h ago
 
 The main usage metric for artificial intelligence, called tokens, looks explosive on paper, but it may be significantly overstated.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -157,7 +157,7 @@ CNBC • 1h ago
 
 The artificial intelligence company says its new system, named Mythos, has the power to find long-overlooked security holes in computer code.
 
-The Washington Post • 37m ago
+The Washington Post • 1h ago
 
 ---
 
@@ -165,7 +165,7 @@ The Washington Post • 37m ago
 
 The meeting comes after tensions have run hot between the Trump administration and the safety-conscious Anthropic, which has sought to put guardrails on the development of AI to minimize any potential risks and maximize its economic and national security benefits for the U.S.
 
-PBS • 39m ago
+PBS • 1h ago
 
 ---
 
@@ -185,7 +185,7 @@ CNBC • 2d ago
 
 **[Allbirds’ AI Pivot Found A Buyer in the Rebirthed MEME Fund](https://www.bloomberg.com/news/newsletters/2026-04-17/allbirds-bird-stock-soars-582-after-ai-pivot-meme-etf-buys-in?srnd=homepage-americas)**
 
-Bloomberg.com • 53m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -193,7 +193,7 @@ Bloomberg.com • 53m ago
 
 <body><p>STORY: Signs of a new meme stock wave have emerged, with retail investors piling into companies like Allbirds and Myseum.</p><p>Dhargalkar says that reflects strong demand for exposure to AI.</p><p>Many of the most prominent players in the space including firms like OpenAI and Anthropic remain privately held.</p><p>That has left investors turning to publicly traded stocks tied loosely to the theme.</p><p>“There is insufficient supply of AI investment opportunities particularly for retail investors. But even when we think about the largest companies that are winning the AI battle or the most named in the AI battle, they’re not public yet.”</p></body>
 
-Yahoo Finance • 22m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -241,7 +241,7 @@ Does AI-assisted cognition threaten human development? Explore the risks of AI-a
 
 Hardware hacker’s flying probe automation stack for agent-driven   target discovery, microscope mapping, safety-monitored CNC motion, probe review, and   controlled pin probing. - GainSec/AutoProber
 
-⬆️ 218 • 💬 46 • 22h ago • [GitHub](https://github.com/gainsec/autoprober)
+⬆️ 218 • 💬 46 • 23h ago • [GitHub](https://github.com/gainsec/autoprober)
 
 ---
 
@@ -263,7 +263,7 @@ We signed a 3 year lease and gave it to an AI
 
 GPU rental prices surged 48% in 60 days. The AI compute shortage will force startups to compete not on speed of iteration, but on access to infrastructure.
 
-⬆️ 165 • 💬 208 • 23h ago • [Tomasz Tunguz](https://tomtunguz.com/ai-compute-crisis-2026/)
+⬆️ 165 • 💬 208 • 1d ago • [Tomasz Tunguz](https://tomtunguz.com/ai-compute-crisis-2026/)
 
 ---
 
@@ -293,7 +293,7 @@ Here's the AI News you probably missed this week. Build AI apps that actually sc
 
 📺 Matt Wolfe
 
-👁️ 23K • 👍 1K • 💬 72 • ⏱️ 36:44 • 5h ago
+👁️ 23K • 👍 1K • 💬 72 • ⏱️ 36:44 • 6h ago
 
 ---
 
@@ -303,7 +303,7 @@ This episode is brought to you by Higgsfield — the AI video platform with Cine
 
 📺 Silicon Valley Girl
 
-👁️ 12K • 👍 416 • 💬 74 • ⏱️ 45:43 • 7h ago
+👁️ 12K • 👍 416 • 💬 74 • ⏱️ 45:43 • 8h ago
 
 ---
 
@@ -313,7 +313,7 @@ Really American host Steve Harness breaks down more HILARIOUS AI Trump parodies 
 
 📺 Really American
 
-👁️ 706K • 👍 39K • 💬 2K • ⏱️ 12:33 • 21h ago
+👁️ 706K • 👍 39K • 💬 2K • ⏱️ 12:33 • 22h ago
 
 ---
 
@@ -333,7 +333,7 @@ China just revealed an autonomous robot war pack built from dog bots, drones, la
 
 📺 AI Revolution
 
-👁️ 38K • 👍 903 • 💬 93 • ⏱️ 16:14 • 22h ago
+👁️ 38K • 👍 903 • 💬 93 • ⏱️ 16:14 • 23h ago
 
 ---
 
@@ -353,7 +353,7 @@ The main demand signal for artificial intelligence looks explosive on paper, but
 
 📺 CNBC
 
-👁️ 6K • 👍 306 • 💬 31 • ⏱️ 4:45 • 2h ago
+👁️ 6K • 👍 306 • 💬 31 • ⏱️ 4:45 • 3h ago
 
 ---
 
@@ -389,7 +389,7 @@ MiniMax-M2.7 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 188,737 • ❤️ 920 • 10h ago
+⬇️ 188,737 • ❤️ 920 • 11h ago
 
 ---
 
@@ -425,7 +425,7 @@ ERNIE-Image is a 8B parameter text-to-image diffusion model excelling in complex
 
 `text-to-image`
 
-⬇️ 2,254 • ❤️ 417 • 18h ago
+⬇️ 2,254 • ❤️ 417 • 19h ago
 
 ---
 
@@ -497,7 +497,7 @@ ERNIE-Image-Turbo is a distilled text-to-image diffusion model optimized for spe
 
 `text-to-image`
 
-⬇️ 2,992 • ❤️ 288 • 18h ago
+⬇️ 2,992 • ❤️ 288 • 19h ago
 
 ---
 
@@ -643,7 +643,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 47.5k • 🔱 6.2k • 12h ago
+⭐ 47.5k • 🔱 6.2k • 13h ago
 
 ---
 
@@ -663,7 +663,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 35.6k • 🔱 7.1k • 2h ago
+⭐ 35.6k • 🔱 7.1k • 3h ago
 
 ---
 
@@ -673,7 +673,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 29.0k • 🔱 3.2k • 1h ago
+⭐ 29.0k • 🔱 3.2k • 2h ago
 
 ---
 
@@ -683,7 +683,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 8.1k • 🔱 518 • 4h ago
+⭐ 8.1k • 🔱 518 • 5h ago
 
 ---
 
@@ -723,7 +723,7 @@ The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interac
 
 `Swift` `apple-intelligence` `apple-silicon` `cli` `foundationmodels` `homebrew`
 
-⭐ 4.7k • 🔱 181 • 12h ago
+⭐ 4.7k • 🔱 181 • 13h ago
 
 ---
 
