@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-17T17:14:15.888420+00:00'
+updated: '2026-04-17T18:12:06.103030+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
-- social
+- news
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 17, 2026 at 17:14 UTC  
+**Last Updated:** April 17, 2026 at 18:12 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $295.07B
+**Market Cap:** $293.13B
 Rank #2
 
 **Circulating Supply:** 120,690,898 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--50.6%
+-50.9%
 
 **All-Time Low:** $0.43
-+564278.4%
++560499.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
@@ -80,13 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Glamsterdam devnets drive Ethereum’s execution readiness while Hegotá opens the next phase of upgrade proposals & protocol evolution.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-consensus-acdc-call-177/) • 9h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-consensus-acdc-call-177/) • 10h ago
 
 ---
 
 **[I think Coinbase is building a fantastic business with stablecoins, and I would love others' opinions and thoughts.](https://www.reddit.com/r/ethereum/comments/1so3od4/i_think_coinbase_is_building_a_fantastic_business/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -94,13 +94,13 @@ Glamsterdam devnets drive Ethereum’s execution readiness while Hegotá opens t
 
 Solidity developer survey results, ether.fi migrated to OP Mainnet, X $ETH cashtag
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-mini-0/) • 10h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-mini-0/) • 11h ago
 
 ---
 
 **[PolyApex Telegram Bot That Copies Polymarket Insiders Wallets](https://www.reddit.com/r/ethereum/comments/1so07v3/polyapex_telegram_bot_that_copies_polymarket/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -152,7 +152,7 @@ Man I was looking at some recent governance votes across a few protocols and the
 
 Quarterly transactions hit 200.4 million in Q1 2026, the first time above 200 million and more than double the 2023 lows.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -168,7 +168,7 @@ The Block • 1d ago
 
 Strive (NASDAQ:ASST) stock is up 13% in Friday afternoon trading while Bitmine Immersion Technologies (NYSE:BMNR) shares are up 5%, as a broad crypto rally sends both names sharply higher. The catalyst is clear: Bitcoin (CRYPTO:BTC) is up 5% over the past 24 hours, trading near $77,800, while Ethereum (CRYPTO:ETH) has surged 5.5% to $2,444. Both ... Strive Soars 12%, Bitmine Jumps 5% as Bitcoin and Ethereum’s Surge Lifts the Crypto Proxy Trade
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -176,7 +176,7 @@ Yahoo Finance • 1h ago
 
 The pair of Ethereum developers announced their resignation form the EF earlier this week.
 
-Yahoo Finance • 49m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -200,7 +200,7 @@ CNBC • 1d ago
 
 Charles Schwab President and CEO Rick Wurster indicated that America’s largest discount brokerage will likely support prediction markets.
 
-Decrypt • 23h ago
+Decrypt • 1d ago
 
 ---
 
@@ -208,13 +208,13 @@ Decrypt • 23h ago
 
 Amid the ongoing cryptocurrency bear market, these two interesting digital assets present investors with possible buy-the-dip opportunities.
 
-The Motley Fool • 3h ago
+The Motley Fool • 4h ago
 
 ---
 
 **[Most large cryptocurrencies climb on Sui, Ethereum increases](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-climb-on-sui-ethereum-increases-6f01e867-dad5317f1ea1)**
 
-MarketWatch • 3h ago
+MarketWatch • 4h ago
 
 ---
 
@@ -222,7 +222,7 @@ MarketWatch • 3h ago
 
 Bitcoin (BTC-USD) opened at $75,151.99 on Friday, 0.5% higher than Thursday’s opening price of $74,810.87. Ethereum (ETH-USD) opened at $2,348.49 on Friday, down 0.5% from Thursday’s opening price of $2,359.70.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -236,27 +236,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 316 • 👍 18 • ⏱️ 4:53 • 8h ago
-
----
-
-**[Insane Ethereum Fractal: Ignite Altcoins Or Trap Bulls...](https://www.youtube.com/watch?v=MM9bTgBSVrQ)**
-
-Ethereum is flashing a fractal that mirrors the November 2024 altcoin breakout, and the setup is showing up across Cardano, Sui, ...
-
-📺 Crypto Capital Venture
-
-👁️ 8K • 👍 530 • 💬 148 • ⏱️ 11:01 • 1d ago
-
----
-
-**[🤩 Don&#39;t Miss The Opportunity In Ethereum !](https://www.youtube.com/watch?v=ZP5mgPEADco)**
-
-Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 4K • 👍 158 • 💬 21 • ⏱️ 8:23 • 1d ago
+👁️ 445 • 👍 22 • ⏱️ 4:53 • 9h ago
 
 ---
 
@@ -266,17 +246,27 @@ Raoul welcomes Vivek Raman, Co-Founder and CEO of Etherealize, and Danny Ryan, C
 
 📺 Raoul Pal The Journey Man
 
-👁️ 6K • 👍 246 • 💬 10 • ⏱️ 1:11:56 • 1d ago
+👁️ 6K • 👍 253 • 💬 10 • ⏱️ 1:11:56 • 1d ago
 
 ---
 
-**[$12 Trillion Charles Schwab To Launch Bitcoin And Ethereum Trading — “Schwab Crypto”  Is Coming](https://www.youtube.com/watch?v=vvq0fKhoUM0)**
+**[🤩 Don&#39;t Miss The Opportunity In Ethereum !](https://www.youtube.com/watch?v=ZP5mgPEADco)**
 
-IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purposes only. NOT financial, investment, or ...
+Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
 
-📺 The Kenzo Guy
+📺 Gerhard - Bitcoin Strategy
 
-👁️ 6K • 👍 321 • 💬 26 • ⏱️ 25:48 • 20h ago
+👁️ 4K • 👍 160 • 💬 21 • ⏱️ 8:23 • 1d ago
+
+---
+
+**[Insane Ethereum Fractal: Ignite Altcoins Or Trap Bulls...](https://www.youtube.com/watch?v=MM9bTgBSVrQ)**
+
+Ethereum is flashing a fractal that mirrors the November 2024 altcoin breakout, and the setup is showing up across Cardano, Sui, ...
+
+📺 Crypto Capital Venture
+
+👁️ 9K • 👍 540 • 💬 148 • ⏱️ 11:01 • 1d ago
 
 ---
 
@@ -286,17 +276,7 @@ Michael Saylor's Ethereum view has changed. Bitcoin is digital capital. Ethereum
 
 📺 Bankless
 
-👁️ 7K • 👍 155 • 💬 42 • ⏱️ 1:17 • 1d ago
-
----
-
-**[This Ethereum Analysis Says BUY BEFORE IT&#39;S TOO LATE! Ethereum Technical Analysis 2026](https://www.youtube.com/watch?v=jgUZRil56eA)**
-
-Buy Ethereum? CRYPTO RETIREMENT ACCOUNT HERE Sign up for iTrustCapital and get a $100 funding bonus after ...
-
-📺 Crypto Jebb
-
-👁️ 6K • 👍 276 • 💬 128 • ⏱️ 14:10 • 1d ago
+👁️ 8K • 👍 158 • 💬 42 • ⏱️ 1:17 • 1d ago
 
 ---
 
@@ -306,27 +286,47 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 187 • 👍 28 • ⏱️ 5:23 • 1h ago
+👁️ 480 • 👍 56 • ⏱️ 5:23 • 2h ago
 
 ---
 
-**[&quot;Pissed Off&quot; Ethereum Dev Runs For Congress🔥Joe Schiarizzi INTERVIEW](https://www.youtube.com/watch?v=t7SZfuqCu2I)**
+**[$12 Trillion Charles Schwab To Launch Bitcoin And Ethereum Trading — “Schwab Crypto”  Is Coming](https://www.youtube.com/watch?v=vvq0fKhoUM0)**
 
-Ethereum developer Joe Schiarizzi—ex-ConsenSys, Gitcoin, OpenSea, Solarpunk VC founder—is running for Congress (VA-7) to ...
+IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purposes only. NOT financial, investment, or ...
 
-📺 Paul Barron Network
+📺 The Kenzo Guy
 
-👁️ 13K • 👍 928 • 💬 236 • ⏱️ 22:10 • 1d ago
+👁️ 6K • 👍 327 • 💬 27 • ⏱️ 25:48 • 21h ago
 
 ---
 
-**[CRYPTO LIVE TRADING || 17 APRIL  | ‪@ClockTraderlive‬ #bitcoin #ethereum #crypto #btclivetrading](https://www.youtube.com/watch?v=y1iMLbSHPDM)**
+**[🚨ACİL! ETHEREUM&#39;DA TARİHİ SİNYAL YANDI! Yükselebilecek 10 Altcoin! XRP, Bonk, Ena Altcoin Analizi](https://www.youtube.com/watch?v=f54yw1SjfLw)**
 
-join my social platforms for updates and analysis ✓Instagram: ...
+Kripto para piyasasında herkes korku içindeyken, ETH grafiğinde tarihte sadece 4 kez görülen o devasa sinyal 5. kez yandı!
 
-📺 Aryan trader Live
+📺 Kripto Kafalar
 
-👁️ 4K • 👍 1K • 💬 23 • ⏱️ 11:12 • 1h ago
+👁️ 349 • 👍 81 • 💬 18 • ⏱️ 9:43 • 3h ago
+
+---
+
+**[Tom Lee :&quot;Bitcoin &amp; ETH Holders NEED to Hear This IMMEDIATELY [2026 New Price Prediction]](https://www.youtube.com/watch?v=DVUa0wyPWzQ)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 6K • 👍 258 • 💬 14 • ⏱️ 14:46 • 2d ago
+
+---
+
+**[Btc Live Trading | Crypto Live Trading | Live Trading | Live Crypto Trading | Bitcoin Live Trading](https://www.youtube.com/watch?v=bQ2X6VVExdI)**
+
+BTC LIVE TRADING TODAY | BITCOIN LIVE | CRYPTO LIVE TRADING Start your trading journey with XM — a trusted and ...
+
+📺 Ashutosh Kumar
+
+👁️ 5K • 👍 667 • 1h ago
 
 ---
 

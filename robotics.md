@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-17T17:14:15.891659+00:00'
+updated: '2026-04-17T18:12:06.106204+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 17, 2026 at 17:14 UTC  
+**Last Updated:** April 17, 2026 at 18:12 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[H1 accelerating - jogging to running](https://www.reddit.com/r/robotics/comments/1snz9fk/h1_accelerating_jogging_to_running/)**
 
-4h ago
+5h ago
 
 ---
 
 **[The race ended before it got even started for this robot](https://www.reddit.com/r/robotics/comments/1so68c6/the_race_ended_before_it_got_even_started_for/)**
 
-36m ago
+1h ago
 
 ---
 
@@ -48,13 +48,13 @@ Robotics research and industry news
 
 From Physical Intelligence on 𝕏 (thread): https://x.com/physical_int/status/2044841263254638862 Blog post with multiple videos/demos: https://www.pi.website/blog/pi07 TechCrunch: Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught: https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/
 
-7h ago
+8h ago
 
 ---
 
 **[3D printed monster motor that lifts + 15kg!](https://www.reddit.com/r/robotics/comments/1so1mv7/3d_printed_monster_motor_that_lifts_15kg/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -62,7 +62,7 @@ From Physical Intelligence on 𝕏 (thread): https://x.com/physical_int/status/2
 
 upgraded our robot: added a shell, cameras, onboard compute, basically everything it was missing. way heavier and way more complex now. got it doing continuous autonomous stair jumping in sim. no human input, policy decides everything on its own. but most of what we had working on the old rabbit bot just didn't carry over, had to retrain almost everything. still haven't gotten it to jump on the real robot yet, that's the next battle. right now we're deep in logs and calibration trying to close the gap. the usual lol btw we've been reading through all the questions you guys left on our previous posts, a lot of really good ones about sim2real, reward shaping, training workflow, etc. since RL questions came up the most, we're drafting with a writeup on that, sharing what we've learned and the mistakes we made along the way lol. should be up on r/MondoRobotics in a few days. not limited to RL though, if there's anything else you've been curious about, drop it in the comments. we'll try to cover what we can.
 
-2h ago
+3h ago
 
 ---
 
@@ -70,7 +70,7 @@ upgraded our robot: added a shell, cameras, onboard compute, basically everythin
 
 I tried to do a quadruped robot using cheap servos (MG90S), normal batteries and wood structure. I think that it could be built with less than R$200,00 (U$40,00 at conversion). The name of the project is Guara Nano. I used ESP32, 8x MG90S servos (chinese version), 4x Batteries 1,5V, MPU6050 and PCA9685. I cannot supply ESP32 with these batteries because of drop voltage, so I used micro-USB cable. I did two gaits that work, walk and trot, with control of velocity and height control. It can turn too, using side traction and go back. I also did a simple proportional control but I didn't tested too much. The code and process to build will be open-source, now I'm working on documentation and I'll post here soon. I would appreciate tips and suggestions for improvement, and perhaps some other similar works, not just the ones you find on Google, as I've already looked at all of them.
 
-19h ago
+20h ago
 
 ---
 
@@ -90,7 +90,7 @@ From The Humanoid Hub on 𝕏: https://x.com/TheHumanoidHub/status/2044504579480
 
 **[Breaking down camera choice for robotics data](https://www.reddit.com/r/robotics/comments/1so32nb/breaking_down_camera_choice_for_robotics_data/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -98,7 +98,7 @@ From The Humanoid Hub on 𝕏: https://x.com/TheHumanoidHub/status/2044504579480
 
 I discovered a GPS-free mode on the website (called myrobotproject) that enables pure vision-based flight using the Visio. Previously, I had only seen videos from the APM community featuring Intel cameras mounted on drones for GPS-denied navigation. I have my own drone and installed the Visio on it—the installation process was quite straightforward. I will open-source the related tutorial for everyone soon. If you have any interesting tests to share, I'd love to hear from you!
 
-1h ago
+2h ago
 
 ---
 
@@ -110,7 +110,7 @@ I discovered a GPS-free mode on the website (called myrobotproject) that enables
 
 The new model, called π0.7, represents what the company describes as an early but meaningful step toward the long-sought goal of a general-purpose robot brain.
 
-TechCrunch • 20h ago
+TechCrunch • 21h ago
 
 ---
 
@@ -126,7 +126,7 @@ Google DeepMind • 3d ago
 
 Many readers were horrified by the idea of robots helping older adults — but not all.
 
-The Washington Post • 13h ago
+The Washington Post • 14h ago
 
 ---
 
@@ -134,7 +134,7 @@ The Washington Post • 13h ago
 
 /PRNewswire/ -- Chef Robotics, the market leader in food robotics, today announced its robots have completed 100 million servings in production at customer...
 
-PR Newswire • 41m ago
+PR Newswire • 1h ago
 
 ---
 
@@ -142,7 +142,7 @@ PR Newswire • 41m ago
 
 Tech firms aim to trigger a robot revolution with video of humans doing housework. Gig workers are paid up to $25 an hour to film themselves doing various tasks.
 
-The Washington Post • 1h ago
+The Washington Post • 2h ago
 
 ---
 
@@ -150,7 +150,7 @@ The Washington Post • 1h ago
 
 Walker S2 is an adult-sized humanoid robot with legs, a torso, and arms. China is sending these robots to patrol their border with Vietnam.
 
-Earth.com • 19h ago
+Earth.com • 20h ago
 
 ---
 
@@ -158,7 +158,7 @@ Earth.com • 19h ago
 
 Flying cars and humanoid robots showcased at Edison Awards in Fort Myers.
 
-Gulf Coast News and Weather • 18h ago
+Gulf Coast News and Weather • 19h ago
 
 ---
 
@@ -166,7 +166,7 @@ Gulf Coast News and Weather • 18h ago
 
 AGIBOT deploys G2 humanoid robots on a live tablet production line at Longcheer, marking a shift from lab testing to industrial embodied AI use.
 
-Interesting Engineering • 21h ago
+Interesting Engineering • 22h ago
 
 ---
 
@@ -180,7 +180,7 @@ Defense One • 1d ago
 
 **[Robotic legs help elderly Hong Kong fire survivors climb back for belongings](https://www.reuters.com/world/china/robotic-legs-help-elderly-hong-kong-fire-survivors-climb-back-belongings-2026-04-17/)**
 
-Reuters • 15h ago
+Reuters • 16h ago
 
 ---
 
@@ -188,13 +188,43 @@ Reuters • 15h ago
 
 ## YouTube Videos: "robotics"
 
+**[Ukrainian president says robots captured territory from Russian soldiers](https://www.youtube.com/watch?v=XiGwWwcnT7M)**
+
+President Zelenskyy says that for the first time ever, the Ukrainian army was able to use only robots to retake territory from Russian ...
+
+📺 NBC News
+
+👁️ 482K • 👍 7K • 💬 2K • ⏱️ 3:12 • 1d ago
+
+---
+
 **[Boston Dynamics Won The AI Robot Race With This One Move](https://www.youtube.com/watch?v=7bPZJhhDQU4)**
 
 Boston Dynamics just did what most people thought would take years longer. Atlas is now entering real serial production, the ...
 
 📺 AI Revolution
 
-👁️ 112K • 👍 2K • 💬 178 • ⏱️ 21:49 • 3d ago
+👁️ 113K • 👍 3K • 💬 181 • ⏱️ 21:49 • 3d ago
+
+---
+
+**[Japan Unveils First AI Robot Companion That&#39;s Indistinguishable From a Real Girl](https://www.youtube.com/watch?v=ciDX-3rI2zE)**
+
+A new level of realism in robotics is drawing global attention as Japan introduces an AI-powered robot companion designed to ...
+
+📺 Carros Show
+
+👁️ 2K • 👍 71 • 💬 4 • ⏱️ 8:15 • 21h ago
+
+---
+
+**[China Just Built an Autonomous AI Robot Army: Killer Robots With Guns and Rockets](https://www.youtube.com/watch?v=_Vw_6QrqS8c)**
+
+China just revealed an autonomous robot war pack built from dog bots, drones, laser weapons, and unmanned boats, Europe is ...
+
+📺 AI Revolution
+
+👁️ 33K • 👍 860 • 💬 86 • ⏱️ 16:14 • 19h ago
 
 ---
 
@@ -214,17 +244,7 @@ Chinese humanoid robots train to go head-to-head with human runners in the secon
 
 📺 NBC News
 
-👁️ 163K • 👍 1K • 💬 437 • ⏱️ 1:59 • 3d ago
-
----
-
-**[Ukraine Just Won The First Battle Using an Entire Robot Army... Footage is INSANE ](https://www.youtube.com/watch?v=dA5RYTxKLuo)**
-
-Terminator is about to become real?! If you want to help support independent journalism, become a Member: ...
-
-📺 Benny Johnson
-
-👁️ 227K • 👍 15K • 💬 2K • ⏱️ 11:20 • 2d ago
+👁️ 164K • 👍 1K • 💬 441 • ⏱️ 1:59 • 3d ago
 
 ---
 
@@ -238,33 +258,13 @@ Go to https://www.artwine.com to get your limited bottle of Ukrainian sparkling 
 
 ---
 
-**[LIVE: AI and Robotics: Where Do We Go From Here](https://www.youtube.com/watch?v=BwRJ-aWb0Gc)**
-
-AI and robotics will impact our economy, our politics, our privacy, our emotional well-being, our environment, and even our ...
-
-📺 Senator Bernie Sanders
-
-👁️ 14K • 👍 852 • 💬 151 • ⏱️ 1:03:51 • 2d ago
-
----
-
 **[FIRST Robotics Competition REBUILT 2026 - NE FIRST District Championship - Burns Division Day 1](https://www.youtube.com/watch?v=i1cedzJVzzg)**
 
 nefirst.org/nedcmp.
 
 📺 New England FIRST
 
-👁️ 8K • ⏱️ 8:15:12 • 10h ago
-
----
-
-**[Ukrainian president says robots captured territory from Russian soldiers](https://www.youtube.com/watch?v=XiGwWwcnT7M)**
-
-President Zelenskyy says that for the first time ever, the Ukrainian army was able to use only robots to retake territory from Russian ...
-
-📺 NBC News
-
-👁️ 468K • 👍 7K • 💬 2K • ⏱️ 3:12 • 1d ago
+👁️ 9K • ⏱️ 8:15:12 • 11h ago
 
 ---
 
@@ -274,17 +274,17 @@ Physical Intelligence is building a foundation model that can control any robot 
 
 📺 Y Combinator
 
-👁️ 24K • 👍 628 • 💬 35 • ⏱️ 49:27 • 1d ago
+👁️ 25K • 👍 659 • 💬 36 • ⏱️ 49:27 • 1d ago
 
 ---
 
-**[New AI Robot Is Starting to Feel Human (Artificial Humans Are Here)](https://www.youtube.com/watch?v=HOgCL8lKuDc)**
+**[Brand New Haro380 6-Axis Mini Industrial Robot | WLKATA](https://www.youtube.com/watch?v=T5t0leyjU00)**
 
-Try Seedance 2.0 with Claude on Higgsfield: https://higgsfield.ai/s/seedance-2-0-airevolutionx-LDckkB Realbotix just launched ...
+Introducing the brand new Haro380 6-Axis mini industrial robotic arm. Get a first look at its smooth motion, precise control, and ...
 
-📺 AI Revolution
+📺 WLKATA ROBOTICS
 
-👁️ 101K • 👍 2K • 💬 184 • ⏱️ 14:57 • 5d ago
+👁️ 16K • 👍 444 • 💬 10 • ⏱️ 2:11 • 3d ago
 
 ---
 

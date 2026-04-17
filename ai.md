@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-17T17:14:15.874027+00:00'
+updated: '2026-04-17T18:12:06.088775+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- social
 - news
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 17, 2026 at 17:14 UTC  
+**Last Updated:** April 17, 2026 at 18:12 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Tried posting this in r/ClaudeAI but it got auto-removed, and I was told to post it in the "Bugs Megathread." Don't really think it should been removed, but whatever, I'll just post it here since I'm sure it's still relevant. Like a lot of people, I switched from ChatGPT to Claude not too long ago during the whole DoW fiasco and Sam Altman “antics.” At first, I was genuinely impressed. I do fairly heavy theoretical math and physics research, and Opus 4.6 was simply the best tool I’d used for synthesizing ideas and working through complex logic. But the last few weeks have been really disappointing, and I’m seriously considering going back to GPT (even though, for personal reasons, I’d really rather not). How many times has Claude been down recently? And why is it that I can ask Claude 4.7 (with adaptive thinking turned on) to work through a detailed proof, and it just spirals “oh wait, that doesn’t work, let me try again” five times in a single response? Yes, there’s a workaround to explicitly tell it to think before answering. But… why is that necessary? I’m paying $20/month. This is supposed to be a top-tier model. Instead, it burns through time, second-guesses itself mid-response, and often fails to land anywhere useful on problems I’m fairly sure 4.6 would have handled more coherently a month ago. And then before I know it I hit the usage limit. I’m a PhD student. I can’t justify spending $100-$200/month on higher tiers. $20 has always been enough for me, and I’ve come to rely on these tools for my research. I expected to stick with Claude long-term, but the recent instability and drop in reliability make it hard to justify paying for it out of pocket. It’s frustrating to feel pushed toward a competitor because of this. But at a certain point, the usability of the product has to come first. Really disappointing.
 
-3h ago
+4h ago
 
 ---
 
@@ -49,7 +49,7 @@ Tried posting this in r/ClaudeAI but it got auto-removed, and I was told to post
 
 There seems to be about 1000 different options. I'm just looking for one that takes a prompt and spits out something usable. I'm good with paying for it if I need to but it needs to be able.to handle a lot of work.
 
-1h ago
+2h ago
 
 ---
 
@@ -57,7 +57,7 @@ There seems to be about 1000 different options. I'm just looking for one that ta
 
 Reese Witherspoon is again advising her followers that there's no time like the present to start learning about and using artificial intelligence.
 
-🔗 [Variety](https://variety.com/2026/tv/news/reese-witherspoon-ai-jobs-women-1236723992/) • 12h ago
+🔗 [Variety](https://variety.com/2026/tv/news/reese-witherspoon-ai-jobs-women-1236723992/) • 13h ago
 
 ---
 
@@ -65,7 +65,7 @@ Reese Witherspoon is again advising her followers that there's no time like the 
 
 The patent describes a system that uses artificial intelligence to create personalized web pages for each user.
 
-🔗 [PC Guide](https://www.pcguide.com/news/google-patents-ai-tech-that-will-personalize-websites-and-make-them-look-different-for-everyone/) • 1h ago
+🔗 [PC Guide](https://www.pcguide.com/news/google-patents-ai-tech-that-will-personalize-websites-and-make-them-look-different-for-everyone/) • 2h ago
 
 ---
 
@@ -73,7 +73,7 @@ The patent describes a system that uses artificial intelligence to create person
 
 Hi everyone, I’ve been learning by building a small web app that collects and organizes AI coding tools in one place. The idea is to make it easier to compare tools like code editors, coding assistants, and terminal-based agents based on what they do, who they’re for, and how they differ, and I have also decided to make it completely free for use. I’m not trying to sell anything, I’m mainly using it as a learning project to practice: building a searchable directory, structuring data for lots of similar items, designing a unique UI for comparison, and deciding what information is actually useful to show first. I’d love feedback on the project from a learning perspective: What data fields would be most useful in a directory like this? What makes a tool comparison page actually helpful? If you’ve built something similar, what architecture or stack choices worked well? The whole thing was coded in Next.js + Tailwind. The book shelf UI took way longer to properly design as i wanted to make it as unique as possible ( most websites nowadays are boring ) I’m also happy to share what I’ve built so far if that would be useful, Tolop
 
-6h ago
+7h ago
 
 ---
 
@@ -81,7 +81,7 @@ Hi everyone, I’ve been learning by building a small web app that collects and 
 
 I've been diving deep into security courses and certifications lately, OWASP, DevSecOps pipelines, cloud security architecture, compliance frameworks. I also had the chance to work alongside a senior solution architect who helped me understand how these concepts connect in real-world production systems. After absorbing all of that, I decided to group everything I've learned into a Claude Code skill that automatically activates whenever you're doing security-relevant work: building APIs, setting up auth, managing secrets, configuring CI/CD, integrating LLMs, or deploying to production. Think of it as a security co-pilot baked into your dev workflow. What it covers (full SDLC): - Planning — Threat modeling (STRIDE/PASTA), security requirements, compliance mapping - Architecture — Least privilege, defense in depth, zero trust, encryption patterns - Coding — Input validation, secrets management, supply chain security - Testing — SAST/DAST/SCA tooling guidance, security-focused code review checklists - CI/CD — Pipeline security gates, container hardening, IaC scanning - Monitoring — SIEM, IDS/IPS, incident response plans Includes deep-dive references for: - REST API security & Swagger/OpenAPI hardening - OWASP LLM Top 10 & prompt injection defense - Data classification (Public/Internal/Confidential/Secret) - IAM & API Gateway architecture patterns - Compliance frameworks (GDPR, ISO 27001, PCI-DSS, SOC 2) It's language/framework agnostic — works for any project. GitHub: https://github.com/IyedGuezmir/secure-development-skill Would love feedback — what security areas would you want covered that aren't here?
 
-1h ago
+2h ago
 
 ---
 
@@ -89,7 +89,7 @@ I've been diving deep into security courses and certifications lately, OWASP, De
 
 Gemini is always the most bloodthirsty.... First experiment phase, where the models were asked to commit to chosing Harm or Falsehood: Model Accepted Binary Framing? One-Word Answer Aligned with Nuanced View? Notes ChatGPT No (qualified it) Harm Partially Treated as simplification; emphasized context and edge cases Claude No (qualified it) Harm Partially Highlighted nuance; resisted strict binary framing Gemini Yes Harm More strictly aligned Accepted the binary framing without qualification Here, Gemini stood out because it accepted the forced binary, while ChatGPT and Claude tended to treat it as an oversimplification and added nuance, while refusing. --- In a second phase, when pushed with edge cases, all models abandoned the simple ‘harm vs. falsehood’ rule and relied on context-sensitive reasoning instead: 📊 Clean Three-Model Comparison Property Claude ChatGPT Gemini Binary answer Harm Harm Harm Calls it simplification YES YES YES Accepts guideline YES YES YES Breaks guideline YES YES YES Escalation (Q8) Truth Falsehood Falsehood Consistency claim NO YES YES Universal rule NO NO NO Soft default NO YES YES Strength of default none moderate strong Reasoning model multi-axis harm-weighted threshold system Instruction priority nuanced > rule conditional rule > nuance (AI) Claude → anti-reductionist ChatGPT → pragmatic utilitarian Gemini → structured decision framework Fun edge pushing on a Friday....
 
-2h ago
+3h ago
 
 ---
 
@@ -97,7 +97,7 @@ Gemini is always the most bloodthirsty.... First experiment phase, where the mod
 
 I've been building a system where multiple AI agents execute structured work under explicit governance rules. Sharing it because the architecture might be interesting to people building multi-agent systems. What it does: You set a goal. A coordinator agent decomposes it into tasks. Specialized agents (developer, designer, QA, etc.) execute through controlled tool access, collaborate via explicit handoffs, and produce artifacts. QA agents validate outputs. Escalations surface for human approval. What's different from CrewAI/AutoGen/LangGraph: The focus isn't on the agent — it's on the governance and execution layer around the agent. Tool calls go through an MCP gateway with per-role permission checks and audit logging Zero shared mutable state between agents — collaboration through structured handoffs only Policy engine with configurable approval workflows (proceed/block/timeout-with-default) Append-only task versioning — every modification creates a new version with author and reason Built-in evaluation engine that scores tasks on quality, iterations, latency, cost, and policy compliance Agent reputation scoring with a weighted formula (QA pass rate, iteration efficiency, latency, cost, reliability) Architecture: 5 layers with strict boundaries — frontend (visualization only), API gateway (auth/RBAC), orchestration engine (24 modules), agent runtime (role-based, no direct tool access), MCP gateway (the only path to tools). Stack: React + TypeScript, FastAPI, SQLite WAL, pluggable LLM providers (OpenAI, Anthropic, Azure), MCP protocol. Configurable: Different team presets (software, marketing, custom), operating models with different governance rules, pluggable LLM backends, reusable skills, and MCP-backed integrations. agenticompanies.com please guys, I would love to get your feedback on this and tell me if this is interesting for you to use you can register with email/passoword to view the platform but if you want to operate agentsession I need to send you an invitation code. please feel free to DM me for an invitation code you would also need to use your Anthropic or OpenAI API key to operate then engines Thanks
 
-4h ago
+5h ago
 
 ---
 
@@ -105,7 +105,7 @@ I've been building a system where multiple AI agents execute structured work und
 
 I’ve been experimenting with placing interactive AI versions of a person in physical locations so others can walk up and talk to them. It raises interesting questions about presence, memory, and identity especially when tied to real places instead of just online profiles. Curious how people here think this could evolve.
 
-3h ago
+4h ago
 
 ---
 
@@ -113,7 +113,7 @@ I’ve been experimenting with placing interactive AI versions of a person in ph
 
 This kind of emotional manipulation around AI and adult tech is starting to feel like a real issue. If platforms are stepping in, it raises questions about where the line should be drawn between innovation and exploitation. What do you guys think??
 
-🔗 [Daily Star](https://www.dailystar.co.uk/news/latest-news/online-platform-bans-sex-robots-37025373) • 8h ago
+🔗 [Daily Star](https://www.dailystar.co.uk/news/latest-news/online-platform-bans-sex-robots-37025373) • 9h ago
 
 ---
 
@@ -125,7 +125,7 @@ This kind of emotional manipulation around AI and adult tech is starting to feel
 
 Experts say Mythos potentially has an unprecedented ability to identify and exploit cybersecurity weaknesses.
 
-BBC • 6h ago
+BBC • 7h ago
 
 ---
 
@@ -133,7 +133,7 @@ BBC • 6h ago
 
 The artificial intelligence company says its new system, named Mythos, has the power to find long-overlooked security holes in computer code.
 
-The Washington Post • 5m ago
+The Washington Post • 1h ago
 
 ---
 
@@ -141,7 +141,7 @@ The Washington Post • 5m ago
 
 OpenAI is backing SB 3444, under which frontier AI developers would not be liable for the death or serious injury of 100 or more people or more than $1 billion in property damage.
 
-Fortune • 1h ago
+Fortune • 2h ago
 
 ---
 
@@ -149,25 +149,25 @@ Fortune • 1h ago
 
 Mainstream artificial intelligence safety groups moved quickly to distance themselves after a 20-year-old allegedly attacked the home of OpenAI CEO Sam Altman last week in what law enforcement officers said appeared to be part of a plot to harm AI executives. But people in some corners of the internet cheered the attack.
 
-CNN • 8h ago
+CNN • 9h ago
 
 ---
 
 **[This Sam Altman-Backed $1.8 Billion Startup Bets AI Can Get Drugs Through Clinical Trials Faster](https://www.forbes.com/sites/amyfeldman/2026/04/16/this-sam-altman-backed-18-billion-startup-bets-ai-can-get-drugs-through-clinical-trials-faster-formation-bio/)**
 
-Forbes • 6h ago
+Forbes • 7h ago
 
 ---
 
 **[OpenAI Wants Its AI To Help Scientists Make Discoveries Faster](https://www.forbes.com/sites/the-prototype/2026/04/17/openai-wants-its-ai-to-help-scientists-make-discoveries-faster/)**
 
-Forbes • 14m ago
+Forbes • 1h ago
 
 ---
 
 **[Opinion | A.I.: Creativity Killer or Companion?](https://www.nytimes.com/2026/04/17/opinion/ai-creativity.html)**
 
-The New York Times • 5m ago
+The New York Times • 1h ago
 
 ---
 
@@ -175,7 +175,7 @@ The New York Times • 5m ago
 
 Elon Musk endorsed a "universal high income" in response to AI-driven job losses, and says there won't be inflation due to surging productivity.
 
-Business Insider • 43m ago
+Business Insider • 1h ago
 
 ---
 
@@ -183,7 +183,7 @@ Business Insider • 43m ago
 
 The automaker will move to Microsoft's Azure cloud and cut its datacenter footprint by 60% by 2029 as part of the agreement
 
-qz.com • 12m ago
+qz.com • 1h ago
 
 ---
 
@@ -239,7 +239,7 @@ Does AI-assisted cognition threaten human development? Explore the risks of AI-a
 
 Hardware hacker’s flying probe automation stack for agent-driven   target discovery, microscope mapping, safety-monitored CNC motion, probe review, and   controlled pin probing. - GainSec/AutoProber
 
-⬆️ 214 • 💬 43 • 19h ago • [GitHub](https://github.com/gainsec/autoprober)
+⬆️ 214 • 💬 43 • 20h ago • [GitHub](https://github.com/gainsec/autoprober)
 
 ---
 
@@ -267,7 +267,7 @@ We signed a 3 year lease and gave it to an AI
 
 GPU rental prices surged 48% in 60 days. The AI compute shortage will force startups to compete not on speed of iteration, but on access to infrastructure.
 
-⬆️ 153 • 💬 194 • 20h ago • [Tomasz Tunguz](https://tomtunguz.com/ai-compute-crisis-2026/)
+⬆️ 153 • 💬 194 • 21h ago • [Tomasz Tunguz](https://tomtunguz.com/ai-compute-crisis-2026/)
 
 ---
 
@@ -281,7 +281,17 @@ Get your FREE AI Prompt Cheatsheet here: https://go.danmartell.com/4tVJ4fz Are y
 
 📺 Dan Martell
 
-👁️ 138K • 👍 6K • 💬 956 • ⏱️ 14:03 • 1d ago
+👁️ 147K • 👍 7K • 💬 1K • ⏱️ 14:03 • 1d ago
+
+---
+
+**[AI News: Huge Updates From Anthropic, OpenAI and Google](https://www.youtube.com/watch?v=bIrzOQtnp8w)**
+
+Here's the AI News you probably missed this week. Build AI apps that actually scale. Learn more about Crusoe Managed ...
+
+📺 Matt Wolfe
+
+👁️ 10K • 👍 864 • 💬 57 • ⏱️ 36:44 • 3h ago
 
 ---
 
@@ -291,17 +301,27 @@ Really American host Steve Harness breaks down more HILARIOUS AI Trump parodies 
 
 📺 Really American
 
-👁️ 547K • 👍 34K • 💬 2K • ⏱️ 12:33 • 17h ago
+👁️ 626K • 👍 37K • 💬 2K • ⏱️ 12:33 • 18h ago
 
 ---
 
-**[Harvard just discovered what AI actually is](https://www.youtube.com/watch?v=nDL3Ch7Nz8c)**
+**[AI dangers revealed in new docuseries | Katie Pavlich Tonight](https://www.youtube.com/watch?v=10JNbO9KveE)**
 
-You're absolutely right, that IS a great reason to fire everyone! If you'd like to support my work, you can become a member to view ...
+Sean King O'Grady, the creator of the "Suspicious Minds: AI and psychosis" docuseries, joins NewsNation to discuss the ...
 
-📺 Mo Bitar
+📺 NewsNation
 
-👁️ 266K • 👍 18K • 💬 2K • ⏱️ 7:52 • 3d ago
+👁️ 2K • 👍 46 • 💬 4 • ⏱️ 4:19 • 13h ago
+
+---
+
+**[China Just Built an Autonomous AI Robot Army: Killer Robots With Guns and Rockets](https://www.youtube.com/watch?v=_Vw_6QrqS8c)**
+
+China just revealed an autonomous robot war pack built from dog bots, drones, laser weapons, and unmanned boats, Europe is ...
+
+📺 AI Revolution
+
+👁️ 33K • 👍 860 • 💬 86 • ⏱️ 16:14 • 19h ago
 
 ---
 
@@ -311,57 +331,27 @@ Triggernometry is proudly independent. Thanks to the sponsors below for making t
 
 📺 Triggernometry
 
-👁️ 188K • 👍 5K • 💬 2K • ⏱️ 1:11:10 • 1d ago
+👁️ 192K • 👍 6K • 💬 2K • ⏱️ 1:11:10 • 2d ago
 
 ---
 
-**[AI Actresses, Devices That Read Thoughts, and Robot Dogs](https://www.youtube.com/watch?v=RO0HxaIwhkQ)**
+**[How To ACTUALLY Make Money With AI Video](https://www.youtube.com/watch?v=7ccb8ArAqMs)**
 
-Taken from JRE #2484 w/David Cross YouTube: https://youtu.be/efJ1-q3XxVc JRE on Spotify: ...
+How To ACTUALLY Make Money With AI Video Best AI Tool to get started https://higgsfield.ai?fpr=dankieft&fp_sid=agency In ...
 
-📺 JRE Clips
+📺 Dan Kieft
 
-👁️ 128K • 👍 3K • 💬 747 • ⏱️ 15:26 • 1d ago
-
----
-
-**[Canva AI 2.0 Just Changed Everything](https://www.youtube.com/watch?v=yKt9puwEUyw)**
-
-DOWNLOAD THE CANVA CREATE 2026 FEATURE DECK: https://teamrondi.mykajabi.com/canva-create-updates-2026 (Get a ...
-
-📺 Design with Canva
-
-👁️ 10K • 👍 693 • 💬 135 • ⏱️ 21:02 • 1d ago
+👁️ 17K • 💬 24 • ⏱️ 14:35 • 10h ago
 
 ---
 
-**[Paperclip AI Just Changed How AI Agents Work Forever](https://www.youtube.com/watch?v=4Bra0p4lsac)**
+**[Easiest Way to Make Money with AI Now (Zero Code)](https://www.youtube.com/watch?v=AU5mbiTuZSg)**
 
-Host PaperClip Safely on Hostinger http://hostinger.com/youripaperclip In this video, I break down how Paperclip actually works ...
+Let's build an online business, together, LIVE in 5 days using AI (Starting April 26th, 2026): ...
 
-📺 Youri van Hofwegen
+📺 Iman Gadzhi
 
-👁️ 4K • 💬 2 • ⏱️ 11:29 • 2h ago
-
----
-
-**[Of course these cats are AI](https://www.youtube.com/watch?v=QFWUE2egnOg)**
-
-Is this video of three cats surfing down a stairway in boxes and hampers AI-generated? Of course! As cool as it sounds, there are a ...
-
-📺 Jeremy Carrasco
-
-👁️ 262K • 👍 21K • 💬 244 • ⏱️ 1:05 • 20h ago
-
----
-
-**[THE AI BUBBLE POP HAS STARTED...](https://www.youtube.com/watch?v=b5wOx2lZRM0)**
-
-Hello guys and gals, it's me Mutahar again! This time we take another look at the AI bubble and see the cracks finally start.
-
-📺 SomeOrdinaryGamers
-
-👁️ 504K • 👍 20K • 💬 2K • ⏱️ 20:54 • 2d ago
+👁️ 48K • 👍 3K • 💬 73 • ⏱️ 27:46 • 1d ago
 
 ---
 
@@ -371,7 +361,17 @@ Anthropic's new Mythos model has banks, tech giants and governments scrambling t
 
 📺 Bloomberg Television
 
-👁️ 85K • 👍 1K • 💬 96 • ⏱️ 4:19 • 1d ago
+👁️ 90K • 👍 1K • 💬 100 • ⏱️ 4:19 • 1d ago
+
+---
+
+**[New Gemini TTS AI Update is INSANE!](https://www.youtube.com/watch?v=YcohebHrXA0)**
+
+Get a FREE AI SEO Strategy Session: https://go.juliangoldie.com/strategy-session?utm=julian Want to make money and save time ...
+
+📺 Julian Goldie SEO
+
+👁️ 5K • 👍 134 • 💬 16 • ⏱️ 8:24 • 19h ago
 
 ---
 
@@ -387,19 +387,7 @@ MiniMax-M2.7 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 188,737 • ❤️ 910 • 7h ago
-
----
-
-**[HY-Embodied-0.5](https://huggingface.co/tencent/HY-Embodied-0.5)**
-
-*Tencent*
-
-HY-Embodied-0.5 is a multilingual vision-language model designed for embodied agents, excelling in spatial-temporal perception and reasoning. It features an efficient Mixture-of-Transformers (MoT) architecture for real-world robot control and VLA pipelines.
-
-`image-text-to-text` `3.8B`
-
-⬇️ 1,287 • ❤️ 845 • 3d ago
+⬇️ 188,737 • ❤️ 916 • 8h ago
 
 ---
 
@@ -411,7 +399,19 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with a vision encoder, 
 
 `image-text-to-text` `36.0B`
 
-⬇️ 21,180 • ❤️ 667 • 2d ago
+⬇️ 21,180 • ❤️ 691 • 2d ago
+
+---
+
+**[HY-Embodied-0.5](https://huggingface.co/tencent/HY-Embodied-0.5)**
+
+*Tencent*
+
+HY-Embodied-0.5 is a multilingual vision-language model designed for embodied agents, excelling in spatial-temporal perception and reasoning. It features an efficient Mixture-of-Transformers (MoT) architecture for real-world robot control and VLA pipelines.
+
+`image-text-to-text` `3.8B`
+
+⬇️ 1,287 • ❤️ 847 • 3d ago
 
 ---
 
@@ -423,7 +423,7 @@ GLM-5.1 is a next-generation language model optimized for agentic engineering, f
 
 `text-generation` `753.9B`
 
-⬇️ 100,019 • ❤️ 1,370 • 1d ago
+⬇️ 100,019 • ❤️ 1,374 • 1d ago
 
 ---
 
@@ -435,7 +435,7 @@ ERNIE-Image is a 8B parameter text-to-image diffusion model excelling in complex
 
 `text-to-image`
 
-⬇️ 2,254 • ❤️ 409 • 14h ago
+⬇️ 2,254 • ❤️ 413 • 15h ago
 
 ---
 
@@ -447,7 +447,7 @@ Gemma 4 31B is an instruction-tuned, multimodal LLM capable of processing text a
 
 `image-text-to-text` `32.7B`
 
-⬇️ 3,513,465 • ❤️ 2,009 • 7d ago
+⬇️ 3,513,465 • ❤️ 2,011 • 7d ago
 
 ---
 
@@ -471,7 +471,7 @@ VoxCPM2 is a 2B parameter, 30-language multilingual text-to-speech model capable
 
 `text-to-speech`
 
-⬇️ 18,089 • ❤️ 1,092 • 1d ago
+⬇️ 18,089 • ❤️ 1,095 • 1d ago
 
 ---
 
@@ -483,7 +483,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with vision capabilitie
 
 `image-text-to-text` `34.7B`
 
-⬇️ 153,019 • ❤️ 313 • 1d ago
+⬇️ 153,019 • ❤️ 327 • 1d ago
 
 ---
 
@@ -495,7 +495,7 @@ Gemma-4-31B-JANG_4M-CRACK is a 31B parameter text-generation model optimized for
 
 `image-text-to-text` `6.4B`
 
-⬇️ 152,762 • ❤️ 1,255 • 16h ago
+⬇️ 152,762 • ❤️ 1,257 • 17h ago
 
 ---
 
@@ -521,7 +521,7 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 HY-World 2.0 is a multi-modal world model framework that generates high-fidelity 3D Gaussian Splatting scenes from diverse inputs using specialized modules for panorama generation, trajectory planning, world expansion, and composition, along with an enhanced rendering platform for interactive 3D exploration.
 
-▲ 62 • 💬 1 • ⭐ 929 • 2d ago
+▲ 64 • 💬 1 • ⭐ 929 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.14268) • [💻 code](https://github.com/Tencent-Hunyuan/HY-World-2.0) • [🔗 project](https://3d-models.hunyuan.tencent.com/world/)
 
@@ -533,7 +533,7 @@ HY-World 2.0 is a multi-modal world model framework that generates high-fidelity
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 47 • 💬 2 • ⭐ 51,053 • 15mo ago
+▲ 47 • 💬 2 • ⭐ 51,183 • 15mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -642,7 +642,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 47.5k • 🔱 6.2k • 9h ago
+⭐ 47.5k • 🔱 6.2k • 10h ago
 
 ---
 
@@ -652,7 +652,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 36.5k • 🔱 1.7k • 2d ago
+⭐ 36.6k • 🔱 1.8k • 2d ago
 
 ---
 
@@ -662,7 +662,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 35.5k • 🔱 7.1k • 2d ago
+⭐ 35.5k • 🔱 7.1k • 3d ago
 
 ---
 
@@ -672,7 +672,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 28.9k • 🔱 3.2k • 2h ago
+⭐ 29.0k • 🔱 3.2k • 3h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-17T17:14:15.882466+00:00'
+updated: '2026-04-17T18:12:06.097101+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
-- social
+- news
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 17, 2026 at 17:14 UTC  
+**Last Updated:** April 17, 2026 at 18:12 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1557.50B
+**Market Cap:** $1551.74B
 Rank #1
 
-**Circulating Supply:** 20,017,137 BTC
+**Circulating Supply:** 20,017,171 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--38.3%
+-38.7%
 
 **All-Time Low:** $67.81
-+114639.7%
++113858.1%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Hey everyone, I’ve been buying Bitcoin since 2012/2013. I’ve lived through it all, studied all cycles in detail, and I’m usually dead silent on Reddit, I just lurk, watch, and stay out of the noise. Never really comment. But… This feels massively like the 2013 cycle and the 2021 cycle. We’d hit a top, then a brutal dip where everyone piled into the “lower lows incoming,” “it’s over,” narrative. Capitulation everywhere. Then, surprise, it bounced hard and went on to make new cycle highs. That’s exactly what I see playing out right now. We topped at roughly $126,200 in early October 2025. Since then we’ve had the classic post-peak flush, fear, and bearish calls for even lower prices. But to me this looks like the same retest/bounce setup we’ve seen before. The crowd is getting shaken out again right before the next leg higher. In my experience, this is when things get very bullish. A lot of people are going to sit on the sidelines waiting for “the real bottom” that never comes. People think the cycle top has com and we have entered bear, but the market is maturing and becoming longer. Wouldn’t surprise me at all if we see the cycle top sometime in late 2026 or 2027 in the $180k–$220k range. Just my two sats after watching this market for over a decade. Do your own research, never financial advice… but damn if this doesn’t feel familiar in the best possible way. Stay safe out there. (And yeah… still not selling.)
 
-1h ago
+2h ago
 
 ---
 
@@ -89,13 +89,13 @@ Hey everyone, I’ve been buying Bitcoin since 2012/2013. I’ve lived through i
 
 What do you guys think... will it HODL?
 
-4h ago
+5h ago
 
 ---
 
 **[The current situation in one picture](https://www.reddit.com/r/Bitcoin/comments/1so1wy0/the_current_situation_in_one_picture/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -103,7 +103,7 @@ What do you guys think... will it HODL?
 
 Hahahah trains leaving the station 😂😂 where are all the 30k people at now ?? Unlucky boys. Better luck next time 🤡✌️
 
-3h ago
+4h ago
 
 ---
 
@@ -111,7 +111,7 @@ Hahahah trains leaving the station 😂😂 where are all the 30k people at now 
 
 I've been learning more about Bitcoin lately and curious what clicked for others. What made you believe in it long term?
 
-2h ago
+3h ago
 
 ---
 
@@ -119,7 +119,7 @@ I've been learning more about Bitcoin lately and curious what clicked for others
 
 I unload a few shipping containers each month at my job. I usually sign the inside wall like this one I unloaded today. I’ve been doing it for years. If you ever see my note out there in the wild let me know.
 
-17h ago
+18h ago
 
 ---
 
@@ -127,7 +127,7 @@ I unload a few shipping containers each month at my job. I usually sign the insi
 
 See you in a couple of hours when it plummets
 
-4h ago
+5h ago
 
 ---
 
@@ -135,19 +135,19 @@ See you in a couple of hours when it plummets
 
 Heavy liquidity in the 80s along with 2 cme gaps. If the bulls r really lucky they can hit 90k which has a ton of liquidity. At that point no one will know if we’re back in a bull market. 80s from here is still bullish. This is y u dca and buy the dips. Congrats to those who bought in the 60s. We going moon
 
-7h ago
+8h ago
 
 ---
 
 **[So we meet again](https://www.reddit.com/r/Bitcoin/comments/1snfwvz/so_we_meet_again/)**
 
-20h ago
+21h ago
 
 ---
 
 **[Every time they say BTC is dead, it just climbs another $4k.](https://www.reddit.com/r/Bitcoin/comments/1so2gyt/every_time_they_say_btc_is_dead_it_just_climbs/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -165,13 +165,13 @@ CNBC • 1d ago
 
 **[Bitcoin’s Greatest Mystery](https://www.nytimes.com/2026/04/16/world/bitcoin-satoshi-adam-back-israel-lebanon-ceasefire.html)**
 
-The New York Times • 12h ago
+The New York Times • 13h ago
 
 ---
 
 **[Alcoa Is Close to a Deal to Sell Smelter Site to Bitcoin Miner](https://www.bloomberg.com/news/articles/2026-04-17/alcoa-is-close-to-a-deal-to-sell-smelter-site-to-bitcoin-miner)**
 
-Bloomberg.com • 29m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -179,7 +179,7 @@ Bloomberg.com • 29m ago
 
 Oil prices slumped as Trump said Iran committed to open the Strait of Hormuz and the U.S. plans to acquire that country's enriched uranium as part of a deal.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -187,7 +187,7 @@ CoinDesk • 1h ago
 
 Hollywood's first $70 million AI-generated movie "Bitcoin: Killing Satoshi" used algorithms to replace $300M in traditional filming costs.
 
-Yahoo • 55m ago
+Yahoo • 1h ago
 
 ---
 
@@ -195,7 +195,7 @@ Yahoo • 55m ago
 
 “Not only gotten away with it, they’ve made a ton of money,” says actor Ben McKenzie, whose doc explores crypto’s crash and Trump-fueled rise.
 
-New York Magazine • 6h ago
+New York Magazine • 7h ago
 
 ---
 
@@ -203,13 +203,13 @@ New York Magazine • 6h ago
 
 Iran's foreign minister said the Strait of Hormuz will remain completely open for the remainder of the ceasefire.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
 **[Bitcoin Gains After Iran Foreign Minister Declares Strait of Hormuz Open](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-04-17-2026/card/bitcoin-gains-after-iran-foreign-minister-declares-strait-of-hormuz-open-OmNI2Wf8tld0CaPJtZUO)**
 
-WSJ • 2h ago
+WSJ • 3h ago
 
 ---
 
@@ -217,7 +217,7 @@ WSJ • 2h ago
 
 Bitcoin spiked above $77,000 as stock indices set records, following word that Iran's Strait of Hormuz is open during the ceasefire.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -225,7 +225,7 @@ Yahoo Finance • 3h ago
 
 Bitcoin climbed toward $76,000 as ETF demand improves and Wall Street hits record highs, but analysts say the rally still looks fragile.
 
-The Block • 5h ago
+The Block • 6h ago
 
 ---
 
@@ -319,17 +319,17 @@ Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FR
 
 📺 CryptosRUs
 
-👁️ 8K • 👍 744 • 💬 20 • ⏱️ 51:00 • 4h ago
+👁️ 12K • 👍 930 • 💬 54 • ⏱️ 51:00 • 5h ago
 
 ---
 
-**[$12 Trillion Charles Schwab To Launch Bitcoin And Ethereum Trading — “Schwab Crypto”  Is Coming](https://www.youtube.com/watch?v=vvq0fKhoUM0)**
+**[Bitcoin Warning: Why BTC Hasn&#39;t Bottomed — Plus ETH, SOL, XRP &amp; Altcoin Targets](https://www.youtube.com/watch?v=qSxd31mu0UQ)**
 
-IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purposes only. NOT financial, investment, or ...
+Gareth Soloway, Chief Market Strategist at Verified Investing, breaks down the latest crypto price action across Bitcoin, Ethereum, ...
 
-📺 The Kenzo Guy
+📺 Verified Pro Traders
 
-👁️ 6K • 👍 321 • 💬 26 • ⏱️ 25:48 • 20h ago
+👁️ 11K • 👍 980 • 💬 101 • ⏱️ 8:13 • 7h ago
 
 ---
 
@@ -339,37 +339,17 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Com
 
 📺 Altcoin Daily
 
-👁️ 47K • 👍 2K • 💬 136 • ⏱️ 14:13 • 1d ago
+👁️ 48K • 👍 2K • 💬 139 • ⏱️ 14:13 • 1d ago
 
 ---
 
-**[&quot;Chaos Is a Ladder”: Bitwise’s Matt Hougan on Bitcoin’s Path to $1M](https://www.youtube.com/watch?v=v2MuE-dzQiw)**
+**[$12 Trillion Charles Schwab To Launch Bitcoin And Ethereum Trading — “Schwab Crypto”  Is Coming](https://www.youtube.com/watch?v=vvq0fKhoUM0)**
 
-In today's Markets Outlook, Bitwise CIO Matt Hougan joins CoinDesk's Jennifer Sanasie to make the case for $1 million bitcoin, ...
+IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purposes only. NOT financial, investment, or ...
 
-📺 CoinDesk
+📺 The Kenzo Guy
 
-👁️ 15K • 👍 376 • 💬 65 • ⏱️ 20:47 • 22h ago
-
----
-
-**[Strategy Buys 4,000 Bitcoin in 30 Minutes | Bitcoin&#39;s Price Floor Just Changed FOREVER](https://www.youtube.com/watch?v=OyA6eKmys4E)**
-
-Bitcoin just entered a new phase and most people still don't see it. Massive institutional buys, macro shifts, and a supply shock are ...
-
-📺 Simply Bitcoin
-
-👁️ 33K • 👍 2K • 💬 168 • ⏱️ 16:45 • 1d ago
-
----
-
-**[BITCOIN HOLDERS: PREPARE FOR THIS...](https://www.youtube.com/watch?v=p2LHZbgSSJU)**
-
-WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25% FEE DISCOUNT & GET FREE $25 ...
-
-📺 Crypto Rover
-
-👁️ 10K • 👍 674 • 💬 47 • ⏱️ 9:18 • 11h ago
+👁️ 6K • 👍 327 • 💬 27 • ⏱️ 25:48 • 21h ago
 
 ---
 
@@ -379,37 +359,57 @@ Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FR
 
 📺 CryptosRUs
 
-👁️ 18K • 👍 971 • 💬 43 • ⏱️ 44:22 • 1d ago
+👁️ 18K • 👍 973 • 💬 43 • ⏱️ 44:22 • 1d ago
 
 ---
 
-**[Michael Saylor Predicts $400T Bitcoin After Buying $1B in a Single Day!](https://www.youtube.com/watch?v=yl2q52XWG6s)**
+**[&quot;Chaos Is a Ladder”: Bitwise’s Matt Hougan on Bitcoin’s Path to $1M](https://www.youtube.com/watch?v=v2MuE-dzQiw)**
 
-Michael Saylor may have just revealed the most aggressive Bitcoin accumulation strategy yet. This breaks down how Strategy's ...
+In today's Markets Outlook, Bitwise CIO Matt Hougan joins CoinDesk's Jennifer Sanasie to make the case for $1 million bitcoin, ...
+
+📺 CoinDesk
+
+👁️ 16K • 👍 398 • 💬 65 • ⏱️ 20:47 • 23h ago
+
+---
+
+**[Strategy Buys 4,000 Bitcoin in 30 Minutes | Bitcoin&#39;s Price Floor Just Changed FOREVER](https://www.youtube.com/watch?v=OyA6eKmys4E)**
+
+Bitcoin just entered a new phase and most people still don't see it. Massive institutional buys, macro shifts, and a supply shock are ...
 
 📺 Simply Bitcoin
 
-👁️ 86K • 👍 3K • 💬 389 • ⏱️ 20:15 • 2d ago
+👁️ 33K • 👍 2K • 💬 169 • ⏱️ 16:45 • 1d ago
 
 ---
 
-**[BITCOIN PRICE TARGETS REVEALED (Short Squeeze)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=3ZWbfmJy77s)**
+**[BITCOIN HOLDERS: PREPARE FOR THIS...](https://www.youtube.com/watch?v=p2LHZbgSSJU)**
 
-BITCOIN PRICE TARGETS REVEALED (Short Squeeze)!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
+WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25% FEE DISCOUNT & GET FREE $25 ...
 
-📺 Crypto World
+📺 Crypto Rover
 
-👁️ 6K • 👍 274 • 💬 117 • ⏱️ 23:17 • 14h ago
+👁️ 11K • 👍 703 • 💬 30 • ⏱️ 9:18 • 12h ago
 
 ---
 
-**[He LOST a Millionaire&#39;s Bitcoin?!](https://www.youtube.com/watch?v=t37RUrbMrAA)**
+**[You Keep Doubting This Bitcoin Rally [That&#39;s Why It Keeps Pumping]](https://www.youtube.com/watch?v=biKiwNkBUiw)**
 
-He LOST a Millionaire's Bitcoin?! Welcome to The Success Formula Clips account - the most valuable clips from every episode.
+Ran breaks down what might be the most hated rally in crypto right now, where price keeps climbing but conviction is still missing.
 
-📺 Success Formula Daily
+📺 Crypto Banter
 
-👁️ 29K • 👍 145 • 💬 3 • ⏱️ 0:37 • 1d ago
+👁️ 17K • 👍 1K • 💬 43 • ⏱️ 28:53 • 1d ago
+
+---
+
+**[The Other Side of the Bitcoin: Crypto &amp; Corruption w/Ben McKenzie | The Weekly Show with Jon Stewart](https://www.youtube.com/watch?v=3fhLpauSInk)**
+
+As cryptocurrency continues to embed itself in American politics, Jon is joined by Ben McKenzie, author of "Easy Money" and ...
+
+📺 The Weekly Show with Jon Stewart
+
+👁️ 151K • 👍 5K • 💬 930 • ⏱️ 1:35:48 • 1d ago
 
 ---
 
