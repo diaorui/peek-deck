@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-18T22:36:08.814872+00:00'
+updated: '2026-04-18T23:36:35.587139+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
+- cryptocurrency
 - news
 - videos
-- cryptocurrency
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 18, 2026 at 22:36 UTC  
+**Last Updated:** April 18, 2026 at 23:36 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,14 +38,14 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $75,786.34
+### $75,856.17
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.7%  
-**7d:** +7.2%  
+**24h:** -1.8%  
+**7d:** +7.1%  
 **30d:** +7.5%  
 **90d:** -18.2%  
 **1y:** -11.0%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1517.63B
+**Market Cap:** $1517.47B
 Rank #1
 
-**Circulating Supply:** 20,017,653 BTC
+**Circulating Supply:** 20,017,715 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
 -39.9%
 
 **All-Time Low:** $67.81
-+111719.8%
++111635.7%
 
 ---
 
@@ -77,19 +77,19 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[When BTC starts pumping, it will not give you a chance to get in](https://www.reddit.com/r/Bitcoin/comments/1sozszo/when_btc_starts_pumping_it_will_not_give_you_a/)**
-
-I was greedy in 2022 during the crash and wanted to wait for 12k to buy. 12k never came. After BTC teleported from 15k to 30k, I wanted a deep dip to 20k to buy. 20k never came. Then I watched BTC teleport from 25k to 70k without a single down month. Zero dips given. Then the 50k dip came but got bought up by the market instantly, the window to buy was extremely shortlived and I couldn't get in. Then BTC proceeded to teleport from 50k to 110k in just a few weeks and I basically missed the whole cycle. I have a feeling the same people waiting for 40k-50k now will go through what I went through and watch as BTC teleports to 500k (or whatever the next top is) without a single major dip.
-
-7h ago
-
----
-
 **[The duality of man](https://www.reddit.com/r/Bitcoin/comments/1sp2tqn/the_duality_of_man/)**
 
 I have a group of friends that watched me make a ton of money during the 2016-2017 crypto market and asked me to tell them the next time I believed was a good time to buy (surprise, it’s almost always a good time to buy) so whenever it became a bear market, I would shoot the group chat a message and let them know it’s a good time to buy. I would get mocking responses like “Oh yeah I bet it’s a good time to buy, it’s down 10%”. They would even message me the next day when it’s down 11% and say things like “ooh it’s even lower now, I guess today’s a good day to buy too” And then the bull market comes and my group chat is peppered with angry messages about how they missed the bull run and how I didn’t tell them it’s coming. Messages like “you gotta tell me the next time it’s good to buy!” I quickly learnt that there are just some things people can’t be taught, they have to learn it themselves. Moral of the story, don’t tell people you’re into crypto and don’t tell people you made gains, regardless of who they are, in the end it’s just a headache for you.
 
-5h ago
+6h ago
+
+---
+
+**[When BTC starts pumping, it will not give you a chance to get in](https://www.reddit.com/r/Bitcoin/comments/1sozszo/when_btc_starts_pumping_it_will_not_give_you_a/)**
+
+I was greedy in 2022 during the crash and wanted to wait for 12k to buy. 12k never came. After BTC teleported from 15k to 30k, I wanted a deep dip to 20k to buy. 20k never came. Then I watched BTC teleport from 25k to 70k without a single down month. Zero dips given. Then the 50k dip came but got bought up by the market instantly, the window to buy was extremely shortlived and I couldn't get in. Then BTC proceeded to teleport from 50k to 110k in just a few weeks and I basically missed the whole cycle. I have a feeling the same people waiting for 40k-50k now will go through what I went through and watch as BTC teleports to 500k (or whatever the next top is) without a single major dip.
+
+8h ago
 
 ---
 
@@ -99,9 +99,15 @@ I have a group of friends that watched me make a ton of money during the 2016-20
 
 ---
 
+**[NBA Coach Regrets Not Buying Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1spao0u/nba_coach_regrets_not_buying_bitcoin/)**
+
+1h ago
+
+---
+
 **[Do the maths!!](https://www.reddit.com/r/Bitcoin/comments/1sosymz/do_the_maths/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -109,13 +115,15 @@ I have a group of friends that watched me make a ton of money during the 2016-20
 
 Central bank greenlights regulated crypto access while keeping strict curbs on balance-sheet exposure
 
-🔗 [coindesk.com](https://www.coindesk.com/policy/2026/04/15/pakistan-lifts-seven-year-ban-allowing-banks-to-service-virtual-asset-providers) • 11h ago
+🔗 [coindesk.com](https://www.coindesk.com/policy/2026/04/15/pakistan-lifts-seven-year-ban-allowing-banks-to-service-virtual-asset-providers) • 12h ago
 
 ---
 
-**[NBA Coach Regrets Not Buying Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1spao0u/nba_coach_regrets_not_buying_bitcoin/)**
+**[How much Bitcoin have you sold since you got in and do you regret it?](https://www.reddit.com/r/Bitcoin/comments/1spbxpr/how_much_bitcoin_have_you_sold_since_you_got_in/)**
 
-39m ago
+You might not want to add how long you've been in but I will. 4 years. Sold .05 BTC. Regret? Yes. But I've recouped it since then so I don't consider it that big of a deal.
+
+45m ago
 
 ---
 
@@ -123,7 +131,7 @@ Central bank greenlights regulated crypto access while keeping strict curbs on b
 
 Genuinely so happy to be done, I’ve reached my goal amount of btc to feel comfortable. I won’t lie, I make minimum wage for LA standard and ima stop buying and let it ride. Could hypothetically keep buying more but I truly have the next goal of getting 10k in fiat in my HYSA before touching any market. Sold all my stock to get to my goal and don’t regret it. Letting it ride and won’t open my wallets till I reach my saving goal. Thank you for all your help and advice, never been prouder.
 
-10h ago
+11h ago
 
 ---
 
@@ -131,15 +139,7 @@ Genuinely so happy to be done, I’ve reached my goal amount of btc to feel comf
 
 I'm so long.
 
-23h ago
-
----
-
-**[Recommended non kyc exchanges?](https://www.reddit.com/r/Bitcoin/comments/1sp7q9a/recommended_non_kyc_exchanges/)**
-
-Been out of the game for a few years. Getting back in and privacy still matters to me not hiding anything, just don't like handing over personal data. Are there any reliable non-KYC exchanges that work well ? Just looking for something simple to get started again. Thanks.
-
-2h ago
+1d ago
 
 ---
 
@@ -147,7 +147,7 @@ Been out of the game for a few years. Getting back in and privacy still matters 
 
 Trying to understand how people approach Bitcoin long term. Do you keep adding over time or just hold and wait?
 
-7h ago
+8h ago
 
 ---
 
@@ -157,51 +157,31 @@ Trying to understand how people approach Bitcoin long term. Do you keep adding o
 
 **[‘Buy Bitcoin’—Elon Musk’s ‘Massive’ U.S. Dollar Warning Fuels Wild Crypto Price Predictions](https://www.forbes.com/sites/digital-assets/2026/04/18/buy-bitcoin-elon-musks-massive-us-dollar-warning-fuels-wild-crypto-price-predictions/)**
 
-Forbes • 11h ago
+Forbes • 12h ago
 
 ---
 
-**[How Michael Saylor's Strategy is shaping bitcoin's price landscape](https://finance.yahoo.com/video/how-michael-saylors-strategy-is-shaping-bitcoins-price-landscape-210842819.html)**
+**[Rep. Sheri Biggs Discloses $250,000 Bitcoin ETF Buy Amid Reserve Bill Push](https://finance.yahoo.com/markets/crypto/articles/rep-sheri-biggs-discloses-250-222700478.html)**
 
-Scott Melker, the host of "The Wolf of All Streets" podcast, sits down with Yahoo Finance anchor Josh Lipton to discuss the impacts of Strategy's (MSTR) most recent bitcoin (BTC-USD) purchase. "The Daily Wolf with Scott Melker" premieres on Yahoo Finance on Monday, Apr. 20 at 12:00 p.m. Tune in every day for your daily dose of all things crypto. Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
+Rep. Sheri Biggs disclosed a $250,000 IBIT BlackRock BTC ETF buy as the Senate weighs a Strategic Bitcoin Reserve bill.
 
 Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin Price Surges Amid Epic Strategy Buying Spree](https://www.investors.com/news/bitcoin-price-strategy-buying-power-mstr-stock-strc-issuance-saylor/)**
+**[Congresswoman Biggs discloses six-figure BlackRock bitcoin ETF buy as BTC rebounds](https://www.theblock.co/post/397939/congresswoman-biggs-six-figure-blackrock-bitcoin-etf-buy-btc-rebounds)**
 
-Investor's Business Daily • 1d ago
+Rep. Sheri Biggs disclosed a purchase of up to $250,000 in BlackRock’s iShares Bitcoin Trust ETF for the second time in a year.
 
----
-
-**[Why Michael Saylor's Strategy decided to make STRC's dividend bi-monthly](https://www.coindesk.com/markets/2026/04/18/why-michael-saylor-s-strategy-decided-to-make-strc-s-dividend-bi-monthly)**
-
-Strategy aim to reduce volatility, enable consistent bitcoin buying, and create the only bi-monthly paying preferred shares in the market.
-
-CoinDesk • 2h ago
+The Block • 1d ago
 
 ---
 
-**[From smelters to servers: Alcoa to cash in on crypto’s thirst for energy](https://www.coindesk.com/business/2026/04/18/from-smelters-to-servers-alcoa-to-cash-in-on-crypto-s-thirst-for-energy)**
+**[Congresswoman Sheri Biggs Discloses Up to $250,000 BTC Investment via iShares Bitcoin ETF](https://bitcoinmagazine.com/news/sheri-biggs-discloses-250000-bitcoin)**
 
-Alcoa is in advanced negotiations to sell its dormant Massena East smelter in upstate New York to Bitcoin mining firm NYDIG.
+Representative Sheri Biggs of South Carolina has disclosed a purchase of up to $250,000 in Bitcoin exposure.
 
-CoinDesk • 2h ago
-
----
-
-**[Coinbase Says MicroStrategy’s Bitcoin Buying Tightens Supply More Than Market Expects](https://finance.yahoo.com/markets/crypto/articles/coinbase-says-microstrategy-bitcoin-buying-201502595.html)**
-
-Coinbase Institutional argues Strategy's BTC buying tightens supply as digital asset treasuries surpass 4% of all Bitcoin.
-
-Yahoo Finance • 2h ago
-
----
-
-**[Bitcoin’s Greatest Mystery](https://www.nytimes.com/2026/04/16/world/bitcoin-satoshi-adam-back-israel-lebanon-ceasefire.html)**
-
-The New York Times • 1d ago
+Bitcoin Magazine • 1d ago
 
 ---
 
@@ -213,11 +193,25 @@ Investopedia • 1d ago
 
 ---
 
-**[Charles Schwab to launch direct bitcoin, ether trading to compete with Robinhood](https://www.cnbc.com/2026/04/16/charles-schwab-to-launch-direct-bitcoin-ethereum-trading-to-compete-with-robinhood.html)**
+**[Bitcoin’s Greatest Mystery](https://www.nytimes.com/2026/04/16/world/bitcoin-satoshi-adam-back-israel-lebanon-ceasefire.html)**
 
-Charles Schwab is rolling out crypto trading, allowing clients to buy bitcoin and ether through a new arm called Schwab Crypto.
+The New York Times • 2d ago
 
-CNBC • 2d ago
+---
+
+**[Bitcoin falls back to $76,000 as Iran shuts Hormuz again](https://www.coindesk.com/markets/2026/04/18/bearish-bets-lose-usd593-million-as-bitcoin-jumps-with-iran-fully-opening-hormuz)**
+
+One of the biggest short liquidations 2026 wiped $593 million in bearish bets overnight. Saturday afternoon as Iran reportedly reversed the Hormuz reopening.
+
+CoinDesk • 12h ago
+
+---
+
+**[Bitcoin retakes $78,000 as Trump declares Hormuz 'open and ready for business'](https://www.theblock.co/post/397898/bitcoin-retakes-78000-trump-hormuz-open-ready-business)**
+
+The bitcoin move spread to other major cryptocurrencies, lifting the total market cap back above $2.7 trillion.
+
+The Block • 1d ago
 
 ---
 
@@ -226,6 +220,14 @@ CNBC • 2d ago
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
 Fortune • 1d ago
+
+---
+
+**[Charles Schwab to launch direct bitcoin, ether trading to compete with Robinhood](https://www.cnbc.com/2026/04/16/charles-schwab-to-launch-direct-bitcoin-ethereum-trading-to-compete-with-robinhood.html)**
+
+Charles Schwab is rolling out crypto trading, allowing clients to buy bitcoin and ether through a new arm called Schwab Crypto.
+
+CNBC • 2d ago
 
 ---
 
@@ -317,7 +319,7 @@ Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=Al
 
 📺 Altcoin Daily
 
-👁️ 43K • 👍 2K • 💬 230 • ⏱️ 8:39 • 23h ago
+👁️ 43K • 👍 2K • 💬 230 • ⏱️ 8:39 • 1d ago
 
 ---
 
@@ -327,7 +329,7 @@ Bitcoin just hit $78K and the signals are impossible to ignore. Institutions are
 
 📺 Simply Bitcoin
 
-👁️ 7K • 👍 669 • 💬 84 • ⏱️ 12:49 • 6h ago
+👁️ 7K • 👍 669 • 💬 84 • ⏱️ 12:49 • 7h ago
 
 ---
 
@@ -337,7 +339,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 32K • 👍 2K • 💬 16 • ⏱️ 57:41 • 9h ago
+👁️ 32K • 👍 2K • 💬 16 • ⏱️ 57:41 • 10h ago
 
 ---
 
@@ -357,7 +359,7 @@ Sell Your FTX Claim w/ FTX Creditor: https://www.ftxcreditor.com Follow Louis on
 
 📺 Aaron Bennett
 
-👁️ 4K • 👍 250 • 💬 146 • ⏱️ 8:08 • 21h ago
+👁️ 4K • 👍 250 • 💬 146 • ⏱️ 8:08 • 22h ago
 
 ---
 
