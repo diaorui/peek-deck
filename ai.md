@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-18T14:09:42.219655+00:00'
+updated: '2026-04-18T15:06:57.323022+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
 - social
+- videos
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 18, 2026 at 14:09 UTC  
+**Last Updated:** April 18, 2026 at 15:06 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,19 +45,35 @@ Tried posting this in r/ClaudeAI but it got auto-removed, and I was told to post
 
 ---
 
+**[Gemma 4 actually running usable on an Android phone (not llama.cpp)](https://www.reddit.com/r/artificial/comments/1sozytf/gemma_4_actually_running_usable_on_an_android/)**
+
+I wanted a real local assistant on my phone, not a demo. First tried the usual llama.cpp in Termux — Gemma 4 was 2–3 tok/s and the phone was on fire. Then I switched to Google’s LiteRT setup, got Gemma 4 running smoothly, and wired it into an agent stack running in Termux. Now one Android phone is: running the LLM locally automating its own apps via ADB staying offline if I want Happy to share details + code and hear what else you’d build on top of this. https://preview.redd.it/7vkbrlzfryvg1.jpg?width=3024&format=pjpg&auto=webp&s=25455827ddf9715b4159ce64a18deba812cf0f5f
+
+4m ago
+
+---
+
+**[Does an "AI messenger" exist?](https://www.reddit.com/r/artificial/comments/1sozgok/does_an_ai_messenger_exist/)**
+
+Curious if anyone has found anything like this in their journeys: Instead of sending a big long email or document to a colleague and having them not read it, what if you sent an agent of sorts instead to deliver a brief message but also allow the receiver to ask more detailed questions if they have any? The agent could be loaded with various docs / details that could be referenced if the recipient has follow up questions without having to go back to the sender. This could be in various forms: chatbot, virtual avatar, or my favorite: a star-wars-like hologram 😂
+
+24m ago
+
+---
+
+**[AI helped me build a custom PC and 4 apps in 6 months with zero coding experience](https://www.reddit.com/r/artificial/comments/1sozcus/ai_helped_me_build_a_custom_pc_and_4_apps_in_6/)**
+
+Mid-October, early morning at work. I was hunting for a podcast to throw on while I worked and stumbled into something about what AI could actually do now. You can build apps with AI. Excuse me? I’ve wanted to build an app since I opened my first one. So I went all in. Had zero clue how to build a computer, but I knew the cheap pre-builts weren’t going to cut it. And I figured, if AI can build an app, it should definitely be able to build a computer. Started conversations with ChatGPT and Claude. Thirty minutes later I had a custom parts list with ample headroom. Way overbuilt, on purpose. Ran it by my Guru. He said, “I see you used the PC Part Picker app.” I said nope, used AI. He looked the list over again, read the reasoning behind every part, and said, “I’m impressed. Never even thought of doing that.” Ordered everything. The DemoN was born. I had barely messed around on computers before this. Now I’m living in terminals and sandboxes, building stuff I didn’t know was possible six months ago. My advice? Jump in. Start learning. This isn’t a fad. It’s here to stay. Don’t get left behind.
+
+28m ago
+
+---
+
 **[Google patents AI tech that will personalize websites and make them look different for everyone](https://www.reddit.com/r/artificial/comments/1so3vto/google_patents_ai_tech_that_will_personalize/)**
 
 The patent describes a system that uses artificial intelligence to create personalized web pages for each user.
 
-🔗 [PC Guide](https://www.pcguide.com/news/google-patents-ai-tech-that-will-personalize-websites-and-make-them-look-different-for-everyone/) • 22h ago
-
----
-
-**[Open-source list of GenAI-related incidents](https://www.reddit.com/r/artificial/comments/1sotbeo/opensource_list_of_genairelated_incidents/)**
-
-I am sharing this open-source list of cases where the ethics of GenAI use were put in the spotlight, in the hopes of sparking discussion on the usage and limitations of LLMs.
-
-🔗 [GitHub](https://github.com/hb20007/awesome-gen-ai-fails#readme) • 4h ago
+🔗 [PC Guide](https://www.pcguide.com/news/google-patents-ai-tech-that-will-personalize-websites-and-make-them-look-different-for-everyone/) • 23h ago
 
 ---
 
@@ -65,7 +81,15 @@ I am sharing this open-source list of cases where the ethics of GenAI use were p
 
 I went out to create something that would would build prds for me for projects I'm working on. The core idea it is that it asks for all of the information that's needed for a PRD and it could also review the existing code to answer these questions. Then it breaks up the parts of the plan into separate files and only starts the next part after the first part is complete. Added to that is that it's reaching out to codex every end of part and does an independent review of the code. What I found that was really cool is that when I did that with my existing project to enhance it, the system continued to find more issues through the feedback loop with codex and opened new prds for those issues. So essentially it's running through my code finding issues as it's working on extending it
 
-12h ago
+13h ago
+
+---
+
+**[Open-source list of GenAI-related incidents](https://www.reddit.com/r/artificial/comments/1sotbeo/opensource_list_of_genairelated_incidents/)**
+
+I am sharing this open-source list of cases where the ethics of GenAI use were put in the spotlight, in the hopes of sparking discussion on the usage and limitations of LLMs.
+
+🔗 [GitHub](https://github.com/hb20007/awesome-gen-ai-fails#readme) • 5h ago
 
 ---
 
@@ -77,43 +101,19 @@ Reese Witherspoon is again advising her followers that there's no time like the 
 
 ---
 
-**[The AI Wearable Ecosystem: Closer than you think. Socially acceptable?](https://www.reddit.com/r/artificial/comments/1sors65/the_ai_wearable_ecosystem_closer_than_you_think/)**
-
-I've been researching how personal AI tech devices are likely to develop ... technical capabilities, form factors, privacy and governance issues etc. I think it looks likely that there won't be one 'must have' device, and that there'll be more of a wearable ecosystem, with devices for different environments ... Glasses: outward and inward cameras, picking up facial expressions, gestures etc. Bone conduction audio. Augmented VR, infrared overlay etc. Cuff/Wristband: beyond a smart watch .. sensors picking up finger movements/gestures as input. Haptic actuators giving silent notifications. Pen/Stylus: currently underused as could also pick up gestures and have a microphone. Table top Node: palm sized unit. 360 degree vision and audio. Scout/Mini Drone: hovers above you for all round awareness, or can be sent ahead to scout an area, or find you children etc. All integrating with your smart phone, which may become more of a portable battery bank for charging other devices. Here's a blog post I have written that goes into more detail, including the privacy and legal issue etc (no ads/sign up etc) ... The AI Wearable Ecosystem What other devices might be developed? Should these devices be banned from recording other people?
-
-5h ago
-
----
-
 **[What AI image generator works the best?](https://www.reddit.com/r/artificial/comments/1so4m79/what_ai_image_generator_works_the_best/)**
 
 There seems to be about 1000 different options. I'm just looking for one that takes a prompt and spits out something usable. I'm good with paying for it if I need to but it needs to be able.to handle a lot of work.
 
-22h ago
+23h ago
 
 ---
 
-**[Update on my February posts about replacing RAG retrieval with NL querying — some things I've learned from actually building it](https://www.reddit.com/r/artificial/comments/1soibgb/update_on_my_february_posts_about_replacing_rag/)**
+**[The AI Wearable Ecosystem: Closer than you think. Socially acceptable?](https://www.reddit.com/r/artificial/comments/1sors65/the_ai_wearable_ecosystem_closer_than_you_think/)**
 
-A couple of months ago I posted here (r/LLMDevs, r/artificial) proposing that an LLM could save its context window into a citation-grounded document store and query it in plain language, replacing embedding similarity as the retrieval mechanism for reasoning recovery. Karpathy's LLM Knowledge Bases post and a recent TDS context engineering piece have since touched on similar territory, so it felt like a good time to resurface with what I've actually found building it. The hybrid question got answered in practice Several commenters in the original threads predicted you'd inevitably end up hybrid — cheap vector filter first, LLM reasoning over the shortlist. That's roughly right, but the failure mode that drove it was different from what I expected. Pure semantic search didn't degrade because of scale per se; it started missing retrievals because the query and the target content used different vocabulary for the same concept. The fix was an index-first strategy — a lightweight topic-tagged index that narrows candidates before the NL query runs. So the hybrid layer is structural metadata, not a vector pre-filter. The LLM resists using its own memory This one surprised me. Claude has a persistent tendency to prefer internal reasoning over querying the memory store, even when a query would return more accurate results. Left unchecked, it reconstructs rather than retrieves — which is exactly the failure mode the system was designed to prevent. Fixing it required encoding the query requirement in the system prompt, a startup gate checklist, and explicit framing of what it costs to skip retrieval. It's behavioral, not architectural, but it's a real problem that neither article addresses. The memory layer should decouple from the interface model One thing I haven't tested but follows logically from the architecture: if the persistent state lives in the document store rather than in the model, the interface LLM becomes interchangeable. You should be able to swap Claude for ChatGPT or Gemini with minimal fidelity loss, and potentially run multiple models concurrently against the same memory as a coordination layer. There's also an interesting quality asymmetry that wouldn't exist in vector RAG: because retrieval here uses the interface model's reasoning rather than a separate embedding step, a more capable model should directly improve retrieval quality — not just generation quality. I haven't verified either of these in practice, but the architecture seems to imply them. Curious whether anyone has tested something similar. Memory hygiene is a real maintenance problem Karpathy's post talks about "linting" the wiki for inconsistencies. I ran into a version of this from a different angle: an append-only notes system accumulates stale entries with no way to distinguish resolved from active items. You end up needing something like a note lifecycle (e.g., resolve, revise, retract, etc.) with versioned identifiers so the system can tell what's current. The maintenance overhead of keeping memory coherent is underappreciated in both the Karpathy and TDS pieces. Still in the research and build phase. For anyone curious about the ad hoc system I've been using to test this while working through the supporting literature, the repo is here: https://github.com/pjmattingly/Claude-persistent-memory — pre-alpha quality, but it's the working substrate behind the observations above. Happy to go deeper on any of this.
+I've been researching how personal AI tech devices are likely to develop ... technical capabilities, form factors, privacy and governance issues etc. I think it looks likely that there won't be one 'must have' device, and that there'll be more of a wearable ecosystem, with devices for different environments ... Glasses: outward and inward cameras, picking up facial expressions, gestures etc. Bone conduction audio. Augmented VR, infrared overlay etc. Cuff/Wristband: beyond a smart watch .. sensors picking up finger movements/gestures as input. Haptic actuators giving silent notifications. Pen/Stylus: currently underused as could also pick up gestures and have a microphone. Table top Node: palm sized unit. 360 degree vision and audio. Scout/Mini Drone: hovers above you for all round awareness, or can be sent ahead to scout an area, or find you children etc. All integrating with your smart phone, which may become more of a portable battery bank for charging other devices. Here's a blog post I have written that goes into more detail, including the privacy and legal issue etc (no ads/sign up etc) ... The AI Wearable Ecosystem What other devices might be developed? Should these devices be banned from recording other people?
 
-13h ago
-
----
-
-**[Claude Design, a new Anthropic Labs product, lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more](https://www.reddit.com/r/artificial/comments/1so44z2/claude_design_a_new_anthropic_labs_product_lets/)**
-
-Claude Design is powered by Claude Opus 4.7 and is available in research preview for Claude Pro, Max, Team, and Enterprise subscribers.
-
-🔗 [anthropic.com](https://www.anthropic.com/news/claude-design-anthropic-labs) • 22h ago
-
----
-
-**[What is the current landscape on AI agents knowledge](https://www.reddit.com/r/artificial/comments/1sobysx/what_is_the_current_landscape_on_ai_agents/)**
-
-Recently used "free" rates codex to give me a quick fastapi project sample. It gave me deprecated (a)app.on_event("startup). What are your experiences on current AI agent code outputs. Doesn't have to be codex or claude or co-pilot. Whichever one you use just want to gauge your experiences on outputs as of 2026 Q1/Q2. Does the latest model always use the latest code documentations? questions: 1. I didn't specify which version of fastapi to use for output, do you type that everytime for your workflow? does it work if you specify like "use only the latest version" 2. How many of you experience a lesser version code when trying to do one shot coding prompts. 3. What is the average code quality for the current outputs (as of right now, ignore last year experiences). Do you care? 4. Which language/framework you find gives you perfect code (or almost perfect)? trying to see which one to use as of 2026 while it's still being subsidized by corpos, been testing different agents for a while but there is always something I don't like. it's used to be 50/50 for code quality now it's up to 75% to my liking. So I see good progress from the agents.
-
-18h ago
+6h ago
 
 ---
 
@@ -123,47 +123,61 @@ Recently used "free" rates codex to give me a quick fastapi project sample. It g
 
 **[Hundreds of Fake Pro-Trump Avatars Emerge on Social Media](https://www.nytimes.com/2026/04/17/business/media/artificial-intelligence-trump-social-media.html)**
 
-The New York Times • 9h ago
+The New York Times • 2h ago
 
 ---
 
-**[Build a More Secure, Always-On Local AI Agent with OpenClaw and NVIDIA NemoClaw](https://developer.nvidia.com/blog/build-a-secure-always-on-local-ai-agent-with-nvidia-nemoclaw-and-openclaw/)**
+**[Sneaker Company Allbirds Plans to Pivot to A.I. Yes, A.I.](https://www.nytimes.com/2026/04/15/us/allbirds-shoes-ai-pivot.html)**
 
-Agents are evolving from question-and-answer systems into long-running autonomous assistants that read files, call APIs, and drive multi-step workflows. However, deploying an agent to execute code and…
-
-NVIDIA Developer • 18h ago
+The New York Times • 2d ago
 
 ---
 
-**[Nvidia's once-tight bond with gamers is cracking over AI, 'and that breaks my heart'](https://www.cnbc.com/2026/04/18/nvidia-ai-backlash-gamers-geforce-gpu.html)**
+**[What the Allbirds 'Hail Mary' says about the AI trade right now](https://finance.yahoo.com/news/what-the-allbirds-hail-mary-says-about-the-ai-trade-right-now-113847747.html)**
 
-Gamers once helped save Nvidia from bankruptcy. Now they feel left behind as the memory crunch drives focus to AI chips and DLSS 5 disrupts game design.
+Allbirds' AI pivot shows signs of froth in markets, but experts say the underlying fundamentals in AI remain strong.
 
-CNBC • 2h ago
-
----
-
-**[Catholic brothers create faith-driven AI chatbot based on church teachings](https://www.foxnews.com/video/6393362882112)**
-
-Catholic brothers Peter and Thomas Cooney developed Acutis AI, a faith-driven chatbot grounded in Catholic teachings.
-
-Fox News • 1h ago
+Yahoo Finance • 3h ago
 
 ---
 
-**[AI’s next act: how Salesforce is turning efficiency gains into revenue](https://fortune.com/2026/04/18/salesforce-agentforce-ai-efficiency-revenue-growth/)**
+**[Allbirds shares soar 580% after pivot from shoes to AI](https://www.bbc.com/news/articles/c98mrepzgj7o)**
 
-Salesforce used AI agents to cut $100 million in support costs and handle 3 million customer conversations. Now it's deploying that tech for other things.
+The company is selling off its shoe brand as it plans to shift to providing technology infrastructure.
 
-Fortune • 2h ago
+BBC • 2d ago
 
 ---
 
-**[CEO of blacklisted Anthropic and White House hold ‘productive’ discussions on AI](https://www.cnn.com/2026/04/17/business/anthropic-white-house-meeting-dario-amodei)**
+**[AI fears drive some young adults to grad school — 'people shelter in higher education,' expert says](https://www.cnbc.com/2026/04/18/ai-fears-graduate-school.html)**
 
-Anthropic CEO Dario Amodei visited the White House on Friday for a high-stakes meeting with the president’s top adviser, while his AI company battles the Trump administration in court for blacklisting its Claude AI model.
+Experts say going back to school for a graduate degree is one way to hedge against a rapidly changing labor market.
 
-CNN • 1d ago
+CNBC • 1h ago
+
+---
+
+**[Inside a growing movement warning AI could turn on humanity](https://www.washingtonpost.com/technology/2026/04/18/ai-doom-influencers-safety/)**
+
+Groups concerned that AI could evade human control are recruiting content creators to warn the masses about the dangers of smarter machines.
+
+The Washington Post • 1h ago
+
+---
+
+**[How a fiery attack on Sam Altman’s home unfolded](https://www.theguardian.com/technology/2026/apr/18/sam-altman-house-attack-ai)**
+
+Molotov cocktail attack on OpenAI CEO’s home comes amid growing discontent against artificial intelligence
+
+The Guardian • 1h ago
+
+---
+
+**[It’s time for students to start committing to colleges. The age of AI is making it complicated](https://www.cnn.com/2026/04/18/business/ai-college-debt-parents)**
+
+Mary Akkerman has visited more than 30 college campuses with her children, one now at Stanford and another still in high school. She especially wanted them to get degrees that lead to good jobs – but figuring that out, said the Sioux Falls, South Dakota, parent, was a major challenge, thanks in part to the rapid advance of AI and its effects on the job market.
+
+CNN • 4h ago
 
 ---
 
@@ -175,25 +189,11 @@ BBC • 1d ago
 
 ---
 
-**[Perspective: AI demand is inflated, and only Anthropic is being realistic](https://www.cnbc.com/2026/04/17/ai-tokens-anthropic-openai-nvidia.html)**
+**[What is Mythos and why are experts worried about Anthropic’s AI model](https://www.scientificamerican.com/article/what-is-mythos-and-why-are-experts-worried-about-anthropics-ai-model/)**
 
-The main usage metric for artificial intelligence, called tokens, looks explosive on paper, but it may be significantly overstated.
+The company says Mythos is too dangerous to release publicly. Cybersecurity experts agree the model's capabilities matter, but not all of them are buying the most alarming claims
 
-CNBC • 18h ago
-
----
-
-**[FAA quietly developing AI-enabled predictive air traffic management system](https://theaircurrent.com/air-traffic-control/faa-smart-ai-predictive-air-traffic-management-system-palantir-thales/)**
-
-Palantir, Thales and ASI competing on secretive initiative that could redefine how the U.S. ATC system operates
-
-The Air Current • 21h ago
-
----
-
-**[In the AI propaganda war, Iran is winning](https://www.economist.com/culture/2026/04/17/in-the-ai-propaganda-war-iran-is-winning)**
-
-The Economist • 22h ago
+Scientific American • 1d ago
 
 ---
 
@@ -209,25 +209,9 @@ We're building AI Gateway into a unified inference layer for AI, letting develop
 
 ---
 
-**[Elevated errors on Claude.ai, API, Claude Code](https://news.ycombinator.com/item?id=47779730)**
-
-Check if Claude AI is down right now. Real-time status monitoring, uptime history, latency metrics, and incident tracking for claude.ai, Claude API, and Claude Code. Community-powered outage reports and alerts.
-
-⬆️ 243 • 💬 222 • 2d ago • [Claude Status](https://claudestatus.com/)
-
----
-
 **[AI cybersecurity is not proof of work](https://news.ycombinator.com/item?id=47791236)**
 
 ⬆️ 236 • 💬 88 • 2d ago • [antirez.com](https://antirez.com/news/163)
-
----
-
-**[Are the costs of AI agents also rising exponentially? (2025)](https://news.ycombinator.com/item?id=47778922)**
-
-There is an extremely important question about the near-future of AI that almost no-one is asking.   We’ve all seen the graphs from METR showing that the length of tasks AI agents can perform has been growing exponentially over the last 7 years. While GPT-2 could only do software engineering tasks t
-
-⬆️ 235 • 💬 80 • 3d ago • [Toby Ord](https://www.tobyord.com/writing/hourly-costs-for-ai-agents)
 
 ---
 
@@ -251,13 +235,7 @@ Hardware hacker’s flying probe automation stack for agent-driven   target disc
 
 We signed a 3 year lease and gave it to an AI
 
-⬆️ 198 • 💬 282 • 1d ago • [andonlabs.com](https://andonlabs.com/blog/andon-market-launch)
-
----
-
-**[US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]](https://news.ycombinator.com/item?id=47778920)**
-
-⬆️ 190 • 💬 137 • 3d ago • [fingfx.thomsonreuters.com](https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf)
+⬆️ 198 • 💬 283 • 1d ago • [andonlabs.com](https://andonlabs.com/blog/andon-market-launch)
 
 ---
 
@@ -265,7 +243,15 @@ We signed a 3 year lease and gave it to an AI
 
 GPU rental prices surged 48% in 60 days. The AI compute shortage will force startups to compete not on speed of iteration, but on access to infrastructure.
 
-⬆️ 183 • 💬 214 • 1d ago • [Tomasz Tunguz](https://tomtunguz.com/ai-compute-crisis-2026/)
+⬆️ 184 • 💬 214 • 1d ago • [Tomasz Tunguz](https://tomtunguz.com/ai-compute-crisis-2026/)
+
+---
+
+**[SDL bans AI-written commits](https://news.ycombinator.com/item?id=47790791)**
+
+I've noticed the use of Copilot within a few reviews (13277 and 12730) which concerns me given the vast amount of issues associated with this technology (ethical, environmental, copyright, health, ...
+
+⬆️ 130 • 💬 135 • 2d ago • [GitHub](https://github.com/libsdl-org/SDL/issues/15350)
 
 ---
 
@@ -274,6 +260,22 @@ GPU rental prices surged 48% in 60 days. The AI compute shortage will force star
 The AI toolkit for building and maintaining browser automations - saffron-health/libretto
 
 ⬆️ 129 • 💬 55 • 2d ago • [GitHub](https://github.com/saffron-health/libretto)
+
+---
+
+**[Scan your website to see how ready it is for AI agents](https://news.ycombinator.com/item?id=47805998)**
+
+Scan your website to see if it's ready for AI agents. Check for llms.txt, MCP, agent skills, and other agent-friendly standards.
+
+⬆️ 107 • 💬 171 • 1d ago • [Is Your Site Agent-Ready?](https://isitagentready.com)
+
+---
+
+**[George Orwell Predicted the Rise of "AI Slop" in Nineteen Eighty-Four](https://news.ycombinator.com/item?id=47800765)**
+
+We've lived but a few years so far into the age when artificial intelligence can produce convincing stories, songs, essays, poems, novels, and even films.
+
+⬆️ 82 • 💬 59 • 1d ago • [Open Culture](https://www.openculture.com/2026/04/how-george-orwell-predicted-the-rise-of-ai-slop.html)
 
 ---
 
@@ -287,7 +289,7 @@ ChatGPT was recently asked what it would say to humans if it could give a TED Ta
 
 📺 TED
 
-👁️ 36K • 👍 1K • 💬 586 • ⏱️ 3:28 • 17h ago
+👁️ 36K • 👍 1K • 💬 586 • ⏱️ 3:28 • 18h ago
 
 ---
 
@@ -307,7 +309,7 @@ In this video, I break down a 4 week system for learning AI by using one tool fr
 
 📺 James Blue
 
-👁️ 4K • ⏱️ 10:55 • 3h ago
+👁️ 4K • ⏱️ 10:55 • 4h ago
 
 ---
 
@@ -317,7 +319,7 @@ A series of animated Iranian propaganda videos made in the style of "The LEGO Mo
 
 📺 MS NOW
 
-👁️ 85K • 👍 2K • 💬 1K • ⏱️ 6:46 • 18h ago
+👁️ 85K • 👍 2K • 💬 1K • ⏱️ 6:46 • 19h ago
 
 ---
 
@@ -357,7 +359,7 @@ See if your SSN is for sale right now. My sponsor Cloaked will tell you for free
 
 📺 I Ask AI
 
-👁️ 68K • 👍 3K • 💬 756 • ⏱️ 38:52 • 17h ago
+👁️ 68K • 👍 3K • 💬 756 • ⏱️ 38:52 • 18h ago
 
 ---
 
@@ -647,7 +649,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 47.7k • 🔱 6.2k • 7h ago
+⭐ 47.7k • 🔱 6.2k • 8h ago
 
 ---
 
@@ -657,7 +659,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 37.3k • 🔱 1.8k • 3h ago
+⭐ 37.3k • 🔱 1.8k • 4h ago
 
 ---
 
@@ -667,7 +669,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 35.8k • 🔱 7.2k • 19h ago
+⭐ 35.8k • 🔱 7.2k • 20h ago
 
 ---
 
@@ -677,7 +679,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 29.5k • 🔱 3.2k • 4h ago
+⭐ 29.5k • 🔱 3.2k • 5h ago
 
 ---
 
@@ -687,7 +689,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 8.2k • 🔱 523 • 1h ago
+⭐ 8.2k • 🔱 523 • 2h ago
 
 ---
 
@@ -697,7 +699,7 @@ AI Agent 源码深度研究报告
 
 `Python`
 
-⭐ 5.6k • 🔱 1.6k • 5d ago
+⭐ 5.6k • 🔱 1.6k • 6d ago
 
 ---
 

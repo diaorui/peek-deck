@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-18T14:09:42.235070+00:00'
+updated: '2026-04-18T15:06:57.338868+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 18, 2026 at 14:09 UTC  
+**Last Updated:** April 18, 2026 at 15:06 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,19 +34,19 @@ Robotics research and industry news
 
 **[Remote-controlled snow plow robot I built in high school after a spine surgery. This project got me into engineering :)](https://www.reddit.com/r/robotics/comments/1sol2fp/remotecontrolled_snow_plow_robot_i_built_in_high/)**
 
-11h ago
+12h ago
 
 ---
 
 **[Beluga-Robot Interaction](https://www.reddit.com/r/robotics/comments/1sou3s2/belugarobot_interaction/)**
 
-3h ago
+4h ago
 
 ---
 
 **[The race ended before it got even started for this robot](https://www.reddit.com/r/robotics/comments/1so68c6/the_race_ended_before_it_got_even_started_for/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -54,7 +54,15 @@ Robotics research and industry news
 
 NVIDIA Hugging Face blog post: https://huggingface.co/blog/nvidia/gr00t-n1-7 Models: https://huggingface.co/collections/nvidia/gr00t-n17 GitHub: https://github.com/NVIDIA/Isaac-GR00T From NVIDIA Robotics on 𝕏: https://x.com/NVIDIARobotics/status/2045172389244240209
 
-3h ago
+4h ago
+
+---
+
+**[built a little cyberpunk desk pet (esp32s3 + esp32p4)](https://www.reddit.com/r/robotics/comments/1sozw57/built_a_little_cyberpunk_desk_pet_esp32s3_esp32p4/)**
+
+tbh ive been messing around with llms for a bit but got super bored of just typing into web interfaces. wanted something that actually sat on my desk and felt kinda 'alive' instead of just another thin wrapper. so basically i started building this prototype. calling it kitto for now. its a cyberpunk desktop companion or digital pet thing. the idea was to take a standard ai agent but give it an actual physical presence. hardware-wise its running on an esp32s3+esp32p4. eventually im going to port the custom OS to a linux board, but getting it running on a microcontroller has definately been a fun constraint. really didnt want the screen to look like a cheap toy just looping a pre-rendered gif. all the animations are driven by code. im currently pulling raw audio buffers and mapping amplitude/freq peaks to specific sprite frames for the mouth. so when it talks back to you to read the weather, set an alarm, or send an email (like in the video), it does real-time lip-sync and expression syncing based on tone. also threw in some classic digital pet mechanics so you can feed it or whatever. still a massive work in progress. getting the lip-sync to not look completely janky took way too much trial and error. latency is my biggest headache right now. pinging the api, getting the TTS audio back, and triggering the animation states fast enough to not break the illusion is brutal on this hardware.
+
+7m ago
 
 ---
 
@@ -64,9 +72,17 @@ NVIDIA Hugging Face blog post: https://huggingface.co/blog/nvidia/gr00t-n1-7 Mod
 
 ---
 
+**[Servo Motor Calibration](https://www.reddit.com/r/robotics/comments/1soz9ro/servo_motor_calibration/)**
+
+Hi everyone, Long time lurker here. I see many people learning about robotics through hobby projects (myself included) and I wanted to start sharing things that I've learned that people might find interesting or useful for their projects. This post is about servo calibration. When you buy cheap servos, you might not get the accuracy you need because there are variations between each unit. To get around this, you just need to rotate the servo to known positions and record the PWM value that takes the servo to those positions. This mapping yields a relationship between PWM and servo angle for that particular unit. https://preview.redd.it/26bqtn03qyvg1.png?width=614&format=png&auto=webp&s=3caf76f356cf4b993cdb0c9bbcd9835c720db032 Check out my article on Medium: https://medium.com/@ianqyhong/servo-calibration-4ea1d43c46a6 Let me know if you found this interesting, useful, completely useless, or any other feedback!
+
+31m ago
+
+---
+
 **[Solving Optimal Control Problems via Indirect Single Shooting](https://www.reddit.com/r/robotics/comments/1sos0iv/solving_optimal_control_problems_via_indirect/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -81,22 +97,6 @@ From Physical Intelligence on 𝕏 (thread): https://x.com/physical_int/status/2
 **[3D printed monster motor that lifts + 15kg!](https://www.reddit.com/r/robotics/comments/1so1mv7/3d_printed_monster_motor_that_lifts_15kg/)**
 
 1d ago
-
----
-
-**[new prototype, same stairs, way harder this time](https://www.reddit.com/r/robotics/comments/1so2efn/new_prototype_same_stairs_way_harder_this_time/)**
-
-upgraded our robot: added a shell, cameras, onboard compute, basically everything it was missing. way heavier and way more complex now. got it doing continuous autonomous stair jumping in sim. no human input, policy decides everything on its own. but most of what we had working on the old rabbit bot just didn't carry over, had to retrain almost everything. still haven't gotten it to jump on the real robot yet, that's the next battle. right now we're deep in logs and calibration trying to close the gap. the usual lol btw we've been reading through all the questions you guys left on our previous posts, a lot of really good ones about sim2real, reward shaping, training workflow, etc. since RL questions came up the most, we're drafting with a writeup on that, sharing what we've learned and the mistakes we made along the way lol. should be up on r/MondoRobotics in a few days. not limited to RL though, if there's anything else you've been curious about, drop it in the comments. we'll try to cover what we can.
-
-23h ago
-
----
-
-**[Visual Navigation and Positioning Module: Indoor GPS-Denied Flight Test](https://www.reddit.com/r/robotics/comments/1so5h7a/visual_navigation_and_positioning_module_indoor/)**
-
-I discovered a GPS-free mode on the website (called myrobotproject) that enables pure vision-based flight using the Visio. Previously, I had only seen videos from the APM community featuring Intel cameras mounted on drones for GPS-denied navigation. I have my own drone and installed the Visio on it—the installation process was quite straightforward. I will open-source the related tutorial for everyone soon. If you have any interesting tests to share, I'd love to hear from you!
-
-21h ago
 
 ---
 
@@ -124,21 +124,13 @@ Business Insider • 2d ago
 
 Robots have a growing role on the battlefield – but for the immediate future, they are more likely to support the fight than lead it.
 
-The Conversation • 21h ago
+The Conversation • 22h ago
 
 ---
 
 **[China humanoid robot half-marathon to showcase technical leaps](https://www.reuters.com/world/asia-pacific/china-humanoid-robot-half-marathon-showcase-technical-leaps-2026-04-18/)**
 
-Reuters • 13h ago
-
----
-
-**[Humanoid robot chases wild boars off the streets of Warsaw](https://www.ft.com/content/69730377-19cc-43e3-94d9-e3f0246654f6?syn-25a6b1a6=1)**
-
-Video of Rolex-wearing robot goes viral as it becomes Poland’s first robotic influencer on social media
-
-Financial Times • 1d ago
+Reuters • 14h ago
 
 ---
 
@@ -150,11 +142,19 @@ Gulf Coast News and Weather • 1d ago
 
 ---
 
+**[Robots crack jokes and grasp items at Humanoid Robot Expo in Tokyo](https://apnews.com/video/humanoid-robots-crack-jokes-and-grasp-items-at-humanoid-robot-expo-in-tokyo-8be83603b1964e2ab90bb506cc4e5860)**
+
+They can dance and they're good at doing repetitive work we humans tire of, but the big question at the Tokyo Expo is when will the humanoids be able to look after us at home.
+
+AP News • 2d ago
+
+---
+
 **[See why tech companies are paying people to do chores](https://www.washingtonpost.com/technology/interactive/2026/robot-chores-video-data/)**
 
 Tech firms aim to trigger a robot revolution with video of humans doing housework. Gig workers are paid up to $25 an hour to film themselves doing various tasks.
 
-The Washington Post • 22h ago
+The Washington Post • 23h ago
 
 ---
 
@@ -166,11 +166,11 @@ MIT Technology Review • 1d ago
 
 ---
 
-**[Goleta’s Octobots Robotics Advance to World Championship](https://www.independent.com/2026/04/16/goletas-octobots-robotics-advance-to-world-championship/)**
+**[ECU Health doctor first in state to use robotics during colorectal procedure](https://www.witn.com/2026/04/17/ecu-health-doctor-first-state-use-robotics-during-colorectal-procedure/)**
 
-A second-place finish at the State Championships sends the student robotics team to global competition in Houston— if they can raise $50,000 to get there.
+Dr. Warqaa Akram with ECU Health Cancer Care used the da Vinci Single Port robotic system during two single-port surgeries on March 16.
 
-The Santa Barbara Independent • 1d ago
+WITN • 20h ago
 
 ---
 
@@ -210,7 +210,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 83K • 👍 2K • 💬 318 • ⏱️ 4:16 • 3d ago
+👁️ 83K • 👍 2K • 💬 318 • ⏱️ 4:16 • 4d ago
 
 ---
 
@@ -238,7 +238,7 @@ Try Seedance 2.0 with Claude on Higgsfield: https://higgsfield.ai/s/seedance-2-0
 
 📺 Gavin Phillips
 
-👁️ 1K • 👍 16 • ⏱️ 0:43 • 17h ago
+👁️ 1K • 👍 16 • ⏱️ 0:43 • 18h ago
 
 ---
 
