@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-18T11:07:29.340000+00:00'
+updated: '2026-04-18T11:57:52.388981+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 18, 2026 at 11:07 UTC  
+**Last Updated:** April 18, 2026 at 11:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,19 +34,39 @@ Robotics research and industry news
 
 **[Remote-controlled snow plow robot I built in high school after a spine surgery. This project got me into engineering :)](https://www.reddit.com/r/robotics/comments/1sol2fp/remotecontrolled_snow_plow_robot_i_built_in_high/)**
 
-8h ago
+9h ago
+
+---
+
+**[Beluga-Robot Interaction](https://www.reddit.com/r/robotics/comments/1sou3s2/belugarobot_interaction/)**
+
+1h ago
 
 ---
 
 **[The race ended before it got even started for this robot](https://www.reddit.com/r/robotics/comments/1so68c6/the_race_ended_before_it_got_even_started_for/)**
 
-18h ago
+19h ago
+
+---
+
+**[NVIDIA unveilled Isaac GR00T N1.7, an open, commercially licensed VLA foundation model for humanoid robots (models on Hugging Face)](https://www.reddit.com/r/robotics/comments/1sou1oa/nvidia_unveilled_isaac_gr00t_n17_an_open/)**
+
+NVIDIA Hugging Face blog post: https://huggingface.co/blog/nvidia/gr00t-n1-7 Models: https://huggingface.co/collections/nvidia/gr00t-n17 GitHub: https://github.com/NVIDIA/Isaac-GR00T From NVIDIA Robotics on 𝕏: https://x.com/NVIDIARobotics/status/2045172389244240209
+
+1h ago
 
 ---
 
 **[H1 accelerating - jogging to running](https://www.reddit.com/r/robotics/comments/1snz9fk/h1_accelerating_jogging_to_running/)**
 
-22h ago
+23h ago
+
+---
+
+**[Solving Optimal Control Problems via Indirect Single Shooting](https://www.reddit.com/r/robotics/comments/1sos0iv/solving_optimal_control_problems_via_indirect/)**
+
+3h ago
 
 ---
 
@@ -58,23 +78,9 @@ From Physical Intelligence on 𝕏 (thread): https://x.com/physical_int/status/2
 
 ---
 
-**[Solving Optimal Control Problems via Indirect Single Shooting](https://www.reddit.com/r/robotics/comments/1sos0iv/solving_optimal_control_problems_via_indirect/)**
-
-2h ago
-
----
-
 **[3D printed monster motor that lifts + 15kg!](https://www.reddit.com/r/robotics/comments/1so1mv7/3d_printed_monster_motor_that_lifts_15kg/)**
 
-21h ago
-
----
-
-**[Help With A Project (Anybody with a quadruped robot)](https://www.reddit.com/r/robotics/comments/1soq4j1/help_with_a_project_anybody_with_a_quadruped_robot/)**
-
-Hey guys, I have a research project due and as a part of my thesis I will be analyzing a robot dog or a quadruped. The mechanical aspect of it. I specifically need help with a few things, therefore, I would be really glad anybody working on similar stuff or own one could reach out!
-
-4h ago
+22h ago
 
 ---
 
@@ -82,7 +88,7 @@ Hey guys, I have a research project due and as a part of my thesis I will be ana
 
 upgraded our robot: added a shell, cameras, onboard compute, basically everything it was missing. way heavier and way more complex now. got it doing continuous autonomous stair jumping in sim. no human input, policy decides everything on its own. but most of what we had working on the old rabbit bot just didn't carry over, had to retrain almost everything. still haven't gotten it to jump on the real robot yet, that's the next battle. right now we're deep in logs and calibration trying to close the gap. the usual lol btw we've been reading through all the questions you guys left on our previous posts, a lot of really good ones about sim2real, reward shaping, training workflow, etc. since RL questions came up the most, we're drafting with a writeup on that, sharing what we've learned and the mistakes we made along the way lol. should be up on r/MondoRobotics in a few days. not limited to RL though, if there's anything else you've been curious about, drop it in the comments. we'll try to cover what we can.
 
-20h ago
+21h ago
 
 ---
 
@@ -90,15 +96,7 @@ upgraded our robot: added a shell, cameras, onboard compute, basically everythin
 
 I discovered a GPS-free mode on the website (called myrobotproject) that enables pure vision-based flight using the Visio. Previously, I had only seen videos from the APM community featuring Intel cameras mounted on drones for GPS-denied navigation. I have my own drone and installed the Visio on it—the installation process was quite straightforward. I will open-source the related tutorial for everyone soon. If you have any interesting tests to share, I'd love to hear from you!
 
-18h ago
-
----
-
-**[I built a ultra low cost quadruped robot that can walk](https://www.reddit.com/r/robotics/comments/1snhunp/i_built_a_ultra_low_cost_quadruped_robot_that_can/)**
-
-I tried to do a quadruped robot using cheap servos (MG90S), normal batteries and wood structure. I think that it could be built with less than R$200,00 (U$40,00 at conversion). The name of the project is Guara Nano. I used ESP32, 8x MG90S servos (chinese version), 4x Batteries 1,5V, MPU6050 and PCA9685. I cannot supply ESP32 with these batteries because of drop voltage, so I used micro-USB cable. I did two gaits that work, walk and trot, with control of velocity and height control. It can turn too, using side traction and go back. I also did a simple proportional control but I didn't tested too much. The code and process to build will be open-source, now I'm working on documentation and I'll post here soon. I would appreciate tips and suggestions for improvement, and perhaps some other similar works, not just the ones you find on Google, as I've already looked at all of them.
-
-1d ago
+19h ago
 
 ---
 
@@ -134,7 +132,7 @@ KCRG • 18h ago
 
 Robots have a growing role on the battlefield – but for the immediate future, they are more likely to support the fight than lead it.
 
-The Conversation • 18h ago
+The Conversation • 19h ago
 
 ---
 
@@ -160,11 +158,11 @@ Reuters • 10h ago
 
 ---
 
-**[Flying cars and humanoid robots showcased at Edison Awards in Fort Myers](https://www.gulfcoastnewsnow.com/article/flying-cars-humanoid-robots-edison-awards-fort-myers/71041841)**
+**[Humanoid robot chases wild boars off the streets of Warsaw](https://www.ft.com/content/69730377-19cc-43e3-94d9-e3f0246654f6?syn-25a6b1a6=1)**
 
-Flying cars and humanoid robots showcased at Edison Awards in Fort Myers.
+Video of Rolex-wearing robot goes viral as it becomes Poland’s first robotic influencer on social media
 
-Gulf Coast News and Weather • 1d ago
+Financial Times • 1d ago
 
 ---
 
@@ -176,9 +174,11 @@ MIT Technology Review • 1d ago
 
 ---
 
-**[Skild acquires Fetch Robotics assets from Zebra](https://www.therobotreport.com/skild-acquires-fetch-robotics-assets-from-zebra-automation/)**
+**[Should Chicago continue to allow delivery robots on the streets? What you told us](https://chicago.suntimes.com/technology/2026/04/17/delivery-robots-chicago-city-streets-what-you-told-us)**
 
-The Robot Report • 1d ago
+The naysayers don't like the threat to jobs and consider the robots a sidewalk nuisance, while others don't want to stop technological progress and say the robots actually are safer than alternatives.
+
+Chicago Sun-Times • 20h ago
 
 ---
 
@@ -272,7 +272,7 @@ This is the shocking moment a marathon-running robot smashed into pieces after t
 
 📺 The Sun
 
-👁️ 48K • 👍 634 • 💬 361 • ⏱️ 2:06 • 23h ago
+👁️ 48K • 👍 634 • 💬 361 • ⏱️ 2:06 • 1d ago
 
 ---
 

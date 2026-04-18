@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-18T11:07:29.330907+00:00'
+updated: '2026-04-18T11:57:52.379849+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 18, 2026 at 11:07 UTC  
+**Last Updated:** April 18, 2026 at 11:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $76,536.32
+### $75,829.64
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.0%  
-**7d:** +7.9%  
-**30d:** +8.3%  
-**90d:** -17.6%  
-**1y:** -10.3%  
+**24h:** -0.3%  
+**7d:** +7.5%  
+**30d:** +7.9%  
+**90d:** -17.9%  
+**1y:** -10.7%  
 
 ---
 
@@ -77,17 +77,25 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Bitcoin is dead](https://www.reddit.com/r/Bitcoin/comments/1socs7g/bitcoin_is_dead/)**
+
+15h ago
+
+---
+
 **[Let's FCKN Go](https://www.reddit.com/r/Bitcoin/comments/1sogycs/lets_fckn_go/)**
 
 I'm so long.
 
-11h ago
+12h ago
 
 ---
 
-**[Bitcoin is dead](https://www.reddit.com/r/Bitcoin/comments/1socs7g/bitcoin_is_dead/)**
+**[Pakistan ends seven-year Bitcoin and shitcoin ban](https://www.reddit.com/r/Bitcoin/comments/1souxsh/pakistan_ends_sevenyear_bitcoin_and_shitcoin_ban/)**
 
-14h ago
+Central bank greenlights regulated crypto access while keeping strict curbs on balance-sheet exposure
+
+🔗 [coindesk.com](https://www.coindesk.com/policy/2026/04/15/pakistan-lifts-seven-year-ban-allowing-banks-to-service-virtual-asset-providers) • 38m ago
 
 ---
 
@@ -95,7 +103,7 @@ I'm so long.
 
 Stupid narratives
 
-6h ago
+7h ago
 
 ---
 
@@ -103,7 +111,7 @@ Stupid narratives
 
 Hey everyone, I’ve been buying Bitcoin since 2012/2013. I’ve lived through it all, studied all cycles in detail, and I’m usually dead silent on Reddit, I just lurk, watch, and stay out of the noise. Never really comment. But… This feels massively like the 2013 cycle and the 2021 cycle. We’d hit a top, then a brutal dip where everyone piled into the “lower lows incoming,” “it’s over,” narrative. Capitulation everywhere. Then, surprise, it bounced hard and went on to make new cycle highs. That’s exactly what I see playing out right now. We topped at roughly $126,200 in early October 2025. Since then we’ve had the classic post-peak flush, fear, and bearish calls for even lower prices. But to me this looks like the same retest/bounce setup we’ve seen before. The crowd is getting shaken out again right before the next leg higher. In my experience, this is when things get very bullish. A lot of people are going to sit on the sidelines waiting for “the real bottom” that never comes. People think the cycle top has com and we have entered bear, but the market is maturing and becoming longer. Wouldn’t surprise me at all if we see the cycle top sometime in late 2026 or 2027 in the $180k–$220k range. Just my two sats after watching this market for over a decade. Do your own research, never financial advice… but damn if this doesn’t feel familiar in the best possible way. Stay safe out there. (And yeah… still not selling.)
 
-19h ago
+20h ago
 
 ---
 
@@ -111,19 +119,29 @@ Hey everyone, I’ve been buying Bitcoin since 2012/2013. I’ve lived through i
 
 As I recovered an old email account I found I had a coinbase account I had completely forgotten about. It’s not much, compared to other folks in this sub, but it has .25 BTC and other currencies from forks in the past 9 years since I bought it. I had completely forgotten about it and, because of it, never declared in my tax returns. Apparently I should have done that and submit an ID to coinbase. I haven’t done anything yet, or touched the currencies. Am I fucked? or can I just submit my ID and declare in the tax return next year? Apologies for my ignorance, I have stayed away from crypto since I bought .25 BTC back in 2017. All advise is appreciated.
 
-14h ago
-
----
-
-**[I’m Building a Bitcoin Company](https://www.reddit.com/r/Bitcoin/comments/1sogvxt/im_building_a_bitcoin_company/)**
-
-11h ago
+15h ago
 
 ---
 
 **[this is really interesting](https://www.reddit.com/r/Bitcoin/comments/1so9tg4/this_is_really_interesting/)**
 
-16h ago
+17h ago
+
+---
+
+**[Daily Discussion, April 18, 2026](https://www.reddit.com/r/Bitcoin/comments/1sopjeq/daily_discussion_april_18_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+5h ago
+
+---
+
+**[is this the right moment to buy BTC?](https://www.reddit.com/r/Bitcoin/comments/1sosdqu/is_this_the_right_moment_to_buy_btc/)**
+
+I am new to crypto. Is this the right time to buy BTC since I see the chart it started to rebound?
+
+3h ago
 
 ---
 
@@ -133,47 +151,9 @@ As I recovered an old email account I found I had a coinbase account I had compl
 
 ---
 
-**[Every time they say BTC is dead, it just climbs another $4k.](https://www.reddit.com/r/Bitcoin/comments/1so2gyt/every_time_they_say_btc_is_dead_it_just_climbs/)**
-
-20h ago
-
----
-
-**[400-600m in shorts just got CRUSHED](https://www.reddit.com/r/Bitcoin/comments/1so0gn3/400600m_in_shorts_just_got_crushed/)**
-
-What do you guys think... will it HODL?
-
-22h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
-
-**[Charles Schwab to launch direct bitcoin, ether trading to compete with Robinhood](https://www.cnbc.com/2026/04/16/charles-schwab-to-launch-direct-bitcoin-ethereum-trading-to-compete-with-robinhood.html)**
-
-Charles Schwab is rolling out crypto trading, allowing clients to buy bitcoin and ether through a new arm called Schwab Crypto.
-
-CNBC • 1d ago
-
----
-
-**[When Quantum Computers Come for Your Bitcoin: What Classical Property Law Says Happens Next](https://bitcoinmagazine.com/legal/when-quantum-computers-come-for-your-bitcoin-what-classical-property-law-says-happens-next)**
-
-A look at the legal aspects and relevant laws regarding a hypothetical theft of bitcoin utilizing quantum computers.
-
-Bitcoin Magazine • 15h ago
-
----
-
-**[How a quantum computer can be used to actually steal your bitcoin in '9 minutes'](https://www.coindesk.com/tech/2026/04/18/how-a-quantum-computer-can-be-used-to-actually-steal-your-bitcoin-in-9-minutes)**
-
-Part one explained the physics of quantum computing. This piece explains the target — how bitcoin's encryption works, why a quantum algorithm breaks it, and what Google's paper changed about the timeline.
-
-CoinDesk • 7h ago
-
----
 
 **[Satoshi Nakamoto is one of the richest people in the world, but a proposed update could lock his Bitcoin away forever](https://www.dlnews.com/articles/web3/devs-propose-bitcoin-freeze-amid-quantum-computer-fears/)**
 
@@ -183,45 +163,73 @@ dlnews.com • 2d ago
 
 ---
 
-**[Could Bitcoin Actually Hit $200,000 Before 2028?](https://www.fool.com/investing/2026/04/18/could-bitcoin-actually-hit-200000-before-2028/)**
+**[How a quantum computer can be used to actually steal your bitcoin in '9 minutes'](https://www.coindesk.com/tech/2026/04/18/how-a-quantum-computer-can-be-used-to-actually-steal-your-bitcoin-in-9-minutes)**
 
-This asset is capable of making some impressive moves.
+Part one explained the physics of quantum computing. This piece explains the target — how bitcoin's encryption works, why a quantum algorithm breaks it, and what Google's paper changed about the timeline.
 
-The Motley Fool • 3h ago
-
----
-
-**[Why Bitcoin Made a Breakthrough on Friday](https://finance.yahoo.com/markets/crypto/articles/why-bitcoin-made-breakthrough-friday-215028745.html)**
-
-Geopolitical tensions were easing considerably... at least, for the moment.
-
-Yahoo Finance • 13h ago
+CoinDesk • 8h ago
 
 ---
 
-**[Bitcoin’s Greatest Mystery](https://www.nytimes.com/2026/04/16/world/bitcoin-satoshi-adam-back-israel-lebanon-ceasefire.html)**
+**[When Quantum Computers Come for Your Bitcoin: What Classical Property Law Says Happens Next](https://bitcoinmagazine.com/legal/when-quantum-computers-come-for-your-bitcoin-what-classical-property-law-says-happens-next)**
 
-The New York Times • 1d ago
+A look at the legal aspects and relevant laws regarding a hypothetical theft of bitcoin utilizing quantum computers.
 
----
-
-**['Banks Are Coming'—Wall Street Bitcoin Rush Targets $189K](https://www.forbes.com/sites/digital-assets/2026/04/17/banks-are-coming-wall-street-bitcoin-rush-targets-189k/)**
-
-Forbes • 18h ago
+Bitcoin Magazine • 16h ago
 
 ---
 
-**[Bitcoin Price Surges Amid Epic Strategy Buying Spree](https://www.investors.com/news/bitcoin-price-strategy-buying-power-mstr-stock-strc-issuance-saylor/)**
+**[Charles Schwab to launch direct bitcoin, ether trading to compete with Robinhood](https://www.cnbc.com/2026/04/16/charles-schwab-to-launch-direct-bitcoin-ethereum-trading-to-compete-with-robinhood.html)**
 
-Investor's Business Daily • 14h ago
+Charles Schwab is rolling out crypto trading, allowing clients to buy bitcoin and ether through a new arm called Schwab Crypto.
+
+CNBC • 1d ago
 
 ---
 
-**[How Michael Saylor's Strategy is shaping bitcoin's price landscape](https://finance.yahoo.com/video/how-michael-saylors-strategy-is-shaping-bitcoins-price-landscape-210842819.html)**
+**[Bitcoin falls back to $76,000 as Iran shuts Hormuz again](https://www.coindesk.com/markets/2026/04/18/bearish-bets-lose-usd593-million-as-bitcoin-jumps-with-iran-fully-opening-hormuz)**
 
-Scott Melker, the host of "The Wolf of All Streets" podcast, sits down with Yahoo Finance anchor Josh Lipton to discuss the impacts of Strategy's (MSTR) most recent bitcoin (BTC-USD) purchase. "The Daily Wolf with Scott Melker" premieres on Yahoo Finance on Monday, Apr. 20 at 12:00 p.m. Tune in every day for your daily dose of all things crypto. Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
+One of the biggest short liquidations 2026 wiped $593 million in bearish bets overnight. Saturday afternoon as Iran reportedly reversed the Hormuz reopening.
 
-Yahoo Finance • 13h ago
+CoinDesk • 23m ago
+
+---
+
+**[Bitcoin rises, tops $77k after Iran temporarily opens Strait of Hormuz](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-steady-below-75k-set-for-3rd-weekly-rise-amid-iran-hopes-4619739)**
+
+Investing.com • 1d ago
+
+---
+
+**[Iran Accuses Trump of “Seven Lies” After Bitcoin and Stock Markets Surge](https://www.yahoo.com/news/articles/iran-accuses-trump-seven-lies-100920787.html)**
+
+Iran's Ghalibaf accuses Trump of seven false claims about the Strait of Hormuz, warns passage stays under Tehran's control.
+
+Yahoo • 1h ago
+
+---
+
+**[Bold Prediction: Bitcoin Will Hit $140,000 This Year, According to This Wall Street Investment Bank](https://www.fool.com/investing/2026/04/18/bold-prediction-bitcoin-will-hit-140000-this-year/)**
+
+Don't count out Bitcoin, which still has an outside chance of doubling in value this year.
+
+The Motley Fool • 1h ago
+
+---
+
+**[Current price of Bitcoin for April 17, 2026](https://fortune.com/article/price-of-bitcoin-04-17-2026/)**
+
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+
+Fortune • 23h ago
+
+---
+
+**[Congresswoman Biggs discloses six-figure BlackRock bitcoin ETF buy as BTC rebounds](https://www.theblock.co/post/397939/congresswoman-biggs-six-figure-blackrock-bitcoin-etf-buy-btc-rebounds)**
+
+Rep. Sheri Biggs disclosed a purchase of up to $250,000 in BlackRock’s iShares Bitcoin Trust ETF for the second time in a year.
+
+The Block • 18h ago
 
 ---
 
@@ -265,7 +273,7 @@ The Blockstream CEO’s approach contrasts with BIP-361, a proposal that would i
 
 Imagine one person holding the keys to Bitcoin’s entire future. That was Satoshi—until Hal Finney, Gavin Andresen, and Wladimir van der Laan stepped in. Today’s maintainer team is more decentralized than ever… but is it enough?
 
-⬆️ 4 • 💬 0 • 5d ago • [Bitcoin Magazine](https://bitcoinmagazine.com/print/the-core-issue-the-role-and-history-of-bitcoin-core-maintainers)
+⬆️ 4 • 💬 0 • 6d ago • [Bitcoin Magazine](https://bitcoinmagazine.com/print/the-core-issue-the-role-and-history-of-bitcoin-core-maintainers)
 
 ---
 
@@ -279,7 +287,7 @@ Imagine one person holding the keys to Bitcoin’s entire future. That was Satos
 
 C64 Bitcoin wallet. Contribute to geek197/c64wallet development by creating an account on GitHub.
 
-⬆️ 3 • 💬 0 • 2d ago • [GitHub](https://github.com/geek197/c64wallet)
+⬆️ 3 • 💬 0 • 3d ago • [GitHub](https://github.com/geek197/c64wallet)
 
 ---
 
@@ -313,7 +321,7 @@ Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=Al
 
 📺 Altcoin Daily
 
-👁️ 30K • 👍 2K • 💬 119 • ⏱️ 8:39 • 11h ago
+👁️ 30K • 👍 2K • 💬 119 • ⏱️ 8:39 • 12h ago
 
 ---
 
@@ -333,7 +341,7 @@ Bitcoin is back at $75K as risk appetite returns—but the bigger story is unfol
 
 📺 Swan Bitcoin
 
-👁️ 10K • 👍 569 • 💬 56 • ⏱️ 9:53 • 18h ago
+👁️ 10K • 👍 569 • 💬 56 • ⏱️ 9:53 • 19h ago
 
 ---
 
@@ -353,7 +361,7 @@ Sell Your FTX Claim w/ FTX Creditor: https://www.ftxcreditor.com Follow Louis on
 
 📺 Aaron Bennett
 
-👁️ 3K • 👍 179 • 💬 52 • ⏱️ 8:08 • 9h ago
+👁️ 3K • 👍 179 • 💬 52 • ⏱️ 8:08 • 10h ago
 
 ---
 
@@ -363,7 +371,7 @@ Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bi
 
 📺 Tyler S
 
-👁️ 9K • 👍 653 • 💬 214 • ⏱️ 11:49 • 15h ago
+👁️ 9K • 👍 653 • 💬 214 • ⏱️ 11:49 • 16h ago
 
 ---
 
@@ -373,7 +381,7 @@ Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FR
 
 📺 CryptosRUs
 
-👁️ 21K • 👍 1K • 💬 197 • ⏱️ 50:58 • 16h ago
+👁️ 21K • 👍 1K • 💬 197 • ⏱️ 50:58 • 17h ago
 
 ---
 
