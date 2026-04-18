@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-18T05:08:03.402783+00:00'
+updated: '2026-04-18T06:46:03.931837+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - cryptocurrency
 - videos
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 18, 2026 at 05:08 UTC  
+**Last Updated:** April 18, 2026 at 06:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,403.03
+### $2,410.09
 
 ---
 
 ## Ethereum Chart
 
 **24h:** +3.4%  
-**7d:** +10.1%  
-**30d:** +12.3%  
+**7d:** +10.2%  
+**30d:** +12.4%  
 **90d:** -24.4%  
-**1y:** +49.4%  
+**1y:** +49.5%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6m ago
+1h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Is it feasible to build on layer 1 and completely get rid of layer 2?
 
-5h ago
+6h ago
 
 ---
 
@@ -88,7 +88,7 @@ Is it feasible to build on layer 1 and completely get rid of layer 2?
 
 Hey all. I just wrapped my master's thesis and figured this sub would actually care about the technical side instead of the price-talk side, so here goes. The thing that always bugged me about existing web3 video platforms is that each one only solves one slice of the problem. Livepeer does transcoding. Theta does P2P relay. Odysee does storage + discovery. PeerTube does federation. None of them stitch identity + gating + payouts + delivery + governance into a single app you can actually use end to end. So I tried to build that, and then benchmark it honestly to see where the real walls are. Stack ended up being: SIWE (EIP-4361) for auth, no email/password anywhere. Wallet address is the user ID across every microservice. ERC-1155 for tiered content gating (Viewer / Supporter / VIP). VIP holders also get priority + a reward multiplier in the P2P layer. 0xSplits + a thin StreamRevenue contract for per-stream revenue distribution. Anyone can trigger the payout, the platform can't withhold. StreamToken (ERC-20 + Votes) for tipping, P2P rewards, and DAO voting. OZ Governor + Timelock controlling a ModerationRegistry contract, so bans actually go through a vote instead of a mod's mood. A custom P2P tracker (Node + WebSocket) that matches viewers by Haversine distance and rewards relays based on bytes × quality multiplier × uptime bonus, instead of the flat-rate model Theta uses. IPFS via Pinata for VOD persistence, with graceful fallback to local if pinning is down. The base streaming pipeline is boring on purpose: NGINX-RTMP ingest, FFmpeg multi-bitrate HLS (1080/720/480/360), Shaka Player on the client. Everything talks to chain through a single Web3 service (ethers.js) so the Go and Python services don't each need to know about Solidity. Target deploy is Arbitrum, dev is on a local Hardhat node. Numbers from the benchmarks (single-machine docker, M4 Pro, 2 CPU / 8 GB allocated to docker so this is conservative): NFT gate verification: P95 = 43 ms (target was <100 ms). 60s Redis cache on top. Revenue API under 50 VUs: P95 = 97 ms, 0% errors at ~78 req/s. P2P browser benchmark with 20 real headless Chromium peers: 92.6% bandwidth savings, 92% hit rate, sub-linear origin growth as peers double. Gas on Arbitrum: NFT mint ~0.024 dollars, tip ~0.018 dollars, full governance lifecycle (propose+vote+queue+execute) ~0.17 dollars. On L1 the same stuff is 100-500x more, which kills the whole thing economically. L2 isn't optional. Stuff that didn't work / I want to be honest about: I tried WHIP (WebRTC ingest) for like 3 weeks. Three different approaches with Pion + FFmpeg, all of them either gave me color corruption from RTP header extensions or frozen frames from clock mismatch. Eventually realized it was pointless: HLS segment buffering (6-12s) dominates end-to-end latency, so saving 80ms on ingest does nothing for the viewer. Killed it and went back to RTMP. Calling that out as a negative result in the thesis felt better than pretending it worked. The P2P layer right now uses a WebSocket relay through the tracker as fallback when WebRTC datachannels can't be established. Adds a hop. Direct WebRTC + proper STUN/TURN is on the future-work list. All benchmarks are single-machine. So peers share the same loopback, which obviously inflates the hit rates a bit. Real geo-distributed numbers would be worse, but the relative comparison still holds. 24h batching of P2P rewards instead of per-segment, because per-segment micropayments at 0.018 dollars a pop aren't economical even on L2. Per-stream channels (state channels / payment streams) could fix this but I didn't get there. What I'd actually love feedback on from this sub: The quality-aware reward formula (bytes × resolution multiplier × uptime). Is this gameable in obvious ways I'm missing? A peer can fake reporting bytes served, but the requesting peer also reports received bytes, so there's a cross-check. Still feels weak. Anyone running production P2P video at scale who can sanity-check the 88-93% savings number? My gut says it's optimistic for real cross-NAT conditions. Is governance-controlled moderation a complete dead end for anything bigger than a small DAO? Voting periods of "5 minutes to 24 hours" are useless for actual abuse response and I don't have a great answer for that.
 
-5h ago
+7h ago
 
 ---
 
@@ -102,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[I think Coinbase is building a fantastic business with stablecoins, and I would love others' opinions and thoughts.](https://www.reddit.com/r/ethereum/comments/1so3od4/i_think_coinbase_is_building_a_fantastic_business/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -110,7 +110,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Glamsterdam devnets drive Ethereum’s execution readiness while Hegotá opens the next phase of upgrade proposals & protocol evolution.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-consensus-acdc-call-177/) • 20h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-consensus-acdc-call-177/) • 22h ago
 
 ---
 
@@ -118,7 +118,7 @@ Glamsterdam devnets drive Ethereum’s execution readiness while Hegotá opens t
 
 Solidity developer survey results, ether.fi migrated to OP Mainnet, X $ETH cashtag
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-mini-0/) • 22h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-mini-0/) • 1d ago
 
 ---
 
@@ -154,15 +154,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Quarterly transactions hit 200.4 million in Q1 2026, the first time above 200 million and more than double the 2023 lows.
 
-CoinDesk • 21h ago
+CoinDesk • 23h ago
 
 ---
 
-**[Polkadot-Ethereum Bridge Hack Losses Were 10x Worse Than Reported, Team Admits](https://decrypt.co/364588/polkadot-ethereum-bridge-hack-losses-10x-worse-team-admits)**
+**[ETH Rangers Program Recap](https://blog.ethereum.org/2026/04/16/eth-rangers-recap)**
 
-Polkadot bridge protocol Hyperbridge said losses from this week's hack were 10x worse than originally reported, tallying about $2.5 million.
-
-Decrypt • 1d ago
+Ethereum Foundation Blog • 1d ago
 
 ---
 
@@ -178,7 +176,7 @@ CNBC • 1d ago
 
 Bitcoin (BTC-USD) opened at $75,151.99 on Friday, 0.5% higher than Thursday’s opening price of $74,810.87. Ethereum (ETH-USD) opened at $2,348.49 on Friday, down 0.5% from Thursday’s opening price of $2,359.70.
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -190,17 +188,25 @@ The Block • 1d ago
 
 ---
 
-**[Crypto News: Pepeto Presale Fast Sell Out Stage Whilst Ethereum Price Prediction Reaches $7,500 By Standard Chartered](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-presale-fast-sell-out-stage-whilst-ethereum-price-prediction-reaches-7-500-by-standard-chartered-1036034987)**
+**[Charles Schwab Weighs Prediction Markets Move as Bitcoin, Ethereum Trading Nears](https://decrypt.co/364617/charles-schwab-weighs-prediction-markets-bitcoin-ethereum-trading-nears)**
 
-Dubai, UAE, April  17, 2026  (GLOBE NEWSWIRE) -- The Ethereum based token Pepeto just confirmed that its latest presale stage closed out in hours,...
+Charles Schwab President and CEO Rick Wurster indicated that America’s largest discount brokerage will likely support prediction markets.
 
-markets.businessinsider.com • 1h ago
+Decrypt • 1d ago
+
+---
+
+**[Why Ethereum Has Become One Of The Most Heavily Shorted Assets Globally](https://www.tradingview.com/news/newsbtc:a0c30e4d6094b:0-why-ethereum-has-become-one-of-the-most-heavily-shorted-assets-globally/)**
+
+Across global markets, Ethereum has emerged as one of the most heavily shorted assets, a positioning that reflects more than simple bearish sentiment. It signals a growing divergence between market expectations and ETH’s long-term fundamentals, placing the asset at the center of an increasingly com…
+
+TradingView — Track All Markets • 12h ago
 
 ---
 
 **[Most large cryptocurrencies climb on Sui, Ethereum increases](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-climb-on-sui-ethereum-increases-6f01e867-dad5317f1ea1)**
 
-MarketWatch • 15h ago
+MarketWatch • 16h ago
 
 ---
 
@@ -208,21 +214,15 @@ MarketWatch • 15h ago
 
 Amid the ongoing cryptocurrency bear market, these two interesting digital assets present investors with possible buy-the-dip opportunities.
 
-The Motley Fool • 14h ago
+The Motley Fool • 16h ago
 
 ---
 
-**[How Fhenix and Ethereum Are Racing a Quantum Clock Nobody Can See](https://hackernoon.com/how-fhenix-and-ethereum-are-racing-a-quantum-clock-nobody-can-see)**
+**[Crypto News: Pepeto Presale Fast Sell Out Stage Whilst Ethereum Price Prediction Reaches $7,500 By Standard Chartered](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-presale-fast-sell-out-stage-whilst-ethereum-price-prediction-reaches-7-500-by-standard-chartered-1036034987)**
 
-Fhenix X Space with Guy Zyskind and Ethereum's Nicolas Serrano reframes post-quantum crypto from future risk to active timing problem.
+Dubai, UAE, April  17, 2026  (GLOBE NEWSWIRE) -- The Ethereum based token Pepeto just confirmed that its latest presale stage closed out in hours,...
 
-HackerNoon • 8h ago
-
----
-
-**[ETH Rangers Program Recap](https://blog.ethereum.org/2026/04/16/eth-rangers-recap)**
-
-Ethereum Foundation Blog • 1d ago
+markets.businessinsider.com • 2h ago
 
 ---
 
@@ -236,7 +236,7 @@ BITCOIN PRICE SQUEEZE: Everyone is WRONG (important)!!! - Bitcoin News Today, Et
 
 📺 Crypto World
 
-👁️ 788 • 👍 71 • 💬 12 • ⏱️ 25:40 • 51m ago
+👁️ 788 • 👍 71 • 💬 12 • ⏱️ 25:40 • 2h ago
 
 ---
 
@@ -256,7 +256,7 @@ xrp #bitcoin #hbar #xlm #eth 2nd Channel   https://www.youtube.com/@UCRS4Cjpn8ww
 
 📺 CRYPTO with KLAUS
 
-👁️ 7K • 👍 451 • 💬 111 • ⏱️ 12:17 • 10h ago
+👁️ 7K • 👍 451 • 💬 111 • ⏱️ 12:17 • 12h ago
 
 ---
 
@@ -276,7 +276,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 718 • 👍 24 • ⏱️ 4:53 • 20h ago
+👁️ 718 • 👍 24 • ⏱️ 4:53 • 21h ago
 
 ---
 
@@ -286,7 +286,7 @@ Kripto para piyasasında herkes korku içindeyken, ETH grafiğinde tarihte sadec
 
 📺 Kripto Kafalar
 
-👁️ 1K • 👍 156 • 💬 40 • ⏱️ 9:43 • 14h ago
+👁️ 1K • 👍 156 • 💬 40 • ⏱️ 9:43 • 15h ago
 
 ---
 
@@ -316,7 +316,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 383 • 👍 58 • ⏱️ 6:12 • 2h ago
+👁️ 383 • 👍 58 • ⏱️ 6:12 • 3h ago
 
 ---
 
@@ -326,7 +326,7 @@ THE WEALTH MINDSET   *** GET IN TOUCH *** SPONSOR INTEREST: mrforesightbs@gmail.
 
 📺 Grow Rich Grow Happy
 
-👁️ 412 • 👍 86 • 💬 21 • ⏱️ 13:28 • 5h ago
+👁️ 412 • 👍 86 • 💬 21 • ⏱️ 13:28 • 6h ago
 
 ---
 
