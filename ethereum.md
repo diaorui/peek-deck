@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-18T18:01:58.793968+00:00'
+updated: '2026-04-18T19:22:41.973128+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
 - news
-- cryptocurrency
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 18, 2026 at 18:01 UTC  
+**Last Updated:** April 18, 2026 at 19:22 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,372.12
+### $2,341.30
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.5%  
-**7d:** +7.8%  
-**30d:** +10.0%  
-**90d:** -26.0%  
-**1y:** +46.2%  
+**24h:** -3.0%  
+**7d:** +7.6%  
+**30d:** +9.7%  
+**90d:** -26.2%  
+**1y:** +45.9%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
 
 ---
 
@@ -80,15 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hello everyone. I recently built an Ethereum page that shows how Ethereum would look if investments never lost value and I’d love someone to look at the page and give me some honest feedback on it.
 
-2h ago
-
----
-
-**[The .eth.limo domain is compromised, don't trust vitalik.eth.limo or any other .eth.limo domain](https://www.reddit.com/r/ethereum/comments/1soshkj/the_ethlimo_domain_is_compromised_dont_trust/)**
-
-Join the conversation on Firefly: follow, comment and engage with Web3 social posts in real time.
-
-🔗 [firefly.social](https://firefly.social/post/bsky/qmajrxvehl6ss6w2h4uuv5bg_3mjqy6376q22j) • 9h ago
+3h ago
 
 ---
 
@@ -96,7 +88,7 @@ Join the conversation on Firefly: follow, comment and engage with Web3 social po
 
 Hey all. I just wrapped my master's thesis and figured this sub would actually care about the technical side instead of the price-talk side, so here goes. The thing that always bugged me about existing web3 video platforms is that each one only solves one slice of the problem. Livepeer does transcoding. Theta does P2P relay. Odysee does storage + discovery. PeerTube does federation. None of them stitch identity + gating + payouts + delivery + governance into a single app you can actually use end to end. So I tried to build that, and then benchmark it honestly to see where the real walls are. Stack ended up being: SIWE (EIP-4361) for auth, no email/password anywhere. Wallet address is the user ID across every microservice. ERC-1155 for tiered content gating (Viewer / Supporter / VIP). VIP holders also get priority + a reward multiplier in the P2P layer. 0xSplits + a thin StreamRevenue contract for per-stream revenue distribution. Anyone can trigger the payout, the platform can't withhold. StreamToken (ERC-20 + Votes) for tipping, P2P rewards, and DAO voting. OZ Governor + Timelock controlling a ModerationRegistry contract, so bans actually go through a vote instead of a mod's mood. A custom P2P tracker (Node + WebSocket) that matches viewers by Haversine distance and rewards relays based on bytes × quality multiplier × uptime bonus, instead of the flat-rate model Theta uses. IPFS via Pinata for VOD persistence, with graceful fallback to local if pinning is down. The base streaming pipeline is boring on purpose: NGINX-RTMP ingest, FFmpeg multi-bitrate HLS (1080/720/480/360), Shaka Player on the client. Everything talks to chain through a single Web3 service (ethers.js) so the Go and Python services don't each need to know about Solidity. Target deploy is Arbitrum, dev is on a local Hardhat node. Numbers from the benchmarks (single-machine docker, M4 Pro, 2 CPU / 8 GB allocated to docker so this is conservative): NFT gate verification: P95 = 43 ms (target was <100 ms). 60s Redis cache on top. Revenue API under 50 VUs: P95 = 97 ms, 0% errors at ~78 req/s. P2P browser benchmark with 20 real headless Chromium peers: 92.6% bandwidth savings, 92% hit rate, sub-linear origin growth as peers double. Gas on Arbitrum: NFT mint ~0.024 dollars, tip ~0.018 dollars, full governance lifecycle (propose+vote+queue+execute) ~0.17 dollars. On L1 the same stuff is 100-500x more, which kills the whole thing economically. L2 isn't optional. Stuff that didn't work / I want to be honest about: I tried WHIP (WebRTC ingest) for like 3 weeks. Three different approaches with Pion + FFmpeg, all of them either gave me color corruption from RTP header extensions or frozen frames from clock mismatch. Eventually realized it was pointless: HLS segment buffering (6-12s) dominates end-to-end latency, so saving 80ms on ingest does nothing for the viewer. Killed it and went back to RTMP. Calling that out as a negative result in the thesis felt better than pretending it worked. The P2P layer right now uses a WebSocket relay through the tracker as fallback when WebRTC datachannels can't be established. Adds a hop. Direct WebRTC + proper STUN/TURN is on the future-work list. All benchmarks are single-machine. So peers share the same loopback, which obviously inflates the hit rates a bit. Real geo-distributed numbers would be worse, but the relative comparison still holds. 24h batching of P2P rewards instead of per-segment, because per-segment micropayments at 0.018 dollars a pop aren't economical even on L2. Per-stream channels (state channels / payment streams) could fix this but I didn't get there. What I'd actually love feedback on from this sub: The quality-aware reward formula (bytes × resolution multiplier × uptime). Is this gameable in obvious ways I'm missing? A peer can fake reporting bytes served, but the requesting peer also reports received bytes, so there's a cross-check. Still feels weak. Anyone running production P2P video at scale who can sanity-check the 88-93% savings number? My gut says it's optimistic for real cross-NAT conditions. Is governance-controlled moderation a complete dead end for anything bigger than a small DAO? Voting periods of "5 minutes to 24 hours" are useless for actual abuse response and I don't have a great answer for that.
 
-18h ago
+19h ago
 
 ---
 
@@ -104,7 +96,7 @@ Hey all. I just wrapped my master's thesis and figured this sub would actually c
 
 Is it feasible to build on layer 1 and completely get rid of layer 2?
 
-18h ago
+19h ago
 
 ---
 
@@ -146,6 +138,14 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
+**[Ep. 146 - Justin Ahn - quidli.xyz - The Daily Doots Podcast](https://www.reddit.com/r/ethereum/comments/1sn7qz6/ep_146_justin_ahn_quidlixyz_the_daily_doots/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtu.be](https://youtu.be/73hHq2ua1ts?si=fwxBRn1_pW7xDziX) • 2d ago
+
+---
+
 ---
 
 ## Google News: "ethereum"
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 In an interview with CoinDesk, the Ethereum co-founder spoke also about Ethereum’s evolution through MetaMask, stablecoins and tokenization, while downplaying quantum computing as a long-term, manageable issue.
 
-CoinDesk • 4h ago
+CoinDesk • 15m ago
 
 ---
 
@@ -162,15 +162,15 @@ CoinDesk • 4h ago
 
 Crypto investors have watched Ethereum (CRYPTO:ETH) trade in a narrow range near $2,362 while Bitcoin hovers around $76,000 and institutional money quietly builds positions in digital assets. Adoption metrics keep climbing — stablecoins on Ethereum now handle trillions in annual volume, and layer-2 networks process thousands of transactions per second. Yet price action feels stuck. ... Why BitMine’s Tom Lee Sees Ethereum at $62,500 in 2030 — and What the Numbers Actually Show
 
-24/7 Wall St. • 5h ago
+24/7 Wall St. • 7h ago
 
 ---
 
-**[Bitcoin and Ethereum slide after Iran says Strait of Hormuz is shut](https://www.dlnews.com/articles/snapshot/bitcoin-price-slides-with-ethereum-on-shaky-us-iran-deal/)**
+**[Should You Buy Ethereum Before the Next Crypto Bull Run?](https://www.fool.com/investing/2026/04/18/should-you-buy-crypto-before-the-next-crypto-bull/)**
 
-Bitcoin and Ethereum dipped on Saturday. The two biggest cryptocurrencies are still up over the past seven days.  A ceasefire between the US and Iran looks shaky.
+This blockchain is a lot more formidable than in the past.
 
-dlnews.com • 2h ago
+The Motley Fool • 13m ago
 
 ---
 
@@ -178,7 +178,15 @@ dlnews.com • 2h ago
 
 Tron blockchain has launched a post-quantum upgrade initiative, founder Justin Sun announced on Tuesday. Quantum Security Should Be A Feature, Says Sun In an X post, Sun said that Tron will be the “first major public blockchain” to deploy post-quantum...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
+
+---
+
+**[Single Victim Loses $280 Million in DeFi Wallet Drain Across Ethereum, Arbitrum](https://finance.yahoo.com/markets/crypto/articles/single-victim-loses-280-million-190503068.html)**
+
+A single victim lost $280M+ across DeFi protocols on Ethereum and Arbitrum in a targeted wallet compromise flagged by ZachXBT.
+
+Yahoo Finance • 17m ago
 
 ---
 
@@ -202,23 +210,15 @@ The Block • 2d ago
 
 In the last bull run, when the Bitcoin price surged and crossed $100,000, the Ethereum price was expected to follow the same trajectory as it had in the past. But that was not the case, and the second-largest cryptocurrency by market cap was barely able to cross its previous all-time high price, bu…
 
-TradingView — Track All Markets • 8h ago
+TradingView — Track All Markets • 9h ago
 
 ---
 
-**[Bitmine Immersion: Ethereum Pivot Driving Hidden Upside (NYSE:BMNR)](https://seekingalpha.com/article/4891793-bitmine-immersion-ethereum-pivot-driving-hidden-upside)**
+**[Crypto News: AlphaPepe Announces $880k Raised While Ethereum Price Prediction Targets $4,000 on Heavy Whale Accumulation](https://markets.businessinsider.com/news/stocks/crypto-news-alphapepe-announces-880k-raised-while-ethereum-price-prediction-targets-4-000-on-heavy-whale-accumulation-1036035073)**
 
-Bitmine Immersion’s ETH staking drives 97%+ gross margins and surging revenue, but dilution and negative cash flow raise risks. Read why BMNR stock is a buy.
+MONACO, April  18, 2026  (GLOBE NEWSWIRE) -- AlphaPepe has crossed $880,000 in presale capital raised and stages continue finalizing in days. Capi...
 
-Seeking Alpha • 4h ago
-
----
-
-**[Charles Schwab Weighs Prediction Markets Move as Bitcoin, Ethereum Trading Nears](https://decrypt.co/364617/charles-schwab-weighs-prediction-markets-bitcoin-ethereum-trading-nears)**
-
-Charles Schwab President and CEO Rick Wurster indicated that America’s largest discount brokerage will likely support prediction markets.
-
-Decrypt • 2d ago
+markets.businessinsider.com • 11h ago
 
 ---
 
@@ -232,23 +232,43 @@ Barron's • 2d ago
 
 ## YouTube Videos: "ethereum"
 
+**[More Powerful Ethereum Coming This Summer🚨Ethereum Economic Zone INTERVIEW](https://www.youtube.com/watch?v=3uuRT5Zoi5s)**
+
+The Ethereum Economic Zone (EEZ) is a framework co-funded by the Ethereum Foundation, Gnosis, and Zisk to unify fragmented ...
+
+📺 Paul Barron Network
+
+👁️ 6K • 👍 502 • 💬 23 • ⏱️ 19:55 • 3h ago
+
+---
+
+**[Raoul Pal Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [2026 Realistic Prediction]](https://www.youtube.com/watch?v=o6-yoeXkA9c)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 768 • 👍 81 • 💬 2 • ⏱️ 20:54 • 3h ago
+
+---
+
+**[BITCOIN WARNING: The Next TRAP Just Started!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=tnFuByG5Bl0)**
+
+BITCOIN WARNING: The Next TRAP Just Started!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
+
+📺 Crypto World
+
+👁️ 320 • 👍 39 • 💬 8 • ⏱️ 19:52 • 13m ago
+
+---
+
 **[WILL ETHEREUM DUMP NOW?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=A7nVwLwBVNs)**
 
 ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
 📺 Cilinix Crypto
 
-👁️ 145 • 👍 12 • ⏱️ 5:31 • 8h ago
-
----
-
-**[BITCOIN PRICE SQUEEZE: Everyone is WRONG (important)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=QY0Yi3_UQNM)**
-
-BITCOIN PRICE SQUEEZE: Everyone is WRONG (important)!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
-
-📺 Crypto World
-
-👁️ 6K • 👍 323 • 💬 67 • ⏱️ 25:40 • 13h ago
+👁️ 165 • 👍 12 • ⏱️ 5:31 • 10h ago
 
 ---
 
@@ -258,17 +278,17 @@ Michael Saylor's Ethereum view has changed. Bitcoin is digital capital. Ethereum
 
 📺 Bankless
 
-👁️ 11K • 👍 229 • 💬 45 • ⏱️ 1:17 • 2d ago
+👁️ 12K • 👍 240 • 💬 45 • ⏱️ 1:17 • 2d ago
 
 ---
 
-**[Ethereum vs Canton… Is Privacy About to Take Over Crypto?](https://www.youtube.com/watch?v=Wiik0gNJdrk)**
+**[BITCOIN PRICE SQUEEZE: Everyone is WRONG (important)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=QY0Yi3_UQNM)**
 
-THE WEALTH MINDSET   *** GET IN TOUCH *** SPONSOR INTEREST: mrforesightbs@gmail.com Tangem ...
+BITCOIN PRICE SQUEEZE: Everyone is WRONG (important)!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
 
-📺 Grow Rich Grow Happy
+📺 Crypto World
 
-👁️ 711 • 👍 125 • 💬 25 • ⏱️ 13:28 • 18h ago
+👁️ 7K • 👍 330 • 💬 71 • ⏱️ 25:40 • 15h ago
 
 ---
 
@@ -278,7 +298,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 4K • 👍 166 • 💬 21 • ⏱️ 8:23 • 2d ago
+👁️ 5K • 👍 166 • 💬 21 • ⏱️ 8:23 • 2d ago
 
 ---
 
@@ -298,37 +318,17 @@ Raoul welcomes Vivek Raman, Co-Founder and CEO of Etherealize, and Danny Ryan, C
 
 📺 Raoul Pal The Journey Man
 
-👁️ 9K • 👍 339 • 💬 22 • ⏱️ 1:11:56 • 2d ago
+👁️ 9K • 👍 354 • 💬 23 • ⏱️ 1:11:56 • 2d ago
 
 ---
 
-**[Ethereum (ETH) Is CRASHING! 🚨 Don’t Ignore This | ETH Price Prediction 2026 ](https://www.youtube.com/watch?v=Om85-zbCskY)**
+**[What Is Ethereum? The Complete Story Every Investor Must Know](https://www.youtube.com/watch?v=MVo5Gp9pcjw)**
 
-Is Ethereum Dumping? In this video, we analyze Ethereum price trends, technical indicators, and expert forecasts. Whether you're ...
+What if the world's second-largest cryptocurrency was born out of rejection, childhood trauma, and a lunch meeting that changed ...
 
-📺 Hard Core Crypto
+📺 Delta Exchange
 
-👁️ 4 • ⏱️ 3:41 • 6h ago
-
----
-
-**[ETH ABOUT TO BREAKOUT?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=5Pu6-VHUevI)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 806 • 👍 25 • 💬 1 • ⏱️ 4:53 • 1d ago
-
----
-
-**[Ethereum Analysis: How High Can This Bounce Actually Go?](https://www.youtube.com/watch?v=2Vs2aLFcCWY)**
-
-Ethereum is moving higher in a corrective bounce and approaching a major resistance cluster. In this video I walk through the ...
-
-📺 More Crypto Online
-
-👁️ 6K • 👍 343 • 💬 25 • ⏱️ 9:49 • 2d ago
+👁️ 908 • 👍 77 • 💬 1 • ⏱️ 12:29 • 6h ago
 
 ---
 

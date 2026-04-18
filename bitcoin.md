@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-18T18:01:58.787523+00:00'
+updated: '2026-04-18T19:22:41.967219+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
 - news
-- cryptocurrency
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 18, 2026 at 18:01 UTC  
+**Last Updated:** April 18, 2026 at 19:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $76,142.31
+### $75,500.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.6%  
-**7d:** +7.3%  
-**30d:** +7.7%  
-**90d:** -18.1%  
-**1y:** -10.8%  
+**24h:** -2.0%  
+**7d:** +7.2%  
+**30d:** +7.4%  
+**90d:** -18.2%  
+**1y:** -11.1%  
 
 ---
 
@@ -81,13 +81,21 @@ Rank #1
 
 I was greedy in 2022 during the crash and wanted to wait for 12k to buy. 12k never came. After BTC teleported from 15k to 30k, I wanted a deep dip to 20k to buy. 20k never came. Then I watched BTC teleport from 25k to 70k without a single down month. Zero dips given. Then the 50k dip came but got bought up by the market instantly, the window to buy was extremely shortlived and I couldn't get in. Then BTC proceeded to teleport from 50k to 110k in just a few weeks and I basically missed the whole cycle. I have a feeling the same people waiting for 40k-50k now will go through what I went through and watch as BTC teleports to 500k (or whatever the next top is) without a single major dip.
 
-3h ago
+4h ago
+
+---
+
+**[The duality of man](https://www.reddit.com/r/Bitcoin/comments/1sp2tqn/the_duality_of_man/)**
+
+I have a group of friends that watched me make a ton of money during the 2016-2017 crypto market and asked me to tell them the next time I believed was a good time to buy (surprise, it’s almost always a good time to buy) so whenever it became a bear market, I would shoot the group chat a message and let them know it’s a good time to buy. I would get mocking responses like “Oh yeah I bet it’s a good time to buy, it’s down 10%”. They would even message me the next day when it’s down 11% and say things like “ooh it’s even lower now, I guess today’s a good day to buy too” And then the bull market comes and my group chat is peppered with angry messages about how they missed the bull run and how I didn’t tell them it’s coming. Messages like “you gotta tell me the next time it’s good to buy!” I quickly learnt that there are just some things people can’t be taught, they have to learn it themselves. Moral of the story, don’t tell people you’re into crypto and don’t tell people you made gains, regardless of who they are, in the end it’s just a headache for you.
+
+2h ago
 
 ---
 
 **[Bitcoin is dead](https://www.reddit.com/r/Bitcoin/comments/1socs7g/bitcoin_is_dead/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -95,15 +103,7 @@ I was greedy in 2022 during the crash and wanted to wait for 12k to buy. 12k nev
 
 Central bank greenlights regulated crypto access while keeping strict curbs on balance-sheet exposure
 
-🔗 [coindesk.com](https://www.coindesk.com/policy/2026/04/15/pakistan-lifts-seven-year-ban-allowing-banks-to-service-virtual-asset-providers) • 6h ago
-
----
-
-**[Let's FCKN Go](https://www.reddit.com/r/Bitcoin/comments/1sogycs/lets_fckn_go/)**
-
-I'm so long.
-
-18h ago
+🔗 [coindesk.com](https://www.coindesk.com/policy/2026/04/15/pakistan-lifts-seven-year-ban-allowing-banks-to-service-virtual-asset-providers) • 8h ago
 
 ---
 
@@ -111,15 +111,21 @@ I'm so long.
 
 Genuinely so happy to be done, I’ve reached my goal amount of btc to feel comfortable. I won’t lie, I make minimum wage for LA standard and ima stop buying and let it ride. Could hypothetically keep buying more but I truly have the next goal of getting 10k in fiat in my HYSA before touching any market. Sold all my stock to get to my goal and don’t regret it. Letting it ride and won’t open my wallets till I reach my saving goal. Thank you for all your help and advice, never been prouder.
 
-5h ago
+7h ago
 
 ---
 
-**[If Bitcoin is Ponzi then so everything else](https://www.reddit.com/r/Bitcoin/comments/1soniti/if_bitcoin_is_ponzi_then_so_everything_else/)**
+**[Let's FCKN Go](https://www.reddit.com/r/Bitcoin/comments/1sogycs/lets_fckn_go/)**
 
-Stupid narratives
+I'm so long.
 
-13h ago
+20h ago
+
+---
+
+**[Do the maths!!](https://www.reddit.com/r/Bitcoin/comments/1sosymz/do_the_maths/)**
+
+9h ago
 
 ---
 
@@ -127,15 +133,15 @@ Stupid narratives
 
 Trying to understand how people approach Bitcoin long term. Do you keep adding over time or just hold and wait?
 
-3h ago
+4h ago
 
 ---
 
-**[is this the right moment to buy BTC?](https://www.reddit.com/r/Bitcoin/comments/1sosdqu/is_this_the_right_moment_to_buy_btc/)**
+**[If Bitcoin is Ponzi then so everything else](https://www.reddit.com/r/Bitcoin/comments/1soniti/if_bitcoin_is_ponzi_then_so_everything_else/)**
 
-I am new to crypto. Is this the right time to buy BTC since I see the chart it started to rebound?
+Stupid narratives
 
-9h ago
+14h ago
 
 ---
 
@@ -143,15 +149,7 @@ I am new to crypto. Is this the right time to buy BTC since I see the chart it s
 
 Personally its 0.05 not a lot but i still believe in btc insted of fiat thats why im almost not having cash
 
-9h ago
-
----
-
-**[My perspective](https://www.reddit.com/r/Bitcoin/comments/1so4dx3/my_perspective/)**
-
-Hey everyone, I’ve been buying Bitcoin since 2012/2013. I’ve lived through it all, studied all cycles in detail, and I’m usually dead silent on Reddit, I just lurk, watch, and stay out of the noise. Never really comment. But… This feels massively like the 2013 cycle and the 2021 cycle. We’d hit a top, then a brutal dip where everyone piled into the “lower lows incoming,” “it’s over,” narrative. Capitulation everywhere. Then, surprise, it bounced hard and went on to make new cycle highs. That’s exactly what I see playing out right now. We topped at roughly $126,200 in early October 2025. Since then we’ve had the classic post-peak flush, fear, and bearish calls for even lower prices. But to me this looks like the same retest/bounce setup we’ve seen before. The crowd is getting shaken out again right before the next leg higher. In my experience, this is when things get very bullish. A lot of people are going to sit on the sidelines waiting for “the real bottom” that never comes. People think the cycle top has com and we have entered bear, but the market is maturing and becoming longer. Wouldn’t surprise me at all if we see the cycle top sometime in late 2026 or 2027 in the $180k–$220k range. Just my two sats after watching this market for over a decade. Do your own research, never financial advice… but damn if this doesn’t feel familiar in the best possible way. Stay safe out there. (And yeah… still not selling.)
-
-1d ago
+10h ago
 
 ---
 
@@ -161,53 +159,7 @@ Hey everyone, I’ve been buying Bitcoin since 2012/2013. I’ve lived through i
 
 **[‘Buy Bitcoin’—Elon Musk’s ‘Massive’ U.S. Dollar Warning Fuels Wild Crypto Price Predictions](https://www.forbes.com/sites/digital-assets/2026/04/18/buy-bitcoin-elon-musks-massive-us-dollar-warning-fuels-wild-crypto-price-predictions/)**
 
-Forbes • 6h ago
-
----
-
-**[Congresswoman Biggs discloses six-figure BlackRock bitcoin ETF buy as BTC rebounds](https://www.theblock.co/post/397939/congresswoman-biggs-six-figure-blackrock-bitcoin-etf-buy-btc-rebounds)**
-
-Rep. Sheri Biggs disclosed a purchase of up to $250,000 in BlackRock’s iShares Bitcoin Trust ETF for the second time in a year.
-
-The Block • 1d ago
-
----
-
-**['Choke Point'—Bitcoin's $77B Coinbase ETF Warning Shocks Markets](https://www.forbes.com/sites/digital-assets/2026/04/17/choke-point-bitcoins-77b-coinbase-etf-warning-shocks-markets/)**
-
-Forbes • 16h ago
-
----
-
-**[Congresswoman Sheri Biggs Discloses Up to $250,000 BTC Investment via iShares Bitcoin ETF](https://bitcoinmagazine.com/news/sheri-biggs-discloses-250000-bitcoin)**
-
-Representative Sheri Biggs of South Carolina has disclosed a purchase of up to $250,000 in Bitcoin exposure.
-
-Bitcoin Magazine • 1d ago
-
----
-
-**[You Do Not Have to Pick the Next Bitcoin to Profit From Crypto. Here Is the Simpler Play.](https://www.fool.com/investing/2026/04/18/you-do-not-have-to-pick-the-next-bitcoin-to-profit/)**
-
-Crypto offers big potential, but choosing the right coin isn't easy. Instead, betting on one company that sits at the center of the crypto ecosystem could benefit investors.
-
-The Motley Fool • 3h ago
-
----
-
-**[Bitcoin and Ethereum slide after Iran says Strait of Hormuz is shut](https://www.dlnews.com/articles/snapshot/bitcoin-price-slides-with-ethereum-on-shaky-us-iran-deal/)**
-
-Bitcoin and Ethereum dipped on Saturday. The two biggest cryptocurrencies are still up over the past seven days.  A ceasefire between the US and Iran looks shaky.
-
-dlnews.com • 2h ago
-
----
-
-**[Justin Sun Says Bitcoin 'Debates,' Ethereum Forms 'Research Committees,' While Tron 'Builds' As Blockchain Unveils Post-Quantum Initiative](https://finance.yahoo.com/markets/crypto/articles/justin-sun-says-bitcoin-debates-163115646.html)**
-
-Tron blockchain has launched a post-quantum upgrade initiative, founder Justin Sun announced on Tuesday. Quantum Security Should Be A Feature, Says Sun In an X post, Sun said that Tron will be the “first major public blockchain” to deploy post-quantum...
-
-Yahoo Finance • 1h ago
+Forbes • 7h ago
 
 ---
 
@@ -219,9 +171,55 @@ CNBC • 2d ago
 
 ---
 
+**[The Lightning Network isn’t ‘helplessly broken’](https://www.coindesk.com/opinion/2026/04/18/the-lightning-network-isn-t-helplessly-broken)**
+
+Shell argues the network is fixable and proposes a different framing to the recent quantum debate.
+
+CoinDesk • 2h ago
+
+---
+
+**[Better Buy: Bitcoin (BTC) or Bittensor (TAO)?](https://www.fool.com/investing/2026/04/18/better-buy-bitcoin-or-bittensor/)**
+
+Bittensor may be outperforming Bitcoin in 2026, but how much longer can it last?
+
+The Motley Fool • 8m ago
+
+---
+
+**[Wall Street’s Biggest Wealth Manager Now Has a Public Bitcoin Wallet](https://finance.yahoo.com/markets/crypto/articles/wall-street-biggest-wealth-manager-170000367.html)**
+
+Arkham Intelligence identified Morgan Stanley's MSBT Bitcoin ETF wallets, enabling real-time on-chain BTC tracking.
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Bitcoin Had a Great Week. Crypto-Linked Stocks Did Even Better](https://www.investopedia.com/bitcoin-had-a-great-week-crypto-linked-stocks-did-even-better-mstr-hood-coin-11952864)**
+
+The price of the world's largest cryptocurrency rose almost 10% this week, but stocks including Strategy, Coinbase, and Robinhood outpaced those gains amid the risk-on rally.
+
+Investopedia • 22h ago
+
+---
+
+**[Bitcoin’s Greatest Mystery](https://www.nytimes.com/2026/04/16/world/bitcoin-satoshi-adam-back-israel-lebanon-ceasefire.html)**
+
+The New York Times • 1d ago
+
+---
+
+**[Current price of Bitcoin for April 17, 2026](https://fortune.com/article/price-of-bitcoin-04-17-2026/)**
+
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+
+Fortune • 1d ago
+
+---
+
 **[Bitcoin Price Surges Amid Epic Strategy Buying Spree](https://www.investors.com/news/bitcoin-price-strategy-buying-power-mstr-stock-strc-issuance-saylor/)**
 
-Investor's Business Daily • 21h ago
+Investor's Business Daily • 22h ago
 
 ---
 
@@ -242,14 +240,6 @@ CoinDesk • 1d ago
 Arkham data shows 8,285 BTC in Coinbase Prime custody as the company swings from $8 billion profit to nearly $5 billion loss ahead of its IPO push.
 
 ⬆️ 27 • 💬 9 • 6d ago • [coindesk.com](https://www.coindesk.com/markets/2026/04/11/musk-s-spacex-holds-usd603-million-in-bitcoin-despite-usd5-billion-loss-stemming-from-xai)
-
----
-
-**[Show HN: Bitcoin and Quantum Computing – a three-part research series](https://news.ycombinator.com/item?id=47733222)**
-
-A three-part deep dive into quantum computing's actual threat to Bitcoin. 17 researchers, 13 proposals, real engineering. No hype. No FUD.
-
-⬆️ 6 • 💬 1 • 6d ago • [Bitcoin & Quantum Computing](https://bitcoinquantum.space)
 
 ---
 
@@ -313,19 +303,15 @@ A deeply technical early Bitcoiner realized that self-custody is only as strong 
 
 ---
 
+**[Unmasking the Creator of Bitcoin [audio]](https://news.ycombinator.com/item?id=47762113)**
+
+⬆️ 1 • 💬 0 • 4d ago • [nytimes.com](https://www.nytimes.com/2026/04/09/podcasts/the-daily/satoshi-nakamoto-bitcoin-creator.html)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
-
-**[All-Time High Stocks… Bitcoin About To Explode?](https://www.youtube.com/watch?v=SlPpXs_8WI4)**
-
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience. In this conversation, we break down ...
-
-📺 Anthony Pompliano
-
-👁️ 10K • 👍 898 • 💬 16 • ⏱️ 57:41 • 5h ago
-
----
 
 **[Fox Business Reveals Massive Bitcoin News…](https://www.youtube.com/watch?v=UlJNGzbms34)**
 
@@ -333,7 +319,17 @@ Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=Al
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 183 • ⏱️ 8:39 • 18h ago
+👁️ 41K • 👍 2K • 💬 212 • ⏱️ 8:39 • 20h ago
+
+---
+
+**[All-Time High Stocks… Bitcoin About To Explode?](https://www.youtube.com/watch?v=SlPpXs_8WI4)**
+
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience. In this conversation, we break down ...
+
+📺 Anthony Pompliano
+
+👁️ 25K • 👍 1K • 💬 16 • ⏱️ 57:41 • 6h ago
 
 ---
 
@@ -343,37 +339,7 @@ A former Treasury Secretary warns the next crisis could be worse than 2008. Bond
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 2K • 💬 96 • ⏱️ 16:22 • 19h ago
-
----
-
-**[Why Bitcoin Is Almost $80,000 Right Now](https://www.youtube.com/watch?v=s-ZvLM_p59k)**
-
-Sell Your FTX Claim w/ FTX Creditor: https://www.ftxcreditor.com Follow Louis on X: https://x.com/LouisOrigny Linqto Creditor: ...
-
-📺 Aaron Bennett
-
-👁️ 4K • 👍 235 • 💬 91 • ⏱️ 8:08 • 16h ago
-
----
-
-**[once you realize what&#39;s happening to bitcoin... you WILL cry [and vibrate]](https://www.youtube.com/watch?v=QTxhX7f6aic)**
-
-Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bitunix ...
-
-📺 Tyler S
-
-👁️ 10K • 👍 679 • 💬 401 • ⏱️ 11:49 • 22h ago
-
----
-
-**[BITCOIN MUST BREAK THIS LINE! BULL MARKET IF IT DOES! Bitcoin Technical Analysis 2026](https://www.youtube.com/watch?v=S-JOwVoyWyE)**
-
-Are you ready? CRYPTO RETIREMENT ACCOUNT HERE Sign up for iTrustCapital and get a $100 funding bonus after ...
-
-📺 Crypto Jebb
-
-👁️ 4K • 👍 251 • 💬 29 • ⏱️ 8:10 • 22h ago
+👁️ 23K • 👍 2K • 💬 100 • ⏱️ 16:22 • 21h ago
 
 ---
 
@@ -383,7 +349,7 @@ According to a new report from JPMorgan Chase, the much-anticipated CLARITY Act 
 
 📺 Paul Barron Network
 
-👁️ 98K • 👍 5K • 💬 265 • ⏱️ 13:57 • 23h ago
+👁️ 103K • 👍 5K • 💬 283 • ⏱️ 13:57 • 1d ago
 
 ---
 
@@ -393,17 +359,37 @@ Bitcoin is back at $75K as risk appetite returns—but the bigger story is unfol
 
 📺 Swan Bitcoin
 
-👁️ 10K • 👍 597 • 💬 56 • ⏱️ 9:53 • 1d ago
+👁️ 11K • 👍 610 • 💬 57 • ⏱️ 9:53 • 1d ago
 
 ---
 
-**[&quot;Chaos Is a Ladder”: Bitwise’s Matt Hougan on Bitcoin’s Path to $1M](https://www.youtube.com/watch?v=v2MuE-dzQiw)**
+**[BITCOIN MUST BREAK THIS LINE! BULL MARKET IF IT DOES! Bitcoin Technical Analysis 2026](https://www.youtube.com/watch?v=S-JOwVoyWyE)**
 
-In today's Markets Outlook, Bitwise CIO Matt Hougan joins CoinDesk's Jennifer Sanasie to make the case for $1 million bitcoin, ...
+Are you ready? CRYPTO RETIREMENT ACCOUNT HERE Sign up for iTrustCapital and get a $100 funding bonus after ...
 
-📺 CoinDesk
+📺 Crypto Jebb
 
-👁️ 21K • 👍 474 • 💬 85 • ⏱️ 20:47 • 1d ago
+👁️ 4K • 👍 255 • 💬 30 • ⏱️ 8:10 • 23h ago
+
+---
+
+**[Why Bitcoin Is Almost $80,000 Right Now](https://www.youtube.com/watch?v=s-ZvLM_p59k)**
+
+Sell Your FTX Claim w/ FTX Creditor: https://www.ftxcreditor.com Follow Louis on X: https://x.com/LouisOrigny Linqto Creditor: ...
+
+📺 Aaron Bennett
+
+👁️ 4K • 👍 244 • 💬 127 • ⏱️ 8:08 • 18h ago
+
+---
+
+**[Bitcoin Reclaims $76,000...Breakout Soon That Starts The Run](https://www.youtube.com/watch?v=aoTlUw-Fy2M)**
+
+Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FREE Crypto Predictions & Compete Weekly ...
+
+📺 CryptosRUs
+
+👁️ 21K • 👍 1K • 💬 325 • ⏱️ 50:58 • 1d ago
 
 ---
 
@@ -413,7 +399,17 @@ Gareth Soloway, Chief Market Strategist at Verified Investing, breaks down the l
 
 📺 Verified Pro Traders
 
-👁️ 16K • 👍 1K • 💬 280 • ⏱️ 8:13 • 1d ago
+👁️ 16K • 👍 1K • 💬 305 • ⏱️ 8:13 • 1d ago
+
+---
+
+**[&quot;Chaos Is a Ladder”: Bitwise’s Matt Hougan on Bitcoin’s Path to $1M](https://www.youtube.com/watch?v=v2MuE-dzQiw)**
+
+In today's Markets Outlook, Bitwise CIO Matt Hougan joins CoinDesk's Jennifer Sanasie to make the case for $1 million bitcoin, ...
+
+📺 CoinDesk
+
+👁️ 22K • 👍 484 • 💬 79 • ⏱️ 20:47 • 2d ago
 
 ---
 
