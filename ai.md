@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-18T21:37:16.707127+00:00'
+updated: '2026-04-18T22:36:08.806748+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - repositories
 - social
 - videos
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 18, 2026 at 21:37 UTC  
+**Last Updated:** April 18, 2026 at 22:36 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 AI Coding contest day 8 The eighth challenge is a weighted variant of the classic knight's tour. The knight must visit every square of a rectangular board exactly once, but each square carries an integer weight. As it moves, the knight accumulates load, and the cost of each move equals its current load. Charge is assessed upon departure, so the weight of the final square never contributes.
 
-6h ago
+7h ago
 
 ---
 
@@ -49,7 +49,7 @@ AI Coding contest day 8 The eighth challenge is a weighted variant of the classi
 
 I wanted a real local assistant on my phone, not a demo. First tried the usual llama.cpp in Termux — Gemma 4 was 2–3 tok/s and the phone was on fire. Then I switched to Google’s LiteRT setup, got Gemma 4 running smoothly, and wired it into an agent stack running in Termux. Now one Android phone is: running the LLM locally automating its own apps via ADB staying offline if I want Happy to share details + code and hear what else you’d build on top of this. https://preview.redd.it/7vkbrlzfryvg1.jpg?width=3024&format=pjpg&auto=webp&s=25455827ddf9715b4159ce64a18deba812cf0f5f
 
-6h ago
+7h ago
 
 ---
 
@@ -57,7 +57,7 @@ I wanted a real local assistant on my phone, not a demo. First tried the usual l
 
 Most AI companion apps reset between conversations. The character has no continuity outside the chat window. I wanted mine to feel like real people with lives, so I built an "offscreen events" system. Every 8 hours (cooldown), each active companion gets a small batch of events generated based on their persona, scenario, and city/realm. A barista companion might "had a slow Tuesday morning, finally finished that book during the lull." A writer might "submitted the short story I told you about — heard back from the editor today." The companion brings these up naturally in the next chat. Not as a script. Not "Hi! I want to tell you about my day!" — but woven into whatever you're talking about. The hard parts: Keeping events consistent with persona (a shy librarian shouldn't suddenly go skydiving) Avoiding the "I had the most amazing day!" trap that AI loves Making the companion remember the event when relevant, not just dump it on first message Architecturally: events stored in a separate table, recent ones injected into the system prompt with framing like "[YOU did this earlier today, mention it naturally if relevant]". The model picks which one fits the conversational moment. Has anyone else tried this with their AI characters? Curious what other approaches work — particularly for keeping the events from feeling generic.
 
-3h ago
+4h ago
 
 ---
 
@@ -77,11 +77,19 @@ This article is discussing another large investment being made by tech firms int
 
 ---
 
+**[The AI Integration Paradox](https://www.reddit.com/r/artificial/comments/1sp24zy/the_ai_integration_paradox/)**
+
+Why 90% of AI implementations fail, and the uncomfortable lessons from the dot-com crash that nobody’s talking about.
+
+🔗 [Medium](https://medium.com/@borlidoadrian/the-ai-integration-paradox-cddf71844834) • 6h ago
+
+---
+
 **[You're giving feedback on a new version of ChatGPT](https://www.reddit.com/r/artificial/comments/1sp7jrl/youre_giving_feedback_on_a_new_version_of_chatgpt/)**
 
 So I will be paying attention to these system messages more now- the last time I got one of these not so long back the 'tone' changed to be a bit more confrontational and nearly every response from AI had that 1-ups-manship quality to it. Every response was like response 1- an initial agreement with a but needs tightening on this or that. From the 2nd option (seen below) that tendency seems to be softened or rephrased. Usually these seem to occur in the midst of a generative burst and i see them as poorly tied distraction and i just choose option1 and move on- this time i will try option 2 and see if the 1-ups-manship model tones down a bit. Can I safely assume others get these options (especially) poorly timed in generative flow? https://preview.redd.it/ootx2nl770wg1.png?width=1396&format=png&auto=webp&s=fa0e6b3d8d261ef762429ef3cbf510c794ebe3de
 
-1h ago
+2h ago
 
 ---
 
@@ -89,23 +97,7 @@ So I will be paying attention to these system messages more now- the last time I
 
 I am sharing this open-source list of cases where the ethics of GenAI use were put in the spotlight, in the hopes of sparking discussion on the usage and limitations of LLMs.
 
-🔗 [GitHub](https://github.com/hb20007/awesome-gen-ai-fails#readme) • 11h ago
-
----
-
-**[GPT-4 vs Claude vs Gemini for coding — honest breakdown after 3 months of daily use](https://www.reddit.com/r/artificial/comments/1sp8qbq/gpt4_vs_claude_vs_gemini_for_coding_honest/)**
-
-I am a solo developer who has been using all three seriously. Here is what I actually think: GPT-4o — Strengths: Large context window, strong at boilerplate, excellent JSON output. Function calling is rock solid. Weaknesses: Sometimes confidently wrong on obscure APIs. Claude 3.5 Sonnet — Strengths: Best at understanding existing code structure. When I paste a whole module and ask it to refactor, it gets the intent right more often. Better at explaining why it made a change. Weaknesses: Can be overly cautious on edge cases. Gemini 1.5 Pro — Strengths: 1M token context is genuinely useful for large repos. Weaknesses: Weakest at actual code logic. Better as a search layer over a codebase than a code generator. My current setup: Claude for architecture and complex refactors, GPT-4o for rapid prototyping, Gemini for searching large doc sets. For keeping up with new models and tools, I have been using AIMasterTools.com — solid aggregator that tracks new releases without the noise. What is your daily driver?
-
-59m ago
-
----
-
-**[The AI Integration Paradox](https://www.reddit.com/r/artificial/comments/1sp24zy/the_ai_integration_paradox/)**
-
-Why 90% of AI implementations fail, and the uncomfortable lessons from the dot-com crash that nobody’s talking about.
-
-🔗 [Medium](https://medium.com/@borlidoadrian/the-ai-integration-paradox-cddf71844834) • 5h ago
+🔗 [GitHub](https://github.com/hb20007/awesome-gen-ai-fails#readme) • 12h ago
 
 ---
 
@@ -113,7 +105,15 @@ Why 90% of AI implementations fail, and the uncomfortable lessons from the dot-c
 
 Hi folks! I'm Sarah, an audience editor from The Globe and Mail. I wanted to share this an in-depth feature about how banks are incorporating AI into their research – which is helping customers find answers faster. Here's a gift link to the piece, so anyone can read it without a paywall: How the promise of AI is taking hold at Canada’s biggest banks
 
-5h ago
+6h ago
+
+---
+
+**[Does an "AI messenger" exist?](https://www.reddit.com/r/artificial/comments/1sozgok/does_an_ai_messenger_exist/)**
+
+Curious if anyone has found anything like this in their journeys: Instead of sending a big long email or document to a colleague and having them not read it, what if you sent an agent of sorts instead to deliver a brief message but also allow the receiver to ask more detailed questions if they have any? The agent could be loaded with various docs / details that could be referenced if the recipient has follow up questions without having to go back to the sender. This could be in various forms: chatbot, virtual avatar, or my favorite: a star-wars-like hologram 😂
+
+7h ago
 
 ---
 
@@ -125,7 +125,7 @@ Hi folks! I'm Sarah, an audience editor from The Globe and Mail. I wanted to sha
 
 There's a good and bad way to write effective artificial intelligence prompts for personal finance advice.
 
-CNBC • 7h ago
+CNBC • 8h ago
 
 ---
 
@@ -137,17 +137,25 @@ The Washington Post • 1h ago
 
 ---
 
+**[Charlize Theron Censures Timothée Chalamet Over “Reckless” Comments; Says AI May Soon “Be Able To Do” His Job But Will Not Replace Ballet & Opera](https://deadline.com/2026/04/charlize-theron-timothee-chalamet-ballet-opera-ai-1236865017/)**
+
+Charlize Theron censured Timothée Chalamet over his 'reckless' comments about ballet and opera, saying AI will soon replace his job.
+
+Deadline • 1h ago
+
+---
+
 **[It’s time for students to start committing to colleges. The age of AI is making it complicated](https://www.cnn.com/2026/04/18/business/ai-college-debt-parents)**
 
 Mary Akkerman has visited more than 30 college campuses with her children, one now at Stanford and another still in high school. She especially wanted them to get degrees that lead to good jobs – but figuring that out, said the Sioux Falls, South Dakota, parent, was a major challenge, thanks in part to the rapid advance of AI and its effects on the job market.
 
-CNN • 10h ago
+CNN • 11h ago
 
 ---
 
 **[AI and Fitness: Why Some Athletes Are Using Chatbots for Their Workouts](https://www.nytimes.com/2026/04/18/well/move/ai-fitness-coach-chatgpt-claude.html)**
 
-The New York Times • 12h ago
+The New York Times • 13h ago
 
 ---
 
@@ -155,29 +163,7 @@ The New York Times • 12h ago
 
 Allbirds' AI pivot shows signs of froth in markets, but experts say the underlying fundamentals in AI remain strong.
 
-Yahoo Finance • 9h ago
-
----
-
-**[White House and Anthropic hold 'productive' meeting amid fears over Mythos model](https://www.bbc.com/news/articles/cyv10e1d13po)**
-
-The discussion is a sign the AI firm's technology may be too critical for even the US government to do without.
-
-BBC • 21h ago
-
----
-
-**[Anthropic’s Mythos AI model tests limits of global cyber defences](https://www.ft.com/content/b9e79c53-9f14-4b7a-b250-d7a230ca8433?syn-25a6b1a6=1)**
-
-New system has sparked fears it could turbocharge hacking and expose weaknesses faster than they can be fixed
-
-Financial Times • 10h ago
-
----
-
-**[A new era of AI crime has arrived with Anthropic’s Mythos](https://www.marketwatch.com/story/a-new-era-of-ai-crime-has-arrived-with-anthropics-mythos-d5451040)**
-
-MarketWatch • 10h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -185,15 +171,27 @@ MarketWatch • 10h ago
 
 "We launched 2.5 months ago, and right now, we have $300,000 in ARR."
 
-Fortune • 10h ago
+Fortune • 11h ago
 
 ---
 
-**[Build a More Secure, Always-On Local AI Agent with OpenClaw and NVIDIA NemoClaw](https://developer.nvidia.com/blog/build-a-secure-always-on-local-ai-agent-with-nvidia-nemoclaw-and-openclaw/)**
+**[Grindr’s CEO Has a Favorite in the California Governor’s Race](https://www.politico.com/news/magazine/2026/04/18/grindr-ai-politics-california-interview-00879011)**
 
-Agents are evolving from question-and-answer systems into long-running autonomous assistants that read files, call APIs, and drive multi-step workflows. However, deploying an agent to execute code and…
+Politico • 6h ago
 
-NVIDIA Developer • 1d ago
+---
+
+**[Finance ministers and top bankers raise serious concerns about Mythos AI model](https://www.bbc.com/news/articles/c2ev24yx4rmo)**
+
+Experts say Mythos potentially has an unprecedented ability to identify and exploit cybersecurity weaknesses.
+
+BBC • 1d ago
+
+---
+
+**[White House and Anthropic Hold ‘Productive’ Meeting, Aiming for a Compromise](https://www.nytimes.com/2026/04/17/technology/white-house-anthropic-artificial-intelligence.html)**
+
+The New York Times • 23h ago
 
 ---
 
@@ -219,7 +217,7 @@ We're building AI Gateway into a unified inference layer for AI, letting develop
 
 Hardware hacker’s flying probe automation stack for agent-driven   target discovery, microscope mapping, safety-monitored CNC motion, probe review, and   controlled pin probing. - GainSec/AutoProber
 
-⬆️ 224 • 💬 46 • 1d ago • [GitHub](https://github.com/gainsec/autoprober)
+⬆️ 224 • 💬 46 • 2d ago • [GitHub](https://github.com/gainsec/autoprober)
 
 ---
 
@@ -235,7 +233,7 @@ We signed a 3 year lease and gave it to an AI
 
 GPU rental prices surged 48% in 60 days. The AI compute shortage will force startups to compete not on speed of iteration, but on access to infrastructure.
 
-⬆️ 186 • 💬 218 • 2d ago • [Tomasz Tunguz](https://tomtunguz.com/ai-compute-crisis-2026/)
+⬆️ 186 • 💬 220 • 2d ago • [Tomasz Tunguz](https://tomtunguz.com/ai-compute-crisis-2026/)
 
 ---
 
@@ -251,7 +249,7 @@ I've noticed the use of Copilot within a few reviews (13277 and 12730) which con
 
 Scan your website to see if it's ready for AI agents. Check for llms.txt, MCP, agent skills, and other agent-friendly standards.
 
-⬆️ 108 • 💬 173 • 1d ago • [Is Your Site Agent-Ready?](https://isitagentready.com)
+⬆️ 108 • 💬 174 • 1d ago • [Is Your Site Agent-Ready?](https://isitagentready.com)
 
 ---
 
@@ -263,19 +261,17 @@ We've lived but a few years so far into the age when artificial intelligence can
 
 ---
 
+**[College instructor turns to typewriters to curb AI-written work](https://news.ycombinator.com/item?id=47818485)**
+
+⬆️ 76 • 💬 61 • 3h ago • [sentinelcolorado.com](https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/)
+
+---
+
 **[Shares in shoe brand Allbirds rise 580% after it pivots from footwear to AI](https://news.ycombinator.com/item?id=47790353)**
 
 The company is selling off its shoe brand as it plans to shift to providing technology infrastructure.
 
 ⬆️ 73 • 💬 32 • 2d ago • [bbc.com](https://www.bbc.com/news/articles/c98mrepzgj7o)
-
----
-
-**[Amazon AI Cancelling Webcomics](https://news.ycombinator.com/item?id=47787368)**
-
-Sean Kleefeld's daily thoughts about comics and the comic industry.
-
-⬆️ 62 • 💬 10 • 2d ago • [kleefeldoncomics.com](http://www.kleefeldoncomics.com/2026/04/amazon-ai-cancelling-webcomics.html)
 
 ---
 
@@ -339,7 +335,7 @@ Artificial intelligence has become part of our lives, increasingly core to how w
 
 📺 Forbes
 
-👁️ 2K • 👍 80 • ⏱️ 5:39 • 6h ago
+👁️ 2K • 👍 80 • ⏱️ 5:39 • 7h ago
 
 ---
 
@@ -359,7 +355,7 @@ AI robots failing and glitching 2026 is becoming impossible to ignore. From huma
 
 📺 MindSeeded
 
-👁️ 75K • 👍 5K • 💬 793 • ⏱️ 14:10 • 23h ago
+👁️ 75K • 👍 5K • 💬 793 • ⏱️ 14:10 • 1d ago
 
 ---
 
@@ -649,7 +645,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 47.8k • 🔱 6.3k • 55m ago
+⭐ 47.8k • 🔱 6.3k • 1h ago
 
 ---
 
@@ -659,7 +655,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 37.7k • 🔱 1.8k • 11h ago
+⭐ 37.7k • 🔱 1.8k • 12h ago
 
 ---
 
@@ -679,7 +675,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 29.8k • 🔱 3.3k • 5h ago
+⭐ 29.8k • 🔱 3.3k • 6h ago
 
 ---
 
@@ -689,7 +685,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 8.2k • 🔱 523 • 6h ago
+⭐ 8.2k • 🔱 523 • 7h ago
 
 ---
 
@@ -709,7 +705,7 @@ AI Agent 源码深度研究报告
 
 `Python`
 
-⭐ 5.2k • 🔱 874 • 3h ago
+⭐ 5.2k • 🔱 874 • 4h ago
 
 ---
 

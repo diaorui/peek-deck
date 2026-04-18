@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-04-18T21:37:16.312467+00:00"
+          "dateModified": "2026-04-18T22:36:08.431579+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -777,7 +777,7 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1sp5ec4/raspberry_pi_for_pesticide_robot/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1spaj48/how_to_deal_with_the_minus_sign_in_servo/', '_blank')">
                     <div class="post-thumbnail">
                         
                     </div>
@@ -785,13 +785,13 @@
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1sp5ec4/raspberry_pi_for_pesticide_robot/" target="_blank" onclick="event.stopPropagation();">Raspberry Pi for pesticide robot?</a>
+                            <a href="https://www.reddit.com/r/robotics/comments/1spaj48/how_to_deal_with_the_minus_sign_in_servo/" target="_blank" onclick="event.stopPropagation();">How to deal with the minus ➖ sign in servo</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            So I'm making a robot to spray pesticide on home lawns. I want it automated so I can just supervise. I wanna make the robot know the borders of the robot by using UWB tags and stuff. I have a 5 gallon tank and I have a 2nd gen prototype ready. I wanna use a Raspberry Pi and so which one should I use?
+                            Hi im doing a 2 dof robotic arm with base and sometimes after the calculations the code gives me -32 or any minus number and the servo dont understand minus so what i should do this is my code #include <SoftwareSerial.h> #include <math.h> #include <VarSpeedServo.h> VarSpeedServo myServo1; VarSpeedServo myServo2; VarSpeedServo myServo3; //Servo servo1; // Base //Servo servo2; // Shoulder (Joint 1) //Servo servo3; // Elbow (Joint 2) #define servo1pin 9 #define servo2pin 5 #define servo3pin 6 SoftwareSerial BT(2, 4); float L1 = 10.0; float L2 = 8.0; float Y0 = 12.8; void setup() { myServo1.attach(servo1pin); myServo2.attach(servo2pin); myServo3.attach(servo3pin); myServo1.write(90 , 40 , true); myServo2.write(90 , 40 , true); myServo3.write(90 , 40 , true); BT.begin(9600); Serial.begin(9600); Serial.println("Robot Arm Ready. Send: x,y,z"); } void loop() { if (Serial.available() > 0) { String data = Serial.readStringUntil('\n'); int frstCommaId = data.indexOf(','); int scndCommaId = data.indexOf(',', frstCommaId + 1); if (frstCommaId >= 0 && scndCommaId >= 0) { float x = data.substring(0, frstCommaId).toFloat(); float y = data.substring(frstCommaId + 1, scndCommaId).toFloat(); float z = data.substring(scndCommaId + 1).toFloat(); Serial.print("Target -> X: "); Serial.print(x); Serial.print(" Y: "); Serial.print(y); Serial.print(" Z: "); Serial.println(z); float adjustedY = y - Y0; float r = sqrt(x * x + z * z); float distSq = r * r + adjustedY * adjustedY; float dist = sqrt(distSq); if (dist <= (L1 + L2) && dist >= abs(L1 - L2)) { float Bangle = atan2(z, x); // استخدام معلمتين (z, x) float realB = Bangle * (180.0 / PI); float cosAngle2 = (distSq - (L1 * L1) - (L2 * L2)) / (2.0 * L1 * L2); float angle2 = acos(cosAngle2); float real2 = angle2 * (180.0 / PI); float alpha = atan2(adjustedY, r); float beta = atan2((L2 * sin(angle2)), (L1 + L2 * cos(angle2))); float angle1 = alpha + beta; float real1 = angle1 * (180.0 / PI); float valueB = realB+90; float value1 = real1+90 ; float value2 = 90-real2 ; valueB = constrain(valueB, 0, 180); value1 = constrain(value1, 0, 180); value2 = constrain(value2, 0, 180); Serial.print("Output -> Base: "); Serial.print(valueB); Serial.print(" ANGLE1: "); Serial.print(value1); Serial.print(" ANGLE2: "); Serial.println(value2); myServo1.write(valueB , 20 , true); myServo2.write(value1 , 20 , true); myServo3.write(value2 ,20 , true); } else { Serial.println("Error: Target out of reach!"); } } else { Serial.println("Invalid Format! Use: x,y,z"); } } }
                         </div>
                         
 
@@ -800,7 +800,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1776536922.0"></span>
+                                    <span data-timestamp="1776549027.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -836,6 +836,39 @@
                                 
                                 <div class="post-meta-item">
                                     <span data-timestamp="1776522898.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1sp5ec4/raspberry_pi_for_pesticide_robot/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1sp5ec4/raspberry_pi_for_pesticide_robot/" target="_blank" onclick="event.stopPropagation();">Raspberry Pi for pesticide robot?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            So I'm making a robot to spray pesticide on home lawns. I want it automated so I can just supervise. I wanna make the robot know the borders of the robot by using UWB tags and stuff. I have a 5 gallon tank and I have a 2nd gen prototype ready. I wanna use a Raspberry Pi and so which one should I use?
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1776536922.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -907,41 +940,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1snwg6f/physical_intelligence_unveiled_π07_their_latest/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/NGp1am5oOTcycXZnMZo4TBHgIlZ4p71Xt9fC05vPV1pOFPdDT_xoL6XxIwis.png?width=640&crop=smart&auto=webp&s=270da4437c9ce1c24b0c7b6ab59b1c3bf8145e96" alt="Physical Intelligence unveiled π0.7 their latest model that can direct robots to perform tasks they were never explicitly trained on." onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1snwg6f/physical_intelligence_unveiled_π07_their_latest/" target="_blank" onclick="event.stopPropagation();">Physical Intelligence unveiled π0.7 their latest model that can direct robots to perform tasks they were never explicitly trained on.</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            From Physical Intelligence on 𝕏 (thread): https://x.com/physical_int/status/2044841263254638862 Blog post with multiple videos/demos: https://www.pi.website/blog/pi07 TechCrunch: Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught: https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1776419694.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -965,7 +963,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-04-18T20:48:50.169560+00:00">Updated 2026-04-18T20:48:50.169560+00:00</small>
+        <small data-timestamp="2026-04-18T22:35:53.973515+00:00">Updated 2026-04-18T22:35:53.973515+00:00</small>
     </div>
 </div>
 
@@ -1274,47 +1272,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.washingtonpost.com/technology/interactive/2026/robot-chores-video-data/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/B6EYG7SV5RFVTLL62T7IZ256YE.jpg&w=1200');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.washingtonpost.com/technology/interactive/2026/robot-chores-video-data/" target="_blank" onclick="event.stopPropagation();">See why tech companies are paying people to do chores</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Tech firms aim to trigger a robot revolution with video of humans doing housework. Gig workers are paid up to $25 an hour to film themselves doing various tasks.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.washingtonpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Washington Post" class="news-favicon">
-                                    <a href="https://www.washingtonpost.com" target="_blank" onclick="event.stopPropagation();">The Washington Post</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1776441600.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.reuters.com/world/asia-pacific/china-humanoid-robot-half-marathon-showcase-technical-leaps-2026-04-18/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
@@ -1434,43 +1391,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.wwlp.com/news/local-news/hampden-county/over-100-teams-compete-for-new-england-robotics-title-in-west-springfield/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.wwlp.com/news/local-news/hampden-county/over-100-teams-compete-for-new-england-robotics-title-in-west-springfield/" target="_blank" onclick="event.stopPropagation();">Over 100 teams compete for New England Robotics title in West Springfield</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wwlp.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="WWLP" class="news-favicon">
-                                    <a href="https://www.wwlp.com" target="_blank" onclick="event.stopPropagation();">WWLP</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1776479857.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.technologyreview.com/2026/04/17/1135416/how-robots-learn-brief-contemporary-history/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://wp.technologyreview.com/wp-content/uploads/2026/04/robot.jpg?resize=1200,600');"></div>
@@ -1512,14 +1432,96 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.therobotreport.com/skild-acquires-fetch-robotics-assets-from-zebra-automation/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.witn.com/2026/04/17/ecu-health-doctor-first-state-use-robotics-during-colorectal-procedure/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://gray-witn-prod.gtv-cdn.com/resizer/v2/SFIAIFW5WNFFLDIM6QEUNWJMSQ.png?auth=79adfdbb1da71025a4ead3cad7bbb397e605a974c41e114d160b7cebe1397605&width=1200&height=600&smart=true');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.witn.com/2026/04/17/ecu-health-doctor-first-state-use-robotics-during-colorectal-procedure/" target="_blank" onclick="event.stopPropagation();">ECU Health doctor first in state to use robotics during colorectal procedure</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Dr. Warqaa Akram with ECU Health Cancer Care used the da Vinci Single Port robotic system during two single-port surgeries on March 16.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.witn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="WITN" class="news-favicon">
+                                    <a href="https://www.witn.com" target="_blank" onclick="event.stopPropagation();">WITN</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1776451080.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.washingtonpost.com/technology/interactive/2026/robot-chores-video-data/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/B6EYG7SV5RFVTLL62T7IZ256YE.jpg&w=1200');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.washingtonpost.com/technology/interactive/2026/robot-chores-video-data/" target="_blank" onclick="event.stopPropagation();">See why tech companies are paying people to do chores</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Tech firms aim to trigger a robot revolution with video of humans doing housework. Gig workers are paid up to $25 an hour to film themselves doing various tasks.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.washingtonpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Washington Post" class="news-favicon">
+                                    <a href="https://www.washingtonpost.com" target="_blank" onclick="event.stopPropagation();">The Washington Post</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1776441600.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.wwlp.com/news/local-news/hampden-county/over-100-teams-compete-for-new-england-robotics-title-in-west-springfield/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.therobotreport.com/skild-acquires-fetch-robotics-assets-from-zebra-automation/" target="_blank" onclick="event.stopPropagation();">Skild acquires Fetch Robotics assets from Zebra</a>
+                            <a href="https://www.wwlp.com/news/local-news/hampden-county/over-100-teams-compete-for-new-england-robotics-title-in-west-springfield/" target="_blank" onclick="event.stopPropagation();">Over 100 teams compete for New England Robotics title in West Springfield</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1531,9 +1533,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.therobotreport.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Robot Report" class="news-favicon">
-                                    <a href="https://www.therobotreport.com" target="_blank" onclick="event.stopPropagation();">The Robot Report</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wwlp.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="WWLP" class="news-favicon">
+                                    <a href="https://www.wwlp.com" target="_blank" onclick="event.stopPropagation();">WWLP</a>
                                     
                                 </div>
                                 
@@ -1541,7 +1543,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1776362586.0"></span>
+                                    <span data-timestamp="1776479857.0"></span>
                                 </div>
                                 
                             </div>
@@ -1569,7 +1571,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-04-18T20:49:06.965095+00:00">Updated 2026-04-18T20:49:06.965095+00:00</small>
+        <small data-timestamp="2026-04-18T22:36:06.717169+00:00">Updated 2026-04-18T22:36:06.717169+00:00</small>
     </div>
 </div>
 
