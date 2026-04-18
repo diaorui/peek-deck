@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-18T20:49:08.241378+00:00'
+updated: '2026-04-18T21:37:16.721442+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 18, 2026 at 20:49 UTC  
+**Last Updated:** April 18, 2026 at 21:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -154,7 +154,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 In an interview with CoinDesk, the Ethereum co-founder spoke also about Ethereum’s evolution through MetaMask, stablecoins and tokenization, while downplaying quantum computing as a long-term, manageable issue.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -162,7 +162,7 @@ CoinDesk • 1h ago
 
 Crypto investors have watched Ethereum (CRYPTO:ETH) trade in a narrow range near $2,362 while Bitcoin hovers around $76,000 and institutional money quietly builds positions in digital assets. Adoption metrics keep climbing — stablecoins on Ethereum now handle trillions in annual volume, and layer-2 networks process thousands of transactions per second. Yet price action feels stuck. ... Why BitMine’s Tom Lee Sees Ethereum at $62,500 in 2030 — and What the Numbers Actually Show
 
-24/7 Wall St. • 8h ago
+24/7 Wall St. • 9h ago
 
 ---
 
@@ -170,7 +170,7 @@ Crypto investors have watched Ethereum (CRYPTO:ETH) trade in a narrow range near
 
 This blockchain is a lot more formidable than in the past.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -178,7 +178,7 @@ The Motley Fool • 1h ago
 
 A single victim lost $280M+ across DeFi protocols on Ethereum and Arbitrum in a targeted wallet compromise flagged by ZachXBT.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -202,7 +202,7 @@ The Block • 2d ago
 
 In the last bull run, when the Bitcoin price surged and crossed $100,000, the Ethereum price was expected to follow the same trajectory as it had in the past. But that was not the case, and the second-largest cryptocurrency by market cap was barely able to cross its previous all-time high price, bu…
 
-TradingView — Track All Markets • 10h ago
+TradingView — Track All Markets • 11h ago
 
 ---
 
@@ -224,7 +224,7 @@ Decrypt • 2d ago
 
 Bitmine Immersion’s ETH staking drives 97%+ gross margins and surging revenue, but dilution and negative cash flow raise risks. Read why BMNR stock is a buy.
 
-Seeking Alpha • 7h ago
+Seeking Alpha • 8h ago
 
 ---
 
@@ -238,7 +238,7 @@ The Ethereum Economic Zone (EEZ) is a framework co-funded by the Ethereum Founda
 
 📺 Paul Barron Network
 
-👁️ 6K • 👍 502 • 💬 23 • ⏱️ 19:55 • 4h ago
+👁️ 10K • 👍 669 • 💬 33 • ⏱️ 19:55 • 5h ago
 
 ---
 
@@ -248,7 +248,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 768 • 👍 81 • 💬 2 • ⏱️ 20:54 • 4h ago
+👁️ 1K • 👍 117 • 💬 6 • ⏱️ 20:54 • 5h ago
 
 ---
 
@@ -258,17 +258,7 @@ BITCOIN WARNING: The Next TRAP Just Started!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 320 • 👍 39 • 💬 8 • ⏱️ 19:52 • 1h ago
-
----
-
-**[WILL ETHEREUM DUMP NOW?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=A7nVwLwBVNs)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 165 • 👍 12 • ⏱️ 5:31 • 11h ago
+👁️ 2K • 👍 188 • 💬 27 • ⏱️ 19:52 • 2h ago
 
 ---
 
@@ -278,17 +268,7 @@ Michael Saylor's Ethereum view has changed. Bitcoin is digital capital. Ethereum
 
 📺 Bankless
 
-👁️ 12K • 👍 240 • 💬 45 • ⏱️ 1:17 • 2d ago
-
----
-
-**[BITCOIN PRICE SQUEEZE: Everyone is WRONG (important)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=QY0Yi3_UQNM)**
-
-BITCOIN PRICE SQUEEZE: Everyone is WRONG (important)!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
-
-📺 Crypto World
-
-👁️ 7K • 👍 330 • 💬 71 • ⏱️ 25:40 • 16h ago
+👁️ 12K • 👍 248 • 💬 45 • ⏱️ 1:17 • 2d ago
 
 ---
 
@@ -298,7 +278,37 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 5K • 👍 166 • 💬 21 • ⏱️ 8:23 • 2d ago
+👁️ 5K • 👍 167 • 💬 21 • ⏱️ 8:23 • 2d ago
+
+---
+
+**[WILL ETHEREUM DUMP NOW?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=A7nVwLwBVNs)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 212 • 👍 13 • ⏱️ 5:31 • 12h ago
+
+---
+
+**[Bitcoin Warning: Why BTC Hasn&#39;t Bottomed — Plus ETH, SOL, XRP &amp; Altcoin Targets](https://www.youtube.com/watch?v=qSxd31mu0UQ)**
+
+Gareth Soloway, Chief Market Strategist at Verified Investing, breaks down the latest crypto price action across Bitcoin, Ethereum, ...
+
+📺 Verified Pro Traders
+
+👁️ 17K • 👍 1K • 💬 321 • ⏱️ 8:13 • 1d ago
+
+---
+
+**[Everything is Surprising ? Latest Crypto Market News Today &amp; BTC - ETH Analysis](https://www.youtube.com/watch?v=yIATT4AGalo)**
+
+Everything is Surprising ? Latest Crypto Market News Today & BTC - ETH Analysis Welcome to Al Makkah Tech & Business Hub!
+
+📺 AL MAKKAH TECH & BUSINESS HUB
+
+👁️ 695 • 👍 135 • 💬 14 • ⏱️ 13:25 • 2h ago
 
 ---
 
@@ -312,23 +322,13 @@ Ethereum is flashing a fractal that mirrors the November 2024 altcoin breakout, 
 
 ---
 
-**[AI Agents, Tokenization, and Ethereum’s Next Wave | Raoul Pal the Journey Man](https://www.youtube.com/watch?v=855YrRfkyIc)**
+**[This Bitcoin &amp; Ethereum Move Will SHOCK The Market](https://www.youtube.com/watch?v=t8fLZXrAxf0)**
 
-Raoul welcomes Vivek Raman, Co-Founder and CEO of Etherealize, and Danny Ryan, Co-Founder and President at Etherealize, ...
+In this video, we're diving deep into the implications of a CIA operation on blockchain and Bitcoin investments, questioning the ...
 
-📺 Raoul Pal The Journey Man
+📺 TMG Trades
 
-👁️ 9K • 👍 354 • 💬 23 • ⏱️ 1:11:56 • 2d ago
-
----
-
-**[What Is Ethereum? The Complete Story Every Investor Must Know](https://www.youtube.com/watch?v=MVo5Gp9pcjw)**
-
-What if the world's second-largest cryptocurrency was born out of rejection, childhood trauma, and a lunch meeting that changed ...
-
-📺 Delta Exchange
-
-👁️ 908 • 👍 77 • 💬 1 • ⏱️ 12:29 • 8h ago
+👁️ 926 • 👍 78 • 💬 29 • ⏱️ 12:42 • 16h ago
 
 ---
 

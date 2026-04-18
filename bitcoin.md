@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-18T20:49:08.236174+00:00'
+updated: '2026-04-18T21:37:16.715509+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 18, 2026 at 20:49 UTC  
+**Last Updated:** April 18, 2026 at 21:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 I was greedy in 2022 during the crash and wanted to wait for 12k to buy. 12k never came. After BTC teleported from 15k to 30k, I wanted a deep dip to 20k to buy. 20k never came. Then I watched BTC teleport from 25k to 70k without a single down month. Zero dips given. Then the 50k dip came but got bought up by the market instantly, the window to buy was extremely shortlived and I couldn't get in. Then BTC proceeded to teleport from 50k to 110k in just a few weeks and I basically missed the whole cycle. I have a feeling the same people waiting for 40k-50k now will go through what I went through and watch as BTC teleports to 500k (or whatever the next top is) without a single major dip.
 
-5h ago
+6h ago
 
 ---
 
@@ -89,7 +89,7 @@ I was greedy in 2022 during the crash and wanted to wait for 12k to buy. 12k nev
 
 I have a group of friends that watched me make a ton of money during the 2016-2017 crypto market and asked me to tell them the next time I believed was a good time to buy (surprise, it’s almost always a good time to buy) so whenever it became a bear market, I would shoot the group chat a message and let them know it’s a good time to buy. I would get mocking responses like “Oh yeah I bet it’s a good time to buy, it’s down 10%”. They would even message me the next day when it’s down 11% and say things like “ooh it’s even lower now, I guess today’s a good day to buy too” And then the bull market comes and my group chat is peppered with angry messages about how they missed the bull run and how I didn’t tell them it’s coming. Messages like “you gotta tell me the next time it’s good to buy!” I quickly learnt that there are just some things people can’t be taught, they have to learn it themselves. Moral of the story, don’t tell people you’re into crypto and don’t tell people you made gains, regardless of who they are, in the end it’s just a headache for you.
 
-3h ago
+4h ago
 
 ---
 
@@ -103,7 +103,7 @@ I have a group of friends that watched me make a ton of money during the 2016-20
 
 Central bank greenlights regulated crypto access while keeping strict curbs on balance-sheet exposure
 
-🔗 [coindesk.com](https://www.coindesk.com/policy/2026/04/15/pakistan-lifts-seven-year-ban-allowing-banks-to-service-virtual-asset-providers) • 9h ago
+🔗 [coindesk.com](https://www.coindesk.com/policy/2026/04/15/pakistan-lifts-seven-year-ban-allowing-banks-to-service-virtual-asset-providers) • 10h ago
 
 ---
 
@@ -111,13 +111,13 @@ Central bank greenlights regulated crypto access while keeping strict curbs on b
 
 Genuinely so happy to be done, I’ve reached my goal amount of btc to feel comfortable. I won’t lie, I make minimum wage for LA standard and ima stop buying and let it ride. Could hypothetically keep buying more but I truly have the next goal of getting 10k in fiat in my HYSA before touching any market. Sold all my stock to get to my goal and don’t regret it. Letting it ride and won’t open my wallets till I reach my saving goal. Thank you for all your help and advice, never been prouder.
 
-8h ago
+9h ago
 
 ---
 
 **[Do the maths!!](https://www.reddit.com/r/Bitcoin/comments/1sosymz/do_the_maths/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -125,7 +125,7 @@ Genuinely so happy to be done, I’ve reached my goal amount of btc to feel comf
 
 I'm so long.
 
-21h ago
+22h ago
 
 ---
 
@@ -133,7 +133,7 @@ I'm so long.
 
 Been out of the game for a few years. Getting back in and privacy still matters to me not hiding anything, just don't like handing over personal data. Are there any reliable non-KYC exchanges that work well ? Just looking for something simple to get started again. Thanks.
 
-50m ago
+1h ago
 
 ---
 
@@ -149,7 +149,7 @@ Trying to understand how people approach Bitcoin long term. Do you keep adding o
 
 Stupid narratives
 
-16h ago
+17h ago
 
 ---
 
@@ -169,7 +169,7 @@ Bitcoin Magazine • 1d ago
 
 Part one explained the physics of quantum computing. This piece explains the target — how bitcoin's encryption works, why a quantum algorithm breaks it, and what Google's paper changed about the timeline.
 
-CoinDesk • 16h ago
+CoinDesk • 17h ago
 
 ---
 
@@ -183,7 +183,7 @@ dlnews.com • 2d ago
 
 **[‘Buy Bitcoin’—Elon Musk’s ‘Massive’ U.S. Dollar Warning Fuels Wild Crypto Price Predictions](https://www.forbes.com/sites/digital-assets/2026/04/18/buy-bitcoin-elon-musks-massive-us-dollar-warning-fuels-wild-crypto-price-predictions/)**
 
-Forbes • 9h ago
+Forbes • 10h ago
 
 ---
 
@@ -191,7 +191,7 @@ Forbes • 9h ago
 
 Bittensor may be outperforming Bitcoin in 2026, but how much longer can it last?
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -199,7 +199,7 @@ The Motley Fool • 1h ago
 
 In April 2026, CleanSpark reported unaudited March production of 658 Bitcoin, with peak single-day output of 23.01 and an average of 21.24 per day. CleanSpark’s CFO, Gary Vecchiarelli, framed Bitcoin’s recent trading range as a normal consolidation phase supported by institutional participation and ETF infrastructure, reinforcing the company’s positioning within the mining ecosystem. We’ll examine how Vecchiarelli’s comments on Bitcoin’s consolidation phase interact with CleanSpark’s...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -207,7 +207,7 @@ Yahoo Finance • 1h ago
 
 Alcoa is in advanced negotiations to sell its dormant Massena East smelter in upstate New York to Bitcoin mining firm NYDIG.
 
-CoinDesk • 24m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -321,7 +321,17 @@ Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=Al
 
 📺 Altcoin Daily
 
-👁️ 41K • 👍 2K • 💬 212 • ⏱️ 8:39 • 21h ago
+👁️ 43K • 👍 2K • 💬 230 • ⏱️ 8:39 • 22h ago
+
+---
+
+**[Did Michael Saylor &amp; Strategy Just TRIGGER a Bitcoin STAMPEDE?](https://www.youtube.com/watch?v=DD1Y-Uhj4Og)**
+
+Bitcoin just hit $78K and the signals are impossible to ignore. Institutions are deploying billions, Wall Street is launching ETFs, and ...
+
+📺 Simply Bitcoin
+
+👁️ 7K • 👍 669 • 💬 84 • ⏱️ 12:49 • 5h ago
 
 ---
 
@@ -331,7 +341,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 25K • 👍 1K • 💬 16 • ⏱️ 57:41 • 7h ago
+👁️ 32K • 👍 2K • 💬 16 • ⏱️ 57:41 • 8h ago
 
 ---
 
@@ -341,37 +351,7 @@ A former Treasury Secretary warns the next crisis could be worse than 2008. Bond
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 2K • 💬 100 • ⏱️ 16:22 • 22h ago
-
----
-
-**[Clarity Rally Begins?🚀DEALS Reached!📈Crypto Market Update](https://www.youtube.com/watch?v=xM_aKT_cN14)**
-
-According to a new report from JPMorgan Chase, the much-anticipated CLARITY Act is nearing a significant breakthrough as ...
-
-📺 Paul Barron Network
-
-👁️ 103K • 👍 5K • 💬 283 • ⏱️ 13:57 • 1d ago
-
----
-
-**[Bitcoin SURGES to 75k! Is RISK ON Regime Back](https://www.youtube.com/watch?v=hc7TNDccwcs)**
-
-Bitcoin is back at $75K as risk appetite returns—but the bigger story is unfolding beneath the surface. In this video, Adam ...
-
-📺 Swan Bitcoin
-
-👁️ 11K • 👍 610 • 💬 57 • ⏱️ 9:53 • 1d ago
-
----
-
-**[BITCOIN MUST BREAK THIS LINE! BULL MARKET IF IT DOES! Bitcoin Technical Analysis 2026](https://www.youtube.com/watch?v=S-JOwVoyWyE)**
-
-Are you ready? CRYPTO RETIREMENT ACCOUNT HERE Sign up for iTrustCapital and get a $100 funding bonus after ...
-
-📺 Crypto Jebb
-
-👁️ 4K • 👍 255 • 💬 30 • ⏱️ 8:10 • 1d ago
+👁️ 24K • 👍 2K • 💬 102 • ⏱️ 16:22 • 23h ago
 
 ---
 
@@ -381,37 +361,57 @@ Sell Your FTX Claim w/ FTX Creditor: https://www.ftxcreditor.com Follow Louis on
 
 📺 Aaron Bennett
 
-👁️ 4K • 👍 244 • 💬 127 • ⏱️ 8:08 • 19h ago
+👁️ 4K • 👍 250 • 💬 146 • ⏱️ 8:08 • 20h ago
 
 ---
 
-**[Bitcoin Reclaims $76,000...Breakout Soon That Starts The Run](https://www.youtube.com/watch?v=aoTlUw-Fy2M)**
+**[Clarity Rally Begins?🚀DEALS Reached!📈Crypto Market Update](https://www.youtube.com/watch?v=xM_aKT_cN14)**
 
-Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FREE Crypto Predictions & Compete Weekly ...
+According to a new report from JPMorgan Chase, the much-anticipated CLARITY Act is nearing a significant breakthrough as ...
 
-📺 CryptosRUs
+📺 Paul Barron Network
 
-👁️ 21K • 👍 1K • 💬 325 • ⏱️ 50:58 • 1d ago
-
----
-
-**[Bitcoin Warning: Why BTC Hasn&#39;t Bottomed — Plus ETH, SOL, XRP &amp; Altcoin Targets](https://www.youtube.com/watch?v=qSxd31mu0UQ)**
-
-Gareth Soloway, Chief Market Strategist at Verified Investing, breaks down the latest crypto price action across Bitcoin, Ethereum, ...
-
-📺 Verified Pro Traders
-
-👁️ 16K • 👍 1K • 💬 305 • ⏱️ 8:13 • 1d ago
+👁️ 105K • 👍 5K • 💬 285 • ⏱️ 13:57 • 1d ago
 
 ---
 
-**[&quot;Chaos Is a Ladder”: Bitwise’s Matt Hougan on Bitcoin’s Path to $1M](https://www.youtube.com/watch?v=v2MuE-dzQiw)**
+**[Bitcoin SURGES to 75k! Is RISK ON Regime Back](https://www.youtube.com/watch?v=hc7TNDccwcs)**
 
-In today's Markets Outlook, Bitwise CIO Matt Hougan joins CoinDesk's Jennifer Sanasie to make the case for $1 million bitcoin, ...
+Bitcoin is back at $75K as risk appetite returns—but the bigger story is unfolding beneath the surface. In this video, Adam ...
 
-📺 CoinDesk
+📺 Swan Bitcoin
 
-👁️ 22K • 👍 484 • 💬 79 • ⏱️ 20:47 • 2d ago
+👁️ 11K • 👍 617 • 💬 57 • ⏱️ 9:53 • 1d ago
+
+---
+
+**[BITCOIN MUST BREAK THIS LINE! BULL MARKET IF IT DOES! Bitcoin Technical Analysis 2026](https://www.youtube.com/watch?v=S-JOwVoyWyE)**
+
+Are you ready? CRYPTO RETIREMENT ACCOUNT HERE Sign up for iTrustCapital and get a $100 funding bonus after ...
+
+📺 Crypto Jebb
+
+👁️ 4K • 👍 260 • 💬 33 • ⏱️ 8:10 • 1d ago
+
+---
+
+**[Bitcoin History Is Repeating 👀](https://www.youtube.com/watch?v=p5IvqgGHkpE)**
+
+This is Unlike ANYTHING Crypto Has Seen Before (i got it wrong) Crypto Analyst Dennis Liu of Crypto Bacon interview ⭐ Follow ...
+
+📺 Altcoin Daily
+
+👁️ 12K • 👍 253 • 💬 15 • ⏱️ 0:59 • 1d ago
+
+---
+
+**[This is What Happens Next for the Clarity Act &amp; Strategic Bitcoin Reserve! | Patrick Witt](https://www.youtube.com/watch?v=myoIC0guwFA)**
+
+Patrick Witt, Executive Director of the President's Council of Advisors for Digital Assets, sat down with us at the Solana Policy ...
+
+📺 Thinking Crypto
+
+👁️ 11K • 👍 556 • 💬 105 • ⏱️ 12:58 • 1d ago
 
 ---
 

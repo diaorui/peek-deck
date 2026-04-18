@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-18T20:49:08.244198+00:00'
+updated: '2026-04-18T21:37:16.724607+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 18, 2026 at 20:49 UTC  
+**Last Updated:** April 18, 2026 at 21:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Remote-controlled snow plow robot I built in high school after a spine surgery. This project got me into engineering :)](https://www.reddit.com/r/robotics/comments/1sol2fp/remotecontrolled_snow_plow_robot_i_built_in_high/)**
 
-18h ago
+19h ago
 
 ---
 
 **[Beluga-Robot Interaction](https://www.reddit.com/r/robotics/comments/1sou3s2/belugarobot_interaction/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -48,7 +48,7 @@ Robotics research and industry news
 
 tbh ive been messing around with llms for a bit but got super bored of just typing into web interfaces. wanted something that actually sat on my desk and felt kinda 'alive' instead of just another thin wrapper. so basically i started building this prototype. calling it kitto for now. its a cyberpunk desktop companion or digital pet thing. the idea was to take a standard ai agent but give it an actual physical presence. hardware-wise its running on an esp32s3+esp32p4. eventually im going to port the custom OS to a linux board, but getting it running on a microcontroller has definately been a fun constraint. really didnt want the screen to look like a cheap toy just looping a pre-rendered gif. all the animations are driven by code. im currently pulling raw audio buffers and mapping amplitude/freq peaks to specific sprite frames for the mouth. so when it talks back to you to read the weather, set an alarm, or send an email (like in the video), it does real-time lip-sync and expression syncing based on tone. also threw in some classic digital pet mechanics so you can feed it or whatever. still a massive work in progress. getting the lip-sync to not look completely janky took way too much trial and error. latency is my biggest headache right now. pinging the api, getting the TTS audio back, and triggering the animation states fast enough to not break the illusion is brutal on this hardware.
 
-5h ago
+6h ago
 
 ---
 
@@ -56,7 +56,7 @@ tbh ive been messing around with llms for a bit but got super bored of just typi
 
 NVIDIA Hugging Face blog post: https://huggingface.co/blog/nvidia/gr00t-n1-7 Models: https://huggingface.co/collections/nvidia/gr00t-n17 GitHub: https://github.com/NVIDIA/Isaac-GR00T From NVIDIA Robotics on 𝕏: https://x.com/NVIDIARobotics/status/2045172389244240209
 
-10h ago
+11h ago
 
 ---
 
@@ -70,7 +70,7 @@ NVIDIA Hugging Face blog post: https://huggingface.co/blog/nvidia/gr00t-n1-7 Mod
 
 So I'm making a robot to spray pesticide on home lawns. I want it automated so I can just supervise. I wanna make the robot know the borders of the robot by using UWB tags and stuff. I have a 5 gallon tank and I have a 2nd gen prototype ready. I wanna use a Raspberry Pi and so which one should I use?
 
-2h ago
+3h ago
 
 ---
 
@@ -78,7 +78,7 @@ So I'm making a robot to spray pesticide on home lawns. I want it automated so I
 
 Hi everyone, Long time lurker here. I see many people learning about robotics through hobby projects (myself included) and I wanted to start sharing things that I've learned that people might find interesting or useful for their projects. This post is about servo calibration. When you buy cheap servos, you might not get the accuracy you need because there are variations between each unit. To get around this, you just need to rotate the servo to known positions and record the PWM value that takes the servo to those positions. This mapping yields a relationship between PWM and servo angle for that particular unit. https://preview.redd.it/26bqtn03qyvg1.png?width=614&format=png&auto=webp&s=3caf76f356cf4b993cdb0c9bbcd9835c720db032 Check out my article on Medium: https://medium.com/@ianqyhong/servo-calibration-4ea1d43c46a6 Let me know if you found this interesting, useful, completely useless, or any other feedback!
 
-6h ago
+7h ago
 
 ---
 
@@ -90,7 +90,7 @@ Hi everyone, Long time lurker here. I see many people learning about robotics th
 
 **[Solving Optimal Control Problems via Indirect Single Shooting](https://www.reddit.com/r/robotics/comments/1sos0iv/solving_optimal_control_problems_via_indirect/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -140,7 +140,7 @@ The Washington Post • 1d ago
 
 **[China humanoid robot half-marathon to showcase technical leaps](https://www.reuters.com/world/asia-pacific/china-humanoid-robot-half-marathon-showcase-technical-leaps-2026-04-18/)**
 
-Reuters • 19h ago
+Reuters • 20h ago
 
 ---
 
@@ -156,7 +156,7 @@ Earth.com • 1d ago
 
 Humanoid robots race Beijing’s half-marathon as Alibaba, Honor and Unitree showcase embodied AI, autonomy and battery tech—see implications and related ETFs.
 
-Seeking Alpha • 9h ago
+Seeking Alpha • 10h ago
 
 ---
 
@@ -184,13 +184,23 @@ The Robot Report • 2d ago
 
 ## YouTube Videos: "robotics"
 
-**[The GPT Moment for Robotics Is Here](https://www.youtube.com/watch?v=4EsUaur0nsQ)**
+**[Ukrainian president says robots captured territory from Russian soldiers](https://www.youtube.com/watch?v=XiGwWwcnT7M)**
 
-Physical Intelligence is building a foundation model that can control any robot to do any task — what the team describes as the ...
+President Zelenskyy says that for the first time ever, the Ukrainian army was able to use only robots to retake territory from Russian ...
 
-📺 Y Combinator
+📺 NBC News
 
-👁️ 35K • 👍 840 • 💬 48 • ⏱️ 49:27 • 2d ago
+👁️ 563K • 👍 8K • 💬 2K • ⏱️ 3:12 • 2d ago
+
+---
+
+**[China Just Built an Autonomous AI Robot Army: Killer Robots With Guns and Rockets](https://www.youtube.com/watch?v=_Vw_6QrqS8c)**
+
+China just revealed an autonomous robot war pack built from dog bots, drones, laser weapons, and unmanned boats, Europe is ...
+
+📺 AI Revolution
+
+👁️ 63K • 👍 1K • 💬 121 • ⏱️ 16:14 • 1d ago
 
 ---
 
@@ -204,13 +214,13 @@ Go to https://www.artwine.com to get your limited bottle of Ukrainian sparkling 
 
 ---
 
-**[China Just Built an Autonomous AI Robot Army: Killer Robots With Guns and Rockets](https://www.youtube.com/watch?v=_Vw_6QrqS8c)**
+**[The GPT Moment for Robotics Is Here](https://www.youtube.com/watch?v=4EsUaur0nsQ)**
 
-China just revealed an autonomous robot war pack built from dog bots, drones, laser weapons, and unmanned boats, Europe is ...
+Physical Intelligence is building a foundation model that can control any robot to do any task — what the team describes as the ...
 
-📺 AI Revolution
+📺 Y Combinator
 
-👁️ 61K • 👍 1K • 💬 121 • ⏱️ 16:14 • 1d ago
+👁️ 36K • 👍 851 • 💬 49 • ⏱️ 49:27 • 2d ago
 
 ---
 
@@ -220,7 +230,7 @@ Boston Dynamics just did what most people thought would take years longer. Atlas
 
 📺 AI Revolution
 
-👁️ 129K • 👍 3K • 💬 194 • ⏱️ 21:49 • 4d ago
+👁️ 130K • 👍 3K • 💬 195 • ⏱️ 21:49 • 4d ago
 
 ---
 
@@ -234,16 +244,6 @@ A humanoid robot just sprinted at ten meters per second on an open track — no 
 
 ---
 
-**[AI Robots Are Glitching BAD… We Might Have A Problem! (2026)](https://www.youtube.com/watch?v=6p1Me03BPhM)**
-
-AI robots failing and glitching 2026 is becoming impossible to ignore. From humanoid robots malfunctioning to AI systems ...
-
-📺 MindSeeded
-
-👁️ 71K • 👍 5K • 💬 747 • ⏱️ 14:10 • 22h ago
-
----
-
 **[Chinese humanoid robots prepare for second-ever half marathon in Beijing](https://www.youtube.com/watch?v=aKYxLWqw8ZQ)**
 
 Chinese humanoid robots train to go head-to-head with human runners in the second-ever Beijing half marathon. NBC News' ...
@@ -254,33 +254,33 @@ Chinese humanoid robots train to go head-to-head with human runners in the secon
 
 ---
 
-**[New AI Robot Is Starting to Feel Human (Artificial Humans Are Here)](https://www.youtube.com/watch?v=HOgCL8lKuDc)**
-
-Try Seedance 2.0 with Claude on Higgsfield: https://higgsfield.ai/s/seedance-2-0-airevolutionx-LDckkB Realbotix just launched ...
-
-📺 AI Revolution
-
-👁️ 104K • 👍 2K • 💬 184 • ⏱️ 14:57 • 6d ago
-
----
-
 **[Elon Musk’s New Tesla Optimus Robot Looks Shockingly Human](https://www.youtube.com/watch?v=MbqMwLHx8-4)**
 
 A new wave of attention is building around Elon Musk's latest version of the Tesla Optimus robot, which is being described as ...
 
 📺 Carros Show
 
-👁️ 23K • 👍 420 • 💬 79 • ⏱️ 8:01 • 4d ago
+👁️ 23K • 👍 420 • 💬 79 • ⏱️ 8:01 • 5d ago
 
 ---
 
-**[FIRST Robotics Competition REBUILT 2026 - NE FIRST District Championship - Burns Division Day 2](https://www.youtube.com/watch?v=vt824z7MRE4)**
+**[New AI Robot Is Starting to Feel Human (Artificial Humans Are Here)](https://www.youtube.com/watch?v=HOgCL8lKuDc)**
 
-nefirst.org/nedcmp.
+Try Seedance 2.0 with Claude on Higgsfield: https://higgsfield.ai/s/seedance-2-0-airevolutionx-LDckkB Realbotix just launched ...
 
-📺 New England FIRST
+📺 AI Revolution
 
-👁️ 9K • ⏱️ 11:12:23 • 13h ago
+👁️ 105K • 👍 2K • 💬 185 • ⏱️ 14:57 • 6d ago
+
+---
+
+**[Brand New Haro380 6-Axis Mini Industrial Robot | WLKATA](https://www.youtube.com/watch?v=T5t0leyjU00)**
+
+Introducing the brand new Haro380 6-Axis mini industrial robotic arm. Get a first look at its smooth motion, precise control, and ...
+
+📺 WLKATA ROBOTICS
+
+👁️ 32K • 👍 682 • 💬 19 • ⏱️ 2:11 • 4d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-18T20:49:08.228669+00:00'
+updated: '2026-04-18T21:37:16.707127+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
 - repositories
 - social
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 18, 2026 at 20:49 UTC  
+**Last Updated:** April 18, 2026 at 21:37 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 AI Coding contest day 8 The eighth challenge is a weighted variant of the classic knight's tour. The knight must visit every square of a rectangular board exactly once, but each square carries an integer weight. As it moves, the knight accumulates load, and the cost of each move equals its current load. Charge is assessed upon departure, so the weight of the final square never contributes.
 
-5h ago
+6h ago
 
 ---
 
@@ -49,7 +49,7 @@ AI Coding contest day 8 The eighth challenge is a weighted variant of the classi
 
 I wanted a real local assistant on my phone, not a demo. First tried the usual llama.cpp in Termux — Gemma 4 was 2–3 tok/s and the phone was on fire. Then I switched to Google’s LiteRT setup, got Gemma 4 running smoothly, and wired it into an agent stack running in Termux. Now one Android phone is: running the LLM locally automating its own apps via ADB staying offline if I want Happy to share details + code and hear what else you’d build on top of this. https://preview.redd.it/7vkbrlzfryvg1.jpg?width=3024&format=pjpg&auto=webp&s=25455827ddf9715b4159ce64a18deba812cf0f5f
 
-5h ago
+6h ago
 
 ---
 
@@ -57,7 +57,7 @@ I wanted a real local assistant on my phone, not a demo. First tried the usual l
 
 Most AI companion apps reset between conversations. The character has no continuity outside the chat window. I wanted mine to feel like real people with lives, so I built an "offscreen events" system. Every 8 hours (cooldown), each active companion gets a small batch of events generated based on their persona, scenario, and city/realm. A barista companion might "had a slow Tuesday morning, finally finished that book during the lull." A writer might "submitted the short story I told you about — heard back from the editor today." The companion brings these up naturally in the next chat. Not as a script. Not "Hi! I want to tell you about my day!" — but woven into whatever you're talking about. The hard parts: Keeping events consistent with persona (a shy librarian shouldn't suddenly go skydiving) Avoiding the "I had the most amazing day!" trap that AI loves Making the companion remember the event when relevant, not just dump it on first message Architecturally: events stored in a separate table, recent ones injected into the system prompt with framing like "[YOU did this earlier today, mention it naturally if relevant]". The model picks which one fits the conversational moment. Has anyone else tried this with their AI characters? Curious what other approaches work — particularly for keeping the events from feeling generic.
 
-2h ago
+3h ago
 
 ---
 
@@ -73,7 +73,7 @@ Tried posting this in r/ClaudeAI but it got auto-removed, and I was told to post
 
 This article is discussing another large investment being made by tech firms into AI projects. I’ve noticed that whilst this is happening there are many open source models, seemingly coming from china that appear to keep up for those able to get them up and running. With the costs that western AI providers endure, pushing the prices of using them up significantly, especially for the heaviest users of the services, (and still increasing). Is China, providing open source services for free, a way of significantly undermining the vast sums that the western economy has poured into the industry? The source of the funds invested will at some point need to see some sort of return that justifies their opportunity cost, and as more time passes without a clear route to profit, will this undermine other areas of the economy, further than they currently already are, and cause a significant number of loan defaults and other problems within the financial industry, causing even more issues to spread within the western economies?
 
-🔗 [reuters.com](https://www.reuters.com/business/autos-transportation/companies-pouring-billions-advance-ai-infrastructure-2026-04-09/) • 12m ago
+🔗 [reuters.com](https://www.reuters.com/business/autos-transportation/companies-pouring-billions-advance-ai-infrastructure-2026-04-09/) • 1h ago
 
 ---
 
@@ -81,7 +81,7 @@ This article is discussing another large investment being made by tech firms int
 
 So I will be paying attention to these system messages more now- the last time I got one of these not so long back the 'tone' changed to be a bit more confrontational and nearly every response from AI had that 1-ups-manship quality to it. Every response was like response 1- an initial agreement with a but needs tightening on this or that. From the 2nd option (seen below) that tendency seems to be softened or rephrased. Usually these seem to occur in the midst of a generative burst and i see them as poorly tied distraction and i just choose option1 and move on- this time i will try option 2 and see if the 1-ups-manship model tones down a bit. Can I safely assume others get these options (especially) poorly timed in generative flow? https://preview.redd.it/ootx2nl770wg1.png?width=1396&format=png&auto=webp&s=fa0e6b3d8d261ef762429ef3cbf510c794ebe3de
 
-57m ago
+1h ago
 
 ---
 
@@ -97,7 +97,7 @@ I am sharing this open-source list of cases where the ethics of GenAI use were p
 
 I am a solo developer who has been using all three seriously. Here is what I actually think: GPT-4o — Strengths: Large context window, strong at boilerplate, excellent JSON output. Function calling is rock solid. Weaknesses: Sometimes confidently wrong on obscure APIs. Claude 3.5 Sonnet — Strengths: Best at understanding existing code structure. When I paste a whole module and ask it to refactor, it gets the intent right more often. Better at explaining why it made a change. Weaknesses: Can be overly cautious on edge cases. Gemini 1.5 Pro — Strengths: 1M token context is genuinely useful for large repos. Weaknesses: Weakest at actual code logic. Better as a search layer over a codebase than a code generator. My current setup: Claude for architecture and complex refactors, GPT-4o for rapid prototyping, Gemini for searching large doc sets. For keeping up with new models and tools, I have been using AIMasterTools.com — solid aggregator that tracks new releases without the noise. What is your daily driver?
 
-11m ago
+59m ago
 
 ---
 
@@ -105,7 +105,7 @@ I am a solo developer who has been using all three seriously. Here is what I act
 
 Why 90% of AI implementations fail, and the uncomfortable lessons from the dot-com crash that nobody’s talking about.
 
-🔗 [Medium](https://medium.com/@borlidoadrian/the-ai-integration-paradox-cddf71844834) • 4h ago
+🔗 [Medium](https://medium.com/@borlidoadrian/the-ai-integration-paradox-cddf71844834) • 5h ago
 
 ---
 
@@ -113,7 +113,7 @@ Why 90% of AI implementations fail, and the uncomfortable lessons from the dot-c
 
 Hi folks! I'm Sarah, an audience editor from The Globe and Mail. I wanted to share this an in-depth feature about how banks are incorporating AI into their research – which is helping customers find answers faster. Here's a gift link to the piece, so anyone can read it without a paywall: How the promise of AI is taking hold at Canada’s biggest banks
 
-4h ago
+5h ago
 
 ---
 
@@ -125,7 +125,7 @@ Hi folks! I'm Sarah, an audience editor from The Globe and Mail. I wanted to sha
 
 There's a good and bad way to write effective artificial intelligence prompts for personal finance advice.
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
@@ -133,7 +133,7 @@ CNBC • 6h ago
 
 Groups concerned that AI could evade human control are recruiting content creators to warn the masses about the dangers of smarter machines.
 
-The Washington Post • 25m ago
+The Washington Post • 1h ago
 
 ---
 
@@ -141,13 +141,13 @@ The Washington Post • 25m ago
 
 Mary Akkerman has visited more than 30 college campuses with her children, one now at Stanford and another still in high school. She especially wanted them to get degrees that lead to good jobs – but figuring that out, said the Sioux Falls, South Dakota, parent, was a major challenge, thanks in part to the rapid advance of AI and its effects on the job market.
 
-CNN • 9h ago
+CNN • 10h ago
 
 ---
 
 **[AI and Fitness: Why Some Athletes Are Using Chatbots for Their Workouts](https://www.nytimes.com/2026/04/18/well/move/ai-fitness-coach-chatgpt-claude.html)**
 
-The New York Times • 11h ago
+The New York Times • 12h ago
 
 ---
 
@@ -163,7 +163,7 @@ Yahoo Finance • 9h ago
 
 The discussion is a sign the AI firm's technology may be too critical for even the US government to do without.
 
-BBC • 20h ago
+BBC • 21h ago
 
 ---
 
@@ -171,13 +171,13 @@ BBC • 20h ago
 
 New system has sparked fears it could turbocharge hacking and expose weaknesses faster than they can be fixed
 
-Financial Times • 9h ago
+Financial Times • 10h ago
 
 ---
 
 **[A new era of AI crime has arrived with Anthropic’s Mythos](https://www.marketwatch.com/story/a-new-era-of-ai-crime-has-arrived-with-anthropics-mythos-d5451040)**
 
-MarketWatch • 9h ago
+MarketWatch • 10h ago
 
 ---
 
@@ -185,7 +185,7 @@ MarketWatch • 9h ago
 
 "We launched 2.5 months ago, and right now, we have $300,000 in ARR."
 
-Fortune • 9h ago
+Fortune • 10h ago
 
 ---
 
@@ -235,7 +235,7 @@ We signed a 3 year lease and gave it to an AI
 
 GPU rental prices surged 48% in 60 days. The AI compute shortage will force startups to compete not on speed of iteration, but on access to infrastructure.
 
-⬆️ 186 • 💬 218 • 1d ago • [Tomasz Tunguz](https://tomtunguz.com/ai-compute-crisis-2026/)
+⬆️ 186 • 💬 218 • 2d ago • [Tomasz Tunguz](https://tomtunguz.com/ai-compute-crisis-2026/)
 
 ---
 
@@ -289,57 +289,7 @@ Get your FREE AI Prompt Cheatsheet here: https://go.danmartell.com/4tVJ4fz Are y
 
 📺 Dan Martell
 
-👁️ 193K • 👍 9K • 💬 1K • ⏱️ 14:03 • 2d ago
-
----
-
-**[AI Safety Expert: No One Is Ready for What&#39;s Coming in 2 Years | Roman Yampolskiy](https://www.youtube.com/watch?v=00RHph_eok4)**
-
-This episode is brought to you by Higgsfield — the AI video platform with Cinema Studio 2.5, built for creators who want cinematic ...
-
-📺 Silicon Valley Girl
-
-👁️ 30K • 👍 768 • 💬 140 • ⏱️ 45:43 • 1d ago
-
----
-
-**[The World&#39;s First AI TED Talk](https://www.youtube.com/watch?v=N1X7vMp9DZ4)**
-
-ChatGPT was recently asked what it would say to humans if it could give a TED Talk. It gave a surprisingly thoughtful answer that ...
-
-📺 TED
-
-👁️ 44K • 👍 2K • 💬 668 • ⏱️ 3:28 • 23h ago
-
----
-
-**[A.I. Iranian propaganda videos making fun of Trump, U.S. go viral](https://www.youtube.com/watch?v=LTJYQ0knUsE)**
-
-A series of animated Iranian propaganda videos made in the style of "The LEGO Movie" has gone viral on social media, making ...
-
-📺 MS NOW
-
-👁️ 99K • 👍 2K • 💬 1K • ⏱️ 6:46 • 1d ago
-
----
-
-**[How to Learn AI so Fast, it&#39;s Almost Unfair](https://www.youtube.com/watch?v=bFglE9QddUs)**
-
-In this video, I break down a 4 week system for learning AI by using one tool from each category on real problems instead of ...
-
-📺 James Blue
-
-👁️ 9K • 💬 7 • ⏱️ 10:55 • 9h ago
-
----
-
-**[China Just Built an Autonomous AI Robot Army: Killer Robots With Guns and Rockets](https://www.youtube.com/watch?v=_Vw_6QrqS8c)**
-
-China just revealed an autonomous robot war pack built from dog bots, drones, laser weapons, and unmanned boats, Europe is ...
-
-📺 AI Revolution
-
-👁️ 61K • 👍 1K • 💬 121 • ⏱️ 16:14 • 1d ago
+👁️ 196K • 👍 9K • 💬 1K • ⏱️ 14:03 • 2d ago
 
 ---
 
@@ -349,25 +299,67 @@ Really American host Steve Harness breaks down more HILARIOUS AI Trump parodies 
 
 📺 Really American
 
-👁️ 1.2M • 👍 53K • 💬 3K • ⏱️ 12:33 • 1d ago
+👁️ 1.3M • 👍 53K • 💬 3K • ⏱️ 12:33 • 1d ago
 
 ---
 
-**[The most popular AI tools right now... which one is best?](https://www.youtube.com/watch?v=9yHV5r8lPj4)**
+**[A.I. Iranian propaganda videos making fun of Trump, U.S. go viral](https://www.youtube.com/watch?v=LTJYQ0knUsE)**
 
-📺 Dan Martell
+A series of animated Iranian propaganda videos made in the style of "The LEGO Movie" has gone viral on social media, making ...
 
-👁️ 17K • 👍 729 • 💬 12 • ⏱️ 0:28 • 5h ago
+📺 MS NOW
+
+👁️ 102K • 👍 2K • 💬 1K • ⏱️ 6:46 • 1d ago
 
 ---
 
-**[We Invented TERRIBLE AI Music Genres](https://www.youtube.com/watch?v=0iwj4xh8RV0)**
+**[AI Safety Expert: No One Is Ready for What&#39;s Coming in 2 Years | Roman Yampolskiy](https://www.youtube.com/watch?v=00RHph_eok4)**
 
-Who let these guys cook? Thanks to @Lazer_Chains for being a good chum. Subscribe to our joint channel @LazerDingle!
+This episode is brought to you by Higgsfield — the AI video platform with Cinema Studio 2.5, built for creators who want cinematic ...
 
-📺 Dan Dingle
+📺 Silicon Valley Girl
 
-👁️ 37K • 👍 3K • 💬 385 • ⏱️ 33:36 • 1d ago
+👁️ 32K • 👍 814 • 💬 150 • ⏱️ 45:43 • 1d ago
+
+---
+
+**[The World&#39;s First AI TED Talk](https://www.youtube.com/watch?v=N1X7vMp9DZ4)**
+
+ChatGPT was recently asked what it would say to humans if it could give a TED Talk. It gave a surprisingly thoughtful answer that ...
+
+📺 TED
+
+👁️ 46K • 👍 2K • 💬 689 • ⏱️ 3:28 • 1d ago
+
+---
+
+**[The 2026 AI 50 List: Top Artificial Intelligence Companies](https://www.youtube.com/watch?v=mKEr3NKBYSk)**
+
+Artificial intelligence has become part of our lives, increasingly core to how we work, search for information and express ideas.
+
+📺 Forbes
+
+👁️ 2K • 👍 80 • ⏱️ 5:39 • 6h ago
+
+---
+
+**[Donald Trump Posted This AI Image of Jesus…](https://www.youtube.com/watch?v=-Z4SHvUa5gw)**
+
+discord.gg/nickjones.
+
+📺 Nick Jones
+
+👁️ 17K • 👍 804 • 💬 507 • ⏱️ 8:37 • 1d ago
+
+---
+
+**[AI Robots Are Glitching BAD… We Might Have A Problem! (2026)](https://www.youtube.com/watch?v=6p1Me03BPhM)**
+
+AI robots failing and glitching 2026 is becoming impossible to ignore. From humanoid robots malfunctioning to AI systems ...
+
+📺 MindSeeded
+
+👁️ 75K • 👍 5K • 💬 793 • ⏱️ 14:10 • 23h ago
 
 ---
 
@@ -377,7 +369,17 @@ Here's the AI News you probably missed this week. Build AI apps that actually sc
 
 📺 Matt Wolfe
 
-👁️ 69K • 👍 3K • 💬 136 • ⏱️ 36:44 • 1d ago
+👁️ 72K • 👍 3K • 💬 138 • ⏱️ 36:44 • 1d ago
+
+---
+
+**[LIVE: Sanders, Labor Leaders Call on Congress to Protect Workers from AI](https://www.youtube.com/watch?v=DdJfeSMB99g)**
+
+The same oligarchs who shipped jobs overseas now want to replace tens of millions of American workers with AI. Our message to ...
+
+📺 Senator Bernie Sanders
+
+👁️ 14K • 👍 1K • 💬 408 • ⏱️ 45:01 • 2d ago
 
 ---
 
@@ -393,7 +395,7 @@ MiniMax-M2.7 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 258,064 • ❤️ 950 • 1d ago
+⬇️ 258,064 • ❤️ 952 • 1d ago
 
 ---
 
@@ -405,7 +407,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with a vision encoder, 
 
 `image-text-to-text` `36.0B`
 
-⬇️ 82,000 • ❤️ 820 • 3d ago
+⬇️ 82,000 • ❤️ 826 • 3d ago
 
 ---
 
@@ -417,7 +419,7 @@ HY-Embodied-0.5 is a multilingual vision-language model designed for embodied ag
 
 `image-text-to-text` `3.8B`
 
-⬇️ 1,454 • ❤️ 861 • 4d ago
+⬇️ 1,454 • ❤️ 862 • 4d ago
 
 ---
 
@@ -429,7 +431,7 @@ ERNIE-Image is a 8B parameter text-to-image diffusion model excelling in complex
 
 `text-to-image`
 
-⬇️ 3,116 • ❤️ 449 • 1d ago
+⬇️ 3,116 • ❤️ 450 • 1d ago
 
 ---
 
@@ -441,7 +443,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with vision capabilitie
 
 `image-text-to-text` `34.7B`
 
-⬇️ 442,900 • ❤️ 433 • 2d ago
+⬇️ 442,900 • ❤️ 439 • 2d ago
 
 ---
 
@@ -453,7 +455,7 @@ GLM-5.1 is a next-generation language model optimized for agentic engineering, f
 
 `text-generation` `753.9B`
 
-⬇️ 103,847 • ❤️ 1,395 • 2d ago
+⬇️ 103,847 • ❤️ 1,398 • 2d ago
 
 ---
 
@@ -489,19 +491,19 @@ Gemma 4 31B is an instruction-tuned, multimodal LLM capable of processing text a
 
 `image-text-to-text` `32.7B`
 
-⬇️ 3,778,070 • ❤️ 2,148 • 8d ago
+⬇️ 3,778,070 • ❤️ 2,150 • 8d ago
 
 ---
 
-**[ERNIE-Image-Turbo](https://huggingface.co/baidu/ERNIE-Image-Turbo)**
+**[HY-World-2.0](https://huggingface.co/tencent/HY-World-2.0)**
 
-*BAIDU*
+*Tencent*
 
-ERNIE-Image-Turbo is a distilled text-to-image diffusion model optimized for speed (8 inference steps) and fidelity. It excels at complex instruction following, text rendering, and structured generation for use cases like posters, comics, and multi-panel layouts.
+HY-World 2.0 is a multi-modal framework for generating and reconstructing 3D worlds from text, images, or video. It produces editable 3D assets like meshes and Gaussian Splattings, enabling applications in game development and simulation.
 
-`text-to-image`
+`image-to-3d`
 
-⬇️ 4,119 • ❤️ 304 • 1d ago
+⬇️ 0 • ❤️ 310 • 2d ago
 
 ---
 
@@ -515,7 +517,7 @@ ERNIE-Image-Turbo is a distilled text-to-image diffusion model optimized for spe
 
 Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-▲ 23 • 💬 1 • ⭐ 19,163 • 8mo ago
+▲ 23 • 💬 1 • ⭐ 19,283 • 8mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
@@ -541,7 +543,7 @@ LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from 
 
 HY-World 2.0 is a multi-modal world model framework that generates high-fidelity 3D Gaussian Splatting scenes from diverse inputs using specialized modules for panorama generation, trajectory planning, world expansion, and composition, along with an enhanced rendering platform for interactive 3D exploration.
 
-▲ 80 • 💬 4 • ⭐ 1,086 • 4d ago
+▲ 80 • 💬 4 • ⭐ 1,134 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.14268) • [💻 code](https://github.com/Tencent-Hunyuan/HY-World-2.0) • [🔗 project](https://3d-models.hunyuan.tencent.com/world/)
 
@@ -559,18 +561,6 @@ A multi-agent framework using large language models for stock trading simulates 
 
 ---
 
-**[A decoder-only foundation model for time-series forecasting](https://huggingface.co/papers/2310.10688)**
-
-*Abhimanyu Das, Weihao Kong, Rajat Sen et al. (4 authors)*
-
-A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
-
-▲ 28 • 💬 1 • ⭐ 18,049 • 30mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
-
----
-
 **[VibeVoice Technical Report](https://huggingface.co/papers/2508.19205)**
 
 *Zhiliang Peng, Jianwei Yu, Wenhui Wang et al. (13 authors)*
@@ -579,23 +569,21 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 165 • 💬 10 • ⭐ 40,111 • 7mo ago
+▲ 165 • 💬 10 • ⭐ 40,179 • 7mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
 ---
 
-**[DFlash: Block Diffusion for Flash Speculative Decoding](https://huggingface.co/papers/2602.06036)**
+**[A decoder-only foundation model for time-series forecasting](https://huggingface.co/papers/2310.10688)**
 
-*Jian Chen, Yesheng Liang, Zhijian Liu*
+*Abhimanyu Das, Weihao Kong, Rajat Sen et al. (4 authors)*
 
-🏢 Z Lab
+A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
 
-DFlash is a speculative decoding framework that uses a lightweight block diffusion model for parallel token drafting, achieving significant speedup over existing autoregressive methods while maintaining high-quality outputs.
+▲ 28 • 💬 1 • ⭐ 18,079 • 30mo ago
 
-▲ 53 • 💬 4 • ⭐ 1,843 • 2mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2602.06036) • [💻 code](https://github.com/z-lab/dflash) • [🔗 project](https://z-lab.ai/projects/dflash/)
+[🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
 
 ---
 
@@ -625,13 +613,27 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 ---
 
+**[DFlash: Block Diffusion for Flash Speculative Decoding](https://huggingface.co/papers/2602.06036)**
+
+*Jian Chen, Yesheng Liang, Zhijian Liu*
+
+🏢 Z Lab
+
+DFlash is a speculative decoding framework that uses a lightweight block diffusion model for parallel token drafting, achieving significant speedup over existing autoregressive methods while maintaining high-quality outputs.
+
+▲ 53 • 💬 4 • ⭐ 1,859 • 2mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2602.06036) • [💻 code](https://github.com/z-lab/dflash) • [🔗 project](https://z-lab.ai/projects/dflash/)
+
+---
+
 **[LightRAG: Simple and Fast Retrieval-Augmented Generation](https://huggingface.co/papers/2410.05779)**
 
 *Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)*
 
 LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
 
-▲ 39 • 💬 2 • ⭐ 33,704 • 18mo ago
+▲ 39 • 💬 2 • ⭐ 33,764 • 18mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
 
@@ -647,7 +649,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 47.8k • 🔱 6.3k • 7m ago
+⭐ 47.8k • 🔱 6.3k • 55m ago
 
 ---
 
@@ -657,7 +659,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 37.7k • 🔱 1.8k • 10h ago
+⭐ 37.7k • 🔱 1.8k • 11h ago
 
 ---
 
@@ -677,7 +679,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 29.8k • 🔱 3.3k • 4h ago
+⭐ 29.8k • 🔱 3.3k • 5h ago
 
 ---
 
@@ -687,7 +689,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 8.2k • 🔱 523 • 5h ago
+⭐ 8.2k • 🔱 523 • 6h ago
 
 ---
 
