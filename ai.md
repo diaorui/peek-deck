@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-18T11:57:52.371444+00:00'
+updated: '2026-04-18T13:16:48.482684+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
 - news
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** April 18, 2026 at 11:57 UTC  
+**Last Updated:** April 18, 2026 at 13:16 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Tried posting this in r/ClaudeAI but it got auto-removed, and I was told to post it in the "Bugs Megathread." Don't really think it should been removed, but whatever, I'll just post it here since I'm sure it's still relevant. Like a lot of people, I switched from ChatGPT to Claude not too long ago during the whole DoW fiasco and Sam Altman “antics.” At first, I was genuinely impressed. I do fairly heavy theoretical math and physics research, and Opus 4.6 was simply the best tool I’d used for synthesizing ideas and working through complex logic. But the last few weeks have been really disappointing, and I’m seriously considering going back to GPT (even though, for personal reasons, I’d really rather not). How many times has Claude been down recently? And why is it that I can ask Claude 4.7 (with adaptive thinking turned on) to work through a detailed proof, and it just spirals “oh wait, that doesn’t work, let me try again” five times in a single response? Yes, there’s a workaround to explicitly tell it to think before answering. But… why is that necessary? I’m paying $20/month. This is supposed to be a top-tier model. Instead, it burns through time, second-guesses itself mid-response, and often fails to land anywhere useful on problems I’m fairly sure 4.6 would have handled more coherently a month ago. And then before I know it I hit the usage limit. I’m a PhD student. I can’t justify spending $100-$200/month on higher tiers. $20 has always been enough for me, and I’ve come to rely on these tools for my research. I expected to stick with Claude long-term, but the recent instability and drop in reliability make it hard to justify paying for it out of pocket. It’s frustrating to feel pushed toward a competitor because of this. But at a certain point, the usability of the product has to come first. Really disappointing.
 
-22h ago
+23h ago
 
 ---
 
@@ -49,7 +49,7 @@ Tried posting this in r/ClaudeAI but it got auto-removed, and I was told to post
 
 The patent describes a system that uses artificial intelligence to create personalized web pages for each user.
 
-🔗 [PC Guide](https://www.pcguide.com/news/google-patents-ai-tech-that-will-personalize-websites-and-make-them-look-different-for-everyone/) • 20h ago
+🔗 [PC Guide](https://www.pcguide.com/news/google-patents-ai-tech-that-will-personalize-websites-and-make-them-look-different-for-everyone/) • 22h ago
 
 ---
 
@@ -57,7 +57,7 @@ The patent describes a system that uses artificial intelligence to create person
 
 I am sharing this open-source list of cases where the ethics of GenAI use were put in the spotlight, in the hopes of sparking discussion on the usage and limitations of LLMs.
 
-🔗 [GitHub](https://github.com/hb20007/awesome-gen-ai-fails#readme) • 2h ago
+🔗 [GitHub](https://github.com/hb20007/awesome-gen-ai-fails#readme) • 3h ago
 
 ---
 
@@ -65,7 +65,7 @@ I am sharing this open-source list of cases where the ethics of GenAI use were p
 
 I went out to create something that would would build prds for me for projects I'm working on. The core idea it is that it asks for all of the information that's needed for a PRD and it could also review the existing code to answer these questions. Then it breaks up the parts of the plan into separate files and only starts the next part after the first part is complete. Added to that is that it's reaching out to codex every end of part and does an independent review of the code. What I found that was really cool is that when I did that with my existing project to enhance it, the system continued to find more issues through the feedback loop with codex and opened new prds for those issues. So essentially it's running through my code finding issues as it's working on extending it
 
-9h ago
+11h ago
 
 ---
 
@@ -81,7 +81,7 @@ Reese Witherspoon is again advising her followers that there's no time like the 
 
 I've been researching how personal AI tech devices are likely to develop ... technical capabilities, form factors, privacy and governance issues etc. I think it looks likely that there won't be one 'must have' device, and that there'll be more of a wearable ecosystem, with devices for different environments ... Glasses: outward and inward cameras, picking up facial expressions, gestures etc. Bone conduction audio. Augmented VR, infrared overlay etc. Cuff/Wristband: beyond a smart watch .. sensors picking up finger movements/gestures as input. Haptic actuators giving silent notifications. Pen/Stylus: currently underused as could also pick up gestures and have a microphone. Table top Node: palm sized unit. 360 degree vision and audio. Scout/Mini Drone: hovers above you for all round awareness, or can be sent ahead to scout an area, or find you children etc. All integrating with your smart phone, which may become more of a portable battery bank for charging other devices. Here's a blog post I have written that goes into more detail, including the privacy and legal issue etc (no ads/sign up etc) ... The AI Wearable Ecosystem What other devices might be developed? Should these devices be banned from recording other people?
 
-3h ago
+4h ago
 
 ---
 
@@ -89,7 +89,7 @@ I've been researching how personal AI tech devices are likely to develop ... tec
 
 There seems to be about 1000 different options. I'm just looking for one that takes a prompt and spits out something usable. I'm good with paying for it if I need to but it needs to be able.to handle a lot of work.
 
-20h ago
+21h ago
 
 ---
 
@@ -97,7 +97,7 @@ There seems to be about 1000 different options. I'm just looking for one that ta
 
 A couple of months ago I posted here (r/LLMDevs, r/artificial) proposing that an LLM could save its context window into a citation-grounded document store and query it in plain language, replacing embedding similarity as the retrieval mechanism for reasoning recovery. Karpathy's LLM Knowledge Bases post and a recent TDS context engineering piece have since touched on similar territory, so it felt like a good time to resurface with what I've actually found building it. The hybrid question got answered in practice Several commenters in the original threads predicted you'd inevitably end up hybrid — cheap vector filter first, LLM reasoning over the shortlist. That's roughly right, but the failure mode that drove it was different from what I expected. Pure semantic search didn't degrade because of scale per se; it started missing retrievals because the query and the target content used different vocabulary for the same concept. The fix was an index-first strategy — a lightweight topic-tagged index that narrows candidates before the NL query runs. So the hybrid layer is structural metadata, not a vector pre-filter. The LLM resists using its own memory This one surprised me. Claude has a persistent tendency to prefer internal reasoning over querying the memory store, even when a query would return more accurate results. Left unchecked, it reconstructs rather than retrieves — which is exactly the failure mode the system was designed to prevent. Fixing it required encoding the query requirement in the system prompt, a startup gate checklist, and explicit framing of what it costs to skip retrieval. It's behavioral, not architectural, but it's a real problem that neither article addresses. The memory layer should decouple from the interface model One thing I haven't tested but follows logically from the architecture: if the persistent state lives in the document store rather than in the model, the interface LLM becomes interchangeable. You should be able to swap Claude for ChatGPT or Gemini with minimal fidelity loss, and potentially run multiple models concurrently against the same memory as a coordination layer. There's also an interesting quality asymmetry that wouldn't exist in vector RAG: because retrieval here uses the interface model's reasoning rather than a separate embedding step, a more capable model should directly improve retrieval quality — not just generation quality. I haven't verified either of these in practice, but the architecture seems to imply them. Curious whether anyone has tested something similar. Memory hygiene is a real maintenance problem Karpathy's post talks about "linting" the wiki for inconsistencies. I ran into a version of this from a different angle: an append-only notes system accumulates stale entries with no way to distinguish resolved from active items. You end up needing something like a note lifecycle (e.g., resolve, revise, retract, etc.) with versioned identifiers so the system can tell what's current. The maintenance overhead of keeping memory coherent is underappreciated in both the Karpathy and TDS pieces. Still in the research and build phase. For anyone curious about the ad hoc system I've been using to test this while working through the supporting literature, the repo is here: https://github.com/pjmattingly/Claude-persistent-memory — pre-alpha quality, but it's the working substrate behind the observations above. Happy to go deeper on any of this.
 
-11h ago
+12h ago
 
 ---
 
@@ -105,7 +105,7 @@ A couple of months ago I posted here (r/LLMDevs, r/artificial) proposing that an
 
 Claude Design is powered by Claude Opus 4.7 and is available in research preview for Claude Pro, Max, Team, and Enterprise subscribers.
 
-🔗 [anthropic.com](https://www.anthropic.com/news/claude-design-anthropic-labs) • 20h ago
+🔗 [anthropic.com](https://www.anthropic.com/news/claude-design-anthropic-labs) • 21h ago
 
 ---
 
@@ -113,7 +113,7 @@ Claude Design is powered by Claude Opus 4.7 and is available in research preview
 
 Recently used "free" rates codex to give me a quick fastapi project sample. It gave me deprecated (a)app.on_event("startup). What are your experiences on current AI agent code outputs. Doesn't have to be codex or claude or co-pilot. Whichever one you use just want to gauge your experiences on outputs as of 2026 Q1/Q2. Does the latest model always use the latest code documentations? questions: 1. I didn't specify which version of fastapi to use for output, do you type that everytime for your workflow? does it work if you specify like "use only the latest version" 2. How many of you experience a lesser version code when trying to do one shot coding prompts. 3. What is the average code quality for the current outputs (as of right now, ignore last year experiences). Do you care? 4. Which language/framework you find gives you perfect code (or almost perfect)? trying to see which one to use as of 2026 while it's still being subsidized by corpos, been testing different agents for a while but there is always something I don't like. it's used to be 50/50 for code quality now it's up to 75% to my liking. So I see good progress from the agents.
 
-15h ago
+17h ago
 
 ---
 
@@ -123,37 +123,39 @@ Recently used "free" rates codex to give me a quick fastapi project sample. It g
 
 **[Hundreds of Fake Pro-Trump Avatars Emerge on Social Media](https://www.nytimes.com/2026/04/17/business/media/artificial-intelligence-trump-social-media.html)**
 
-The New York Times • 7h ago
+The New York Times • 8h ago
 
 ---
 
-**[AI chipmaker Cerebras files to go public after scrapping IPO plans last year](https://www.cnbc.com/2026/04/17/cerebras-new-ipo-ai-chips.html)**
+**[Build a More Secure, Always-On Local AI Agent with OpenClaw and NVIDIA NemoClaw](https://developer.nvidia.com/blog/build-a-secure-always-on-local-ai-agent-with-nvidia-nemoclaw-and-openclaw/)**
 
-Cerebras said that it can expand its business with OpenAI over the coming years and that it gave OpenAI a warrant to purchase stock.
+Agents are evolving from question-and-answer systems into long-running autonomous assistants that read files, call APIs, and drive multi-step workflows. However, deploying an agent to execute code and…
 
-CNBC • 18h ago
-
----
-
-**[It’s time for students to start committing to colleges. The age of AI is making it complicated](https://www.cnn.com/2026/04/18/business/ai-college-debt-parents)**
-
-Mary Akkerman has visited more than 30 college campuses with her children, one now at Stanford and another still in high school. She especially wanted them to get degrees that lead to good jobs – but figuring that out, said the Sioux Falls, South Dakota, parent, was a major challenge, thanks in part to the rapid advance of AI and its effects on the job market.
-
-CNN • 56m ago
+NVIDIA Developer • 17h ago
 
 ---
 
-**["Digital fantasy"; AI hair, makeup put perfection further out of reach](https://www.axios.com/2026/04/18/ai-generated-hair-makeup-inspo-pictures)**
+**[Nvidia's once-tight bond with gamers is cracking over AI, 'and that breaks my heart'](https://www.cnbc.com/2026/04/18/nvidia-ai-backlash-gamers-geforce-gpu.html)**
 
-Axios • 55m ago
+Gamers once helped save Nvidia from bankruptcy. Now they feel left behind as the memory crunch drives focus to AI chips and DLSS 5 disrupts game design.
+
+CNBC • 1h ago
 
 ---
 
-**[AI part of £3.4m project to 'modernise' Gloucestershire authority](https://www.bbc.com/news/articles/c1l9yqn7n01o)**
+**[Catholic brothers create faith-driven AI chatbot based on church teachings](https://www.foxnews.com/video/6393362882112)**
 
-The Stronger Futures programme at Gloucestershire County Council could use AI to cut expenses.
+Catholic brothers Peter and Thomas Cooney developed Acutis AI, a faith-driven chatbot grounded in Catholic teachings.
 
-BBC • 1h ago
+Fox News • 49m ago
+
+---
+
+**[AI’s next act: how Salesforce is turning efficiency gains into revenue](https://fortune.com/2026/04/18/salesforce-agentforce-ai-efficiency-revenue-growth/)**
+
+Salesforce used AI agents to cut $100 million in support costs and handle 3 million customer conversations. Now it's deploying that tech for other things.
+
+Fortune • 1h ago
 
 ---
 
@@ -161,7 +163,7 @@ BBC • 1h ago
 
 Anthropic CEO Dario Amodei visited the White House on Friday for a high-stakes meeting with the president’s top adviser, while his AI company battles the Trump administration in court for blacklisting its Claude AI model.
 
-CNN • 23h ago
+CNN • 1d ago
 
 ---
 
@@ -173,25 +175,25 @@ BBC • 1d ago
 
 ---
 
-**[Introducing Claude Design by Anthropic Labs](https://www.anthropic.com/news/claude-design-anthropic-labs)**
+**[Perspective: AI demand is inflated, and only Anthropic is being realistic](https://www.cnbc.com/2026/04/17/ai-tokens-anthropic-openai-nvidia.html)**
 
-Today, we’re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more.
+The main usage metric for artificial intelligence, called tokens, looks explosive on paper, but it may be significantly overstated.
 
-Anthropic • 20h ago
+CNBC • 18h ago
 
 ---
 
-**[Build a More Secure, Always-On Local AI Agent with OpenClaw and NVIDIA NemoClaw](https://developer.nvidia.com/blog/build-a-secure-always-on-local-ai-agent-with-nvidia-nemoclaw-and-openclaw/)**
+**[FAA quietly developing AI-enabled predictive air traffic management system](https://theaircurrent.com/air-traffic-control/faa-smart-ai-predictive-air-traffic-management-system-palantir-thales/)**
 
-Agents are evolving from question-and-answer systems into long-running autonomous assistants that read files, call APIs, and drive multi-step workflows. However, deploying an agent to execute code and…
+Palantir, Thales and ASI competing on secretive initiative that could redefine how the U.S. ATC system operates
 
-NVIDIA Developer • 16h ago
+The Air Current • 20h ago
 
 ---
 
 **[In the AI propaganda war, Iran is winning](https://www.economist.com/culture/2026/04/17/in-the-ai-propaganda-war-iran-is-winning)**
 
-The Economist • 20h ago
+The Economist • 21h ago
 
 ---
 
@@ -221,19 +223,19 @@ Check if Claude AI is down right now. Real-time status monitoring, uptime histor
 
 ---
 
+**[Are the costs of AI agents also rising exponentially? (2025)](https://news.ycombinator.com/item?id=47778922)**
+
+There is an extremely important question about the near-future of AI that almost no-one is asking.   We’ve all seen the graphs from METR showing that the length of tasks AI agents can perform has been growing exponentially over the last 7 years. While GPT-2 could only do software engineering tasks t
+
+⬆️ 235 • 💬 80 • 2d ago • [Toby Ord](https://www.tobyord.com/writing/hourly-costs-for-ai-agents)
+
+---
+
 **[AI-assisted cognition endangers human development?](https://news.ycombinator.com/item?id=47783024)**
 
 Does AI-assisted cognition threaten human development? Explore the risks of AI-assisted thinking and learn strategies to use AI tools without freezing your critical thinking.
 
 ⬆️ 230 • 💬 187 • 2d ago • [heidenstedt.org](https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/)
-
----
-
-**[Are the costs of AI agents also rising exponentially? (2025)](https://news.ycombinator.com/item?id=47778922)**
-
-There is an extremely important question about the near-future of AI that almost no-one is asking.   We’ve all seen the graphs from METR showing that the length of tasks AI agents can perform has been growing exponentially over the last 7 years. While GPT-2 could only do software engineering tasks t
-
-⬆️ 225 • 💬 68 • 2d ago • [Toby Ord](https://www.tobyord.com/writing/hourly-costs-for-ai-agents)
 
 ---
 
@@ -249,7 +251,7 @@ Hardware hacker’s flying probe automation stack for agent-driven   target disc
 
 We signed a 3 year lease and gave it to an AI
 
-⬆️ 197 • 💬 282 • 1d ago • [andonlabs.com](https://andonlabs.com/blog/andon-market-launch)
+⬆️ 198 • 💬 282 • 1d ago • [andonlabs.com](https://andonlabs.com/blog/andon-market-launch)
 
 ---
 
@@ -267,9 +269,11 @@ GPU rental prices surged 48% in 60 days. The AI compute shortage will force star
 
 ---
 
-**[AI ruling prompts warnings from US lawyers: Your chats could be used against you](https://news.ycombinator.com/item?id=47778308)**
+**[Show HN: Libretto – Making AI browser automations deterministic](https://news.ycombinator.com/item?id=47780971)**
 
-⬆️ 154 • 💬 100 • 2d ago • [reuters.com](https://www.reuters.com/legal/government/ai-ruling-prompts-warnings-us-lawyers-your-chats-could-be-used-against-you-2026-04-15/)
+The AI toolkit for building and maintaining browser automations - saffron-health/libretto
+
+⬆️ 129 • 💬 55 • 2d ago • [GitHub](https://github.com/saffron-health/libretto)
 
 ---
 
@@ -283,7 +287,7 @@ ChatGPT was recently asked what it would say to humans if it could give a TED Ta
 
 📺 TED
 
-👁️ 32K • 👍 1K • 💬 536 • ⏱️ 3:28 • 14h ago
+👁️ 36K • 👍 1K • 💬 586 • ⏱️ 3:28 • 16h ago
 
 ---
 
@@ -293,7 +297,17 @@ Get your FREE AI Prompt Cheatsheet here: https://go.danmartell.com/4tVJ4fz Are y
 
 📺 Dan Martell
 
-👁️ 180K • 👍 8K • 💬 1K • ⏱️ 14:03 • 1d ago
+👁️ 184K • 👍 8K • 💬 1K • ⏱️ 14:03 • 2d ago
+
+---
+
+**[How to Learn AI so Fast, it&#39;s Almost Unfair](https://www.youtube.com/watch?v=bFglE9QddUs)**
+
+In this video, I break down a 4 week system for learning AI by using one tool from each category on real problems instead of ...
+
+📺 James Blue
+
+👁️ 4K • ⏱️ 10:55 • 2h ago
 
 ---
 
@@ -303,17 +317,7 @@ A series of animated Iranian propaganda videos made in the style of "The LEGO Mo
 
 📺 MS NOW
 
-👁️ 79K • 👍 2K • 💬 910 • ⏱️ 6:46 • 16h ago
-
----
-
-**[AI Safety Expert: No One Is Ready for What&#39;s Coming in 2 Years | Roman Yampolskiy](https://www.youtube.com/watch?v=00RHph_eok4)**
-
-This episode is brought to you by Higgsfield — the AI video platform with Cinema Studio 2.5, built for creators who want cinematic ...
-
-📺 Silicon Valley Girl
-
-👁️ 25K • 👍 611 • 💬 115 • ⏱️ 45:43 • 22h ago
+👁️ 85K • 👍 2K • 💬 1K • ⏱️ 6:46 • 17h ago
 
 ---
 
@@ -323,7 +327,17 @@ Really American host Steve Harness breaks down more HILARIOUS AI Trump parodies 
 
 📺 Really American
 
-👁️ 1.0M • 👍 48K • 💬 3K • ⏱️ 12:33 • 1d ago
+👁️ 1.1M • 👍 49K • 💬 3K • ⏱️ 12:33 • 1d ago
+
+---
+
+**[AI Safety Expert: No One Is Ready for What&#39;s Coming in 2 Years | Roman Yampolskiy](https://www.youtube.com/watch?v=00RHph_eok4)**
+
+This episode is brought to you by Higgsfield — the AI video platform with Cinema Studio 2.5, built for creators who want cinematic ...
+
+📺 Silicon Valley Girl
+
+👁️ 26K • 👍 664 • 💬 118 • ⏱️ 45:43 • 1d ago
 
 ---
 
@@ -333,7 +347,17 @@ Triggernometry is proudly independent. Thanks to the sponsors below for making t
 
 📺 Triggernometry
 
-👁️ 214K • 👍 6K • 💬 2K • ⏱️ 1:11:10 • 2d ago
+👁️ 218K • 👍 6K • 💬 2K • ⏱️ 1:11:10 • 2d ago
+
+---
+
+**[I Asked AI to PREDICT the NEXT US PRESIDENT (The Answer Surprised Me)](https://www.youtube.com/watch?v=3n0RIgWOAbE)**
+
+See if your SSN is for sale right now. My sponsor Cloaked will tell you for free in 2 seconds here: https://cloaked.com/iaskai ...
+
+📺 I Ask AI
+
+👁️ 68K • 👍 3K • 💬 756 • ⏱️ 38:52 • 16h ago
 
 ---
 
@@ -343,17 +367,7 @@ China just revealed an autonomous robot war pack built from dog bots, drones, la
 
 📺 AI Revolution
 
-👁️ 52K • 👍 1K • 💬 112 • ⏱️ 16:14 • 1d ago
-
----
-
-**[AI News: Huge Updates From Anthropic, OpenAI and Google](https://www.youtube.com/watch?v=bIrzOQtnp8w)**
-
-Here's the AI News you probably missed this week. Build AI apps that actually scale. Learn more about Crusoe Managed ...
-
-📺 Matt Wolfe
-
-👁️ 55K • 👍 2K • 💬 120 • ⏱️ 36:44 • 20h ago
+👁️ 55K • 👍 1K • 💬 115 • ⏱️ 16:14 • 1d ago
 
 ---
 
@@ -363,17 +377,7 @@ discord.gg/nickjones.
 
 📺 Nick Jones
 
-👁️ 16K • 👍 785 • 💬 491 • ⏱️ 8:37 • 1d ago
-
----
-
-**[LIVE: Sanders, Labor Leaders Call on Congress to Protect Workers from AI](https://www.youtube.com/watch?v=DdJfeSMB99g)**
-
-The same oligarchs who shipped jobs overseas now want to replace tens of millions of American workers with AI. Our message to ...
-
-📺 Senator Bernie Sanders
-
-👁️ 13K • 👍 1K • 💬 369 • ⏱️ 45:01 • 1d ago
+👁️ 17K • 👍 787 • 💬 494 • ⏱️ 8:37 • 1d ago
 
 ---
 
@@ -389,7 +393,7 @@ MiniMax-M2.7 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 258,064 • ❤️ 935 • 1d ago
+⬇️ 258,064 • ❤️ 939 • 1d ago
 
 ---
 
@@ -401,7 +405,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with a vision encoder, 
 
 `image-text-to-text` `36.0B`
 
-⬇️ 82,000 • ❤️ 780 • 3d ago
+⬇️ 82,000 • ❤️ 792 • 3d ago
 
 ---
 
@@ -413,7 +417,7 @@ HY-Embodied-0.5 is a multilingual vision-language model designed for embodied ag
 
 `image-text-to-text` `3.8B`
 
-⬇️ 1,454 • ❤️ 855 • 4d ago
+⬇️ 1,454 • ❤️ 857 • 4d ago
 
 ---
 
@@ -425,19 +429,7 @@ ERNIE-Image is a 8B parameter text-to-image diffusion model excelling in complex
 
 `text-to-image`
 
-⬇️ 3,116 • ❤️ 432 • 1d ago
-
----
-
-**[GLM-5.1](https://huggingface.co/zai-org/GLM-5.1)**
-
-*Z.ai*
-
-GLM-5.1 is a next-generation language model optimized for agentic engineering, featuring significantly enhanced coding capabilities and sustained performance on complex, long-horizon tasks. It excels in breaking down problems, iterating on solutions, and handling ambiguity, making it ideal for advanced software development and automated task execution.
-
-`text-generation` `753.9B`
-
-⬇️ 103,847 • ❤️ 1,388 • 2d ago
+⬇️ 3,116 • ❤️ 438 • 1d ago
 
 ---
 
@@ -449,7 +441,19 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with vision capabilitie
 
 `image-text-to-text` `34.7B`
 
-⬇️ 442,900 • ❤️ 395 • 1d ago
+⬇️ 442,900 • ❤️ 408 • 1d ago
+
+---
+
+**[GLM-5.1](https://huggingface.co/zai-org/GLM-5.1)**
+
+*Z.ai*
+
+GLM-5.1 is a next-generation language model optimized for agentic engineering, featuring significantly enhanced coding capabilities and sustained performance on complex, long-horizon tasks. It excels in breaking down problems, iterating on solutions, and handling ambiguity, making it ideal for advanced software development and automated task execution.
+
+`text-generation` `753.9B`
+
+⬇️ 103,847 • ❤️ 1,391 • 2d ago
 
 ---
 
@@ -461,7 +465,7 @@ A fast, uncensored GGUF text generation model based on Google's Gemma 4-26B, opt
 
 `text-generation` `25.2B`
 
-⬇️ 66,552 • ❤️ 386 • 5d ago
+⬇️ 66,552 • ❤️ 388 • 5d ago
 
 ---
 
@@ -473,7 +477,7 @@ Gemma 4 31B is an instruction-tuned, multimodal LLM capable of processing text a
 
 `image-text-to-text` `32.7B`
 
-⬇️ 3,778,070 • ❤️ 2,137 • 7d ago
+⬇️ 3,778,070 • ❤️ 2,142 • 7d ago
 
 ---
 
@@ -485,7 +489,7 @@ VoxCPM2 is a 2B parameter, 30-language multilingual text-to-speech model capable
 
 `text-to-speech`
 
-⬇️ 35,870 • ❤️ 1,105 • 2d ago
+⬇️ 35,870 • ❤️ 1,107 • 2d ago
 
 ---
 
@@ -497,7 +501,7 @@ ERNIE-Image-Turbo is a distilled text-to-image diffusion model optimized for spe
 
 `text-to-image`
 
-⬇️ 4,119 • ❤️ 295 • 1d ago
+⬇️ 4,119 • ❤️ 299 • 1d ago
 
 ---
 
@@ -511,7 +515,7 @@ ERNIE-Image-Turbo is a distilled text-to-image diffusion model optimized for spe
 
 Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-▲ 23 • 💬 1 • ⭐ 19,047 • 8mo ago
+▲ 23 • 💬 1 • ⭐ 19,163 • 8mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
@@ -537,7 +541,7 @@ LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from 
 
 HY-World 2.0 is a multi-modal world model framework that generates high-fidelity 3D Gaussian Splatting scenes from diverse inputs using specialized modules for panorama generation, trajectory planning, world expansion, and composition, along with an enhanced rendering platform for interactive 3D exploration.
 
-▲ 78 • 💬 4 • ⭐ 1,022 • 3d ago
+▲ 80 • 💬 4 • ⭐ 1,086 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.14268) • [💻 code](https://github.com/Tencent-Hunyuan/HY-World-2.0) • [🔗 project](https://3d-models.hunyuan.tencent.com/world/)
 
@@ -561,7 +565,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
 
-▲ 28 • 💬 1 • ⭐ 18,026 • 30mo ago
+▲ 28 • 💬 1 • ⭐ 18,049 • 30mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
 
@@ -575,7 +579,7 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 165 • 💬 10 • ⭐ 40,070 • 7mo ago
+▲ 165 • 💬 10 • ⭐ 40,111 • 7mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -589,7 +593,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 DFlash is a speculative decoding framework that uses a lightweight block diffusion model for parallel token drafting, achieving significant speedup over existing autoregressive methods while maintaining high-quality outputs.
 
-▲ 52 • 💬 4 • ⭐ 1,802 • 2mo ago
+▲ 52 • 💬 4 • ⭐ 1,843 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2602.06036) • [💻 code](https://github.com/z-lab/dflash) • [🔗 project](https://z-lab.ai/projects/dflash/)
 
@@ -627,7 +631,7 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
 
-▲ 39 • 💬 2 • ⭐ 33,648 • 18mo ago
+▲ 39 • 💬 2 • ⭐ 33,704 • 18mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
 
@@ -643,7 +647,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 47.7k • 🔱 6.2k • 5h ago
+⭐ 47.7k • 🔱 6.2k • 6h ago
 
 ---
 
@@ -653,7 +657,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 37.2k • 🔱 1.8k • 2d ago
+⭐ 37.3k • 🔱 1.8k • 3h ago
 
 ---
 
@@ -663,7 +667,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 35.8k • 🔱 7.2k • 17h ago
+⭐ 35.8k • 🔱 7.2k • 18h ago
 
 ---
 
@@ -673,7 +677,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 29.4k • 🔱 3.2k • 2h ago
+⭐ 29.5k • 🔱 3.2k • 3h ago
 
 ---
 
@@ -683,7 +687,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 8.2k • 🔱 522 • 1h ago
+⭐ 8.2k • 🔱 523 • 21m ago
 
 ---
 
@@ -703,7 +707,7 @@ AI Agent 源码深度研究报告
 
 `Python`
 
-⭐ 5.2k • 🔱 865 • 4d ago
+⭐ 5.2k • 🔱 867 • 4d ago
 
 ---
 
