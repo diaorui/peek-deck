@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-18T02:31:12.056053+00:00'
+updated: '2026-04-18T05:08:03.398689+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- videos
-- cryptocurrency
 - news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 18, 2026 at 02:31 UTC  
+**Last Updated:** April 18, 2026 at 05:08 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,34 +44,34 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +3.6%  
-**7d:** +9.3%  
-**30d:** +9.7%  
-**90d:** -16.5%  
-**1y:** -9.2%  
+**24h:** +3.0%  
+**7d:** +9.2%  
+**30d:** +9.5%  
+**90d:** -16.7%  
+**1y:** -9.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1548.43B
+**Market Cap:** $1544.93B
 Rank #1
 
-**Circulating Supply:** 20,017,309 BTC
+**Circulating Supply:** 20,017,362 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--38.6%
+-38.8%
 
 **All-Time Low:** $67.81
-+113970.2%
++113746.0%
 
 ---
 
 ## Fear & Greed Index
 
-### 21
-**EXTREME FEAR**
+### 26
+**FEAR**
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Bitcoin is dead](https://www.reddit.com/r/Bitcoin/comments/1socs7g/bitcoin_is_dead/)**
 
-5h ago
+8h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 I'm so long.
 
-3h ago
+5h ago
 
 ---
 
@@ -95,13 +95,7 @@ I'm so long.
 
 Hey everyone, I’ve been buying Bitcoin since 2012/2013. I’ve lived through it all, studied all cycles in detail, and I’m usually dead silent on Reddit, I just lurk, watch, and stay out of the noise. Never really comment. But… This feels massively like the 2013 cycle and the 2021 cycle. We’d hit a top, then a brutal dip where everyone piled into the “lower lows incoming,” “it’s over,” narrative. Capitulation everywhere. Then, surprise, it bounced hard and went on to make new cycle highs. That’s exactly what I see playing out right now. We topped at roughly $126,200 in early October 2025. Since then we’ve had the classic post-peak flush, fear, and bearish calls for even lower prices. But to me this looks like the same retest/bounce setup we’ve seen before. The crowd is getting shaken out again right before the next leg higher. In my experience, this is when things get very bullish. A lot of people are going to sit on the sidelines waiting for “the real bottom” that never comes. People think the cycle top has com and we have entered bear, but the market is maturing and becoming longer. Wouldn’t surprise me at all if we see the cycle top sometime in late 2026 or 2027 in the $180k–$220k range. Just my two sats after watching this market for over a decade. Do your own research, never financial advice… but damn if this doesn’t feel familiar in the best possible way. Stay safe out there. (And yeah… still not selling.)
 
-10h ago
-
----
-
-**[this is really interesting](https://www.reddit.com/r/Bitcoin/comments/1so9tg4/this_is_really_interesting/)**
-
-7h ago
+13h ago
 
 ---
 
@@ -109,19 +103,31 @@ Hey everyone, I’ve been buying Bitcoin since 2012/2013. I’ve lived through i
 
 As I recovered an old email account I found I had a coinbase account I had completely forgotten about. It’s not much, compared to other folks in this sub, but it has .25 BTC and other currencies from forks in the past 9 years since I bought it. I had completely forgotten about it and, because of it, never declared in my tax returns. Apparently I should have done that and submit an ID to coinbase. I haven’t done anything yet, or touched the currencies. Am I fucked? or can I just submit my ID and declare in the tax return next year? Apologies for my ignorance, I have stayed away from crypto since I bought .25 BTC back in 2017. All advise is appreciated.
 
-5h ago
+8h ago
 
 ---
 
-**[Every time they say BTC is dead, it just climbs another $4k.](https://www.reddit.com/r/Bitcoin/comments/1so2gyt/every_time_they_say_btc_is_dead_it_just_climbs/)**
+**[this is really interesting](https://www.reddit.com/r/Bitcoin/comments/1so9tg4/this_is_really_interesting/)**
 
-12h ago
+10h ago
+
+---
+
+**[I’m Building a Bitcoin Company](https://www.reddit.com/r/Bitcoin/comments/1sogvxt/im_building_a_bitcoin_company/)**
+
+5h ago
 
 ---
 
 **[The current situation in one picture](https://www.reddit.com/r/Bitcoin/comments/1so1wy0/the_current_situation_in_one_picture/)**
 
-12h ago
+15h ago
+
+---
+
+**[Every time they say BTC is dead, it just climbs another $4k.](https://www.reddit.com/r/Bitcoin/comments/1so2gyt/every_time_they_say_btc_is_dead_it_just_climbs/)**
+
+14h ago
 
 ---
 
@@ -129,21 +135,15 @@ As I recovered an old email account I found I had a coinbase account I had compl
 
 What do you guys think... will it HODL?
 
-13h ago
+16h ago
 
 ---
 
-**[I’m Building a Bitcoin Company](https://www.reddit.com/r/Bitcoin/comments/1sogvxt/im_building_a_bitcoin_company/)**
+**[If Bitcoin is Ponzi then so everything else](https://www.reddit.com/r/Bitcoin/comments/1soniti/if_bitcoin_is_ponzi_then_so_everything_else/)**
 
-3h ago
+Stupid narratives
 
----
-
-**[Btc](https://www.reddit.com/r/Bitcoin/comments/1so108z/btc/)**
-
-Hahahah trains leaving the station 😂😂 where are all the 30k people at now ?? Unlucky boys. Better luck next time 🤡✌️
-
-13h ago
+42m ago
 
 ---
 
@@ -159,9 +159,11 @@ CNBC • 1d ago
 
 ---
 
-**[Bitcoin Price Tops $75,000, XRP, Solana Gain. What's Driving the Crypto Rally.](https://www.barrons.com/articles/bitcoin-price-xrp-solana-cryptos-strategy-robinhood-today-96c8568b)**
+**[Market rally breakdown: Dow Jones, bitcoin, Tesla, and more](https://finance.yahoo.com/video/market-rally-breakdown-dow-jones-bitcoin-tesla-and-more-193947251.html)**
 
-Barron's • 12h ago
+On Friday, the Dow Jones Industrial Average (^DJI) surged over 800 points, while both the S&P 500 (^GSPC) and Nasdaq Composite (^IXIC) gained over 1% each. Yahoo Finance Markets and Data Editor Jared Blikre takes a look at the week's biggest market moves, including action from the "Magnificent Seven" (MAGS), semiconductor sector (^SOX), software sector (IGV), CBOE Volatility Index (^VIX), 10-year Treasury yields (^TNX), the US dollar (DX-Y.NYB), bitcoin (BTC-USD), and more.
+
+Yahoo Finance • 9h ago
 
 ---
 
@@ -169,29 +171,13 @@ Barron's • 12h ago
 
 Iran's foreign minister said the Strait of Hormuz will remain completely open for the remainder of the ceasefire.
 
-CoinDesk • 10h ago
+CoinDesk • 13h ago
 
 ---
 
-**[Market rally breakdown: Dow Jones, bitcoin, Tesla, and more](https://finance.yahoo.com/video/market-rally-breakdown-dow-jones-bitcoin-tesla-and-more-193947251.html)**
+**[Bitcoin Price Tops $75,000, XRP, Solana Gain. What's Driving the Crypto Rally.](https://www.barrons.com/articles/bitcoin-price-xrp-solana-cryptos-strategy-robinhood-today-96c8568b)**
 
-On Friday, the Dow Jones Industrial Average (^DJI) surged over 800 points, while both the S&P 500 (^GSPC) and Nasdaq Composite (^IXIC) gained over 1% each. Yahoo Finance Markets and Data Editor Jared Blikre takes a look at the week's biggest market moves, including action from the "Magnificent Seven" (MAGS), semiconductor sector (^SOX), software sector (IGV), CBOE Volatility Index (^VIX), 10-year Treasury yields (^TNX), the US dollar (DX-Y.NYB), bitcoin (BTC-USD), and more.
-
-Yahoo Finance • 6h ago
-
----
-
-**[Bitcoin’s Greatest Mystery](https://www.nytimes.com/2026/04/16/world/bitcoin-satoshi-adam-back-israel-lebanon-ceasefire.html)**
-
-The New York Times • 21h ago
-
----
-
-**[The O.C. Guy Says Bitcoin Is ‘Still a Ponzi Scheme’](https://nymag.com/intelligencer/article/the-ocs-ben-mckenzie-says-bitcoin-is-lying-to-you-for-money.html)**
-
-“Not only gotten away with it, they’ve made a ton of money,” says actor Ben McKenzie, whose doc explores crypto’s crash and Trump-fueled rise.
-
-New York Magazine • 15h ago
+Barron's • 14h ago
 
 ---
 
@@ -207,21 +193,35 @@ dlnews.com • 1h ago
 
 A look at the legal aspects and relevant laws regarding a hypothetical theft of bitcoin utilizing quantum computers.
 
-Bitcoin Magazine • 6h ago
+Bitcoin Magazine • 9h ago
 
 ---
 
-**[Cardano's Charles Hoskinson says Bitcoin's quantum fix is a hard fork that can't save Satoshi's coins](https://www.coindesk.com/tech/2026/04/16/cardano-s-hoskinson-says-bitcoin-s-quantum-fix-is-a-hard-fork-that-can-t-save-satoshi-s-coins)**
+**[How a quantum computer can be used to actually steal your bitcoin in '9 minutes'](https://www.coindesk.com/tech/2026/04/18/how-a-quantum-computer-can-be-used-to-actually-steal-your-bitcoin-in-9-minutes)**
 
-The Cardano founder argues BIP-361 is mislabeled as a soft fork and that its zero-knowledge recovery plan cannot rescue roughly 1.7 million pre-2013 bitcoin, including Satoshi's holdings.
+Part one explained the physics of quantum computing. This piece explains the target — how bitcoin's encryption works, why a quantum algorithm breaks it, and what Google's paper changed about the timeline.
 
-CoinDesk • 1d ago
+CoinDesk • 1h ago
 
 ---
 
-**[Crypto Stocks Rally As Bitcoin Breaks Two-Month High After Iran Reopens Strait](https://www.forbes.com/sites/aliciapark/2026/04/17/crypto-stocks-rally-as-bitcoin-breaks-two-month-high-after-iran-reopens-strait/)**
+**[Bitcoin’s Greatest Mystery](https://www.nytimes.com/2026/04/16/world/bitcoin-satoshi-adam-back-israel-lebanon-ceasefire.html)**
 
-Forbes • 9h ago
+The New York Times • 1d ago
+
+---
+
+**['Banks Are Coming'—Wall Street Bitcoin Rush Targets $189K](https://www.forbes.com/sites/digital-assets/2026/04/17/banks-are-coming-wall-street-bitcoin-rush-targets-189k/)**
+
+Forbes • 12h ago
+
+---
+
+**[The O.C. Guy Says Bitcoin Is ‘Still a Ponzi Scheme’](https://nymag.com/intelligencer/article/the-ocs-ben-mckenzie-says-bitcoin-is-lying-to-you-for-money.html)**
+
+“Not only gotten away with it, they’ve made a ton of money,” says actor Ben McKenzie, whose doc explores crypto’s crash and Trump-fueled rise.
+
+New York Magazine • 18h ago
 
 ---
 
@@ -233,7 +233,7 @@ Forbes • 9h ago
 
 The average production cost was sitting at $88,000 per bitcoin in mid-March, according to Checkonchain's difficulty regression model.
 
-⬆️ 244 • 💬 228 • 6d ago • [coindesk.com](https://www.coindesk.com/markets/2026/03/22/bitcoin-miners-are-losing-usd19-000-on-every-btc-produced-as-difficulty-drops-7-8)
+⬆️ 244 • 💬 229 • 6d ago • [coindesk.com](https://www.coindesk.com/markets/2026/03/22/bitcoin-miners-are-losing-usd19-000-on-every-btc-produced-as-difficulty-drops-7-8)
 
 ---
 
@@ -307,33 +307,23 @@ Bitcoin Core Will Maintain the Protocol. It May Not Save It. The reference imple
 
 ## YouTube Videos: "bitcoin"
 
-**[Clarity Rally Begins?🚀DEALS Reached!📈Crypto Market Update](https://www.youtube.com/watch?v=xM_aKT_cN14)**
-
-According to a new report from JPMorgan Chase, the much-anticipated CLARITY Act is nearing a significant breakthrough as ...
-
-📺 Paul Barron Network
-
-👁️ 68K • 👍 4K • 💬 232 • ⏱️ 13:57 • 8h ago
-
----
-
 **[Fox Business Reveals Massive Bitcoin News…](https://www.youtube.com/watch?v=UlJNGzbms34)**
 
 Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=AltcoinDaily BTC Conference 2026 ...
 
 📺 Altcoin Daily
 
-👁️ 11K • 👍 896 • 💬 41 • ⏱️ 8:39 • 3h ago
+👁️ 19K • 👍 1K • 💬 52 • ⏱️ 8:39 • 5h ago
 
 ---
 
-**[Bitcoin SURGES to 75k! Is RISK ON Regime Back](https://www.youtube.com/watch?v=hc7TNDccwcs)**
+**[Clarity Rally Begins?🚀DEALS Reached!📈Crypto Market Update](https://www.youtube.com/watch?v=xM_aKT_cN14)**
 
-Bitcoin is back at $75K as risk appetite returns—but the bigger story is unfolding beneath the surface. In this video, Adam ...
+According to a new report from JPMorgan Chase, the much-anticipated CLARITY Act is nearing a significant breakthrough as ...
 
-📺 Swan Bitcoin
+📺 Paul Barron Network
 
-👁️ 8K • 👍 518 • 💬 52 • ⏱️ 9:53 • 9h ago
+👁️ 79K • 👍 4K • 💬 238 • ⏱️ 13:57 • 11h ago
 
 ---
 
@@ -343,47 +333,7 @@ A former Treasury Secretary warns the next crisis could be worse than 2008. Bond
 
 📺 Simply Bitcoin
 
-👁️ 10K • 👍 980 • 💬 59 • ⏱️ 16:22 • 4h ago
-
----
-
-**[Bitcoin Is at $75,000. The Why Is What Worries Me. | Dana Love PhD](https://www.youtube.com/watch?v=TqkJdLpSUsU)**
-
-Dana Love, PhD breaks down who actually drove Bitcoin to $75000, and it wasn't retail. On-chain data from Q1 2026 shows ...
-
-📺 Dana Love, PhD
-
-👁️ 2K • 👍 89 • 💬 15 • ⏱️ 1:53 • 8h ago
-
----
-
-**[Bitcoin Reclaims $76,000...Breakout Soon That Starts The Run](https://www.youtube.com/watch?v=aoTlUw-Fy2M)**
-
-Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FREE Crypto Predictions & Compete Weekly ...
-
-📺 CryptosRUs
-
-👁️ 19K • 👍 1K • 💬 109 • ⏱️ 50:58 • 8h ago
-
----
-
-**[&quot;Chaos Is a Ladder”: Bitwise’s Matt Hougan on Bitcoin’s Path to $1M](https://www.youtube.com/watch?v=v2MuE-dzQiw)**
-
-In today's Markets Outlook, Bitwise CIO Matt Hougan joins CoinDesk's Jennifer Sanasie to make the case for $1 million bitcoin, ...
-
-📺 CoinDesk
-
-👁️ 19K • 👍 440 • 💬 74 • ⏱️ 20:47 • 1d ago
-
----
-
-**[Bitcoin Warning: Why BTC Hasn&#39;t Bottomed — Plus ETH, SOL, XRP &amp; Altcoin Targets](https://www.youtube.com/watch?v=qSxd31mu0UQ)**
-
-Gareth Soloway, Chief Market Strategist at Verified Investing, breaks down the latest crypto price action across Bitcoin, Ethereum, ...
-
-📺 Verified Pro Traders
-
-👁️ 15K • 👍 1K • 💬 132 • ⏱️ 8:13 • 15h ago
+👁️ 14K • 👍 1K • 💬 73 • ⏱️ 16:22 • 7h ago
 
 ---
 
@@ -397,13 +347,63 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Com
 
 ---
 
-**[LIVE: Michael Saylor Analyzes BTC Price | Bitcoin Bull Run &amp; MSTR Stock Discussion](https://www.youtube.com/watch?v=xkBw_qsw68I)**
+**[Bitcoin SURGES to 75k! Is RISK ON Regime Back](https://www.youtube.com/watch?v=hc7TNDccwcs)**
 
-Join Michael Saylor live from the Bitcoin Conference as he delivers a keynote focused on the strategic role of Bitcoin in today's ...
+Bitcoin is back at $75K as risk appetite returns—but the bigger story is unfolding beneath the surface. In this video, Adam ...
 
-📺 Krystle | Perkins On Parkway | DIY & Home Decor
+📺 Swan Bitcoin
 
-👁️ 4K • 👍 3K • 1h ago
+👁️ 9K • 👍 544 • 💬 58 • ⏱️ 9:53 • 12h ago
+
+---
+
+**[Bitcoin Reclaims $76,000...Breakout Soon That Starts The Run](https://www.youtube.com/watch?v=aoTlUw-Fy2M)**
+
+Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FREE Crypto Predictions & Compete Weekly ...
+
+📺 CryptosRUs
+
+👁️ 20K • 👍 1K • 💬 109 • ⏱️ 50:58 • 10h ago
+
+---
+
+**[Everything just changed!! Is Bitcoin READY to EXPLODE?! | EP 1485](https://www.youtube.com/watch?v=5TkxW2Tkb9s)**
+
+And just like that everything is now working in bitcoin's favor!! Bear market over or bull trap?
+
+📺 Simply Bitcoin
+
+👁️ 7K • 👍 342 • 💬 24 • ⏱️ 1:31:21 • 11h ago
+
+---
+
+**[&quot;Chaos Is a Ladder”: Bitwise’s Matt Hougan on Bitcoin’s Path to $1M](https://www.youtube.com/watch?v=v2MuE-dzQiw)**
+
+In today's Markets Outlook, Bitwise CIO Matt Hougan joins CoinDesk's Jennifer Sanasie to make the case for $1 million bitcoin, ...
+
+📺 CoinDesk
+
+👁️ 19K • 👍 445 • 💬 75 • ⏱️ 20:47 • 1d ago
+
+---
+
+**[Bitcoin Warning: Why BTC Hasn&#39;t Bottomed — Plus ETH, SOL, XRP &amp; Altcoin Targets](https://www.youtube.com/watch?v=qSxd31mu0UQ)**
+
+Gareth Soloway, Chief Market Strategist at Verified Investing, breaks down the latest crypto price action across Bitcoin, Ethereum, ...
+
+📺 Verified Pro Traders
+
+👁️ 15K • 👍 1K • 💬 141 • ⏱️ 8:13 • 18h ago
+
+---
+
+**[Bitcoin Is at $75,000. The Why Is What Worries Me. | Dana Love PhD](https://www.youtube.com/watch?v=TqkJdLpSUsU)**
+
+Dana Love, PhD breaks down who actually drove Bitcoin to $75000, and it wasn't retail. On-chain data from Q1 2026 shows ...
+
+📺 Dana Love, PhD
+
+👁️ 2K • 👍 93 • 💬 15 • ⏱️ 1:53 • 10h ago
 
 ---
 
