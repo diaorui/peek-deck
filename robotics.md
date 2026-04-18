@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-18T19:59:12.973990+00:00'
+updated: '2026-04-18T20:49:08.244198+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 18, 2026 at 19:59 UTC  
+**Last Updated:** April 18, 2026 at 20:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Remote-controlled snow plow robot I built in high school after a spine surgery. This project got me into engineering :)](https://www.reddit.com/r/robotics/comments/1sol2fp/remotecontrolled_snow_plow_robot_i_built_in_high/)**
 
-17h ago
+18h ago
 
 ---
 
 **[Beluga-Robot Interaction](https://www.reddit.com/r/robotics/comments/1sou3s2/belugarobot_interaction/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -48,7 +48,7 @@ Robotics research and industry news
 
 tbh ive been messing around with llms for a bit but got super bored of just typing into web interfaces. wanted something that actually sat on my desk and felt kinda 'alive' instead of just another thin wrapper. so basically i started building this prototype. calling it kitto for now. its a cyberpunk desktop companion or digital pet thing. the idea was to take a standard ai agent but give it an actual physical presence. hardware-wise its running on an esp32s3+esp32p4. eventually im going to port the custom OS to a linux board, but getting it running on a microcontroller has definately been a fun constraint. really didnt want the screen to look like a cheap toy just looping a pre-rendered gif. all the animations are driven by code. im currently pulling raw audio buffers and mapping amplitude/freq peaks to specific sprite frames for the mouth. so when it talks back to you to read the weather, set an alarm, or send an email (like in the video), it does real-time lip-sync and expression syncing based on tone. also threw in some classic digital pet mechanics so you can feed it or whatever. still a massive work in progress. getting the lip-sync to not look completely janky took way too much trial and error. latency is my biggest headache right now. pinging the api, getting the TTS audio back, and triggering the animation states fast enough to not break the illusion is brutal on this hardware.
 
-4h ago
+5h ago
 
 ---
 
@@ -56,7 +56,7 @@ tbh ive been messing around with llms for a bit but got super bored of just typi
 
 NVIDIA Hugging Face blog post: https://huggingface.co/blog/nvidia/gr00t-n1-7 Models: https://huggingface.co/collections/nvidia/gr00t-n17 GitHub: https://github.com/NVIDIA/Isaac-GR00T From NVIDIA Robotics on 𝕏: https://x.com/NVIDIARobotics/status/2045172389244240209
 
-9h ago
+10h ago
 
 ---
 
@@ -70,7 +70,7 @@ NVIDIA Hugging Face blog post: https://huggingface.co/blog/nvidia/gr00t-n1-7 Mod
 
 So I'm making a robot to spray pesticide on home lawns. I want it automated so I can just supervise. I wanna make the robot know the borders of the robot by using UWB tags and stuff. I have a 5 gallon tank and I have a 2nd gen prototype ready. I wanna use a Raspberry Pi and so which one should I use?
 
-1h ago
+2h ago
 
 ---
 
@@ -78,7 +78,7 @@ So I'm making a robot to spray pesticide on home lawns. I want it automated so I
 
 Hi everyone, Long time lurker here. I see many people learning about robotics through hobby projects (myself included) and I wanted to start sharing things that I've learned that people might find interesting or useful for their projects. This post is about servo calibration. When you buy cheap servos, you might not get the accuracy you need because there are variations between each unit. To get around this, you just need to rotate the servo to known positions and record the PWM value that takes the servo to those positions. This mapping yields a relationship between PWM and servo angle for that particular unit. https://preview.redd.it/26bqtn03qyvg1.png?width=614&format=png&auto=webp&s=3caf76f356cf4b993cdb0c9bbcd9835c720db032 Check out my article on Medium: https://medium.com/@ianqyhong/servo-calibration-4ea1d43c46a6 Let me know if you found this interesting, useful, completely useless, or any other feedback!
 
-5h ago
+6h ago
 
 ---
 
@@ -90,7 +90,7 @@ Hi everyone, Long time lurker here. I see many people learning about robotics th
 
 **[Solving Optimal Control Problems via Indirect Single Shooting](https://www.reddit.com/r/robotics/comments/1sos0iv/solving_optimal_control_problems_via_indirect/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -110,7 +110,7 @@ From Physical Intelligence on 𝕏 (thread): https://x.com/physical_int/status/2
 
 The new model, called π0.7, represents what the company describes as an early but meaningful step toward the long-sought goal of a general-purpose robot brain.
 
-TechCrunch • 1d ago
+TechCrunch • 2d ago
 
 ---
 
@@ -119,28 +119,6 @@ TechCrunch • 1d ago
 Your weekly selection of awesome robot videos
 
 IEEE Spectrum • 2d ago
-
----
-
-**[China humanoid robot half-marathon to showcase technical leaps](https://www.reuters.com/world/asia-pacific/china-humanoid-robot-half-marathon-showcase-technical-leaps-2026-04-18/)**
-
-Reuters • 18h ago
-
----
-
-**[Disturbing video shows humanoid robots preparing for border patrol duties](https://www.earth.com/news/humanoid-robots-walker-s2-preparing-for-border-patrol-duty-china-vietnam/)**
-
-Walker S2 is an adult-sized humanoid robot with legs, a torso, and arms. China is sending these robots to patrol their border with Vietnam.
-
-Earth.com • 1d ago
-
----
-
-**[Run, Robot, Run: Investors eye Beijing's humanoid half-marathon for breakouts (HUMN:BATS)](https://seekingalpha.com/news/4576096-run-robot-run-investors-eye-beijings-humanoid-half-marathon-for-breakouts)**
-
-Humanoid robots race Beijing’s half-marathon as Alibaba, Honor and Unitree showcase embodied AI, autonomy and battery tech—see implications and related ETFs.
-
-Seeking Alpha • 8h ago
 
 ---
 
@@ -160,11 +138,31 @@ The Washington Post • 1d ago
 
 ---
 
-**[ECU Health doctor first in state to use robotics during colorectal procedure](https://www.witn.com/2026/04/17/ecu-health-doctor-first-state-use-robotics-during-colorectal-procedure/)**
+**[China humanoid robot half-marathon to showcase technical leaps](https://www.reuters.com/world/asia-pacific/china-humanoid-robot-half-marathon-showcase-technical-leaps-2026-04-18/)**
 
-Dr. Warqaa Akram with ECU Health Cancer Care used the da Vinci Single Port robotic system during two single-port surgeries on March 16.
+Reuters • 19h ago
 
-WITN • 1d ago
+---
+
+**[Disturbing video shows humanoid robots preparing for border patrol duties](https://www.earth.com/news/humanoid-robots-walker-s2-preparing-for-border-patrol-duty-china-vietnam/)**
+
+Walker S2 is an adult-sized humanoid robot with legs, a torso, and arms. China is sending these robots to patrol their border with Vietnam.
+
+Earth.com • 1d ago
+
+---
+
+**[Run, Robot, Run: Investors eye Beijing's humanoid half-marathon for breakouts (HUMN:BATS)](https://seekingalpha.com/news/4576096-run-robot-run-investors-eye-beijings-humanoid-half-marathon-for-breakouts)**
+
+Humanoid robots race Beijing’s half-marathon as Alibaba, Honor and Unitree showcase embodied AI, autonomy and battery tech—see implications and related ETFs.
+
+Seeking Alpha • 9h ago
+
+---
+
+**[Over 100 teams compete for New England Robotics title in West Springfield](https://www.wwlp.com/news/local-news/hampden-county/over-100-teams-compete-for-new-england-robotics-title-in-west-springfield/)**
+
+WWLP • 18h ago
 
 ---
 
@@ -242,7 +240,7 @@ AI robots failing and glitching 2026 is becoming impossible to ignore. From huma
 
 📺 MindSeeded
 
-👁️ 71K • 👍 5K • 💬 747 • ⏱️ 14:10 • 21h ago
+👁️ 71K • 👍 5K • 💬 747 • ⏱️ 14:10 • 22h ago
 
 ---
 
@@ -282,7 +280,7 @@ nefirst.org/nedcmp.
 
 📺 New England FIRST
 
-👁️ 9K • ⏱️ 11:12:23 • 12h ago
+👁️ 9K • ⏱️ 11:12:23 • 13h ago
 
 ---
 

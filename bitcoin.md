@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-18T19:59:12.964817+00:00'
+updated: '2026-04-18T20:49:08.236174+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
+- videos
 - social
 - cryptocurrency
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 18, 2026 at 19:59 UTC  
+**Last Updated:** April 18, 2026 at 20:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.0%  
-**7d:** +7.2%  
-**30d:** +7.4%  
+**24h:** -2.2%  
+**7d:** +7.1%  
+**30d:** +7.5%  
 **90d:** -18.2%  
-**1y:** -11.1%  
+**1y:** -11.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1518.62B
+**Market Cap:** $1517.63B
 Rank #1
 
-**Circulating Supply:** 20,017,609 BTC
+**Circulating Supply:** 20,017,653 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--39.8%
+-39.9%
 
 **All-Time Low:** $67.81
-+111769.9%
++111719.8%
 
 ---
 
@@ -95,7 +95,7 @@ I have a group of friends that watched me make a ton of money during the 2016-20
 
 **[Bitcoin is dead](https://www.reddit.com/r/Bitcoin/comments/1socs7g/bitcoin_is_dead/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -103,7 +103,7 @@ I have a group of friends that watched me make a ton of money during the 2016-20
 
 Central bank greenlights regulated crypto access while keeping strict curbs on balance-sheet exposure
 
-🔗 [coindesk.com](https://www.coindesk.com/policy/2026/04/15/pakistan-lifts-seven-year-ban-allowing-banks-to-service-virtual-asset-providers) • 8h ago
+🔗 [coindesk.com](https://www.coindesk.com/policy/2026/04/15/pakistan-lifts-seven-year-ban-allowing-banks-to-service-virtual-asset-providers) • 9h ago
 
 ---
 
@@ -111,7 +111,13 @@ Central bank greenlights regulated crypto access while keeping strict curbs on b
 
 Genuinely so happy to be done, I’ve reached my goal amount of btc to feel comfortable. I won’t lie, I make minimum wage for LA standard and ima stop buying and let it ride. Could hypothetically keep buying more but I truly have the next goal of getting 10k in fiat in my HYSA before touching any market. Sold all my stock to get to my goal and don’t regret it. Letting it ride and won’t open my wallets till I reach my saving goal. Thank you for all your help and advice, never been prouder.
 
-7h ago
+8h ago
+
+---
+
+**[Do the maths!!](https://www.reddit.com/r/Bitcoin/comments/1sosymz/do_the_maths/)**
+
+11h ago
 
 ---
 
@@ -119,13 +125,15 @@ Genuinely so happy to be done, I’ve reached my goal amount of btc to feel comf
 
 I'm so long.
 
-20h ago
+21h ago
 
 ---
 
-**[Do the maths!!](https://www.reddit.com/r/Bitcoin/comments/1sosymz/do_the_maths/)**
+**[Recommended non kyc exchanges?](https://www.reddit.com/r/Bitcoin/comments/1sp7q9a/recommended_non_kyc_exchanges/)**
 
-10h ago
+Been out of the game for a few years. Getting back in and privacy still matters to me not hiding anything, just don't like handing over personal data. Are there any reliable non-KYC exchanges that work well ? Just looking for something simple to get started again. Thanks.
+
+50m ago
 
 ---
 
@@ -133,7 +141,7 @@ I'm so long.
 
 Trying to understand how people approach Bitcoin long term. Do you keep adding over time or just hold and wait?
 
-5h ago
+6h ago
 
 ---
 
@@ -141,15 +149,7 @@ Trying to understand how people approach Bitcoin long term. Do you keep adding o
 
 Stupid narratives
 
-15h ago
-
----
-
-**[What is the amount of BTC that you never want to get rid of?](https://www.reddit.com/r/Bitcoin/comments/1sosa3h/what_is_the_amount_of_btc_that_you_never_want_to/)**
-
-Personally its 0.05 not a lot but i still believe in btc insted of fiat thats why im almost not having cash
-
-11h ago
+16h ago
 
 ---
 
@@ -157,9 +157,57 @@ Personally its 0.05 not a lot but i still believe in btc insted of fiat thats wh
 
 ## Google News: "bitcoin"
 
+**[When Quantum Computers Come for Your Bitcoin: What Classical Property Law Says Happens Next](https://bitcoinmagazine.com/legal/when-quantum-computers-come-for-your-bitcoin-what-classical-property-law-says-happens-next)**
+
+A look at the legal aspects and relevant laws regarding a hypothetical theft of bitcoin utilizing quantum computers.
+
+Bitcoin Magazine • 1d ago
+
+---
+
+**[How a quantum computer can be used to actually steal your bitcoin in '9 minutes'](https://www.coindesk.com/tech/2026/04/18/how-a-quantum-computer-can-be-used-to-actually-steal-your-bitcoin-in-9-minutes)**
+
+Part one explained the physics of quantum computing. This piece explains the target — how bitcoin's encryption works, why a quantum algorithm breaks it, and what Google's paper changed about the timeline.
+
+CoinDesk • 16h ago
+
+---
+
+**[Satoshi Nakamoto is one of the richest people in the world, but a proposed update could lock his Bitcoin away forever](https://www.dlnews.com/articles/web3/devs-propose-bitcoin-freeze-amid-quantum-computer-fears/)**
+
+New Bitcoin upgrade proposal splits opinions. Developers say freezing Bitcoin in vulnerable wallets is necessary to defend against a potential quantum attack.  A future quantum computer could threaten the $1.5 trillion blockchain.
+
+dlnews.com • 2d ago
+
+---
+
 **[‘Buy Bitcoin’—Elon Musk’s ‘Massive’ U.S. Dollar Warning Fuels Wild Crypto Price Predictions](https://www.forbes.com/sites/digital-assets/2026/04/18/buy-bitcoin-elon-musks-massive-us-dollar-warning-fuels-wild-crypto-price-predictions/)**
 
-Forbes • 8h ago
+Forbes • 9h ago
+
+---
+
+**[Better Buy: Bitcoin (BTC) or Bittensor (TAO)?](https://www.fool.com/investing/2026/04/18/better-buy-bitcoin-or-bittensor/)**
+
+Bittensor may be outperforming Bitcoin in 2026, but how much longer can it last?
+
+The Motley Fool • 1h ago
+
+---
+
+**[Is CleanSpark’s (CLSK) Bitcoin Output Reinforcing an Efficiency Narrative or Masking Scale Trade-offs?](https://finance.yahoo.com/markets/crypto/articles/cleanspark-clsk-bitcoin-output-reinforcing-190322583.html)**
+
+In April 2026, CleanSpark reported unaudited March production of 658 Bitcoin, with peak single-day output of 23.01 and an average of 21.24 per day. CleanSpark’s CFO, Gary Vecchiarelli, framed Bitcoin’s recent trading range as a normal consolidation phase supported by institutional participation and ETF infrastructure, reinforcing the company’s positioning within the mining ecosystem. We’ll examine how Vecchiarelli’s comments on Bitcoin’s consolidation phase interact with CleanSpark’s...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[From smelters to servers: Alcoa to cash in on crypto’s thirst for energy](https://www.coindesk.com/business/2026/04/18/from-smelters-to-servers-alcoa-to-cash-in-on-crypto-s-thirst-for-energy)**
+
+Alcoa is in advanced negotiations to sell its dormant Massena East smelter in upstate New York to Bitcoin mining firm NYDIG.
+
+CoinDesk • 24m ago
 
 ---
 
@@ -171,63 +219,17 @@ CNBC • 2d ago
 
 ---
 
-**[The Lightning Network isn’t ‘helplessly broken’](https://www.coindesk.com/opinion/2026/04/18/the-lightning-network-isn-t-helplessly-broken)**
-
-Shell argues the network is fixable and proposes a different framing to the recent quantum debate.
-
-CoinDesk • 3h ago
-
----
-
-**[Better Buy: Bitcoin (BTC) or Bittensor (TAO)?](https://www.fool.com/investing/2026/04/18/better-buy-bitcoin-or-bittensor/)**
-
-Bittensor may be outperforming Bitcoin in 2026, but how much longer can it last?
-
-The Motley Fool • 45m ago
-
----
-
-**[Wall Street’s Biggest Wealth Manager Now Has a Public Bitcoin Wallet](https://finance.yahoo.com/markets/crypto/articles/wall-street-biggest-wealth-manager-170000367.html)**
-
-Arkham Intelligence identified Morgan Stanley's MSBT Bitcoin ETF wallets, enabling real-time on-chain BTC tracking.
-
-Yahoo Finance • 2h ago
-
----
-
 **[Bitcoin Had a Great Week. Crypto-Linked Stocks Did Even Better](https://www.investopedia.com/bitcoin-had-a-great-week-crypto-linked-stocks-did-even-better-mstr-hood-coin-11952864)**
 
 The price of the world's largest cryptocurrency rose almost 10% this week, but stocks including Strategy, Coinbase, and Robinhood outpaced those gains amid the risk-on rally.
 
-Investopedia • 23h ago
+Investopedia • 1d ago
 
 ---
 
 **[Bitcoin’s Greatest Mystery](https://www.nytimes.com/2026/04/16/world/bitcoin-satoshi-adam-back-israel-lebanon-ceasefire.html)**
 
 The New York Times • 1d ago
-
----
-
-**[Current price of Bitcoin for April 17, 2026](https://fortune.com/article/price-of-bitcoin-04-17-2026/)**
-
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 1d ago
-
----
-
-**[Bitcoin Price Surges Amid Epic Strategy Buying Spree](https://www.investors.com/news/bitcoin-price-strategy-buying-power-mstr-stock-strc-issuance-saylor/)**
-
-Investor's Business Daily • 23h ago
-
----
-
-**[Michael Saylor's MSTR bitcoin (BTC) holdings are back in profit](https://www.coindesk.com/markets/2026/04/17/strategy-back-in-profit-as-bitcoin-hits-two-and-a-half-month-high-above-usd76-300)**
-
-Bitcoin climbed above its 100-day moving average, while Strategy moves back above its 200-week trend level.
-
-CoinDesk • 1d ago
 
 ---
 
@@ -275,7 +277,7 @@ C64 Bitcoin wallet. Contribute to geek197/c64wallet development by creating an a
 
 **[Digital Archaeology: where does Bitcoin's 21M come from?](https://news.ycombinator.com/item?id=47776334)**
 
-⬆️ 2 • 💬 1 • 3d ago • [bayinformationsystems.substack.com](https://bayinformationsystems.substack.com/p/digital-archaeology-bitcoins-21-million)
+⬆️ 2 • 💬 2 • 3d ago • [bayinformationsystems.substack.com](https://bayinformationsystems.substack.com/p/digital-archaeology-bitcoins-21-million)
 
 ---
 
@@ -289,7 +291,7 @@ C64 Bitcoin wallet. Contribute to geek197/c64wallet development by creating an a
 
 A way to enable Quantum Safe Bitcoin transactions that is available today.  - avihu28/Quantum-Safe-Bitcoin-Transactions
 
-⬆️ 2 • 💬 0 • 5d ago • [GitHub](https://github.com/avihu28/Quantum-Safe-Bitcoin-Transactions)
+⬆️ 2 • 💬 0 • 6d ago • [GitHub](https://github.com/avihu28/Quantum-Safe-Bitcoin-Transactions)
 
 ---
 
@@ -319,7 +321,7 @@ Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=Al
 
 📺 Altcoin Daily
 
-👁️ 41K • 👍 2K • 💬 212 • ⏱️ 8:39 • 20h ago
+👁️ 41K • 👍 2K • 💬 212 • ⏱️ 8:39 • 21h ago
 
 ---
 
@@ -329,7 +331,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 25K • 👍 1K • 💬 16 • ⏱️ 57:41 • 6h ago
+👁️ 25K • 👍 1K • 💬 16 • ⏱️ 57:41 • 7h ago
 
 ---
 
@@ -339,7 +341,7 @@ A former Treasury Secretary warns the next crisis could be worse than 2008. Bond
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 2K • 💬 100 • ⏱️ 16:22 • 21h ago
+👁️ 23K • 👍 2K • 💬 100 • ⏱️ 16:22 • 22h ago
 
 ---
 
@@ -379,7 +381,7 @@ Sell Your FTX Claim w/ FTX Creditor: https://www.ftxcreditor.com Follow Louis on
 
 📺 Aaron Bennett
 
-👁️ 4K • 👍 244 • 💬 127 • ⏱️ 8:08 • 18h ago
+👁️ 4K • 👍 244 • 💬 127 • ⏱️ 8:08 • 19h ago
 
 ---
 
