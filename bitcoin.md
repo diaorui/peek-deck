@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-18T13:16:48.490998+00:00'
+updated: '2026-04-18T14:09:42.227089+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
+- videos
 - social
 - cryptocurrency
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 18, 2026 at 13:16 UTC  
+**Last Updated:** April 18, 2026 at 14:09 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Bitcoin is dead](https://www.reddit.com/r/Bitcoin/comments/1socs7g/bitcoin_is_dead/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 I'm so long.
 
-13h ago
+14h ago
 
 ---
 
@@ -95,7 +95,7 @@ I'm so long.
 
 Central bank greenlights regulated crypto access while keeping strict curbs on balance-sheet exposure
 
-🔗 [coindesk.com](https://www.coindesk.com/policy/2026/04/15/pakistan-lifts-seven-year-ban-allowing-banks-to-service-virtual-asset-providers) • 1h ago
+🔗 [coindesk.com](https://www.coindesk.com/policy/2026/04/15/pakistan-lifts-seven-year-ban-allowing-banks-to-service-virtual-asset-providers) • 2h ago
 
 ---
 
@@ -103,7 +103,7 @@ Central bank greenlights regulated crypto access while keeping strict curbs on b
 
 Stupid narratives
 
-8h ago
+9h ago
 
 ---
 
@@ -119,7 +119,7 @@ Genuinely so happy to be done, I’ve reached my goal amount of btc to feel comf
 
 Hey everyone, I’ve been buying Bitcoin since 2012/2013. I’ve lived through it all, studied all cycles in detail, and I’m usually dead silent on Reddit, I just lurk, watch, and stay out of the noise. Never really comment. But… This feels massively like the 2013 cycle and the 2021 cycle. We’d hit a top, then a brutal dip where everyone piled into the “lower lows incoming,” “it’s over,” narrative. Capitulation everywhere. Then, surprise, it bounced hard and went on to make new cycle highs. That’s exactly what I see playing out right now. We topped at roughly $126,200 in early October 2025. Since then we’ve had the classic post-peak flush, fear, and bearish calls for even lower prices. But to me this looks like the same retest/bounce setup we’ve seen before. The crowd is getting shaken out again right before the next leg higher. In my experience, this is when things get very bullish. A lot of people are going to sit on the sidelines waiting for “the real bottom” that never comes. People think the cycle top has com and we have entered bear, but the market is maturing and becoming longer. Wouldn’t surprise me at all if we see the cycle top sometime in late 2026 or 2027 in the $180k–$220k range. Just my two sats after watching this market for over a decade. Do your own research, never financial advice… but damn if this doesn’t feel familiar in the best possible way. Stay safe out there. (And yeah… still not selling.)
 
-21h ago
+22h ago
 
 ---
 
@@ -127,7 +127,7 @@ Hey everyone, I’ve been buying Bitcoin since 2012/2013. I’ve lived through i
 
 As I recovered an old email account I found I had a coinbase account I had completely forgotten about. It’s not much, compared to other folks in this sub, but it has .25 BTC and other currencies from forks in the past 9 years since I bought it. I had completely forgotten about it and, because of it, never declared in my tax returns. Apparently I should have done that and submit an ID to coinbase. I haven’t done anything yet, or touched the currencies. Am I fucked? or can I just submit my ID and declare in the tax return next year? Apologies for my ignorance, I have stayed away from crypto since I bought .25 BTC back in 2017. All advise is appreciated.
 
-16h ago
+17h ago
 
 ---
 
@@ -143,13 +143,13 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 I am new to crypto. Is this the right time to buy BTC since I see the chart it started to rebound?
 
-4h ago
+5h ago
 
 ---
 
 **[this is really interesting](https://www.reddit.com/r/Bitcoin/comments/1so9tg4/this_is_really_interesting/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -161,7 +161,7 @@ I am new to crypto. Is this the right time to buy BTC since I see the chart it s
 
 Truss criticized central banking and defended her mini-budget, suggesting bitcoin and a CPAC UK conference could help push for economic reform.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -169,7 +169,7 @@ CoinDesk • 1h ago
 
 Charles Schwab is rolling out crypto trading, allowing clients to buy bitcoin and ether through a new arm called Schwab Crypto.
 
-CNBC • 1d ago
+CNBC • 2d ago
 
 ---
 
@@ -177,7 +177,7 @@ CNBC • 1d ago
 
 One of the biggest short liquidations 2026 wiped $593 million in bearish bets overnight. Saturday afternoon as Iran reportedly reversed the Hormuz reopening.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -185,13 +185,13 @@ CoinDesk • 1h ago
 
 Geopolitical tensions were easing considerably... at least, for the moment.
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 16h ago
 
 ---
 
 **['Banks Are Coming'—Wall Street Bitcoin Rush Targets $189K](https://www.forbes.com/sites/digital-assets/2026/04/17/banks-are-coming-wall-street-bitcoin-rush-targets-189k/)**
 
-Forbes • 20h ago
+Forbes • 21h ago
 
 ---
 
@@ -199,7 +199,7 @@ Forbes • 20h ago
 
 Don't count out Bitcoin, which still has an outside chance of doubling in value this year.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -215,13 +215,13 @@ Fortune • 1d ago
 
 Rep. Sheri Biggs disclosed a purchase of up to $250,000 in BlackRock’s iShares Bitcoin Trust ETF for the second time in a year.
 
-The Block • 19h ago
+The Block • 20h ago
 
 ---
 
 **[Bitcoin Price Surges Amid Epic Strategy Buying Spree](https://www.investors.com/news/bitcoin-price-strategy-buying-power-mstr-stock-strc-issuance-saylor/)**
 
-Investor's Business Daily • 16h ago
+Investor's Business Daily • 17h ago
 
 ---
 
@@ -229,7 +229,7 @@ Investor's Business Daily • 16h ago
 
 Event driven focus on Strategy stock Strategy (MSTR) has drawn fresh attention after recent share price moves, with a gain of around 12% in the past day and almost 30% over the past week. Those short term swings come alongside a month return of about 18% but a past 3 months decline of roughly 4%. This has prompted investors to reassess how its bitcoin treasury focus and software business fit into their portfolios. See our latest analysis for Strategy. At a share price of $166.52, the recent 7...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -241,7 +241,7 @@ Yahoo Finance • 2h ago
 
 The average production cost was sitting at $88,000 per bitcoin in mid-March, according to Checkonchain's difficulty regression model.
 
-⬆️ 244 • 💬 229 • 6d ago • [coindesk.com](https://www.coindesk.com/markets/2026/03/22/bitcoin-miners-are-losing-usd19-000-on-every-btc-produced-as-difficulty-drops-7-8)
+⬆️ 244 • 💬 229 • 7d ago • [coindesk.com](https://www.coindesk.com/markets/2026/03/22/bitcoin-miners-are-losing-usd19-000-on-every-btc-produced-as-difficulty-drops-7-8)
 
 ---
 
@@ -321,7 +321,7 @@ Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=Al
 
 📺 Altcoin Daily
 
-👁️ 34K • 👍 2K • 💬 155 • ⏱️ 8:39 • 14h ago
+👁️ 34K • 👍 2K • 💬 155 • ⏱️ 8:39 • 15h ago
 
 ---
 
@@ -331,7 +331,7 @@ A former Treasury Secretary warns the next crisis could be worse than 2008. Bond
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 1K • 💬 89 • ⏱️ 16:22 • 15h ago
+👁️ 21K • 👍 1K • 💬 89 • ⏱️ 16:22 • 16h ago
 
 ---
 
@@ -351,7 +351,7 @@ According to a new report from JPMorgan Chase, the much-anticipated CLARITY Act 
 
 📺 Paul Barron Network
 
-👁️ 94K • 👍 5K • 💬 257 • ⏱️ 13:57 • 19h ago
+👁️ 94K • 👍 5K • 💬 257 • ⏱️ 13:57 • 20h ago
 
 ---
 
@@ -361,7 +361,7 @@ Are you ready? CRYPTO RETIREMENT ACCOUNT HERE Sign up for iTrustCapital and get 
 
 📺 Crypto Jebb
 
-👁️ 4K • 👍 241 • 💬 29 • ⏱️ 8:10 • 17h ago
+👁️ 4K • 👍 241 • 💬 29 • ⏱️ 8:10 • 18h ago
 
 ---
 
@@ -371,7 +371,7 @@ Bitcoin is back at $75K as risk appetite returns—but the bigger story is unfol
 
 📺 Swan Bitcoin
 
-👁️ 10K • 👍 584 • 💬 56 • ⏱️ 9:53 • 20h ago
+👁️ 10K • 👍 584 • 💬 56 • ⏱️ 9:53 • 21h ago
 
 ---
 
@@ -381,7 +381,7 @@ This is Unlike ANYTHING Crypto Has Seen Before (i got it wrong) Crypto Analyst D
 
 📺 Altcoin Daily
 
-👁️ 10K • 👍 233 • 💬 15 • ⏱️ 0:59 • 20h ago
+👁️ 10K • 👍 233 • 💬 15 • ⏱️ 0:59 • 21h ago
 
 ---
 
@@ -391,7 +391,7 @@ Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FR
 
 📺 CryptosRUs
 
-👁️ 21K • 👍 1K • 💬 225 • ⏱️ 50:58 • 18h ago
+👁️ 21K • 👍 1K • 💬 225 • ⏱️ 50:58 • 19h ago
 
 ---
 

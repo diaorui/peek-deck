@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-18T13:16:48.500004+00:00'
+updated: '2026-04-18T14:09:42.235070+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 18, 2026 at 13:16 UTC  
+**Last Updated:** April 18, 2026 at 14:09 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,19 +34,19 @@ Robotics research and industry news
 
 **[Remote-controlled snow plow robot I built in high school after a spine surgery. This project got me into engineering :)](https://www.reddit.com/r/robotics/comments/1sol2fp/remotecontrolled_snow_plow_robot_i_built_in_high/)**
 
-10h ago
+11h ago
 
 ---
 
 **[Beluga-Robot Interaction](https://www.reddit.com/r/robotics/comments/1sou3s2/belugarobot_interaction/)**
 
-2h ago
+3h ago
 
 ---
 
 **[The race ended before it got even started for this robot](https://www.reddit.com/r/robotics/comments/1so68c6/the_race_ended_before_it_got_even_started_for/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -54,7 +54,7 @@ Robotics research and industry news
 
 NVIDIA Hugging Face blog post: https://huggingface.co/blog/nvidia/gr00t-n1-7 Models: https://huggingface.co/collections/nvidia/gr00t-n17 GitHub: https://github.com/NVIDIA/Isaac-GR00T From NVIDIA Robotics on 𝕏: https://x.com/NVIDIARobotics/status/2045172389244240209
 
-2h ago
+3h ago
 
 ---
 
@@ -66,7 +66,7 @@ NVIDIA Hugging Face blog post: https://huggingface.co/blog/nvidia/gr00t-n1-7 Mod
 
 **[Solving Optimal Control Problems via Indirect Single Shooting](https://www.reddit.com/r/robotics/comments/1sos0iv/solving_optimal_control_problems_via_indirect/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -80,7 +80,7 @@ From Physical Intelligence on 𝕏 (thread): https://x.com/physical_int/status/2
 
 **[3D printed monster motor that lifts + 15kg!](https://www.reddit.com/r/robotics/comments/1so1mv7/3d_printed_monster_motor_that_lifts_15kg/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -88,7 +88,7 @@ From Physical Intelligence on 𝕏 (thread): https://x.com/physical_int/status/2
 
 upgraded our robot: added a shell, cameras, onboard compute, basically everything it was missing. way heavier and way more complex now. got it doing continuous autonomous stair jumping in sim. no human input, policy decides everything on its own. but most of what we had working on the old rabbit bot just didn't carry over, had to retrain almost everything. still haven't gotten it to jump on the real robot yet, that's the next battle. right now we're deep in logs and calibration trying to close the gap. the usual lol btw we've been reading through all the questions you guys left on our previous posts, a lot of really good ones about sim2real, reward shaping, training workflow, etc. since RL questions came up the most, we're drafting with a writeup on that, sharing what we've learned and the mistakes we made along the way lol. should be up on r/MondoRobotics in a few days. not limited to RL though, if there's anything else you've been curious about, drop it in the comments. we'll try to cover what we can.
 
-22h ago
+23h ago
 
 ---
 
@@ -130,7 +130,7 @@ The Conversation • 21h ago
 
 **[China humanoid robot half-marathon to showcase technical leaps](https://www.reuters.com/world/asia-pacific/china-humanoid-robot-half-marathon-showcase-technical-leaps-2026-04-18/)**
 
-Reuters • 12h ago
+Reuters • 13h ago
 
 ---
 
@@ -154,7 +154,7 @@ Gulf Coast News and Weather • 1d ago
 
 Tech firms aim to trigger a robot revolution with video of humans doing housework. Gig workers are paid up to $25 an hour to film themselves doing various tasks.
 
-The Washington Post • 21h ago
+The Washington Post • 22h ago
 
 ---
 
@@ -200,7 +200,7 @@ Physical Intelligence is building a foundation model that can control any robot 
 
 📺 Y Combinator
 
-👁️ 33K • 👍 795 • 💬 48 • ⏱️ 49:27 • 1d ago
+👁️ 33K • 👍 795 • 💬 48 • ⏱️ 49:27 • 2d ago
 
 ---
 
@@ -238,7 +238,7 @@ Try Seedance 2.0 with Claude on Higgsfield: https://higgsfield.ai/s/seedance-2-0
 
 📺 Gavin Phillips
 
-👁️ 1K • 👍 16 • ⏱️ 0:43 • 16h ago
+👁️ 1K • 👍 16 • ⏱️ 0:43 • 17h ago
 
 ---
 
