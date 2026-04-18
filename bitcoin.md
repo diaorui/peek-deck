@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-17T23:40:01.811115+00:00'
+updated: '2026-04-18T02:31:12.056053+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - social
+- videos
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 17, 2026 at 23:40 UTC  
+**Last Updated:** April 18, 2026 at 02:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,317.00
+### $77,272.66
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +3.1%  
-**7d:** +6.0%  
-**30d:** +10.6%  
-**90d:** -17.4%  
-**1y:** -8.4%  
+**24h:** +3.6%  
+**7d:** +9.3%  
+**30d:** +9.7%  
+**90d:** -16.5%  
+**1y:** -9.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1542.50B
+**Market Cap:** $1548.43B
 Rank #1
 
-**Circulating Supply:** 20,017,240 BTC
+**Circulating Supply:** 20,017,309 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--38.9%
+-38.6%
 
 **All-Time Low:** $67.81
-+113548.4%
++113970.2%
 
 ---
 
@@ -79,6 +79,14 @@ Rank #1
 
 **[Bitcoin is dead](https://www.reddit.com/r/Bitcoin/comments/1socs7g/bitcoin_is_dead/)**
 
+5h ago
+
+---
+
+**[Let's FCKN Go](https://www.reddit.com/r/Bitcoin/comments/1sogycs/lets_fckn_go/)**
+
+I'm so long.
+
 3h ago
 
 ---
@@ -87,13 +95,33 @@ Rank #1
 
 Hey everyone, I’ve been buying Bitcoin since 2012/2013. I’ve lived through it all, studied all cycles in detail, and I’m usually dead silent on Reddit, I just lurk, watch, and stay out of the noise. Never really comment. But… This feels massively like the 2013 cycle and the 2021 cycle. We’d hit a top, then a brutal dip where everyone piled into the “lower lows incoming,” “it’s over,” narrative. Capitulation everywhere. Then, surprise, it bounced hard and went on to make new cycle highs. That’s exactly what I see playing out right now. We topped at roughly $126,200 in early October 2025. Since then we’ve had the classic post-peak flush, fear, and bearish calls for even lower prices. But to me this looks like the same retest/bounce setup we’ve seen before. The crowd is getting shaken out again right before the next leg higher. In my experience, this is when things get very bullish. A lot of people are going to sit on the sidelines waiting for “the real bottom” that never comes. People think the cycle top has com and we have entered bear, but the market is maturing and becoming longer. Wouldn’t surprise me at all if we see the cycle top sometime in late 2026 or 2027 in the $180k–$220k range. Just my two sats after watching this market for over a decade. Do your own research, never financial advice… but damn if this doesn’t feel familiar in the best possible way. Stay safe out there. (And yeah… still not selling.)
 
-8h ago
+10h ago
+
+---
+
+**[this is really interesting](https://www.reddit.com/r/Bitcoin/comments/1so9tg4/this_is_really_interesting/)**
+
+7h ago
+
+---
+
+**[Recovered forgotten coinbase account with .25 BTC](https://www.reddit.com/r/Bitcoin/comments/1sod7x0/recovered_forgotten_coinbase_account_with_25_btc/)**
+
+As I recovered an old email account I found I had a coinbase account I had completely forgotten about. It’s not much, compared to other folks in this sub, but it has .25 BTC and other currencies from forks in the past 9 years since I bought it. I had completely forgotten about it and, because of it, never declared in my tax returns. Apparently I should have done that and submit an ID to coinbase. I haven’t done anything yet, or touched the currencies. Am I fucked? or can I just submit my ID and declare in the tax return next year? Apologies for my ignorance, I have stayed away from crypto since I bought .25 BTC back in 2017. All advise is appreciated.
+
+5h ago
+
+---
+
+**[Every time they say BTC is dead, it just climbs another $4k.](https://www.reddit.com/r/Bitcoin/comments/1so2gyt/every_time_they_say_btc_is_dead_it_just_climbs/)**
+
+12h ago
 
 ---
 
 **[The current situation in one picture](https://www.reddit.com/r/Bitcoin/comments/1so1wy0/the_current_situation_in_one_picture/)**
 
-9h ago
+12h ago
 
 ---
 
@@ -101,19 +129,13 @@ Hey everyone, I’ve been buying Bitcoin since 2012/2013. I’ve lived through i
 
 What do you guys think... will it HODL?
 
-10h ago
+13h ago
 
 ---
 
-**[Every time they say BTC is dead, it just climbs another $4k.](https://www.reddit.com/r/Bitcoin/comments/1so2gyt/every_time_they_say_btc_is_dead_it_just_climbs/)**
+**[I’m Building a Bitcoin Company](https://www.reddit.com/r/Bitcoin/comments/1sogvxt/im_building_a_bitcoin_company/)**
 
-9h ago
-
----
-
-**[this is really interesting](https://www.reddit.com/r/Bitcoin/comments/1so9tg4/this_is_really_interesting/)**
-
-4h ago
+3h ago
 
 ---
 
@@ -121,31 +143,7 @@ What do you guys think... will it HODL?
 
 Hahahah trains leaving the station 😂😂 where are all the 30k people at now ?? Unlucky boys. Better luck next time 🤡✌️
 
-10h ago
-
----
-
-**[The 'Bought in 2012' Fallacy](https://www.reddit.com/r/Bitcoin/comments/1sodh69/the_bought_in_2012_fallacy/)**
-
-Is it just me, or are more and more people saying they bought Bitcoin over a decade ago? I don't know, it's a bit tiring reading certain posts that start by saying they've been holding BTC for X years and then use that as justification for the post. What do you think about this? Edit: I'm only referring to those who use it as justification for giving financial advice. If you're proud of having held for a long time and want to share it, that's not a bad thing, obviously. We all want to have that discipline, patience, and opportunity to share it someday the achievement.
-
-2h ago
-
----
-
-**[What’s one thing about Bitcoin that convinced you it’s here to stay?](https://www.reddit.com/r/Bitcoin/comments/1so2gl9/whats_one_thing_about_bitcoin_that_convinced_you/)**
-
-I've been learning more about Bitcoin lately and curious what clicked for others. What made you believe in it long term?
-
-9h ago
-
----
-
-**[attempting to explain why the world needs bitcoin in under 1 minute. how'd i do?](https://www.reddit.com/r/Bitcoin/comments/1soaenl/attempting_to_explain_why_the_world_needs_bitcoin/)**
-
-I tried to explain why our money is broken in under a minute
-
-🔗 [youtu.be](https://youtu.be/92DyFWpwNQ8) • 4h ago
+13h ago
 
 ---
 
@@ -161,41 +159,9 @@ CNBC • 1d ago
 
 ---
 
-**[Bitcoin’s Greatest Mystery](https://www.nytimes.com/2026/04/16/world/bitcoin-satoshi-adam-back-israel-lebanon-ceasefire.html)**
+**[Bitcoin Price Tops $75,000, XRP, Solana Gain. What's Driving the Crypto Rally.](https://www.barrons.com/articles/bitcoin-price-xrp-solana-cryptos-strategy-robinhood-today-96c8568b)**
 
-The New York Times • 19h ago
-
----
-
-**[Why Bitcoin Made a Breakthrough on Friday](https://www.fool.com/investing/2026/04/17/why-bitcoin-made-a-breakthrough-on-friday/)**
-
-Geopolitical tensions were easing considerably... at least, for the moment.
-
-The Motley Fool • 2h ago
-
----
-
-**[Bitcoin Cracks 7-Month Ceiling. Can Bulls Push It Higher?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-cracks-7-month-ceiling-211136484.html)**
-
-The price of Bitcoin breaks a seven-month downtrend as geopolitical shifts and prediction markets point to $84K next.
-
-Yahoo Finance • 2h ago
-
----
-
-**[Why Bitcoin Made a Breakthrough on Friday](https://finance.yahoo.com/markets/crypto/articles/why-bitcoin-made-breakthrough-friday-215028745.html)**
-
-Geopolitical tensions were easing considerably... at least, for the moment.
-
-Yahoo Finance • 1h ago
-
----
-
-**[The O.C. Guy Says Bitcoin Is ‘Still a Ponzi Scheme’](https://nymag.com/intelligencer/article/the-ocs-ben-mckenzie-says-bitcoin-is-lying-to-you-for-money.html)**
-
-“Not only gotten away with it, they’ve made a ton of money,” says actor Ben McKenzie, whose doc explores crypto’s crash and Trump-fueled rise.
-
-New York Magazine • 12h ago
+Barron's • 12h ago
 
 ---
 
@@ -203,29 +169,59 @@ New York Magazine • 12h ago
 
 Iran's foreign minister said the Strait of Hormuz will remain completely open for the remainder of the ceasefire.
 
-CoinDesk • 7h ago
+CoinDesk • 10h ago
 
 ---
 
-**[Bitcoin, Stocks Surge as Iran Says Strait of Hormuz Is 'Completely Open'](https://decrypt.co/364725/bitcoin-stocks-surge-iran-strait-hormuz-completely-open)**
+**[Market rally breakdown: Dow Jones, bitcoin, Tesla, and more](https://finance.yahoo.com/video/market-rally-breakdown-dow-jones-bitcoin-tesla-and-more-193947251.html)**
 
-Bitcoin spiked above $77,000 as stock indices set records, following word that Iran's Strait of Hormuz is open during the ceasefire.
+On Friday, the Dow Jones Industrial Average (^DJI) surged over 800 points, while both the S&P 500 (^GSPC) and Nasdaq Composite (^IXIC) gained over 1% each. Yahoo Finance Markets and Data Editor Jared Blikre takes a look at the week's biggest market moves, including action from the "Magnificent Seven" (MAGS), semiconductor sector (^SOX), software sector (IGV), CBOE Volatility Index (^VIX), 10-year Treasury yields (^TNX), the US dollar (DX-Y.NYB), bitcoin (BTC-USD), and more.
 
-Decrypt • 9h ago
-
----
-
-**[Bitcoin Climbs to Two-Month High Amid Middle East Deal Optimism](https://finance.yahoo.com/markets/crypto/articles/bitcoin-climbs-two-month-high-185621449.html)**
-
-(Bloomberg) -- Bitcoin rose to the highest level since early February after a flurry of comments from the US and Iran sparked optimism that the conflict in the Middle East may be heading toward a resolution. Most Read from BloombergTrump Says Iran Will Suspend Nuclear Program as Hormuz OpensHow Anthropic Learned Mythos Was Too Dangerous for the WildIran Says Hormuz Strait Now Completely Open for Commercial ShipsHenry Paulson Suggests US Make a Break-Glass Treasuries PlanNorth Sea Oil Suddenly Ha
-
-Yahoo Finance • 4h ago
+Yahoo Finance • 6h ago
 
 ---
 
-**[Alcoa Is Close to a Deal to Sell Smelter Site to Bitcoin Miner](https://www.bloomberg.com/news/articles/2026-04-17/alcoa-is-close-to-a-deal-to-sell-smelter-site-to-bitcoin-miner)**
+**[Bitcoin’s Greatest Mystery](https://www.nytimes.com/2026/04/16/world/bitcoin-satoshi-adam-back-israel-lebanon-ceasefire.html)**
 
-Bloomberg.com • 6h ago
+The New York Times • 21h ago
+
+---
+
+**[The O.C. Guy Says Bitcoin Is ‘Still a Ponzi Scheme’](https://nymag.com/intelligencer/article/the-ocs-ben-mckenzie-says-bitcoin-is-lying-to-you-for-money.html)**
+
+“Not only gotten away with it, they’ve made a ton of money,” says actor Ben McKenzie, whose doc explores crypto’s crash and Trump-fueled rise.
+
+New York Magazine • 15h ago
+
+---
+
+**[Satoshi Nakamoto is one of the richest people in the world, but a proposed update could lock his Bitcoin away forever](https://www.dlnews.com/articles/web3/devs-propose-bitcoin-freeze-amid-quantum-computer-fears/)**
+
+New Bitcoin upgrade proposal splits opinions. Developers say freezing Bitcoin in vulnerable wallets is necessary to defend against a potential quantum attack.  A future quantum computer could threaten the $1.5 trillion blockchain.
+
+dlnews.com • 1h ago
+
+---
+
+**[When Quantum Computers Come for Your Bitcoin: What Classical Property Law Says Happens Next](https://bitcoinmagazine.com/legal/when-quantum-computers-come-for-your-bitcoin-what-classical-property-law-says-happens-next)**
+
+A look at the legal aspects and relevant laws regarding a hypothetical theft of bitcoin utilizing quantum computers.
+
+Bitcoin Magazine • 6h ago
+
+---
+
+**[Cardano's Charles Hoskinson says Bitcoin's quantum fix is a hard fork that can't save Satoshi's coins](https://www.coindesk.com/tech/2026/04/16/cardano-s-hoskinson-says-bitcoin-s-quantum-fix-is-a-hard-fork-that-can-t-save-satoshi-s-coins)**
+
+The Cardano founder argues BIP-361 is mislabeled as a soft fork and that its zero-knowledge recovery plan cannot rescue roughly 1.7 million pre-2013 bitcoin, including Satoshi's holdings.
+
+CoinDesk • 1d ago
+
+---
+
+**[Crypto Stocks Rally As Bitcoin Breaks Two-Month High After Iran Reopens Strait](https://www.forbes.com/sites/aliciapark/2026/04/17/crypto-stocks-rally-as-bitcoin-breaks-two-month-high-after-iran-reopens-strait/)**
+
+Forbes • 9h ago
 
 ---
 
@@ -303,7 +299,7 @@ Bitcoin Core Will Maintain the Protocol. It May Not Save It. The reference imple
 
 **[How the Bitcoin protocol works (2013)](https://news.ycombinator.com/item?id=47787017)**
 
-⬆️ 2 • 💬 0 • 1d ago • [michaelnielsen.org](https://michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/)
+⬆️ 2 • 💬 0 • 2d ago • [michaelnielsen.org](https://michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/)
 
 ---
 
@@ -317,7 +313,17 @@ According to a new report from JPMorgan Chase, the much-anticipated CLARITY Act 
 
 📺 Paul Barron Network
 
-👁️ 49K • 👍 3K • 💬 210 • ⏱️ 13:57 • 5h ago
+👁️ 68K • 👍 4K • 💬 232 • ⏱️ 13:57 • 8h ago
+
+---
+
+**[Fox Business Reveals Massive Bitcoin News…](https://www.youtube.com/watch?v=UlJNGzbms34)**
+
+Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=AltcoinDaily BTC Conference 2026 ...
+
+📺 Altcoin Daily
+
+👁️ 11K • 👍 896 • 💬 41 • ⏱️ 8:39 • 3h ago
 
 ---
 
@@ -327,37 +333,17 @@ Bitcoin is back at $75K as risk appetite returns—but the bigger story is unfol
 
 📺 Swan Bitcoin
 
-👁️ 6K • 👍 472 • 💬 48 • ⏱️ 9:53 • 6h ago
+👁️ 8K • 👍 518 • 💬 52 • ⏱️ 9:53 • 9h ago
 
 ---
 
-**[Bitcoin Reclaims $76,000...Breakout Soon That Starts The Run](https://www.youtube.com/watch?v=aoTlUw-Fy2M)**
+**[The Mainstream Media Is LYING to You About Bitcoin!](https://www.youtube.com/watch?v=wip8XgpSocI)**
 
-Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FREE Crypto Predictions & Compete Weekly ...
-
-📺 CryptosRUs
-
-👁️ 18K • 👍 1K • 💬 107 • ⏱️ 50:58 • 5h ago
-
----
-
-**[Everything just changed!! Is Bitcoin READY to EXPLODE?! | EP 1485](https://www.youtube.com/watch?v=5TkxW2Tkb9s)**
-
-And just like that everything is now working in bitcoin's favor!! Bear market over or bull trap?
+A former Treasury Secretary warns the next crisis could be worse than 2008. Bond markets are cracking, inflation is rising, and ...
 
 📺 Simply Bitcoin
 
-👁️ 6K • 👍 324 • 💬 22 • ⏱️ 1:31:21 • 5h ago
-
----
-
-**[This is What Happens Next for the Clarity Act &amp; Strategic Bitcoin Reserve! | Patrick Witt](https://www.youtube.com/watch?v=myoIC0guwFA)**
-
-Patrick Witt, Executive Director of the President's Council of Advisors for Digital Assets, sat down with us at the Solana Policy ...
-
-📺 Thinking Crypto
-
-👁️ 8K • 👍 481 • 💬 44 • ⏱️ 12:58 • 10h ago
+👁️ 10K • 👍 980 • 💬 59 • ⏱️ 16:22 • 4h ago
 
 ---
 
@@ -367,17 +353,17 @@ Dana Love, PhD breaks down who actually drove Bitcoin to $75000, and it wasn't r
 
 📺 Dana Love, PhD
 
-👁️ 1K • 👍 75 • 💬 14 • ⏱️ 1:53 • 5h ago
+👁️ 2K • 👍 89 • 💬 15 • ⏱️ 1:53 • 8h ago
 
 ---
 
-**[The Crypto Market Is Getting Absurd](https://www.youtube.com/watch?v=OzwcedpfW68)**
+**[Bitcoin Reclaims $76,000...Breakout Soon That Starts The Run](https://www.youtube.com/watch?v=aoTlUw-Fy2M)**
 
-BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Commonwealth Union: ...
+Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FREE Crypto Predictions & Compete Weekly ...
 
-📺 Altcoin Daily
+📺 CryptosRUs
 
-👁️ 49K • 👍 2K • 💬 144 • ⏱️ 14:13 • 1d ago
+👁️ 19K • 👍 1K • 💬 109 • ⏱️ 50:58 • 8h ago
 
 ---
 
@@ -387,7 +373,7 @@ In today's Markets Outlook, Bitwise CIO Matt Hougan joins CoinDesk's Jennifer Sa
 
 📺 CoinDesk
 
-👁️ 18K • 👍 435 • 💬 70 • ⏱️ 20:47 • 1d ago
+👁️ 19K • 👍 440 • 💬 74 • ⏱️ 20:47 • 1d ago
 
 ---
 
@@ -397,17 +383,27 @@ Gareth Soloway, Chief Market Strategist at Verified Investing, breaks down the l
 
 📺 Verified Pro Traders
 
-👁️ 14K • 👍 1K • 💬 132 • ⏱️ 8:13 • 12h ago
+👁️ 15K • 👍 1K • 💬 132 • ⏱️ 8:13 • 15h ago
 
 ---
 
-**[Strategy Buys 4,000 Bitcoin in 30 Minutes | Bitcoin&#39;s Price Floor Just Changed FOREVER](https://www.youtube.com/watch?v=OyA6eKmys4E)**
+**[The Crypto Market Is Getting Absurd](https://www.youtube.com/watch?v=OzwcedpfW68)**
 
-Bitcoin just entered a new phase and most people still don't see it. Massive institutional buys, macro shifts, and a supply shock are ...
+BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Commonwealth Union: ...
 
-📺 Simply Bitcoin
+📺 Altcoin Daily
 
-👁️ 34K • 👍 2K • 💬 175 • ⏱️ 16:45 • 2d ago
+👁️ 50K • 👍 2K • 💬 145 • ⏱️ 14:13 • 2d ago
+
+---
+
+**[LIVE: Michael Saylor Analyzes BTC Price | Bitcoin Bull Run &amp; MSTR Stock Discussion](https://www.youtube.com/watch?v=xkBw_qsw68I)**
+
+Join Michael Saylor live from the Bitcoin Conference as he delivers a keynote focused on the strategic role of Bitcoin in today's ...
+
+📺 Krystle | Perkins On Parkway | DIY & Home Decor
+
+👁️ 4K • 👍 3K • 1h ago
 
 ---
 
