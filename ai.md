@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-18T19:22:41.958966+00:00'
+updated: '2026-04-18T19:59:12.956070+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** April 18, 2026 at 19:22 UTC  
+**Last Updated:** April 18, 2026 at 19:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 AI Coding contest day 8 The eighth challenge is a weighted variant of the classic knight's tour. The knight must visit every square of a rectangular board exactly once, but each square carries an integer weight. As it moves, the knight accumulates load, and the cost of each move equals its current load. Charge is assessed upon departure, so the weight of the final square never contributes.
 
-3h ago
+4h ago
 
 ---
 
@@ -73,7 +73,7 @@ Tried posting this in r/ClaudeAI but it got auto-removed, and I was told to post
 
 Why 90% of AI implementations fail, and the uncomfortable lessons from the dot-com crash that nobody’s talking about.
 
-🔗 [Medium](https://medium.com/@borlidoadrian/the-ai-integration-paradox-cddf71844834) • 2h ago
+🔗 [Medium](https://medium.com/@borlidoadrian/the-ai-integration-paradox-cddf71844834) • 3h ago
 
 ---
 
@@ -81,7 +81,7 @@ Why 90% of AI implementations fail, and the uncomfortable lessons from the dot-c
 
 Hi folks! I'm Sarah, an audience editor from The Globe and Mail. I wanted to share this an in-depth feature about how banks are incorporating AI into their research – which is helping customers find answers faster. Here's a gift link to the piece, so anyone can read it without a paywall: How the promise of AI is taking hold at Canada’s biggest banks
 
-3h ago
+4h ago
 
 ---
 
@@ -89,7 +89,7 @@ Hi folks! I'm Sarah, an audience editor from The Globe and Mail. I wanted to sha
 
 Curious if anyone has found anything like this in their journeys: Instead of sending a big long email or document to a colleague and having them not read it, what if you sent an agent of sorts instead to deliver a brief message but also allow the receiver to ask more detailed questions if they have any? The agent could be loaded with various docs / details that could be referenced if the recipient has follow up questions without having to go back to the sender. This could be in various forms: chatbot, virtual avatar, or my favorite: a star-wars-like hologram 😂
 
-4h ago
+5h ago
 
 ---
 
@@ -97,7 +97,7 @@ Curious if anyone has found anything like this in their journeys: Instead of sen
 
 I am sharing this open-source list of cases where the ethics of GenAI use were put in the spotlight, in the hopes of sparking discussion on the usage and limitations of LLMs.
 
-🔗 [GitHub](https://github.com/hb20007/awesome-gen-ai-fails#readme) • 9h ago
+🔗 [GitHub](https://github.com/hb20007/awesome-gen-ai-fails#readme) • 10h ago
 
 ---
 
@@ -125,7 +125,7 @@ I went out to create something that would would build prds for me for projects I
 
 Groups concerned that AI could evade human control are recruiting content creators to warn the masses about the dangers of smarter machines.
 
-The Washington Post • 53m ago
+The Washington Post • 1h ago
 
 ---
 
@@ -141,13 +141,13 @@ CNBC • 7h ago
 
 In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with OpenAI reportedly worth more than $10 billion.
 
-TechCrunch • 3m ago
+TechCrunch • 40m ago
 
 ---
 
 **[Physics-based AI model opens new frontiers in dielectric materials exploration](https://phys.org/news/2026-04-physics-based-ai-frontiers-dielectric.html)**
 
-Phys.org • 52m ago
+Phys.org • 1h ago
 
 ---
 
@@ -177,7 +177,7 @@ Financial Times • 8h ago
 
 **[A new era of AI crime has arrived with Anthropic’s Mythos](https://www.marketwatch.com/story/a-new-era-of-ai-crime-has-arrived-with-anthropics-mythos-d5451040)**
 
-MarketWatch • 7h ago
+MarketWatch • 8h ago
 
 ---
 
@@ -185,7 +185,7 @@ MarketWatch • 7h ago
 
 Allbirds' AI pivot shows signs of froth in markets, but experts say the underlying fundamentals in AI remain strong.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -273,7 +273,7 @@ The company is selling off its shoe brand as it plans to shift to providing tech
 
 Graph RAG finds what's similar. M-flow finds what's relevant. - FlowElement-ai/m_flow
 
-⬆️ 68 • 💬 11 • 6h ago • [GitHub](https://github.com/FlowElement-ai/m_flow)
+⬆️ 68 • 💬 11 • 7h ago • [GitHub](https://github.com/FlowElement-ai/m_flow)
 
 ---
 
@@ -317,7 +317,7 @@ A series of animated Iranian propaganda videos made in the style of "The LEGO Mo
 
 📺 MS NOW
 
-👁️ 99K • 👍 2K • 💬 1K • ⏱️ 6:46 • 23h ago
+👁️ 99K • 👍 2K • 💬 1K • ⏱️ 6:46 • 1d ago
 
 ---
 
@@ -675,7 +675,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 29.7k • 🔱 3.3k • 3h ago
+⭐ 29.7k • 🔱 3.3k • 4h ago
 
 ---
 
@@ -685,7 +685,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 8.2k • 🔱 523 • 3h ago
+⭐ 8.2k • 🔱 523 • 4h ago
 
 ---
 
@@ -705,7 +705,7 @@ AI Agent 源码深度研究报告
 
 `Python`
 
-⭐ 5.2k • 🔱 874 • 1h ago
+⭐ 5.2k • 🔱 874 • 2h ago
 
 ---
 

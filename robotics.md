@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-18T19:22:41.976254+00:00'
+updated: '2026-04-18T19:59:12.973990+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 18, 2026 at 19:22 UTC  
+**Last Updated:** April 18, 2026 at 19:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Remote-controlled snow plow robot I built in high school after a spine surgery. This project got me into engineering :)](https://www.reddit.com/r/robotics/comments/1sol2fp/remotecontrolled_snow_plow_robot_i_built_in_high/)**
 
-16h ago
+17h ago
 
 ---
 
 **[Beluga-Robot Interaction](https://www.reddit.com/r/robotics/comments/1sou3s2/belugarobot_interaction/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -56,7 +56,7 @@ tbh ive been messing around with llms for a bit but got super bored of just typi
 
 NVIDIA Hugging Face blog post: https://huggingface.co/blog/nvidia/gr00t-n1-7 Models: https://huggingface.co/collections/nvidia/gr00t-n17 GitHub: https://github.com/NVIDIA/Isaac-GR00T From NVIDIA Robotics on 𝕏: https://x.com/NVIDIARobotics/status/2045172389244240209
 
-8h ago
+9h ago
 
 ---
 
@@ -70,7 +70,7 @@ NVIDIA Hugging Face blog post: https://huggingface.co/blog/nvidia/gr00t-n1-7 Mod
 
 So I'm making a robot to spray pesticide on home lawns. I want it automated so I can just supervise. I wanna make the robot know the borders of the robot by using UWB tags and stuff. I have a 5 gallon tank and I have a 2nd gen prototype ready. I wanna use a Raspberry Pi and so which one should I use?
 
-53m ago
+1h ago
 
 ---
 
@@ -78,7 +78,7 @@ So I'm making a robot to spray pesticide on home lawns. I want it automated so I
 
 Hi everyone, Long time lurker here. I see many people learning about robotics through hobby projects (myself included) and I wanted to start sharing things that I've learned that people might find interesting or useful for their projects. This post is about servo calibration. When you buy cheap servos, you might not get the accuracy you need because there are variations between each unit. To get around this, you just need to rotate the servo to known positions and record the PWM value that takes the servo to those positions. This mapping yields a relationship between PWM and servo angle for that particular unit. https://preview.redd.it/26bqtn03qyvg1.png?width=614&format=png&auto=webp&s=3caf76f356cf4b993cdb0c9bbcd9835c720db032 Check out my article on Medium: https://medium.com/@ianqyhong/servo-calibration-4ea1d43c46a6 Let me know if you found this interesting, useful, completely useless, or any other feedback!
 
-4h ago
+5h ago
 
 ---
 
@@ -90,7 +90,7 @@ Hi everyone, Long time lurker here. I see many people learning about robotics th
 
 **[Solving Optimal Control Problems via Indirect Single Shooting](https://www.reddit.com/r/robotics/comments/1sos0iv/solving_optimal_control_problems_via_indirect/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -242,7 +242,7 @@ AI robots failing and glitching 2026 is becoming impossible to ignore. From huma
 
 📺 MindSeeded
 
-👁️ 71K • 👍 5K • 💬 747 • ⏱️ 14:10 • 20h ago
+👁️ 71K • 👍 5K • 💬 747 • ⏱️ 14:10 • 21h ago
 
 ---
 
@@ -282,7 +282,7 @@ nefirst.org/nedcmp.
 
 📺 New England FIRST
 
-👁️ 9K • ⏱️ 11:12:23 • 11h ago
+👁️ 9K • ⏱️ 11:12:23 • 12h ago
 
 ---
 

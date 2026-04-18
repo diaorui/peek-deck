@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-18T19:22:41.967219+00:00'
+updated: '2026-04-18T19:59:12.964817+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
 - social
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 18, 2026 at 19:22 UTC  
+**Last Updated:** April 18, 2026 at 19:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 I was greedy in 2022 during the crash and wanted to wait for 12k to buy. 12k never came. After BTC teleported from 15k to 30k, I wanted a deep dip to 20k to buy. 20k never came. Then I watched BTC teleport from 25k to 70k without a single down month. Zero dips given. Then the 50k dip came but got bought up by the market instantly, the window to buy was extremely shortlived and I couldn't get in. Then BTC proceeded to teleport from 50k to 110k in just a few weeks and I basically missed the whole cycle. I have a feeling the same people waiting for 40k-50k now will go through what I went through and watch as BTC teleports to 500k (or whatever the next top is) without a single major dip.
 
-4h ago
+5h ago
 
 ---
 
@@ -89,13 +89,13 @@ I was greedy in 2022 during the crash and wanted to wait for 12k to buy. 12k nev
 
 I have a group of friends that watched me make a ton of money during the 2016-2017 crypto market and asked me to tell them the next time I believed was a good time to buy (surprise, it’s almost always a good time to buy) so whenever it became a bear market, I would shoot the group chat a message and let them know it’s a good time to buy. I would get mocking responses like “Oh yeah I bet it’s a good time to buy, it’s down 10%”. They would even message me the next day when it’s down 11% and say things like “ooh it’s even lower now, I guess today’s a good day to buy too” And then the bull market comes and my group chat is peppered with angry messages about how they missed the bull run and how I didn’t tell them it’s coming. Messages like “you gotta tell me the next time it’s good to buy!” I quickly learnt that there are just some things people can’t be taught, they have to learn it themselves. Moral of the story, don’t tell people you’re into crypto and don’t tell people you made gains, regardless of who they are, in the end it’s just a headache for you.
 
-2h ago
+3h ago
 
 ---
 
 **[Bitcoin is dead](https://www.reddit.com/r/Bitcoin/comments/1socs7g/bitcoin_is_dead/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -125,7 +125,7 @@ I'm so long.
 
 **[Do the maths!!](https://www.reddit.com/r/Bitcoin/comments/1sosymz/do_the_maths/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -133,7 +133,7 @@ I'm so long.
 
 Trying to understand how people approach Bitcoin long term. Do you keep adding over time or just hold and wait?
 
-4h ago
+5h ago
 
 ---
 
@@ -141,7 +141,7 @@ Trying to understand how people approach Bitcoin long term. Do you keep adding o
 
 Stupid narratives
 
-14h ago
+15h ago
 
 ---
 
@@ -149,7 +149,7 @@ Stupid narratives
 
 Personally its 0.05 not a lot but i still believe in btc insted of fiat thats why im almost not having cash
 
-10h ago
+11h ago
 
 ---
 
@@ -159,7 +159,7 @@ Personally its 0.05 not a lot but i still believe in btc insted of fiat thats wh
 
 **[‘Buy Bitcoin’—Elon Musk’s ‘Massive’ U.S. Dollar Warning Fuels Wild Crypto Price Predictions](https://www.forbes.com/sites/digital-assets/2026/04/18/buy-bitcoin-elon-musks-massive-us-dollar-warning-fuels-wild-crypto-price-predictions/)**
 
-Forbes • 7h ago
+Forbes • 8h ago
 
 ---
 
@@ -175,7 +175,7 @@ CNBC • 2d ago
 
 Shell argues the network is fixable and proposes a different framing to the recent quantum debate.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -183,7 +183,7 @@ CoinDesk • 2h ago
 
 Bittensor may be outperforming Bitcoin in 2026, but how much longer can it last?
 
-The Motley Fool • 8m ago
+The Motley Fool • 45m ago
 
 ---
 
@@ -199,7 +199,7 @@ Yahoo Finance • 2h ago
 
 The price of the world's largest cryptocurrency rose almost 10% this week, but stocks including Strategy, Coinbase, and Robinhood outpaced those gains amid the risk-on rally.
 
-Investopedia • 22h ago
+Investopedia • 23h ago
 
 ---
 
@@ -219,7 +219,7 @@ Fortune • 1d ago
 
 **[Bitcoin Price Surges Amid Epic Strategy Buying Spree](https://www.investors.com/news/bitcoin-price-strategy-buying-power-mstr-stock-strc-issuance-saylor/)**
 
-Investor's Business Daily • 22h ago
+Investor's Business Daily • 23h ago
 
 ---
 
@@ -369,7 +369,7 @@ Are you ready? CRYPTO RETIREMENT ACCOUNT HERE Sign up for iTrustCapital and get 
 
 📺 Crypto Jebb
 
-👁️ 4K • 👍 255 • 💬 30 • ⏱️ 8:10 • 23h ago
+👁️ 4K • 👍 255 • 💬 30 • ⏱️ 8:10 • 1d ago
 
 ---
 
