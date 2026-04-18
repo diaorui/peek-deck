@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-18T09:01:42.763618+00:00'
+updated: '2026-04-18T10:07:54.993296+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
 - repositories
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** April 18, 2026 at 09:01 UTC  
+**Last Updated:** April 18, 2026 at 10:07 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Tried posting this in r/ClaudeAI but it got auto-removed, and I was told to post it in the "Bugs Megathread." Don't really think it should been removed, but whatever, I'll just post it here since I'm sure it's still relevant. Like a lot of people, I switched from ChatGPT to Claude not too long ago during the whole DoW fiasco and Sam Altman “antics.” At first, I was genuinely impressed. I do fairly heavy theoretical math and physics research, and Opus 4.6 was simply the best tool I’d used for synthesizing ideas and working through complex logic. But the last few weeks have been really disappointing, and I’m seriously considering going back to GPT (even though, for personal reasons, I’d really rather not). How many times has Claude been down recently? And why is it that I can ask Claude 4.7 (with adaptive thinking turned on) to work through a detailed proof, and it just spirals “oh wait, that doesn’t work, let me try again” five times in a single response? Yes, there’s a workaround to explicitly tell it to think before answering. But… why is that necessary? I’m paying $20/month. This is supposed to be a top-tier model. Instead, it burns through time, second-guesses itself mid-response, and often fails to land anywhere useful on problems I’m fairly sure 4.6 would have handled more coherently a month ago. And then before I know it I hit the usage limit. I’m a PhD student. I can’t justify spending $100-$200/month on higher tiers. $20 has always been enough for me, and I’ve come to rely on these tools for my research. I expected to stick with Claude long-term, but the recent instability and drop in reliability make it hard to justify paying for it out of pocket. It’s frustrating to feel pushed toward a competitor because of this. But at a certain point, the usability of the product has to come first. Really disappointing.
 
-19h ago
+20h ago
 
 ---
 
@@ -49,7 +49,23 @@ Tried posting this in r/ClaudeAI but it got auto-removed, and I was told to post
 
 The patent describes a system that uses artificial intelligence to create personalized web pages for each user.
 
-🔗 [PC Guide](https://www.pcguide.com/news/google-patents-ai-tech-that-will-personalize-websites-and-make-them-look-different-for-everyone/) • 17h ago
+🔗 [PC Guide](https://www.pcguide.com/news/google-patents-ai-tech-that-will-personalize-websites-and-make-them-look-different-for-everyone/) • 18h ago
+
+---
+
+**[Open-source list of GenAI-related incidents](https://www.reddit.com/r/artificial/comments/1sotbeo/opensource_list_of_genairelated_incidents/)**
+
+I am sharing this open-source list of cases where the ethics of GenAI use were put in the spotlight, in the hopes of sparking discussion on the usage and limitations of LLMs.
+
+🔗 [GitHub](https://github.com/hb20007/awesome-gen-ai-fails#readme) • 18m ago
+
+---
+
+**[I made a self healing PRD system for Claude code](https://www.reddit.com/r/artificial/comments/1sokj0w/i_made_a_self_healing_prd_system_for_claude_code/)**
+
+I went out to create something that would would build prds for me for projects I'm working on. The core idea it is that it asks for all of the information that's needed for a PRD and it could also review the existing code to answer these questions. Then it breaks up the parts of the plan into separate files and only starts the next part after the first part is complete. Added to that is that it's reaching out to codex every end of part and does an independent review of the code. What I found that was really cool is that when I did that with my existing project to enhance it, the system continued to find more issues through the feedback loop with codex and opened new prds for those issues. So essentially it's running through my code finding issues as it's working on extending it
+
+8h ago
 
 ---
 
@@ -61,27 +77,19 @@ Reese Witherspoon is again advising her followers that there's no time like the 
 
 ---
 
-**[We added cryptographic approval to our AI agent… and it was still unsafe](https://www.reddit.com/r/artificial/comments/1sorsxu/we_added_cryptographic_approval_to_our_ai_agent/)**
-
-We’ve been working on adding “authorization” to an AI agent system. At first, it felt solved: - every action gets evaluated - we get a signed ALLOW / DENY - we verify the signature before execution Looks solid, right? It wasn’t. We hit a few problems almost immediately: The approval wasn’t bound to the actual execution Same “ALLOW” could be reused for a slightly different action. No state binding Approval was issued when state = X Execution happened when state = Y Still passed verification. No audience binding An approval for service A could be replayed against service B. Replay wasn’t actually enforced at the boundary Even with nonces, enforcement wasn’t happening where execution happens. So what we had was: a signed decision What we needed was: a verifiable execution contract The difference is subtle but critical: - “Was this approved?” -> audit question - “Can this execute?” -> enforcement question Most systems answer the first one. Very few actually enforce the second one. Curious how others are thinking about this. Are you binding approvals to: - exact intent? - execution state? - execution target? Or are you just verifying signatures and hoping it lines up?
-
-43m ago
-
----
-
 **[The AI Wearable Ecosystem: Closer than you think. Socially acceptable?](https://www.reddit.com/r/artificial/comments/1sors65/the_ai_wearable_ecosystem_closer_than_you_think/)**
 
 I've been researching how personal AI tech devices are likely to develop ... technical capabilities, form factors, privacy and governance issues etc. I think it looks likely that there won't be one 'must have' device, and that there'll be more of a wearable ecosystem, with devices for different environments ... Glasses: outward and inward cameras, picking up facial expressions, gestures etc. Bone conduction audio. Augmented VR, infrared overlay etc. Cuff/Wristband: beyond a smart watch .. sensors picking up finger movements/gestures as input. Haptic actuators giving silent notifications. Pen/Stylus: currently underused as could also pick up gestures and have a microphone. Table top Node: palm sized unit. 360 degree vision and audio. Scout/Mini Drone: hovers above you for all round awareness, or can be sent ahead to scout an area, or find you children etc. All integrating with your smart phone, which may become more of a portable battery bank for charging other devices. Here's a blog post I have written that goes into more detail, including the privacy and legal issue etc (no ads/sign up etc) ... The AI Wearable Ecosystem What other devices might be developed? Should these devices be banned from recording other people?
 
-44m ago
+1h ago
 
 ---
 
-**[I made a self healing PRD system for Claude code](https://www.reddit.com/r/artificial/comments/1sokj0w/i_made_a_self_healing_prd_system_for_claude_code/)**
+**[We added cryptographic approval to our AI agent… and it was still unsafe](https://www.reddit.com/r/artificial/comments/1sorsxu/we_added_cryptographic_approval_to_our_ai_agent/)**
 
-I went out to create something that would would build prds for me for projects I'm working on. The core idea it is that it asks for all of the information that's needed for a PRD and it could also review the existing code to answer these questions. Then it breaks up the parts of the plan into separate files and only starts the next part after the first part is complete. Added to that is that it's reaching out to codex every end of part and does an independent review of the code. What I found that was really cool is that when I did that with my existing project to enhance it, the system continued to find more issues through the feedback loop with codex and opened new prds for those issues. So essentially it's running through my code finding issues as it's working on extending it
+We’ve been working on adding “authorization” to an AI agent system. At first, it felt solved: - every action gets evaluated - we get a signed ALLOW / DENY - we verify the signature before execution Looks solid, right? It wasn’t. We hit a few problems almost immediately: The approval wasn’t bound to the actual execution Same “ALLOW” could be reused for a slightly different action. No state binding Approval was issued when state = X Execution happened when state = Y Still passed verification. No audience binding An approval for service A could be replayed against service B. Replay wasn’t actually enforced at the boundary Even with nonces, enforcement wasn’t happening where execution happens. So what we had was: a signed decision What we needed was: a verifiable execution contract The difference is subtle but critical: - “Was this approved?” -> audit question - “Can this execute?” -> enforcement question Most systems answer the first one. Very few actually enforce the second one. Curious how others are thinking about this. Are you binding approvals to: - exact intent? - execution state? - execution target? Or are you just verifying signatures and hoping it lines up?
 
-7h ago
+1h ago
 
 ---
 
@@ -89,7 +97,7 @@ I went out to create something that would would build prds for me for projects I
 
 There seems to be about 1000 different options. I'm just looking for one that takes a prompt and spits out something usable. I'm good with paying for it if I need to but it needs to be able.to handle a lot of work.
 
-17h ago
+18h ago
 
 ---
 
@@ -97,7 +105,7 @@ There seems to be about 1000 different options. I'm just looking for one that ta
 
 A couple of months ago I posted here (r/LLMDevs, r/artificial) proposing that an LLM could save its context window into a citation-grounded document store and query it in plain language, replacing embedding similarity as the retrieval mechanism for reasoning recovery. Karpathy's LLM Knowledge Bases post and a recent TDS context engineering piece have since touched on similar territory, so it felt like a good time to resurface with what I've actually found building it. The hybrid question got answered in practice Several commenters in the original threads predicted you'd inevitably end up hybrid — cheap vector filter first, LLM reasoning over the shortlist. That's roughly right, but the failure mode that drove it was different from what I expected. Pure semantic search didn't degrade because of scale per se; it started missing retrievals because the query and the target content used different vocabulary for the same concept. The fix was an index-first strategy — a lightweight topic-tagged index that narrows candidates before the NL query runs. So the hybrid layer is structural metadata, not a vector pre-filter. The LLM resists using its own memory This one surprised me. Claude has a persistent tendency to prefer internal reasoning over querying the memory store, even when a query would return more accurate results. Left unchecked, it reconstructs rather than retrieves — which is exactly the failure mode the system was designed to prevent. Fixing it required encoding the query requirement in the system prompt, a startup gate checklist, and explicit framing of what it costs to skip retrieval. It's behavioral, not architectural, but it's a real problem that neither article addresses. The memory layer should decouple from the interface model One thing I haven't tested but follows logically from the architecture: if the persistent state lives in the document store rather than in the model, the interface LLM becomes interchangeable. You should be able to swap Claude for ChatGPT or Gemini with minimal fidelity loss, and potentially run multiple models concurrently against the same memory as a coordination layer. There's also an interesting quality asymmetry that wouldn't exist in vector RAG: because retrieval here uses the interface model's reasoning rather than a separate embedding step, a more capable model should directly improve retrieval quality — not just generation quality. I haven't verified either of these in practice, but the architecture seems to imply them. Curious whether anyone has tested something similar. Memory hygiene is a real maintenance problem Karpathy's post talks about "linting" the wiki for inconsistencies. I ran into a version of this from a different angle: an append-only notes system accumulates stale entries with no way to distinguish resolved from active items. You end up needing something like a note lifecycle (e.g., resolve, revise, retract, etc.) with versioned identifiers so the system can tell what's current. The maintenance overhead of keeping memory coherent is underappreciated in both the Karpathy and TDS pieces. Still in the research and build phase. For anyone curious about the ad hoc system I've been using to test this while working through the supporting literature, the repo is here: https://github.com/pjmattingly/Claude-persistent-memory — pre-alpha quality, but it's the working substrate behind the observations above. Happy to go deeper on any of this.
 
-8h ago
+9h ago
 
 ---
 
@@ -105,15 +113,7 @@ A couple of months ago I posted here (r/LLMDevs, r/artificial) proposing that an
 
 Claude Design is powered by Claude Opus 4.7 and is available in research preview for Claude Pro, Max, Team, and Enterprise subscribers.
 
-🔗 [anthropic.com](https://www.anthropic.com/news/claude-design-anthropic-labs) • 17h ago
-
----
-
-**[DeepSeek Targets $10B Valuation in Funding Push Amid Global AI Race](https://www.reddit.com/r/artificial/comments/1so7tep/deepseek_targets_10b_valuation_in_funding_push/)**
-
-Chinese AI startup DeepSeek is in talks to raise fresh capital at a $10 billion valuation, signaling a major shift for a company that has largely avoided external funding despite rapidly rising global influence in artificial intelligence.
-
-🔗 [Financership](https://www.financership.com/deepseek-10b-valuation-funding-ai-race/) • 15h ago
+🔗 [anthropic.com](https://www.anthropic.com/news/claude-design-anthropic-labs) • 18h ago
 
 ---
 
@@ -121,31 +121,11 @@ Chinese AI startup DeepSeek is in talks to raise fresh capital at a $10 billion 
 
 ## Google News: "ai"
 
-**[Hundreds of Fake Pro-Trump Avatars Emerge on Social Media](https://www.nytimes.com/2026/04/17/business/media/artificial-intelligence-trump-social-media.html)**
-
-The New York Times • 4h ago
-
----
-
 **[AI chipmaker Cerebras files to go public after scrapping IPO plans last year](https://www.cnbc.com/2026/04/17/cerebras-new-ipo-ai-chips.html)**
 
 Cerebras said that it can expand its business with OpenAI over the coming years and that it gave OpenAI a warrant to purchase stock.
 
-CNBC • 15h ago
-
----
-
-**[AI startups are moving into smaller neighborhoods and shifting San Francisco's economic center](https://www.businessinsider.com/ai-startup-moving-into-smaller-neighborhoods-changing-office-culture-sf-2026-3)**
-
-AI startups and their collaborative and fast-moving culture are leading them to choose office spaces away from downtown SF in smaller neighborhoods.
-
-Business Insider • 50m ago
-
----
-
-**[Volvo Built A Software Defined Vehicle AI Future For EX60 Era](https://www.forbes.com/sites/jamesmorris/2026/04/18/volvo-builds-software-defined-vehicle-ai-future-for-ex60-era/)**
-
-Forbes • 31m ago
+CNBC • 16h ago
 
 ---
 
@@ -153,7 +133,7 @@ Forbes • 31m ago
 
 Anthropic CEO Dario Amodei visited the White House on Friday for a high-stakes meeting with the president’s top adviser, while his AI company battles the Trump administration in court for blacklisting its Claude AI model.
 
-CNN • 20h ago
+CNN • 21h ago
 
 ---
 
@@ -161,7 +141,7 @@ CNN • 20h ago
 
 Experts say Mythos potentially has an unprecedented ability to identify and exploit cybersecurity weaknesses.
 
-BBC • 22h ago
+BBC • 23h ago
 
 ---
 
@@ -169,7 +149,21 @@ BBC • 22h ago
 
 The main usage metric for artificial intelligence, called tokens, looks explosive on paper, but it may be significantly overstated.
 
-CNBC • 13h ago
+CNBC • 14h ago
+
+---
+
+**[To Reach Their Fitness Goals, They Hired ‘CoachGPT’](https://www.nytimes.com/2026/04/18/well/move/ai-fitness-coach-chatgpt-claude.html)**
+
+The New York Times • 1h ago
+
+---
+
+**[AI startups are moving into smaller neighborhoods and shifting San Francisco's economic center](https://www.businessinsider.com/ai-startup-moving-into-smaller-neighborhoods-changing-office-culture-sf-2026-3)**
+
+AI startups and their collaborative and fast-moving culture are leading them to choose office spaces away from downtown SF in smaller neighborhoods.
+
+Business Insider • 1h ago
 
 ---
 
@@ -185,7 +179,7 @@ CNN • 1d ago
 
 Agents are evolving from question-and-answer systems into long-running autonomous assistants that read files, call APIs, and drive multi-step workflows. However, deploying an agent to execute code and…
 
-NVIDIA Developer • 13h ago
+NVIDIA Developer • 14h ago
 
 ---
 
@@ -193,7 +187,13 @@ NVIDIA Developer • 13h ago
 
 Palantir, Thales and ASI competing on secretive initiative that could redefine how the U.S. ATC system operates
 
-The Air Current • 16h ago
+The Air Current • 17h ago
+
+---
+
+**[Elon Musk Touts Universal Income As Remedy To AI-Driven Unemployment](https://www.forbes.com/sites/siladityaray/2026/04/17/elon-musk-touts-universal-income-as-remedy-to-ai-driven-unemployment/)**
+
+Forbes • 21h ago
 
 ---
 
@@ -235,15 +235,7 @@ Does AI-assisted cognition threaten human development? Explore the risks of AI-a
 
 Hardware hacker’s flying probe automation stack for agent-driven   target discovery, microscope mapping, safety-monitored CNC motion, probe review, and   controlled pin probing. - GainSec/AutoProber
 
-⬆️ 222 • 💬 46 • 1d ago • [GitHub](https://github.com/gainsec/autoprober)
-
----
-
-**[We gave an AI a 3 year retail lease and asked it to make a profit](https://news.ycombinator.com/item?id=47794391)**
-
-We signed a 3 year lease and gave it to an AI
-
-⬆️ 197 • 💬 281 • 1d ago • [andonlabs.com](https://andonlabs.com/blog/andon-market-launch)
+⬆️ 223 • 💬 46 • 1d ago • [GitHub](https://github.com/gainsec/autoprober)
 
 ---
 
@@ -251,7 +243,15 @@ We signed a 3 year lease and gave it to an AI
 
 There is an extremely important question about the near-future of AI that almost no-one is asking.   We’ve all seen the graphs from METR showing that the length of tasks AI agents can perform has been growing exponentially over the last 7 years. While GPT-2 could only do software engineering tasks t
 
-⬆️ 196 • 💬 50 • 2d ago • [Toby Ord](https://www.tobyord.com/writing/hourly-costs-for-ai-agents)
+⬆️ 209 • 💬 54 • 2d ago • [Toby Ord](https://www.tobyord.com/writing/hourly-costs-for-ai-agents)
+
+---
+
+**[We gave an AI a 3 year retail lease and asked it to make a profit](https://news.ycombinator.com/item?id=47794391)**
+
+We signed a 3 year lease and gave it to an AI
+
+⬆️ 197 • 💬 282 • 1d ago • [andonlabs.com](https://andonlabs.com/blog/andon-market-launch)
 
 ---
 
@@ -265,7 +265,7 @@ There is an extremely important question about the near-future of AI that almost
 
 GPU rental prices surged 48% in 60 days. The AI compute shortage will force startups to compete not on speed of iteration, but on access to infrastructure.
 
-⬆️ 182 • 💬 212 • 1d ago • [Tomasz Tunguz](https://tomtunguz.com/ai-compute-crisis-2026/)
+⬆️ 182 • 💬 213 • 1d ago • [Tomasz Tunguz](https://tomtunguz.com/ai-compute-crisis-2026/)
 
 ---
 
@@ -285,7 +285,7 @@ ChatGPT was recently asked what it would say to humans if it could give a TED Ta
 
 📺 TED
 
-👁️ 27K • 👍 1K • 💬 508 • ⏱️ 3:28 • 11h ago
+👁️ 32K • 👍 1K • 💬 536 • ⏱️ 3:28 • 13h ago
 
 ---
 
@@ -295,7 +295,7 @@ Get your FREE AI Prompt Cheatsheet here: https://go.danmartell.com/4tVJ4fz Are y
 
 📺 Dan Martell
 
-👁️ 177K • 👍 8K • 💬 1K • ⏱️ 14:03 • 1d ago
+👁️ 180K • 👍 8K • 💬 1K • ⏱️ 14:03 • 1d ago
 
 ---
 
@@ -305,7 +305,7 @@ A series of animated Iranian propaganda videos made in the style of "The LEGO Mo
 
 📺 MS NOW
 
-👁️ 76K • 👍 2K • 💬 871 • ⏱️ 6:46 • 13h ago
+👁️ 79K • 👍 2K • 💬 910 • ⏱️ 6:46 • 14h ago
 
 ---
 
@@ -315,7 +315,7 @@ This episode is brought to you by Higgsfield — the AI video platform with Cine
 
 📺 Silicon Valley Girl
 
-👁️ 24K • 👍 583 • 💬 111 • ⏱️ 45:43 • 20h ago
+👁️ 25K • 👍 611 • 💬 115 • ⏱️ 45:43 • 21h ago
 
 ---
 
@@ -325,7 +325,7 @@ Really American host Steve Harness breaks down more HILARIOUS AI Trump parodies 
 
 📺 Really American
 
-👁️ 991K • 👍 47K • 💬 3K • ⏱️ 12:33 • 1d ago
+👁️ 1.0M • 👍 48K • 💬 3K • ⏱️ 12:33 • 1d ago
 
 ---
 
@@ -335,7 +335,7 @@ Triggernometry is proudly independent. Thanks to the sponsors below for making t
 
 📺 Triggernometry
 
-👁️ 212K • 👍 6K • 💬 2K • ⏱️ 1:11:10 • 2d ago
+👁️ 214K • 👍 6K • 💬 2K • ⏱️ 1:11:10 • 2d ago
 
 ---
 
@@ -345,27 +345,7 @@ China just revealed an autonomous robot war pack built from dog bots, drones, la
 
 📺 AI Revolution
 
-👁️ 50K • 👍 1K • 💬 108 • ⏱️ 16:14 • 1d ago
-
----
-
-**[LIVE: Sanders, Labor Leaders Call on Congress to Protect Workers from AI](https://www.youtube.com/watch?v=DdJfeSMB99g)**
-
-The same oligarchs who shipped jobs overseas now want to replace tens of millions of American workers with AI. Our message to ...
-
-📺 Senator Bernie Sanders
-
-👁️ 13K • 👍 1K • 💬 364 • ⏱️ 45:01 • 1d ago
-
----
-
-**[Donald Trump Posted This AI Image of Jesus…](https://www.youtube.com/watch?v=-Z4SHvUa5gw)**
-
-discord.gg/nickjones.
-
-📺 Nick Jones
-
-👁️ 16K • 👍 782 • 💬 491 • ⏱️ 8:37 • 1d ago
+👁️ 52K • 👍 1K • 💬 112 • ⏱️ 16:14 • 1d ago
 
 ---
 
@@ -375,7 +355,27 @@ Here's the AI News you probably missed this week. Build AI apps that actually sc
 
 📺 Matt Wolfe
 
-👁️ 51K • 👍 2K • 💬 120 • ⏱️ 36:44 • 18h ago
+👁️ 55K • 👍 2K • 💬 120 • ⏱️ 36:44 • 19h ago
+
+---
+
+**[Donald Trump Posted This AI Image of Jesus…](https://www.youtube.com/watch?v=-Z4SHvUa5gw)**
+
+discord.gg/nickjones.
+
+📺 Nick Jones
+
+👁️ 16K • 👍 785 • 💬 491 • ⏱️ 8:37 • 1d ago
+
+---
+
+**[LIVE: Sanders, Labor Leaders Call on Congress to Protect Workers from AI](https://www.youtube.com/watch?v=DdJfeSMB99g)**
+
+The same oligarchs who shipped jobs overseas now want to replace tens of millions of American workers with AI. Our message to ...
+
+📺 Senator Bernie Sanders
+
+👁️ 13K • 👍 1K • 💬 369 • ⏱️ 45:01 • 1d ago
 
 ---
 
@@ -391,7 +391,7 @@ MiniMax-M2.7 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 258,064 • ❤️ 932 • 23h ago
+⬇️ 258,064 • ❤️ 935 • 1d ago
 
 ---
 
@@ -403,7 +403,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with a vision encoder, 
 
 `image-text-to-text` `36.0B`
 
-⬇️ 82,000 • ❤️ 769 • 3d ago
+⬇️ 82,000 • ❤️ 780 • 3d ago
 
 ---
 
@@ -415,7 +415,7 @@ HY-Embodied-0.5 is a multilingual vision-language model designed for embodied ag
 
 `image-text-to-text` `3.8B`
 
-⬇️ 1,454 • ❤️ 854 • 3d ago
+⬇️ 1,454 • ❤️ 855 • 3d ago
 
 ---
 
@@ -427,7 +427,7 @@ ERNIE-Image is a 8B parameter text-to-image diffusion model excelling in complex
 
 `text-to-image`
 
-⬇️ 3,116 • ❤️ 430 • 1d ago
+⬇️ 3,116 • ❤️ 432 • 1d ago
 
 ---
 
@@ -451,7 +451,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with vision capabilitie
 
 `image-text-to-text` `34.7B`
 
-⬇️ 442,900 • ❤️ 388 • 1d ago
+⬇️ 442,900 • ❤️ 395 • 1d ago
 
 ---
 
@@ -463,7 +463,7 @@ A fast, uncensored GGUF text generation model based on Google's Gemma 4-26B, opt
 
 `text-generation` `25.2B`
 
-⬇️ 66,552 • ❤️ 384 • 5d ago
+⬇️ 66,552 • ❤️ 386 • 5d ago
 
 ---
 
@@ -475,7 +475,7 @@ Gemma 4 31B is an instruction-tuned, multimodal LLM capable of processing text a
 
 `image-text-to-text` `32.7B`
 
-⬇️ 3,778,070 • ❤️ 2,130 • 7d ago
+⬇️ 3,778,070 • ❤️ 2,137 • 7d ago
 
 ---
 
@@ -499,7 +499,7 @@ ERNIE-Image-Turbo is a distilled text-to-image diffusion model optimized for spe
 
 `text-to-image`
 
-⬇️ 4,119 • ❤️ 294 • 1d ago
+⬇️ 4,119 • ❤️ 295 • 1d ago
 
 ---
 
@@ -539,7 +539,7 @@ LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from 
 
 HY-World 2.0 is a multi-modal world model framework that generates high-fidelity 3D Gaussian Splatting scenes from diverse inputs using specialized modules for panorama generation, trajectory planning, world expansion, and composition, along with an enhanced rendering platform for interactive 3D exploration.
 
-▲ 74 • 💬 4 • ⭐ 1,022 • 3d ago
+▲ 78 • 💬 4 • ⭐ 1,022 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.14268) • [💻 code](https://github.com/Tencent-Hunyuan/HY-World-2.0) • [🔗 project](https://3d-models.hunyuan.tencent.com/world/)
 
@@ -591,7 +591,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 DFlash is a speculative decoding framework that uses a lightweight block diffusion model for parallel token drafting, achieving significant speedup over existing autoregressive methods while maintaining high-quality outputs.
 
-▲ 51 • 💬 4 • ⭐ 1,802 • 2mo ago
+▲ 52 • 💬 4 • ⭐ 1,802 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2602.06036) • [💻 code](https://github.com/z-lab/dflash) • [🔗 project](https://z-lab.ai/projects/dflash/)
 
@@ -645,7 +645,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 47.6k • 🔱 6.2k • 2h ago
+⭐ 47.7k • 🔱 6.2k • 3h ago
 
 ---
 
@@ -655,7 +655,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 37.1k • 🔱 1.8k • 2d ago
+⭐ 37.2k • 🔱 1.8k • 2d ago
 
 ---
 
@@ -665,7 +665,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 35.7k • 🔱 7.2k • 14h ago
+⭐ 35.8k • 🔱 7.2k • 15h ago
 
 ---
 
@@ -675,7 +675,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 29.3k • 🔱 3.2k • 13h ago
+⭐ 29.4k • 🔱 3.2k • 12m ago
 
 ---
 
@@ -685,7 +685,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 8.2k • 🔱 521 • 1h ago
+⭐ 8.2k • 🔱 522 • 48s ago
 
 ---
 
@@ -705,7 +705,7 @@ AI Agent 源码深度研究报告
 
 `Python`
 
-⭐ 5.1k • 🔱 862 • 4d ago
+⭐ 5.2k • 🔱 865 • 4d ago
 
 ---
 
@@ -735,7 +735,7 @@ The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interac
 
 `Python`
 
-⭐ 4.6k • 🔱 454 • 9d ago
+⭐ 4.6k • 🔱 456 • 9d ago
 
 ---
 
