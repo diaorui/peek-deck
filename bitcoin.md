@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-18T15:06:57.330814+00:00'
+updated: '2026-04-18T16:02:08.713740+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
-- videos
+- news
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 18, 2026 at 15:06 UTC  
+**Last Updated:** April 18, 2026 at 16:02 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1524.79B
+**Market Cap:** $1524.99B
 Rank #1
 
-**Circulating Supply:** 20,017,525 BTC
+**Circulating Supply:** 20,017,562 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
 -39.6%
 
 **All-Time Low:** $67.81
-+112246.3%
++112244.8%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Bitcoin is dead](https://www.reddit.com/r/Bitcoin/comments/1socs7g/bitcoin_is_dead/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Central bank greenlights regulated crypto access while keeping strict curbs on balance-sheet exposure
 
-🔗 [coindesk.com](https://www.coindesk.com/policy/2026/04/15/pakistan-lifts-seven-year-ban-allowing-banks-to-service-virtual-asset-providers) • 3h ago
+🔗 [coindesk.com](https://www.coindesk.com/policy/2026/04/15/pakistan-lifts-seven-year-ban-allowing-banks-to-service-virtual-asset-providers) • 4h ago
 
 ---
 
@@ -95,7 +95,7 @@ Central bank greenlights regulated crypto access while keeping strict curbs on b
 
 I'm so long.
 
-15h ago
+16h ago
 
 ---
 
@@ -103,7 +103,7 @@ I'm so long.
 
 Genuinely so happy to be done, I’ve reached my goal amount of btc to feel comfortable. I won’t lie, I make minimum wage for LA standard and ima stop buying and let it ride. Could hypothetically keep buying more but I truly have the next goal of getting 10k in fiat in my HYSA before touching any market. Sold all my stock to get to my goal and don’t regret it. Letting it ride and won’t open my wallets till I reach my saving goal. Thank you for all your help and advice, never been prouder.
 
-2h ago
+3h ago
 
 ---
 
@@ -111,7 +111,7 @@ Genuinely so happy to be done, I’ve reached my goal amount of btc to feel comf
 
 Stupid narratives
 
-10h ago
+11h ago
 
 ---
 
@@ -119,7 +119,7 @@ Stupid narratives
 
 I am new to crypto. Is this the right time to buy BTC since I see the chart it started to rebound?
 
-6h ago
+7h ago
 
 ---
 
@@ -127,7 +127,7 @@ I am new to crypto. Is this the right time to buy BTC since I see the chart it s
 
 Personally its 0.05 not a lot but i still believe in btc insted of fiat thats why im almost not having cash
 
-6h ago
+7h ago
 
 ---
 
@@ -135,7 +135,7 @@ Personally its 0.05 not a lot but i still believe in btc insted of fiat thats wh
 
 Hey everyone, I’ve been buying Bitcoin since 2012/2013. I’ve lived through it all, studied all cycles in detail, and I’m usually dead silent on Reddit, I just lurk, watch, and stay out of the noise. Never really comment. But… This feels massively like the 2013 cycle and the 2021 cycle. We’d hit a top, then a brutal dip where everyone piled into the “lower lows incoming,” “it’s over,” narrative. Capitulation everywhere. Then, surprise, it bounced hard and went on to make new cycle highs. That’s exactly what I see playing out right now. We topped at roughly $126,200 in early October 2025. Since then we’ve had the classic post-peak flush, fear, and bearish calls for even lower prices. But to me this looks like the same retest/bounce setup we’ve seen before. The crowd is getting shaken out again right before the next leg higher. In my experience, this is when things get very bullish. A lot of people are going to sit on the sidelines waiting for “the real bottom” that never comes. People think the cycle top has com and we have entered bear, but the market is maturing and becoming longer. Wouldn’t surprise me at all if we see the cycle top sometime in late 2026 or 2027 in the $180k–$220k range. Just my two sats after watching this market for over a decade. Do your own research, never financial advice… but damn if this doesn’t feel familiar in the best possible way. Stay safe out there. (And yeah… still not selling.)
 
-23h ago
+1d ago
 
 ---
 
@@ -143,7 +143,7 @@ Hey everyone, I’ve been buying Bitcoin since 2012/2013. I’ve lived through i
 
 As I recovered an old email account I found I had a coinbase account I had completely forgotten about. It’s not much, compared to other folks in this sub, but it has .25 BTC and other currencies from forks in the past 9 years since I bought it. I had completely forgotten about it and, because of it, never declared in my tax returns. Apparently I should have done that and submit an ID to coinbase. I haven’t done anything yet, or touched the currencies. Am I fucked? or can I just submit my ID and declare in the tax return next year? Apologies for my ignorance, I have stayed away from crypto since I bought .25 BTC back in 2017. All advise is appreciated.
 
-18h ago
+19h ago
 
 ---
 
@@ -151,7 +151,7 @@ As I recovered an old email account I found I had a coinbase account I had compl
 
 I was greedy in 2022 during the crash and wanted to wait for 12k to buy. 12k never came. After BTC teleported from 15k to 30k, I wanted a deep dip to 20k to buy. 20k never came. Then I watched BTC teleport from 25k to 70k without a single down month. Zero dips given. Then the 50k dip came but got bought up by the market instantly, the window to buy was extremely shortlived and I couldn't get in. Then BTC proceeded to teleport from 50k to 110k in just a few weeks and I basically missed the whole cycle. I have a feeling the same people waiting for 40k-50k now will go through what I went through and watch as BTC teleports to 500k (or whatever the next top is) without a single major dip.
 
-10m ago
+1h ago
 
 ---
 
@@ -171,7 +171,7 @@ dlnews.com • 2d ago
 
 Part one explained the physics of quantum computing. This piece explains the target — how bitcoin's encryption works, why a quantum algorithm breaks it, and what Google's paper changed about the timeline.
 
-CoinDesk • 11h ago
+CoinDesk • 12h ago
 
 ---
 
@@ -179,7 +179,7 @@ CoinDesk • 11h ago
 
 A look at the legal aspects and relevant laws regarding a hypothetical theft of bitcoin utilizing quantum computers.
 
-Bitcoin Magazine • 19h ago
+Bitcoin Magazine • 20h ago
 
 ---
 
@@ -211,7 +211,7 @@ The Block • 2d ago
 
 Crypto offers big potential, but choosing the right coin isn't easy. Instead, betting on one company that sits at the center of the crypto ecosystem could benefit investors.
 
-The Motley Fool • 27m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -225,7 +225,7 @@ CoinDesk • 3h ago
 
 **[Bitcoin Price Surges Amid Epic Strategy Buying Spree](https://www.investors.com/news/bitcoin-price-strategy-buying-power-mstr-stock-strc-issuance-saylor/)**
 
-Investor's Business Daily • 18h ago
+Investor's Business Daily • 19h ago
 
 ---
 
@@ -321,13 +321,23 @@ A deeply technical early Bitcoiner realized that self-custody is only as strong 
 
 ## YouTube Videos: "bitcoin"
 
+**[All-Time High Stocks… Bitcoin About To Explode?](https://www.youtube.com/watch?v=SlPpXs_8WI4)**
+
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience. In this conversation, we break down ...
+
+📺 Anthony Pompliano
+
+👁️ 10K • 👍 898 • 💬 16 • ⏱️ 57:41 • 3h ago
+
+---
+
 **[Fox Business Reveals Massive Bitcoin News…](https://www.youtube.com/watch?v=UlJNGzbms34)**
 
 Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=AltcoinDaily BTC Conference 2026 ...
 
 📺 Altcoin Daily
 
-👁️ 34K • 👍 2K • 💬 155 • ⏱️ 8:39 • 15h ago
+👁️ 38K • 👍 2K • 💬 183 • ⏱️ 8:39 • 16h ago
 
 ---
 
@@ -337,7 +347,7 @@ A former Treasury Secretary warns the next crisis could be worse than 2008. Bond
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 1K • 💬 89 • ⏱️ 16:22 • 17h ago
+👁️ 22K • 👍 2K • 💬 96 • ⏱️ 16:22 • 17h ago
 
 ---
 
@@ -347,17 +357,17 @@ Sell Your FTX Claim w/ FTX Creditor: https://www.ftxcreditor.com Follow Louis on
 
 📺 Aaron Bennett
 
-👁️ 3K • 👍 212 • 💬 68 • ⏱️ 8:08 • 13h ago
+👁️ 4K • 👍 235 • 💬 91 • ⏱️ 8:08 • 14h ago
 
 ---
 
-**[Clarity Rally Begins?🚀DEALS Reached!📈Crypto Market Update](https://www.youtube.com/watch?v=xM_aKT_cN14)**
+**[once you realize what&#39;s happening to bitcoin... you WILL cry [and vibrate]](https://www.youtube.com/watch?v=QTxhX7f6aic)**
 
-According to a new report from JPMorgan Chase, the much-anticipated CLARITY Act is nearing a significant breakthrough as ...
+Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bitunix ...
 
-📺 Paul Barron Network
+📺 Tyler S
 
-👁️ 94K • 👍 5K • 💬 257 • ⏱️ 13:57 • 21h ago
+👁️ 10K • 👍 679 • 💬 401 • ⏱️ 11:49 • 20h ago
 
 ---
 
@@ -367,7 +377,17 @@ Are you ready? CRYPTO RETIREMENT ACCOUNT HERE Sign up for iTrustCapital and get 
 
 📺 Crypto Jebb
 
-👁️ 4K • 👍 241 • 💬 29 • ⏱️ 8:10 • 19h ago
+👁️ 4K • 👍 251 • 💬 29 • ⏱️ 8:10 • 20h ago
+
+---
+
+**[Clarity Rally Begins?🚀DEALS Reached!📈Crypto Market Update](https://www.youtube.com/watch?v=xM_aKT_cN14)**
+
+According to a new report from JPMorgan Chase, the much-anticipated CLARITY Act is nearing a significant breakthrough as ...
+
+📺 Paul Barron Network
+
+👁️ 98K • 👍 5K • 💬 265 • ⏱️ 13:57 • 21h ago
 
 ---
 
@@ -377,27 +397,7 @@ Bitcoin is back at $75K as risk appetite returns—but the bigger story is unfol
 
 📺 Swan Bitcoin
 
-👁️ 10K • 👍 584 • 💬 56 • ⏱️ 9:53 • 22h ago
-
----
-
-**[Bitcoin History Is Repeating 👀](https://www.youtube.com/watch?v=p5IvqgGHkpE)**
-
-This is Unlike ANYTHING Crypto Has Seen Before (i got it wrong) Crypto Analyst Dennis Liu of Crypto Bacon interview ⭐ Follow ...
-
-📺 Altcoin Daily
-
-👁️ 10K • 👍 233 • 💬 15 • ⏱️ 0:59 • 22h ago
-
----
-
-**[Bitcoin Reclaims $76,000...Breakout Soon That Starts The Run](https://www.youtube.com/watch?v=aoTlUw-Fy2M)**
-
-Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FREE Crypto Predictions & Compete Weekly ...
-
-📺 CryptosRUs
-
-👁️ 21K • 👍 1K • 💬 225 • ⏱️ 50:58 • 20h ago
+👁️ 10K • 👍 597 • 💬 56 • ⏱️ 9:53 • 23h ago
 
 ---
 
@@ -407,17 +407,17 @@ In today's Markets Outlook, Bitwise CIO Matt Hougan joins CoinDesk's Jennifer Sa
 
 📺 CoinDesk
 
-👁️ 20K • 👍 465 • 💬 75 • ⏱️ 20:47 • 1d ago
+👁️ 21K • 👍 474 • 💬 85 • ⏱️ 20:47 • 1d ago
 
 ---
 
-**[The Bitcoin Squeeze Is On: Key Targets and Entry Zones To Watch | CRYPTO LIVE TRADING](https://www.youtube.com/watch?v=PSZYegkxuVE)**
+**[Bitcoin Warning: Why BTC Hasn&#39;t Bottomed — Plus ETH, SOL, XRP &amp; Altcoin Targets](https://www.youtube.com/watch?v=qSxd31mu0UQ)**
 
-Bitcoin is squeezing and the targets are live. In this crypto live trading session, Dylan breaks down the full macro picture from Gold ...
+Gareth Soloway, Chief Market Strategist at Verified Investing, breaks down the latest crypto price action across Bitcoin, Ethereum, ...
 
-📺 Chart Hackers
+📺 Verified Pro Traders
 
-👁️ 4K • 👍 394 • 💬 8 • ⏱️ 55:36 • 21h ago
+👁️ 16K • 👍 1K • 💬 280 • ⏱️ 8:13 • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-18T15:06:57.323022+00:00'
+updated: '2026-04-18T16:02:08.705295+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- videos
 - news
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 18, 2026 at 15:06 UTC  
+**Last Updated:** April 18, 2026 at 16:02 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Tried posting this in r/ClaudeAI but it got auto-removed, and I was told to post
 
 I wanted a real local assistant on my phone, not a demo. First tried the usual llama.cpp in Termux — Gemma 4 was 2–3 tok/s and the phone was on fire. Then I switched to Google’s LiteRT setup, got Gemma 4 running smoothly, and wired it into an agent stack running in Termux. Now one Android phone is: running the LLM locally automating its own apps via ADB staying offline if I want Happy to share details + code and hear what else you’d build on top of this. https://preview.redd.it/7vkbrlzfryvg1.jpg?width=3024&format=pjpg&auto=webp&s=25455827ddf9715b4159ce64a18deba812cf0f5f
 
-4m ago
+1h ago
 
 ---
 
@@ -57,7 +57,7 @@ I wanted a real local assistant on my phone, not a demo. First tried the usual l
 
 Curious if anyone has found anything like this in their journeys: Instead of sending a big long email or document to a colleague and having them not read it, what if you sent an agent of sorts instead to deliver a brief message but also allow the receiver to ask more detailed questions if they have any? The agent could be loaded with various docs / details that could be referenced if the recipient has follow up questions without having to go back to the sender. This could be in various forms: chatbot, virtual avatar, or my favorite: a star-wars-like hologram 😂
 
-24m ago
+1h ago
 
 ---
 
@@ -65,7 +65,7 @@ Curious if anyone has found anything like this in their journeys: Instead of sen
 
 Mid-October, early morning at work. I was hunting for a podcast to throw on while I worked and stumbled into something about what AI could actually do now. You can build apps with AI. Excuse me? I’ve wanted to build an app since I opened my first one. So I went all in. Had zero clue how to build a computer, but I knew the cheap pre-builts weren’t going to cut it. And I figured, if AI can build an app, it should definitely be able to build a computer. Started conversations with ChatGPT and Claude. Thirty minutes later I had a custom parts list with ample headroom. Way overbuilt, on purpose. Ran it by my Guru. He said, “I see you used the PC Part Picker app.” I said nope, used AI. He looked the list over again, read the reasoning behind every part, and said, “I’m impressed. Never even thought of doing that.” Ordered everything. The DemoN was born. I had barely messed around on computers before this. Now I’m living in terminals and sandboxes, building stuff I didn’t know was possible six months ago. My advice? Jump in. Start learning. This isn’t a fad. It’s here to stay. Don’t get left behind.
 
-28m ago
+1h ago
 
 ---
 
@@ -73,7 +73,7 @@ Mid-October, early morning at work. I was hunting for a podcast to throw on whil
 
 The patent describes a system that uses artificial intelligence to create personalized web pages for each user.
 
-🔗 [PC Guide](https://www.pcguide.com/news/google-patents-ai-tech-that-will-personalize-websites-and-make-them-look-different-for-everyone/) • 23h ago
+🔗 [PC Guide](https://www.pcguide.com/news/google-patents-ai-tech-that-will-personalize-websites-and-make-them-look-different-for-everyone/) • 1d ago
 
 ---
 
@@ -81,7 +81,7 @@ The patent describes a system that uses artificial intelligence to create person
 
 I went out to create something that would would build prds for me for projects I'm working on. The core idea it is that it asks for all of the information that's needed for a PRD and it could also review the existing code to answer these questions. Then it breaks up the parts of the plan into separate files and only starts the next part after the first part is complete. Added to that is that it's reaching out to codex every end of part and does an independent review of the code. What I found that was really cool is that when I did that with my existing project to enhance it, the system continued to find more issues through the feedback loop with codex and opened new prds for those issues. So essentially it's running through my code finding issues as it's working on extending it
 
-13h ago
+14h ago
 
 ---
 
@@ -89,7 +89,7 @@ I went out to create something that would would build prds for me for projects I
 
 I am sharing this open-source list of cases where the ethics of GenAI use were put in the spotlight, in the hopes of sparking discussion on the usage and limitations of LLMs.
 
-🔗 [GitHub](https://github.com/hb20007/awesome-gen-ai-fails#readme) • 5h ago
+🔗 [GitHub](https://github.com/hb20007/awesome-gen-ai-fails#readme) • 6h ago
 
 ---
 
@@ -105,7 +105,7 @@ Reese Witherspoon is again advising her followers that there's no time like the 
 
 There seems to be about 1000 different options. I'm just looking for one that takes a prompt and spits out something usable. I'm good with paying for it if I need to but it needs to be able.to handle a lot of work.
 
-23h ago
+1d ago
 
 ---
 
@@ -113,7 +113,7 @@ There seems to be about 1000 different options. I'm just looking for one that ta
 
 I've been researching how personal AI tech devices are likely to develop ... technical capabilities, form factors, privacy and governance issues etc. I think it looks likely that there won't be one 'must have' device, and that there'll be more of a wearable ecosystem, with devices for different environments ... Glasses: outward and inward cameras, picking up facial expressions, gestures etc. Bone conduction audio. Augmented VR, infrared overlay etc. Cuff/Wristband: beyond a smart watch .. sensors picking up finger movements/gestures as input. Haptic actuators giving silent notifications. Pen/Stylus: currently underused as could also pick up gestures and have a microphone. Table top Node: palm sized unit. 360 degree vision and audio. Scout/Mini Drone: hovers above you for all round awareness, or can be sent ahead to scout an area, or find you children etc. All integrating with your smart phone, which may become more of a portable battery bank for charging other devices. Here's a blog post I have written that goes into more detail, including the privacy and legal issue etc (no ads/sign up etc) ... The AI Wearable Ecosystem What other devices might be developed? Should these devices be banned from recording other people?
 
-6h ago
+7h ago
 
 ---
 
@@ -123,7 +123,7 @@ I've been researching how personal AI tech devices are likely to develop ... tec
 
 **[Hundreds of Fake Pro-Trump Avatars Emerge on Social Media](https://www.nytimes.com/2026/04/17/business/media/artificial-intelligence-trump-social-media.html)**
 
-The New York Times • 2h ago
+The New York Times • 3h ago
 
 ---
 
@@ -137,7 +137,7 @@ The New York Times • 2d ago
 
 Allbirds' AI pivot shows signs of froth in markets, but experts say the underlying fundamentals in AI remain strong.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -153,7 +153,7 @@ BBC • 2d ago
 
 Experts say going back to school for a graduate degree is one way to hedge against a rapidly changing labor market.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -169,7 +169,7 @@ The Washington Post • 1h ago
 
 Molotov cocktail attack on OpenAI CEO’s home comes amid growing discontent against artificial intelligence
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
@@ -177,7 +177,7 @@ The Guardian • 1h ago
 
 Mary Akkerman has visited more than 30 college campuses with her children, one now at Stanford and another still in high school. She especially wanted them to get degrees that lead to good jobs – but figuring that out, said the Sioux Falls, South Dakota, parent, was a major challenge, thanks in part to the rapid advance of AI and its effects on the job market.
 
-CNN • 4h ago
+CNN • 5h ago
 
 ---
 
@@ -235,7 +235,7 @@ Hardware hacker’s flying probe automation stack for agent-driven   target disc
 
 We signed a 3 year lease and gave it to an AI
 
-⬆️ 198 • 💬 283 • 1d ago • [andonlabs.com](https://andonlabs.com/blog/andon-market-launch)
+⬆️ 198 • 💬 283 • 2d ago • [andonlabs.com](https://andonlabs.com/blog/andon-market-launch)
 
 ---
 
@@ -259,7 +259,7 @@ I've noticed the use of Copilot within a few reviews (13277 and 12730) which con
 
 The AI toolkit for building and maintaining browser automations - saffron-health/libretto
 
-⬆️ 129 • 💬 55 • 2d ago • [GitHub](https://github.com/saffron-health/libretto)
+⬆️ 129 • 💬 55 • 3d ago • [GitHub](https://github.com/saffron-health/libretto)
 
 ---
 
@@ -283,23 +283,23 @@ We've lived but a few years so far into the age when artificial intelligence can
 
 ## YouTube Videos: "ai"
 
-**[The World&#39;s First AI TED Talk](https://www.youtube.com/watch?v=N1X7vMp9DZ4)**
-
-ChatGPT was recently asked what it would say to humans if it could give a TED Talk. It gave a surprisingly thoughtful answer that ...
-
-📺 TED
-
-👁️ 36K • 👍 1K • 💬 586 • ⏱️ 3:28 • 18h ago
-
----
-
 **[99% of People Have No Idea What’s About to Happen With AI](https://www.youtube.com/watch?v=8yt5yzwJQko)**
 
 Get your FREE AI Prompt Cheatsheet here: https://go.danmartell.com/4tVJ4fz Are you building an AI software company?
 
 📺 Dan Martell
 
-👁️ 184K • 👍 8K • 💬 1K • ⏱️ 14:03 • 2d ago
+👁️ 188K • 👍 8K • 💬 1K • ⏱️ 14:03 • 2d ago
+
+---
+
+**[The World&#39;s First AI TED Talk](https://www.youtube.com/watch?v=N1X7vMp9DZ4)**
+
+ChatGPT was recently asked what it would say to humans if it could give a TED Talk. It gave a surprisingly thoughtful answer that ...
+
+📺 TED
+
+👁️ 40K • 👍 1K • 💬 625 • ⏱️ 3:28 • 18h ago
 
 ---
 
@@ -309,7 +309,7 @@ In this video, I break down a 4 week system for learning AI by using one tool fr
 
 📺 James Blue
 
-👁️ 4K • ⏱️ 10:55 • 4h ago
+👁️ 7K • 💬 2 • ⏱️ 10:55 • 5h ago
 
 ---
 
@@ -319,27 +319,7 @@ A series of animated Iranian propaganda videos made in the style of "The LEGO Mo
 
 📺 MS NOW
 
-👁️ 85K • 👍 2K • 💬 1K • ⏱️ 6:46 • 19h ago
-
----
-
-**[These HILARIOUS AI Parodies Keep PISSING OFF TRUMP!](https://www.youtube.com/watch?v=0aB9ycZDBIw)**
-
-Really American host Steve Harness breaks down more HILARIOUS AI Trump parodies coming out of Iran...and these may be the ...
-
-📺 Really American
-
-👁️ 1.1M • 👍 49K • 💬 3K • ⏱️ 12:33 • 1d ago
-
----
-
-**[AI Safety Expert: No One Is Ready for What&#39;s Coming in 2 Years | Roman Yampolskiy](https://www.youtube.com/watch?v=00RHph_eok4)**
-
-This episode is brought to you by Higgsfield — the AI video platform with Cinema Studio 2.5, built for creators who want cinematic ...
-
-📺 Silicon Valley Girl
-
-👁️ 26K • 👍 664 • 💬 118 • ⏱️ 45:43 • 1d ago
+👁️ 93K • 👍 2K • 💬 1K • ⏱️ 6:46 • 20h ago
 
 ---
 
@@ -349,27 +329,47 @@ Triggernometry is proudly independent. Thanks to the sponsors below for making t
 
 📺 Triggernometry
 
-👁️ 218K • 👍 6K • 💬 2K • ⏱️ 1:11:10 • 2d ago
+👁️ 222K • 👍 6K • 💬 2K • ⏱️ 1:11:10 • 2d ago
 
 ---
 
-**[I Asked AI to PREDICT the NEXT US PRESIDENT (The Answer Surprised Me)](https://www.youtube.com/watch?v=3n0RIgWOAbE)**
+**[AI Safety Expert: No One Is Ready for What&#39;s Coming in 2 Years | Roman Yampolskiy](https://www.youtube.com/watch?v=00RHph_eok4)**
 
-See if your SSN is for sale right now. My sponsor Cloaked will tell you for free in 2 seconds here: https://cloaked.com/iaskai ...
+This episode is brought to you by Higgsfield — the AI video platform with Cinema Studio 2.5, built for creators who want cinematic ...
 
-📺 I Ask AI
+📺 Silicon Valley Girl
 
-👁️ 68K • 👍 3K • 💬 756 • ⏱️ 38:52 • 18h ago
+👁️ 28K • 👍 704 • 💬 128 • ⏱️ 45:43 • 1d ago
 
 ---
 
-**[China Just Built an Autonomous AI Robot Army: Killer Robots With Guns and Rockets](https://www.youtube.com/watch?v=_Vw_6QrqS8c)**
+**[These HILARIOUS AI Parodies Keep PISSING OFF TRUMP!](https://www.youtube.com/watch?v=0aB9ycZDBIw)**
 
-China just revealed an autonomous robot war pack built from dog bots, drones, laser weapons, and unmanned boats, Europe is ...
+Really American host Steve Harness breaks down more HILARIOUS AI Trump parodies coming out of Iran...and these may be the ...
 
-📺 AI Revolution
+📺 Really American
 
-👁️ 55K • 👍 1K • 💬 115 • ⏱️ 16:14 • 1d ago
+👁️ 1.2M • 👍 51K • 💬 3K • ⏱️ 12:33 • 1d ago
+
+---
+
+**[&#39;That&#39;s disgusting&#39;: Trump voters reacted to deleted AI Jesus image](https://www.youtube.com/watch?v=XDjzCSoXgbc)**
+
+Florida Trump voters react to the president's now-deleted image depicting him as Christ-like. MS NOW: My Source for News, ...
+
+📺 MS NOW
+
+👁️ 33K • 👍 583 • 💬 449 • ⏱️ 3:57 • 2d ago
+
+---
+
+**[AI News: Huge Updates From Anthropic, OpenAI and Google](https://www.youtube.com/watch?v=bIrzOQtnp8w)**
+
+Here's the AI News you probably missed this week. Build AI apps that actually scale. Learn more about Crusoe Managed ...
+
+📺 Matt Wolfe
+
+👁️ 64K • 👍 3K • 💬 129 • ⏱️ 36:44 • 1d ago
 
 ---
 
@@ -379,7 +379,7 @@ discord.gg/nickjones.
 
 📺 Nick Jones
 
-👁️ 17K • 👍 787 • 💬 494 • ⏱️ 8:37 • 1d ago
+👁️ 17K • 👍 791 • 💬 495 • ⏱️ 8:37 • 1d ago
 
 ---
 
@@ -395,7 +395,7 @@ MiniMax-M2.7 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 258,064 • ❤️ 939 • 1d ago
+⬇️ 258,064 • ❤️ 945 • 1d ago
 
 ---
 
@@ -407,7 +407,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with a vision encoder, 
 
 `image-text-to-text` `36.0B`
 
-⬇️ 82,000 • ❤️ 792 • 3d ago
+⬇️ 82,000 • ❤️ 807 • 3d ago
 
 ---
 
@@ -419,7 +419,7 @@ HY-Embodied-0.5 is a multilingual vision-language model designed for embodied ag
 
 `image-text-to-text` `3.8B`
 
-⬇️ 1,454 • ❤️ 857 • 4d ago
+⬇️ 1,454 • ❤️ 861 • 4d ago
 
 ---
 
@@ -431,7 +431,7 @@ ERNIE-Image is a 8B parameter text-to-image diffusion model excelling in complex
 
 `text-to-image`
 
-⬇️ 3,116 • ❤️ 438 • 1d ago
+⬇️ 3,116 • ❤️ 442 • 1d ago
 
 ---
 
@@ -443,7 +443,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with vision capabilitie
 
 `image-text-to-text` `34.7B`
 
-⬇️ 442,900 • ❤️ 408 • 1d ago
+⬇️ 442,900 • ❤️ 420 • 1d ago
 
 ---
 
@@ -455,7 +455,7 @@ GLM-5.1 is a next-generation language model optimized for agentic engineering, f
 
 `text-generation` `753.9B`
 
-⬇️ 103,847 • ❤️ 1,391 • 2d ago
+⬇️ 103,847 • ❤️ 1,394 • 2d ago
 
 ---
 
@@ -467,19 +467,7 @@ A fast, uncensored GGUF text generation model based on Google's Gemma 4-26B, opt
 
 `text-generation` `25.2B`
 
-⬇️ 66,552 • ❤️ 388 • 6d ago
-
----
-
-**[gemma-4-31B-it](https://huggingface.co/google/gemma-4-31B-it)**
-
-*Google*
-
-Gemma 4 31B is an instruction-tuned, multimodal LLM capable of processing text and images to generate text. It excels at reasoning, coding, and handling long contexts (256K tokens) with a hybrid attention mechanism for efficient inference, suitable for complex agentic workflows.
-
-`image-text-to-text` `32.7B`
-
-⬇️ 3,778,070 • ❤️ 2,142 • 7d ago
+⬇️ 66,552 • ❤️ 393 • 6d ago
 
 ---
 
@@ -495,6 +483,18 @@ VoxCPM2 is a 2B parameter, 30-language multilingual text-to-speech model capable
 
 ---
 
+**[gemma-4-31B-it](https://huggingface.co/google/gemma-4-31B-it)**
+
+*Google*
+
+Gemma 4 31B is an instruction-tuned, multimodal LLM capable of processing text and images to generate text. It excels at reasoning, coding, and handling long contexts (256K tokens) with a hybrid attention mechanism for efficient inference, suitable for complex agentic workflows.
+
+`image-text-to-text` `32.7B`
+
+⬇️ 3,778,070 • ❤️ 2,146 • 7d ago
+
+---
+
 **[ERNIE-Image-Turbo](https://huggingface.co/baidu/ERNIE-Image-Turbo)**
 
 *BAIDU*
@@ -503,7 +503,7 @@ ERNIE-Image-Turbo is a distilled text-to-image diffusion model optimized for spe
 
 `text-to-image`
 
-⬇️ 4,119 • ❤️ 299 • 1d ago
+⬇️ 4,119 • ❤️ 302 • 1d ago
 
 ---
 
@@ -555,7 +555,7 @@ HY-World 2.0 is a multi-modal world model framework that generates high-fidelity
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 47 • 💬 2 • ⭐ 51,246 • 15mo ago
+▲ 47 • 💬 2 • ⭐ 51,345 • 15mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -601,19 +601,6 @@ DFlash is a speculative decoding framework that uses a lightweight block diffusi
 
 ---
 
-**[Efficient Memory Management for Large Language Model Serving with
-  PagedAttention](https://huggingface.co/papers/2309.06180)**
-
-*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
-
-PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
-
-▲ 52 • 💬 1 • ⭐ 77,128 • 31mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
-
----
-
 **[MinerU2.5: A Decoupled Vision-Language Model for Efficient
   High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
 
@@ -624,6 +611,19 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 ▲ 159 • 💬 2 • ⭐ 60,340 • 6mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
+
+---
+
+**[Efficient Memory Management for Large Language Model Serving with
+  PagedAttention](https://huggingface.co/papers/2309.06180)**
+
+*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
+
+PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
+
+▲ 53 • 💬 1 • ⭐ 77,188 • 31mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
 ---
 
@@ -649,7 +649,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 47.7k • 🔱 6.2k • 8h ago
+⭐ 47.8k • 🔱 6.2k • 1m ago
 
 ---
 
@@ -659,7 +659,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 37.3k • 🔱 1.8k • 4h ago
+⭐ 37.5k • 🔱 1.8k • 5h ago
 
 ---
 
@@ -669,7 +669,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 35.8k • 🔱 7.2k • 20h ago
+⭐ 35.9k • 🔱 7.2k • 21h ago
 
 ---
 
@@ -679,7 +679,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 29.5k • 🔱 3.2k • 5h ago
+⭐ 29.7k • 🔱 3.3k • 9m ago
 
 ---
 
@@ -689,7 +689,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 8.2k • 🔱 523 • 2h ago
+⭐ 8.2k • 🔱 523 • 32m ago
 
 ---
 
@@ -709,7 +709,7 @@ AI Agent 源码深度研究报告
 
 `Python`
 
-⭐ 5.2k • 🔱 867 • 4d ago
+⭐ 5.2k • 🔱 872 • 4d ago
 
 ---
 
@@ -739,7 +739,7 @@ The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interac
 
 `Python`
 
-⭐ 4.6k • 🔱 456 • 9d ago
+⭐ 4.6k • 🔱 457 • 9d ago
 
 ---
 
