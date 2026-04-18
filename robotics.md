@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-18T17:06:23.056987+00:00'
+updated: '2026-04-18T18:01:58.797402+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 18, 2026 at 17:06 UTC  
+**Last Updated:** April 18, 2026 at 18:01 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Remote-controlled snow plow robot I built in high school after a spine surgery. This project got me into engineering :)](https://www.reddit.com/r/robotics/comments/1sol2fp/remotecontrolled_snow_plow_robot_i_built_in_high/)**
 
-14h ago
+15h ago
 
 ---
 
 **[Beluga-Robot Interaction](https://www.reddit.com/r/robotics/comments/1sou3s2/belugarobot_interaction/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -48,7 +48,7 @@ Robotics research and industry news
 
 tbh ive been messing around with llms for a bit but got super bored of just typing into web interfaces. wanted something that actually sat on my desk and felt kinda 'alive' instead of just another thin wrapper. so basically i started building this prototype. calling it kitto for now. its a cyberpunk desktop companion or digital pet thing. the idea was to take a standard ai agent but give it an actual physical presence. hardware-wise its running on an esp32s3+esp32p4. eventually im going to port the custom OS to a linux board, but getting it running on a microcontroller has definately been a fun constraint. really didnt want the screen to look like a cheap toy just looping a pre-rendered gif. all the animations are driven by code. im currently pulling raw audio buffers and mapping amplitude/freq peaks to specific sprite frames for the mouth. so when it talks back to you to read the weather, set an alarm, or send an email (like in the video), it does real-time lip-sync and expression syncing based on tone. also threw in some classic digital pet mechanics so you can feed it or whatever. still a massive work in progress. getting the lip-sync to not look completely janky took way too much trial and error. latency is my biggest headache right now. pinging the api, getting the TTS audio back, and triggering the animation states fast enough to not break the illusion is brutal on this hardware.
 
-2h ago
+3h ago
 
 ---
 
@@ -62,7 +62,7 @@ tbh ive been messing around with llms for a bit but got super bored of just typi
 
 NVIDIA Hugging Face blog post: https://huggingface.co/blog/nvidia/gr00t-n1-7 Models: https://huggingface.co/collections/nvidia/gr00t-n17 GitHub: https://github.com/NVIDIA/Isaac-GR00T From NVIDIA Robotics on 𝕏: https://x.com/NVIDIARobotics/status/2045172389244240209
 
-6h ago
+7h ago
 
 ---
 
@@ -70,7 +70,7 @@ NVIDIA Hugging Face blog post: https://huggingface.co/blog/nvidia/gr00t-n1-7 Mod
 
 Hi everyone, Long time lurker here. I see many people learning about robotics through hobby projects (myself included) and I wanted to start sharing things that I've learned that people might find interesting or useful for their projects. This post is about servo calibration. When you buy cheap servos, you might not get the accuracy you need because there are variations between each unit. To get around this, you just need to rotate the servo to known positions and record the PWM value that takes the servo to those positions. This mapping yields a relationship between PWM and servo angle for that particular unit. https://preview.redd.it/26bqtn03qyvg1.png?width=614&format=png&auto=webp&s=3caf76f356cf4b993cdb0c9bbcd9835c720db032 Check out my article on Medium: https://medium.com/@ianqyhong/servo-calibration-4ea1d43c46a6 Let me know if you found this interesting, useful, completely useless, or any other feedback!
 
-2h ago
+3h ago
 
 ---
 
@@ -82,7 +82,7 @@ Hi everyone, Long time lurker here. I see many people learning about robotics th
 
 **[Solving Optimal Control Problems via Indirect Single Shooting](https://www.reddit.com/r/robotics/comments/1sos0iv/solving_optimal_control_problems_via_indirect/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -122,7 +122,7 @@ IEEE Spectrum • 2d ago
 
 **[China humanoid robot half-marathon to showcase technical leaps](https://www.reuters.com/world/asia-pacific/china-humanoid-robot-half-marathon-showcase-technical-leaps-2026-04-18/)**
 
-Reuters • 16h ago
+Reuters • 17h ago
 
 ---
 
@@ -130,7 +130,7 @@ Reuters • 16h ago
 
 Humanoid robots race Beijing’s half-marathon as Alibaba, Honor and Unitree showcase embodied AI, autonomy and battery tech—see implications and related ETFs.
 
-Seeking Alpha • 6h ago
+Seeking Alpha • 7h ago
 
 ---
 
@@ -176,7 +176,7 @@ The Robot Report • 1d ago
 
 Man’s best friend shares an ‘invisible care world’ with humans that AI can’t beat—yet.
 
-Popular Science • 1d ago
+Popular Science • 2d ago
 
 ---
 
@@ -240,7 +240,7 @@ AI robots failing and glitching 2026 is becoming impossible to ignore. From huma
 
 📺 MindSeeded
 
-👁️ 64K • 👍 4K • 💬 666 • ⏱️ 14:10 • 18h ago
+👁️ 64K • 👍 4K • 💬 666 • ⏱️ 14:10 • 19h ago
 
 ---
 

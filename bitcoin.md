@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-18T17:06:23.050530+00:00'
+updated: '2026-04-18T18:01:58.787523+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- cryptocurrency
 - news
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 18, 2026 at 17:06 UTC  
+**Last Updated:** April 18, 2026 at 18:01 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1524.99B
+**Market Cap:** $1518.62B
 Rank #1
 
-**Circulating Supply:** 20,017,562 BTC
+**Circulating Supply:** 20,017,609 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--39.6%
+-39.8%
 
 **All-Time Low:** $67.81
-+112244.8%
++111769.9%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 I was greedy in 2022 during the crash and wanted to wait for 12k to buy. 12k never came. After BTC teleported from 15k to 30k, I wanted a deep dip to 20k to buy. 20k never came. Then I watched BTC teleport from 25k to 70k without a single down month. Zero dips given. Then the 50k dip came but got bought up by the market instantly, the window to buy was extremely shortlived and I couldn't get in. Then BTC proceeded to teleport from 50k to 110k in just a few weeks and I basically missed the whole cycle. I have a feeling the same people waiting for 40k-50k now will go through what I went through and watch as BTC teleports to 500k (or whatever the next top is) without a single major dip.
 
-2h ago
+3h ago
 
 ---
 
 **[Bitcoin is dead](https://www.reddit.com/r/Bitcoin/comments/1socs7g/bitcoin_is_dead/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -95,7 +95,7 @@ I was greedy in 2022 during the crash and wanted to wait for 12k to buy. 12k nev
 
 Central bank greenlights regulated crypto access while keeping strict curbs on balance-sheet exposure
 
-🔗 [coindesk.com](https://www.coindesk.com/policy/2026/04/15/pakistan-lifts-seven-year-ban-allowing-banks-to-service-virtual-asset-providers) • 5h ago
+🔗 [coindesk.com](https://www.coindesk.com/policy/2026/04/15/pakistan-lifts-seven-year-ban-allowing-banks-to-service-virtual-asset-providers) • 6h ago
 
 ---
 
@@ -103,7 +103,7 @@ Central bank greenlights regulated crypto access while keeping strict curbs on b
 
 I'm so long.
 
-17h ago
+18h ago
 
 ---
 
@@ -111,7 +111,7 @@ I'm so long.
 
 Genuinely so happy to be done, I’ve reached my goal amount of btc to feel comfortable. I won’t lie, I make minimum wage for LA standard and ima stop buying and let it ride. Could hypothetically keep buying more but I truly have the next goal of getting 10k in fiat in my HYSA before touching any market. Sold all my stock to get to my goal and don’t regret it. Letting it ride and won’t open my wallets till I reach my saving goal. Thank you for all your help and advice, never been prouder.
 
-4h ago
+5h ago
 
 ---
 
@@ -119,7 +119,7 @@ Genuinely so happy to be done, I’ve reached my goal amount of btc to feel comf
 
 Stupid narratives
 
-12h ago
+13h ago
 
 ---
 
@@ -127,7 +127,7 @@ Stupid narratives
 
 Trying to understand how people approach Bitcoin long term. Do you keep adding over time or just hold and wait?
 
-2h ago
+3h ago
 
 ---
 
@@ -135,7 +135,7 @@ Trying to understand how people approach Bitcoin long term. Do you keep adding o
 
 I am new to crypto. Is this the right time to buy BTC since I see the chart it started to rebound?
 
-8h ago
+9h ago
 
 ---
 
@@ -143,7 +143,7 @@ I am new to crypto. Is this the right time to buy BTC since I see the chart it s
 
 Personally its 0.05 not a lot but i still believe in btc insted of fiat thats why im almost not having cash
 
-8h ago
+9h ago
 
 ---
 
@@ -161,7 +161,7 @@ Hey everyone, I’ve been buying Bitcoin since 2012/2013. I’ve lived through i
 
 **[‘Buy Bitcoin’—Elon Musk’s ‘Massive’ U.S. Dollar Warning Fuels Wild Crypto Price Predictions](https://www.forbes.com/sites/digital-assets/2026/04/18/buy-bitcoin-elon-musks-massive-us-dollar-warning-fuels-wild-crypto-price-predictions/)**
 
-Forbes • 5h ago
+Forbes • 6h ago
 
 ---
 
@@ -169,13 +169,13 @@ Forbes • 5h ago
 
 Rep. Sheri Biggs disclosed a purchase of up to $250,000 in BlackRock’s iShares Bitcoin Trust ETF for the second time in a year.
 
-The Block • 23h ago
+The Block • 1d ago
 
 ---
 
 **['Choke Point'—Bitcoin's $77B Coinbase ETF Warning Shocks Markets](https://www.forbes.com/sites/digital-assets/2026/04/17/choke-point-bitcoins-77b-coinbase-etf-warning-shocks-markets/)**
 
-Forbes • 15h ago
+Forbes • 16h ago
 
 ---
 
@@ -191,7 +191,7 @@ Bitcoin Magazine • 1d ago
 
 Crypto offers big potential, but choosing the right coin isn't easy. Instead, betting on one company that sits at the center of the crypto ecosystem could benefit investors.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -199,7 +199,7 @@ The Motley Fool • 2h ago
 
 Bitcoin and Ethereum dipped on Saturday. The two biggest cryptocurrencies are still up over the past seven days.  A ceasefire between the US and Iran looks shaky.
 
-dlnews.com • 1h ago
+dlnews.com • 2h ago
 
 ---
 
@@ -207,7 +207,7 @@ dlnews.com • 1h ago
 
 Tron blockchain has launched a post-quantum upgrade initiative, founder Justin Sun announced on Tuesday. Quantum Security Should Be A Feature, Says Sun In an X post, Sun said that Tron will be the “first major public blockchain” to deploy post-quantum...
 
-Yahoo Finance • 35m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -221,7 +221,7 @@ CNBC • 2d ago
 
 **[Bitcoin Price Surges Amid Epic Strategy Buying Spree](https://www.investors.com/news/bitcoin-price-strategy-buying-power-mstr-stock-strc-issuance-saylor/)**
 
-Investor's Business Daily • 20h ago
+Investor's Business Daily • 21h ago
 
 ---
 
@@ -323,7 +323,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 10K • 👍 898 • 💬 16 • ⏱️ 57:41 • 4h ago
+👁️ 10K • 👍 898 • 💬 16 • ⏱️ 57:41 • 5h ago
 
 ---
 
@@ -333,7 +333,7 @@ Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=Al
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 183 • ⏱️ 8:39 • 17h ago
+👁️ 38K • 👍 2K • 💬 183 • ⏱️ 8:39 • 18h ago
 
 ---
 
@@ -353,7 +353,7 @@ Sell Your FTX Claim w/ FTX Creditor: https://www.ftxcreditor.com Follow Louis on
 
 📺 Aaron Bennett
 
-👁️ 4K • 👍 235 • 💬 91 • ⏱️ 8:08 • 15h ago
+👁️ 4K • 👍 235 • 💬 91 • ⏱️ 8:08 • 16h ago
 
 ---
 
@@ -363,7 +363,7 @@ Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bi
 
 📺 Tyler S
 
-👁️ 10K • 👍 679 • 💬 401 • ⏱️ 11:49 • 21h ago
+👁️ 10K • 👍 679 • 💬 401 • ⏱️ 11:49 • 22h ago
 
 ---
 
@@ -373,7 +373,7 @@ Are you ready? CRYPTO RETIREMENT ACCOUNT HERE Sign up for iTrustCapital and get 
 
 📺 Crypto Jebb
 
-👁️ 4K • 👍 251 • 💬 29 • ⏱️ 8:10 • 21h ago
+👁️ 4K • 👍 251 • 💬 29 • ⏱️ 8:10 • 22h ago
 
 ---
 

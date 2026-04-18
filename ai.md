@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-18T17:06:23.044775+00:00'
+updated: '2026-04-18T18:01:58.778275+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - repositories
 - videos
-- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** April 18, 2026 at 17:06 UTC  
+**Last Updated:** April 18, 2026 at 18:01 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 AI Coding contest day 8 The eighth challenge is a weighted variant of the classic knight's tour. The knight must visit every square of a rectangular board exactly once, but each square carries an integer weight. As it moves, the knight accumulates load, and the cost of each move equals its current load. Charge is assessed upon departure, so the weight of the final square never contributes.
 
-1h ago
+2h ago
 
 ---
 
@@ -65,7 +65,7 @@ Tried posting this in r/ClaudeAI but it got auto-removed, and I was told to post
 
 Why 90% of AI implementations fail, and the uncomfortable lessons from the dot-com crash that nobody’s talking about.
 
-🔗 [Medium](https://medium.com/@borlidoadrian/the-ai-integration-paradox-cddf71844834) • 41m ago
+🔗 [Medium](https://medium.com/@borlidoadrian/the-ai-integration-paradox-cddf71844834) • 1h ago
 
 ---
 
@@ -73,7 +73,7 @@ Why 90% of AI implementations fail, and the uncomfortable lessons from the dot-c
 
 Hi folks! I'm Sarah, an audience editor from The Globe and Mail. I wanted to share this an in-depth feature about how banks are incorporating AI into their research – which is helping customers find answers faster. Here's a gift link to the piece, so anyone can read it without a paywall: How the promise of AI is taking hold at Canada’s biggest banks
 
-1h ago
+2h ago
 
 ---
 
@@ -81,7 +81,7 @@ Hi folks! I'm Sarah, an audience editor from The Globe and Mail. I wanted to sha
 
 I am sharing this open-source list of cases where the ethics of GenAI use were put in the spotlight, in the hopes of sparking discussion on the usage and limitations of LLMs.
 
-🔗 [GitHub](https://github.com/hb20007/awesome-gen-ai-fails#readme) • 7h ago
+🔗 [GitHub](https://github.com/hb20007/awesome-gen-ai-fails#readme) • 8h ago
 
 ---
 
@@ -89,7 +89,7 @@ I am sharing this open-source list of cases where the ethics of GenAI use were p
 
 Curious if anyone has found anything like this in their journeys: Instead of sending a big long email or document to a colleague and having them not read it, what if you sent an agent of sorts instead to deliver a brief message but also allow the receiver to ask more detailed questions if they have any? The agent could be loaded with various docs / details that could be referenced if the recipient has follow up questions without having to go back to the sender. This could be in various forms: chatbot, virtual avatar, or my favorite: a star-wars-like hologram 😂
 
-2h ago
+3h ago
 
 ---
 
@@ -105,7 +105,7 @@ The patent describes a system that uses artificial intelligence to create person
 
 I went out to create something that would would build prds for me for projects I'm working on. The core idea it is that it asks for all of the information that's needed for a PRD and it could also review the existing code to answer these questions. Then it breaks up the parts of the plan into separate files and only starts the next part after the first part is complete. Added to that is that it's reaching out to codex every end of part and does an independent review of the code. What I found that was really cool is that when I did that with my existing project to enhance it, the system continued to find more issues through the feedback loop with codex and opened new prds for those issues. So essentially it's running through my code finding issues as it's working on extending it
 
-15h ago
+16h ago
 
 ---
 
@@ -123,7 +123,7 @@ Reese Witherspoon is again advising her followers that there's no time like the 
 
 **[Hundreds of Fake Pro-Trump Avatars Emerge on Social Media](https://www.nytimes.com/2026/04/17/business/media/artificial-intelligence-trump-social-media.html)**
 
-The New York Times • 3h ago
+The New York Times • 4h ago
 
 ---
 
@@ -131,13 +131,13 @@ The New York Times • 3h ago
 
 Allbirds' AI pivot shows signs of froth in markets, but experts say the underlying fundamentals in AI remain strong.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
 **[Messaging features expand across platforms](https://www.axios.com/media-trends-membership/2026/04/18/chat-apps-ai-messages)**
 
-Axios • 55m ago
+Axios • 1h ago
 
 ---
 
@@ -145,7 +145,7 @@ Axios • 55m ago
 
 We can't fathom what it means to be AI. AI can't fathom what it means to be us. That's not a problem to solve. That's the most honest thing we can say about either.
 
-Psychology Today • 28m ago
+Psychology Today • 1h ago
 
 ---
 
@@ -153,7 +153,7 @@ Psychology Today • 28m ago
 
 The experiment was meant to be “a reflection of how humans have forgotten to be skeptical when presented information,” Osmanovic Thunström told The Post.
 
-New York Post • 51m ago
+New York Post • 1h ago
 
 ---
 
@@ -161,7 +161,7 @@ New York Post • 51m ago
 
 Mary Akkerman has visited more than 30 college campuses with her children, one now at Stanford and another still in high school. She especially wanted them to get degrees that lead to good jobs – but figuring that out, said the Sioux Falls, South Dakota, parent, was a major challenge, thanks in part to the rapid advance of AI and its effects on the job market.
 
-CNN • 6h ago
+CNN • 7h ago
 
 ---
 
@@ -169,7 +169,7 @@ CNN • 6h ago
 
 The discussion is a sign the AI firm's technology may be too critical for even the US government to do without.
 
-BBC • 16h ago
+BBC • 17h ago
 
 ---
 
@@ -177,13 +177,13 @@ BBC • 16h ago
 
 New system has sparked fears it could turbocharge hacking and expose weaknesses faster than they can be fixed
 
-Financial Times • 6h ago
+Financial Times • 7h ago
 
 ---
 
 **[White House and Anthropic Hold ‘Productive’ Meeting, Aiming for a Compromise](https://www.nytimes.com/2026/04/17/technology/white-house-anthropic-artificial-intelligence.html)**
 
-The New York Times • 17h ago
+The New York Times • 18h ago
 
 ---
 
@@ -191,7 +191,7 @@ The New York Times • 17h ago
 
 Groups concerned that AI could evade human control are recruiting content creators to warn the masses about the dangers of smarter machines.
 
-The Washington Post • 1h ago
+The Washington Post • 2h ago
 
 ---
 
@@ -297,7 +297,7 @@ ChatGPT was recently asked what it would say to humans if it could give a TED Ta
 
 📺 TED
 
-👁️ 40K • 👍 1K • 💬 625 • ⏱️ 3:28 • 19h ago
+👁️ 40K • 👍 1K • 💬 625 • ⏱️ 3:28 • 20h ago
 
 ---
 
@@ -307,7 +307,7 @@ In this video, I break down a 4 week system for learning AI by using one tool fr
 
 📺 James Blue
 
-👁️ 7K • 💬 2 • ⏱️ 10:55 • 6h ago
+👁️ 7K • 💬 2 • ⏱️ 10:55 • 7h ago
 
 ---
 
@@ -317,7 +317,7 @@ A series of animated Iranian propaganda videos made in the style of "The LEGO Mo
 
 📺 MS NOW
 
-👁️ 93K • 👍 2K • 💬 1K • ⏱️ 6:46 • 21h ago
+👁️ 93K • 👍 2K • 💬 1K • ⏱️ 6:46 • 22h ago
 
 ---
 
@@ -327,7 +327,7 @@ Triggernometry is proudly independent. Thanks to the sponsors below for making t
 
 📺 Triggernometry
 
-👁️ 222K • 👍 6K • 💬 2K • ⏱️ 1:11:10 • 2d ago
+👁️ 222K • 👍 6K • 💬 2K • ⏱️ 1:11:10 • 3d ago
 
 ---
 
@@ -657,7 +657,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 37.5k • 🔱 1.8k • 6h ago
+⭐ 37.6k • 🔱 1.8k • 7h ago
 
 ---
 
@@ -667,7 +667,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 35.9k • 🔱 7.2k • 22h ago
+⭐ 35.9k • 🔱 7.2k • 23h ago
 
 ---
 
@@ -677,7 +677,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 29.7k • 🔱 3.3k • 1h ago
+⭐ 29.7k • 🔱 3.3k • 2h ago
 
 ---
 
@@ -687,7 +687,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 8.2k • 🔱 523 • 1h ago
+⭐ 8.2k • 🔱 523 • 2h ago
 
 ---
 
@@ -707,7 +707,7 @@ AI Agent 源码深度研究报告
 
 `Python`
 
-⭐ 5.2k • 🔱 872 • 4d ago
+⭐ 5.2k • 🔱 874 • 19m ago
 
 ---
 
