@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-18T06:46:03.925842+00:00'
+updated: '2026-04-18T07:59:50.999684+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 18, 2026 at 06:46 UTC  
+**Last Updated:** April 18, 2026 at 07:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,272.66
+### $77,002.74
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.8%  
-**7d:** +9.1%  
-**30d:** +9.4%  
-**90d:** -16.7%  
-**1y:** -9.4%  
+**24h:** +1.5%  
+**7d:** +8.7%  
+**30d:** +9.1%  
+**90d:** -17.0%  
+**1y:** -9.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1544.93B
+**Market Cap:** $1540.33B
 Rank #1
 
-**Circulating Supply:** 20,017,362 BTC
+**Circulating Supply:** 20,017,418 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--38.8%
+-38.9%
 
 **All-Time Low:** $67.81
-+113746.0%
++113421.6%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Bitcoin is dead](https://www.reddit.com/r/Bitcoin/comments/1socs7g/bitcoin_is_dead/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 I'm so long.
 
-7h ago
+8h ago
 
 ---
 
@@ -95,21 +95,7 @@ I'm so long.
 
 Hey everyone, I’ve been buying Bitcoin since 2012/2013. I’ve lived through it all, studied all cycles in detail, and I’m usually dead silent on Reddit, I just lurk, watch, and stay out of the noise. Never really comment. But… This feels massively like the 2013 cycle and the 2021 cycle. We’d hit a top, then a brutal dip where everyone piled into the “lower lows incoming,” “it’s over,” narrative. Capitulation everywhere. Then, surprise, it bounced hard and went on to make new cycle highs. That’s exactly what I see playing out right now. We topped at roughly $126,200 in early October 2025. Since then we’ve had the classic post-peak flush, fear, and bearish calls for even lower prices. But to me this looks like the same retest/bounce setup we’ve seen before. The crowd is getting shaken out again right before the next leg higher. In my experience, this is when things get very bullish. A lot of people are going to sit on the sidelines waiting for “the real bottom” that never comes. People think the cycle top has com and we have entered bear, but the market is maturing and becoming longer. Wouldn’t surprise me at all if we see the cycle top sometime in late 2026 or 2027 in the $180k–$220k range. Just my two sats after watching this market for over a decade. Do your own research, never financial advice… but damn if this doesn’t feel familiar in the best possible way. Stay safe out there. (And yeah… still not selling.)
 
-15h ago
-
----
-
-**[Recovered forgotten coinbase account with .25 BTC](https://www.reddit.com/r/Bitcoin/comments/1sod7x0/recovered_forgotten_coinbase_account_with_25_btc/)**
-
-As I recovered an old email account I found I had a coinbase account I had completely forgotten about. It’s not much, compared to other folks in this sub, but it has .25 BTC and other currencies from forks in the past 9 years since I bought it. I had completely forgotten about it and, because of it, never declared in my tax returns. Apparently I should have done that and submit an ID to coinbase. I haven’t done anything yet, or touched the currencies. Am I fucked? or can I just submit my ID and declare in the tax return next year? Apologies for my ignorance, I have stayed away from crypto since I bought .25 BTC back in 2017. All advise is appreciated.
-
-9h ago
-
----
-
-**[I’m Building a Bitcoin Company](https://www.reddit.com/r/Bitcoin/comments/1sogvxt/im_building_a_bitcoin_company/)**
-
-7h ago
+16h ago
 
 ---
 
@@ -117,25 +103,39 @@ As I recovered an old email account I found I had a coinbase account I had compl
 
 Stupid narratives
 
-2h ago
+3h ago
 
 ---
 
-**[this is really interesting](https://www.reddit.com/r/Bitcoin/comments/1so9tg4/this_is_really_interesting/)**
+**[Recovered forgotten coinbase account with .25 BTC](https://www.reddit.com/r/Bitcoin/comments/1sod7x0/recovered_forgotten_coinbase_account_with_25_btc/)**
+
+As I recovered an old email account I found I had a coinbase account I had completely forgotten about. It’s not much, compared to other folks in this sub, but it has .25 BTC and other currencies from forks in the past 9 years since I bought it. I had completely forgotten about it and, because of it, never declared in my tax returns. Apparently I should have done that and submit an ID to coinbase. I haven’t done anything yet, or touched the currencies. Am I fucked? or can I just submit my ID and declare in the tax return next year? Apologies for my ignorance, I have stayed away from crypto since I bought .25 BTC back in 2017. All advise is appreciated.
 
 11h ago
 
 ---
 
+**[I’m Building a Bitcoin Company](https://www.reddit.com/r/Bitcoin/comments/1sogvxt/im_building_a_bitcoin_company/)**
+
+8h ago
+
+---
+
+**[this is really interesting](https://www.reddit.com/r/Bitcoin/comments/1so9tg4/this_is_really_interesting/)**
+
+13h ago
+
+---
+
 **[The current situation in one picture](https://www.reddit.com/r/Bitcoin/comments/1so1wy0/the_current_situation_in_one_picture/)**
 
-16h ago
+17h ago
 
 ---
 
 **[Every time they say BTC is dead, it just climbs another $4k.](https://www.reddit.com/r/Bitcoin/comments/1so2gyt/every_time_they_say_btc_is_dead_it_just_climbs/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -143,13 +143,37 @@ Stupid narratives
 
 What do you guys think... will it HODL?
 
-17h ago
+18h ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
+
+**[How a quantum computer can be used to actually steal your bitcoin in '9 minutes'](https://www.coindesk.com/tech/2026/04/18/how-a-quantum-computer-can-be-used-to-actually-steal-your-bitcoin-in-9-minutes)**
+
+Part one explained the physics of quantum computing. This piece explains the target — how bitcoin's encryption works, why a quantum algorithm breaks it, and what Google's paper changed about the timeline.
+
+CoinDesk • 4h ago
+
+---
+
+**[Satoshi Nakamoto is one of the richest people in the world, but a proposed update could lock his Bitcoin away forever](https://www.dlnews.com/articles/web3/devs-propose-bitcoin-freeze-amid-quantum-computer-fears/)**
+
+New Bitcoin upgrade proposal splits opinions. Developers say freezing Bitcoin in vulnerable wallets is necessary to defend against a potential quantum attack.  A future quantum computer could threaten the $1.5 trillion blockchain.
+
+dlnews.com • 1h ago
+
+---
+
+**[When Quantum Computers Come for Your Bitcoin: What Classical Property Law Says Happens Next](https://bitcoinmagazine.com/legal/when-quantum-computers-come-for-your-bitcoin-what-classical-property-law-says-happens-next)**
+
+A look at the legal aspects and relevant laws regarding a hypothetical theft of bitcoin utilizing quantum computers.
+
+Bitcoin Magazine • 12h ago
+
+---
 
 **[Charles Schwab to launch direct bitcoin, ether trading to compete with Robinhood](https://www.cnbc.com/2026/04/16/charles-schwab-to-launch-direct-bitcoin-ethereum-trading-to-compete-with-robinhood.html)**
 
@@ -161,7 +185,7 @@ CNBC • 1d ago
 
 **[Bitcoin Price Tops $75,000, XRP, Solana Gain. What's Driving the Crypto Rally.](https://www.barrons.com/articles/bitcoin-price-xrp-solana-cryptos-strategy-robinhood-today-96c8568b)**
 
-Barron's • 16h ago
+Barron's • 17h ago
 
 ---
 
@@ -169,15 +193,23 @@ Barron's • 16h ago
 
 Iran's foreign minister said the Strait of Hormuz will remain completely open for the remainder of the ceasefire.
 
-CoinDesk • 14h ago
+CoinDesk • 15h ago
 
 ---
 
-**[XRP to $10? Rally hopes build as token jumps 8% weekly, outpacing majors](https://www.coindesk.com/markets/2026/04/18/xrp-leads-majors-with-8-weekly-outperformance-what-next-after-breakout)**
+**[Could Bitcoin Actually Hit $200,000 Before 2028?](https://www.fool.com/investing/2026/04/18/could-bitcoin-actually-hit-200000-before-2028/)**
 
-Token edges ahead of bitcoin and ether over seven days, though thinning participation keeps the move in consolidation territory.
+This asset is capable of making some impressive moves.
 
-CoinDesk • 1h ago
+The Motley Fool • 23m ago
+
+---
+
+**[Connecting Excellence CEO on first Bitcoin recruitment payment - ICYMI](https://ca.finance.yahoo.com/news/connecting-excellence-ceo-first-bitcoin-065000784.html)**
+
+Connecting Excellence Group Plc (AQSE:XCE, OTCQB:XCELF) CEO, Scott Ellam, talked with Proactive about the company’s latest milestone of receiving payment in Bitcoin for executive recruitment services and what this signals for its broader strategy. Ellam explained that the transaction...
+
+Yahoo! Finance Canada • 1h ago
 
 ---
 
@@ -189,39 +221,7 @@ The New York Times • 1d ago
 
 **['Banks Are Coming'—Wall Street Bitcoin Rush Targets $189K](https://www.forbes.com/sites/digital-assets/2026/04/17/banks-are-coming-wall-street-bitcoin-rush-targets-189k/)**
 
-Forbes • 13h ago
-
----
-
-**[When Quantum Computers Come for Your Bitcoin: What Classical Property Law Says Happens Next](https://bitcoinmagazine.com/legal/when-quantum-computers-come-for-your-bitcoin-what-classical-property-law-says-happens-next)**
-
-A look at the legal aspects and relevant laws regarding a hypothetical theft of bitcoin utilizing quantum computers.
-
-Bitcoin Magazine • 11h ago
-
----
-
-**[Satoshi Nakamoto is one of the richest people in the world, but a proposed update could lock his Bitcoin away forever](https://www.dlnews.com/articles/web3/devs-propose-bitcoin-freeze-amid-quantum-computer-fears/)**
-
-New Bitcoin upgrade proposal splits opinions. Developers say freezing Bitcoin in vulnerable wallets is necessary to defend against a potential quantum attack.  A future quantum computer could threaten the $1.5 trillion blockchain.
-
-dlnews.com • 2m ago
-
----
-
-**[How a quantum computer can be used to actually steal your bitcoin in '9 minutes'](https://www.coindesk.com/tech/2026/04/18/how-a-quantum-computer-can-be-used-to-actually-steal-your-bitcoin-in-9-minutes)**
-
-Part one explained the physics of quantum computing. This piece explains the target — how bitcoin's encryption works, why a quantum algorithm breaks it, and what Google's paper changed about the timeline.
-
-CoinDesk • 2h ago
-
----
-
-**[The O.C. Guy Says Bitcoin Is ‘Still a Ponzi Scheme’](https://nymag.com/intelligencer/article/the-ocs-ben-mckenzie-says-bitcoin-is-lying-to-you-for-money.html)**
-
-“Not only gotten away with it, they’ve made a ton of money,” says actor Ben McKenzie, whose doc explores crypto’s crash and Trump-fueled rise.
-
-New York Magazine • 19h ago
+Forbes • 15h ago
 
 ---
 
@@ -313,7 +313,7 @@ Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=Al
 
 📺 Altcoin Daily
 
-👁️ 19K • 👍 1K • 💬 52 • ⏱️ 8:39 • 7h ago
+👁️ 26K • 👍 1K • 💬 116 • ⏱️ 8:39 • 8h ago
 
 ---
 
@@ -323,7 +323,7 @@ According to a new report from JPMorgan Chase, the much-anticipated CLARITY Act 
 
 📺 Paul Barron Network
 
-👁️ 79K • 👍 4K • 💬 238 • ⏱️ 13:57 • 12h ago
+👁️ 85K • 👍 4K • 💬 245 • ⏱️ 13:57 • 13h ago
 
 ---
 
@@ -333,17 +333,17 @@ A former Treasury Secretary warns the next crisis could be worse than 2008. Bond
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 1K • 💬 73 • ⏱️ 16:22 • 8h ago
+👁️ 18K • 👍 1K • 💬 79 • ⏱️ 16:22 • 9h ago
 
 ---
 
-**[The Crypto Market Is Getting Absurd](https://www.youtube.com/watch?v=OzwcedpfW68)**
+**[Why Bitcoin Is Almost $80,000 Right Now](https://www.youtube.com/watch?v=s-ZvLM_p59k)**
 
-BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://fxo.co/JB36 Commonwealth Union: ...
+Sell Your FTX Claim w/ FTX Creditor: https://www.ftxcreditor.com Follow Louis on X: https://x.com/LouisOrigny Linqto Creditor: ...
 
-📺 Altcoin Daily
+📺 Aaron Bennett
 
-👁️ 50K • 👍 2K • 💬 145 • ⏱️ 14:13 • 2d ago
+👁️ 2K • 👍 152 • 💬 71 • ⏱️ 8:08 • 6h ago
 
 ---
 
@@ -353,7 +353,7 @@ Bitcoin is back at $75K as risk appetite returns—but the bigger story is unfol
 
 📺 Swan Bitcoin
 
-👁️ 9K • 👍 544 • 💬 58 • ⏱️ 9:53 • 13h ago
+👁️ 9K • 👍 560 • 💬 56 • ⏱️ 9:53 • 15h ago
 
 ---
 
@@ -363,17 +363,7 @@ Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FR
 
 📺 CryptosRUs
 
-👁️ 20K • 👍 1K • 💬 109 • ⏱️ 50:58 • 12h ago
-
----
-
-**[Everything just changed!! Is Bitcoin READY to EXPLODE?! | EP 1485](https://www.youtube.com/watch?v=5TkxW2Tkb9s)**
-
-And just like that everything is now working in bitcoin's favor!! Bear market over or bull trap?
-
-📺 Simply Bitcoin
-
-👁️ 7K • 👍 342 • 💬 24 • ⏱️ 1:31:21 • 12h ago
+👁️ 20K • 👍 1K • 💬 189 • ⏱️ 50:58 • 13h ago
 
 ---
 
@@ -383,17 +373,27 @@ In today's Markets Outlook, Bitwise CIO Matt Hougan joins CoinDesk's Jennifer Sa
 
 📺 CoinDesk
 
-👁️ 19K • 👍 445 • 💬 75 • ⏱️ 20:47 • 1d ago
+👁️ 20K • 👍 452 • 💬 75 • ⏱️ 20:47 • 1d ago
 
 ---
 
-**[Bitcoin Warning: Why BTC Hasn&#39;t Bottomed — Plus ETH, SOL, XRP &amp; Altcoin Targets](https://www.youtube.com/watch?v=qSxd31mu0UQ)**
+**[🚨 Bitcoin Ready To BREAK $80K?! (This News Could Change Everything)](https://www.youtube.com/watch?v=XiQUSWGETcI)**
 
-Gareth Soloway, Chief Market Strategist at Verified Investing, breaks down the latest crypto price action across Bitcoin, Ethereum, ...
+Bitcoin Is One Move Away From $80000… (This Changes Everything) Bitcoin keeps getting rejected near $80K—but there's a ...
 
-📺 Verified Pro Traders
+📺 Tim Warren
 
-👁️ 15K • 👍 1K • 💬 141 • ⏱️ 8:13 • 20h ago
+👁️ 3K • 👍 359 • 💬 44 • ⏱️ 11:10 • 12h ago
+
+---
+
+**[Bitcoin History Is Repeating 👀](https://www.youtube.com/watch?v=p5IvqgGHkpE)**
+
+This is Unlike ANYTHING Crypto Has Seen Before (i got it wrong) Crypto Analyst Dennis Liu of Crypto Bacon interview ⭐ Follow ...
+
+📺 Altcoin Daily
+
+👁️ 8K • 👍 213 • 💬 14 • ⏱️ 0:59 • 14h ago
 
 ---
 
@@ -403,7 +403,7 @@ Dana Love, PhD breaks down who actually drove Bitcoin to $75000, and it wasn't r
 
 📺 Dana Love, PhD
 
-👁️ 2K • 👍 93 • 💬 15 • ⏱️ 1:53 • 12h ago
+👁️ 2K • 👍 97 • 💬 18 • ⏱️ 1:53 • 13h ago
 
 ---
 
