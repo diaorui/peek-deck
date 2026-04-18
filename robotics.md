@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-18T16:02:08.722872+00:00'
+updated: '2026-04-18T17:06:23.056987+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 18, 2026 at 16:02 UTC  
+**Last Updated:** April 18, 2026 at 17:06 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,27 +34,13 @@ Robotics research and industry news
 
 **[Remote-controlled snow plow robot I built in high school after a spine surgery. This project got me into engineering :)](https://www.reddit.com/r/robotics/comments/1sol2fp/remotecontrolled_snow_plow_robot_i_built_in_high/)**
 
-13h ago
+14h ago
 
 ---
 
 **[Beluga-Robot Interaction](https://www.reddit.com/r/robotics/comments/1sou3s2/belugarobot_interaction/)**
 
-5h ago
-
----
-
-**[The race ended before it got even started for this robot](https://www.reddit.com/r/robotics/comments/1so68c6/the_race_ended_before_it_got_even_started_for/)**
-
-23h ago
-
----
-
-**[NVIDIA unveilled Isaac GR00T N1.7, an open, commercially licensed VLA foundation model for humanoid robots (models on Hugging Face)](https://www.reddit.com/r/robotics/comments/1sou1oa/nvidia_unveilled_isaac_gr00t_n17_an_open/)**
-
-NVIDIA Hugging Face blog post: https://huggingface.co/blog/nvidia/gr00t-n1-7 Models: https://huggingface.co/collections/nvidia/gr00t-n17 GitHub: https://github.com/NVIDIA/Isaac-GR00T From NVIDIA Robotics on 𝕏: https://x.com/NVIDIARobotics/status/2045172389244240209
-
-5h ago
+6h ago
 
 ---
 
@@ -62,7 +48,29 @@ NVIDIA Hugging Face blog post: https://huggingface.co/blog/nvidia/gr00t-n1-7 Mod
 
 tbh ive been messing around with llms for a bit but got super bored of just typing into web interfaces. wanted something that actually sat on my desk and felt kinda 'alive' instead of just another thin wrapper. so basically i started building this prototype. calling it kitto for now. its a cyberpunk desktop companion or digital pet thing. the idea was to take a standard ai agent but give it an actual physical presence. hardware-wise its running on an esp32s3+esp32p4. eventually im going to port the custom OS to a linux board, but getting it running on a microcontroller has definately been a fun constraint. really didnt want the screen to look like a cheap toy just looping a pre-rendered gif. all the animations are driven by code. im currently pulling raw audio buffers and mapping amplitude/freq peaks to specific sprite frames for the mouth. so when it talks back to you to read the weather, set an alarm, or send an email (like in the video), it does real-time lip-sync and expression syncing based on tone. also threw in some classic digital pet mechanics so you can feed it or whatever. still a massive work in progress. getting the lip-sync to not look completely janky took way too much trial and error. latency is my biggest headache right now. pinging the api, getting the TTS audio back, and triggering the animation states fast enough to not break the illusion is brutal on this hardware.
 
-1h ago
+2h ago
+
+---
+
+**[The race ended before it got even started for this robot](https://www.reddit.com/r/robotics/comments/1so68c6/the_race_ended_before_it_got_even_started_for/)**
+
+1d ago
+
+---
+
+**[NVIDIA unveilled Isaac GR00T N1.7, an open, commercially licensed VLA foundation model for humanoid robots (models on Hugging Face)](https://www.reddit.com/r/robotics/comments/1sou1oa/nvidia_unveilled_isaac_gr00t_n17_an_open/)**
+
+NVIDIA Hugging Face blog post: https://huggingface.co/blog/nvidia/gr00t-n1-7 Models: https://huggingface.co/collections/nvidia/gr00t-n17 GitHub: https://github.com/NVIDIA/Isaac-GR00T From NVIDIA Robotics on 𝕏: https://x.com/NVIDIARobotics/status/2045172389244240209
+
+6h ago
+
+---
+
+**[Servo Motor Calibration](https://www.reddit.com/r/robotics/comments/1soz9ro/servo_motor_calibration/)**
+
+Hi everyone, Long time lurker here. I see many people learning about robotics through hobby projects (myself included) and I wanted to start sharing things that I've learned that people might find interesting or useful for their projects. This post is about servo calibration. When you buy cheap servos, you might not get the accuracy you need because there are variations between each unit. To get around this, you just need to rotate the servo to known positions and record the PWM value that takes the servo to those positions. This mapping yields a relationship between PWM and servo angle for that particular unit. https://preview.redd.it/26bqtn03qyvg1.png?width=614&format=png&auto=webp&s=3caf76f356cf4b993cdb0c9bbcd9835c720db032 Check out my article on Medium: https://medium.com/@ianqyhong/servo-calibration-4ea1d43c46a6 Let me know if you found this interesting, useful, completely useless, or any other feedback!
+
+2h ago
 
 ---
 
@@ -72,17 +80,9 @@ tbh ive been messing around with llms for a bit but got super bored of just typi
 
 ---
 
-**[Servo Motor Calibration](https://www.reddit.com/r/robotics/comments/1soz9ro/servo_motor_calibration/)**
-
-Hi everyone, Long time lurker here. I see many people learning about robotics through hobby projects (myself included) and I wanted to start sharing things that I've learned that people might find interesting or useful for their projects. This post is about servo calibration. When you buy cheap servos, you might not get the accuracy you need because there are variations between each unit. To get around this, you just need to rotate the servo to known positions and record the PWM value that takes the servo to those positions. This mapping yields a relationship between PWM and servo angle for that particular unit. https://preview.redd.it/26bqtn03qyvg1.png?width=614&format=png&auto=webp&s=3caf76f356cf4b993cdb0c9bbcd9835c720db032 Check out my article on Medium: https://medium.com/@ianqyhong/servo-calibration-4ea1d43c46a6 Let me know if you found this interesting, useful, completely useless, or any other feedback!
-
-1h ago
-
----
-
 **[Solving Optimal Control Problems via Indirect Single Shooting](https://www.reddit.com/r/robotics/comments/1sos0iv/solving_optimal_control_problems_via_indirect/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -104,6 +104,14 @@ From Physical Intelligence on 𝕏 (thread): https://x.com/physical_int/status/2
 
 ## Google News: "robotics"
 
+**[Chef Robotics escaped the robot cooking graveyard and says it’s thriving — here’s why](https://techcrunch.com/2026/04/17/chef-robotics-escaped-the-robot-cooking-graveyard-and-says-its-thriving-heres-why/)**
+
+The company, which deploys AI-guided robot arms for food production, says it is looking to expand its services to provide for a broader array of customers.
+
+TechCrunch • 1d ago
+
+---
+
 **[Video Friday: Digit Learns to Dead-lift](https://spectrum.ieee.org/robot-learning)**
 
 Your weekly selection of awesome robot videos
@@ -112,11 +120,25 @@ IEEE Spectrum • 2d ago
 
 ---
 
-**[The AI Boom Is Making Training Robots the Hot New Gig](https://www.businessinsider.com/robotics-ai-training-data-transforming-instawork-gig-work-platform-instacore-2026-4)**
+**[China humanoid robot half-marathon to showcase technical leaps](https://www.reuters.com/world/asia-pacific/china-humanoid-robot-half-marathon-showcase-technical-leaps-2026-04-18/)**
 
-The race for robotics data is transforming gig work, as Instawork turns its workforce into a key engine for training AI-powered machines.
+Reuters • 16h ago
 
-Business Insider • 2d ago
+---
+
+**[Run, Robot, Run: Investors eye Beijing's humanoid half-marathon for breakouts (HUMN:BATS)](https://seekingalpha.com/news/4576096-run-robot-run-investors-eye-beijings-humanoid-half-marathon-for-breakouts)**
+
+Humanoid robots race Beijing’s half-marathon as Alibaba, Honor and Unitree showcase embodied AI, autonomy and battery tech—see implications and related ETFs.
+
+Seeking Alpha • 6h ago
+
+---
+
+**[Disturbing video shows humanoid robots preparing for border patrol duties](https://www.earth.com/news/humanoid-robots-walker-s2-preparing-for-border-patrol-duty-china-vietnam/)**
+
+Walker S2 is an adult-sized humanoid robot with legs, a torso, and arms. China is sending these robots to patrol their border with Vietnam.
+
+Earth.com • 1d ago
 
 ---
 
@@ -124,29 +146,7 @@ Business Insider • 2d ago
 
 Robots have a growing role on the battlefield – but for the immediate future, they are more likely to support the fight than lead it.
 
-The Conversation • 23h ago
-
----
-
-**[China humanoid robot half-marathon to showcase technical leaps](https://www.reuters.com/world/asia-pacific/china-humanoid-robot-half-marathon-showcase-technical-leaps-2026-04-18/)**
-
-Reuters • 15h ago
-
----
-
-**[Flying cars and humanoid robots showcased at Edison Awards in Fort Myers](https://www.gulfcoastnewsnow.com/article/flying-cars-humanoid-robots-edison-awards-fort-myers/71041841)**
-
-Flying cars and humanoid robots showcased at Edison Awards in Fort Myers.
-
-Gulf Coast News and Weather • 1d ago
-
----
-
-**[Robots crack jokes and grasp items at Humanoid Robot Expo in Tokyo](https://apnews.com/video/humanoid-robots-crack-jokes-and-grasp-items-at-humanoid-robot-expo-in-tokyo-8be83603b1964e2ab90bb506cc4e5860)**
-
-They can dance and they're good at doing repetitive work we humans tire of, but the big question at the Tokyo Expo is when will the humanoids be able to look after us at home.
-
-AP News • 2d ago
+The Conversation • 1d ago
 
 ---
 
@@ -166,17 +166,17 @@ MIT Technology Review • 1d ago
 
 ---
 
-**[ECU Health doctor first in state to use robotics during colorectal procedure](https://www.witn.com/2026/04/17/ecu-health-doctor-first-state-use-robotics-during-colorectal-procedure/)**
-
-Dr. Warqaa Akram with ECU Health Cancer Care used the da Vinci Single Port robotic system during two single-port surgeries on March 16.
-
-WITN • 21h ago
-
----
-
 **[Skild acquires Fetch Robotics assets from Zebra](https://www.therobotreport.com/skild-acquires-fetch-robotics-assets-from-zebra-automation/)**
 
 The Robot Report • 1d ago
+
+---
+
+**[Robots can’t replace guide dogs](https://www.popsci.com/technology/robots-replace-guide-dogs/)**
+
+Man’s best friend shares an ‘invisible care world’ with humans that AI can’t beat—yet.
+
+Popular Science • 1d ago
 
 ---
 
@@ -240,7 +240,7 @@ AI robots failing and glitching 2026 is becoming impossible to ignore. From huma
 
 📺 MindSeeded
 
-👁️ 64K • 👍 4K • 💬 666 • ⏱️ 14:10 • 17h ago
+👁️ 64K • 👍 4K • 💬 666 • ⏱️ 14:10 • 18h ago
 
 ---
 
@@ -250,7 +250,7 @@ A humanoid robot just sprinted at ten meters per second on an open track — no 
 
 📺 NextGen Humanoids
 
-👁️ 54K • 👍 1K • 💬 127 • ⏱️ 8:07 • 5d ago
+👁️ 54K • 👍 1K • 💬 127 • ⏱️ 8:07 • 6d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-18T16:02:08.705295+00:00'
+updated: '2026-04-18T17:06:23.044775+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
 - repositories
 - videos
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 18, 2026 at 16:02 UTC  
+**Last Updated:** April 18, 2026 at 17:06 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,6 +37,22 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Claude vs Gemini: Solving the laden knight's tour problem](https://www.reddit.com/r/artificial/comments/1sp0r1j/claude_vs_gemini_solving_the_laden_knights_tour/)**
+
+AI Coding contest day 8 The eighth challenge is a weighted variant of the classic knight's tour. The knight must visit every square of a rectangular board exactly once, but each square carries an integer weight. As it moves, the knight accumulates load, and the cost of each move equals its current load. Charge is assessed upon departure, so the weight of the final square never contributes.
+
+1h ago
+
+---
+
+**[Gemma 4 actually running usable on an Android phone (not llama.cpp)](https://www.reddit.com/r/artificial/comments/1sozytf/gemma_4_actually_running_usable_on_an_android/)**
+
+I wanted a real local assistant on my phone, not a demo. First tried the usual llama.cpp in Termux — Gemma 4 was 2–3 tok/s and the phone was on fire. Then I switched to Google’s LiteRT setup, got Gemma 4 running smoothly, and wired it into an agent stack running in Termux. Now one Android phone is: running the LLM locally automating its own apps via ADB staying offline if I want Happy to share details + code and hear what else you’d build on top of this. https://preview.redd.it/7vkbrlzfryvg1.jpg?width=3024&format=pjpg&auto=webp&s=25455827ddf9715b4159ce64a18deba812cf0f5f
+
+2h ago
+
+---
+
 **[Opus 4.7 is terrible, and Anthropic has completely dropped the ball](https://www.reddit.com/r/artificial/comments/1so16hr/opus_47_is_terrible_and_anthropic_has_completely/)**
 
 Tried posting this in r/ClaudeAI but it got auto-removed, and I was told to post it in the "Bugs Megathread." Don't really think it should been removed, but whatever, I'll just post it here since I'm sure it's still relevant. Like a lot of people, I switched from ChatGPT to Claude not too long ago during the whole DoW fiasco and Sam Altman “antics.” At first, I was genuinely impressed. I do fairly heavy theoretical math and physics research, and Opus 4.6 was simply the best tool I’d used for synthesizing ideas and working through complex logic. But the last few weeks have been really disappointing, and I’m seriously considering going back to GPT (even though, for personal reasons, I’d really rather not). How many times has Claude been down recently? And why is it that I can ask Claude 4.7 (with adaptive thinking turned on) to work through a detailed proof, and it just spirals “oh wait, that doesn’t work, let me try again” five times in a single response? Yes, there’s a workaround to explicitly tell it to think before answering. But… why is that necessary? I’m paying $20/month. This is supposed to be a top-tier model. Instead, it burns through time, second-guesses itself mid-response, and often fails to land anywhere useful on problems I’m fairly sure 4.6 would have handled more coherently a month ago. And then before I know it I hit the usage limit. I’m a PhD student. I can’t justify spending $100-$200/month on higher tiers. $20 has always been enough for me, and I’ve come to rely on these tools for my research. I expected to stick with Claude long-term, but the recent instability and drop in reliability make it hard to justify paying for it out of pocket. It’s frustrating to feel pushed toward a competitor because of this. But at a certain point, the usability of the product has to come first. Really disappointing.
@@ -45,11 +61,27 @@ Tried posting this in r/ClaudeAI but it got auto-removed, and I was told to post
 
 ---
 
-**[Gemma 4 actually running usable on an Android phone (not llama.cpp)](https://www.reddit.com/r/artificial/comments/1sozytf/gemma_4_actually_running_usable_on_an_android/)**
+**[The AI Integration Paradox](https://www.reddit.com/r/artificial/comments/1sp24zy/the_ai_integration_paradox/)**
 
-I wanted a real local assistant on my phone, not a demo. First tried the usual llama.cpp in Termux — Gemma 4 was 2–3 tok/s and the phone was on fire. Then I switched to Google’s LiteRT setup, got Gemma 4 running smoothly, and wired it into an agent stack running in Termux. Now one Android phone is: running the LLM locally automating its own apps via ADB staying offline if I want Happy to share details + code and hear what else you’d build on top of this. https://preview.redd.it/7vkbrlzfryvg1.jpg?width=3024&format=pjpg&auto=webp&s=25455827ddf9715b4159ce64a18deba812cf0f5f
+Why 90% of AI implementations fail, and the uncomfortable lessons from the dot-com crash that nobody’s talking about.
+
+🔗 [Medium](https://medium.com/@borlidoadrian/the-ai-integration-paradox-cddf71844834) • 41m ago
+
+---
+
+**[How the promise of AI is taking hold at Canada’s biggest banks](https://www.reddit.com/r/artificial/comments/1sp1anm/how_the_promise_of_ai_is_taking_hold_at_canadas/)**
+
+Hi folks! I'm Sarah, an audience editor from The Globe and Mail. I wanted to share this an in-depth feature about how banks are incorporating AI into their research – which is helping customers find answers faster. Here's a gift link to the piece, so anyone can read it without a paywall: How the promise of AI is taking hold at Canada’s biggest banks
 
 1h ago
+
+---
+
+**[Open-source list of GenAI-related incidents](https://www.reddit.com/r/artificial/comments/1sotbeo/opensource_list_of_genairelated_incidents/)**
+
+I am sharing this open-source list of cases where the ethics of GenAI use were put in the spotlight, in the hopes of sparking discussion on the usage and limitations of LLMs.
+
+🔗 [GitHub](https://github.com/hb20007/awesome-gen-ai-fails#readme) • 7h ago
 
 ---
 
@@ -57,15 +89,7 @@ I wanted a real local assistant on my phone, not a demo. First tried the usual l
 
 Curious if anyone has found anything like this in their journeys: Instead of sending a big long email or document to a colleague and having them not read it, what if you sent an agent of sorts instead to deliver a brief message but also allow the receiver to ask more detailed questions if they have any? The agent could be loaded with various docs / details that could be referenced if the recipient has follow up questions without having to go back to the sender. This could be in various forms: chatbot, virtual avatar, or my favorite: a star-wars-like hologram 😂
 
-1h ago
-
----
-
-**[AI helped me build a custom PC and 4 apps in 6 months with zero coding experience](https://www.reddit.com/r/artificial/comments/1sozcus/ai_helped_me_build_a_custom_pc_and_4_apps_in_6/)**
-
-Mid-October, early morning at work. I was hunting for a podcast to throw on while I worked and stumbled into something about what AI could actually do now. You can build apps with AI. Excuse me? I’ve wanted to build an app since I opened my first one. So I went all in. Had zero clue how to build a computer, but I knew the cheap pre-builts weren’t going to cut it. And I figured, if AI can build an app, it should definitely be able to build a computer. Started conversations with ChatGPT and Claude. Thirty minutes later I had a custom parts list with ample headroom. Way overbuilt, on purpose. Ran it by my Guru. He said, “I see you used the PC Part Picker app.” I said nope, used AI. He looked the list over again, read the reasoning behind every part, and said, “I’m impressed. Never even thought of doing that.” Ordered everything. The DemoN was born. I had barely messed around on computers before this. Now I’m living in terminals and sandboxes, building stuff I didn’t know was possible six months ago. My advice? Jump in. Start learning. This isn’t a fad. It’s here to stay. Don’t get left behind.
-
-1h ago
+2h ago
 
 ---
 
@@ -81,15 +105,7 @@ The patent describes a system that uses artificial intelligence to create person
 
 I went out to create something that would would build prds for me for projects I'm working on. The core idea it is that it asks for all of the information that's needed for a PRD and it could also review the existing code to answer these questions. Then it breaks up the parts of the plan into separate files and only starts the next part after the first part is complete. Added to that is that it's reaching out to codex every end of part and does an independent review of the code. What I found that was really cool is that when I did that with my existing project to enhance it, the system continued to find more issues through the feedback loop with codex and opened new prds for those issues. So essentially it's running through my code finding issues as it's working on extending it
 
-14h ago
-
----
-
-**[Open-source list of GenAI-related incidents](https://www.reddit.com/r/artificial/comments/1sotbeo/opensource_list_of_genairelated_incidents/)**
-
-I am sharing this open-source list of cases where the ethics of GenAI use were put in the spotlight, in the hopes of sparking discussion on the usage and limitations of LLMs.
-
-🔗 [GitHub](https://github.com/hb20007/awesome-gen-ai-fails#readme) • 6h ago
+15h ago
 
 ---
 
@@ -98,22 +114,6 @@ I am sharing this open-source list of cases where the ethics of GenAI use were p
 Reese Witherspoon is again advising her followers that there's no time like the present to start learning about and using artificial intelligence.
 
 🔗 [Variety](https://variety.com/2026/tv/news/reese-witherspoon-ai-jobs-women-1236723992/) • 1d ago
-
----
-
-**[What AI image generator works the best?](https://www.reddit.com/r/artificial/comments/1so4m79/what_ai_image_generator_works_the_best/)**
-
-There seems to be about 1000 different options. I'm just looking for one that takes a prompt and spits out something usable. I'm good with paying for it if I need to but it needs to be able.to handle a lot of work.
-
-1d ago
-
----
-
-**[The AI Wearable Ecosystem: Closer than you think. Socially acceptable?](https://www.reddit.com/r/artificial/comments/1sors65/the_ai_wearable_ecosystem_closer_than_you_think/)**
-
-I've been researching how personal AI tech devices are likely to develop ... technical capabilities, form factors, privacy and governance issues etc. I think it looks likely that there won't be one 'must have' device, and that there'll be more of a wearable ecosystem, with devices for different environments ... Glasses: outward and inward cameras, picking up facial expressions, gestures etc. Bone conduction audio. Augmented VR, infrared overlay etc. Cuff/Wristband: beyond a smart watch .. sensors picking up finger movements/gestures as input. Haptic actuators giving silent notifications. Pen/Stylus: currently underused as could also pick up gestures and have a microphone. Table top Node: palm sized unit. 360 degree vision and audio. Scout/Mini Drone: hovers above you for all round awareness, or can be sent ahead to scout an area, or find you children etc. All integrating with your smart phone, which may become more of a portable battery bank for charging other devices. Here's a blog post I have written that goes into more detail, including the privacy and legal issue etc (no ads/sign up etc) ... The AI Wearable Ecosystem What other devices might be developed? Should these devices be banned from recording other people?
-
-7h ago
 
 ---
 
@@ -127,33 +127,63 @@ The New York Times • 3h ago
 
 ---
 
-**[Sneaker Company Allbirds Plans to Pivot to A.I. Yes, A.I.](https://www.nytimes.com/2026/04/15/us/allbirds-shoes-ai-pivot.html)**
-
-The New York Times • 2d ago
-
----
-
 **[What the Allbirds 'Hail Mary' says about the AI trade right now](https://finance.yahoo.com/news/what-the-allbirds-hail-mary-says-about-the-ai-trade-right-now-113847747.html)**
 
 Allbirds' AI pivot shows signs of froth in markets, but experts say the underlying fundamentals in AI remain strong.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
-**[Allbirds shares soar 580% after pivot from shoes to AI](https://www.bbc.com/news/articles/c98mrepzgj7o)**
+**[Messaging features expand across platforms](https://www.axios.com/media-trends-membership/2026/04/18/chat-apps-ai-messages)**
 
-The company is selling off its shoe brand as it plans to shift to providing technology infrastructure.
-
-BBC • 2d ago
+Axios • 55m ago
 
 ---
 
-**[AI fears drive some young adults to grad school — 'people shelter in higher education,' expert says](https://www.cnbc.com/2026/04/18/ai-fears-graduate-school.html)**
+**[The inexorable disconnect between AI computation and human cognition.](https://www.psychologytoday.com/us/blog/the-digital-self/202604/ai-and-the-meaningless-gap)**
 
-Experts say going back to school for a graduate degree is one way to hedge against a rapidly changing labor market.
+We can't fathom what it means to be AI. AI can't fathom what it means to be us. That's not a problem to solve. That's the most honest thing we can say about either.
 
-CNBC • 2h ago
+Psychology Today • 28m ago
+
+---
+
+**[AI chatbots fall for fake diseases and phony studies — as experts warn against taking tips from bots](https://nypost.com/2026/04/18/world-news/ai-doc-bots-fall-for-fake-disease-and-diagnose-folks-with-it/)**
+
+The experiment was meant to be “a reflection of how humans have forgotten to be skeptical when presented information,” Osmanovic Thunström told The Post.
+
+New York Post • 51m ago
+
+---
+
+**[It’s time for students to start committing to colleges. The age of AI is making it complicated](https://www.cnn.com/2026/04/18/business/ai-college-debt-parents)**
+
+Mary Akkerman has visited more than 30 college campuses with her children, one now at Stanford and another still in high school. She especially wanted them to get degrees that lead to good jobs – but figuring that out, said the Sioux Falls, South Dakota, parent, was a major challenge, thanks in part to the rapid advance of AI and its effects on the job market.
+
+CNN • 6h ago
+
+---
+
+**[White House and Anthropic hold 'productive' meeting amid fears over Mythos model](https://www.bbc.com/news/articles/cyv10e1d13po)**
+
+The discussion is a sign the AI firm's technology may be too critical for even the US government to do without.
+
+BBC • 16h ago
+
+---
+
+**[Anthropic’s Mythos AI model tests limits of global cyber defences](https://www.ft.com/content/b9e79c53-9f14-4b7a-b250-d7a230ca8433?syn-25a6b1a6=1)**
+
+New system has sparked fears it could turbocharge hacking and expose weaknesses faster than they can be fixed
+
+Financial Times • 6h ago
+
+---
+
+**[White House and Anthropic Hold ‘Productive’ Meeting, Aiming for a Compromise](https://www.nytimes.com/2026/04/17/technology/white-house-anthropic-artificial-intelligence.html)**
+
+The New York Times • 17h ago
 
 ---
 
@@ -162,38 +192,6 @@ CNBC • 2h ago
 Groups concerned that AI could evade human control are recruiting content creators to warn the masses about the dangers of smarter machines.
 
 The Washington Post • 1h ago
-
----
-
-**[How a fiery attack on Sam Altman’s home unfolded](https://www.theguardian.com/technology/2026/apr/18/sam-altman-house-attack-ai)**
-
-Molotov cocktail attack on OpenAI CEO’s home comes amid growing discontent against artificial intelligence
-
-The Guardian • 2h ago
-
----
-
-**[It’s time for students to start committing to colleges. The age of AI is making it complicated](https://www.cnn.com/2026/04/18/business/ai-college-debt-parents)**
-
-Mary Akkerman has visited more than 30 college campuses with her children, one now at Stanford and another still in high school. She especially wanted them to get degrees that lead to good jobs – but figuring that out, said the Sioux Falls, South Dakota, parent, was a major challenge, thanks in part to the rapid advance of AI and its effects on the job market.
-
-CNN • 5h ago
-
----
-
-**[Finance ministers and top bankers raise serious concerns about Mythos AI model](https://www.bbc.com/news/articles/c2ev24yx4rmo)**
-
-Experts say Mythos potentially has an unprecedented ability to identify and exploit cybersecurity weaknesses.
-
-BBC • 1d ago
-
----
-
-**[What is Mythos and why are experts worried about Anthropic’s AI model](https://www.scientificamerican.com/article/what-is-mythos-and-why-are-experts-worried-about-anthropics-ai-model/)**
-
-The company says Mythos is too dangerous to release publicly. Cybersecurity experts agree the model's capabilities matter, but not all of them are buying the most alarming claims
-
-Scientific American • 1d ago
 
 ---
 
@@ -227,7 +225,7 @@ Does AI-assisted cognition threaten human development? Explore the risks of AI-a
 
 Hardware hacker’s flying probe automation stack for agent-driven   target discovery, microscope mapping, safety-monitored CNC motion, probe review, and   controlled pin probing. - GainSec/AutoProber
 
-⬆️ 223 • 💬 46 • 1d ago • [GitHub](https://github.com/gainsec/autoprober)
+⬆️ 224 • 💬 46 • 1d ago • [GitHub](https://github.com/gainsec/autoprober)
 
 ---
 
@@ -235,7 +233,7 @@ Hardware hacker’s flying probe automation stack for agent-driven   target disc
 
 We signed a 3 year lease and gave it to an AI
 
-⬆️ 198 • 💬 283 • 2d ago • [andonlabs.com](https://andonlabs.com/blog/andon-market-launch)
+⬆️ 198 • 💬 284 • 2d ago • [andonlabs.com](https://andonlabs.com/blog/andon-market-launch)
 
 ---
 
@@ -243,7 +241,7 @@ We signed a 3 year lease and gave it to an AI
 
 GPU rental prices surged 48% in 60 days. The AI compute shortage will force startups to compete not on speed of iteration, but on access to infrastructure.
 
-⬆️ 184 • 💬 214 • 1d ago • [Tomasz Tunguz](https://tomtunguz.com/ai-compute-crisis-2026/)
+⬆️ 185 • 💬 216 • 1d ago • [Tomasz Tunguz](https://tomtunguz.com/ai-compute-crisis-2026/)
 
 ---
 
@@ -252,14 +250,6 @@ GPU rental prices surged 48% in 60 days. The AI compute shortage will force star
 I've noticed the use of Copilot within a few reviews (13277 and 12730) which concerns me given the vast amount of issues associated with this technology (ethical, environmental, copyright, health, ...
 
 ⬆️ 130 • 💬 135 • 2d ago • [GitHub](https://github.com/libsdl-org/SDL/issues/15350)
-
----
-
-**[Show HN: Libretto – Making AI browser automations deterministic](https://news.ycombinator.com/item?id=47780971)**
-
-The AI toolkit for building and maintaining browser automations - saffron-health/libretto
-
-⬆️ 129 • 💬 55 • 3d ago • [GitHub](https://github.com/saffron-health/libretto)
 
 ---
 
@@ -276,6 +266,14 @@ Scan your website to see if it's ready for AI agents. Check for llms.txt, MCP, a
 We've lived but a few years so far into the age when artificial intelligence can produce convincing stories, songs, essays, poems, novels, and even films.
 
 ⬆️ 82 • 💬 59 • 1d ago • [Open Culture](https://www.openculture.com/2026/04/how-george-orwell-predicted-the-rise-of-ai-slop.html)
+
+---
+
+**[Shares in shoe brand Allbirds rise 580% after it pivots from footwear to AI](https://news.ycombinator.com/item?id=47790353)**
+
+The company is selling off its shoe brand as it plans to shift to providing technology infrastructure.
+
+⬆️ 73 • 💬 32 • 2d ago • [bbc.com](https://www.bbc.com/news/articles/c98mrepzgj7o)
 
 ---
 
@@ -299,7 +297,7 @@ ChatGPT was recently asked what it would say to humans if it could give a TED Ta
 
 📺 TED
 
-👁️ 40K • 👍 1K • 💬 625 • ⏱️ 3:28 • 18h ago
+👁️ 40K • 👍 1K • 💬 625 • ⏱️ 3:28 • 19h ago
 
 ---
 
@@ -309,7 +307,7 @@ In this video, I break down a 4 week system for learning AI by using one tool fr
 
 📺 James Blue
 
-👁️ 7K • 💬 2 • ⏱️ 10:55 • 5h ago
+👁️ 7K • 💬 2 • ⏱️ 10:55 • 6h ago
 
 ---
 
@@ -319,7 +317,7 @@ A series of animated Iranian propaganda videos made in the style of "The LEGO Mo
 
 📺 MS NOW
 
-👁️ 93K • 👍 2K • 💬 1K • ⏱️ 6:46 • 20h ago
+👁️ 93K • 👍 2K • 💬 1K • ⏱️ 6:46 • 21h ago
 
 ---
 
@@ -443,7 +441,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with vision capabilitie
 
 `image-text-to-text` `34.7B`
 
-⬇️ 442,900 • ❤️ 420 • 1d ago
+⬇️ 442,900 • ❤️ 420 • 2d ago
 
 ---
 
@@ -491,7 +489,7 @@ Gemma 4 31B is an instruction-tuned, multimodal LLM capable of processing text a
 
 `image-text-to-text` `32.7B`
 
-⬇️ 3,778,070 • ❤️ 2,146 • 7d ago
+⬇️ 3,778,070 • ❤️ 2,146 • 8d ago
 
 ---
 
@@ -649,7 +647,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 47.8k • 🔱 6.2k • 1m ago
+⭐ 47.8k • 🔱 6.2k • 1h ago
 
 ---
 
@@ -659,7 +657,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 37.5k • 🔱 1.8k • 5h ago
+⭐ 37.5k • 🔱 1.8k • 6h ago
 
 ---
 
@@ -669,7 +667,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 35.9k • 🔱 7.2k • 21h ago
+⭐ 35.9k • 🔱 7.2k • 22h ago
 
 ---
 
@@ -679,7 +677,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 29.7k • 🔱 3.3k • 9m ago
+⭐ 29.7k • 🔱 3.3k • 1h ago
 
 ---
 
@@ -689,7 +687,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 8.2k • 🔱 523 • 32m ago
+⭐ 8.2k • 🔱 523 • 1h ago
 
 ---
 
@@ -739,7 +737,7 @@ The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interac
 
 `Python`
 
-⭐ 4.6k • 🔱 457 • 9d ago
+⭐ 4.6k • 🔱 457 • 10d ago
 
 ---
 

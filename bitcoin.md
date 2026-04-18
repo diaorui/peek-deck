@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-18T16:02:08.713740+00:00'
+updated: '2026-04-18T17:06:23.050530+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
-- cryptocurrency
 - videos
+- cryptocurrency
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 18, 2026 at 16:02 UTC  
+**Last Updated:** April 18, 2026 at 17:06 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.0%  
-**7d:** +7.9%  
-**30d:** +8.2%  
-**90d:** -17.6%  
-**1y:** -10.4%  
+**24h:** -1.6%  
+**7d:** +7.3%  
+**30d:** +7.7%  
+**90d:** -18.1%  
+**1y:** -10.8%  
 
 ---
 
@@ -77,9 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[When BTC starts pumping, it will not give you a chance to get in](https://www.reddit.com/r/Bitcoin/comments/1sozszo/when_btc_starts_pumping_it_will_not_give_you_a/)**
+
+I was greedy in 2022 during the crash and wanted to wait for 12k to buy. 12k never came. After BTC teleported from 15k to 30k, I wanted a deep dip to 20k to buy. 20k never came. Then I watched BTC teleport from 25k to 70k without a single down month. Zero dips given. Then the 50k dip came but got bought up by the market instantly, the window to buy was extremely shortlived and I couldn't get in. Then BTC proceeded to teleport from 50k to 110k in just a few weeks and I basically missed the whole cycle. I have a feeling the same people waiting for 40k-50k now will go through what I went through and watch as BTC teleports to 500k (or whatever the next top is) without a single major dip.
+
+2h ago
+
+---
+
 **[Bitcoin is dead](https://www.reddit.com/r/Bitcoin/comments/1socs7g/bitcoin_is_dead/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -87,7 +95,7 @@ Rank #1
 
 Central bank greenlights regulated crypto access while keeping strict curbs on balance-sheet exposure
 
-🔗 [coindesk.com](https://www.coindesk.com/policy/2026/04/15/pakistan-lifts-seven-year-ban-allowing-banks-to-service-virtual-asset-providers) • 4h ago
+🔗 [coindesk.com](https://www.coindesk.com/policy/2026/04/15/pakistan-lifts-seven-year-ban-allowing-banks-to-service-virtual-asset-providers) • 5h ago
 
 ---
 
@@ -95,7 +103,7 @@ Central bank greenlights regulated crypto access while keeping strict curbs on b
 
 I'm so long.
 
-16h ago
+17h ago
 
 ---
 
@@ -103,7 +111,7 @@ I'm so long.
 
 Genuinely so happy to be done, I’ve reached my goal amount of btc to feel comfortable. I won’t lie, I make minimum wage for LA standard and ima stop buying and let it ride. Could hypothetically keep buying more but I truly have the next goal of getting 10k in fiat in my HYSA before touching any market. Sold all my stock to get to my goal and don’t regret it. Letting it ride and won’t open my wallets till I reach my saving goal. Thank you for all your help and advice, never been prouder.
 
-3h ago
+4h ago
 
 ---
 
@@ -111,7 +119,15 @@ Genuinely so happy to be done, I’ve reached my goal amount of btc to feel comf
 
 Stupid narratives
 
-11h ago
+12h ago
+
+---
+
+**[Do you keep buying Bitcoin regularly or just hold what you have?](https://www.reddit.com/r/Bitcoin/comments/1sozi4b/do_you_keep_buying_bitcoin_regularly_or_just_hold/)**
+
+Trying to understand how people approach Bitcoin long term. Do you keep adding over time or just hold and wait?
+
+2h ago
 
 ---
 
@@ -119,7 +135,7 @@ Stupid narratives
 
 I am new to crypto. Is this the right time to buy BTC since I see the chart it started to rebound?
 
-7h ago
+8h ago
 
 ---
 
@@ -127,7 +143,7 @@ I am new to crypto. Is this the right time to buy BTC since I see the chart it s
 
 Personally its 0.05 not a lot but i still believe in btc insted of fiat thats why im almost not having cash
 
-7h ago
+8h ago
 
 ---
 
@@ -139,47 +155,59 @@ Hey everyone, I’ve been buying Bitcoin since 2012/2013. I’ve lived through i
 
 ---
 
-**[Recovered forgotten coinbase account with .25 BTC](https://www.reddit.com/r/Bitcoin/comments/1sod7x0/recovered_forgotten_coinbase_account_with_25_btc/)**
-
-As I recovered an old email account I found I had a coinbase account I had completely forgotten about. It’s not much, compared to other folks in this sub, but it has .25 BTC and other currencies from forks in the past 9 years since I bought it. I had completely forgotten about it and, because of it, never declared in my tax returns. Apparently I should have done that and submit an ID to coinbase. I haven’t done anything yet, or touched the currencies. Am I fucked? or can I just submit my ID and declare in the tax return next year? Apologies for my ignorance, I have stayed away from crypto since I bought .25 BTC back in 2017. All advise is appreciated.
-
-19h ago
-
----
-
-**[When BTC starts pumping, it will not give you a chance to get in](https://www.reddit.com/r/Bitcoin/comments/1sozszo/when_btc_starts_pumping_it_will_not_give_you_a/)**
-
-I was greedy in 2022 during the crash and wanted to wait for 12k to buy. 12k never came. After BTC teleported from 15k to 30k, I wanted a deep dip to 20k to buy. 20k never came. Then I watched BTC teleport from 25k to 70k without a single down month. Zero dips given. Then the 50k dip came but got bought up by the market instantly, the window to buy was extremely shortlived and I couldn't get in. Then BTC proceeded to teleport from 50k to 110k in just a few weeks and I basically missed the whole cycle. I have a feeling the same people waiting for 40k-50k now will go through what I went through and watch as BTC teleports to 500k (or whatever the next top is) without a single major dip.
-
-1h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
-**[Satoshi Nakamoto is one of the richest people in the world, but a proposed update could lock his Bitcoin away forever](https://www.dlnews.com/articles/web3/devs-propose-bitcoin-freeze-amid-quantum-computer-fears/)**
+**[‘Buy Bitcoin’—Elon Musk’s ‘Massive’ U.S. Dollar Warning Fuels Wild Crypto Price Predictions](https://www.forbes.com/sites/digital-assets/2026/04/18/buy-bitcoin-elon-musks-massive-us-dollar-warning-fuels-wild-crypto-price-predictions/)**
 
-New Bitcoin upgrade proposal splits opinions. Developers say freezing Bitcoin in vulnerable wallets is necessary to defend against a potential quantum attack.  A future quantum computer could threaten the $1.5 trillion blockchain.
-
-dlnews.com • 2d ago
+Forbes • 5h ago
 
 ---
 
-**[How a quantum computer can be used to actually steal your bitcoin in '9 minutes'](https://www.coindesk.com/tech/2026/04/18/how-a-quantum-computer-can-be-used-to-actually-steal-your-bitcoin-in-9-minutes)**
+**[Congresswoman Biggs discloses six-figure BlackRock bitcoin ETF buy as BTC rebounds](https://www.theblock.co/post/397939/congresswoman-biggs-six-figure-blackrock-bitcoin-etf-buy-btc-rebounds)**
 
-Part one explained the physics of quantum computing. This piece explains the target — how bitcoin's encryption works, why a quantum algorithm breaks it, and what Google's paper changed about the timeline.
+Rep. Sheri Biggs disclosed a purchase of up to $250,000 in BlackRock’s iShares Bitcoin Trust ETF for the second time in a year.
 
-CoinDesk • 12h ago
+The Block • 23h ago
 
 ---
 
-**[When Quantum Computers Come for Your Bitcoin: What Classical Property Law Says Happens Next](https://bitcoinmagazine.com/legal/when-quantum-computers-come-for-your-bitcoin-what-classical-property-law-says-happens-next)**
+**['Choke Point'—Bitcoin's $77B Coinbase ETF Warning Shocks Markets](https://www.forbes.com/sites/digital-assets/2026/04/17/choke-point-bitcoins-77b-coinbase-etf-warning-shocks-markets/)**
 
-A look at the legal aspects and relevant laws regarding a hypothetical theft of bitcoin utilizing quantum computers.
+Forbes • 15h ago
 
-Bitcoin Magazine • 20h ago
+---
+
+**[Congresswoman Sheri Biggs Discloses Up to $250,000 BTC Investment via iShares Bitcoin ETF](https://bitcoinmagazine.com/news/sheri-biggs-discloses-250000-bitcoin)**
+
+Representative Sheri Biggs of South Carolina has disclosed a purchase of up to $250,000 in Bitcoin exposure.
+
+Bitcoin Magazine • 1d ago
+
+---
+
+**[You Do Not Have to Pick the Next Bitcoin to Profit From Crypto. Here Is the Simpler Play.](https://www.fool.com/investing/2026/04/18/you-do-not-have-to-pick-the-next-bitcoin-to-profit/)**
+
+Crypto offers big potential, but choosing the right coin isn't easy. Instead, betting on one company that sits at the center of the crypto ecosystem could benefit investors.
+
+The Motley Fool • 2h ago
+
+---
+
+**[Bitcoin and Ethereum slide after Iran says Strait of Hormuz is shut](https://www.dlnews.com/articles/snapshot/bitcoin-price-slides-with-ethereum-on-shaky-us-iran-deal/)**
+
+Bitcoin and Ethereum dipped on Saturday. The two biggest cryptocurrencies are still up over the past seven days.  A ceasefire between the US and Iran looks shaky.
+
+dlnews.com • 1h ago
+
+---
+
+**[Justin Sun Says Bitcoin 'Debates,' Ethereum Forms 'Research Committees,' While Tron 'Builds' As Blockchain Unveils Post-Quantum Initiative](https://finance.yahoo.com/markets/crypto/articles/justin-sun-says-bitcoin-debates-163115646.html)**
+
+Tron blockchain has launched a post-quantum upgrade initiative, founder Justin Sun announced on Tuesday. Quantum Security Should Be A Feature, Says Sun In an X post, Sun said that Tron will be the “first major public blockchain” to deploy post-quantum...
+
+Yahoo Finance • 35m ago
 
 ---
 
@@ -191,49 +219,17 @@ CNBC • 2d ago
 
 ---
 
-**[Tim Draper Accurately Predicted Bitcoin At $10,000 — Now He Has 'Reason To Believe' It Will Go To $250,000 In 18 Months](https://finance.yahoo.com/markets/crypto/articles/tim-draper-accurately-predicted-bitcoin-193102134.html)**
-
-Venture capitalist Tim Draper predicted on Tuesday that Bitcoin will reach $250,000 in 18 months, and potentially higher, owing to inflationary pressures on the dollar. Draper Remains Bullish Draper recalled his accurate 2014 prediction on Fox Business that Bitcoin would...
-
-Yahoo Finance • 1d ago
-
----
-
-**[Charles Schwab begins rollout of spot bitcoin, ethereum trading platform](https://www.theblock.co/post/397756/charles-schwab-begins-rollout-spot-bitcoin-ethereum-trading-platform)**
-
-The new platform, called Schwab Crypto, will roll out over the coming weeks and will only support bitcoin and ethereum at first.
-
-The Block • 2d ago
-
----
-
-**[You Do Not Have to Pick the Next Bitcoin to Profit From Crypto. Here Is the Simpler Play.](https://www.fool.com/investing/2026/04/18/you-do-not-have-to-pick-the-next-bitcoin-to-profit/)**
-
-Crypto offers big potential, but choosing the right coin isn't easy. Instead, betting on one company that sits at the center of the crypto ecosystem could benefit investors.
-
-The Motley Fool • 1h ago
-
----
-
-**[Liz Truss warns UK faces decline, backs bitcoin and starts CPAC UK](https://www.coindesk.com/markets/2026/04/18/former-uk-prime-minister-sees-economy-on-very-negative-trajectory-indicates-support-for-bitcoin)**
-
-Truss criticized central banking and defended her mini-budget, suggesting bitcoin and a CPAC UK conference could help push for economic reform.
-
-CoinDesk • 3h ago
-
----
-
 **[Bitcoin Price Surges Amid Epic Strategy Buying Spree](https://www.investors.com/news/bitcoin-price-strategy-buying-power-mstr-stock-strc-issuance-saylor/)**
 
-Investor's Business Daily • 19h ago
+Investor's Business Daily • 20h ago
 
 ---
 
-**[Reassessing MicroStrategy (MSTR) Valuation After Recent Share Price Volatility And Bitcoin Exposure Narrative](https://finance.yahoo.com/markets/stocks/articles/reassessing-microstrategy-mstr-valuation-recent-110629391.html)**
+**[Michael Saylor's MSTR bitcoin (BTC) holdings are back in profit](https://www.coindesk.com/markets/2026/04/17/strategy-back-in-profit-as-bitcoin-hits-two-and-a-half-month-high-above-usd76-300)**
 
-Event driven focus on Strategy stock Strategy (MSTR) has drawn fresh attention after recent share price moves, with a gain of around 12% in the past day and almost 30% over the past week. Those short term swings come alongside a month return of about 18% but a past 3 months decline of roughly 4%. This has prompted investors to reassess how its bitcoin treasury focus and software business fit into their portfolios. See our latest analysis for Strategy. At a share price of $166.52, the recent 7...
+Bitcoin climbed above its 100-day moving average, while Strategy moves back above its 200-week trend level.
 
-Yahoo Finance • 4h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -245,7 +241,7 @@ Yahoo Finance • 4h ago
 
 Arkham data shows 8,285 BTC in Coinbase Prime custody as the company swings from $8 billion profit to nearly $5 billion loss ahead of its IPO push.
 
-⬆️ 27 • 💬 9 • 5d ago • [coindesk.com](https://www.coindesk.com/markets/2026/04/11/musk-s-spacex-holds-usd603-million-in-bitcoin-despite-usd5-billion-loss-stemming-from-xai)
+⬆️ 27 • 💬 9 • 6d ago • [coindesk.com](https://www.coindesk.com/markets/2026/04/11/musk-s-spacex-holds-usd603-million-in-bitcoin-despite-usd5-billion-loss-stemming-from-xai)
 
 ---
 
@@ -327,7 +323,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 10K • 👍 898 • 💬 16 • ⏱️ 57:41 • 3h ago
+👁️ 10K • 👍 898 • 💬 16 • ⏱️ 57:41 • 4h ago
 
 ---
 
@@ -337,7 +333,7 @@ Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=Al
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 183 • ⏱️ 8:39 • 16h ago
+👁️ 38K • 👍 2K • 💬 183 • ⏱️ 8:39 • 17h ago
 
 ---
 
@@ -347,7 +343,7 @@ A former Treasury Secretary warns the next crisis could be worse than 2008. Bond
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 2K • 💬 96 • ⏱️ 16:22 • 17h ago
+👁️ 22K • 👍 2K • 💬 96 • ⏱️ 16:22 • 19h ago
 
 ---
 
@@ -357,7 +353,7 @@ Sell Your FTX Claim w/ FTX Creditor: https://www.ftxcreditor.com Follow Louis on
 
 📺 Aaron Bennett
 
-👁️ 4K • 👍 235 • 💬 91 • ⏱️ 8:08 • 14h ago
+👁️ 4K • 👍 235 • 💬 91 • ⏱️ 8:08 • 15h ago
 
 ---
 
@@ -367,7 +363,7 @@ Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Bi
 
 📺 Tyler S
 
-👁️ 10K • 👍 679 • 💬 401 • ⏱️ 11:49 • 20h ago
+👁️ 10K • 👍 679 • 💬 401 • ⏱️ 11:49 • 21h ago
 
 ---
 
@@ -377,7 +373,7 @@ Are you ready? CRYPTO RETIREMENT ACCOUNT HERE Sign up for iTrustCapital and get 
 
 📺 Crypto Jebb
 
-👁️ 4K • 👍 251 • 💬 29 • ⏱️ 8:10 • 20h ago
+👁️ 4K • 👍 251 • 💬 29 • ⏱️ 8:10 • 21h ago
 
 ---
 
@@ -387,7 +383,7 @@ According to a new report from JPMorgan Chase, the much-anticipated CLARITY Act 
 
 📺 Paul Barron Network
 
-👁️ 98K • 👍 5K • 💬 265 • ⏱️ 13:57 • 21h ago
+👁️ 98K • 👍 5K • 💬 265 • ⏱️ 13:57 • 23h ago
 
 ---
 
@@ -397,7 +393,7 @@ Bitcoin is back at $75K as risk appetite returns—but the bigger story is unfol
 
 📺 Swan Bitcoin
 
-👁️ 10K • 👍 597 • 💬 56 • ⏱️ 9:53 • 23h ago
+👁️ 10K • 👍 597 • 💬 56 • ⏱️ 9:53 • 1d ago
 
 ---
 
