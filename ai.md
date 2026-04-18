@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-18T10:07:54.993296+00:00'
+updated: '2026-04-18T11:07:29.322500+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- repositories
-- social
 - videos
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 18, 2026 at 10:07 UTC  
+**Last Updated:** April 18, 2026 at 11:07 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Tried posting this in r/ClaudeAI but it got auto-removed, and I was told to post it in the "Bugs Megathread." Don't really think it should been removed, but whatever, I'll just post it here since I'm sure it's still relevant. Like a lot of people, I switched from ChatGPT to Claude not too long ago during the whole DoW fiasco and Sam Altman “antics.” At first, I was genuinely impressed. I do fairly heavy theoretical math and physics research, and Opus 4.6 was simply the best tool I’d used for synthesizing ideas and working through complex logic. But the last few weeks have been really disappointing, and I’m seriously considering going back to GPT (even though, for personal reasons, I’d really rather not). How many times has Claude been down recently? And why is it that I can ask Claude 4.7 (with adaptive thinking turned on) to work through a detailed proof, and it just spirals “oh wait, that doesn’t work, let me try again” five times in a single response? Yes, there’s a workaround to explicitly tell it to think before answering. But… why is that necessary? I’m paying $20/month. This is supposed to be a top-tier model. Instead, it burns through time, second-guesses itself mid-response, and often fails to land anywhere useful on problems I’m fairly sure 4.6 would have handled more coherently a month ago. And then before I know it I hit the usage limit. I’m a PhD student. I can’t justify spending $100-$200/month on higher tiers. $20 has always been enough for me, and I’ve come to rely on these tools for my research. I expected to stick with Claude long-term, but the recent instability and drop in reliability make it hard to justify paying for it out of pocket. It’s frustrating to feel pushed toward a competitor because of this. But at a certain point, the usability of the product has to come first. Really disappointing.
 
-20h ago
+21h ago
 
 ---
 
@@ -49,7 +49,7 @@ Tried posting this in r/ClaudeAI but it got auto-removed, and I was told to post
 
 The patent describes a system that uses artificial intelligence to create personalized web pages for each user.
 
-🔗 [PC Guide](https://www.pcguide.com/news/google-patents-ai-tech-that-will-personalize-websites-and-make-them-look-different-for-everyone/) • 18h ago
+🔗 [PC Guide](https://www.pcguide.com/news/google-patents-ai-tech-that-will-personalize-websites-and-make-them-look-different-for-everyone/) • 19h ago
 
 ---
 
@@ -57,7 +57,7 @@ The patent describes a system that uses artificial intelligence to create person
 
 I am sharing this open-source list of cases where the ethics of GenAI use were put in the spotlight, in the hopes of sparking discussion on the usage and limitations of LLMs.
 
-🔗 [GitHub](https://github.com/hb20007/awesome-gen-ai-fails#readme) • 18m ago
+🔗 [GitHub](https://github.com/hb20007/awesome-gen-ai-fails#readme) • 1h ago
 
 ---
 
@@ -65,7 +65,7 @@ I am sharing this open-source list of cases where the ethics of GenAI use were p
 
 I went out to create something that would would build prds for me for projects I'm working on. The core idea it is that it asks for all of the information that's needed for a PRD and it could also review the existing code to answer these questions. Then it breaks up the parts of the plan into separate files and only starts the next part after the first part is complete. Added to that is that it's reaching out to codex every end of part and does an independent review of the code. What I found that was really cool is that when I did that with my existing project to enhance it, the system continued to find more issues through the feedback loop with codex and opened new prds for those issues. So essentially it's running through my code finding issues as it's working on extending it
 
-8h ago
+9h ago
 
 ---
 
@@ -81,7 +81,7 @@ Reese Witherspoon is again advising her followers that there's no time like the 
 
 I've been researching how personal AI tech devices are likely to develop ... technical capabilities, form factors, privacy and governance issues etc. I think it looks likely that there won't be one 'must have' device, and that there'll be more of a wearable ecosystem, with devices for different environments ... Glasses: outward and inward cameras, picking up facial expressions, gestures etc. Bone conduction audio. Augmented VR, infrared overlay etc. Cuff/Wristband: beyond a smart watch .. sensors picking up finger movements/gestures as input. Haptic actuators giving silent notifications. Pen/Stylus: currently underused as could also pick up gestures and have a microphone. Table top Node: palm sized unit. 360 degree vision and audio. Scout/Mini Drone: hovers above you for all round awareness, or can be sent ahead to scout an area, or find you children etc. All integrating with your smart phone, which may become more of a portable battery bank for charging other devices. Here's a blog post I have written that goes into more detail, including the privacy and legal issue etc (no ads/sign up etc) ... The AI Wearable Ecosystem What other devices might be developed? Should these devices be banned from recording other people?
 
-1h ago
+2h ago
 
 ---
 
@@ -89,7 +89,7 @@ I've been researching how personal AI tech devices are likely to develop ... tec
 
 We’ve been working on adding “authorization” to an AI agent system. At first, it felt solved: - every action gets evaluated - we get a signed ALLOW / DENY - we verify the signature before execution Looks solid, right? It wasn’t. We hit a few problems almost immediately: The approval wasn’t bound to the actual execution Same “ALLOW” could be reused for a slightly different action. No state binding Approval was issued when state = X Execution happened when state = Y Still passed verification. No audience binding An approval for service A could be replayed against service B. Replay wasn’t actually enforced at the boundary Even with nonces, enforcement wasn’t happening where execution happens. So what we had was: a signed decision What we needed was: a verifiable execution contract The difference is subtle but critical: - “Was this approved?” -> audit question - “Can this execute?” -> enforcement question Most systems answer the first one. Very few actually enforce the second one. Curious how others are thinking about this. Are you binding approvals to: - exact intent? - execution state? - execution target? Or are you just verifying signatures and hoping it lines up?
 
-1h ago
+2h ago
 
 ---
 
@@ -97,7 +97,7 @@ We’ve been working on adding “authorization” to an AI agent system. At fir
 
 There seems to be about 1000 different options. I'm just looking for one that takes a prompt and spits out something usable. I'm good with paying for it if I need to but it needs to be able.to handle a lot of work.
 
-18h ago
+19h ago
 
 ---
 
@@ -105,7 +105,7 @@ There seems to be about 1000 different options. I'm just looking for one that ta
 
 A couple of months ago I posted here (r/LLMDevs, r/artificial) proposing that an LLM could save its context window into a citation-grounded document store and query it in plain language, replacing embedding similarity as the retrieval mechanism for reasoning recovery. Karpathy's LLM Knowledge Bases post and a recent TDS context engineering piece have since touched on similar territory, so it felt like a good time to resurface with what I've actually found building it. The hybrid question got answered in practice Several commenters in the original threads predicted you'd inevitably end up hybrid — cheap vector filter first, LLM reasoning over the shortlist. That's roughly right, but the failure mode that drove it was different from what I expected. Pure semantic search didn't degrade because of scale per se; it started missing retrievals because the query and the target content used different vocabulary for the same concept. The fix was an index-first strategy — a lightweight topic-tagged index that narrows candidates before the NL query runs. So the hybrid layer is structural metadata, not a vector pre-filter. The LLM resists using its own memory This one surprised me. Claude has a persistent tendency to prefer internal reasoning over querying the memory store, even when a query would return more accurate results. Left unchecked, it reconstructs rather than retrieves — which is exactly the failure mode the system was designed to prevent. Fixing it required encoding the query requirement in the system prompt, a startup gate checklist, and explicit framing of what it costs to skip retrieval. It's behavioral, not architectural, but it's a real problem that neither article addresses. The memory layer should decouple from the interface model One thing I haven't tested but follows logically from the architecture: if the persistent state lives in the document store rather than in the model, the interface LLM becomes interchangeable. You should be able to swap Claude for ChatGPT or Gemini with minimal fidelity loss, and potentially run multiple models concurrently against the same memory as a coordination layer. There's also an interesting quality asymmetry that wouldn't exist in vector RAG: because retrieval here uses the interface model's reasoning rather than a separate embedding step, a more capable model should directly improve retrieval quality — not just generation quality. I haven't verified either of these in practice, but the architecture seems to imply them. Curious whether anyone has tested something similar. Memory hygiene is a real maintenance problem Karpathy's post talks about "linting" the wiki for inconsistencies. I ran into a version of this from a different angle: an append-only notes system accumulates stale entries with no way to distinguish resolved from active items. You end up needing something like a note lifecycle (e.g., resolve, revise, retract, etc.) with versioned identifiers so the system can tell what's current. The maintenance overhead of keeping memory coherent is underappreciated in both the Karpathy and TDS pieces. Still in the research and build phase. For anyone curious about the ad hoc system I've been using to test this while working through the supporting literature, the repo is here: https://github.com/pjmattingly/Claude-persistent-memory — pre-alpha quality, but it's the working substrate behind the observations above. Happy to go deeper on any of this.
 
-9h ago
+10h ago
 
 ---
 
@@ -113,7 +113,7 @@ A couple of months ago I posted here (r/LLMDevs, r/artificial) proposing that an
 
 Claude Design is powered by Claude Opus 4.7 and is available in research preview for Claude Pro, Max, Team, and Enterprise subscribers.
 
-🔗 [anthropic.com](https://www.anthropic.com/news/claude-design-anthropic-labs) • 18h ago
+🔗 [anthropic.com](https://www.anthropic.com/news/claude-design-anthropic-labs) • 19h ago
 
 ---
 
@@ -125,7 +125,7 @@ Claude Design is powered by Claude Opus 4.7 and is available in research preview
 
 Cerebras said that it can expand its business with OpenAI over the coming years and that it gave OpenAI a warrant to purchase stock.
 
-CNBC • 16h ago
+CNBC • 17h ago
 
 ---
 
@@ -133,7 +133,7 @@ CNBC • 16h ago
 
 Anthropic CEO Dario Amodei visited the White House on Friday for a high-stakes meeting with the president’s top adviser, while his AI company battles the Trump administration in court for blacklisting its Claude AI model.
 
-CNN • 21h ago
+CNN • 22h ago
 
 ---
 
@@ -141,7 +141,7 @@ CNN • 21h ago
 
 Experts say Mythos potentially has an unprecedented ability to identify and exploit cybersecurity weaknesses.
 
-BBC • 23h ago
+BBC • 1d ago
 
 ---
 
@@ -149,13 +149,13 @@ BBC • 23h ago
 
 The main usage metric for artificial intelligence, called tokens, looks explosive on paper, but it may be significantly overstated.
 
-CNBC • 14h ago
+CNBC • 15h ago
 
 ---
 
 **[To Reach Their Fitness Goals, They Hired ‘CoachGPT’](https://www.nytimes.com/2026/04/18/well/move/ai-fitness-coach-chatgpt-claude.html)**
 
-The New York Times • 1h ago
+The New York Times • 2h ago
 
 ---
 
@@ -163,7 +163,7 @@ The New York Times • 1h ago
 
 AI startups and their collaborative and fast-moving culture are leading them to choose office spaces away from downtown SF in smaller neighborhoods.
 
-Business Insider • 1h ago
+Business Insider • 2h ago
 
 ---
 
@@ -179,7 +179,7 @@ CNN • 1d ago
 
 Agents are evolving from question-and-answer systems into long-running autonomous assistants that read files, call APIs, and drive multi-step workflows. However, deploying an agent to execute code and…
 
-NVIDIA Developer • 14h ago
+NVIDIA Developer • 15h ago
 
 ---
 
@@ -187,13 +187,13 @@ NVIDIA Developer • 14h ago
 
 Palantir, Thales and ASI competing on secretive initiative that could redefine how the U.S. ATC system operates
 
-The Air Current • 17h ago
+The Air Current • 18h ago
 
 ---
 
 **[Elon Musk Touts Universal Income As Remedy To AI-Driven Unemployment](https://www.forbes.com/sites/siladityaray/2026/04/17/elon-musk-touts-universal-income-as-remedy-to-ai-driven-unemployment/)**
 
-Forbes • 21h ago
+Forbes • 22h ago
 
 ---
 
@@ -219,7 +219,7 @@ Check if Claude AI is down right now. Real-time status monitoring, uptime histor
 
 **[AI cybersecurity is not proof of work](https://news.ycombinator.com/item?id=47791236)**
 
-⬆️ 236 • 💬 88 • 1d ago • [antirez.com](https://antirez.com/news/163)
+⬆️ 236 • 💬 88 • 2d ago • [antirez.com](https://antirez.com/news/163)
 
 ---
 
@@ -285,7 +285,7 @@ ChatGPT was recently asked what it would say to humans if it could give a TED Ta
 
 📺 TED
 
-👁️ 32K • 👍 1K • 💬 536 • ⏱️ 3:28 • 13h ago
+👁️ 32K • 👍 1K • 💬 536 • ⏱️ 3:28 • 14h ago
 
 ---
 
@@ -305,7 +305,7 @@ A series of animated Iranian propaganda videos made in the style of "The LEGO Mo
 
 📺 MS NOW
 
-👁️ 79K • 👍 2K • 💬 910 • ⏱️ 6:46 • 14h ago
+👁️ 79K • 👍 2K • 💬 910 • ⏱️ 6:46 • 15h ago
 
 ---
 
@@ -315,7 +315,7 @@ This episode is brought to you by Higgsfield — the AI video platform with Cine
 
 📺 Silicon Valley Girl
 
-👁️ 25K • 👍 611 • 💬 115 • ⏱️ 45:43 • 21h ago
+👁️ 25K • 👍 611 • 💬 115 • ⏱️ 45:43 • 22h ago
 
 ---
 
@@ -355,7 +355,7 @@ Here's the AI News you probably missed this week. Build AI apps that actually sc
 
 📺 Matt Wolfe
 
-👁️ 55K • 👍 2K • 💬 120 • ⏱️ 36:44 • 19h ago
+👁️ 55K • 👍 2K • 💬 120 • ⏱️ 36:44 • 20h ago
 
 ---
 
@@ -645,7 +645,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 47.7k • 🔱 6.2k • 3h ago
+⭐ 47.7k • 🔱 6.2k • 4h ago
 
 ---
 
@@ -665,7 +665,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 35.8k • 🔱 7.2k • 15h ago
+⭐ 35.8k • 🔱 7.2k • 16h ago
 
 ---
 
@@ -675,7 +675,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 29.4k • 🔱 3.2k • 12m ago
+⭐ 29.4k • 🔱 3.2k • 1h ago
 
 ---
 
@@ -685,7 +685,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 8.2k • 🔱 522 • 48s ago
+⭐ 8.2k • 🔱 522 • 1h ago
 
 ---
 

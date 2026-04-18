@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-18T10:07:55.010595+00:00'
+updated: '2026-04-18T11:07:29.340000+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 18, 2026 at 10:07 UTC  
+**Last Updated:** April 18, 2026 at 11:07 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,19 +34,19 @@ Robotics research and industry news
 
 **[Remote-controlled snow plow robot I built in high school after a spine surgery. This project got me into engineering :)](https://www.reddit.com/r/robotics/comments/1sol2fp/remotecontrolled_snow_plow_robot_i_built_in_high/)**
 
-7h ago
+8h ago
 
 ---
 
 **[The race ended before it got even started for this robot](https://www.reddit.com/r/robotics/comments/1so68c6/the_race_ended_before_it_got_even_started_for/)**
 
-17h ago
+18h ago
 
 ---
 
 **[H1 accelerating - jogging to running](https://www.reddit.com/r/robotics/comments/1snz9fk/h1_accelerating_jogging_to_running/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -60,13 +60,13 @@ From Physical Intelligence on 𝕏 (thread): https://x.com/physical_int/status/2
 
 **[Solving Optimal Control Problems via Indirect Single Shooting](https://www.reddit.com/r/robotics/comments/1sos0iv/solving_optimal_control_problems_via_indirect/)**
 
-1h ago
+2h ago
 
 ---
 
 **[3D printed monster motor that lifts + 15kg!](https://www.reddit.com/r/robotics/comments/1so1mv7/3d_printed_monster_motor_that_lifts_15kg/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -74,7 +74,7 @@ From Physical Intelligence on 𝕏 (thread): https://x.com/physical_int/status/2
 
 Hey guys, I have a research project due and as a part of my thesis I will be analyzing a robot dog or a quadruped. The mechanical aspect of it. I specifically need help with a few things, therefore, I would be really glad anybody working on similar stuff or own one could reach out!
 
-3h ago
+4h ago
 
 ---
 
@@ -82,7 +82,7 @@ Hey guys, I have a research project due and as a part of my thesis I will be ana
 
 upgraded our robot: added a shell, cameras, onboard compute, basically everything it was missing. way heavier and way more complex now. got it doing continuous autonomous stair jumping in sim. no human input, policy decides everything on its own. but most of what we had working on the old rabbit bot just didn't carry over, had to retrain almost everything. still haven't gotten it to jump on the real robot yet, that's the next battle. right now we're deep in logs and calibration trying to close the gap. the usual lol btw we've been reading through all the questions you guys left on our previous posts, a lot of really good ones about sim2real, reward shaping, training workflow, etc. since RL questions came up the most, we're drafting with a writeup on that, sharing what we've learned and the mistakes we made along the way lol. should be up on r/MondoRobotics in a few days. not limited to RL though, if there's anything else you've been curious about, drop it in the comments. we'll try to cover what we can.
 
-19h ago
+20h ago
 
 ---
 
@@ -90,7 +90,7 @@ upgraded our robot: added a shell, cameras, onboard compute, basically everythin
 
 I discovered a GPS-free mode on the website (called myrobotproject) that enables pure vision-based flight using the Visio. Previously, I had only seen videos from the APM community featuring Intel cameras mounted on drones for GPS-denied navigation. I have my own drone and installed the Visio on it—the installation process was quite straightforward. I will open-source the related tutorial for everyone soon. If you have any interesting tests to share, I'd love to hear from you!
 
-17h ago
+18h ago
 
 ---
 
@@ -126,7 +126,7 @@ Business Insider • 2d ago
 
 Meet the Center Point-Urbana Robotics Team as they gear up for the Michiana Premier Event this June, competing against 95 teams from around the world!
 
-KCRG • 17h ago
+KCRG • 18h ago
 
 ---
 
@@ -134,7 +134,7 @@ KCRG • 17h ago
 
 Robots have a growing role on the battlefield – but for the immediate future, they are more likely to support the fight than lead it.
 
-The Conversation • 17h ago
+The Conversation • 18h ago
 
 ---
 
@@ -142,7 +142,7 @@ The Conversation • 17h ago
 
 Tech firms aim to trigger a robot revolution with video of humans doing housework. Gig workers are paid up to $25 an hour to film themselves doing various tasks.
 
-The Washington Post • 18h ago
+The Washington Post • 19h ago
 
 ---
 
@@ -156,7 +156,7 @@ Earth.com • 1d ago
 
 **[China humanoid robot half-marathon to showcase technical leaps](https://www.reuters.com/world/asia-pacific/china-humanoid-robot-half-marathon-showcase-technical-leaps-2026-04-18/)**
 
-Reuters • 9h ago
+Reuters • 10h ago
 
 ---
 
@@ -272,7 +272,7 @@ This is the shocking moment a marathon-running robot smashed into pieces after t
 
 📺 The Sun
 
-👁️ 48K • 👍 634 • 💬 361 • ⏱️ 2:06 • 22h ago
+👁️ 48K • 👍 634 • 💬 361 • ⏱️ 2:06 • 23h ago
 
 ---
 
