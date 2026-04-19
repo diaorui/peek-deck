@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-19T10:07:31.937812+00:00'
+updated: '2026-04-19T11:08:02.631097+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
+- videos
 - social
 - cryptocurrency
-- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 19, 2026 at 10:07 UTC  
+**Last Updated:** April 19, 2026 at 11:08 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,26 +43,26 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** -1.9%  
-**7d:** -2.3%  
-**30d:** +11.1%  
-**90d:** -21.3%  
-**1y:** +46.0%  
+**7d:** -2.5%  
+**30d:** +10.9%  
+**90d:** -21.4%  
+**1y:** +45.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $279.36B
+**Market Cap:** $280.01B
 Rank #2
 
 **Circulating Supply:** 120,690,543 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--53.2%
+-53.1%
 
 **All-Time Low:** $0.43
-+534572.6%
++535734.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+6h ago
 
 ---
 
@@ -80,7 +80,21 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Feels kinda bigger than a normal crypto meetup tbh Ethereum getting a real physical hub in Hong Kong with Foundation backing sounds like a sign the ecosystem is trying to build something more lasting than just online hype and conference cycles Hong Kong is also a pretty smart place for it if the goal is to connect builders, institutions and actual adoption in Asia Do you guys think this stuff actually matters for Ethereum long term, or is it mostly optics? https://btcusa.com/ethereum-foundation-backs-asias-first-physical-ethereum-hub-in-hong-kong-as-institutional-web3-race-intensifies/
 
-55m ago
+1h ago
+
+---
+
+**[Someone Warned Kelp DAO About This Exact Vulnerability 15 Months Ago. Nobody Listened. $292 Million Is Gone](https://www.reddit.com/r/ethereum/comments/1spoe1h/someone_warned_kelp_dao_about_this_exact/)**
+
+The Kelp DAO exploit that drained $292 million and froze Aave was preventable. A developer posted on the Aave governance forum in January 2025 that Kelp's single-validator bridge security was the weakest configuration LayerZero allows. Kelp never added the second validator. On Saturday, an attacker used that exact vulnerability.
+
+🔗 [DailyCoinPost](https://dailycoinpost.com/kelp-dao-292-million-hack-warning-ignored-layerzero/) • 1h ago
+
+---
+
+**[Open-sourced a multi-agent contract audit skill for Claude Code](https://www.reddit.com/r/ethereum/comments/1spodq7/opensourced_a_multiagent_contract_audit_skill_for/)**
+
+1h ago
 
 ---
 
@@ -96,7 +110,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hello everyone. I recently built an Ethereum page that shows how Ethereum would look if investments never lost value and I’d love someone to look at the page and give me some honest feedback on it.
 
-18h ago
+19h ago
 
 ---
 
@@ -132,37 +146,31 @@ Glamsterdam devnets drive Ethereum’s execution readiness while Hegotá opens t
 
 ---
 
-**[Ethereal news mini #0 | Solidity developer survey results, ether.fi migrated to OP Mainnet, X $ETH cashtag](https://www.reddit.com/r/ethereum/comments/1snt515/ethereal_news_mini_0_solidity_developer_survey/)**
-
-Solidity developer survey results, ether.fi migrated to OP Mainnet, X $ETH cashtag
-
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-mini-0/) • 2d ago
-
----
-
-**[I think Coinbase is building a fantastic business with stablecoins, and I would love others' opinions and thoughts.](https://www.reddit.com/r/ethereum/comments/1so3od4/i_think_coinbase_is_building_a_fantastic_business/)**
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
+
+**[Solana Has Processed More Transactions Than Ethereum -- Is It a Buy?](https://www.fool.com/investing/2026/04/18/with-hugetransaction-volume-is-solana-a-buy/)**
+
+Transaction volumes are one of many ways to see how well a cryptocurrency is performing.
+
+The Motley Fool • 9h ago
+
+---
 
 **[Ethereum co-founder Joseph Lubin warns of the dangers of AI being controlled by a few big tech firms](https://www.coindesk.com/tech/2026/04/18/ethereum-co-founder-joseph-lubin-warns-of-the-dangers-of-ai-being-controlled-by-a-few-big-tech-firms)**
 
 In an interview with CoinDesk, the Ethereum co-founder spoke also about Ethereum’s evolution through MetaMask, stablecoins and tokenization, while downplaying quantum computing as a long-term, manageable issue.
 
-CoinDesk • 14h ago
+CoinDesk • 15h ago
 
 ---
 
-**[Why BitMine’s Tom Lee Sees Ethereum at $62,500 in 2030 - and What the Numbers Actually Show](https://247wallst.com/investing/2026/04/18/why-bitmines-tom-lee-sees-ethereum-at-62500-in-2030-and-what-the-numbers-actually-show/)**
+**[Why BitMine’s Tom Lee Sees Ethereum at $62,500 in 2030 — and What the Numbers Actually Show](https://finance.yahoo.com/markets/crypto/articles/why-bitmine-tom-lee-sees-121409901.html)**
 
 Crypto investors have watched Ethereum (CRYPTO:ETH) trade in a narrow range near $2,362 while Bitcoin hovers around $76,000 and institutional money quietly builds positions in digital assets. Adoption metrics keep climbing — stablecoins on Ethereum now handle trillions in annual volume, and layer-2 networks process thousands of transactions per second. Yet price action feels stuck. ... Why BitMine’s Tom Lee Sees Ethereum at $62,500 in 2030 — and What the Numbers Actually Show
 
-24/7 Wall St. • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -190,27 +198,19 @@ Decrypt • 2d ago
 
 ---
 
-**[Bitmine Immersion: Ethereum Pivot Driving Hidden Upside (NYSE:BMNR)](https://seekingalpha.com/article/4891793-bitmine-immersion-ethereum-pivot-driving-hidden-upside)**
-
-Bitmine Immersion’s ETH staking drives 97%+ gross margins and surging revenue, but dilution and negative cash flow raise risks. Read why BMNR stock is a buy.
-
-Seeking Alpha • 20h ago
-
----
-
-**[Crypto Trader Turns $2,500 Into $500K on Skyrocketing Ethereum Meme Coin](https://finance.yahoo.com/markets/crypto/articles/crypto-trader-turns-2-500-182605699.html)**
-
-A meme coin trader turned $2,500 into nearly $500,000 in a matter of hours via the Elon Musk-linked ASTEROID token on Ethereum.
-
-Yahoo Finance • 1d ago
-
----
-
 **[Ethereum Price Prediction 2026: Can ETH Hit $5,000 This Year?](https://coinpedia.org/price-analysis/ethereum-price-prediction-2026-can-eth-hit-5000-this-year/)**
 
 Ethereum price has displayed significant strength after breaking above the structure, with follow-through volume strength despite the selling pressure
 
-Coinpedia • 18h ago
+Coinpedia • 19h ago
+
+---
+
+**[Bitmine Immersion: Ethereum Pivot Driving Hidden Upside (NYSE:BMNR)](https://seekingalpha.com/article/4891793-bitmine-immersion-ethereum-pivot-driving-hidden-upside)**
+
+Bitmine Immersion’s ETH staking drives 97%+ gross margins and surging revenue, but dilution and negative cash flow raise risks. Read why BMNR stock is a buy.
+
+Seeking Alpha • 21h ago
 
 ---
 
@@ -222,11 +222,11 @@ The Block • 2d ago
 
 ---
 
-**[Solana Has Processed More Transactions Than Ethereum -- Is It a Buy?](https://www.fool.com/investing/2026/04/18/with-hugetransaction-volume-is-solana-a-buy/)**
+**[KelpDAO exploit causes AAVE ETH pool to utilization](https://cryptobriefing.com/kelpdao-exploit-causes-aave-eth-pool-to-utilization/)**
 
-Transaction volumes are one of many ways to see how well a cryptocurrency is performing.
+KelpDAO exploit causes AAVE ETH pool to hit 100% utilization. Ethereum above $1,700 on April 19 at 99.9% YES.
 
-The Motley Fool • 8h ago
+Crypto Briefing • 9h ago
 
 ---
 
@@ -234,13 +234,23 @@ The Motley Fool • 8h ago
 
 ## YouTube Videos: "ethereum"
 
+**[🚨 BTC &amp; ETH: ITS TIME!!!!!!!!!!!!!!!](https://www.youtube.com/watch?v=U1zfC9BL5hM)**
+
+Its a video about bitcoin, ethereum, crypto in general. But its quite an unusual one! So dont miss it! ---------- Join My FREE ...
+
+📺 Thomas Kralow
+
+👁️ 2K • 👍 1K • 💬 26 • ⏱️ 7:52 • 1h ago
+
+---
+
 **[More Powerful Ethereum Coming This Summer🚨Ethereum Economic Zone INTERVIEW](https://www.youtube.com/watch?v=3uuRT5Zoi5s)**
 
 The Ethereum Economic Zone (EEZ) is a framework co-funded by the Ethereum Foundation, Gnosis, and Zisk to unify fragmented ...
 
 📺 Paul Barron Network
 
-👁️ 19K • 👍 915 • 💬 80 • ⏱️ 19:55 • 18h ago
+👁️ 19K • 👍 928 • 💬 83 • ⏱️ 19:55 • 19h ago
 
 ---
 
@@ -250,17 +260,27 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 3K • 👍 180 • 💬 17 • ⏱️ 20:54 • 17h ago
+👁️ 4K • 👍 191 • 💬 18 • ⏱️ 20:54 • 18h ago
 
 ---
 
-**[Forget Ethereum — $BMNR Only Cares About Iran Now](https://www.youtube.com/watch?v=d0a2Q-odIWM)**
+**[WILL ETHEREUM DUMP LOWER?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=DZkd1_Eqzk0)**
 
-http://www.x10daytrading.com/?video=d0a2Q-odIWM TRADE TO $1M WHILE WORKING 9 TO 5? Copy Pro Traders With ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 Wolf Of Dubai 2 - X10 DAY TRADING
+📺 Cilinix Crypto
 
-👁️ 782 • 👍 38 • 💬 3 • ⏱️ 9:31 • 10h ago
+👁️ 52 • 👍 6 • 💬 1 • ⏱️ 4:47 • 45m ago
+
+---
+
+**[🤩 Don&#39;t Miss The Opportunity In Ethereum !](https://www.youtube.com/watch?v=ZP5mgPEADco)**
+
+Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 5K • 👍 167 • 💬 22 • ⏱️ 8:23 • 2d ago
 
 ---
 
@@ -270,7 +290,17 @@ BITCOIN WARNING: The Next TRAP Just Started!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 8K • 👍 347 • 💬 206 • ⏱️ 19:52 • 14h ago
+👁️ 8K • 👍 363 • 💬 206 • ⏱️ 19:52 • 15h ago
+
+---
+
+**[Forget Ethereum — $BMNR Only Cares About Iran Now](https://www.youtube.com/watch?v=d0a2Q-odIWM)**
+
+http://www.x10daytrading.com/?video=d0a2Q-odIWM TRADE TO $1M WHILE WORKING 9 TO 5? Copy Pro Traders With ...
+
+📺 Wolf Of Dubai 2 - X10 DAY TRADING
+
+👁️ 1K • 👍 47 • 💬 4 • ⏱️ 9:31 • 11h ago
 
 ---
 
@@ -294,43 +324,13 @@ Ethereum is flashing a fractal that mirrors the November 2024 altcoin breakout, 
 
 ---
 
-**[Bitcoin und Ethereum, in den nächsten 24h Stunden passiert DAS!! Gute Möglichkeiten JETZT](https://www.youtube.com/watch?v=zoo7UfPxaGQ)**
-
-Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zurück bis max 400 USDT) ...
-
-📺 Krypto Trading & Investing
-
-👁️ 2K • 👍 459 • 💬 30 • ⏱️ 11:05 • 5h ago
-
----
-
-**[🤩 Don&#39;t Miss The Opportunity In Ethereum !](https://www.youtube.com/watch?v=ZP5mgPEADco)**
-
-Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 5K • 👍 167 • 💬 21 • ⏱️ 8:23 • 2d ago
-
----
-
 **[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=uWZIr6evinY)**
 
 Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
 
 📺 Crypto Gyan
 
-👁️ 457 • 👍 74 • ⏱️ 6:00 • 5h ago
-
----
-
-**[I Can&#39;t Believe They Actually Did This Bitcoin And Ethereum Won&#39;t Be The Same Cardano Just Did THIS](https://www.youtube.com/watch?v=NpB7OcPjS0s)**
-
-Being in crypto right now feels like being in some elaborate fever dream. Bitcoin and Ethereum should be at LEAST double in ...
-
-📺 The Modern Investor
-
-👁️ 9K • 👍 903 • 💬 127 • ⏱️ 29:17 • 3d ago
+👁️ 825 • 👍 95 • ⏱️ 6:00 • 6h ago
 
 ---
 

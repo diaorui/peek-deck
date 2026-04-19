@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-19T10:07:31.940976+00:00'
+updated: '2026-04-19T11:08:02.634329+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 19, 2026 at 10:07 UTC  
+**Last Updated:** April 19, 2026 at 11:08 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2045678855638405436 https://x.com/XRoboHub/status/2045695900434276501
 
-6h ago
+7h ago
 
 ---
 
@@ -48,7 +48,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2045678855638405436 http
 
 **[Beluga-Robot Interaction](https://www.reddit.com/r/robotics/comments/1sou3s2/belugarobot_interaction/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -56,7 +56,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2045678855638405436 http
 
 I am currently developing a quadruped robot and I have come across this design for the leg. I need some help in understanding how this configuration of linkage is superior to something like this: Link where the third servo is directly linked to the coupler. Specially the addition of the triangular ternary link and pivoting it to the hip servo. I have seen a similar design here as well. Link Does this offer better range of motion? More stability? Better torque control? I am failing to understand.
 
-10h ago
+11h ago
 
 ---
 
@@ -64,7 +64,7 @@ I am currently developing a quadruped robot and I have come across this design f
 
 tbh ive been messing around with llms for a bit but got super bored of just typing into web interfaces. wanted something that actually sat on my desk and felt kinda 'alive' instead of just another thin wrapper. so basically i started building this prototype. calling it kitto for now. its a cyberpunk desktop companion or digital pet thing. the idea was to take a standard ai agent but give it an actual physical presence. hardware-wise its running on an esp32s3+esp32p4. eventually im going to port the custom OS to a linux board, but getting it running on a microcontroller has definately been a fun constraint. really didnt want the screen to look like a cheap toy just looping a pre-rendered gif. all the animations are driven by code. im currently pulling raw audio buffers and mapping amplitude/freq peaks to specific sprite frames for the mouth. so when it talks back to you to read the weather, set an alarm, or send an email (like in the video), it does real-time lip-sync and expression syncing based on tone. also threw in some classic digital pet mechanics so you can feed it or whatever. still a massive work in progress. getting the lip-sync to not look completely janky took way too much trial and error. latency is my biggest headache right now. pinging the api, getting the TTS audio back, and triggering the animation states fast enough to not break the illusion is brutal on this hardware.
 
-19h ago
+20h ago
 
 ---
 
@@ -72,7 +72,7 @@ tbh ive been messing around with llms for a bit but got super bored of just typi
 
 I’m building a hexapod as a first robotics project, and I could do with some help figuring out a viable power supply. At the moment I have three of these buck converters, each stepping a 3S LiPo down to 6v to supply three PCA9685 driver boards. The driver boards will power 6 of the servos from the second board each, and so the max current any of the converters will pull is 18A. So this is fine, but the problem is the size of the converters themselves. They are way bigger than I expected and I’ll have to make the hexapod’s body much larger to accommodate them. Ideally I’d like to avoid this since it’s already pretty big. So far I’ve considered: - Smaller battery, smaller converters: -> If I use a 2S battery, then I only have to step down from a max 8.4V. The stall current is the same though, which none of the (affordable) converters of this size are rated for. - High voltage servos: -> If I get servos rated for a higher voltage, and then downsize to a 2S LiPo, I should only need one converter for the ArduinoUNO itself. Although now I’m writing that out I dont think it’s correct since the PCA9686 maxes out at 6V. I also already bought all 18 of the servos before realising this whole issue 😬 Ok thats a lot of writing, I hope it makes sense. TLDR; I’m looking for a much more compact way of getting low voltage with high current. Its a bad day to be ohms law.
 
-2h ago
+3h ago
 
 ---
 
@@ -80,7 +80,7 @@ I’m building a hexapod as a first robotics project, and I could do with some h
 
 Hello! This is my first ever humanoid robot project: Android 1. I designed him to be simplistic and functional, the Android has grippers to manipulate objects around him and a camera for vision. At the current moment, he is just a research platform for basic AI and ROS. I designed him using fusion 360 and programmed him with python .Please give me some suggestions on his design and feel free to ask questions!
 
-8h ago
+9h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hello! This is my first ever humanoid robot project: Android 1. I designed him t
 
 NVIDIA Hugging Face blog post: https://huggingface.co/blog/nvidia/gr00t-n1-7 Models: https://huggingface.co/collections/nvidia/gr00t-n17 GitHub: https://github.com/NVIDIA/Isaac-GR00T From NVIDIA Robotics on 𝕏: https://x.com/NVIDIARobotics/status/2045172389244240209
 
-23h ago
+1d ago
 
 ---
 
@@ -102,7 +102,7 @@ NVIDIA Hugging Face blog post: https://huggingface.co/blog/nvidia/gr00t-n1-7 Mod
 
 Hi im doing a 2 dof robotic arm with base and sometimes after the calculations the code gives me -32 or any minus number and the servo dont understand minus so what i should do this is my code #include <SoftwareSerial.h> #include <math.h> #include <VarSpeedServo.h> VarSpeedServo myServo1; VarSpeedServo myServo2; VarSpeedServo myServo3; //Servo servo1; // Base //Servo servo2; // Shoulder (Joint 1) //Servo servo3; // Elbow (Joint 2) #define servo1pin 9 #define servo2pin 5 #define servo3pin 6 SoftwareSerial BT(2, 4); float L1 = 10.0; float L2 = 8.0; float Y0 = 12.8; void setup() { myServo1.attach(servo1pin); myServo2.attach(servo2pin); myServo3.attach(servo3pin); myServo1.write(90 , 40 , true); myServo2.write(90 , 40 , true); myServo3.write(90 , 40 , true); BT.begin(9600); Serial.begin(9600); Serial.println("Robot Arm Ready. Send: x,y,z"); } void loop() { if (Serial.available() > 0) { String data = Serial.readStringUntil('\n'); int frstCommaId = data.indexOf(','); int scndCommaId = data.indexOf(',', frstCommaId + 1); if (frstCommaId >= 0 && scndCommaId >= 0) { float x = data.substring(0, frstCommaId).toFloat(); float y = data.substring(frstCommaId + 1, scndCommaId).toFloat(); float z = data.substring(scndCommaId + 1).toFloat(); Serial.print("Target -> X: "); Serial.print(x); Serial.print(" Y: "); Serial.print(y); Serial.print(" Z: "); Serial.println(z); float adjustedY = y - Y0; float r = sqrt(x * x + z * z); float distSq = r * r + adjustedY * adjustedY; float dist = sqrt(distSq); if (dist <= (L1 + L2) && dist >= abs(L1 - L2)) { float Bangle = atan2(z, x); // استخدام معلمتين (z, x) float realB = Bangle * (180.0 / PI); float cosAngle2 = (distSq - (L1 * L1) - (L2 * L2)) / (2.0 * L1 * L2); float angle2 = acos(cosAngle2); float real2 = angle2 * (180.0 / PI); float alpha = atan2(adjustedY, r); float beta = atan2((L2 * sin(angle2)), (L1 + L2 * cos(angle2))); float angle1 = alpha + beta; float real1 = angle1 * (180.0 / PI); float valueB = realB+90; float value1 = real1+90 ; float value2 = 90-real2 ; valueB = constrain(valueB, 0, 180); value1 = constrain(value1, 0, 180); value2 = constrain(value2, 0, 180); Serial.print("Output -> Base: "); Serial.print(valueB); Serial.print(" ANGLE1: "); Serial.print(value1); Serial.print(" ANGLE2: "); Serial.println(value2); myServo1.write(valueB , 20 , true); myServo2.write(value1 , 20 , true); myServo3.write(value2 ,20 , true); } else { Serial.println("Error: Target out of reach!"); } } else { Serial.println("Invalid Format! Use: x,y,z"); } } }
 
-12h ago
+13h ago
 
 ---
 
@@ -110,49 +110,51 @@ Hi im doing a 2 dof robotic arm with base and sometimes after the calculations t
 
 ## Google News: "robotics"
 
-**[Chef Robotics escaped the robot cooking graveyard and says it’s thriving — here’s why](https://techcrunch.com/2026/04/17/chef-robotics-escaped-the-robot-cooking-graveyard-and-says-its-thriving-heres-why/)**
-
-The company, which deploys AI-guided robot arms for food production, says it is looking to expand its services to provide for a broader array of customers.
-
-TechCrunch • 1d ago
-
----
-
-**[Wild Video Shows Delivery Robots Causing Havoc, Getting Obliterated](https://futurism.com/robots-and-machines/delivery-robot-fail-compilation)**
-
-A new compilation video features some rare clips of delivery robots getting their metal chassis kicked in.
-
-Futurism • 1d ago
-
----
-
 **[Humanoid robots race past humans in Beijing half-marathon, showing rapid advances](https://www.reuters.com/sports/humanoid-robots-race-past-humans-beijing-half-marathon-showing-rapid-advances-2026-04-19/)**
 
-Reuters • 8h ago
+Reuters • 9h ago
 
 ---
 
-**[Watch: Runners v robots at China half marathon](https://www.bbc.com/news/videos/cz0e54yrppno)**
+**[In Chicago, robots are serving up food deliveries, as well as some mishaps](https://www.chicagotribune.com/2026/04/18/food-delivery-robots-chicago/)**
 
-Robots competed in a half marathon race in Beijing on Sunday, with the winning machine leaving its human rivals for dust.
+The robots are on trial as the companies operate under a pilot program that expires in May 2027. Chicago’s City Council would need to take action to allow the robots to stay in Chicago after next spring.
 
-BBC • 1h ago
-
----
-
-**[Watch: In A First, Chinese Humanoid Robots Outrun Humans In Beijing Half-Marathon](https://www.ndtv.com/world-news/video-faster-than-humans-chinese-humanoid-robots-impress-with-record-times-in-beijing-half-marathon-11378275)**
-
-The top-performing robot completed the 21-kilometer race in just 50 minutes and 26 seconds, faster than the current human half-marathon world record set by Jacob Kiplimo earlier this year.
-
-NDTV • 4h ago
+Chicago Tribune • 1d ago
 
 ---
 
-**[See why tech companies are paying people to do chores](https://www.washingtonpost.com/technology/interactive/2026/robot-chores-video-data/)**
+**[Tools for Your To Do List with Spot and Gemini Robotics](https://bostondynamics.com/blog/tools-for-your-to-do-list-with-spot-and-gemini-robotics/)**
 
-Tech firms aim to trigger a robot revolution with video of humans doing housework. Gig workers are paid up to $25 an hour to film themselves doing various tasks.
+A recent demo shows Boston Dynamics Spot in a residential home, using Google’s visual-language model (VLM) Gemini Robotics-ER 1.5 for embodied reasoning.
 
-The Washington Post • 1d ago
+Boston Dynamics • 5h ago
+
+---
+
+**[Photos: Students show off engineering skills at robotics competition](https://www.timesunion.com/news/article/photos-school-robotics-teams-face-competition-22213793.php)**
+
+Times Union • 1h ago
+
+---
+
+**[TVA offering up to $5,000 for school robotics programs](https://wreg.com/news/tva-offering-up-to-5000-for-school-robotics-programs/)**
+
+WREG.com • 10h ago
+
+---
+
+**[Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning](https://deepmind.google/blog/gemini-robotics-er-1-6/)**
+
+Gemini Robotics ER 1.6 upgrades spatial reasoning and multi-view understanding, unlocking new capabilities like instrument reading for autonomous robots.
+
+Google DeepMind • 4d ago
+
+---
+
+**[Maywood students in SoCal prepare for robotics world championship](https://ktla.com/video/maywood-students-in-socal-prepare-for-robotics-world-championship/11713857/)**
+
+KTLA • 5h ago
 
 ---
 
@@ -164,27 +166,19 @@ MIT News • 2d ago
 
 ---
 
-**[Robots just captured a Russian position in Ukraine – but don’t worry about real-life Terminators just yet](https://theconversation.com/robots-just-captured-a-russian-position-in-ukraine-but-dont-worry-about-real-life-terminators-just-yet-280959)**
+**[TPD: Sounds from robotics competition mistaken for gunfire, no active shooter on FAMU campus](https://www.wctv.tv/2026/04/16/tpd-sounds-robotics-competition-mistaken-gunfire-no-active-shooter-famu-campus/)**
 
-Robots have a growing role on the battlefield – but for the immediate future, they are more likely to support the fight than lead it.
+Sounds from a robotics competition hosted on Florida A&M’s campus were mistaken for gunfire Wednesday afternoon.
 
-The Conversation • 1d ago
-
----
-
-**[CPU Robotics Team 6189: High Voltage](https://www.kcrg.com/video/2026/04/17/cpu-robotics-team-6189-high-voltage/)**
-
-Meet the Center Point-Urbana Robotics Team as they gear up for the Michiana Premier Event this June, competing against 95 teams from around the world!
-
-KCRG • 1d ago
+WCTV • 2d ago
 
 ---
 
-**[In Chicago, robots are serving up food deliveries, as well as some mishaps](https://www.chicagotribune.com/2026/04/18/food-delivery-robots-chicago/)**
+**[How Physical AI Is Reshaping Robotics Today—and What Comes Next](https://www.bcg.com/publications/2026/how-physical-ai-is-reshaping-robotics-today)**
 
-The robots are on trial as the companies operate under a pilot program that expires in May 2027. Chicago’s City Council would need to take action to allow the robots to stay in Chicago after next spring.
+Progress is real, but so is the uncertainty. A five-level framework helps leaders distinguish proven capabilities from emerging bets and sequence investments with discipline.
 
-Chicago Tribune • 23h ago
+Boston Consulting Group • 5d ago
 
 ---
 
@@ -198,7 +192,7 @@ President Zelenskyy says that for the first time ever, the Ukrainian army was ab
 
 📺 NBC News
 
-👁️ 573K • 👍 8K • 💬 2K • ⏱️ 3:12 • 3d ago
+👁️ 576K • 👍 8K • 💬 2K • ⏱️ 3:12 • 3d ago
 
 ---
 
@@ -208,7 +202,7 @@ Physical Intelligence is building a foundation model that can control any robot 
 
 📺 Y Combinator
 
-👁️ 39K • 👍 909 • 💬 52 • ⏱️ 49:27 • 2d ago
+👁️ 39K • 👍 919 • 💬 52 • ⏱️ 49:27 • 2d ago
 
 ---
 
@@ -218,7 +212,7 @@ Boston Dynamics just did what most people thought would take years longer. Atlas
 
 📺 AI Revolution
 
-👁️ 134K • 👍 3K • 💬 197 • ⏱️ 21:49 • 5d ago
+👁️ 135K • 👍 3K • 💬 199 • ⏱️ 21:49 • 5d ago
 
 ---
 
@@ -232,33 +226,23 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 ---
 
-**[Brand New Haro380 6-Axis Mini Industrial Robot | WLKATA](https://www.youtube.com/watch?v=T5t0leyjU00)**
-
-Introducing the brand new Haro380 6-Axis mini industrial robotic arm. Get a first look at its smooth motion, precise control, and ...
-
-📺 WLKATA ROBOTICS
-
-👁️ 38K • 👍 763 • 💬 23 • ⏱️ 2:11 • 5d ago
-
----
-
-**[China Just Built an Autonomous AI Robot Army: Killer Robots With Guns and Rockets](https://www.youtube.com/watch?v=_Vw_6QrqS8c)**
-
-China just revealed an autonomous robot war pack built from dog bots, drones, laser weapons, and unmanned boats, Europe is ...
-
-📺 AI Revolution
-
-👁️ 68K • 👍 1K • 💬 136 • ⏱️ 16:14 • 2d ago
-
----
-
 **[China’s New H1 AI Robot Just BROKE the World Record… This Is Insane](https://www.youtube.com/watch?v=jz3TC2ZkLgw)**
 
 A humanoid robot just sprinted at ten meters per second on an open track — no cables, no harness, nothing but raw artificial ...
 
 📺 NextGen Humanoids
 
-👁️ 55K • 👍 1K • 💬 126 • ⏱️ 8:07 • 6d ago
+👁️ 55K • 👍 1K • 💬 127 • ⏱️ 8:07 • 6d ago
+
+---
+
+**[Brand New Haro380 6-Axis Mini Industrial Robot | WLKATA](https://www.youtube.com/watch?v=T5t0leyjU00)**
+
+Introducing the brand new Haro380 6-Axis mini industrial robotic arm. Get a first look at its smooth motion, precise control, and ...
+
+📺 WLKATA ROBOTICS
+
+👁️ 40K • 👍 782 • 💬 25 • ⏱️ 2:11 • 5d ago
 
 ---
 
@@ -268,27 +252,37 @@ Chinese humanoid robots train to go head-to-head with human runners in the secon
 
 📺 NBC News
 
-👁️ 178K • 👍 1K • 💬 466 • ⏱️ 1:59 • 5d ago
+👁️ 180K • 👍 1K • 💬 472 • ⏱️ 1:59 • 5d ago
 
 ---
 
-**[Elon Musk’s New Tesla Optimus Robot Looks Shockingly Human](https://www.youtube.com/watch?v=MbqMwLHx8-4)**
+**[Robot &#39;Lightning&#39; wins Beijing E-Town humanoid robot half-marathon](https://www.youtube.com/watch?v=ZUYG7Sy52eg)**
 
-A new wave of attention is building around Elon Musk's latest version of the Tesla Optimus robot, which is being described as ...
+Robot 'Lightning' wins Beijing E-Town humanoid robot half-marathon Honor's humanoid robot "Lightning" was crowned champion ...
 
-📺 Carros Show
+📺 The Manila Times
 
-👁️ 24K • 👍 426 • 💬 82 • ⏱️ 8:01 • 5d ago
+👁️ 2K • 👍 21 • 💬 1 • ⏱️ 2:09 • 3h ago
 
 ---
 
-**[Better than Lebron? Check out AI powered robot](https://www.youtube.com/watch?v=rOLlqmKskp0)**
+**[China Just Built an Autonomous AI Robot Army: Killer Robots With Guns and Rockets](https://www.youtube.com/watch?v=_Vw_6QrqS8c)**
 
-Toyota Motor Corp. unveiled its latest AI-powered basketball robot, CUE7, on Sunday, giving the media a preview during a ...
+China just revealed an autonomous robot war pack built from dog bots, drones, laser weapons, and unmanned boats, Europe is ...
 
-📺 WeShow Sports
+📺 AI Revolution
 
-👁️ 68K • 👍 721 • 💬 126 • ⏱️ 3:02 • 6d ago
+👁️ 69K • 👍 1K • 💬 138 • ⏱️ 16:14 • 2d ago
+
+---
+
+**[300+ Robots Join Historic Run: Humanoid Robots Race Past Humans in Beijing Half Marathon | AI1Z](https://www.youtube.com/watch?v=ikd7EcKvONo)**
+
+Dozens of humanoid robots competed alongside human runners in the Beijing half marathon, showcasing China's rapid ...
+
+📺 DRM News
+
+👁️ 2K • 👍 83 • 💬 12 • ⏱️ 8:15 • 3h ago
 
 ---
 
