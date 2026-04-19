@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-19T17:06:09.355614+00:00'
+updated: '2026-04-19T18:02:32.585468+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 19, 2026 at 17:06 UTC  
+**Last Updated:** April 19, 2026 at 18:02 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From 小互 on 𝕏: "Feels a bit like F1": https://x.com/xiaohu/status/2045786816213815411
 
-5h ago
+6h ago
 
 ---
 
@@ -44,7 +44,7 @@ From 小互 on 𝕏: "Feels a bit like F1": https://x.com/xiaohu/status/20457868
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2045678855638405436 https://x.com/XRoboHub/status/2045695900434276501
 
-13h ago
+14h ago
 
 ---
 
@@ -52,13 +52,13 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2045678855638405436 http
 
 Robotis just revealed their new QDD actuators and their new open source humanoid robot. This robot very closely resembles Unitree G1, but it is totally open source in both hardware and software. I heard that the pricing will be competitive as well.
 
-🔗 [LinkedIn](https://www.linkedin.com/posts/yoonseokpyo_this-is-robotiss-open-source-entry-level-activity-7451595734975557632-eLLl/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEP9kBABMMZZVzJTJhId4-134XyBuXENZws) • 2h ago
+🔗 [LinkedIn](https://www.linkedin.com/posts/yoonseokpyo_this-is-robotiss-open-source-entry-level-activity-7451595734975557632-eLLl/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEP9kBABMMZZVzJTJhId4-134XyBuXENZws) • 3h ago
 
 ---
 
 **[Everyone saw the Honour robot win… but nobody noticed what it did right after](https://www.reddit.com/r/robotics/comments/1spy9lg/everyone_saw_the_honour_robot_win_but_nobody/)**
 
-14m ago
+1h ago
 
 ---
 
@@ -66,7 +66,7 @@ Robotis just revealed their new QDD actuators and their new open source humanoid
 
 https://www.youtube.com/watch?v=G2hwzWDg8Js In the past, most grasping implementations in MuJoCo started from the question of how to control the robot arm. You first obtain the object's position, then manually implement inverse kinematics, trajectory planning, and gripper control, ultimately turning a simple task like "pick up the cube on the table" into a long sequence of joint angles and control commands. But I wanted to test something else: What would happen if I stopped telling the AI exactly how each joint should move, and instead only gave it a skill? For example, I only tell it to: * Find the cube on the table * Move the robot arm above the cube * Pick it up Everything else is left to the AI. Based on the current scene state, it understands the goal, breaks it down into steps, and generates the corresponding grasping actions. Perhaps in the future, what we maintain for robot applications will no longer be a large amount of control code, but instead a set of skills that AI can understand, compose, and execute.
 
-4h ago
+5h ago
 
 ---
 
@@ -82,7 +82,7 @@ This involves a lot of robotics. There is a 5, 2 way solenoid (two of them), two
 
 I am currently developing a quadruped robot and I have come across this design for the leg. I need some help in understanding how this configuration of linkage is superior to something like this: Link where the third servo is directly linked to the coupler. Specially the addition of the triangular ternary link and pivoting it to the hip servo. I have seen a similar design here as well. Link Does this offer better range of motion? More stability? Better torque control? I am failing to understand.
 
-17h ago
+18h ago
 
 ---
 
@@ -102,7 +102,7 @@ I am currently developing a quadruped robot and I have come across this design f
 
 Hello! This is my first ever humanoid robot project: Android 1. I designed him to be simplistic and functional, the Android has grippers to manipulate objects around him and a camera for vision. At the current moment, he is just a research platform for basic AI and ROS. I designed him using fusion 360 and programmed him with python .Please give me some suggestions on his design and feel free to ask questions!
 
-15h ago
+16h ago
 
 ---
 
@@ -114,7 +114,7 @@ Hello! This is my first ever humanoid robot project: Android 1. I designed him t
 
 Robots competed in a half marathon race in Beijing on Sunday, with the winning machine leaving its human rivals for dust.
 
-BBC • 8h ago
+BBC • 9h ago
 
 ---
 
@@ -130,7 +130,7 @@ TechCrunch • 2d ago
 
 A recent demo shows Boston Dynamics Spot in a residential home, using Google’s visual-language model (VLM) Gemini Robotics-ER 1.5 for embodied reasoning.
 
-Boston Dynamics • 11h ago
+Boston Dynamics • 12h ago
 
 ---
 
@@ -144,7 +144,7 @@ Times Union • 7h ago
 
 A local high school robotics team is making its mark on the national stage for a second year in a row.
 
-WRGB • 1h ago
+WRGB • 2h ago
 
 ---
 
@@ -158,7 +158,7 @@ Futurist Speaker • 4h ago
 
 **[AI and robotics will aid, not end, human space exploration](https://thehill.com/opinion/technology/5836884-human-spaceflight-debate-ai-robots/)**
 
-The Hill • 3h ago
+The Hill • 4h ago
 
 ---
 
@@ -175,13 +175,13 @@ Google DeepMind • 5d ago
 Booz Allen Hamilton’s venture arm has recently invested in maritime robotics firm Ulysses and space technology company Portal Space Systems, while the parent company has completed its acquisition of cybersecurity provider Defy Security to expand its technology-enabled solutions portfolio.
 This combination of maritime autonomy, space operations, and advanced cyber capabilities marks Booz Allen’s first move into maritime investments and further broadens its robotics and autonomy footprint...
 
-simplywall.st • 4h ago
+simplywall.st • 5h ago
 
 ---
 
 **[TVA offering up to $5,000 for school robotics programs](https://wreg.com/news/tva-offering-up-to-5000-for-school-robotics-programs/)**
 
-WREG.com • 16h ago
+WREG.com • 17h ago
 
 ---
 
@@ -189,23 +189,23 @@ WREG.com • 16h ago
 
 ## YouTube Videos: "robotics"
 
-**[Ukrainian president says robots captured territory from Russian soldiers](https://www.youtube.com/watch?v=XiGwWwcnT7M)**
-
-President Zelenskyy says that for the first time ever, the Ukrainian army was able to use only robots to retake territory from Russian ...
-
-📺 NBC News
-
-👁️ 580K • 👍 8K • 💬 2K • ⏱️ 3:12 • 3d ago
-
----
-
 **[Robots vs humans: Beijing half-marathon delivers stunning result](https://www.youtube.com/watch?v=1vUnusbzNMQ)**
 
 Humanoid robots have beaten human runners in a Beijing half-marathon, marking a breakthrough in China's rapidly advancing ...
 
 📺 Al Jazeera English
 
-👁️ 78K • 👍 1K • 💬 410 • ⏱️ 2:13 • 6h ago
+👁️ 135K • 👍 2K • 💬 533 • ⏱️ 2:13 • 7h ago
+
+---
+
+**[Ukrainian president says robots captured territory from Russian soldiers](https://www.youtube.com/watch?v=XiGwWwcnT7M)**
+
+President Zelenskyy says that for the first time ever, the Ukrainian army was able to use only robots to retake territory from Russian ...
+
+📺 NBC News
+
+👁️ 582K • 👍 8K • 💬 2K • ⏱️ 3:12 • 3d ago
 
 ---
 
@@ -215,7 +215,17 @@ Physical Intelligence is building a foundation model that can control any robot 
 
 📺 Y Combinator
 
-👁️ 40K • 👍 945 • 💬 54 • ⏱️ 49:27 • 3d ago
+👁️ 41K • 👍 954 • 💬 54 • ⏱️ 49:27 • 3d ago
+
+---
+
+**[Humanoid Robot ‘Lightning’ Breaks World Record For A Half-marathon](https://www.youtube.com/watch?v=4i4EglunAag)**
+
+Robots have outpaced human runners at this year's Beijing half-marathon, finishing more than 10 minutes ahead of the top ...
+
+📺 New York Post
+
+👁️ 6K • 👍 113 • 💬 106 • ⏱️ 3:17 • 3h ago
 
 ---
 
@@ -225,17 +235,17 @@ Boston Dynamics just did what most people thought would take years longer. Atlas
 
 📺 AI Revolution
 
-👁️ 136K • 👍 3K • 💬 201 • ⏱️ 21:49 • 5d ago
+👁️ 137K • 👍 3K • 💬 202 • ⏱️ 21:49 • 5d ago
 
 ---
 
-**[300+ Robots Join Historic Run: Humanoid Robots Race Past Humans in Beijing Half Marathon | AI1Z](https://www.youtube.com/watch?v=ikd7EcKvONo)**
+**[Humanoid robots race past humans in Beijing half-marathon](https://www.youtube.com/watch?v=oLdVcsttB_A)**
 
-Dozens of humanoid robots competed alongside human runners in the Beijing half marathon, showcasing China's rapid ...
+Dozens of Chinese-made humanoid robots showed off their fast-improving athleticism as they whizzed past human runners in a ...
 
-📺 DRM News
+📺 Guardian News
 
-👁️ 15K • 👍 259 • 💬 56 • ⏱️ 8:15 • 9h ago
+👁️ 39K • 👍 124 • 💬 66 • ⏱️ 0:37 • 6h ago
 
 ---
 
@@ -245,17 +255,17 @@ China just revealed an autonomous robot war pack built from dog bots, drones, la
 
 📺 AI Revolution
 
-👁️ 70K • 👍 1K • 💬 138 • ⏱️ 16:14 • 2d ago
+👁️ 70K • 👍 1K • 💬 139 • ⏱️ 16:14 • 2d ago
 
 ---
 
-**[Brand New Haro380 6-Axis Mini Industrial Robot | WLKATA](https://www.youtube.com/watch?v=T5t0leyjU00)**
+**[300+ Robots Join Historic Run: Humanoid Robots Race Past Humans in Beijing Half Marathon | AI1Z](https://www.youtube.com/watch?v=ikd7EcKvONo)**
 
-Introducing the brand new Haro380 6-Axis mini industrial robotic arm. Get a first look at its smooth motion, precise control, and ...
+Dozens of humanoid robots competed alongside human runners in the Beijing half marathon, showcasing China's rapid ...
 
-📺 WLKATA ROBOTICS
+📺 DRM News
 
-👁️ 44K • 👍 834 • 💬 26 • ⏱️ 2:11 • 5d ago
+👁️ 18K • 👍 279 • 💬 66 • ⏱️ 8:15 • 10h ago
 
 ---
 
@@ -265,27 +275,17 @@ Robot 'Lightning' wins Beijing E-Town humanoid robot half-marathon Honor's human
 
 📺 The Manila Times
 
-👁️ 9K • 👍 70 • 💬 17 • ⏱️ 2:09 • 9h ago
+👁️ 13K • 👍 83 • 💬 20 • ⏱️ 2:09 • 10h ago
 
 ---
 
-**[China’s New H1 AI Robot Just BROKE the World Record… This Is Insane](https://www.youtube.com/watch?v=jz3TC2ZkLgw)**
+**[Brand New Haro380 6-Axis Mini Industrial Robot | WLKATA](https://www.youtube.com/watch?v=T5t0leyjU00)**
 
-A humanoid robot just sprinted at ten meters per second on an open track — no cables, no harness, nothing but raw artificial ...
+Introducing the brand new Haro380 6-Axis mini industrial robotic arm. Get a first look at its smooth motion, precise control, and ...
 
-📺 NextGen Humanoids
+📺 WLKATA ROBOTICS
 
-👁️ 55K • 👍 1K • 💬 127 • ⏱️ 8:07 • 7d ago
-
----
-
-**[Chinese humanoid robots prepare for second-ever half marathon in Beijing](https://www.youtube.com/watch?v=aKYxLWqw8ZQ)**
-
-Chinese humanoid robots train to go head-to-head with human runners in the second-ever Beijing half marathon. NBC News' ...
-
-📺 NBC News
-
-👁️ 183K • 👍 1K • 💬 486 • ⏱️ 1:59 • 5d ago
+👁️ 47K • 👍 861 • 💬 28 • ⏱️ 2:11 • 5d ago
 
 ---
 

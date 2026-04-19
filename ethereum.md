@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-19T17:06:09.352242+00:00'
+updated: '2026-04-19T18:02:32.582335+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - videos
+- news
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 19, 2026 at 17:06 UTC  
+**Last Updated:** April 19, 2026 at 18:02 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $281.25B
+**Market Cap:** $277.52B
 Rank #2
 
 **Circulating Supply:** 120,690,543 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--52.9%
+-53.6%
 
 **All-Time Low:** $0.43
-+538113.2%
++530288.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The Kelp DAO exploit that drained $292 million and froze Aave was preventable. A developer posted on the Aave governance forum in January 2025 that Kelp's single-validator bridge security was the weakest configuration LayerZero allows. Kelp never added the second validator. On Saturday, an attacker used that exact vulnerability.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/kelp-dao-292-million-hack-warning-ignored-layerzero/) • 7h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/kelp-dao-292-million-hack-warning-ignored-layerzero/) • 8h ago
 
 ---
 
@@ -88,19 +88,19 @@ The Kelp DAO exploit that drained $292 million and froze Aave was preventable. A
 
 Feels kinda bigger than a normal crypto meetup tbh Ethereum getting a real physical hub in Hong Kong with Foundation backing sounds like a sign the ecosystem is trying to build something more lasting than just online hype and conference cycles Hong Kong is also a pretty smart place for it if the goal is to connect builders, institutions and actual adoption in Asia Do you guys think this stuff actually matters for Ethereum long term, or is it mostly optics? https://btcusa.com/ethereum-foundation-backs-asias-first-physical-ethereum-hub-in-hong-kong-as-institutional-web3-race-intensifies/
 
-7h ago
+8h ago
 
 ---
 
 **[Open-sourced a multi-agent contract audit skill for Claude Code](https://www.reddit.com/r/ethereum/comments/1spodq7/opensourced_a_multiagent_contract_audit_skill_for/)**
 
-7h ago
+8h ago
 
 ---
 
 **[Key Takeaways from Mike Toutonghi’s Paris Blockchain Week 2026 Keynote](https://www.reddit.com/r/ethereum/comments/1sps1nj/key_takeaways_from_mike_toutonghis_paris/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -152,7 +152,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 In an interview with CoinDesk, the Ethereum co-founder spoke also about Ethereum’s evolution through MetaMask, stablecoins and tokenization, while downplaying quantum computing as a long-term, manageable issue.
 
-CoinDesk • 21h ago
+CoinDesk • 22h ago
 
 ---
 
@@ -160,7 +160,7 @@ CoinDesk • 21h ago
 
 Transaction volumes are one of many ways to see how well a cryptocurrency is performing.
 
-The Motley Fool • 15h ago
+The Motley Fool • 16h ago
 
 ---
 
@@ -192,7 +192,7 @@ Seeking Alpha • 1d ago
 
 The price of Ethereum has somewhat slowed down over the weekend after a breakdown of negotiations between the United States and Iran. However, the latest on-chain data suggests that this moment of uncertainty has barely impacted the market structure of the second-largest cryptocurrency by market ca…
 
-TradingView — Track All Markets • 4h ago
+TradingView — Track All Markets • 5h ago
 
 ---
 
@@ -200,7 +200,7 @@ TradingView — Track All Markets • 4h ago
 
 Aave's total value locked dropped by $6 billion after a $290 million exploit on KelpDAO. Ethereum reaching $10,000 by December 31, 2026 at 4% YES.
 
-Crypto Briefing • 3h ago
+Crypto Briefing • 4h ago
 
 ---
 
@@ -222,7 +222,7 @@ The Block • 3d ago
 
 **[Ethereum Nerves Show as Bitwise’s AETH Bleeds 16% of Assets in a Single Day](https://www.tipranks.com/news/cryptocurrencies/ethereum-nerves-show-as-bitwises-aeth-bleeds-16-of-assets-in-a-single-day)**
 
-TipRanks • 6h ago
+TipRanks • 7h ago
 
 ---
 
@@ -236,7 +236,7 @@ Its a video about bitcoin, ethereum, crypto in general. But its quite an unusual
 
 📺 Thomas Kralow
 
-👁️ 9K • 👍 1K • 💬 60 • ⏱️ 7:52 • 7h ago
+👁️ 11K • 👍 2K • 💬 63 • ⏱️ 7:52 • 8h ago
 
 ---
 
@@ -246,7 +246,7 @@ Welcome back for another daily market update as always this will be a jam packed
 
 📺 AllinCrypto
 
-👁️ 5K • 👍 485 • 💬 194 • ⏱️ 19:21 • 4h ago
+👁️ 8K • 👍 592 • 💬 232 • ⏱️ 19:21 • 5h ago
 
 ---
 
@@ -256,7 +256,7 @@ IT'S RIGGED! Buckle Up' Bitcoin & Crypto Holders ⭐ Follow Altcoin Daily on X: 
 
 📺 Altcoin Daily
 
-👁️ 34K • 👍 2K • 💬 131 • ⏱️ 11:59 • 18h ago
+👁️ 36K • 👍 2K • 💬 136 • ⏱️ 11:59 • 19h ago
 
 ---
 
@@ -266,27 +266,7 @@ The Ethereum Economic Zone (EEZ) is a framework co-funded by the Ethereum Founda
 
 📺 Paul Barron Network
 
-👁️ 21K • 👍 993 • 💬 88 • ⏱️ 19:55 • 1d ago
-
----
-
-**[BITCOIN WARNING: The Next TRAP Just Started!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=tnFuByG5Bl0)**
-
-BITCOIN WARNING: The Next TRAP Just Started!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
-
-📺 Crypto World
-
-👁️ 9K • 👍 393 • 💬 208 • ⏱️ 19:52 • 21h ago
-
----
-
-**[WILL ETHEREUM DUMP LOWER?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=DZkd1_Eqzk0)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 155 • 👍 15 • 💬 1 • ⏱️ 4:47 • 6h ago
+👁️ 21K • 👍 1K • 💬 89 • ⏱️ 19:55 • 1d ago
 
 ---
 
@@ -296,7 +276,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 4K • 👍 218 • 💬 19 • ⏱️ 20:54 • 1d ago
+👁️ 4K • 👍 221 • 💬 19 • ⏱️ 20:54 • 1d ago
+
+---
+
+**[BITCOIN WARNING: The Next TRAP Just Started!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=tnFuByG5Bl0)**
+
+BITCOIN WARNING: The Next TRAP Just Started!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
+
+📺 Crypto World
+
+👁️ 10K • 👍 397 • 💬 208 • ⏱️ 19:52 • 22h ago
 
 ---
 
@@ -306,7 +296,7 @@ http://www.x10daytrading.com/?video=d0a2Q-odIWM TRADE TO $1M WHILE WORKING 9 TO 
 
 📺 Wolf Of Dubai 2 - X10 DAY TRADING
 
-👁️ 1K • 👍 52 • 💬 5 • ⏱️ 9:31 • 17h ago
+👁️ 1K • 👍 53 • 💬 5 • ⏱️ 9:31 • 18h ago
 
 ---
 
@@ -316,17 +306,27 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 244 • 👍 41 • ⏱️ 5:07 • 2h ago
+👁️ 446 • 👍 66 • ⏱️ 5:07 • 3h ago
 
 ---
 
-**[Bitcoin Warning: Why BTC Hasn&#39;t Bottomed — Plus ETH, SOL, XRP &amp; Altcoin Targets](https://www.youtube.com/watch?v=qSxd31mu0UQ)**
+**[🔴BITCOIN ФИНАЛЬНЫЙ РЫВОК | АЛЬТКОЙНЫ ETH](https://www.youtube.com/watch?v=-OvyJvM6LZQ)**
 
-Gareth Soloway, Chief Market Strategist at Verified Investing, breaks down the latest crypto price action across Bitcoin, Ethereum, ...
+Присоединяйся Telegram сообществу https://t.me/trend_gen Присоединяйся к новостному Telegram сообществу ...
 
-📺 Verified Pro Traders
+📺 GENESIS LIVE
 
-👁️ 19K • 👍 1K • 💬 325 • ⏱️ 8:13 • 2d ago
+👁️ 2K • 👍 167 • 1h ago
+
+---
+
+**[WILL ETHEREUM DUMP LOWER?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=DZkd1_Eqzk0)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 194 • 👍 16 • 💬 1 • ⏱️ 4:47 • 7h ago
 
 ---
 

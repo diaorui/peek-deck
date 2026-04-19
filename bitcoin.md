@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-19T17:06:09.346162+00:00'
+updated: '2026-04-19T18:02:32.576423+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - videos
+- news
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 19, 2026 at 17:06 UTC  
+**Last Updated:** April 19, 2026 at 18:02 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1518.19B
+**Market Cap:** $1498.47B
 Rank #1
 
-**Circulating Supply:** 20,018,100 BTC
+**Circulating Supply:** 20,018,125 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--39.8%
+-40.7%
 
 **All-Time Low:** $67.81
-+111749.3%
++110200.8%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Finally was able to own exactly 0.5 BTC. I started the hole process more than 5 years ago…. Many times i thought the train to reach this goal Is gone but I made it. Let’s see where this journey takes me. ATM I have around 0.1 on my trezor. The rest I’ll move the asap there… Let’s see where this journey takes us
 
-5h ago
+6h ago
 
 ---
 
@@ -89,7 +89,7 @@ Finally was able to own exactly 0.5 BTC. I started the hole process more than 5 
 
 Trust me, it works. Once you self custody, run a node, you dont even want to move it back and forth to exchange to sell or else until its due (4 years +) or whatever. When you let it sit on the exchange, the gambling skibidi trying to time and beat the market will be always there teasing you. But again, only those who know.
 
-4h ago
+5h ago
 
 ---
 
@@ -97,7 +97,7 @@ Trust me, it works. Once you self custody, run a node, you dont even want to mov
 
 https://preview.redd.it/0h8gnpe5g5wg1.png?width=630&format=png&auto=webp&s=6a131646156fa67ad9cf979bef8f7036b24feacb Your future self will thank your present self. 🧡
 
-3h ago
+4h ago
 
 ---
 
@@ -105,7 +105,7 @@ https://preview.redd.it/0h8gnpe5g5wg1.png?width=630&format=png&auto=webp&s=6a131
 
 Update: I took your feedback seriously and built physical prototypes. Original Post: https://www.reddit.com/r/Bitcoin/comments/1sdnhwc/bitcoin_casio_mods/ The black resin case with the orange filter is the first prototype, and I also tested a steel version with a more solid orange filter. I’m now debating whether the black case should keep the orange-to-red gradient film or switch to the cleaner solid orange look. Which direction feels stronger? Still trying to keep the idea aligned with “signal over noise” rather than making it feel gimmicky.
 
-1h ago
+2h ago
 
 ---
 
@@ -113,7 +113,7 @@ Update: I took your feedback seriously and built physical prototypes. Original P
 
 I’m having a serious issue with NC Wallet. I initiated a BTC withdrawal more than 48 hours ago, and it is still showing “pending” with no TxID at all. This means the transaction has NOT been broadcast to the Bitcoin network yet. No network fee (they claim free withdrawals) No TxID No support response No email received Funds are stuck inside the wallet I’ve already: Contacted support multiple times Posted reviews on App Store and Trustpilot No response so far. Has anyone experienced this with NC Wallet before? Is there any way to force them to process or cancel the withdrawal? Any help would be appreciated
 
-8h ago
+9h ago
 
 ---
 
@@ -135,7 +135,7 @@ I have a group of friends that watched me make a ton of money during the 2016-20
 
 **[NBA Coach Regrets Not Buying Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1spao0u/nba_coach_regrets_not_buying_bitcoin/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -143,7 +143,7 @@ I have a group of friends that watched me make a ton of money during the 2016-20
 
 I have a renewal that only will take BTC/SATS. It gives me a QR code. which CDC doesnt recognize. and a wallet address. I know CDC doesnt sell SATS. but I do have some BTC I can send. But how? I dont see where I can send fractional BTC to a wallet address. I opened 2 other exchanges and noticed the USD to SATS is crazy?? The renewal is about 127k SATS. and claims its about $95.00usd. But on OKX exchange. $95usd is over 6billion SATS???? Please advise. I am totally lost.
 
-2h ago
+3h ago
 
 ---
 
@@ -151,7 +151,7 @@ I have a renewal that only will take BTC/SATS. It gives me a QR code. which CDC 
 
 You might not want to add how long you've been in but I will. 4 years. Sold .05 BTC. Regret? Yes. But I've recouped it since then so I don't consider it that big of a deal.
 
-18h ago
+19h ago
 
 ---
 
@@ -179,7 +179,7 @@ CNBC • 3d ago
 
 You may want to consider these 3 scenarios if you're thinking about buying Bitcoin today.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -187,19 +187,19 @@ Yahoo Finance • 6h ago
 
 As one of the largest corporate holders of Bitcoin in the world, SpaceX could help Bitcoin blast higher.
 
-The Motley Fool • 5h ago
+The Motley Fool • 6h ago
 
 ---
 
 **[Crypto Stocks Rally As Bitcoin Breaks Two-Month High After Iran Reopens Strait](https://www.forbes.com/sites/aliciapark/2026/04/17/crypto-stocks-rally-as-bitcoin-breaks-two-month-high-after-iran-reopens-strait/)**
 
-Forbes • 1d ago
+Forbes • 2d ago
 
 ---
 
 **[Bitcoin dips as Iran conflict stokes broader crypto market volatility](https://www.investing.com/news/cryptocurrency-news/bitcoin-dips-as-iran-conflict-stokes-broader-crypto-market-volatility-4622210)**
 
-Investing.com • 7h ago
+Investing.com • 8h ago
 
 ---
 
@@ -207,7 +207,7 @@ Investing.com • 7h ago
 
 Bitcoin (BTC) sought to protect $75,000 into Sunday’s weekly close as crypto surfed fresh uncertainty over the US-Iran war.Key points:Bitcoin abandons highs as US-Iran war fears returnData from TradingView showed BTC price pressure reentering after a trip to ten-week highs of $78,400 on Friday.Mixe…
 
-TradingView — Track All Markets • 4h ago
+TradingView — Track All Markets • 5h ago
 
 ---
 
@@ -223,7 +223,7 @@ New York Magazine • 2d ago
 
 Likely built on prior work on a 3D printing Bitcoin miner prototype.
 
-Tom's Hardware • 4h ago
+Tom's Hardware • 5h ago
 
 ---
 
@@ -239,7 +239,7 @@ Bloomberg.com • 2d ago
 
 **[Show HN: Using Ramanujan's Pi Series for Bitcoin Security on Nvidia B200](https://news.ycombinator.com/item?id=47823382)**
 
-⬆️ 4 • 💬 1 • 6h ago • [zenodo.org](https://zenodo.org/records/19650883)
+⬆️ 4 • 💬 1 • 7h ago • [zenodo.org](https://zenodo.org/records/19650883)
 
 ---
 
@@ -313,13 +313,23 @@ A fake Ledger app on Apple's App Store drained $9.5M from more than 50 victims a
 
 ## YouTube Videos: "bitcoin"
 
+**[A New Signal Has Just Triggered on Bitcoin (here&#39;s what it means)](https://www.youtube.com/watch?v=RSnjchNdE5M)**
+
+A new and powerful signal has just triggered on the chart of bitcoin, according to analyst Manuel Blay. Could this signal mean that ...
+
+📺 Alessio Rastani
+
+👁️ 12K • 👍 1K • 💬 225 • ⏱️ 13:09 • 4h ago
+
+---
+
 **[IT’S RIGGED! Buckle Up’ Bitcoin &amp; Crypto Holders](https://www.youtube.com/watch?v=Wji5JRqdlZk)**
 
 IT'S RIGGED! Buckle Up' Bitcoin & Crypto Holders ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a ...
 
 📺 Altcoin Daily
 
-👁️ 34K • 👍 2K • 💬 131 • ⏱️ 11:59 • 18h ago
+👁️ 36K • 👍 2K • 💬 136 • ⏱️ 11:59 • 19h ago
 
 ---
 
@@ -329,17 +339,7 @@ Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=Al
 
 📺 Altcoin Daily
 
-👁️ 50K • 👍 2K • 💬 231 • ⏱️ 8:39 • 1d ago
-
----
-
-**[A New Signal Has Just Triggered on Bitcoin (here&#39;s what it means)](https://www.youtube.com/watch?v=RSnjchNdE5M)**
-
-A new and powerful signal has just triggered on the chart of bitcoin, according to analyst Manuel Blay. Could this signal mean that ...
-
-📺 Alessio Rastani
-
-👁️ 7K • 👍 936 • 💬 198 • ⏱️ 13:09 • 3h ago
+👁️ 51K • 👍 2K • 💬 231 • ⏱️ 8:39 • 1d ago
 
 ---
 
@@ -349,17 +349,17 @@ Bitcoin just hit $78K and the signals are impossible to ignore. Institutions are
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 181 • ⏱️ 12:49 • 1d ago
+👁️ 16K • 👍 1K • 💬 182 • ⏱️ 12:49 • 1d ago
 
 ---
 
-**[All-Time High Stocks… Bitcoin About To Explode?](https://www.youtube.com/watch?v=SlPpXs_8WI4)**
+**[LIVE: Michael Saylor Analyzes BTC Price | Bitcoin Bull Run &amp; MSTR Stock Discussion](https://www.youtube.com/watch?v=0tX7lx0hlgU)**
 
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience. In this conversation, we break down ...
+Join Michael Saylor live from the Bitcoin Conference as he delivers a keynote focused on the strategic role of Bitcoin in today's ...
 
-📺 Anthony Pompliano
+📺 Fit2Fat2Fit
 
-👁️ 55K • 👍 2K • 💬 85 • ⏱️ 57:41 • 1d ago
+👁️ 4K • 👍 2K • 1h ago
 
 ---
 
@@ -369,7 +369,7 @@ A former Treasury Secretary warns the next crisis could be worse than 2008. Bond
 
 📺 Simply Bitcoin
 
-👁️ 27K • 👍 2K • 💬 129 • ⏱️ 16:22 • 1d ago
+👁️ 27K • 👍 2K • 💬 130 • ⏱️ 16:22 • 1d ago
 
 ---
 
@@ -379,7 +379,27 @@ Adam Back joins Cointelegraph at Paris Blockchain Week to discuss one of Bitcoin
 
 📺 Cointelegraph
 
-👁️ 50K • 👍 2K • 💬 179 • ⏱️ 31:34 • 2d ago
+👁️ 54K • 👍 2K • 💬 187 • ⏱️ 31:34 • 2d ago
+
+---
+
+**[All-Time High Stocks… Bitcoin About To Explode?](https://www.youtube.com/watch?v=SlPpXs_8WI4)**
+
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience. In this conversation, we break down ...
+
+📺 Anthony Pompliano
+
+👁️ 57K • 👍 2K • 💬 85 • ⏱️ 57:41 • 1d ago
+
+---
+
+**[LIVE: Michael Saylor Analyzes BTC Price | Bitcoin Bull Run &amp; MSTR Stock Discussion](https://www.youtube.com/watch?v=vNBwwOEPxoY)**
+
+Join Michael Saylor live from the Bitcoin Conference as he delivers a keynote focused on the strategic role of Bitcoin in today's ...
+
+📺 Krystle | Perkins On Parkway | DIY & Home Decor
+
+👁️ 2K • 👍 1K • 20m ago
 
 ---
 
@@ -390,26 +410,6 @@ Are you ready? CRYPTO RETIREMENT ACCOUNT HERE Sign up for iTrustCapital and get 
 📺 Crypto Jebb
 
 👁️ 5K • 👍 270 • 💬 87 • ⏱️ 8:10 • 1d ago
-
----
-
-**[&quot;Chaos Is a Ladder”: Bitwise’s Matt Hougan on Bitcoin’s Path to $1M](https://www.youtube.com/watch?v=v2MuE-dzQiw)**
-
-In today's Markets Outlook, Bitwise CIO Matt Hougan joins CoinDesk's Jennifer Sanasie to make the case for $1 million bitcoin, ...
-
-📺 CoinDesk
-
-👁️ 24K • 👍 525 • 💬 82 • ⏱️ 20:47 • 2d ago
-
----
-
-**[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=TWax8cGppRQ)**
-
-Let's dubiously speculate on the price of Bitcoin! Into The Cryptoverse Premium SALE: https://intothecryptoverse.com For inquiries ...
-
-📺 Benjamin Cowen
-
-👁️ 106K • 👍 6K • 💬 293 • ⏱️ 15:42 • 2d ago
 
 ---
 

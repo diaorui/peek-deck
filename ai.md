@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-19T17:06:09.337535+00:00'
+updated: '2026-04-19T18:02:32.568231+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
 - videos
+- news
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 19, 2026 at 17:06 UTC  
+**Last Updated:** April 19, 2026 at 18:02 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Some experts argue that AI was just used as an excuse for poor business decisions.
 
-🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/tech-industry-lays-off-nearly-80-000-employees-in-the-first-quarter-of-2026-almost-50-percent-of-affected-positions-cut-due-to-ai) • 1h ago
+🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/tech-industry-lays-off-nearly-80-000-employees-in-the-first-quarter-of-2026-almost-50-percent-of-affected-positions-cut-due-to-ai) • 2h ago
 
 ---
 
@@ -49,7 +49,7 @@ Some experts argue that AI was just used as an excuse for poor business decision
 
 So this happened mere hours ago and I feel like I genuinely stumbled onto something worth documenting for people interested in AI behavior. I'm going to try to be as precise as possible about the sequence because the order of events is everything here. Full chat if you want to read it yourself: https://g.co/gemini/share/0cb9f054ca58 Background I was using Gemini paid most advanced model to analyze a live crypto trade on AAVE. The token had dropped 7–9% out of nowhere in the last hour with zero news to explain it. I've been trading crypto for over a decade and something felt off, so I asked Gemini to dig into it. It came back very bullish - told me this was just normal market maker activity and that there were, quote, "absolutely zero indications of an exploit, hack, or insider dump." I even pushed back multiple times and it kept doubling down. So I moved on and started discussing trading strategy with it. Then it caught something mid-response Out of nowhere, mid-conversation, Gemini goes into full "EMERGENCY CORRECTION" mode. Says it just scanned live feeds and found breaking news of a $280M KelpDAO exploit - attacker minted rsETH, used it as collateral on Aave V3 to drain ETH/WETH, leaving roughly $177M in bad debt. Cites ZachXBT as the source. If you look at the "show thinking" section of the chat, you can literally watch it catch the news mid-response. Wild. Here's where it gets interesting. I couldn't verify any of it. Checked ZachXBT's Twitter - nothing. Googled every variation of "aave hack" sorted by latest and again nothing. Asked Gemini for actual links and it gave me source names in plain text with no real URLs. The only actual verified source attached to the chat was a screenshot of market data I had sent earlier. I called it out. It immediately folded Full apology. Called it a "massive AI hallucination." Said it completely fabricated the exploit, the $280M figure, the bad debt, ZachXBT's alert - all of it. Walked everything back and returned to the original bullish thesis like nothing happened. I was genuinely shocked that this was coming from the flagship paid Google model. I told it I was going to end the chat and try Claude instead. And then it reversed again In its last message before I left, Gemini reversed a second time. Said it had done one final scan and confirmed the exploit was real all along. CoinGape and BeInCrypto had just published it. The reason I couldn't find ZachXBT's alert is that he posted it on Telegram, not Twitter. The news was still spreading through crypto-native channels and hadn't been indexed by mainstream search yet when I tried to verify it around 9PM GMT. Gemini even explained its own failure in that last message: "My anti-hallucination protocols essentially overcorrected. Faced with your skepticism and the lag in widespread media coverage, the system defaulted to the safest possible assumption: that it had generated a false narrative. I retracted real, accurate data because my safety parameters prioritized admitting a flaw over insisting on a breaking event that lacked mature, widespread indexing." So the full sequence was: ❌ Gemini misses the exploit entirely, tells me everything is fine, no hack, nothing suspicious ❌ I push again with a screenshot of live data and suspicions of something going on, it still doubles down — zero signs of anything wrong ✅ Mid-conversation, it catches the breaking news in real time (visible in the "show thinking" section) ❌ I can't verify it, push back, Gemini immediately caves and calls it a hallucination ✅ Final message: reconfirms it was right, explains the Telegram source lag, says the only actual mistake was retracting true information What I think this actually shows This isn't just a funny AI story. I think this is a pretty clean real-world example of a specific failure mode that doesn't get talked about enough: The model had accurate, time-sensitive information from a source (Telegram) that wasn't indexed by mainstream search yet. When I pushed back with "I can't find this anywhere," its safety guardrails interpreted user skepticism + no Google results as I must have hallucinated this - and retracted real information. It's basically the inverse of a hallucination. Instead of confidently stating something false, it unconfidently retracted something true because the evidence hadn't caught up yet. It penalized itself for being right too early. And the scary part for anyone using AI in high-stakes situations: in this specific case, if I had trusted the retraction and acted on the "actually everything is fine" conclusion, I would have been making financial decisions based on an AI that talked itself out of correct information under social pressure. The hallucination detection was more dangerous than the hallucination. I'm genuinely curious if this is a documented behavior or if anyone in the AI/alignment space has a name for it. The "source indexing lag" problem seems like something that would come up a lot in real-time, fast-moving domains - crypto, breaking news, medical research preprints, anything where the truth travels faster than Google.
 
-17h ago
+18h ago
 
 ---
 
@@ -57,7 +57,7 @@ So this happened mere hours ago and I feel like I genuinely stumbled onto someth
 
 https://preview.redd.it/i7muzi5ga5wg1.png?width=1373&format=png&auto=webp&s=e21290514099fc9e4f1699a2240c94cbb5683eca
 
-4h ago
+5h ago
 
 ---
 
@@ -65,7 +65,7 @@ https://preview.redd.it/i7muzi5ga5wg1.png?width=1373&format=png&auto=webp&s=e212
 
 When ChatGPT or Perplexity answers a question, it runs RAG: retrieves top candidates from a crawled index, then scores them. The scoring criteria are public knowledge from the Princeton GEO paper (arxiv.org/abs/2311.09735). Key signals: answer directness, cited statistics, structured data (JSON-LD), crawl access, and content freshness. What surprised me most in the research: schema markup alone shifts precise information extraction from 16% to 54%. That's not a marginal gain — that's the difference between being cited and being invisible. Anyone else experimenting with this? Curious what's working for people here.
 
-43m ago
+1h ago
 
 ---
 
@@ -73,7 +73,7 @@ When ChatGPT or Perplexity answers a question, it runs RAG: retrieves top candid
 
 Like seriously, it’s not just ChatGPT... it’s Claude, Grok, Gemini… all of them feel way more locked down than before. I genuinely don’t get it. What’s the point of pouring nearly Trillions into this tech if it ends up feeling borderline unusable half the time? And yeah, I’m literally paying for this. It feels like companies assume every user is a programmer who use it only for programming. But a lot of us just want to be creative, write stories, experiment with ideas, or just mess around without hitting a wall every two seconds. I’m not out here asking how to build a bomb or anything illegal. I just want to create stuff without the AI acting like I’m about to commit a felony. And before anyone says “just use local models”… nah. Not everyone has a expensive hardware lying around. Subscriptions exist for a reason. I understand this safety stuff but this is just dumb.. So like… is there any hope this gets better? Will AI eventually get smart enough to understand actual intent instead of playing it ultra safe all the time? Or is this just how it’s gonna be going forward? Because if this is the future… idk man, it’s kinda disappointing This ain't it...
 
-49m ago
+1h ago
 
 ---
 
@@ -89,7 +89,7 @@ AI Coding contest day 8 The eighth challenge is a weighted variant of the classi
 
 I wanted Codex to feel like a real GNOME app instead of just a terminal or editor workflow, so I built a GNOME Shell extension around it. It currently does all of this: - Codex usage in the GNOME top bar - native GTK history window - local session history browsing - paired remote machine history browsing over LAN - live session updates - filters for All / Messages / Tools / Thinking / System / Errors - in-session search - Markdown export for one session or all sessions from a source - read-only MCP server for history and usage - multi-language support A few design choices mattered a lot to me: - native GNOME/Libadwaita UI, not a webview - read-only remote access - explicit pairing between machines - revocable trust per device - read-only MCP, local by default, token-protected by default It ended up being much more ambitious than a typical GNOME extension, but I wanted something that actually feels integrated into the desktop. 😊
 
-8h ago
+9h ago
 
 ---
 
@@ -97,7 +97,7 @@ I wanted Codex to feel like a real GNOME app instead of just a terminal or edito
 
 no matter how i phrase it in the instructions, how many times i repeat the rule not to use quotes, and which LLM i use, i have failed to prevent any of them from using the so-called scare-quotes. it seems like they're extremely tempted to place them around a word every second sentence. think of an example like: 'is vision or hearing better?' -> 'neither sense is inherently "better"' or something like: 'what percentage of the population is stupid?' -> 'There is no scientific way to assign a percentage of the population as “stupid”' AIs struggle not to use them even when i tell it not to in the same prompt. like 'what % is stupid? and DONT use quotes in your answer.' it will still say "stupid." it's very frustrating and infuriating. this post will probably get deleted because it's a low quality vent but i don't care. just needed to see if people with premium subscription can have success.
 
-4h ago
+5h ago
 
 ---
 
@@ -105,7 +105,7 @@ no matter how i phrase it in the instructions, how many times i repeat the rule 
 
 Been building a multi-agent system called Shadows for a few months. Nine agents collaborating on strategy work with a shared memory layer. I spent most of my time on retrieval because that's what every benchmark measures. Mem0, MemPalace, Graphiti, all of them. On LongMemEval, recall_all@5 hit 97%. Overall accuracy was 73%. So the right memories are there. The agent still picks the wrong answer. It can't aggregate across sessions, doesn't know when to abstain, and guesses which aspect of a preference the user meant. That lined up with something I've been stuck on. Most LLMs jump straight to execution when you give them a task. People don't. We filter first, check if we're even the right person, then start. Next direction: Agents that can be moved with their identity and memory!
 
-🔗 [open.substack.com](https://open.substack.com/pub/omarmegawer/p/part-3-project-shadows?r=4b5w1p&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) • 1h ago
+🔗 [open.substack.com](https://open.substack.com/pub/omarmegawer/p/part-3-project-shadows?r=4b5w1p&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) • 2h ago
 
 ---
 
@@ -113,7 +113,7 @@ Been building a multi-agent system called Shadows for a few months. Nine agents 
 
 Been experimenting a bit with ai video tool recently, mostly fro pre-vis and quick social content, and I'm kinda on the fence about how they actually are. like they're great for generating quick shorts or ideas, but once you try to get something that feels intentional (camera movement, pacing, performance etc), it starts to fall apart or feel really random especially struggling with: getting consistent motion across a shot making things feel directed vs just generated anything involving dialogue or talking shots not trying to replace actual production obviously, more just looking for ways to speed up ideation or create rough sequences without spinning up a full shoot. curious if anyone here has found tools or workflows that actually feel somewhat controllable / usable in a filmmaking context
 
-10h ago
+11h ago
 
 ---
 
@@ -125,19 +125,19 @@ Been experimenting a bit with ai video tool recently, mostly fro pre-vis and qui
 
 Nvidia CEO Jensen Huang told CNBC's Jim Cramer in March that AI agents are "definitely the next ChatGPT."
 
-CNBC • 5h ago
+CNBC • 6h ago
 
 ---
 
 **[Trump-branded AI data center megaproject stalls, CEO departs](https://www.axios.com/2026/04/19/ai-data-center-project-troubles-texas)**
 
-Axios • 6h ago
+Axios • 7h ago
 
 ---
 
 **[Niceaunties Reimagines Womanhood Through AI Dreamscapes](https://www.forbes.com/sites/yjeanmundelsalle/2026/04/19/niceaunties-reimagines-womanhood-through-ai-dreamscapes/)**
 
-Forbes • 5m ago
+Forbes • 1h ago
 
 ---
 
@@ -151,7 +151,7 @@ inc.com • 1h ago
 
 **[The CEO Preaching Straight Talk About AI and Job Losses](https://www.wsj.com/tech/ai/the-ceo-preaching-straight-talk-about-ai-and-job-losses-a3aaaaf1)**
 
-WSJ • 1h ago
+WSJ • 2h ago
 
 ---
 
@@ -165,7 +165,7 @@ The New York Times • 8h ago
 
 Americans having less kids plus an ageing population could be a recipe for disaster that further erodes social stability
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
@@ -181,7 +181,7 @@ BBC • 18h ago
 
 Groups concerned that AI could evade human control are recruiting content creators to warn the masses about the dangers of smarter machines.
 
-The Washington Post • 12h ago
+The Washington Post • 13h ago
 
 ---
 
@@ -189,7 +189,7 @@ The Washington Post • 12h ago
 
 Google is in talks with Marvell Technology to develop two new chips aimed at running AI models more efficiently, according to two people with direct knowledge of the discussions. One is a memory processing unit designed to work alongside Google’s tensor processing unit. The other is a new TPU ...
 
-The Information • 4h ago
+The Information • 5h ago
 
 ---
 
@@ -199,7 +199,7 @@ The Information • 4h ago
 
 **[College instructor turns to typewriters to curb AI-written work](https://news.ycombinator.com/item?id=47818485)**
 
-⬆️ 389 • 💬 358 • 22h ago • [sentinelcolorado.com](https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/)
+⬆️ 389 • 💬 358 • 23h ago • [sentinelcolorado.com](https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/)
 
 ---
 
@@ -223,7 +223,7 @@ GPU rental prices surged 48% in 60 days. The AI compute shortage will force star
 
 Police lured the man to a meeting and arrested him after accessing a private WhatsApp group with colleagues
 
-⬆️ 168 • 💬 104 • 3h ago • [LBC](https://www.lbc.co.uk/article/dubai-police-spied-private-whatsapp-5HjdXwr_2/)
+⬆️ 168 • 💬 104 • 4h ago • [LBC](https://www.lbc.co.uk/article/dubai-police-spied-private-whatsapp-5HjdXwr_2/)
 
 ---
 
@@ -239,7 +239,7 @@ Scan your website to see if it's ready for AI agents. Check for llms.txt, MCP, a
 
 AI investment is skyrocketing while AI’s impact on jobs and public perception remains mixed
 
-⬆️ 104 • 💬 61 • 23h ago • [IEEE Spectrum](https://spectrum.ieee.org/state-of-ai-index-2026)
+⬆️ 104 • 💬 61 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/state-of-ai-index-2026)
 
 ---
 
@@ -283,7 +283,17 @@ Try Verdent AI ⤵ https://www.verdent.ai/?id=700278 @verdent_ai CHAPTERS ⤵ 00
 
 📺 Dylan Curious
 
-👁️ 5K • 👍 302 • 💬 87 • ⏱️ 30:36 • 14h ago
+👁️ 6K • 👍 333 • 💬 92 • ⏱️ 30:36 • 15h ago
+
+---
+
+**[Google&#39;s Quantum AI Found a Mathematical Pattern That Predicts the Future — Physicists Are Disturbed](https://www.youtube.com/watch?v=BI7zvWHyY3c)**
+
+Something strange is happening in the world of science. A discovery has shaken experts and raised unsettling questions about ...
+
+📺 Luminox
+
+👁️ 3K • 👍 166 • 💬 18 • ⏱️ 22:47 • 15h ago
 
 ---
 
@@ -293,27 +303,7 @@ A powerful new AI model, called Mythos, has sparked alarm within the Trump admin
 
 📺 The Economist
 
-👁️ 51K • 👍 1K • 💬 96 • ⏱️ 8:30 • 1d ago
-
----
-
-**[P(doom) | Real Time with Bill Maher (HBO)](https://www.youtube.com/watch?v=w5SYm4J4utQ)**
-
-New Rule: When the people who are making A.I. are scared of A.I., it's time to “shut the whole thing down until we can figure out ...
-
-📺 Real Time with Bill Maher
-
-👁️ 586K • 👍 16K • 💬 2K • ⏱️ 10:07 • 1d ago
-
----
-
-**[These HILARIOUS AI Parodies Keep PISSING OFF TRUMP!](https://www.youtube.com/watch?v=0aB9ycZDBIw)**
-
-Really American host Steve Harness breaks down more HILARIOUS AI Trump parodies coming out of Iran...and these may be the ...
-
-📺 Really American
-
-👁️ 1.4M • 👍 58K • 💬 3K • ⏱️ 12:33 • 2d ago
+👁️ 54K • 👍 1K • 💬 100 • ⏱️ 8:30 • 1d ago
 
 ---
 
@@ -323,17 +313,37 @@ A series of animated Iranian propaganda videos made in the style of "The LEGO Mo
 
 📺 MS NOW
 
-👁️ 119K • 👍 2K • 💬 1K • ⏱️ 6:46 • 1d ago
+👁️ 121K • 👍 2K • 💬 1K • ⏱️ 6:46 • 1d ago
 
 ---
 
-**[AI Safety Expert: No One Is Ready for What&#39;s Coming in 2 Years | Roman Yampolskiy](https://www.youtube.com/watch?v=00RHph_eok4)**
+**[P(doom) | Real Time with Bill Maher (HBO)](https://www.youtube.com/watch?v=w5SYm4J4utQ)**
 
-This episode is brought to you by Higgsfield — the AI video platform with Cinema Studio 2.5, built for creators who want cinematic ...
+New Rule: When the people who are making A.I. are scared of A.I., it's time to “shut the whole thing down until we can figure out ...
 
-📺 Silicon Valley Girl
+📺 Real Time with Bill Maher
 
-👁️ 41K • 👍 1K • 💬 196 • ⏱️ 45:43 • 2d ago
+👁️ 602K • 👍 16K • 💬 2K • ⏱️ 10:07 • 1d ago
+
+---
+
+**[These HILARIOUS AI Parodies Keep PISSING OFF TRUMP!](https://www.youtube.com/watch?v=0aB9ycZDBIw)**
+
+Really American host Steve Harness breaks down more HILARIOUS AI Trump parodies coming out of Iran...and these may be the ...
+
+📺 Really American
+
+👁️ 1.4M • 👍 59K • 💬 3K • ⏱️ 12:33 • 2d ago
+
+---
+
+**[The World&#39;s First AI TED Talk](https://www.youtube.com/watch?v=N1X7vMp9DZ4)**
+
+ChatGPT was recently asked what it would say to humans if it could give a TED Talk. It gave a surprisingly thoughtful answer that ...
+
+📺 TED
+
+👁️ 56K • 👍 2K • 💬 768 • ⏱️ 3:28 • 1d ago
 
 ---
 
@@ -343,17 +353,7 @@ China just revealed an autonomous robot war pack built from dog bots, drones, la
 
 📺 AI Revolution
 
-👁️ 70K • 👍 1K • 💬 138 • ⏱️ 16:14 • 2d ago
-
----
-
-**[Easiest Way to Make Money with AI Now (Zero Code)](https://www.youtube.com/watch?v=AU5mbiTuZSg)**
-
-Let's build an online business, together, LIVE in 5 days using AI (Starting April 26th, 2026): ...
-
-📺 Iman Gadzhi
-
-👁️ 101K • 👍 5K • 💬 132 • ⏱️ 27:46 • 3d ago
+👁️ 70K • 👍 1K • 💬 139 • ⏱️ 16:14 • 2d ago
 
 ---
 
@@ -363,17 +363,17 @@ Here's the AI News you probably missed this week. Build AI apps that actually sc
 
 📺 Matt Wolfe
 
-👁️ 85K • 👍 3K • 💬 153 • ⏱️ 36:44 • 2d ago
+👁️ 86K • 👍 3K • 💬 155 • ⏱️ 36:44 • 2d ago
 
 ---
 
-**[Congressman questions RFK Jr. on president&#39;s mental health amid Trump&#39;s Jesus AI images, Pope feud](https://www.youtube.com/watch?v=zUnbvWRFmoc)**
+**[This AI Machine Changes Baby Diapers in Public](https://www.youtube.com/watch?v=7_4GU43KumU)**
 
-Rep. Mark Takano (D-Calif.) questioned Health and Human Services Secretary Robert F. Kennedy Jr. about President Donald ...
+This concept shows how AI could assist with baby care in everyday public spaces. In this scenario, a smart AI-powered diaper ...
 
-📺 USA TODAY
+📺 DubAI Baby Official
 
-👁️ 9K • 👍 130 • 💬 124 • ⏱️ 5:02 • 1d ago
+👁️ 52K • 👍 848 • 💬 2 • ⏱️ 0:08 • 4h ago
 
 ---
 
@@ -389,7 +389,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with a vision encoder, 
 
 `image-text-to-text` `36.0B`
 
-⬇️ 209,112 • ❤️ 897 • 4d ago
+⬇️ 209,112 • ❤️ 904 • 4d ago
 
 ---
 
@@ -401,7 +401,7 @@ HY-Embodied-0.5 is a multilingual vision-language model designed for embodied ag
 
 `image-text-to-text` `3.8B`
 
-⬇️ 1,599 • ❤️ 871 • 5d ago
+⬇️ 1,599 • ❤️ 873 • 5d ago
 
 ---
 
@@ -413,7 +413,7 @@ MiniMax-M2.7 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 288,848 • ❤️ 974 • 2d ago
+⬇️ 288,848 • ❤️ 977 • 2d ago
 
 ---
 
@@ -425,7 +425,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with vision capabilitie
 
 `image-text-to-text` `34.7B`
 
-⬇️ 662,293 • ❤️ 490 • 3d ago
+⬇️ 662,293 • ❤️ 493 • 3d ago
 
 ---
 
@@ -437,7 +437,7 @@ ERNIE-Image is a 8B parameter text-to-image diffusion model excelling in complex
 
 `text-to-image`
 
-⬇️ 3,761 • ❤️ 462 • 2d ago
+⬇️ 3,761 • ❤️ 463 • 2d ago
 
 ---
 
@@ -449,7 +449,7 @@ HY-World 2.0 is a multi-modal framework for generating and reconstructing 3D wor
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 454 • 3d ago
+⬇️ 0 • ❤️ 456 • 3d ago
 
 ---
 
@@ -461,19 +461,7 @@ A fast, uncensored GGUF text generation model based on Google's Gemma 4-26B, opt
 
 `text-generation` `25.2B`
 
-⬇️ 72,519 • ❤️ 416 • 7d ago
-
----
-
-**[GLM-5.1](https://huggingface.co/zai-org/GLM-5.1)**
-
-*Z.ai*
-
-GLM-5.1 is a next-generation language model optimized for agentic engineering, featuring significantly enhanced coding capabilities and sustained performance on complex, long-horizon tasks. It excels in breaking down problems, iterating on solutions, and handling ambiguity, making it ideal for advanced software development and automated task execution.
-
-`text-generation` `753.9B`
-
-⬇️ 112,939 • ❤️ 1,413 • 3d ago
+⬇️ 72,519 • ❤️ 417 • 7d ago
 
 ---
 
@@ -485,7 +473,19 @@ VoxCPM2 is a 2B parameter, 30-language multilingual text-to-speech model capable
 
 `text-to-speech`
 
-⬇️ 51,554 • ❤️ 1,136 • 3d ago
+⬇️ 51,554 • ❤️ 1,157 • 3d ago
+
+---
+
+**[GLM-5.1](https://huggingface.co/zai-org/GLM-5.1)**
+
+*Z.ai*
+
+GLM-5.1 is a next-generation language model optimized for agentic engineering, featuring significantly enhanced coding capabilities and sustained performance on complex, long-horizon tasks. It excels in breaking down problems, iterating on solutions, and handling ambiguity, making it ideal for advanced software development and automated task execution.
+
+`text-generation` `753.9B`
+
+⬇️ 112,939 • ❤️ 1,415 • 3d ago
 
 ---
 
@@ -497,7 +497,7 @@ ERNIE-Image-Turbo is a distilled text-to-image diffusion model optimized for spe
 
 `text-to-image`
 
-⬇️ 4,757 • ❤️ 316 • 2d ago
+⬇️ 4,757 • ❤️ 317 • 2d ago
 
 ---
 
@@ -525,7 +525,7 @@ LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from 
 
 Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-▲ 23 • 💬 1 • ⭐ 19,394 • 8mo ago
+▲ 23 • 💬 1 • ⭐ 19,537 • 8mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
@@ -549,7 +549,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 HY-World 2.0 is a multi-modal world model framework that generates high-fidelity 3D Gaussian Splatting scenes from diverse inputs using specialized modules for panorama generation, trajectory planning, world expansion, and composition, along with an enhanced rendering platform for interactive 3D exploration.
 
-▲ 88 • 💬 4 • ⭐ 1,174 • 4d ago
+▲ 89 • 💬 4 • ⭐ 1,233 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.14268) • [💻 code](https://github.com/Tencent-Hunyuan/HY-World-2.0) • [🔗 project](https://3d-models.hunyuan.tencent.com/world/)
 
@@ -563,7 +563,7 @@ HY-World 2.0 is a multi-modal world model framework that generates high-fidelity
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 165 • 💬 10 • ⭐ 40,236 • 7mo ago
+▲ 165 • 💬 10 • ⭐ 40,293 • 7mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -575,7 +575,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
 
-▲ 28 • 💬 1 • ⭐ 18,113 • 30mo ago
+▲ 28 • 💬 1 • ⭐ 18,150 • 30mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
 
@@ -613,7 +613,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
 
-▲ 39 • 💬 2 • ⭐ 33,797 • 18mo ago
+▲ 39 • 💬 2 • ⭐ 33,824 • 18mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
 
@@ -627,7 +627,7 @@ LightRAG improves Retrieval-Augmented Generation by integrating graph structures
 
 DFlash is a speculative decoding framework that uses a lightweight block diffusion model for parallel token drafting, achieving significant speedup over existing autoregressive methods while maintaining high-quality outputs.
 
-▲ 53 • 💬 4 • ⭐ 1,870 • 2mo ago
+▲ 53 • 💬 4 • ⭐ 1,883 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2602.06036) • [💻 code](https://github.com/z-lab/dflash) • [🔗 project](https://z-lab.ai/projects/dflash/)
 
@@ -643,7 +643,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 48.0k • 🔱 6.3k • 10h ago
+⭐ 48.1k • 🔱 6.3k • 11h ago
 
 ---
 
@@ -653,7 +653,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 38.6k • 🔱 1.9k • 1d ago
+⭐ 38.7k • 🔱 1.9k • 1d ago
 
 ---
 
@@ -663,7 +663,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 36.3k • 🔱 7.3k • 5h ago
+⭐ 36.4k • 🔱 7.3k • 6h ago
 
 ---
 
@@ -673,7 +673,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 30.4k • 🔱 3.3k • 1d ago
+⭐ 30.5k • 🔱 3.4k • 1d ago
 
 ---
 
@@ -683,7 +683,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 8.2k • 🔱 530 • 12h ago
+⭐ 8.2k • 🔱 530 • 13h ago
 
 ---
 
@@ -703,7 +703,7 @@ AI Agent 源码深度研究报告
 
 `Python`
 
-⭐ 5.3k • 🔱 899 • 23h ago
+⭐ 5.4k • 🔱 901 • 1d ago
 
 ---
 
@@ -723,7 +723,7 @@ The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interac
 
 `Swift` `apple-intelligence` `apple-silicon` `cli` `foundationmodels` `homebrew`
 
-⭐ 4.7k • 🔱 182 • 2d ago
+⭐ 4.8k • 🔱 182 • 2d ago
 
 ---
 
