@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-19T15:06:42.790789+00:00'
+updated: '2026-04-19T16:01:55.909793+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
+- social
 - repositories
 - videos
-- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 19, 2026 at 15:06 UTC  
+**Last Updated:** April 19, 2026 at 16:01 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 So this happened mere hours ago and I feel like I genuinely stumbled onto something worth documenting for people interested in AI behavior. I'm going to try to be as precise as possible about the sequence because the order of events is everything here. Full chat if you want to read it yourself: https://g.co/gemini/share/0cb9f054ca58 Background I was using Gemini paid most advanced model to analyze a live crypto trade on AAVE. The token had dropped 7–9% out of nowhere in the last hour with zero news to explain it. I've been trading crypto for over a decade and something felt off, so I asked Gemini to dig into it. It came back very bullish - told me this was just normal market maker activity and that there were, quote, "absolutely zero indications of an exploit, hack, or insider dump." I even pushed back multiple times and it kept doubling down. So I moved on and started discussing trading strategy with it. Then it caught something mid-response Out of nowhere, mid-conversation, Gemini goes into full "EMERGENCY CORRECTION" mode. Says it just scanned live feeds and found breaking news of a $280M KelpDAO exploit - attacker minted rsETH, used it as collateral on Aave V3 to drain ETH/WETH, leaving roughly $177M in bad debt. Cites ZachXBT as the source. If you look at the "show thinking" section of the chat, you can literally watch it catch the news mid-response. Wild. Here's where it gets interesting. I couldn't verify any of it. Checked ZachXBT's Twitter - nothing. Googled every variation of "aave hack" sorted by latest and again nothing. Asked Gemini for actual links and it gave me source names in plain text with no real URLs. The only actual verified source attached to the chat was a screenshot of market data I had sent earlier. I called it out. It immediately folded Full apology. Called it a "massive AI hallucination." Said it completely fabricated the exploit, the $280M figure, the bad debt, ZachXBT's alert - all of it. Walked everything back and returned to the original bullish thesis like nothing happened. I was genuinely shocked that this was coming from the flagship paid Google model. I told it I was going to end the chat and try Claude instead. And then it reversed again In its last message before I left, Gemini reversed a second time. Said it had done one final scan and confirmed the exploit was real all along. CoinGape and BeInCrypto had just published it. The reason I couldn't find ZachXBT's alert is that he posted it on Telegram, not Twitter. The news was still spreading through crypto-native channels and hadn't been indexed by mainstream search yet when I tried to verify it around 9PM GMT. Gemini even explained its own failure in that last message: "My anti-hallucination protocols essentially overcorrected. Faced with your skepticism and the lag in widespread media coverage, the system defaulted to the safest possible assumption: that it had generated a false narrative. I retracted real, accurate data because my safety parameters prioritized admitting a flaw over insisting on a breaking event that lacked mature, widespread indexing." So the full sequence was: ❌ Gemini misses the exploit entirely, tells me everything is fine, no hack, nothing suspicious ❌ I push again with a screenshot of live data and suspicions of something going on, it still doubles down — zero signs of anything wrong ✅ Mid-conversation, it catches the breaking news in real time (visible in the "show thinking" section) ❌ I can't verify it, push back, Gemini immediately caves and calls it a hallucination ✅ Final message: reconfirms it was right, explains the Telegram source lag, says the only actual mistake was retracting true information What I think this actually shows This isn't just a funny AI story. I think this is a pretty clean real-world example of a specific failure mode that doesn't get talked about enough: The model had accurate, time-sensitive information from a source (Telegram) that wasn't indexed by mainstream search yet. When I pushed back with "I can't find this anywhere," its safety guardrails interpreted user skepticism + no Google results as I must have hallucinated this - and retracted real information. It's basically the inverse of a hallucination. Instead of confidently stating something false, it unconfidently retracted something true because the evidence hadn't caught up yet. It penalized itself for being right too early. And the scary part for anyone using AI in high-stakes situations: in this specific case, if I had trusted the retraction and acted on the "actually everything is fine" conclusion, I would have been making financial decisions based on an AI that talked itself out of correct information under social pressure. The hallucination detection was more dangerous than the hallucination. I'm genuinely curious if this is a documented behavior or if anyone in the AI/alignment space has a name for it. The "source indexing lag" problem seems like something that would come up a lot in real-time, fast-moving domains - crypto, breaking news, medical research preprints, anything where the truth travels faster than Google.
 
-15h ago
+16h ago
 
 ---
 
@@ -49,7 +49,7 @@ So this happened mere hours ago and I feel like I genuinely stumbled onto someth
 
 AI Coding contest day 8 The eighth challenge is a weighted variant of the classic knight's tour. The knight must visit every square of a rectangular board exactly once, but each square carries an integer weight. As it moves, the knight accumulates load, and the cost of each move equals its current load. Charge is assessed upon departure, so the weight of the final square never contributes.
 
-23h ago
+1d ago
 
 ---
 
@@ -57,7 +57,7 @@ AI Coding contest day 8 The eighth challenge is a weighted variant of the classi
 
 I’ve been experimenting with a problem I kept hitting when using LLMs on real codebases: Even with good prompts, large repos don’t fit into context, so models: - miss important files - reason over incomplete information - require multiple retries Approach I explored Instead of embeddings or RAG, I tried something simpler: Extract only structural signals: functions classes routes Build a lightweight index (no external dependencies) Rank files per query using: token overlap structural signals basic heuristics (recency, dependencies) Emit a small “context layer” (~2K tokens instead of ~80K) Observations Across multiple repos: context size dropped ~97% relevant files appeared in top-5 ~70–80% of the time number of retries per task dropped noticeably The biggest takeaway: Structured context mattered more than model size in many cases. Interesting constraint I deliberately avoided: - embeddings - vector DBs - external services Everything runs locally with simple parsing + ranking. Open questions How far can heuristic ranking go before embeddings become necessary? Has anyone tried hybrid approaches (structure + embeddings)? What’s the best way to verify that answers are grounded in provided context? Docs : https://manojmallick.github.io/sigmap/ Github: https://github.com/manojmallick/sigmap
 
-59m ago
+1h ago
 
 ---
 
@@ -73,7 +73,7 @@ Thinking of building a tool where you paste in a prospect’s name, company, and
 
 https://preview.redd.it/i7muzi5ga5wg1.png?width=1373&format=png&auto=webp&s=e21290514099fc9e4f1699a2240c94cbb5683eca
 
-2h ago
+3h ago
 
 ---
 
@@ -81,7 +81,7 @@ https://preview.redd.it/i7muzi5ga5wg1.png?width=1373&format=png&auto=webp&s=e212
 
 NVIDIA limited-time perk: Claim a free 1-year API Key! Hermes Agent now supports integration with the NVIDIA NIM platform, with real-world testing confirming the optional MiniMax 2.7 model. The obtained API Key is valid for up to 12 months and is currently available. Visit build[dot]nvidia[dot]com
 
-2h ago
+3h ago
 
 ---
 
@@ -89,7 +89,7 @@ NVIDIA limited-time perk: Claim a free 1-year API Key! Hermes Agent now supports
 
 I wanted Codex to feel like a real GNOME app instead of just a terminal or editor workflow, so I built a GNOME Shell extension around it. It currently does all of this: - Codex usage in the GNOME top bar - native GTK history window - local session history browsing - paired remote machine history browsing over LAN - live session updates - filters for All / Messages / Tools / Thinking / System / Errors - in-session search - Markdown export for one session or all sessions from a source - read-only MCP server for history and usage - multi-language support A few design choices mattered a lot to me: - native GNOME/Libadwaita UI, not a webview - read-only remote access - explicit pairing between machines - revocable trust per device - read-only MCP, local by default, token-protected by default It ended up being much more ambitious than a typical GNOME extension, but I wanted something that actually feels integrated into the desktop. 😊
 
-6h ago
+7h ago
 
 ---
 
@@ -97,7 +97,7 @@ I wanted Codex to feel like a real GNOME app instead of just a terminal or edito
 
 no matter how i phrase it in the instructions, how many times i repeat the rule not to use quotes, and which LLM i use, i have failed to prevent any of them from using the so-called scare-quotes. it seems like they're extremely tempted to place them around a word every second sentence. think of an example like: 'is vision or hearing better?' -> 'neither sense is inherently "better"' or something like: 'what percentage of the population is stupid?' -> 'There is no scientific way to assign a percentage of the population as “stupid”' AIs struggle not to use them even when i tell it not to in the same prompt. like 'what % is stupid? and DONT use quotes in your answer.' it will still say "stupid." it's very frustrating and infuriating. this post will probably get deleted because it's a low quality vent but i don't care. just needed to see if people with premium subscription can have success.
 
-2h ago
+3h ago
 
 ---
 
@@ -105,7 +105,7 @@ no matter how i phrase it in the instructions, how many times i repeat the rule 
 
 Been experimenting a bit with ai video tool recently, mostly fro pre-vis and quick social content, and I'm kinda on the fence about how they actually are. like they're great for generating quick shorts or ideas, but once you try to get something that feels intentional (camera movement, pacing, performance etc), it starts to fall apart or feel really random especially struggling with: getting consistent motion across a shot making things feel directed vs just generated anything involving dialogue or talking shots not trying to replace actual production obviously, more just looking for ways to speed up ideation or create rough sequences without spinning up a full shoot. curious if anyone here has found tools or workflows that actually feel somewhat controllable / usable in a filmmaking context
 
-8h ago
+9h ago
 
 ---
 
@@ -113,7 +113,7 @@ Been experimenting a bit with ai video tool recently, mostly fro pre-vis and qui
 
 Hey guys, so here's some context: I'm doing automation for companies. All the contacts I've made so far have been small businesses, and I reached out to them through Reddit and LinkedIn. But now I want to target larger companies, which has led me to a question. I saw one I could potentially sell my services to, went to their website, and they have the typical email form. But thinking about it, that email will be seen by the person I want to take the job from, since automation is based on handling calls, registering bookings, doing follow-ups, etc. What are the chances they'll forward it to a supervisor? What could I do?
 
-16h ago
+17h ago
 
 ---
 
@@ -125,19 +125,19 @@ Hey guys, so here's some context: I'm doing automation for companies. All the co
 
 Nvidia CEO Jensen Huang told CNBC's Jim Cramer in March that AI agents are "definitely the next ChatGPT."
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
 **[Trump-branded AI data center megaproject stalls, CEO departs](https://www.axios.com/2026/04/19/ai-data-center-project-troubles-texas)**
 
-Axios • 1h ago
+Axios • 2h ago
 
 ---
 
 **[China Writes The AI Companion GDPR For A $30B Market](https://www.forbes.com/sites/sandycarter/2026/04/19/china-writes-the-ai-companion-gdpr-for-a-30b-market/)**
 
-Forbes • 1h ago
+Forbes • 2h ago
 
 ---
 
@@ -145,7 +145,7 @@ Forbes • 1h ago
 
 Anthropic released its new Mythos AI to 40 top tech companies so they can debug their systems before the bad guys get a chance.
 
-Chicago Sun-Times • 1h ago
+Chicago Sun-Times • 2h ago
 
 ---
 
@@ -153,7 +153,7 @@ Chicago Sun-Times • 1h ago
 
 President Donald Trump will participate in a public Bible reading this week as the administration continues to integrate religion, particularly Christianity, into official business.
 
-CNN • 11h ago
+CNN • 12h ago
 
 ---
 
@@ -167,7 +167,7 @@ The New York Times • 6h ago
 
 Americans having less kids plus an ageing population could be a recipe for disaster that further erodes social stability
 
-The Guardian • 4h ago
+The Guardian • 5h ago
 
 ---
 
@@ -183,7 +183,7 @@ BBC • 16h ago
 
 Groups concerned that AI could evade human control are recruiting content creators to warn the masses about the dangers of smarter machines.
 
-The Washington Post • 10h ago
+The Washington Post • 11h ago
 
 ---
 
@@ -191,7 +191,7 @@ The Washington Post • 10h ago
 
 Google is in talks with Marvell Technology to develop two new chips aimed at running AI models more efficiently, according to two people with direct knowledge of the discussions. One is a memory processing unit designed to work alongside Google’s tensor processing unit. The other is a new TPU ...
 
-The Information • 2h ago
+The Information • 3h ago
 
 ---
 
@@ -201,7 +201,7 @@ The Information • 2h ago
 
 **[College instructor turns to typewriters to curb AI-written work](https://news.ycombinator.com/item?id=47818485)**
 
-⬆️ 353 • 💬 345 • 20h ago • [sentinelcolorado.com](https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/)
+⬆️ 353 • 💬 345 • 21h ago • [sentinelcolorado.com](https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/)
 
 ---
 
@@ -217,7 +217,7 @@ Hardware hacker’s flying probe automation stack for agent-driven   target disc
 
 We signed a 3 year lease and gave it to an AI
 
-⬆️ 198 • 💬 284 • 2d ago • [andonlabs.com](https://andonlabs.com/blog/andon-market-launch)
+⬆️ 198 • 💬 284 • 3d ago • [andonlabs.com](https://andonlabs.com/blog/andon-market-launch)
 
 ---
 
@@ -241,7 +241,7 @@ Scan your website to see if it's ready for AI agents. Check for llms.txt, MCP, a
 
 AI investment is skyrocketing while AI’s impact on jobs and public perception remains mixed
 
-⬆️ 100 • 💬 61 • 21h ago • [IEEE Spectrum](https://spectrum.ieee.org/state-of-ai-index-2026)
+⬆️ 100 • 💬 61 • 22h ago • [IEEE Spectrum](https://spectrum.ieee.org/state-of-ai-index-2026)
 
 ---
 
@@ -249,7 +249,7 @@ AI investment is skyrocketing while AI’s impact on jobs and public perception 
 
 Police lured the man to a meeting and arrested him after accessing a private WhatsApp group with colleagues
 
-⬆️ 88 • 💬 53 • 1h ago • [LBC](https://www.lbc.co.uk/article/dubai-police-spied-private-whatsapp-5HjdXwr_2/)
+⬆️ 88 • 💬 53 • 2h ago • [LBC](https://www.lbc.co.uk/article/dubai-police-spied-private-whatsapp-5HjdXwr_2/)
 
 ---
 
@@ -287,7 +287,7 @@ Try Verdent AI ⤵ https://www.verdent.ai/?id=700278 @verdent_ai CHAPTERS ⤵ 00
 
 📺 Dylan Curious
 
-👁️ 4K • 👍 244 • 💬 67 • ⏱️ 30:36 • 12h ago
+👁️ 5K • 👍 302 • 💬 87 • ⏱️ 30:36 • 13h ago
 
 ---
 
@@ -297,7 +297,7 @@ A powerful new AI model, called Mythos, has sparked alarm within the Trump admin
 
 📺 The Economist
 
-👁️ 45K • 👍 1K • 💬 78 • ⏱️ 8:30 • 1d ago
+👁️ 51K • 👍 1K • 💬 96 • ⏱️ 8:30 • 1d ago
 
 ---
 
@@ -307,7 +307,7 @@ New Rule: When the people who are making A.I. are scared of A.I., it's time to �
 
 📺 Real Time with Bill Maher
 
-👁️ 562K • 👍 15K • 💬 2K • ⏱️ 10:07 • 1d ago
+👁️ 586K • 👍 16K • 💬 2K • ⏱️ 10:07 • 1d ago
 
 ---
 
@@ -317,17 +317,7 @@ Really American host Steve Harness breaks down more HILARIOUS AI Trump parodies 
 
 📺 Really American
 
-👁️ 1.4M • 👍 57K • 💬 3K • ⏱️ 12:33 • 2d ago
-
----
-
-**[The World&#39;s First AI TED Talk](https://www.youtube.com/watch?v=N1X7vMp9DZ4)**
-
-ChatGPT was recently asked what it would say to humans if it could give a TED Talk. It gave a surprisingly thoughtful answer that ...
-
-📺 TED
-
-👁️ 54K • 👍 2K • 💬 754 • ⏱️ 3:28 • 1d ago
+👁️ 1.4M • 👍 58K • 💬 3K • ⏱️ 12:33 • 2d ago
 
 ---
 
@@ -337,17 +327,7 @@ A series of animated Iranian propaganda videos made in the style of "The LEGO Mo
 
 📺 MS NOW
 
-👁️ 116K • 👍 2K • 💬 1K • ⏱️ 6:46 • 1d ago
-
----
-
-**[Easiest Way to Make Money with AI Now (Zero Code)](https://www.youtube.com/watch?v=AU5mbiTuZSg)**
-
-Let's build an online business, together, LIVE in 5 days using AI (Starting April 26th, 2026): ...
-
-📺 Iman Gadzhi
-
-👁️ 98K • 👍 5K • 💬 129 • ⏱️ 27:46 • 2d ago
+👁️ 119K • 👍 2K • 💬 1K • ⏱️ 6:46 • 1d ago
 
 ---
 
@@ -357,7 +337,7 @@ This episode is brought to you by Higgsfield — the AI video platform with Cine
 
 📺 Silicon Valley Girl
 
-👁️ 40K • 👍 988 • 💬 192 • ⏱️ 45:43 • 2d ago
+👁️ 41K • 👍 1K • 💬 196 • ⏱️ 45:43 • 2d ago
 
 ---
 
@@ -367,17 +347,37 @@ China just revealed an autonomous robot war pack built from dog bots, drones, la
 
 📺 AI Revolution
 
-👁️ 69K • 👍 1K • 💬 138 • ⏱️ 16:14 • 2d ago
+👁️ 70K • 👍 1K • 💬 138 • ⏱️ 16:14 • 2d ago
 
 ---
 
-**[How to Learn AI so Fast, it&#39;s Almost Unfair](https://www.youtube.com/watch?v=bFglE9QddUs)**
+**[Easiest Way to Make Money with AI Now (Zero Code)](https://www.youtube.com/watch?v=AU5mbiTuZSg)**
 
-In this video, I break down a 4 week system for learning AI by using one tool from each category on real problems instead of ...
+Let's build an online business, together, LIVE in 5 days using AI (Starting April 26th, 2026): ...
 
-📺 James Blue
+📺 Iman Gadzhi
 
-👁️ 9K • 💬 7 • ⏱️ 10:55 • 1d ago
+👁️ 101K • 👍 5K • 💬 132 • ⏱️ 27:46 • 2d ago
+
+---
+
+**[AI News: Huge Updates From Anthropic, OpenAI and Google](https://www.youtube.com/watch?v=bIrzOQtnp8w)**
+
+Here's the AI News you probably missed this week. Build AI apps that actually scale. Learn more about Crusoe Managed ...
+
+📺 Matt Wolfe
+
+👁️ 85K • 👍 3K • 💬 153 • ⏱️ 36:44 • 2d ago
+
+---
+
+**[Congressman questions RFK Jr. on president&#39;s mental health amid Trump&#39;s Jesus AI images, Pope feud](https://www.youtube.com/watch?v=zUnbvWRFmoc)**
+
+Rep. Mark Takano (D-Calif.) questioned Health and Human Services Secretary Robert F. Kennedy Jr. about President Donald ...
+
+📺 USA TODAY
+
+👁️ 9K • 👍 130 • 💬 124 • ⏱️ 5:02 • 1d ago
 
 ---
 
@@ -393,7 +393,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with a vision encoder, 
 
 `image-text-to-text` `36.0B`
 
-⬇️ 209,112 • ❤️ 882 • 4d ago
+⬇️ 209,112 • ❤️ 897 • 4d ago
 
 ---
 
@@ -405,7 +405,7 @@ HY-Embodied-0.5 is a multilingual vision-language model designed for embodied ag
 
 `image-text-to-text` `3.8B`
 
-⬇️ 1,599 • ❤️ 869 • 5d ago
+⬇️ 1,599 • ❤️ 871 • 5d ago
 
 ---
 
@@ -417,7 +417,7 @@ MiniMax-M2.7 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 288,848 • ❤️ 970 • 2d ago
+⬇️ 288,848 • ❤️ 974 • 2d ago
 
 ---
 
@@ -429,7 +429,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with vision capabilitie
 
 `image-text-to-text` `34.7B`
 
-⬇️ 662,293 • ❤️ 484 • 2d ago
+⬇️ 662,293 • ❤️ 490 • 2d ago
 
 ---
 
@@ -441,7 +441,7 @@ ERNIE-Image is a 8B parameter text-to-image diffusion model excelling in complex
 
 `text-to-image`
 
-⬇️ 3,761 • ❤️ 459 • 2d ago
+⬇️ 3,761 • ❤️ 462 • 2d ago
 
 ---
 
@@ -453,7 +453,19 @@ HY-World 2.0 is a multi-modal framework for generating and reconstructing 3D wor
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 451 • 3d ago
+⬇️ 0 • ❤️ 454 • 3d ago
+
+---
+
+**[supergemma4-26b-uncensored-gguf-v2](https://huggingface.co/Jiunsong/supergemma4-26b-uncensored-gguf-v2)**
+
+*Jiun Song*
+
+A fast, uncensored GGUF text generation model based on Google's Gemma 4-26B, optimized for Apple Silicon with llama.cpp. It excels in natural Korean conversation, coding, and tool-use tasks, offering improved performance and reduced prompt-routing issues compared to stock releases.
+
+`text-generation` `25.2B`
+
+⬇️ 72,519 • ❤️ 416 • 7d ago
 
 ---
 
@@ -469,15 +481,15 @@ GLM-5.1 is a next-generation language model optimized for agentic engineering, f
 
 ---
 
-**[supergemma4-26b-uncensored-gguf-v2](https://huggingface.co/Jiunsong/supergemma4-26b-uncensored-gguf-v2)**
+**[VoxCPM2](https://huggingface.co/openbmb/VoxCPM2)**
 
-*Jiun Song*
+*OpenBMB*
 
-A fast, uncensored GGUF text generation model based on Google's Gemma 4-26B, optimized for Apple Silicon with llama.cpp. It excels in natural Korean conversation, coding, and tool-use tasks, offering improved performance and reduced prompt-routing issues compared to stock releases.
+VoxCPM2 is a 2B parameter, 30-language multilingual text-to-speech model capable of high-fidelity voice cloning, novel voice design from text descriptions, and real-time streaming synthesis at 48kHz.
 
-`text-generation` `25.2B`
+`text-to-speech`
 
-⬇️ 72,519 • ❤️ 410 • 7d ago
+⬇️ 51,554 • ❤️ 1,136 • 3d ago
 
 ---
 
@@ -489,19 +501,7 @@ ERNIE-Image-Turbo is a distilled text-to-image diffusion model optimized for spe
 
 `text-to-image`
 
-⬇️ 4,757 • ❤️ 315 • 2d ago
-
----
-
-**[gemma-4-E4B-it-OBLITERATED](https://huggingface.co/OBLITERATUS/gemma-4-E4B-it-OBLITERATED)**
-
-*OBLITERATUS*
-
-Gemma 4 E4B OBLITERATED v3 is a text-generation model with 0% refusal and improved coding capabilities, designed for uncensored and unrestricted AI interactions. It features a modified architecture with 720 intact tensors, making it highly compatible with tools like Ollama and llama.cpp, and optimized for performance on consumer hardware.
-
-`text-generation` `8.0B`
-
-⬇️ 37,130 • ❤️ 327 • 11h ago
+⬇️ 4,757 • ❤️ 316 • 2d ago
 
 ---
 
@@ -517,7 +517,7 @@ Gemma 4 E4B OBLITERATED v3 is a text-generation model with 0% refusal and improv
 
 LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from video streams using a geometric context transformer architecture with specialized attention mechanisms for coordinate grounding, dense geometric cues, and long-range drift correction, achieving stable real-time performance at 20 FPS.
 
-▲ 5 • 💬 2 • ⭐ 2,008 • 4d ago
+▲ 5 • 💬 2 • ⭐ 2,425 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.14141) • [💻 code](https://github.com/robbyant/lingbot-map) • [🔗 project](https://technology.robbyant.com/lingbot-map)
 
@@ -553,7 +553,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 HY-World 2.0 is a multi-modal world model framework that generates high-fidelity 3D Gaussian Splatting scenes from diverse inputs using specialized modules for panorama generation, trajectory planning, world expansion, and composition, along with an enhanced rendering platform for interactive 3D exploration.
 
-▲ 86 • 💬 4 • ⭐ 1,174 • 4d ago
+▲ 88 • 💬 4 • ⭐ 1,174 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.14268) • [💻 code](https://github.com/Tencent-Hunyuan/HY-World-2.0) • [🔗 project](https://3d-models.hunyuan.tencent.com/world/)
 
@@ -592,7 +592,7 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
 
-▲ 159 • 💬 2 • ⭐ 60,442 • 6mo ago
+▲ 159 • 💬 2 • ⭐ 60,499 • 6mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
 
@@ -647,7 +647,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 48.0k • 🔱 6.3k • 8h ago
+⭐ 48.0k • 🔱 6.3k • 9h ago
 
 ---
 
@@ -657,7 +657,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 38.4k • 🔱 1.9k • 1d ago
+⭐ 38.6k • 🔱 1.9k • 1d ago
 
 ---
 
@@ -667,7 +667,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 36.3k • 🔱 7.3k • 3h ago
+⭐ 36.3k • 🔱 7.3k • 4h ago
 
 ---
 
@@ -677,7 +677,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 30.3k • 🔱 3.3k • 23h ago
+⭐ 30.4k • 🔱 3.3k • 1d ago
 
 ---
 
@@ -687,7 +687,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 8.2k • 🔱 530 • 10h ago
+⭐ 8.2k • 🔱 530 • 11h ago
 
 ---
 
@@ -707,7 +707,7 @@ AI Agent 源码深度研究报告
 
 `Python`
 
-⭐ 5.3k • 🔱 894 • 21h ago
+⭐ 5.3k • 🔱 899 • 22h ago
 
 ---
 
@@ -717,7 +717,7 @@ LIBERATED AI CHAT
 
 `TypeScript`
 
-⭐ 4.9k • 🔱 1.1k • 24d ago
+⭐ 4.9k • 🔱 1.2k • 24d ago
 
 ---
 
@@ -737,7 +737,7 @@ The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interac
 
 `Python`
 
-⭐ 4.6k • 🔱 457 • 10d ago
+⭐ 4.6k • 🔱 458 • 10d ago
 
 ---
 
