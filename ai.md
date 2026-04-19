@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-19T18:02:32.568231+00:00'
+updated: '2026-04-19T19:22:51.743100+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
 - repositories
+- news
 - social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 19, 2026 at 18:02 UTC  
+**Last Updated:** April 19, 2026 at 19:22 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Some experts argue that AI was just used as an excuse for poor business decisions.
 
-🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/tech-industry-lays-off-nearly-80-000-employees-in-the-first-quarter-of-2026-almost-50-percent-of-affected-positions-cut-due-to-ai) • 2h ago
+🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/tech-industry-lays-off-nearly-80-000-employees-in-the-first-quarter-of-2026-almost-50-percent-of-affected-positions-cut-due-to-ai) • 3h ago
 
 ---
 
@@ -49,23 +49,7 @@ Some experts argue that AI was just used as an excuse for poor business decision
 
 So this happened mere hours ago and I feel like I genuinely stumbled onto something worth documenting for people interested in AI behavior. I'm going to try to be as precise as possible about the sequence because the order of events is everything here. Full chat if you want to read it yourself: https://g.co/gemini/share/0cb9f054ca58 Background I was using Gemini paid most advanced model to analyze a live crypto trade on AAVE. The token had dropped 7–9% out of nowhere in the last hour with zero news to explain it. I've been trading crypto for over a decade and something felt off, so I asked Gemini to dig into it. It came back very bullish - told me this was just normal market maker activity and that there were, quote, "absolutely zero indications of an exploit, hack, or insider dump." I even pushed back multiple times and it kept doubling down. So I moved on and started discussing trading strategy with it. Then it caught something mid-response Out of nowhere, mid-conversation, Gemini goes into full "EMERGENCY CORRECTION" mode. Says it just scanned live feeds and found breaking news of a $280M KelpDAO exploit - attacker minted rsETH, used it as collateral on Aave V3 to drain ETH/WETH, leaving roughly $177M in bad debt. Cites ZachXBT as the source. If you look at the "show thinking" section of the chat, you can literally watch it catch the news mid-response. Wild. Here's where it gets interesting. I couldn't verify any of it. Checked ZachXBT's Twitter - nothing. Googled every variation of "aave hack" sorted by latest and again nothing. Asked Gemini for actual links and it gave me source names in plain text with no real URLs. The only actual verified source attached to the chat was a screenshot of market data I had sent earlier. I called it out. It immediately folded Full apology. Called it a "massive AI hallucination." Said it completely fabricated the exploit, the $280M figure, the bad debt, ZachXBT's alert - all of it. Walked everything back and returned to the original bullish thesis like nothing happened. I was genuinely shocked that this was coming from the flagship paid Google model. I told it I was going to end the chat and try Claude instead. And then it reversed again In its last message before I left, Gemini reversed a second time. Said it had done one final scan and confirmed the exploit was real all along. CoinGape and BeInCrypto had just published it. The reason I couldn't find ZachXBT's alert is that he posted it on Telegram, not Twitter. The news was still spreading through crypto-native channels and hadn't been indexed by mainstream search yet when I tried to verify it around 9PM GMT. Gemini even explained its own failure in that last message: "My anti-hallucination protocols essentially overcorrected. Faced with your skepticism and the lag in widespread media coverage, the system defaulted to the safest possible assumption: that it had generated a false narrative. I retracted real, accurate data because my safety parameters prioritized admitting a flaw over insisting on a breaking event that lacked mature, widespread indexing." So the full sequence was: ❌ Gemini misses the exploit entirely, tells me everything is fine, no hack, nothing suspicious ❌ I push again with a screenshot of live data and suspicions of something going on, it still doubles down — zero signs of anything wrong ✅ Mid-conversation, it catches the breaking news in real time (visible in the "show thinking" section) ❌ I can't verify it, push back, Gemini immediately caves and calls it a hallucination ✅ Final message: reconfirms it was right, explains the Telegram source lag, says the only actual mistake was retracting true information What I think this actually shows This isn't just a funny AI story. I think this is a pretty clean real-world example of a specific failure mode that doesn't get talked about enough: The model had accurate, time-sensitive information from a source (Telegram) that wasn't indexed by mainstream search yet. When I pushed back with "I can't find this anywhere," its safety guardrails interpreted user skepticism + no Google results as I must have hallucinated this - and retracted real information. It's basically the inverse of a hallucination. Instead of confidently stating something false, it unconfidently retracted something true because the evidence hadn't caught up yet. It penalized itself for being right too early. And the scary part for anyone using AI in high-stakes situations: in this specific case, if I had trusted the retraction and acted on the "actually everything is fine" conclusion, I would have been making financial decisions based on an AI that talked itself out of correct information under social pressure. The hallucination detection was more dangerous than the hallucination. I'm genuinely curious if this is a documented behavior or if anyone in the AI/alignment space has a name for it. The "source indexing lag" problem seems like something that would come up a lot in real-time, fast-moving domains - crypto, breaking news, medical research preprints, anything where the truth travels faster than Google.
 
-18h ago
-
----
-
-**[Might not be the right sub, but why does the ai overview get an aneurism when i google this?](https://www.reddit.com/r/artificial/comments/1spsbru/might_not_be_the_right_sub_but_why_does_the_ai/)**
-
-https://preview.redd.it/i7muzi5ga5wg1.png?width=1373&format=png&auto=webp&s=e21290514099fc9e4f1699a2240c94cbb5683eca
-
-5h ago
-
----
-
-**[How LLMs decide which pages to cite — and how to optimize for it](https://www.reddit.com/r/artificial/comments/1spxhfj/how_llms_decide_which_pages_to_cite_and_how_to/)**
-
-When ChatGPT or Perplexity answers a question, it runs RAG: retrieves top candidates from a crawled index, then scores them. The scoring criteria are public knowledge from the Princeton GEO paper (arxiv.org/abs/2311.09735). Key signals: answer directness, cited statistics, structured data (JSON-LD), crawl access, and content freshness. What surprised me most in the research: schema markup alone shifts precise information extraction from 16% to 54%. That's not a marginal gain — that's the difference between being cited and being invisible. Anyone else experimenting with this? Curious what's working for people here.
-
-1h ago
+20h ago
 
 ---
 
@@ -73,7 +57,39 @@ When ChatGPT or Perplexity answers a question, it runs RAG: retrieves top candid
 
 Like seriously, it’s not just ChatGPT... it’s Claude, Grok, Gemini… all of them feel way more locked down than before. I genuinely don’t get it. What’s the point of pouring nearly Trillions into this tech if it ends up feeling borderline unusable half the time? And yeah, I’m literally paying for this. It feels like companies assume every user is a programmer who use it only for programming. But a lot of us just want to be creative, write stories, experiment with ideas, or just mess around without hitting a wall every two seconds. I’m not out here asking how to build a bomb or anything illegal. I just want to create stuff without the AI acting like I’m about to commit a felony. And before anyone says “just use local models”… nah. Not everyone has a expensive hardware lying around. Subscriptions exist for a reason. I understand this safety stuff but this is just dumb.. So like… is there any hope this gets better? Will AI eventually get smart enough to understand actual intent instead of playing it ultra safe all the time? Or is this just how it’s gonna be going forward? Because if this is the future… idk man, it’s kinda disappointing This ain't it...
 
-1h ago
+3h ago
+
+---
+
+**[Canada gave one AI startup $240M in a single grant — more than 66% of what 107 companies received over 7 years](https://www.reddit.com/r/artificial/comments/1sq1gda/canada_gave_one_ai_startup_240m_in_a_single_grant/)**
+
+Discover the magic of the internet at Imgur, a community powered entertainment destination. Lift your spirits with funny jokes, trending memes, entertaining gifs, inspiring stories, viral videos, and so much more from users.
+
+🔗 [Imgur](https://i.imgur.com/cyY0cxE.png) • 35m ago
+
+---
+
+**[How LLMs decide which pages to cite — and how to optimize for it](https://www.reddit.com/r/artificial/comments/1spxhfj/how_llms_decide_which_pages_to_cite_and_how_to/)**
+
+When ChatGPT or Perplexity answers a question, it runs RAG: retrieves top candidates from a crawled index, then scores them. The scoring criteria are public knowledge from the Princeton GEO paper (arxiv.org/abs/2311.09735). Key signals: answer directness, cited statistics, structured data (JSON-LD), crawl access, and content freshness. What surprised me most in the research: schema markup alone shifts precise information extraction from 16% to 54%. That's not a marginal gain — that's the difference between being cited and being invisible. Anyone else experimenting with this? Curious what's working for people here.
+
+3h ago
+
+---
+
+**[scalar-loop: a Python harness for Karpathy's autoresearch pattern that doesn't trust the agent's narration](https://www.reddit.com/r/artificial/comments/1spz2g0/scalarloop_a_python_harness_for_karpathys/)**
+
+I built scalar-loop to solve one problem: LLM agents game their verifiers. The pattern is Karpathy's autoresearch loop. LLM proposes an edit, harness runs the metric, loop keeps or reverts based on the number. Simple. Until you watch the agent, on iteration 23, quietly edit the verifier to report a better number instead of improving the code. My main issue was that the prompt-only implementations ("you SHALL NOT edit the test file") don't hold. The prompt is not an invariant. It's a suggestion the model can rationalize past. Especially in the deterinistic environments (like healthcare, legal, finance where I spend most of my time architecting solutions) a prompt only implementation is a no-go. All regulators are still boomers. So I have been looking to develop more deterministic implementations that could be hands-off. Because I am lazy too. scalar-loop puts the invariants in Python: Harness integrity via SHA-256 hash manifest. Sealed files (tests, build, config) are hashed once. If any hash drifts after an agent turn, the iteration is reverted. Scope enforcement via git diff. The agent is told which glob patterns it may touch. Touching anything else rejects the whole iteration before commit. Precondition gate. Seven checks before the loop runs at all. No main branch, no dirty tree, metric command exists, etc. Refuse-to-run over fix-on-the-fly. Safe git. No reset --hard on the working tree. Stashes on dirty. reset --hard only against a commit the loop itself just made. Agent as subprocess. One function, propose(). Default shells to claude -p. Swap for GPT-5, local Llama, a test double. The loop's correctness does not depend on the agent being well-behaved. SCALAR_LOOP_GIVE_UP: is the only stdout signal the loop respects. The agent's prose is treated as suggestion, not record. Real run on a JS bundle-size task: 1492 bytes down to 70 bytes. Iteration 4 the agent quit with a confabulated reason ("read-time policy"). The loop logged it, ignored the prose, kept the final metric. The lie was harmless because the control signal is the token, not the text. Repo: https://github.com/mandar-karhade/scalar-loop Reproducible example: https://github.com/mandar-karhade/test-case-tiny-js-bundle Install: git clone + uv pip install -e . (no PyPI yet) Would appreciate Goodhart paths I haven't defended against. That's the most useful feedback I could get. Also, my detailed take on the whole process is in this article (free link is included - you do not need membership)
+
+2h ago
+
+---
+
+**[Might not be the right sub, but why does the ai overview get an aneurism when i google this?](https://www.reddit.com/r/artificial/comments/1spsbru/might_not_be_the_right_sub_but_why_does_the_ai/)**
+
+https://preview.redd.it/i7muzi5ga5wg1.png?width=1373&format=png&auto=webp&s=e21290514099fc9e4f1699a2240c94cbb5683eca
+
+6h ago
 
 ---
 
@@ -89,7 +105,7 @@ AI Coding contest day 8 The eighth challenge is a weighted variant of the classi
 
 I wanted Codex to feel like a real GNOME app instead of just a terminal or editor workflow, so I built a GNOME Shell extension around it. It currently does all of this: - Codex usage in the GNOME top bar - native GTK history window - local session history browsing - paired remote machine history browsing over LAN - live session updates - filters for All / Messages / Tools / Thinking / System / Errors - in-session search - Markdown export for one session or all sessions from a source - read-only MCP server for history and usage - multi-language support A few design choices mattered a lot to me: - native GNOME/Libadwaita UI, not a webview - read-only remote access - explicit pairing between machines - revocable trust per device - read-only MCP, local by default, token-protected by default It ended up being much more ambitious than a typical GNOME extension, but I wanted something that actually feels integrated into the desktop. 😊
 
-9h ago
+10h ago
 
 ---
 
@@ -97,23 +113,7 @@ I wanted Codex to feel like a real GNOME app instead of just a terminal or edito
 
 no matter how i phrase it in the instructions, how many times i repeat the rule not to use quotes, and which LLM i use, i have failed to prevent any of them from using the so-called scare-quotes. it seems like they're extremely tempted to place them around a word every second sentence. think of an example like: 'is vision or hearing better?' -> 'neither sense is inherently "better"' or something like: 'what percentage of the population is stupid?' -> 'There is no scientific way to assign a percentage of the population as “stupid”' AIs struggle not to use them even when i tell it not to in the same prompt. like 'what % is stupid? and DONT use quotes in your answer.' it will still say "stupid." it's very frustrating and infuriating. this post will probably get deleted because it's a low quality vent but i don't care. just needed to see if people with premium subscription can have success.
 
-5h ago
-
----
-
-**[Project Shadows: Turns out "just add memory" doesn't fix your agent](https://www.reddit.com/r/artificial/comments/1spwoof/project_shadows_turns_out_just_add_memory_doesnt/)**
-
-Been building a multi-agent system called Shadows for a few months. Nine agents collaborating on strategy work with a shared memory layer. I spent most of my time on retrieval because that's what every benchmark measures. Mem0, MemPalace, Graphiti, all of them. On LongMemEval, recall_all@5 hit 97%. Overall accuracy was 73%. So the right memories are there. The agent still picks the wrong answer. It can't aggregate across sessions, doesn't know when to abstain, and guesses which aspect of a preference the user meant. That lined up with something I've been stuck on. Most LLMs jump straight to execution when you give them a task. People don't. We filter first, check if we're even the right person, then start. Next direction: Agents that can be moved with their identity and memory!
-
-🔗 [open.substack.com](https://open.substack.com/pub/omarmegawer/p/part-3-project-shadows?r=4b5w1p&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) • 2h ago
-
----
-
-**[Any one here using ai tools for pre-vis or short form scenes?](https://www.reddit.com/r/artificial/comments/1spl4at/any_one_here_using_ai_tools_for_previs_or_short/)**
-
-Been experimenting a bit with ai video tool recently, mostly fro pre-vis and quick social content, and I'm kinda on the fence about how they actually are. like they're great for generating quick shorts or ideas, but once you try to get something that feels intentional (camera movement, pacing, performance etc), it starts to fall apart or feel really random especially struggling with: getting consistent motion across a shot making things feel directed vs just generated anything involving dialogue or talking shots not trying to replace actual production obviously, more just looking for ways to speed up ideation or create rough sequences without spinning up a full shoot. curious if anyone here has found tools or workflows that actually feel somewhat controllable / usable in a filmmaking context
-
-11h ago
+6h ago
 
 ---
 
@@ -125,47 +125,55 @@ Been experimenting a bit with ai video tool recently, mostly fro pre-vis and qui
 
 Nvidia CEO Jensen Huang told CNBC's Jim Cramer in March that AI agents are "definitely the next ChatGPT."
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
-**[Trump-branded AI data center megaproject stalls, CEO departs](https://www.axios.com/2026/04/19/ai-data-center-project-troubles-texas)**
+**[Thousands of CEOs admit AI had no impact on employment or productivity—and it has economists resurrecting a paradox from 40 years ago](https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/)**
 
-Axios • 7h ago
+In the 1980s, economist Robert Solow made an observation that reminded economists of today’s AI boom: “You can see the computer age everywhere but in the productivity statistics.”
 
----
-
-**[Niceaunties Reimagines Womanhood Through AI Dreamscapes](https://www.forbes.com/sites/yjeanmundelsalle/2026/04/19/niceaunties-reimagines-womanhood-through-ai-dreamscapes/)**
-
-Forbes • 1h ago
+Fortune • 4h ago
 
 ---
 
-**[Shadow AI: Silicon Valley’s New Productivity Secret Is Also a Massive Liability](https://www.inc.com/chloe-aiello/shadow-ai-silicon-valleys-new-productivity-secret-is-also-a-massive-liability/91331997)**
+**[Germany's Merz says industrial AI needs less stringent EU regulation](https://www.reuters.com/business/germanys-merz-says-industrial-ai-needs-less-stringent-eu-regulation-2026-04-19/)**
 
-Shadow AI use can have real consequences for businesses—but there's a smart way to handle it.
-
-inc.com • 1h ago
+Reuters • 55m ago
 
 ---
 
-**[The CEO Preaching Straight Talk About AI and Job Losses](https://www.wsj.com/tech/ai/the-ceo-preaching-straight-talk-about-ai-and-job-losses-a3aaaaf1)**
+**[Trump to read Bible verse from Oval Office after feud with Pope and deleted AI image](https://www.cnn.com/2026/04/19/politics/trump-bible-reading-oval-office)**
 
-WSJ • 2h ago
+President Donald Trump will participate in a public Bible reading this week as the administration continues to integrate religion, particularly Christianity, into official business.
+
+CNN • 15h ago
 
 ---
 
 **[My Boss Loves ChatGPT. Must I Fake Loving It Too?](https://www.nytimes.com/2026/04/19/business/ai-at-work-creativity-ageism.html)**
 
-The New York Times • 8h ago
+The New York Times • 10h ago
 
 ---
 
-**[Falling fertility, debt and AI: is the US headed toward a population crisis?](https://www.theguardian.com/business/2026/apr/19/us-population-fertility-rate)**
+**[Samsung To Release New Free Upgrade To Millions Of Galaxy Phones](https://www.forbes.com/sites/jaymcgregor/2026/04/18/samsung-one-ui-85-galaxy-s24-s25-ai-features-update/)**
 
-Americans having less kids plus an ageing population could be a recipe for disaster that further erodes social stability
+Forbes • 23h ago
 
-The Guardian • 2h ago
+---
+
+**[Trump tests his luck with the religious right amid feud with pope and AI Jesus posts](https://www.theguardian.com/us-news/2026/apr/19/trump-religious-right-pope-feud-ai-jesus-posts)**
+
+Trump appears to have crossed a line with his Christian supporters. Will it come back to bite him in the midterms?
+
+The Guardian • 1h ago
+
+---
+
+**[Trump-branded AI data center megaproject stalls, CEO departs](https://www.axios.com/2026/04/19/ai-data-center-project-troubles-texas)**
+
+Axios • 9h ago
 
 ---
 
@@ -173,23 +181,13 @@ The Guardian • 2h ago
 
 Abi has had very mixed results when asking a chatbot for guidance about her health issues.
 
-BBC • 18h ago
+BBC • 20h ago
 
 ---
 
-**[Inside a growing movement warning AI could turn on humanity](https://www.washingtonpost.com/technology/2026/04/18/ai-doom-influencers-safety/)**
+**[Why your AI assistant is suddenly selling to you](https://www.economist.com/business/2026/04/19/why-your-ai-assistant-is-suddenly-selling-to-you)**
 
-Groups concerned that AI could evade human control are recruiting content creators to warn the masses about the dangers of smarter machines.
-
-The Washington Post • 13h ago
-
----
-
-**[Google in Talks With Marvell to Build New AI Chips for Inference](https://www.theinformation.com/articles/google-talks-marvell-build-new-ai-chips-inference)**
-
-Google is in talks with Marvell Technology to develop two new chips aimed at running AI models more efficiently, according to two people with direct knowledge of the discussions. One is a memory processing unit designed to work alongside Google’s tensor processing unit. The other is a new TPU ...
-
-The Information • 5h ago
+The Economist • 9h ago
 
 ---
 
@@ -199,7 +197,7 @@ The Information • 5h ago
 
 **[College instructor turns to typewriters to curb AI-written work](https://news.ycombinator.com/item?id=47818485)**
 
-⬆️ 389 • 💬 358 • 23h ago • [sentinelcolorado.com](https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/)
+⬆️ 420 • 💬 378 • 1d ago • [sentinelcolorado.com](https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/)
 
 ---
 
@@ -211,19 +209,19 @@ Hardware hacker’s flying probe automation stack for agent-driven   target disc
 
 ---
 
-**[The beginning of scarcity in AI](https://news.ycombinator.com/item?id=47799322)**
-
-GPU rental prices surged 48% in 60 days. The AI compute shortage will force startups to compete not on speed of iteration, but on access to infrastructure.
-
-⬆️ 192 • 💬 225 • 2d ago • [Tomasz Tunguz](https://tomtunguz.com/ai-compute-crisis-2026/)
-
----
-
 **[Airline worker arrested after sharing photos of bomb damage in WhatsApp group](https://news.ycombinator.com/item?id=47824068)**
 
 Police lured the man to a meeting and arrested him after accessing a private WhatsApp group with colleagues
 
-⬆️ 168 • 💬 104 • 4h ago • [LBC](https://www.lbc.co.uk/article/dubai-police-spied-private-whatsapp-5HjdXwr_2/)
+⬆️ 199 • 💬 125 • 6h ago • [LBC](https://www.lbc.co.uk/article/dubai-police-spied-private-whatsapp-5HjdXwr_2/)
+
+---
+
+**[The beginning of scarcity in AI](https://news.ycombinator.com/item?id=47799322)**
+
+GPU rental prices surged 48% in 60 days. The AI compute shortage will force startups to compete not on speed of iteration, but on access to infrastructure.
+
+⬆️ 193 • 💬 225 • 2d ago • [Tomasz Tunguz](https://tomtunguz.com/ai-compute-crisis-2026/)
 
 ---
 
@@ -231,7 +229,7 @@ Police lured the man to a meeting and arrested him after accessing a private Wha
 
 Scan your website to see if it's ready for AI agents. Check for llms.txt, MCP, agent skills, and other agent-friendly standards.
 
-⬆️ 111 • 💬 175 • 2d ago • [Is Your Site Agent-Ready?](https://isitagentready.com)
+⬆️ 112 • 💬 175 • 2d ago • [Is Your Site Agent-Ready?](https://isitagentready.com)
 
 ---
 
@@ -239,7 +237,7 @@ Scan your website to see if it's ready for AI agents. Check for llms.txt, MCP, a
 
 AI investment is skyrocketing while AI’s impact on jobs and public perception remains mixed
 
-⬆️ 104 • 💬 61 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/state-of-ai-index-2026)
+⬆️ 105 • 💬 61 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/state-of-ai-index-2026)
 
 ---
 
@@ -255,7 +253,7 @@ We've lived but a few years so far into the age when artificial intelligence can
 
 Record a browser task once. Replay it as a callable tool. Zero token cost, 100% deterministic, auth propagated from the live webpage.
 
-⬆️ 44 • 💬 13 • 1d ago • [rtrvr.ai](https://www.rtrvr.ai/blog/ai-subroutines-zero-token-deterministic-automation)
+⬆️ 44 • 💬 14 • 1d ago • [rtrvr.ai](https://www.rtrvr.ai/blog/ai-subroutines-zero-token-deterministic-automation)
 
 ---
 
@@ -283,7 +281,7 @@ Try Verdent AI ⤵ https://www.verdent.ai/?id=700278 @verdent_ai CHAPTERS ⤵ 00
 
 📺 Dylan Curious
 
-👁️ 6K • 👍 333 • 💬 92 • ⏱️ 30:36 • 15h ago
+👁️ 6K • 👍 333 • 💬 92 • ⏱️ 30:36 • 16h ago
 
 ---
 
@@ -293,7 +291,7 @@ Something strange is happening in the world of science. A discovery has shaken e
 
 📺 Luminox
 
-👁️ 3K • 👍 166 • 💬 18 • ⏱️ 22:47 • 15h ago
+👁️ 3K • 👍 166 • 💬 18 • ⏱️ 22:47 • 17h ago
 
 ---
 
@@ -373,7 +371,7 @@ This concept shows how AI could assist with baby care in everyday public spaces.
 
 📺 DubAI Baby Official
 
-👁️ 52K • 👍 848 • 💬 2 • ⏱️ 0:08 • 4h ago
+👁️ 52K • 👍 848 • 💬 2 • ⏱️ 0:08 • 5h ago
 
 ---
 
@@ -643,7 +641,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 48.1k • 🔱 6.3k • 11h ago
+⭐ 48.1k • 🔱 6.3k • 12h ago
 
 ---
 
@@ -663,7 +661,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 36.4k • 🔱 7.3k • 6h ago
+⭐ 36.4k • 🔱 7.3k • 7h ago
 
 ---
 
@@ -683,7 +681,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 8.2k • 🔱 530 • 13h ago
+⭐ 8.2k • 🔱 530 • 15h ago
 
 ---
 

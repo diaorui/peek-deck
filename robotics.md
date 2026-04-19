@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-19T18:02:32.585468+00:00'
+updated: '2026-04-19T19:22:51.760911+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 19, 2026 at 18:02 UTC  
+**Last Updated:** April 19, 2026 at 19:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From 小互 on 𝕏: "Feels a bit like F1": https://x.com/xiaohu/status/2045786816213815411
 
-6h ago
+8h ago
 
 ---
 
@@ -44,7 +44,13 @@ From 小互 on 𝕏: "Feels a bit like F1": https://x.com/xiaohu/status/20457868
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2045678855638405436 https://x.com/XRoboHub/status/2045695900434276501
 
-14h ago
+16h ago
+
+---
+
+**[Everyone saw the Honour robot win… but nobody noticed what it did right after](https://www.reddit.com/r/robotics/comments/1spy9lg/everyone_saw_the_honour_robot_win_but_nobody/)**
+
+2h ago
 
 ---
 
@@ -52,21 +58,15 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2045678855638405436 http
 
 Robotis just revealed their new QDD actuators and their new open source humanoid robot. This robot very closely resembles Unitree G1, but it is totally open source in both hardware and software. I heard that the pricing will be competitive as well.
 
-🔗 [LinkedIn](https://www.linkedin.com/posts/yoonseokpyo_this-is-robotiss-open-source-entry-level-activity-7451595734975557632-eLLl/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEP9kBABMMZZVzJTJhId4-134XyBuXENZws) • 3h ago
+🔗 [LinkedIn](https://www.linkedin.com/posts/yoonseokpyo_this-is-robotiss-open-source-entry-level-activity-7451595734975557632-eLLl/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEP9kBABMMZZVzJTJhId4-134XyBuXENZws) • 4h ago
 
 ---
 
-**[Everyone saw the Honour robot win… but nobody noticed what it did right after](https://www.reddit.com/r/robotics/comments/1spy9lg/everyone_saw_the_honour_robot_win_but_nobody/)**
+**[Reprogrammable artificial muscle can change its shape, recover from damage, and even be reused](https://www.reddit.com/r/robotics/comments/1sq1mki/reprogrammable_artificial_muscle_can_change_its/)**
 
-1h ago
+A research team in South Korea created an artificial muscle that can be reshaped during use, recover after damage, and even have part of its material reused in another device.
 
----
-
-**[When AI Learned to Understand My Skills, It Started Grasping Objects in MuJoCo on Its Own](https://www.reddit.com/r/robotics/comments/1sps64c/when_ai_learned_to_understand_my_skills_it/)**
-
-https://www.youtube.com/watch?v=G2hwzWDg8Js In the past, most grasping implementations in MuJoCo started from the question of how to control the robot arm. You first obtain the object's position, then manually implement inverse kinematics, trajectory planning, and gripper control, ultimately turning a simple task like "pick up the cube on the table" into a long sequence of joint angles and control commands. But I wanted to test something else: What would happen if I stopped telling the AI exactly how each joint should move, and instead only gave it a skill? For example, I only tell it to: * Find the cube on the table * Move the robot arm above the cube * Pick it up Everything else is left to the AI. Based on the current scene state, it understands the goal, breaks it down into steps, and generates the corresponding grasping actions. Perhaps in the future, what we maintain for robot applications will no longer be a large amount of control code, but instead a set of skills that AI can understand, compose, and execute.
-
-5h ago
+🔗 [The Brighter Side of News](http://thebrighterside.news/post/reprogrammable-artificial-muscle-can-change-its-shape-recover-from-damage-and-even-be-reused) • 29m ago
 
 ---
 
@@ -74,35 +74,37 @@ https://www.youtube.com/watch?v=G2hwzWDg8Js In the past, most grasping implement
 
 This involves a lot of robotics. There is a 5, 2 way solenoid (two of them), two 30mm, 300 long stroke pistons. At first it didn’t work, so i had to increase the pressure enjoy My name’s Isaias
 
-🔗 [youtu.be](https://youtu.be/fueecSb5VqM?si=yWExQK2DQN-n0SCo) • 3h ago
+🔗 [youtu.be](https://youtu.be/fueecSb5VqM?si=yWExQK2DQN-n0SCo) • 5h ago
 
 ---
 
-**[Quadruped Robot Leg Design Help](https://www.reddit.com/r/robotics/comments/1spcqb4/quadruped_robot_leg_design_help/)**
+**[When AI Learned to Understand My Skills, It Started Grasping Objects in MuJoCo on Its Own](https://www.reddit.com/r/robotics/comments/1sps64c/when_ai_learned_to_understand_my_skills_it/)**
 
-I am currently developing a quadruped robot and I have come across this design for the leg. I need some help in understanding how this configuration of linkage is superior to something like this: Link where the third servo is directly linked to the coupler. Specially the addition of the triangular ternary link and pivoting it to the hip servo. I have seen a similar design here as well. Link Does this offer better range of motion? More stability? Better torque control? I am failing to understand.
+https://www.youtube.com/watch?v=G2hwzWDg8Js In the past, most grasping implementations in MuJoCo started from the question of how to control the robot arm. You first obtain the object's position, then manually implement inverse kinematics, trajectory planning, and gripper control, ultimately turning a simple task like "pick up the cube on the table" into a long sequence of joint angles and control commands. But I wanted to test something else: What would happen if I stopped telling the AI exactly how each joint should move, and instead only gave it a skill? For example, I only tell it to: * Find the cube on the table * Move the robot arm above the cube * Pick it up Everything else is left to the AI. Based on the current scene state, it understands the goal, breaks it down into steps, and generates the corresponding grasping actions. Perhaps in the future, what we maintain for robot applications will no longer be a large amount of control code, but instead a set of skills that AI can understand, compose, and execute.
 
-18h ago
-
----
-
-**[Remote-controlled snow plow robot I built in high school after a spine surgery. This project got me into engineering :)](https://www.reddit.com/r/robotics/comments/1sol2fp/remotecontrolled_snow_plow_robot_i_built_in_high/)**
-
-1d ago
+6h ago
 
 ---
 
-**[Beluga-Robot Interaction](https://www.reddit.com/r/robotics/comments/1sou3s2/belugarobot_interaction/)**
+**[How did so many Chinese robot manufacturers catch up to Boston Dynamics?](https://www.reddit.com/r/robotics/comments/1sq2bzn/how_did_so_many_chinese_robot_manufacturers_catch/)**
 
-1d ago
+They had been working on their designs for years and I don't think they publish proprietary information so how is it that there are so many manufacturers with humanoid and 'Spot-form' robots that seem to be equal or outperform Boston Dynamics?
+
+3m ago
 
 ---
 
-**[Android 1 project](https://www.reddit.com/r/robotics/comments/1spfp8o/android_1_project/)**
+**[Understanding Vision-Language-Action (VLA) Models comments needed](https://www.reddit.com/r/robotics/comments/1sq11b4/understanding_visionlanguageaction_vla_models/)**
 
-Hello! This is my first ever humanoid robot project: Android 1. I designed him to be simplistic and functional, the Android has grippers to manipulate objects around him and a camera for vision. At the current moment, he is just a research platform for basic AI and ROS. I designed him using fusion 360 and programmed him with python .Please give me some suggestions on his design and feel free to ask questions!
+Hey everyone I recently did some research on VLA (Vision-Language-Action) models, and I decided to write a beginner-friendly article to help myself (and others) understand it better. I’d really appreciate your feedback, suggestions, or anything you think I should add or improve. If there are mistakes or missing parts, feel free to point them out too. Thanks a lot for your time
 
-16h ago
+🔗 [Medium](https://medium.com/@imashanilupul/understanding-vision-language-action-vla-models-240ee628e6d4) • 50m ago
+
+---
+
+**[PRL in Boston’s Seaport did not disappoint](https://www.reddit.com/r/robotics/comments/1spyx50/prl_in_bostons_seaport_did_not_disappoint/)**
+
+2h ago
 
 ---
 
@@ -114,15 +116,15 @@ Hello! This is my first ever humanoid robot project: Android 1. I designed him t
 
 Robots competed in a half marathon race in Beijing on Sunday, with the winning machine leaving its human rivals for dust.
 
-BBC • 9h ago
+BBC • 10h ago
 
 ---
 
-**[Chef Robotics escaped the robot cooking graveyard and says it’s thriving — here’s why](https://techcrunch.com/2026/04/17/chef-robotics-escaped-the-robot-cooking-graveyard-and-says-its-thriving-heres-why/)**
+**[Local Octobots Robotics Team Places Second At State Championship, Earning Spot On World Stage](https://www.edhat.com/news/local-octobots-robotics-team-places-second-at-state-championship-earning-spot-on-world-stage/)**
 
-The company, which deploys AI-guided robot arms for food production, says it is looking to expand its services to provide for a broader array of customers.
+Santa Barbara County–based Octobots Robotics won second place at the FIRST Robotics Southern California State Championship in Anaheim
 
-TechCrunch • 2d ago
+edhat • 1h ago
 
 ---
 
@@ -130,13 +132,21 @@ TechCrunch • 2d ago
 
 A recent demo shows Boston Dynamics Spot in a residential home, using Google’s visual-language model (VLM) Gemini Robotics-ER 1.5 for embodied reasoning.
 
-Boston Dynamics • 12h ago
+Boston Dynamics • 13h ago
 
 ---
 
-**[Photos: Students show off engineering skills at robotics competition](https://www.timesunion.com/news/article/photos-school-robotics-teams-face-competition-22213793.php)**
+**[FAMU Hosted Global High School Stem Athletes Who Competed To Qualify For First® International Robotics Championship - Florida A&M University](https://news.famu.edu/2025/famu-hosted-global-high-school-stem-athletes-who-competed-to-qualify-for-first-international-robotics-championship.php)**
 
-Times Union • 7h ago
+Florida A&M University - FAMU • 16m ago
+
+---
+
+**[Accenture: Investment In General Robotics To Advance Physical Robotics In Manufacturing And Logistics](https://pulse2.com/accenture-investment-in-general-robotics-to-advance-physical-robotics-in-manufacturing-and-logistics/)**
+
+Accenture has announced an investment in General Robotics through Accenture Ventures, alongside a strategic partnership to accelerate the adoption of physical AI-powered robotics across manufacturing, logistics, and other asset-intensive industries.
+
+Pulse 2.0 • 49m ago
 
 ---
 
@@ -144,21 +154,21 @@ Times Union • 7h ago
 
 A local high school robotics team is making its mark on the national stage for a second year in a row.
 
-WRGB • 2h ago
+WRGB • 3h ago
 
 ---
 
-**[One Incident Away](https://futuristspeaker.com/business-trends/one-incident-away/)**
+**[A Geneva Convention for Robots](https://futuristspeaker.com/artificial-intelligence/a-geneva-convention-for-robots/)**
 
-Two robots, same tech—one cares, one confronts. When they share origins, the industry faces a paradox it hasn’t yet acknowledged or resolved. Trust in robots will not be built incrementally. But it can be destroyed in a single afternoon. By Futurist Thomas Frey Part 3 of 4: The Military Paradox Nobody Will Discuss Let me […]
+In 1864, nations set rules before catastrophe. Robotics needs the same—clear, enforceable lines between care and harm, defined before the consequences force it. The world didn’t wait for weapons manufacturers to self-regulate warfare. It built a treaty. We need the same architecture here. By Futurist Thomas Frey Part 4 of 4: The Framework We Have […]
 
-Futurist Speaker • 4h ago
+Futurist Speaker • 52m ago
 
 ---
 
-**[AI and robotics will aid, not end, human space exploration](https://thehill.com/opinion/technology/5836884-human-spaceflight-debate-ai-robots/)**
+**[Photos: Students show off engineering skills at robotics competition](https://www.timesunion.com/news/article/photos-school-robotics-teams-face-competition-22213793.php)**
 
-The Hill • 4h ago
+Times Union • 9h ago
 
 ---
 
@@ -170,18 +180,9 @@ Google DeepMind • 5d ago
 
 ---
 
-**[How Booz Allen’s Maritime Robotics and Cyber Expansion Will Impact Booz Allen Hamilton Holding (BAH) Investors](https://simplywall.st/stocks/us/commercial-services/nyse-bah/booz-allen-hamilton-holding/news/how-booz-allens-maritime-robotics-and-cyber-expansion-will-i)**
+**[AI and robotics will aid, not end, human space exploration](https://thehill.com/opinion/technology/5836884-human-spaceflight-debate-ai-robots/)**
 
-Booz Allen Hamilton’s venture arm has recently invested in maritime robotics firm Ulysses and space technology company Portal Space Systems, while the parent company has completed its acquisition of cybersecurity provider Defy Security to expand its technology-enabled solutions portfolio.
-This combination of maritime autonomy, space operations, and advanced cyber capabilities marks Booz Allen’s first move into maritime investments and further broadens its robotics and autonomy footprint...
-
-simplywall.st • 5h ago
-
----
-
-**[TVA offering up to $5,000 for school robotics programs](https://wreg.com/news/tva-offering-up-to-5000-for-school-robotics-programs/)**
-
-WREG.com • 17h ago
+The Hill • 5h ago
 
 ---
 
@@ -195,7 +196,7 @@ Humanoid robots have beaten human runners in a Beijing half-marathon, marking a 
 
 📺 Al Jazeera English
 
-👁️ 135K • 👍 2K • 💬 533 • ⏱️ 2:13 • 7h ago
+👁️ 135K • 👍 2K • 💬 533 • ⏱️ 2:13 • 9h ago
 
 ---
 
@@ -225,7 +226,7 @@ Robots have outpaced human runners at this year's Beijing half-marathon, finishi
 
 📺 New York Post
 
-👁️ 6K • 👍 113 • 💬 106 • ⏱️ 3:17 • 3h ago
+👁️ 6K • 👍 113 • 💬 106 • ⏱️ 3:17 • 4h ago
 
 ---
 
@@ -245,7 +246,7 @@ Dozens of Chinese-made humanoid robots showed off their fast-improving athletici
 
 📺 Guardian News
 
-👁️ 39K • 👍 124 • 💬 66 • ⏱️ 0:37 • 6h ago
+👁️ 39K • 👍 124 • 💬 66 • ⏱️ 0:37 • 8h ago
 
 ---
 
@@ -265,7 +266,7 @@ Dozens of humanoid robots competed alongside human runners in the Beijing half m
 
 📺 DRM News
 
-👁️ 18K • 👍 279 • 💬 66 • ⏱️ 8:15 • 10h ago
+👁️ 18K • 👍 279 • 💬 66 • ⏱️ 8:15 • 11h ago
 
 ---
 
@@ -275,7 +276,7 @@ Robot 'Lightning' wins Beijing E-Town humanoid robot half-marathon Honor's human
 
 📺 The Manila Times
 
-👁️ 13K • 👍 83 • 💬 20 • ⏱️ 2:09 • 10h ago
+👁️ 13K • 👍 83 • 💬 20 • ⏱️ 2:09 • 11h ago
 
 ---
 
