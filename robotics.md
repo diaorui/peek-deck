@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-19T20:50:41.751985+00:00'
+updated: '2026-04-19T21:37:14.980802+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 19, 2026 at 20:50 UTC  
+**Last Updated:** April 19, 2026 at 21:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From 小互 on 𝕏: "Feels a bit like F1": https://x.com/xiaohu/status/2045786816213815411
 
-9h ago
+10h ago
 
 ---
 
@@ -44,13 +44,13 @@ From 小互 on 𝕏: "Feels a bit like F1": https://x.com/xiaohu/status/20457868
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2045678855638405436 https://x.com/XRoboHub/status/2045695900434276501
 
-17h ago
+18h ago
 
 ---
 
 **[Everyone saw the Honour robot win… but nobody noticed what it did right after](https://www.reddit.com/r/robotics/comments/1spy9lg/everyone_saw_the_honour_robot_win_but_nobody/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -58,7 +58,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2045678855638405436 http
 
 Robotis just revealed their new QDD actuators and their new open source humanoid robot. This robot very closely resembles Unitree G1, but it is totally open source in both hardware and software. I heard that the pricing will be competitive as well.
 
-🔗 [LinkedIn](https://www.linkedin.com/posts/yoonseokpyo_this-is-robotiss-open-source-entry-level-activity-7451595734975557632-eLLl/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEP9kBABMMZZVzJTJhId4-134XyBuXENZws) • 6h ago
+🔗 [LinkedIn](https://www.linkedin.com/posts/yoonseokpyo_this-is-robotiss-open-source-entry-level-activity-7451595734975557632-eLLl/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEP9kBABMMZZVzJTJhId4-134XyBuXENZws) • 7h ago
 
 ---
 
@@ -66,7 +66,7 @@ Robotis just revealed their new QDD actuators and their new open source humanoid
 
 Ali Kashani, founder and CEO of Serve Robotics and former head of robotics at Postmates X, has spent years deploying autonomous delivery robots in active urban environments. He mentions systems built only in controlled settings are based on assumptions. Once robots operate in public, those assumptions are tested immediately. People behave unpredictably, environments change, and situations come up that were never accounted for during development. Those conditions shape what actually needs to be solved. They expose gaps that do not appear in lab testing and force teams to prioritize what matters in real use.
 
-35m ago
+1h ago
 
 ---
 
@@ -74,7 +74,7 @@ Ali Kashani, founder and CEO of Serve Robotics and former head of robotics at Po
 
 A research team in South Korea created an artificial muscle that can be reshaped during use, recover after damage, and even have part of its material reused in another device.
 
-🔗 [The Brighter Side of News](http://thebrighterside.news/post/reprogrammable-artificial-muscle-can-change-its-shape-recover-from-damage-and-even-be-reused) • 1h ago
+🔗 [The Brighter Side of News](http://thebrighterside.news/post/reprogrammable-artificial-muscle-can-change-its-shape-recover-from-damage-and-even-be-reused) • 2h ago
 
 ---
 
@@ -82,7 +82,7 @@ A research team in South Korea created an artificial muscle that can be reshaped
 
 This involves a lot of robotics. There is a 5, 2 way solenoid (two of them), two 30mm, 300 long stroke pistons. At first it didn’t work, so i had to increase the pressure enjoy My name’s Isaias
 
-🔗 [youtu.be](https://youtu.be/fueecSb5VqM?si=yWExQK2DQN-n0SCo) • 6h ago
+🔗 [youtu.be](https://youtu.be/fueecSb5VqM?si=yWExQK2DQN-n0SCo) • 7h ago
 
 ---
 
@@ -90,7 +90,7 @@ This involves a lot of robotics. There is a 5, 2 way solenoid (two of them), two
 
 https://www.youtube.com/watch?v=G2hwzWDg8Js In the past, most grasping implementations in MuJoCo started from the question of how to control the robot arm. You first obtain the object's position, then manually implement inverse kinematics, trajectory planning, and gripper control, ultimately turning a simple task like "pick up the cube on the table" into a long sequence of joint angles and control commands. But I wanted to test something else: What would happen if I stopped telling the AI exactly how each joint should move, and instead only gave it a skill? For example, I only tell it to: * Find the cube on the table * Move the robot arm above the cube * Pick it up Everything else is left to the AI. Based on the current scene state, it understands the goal, breaks it down into steps, and generates the corresponding grasping actions. Perhaps in the future, what we maintain for robot applications will no longer be a large amount of control code, but instead a set of skills that AI can understand, compose, and execute.
 
-7h ago
+8h ago
 
 ---
 
@@ -98,13 +98,13 @@ https://www.youtube.com/watch?v=G2hwzWDg8Js In the past, most grasping implement
 
 Hey everyone I recently did some research on VLA (Vision-Language-Action) models, and I decided to write a beginner-friendly article to help myself (and others) understand it better. I’d really appreciate your feedback, suggestions, or anything you think I should add or improve. If there are mistakes or missing parts, feel free to point them out too. Thanks a lot for your time
 
-🔗 [Medium](https://medium.com/@imashanilupul/understanding-vision-language-action-vla-models-240ee628e6d4) • 2h ago
+🔗 [Medium](https://medium.com/@imashanilupul/understanding-vision-language-action-vla-models-240ee628e6d4) • 3h ago
 
 ---
 
 **[PRL in Boston’s Seaport did not disappoint](https://www.reddit.com/r/robotics/comments/1spyx50/prl_in_bostons_seaport_did_not_disappoint/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -132,13 +132,13 @@ Financial Times • 1d ago
 
 A recent demo shows Boston Dynamics Spot in a residential home, using Google’s visual-language model (VLM) Gemini Robotics-ER 1.5 for embodied reasoning.
 
-Boston Dynamics • 2h ago
+Boston Dynamics • 3h ago
 
 ---
 
 **[FAMU Hosted Global High School Stem Athletes Who Competed To Qualify For First® International Robotics Championship - Florida A&M University](https://news.famu.edu/2025/famu-hosted-global-high-school-stem-athletes-who-competed-to-qualify-for-first-international-robotics-championship.php)**
 
-Florida A&M University - FAMU • 1h ago
+Florida A&M University - FAMU • 2h ago
 
 ---
 
@@ -146,7 +146,7 @@ Florida A&M University - FAMU • 1h ago
 
 Accenture has announced an investment in General Robotics through Accenture Ventures, alongside a strategic partnership to accelerate the adoption of physical AI-powered robotics across manufacturing, logistics, and other asset-intensive industries.
 
-Pulse 2.0 • 2h ago
+Pulse 2.0 • 3h ago
 
 ---
 
@@ -154,7 +154,7 @@ Pulse 2.0 • 2h ago
 
 A local high school robotics team is making its mark on the national stage for a second year in a row.
 
-WRGB • 13m ago
+WRGB • 59m ago
 
 ---
 
@@ -162,7 +162,7 @@ WRGB • 13m ago
 
 Santa Barbara County–based Octobots Robotics won second place at the FIRST Robotics Southern California State Championship in Anaheim
 
-edhat • 2h ago
+edhat • 3h ago
 
 ---
 
@@ -170,13 +170,13 @@ edhat • 2h ago
 
 In 1864, nations set rules before catastrophe. Robotics needs the same—clear, enforceable lines between care and harm, defined before the consequences force it. The world didn’t wait for weapons manufacturers to self-regulate warfare. It built a treaty. We need the same architecture here. By Futurist Thomas Frey Part 4 of 4: The Framework We Have […]
 
-Futurist Speaker • 2h ago
+Futurist Speaker • 3h ago
 
 ---
 
 **[Photos: Students show off engineering skills at robotics competition](https://www.timesunion.com/news/article/photos-school-robotics-teams-face-competition-22213793.php)**
 
-Times Union • 10h ago
+Times Union • 11h ago
 
 ---
 
@@ -198,7 +198,7 @@ Humanoid robots have beaten human runners in a Beijing half-marathon, marking a 
 
 📺 Al Jazeera English
 
-👁️ 193K • 👍 2K • 💬 644 • ⏱️ 2:13 • 10h ago
+👁️ 193K • 👍 2K • 💬 644 • ⏱️ 2:13 • 11h ago
 
 ---
 
@@ -248,7 +248,7 @@ Robots have outpaced human runners at this year's Beijing half-marathon, finishi
 
 📺 New York Post
 
-👁️ 11K • 👍 218 • 💬 157 • ⏱️ 3:17 • 5h ago
+👁️ 11K • 👍 218 • 💬 157 • ⏱️ 3:17 • 6h ago
 
 ---
 
@@ -268,7 +268,7 @@ Dozens of Chinese-made humanoid robots showed off their fast-improving athletici
 
 📺 Guardian News
 
-👁️ 50K • 👍 139 • 💬 67 • ⏱️ 0:37 • 9h ago
+👁️ 50K • 👍 139 • 💬 67 • ⏱️ 0:37 • 10h ago
 
 ---
 
@@ -278,7 +278,7 @@ Unique Tensioned Belt Deployed Intake | 3506 YETI Robotics | REBUILT Pit Stop Th
 
 📺 FUN Robotics Network
 
-👁️ 776 • 👍 30 • ⏱️ 1:28 • 2h ago
+👁️ 776 • 👍 30 • ⏱️ 1:28 • 3h ago
 
 ---
 

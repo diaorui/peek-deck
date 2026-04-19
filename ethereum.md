@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-19T20:50:41.749794+00:00'
+updated: '2026-04-19T21:37:14.977972+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - social
 - news
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 19, 2026 at 20:50 UTC  
+**Last Updated:** April 19, 2026 at 21:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The Kelp DAO exploit that drained $292 million and froze Aave was preventable. A developer posted on the Aave governance forum in January 2025 that Kelp's single-validator bridge security was the weakest configuration LayerZero allows. Kelp never added the second validator. On Saturday, an attacker used that exact vulnerability.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/kelp-dao-292-million-hack-warning-ignored-layerzero/) • 11h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/kelp-dao-292-million-hack-warning-ignored-layerzero/) • 12h ago
 
 ---
 
@@ -88,7 +88,7 @@ The Kelp DAO exploit that drained $292 million and froze Aave was preventable. A
 
 Feels kinda bigger than a normal crypto meetup tbh Ethereum getting a real physical hub in Hong Kong with Foundation backing sounds like a sign the ecosystem is trying to build something more lasting than just online hype and conference cycles Hong Kong is also a pretty smart place for it if the goal is to connect builders, institutions and actual adoption in Asia Do you guys think this stuff actually matters for Ethereum long term, or is it mostly optics? https://btcusa.com/ethereum-foundation-backs-asias-first-physical-ethereum-hub-in-hong-kong-as-institutional-web3-race-intensifies/
 
-11h ago
+12h ago
 
 ---
 
@@ -100,7 +100,7 @@ Feels kinda bigger than a normal crypto meetup tbh Ethereum getting a real physi
 
 **[Open-sourced a multi-agent contract audit skill for Claude Code](https://www.reddit.com/r/ethereum/comments/1spodq7/opensourced_a_multiagent_contract_audit_skill_for/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -168,7 +168,7 @@ Crypto investors have watched Ethereum (CRYPTO:ETH) trade in a narrow range near
 
 Ethereum is flashing a combination of technical and on-chain signals that analysts say could be the beginning of a meaningful recovery. For the first time in months, the structure of Ethereum’s price action appears to be shifting in the favor of bulls.The latest price action has brought the ETH pri…
 
-TradingView • 2h ago
+TradingView • 3h ago
 
 ---
 
@@ -176,7 +176,7 @@ TradingView • 2h ago
 
 Ethereum (CRYPTO: ETH) is trading around $2,350 after one of its worst quarters in years. ETH dipped by 32% in Q1, marking its third-worst first quarter since 2016. Despite the awful first quarter, Ethereum’s on-chain activity keeps hitting record highs in 2026, and ETH is up 6% over the past week. Looking at the long ... Ethereum Price Prediction: How Much Will 1 ETH Be Worth by 2030?
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -184,7 +184,7 @@ Yahoo Finance • 2h ago
 
 The Ketman Project, operating under the Ethereum Foundation's ETH Rangers security program, has in the latest Ethereum news, identified approximately 100 North Korea Crypto IT operatives embedded inside Web3 companies using fabricated identities, the result of a six-month investigation that ended with one of the most detailed public tallies of ...
 
-Yahoo Finance • 27m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -238,7 +238,7 @@ Its a video about bitcoin, ethereum, crypto in general. But its quite an unusual
 
 📺 Thomas Kralow
 
-👁️ 12K • 👍 2K • 💬 64 • ⏱️ 7:52 • 11h ago
+👁️ 12K • 👍 2K • 💬 64 • ⏱️ 7:52 • 12h ago
 
 ---
 
@@ -248,7 +248,7 @@ Welcome back for another daily market update as always this will be a jam packed
 
 📺 AllinCrypto
 
-👁️ 11K • 👍 671 • 💬 268 • ⏱️ 19:21 • 8h ago
+👁️ 11K • 👍 671 • 💬 268 • ⏱️ 19:21 • 9h ago
 
 ---
 
@@ -268,7 +268,7 @@ En este video analizamos a fondo la batalla real entre XRP Ledger y Ethereum por
 
 📺 CriptoBernie
 
-👁️ 180 • 👍 37 • 💬 3 • ⏱️ 10:14 • 50m ago
+👁️ 180 • 👍 37 • 💬 3 • ⏱️ 10:14 • 1h ago
 
 ---
 
@@ -288,7 +288,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 717 • 👍 71 • ⏱️ 5:07 • 6h ago
+👁️ 717 • 👍 71 • ⏱️ 5:07 • 7h ago
 
 ---
 
@@ -308,7 +308,7 @@ http://www.x10daytrading.com/?video=d0a2Q-odIWM TRADE TO $1M WHILE WORKING 9 TO 
 
 📺 Wolf Of Dubai 2 - X10 DAY TRADING
 
-👁️ 1K • 👍 57 • 💬 5 • ⏱️ 9:31 • 20h ago
+👁️ 1K • 👍 57 • 💬 5 • ⏱️ 9:31 • 21h ago
 
 ---
 

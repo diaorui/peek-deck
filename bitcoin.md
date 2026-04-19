@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-19T20:50:41.745748+00:00'
+updated: '2026-04-19T21:37:14.972744+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - social
 - news
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 19, 2026 at 20:50 UTC  
+**Last Updated:** April 19, 2026 at 21:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,13 +81,13 @@ Rank #1
 
 Finally was able to own exactly 0.5 BTC. I started the hole process more than 5 years ago…. Many times i thought the train to reach this goal Is gone but I made it. Let’s see where this journey takes me. ATM I have around 0.1 on my trezor. The rest I’ll move the asap there… Let’s see where this journey takes us
 
-9h ago
+10h ago
 
 ---
 
 **[Patience, young Padawan](https://www.reddit.com/r/Bitcoin/comments/1sq3gbl/patience_young_padawan/)**
 
-48m ago
+1h ago
 
 ---
 
@@ -103,7 +103,7 @@ Happy stacking guys, don’t worry about short term pricing. Edit: Don’t worry
 
 Trust me, it works. Once you self custody, run a node, you dont even want to move it back and forth to exchange to sell or else until its due (4 years +) or whatever. When you let it sit on the exchange, the gambling skibidi trying to time and beat the market will be always there teasing you. But again, only those who know.
 
-8h ago
+9h ago
 
 ---
 
@@ -111,7 +111,7 @@ Trust me, it works. Once you self custody, run a node, you dont even want to mov
 
 https://preview.redd.it/0h8gnpe5g5wg1.png?width=630&format=png&auto=webp&s=6a131646156fa67ad9cf979bef8f7036b24feacb Your future self will thank your present self. 🧡
 
-7h ago
+8h ago
 
 ---
 
@@ -127,7 +127,7 @@ Update: I took your feedback seriously and built physical prototypes. Original P
 
 I’m having a serious issue with NC Wallet. I initiated a BTC withdrawal more than 48 hours ago, and it is still showing “pending” with no TxID at all. This means the transaction has NOT been broadcast to the Bitcoin network yet. No network fee (they claim free withdrawals) No TxID No support response No email received Funds are stuck inside the wallet I’ve already: Contacted support multiple times Posted reviews on App Store and Trustpilot No response so far. Has anyone experienced this with NC Wallet before? Is there any way to force them to process or cancel the withdrawal? Any help would be appreciated
 
-12h ago
+13h ago
 
 ---
 
@@ -135,7 +135,7 @@ I’m having a serious issue with NC Wallet. I initiated a BTC withdrawal more t
 
 I keeep my seed phrase engraved between two metal plates. If I move to another country, is it possible that they see my seedphrase during Roentgen in the security area?
 
-17m ago
+1h ago
 
 ---
 
@@ -171,7 +171,7 @@ CoinDesk • 1d ago
 
 Keep an eye out for this pattern, and it could make you a stronger investor.
 
-The Motley Fool • 11h ago
+The Motley Fool • 12h ago
 
 ---
 
@@ -179,7 +179,7 @@ The Motley Fool • 11h ago
 
 You may want to consider these 3 scenarios if you're thinking about buying Bitcoin today.
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -187,7 +187,7 @@ Yahoo Finance • 10h ago
 
 Likely built on prior work on a 3D printing Bitcoin miner prototype.
 
-Tom's Hardware • 8h ago
+Tom's Hardware • 9h ago
 
 ---
 
@@ -215,7 +215,7 @@ Forbes • 2d ago
 
 **[Bitcoin dips as Iran conflict stokes broader crypto market volatility](https://www.investing.com/news/cryptocurrency-news/bitcoin-dips-as-iran-conflict-stokes-broader-crypto-market-volatility-4622210)**
 
-Investing.com • 10h ago
+Investing.com • 11h ago
 
 ---
 
@@ -223,7 +223,7 @@ Investing.com • 10h ago
 
 Bitcoin (BTC) sought to protect $75,000 into Sunday’s weekly close as crypto surfed fresh uncertainty over the US-Iran war.Key points:Bitcoin abandons highs as US-Iran war fears returnData from TradingView showed BTC price pressure reentering after a trip to ten-week highs of $78,400 on Friday.Mixe…
 
-TradingView • 8h ago
+TradingView • 9h ago
 
 ---
 
@@ -239,7 +239,7 @@ Forbes • 1d ago
 
 **[Show HN: Using Ramanujan's Pi Series for Bitcoin Security on Nvidia B200](https://news.ycombinator.com/item?id=47823382)**
 
-⬆️ 4 • 💬 1 • 9h ago • [zenodo.org](https://zenodo.org/records/19650883)
+⬆️ 4 • 💬 1 • 10h ago • [zenodo.org](https://zenodo.org/records/19650883)
 
 ---
 
@@ -311,7 +311,7 @@ A new and powerful signal has just triggered on the chart of bitcoin, according 
 
 📺 Alessio Rastani
 
-👁️ 20K • 👍 2K • 💬 313 • ⏱️ 13:09 • 7h ago
+👁️ 20K • 👍 2K • 💬 313 • ⏱️ 13:09 • 8h ago
 
 ---
 
@@ -321,7 +321,7 @@ IT'S RIGGED! Buckle Up' Bitcoin & Crypto Holders ⭐ Follow Altcoin Daily on X: 
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 140 • ⏱️ 11:59 • 22h ago
+👁️ 38K • 👍 2K • 💬 140 • ⏱️ 11:59 • 23h ago
 
 ---
 
@@ -379,7 +379,7 @@ Are you ready? CRYPTO RETIREMENT ACCOUNT HERE Sign up for iTrustCapital and get 
 
 📺 EvilTwinSkippy
 
-👁️ 1K • 👍 36 • ⏱️ 0:51 • 3h ago
+👁️ 1K • 👍 36 • ⏱️ 0:51 • 4h ago
 
 ---
 
