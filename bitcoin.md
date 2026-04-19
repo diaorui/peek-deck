@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-19T02:46:58.658204+00:00'
+updated: '2026-04-19T05:30:18.405202+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
+- news
 - social
 - videos
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 19, 2026 at 02:46 UTC  
+**Last Updated:** April 19, 2026 at 05:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.7%  
-**7d:** +1.6%  
-**30d:** +10.1%  
-**90d:** -14.4%  
-**1y:** -11.1%  
+**24h:** -2.0%  
+**7d:** +1.4%  
+**30d:** +9.9%  
+**90d:** -14.5%  
+**1y:** -11.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1513.99B
+**Market Cap:** $1512.82B
 Rank #1
 
-**Circulating Supply:** 20,017,787 BTC
+**Circulating Supply:** 20,017,871 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--40.0%
+-40.1%
 
 **All-Time Low:** $67.81
-+111498.6%
++111348.2%
 
 ---
 
@@ -77,25 +77,25 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[The duality of man](https://www.reddit.com/r/Bitcoin/comments/1sp2tqn/the_duality_of_man/)**
-
-I have a group of friends that watched me make a ton of money during the 2016-2017 crypto market and asked me to tell them the next time I believed was a good time to buy (surprise, it’s almost always a good time to buy) so whenever it became a bear market, I would shoot the group chat a message and let them know it’s a good time to buy. I would get mocking responses like “Oh yeah I bet it’s a good time to buy, it’s down 10%”. They would even message me the next day when it’s down 11% and say things like “ooh it’s even lower now, I guess today’s a good day to buy too” And then the bull market comes and my group chat is peppered with angry messages about how they missed the bull run and how I didn’t tell them it’s coming. Messages like “you gotta tell me the next time it’s good to buy!” I quickly learnt that there are just some things people can’t be taught, they have to learn it themselves. Moral of the story, don’t tell people you’re into crypto and don’t tell people you made gains, regardless of who they are, in the end it’s just a headache for you.
-
-9h ago
-
----
-
 **[When BTC starts pumping, it will not give you a chance to get in](https://www.reddit.com/r/Bitcoin/comments/1sozszo/when_btc_starts_pumping_it_will_not_give_you_a/)**
 
 I was greedy in 2022 during the crash and wanted to wait for 12k to buy. 12k never came. After BTC teleported from 15k to 30k, I wanted a deep dip to 20k to buy. 20k never came. Then I watched BTC teleport from 25k to 70k without a single down month. Zero dips given. Then the 50k dip came but got bought up by the market instantly, the window to buy was extremely shortlived and I couldn't get in. Then BTC proceeded to teleport from 50k to 110k in just a few weeks and I basically missed the whole cycle. I have a feeling the same people waiting for 40k-50k now will go through what I went through and watch as BTC teleports to 500k (or whatever the next top is) without a single major dip.
 
-11h ago
+14h ago
+
+---
+
+**[The duality of man](https://www.reddit.com/r/Bitcoin/comments/1sp2tqn/the_duality_of_man/)**
+
+I have a group of friends that watched me make a ton of money during the 2016-2017 crypto market and asked me to tell them the next time I believed was a good time to buy (surprise, it’s almost always a good time to buy) so whenever it became a bear market, I would shoot the group chat a message and let them know it’s a good time to buy. I would get mocking responses like “Oh yeah I bet it’s a good time to buy, it’s down 10%”. They would even message me the next day when it’s down 11% and say things like “ooh it’s even lower now, I guess today’s a good day to buy too” And then the bull market comes and my group chat is peppered with angry messages about how they missed the bull run and how I didn’t tell them it’s coming. Messages like “you gotta tell me the next time it’s good to buy!” I quickly learnt that there are just some things people can’t be taught, they have to learn it themselves. Moral of the story, don’t tell people you’re into crypto and don’t tell people you made gains, regardless of who they are, in the end it’s just a headache for you.
+
+12h ago
 
 ---
 
 **[NBA Coach Regrets Not Buying Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1spao0u/nba_coach_regrets_not_buying_bitcoin/)**
 
-4h ago
+7h ago
 
 ---
 
@@ -103,7 +103,7 @@ I was greedy in 2022 during the crash and wanted to wait for 12k to buy. 12k nev
 
 You might not want to add how long you've been in but I will. 4 years. Sold .05 BTC. Regret? Yes. But I've recouped it since then so I don't consider it that big of a deal.
 
-3h ago
+6h ago
 
 ---
 
@@ -115,7 +115,7 @@ You might not want to add how long you've been in but I will. 4 years. Sold .05 
 
 **[Do the maths!!](https://www.reddit.com/r/Bitcoin/comments/1sosymz/do_the_maths/)**
 
-17h ago
+20h ago
 
 ---
 
@@ -123,7 +123,15 @@ You might not want to add how long you've been in but I will. 4 years. Sold .05 
 
 Central bank greenlights regulated crypto access while keeping strict curbs on balance-sheet exposure
 
-🔗 [coindesk.com](https://www.coindesk.com/policy/2026/04/15/pakistan-lifts-seven-year-ban-allowing-banks-to-service-virtual-asset-providers) • 15h ago
+🔗 [coindesk.com](https://www.coindesk.com/policy/2026/04/15/pakistan-lifts-seven-year-ban-allowing-banks-to-service-virtual-asset-providers) • 18h ago
+
+---
+
+**[How to Bitcoin properly](https://www.reddit.com/r/Bitcoin/comments/1spfp1c/how_to_bitcoin_properly/)**
+
+Have enough to buy, to spare, to live, sit back relax hold for 4years+ with self custody, run nodes, don't gamble your skibidi and rock on! easy as it is.
+
+3h ago
 
 ---
 
@@ -131,23 +139,15 @@ Central bank greenlights regulated crypto access while keeping strict curbs on b
 
 Genuinely so happy to be done, I’ve reached my goal amount of btc to feel comfortable. I won’t lie, I make minimum wage for LA standard and ima stop buying and let it ride. Could hypothetically keep buying more but I truly have the next goal of getting 10k in fiat in my HYSA before touching any market. Sold all my stock to get to my goal and don’t regret it. Letting it ride and won’t open my wallets till I reach my saving goal. Thank you for all your help and advice, never been prouder.
 
-14h ago
+17h ago
 
 ---
 
-**[How to Bitcoin properly](https://www.reddit.com/r/Bitcoin/comments/1spfp1c/how_to_bitcoin_properly/)**
+**[Recommended non kyc exchanges?](https://www.reddit.com/r/Bitcoin/comments/1sp7q9a/recommended_non_kyc_exchanges/)**
 
-Have enough to buy, to spare, to live, sit back relax hold for 4years+, don't gamble your skibidi and rock on! easy as it is.
+Been out of the game for a few years. Getting back in and privacy still matters to me not hiding anything, just don't like handing over personal data. Are there any reliable non-KYC exchanges that work well ? Just looking for something simple to get started again. Thanks.
 
-1h ago
-
----
-
-**[Let's FCKN Go](https://www.reddit.com/r/Bitcoin/comments/1sogycs/lets_fckn_go/)**
-
-I'm so long.
-
-1d ago
+9h ago
 
 ---
 
@@ -157,7 +157,7 @@ I'm so long.
 
 **[‘Buy Bitcoin’—Elon Musk’s ‘Massive’ U.S. Dollar Warning Fuels Wild Crypto Price Predictions](https://www.forbes.com/sites/digital-assets/2026/04/18/buy-bitcoin-elon-musks-massive-us-dollar-warning-fuels-wild-crypto-price-predictions/)**
 
-Forbes • 15h ago
+Forbes • 18h ago
 
 ---
 
@@ -169,33 +169,27 @@ The Block • 1d ago
 
 ---
 
-**['Fix The Money': Michael Saylor Shares Endgame For Strategy's Bitcoin-Backed Credit Instruments](https://finance.yahoo.com/markets/crypto/articles/fix-money-michael-saylor-shares-010124912.html)**
+**[Can a $1,000 Investment in Bitcoin Turn Into $1 Million By 2045?](https://www.fool.com/investing/2026/04/19/can-a-1000-investment-in-bitcoin-turn-into-1-milli/)**
 
-Strategy’s (NASDAQ:MSTR) goal is to create a product that allows people to earn above the inflation rate with their bank accounts, Chair Michael Saylor says. "Fix money, fix the world," Saylor on the "Bankless" podcast released Monday. "We have a...
+This asset's reputation for climbing over time can only take a single investment so far.
 
-Yahoo Finance • 1h ago
-
----
-
-**[Bitcoin Had a Great Week. Crypto-Linked Stocks Did Even Better](https://www.investopedia.com/bitcoin-had-a-great-week-crypto-linked-stocks-did-even-better-mstr-hood-coin-11952864)**
-
-The price of the world's largest cryptocurrency rose almost 10% this week, but stocks including Strategy, Coinbase, and Robinhood outpaced those gains amid the risk-on rally.
-
-Investopedia • 1d ago
+The Motley Fool • 39m ago
 
 ---
 
-**[Bitcoin’s Greatest Mystery](https://www.nytimes.com/2026/04/16/world/bitcoin-satoshi-adam-back-israel-lebanon-ceasefire.html)**
+**[Rep. Sheri Biggs Discloses $250,000 Bitcoin ETF Buy Amid Reserve Bill Push](https://finance.yahoo.com/markets/crypto/articles/rep-sheri-biggs-discloses-250-222700478.html)**
 
-The New York Times • 2d ago
+Rep. Sheri Biggs disclosed a $250,000 IBIT BlackRock BTC ETF buy as the Senate weighs a Strategic Bitcoin Reserve bill.
+
+Yahoo Finance • 1d ago
 
 ---
 
-**[Charles Schwab to launch direct bitcoin, ether trading to compete with Robinhood](https://www.cnbc.com/2026/04/16/charles-schwab-to-launch-direct-bitcoin-ethereum-trading-to-compete-with-robinhood.html)**
+**[Bitcoin falls back to $76,000 as Iran shuts Hormuz again](https://www.coindesk.com/markets/2026/04/18/bearish-bets-lose-usd593-million-as-bitcoin-jumps-with-iran-fully-opening-hormuz)**
 
-Charles Schwab is rolling out crypto trading, allowing clients to buy bitcoin and ether through a new arm called Schwab Crypto.
+One of the biggest short liquidations 2026 wiped $593 million in bearish bets overnight. Saturday afternoon as Iran reportedly reversed the Hormuz reopening.
 
-CNBC • 2d ago
+CoinDesk • 12h ago
 
 ---
 
@@ -207,9 +201,11 @@ Fortune • 1d ago
 
 ---
 
-**[Bitcoin Price Surges Amid Epic Strategy Buying Spree](https://www.investors.com/news/bitcoin-price-strategy-buying-power-mstr-stock-strc-issuance-saylor/)**
+**[The O.C. Guy Says Bitcoin Is ‘Still a Ponzi Scheme’](https://nymag.com/intelligencer/article/the-ocs-ben-mckenzie-says-bitcoin-is-lying-to-you-for-money.html)**
 
-Investor's Business Daily • 1d ago
+“Not only gotten away with it, they’ve made a ton of money,” says actor Ben McKenzie, whose doc explores crypto’s crash and Trump-fueled rise.
+
+New York Magazine • 1d ago
 
 ---
 
@@ -217,15 +213,21 @@ Investor's Business Daily • 1d ago
 
 Strategy aim to reduce volatility, enable consistent bitcoin buying, and create the only bi-monthly paying preferred shares in the market.
 
-CoinDesk • 6h ago
+CoinDesk • 9h ago
 
 ---
 
-**[How Michael Saylor's Strategy is shaping bitcoin's price landscape](https://finance.yahoo.com/video/how-michael-saylors-strategy-is-shaping-bitcoins-price-landscape-210842819.html)**
+**[Charles Schwab to launch direct bitcoin, ether trading to compete with Robinhood](https://www.cnbc.com/2026/04/16/charles-schwab-to-launch-direct-bitcoin-ethereum-trading-to-compete-with-robinhood.html)**
 
-Scott Melker, the host of "The Wolf of All Streets" podcast, sits down with Yahoo Finance anchor Josh Lipton to discuss the impacts of Strategy's (MSTR) most recent bitcoin (BTC-USD) purchase. "The Daily Wolf with Scott Melker" premieres on Yahoo Finance on Monday, Apr. 20 at 12:00 p.m. Tune in every day for your daily dose of all things crypto. Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
+Charles Schwab is rolling out crypto trading, allowing clients to buy bitcoin and ether through a new arm called Schwab Crypto.
 
-Yahoo Finance • 1d ago
+CNBC • 2d ago
+
+---
+
+**[Bitcoin’s Greatest Mystery](https://www.nytimes.com/2026/04/16/world/bitcoin-satoshi-adam-back-israel-lebanon-ceasefire.html)**
+
+The New York Times • 2d ago
 
 ---
 
@@ -317,7 +319,7 @@ Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=Al
 
 📺 Altcoin Daily
 
-👁️ 46K • 👍 2K • 💬 233 • ⏱️ 8:39 • 1d ago
+👁️ 47K • 👍 2K • 💬 233 • ⏱️ 8:39 • 1d ago
 
 ---
 
@@ -327,17 +329,7 @@ Bitcoin just hit $78K and the signals are impossible to ignore. Institutions are
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 959 • 💬 138 • ⏱️ 12:49 • 10h ago
-
----
-
-**[All-Time High Stocks… Bitcoin About To Explode?](https://www.youtube.com/watch?v=SlPpXs_8WI4)**
-
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience. In this conversation, we break down ...
-
-📺 Anthony Pompliano
-
-👁️ 43K • 👍 2K • 💬 85 • ⏱️ 57:41 • 13h ago
+👁️ 14K • 👍 1K • 💬 167 • ⏱️ 12:49 • 13h ago
 
 ---
 
@@ -347,7 +339,7 @@ IT'S RIGGED! Buckle Up' Bitcoin & Crypto Holders ⭐ Follow Altcoin Daily on X: 
 
 📺 Altcoin Daily
 
-👁️ 12K • 👍 1K • 💬 75 • ⏱️ 11:59 • 4h ago
+👁️ 19K • 👍 1K • 💬 90 • ⏱️ 11:59 • 7h ago
 
 ---
 
@@ -357,7 +349,17 @@ Adam Back joins Cointelegraph at Paris Blockchain Week to discuss one of Bitcoin
 
 📺 Cointelegraph
 
-👁️ 33K • 👍 1K • 💬 121 • ⏱️ 31:34 • 1d ago
+👁️ 35K • 👍 1K • 💬 130 • ⏱️ 31:34 • 1d ago
+
+---
+
+**[All-Time High Stocks… Bitcoin About To Explode?](https://www.youtube.com/watch?v=SlPpXs_8WI4)**
+
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience. In this conversation, we break down ...
+
+📺 Anthony Pompliano
+
+👁️ 46K • 👍 2K • 💬 85 • ⏱️ 57:41 • 16h ago
 
 ---
 
@@ -371,43 +373,43 @@ A former Treasury Secretary warns the next crisis could be worse than 2008. Bond
 
 ---
 
-**[Clarity Rally Begins?🚀DEALS Reached!📈Crypto Market Update](https://www.youtube.com/watch?v=xM_aKT_cN14)**
-
-According to a new report from JPMorgan Chase, the much-anticipated CLARITY Act is nearing a significant breakthrough as ...
-
-📺 Paul Barron Network
-
-👁️ 109K • 👍 5K • 💬 271 • ⏱️ 13:57 • 1d ago
-
----
-
 **[BITCOIN MUST BREAK THIS LINE! BULL MARKET IF IT DOES! Bitcoin Technical Analysis 2026](https://www.youtube.com/watch?v=S-JOwVoyWyE)**
 
 Are you ready? CRYPTO RETIREMENT ACCOUNT HERE Sign up for iTrustCapital and get a $100 funding bonus after ...
 
 📺 Crypto Jebb
 
-👁️ 5K • 👍 264 • 💬 34 • ⏱️ 8:10 • 1d ago
+👁️ 5K • 👍 266 • 💬 34 • ⏱️ 8:10 • 1d ago
 
 ---
 
-**[Why Bitcoin Is Almost $80,000 Right Now](https://www.youtube.com/watch?v=s-ZvLM_p59k)**
+**[Bitcoin&#39;s PERFECT Bottom Indicator](https://www.youtube.com/watch?v=WPdY18glVig)**
 
-Sell Your FTX Claim w/ FTX Creditor: https://www.ftxcreditor.com Follow Louis on X: https://x.com/LouisOrigny Linqto Creditor: ...
+Did you know there is a simple bitcoin indicator that has called every bear market bottom for over a decade?. Not once, but every ...
 
-📺 Aaron Bennett
+📺 Discover Crypto
 
-👁️ 5K • 👍 262 • 💬 149 • ⏱️ 8:08 • 1d ago
+👁️ 6K • 👍 270 • 💬 25 • ⏱️ 5:32 • 16h ago
 
 ---
 
-**[BITCOIN WARNING: The Next TRAP Just Started!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=tnFuByG5Bl0)**
+**[Bitcoin History Is Repeating 👀](https://www.youtube.com/watch?v=p5IvqgGHkpE)**
 
-BITCOIN WARNING: The Next TRAP Just Started!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
+This is Unlike ANYTHING Crypto Has Seen Before (i got it wrong) Crypto Analyst Dennis Liu of Crypto Bacon interview ⭐ Follow ...
 
-📺 Crypto World
+📺 Altcoin Daily
 
-👁️ 5K • 👍 287 • 💬 57 • ⏱️ 19:52 • 7h ago
+👁️ 12K • 👍 277 • 💬 17 • ⏱️ 0:59 • 1d ago
+
+---
+
+**[Clarity Rally Begins?🚀DEALS Reached!📈Crypto Market Update](https://www.youtube.com/watch?v=xM_aKT_cN14)**
+
+According to a new report from JPMorgan Chase, the much-anticipated CLARITY Act is nearing a significant breakthrough as ...
+
+📺 Paul Barron Network
+
+👁️ 111K • 👍 5K • 💬 273 • ⏱️ 13:57 • 1d ago
 
 ---
 

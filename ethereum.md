@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-19T02:46:58.663470+00:00'
+updated: '2026-04-19T05:30:18.410496+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
+- news
 - social
 - videos
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 19, 2026 at 02:46 UTC  
+**Last Updated:** April 19, 2026 at 05:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,43 +36,51 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,342.57
+### $2,327.03
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.4%  
-**7d:** -1.0%  
-**30d:** +12.6%  
-**90d:** -20.2%  
-**1y:** +48.0%  
+**24h:** -3.2%  
+**7d:** -1.6%  
+**30d:** +11.9%  
+**90d:** -20.7%  
+**1y:** +47.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $282.98B
+**Market Cap:** $281.66B
 Rank #2
 
 **Circulating Supply:** 120,690,543 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--52.6%
+-52.8%
 
 **All-Time Low:** $0.43
-+541526.7%
++538907.7%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion April 19, 2026](https://www.reddit.com/r/ethereum/comments/1spjkzn/daily_general_discussion_april_19_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+29m ago
+
+---
+
 **[Daily General Discussion April 18, 2026](https://www.reddit.com/r/ethereum/comments/1soo7xp/daily_general_discussion_april_18_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-21h ago
+1d ago
 
 ---
 
@@ -80,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hello everyone. I recently built an Ethereum page that shows how Ethereum would look if investments never lost value and I’d love someone to look at the page and give me some honest feedback on it.
 
-11h ago
+13h ago
 
 ---
 
@@ -104,13 +112,7 @@ Is it feasible to build on layer 1 and completely get rid of layer 2?
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
-
----
-
-**[I think Coinbase is building a fantastic business with stablecoins, and I would love others' opinions and thoughts.](https://www.reddit.com/r/ethereum/comments/1so3od4/i_think_coinbase_is_building_a_fantastic_business/)**
-
-1d ago
+2d ago
 
 ---
 
@@ -130,19 +132,17 @@ Solidity developer survey results, ether.fi migrated to OP Mainnet, X $ETH casht
 
 ---
 
+**[I think Coinbase is building a fantastic business with stablecoins, and I would love others' opinions and thoughts.](https://www.reddit.com/r/ethereum/comments/1so3od4/i_think_coinbase_is_building_a_fantastic_business/)**
+
+1d ago
+
+---
+
 **[Daily General Discussion April 16, 2026](https://www.reddit.com/r/ethereum/comments/1smtw3t/daily_general_discussion_april_16_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2d ago
-
----
-
-**[Ep. 146 - Justin Ahn - quidli.xyz - The Daily Doots Podcast](https://www.reddit.com/r/ethereum/comments/1sn7qz6/ep_146_justin_ahn_quidlixyz_the_daily_doots/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtu.be](https://youtu.be/73hHq2ua1ts?si=fwxBRn1_pW7xDziX) • 2d ago
+3d ago
 
 ---
 
@@ -154,7 +154,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 In an interview with CoinDesk, the Ethereum co-founder spoke also about Ethereum’s evolution through MetaMask, stablecoins and tokenization, while downplaying quantum computing as a long-term, manageable issue.
 
-CoinDesk • 7h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -162,15 +162,7 @@ CoinDesk • 7h ago
 
 Crypto investors have watched Ethereum (CRYPTO:ETH) trade in a narrow range near $2,362 while Bitcoin hovers around $76,000 and institutional money quietly builds positions in digital assets. Adoption metrics keep climbing — stablecoins on Ethereum now handle trillions in annual volume, and layer-2 networks process thousands of transactions per second. Yet price action feels stuck. ... Why BitMine’s Tom Lee Sees Ethereum at $62,500 in 2030 — and What the Numbers Actually Show
 
-24/7 Wall St. • 14h ago
-
----
-
-**[Solana Has Processed More Transactions Than Ethereum -- Is It a Buy?](https://www.fool.com/investing/2026/04/18/with-hugetransaction-volume-is-solana-a-buy/)**
-
-Transaction volumes are one of many ways to see how well a cryptocurrency is performing.
-
-The Motley Fool • 1h ago
+24/7 Wall St. • 17h ago
 
 ---
 
@@ -202,7 +194,15 @@ Decrypt • 2d ago
 
 Bitmine Immersion’s ETH staking drives 97%+ gross margins and surging revenue, but dilution and negative cash flow raise risks. Read why BMNR stock is a buy.
 
-Seeking Alpha • 13h ago
+Seeking Alpha • 16h ago
+
+---
+
+**[Crypto Trader Turns $2,500 Into $500K on Skyrocketing Ethereum Meme Coin](https://finance.yahoo.com/markets/crypto/articles/crypto-trader-turns-2-500-182605699.html)**
+
+A meme coin trader turned $2,500 into nearly $500,000 in a matter of hours via the Elon Musk-linked ASTEROID token on Ethereum.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -218,15 +218,15 @@ The Block • 2d ago
 
 In the last bull run, when the Bitcoin price surged and crossed $100,000, the Ethereum price was expected to follow the same trajectory as it had in the past. But that was not the case, and the second-largest cryptocurrency by market cap was barely able to cross its previous all-time high price, bu…
 
-TradingView — Track All Markets • 16h ago
+TradingView — Track All Markets • 19h ago
 
 ---
 
-**[Crypto News: AlphaPepe Announces $880k Raised While Ethereum Price Prediction Targets $4,000 on Heavy Whale Accumulation](https://markets.businessinsider.com/news/stocks/crypto-news-alphapepe-announces-880k-raised-while-ethereum-price-prediction-targets-4-000-on-heavy-whale-accumulation-1036035073)**
+**[Iran closes Strait of Hormuz, Bitcoin and Ethereum prices drop](https://cryptobriefing.com/iran-closes-strait-of-hormuz-bitcoin-and-ethereum-prices-drop/)**
 
-MONACO, April  18, 2026  (GLOBE NEWSWIRE) -- AlphaPepe has crossed $880,000 in presale capital raised and stages continue finalizing in days. Capi...
+Iran closed the Strait of Hormuz, causing Bitcoin and Ethereum to drop. UK sending warships through the strait by April 30, 2026 at 7.5% YES.
 
-markets.businessinsider.com • 19h ago
+Crypto Briefing • 14h ago
 
 ---
 
@@ -240,7 +240,7 @@ The Ethereum Economic Zone (EEZ) is a framework co-funded by the Ethereum Founda
 
 📺 Paul Barron Network
 
-👁️ 16K • 👍 830 • 💬 55 • ⏱️ 19:55 • 10h ago
+👁️ 18K • 👍 873 • 💬 56 • ⏱️ 19:55 • 13h ago
 
 ---
 
@@ -250,17 +250,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 3K • 👍 155 • 💬 9 • ⏱️ 20:54 • 10h ago
-
----
-
-**[BITCOIN WARNING: The Next TRAP Just Started!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=tnFuByG5Bl0)**
-
-BITCOIN WARNING: The Next TRAP Just Started!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
-
-📺 Crypto World
-
-👁️ 5K • 👍 287 • 💬 57 • ⏱️ 19:52 • 7h ago
+👁️ 3K • 👍 171 • 💬 9 • ⏱️ 20:54 • 13h ago
 
 ---
 
@@ -270,17 +260,37 @@ http://www.x10daytrading.com/?video=d0a2Q-odIWM TRADE TO $1M WHILE WORKING 9 TO 
 
 📺 Wolf Of Dubai 2 - X10 DAY TRADING
 
-👁️ 275 • 👍 24 • 💬 3 • ⏱️ 9:31 • 2h ago
+👁️ 527 • 👍 34 • 💬 3 • ⏱️ 9:31 • 5h ago
 
 ---
 
-**[Insane Ethereum Fractal: Ignite Altcoins Or Trap Bulls...](https://www.youtube.com/watch?v=MM9bTgBSVrQ)**
+**[BITCOIN WARNING: The Next TRAP Just Started!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=tnFuByG5Bl0)**
 
-Ethereum is flashing a fractal that mirrors the November 2024 altcoin breakout, and the setup is showing up across Cardano, Sui, ...
+BITCOIN WARNING: The Next TRAP Just Started!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
 
-📺 Crypto Capital Venture
+📺 Crypto World
 
-👁️ 9K • 👍 546 • 💬 212 • ⏱️ 11:01 • 2d ago
+👁️ 7K • 👍 324 • 💬 59 • ⏱️ 19:52 • 10h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=uWZIr6evinY)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Crypto Gyan
+
+👁️ 126 • 👍 26 • ⏱️ 6:00 • 29m ago
+
+---
+
+**[🤩 Don&#39;t Miss The Opportunity In Ethereum !](https://www.youtube.com/watch?v=ZP5mgPEADco)**
+
+Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 5K • 👍 166 • 💬 21 • ⏱️ 8:23 • 2d ago
 
 ---
 
@@ -294,13 +304,13 @@ xrp #bitcoin #hbar #xlm #eth 2nd Channel   https://www.youtube.com/@UCRS4Cjpn8ww
 
 ---
 
-**[🤩 Don&#39;t Miss The Opportunity In Ethereum !](https://www.youtube.com/watch?v=ZP5mgPEADco)**
+**[Insane Ethereum Fractal: Ignite Altcoins Or Trap Bulls...](https://www.youtube.com/watch?v=MM9bTgBSVrQ)**
 
-Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
+Ethereum is flashing a fractal that mirrors the November 2024 altcoin breakout, and the setup is showing up across Cardano, Sui, ...
 
-📺 Gerhard - Bitcoin Strategy
+📺 Crypto Capital Venture
 
-👁️ 5K • 👍 165 • 💬 21 • ⏱️ 8:23 • 2d ago
+👁️ 9K • 👍 546 • 💬 193 • ⏱️ 11:01 • 2d ago
 
 ---
 
@@ -314,23 +324,13 @@ Gareth Soloway, Chief Market Strategist at Verified Investing, breaks down the l
 
 ---
 
-**[AI Agents, Tokenization, and Ethereum’s Next Wave | Raoul Pal the Journey Man](https://www.youtube.com/watch?v=855YrRfkyIc)**
+**[ETH ABOUT TO BREAKOUT?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=5Pu6-VHUevI)**
 
-Raoul welcomes Vivek Raman, Co-Founder and CEO of Etherealize, and Danny Ryan, Co-Founder and President at Etherealize, ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 Raoul Pal The Journey Man
+📺 Cilinix Crypto
 
-👁️ 10K • 👍 375 • 💬 24 • ⏱️ 1:11:56 • 2d ago
-
----
-
-**[I Can&#39;t Believe They Actually Did This Bitcoin And Ethereum Won&#39;t Be The Same Cardano Just Did THIS](https://www.youtube.com/watch?v=NpB7OcPjS0s)**
-
-Being in crypto right now feels like being in some elaborate fever dream. Bitcoin and Ethereum should be at LEAST double in ...
-
-📺 The Modern Investor
-
-👁️ 9K • 👍 903 • 💬 127 • ⏱️ 29:17 • 2d ago
+👁️ 848 • 👍 27 • 💬 1 • ⏱️ 4:53 • 1d ago
 
 ---
 
