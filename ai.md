@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-19T13:21:01.531661+00:00'
+updated: '2026-04-19T14:09:43.512397+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
 - social
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 19, 2026 at 13:21 UTC  
+**Last Updated:** April 19, 2026 at 14:09 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ So this happened mere hours ago and I feel like I genuinely stumbled onto someth
 
 no matter how i phrase it in the instructions, how many times i repeat the rule not to use quotes, and which LLM i use, i have failed to prevent any of them from using the so-called scare-quotes. it seems like they're extremely tempted to place them around a word every second sentence. think of an example like: 'is vision or hearing better?' -> 'neither sense is inherently "better"' or something like: 'what percentage of the population is stupid?' -> 'There is no scientific way to assign a percentage of the population as “stupid”' AIs struggle not to use them even when i tell it not to in the same prompt. like 'what % is stupid? and DONT use quotes in your answer.' it will still say "stupid." it's very frustrating and infuriating. this post will probably get deleted because it's a low quality vent but i don't care. just needed to see if people with premium subscription can have success.
 
-52m ago
+1h ago
 
 ---
 
@@ -57,7 +57,7 @@ no matter how i phrase it in the instructions, how many times i repeat the rule 
 
 https://preview.redd.it/i7muzi5ga5wg1.png?width=1373&format=png&auto=webp&s=e21290514099fc9e4f1699a2240c94cbb5683eca
 
-21m ago
+1h ago
 
 ---
 
@@ -65,7 +65,7 @@ https://preview.redd.it/i7muzi5ga5wg1.png?width=1373&format=png&auto=webp&s=e212
 
 NVIDIA limited-time perk: Claim a free 1-year API Key! Hermes Agent now supports integration with the NVIDIA NIM platform, with real-world testing confirming the optional MiniMax 2.7 model. The obtained API Key is valid for up to 12 months and is currently available. Visit build[dot]nvidia[dot]com
 
-31m ago
+1h ago
 
 ---
 
@@ -73,7 +73,7 @@ NVIDIA limited-time perk: Claim a free 1-year API Key! Hermes Agent now supports
 
 AI Coding contest day 8 The eighth challenge is a weighted variant of the classic knight's tour. The knight must visit every square of a rectangular board exactly once, but each square carries an integer weight. As it moves, the knight accumulates load, and the cost of each move equals its current load. Charge is assessed upon departure, so the weight of the final square never contributes.
 
-21h ago
+22h ago
 
 ---
 
@@ -81,7 +81,7 @@ AI Coding contest day 8 The eighth challenge is a weighted variant of the classi
 
 I wanted Codex to feel like a real GNOME app instead of just a terminal or editor workflow, so I built a GNOME Shell extension around it. It currently does all of this: - Codex usage in the GNOME top bar - native GTK history window - local session history browsing - paired remote machine history browsing over LAN - live session updates - filters for All / Messages / Tools / Thinking / System / Errors - in-session search - Markdown export for one session or all sessions from a source - read-only MCP server for history and usage - multi-language support A few design choices mattered a lot to me: - native GNOME/Libadwaita UI, not a webview - read-only remote access - explicit pairing between machines - revocable trust per device - read-only MCP, local by default, token-protected by default It ended up being much more ambitious than a typical GNOME extension, but I wanted something that actually feels integrated into the desktop. 😊
 
-4h ago
+5h ago
 
 ---
 
@@ -89,7 +89,7 @@ I wanted Codex to feel like a real GNOME app instead of just a terminal or edito
 
 Been experimenting a bit with ai video tool recently, mostly fro pre-vis and quick social content, and I'm kinda on the fence about how they actually are. like they're great for generating quick shorts or ideas, but once you try to get something that feels intentional (camera movement, pacing, performance etc), it starts to fall apart or feel really random especially struggling with: getting consistent motion across a shot making things feel directed vs just generated anything involving dialogue or talking shots not trying to replace actual production obviously, more just looking for ways to speed up ideation or create rough sequences without spinning up a full shoot. curious if anyone here has found tools or workflows that actually feel somewhat controllable / usable in a filmmaking context
 
-6h ago
+7h ago
 
 ---
 
@@ -97,7 +97,7 @@ Been experimenting a bit with ai video tool recently, mostly fro pre-vis and qui
 
 Hey guys, so here's some context: I'm doing automation for companies. All the contacts I've made so far have been small businesses, and I reached out to them through Reddit and LinkedIn. But now I want to target larger companies, which has led me to a question. I saw one I could potentially sell my services to, went to their website, and they have the typical email form. But thinking about it, that email will be seen by the person I want to take the job from, since automation is based on handling calls, registering bookings, doing follow-ups, etc. What are the chances they'll forward it to a supervisor? What could I do?
 
-14h ago
+15h ago
 
 ---
 
@@ -105,7 +105,7 @@ Hey guys, so here's some context: I'm doing automation for companies. All the co
 
 I wanted a real local assistant on my phone, not a demo. First tried the usual llama.cpp in Termux — Gemma 4 was 2–3 tok/s and the phone was on fire. Then I switched to Google’s LiteRT setup, got Gemma 4 running smoothly, and wired it into an agent stack running in Termux. Now one Android phone is: running the LLM locally automating its own apps via ADB staying offline if I want Happy to share details + code and hear what else you’d build on top of this. https://preview.redd.it/7vkbrlzfryvg1.jpg?width=3024&format=pjpg&auto=webp&s=25455827ddf9715b4159ce64a18deba812cf0f5f
 
-22h ago
+23h ago
 
 ---
 
@@ -113,7 +113,7 @@ I wanted a real local assistant on my phone, not a demo. First tried the usual l
 
 Fractalism has been using a method called Team 3 for some time now. It's not an oracle or a theatrical gimmick. It's a structured friction machine. The core idea: most solitary reasoning fails the same way: you find only what you were already looking for. Team 3 forces you to answer from five genuinely different positions simultaneously. The five lenses: - Scientist — structural pattern, coherence, evidence. Does it actually hold? - Philosopher — concepts, logic, what something really is - Spiritual/existential — conscience, direction, what it asks of me - Psychological — personal shadow (defense, projection) and transpersonal shadow (archetypal patterns moving through the person) - Devil's advocate — overclaim, romanticization, self-deception Team 3 works best on concrete questions: Does this conclusion follow from the evidence? What is actually happening here? What is the right next step? It becomes unreliable on large metaphysical questions where you have strong prior investment — the smaller and more specific the question, the less room for sophisticated self-deception. For an introduction in what Team 3 is: https://fractalisme.nl/team-3/ Full essay: https://fractalisme.nl/team-3-as-discernment-machine/ I'd like to know if this is a valid method of combining the best knowledge publicly available to synthesize a final answer to questions or is this my imagination?
 
-🔗 [Fractalism](https://fractalisme.nl/team-3-as-discernment-machine/) • 9h ago
+🔗 [Fractalism](https://fractalisme.nl/team-3-as-discernment-machine/) • 10h ago
 
 ---
 
@@ -131,7 +131,7 @@ Axios • 3h ago
 
 Abi has had very mixed results when asking a chatbot for guidance about her health issues.
 
-BBC • 14h ago
+BBC • 15h ago
 
 ---
 
@@ -139,7 +139,7 @@ BBC • 14h ago
 
 Nvidia CEO Jensen Huang told CNBC's Jim Cramer in March that AI agents are "definitely the next ChatGPT."
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -147,25 +147,25 @@ CNBC • 1h ago
 
 Google is in talks with Marvell Technology to develop two new chips aimed at running AI models more efficiently, according to two people with direct knowledge of the discussions. One is a memory processing unit designed to work alongside Google’s tensor processing unit. The other is a new TPU ...
 
-The Information • 21m ago
+The Information • 1h ago
 
 ---
 
 **[No to laissez-faire on AI, yes to a light touch](https://www.economist.com/by-invitation/2026/04/19/no-to-laissez-faire-on-ai-yes-to-a-light-touch)**
 
-The Economist • 13m ago
+The Economist • 1h ago
 
 ---
 
 **[My Boss Loves ChatGPT. Must I Fake Loving It Too?](https://www.nytimes.com/2026/04/19/business/ai-at-work-creativity-ageism.html)**
 
-The New York Times • 4h ago
+The New York Times • 5h ago
 
 ---
 
 **[Samsung To Release New Free Upgrade To Millions Of Galaxy Phones](https://www.forbes.com/sites/jaymcgregor/2026/04/18/samsung-one-ui-85-galaxy-s24-s25-ai-features-update/)**
 
-Forbes • 16h ago
+Forbes • 17h ago
 
 ---
 
@@ -173,7 +173,7 @@ Forbes • 16h ago
 
 Americans having less kids plus an ageing population could be a recipe for disaster that further erodes social stability
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
@@ -181,13 +181,13 @@ The Guardian • 2h ago
 
 Groups concerned that AI could evade human control are recruiting content creators to warn the masses about the dangers of smarter machines.
 
-The Washington Post • 9h ago
+The Washington Post • 10h ago
 
 ---
 
 **[Grindr’s CEO Has a Favorite in the California Governor’s Race](https://www.politico.com/news/magazine/2026/04/18/grindr-ai-politics-california-interview-00879011)**
 
-Politico • 21h ago
+Politico • 22h ago
 
 ---
 
@@ -197,7 +197,7 @@ Politico • 21h ago
 
 **[College instructor turns to typewriters to curb AI-written work](https://news.ycombinator.com/item?id=47818485)**
 
-⬆️ 330 • 💬 327 • 18h ago • [sentinelcolorado.com](https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/)
+⬆️ 330 • 💬 327 • 19h ago • [sentinelcolorado.com](https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/)
 
 ---
 
@@ -229,7 +229,7 @@ GPU rental prices surged 48% in 60 days. The AI compute shortage will force star
 
 Scan your website to see if it's ready for AI agents. Check for llms.txt, MCP, agent skills, and other agent-friendly standards.
 
-⬆️ 110 • 💬 174 • 1d ago • [Is Your Site Agent-Ready?](https://isitagentready.com)
+⬆️ 110 • 💬 174 • 2d ago • [Is Your Site Agent-Ready?](https://isitagentready.com)
 
 ---
 
@@ -283,7 +283,7 @@ Try Verdent AI ⤵ https://www.verdent.ai/?id=700278 @verdent_ai CHAPTERS ⤵ 00
 
 📺 Dylan Curious
 
-👁️ 4K • 👍 244 • 💬 67 • ⏱️ 30:36 • 10h ago
+👁️ 4K • 👍 244 • 💬 67 • ⏱️ 30:36 • 11h ago
 
 ---
 
@@ -293,7 +293,7 @@ A powerful new AI model, called Mythos, has sparked alarm within the Trump admin
 
 📺 The Economist
 
-👁️ 45K • 👍 1K • 💬 78 • ⏱️ 8:30 • 23h ago
+👁️ 45K • 👍 1K • 💬 78 • ⏱️ 8:30 • 1d ago
 
 ---
 
@@ -473,7 +473,7 @@ A fast, uncensored GGUF text generation model based on Google's Gemma 4-26B, opt
 
 `text-generation` `25.2B`
 
-⬇️ 72,519 • ❤️ 410 • 6d ago
+⬇️ 72,519 • ❤️ 410 • 7d ago
 
 ---
 
@@ -497,7 +497,7 @@ Gemma 4 E4B OBLITERATED v3 is a text-generation model with 0% refusal and improv
 
 `text-generation` `8.0B`
 
-⬇️ 37,130 • ❤️ 327 • 9h ago
+⬇️ 37,130 • ❤️ 327 • 10h ago
 
 ---
 
@@ -643,7 +643,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 48.0k • 🔱 6.3k • 6h ago
+⭐ 48.0k • 🔱 6.3k • 7h ago
 
 ---
 
@@ -663,7 +663,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 36.3k • 🔱 7.3k • 1h ago
+⭐ 36.3k • 🔱 7.3k • 2h ago
 
 ---
 
@@ -673,7 +673,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 30.3k • 🔱 3.3k • 21h ago
+⭐ 30.3k • 🔱 3.3k • 22h ago
 
 ---
 
@@ -703,7 +703,7 @@ AI Agent 源码深度研究报告
 
 `Python`
 
-⭐ 5.3k • 🔱 894 • 19h ago
+⭐ 5.3k • 🔱 894 • 20h ago
 
 ---
 

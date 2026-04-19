@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-19T13:21:01.539967+00:00'
+updated: '2026-04-19T14:09:43.518189+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
+- cryptocurrency
 - news
 - social
-- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 19, 2026 at 13:21 UTC  
+**Last Updated:** April 19, 2026 at 14:09 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Finally was able to own exactly 0.5 BTC. I started the hole process more than 5 years ago…. Many times i thought the train to reach this goal Is gone but I made it. Let’s see where this journey takes me. ATM I have around 0.1 on my trezor. The rest I’ll move the asap there… Let’s see where this journey takes us
 
-1h ago
+2h ago
 
 ---
 
@@ -89,7 +89,7 @@ Finally was able to own exactly 0.5 BTC. I started the hole process more than 5 
 
 I was greedy in 2022 during the crash and wanted to wait for 12k to buy. 12k never came. After BTC teleported from 15k to 30k, I wanted a deep dip to 20k to buy. 20k never came. Then I watched BTC teleport from 25k to 70k without a single down month. Zero dips given. Then the 50k dip came but got bought up by the market instantly, the window to buy was extremely shortlived and I couldn't get in. Then BTC proceeded to teleport from 50k to 110k in just a few weeks and I basically missed the whole cycle. I have a feeling the same people waiting for 40k-50k now will go through what I went through and watch as BTC teleports to 500k (or whatever the next top is) without a single major dip.
 
-22h ago
+23h ago
 
 ---
 
@@ -97,7 +97,7 @@ I was greedy in 2022 during the crash and wanted to wait for 12k to buy. 12k nev
 
 Trust me, it works. Once you self custody, run a node, you dont even want to move it back and forth to exchange to sell or else until its due (4 years +) or whatever. When you let it sit on the exchange, the gambling skibidi trying to time and beat the market will be always there teasing you. But again, only those who know.
 
-49m ago
+1h ago
 
 ---
 
@@ -105,13 +105,13 @@ Trust me, it works. Once you self custody, run a node, you dont even want to mov
 
 I have a group of friends that watched me make a ton of money during the 2016-2017 crypto market and asked me to tell them the next time I believed was a good time to buy (surprise, it’s almost always a good time to buy) so whenever it became a bear market, I would shoot the group chat a message and let them know it’s a good time to buy. I would get mocking responses like “Oh yeah I bet it’s a good time to buy, it’s down 10%”. They would even message me the next day when it’s down 11% and say things like “ooh it’s even lower now, I guess today’s a good day to buy too” And then the bull market comes and my group chat is peppered with angry messages about how they missed the bull run and how I didn’t tell them it’s coming. Messages like “you gotta tell me the next time it’s good to buy!” I quickly learnt that there are just some things people can’t be taught, they have to learn it themselves. Moral of the story, don’t tell people you’re into crypto and don’t tell people you made gains, regardless of who they are, in the end it’s just a headache for you.
 
-20h ago
+21h ago
 
 ---
 
 **[NBA Coach Regrets Not Buying Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1spao0u/nba_coach_regrets_not_buying_bitcoin/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -119,7 +119,7 @@ I have a group of friends that watched me make a ton of money during the 2016-20
 
 You might not want to add how long you've been in but I will. 4 years. Sold .05 BTC. Regret? Yes. But I've recouped it since then so I don't consider it that big of a deal.
 
-14h ago
+15h ago
 
 ---
 
@@ -135,7 +135,7 @@ I’m having a serious issue with NC Wallet. I initiated a BTC withdrawal more t
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-7h ago
+8h ago
 
 ---
 
@@ -159,7 +159,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Charles Schwab is rolling out crypto trading, allowing clients to buy bitcoin and ether through a new arm called Schwab Crypto.
 
-CNBC • 2d ago
+CNBC • 3d ago
 
 ---
 
@@ -173,7 +173,7 @@ Forbes • 1d ago
 
 You may want to consider these 3 scenarios if you're thinking about buying Bitcoin today.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -189,7 +189,7 @@ The Motley Fool • 2h ago
 
 You may want to consider these 3 scenarios if you're thinking about buying Bitcoin today.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -205,7 +205,7 @@ New York Magazine • 2d ago
 
 Strategy aim to reduce volatility, enable consistent bitcoin buying, and create the only bi-monthly paying preferred shares in the market.
 
-CoinDesk • 16h ago
+CoinDesk • 17h ago
 
 ---
 
@@ -257,7 +257,7 @@ The Blockstream CEO’s approach contrasts with BIP-361, a proposal that would i
 
 **[Show HN: Using Ramanujan's Pi Series for Bitcoin Security on Nvidia B200](https://news.ycombinator.com/item?id=47823382)**
 
-⬆️ 3 • 💬 1 • 2h ago • [zenodo.org](https://zenodo.org/records/19650883)
+⬆️ 3 • 💬 1 • 3h ago • [zenodo.org](https://zenodo.org/records/19650883)
 
 ---
 
@@ -315,7 +315,7 @@ Bitcoin just hit $78K and the signals are impossible to ignore. Institutions are
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 174 • ⏱️ 12:49 • 21h ago
+👁️ 16K • 👍 1K • 💬 174 • ⏱️ 12:49 • 22h ago
 
 ---
 
@@ -385,7 +385,7 @@ My Trading Signals https://discord.com/invite/jRAnCV9CTB Trade on MEXC ...
 
 📺 Road To $1 Million USD
 
-👁️ 5K • 👍 375 • 💬 64 • ⏱️ 9:55 • 14h ago
+👁️ 5K • 👍 375 • 💬 64 • ⏱️ 9:55 • 15h ago
 
 ---
 

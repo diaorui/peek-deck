@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-19T13:21:01.549152+00:00'
+updated: '2026-04-19T14:09:43.524437+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 19, 2026 at 13:21 UTC  
+**Last Updated:** April 19, 2026 at 14:09 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2045678855638405436 https://x.com/XRoboHub/status/2045695900434276501
 
-10h ago
+11h ago
 
 ---
 
@@ -44,7 +44,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2045678855638405436 http
 
 From 小互 on 𝕏: "Feels a bit like F1": https://x.com/xiaohu/status/2045786816213815411
 
-2h ago
+3h ago
 
 ---
 
@@ -52,7 +52,7 @@ From 小互 on 𝕏: "Feels a bit like F1": https://x.com/xiaohu/status/20457868
 
 I am currently developing a quadruped robot and I have come across this design for the leg. I need some help in understanding how this configuration of linkage is superior to something like this: Link where the third servo is directly linked to the coupler. Specially the addition of the triangular ternary link and pivoting it to the hip servo. I have seen a similar design here as well. Link Does this offer better range of motion? More stability? Better torque control? I am failing to understand.
 
-13h ago
+14h ago
 
 ---
 
@@ -72,7 +72,7 @@ I am currently developing a quadruped robot and I have come across this design f
 
 tbh ive been messing around with llms for a bit but got super bored of just typing into web interfaces. wanted something that actually sat on my desk and felt kinda 'alive' instead of just another thin wrapper. so basically i started building this prototype. calling it kitto for now. its a cyberpunk desktop companion or digital pet thing. the idea was to take a standard ai agent but give it an actual physical presence. hardware-wise its running on an esp32s3+esp32p4. eventually im going to port the custom OS to a linux board, but getting it running on a microcontroller has definately been a fun constraint. really didnt want the screen to look like a cheap toy just looping a pre-rendered gif. all the animations are driven by code. im currently pulling raw audio buffers and mapping amplitude/freq peaks to specific sprite frames for the mouth. so when it talks back to you to read the weather, set an alarm, or send an email (like in the video), it does real-time lip-sync and expression syncing based on tone. also threw in some classic digital pet mechanics so you can feed it or whatever. still a massive work in progress. getting the lip-sync to not look completely janky took way too much trial and error. latency is my biggest headache right now. pinging the api, getting the TTS audio back, and triggering the animation states fast enough to not break the illusion is brutal on this hardware.
 
-22h ago
+23h ago
 
 ---
 
@@ -80,7 +80,7 @@ tbh ive been messing around with llms for a bit but got super bored of just typi
 
 https://www.youtube.com/watch?v=G2hwzWDg8Js In the past, most grasping implementations in MuJoCo started from the question of how to control the robot arm. You first obtain the object's position, then manually implement inverse kinematics, trajectory planning, and gripper control, ultimately turning a simple task like "pick up the cube on the table" into a long sequence of joint angles and control commands. But I wanted to test something else: What would happen if I stopped telling the AI exactly how each joint should move, and instead only gave it a skill? For example, I only tell it to: * Find the cube on the table * Move the robot arm above the cube * Pick it up Everything else is left to the AI. Based on the current scene state, it understands the goal, breaks it down into steps, and generates the corresponding grasping actions. Perhaps in the future, what we maintain for robot applications will no longer be a large amount of control code, but instead a set of skills that AI can understand, compose, and execute.
 
-28m ago
+1h ago
 
 ---
 
@@ -88,7 +88,7 @@ https://www.youtube.com/watch?v=G2hwzWDg8Js In the past, most grasping implement
 
 Hello! This is my first ever humanoid robot project: Android 1. I designed him to be simplistic and functional, the Android has grippers to manipulate objects around him and a camera for vision. At the current moment, he is just a research platform for basic AI and ROS. I designed him using fusion 360 and programmed him with python .Please give me some suggestions on his design and feel free to ask questions!
 
-11h ago
+12h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hello! This is my first ever humanoid robot project: Android 1. I designed him t
 
 I’m building a hexapod as a first robotics project, and I could do with some help figuring out a viable power supply. At the moment I have three of these buck converters, each stepping a 3S LiPo down to 6v to supply three PCA9685 driver boards. The driver boards will power 6 of the servos from the second board each, and so the max current any of the converters will pull is 18A. So this is fine, but the problem is the size of the converters themselves. They are way bigger than I expected and I’ll have to make the hexapod’s body much larger to accommodate them. Ideally I’d like to avoid this since it’s already pretty big. So far I’ve considered: - Smaller battery, smaller converters: -> If I use a 2S battery, then I only have to step down from a max 8.4V. The stall current is the same though, which none of the (affordable) converters of this size are rated for. - High voltage servos: -> If I get servos rated for a higher voltage, and then downsize to a 2S LiPo, I should only need one converter for the ArduinoUNO itself. Although now I’m writing that out I dont think it’s correct since the PCA9686 maxes out at 6V. I also already bought all 18 of the servos before realising this whole issue 😬 Ok thats a lot of writing, I hope it makes sense. TLDR; I’m looking for a much more compact way of getting low voltage with high current. Its a bad day to be ohms law.
 
-5h ago
+6h ago
 
 ---
 
@@ -116,7 +116,7 @@ NVIDIA Hugging Face blog post: https://huggingface.co/blog/nvidia/gr00t-n1-7 Mod
 
 Robots competed in a half marathon race in Beijing on Sunday, with the winning machine leaving its human rivals for dust.
 
-BBC • 4h ago
+BBC • 5h ago
 
 ---
 
@@ -140,13 +140,13 @@ The Washington Post • 1d ago
 
 A recent demo shows Boston Dynamics Spot in a residential home, using Google’s visual-language model (VLM) Gemini Robotics-ER 1.5 for embodied reasoning.
 
-Boston Dynamics • 7h ago
+Boston Dynamics • 8h ago
 
 ---
 
 **[Photos: Students show off engineering skills at robotics competition](https://www.timesunion.com/news/article/photos-school-robotics-teams-face-competition-22213793.php)**
 
-Times Union • 3h ago
+Times Union • 4h ago
 
 ---
 
@@ -154,13 +154,13 @@ Times Union • 3h ago
 
 Two robots, same tech—one cares, one confronts. When they share origins, the industry faces a paradox it hasn’t yet acknowledged or resolved. Trust in robots will not be built incrementally. But it can be destroyed in a single afternoon. By Futurist Thomas Frey Part 3 of 4: The Military Paradox Nobody Will Discuss Let me […]
 
-Futurist Speaker • 15m ago
+Futurist Speaker • 1h ago
 
 ---
 
 **[TVA offering up to $5,000 for school robotics programs](https://wreg.com/news/tva-offering-up-to-5000-for-school-robotics-programs/)**
 
-WREG.com • 12h ago
+WREG.com • 13h ago
 
 ---
 
@@ -183,7 +183,7 @@ simplywall.st • 1h ago
 
 **[The Navy Sends in the Robots to Clear Hormuz of Mines](https://www.wsj.com/world/middle-east/the-navy-sends-in-the-robots-to-clear-hormuz-of-mines-1c107caa)**
 
-WSJ • 4h ago
+WSJ • 5h ago
 
 ---
 
@@ -207,7 +207,7 @@ Humanoid robots have beaten human runners in a Beijing half-marathon, marking a 
 
 📺 Al Jazeera English
 
-👁️ 20K • 👍 602 • 💬 189 • ⏱️ 2:13 • 2h ago
+👁️ 20K • 👍 602 • 💬 189 • ⏱️ 2:13 • 3h ago
 
 ---
 
@@ -217,7 +217,7 @@ Physical Intelligence is building a foundation model that can control any robot 
 
 📺 Y Combinator
 
-👁️ 40K • 👍 927 • 💬 54 • ⏱️ 49:27 • 2d ago
+👁️ 40K • 👍 927 • 💬 54 • ⏱️ 49:27 • 3d ago
 
 ---
 
@@ -237,7 +237,7 @@ Dozens of humanoid robots competed alongside human runners in the Beijing half m
 
 📺 DRM News
 
-👁️ 7K • 👍 203 • 💬 29 • ⏱️ 8:15 • 5h ago
+👁️ 7K • 👍 203 • 💬 29 • ⏱️ 8:15 • 6h ago
 
 ---
 
@@ -267,7 +267,7 @@ Robot 'Lightning' wins Beijing E-Town humanoid robot half-marathon Honor's human
 
 📺 The Manila Times
 
-👁️ 4K • 👍 39 • 💬 6 • ⏱️ 2:09 • 5h ago
+👁️ 4K • 👍 39 • 💬 6 • ⏱️ 2:09 • 6h ago
 
 ---
 

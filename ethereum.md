@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-19T13:21:01.545971+00:00'
+updated: '2026-04-19T14:09:43.522248+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
+- cryptocurrency
 - news
 - social
-- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 19, 2026 at 13:21 UTC  
+**Last Updated:** April 19, 2026 at 14:09 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The Kelp DAO exploit that drained $292 million and froze Aave was preventable. A developer posted on the Aave governance forum in January 2025 that Kelp's single-validator bridge security was the weakest configuration LayerZero allows. Kelp never added the second validator. On Saturday, an attacker used that exact vulnerability.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/kelp-dao-292-million-hack-warning-ignored-layerzero/) • 3h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/kelp-dao-292-million-hack-warning-ignored-layerzero/) • 4h ago
 
 ---
 
@@ -94,13 +94,13 @@ Feels kinda bigger than a normal crypto meetup tbh Ethereum getting a real physi
 
 **[Open-sourced a multi-agent contract audit skill for Claude Code](https://www.reddit.com/r/ethereum/comments/1spodq7/opensourced_a_multiagent_contract_audit_skill_for/)**
 
-3h ago
+4h ago
 
 ---
 
 **[Key Takeaways from Mike Toutonghi’s Paris Blockchain Week 2026 Keynote](https://www.reddit.com/r/ethereum/comments/1sps1nj/key_takeaways_from_mike_toutonghis_paris/)**
 
-33m ago
+1h ago
 
 ---
 
@@ -116,7 +116,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hello everyone. I recently built an Ethereum page that shows how Ethereum would look if investments never lost value and I’d love someone to look at the page and give me some honest feedback on it.
 
-21h ago
+22h ago
 
 ---
 
@@ -152,7 +152,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Transaction volumes are one of many ways to see how well a cryptocurrency is performing.
 
-The Motley Fool • 11h ago
+The Motley Fool • 12h ago
 
 ---
 
@@ -168,7 +168,7 @@ CoinDesk • 18h ago
 
 Ethereum-funded Ketman Project identified 100 suspected DPRK IT workers infiltrating 53 crypto projects using forged identities.
 
-Yahoo • 2h ago
+Yahoo • 3h ago
 
 ---
 
@@ -176,7 +176,7 @@ Yahoo • 2h ago
 
 Charles Schwab is rolling out crypto trading, allowing clients to buy bitcoin and ether through a new arm called Schwab Crypto.
 
-CNBC • 2d ago
+CNBC • 3d ago
 
 ---
 
@@ -208,7 +208,7 @@ Crypto investors have watched Ethereum (CRYPTO:ETH) trade in a narrow range near
 
 Ethereum price has displayed significant strength after breaking above the structure, with follow-through volume strength despite the selling pressure
 
-Coinpedia • 21h ago
+Coinpedia • 22h ago
 
 ---
 
@@ -238,7 +238,7 @@ Its a video about bitcoin, ethereum, crypto in general. But its quite an unusual
 
 📺 Thomas Kralow
 
-👁️ 5K • 👍 1K • 💬 52 • ⏱️ 7:52 • 3h ago
+👁️ 5K • 👍 1K • 💬 52 • ⏱️ 7:52 • 4h ago
 
 ---
 
@@ -248,7 +248,7 @@ The Ethereum Economic Zone (EEZ) is a framework co-funded by the Ethereum Founda
 
 📺 Paul Barron Network
 
-👁️ 20K • 👍 961 • 💬 86 • ⏱️ 19:55 • 21h ago
+👁️ 20K • 👍 961 • 💬 86 • ⏱️ 19:55 • 22h ago
 
 ---
 
@@ -268,7 +268,7 @@ BITCOIN WARNING: The Next TRAP Just Started!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 9K • 👍 376 • 💬 207 • ⏱️ 19:52 • 18h ago
+👁️ 9K • 👍 376 • 💬 207 • ⏱️ 19:52 • 19h ago
 
 ---
 
@@ -278,7 +278,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 110 • 👍 12 • 💬 1 • ⏱️ 4:47 • 2h ago
+👁️ 110 • 👍 12 • 💬 1 • ⏱️ 4:47 • 3h ago
 
 ---
 
@@ -288,7 +288,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 1K • 👍 109 • ⏱️ 6:00 • 8h ago
+👁️ 1K • 👍 109 • ⏱️ 6:00 • 9h ago
 
 ---
 
@@ -298,7 +298,7 @@ Ethereum is flashing a fractal that mirrors the November 2024 altcoin breakout, 
 
 📺 Crypto Capital Venture
 
-👁️ 9K • 👍 546 • 💬 193 • ⏱️ 11:01 • 2d ago
+👁️ 9K • 👍 546 • 💬 193 • ⏱️ 11:01 • 3d ago
 
 ---
 
@@ -308,7 +308,7 @@ http://www.x10daytrading.com/?video=d0a2Q-odIWM TRADE TO $1M WHILE WORKING 9 TO 
 
 📺 Wolf Of Dubai 2 - X10 DAY TRADING
 
-👁️ 1K • 👍 49 • 💬 4 • ⏱️ 9:31 • 13h ago
+👁️ 1K • 👍 49 • 💬 4 • ⏱️ 9:31 • 14h ago
 
 ---
 
@@ -328,7 +328,7 @@ First video: https://youtu.be/G1titKg3ZAk Elon musk replied with "ok" to the Ast
 
 📺 Kader Calls
 
-👁️ 71 • 👍 9 • 💬 1 • ⏱️ 2:24 • 2h ago
+👁️ 71 • 👍 9 • 💬 1 • ⏱️ 2:24 • 3h ago
 
 ---
 
