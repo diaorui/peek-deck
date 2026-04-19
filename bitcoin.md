@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-19T11:58:14.482302+00:00'
+updated: '2026-04-19T13:21:01.539967+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - videos
 - news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 19, 2026 at 11:58 UTC  
+**Last Updated:** April 19, 2026 at 13:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $75,169.28
+### $75,745.44
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.3%  
-**7d:** +1.0%  
-**30d:** +9.5%  
-**90d:** -14.9%  
-**1y:** -11.6%  
+**24h:** -0.2%  
+**7d:** +2.1%  
+**30d:** +10.6%  
+**90d:** -14.0%  
+**1y:** -10.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1506.15B
+**Market Cap:** $1516.89B
 Rank #1
 
-**Circulating Supply:** 20,017,934 BTC
+**Circulating Supply:** 20,018,006 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--40.3%
+-39.9%
 
 **All-Time Low:** $67.81
-+110857.1%
++111713.9%
 
 ---
 
@@ -77,9 +77,9 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Finally, I am the owner of 1 bitcoin](https://www.reddit.com/r/Bitcoin/comments/1spp4h6/finally_i_am_the_owner_of_1_bitcoin/)**
+**[Milestone of 0.5 BTC](https://www.reddit.com/r/Bitcoin/comments/1spqewb/milestone_of_05_btc/)**
 
-Was DCAing into btc and finally reached huge milestone for me i.e. 1 bitcoin. I still have idle usdt sitting around which I will use to DCA. No one knows whether it will go up or down in short term but btc is uptrending asset in long term. keep stacking and it will do wonders.
+Finally was able to own exactly 0.5 BTC. I started the hole process more than 5 years ago…. Many times i thought the train to reach this goal Is gone but I made it. Let’s see where this journey takes me. ATM I have around 0.1 on my trezor. The rest I’ll move the asap there… Let’s see where this journey takes us
 
 1h ago
 
@@ -89,7 +89,15 @@ Was DCAing into btc and finally reached huge milestone for me i.e. 1 bitcoin. I 
 
 I was greedy in 2022 during the crash and wanted to wait for 12k to buy. 12k never came. After BTC teleported from 15k to 30k, I wanted a deep dip to 20k to buy. 20k never came. Then I watched BTC teleport from 25k to 70k without a single down month. Zero dips given. Then the 50k dip came but got bought up by the market instantly, the window to buy was extremely shortlived and I couldn't get in. Then BTC proceeded to teleport from 50k to 110k in just a few weeks and I basically missed the whole cycle. I have a feeling the same people waiting for 40k-50k now will go through what I went through and watch as BTC teleports to 500k (or whatever the next top is) without a single major dip.
 
-21h ago
+22h ago
+
+---
+
+**[Self custody will cure your adhd gambler mentality](https://www.reddit.com/r/Bitcoin/comments/1sprp76/self_custody_will_cure_your_adhd_gambler_mentality/)**
+
+Trust me, it works. Once you self custody, run a node, you dont even want to move it back and forth to exchange to sell or else until its due (4 years +) or whatever. When you let it sit on the exchange, the gambling skibidi trying to time and beat the market will be always there teasing you. But again, only those who know.
+
+49m ago
 
 ---
 
@@ -97,13 +105,13 @@ I was greedy in 2022 during the crash and wanted to wait for 12k to buy. 12k nev
 
 I have a group of friends that watched me make a ton of money during the 2016-2017 crypto market and asked me to tell them the next time I believed was a good time to buy (surprise, it’s almost always a good time to buy) so whenever it became a bear market, I would shoot the group chat a message and let them know it’s a good time to buy. I would get mocking responses like “Oh yeah I bet it’s a good time to buy, it’s down 10%”. They would even message me the next day when it’s down 11% and say things like “ooh it’s even lower now, I guess today’s a good day to buy too” And then the bull market comes and my group chat is peppered with angry messages about how they missed the bull run and how I didn’t tell them it’s coming. Messages like “you gotta tell me the next time it’s good to buy!” I quickly learnt that there are just some things people can’t be taught, they have to learn it themselves. Moral of the story, don’t tell people you’re into crypto and don’t tell people you made gains, regardless of who they are, in the end it’s just a headache for you.
 
-19h ago
+20h ago
 
 ---
 
 **[NBA Coach Regrets Not Buying Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1spao0u/nba_coach_regrets_not_buying_bitcoin/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -111,7 +119,15 @@ I have a group of friends that watched me make a ton of money during the 2016-20
 
 You might not want to add how long you've been in but I will. 4 years. Sold .05 BTC. Regret? Yes. But I've recouped it since then so I don't consider it that big of a deal.
 
-13h ago
+14h ago
+
+---
+
+**[NC Wallet BTC withdrawal stuck 48+ hours – no TxID, no support](https://www.reddit.com/r/Bitcoin/comments/1spn2hl/nc_wallet_btc_withdrawal_stuck_48_hours_no_txid/)**
+
+I’m having a serious issue with NC Wallet. I initiated a BTC withdrawal more than 48 hours ago, and it is still showing “pending” with no TxID at all. This means the transaction has NOT been broadcast to the Bitcoin network yet. No network fee (they claim free withdrawals) No TxID No support response No email received Funds are stuck inside the wallet I’ve already: Contacted support multiple times Posted reviews on App Store and Trustpilot No response so far. Has anyone experienced this with NC Wallet before? Is there any way to force them to process or cancel the withdrawal? Any help would be appreciated
+
+5h ago
 
 ---
 
@@ -119,7 +135,7 @@ You might not want to add how long you've been in but I will. 4 years. Sold .05 
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-5h ago
+7h ago
 
 ---
 
@@ -135,31 +151,9 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 ---
 
-**[How to Bitcoin properly](https://www.reddit.com/r/Bitcoin/comments/1spfp1c/how_to_bitcoin_properly/)**
-
-Have enough to buy, to spare, to live, sit back relax hold for 4years+ with self custody, run node, don't gamble your skibidi and rock on! easy as it is.
-
-10h ago
-
----
-
-**[Pakistan ends seven-year Bitcoin and shitcoin ban](https://www.reddit.com/r/Bitcoin/comments/1souxsh/pakistan_ends_sevenyear_bitcoin_and_shitcoin_ban/)**
-
-Central bank greenlights regulated crypto access while keeping strict curbs on balance-sheet exposure
-
-🔗 [coindesk.com](https://www.coindesk.com/policy/2026/04/15/pakistan-lifts-seven-year-ban-allowing-banks-to-service-virtual-asset-providers) • 1d ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
-
-**[‘Buy Bitcoin’—Elon Musk’s ‘Massive’ U.S. Dollar Warning Fuels Wild Crypto Price Predictions](https://www.forbes.com/sites/digital-assets/2026/04/18/buy-bitcoin-elon-musks-massive-us-dollar-warning-fuels-wild-crypto-price-predictions/)**
-
-Forbes • 1d ago
-
----
 
 **[Charles Schwab to launch direct bitcoin, ether trading to compete with Robinhood](https://www.cnbc.com/2026/04/16/charles-schwab-to-launch-direct-bitcoin-ethereum-trading-to-compete-with-robinhood.html)**
 
@@ -169,25 +163,31 @@ CNBC • 2d ago
 
 ---
 
-**[Where Will Bitcoin Be in 5 Years?](https://www.fool.com/investing/2026/04/19/where-will-bitcoin-be-in-5-years/)**
+**[‘Buy Bitcoin’—Elon Musk’s ‘Massive’ U.S. Dollar Warning Fuels Wild Crypto Price Predictions](https://www.forbes.com/sites/digital-assets/2026/04/18/buy-bitcoin-elon-musks-massive-us-dollar-warning-fuels-wild-crypto-price-predictions/)**
+
+Forbes • 1d ago
+
+---
+
+**[Where Will Bitcoin Be in 5 Years?](https://finance.yahoo.com/markets/crypto/articles/where-bitcoin-5-years-103500589.html)**
 
 You may want to consider these 3 scenarios if you're thinking about buying Bitcoin today.
 
-The Motley Fool • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[This Signal in Bitcoin's Chart Has Never Been Wrong](https://finance.yahoo.com/markets/crypto/articles/signal-bitcoins-chart-never-wrong-082900727.html)**
+**[SpaceX IPO: Which Cryptocurrencies Stand to Benefit From the Biggest IPO in History?](https://www.fool.com/investing/2026/04/19/spacex-ipo-which-cryptocurrencies-stand-to-benefit/)**
 
-Keep an eye out for this pattern, and it could make you a stronger investor.
+As one of the largest corporate holders of Bitcoin in the world, SpaceX could help Bitcoin blast higher.
 
-Yahoo Finance • 3h ago
+The Motley Fool • 2h ago
 
 ---
 
-**[1 Cryptocurrency to Buy While It's Under $80,000](https://www.fool.com/investing/2026/04/19/1-cryptocurrency-to-buy-while-its-under-80000/)**
+**[Where Will Bitcoin Be in 5 Years?](https://www.fool.com/investing/2026/04/19/where-will-bitcoin-be-in-5-years/)**
 
-The digital asset market's latest drawdown is the perfect time for opportunistic investors to consider putting some capital to work.
+You may want to consider these 3 scenarios if you're thinking about buying Bitcoin today.
 
 The Motley Fool • 2h ago
 
@@ -205,7 +205,7 @@ New York Magazine • 2d ago
 
 Strategy aim to reduce volatility, enable consistent bitcoin buying, and create the only bi-monthly paying preferred shares in the market.
 
-CoinDesk • 15h ago
+CoinDesk • 16h ago
 
 ---
 
@@ -245,21 +245,19 @@ Arkham data shows 8,285 BTC in Coinbase Prime custody as the company swings from
 
 The Blockstream CEO’s approach contrasts with BIP-361, a proposal that would implement mandatory freezes of quantum-vulnerable Bitcoin.
 
-⬆️ 4 • 💬 1 • 2d ago • [Decrypt](https://decrypt.co/364562/adam-back-pushes-for-optional-upgrades-to-quantum-proof-bitcoin)
-
----
-
-**[The Role and History of Bitcoin Core Maintainers](https://news.ycombinator.com/item?id=47738533)**
-
-Imagine one person holding the keys to Bitcoin’s entire future. That was Satoshi—until Hal Finney, Gavin Andresen, and Wladimir van der Laan stepped in. Today’s maintainer team is more decentralized than ever… but is it enough?
-
-⬆️ 4 • 💬 0 • 7d ago • [Bitcoin Magazine](https://bitcoinmagazine.com/print/the-core-issue-the-role-and-history-of-bitcoin-core-maintainers)
+⬆️ 4 • 💬 1 • 3d ago • [Decrypt](https://decrypt.co/364562/adam-back-pushes-for-optional-upgrades-to-quantum-proof-bitcoin)
 
 ---
 
 **[Unmasking the Creator of Bitcoin](https://news.ycombinator.com/item?id=47752949)**
 
 ⬆️ 3 • 💬 2 • 5d ago • [nytimes.com](https://www.nytimes.com/2026/04/09/podcasts/the-daily/satoshi-nakamoto-bitcoin-creator.html)
+
+---
+
+**[Show HN: Using Ramanujan's Pi Series for Bitcoin Security on Nvidia B200](https://news.ycombinator.com/item?id=47823382)**
+
+⬆️ 3 • 💬 1 • 2h ago • [zenodo.org](https://zenodo.org/records/19650883)
 
 ---
 
@@ -291,12 +289,6 @@ A way to enable Quantum Safe Bitcoin transactions that is available today.  - av
 
 ---
 
-**[Show HN: Using Ramanujan's Pi Series for Bitcoin Security on Nvidia B200](https://news.ycombinator.com/item?id=47823382)**
-
-⬆️ 1 • 💬 0 • 57m ago • [zenodo.org](https://zenodo.org/records/19650883)
-
----
-
 **[A Technically-Fluent Bitcoiner's Inheritance Story](https://news.ycombinator.com/item?id=47776842)**
 
 TLDR;
@@ -307,19 +299,15 @@ A deeply technical early Bitcoiner realized that self-custody is only as strong 
 
 ---
 
+**[Unmasking the Creator of Bitcoin [audio]](https://news.ycombinator.com/item?id=47762113)**
+
+⬆️ 1 • 💬 0 • 5d ago • [nytimes.com](https://www.nytimes.com/2026/04/09/podcasts/the-daily/satoshi-nakamoto-bitcoin-creator.html)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
-
-**[Fox Business Reveals Massive Bitcoin News…](https://www.youtube.com/watch?v=UlJNGzbms34)**
-
-Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=AltcoinDaily BTC Conference 2026 ...
-
-📺 Altcoin Daily
-
-👁️ 49K • 👍 2K • 💬 233 • ⏱️ 8:39 • 1d ago
-
----
 
 **[Did Michael Saylor &amp; Strategy Just TRIGGER a Bitcoin STAMPEDE?](https://www.youtube.com/watch?v=DD1Y-Uhj4Og)**
 
@@ -327,7 +315,17 @@ Bitcoin just hit $78K and the signals are impossible to ignore. Institutions are
 
 📺 Simply Bitcoin
 
-👁️ 15K • 👍 1K • 💬 173 • ⏱️ 12:49 • 19h ago
+👁️ 16K • 👍 1K • 💬 174 • ⏱️ 12:49 • 21h ago
+
+---
+
+**[Fox Business Reveals Massive Bitcoin News…](https://www.youtube.com/watch?v=UlJNGzbms34)**
+
+Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=AltcoinDaily BTC Conference 2026 ...
+
+📺 Altcoin Daily
+
+👁️ 49K • 👍 2K • 💬 231 • ⏱️ 8:39 • 1d ago
 
 ---
 
@@ -337,7 +335,7 @@ IT'S RIGGED! Buckle Up' Bitcoin & Crypto Holders ⭐ Follow Altcoin Daily on X: 
 
 📺 Altcoin Daily
 
-👁️ 28K • 👍 2K • 💬 113 • ⏱️ 11:59 • 13h ago
+👁️ 31K • 👍 2K • 💬 125 • ⏱️ 11:59 • 15h ago
 
 ---
 
@@ -347,7 +345,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 51K • 👍 2K • 💬 85 • ⏱️ 57:41 • 22h ago
+👁️ 53K • 👍 2K • 💬 85 • ⏱️ 57:41 • 1d ago
 
 ---
 
@@ -357,7 +355,7 @@ A former Treasury Secretary warns the next crisis could be worse than 2008. Bond
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 2K • 💬 126 • ⏱️ 16:22 • 1d ago
+👁️ 26K • 👍 2K • 💬 128 • ⏱️ 16:22 • 1d ago
 
 ---
 
@@ -367,7 +365,7 @@ Adam Back joins Cointelegraph at Paris Blockchain Week to discuss one of Bitcoin
 
 📺 Cointelegraph
 
-👁️ 41K • 👍 1K • 💬 148 • ⏱️ 31:34 • 1d ago
+👁️ 44K • 👍 1K • 💬 160 • ⏱️ 31:34 • 1d ago
 
 ---
 
@@ -377,37 +375,37 @@ Are you ready? CRYPTO RETIREMENT ACCOUNT HERE Sign up for iTrustCapital and get 
 
 📺 Crypto Jebb
 
-👁️ 5K • 👍 267 • 💬 87 • ⏱️ 8:10 • 1d ago
+👁️ 5K • 👍 268 • 💬 87 • ⏱️ 8:10 • 1d ago
 
 ---
 
-**[Why Bitcoin Is Almost $80,000 Right Now](https://www.youtube.com/watch?v=s-ZvLM_p59k)**
+**[BITCOIN: DO NOT GET FOOLED!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=eSDY8FzoXiY)**
 
-Sell Your FTX Claim w/ FTX Creditor: https://www.ftxcreditor.com Follow Louis on X: https://x.com/LouisOrigny Linqto Creditor: ...
+My Trading Signals https://discord.com/invite/jRAnCV9CTB Trade on MEXC ...
 
-📺 Aaron Bennett
+📺 Road To $1 Million USD
 
-👁️ 5K • 👍 267 • 💬 242 • ⏱️ 8:08 • 1d ago
-
----
-
-**[Bitcoin History Is Repeating 👀](https://www.youtube.com/watch?v=p5IvqgGHkpE)**
-
-This is Unlike ANYTHING Crypto Has Seen Before (i got it wrong) Crypto Analyst Dennis Liu of Crypto Bacon interview ⭐ Follow ...
-
-📺 Altcoin Daily
-
-👁️ 13K • 👍 290 • 💬 17 • ⏱️ 0:59 • 1d ago
+👁️ 5K • 👍 375 • 💬 64 • ⏱️ 9:55 • 14h ago
 
 ---
 
-**[Clarity Rally Begins?🚀DEALS Reached!📈Crypto Market Update](https://www.youtube.com/watch?v=xM_aKT_cN14)**
+**[Bitcoin Capitulation: Time-Based vs  Price-Based](https://www.youtube.com/watch?v=qNnNABmt5xA)**
 
-According to a new report from JPMorgan Chase, the much-anticipated CLARITY Act is nearing a significant breakthrough as ...
+Into The Cryptoverse Premium: https://intothecryptoverse.com For inquiries and to subscribe to the monthy newsletter (free): ...
 
-📺 Paul Barron Network
+📺 Benjamin Cowen
 
-👁️ 113K • 👍 5K • 💬 275 • ⏱️ 13:57 • 1d ago
+👁️ 25K • 👍 391 • 💬 7 • ⏱️ 0:48 • 1d ago
+
+---
+
+**[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=TWax8cGppRQ)**
+
+Let's dubiously speculate on the price of Bitcoin! Into The Cryptoverse Premium SALE: https://intothecryptoverse.com For inquiries ...
+
+📺 Benjamin Cowen
+
+👁️ 105K • 👍 5K • 💬 292 • ⏱️ 15:42 • 2d ago
 
 ---
 
