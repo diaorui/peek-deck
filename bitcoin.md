@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-19T08:11:30.371178+00:00'
+updated: '2026-04-19T09:24:29.723832+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
 - cryptocurrency
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 19, 2026 at 08:11 UTC  
+**Last Updated:** April 19, 2026 at 09:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $74,953.39
+### $75,169.28
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.8%  
-**7d:** +1.0%  
-**30d:** +9.4%  
-**90d:** -14.9%  
-**1y:** -11.7%  
+**24h:** -1.5%  
+**7d:** +0.8%  
+**30d:** +9.2%  
+**90d:** -15.1%  
+**1y:** -11.9%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 I was greedy in 2022 during the crash and wanted to wait for 12k to buy. 12k never came. After BTC teleported from 15k to 30k, I wanted a deep dip to 20k to buy. 20k never came. Then I watched BTC teleport from 25k to 70k without a single down month. Zero dips given. Then the 50k dip came but got bought up by the market instantly, the window to buy was extremely shortlived and I couldn't get in. Then BTC proceeded to teleport from 50k to 110k in just a few weeks and I basically missed the whole cycle. I have a feeling the same people waiting for 40k-50k now will go through what I went through and watch as BTC teleports to 500k (or whatever the next top is) without a single major dip.
 
-17h ago
+18h ago
 
 ---
 
@@ -89,13 +89,13 @@ I was greedy in 2022 during the crash and wanted to wait for 12k to buy. 12k nev
 
 I have a group of friends that watched me make a ton of money during the 2016-2017 crypto market and asked me to tell them the next time I believed was a good time to buy (surprise, it’s almost always a good time to buy) so whenever it became a bear market, I would shoot the group chat a message and let them know it’s a good time to buy. I would get mocking responses like “Oh yeah I bet it’s a good time to buy, it’s down 10%”. They would even message me the next day when it’s down 11% and say things like “ooh it’s even lower now, I guess today’s a good day to buy too” And then the bull market comes and my group chat is peppered with angry messages about how they missed the bull run and how I didn’t tell them it’s coming. Messages like “you gotta tell me the next time it’s good to buy!” I quickly learnt that there are just some things people can’t be taught, they have to learn it themselves. Moral of the story, don’t tell people you’re into crypto and don’t tell people you made gains, regardless of who they are, in the end it’s just a headache for you.
 
-15h ago
+16h ago
 
 ---
 
 **[NBA Coach Regrets Not Buying Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1spao0u/nba_coach_regrets_not_buying_bitcoin/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -103,13 +103,21 @@ I have a group of friends that watched me make a ton of money during the 2016-20
 
 You might not want to add how long you've been in but I will. 4 years. Sold .05 BTC. Regret? Yes. But I've recouped it since then so I don't consider it that big of a deal.
 
-9h ago
+10h ago
 
 ---
 
 **[Do the maths!!](https://www.reddit.com/r/Bitcoin/comments/1sosymz/do_the_maths/)**
 
-22h ago
+23h ago
+
+---
+
+**[Daily Discussion, April 19, 2026](https://www.reddit.com/r/Bitcoin/comments/1spkt0t/daily_discussion_april_19_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+3h ago
 
 ---
 
@@ -119,19 +127,11 @@ You might not want to add how long you've been in but I will. 4 years. Sold .05 
 
 ---
 
-**[Daily Discussion, April 19, 2026](https://www.reddit.com/r/Bitcoin/comments/1spkt0t/daily_discussion_april_19_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-2h ago
-
----
-
 **[How to Bitcoin properly](https://www.reddit.com/r/Bitcoin/comments/1spfp1c/how_to_bitcoin_properly/)**
 
 Have enough to buy, to spare, to live, sit back relax hold for 4years+ with self custody, run node, don't gamble your skibidi and rock on! easy as it is.
 
-6h ago
+7h ago
 
 ---
 
@@ -139,15 +139,15 @@ Have enough to buy, to spare, to live, sit back relax hold for 4years+ with self
 
 Central bank greenlights regulated crypto access while keeping strict curbs on balance-sheet exposure
 
-🔗 [coindesk.com](https://www.coindesk.com/policy/2026/04/15/pakistan-lifts-seven-year-ban-allowing-banks-to-service-virtual-asset-providers) • 20h ago
+🔗 [coindesk.com](https://www.coindesk.com/policy/2026/04/15/pakistan-lifts-seven-year-ban-allowing-banks-to-service-virtual-asset-providers) • 22h ago
 
 ---
 
-**[Thank you](https://www.reddit.com/r/Bitcoin/comments/1sovym2/thank_you/)**
+**[Which is better long term: Physical BTC or Tax Differed BTC ETF](https://www.reddit.com/r/Bitcoin/comments/1spk97d/which_is_better_long_term_physical_btc_or_tax/)**
 
-Genuinely so happy to be done, I’ve reached my goal amount of btc to feel comfortable. I won’t lie, I make minimum wage for LA standard and ima stop buying and let it ride. Could hypothetically keep buying more but I truly have the next goal of getting 10k in fiat in my HYSA before touching any market. Sold all my stock to get to my goal and don’t regret it. Letting it ride and won’t open my wallets till I reach my saving goal. Thank you for all your help and advice, never been prouder.
+I currently hold most of my BTC in my Roth IRA however I am debating selling my FBTC and buying all physical BTC. I fully believe in the philosophy of BTC and more and more are seeing how that is against what I believe. I’m currently negative in gains (got in around ~100k so I wouldn’t cause any tax from selling). Thoughts on holding physical BTC over tax differed BTC ETF long term?
 
-20h ago
+3h ago
 
 ---
 
@@ -157,7 +157,7 @@ Genuinely so happy to be done, I’ve reached my goal amount of btc to feel comf
 
 **[‘Buy Bitcoin’—Elon Musk’s ‘Massive’ U.S. Dollar Warning Fuels Wild Crypto Price Predictions](https://www.forbes.com/sites/digital-assets/2026/04/18/buy-bitcoin-elon-musks-massive-us-dollar-warning-fuels-wild-crypto-price-predictions/)**
 
-Forbes • 20h ago
+Forbes • 21h ago
 
 ---
 
@@ -169,33 +169,9 @@ The Block • 1d ago
 
 ---
 
-**[Can a $1,000 Investment in Bitcoin Turn Into $1 Million By 2045?](https://www.fool.com/investing/2026/04/19/can-a-1000-investment-in-bitcoin-turn-into-1-milli/)**
+**[Crypto Stocks Rally As Bitcoin Breaks Two-Month High After Iran Reopens Strait](https://www.forbes.com/sites/aliciapark/2026/04/17/crypto-stocks-rally-as-bitcoin-breaks-two-month-high-after-iran-reopens-strait/)**
 
-This asset's reputation for climbing over time can only take a single investment so far.
-
-The Motley Fool • 3h ago
-
----
-
-**[Bitcoin Drops Below $75,000](https://www.moomoo.com/news/flash/22274608/bitcoin-drops-below-75000)**
-
-Moomoo • 48m ago
-
----
-
-**[🚨🇺🇸 Bitcoin spot ETFs recorded a net inflow of $996.5M last week. BlackRock clients bought $906,100,00 worth of $Bitcoin (BTC.CC)$](https://www.moomoo.com/community/feed/bitcoin-spot-etfs-recorded-a-net-inflow-of-996-5m-116429875249157)**
-
-@DustyBC Crypto 6441 Views
-
-Moomoo • 2h ago
-
----
-
-**[Rep. Sheri Biggs Discloses $250,000 Bitcoin ETF Buy Amid Reserve Bill Push](https://finance.yahoo.com/markets/crypto/articles/rep-sheri-biggs-discloses-250-222700478.html)**
-
-Rep. Sheri Biggs disclosed a $250,000 IBIT BlackRock BTC ETF buy as the Senate weighs a Strategic Bitcoin Reserve bill.
-
-Yahoo Finance • 1d ago
+Forbes • 1d ago
 
 ---
 
@@ -203,15 +179,29 @@ Yahoo Finance • 1d ago
 
 One of the biggest short liquidations 2026 wiped $593 million in bearish bets overnight. Saturday afternoon as Iran reportedly reversed the Hormuz reopening.
 
-CoinDesk • 15h ago
+CoinDesk • 2d ago
 
 ---
 
-**[Current price of Bitcoin for April 17, 2026](https://fortune.com/article/price-of-bitcoin-04-17-2026/)**
+**[1 Cryptocurrency to Buy While It's Under $80,000](https://www.fool.com/investing/2026/04/19/1-cryptocurrency-to-buy-while-its-under-80000/)**
 
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+The digital asset market's latest drawdown is the perfect time for opportunistic investors to consider putting some capital to work.
 
-Fortune • 1d ago
+The Motley Fool • 22m ago
+
+---
+
+**[Can a $1,000 Investment in Bitcoin Turn Into $1 Million By 2045?](https://finance.yahoo.com/markets/crypto/articles/1-000-investment-bitcoin-turn-045000377.html)**
+
+This asset's reputation for climbing over time can only take a single investment so far.
+
+Yahoo Finance • 4h ago
+
+---
+
+**[Bitcoin Drops Below $75,000](https://www.moomoo.com/news/flash/22274608/bitcoin-drops-below-75000)**
+
+Moomoo • 2h ago
 
 ---
 
@@ -227,7 +217,15 @@ New York Magazine • 1d ago
 
 Strategy aim to reduce volatility, enable consistent bitcoin buying, and create the only bi-monthly paying preferred shares in the market.
 
-CoinDesk • 11h ago
+CoinDesk • 12h ago
+
+---
+
+**[How Michael Saylor's Strategy is shaping bitcoin's price landscape](https://finance.yahoo.com/video/how-michael-saylors-strategy-is-shaping-bitcoins-price-landscape-210842819.html)**
+
+Scott Melker, the host of "The Wolf of All Streets" podcast, sits down with Yahoo Finance anchor Josh Lipton to discuss the impacts of Strategy's (MSTR) most recent bitcoin (BTC-USD) purchase. "The Daily Wolf with Scott Melker" premieres on Yahoo Finance on Monday, Apr. 20 at 12:00 p.m. Tune in every day for your daily dose of all things crypto. Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -275,7 +273,7 @@ C64 Bitcoin wallet. Contribute to geek197/c64wallet development by creating an a
 
 **[Digital Archaeology: where does Bitcoin's 21M come from?](https://news.ycombinator.com/item?id=47776334)**
 
-⬆️ 2 • 💬 2 • 3d ago • [bayinformationsystems.substack.com](https://bayinformationsystems.substack.com/p/digital-archaeology-bitcoins-21-million)
+⬆️ 2 • 💬 2 • 4d ago • [bayinformationsystems.substack.com](https://bayinformationsystems.substack.com/p/digital-archaeology-bitcoins-21-million)
 
 ---
 
@@ -329,7 +327,7 @@ IT'S RIGGED! Buckle Up' Bitcoin & Crypto Holders ⭐ Follow Altcoin Daily on X: 
 
 📺 Altcoin Daily
 
-👁️ 24K • 👍 2K • 💬 104 • ⏱️ 11:59 • 9h ago
+👁️ 24K • 👍 2K • 💬 104 • ⏱️ 11:59 • 11h ago
 
 ---
 
@@ -339,7 +337,7 @@ Bitcoin just hit $78K and the signals are impossible to ignore. Institutions are
 
 📺 Simply Bitcoin
 
-👁️ 15K • 👍 1K • 💬 170 • ⏱️ 12:49 • 16h ago
+👁️ 15K • 👍 1K • 💬 170 • ⏱️ 12:49 • 17h ago
 
 ---
 
@@ -349,7 +347,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 49K • 👍 2K • 💬 85 • ⏱️ 57:41 • 19h ago
+👁️ 49K • 👍 2K • 💬 85 • ⏱️ 57:41 • 20h ago
 
 ---
 
