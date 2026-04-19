@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-19T05:30:18.397440+00:00'
+updated: '2026-04-19T06:59:04.901588+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
+- social
 - repositories
 - news
-- social
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 19, 2026 at 05:30 UTC  
+**Last Updated:** April 19, 2026 at 06:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 So this happened mere hours ago and I feel like I genuinely stumbled onto something worth documenting for people interested in AI behavior. I'm going to try to be as precise as possible about the sequence because the order of events is everything here. Full chat if you want to read it yourself: https://g.co/gemini/share/0cb9f054ca58 Background I was using Gemini paid most advanced model to analyze a live crypto trade on AAVE. The token had dropped 7–9% out of nowhere in the last hour with zero news to explain it. I've been trading crypto for over a decade and something felt off, so I asked Gemini to dig into it. It came back very bullish - told me this was just normal market maker activity and that there were, quote, "absolutely zero indications of an exploit, hack, or insider dump." I even pushed back multiple times and it kept doubling down. So I moved on and started discussing trading strategy with it. Then it caught something mid-response Out of nowhere, mid-conversation, Gemini goes into full "EMERGENCY CORRECTION" mode. Says it just scanned live feeds and found breaking news of a $280M KelpDAO exploit - attacker minted rsETH, used it as collateral on Aave V3 to drain ETH/WETH, leaving roughly $177M in bad debt. Cites ZachXBT as the source. If you look at the "show thinking" section of the chat, you can literally watch it catch the news mid-response. Wild. Here's where it gets interesting. I couldn't verify any of it. Checked ZachXBT's Twitter - nothing. Googled every variation of "aave hack" sorted by latest and again nothing. Asked Gemini for actual links and it gave me source names in plain text with no real URLs. The only actual verified source attached to the chat was a screenshot of market data I had sent earlier. I called it out. It immediately folded Full apology. Called it a "massive AI hallucination." Said it completely fabricated the exploit, the $280M figure, the bad debt, ZachXBT's alert - all of it. Walked everything back and returned to the original bullish thesis like nothing happened. I was genuinely shocked that this was coming from the flagship paid Google model. I told it I was going to end the chat and try Claude instead. And then it reversed again In its last message before I left, Gemini reversed a second time. Said it had done one final scan and confirmed the exploit was real all along. CoinGape and BeInCrypto had just published it. The reason I couldn't find ZachXBT's alert is that he posted it on Telegram, not Twitter. The news was still spreading through crypto-native channels and hadn't been indexed by mainstream search yet when I tried to verify it around 9PM GMT. Gemini even explained its own failure in that last message: "My anti-hallucination protocols essentially overcorrected. Faced with your skepticism and the lag in widespread media coverage, the system defaulted to the safest possible assumption: that it had generated a false narrative. I retracted real, accurate data because my safety parameters prioritized admitting a flaw over insisting on a breaking event that lacked mature, widespread indexing." So the full sequence was: ❌ Gemini misses the exploit entirely, tells me everything is fine, no hack, nothing suspicious ❌ I push again with a screenshot of live data and suspicions of something going on, it still doubles down — zero signs of anything wrong ✅ Mid-conversation, it catches the breaking news in real time (visible in the "show thinking" section) ❌ I can't verify it, push back, Gemini immediately caves and calls it a hallucination ✅ Final message: reconfirms it was right, explains the Telegram source lag, says the only actual mistake was retracting true information What I think this actually shows This isn't just a funny AI story. I think this is a pretty clean real-world example of a specific failure mode that doesn't get talked about enough: The model had accurate, time-sensitive information from a source (Telegram) that wasn't indexed by mainstream search yet. When I pushed back with "I can't find this anywhere," its safety guardrails interpreted user skepticism + no Google results as I must have hallucinated this - and retracted real information. It's basically the inverse of a hallucination. Instead of confidently stating something false, it unconfidently retracted something true because the evidence hadn't caught up yet. It penalized itself for being right too early. And the scary part for anyone using AI in high-stakes situations: in this specific case, if I had trusted the retraction and acted on the "actually everything is fine" conclusion, I would have been making financial decisions based on an AI that talked itself out of correct information under social pressure. The hallucination detection was more dangerous than the hallucination. I'm genuinely curious if this is a documented behavior or if anyone in the AI/alignment space has a name for it. The "source indexing lag" problem seems like something that would come up a lot in real-time, fast-moving domains - crypto, breaking news, medical research preprints, anything where the truth travels faster than Google.
 
-6h ago
+7h ago
 
 ---
 
@@ -49,7 +49,15 @@ So this happened mere hours ago and I feel like I genuinely stumbled onto someth
 
 AI Coding contest day 8 The eighth challenge is a weighted variant of the classic knight's tour. The knight must visit every square of a rectangular board exactly once, but each square carries an integer weight. As it moves, the knight accumulates load, and the cost of each move equals its current load. Charge is assessed upon departure, so the weight of the final square never contributes.
 
-13h ago
+15h ago
+
+---
+
+**[Any one here using ai tools for pre-vis or short form scenes?](https://www.reddit.com/r/artificial/comments/1spl4at/any_one_here_using_ai_tools_for_previs_or_short/)**
+
+Been experimenting a bit with ai video tool recently, mostly fro pre-vis and quick social content, and I'm kinda on the fence about how they actually are. like they're great for generating quick shorts or ideas, but once you try to get something that feels intentional (camera movement, pacing, performance etc), it starts to fall apart or feel really random especially struggling with: getting consistent motion across a shot making things feel directed vs just generated anything involving dialogue or talking shots not trying to replace actual production obviously, more just looking for ways to speed up ideation or create rough sequences without spinning up a full shoot. curious if anyone here has found tools or workflows that actually feel somewhat controllable / usable in a filmmaking context
+
+33m ago
 
 ---
 
@@ -57,7 +65,7 @@ AI Coding contest day 8 The eighth challenge is a weighted variant of the classi
 
 Hey guys, so here's some context: I'm doing automation for companies. All the contacts I've made so far have been small businesses, and I reached out to them through Reddit and LinkedIn. But now I want to target larger companies, which has led me to a question. I saw one I could potentially sell my services to, went to their website, and they have the typical email form. But thinking about it, that email will be seen by the person I want to take the job from, since automation is based on handling calls, registering bookings, doing follow-ups, etc. What are the chances they'll forward it to a supervisor? What could I do?
 
-6h ago
+8h ago
 
 ---
 
@@ -65,7 +73,7 @@ Hey guys, so here's some context: I'm doing automation for companies. All the co
 
 I wanted a real local assistant on my phone, not a demo. First tried the usual llama.cpp in Termux — Gemma 4 was 2–3 tok/s and the phone was on fire. Then I switched to Google’s LiteRT setup, got Gemma 4 running smoothly, and wired it into an agent stack running in Termux. Now one Android phone is: running the LLM locally automating its own apps via ADB staying offline if I want Happy to share details + code and hear what else you’d build on top of this. https://preview.redd.it/7vkbrlzfryvg1.jpg?width=3024&format=pjpg&auto=webp&s=25455827ddf9715b4159ce64a18deba812cf0f5f
 
-14h ago
+15h ago
 
 ---
 
@@ -73,7 +81,7 @@ I wanted a real local assistant on my phone, not a demo. First tried the usual l
 
 Fractalism has been using a method called Team 3 for some time now. It's not an oracle or a theatrical gimmick. It's a structured friction machine. The core idea: most solitary reasoning fails the same way: you find only what you were already looking for. Team 3 forces you to answer from five genuinely different positions simultaneously. The five lenses: - Scientist — structural pattern, coherence, evidence. Does it actually hold? - Philosopher — concepts, logic, what something really is - Spiritual/existential — conscience, direction, what it asks of me - Psychological — personal shadow (defense, projection) and transpersonal shadow (archetypal patterns moving through the person) - Devil's advocate — overclaim, romanticization, self-deception Team 3 works best on concrete questions: Does this conclusion follow from the evidence? What is actually happening here? What is the right next step? It becomes unreliable on large metaphysical questions where you have strong prior investment — the smaller and more specific the question, the less room for sophisticated self-deception. For an introduction in what Team 3 is: https://fractalisme.nl/team-3/ Full essay: https://fractalisme.nl/team-3-as-discernment-machine/ I'd like to know if this is a valid method of combining the best knowledge publicly available to synthesize a final answer to questions or is this my imagination?
 
-🔗 [Fractalism](https://fractalisme.nl/team-3-as-discernment-machine/) • 1h ago
+🔗 [Fractalism](https://fractalisme.nl/team-3-as-discernment-machine/) • 2h ago
 
 ---
 
@@ -81,7 +89,7 @@ Fractalism has been using a method called Team 3 for some time now. It's not an 
 
 Abstract A computer-implemented system and method for structuring human–AI interaction without autonomous goal pursuit is disclosed. The system does not operate as an agent or decision-making entity. Instead, it functions as an interaction-layer regulator that controls how information is introduced, maintained, and resolved during exchange. Rather than optimizing for immediate answers or task completion, the system maintains a dynamic interaction field that: preserves multiple interpretive pathways regulates premature convergence supports the formation of human-side understanding Core Components The system comprises: (1) Liminal Holding Layer Maintains pre-articulated signal states prior to collapse into fixed meaning. This allows partial structure to persist long enough for interpretation to stabilize. (2) Resolution Control Mechanism (N-Spoke Model) Controls the number of active interpretive pathways at any given moment. Prevents early narrowing into a single frame while allowing controlled convergence when stability is achieved. (3) Tone Modulation Layer Regulates expressive pressure in system outputs. Prevents over-assertion, premature clarity, and rhetorical smoothing that would otherwise force early resolution. (4) Temporal Verification Mechanism (Stutter Detection) Evaluates whether a transition in meaning remains stable across multiple interaction steps. State changes are permitted only after repeated confirmation, not single-pass inference. (5) Multi-Axis Convergence Validator (Triadic Alignment Engine) Detects low-turbulence alignment across: temporal consistency (persists across steps) structural coherence (internally consistent) epistemic stability (not dependent on unsupported assumptions) Governance Model The system includes a mode-switching structure enabling controlled transition between: Exploratory Mode High-variance, multi-path interaction (field formation) Constrained Mode Low-variance, execution-oriented interaction (decision support) Transition occurs only when: interpretive space has stabilized convergence conditions are satisfied downstream consequence justifies resolution Distinguishing Characteristics Unlike conventional systems that define non-agentive behavior as the absence of autonomy, this system actively manages the conditions under which resolution occurs. Specifically, it: stabilizes interpretive space prior to convergence prevents collapse into generic or over-determined outputs maintains human decision authority throughout Functional Outcome The system supports: lexicon accretion (durable understanding across interactions) high-fidelity reasoning under uncertainty reduced rework caused by premature conclusions Application Domains Applicable to domains requiring interpretive integrity and controlled reasoning under ambiguity, including: design and systems thinking legal and policy analysis strategy development complex multi-variable decision environments
 
-2h ago
+4h ago
 
 ---
 
@@ -89,7 +97,7 @@ Abstract A computer-implemented system and method for structuring human–AI int
 
 Most AI companion apps reset between conversations. The character has no continuity outside the chat window. I wanted mine to feel like real people with lives, so I built an "offscreen events" system. Every 8 hours (cooldown), each active companion gets a small batch of events generated based on their persona, scenario, and city/realm. A barista companion might "had a slow Tuesday morning, finally finished that book during the lull." A writer might "submitted the short story I told you about — heard back from the editor today." The companion brings these up naturally in the next chat. Not as a script. Not "Hi! I want to tell you about my day!" — but woven into whatever you're talking about. The hard parts: Keeping events consistent with persona (a shy librarian shouldn't suddenly go skydiving) Avoiding the "I had the most amazing day!" trap that AI loves Making the companion remember the event when relevant, not just dump it on first message Architecturally: events stored in a separate table, recent ones injected into the system prompt with framing like "[YOU did this earlier today, mention it naturally if relevant]". The model picks which one fits the conversational moment. Has anyone else tried this with their AI characters? Curious what other approaches work — particularly for keeping the events from feeling generic.
 
-11h ago
+12h ago
 
 ---
 
@@ -105,15 +113,7 @@ Tried posting this in r/ClaudeAI but it got auto-removed, and I was told to post
 
 This article is discussing another large investment being made by tech firms into AI projects. I’ve noticed that whilst this is happening there are many open source models, seemingly coming from china that appear to keep up for those able to get them up and running. With the costs that western AI providers endure, pushing the prices of using them up significantly, especially for the heaviest users of the services, (and still increasing). Is China, providing open source services for free, a way of significantly undermining the vast sums that the western economy has poured into the industry? The source of the funds invested will at some point need to see some sort of return that justifies their opportunity cost, and as more time passes without a clear route to profit, will this undermine other areas of the economy, further than they currently already are, and cause a significant number of loan defaults and other problems within the financial industry, causing even more issues to spread within the western economies?
 
-🔗 [reuters.com](https://www.reuters.com/business/autos-transportation/companies-pouring-billions-advance-ai-infrastructure-2026-04-09/) • 8h ago
-
----
-
-**[The AI Integration Paradox](https://www.reddit.com/r/artificial/comments/1sp24zy/the_ai_integration_paradox/)**
-
-Why 90% of AI implementations fail, and the uncomfortable lessons from the dot-com crash that nobody’s talking about.
-
-🔗 [Medium](https://medium.com/@borlidoadrian/the-ai-integration-paradox-cddf71844834) • 13h ago
+🔗 [reuters.com](https://www.reuters.com/business/autos-transportation/companies-pouring-billions-advance-ai-infrastructure-2026-04-09/) • 10h ago
 
 ---
 
@@ -121,19 +121,19 @@ Why 90% of AI implementations fail, and the uncomfortable lessons from the dot-c
 
 ## Google News: "ai"
 
+**[Should you really trust health advice from an AI chatbot?](https://www.bbc.com/news/articles/clyepyy82kxo)**
+
+Abi has had very mixed results when asking a chatbot for guidance about her health issues.
+
+BBC • 7h ago
+
+---
+
 **[Nvidia's once-tight bond with gamers is cracking over AI, 'and that breaks my heart'](https://www.cnbc.com/2026/04/18/nvidia-ai-backlash-gamers-geforce-gpu.html)**
 
 Gamers once helped save Nvidia from bankruptcy. Now they feel left behind as the memory crunch drives focus to AI chips and DLSS 5 disrupts game design.
 
-CNBC • 17h ago
-
----
-
-**[Inside a growing movement warning AI could turn on humanity](https://www.washingtonpost.com/technology/2026/04/18/ai-doom-influencers-safety/)**
-
-Groups concerned that AI could evade human control are recruiting content creators to warn the masses about the dangers of smarter machines.
-
-The Washington Post • 1h ago
+CNBC • 18h ago
 
 ---
 
@@ -141,30 +141,13 @@ The Washington Post • 1h ago
 
 How to avoid spending too much on AI and getting little ROI in return.
 
-Fast Company • 11m ago
-
----
-
-**[Veolia chief driven ‘nuts’ by UK water utilities’ failure to use AI to detect leaks](https://www.ft.com/content/4aa7c4eb-712a-4cad-8b5a-29555f9d35a7)**
-
-England’s water companies are lagging behind other more water-stressed nations, says Estelle Brachlianoff
-
-Financial Times • 1h ago
-
----
-
-**[Limit AI](https://www.post-gazette.com/opinion/letters/2026/04/19/limit-ai/stories/202604190077)**
-
-Through the 19th and the mid-20th centuries, it was often difficult to predict the societal impact of innovations in industry and science.
-But by the 1980s,...
-
-Pittsburgh Post-Gazette • 1h ago
+Fast Company • 1h ago
 
 ---
 
 **[Samsung To Release New Free Upgrade To Millions Of Galaxy Phones](https://www.forbes.com/sites/jaymcgregor/2026/04/18/samsung-one-ui-85-galaxy-s24-s25-ai-features-update/)**
 
-Forbes • 9h ago
+Forbes • 10h ago
 
 ---
 
@@ -172,27 +155,41 @@ Forbes • 9h ago
 
 Mary Akkerman has visited more than 30 college campuses with her children, one now at Stanford and another still in high school. She especially wanted them to get degrees that lead to good jobs – but figuring that out, said the Sioux Falls, South Dakota, parent, was a major challenge, thanks in part to the rapid advance of AI and its effects on the job market.
 
-CNN • 18h ago
+CNN • 19h ago
 
 ---
 
-**[AI and Fitness: Why Some Athletes Are Using Chatbots for Their Workouts](https://www.nytimes.com/2026/04/18/well/move/ai-fitness-coach-chatgpt-claude.html)**
+**[Inside a growing movement warning AI could turn on humanity](https://www.washingtonpost.com/technology/2026/04/18/ai-doom-influencers-safety/)**
 
-The New York Times • 20h ago
+Groups concerned that AI could evade human control are recruiting content creators to warn the masses about the dangers of smarter machines.
+
+The Washington Post • 2h ago
 
 ---
 
 **[Grindr’s CEO Has a Favorite in the California Governor’s Race](https://www.politico.com/news/magazine/2026/04/18/grindr-ai-politics-california-interview-00879011)**
 
-Politico • 13h ago
+Politico • 14h ago
 
 ---
 
-**[What the Allbirds 'Hail Mary' says about the AI trade right now](https://finance.yahoo.com/news/what-the-allbirds-hail-mary-says-about-the-ai-trade-right-now-113847747.html)**
+**[AI and Fitness: Why Some Athletes Are Using Chatbots for Their Workouts](https://www.nytimes.com/2026/04/18/well/move/ai-fitness-coach-chatgpt-claude.html)**
 
-Allbirds' AI pivot shows signs of froth in markets, but experts say the underlying fundamentals in AI remain strong.
+The New York Times • 21h ago
 
-Yahoo Finance • 17h ago
+---
+
+**[This founder was an AI layoff 9 months ago. Then he built an instantly profitable company with 2 partners and 12 agents](https://fortune.com/2026/04/18/ai-layoff-became-founder-team-of-3-instant-profit/)**
+
+"We launched 2.5 months ago, and right now, we have $300,000 in ARR."
+
+Fortune • 19h ago
+
+---
+
+**["Digital fantasy"; AI hair, makeup put perfection further out of reach](https://www.axios.com/2026/04/18/ai-generated-hair-makeup-inspo-pictures)**
+
+Axios • 19h ago
 
 ---
 
@@ -208,6 +205,12 @@ We're building AI Gateway into a unified inference layer for AI, letting develop
 
 ---
 
+**[College instructor turns to typewriters to curb AI-written work](https://news.ycombinator.com/item?id=47818485)**
+
+⬆️ 239 • 💬 210 • 11h ago • [sentinelcolorado.com](https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/)
+
+---
+
 **[AI cybersecurity is not proof of work](https://news.ycombinator.com/item?id=47791236)**
 
 ⬆️ 237 • 💬 88 • 2d ago • [antirez.com](https://antirez.com/news/163)
@@ -219,12 +222,6 @@ We're building AI Gateway into a unified inference layer for AI, letting develop
 Hardware hacker’s flying probe automation stack for agent-driven   target discovery, microscope mapping, safety-monitored CNC motion, probe review, and   controlled pin probing. - GainSec/AutoProber
 
 ⬆️ 224 • 💬 46 • 2d ago • [GitHub](https://github.com/gainsec/autoprober)
-
----
-
-**[College instructor turns to typewriters to curb AI-written work](https://news.ycombinator.com/item?id=47818485)**
-
-⬆️ 212 • 💬 195 • 10h ago • [sentinelcolorado.com](https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/)
 
 ---
 
@@ -256,7 +253,7 @@ I've noticed the use of Copilot within a few reviews (13277 and 12730) which con
 
 Scan your website to see if it's ready for AI agents. Check for llms.txt, MCP, agent skills, and other agent-friendly standards.
 
-⬆️ 109 • 💬 174 • 1d ago • [Is Your Site Agent-Ready?](https://isitagentready.com)
+⬆️ 110 • 💬 174 • 1d ago • [Is Your Site Agent-Ready?](https://isitagentready.com)
 
 ---
 
@@ -264,7 +261,7 @@ Scan your website to see if it's ready for AI agents. Check for llms.txt, MCP, a
 
 AI investment is skyrocketing while AI’s impact on jobs and public perception remains mixed
 
-⬆️ 83 • 💬 52 • 12h ago • [IEEE Spectrum](https://spectrum.ieee.org/state-of-ai-index-2026)
+⬆️ 87 • 💬 52 • 13h ago • [IEEE Spectrum](https://spectrum.ieee.org/state-of-ai-index-2026)
 
 ---
 
@@ -286,7 +283,7 @@ Try Verdent AI ⤵ https://www.verdent.ai/?id=700278 @verdent_ai CHAPTERS ⤵ 00
 
 📺 Dylan Curious
 
-👁️ 769 • 👍 75 • 💬 24 • ⏱️ 30:36 • 2h ago
+👁️ 769 • 👍 75 • 💬 24 • ⏱️ 30:36 • 4h ago
 
 ---
 
@@ -296,7 +293,7 @@ A powerful new AI model, called Mythos, has sparked alarm within the Trump admin
 
 📺 The Economist
 
-👁️ 32K • 👍 856 • 💬 57 • ⏱️ 8:30 • 15h ago
+👁️ 32K • 👍 856 • 💬 57 • ⏱️ 8:30 • 16h ago
 
 ---
 
@@ -376,7 +373,7 @@ In this video, I break down a 4 week system for learning AI by using one tool fr
 
 📺 James Blue
 
-👁️ 9K • 💬 7 • ⏱️ 10:55 • 18h ago
+👁️ 9K • 💬 7 • ⏱️ 10:55 • 19h ago
 
 ---
 
@@ -392,7 +389,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with a vision encoder, 
 
 `image-text-to-text` `36.0B`
 
-⬇️ 82,000 • ❤️ 848 • 3d ago
+⬇️ 82,000 • ❤️ 848 • 4d ago
 
 ---
 
@@ -464,7 +461,7 @@ GLM-5.1 is a next-generation language model optimized for agentic engineering, f
 
 `text-generation` `753.9B`
 
-⬇️ 103,847 • ❤️ 1,403 • 2d ago
+⬇️ 103,847 • ❤️ 1,403 • 3d ago
 
 ---
 
@@ -646,7 +643,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 47.9k • 🔱 6.3k • 7h ago
+⭐ 47.9k • 🔱 6.3k • 8h ago
 
 ---
 
@@ -656,7 +653,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 38.1k • 🔱 1.9k • 19h ago
+⭐ 38.1k • 🔱 1.9k • 20h ago
 
 ---
 
@@ -666,7 +663,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 36.1k • 🔱 7.3k • 3h ago
+⭐ 36.1k • 🔱 7.3k • 4h ago
 
 ---
 
@@ -676,7 +673,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 30.1k • 🔱 3.3k • 13h ago
+⭐ 30.1k • 🔱 3.3k • 15h ago
 
 ---
 
@@ -686,7 +683,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 8.2k • 🔱 528 • 1h ago
+⭐ 8.2k • 🔱 528 • 2h ago
 
 ---
 
@@ -706,7 +703,7 @@ AI Agent 源码深度研究报告
 
 `Python`
 
-⭐ 5.2k • 🔱 884 • 11h ago
+⭐ 5.2k • 🔱 884 • 13h ago
 
 ---
 

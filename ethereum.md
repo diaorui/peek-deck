@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-19T05:30:18.410496+00:00'
+updated: '2026-04-19T06:59:04.916078+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
+- social
 - cryptocurrency
 - news
-- social
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 19, 2026 at 05:30 UTC  
+**Last Updated:** April 19, 2026 at 06:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.2%  
-**7d:** -1.6%  
-**30d:** +11.9%  
-**90d:** -20.7%  
-**1y:** +47.1%  
+**24h:** -3.1%  
+**7d:** -1.7%  
+**30d:** +11.8%  
+**90d:** -20.8%  
+**1y:** +46.9%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-29m ago
+1h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hello everyone. I recently built an Ethereum page that shows how Ethereum would look if investments never lost value and I’d love someone to look at the page and give me some honest feedback on it.
 
-13h ago
+15h ago
 
 ---
 
@@ -128,7 +128,7 @@ Glamsterdam devnets drive Ethereum’s execution readiness while Hegotá opens t
 
 Solidity developer survey results, ether.fi migrated to OP Mainnet, X $ETH cashtag
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-mini-0/) • 1d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-mini-0/) • 2d ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 In an interview with CoinDesk, the Ethereum co-founder spoke also about Ethereum’s evolution through MetaMask, stablecoins and tokenization, while downplaying quantum computing as a long-term, manageable issue.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -162,7 +162,7 @@ CoinDesk • 10h ago
 
 Crypto investors have watched Ethereum (CRYPTO:ETH) trade in a narrow range near $2,362 while Bitcoin hovers around $76,000 and institutional money quietly builds positions in digital assets. Adoption metrics keep climbing — stablecoins on Ethereum now handle trillions in annual volume, and layer-2 networks process thousands of transactions per second. Yet price action feels stuck. ... Why BitMine’s Tom Lee Sees Ethereum at $62,500 in 2030 — and What the Numbers Actually Show
 
-24/7 Wall St. • 17h ago
+24/7 Wall St. • 18h ago
 
 ---
 
@@ -194,7 +194,7 @@ Decrypt • 2d ago
 
 Bitmine Immersion’s ETH staking drives 97%+ gross margins and surging revenue, but dilution and negative cash flow raise risks. Read why BMNR stock is a buy.
 
-Seeking Alpha • 16h ago
+Seeking Alpha • 17h ago
 
 ---
 
@@ -206,6 +206,14 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Ethereum Price Prediction 2026: Can ETH Hit $5,000 This Year?](https://coinpedia.org/price-analysis/ethereum-price-prediction-2026-can-eth-hit-5000-this-year/)**
+
+Ethereum price has displayed significant strength after breaking above the structure, with follow-through volume strength despite the selling pressure
+
+Coinpedia • 15h ago
+
+---
+
 **[Ethereum Foundation exec Josh Stark is stepping down](https://www.theblock.co/post/397777/ethereum-foundation-exec-josh-stark-is-stepping-down)**
 
 The move comes amid ongoing changes at the EF, including a renewed focus on scaling and developing the Ethereum mainnet.
@@ -214,19 +222,11 @@ The Block • 2d ago
 
 ---
 
-**[When Will The Ethereum Price Hit $5,000 And $10,000?](https://www.tradingview.com/news/newsbtc:08000b09e094b:0-when-will-the-ethereum-price-hit-5-000-and-10-000/)**
-
-In the last bull run, when the Bitcoin price surged and crossed $100,000, the Ethereum price was expected to follow the same trajectory as it had in the past. But that was not the case, and the second-largest cryptocurrency by market cap was barely able to cross its previous all-time high price, bu…
-
-TradingView — Track All Markets • 19h ago
-
----
-
 **[Iran closes Strait of Hormuz, Bitcoin and Ethereum prices drop](https://cryptobriefing.com/iran-closes-strait-of-hormuz-bitcoin-and-ethereum-prices-drop/)**
 
 Iran closed the Strait of Hormuz, causing Bitcoin and Ethereum to drop. UK sending warships through the strait by April 30, 2026 at 7.5% YES.
 
-Crypto Briefing • 14h ago
+Crypto Briefing • 15h ago
 
 ---
 
@@ -240,7 +240,7 @@ The Ethereum Economic Zone (EEZ) is a framework co-funded by the Ethereum Founda
 
 📺 Paul Barron Network
 
-👁️ 18K • 👍 873 • 💬 56 • ⏱️ 19:55 • 13h ago
+👁️ 18K • 👍 873 • 💬 56 • ⏱️ 19:55 • 14h ago
 
 ---
 
@@ -250,7 +250,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 3K • 👍 171 • 💬 9 • ⏱️ 20:54 • 13h ago
+👁️ 3K • 👍 171 • 💬 9 • ⏱️ 20:54 • 14h ago
 
 ---
 
@@ -260,7 +260,7 @@ http://www.x10daytrading.com/?video=d0a2Q-odIWM TRADE TO $1M WHILE WORKING 9 TO 
 
 📺 Wolf Of Dubai 2 - X10 DAY TRADING
 
-👁️ 527 • 👍 34 • 💬 3 • ⏱️ 9:31 • 5h ago
+👁️ 527 • 👍 34 • 💬 3 • ⏱️ 9:31 • 6h ago
 
 ---
 
@@ -270,7 +270,7 @@ BITCOIN WARNING: The Next TRAP Just Started!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 7K • 👍 324 • 💬 59 • ⏱️ 19:52 • 10h ago
+👁️ 7K • 👍 324 • 💬 59 • ⏱️ 19:52 • 11h ago
 
 ---
 
@@ -280,7 +280,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 126 • 👍 26 • ⏱️ 6:00 • 29m ago
+👁️ 126 • 👍 26 • ⏱️ 6:00 • 1h ago
 
 ---
 

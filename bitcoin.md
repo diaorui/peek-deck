@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-19T05:30:18.405202+00:00'
+updated: '2026-04-19T06:59:04.910001+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
+- social
 - cryptocurrency
 - news
-- social
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 19, 2026 at 05:30 UTC  
+**Last Updated:** April 19, 2026 at 06:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,10 +45,10 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** -2.0%  
-**7d:** +1.4%  
-**30d:** +9.9%  
-**90d:** -14.5%  
-**1y:** -11.3%  
+**7d:** +1.2%  
+**30d:** +9.7%  
+**90d:** -14.7%  
+**1y:** -11.5%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 I was greedy in 2022 during the crash and wanted to wait for 12k to buy. 12k never came. After BTC teleported from 15k to 30k, I wanted a deep dip to 20k to buy. 20k never came. Then I watched BTC teleport from 25k to 70k without a single down month. Zero dips given. Then the 50k dip came but got bought up by the market instantly, the window to buy was extremely shortlived and I couldn't get in. Then BTC proceeded to teleport from 50k to 110k in just a few weeks and I basically missed the whole cycle. I have a feeling the same people waiting for 40k-50k now will go through what I went through and watch as BTC teleports to 500k (or whatever the next top is) without a single major dip.
 
-14h ago
+16h ago
 
 ---
 
@@ -89,13 +89,13 @@ I was greedy in 2022 during the crash and wanted to wait for 12k to buy. 12k nev
 
 I have a group of friends that watched me make a ton of money during the 2016-2017 crypto market and asked me to tell them the next time I believed was a good time to buy (surprise, it’s almost always a good time to buy) so whenever it became a bear market, I would shoot the group chat a message and let them know it’s a good time to buy. I would get mocking responses like “Oh yeah I bet it’s a good time to buy, it’s down 10%”. They would even message me the next day when it’s down 11% and say things like “ooh it’s even lower now, I guess today’s a good day to buy too” And then the bull market comes and my group chat is peppered with angry messages about how they missed the bull run and how I didn’t tell them it’s coming. Messages like “you gotta tell me the next time it’s good to buy!” I quickly learnt that there are just some things people can’t be taught, they have to learn it themselves. Moral of the story, don’t tell people you’re into crypto and don’t tell people you made gains, regardless of who they are, in the end it’s just a headache for you.
 
-12h ago
+14h ago
 
 ---
 
 **[NBA Coach Regrets Not Buying Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1spao0u/nba_coach_regrets_not_buying_bitcoin/)**
 
-7h ago
+9h ago
 
 ---
 
@@ -103,7 +103,13 @@ I have a group of friends that watched me make a ton of money during the 2016-20
 
 You might not want to add how long you've been in but I will. 4 years. Sold .05 BTC. Regret? Yes. But I've recouped it since then so I don't consider it that big of a deal.
 
-6h ago
+8h ago
+
+---
+
+**[Do the maths!!](https://www.reddit.com/r/Bitcoin/comments/1sosymz/do_the_maths/)**
+
+21h ago
 
 ---
 
@@ -113,9 +119,11 @@ You might not want to add how long you've been in but I will. 4 years. Sold .05 
 
 ---
 
-**[Do the maths!!](https://www.reddit.com/r/Bitcoin/comments/1sosymz/do_the_maths/)**
+**[How to Bitcoin properly](https://www.reddit.com/r/Bitcoin/comments/1spfp1c/how_to_bitcoin_properly/)**
 
-20h ago
+Have enough to buy, to spare, to live, sit back relax hold for 4years+ with self custody, run nodes, don't gamble your skibidi and rock on! easy as it is.
+
+5h ago
 
 ---
 
@@ -123,15 +131,15 @@ You might not want to add how long you've been in but I will. 4 years. Sold .05 
 
 Central bank greenlights regulated crypto access while keeping strict curbs on balance-sheet exposure
 
-🔗 [coindesk.com](https://www.coindesk.com/policy/2026/04/15/pakistan-lifts-seven-year-ban-allowing-banks-to-service-virtual-asset-providers) • 18h ago
+🔗 [coindesk.com](https://www.coindesk.com/policy/2026/04/15/pakistan-lifts-seven-year-ban-allowing-banks-to-service-virtual-asset-providers) • 19h ago
 
 ---
 
-**[How to Bitcoin properly](https://www.reddit.com/r/Bitcoin/comments/1spfp1c/how_to_bitcoin_properly/)**
+**[Daily Discussion, April 19, 2026](https://www.reddit.com/r/Bitcoin/comments/1spkt0t/daily_discussion_april_19_2026/)**
 
-Have enough to buy, to spare, to live, sit back relax hold for 4years+ with self custody, run nodes, don't gamble your skibidi and rock on! easy as it is.
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-3h ago
+50m ago
 
 ---
 
@@ -139,15 +147,7 @@ Have enough to buy, to spare, to live, sit back relax hold for 4years+ with self
 
 Genuinely so happy to be done, I’ve reached my goal amount of btc to feel comfortable. I won’t lie, I make minimum wage for LA standard and ima stop buying and let it ride. Could hypothetically keep buying more but I truly have the next goal of getting 10k in fiat in my HYSA before touching any market. Sold all my stock to get to my goal and don’t regret it. Letting it ride and won’t open my wallets till I reach my saving goal. Thank you for all your help and advice, never been prouder.
 
-17h ago
-
----
-
-**[Recommended non kyc exchanges?](https://www.reddit.com/r/Bitcoin/comments/1sp7q9a/recommended_non_kyc_exchanges/)**
-
-Been out of the game for a few years. Getting back in and privacy still matters to me not hiding anything, just don't like handing over personal data. Are there any reliable non-KYC exchanges that work well ? Just looking for something simple to get started again. Thanks.
-
-9h ago
+18h ago
 
 ---
 
@@ -157,7 +157,7 @@ Been out of the game for a few years. Getting back in and privacy still matters 
 
 **[‘Buy Bitcoin’—Elon Musk’s ‘Massive’ U.S. Dollar Warning Fuels Wild Crypto Price Predictions](https://www.forbes.com/sites/digital-assets/2026/04/18/buy-bitcoin-elon-musks-massive-us-dollar-warning-fuels-wild-crypto-price-predictions/)**
 
-Forbes • 18h ago
+Forbes • 19h ago
 
 ---
 
@@ -169,11 +169,19 @@ The Block • 1d ago
 
 ---
 
+**[Musk Brothers' Father Claims $1.78 Billion Bitcoin Holdings](https://www.chosun.com/english/industry-en/2026/04/19/3BCWAUSKQRGTRFTWGQH5VNSM4Y/)**
+
+Musk Brothers Father Claims $1.78 Billion Bitcoin Holdings Errol Musk states sons hold 23,400 Bitcoin, exceeding Tesla and SpaceXs combined 19,794
+
+조선일보 • 1h ago
+
+---
+
 **[Can a $1,000 Investment in Bitcoin Turn Into $1 Million By 2045?](https://www.fool.com/investing/2026/04/19/can-a-1000-investment-in-bitcoin-turn-into-1-milli/)**
 
 This asset's reputation for climbing over time can only take a single investment so far.
 
-The Motley Fool • 39m ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -189,15 +197,13 @@ Yahoo Finance • 1d ago
 
 One of the biggest short liquidations 2026 wiped $593 million in bearish bets overnight. Saturday afternoon as Iran reportedly reversed the Hormuz reopening.
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
 
 ---
 
-**[Current price of Bitcoin for April 17, 2026](https://fortune.com/article/price-of-bitcoin-04-17-2026/)**
+**[Bitcoin Price Surges Amid Epic Strategy Buying Spree](https://www.investors.com/news/bitcoin-price-strategy-buying-power-mstr-stock-strc-issuance-saylor/)**
 
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 1d ago
+Investor's Business Daily • 1d ago
 
 ---
 
@@ -213,7 +219,7 @@ New York Magazine • 1d ago
 
 Strategy aim to reduce volatility, enable consistent bitcoin buying, and create the only bi-monthly paying preferred shares in the market.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -222,12 +228,6 @@ CoinDesk • 9h ago
 Charles Schwab is rolling out crypto trading, allowing clients to buy bitcoin and ether through a new arm called Schwab Crypto.
 
 CNBC • 2d ago
-
----
-
-**[Bitcoin’s Greatest Mystery](https://www.nytimes.com/2026/04/16/world/bitcoin-satoshi-adam-back-israel-lebanon-ceasefire.html)**
-
-The New York Times • 2d ago
 
 ---
 
@@ -305,7 +305,7 @@ A deeply technical early Bitcoiner realized that self-custody is only as strong 
 
 **[Unmasking the Creator of Bitcoin [audio]](https://news.ycombinator.com/item?id=47762113)**
 
-⬆️ 1 • 💬 0 • 4d ago • [nytimes.com](https://www.nytimes.com/2026/04/09/podcasts/the-daily/satoshi-nakamoto-bitcoin-creator.html)
+⬆️ 1 • 💬 0 • 5d ago • [nytimes.com](https://www.nytimes.com/2026/04/09/podcasts/the-daily/satoshi-nakamoto-bitcoin-creator.html)
 
 ---
 
@@ -329,7 +329,7 @@ Bitcoin just hit $78K and the signals are impossible to ignore. Institutions are
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 1K • 💬 167 • ⏱️ 12:49 • 13h ago
+👁️ 14K • 👍 1K • 💬 167 • ⏱️ 12:49 • 14h ago
 
 ---
 
@@ -339,7 +339,7 @@ IT'S RIGGED! Buckle Up' Bitcoin & Crypto Holders ⭐ Follow Altcoin Daily on X: 
 
 📺 Altcoin Daily
 
-👁️ 19K • 👍 1K • 💬 90 • ⏱️ 11:59 • 7h ago
+👁️ 19K • 👍 1K • 💬 90 • ⏱️ 11:59 • 8h ago
 
 ---
 
@@ -359,7 +359,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 46K • 👍 2K • 💬 85 • ⏱️ 57:41 • 16h ago
+👁️ 46K • 👍 2K • 💬 85 • ⏱️ 57:41 • 17h ago
 
 ---
 
@@ -389,7 +389,7 @@ Did you know there is a simple bitcoin indicator that has called every bear mark
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 270 • 💬 25 • ⏱️ 5:32 • 16h ago
+👁️ 6K • 👍 270 • 💬 25 • ⏱️ 5:32 • 18h ago
 
 ---
 
