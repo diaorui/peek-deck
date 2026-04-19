@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-19T22:37:18.915815+00:00'
+updated: '2026-04-19T23:37:59.681936+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
-- videos
 - cryptocurrency
+- social
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 19, 2026 at 22:37 UTC  
+**Last Updated:** April 19, 2026 at 23:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $75,047.63
+### $73,861.87
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.2%  
-**7d:** -0.6%  
-**30d:** +7.8%  
-**90d:** -16.2%  
-**1y:** -13.0%  
+**24h:** -2.3%  
+**7d:** -0.8%  
+**30d:** +7.5%  
+**90d:** -16.4%  
+**1y:** -13.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1493.09B
+**Market Cap:** $1478.56B
 Rank #1
 
-**Circulating Supply:** 20,018,178 BTC
+**Circulating Supply:** 20,018,206 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--40.8%
+-41.4%
 
 **All-Time Low:** $67.81
-+109879.4%
++108823.5%
 
 ---
 
@@ -77,17 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Patience, young Padawan](https://www.reddit.com/r/Bitcoin/comments/1sq3gbl/patience_young_padawan/)**
+
+3h ago
+
+---
+
 **[Milestone of 0.5 BTC](https://www.reddit.com/r/Bitcoin/comments/1spqewb/milestone_of_05_btc/)**
 
 Finally was able to own exactly 0.5 BTC. I started the hole process more than 5 years ago…. Many times i thought the train to reach this goal Is gone but I made it. Let’s see where this journey takes me. ATM I have around 0.1 on my trezor. The rest I’ll move the asap there… Let’s see where this journey takes us
 
-11h ago
-
----
-
-**[Patience, young Padawan](https://www.reddit.com/r/Bitcoin/comments/1sq3gbl/patience_young_padawan/)**
-
-2h ago
+12h ago
 
 ---
 
@@ -95,7 +95,7 @@ Finally was able to own exactly 0.5 BTC. I started the hole process more than 5 
 
 Happy stacking guys, don’t worry about short term pricing. Edit: Don’t worry about the price in (insert broken pieces of paper from your own country) in general
 
-2h ago
+3h ago
 
 ---
 
@@ -103,7 +103,7 @@ Happy stacking guys, don’t worry about short term pricing. Edit: Don’t worry
 
 Trust me, it works. Once you self custody, run a node, you dont even want to move it back and forth to exchange to sell or else until its due (4 years +) or whatever. When you let it sit on the exchange, the gambling skibidi trying to time and beat the market will be always there teasing you. But again, only those who know.
 
-10h ago
+11h ago
 
 ---
 
@@ -111,7 +111,7 @@ Trust me, it works. Once you self custody, run a node, you dont even want to mov
 
 https://preview.redd.it/0h8gnpe5g5wg1.png?width=630&format=png&auto=webp&s=6a131646156fa67ad9cf979bef8f7036b24feacb Your future self will thank your present self. 🧡
 
-9h ago
+10h ago
 
 ---
 
@@ -119,7 +119,7 @@ https://preview.redd.it/0h8gnpe5g5wg1.png?width=630&format=png&auto=webp&s=6a131
 
 Update: I took your feedback seriously and built physical prototypes. Original Post: https://www.reddit.com/r/Bitcoin/comments/1sdnhwc/bitcoin_casio_mods/ The black resin case with the orange filter is the first prototype, and I also tested a steel version with a more solid orange filter. I’m now debating whether the black case should keep the orange-to-red gradient film or switch to the cleaner solid orange look. Which direction feels stronger? Still trying to keep the idea aligned with “signal over noise” rather than making it feel gimmicky.
 
-6h ago
+7h ago
 
 ---
 
@@ -127,7 +127,7 @@ Update: I took your feedback seriously and built physical prototypes. Original P
 
 I keeep my seed phrase engraved between two metal plates. If I move to another country, is it possible that they see my seedphrase during Roentgen in the security area?
 
-2h ago
+3h ago
 
 ---
 
@@ -135,7 +135,7 @@ I keeep my seed phrase engraved between two metal plates. If I move to another c
 
 I’m having a serious issue with NC Wallet. I initiated a BTC withdrawal more than 48 hours ago, and it is still showing “pending” with no TxID at all. This means the transaction has NOT been broadcast to the Bitcoin network yet. No network fee (they claim free withdrawals) No TxID No support response No email received Funds are stuck inside the wallet I’ve already: Contacted support multiple times Posted reviews on App Store and Trustpilot No response so far. Has anyone experienced this with NC Wallet before? Is there any way to force them to process or cancel the withdrawal? Any help would be appreciated
 
-14h ago
+15h ago
 
 ---
 
@@ -167,11 +167,17 @@ CNBC • 3d ago
 
 ---
 
-**[This Signal in Bitcoin's Chart Has Never Been Wrong](https://www.fool.com/investing/2026/04/19/this-signal-in-bitcoins-chart-has-never-been-wrong/)**
+**[‘Buy Bitcoin’—Elon Musk’s ‘Massive’ U.S. Dollar Warning Fuels Wild Crypto Price Predictions](https://www.forbes.com/sites/digital-assets/2026/04/18/buy-bitcoin-elon-musks-massive-us-dollar-warning-fuels-wild-crypto-price-predictions/)**
 
-Keep an eye out for this pattern, and it could make you a stronger investor.
+Forbes • 1d ago
 
-The Motley Fool • 13h ago
+---
+
+**[This Cryptocurrency Has Quietly Outperformed Bitcoin Over the Last Year](https://www.fool.com/investing/2026/04/19/this-cryptocurrency-has-quietly-outperformed-bitco/)**
+
+Despite a crypto bear market, Ethereum is now starting to recover.
+
+The Motley Fool • 4m ago
 
 ---
 
@@ -179,7 +185,7 @@ The Motley Fool • 13h ago
 
 You may want to consider these 3 scenarios if you're thinking about buying Bitcoin today.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -187,27 +193,7 @@ Yahoo Finance • 12h ago
 
 Likely built on prior work on a 3D printing Bitcoin miner prototype.
 
-Tom's Hardware • 10h ago
-
----
-
-**[Crypto Stocks Rally As Bitcoin Breaks Two-Month High After Iran Reopens Strait](https://www.forbes.com/sites/aliciapark/2026/04/17/crypto-stocks-rally-as-bitcoin-breaks-two-month-high-after-iran-reopens-strait/)**
-
-Forbes • 2d ago
-
----
-
-**[Bitcoin dips as Iran conflict stokes broader crypto market volatility](https://www.investing.com/news/cryptocurrency-news/bitcoin-dips-as-iran-conflict-stokes-broader-crypto-market-volatility-4622210)**
-
-Investing.com • 12h ago
-
----
-
-**[Bitcoin falls back to $76,000 as Iran shuts Hormuz again](https://www.coindesk.com/markets/2026/04/18/bearish-bets-lose-usd593-million-as-bitcoin-jumps-with-iran-fully-opening-hormuz)**
-
-One of the biggest short liquidations 2026 wiped $593 million in bearish bets overnight. Saturday afternoon as Iran reportedly reversed the Hormuz reopening.
-
-CoinDesk • 2d ago
+Tom's Hardware • 11h ago
 
 ---
 
@@ -219,9 +205,23 @@ New York Magazine • 2d ago
 
 ---
 
-**[Alcoa Is Close to a Deal to Sell Smelter Site to Bitcoin Miner](https://www.bloomberg.com/news/articles/2026-04-17/alcoa-is-close-to-a-deal-to-sell-smelter-site-to-bitcoin-miner)**
+**[Crypto Stocks Rally As Bitcoin Breaks Two-Month High After Iran Reopens Strait](https://www.forbes.com/sites/aliciapark/2026/04/17/crypto-stocks-rally-as-bitcoin-breaks-two-month-high-after-iran-reopens-strait/)**
 
-Bloomberg.com • 2d ago
+Forbes • 2d ago
+
+---
+
+**[Bitcoin dips as Iran conflict stokes broader crypto market volatility](https://www.investing.com/news/cryptocurrency-news/bitcoin-dips-as-iran-conflict-stokes-broader-crypto-market-volatility-4622210)**
+
+Investing.com • 13h ago
+
+---
+
+**[Bitcoin falls back to $76,000 as Iran shuts Hormuz again](https://www.coindesk.com/markets/2026/04/18/bearish-bets-lose-usd593-million-as-bitcoin-jumps-with-iran-fully-opening-hormuz)**
+
+One of the biggest short liquidations 2026 wiped $593 million in bearish bets overnight. Saturday afternoon as Iran reportedly reversed the Hormuz reopening.
+
+CoinDesk • 2d ago
 
 ---
 
@@ -229,7 +229,7 @@ Bloomberg.com • 2d ago
 
 Strategy’s (NASDAQ:MSTR) goal is to create a product that allows people to earn above the inflation rate with their bank accounts, Chair Michael Saylor says. "Fix money, fix the world," Saylor on the "Bankless" podcast released Monday. "We have a...
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -239,7 +239,7 @@ Yahoo Finance • 21h ago
 
 **[Show HN: Using Ramanujan's Pi Series for Bitcoin Security on Nvidia B200](https://news.ycombinator.com/item?id=47823382)**
 
-⬆️ 4 • 💬 1 • 11h ago • [zenodo.org](https://zenodo.org/records/19650883)
+⬆️ 4 • 💬 1 • 12h ago • [zenodo.org](https://zenodo.org/records/19650883)
 
 ---
 
@@ -305,7 +305,7 @@ A fake Ledger app on Apple's App Store drained $9.5M from more than 50 victims a
 
 Speculation, dead‑end investigations and conspiracy theories have surrounded him for years
 
-⬆️ 2 • 💬 0 • 1h ago • [EL PAÍS English](https://english.elpais.com/economy-and-business/2026-04-19/satoshi-nakamoto-the-reclusive-billionaire-behind-bitcoin-the-best-outcome-is-that-no-one-ever-finds-out.html)
+⬆️ 2 • 💬 0 • 2h ago • [EL PAÍS English](https://english.elpais.com/economy-and-business/2026-04-19/satoshi-nakamoto-the-reclusive-billionaire-behind-bitcoin-the-best-outcome-is-that-no-one-ever-finds-out.html)
 
 ---
 
@@ -319,7 +319,7 @@ A new and powerful signal has just triggered on the chart of bitcoin, according 
 
 📺 Alessio Rastani
 
-👁️ 20K • 👍 2K • 💬 313 • ⏱️ 13:09 • 9h ago
+👁️ 25K • 👍 2K • 💬 362 • ⏱️ 13:09 • 10h ago
 
 ---
 
@@ -329,7 +329,17 @@ IT'S RIGGED! Buckle Up' Bitcoin & Crypto Holders ⭐ Follow Altcoin Daily on X: 
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 140 • ⏱️ 11:59 • 1d ago
+👁️ 40K • 👍 2K • 💬 145 • ⏱️ 11:59 • 1d ago
+
+---
+
+**[PAPER BITCOIN CRISIS?!? IS THIS WHY WE&#39;RE NOT AT $200K BITCOIN?](https://www.youtube.com/watch?v=sAcAcrJMnAY)**
+
+Follow me on X for my best content: http://www.X.com/AdamBLiv Transform Dormant Home Equity into Bitcoin with Horizon: ...
+
+📺 Adam Livingston
+
+👁️ 5K • 👍 581 • 💬 60 • ⏱️ 17:02 • 12h ago
 
 ---
 
@@ -339,27 +349,17 @@ Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=Al
 
 📺 Altcoin Daily
 
-👁️ 51K • 👍 2K • 💬 232 • ⏱️ 8:39 • 1d ago
+👁️ 52K • 👍 2K • 💬 232 • ⏱️ 8:39 • 2d ago
 
 ---
 
-**[How Close Are We to $1,000,000 Bitcoin? Adam Back Weighs In](https://www.youtube.com/watch?v=U4G7Ws9yPi8)**
+**[🚨 BTC &amp; ETH: ITS TIME!!!!!!!!!!!!!!!](https://www.youtube.com/watch?v=U1zfC9BL5hM)**
 
-Adam Back joins Cointelegraph at Paris Blockchain Week to discuss one of Bitcoin's biggest long-term questions: how real is the ...
+Its a video about bitcoin, ethereum, crypto in general. But its quite an unusual one! So dont miss it! ---------- Join My FREE ...
 
-📺 Cointelegraph
+📺 Thomas Kralow
 
-👁️ 59K • 👍 2K • 💬 195 • ⏱️ 31:34 • 2d ago
-
----
-
-**[The Mainstream Media Is LYING to You About Bitcoin!](https://www.youtube.com/watch?v=wip8XgpSocI)**
-
-A former Treasury Secretary warns the next crisis could be worse than 2008. Bond markets are cracking, inflation is rising, and ...
-
-📺 Simply Bitcoin
-
-👁️ 28K • 👍 2K • 💬 130 • ⏱️ 16:22 • 2d ago
+👁️ 13K • 👍 2K • 💬 65 • ⏱️ 7:52 • 14h ago
 
 ---
 
@@ -369,7 +369,27 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 59K • 👍 2K • 💬 85 • ⏱️ 57:41 • 1d ago
+👁️ 60K • 👍 2K • 💬 85 • ⏱️ 57:41 • 1d ago
+
+---
+
+**[The Mainstream Media Is LYING to You About Bitcoin!](https://www.youtube.com/watch?v=wip8XgpSocI)**
+
+A former Treasury Secretary warns the next crisis could be worse than 2008. Bond markets are cracking, inflation is rising, and ...
+
+📺 Simply Bitcoin
+
+👁️ 28K • 👍 2K • 💬 132 • ⏱️ 16:22 • 2d ago
+
+---
+
+**[How Close Are We to $1,000,000 Bitcoin? Adam Back Weighs In](https://www.youtube.com/watch?v=U4G7Ws9yPi8)**
+
+Adam Back joins Cointelegraph at Paris Blockchain Week to discuss one of Bitcoin's biggest long-term questions: how real is the ...
+
+📺 Cointelegraph
+
+👁️ 63K • 👍 2K • 💬 199 • ⏱️ 31:34 • 2d ago
 
 ---
 
@@ -379,7 +399,7 @@ Are you ready? CRYPTO RETIREMENT ACCOUNT HERE Sign up for iTrustCapital and get 
 
 📺 Crypto Jebb
 
-👁️ 5K • 👍 273 • 💬 87 • ⏱️ 8:10 • 2d ago
+👁️ 5K • 👍 274 • 💬 87 • ⏱️ 8:10 • 2d ago
 
 ---
 
@@ -387,27 +407,7 @@ Are you ready? CRYPTO RETIREMENT ACCOUNT HERE Sign up for iTrustCapital and get 
 
 📺 EvilTwinSkippy
 
-👁️ 1K • 👍 36 • ⏱️ 0:51 • 5h ago
-
----
-
-**[$5M Bitcoin Soon - Nobody Is Selling](https://www.youtube.com/watch?v=UBJoBo7bW2w)**
-
-Subscribe before there's no Bitcoin left to buy. There are no sellers left at these levels. Watch the full uncensored livestream on ...
-
-📺 Bitcoin News Alerts
-
-👁️ 6K • 👍 300 • 💬 233 • ⏱️ 19:49 • 23h ago
-
----
-
-**[Bitcoin Capitulation: Time-Based vs  Price-Based](https://www.youtube.com/watch?v=qNnNABmt5xA)**
-
-Into The Cryptoverse Premium: https://intothecryptoverse.com For inquiries and to subscribe to the monthy newsletter (free): ...
-
-📺 Benjamin Cowen
-
-👁️ 27K • 👍 413 • 💬 8 • ⏱️ 0:48 • 2d ago
+👁️ 1K • 👍 37 • ⏱️ 0:51 • 6h ago
 
 ---
 

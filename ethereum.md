@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-19T22:37:18.921833+00:00'
+updated: '2026-04-19T23:37:59.687108+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
-- videos
 - cryptocurrency
+- social
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 19, 2026 at 22:37 UTC  
+**Last Updated:** April 19, 2026 at 23:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.6%  
-**7d:** -4.4%  
-**30d:** +8.7%  
-**90d:** -23.0%  
-**1y:** +42.8%  
+**24h:** -3.4%  
+**7d:** -4.3%  
+**30d:** +8.9%  
+**90d:** -22.8%  
+**1y:** +43.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $275.49B
+**Market Cap:** $273.46B
 Rank #2
 
 **Circulating Supply:** 120,690,543 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--53.9%
+-54.2%
 
 **All-Time Low:** $0.43
-+527082.6%
++523271.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The Kelp DAO exploit that drained $292 million and froze Aave was preventable. A developer posted on the Aave governance forum in January 2025 that Kelp's single-validator bridge security was the weakest configuration LayerZero allows. Kelp never added the second validator. On Saturday, an attacker used that exact vulnerability.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/kelp-dao-292-million-hack-warning-ignored-layerzero/) • 13h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/kelp-dao-292-million-hack-warning-ignored-layerzero/) • 14h ago
 
 ---
 
@@ -88,19 +88,27 @@ The Kelp DAO exploit that drained $292 million and froze Aave was preventable. A
 
 Feels kinda bigger than a normal crypto meetup tbh Ethereum getting a real physical hub in Hong Kong with Foundation backing sounds like a sign the ecosystem is trying to build something more lasting than just online hype and conference cycles Hong Kong is also a pretty smart place for it if the goal is to connect builders, institutions and actual adoption in Asia Do you guys think this stuff actually matters for Ethereum long term, or is it mostly optics? https://btcusa.com/ethereum-foundation-backs-asias-first-physical-ethereum-hub-in-hong-kong-as-institutional-web3-race-intensifies/
 
-13h ago
+14h ago
+
+---
+
+**[Do you find smaller communities better than large ones for discussions?](https://www.reddit.com/r/ethereum/comments/1sq7er4/do_you_find_smaller_communities_better_than_large/)**
+
+Do you guys find smaller communities better than larger ones when it comes to actual discussions? In bigger groups, there’s always activity, but a lot of conversations feel surface-level or get lost quickly. In smaller communities, it seems easier to follow discussions, people engage more, and ideas actually develop over time. I’ve been noticing that difference more lately — feels like smaller groups tend to be more consistent, and people actually talk rather than just dropping messages and disappearing. At the same time, larger communities do have the advantage of more perspectives and faster information flow. Curious what others prefer — fast-moving large communities, or smaller groups where discussions are more focused and interactive
+
+59m ago
 
 ---
 
 **[Key Takeaways from Mike Toutonghi’s Paris Blockchain Week 2026 Keynote](https://www.reddit.com/r/ethereum/comments/1sps1nj/key_takeaways_from_mike_toutonghis_paris/)**
 
-9h ago
+10h ago
 
 ---
 
 **[Open-sourced a multi-agent contract audit skill for Claude Code](https://www.reddit.com/r/ethereum/comments/1spodq7/opensourced_a_multiagent_contract_audit_skill_for/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -124,7 +132,7 @@ Hello everyone. I recently built an Ethereum page that shows how Ethereum would 
 
 Hey all. I just wrapped my master's thesis and figured this sub would actually care about the technical side instead of the price-talk side, so here goes. The thing that always bugged me about existing web3 video platforms is that each one only solves one slice of the problem. Livepeer does transcoding. Theta does P2P relay. Odysee does storage + discovery. PeerTube does federation. None of them stitch identity + gating + payouts + delivery + governance into a single app you can actually use end to end. So I tried to build that, and then benchmark it honestly to see where the real walls are. Stack ended up being: SIWE (EIP-4361) for auth, no email/password anywhere. Wallet address is the user ID across every microservice. ERC-1155 for tiered content gating (Viewer / Supporter / VIP). VIP holders also get priority + a reward multiplier in the P2P layer. 0xSplits + a thin StreamRevenue contract for per-stream revenue distribution. Anyone can trigger the payout, the platform can't withhold. StreamToken (ERC-20 + Votes) for tipping, P2P rewards, and DAO voting. OZ Governor + Timelock controlling a ModerationRegistry contract, so bans actually go through a vote instead of a mod's mood. A custom P2P tracker (Node + WebSocket) that matches viewers by Haversine distance and rewards relays based on bytes × quality multiplier × uptime bonus, instead of the flat-rate model Theta uses. IPFS via Pinata for VOD persistence, with graceful fallback to local if pinning is down. The base streaming pipeline is boring on purpose: NGINX-RTMP ingest, FFmpeg multi-bitrate HLS (1080/720/480/360), Shaka Player on the client. Everything talks to chain through a single Web3 service (ethers.js) so the Go and Python services don't each need to know about Solidity. Target deploy is Arbitrum, dev is on a local Hardhat node. Numbers from the benchmarks (single-machine docker, M4 Pro, 2 CPU / 8 GB allocated to docker so this is conservative): NFT gate verification: P95 = 43 ms (target was <100 ms). 60s Redis cache on top. Revenue API under 50 VUs: P95 = 97 ms, 0% errors at ~78 req/s. P2P browser benchmark with 20 real headless Chromium peers: 92.6% bandwidth savings, 92% hit rate, sub-linear origin growth as peers double. Gas on Arbitrum: NFT mint ~0.024 dollars, tip ~0.018 dollars, full governance lifecycle (propose+vote+queue+execute) ~0.17 dollars. On L1 the same stuff is 100-500x more, which kills the whole thing economically. L2 isn't optional. Stuff that didn't work / I want to be honest about: I tried WHIP (WebRTC ingest) for like 3 weeks. Three different approaches with Pion + FFmpeg, all of them either gave me color corruption from RTP header extensions or frozen frames from clock mismatch. Eventually realized it was pointless: HLS segment buffering (6-12s) dominates end-to-end latency, so saving 80ms on ingest does nothing for the viewer. Killed it and went back to RTMP. Calling that out as a negative result in the thesis felt better than pretending it worked. The P2P layer right now uses a WebSocket relay through the tracker as fallback when WebRTC datachannels can't be established. Adds a hop. Direct WebRTC + proper STUN/TURN is on the future-work list. All benchmarks are single-machine. So peers share the same loopback, which obviously inflates the hit rates a bit. Real geo-distributed numbers would be worse, but the relative comparison still holds. 24h batching of P2P rewards instead of per-segment, because per-segment micropayments at 0.018 dollars a pop aren't economical even on L2. Per-stream channels (state channels / payment streams) could fix this but I didn't get there. What I'd actually love feedback on from this sub: The quality-aware reward formula (bytes × resolution multiplier × uptime). Is this gameable in obvious ways I'm missing? A peer can fake reporting bytes served, but the requesting peer also reports received bytes, so there's a cross-check. Still feels weak. Anyone running production P2P video at scale who can sanity-check the 88-93% savings number? My gut says it's optimistic for real cross-NAT conditions. Is governance-controlled moderation a complete dead end for anything bigger than a small DAO? Voting periods of "5 minutes to 24 hours" are useless for actual abuse response and I don't have a great answer for that.
 
-1d ago
+2d ago
 
 ---
 
@@ -133,14 +141,6 @@ Hey all. I just wrapped my master's thesis and figured this sub would actually c
 Is it feasible to build on layer 1 and completely get rid of layer 2?
 
 1d ago
-
----
-
-**[Daily General Discussion April 17, 2026](https://www.reddit.com/r/ethereum/comments/1snr9kw/daily_general_discussion_april_17_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-2d ago
 
 ---
 
@@ -164,11 +164,11 @@ The Block • 3d ago
 
 ---
 
-**[Ethereum Foundation-Backed Program Exposes 100 North Korea Operatives Infiltrating Crypto Firms](https://finance.yahoo.com/markets/crypto/articles/ethereum-foundation-backed-program-exposes-100-north-korea-operatives-infiltrating-crypto-firms-141000822.html)**
+**[Ethereum Price Prediction: How Much Will 1 ETH Be Worth by 2030?](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-prediction-much-1-175358502.html)**
 
-The Ketman Project, operating under the Ethereum Foundation's ETH Rangers security program, has in the latest Ethereum news, identified approximately 100 North Korea Crypto IT operatives embedded inside Web3 companies using fabricated identities, the result of a six-month investigation that ended with one of the most detailed public tallies of ...
+Ethereum (CRYPTO: ETH) is trading around $2,350 after one of its worst quarters in years. ETH dipped by 32% in Q1, marking its third-worst first quarter since 2016. Despite the awful first quarter, Ethereum’s on-chain activity keeps hitting record highs in 2026, and ETH is up 6% over the past week. Looking at the long ... Ethereum Price Prediction: How Much Will 1 ETH Be Worth by 2030?
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -184,15 +184,7 @@ CoinDesk • 1d ago
 
 Ethereum is flashing a combination of technical and on-chain signals that analysts say could be the beginning of a meaningful recovery. For the first time in months, the structure of Ethereum’s price action appears to be shifting in the favor of bulls.The latest price action has brought the ETH pri…
 
-TradingView • 4h ago
-
----
-
-**[Ethereum Price Prediction 2026: Can ETH Hit $5,000 This Year?](https://coinpedia.org/price-analysis/ethereum-price-prediction-2026-can-eth-hit-5000-this-year/)**
-
-Ethereum price has displayed significant strength after breaking above the structure, with follow-through volume strength despite the selling pressure
-
-Coinpedia • 1d ago
+TradingView • 5h ago
 
 ---
 
@@ -208,13 +200,21 @@ Seeking Alpha • 1d ago
 
 Aave's total value locked dropped by $6 billion after a $290 million exploit on KelpDAO. Ethereum reaching $10,000 by December 31, 2026 at 4% YES.
 
-Crypto Briefing • 8h ago
+Crypto Briefing • 9h ago
 
 ---
 
-**[Weekly ETF recap: How Bitcoin, Ethereum, Solana & XRP funds stacked up?](https://ambcrypto.com/weekly-etf-recap-how-bitcoin-ethereum-solana-xrp-funds-stacked-up/)**
+**[Weekly ETF recap: How Bitcoin, Ethereum, Solana & XRP funds stacked up?](https://ambcrypto.com/?p=590589)**
 
-AMBCrypto • 4h ago
+AMBCrypto • 5h ago
+
+---
+
+**[Ethereum Price Prediction 2026: Can ETH Hit $5,000 This Year?](https://coinpedia.org/price-analysis/ethereum-price-prediction-2026-can-eth-hit-5000-this-year/)**
+
+Ethereum price has displayed significant strength after breaking above the structure, with follow-through volume strength despite the selling pressure
+
+Coinpedia • 1d ago
 
 ---
 
@@ -236,7 +236,7 @@ Its a video about bitcoin, ethereum, crypto in general. But its quite an unusual
 
 📺 Thomas Kralow
 
-👁️ 12K • 👍 2K • 💬 64 • ⏱️ 7:52 • 13h ago
+👁️ 13K • 👍 2K • 💬 65 • ⏱️ 7:52 • 14h ago
 
 ---
 
@@ -246,7 +246,27 @@ Welcome back for another daily market update as always this will be a jam packed
 
 📺 AllinCrypto
 
-👁️ 11K • 👍 671 • 💬 268 • ⏱️ 19:21 • 10h ago
+👁️ 13K • 👍 713 • 💬 311 • ⏱️ 19:21 • 11h ago
+
+---
+
+**[IT’S RIGGED! Buckle Up’ Bitcoin &amp; Crypto Holders](https://www.youtube.com/watch?v=Wji5JRqdlZk)**
+
+IT'S RIGGED! Buckle Up' Bitcoin & Crypto Holders ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a ...
+
+📺 Altcoin Daily
+
+👁️ 40K • 👍 2K • 💬 145 • ⏱️ 11:59 • 1d ago
+
+---
+
+**[BITCOIN: This Is About to Get BRUTAL! (get ready) - BTC, ETH, XRP Price Prediction Today](https://www.youtube.com/watch?v=WHrNUn71cmk)**
+
+Want a free $30000 bonus + $20 just for signing up? Go here: ...
+
+📺 BitcoinHyper
+
+👁️ 5K • 👍 370 • 💬 16 • ⏱️ 52:38 • 3h ago
 
 ---
 
@@ -256,7 +276,7 @@ The Ethereum Economic Zone (EEZ) is a framework co-funded by the Ethereum Founda
 
 📺 Paul Barron Network
 
-👁️ 22K • 👍 1K • 💬 91 • ⏱️ 19:55 • 1d ago
+👁️ 23K • 👍 1K • 💬 91 • ⏱️ 19:55 • 1d ago
 
 ---
 
@@ -266,7 +286,7 @@ En este video analizamos a fondo la batalla real entre XRP Ledger y Ethereum por
 
 📺 CriptoBernie
 
-👁️ 180 • 👍 37 • 💬 3 • ⏱️ 10:14 • 2h ago
+👁️ 1K • 👍 209 • 💬 24 • ⏱️ 10:14 • 3h ago
 
 ---
 
@@ -276,47 +296,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 229 • 💬 20 • ⏱️ 20:54 • 1d ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=6aFJrX4iix4)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Crypto Gyan
-
-👁️ 717 • 👍 71 • ⏱️ 5:07 • 8h ago
-
----
-
-**[BITCOIN WARNING: The Next TRAP Just Started!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=tnFuByG5Bl0)**
-
-BITCOIN WARNING: The Next TRAP Just Started!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
-
-📺 Crypto World
-
-👁️ 10K • 👍 401 • 💬 208 • ⏱️ 19:52 • 1d ago
-
----
-
-**[Forget Ethereum — $BMNR Only Cares About Iran Now](https://www.youtube.com/watch?v=d0a2Q-odIWM)**
-
-http://www.x10daytrading.com/?video=d0a2Q-odIWM TRADE TO $1M WHILE WORKING 9 TO 5? Copy Pro Traders With ...
-
-📺 Wolf Of Dubai 2 - X10 DAY TRADING
-
-👁️ 1K • 👍 57 • 💬 5 • ⏱️ 9:31 • 22h ago
-
----
-
-**[Bitcoin Warning: Why BTC Hasn&#39;t Bottomed — Plus ETH, SOL, XRP &amp; Altcoin Targets](https://www.youtube.com/watch?v=qSxd31mu0UQ)**
-
-Gareth Soloway, Chief Market Strategist at Verified Investing, breaks down the latest crypto price action across Bitcoin, Ethereum, ...
-
-📺 Verified Pro Traders
-
-👁️ 19K • 👍 1K • 💬 327 • ⏱️ 8:13 • 2d ago
+👁️ 5K • 👍 238 • 💬 20 • ⏱️ 20:54 • 1d ago
 
 ---
 
@@ -326,7 +306,27 @@ First video: https://youtu.be/G1titKg3ZAk Elon musk replied with "ok" to the Ast
 
 📺 Kader Calls
 
-👁️ 246 • 👍 11 • 💬 2 • ⏱️ 2:24 • 11h ago
+👁️ 273 • 👍 12 • 💬 2 • ⏱️ 2:24 • 12h ago
+
+---
+
+**[Bitcoin Warning: Why BTC Hasn&#39;t Bottomed — Plus ETH, SOL, XRP &amp; Altcoin Targets](https://www.youtube.com/watch?v=qSxd31mu0UQ)**
+
+Gareth Soloway, Chief Market Strategist at Verified Investing, breaks down the latest crypto price action across Bitcoin, Ethereum, ...
+
+📺 Verified Pro Traders
+
+👁️ 19K • 👍 1K • 💬 328 • ⏱️ 8:13 • 2d ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=6aFJrX4iix4)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Crypto Gyan
+
+👁️ 759 • 👍 71 • ⏱️ 5:07 • 9h ago
 
 ---
 
