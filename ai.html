@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-04-19T14:09:43.125933+00:00"
+          "dateModified": "2026-04-19T15:06:42.349684+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -647,21 +647,23 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1sprne8/it_is_impossible_to_stop_ai_chatbots_from_using/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1sp0r1j/claude_vs_gemini_solving_the_laden_knights_tour/', '_blank')">
                     <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/Mmt5cm55dmJ3eXZnMZXgh5g64nVituOvnB3g9IkpBekBYQ79_V_Wq_t6D6wX.png?width=640&crop=smart&auto=webp&s=f35bf6a0189655aeea0ec90a5051e001995a67d5" alt="Claude vs Gemini: Solving the laden knight's tour problem" onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1sprne8/it_is_impossible_to_stop_ai_chatbots_from_using/" target="_blank" onclick="event.stopPropagation();">it is impossible to stop AI chatbots from using quotes (any instance of the character ")</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1sp0r1j/claude_vs_gemini_solving_the_laden_knights_tour/" target="_blank" onclick="event.stopPropagation();">Claude vs Gemini: Solving the laden knight's tour problem</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            no matter how i phrase it in the instructions, how many times i repeat the rule not to use quotes, and which LLM i use, i have failed to prevent any of them from using the so-called scare-quotes. it seems like they're extremely tempted to place them around a word every second sentence. think of an example like: 'is vision or hearing better?' -> 'neither sense is inherently "better"' or something like: 'what percentage of the population is stupid?' -> 'There is no scientific way to assign a percentage of the population as “stupid”' AIs struggle not to use them even when i tell it not to in the same prompt. like 'what % is stupid? and DONT use quotes in your answer.' it will still say "stupid." it's very frustrating and infuriating. this post will probably get deleted because it's a low quality vent but i don't care. just needed to see if people with premium subscription can have success.
+                            AI Coding contest day 8 The eighth challenge is a weighted variant of the classic knight's tour. The knight must visit every square of a rectangular board exactly once, but each square carries an integer weight. As it moves, the knight accumulates load, and the cost of each move equals its current load. Charge is assessed upon departure, so the weight of the final square never contributes.
                         </div>
                         
 
@@ -670,7 +672,73 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1776601729.0"></span>
+                                    <span data-timestamp="1776526302.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1spty9d/reducing_llm_context_from_80k_tokens_to_2k/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1spty9d/reducing_llm_context_from_80k_tokens_to_2k/" target="_blank" onclick="event.stopPropagation();">Reducing LLM context from ~80K tokens to ~2K without embeddings or vector DBs</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            I’ve been experimenting with a problem I kept hitting when using LLMs on real codebases: Even with good prompts, large repos don’t fit into context, so models: - miss important files - reason over incomplete information - require multiple retries Approach I explored Instead of embeddings or RAG, I tried something simpler: Extract only structural signals: functions classes routes Build a lightweight index (no external dependencies) Rank files per query using: token overlap structural signals basic heuristics (recency, dependencies) Emit a small “context layer” (~2K tokens instead of ~80K) Observations Across multiple repos: context size dropped ~97% relevant files appeared in top-5 ~70–80% of the time number of retries per task dropped noticeably The biggest takeaway: Structured context mattered more than model size in many cases. Interesting constraint I deliberately avoided: - embeddings - vector DBs - external services Everything runs locally with simple parsing + ranking. Open questions How far can heuristic ranking go before embeddings become necessary? Has anyone tried hybrid approaches (structure + embeddings)? What’s the best way to verify that answers are grounded in provided context? Docs : https://manojmallick.github.io/sigmap/ Github: https://github.com/manojmallick/sigmap
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1776607661.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1sptwqw/would_you_pay_for_an_ai_tool_that_writes_cold/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1sptwqw/would_you_pay_for_an_ai_tool_that_writes_cold/" target="_blank" onclick="event.stopPropagation();">Would you pay for an AI tool that writes cold emails tailored to each prospect? (not a pitch, genuinely asking)</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Thinking of building a tool where you paste in a prospect’s name, company, and what you’re selling, and it generates a personalized cold email in seconds. Handles tone, subject line, CTA, the whole thing.It would also allow you to import spreadsheets and generate multiple cold emails at once and also connect to the users email to send these emails for them via a chrome extension Before I go further with it, I want to know if there’s actually demand. A few questions: • Do you send cold emails for sales, outreach, or freelance work? • What’s your current process — do you write from scratch, use templates, or already use some AI tool? • Would you pay $10–15 a month for something like this if it saved you 30+ min a day? Not trying to sell anything here, just want honest answers before I invest more time. Drop your thoughts
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1776607550.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -748,41 +816,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1sp0r1j/claude_vs_gemini_solving_the_laden_knights_tour/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/Mmt5cm55dmJ3eXZnMZXgh5g64nVituOvnB3g9IkpBekBYQ79_V_Wq_t6D6wX.png?width=640&crop=smart&auto=webp&s=f35bf6a0189655aeea0ec90a5051e001995a67d5" alt="Claude vs Gemini: Solving the laden knight's tour problem" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1sp0r1j/claude_vs_gemini_solving_the_laden_knights_tour/" target="_blank" onclick="event.stopPropagation();">Claude vs Gemini: Solving the laden knight's tour problem</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            AI Coding contest day 8 The eighth challenge is a weighted variant of the classic knight's tour. The knight must visit every square of a rectangular board exactly once, but each square carries an integer weight. As it moves, the knight accumulates load, and the cost of each move equals its current load. Charge is assessed upon departure, so the weight of the final square never contributes.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1776526302.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1spnk33/i_built_a_gnome_extension_for_codex_with/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -809,6 +842,39 @@
                                 
                                 <div class="post-meta-item">
                                     <span data-timestamp="1776588318.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1sprne8/it_is_impossible_to_stop_ai_chatbots_from_using/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1sprne8/it_is_impossible_to_stop_ai_chatbots_from_using/" target="_blank" onclick="event.stopPropagation();">it is impossible to stop AI chatbots from using quotes (any instance of the character ")</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            no matter how i phrase it in the instructions, how many times i repeat the rule not to use quotes, and which LLM i use, i have failed to prevent any of them from using the so-called scare-quotes. it seems like they're extremely tempted to place them around a word every second sentence. think of an example like: 'is vision or hearing better?' -> 'neither sense is inherently "better"' or something like: 'what percentage of the population is stupid?' -> 'There is no scientific way to assign a percentage of the population as “stupid”' AIs struggle not to use them even when i tell it not to in the same prompt. like 'what % is stupid? and DONT use quotes in your answer.' it will still say "stupid." it's very frustrating and infuriating. this post will probably get deleted because it's a low quality vent but i don't care. just needed to see if people with premium subscription can have success.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1776601729.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -884,89 +950,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1sozytf/gemma_4_actually_running_usable_on_an_android/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://preview.redd.it/7vkbrlzfryvg1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=d280b0ede8211eb1eb93c50e0e7cde0c0b3ffa36" alt="Gemma 4 actually running usable on an Android phone (not llama.cpp)" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1sozytf/gemma_4_actually_running_usable_on_an_android/" target="_blank" onclick="event.stopPropagation();">Gemma 4 actually running usable on an Android phone (not llama.cpp)</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            I wanted a real local assistant on my phone, not a demo. First tried the usual llama.cpp in Termux — Gemma 4 was 2–3 tok/s and the phone was on fire. Then I switched to Google’s LiteRT setup, got Gemma 4 running smoothly, and wired it into an agent stack running in Termux. Now one Android phone is: running the LLM locally automating its own apps via ADB staying offline if I want Happy to share details + code and hear what else you’d build on top of this. https://preview.redd.it/7vkbrlzfryvg1.jpg?width=3024&format=pjpg&auto=webp&s=25455827ddf9715b4159ce64a18deba812cf0f5f
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1776524519.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1spif47/subagent_architecture_for_truth_team_3_as/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1spif47/subagent_architecture_for_truth_team_3_as/" target="_blank" onclick="event.stopPropagation();">Subagent architecture for Truth: Team 3 as Discernment Machine, a structured friction method for seeing clearly</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Fractalism has been using a method called Team 3 for some time now. It's not an oracle or a theatrical gimmick. It's a structured friction machine. The core idea: most solitary reasoning fails the same way: you find only what you were already looking for. Team 3 forces you to answer from five genuinely different positions simultaneously. The five lenses: - Scientist — structural pattern, coherence, evidence. Does it actually hold? - Philosopher — concepts, logic, what something really is - Spiritual/existential — conscience, direction, what it asks of me - Psychological — personal shadow (defense, projection) and transpersonal shadow (archetypal patterns moving through the person) - Devil's advocate — overclaim, romanticization, self-deception Team 3 works best on concrete questions: Does this conclusion follow from the evidence? What is actually happening here? What is the right next step? It becomes unreliable on large metaphysical questions where you have strong prior investment — the smaller and more specific the question, the less room for sophisticated self-deception. For an introduction in what Team 3 is: https://fractalisme.nl/team-3/ Full essay: https://fractalisme.nl/team-3-as-discernment-machine/ I'd like to know if this is a valid method of combining the best knowledge publicly available to synthesize a final answer to questions or is this my imagination?
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1776571208.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://fractalisme.nl/team-3-as-discernment-machine/" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://fractalisme.nl/favicon.svg" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
-                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
-                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
-                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
-                                            </svg>
-                                            
-                                        
-                                        <span>Fractalism</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -990,7 +973,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-04-19T13:20:28.601565+00:00">Updated 2026-04-19T13:20:28.601565+00:00</small>
+        <small data-timestamp="2026-04-19T15:06:17.573683+00:00">Updated 2026-04-19T15:06:17.573683+00:00</small>
     </div>
 </div>
 
@@ -1176,84 +1159,6 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="news-carousel-ai">
                 
-                <div class="carousel-card" onclick="window.open('https://www.axios.com/2026/04/19/ai-data-center-project-troubles-texas', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.axios.com/2026/04/19/ai-data-center-project-troubles-texas" target="_blank" onclick="event.stopPropagation();">Trump-branded AI data center megaproject stalls, CEO departs</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.axios.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Axios" class="news-favicon">
-                                    <a href="https://www.axios.com" target="_blank" onclick="event.stopPropagation();">Axios</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1776593978.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.bbc.com/news/articles/clyepyy82kxo', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://ichef.bbci.co.uk/news/1024/branded_news/dbcd/live/93df4d00-3a6c-11f1-9368-ddaac8cf7f1d.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.bbc.com/news/articles/clyepyy82kxo" target="_blank" onclick="event.stopPropagation();">Should you really trust health advice from an AI chatbot?</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Abi has had very mixed results when asking a chatbot for guidance about her health issues.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="BBC" class="news-favicon">
-                                    <a href="https://www.bbc.com" target="_blank" onclick="event.stopPropagation();">BBC</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1776553483.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/04/19/siiicon-valley-ai-agent-openclaw-problems.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108073751-1733841175034-gettyimages-520749522-sanjoseca-005.jpeg?v=1776454152&w=1920&h=1080');"></div>
@@ -1295,21 +1200,17 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.theinformation.com/articles/google-talks-marvell-build-new-ai-chips-inference', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.axios.com/2026/04/19/ai-data-center-project-troubles-texas', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://tii.imgix.net/production/articles/16954/e47154fd-3bb8-4c8f-b247-eeca76d981ac.png?fm=jpg&auto=compress&w=1200&frame=0');"></div>
+                    <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.theinformation.com/articles/google-talks-marvell-build-new-ai-chips-inference" target="_blank" onclick="event.stopPropagation();">Google in Talks With Marvell to Build New AI Chips for Inference</a>
+                            <a href="https://www.axios.com/2026/04/19/ai-data-center-project-troubles-texas" target="_blank" onclick="event.stopPropagation();">Trump-branded AI data center megaproject stalls, CEO departs</a>
                         </div>
 
                         <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Google is in talks with Marvell Technology to develop two new chips aimed at running AI models more efficiently, according to two people with direct knowledge of the discussions. One is a memory processing unit designed to work alongside Google’s tensor processing unit. The other is a new TPU ...
-                        </div>
                         
 
                         <!-- Metadata (source, time) -->
@@ -1318,9 +1219,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theinformation.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Information" class="news-favicon">
-                                    <a href="https://www.theinformation.com" target="_blank" onclick="event.stopPropagation();">The Information</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.axios.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Axios" class="news-favicon">
+                                    <a href="https://www.axios.com" target="_blank" onclick="event.stopPropagation();">Axios</a>
                                     
                                 </div>
                                 
@@ -1328,7 +1229,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1776603600.0"></span>
+                                    <span data-timestamp="1776604450.0"></span>
                                 </div>
                                 
                             </div>
@@ -1336,14 +1237,14 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.economist.com/by-invitation/2026/04/19/no-to-laissez-faire-on-ai-yes-to-a-light-touch', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.forbes.com/sites/sandycarter/2026/04/19/china-writes-the-ai-companion-gdpr-for-a-30b-market/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.economist.com/by-invitation/2026/04/19/no-to-laissez-faire-on-ai-yes-to-a-light-touch" target="_blank" onclick="event.stopPropagation();">No to laissez-faire on AI, yes to a light touch</a>
+                            <a href="https://www.forbes.com/sites/sandycarter/2026/04/19/china-writes-the-ai-companion-gdpr-for-a-30b-market/" target="_blank" onclick="event.stopPropagation();">China Writes The AI Companion GDPR For A $30B Market</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1355,9 +1256,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.economist.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Economist" class="news-favicon">
-                                    <a href="https://www.economist.com" target="_blank" onclick="event.stopPropagation();">The Economist</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.forbes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Forbes" class="news-favicon">
+                                    <a href="https://www.forbes.com" target="_blank" onclick="event.stopPropagation();">Forbes</a>
                                     
                                 </div>
                                 
@@ -1365,7 +1266,89 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1776604073.0"></span>
+                                    <span data-timestamp="1776605400.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://chicago.suntimes.com/columnists/2026/04/19/new-ai-platforms-hackers-tools-cybersecurity-column', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://cst.brightspotcdn.com/dims4/default/421d3d9/2147483647/strip/true/crop/3264x1863+0+292/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F44%2F14%2F8458e9c94bf19f812bc661a2fcd7%2Fimg-4581.JPG');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://chicago.suntimes.com/columnists/2026/04/19/new-ai-platforms-hackers-tools-cybersecurity-column" target="_blank" onclick="event.stopPropagation();">New AI platforms hand hackers powerful new tools for cracking cybersecurity</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Anthropic released its new Mythos AI to 40 top tech companies so they can debug their systems before the bad guys get a chance.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://chicago.suntimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Chicago Sun-Times" class="news-favicon">
+                                    <a href="https://chicago.suntimes.com" target="_blank" onclick="event.stopPropagation();">Chicago Sun-Times</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1776605820.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.cnn.com/2026/04/19/politics/trump-bible-reading-oval-office', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2179471746.jpg?c=16x9&q=w_800,c_fill');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.cnn.com/2026/04/19/politics/trump-bible-reading-oval-office" target="_blank" onclick="event.stopPropagation();">Trump to read Bible verse from Oval Office after feud with Pope and deleted AI image</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            President Donald Trump will participate in a public Bible reading this week as the administration continues to integrate religion, particularly Christianity, into official business.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="CNN" class="news-favicon">
+                                    <a href="https://www.cnn.com" target="_blank" onclick="event.stopPropagation();">CNN</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1776571315.0"></span>
                                 </div>
                                 
                             </div>
@@ -1380,7 +1363,7 @@
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.nytimes.com/2026/04/19/business/ai-at-work-creativity-ageism.html" target="_blank" onclick="event.stopPropagation();">My Boss Loves ChatGPT. Must I Fake Loving It Too?</a>
+                            <a href="https://www.nytimes.com/2026/04/19/business/ai-at-work-creativity-ageism.html" target="_blank" onclick="event.stopPropagation();">My Boss Is Addled by ChatGPT. Do I Have to Play Along?</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1403,43 +1386,6 @@
                                 
                                 <div class="news-meta-item">
                                     <span data-timestamp="1776589385.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.forbes.com/sites/jaymcgregor/2026/04/18/samsung-one-ui-85-galaxy-s24-s25-ai-features-update/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.forbes.com/sites/jaymcgregor/2026/04/18/samsung-one-ui-85-galaxy-s24-s25-ai-features-update/" target="_blank" onclick="event.stopPropagation();">Samsung To Release New Free Upgrade To Millions Of Galaxy Phones</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.forbes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Forbes" class="news-favicon">
-                                    <a href="https://www.forbes.com" target="_blank" onclick="event.stopPropagation();">Forbes</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1776543740.0"></span>
                                 </div>
                                 
                             </div>
@@ -1488,6 +1434,47 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.bbc.com/news/articles/clyepyy82kxo', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://ichef.bbci.co.uk/news/1024/branded_news/dbcd/live/93df4d00-3a6c-11f1-9368-ddaac8cf7f1d.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.bbc.com/news/articles/clyepyy82kxo" target="_blank" onclick="event.stopPropagation();">Should you really trust health advice from an AI chatbot?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Abi has had very mixed results when asking a chatbot for guidance about her health issues.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="BBC" class="news-favicon">
+                                    <a href="https://www.bbc.com" target="_blank" onclick="event.stopPropagation();">BBC</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1776553483.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.washingtonpost.com/technology/2026/04/18/ai-doom-influencers-safety/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/04-07-2026/t_b30e57cdb1154e459d8136e4707e76d4_name_Screenshot_2026_04_07_at_10_02_42_AM_scaled.jpg&w=1440');"></div>
@@ -1529,17 +1516,21 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.politico.com/news/magazine/2026/04/18/grindr-ai-politics-california-interview-00879011', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.theinformation.com/articles/google-talks-marvell-build-new-ai-chips-inference', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
+                    <div class="article-thumbnail" style="background-image: url('https://tii.imgix.net/production/articles/16954/e47154fd-3bb8-4c8f-b247-eeca76d981ac.png?fm=jpg&auto=compress&w=1200&frame=0');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.politico.com/news/magazine/2026/04/18/grindr-ai-politics-california-interview-00879011" target="_blank" onclick="event.stopPropagation();">Grindr’s CEO Has a Favorite in the California Governor’s Race</a>
+                            <a href="https://www.theinformation.com/articles/google-talks-marvell-build-new-ai-chips-inference" target="_blank" onclick="event.stopPropagation();">Google in Talks With Marvell to Build New AI Chips for Inference</a>
                         </div>
 
                         <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Google is in talks with Marvell Technology to develop two new chips aimed at running AI models more efficiently, according to two people with direct knowledge of the discussions. One is a memory processing unit designed to work alongside Google’s tensor processing unit. The other is a new TPU ...
+                        </div>
                         
 
                         <!-- Metadata (source, time) -->
@@ -1548,9 +1539,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.politico.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Politico" class="news-favicon">
-                                    <a href="https://www.politico.com" target="_blank" onclick="event.stopPropagation();">Politico</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theinformation.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Information" class="news-favicon">
+                                    <a href="https://www.theinformation.com" target="_blank" onclick="event.stopPropagation();">The Information</a>
                                     
                                 </div>
                                 
@@ -1558,7 +1549,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1776528000.0"></span>
+                                    <span data-timestamp="1776603600.0"></span>
                                 </div>
                                 
                             </div>
@@ -1586,7 +1577,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-04-19T13:20:50.841496+00:00">Updated 2026-04-19T13:20:50.841496+00:00</small>
+        <small data-timestamp="2026-04-19T15:06:38.245081+00:00">Updated 2026-04-19T15:06:38.245081+00:00</small>
     </div>
 </div>
 
@@ -1807,10 +1798,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 330</span>
+                                    <span class="post-points">▲ 353</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 327</span>
+                                    <span style="color: #9ca3af;">💬 345</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1960,7 +1951,7 @@
                                     <span class="post-points">▲ 192</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 224</span>
+                                    <span style="color: #9ca3af;">💬 225</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2006,7 +1997,7 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 110</span>
+                                    <span class="post-points">▲ 111</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 174</span>
@@ -2055,10 +2046,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 96</span>
+                                    <span class="post-points">▲ 100</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 58</span>
+                                    <span style="color: #9ca3af;">💬 61</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2075,6 +2066,55 @@
                                             
                                         
                                         <span>IEEE Spectrum</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=47824068', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="post-thumbnail" style="background-image: url('https://images.globalplayer.com/images/806846?crop=16_9&width=1200&signature=j04FpBQ6JCKH2_YlpvLA0NQhcG0=');"></div>
+
+                    <div class="post-content">
+                        <!-- Post title (fixed 3-line height) -->
+                        <div class="post-title">
+                            <a href="https://news.ycombinator.com/item?id=47824068" target="_blank" onclick="event.stopPropagation();">Airline worker arrested after sharing photos of bomb damage in WhatsApp group</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Police lured the man to a meeting and arrested him after accessing a private WhatsApp group with colleagues
+                        </div>
+                        
+
+                        <!-- Metadata (points, comments, time) -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-points">▲ 88</span>
+                                </div>
+                                <div class="post-meta-item">
+                                    <span style="color: #9ca3af;">💬 53</span>
+                                </div>
+                            </div>
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-age" data-timestamp="2026-04-19T13:13:09Z"></span>
+                                </div>
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://www.lbc.co.uk/article/dubai-police-spied-private-whatsapp-5HjdXwr_2/" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://www.lbc.co.uk/apple-touch-icon.png" alt="" class="post-favicon">
+                                            
+                                        
+                                        <span>LBC</span>
                                     </a>
                                 </div>
                                 
@@ -2124,55 +2164,6 @@
                                             
                                         
                                         <span>Open Culture</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=47793522', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" style="background-image: url('https://s.yimg.com/ny/api/res/1.2/rm0N5xdsU78RzldeutvnNQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MTA-/https://s.yimg.com/os/creatr-uploaded-images/2026-04/b587fd40-38f4-11f1-bf6f-7a994e2a8e6f');"></div>
-
-                    <div class="post-content">
-                        <!-- Post title (fixed 3-line height) -->
-                        <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=47793522" target="_blank" onclick="event.stopPropagation();">There's yet another study about how bad AI is for our brains</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Researchers have conducted another study about AI and its effects on the human brain. The results were grim.
-                        </div>
-                        
-
-                        <!-- Metadata (points, comments, time) -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-points">▲ 50</span>
-                                </div>
-                                <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 63</span>
-                                </div>
-                            </div>
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-04-16T14:30:38Z"></span>
-                                </div>
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://www.engadget.com/ai/theres-yet-another-study-about-how-bad-ai-is-for-our-brains-183418494.html" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://www.engadget.com/favicon.ico" alt="" class="post-favicon">
-                                            
-                                        
-                                        <span>Engadget</span>
                                     </a>
                                 </div>
                                 
@@ -2299,7 +2290,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-04-19T13:20:30.356715+00:00">Updated 2026-04-19T13:20:30.356715+00:00</small>
+        <small data-timestamp="2026-04-19T15:06:19.358421+00:00">Updated 2026-04-19T15:06:19.358421+00:00</small>
     </div>
 </div>
 
