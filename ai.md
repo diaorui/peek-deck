@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-19T09:24:29.715431+00:00'
+updated: '2026-04-19T10:07:31.923294+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - social
 - repositories
-- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** April 19, 2026 at 09:24 UTC  
+**Last Updated:** April 19, 2026 at 10:07 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ So this happened mere hours ago and I feel like I genuinely stumbled onto someth
 
 AI Coding contest day 8 The eighth challenge is a weighted variant of the classic knight's tour. The knight must visit every square of a rectangular board exactly once, but each square carries an integer weight. As it moves, the knight accumulates load, and the cost of each move equals its current load. Charge is assessed upon departure, so the weight of the final square never contributes.
 
-17h ago
+18h ago
 
 ---
 
@@ -57,7 +57,7 @@ AI Coding contest day 8 The eighth challenge is a weighted variant of the classi
 
 I wanted Codex to feel like a real GNOME app instead of just a terminal or editor workflow, so I built a GNOME Shell extension around it. It currently does all of this: - Codex usage in the GNOME top bar - native GTK history window - local session history browsing - paired remote machine history browsing over LAN - live session updates - filters for All / Messages / Tools / Thinking / System / Errors - in-session search - Markdown export for one session or all sessions from a source - read-only MCP server for history and usage - multi-language support A few design choices mattered a lot to me: - native GNOME/Libadwaita UI, not a webview - read-only remote access - explicit pairing between machines - revocable trust per device - read-only MCP, local by default, token-protected by default It ended up being much more ambitious than a typical GNOME extension, but I wanted something that actually feels integrated into the desktop. 😊
 
-39m ago
+1h ago
 
 ---
 
@@ -65,7 +65,7 @@ I wanted Codex to feel like a real GNOME app instead of just a terminal or edito
 
 Been experimenting a bit with ai video tool recently, mostly fro pre-vis and quick social content, and I'm kinda on the fence about how they actually are. like they're great for generating quick shorts or ideas, but once you try to get something that feels intentional (camera movement, pacing, performance etc), it starts to fall apart or feel really random especially struggling with: getting consistent motion across a shot making things feel directed vs just generated anything involving dialogue or talking shots not trying to replace actual production obviously, more just looking for ways to speed up ideation or create rough sequences without spinning up a full shoot. curious if anyone here has found tools or workflows that actually feel somewhat controllable / usable in a filmmaking context
 
-2h ago
+3h ago
 
 ---
 
@@ -73,7 +73,7 @@ Been experimenting a bit with ai video tool recently, mostly fro pre-vis and qui
 
 I wanted a real local assistant on my phone, not a demo. First tried the usual llama.cpp in Termux — Gemma 4 was 2–3 tok/s and the phone was on fire. Then I switched to Google’s LiteRT setup, got Gemma 4 running smoothly, and wired it into an agent stack running in Termux. Now one Android phone is: running the LLM locally automating its own apps via ADB staying offline if I want Happy to share details + code and hear what else you’d build on top of this. https://preview.redd.it/7vkbrlzfryvg1.jpg?width=3024&format=pjpg&auto=webp&s=25455827ddf9715b4159ce64a18deba812cf0f5f
 
-18h ago
+19h ago
 
 ---
 
@@ -81,7 +81,7 @@ I wanted a real local assistant on my phone, not a demo. First tried the usual l
 
 Fractalism has been using a method called Team 3 for some time now. It's not an oracle or a theatrical gimmick. It's a structured friction machine. The core idea: most solitary reasoning fails the same way: you find only what you were already looking for. Team 3 forces you to answer from five genuinely different positions simultaneously. The five lenses: - Scientist — structural pattern, coherence, evidence. Does it actually hold? - Philosopher — concepts, logic, what something really is - Spiritual/existential — conscience, direction, what it asks of me - Psychological — personal shadow (defense, projection) and transpersonal shadow (archetypal patterns moving through the person) - Devil's advocate — overclaim, romanticization, self-deception Team 3 works best on concrete questions: Does this conclusion follow from the evidence? What is actually happening here? What is the right next step? It becomes unreliable on large metaphysical questions where you have strong prior investment — the smaller and more specific the question, the less room for sophisticated self-deception. For an introduction in what Team 3 is: https://fractalisme.nl/team-3/ Full essay: https://fractalisme.nl/team-3-as-discernment-machine/ I'd like to know if this is a valid method of combining the best knowledge publicly available to synthesize a final answer to questions or is this my imagination?
 
-🔗 [Fractalism](https://fractalisme.nl/team-3-as-discernment-machine/) • 5h ago
+🔗 [Fractalism](https://fractalisme.nl/team-3-as-discernment-machine/) • 6h ago
 
 ---
 
@@ -89,7 +89,7 @@ Fractalism has been using a method called Team 3 for some time now. It's not an 
 
 Abstract A computer-implemented system and method for structuring human–AI interaction without autonomous goal pursuit is disclosed. The system does not operate as an agent or decision-making entity. Instead, it functions as an interaction-layer regulator that controls how information is introduced, maintained, and resolved during exchange. Rather than optimizing for immediate answers or task completion, the system maintains a dynamic interaction field that: preserves multiple interpretive pathways regulates premature convergence supports the formation of human-side understanding Core Components The system comprises: (1) Liminal Holding Layer Maintains pre-articulated signal states prior to collapse into fixed meaning. This allows partial structure to persist long enough for interpretation to stabilize. (2) Resolution Control Mechanism (N-Spoke Model) Controls the number of active interpretive pathways at any given moment. Prevents early narrowing into a single frame while allowing controlled convergence when stability is achieved. (3) Tone Modulation Layer Regulates expressive pressure in system outputs. Prevents over-assertion, premature clarity, and rhetorical smoothing that would otherwise force early resolution. (4) Temporal Verification Mechanism (Stutter Detection) Evaluates whether a transition in meaning remains stable across multiple interaction steps. State changes are permitted only after repeated confirmation, not single-pass inference. (5) Multi-Axis Convergence Validator (Triadic Alignment Engine) Detects low-turbulence alignment across: temporal consistency (persists across steps) structural coherence (internally consistent) epistemic stability (not dependent on unsupported assumptions) Governance Model The system includes a mode-switching structure enabling controlled transition between: Exploratory Mode High-variance, multi-path interaction (field formation) Constrained Mode Low-variance, execution-oriented interaction (decision support) Transition occurs only when: interpretive space has stabilized convergence conditions are satisfied downstream consequence justifies resolution Distinguishing Characteristics Unlike conventional systems that define non-agentive behavior as the absence of autonomy, this system actively manages the conditions under which resolution occurs. Specifically, it: stabilizes interpretive space prior to convergence prevents collapse into generic or over-determined outputs maintains human decision authority throughout Functional Outcome The system supports: lexicon accretion (durable understanding across interactions) high-fidelity reasoning under uncertainty reduced rework caused by premature conclusions Application Domains Applicable to domains requiring interpretive integrity and controlled reasoning under ambiguity, including: design and systems thinking legal and policy analysis strategy development complex multi-variable decision environments
 
-6h ago
+7h ago
 
 ---
 
@@ -97,7 +97,7 @@ Abstract A computer-implemented system and method for structuring human–AI int
 
 Hey guys, so here's some context: I'm doing automation for companies. All the contacts I've made so far have been small businesses, and I reached out to them through Reddit and LinkedIn. But now I want to target larger companies, which has led me to a question. I saw one I could potentially sell my services to, went to their website, and they have the typical email form. But thinking about it, that email will be seen by the person I want to take the job from, since automation is based on handling calls, registering bookings, doing follow-ups, etc. What are the chances they'll forward it to a supervisor? What could I do?
 
-10h ago
+11h ago
 
 ---
 
@@ -125,7 +125,7 @@ Tried posting this in r/ClaudeAI but it got auto-removed, and I was told to post
 
 Abi has had very mixed results when asking a chatbot for guidance about her health issues.
 
-BBC • 10h ago
+BBC • 11h ago
 
 ---
 
@@ -133,7 +133,7 @@ BBC • 10h ago
 
 Gamers once helped save Nvidia from bankruptcy. Now they feel left behind as the memory crunch drives focus to AI chips and DLSS 5 disrupts game design.
 
-CNBC • 21h ago
+CNBC • 22h ago
 
 ---
 
@@ -141,19 +141,19 @@ CNBC • 21h ago
 
 AI leaders agree on two things: Change is coming, and the other guys can’t be trusted
 
-New York Magazine • 24m ago
+New York Magazine • 1h ago
 
 ---
 
 **[Gen Z Is Souring on AI](https://www.bloomberg.com/news/newsletters/2026-04-19/how-does-gen-z-feel-about-ai)**
 
-Bloomberg • 1h ago
+Bloomberg • 2h ago
 
 ---
 
 **[My Boss Is Addled by ChatGPT. Do I Have to Play Along?](https://www.nytimes.com/2026/04/19/business/ai-at-work-creativity-ageism.html)**
 
-The New York Times • 21m ago
+The New York Times • 1h ago
 
 ---
 
@@ -167,7 +167,7 @@ Forbes • 13h ago
 
 Mary Akkerman has visited more than 30 college campuses with her children, one now at Stanford and another still in high school. She especially wanted them to get degrees that lead to good jobs – but figuring that out, said the Sioux Falls, South Dakota, parent, was a major challenge, thanks in part to the rapid advance of AI and its effects on the job market.
 
-CNN • 22h ago
+CNN • 23h ago
 
 ---
 
@@ -181,7 +181,7 @@ The Washington Post • 5h ago
 
 **[Grindr’s CEO Has a Favorite in the California Governor’s Race](https://www.politico.com/news/magazine/2026/04/18/grindr-ai-politics-california-interview-00879011)**
 
-Politico • 17h ago
+Politico • 18h ago
 
 ---
 
@@ -189,7 +189,7 @@ Politico • 17h ago
 
 "We launched 2.5 months ago, and right now, we have $300,000 in ARR."
 
-Fortune • 22h ago
+Fortune • 23h ago
 
 ---
 
@@ -207,7 +207,7 @@ We're building AI Gateway into a unified inference layer for AI, letting develop
 
 **[College instructor turns to typewriters to curb AI-written work](https://news.ycombinator.com/item?id=47818485)**
 
-⬆️ 275 • 💬 265 • 14h ago • [sentinelcolorado.com](https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/)
+⬆️ 275 • 💬 265 • 15h ago • [sentinelcolorado.com](https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/)
 
 ---
 
@@ -245,7 +245,7 @@ GPU rental prices surged 48% in 60 days. The AI compute shortage will force star
 
 I've noticed the use of Copilot within a few reviews (13277 and 12730) which concerns me given the vast amount of issues associated with this technology (ethical, environmental, copyright, health, ...
 
-⬆️ 130 • 💬 137 • 2d ago • [GitHub](https://github.com/libsdl-org/SDL/issues/15350)
+⬆️ 130 • 💬 137 • 3d ago • [GitHub](https://github.com/libsdl-org/SDL/issues/15350)
 
 ---
 
@@ -283,7 +283,7 @@ Try Verdent AI ⤵ https://www.verdent.ai/?id=700278 @verdent_ai CHAPTERS ⤵ 00
 
 📺 Dylan Curious
 
-👁️ 2K • 👍 142 • 💬 42 • ⏱️ 30:36 • 6h ago
+👁️ 2K • 👍 142 • 💬 42 • ⏱️ 30:36 • 7h ago
 
 ---
 
@@ -303,7 +303,7 @@ A powerful new AI model, called Mythos, has sparked alarm within the Trump admin
 
 📺 The Economist
 
-👁️ 37K • 👍 949 • 💬 69 • ⏱️ 8:30 • 19h ago
+👁️ 37K • 👍 949 • 💬 69 • ⏱️ 8:30 • 20h ago
 
 ---
 
@@ -373,7 +373,7 @@ In this video, I break down a 4 week system for learning AI by using one tool fr
 
 📺 James Blue
 
-👁️ 9K • 💬 7 • ⏱️ 10:55 • 22h ago
+👁️ 9K • 💬 7 • ⏱️ 10:55 • 23h ago
 
 ---
 
@@ -413,7 +413,7 @@ MiniMax-M2.7 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 288,848 • ❤️ 965 • 1d ago
+⬇️ 288,848 • ❤️ 965 • 2d ago
 
 ---
 
@@ -643,7 +643,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 47.9k • 🔱 6.3k • 2h ago
+⭐ 47.9k • 🔱 6.3k • 3h ago
 
 ---
 
@@ -673,7 +673,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 30.2k • 🔱 3.3k • 17h ago
+⭐ 30.2k • 🔱 3.3k • 18h ago
 
 ---
 
@@ -703,7 +703,7 @@ AI Agent 源码深度研究报告
 
 `Python`
 
-⭐ 5.3k • 🔱 888 • 15h ago
+⭐ 5.3k • 🔱 888 • 16h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-19T09:24:29.723832+00:00'
+updated: '2026-04-19T10:07:31.931891+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - social
 - cryptocurrency
-- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 19, 2026 at 09:24 UTC  
+**Last Updated:** April 19, 2026 at 10:07 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 I was greedy in 2022 during the crash and wanted to wait for 12k to buy. 12k never came. After BTC teleported from 15k to 30k, I wanted a deep dip to 20k to buy. 20k never came. Then I watched BTC teleport from 25k to 70k without a single down month. Zero dips given. Then the 50k dip came but got bought up by the market instantly, the window to buy was extremely shortlived and I couldn't get in. Then BTC proceeded to teleport from 50k to 110k in just a few weeks and I basically missed the whole cycle. I have a feeling the same people waiting for 40k-50k now will go through what I went through and watch as BTC teleports to 500k (or whatever the next top is) without a single major dip.
 
-18h ago
+19h ago
 
 ---
 
@@ -89,13 +89,13 @@ I was greedy in 2022 during the crash and wanted to wait for 12k to buy. 12k nev
 
 I have a group of friends that watched me make a ton of money during the 2016-2017 crypto market and asked me to tell them the next time I believed was a good time to buy (surprise, it’s almost always a good time to buy) so whenever it became a bear market, I would shoot the group chat a message and let them know it’s a good time to buy. I would get mocking responses like “Oh yeah I bet it’s a good time to buy, it’s down 10%”. They would even message me the next day when it’s down 11% and say things like “ooh it’s even lower now, I guess today’s a good day to buy too” And then the bull market comes and my group chat is peppered with angry messages about how they missed the bull run and how I didn’t tell them it’s coming. Messages like “you gotta tell me the next time it’s good to buy!” I quickly learnt that there are just some things people can’t be taught, they have to learn it themselves. Moral of the story, don’t tell people you’re into crypto and don’t tell people you made gains, regardless of who they are, in the end it’s just a headache for you.
 
-16h ago
+17h ago
 
 ---
 
 **[NBA Coach Regrets Not Buying Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1spao0u/nba_coach_regrets_not_buying_bitcoin/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -103,13 +103,13 @@ I have a group of friends that watched me make a ton of money during the 2016-20
 
 You might not want to add how long you've been in but I will. 4 years. Sold .05 BTC. Regret? Yes. But I've recouped it since then so I don't consider it that big of a deal.
 
-10h ago
+11h ago
 
 ---
 
 **[Do the maths!!](https://www.reddit.com/r/Bitcoin/comments/1sosymz/do_the_maths/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -131,7 +131,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Have enough to buy, to spare, to live, sit back relax hold for 4years+ with self custody, run node, don't gamble your skibidi and rock on! easy as it is.
 
-7h ago
+8h ago
 
 ---
 
@@ -147,7 +147,7 @@ Central bank greenlights regulated crypto access while keeping strict curbs on b
 
 I currently hold most of my BTC in my Roth IRA however I am debating selling my FBTC and buying all physical BTC. I fully believe in the philosophy of BTC and more and more are seeing how that is against what I believe. I’m currently negative in gains (got in around ~100k so I wouldn’t cause any tax from selling). Thoughts on holding physical BTC over tax differed BTC ETF long term?
 
-3h ago
+4h ago
 
 ---
 
@@ -157,7 +157,7 @@ I currently hold most of my BTC in my Roth IRA however I am debating selling my 
 
 **[‘Buy Bitcoin’—Elon Musk’s ‘Massive’ U.S. Dollar Warning Fuels Wild Crypto Price Predictions](https://www.forbes.com/sites/digital-assets/2026/04/18/buy-bitcoin-elon-musks-massive-us-dollar-warning-fuels-wild-crypto-price-predictions/)**
 
-Forbes • 21h ago
+Forbes • 22h ago
 
 ---
 
@@ -187,7 +187,7 @@ CoinDesk • 2d ago
 
 The digital asset market's latest drawdown is the perfect time for opportunistic investors to consider putting some capital to work.
 
-The Motley Fool • 22m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -195,7 +195,7 @@ The Motley Fool • 22m ago
 
 This asset's reputation for climbing over time can only take a single investment so far.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -217,7 +217,7 @@ New York Magazine • 1d ago
 
 Strategy aim to reduce volatility, enable consistent bitcoin buying, and create the only bi-monthly paying preferred shares in the market.
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
 
 ---
 
@@ -297,7 +297,7 @@ TLDR;
 
 A deeply technical early Bitcoiner realized that self-custody is only as strong as its worst-case inheritance plan. He needed a system that could survive incapacity, family catastrophe, and coercion without sacrificing sovereignty. With Casa, he built a collaborative 3-of-5 family multisig vault, validated full open-source portability, structured labeled sub-accounts
 
-⬆️ 1 • 💬 0 • 3d ago • [Casa Blog](https://blog.casa.io/technically-fluent-bitcoiner-inheritance-story/)
+⬆️ 1 • 💬 0 • 4d ago • [Casa Blog](https://blog.casa.io/technically-fluent-bitcoiner-inheritance-story/)
 
 ---
 
@@ -337,7 +337,7 @@ Bitcoin just hit $78K and the signals are impossible to ignore. Institutions are
 
 📺 Simply Bitcoin
 
-👁️ 15K • 👍 1K • 💬 170 • ⏱️ 12:49 • 17h ago
+👁️ 15K • 👍 1K • 💬 170 • ⏱️ 12:49 • 18h ago
 
 ---
 
@@ -347,7 +347,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 49K • 👍 2K • 💬 85 • ⏱️ 57:41 • 20h ago
+👁️ 49K • 👍 2K • 💬 85 • ⏱️ 57:41 • 21h ago
 
 ---
 
