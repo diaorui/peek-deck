@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-19T19:22:51.751757+00:00'
+updated: '2026-04-19T20:00:14.629851+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - social
+- cryptocurrency
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 19, 2026 at 19:22 UTC  
+**Last Updated:** April 19, 2026 at 20:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Finally was able to own exactly 0.5 BTC. I started the hole process more than 5 years ago…. Many times i thought the train to reach this goal Is gone but I made it. Let’s see where this journey takes me. ATM I have around 0.1 on my trezor. The rest I’ll move the asap there… Let’s see where this journey takes us
 
-7h ago
+8h ago
 
 ---
 
@@ -89,7 +89,7 @@ Finally was able to own exactly 0.5 BTC. I started the hole process more than 5 
 
 Trust me, it works. Once you self custody, run a node, you dont even want to move it back and forth to exchange to sell or else until its due (4 years +) or whatever. When you let it sit on the exchange, the gambling skibidi trying to time and beat the market will be always there teasing you. But again, only those who know.
 
-6h ago
+7h ago
 
 ---
 
@@ -97,7 +97,7 @@ Trust me, it works. Once you self custody, run a node, you dont even want to mov
 
 https://preview.redd.it/0h8gnpe5g5wg1.png?width=630&format=png&auto=webp&s=6a131646156fa67ad9cf979bef8f7036b24feacb Your future self will thank your present self. 🧡
 
-5h ago
+6h ago
 
 ---
 
@@ -105,7 +105,7 @@ https://preview.redd.it/0h8gnpe5g5wg1.png?width=630&format=png&auto=webp&s=6a131
 
 Update: I took your feedback seriously and built physical prototypes. Original Post: https://www.reddit.com/r/Bitcoin/comments/1sdnhwc/bitcoin_casio_mods/ The black resin case with the orange filter is the first prototype, and I also tested a steel version with a more solid orange filter. I’m now debating whether the black case should keep the orange-to-red gradient film or switch to the cleaner solid orange look. Which direction feels stronger? Still trying to keep the idea aligned with “signal over noise” rather than making it feel gimmicky.
 
-3h ago
+4h ago
 
 ---
 
@@ -129,7 +129,7 @@ I was greedy in 2022 during the crash and wanted to wait for 12k to buy. 12k nev
 
 Been thinking about this for a while and curious what this sub thinks. The idea is simple: instead of selling BTC every time you need to spend, you borrow against it. Your BTC stays in your wallet. You spend the borrowed stablecoins via a card. You repay your debt whenever you want. No tax event from borrowing to spend, you keep your exposure, and if BTC returns more than the 5-7% borrow rate (which historically it has), you come out ahead. This idea has been built by Liquid Banking app, obviously there's liquidation risk if BTC dumps hard enough but for long-term holders with a meaningful stack, the math seems better than selling and paying capital gains tax every time you want to buy groceries. Is anyone else doing something similar?
 
-26m ago
+1h ago
 
 ---
 
@@ -151,7 +151,7 @@ I have a renewal that only will take BTC/SATS. It gives me a QR code. which CDC 
 
 **[NBA Coach Regrets Not Buying Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1spao0u/nba_coach_regrets_not_buying_bitcoin/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -179,7 +179,7 @@ CoinDesk • 1d ago
 
 Strategy is again stirring expectations of another large bitcoin purchase after Executive Chairman Michael Saylor s...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -195,7 +195,7 @@ New York Post • 17h ago
 
 As one of the largest corporate holders of Bitcoin in the world, SpaceX could help Bitcoin blast higher.
 
-The Motley Fool • 7h ago
+The Motley Fool • 8h ago
 
 ---
 
@@ -203,7 +203,7 @@ The Motley Fool • 7h ago
 
 Likely built on prior work on a 3D printing Bitcoin miner prototype.
 
-Tom's Hardware • 6h ago
+Tom's Hardware • 7h ago
 
 ---
 
@@ -231,7 +231,7 @@ Investing.com • 9h ago
 
 Bitcoin (BTC) sought to protect $75,000 into Sunday’s weekly close as crypto surfed fresh uncertainty over the US-Iran war.Key points:Bitcoin abandons highs as US-Iran war fears returnData from TradingView showed BTC price pressure reentering after a trip to ten-week highs of $78,400 on Friday.Mixe…
 
-TradingView • 6h ago
+TradingView • 7h ago
 
 ---
 
@@ -401,7 +401,7 @@ Join Michael Saylor live from the Bitcoin Conference as he delivers a keynote fo
 
 📺 Krystle | Perkins On Parkway | DIY & Home Decor
 
-👁️ 2K • 👍 1K • 1h ago
+👁️ 2K • 👍 1K • 2h ago
 
 ---
 
@@ -411,7 +411,7 @@ Are you ready? CRYPTO RETIREMENT ACCOUNT HERE Sign up for iTrustCapital and get 
 
 📺 Crypto Jebb
 
-👁️ 5K • 👍 270 • 💬 87 • ⏱️ 8:10 • 1d ago
+👁️ 5K • 👍 270 • 💬 87 • ⏱️ 8:10 • 2d ago
 
 ---
 

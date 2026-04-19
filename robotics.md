@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-19T19:22:51.760911+00:00'
+updated: '2026-04-19T20:00:14.638874+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 19, 2026 at 19:22 UTC  
+**Last Updated:** April 19, 2026 at 20:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2045678855638405436 http
 
 **[Everyone saw the Honour robot win… but nobody noticed what it did right after](https://www.reddit.com/r/robotics/comments/1spy9lg/everyone_saw_the_honour_robot_win_but_nobody/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -58,7 +58,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2045678855638405436 http
 
 Robotis just revealed their new QDD actuators and their new open source humanoid robot. This robot very closely resembles Unitree G1, but it is totally open source in both hardware and software. I heard that the pricing will be competitive as well.
 
-🔗 [LinkedIn](https://www.linkedin.com/posts/yoonseokpyo_this-is-robotiss-open-source-entry-level-activity-7451595734975557632-eLLl/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEP9kBABMMZZVzJTJhId4-134XyBuXENZws) • 4h ago
+🔗 [LinkedIn](https://www.linkedin.com/posts/yoonseokpyo_this-is-robotiss-open-source-entry-level-activity-7451595734975557632-eLLl/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEP9kBABMMZZVzJTJhId4-134XyBuXENZws) • 5h ago
 
 ---
 
@@ -66,7 +66,7 @@ Robotis just revealed their new QDD actuators and their new open source humanoid
 
 A research team in South Korea created an artificial muscle that can be reshaped during use, recover after damage, and even have part of its material reused in another device.
 
-🔗 [The Brighter Side of News](http://thebrighterside.news/post/reprogrammable-artificial-muscle-can-change-its-shape-recover-from-damage-and-even-be-reused) • 29m ago
+🔗 [The Brighter Side of News](http://thebrighterside.news/post/reprogrammable-artificial-muscle-can-change-its-shape-recover-from-damage-and-even-be-reused) • 1h ago
 
 ---
 
@@ -82,7 +82,7 @@ This involves a lot of robotics. There is a 5, 2 way solenoid (two of them), two
 
 https://www.youtube.com/watch?v=G2hwzWDg8Js In the past, most grasping implementations in MuJoCo started from the question of how to control the robot arm. You first obtain the object's position, then manually implement inverse kinematics, trajectory planning, and gripper control, ultimately turning a simple task like "pick up the cube on the table" into a long sequence of joint angles and control commands. But I wanted to test something else: What would happen if I stopped telling the AI exactly how each joint should move, and instead only gave it a skill? For example, I only tell it to: * Find the cube on the table * Move the robot arm above the cube * Pick it up Everything else is left to the AI. Based on the current scene state, it understands the goal, breaks it down into steps, and generates the corresponding grasping actions. Perhaps in the future, what we maintain for robot applications will no longer be a large amount of control code, but instead a set of skills that AI can understand, compose, and execute.
 
-6h ago
+7h ago
 
 ---
 
@@ -90,7 +90,7 @@ https://www.youtube.com/watch?v=G2hwzWDg8Js In the past, most grasping implement
 
 They had been working on their designs for years and I don't think they publish proprietary information so how is it that there are so many manufacturers with humanoid and 'Spot-form' robots that seem to be equal or outperform Boston Dynamics?
 
-3m ago
+40m ago
 
 ---
 
@@ -98,7 +98,7 @@ They had been working on their designs for years and I don't think they publish 
 
 Hey everyone I recently did some research on VLA (Vision-Language-Action) models, and I decided to write a beginner-friendly article to help myself (and others) understand it better. I’d really appreciate your feedback, suggestions, or anything you think I should add or improve. If there are mistakes or missing parts, feel free to point them out too. Thanks a lot for your time
 
-🔗 [Medium](https://medium.com/@imashanilupul/understanding-vision-language-action-vla-models-240ee628e6d4) • 50m ago
+🔗 [Medium](https://medium.com/@imashanilupul/understanding-vision-language-action-vla-models-240ee628e6d4) • 1h ago
 
 ---
 
@@ -116,7 +116,7 @@ Hey everyone I recently did some research on VLA (Vision-Language-Action) models
 
 Robots competed in a half marathon race in Beijing on Sunday, with the winning machine leaving its human rivals for dust.
 
-BBC • 10h ago
+BBC • 11h ago
 
 ---
 
@@ -132,13 +132,13 @@ edhat • 1h ago
 
 A recent demo shows Boston Dynamics Spot in a residential home, using Google’s visual-language model (VLM) Gemini Robotics-ER 1.5 for embodied reasoning.
 
-Boston Dynamics • 13h ago
+Boston Dynamics • 14h ago
 
 ---
 
 **[FAMU Hosted Global High School Stem Athletes Who Competed To Qualify For First® International Robotics Championship - Florida A&M University](https://news.famu.edu/2025/famu-hosted-global-high-school-stem-athletes-who-competed-to-qualify-for-first-international-robotics-championship.php)**
 
-Florida A&M University - FAMU • 16m ago
+Florida A&M University - FAMU • 53m ago
 
 ---
 
@@ -146,7 +146,7 @@ Florida A&M University - FAMU • 16m ago
 
 Accenture has announced an investment in General Robotics through Accenture Ventures, alongside a strategic partnership to accelerate the adoption of physical AI-powered robotics across manufacturing, logistics, and other asset-intensive industries.
 
-Pulse 2.0 • 49m ago
+Pulse 2.0 • 1h ago
 
 ---
 
@@ -154,7 +154,7 @@ Pulse 2.0 • 49m ago
 
 A local high school robotics team is making its mark on the national stage for a second year in a row.
 
-WRGB • 3h ago
+WRGB • 4h ago
 
 ---
 
@@ -162,7 +162,7 @@ WRGB • 3h ago
 
 In 1864, nations set rules before catastrophe. Robotics needs the same—clear, enforceable lines between care and harm, defined before the consequences force it. The world didn’t wait for weapons manufacturers to self-regulate warfare. It built a treaty. We need the same architecture here. By Futurist Thomas Frey Part 4 of 4: The Framework We Have […]
 
-Futurist Speaker • 52m ago
+Futurist Speaker • 1h ago
 
 ---
 
@@ -182,7 +182,7 @@ Google DeepMind • 5d ago
 
 **[AI and robotics will aid, not end, human space exploration](https://thehill.com/opinion/technology/5836884-human-spaceflight-debate-ai-robots/)**
 
-The Hill • 5h ago
+The Hill • 6h ago
 
 ---
 
@@ -266,7 +266,7 @@ Dozens of humanoid robots competed alongside human runners in the Beijing half m
 
 📺 DRM News
 
-👁️ 18K • 👍 279 • 💬 66 • ⏱️ 8:15 • 11h ago
+👁️ 18K • 👍 279 • 💬 66 • ⏱️ 8:15 • 12h ago
 
 ---
 
@@ -276,7 +276,7 @@ Robot 'Lightning' wins Beijing E-Town humanoid robot half-marathon Honor's human
 
 📺 The Manila Times
 
-👁️ 13K • 👍 83 • 💬 20 • ⏱️ 2:09 • 11h ago
+👁️ 13K • 👍 83 • 💬 20 • ⏱️ 2:09 • 12h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-19T19:22:51.743100+00:00'
+updated: '2026-04-19T20:00:14.621619+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
 - social
+- news
+- repositories
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** April 19, 2026 at 19:22 UTC  
+**Last Updated:** April 19, 2026 at 20:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Some experts argue that AI was just used as an excuse for poor business decisions.
 
-🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/tech-industry-lays-off-nearly-80-000-employees-in-the-first-quarter-of-2026-almost-50-percent-of-affected-positions-cut-due-to-ai) • 3h ago
+🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/tech-industry-lays-off-nearly-80-000-employees-in-the-first-quarter-of-2026-almost-50-percent-of-affected-positions-cut-due-to-ai) • 4h ago
 
 ---
 
@@ -65,7 +65,7 @@ Like seriously, it’s not just ChatGPT... it’s Claude, Grok, Gemini… all of
 
 Discover the magic of the internet at Imgur, a community powered entertainment destination. Lift your spirits with funny jokes, trending memes, entertaining gifs, inspiring stories, viral videos, and so much more from users.
 
-🔗 [Imgur](https://i.imgur.com/cyY0cxE.png) • 35m ago
+🔗 [Imgur](https://i.imgur.com/cyY0cxE.png) • 1h ago
 
 ---
 
@@ -89,7 +89,7 @@ I built scalar-loop to solve one problem: LLM agents game their verifiers. The p
 
 https://preview.redd.it/i7muzi5ga5wg1.png?width=1373&format=png&auto=webp&s=e21290514099fc9e4f1699a2240c94cbb5683eca
 
-6h ago
+7h ago
 
 ---
 
@@ -105,7 +105,7 @@ AI Coding contest day 8 The eighth challenge is a weighted variant of the classi
 
 I wanted Codex to feel like a real GNOME app instead of just a terminal or editor workflow, so I built a GNOME Shell extension around it. It currently does all of this: - Codex usage in the GNOME top bar - native GTK history window - local session history browsing - paired remote machine history browsing over LAN - live session updates - filters for All / Messages / Tools / Thinking / System / Errors - in-session search - Markdown export for one session or all sessions from a source - read-only MCP server for history and usage - multi-language support A few design choices mattered a lot to me: - native GNOME/Libadwaita UI, not a webview - read-only remote access - explicit pairing between machines - revocable trust per device - read-only MCP, local by default, token-protected by default It ended up being much more ambitious than a typical GNOME extension, but I wanted something that actually feels integrated into the desktop. 😊
 
-10h ago
+11h ago
 
 ---
 
@@ -113,7 +113,7 @@ I wanted Codex to feel like a real GNOME app instead of just a terminal or edito
 
 no matter how i phrase it in the instructions, how many times i repeat the rule not to use quotes, and which LLM i use, i have failed to prevent any of them from using the so-called scare-quotes. it seems like they're extremely tempted to place them around a word every second sentence. think of an example like: 'is vision or hearing better?' -> 'neither sense is inherently "better"' or something like: 'what percentage of the population is stupid?' -> 'There is no scientific way to assign a percentage of the population as “stupid”' AIs struggle not to use them even when i tell it not to in the same prompt. like 'what % is stupid? and DONT use quotes in your answer.' it will still say "stupid." it's very frustrating and infuriating. this post will probably get deleted because it's a low quality vent but i don't care. just needed to see if people with premium subscription can have success.
 
-6h ago
+7h ago
 
 ---
 
@@ -125,7 +125,7 @@ no matter how i phrase it in the instructions, how many times i repeat the rule 
 
 Nvidia CEO Jensen Huang told CNBC's Jim Cramer in March that AI agents are "definitely the next ChatGPT."
 
-CNBC • 7h ago
+CNBC • 8h ago
 
 ---
 
@@ -133,13 +133,13 @@ CNBC • 7h ago
 
 In the 1980s, economist Robert Solow made an observation that reminded economists of today’s AI boom: “You can see the computer age everywhere but in the productivity statistics.”
 
-Fortune • 4h ago
+Fortune • 5h ago
 
 ---
 
 **[Germany's Merz says industrial AI needs less stringent EU regulation](https://www.reuters.com/business/germanys-merz-says-industrial-ai-needs-less-stringent-eu-regulation-2026-04-19/)**
 
-Reuters • 55m ago
+Reuters • 1h ago
 
 ---
 
@@ -167,7 +167,7 @@ Forbes • 23h ago
 
 Trump appears to have crossed a line with his Christian supporters. Will it come back to bite him in the midterms?
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
@@ -281,7 +281,7 @@ Try Verdent AI ⤵ https://www.verdent.ai/?id=700278 @verdent_ai CHAPTERS ⤵ 00
 
 📺 Dylan Curious
 
-👁️ 6K • 👍 333 • 💬 92 • ⏱️ 30:36 • 16h ago
+👁️ 6K • 👍 333 • 💬 92 • ⏱️ 30:36 • 17h ago
 
 ---
 
@@ -311,7 +311,7 @@ A series of animated Iranian propaganda videos made in the style of "The LEGO Mo
 
 📺 MS NOW
 
-👁️ 121K • 👍 2K • 💬 1K • ⏱️ 6:46 • 1d ago
+👁️ 121K • 👍 2K • 💬 1K • ⏱️ 6:46 • 2d ago
 
 ---
 
@@ -511,7 +511,7 @@ ERNIE-Image-Turbo is a distilled text-to-image diffusion model optimized for spe
 
 LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from video streams using a geometric context transformer architecture with specialized attention mechanisms for coordinate grounding, dense geometric cues, and long-range drift correction, achieving stable real-time performance at 20 FPS.
 
-▲ 5 • 💬 2 • ⭐ 2,425 • 4d ago
+▲ 5 • 💬 2 • ⭐ 2,425 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.14141) • [💻 code](https://github.com/robbyant/lingbot-map) • [🔗 project](https://technology.robbyant.com/lingbot-map)
 
@@ -547,7 +547,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 HY-World 2.0 is a multi-modal world model framework that generates high-fidelity 3D Gaussian Splatting scenes from diverse inputs using specialized modules for panorama generation, trajectory planning, world expansion, and composition, along with an enhanced rendering platform for interactive 3D exploration.
 
-▲ 89 • 💬 4 • ⭐ 1,233 • 4d ago
+▲ 89 • 💬 4 • ⭐ 1,233 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.14268) • [💻 code](https://github.com/Tencent-Hunyuan/HY-World-2.0) • [🔗 project](https://3d-models.hunyuan.tencent.com/world/)
 
@@ -641,7 +641,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 48.1k • 🔱 6.3k • 12h ago
+⭐ 48.1k • 🔱 6.3k • 13h ago
 
 ---
 
@@ -661,7 +661,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 36.4k • 🔱 7.3k • 7h ago
+⭐ 36.4k • 🔱 7.3k • 8h ago
 
 ---
 
