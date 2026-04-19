@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-19T21:37:14.977972+00:00'
+updated: '2026-04-19T22:37:18.921833+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 19, 2026 at 21:37 UTC  
+**Last Updated:** April 19, 2026 at 22:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,289.77
+### $2,256.49
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.3%  
-**7d:** -4.0%  
-**30d:** +9.2%  
-**90d:** -22.6%  
-**1y:** +43.5%  
+**24h:** -3.6%  
+**7d:** -4.4%  
+**30d:** +8.7%  
+**90d:** -23.0%  
+**1y:** +42.8%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The Kelp DAO exploit that drained $292 million and froze Aave was preventable. A developer posted on the Aave governance forum in January 2025 that Kelp's single-validator bridge security was the weakest configuration LayerZero allows. Kelp never added the second validator. On Saturday, an attacker used that exact vulnerability.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/kelp-dao-292-million-hack-warning-ignored-layerzero/) • 12h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/kelp-dao-292-million-hack-warning-ignored-layerzero/) • 13h ago
 
 ---
 
@@ -88,19 +88,19 @@ The Kelp DAO exploit that drained $292 million and froze Aave was preventable. A
 
 Feels kinda bigger than a normal crypto meetup tbh Ethereum getting a real physical hub in Hong Kong with Foundation backing sounds like a sign the ecosystem is trying to build something more lasting than just online hype and conference cycles Hong Kong is also a pretty smart place for it if the goal is to connect builders, institutions and actual adoption in Asia Do you guys think this stuff actually matters for Ethereum long term, or is it mostly optics? https://btcusa.com/ethereum-foundation-backs-asias-first-physical-ethereum-hub-in-hong-kong-as-institutional-web3-race-intensifies/
 
-12h ago
+13h ago
 
 ---
 
 **[Key Takeaways from Mike Toutonghi’s Paris Blockchain Week 2026 Keynote](https://www.reddit.com/r/ethereum/comments/1sps1nj/key_takeaways_from_mike_toutonghis_paris/)**
 
-8h ago
+9h ago
 
 ---
 
 **[Open-sourced a multi-agent contract audit skill for Claude Code](https://www.reddit.com/r/ethereum/comments/1spodq7/opensourced_a_multiagent_contract_audit_skill_for/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -148,14 +148,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Solana Has Processed More Transactions Than Ethereum -- Is It a Buy?](https://www.fool.com/investing/2026/04/18/with-hugetransaction-volume-is-solana-a-buy/)**
-
-Transaction volumes are one of many ways to see how well a cryptocurrency is performing.
-
-The Motley Fool • 19h ago
-
----
-
 **[Why BitMine’s Tom Lee Sees Ethereum at $62,500 in 2030 - and What the Numbers Actually Show](https://247wallst.com/investing/2026/04/18/why-bitmines-tom-lee-sees-ethereum-at-62500-in-2030-and-what-the-numbers-actually-show/)**
 
 Crypto investors have watched Ethereum (CRYPTO:ETH) trade in a narrow range near $2,362 while Bitcoin hovers around $76,000 and institutional money quietly builds positions in digital assets. Adoption metrics keep climbing — stablecoins on Ethereum now handle trillions in annual volume, and layer-2 networks process thousands of transactions per second. Yet price action feels stuck. ... Why BitMine’s Tom Lee Sees Ethereum at $62,500 in 2030 — and What the Numbers Actually Show
@@ -164,19 +156,11 @@ Crypto investors have watched Ethereum (CRYPTO:ETH) trade in a narrow range near
 
 ---
 
-**[Ethereum Flips Key Resistance, ETF Demand Returns, Analysts Eye Next Leg Higher](https://www.tradingview.com/news/newsbtc:acbe10895094b:0-ethereum-flips-key-resistance-etf-demand-returns-analysts-eye-next-leg-higher/)**
+**[Charles Schwab begins rollout of spot bitcoin, ethereum trading platform](https://www.theblock.co/post/397756/charles-schwab-begins-rollout-spot-bitcoin-ethereum-trading-platform)**
 
-Ethereum is flashing a combination of technical and on-chain signals that analysts say could be the beginning of a meaningful recovery. For the first time in months, the structure of Ethereum’s price action appears to be shifting in the favor of bulls.The latest price action has brought the ETH pri…
+The new platform, called Schwab Crypto, will roll out over the coming weeks and will only support bitcoin and ethereum at first.
 
-TradingView • 3h ago
-
----
-
-**[Ethereum Price Prediction: How Much Will 1 ETH Be Worth by 2030?](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-prediction-much-1-175358502.html)**
-
-Ethereum (CRYPTO: ETH) is trading around $2,350 after one of its worst quarters in years. ETH dipped by 32% in Q1, marking its third-worst first quarter since 2016. Despite the awful first quarter, Ethereum’s on-chain activity keeps hitting record highs in 2026, and ETH is up 6% over the past week. Looking at the long ... Ethereum Price Prediction: How Much Will 1 ETH Be Worth by 2030?
-
-Yahoo Finance • 3h ago
+The Block • 3d ago
 
 ---
 
@@ -184,7 +168,7 @@ Yahoo Finance • 3h ago
 
 The Ketman Project, operating under the Ethereum Foundation's ETH Rangers security program, has in the latest Ethereum news, identified approximately 100 North Korea Crypto IT operatives embedded inside Web3 companies using fabricated identities, the result of a six-month investigation that ended with one of the most detailed public tallies of ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -193,6 +177,22 @@ Yahoo Finance • 1h ago
 In an interview with CoinDesk, the Ethereum co-founder spoke also about Ethereum’s evolution through MetaMask, stablecoins and tokenization, while downplaying quantum computing as a long-term, manageable issue.
 
 CoinDesk • 1d ago
+
+---
+
+**[Ethereum Flips Key Resistance, ETF Demand Returns, Analysts Eye Next Leg Higher](https://www.tradingview.com/news/newsbtc:acbe10895094b:0-ethereum-flips-key-resistance-etf-demand-returns-analysts-eye-next-leg-higher/)**
+
+Ethereum is flashing a combination of technical and on-chain signals that analysts say could be the beginning of a meaningful recovery. For the first time in months, the structure of Ethereum’s price action appears to be shifting in the favor of bulls.The latest price action has brought the ETH pri…
+
+TradingView • 4h ago
+
+---
+
+**[Ethereum Price Prediction 2026: Can ETH Hit $5,000 This Year?](https://coinpedia.org/price-analysis/ethereum-price-prediction-2026-can-eth-hit-5000-this-year/)**
+
+Ethereum price has displayed significant strength after breaking above the structure, with follow-through volume strength despite the selling pressure
+
+Coinpedia • 1d ago
 
 ---
 
@@ -208,23 +208,21 @@ Seeking Alpha • 1d ago
 
 Aave's total value locked dropped by $6 billion after a $290 million exploit on KelpDAO. Ethereum reaching $10,000 by December 31, 2026 at 4% YES.
 
-Crypto Briefing • 7h ago
+Crypto Briefing • 8h ago
 
 ---
 
-**[Ethereum Price Prediction 2026: Can ETH Hit $5,000 This Year?](https://coinpedia.org/price-analysis/ethereum-price-prediction-2026-can-eth-hit-5000-this-year/)**
+**[Weekly ETF recap: How Bitcoin, Ethereum, Solana & XRP funds stacked up?](https://ambcrypto.com/weekly-etf-recap-how-bitcoin-ethereum-solana-xrp-funds-stacked-up/)**
 
-Ethereum price has displayed significant strength after breaking above the structure, with follow-through volume strength despite the selling pressure
-
-Coinpedia • 1d ago
+AMBCrypto • 4h ago
 
 ---
 
-**[Charles Schwab begins rollout of spot bitcoin, ethereum trading platform](https://www.theblock.co/post/397756/charles-schwab-begins-rollout-spot-bitcoin-ethereum-trading-platform)**
+**[Two Long-Time Ethereum Foundation Contributors Announce Departures](https://thedefiant.io/news/people/ethereum-foundation-departures-josh-stark-trent-eth)**
 
-The new platform, called Schwab Crypto, will roll out over the coming weeks and will only support bitcoin and ethereum at first.
+Josh Stark, a member of the management team at the Ethereum Foundation, announced on X today, April 16, that he will leave the foundation at the end of this month. Stark’s announcement comes just a day after another EF contributor, Trent Van Epps, also revealed his departure, writing that he left the foundation last week.
 
-The Block • 3d ago
+thedefiant.io • 3d ago
 
 ---
 
@@ -238,7 +236,7 @@ Its a video about bitcoin, ethereum, crypto in general. But its quite an unusual
 
 📺 Thomas Kralow
 
-👁️ 12K • 👍 2K • 💬 64 • ⏱️ 7:52 • 12h ago
+👁️ 12K • 👍 2K • 💬 64 • ⏱️ 7:52 • 13h ago
 
 ---
 
@@ -248,7 +246,7 @@ Welcome back for another daily market update as always this will be a jam packed
 
 📺 AllinCrypto
 
-👁️ 11K • 👍 671 • 💬 268 • ⏱️ 19:21 • 9h ago
+👁️ 11K • 👍 671 • 💬 268 • ⏱️ 19:21 • 10h ago
 
 ---
 
@@ -268,7 +266,7 @@ En este video analizamos a fondo la batalla real entre XRP Ledger y Ethereum por
 
 📺 CriptoBernie
 
-👁️ 180 • 👍 37 • 💬 3 • ⏱️ 10:14 • 1h ago
+👁️ 180 • 👍 37 • 💬 3 • ⏱️ 10:14 • 2h ago
 
 ---
 
@@ -288,7 +286,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 717 • 👍 71 • ⏱️ 5:07 • 7h ago
+👁️ 717 • 👍 71 • ⏱️ 5:07 • 8h ago
 
 ---
 
@@ -308,7 +306,7 @@ http://www.x10daytrading.com/?video=d0a2Q-odIWM TRADE TO $1M WHILE WORKING 9 TO 
 
 📺 Wolf Of Dubai 2 - X10 DAY TRADING
 
-👁️ 1K • 👍 57 • 💬 5 • ⏱️ 9:31 • 21h ago
+👁️ 1K • 👍 57 • 💬 5 • ⏱️ 9:31 • 22h ago
 
 ---
 
@@ -328,7 +326,7 @@ First video: https://youtu.be/G1titKg3ZAk Elon musk replied with "ok" to the Ast
 
 📺 Kader Calls
 
-👁️ 246 • 👍 11 • 💬 2 • ⏱️ 2:24 • 10h ago
+👁️ 246 • 👍 11 • 💬 2 • ⏱️ 2:24 • 11h ago
 
 ---
 

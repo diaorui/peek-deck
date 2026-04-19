@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-19T21:37:14.972744+00:00'
+updated: '2026-04-19T22:37:18.915815+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 19, 2026 at 21:37 UTC  
+**Last Updated:** April 19, 2026 at 22:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.6%  
-**7d:** +0.0%  
-**30d:** +8.4%  
-**90d:** -15.7%  
-**1y:** -12.5%  
+**24h:** -2.2%  
+**7d:** -0.6%  
+**30d:** +7.8%  
+**90d:** -16.2%  
+**1y:** -13.0%  
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 Finally was able to own exactly 0.5 BTC. I started the hole process more than 5 years ago…. Many times i thought the train to reach this goal Is gone but I made it. Let’s see where this journey takes me. ATM I have around 0.1 on my trezor. The rest I’ll move the asap there… Let’s see where this journey takes us
 
-10h ago
+11h ago
 
 ---
 
 **[Patience, young Padawan](https://www.reddit.com/r/Bitcoin/comments/1sq3gbl/patience_young_padawan/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -95,7 +95,7 @@ Finally was able to own exactly 0.5 BTC. I started the hole process more than 5 
 
 Happy stacking guys, don’t worry about short term pricing. Edit: Don’t worry about the price in (insert broken pieces of paper from your own country) in general
 
-1h ago
+2h ago
 
 ---
 
@@ -103,7 +103,7 @@ Happy stacking guys, don’t worry about short term pricing. Edit: Don’t worry
 
 Trust me, it works. Once you self custody, run a node, you dont even want to move it back and forth to exchange to sell or else until its due (4 years +) or whatever. When you let it sit on the exchange, the gambling skibidi trying to time and beat the market will be always there teasing you. But again, only those who know.
 
-9h ago
+10h ago
 
 ---
 
@@ -111,7 +111,7 @@ Trust me, it works. Once you self custody, run a node, you dont even want to mov
 
 https://preview.redd.it/0h8gnpe5g5wg1.png?width=630&format=png&auto=webp&s=6a131646156fa67ad9cf979bef8f7036b24feacb Your future self will thank your present self. 🧡
 
-8h ago
+9h ago
 
 ---
 
@@ -119,15 +119,7 @@ https://preview.redd.it/0h8gnpe5g5wg1.png?width=630&format=png&auto=webp&s=6a131
 
 Update: I took your feedback seriously and built physical prototypes. Original Post: https://www.reddit.com/r/Bitcoin/comments/1sdnhwc/bitcoin_casio_mods/ The black resin case with the orange filter is the first prototype, and I also tested a steel version with a more solid orange filter. I’m now debating whether the black case should keep the orange-to-red gradient film or switch to the cleaner solid orange look. Which direction feels stronger? Still trying to keep the idea aligned with “signal over noise” rather than making it feel gimmicky.
 
-5h ago
-
----
-
-**[NC Wallet BTC withdrawal stuck 48+ hours – no TxID, no support](https://www.reddit.com/r/Bitcoin/comments/1spn2hl/nc_wallet_btc_withdrawal_stuck_48_hours_no_txid/)**
-
-I’m having a serious issue with NC Wallet. I initiated a BTC withdrawal more than 48 hours ago, and it is still showing “pending” with no TxID at all. This means the transaction has NOT been broadcast to the Bitcoin network yet. No network fee (they claim free withdrawals) No TxID No support response No email received Funds are stuck inside the wallet I’ve already: Contacted support multiple times Posted reviews on App Store and Trustpilot No response so far. Has anyone experienced this with NC Wallet before? Is there any way to force them to process or cancel the withdrawal? Any help would be appreciated
-
-13h ago
+6h ago
 
 ---
 
@@ -135,7 +127,15 @@ I’m having a serious issue with NC Wallet. I initiated a BTC withdrawal more t
 
 I keeep my seed phrase engraved between two metal plates. If I move to another country, is it possible that they see my seedphrase during Roentgen in the security area?
 
-1h ago
+2h ago
+
+---
+
+**[NC Wallet BTC withdrawal stuck 48+ hours – no TxID, no support](https://www.reddit.com/r/Bitcoin/comments/1spn2hl/nc_wallet_btc_withdrawal_stuck_48_hours_no_txid/)**
+
+I’m having a serious issue with NC Wallet. I initiated a BTC withdrawal more than 48 hours ago, and it is still showing “pending” with no TxID at all. This means the transaction has NOT been broadcast to the Bitcoin network yet. No network fee (they claim free withdrawals) No TxID No support response No email received Funds are stuck inside the wallet I’ve already: Contacted support multiple times Posted reviews on App Store and Trustpilot No response so far. Has anyone experienced this with NC Wallet before? Is there any way to force them to process or cancel the withdrawal? Any help would be appreciated
+
+14h ago
 
 ---
 
@@ -159,38 +159,6 @@ I have a group of friends that watched me make a ton of money during the 2016-20
 
 ## Google News: "bitcoin"
 
-**[Liz Truss warns UK faces decline, backs bitcoin and starts CPAC UK](https://www.coindesk.com/markets/2026/04/18/former-uk-prime-minister-sees-economy-on-very-negative-trajectory-indicates-support-for-bitcoin)**
-
-Truss criticized central banking and defended her mini-budget, suggesting bitcoin and a CPAC UK conference could help push for economic reform.
-
-CoinDesk • 1d ago
-
----
-
-**[This Signal in Bitcoin's Chart Has Never Been Wrong](https://www.fool.com/investing/2026/04/19/this-signal-in-bitcoins-chart-has-never-been-wrong/)**
-
-Keep an eye out for this pattern, and it could make you a stronger investor.
-
-The Motley Fool • 12h ago
-
----
-
-**[Where Will Bitcoin Be in 5 Years?](https://finance.yahoo.com/markets/crypto/articles/where-bitcoin-5-years-103500589.html)**
-
-You may want to consider these 3 scenarios if you're thinking about buying Bitcoin today.
-
-Yahoo Finance • 11h ago
-
----
-
-**[Inventor showcases 3D printer filament dryer that mines Bitcoins and dries filament with waste heat, capable of 6 TH/s at 140W — joins Bitcoin-mining 3D printer in hobbyist-focused miner lineup](https://www.tomshardware.com/tech-industry/cryptomining/inventor-showcases-3d-printer-filament-dryer-that-mines-bitcoins-and-dries-filament-with-waste-heat-capable-of-6-th-s-at-140w-joins-bitcoin-mining-3d-printer-in-hobbyist-focused-miner-lineup)**
-
-Likely built on prior work on a 3D printing Bitcoin miner prototype.
-
-Tom's Hardware • 9h ago
-
----
-
 **[Charles Schwab to launch direct bitcoin, ether trading to compete with Robinhood](https://www.cnbc.com/2026/04/16/charles-schwab-to-launch-direct-bitcoin-ethereum-trading-to-compete-with-robinhood.html)**
 
 Charles Schwab is rolling out crypto trading, allowing clients to buy bitcoin and ether through a new arm called Schwab Crypto.
@@ -199,11 +167,27 @@ CNBC • 3d ago
 
 ---
 
-**[The O.C. Guy Says Bitcoin Is ‘Still a Ponzi Scheme’](https://nymag.com/intelligencer/article/the-ocs-ben-mckenzie-says-bitcoin-is-lying-to-you-for-money.html)**
+**[This Signal in Bitcoin's Chart Has Never Been Wrong](https://www.fool.com/investing/2026/04/19/this-signal-in-bitcoins-chart-has-never-been-wrong/)**
 
-“Not only gotten away with it, they’ve made a ton of money,” says actor Ben McKenzie, whose doc explores crypto’s crash and Trump-fueled rise.
+Keep an eye out for this pattern, and it could make you a stronger investor.
 
-New York Magazine • 2d ago
+The Motley Fool • 13h ago
+
+---
+
+**[Where Will Bitcoin Be in 5 Years?](https://finance.yahoo.com/markets/crypto/articles/where-bitcoin-5-years-103500589.html)**
+
+You may want to consider these 3 scenarios if you're thinking about buying Bitcoin today.
+
+Yahoo Finance • 12h ago
+
+---
+
+**[Inventor showcases 3D printer filament dryer that mines Bitcoins and dries filament with waste heat, capable of 6 TH/s at 140W — joins Bitcoin-mining 3D printer in hobbyist-focused miner lineup](https://www.tomshardware.com/tech-industry/cryptomining/inventor-showcases-3d-printer-filament-dryer-that-mines-bitcoins-and-dries-filament-with-waste-heat-capable-of-6-th-s-at-140w-joins-bitcoin-mining-3d-printer-in-hobbyist-focused-miner-lineup)**
+
+Likely built on prior work on a 3D printing Bitcoin miner prototype.
+
+Tom's Hardware • 10h ago
 
 ---
 
@@ -215,21 +199,37 @@ Forbes • 2d ago
 
 **[Bitcoin dips as Iran conflict stokes broader crypto market volatility](https://www.investing.com/news/cryptocurrency-news/bitcoin-dips-as-iran-conflict-stokes-broader-crypto-market-volatility-4622210)**
 
-Investing.com • 11h ago
+Investing.com • 12h ago
 
 ---
 
-**[Bitcoin price drops to $75K as new Hormuz closure puts focus on oil](https://www.tradingview.com/news/cointelegraph:a431ac6bc094b:0-bitcoin-price-drops-to-75k-as-new-hormuz-closure-puts-focus-on-oil/)**
+**[Bitcoin falls back to $76,000 as Iran shuts Hormuz again](https://www.coindesk.com/markets/2026/04/18/bearish-bets-lose-usd593-million-as-bitcoin-jumps-with-iran-fully-opening-hormuz)**
 
-Bitcoin (BTC) sought to protect $75,000 into Sunday’s weekly close as crypto surfed fresh uncertainty over the US-Iran war.Key points:Bitcoin abandons highs as US-Iran war fears returnData from TradingView showed BTC price pressure reentering after a trip to ten-week highs of $78,400 on Friday.Mixe…
+One of the biggest short liquidations 2026 wiped $593 million in bearish bets overnight. Saturday afternoon as Iran reportedly reversed the Hormuz reopening.
 
-TradingView • 9h ago
+CoinDesk • 2d ago
 
 ---
 
-**[‘Buy Bitcoin’—Elon Musk’s ‘Massive’ U.S. Dollar Warning Fuels Wild Crypto Price Predictions](https://www.forbes.com/sites/digital-assets/2026/04/18/buy-bitcoin-elon-musks-massive-us-dollar-warning-fuels-wild-crypto-price-predictions/)**
+**[The O.C. Guy Says Bitcoin Is ‘Still a Ponzi Scheme’](https://nymag.com/intelligencer/article/the-ocs-ben-mckenzie-says-bitcoin-is-lying-to-you-for-money.html)**
 
-Forbes • 1d ago
+“Not only gotten away with it, they’ve made a ton of money,” says actor Ben McKenzie, whose doc explores crypto’s crash and Trump-fueled rise.
+
+New York Magazine • 2d ago
+
+---
+
+**[Alcoa Is Close to a Deal to Sell Smelter Site to Bitcoin Miner](https://www.bloomberg.com/news/articles/2026-04-17/alcoa-is-close-to-a-deal-to-sell-smelter-site-to-bitcoin-miner)**
+
+Bloomberg.com • 2d ago
+
+---
+
+**['Fix The Money': Michael Saylor Shares Endgame For Strategy's Bitcoin-Backed Credit Instruments](https://finance.yahoo.com/markets/crypto/articles/fix-money-michael-saylor-shares-010124912.html)**
+
+Strategy’s (NASDAQ:MSTR) goal is to create a product that allows people to earn above the inflation rate with their bank accounts, Chair Michael Saylor says. "Fix money, fix the world," Saylor on the "Bankless" podcast released Monday. "We have a...
+
+Yahoo Finance • 21h ago
 
 ---
 
@@ -239,7 +239,7 @@ Forbes • 1d ago
 
 **[Show HN: Using Ramanujan's Pi Series for Bitcoin Security on Nvidia B200](https://news.ycombinator.com/item?id=47823382)**
 
-⬆️ 4 • 💬 1 • 10h ago • [zenodo.org](https://zenodo.org/records/19650883)
+⬆️ 4 • 💬 1 • 11h ago • [zenodo.org](https://zenodo.org/records/19650883)
 
 ---
 
@@ -301,6 +301,14 @@ A fake Ledger app on Apple's App Store drained $9.5M from more than 50 victims a
 
 ---
 
+**[Satoshi Nakamoto: 'The best outcome is that no one ever finds out'](https://news.ycombinator.com/item?id=47827534)**
+
+Speculation, dead‑end investigations and conspiracy theories have surrounded him for years
+
+⬆️ 2 • 💬 0 • 1h ago • [EL PAÍS English](https://english.elpais.com/economy-and-business/2026-04-19/satoshi-nakamoto-the-reclusive-billionaire-behind-bitcoin-the-best-outcome-is-that-no-one-ever-finds-out.html)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -311,7 +319,7 @@ A new and powerful signal has just triggered on the chart of bitcoin, according 
 
 📺 Alessio Rastani
 
-👁️ 20K • 👍 2K • 💬 313 • ⏱️ 13:09 • 8h ago
+👁️ 20K • 👍 2K • 💬 313 • ⏱️ 13:09 • 9h ago
 
 ---
 
@@ -321,7 +329,7 @@ IT'S RIGGED! Buckle Up' Bitcoin & Crypto Holders ⭐ Follow Altcoin Daily on X: 
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 140 • ⏱️ 11:59 • 23h ago
+👁️ 38K • 👍 2K • 💬 140 • ⏱️ 11:59 • 1d ago
 
 ---
 
@@ -351,7 +359,7 @@ A former Treasury Secretary warns the next crisis could be worse than 2008. Bond
 
 📺 Simply Bitcoin
 
-👁️ 28K • 👍 2K • 💬 130 • ⏱️ 16:22 • 1d ago
+👁️ 28K • 👍 2K • 💬 130 • ⏱️ 16:22 • 2d ago
 
 ---
 
@@ -379,7 +387,7 @@ Are you ready? CRYPTO RETIREMENT ACCOUNT HERE Sign up for iTrustCapital and get 
 
 📺 EvilTwinSkippy
 
-👁️ 1K • 👍 36 • ⏱️ 0:51 • 4h ago
+👁️ 1K • 👍 36 • ⏱️ 0:51 • 5h ago
 
 ---
 
@@ -389,7 +397,7 @@ Subscribe before there's no Bitcoin left to buy. There are no sellers left at th
 
 📺 Bitcoin News Alerts
 
-👁️ 6K • 👍 300 • 💬 233 • ⏱️ 19:49 • 22h ago
+👁️ 6K • 👍 300 • 💬 233 • ⏱️ 19:49 • 23h ago
 
 ---
 
