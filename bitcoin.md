@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-19T16:01:55.917334+00:00'
+updated: '2026-04-19T17:06:09.346162+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - social
 - videos
-- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 19, 2026 at 16:01 UTC  
+**Last Updated:** April 19, 2026 at 17:06 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $75,736.40
+### $75,668.91
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** +2.0%  
-**30d:** +10.5%  
-**90d:** -14.1%  
-**1y:** -10.8%  
+**24h:** -0.7%  
+**7d:** +0.8%  
+**30d:** +9.2%  
+**90d:** -15.1%  
+**1y:** -11.9%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Finally was able to own exactly 0.5 BTC. I started the hole process more than 5 years ago…. Many times i thought the train to reach this goal Is gone but I made it. Let’s see where this journey takes me. ATM I have around 0.1 on my trezor. The rest I’ll move the asap there… Let’s see where this journey takes us
 
-4h ago
+5h ago
 
 ---
 
@@ -89,7 +89,7 @@ Finally was able to own exactly 0.5 BTC. I started the hole process more than 5 
 
 Trust me, it works. Once you self custody, run a node, you dont even want to move it back and forth to exchange to sell or else until its due (4 years +) or whatever. When you let it sit on the exchange, the gambling skibidi trying to time and beat the market will be always there teasing you. But again, only those who know.
 
-3h ago
+4h ago
 
 ---
 
@@ -97,7 +97,23 @@ Trust me, it works. Once you self custody, run a node, you dont even want to mov
 
 https://preview.redd.it/0h8gnpe5g5wg1.png?width=630&format=png&auto=webp&s=6a131646156fa67ad9cf979bef8f7036b24feacb Your future self will thank your present self. 🧡
 
-2h ago
+3h ago
+
+---
+
+**[Built the physical prototypes of the Bitcoin Casio mod — gradient orange or solid orange?](https://www.reddit.com/r/Bitcoin/comments/1spwn1d/built_the_physical_prototypes_of_the_bitcoin/)**
+
+Update: I took your feedback seriously and built physical prototypes. Original Post: https://www.reddit.com/r/Bitcoin/comments/1sdnhwc/bitcoin_casio_mods/ The black resin case with the orange filter is the first prototype, and I also tested a steel version with a more solid orange filter. I’m now debating whether the black case should keep the orange-to-red gradient film or switch to the cleaner solid orange look. Which direction feels stronger? Still trying to keep the idea aligned with “signal over noise” rather than making it feel gimmicky.
+
+1h ago
+
+---
+
+**[NC Wallet BTC withdrawal stuck 48+ hours – no TxID, no support](https://www.reddit.com/r/Bitcoin/comments/1spn2hl/nc_wallet_btc_withdrawal_stuck_48_hours_no_txid/)**
+
+I’m having a serious issue with NC Wallet. I initiated a BTC withdrawal more than 48 hours ago, and it is still showing “pending” with no TxID at all. This means the transaction has NOT been broadcast to the Bitcoin network yet. No network fee (they claim free withdrawals) No TxID No support response No email received Funds are stuck inside the wallet I’ve already: Contacted support multiple times Posted reviews on App Store and Trustpilot No response so far. Has anyone experienced this with NC Wallet before? Is there any way to force them to process or cancel the withdrawal? Any help would be appreciated
+
+8h ago
 
 ---
 
@@ -109,33 +125,17 @@ I was greedy in 2022 during the crash and wanted to wait for 12k to buy. 12k nev
 
 ---
 
-**[NC Wallet BTC withdrawal stuck 48+ hours – no TxID, no support](https://www.reddit.com/r/Bitcoin/comments/1spn2hl/nc_wallet_btc_withdrawal_stuck_48_hours_no_txid/)**
-
-I’m having a serious issue with NC Wallet. I initiated a BTC withdrawal more than 48 hours ago, and it is still showing “pending” with no TxID at all. This means the transaction has NOT been broadcast to the Bitcoin network yet. No network fee (they claim free withdrawals) No TxID No support response No email received Funds are stuck inside the wallet I’ve already: Contacted support multiple times Posted reviews on App Store and Trustpilot No response so far. Has anyone experienced this with NC Wallet before? Is there any way to force them to process or cancel the withdrawal? Any help would be appreciated
-
-7h ago
-
----
-
 **[The duality of man](https://www.reddit.com/r/Bitcoin/comments/1sp2tqn/the_duality_of_man/)**
 
 I have a group of friends that watched me make a ton of money during the 2016-2017 crypto market and asked me to tell them the next time I believed was a good time to buy (surprise, it’s almost always a good time to buy) so whenever it became a bear market, I would shoot the group chat a message and let them know it’s a good time to buy. I would get mocking responses like “Oh yeah I bet it’s a good time to buy, it’s down 10%”. They would even message me the next day when it’s down 11% and say things like “ooh it’s even lower now, I guess today’s a good day to buy too” And then the bull market comes and my group chat is peppered with angry messages about how they missed the bull run and how I didn’t tell them it’s coming. Messages like “you gotta tell me the next time it’s good to buy!” I quickly learnt that there are just some things people can’t be taught, they have to learn it themselves. Moral of the story, don’t tell people you’re into crypto and don’t tell people you made gains, regardless of who they are, in the end it’s just a headache for you.
 
-23h ago
+1d ago
 
 ---
 
 **[NBA Coach Regrets Not Buying Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1spao0u/nba_coach_regrets_not_buying_bitcoin/)**
 
-18h ago
-
----
-
-**[How much Bitcoin have you sold since you got in and do you regret it?](https://www.reddit.com/r/Bitcoin/comments/1spbxpr/how_much_bitcoin_have_you_sold_since_you_got_in/)**
-
-You might not want to add how long you've been in but I will. 4 years. Sold .05 BTC. Regret? Yes. But I've recouped it since then so I don't consider it that big of a deal.
-
-17h ago
+19h ago
 
 ---
 
@@ -143,21 +143,29 @@ You might not want to add how long you've been in but I will. 4 years. Sold .05 
 
 I have a renewal that only will take BTC/SATS. It gives me a QR code. which CDC doesnt recognize. and a wallet address. I know CDC doesnt sell SATS. but I do have some BTC I can send. But how? I dont see where I can send fractional BTC to a wallet address. I opened 2 other exchanges and noticed the USD to SATS is crazy?? The renewal is about 127k SATS. and claims its about $95.00usd. But on OKX exchange. $95usd is over 6billion SATS???? Please advise. I am totally lost.
 
-1h ago
+2h ago
 
 ---
 
-**[Bitcoin/crypto mining](https://www.reddit.com/r/Bitcoin/comments/1spskyq/bitcoincrypto_mining/)**
+**[How much Bitcoin have you sold since you got in and do you regret it?](https://www.reddit.com/r/Bitcoin/comments/1spbxpr/how_much_bitcoin_have_you_sold_since_you_got_in/)**
 
-Why has no one run crypto mining rigs off solar panels and batteries instead of using the grid? Then youre not paying any electricity cost for the crypto. It would be all profit. The sun would be your printing press
+You might not want to add how long you've been in but I will. 4 years. Sold .05 BTC. Regret? Yes. But I've recouped it since then so I don't consider it that big of a deal.
 
-2h ago
+18h ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
+
+**[Liz Truss warns UK faces decline, backs bitcoin and starts CPAC UK](https://www.coindesk.com/markets/2026/04/18/former-uk-prime-minister-sees-economy-on-very-negative-trajectory-indicates-support-for-bitcoin)**
+
+Truss criticized central banking and defended her mini-budget, suggesting bitcoin and a CPAC UK conference could help push for economic reform.
+
+CoinDesk • 1d ago
+
+---
 
 **[Charles Schwab to launch direct bitcoin, ether trading to compete with Robinhood](https://www.cnbc.com/2026/04/16/charles-schwab-to-launch-direct-bitcoin-ethereum-trading-to-compete-with-robinhood.html)**
 
@@ -167,27 +175,11 @@ CNBC • 3d ago
 
 ---
 
-**[‘Buy Bitcoin’—Elon Musk’s ‘Massive’ U.S. Dollar Warning Fuels Wild Crypto Price Predictions](https://www.forbes.com/sites/digital-assets/2026/04/18/buy-bitcoin-elon-musks-massive-us-dollar-warning-fuels-wild-crypto-price-predictions/)**
+**[Where Will Bitcoin Be in 5 Years?](https://finance.yahoo.com/markets/crypto/articles/where-bitcoin-5-years-103500589.html)**
 
-Forbes • 1d ago
+You may want to consider these 3 scenarios if you're thinking about buying Bitcoin today.
 
----
-
-**[Is Strategy’s (MSTR) Bitcoin-Fueled Preferred Stock Turning It Into a Pure Crypto Proxy?](https://simplywall.st/stocks/us/software/nasdaq-mstr/strategy/news/is-strategys-mstr-bitcoin-fueled-preferred-stock-turning-it)**
-
-In recent days, Strategy (formerly MicroStrategy) has continued to buy large amounts of Bitcoin, lifting its vast holdings toward profitability as Bitcoin rebounded on easing Middle East tensions and the reopening of key trade routes. 
-This rapid accumulation, funded partly through its Bitcoin-backed Stretch preferred stock, is turning Strategy into an increasingly pure proxy for Bitcoin exposure while reshaping how it positions yield-focused products for investors.
-We’ll now examine how...
-
-simplywall.st • 2h ago
-
----
-
-**[This Signal in Bitcoin's Chart Has Never Been Wrong](https://finance.yahoo.com/markets/crypto/articles/signal-bitcoins-chart-never-wrong-082900727.html)**
-
-Keep an eye out for this pattern, and it could make you a stronger investor.
-
-Yahoo Finance • 7h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -195,7 +187,27 @@ Yahoo Finance • 7h ago
 
 As one of the largest corporate holders of Bitcoin in the world, SpaceX could help Bitcoin blast higher.
 
-The Motley Fool • 4h ago
+The Motley Fool • 5h ago
+
+---
+
+**[Crypto Stocks Rally As Bitcoin Breaks Two-Month High After Iran Reopens Strait](https://www.forbes.com/sites/aliciapark/2026/04/17/crypto-stocks-rally-as-bitcoin-breaks-two-month-high-after-iran-reopens-strait/)**
+
+Forbes • 1d ago
+
+---
+
+**[Bitcoin dips as Iran conflict stokes broader crypto market volatility](https://www.investing.com/news/cryptocurrency-news/bitcoin-dips-as-iran-conflict-stokes-broader-crypto-market-volatility-4622210)**
+
+Investing.com • 7h ago
+
+---
+
+**[Bitcoin price drops to $75K as new Hormuz closure puts focus on oil](https://www.tradingview.com/news/cointelegraph:a431ac6bc094b:0-bitcoin-price-drops-to-75k-as-new-hormuz-closure-puts-focus-on-oil/)**
+
+Bitcoin (BTC) sought to protect $75,000 into Sunday’s weekly close as crypto surfed fresh uncertainty over the US-Iran war.Key points:Bitcoin abandons highs as US-Iran war fears returnData from TradingView showed BTC price pressure reentering after a trip to ten-week highs of $78,400 on Friday.Mixe…
+
+TradingView — Track All Markets • 4h ago
 
 ---
 
@@ -211,27 +223,13 @@ New York Magazine • 2d ago
 
 Likely built on prior work on a 3D printing Bitcoin miner prototype.
 
-Tom's Hardware • 3h ago
+Tom's Hardware • 4h ago
 
 ---
 
 **[Alcoa Is Close to a Deal to Sell Smelter Site to Bitcoin Miner](https://www.bloomberg.com/news/articles/2026-04-17/alcoa-is-close-to-a-deal-to-sell-smelter-site-to-bitcoin-miner)**
 
-Bloomberg.com • 1d ago
-
----
-
-**[Crypto Stocks Rally As Bitcoin Breaks Two-Month High After Iran Reopens Strait](https://www.forbes.com/sites/aliciapark/2026/04/17/crypto-stocks-rally-as-bitcoin-breaks-two-month-high-after-iran-reopens-strait/)**
-
-Forbes • 1d ago
-
----
-
-**[Bitcoin Climbs to Two-Month High Amid Middle East Deal Optimism](https://finance.yahoo.com/markets/crypto/articles/bitcoin-climbs-two-month-high-185621449.html)**
-
-(Bloomberg) -- Bitcoin rose to the highest level since early February after a flurry of comments from the US and Iran sparked optimism that the conflict in the Middle East may be heading toward a resolution. Most Read from BloombergTrump Says Iran Will Suspend Nuclear Program as Hormuz OpensHow Anthropic Learned Mythos Was Too Dangerous for the WildIran Says Hormuz Strait Now Completely Open for Commercial ShipsHenry Paulson Suggests US Make a Break-Glass Treasuries PlanNorth Sea Oil Suddenly Ha
-
-Yahoo Finance • 1d ago
+Bloomberg.com • 2d ago
 
 ---
 
@@ -239,11 +237,9 @@ Yahoo Finance • 1d ago
 
 ## HackerNews: "bitcoin"
 
-**[SpaceX holds $603M in Bitcoin despite $5B loss stemming from xAI](https://news.ycombinator.com/item?id=47741449)**
+**[Show HN: Using Ramanujan's Pi Series for Bitcoin Security on Nvidia B200](https://news.ycombinator.com/item?id=47823382)**
 
-Arkham data shows 8,285 BTC in Coinbase Prime custody as the company swings from $8 billion profit to nearly $5 billion loss ahead of its IPO push.
-
-⬆️ 27 • 💬 9 • 6d ago • [coindesk.com](https://www.coindesk.com/markets/2026/04/11/musk-s-spacex-holds-usd603-million-in-bitcoin-despite-usd5-billion-loss-stemming-from-xai)
+⬆️ 4 • 💬 1 • 6h ago • [zenodo.org](https://zenodo.org/records/19650883)
 
 ---
 
@@ -258,12 +254,6 @@ The Blockstream CEO’s approach contrasts with BIP-361, a proposal that would i
 **[Unmasking the Creator of Bitcoin](https://news.ycombinator.com/item?id=47752949)**
 
 ⬆️ 3 • 💬 2 • 6d ago • [nytimes.com](https://www.nytimes.com/2026/04/09/podcasts/the-daily/satoshi-nakamoto-bitcoin-creator.html)
-
----
-
-**[Show HN: Using Ramanujan's Pi Series for Bitcoin Security on Nvidia B200](https://news.ycombinator.com/item?id=47823382)**
-
-⬆️ 3 • 💬 1 • 5h ago • [zenodo.org](https://zenodo.org/records/19650883)
 
 ---
 
@@ -311,6 +301,14 @@ A deeply technical early Bitcoiner realized that self-custody is only as strong 
 
 ---
 
+**[Fake Ledger app on Apple App Store linked to $9.5M crypto theft](https://news.ycombinator.com/item?id=47769305)**
+
+A fake Ledger app on Apple's App Store drained $9.5M from more than 50 victims across Bitcoin, Tron and Solana, ZachXBT said.
+
+⬆️ 2 • 💬 1 • 4d ago • [The Block](https://www.theblock.co/post/397388/fake-ledger-app-apple-app-store-crypto-theft-bitcoin-tron-solana-zachxbt)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -321,7 +319,7 @@ IT'S RIGGED! Buckle Up' Bitcoin & Crypto Holders ⭐ Follow Altcoin Daily on X: 
 
 📺 Altcoin Daily
 
-👁️ 34K • 👍 2K • 💬 131 • ⏱️ 11:59 • 17h ago
+👁️ 34K • 👍 2K • 💬 131 • ⏱️ 11:59 • 18h ago
 
 ---
 
@@ -341,7 +339,7 @@ A new and powerful signal has just triggered on the chart of bitcoin, according 
 
 📺 Alessio Rastani
 
-👁️ 7K • 👍 936 • 💬 198 • ⏱️ 13:09 • 2h ago
+👁️ 7K • 👍 936 • 💬 198 • ⏱️ 13:09 • 3h ago
 
 ---
 
@@ -381,7 +379,7 @@ Adam Back joins Cointelegraph at Paris Blockchain Week to discuss one of Bitcoin
 
 📺 Cointelegraph
 
-👁️ 50K • 👍 2K • 💬 179 • ⏱️ 31:34 • 1d ago
+👁️ 50K • 👍 2K • 💬 179 • ⏱️ 31:34 • 2d ago
 
 ---
 
