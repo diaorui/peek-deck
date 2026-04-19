@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-19T11:08:02.625113+00:00'
+updated: '2026-04-19T11:58:14.482302+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - cryptocurrency
+- social
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 19, 2026 at 11:08 UTC  
+**Last Updated:** April 19, 2026 at 11:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Was DCAing into btc and finally reached huge milestone for me i.e. 1 bitcoin. I still have idle usdt sitting around which I will use to DCA. No one knows whether it will go up or down in short term but btc is uptrending asset in long term. keep stacking and it will do wonders.
 
-49m ago
+1h ago
 
 ---
 
@@ -89,7 +89,7 @@ Was DCAing into btc and finally reached huge milestone for me i.e. 1 bitcoin. I 
 
 I was greedy in 2022 during the crash and wanted to wait for 12k to buy. 12k never came. After BTC teleported from 15k to 30k, I wanted a deep dip to 20k to buy. 20k never came. Then I watched BTC teleport from 25k to 70k without a single down month. Zero dips given. Then the 50k dip came but got bought up by the market instantly, the window to buy was extremely shortlived and I couldn't get in. Then BTC proceeded to teleport from 50k to 110k in just a few weeks and I basically missed the whole cycle. I have a feeling the same people waiting for 40k-50k now will go through what I went through and watch as BTC teleports to 500k (or whatever the next top is) without a single major dip.
 
-20h ago
+21h ago
 
 ---
 
@@ -97,13 +97,13 @@ I was greedy in 2022 during the crash and wanted to wait for 12k to buy. 12k nev
 
 I have a group of friends that watched me make a ton of money during the 2016-2017 crypto market and asked me to tell them the next time I believed was a good time to buy (surprise, it’s almost always a good time to buy) so whenever it became a bear market, I would shoot the group chat a message and let them know it’s a good time to buy. I would get mocking responses like “Oh yeah I bet it’s a good time to buy, it’s down 10%”. They would even message me the next day when it’s down 11% and say things like “ooh it’s even lower now, I guess today’s a good day to buy too” And then the bull market comes and my group chat is peppered with angry messages about how they missed the bull run and how I didn’t tell them it’s coming. Messages like “you gotta tell me the next time it’s good to buy!” I quickly learnt that there are just some things people can’t be taught, they have to learn it themselves. Moral of the story, don’t tell people you’re into crypto and don’t tell people you made gains, regardless of who they are, in the end it’s just a headache for you.
 
-18h ago
+19h ago
 
 ---
 
 **[NBA Coach Regrets Not Buying Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1spao0u/nba_coach_regrets_not_buying_bitcoin/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -111,7 +111,7 @@ I have a group of friends that watched me make a ton of money during the 2016-20
 
 You might not want to add how long you've been in but I will. 4 years. Sold .05 BTC. Regret? Yes. But I've recouped it since then so I don't consider it that big of a deal.
 
-12h ago
+13h ago
 
 ---
 
@@ -119,7 +119,7 @@ You might not want to add how long you've been in but I will. 4 years. Sold .05 
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-4h ago
+5h ago
 
 ---
 
@@ -139,7 +139,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Have enough to buy, to spare, to live, sit back relax hold for 4years+ with self custody, run node, don't gamble your skibidi and rock on! easy as it is.
 
-9h ago
+10h ago
 
 ---
 
@@ -147,7 +147,7 @@ Have enough to buy, to spare, to live, sit back relax hold for 4years+ with self
 
 Central bank greenlights regulated crypto access while keeping strict curbs on balance-sheet exposure
 
-🔗 [coindesk.com](https://www.coindesk.com/policy/2026/04/15/pakistan-lifts-seven-year-ban-allowing-banks-to-service-virtual-asset-providers) • 23h ago
+🔗 [coindesk.com](https://www.coindesk.com/policy/2026/04/15/pakistan-lifts-seven-year-ban-allowing-banks-to-service-virtual-asset-providers) • 1d ago
 
 ---
 
@@ -157,7 +157,7 @@ Central bank greenlights regulated crypto access while keeping strict curbs on b
 
 **[‘Buy Bitcoin’—Elon Musk’s ‘Massive’ U.S. Dollar Warning Fuels Wild Crypto Price Predictions](https://www.forbes.com/sites/digital-assets/2026/04/18/buy-bitcoin-elon-musks-massive-us-dollar-warning-fuels-wild-crypto-price-predictions/)**
 
-Forbes • 23h ago
+Forbes • 1d ago
 
 ---
 
@@ -173,7 +173,7 @@ CNBC • 2d ago
 
 You may want to consider these 3 scenarios if you're thinking about buying Bitcoin today.
 
-The Motley Fool • 29m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -181,7 +181,7 @@ The Motley Fool • 29m ago
 
 Keep an eye out for this pattern, and it could make you a stronger investor.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -205,7 +205,7 @@ New York Magazine • 2d ago
 
 Strategy aim to reduce volatility, enable consistent bitcoin buying, and create the only bi-monthly paying preferred shares in the market.
 
-CoinDesk • 14h ago
+CoinDesk • 15h ago
 
 ---
 
@@ -253,7 +253,7 @@ The Blockstream CEO’s approach contrasts with BIP-361, a proposal that would i
 
 Imagine one person holding the keys to Bitcoin’s entire future. That was Satoshi—until Hal Finney, Gavin Andresen, and Wladimir van der Laan stepped in. Today’s maintainer team is more decentralized than ever… but is it enough?
 
-⬆️ 4 • 💬 0 • 6d ago • [Bitcoin Magazine](https://bitcoinmagazine.com/print/the-core-issue-the-role-and-history-of-bitcoin-core-maintainers)
+⬆️ 4 • 💬 0 • 7d ago • [Bitcoin Magazine](https://bitcoinmagazine.com/print/the-core-issue-the-role-and-history-of-bitcoin-core-maintainers)
 
 ---
 
@@ -267,7 +267,7 @@ Imagine one person holding the keys to Bitcoin’s entire future. That was Satos
 
 C64 Bitcoin wallet. Contribute to geek197/c64wallet development by creating an account on GitHub.
 
-⬆️ 3 • 💬 0 • 3d ago • [GitHub](https://github.com/geek197/c64wallet)
+⬆️ 3 • 💬 0 • 4d ago • [GitHub](https://github.com/geek197/c64wallet)
 
 ---
 
@@ -293,7 +293,7 @@ A way to enable Quantum Safe Bitcoin transactions that is available today.  - av
 
 **[Show HN: Using Ramanujan's Pi Series for Bitcoin Security on Nvidia B200](https://news.ycombinator.com/item?id=47823382)**
 
-⬆️ 1 • 💬 0 • 7m ago • [zenodo.org](https://zenodo.org/records/19650883)
+⬆️ 1 • 💬 0 • 57m ago • [zenodo.org](https://zenodo.org/records/19650883)
 
 ---
 
@@ -337,7 +337,7 @@ IT'S RIGGED! Buckle Up' Bitcoin & Crypto Holders ⭐ Follow Altcoin Daily on X: 
 
 📺 Altcoin Daily
 
-👁️ 28K • 👍 2K • 💬 113 • ⏱️ 11:59 • 12h ago
+👁️ 28K • 👍 2K • 💬 113 • ⏱️ 11:59 • 13h ago
 
 ---
 
