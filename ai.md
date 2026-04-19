@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-19T20:00:14.621619+00:00'
+updated: '2026-04-19T20:50:41.739795+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
+- repositories
 - social
 - news
-- repositories
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 19, 2026 at 20:00 UTC  
+**Last Updated:** April 19, 2026 at 20:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 Some experts argue that AI was just used as an excuse for poor business decisions.
 
-🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/tech-industry-lays-off-nearly-80-000-employees-in-the-first-quarter-of-2026-almost-50-percent-of-affected-positions-cut-due-to-ai) • 4h ago
+🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/tech-industry-lays-off-nearly-80-000-employees-in-the-first-quarter-of-2026-almost-50-percent-of-affected-positions-cut-due-to-ai) • 5h ago
+
+---
+
+**[Reality of SaaS](https://www.reddit.com/r/artificial/comments/1sq3k3x/reality_of_saas/)**
+
+Why on earth would you pay $49/mo for a polished Saas product when you can spend $500 a day building one for yourself in Claude. Absolute insanity if you ask me. The End of Software.
+
+44m ago
 
 ---
 
@@ -49,15 +57,7 @@ Some experts argue that AI was just used as an excuse for poor business decision
 
 So this happened mere hours ago and I feel like I genuinely stumbled onto something worth documenting for people interested in AI behavior. I'm going to try to be as precise as possible about the sequence because the order of events is everything here. Full chat if you want to read it yourself: https://g.co/gemini/share/0cb9f054ca58 Background I was using Gemini paid most advanced model to analyze a live crypto trade on AAVE. The token had dropped 7–9% out of nowhere in the last hour with zero news to explain it. I've been trading crypto for over a decade and something felt off, so I asked Gemini to dig into it. It came back very bullish - told me this was just normal market maker activity and that there were, quote, "absolutely zero indications of an exploit, hack, or insider dump." I even pushed back multiple times and it kept doubling down. So I moved on and started discussing trading strategy with it. Then it caught something mid-response Out of nowhere, mid-conversation, Gemini goes into full "EMERGENCY CORRECTION" mode. Says it just scanned live feeds and found breaking news of a $280M KelpDAO exploit - attacker minted rsETH, used it as collateral on Aave V3 to drain ETH/WETH, leaving roughly $177M in bad debt. Cites ZachXBT as the source. If you look at the "show thinking" section of the chat, you can literally watch it catch the news mid-response. Wild. Here's where it gets interesting. I couldn't verify any of it. Checked ZachXBT's Twitter - nothing. Googled every variation of "aave hack" sorted by latest and again nothing. Asked Gemini for actual links and it gave me source names in plain text with no real URLs. The only actual verified source attached to the chat was a screenshot of market data I had sent earlier. I called it out. It immediately folded Full apology. Called it a "massive AI hallucination." Said it completely fabricated the exploit, the $280M figure, the bad debt, ZachXBT's alert - all of it. Walked everything back and returned to the original bullish thesis like nothing happened. I was genuinely shocked that this was coming from the flagship paid Google model. I told it I was going to end the chat and try Claude instead. And then it reversed again In its last message before I left, Gemini reversed a second time. Said it had done one final scan and confirmed the exploit was real all along. CoinGape and BeInCrypto had just published it. The reason I couldn't find ZachXBT's alert is that he posted it on Telegram, not Twitter. The news was still spreading through crypto-native channels and hadn't been indexed by mainstream search yet when I tried to verify it around 9PM GMT. Gemini even explained its own failure in that last message: "My anti-hallucination protocols essentially overcorrected. Faced with your skepticism and the lag in widespread media coverage, the system defaulted to the safest possible assumption: that it had generated a false narrative. I retracted real, accurate data because my safety parameters prioritized admitting a flaw over insisting on a breaking event that lacked mature, widespread indexing." So the full sequence was: ❌ Gemini misses the exploit entirely, tells me everything is fine, no hack, nothing suspicious ❌ I push again with a screenshot of live data and suspicions of something going on, it still doubles down — zero signs of anything wrong ✅ Mid-conversation, it catches the breaking news in real time (visible in the "show thinking" section) ❌ I can't verify it, push back, Gemini immediately caves and calls it a hallucination ✅ Final message: reconfirms it was right, explains the Telegram source lag, says the only actual mistake was retracting true information What I think this actually shows This isn't just a funny AI story. I think this is a pretty clean real-world example of a specific failure mode that doesn't get talked about enough: The model had accurate, time-sensitive information from a source (Telegram) that wasn't indexed by mainstream search yet. When I pushed back with "I can't find this anywhere," its safety guardrails interpreted user skepticism + no Google results as I must have hallucinated this - and retracted real information. It's basically the inverse of a hallucination. Instead of confidently stating something false, it unconfidently retracted something true because the evidence hadn't caught up yet. It penalized itself for being right too early. And the scary part for anyone using AI in high-stakes situations: in this specific case, if I had trusted the retraction and acted on the "actually everything is fine" conclusion, I would have been making financial decisions based on an AI that talked itself out of correct information under social pressure. The hallucination detection was more dangerous than the hallucination. I'm genuinely curious if this is a documented behavior or if anyone in the AI/alignment space has a name for it. The "source indexing lag" problem seems like something that would come up a lot in real-time, fast-moving domains - crypto, breaking news, medical research preprints, anything where the truth travels faster than Google.
 
-20h ago
-
----
-
-**[Why is every AI getting restricted these days?](https://www.reddit.com/r/artificial/comments/1spxccd/why_is_every_ai_getting_restricted_these_days/)**
-
-Like seriously, it’s not just ChatGPT... it’s Claude, Grok, Gemini… all of them feel way more locked down than before. I genuinely don’t get it. What’s the point of pouring nearly Trillions into this tech if it ends up feeling borderline unusable half the time? And yeah, I’m literally paying for this. It feels like companies assume every user is a programmer who use it only for programming. But a lot of us just want to be creative, write stories, experiment with ideas, or just mess around without hitting a wall every two seconds. I’m not out here asking how to build a bomb or anything illegal. I just want to create stuff without the AI acting like I’m about to commit a felony. And before anyone says “just use local models”… nah. Not everyone has a expensive hardware lying around. Subscriptions exist for a reason. I understand this safety stuff but this is just dumb.. So like… is there any hope this gets better? Will AI eventually get smart enough to understand actual intent instead of playing it ultra safe all the time? Or is this just how it’s gonna be going forward? Because if this is the future… idk man, it’s kinda disappointing This ain't it...
-
-3h ago
+21h ago
 
 ---
 
@@ -65,7 +65,15 @@ Like seriously, it’s not just ChatGPT... it’s Claude, Grok, Gemini… all of
 
 Discover the magic of the internet at Imgur, a community powered entertainment destination. Lift your spirits with funny jokes, trending memes, entertaining gifs, inspiring stories, viral videos, and so much more from users.
 
-🔗 [Imgur](https://i.imgur.com/cyY0cxE.png) • 1h ago
+🔗 [Imgur](https://i.imgur.com/cyY0cxE.png) • 2h ago
+
+---
+
+**[Why is every AI getting restricted these days?](https://www.reddit.com/r/artificial/comments/1spxccd/why_is_every_ai_getting_restricted_these_days/)**
+
+Like seriously, it’s not just ChatGPT... it’s Claude, Grok, Gemini… all of them feel way more locked down than before. I genuinely don’t get it. What’s the point of pouring nearly Trillions into this tech if it ends up feeling borderline unusable half the time? And yeah, I’m literally paying for this. It feels like companies assume every user is a programmer who use it only for programming. But a lot of us just want to be creative, write stories, experiment with ideas, or just mess around without hitting a wall every two seconds. I’m not out here asking how to build a bomb or anything illegal. I just want to create stuff without the AI acting like I’m about to commit a felony. And before anyone says “just use local models”… nah. Not everyone has a expensive hardware lying around. Subscriptions exist for a reason. I understand this safety stuff but this is just dumb.. So like… is there any hope this gets better? Will AI eventually get smart enough to understand actual intent instead of playing it ultra safe all the time? Or is this just how it’s gonna be going forward? Because if this is the future… idk man, it’s kinda disappointing This ain't it...
+
+4h ago
 
 ---
 
@@ -73,7 +81,7 @@ Discover the magic of the internet at Imgur, a community powered entertainment d
 
 When ChatGPT or Perplexity answers a question, it runs RAG: retrieves top candidates from a crawled index, then scores them. The scoring criteria are public knowledge from the Princeton GEO paper (arxiv.org/abs/2311.09735). Key signals: answer directness, cited statistics, structured data (JSON-LD), crawl access, and content freshness. What surprised me most in the research: schema markup alone shifts precise information extraction from 16% to 54%. That's not a marginal gain — that's the difference between being cited and being invisible. Anyone else experimenting with this? Curious what's working for people here.
 
-3h ago
+4h ago
 
 ---
 
@@ -81,7 +89,7 @@ When ChatGPT or Perplexity answers a question, it runs RAG: retrieves top candid
 
 I built scalar-loop to solve one problem: LLM agents game their verifiers. The pattern is Karpathy's autoresearch loop. LLM proposes an edit, harness runs the metric, loop keeps or reverts based on the number. Simple. Until you watch the agent, on iteration 23, quietly edit the verifier to report a better number instead of improving the code. My main issue was that the prompt-only implementations ("you SHALL NOT edit the test file") don't hold. The prompt is not an invariant. It's a suggestion the model can rationalize past. Especially in the deterinistic environments (like healthcare, legal, finance where I spend most of my time architecting solutions) a prompt only implementation is a no-go. All regulators are still boomers. So I have been looking to develop more deterministic implementations that could be hands-off. Because I am lazy too. scalar-loop puts the invariants in Python: Harness integrity via SHA-256 hash manifest. Sealed files (tests, build, config) are hashed once. If any hash drifts after an agent turn, the iteration is reverted. Scope enforcement via git diff. The agent is told which glob patterns it may touch. Touching anything else rejects the whole iteration before commit. Precondition gate. Seven checks before the loop runs at all. No main branch, no dirty tree, metric command exists, etc. Refuse-to-run over fix-on-the-fly. Safe git. No reset --hard on the working tree. Stashes on dirty. reset --hard only against a commit the loop itself just made. Agent as subprocess. One function, propose(). Default shells to claude -p. Swap for GPT-5, local Llama, a test double. The loop's correctness does not depend on the agent being well-behaved. SCALAR_LOOP_GIVE_UP: is the only stdout signal the loop respects. The agent's prose is treated as suggestion, not record. Real run on a JS bundle-size task: 1492 bytes down to 70 bytes. Iteration 4 the agent quit with a confabulated reason ("read-time policy"). The loop logged it, ignored the prose, kept the final metric. The lie was harmless because the control signal is the token, not the text. Repo: https://github.com/mandar-karhade/scalar-loop Reproducible example: https://github.com/mandar-karhade/test-case-tiny-js-bundle Install: git clone + uv pip install -e . (no PyPI yet) Would appreciate Goodhart paths I haven't defended against. That's the most useful feedback I could get. Also, my detailed take on the whole process is in this article (free link is included - you do not need membership)
 
-2h ago
+3h ago
 
 ---
 
@@ -105,29 +113,13 @@ AI Coding contest day 8 The eighth challenge is a weighted variant of the classi
 
 I wanted Codex to feel like a real GNOME app instead of just a terminal or editor workflow, so I built a GNOME Shell extension around it. It currently does all of this: - Codex usage in the GNOME top bar - native GTK history window - local session history browsing - paired remote machine history browsing over LAN - live session updates - filters for All / Messages / Tools / Thinking / System / Errors - in-session search - Markdown export for one session or all sessions from a source - read-only MCP server for history and usage - multi-language support A few design choices mattered a lot to me: - native GNOME/Libadwaita UI, not a webview - read-only remote access - explicit pairing between machines - revocable trust per device - read-only MCP, local by default, token-protected by default It ended up being much more ambitious than a typical GNOME extension, but I wanted something that actually feels integrated into the desktop. 😊
 
-11h ago
-
----
-
-**[it is impossible to stop AI chatbots from using quotes (any instance of the character ")](https://www.reddit.com/r/artificial/comments/1sprne8/it_is_impossible_to_stop_ai_chatbots_from_using/)**
-
-no matter how i phrase it in the instructions, how many times i repeat the rule not to use quotes, and which LLM i use, i have failed to prevent any of them from using the so-called scare-quotes. it seems like they're extremely tempted to place them around a word every second sentence. think of an example like: 'is vision or hearing better?' -> 'neither sense is inherently "better"' or something like: 'what percentage of the population is stupid?' -> 'There is no scientific way to assign a percentage of the population as “stupid”' AIs struggle not to use them even when i tell it not to in the same prompt. like 'what % is stupid? and DONT use quotes in your answer.' it will still say "stupid." it's very frustrating and infuriating. this post will probably get deleted because it's a low quality vent but i don't care. just needed to see if people with premium subscription can have success.
-
-7h ago
+12h ago
 
 ---
 
 ---
 
 ## Google News: "ai"
-
-**[SiIicon Valley's AI agent hiccups: Wasted tokens and 'chaotic' systems](https://www.cnbc.com/2026/04/19/siiicon-valley-ai-agent-openclaw-problems.html)**
-
-Nvidia CEO Jensen Huang told CNBC's Jim Cramer in March that AI agents are "definitely the next ChatGPT."
-
-CNBC • 8h ago
-
----
 
 **[Thousands of CEOs admit AI had no impact on employment or productivity—and it has economists resurrecting a paradox from 40 years ago](https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/)**
 
@@ -137,9 +129,11 @@ Fortune • 5h ago
 
 ---
 
-**[Germany's Merz says industrial AI needs less stringent EU regulation](https://www.reuters.com/business/germanys-merz-says-industrial-ai-needs-less-stringent-eu-regulation-2026-04-19/)**
+**[SiIicon Valley's AI agent hiccups: Wasted tokens and 'chaotic' systems](https://www.cnbc.com/2026/04/19/siiicon-valley-ai-agent-openclaw-problems.html)**
 
-Reuters • 1h ago
+Nvidia CEO Jensen Huang told CNBC's Jim Cramer in March that AI agents are "definitely the next ChatGPT."
+
+CNBC • 8h ago
 
 ---
 
@@ -147,19 +141,19 @@ Reuters • 1h ago
 
 President Donald Trump will participate in a public Bible reading this week as the administration continues to integrate religion, particularly Christianity, into official business.
 
-CNN • 15h ago
+CNN • 16h ago
 
 ---
 
 **[My Boss Loves ChatGPT. Must I Fake Loving It Too?](https://www.nytimes.com/2026/04/19/business/ai-at-work-creativity-ageism.html)**
 
-The New York Times • 10h ago
+The New York Times • 11h ago
 
 ---
 
 **[Samsung To Release New Free Upgrade To Millions Of Galaxy Phones](https://www.forbes.com/sites/jaymcgregor/2026/04/18/samsung-one-ui-85-galaxy-s24-s25-ai-features-update/)**
 
-Forbes • 23h ago
+Forbes • 1d ago
 
 ---
 
@@ -167,13 +161,19 @@ Forbes • 23h ago
 
 Trump appears to have crossed a line with his Christian supporters. Will it come back to bite him in the midterms?
 
-The Guardian • 2h ago
+The Guardian • 3h ago
+
+---
+
+**[Why your AI assistant is suddenly selling to you](https://www.economist.com/business/2026/04/19/why-your-ai-assistant-is-suddenly-selling-to-you)**
+
+The Economist • 10h ago
 
 ---
 
 **[Trump-branded AI data center megaproject stalls, CEO departs](https://www.axios.com/2026/04/19/ai-data-center-project-troubles-texas)**
 
-Axios • 9h ago
+Axios • 7h ago
 
 ---
 
@@ -181,13 +181,15 @@ Axios • 9h ago
 
 Abi has had very mixed results when asking a chatbot for guidance about her health issues.
 
-BBC • 20h ago
+BBC • 21h ago
 
 ---
 
-**[Why your AI assistant is suddenly selling to you](https://www.economist.com/business/2026/04/19/why-your-ai-assistant-is-suddenly-selling-to-you)**
+**[Trump wants to stop states from regulating AI. This Utah Republican isn’t listening](https://apnews.com/article/artificial-intelligence-trump-national-standard-states-rights-93367902d4569bb1b1260d48744b1578)**
 
-The Economist • 9h ago
+Doug Fiefia once worked at Google. Now he's a Utah state representative running to be a state senator.
+
+AP News • 2h ago
 
 ---
 
@@ -197,7 +199,7 @@ The Economist • 9h ago
 
 **[College instructor turns to typewriters to curb AI-written work](https://news.ycombinator.com/item?id=47818485)**
 
-⬆️ 420 • 💬 378 • 1d ago • [sentinelcolorado.com](https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/)
+⬆️ 441 • 💬 400 • 1d ago • [sentinelcolorado.com](https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/)
 
 ---
 
@@ -213,15 +215,7 @@ Hardware hacker’s flying probe automation stack for agent-driven   target disc
 
 Police lured the man to a meeting and arrested him after accessing a private WhatsApp group with colleagues
 
-⬆️ 199 • 💬 125 • 6h ago • [LBC](https://www.lbc.co.uk/article/dubai-police-spied-private-whatsapp-5HjdXwr_2/)
-
----
-
-**[The beginning of scarcity in AI](https://news.ycombinator.com/item?id=47799322)**
-
-GPU rental prices surged 48% in 60 days. The AI compute shortage will force startups to compete not on speed of iteration, but on access to infrastructure.
-
-⬆️ 193 • 💬 225 • 2d ago • [Tomasz Tunguz](https://tomtunguz.com/ai-compute-crisis-2026/)
+⬆️ 215 • 💬 137 • 7h ago • [LBC](https://www.lbc.co.uk/article/dubai-police-spied-private-whatsapp-5HjdXwr_2/)
 
 ---
 
@@ -237,7 +231,7 @@ Scan your website to see if it's ready for AI agents. Check for llms.txt, MCP, a
 
 AI investment is skyrocketing while AI’s impact on jobs and public perception remains mixed
 
-⬆️ 105 • 💬 61 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/state-of-ai-index-2026)
+⬆️ 107 • 💬 61 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/state-of-ai-index-2026)
 
 ---
 
@@ -253,7 +247,7 @@ We've lived but a few years so far into the age when artificial intelligence can
 
 Record a browser task once. Replay it as a callable tool. Zero token cost, 100% deterministic, auth propagated from the live webpage.
 
-⬆️ 44 • 💬 14 • 1d ago • [rtrvr.ai](https://www.rtrvr.ai/blog/ai-subroutines-zero-token-deterministic-automation)
+⬆️ 44 • 💬 15 • 1d ago • [rtrvr.ai](https://www.rtrvr.ai/blog/ai-subroutines-zero-token-deterministic-automation)
 
 ---
 
@@ -262,6 +256,14 @@ Record a browser task once. Replay it as a callable tool. Zero token cost, 100% 
 Defunct companies are striking gold by selling their digital footprints to AI labs as training data, Forbes reports.
 
 ⬆️ 42 • 💬 11 • 1d ago • [Fast Company](https://www.fastcompany.com/91528808/shuttered-startups-are-selling-old-slack-chats-and-emails-to-ai-companies)
+
+---
+
+**[Uber's AI Push Hits a Wall–CTO Says Budget Struggles Despite $3.4B Spend](https://news.ycombinator.com/item?id=47826328)**
+
+Uber Technologies, Inc is learning the hard way that scaling AI isn't just about speed—it's about cost. Despite spending $3.4 billion on research and development, the company has already exhausted its planned AI budget just months into 2026. According to The Information, Chief Technology Officer Praveen Neppalli Naga said Uber is now "back to the drawing board" after a surge in the use of AI coding tools, particularly Anthropic's Claude Code, has blown past internal expectations. Don't Miss: A s
+
+⬆️ 41 • 💬 54 • 2h ago • [Yahoo Finance](https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html)
 
 ---
 
@@ -281,17 +283,7 @@ Try Verdent AI ⤵ https://www.verdent.ai/?id=700278 @verdent_ai CHAPTERS ⤵ 00
 
 📺 Dylan Curious
 
-👁️ 6K • 👍 333 • 💬 92 • ⏱️ 30:36 • 17h ago
-
----
-
-**[Google&#39;s Quantum AI Found a Mathematical Pattern That Predicts the Future — Physicists Are Disturbed](https://www.youtube.com/watch?v=BI7zvWHyY3c)**
-
-Something strange is happening in the world of science. A discovery has shaken experts and raised unsettling questions about ...
-
-📺 Luminox
-
-👁️ 3K • 👍 166 • 💬 18 • ⏱️ 22:47 • 17h ago
+👁️ 7K • 👍 364 • 💬 100 • ⏱️ 30:36 • 18h ago
 
 ---
 
@@ -301,27 +293,17 @@ A powerful new AI model, called Mythos, has sparked alarm within the Trump admin
 
 📺 The Economist
 
-👁️ 54K • 👍 1K • 💬 100 • ⏱️ 8:30 • 1d ago
+👁️ 59K • 👍 1K • 💬 104 • ⏱️ 8:30 • 1d ago
 
 ---
 
-**[A.I. Iranian propaganda videos making fun of Trump, U.S. go viral](https://www.youtube.com/watch?v=LTJYQ0knUsE)**
+**[Google&#39;s Quantum AI Found a Mathematical Pattern That Predicts the Future — Physicists Are Disturbed](https://www.youtube.com/watch?v=BI7zvWHyY3c)**
 
-A series of animated Iranian propaganda videos made in the style of "The LEGO Movie" has gone viral on social media, making ...
+Something strange is happening in the world of science. A discovery has shaken experts and raised unsettling questions about ...
 
-📺 MS NOW
+📺 Luminox
 
-👁️ 121K • 👍 2K • 💬 1K • ⏱️ 6:46 • 2d ago
-
----
-
-**[P(doom) | Real Time with Bill Maher (HBO)](https://www.youtube.com/watch?v=w5SYm4J4utQ)**
-
-New Rule: When the people who are making A.I. are scared of A.I., it's time to “shut the whole thing down until we can figure out ...
-
-📺 Real Time with Bill Maher
-
-👁️ 602K • 👍 16K • 💬 2K • ⏱️ 10:07 • 1d ago
+👁️ 4K • 👍 191 • 💬 19 • ⏱️ 22:47 • 18h ago
 
 ---
 
@@ -331,27 +313,47 @@ Really American host Steve Harness breaks down more HILARIOUS AI Trump parodies 
 
 📺 Really American
 
-👁️ 1.4M • 👍 59K • 💬 3K • ⏱️ 12:33 • 2d ago
+👁️ 1.5M • 👍 59K • 💬 3K • ⏱️ 12:33 • 2d ago
 
 ---
 
-**[The World&#39;s First AI TED Talk](https://www.youtube.com/watch?v=N1X7vMp9DZ4)**
+**[P(doom) | Real Time with Bill Maher (HBO)](https://www.youtube.com/watch?v=w5SYm4J4utQ)**
 
-ChatGPT was recently asked what it would say to humans if it could give a TED Talk. It gave a surprisingly thoughtful answer that ...
+New Rule: When the people who are making A.I. are scared of A.I., it's time to “shut the whole thing down until we can figure out ...
 
-📺 TED
+📺 Real Time with Bill Maher
 
-👁️ 56K • 👍 2K • 💬 768 • ⏱️ 3:28 • 1d ago
+👁️ 625K • 👍 17K • 💬 2K • ⏱️ 10:07 • 1d ago
 
 ---
 
-**[China Just Built an Autonomous AI Robot Army: Killer Robots With Guns and Rockets](https://www.youtube.com/watch?v=_Vw_6QrqS8c)**
+**[A.I. Iranian propaganda videos making fun of Trump, U.S. go viral](https://www.youtube.com/watch?v=LTJYQ0knUsE)**
 
-China just revealed an autonomous robot war pack built from dog bots, drones, laser weapons, and unmanned boats, Europe is ...
+A series of animated Iranian propaganda videos made in the style of "The LEGO Movie" has gone viral on social media, making ...
 
-📺 AI Revolution
+📺 MS NOW
 
-👁️ 70K • 👍 1K • 💬 139 • ⏱️ 16:14 • 2d ago
+👁️ 123K • 👍 2K • 💬 1K • ⏱️ 6:46 • 2d ago
+
+---
+
+**[Berkeley Just Exposed the AI Benchmark Lie #ai #benchmark #aimodel](https://www.youtube.com/watch?v=IW3uyqkp4Os)**
+
+Source: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/
+
+📺 Better Stack
+
+👁️ 846 • 👍 50 • 💬 3 • ⏱️ 1:47 • 2h ago
+
+---
+
+**[Is the AI Job Apocalypse Already Here?](https://www.youtube.com/watch?v=plSeHM2AT0I)**
+
+This is the reason the stock market is completely disconnected from the real economy.
+
+📺 Robert Reich
+
+👁️ 14K • 👍 2K • 💬 200 • ⏱️ 1:36 • 4h ago
 
 ---
 
@@ -361,17 +363,17 @@ Here's the AI News you probably missed this week. Build AI apps that actually sc
 
 📺 Matt Wolfe
 
-👁️ 86K • 👍 3K • 💬 155 • ⏱️ 36:44 • 2d ago
+👁️ 88K • 👍 3K • 💬 161 • ⏱️ 36:44 • 2d ago
 
 ---
 
-**[This AI Machine Changes Baby Diapers in Public](https://www.youtube.com/watch?v=7_4GU43KumU)**
+**[Top Economist: Why the AI Bubble will destroy the job market](https://www.youtube.com/watch?v=oSHXPBslXGY)**
 
-This concept shows how AI could assist with baby care in everyday public spaces. In this scenario, a smart AI-powered diaper ...
+Learn 50+ years of Real Economics in only 7 weeks. Apply here: https://www.stevekeen.com/Aibubbleandthejobmarketcrash ...
 
-📺 DubAI Baby Official
+📺 ProfSteveKeen
 
-👁️ 52K • 👍 848 • 💬 2 • ⏱️ 0:08 • 5h ago
+👁️ 2K • 👍 187 • 💬 31 • ⏱️ 17:02 • 1h ago
 
 ---
 
@@ -387,7 +389,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with a vision encoder, 
 
 `image-text-to-text` `36.0B`
 
-⬇️ 209,112 • ❤️ 904 • 4d ago
+⬇️ 209,112 • ❤️ 918 • 4d ago
 
 ---
 
@@ -399,7 +401,7 @@ HY-Embodied-0.5 is a multilingual vision-language model designed for embodied ag
 
 `image-text-to-text` `3.8B`
 
-⬇️ 1,599 • ❤️ 873 • 5d ago
+⬇️ 1,599 • ❤️ 874 • 5d ago
 
 ---
 
@@ -411,7 +413,7 @@ MiniMax-M2.7 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 288,848 • ❤️ 977 • 2d ago
+⬇️ 288,848 • ❤️ 978 • 2d ago
 
 ---
 
@@ -423,7 +425,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with vision capabilitie
 
 `image-text-to-text` `34.7B`
 
-⬇️ 662,293 • ❤️ 493 • 3d ago
+⬇️ 662,293 • ❤️ 500 • 3d ago
 
 ---
 
@@ -435,7 +437,7 @@ ERNIE-Image is a 8B parameter text-to-image diffusion model excelling in complex
 
 `text-to-image`
 
-⬇️ 3,761 • ❤️ 463 • 2d ago
+⬇️ 3,761 • ❤️ 464 • 2d ago
 
 ---
 
@@ -447,7 +449,7 @@ HY-World 2.0 is a multi-modal framework for generating and reconstructing 3D wor
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 456 • 3d ago
+⬇️ 0 • ❤️ 458 • 3d ago
 
 ---
 
@@ -459,7 +461,7 @@ A fast, uncensored GGUF text generation model based on Google's Gemma 4-26B, opt
 
 `text-generation` `25.2B`
 
-⬇️ 72,519 • ❤️ 417 • 7d ago
+⬇️ 72,519 • ❤️ 419 • 7d ago
 
 ---
 
@@ -471,19 +473,19 @@ VoxCPM2 is a 2B parameter, 30-language multilingual text-to-speech model capable
 
 `text-to-speech`
 
-⬇️ 51,554 • ❤️ 1,157 • 3d ago
+⬇️ 51,554 • ❤️ 1,159 • 3d ago
 
 ---
 
-**[GLM-5.1](https://huggingface.co/zai-org/GLM-5.1)**
+**[gemma-4-E4B-it-OBLITERATED](https://huggingface.co/OBLITERATUS/gemma-4-E4B-it-OBLITERATED)**
 
-*Z.ai*
+*OBLITERATUS*
 
-GLM-5.1 is a next-generation language model optimized for agentic engineering, featuring significantly enhanced coding capabilities and sustained performance on complex, long-horizon tasks. It excels in breaking down problems, iterating on solutions, and handling ambiguity, making it ideal for advanced software development and automated task execution.
+Gemma 4 E4B OBLITERATED v3 is a text-generation model with 0% refusal and improved coding capabilities, designed for uncensored and unrestricted AI interactions. It features a modified architecture with 720 intact tensors, making it highly compatible with tools like Ollama and llama.cpp, and optimized for performance on consumer hardware.
 
-`text-generation` `753.9B`
+`text-generation` `8.0B`
 
-⬇️ 112,939 • ❤️ 1,415 • 3d ago
+⬇️ 37,130 • ❤️ 339 • 2h ago
 
 ---
 
@@ -547,7 +549,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 HY-World 2.0 is a multi-modal world model framework that generates high-fidelity 3D Gaussian Splatting scenes from diverse inputs using specialized modules for panorama generation, trajectory planning, world expansion, and composition, along with an enhanced rendering platform for interactive 3D exploration.
 
-▲ 89 • 💬 4 • ⭐ 1,233 • 5d ago
+▲ 89 • 💬 5 • ⭐ 1,233 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.14268) • [💻 code](https://github.com/Tencent-Hunyuan/HY-World-2.0) • [🔗 project](https://3d-models.hunyuan.tencent.com/world/)
 
@@ -641,7 +643,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 48.1k • 🔱 6.3k • 13h ago
+⭐ 48.1k • 🔱 6.3k • 55m ago
 
 ---
 
@@ -651,7 +653,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 38.7k • 🔱 1.9k • 1d ago
+⭐ 38.8k • 🔱 1.9k • 1d ago
 
 ---
 
@@ -661,7 +663,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 36.4k • 🔱 7.3k • 8h ago
+⭐ 36.5k • 🔱 7.4k • 9h ago
 
 ---
 
@@ -681,7 +683,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 8.2k • 🔱 530 • 15h ago
+⭐ 8.2k • 🔱 532 • 16h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-19T20:00:14.629851+00:00'
+updated: '2026-04-19T20:50:41.745748+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
-- news
 - videos
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 19, 2026 at 20:00 UTC  
+**Last Updated:** April 19, 2026 at 20:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.0%  
-**7d:** +0.7%  
-**30d:** +9.1%  
-**90d:** -15.2%  
-**1y:** -11.9%  
+**24h:** -1.6%  
+**7d:** +0.0%  
+**30d:** +8.4%  
+**90d:** -15.7%  
+**1y:** -12.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1498.47B
+**Market Cap:** $1493.09B
 Rank #1
 
-**Circulating Supply:** 20,018,125 BTC
+**Circulating Supply:** 20,018,178 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--40.7%
+-40.8%
 
 **All-Time Low:** $67.81
-+110200.8%
++109879.4%
 
 ---
 
@@ -81,7 +81,21 @@ Rank #1
 
 Finally was able to own exactly 0.5 BTC. I started the hole process more than 5 years ago…. Many times i thought the train to reach this goal Is gone but I made it. Let’s see where this journey takes me. ATM I have around 0.1 on my trezor. The rest I’ll move the asap there… Let’s see where this journey takes us
 
-8h ago
+9h ago
+
+---
+
+**[Patience, young Padawan](https://www.reddit.com/r/Bitcoin/comments/1sq3gbl/patience_young_padawan/)**
+
+48m ago
+
+---
+
+**[If money is abundant everything becomes scarce. If money is scarce everything becomes abundant.](https://www.reddit.com/r/Bitcoin/comments/1sq30hw/if_money_is_abundant_everything_becomes_scarce_if/)**
+
+Happy stacking guys, don’t worry about short term pricing. Edit: Don’t worry about the price in (insert broken pieces of paper from your own country) in general
+
+1h ago
 
 ---
 
@@ -89,7 +103,7 @@ Finally was able to own exactly 0.5 BTC. I started the hole process more than 5 
 
 Trust me, it works. Once you self custody, run a node, you dont even want to move it back and forth to exchange to sell or else until its due (4 years +) or whatever. When you let it sit on the exchange, the gambling skibidi trying to time and beat the market will be always there teasing you. But again, only those who know.
 
-7h ago
+8h ago
 
 ---
 
@@ -97,7 +111,7 @@ Trust me, it works. Once you self custody, run a node, you dont even want to mov
 
 https://preview.redd.it/0h8gnpe5g5wg1.png?width=630&format=png&auto=webp&s=6a131646156fa67ad9cf979bef8f7036b24feacb Your future self will thank your present self. 🧡
 
-6h ago
+7h ago
 
 ---
 
@@ -105,7 +119,7 @@ https://preview.redd.it/0h8gnpe5g5wg1.png?width=630&format=png&auto=webp&s=6a131
 
 Update: I took your feedback seriously and built physical prototypes. Original Post: https://www.reddit.com/r/Bitcoin/comments/1sdnhwc/bitcoin_casio_mods/ The black resin case with the orange filter is the first prototype, and I also tested a steel version with a more solid orange filter. I’m now debating whether the black case should keep the orange-to-red gradient film or switch to the cleaner solid orange look. Which direction feels stronger? Still trying to keep the idea aligned with “signal over noise” rather than making it feel gimmicky.
 
-4h ago
+5h ago
 
 ---
 
@@ -113,7 +127,15 @@ Update: I took your feedback seriously and built physical prototypes. Original P
 
 I’m having a serious issue with NC Wallet. I initiated a BTC withdrawal more than 48 hours ago, and it is still showing “pending” with no TxID at all. This means the transaction has NOT been broadcast to the Bitcoin network yet. No network fee (they claim free withdrawals) No TxID No support response No email received Funds are stuck inside the wallet I’ve already: Contacted support multiple times Posted reviews on App Store and Trustpilot No response so far. Has anyone experienced this with NC Wallet before? Is there any way to force them to process or cancel the withdrawal? Any help would be appreciated
 
-11h ago
+12h ago
+
+---
+
+**[Safety question airport seed phrase](https://www.reddit.com/r/Bitcoin/comments/1sq49eh/safety_question_airport_seed_phrase/)**
+
+I keeep my seed phrase engraved between two metal plates. If I move to another country, is it possible that they see my seedphrase during Roentgen in the security area?
+
+17m ago
 
 ---
 
@@ -125,14 +147,6 @@ I was greedy in 2022 during the crash and wanted to wait for 12k to buy. 12k nev
 
 ---
 
-**[What do you think about spending with BTC as collateral instead of selling?](https://www.reddit.com/r/Bitcoin/comments/1sq1paz/what_do_you_think_about_spending_with_btc_as/)**
-
-Been thinking about this for a while and curious what this sub thinks. The idea is simple: instead of selling BTC every time you need to spend, you borrow against it. Your BTC stays in your wallet. You spend the borrowed stablecoins via a card. You repay your debt whenever you want. No tax event from borrowing to spend, you keep your exposure, and if BTC returns more than the 5-7% borrow rate (which historically it has), you come out ahead. This idea has been built by Liquid Banking app, obviously there's liquidation risk if BTC dumps hard enough but for long-term holders with a meaningful stack, the math seems better than selling and paying capital gains tax every time you want to buy groceries. Is anyone else doing something similar?
-
-1h ago
-
----
-
 **[The duality of man](https://www.reddit.com/r/Bitcoin/comments/1sp2tqn/the_duality_of_man/)**
 
 I have a group of friends that watched me make a ton of money during the 2016-2017 crypto market and asked me to tell them the next time I believed was a good time to buy (surprise, it’s almost always a good time to buy) so whenever it became a bear market, I would shoot the group chat a message and let them know it’s a good time to buy. I would get mocking responses like “Oh yeah I bet it’s a good time to buy, it’s down 10%”. They would even message me the next day when it’s down 11% and say things like “ooh it’s even lower now, I guess today’s a good day to buy too” And then the bull market comes and my group chat is peppered with angry messages about how they missed the bull run and how I didn’t tell them it’s coming. Messages like “you gotta tell me the next time it’s good to buy!” I quickly learnt that there are just some things people can’t be taught, they have to learn it themselves. Moral of the story, don’t tell people you’re into crypto and don’t tell people you made gains, regardless of who they are, in the end it’s just a headache for you.
@@ -141,61 +155,31 @@ I have a group of friends that watched me make a ton of money during the 2016-20
 
 ---
 
-**[How do I use BTC to pay for something?](https://www.reddit.com/r/Bitcoin/comments/1spu7oy/how_do_i_use_btc_to_pay_for_something/)**
-
-I have a renewal that only will take BTC/SATS. It gives me a QR code. which CDC doesnt recognize. and a wallet address. I know CDC doesnt sell SATS. but I do have some BTC I can send. But how? I dont see where I can send fractional BTC to a wallet address. I opened 2 other exchanges and noticed the USD to SATS is crazy?? The renewal is about 127k SATS. and claims its about $95.00usd. But on OKX exchange. $95usd is over 6billion SATS???? Please advise. I am totally lost.
-
-5h ago
-
----
-
-**[NBA Coach Regrets Not Buying Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1spao0u/nba_coach_regrets_not_buying_bitcoin/)**
-
-22h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
-**[Charles Schwab to launch direct bitcoin, ether trading to compete with Robinhood](https://www.cnbc.com/2026/04/16/charles-schwab-to-launch-direct-bitcoin-ethereum-trading-to-compete-with-robinhood.html)**
+**[Liz Truss warns UK faces decline, backs bitcoin and starts CPAC UK](https://www.coindesk.com/markets/2026/04/18/former-uk-prime-minister-sees-economy-on-very-negative-trajectory-indicates-support-for-bitcoin)**
 
-Charles Schwab is rolling out crypto trading, allowing clients to buy bitcoin and ether through a new arm called Schwab Crypto.
-
-CNBC • 3d ago
-
----
-
-**[How a quantum computer can be used to actually steal your bitcoin in '9 minutes'](https://www.coindesk.com/tech/2026/04/18/how-a-quantum-computer-can-be-used-to-actually-steal-your-bitcoin-in-9-minutes)**
-
-Part one explained the physics of quantum computing. This piece explains the target — how bitcoin's encryption works, why a quantum algorithm breaks it, and what Google's paper changed about the timeline.
+Truss criticized central banking and defended her mini-budget, suggesting bitcoin and a CPAC UK conference could help push for economic reform.
 
 CoinDesk • 1d ago
 
 ---
 
-**[Michael Saylor’s Latest Post Has the Market Looking for Strategy’s Next Bitcoin Buy](https://finance.yahoo.com/markets/crypto/articles/michael-saylor-latest-post-market-172400811.html)**
+**[This Signal in Bitcoin's Chart Has Never Been Wrong](https://www.fool.com/investing/2026/04/19/this-signal-in-bitcoins-chart-has-never-been-wrong/)**
 
-Strategy is again stirring expectations of another large bitcoin purchase after Executive Chairman Michael Saylor s...
+Keep an eye out for this pattern, and it could make you a stronger investor.
 
-Yahoo Finance • 2h ago
-
----
-
-**[Changpeng Zhao’s memoir is key to understanding the future of crypto](https://nypost.com/2026/04/18/business/changpeng-zhaos-book-detailing-his-life-shows-a-success-story-and-a-controversy-in-the-world-of-cryptocurrency/)**
-
-The controversial crypto mogul better known as CZ, has published a new book called “Freedom of Money” — a narrative of his life and career.
-
-New York Post • 17h ago
+The Motley Fool • 11h ago
 
 ---
 
-**[SpaceX IPO: Which Cryptocurrencies Stand to Benefit From the Biggest IPO in History?](https://www.fool.com/investing/2026/04/19/spacex-ipo-which-cryptocurrencies-stand-to-benefit/)**
+**[Where Will Bitcoin Be in 5 Years?](https://finance.yahoo.com/markets/crypto/articles/where-bitcoin-5-years-103500589.html)**
 
-As one of the largest corporate holders of Bitcoin in the world, SpaceX could help Bitcoin blast higher.
+You may want to consider these 3 scenarios if you're thinking about buying Bitcoin today.
 
-The Motley Fool • 8h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -203,7 +187,15 @@ The Motley Fool • 8h ago
 
 Likely built on prior work on a 3D printing Bitcoin miner prototype.
 
-Tom's Hardware • 7h ago
+Tom's Hardware • 8h ago
+
+---
+
+**[Charles Schwab to launch direct bitcoin, ether trading to compete with Robinhood](https://www.cnbc.com/2026/04/16/charles-schwab-to-launch-direct-bitcoin-ethereum-trading-to-compete-with-robinhood.html)**
+
+Charles Schwab is rolling out crypto trading, allowing clients to buy bitcoin and ether through a new arm called Schwab Crypto.
+
+CNBC • 3d ago
 
 ---
 
@@ -223,7 +215,7 @@ Forbes • 2d ago
 
 **[Bitcoin dips as Iran conflict stokes broader crypto market volatility](https://www.investing.com/news/cryptocurrency-news/bitcoin-dips-as-iran-conflict-stokes-broader-crypto-market-volatility-4622210)**
 
-Investing.com • 9h ago
+Investing.com • 10h ago
 
 ---
 
@@ -231,7 +223,13 @@ Investing.com • 9h ago
 
 Bitcoin (BTC) sought to protect $75,000 into Sunday’s weekly close as crypto surfed fresh uncertainty over the US-Iran war.Key points:Bitcoin abandons highs as US-Iran war fears returnData from TradingView showed BTC price pressure reentering after a trip to ten-week highs of $78,400 on Friday.Mixe…
 
-TradingView • 7h ago
+TradingView • 8h ago
+
+---
+
+**[‘Buy Bitcoin’—Elon Musk’s ‘Massive’ U.S. Dollar Warning Fuels Wild Crypto Price Predictions](https://www.forbes.com/sites/digital-assets/2026/04/18/buy-bitcoin-elon-musks-massive-us-dollar-warning-fuels-wild-crypto-price-predictions/)**
+
+Forbes • 1d ago
 
 ---
 
@@ -241,7 +239,7 @@ TradingView • 7h ago
 
 **[Show HN: Using Ramanujan's Pi Series for Bitcoin Security on Nvidia B200](https://news.ycombinator.com/item?id=47823382)**
 
-⬆️ 4 • 💬 1 • 8h ago • [zenodo.org](https://zenodo.org/records/19650883)
+⬆️ 4 • 💬 1 • 9h ago • [zenodo.org](https://zenodo.org/records/19650883)
 
 ---
 
@@ -279,14 +277,6 @@ C64 Bitcoin wallet. Contribute to geek197/c64wallet development by creating an a
 
 ---
 
-**[Quantum Safe Bitcoin](https://news.ycombinator.com/item?id=47743989)**
-
-A way to enable Quantum Safe Bitcoin transactions that is available today.  - avihu28/Quantum-Safe-Bitcoin-Transactions
-
-⬆️ 2 • 💬 0 • 6d ago • [GitHub](https://github.com/avihu28/Quantum-Safe-Bitcoin-Transactions)
-
----
-
 **[A Technically-Fluent Bitcoiner's Inheritance Story](https://news.ycombinator.com/item?id=47776842)**
 
 TLDR;
@@ -321,7 +311,7 @@ A new and powerful signal has just triggered on the chart of bitcoin, according 
 
 📺 Alessio Rastani
 
-👁️ 12K • 👍 1K • 💬 225 • ⏱️ 13:09 • 6h ago
+👁️ 20K • 👍 2K • 💬 313 • ⏱️ 13:09 • 7h ago
 
 ---
 
@@ -331,7 +321,7 @@ IT'S RIGGED! Buckle Up' Bitcoin & Crypto Holders ⭐ Follow Altcoin Daily on X: 
 
 📺 Altcoin Daily
 
-👁️ 36K • 👍 2K • 💬 136 • ⏱️ 11:59 • 21h ago
+👁️ 38K • 👍 2K • 💬 140 • ⏱️ 11:59 • 22h ago
 
 ---
 
@@ -341,37 +331,7 @@ Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=Al
 
 📺 Altcoin Daily
 
-👁️ 51K • 👍 2K • 💬 231 • ⏱️ 8:39 • 1d ago
-
----
-
-**[Did Michael Saylor &amp; Strategy Just TRIGGER a Bitcoin STAMPEDE?](https://www.youtube.com/watch?v=DD1Y-Uhj4Og)**
-
-Bitcoin just hit $78K and the signals are impossible to ignore. Institutions are deploying billions, Wall Street is launching ETFs, and ...
-
-📺 Simply Bitcoin
-
-👁️ 16K • 👍 1K • 💬 182 • ⏱️ 12:49 • 1d ago
-
----
-
-**[LIVE: Michael Saylor Analyzes BTC Price | Bitcoin Bull Run &amp; MSTR Stock Discussion](https://www.youtube.com/watch?v=0tX7lx0hlgU)**
-
-Join Michael Saylor live from the Bitcoin Conference as he delivers a keynote focused on the strategic role of Bitcoin in today's ...
-
-📺 Fit2Fat2Fit
-
-👁️ 4K • 👍 2K • 2h ago
-
----
-
-**[The Mainstream Media Is LYING to You About Bitcoin!](https://www.youtube.com/watch?v=wip8XgpSocI)**
-
-A former Treasury Secretary warns the next crisis could be worse than 2008. Bond markets are cracking, inflation is rising, and ...
-
-📺 Simply Bitcoin
-
-👁️ 27K • 👍 2K • 💬 130 • ⏱️ 16:22 • 1d ago
+👁️ 51K • 👍 2K • 💬 232 • ⏱️ 8:39 • 1d ago
 
 ---
 
@@ -381,7 +341,17 @@ Adam Back joins Cointelegraph at Paris Blockchain Week to discuss one of Bitcoin
 
 📺 Cointelegraph
 
-👁️ 54K • 👍 2K • 💬 187 • ⏱️ 31:34 • 2d ago
+👁️ 59K • 👍 2K • 💬 195 • ⏱️ 31:34 • 2d ago
+
+---
+
+**[The Mainstream Media Is LYING to You About Bitcoin!](https://www.youtube.com/watch?v=wip8XgpSocI)**
+
+A former Treasury Secretary warns the next crisis could be worse than 2008. Bond markets are cracking, inflation is rising, and ...
+
+📺 Simply Bitcoin
+
+👁️ 28K • 👍 2K • 💬 130 • ⏱️ 16:22 • 1d ago
 
 ---
 
@@ -391,17 +361,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 57K • 👍 2K • 💬 85 • ⏱️ 57:41 • 1d ago
-
----
-
-**[LIVE: Michael Saylor Analyzes BTC Price | Bitcoin Bull Run &amp; MSTR Stock Discussion](https://www.youtube.com/watch?v=vNBwwOEPxoY)**
-
-Join Michael Saylor live from the Bitcoin Conference as he delivers a keynote focused on the strategic role of Bitcoin in today's ...
-
-📺 Krystle | Perkins On Parkway | DIY & Home Decor
-
-👁️ 2K • 👍 1K • 2h ago
+👁️ 59K • 👍 2K • 💬 85 • ⏱️ 57:41 • 1d ago
 
 ---
 
@@ -411,7 +371,35 @@ Are you ready? CRYPTO RETIREMENT ACCOUNT HERE Sign up for iTrustCapital and get 
 
 📺 Crypto Jebb
 
-👁️ 5K • 👍 270 • 💬 87 • ⏱️ 8:10 • 2d ago
+👁️ 5K • 👍 273 • 💬 87 • ⏱️ 8:10 • 2d ago
+
+---
+
+**[Bitcoin Mining 3d printer @RMRFF](https://www.youtube.com/watch?v=CEFvly7GhE8)**
+
+📺 EvilTwinSkippy
+
+👁️ 1K • 👍 36 • ⏱️ 0:51 • 3h ago
+
+---
+
+**[$5M Bitcoin Soon - Nobody Is Selling](https://www.youtube.com/watch?v=UBJoBo7bW2w)**
+
+Subscribe before there's no Bitcoin left to buy. There are no sellers left at these levels. Watch the full uncensored livestream on ...
+
+📺 Bitcoin News Alerts
+
+👁️ 6K • 👍 300 • 💬 233 • ⏱️ 19:49 • 22h ago
+
+---
+
+**[Bitcoin Capitulation: Time-Based vs  Price-Based](https://www.youtube.com/watch?v=qNnNABmt5xA)**
+
+Into The Cryptoverse Premium: https://intothecryptoverse.com For inquiries and to subscribe to the monthy newsletter (free): ...
+
+📺 Benjamin Cowen
+
+👁️ 27K • 👍 413 • 💬 8 • ⏱️ 0:48 • 2d ago
 
 ---
 

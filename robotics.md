@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-19T20:00:14.638874+00:00'
+updated: '2026-04-19T20:50:41.751985+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 19, 2026 at 20:00 UTC  
+**Last Updated:** April 19, 2026 at 20:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From 小互 on 𝕏: "Feels a bit like F1": https://x.com/xiaohu/status/2045786816213815411
 
-8h ago
+9h ago
 
 ---
 
@@ -44,7 +44,7 @@ From 小互 on 𝕏: "Feels a bit like F1": https://x.com/xiaohu/status/20457868
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2045678855638405436 https://x.com/XRoboHub/status/2045695900434276501
 
-16h ago
+17h ago
 
 ---
 
@@ -58,7 +58,15 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2045678855638405436 http
 
 Robotis just revealed their new QDD actuators and their new open source humanoid robot. This robot very closely resembles Unitree G1, but it is totally open source in both hardware and software. I heard that the pricing will be competitive as well.
 
-🔗 [LinkedIn](https://www.linkedin.com/posts/yoonseokpyo_this-is-robotiss-open-source-entry-level-activity-7451595734975557632-eLLl/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEP9kBABMMZZVzJTJhId4-134XyBuXENZws) • 5h ago
+🔗 [LinkedIn](https://www.linkedin.com/posts/yoonseokpyo_this-is-robotiss-open-source-entry-level-activity-7451595734975557632-eLLl/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEP9kBABMMZZVzJTJhId4-134XyBuXENZws) • 6h ago
+
+---
+
+**[Real-World Deployment as a Core Strategy in Robotics Development](https://www.reddit.com/r/robotics/comments/1sq3s5m/realworld_deployment_as_a_core_strategy_in/)**
+
+Ali Kashani, founder and CEO of Serve Robotics and former head of robotics at Postmates X, has spent years deploying autonomous delivery robots in active urban environments. He mentions systems built only in controlled settings are based on assumptions. Once robots operate in public, those assumptions are tested immediately. People behave unpredictably, environments change, and situations come up that were never accounted for during development. Those conditions shape what actually needs to be solved. They expose gaps that do not appear in lab testing and force teams to prioritize what matters in real use.
+
+35m ago
 
 ---
 
@@ -74,7 +82,7 @@ A research team in South Korea created an artificial muscle that can be reshaped
 
 This involves a lot of robotics. There is a 5, 2 way solenoid (two of them), two 30mm, 300 long stroke pistons. At first it didn’t work, so i had to increase the pressure enjoy My name’s Isaias
 
-🔗 [youtu.be](https://youtu.be/fueecSb5VqM?si=yWExQK2DQN-n0SCo) • 5h ago
+🔗 [youtu.be](https://youtu.be/fueecSb5VqM?si=yWExQK2DQN-n0SCo) • 6h ago
 
 ---
 
@@ -86,25 +94,17 @@ https://www.youtube.com/watch?v=G2hwzWDg8Js In the past, most grasping implement
 
 ---
 
-**[How did so many Chinese robot manufacturers catch up to Boston Dynamics?](https://www.reddit.com/r/robotics/comments/1sq2bzn/how_did_so_many_chinese_robot_manufacturers_catch/)**
-
-They had been working on their designs for years and I don't think they publish proprietary information so how is it that there are so many manufacturers with humanoid and 'Spot-form' robots that seem to be equal or outperform Boston Dynamics?
-
-40m ago
-
----
-
 **[Understanding Vision-Language-Action (VLA) Models comments needed](https://www.reddit.com/r/robotics/comments/1sq11b4/understanding_visionlanguageaction_vla_models/)**
 
 Hey everyone I recently did some research on VLA (Vision-Language-Action) models, and I decided to write a beginner-friendly article to help myself (and others) understand it better. I’d really appreciate your feedback, suggestions, or anything you think I should add or improve. If there are mistakes or missing parts, feel free to point them out too. Thanks a lot for your time
 
-🔗 [Medium](https://medium.com/@imashanilupul/understanding-vision-language-action-vla-models-240ee628e6d4) • 1h ago
+🔗 [Medium](https://medium.com/@imashanilupul/understanding-vision-language-action-vla-models-240ee628e6d4) • 2h ago
 
 ---
 
 **[PRL in Boston’s Seaport did not disappoint](https://www.reddit.com/r/robotics/comments/1spyx50/prl_in_bostons_seaport_did_not_disappoint/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -116,15 +116,15 @@ Hey everyone I recently did some research on VLA (Vision-Language-Action) models
 
 Robots competed in a half marathon race in Beijing on Sunday, with the winning machine leaving its human rivals for dust.
 
-BBC • 11h ago
+BBC • 12h ago
 
 ---
 
-**[Local Octobots Robotics Team Places Second At State Championship, Earning Spot On World Stage](https://www.edhat.com/news/local-octobots-robotics-team-places-second-at-state-championship-earning-spot-on-world-stage/)**
+**[Can we make robots that eat other robots?](https://www.ft.com/content/9193ef93-d5b9-4270-b743-e7bb174bb811?syn-25a6b1a6=1)**
 
-Santa Barbara County–based Octobots Robotics won second place at the FIRST Robotics Southern California State Championship in Anaheim
+For one group of dogged roboticists, artificial life that can reproduce itself is the future. The fact it doesn’t yet work only adds to the excitement
 
-edhat • 1h ago
+Financial Times • 1d ago
 
 ---
 
@@ -132,13 +132,13 @@ edhat • 1h ago
 
 A recent demo shows Boston Dynamics Spot in a residential home, using Google’s visual-language model (VLM) Gemini Robotics-ER 1.5 for embodied reasoning.
 
-Boston Dynamics • 14h ago
+Boston Dynamics • 2h ago
 
 ---
 
 **[FAMU Hosted Global High School Stem Athletes Who Competed To Qualify For First® International Robotics Championship - Florida A&M University](https://news.famu.edu/2025/famu-hosted-global-high-school-stem-athletes-who-competed-to-qualify-for-first-international-robotics-championship.php)**
 
-Florida A&M University - FAMU • 53m ago
+Florida A&M University - FAMU • 1h ago
 
 ---
 
@@ -146,7 +146,7 @@ Florida A&M University - FAMU • 53m ago
 
 Accenture has announced an investment in General Robotics through Accenture Ventures, alongside a strategic partnership to accelerate the adoption of physical AI-powered robotics across manufacturing, logistics, and other asset-intensive industries.
 
-Pulse 2.0 • 1h ago
+Pulse 2.0 • 2h ago
 
 ---
 
@@ -154,7 +154,15 @@ Pulse 2.0 • 1h ago
 
 A local high school robotics team is making its mark on the national stage for a second year in a row.
 
-WRGB • 4h ago
+WRGB • 13m ago
+
+---
+
+**[Local Octobots Robotics Team Places Second At State Championship, Earning Spot On World Stage](https://www.edhat.com/news/local-octobots-robotics-team-places-second-at-state-championship-earning-spot-on-world-stage/)**
+
+Santa Barbara County–based Octobots Robotics won second place at the FIRST Robotics Southern California State Championship in Anaheim
+
+edhat • 2h ago
 
 ---
 
@@ -162,13 +170,13 @@ WRGB • 4h ago
 
 In 1864, nations set rules before catastrophe. Robotics needs the same—clear, enforceable lines between care and harm, defined before the consequences force it. The world didn’t wait for weapons manufacturers to self-regulate warfare. It built a treaty. We need the same architecture here. By Futurist Thomas Frey Part 4 of 4: The Framework We Have […]
 
-Futurist Speaker • 1h ago
+Futurist Speaker • 2h ago
 
 ---
 
 **[Photos: Students show off engineering skills at robotics competition](https://www.timesunion.com/news/article/photos-school-robotics-teams-face-competition-22213793.php)**
 
-Times Union • 9h ago
+Times Union • 10h ago
 
 ---
 
@@ -177,12 +185,6 @@ Times Union • 9h ago
 Gemini Robotics ER 1.6 upgrades spatial reasoning and multi-view understanding, unlocking new capabilities like instrument reading for autonomous robots.
 
 Google DeepMind • 5d ago
-
----
-
-**[AI and robotics will aid, not end, human space exploration](https://thehill.com/opinion/technology/5836884-human-spaceflight-debate-ai-robots/)**
-
-The Hill • 6h ago
 
 ---
 
@@ -196,7 +198,7 @@ Humanoid robots have beaten human runners in a Beijing half-marathon, marking a 
 
 📺 Al Jazeera English
 
-👁️ 135K • 👍 2K • 💬 533 • ⏱️ 2:13 • 9h ago
+👁️ 193K • 👍 2K • 💬 644 • ⏱️ 2:13 • 10h ago
 
 ---
 
@@ -206,7 +208,7 @@ President Zelenskyy says that for the first time ever, the Ukrainian army was ab
 
 📺 NBC News
 
-👁️ 582K • 👍 8K • 💬 2K • ⏱️ 3:12 • 3d ago
+👁️ 585K • 👍 8K • 💬 2K • ⏱️ 3:12 • 3d ago
 
 ---
 
@@ -216,17 +218,7 @@ Physical Intelligence is building a foundation model that can control any robot 
 
 📺 Y Combinator
 
-👁️ 41K • 👍 954 • 💬 54 • ⏱️ 49:27 • 3d ago
-
----
-
-**[Humanoid Robot ‘Lightning’ Breaks World Record For A Half-marathon](https://www.youtube.com/watch?v=4i4EglunAag)**
-
-Robots have outpaced human runners at this year's Beijing half-marathon, finishing more than 10 minutes ahead of the top ...
-
-📺 New York Post
-
-👁️ 6K • 👍 113 • 💬 106 • ⏱️ 3:17 • 4h ago
+👁️ 42K • 👍 971 • 💬 54 • ⏱️ 49:27 • 3d ago
 
 ---
 
@@ -236,17 +228,27 @@ Boston Dynamics just did what most people thought would take years longer. Atlas
 
 📺 AI Revolution
 
-👁️ 137K • 👍 3K • 💬 202 • ⏱️ 21:49 • 5d ago
+👁️ 139K • 👍 3K • 💬 204 • ⏱️ 21:49 • 5d ago
 
 ---
 
-**[Humanoid robots race past humans in Beijing half-marathon](https://www.youtube.com/watch?v=oLdVcsttB_A)**
+**[Tesla Just Started Mass Producing Humanoid Robots — And Nobody Is Ready](https://www.youtube.com/watch?v=2sHaQffX0w0)**
 
-Dozens of Chinese-made humanoid robots showed off their fast-improving athleticism as they whizzed past human runners in a ...
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *Tesla ...
 
-📺 Guardian News
+📺 Julia McCoy
 
-👁️ 39K • 👍 124 • 💬 66 • ⏱️ 0:37 • 8h ago
+👁️ 84K • 👍 2K • 💬 318 • ⏱️ 4:16 • 5d ago
+
+---
+
+**[Humanoid Robot ‘Lightning’ Breaks World Record For A Half-marathon](https://www.youtube.com/watch?v=4i4EglunAag)**
+
+Robots have outpaced human runners at this year's Beijing half-marathon, finishing more than 10 minutes ahead of the top ...
+
+📺 New York Post
+
+👁️ 11K • 👍 218 • 💬 157 • ⏱️ 3:17 • 5h ago
 
 ---
 
@@ -256,27 +258,27 @@ China just revealed an autonomous robot war pack built from dog bots, drones, la
 
 📺 AI Revolution
 
-👁️ 70K • 👍 1K • 💬 139 • ⏱️ 16:14 • 2d ago
+👁️ 71K • 👍 1K • 💬 139 • ⏱️ 16:14 • 2d ago
 
 ---
 
-**[300+ Robots Join Historic Run: Humanoid Robots Race Past Humans in Beijing Half Marathon | AI1Z](https://www.youtube.com/watch?v=ikd7EcKvONo)**
+**[Humanoid robots race past humans in Beijing half-marathon](https://www.youtube.com/watch?v=oLdVcsttB_A)**
 
-Dozens of humanoid robots competed alongside human runners in the Beijing half marathon, showcasing China's rapid ...
+Dozens of Chinese-made humanoid robots showed off their fast-improving athleticism as they whizzed past human runners in a ...
 
-📺 DRM News
+📺 Guardian News
 
-👁️ 18K • 👍 279 • 💬 66 • ⏱️ 8:15 • 12h ago
+👁️ 50K • 👍 139 • 💬 67 • ⏱️ 0:37 • 9h ago
 
 ---
 
-**[Robot &#39;Lightning&#39; wins Beijing E-Town humanoid robot half-marathon](https://www.youtube.com/watch?v=ZUYG7Sy52eg)**
+**[Unique Tensioned Belt Deployed Intake | 3506 YETI Robotics | REBUILT Pit Stop](https://www.youtube.com/watch?v=lFEb1CZIqK0)**
 
-Robot 'Lightning' wins Beijing E-Town humanoid robot half-marathon Honor's humanoid robot "Lightning" was crowned champion ...
+Unique Tensioned Belt Deployed Intake | 3506 YETI Robotics | REBUILT Pit Stop This video is supported by Kettering University: ...
 
-📺 The Manila Times
+📺 FUN Robotics Network
 
-👁️ 13K • 👍 83 • 💬 20 • ⏱️ 2:09 • 12h ago
+👁️ 776 • 👍 30 • ⏱️ 1:28 • 2h ago
 
 ---
 
@@ -286,7 +288,7 @@ Introducing the brand new Haro380 6-Axis mini industrial robotic arm. Get a firs
 
 📺 WLKATA ROBOTICS
 
-👁️ 47K • 👍 861 • 💬 28 • ⏱️ 2:11 • 5d ago
+👁️ 49K • 👍 891 • 💬 30 • ⏱️ 2:11 • 5d ago
 
 ---
 
