@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-20T16:40:31.748652+00:00'
+updated: '2026-04-20T17:59:00.705965+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - social
 - news
 - cryptocurrency
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 20, 2026 at 16:40 UTC  
+**Last Updated:** April 20, 2026 at 17:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** -0.7%  
-**30d:** +12.3%  
-**90d:** -22.9%  
-**1y:** +45.9%  
+**24h:** +1.1%  
+**7d:** -0.0%  
+**30d:** +13.0%  
+**90d:** -22.4%  
+**1y:** +46.8%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 39.0 million ETH is now staked, exactly 32.02% of the total supply. It's over $90B worth of ETH at current prices, that’s a huge share of the network committed to securing it and one of the strongest signals of long-term participation we’ve seen so far. As we see, despite ongoing global uncertainty and volatile market conditions, staking activity continues to grow. Instead of pulling back, more ETH is being locked into the network. That suggests a certain level of confidence from participants who are thinking long-term rather than reacting to short-term noise. From a structural perspective, this also affects supply dynamics. As more ETH moves into staking, the liquid supply available on the market decreases. It doesn’t mean those coins are gone, but they are less likely to be actively traded. Over time, this can change how the market responds to demand. At the same time, staking plays a critical role beyond price, it strengthens network security and aligns incentives across participants. Of course, none of this guarantees immediate price movement. Markets are influenced by many factors. But it does highlight how Ethereum’s underlying fundamentals continue to evolve. Full post: https://x.com/everstake_pool/status/2046178353548308981
 
-1h ago
+2h ago
 
 ---
 
@@ -80,13 +80,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
 **[84% of Polymarket users are trading at a loss.](https://www.reddit.com/r/ethereum/comments/1sqa9xi/84_of_polymarket_users_are_trading_at_a_loss/)**
 
-15h ago
+17h ago
 
 ---
 
@@ -118,7 +118,7 @@ Feels kinda bigger than a normal crypto meetup tbh Ethereum getting a real physi
 
 Do you guys find smaller communities better than larger ones when it comes to actual discussions? In bigger groups, there’s always activity, but a lot of conversations feel surface-level or get lost quickly. In smaller communities, it seems easier to follow discussions, people engage more, and ideas actually develop over time. I’ve been noticing that difference more lately — feels like smaller groups tend to be more consistent, and people actually talk rather than just dropping messages and disappearing. At the same time, larger communities do have the advantage of more perspectives and faster information flow. Curious what others prefer — fast-moving large communities, or smaller groups where discussions are more focused and interactive
 
-18h ago
+19h ago
 
 ---
 
@@ -154,11 +154,11 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Vitalik Buterin on Ethereum’s Roadmap: zkEVM, Quantum Resistance and 10-Second Finality](https://www.tradingview.com/news/coinpedia:bdb29668c094b:0-vitalik-buterin-on-ethereum-s-roadmap-zkevm-quantum-resistance-and-10-second-finality/)**
+**[Ethereum nears $2.3K as Bitmine buys big, fueling bullish outlook](https://www.tradingview.com/news/invezz:9d142940a094b:0-ethereum-nears-2-3k-as-bitmine-buys-big-fueling-bullish-outlook/)**
 
-Two days after the largest DeFi hack of 2026 drained $292 million from a bridge and sent $6.6 billion fleeing from Aave, Vitalik Buterin took the stage in Hong Kong and made the case for why Ethereum was built the way it was.The timing was not lost on anyone in the room.Vitalik’s Message Is Clear…
+Ethereum (ETH) traded around $2,305, slightly lower over the past 24 hours amid broader market jitters. While prices are off intraday highs, trading volume of $18.3 billion highlights sustained buyer interest, as Bitmine Immersion Technologies’ latest Ethereum purchase points to growing institution…
 
-TradingView • 2h ago
+TradingView • 1h ago
 
 ---
 
@@ -166,15 +166,15 @@ TradingView • 2h ago
 
 After launching crypto-backed loans in the U.S. last year, Coinbase has expanded the Bitcoin, Ethereum offering to U.K. users.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Tom Lee's BitMine Nears Major Milestone With Largest Ethereum Buy This Year](https://finance.yahoo.com/markets/crypto/articles/tom-lees-bitmine-nears-major-144533331.html)**
+**[Crypto Whale Moves $225 Million USDC Before Pulling $77.52 Million Ethereum](https://finance.yahoo.com/markets/crypto/articles/crypto-whale-moves-225-million-153108786.html)**
 
-BitMine Immersion Technologies bought $235 million worth of Ethereum last week, bring its total holdings to nearly 5 million ETH.
+A crypto whale tracked as 0xeCE7 shifted $225 million in USDC onto Binance, Bybit, and Deribit and then pulled 32,007 Ethereum—valued at about $77.52 million—off Binance after buying. The burst of activity arrives as a long-dormant Bitcoin whale has resurfaced,...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -182,7 +182,7 @@ Yahoo Finance • 1h ago
 
 Why I withdrew every dollar from Aave V3 this weekend, and what every USDT, USDC, and ETH lender should be watching before they decide to stay.
 
-thestreet.com • 20h ago
+thestreet.com • 21h ago
 
 ---
 
@@ -190,7 +190,7 @@ thestreet.com • 20h ago
 
 BitMine Immersion Technologies (NYSE: $BMNR) bought $230 million U.S. of Ethereum (CRYPTO: $ETH) over the past week...
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -204,7 +204,7 @@ CoinDesk • 1d ago
 
 **[Most large cryptocurrencies rise on Ethereum, Avalanche increases](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-rise-on-ethereum-avalanche-increases-da482e07-f13b7e1250e1)**
 
-MarketWatch • 2h ago
+MarketWatch • 3h ago
 
 ---
 
@@ -212,13 +212,13 @@ MarketWatch • 2h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 3h ago
+Fortune • 4h ago
 
 ---
 
 **[Ethereum staking crosses 32% – Yet ETH still lacks ONE KEY driver](https://ambcrypto.com/ethereum-staking-crosses-32-yet-eth-still-lacks-one-key-driver/)**
 
-AMBCrypto • 14h ago
+AMBCrypto • 15h ago
 
 ---
 
@@ -232,7 +232,7 @@ The "Ethereum is Dead" narrative is back, and this time, the numbers actually lo
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 258 • 💬 2 • ⏱️ 58:47 • 1h ago
+👁️ 3K • 👍 258 • 💬 2 • ⏱️ 58:47 • 2h ago
 
 ---
 
@@ -252,7 +252,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 188 • 👍 15 • 💬 2 • ⏱️ 4:37 • 7h ago
+👁️ 188 • 👍 15 • 💬 2 • ⏱️ 4:37 • 8h ago
 
 ---
 
@@ -262,7 +262,7 @@ BITCOIN & ALTCOIN PULLBACK: New Targets Revealed!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 6K • 👍 273 • 💬 374 • ⏱️ 21:18 • 15h ago
+👁️ 6K • 👍 273 • 💬 374 • ⏱️ 21:18 • 16h ago
 
 ---
 
@@ -302,7 +302,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 419 • 👍 91 • 💬 5 • ⏱️ 17:32 • 1h ago
+👁️ 419 • 👍 91 • 💬 5 • ⏱️ 17:32 • 2h ago
 
 ---
 
@@ -322,7 +322,7 @@ Ethereum (ETH) is entering a new "Engineering Upgrade" era with the upcoming Gla
 
 📺 Crypto Moon Radar
 
-👁️ 5 • ⏱️ 7:13 • 13h ago
+👁️ 5 • ⏱️ 7:13 • 14h ago
 
 ---
 

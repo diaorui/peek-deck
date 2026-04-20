@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-20T16:40:31.742239+00:00'
+updated: '2026-04-20T17:59:00.700667+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - social
 - news
 - cryptocurrency
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 20, 2026 at 16:40 UTC  
+**Last Updated:** April 20, 2026 at 17:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $75,750.00
+### $75,809.27
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.8%  
-**7d:** +1.7%  
-**30d:** +11.2%  
-**90d:** -15.8%  
-**1y:** -13.8%  
+**24h:** +1.5%  
+**7d:** +2.4%  
+**30d:** +11.9%  
+**90d:** -15.3%  
+**1y:** -13.2%  
 
 ---
 
@@ -77,11 +77,19 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[this product has set a new record for one of the world's largest banks, and it's a bitcoin product. the times they are a changin](https://www.reddit.com/r/Bitcoin/comments/1sqsqey/this_product_has_set_a_new_record_for_one_of_the/)**
+
+Morgan Stanley just pulled off its most successful ETF launch in the firm's history MSBT crossed $100M+ in net inflows in its first six trading days since going live on April 8th. Key Factors → It's the cheapest spot BTC ETF on the market. At 0.14%, MSBT undercuts BlackRock's IBIT (0.25%) and resets the fee benchmark for institutional Bitcoin exposure. → It's the first spot BTC ETF issued by a major US bank → Distribution is the real story here. Every financial advisor at Morgan Stanley is now armed with a cheap, in-house bitcoin wrapper to put in front of clients Bitcoin is being absorbed into the traditional financial system faster than most people realize
+
+2h ago
+
+---
+
 **[Father passed away and left me his ledger.](https://www.reddit.com/r/Bitcoin/comments/1sqcctd/father_passed_away_and_left_me_his_ledger/)**
 
 Hey guys, father recently passed away and left me his ledger. I have full access to this and hold the seed phrase etc. I already have possession of everything and we are starting to go through probate. My understanding is because I have possession of the wallet and seed phrase, there is nothing left to do to “transfer” it to myself. He has no online accounts that hold bitcoin, it’s just the wallet. So my question: Is there anything linking his ownership to the bitcoin and the ledger that would mean solicitors need to get involved? Couldn’t exactly find a concrete answer for this and the executor of the will seems to think it works like a bank account which is tied to identity. From my understanding the only way you could tie his identity to the wallet is a purchase receipt at a stretch. Any help is much appreciated! I am based in Australia if that makes any difference. Thanks guys! Edit: He had in his original will (2020) that all bitcoin in his Swyftx account to go to me. He didn’t update that before he died but last year he transferred it all into the ledger and gave me all the details. My aunty (the executor) wants to put it all through properly so wants details on it for the solicitor. Solicitor doesnt seem to be up to date with how bitcoin works…
 
-14h ago
+15h ago
 
 ---
 
@@ -89,7 +97,7 @@ Hey guys, father recently passed away and left me his ledger. I have full access
 
 Just saw the report that over $593M in bearish bets got liquidated following the news about Iran fully opening the Strait of Hormuz. Geopolitical tension in the Middle East has been heavily influenced on risk assets lately. Now that the macro situation is cooling down, the panic selling into cash seems to be pausing. This easing of macro fears, combined with that massive short squeeze, is giving BTC some real momentum. If we could have the $74k area into solid support, I'm leaning bullish for the short term. The path of least resistance feels like it's pointing up again. During the choppy weeks before this pump, I've been running future grid bots on BYDFi to trade the range. It's solid for choppy markets and the execution is fast. Plus, the bot's trading volume actually unlocked a few draws for their 6th-anniversary event. It felt like a bonus cuz I got some coupons to offset the fees. Where do you guys see BTC going for the rest of year? Do we still think the 4-year cycle will play out by the end of this year?
 
-5h ago
+6h ago
 
 ---
 
@@ -97,21 +105,13 @@ Just saw the report that over $593M in bearish bets got liquidated following the
 
 Just wondering how you guys are affording to do all this BTC investing.
 
-3h ago
+4h ago
 
 ---
 
 **[Patience, young Padawan](https://www.reddit.com/r/Bitcoin/comments/1sq3gbl/patience_young_padawan/)**
 
-20h ago
-
----
-
-**[this product has set a new record for one of the world's largest banks, and it's a bitcoin product. the times they are a changin](https://www.reddit.com/r/Bitcoin/comments/1sqsqey/this_product_has_set_a_new_record_for_one_of_the/)**
-
-Morgan Stanley just pulled off its most successful ETF launch in the firm's history MSBT crossed $100M+ in net inflows in its first six trading days since going live on April 8th. Key Factors → It's the cheapest spot BTC ETF on the market. At 0.14%, MSBT undercuts BlackRock's IBIT (0.25%) and resets the fee benchmark for institutional Bitcoin exposure. → It's the first spot BTC ETF issued by a major US bank → Distribution is the real story here. Every financial advisor at Morgan Stanley is now armed with a cheap, in-house bitcoin wrapper to put in front of clients Bitcoin is being absorbed into the traditional financial system faster than most people realize
-
-1h ago
+21h ago
 
 ---
 
@@ -119,7 +119,7 @@ Morgan Stanley just pulled off its most successful ETF launch in the firm's hist
 
 In 2019 a friend made fun of me for having bitcoin. Last night he tried connecting with me over both of us owning bitcoins. I called him out and reminded him how small he made me sound back in the day when I tried to put him on. I had been holding since then. Never sold. He apparently has been buying low and selling high, no idea if he’s selling everytime there’s a 1% profit or what but he then started telling me that I’m stupid for buying and holding and that it’s better to buy and sell and buy and sell. My thought to that is that you’re just paying for more transaction fees and taxes as opposed to just holding. But maybe I’m wrong what are your thoughts.
 
-4h ago
+5h ago
 
 ---
 
@@ -127,7 +127,19 @@ In 2019 a friend made fun of me for having bitcoin. Last night he tried connecti
 
 When I first got into Bitcoin, I thought trading it would be the fastest way to grow. Watched charts, followed setups, even tried signals at one point. Didn’t really end well. Took me a while to realize the issue wasn’t just strategy, it was how I was managing risk and decisions in real time. Switched focus more towards having clear rules instead of chasing entries… and things started making more sense. Still learning tbh. Curious, do most of you here actively trade BTC or just hold long term?
 
-8h ago
+10h ago
+
+---
+
+**[CBDC anyone?](https://www.reddit.com/r/Bitcoin/comments/1squkw3/cbdc_anyone/)**
+
+1h ago
+
+---
+
+**[Are these good stats for an esp32-2432s028 CYD?(Nerdminer2)](https://www.reddit.com/r/Bitcoin/comments/1sqs729/are_these_good_stats_for_an_esp322432s028/)**
+
+2h ago
 
 ---
 
@@ -135,23 +147,7 @@ When I first got into Bitcoin, I thought trading it would be the fastest way to 
 
 My brother-in-law has become interested in Bitcoin recently, but I had no idea what to get him for his birthday. I didn't want to have to explain complicated Bitcoin stuff during the birthday dinner. I came across gift "bearer" cards for Bitcoin. They are essentially cards that contain a private key tied to a set amount of Bitcoin. The gift recipient can access Bitcoin from the card when they want. I would be surprised if any of you have done this before. I have a few questions: Is it easy for the gift recipient to access the Bitcoin? Is the Bitcoin on the card truly safe? Do you have any bad stories about it? I prefer gift cards over simply giving cash to someone. However, I am very hesitant about something that appears so simplistically designed in the crypto world. I want to know if this is the real deal or if this is just a promotional gimmick.
 
-3h ago
-
----
-
-**[Daily Discussion, April 20, 2026](https://www.reddit.com/r/Bitcoin/comments/1sqgx6l/daily_discussion_april_20_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-10h ago
-
----
-
-**[First Cold Wallet - Trezor Safe 3 arriving soon. What to expect?](https://www.reddit.com/r/Bitcoin/comments/1sqg018/first_cold_wallet_trezor_safe_3_arriving_soon/)**
-
-Just bought my first cold wallet, Trezor safe 3. What should I expect to do? I ordered that from official website. and what’s the user experience of using trezor or cold wallet.
-
-11h ago
+5h ago
 
 ---
 
@@ -161,21 +157,21 @@ Just bought my first cold wallet, Trezor safe 3. What should I expect to do? I o
 
 **[Strategy Buys $2.54 Billion of Bitcoin, Most Since November 2024](https://www.bloomberg.com/news/articles/2026-04-20/strategy-buys-2-54-billion-of-bitcoin-most-since-november-2024)**
 
-Bloomberg.com • 2h ago
+Bloomberg • 3h ago
 
 ---
 
-**['Think even bigger': Michael Saylor's Strategy buys 34,164 bitcoin for $2.5 billion as total holdings top 800,000 BTC](https://www.theblock.co/post/398051/think-even-bigger-michael-saylors-strategy-buys-more-bitcoin)**
+**[Strategy Buys $2.5 Billion Of Bitcoin, Its Third-Largest Purchase Ever](https://finance.yahoo.com/markets/crypto/articles/strategy-buys-2-5-billion-131700151.html)**
 
-Strategy's total holdings account for more than 3.8% of the 21 million bitcoin supply cap — worth around $61 billion.
+Serial cryptocurrency acquirer Strategy (NASDAQ: $MSTR) purchased $2.54 billion U.S. worth of Bitcoin (CRYPO: $BTC)...
 
-The Block • 4h ago
+Yahoo Finance • 4h ago
 
 ---
 
-**[How crypto is moving after Strategy's latest bitcoin buy](https://finance.yahoo.com/video/how-crypto-is-moving-after-strategys-latest-bitcoin-buy-144420501.html)**
+**[Michael Saylor has engineered 'an incredible machine' with bitcoin](https://finance.yahoo.com/video/michael-saylor-has-engineered-an-incredible-machine-with-bitcoin-165602725.html)**
 
-Yahoo Finance's Julie Hyman checks in on Monday's crypto moves after Michael Saylor's Strategy (MSTR) purchased more bitcoin (BTC-USD) last week.
+Strategy (MSTR) acquired $2.54 billion worth of bitcoin (BTC-USD) on Monday. Scott Melker ditches the phrase 'infinite money glitch' and explains how Michael Saylor is purchasing the asset and the machine he's created to do so in this episode of Yahoo Finance's new show, The Daily Wolf with Scott Melker.
 
 Yahoo Finance • 1h ago
 
@@ -189,27 +185,19 @@ Tom's Hardware • 1d ago
 
 ---
 
-**[Bitcoin Gained More Than 5% in the Past Month. Is Crypto Recovering?](https://www.fool.com/investing/2026/04/20/bitcoin-gained-more-than-5-in-the-past-month-is-cr/)**
+**[Understanding Bitcoin Price USD and Daily Market Signals](https://www.detroitnews.com/story/special/contributor-content/2026/04/20/understanding-bitcoin-price-usd-and-daily-market-signals/89701765007/)**
 
-The lead crypto is starting to turn a corner, but it is too soon to call it a recovery.
+To understand the market, investors need to know what causes that number to go up or down.
 
-The Motley Fool • 17m ago
-
----
-
-**[Coinbase Now Lets UK Users Borrow Against Their Bitcoin and Ethereum](https://finance.yahoo.com/markets/crypto/articles/coinbase-now-lets-uk-users-152941581.html)**
-
-After launching crypto-backed loans in the U.S. last year, Coinbase has expanded the Bitcoin, Ethereum offering to U.K. users.
-
-Yahoo Finance • 1h ago
+The Detroit News • 34m ago
 
 ---
 
-**[Capital B Buys 12 Bitcoin, Expands Treasury To 2,937 BTC](https://bitcoinmagazine.com/news/capital-b-buys-12-bitcoin)**
+**[Majority of consumers think 2026 won't be the year of bitcoin's comeback: Deutsche Bank](https://finance.yahoo.com/news/majority-of-consumers-think-2026-wont-be-the-year-of-bitcoins-comeback-deutsche-bank-134056670.html)**
 
-Capital B confirmed the acquisition of 12 bitcoin as it continues to build out its treasury strategy centered on the digital asset.
+Deutsche Bank's new crypto survey is decidedly bearish for bitcoin.
 
-Bitcoin Magazine • 28m ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -217,19 +205,29 @@ Bitcoin Magazine • 28m ago
 
 Nearly $1 billion in spot bitcoin ETF inflows and rising stablecoin liquidity suggest institutional demand is still stemming pullbacks.
 
-The Block • 3h ago
-
----
-
-**[Why Strategy Stock Is Falling When Bitcoin Isn’t](https://www.barrons.com/articles/bitcoin-price-xrp-ether-cryptos-strategy-robinhood-iran-trump-13e26599)**
-
-Barron's • 1h ago
+The Block • 5h ago
 
 ---
 
 **[Bitcoin adoption rebounds in U.S., but consumers still favor gold and stocks](https://www.investing.com/news/cryptocurrency-news/bitcoin-adoption-rebounds-in-us-but-consumers-still-favor-gold-and-stocks-4622480)**
 
-Investing.com • 8h ago
+Investing.com • 9h ago
+
+---
+
+**[The Quantum Threat Is Coming for Bitcoin and Crypto—Here's How XRP Ledger Is Preparing](https://decrypt.co/364897/quantum-threat-bitcoin-crypto-how-xrp-ledger-preparing)**
+
+Quantum computers could threaten Bitcoin, Ethereum, and other major networks. Here’s how Ripple plans to secure the XRP Ledger.
+
+Decrypt • 1h ago
+
+---
+
+**[Adam Back says current demand is ‘almost’ enough to send Bitcoin to $1M](https://www.tradingview.com/news/cointelegraph:8cb26a7f2094b:0-adam-back-says-current-demand-is-almost-enough-to-send-bitcoin-to-1m/)**
+
+Quantum computing isnt on track to break Bitcoin by 2030, despite growing fears on social media, according to Bitcoin OG and Blockstream CEO Adam Back.I think it’s probably still a couple of decades out, but it really depends on how the research progresses, Back tells Cointelegraph during Paris Blo…
+
+TradingView • 4h ago
 
 ---
 
@@ -241,7 +239,7 @@ Investing.com • 8h ago
 
 The global economic system is evolving: The left wants to redistribute. The right wants to deregulate. Both are missing the point.
 
-⬆️ 4 • 💬 1 • 2h ago • [The Alignment Economy](https://alignmenteconomy.org)
+⬆️ 4 • 💬 1 • 3h ago • [The Alignment Economy](https://alignmenteconomy.org)
 
 ---
 
@@ -263,7 +261,7 @@ The Blockstream CEO’s approach contrasts with BIP-361, a proposal that would i
 
 Part one explained the physics of quantum computing. This piece explains the target — how bitcoin's encryption works, why a quantum algorithm breaks it, and what Google's paper changed about the timeline.
 
-⬆️ 3 • 💬 1 • 7h ago • [coindesk.com](https://www.coindesk.com/tech/2026/04/18/how-a-quantum-computer-can-be-used-to-actually-steal-your-bitcoin-in-9-minutes)
+⬆️ 3 • 💬 1 • 9h ago • [coindesk.com](https://www.coindesk.com/tech/2026/04/18/how-a-quantum-computer-can-be-used-to-actually-steal-your-bitcoin-in-9-minutes)
 
 ---
 
@@ -278,6 +276,14 @@ C64 Bitcoin wallet. Contribute to geek197/c64wallet development by creating an a
 **[Digital Archaeology: where does Bitcoin's 21M come from?](https://news.ycombinator.com/item?id=47776334)**
 
 ⬆️ 2 • 💬 2 • 5d ago • [bayinformationsystems.substack.com](https://bayinformationsystems.substack.com/p/digital-archaeology-bitcoins-21-million)
+
+---
+
+**[Bitcoin and Quantum Computing: A Roadmap](https://news.ycombinator.com/item?id=47837968)**
+
+Neha Narula
+
+⬆️ 2 • 💬 0 • 12m ago • [nehanarula.org](https://nehanarula.org/2026/04/20/bitcoin-and-quantum-a-roadmap.html)
 
 ---
 
@@ -303,14 +309,6 @@ A deeply technical early Bitcoiner realized that self-custody is only as strong 
 
 ---
 
-**[Fake Ledger app on Apple App Store linked to $9.5M crypto theft](https://news.ycombinator.com/item?id=47769305)**
-
-A fake Ledger app on Apple's App Store drained $9.5M from more than 50 victims across Bitcoin, Tron and Solana, ZachXBT said.
-
-⬆️ 2 • 💬 1 • 5d ago • [The Block](https://www.theblock.co/post/397388/fake-ledger-app-apple-app-store-crypto-theft-bitcoin-tron-solana-zachxbt)
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -321,7 +319,7 @@ Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=Al
 
 📺 Altcoin Daily
 
-👁️ 37K • 👍 2K • 💬 154 • ⏱️ 8:27 • 18h ago
+👁️ 37K • 👍 2K • 💬 154 • ⏱️ 8:27 • 20h ago
 
 ---
 
@@ -331,7 +329,7 @@ Bitcoin has rallied back into a key technical area, the Bear Market Resistance B
 
 📺 Benjamin Cowen
 
-👁️ 53K • 👍 4K • 💬 141 • ⏱️ 11:41 • 11h ago
+👁️ 53K • 👍 4K • 💬 141 • ⏱️ 11:41 • 13h ago
 
 ---
 
@@ -341,7 +339,7 @@ Big money is quietly moving into Bitcoin and the signals are getting louder. Fro
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 130 • ⏱️ 12:00 • 18h ago
+👁️ 25K • 👍 2K • 💬 130 • ⏱️ 12:00 • 19h ago
 
 ---
 
@@ -361,7 +359,7 @@ Subscribe before the supply shock goes mainstream. There are no sellers left at 
 
 📺 Bitcoin News Alerts
 
-👁️ 4K • 👍 224 • 💬 195 • ⏱️ 20:29 • 17h ago
+👁️ 4K • 👍 224 • 💬 195 • ⏱️ 20:29 • 19h ago
 
 ---
 
@@ -401,7 +399,7 @@ Join The Community: https://bit.ly/FefeCommunity FOLLOW FEFE FOR THE BEST ALPHA 
 
 📺 100XClub
 
-👁️ 7K • 👍 972 • 💬 730 • ⏱️ 8:42 • 6h ago
+👁️ 7K • 👍 972 • 💬 730 • ⏱️ 8:42 • 7h ago
 
 ---
 
@@ -411,7 +409,7 @@ WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 ❎ LeveX: https://levex.com/
 
 📺 Crypto Kid
 
-👁️ 2K • 👍 274 • 💬 133 • ⏱️ 15:54 • 4h ago
+👁️ 2K • 👍 274 • 💬 133 • ⏱️ 15:54 • 5h ago
 
 ---
 
