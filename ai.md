@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-20T20:09:56.984342+00:00'
+updated: '2026-04-20T21:11:34.323093+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
+- news
 - repositories
 - videos
-- news
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 20, 2026 at 20:09 UTC  
+**Last Updated:** April 20, 2026 at 21:11 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Honest opinion about AI](https://www.reddit.com/r/artificial/comments/1sr1vhi/honest_opinion_about_ai/)**
+
+I'm a developer by profession, and I've used AI to generate stuff that I know how to do myself and also stuff I have no idea about. Coding for my day to day using AI, I know exactly what to do and how to do it so i end up making features way faster than before. But every time I try to generate something that i have no deep understanding about - like content for a blog or demo videos (remotion + 11labs), or newsletters or social media posts, I always end up making something sloppy (AI slop). AI is here to stay, and instead of replacing people it might end up making people more valuable than before. I think it's high time to double down on fundamentals and make ourselves more knowledgeable and valuable.
+
+45m ago
+
+---
+
 **[Researchers gave 1,222 people AI assistants, then took them away after 10 minutes. Performance crashed below the control group and people stopped trying. UCLA, MIT, Oxford, and Carnegie Mellon call it the "boiling frog" effect.](https://www.reddit.com/r/artificial/comments/1sqcz1m/researchers_gave_1222_people_ai_assistants_then/)**
 
 A new study from UCLA, MIT, Oxford, and Carnegie Mellon gave 1,222 people AI assistants for cognitive tasks — then pulled the plug midway through. The results: - After ~10 minutes of AI-assisted problem solving, people who lost access to AI performed **worse** than those who never had it - They didn't just get more wrong answers — they **stopped trying altogether** - The effect showed up across math AND reading comprehension - Ran 3 separate experiments (350 → 670 → full cohort). Same result every time. The researchers call it the "boiling frog" effect — each AI interaction feels costless, but your cognitive muscles are quietly atrophying. The UCLA co-author warns this could create "a generation of learners who will not know what they're capable of." Study hasn't been peer-reviewed yet, but the sample size is solid and it's the first causal (not correlational) evidence of AI-induced cognitive decline. The uncomfortable question: if 10 minutes is enough to measurably damage independent performance, what does months of daily use do? Full breakdown → https://synvoya.com/blog/2026-04-20-ai-boiling-frog-cognition-study/ Be honest — have you noticed yourself giving up faster on problems since you started using AI daily? https://preview.redd.it/xm3dil38e9wg1.jpg?width=2752&format=pjpg&auto=webp&s=4cec0fb89dbc1c8bfa303e06ec9622bb48bfc9ae
 
-17h ago
+18h ago
 
 ---
 
@@ -53,27 +61,19 @@ Why on earth would you pay $49/mo for a polished Saas product when you can spend
 
 ---
 
+**[New Gallup poll finds that low-income Americans are turning to AI as a replacement for expensive doctor's visits. Only 14% of all Americans use AI for this reason, but this figure jumps to 32% among the lowest income bracket (<$24,000). A plurality of Americans distrust AI's use in healthcare.](https://www.reddit.com/r/artificial/comments/1sqsut6/new_gallup_poll_finds_that_lowincome_americans/)**
+
+"Some report forgoing healthcare visits because of AI-generated advice. Fourteen percent of recent users say the AI information or advice they received led them to skip a provider visit in the past 30 days. When projected to the entire adult population, this represents an estimated 14 million U.S. adults who did not see a provider because of the AI-generated health information or advice they received."
+
+5h ago
+
+---
+
 **[US draft update: Major tech company urges universal national service](https://www.reddit.com/r/artificial/comments/1sq6iy4/us_draft_update_major_tech_company_urges/)**
 
 The company has won major Pentagon contracts, including work on Project Maven, an AI‑driven targeting and surveillance program.
 
-🔗 [Newsweek](https://www.newsweek.com/us-draft-update-major-tech-company-urges-universal-national-service-11850885) • 22h ago
-
----
-
-**[Parents Worry About Their Kids Using AI, but Worry More About Them Not Using It](https://www.reddit.com/r/artificial/comments/1sqwiwb/parents_worry_about_their_kids_using_ai_but_worry/)**
-
-Discomfort with the technology&rsquo;s long-term effects is overshadowed by fears of falling behind.
-
-🔗 [The University of Chicago Booth School of Business](https://www.chicagobooth.edu/review/parents-worry-about-their-kids-using-ai-worry-more-about-them-not-using-it) • 2h ago
-
----
-
-**[Is anyone else noticing that ChatGPT seems to be completely down for everyone right now?](https://www.reddit.com/r/artificial/comments/1sqrh0v/is_anyone_else_noticing_that_chatgpt_seems_to_be/)**
-
-I got booted from ChatGPT on all my devices, and now I'm just getting hit with error messages whenever I try to log back into my account
-
-5h ago
+🔗 [Newsweek](https://www.newsweek.com/us-draft-update-major-tech-company-urges-universal-national-service-11850885) • 23h ago
 
 ---
 
@@ -81,15 +81,23 @@ I got booted from ChatGPT on all my devices, and now I'm just getting hit with e
 
 Hey everyone, I just sent the 28th issue of AI Hacker Newsletter, a weekly roundup of the best AI links and the discussions around it. Here are some links included in this email: Write less code, be more responsible (orhun.dev) -- comments The Future of Everything Is Lies, I Guess: New Jobs (aphyr.com) -- comments The AI Layoff Trap (arxiv.org) -- comments The Future of Everything Is Lies, I Guess: Safety (aphyr.com) -- comments European AI. A playbook to own it (mistral.ai) - comments If you want to receive a weekly email with over 40 links like these, please subscribe here: https://hackernewsai.com/
 
-4h ago
+5h ago
 
 ---
 
-**[New Gallup poll finds that low-income Americans are turning to AI as a replacement for expensive doctor's visits. Only 14% of all Americans use AI for this reason, but this figure jumps to 32% among the lowest income bracket (<$24,000). A plurality of Americans distrust AI's use in healthcare.](https://www.reddit.com/r/artificial/comments/1sqsut6/new_gallup_poll_finds_that_lowincome_americans/)**
+**[Is anyone else noticing that ChatGPT seems to be completely down for everyone right now?](https://www.reddit.com/r/artificial/comments/1sqrh0v/is_anyone_else_noticing_that_chatgpt_seems_to_be/)**
 
-"Some report forgoing healthcare visits because of AI-generated advice. Fourteen percent of recent users say the AI information or advice they received led them to skip a provider visit in the past 30 days. When projected to the entire adult population, this represents an estimated 14 million U.S. adults who did not see a provider because of the AI-generated health information or advice they received."
+I got booted from ChatGPT on all my devices, and now I'm just getting hit with error messages whenever I try to log back into my account
 
-4h ago
+6h ago
+
+---
+
+**[Parents Worry About Their Kids Using AI, but Worry More About Them Not Using It](https://www.reddit.com/r/artificial/comments/1sqwiwb/parents_worry_about_their_kids_using_ai_but_worry/)**
+
+Discomfort with the technology&rsquo;s long-term effects is overshadowed by fears of falling behind.
+
+🔗 [The University of Chicago Booth School of Business](https://www.chicagobooth.edu/review/parents-worry-about-their-kids-using-ai-worry-more-about-them-not-using-it) • 3h ago
 
 ---
 
@@ -105,15 +113,7 @@ Some experts argue that AI was just used as an excuse for poor business decision
 
 The New York Times: "The program found that nearly 20 percent of the novels had been substantially written by A.I. Looking mostly at novels released between 2024 and 2025, Chakrabarty saw a 41 percent jump year-over-year in how many novels in his random sample contained a large amount of A.I. generated text"
 
-21h ago
-
----
-
-**[I made a v2 AI that handles my DMs so I don’t have to talk to people anymore](https://www.reddit.com/r/artificial/comments/1sqzm28/i_made_a_v2_ai_that_handles_my_dms_so_i_dont_have/)**
-
-Built a V2 of my chat assistant and honestly it’s starting to feel wrong. It reads conversations, replies automatically, and adjusts tone so people don’t lose interest. Now it also: • does web search mid-chat • reads images people send • transcribes + replies to voice notes • sends context-based GIFs • remembers things like birthdays and past chats • sends follow-ups if you forget • lets you steer conversations if they go off track • summarizes every ~25 messages for context ~500k tokens used across ~500 messages so far. At this point I’m not even sure if I’m texting people or just supervising a system that texts for me. Is this useful… or just socially cursed?
-
-53m ago
+22h ago
 
 ---
 
@@ -121,63 +121,55 @@ Built a V2 of my chat assistant and honestly it’s starting to feel wrong. It r
 
 ## Google News: "ai"
 
+**[Amazon to invest up to another $25 billion in Anthropic as part of AI infrastructure deal](https://www.cnbc.com/2026/04/20/amazon-invest-up-to-25-billion-in-anthropic-part-of-ai-infrastructure.html)**
+
+Amazon is boosting its investment in Anthropic, which is committing to spending over $100 billion on Amazon cloud services over the next decade.
+
+CNBC • 41m ago
+
+---
+
 **[AI chatbots could be making you stupider](https://www.bbc.com/future/article/20260417-ai-chatbots-could-be-making-you-stupider)**
 
 As large language models take over more and more cognitive tasks, researchers are warning this mental outsourcing comes with a cost.
 
-BBC • 10h ago
+BBC • 11h ago
 
 ---
 
-**[Reform’s Richard Tice posts picture with telltale signs of AI manipulation, say experts](https://www.theguardian.com/politics/2026/apr/20/reform-richard-tice-picture-ai-manipulation)**
+**[AI for medtech sales books $80M](https://www.axios.com/pro/health-tech-deals/2026/04/20/acuitymd-ai-medtech-software)**
 
-Deputy leader’s image on X was almost certainly generated or altered using AI, according to Peryton Intelligence
-
-The Guardian • 3h ago
+Axios • 13m ago
 
 ---
 
-**[Google developing inference AI chips to rival Nvidia](https://qz.com/google-marvell-inference-ai-chips-nvidia-042026)**
+**[Amazon and Anthropic expand strategic collaboration](https://www.aboutamazon.com/news/company-news/amazon-invests-additional-5-billion-anthropic-ai)**
 
-Google plans to announce new TPU generations at Google Cloud Next, with inference-focused chips in partnership with Marvell Technology likely next
+Anthropic to secure up to 5 gigawatts (GW) of current and future generations of Amazon’s Trainium chips to train and power their advanced AI models.
 
-qz.com • 1h ago
-
----
-
-**[Rethinking how AI remembers](https://www.fastcompany.com/91528322/rethinking-how-ai-remembers)**
-
-How a storage breakthrough is helping to solve the memory bottleneck
-
-Fast Company • 1h ago
+About Amazon • 35m ago
 
 ---
 
-**[How Will AmEx's Hyper Acquisition Expand Its AI Capabilities?](https://qz.com/how-will-amex-s-hyper-acquisition-expand-its-ai-capabilities)**
+**[Dionne Warwick Slams Celebs Embracing Artificial Intelligence After Sandra Bullock’s Pro-AI Remarks](https://www.yahoo.com/entertainment/celebrity/articles/dionne-warwick-slams-celebs-embracing-204042450.html)**
 
-AXP buys Hypercard to boost AI-driven expense automation, aiming to streamline business workflows and accelerate next-generation commercial services.
+Dionne Warwick is clapping back at Hollywood‘s AI cheerleaders. The legendary Grammy winner took to X on Sunday, April 19, to call out the celebrities who are encouraging others to get on board with a...
 
-qz.com • 1h ago
+Yahoo • 30m ago
 
 ---
 
 **[Marc Benioff Says the Software Bears Are All Wrong About Salesforce](https://www.wsj.com/tech/ai/marc-benioff-says-the-software-bears-are-all-wrong-about-salesforce-c7042852)**
 
-WSJ • 18h ago
+WSJ • 19h ago
 
 ---
 
-**[Exclusive: Alex Bores rolls out "AI dividend" plan to share AI wealth](https://www.axios.com/2026/04/20/alex-bores-ai-dividend-plan-wealth)**
+**[Is Richard Tice’s picture AI-manipulated? Here are five giveaways](https://www.theguardian.com/politics/ng-interactive/2026/apr/20/five-signs-richard-tice-picture-ai-manipulated)**
 
-Axios • 10h ago
+Experts and social media detectives take a closer look at Reform deputy leader’s image of an apparent campaign event
 
----
-
-**[We're starting a position in a chip designer poised to roar in the era of AI agents](https://www.cnbc.com/2026/04/20/were-starting-a-position-in-a-chip-designer-poised-to-roar-in-the-era-of-ai-agents.html)**
-
-We're calling up this one up from our Bullpen stocks to watch list.
-
-CNBC • 3h ago
+The Guardian • 3h ago
 
 ---
 
@@ -185,7 +177,13 @@ CNBC • 3h ago
 
 Head of financial services group’s $1.4tn asset management division expects new tech to unleash huge productivity gains
 
-Financial Times • 16h ago
+Financial Times • 17h ago
+
+---
+
+**[Rick Perry’s Fermi Is Undermining the AI Energy Thesis](https://www.bloomberg.com/opinion/articles/2026-04-20/the-fermi-paradox-exposes-limits-of-the-ai-energy-boom)**
+
+Bloomberg.com • 3h ago
 
 ---
 
@@ -193,7 +191,7 @@ Financial Times • 16h ago
 
 Popular artificial intelligence programs told users where to find alternative, potentially dangerous treatments for cancer and other health scenarios.
 
-NBC News • 3h ago
+NBC News • 4h ago
 
 ---
 
@@ -203,13 +201,13 @@ NBC News • 3h ago
 
 **[College instructor turns to typewriters to curb AI-written work](https://news.ycombinator.com/item?id=47818485)**
 
-⬆️ 481 • 💬 425 • 2d ago • [sentinelcolorado.com](https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/)
+⬆️ 482 • 💬 425 • 2d ago • [sentinelcolorado.com](https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/)
 
 ---
 
 **[Atlassian enables default data collection to train AI](https://news.ycombinator.com/item?id=47833247)**
 
-⬆️ 355 • 💬 79 • 7h ago • [letsdatascience.com](https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8)
+⬆️ 417 • 💬 98 • 8h ago • [letsdatascience.com](https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8)
 
 ---
 
@@ -225,7 +223,15 @@ Police lured the man to a meeting and arrested him after accessing a private Wha
 
 Deezer says consumption of AI-generated music on the platform is still very low, between 1-3% of the total streams, and that 85% of these streams are detected as fraudulent and are demonetized.
 
-⬆️ 159 • 💬 180 • 4h ago • [TechCrunch](https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/)
+⬆️ 220 • 💬 219 • 5h ago • [TechCrunch](https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/)
+
+---
+
+**[AI Resistance Is Growing](https://news.ycombinator.com/item?id=47839951)**
+
+People are sick of artificial intelligence, and are increasingly making it known through acts of resistance.
+
+⬆️ 127 • 💬 76 • 52m ago • [stephvee.ca](https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/)
 
 ---
 
@@ -233,7 +239,7 @@ Deezer says consumption of AI-generated music on the platform is still very low,
 
 AI investment is skyrocketing while AI’s impact on jobs and public perception remains mixed
 
-⬆️ 111 • 💬 61 • 2d ago • [IEEE Spectrum](https://spectrum.ieee.org/state-of-ai-index-2026)
+⬆️ 112 • 💬 61 • 2d ago • [IEEE Spectrum](https://spectrum.ieee.org/state-of-ai-index-2026)
 
 ---
 
@@ -249,27 +255,19 @@ Uber Technologies, Inc is learning the hard way that scaling AI isn't just about
 
 In the 1980s, economist Robert Solow made an observation that reminded economists of today’s AI boom: “You can see the computer age everywhere but in the productivity statistics.”
 
-⬆️ 87 • 💬 79 • 22h ago • [Fortune](https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/)
+⬆️ 87 • 💬 79 • 23h ago • [Fortune](https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/)
 
 ---
 
 **[Swiss AI Initiative (2023)](https://news.ycombinator.com/item?id=47828444)**
 
-⬆️ 86 • 💬 26 • 21h ago • [Swiss AI](https://www.swiss-ai.org)
+⬆️ 86 • 💬 26 • 22h ago • [Swiss AI](https://www.swiss-ai.org)
 
 ---
 
-**[A Pascal's Wager for AI Doomers](https://news.ycombinator.com/item?id=47832887)**
+**[A Pascal's Wager for AI doomers](https://news.ycombinator.com/item?id=47832887)**
 
-⬆️ 52 • 💬 81 • 8h ago • [pluralistic.net](https://pluralistic.net/2026/04/16/pascals-wager/)
-
----
-
-**[The Uncanny Valley and the Rising Power of Anti-AI Sentiment](https://news.ycombinator.com/item?id=47829058)**
-
-Why public hostility toward AI may feel visceral, including mismatch, disgust, danger avoidance, mortality salience, and design consistency.
-
-⬆️ 48 • 💬 75 • 19h ago • [LocalScribe](https://localscribe.co/posts/uncanny-valley-and-rising-power-of-anti-ai-sentiment/)
+⬆️ 53 • 💬 84 • 9h ago • [pluralistic.net](https://pluralistic.net/2026/04/16/pascals-wager/)
 
 ---
 
@@ -283,7 +281,7 @@ Find out more about CodeCrafters - https://app.codecrafters.io/join?via=club-awe
 
 📺 Awesome
 
-👁️ 43K • 👍 3K • 💬 206 • ⏱️ 8:48 • 11h ago
+👁️ 43K • 👍 3K • 💬 206 • ⏱️ 8:48 • 12h ago
 
 ---
 
@@ -303,7 +301,7 @@ Abacus AI just showed something that feels a lot bigger than another flashy AI d
 
 📺 AI Revolution
 
-👁️ 11K • 👍 455 • 💬 38 • ⏱️ 13:18 • 22h ago
+👁️ 11K • 👍 455 • 💬 38 • ⏱️ 13:18 • 23h ago
 
 ---
 
@@ -323,7 +321,7 @@ KICKSTARTER FOR LABOR/ZERO: https://www.kickstarter.com/projects/daveshap/labor-
 
 📺 David Shapiro
 
-👁️ 14K • 💬 151 • ⏱️ 24:02 • 8h ago
+👁️ 14K • 💬 151 • ⏱️ 24:02 • 9h ago
 
 ---
 
@@ -343,7 +341,7 @@ Best AI Agent Tool is Base44 https://base44.pxf.io/c/6440076/3820726/25619?trafc
 
 📺 Mikey No Code
 
-👁️ 10K • 💬 7 • ⏱️ 30:05 • 5h ago
+👁️ 10K • 💬 7 • ⏱️ 30:05 • 6h ago
 
 ---
 
@@ -363,7 +361,7 @@ in this video, we break down the rumored GPT-5.5 “pro” model from OpenAI and
 
 📺 WorldofAI
 
-👁️ 33K • 👍 659 • 💬 89 • ⏱️ 10:27 • 13h ago
+👁️ 33K • 👍 659 • 💬 89 • ⏱️ 10:27 • 14h ago
 
 ---
 
@@ -413,7 +411,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with vision capabilitie
 
 `image-text-to-text` `34.7B`
 
-⬇️ 816,485 • ❤️ 549 • 7h ago
+⬇️ 816,485 • ❤️ 549 • 8h ago
 
 ---
 
@@ -449,7 +447,7 @@ Gemma 4 E4B OBLITERATED v3 is a text-generation model with 0% refusal and improv
 
 `text-generation` `8.0B`
 
-⬇️ 50,701 • ❤️ 371 • 22h ago
+⬇️ 50,701 • ❤️ 371 • 23h ago
 
 ---
 
@@ -461,7 +459,7 @@ MiniMax-M2.7 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 314,205 • ❤️ 998 • 15h ago
+⬇️ 314,205 • ❤️ 998 • 16h ago
 
 ---
 
@@ -643,7 +641,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 48.4k • 🔱 6.3k • 1h ago
+⭐ 48.4k • 🔱 6.3k • 2h ago
 
 ---
 
@@ -673,7 +671,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 31.3k • 🔱 3.5k • 1h ago
+⭐ 31.3k • 🔱 3.5k • 2h ago
 
 ---
 
@@ -683,7 +681,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 8.3k • 🔱 538 • 4h ago
+⭐ 8.3k • 🔱 538 • 5h ago
 
 ---
 
@@ -723,7 +721,7 @@ The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interac
 
 `Swift` `apple-intelligence` `apple-silicon` `cli` `foundationmodels` `homebrew`
 
-⭐ 4.8k • 🔱 183 • 9h ago
+⭐ 4.8k • 🔱 183 • 10h ago
 
 ---
 

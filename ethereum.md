@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-20T20:09:56.998489+00:00'
+updated: '2026-04-20T21:11:34.339029+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
-- cryptocurrency
 - social
+- news
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 20, 2026 at 20:09 UTC  
+**Last Updated:** April 20, 2026 at 21:11 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,338.83
+### $2,328.34
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.0%  
-**7d:** +0.4%  
-**30d:** +13.5%  
+**24h:** +2.5%  
+**7d:** +0.3%  
+**30d:** +13.4%  
 **90d:** -22.1%  
-**1y:** +47.4%  
+**1y:** +47.3%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 39.0 million ETH is now staked, exactly 32.02% of the total supply. It's over $90B worth of ETH at current prices, that’s a huge share of the network committed to securing it and one of the strongest signals of long-term participation we’ve seen so far. As we see, despite ongoing global uncertainty and volatile market conditions, staking activity continues to grow. Instead of pulling back, more ETH is being locked into the network. That suggests a certain level of confidence from participants who are thinking long-term rather than reacting to short-term noise. From a structural perspective, this also affects supply dynamics. As more ETH moves into staking, the liquid supply available on the market decreases. It doesn’t mean those coins are gone, but they are less likely to be actively traded. Over time, this can change how the market responds to demand. At the same time, staking plays a critical role beyond price, it strengthens network security and aligns incentives across participants. Of course, none of this guarantees immediate price movement. Markets are influenced by many factors. But it does highlight how Ethereum’s underlying fundamentals continue to evolve. Full post: https://x.com/everstake_pool/status/2046178353548308981
 
-4h ago
+5h ago
 
 ---
 
@@ -80,13 +80,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
 **[84% of Polymarket users are trading at a loss.](https://www.reddit.com/r/ethereum/comments/1sqa9xi/84_of_polymarket_users_are_trading_at_a_loss/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -118,7 +118,7 @@ Feels kinda bigger than a normal crypto meetup tbh Ethereum getting a real physi
 
 Do you guys find smaller communities better than larger ones when it comes to actual discussions? In bigger groups, there’s always activity, but a lot of conversations feel surface-level or get lost quickly. In smaller communities, it seems easier to follow discussions, people engage more, and ideas actually develop over time. I’ve been noticing that difference more lately — feels like smaller groups tend to be more consistent, and people actually talk rather than just dropping messages and disappearing. At the same time, larger communities do have the advantage of more perspectives and faster information flow. Curious what others prefer — fast-moving large communities, or smaller groups where discussions are more focused and interactive
 
-21h ago
+22h ago
 
 ---
 
@@ -158,23 +158,7 @@ Yahoo Finance • 3d ago
 
 BitMine Immersion Technologies (NYSE: $BMNR) bought $230 million U.S. of Ethereum (CRYPTO: $ETH) over the past week...
 
-Yahoo Finance • 6h ago
-
----
-
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.976 Million Tokens, and Total Crypto and Total Cash Holdings of $12.9 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-4-976-million-tokens-and-total-crypto-and-total-cash-holdings-of-12-9-billion-302746944.html)**
-
-Bitmine now owns more than 4% of the total ETH coin supply of 120.7 million Bitmine is 82% of the way to the 'Alchemy of 5%' in just 9 months Ethereum...
-
-PR Newswire • 7h ago
-
----
-
-**[Bitmine Immersion: Ethereum Pivot Driving Hidden Upside (NYSE:BMNR)](https://seekingalpha.com/article/4891793-bitmine-immersion-ethereum-pivot-driving-hidden-upside)**
-
-Bitmine Immersion’s ETH staking drives 97%+ gross margins and surging revenue, but dilution and negative cash flow raise risks. Read why BMNR stock is a buy.
-
-Seeking Alpha • 2d ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -190,21 +174,13 @@ CoinDesk • 2d ago
 
 Why I withdrew every dollar from Aave V3 this weekend, and what every USDT, USDC, and ETH lender should be watching before they decide to stay.
 
-thestreet.com • 23h ago
-
----
-
-**[Current price of Ethereum for April 20, 2026](https://fortune.com/article/price-of-ethereum-04-20-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 7h ago
+thestreet.com • 1d ago
 
 ---
 
 **[Most large cryptocurrencies rise on Ethereum, Avalanche increases](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-rise-on-ethereum-avalanche-increases-da482e07-f13b7e1250e1)**
 
-MarketWatch • 6h ago
+MarketWatch • 7h ago
 
 ---
 
@@ -212,13 +188,37 @@ MarketWatch • 6h ago
 
 The quantum divide between Bitcoin and EthereumQuantum computing has long been viewed as a distant, largely theoretical threat to blockchain systems. However, that perspective is now starting to change.With major technology companies such as Google establishing timelines for post-quantum cryptograp…
 
-TradingView • 14h ago
+TradingView • 15h ago
+
+---
+
+**[Current price of Ethereum for April 20, 2026](https://fortune.com/article/price-of-ethereum-04-20-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 8h ago
+
+---
+
+**[Crypto News: Ethereum Based Crypto Pepeto Announces Investments Growth While Cardano Price Prediction Improves](https://markets.businessinsider.com/news/stocks/crypto-news-ethereum-based-crypto-pepeto-announces-investments-growth-while-cardano-price-prediction-improves-1036039381)**
+
+Dubai, UAE, April  20, 2026  (GLOBE NEWSWIRE) -- Crypto news on Pepeto is moving at a speed no presale has matched this year. Heavy buyers are flo...
+
+markets.businessinsider.com • 1h ago
 
 ---
 
 **[Ethereum whale opens $100mln long – Why traders still short ETH](https://ambcrypto.com/ethereum-whale-opens-100mln-long-why-traders-still-short-eth/)**
 
-AMBCrypto • 9h ago
+AMBCrypto • 10h ago
+
+---
+
+**[Ethereum Tapped $2,400—So Why Does This Top Trader Warn Of $1,300?](https://www.benzinga.com/crypto/cryptocurrency/26/04/51910276/ethereum-tapped-2400-so-why-does-this-top-trader-warn-of-1300)**
+
+Ethereum (CRYPTO: ETH) ETFs recorded $276 million in net inflows last week, yet prominent crypto trader Ansem warns the $300 billion asset could targe
+
+Benzinga • 8h ago
 
 ---
 
@@ -232,7 +232,7 @@ Welcome Back To The Channel! ✔️ https://tylerhill.pro/Fortisx42026 ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 1K • 👍 120 • 💬 8 • ⏱️ 10:29 • 3h ago
+👁️ 1K • 👍 120 • 💬 8 • ⏱️ 10:29 • 4h ago
 
 ---
 
@@ -242,7 +242,7 @@ The "Ethereum is Dead" narrative is back, and this time, the numbers actually lo
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 330 • 💬 15 • ⏱️ 58:47 • 4h ago
+👁️ 5K • 👍 330 • 💬 15 • ⏱️ 58:47 • 5h ago
 
 ---
 
@@ -262,7 +262,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 286 • 👍 17 • 💬 2 • ⏱️ 4:37 • 10h ago
+👁️ 286 • 👍 17 • 💬 2 • ⏱️ 4:37 • 11h ago
 
 ---
 
@@ -292,7 +292,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 954 • 👍 165 • 💬 6 • ⏱️ 17:32 • 5h ago
+👁️ 954 • 👍 165 • 💬 6 • ⏱️ 17:32 • 6h ago
 
 ---
 
@@ -302,7 +302,7 @@ BITCOIN & ALTCOIN PULLBACK: New Targets Revealed!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 6K • 👍 282 • 💬 398 • ⏱️ 21:18 • 18h ago
+👁️ 6K • 👍 282 • 💬 398 • ⏱️ 21:18 • 19h ago
 
 ---
 
@@ -312,7 +312,7 @@ BITCOIN & ALTCOIN PULLBACK: New Targets Revealed!!! - Bitcoin News Today, Ethere
 
 📺 Егор Попковский
 
-👁️ 1K • 👍 127 • 💬 41 • ⏱️ 8:16 • 4h ago
+👁️ 1K • 👍 127 • 💬 41 • ⏱️ 8:16 • 5h ago
 
 ---
 
