@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-20T22:08:33.355928+00:00'
+updated: '2026-04-20T23:09:40.406890+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 20, 2026 at 22:08 UTC  
+**Last Updated:** April 20, 2026 at 23:09 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,15 +36,7 @@ Robotics research and industry news
 
 T.Yamazaki on 𝕏: https://x.com/ZappyZappy7/status/2046192595802656933 High Torque Robotics on YouTube: https://www.youtube.com/watch?v=aBe_ceuesEA
 
-9h ago
-
----
-
-**[Newton 1.0 is 100% open source. GPU-accelerated physics engine from NVIDIA, DeepMind, and Disney Research, now under the Linux Foundation](https://www.reddit.com/r/robotics/comments/1squlyf/newton_10_is_100_open_source_gpuaccelerated/)**
-
-Repo: https://github.com/newton-physics/newton Been digging into this over the weekend. Quick rundown for anyone who hasn't seen it yet: Built on NVIDIA Warp, Apache 2.0, now governed by the Linux Foundation (vendor-neutral) MuJoCo Warp is integrated as a solver, plus Disney's Kamino solver for closed-loop mechanisms (parallel linkages, robotic hands) Reported 475x faster than MJX on manipulation tasks on RTX PRO 6000 Blackwell. Massive parallel throughput per GPU means more room for aggressive domain randomization, which is usually where sim-to-real actually breaks OpenUSD native. So assets from Omniverse and Isaac Lab can be dropped in directly. Embedded OpenGL viewer + USD viewer for debugging I know this isn't brand new, but wanted to share as I am genuinely excited about where physics engines are heading, especially with this kind of collaboration behind it.
-
-5h ago
+10h ago
 
 ---
 
@@ -52,7 +44,15 @@ Repo: https://github.com/newton-physics/newton Been digging into this over the w
 
 Demonstration of real-time wireless teleoperation using a MANUS Metaglove to control the Ability Hand bionic hand. The glove provides high-precision finger tracking with full joint-level motion capture and low-latency wireless transmission, allowing the hand to mirror movements naturally in real time. The Ability Hand features 30 touch sensors, fast finger actuation (~0.2 s closing speed), and support for EMG-based control, highlighting potential applications in prosthetics, robotic teleoperation, XR interfaces, and remote manipulation
 
-5h ago
+6h ago
+
+---
+
+**[Newton 1.0 is 100% open source. GPU-accelerated physics engine from NVIDIA, DeepMind, and Disney Research, now under the Linux Foundation](https://www.reddit.com/r/robotics/comments/1squlyf/newton_10_is_100_open_source_gpuaccelerated/)**
+
+Repo: https://github.com/newton-physics/newton Been digging into this over the weekend. Quick rundown for anyone who hasn't seen it yet: Built on NVIDIA Warp, Apache 2.0, now governed by the Linux Foundation (vendor-neutral) MuJoCo Warp is integrated as a solver, plus Disney's Kamino solver for closed-loop mechanisms (parallel linkages, robotic hands) Reported 475x faster than MJX on manipulation tasks on RTX PRO 6000 Blackwell. Massive parallel throughput per GPU means more room for aggressive domain randomization, which is usually where sim-to-real actually breaks OpenUSD native. So assets from Omniverse and Isaac Lab can be dropped in directly. Embedded OpenGL viewer + USD viewer for debugging I know this isn't brand new, but wanted to share as I am genuinely excited about where physics engines are heading, especially with this kind of collaboration behind it.
+
+6h ago
 
 ---
 
@@ -60,13 +60,21 @@ Demonstration of real-time wireless teleoperation using a MANUS Metaglove to con
 
 From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2045896309765288179
 
-19h ago
+20h ago
 
 ---
 
 **[Robots I saw at MODEX 2026](https://www.reddit.com/r/robotics/comments/1sqspjf/robots_i_saw_at_modex_2026/)**
 
-6h ago
+7h ago
+
+---
+
+**[CEO on capital pouring into robotics faster than the technology is actually progressing](https://www.reddit.com/r/robotics/comments/1sr51rr/ceo_on_capital_pouring_into_robotics_faster_than/)**
+
+Erik Nieves from Plus One Robotics argues that the current wave of investment in robotics is ahead of the technology itself. The money is flowing in, expectations for returns are rising, but real-world systems still come down to reliability, uptime, and meeting production rates. That gap between what’s being promised and what’s actually deployable is starting to show. A lot of the attention right now is on humanoids and highly visible demos, but in production environments the bar hasn’t changed. Systems still need to run consistently, hit KPIs, and justify their cost.
+
+47m ago
 
 ---
 
@@ -78,6 +86,22 @@ From 小互 on 𝕏: "Feels a bit like F1": https://x.com/xiaohu/status/20457868
 
 ---
 
+**[Real time privacy SDK for robots](https://www.reddit.com/r/robotics/comments/1sr5b9p/real_time_privacy_sdk_for_robots/)**
+
+Hello community, We have worked on a product that has real time capabilities to mask out faces, documents and number plates from camera feeds of humanoid/autonomous robots. It is all configurable from a web interface, which we are making more user friendly and easy to understand. It runs on the edge on several hardware, it uses an optimized pipeline that gives good real time performance (even for teleoperation at reduced resolution) for acceptable accuracy figures. The purpose here is that it will allow robot vendors to collect data for improving their VLA models without being blocked by privacy concerns. We have been working for one year on this product after having done a consultancy on a project so we believe it has some good market potential. The website is live here: https://www.robomotic.com The ask: if you work for a robotic company, what features and performance you want to have from this kind of solution? Happy to discuss a demo with vendors please DM me. Thanks 🙏
+
+36m ago
+
+---
+
+**[Kit questions](https://www.reddit.com/r/robotics/comments/1sr42xk/kit_questions/)**
+
+Hi, sorry I missed something obvious.. I'm looking for Mecha styles in hobbyist robotic kits, if they are available. I've been thru all the sites I could find, and most are great and like the Interbotix and similar type of projects, but wanted to ask the seasoned robot crowd if there are more specific Mecha type of builds? THX!
+
+1h ago
+
+---
+
 **[Update on Cubic Doggo: man, walking is hard](https://www.reddit.com/r/robotics/comments/1sq4rip/update_on_cubic_doggo_man_walking_is_hard/)**
 
 Update from the previous post: https://www.reddit.com/r/robotics/comments/1rouerc/first_time_building_a_hobbyist_robot_from_scratch/ Added control since last time, which is actually the easy part with ROS2. I am also surprised by how versatile Dynamixel XL430-W250-T servos are; they even offer current-based position control that mimics the torque control. Hope their higher torque variants get cheaper over time. Made several iterations of the servos and battery arrangement to center the mass (redoing all the urdf is really quite something). Tried a few different walking gaits with IK calculated by ROS2, which I believe is oriented around position control, so a bit difficult to define arbitrary trajectories. Put on kitchen sponge clothes to increase friction on the feet. The previous attempt on all four feet twisted and broke off one leg, so now it sticks with only the two front legs. I think that is also why the back legs felt limp as a few screws went loose in that incident. Anyways, have a few things in mind to fix/try, and always welcome any recommendation: https://github.com/SphericalCowww/CubicDoggo
@@ -86,51 +110,29 @@ Update from the previous post: https://www.reddit.com/r/robotics/comments/1rouer
 
 ---
 
-**[How did so many Chinese robot manufacturers catch up to Boston Dynamics?](https://www.reddit.com/r/robotics/comments/1sq2bzn/how_did_so_many_chinese_robot_manufacturers_catch/)**
-
-They had been working on their designs for years and I don't think they publish proprietary information so how is it that there are so many manufacturers with humanoid and 'Spot-form' robots that seem to be equal or outperform Boston Dynamics?
-
-1d ago
-
----
-
-**[Everyone saw the Honour robot win… but nobody noticed what it did right after](https://www.reddit.com/r/robotics/comments/1spy9lg/everyone_saw_the_honour_robot_win_but_nobody/)**
-
-1d ago
-
----
-
-**[精锋医疗 赋能医生 造福患者](https://www.reddit.com/r/robotics/comments/1sqyjty/精锋医疗_赋能医生_造福患者/)**
-
-深圳市精锋医疗科技股份有限公司致力于设计、开发和制造手术机器人，专注微创手术机器人及器械，提供外科手术的创新解决方案。
-
-🔗 [edgemed.cn](https://www.edgemed.cn/) • 3h ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
-**[Watch: Runners v robots at China half marathon](https://www.bbc.com/news/videos/cz0e54yrppno)**
+**[Humanoid robots race past humans in Beijing half-marathon, showing rapid advances](https://www.reuters.com/sports/humanoid-robots-race-past-humans-beijing-half-marathon-showing-rapid-advances-2026-04-19/)**
 
-Robots competed in a half marathon race in Beijing on Sunday, with the winning machine leaving its human rivals for dust.
-
-BBC • 1d ago
+Reuters • 1d ago
 
 ---
 
-**[Ukraine Moves to Replace Frontline Soldiers With 25,000 Ground Robots](https://united24media.com/latest-news/ukraine-moves-to-replace-frontline-soldiers-with-25000-ground-robots-18047)**
+**[CNBC's The China Connection newsletter: China ships more humanoid robots than the U.S. as investors diverge on AI bets](https://www.cnbc.com/2026/04/21/china-humanoid-robots-us-investors.html)**
 
-Ukraine's Defense Ministry plans to contract 25,000 ground robots by mid-2026, aiming for 100% frontline logistics to be automated.
+Chinese startups are churning out more humanoid robots than their U.S. rivals, despite far lower valuations.
 
-UNITED24 Media • 1d ago
+CNBC • 8m ago
 
 ---
 
-**[Alabama Considers Robotics to Augment Rural Obstetrics Care](https://dailyyonder.com/alabama-considers-robotics-to-augment-rural-obstetrics-care/2026/04/20/)**
+**[Tools for Your To Do List with Spot and Gemini Robotics](https://bostondynamics.com/blog/tools-for-your-to-do-list-with-spot-and-gemini-robotics/)**
 
-The Daily Yonder • 14h ago
+A recent demo shows Boston Dynamics Spot in a residential home, using Google’s visual-language model (VLM) Gemini Robotics-ER 1.5 for embodied reasoning.
+
+Boston Dynamics • 5h ago
 
 ---
 
@@ -138,53 +140,51 @@ The Daily Yonder • 14h ago
 
 The RBR50 gala at the 2026 Robotics Summit & Expo offers a chance to honor and connect with the world’s leading robotics innovators.
 
-The Robot Report • 5h ago
+The Robot Report • 6h ago
 
 ---
 
-**[Pudu Robotics debuts commercial cleaning and delivery robots](https://www.dcvelocity.com/material-handling/pudu-robotics-debuts-commercial-cleaning-and-delivery-robots)**
+**[Tesla Q1 Preview: Losing The Robotics Race (NASDAQ:TSLA)](https://seekingalpha.com/article/4892164-tesla-q1-preview-losing-the-robotics-race)**
 
-The manufacturer's intelligent scrubber and sweeper robot & PUDU D5 quadruped delivery robot put on a show at Modex 2026 last week, wowing attendees with their capabilities.
+Tesla, Inc. stock rated Hold: robotics narrative may be overhyped, Optimus lags rivals, valuation looks stretched. Click for this TSLA earnings preview.
 
-DC Velocity • 5h ago
-
----
-
-**[🎥 AgriPass on ag robotics 2.0: ‘We’re replicating the human weeding process but making it affordable at scale’](https://agfundernews.com/agripass-on-ag-robotics-2-0-were-replicating-the-human-weeding-process-but-making-it-affordable-at-scale)**
-
-Israeli startup AgriPass pulls weeds out of the ground with what it claims is the precision of a human hand.
-
-AgFunderNews • 6h ago
+Seeking Alpha • 46m ago
 
 ---
 
-**[Ferris State hosts FIRST Robotics contest in the Jim Wink Arena](https://www.bigrapidsnews.com/news/article/ferris-state-first-robotics-22215837.php)**
+**[VEX Robotics World Championship takes over St. Louis](https://fox2now.com/news/missouri/vex-robotics-world-championship-takes-over-st-louis/)**
 
-Big Rapids Pioneer • 6h ago
-
----
-
-**[Cedarburg High School's Robotics team wins FIRST Wisconsin District Champions](https://www.tmj4.com/news/local-news/in-your-community/ozaukee-county/cedarburg-high-schools-robotics-team-wins-first-wisconsin-district-champions)**
-
-Cedarburg High School's Robotics team is the 2026 FIRST Wisconsin District Champions and will be moving on to represent Wisconsin at the World Championship in Houston, Texas, on April 29th.
-
-TMJ4 News • 2h ago
+FOX 2 • 1h ago
 
 ---
 
-**[Coco Robotics and BlindSquare Partner to Make City Sidewalks Safer and More Accessible for All](https://www.prnewswire.com/news-releases/coco-robotics-and-blindsquare-partner-to-make-city-sidewalks-safer-and-more-accessible-for-all-302747192.html)**
+**[Alabama Considers Robotics to Augment Rural Obstetrics Care](https://dailyyonder.com/alabama-considers-robotics-to-augment-rural-obstetrics-care/2026/04/20/)**
 
-/PRNewswire/ -- Coco Robotics, the world's largest urban robot delivery platform, and BlindSquare, the world's most widely used accessible GPS app for the...
-
-PR Newswire • 7h ago
+The Daily Yonder • 15h ago
 
 ---
 
-**[Hingham High Robotics to Compete on the World Stage](https://www.hinghamanchor.com/hingham-high-robotics-to-compete-on-the-world-stage/)**
+**[Brainerd, Pequot robotics teams head to state](https://www.brainerddispatch.com/news/local/brainerd-pequot-robotics-teams-head-to-state)**
+
+Out of 184 varsity robotics teams across Minnesota, only 36 earn a spot in the Minnesota State High School League state tournament.
+
+Brainerd Dispatch • 1h ago
+
+---
+
+**[Hingham High Robotics To Compete On The World Stage](https://www.hinghamanchor.com/hingham-high-robotics-to-compete-on-the-world-stage/)**
 
 April 20, 2026 Submitted By Hingham High Robotics Congratulations to the Hingham High Robotics Team 5000, The Hammerheads, who qualified for the FIRST World Championship tournament for the first time in team history. The team will head to Houston TX on April 29th for a four day tournament featuring 600 international teams. During the competition ... Read more
 
-Hingham Anchor • 2h ago
+Hingham Anchor • 3h ago
+
+---
+
+**[Miso Robotics CEO Rich Hull on 'Flippy' and 'Zippy' boosting kitchen operations](https://qz.com/miso-robotics-ceo-flippy-zippy-kitchen-operations)**
+
+Miso Robotics CEO Rich Hull on 'Flippy' and 'Zippy' boosting kitchen operations
+
+qz.com • 3h ago
 
 ---
 
@@ -208,7 +208,7 @@ China just revealed an autonomous robot war pack built from dog bots, drones, la
 
 📺 AI Revolution
 
-👁️ 73K • 👍 1K • 💬 143 • ⏱️ 16:14 • 3d ago
+👁️ 73K • 👍 1K • 💬 143 • ⏱️ 16:14 • 4d ago
 
 ---
 
@@ -248,7 +248,7 @@ Bloomberg's Minmin Low highlights a half marathon held in Beijing, where autonom
 
 📺 Bloomberg Television
 
-👁️ 28K • 👍 529 • 💬 149 • ⏱️ 5:51 • 16h ago
+👁️ 28K • 👍 529 • 💬 149 • ⏱️ 5:51 • 17h ago
 
 ---
 

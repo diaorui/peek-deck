@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-20T22:08:33.346841+00:00'
+updated: '2026-04-20T23:09:40.397884+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - news
 - cryptocurrency
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 20, 2026 at 22:08 UTC  
+**Last Updated:** April 20, 2026 at 23:09 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $76,197.54
+### $76,128.95
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.8%  
-**7d:** +2.7%  
-**30d:** +12.2%  
-**90d:** -15.0%  
-**1y:** -13.0%  
+**24h:** +2.0%  
+**7d:** +2.2%  
+**30d:** +11.6%  
+**90d:** -15.5%  
+**1y:** -13.4%  
 
 ---
 
@@ -77,11 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Someone vandalized the Satoshi statue in Lugano again](https://www.reddit.com/r/Bitcoin/comments/1sr1i6u/someone_vandalized_the_satoshi_statue_in_lugano/)**
+
+2h ago
+
+---
+
 **[While newbies worry about geopolitics, Strategy acquired additional 34,164 BTC because of geopolitics, and now HODL 815,061 bitcoin](https://www.reddit.com/r/Bitcoin/comments/1sqq1eb/while_newbies_worry_about_geopolitics_strategy/)**
 
 Strategy has acquired 34,164 BTC for ~$2.54 billion at ~$74,395 per bitcoin and has achieved BTC Yield of 9.5% YTD 2026. As of 4/19/2026, we hodl 815,061 BTC acquired for ~$61.56 billion at ~$75,527 per bitcoin.
 
-🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-34164-btc-and-now-holds-815061-btc_04-20-2026) • 8h ago
+🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-34164-btc-and-now-holds-815061-btc_04-20-2026) • 9h ago
 
 ---
 
@@ -89,15 +95,13 @@ Strategy has acquired 34,164 BTC for ~$2.54 billion at ~$74,395 per bitcoin and 
 
 Morgan Stanley just pulled off its most successful ETF launch in the firm's history MSBT crossed $100M+ in net inflows in its first six trading days since going live on April 8th. Key Factors → It's the cheapest spot BTC ETF on the market. At 0.14%, MSBT undercuts BlackRock's IBIT (0.25%) and resets the fee benchmark for institutional Bitcoin exposure. → It's the first spot BTC ETF issued by a major US bank → Distribution is the real story here. Every financial advisor at Morgan Stanley is now armed with a cheap, in-house bitcoin wrapper to put in front of clients Bitcoin is being absorbed into the traditional financial system faster than most people realize
 
-6h ago
+7h ago
 
 ---
 
-**[Father passed away and left me his ledger.](https://www.reddit.com/r/Bitcoin/comments/1sqcctd/father_passed_away_and_left_me_his_ledger/)**
+**[Cooked to Perfection](https://www.reddit.com/r/Bitcoin/comments/1sr2pe5/cooked_to_perfection/)**
 
-Hey guys, father recently passed away and left me his ledger. I have full access to this and hold the seed phrase etc. I already have possession of everything and we are starting to go through probate. My understanding is because I have possession of the wallet and seed phrase, there is nothing left to do to “transfer” it to myself. He has no online accounts that hold bitcoin, it’s just the wallet. So my question: Is there anything linking his ownership to the bitcoin and the ledger that would mean solicitors need to get involved? Couldn’t exactly find a concrete answer for this and the executor of the will seems to think it works like a bank account which is tied to identity. From my understanding the only way you could tie his identity to the wallet is a purchase receipt at a stretch. Any help is much appreciated! I am based in Australia if that makes any difference. Thanks guys! Edit: He had in his original will (2020) that all bitcoin in his Swyftx account to go to me. He didn’t update that before he died but last year he transferred it all into the ledger and gave me all the details. My aunty (the executor) wants to put it all through properly so wants details on it for the solicitor. Solicitor doesnt seem to be up to date with how bitcoin works…
-
-19h ago
+2h ago
 
 ---
 
@@ -105,7 +109,15 @@ Hey guys, father recently passed away and left me his ledger. I have full access
 
 I use bitcoin for purchases in china a lot and generally they like bitcoin I've never been ripped off always received my goods never had any issues .Now suddenly my bank who initially where a nightmare and I had to justify what I was doing spending my own money buying bitcoin then left me alone once the first few transfers happened and I'd stated I wouldn't hold them responsible for any lose have just issued this new policy At The Co-operative Bank, we work hard to protect your money. Each year, criminals steal billions of pounds in fraud. And cryptocurrency scams are currently one of the most common types of fraud. What are cryptocurrency scams? There are many different scams involving cryptocurrency. A common scam involves fake investment platforms. These platforms can appear real. They often use familiar designs and features, like genuine investment platforms. But they're run by criminals who use them to steal money. Why are we making these changes? We’ve recently seen an increase in cryptocurrency scams. So, we’re changing our policy on cryptocurrency payments to help keep your money safe. We want to give you the choice to spend or invest your money how you wish, but we also have a duty to protect your money. We've made this decision with the best interests of all our customers in mind. What is changing? From 18 May 2026 we may block or refuse payments we identify as being made to cryptocurrency merchants. This may include payments to platforms that offer more than just cryptocurrency exchange, for example shares or savings accounts. This applies to payments made through: •online banking and mobile app •branches •our contact centre •your card. Your account terms and conditions will be updated and shared with you soon. We'll keep these measures under review and update you if things change. Where can I find more information? You can get fraud prevention advice at our online fraud hub. Read more about the Financial Conduct Authority's guidance on their website. If you have any questions or concerns you can contact us on Are all the banks going this way it's my money FFS
 
-2h ago
+3h ago
+
+---
+
+**[Father passed away and left me his ledger.](https://www.reddit.com/r/Bitcoin/comments/1sqcctd/father_passed_away_and_left_me_his_ledger/)**
+
+Hey guys, father recently passed away and left me his ledger. I have full access to this and hold the seed phrase etc. I already have possession of everything and we are starting to go through probate. My understanding is because I have possession of the wallet and seed phrase, there is nothing left to do to “transfer” it to myself. He has no online accounts that hold bitcoin, it’s just the wallet. So my question: Is there anything linking his ownership to the bitcoin and the ledger that would mean solicitors need to get involved? Couldn’t exactly find a concrete answer for this and the executor of the will seems to think it works like a bank account which is tied to identity. From my understanding the only way you could tie his identity to the wallet is a purchase receipt at a stretch. Any help is much appreciated! I am based in Australia if that makes any difference. Thanks guys! Edit: He had in his original will (2020) that all bitcoin in his Swyftx account to go to me. He didn’t update that before he died but last year he transferred it all into the ledger and gave me all the details. My aunty (the executor) wants to put it all through properly so wants details on it for the solicitor. Solicitor doesnt seem to be up to date with how bitcoin works…
+
+20h ago
 
 ---
 
@@ -113,7 +125,7 @@ I use bitcoin for purchases in china a lot and generally they like bitcoin I've 
 
 Just saw the report that over $593M in bearish bets got liquidated following the news about Iran fully opening the Strait of Hormuz. Geopolitical tension in the Middle East has been heavily influenced on risk assets lately. Now that the macro situation is cooling down, the panic selling into cash seems to be pausing. This easing of macro fears, combined with that massive short squeeze, is giving BTC some real momentum. If we could have the $74k area into solid support, I'm leaning bullish for the short term. The path of least resistance feels like it's pointing up again. During the choppy weeks before this pump, I've been running future grid bots on BYDFi to trade the range. It's solid for choppy markets and the execution is fast. Plus, the bot's trading volume actually unlocked a few draws for their 6th-anniversary event. It felt like a bonus cuz I got some coupons to offset the fees. Where do you guys see BTC going for the rest of year? Do we still think the 4-year cycle will play out by the end of this year?
 
-10h ago
+11h ago
 
 ---
 
@@ -121,33 +133,21 @@ Just saw the report that over $593M in bearish bets got liquidated following the
 
 Just wondering how you guys are affording to do all this BTC investing.
 
-9h ago
-
----
-
-**[Someone vandalized the Satoshi statue in Lugano again](https://www.reddit.com/r/Bitcoin/comments/1sr1i6u/someone_vandalized_the_satoshi_statue_in_lugano/)**
-
-1h ago
+10h ago
 
 ---
 
 **[Are these good stats for an esp32-2432s028 CYD?(Nerdminer2)](https://www.reddit.com/r/Bitcoin/comments/1sqs729/are_these_good_stats_for_an_esp322432s028/)**
 
-6h ago
+7h ago
 
 ---
 
-**[Patience, young Padawan](https://www.reddit.com/r/Bitcoin/comments/1sq3gbl/patience_young_padawan/)**
+**[bought $10.25 of bitcoin on coinbase, is there anything else i should do?](https://www.reddit.com/r/Bitcoin/comments/1sr354q/bought_1025_of_bitcoin_on_coinbase_is_there/)**
 
-1d ago
+i’m 19 and a college student, and not really into the stock market/ anything to do with finances but i thought it would be interesting to do this. i was doing my research and then opened a Coinbase account and bought $10.25 in BTC, but i figured you guys could provide more insights/ tips for me, since im not sure what i can do with it. i know there’s a holding period tho. it would be greatly appreciated!!! have a nice day!!!
 
----
-
-**[Buy & Hold vs Buy & Sell](https://www.reddit.com/r/Bitcoin/comments/1sqo4a7/buy_hold_vs_buy_sell/)**
-
-In 2019 a friend made fun of me for having bitcoin. Last night he tried connecting with me over both of us owning bitcoins. I called him out and reminded him how small he made me sound back in the day when I tried to put him on. I had been holding since then. Never sold. He apparently has been buying low and selling high, no idea if he’s selling everytime there’s a 1% profit or what but he then started telling me that I’m stupid for buying and holding and that it’s better to buy and sell and buy and sell. My thought to that is that you’re just paying for more transaction fees and taxes as opposed to just holding. But maybe I’m wrong what are your thoughts.
-
-9h ago
+1h ago
 
 ---
 
@@ -159,7 +159,7 @@ In 2019 a friend made fun of me for having bitcoin. Last night he tried connecti
 
 Academics and lawmakers say repeated tariff reversals and announcements are blurring political and market lines.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -171,47 +171,53 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin ‘driven by its own rules,’ BlackRock US head of equity ETFs says](https://www.foxbusiness.com/video/6393505246112)**
+**[Strategy Buys $2.54 Billion of Bitcoin, Most Since November 2024](https://www.bloomberg.com/news/articles/2026-04-20/strategy-buys-2-54-billion-of-bitcoin-most-since-november-2024)**
 
-BlackRock U.S. head of equity ETFs Jay Jacobs discusses market volatility amid tensions with Iran and makes the case for bitcoin as a portfolio diversifier on ‘The Claman Countdown.’
-
-Fox Business • 1h ago
+Bloomberg.com • 8h ago
 
 ---
 
-**[Bitcoin bounces above $76,000 as DeFi suffers $14 billion exodus after KelpDAO hack](https://www.coindesk.com/markets/2026/04/20/bitcoin-bounces-above-usd76-000-as-defi-suffers-usd14-billion-exodus-after-kelpdao-hack)**
+**['Think even bigger': Michael Saylor's Strategy buys 34,164 bitcoin for $2.5 billion as total holdings top 800,000 BTC](https://www.theblock.co/post/398051/think-even-bigger-michael-saylors-strategy-buys-more-bitcoin)**
 
-Crypto steadied despite rising Iran tensions, but DeFi is reeling from one of the largest exploits of the year.
+Strategy's total holdings account for more than 3.8% of the 21 million bitcoin supply cap — worth around $61 billion.
 
-CoinDesk • 1h ago
+The Block • 11h ago
 
 ---
 
-**[Michael Saylor has engineered 'an incredible machine' with bitcoin](https://finance.yahoo.com/video/michael-saylor-has-engineered-an-incredible-machine-with-bitcoin-165602725.html)**
+**[Michael Saylor's bitcoin strategy, explained by Scott Melker](https://finance.yahoo.com/video/michael-saylors-bitcoin-strategy-explained-by-scott-melker-162911657.html)**
 
-Strategy (MSTR) acquired $2.54 billion worth of bitcoin (BTC-USD) on Monday. Scott Melker ditches the phrase 'infinite money glitch' and explains how Michael Saylor is purchasing the asset and the machine he's created to do so in this episode of Yahoo Finance's new show, The Daily Wolf with Scott Melker.
+Scott Melker, the host of "The Wolf of All Streets" podcast, discusses Michael Saylor's (MSTR) "infinite money glitch" and this week's latest crypto headlines, including Charles Schwab's (SCHW) capitulation and Pakistan's steps forward with crypto and banking. "The Daily Wolf with Scott Melker" airs on Yahoo Finance every day at 12:00 p.m. ET. Tune in for your daily dose of all things crypto. Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
 **[‘Massive’ U.S. Dollar Fed Warning Fuels Huge Bitcoin Price Predictions](https://www.forbes.com/sites/digital-assets/2026/04/20/buy-bitcoin-elon-musks-massive-us-dollar-warning-fuels-wild-crypto-price-predictions/)**
 
-Forbes • 4h ago
+Forbes • 5h ago
 
 ---
 
-**[Understanding Bitcoin Price USD and Daily Market Signals](https://www.detroitnews.com/story/special/contributor-content/2026/04/20/understanding-bitcoin-price-usd-and-daily-market-signals/89701765007/)**
+**[Bitcoin Just Got A Seat At The Highest Levels Of U.S. Indo-Pacific Strategy — Meet The Man Making It Happen](https://bitcoinmagazine.com/politics/jason-lowery-appointed-special-assistant-to-u-s-indo-pacific-command-commander-bringing-bitcoin-strategic-expertise)**
 
-To understand the market, investors need to know what causes that number to go up or down.
+Jason Lowery, the ex-Space Force innovator behind the explosive “Softwar” theory that treats Bitcoin hashing power as the next gunpowder, just landed a dream advisory gig directly under the U.S. Indo-Pacific Command Commander — right as Iran floats accepting Bitcoin for Strait of Hormuz passage.
 
-The Detroit News • 4h ago
+Bitcoin Magazine • 5h ago
+
+---
+
+**[Bitcoin ‘driven by its own rules,’ BlackRock US head of equity ETFs says](https://www.foxbusiness.com/video/6393505246112)**
+
+BlackRock U.S. head of equity ETFs Jay Jacobs discusses market volatility amid tensions with Iran and makes the case for bitcoin as a portfolio diversifier on ‘The Claman Countdown.’
+
+Fox Business • 2h ago
 
 ---
 
 **[Bitcoin adoption rebounds in U.S., but consumers still favor gold and stocks](https://www.investing.com/news/cryptocurrency-news/bitcoin-adoption-rebounds-in-us-but-consumers-still-favor-gold-and-stocks-4622480)**
 
-Investing.com • 13h ago
+Investing.com • 14h ago
 
 ---
 
@@ -219,15 +225,7 @@ Investing.com • 13h ago
 
 Nearly $1 billion in spot bitcoin ETF inflows and rising stablecoin liquidity suggest institutional demand is still stemming pullbacks.
 
-The Block • 9h ago
-
----
-
-**[This $49.97 gadget lets you solo-mine Bitcoin tickets from your desk](https://www.popsci.com/sponsored-content/this-gadget-lets-you-solo-mine-bitcoin-tickets-from-your-desk-sponsored-deal/)**
-
-A device like this can turn abstract ideas about hashrate, network difficulty, and solo mining into something tangible.
-
-Popular Science • 4h ago
+The Block • 10h ago
 
 ---
 
@@ -239,7 +237,7 @@ Popular Science • 4h ago
 
 The global economic system is evolving: The left wants to redistribute. The right wants to deregulate. Both are missing the point.
 
-⬆️ 4 • 💬 1 • 7h ago • [The Alignment Economy](https://alignmenteconomy.org)
+⬆️ 4 • 💬 1 • 8h ago • [The Alignment Economy](https://alignmenteconomy.org)
 
 ---
 
@@ -261,7 +259,7 @@ The Blockstream CEO’s approach contrasts with BIP-361, a proposal that would i
 
 Neha Narula
 
-⬆️ 3 • 💬 2 • 4h ago • [nehanarula.org](https://nehanarula.org/2026/04/20/bitcoin-and-quantum-a-roadmap.html)
+⬆️ 3 • 💬 2 • 5h ago • [nehanarula.org](https://nehanarula.org/2026/04/20/bitcoin-and-quantum-a-roadmap.html)
 
 ---
 
@@ -269,7 +267,7 @@ Neha Narula
 
 Part one explained the physics of quantum computing. This piece explains the target — how bitcoin's encryption works, why a quantum algorithm breaks it, and what Google's paper changed about the timeline.
 
-⬆️ 3 • 💬 1 • 13h ago • [coindesk.com](https://www.coindesk.com/tech/2026/04/18/how-a-quantum-computer-can-be-used-to-actually-steal-your-bitcoin-in-9-minutes)
+⬆️ 3 • 💬 1 • 14h ago • [coindesk.com](https://www.coindesk.com/tech/2026/04/18/how-a-quantum-computer-can-be-used-to-actually-steal-your-bitcoin-in-9-minutes)
 
 ---
 
@@ -329,7 +327,7 @@ Big money is quietly moving into Bitcoin and the signals are getting louder. Fro
 
 📺 Simply Bitcoin
 
-👁️ 28K • 👍 2K • 💬 139 • ⏱️ 12:00 • 23h ago
+👁️ 28K • 👍 2K • 💬 139 • ⏱️ 12:00 • 1d ago
 
 ---
 
@@ -339,7 +337,7 @@ Join The Community: https://bit.ly/FefeCommunity FOLLOW FEFE FOR THE BEST ALPHA 
 
 📺 100XClub
 
-👁️ 9K • 👍 1K • 💬 781 • ⏱️ 8:42 • 11h ago
+👁️ 9K • 👍 1K • 💬 781 • ⏱️ 8:42 • 12h ago
 
 ---
 
@@ -349,7 +347,7 @@ IT'S RIGGED! Buckle Up' Bitcoin & Crypto Holders ⭐ Follow Altcoin Daily on X: 
 
 📺 Altcoin Daily
 
-👁️ 46K • 👍 2K • 💬 155 • ⏱️ 11:59 • 1d ago
+👁️ 46K • 👍 2K • 💬 155 • ⏱️ 11:59 • 2d ago
 
 ---
 
@@ -359,7 +357,7 @@ Bitcoin has rallied back into a key technical area, the Bear Market Resistance B
 
 📺 Benjamin Cowen
 
-👁️ 69K • 👍 5K • 💬 150 • ⏱️ 11:41 • 17h ago
+👁️ 69K • 👍 5K • 💬 150 • ⏱️ 11:41 • 18h ago
 
 ---
 
@@ -369,7 +367,7 @@ Crypto #Bitcoin #CryptoNews #Investing #yahoofinance Michael Saylor's “Bitcoin
 
 📺 Yahoo Finance
 
-👁️ 2K • 👍 23 • ⏱️ 0:54 • 3h ago
+👁️ 2K • 👍 23 • ⏱️ 0:54 • 4h ago
 
 ---
 
@@ -399,7 +397,7 @@ Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro max, and th
 
 📺 Crypto Jebb
 
-👁️ 3K • 👍 216 • 💬 8 • ⏱️ 48:28 • 6h ago
+👁️ 3K • 👍 216 • 💬 8 • ⏱️ 48:28 • 7h ago
 
 ---
 
@@ -409,7 +407,7 @@ Subscribe before the supply shock goes mainstream. There are no sellers left at 
 
 📺 Bitcoin News Alerts
 
-👁️ 4K • 👍 236 • 💬 195 • ⏱️ 20:29 • 23h ago
+👁️ 4K • 👍 236 • 💬 195 • ⏱️ 20:29 • 1d ago
 
 ---
 
