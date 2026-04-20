@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-20T21:11:34.342804+00:00'
+updated: '2026-04-20T22:08:33.355928+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 20, 2026 at 21:11 UTC  
+**Last Updated:** April 20, 2026 at 22:08 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 T.Yamazaki on 𝕏: https://x.com/ZappyZappy7/status/2046192595802656933 High Torque Robotics on YouTube: https://www.youtube.com/watch?v=aBe_ceuesEA
 
-8h ago
+9h ago
 
 ---
 
@@ -44,7 +44,7 @@ T.Yamazaki on 𝕏: https://x.com/ZappyZappy7/status/2046192595802656933 High To
 
 Repo: https://github.com/newton-physics/newton Been digging into this over the weekend. Quick rundown for anyone who hasn't seen it yet: Built on NVIDIA Warp, Apache 2.0, now governed by the Linux Foundation (vendor-neutral) MuJoCo Warp is integrated as a solver, plus Disney's Kamino solver for closed-loop mechanisms (parallel linkages, robotic hands) Reported 475x faster than MJX on manipulation tasks on RTX PRO 6000 Blackwell. Massive parallel throughput per GPU means more room for aggressive domain randomization, which is usually where sim-to-real actually breaks OpenUSD native. So assets from Omniverse and Isaac Lab can be dropped in directly. Embedded OpenGL viewer + USD viewer for debugging I know this isn't brand new, but wanted to share as I am genuinely excited about where physics engines are heading, especially with this kind of collaboration behind it.
 
-4h ago
+5h ago
 
 ---
 
@@ -52,7 +52,7 @@ Repo: https://github.com/newton-physics/newton Been digging into this over the w
 
 Demonstration of real-time wireless teleoperation using a MANUS Metaglove to control the Ability Hand bionic hand. The glove provides high-precision finger tracking with full joint-level motion capture and low-latency wireless transmission, allowing the hand to mirror movements naturally in real time. The Ability Hand features 30 touch sensors, fast finger actuation (~0.2 s closing speed), and support for EMG-based control, highlighting potential applications in prosthetics, robotic teleoperation, XR interfaces, and remote manipulation
 
-4h ago
+5h ago
 
 ---
 
@@ -60,13 +60,13 @@ Demonstration of real-time wireless teleoperation using a MANUS Metaglove to con
 
 From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2045896309765288179
 
-18h ago
+19h ago
 
 ---
 
 **[Robots I saw at MODEX 2026](https://www.reddit.com/r/robotics/comments/1sqspjf/robots_i_saw_at_modex_2026/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -104,7 +104,7 @@ They had been working on their designs for years and I don't think they publish 
 
 深圳市精锋医疗科技股份有限公司致力于设计、开发和制造手术机器人，专注微创手术机器人及器械，提供外科手术的创新解决方案。
 
-🔗 [edgemed.cn](https://www.edgemed.cn/) • 2h ago
+🔗 [edgemed.cn](https://www.edgemed.cn/) • 3h ago
 
 ---
 
@@ -130,7 +130,7 @@ UNITED24 Media • 1d ago
 
 **[Alabama Considers Robotics to Augment Rural Obstetrics Care](https://dailyyonder.com/alabama-considers-robotics-to-augment-rural-obstetrics-care/2026/04/20/)**
 
-The Daily Yonder • 13h ago
+The Daily Yonder • 14h ago
 
 ---
 
@@ -138,7 +138,7 @@ The Daily Yonder • 13h ago
 
 The RBR50 gala at the 2026 Robotics Summit & Expo offers a chance to honor and connect with the world’s leading robotics innovators.
 
-The Robot Report • 4h ago
+The Robot Report • 5h ago
 
 ---
 
@@ -146,7 +146,7 @@ The Robot Report • 4h ago
 
 The manufacturer's intelligent scrubber and sweeper robot & PUDU D5 quadruped delivery robot put on a show at Modex 2026 last week, wowing attendees with their capabilities.
 
-DC Velocity • 4h ago
+DC Velocity • 5h ago
 
 ---
 
@@ -154,13 +154,13 @@ DC Velocity • 4h ago
 
 Israeli startup AgriPass pulls weeds out of the ground with what it claims is the precision of a human hand.
 
-AgFunderNews • 5h ago
+AgFunderNews • 6h ago
 
 ---
 
 **[Ferris State hosts FIRST Robotics contest in the Jim Wink Arena](https://www.bigrapidsnews.com/news/article/ferris-state-first-robotics-22215837.php)**
 
-Big Rapids Pioneer • 5h ago
+Big Rapids Pioneer • 6h ago
 
 ---
 
@@ -168,7 +168,7 @@ Big Rapids Pioneer • 5h ago
 
 Cedarburg High School's Robotics team is the 2026 FIRST Wisconsin District Champions and will be moving on to represent Wisconsin at the World Championship in Houston, Texas, on April 29th.
 
-TMJ4 News • 1h ago
+TMJ4 News • 2h ago
 
 ---
 
@@ -176,7 +176,7 @@ TMJ4 News • 1h ago
 
 /PRNewswire/ -- Coco Robotics, the world's largest urban robot delivery platform, and BlindSquare, the world's most widely used accessible GPS app for the...
 
-PR Newswire • 6h ago
+PR Newswire • 7h ago
 
 ---
 
@@ -184,7 +184,7 @@ PR Newswire • 6h ago
 
 April 20, 2026 Submitted By Hingham High Robotics Congratulations to the Hingham High Robotics Team 5000, The Hammerheads, who qualified for the FIRST World Championship tournament for the first time in team history. The team will head to Houston TX on April 29th for a four day tournament featuring 600 international teams. During the competition ... Read more
 
-Hingham Anchor • 1h ago
+Hingham Anchor • 2h ago
 
 ---
 
@@ -198,17 +198,7 @@ Physical Intelligence is building a foundation model that can control any robot 
 
 📺 Y Combinator
 
-👁️ 46K • 👍 1K • 💬 60 • ⏱️ 49:27 • 4d ago
-
----
-
-**[A humanoid robot is seen chasing a group of wild boars off the street](https://www.youtube.com/watch?v=yyCmTL-wC-w)**
-
-For more context and news coverage of the most important stories of our day, click here: https://www.nbcnews.com » Subscribe to ...
-
-📺 NBC News
-
-👁️ 231K • 👍 4K • 💬 309 • ⏱️ 0:25 • 6d ago
+👁️ 47K • 👍 1K • 💬 60 • ⏱️ 49:27 • 4d ago
 
 ---
 
@@ -222,23 +212,23 @@ China just revealed an autonomous robot war pack built from dog bots, drones, la
 
 ---
 
+**[A humanoid robot is seen chasing a group of wild boars off the street](https://www.youtube.com/watch?v=yyCmTL-wC-w)**
+
+For more context and news coverage of the most important stories of our day, click here: https://www.nbcnews.com » Subscribe to ...
+
+📺 NBC News
+
+👁️ 231K • 👍 4K • 💬 309 • ⏱️ 0:25 • 6d ago
+
+---
+
 **[The Future is Mass-Produced: Inside the Canton Fair Robotics Hall](https://www.youtube.com/watch?v=S0eEXTn3zX4)**
 
 You think robots are still sci-fi? Think again. I'm at the this year's Canton Fair to show you the reality of the Chinese automation ...
 
 📺 Eric Cracks China
 
-👁️ 98K • 👍 3K • 💬 152 • ⏱️ 1:54 • 2d ago
-
----
-
-**[Humanoid Robot Beats Human Record in Beijing](https://www.youtube.com/watch?v=XWmVqXpF84A)**
-
-Bloomberg's Minmin Low highlights a half marathon held in Beijing, where autonomous robots showcased significant ...
-
-📺 Bloomberg Television
-
-👁️ 24K • 👍 491 • 💬 140 • ⏱️ 5:51 • 15h ago
+👁️ 99K • 👍 3K • 💬 153 • ⏱️ 1:54 • 2d ago
 
 ---
 
@@ -248,17 +238,35 @@ A humanoid robot named Edward Warchocki chased away a herd of wild boars in Wars
 
 📺 Reuters
 
-👁️ 46K • 👍 685 • 💬 77 • ⏱️ 0:26 • 6d ago
+👁️ 46K • 👍 686 • 💬 77 • ⏱️ 0:26 • 6d ago
 
 ---
 
-**[50 Minutes: How China&#39;s Robot Destroyed the Half Marathon Record](https://www.youtube.com/watch?v=pH8tVBqCRLY)**
+**[Humanoid Robot Beats Human Record in Beijing](https://www.youtube.com/watch?v=XWmVqXpF84A)**
 
-In Beijing, a humanoid robot just completed a 21-kilometer half-marathon in an astonishing 50 minutes and 26 seconds, marking ...
+Bloomberg's Minmin Low highlights a half marathon held in Beijing, where autonomous robots showcased significant ...
 
-📺 Capital Markets AI
+📺 Bloomberg Television
 
-👁️ 15K • 👍 337 • 💬 61 • ⏱️ 8:58 • 1d ago
+👁️ 28K • 👍 529 • 💬 149 • ⏱️ 5:51 • 16h ago
+
+---
+
+**[I Made a 3D Printed Gearbox. #3dprinting #gearbox #robotics #steppermotor](https://www.youtube.com/watch?v=vYnedIup1Nk)**
+
+I made a 3D printed gearbox for a Nema 17 stepper motor. I released the 3D files on Printables.com. Checkout the full video for ...
+
+📺 Advanced Hobby Lab
+
+👁️ 116K • 👍 1K • 💬 14 • ⏱️ 0:27 • 3d ago
+
+---
+
+**[Drag-and-drop welding robot.#welding #industry #stamping #robot #polish](https://www.youtube.com/watch?v=ZMOHebvddcY)**
+
+📺 Robot Linda 
+
+👁️ 26K • 👍 166 • 💬 3 • ⏱️ 0:30 • 2d ago
 
 ---
 
@@ -268,7 +276,7 @@ Dozens of humanoid robots competed alongside human runners in the Beijing half m
 
 📺 DRM News
 
-👁️ 32K • 👍 355 • 💬 107 • ⏱️ 8:15 • 1d ago
+👁️ 33K • 👍 362 • 💬 114 • ⏱️ 8:15 • 1d ago
 
 ---
 
@@ -278,17 +286,7 @@ A humanoid robot named Edward Warchocki has gone viral for chasing wild boars in
 
 📺 CNN
 
-👁️ 126K • 👍 2K • 💬 289 • ⏱️ 0:22 • 5d ago
-
----
-
-**[Robots vs humans: Beijing half-marathon delivers stunning result](https://www.youtube.com/watch?v=1vUnusbzNMQ)**
-
-Humanoid robots have beaten human runners in a Beijing half-marathon, marking a breakthrough in China's rapidly advancing ...
-
-📺 Al Jazeera English
-
-👁️ 500K • 👍 4K • 💬 1K • ⏱️ 2:13 • 1d ago
+👁️ 127K • 👍 2K • 💬 289 • ⏱️ 0:22 • 5d ago
 
 ---
 
