@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-20T05:43:05.444051+00:00'
+updated: '2026-04-20T08:09:54.647090+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 20, 2026 at 05:43 UTC  
+**Last Updated:** April 20, 2026 at 08:09 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $74,281.49
+### $75,500.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.5%  
-**7d:** +0.1%  
-**30d:** +9.4%  
-**90d:** -17.2%  
-**1y:** -15.1%  
+**24h:** -0.3%  
+**7d:** +0.8%  
+**30d:** +10.1%  
+**90d:** -16.6%  
+**1y:** -14.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1485.64B
+**Market Cap:** $1495.82B
 Rank #1
 
-**Circulating Supply:** 20,018,371 BTC
+**Circulating Supply:** 20,018,421 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--41.2%
+-40.7%
 
 **All-Time Low:** $67.81
-+109302.7%
++110091.7%
 
 ---
 
@@ -77,17 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Patience, young Padawan](https://www.reddit.com/r/Bitcoin/comments/1sq3gbl/patience_young_padawan/)**
-
-9h ago
-
----
-
 **[Father passed away and left me his ledger.](https://www.reddit.com/r/Bitcoin/comments/1sqcctd/father_passed_away_and_left_me_his_ledger/)**
 
 Hey guys, father recently passed away and left me his ledger. I have full access to this and hold the seed phrase etc. I already have possession of everything and we are starting to go through probate. My understanding is because I have possession of the wallet and seed phrase, there is nothing left to do to “transfer” it to myself. He has no online accounts that hold bitcoin, it’s just the wallet. So my question: Is there anything linking his ownership to the bitcoin and the ledger that would mean solicitors need to get involved? Couldn’t exactly find a concrete answer for this and the executor of the will seems to think it works like a bank account which is tied to identity. From my understanding the only way you could tie his identity to the wallet is a purchase receipt at a stretch. Any help is much appreciated! I am based in Australia if that makes any difference. Thanks guys! Edit: He had in his original will (2020) that all bitcoin in his Swyftx account to go to me. He didn’t update that before he died but last year he transferred it all into the ledger and gave me all the details. My aunty (the executor) wants to put it all through properly so wants details on it for the solicitor. Solicitor doesnt seem to be up to date with how bitcoin works…
 
-3h ago
+5h ago
+
+---
+
+**[Patience, young Padawan](https://www.reddit.com/r/Bitcoin/comments/1sq3gbl/patience_young_padawan/)**
+
+12h ago
 
 ---
 
@@ -95,7 +95,7 @@ Hey guys, father recently passed away and left me his ledger. I have full access
 
 Finally was able to own exactly 0.5 BTC. I started the hole process more than 5 years ago…. Many times i thought the train to reach this goal Is gone but I made it. Let’s see where this journey takes me. ATM I have around 0.1 on my trezor. The rest I’ll move the asap there… Let’s see where this journey takes us
 
-18h ago
+20h ago
 
 ---
 
@@ -103,7 +103,15 @@ Finally was able to own exactly 0.5 BTC. I started the hole process more than 5 
 
 Happy stacking guys, don’t worry about short term pricing. Edit: Don’t worry about the price in (insert broken pieces of paper from your own country) in general
 
-9h ago
+12h ago
+
+---
+
+**[First Cold Wallet - Trezor Safe 3 arriving soon. What to expect?](https://www.reddit.com/r/Bitcoin/comments/1sqg018/first_cold_wallet_trezor_safe_3_arriving_soon/)**
+
+Just bought my first cold wallet, Trezor safe 3. What should I expect to do? I ordered that from official website. and what’s the user experience of using trezor or cold wallet.
+
+2h ago
 
 ---
 
@@ -111,7 +119,23 @@ Happy stacking guys, don’t worry about short term pricing. Edit: Don’t worry
 
 Thoughts on bitcoin treasuries? Being in the institutional era of Bitcoin how does everyone feel about it?
 
-1h ago
+3h ago
+
+---
+
+**[Daily Discussion, April 20, 2026](https://www.reddit.com/r/Bitcoin/comments/1sqgx6l/daily_discussion_april_20_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+2h ago
+
+---
+
+**[[Deep Dive] Why the Strait of Hormuz Closure is the Best Long Entry for BTC This Month](https://www.reddit.com/r/Bitcoin/comments/1sqgjyg/deep_dive_why_the_strait_of_hormuz_closure_is_the/)**
+
+Listen up. Most traders are staring at the news headlines and freezing. We are staring at the order books. The Macro Noise: Yes, the Strait of Hormuz closure is a historic event. Yes, oil is spiking amid the Iran-US tensions and blockade fallout. But notice how BTC has been holding firm around the $73.5k–$74k zone despite the chaos? That's institutional support showing up. Recent sessions saw heavy long liquidations (hundreds of millions wiped out in the volatility)—the "trash" has been cleared. The Sentinel Logic: My Brahma-01 system is flagging a strong recovery confluence. When the Fear & Greed Index sits in Extreme Fear territory (around 21–27 recently), it has historically signaled a local bottom and bounce setup. The Levels: Entry: $73.8k to $74.2k. Don't FOMO—wait for the wick or confirmation candle. Stop Loss: $72.5k. If it breaks this cleanly, the near-term macro structure is in trouble. Target: We are aiming for a recovery back to the $76k "Iron Resistance" first, with potential extension toward $77k–$78k if momentum builds. Discipline Reminder: My active window starts at 1:00 PM Mumbai time. I'm watching the DXY (Dollar Index) hovering near 98.28–98.30—if it starts to slide, BTC will likely fly. Are you guys selling your bags to the banks, or are you buying the void? Let's talk logic, not emotions.
+
+2h ago
 
 ---
 
@@ -119,7 +143,7 @@ Thoughts on bitcoin treasuries? Being in the institutional era of Bitcoin how do
 
 He visto en varias ocasiones aplicaciones que supuestamente son minerias de Bitcoin, de hecho estoy probando una aplicación que se llama "Block Mining Miner", sin embargo, no sé si realmente me dé satoshis. Todo esto es porque tengo las duda se ¿Realmente hay aplicaciones que realmente minan o todas son estafa? ¿Hay manera de empezar a minar bitcoin de manera gratuita y sin necesidad de que use de manera directa los componentes de mi dispositivo?
 
-1h ago
+3h ago
 
 ---
 
@@ -127,31 +151,7 @@ He visto en varias ocasiones aplicaciones que supuestamente son minerias de Bitc
 
 I keeep my seed phrase engraved between two metal plates. If I move to another country, is it possible that they see my seedphrase during Roentgen in the security area?
 
-9h ago
-
----
-
-**[Self custody will cure your adhd gambler mentality](https://www.reddit.com/r/Bitcoin/comments/1sprp76/self_custody_will_cure_your_adhd_gambler_mentality/)**
-
-Trust me, it works. Once you self custody, run a node, you dont even want to move it back and forth to exchange to sell or else until its due (4 years +) or whatever. When you let it sit on the exchange, the gambling skibidi trying to time and beat the market will be always there teasing you. But again, only those who know.
-
-17h ago
-
----
-
-**[STUDY BITCOIN, BUY BITCOIN AND HODL BITCOIN 🔶](https://www.reddit.com/r/Bitcoin/comments/1spt3bk/study_bitcoin_buy_bitcoin_and_hodl_bitcoin/)**
-
-https://preview.redd.it/0h8gnpe5g5wg1.png?width=630&format=png&auto=webp&s=6a131646156fa67ad9cf979bef8f7036b24feacb Your future self will thank your present self. 🧡
-
-16h ago
-
----
-
-**[Built the physical prototypes of the Bitcoin Casio mod — gradient orange or solid orange?](https://www.reddit.com/r/Bitcoin/comments/1spwn1d/built_the_physical_prototypes_of_the_bitcoin/)**
-
-Update: I took your feedback seriously and built physical prototypes. Original Post: https://www.reddit.com/r/Bitcoin/comments/1sdnhwc/bitcoin_casio_mods/ The black resin case with the orange filter is the first prototype, and I also tested a steel version with a more solid orange filter. I’m now debating whether the black case should keep the orange-to-red gradient film or switch to the cleaner solid orange look. Which direction feels stronger? Still trying to keep the idea aligned with “signal over noise” rather than making it feel gimmicky.
-
-13h ago
+11h ago
 
 ---
 
@@ -159,47 +159,41 @@ Update: I took your feedback seriously and built physical prototypes. Original P
 
 ## Google News: "bitcoin"
 
+**[Bitcoin, ether, solana slide, oil jumps on renewed U.S.-Iran war risks](https://www.coindesk.com/markets/2026/04/20/bitcoin-ether-solana-slide-oil-jumps-on-renewed-u-s-iran-war-risks)**
+
+Bitcoin traded at $74,335 after Iran reimposed controls on the Strait of Hormuz over the weekend, with the modest 1.6% pullback standing out against a 5.7% jump in Brent and a 1.2% drop in European equity futures.
+
+CoinDesk • 2h ago
+
+---
+
 **[Inventor showcases 3D printer filament dryer that mines Bitcoins and dries filament with waste heat, capable of 6 TH/s at 140W — joins Bitcoin-mining 3D printer in hobbyist-focused miner lineup](https://www.tomshardware.com/tech-industry/cryptomining/inventor-showcases-3d-printer-filament-dryer-that-mines-bitcoins-and-dries-filament-with-waste-heat-capable-of-6-th-s-at-140w-joins-bitcoin-mining-3d-printer-in-hobbyist-focused-miner-lineup)**
 
 Likely built on prior work on a 3D printing Bitcoin miner prototype.
 
-Tom's Hardware • 17h ago
+Tom's Hardware • 19h ago
 
 ---
 
-**[This Signal in Bitcoin's Chart Has Never Been Wrong](https://www.fool.com/investing/2026/04/19/this-signal-in-bitcoins-chart-has-never-been-wrong/)**
+**[Coinbase Says MicroStrategy’s Bitcoin Buying Tightens Supply More Than Market Expects](https://finance.yahoo.com/markets/crypto/articles/coinbase-says-microstrategy-bitcoin-buying-201502595.html)**
 
-Keep an eye out for this pattern, and it could make you a stronger investor.
+Coinbase Institutional argues Strategy's BTC buying tightens supply as digital asset treasuries surpass 4% of all Bitcoin.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Where Will Bitcoin Be in 5 Years?](https://www.fool.com/investing/2026/04/19/where-will-bitcoin-be-in-5-years/)**
+
+You may want to consider these 3 scenarios if you're thinking about buying Bitcoin today.
 
 The Motley Fool • 20h ago
 
 ---
 
-**[Crypto Stocks Rally As Bitcoin Breaks Two-Month High After Iran Reopens Strait](https://www.forbes.com/sites/aliciapark/2026/04/17/crypto-stocks-rally-as-bitcoin-breaks-two-month-high-after-iran-reopens-strait/)**
+**[‘Buy Bitcoin’—Elon Musk’s ‘Massive’ U.S. Dollar Warning Fuels Wild Crypto Price Predictions](https://www.forbes.com/sites/digital-assets/2026/04/18/buy-bitcoin-elon-musks-massive-us-dollar-warning-fuels-wild-crypto-price-predictions/)**
 
-Forbes • 2d ago
-
----
-
-**[Bitcoin dips as Iran conflict stokes broader crypto market volatility](https://www.investing.com/news/cryptocurrency-news/bitcoin-dips-as-iran-conflict-stokes-broader-crypto-market-volatility-4622210)**
-
-Investing.com • 19h ago
-
----
-
-**[Bitcoin erases weekend gains as US-Iran ceasefire falls under pressure](https://www.tradingview.com/news/cointelegraph:6a6935605094b:0-bitcoin-erases-weekend-gains-as-us-iran-ceasefire-falls-under-pressure/)**
-
-Bitcoin erased its weekend gains as it fell below $74,000 on Sunday after the US military seized an Iranian cargo ship, putting pressure on a ceasefire between the two countries.Bitcoin (BTC) had soared above $78,300 late Friday on Coinbase, its highest price since early February, but dropped to be…
-
-TradingView • 1h ago
-
----
-
-**[Where Will Bitcoin Be in 5 Years?](https://finance.yahoo.com/markets/crypto/articles/where-bitcoin-5-years-103500589.html)**
-
-You may want to consider these 3 scenarios if you're thinking about buying Bitcoin today.
-
-Yahoo Finance • 19h ago
+Forbes • 1d ago
 
 ---
 
@@ -213,21 +207,29 @@ The New York Times • 3d ago
 
 Gal Gadot, Casey Affleck, and Pete Davidson star in movie about previous snake oil phenomenon
 
-Kotaku • 9h ago
+Kotaku • 12h ago
 
 ---
 
 **[Alcoa Is Close to a Deal to Sell Smelter Site to Bitcoin Miner](https://www.bloomberg.com/news/articles/2026-04-17/alcoa-is-close-to-a-deal-to-sell-smelter-site-to-bitcoin-miner)**
 
-Bloomberg.com • 2d ago
+Bloomberg • 2d ago
 
 ---
 
-**[Congresswoman Sheri Biggs Discloses Up to $250,000 BTC Investment via iShares Bitcoin ETF](https://bitcoinmagazine.com/news/sheri-biggs-discloses-250000-bitcoin)**
+**[The O.C. Guy Says Bitcoin Is ‘Still a Ponzi Scheme’](https://nymag.com/intelligencer/article/the-ocs-ben-mckenzie-says-bitcoin-is-lying-to-you-for-money.html)**
 
-Representative Sheri Biggs of South Carolina has disclosed a purchase of up to $250,000 in Bitcoin exposure.
+“Not only gotten away with it, they’ve made a ton of money,” says actor Ben McKenzie, whose doc explores crypto’s crash and Trump-fueled rise.
 
-Bitcoin Magazine • 2d ago
+New York Magazine • 2d ago
+
+---
+
+**[Bitcoin 2026 Price Prediction: Why the Dollar, Global Liquidity and Volume Signal More Downside Ahead](https://io-fund.com/crypto/bitcoin-price-prediction-2026-dollar-liquidity-volume-downside)**
+
+In our last Bitcoin analysis, "Bitcoin After the Cycle Peak: What Comes Next and How We're Positioning", we argued that Bitcoin was closer to a cycle low than most believed, even if one final drop remained ahead. Since that publication, the probability of another drop occurring in the coming weeks has increased meaningfully. If it does, it should set up a tradeable bounce within what we believe is an ongoing bear market. What gives us the confidence that we are in a new bear market cycle, rather than a pullback within a larger uptrend, is that Bitcoin continues to track sentiment patterns and global liquidity cycles with remarkable consistency. Recognizing this unconventional correlation has been the foundation of a framework that has filtered out narrative-driven noise and kept us on the right side of every major Bitcoin trend since 2020. These are themes that we first introduced in August of 2025, when Bitcoin was trading at around $115,000.
+
+IO Fund • 4d ago
 
 ---
 
@@ -237,7 +239,7 @@ Bitcoin Magazine • 2d ago
 
 **[Show HN: Using Ramanujan's Pi Series for Bitcoin Security on Nvidia B200](https://news.ycombinator.com/item?id=47823382)**
 
-⬆️ 4 • 💬 1 • 18h ago • [zenodo.org](https://zenodo.org/records/19650883)
+⬆️ 4 • 💬 1 • 21h ago • [zenodo.org](https://zenodo.org/records/19650883)
 
 ---
 
@@ -287,7 +289,7 @@ A deeply technical early Bitcoiner realized that self-custody is only as strong 
 
 **[Unmasking the Creator of Bitcoin [audio]](https://news.ycombinator.com/item?id=47762113)**
 
-⬆️ 1 • 💬 0 • 5d ago • [nytimes.com](https://www.nytimes.com/2026/04/09/podcasts/the-daily/satoshi-nakamoto-bitcoin-creator.html)
+⬆️ 1 • 💬 0 • 6d ago • [nytimes.com](https://www.nytimes.com/2026/04/09/podcasts/the-daily/satoshi-nakamoto-bitcoin-creator.html)
 
 ---
 
@@ -303,7 +305,7 @@ A fake Ledger app on Apple's App Store drained $9.5M from more than 50 victims a
 
 Speculation, dead‑end investigations and conspiracy theories have surrounded him for years
 
-⬆️ 2 • 💬 0 • 8h ago • [EL PAÍS English](https://english.elpais.com/economy-and-business/2026-04-19/satoshi-nakamoto-the-reclusive-billionaire-behind-bitcoin-the-best-outcome-is-that-no-one-ever-finds-out.html)
+⬆️ 2 • 💬 0 • 11h ago • [EL PAÍS English](https://english.elpais.com/economy-and-business/2026-04-19/satoshi-nakamoto-the-reclusive-billionaire-behind-bitcoin-the-best-outcome-is-that-no-one-ever-finds-out.html)
 
 ---
 
@@ -317,7 +319,7 @@ IT'S RIGGED! Buckle Up' Bitcoin & Crypto Holders ⭐ Follow Altcoin Daily on X: 
 
 📺 Altcoin Daily
 
-👁️ 42K • 👍 2K • 💬 148 • ⏱️ 11:59 • 1d ago
+👁️ 43K • 👍 2K • 💬 148 • ⏱️ 11:59 • 1d ago
 
 ---
 
@@ -327,7 +329,7 @@ Big money is quietly moving into Bitcoin and the signals are getting louder. Fro
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 148 • ⏱️ 12:00 • 7h ago
+👁️ 19K • 👍 1K • 💬 104 • ⏱️ 12:00 • 9h ago
 
 ---
 
@@ -337,27 +339,7 @@ Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=Al
 
 📺 Altcoin Daily
 
-👁️ 22K • 👍 1K • 💬 147 • ⏱️ 8:27 • 7h ago
-
----
-
-**[PAPER BITCOIN CRISIS?!? IS THIS WHY WE&#39;RE NOT AT $200K BITCOIN?](https://www.youtube.com/watch?v=sAcAcrJMnAY)**
-
-Follow me on X for my best content: http://www.X.com/AdamBLiv Transform Dormant Home Equity into Bitcoin with Horizon: ...
-
-📺 Adam Livingston
-
-👁️ 6K • 👍 675 • 💬 85 • ⏱️ 17:02 • 18h ago
-
----
-
-**[A New Signal Has Just Triggered on Bitcoin (here&#39;s what it means)](https://www.youtube.com/watch?v=RSnjchNdE5M)**
-
-A new and powerful signal has just triggered on the chart of bitcoin, according to analyst Manuel Blay. Could this signal mean that ...
-
-📺 Alessio Rastani
-
-👁️ 30K • 👍 2K • 💬 411 • ⏱️ 13:09 • 16h ago
+👁️ 27K • 👍 2K • 💬 163 • ⏱️ 8:27 • 10h ago
 
 ---
 
@@ -367,7 +349,17 @@ Bitcoin has rallied back into a key technical area, the Bear Market Resistance B
 
 📺 Benjamin Cowen
 
-👁️ 5K • 👍 495 • 💬 33 • ⏱️ 11:41 • 47m ago
+👁️ 15K • 👍 2K • 💬 81 • ⏱️ 11:41 • 3h ago
+
+---
+
+**[A New Signal Has Just Triggered on Bitcoin (here&#39;s what it means)](https://www.youtube.com/watch?v=RSnjchNdE5M)**
+
+A new and powerful signal has just triggered on the chart of bitcoin, according to analyst Manuel Blay. Could this signal mean that ...
+
+📺 Alessio Rastani
+
+👁️ 32K • 👍 2K • 💬 425 • ⏱️ 13:09 • 18h ago
 
 ---
 
@@ -377,27 +369,7 @@ Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=Al
 
 📺 Altcoin Daily
 
-👁️ 53K • 👍 2K • 💬 232 • ⏱️ 8:39 • 2d ago
-
----
-
-**[Did Michael Saylor &amp; Strategy Just TRIGGER a Bitcoin STAMPEDE?](https://www.youtube.com/watch?v=DD1Y-Uhj4Og)**
-
-Bitcoin just hit $78K and the signals are impossible to ignore. Institutions are deploying billions, Wall Street is launching ETFs, and ...
-
-📺 Simply Bitcoin
-
-👁️ 17K • 👍 1K • 💬 153 • ⏱️ 12:49 • 1d ago
-
----
-
-**[How Close Are We to $1,000,000 Bitcoin? Adam Back Weighs In](https://www.youtube.com/watch?v=U4G7Ws9yPi8)**
-
-Adam Back joins Cointelegraph at Paris Blockchain Week to discuss one of Bitcoin's biggest long-term questions: how real is the ...
-
-📺 Cointelegraph
-
-👁️ 69K • 👍 2K • 💬 210 • ⏱️ 31:34 • 2d ago
+👁️ 54K • 👍 2K • 💬 232 • ⏱️ 8:39 • 2d ago
 
 ---
 
@@ -407,7 +379,37 @@ A former Treasury Secretary warns the next crisis could be worse than 2008. Bond
 
 📺 Simply Bitcoin
 
-👁️ 28K • 👍 2K • 💬 114 • ⏱️ 16:22 • 2d ago
+👁️ 29K • 👍 2K • 💬 114 • ⏱️ 16:22 • 2d ago
+
+---
+
+**[How Close Are We to $1,000,000 Bitcoin? Adam Back Weighs In](https://www.youtube.com/watch?v=U4G7Ws9yPi8)**
+
+Adam Back joins Cointelegraph at Paris Blockchain Week to discuss one of Bitcoin's biggest long-term questions: how real is the ...
+
+📺 Cointelegraph
+
+👁️ 72K • 👍 2K • 💬 214 • ⏱️ 31:34 • 2d ago
+
+---
+
+**[🚨 BTC &amp; ETH: ITS TIME!!!!!!!!!!!!!!!](https://www.youtube.com/watch?v=U1zfC9BL5hM)**
+
+Its a video about bitcoin, ethereum, crypto in general. But its quite an unusual one! So dont miss it! ---------- Join My FREE ...
+
+📺 Thomas Kralow
+
+👁️ 15K • 👍 2K • 💬 71 • ⏱️ 7:52 • 22h ago
+
+---
+
+**[I’m Genuinely Worried About Crypto This Week..](https://www.youtube.com/watch?v=9SZg6eMDPLI)**
+
+The Strait is closed again, the truce between the U.S. and Iran seems to be collapsing and Trump's deadline is closing in. Ran is ...
+
+📺 Crypto Banter
+
+👁️ 20K • 👍 2K • 💬 36 • ⏱️ 26:09 • 15h ago
 
 ---
 
