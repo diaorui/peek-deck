@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-20T13:45:10.230159+00:00'
+updated: '2026-04-20T15:16:49.437554+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
 - social
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 20, 2026 at 13:45 UTC  
+**Last Updated:** April 20, 2026 at 15:16 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,16 +38,16 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $75,252.31
+### $75,278.27
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.2%  
-**7d:** +1.4%  
-**30d:** +10.8%  
-**90d:** -16.1%  
+**24h:** -0.4%  
+**7d:** +1.3%  
+**30d:** +10.7%  
+**90d:** -16.2%  
 **1y:** -14.1%  
 
 ---
@@ -77,17 +77,19 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[While newbies worry about geopolitics, Strategy acquired additional 34,164 BTC because of geopolitics, and now HODL 815,061 bitcoin](https://www.reddit.com/r/Bitcoin/comments/1sqq1eb/while_newbies_worry_about_geopolitics_strategy/)**
+
+Strategy has acquired 34,164 BTC for ~$2.54 billion at ~$74,395 per bitcoin and has achieved BTC Yield of 9.5% YTD 2026. As of 4/19/2026, we hodl 815,061 BTC acquired for ~$61.56 billion at ~$75,527 per bitcoin.
+
+🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-34164-btc-and-now-holds-815061-btc_04-20-2026) • 1h ago
+
+---
+
 **[Father passed away and left me his ledger.](https://www.reddit.com/r/Bitcoin/comments/1sqcctd/father_passed_away_and_left_me_his_ledger/)**
 
 Hey guys, father recently passed away and left me his ledger. I have full access to this and hold the seed phrase etc. I already have possession of everything and we are starting to go through probate. My understanding is because I have possession of the wallet and seed phrase, there is nothing left to do to “transfer” it to myself. He has no online accounts that hold bitcoin, it’s just the wallet. So my question: Is there anything linking his ownership to the bitcoin and the ledger that would mean solicitors need to get involved? Couldn’t exactly find a concrete answer for this and the executor of the will seems to think it works like a bank account which is tied to identity. From my understanding the only way you could tie his identity to the wallet is a purchase receipt at a stretch. Any help is much appreciated! I am based in Australia if that makes any difference. Thanks guys! Edit: He had in his original will (2020) that all bitcoin in his Swyftx account to go to me. He didn’t update that before he died but last year he transferred it all into the ledger and gave me all the details. My aunty (the executor) wants to put it all through properly so wants details on it for the solicitor. Solicitor doesnt seem to be up to date with how bitcoin works…
 
-11h ago
-
----
-
-**[Patience, young Padawan](https://www.reddit.com/r/Bitcoin/comments/1sq3gbl/patience_young_padawan/)**
-
-17h ago
+12h ago
 
 ---
 
@@ -95,23 +97,7 @@ Hey guys, father recently passed away and left me his ledger. I have full access
 
 Just saw the report that over $593M in bearish bets got liquidated following the news about Iran fully opening the Strait of Hormuz. Geopolitical tension in the Middle East has been heavily influenced on risk assets lately. Now that the macro situation is cooling down, the panic selling into cash seems to be pausing. This easing of macro fears, combined with that massive short squeeze, is giving BTC some real momentum. If we could have the $74k area into solid support, I'm leaning bullish for the short term. The path of least resistance feels like it's pointing up again. During the choppy weeks before this pump, I've been running future grid bots on BYDFi to trade the range. It's solid for choppy markets and the execution is fast. Plus, the bot's trading volume actually unlocked a few draws for their 6th-anniversary event. It felt like a bonus cuz I got some coupons to offset the fees. Where do you guys see BTC going for the rest of year? Do we still think the 4-year cycle will play out by the end of this year?
 
-2h ago
-
----
-
-**[Tried trading Bitcoin… didn’t go how I expected](https://www.reddit.com/r/Bitcoin/comments/1sqin27/tried_trading_bitcoin_didnt_go_how_i_expected/)**
-
-When I first got into Bitcoin, I thought trading it would be the fastest way to grow. Watched charts, followed setups, even tried signals at one point. Didn’t really end well. Took me a while to realize the issue wasn’t just strategy, it was how I was managing risk and decisions in real time. Switched focus more towards having clear rules instead of chasing entries… and things started making more sense. Still learning tbh. Curious, do most of you here actively trade BTC or just hold long term?
-
-5h ago
-
----
-
-**[Buy & Hold vs Buy & Sell](https://www.reddit.com/r/Bitcoin/comments/1sqo4a7/buy_hold_vs_buy_sell/)**
-
-In 2019 a friend made fun of me for having bitcoin. Last night he tried connecting with me over both of us owning bitcoins. I called him out and reminded him how small he made me sound back in the day when I tried to put him on. I had been holding since then. Never sold. He apparently has been buying low and selling high, no idea if he’s selling everytime there’s a 1% profit or what but he then started telling me that I’m stupid for buying and holding and that it’s better to buy and sell and buy and sell. My thought to that is that you’re just paying for more transaction fees and taxes as opposed to just holding. But maybe I’m wrong what are your thoughts.
-
-1h ago
+3h ago
 
 ---
 
@@ -119,21 +105,43 @@ In 2019 a friend made fun of me for having bitcoin. Last night he tried connecti
 
 Just wondering how you guys are affording to do all this BTC investing.
 
-44m ago
+2h ago
+
+---
+
+**[Patience, young Padawan](https://www.reddit.com/r/Bitcoin/comments/1sq3gbl/patience_young_padawan/)**
+
+19h ago
+
+---
+
+**[Tried trading Bitcoin… didn’t go how I expected](https://www.reddit.com/r/Bitcoin/comments/1sqin27/tried_trading_bitcoin_didnt_go_how_i_expected/)**
+
+When I first got into Bitcoin, I thought trading it would be the fastest way to grow. Watched charts, followed setups, even tried signals at one point. Didn’t really end well. Took me a while to realize the issue wasn’t just strategy, it was how I was managing risk and decisions in real time. Switched focus more towards having clear rules instead of chasing entries… and things started making more sense. Still learning tbh. Curious, do most of you here actively trade BTC or just hold long term?
+
+7h ago
+
+---
+
+**[Buy & Hold vs Buy & Sell](https://www.reddit.com/r/Bitcoin/comments/1sqo4a7/buy_hold_vs_buy_sell/)**
+
+In 2019 a friend made fun of me for having bitcoin. Last night he tried connecting with me over both of us owning bitcoins. I called him out and reminded him how small he made me sound back in the day when I tried to put him on. I had been holding since then. Never sold. He apparently has been buying low and selling high, no idea if he’s selling everytime there’s a 1% profit or what but he then started telling me that I’m stupid for buying and holding and that it’s better to buy and sell and buy and sell. My thought to that is that you’re just paying for more transaction fees and taxes as opposed to just holding. But maybe I’m wrong what are your thoughts.
+
+2h ago
+
+---
+
+**[Anyone actually given crypto as a physical gift? How did it go?](https://www.reddit.com/r/Bitcoin/comments/1sqoald/anyone_actually_given_crypto_as_a_physical_gift/)**
+
+My brother-in-law has become interested in Bitcoin recently, but I had no idea what to get him for his birthday. I didn't want to have to explain complicated Bitcoin stuff during the birthday dinner. I came across gift "bearer" cards for Bitcoin. They are essentially cards that contain a private key tied to a set amount of Bitcoin. The gift recipient can access Bitcoin from the card when they want. I would be surprised if any of you have done this before. I have a few questions: Is it easy for the gift recipient to access the Bitcoin? Is the Bitcoin on the card truly safe? Do you have any bad stories about it? I prefer gift cards over simply giving cash to someone. However, I am very hesitant about something that appears so simplistically designed in the crypto world. I want to know if this is the real deal or if this is just a promotional gimmick.
+
+2h ago
 
 ---
 
 **[Daily Discussion, April 20, 2026](https://www.reddit.com/r/Bitcoin/comments/1sqgx6l/daily_discussion_april_20_2026/)**
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-7h ago
-
----
-
-**[Bitcoin treasuries](https://www.reddit.com/r/Bitcoin/comments/1sqf31a/bitcoin_treasuries/)**
-
-Thoughts on bitcoin treasuries? Being in the institutional era of Bitcoin how does everyone feel about it?
 
 9h ago
 
@@ -143,15 +151,7 @@ Thoughts on bitcoin treasuries? Being in the institutional era of Bitcoin how do
 
 Just bought my first cold wallet, Trezor safe 3. What should I expect to do? I ordered that from official website. and what’s the user experience of using trezor or cold wallet.
 
-8h ago
-
----
-
-**[If money is abundant everything becomes scarce. If money is scarce everything becomes abundant.](https://www.reddit.com/r/Bitcoin/comments/1sq30hw/if_money_is_abundant_everything_becomes_scarce_if/)**
-
-Happy stacking guys, don’t worry about short term pricing. Edit: Don’t worry about the price in (insert broken pieces of paper from your own country) in general
-
-17h ago
+9h ago
 
 ---
 
@@ -159,25 +159,11 @@ Happy stacking guys, don’t worry about short term pricing. Edit: Don’t worry
 
 ## Google News: "bitcoin"
 
-**[Bitcoin, ether, solana slide, oil jumps on renewed U.S.-Iran war risks](https://www.coindesk.com/markets/2026/04/20/bitcoin-ether-solana-slide-oil-jumps-on-renewed-u-s-iran-war-risks)**
+**['Think even bigger': Michael Saylor's Strategy buys 34,164 bitcoin for $2.5 billion as total holdings top 800,000 BTC](https://www.theblock.co/post/398051/think-even-bigger-michael-saylors-strategy-buys-more-bitcoin)**
 
-Bitcoin traded at $74,335 after Iran reimposed controls on the Strait of Hormuz over the weekend, with the modest 1.6% pullback standing out against a 5.7% jump in Brent and a 1.2% drop in European equity futures.
+Strategy's total holdings account for more than 3.8% of the 21 million bitcoin supply cap — worth around $61 billion.
 
-CoinDesk • 8h ago
-
----
-
-**[Crypto Stocks Rally As Bitcoin Breaks Two-Month High After Iran Reopens Strait](https://www.forbes.com/sites/aliciapark/2026/04/17/crypto-stocks-rally-as-bitcoin-breaks-two-month-high-after-iran-reopens-strait/)**
-
-Forbes • 2d ago
-
----
-
-**[Bitcoin Price: Bitcoin (BTC) Breaks $78,000 as Iran Opens the Strait of Hormuz](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-bitcoin-btc-breaks-195621207.html)**
-
-Bitcoin (CRYPTO: BTC) just broke $78,000 after Iran declared the Strait of Hormuz fully open for all commercial ships. Oil prices crashed 11% to $85.90 per barrel—its lowest since the war started—and BTC hit its highest price since before the conflict began in late February. The strait carries roughly 20% of the world’s oil supply, ... Bitcoin Price: Bitcoin (BTC) Breaks $78,000 as Iran Opens the Strait of Hormuz
-
-Yahoo Finance • 2d ago
+The Block • 3h ago
 
 ---
 
@@ -189,41 +175,45 @@ Tom's Hardware • 1d ago
 
 ---
 
-**[Michael Saylor Hints at Bigger Bitcoin Buys After Floating Semi-Monthly Dividends](https://finance.yahoo.com/markets/crypto/articles/michael-saylor-hints-bigger-bitcoin-103100075.html)**
+**[Spot Bitcoin ETFs Cross $1B Last Week in Inflows as Cumulative Flows Approach Record High](https://bitcoinmagazine.com/news/spot-bitcoin-etfs-cross-1b)**
 
-Michael Saylor signaled on social media that Strategy is on the verge of announcing another Bitcoin purchase, posting a chart of the company’s full BTC buying history with noticeably larger circles marking recent acquisitions.The timing matters: Strategy already executed a record single-day buy exceeding $1 billion in BTC just before ...
+U.S. spot bitcoin ETFs saw $996.4 million in net inflows last week — the strongest since mid-January — extending a three-week streak that has added over $1.8 billion and pushed year-to-date flows back above $1 billion after earlier outflows.
 
-Yahoo Finance • 3h ago
-
----
-
-**[Strategy buys 34,164 bitcoin for $2.54 billion, third-largest purchase on record](https://www.coindesk.com/markets/2026/04/20/strategy-buys-34-164-bitcoin-for-usd2-54-billion)**
-
-Last week's purchases were funded by sales of the companies perpetual preferred stock, STRC and common stock.
-
-CoinDesk • 48m ago
+Bitcoin Magazine • 58m ago
 
 ---
 
-**[Strategy Buys $2.54 Billion of Bitcoin, Most Since November 2024](https://www.bloomberg.com/news/articles/2026-04-20/strategy-buys-2-54-billion-of-bitcoin-most-since-november-2024)**
+**[Bitcoin News Today: Bitcoin Reclaims $75K as Traders Watch CME Gap and DeFi Risks](https://www.binance.com/en/square/post/314588080146561)**
 
-Bloomberg.com • 1h ago
-
----
-
-**[UK gas firm downplays bitcoin mining plans after report suggested pivot](https://www.theblock.co/post/398091/uk-gas-firm-downplays-bitcoin-mining-plans-after-report-suggested-pivot)**
-
-The firm said it is exploring the potential to deploy bitcoin mining, but remains committed to progressing the site for UK energy security.
-
-The Block • 30m ago
+Binance • 54m ago
 
 ---
 
-**[Majority of consumers think 2026 won't be the year of bitcoin's comeback: Deutsche Bank](https://uk.finance.yahoo.com/news/majority-of-consumers-think-2026-wont-be-the-year-of-bitcoins-comeback-deutsche-bank-134056670.html)**
+**[Why Strategy Stock Is Falling When Bitcoin Isn’t](https://www.barrons.com/articles/bitcoin-price-xrp-ether-cryptos-strategy-robinhood-iran-trump-13e26599)**
 
-Deutsche Bank's new crypto survey is decidedly bearish for bitcoin.
+Barron's • 4h ago
 
-Yahoo Finance UK • 4m ago
+---
+
+**[Bitcoin adoption rebounds in U.S., but consumers still favor gold and stocks](https://www.investing.com/news/cryptocurrency-news/bitcoin-adoption-rebounds-in-us-but-consumers-still-favor-gold-and-stocks-4622480)**
+
+Investing.com • 6h ago
+
+---
+
+**[BTC, ETH, SOL price news: crypto stocks surge 10%-20% as bitcoin hits $78K on Iran talks](https://www.coindesk.com/markets/2026/04/17/beaten-down-digital-asset-treasury-names-lead-crypto-stock-surge-as-bitcoin-hits-usd78-000)**
+
+Oil prices slumped as Trump said Iran committed to open the Strait of Hormuz and the U.S. plans to acquire that country's enriched uranium as part of a deal.
+
+CoinDesk • 2d ago
+
+---
+
+**[Why I withdrew everything from Aave this weekend](https://www.thestreet.com/crypto/markets/why-i-withdrew-everything-from-aave-this-weekend)**
+
+Why I withdrew every dollar from Aave V3 this weekend, and what every USDT, USDC, and ETH lender should be watching before they decide to stay.
+
+thestreet.com • 19h ago
 
 ---
 
@@ -235,9 +225,23 @@ The Motley Fool • 1d ago
 
 ---
 
+**[Alcoa Is Close to a Deal to Sell Smelter Site to Bitcoin Miner](https://www.bloomberg.com/news/articles/2026-04-17/alcoa-is-close-to-a-deal-to-sell-smelter-site-to-bitcoin-miner)**
+
+Bloomberg.com • 2d ago
+
+---
+
 ---
 
 ## HackerNews: "bitcoin"
+
+**[Two Paradoxes Blocking Bitcoin](https://news.ycombinator.com/item?id=47834673)**
+
+The global economic system is evolving: The left wants to redistribute. The right wants to deregulate. Both are missing the point.
+
+⬆️ 4 • 💬 1 • 1h ago • [The Alignment Economy](https://alignmenteconomy.org)
+
+---
 
 **[Show HN: Using Ramanujan's Pi Series for Bitcoin Security on Nvidia B200](https://news.ycombinator.com/item?id=47823382)**
 
@@ -253,17 +257,11 @@ The Blockstream CEO’s approach contrasts with BIP-361, a proposal that would i
 
 ---
 
-**[Unmasking the Creator of Bitcoin](https://news.ycombinator.com/item?id=47752949)**
-
-⬆️ 3 • 💬 2 • 6d ago • [nytimes.com](https://www.nytimes.com/2026/04/09/podcasts/the-daily/satoshi-nakamoto-bitcoin-creator.html)
-
----
-
 **[A quantum computer can be used to steal your Bitcoin in '9 minutes'](https://news.ycombinator.com/item?id=47831713)**
 
 Part one explained the physics of quantum computing. This piece explains the target — how bitcoin's encryption works, why a quantum algorithm breaks it, and what Google's paper changed about the timeline.
 
-⬆️ 3 • 💬 1 • 4h ago • [coindesk.com](https://www.coindesk.com/tech/2026/04/18/how-a-quantum-computer-can-be-used-to-actually-steal-your-bitcoin-in-9-minutes)
+⬆️ 3 • 💬 1 • 6h ago • [coindesk.com](https://www.coindesk.com/tech/2026/04/18/how-a-quantum-computer-can-be-used-to-actually-steal-your-bitcoin-in-9-minutes)
 
 ---
 
@@ -321,7 +319,7 @@ Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=Al
 
 📺 Altcoin Daily
 
-👁️ 33K • 👍 2K • 💬 147 • ⏱️ 8:27 • 15h ago
+👁️ 33K • 👍 2K • 💬 147 • ⏱️ 8:27 • 17h ago
 
 ---
 
@@ -341,7 +339,7 @@ Big money is quietly moving into Bitcoin and the signals are getting louder. Fro
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 2K • 💬 123 • ⏱️ 12:00 • 15h ago
+👁️ 23K • 👍 2K • 💬 123 • ⏱️ 12:00 • 17h ago
 
 ---
 
@@ -351,7 +349,7 @@ Subscribe before the supply shock goes mainstream. There are no sellers left at 
 
 📺 Bitcoin News Alerts
 
-👁️ 3K • 👍 216 • 💬 137 • ⏱️ 20:29 • 14h ago
+👁️ 3K • 👍 216 • 💬 137 • ⏱️ 20:29 • 16h ago
 
 ---
 
@@ -391,7 +389,7 @@ Bitcoin #Crypto #Finance Global tensions are escalating fast, with conflict in t
 
 📺 The Wolf Of All Streets
 
-👁️ 2K • 👍 199 • 1h ago
+👁️ 2K • 👍 199 • 2h ago
 
 ---
 

@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-04-20T13:45:09.784749+00:00"
+          "dateModified": "2026-04-20T15:16:49.040118+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -614,41 +614,6 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="reddit-carousel-robotics">
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1sqd2ag/2026_robot_half_marathon_fail_fun_compilation/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/OWltanc1Zm1lOXdnMaenQLBPPdRNGs5W0yGVxQZde3FMIDfKf0O1oBaMF785.png?width=640&crop=smart&auto=webp&s=1ff6d00d5d9216db82f5b93d19c6ec57b9783d7a" alt="2026 robot half marathon fail & fun compilation" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1sqd2ag/2026_robot_half_marathon_fail_fun_compilation/" target="_blank" onclick="event.stopPropagation();">2026 robot half marathon fail & fun compilation</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2045896309765288179
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1776653501.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1sqo9f0/little_robots_join_the_halfmarathon_some_even_run/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -675,6 +640,41 @@
                                 
                                 <div class="post-meta-item">
                                     <span data-timestamp="1776689100.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1sqd2ag/2026_robot_half_marathon_fail_fun_compilation/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/OWltanc1Zm1lOXdnMaenQLBPPdRNGs5W0yGVxQZde3FMIDfKf0O1oBaMF785.png?width=640&crop=smart&auto=webp&s=1ff6d00d5d9216db82f5b93d19c6ec57b9783d7a" alt="2026 robot half marathon fail & fun compilation" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1sqd2ag/2026_robot_half_marathon_fail_fun_compilation/" target="_blank" onclick="event.stopPropagation();">2026 robot half marathon fail & fun compilation</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2045896309765288179
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1776653501.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -818,6 +818,39 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1sqivfr/whats_your_take_on_aigenerated_environments_for/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1sqivfr/whats_your_take_on_aigenerated_environments_for/" target="_blank" onclick="event.stopPropagation();">What's your take on AI-generated environments for sim-to-real? HY-World 2.0 skips the video→3DGS→mesh chain entirely</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Tencent just open-sourced HY-World 2.0 (https://github.com/Tencent-Hunyuan/HY-World-2.0). The key difference from video world models like Genie 3 or Cosmos is that it outputs real 3D assets (meshes, 3DGS) that you can import into Isaac Sim, Unity, Unreal, not just pixel videos. I've spent time trying to go from video world models → 3DGS → meshes and the information loss along the way is brutal. You end up with hole-y environments full of weird artifacts. WorldLabs' Marble was better because it generates 3DGS directly, but then the mesh conversion still sucked. I built my own conversion pipeline for their outputs and still wasn't happy with it. HY-World 2.0 skipping that whole chain and outputting usable 3D directly is a big deal if the quality holds up. For robotics sim specifically: this could be solid for fast environment generation and domain randomization. If you need a bunch of varied training environments quickly, this kind of tool gets you there. It won't replace handcrafted digital twins for teams that need hyperrealistic sim-to-real fidelity, but for the "I need 200 warehouse variations for my policy to generalize" use case, it could be a real speedup. Anyone else tried running the WorldMirror 2.0 reconstruction yet? Curious how the outputs actually look in a sim engine.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1776672030.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1sq3s5m/realworld_deployment_as_a_core_strategy_in/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -915,41 +948,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1sphe3h/honors_humanoid_fully_autonomous_robot_lightning/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/cDAzZnhrbHpiMndnMUO0juSZagyc93G3G5TputRI4dbn5WkzcCl8TxAcDZHD.png?width=640&crop=smart&auto=webp&s=849a2a891cde794c26d4d9f932a9c511899c937d" alt="Honor’s humanoid fully autonomous robot "Lightning" from the Monkey King team won the 2026 Beijing Humanoid Robot Half Marathon on April 19. Among over 100 teams, it finished first with a net time of 50m26s." onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1sphe3h/honors_humanoid_fully_autonomous_robot_lightning/" target="_blank" onclick="event.stopPropagation();">Honor’s humanoid fully autonomous robot "Lightning" from the Monkey King team won the 2026 Beijing Humanoid Robot Half Marathon on April 19. Among over 100 teams, it finished first with a net time of 50m26s.</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2045678855638405436 https://x.com/XRoboHub/status/2045695900434276501
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1776568113.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -973,7 +971,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-04-20T13:44:40.325995+00:00">Updated 2026-04-20T13:44:40.325995+00:00</small>
+        <small data-timestamp="2026-04-20T15:16:26.015388+00:00">Updated 2026-04-20T15:16:26.015388+00:00</small>
     </div>
 </div>
 
@@ -1196,20 +1194,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://united24media.com/latest-news/ukraine-moves-to-replace-frontline-soldiers-with-25000-ground-robots-18047', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.stocktitan.net/news/BB/qnx-and-nvidia-deepen-collaboration-to-advance-safety-critical-edge-2fpnzowdrzx3.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://storage.united24media.com/og/6/2a/0e0bff385e6a5c99535466c1ae1802a6.jpg');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://www.stocktitan.net/news_covers/QNX_and_NVIDIA_Deepen_Collaboration_to_Advance_Safety_Critical_Edge_AI_Across_Robotics_Medical_and_1041785.webp');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://united24media.com/latest-news/ukraine-moves-to-replace-frontline-soldiers-with-25000-ground-robots-18047" target="_blank" onclick="event.stopPropagation();">Ukraine Moves to Replace Frontline Soldiers With 25,000 Ground Robots</a>
+                            <a href="https://www.stocktitan.net/news/BB/qnx-and-nvidia-deepen-collaboration-to-advance-safety-critical-edge-2fpnzowdrzx3.html" target="_blank" onclick="event.stopPropagation();">NVIDIA and QNX target safer robots and medical devices with edge AI</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Ukraine's Defense Ministry plans to contract 25,000 ground robots by mid-2026, aiming for 100% frontline logistics to be automated.
+                            Using IGX Thor and Halos Safety Stack, the platform combines real-time control with AI, supporting safety certification. Early access is now open.
                         </div>
                         
 
@@ -1219,9 +1217,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://united24media.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="UNITED24 Media" class="news-favicon">
-                                    <a href="https://united24media.com" target="_blank" onclick="event.stopPropagation();">UNITED24 Media</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.stocktitan.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Stock Titan" class="news-favicon">
+                                    <a href="https://www.stocktitan.net" target="_blank" onclick="event.stopPropagation();">Stock Titan</a>
                                     
                                 </div>
                                 
@@ -1229,7 +1227,48 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1776606754.0"></span>
+                                    <span data-timestamp="1776664800.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://bostondynamics.com/blog/tools-for-your-to-do-list-with-spot-and-gemini-robotics/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://bostondynamics.com/wp-content/uploads/2026/03/spot-to-do-list.webp');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://bostondynamics.com/blog/tools-for-your-to-do-list-with-spot-and-gemini-robotics/" target="_blank" onclick="event.stopPropagation();">Tools for Your To Do List with Spot and Gemini Robotics</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            A recent demo shows Boston Dynamics Spot in a residential home, using Google’s visual-language model (VLM) Gemini Robotics-ER 1.5 for embodied reasoning.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://bostondynamics.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Boston Dynamics" class="news-favicon">
+                                    <a href="https://bostondynamics.com" target="_blank" onclick="event.stopPropagation();">Boston Dynamics</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1776664644.0"></span>
                                 </div>
                                 
                             </div>
@@ -1267,6 +1306,47 @@
                                 
                                 <div class="news-meta-item">
                                     <span data-timestamp="1776688892.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.prnewswire.com/news-releases/coco-robotics-and-blindsquare-partner-to-make-city-sidewalks-safer-and-more-accessible-for-all-302747192.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://mma.prnewswire.com/media/2488960/Coco_Robotics_Logo.jpg?p=facebook');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.prnewswire.com/news-releases/coco-robotics-and-blindsquare-partner-to-make-city-sidewalks-safer-and-more-accessible-for-all-302747192.html" target="_blank" onclick="event.stopPropagation();">Coco Robotics and BlindSquare Partner to Make City Sidewalks Safer and More Accessible for All</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            /PRNewswire/ -- Coco Robotics, the world's largest urban robot delivery platform, and BlindSquare, the world's most widely used accessible GPS app for the...
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.prnewswire.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="PR Newswire" class="news-favicon">
+                                    <a href="https://www.prnewswire.com" target="_blank" onclick="event.stopPropagation();">PR Newswire</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1776697200.0"></span>
                                 </div>
                                 
                             </div>
@@ -1315,14 +1395,55 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://dailyyonder.com/alabama-considers-robotics-to-augment-rural-obstetrics-care/2026/04/20/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://autonews.gasgoo.com/articles/news/embodied-ai-company-booster-robotics-completes-nearly-1-billion-yuan-financing-2046225660790435840', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://gascloud.gasgoo.com/production/2026/04/11c690de-8650-443c-8844-22745d44f95c-1776721959.png');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://autonews.gasgoo.com/articles/news/embodied-ai-company-booster-robotics-completes-nearly-1-billion-yuan-financing-2046225660790435840" target="_blank" onclick="event.stopPropagation();">Embodied AI Company Booster Robotics Completes Nearly 1 Billion Yuan Financing</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            body { font-size: 16px; line-height: 34px; ...
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://autonews.gasgoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Gasgoo" class="news-favicon">
+                                    <a href="https://autonews.gasgoo.com" target="_blank" onclick="event.stopPropagation();">Gasgoo</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1776693249.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.scmp.com/tech/big-tech/article/3350755/chinese-tech-giants-advance-robotics-push-sector-sees-rapid-growth', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://dailyyonder.com/alabama-considers-robotics-to-augment-rural-obstetrics-care/2026/04/20/" target="_blank" onclick="event.stopPropagation();">Alabama Considers Robotics to Augment Rural Obstetrics Care</a>
+                            <a href="https://www.scmp.com/tech/big-tech/article/3350755/chinese-tech-giants-advance-robotics-push-sector-sees-rapid-growth" target="_blank" onclick="event.stopPropagation();">Chinese tech giants advance robotics push as sector sees rapid growth</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1334,9 +1455,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://dailyyonder.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Daily Yonder" class="news-favicon">
-                                    <a href="https://dailyyonder.com" target="_blank" onclick="event.stopPropagation();">The Daily Yonder</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.scmp.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="South China Morning Post" class="news-favicon">
+                                    <a href="https://www.scmp.com" target="_blank" onclick="event.stopPropagation();">South China Morning Post</a>
                                     
                                 </div>
                                 
@@ -1344,126 +1465,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1776670005.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.sunherald.com/news/local/education/article315430264.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://www.sunherald.com/public/latest-news/eu8oon/picture315435203/alternates/LANDSCAPE_1140/JCR+DIbervilleRobotics001.JPG');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.sunherald.com/news/local/education/article315430264.html" target="_blank" onclick="event.stopPropagation();">Coast middle schoolers earn ticket to New Jersey for national robotics competition</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            “It feels very exciting and knowing that we are representing Mississippi gives us a lot of motivation.”
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.sunherald.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Biloxi Sun Herald" class="news-favicon">
-                                    <a href="https://www.sunherald.com" target="_blank" onclick="event.stopPropagation();">Biloxi Sun Herald</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1776679200.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.morningstar.com/news/pr-newswire/20260420sf38043/hyperscale-data-accelerates-michigan-operations-capabilities-for-ai-data-center-and-robotics-hub', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.morningstar.com/news/pr-newswire/20260420sf38043/hyperscale-data-accelerates-michigan-operations-capabilities-for-ai-data-center-and-robotics-hub" target="_blank" onclick="event.stopPropagation();">Hyperscale Data Accelerates Michigan Operations Capabilities for AI Data Center and Robotics Hub</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.morningstar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Morningstar" class="news-favicon">
-                                    <a href="https://www.morningstar.com" target="_blank" onclick="event.stopPropagation();">Morningstar</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1776679200.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://pulse2.com/skild-ai-acquires-zebra-technologies-robotics-automation-business/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://cdn.pulse2.com/cdn/2026/04/Skild-AI-Logo.jpeg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://pulse2.com/skild-ai-acquires-zebra-technologies-robotics-automation-business/" target="_blank" onclick="event.stopPropagation();">Skild AI Acquires Zebra Technologies’ Robotics Automation Business</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Skild AI announced it has acquired the Robotics Automation business of Zebra Technologies, including its Symmetry Fulfillment orchestration platform, in a move aimed at transforming warehouse automation into a unified, scalable system.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://pulse2.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Pulse 2.0" class="news-favicon">
-                                    <a href="https://pulse2.com" target="_blank" onclick="event.stopPropagation();">Pulse 2.0</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1776682277.0"></span>
+                                    <span data-timestamp="1776690012.0"></span>
                                 </div>
                                 
                             </div>
@@ -1512,14 +1514,14 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/04/20/world/europe/ukraine-russia-war-robots-drones.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://dailyyonder.com/alabama-considers-robotics-to-augment-rural-obstetrics-care/2026/04/20/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.nytimes.com/2026/04/20/world/europe/ukraine-russia-war-robots-drones.html" target="_blank" onclick="event.stopPropagation();">The Killer Robots Are Coming. The Battlefield Will Never Look the Same.</a>
+                            <a href="https://dailyyonder.com/alabama-considers-robotics-to-augment-rural-obstetrics-care/2026/04/20/" target="_blank" onclick="event.stopPropagation();">Alabama Considers Robotics to Augment Rural Obstetrics Care</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1531,9 +1533,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The New York Times" class="news-favicon">
-                                    <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://dailyyonder.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Daily Yonder" class="news-favicon">
+                                    <a href="https://dailyyonder.com" target="_blank" onclick="event.stopPropagation();">The Daily Yonder</a>
                                     
                                 </div>
                                 
@@ -1541,7 +1543,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1776675773.0"></span>
+                                    <span data-timestamp="1776670005.0"></span>
                                 </div>
                                 
                             </div>
@@ -1569,7 +1571,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-04-20T13:45:04.088135+00:00">Updated 2026-04-20T13:45:04.088135+00:00</small>
+        <small data-timestamp="2026-04-20T15:16:48.118103+00:00">Updated 2026-04-20T15:16:48.118103+00:00</small>
     </div>
 </div>
 

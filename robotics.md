@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-20T13:45:10.239564+00:00'
+updated: '2026-04-20T15:16:49.446496+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 20, 2026 at 13:45 UTC  
+**Last Updated:** April 20, 2026 at 15:16 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,19 +32,19 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[2026 robot half marathon fail & fun compilation](https://www.reddit.com/r/robotics/comments/1sqd2ag/2026_robot_half_marathon_fail_fun_compilation/)**
-
-From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2045896309765288179
-
-10h ago
-
----
-
 **[Little Robots Join the Half-Marathon. Some even run decked out in costumes .](https://www.reddit.com/r/robotics/comments/1sqo9f0/little_robots_join_the_halfmarathon_some_even_run/)**
 
 T.Yamazaki on 𝕏: https://x.com/ZappyZappy7/status/2046192595802656933 High Torque Robotics on YouTube: https://www.youtube.com/watch?v=aBe_ceuesEA
 
-1h ago
+2h ago
+
+---
+
+**[2026 robot half marathon fail & fun compilation](https://www.reddit.com/r/robotics/comments/1sqd2ag/2026_robot_half_marathon_fail_fun_compilation/)**
+
+From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2045896309765288179
+
+12h ago
 
 ---
 
@@ -60,7 +60,7 @@ From 小互 on 𝕏: "Feels a bit like F1": https://x.com/xiaohu/status/20457868
 
 Update from the previous post: https://www.reddit.com/r/robotics/comments/1rouerc/first_time_building_a_hobbyist_robot_from_scratch/ Added control since last time, which is actually the easy part with ROS2. I am also surprised by how versatile Dynamixel XL430-W250-T servos are; they even offer current-based position control that mimics the torque control. Hope their higher torque variants get cheaper over time. Made several iterations of the servos and battery arrangement to center the mass (redoing all the urdf is really quite something). Tried a few different walking gaits with IK calculated by ROS2, which I believe is oriented around position control, so a bit difficult to define arbitrary trajectories. Put on kitchen sponge clothes to increase friction on the feet. The previous attempt on all four feet twisted and broke off one leg, so now it sticks with only the two front legs. I think that is also why the back legs felt limp as a few screws went loose in that incident. Anyways, have a few things in mind to fix/try, and always welcome any recommendation: https://github.com/SphericalCowww/CubicDoggo
 
-16h ago
+18h ago
 
 ---
 
@@ -68,13 +68,21 @@ Update from the previous post: https://www.reddit.com/r/robotics/comments/1rouer
 
 They had been working on their designs for years and I don't think they publish proprietary information so how is it that there are so many manufacturers with humanoid and 'Spot-form' robots that seem to be equal or outperform Boston Dynamics?
 
-18h ago
+19h ago
 
 ---
 
 **[Everyone saw the Honour robot win… but nobody noticed what it did right after](https://www.reddit.com/r/robotics/comments/1spy9lg/everyone_saw_the_honour_robot_win_but_nobody/)**
 
-20h ago
+22h ago
+
+---
+
+**[What's your take on AI-generated environments for sim-to-real? HY-World 2.0 skips the video→3DGS→mesh chain entirely](https://www.reddit.com/r/robotics/comments/1sqivfr/whats_your_take_on_aigenerated_environments_for/)**
+
+Tencent just open-sourced HY-World 2.0 (https://github.com/Tencent-Hunyuan/HY-World-2.0). The key difference from video world models like Genie 3 or Cosmos is that it outputs real 3D assets (meshes, 3DGS) that you can import into Isaac Sim, Unity, Unreal, not just pixel videos. I've spent time trying to go from video world models → 3DGS → meshes and the information loss along the way is brutal. You end up with hole-y environments full of weird artifacts. WorldLabs' Marble was better because it generates 3DGS directly, but then the mesh conversion still sucked. I built my own conversion pipeline for their outputs and still wasn't happy with it. HY-World 2.0 skipping that whole chain and outputting usable 3D directly is a big deal if the quality holds up. For robotics sim specifically: this could be solid for fast environment generation and domain randomization. If you need a bunch of varied training environments quickly, this kind of tool gets you there. It won't replace handcrafted digital twins for teams that need hyperrealistic sim-to-real fidelity, but for the "I need 200 warehouse variations for my policy to generalize" use case, it could be a real speedup. Anyone else tried running the WorldMirror 2.0 reconstruction yet? Curious how the outputs actually look in a sim engine.
+
+7h ago
 
 ---
 
@@ -82,13 +90,13 @@ They had been working on their designs for years and I don't think they publish 
 
 Ali Kashani, founder and CEO of Serve Robotics and former head of robotics at Postmates X, has spent years deploying autonomous delivery robots in active urban environments. He mentions systems built only in controlled settings are based on assumptions. Once robots operate in public, those assumptions are tested immediately. People behave unpredictably, environments change, and situations come up that were never accounted for during development. Those conditions shape what actually needs to be solved. They expose gaps that do not appear in lab testing and force teams to prioritize what matters in real use.
 
-17h ago
+19h ago
 
 ---
 
 **[10 months after our first trailer, we are back with a new look at The Odyssey](https://www.reddit.com/r/robotics/comments/1sqo294/10_months_after_our_first_trailer_we_are_back/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -96,15 +104,7 @@ Ali Kashani, founder and CEO of Serve Robotics and former head of robotics at Po
 
 Having a hard time figuring out how to physically mount this little guy to my servo SG-90. Anyone have any suggestions? Apologies if this has been covered, I haven't been able to find anything on the interweb.
 
-1h ago
-
----
-
-**[Honor’s humanoid fully autonomous robot "Lightning" from the Monkey King team won the 2026 Beijing Humanoid Robot Half Marathon on April 19. Among over 100 teams, it finished first with a net time of 50m26s.](https://www.reddit.com/r/robotics/comments/1sphe3h/honors_humanoid_fully_autonomous_robot_lightning/)**
-
-From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2045678855638405436 https://x.com/XRoboHub/status/2045695900434276501
-
-1d ago
+2h ago
 
 ---
 
@@ -118,17 +118,33 @@ Reuters • 1d ago
 
 ---
 
-**[Ukraine Moves to Replace Frontline Soldiers With 25,000 Ground Robots](https://united24media.com/latest-news/ukraine-moves-to-replace-frontline-soldiers-with-25000-ground-robots-18047)**
+**[NVIDIA and QNX target safer robots and medical devices with edge AI](https://www.stocktitan.net/news/BB/qnx-and-nvidia-deepen-collaboration-to-advance-safety-critical-edge-2fpnzowdrzx3.html)**
 
-Ukraine's Defense Ministry plans to contract 25,000 ground robots by mid-2026, aiming for 100% frontline logistics to be automated.
+Using IGX Thor and Halos Safety Stack, the platform combines real-time control with AI, supporting safety certification. Early access is now open.
 
-UNITED24 Media • 23h ago
+Stock Titan • 9h ago
+
+---
+
+**[Tools for Your To Do List with Spot and Gemini Robotics](https://bostondynamics.com/blog/tools-for-your-to-do-list-with-spot-and-gemini-robotics/)**
+
+A recent demo shows Boston Dynamics Spot in a residential home, using Google’s visual-language model (VLM) Gemini Robotics-ER 1.5 for embodied reasoning.
+
+Boston Dynamics • 9h ago
 
 ---
 
 **[Connecticut’s top-ranked robotics team heading to FIRST World Championship in Texas](https://www.wtnh.com/news/connecticut/hartford/connecticuts-top-ranked-robotics-team-heading-to-first-world-championship-in-texas/)**
 
-WTNH.com • 1h ago
+WTNH.com • 2h ago
+
+---
+
+**[Coco Robotics and BlindSquare Partner to Make City Sidewalks Safer and More Accessible for All](https://www.prnewswire.com/news-releases/coco-robotics-and-blindsquare-partner-to-make-city-sidewalks-safer-and-more-accessible-for-all-302747192.html)**
+
+/PRNewswire/ -- Coco Robotics, the world's largest urban robot delivery platform, and BlindSquare, the world's most widely used accessible GPS app for the...
+
+PR Newswire • 16m ago
 
 ---
 
@@ -136,35 +152,21 @@ WTNH.com • 1h ago
 
 Five fifth-grade students from St. Edward on the Lake Catholic School are headed to an international robotics competition in Atlanta.
 
-Times Herald • 4h ago
+Times Herald • 6h ago
 
 ---
 
-**[Alabama Considers Robotics to Augment Rural Obstetrics Care](https://dailyyonder.com/alabama-considers-robotics-to-augment-rural-obstetrics-care/2026/04/20/)**
+**[Embodied AI Company Booster Robotics Completes Nearly 1 Billion Yuan Financing](https://autonews.gasgoo.com/articles/news/embodied-ai-company-booster-robotics-completes-nearly-1-billion-yuan-financing-2046225660790435840)**
 
-The Daily Yonder • 6h ago
+body { font-size: 16px; line-height: 34px; ...
 
----
-
-**[Coast middle schoolers earn ticket to New Jersey for national robotics competition](https://www.sunherald.com/news/local/education/article315430264.html)**
-
-“It feels very exciting and knowing that we are representing Mississippi gives us a lot of motivation.”
-
-Biloxi Sun Herald • 3h ago
+Gasgoo • 1h ago
 
 ---
 
-**[Hyperscale Data Accelerates Michigan Operations Capabilities for AI Data Center and Robotics Hub](https://www.morningstar.com/news/pr-newswire/20260420sf38043/hyperscale-data-accelerates-michigan-operations-capabilities-for-ai-data-center-and-robotics-hub)**
+**[Chinese tech giants advance robotics push as sector sees rapid growth](https://www.scmp.com/tech/big-tech/article/3350755/chinese-tech-giants-advance-robotics-push-sector-sees-rapid-growth)**
 
-Morningstar • 3h ago
-
----
-
-**[Skild AI Acquires Zebra Technologies’ Robotics Automation Business](https://pulse2.com/skild-ai-acquires-zebra-technologies-robotics-automation-business/)**
-
-Skild AI announced it has acquired the Robotics Automation business of Zebra Technologies, including its Symmetry Fulfillment orchestration platform, in a move aimed at transforming warehouse automation into a unified, scalable system.
-
-Pulse 2.0 • 2h ago
+South China Morning Post • 2h ago
 
 ---
 
@@ -172,13 +174,13 @@ Pulse 2.0 • 2h ago
 
 Four students from Greer Middle College, known as the "Wubba Duckies," are advancing to the VEX Robotics World Championship next week after months of preparation and a co-state championship win.
 
-WYFF News 4 • 1h ago
+WYFF News 4 • 3h ago
 
 ---
 
-**[The Killer Robots Are Coming. The Battlefield Will Never Look the Same.](https://www.nytimes.com/2026/04/20/world/europe/ukraine-russia-war-robots-drones.html)**
+**[Alabama Considers Robotics to Augment Rural Obstetrics Care](https://dailyyonder.com/alabama-considers-robotics-to-augment-rural-obstetrics-care/2026/04/20/)**
 
-The New York Times • 4h ago
+The Daily Yonder • 7h ago
 
 ---
 
@@ -192,7 +194,7 @@ Physical Intelligence is building a foundation model that can control any robot 
 
 📺 Y Combinator
 
-👁️ 45K • 👍 1K • 💬 57 • ⏱️ 49:27 • 3d ago
+👁️ 45K • 👍 1K • 💬 57 • ⏱️ 49:27 • 4d ago
 
 ---
 
@@ -232,7 +234,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 85K • 👍 2K • 💬 321 • ⏱️ 4:16 • 5d ago
+👁️ 85K • 👍 2K • 💬 321 • ⏱️ 4:16 • 6d ago
 
 ---
 
@@ -282,7 +284,7 @@ The introduction of AI Visual inspections expanded what Spot and Orbit could tel
 
 📺 Boston Dynamics
 
-👁️ 47K • 👍 2K • 💬 131 • ⏱️ 1:40 • 5d ago
+👁️ 47K • 👍 2K • 💬 131 • ⏱️ 1:40 • 6d ago
 
 ---
 
