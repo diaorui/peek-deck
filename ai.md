@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-20T10:16:01.042199+00:00'
+updated: '2026-04-20T11:52:00.432235+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - videos
 - repositories
 - social
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 20, 2026 at 10:16 UTC  
+**Last Updated:** April 20, 2026 at 11:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 A new study from UCLA, MIT, Oxford, and Carnegie Mellon gave 1,222 people AI assistants for cognitive tasks — then pulled the plug midway through. The results: - After ~10 minutes of AI-assisted problem solving, people who lost access to AI performed **worse** than those who never had it - They didn't just get more wrong answers — they **stopped trying altogether** - The effect showed up across math AND reading comprehension - Ran 3 separate experiments (350 → 670 → full cohort). Same result every time. The researchers call it the "boiling frog" effect — each AI interaction feels costless, but your cognitive muscles are quietly atrophying. The UCLA co-author warns this could create "a generation of learners who will not know what they're capable of." Study hasn't been peer-reviewed yet, but the sample size is solid and it's the first causal (not correlational) evidence of AI-induced cognitive decline. The uncomfortable question: if 10 minutes is enough to measurably damage independent performance, what does months of daily use do? Full breakdown → https://synvoya.com/blog/2026-04-20-ai-boiling-frog-cognition-study/ Be honest — have you noticed yourself giving up faster on problems since you started using AI daily? https://preview.redd.it/xm3dil38e9wg1.jpg?width=2752&format=pjpg&auto=webp&s=4cec0fb89dbc1c8bfa303e06ec9622bb48bfc9ae
 
-7h ago
+9h ago
 
 ---
 
@@ -49,7 +49,7 @@ A new study from UCLA, MIT, Oxford, and Carnegie Mellon gave 1,222 people AI ass
 
 Why on earth would you pay $49/mo for a polished Saas product when you can spend $500 a day building one for yourself in Claude. Absolute insanity if you ask me. The End of Software.
 
-14h ago
+15h ago
 
 ---
 
@@ -57,7 +57,7 @@ Why on earth would you pay $49/mo for a polished Saas product when you can spend
 
 The company has won major Pentagon contracts, including work on Project Maven, an AI‑driven targeting and surveillance program.
 
-🔗 [Newsweek](https://www.newsweek.com/us-draft-update-major-tech-company-urges-universal-national-service-11850885) • 12h ago
+🔗 [Newsweek](https://www.newsweek.com/us-draft-update-major-tech-company-urges-universal-national-service-11850885) • 13h ago
 
 ---
 
@@ -65,7 +65,7 @@ The company has won major Pentagon contracts, including work on Project Maven, a
 
 Some experts argue that AI was just used as an excuse for poor business decisions.
 
-🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/tech-industry-lays-off-nearly-80-000-employees-in-the-first-quarter-of-2026-almost-50-percent-of-affected-positions-cut-due-to-ai) • 18h ago
+🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/tech-industry-lays-off-nearly-80-000-employees-in-the-first-quarter-of-2026-almost-50-percent-of-affected-positions-cut-due-to-ai) • 20h ago
 
 ---
 
@@ -73,7 +73,7 @@ Some experts argue that AI was just used as an excuse for poor business decision
 
 The New York Times: "The program found that nearly 20 percent of the novels had been substantially written by A.I. Looking mostly at novels released between 2024 and 2025, Chakrabarty saw a 41 percent jump year-over-year in how many novels in his random sample contained a large amount of A.I. generated text"
 
-11h ago
+13h ago
 
 ---
 
@@ -81,7 +81,7 @@ The New York Times: "The program found that nearly 20 percent of the novels had 
 
 I strongly believe that compute access is doing more to shape AI progress right now than any algorithmic insight - not because ideas don't matter but because you literally cannot test big ideas without big compute and only a handful of organizations have that. everyone else is fighting over scraps or fine tuning someone else's foundation model. Am i wrong or does this feel accurate to people working in the field? Curious to know what you think
 
-3h ago
+5h ago
 
 ---
 
@@ -89,15 +89,7 @@ I strongly believe that compute access is doing more to shape AI progress right 
 
 If you're getting started with running local LLMs on a Mac (M1 or newer), here’s a rough breakdown of what you can expect based on RAM: 32–64 GB RAM Models: Qwen 3.6, Gemma 4 Performance: Comparable to Claude Sonnet-level models Good for: Daily use, coding help, lightweight agents ~128 GB RAM Models: Minimax M2.7 (and similar mid-large models) Performance: Around Claude Opus-level Good for: Heavier reasoning, longer context tasks 256 GB+ RAM Models: GLM 5.1 Performance: Near top-tier proprietary models Good for: Advanced research workflows, complex agents Notes: Apple Silicon (M1 and above) works surprisingly well thanks to unified memory Metal acceleration keeps improving performance across frameworks The local LLM ecosystem is evolving fast expect new models and optimizations every week Running models locally is becoming more practical by the day. If you’ve been on the fence, now’s a good time to start experimenting.
 
-1h ago
-
----
-
-**[Finance industry in the future with AI taking over most skills?](https://www.reddit.com/r/artificial/comments/1sq7ajg/finance_industry_in_the_future_with_ai_taking/)**
-
-Hello everyone, i'm an aspiring finance executive (or really anything good within the world of finance), and lately i've been wondering how the finance industry is going to look in the future thanks to AI. I've been getting more into finance recently and seeing the kind of work that is done in the industry (stuff such as HFT, financial modeling, etc...) and also been seeing how AI is getting better at doing that kind of work at a very fast rate, not quite there to be left out on its own right now but making noticeable improvements. Because I haven't started working at all yet (still modeling what I want to do with my life and professional growth in the future), I am basically forced to look to the future, so that has left me with the main question here: How exactly is the financial industry going to change and what exactly will humans have left to do in it? I'm asking so I can start working more on those skills earlier, instead of wasting time on perfecting skills that AI is largely going to take over.
-
-11h ago
+3h ago
 
 ---
 
@@ -105,15 +97,23 @@ Hello everyone, i'm an aspiring finance executive (or really anything good withi
 
 Hey everyone, I’ve been diving into advanced workflow orchestration lately—working with tools like LangChain / LangGraph, AWS Step Functions, and concepts like fuzzy canonicalization. I’m trying to get a broader, more future-proof understanding of this space. What other tools, patterns, or concepts would you recommend I explore next? Could be anything from orchestration, distributed systems, LLM infra, or production best practices. Would love to hear what’s been valuable in your experience.
 
-6h ago
+8h ago
 
 ---
 
-**[The sweet spot for AI-assisted writing is 50%](https://www.reddit.com/r/artificial/comments/1sqk2ol/the_sweet_spot_for_aiassisted_writing_is_50/)**
+**[Finance industry in the future with AI taking over most skills?](https://www.reddit.com/r/artificial/comments/1sq7ajg/finance_industry_in_the_future_with_ai_taking/)**
 
-I've been running AI detection on the AI-assisted things I post. The pattern is consistent - it comes back 50% +/- 5% every time. I've started to think that this range is the target. 99% AI reads as outsourced. No stakes, no voice, no judgment. Any prompt could have produced it. That's the slop readers are learning to spot on sight, and rightly so. 0% AI is worse than people realize. You're leaving capability on the table. Your thoughts are only as clear as your first pass of typing. You lose the editorial distance a second party provides. You lose the structural scaffolding that makes complex arguments legible. For most people trying to write publicly, 0% reads as muddled because humans under time pressure tend to be muddled. High-AI is at least organized. 0% is often just rough. 50% is the handshake. AI does what AI does well: structure, breadth, holding many threads, proposing angles the human didn't think of. The human does what humans do well: voice, stakes, specific examples, judgment about what to keep and cut, and the last pass. Neither dominates. The seams are visible if you scan for them, but the voice reads as one person because the human holds authorship. The prompt isn't where the work happens. The prompt is mostly done in the GPT or Project design upstream. That's where you upload your corpus, your writing samples, your personality profile, your style rules, your domain expertise. By the time you're typing a message in a session, the heavy lift is already done. The AI isn't generating text in a void, it's reflecting back an organized version of what you've already fed it. Which is why "show me the prompt" is such a good challenge for those who comment "AI-slop" simply because a piece is polished. They assume a single magic prompt produced the output. It didn't. The prompt that produced it was the person who spent months building the GPT, Gem, or Project in the first place, then edited the output to feel right. This isn't amplification. Amplification suggests volume, and that's not what good AI assistance does. It's more like extension. You take what a person actually knows, thinks, and has lived through, and you extend it into forms that first-pass typing can't reach. Long-form arguments. Structural consistency across many pieces of writing. The ability to hold fifteen threads visible at once instead of one. Your voice stays your voice. What changes is what you can do with it. Dead internet theory says most of what's online is AI-generated content talking to AI-generated content with humans at the margins. That future is coming whether we like it or not. The humans who'll still be legible through the noise will be the ones whose AI assistance is visibly downstream of something real. A corpus of actual thought. Years of specific domain expertise. A distinctive voice the AI was trained to reflect rather than replace. 50% output is what that looks like in practice. To build an AI voice replicator well, three things have to be in place: Content matters. You have to actually know what you're talking about. The AI can organize your thinking. It can't replace it. If you try to generate opinions you don't hold, you'll get generic writing that sounds plausible and means nothing. Structure matters. AI is exceptional at structure. This is where it earns its keep. Outlines, arguments that build, transitions, callbacks, the scaffolding that holds a long piece together. Voice matters. Voice is still the human's job. Specific word choices, cadence, tics, the small register shifts that make writing feel like someone. Every system's default voice is smooth and anonymous. If you don't put your voice back in, whatever comes out will read as the platform, not you. Get all three right and you land in the 50% range without trying. Miss any of them and the scanner will tell you which direction you missed in. AI-assistance matters. It's a real thing. Pretending otherwise is the same mistake as pretending spellcheck doesn't matter, or pretending Google doesn't matter. The tools shape the writing. What's new is that the tool can now hold structure at the scale of a whole essay, not just a sentence. When the internet dies properly and every post is suspect, the people who still read as real will be the ones whose method was legible and whose substance was their own. Build the project well, do the actual thinking, edit, fine-tune, and post at 50%. Humanize button? Nah.. Collaborate button. . (btw, this post gets 54% AI on undetectable)
+Hello everyone, i'm an aspiring finance executive (or really anything good within the world of finance), and lately i've been wondering how the finance industry is going to look in the future thanks to AI. I've been getting more into finance recently and seeing the kind of work that is done in the industry (stuff such as HFT, financial modeling, etc...) and also been seeing how AI is getting better at doing that kind of work at a very fast rate, not quite there to be left out on its own right now but making noticeable improvements. Because I haven't started working at all yet (still modeling what I want to do with my life and professional growth in the future), I am basically forced to look to the future, so that has left me with the main question here: How exactly is the financial industry going to change and what exactly will humans have left to do in it? I'm asking so I can start working more on those skills earlier, instead of wasting time on perfecting skills that AI is largely going to take over.
 
-1h ago
+13h ago
+
+---
+
+**[Canada gave one AI startup $240M in a single grant — more than 66% of what 107 companies received over 7 years](https://www.reddit.com/r/artificial/comments/1sq1gda/canada_gave_one_ai_startup_240m_in_a_single_grant/)**
+
+Discover the magic of the internet at Imgur, a community powered entertainment destination. Lift your spirits with funny jokes, trending memes, entertaining gifs, inspiring stories, viral videos, and so much more from users.
+
+🔗 [Imgur](https://i.imgur.com/cyY0cxE.png) • 17h ago
 
 ---
 
@@ -125,71 +125,69 @@ I've been running AI detection on the AI-assisted things I post. The pattern is 
 
 In the 1980s, economist Robert Solow made an observation that reminded economists of today’s AI boom: “You can see the computer age everywhere but in the productivity statistics.”
 
-Fortune • 19h ago
+Fortune • 20h ago
 
 ---
 
-**[AI startup Cursor in talks to raise $2 billion funding round at valuation of over $50 billion](https://www.cnbc.com/2026/04/19/cursor-ai-2-billion-funding-round.html)**
+**[Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain](https://thehackernews.com/2026/04/anthropic-mcp-design-vulnerability.html)**
 
-Artificial intelligence startup Cursor in talks to raise a $2 billion fundraising round at an over $50 billion valuation, which does not include the investment.
+MCP design flaw enables RCE across 7,000+ servers and 150M downloads, impacting AI SDKs and supply chains.
 
-CNBC • 12h ago
+The Hacker News • 1h ago
+
+---
+
+**[Buy this cybersecurity stock as agentic AI grows, Barclays says](https://www.cnbc.com/2026/04/20/buy-this-cybersecurity-stock-as-agentic-ai-grows-barclays-says.html)**
+
+The bank upgraded the cybersecurity software stock to overweight from equal weight.
+
+CNBC • 47m ago
+
+---
+
+**[‘Technofascism’: Critics accuse Palantir of pushing AI war doctrine](https://www.aljazeera.com/news/2026/4/20/technofascism-critics-accuse-palantir-of-pushing-ai-war-doctrine)**
+
+Palantir CEO Alexander Karp's book The Technological Republic advocates for Western 'hard power ... built on software'.
+
+Al Jazeera • 1h ago
+
+---
+
+**[Marvell shares gain on report of deal talks with Google to develop two AI chips](https://www.reuters.com/business/marvell-shares-gain-report-deal-talks-with-google-develop-two-ai-chips-2026-04-20/)**
+
+Reuters • 56m ago
+
+---
+
+**[Nvidia Stock Falls. Why It’s Still ‘Leading the Charge’ in AI Chips.](https://www.barrons.com/articles/nvidia-stock-price-ai-chips-c8594bf7)**
+
+Barron's • 8m ago
+
+---
+
+**[Google Eyes New Chips to Speed Up AI Results, Challenging Nvidia](https://www.bloomberg.com/news/features/2026-04-20/google-eyes-new-chips-to-speed-up-ai-results-challenging-nvidia)**
+
+Bloomberg.com • 1h ago
 
 ---
 
 **[Axios C-Suite: Your org chart for the AI era](https://www.axios.com/2026/04/20/ai-business-org-chart-power-users-chatgpt-claude)**
 
-Axios • 14m ago
+Axios • 1h ago
 
 ---
 
-**[AI chatbots could be making you stupider](https://www.bbc.com/future/article/20260417-ai-chatbots-could-be-making-you-stupider)**
+**[Marc Benioff Says the Software Bears Are All Wrong About Salesforce](https://www.wsj.com/tech/ai/marc-benioff-says-the-software-bears-are-all-wrong-about-salesforce-c7042852)**
 
-As large language models take over more and more cognitive tasks, researchers are warning this mental outsourcing comes with a cost.
-
-BBC • 1h ago
+WSJ • 9h ago
 
 ---
 
-**[How to Invest in AI Power Now—And What to Avoid](https://www.barrons.com/articles/ai-power-stocks-iran-war-ge-vernova-8f34dfe7)**
+**[AI boom poised to be ‘massively disinflationary’, Northern Trust says](https://www.ft.com/content/7ec229f4-200e-4f34-ba6d-0642397d03e3?syn-25a6b1a6=1)**
 
-Barron's • 21m ago
+Head of financial services group’s $1.4tn asset management division expects new tech to unleash huge productivity gains
 
----
-
-**[Why your AI assistant is suddenly selling to you](https://www.economist.com/business/2026/04/19/why-your-ai-assistant-is-suddenly-selling-to-you)**
-
-The Economist • 1d ago
-
----
-
-**[AI’s Token Economy Revolution Creates New China Tech Winners](https://www.bloomberg.com/news/articles/2026-04-20/ai-s-token-economy-revolution-creates-new-china-tech-winners)**
-
-Bloomberg.com • 6h ago
-
----
-
-**[Morgan Stanley sees agentic AI widening chip spending beyond graphics processors to CPUs](https://finance.yahoo.com/sectors/technology/articles/morgan-stanley-sees-agentic-ai-081758905.html)**
-
-April 20 () - Morgan Stanley said increasingly autonomous artificial intelligence could boost demand for central processing units (CPUs), ‌reshape data center buildout and widen investment beyond ‌the graphic chips that have dominated the AI boom so far. "As AI ​transitions from generation to autonomous action, the computing bottleneck is shifting towards CPU and memory, driving a step-change in general-purpose compute intensity," Morgan Stanley said in a note on ‌Sunday, adding that ⁠demand for
-
-Yahoo Finance • 1h ago
-
----
-
-**[Trump tests his luck with the religious right amid feud with pope and AI Jesus posts](https://www.theguardian.com/us-news/2026/apr/19/trump-religious-right-pope-feud-ai-jesus-posts)**
-
-Trump appears to have crossed a line with his Christian supporters. Will it come back to bite him in the midterms?
-
-The Guardian • 8h ago
-
----
-
-**[Vercel Breach Tied to Context AI Hack Exposes Limited Customer Credentials](https://thehackernews.com/2026/04/vercel-breach-tied-to-context-ai-hack.html)**
-
-Context.ai breach enabled Google Workspace takeover at Vercel, exposing limited customer credentials and prompting $2M data sale claim.
-
-The Hacker News • 6h ago
+Financial Times • 7h ago
 
 ---
 
@@ -199,7 +197,7 @@ The Hacker News • 6h ago
 
 **[College instructor turns to typewriters to curb AI-written work](https://news.ycombinator.com/item?id=47818485)**
 
-⬆️ 471 • 💬 417 • 1d ago • [sentinelcolorado.com](https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/)
+⬆️ 475 • 💬 418 • 1d ago • [sentinelcolorado.com](https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/)
 
 ---
 
@@ -207,7 +205,7 @@ The Hacker News • 6h ago
 
 Police lured the man to a meeting and arrested him after accessing a private WhatsApp group with colleagues
 
-⬆️ 274 • 💬 178 • 21h ago • [LBC](https://www.lbc.co.uk/article/dubai-police-spied-private-whatsapp-5HjdXwr_2/)
+⬆️ 276 • 💬 179 • 22h ago • [LBC](https://www.lbc.co.uk/article/dubai-police-spied-private-whatsapp-5HjdXwr_2/)
 
 ---
 
@@ -231,7 +229,7 @@ AI investment is skyrocketing while AI’s impact on jobs and public perception 
 
 Uber Technologies, Inc is learning the hard way that scaling AI isn't just about speed—it's about cost. Despite spending $3.4 billion on research and development, the company has already exhausted its planned AI budget just months into 2026. According to The Information, Chief Technology Officer Praveen Neppalli Naga said Uber is now "back to the drawing board" after a surge in the use of AI coding tools, particularly Anthropic's Claude Code, has blown past internal expectations. Don't Miss: A s
 
-⬆️ 92 • 💬 93 • 16h ago • [Yahoo Finance](https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html)
+⬆️ 93 • 💬 93 • 17h ago • [Yahoo Finance](https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html)
 
 ---
 
@@ -239,13 +237,13 @@ Uber Technologies, Inc is learning the hard way that scaling AI isn't just about
 
 In the 1980s, economist Robert Solow made an observation that reminded economists of today’s AI boom: “You can see the computer age everywhere but in the productivity statistics.”
 
-⬆️ 82 • 💬 75 • 12h ago • [Fortune](https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/)
+⬆️ 82 • 💬 75 • 13h ago • [Fortune](https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/)
 
 ---
 
 **[Swiss AI Initiative (2023)](https://news.ycombinator.com/item?id=47828444)**
 
-⬆️ 71 • 💬 25 • 11h ago • [Swiss AI](https://www.swiss-ai.org)
+⬆️ 82 • 💬 25 • 12h ago • [Swiss AI](https://www.swiss-ai.org)
 
 ---
 
@@ -269,7 +267,7 @@ Defunct companies are striking gold by selling their digital footprints to AI la
 
 Why public hostility toward AI may feel visceral, including mismatch, disgust, danger avoidance, mortality salience, and design consistency.
 
-⬆️ 40 • 💬 66 • 9h ago • [LocalScribe](https://localscribe.co/posts/uncanny-valley-and-rising-power-of-anti-ai-sentiment/)
+⬆️ 40 • 💬 69 • 11h ago • [LocalScribe](https://localscribe.co/posts/uncanny-valley-and-rising-power-of-anti-ai-sentiment/)
 
 ---
 
@@ -283,7 +281,7 @@ So much of the hype around AI is due to its supposed "superintelligence". Suppos
 
 📺 Cole Hastings
 
-👁️ 78K • 👍 4K • 💬 781 • ⏱️ 17:36 • 18h ago
+👁️ 78K • 👍 4K • 💬 781 • ⏱️ 17:36 • 19h ago
 
 ---
 
@@ -293,7 +291,7 @@ Abacus AI just showed something that feels a lot bigger than another flashy AI d
 
 📺 AI Revolution
 
-👁️ 8K • 👍 364 • 💬 25 • ⏱️ 13:18 • 12h ago
+👁️ 8K • 👍 364 • 💬 25 • ⏱️ 13:18 • 14h ago
 
 ---
 
@@ -313,7 +311,7 @@ in this video, we break down the rumored GPT-5.5 “pro” model from OpenAI and
 
 📺 WorldofAI
 
-👁️ 8K • 👍 272 • 💬 30 • ⏱️ 10:27 • 3h ago
+👁️ 8K • 👍 272 • 💬 30 • ⏱️ 10:27 • 5h ago
 
 ---
 
@@ -333,7 +331,7 @@ Ai Skeleton Videos Got Even Worse - Welcome back to another More KeidBoi video! 
 
 📺 More KeidBoi
 
-👁️ 9K • 👍 693 • 💬 164 • ⏱️ 20:35 • 16h ago
+👁️ 9K • 👍 693 • 💬 164 • ⏱️ 20:35 • 18h ago
 
 ---
 
@@ -343,7 +341,7 @@ This concept shows how AI could assist with baby care in everyday public spaces.
 
 📺 DubAI Baby Official
 
-👁️ 28.9M • 👍 103K • 💬 55 • ⏱️ 0:08 • 20h ago
+👁️ 28.9M • 👍 103K • 💬 55 • ⏱️ 0:08 • 21h ago
 
 ---
 
@@ -373,7 +371,7 @@ AI-generated Bruce Lee performs a classic continuous sequence with smooth transi
 
 📺 TrueKungfuLegacy
 
-👁️ 252K • 👍 2K • 💬 20 • ⏱️ 0:06 • 21h ago
+👁️ 252K • 👍 2K • 💬 20 • ⏱️ 0:06 • 23h ago
 
 ---
 
@@ -401,7 +399,7 @@ HY-Embodied-0.5 is a multilingual vision-language model designed for embodied ag
 
 `image-text-to-text` `3.8B`
 
-⬇️ 1,662 • ❤️ 880 • 5d ago
+⬇️ 1,662 • ❤️ 880 • 6d ago
 
 ---
 
@@ -413,7 +411,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with vision capabilitie
 
 `image-text-to-text` `34.7B`
 
-⬇️ 816,485 • ❤️ 527 • 3h ago
+⬇️ 816,485 • ❤️ 527 • 5h ago
 
 ---
 
@@ -449,7 +447,7 @@ MiniMax-M2.7 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 314,205 • ❤️ 989 • 5h ago
+⬇️ 314,205 • ❤️ 989 • 7h ago
 
 ---
 
@@ -461,7 +459,7 @@ Gemma 4 E4B OBLITERATED v3 is a text-generation model with 0% refusal and improv
 
 `text-generation` `8.0B`
 
-⬇️ 50,701 • ❤️ 364 • 12h ago
+⬇️ 50,701 • ❤️ 364 • 14h ago
 
 ---
 
@@ -643,7 +641,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 48.3k • 🔱 6.3k • 12h ago
+⭐ 48.3k • 🔱 6.3k • 14h ago
 
 ---
 
@@ -663,7 +661,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 36.7k • 🔱 7.4k • 22h ago
+⭐ 36.7k • 🔱 7.4k • 1d ago
 
 ---
 
@@ -683,7 +681,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 8.3k • 🔱 534 • 1h ago
+⭐ 8.3k • 🔱 534 • 2h ago
 
 ---
 

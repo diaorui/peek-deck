@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-20T10:16:01.060126+00:00'
+updated: '2026-04-20T11:52:00.447576+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 20, 2026 at 10:16 UTC  
+**Last Updated:** April 20, 2026 at 11:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2045896309765288179
 
-7h ago
+9h ago
 
 ---
 
@@ -44,7 +44,7 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2045896309765288179
 
 From 小互 on 𝕏: "Feels a bit like F1": https://x.com/xiaohu/status/2045786816213815411
 
-23h ago
+1d ago
 
 ---
 
@@ -52,7 +52,7 @@ From 小互 on 𝕏: "Feels a bit like F1": https://x.com/xiaohu/status/20457868
 
 They had been working on their designs for years and I don't think they publish proprietary information so how is it that there are so many manufacturers with humanoid and 'Spot-form' robots that seem to be equal or outperform Boston Dynamics?
 
-14h ago
+16h ago
 
 ---
 
@@ -60,13 +60,13 @@ They had been working on their designs for years and I don't think they publish 
 
 Update from the previous post: https://www.reddit.com/r/robotics/comments/1rouerc/first_time_building_a_hobbyist_robot_from_scratch/ Added control since last time, which is actually the easy part with ROS2. I am also surprised by how versatile Dynamixel XL430-W250-T servos are; they even offer current-based position control that mimics the torque control. Hope their higher torque variants get cheaper over time. Made several iterations of the servos and battery arrangement to center the mass (redoing all the urdf is really quite something). Tried a few different walking gaits with IK calculated by ROS2, which I believe is oriented around position control, so a bit difficult to define arbitrary trajectories. Put on kitchen sponge clothes to increase friction on the feet. The previous attempt on all four feet twisted and broke off one leg, so now it sticks with only the two front legs. I think that is also why the back legs felt limp as a few screws went loose in that incident. Anyways, have a few things in mind to fix/try, and always welcome any recommendation: https://github.com/SphericalCowww/CubicDoggo
 
-13h ago
+14h ago
 
 ---
 
 **[Everyone saw the Honour robot win… but nobody noticed what it did right after](https://www.reddit.com/r/robotics/comments/1spy9lg/everyone_saw_the_honour_robot_win_but_nobody/)**
 
-17h ago
+19h ago
 
 ---
 
@@ -74,15 +74,7 @@ Update from the previous post: https://www.reddit.com/r/robotics/comments/1rouer
 
 Ali Kashani, founder and CEO of Serve Robotics and former head of robotics at Postmates X, has spent years deploying autonomous delivery robots in active urban environments. He mentions systems built only in controlled settings are based on assumptions. Once robots operate in public, those assumptions are tested immediately. People behave unpredictably, environments change, and situations come up that were never accounted for during development. Those conditions shape what actually needs to be solved. They expose gaps that do not appear in lab testing and force teams to prioritize what matters in real use.
 
-14h ago
-
----
-
-**[What's your take on AI-generated environments for sim-to-real? HY-World 2.0 skips the video→3DGS→mesh chain entirely](https://www.reddit.com/r/robotics/comments/1sqivfr/whats_your_take_on_aigenerated_environments_for/)**
-
-Tencent just open-sourced HY-World 2.0 (https://github.com/Tencent-Hunyuan/HY-World-2.0). The key difference from video world models like Genie 3 or Cosmos is that it outputs real 3D assets (meshes, 3DGS) that you can import into Isaac Sim, Unity, Unreal, not just pixel videos. I've spent time trying to go from video world models → 3DGS → meshes and the information loss along the way is brutal. You end up with hole-y environments full of weird artifacts. WorldLabs' Marble was better because it generates 3DGS directly, but then the mesh conversion still sucked. I built my own conversion pipeline for their outputs and still wasn't happy with it. HY-World 2.0 skipping that whole chain and outputting usable 3D directly is a big deal if the quality holds up. For robotics sim specifically: this could be solid for fast environment generation and domain randomization. If you need a bunch of varied training environments quickly, this kind of tool gets you there. It won't replace handcrafted digital twins for teams that need hyperrealistic sim-to-real fidelity, but for the "I need 200 warehouse variations for my policy to generalize" use case, it could be a real speedup. Anyone else tried running the WorldMirror 2.0 reconstruction yet? Curious how the outputs actually look in a sim engine.
-
-2h ago
+15h ago
 
 ---
 
@@ -94,11 +86,19 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2045678855638405436 http
 
 ---
 
+**[What's your take on AI-generated environments for sim-to-real? HY-World 2.0 skips the video→3DGS→mesh chain entirely](https://www.reddit.com/r/robotics/comments/1sqivfr/whats_your_take_on_aigenerated_environments_for/)**
+
+Tencent just open-sourced HY-World 2.0 (https://github.com/Tencent-Hunyuan/HY-World-2.0). The key difference from video world models like Genie 3 or Cosmos is that it outputs real 3D assets (meshes, 3DGS) that you can import into Isaac Sim, Unity, Unreal, not just pixel videos. I've spent time trying to go from video world models → 3DGS → meshes and the information loss along the way is brutal. You end up with hole-y environments full of weird artifacts. WorldLabs' Marble was better because it generates 3DGS directly, but then the mesh conversion still sucked. I built my own conversion pipeline for their outputs and still wasn't happy with it. HY-World 2.0 skipping that whole chain and outputting usable 3D directly is a big deal if the quality holds up. For robotics sim specifically: this could be solid for fast environment generation and domain randomization. If you need a bunch of varied training environments quickly, this kind of tool gets you there. It won't replace handcrafted digital twins for teams that need hyperrealistic sim-to-real fidelity, but for the "I need 200 warehouse variations for my policy to generalize" use case, it could be a real speedup. Anyone else tried running the WorldMirror 2.0 reconstruction yet? Curious how the outputs actually look in a sim engine.
+
+3h ago
+
+---
+
 **[New Robotis Humanoid](https://www.reddit.com/r/robotics/comments/1spuiai/new_robotis_humanoid/)**
 
 Robotis just revealed their new QDD actuators and their new open source humanoid robot. This robot very closely resembles Unitree G1, but it is totally open source in both hardware and software. I heard that the pricing will be competitive as well.
 
-🔗 [LinkedIn](https://www.linkedin.com/posts/yoonseokpyo_this-is-robotiss-open-source-entry-level-activity-7451595734975557632-eLLl/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEP9kBABMMZZVzJTJhId4-134XyBuXENZws) • 19h ago
+🔗 [LinkedIn](https://www.linkedin.com/posts/yoonseokpyo_this-is-robotiss-open-source-entry-level-activity-7451595734975557632-eLLl/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEP9kBABMMZZVzJTJhId4-134XyBuXENZws) • 21h ago
 
 ---
 
@@ -106,7 +106,7 @@ Robotis just revealed their new QDD actuators and their new open source humanoid
 
 A research team in South Korea created an artificial muscle that can be reshaped during use, recover after damage, and even have part of its material reused in another device.
 
-🔗 [The Brighter Side of News](http://thebrighterside.news/post/reprogrammable-artificial-muscle-can-change-its-shape-recover-from-damage-and-even-be-reused) • 15h ago
+🔗 [The Brighter Side of News](http://thebrighterside.news/post/reprogrammable-artificial-muscle-can-change-its-shape-recover-from-damage-and-even-be-reused) • 16h ago
 
 ---
 
@@ -120,25 +120,39 @@ Reuters • 1d ago
 
 ---
 
-**[Can we make robots that eat other robots?](https://www.ft.com/content/9193ef93-d5b9-4270-b743-e7bb174bb811?syn-25a6b1a6=1)**
+**[Ukraine Moves to Replace Frontline Soldiers With 25,000 Ground Robots](https://united24media.com/latest-news/ukraine-moves-to-replace-frontline-soldiers-with-25000-ground-robots-18047)**
 
-For one group of dogged roboticists, artificial life that can reproduce itself is the future. The fact it doesn’t yet work only adds to the excitement
+Ukraine's Defense Ministry plans to contract 25,000 ground robots by mid-2026, aiming for 100% frontline logistics to be automated.
 
-Financial Times • 2d ago
+UNITED24 Media • 21h ago
 
 ---
 
-**[Tools for Your To Do List with Spot and Gemini Robotics](https://bostondynamics.com/blog/tools-for-your-to-do-list-with-spot-and-gemini-robotics/)**
+**[Coast middle schoolers earn ticket to New Jersey for national robotics competition](https://www.sunherald.com/news/local/education/article315430264.html)**
 
-A recent demo shows Boston Dynamics Spot in a residential home, using Google’s visual-language model (VLM) Gemini Robotics-ER 1.5 for embodied reasoning.
+“It feels very exciting and knowing that we are representing Mississippi gives us a lot of motivation.”
 
-Boston Dynamics • 4h ago
+Biloxi Sun Herald • 1h ago
 
 ---
 
 **[Alabama Considers Robotics to Augment Rural Obstetrics Care](https://dailyyonder.com/alabama-considers-robotics-to-augment-rural-obstetrics-care/2026/04/20/)**
 
-The Daily Yonder • 2h ago
+The Daily Yonder • 4h ago
+
+---
+
+**[Hyperscale Data Accelerates Michigan Operations Capabilities for AI Data Center and Robotics Hub](https://www.morningstar.com/news/pr-newswire/20260420sf38043/hyperscale-data-accelerates-michigan-operations-capabilities-for-ai-data-center-and-robotics-hub)**
+
+Morningstar • 1h ago
+
+---
+
+**[Skild AI Acquires Zebra Technologies’ Robotics Automation Business](https://pulse2.com/skild-ai-acquires-zebra-technologies-robotics-automation-business/)**
+
+Skild AI announced it has acquired the Robotics Automation business of Zebra Technologies, including its Symmetry Fulfillment orchestration platform, in a move aimed at transforming warehouse automation into a unified, scalable system.
+
+Pulse 2.0 • 1h ago
 
 ---
 
@@ -146,19 +160,19 @@ The Daily Yonder • 2h ago
 
 Five fifth-grade students from St. Edward on the Lake Catholic School are headed to an international robotics competition in Atlanta.
 
-Times Herald • 1h ago
+Times Herald • 3h ago
 
 ---
 
-**[Hyperscale Data Issues Strategic Statement by Its Executive Chairman on Omnipresent Robotics and U.S. Based Robotics Infrastructure and Embodied AI Development](https://www.morningstar.com/news/pr-newswire/20260420sf38045/hyperscale-data-issues-strategic-statement-by-its-executive-chairman-on-omnipresent-robotics-and-us-based-robotics-infrastructure-and-embodied-ai-development)**
+**[NAB 2026: EVS introduces Choreon robotics orchestration platform for unified production control](https://www.sportsvideo.org/2026/04/20/nab-2026-evs-introduces-choreon-robotics-orchestration-platform-for-unified-production-control/)**
 
-Morningstar • 2h ago
+Sports Video Group • 54m ago
 
 ---
 
 **[FAMU Hosted Global High School Stem Athletes Who Competed To Qualify For First® International Robotics Championship - Florida A&M University](https://news.famu.edu/2025/famu-hosted-global-high-school-stem-athletes-who-competed-to-qualify-for-first-international-robotics-championship.php)**
 
-Florida A&M University - FAMU • 15h ago
+Florida A&M University - FAMU • 16h ago
 
 ---
 
@@ -166,23 +180,7 @@ Florida A&M University - FAMU • 15h ago
 
 Several robot frontrunners were noticeably faster than professional athletes, beating the human winners by more than 10 minutes.
 
-NBC News • 3h ago
-
----
-
-**[Italy’s Wearable Robotics raises €5 million in Series A](https://evertiq.com/news/2026-04-20-italys-wearable-robotics-raises-5-million-in-series-a)**
-
-The capital will be used to enhance the product portfolio and boost commercial development. Over 50 units of ALEX RS, a device for neuromotor rehabilitation of the upper limb, have already been installed internationally.
-
-Evertiq • 15m ago
-
----
-
-**[Neptune Robotics Invests US$12mn in New Singapore Factory to Drive Five-Fold Increase in Autonomous Ship Hull Cleanings](https://www.prnewswire.com/apac/news-releases/neptune-robotics-invests-us12mn-in-new-singapore-factory-to-drive-five-fold-increase-in-autonomous-ship-hull-cleanings-302746872.html)**
-
-/PRNewswire/ -- Neptune Robotics ("Neptune"), a pioneer in AI-powered robotic hull cleaning services with a presence in 61 ports across Singapore and China,...
-
-PR Newswire • 5h ago
+NBC News • 5h ago
 
 ---
 

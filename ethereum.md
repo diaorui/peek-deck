@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-20T10:16:01.056919+00:00'
+updated: '2026-04-20T11:52:00.444839+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
 - videos
-- social
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 20, 2026 at 10:16 UTC  
+**Last Updated:** April 20, 2026 at 11:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.6%  
-**7d:** -0.3%  
-**30d:** +12.8%  
-**90d:** -22.6%  
-**1y:** +46.5%  
+**24h:** -0.8%  
+**7d:** -0.4%  
+**30d:** +12.7%  
+**90d:** -22.7%  
+**1y:** +46.3%  
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+6h ago
 
 ---
 
 **[84% of Polymarket users are trading at a loss.](https://www.reddit.com/r/ethereum/comments/1sqa9xi/84_of_polymarket_users_are_trading_at_a_loss/)**
 
-9h ago
+11h ago
 
 ---
 
@@ -110,13 +110,13 @@ Feels kinda bigger than a normal crypto meetup tbh Ethereum getting a real physi
 
 Do you guys find smaller communities better than larger ones when it comes to actual discussions? In bigger groups, there’s always activity, but a lot of conversations feel surface-level or get lost quickly. In smaller communities, it seems easier to follow discussions, people engage more, and ideas actually develop over time. I’ve been noticing that difference more lately — feels like smaller groups tend to be more consistent, and people actually talk rather than just dropping messages and disappearing. At the same time, larger communities do have the advantage of more perspectives and faster information flow. Curious what others prefer — fast-moving large communities, or smaller groups where discussions are more focused and interactive
 
-11h ago
+13h ago
 
 ---
 
 **[Key Takeaways from Mike Toutonghi’s Paris Blockchain Week 2026 Keynote](https://www.reddit.com/r/ethereum/comments/1sps1nj/key_takeaways_from_mike_toutonghis_paris/)**
 
-21h ago
+23h ago
 
 ---
 
@@ -146,19 +146,11 @@ Hello everyone. I recently built an Ethereum page that shows how Ethereum would 
 
 ## Google News: "ethereum"
 
-**[Ethereum Just Saw Its Strongest Buy Pressure Since The 2022 Bear Market](https://www.tradingview.com/news/newsbtc:b909d05cc094b:0-ethereum-just-saw-its-strongest-buy-pressure-since-the-2022-bear-market/)**
-
-Ethereum has posted its strongest buy-side pressure on derivatives markets since the 2022 bear market, according to CryptoQuant analyst Darkfost, a shift that could matter after months of persistent sell-side dominance across this cycle. The change does not, on its own, confirm a full trend reversa…
-
-TradingView • 1h ago
-
----
-
 **[Ethereum Price Prediction: How Much Will 1 ETH Be Worth by 2030?](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-prediction-much-1-175358502.html)**
 
 Ethereum (CRYPTO: ETH) is trading around $2,350 after one of its worst quarters in years. ETH dipped by 32% in Q1, marking its third-worst first quarter since 2016. Despite the awful first quarter, Ethereum’s on-chain activity keeps hitting record highs in 2026, and ETH is up 6% over the past week. Looking at the long ... Ethereum Price Prediction: How Much Will 1 ETH Be Worth by 2030?
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -174,7 +166,7 @@ CoinDesk • 1d ago
 
 Why I withdrew every dollar from Aave V3 this weekend, and what every USDT, USDC, and ETH lender should be watching before they decide to stay.
 
-thestreet.com • 14h ago
+thestreet.com • 15h ago
 
 ---
 
@@ -183,6 +175,22 @@ thestreet.com • 14h ago
 Bitmine Immersion’s ETH staking drives 97%+ gross margins and surging revenue, but dilution and negative cash flow raise risks. Read why BMNR stock is a buy.
 
 Seeking Alpha • 1d ago
+
+---
+
+**[Ethereum Flips Key Resistance, ETF Demand Returns, Analysts Eye Next Leg Higher](https://www.tradingview.com/news/newsbtc:acbe10895094b:0-ethereum-flips-key-resistance-etf-demand-returns-analysts-eye-next-leg-higher/)**
+
+Ethereum is flashing a combination of technical and on-chain signals that analysts say could be the beginning of a meaningful recovery. For the first time in months, the structure of Ethereum’s price action appears to be shifting in the favor of bulls.The latest price action has brought the ETH pri…
+
+TradingView • 17h ago
+
+---
+
+**[Kevin O'Leary Says Bitcoin, Ethereum Give Him Almost All Of Crypto Exposure: 'I Cut The Garbage And Kept](https://www.benzinga.com/crypto/cryptocurrency/26/04/51904801/kevin-oleary-bitcoin-ethereum-crypto-exposure-cut-altcoins-kept-what-works)**
+
+Renowned investor&nbsp;and media personality Kevin O'Leary said Sunday that investors only need Bitcoin (CRYPTO: BTC) and Ethereum
+
+Benzinga • 6h ago
 
 ---
 
@@ -198,29 +206,19 @@ Crypto investors have watched Ethereum (CRYPTO:ETH) trade in a narrow range near
 
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) surged more than 4%, 3% and 5% in the previous week.
 
-FXStreet • 6h ago
+FXStreet • 8h ago
 
 ---
 
 **[Ethereum staking crosses 32% – Yet ETH still lacks ONE KEY driver](https://ambcrypto.com/ethereum-staking-crosses-32-yet-eth-still-lacks-one-key-driver/)**
 
-AMBCrypto • 8h ago
+AMBCrypto • 9h ago
 
 ---
 
-**[Crypto Whale Moves $225 Million USDC Before Pulling $77.52 Million Ethereum](https://www.benzinga.com/crypto/cryptocurrency/26/04/51902585/crypto-whale-moves-225-million-usdc-before-pulling-77-52-million-ethereum)**
+**[Investors Buy the Dip: Grayscale’s Ethereum Mini Trust Draws Fresh Cash as ETH Stumbles](https://www.tipranks.com/news/cryptocurrencies/investors-buy-the-dip-grayscales-ethereum-mini-trust-draws-fresh-cash-as-eth-stumbles)**
 
-A crypto whale tracked as 0xeCE7 shifted $225 million in USDC onto Binance, Bybit, and Deribit and then pulled 32,007 Ethereum (CRYPTO: ETH
-
-Benzinga • 1d ago
-
----
-
-**[AAVE TVL drops $8.4B after KelpDAO exploit, DeFi TVL down $13.2B](https://cryptobriefing.com/aave-tvl-drops-84b-after-kelpdao-exploit-defi-tvl-down-132b/)**
-
-Aave's Total Value Locked dropped by $8.4 billion after the KelpDAO exploit, with Ethereum reaching $10,000 by December 31, 2026 at 4% YES.
-
-Crypto Briefing • 5h ago
+TipRanks • 1h ago
 
 ---
 
@@ -244,7 +242,7 @@ Welcome back for another daily market update as always this will be a jam packed
 
 📺 AllinCrypto
 
-👁️ 15K • 👍 774 • 💬 364 • ⏱️ 19:21 • 21h ago
+👁️ 15K • 👍 774 • 💬 364 • ⏱️ 19:21 • 23h ago
 
 ---
 
@@ -264,7 +262,7 @@ BITCOIN & ALTCOIN PULLBACK: New Targets Revealed!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 4K • 👍 243 • 💬 355 • ⏱️ 21:18 • 8h ago
+👁️ 4K • 👍 243 • 💬 355 • ⏱️ 21:18 • 10h ago
 
 ---
 
@@ -294,7 +292,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 32 • 👍 2 • ⏱️ 4:37 • 48m ago
+👁️ 32 • 👍 2 • ⏱️ 4:37 • 2h ago
 
 ---
 
@@ -304,7 +302,7 @@ Daily BTC, ETH, TSLA trades. Subscribe. Bybit bonus up to $30000 https://partner
 
 📺 James Crypto Guru
 
-👁️ 1K • 👍 120 • 💬 8 • ⏱️ 14:01 • 10h ago
+👁️ 1K • 👍 120 • 💬 8 • ⏱️ 14:01 • 12h ago
 
 ---
 
@@ -314,7 +312,7 @@ Ethereum (ETH) is entering a new "Engineering Upgrade" era with the upcoming Gla
 
 📺 Crypto Moon Radar
 
-👁️ 2 • ⏱️ 7:13 • 6h ago
+👁️ 2 • ⏱️ 7:13 • 8h ago
 
 ---
 
@@ -324,7 +322,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 741 • 👍 76 • ⏱️ 5:00 • 5h ago
+👁️ 741 • 👍 76 • ⏱️ 5:00 • 7h ago
 
 ---
 
