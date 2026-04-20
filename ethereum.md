@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-20T19:19:52.255361+00:00'
+updated: '2026-04-20T20:09:56.998489+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
 - videos
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 20, 2026 at 19:19 UTC  
+**Last Updated:** April 20, 2026 at 20:09 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -80,13 +80,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
 **[84% of Polymarket users are trading at a loss.](https://www.reddit.com/r/ethereum/comments/1sqa9xi/84_of_polymarket_users_are_trading_at_a_loss/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -118,7 +118,7 @@ Feels kinda bigger than a normal crypto meetup tbh Ethereum getting a real physi
 
 Do you guys find smaller communities better than larger ones when it comes to actual discussions? In bigger groups, there’s always activity, but a lot of conversations feel surface-level or get lost quickly. In smaller communities, it seems easier to follow discussions, people engage more, and ideas actually develop over time. I’ve been noticing that difference more lately — feels like smaller groups tend to be more consistent, and people actually talk rather than just dropping messages and disappearing. At the same time, larger communities do have the advantage of more perspectives and faster information flow. Curious what others prefer — fast-moving large communities, or smaller groups where discussions are more focused and interactive
 
-20h ago
+21h ago
 
 ---
 
@@ -158,7 +158,7 @@ Yahoo Finance • 3d ago
 
 BitMine Immersion Technologies (NYSE: $BMNR) bought $230 million U.S. of Ethereum (CRYPTO: $ETH) over the past week...
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -166,7 +166,7 @@ Yahoo Finance • 5h ago
 
 Bitmine now owns more than 4% of the total ETH coin supply of 120.7 million Bitmine is 82% of the way to the 'Alchemy of 5%' in just 9 months Ethereum...
 
-PR Newswire • 6h ago
+PR Newswire • 7h ago
 
 ---
 
@@ -198,13 +198,13 @@ thestreet.com • 23h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 6h ago
+Fortune • 7h ago
 
 ---
 
 **[Most large cryptocurrencies rise on Ethereum, Avalanche increases](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-rise-on-ethereum-avalanche-increases-da482e07-f13b7e1250e1)**
 
-MarketWatch • 5h ago
+MarketWatch • 6h ago
 
 ---
 
@@ -212,13 +212,13 @@ MarketWatch • 5h ago
 
 The quantum divide between Bitcoin and EthereumQuantum computing has long been viewed as a distant, largely theoretical threat to blockchain systems. However, that perspective is now starting to change.With major technology companies such as Google establishing timelines for post-quantum cryptograp…
 
-TradingView • 13h ago
+TradingView • 14h ago
 
 ---
 
 **[Ethereum whale opens $100mln long – Why traders still short ETH](https://ambcrypto.com/ethereum-whale-opens-100mln-long-why-traders-still-short-eth/)**
 
-AMBCrypto • 8h ago
+AMBCrypto • 9h ago
 
 ---
 
@@ -232,7 +232,7 @@ Welcome Back To The Channel! ✔️ https://tylerhill.pro/Fortisx42026 ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 1K • 👍 120 • 💬 8 • ⏱️ 10:29 • 2h ago
+👁️ 1K • 👍 120 • 💬 8 • ⏱️ 10:29 • 3h ago
 
 ---
 
@@ -242,7 +242,7 @@ The "Ethereum is Dead" narrative is back, and this time, the numbers actually lo
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 330 • 💬 15 • ⏱️ 58:47 • 3h ago
+👁️ 5K • 👍 330 • 💬 15 • ⏱️ 58:47 • 4h ago
 
 ---
 
@@ -262,7 +262,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 286 • 👍 17 • 💬 2 • ⏱️ 4:37 • 9h ago
+👁️ 286 • 👍 17 • 💬 2 • ⏱️ 4:37 • 10h ago
 
 ---
 
@@ -292,7 +292,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 954 • 👍 165 • 💬 6 • ⏱️ 17:32 • 4h ago
+👁️ 954 • 👍 165 • 💬 6 • ⏱️ 17:32 • 5h ago
 
 ---
 

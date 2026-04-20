@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-20T19:19:52.249882+00:00'
+updated: '2026-04-20T20:09:56.992592+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
 - videos
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 20, 2026 at 19:19 UTC  
+**Last Updated:** April 20, 2026 at 20:09 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Strategy has acquired 34,164 BTC for ~$2.54 billion at ~$74,395 per bitcoin and has achieved BTC Yield of 9.5% YTD 2026. As of 4/19/2026, we hodl 815,061 BTC acquired for ~$61.56 billion at ~$75,527 per bitcoin.
 
-🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-34164-btc-and-now-holds-815061-btc_04-20-2026) • 5h ago
+🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-34164-btc-and-now-holds-815061-btc_04-20-2026) • 6h ago
 
 ---
 
@@ -89,7 +89,7 @@ Strategy has acquired 34,164 BTC for ~$2.54 billion at ~$74,395 per bitcoin and 
 
 Morgan Stanley just pulled off its most successful ETF launch in the firm's history MSBT crossed $100M+ in net inflows in its first six trading days since going live on April 8th. Key Factors → It's the cheapest spot BTC ETF on the market. At 0.14%, MSBT undercuts BlackRock's IBIT (0.25%) and resets the fee benchmark for institutional Bitcoin exposure. → It's the first spot BTC ETF issued by a major US bank → Distribution is the real story here. Every financial advisor at Morgan Stanley is now armed with a cheap, in-house bitcoin wrapper to put in front of clients Bitcoin is being absorbed into the traditional financial system faster than most people realize
 
-3h ago
+4h ago
 
 ---
 
@@ -105,7 +105,7 @@ Hey guys, father recently passed away and left me his ledger. I have full access
 
 Just saw the report that over $593M in bearish bets got liquidated following the news about Iran fully opening the Strait of Hormuz. Geopolitical tension in the Middle East has been heavily influenced on risk assets lately. Now that the macro situation is cooling down, the panic selling into cash seems to be pausing. This easing of macro fears, combined with that massive short squeeze, is giving BTC some real momentum. If we could have the $74k area into solid support, I'm leaning bullish for the short term. The path of least resistance feels like it's pointing up again. During the choppy weeks before this pump, I've been running future grid bots on BYDFi to trade the range. It's solid for choppy markets and the execution is fast. Plus, the bot's trading volume actually unlocked a few draws for their 6th-anniversary event. It felt like a bonus cuz I got some coupons to offset the fees. Where do you guys see BTC going for the rest of year? Do we still think the 4-year cycle will play out by the end of this year?
 
-7h ago
+8h ago
 
 ---
 
@@ -113,13 +113,13 @@ Just saw the report that over $593M in bearish bets got liquidated following the
 
 Just wondering how you guys are affording to do all this BTC investing.
 
-6h ago
+7h ago
 
 ---
 
 **[Patience, young Padawan](https://www.reddit.com/r/Bitcoin/comments/1sq3gbl/patience_young_padawan/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -133,7 +133,7 @@ Just wondering how you guys are affording to do all this BTC investing.
 
 In 2019 a friend made fun of me for having bitcoin. Last night he tried connecting with me over both of us owning bitcoins. I called him out and reminded him how small he made me sound back in the day when I tried to put him on. I had been holding since then. Never sold. He apparently has been buying low and selling high, no idea if he’s selling everytime there’s a 1% profit or what but he then started telling me that I’m stupid for buying and holding and that it’s better to buy and sell and buy and sell. My thought to that is that you’re just paying for more transaction fees and taxes as opposed to just holding. But maybe I’m wrong what are your thoughts.
 
-6h ago
+7h ago
 
 ---
 
@@ -141,7 +141,7 @@ In 2019 a friend made fun of me for having bitcoin. Last night he tried connecti
 
 When I first got into Bitcoin, I thought trading it would be the fastest way to grow. Watched charts, followed setups, even tried signals at one point. Didn’t really end well. Took me a while to realize the issue wasn’t just strategy, it was how I was managing risk and decisions in real time. Switched focus more towards having clear rules instead of chasing entries… and things started making more sense. Still learning tbh. Curious, do most of you here actively trade BTC or just hold long term?
 
-11h ago
+12h ago
 
 ---
 
@@ -149,7 +149,7 @@ When I first got into Bitcoin, I thought trading it would be the fastest way to 
 
 Im new to this and was wondering what action i should take and why right now i plan to swing trade a little bit :) hope iu experts can give me some insights
 
-1h ago
+2h ago
 
 ---
 
@@ -161,7 +161,7 @@ Im new to this and was wondering what action i should take and why right now i p
 
 Strategy (MSTR) acquired $2.54 billion worth of bitcoin (BTC-USD) on Monday. Scott Melker ditches the phrase 'infinite money glitch' and explains how Michael Saylor is purchasing the asset and the machine he's created to do so in this episode of Yahoo Finance's new show, The Daily Wolf with Scott Melker.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -177,7 +177,7 @@ Tom's Hardware • 1d ago
 
 Alcoa is in talks to sell its idle Massena East aluminum smelter in upstate New York to bitcoin mining firm NYDIG.
 
-Bitcoin Magazine • 16m ago
+Bitcoin Magazine • 1h ago
 
 ---
 
@@ -185,13 +185,13 @@ Bitcoin Magazine • 16m ago
 
 Michael Saylor's Strategy Inc. NASDAQ:MSTR has stepped up its Bitcoin accumulation in a meaningful way, purchasing $2.54 billion of the cryptocurrency in the week ended April 19, marking its largest weekly buy since November 2024. The bulk of the funding came from $2.18 billion raised through STRC…
 
-TradingView • 26m ago
+TradingView • 1h ago
 
 ---
 
 **[‘Massive’ U.S. Dollar Fed Warning Fuels Huge Bitcoin Price Predictions](https://www.forbes.com/sites/digital-assets/2026/04/20/buy-bitcoin-elon-musks-massive-us-dollar-warning-fuels-wild-crypto-price-predictions/)**
 
-Forbes • 1h ago
+Forbes • 2h ago
 
 ---
 
@@ -199,13 +199,13 @@ Forbes • 1h ago
 
 To understand the market, investors need to know what causes that number to go up or down.
 
-The Detroit News • 1h ago
+The Detroit News • 2h ago
 
 ---
 
 **[Bitcoin adoption rebounds in U.S., but consumers still favor gold and stocks](https://www.investing.com/news/cryptocurrency-news/bitcoin-adoption-rebounds-in-us-but-consumers-still-favor-gold-and-stocks-4622480)**
 
-Investing.com • 10h ago
+Investing.com • 11h ago
 
 ---
 
@@ -213,7 +213,7 @@ Investing.com • 10h ago
 
 Nearly $1 billion in spot bitcoin ETF inflows and rising stablecoin liquidity suggest institutional demand is still stemming pullbacks.
 
-The Block • 6h ago
+The Block • 7h ago
 
 ---
 
@@ -221,7 +221,7 @@ The Block • 6h ago
 
 Morgan Stanley's MSBT logged a weekly net inflow of $71 million in the first full trading week since its debut.
 
-The Block • 11h ago
+The Block • 12h ago
 
 ---
 
@@ -229,7 +229,7 @@ The Block • 11h ago
 
 What you need to know for April 20, 2026
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -263,7 +263,7 @@ The Blockstream CEO’s approach contrasts with BIP-361, a proposal that would i
 
 Neha Narula
 
-⬆️ 3 • 💬 2 • 1h ago • [nehanarula.org](https://nehanarula.org/2026/04/20/bitcoin-and-quantum-a-roadmap.html)
+⬆️ 3 • 💬 2 • 2h ago • [nehanarula.org](https://nehanarula.org/2026/04/20/bitcoin-and-quantum-a-roadmap.html)
 
 ---
 
@@ -271,7 +271,7 @@ Neha Narula
 
 Part one explained the physics of quantum computing. This piece explains the target — how bitcoin's encryption works, why a quantum algorithm breaks it, and what Google's paper changed about the timeline.
 
-⬆️ 3 • 💬 1 • 10h ago • [coindesk.com](https://www.coindesk.com/tech/2026/04/18/how-a-quantum-computer-can-be-used-to-actually-steal-your-bitcoin-in-9-minutes)
+⬆️ 3 • 💬 1 • 11h ago • [coindesk.com](https://www.coindesk.com/tech/2026/04/18/how-a-quantum-computer-can-be-used-to-actually-steal-your-bitcoin-in-9-minutes)
 
 ---
 
@@ -321,7 +321,7 @@ Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=Al
 
 📺 Altcoin Daily
 
-👁️ 39K • 👍 2K • 💬 162 • ⏱️ 8:27 • 21h ago
+👁️ 39K • 👍 2K • 💬 162 • ⏱️ 8:27 • 22h ago
 
 ---
 
@@ -331,7 +331,7 @@ Bitcoin has rallied back into a key technical area, the Bear Market Resistance B
 
 📺 Benjamin Cowen
 
-👁️ 62K • 👍 4K • 💬 147 • ⏱️ 11:41 • 14h ago
+👁️ 62K • 👍 4K • 💬 147 • ⏱️ 11:41 • 15h ago
 
 ---
 
@@ -381,7 +381,7 @@ Subscribe before the supply shock goes mainstream. There are no sellers left at 
 
 📺 Bitcoin News Alerts
 
-👁️ 4K • 👍 230 • 💬 195 • ⏱️ 20:29 • 20h ago
+👁️ 4K • 👍 230 • 💬 195 • ⏱️ 20:29 • 21h ago
 
 ---
 
@@ -411,7 +411,7 @@ The risk models I use to track accumulation and distribution zones. Free trial h
 
 📺 Crypto Capital Venture
 
-👁️ 3K • 👍 289 • 💬 142 • ⏱️ 16:03 • 3h ago
+👁️ 3K • 👍 289 • 💬 142 • ⏱️ 16:03 • 4h ago
 
 ---
 

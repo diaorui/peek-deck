@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-20T19:19:52.241875+00:00'
+updated: '2026-04-20T20:09:56.984342+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- news
 - videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** April 20, 2026 at 19:19 UTC  
+**Last Updated:** April 20, 2026 at 20:09 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 A new study from UCLA, MIT, Oxford, and Carnegie Mellon gave 1,222 people AI assistants for cognitive tasks — then pulled the plug midway through. The results: - After ~10 minutes of AI-assisted problem solving, people who lost access to AI performed **worse** than those who never had it - They didn't just get more wrong answers — they **stopped trying altogether** - The effect showed up across math AND reading comprehension - Ran 3 separate experiments (350 → 670 → full cohort). Same result every time. The researchers call it the "boiling frog" effect — each AI interaction feels costless, but your cognitive muscles are quietly atrophying. The UCLA co-author warns this could create "a generation of learners who will not know what they're capable of." Study hasn't been peer-reviewed yet, but the sample size is solid and it's the first causal (not correlational) evidence of AI-induced cognitive decline. The uncomfortable question: if 10 minutes is enough to measurably damage independent performance, what does months of daily use do? Full breakdown → https://synvoya.com/blog/2026-04-20-ai-boiling-frog-cognition-study/ Be honest — have you noticed yourself giving up faster on problems since you started using AI daily? https://preview.redd.it/xm3dil38e9wg1.jpg?width=2752&format=pjpg&auto=webp&s=4cec0fb89dbc1c8bfa303e06ec9622bb48bfc9ae
 
-16h ago
+17h ago
 
 ---
 
@@ -49,7 +49,7 @@ A new study from UCLA, MIT, Oxford, and Carnegie Mellon gave 1,222 people AI ass
 
 Why on earth would you pay $49/mo for a polished Saas product when you can spend $500 a day building one for yourself in Claude. Absolute insanity if you ask me. The End of Software.
 
-23h ago
+1d ago
 
 ---
 
@@ -57,7 +57,7 @@ Why on earth would you pay $49/mo for a polished Saas product when you can spend
 
 The company has won major Pentagon contracts, including work on Project Maven, an AI‑driven targeting and surveillance program.
 
-🔗 [Newsweek](https://www.newsweek.com/us-draft-update-major-tech-company-urges-universal-national-service-11850885) • 21h ago
+🔗 [Newsweek](https://www.newsweek.com/us-draft-update-major-tech-company-urges-universal-national-service-11850885) • 22h ago
 
 ---
 
@@ -65,7 +65,7 @@ The company has won major Pentagon contracts, including work on Project Maven, a
 
 Discomfort with the technology&rsquo;s long-term effects is overshadowed by fears of falling behind.
 
-🔗 [The University of Chicago Booth School of Business](https://www.chicagobooth.edu/review/parents-worry-about-their-kids-using-ai-worry-more-about-them-not-using-it) • 1h ago
+🔗 [The University of Chicago Booth School of Business](https://www.chicagobooth.edu/review/parents-worry-about-their-kids-using-ai-worry-more-about-them-not-using-it) • 2h ago
 
 ---
 
@@ -73,7 +73,7 @@ Discomfort with the technology&rsquo;s long-term effects is overshadowed by fear
 
 I got booted from ChatGPT on all my devices, and now I'm just getting hit with error messages whenever I try to log back into my account
 
-4h ago
+5h ago
 
 ---
 
@@ -81,7 +81,7 @@ I got booted from ChatGPT on all my devices, and now I'm just getting hit with e
 
 Hey everyone, I just sent the 28th issue of AI Hacker Newsletter, a weekly roundup of the best AI links and the discussions around it. Here are some links included in this email: Write less code, be more responsible (orhun.dev) -- comments The Future of Everything Is Lies, I Guess: New Jobs (aphyr.com) -- comments The AI Layoff Trap (arxiv.org) -- comments The Future of Everything Is Lies, I Guess: Safety (aphyr.com) -- comments European AI. A playbook to own it (mistral.ai) - comments If you want to receive a weekly email with over 40 links like these, please subscribe here: https://hackernewsai.com/
 
-3h ago
+4h ago
 
 ---
 
@@ -89,7 +89,7 @@ Hey everyone, I just sent the 28th issue of AI Hacker Newsletter, a weekly round
 
 "Some report forgoing healthcare visits because of AI-generated advice. Fourteen percent of recent users say the AI information or advice they received led them to skip a provider visit in the past 30 days. When projected to the entire adult population, this represents an estimated 14 million U.S. adults who did not see a provider because of the AI-generated health information or advice they received."
 
-3h ago
+4h ago
 
 ---
 
@@ -105,7 +105,7 @@ Some experts argue that AI was just used as an excuse for poor business decision
 
 The New York Times: "The program found that nearly 20 percent of the novels had been substantially written by A.I. Looking mostly at novels released between 2024 and 2025, Chakrabarty saw a 41 percent jump year-over-year in how many novels in his random sample contained a large amount of A.I. generated text"
 
-20h ago
+21h ago
 
 ---
 
@@ -113,7 +113,7 @@ The New York Times: "The program found that nearly 20 percent of the novels had 
 
 Built a V2 of my chat assistant and honestly it’s starting to feel wrong. It reads conversations, replies automatically, and adjusts tone so people don’t lose interest. Now it also: • does web search mid-chat • reads images people send • transcribes + replies to voice notes • sends context-based GIFs • remembers things like birthdays and past chats • sends follow-ups if you forget • lets you steer conversations if they go off track • summarizes every ~25 messages for context ~500k tokens used across ~500 messages so far. At this point I’m not even sure if I’m texting people or just supervising a system that texts for me. Is this useful… or just socially cursed?
 
-3m ago
+53m ago
 
 ---
 
@@ -125,7 +125,7 @@ Built a V2 of my chat assistant and honestly it’s starting to feel wrong. It r
 
 As large language models take over more and more cognitive tasks, researchers are warning this mental outsourcing comes with a cost.
 
-BBC • 9h ago
+BBC • 10h ago
 
 ---
 
@@ -133,7 +133,7 @@ BBC • 9h ago
 
 Deputy leader’s image on X was almost certainly generated or altered using AI, according to Peryton Intelligence
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
@@ -141,7 +141,7 @@ The Guardian • 2h ago
 
 Google plans to announce new TPU generations at Google Cloud Next, with inference-focused chips in partnership with Marvell Technology likely next
 
-qz.com • 19m ago
+qz.com • 1h ago
 
 ---
 
@@ -149,7 +149,7 @@ qz.com • 19m ago
 
 How a storage breakthrough is helping to solve the memory bottleneck
 
-Fast Company • 14m ago
+Fast Company • 1h ago
 
 ---
 
@@ -157,13 +157,13 @@ Fast Company • 14m ago
 
 AXP buys Hypercard to boost AI-driven expense automation, aiming to streamline business workflows and accelerate next-generation commercial services.
 
-qz.com • 17m ago
+qz.com • 1h ago
 
 ---
 
 **[Marc Benioff Says the Software Bears Are All Wrong About Salesforce](https://www.wsj.com/tech/ai/marc-benioff-says-the-software-bears-are-all-wrong-about-salesforce-c7042852)**
 
-WSJ • 17h ago
+WSJ • 18h ago
 
 ---
 
@@ -177,7 +177,7 @@ Axios • 10h ago
 
 We're calling up this one up from our Bullpen stocks to watch list.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
@@ -185,7 +185,7 @@ CNBC • 2h ago
 
 Head of financial services group’s $1.4tn asset management division expects new tech to unleash huge productivity gains
 
-Financial Times • 15h ago
+Financial Times • 16h ago
 
 ---
 
@@ -193,7 +193,7 @@ Financial Times • 15h ago
 
 Popular artificial intelligence programs told users where to find alternative, potentially dangerous treatments for cancer and other health scenarios.
 
-NBC News • 2h ago
+NBC News • 3h ago
 
 ---
 
@@ -209,7 +209,7 @@ NBC News • 2h ago
 
 **[Atlassian enables default data collection to train AI](https://news.ycombinator.com/item?id=47833247)**
 
-⬆️ 355 • 💬 79 • 6h ago • [letsdatascience.com](https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8)
+⬆️ 355 • 💬 79 • 7h ago • [letsdatascience.com](https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8)
 
 ---
 
@@ -225,7 +225,7 @@ Police lured the man to a meeting and arrested him after accessing a private Wha
 
 Deezer says consumption of AI-generated music on the platform is still very low, between 1-3% of the total streams, and that 85% of these streams are detected as fraudulent and are demonetized.
 
-⬆️ 159 • 💬 180 • 3h ago • [TechCrunch](https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/)
+⬆️ 159 • 💬 180 • 4h ago • [TechCrunch](https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/)
 
 ---
 
@@ -249,19 +249,19 @@ Uber Technologies, Inc is learning the hard way that scaling AI isn't just about
 
 In the 1980s, economist Robert Solow made an observation that reminded economists of today’s AI boom: “You can see the computer age everywhere but in the productivity statistics.”
 
-⬆️ 87 • 💬 79 • 21h ago • [Fortune](https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/)
+⬆️ 87 • 💬 79 • 22h ago • [Fortune](https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/)
 
 ---
 
 **[Swiss AI Initiative (2023)](https://news.ycombinator.com/item?id=47828444)**
 
-⬆️ 86 • 💬 26 • 20h ago • [Swiss AI](https://www.swiss-ai.org)
+⬆️ 86 • 💬 26 • 21h ago • [Swiss AI](https://www.swiss-ai.org)
 
 ---
 
 **[A Pascal's Wager for AI Doomers](https://news.ycombinator.com/item?id=47832887)**
 
-⬆️ 52 • 💬 81 • 7h ago • [pluralistic.net](https://pluralistic.net/2026/04/16/pascals-wager/)
+⬆️ 52 • 💬 81 • 8h ago • [pluralistic.net](https://pluralistic.net/2026/04/16/pascals-wager/)
 
 ---
 
@@ -269,7 +269,7 @@ In the 1980s, economist Robert Solow made an observation that reminded economist
 
 Why public hostility toward AI may feel visceral, including mismatch, disgust, danger avoidance, mortality salience, and design consistency.
 
-⬆️ 48 • 💬 75 • 18h ago • [LocalScribe](https://localscribe.co/posts/uncanny-valley-and-rising-power-of-anti-ai-sentiment/)
+⬆️ 48 • 💬 75 • 19h ago • [LocalScribe](https://localscribe.co/posts/uncanny-valley-and-rising-power-of-anti-ai-sentiment/)
 
 ---
 
@@ -283,7 +283,7 @@ Find out more about CodeCrafters - https://app.codecrafters.io/join?via=club-awe
 
 📺 Awesome
 
-👁️ 43K • 👍 3K • 💬 206 • ⏱️ 8:48 • 10h ago
+👁️ 43K • 👍 3K • 💬 206 • ⏱️ 8:48 • 11h ago
 
 ---
 
@@ -303,7 +303,7 @@ Abacus AI just showed something that feels a lot bigger than another flashy AI d
 
 📺 AI Revolution
 
-👁️ 11K • 👍 455 • 💬 38 • ⏱️ 13:18 • 21h ago
+👁️ 11K • 👍 455 • 💬 38 • ⏱️ 13:18 • 22h ago
 
 ---
 
@@ -363,7 +363,7 @@ in this video, we break down the rumored GPT-5.5 “pro” model from OpenAI and
 
 📺 WorldofAI
 
-👁️ 33K • 👍 659 • 💬 89 • ⏱️ 10:27 • 12h ago
+👁️ 33K • 👍 659 • 💬 89 • ⏱️ 10:27 • 13h ago
 
 ---
 
@@ -413,7 +413,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with vision capabilitie
 
 `image-text-to-text` `34.7B`
 
-⬇️ 816,485 • ❤️ 549 • 6h ago
+⬇️ 816,485 • ❤️ 549 • 7h ago
 
 ---
 
@@ -449,7 +449,7 @@ Gemma 4 E4B OBLITERATED v3 is a text-generation model with 0% refusal and improv
 
 `text-generation` `8.0B`
 
-⬇️ 50,701 • ❤️ 371 • 21h ago
+⬇️ 50,701 • ❤️ 371 • 22h ago
 
 ---
 
@@ -461,7 +461,7 @@ MiniMax-M2.7 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 314,205 • ❤️ 998 • 14h ago
+⬇️ 314,205 • ❤️ 998 • 15h ago
 
 ---
 
@@ -513,7 +513,7 @@ VoxCPM2 is a 2B parameter, 30-language multilingual text-to-speech model capable
 
 LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from video streams using a geometric context transformer architecture with specialized attention mechanisms for coordinate grounding, dense geometric cues, and long-range drift correction, achieving stable real-time performance at 20 FPS.
 
-▲ 7 • 💬 2 • ⭐ 2,880 • 5d ago
+▲ 7 • 💬 2 • ⭐ 2,880 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.14141) • [💻 code](https://github.com/robbyant/lingbot-map) • [🔗 project](https://technology.robbyant.com/lingbot-map)
 
@@ -549,7 +549,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 HY-World 2.0 is a multi-modal world model framework that generates high-fidelity 3D Gaussian Splatting scenes from diverse inputs using specialized modules for panorama generation, trajectory planning, world expansion, and composition, along with an enhanced rendering platform for interactive 3D exploration.
 
-▲ 100 • 💬 5 • ⭐ 1,385 • 5d ago
+▲ 100 • 💬 5 • ⭐ 1,385 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.14268) • [💻 code](https://github.com/Tencent-Hunyuan/HY-World-2.0) • [🔗 project](https://3d-models.hunyuan.tencent.com/world/)
 
@@ -627,7 +627,7 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 The study analyzes Claude Code's architecture, identifying five motivating human values and tracing them through thirteen design principles to specific implementation choices, including a core while-loop architecture and supporting systems for safety, context management, and extensibility.
 
-▲ 19 • 💬 1 • ⭐ 391 • 6d ago
+▲ 19 • 💬 1 • ⭐ 391 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.14228) • [💻 code](https://github.com/VILA-Lab/Dive-into-Claude-Code)
 
@@ -643,7 +643,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 48.4k • 🔱 6.3k • 33m ago
+⭐ 48.4k • 🔱 6.3k • 1h ago
 
 ---
 
@@ -683,7 +683,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 8.3k • 🔱 538 • 3h ago
+⭐ 8.3k • 🔱 538 • 4h ago
 
 ---
 
@@ -723,7 +723,7 @@ The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interac
 
 `Swift` `apple-intelligence` `apple-silicon` `cli` `foundationmodels` `homebrew`
 
-⭐ 4.8k • 🔱 183 • 8h ago
+⭐ 4.8k • 🔱 183 • 9h ago
 
 ---
 
