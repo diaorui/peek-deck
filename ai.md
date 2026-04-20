@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-20T02:48:11.576105+00:00'
+updated: '2026-04-20T05:43:05.436449+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
 - videos
 - news
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 20, 2026 at 02:48 UTC  
+**Last Updated:** April 20, 2026 at 05:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Why on earth would you pay $49/mo for a polished Saas product when you can spend $500 a day building one for yourself in Claude. Absolute insanity if you ask me. The End of Software.
 
-6h ago
+9h ago
 
 ---
 
@@ -49,7 +49,15 @@ Why on earth would you pay $49/mo for a polished Saas product when you can spend
 
 The company has won major Pentagon contracts, including work on Project Maven, an AI‑driven targeting and surveillance program.
 
-🔗 [Newsweek](https://www.newsweek.com/us-draft-update-major-tech-company-urges-universal-national-service-11850885) • 4h ago
+🔗 [Newsweek](https://www.newsweek.com/us-draft-update-major-tech-company-urges-universal-national-service-11850885) • 7h ago
+
+---
+
+**[Researchers gave 1,222 people AI assistants, then took them away after 10 minutes. Performance crashed below the control group and people stopped trying. UCLA, MIT, Oxford, and Carnegie Mellon call it the "boiling frog" effect.](https://www.reddit.com/r/artificial/comments/1sqcz1m/researchers_gave_1222_people_ai_assistants_then/)**
+
+A new study from UCLA, MIT, Oxford, and Carnegie Mellon gave 1,222 people AI assistants for cognitive tasks — then pulled the plug midway through. The results: - After ~10 minutes of AI-assisted problem solving, people who lost access to AI performed **worse** than those who never had it - They didn't just get more wrong answers — they **stopped trying altogether** - The effect showed up across math AND reading comprehension - Ran 3 separate experiments (350 → 670 → full cohort). Same result every time. The researchers call it the "boiling frog" effect — each AI interaction feels costless, but your cognitive muscles are quietly atrophying. The UCLA co-author warns this could create "a generation of learners who will not know what they're capable of." Study hasn't been peer-reviewed yet, but the sample size is solid and it's the first causal (not correlational) evidence of AI-induced cognitive decline. The uncomfortable question: if 10 minutes is enough to measurably damage independent performance, what does months of daily use do? Full breakdown → https://synvoya.com/blog/2026-04-20-ai-boiling-frog-cognition-study/ Be honest — have you noticed yourself giving up faster on problems since you started using AI daily? https://preview.redd.it/xm3dil38e9wg1.jpg?width=2752&format=pjpg&auto=webp&s=4cec0fb89dbc1c8bfa303e06ec9622bb48bfc9ae
+
+2h ago
 
 ---
 
@@ -57,7 +65,7 @@ The company has won major Pentagon contracts, including work on Project Maven, a
 
 Some experts argue that AI was just used as an excuse for poor business decisions.
 
-🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/tech-industry-lays-off-nearly-80-000-employees-in-the-first-quarter-of-2026-almost-50-percent-of-affected-positions-cut-due-to-ai) • 11h ago
+🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/tech-industry-lays-off-nearly-80-000-employees-in-the-first-quarter-of-2026-almost-50-percent-of-affected-positions-cut-due-to-ai) • 14h ago
 
 ---
 
@@ -65,7 +73,7 @@ Some experts argue that AI was just used as an excuse for poor business decision
 
 The New York Times: "The program found that nearly 20 percent of the novels had been substantially written by A.I. Looking mostly at novels released between 2024 and 2025, Chakrabarty saw a 41 percent jump year-over-year in how many novels in his random sample contained a large amount of A.I. generated text"
 
-4h ago
+7h ago
 
 ---
 
@@ -73,7 +81,15 @@ The New York Times: "The program found that nearly 20 percent of the novels had 
 
 Hello everyone, i'm an aspiring finance executive (or really anything good within the world of finance), and lately i've been wondering how the finance industry is going to look in the future thanks to AI. I've been getting more into finance recently and seeing the kind of work that is done in the industry (stuff such as HFT, financial modeling, etc...) and also been seeing how AI is getting better at doing that kind of work at a very fast rate, not quite there to be left out on its own right now but making noticeable improvements. Because I haven't started working at all yet (still modeling what I want to do with my life and professional growth in the future), I am basically forced to look to the future, so that has left me with the main question here: How exactly is the financial industry going to change and what exactly will humans have left to do in it? I'm asking so I can start working more on those skills earlier, instead of wasting time on perfecting skills that AI is largely going to take over.
 
-4h ago
+7h ago
+
+---
+
+**[Building advanced AI workflows—what am I missing?](https://www.reddit.com/r/artificial/comments/1sqdnf7/building_advanced_ai_workflowswhat_am_i_missing/)**
+
+Hey everyone, I’ve been diving into advanced workflow orchestration lately—working with tools like LangChain / LangGraph, AWS Step Functions, and concepts like fuzzy canonicalization. I’m trying to get a broader, more future-proof understanding of this space. What other tools, patterns, or concepts would you recommend I explore next? Could be anything from orchestration, distributed systems, LLM infra, or production best practices. Would love to hear what’s been valuable in your experience.
+
+2h ago
 
 ---
 
@@ -81,7 +97,7 @@ Hello everyone, i'm an aspiring finance executive (or really anything good withi
 
 Discover the magic of the internet at Imgur, a community powered entertainment destination. Lift your spirits with funny jokes, trending memes, entertaining gifs, inspiring stories, viral videos, and so much more from users.
 
-🔗 [Imgur](https://i.imgur.com/cyY0cxE.png) • 8h ago
+🔗 [Imgur](https://i.imgur.com/cyY0cxE.png) • 10h ago
 
 ---
 
@@ -93,27 +109,11 @@ So this happened mere hours ago and I feel like I genuinely stumbled onto someth
 
 ---
 
-**[Why is every AI getting restricted these days?](https://www.reddit.com/r/artificial/comments/1spxccd/why_is_every_ai_getting_restricted_these_days/)**
-
-Like seriously, it’s not just ChatGPT... it’s Claude, Grok, Gemini… all of them feel way more locked down than before. I genuinely don’t get it. What’s the point of pouring nearly Trillions into this tech if it ends up feeling borderline unusable half the time? And yeah, I’m literally paying for this. It feels like companies assume every user is a programmer who use it only for programming. But a lot of us just want to be creative, write stories, experiment with ideas, or just mess around without hitting a wall every two seconds. I’m not out here asking how to build a bomb or anything illegal. I just want to create stuff without the AI acting like I’m about to commit a felony. And before anyone says “just use local models”… nah. Not everyone has a expensive hardware lying around. Subscriptions exist for a reason. I understand this safety stuff but this is just dumb.. So like… is there any hope this gets better? Will AI eventually get smart enough to understand actual intent instead of playing it ultra safe all the time? Or is this just how it’s gonna be going forward? Because if this is the future… idk man, it’s kinda disappointing This ain't it...
-
-10h ago
-
----
-
-**[Researchers gave 1,222 people AI assistants, then took them away after 10 minutes. Performance crashed below the control group and people stopped trying. UCLA, MIT, Oxford, and Carnegie Mellon call it the "boiling frog" effect.](https://www.reddit.com/r/artificial/comments/1sqcz1m/researchers_gave_1222_people_ai_assistants_then/)**
-
-A new study from UCLA, MIT, Oxford, and Carnegie Mellon gave 1,222 people AI assistants for cognitive tasks — then pulled the plug midway through. The results: - After ~10 minutes of AI-assisted problem solving, people who lost access to AI performed **worse** than those who never had it - They didn't just get more wrong answers — they **stopped trying altogether** - The effect showed up across math AND reading comprehension - Ran 3 separate experiments (350 → 670 → full cohort). Same result every time. The researchers call it the "boiling frog" effect — each AI interaction feels costless, but your cognitive muscles are quietly atrophying. The UCLA co-author warns this could create "a generation of learners who will not know what they're capable of." Study hasn't been peer-reviewed yet, but the sample size is solid and it's the first causal (not correlational) evidence of AI-induced cognitive decline. The uncomfortable question: if 10 minutes is enough to measurably damage independent performance, what does months of daily use do? Full breakdown → https://synvoya.com/blog/2026-04-20-ai-boiling-frog-cognition-study/ Be honest — have you noticed yourself giving up faster on problems since you started using AI daily? https://preview.redd.it/xm3dil38e9wg1.jpg?width=2752&format=pjpg&auto=webp&s=4cec0fb89dbc1c8bfa303e06ec9622bb48bfc9ae
-
-just now
-
----
-
 **[Flux Image Editing on AskSary - genuinely impressed with what a simple prompt can do](https://www.reddit.com/r/artificial/comments/1sq72d1/flux_image_editing_on_asksary_genuinely_impressed/)**
 
 https://reddit.com/link/1sq72d1/video/rksbmap138wg1/player I'll be honest I didn't spend a huge amount of time perfecting the prompts here and even then the results were pretty solid. Flux is surprisingly good at understanding context without you having to spell out every single detail. Could I have got better results with more detailed prompts? Absolutely - keeping the face consistent across edits is something I'd work on more with more time. But for literally just typing what I wanted changed and hitting go, the pixel-level accuracy is something else. Built this into AskSary as part of the image editing suite - 8 free edits a month just for creating an account, no card required. The full editing suite with visual history is on the paid tier but the free ones give you a good taste of what it can do. asksary.com if you want to try it yourself.
 
-4h ago
+7h ago
 
 ---
 
@@ -125,69 +125,71 @@ https://reddit.com/link/1sq72d1/video/rksbmap138wg1/player I'll be honest I didn
 
 In the 1980s, economist Robert Solow made an observation that reminded economists of today’s AI boom: “You can see the computer age everywhere but in the productivity statistics.”
 
-Fortune • 11h ago
+Fortune • 14h ago
 
 ---
 
-**[SiIicon Valley's AI agent hiccups: Wasted tokens and 'chaotic' systems](https://www.cnbc.com/2026/04/19/siiicon-valley-ai-agent-openclaw-problems.html)**
+**[AI startup Cursor in talks to raise $2 billion funding round at valuation of over $50 billion](https://www.cnbc.com/2026/04/19/cursor-ai-2-billion-funding-round.html)**
 
-Nvidia CEO Jensen Huang told CNBC's Jim Cramer in March that AI agents are "definitely the next ChatGPT."
+Artificial intelligence startup Cursor in talks to raise a $2 billion fundraising round at an over $50 billion valuation, which does not include the investment.
 
-CNBC • 14h ago
+CNBC • 8h ago
 
 ---
 
-**[AI’s Token Economy Revolution Creates New China Tech Winners](https://finance.yahoo.com/markets/stocks/articles/ai-token-economy-revolution-creates-012806562.html)**
+**[AI's Token Economy Revolution Creates New China Tech Winners](https://finance.yahoo.com/markets/stocks/articles/ais-token-economy-revolution-creates-new-china-tech-winners-035211861.html)**
 
-(Bloomberg) -- China’s cheap artificial intelligence models are rapidly attracting global users and creating new winners in the nation’s stock market.Most Read from BloombergHormuz Chaos, Lebanon Clashes Dent Trump Peace Deal HopesCruise Ships Seized Brief Hormuz Reopening to Flee Persian GulfNvidia Makes Quantum Computing CEO a Billionaire in DaysUS Seizes Iranian Ship in Blockade, Casting Doubt on Peace TalksTrump Says US Seized Iranian Ship, Blew Hole in Its Engine RoomAs AI development incre
+(Bloomberg) -- China's cheap artificial intelligence models are rapidly attracting global users and creating new winners in the nation's stock market.Most Read from BloombergHormuz Chaos, Lebanon Clashes Dent Trump Peace Deal HopesCruise Ships Seized Brief Hormuz Reopening to Flee Persian GulfNvidia Makes Quantum Computing CEO a Billionaire in DaysUS Seizes Iranian Ship in Blockade, Casting Doubt on Peace TalksTrump Says US Seized Iranian Ship, Blew Hole in Its Engine RoomAs AI development incre
 
 Yahoo Finance • 1h ago
 
 ---
 
-**[Singapore Urges Banks to Fix Security Gaps Amid Mythos AI Fears](https://www.bloomberg.com/news/articles/2026-04-20/singapore-urges-banks-to-fix-security-gaps-amid-mythos-ai-fears)**
+**[China’s Netflix iQiyi Goes All-In on AI Content in Big Overhaul](https://www.bloomberg.com/news/articles/2026-04-20/china-s-netflix-iqiyi-goes-all-in-on-ai-content-in-big-overhaul)**
 
-Bloomberg • 26m ago
-
----
-
-**[Marc Benioff Says the Software Bears Are All Wrong About Salesforce](https://www.wsj.com/tech/ai/marc-benioff-says-the-software-bears-are-all-wrong-about-salesforce-c7042852)**
-
-WSJ • 48m ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[Trump to read Bible verse from Oval Office after feud with Pope and deleted AI image](https://www.cnn.com/2026/04/19/politics/trump-bible-reading-oval-office)**
+**[Vercel Breach Tied to Context AI Hack Exposes Limited Customer Credentials](https://thehackernews.com/2026/04/vercel-breach-tied-to-context-ai-hack.html)**
 
-President Donald Trump will participate in a public Bible reading this week as the administration continues to integrate religion, particularly Christianity, into official business.
+Context.ai breach enabled Google Workspace takeover at Vercel, exposing limited customer credentials and prompting $2M data sale claim.
 
-CNN • 22h ago
+The Hacker News • 2h ago
 
 ---
 
 **[My Boss Loves ChatGPT. Must I Fake Loving It Too?](https://www.nytimes.com/2026/04/19/business/ai-at-work-creativity-ageism.html)**
 
-The New York Times • 17h ago
+The New York Times • 20h ago
 
 ---
 
 **[Why your AI assistant is suddenly selling to you](https://www.economist.com/business/2026/04/19/why-your-ai-assistant-is-suddenly-selling-to-you)**
 
-The Economist • 16h ago
+The Economist • 19h ago
 
 ---
 
-**[Falling fertility, debt and AI: is the US headed toward a population crisis?](https://www.theguardian.com/business/2026/apr/19/us-population-fertility-rate)**
+**[Trump tests his luck with the religious right amid feud with pope and AI Jesus posts](https://www.theguardian.com/us-news/2026/apr/19/trump-religious-right-pope-feud-ai-jesus-posts)**
 
-Americans having less kids plus an ageing population could be a recipe for disaster that further erodes social stability
+Trump appears to have crossed a line with his Christian supporters. Will it come back to bite him in the midterms?
 
-The Guardian • 10h ago
+The Guardian • 4h ago
+
+---
+
+**[Should you really trust health advice from an AI chatbot?](https://www.bbc.com/news/articles/clyepyy82kxo)**
+
+Abi has had very mixed results when asking a chatbot for guidance about her health issues.
+
+BBC • 1d ago
 
 ---
 
 **[Trump-branded AI data center megaproject stalls, CEO departs](https://www.axios.com/2026/04/19/ai-data-center-project-troubles-texas)**
 
-Axios • 15h ago
+Axios • 19h ago
 
 ---
 
@@ -197,7 +199,7 @@ Axios • 15h ago
 
 **[College instructor turns to typewriters to curb AI-written work](https://news.ycombinator.com/item?id=47818485)**
 
-⬆️ 461 • 💬 410 • 1d ago • [sentinelcolorado.com](https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/)
+⬆️ 466 • 💬 413 • 1d ago • [sentinelcolorado.com](https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/)
 
 ---
 
@@ -205,13 +207,7 @@ Axios • 15h ago
 
 Police lured the man to a meeting and arrested him after accessing a private WhatsApp group with colleagues
 
-⬆️ 247 • 💬 162 • 13h ago • [LBC](https://www.lbc.co.uk/article/dubai-police-spied-private-whatsapp-5HjdXwr_2/)
-
----
-
-**[Ex-CEO, ex-CFO of bankrupt AI company charged with fraud](https://news.ycombinator.com/item?id=47828225)**
-
-⬆️ 127 • 💬 53 • 4h ago • [reuters.com](https://www.reuters.com/legal/government/ex-ceo-ex-cfo-bankrupt-ai-company-charged-with-fraud-2026-04-17/)
+⬆️ 263 • 💬 171 • 16h ago • [LBC](https://www.lbc.co.uk/article/dubai-police-spied-private-whatsapp-5HjdXwr_2/)
 
 ---
 
@@ -219,7 +215,7 @@ Police lured the man to a meeting and arrested him after accessing a private Wha
 
 Scan your website to see if it's ready for AI agents. Check for llms.txt, MCP, agent skills, and other agent-friendly standards.
 
-⬆️ 112 • 💬 175 • 2d ago • [Is Your Site Agent-Ready?](https://isitagentready.com)
+⬆️ 112 • 💬 176 • 2d ago • [Is Your Site Agent-Ready?](https://isitagentready.com)
 
 ---
 
@@ -227,7 +223,7 @@ Scan your website to see if it's ready for AI agents. Check for llms.txt, MCP, a
 
 AI investment is skyrocketing while AI’s impact on jobs and public perception remains mixed
 
-⬆️ 110 • 💬 61 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/state-of-ai-index-2026)
+⬆️ 111 • 💬 61 • 1d ago • [IEEE Spectrum](https://spectrum.ieee.org/state-of-ai-index-2026)
 
 ---
 
@@ -235,7 +231,7 @@ AI investment is skyrocketing while AI’s impact on jobs and public perception 
 
 Uber Technologies, Inc is learning the hard way that scaling AI isn't just about speed—it's about cost. Despite spending $3.4 billion on research and development, the company has already exhausted its planned AI budget just months into 2026. According to The Information, Chief Technology Officer Praveen Neppalli Naga said Uber is now "back to the drawing board" after a surge in the use of AI coding tools, particularly Anthropic's Claude Code, has blown past internal expectations. Don't Miss: A s
 
-⬆️ 80 • 💬 88 • 8h ago • [Yahoo Finance](https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html)
+⬆️ 86 • 💬 93 • 11h ago • [Yahoo Finance](https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html)
 
 ---
 
@@ -243,7 +239,7 @@ Uber Technologies, Inc is learning the hard way that scaling AI isn't just about
 
 In the 1980s, economist Robert Solow made an observation that reminded economists of today’s AI boom: “You can see the computer age everywhere but in the productivity statistics.”
 
-⬆️ 75 • 💬 66 • 4h ago • [Fortune](https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/)
+⬆️ 77 • 💬 69 • 7h ago • [Fortune](https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/)
 
 ---
 
@@ -251,7 +247,7 @@ In the 1980s, economist Robert Solow made an observation that reminded economist
 
 Record a browser task once. Replay it as a callable tool. Zero token cost, 100% deterministic, auth propagated from the live webpage.
 
-⬆️ 44 • 💬 16 • 2d ago • [rtrvr.ai](https://www.rtrvr.ai/blog/ai-subroutines-zero-token-deterministic-automation)
+⬆️ 44 • 💬 17 • 2d ago • [rtrvr.ai](https://www.rtrvr.ai/blog/ai-subroutines-zero-token-deterministic-automation)
 
 ---
 
@@ -263,9 +259,17 @@ Defunct companies are striking gold by selling their digital footprints to AI la
 
 ---
 
-**[In the AI propaganda war, Iran is winning](https://news.ycombinator.com/item?id=47818324)**
+**[Swiss AI Initiative (2023)](https://news.ycombinator.com/item?id=47828444)**
 
-⬆️ 33 • 💬 16 • 1d ago • [economist.com](https://www.economist.com/culture/2026/04/17/in-the-ai-propaganda-war-iran-is-winning)
+⬆️ 40 • 💬 13 • 6h ago • [Swiss AI](https://www.swiss-ai.org)
+
+---
+
+**[The Uncanny Valley and the Rising Power of Anti-AI Sentiment](https://news.ycombinator.com/item?id=47829058)**
+
+Why public hostility toward AI may feel visceral, including mismatch, disgust, danger avoidance, mortality salience, and design consistency.
+
+⬆️ 37 • 💬 61 • 5h ago • [LocalScribe](https://localscribe.co/posts/uncanny-valley-and-rising-power-of-anti-ai-sentiment/)
 
 ---
 
@@ -273,13 +277,33 @@ Defunct companies are striking gold by selling their digital footprints to AI la
 
 ## YouTube Videos: "ai"
 
+**[AI Is Literally A Psyop](https://www.youtube.com/watch?v=wLC7SATDmy8)**
+
+So much of the hype around AI is due to its supposed "superintelligence". Supposedly, AGI will be able to do almost everything ...
+
+📺 Cole Hastings
+
+👁️ 65K • 👍 4K • 💬 676 • ⏱️ 17:36 • 13h ago
+
+---
+
 **[AI Experts are Quietly Admitting This…](https://www.youtube.com/watch?v=K96KfUgS_gg)**
 
 Try Verdent AI ⤵ https://www.verdent.ai/?id=700278 @verdent_ai CHAPTERS ⤵ 00:00 - Introduction to AI News 02:38 - Creating ...
 
 📺 Dylan Curious
 
-👁️ 9K • 👍 396 • 💬 109 • ⏱️ 30:36 • 1d ago
+👁️ 9K • 👍 406 • 💬 114 • ⏱️ 30:36 • 1d ago
+
+---
+
+**[Agent Swarms Is One of The Most Powerful AI System Yet](https://www.youtube.com/watch?v=KdP305UYuNA)**
+
+Abacus AI just showed something that feels a lot bigger than another flashy AI demo. Agent Swarms inside ChatLLM and Deep ...
+
+📺 AI Revolution
+
+👁️ 6K • 👍 308 • 💬 22 • ⏱️ 13:18 • 8h ago
 
 ---
 
@@ -289,17 +313,47 @@ A powerful new AI model, called Mythos, has sparked alarm within the Trump admin
 
 📺 The Economist
 
-👁️ 68K • 👍 1K • 💬 115 • ⏱️ 8:30 • 1d ago
+👁️ 73K • 👍 2K • 💬 123 • ⏱️ 8:30 • 1d ago
 
 ---
 
-**[AI Is Literally A Psyop](https://www.youtube.com/watch?v=wLC7SATDmy8)**
+**[P(doom) | Real Time with Bill Maher (HBO)](https://www.youtube.com/watch?v=w5SYm4J4utQ)**
 
-So much of the hype around AI is due to its supposed "superintelligence". Supposedly, AGI will be able to do almost everything ...
+New Rule: When the people who are making A.I. are scared of A.I., it's time to “shut the whole thing down until we can figure out ...
 
-📺 Cole Hastings
+📺 Real Time with Bill Maher
 
-👁️ 53K • 👍 3K • 💬 583 • ⏱️ 17:36 • 10h ago
+👁️ 722K • 👍 18K • 💬 2K • ⏱️ 10:07 • 2d ago
+
+---
+
+**[AI Bruce Lee Demonstrates Classic Continuous Sequence | Smooth Flow | Sora AI](https://www.youtube.com/watch?v=k7HZ6QLfOJU)**
+
+AI-generated Bruce Lee performs a classic continuous sequence with smooth transitions and stable rhythm from start to finish.
+
+📺 TrueKungfuLegacy
+
+👁️ 196K • 👍 1K • 💬 15 • ⏱️ 0:06 • 17h ago
+
+---
+
+**[Berkeley Just Exposed the AI Benchmark Lie #ai #benchmark #aimodel](https://www.youtube.com/watch?v=IW3uyqkp4Os)**
+
+Source: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/
+
+📺 Better Stack
+
+👁️ 4K • 👍 258 • 💬 3 • ⏱️ 1:47 • 11h ago
+
+---
+
+**[AI UV, 8K PBR Textures, NVIDIA 3D Open-Source &amp; Much More! - 3D AI News #9](https://www.youtube.com/watch?v=MCpGNb70Lok)**
+
+Join my FREE Newsletter FutureFrames to learn more about AI 3D: https://pixel-artistry.com/newsletter Join our FREE Discord: ...
+
+📺 PixelArtistry
+
+👁️ 3K • 👍 150 • 💬 9 • ⏱️ 11:16 • 13h ago
 
 ---
 
@@ -309,67 +363,17 @@ Here's the AI News you probably missed this week. Build AI apps that actually sc
 
 📺 Matt Wolfe
 
-👁️ 90K • 👍 3K • 💬 164 • ⏱️ 36:44 • 2d ago
+👁️ 92K • 👍 3K • 💬 165 • ⏱️ 36:44 • 2d ago
 
 ---
 
-**[AI Safety Expert: No One Is Ready for What&#39;s Coming in 2 Years | Roman Yampolskiy](https://www.youtube.com/watch?v=00RHph_eok4)**
+**[This AI Machine Changes Baby Diapers in Seconds](https://www.youtube.com/watch?v=kC6pPP9Sado)**
 
-This episode is brought to you by Higgsfield — the AI video platform with Cinema Studio 2.5, built for creators who want cinematic ...
+This concept shows how AI could assist with baby care in the future. In this scenario, a hospital tests an AI-powered diaper ...
 
-📺 Silicon Valley Girl
+📺 DubAI Baby Official
 
-👁️ 47K • 👍 1K • 💬 214 • ⏱️ 45:43 • 2d ago
-
----
-
-**[This Horrible Ai Animation Meme Is Apparently Replacing Artists On TikTok (Ai Fruit Love Island)](https://www.youtube.com/watch?v=YIMeWSj_fmE)**
-
-Mohammed Agbadi talking about Tiktok's Disturbing Ai Animation That Is Apparently Replacing Artists (Ai Fruit Love Island) Join ...
-
-📺 Mohammed Agbadi
-
-👁️ 15K • 👍 1K • 💬 214 • ⏱️ 19:42 • 8h ago
-
----
-
-**[France BREAKS US AI Dominance - $14B Mistral Costs 90% Less, Macron Says ABANDON ChatGPT](https://www.youtube.com/watch?v=HNuojShPwOQ)**
-
-France did not just produce a successful AI startup. It proved that Europe can build serious artificial intelligence outside Silicon ...
-
-📺 House of El - AI
-
-👁️ 13K • 👍 1K • 💬 126 • ⏱️ 8:25 • 16h ago
-
----
-
-**[So Much AI News: Claude Design, Opus 4.7, Perplexity Personal Computer, and NotebookLM Updates!](https://www.youtube.com/watch?v=RCVgaIWoogw)**
-
-Try i10x: https://i10x.ai?fpr=paul53 Save 15% with code "PJL15" This week's biggest AI updates: Claude Opus 4.7, Claude Design ...
-
-📺 Paul J Lipsky
-
-👁️ 26K • 👍 892 • 💬 88 • ⏱️ 18:52 • 1d ago
-
----
-
-**[I Asked AI to PREDICT the NEXT US PRESIDENT (The Answer Surprised Me)](https://www.youtube.com/watch?v=3n0RIgWOAbE)**
-
-See if your SSN is for sale right now. My sponsor Cloaked will tell you for free in 2 seconds here: https://cloaked.com/iaskai ...
-
-📺 I Ask AI
-
-👁️ 106K • 👍 5K • 💬 1K • ⏱️ 38:52 • 2d ago
-
----
-
-**[I know how the AI bubble ends now](https://www.youtube.com/watch?v=k_Lqd5JVl00)**
-
-We've reached the scam singularity. If you'd like to support my work, you can become a member to view member-only videos, ...
-
-📺 Mo Bitar
-
-👁️ 171K • 👍 9K • 💬 897 • ⏱️ 5:39 • 2d ago
+👁️ 18.7M • 👍 51K • 💬 56 • ⏱️ 0:08 • 2d ago
 
 ---
 
@@ -385,7 +389,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with a vision encoder, 
 
 `image-text-to-text` `36.0B`
 
-⬇️ 209,112 • ❤️ 942 • 4d ago
+⬇️ 209,112 • ❤️ 954 • 4d ago
 
 ---
 
@@ -397,7 +401,7 @@ HY-Embodied-0.5 is a multilingual vision-language model designed for embodied ag
 
 `image-text-to-text` `3.8B`
 
-⬇️ 1,599 • ❤️ 875 • 5d ago
+⬇️ 1,599 • ❤️ 878 • 5d ago
 
 ---
 
@@ -409,7 +413,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with vision capabilitie
 
 `image-text-to-text` `34.7B`
 
-⬇️ 662,293 • ❤️ 513 • 3d ago
+⬇️ 662,293 • ❤️ 521 • 3d ago
 
 ---
 
@@ -421,7 +425,7 @@ ERNIE-Image is a 8B parameter text-to-image diffusion model excelling in complex
 
 `text-to-image`
 
-⬇️ 3,761 • ❤️ 476 • 3d ago
+⬇️ 3,761 • ❤️ 479 • 3d ago
 
 ---
 
@@ -433,7 +437,7 @@ HY-World 2.0 is a multi-modal framework for generating and reconstructing 3D wor
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 466 • 3d ago
+⬇️ 0 • ❤️ 471 • 3d ago
 
 ---
 
@@ -445,7 +449,7 @@ MiniMax-M2.7 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 288,848 • ❤️ 983 • 2d ago
+⬇️ 288,848 • ❤️ 985 • 1h ago
 
 ---
 
@@ -457,7 +461,7 @@ Gemma 4 E4B OBLITERATED v3 is a text-generation model with 0% refusal and improv
 
 `text-generation` `8.0B`
 
-⬇️ 37,130 • ❤️ 350 • 5h ago
+⬇️ 37,130 • ❤️ 354 • 7h ago
 
 ---
 
@@ -473,18 +477,6 @@ A fast, uncensored GGUF text generation model based on Google's Gemma 4-26B, opt
 
 ---
 
-**[VoxCPM2](https://huggingface.co/openbmb/VoxCPM2)**
-
-*OpenBMB*
-
-VoxCPM2 is a 2B parameter, 30-language multilingual text-to-speech model capable of high-fidelity voice cloning, novel voice design from text descriptions, and real-time streaming synthesis at 48kHz.
-
-`text-to-speech`
-
-⬇️ 51,554 • ❤️ 1,163 • 3d ago
-
----
-
 **[ERNIE-Image-Turbo](https://huggingface.co/baidu/ERNIE-Image-Turbo)**
 
 *BAIDU*
@@ -493,7 +485,19 @@ ERNIE-Image-Turbo is a distilled text-to-image diffusion model optimized for spe
 
 `text-to-image`
 
-⬇️ 4,757 • ❤️ 320 • 3d ago
+⬇️ 4,757 • ❤️ 324 • 3d ago
+
+---
+
+**[VoxCPM2](https://huggingface.co/openbmb/VoxCPM2)**
+
+*OpenBMB*
+
+VoxCPM2 is a 2B parameter, 30-language multilingual text-to-speech model capable of high-fidelity voice cloning, novel voice design from text descriptions, and real-time streaming synthesis at 48kHz.
+
+`text-to-speech`
+
+⬇️ 51,554 • ❤️ 1,165 • 4d ago
 
 ---
 
@@ -521,7 +525,7 @@ LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from 
 
 Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-▲ 23 • 💬 1 • ⭐ 19,537 • 8mo ago
+▲ 23 • 💬 1 • ⭐ 19,648 • 8mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
@@ -545,7 +549,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 HY-World 2.0 is a multi-modal world model framework that generates high-fidelity 3D Gaussian Splatting scenes from diverse inputs using specialized modules for panorama generation, trajectory planning, world expansion, and composition, along with an enhanced rendering platform for interactive 3D exploration.
 
-▲ 91 • 💬 5 • ⭐ 1,233 • 5d ago
+▲ 94 • 💬 5 • ⭐ 1,303 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.14268) • [💻 code](https://github.com/Tencent-Hunyuan/HY-World-2.0) • [🔗 project](https://3d-models.hunyuan.tencent.com/world/)
 
@@ -559,7 +563,7 @@ HY-World 2.0 is a multi-modal world model framework that generates high-fidelity
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 165 • 💬 10 • ⭐ 40,293 • 7mo ago
+▲ 165 • 💬 10 • ⭐ 40,359 • 7mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -571,7 +575,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
 
-▲ 28 • 💬 1 • ⭐ 18,150 • 30mo ago
+▲ 28 • 💬 1 • ⭐ 18,161 • 30mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
 
@@ -597,7 +601,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
 
-▲ 159 • 💬 2 • ⭐ 60,524 • 6mo ago
+▲ 160 • 💬 2 • ⭐ 60,524 • 6mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
 
@@ -609,7 +613,7 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
 
-▲ 39 • 💬 2 • ⭐ 33,824 • 18mo ago
+▲ 39 • 💬 2 • ⭐ 33,850 • 18mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
 
@@ -623,7 +627,7 @@ LightRAG improves Retrieval-Augmented Generation by integrating graph structures
 
 DFlash is a speculative decoding framework that uses a lightweight block diffusion model for parallel token drafting, achieving significant speedup over existing autoregressive methods while maintaining high-quality outputs.
 
-▲ 53 • 💬 5 • ⭐ 1,883 • 2mo ago
+▲ 53 • 💬 5 • ⭐ 1,909 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2602.06036) • [💻 code](https://github.com/z-lab/dflash) • [🔗 project](https://z-lab.ai/projects/dflash/)
 
@@ -639,7 +643,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 48.1k • 🔱 6.3k • 5h ago
+⭐ 48.2k • 🔱 6.3k • 8h ago
 
 ---
 
@@ -649,7 +653,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 39.1k • 🔱 2.0k • 1d ago
+⭐ 39.3k • 🔱 2.0k • 1d ago
 
 ---
 
@@ -659,7 +663,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 36.5k • 🔱 7.4k • 15h ago
+⭐ 36.6k • 🔱 7.4k • 18h ago
 
 ---
 
@@ -669,7 +673,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 30.7k • 🔱 3.4k • 1d ago
+⭐ 30.8k • 🔱 3.4k • 1d ago
 
 ---
 
@@ -679,7 +683,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 8.2k • 🔱 532 • 8m ago
+⭐ 8.2k • 🔱 532 • 5m ago
 
 ---
 
@@ -699,7 +703,7 @@ AI Agent 源码深度研究报告
 
 `Python`
 
-⭐ 5.4k • 🔱 904 • 1d ago
+⭐ 5.4k • 🔱 912 • 1d ago
 
 ---
 
@@ -709,7 +713,7 @@ LIBERATED AI CHAT
 
 `TypeScript`
 
-⭐ 5.0k • 🔱 1.2k • 24d ago
+⭐ 5.0k • 🔱 1.2k • 25d ago
 
 ---
 
