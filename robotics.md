@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-20T11:52:00.447576+00:00'
+updated: '2026-04-20T13:45:10.239564+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 20, 2026 at 11:52 UTC  
+**Last Updated:** April 20, 2026 at 13:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,15 @@ Robotics research and industry news
 
 From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2045896309765288179
 
-9h ago
+10h ago
+
+---
+
+**[Little Robots Join the Half-Marathon. Some even run decked out in costumes .](https://www.reddit.com/r/robotics/comments/1sqo9f0/little_robots_join_the_halfmarathon_some_even_run/)**
+
+T.Yamazaki on 𝕏: https://x.com/ZappyZappy7/status/2046192595802656933 High Torque Robotics on YouTube: https://www.youtube.com/watch?v=aBe_ceuesEA
+
+1h ago
 
 ---
 
@@ -48,25 +56,25 @@ From 小互 on 𝕏: "Feels a bit like F1": https://x.com/xiaohu/status/20457868
 
 ---
 
-**[How did so many Chinese robot manufacturers catch up to Boston Dynamics?](https://www.reddit.com/r/robotics/comments/1sq2bzn/how_did_so_many_chinese_robot_manufacturers_catch/)**
+**[Update on Cubic Doggo: man, walking is hard](https://www.reddit.com/r/robotics/comments/1sq4rip/update_on_cubic_doggo_man_walking_is_hard/)**
 
-They had been working on their designs for years and I don't think they publish proprietary information so how is it that there are so many manufacturers with humanoid and 'Spot-form' robots that seem to be equal or outperform Boston Dynamics?
+Update from the previous post: https://www.reddit.com/r/robotics/comments/1rouerc/first_time_building_a_hobbyist_robot_from_scratch/ Added control since last time, which is actually the easy part with ROS2. I am also surprised by how versatile Dynamixel XL430-W250-T servos are; they even offer current-based position control that mimics the torque control. Hope their higher torque variants get cheaper over time. Made several iterations of the servos and battery arrangement to center the mass (redoing all the urdf is really quite something). Tried a few different walking gaits with IK calculated by ROS2, which I believe is oriented around position control, so a bit difficult to define arbitrary trajectories. Put on kitchen sponge clothes to increase friction on the feet. The previous attempt on all four feet twisted and broke off one leg, so now it sticks with only the two front legs. I think that is also why the back legs felt limp as a few screws went loose in that incident. Anyways, have a few things in mind to fix/try, and always welcome any recommendation: https://github.com/SphericalCowww/CubicDoggo
 
 16h ago
 
 ---
 
-**[Update on Cubic Doggo: man, walking is hard](https://www.reddit.com/r/robotics/comments/1sq4rip/update_on_cubic_doggo_man_walking_is_hard/)**
+**[How did so many Chinese robot manufacturers catch up to Boston Dynamics?](https://www.reddit.com/r/robotics/comments/1sq2bzn/how_did_so_many_chinese_robot_manufacturers_catch/)**
 
-Update from the previous post: https://www.reddit.com/r/robotics/comments/1rouerc/first_time_building_a_hobbyist_robot_from_scratch/ Added control since last time, which is actually the easy part with ROS2. I am also surprised by how versatile Dynamixel XL430-W250-T servos are; they even offer current-based position control that mimics the torque control. Hope their higher torque variants get cheaper over time. Made several iterations of the servos and battery arrangement to center the mass (redoing all the urdf is really quite something). Tried a few different walking gaits with IK calculated by ROS2, which I believe is oriented around position control, so a bit difficult to define arbitrary trajectories. Put on kitchen sponge clothes to increase friction on the feet. The previous attempt on all four feet twisted and broke off one leg, so now it sticks with only the two front legs. I think that is also why the back legs felt limp as a few screws went loose in that incident. Anyways, have a few things in mind to fix/try, and always welcome any recommendation: https://github.com/SphericalCowww/CubicDoggo
+They had been working on their designs for years and I don't think they publish proprietary information so how is it that there are so many manufacturers with humanoid and 'Spot-form' robots that seem to be equal or outperform Boston Dynamics?
 
-14h ago
+18h ago
 
 ---
 
 **[Everyone saw the Honour robot win… but nobody noticed what it did right after](https://www.reddit.com/r/robotics/comments/1spy9lg/everyone_saw_the_honour_robot_win_but_nobody/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -74,7 +82,21 @@ Update from the previous post: https://www.reddit.com/r/robotics/comments/1rouer
 
 Ali Kashani, founder and CEO of Serve Robotics and former head of robotics at Postmates X, has spent years deploying autonomous delivery robots in active urban environments. He mentions systems built only in controlled settings are based on assumptions. Once robots operate in public, those assumptions are tested immediately. People behave unpredictably, environments change, and situations come up that were never accounted for during development. Those conditions shape what actually needs to be solved. They expose gaps that do not appear in lab testing and force teams to prioritize what matters in real use.
 
-15h ago
+17h ago
+
+---
+
+**[10 months after our first trailer, we are back with a new look at The Odyssey](https://www.reddit.com/r/robotics/comments/1sqo294/10_months_after_our_first_trailer_we_are_back/)**
+
+1h ago
+
+---
+
+**[TF Luna Mount/Bracket](https://www.reddit.com/r/robotics/comments/1sqnzl6/tf_luna_mountbracket/)**
+
+Having a hard time figuring out how to physically mount this little guy to my servo SG-90. Anyone have any suggestions? Apologies if this has been covered, I haven't been able to find anything on the interweb.
+
+1h ago
 
 ---
 
@@ -83,30 +105,6 @@ Ali Kashani, founder and CEO of Serve Robotics and former head of robotics at Po
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2045678855638405436 https://x.com/XRoboHub/status/2045695900434276501
 
 1d ago
-
----
-
-**[What's your take on AI-generated environments for sim-to-real? HY-World 2.0 skips the video→3DGS→mesh chain entirely](https://www.reddit.com/r/robotics/comments/1sqivfr/whats_your_take_on_aigenerated_environments_for/)**
-
-Tencent just open-sourced HY-World 2.0 (https://github.com/Tencent-Hunyuan/HY-World-2.0). The key difference from video world models like Genie 3 or Cosmos is that it outputs real 3D assets (meshes, 3DGS) that you can import into Isaac Sim, Unity, Unreal, not just pixel videos. I've spent time trying to go from video world models → 3DGS → meshes and the information loss along the way is brutal. You end up with hole-y environments full of weird artifacts. WorldLabs' Marble was better because it generates 3DGS directly, but then the mesh conversion still sucked. I built my own conversion pipeline for their outputs and still wasn't happy with it. HY-World 2.0 skipping that whole chain and outputting usable 3D directly is a big deal if the quality holds up. For robotics sim specifically: this could be solid for fast environment generation and domain randomization. If you need a bunch of varied training environments quickly, this kind of tool gets you there. It won't replace handcrafted digital twins for teams that need hyperrealistic sim-to-real fidelity, but for the "I need 200 warehouse variations for my policy to generalize" use case, it could be a real speedup. Anyone else tried running the WorldMirror 2.0 reconstruction yet? Curious how the outputs actually look in a sim engine.
-
-3h ago
-
----
-
-**[New Robotis Humanoid](https://www.reddit.com/r/robotics/comments/1spuiai/new_robotis_humanoid/)**
-
-Robotis just revealed their new QDD actuators and their new open source humanoid robot. This robot very closely resembles Unitree G1, but it is totally open source in both hardware and software. I heard that the pricing will be competitive as well.
-
-🔗 [LinkedIn](https://www.linkedin.com/posts/yoonseokpyo_this-is-robotiss-open-source-entry-level-activity-7451595734975557632-eLLl/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEP9kBABMMZZVzJTJhId4-134XyBuXENZws) • 21h ago
-
----
-
-**[Reprogrammable artificial muscle can change its shape, recover from damage, and even be reused](https://www.reddit.com/r/robotics/comments/1sq1mki/reprogrammable_artificial_muscle_can_change_its/)**
-
-A research team in South Korea created an artificial muscle that can be reshaped during use, recover after damage, and even have part of its material reused in another device.
-
-🔗 [The Brighter Side of News](http://thebrighterside.news/post/reprogrammable-artificial-muscle-can-change-its-shape-recover-from-damage-and-even-be-reused) • 16h ago
 
 ---
 
@@ -124,35 +122,13 @@ Reuters • 1d ago
 
 Ukraine's Defense Ministry plans to contract 25,000 ground robots by mid-2026, aiming for 100% frontline logistics to be automated.
 
-UNITED24 Media • 21h ago
+UNITED24 Media • 23h ago
 
 ---
 
-**[Coast middle schoolers earn ticket to New Jersey for national robotics competition](https://www.sunherald.com/news/local/education/article315430264.html)**
+**[Connecticut’s top-ranked robotics team heading to FIRST World Championship in Texas](https://www.wtnh.com/news/connecticut/hartford/connecticuts-top-ranked-robotics-team-heading-to-first-world-championship-in-texas/)**
 
-“It feels very exciting and knowing that we are representing Mississippi gives us a lot of motivation.”
-
-Biloxi Sun Herald • 1h ago
-
----
-
-**[Alabama Considers Robotics to Augment Rural Obstetrics Care](https://dailyyonder.com/alabama-considers-robotics-to-augment-rural-obstetrics-care/2026/04/20/)**
-
-The Daily Yonder • 4h ago
-
----
-
-**[Hyperscale Data Accelerates Michigan Operations Capabilities for AI Data Center and Robotics Hub](https://www.morningstar.com/news/pr-newswire/20260420sf38043/hyperscale-data-accelerates-michigan-operations-capabilities-for-ai-data-center-and-robotics-hub)**
-
-Morningstar • 1h ago
-
----
-
-**[Skild AI Acquires Zebra Technologies’ Robotics Automation Business](https://pulse2.com/skild-ai-acquires-zebra-technologies-robotics-automation-business/)**
-
-Skild AI announced it has acquired the Robotics Automation business of Zebra Technologies, including its Symmetry Fulfillment orchestration platform, in a move aimed at transforming warehouse automation into a unified, scalable system.
-
-Pulse 2.0 • 1h ago
+WTNH.com • 1h ago
 
 ---
 
@@ -160,27 +136,49 @@ Pulse 2.0 • 1h ago
 
 Five fifth-grade students from St. Edward on the Lake Catholic School are headed to an international robotics competition in Atlanta.
 
-Times Herald • 3h ago
+Times Herald • 4h ago
 
 ---
 
-**[NAB 2026: EVS introduces Choreon robotics orchestration platform for unified production control](https://www.sportsvideo.org/2026/04/20/nab-2026-evs-introduces-choreon-robotics-orchestration-platform-for-unified-production-control/)**
+**[Alabama Considers Robotics to Augment Rural Obstetrics Care](https://dailyyonder.com/alabama-considers-robotics-to-augment-rural-obstetrics-care/2026/04/20/)**
 
-Sports Video Group • 54m ago
-
----
-
-**[FAMU Hosted Global High School Stem Athletes Who Competed To Qualify For First® International Robotics Championship - Florida A&M University](https://news.famu.edu/2025/famu-hosted-global-high-school-stem-athletes-who-competed-to-qualify-for-first-international-robotics-championship.php)**
-
-Florida A&M University - FAMU • 16h ago
+The Daily Yonder • 6h ago
 
 ---
 
-**[In a race between humans and robots, machines take the victory in a sign of advancements](https://www.nbcnews.com/world/china/humanoid-robots-race-humans-beijing-half-marathon-showing-rapid-advanc-rcna340842)**
+**[Coast middle schoolers earn ticket to New Jersey for national robotics competition](https://www.sunherald.com/news/local/education/article315430264.html)**
 
-Several robot frontrunners were noticeably faster than professional athletes, beating the human winners by more than 10 minutes.
+“It feels very exciting and knowing that we are representing Mississippi gives us a lot of motivation.”
 
-NBC News • 5h ago
+Biloxi Sun Herald • 3h ago
+
+---
+
+**[Hyperscale Data Accelerates Michigan Operations Capabilities for AI Data Center and Robotics Hub](https://www.morningstar.com/news/pr-newswire/20260420sf38043/hyperscale-data-accelerates-michigan-operations-capabilities-for-ai-data-center-and-robotics-hub)**
+
+Morningstar • 3h ago
+
+---
+
+**[Skild AI Acquires Zebra Technologies’ Robotics Automation Business](https://pulse2.com/skild-ai-acquires-zebra-technologies-robotics-automation-business/)**
+
+Skild AI announced it has acquired the Robotics Automation business of Zebra Technologies, including its Symmetry Fulfillment orchestration platform, in a move aimed at transforming warehouse automation into a unified, scalable system.
+
+Pulse 2.0 • 2h ago
+
+---
+
+**[Greer robotics team heads to world championship in St. Louis](https://www.wyff4.com/article/greer-robotics-team-world-championship-in-st-louis/71070176)**
+
+Four students from Greer Middle College, known as the "Wubba Duckies," are advancing to the VEX Robotics World Championship next week after months of preparation and a co-state championship win.
+
+WYFF News 4 • 1h ago
+
+---
+
+**[The Killer Robots Are Coming. The Battlefield Will Never Look the Same.](https://www.nytimes.com/2026/04/20/world/europe/ukraine-russia-war-robots-drones.html)**
+
+The New York Times • 4h ago
 
 ---
 
@@ -194,7 +192,7 @@ Physical Intelligence is building a foundation model that can control any robot 
 
 📺 Y Combinator
 
-👁️ 44K • 👍 1K • 💬 57 • ⏱️ 49:27 • 3d ago
+👁️ 45K • 👍 1K • 💬 57 • ⏱️ 49:27 • 3d ago
 
 ---
 
@@ -208,6 +206,16 @@ For more context and news coverage of the most important stories of our day, cli
 
 ---
 
+**[Robot in Poland scares off wild boars](https://www.youtube.com/watch?v=BmwTEOGb88k)**
+
+A humanoid robot named Edward Warchocki chased away a herd of wild boars in Warsaw, shouting "Go away!" in Polish as the ...
+
+📺 Reuters
+
+👁️ 46K • 👍 683 • 💬 77 • ⏱️ 0:26 • 5d ago
+
+---
+
 **[China Just Built an Autonomous AI Robot Army: Killer Robots With Guns and Rockets](https://www.youtube.com/watch?v=_Vw_6QrqS8c)**
 
 China just revealed an autonomous robot war pack built from dog bots, drones, laser weapons, and unmanned boats, Europe is ...
@@ -215,26 +223,6 @@ China just revealed an autonomous robot war pack built from dog bots, drones, la
 📺 AI Revolution
 
 👁️ 72K • 👍 1K • 💬 142 • ⏱️ 16:14 • 3d ago
-
----
-
-**[The Future is Mass-Produced: Inside the Canton Fair Robotics Hall](https://www.youtube.com/watch?v=S0eEXTn3zX4)**
-
-You think robots are still sci-fi? Think again. I'm at the this year's Canton Fair to show you the reality of the Chinese automation ...
-
-📺 Eric Cracks China
-
-👁️ 95K • 👍 3K • 💬 150 • ⏱️ 1:54 • 2d ago
-
----
-
-**[Robot in Poland scares off wild boars](https://www.youtube.com/watch?v=BmwTEOGb88k)**
-
-A humanoid robot named Edward Warchocki chased away a herd of wild boars in Warsaw, shouting "Go away!" in Polish as the ...
-
-📺 Reuters
-
-👁️ 45K • 👍 680 • 💬 77 • ⏱️ 0:26 • 5d ago
 
 ---
 
@@ -248,21 +236,23 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 ---
 
-**[Drag-and-drop welding robot.#welding #industry #stamping #robot #polish](https://www.youtube.com/watch?v=ZMOHebvddcY)**
+**[The Future is Mass-Produced: Inside the Canton Fair Robotics Hall](https://www.youtube.com/watch?v=S0eEXTn3zX4)**
 
-📺 Robot Linda 
+You think robots are still sci-fi? Think again. I'm at the this year's Canton Fair to show you the reality of the Chinese automation ...
 
-👁️ 25K • 👍 163 • 💬 3 • ⏱️ 0:30 • 2d ago
+📺 Eric Cracks China
+
+👁️ 96K • 👍 3K • 💬 151 • ⏱️ 1:54 • 2d ago
 
 ---
 
-**[I Made a 3D Printed Gearbox. #3dprinting #gearbox #robotics #steppermotor](https://www.youtube.com/watch?v=vYnedIup1Nk)**
+**[Toyota has unveiled CUE7, the latest version of its basketball-playing robot](https://www.youtube.com/watch?v=Or323Jrtbao)**
 
-I made a 3D printed gearbox for a Nema 17 stepper motor. I released the 3D files on Printables.com. Checkout the full video for ...
+The system uses vision, motion planning, and control technologies to detect targets, estimate distance, and execute precise shots.
 
-📺 Advanced Hobby Lab
+📺 Cybernews
 
-👁️ 99K • 👍 1K • 💬 12 • ⏱️ 0:27 • 2d ago
+👁️ 23K • 👍 194 • 💬 26 • ⏱️ 0:30 • 5d ago
 
 ---
 
@@ -272,17 +262,27 @@ Boston Dynamics just did what most people thought would take years longer. Atlas
 
 📺 AI Revolution
 
-👁️ 143K • 👍 3K • 💬 211 • ⏱️ 21:49 • 6d ago
+👁️ 144K • 👍 3K • 💬 214 • ⏱️ 21:49 • 6d ago
 
 ---
 
-**[Brand New Haro380 6-Axis Mini Industrial Robot | WLKATA](https://www.youtube.com/watch?v=T5t0leyjU00)**
+**[Polonia, robot umanoide scaccia cinghiali a Varsavia](https://www.youtube.com/watch?v=Rl5BTtsYWO8)**
 
-Introducing the brand new Haro380 6-Axis mini industrial robotic arm. Get a first look at its smooth motion, precise control, and ...
+Un robot umanoide rincorre un gruppo di cinghiali in una strada di Varsavia. Protagonista di questo video surreale è Edward ...
 
-📺 WLKATA ROBOTICS
+📺 RaiNews
 
-👁️ 60K • 👍 1K • 💬 36 • ⏱️ 2:11 • 6d ago
+👁️ 160K • 👍 2K • 💬 451 • ⏱️ 0:26 • 5d ago
+
+---
+
+**[Smarter Inspections Powered by Google Gemini Robotics | Boston Dynamics](https://www.youtube.com/watch?v=kBwxmlI2yHQ)**
+
+The introduction of AI Visual inspections expanded what Spot and Orbit could tell you about your facility - now, AIVI-Learning ...
+
+📺 Boston Dynamics
+
+👁️ 47K • 👍 2K • 💬 131 • ⏱️ 1:40 • 5d ago
 
 ---
 

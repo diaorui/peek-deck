@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-20T11:52:00.444839+00:00'
+updated: '2026-04-20T13:45:10.236359+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - news
+- cryptocurrency
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 20, 2026 at 11:52 UTC  
+**Last Updated:** April 20, 2026 at 13:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.8%  
+**24h:** -1.3%  
 **7d:** -0.4%  
-**30d:** +12.7%  
+**30d:** +12.6%  
 **90d:** -22.7%  
-**1y:** +46.3%  
+**1y:** +46.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $279.32B
+**Market Cap:** $279.29B
 Rank #2
 
 **Circulating Supply:** 120,690,332 ETH
@@ -62,7 +62,7 @@ No max supply
 -53.2%
 
 **All-Time Low:** $0.43
-+534819.7%
++534131.5%
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+8h ago
 
 ---
 
 **[84% of Polymarket users are trading at a loss.](https://www.reddit.com/r/ethereum/comments/1sqa9xi/84_of_polymarket_users_are_trading_at_a_loss/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -110,13 +110,13 @@ Feels kinda bigger than a normal crypto meetup tbh Ethereum getting a real physi
 
 Do you guys find smaller communities better than larger ones when it comes to actual discussions? In bigger groups, there’s always activity, but a lot of conversations feel surface-level or get lost quickly. In smaller communities, it seems easier to follow discussions, people engage more, and ideas actually develop over time. I’ve been noticing that difference more lately — feels like smaller groups tend to be more consistent, and people actually talk rather than just dropping messages and disappearing. At the same time, larger communities do have the advantage of more perspectives and faster information flow. Curious what others prefer — fast-moving large communities, or smaller groups where discussions are more focused and interactive
 
-13h ago
+15h ago
 
 ---
 
 **[Key Takeaways from Mike Toutonghi’s Paris Blockchain Week 2026 Keynote](https://www.reddit.com/r/ethereum/comments/1sps1nj/key_takeaways_from_mike_toutonghis_paris/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -146,19 +146,35 @@ Hello everyone. I recently built an Ethereum page that shows how Ethereum would 
 
 ## Google News: "ethereum"
 
-**[Ethereum Price Prediction: How Much Will 1 ETH Be Worth by 2030?](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-prediction-much-1-175358502.html)**
+**[Crypto Trader Turns $2,500 Into $500K on Skyrocketing Ethereum Meme Coin](https://finance.yahoo.com/markets/crypto/articles/crypto-trader-turns-2-500-182605699.html)**
 
-Ethereum (CRYPTO: ETH) is trading around $2,350 after one of its worst quarters in years. ETH dipped by 32% in Q1, marking its third-worst first quarter since 2016. Despite the awful first quarter, Ethereum’s on-chain activity keeps hitting record highs in 2026, and ETH is up 6% over the past week. Looking at the long ... Ethereum Price Prediction: How Much Will 1 ETH Be Worth by 2030?
+A meme coin trader turned $2,500 into nearly $500,000 in a matter of hours via the Elon Musk-linked ASTEROID token on Ethereum.
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 2d ago
 
 ---
 
-**[Ethereum co-founder Joseph Lubin warns of the dangers of AI being controlled by a few big tech firms](https://www.coindesk.com/tech/2026/04/18/ethereum-co-founder-joseph-lubin-warns-of-the-dangers-of-ai-being-controlled-by-a-few-big-tech-firms)**
+**[Current price of Ethereum for April 20, 2026](https://fortune.com/article/price-of-ethereum-04-20-2026/)**
 
-In an interview with CoinDesk, the Ethereum co-founder spoke also about Ethereum’s evolution through MetaMask, stablecoins and tokenization, while downplaying quantum computing as a long-term, manageable issue.
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-CoinDesk • 1d ago
+Fortune • 36m ago
+
+---
+
+**[BMNR news: Bitmine acquires more than $230 million in ether (ETH) its largest weekly haul of 2026](https://www.coindesk.com/business/2026/04/20/bitmine-buys-101-627-ether-worth-over-usd230-million-its-largest-weekly-haul-of-2026)**
+
+The Ethereum treasury firm is nearing 5 million ETH holdings as it has sped its accumulation pace over the past weeks.
+
+CoinDesk • 45m ago
+
+---
+
+**[‘Entire Banking System Will Go To Ethereum,’ Claims Raoul Pal — Will ETH Price Surge If Wall Street Goes On-chain?](https://finance.yahoo.com/markets/crypto/articles/entire-banking-system-ethereum-claims-131215319.html)**
+
+Raoul Pal argues the “entire banking system” could migrate to Ethereum. Ethereum’s growing dominance in tokenization and interest from Wall Street is sparking debate. Analysts ...
+
+Yahoo Finance • 32m ago
 
 ---
 
@@ -166,7 +182,7 @@ CoinDesk • 1d ago
 
 Why I withdrew every dollar from Aave V3 this weekend, and what every USDT, USDC, and ETH lender should be watching before they decide to stay.
 
-thestreet.com • 15h ago
+thestreet.com • 17h ago
 
 ---
 
@@ -174,15 +190,15 @@ thestreet.com • 15h ago
 
 Bitmine Immersion’s ETH staking drives 97%+ gross margins and surging revenue, but dilution and negative cash flow raise risks. Read why BMNR stock is a buy.
 
-Seeking Alpha • 1d ago
+Seeking Alpha • 2d ago
 
 ---
 
-**[Ethereum Flips Key Resistance, ETF Demand Returns, Analysts Eye Next Leg Higher](https://www.tradingview.com/news/newsbtc:acbe10895094b:0-ethereum-flips-key-resistance-etf-demand-returns-analysts-eye-next-leg-higher/)**
+**[The quantum gap: Why Bitcoin and Ethereum are taking different paths on security](https://www.tradingview.com/news/cointelegraph:dc1817e20094b:0-the-quantum-gap-why-bitcoin-and-ethereum-are-taking-different-paths-on-security/)**
 
-Ethereum is flashing a combination of technical and on-chain signals that analysts say could be the beginning of a meaningful recovery. For the first time in months, the structure of Ethereum’s price action appears to be shifting in the favor of bulls.The latest price action has brought the ETH pri…
+The quantum divide between Bitcoin and EthereumQuantum computing has long been viewed as a distant, largely theoretical threat to blockchain systems. However, that perspective is now starting to change.With major technology companies such as Google establishing timelines for post-quantum cryptograp…
 
-TradingView • 17h ago
+TradingView • 7h ago
 
 ---
 
@@ -190,35 +206,19 @@ TradingView • 17h ago
 
 Renowned investor&nbsp;and media personality Kevin O'Leary said Sunday that investors only need Bitcoin (CRYPTO: BTC) and Ethereum
 
-Benzinga • 6h ago
-
----
-
-**[Why BitMine’s Tom Lee Sees Ethereum at $62,500 in 2030 - and What the Numbers Actually Show](https://247wallst.com/investing/2026/04/18/why-bitmines-tom-lee-sees-ethereum-at-62500-in-2030-and-what-the-numbers-actually-show/)**
-
-Crypto investors have watched Ethereum (CRYPTO:ETH) trade in a narrow range near $2,362 while Bitcoin hovers around $76,000 and institutional money quietly builds positions in digital assets. Adoption metrics keep climbing — stablecoins on Ethereum now handle trillions in annual volume, and layer-2 networks process thousands of transactions per second. Yet price action feels stuck. ... Why BitMine’s Tom Lee Sees Ethereum at $62,500 in 2030 — and What the Numbers Actually Show
-
-24/7 Wall St. • 1d ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC holds steady, ETH tests support, XRP weakens amid renewed US–Iran Strait of Hormuz tensions](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-holds-steady-eth-tests-support-xrp-weakens-amid-renewed-us-iran-strait-of-hormuz-tensions-202604200339)**
-
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) surged more than 4%, 3% and 5% in the previous week.
-
-FXStreet • 8h ago
+Benzinga • 8h ago
 
 ---
 
 **[Ethereum staking crosses 32% – Yet ETH still lacks ONE KEY driver](https://ambcrypto.com/ethereum-staking-crosses-32-yet-eth-still-lacks-one-key-driver/)**
 
-AMBCrypto • 9h ago
+AMBCrypto • 11h ago
 
 ---
 
 **[Investors Buy the Dip: Grayscale’s Ethereum Mini Trust Draws Fresh Cash as ETH Stumbles](https://www.tipranks.com/news/cryptocurrencies/investors-buy-the-dip-grayscales-ethereum-mini-trust-draws-fresh-cash-as-eth-stumbles)**
 
-TipRanks • 1h ago
+TipRanks • 3h ago
 
 ---
 
@@ -232,17 +232,7 @@ Its a video about bitcoin, ethereum, crypto in general. But its quite an unusual
 
 📺 Thomas Kralow
 
-👁️ 15K • 👍 2K • 💬 71 • ⏱️ 7:52 • 1d ago
-
----
-
-**[What Just Happened!? Billions Of $ Just Exited ETH Defi As Hacker Leave Defi Protocols In Trouble!!](https://www.youtube.com/watch?v=LxUnO-6QPH4)**
-
-Welcome back for another daily market update as always this will be a jam packed one! Join the Patreon and get exclusive ...
-
-📺 AllinCrypto
-
-👁️ 15K • 👍 774 • 💬 364 • ⏱️ 19:21 • 23h ago
+👁️ 16K • 👍 2K • 💬 72 • ⏱️ 7:52 • 1d ago
 
 ---
 
@@ -252,37 +242,7 @@ IT'S RIGGED! Buckle Up' Bitcoin & Crypto Holders ⭐ Follow Altcoin Daily on X: 
 
 📺 Altcoin Daily
 
-👁️ 43K • 👍 2K • 💬 148 • ⏱️ 11:59 • 1d ago
-
----
-
-**[BITCOIN &amp; ALTCOIN PULLBACK: New Targets Revealed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=jNJJR5z9M4o)**
-
-BITCOIN & ALTCOIN PULLBACK: New Targets Revealed!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
-
-📺 Crypto World
-
-👁️ 4K • 👍 243 • 💬 355 • ⏱️ 21:18 • 10h ago
-
----
-
-**[More Powerful Ethereum Coming This Summer🚨Ethereum Economic Zone INTERVIEW](https://www.youtube.com/watch?v=3uuRT5Zoi5s)**
-
-The Ethereum Economic Zone (EEZ) is a framework co-funded by the Ethereum Foundation, Gnosis, and Zisk to unify fragmented ...
-
-📺 Paul Barron Network
-
-👁️ 25K • 👍 1K • 💬 94 • ⏱️ 19:55 • 1d ago
-
----
-
-**[Raoul Pal Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [2026 Realistic Prediction]](https://www.youtube.com/watch?v=o6-yoeXkA9c)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 5K • 👍 258 • 💬 20 • ⏱️ 20:54 • 1d ago
+👁️ 44K • 👍 2K • 💬 149 • ⏱️ 11:59 • 1d ago
 
 ---
 
@@ -292,37 +252,75 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 32 • 👍 2 • ⏱️ 4:37 • 2h ago
+👁️ 142 • 👍 10 • 💬 2 • ⏱️ 4:37 • 4h ago
 
 ---
 
-**[BITCOIN VOLATILITY ALERT: OIL UP 10% ON HORMUZ TENSIONS, ETH HIT BY AAVE HACK](https://www.youtube.com/watch?v=EVaT3iUMUBM)**
+**[What Just Happened!? Billions Of $ Just Exited ETH Defi As Hacker Leave Defi Protocols In Trouble!!](https://www.youtube.com/watch?v=LxUnO-6QPH4)**
 
-Daily BTC, ETH, TSLA trades. Subscribe. Bybit bonus up to $30000 https://partner.bybit.com/b/Buyalts Weex, $200 sign-up, ...
+Welcome back for another daily market update as always this will be a jam packed one! Join the Patreon and get exclusive ...
 
-📺 James Crypto Guru
+📺 AllinCrypto
 
-👁️ 1K • 👍 120 • 💬 8 • ⏱️ 14:01 • 12h ago
-
----
-
-**[Ethereum Price Today: Why ETH is Holding $2,200 Despite Market Dip](https://www.youtube.com/watch?v=UOw9uookEp8)**
-
-Ethereum (ETH) is entering a new "Engineering Upgrade" era with the upcoming Glamsterdam hard fork targeted for mid-2026.
-
-📺 Crypto Moon Radar
-
-👁️ 2 • ⏱️ 7:13 • 8h ago
+👁️ 15K • 👍 790 • 💬 368 • ⏱️ 19:21 • 1d ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=ynlNYx8T8cE)**
+**[BITCOIN &amp; ALTCOIN PULLBACK: New Targets Revealed!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=jNJJR5z9M4o)**
+
+BITCOIN & ALTCOIN PULLBACK: New Targets Revealed!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
+
+📺 Crypto World
+
+👁️ 5K • 👍 264 • 💬 369 • ⏱️ 21:18 • 12h ago
+
+---
+
+**[Raoul Pal Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [2026 Realistic Prediction]](https://www.youtube.com/watch?v=o6-yoeXkA9c)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 5K • 👍 265 • 💬 20 • ⏱️ 20:54 • 1d ago
+
+---
+
+**[More Powerful Ethereum Coming This Summer🚨Ethereum Economic Zone INTERVIEW](https://www.youtube.com/watch?v=3uuRT5Zoi5s)**
+
+The Ethereum Economic Zone (EEZ) is a framework co-funded by the Ethereum Foundation, Gnosis, and Zisk to unify fragmented ...
+
+📺 Paul Barron Network
+
+👁️ 25K • 👍 1K • 💬 98 • ⏱️ 19:55 • 1d ago
+
+---
+
+**[They’ve always known who Satoshi is. #crypto #ethereum #xrp #bitcoin](https://www.youtube.com/watch?v=DHXozCujtNI)**
+
+📺 Digital Asset Investor
+
+👁️ 424 • 👍 21 • ⏱️ 1:03 • 1h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=YTyUzpF9usU)**
 
 Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
 
 📺 Crypto Gyan
 
-👁️ 741 • 👍 76 • ⏱️ 5:00 • 7h ago
+👁️ 194 • 👍 35 • 💬 2 • ⏱️ 6:10 • 1h ago
+
+---
+
+**[Michael Saylor&#39;s Strategy, But For ETH! #crypto #bitcoin #ethereum](https://www.youtube.com/watch?v=G8uJ80ktKQQ)**
+
+Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to stay smart on crypto: ...
+
+📺 Milk Road
+
+👁️ 383 • 👍 10 • 💬 2 • ⏱️ 0:49 • 19h ago
 
 ---
 

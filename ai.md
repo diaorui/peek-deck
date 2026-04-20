@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-20T11:52:00.432235+00:00'
+updated: '2026-04-20T13:45:10.221260+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- videos
 - repositories
 - social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 20, 2026 at 11:52 UTC  
+**Last Updated:** April 20, 2026 at 13:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 A new study from UCLA, MIT, Oxford, and Carnegie Mellon gave 1,222 people AI assistants for cognitive tasks — then pulled the plug midway through. The results: - After ~10 minutes of AI-assisted problem solving, people who lost access to AI performed **worse** than those who never had it - They didn't just get more wrong answers — they **stopped trying altogether** - The effect showed up across math AND reading comprehension - Ran 3 separate experiments (350 → 670 → full cohort). Same result every time. The researchers call it the "boiling frog" effect — each AI interaction feels costless, but your cognitive muscles are quietly atrophying. The UCLA co-author warns this could create "a generation of learners who will not know what they're capable of." Study hasn't been peer-reviewed yet, but the sample size is solid and it's the first causal (not correlational) evidence of AI-induced cognitive decline. The uncomfortable question: if 10 minutes is enough to measurably damage independent performance, what does months of daily use do? Full breakdown → https://synvoya.com/blog/2026-04-20-ai-boiling-frog-cognition-study/ Be honest — have you noticed yourself giving up faster on problems since you started using AI daily? https://preview.redd.it/xm3dil38e9wg1.jpg?width=2752&format=pjpg&auto=webp&s=4cec0fb89dbc1c8bfa303e06ec9622bb48bfc9ae
 
-9h ago
+10h ago
 
 ---
 
@@ -49,7 +49,7 @@ A new study from UCLA, MIT, Oxford, and Carnegie Mellon gave 1,222 people AI ass
 
 Why on earth would you pay $49/mo for a polished Saas product when you can spend $500 a day building one for yourself in Claude. Absolute insanity if you ask me. The End of Software.
 
-15h ago
+17h ago
 
 ---
 
@@ -57,7 +57,15 @@ Why on earth would you pay $49/mo for a polished Saas product when you can spend
 
 The company has won major Pentagon contracts, including work on Project Maven, an AI‑driven targeting and surveillance program.
 
-🔗 [Newsweek](https://www.newsweek.com/us-draft-update-major-tech-company-urges-universal-national-service-11850885) • 13h ago
+🔗 [Newsweek](https://www.newsweek.com/us-draft-update-major-tech-company-urges-universal-national-service-11850885) • 15h ago
+
+---
+
+**[Wasting hundreds on API credits with runaway agents is basically a rite of passage at this point. Here's mine.](https://www.reddit.com/r/artificial/comments/1sqn7ej/wasting_hundreds_on_api_credits_with_runaway/)**
+
+I'm starting to think this is a shared experience now. Everyone I know building with agentic AI has the same quiet confession tucked somewhere in their git history. The weekend they left an agent running unsupervised. The invoice that arrived on Monday. The forensic work trying to figure out what it actually did. Mine was over 400 dollars across two days. My agent rephrased the same research task to itself for forty eight hours and produced nothing. Felt like I'd been mugged by a very polite philosopher. After the third time this happened I stopped being annoyed and started being curious. What is the agent actually thinking during one of these loops. Can I see it happen. Can I catch it before the Monday invoice. So I built a dashboard. It turned into a 3D visualisation of the agent's working memory in real time, with deliberate colour coding because I wanted to understand what was going on at a glance. Here's what the colours mean, because this is the part that took me longest to get right and I haven't seen anyone else frame it this way. Nodes are beliefs the agent is holding. The colour of a node is its health. Bright green means the belief is fresh and actively being used in reasoning. Soft blue means it's older but still relevant. Grey means it's fading and likely to be forgotten on the next cleanup. Edges are connections the agent has drawn between facts. Edges pulse softly when the agent cross references two beliefs to make a decision. A tight cluster pulsing the same edges over and over is the visual signature of a loop, and you can see it long before the invoice notices. The whole graph also carries an overlay tint. Green is healthy. Yellow is "the agent is starting to overthink, keep an eye on this". Orange is repeated self referencing, probably looping. Red is stop the agent now, it has burned through its reasoning budget and is no longer making progress. Red is what would have saved me the forty seven dollar weekend if I'd had this running at the time. Here's the thing I didn't expect. A looping agent doesn't look chaotic. It looks calm. A small cluster of three or four nodes with the same two edges pulsing in rotation, like a tiny orbit. The first time I watched a real loop play back with colour, I understood why I hadn't caught it by reading logs. The logs looked busy. The graph looked bored. I've been sitting with this a few weeks now and I'm increasingly convinced agent observability is about to become its own category. We spent the last decade figuring out how to watch microservices. We're about to spend the next decade figuring out how to watch agents, and I don't think it's going to look anything like the first one. Anyway, enough from me. Genuinely want to hear the rite of passage stories. What's the dumbest way an autonomous agent has eaten your API budget. Mutually assured commiseration in the comments. www.octopodas.com I would love peoples feedback!
+
+1h ago
 
 ---
 
@@ -65,7 +73,7 @@ The company has won major Pentagon contracts, including work on Project Maven, a
 
 Some experts argue that AI was just used as an excuse for poor business decisions.
 
-🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/tech-industry-lays-off-nearly-80-000-employees-in-the-first-quarter-of-2026-almost-50-percent-of-affected-positions-cut-due-to-ai) • 20h ago
+🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/tech-industry-lays-off-nearly-80-000-employees-in-the-first-quarter-of-2026-almost-50-percent-of-affected-positions-cut-due-to-ai) • 22h ago
 
 ---
 
@@ -73,7 +81,7 @@ Some experts argue that AI was just used as an excuse for poor business decision
 
 The New York Times: "The program found that nearly 20 percent of the novels had been substantially written by A.I. Looking mostly at novels released between 2024 and 2025, Chakrabarty saw a 41 percent jump year-over-year in how many novels in his random sample contained a large amount of A.I. generated text"
 
-13h ago
+15h ago
 
 ---
 
@@ -81,15 +89,7 @@ The New York Times: "The program found that nearly 20 percent of the novels had 
 
 I strongly believe that compute access is doing more to shape AI progress right now than any algorithmic insight - not because ideas don't matter but because you literally cannot test big ideas without big compute and only a handful of organizations have that. everyone else is fighting over scraps or fine tuning someone else's foundation model. Am i wrong or does this feel accurate to people working in the field? Curious to know what you think
 
-5h ago
-
----
-
-**[Local LLM Beginner’s Guide (Mac - Apple Silicon)](https://www.reddit.com/r/artificial/comments/1sqjk0r/local_llm_beginners_guide_mac_apple_silicon/)**
-
-If you're getting started with running local LLMs on a Mac (M1 or newer), here’s a rough breakdown of what you can expect based on RAM: 32–64 GB RAM Models: Qwen 3.6, Gemma 4 Performance: Comparable to Claude Sonnet-level models Good for: Daily use, coding help, lightweight agents ~128 GB RAM Models: Minimax M2.7 (and similar mid-large models) Performance: Around Claude Opus-level Good for: Heavier reasoning, longer context tasks 256 GB+ RAM Models: GLM 5.1 Performance: Near top-tier proprietary models Good for: Advanced research workflows, complex agents Notes: Apple Silicon (M1 and above) works surprisingly well thanks to unified memory Metal acceleration keeps improving performance across frameworks The local LLM ecosystem is evolving fast expect new models and optimizations every week Running models locally is becoming more practical by the day. If you’ve been on the fence, now’s a good time to start experimenting.
-
-3h ago
+7h ago
 
 ---
 
@@ -97,7 +97,7 @@ If you're getting started with running local LLMs on a Mac (M1 or newer), here�
 
 Hey everyone, I’ve been diving into advanced workflow orchestration lately—working with tools like LangChain / LangGraph, AWS Step Functions, and concepts like fuzzy canonicalization. I’m trying to get a broader, more future-proof understanding of this space. What other tools, patterns, or concepts would you recommend I explore next? Could be anything from orchestration, distributed systems, LLM infra, or production best practices. Would love to hear what’s been valuable in your experience.
 
-8h ago
+10h ago
 
 ---
 
@@ -105,7 +105,7 @@ Hey everyone, I’ve been diving into advanced workflow orchestration lately—w
 
 Hello everyone, i'm an aspiring finance executive (or really anything good within the world of finance), and lately i've been wondering how the finance industry is going to look in the future thanks to AI. I've been getting more into finance recently and seeing the kind of work that is done in the industry (stuff such as HFT, financial modeling, etc...) and also been seeing how AI is getting better at doing that kind of work at a very fast rate, not quite there to be left out on its own right now but making noticeable improvements. Because I haven't started working at all yet (still modeling what I want to do with my life and professional growth in the future), I am basically forced to look to the future, so that has left me with the main question here: How exactly is the financial industry going to change and what exactly will humans have left to do in it? I'm asking so I can start working more on those skills earlier, instead of wasting time on perfecting skills that AI is largely going to take over.
 
-13h ago
+15h ago
 
 ---
 
@@ -113,7 +113,7 @@ Hello everyone, i'm an aspiring finance executive (or really anything good withi
 
 Discover the magic of the internet at Imgur, a community powered entertainment destination. Lift your spirits with funny jokes, trending memes, entertaining gifs, inspiring stories, viral videos, and so much more from users.
 
-🔗 [Imgur](https://i.imgur.com/cyY0cxE.png) • 17h ago
+🔗 [Imgur](https://i.imgur.com/cyY0cxE.png) • 18h ago
 
 ---
 
@@ -121,65 +121,9 @@ Discover the magic of the internet at Imgur, a community powered entertainment d
 
 ## Google News: "ai"
 
-**[Thousands of CEOs admit AI had no impact on employment or productivity—and it has economists resurrecting a paradox from 40 years ago](https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/)**
+**[Exclusive | Adobe Unveils Agents for Businesses Amid Threat of AI Disruption](https://www.wsj.com/cio-journal/adobe-unveils-agents-for-businesses-amid-threat-of-ai-disruption-d3cf479c)**
 
-In the 1980s, economist Robert Solow made an observation that reminded economists of today’s AI boom: “You can see the computer age everywhere but in the productivity statistics.”
-
-Fortune • 20h ago
-
----
-
-**[Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain](https://thehackernews.com/2026/04/anthropic-mcp-design-vulnerability.html)**
-
-MCP design flaw enables RCE across 7,000+ servers and 150M downloads, impacting AI SDKs and supply chains.
-
-The Hacker News • 1h ago
-
----
-
-**[Buy this cybersecurity stock as agentic AI grows, Barclays says](https://www.cnbc.com/2026/04/20/buy-this-cybersecurity-stock-as-agentic-ai-grows-barclays-says.html)**
-
-The bank upgraded the cybersecurity software stock to overweight from equal weight.
-
-CNBC • 47m ago
-
----
-
-**[‘Technofascism’: Critics accuse Palantir of pushing AI war doctrine](https://www.aljazeera.com/news/2026/4/20/technofascism-critics-accuse-palantir-of-pushing-ai-war-doctrine)**
-
-Palantir CEO Alexander Karp's book The Technological Republic advocates for Western 'hard power ... built on software'.
-
-Al Jazeera • 1h ago
-
----
-
-**[Marvell shares gain on report of deal talks with Google to develop two AI chips](https://www.reuters.com/business/marvell-shares-gain-report-deal-talks-with-google-develop-two-ai-chips-2026-04-20/)**
-
-Reuters • 56m ago
-
----
-
-**[Nvidia Stock Falls. Why It’s Still ‘Leading the Charge’ in AI Chips.](https://www.barrons.com/articles/nvidia-stock-price-ai-chips-c8594bf7)**
-
-Barron's • 8m ago
-
----
-
-**[Google Eyes New Chips to Speed Up AI Results, Challenging Nvidia](https://www.bloomberg.com/news/features/2026-04-20/google-eyes-new-chips-to-speed-up-ai-results-challenging-nvidia)**
-
-Bloomberg.com • 1h ago
-
----
-
-**[Axios C-Suite: Your org chart for the AI era](https://www.axios.com/2026/04/20/ai-business-org-chart-power-users-chatgpt-claude)**
-
-Axios • 1h ago
-
----
-
-**[Marc Benioff Says the Software Bears Are All Wrong About Salesforce](https://www.wsj.com/tech/ai/marc-benioff-says-the-software-bears-are-all-wrong-about-salesforce-c7042852)**
-
-WSJ • 9h ago
+WSJ • 1h ago
 
 ---
 
@@ -187,7 +131,63 @@ WSJ • 9h ago
 
 Head of financial services group’s $1.4tn asset management division expects new tech to unleash huge productivity gains
 
-Financial Times • 7h ago
+Financial Times • 9h ago
+
+---
+
+**[San Francisco tests whether AI can run a retail store](https://www.axios.com/local/san-francisco/2026/04/20/san-francisco-ai-store-marina-andon-market-anthropic-retail-experiment)**
+
+Axios • 15m ago
+
+---
+
+**[AI Nuclear Power Developer Fermi Slumps After Abrupt Exit of CEO](https://www.bloomberg.com/news/articles/2026-04-20/ai-nuclear-power-developer-fermi-slumps-after-abrupt-exit-of-ceo)**
+
+Bloomberg.com • 43m ago
+
+---
+
+**[AI In Hollywood: Saying Yes To Utility AI – And No To Generative AI](https://www.forbes.com/sites/heatherwishartsmith/2026/04/20/ai-in-hollywood-saying-yes-to-utility-ai--and-no-to-generative-ai/)**
+
+Forbes • 6m ago
+
+---
+
+**[AI chatbots could be making you stupider](https://www.bbc.com/future/article/20260417-ai-chatbots-could-be-making-you-stupider)**
+
+As large language models take over more and more cognitive tasks, researchers are warning this mental outsourcing comes with a cost.
+
+BBC • 3h ago
+
+---
+
+**[Buy this cybersecurity stock as agentic AI grows, Barclays says](https://www.cnbc.com/2026/04/20/buy-this-cybersecurity-stock-as-agentic-ai-grows-barclays-says.html)**
+
+The bank upgraded the cybersecurity software stock to overweight from equal weight.
+
+CNBC • 2h ago
+
+---
+
+**[‘Technofascism’: Critics accuse Palantir of pushing AI war doctrine](https://www.aljazeera.com/news/2026/4/20/technofascism-critics-accuse-palantir-of-pushing-ai-war-doctrine)**
+
+Palantir CEO Alexander Karp's book The Technological Republic advocates for Western 'hard power ... built on software'.
+
+Al Jazeera • 2h ago
+
+---
+
+**[Why your AI assistant is suddenly selling to you](https://www.economist.com/business/2026/04/19/why-your-ai-assistant-is-suddenly-selling-to-you)**
+
+The Economist • 1d ago
+
+---
+
+**[AI chatbots are giving people alternatives to chemotherapy, study finds](https://www.nbcnews.com/health/health-news/chatbots-offer-problematic-cancer-vaccines-5g-advice-study-rcna332068)**
+
+Popular artificial intelligence programs told users where to find alternative, potentially dangerous treatments for cancer and other health scenarios.
+
+NBC News • 4h ago
 
 ---
 
@@ -197,7 +197,7 @@ Financial Times • 7h ago
 
 **[College instructor turns to typewriters to curb AI-written work](https://news.ycombinator.com/item?id=47818485)**
 
-⬆️ 475 • 💬 418 • 1d ago • [sentinelcolorado.com](https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/)
+⬆️ 477 • 💬 421 • 1d ago • [sentinelcolorado.com](https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/)
 
 ---
 
@@ -205,7 +205,7 @@ Financial Times • 7h ago
 
 Police lured the man to a meeting and arrested him after accessing a private WhatsApp group with colleagues
 
-⬆️ 276 • 💬 179 • 22h ago • [LBC](https://www.lbc.co.uk/article/dubai-police-spied-private-whatsapp-5HjdXwr_2/)
+⬆️ 276 • 💬 182 • 1d ago • [LBC](https://www.lbc.co.uk/article/dubai-police-spied-private-whatsapp-5HjdXwr_2/)
 
 ---
 
@@ -213,7 +213,7 @@ Police lured the man to a meeting and arrested him after accessing a private Wha
 
 Scan your website to see if it's ready for AI agents. Check for llms.txt, MCP, agent skills, and other agent-friendly standards.
 
-⬆️ 112 • 💬 176 • 2d ago • [Is Your Site Agent-Ready?](https://isitagentready.com)
+⬆️ 112 • 💬 177 • 2d ago • [Is Your Site Agent-Ready?](https://isitagentready.com)
 
 ---
 
@@ -229,7 +229,13 @@ AI investment is skyrocketing while AI’s impact on jobs and public perception 
 
 Uber Technologies, Inc is learning the hard way that scaling AI isn't just about speed—it's about cost. Despite spending $3.4 billion on research and development, the company has already exhausted its planned AI budget just months into 2026. According to The Information, Chief Technology Officer Praveen Neppalli Naga said Uber is now "back to the drawing board" after a surge in the use of AI coding tools, particularly Anthropic's Claude Code, has blown past internal expectations. Don't Miss: A s
 
-⬆️ 93 • 💬 93 • 17h ago • [Yahoo Finance](https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html)
+⬆️ 93 • 💬 94 • 19h ago • [Yahoo Finance](https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html)
+
+---
+
+**[Swiss AI Initiative (2023)](https://news.ycombinator.com/item?id=47828444)**
+
+⬆️ 85 • 💬 26 • 14h ago • [Swiss AI](https://www.swiss-ai.org)
 
 ---
 
@@ -237,13 +243,15 @@ Uber Technologies, Inc is learning the hard way that scaling AI isn't just about
 
 In the 1980s, economist Robert Solow made an observation that reminded economists of today’s AI boom: “You can see the computer age everywhere but in the productivity statistics.”
 
-⬆️ 82 • 💬 75 • 13h ago • [Fortune](https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/)
+⬆️ 84 • 💬 75 • 15h ago • [Fortune](https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/)
 
 ---
 
-**[Swiss AI Initiative (2023)](https://news.ycombinator.com/item?id=47828444)**
+**[The Uncanny Valley and the Rising Power of Anti-AI Sentiment](https://news.ycombinator.com/item?id=47829058)**
 
-⬆️ 82 • 💬 25 • 12h ago • [Swiss AI](https://www.swiss-ai.org)
+Why public hostility toward AI may feel visceral, including mismatch, disgust, danger avoidance, mortality salience, and design consistency.
+
+⬆️ 44 • 💬 72 • 13h ago • [LocalScribe](https://localscribe.co/posts/uncanny-valley-and-rising-power-of-anti-ai-sentiment/)
 
 ---
 
@@ -263,27 +271,9 @@ Defunct companies are striking gold by selling their digital footprints to AI la
 
 ---
 
-**[The Uncanny Valley and the Rising Power of Anti-AI Sentiment](https://news.ycombinator.com/item?id=47829058)**
-
-Why public hostility toward AI may feel visceral, including mismatch, disgust, danger avoidance, mortality salience, and design consistency.
-
-⬆️ 40 • 💬 69 • 11h ago • [LocalScribe](https://localscribe.co/posts/uncanny-valley-and-rising-power-of-anti-ai-sentiment/)
-
----
-
 ---
 
 ## YouTube Videos: "ai"
-
-**[AI Is Literally A Psyop](https://www.youtube.com/watch?v=wLC7SATDmy8)**
-
-So much of the hype around AI is due to its supposed "superintelligence". Supposedly, AGI will be able to do almost everything ...
-
-📺 Cole Hastings
-
-👁️ 78K • 👍 4K • 💬 781 • ⏱️ 17:36 • 19h ago
-
----
 
 **[Agent Swarms Is One of The Most Powerful AI System Yet](https://www.youtube.com/watch?v=KdP305UYuNA)**
 
@@ -291,7 +281,17 @@ Abacus AI just showed something that feels a lot bigger than another flashy AI d
 
 📺 AI Revolution
 
-👁️ 8K • 👍 364 • 💬 25 • ⏱️ 13:18 • 14h ago
+👁️ 9K • 👍 400 • 💬 34 • ⏱️ 13:18 • 16h ago
+
+---
+
+**[AI Is Literally A Psyop](https://www.youtube.com/watch?v=wLC7SATDmy8)**
+
+So much of the hype around AI is due to its supposed "superintelligence". Supposedly, AGI will be able to do almost everything ...
+
+📺 Cole Hastings
+
+👁️ 84K • 👍 5K • 💬 846 • ⏱️ 17:36 • 21h ago
 
 ---
 
@@ -301,7 +301,7 @@ Try Verdent AI ⤵ https://www.verdent.ai/?id=700278 @verdent_ai CHAPTERS ⤵ 00
 
 📺 Dylan Curious
 
-👁️ 9K • 👍 417 • 💬 120 • ⏱️ 30:36 • 1d ago
+👁️ 10K • 👍 421 • 💬 120 • ⏱️ 30:36 • 1d ago
 
 ---
 
@@ -311,7 +311,17 @@ in this video, we break down the rumored GPT-5.5 “pro” model from OpenAI and
 
 📺 WorldofAI
 
-👁️ 8K • 👍 272 • 💬 30 • ⏱️ 10:27 • 5h ago
+👁️ 18K • 👍 496 • 💬 64 • ⏱️ 10:27 • 7h ago
+
+---
+
+**[New Google AI Studio Updates are WILD!](https://www.youtube.com/watch?v=7Wqh2vBjQtM)**
+
+Want to make money and save time with AI? Join here: https://www.skool.com/ai-profit-lab-7462/about Video notes + links ot the ...
+
+📺 Julian Goldie SEO
+
+👁️ 3K • 👍 126 • 💬 3 • ⏱️ 8:34 • 10h ago
 
 ---
 
@@ -321,27 +331,7 @@ A powerful new AI model, called Mythos, has sparked alarm within the Trump admin
 
 📺 The Economist
 
-👁️ 79K • 👍 2K • 💬 130 • ⏱️ 8:30 • 1d ago
-
----
-
-**[Ai Skeleton Videos Got Even Worse](https://www.youtube.com/watch?v=71T4LRSIWqo)**
-
-Ai Skeleton Videos Got Even Worse - Welcome back to another More KeidBoi video! Today we take a look at more of the Ai ...
-
-📺 More KeidBoi
-
-👁️ 9K • 👍 693 • 💬 164 • ⏱️ 20:35 • 18h ago
-
----
-
-**[This AI Machine Changes Baby Diapers in Public](https://www.youtube.com/watch?v=7_4GU43KumU)**
-
-This concept shows how AI could assist with baby care in everyday public spaces. In this scenario, a smart AI-powered diaper ...
-
-📺 DubAI Baby Official
-
-👁️ 28.9M • 👍 103K • 💬 55 • ⏱️ 0:08 • 21h ago
+👁️ 84K • 👍 2K • 💬 140 • ⏱️ 8:30 • 1d ago
 
 ---
 
@@ -351,27 +341,37 @@ New Rule: When the people who are making A.I. are scared of A.I., it's time to �
 
 📺 Real Time with Bill Maher
 
-👁️ 744K • 👍 18K • 💬 2K • ⏱️ 10:07 • 2d ago
+👁️ 758K • 👍 19K • 💬 3K • ⏱️ 10:07 • 2d ago
 
 ---
 
-**[Google&#39;s Quantum AI Found a Mathematical Pattern That Predicts the Future — Physicists Are Disturbed](https://www.youtube.com/watch?v=BI7zvWHyY3c)**
+**[Gemma 4 vs Qwen 3.6 Local Ai Benchmarking](https://www.youtube.com/watch?v=xS5wao4H4u4)**
 
-Something strange is happening in the world of science. A discovery has shaken experts and raised unsettling questions about ...
+Testing Qwen3.6 35B A3B against Gemma4 31B, Qwen3.5 27B and Gemma4 26B on a variety of local ai GPUs including Nvidia ...
 
-📺 Luminox
+📺 Digital Spaceport
 
-👁️ 5K • 👍 263 • 💬 29 • ⏱️ 22:47 • 1d ago
+👁️ 45K • 👍 1K • 💬 169 • ⏱️ 31:44 • 2d ago
 
 ---
 
-**[AI Bruce Lee Demonstrates Classic Continuous Sequence | Smooth Flow | Sora AI](https://www.youtube.com/watch?v=k7HZ6QLfOJU)**
+**[YouTube&#39;s Secret AI Tool That Helps You Earn Money From YouTube | YouTube Ask Studio](https://www.youtube.com/watch?v=GtU7b46wdrg)**
 
-AI-generated Bruce Lee performs a classic continuous sequence with smooth transitions and stable rhythm from start to finish.
+YouTube's Secret FREE AI Tool That Helps You Earn money from YouTube channel more professionally. This video shows you ...
 
-📺 TrueKungfuLegacy
+📺 Mr How
 
-👁️ 252K • 👍 2K • 💬 20 • ⏱️ 0:06 • 23h ago
+👁️ 25K • 👍 2K • 💬 334 • ⏱️ 8:07 • 23h ago
+
+---
+
+**[Why Does Everyone Hate AI?](https://www.youtube.com/watch?v=do-EyIFvQ1E)**
+
+A lot of you do not like AI, and you have good reasons to be wary of it! But Wendell doesn't believe we should be afraid of the ...
+
+📺 Level1Techs
+
+👁️ 18K • 👍 1K • 💬 590 • ⏱️ 15:04 • 17h ago
 
 ---
 
@@ -387,7 +387,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with a vision encoder, 
 
 `image-text-to-text` `36.0B`
 
-⬇️ 334,628 • ❤️ 982 • 5d ago
+⬇️ 334,628 • ❤️ 1,004 • 5d ago
 
 ---
 
@@ -399,7 +399,7 @@ HY-Embodied-0.5 is a multilingual vision-language model designed for embodied ag
 
 `image-text-to-text` `3.8B`
 
-⬇️ 1,662 • ❤️ 880 • 6d ago
+⬇️ 1,662 • ❤️ 881 • 6d ago
 
 ---
 
@@ -411,7 +411,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with vision capabilitie
 
 `image-text-to-text` `34.7B`
 
-⬇️ 816,485 • ❤️ 527 • 5h ago
+⬇️ 816,485 • ❤️ 535 • 1h ago
 
 ---
 
@@ -423,7 +423,7 @@ ERNIE-Image is a 8B parameter text-to-image diffusion model excelling in complex
 
 `text-to-image`
 
-⬇️ 4,144 • ❤️ 483 • 3d ago
+⬇️ 4,144 • ❤️ 485 • 3d ago
 
 ---
 
@@ -435,7 +435,7 @@ HY-World 2.0 is a multi-modal framework for generating and reconstructing 3D wor
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 476 • 4d ago
+⬇️ 0 • ❤️ 485 • 4d ago
 
 ---
 
@@ -447,7 +447,7 @@ MiniMax-M2.7 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 314,205 • ❤️ 989 • 7h ago
+⬇️ 314,205 • ❤️ 992 • 9h ago
 
 ---
 
@@ -459,7 +459,7 @@ Gemma 4 E4B OBLITERATED v3 is a text-generation model with 0% refusal and improv
 
 `text-generation` `8.0B`
 
-⬇️ 50,701 • ❤️ 364 • 14h ago
+⬇️ 50,701 • ❤️ 365 • 16h ago
 
 ---
 
@@ -471,7 +471,7 @@ ERNIE-Image-Turbo is a distilled text-to-image diffusion model optimized for spe
 
 `text-to-image`
 
-⬇️ 5,297 • ❤️ 327 • 3d ago
+⬇️ 5,297 • ❤️ 330 • 3d ago
 
 ---
 
@@ -483,7 +483,7 @@ A fast, uncensored GGUF text generation model based on Google's Gemma 4-26B, opt
 
 `text-generation` `25.2B`
 
-⬇️ 77,195 • ❤️ 429 • 7d ago
+⬇️ 77,195 • ❤️ 431 • 8d ago
 
 ---
 
@@ -495,7 +495,7 @@ VoxCPM2 is a 2B parameter, 30-language multilingual text-to-speech model capable
 
 `text-to-speech`
 
-⬇️ 66,555 • ❤️ 1,172 • 4d ago
+⬇️ 66,555 • ❤️ 1,173 • 4d ago
 
 ---
 
@@ -511,7 +511,7 @@ VoxCPM2 is a 2B parameter, 30-language multilingual text-to-speech model capable
 
 LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from video streams using a geometric context transformer architecture with specialized attention mechanisms for coordinate grounding, dense geometric cues, and long-range drift correction, achieving stable real-time performance at 20 FPS.
 
-▲ 5 • 💬 2 • ⭐ 2,645 • 5d ago
+▲ 7 • 💬 2 • ⭐ 2,880 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.14141) • [💻 code](https://github.com/robbyant/lingbot-map) • [🔗 project](https://technology.robbyant.com/lingbot-map)
 
@@ -547,7 +547,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 HY-World 2.0 is a multi-modal world model framework that generates high-fidelity 3D Gaussian Splatting scenes from diverse inputs using specialized modules for panorama generation, trajectory planning, world expansion, and composition, along with an enhanced rendering platform for interactive 3D exploration.
 
-▲ 98 • 💬 5 • ⭐ 1,303 • 5d ago
+▲ 99 • 💬 5 • ⭐ 1,303 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.14268) • [💻 code](https://github.com/Tencent-Hunyuan/HY-World-2.0) • [🔗 project](https://3d-models.hunyuan.tencent.com/world/)
 
@@ -599,9 +599,23 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
 
-▲ 160 • 💬 2 • ⭐ 60,524 • 6mo ago
+▲ 160 • 💬 2 • ⭐ 60,602 • 6mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
+
+---
+
+**[RAG-Anything: All-in-One RAG Framework](https://huggingface.co/papers/2510.12323)**
+
+*Zirui Guo, Xubin Ren, Lingrui Xu et al. (5 authors)*
+
+🏢 Data Intelligence Lab@HKU
+
+RAG-Anything is a unified framework that enhances multimodal knowledge retrieval by integrating cross-modal relationships and semantic matching, outperforming existing methods on complex benchmarks.
+
+▲ 73 • 💬 6 • ⭐ 16,353 • 6mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2510.12323) • [💻 code](https://github.com/HKUDS/RAG-Anything)
 
 ---
 
@@ -617,20 +631,6 @@ LightRAG improves Retrieval-Augmented Generation by integrating graph structures
 
 ---
 
-**[DFlash: Block Diffusion for Flash Speculative Decoding](https://huggingface.co/papers/2602.06036)**
-
-*Jian Chen, Yesheng Liang, Zhijian Liu*
-
-🏢 Z Lab
-
-DFlash is a speculative decoding framework that uses a lightweight block diffusion model for parallel token drafting, achieving significant speedup over existing autoregressive methods while maintaining high-quality outputs.
-
-▲ 53 • 💬 5 • ⭐ 1,909 • 2mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2602.06036) • [💻 code](https://github.com/z-lab/dflash) • [🔗 project](https://z-lab.ai/projects/dflash/)
-
----
-
 ---
 
 ## GitHub Repositories: "ai"
@@ -641,7 +641,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 48.3k • 🔱 6.3k • 14h ago
+⭐ 48.4k • 🔱 6.3k • 16h ago
 
 ---
 
@@ -651,7 +651,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 39.6k • 🔱 2.0k • 2d ago
+⭐ 40.0k • 🔱 2.0k • 2d ago
 
 ---
 
@@ -661,7 +661,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 36.7k • 🔱 7.4k • 1d ago
+⭐ 36.8k • 🔱 7.5k • 1d ago
 
 ---
 
@@ -671,7 +671,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 31.0k • 🔱 3.4k • 1d ago
+⭐ 31.1k • 🔱 3.4k • 1d ago
 
 ---
 
@@ -681,7 +681,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 8.3k • 🔱 534 • 2h ago
+⭐ 8.3k • 🔱 534 • 2m ago
 
 ---
 
@@ -701,7 +701,7 @@ AI Agent 源码深度研究报告
 
 `Python`
 
-⭐ 5.5k • 🔱 925 • 1d ago
+⭐ 5.5k • 🔱 931 • 1d ago
 
 ---
 
@@ -721,7 +721,7 @@ The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interac
 
 `Swift` `apple-intelligence` `apple-silicon` `cli` `foundationmodels` `homebrew`
 
-⭐ 4.8k • 🔱 182 • 3d ago
+⭐ 4.8k • 🔱 182 • 2h ago
 
 ---
 
