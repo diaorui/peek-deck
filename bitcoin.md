@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-21T21:22:22.683100+00:00'
+updated: '2026-04-21T22:08:27.057225+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
-- news
 - cryptocurrency
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 21, 2026 at 21:22 UTC  
+**Last Updated:** April 21, 2026 at 22:08 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.4%  
-**7d:** +1.2%  
-**30d:** +6.8%  
-**90d:** -15.5%  
-**1y:** -19.0%  
+**24h:** -0.5%  
+**7d:** +0.9%  
+**30d:** +6.5%  
+**90d:** -15.7%  
+**1y:** -19.2%  
 
 ---
 
@@ -77,17 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[People who understand Bitcoin don't come here asking if now is a good time to buy some](https://www.reddit.com/r/Bitcoin/comments/1srupu6/people_who_understand_bitcoin_dont_come_here/)**
-
-3h ago
-
----
-
 **[I ran the actual 10-year math on Bitcoin vs Rental Property (same $30K starting point) — the results were not what I expected](https://www.reddit.com/r/Bitcoin/comments/1srpsr9/i_ran_the_actual_10year_math_on_bitcoin_vs_rental/)**
 
 https://youtu.be/tlRr1wStdow I kept seeing people argue about whether crypto or real estate is the better investment, but nobody was actually running the full numbers. So I did. Same starting point for both: - $30,000 to invest - Same year (2015) - Same city, same income Here's what I found after accounting for EVERYTHING: REAL ESTATE (Rental Property): → $30K down on a $150K property → Tenant paying $1,400/month rent → Sounds great... until you add: - Property taxes: $15,000 over 10 years - Insurance: $12,000 - Repairs/maintenance: $30,000 - Vacancy (1 month/year avg): $15,000 - 600 hours of your own time managing it After ALL real costs → roughly $175,000 to $195,000 in total equity after 10 years BITCOIN (Held without selling): → $30K invested in 2015 → Watched it drop 84% in 2018 → Watched it drop 77% in 2022 → Did NOT sell either time After 10 years → roughly $1.5M to $2M (after capital gains tax) So crypto wins, right? Not so fast. Here's the part nobody talks about: Studies show fewer than 8% of Bitcoin buyers actually held through both crashes without selling. The other 92% panic sold at the bottom and locked in massive losses — ending up WORSE than the real estate investor. Real estate had one massive hidden advantage: You literally CANNOT panic sell a house at 2AM. The illiquidity that feels like a weakness is actually what protects most people from destroying their own returns. So the real answer is: it depends entirely on which type of investor YOU are. Happy to answer any questions on the math in the comments.
 
-6h ago
+7h ago
+
+---
+
+**[People who understand Bitcoin don't come here asking if now is a good time to buy some](https://www.reddit.com/r/Bitcoin/comments/1srupu6/people_who_understand_bitcoin_dont_come_here/)**
+
+4h ago
 
 ---
 
@@ -95,7 +95,7 @@ https://youtu.be/tlRr1wStdow I kept seeing people argue about whether crypto or 
 
 A clip of "Professor Jiang" went viral claiming the CIA created Bitcoin. This guy doesn't know Satoshi's name. He doesn't know what a decentralized network is. He thinks Bitcoin runs on servers in a CIA basement. This is not the first time this guy has embarrassed himself talking about Bitcoin. I brokedown every argument and every contradiction point by point.
 
-🔗 [youtu.be](https://youtu.be/wjlH4AWyhCY) • 6h ago
+🔗 [youtu.be](https://youtu.be/wjlH4AWyhCY) • 7h ago
 
 ---
 
@@ -107,6 +107,14 @@ Someone was asking how to invest their money and I said 50% S&P500 and 50% BTC a
 
 ---
 
+**[Are we in a Bull Trap or the start of the Bull Run? The 4-Year Cycle Debate](https://www.reddit.com/r/Bitcoin/comments/1srz0y8/are_we_in_a_bull_trap_or_the_start_of_the_bull/)**
+
+Everyone is talking about the 4-year cycle hitting $80k and then crashing back to $50k. Is this a 'bull trap' reality or just outdated TA? What’s your take?
+
+2h ago
+
+---
+
 **[Most of you should not want Bitcoin to rise.](https://www.reddit.com/r/Bitcoin/comments/1sr6gvm/most_of_you_should_not_want_bitcoin_to_rise/)**
 
 A quote from Warren Buffett: A short quiz: If you plan to eat hamburgers throughout your life and are not a cattle producer, should you wish for higher or lower prices for beef? Likewise, if you are going to buy a car from time to time but are not an auto manufacturer, should you prefer higher or lower car prices? These questions, of course, answer themselves. But now for the final exam: If you expect to be a net saver during the next five years, should you hope for a higher or lower stock market during that period? Many investors get this one wrong. Even though they are going to be net buyers of stocks for many years to come, they are elated when stock prices rise and depressed when they fall. In effect, they rejoice because prices have risen for the ‘hamburgers’ they will soon be buying. This reaction makes no sense. Only those who will be sellers of equities in the near future should be happy at seeing stocks rise. Prospective purchasers should much prefer sinking prices. Assuming the majority of people on this sub are not near retirement, then you still plan to buy more BTC in the future than you currently have. You'll be able to buy more of it if the price is lower. So you should be cheering when it falls, and that is why the current "dip" is a blessing. This doesn't apply if you are planning to liquidate soon, of course. Then you should want the price to skyrocket. Source: https://www.roywalkerwealth.com/2018/01/warren-buffett-on-hamburgers.html
@@ -115,11 +123,19 @@ A quote from Warren Buffett: A short quiz: If you plan to eat hamburgers through
 
 ---
 
+**[What do you like most about Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1srsmu7/what_do_you_like_most_about_bitcoin/)**
+
+Been learning more about Bitcoin and it’s growing on me. What’s the one thing you like most about it?
+
+5h ago
+
+---
+
 **[Over 750 fiat currencies have existed throughout history, most are dead. But BTC is different.](https://www.reddit.com/r/Bitcoin/comments/1srj7as/over_750_fiat_currencies_have_existed_throughout/)**
 
 No fiat currency has survived 100 years with its purchasing power meaningfully intact. The British pound has lost over 99% of its value since 1900. The US dollar has lost roughly 96% since the Federal Reserve was established in 1913. The German mark, the French franc, and the Italian lira were all replaced entirely. Of the 750+ fiat currencies that have ever existed throughout history, the majority are now defunct, ended by hyperinflation, war, regime change, or deliberate debasement. Bitcoin offers a structurally different model: a hard cap of 21M coins, enforced by code that cannot be altered without consensus from tens of thousands of globally distributed node operators. No committee sets the monetary policy. No central bank can expand the supply. Whether that's desirable depends on your macro views. Flexible monetary policy advocates argue that you need the ability to expand and contract the supply to manage economic cycles. Fixed supply advocates argue you're just trading short-term stability for long-term erosion that has destroyed every fiat regime in history. The experiment is still ongoing to answer the question: Over a 100-year horizon, does a fixed mathematical protocol preserve value more reliably than a century of consistent political discipline across all major governments? Source: https://www.coingecko.com/learn/bitcoin-100-year-survival-thesis
 
-11h ago
+12h ago
 
 ---
 
@@ -127,21 +143,7 @@ No fiat currency has survived 100 years with its purchasing power meaningfully i
 
 Who gives a flip tuesday! stop buying shit you dont want to impress people you dont like! just chill out and let it be there, slowly keep stacking and buying, spare to live, sitback relax, learn self custody, learn nodes, learn passphrase, there's so much fun shit to do in live instead of impressing morons!
 
-13h ago
-
----
-
-**[What do you like most about Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1srsmu7/what_do_you_like_most_about_bitcoin/)**
-
-Been learning more about Bitcoin and it’s growing on me. What’s the one thing you like most about it?
-
-4h ago
-
----
-
-**[Someone vandalized the Satoshi statue in Lugano again](https://www.reddit.com/r/Bitcoin/comments/1sr1i6u/someone_vandalized_the_satoshi_statue_in_lugano/)**
-
-1d ago
+14h ago
 
 ---
 
@@ -149,7 +151,7 @@ Been learning more about Bitcoin and it’s growing on me. What’s the one thin
 
 On episode 250 of my podcast ‘Bitcoin for Millennials’ I talked with Saifedean Ammous, author of The Bitcoin Standard. We discuss Bitcoin as forced adoption, the money supply question that breaks fiat narratives, inflation’s link to time preference and institutional propaganda, energy use and the politics of scarcity, and a hard-money future of declining interest rates with equity replacing credit. Hope you enjoy!
 
-🔗 [youtu.be](https://youtu.be/jODwF4N8Vjc) • 10h ago
+🔗 [youtu.be](https://youtu.be/jODwF4N8Vjc) • 11h ago
 
 ---
 
@@ -157,11 +159,11 @@ On episode 250 of my podcast ‘Bitcoin for Millennials’ I talked with Saifede
 
 ## Google News: "bitcoin"
 
-**[Bitcoin price news: BTC slides as Fed chair nominee Warsh says Trump didn't demand rate cut](https://www.coindesk.com/markets/2026/04/21/bitcoin-slides-toward-usd75-000-as-warsh-says-trump-didn-t-demand-he-cut-rates)**
+**[Bitcoin price news: BTC slides toward $75,000 amid Warsh hearing, Iran talks uncertainty](https://www.coindesk.com/markets/2026/04/21/bitcoin-slides-toward-usd75-000-as-warsh-says-trump-didn-t-demand-he-cut-rates)**
 
 The S&P 500 and Nasdaq gave back their early morning gains alongside BTC as markets digested the Fed Chair nominee's Senate confirmation hearing.
 
-CoinDesk • 2h ago
+CoinDesk • 1h ago
 
 ---
 
@@ -169,29 +171,23 @@ CoinDesk • 2h ago
 
 BlackRock's IBIT absorbed $871 million last week even as Iran tensions dragged bitcoin toward $71,000. Analysts say the record flows show who is buying the dip.
 
-Forbes • 16h ago
+Forbes • 17h ago
 
 ---
 
-**[Coinbase Drops 7% as the Decoupling From Bitcoin Signals Clarity Act Fatigue](https://finance.yahoo.com/markets/crypto/articles/coinbase-drops-7-decoupling-bitcoin-182844257.html)**
+**[U.S. Army commander names Bitcoin among 'instruments of power'](https://au.finance.yahoo.com/news/u-army-commander-names-bitcoin-212212887.html)**
 
-Coinbase Global (NASDAQ:COIN) stock is down 7% today, sliding from $211.63 to $197.69, while Bitcoin (CRYPTO:BTC) is only down slightly, off 1.24% and trading near $75,521. That’s a striking gap. When COIN falls so much faster than Bitcoin on the same day, it tells you the selloff is Coinbase-specific, not a broad crypto market move. ... Coinbase Drops 7% as the Decoupling From Bitcoin Signals Clarity Act Fatigue
+A senior United States military commander has broken ranks with conventional Pentagon scepticism on cryptocurrency. In a Senate Armed Services Committee (SASC) hearing on April 21, Admiral Samuel Paparo, commander of the U.S. Indo-Pacific Command (INDOPACOM), endorsed Bitcoin's potential for ...
 
-Yahoo Finance • 2h ago
-
----
-
-**[Bitcoin Fear Fading? Sentiment Hits Highest Since Mid-January](https://www.tradingview.com/news/newsbtc:830a3d81b094b:0-bitcoin-fear-fading-sentiment-hits-highest-since-mid-january/)**
-
-Data shows the Bitcoin Fear & Greed Index has recovered to its highest level since mid-January, a sign that belief is returning among crypto traders.Bitcoin Fear & Greed Index Has Hit A Value Of 33The “Fear & Greed Index” is an indicator created by Alternative that measures the average sentiment pr…
-
-TradingView • 2h ago
+Yahoo Finance Australia • 46m ago
 
 ---
 
-**[Is BTC, ETH, SOL, XRP trend reversal here? Bitcoin leads $1.48B inflows](https://seekingalpha.com/news/4577433-is-btc-eth-sol-xrp-trend-reversal-here-bitcoin-leads-148b-inflows)**
+**[Inside the hunt for Satoshi: Filmmakers chase crypto’s biggest mystery](https://www.coindesk.com/coindesk-news/2026/04/21/inside-the-hunt-for-satoshi-filmmakers-chase-crypto-s-biggest-mystery)**
 
-Seeking Alpha • 1h ago
+A new documentary digs into Bitcoin’s origins, reframing the search for Satoshi Nakamoto as both a technical investigation and a deeply human story.
+
+CoinDesk • 12m ago
 
 ---
 
@@ -227,11 +223,17 @@ The Block • 1d ago
 
 ---
 
-**[Want to Be a Millionaire? Buy Battle Tested Bitcoin Before It's Back to $100,000](https://www.fool.com/investing/2026/04/21/want-to-be-a-millionaire-buy-battletested-bitcoin/)**
+**[Strategy Interest Costs Jump On Biggest Bitcoin Buy Since 2024](https://www.investors.com/news/mstr-stock-strategy-interest-costs-jump-bitcoin-price-biggest-buy-since-2024/)**
 
-The world's top cryptocurrency still looks like a compelling investment.
+Investor's Business Daily • 8h ago
 
-The Motley Fool • 4h ago
+---
+
+**[Iran Scammers Demand Bitcoin, USDT for Transit Through Strait of Hormuz: Report](https://decrypt.co/365010/iran-scammers-demand-bitcoin-usdt-for-transit-through-strait-of-hormuz-report)**
+
+Fake crypto clearance demands are targeting ships stranded at Hormuz as the Iran conflict enters its third month.
+
+Decrypt • 9h ago
 
 ---
 
@@ -325,7 +327,7 @@ The charts are in charge, folks. In today's video, we strip away the emotion and
 
 📺 Gareth Soloway
 
-👁️ 33K • 👍 2K • 💬 185 • ⏱️ 9:18 • 9h ago
+👁️ 33K • 👍 2K • 💬 185 • ⏱️ 9:18 • 10h ago
 
 ---
 
@@ -335,7 +337,7 @@ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 1% bonus Check out 
 
 📺 Aaron Bennett
 
-👁️ 4K • 👍 276 • 💬 27 • ⏱️ 9:32 • 16h ago
+👁️ 4K • 👍 276 • 💬 27 • ⏱️ 9:32 • 17h ago
 
 ---
 
@@ -345,7 +347,7 @@ Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=Al
 
 📺 Altcoin Daily
 
-👁️ 48K • 👍 2K • 💬 174 • ⏱️ 8:27 • 1d ago
+👁️ 48K • 👍 2K • 💬 174 • ⏱️ 8:27 • 2d ago
 
 ---
 
@@ -385,7 +387,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRus Extra
 
-👁️ 5K • 👍 282 • 💬 106 • ⏱️ 8:28 • 21h ago
+👁️ 5K • 👍 282 • 💬 106 • ⏱️ 8:28 • 22h ago
 
 ---
 

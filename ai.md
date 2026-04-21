@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-21T21:22:22.674704+00:00'
+updated: '2026-04-21T22:08:27.048924+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
+- repositories
 - news
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** April 21, 2026 at 21:22 UTC  
+**Last Updated:** April 21, 2026 at 22:08 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 The fact that Apple's Board of Directors chose someone who has built their career on the hardware side speaks volumes. Apple's gamble suggests they believe the future of AI lies in hardware, not software. Apple clearly isn't trying to compete with Google, OpenAI, or Anthropic by having an LLM model. But it does seem to believe that its platform (the iPhone), with its advanced processor, can deliver models locally on the phone instead of from the cloud. Will the gamble pay off?
 
-8h ago
+9h ago
+
+---
+
+**[Jeff Bezos's "Project Prometheus" is raising $10B at a $38B valuation to build "Physical AI".](https://www.reddit.com/r/artificial/comments/1srwofc/jeff_bezoss_project_prometheus_is_raising_10b_at/)**
+
+Jeff Bezos’s five-month-old startup, Project Prometheus, is nearing a historic $10B funding round backed by Wall Street giants like JPMorgan and BlackRock. The Tech: They are building "Physical AI" that natively understands the laws of physics to revolutionize physical products like aerospace, automotive, and robotics. It is Bezos's first operational role since leaving Amazon in 2021 with co-CEO Vik Bajaj, a physicist and former Google X scientist who co-founded the Alphabet health startup Verily. They’ve aggressively assembled a 100+ person powerhouse team by poaching top-tier researchers from OpenAI, Meta, Google DeepMind, and xAI. They even acquired the agentic AI startup General Agents shortly after launch specifically to bring former DeepMind researcher Sherjil Ozair and his engineering team into the fold. I am all for money going into companies that accelerate discoveries in physical AI, materials, manufacturing. Another great effort is periodic labs, they raised $300 m. But, is this valuation justified, or are we really in a massive bubble? Are they expecting that they are going to solve all of the physical AI ?
+
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-04-21/jeff-bezos-nears-10-billion-funding-round-for-ai-lab-ft-says) • 3h ago
 
 ---
 
@@ -57,15 +65,7 @@ The fact that Apple's Board of Directors chose someone who has built their caree
 
 AI hallucinations are well reported. They’re also one of the biggest reasons people hesitate to trust or adopt these systems. That hesitation makes sense. But I’ve been thinking about something that doesn’t get discussed as much: What if AI hallucinations aren’t some weird machine failure… What if they’re actually a reflection of how humans already think? At a technical level, hallucinations happen because AI fills gaps. When it doesn’t “know,” it predicts. It generates the most plausible next piece of information based on patterns it has seen before. Sometimes that works. Sometimes it produces something completely wrong… delivered with absolute confidence. Now zoom out. Humans do something… uncomfortably similar. We also fill gaps. We remember things that didn’t happen quite the way we think We confidently explain things we only partially understand We build narratives that feel true, even when they aren’t Psychology has a name for part of this: confirmation bias We tend to notice, favour, and reinforce information that supports what we already believe. Not because we’re trying to lie. Because it’s efficient. There’s also something deeper going on. AI is trained on human-created data at massive scale. Everything from peer-reviewed research to blog posts, opinions, half-truths, and straight-up nonsense. AI Humans Predicts the most likely answer Leans toward the most familiar belief Fills gaps with plausible output Fills gaps with assumptions or memory Sounds confident even when wrong Sounds confident even when wrong Trained on internet-scale data Trained on life experience + culture It doesn’t separate truth from confidence. It learns patterns of expression. So when it hallucinates, it’s not inventing behaviour out of nowhere. It’s remixing patterns it learned from us. Including our inconsistencies. Including our overconfidence. Including our tendency to “sound right” before being right. Some researchers even argue hallucinations are unavoidable because the system is optimized to answer, not to say “I don’t know.” Which, again, feels… familiar. So maybe the better question isn’t: “How do we eliminate AI hallucinations?” But: “Why are we so surprised by them?” If anything, AI is forcing something into the open: That confident, coherent-sounding information has never been the same thing as truth. We’ve just been more comfortable when the illusion came from humans instead of machines. Curious where people land on this? Are AI hallucinations a technical flaw we’ll eventually solve… Or are they a mirror we’re not entirely ready to look into?
 
-3h ago
-
----
-
-**[Jeff Bezos's "Project Prometheus" is raising $10B at a $38B valuation to build "Physical AI".](https://www.reddit.com/r/artificial/comments/1srwofc/jeff_bezoss_project_prometheus_is_raising_10b_at/)**
-
-Jeff Bezos’s five-month-old startup, Project Prometheus, is nearing a historic $10B funding round backed by Wall Street giants like JPMorgan and BlackRock. The Tech: They are building "Physical AI" that natively understands the laws of physics to revolutionize physical products like aerospace, automotive, and robotics. It is Bezos's first operational role since leaving Amazon in 2021 with co-CEO Vik Bajaj, a physicist and former Google X scientist who co-founded the Alphabet health startup Verily. They’ve aggressively assembled a 100+ person powerhouse team by poaching top-tier researchers from OpenAI, Meta, Google DeepMind, and xAI. They even acquired the agentic AI startup General Agents shortly after launch specifically to bring former DeepMind researcher Sherjil Ozair and his engineering team into the fold. I am all for money going into companies that accelerate discoveries in physical AI, materials, manufacturing. Another great effort is periodic labs, they raised $300 m. But, is this valuation justified, or are we really in a massive bubble? Are they expecting that they are going to solve all of the physical AI ?
-
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-04-21/jeff-bezos-nears-10-billion-funding-round-for-ai-lab-ft-says) • 2h ago
+4h ago
 
 ---
 
@@ -73,7 +73,13 @@ Jeff Bezos’s five-month-old startup, Project Prometheus, is nearing a historic
 
 I was wondering about how Russians are faring in the global AI race, especially since there isn't much news from there except for AI-War-engines and drones being deployed in Ukraine. Russians had traditionally had a strong STEM program, especially focused on core Maths and computing. A number of great CS experts migrated to the US and EU. I was talking to an old Russian-American techie friend of mine the other day and that triggered this question.
 
-5h ago
+6h ago
+
+---
+
+**[Blossom trees in The Hague (trees edited)](https://www.reddit.com/r/artificial/comments/1sryn3e/blossom_trees_in_the_hague_trees_edited/)**
+
+2h ago
 
 ---
 
@@ -89,13 +95,7 @@ I'm curious about your thoughts and experience on it. In any field.
 
 launching a colonic consulting firm (not clonic, just emotional support before and after): https://poopplunger.lovable.app "Fourteen years. Six thousand colons. I have seen everything. I will not flinch. Neither, eventually, will you."
 
-1h ago
-
----
-
-**[Blossom trees in The Hague (trees edited)](https://www.reddit.com/r/artificial/comments/1sryn3e/blossom_trees_in_the_hague_trees_edited/)**
-
-1h ago
+2h ago
 
 ---
 
@@ -103,15 +103,15 @@ launching a colonic consulting firm (not clonic, just emotional support before a
 
 Tone in AI prompting works because of how language models are built, not because the model has feelings about how you talk to it. Understanding the mechanism makes you dramatically better at using these tools.
 
-🔗 [kitchencloset.com](https://kitchencloset.com/realstuff/essays/why_tone_works/) • 7h ago
+🔗 [kitchencloset.com](https://kitchencloset.com/realstuff/essays/why_tone_works/) • 8h ago
 
 ---
 
-**[Gemini used to listen to my tracks and give great feedback but not anymore](https://www.reddit.com/r/artificial/comments/1srws24/gemini_used_to_listen_to_my_tracks_and_give_great/)**
+**[PixelClaw: an LLM agent for image manipulation](https://www.reddit.com/r/artificial/comments/1srsod4/pixelclaw_an_llm_agent_for_image_manipulation/)**
 
-For some days, I used Gemini as an assistant for my music production. I felt very hopeful. It listen to the live set I produce and it gave me incredible feedback: were i should give more time, stuff that i have to do o sound more pro etc. It was very creative and interesting hours. Since today, Gemini went dumb and while I use the same chat where I downloaded my set, it disregard it and pretend now that it can't listen to it. thanks for your help
+I'm making an LLM agent specialized for image processing. It combines: an LLM for conversation, planning, and tool use (supports a variety of LLMs) image generation/AI-based editing via gpt-image background removal via rembg (several specialized models available) pixelization using pyxelate posterization and defringing using custom algorithms speech-to-text (Whisper) and text-to-speech (Kokoro plus HALO) a nice UI based on Raylib, including file drag-and-drop PixelClaw is free and open-source at https://github.com/JoeStrout/PixelClaw/ . You can find more demo videos there too. While you're there, if you find it interesting, please click the star ⭐️ at the top of the page; that helps me gauge interest.
 
-2h ago
+5h ago
 
 ---
 
@@ -119,17 +119,17 @@ For some days, I used Gemini as an assistant for my music production. I felt ver
 
 ## Google News: "ai"
 
-**[Exclusive: Meta to start capturing employee mouse movements, keystrokes for AI training data](https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/)**
+**[This Scammer Used an AI-Generated MAGA Girl to Grift ‘Super Dumb’ Men](https://www.wired.com/story/ai-generated-maga-girls/)**
 
-Reuters • 1h ago
+A med student says he’s made thousands of dollars selling photos and videos of a young conservative woman he created using generative tools. He’s not alone.
+
+WIRED • 11h ago
 
 ---
 
-**[Meta will start tracking employees’ screens and keystrokes to train AI tools](https://fortune.com/2026/04/21/meta-will-start-tracking-employees-screens-and-keystrokes-to-train-ai/)**
+**[Exclusive: Meta to start capturing employee mouse movements, keystrokes for AI training data](https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/)**
 
-To build AI workers, tech companies are now mining how humans actually work.
-
-Fortune • 2h ago
+Reuters • 2h ago
 
 ---
 
@@ -141,41 +141,37 @@ Business Insider • 2h ago
 
 ---
 
+**[Meta Plans to Turn Its Employees’ Clicks and Keystrokes into AI Training Data](https://gizmodo.com/meta-plans-to-turn-its-employees-clicks-and-keystrokes-into-ai-training-data-2000749176)**
+
+Gizmodo • 22m ago
+
+---
+
+**[Anthropic’s Mythos Model Is Being Accessed by Unauthorized Users](https://www.bloomberg.com/news/articles/2026-04-21/anthropic-s-mythos-model-is-being-accessed-by-unauthorized-users)**
+
+Bloomberg.com • 27m ago
+
+---
+
+**[Billions of AI Agents Are Coming to Work: Yet Most Enterprises Are Still Asking the Wrong Questions](https://www.usatoday.com/story/special/contributor-content/2026/04/21/billions-of-ai-agents-are-coming-to-work-yet-most-enterprises-are-still-asking-the-wrong-questions/89722914007/)**
+
+The widening gap may have less to do with the lack of a strategy than with the questions enterprises are asking in the first place.
+
+USA Today • 35m ago
+
+---
+
+**[Claude Mythos AI can be 'net positive' to UK says cyber official](https://www.bbc.com/news/articles/cy41zejp9pko)**
+
+The head of the National Cyber Security Centre says frontier AI tools can be a force for good - if kept out of the wrong hands.
+
+BBC • 24m ago
+
+---
+
 **[Job Cuts Driven by A.I. Are Rising on Wall Street](https://www.nytimes.com/2026/04/21/business/ai-job-cuts-wall-street.html)**
 
-The New York Times • 5h ago
-
----
-
-**[The Working Families Party Is Riding The Anti-AI Wave](https://www.motherjones.com/politics/2026/04/the-working-families-party-is-riding-the-anti-ai-wave/)**
-
-Their solution dates back to the Great Depression.
-
-Mother Jones • 1h ago
-
----
-
-**[Marketing to "a segment of one" is possible with AI, says Adobe's enterprise CMO](https://www.businessinsider.com/adobe-enterprise-cmo-explains-how-ai-helps-scale-personalization-2026-4)**
-
-AI enhances marketing efforts, says Adobe Enterprise's Rachel Thornton, citing Ulta's approach to personalizing customer journeys with AI insights.
-
-Business Insider • 1h ago
-
----
-
-**[BearcatGPT: UC becomes first Ohio university to offer AI platform for students](https://www.wlwt.com/article/bearcatgpt-university-cincinnati-ohio-ai-platform/71087984)**
-
-The University of Cincinnati became the first university in Ohio and one of the first in the country to offer a private and secure artificial intelligence platform for its students, faculty and staff.
-
-WLWT • 1h ago
-
----
-
-**[This Scammer Used an AI-Generated MAGA Girl to Grift ‘Super Dumb’ Men](https://www.wired.com/story/ai-generated-maga-girls/)**
-
-A med student says he’s made thousands of dollars selling photos and videos of a young conservative woman he created using generative tools. He’s not alone.
-
-WIRED • 10h ago
+The New York Times • 6h ago
 
 ---
 
@@ -183,15 +179,13 @@ WIRED • 10h ago
 
 Apple’s announcement Monday that CEO Tim Cook will step down and John Ternus will take over signals a significant shift for Apple: The company is betting its future on the most rapidly evolving technology in the history of computing.
 
-CNN • 9h ago
+CNN • 10h ago
 
 ---
 
-**[Apple’s next chief John Ternus faces defining AI moment](https://www.ft.com/content/ef888edd-d12e-41d0-b38d-3d6465cf280c?syn-25a6b1a6=1)**
+**[The Rise of Apple’s New CEO: A Hardware Expert Takes Over in the AI Era](https://www.wsj.com/tech/the-rise-of-apples-new-ceo-a-hardware-expert-takes-over-in-the-ai-era-bdc7046e)**
 
-Tim Cook’s replacement must lead iPhone-maker through industry shift
-
-Financial Times • 12h ago
+WSJ • 1h ago
 
 ---
 
@@ -209,7 +203,7 @@ Financial Times • 12h ago
 
 People are sick of artificial intelligence, and are increasingly making it known through acts of resistance.
 
-⬆️ 375 • 💬 402 • 1d ago • [stephvee.ca](https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/)
+⬆️ 376 • 💬 402 • 1d ago • [stephvee.ca](https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/)
 
 ---
 
@@ -225,45 +219,13 @@ Deezer says consumption of AI-generated music on the platform is still very low,
 
 Police lured the man to a meeting and arrested him after accessing a private WhatsApp group with colleagues
 
-⬆️ 284 • 💬 190 • 2d ago • [LBC](https://www.lbc.co.uk/article/dubai-police-spied-private-whatsapp-5HjdXwr_2/)
+⬆️ 284 • 💬 191 • 2d ago • [LBC](https://www.lbc.co.uk/article/dubai-police-spied-private-whatsapp-5HjdXwr_2/)
 
 ---
 
 **[A Roblox cheat and one AI tool brought down Vercel's platform](https://news.ycombinator.com/item?id=47844431)**
 
-⬆️ 277 • 💬 149 • 17h ago • [webmatrices.com](https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform)
-
----
-
-**[Air is full of DNA](https://news.ycombinator.com/item?id=47819738)**
-
-Airborne genetic material can be used to paint a picture of ecosystem health, watch for invasive species and even identify humans.
-
-⬆️ 163 • 💬 57 • 2d ago • [nature.com](https://www.nature.com/articles/d41586-026-01099-2)
-
----
-
-**[Show HN: Mediator.ai – Using Nash bargaining and LLMs to systematize fairness](https://news.ycombinator.com/item?id=47835411)**
-
-Mediator.ai uses bargaining theory and modern AI to find agreements that two people in conflict would both accept, including ones they hadn't thought of.
-
-⬆️ 137 • 💬 68 • 1d ago • [Mediator.ai](https://mediator.ai/)
-
----
-
-**[Show HN: GoModel – an open-source AI gateway in Go](https://news.ycombinator.com/item?id=47849097)**
-
-High-performance AI gateway written in Go - unified OpenAI-compatible API for OpenAI, Anthropic, Gemini, Groq, xAI &amp; Ollama. LiteLLM alternative with observability, guardrails &amp; streaming. ...
-
-⬆️ 133 • 💬 50 • 7h ago • [GitHub](https://github.com/ENTERPILOT/GOModel/)
-
----
-
-**[Less human AI agents, please](https://news.ycombinator.com/item?id=47845429)**
-
-Nial – Knowledge work and artificial intelligence.
-
-⬆️ 117 • 💬 127 • 14h ago • [nial.se](https://nial.se/blog/less-human-ai-agents-please/)
+⬆️ 278 • 💬 149 • 17h ago • [webmatrices.com](https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform)
 
 ---
 
@@ -271,7 +233,39 @@ Nial – Knowledge work and artificial intelligence.
 
 Meta is ​installing new tracking software ​on US-based employees' computers to capture mouse ​movements, clicks and keystrokes for use in training its artificial-intelligence models, part of a broad initiative to build AI agents that can perform work ‌tasks autonomously, ⁠the ⁠company told staffers in internal memos .
 
-⬆️ 106 • 💬 60 • 3h ago • [The Economic Times](https://economictimes.indiatimes.com/tech/technology/meta-to-start-capturing-employee-mouse-movements-keystrokes-for-ai-training-data/articleshow/130422612.cms?from=mdr)
+⬆️ 168 • 💬 108 • 4h ago • [The Economic Times](https://economictimes.indiatimes.com/tech/technology/meta-to-start-capturing-employee-mouse-movements-keystrokes-for-ai-training-data/articleshow/130422612.cms?from=mdr)
+
+---
+
+**[Show HN: GoModel – an open-source AI gateway in Go](https://news.ycombinator.com/item?id=47849097)**
+
+High-performance AI gateway written in Go - unified OpenAI-compatible API for OpenAI, Anthropic, Gemini, Groq, xAI &amp; Ollama. LiteLLM alternative with observability, guardrails &amp; streaming. ...
+
+⬆️ 147 • 💬 56 • 7h ago • [GitHub](https://github.com/ENTERPILOT/GOModel/)
+
+---
+
+**[Show HN: Mediator.ai – Using Nash bargaining and LLMs to systematize fairness](https://news.ycombinator.com/item?id=47835411)**
+
+Mediator.ai uses bargaining theory and modern AI to find agreements that two people in conflict would both accept, including ones they hadn't thought of.
+
+⬆️ 141 • 💬 72 • 1d ago • [Mediator.ai](https://mediator.ai/)
+
+---
+
+**[Less human AI agents, please](https://news.ycombinator.com/item?id=47845429)**
+
+Nial – Knowledge work and artificial intelligence.
+
+⬆️ 124 • 💬 133 • 15h ago • [nial.se](https://nial.se/blog/less-human-ai-agents-please/)
+
+---
+
+**[Uber’s Anthropic AI push hits a wall](https://news.ycombinator.com/item?id=47826328)**
+
+Uber Technologies, Inc is learning the hard way that scaling AI isn't just about speed—it's about cost. Despite spending $3.4 billion on research and development, the company has already exhausted its planned AI budget just months into 2026. According to The Information, Chief Technology Officer Praveen Neppalli Naga said Uber is now "back to the drawing board" after a surge in the use of AI coding tools, particularly Anthropic's Claude Code, has blown past internal expectations. Don't Miss: A s
+
+⬆️ 94 • 💬 103 • 2d ago • [Yahoo Finance](https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html)
 
 ---
 
@@ -285,7 +279,7 @@ Ramageddon” is here: AI data centers are hoarding up to 70% of global DRAM, se
 
 📺 Valuetainment
 
-👁️ 46K • 👍 3K • 💬 207 • ⏱️ 12:41 • 8h ago
+👁️ 46K • 👍 3K • 💬 207 • ⏱️ 12:41 • 9h ago
 
 ---
 
@@ -355,7 +349,7 @@ Palantir releases a bizarre – and pretty terrifying – 22 point manifesto. Wi
 
 📺 Novara Media
 
-👁️ 47K • 👍 3K • 💬 517 • ⏱️ 15:17 • 11h ago
+👁️ 47K • 👍 3K • 💬 517 • ⏱️ 15:17 • 12h ago
 
 ---
 
@@ -403,7 +397,7 @@ Kimi K2.6 is a 1T parameter multimodal agentic model excelling in long-horizon c
 
 `image-text-to-text` `1058.6B`
 
-⬇️ 8,241 • ❤️ 674 • 19h ago
+⬇️ 8,241 • ❤️ 674 • 20h ago
 
 ---
 
@@ -463,7 +457,7 @@ Gemma 4 E4B OBLITERATED v3 is a text-generation model with 0% refusal and improv
 
 `text-generation` `8.0B`
 
-⬇️ 63,995 • ❤️ 426 • 1d ago
+⬇️ 63,995 • ❤️ 426 • 2d ago
 
 ---
 
@@ -647,7 +641,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 48.8k • 🔱 6.4k • 16h ago
+⭐ 48.8k • 🔱 6.4k • 17h ago
 
 ---
 
@@ -667,7 +661,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 37.8k • 🔱 7.7k • 6h ago
+⭐ 37.8k • 🔱 7.7k • 7h ago
 
 ---
 
@@ -677,7 +671,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 32.0k • 🔱 3.6k • 57m ago
+⭐ 32.0k • 🔱 3.6k • 1h ago
 
 ---
 
@@ -687,7 +681,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 8.4k • 🔱 545 • 5h ago
+⭐ 8.4k • 🔱 545 • 6h ago
 
 ---
 
@@ -737,7 +731,7 @@ The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interac
 
 `Swift` `apple-intelligence` `apple-silicon` `cli` `foundationmodels` `homebrew`
 
-⭐ 4.8k • 🔱 185 • 3h ago
+⭐ 4.8k • 🔱 185 • 4h ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-21T21:22:22.692309+00:00'
+updated: '2026-04-21T22:08:27.066270+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 21, 2026 at 21:22 UTC  
+**Last Updated:** April 21, 2026 at 22:08 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2045783119702425841
 
-10h ago
+11h ago
 
 ---
 
@@ -44,7 +44,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2045783119702425841
 
 CNBC dropped a piece today worth reading. Chinese startups took the top 6 spots in global humanoid shipments in 2025. Figure and Tesla were the only US companies in the top 10. Figure is sitting at a $39B valuation having shipped around 150 units. Unitree ships thousands at $13k a piece. The "China builds the hardware, US builds the brain" take keeps coming up and I don't think it holds anymore. Chinese companies are competing on the AI model side too and closing the gap. On top of that, their EV supply chains already produce the actuators and precision components humanoids need, so they're repurposing existing manufacturing while US companies are building that from scratch. That's where the price gap comes from, not some difference in ambition. The other argument I keep seeing is that the shipped robots only do simple tasks, as if that invalidates the whole thing. Every deployed unit generates real world data that no amount of simulation or staged demos can match. You have to start shipping somewhere. The robots improve while being used, not while sitting in a lab waiting to be perfect.
 
-7h ago
+8h ago
 
 ---
 
@@ -52,7 +52,7 @@ CNBC dropped a piece today worth reading. Chinese startups took the top 6 spots 
 
 built a utility where you drop in a urdf (the robot's blueprint) and it generates a full leader for it. cad to print, motor placements, control code, all of it. kinematics stay identical just scaled down, so teleop works out of the box. motor placement is mostly solved with heuristics. routing links between them is still the hard part. https://x.com/pbshgthm/status/2046566239422853363 planning to make it lerobot compatible, so this can be used as a leader arm when printed out for any embodiment would love to know thoughts
 
-4h ago
+5h ago
 
 ---
 
@@ -76,19 +76,19 @@ Hello everyone! I've successfully completed my Hobby RC four-legged robot model.
 
 ---
 
+**[AGIBOT replacing workers?](https://www.reddit.com/r/robotics/comments/1ss0w6f/agibot_replacing_workers/)**
+
+follow RobotShift for news in the transition from human workforce to that of a robot revolution. Analytical videos on the transitio.
+
+🔗 [youtu.be](https://youtu.be/LJxtV0LFqRw?si=pwbNXTSHTDTiBcsG) • 59m ago
+
+---
+
 **[Little Robots Join the Half-Marathon. Some even run decked out in costumes .](https://www.reddit.com/r/robotics/comments/1sqo9f0/little_robots_join_the_halfmarathon_some_even_run/)**
 
 T.Yamazaki on 𝕏: https://x.com/ZappyZappy7/status/2046192595802656933 High Torque Robotics on YouTube: https://www.youtube.com/watch?v=aBe_ceuesEA
 
 1d ago
-
----
-
-**[If you were building for the AI and Robotics Real-World Challenge, would you choose a humanoid or a quadruped + arm?](https://www.reddit.com/r/robotics/comments/1srt1rj/if_you_were_building_for_the_ai_and_robotics/)**
-
-I was looking through ATEC 2026 earlier, and the part that stuck with me most was the platform choice. What makes it interesting to me is that it seems less about a clean single demo and more about sustained outdoor autonomy — moving through rough terrain, handling objects, and staying reliable over a longer run. If you actually had to build for something like that, what would you pick? My first instinct is that a humanoid is attractive in theory, but I’m not sure it’s the best tradeoff once outdoor reliability becomes a real constraint. A quadruped with an arm, or maybe a wheeled-legged hybrid, feels more practical to me — but maybe I’m underestimating how much the extra dexterity matters. Curious what people here think is the best balance between: • mobility on ugly terrain • manipulation capability • control complexity • and just surviving real-world use
-
-4h ago
 
 ---
 
@@ -100,11 +100,11 @@ Demonstration of real-time wireless teleoperation using a MANUS Metaglove to con
 
 ---
 
-**[Edge computing or a Motherboard for my 3 DOF Robotic Arm](https://www.reddit.com/r/robotics/comments/1srz742/edge_computing_or_a_motherboard_for_my_3_dof/)**
+**[If you were building for the AI and Robotics Real-World Challenge, would you choose a humanoid or a quadruped + arm?](https://www.reddit.com/r/robotics/comments/1srt1rj/if_you_were_building_for_the_ai_and_robotics/)**
 
-Hi everyone, I'm going to build a robotic arm with 3 degrees of freedom. I asked Gemini and he suggested using edge computing. According to him, it basically involves putting a microcontroller (like the ESP32), the power electronics components and the encoder, on a single board (behind each motor). He told me this because if I only put the encoder behind the motors and ran cables through the robotic arm to a motherboard with the controller and frequency controllers, it would probably cause a lot of noise. But I don't know if his idea will work properly. I was thinking of working with cables, someone can help me ? https://preview.redd.it/3v1mrkrcolwg1.png?width=1437&format=png&auto=webp&s=f87aa46a0c15f53bbbd43ac40976c08d37bd3416
+I was looking through ATEC 2026 earlier, and the part that stuck with me most was the platform choice. What makes it interesting to me is that it seems less about a clean single demo and more about sustained outdoor autonomy — moving through rough terrain, handling objects, and staying reliable over a longer run. If you actually had to build for something like that, what would you pick? My first instinct is that a humanoid is attractive in theory, but I’m not sure it’s the best tradeoff once outdoor reliability becomes a real constraint. A quadruped with an arm, or maybe a wheeled-legged hybrid, feels more practical to me — but maybe I’m underestimating how much the extra dexterity matters. Curious what people here think is the best balance between: • mobility on ugly terrain • manipulation capability • control complexity • and just surviving real-world use
 
-1h ago
+5h ago
 
 ---
 
@@ -132,19 +132,17 @@ Axios • 1h ago
 
 ---
 
-**[Elon Musk Says AI And Robotics Will Change Everything: 'Everyone Can Have A Penthouse If They Want'](https://finance.yahoo.com/sectors/technology/articles/elon-musk-says-ai-robotics-154608983.html)**
-
-Tesla (NASDAQ:TSLA) CEO Elon Musk is making a bold case for a future where artificial intelligence doesn't just improve the economy, but completely reshapes it to the point where even luxury living, like penthouses, could become widely accessible. In a...
-
-Yahoo Finance • 5h ago
-
----
-
 **[Navy considers new Warfighting Development Center for robotic and autonomous systems](https://defensescoop.com/2026/04/20/navy-adm-caudle-warfighting-development-center-robotic-autonomous-systems/)**
 
 Chief of Naval Operations Adm. Daryl Caudle supplied modernization updates at the Navy League’s Sea Air Space convention.
 
-DefenseScoop • 23h ago
+DefenseScoop • 1d ago
+
+---
+
+**[SpaceX Alum’s Startup Nears $1 Billion Valuation in Pursuit of Uncrewed Flights](https://www.bloomberg.com/news/articles/2026-04-21/reliable-robotics-raises-more-cash-to-pursue-uncrewed-flights)**
+
+Bloomberg.com • 9h ago
 
 ---
 
@@ -152,7 +150,15 @@ DefenseScoop • 23h ago
 
 A total of 37 companies joined The Crunchbase Unicorn Board in March, the highest monthly count in close to four years, Crunchbase data shows. The robotics sector led unicorn creation last month, with six new billion-dollar startups.
 
-Crunchbase News • 10h ago
+Crunchbase News • 11h ago
+
+---
+
+**[Elon Musk Says AI And Robotics Will Change Everything: 'Everyone Can Have A Penthouse If They Want'](https://finance.yahoo.com/sectors/technology/articles/elon-musk-says-ai-robotics-154608983.html)**
+
+Tesla (NASDAQ:TSLA) CEO Elon Musk is making a bold case for a future where artificial intelligence doesn't just improve the economy, but completely reshapes it to the point where even luxury living, like penthouses, could become widely accessible. In a...
+
+Yahoo Finance • 6h ago
 
 ---
 
@@ -160,7 +166,7 @@ Crunchbase News • 10h ago
 
 Tesla, Inc. stock rated Hold: robotics narrative may be overhyped, Optimus lags rivals, valuation looks stretched. Click for this TSLA earnings preview.
 
-Seeking Alpha • 22h ago
+Seeking Alpha • 23h ago
 
 ---
 
@@ -172,17 +178,11 @@ Cornell Chronicle • 1d ago
 
 ---
 
-**[EXCLUSIVE: Hanwha, Magnet Defense partner to build MUSVs, robotic shipyards](https://breakingdefense.com/2026/04/exclusive-hanwha-defense-usa-magnet-defense-partner-to-build-musvs-robotic-shipyards/)**
+**[Tackling the housing shortage with robotic microfactories](https://news.mit.edu/2026/tackling-housing-shortage-robotic-microfactories-0421)**
 
-Breaking Defense • 1d ago
+Reframe Systems, co-founded by MIT alumnus Vikas Enti, creates microfactories that use robotics for modular home construction. Homes can be constructed closer to where they&#039;re needed, reducing carbon emissions and costs.
 
----
-
-**[Exclusive: Your delivery robot will now offer the blind real-time, on-the-ground eyes around sidewalk hazards](https://fortune.com/2026/04/20/coco-delivery-robots-blind-users-blindsquare-hazards-sidewalk/)**
-
-Coco Robotics is partnering with BlindSquare, the world's most popular GPS app for the blind, to turn data from delivery robots into spoken alerts.
-
-Fortune • 1d ago
+MIT News • 23m ago
 
 ---
 
@@ -282,7 +282,7 @@ Check out our latest 3D printing project: a fully modular robot arm! Watch as it
 
 📺 Robot Julie 
 
-👁️ 18K • 👍 49 • ⏱️ 0:24 • 19h ago
+👁️ 18K • 👍 49 • ⏱️ 0:24 • 20h ago
 
 ---
 
