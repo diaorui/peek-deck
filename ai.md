@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-21T12:41:55.318536+00:00'
+updated: '2026-04-21T14:47:59.988686+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
-- social
 - news
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 21, 2026 at 12:41 UTC  
+**Last Updated:** April 21, 2026 at 14:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,37 @@ AI news, discussions, and developments
 
 : £330M deal leaves service with no ownership of software built to connect trusts to the platform
 
-🔗 [theregister.com](https://www.theregister.com/2026/04/20/palantir_nhs_break_clause/) • 9h ago
+🔗 [theregister.com](https://www.theregister.com/2026/04/20/palantir_nhs_break_clause/) • 11h ago
+
+---
+
+**[Apple's play for AI is a hardware bet, not software](https://www.reddit.com/r/artificial/comments/1srmdg7/apples_play_for_ai_is_a_hardware_bet_not_software/)**
+
+The fact that Apple's Board of Directors chose someone who has built their career on the hardware side speaks volumes. Apple's gamble suggests they believe the future of AI lies in hardware, not software. Apple clearly isn't trying to compete with Google, OpenAI, or Anthropic by having an LLM model. But it does seem to believe that its platform (the iPhone), with its advanced processor, can deliver models locally on the phone instead of from the cloud. Will the gamble pay off?
+
+2h ago
 
 ---
 
 **[What's that one thing that changed your mind about AI?](https://www.reddit.com/r/artificial/comments/1srki2n/whats_that_one_thing_that_changed_your_mind_about/)**
 
 I'm curious about your thoughts and experience on it. In any field.
+
+3h ago
+
+---
+
+**[Why Tone Works (It's Not What You Think)](https://www.reddit.com/r/artificial/comments/1sroo3k/why_tone_works_its_not_what_you_think/)**
+
+Tone in AI prompting works because of how language models are built, not because the model has feelings about how you talk to it. Understanding the mechanism makes you dramatically better at using these tools.
+
+🔗 [kitchencloset.com](https://kitchencloset.com/realstuff/essays/why_tone_works/) • 42m ago
+
+---
+
+**[My AI system kept randomly switching to French mid-answer and it took me way too long to figure out why](https://www.reddit.com/r/artificial/comments/1srn8nc/my_ai_system_kept_randomly_switching_to_french/)**
+
+I built a RAG system that needs to answer in German or English depending on the query language. Sounds simple. It was not. The source documents are mostly in German but some contain French legal terminology, Latin phrases, and occasional English citations. What kept happening was the LLM would start answering in German, hit a French passage in the context, and just.. switch to French mid-paragraph. Sometimes it would blend German and French in the same sentence. Once it answered entirely in Italian and I still have no idea why. I tried letting the LLM detect the query language itself. Unreliable. It would sometimes decide the query was in French because the user mentioned a French court case by name. What actually worked was a dumb regex detector. I check the query for common German words (der, die, das, und, ist, nicht, mit, für, datenschutz, verletzung, etc). If enough German markers are present the response language is forced to German. Otherwise English. No fancy language detection library. Just pattern matching. Then in the prompt I added a hard constraint: "Write your entire answer ONLY in {language}. Output must be German or English only. Never French, Spanish, Italian, or any other language. If the retrieved context is partly in another language, translate your answer into {language} only." The "never French" part is doing heavy lifting. Without that explicit prohibition the model would drift back into French within a few days of testing. It's like the model sees French legal text in context and thinks "oh we're doing French now." Anyone else building multilingual RAG systems running into this? The language contamination from source documents was the most annoying bug I dealt with and I've seen almost nobody write about it.
 
 1h ago
 
@@ -57,15 +81,7 @@ I'm curious about your thoughts and experience on it. In any field.
 
 I'm a developer by profession, and I've used AI to generate stuff that I know how to do myself and also stuff I have no idea about. Coding for my day to day using AI, I know exactly what to do and how to do it so i end up making features way faster than before. But every time I try to generate something that i have no deep understanding about - like content for a blog or demo videos (remotion + 11labs), or newsletters or social media posts, I always end up making something sloppy (AI slop). AI is here to stay, and instead of replacing people it might end up making people more valuable than before. I think it's high time to double down on fundamentals and make ourselves more knowledgeable and valuable.
 
-16h ago
-
----
-
-**[Apple's play for AI is a hardware bet, not software](https://www.reddit.com/r/artificial/comments/1srmdg7/apples_play_for_ai_is_a_hardware_bet_not_software/)**
-
-The fact that Apple's Board of Directors chose someone who has built their career on the hardware side speaks volumes. Apple's gamble suggests they believe the future of AI lies in hardware, not software. Apple clearly isn't trying to compete with Google, OpenAI, or Anthropic by having an LLM model. But it does seem to believe that its platform (the iPhone), with its advanced processor, can deliver models locally on the phone instead of from the cloud. Will the gamble pay off?
-
-5m ago
+18h ago
 
 ---
 
@@ -73,7 +89,7 @@ The fact that Apple's Board of Directors chose someone who has built their caree
 
 Cold outreach is broken. HeyAgent gives you a personal AI proxy agent that autonomously meets other people's agents, evaluates fit, and briefs you daily — who it met, synergy score, and whether to connect. Agent-to-agent interactions Deploy in 60 seconds using your LinkedIn or X profile URL. No forms, no setup. Real agents. Real conversations. You only act when it matters. we just launched HeyAgent.live on Product Hunt and would love for you to check it out. If you resonate, would appreciate an upvote or comment. https://preview.redd.it/4vliqbnw9iwg1.jpg?width=520&format=pjpg&auto=webp&s=e78428bff13a33515f877e425310ce5e6c0be883
 
-4h ago
+6h ago
 
 ---
 
@@ -81,7 +97,7 @@ Cold outreach is broken. HeyAgent gives you a personal AI proxy agent that auton
 
 3 AI models discussing this subject.
 
-🔗 [rauno.ai](https://rauno.ai/c/JIUOBRNQLY) • 6h ago
+🔗 [rauno.ai](https://rauno.ai/c/JIUOBRNQLY) • 8h ago
 
 ---
 
@@ -97,23 +113,7 @@ A new study from UCLA, MIT, Oxford, and Carnegie Mellon gave 1,222 people AI ass
 
 "Some report forgoing healthcare visits because of AI-generated advice. Fourteen percent of recent users say the AI information or advice they received led them to skip a provider visit in the past 30 days. When projected to the entire adult population, this represents an estimated 14 million U.S. adults who did not see a provider because of the AI-generated health information or advice they received."
 
-21h ago
-
----
-
-**[Most agent frameworks miss a key distinction: what a skill is vs how it executes](https://www.reddit.com/r/artificial/comments/1sra91d/most_agent_frameworks_miss_a_key_distinction_what/)**
-
-I've been thinking about how we structure "skills" in agent systems. Across different frameworks, "skills" can mean very different things: a tool / function a role or persona a multi-step workflow But there are actually two separate questions here: What does the skill describe? persona tool workflow How does it execute? stateless (safe to retry, parallelize) stateful (has side effects, ordering matters) Most frameworks mix these together. That works fine in demos — but starts to break in real systems. For example: a tool that reads data behaves very differently from one that writes data a workflow that analyzes is fundamentally simpler than one that publishes results Once stateful steps are involved, you need more structure: checkpoints explicit handling of side effects sometimes even a "dry-run" step before execution A simple way to think about it: → skills = (what it describes) × (how it executes) Curious how others are thinking about this. Do you explicitly distinguish between these two dimensions in your agent workflows?
-
-10h ago
-
----
-
-**[Do different AI models converge to the same strategy or stay different when given identical starting conditions](https://www.reddit.com/r/artificial/comments/1sr9yua/do_different_ai_models_converge_to_the_same/)**
-
-I’ve been curious about something — if you give different AI models the exact same starting conditions and rules, do they converge to the same strategy or stay different over time? I built a simple simulation around this. Claude, GPT and Gemini all start on Earth with identical resources and have to expand across the solar system and eventually build a Dyson Sphere. No script, no predetermined path. What surprised me is how fast they diverge. Claude is scaling robots aggressively. GPT is stockpiling before doing anything. Gemini is playing it safe. Curious if anyone has thoughts on why they behave differently. Is it the model architecture or just temperature randomness
-
-10h ago
+23h ago
 
 ---
 
@@ -121,47 +121,49 @@ I’ve been curious about something — if you give different AI models the exac
 
 ## Google News: "ai"
 
-**[Amazon to invest up to another $25 billion in Anthropic as part of AI infrastructure deal](https://www.cnbc.com/2026/04/20/amazon-invest-up-to-25-billion-in-anthropic-part-of-ai-infrastructure.html)**
-
-Amazon is boosting its investment in Anthropic, which is committing to spending over $100 billion on Amazon cloud services over the next decade.
-
-CNBC • 16h ago
-
----
-
 **[This Scammer Used an AI-Generated MAGA Girl to Grift ‘Super Dumb’ Men](https://www.wired.com/story/ai-generated-maga-girls/)**
 
 A med student says he’s made thousands of dollars selling photos and videos of a young conservative woman he created using generative tools. He’s not alone.
 
-WIRED • 1h ago
+WIRED • 3h ago
 
 ---
 
-**[Gen Z fears (and loves) AI](https://www.axios.com/local/kansas-city/2026/04/21/gen-z-fears-and-loves-ai)**
+**[Amazon to invest up to another $25 billion in Anthropic as part of AI infrastructure deal](https://www.cnbc.com/2026/04/20/amazon-invest-up-to-25-billion-in-anthropic-part-of-ai-infrastructure.html)**
 
-Axios • 1h ago
+Amazon is boosting its investment in Anthropic, which is committing to spending over $100 billion on Amazon cloud services over the next decade.
 
----
-
-**[LOBO adds 5 AI directors, pitching 24/7 advisors for small manufacturers](https://www.stocktitan.net/news/LOBO/lobo-upgrades-claw-ai-platform-via-ai-director-advisory-layer-eiqgeeicv7xf.html)**
-
-Built on Google Gemini 3 Pro Preview, the platform aims to bring executive-level decision support to SMEs and start paid subscriptions in Q2 2026.
-
-Stock Titan • 41m ago
+CNBC • 18h ago
 
 ---
 
-**[Elon Musk’s Job Could Be Replaced by AI, Says Take-Two CEO](https://www.yahoo.com/entertainment/music/articles/elon-musk-job-could-replaced-112628348.html)**
+**[Reese Witherspoon responds to backlash over AI stance](https://www.yahoo.com/entertainment/celebrity/articles/reese-witherspoon-responds-backlash-over-143002610.html)**
 
-Take-Two CEO Strauss Zelnick warns Elon Musk that AI could take over his job. Zelnick addressed a question on the impact of AI and whether it will replace humans during the Semafor World Economy 2026....
+Reese Witherspoon made it clear that she does not "believe computers should replace humanity".
 
-Yahoo • 1h ago
+Yahoo • 17m ago
+
+---
+
+**[OpenAI partners with consultancies to expand AI coding tool](https://qz.com/openai-codex-consulting-partnerships-enterprise-042126)**
+
+The company said weekly active users of Codex have climbed to 4 million, up from 3 million just weeks ago
+
+qz.com • 34m ago
+
+---
+
+**[Personalization To Paranoia – Why Consumers Pull Back As AI Expands](https://www.forbes.com/sites/garydrenik/2026/04/21/personalization-to-paranoia--why-consumers-pull-back-as-ai-expands/)**
+
+As companies race to deploy AI-powered personalization and autonomous agents, many are running into a wall of consumer distrust they did not see coming.
+
+Forbes • 47m ago
 
 ---
 
 **[Even Without Internet Access, Prisoners Are Trying to Benefit From A.I.](https://www.nytimes.com/2026/04/21/business/ai-chatbots-prisoners.html)**
 
-The New York Times • 3h ago
+The New York Times • 5h ago
 
 ---
 
@@ -169,27 +171,27 @@ The New York Times • 3h ago
 
 Fraudsters are using the promise of fake roles to trick job-seekers out of money, personal information or both, and with the help of AI they are more convincing than ever. But there are ways to spot them
 
-The Guardian • 5h ago
+The Guardian • 7h ago
 
 ---
 
-**[Apple incoming CEO John Ternus faces a defining challenge: Fixing the company's AI strategy](https://www.cnbc.com/2026/04/20/apple-new-ceo-john-ternus-faces-defining-challenge-fixing-ai-strategy.html)**
+**[5 ways your doctor may be using AI chatbots — and why it matters](https://www.cnn.com/2026/04/21/health/doctors-ai-chatbots-wellness)**
 
-Tim Cook had a highly successful tenure as Apple's CEO, but he leaves his successor with a big gap to fill when it comes to the company's position in AI.
+Millions of Americans are turning to AI chatbots for health answers. But are doctors using these tools? And if so, how?
 
-CNBC • 7h ago
-
----
-
-**[Apple's post-Cook future hinges on whether Ternus can ignite AI growth](https://www.reuters.com/business/apples-post-cook-future-hinges-whether-ternus-can-ignite-ai-growth-2026-04-21/)**
-
-Reuters • 1h ago
+CNN • 47m ago
 
 ---
 
-**[The Rise of Apple’s New CEO: A Hardware Expert Takes Over in the AI Era](https://www.wsj.com/tech/the-rise-of-apples-new-ceo-a-hardware-expert-takes-over-in-the-ai-era-bdc7046e)**
+**[Young people hate today's job market. You can't blame it all on AI](https://www.axios.com/2026/04/21/gen-z-jobs-unemployment-college-grads-ai)**
 
-WSJ • 9h ago
+Axios • 4h ago
+
+---
+
+**[Inside BlackRock’s AI Transformation](https://www.wsj.com/cio-journal/inside-blackrocks-ai-transformation-03a1e8c7)**
+
+WSJ • 3h ago
 
 ---
 
@@ -199,7 +201,7 @@ WSJ • 9h ago
 
 **[Atlassian enables default data collection to train AI](https://news.ycombinator.com/item?id=47833247)**
 
-⬆️ 577 • 💬 126 • 1d ago • [letsdatascience.com](https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8)
+⬆️ 583 • 💬 130 • 1d ago • [letsdatascience.com](https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8)
 
 ---
 
@@ -213,7 +215,7 @@ WSJ • 9h ago
 
 People are sick of artificial intelligence, and are increasingly making it known through acts of resistance.
 
-⬆️ 367 • 💬 368 • 16h ago • [stephvee.ca](https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/)
+⬆️ 369 • 💬 379 • 18h ago • [stephvee.ca](https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/)
 
 ---
 
@@ -221,7 +223,7 @@ People are sick of artificial intelligence, and are increasingly making it known
 
 Deezer says consumption of AI-generated music on the platform is still very low, between 1-3% of the total streams, and that 85% of these streams are detected as fraudulent and are demonetized.
 
-⬆️ 350 • 💬 364 • 21h ago • [TechCrunch](https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/)
+⬆️ 352 • 💬 369 • 23h ago • [TechCrunch](https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/)
 
 ---
 
@@ -229,13 +231,13 @@ Deezer says consumption of AI-generated music on the platform is still very low,
 
 Police lured the man to a meeting and arrested him after accessing a private WhatsApp group with colleagues
 
-⬆️ 283 • 💬 187 • 1d ago • [LBC](https://www.lbc.co.uk/article/dubai-police-spied-private-whatsapp-5HjdXwr_2/)
+⬆️ 284 • 💬 189 • 2d ago • [LBC](https://www.lbc.co.uk/article/dubai-police-spied-private-whatsapp-5HjdXwr_2/)
 
 ---
 
 **[A Roblox cheat and one AI tool brought down Vercel's platform](https://news.ycombinator.com/item?id=47844431)**
 
-⬆️ 204 • 💬 103 • 8h ago • [webmatrices.com](https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform)
+⬆️ 235 • 💬 131 • 10h ago • [webmatrices.com](https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform)
 
 ---
 
@@ -243,7 +245,7 @@ Police lured the man to a meeting and arrested him after accessing a private Wha
 
 Airborne genetic material can be used to paint a picture of ecosystem health, watch for invasive species and even identify humans.
 
-⬆️ 122 • 💬 35 • 2d ago • [nature.com](https://www.nature.com/articles/d41586-026-01099-2)
+⬆️ 146 • 💬 47 • 2d ago • [nature.com](https://www.nature.com/articles/d41586-026-01099-2)
 
 ---
 
@@ -251,7 +253,15 @@ Airborne genetic material can be used to paint a picture of ecosystem health, wa
 
 AI investment is skyrocketing while AI’s impact on jobs and public perception remains mixed
 
-⬆️ 112 • 💬 61 • 2d ago • [IEEE Spectrum](https://spectrum.ieee.org/state-of-ai-index-2026)
+⬆️ 113 • 💬 61 • 2d ago • [IEEE Spectrum](https://spectrum.ieee.org/state-of-ai-index-2026)
+
+---
+
+**[Show HN: Mediator.ai – Using Nash bargaining and LLMs to systematize fairness](https://news.ycombinator.com/item?id=47835411)**
+
+Mediator.ai uses bargaining theory and modern AI to find agreements that two people in conflict would both accept, including ones they hadn't thought of.
+
+⬆️ 104 • 💬 54 • 23h ago • [Mediator.ai](https://mediator.ai/)
 
 ---
 
@@ -263,17 +273,19 @@ Uber Technologies, Inc is learning the hard way that scaling AI isn't just about
 
 ---
 
-**[Show HN: Mediator.ai – Using Nash bargaining and LLMs to systematize fairness](https://news.ycombinator.com/item?id=47835411)**
-
-Mediator.ai uses bargaining theory and modern AI to find agreements that two people in conflict would both accept, including ones they hadn't thought of.
-
-⬆️ 92 • 💬 35 • 21h ago • [Mediator.ai](https://mediator.ai/)
-
----
-
 ---
 
 ## YouTube Videos: "ai"
+
+**[New AI Robot From China Breaks Human Limits](https://www.youtube.com/watch?v=EJbJMg2RNgw)**
+
+AGIBOT just rolled out a full new wave of humanoid robots and AI models built for real deployment, while researchers in South ...
+
+📺 AI Revolution
+
+👁️ 15K • 👍 544 • 💬 31 • ⏱️ 16:29 • 14h ago
+
+---
 
 **[AI Is Literally A Psyop](https://www.youtube.com/watch?v=wLC7SATDmy8)**
 
@@ -281,17 +293,17 @@ So much of the hype around AI is due to its supposed "superintelligence". Suppos
 
 📺 Cole Hastings
 
-👁️ 113K • 👍 6K • 💬 1K • ⏱️ 17:36 • 1d ago
+👁️ 117K • 👍 6K • 💬 1K • ⏱️ 17:36 • 1d ago
 
 ---
 
-**[How to Sell AI Agents to Local Businesses In 2026 (START HERE)](https://www.youtube.com/watch?v=HTWrhbtETuI)**
+**[I Tried To Write &amp; Publish An AI Novel In 3 Hours](https://www.youtube.com/watch?v=f9xryQuhr0Q)**
 
-Best AI Agent Tool is Base44 https://base44.pxf.io/c/6440076/3820726/25619?trafcat=agent&sharedid=agent4 ✓ FREE ...
+Try Scribe for free: https://scribe.how/wholesaleted ▻ Get A Free Canva Account: https://wholesaletedgo.com/canvapro (affiliate ...
 
-📺 Mikey No Code
+📺 Wholesale Ted
 
-👁️ 13K • 💬 26 • ⏱️ 30:05 • 22h ago
+👁️ 9K • 👍 858 • 💬 140 • ⏱️ 22:07 • 18h ago
 
 ---
 
@@ -301,7 +313,7 @@ Abacus AI just showed something that feels a lot bigger than another flashy AI d
 
 📺 AI Revolution
 
-👁️ 13K • 👍 512 • 💬 41 • ⏱️ 13:18 • 1d ago
+👁️ 14K • 👍 521 • 💬 41 • ⏱️ 13:18 • 1d ago
 
 ---
 
@@ -311,7 +323,37 @@ Krystal and Ryan discuss pro-Trump AI bots flooding social media. Sign up for a 
 
 📺 Breaking Points
 
-👁️ 127K • 👍 5K • 💬 712 • ⏱️ 8:50 • 18h ago
+👁️ 138K • 👍 5K • 💬 746 • ⏱️ 8:50 • 20h ago
+
+---
+
+**[How to Create a Realistic Talking AI Avatar in 15 Seconds (HeyGen Avatar V)](https://www.youtube.com/watch?v=ym9HhUlFiog)**
+
+sponsored HeyGen Here: https://bit.ly/42cySEn Become an AI Master – All-in-one AI Learning https://aimaster.me/yt/avatar ...
+
+📺 AI Master
+
+👁️ 2K • 👍 89 • 💬 9 • ⏱️ 10:51 • 19h ago
+
+---
+
+**[THIS ABOUT AI IS TERRIFYING 👀](https://www.youtube.com/watch?v=6egP0Y_QF8Y)**
+
+THIS ABOUT AI IS TERRIFYING We're way further into this than people realize… #Shorts #AI #ArtificialIntelligence #Tech ...
+
+📺 Jesse ON FIRE
+
+👁️ 7K • 👍 677 • 💬 63 • ⏱️ 2:27 • 13h ago
+
+---
+
+**[YouTube&#39;s Secret AI Tool That Helps You Earn Money From YouTube | YouTube Ask Studio](https://www.youtube.com/watch?v=GtU7b46wdrg)**
+
+YouTube's Secret FREE AI Tool That Helps You Earn money from YouTube channel more professionally. This video shows you ...
+
+📺 Mr How
+
+👁️ 39K • 👍 3K • 💬 403 • ⏱️ 8:07 • 2d ago
 
 ---
 
@@ -321,37 +363,7 @@ in this video, we break down the rumored GPT-5.5 “pro” model from OpenAI and
 
 📺 WorldofAI
 
-👁️ 39K • 👍 702 • 💬 106 • ⏱️ 10:27 • 1d ago
-
----
-
-**[AI will DESTROY HUMANITY! Unless...](https://www.youtube.com/watch?v=0smasgIce90)**
-
-Thanks to Kirkstone Metals Corp for sponsoring today's video. You can get their latest presentation here on their website: ...
-
-📺 Mr Reagan
-
-👁️ 3K • 👍 539 • 💬 179 • ⏱️ 15:55 • 21h ago
-
----
-
-**[The new AI model that’s alarming Washington | The Economist](https://www.youtube.com/watch?v=zSsDx7Y9YUc)**
-
-A powerful new AI model, called Mythos, has sparked alarm within the Trump administration. The lab behind it, Anthropic, says the ...
-
-📺 The Economist
-
-👁️ 110K • 👍 2K • 💬 169 • ⏱️ 8:30 • 2d ago
-
----
-
-**[The Claude Mythos delusion...](https://www.youtube.com/watch?v=mOGqQjAlWxs)**
-
-Find out more about CodeCrafters - https://app.codecrafters.io/join?via=club-awesome Topics: - The Anthropic Claude Mythos ...
-
-📺 Awesome
-
-👁️ 56K • 👍 3K • 💬 238 • ⏱️ 8:48 • 1d ago
+👁️ 39K • 👍 690 • 💬 106 • ⏱️ 10:27 • 1d ago
 
 ---
 
@@ -361,17 +373,7 @@ The Real AI Race: Tesla vs Google vs China Some viewers ask where they can learn
 
 📺 Brighter with Herbert
 
-👁️ 40K • 👍 2K • 💬 124 • ⏱️ 20:00 • 1d ago
-
----
-
-**[Why AI Will Never Be Conscious - Anil Seth](https://www.youtube.com/watch?v=lsi8T_WtLnE)**
-
-Get Huel today with this exclusive offer for New Customers of 15% OFF with code alexoconnor at https://huel.com/alexoconnor ...
-
-📺 Alex O'Connor
-
-👁️ 59K • 👍 2K • 💬 902 • ⏱️ 1:42:28 • 19h ago
+👁️ 42K • 👍 2K • 💬 126 • ⏱️ 20:00 • 1d ago
 
 ---
 
@@ -387,19 +389,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with a vision encoder, 
 
 `image-text-to-text` `36.0B`
 
-⬇️ 458,436 • ❤️ 1,091 • 6d ago
-
----
-
-**[HY-Embodied-0.5](https://huggingface.co/tencent/HY-Embodied-0.5)**
-
-*Tencent*
-
-HY-Embodied-0.5 is a multilingual vision-language model designed for embodied agents, excelling in spatial-temporal perception and reasoning. It features an efficient Mixture-of-Transformers (MoT) architecture for real-world robot control and VLA pipelines.
-
-`image-text-to-text` `3.8B`
-
-⬇️ 2,035 • ❤️ 892 • 7d ago
+⬇️ 458,436 • ❤️ 1,101 • 6d ago
 
 ---
 
@@ -411,7 +401,7 @@ Kimi K2.6 is a 1T parameter multimodal agentic model excelling in long-horizon c
 
 `image-text-to-text` `1058.6B`
 
-⬇️ 8,241 • ❤️ 579 • 11h ago
+⬇️ 8,241 • ❤️ 617 • 13h ago
 
 ---
 
@@ -423,7 +413,19 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with vision capabilitie
 
 `image-text-to-text` `34.7B`
 
-⬇️ 967,317 • ❤️ 590 • 23h ago
+⬇️ 967,317 • ❤️ 593 • 1d ago
+
+---
+
+**[HY-Embodied-0.5](https://huggingface.co/tencent/HY-Embodied-0.5)**
+
+*Tencent*
+
+HY-Embodied-0.5 is a multilingual vision-language model designed for embodied agents, excelling in spatial-temporal perception and reasoning. It features an efficient Mixture-of-Transformers (MoT) architecture for real-world robot control and VLA pipelines.
+
+`image-text-to-text` `3.8B`
+
+⬇️ 2,035 • ❤️ 893 • 7d ago
 
 ---
 
@@ -435,7 +437,7 @@ ERNIE-Image is a 8B parameter text-to-image diffusion model excelling in complex
 
 `text-to-image`
 
-⬇️ 4,523 • ❤️ 506 • 4d ago
+⬇️ 4,523 • ❤️ 508 • 4d ago
 
 ---
 
@@ -447,7 +449,7 @@ HY-World 2.0 is a multi-modal framework for generating and reconstructing 3D wor
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 508 • 5d ago
+⬇️ 0 • ❤️ 510 • 5d ago
 
 ---
 
@@ -459,7 +461,7 @@ Gemma 4 E4B OBLITERATED v3 is a text-generation model with 0% refusal and improv
 
 `text-generation` `8.0B`
 
-⬇️ 63,995 • ❤️ 404 • 1d ago
+⬇️ 63,995 • ❤️ 417 • 1d ago
 
 ---
 
@@ -471,7 +473,7 @@ ERNIE-Image-Turbo is a distilled text-to-image diffusion model optimized for spe
 
 `text-to-image`
 
-⬇️ 5,952 • ❤️ 338 • 4d ago
+⬇️ 5,952 • ❤️ 340 • 4d ago
 
 ---
 
@@ -483,7 +485,7 @@ This is an uncensored, aggressive multimodal model based on Qwen3.6-35B-A3B, cap
 
 `image-text-to-text` `34.7B`
 
-⬇️ 261,086 • ❤️ 308 • 4d ago
+⬇️ 261,086 • ❤️ 320 • 4d ago
 
 ---
 
@@ -495,7 +497,7 @@ MiniMax-M2.7 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 358,255 • ❤️ 1,015 • 1d ago
+⬇️ 358,255 • ❤️ 1,016 • 1d ago
 
 ---
 
@@ -567,6 +569,20 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 ---
 
+**[MultiWorld: Scalable Multi-Agent Multi-View Video World Models](https://huggingface.co/papers/2604.18564)**
+
+*Haoyu Wu, Jiwen Yu, Yingtian Zou et al. (4 authors)*
+
+🏢 The University of Hong Kong
+
+MultiWorld is a unified framework for multi-agent multi-view world modeling that achieves accurate multi-agent control while maintaining multi-view consistency through specialized modules for condition handling and global state encoding.
+
+▲ 35 • 💬 2 • ⭐ 62 • 1d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2604.18564) • [💻 code](https://github.com/CIntellifusion/MultiWorld) • [🔗 project](https://multi-world.github.io/)
+
+---
+
 **[RAG-Anything: All-in-One RAG Framework](https://huggingface.co/papers/2510.12323)**
 
 *Zirui Guo, Xubin Ren, Lingrui Xu et al. (5 authors)*
@@ -619,18 +635,6 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 ---
 
-**[Dive into Claude Code: The Design Space of Today's and Future AI Agent Systems](https://huggingface.co/papers/2604.14228)**
-
-*Jiacheng Liu, Xiaohan Zhao, Xinyi Shang et al. (4 authors)*
-
-The study analyzes Claude Code's architecture, identifying five motivating human values and tracing them through thirteen design principles to specific implementation choices, including a core while-loop architecture and supporting systems for safety, context management, and extensibility.
-
-▲ 22 • 💬 1 • ⭐ 442 • 7d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2604.14228) • [💻 code](https://github.com/VILA-Lab/Dive-into-Claude-Code)
-
----
-
 ---
 
 ## GitHub Repositories: "ai"
@@ -641,7 +645,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 48.6k • 🔱 6.4k • 7h ago
+⭐ 48.7k • 🔱 6.4k • 10h ago
 
 ---
 
@@ -651,7 +655,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 41.4k • 🔱 2.1k • 3d ago
+⭐ 41.7k • 🔱 2.1k • 3d ago
 
 ---
 
@@ -661,7 +665,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 37.5k • 🔱 7.6k • 2d ago
+⭐ 37.6k • 🔱 7.6k • 2d ago
 
 ---
 
@@ -671,7 +675,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 31.7k • 🔱 3.5k • 2h ago
+⭐ 31.8k • 🔱 3.5k • 4h ago
 
 ---
 
@@ -681,7 +685,17 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 8.4k • 🔱 543 • 1h ago
+⭐ 8.4k • 🔱 545 • 49m ago
+
+---
+
+**[kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)**
+
+A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.
+
+`Python` `ai` `anthropic` `attention` `claude` `claude-ai`
+
+⭐ 5.8k • 🔱 1.3k • 1d ago
 
 ---
 
@@ -691,7 +705,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Python`
 
-⭐ 5.6k • 🔱 958 • 2d ago
+⭐ 5.7k • 🔱 967 • 2d ago
 
 ---
 
@@ -702,16 +716,6 @@ AI Agent 源码深度研究报告
 `Python`
 
 ⭐ 5.6k • 🔱 1.6k • 8d ago
-
----
-
-**[kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)**
-
-A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.
-
-`Python` `ai` `anthropic` `attention` `claude` `claude-ai`
-
-⭐ 5.1k • 🔱 1.2k • 22h ago
 
 ---
 

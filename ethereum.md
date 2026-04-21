@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-21T12:41:55.333702+00:00'
+updated: '2026-04-21T14:48:00.004406+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
 - cryptocurrency
 - news
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 21, 2026 at 12:41 UTC  
+**Last Updated:** April 21, 2026 at 14:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.5%  
-**7d:** -2.4%  
-**30d:** +7.0%  
-**90d:** -22.0%  
-**1y:** +31.1%  
+**24h:** +0.1%  
+**7d:** -1.8%  
+**30d:** +7.5%  
+**90d:** -21.6%  
+**1y:** +31.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $279.90B
+**Market Cap:** $280.39B
 Rank #2
 
 **Circulating Supply:** 120,690,002 ETH
@@ -62,7 +62,7 @@ No max supply
 -53.1%
 
 **All-Time Low:** $0.43
-+535584.2%
++536177.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-7h ago
+9h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 39.0 million ETH is now staked, exactly 32.02% of the total supply. It's over $90B worth of ETH at current prices, that’s a huge share of the network committed to securing it and one of the strongest signals of long-term participation we’ve seen so far. As we see, despite ongoing global uncertainty and volatile market conditions, staking activity continues to grow. Instead of pulling back, more ETH is being locked into the network. That suggests a certain level of confidence from participants who are thinking long-term rather than reacting to short-term noise. From a structural perspective, this also affects supply dynamics. As more ETH moves into staking, the liquid supply available on the market decreases. It doesn’t mean those coins are gone, but they are less likely to be actively traded. Over time, this can change how the market responds to demand. At the same time, staking plays a critical role beyond price, it strengthens network security and aligns incentives across participants. Of course, none of this guarantees immediate price movement. Markets are influenced by many factors. But it does highlight how Ethereum’s underlying fundamentals continue to evolve. Full post: https://x.com/everstake_pool/status/2046178353548308981
 
-21h ago
+23h ago
 
 ---
 
@@ -138,7 +138,7 @@ On April 18, a hacker minted 116,500 rsETH tokens out of nothing. Not stolen fro
 
 **[Key Takeaways from Mike Toutonghi’s Paris Blockchain Week 2026 Keynote](https://www.reddit.com/r/ethereum/comments/1sps1nj/key_takeaways_from_mike_toutonghis_paris/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -146,27 +146,33 @@ On April 18, a hacker minted 116,500 rsETH tokens out of nothing. Not stolen fro
 
 ## Google News: "ethereum"
 
-**[Is Canaan (CAN) the Most Overlooked Name Among the Best Ethereum Stocks to Buy Now?](https://finance.yahoo.com/markets/crypto/articles/canaan-most-overlooked-name-among-105411067.html)**
-
-Canaan Inc. (NASDAQ:CAN) is one of the best Ethereum stocks to buy now. On April 15, Canaan Inc. (NASDAQ:CAN) released its unaudited Bitcoin mining update for March 2026, in which it reported that it mined 89 BTC, bringing the total BTC holding to 1,808 coins, and that the Ethereum holding during the month totaled 3,952 […]
-
-Yahoo Finance • 1h ago
-
----
-
-**[Ethereum rips past $2,300 as ETF inflows ignite fresh investor rush](https://www.tradingview.com/news/invezz:0d66e6d5a094b:0-ethereum-rips-past-2-300-as-etf-inflows-ignite-fresh-investor-rush/)**
-
-The cryptocurrency market encountered a sell-off on Monday but has quickly bounced back, with most major coins now in the green.Ethereum, the second-largest cryptocurrency by market cap, is trading above $2,300 once again after dropping below $2,250 on Monday.Ethereum could continue its upward move…
-
-TradingView • 3h ago
-
----
-
 **[Bitcoin and ethereum prices today, Tuesday, April 21, 2026: Prices on the rise this morning](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-april-21-2026-prices-on-the-rise-this-morning-113401602.html)**
 
 Bitcoin and ethereum prices are showing strength this morning. Bitcoin opened at $75,854.80. The value of bitcoin at 7.20 a.m. ET was $76,535.42. Ethereum opened at $2,314.41 on Tuesday. The value of ethereum at 7:20 a.m. ET was $2,322.01.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 3h ago
+
+---
+
+**[Ethereum's Wall Street cheerleaders see rise to $250,000, call Bitcoin and gold 'dead capital'](https://www.dlnews.com/articles/defi/ethereum-will-reach-usd-250000-price-etherealize-says/)**
+
+A new paper from a pro-Ethereum group argues the world’s second-largest cryptocurrency should hit $250,000 per coin.  But it relies, in part, on an assumption that DeFi will grow over time That assumption has been severely tested this week.  The paper also took several shots at Bitcoin and gold, calling them “dead capital.”
+
+dlnews.com • 2h ago
+
+---
+
+**[Kevin O'Leary Says Bitcoin, Ethereum Give Him Almost All Of Crypto Exposure: 'I Cut The Garbage And Kept What Works'](https://finance.yahoo.com/markets/crypto/articles/kevin-oleary-says-bitcoin-ethereum-120117255.html)**
+
+Renowned investor and media personality Kevin O'Leary said Sunday that investors only need Bitcoin and Ethereum to capture the majority of the cryptocurrency market exposure, dismissing all other coins as “garbage.” O’Leary Stresses On ‘Disciplined’ Crypto Strategy O'Leary took to...
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Large cryptocurrencies mixed as Ethereum falls](https://www.marketwatch.com/data-news/large-cryptocurrencies-mixed-as-ethereum-falls-ad4f1e91-faec5d5fd43e)**
+
+MarketWatch • 48m ago
 
 ---
 
@@ -174,13 +180,15 @@ Yahoo Finance • 1h ago
 
 BitMine Immersion Technologies (NYSE: $BMNR) bought $230 million U.S. of Ethereum (CRYPTO: $ETH) over the past week...
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin Price Tops $76,000, Strategy Purchase Fuels Crypto Gains. XRP, Ethereum Rise.](https://www.barrons.com/articles/bitcoin-price-crypto-strategy-xrp-ethereum-043e606c)**
+**[Current price of Ethereum for April 21, 2026](https://fortune.com/article/price-of-ethereum-04-21-2026/)**
 
-Barron's • 1h ago
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 1h ago
 
 ---
 
@@ -192,31 +200,25 @@ CoinDesk • 2d ago
 
 ---
 
+**[Ethereum Price Rebound At Risk, Failure Signals Could Emerge Soon](https://www.tradingview.com/news/newsbtc:5ebefbc12094b:0-ethereum-price-rebound-at-risk-failure-signals-could-emerge-soon/)**
+
+Ethereum price started a recovery wave from the $2,250 zone. ETH is now consolidating and might fail to extend gains above the $2,360 resistance.Ethereum Price Faces ResistanceEthereum price tested the $2,250 support zone before the bulls appeared, like Bitcoin. ETH price formed a base and started…
+
+TradingView • 11h ago
+
+---
+
+**[Tokenized funds hit $30B as JP Morgan, BlackRock drive Ethereum growth](https://cryptobriefing.com/tokenized-funds-hit-30b-as-jp-morgan-blackrock-drive-ethereum-growth/)**
+
+Tokenized funds reach $30B, led by JP Morgan and BlackRock. Bitcoin at $80K in April now priced at 46.5% YES, while Ethereum at $2,700 on April 16 is 100% YES.
+
+Crypto Briefing • 2h ago
+
+---
+
 **[‘Security over speed’: Why Vitalik Buterin’s narrative shift matters for Ethereum](https://ambcrypto.com/security-over-speed-why-vitalik-buterins-narrative-shift-matters-for-ethereum/)**
 
-AMBCrypto • 3h ago
-
----
-
-**[Crypto News: Ethereum Based Crypto Pepeto Announces Investments Growth While Cardano Price Prediction Improves](https://markets.businessinsider.com/news/stocks/crypto-news-ethereum-based-crypto-pepeto-announces-investments-growth-while-cardano-price-prediction-improves-1036039381)**
-
-Dubai, UAE, April  20, 2026  (GLOBE NEWSWIRE) -- Crypto news on Pepeto is moving at a speed no presale has matched this year. Heavy buyers are flo...
-
-markets.businessinsider.com • 16h ago
-
----
-
-**[Most large cryptocurrencies rise on Ethereum, Avalanche increases](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-rise-on-ethereum-avalanche-increases-da482e07-f13b7e1250e1)**
-
-MarketWatch • 22h ago
-
----
-
-**[Why I withdrew everything from Aave this weekend](https://www.thestreet.com/crypto/markets/why-i-withdrew-everything-from-aave-this-weekend)**
-
-Why I withdrew every dollar from Aave V3 this weekend, and what every USDT, USDC, and ETH lender should be watching before they decide to stay.
-
-thestreet.com • 1d ago
+AMBCrypto • 5h ago
 
 ---
 
@@ -224,23 +226,43 @@ thestreet.com • 1d ago
 
 ## YouTube Videos: "ethereum"
 
+**[🚨 BTC &amp; ETH: THE NEXT 48 HOURS!!!!!!!!](https://www.youtube.com/watch?v=diH4qtGeY3c)**
+
+The next 48 hours will be the deciding force for crypto, bitcoin and ethereum as well as the oil prices. Here is my take on what to ...
+
+📺 Thomas Kralow
+
+👁️ 4K • 👍 2K • 💬 12 • ⏱️ 12:02 • 3h ago
+
+---
+
+**[Productive Money: The Most Bullish Case for Ethereum](https://www.youtube.com/watch?v=cwBtPPL_4Oc)**
+
+SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium ------ Ethereum may be one of the ...
+
+📺 Bankless
+
+👁️ 938 • 👍 78 • 💬 17 • ⏱️ 1:24:23 • 3h ago
+
+---
+
 **[Ethereum Holders - Its Happening Right Now](https://www.youtube.com/watch?v=89b-4Fa-Kj8)**
 
 Welcome Back To The Channel! ✔️ https://tylerhill.pro/Fortisx42026 ✔️ Deposit from $100: Get a 1% bonus ✔️ Withdraw ...
 
 📺 Tyler Hill Crypto
 
-👁️ 4K • 👍 219 • 💬 44 • ⏱️ 10:29 • 19h ago
+👁️ 5K • 👍 223 • 💬 38 • ⏱️ 10:29 • 21h ago
 
 ---
 
-**[This Just Broke Ethereum](https://www.youtube.com/watch?v=QU4j7T3Tkyc)**
+**[Ethereum just made an ATH on THIS important Measure (BMNR Stock Update).](https://www.youtube.com/watch?v=_s0sxyDmNr8)**
 
-The "Ethereum is Dead" narrative is back, and this time, the numbers actually look scary. While Bitcoin hits new highs and Solana ...
+Follow me on X: @kross_roads 15% Off Fiscal.ai Plans! Unlock institutional-grade data with my link: https://fiscal.ai/?via=roy ...
 
-📺 Discover Crypto
+📺 Crossroads
 
-👁️ 7K • 👍 397 • 💬 20 • ⏱️ 58:47 • 21h ago
+👁️ 97 • 👍 11 • 💬 2 • ⏱️ 13:21 • 32m ago
 
 ---
 
@@ -250,17 +272,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 65 • 👍 3 • 💬 1 • ⏱️ 4:32 • 3h ago
-
----
-
-**[BITCOIN HOLDERS: It&#39;s Happening AGAIN (Prepare Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=9UccCltMPsI)**
-
-BITCOIN HOLDERS: It's Happening AGAIN (Prepare Now)!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
-
-📺 Crypto World
-
-👁️ 6K • 👍 289 • 💬 60 • ⏱️ 22:14 • 14h ago
+👁️ 132 • 👍 6 • 💬 2 • ⏱️ 4:32 • 5h ago
 
 ---
 
@@ -270,7 +282,17 @@ IT'S RIGGED! Buckle Up' Bitcoin & Crypto Holders ⭐ Follow Altcoin Daily on X: 
 
 📺 Altcoin Daily
 
-👁️ 47K • 👍 2K • 💬 161 • ⏱️ 11:59 • 2d ago
+👁️ 48K • 👍 2K • 💬 160 • ⏱️ 11:59 • 2d ago
+
+---
+
+**[This Just Broke Ethereum](https://www.youtube.com/watch?v=QU4j7T3Tkyc)**
+
+The "Ethereum is Dead" narrative is back, and this time, the numbers actually look scary. While Bitcoin hits new highs and Solana ...
+
+📺 Discover Crypto
+
+👁️ 7K • 👍 399 • 💬 20 • ⏱️ 58:47 • 23h ago
 
 ---
 
@@ -278,47 +300,25 @@ IT'S RIGGED! Buckle Up' Bitcoin & Crypto Holders ⭐ Follow Altcoin Daily on X: 
 
 📺 Digital Asset Investor
 
-👁️ 691 • 👍 19 • ⏱️ 0:34 • 2h ago
+👁️ 2K • 👍 82 • ⏱️ 0:34 • 4h ago
 
 ---
 
-**[🚨 BTC &amp; ETH: ITS TIME!!!!!!!!!!!!!!!](https://www.youtube.com/watch?v=U1zfC9BL5hM)**
+**[BITCOIN HOLDERS: It&#39;s Happening AGAIN (Prepare Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=9UccCltMPsI)**
 
-Its a video about bitcoin, ethereum, crypto in general. But its quite an unusual one! So dont miss it! ---------- Join My FREE ...
+BITCOIN HOLDERS: It's Happening AGAIN (Prepare Now)!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
 
-📺 Thomas Kralow
+📺 Crypto World
 
-👁️ 18K • 👍 2K • 💬 72 • ⏱️ 7:52 • 2d ago
-
----
-
-**[EXPOSED Ripple&#39;s XRPL DeFi is Built Safer &amp; Smarter Than Ethereum?](https://www.youtube.com/watch?v=yrjNFqMRvvo)**
-
-Ripple's XRPL DeFi is Built Safer & Smarter Than Ethereum's! Exposed by Biggest Defi hack in Crypto HISTORY! Hi babes ...
-
-📺 CryptoWendyO
-
-👁️ 2K • 👍 207 • 💬 10 • ⏱️ 3:15 • 15h ago
+👁️ 6K • 👍 295 • 💬 70 • ⏱️ 22:14 • 16h ago
 
 ---
 
-**[More Powerful Ethereum Coming This Summer🚨Ethereum Economic Zone INTERVIEW](https://www.youtube.com/watch?v=3uuRT5Zoi5s)**
+**[ETHEREUM HACK! (URGENT)](https://www.youtube.com/watch?v=_BaAnbGMT-w)**
 
-The Ethereum Economic Zone (EEZ) is a framework co-funded by the Ethereum Foundation, Gnosis, and Zisk to unify fragmented ...
+📺 Discover Crypto
 
-📺 Paul Barron Network
-
-👁️ 28K • 👍 1K • 💬 100 • ⏱️ 19:55 • 2d ago
-
----
-
-**[Raoul Pal Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [2026 Realistic Prediction]](https://www.youtube.com/watch?v=o6-yoeXkA9c)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 6K • 👍 281 • 💬 12 • ⏱️ 20:54 • 2d ago
+👁️ 6K • 👍 77 • 💬 3 • ⏱️ 0:18 • 14h ago
 
 ---
 
