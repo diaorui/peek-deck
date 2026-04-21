@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-21T08:16:54.257283+00:00'
+updated: '2026-04-21T09:59:34.846536+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - social
+- news
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 21, 2026 at 08:16 UTC  
+**Last Updated:** April 21, 2026 at 09:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.3%  
-**7d:** -1.9%  
-**30d:** +7.6%  
-**90d:** -21.6%  
-**1y:** +31.8%  
+**24h:** +0.8%  
+**7d:** -1.4%  
+**30d:** +8.1%  
+**90d:** -21.2%  
+**1y:** +32.4%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 39.0 million ETH is now staked, exactly 32.02% of the total supply. It's over $90B worth of ETH at current prices, that’s a huge share of the network committed to securing it and one of the strongest signals of long-term participation we’ve seen so far. As we see, despite ongoing global uncertainty and volatile market conditions, staking activity continues to grow. Instead of pulling back, more ETH is being locked into the network. That suggests a certain level of confidence from participants who are thinking long-term rather than reacting to short-term noise. From a structural perspective, this also affects supply dynamics. As more ETH moves into staking, the liquid supply available on the market decreases. It doesn’t mean those coins are gone, but they are less likely to be actively traded. Over time, this can change how the market responds to demand. At the same time, staking plays a critical role beyond price, it strengthens network security and aligns incentives across participants. Of course, none of this guarantees immediate price movement. Markets are influenced by many factors. But it does highlight how Ethereum’s underlying fundamentals continue to evolve. Full post: https://x.com/everstake_pool/status/2046178353548308981
 
-17h ago
+18h ago
 
 ---
 
@@ -98,14 +98,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Someone Warned Kelp DAO About This Exact Vulnerability 15 Months Ago. Nobody Listened. $292 Million Is Gone](https://www.reddit.com/r/ethereum/comments/1spoe1h/someone_warned_kelp_dao_about_this_exact/)**
-
-The Kelp DAO exploit that drained $292 million and froze Aave was preventable. A developer posted on the Aave governance forum in January 2025 that Kelp's single-validator bridge security was the weakest configuration LayerZero allows. Kelp never added the second validator. On Saturday, an attacker used that exact vulnerability.
-
-🔗 [DailyCoinPost](https://dailycoinpost.com/kelp-dao-292-million-hack-warning-ignored-layerzero/) • 1d ago
-
----
-
 **[Daily General Discussion April 19, 2026](https://www.reddit.com/r/ethereum/comments/1spjkzn/daily_general_discussion_april_19_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
@@ -114,11 +106,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
+**[Someone Warned Kelp DAO About This Exact Vulnerability 15 Months Ago. Nobody Listened. $292 Million Is Gone](https://www.reddit.com/r/ethereum/comments/1spoe1h/someone_warned_kelp_dao_about_this_exact/)**
+
+The Kelp DAO exploit that drained $292 million and froze Aave was preventable. A developer posted on the Aave governance forum in January 2025 that Kelp's single-validator bridge security was the weakest configuration LayerZero allows. Kelp never added the second validator. On Saturday, an attacker used that exact vulnerability.
+
+🔗 [DailyCoinPost](https://dailycoinpost.com/kelp-dao-292-million-hack-warning-ignored-layerzero/) • 2d ago
+
+---
+
 **[Ethereum Opening a Real Physical Hub in Hong Kong Feels Bigger Than It Sounds](https://www.reddit.com/r/ethereum/comments/1spo0jw/ethereum_opening_a_real_physical_hub_in_hong_kong/)**
 
 Feels kinda bigger than a normal crypto meetup tbh Ethereum getting a real physical hub in Hong Kong with Foundation backing sounds like a sign the ecosystem is trying to build something more lasting than just online hype and conference cycles Hong Kong is also a pretty smart place for it if the goal is to connect builders, institutions and actual adoption in Asia Do you guys think this stuff actually matters for Ethereum long term, or is it mostly optics? https://btcusa.com/ethereum-foundation-backs-asias-first-physical-ethereum-hub-in-hong-kong-as-institutional-web3-race-intensifies/
 
-1d ago
+2d ago
 
 ---
 
@@ -130,7 +130,7 @@ Feels kinda bigger than a normal crypto meetup tbh Ethereum getting a real physi
 
 **[Open-sourced a multi-agent contract audit skill for Claude Code](https://www.reddit.com/r/ethereum/comments/1spodq7/opensourced_a_multiagent_contract_audit_skill_for/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -146,11 +146,11 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Singapore’s OCBC launches tokenized gold fund on Ethereum and Solana](https://www.tradingview.com/news/cointelegraph:5ae107ed4094b:0-singapore-s-ocbc-launches-tokenized-gold-fund-on-ethereum-and-solana/)**
+**[Ethereum rips past $2,300 as ETF inflows ignite fresh investor rush](https://www.tradingview.com/news/invezz:0d66e6d5a094b:0-ethereum-rips-past-2-300-as-etf-inflows-ignite-fresh-investor-rush/)**
 
-OCBC, one of Singapore’s largest banking and financial services corporations, has launched a tokenized physical gold fund, with the underlying token, GOLDX, issued on both Ethereum and Solana.The launch was made together with its asset management arm, Lion Global Investors and digital asset exchang…
+The cryptocurrency market encountered a sell-off on Monday but has quickly bounced back, with most major coins now in the green.Ethereum, the second-largest cryptocurrency by market cap, is trading above $2,300 once again after dropping below $2,250 on Monday.Ethereum could continue its upward move…
 
-TradingView • 1h ago
+TradingView • 43m ago
 
 ---
 
@@ -166,7 +166,7 @@ Yahoo Finance • 1d ago
 
 BitMine Immersion Technologies (NYSE: $BMNR) bought $230 million U.S. of Ethereum (CRYPTO: $ETH) over the past week...
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -178,9 +178,23 @@ CoinDesk • 2d ago
 
 ---
 
+**[‘Security over speed’: Why Vitalik Buterin’s narrative shift matters for Ethereum](https://ambcrypto.com/security-over-speed-why-vitalik-buterins-narrative-shift-matters-for-ethereum/)**
+
+AMBCrypto • 59m ago
+
+---
+
 **[Most large cryptocurrencies rise on Ethereum, Avalanche increases](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-rise-on-ethereum-avalanche-increases-da482e07-f13b7e1250e1)**
 
-MarketWatch • 18h ago
+MarketWatch • 19h ago
+
+---
+
+**[Crypto News: Ethereum Based Crypto Pepeto Announces Investments Growth While Cardano Price Prediction Improves](https://markets.businessinsider.com/news/stocks/crypto-news-ethereum-based-crypto-pepeto-announces-investments-growth-while-cardano-price-prediction-improves-1036039381)**
+
+Dubai, UAE, April  20, 2026  (GLOBE NEWSWIRE) -- Crypto news on Pepeto is moving at a speed no presale has matched this year. Heavy buyers are flo...
+
+markets.businessinsider.com • 14h ago
 
 ---
 
@@ -189,14 +203,6 @@ MarketWatch • 18h ago
 Why I withdrew every dollar from Aave V3 this weekend, and what every USDT, USDC, and ETH lender should be watching before they decide to stay.
 
 thestreet.com • 1d ago
-
----
-
-**[Crypto News: Ethereum Based Crypto Pepeto Announces Investments Growth While Cardano Price Prediction Improves](https://markets.businessinsider.com/news/stocks/crypto-news-ethereum-based-crypto-pepeto-announces-investments-growth-while-cardano-price-prediction-improves-1036039381)**
-
-Dubai, UAE, April  20, 2026  (GLOBE NEWSWIRE) -- Crypto news on Pepeto is moving at a speed no presale has matched this year. Heavy buyers are flo...
-
-markets.businessinsider.com • 12h ago
 
 ---
 
@@ -212,15 +218,7 @@ Crypto investors have watched Ethereum (CRYPTO:ETH) trade in a narrow range near
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 19h ago
-
----
-
-**[Bitmine buys $234M in Ethereum, aims for 5% of total supply amid US-Iran tensions](https://cryptobriefing.com/bitmine-buys-234m-in-ethereum-aims-for-5-of-total-supply-amid-us-iran-tensions/)**
-
-Bitmine buys $234M in Ethereum, increasing its holdings to 4.12% of total supply. Ethereum above $1,800 on April 13 at 100% YES.
-
-Crypto Briefing • 1h ago
+Fortune • 20h ago
 
 ---
 
@@ -234,7 +232,7 @@ Welcome Back To The Channel! ✔️ https://tylerhill.pro/Fortisx42026 ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 4K • 👍 218 • 💬 43 • ⏱️ 10:29 • 15h ago
+👁️ 4K • 👍 218 • 💬 43 • ⏱️ 10:29 • 16h ago
 
 ---
 
@@ -244,7 +242,7 @@ The "Ethereum is Dead" narrative is back, and this time, the numbers actually lo
 
 📺 Discover Crypto
 
-👁️ 7K • 👍 394 • 💬 20 • ⏱️ 58:47 • 16h ago
+👁️ 7K • 👍 394 • 💬 20 • ⏱️ 58:47 • 18h ago
 
 ---
 
@@ -254,7 +252,7 @@ Its a video about bitcoin, ethereum, crypto in general. But its quite an unusual
 
 📺 Thomas Kralow
 
-👁️ 18K • 👍 2K • 💬 72 • ⏱️ 7:52 • 1d ago
+👁️ 18K • 👍 2K • 💬 72 • ⏱️ 7:52 • 2d ago
 
 ---
 
@@ -264,7 +262,7 @@ BITCOIN HOLDERS: It's Happening AGAIN (Prepare Now)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 5K • 👍 278 • 💬 45 • ⏱️ 22:14 • 10h ago
+👁️ 5K • 👍 278 • 💬 45 • ⏱️ 22:14 • 11h ago
 
 ---
 
@@ -294,7 +292,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 469 • 👍 21 • 💬 2 • ⏱️ 4:37 • 22h ago
+👁️ 469 • 👍 21 • 💬 2 • ⏱️ 4:37 • 1d ago
 
 ---
 
@@ -314,7 +312,7 @@ Ripple's XRPL DeFi is Built Safer & Smarter Than Ethereum's! Exposed by Biggest 
 
 📺 CryptoWendyO
 
-👁️ 2K • 👍 204 • 💬 10 • ⏱️ 3:15 • 11h ago
+👁️ 2K • 👍 204 • 💬 10 • ⏱️ 3:15 • 12h ago
 
 ---
 
@@ -324,7 +322,7 @@ Ripple's XRPL DeFi is Built Safer & Smarter Than Ethereum's! Exposed by Biggest 
 
 📺 Егор Попковский
 
-👁️ 2K • 👍 161 • 💬 44 • ⏱️ 8:16 • 17h ago
+👁️ 2K • 👍 161 • 💬 44 • ⏱️ 8:16 • 18h ago
 
 ---
 

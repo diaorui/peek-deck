@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-21T08:16:54.260629+00:00'
+updated: '2026-04-21T09:59:34.849730+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 21, 2026 at 08:16 UTC  
+**Last Updated:** April 21, 2026 at 09:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,13 @@ Robotics research and industry news
 
 **[Low-Latency Wireless Teleoperation of Robot Hand using an IMU Glove!](https://www.reddit.com/r/robotics/comments/1sre4d7/lowlatency_wireless_teleoperation_of_robot_hand/)**
 
-3h ago
+4h ago
+
+---
+
+**[A humanoid robot named Edward just chased a herd of wild boars out of Warsaw](https://www.reddit.com/r/robotics/comments/1srghex/a_humanoid_robot_named_edward_just_chased_a_herd/)**
+
+2h ago
 
 ---
 
@@ -42,13 +48,7 @@ Robotics research and industry news
 
 T.Yamazaki on 𝕏: https://x.com/ZappyZappy7/status/2046192595802656933 High Torque Robotics on YouTube: https://www.youtube.com/watch?v=aBe_ceuesEA
 
-19h ago
-
----
-
-**[A humanoid robot named Edward just chased a herd of wild boars out of Warsaw](https://www.reddit.com/r/robotics/comments/1srghex/a_humanoid_robot_named_edward_just_chased_a_herd/)**
-
-57m ago
+21h ago
 
 ---
 
@@ -56,7 +56,7 @@ T.Yamazaki on 𝕏: https://x.com/ZappyZappy7/status/2046192595802656933 High To
 
 Demonstration of real-time wireless teleoperation using a MANUS Metaglove to control the Ability Hand bionic hand. The glove provides high-precision finger tracking with full joint-level motion capture and low-latency wireless transmission, allowing the hand to mirror movements naturally in real time. The Ability Hand features 30 touch sensors, fast finger actuation (~0.2 s closing speed), and support for EMG-based control, highlighting potential applications in prosthetics, robotic teleoperation, XR interfaces, and remote manipulation
 
-15h ago
+16h ago
 
 ---
 
@@ -64,7 +64,7 @@ Demonstration of real-time wireless teleoperation using a MANUS Metaglove to con
 
 Erik Nieves from Plus One Robotics argues that the current wave of investment in robotics is ahead of the technology itself. The money is flowing in, expectations for returns are rising, but real-world systems still come down to reliability, uptime, and meeting production rates. That gap between what’s being promised and what’s actually deployable is starting to show. A lot of the attention right now is on humanoids and highly visible demos, but in production environments the bar hasn’t changed. Systems still need to run consistently, hit KPIs, and justify their cost.
 
-9h ago
+11h ago
 
 ---
 
@@ -72,13 +72,13 @@ Erik Nieves from Plus One Robotics argues that the current wave of investment in
 
 Repo: https://github.com/newton-physics/newton Been digging into this over the weekend. Quick rundown for anyone who hasn't seen it yet: Built on NVIDIA Warp, Apache 2.0, now governed by the Linux Foundation (vendor-neutral) MuJoCo Warp is integrated as a solver, plus Disney's Kamino solver for closed-loop mechanisms (parallel linkages, robotic hands) Reported 475x faster than MJX on manipulation tasks on RTX PRO 6000 Blackwell. Massive parallel throughput per GPU means more room for aggressive domain randomization, which is usually where sim-to-real actually breaks OpenUSD native. So assets from Omniverse and Isaac Lab can be dropped in directly. Embedded OpenGL viewer + USD viewer for debugging I know this isn't brand new, but wanted to share as I am genuinely excited about where physics engines are heading, especially with this kind of collaboration behind it.
 
-15h ago
+17h ago
 
 ---
 
 **[Robots I saw at MODEX 2026](https://www.reddit.com/r/robotics/comments/1sqspjf/robots_i_saw_at_modex_2026/)**
 
-16h ago
+18h ago
 
 ---
 
@@ -102,7 +102,7 @@ From 小互 on 𝕏: "Feels a bit like F1": https://x.com/xiaohu/status/20457868
 
 I am working on a project to do some machining with a robot arm. I have a ufactory lite6 and want to try and machine some Styrofoam or something similarly easy into a shape, and also possibly do 2D drawings with a different end effector. This is for hobby / art, so sub-millimeter accuracy isnt super important. The question is, what is the software setup? I have seen a lot of people say RoboDK - but I dont want to spend a bunch of money for it. Im assuming I am going to use STL->?->ROS2 MoveIt2, but how do I get the tooling paths? I use Blender/Autodesk Inventor for CAD/Sculpture if that helps. Im quite familiar with ROS2 as well, but dont know the end to end setup.
 
-15h ago
+16h ago
 
 ---
 
@@ -114,7 +114,7 @@ I am working on a project to do some machining with a robot arm. I have a ufacto
 
 Robots competed in a half marathon race in Beijing on Sunday, with the winning machine leaving its human rivals for dust.
 
-BBC • 1d ago
+BBC • 2d ago
 
 ---
 
@@ -122,7 +122,7 @@ BBC • 1d ago
 
 Maja Matarić’s newest robot aids with students’ mental health
 
-IEEE Spectrum • 13h ago
+IEEE Spectrum • 15h ago
 
 ---
 
@@ -130,7 +130,7 @@ IEEE Spectrum • 13h ago
 
 Futuristic commercial robots are being developed in a village where many once worked as coal miners.
 
-BBC • 3h ago
+BBC • 4h ago
 
 ---
 
@@ -138,31 +138,15 @@ BBC • 3h ago
 
 Chinese startups are churning out more humanoid robots than their U.S. rivals, despite far lower valuations.
 
-CNBC • 9h ago
+CNBC • 10h ago
 
 ---
 
-**[Tesla Q1 Preview: Losing The Robotics Race (NASDAQ:TSLA)](https://seekingalpha.com/article/4892164-tesla-q1-preview-losing-the-robotics-race)**
+**[Tesla Q1 Preview: Losing The Robotics Race](https://seekingalpha.com/article/4892164-tesla-q1-preview-losing-the-robotics-race)**
 
 Tesla, Inc. stock rated Hold: robotics narrative may be overhyped, Optimus lags rivals, valuation looks stretched. Click for this TSLA earnings preview.
 
-Seeking Alpha • 9h ago
-
----
-
-**[Cedarburg High School's Robotics team wins FIRST Wisconsin District Champions](https://www.tmj4.com/news/local-news/in-your-community/ozaukee-county/cedarburg-high-schools-robotics-team-wins-first-wisconsin-district-champions)**
-
-Cedarburg High School's Robotics team is the 2026 FIRST Wisconsin District Champions and will be moving on to represent Wisconsin at the World Championship in Houston, Texas, on April 29th.
-
-TMJ4 News • 14h ago
-
----
-
-**[Ukraine Moves to Replace Frontline Soldiers With 25,000 Ground Robots](https://united24media.com/latest-news/ukraine-moves-to-replace-frontline-soldiers-with-25000-ground-robots-18047)**
-
-Ukraine's Defense Ministry plans to contract 25,000 ground robots by mid-2026, aiming for 100% frontline logistics to be automated.
-
-UNITED24 Media • 1d ago
+Seeking Alpha • 11h ago
 
 ---
 
@@ -170,7 +154,7 @@ UNITED24 Media • 1d ago
 
 Cornell researchers used stretchable fiber-optic sensors to create a soft robot gripper that can predict the ripeness of strawberries by touch, then pick them without causing any damage.
 
-Cornell Chronicle • 17h ago
+Cornell Chronicle • 19h ago
 
 ---
 
@@ -182,9 +166,25 @@ Fortune • 1d ago
 
 ---
 
-**[VEX Robotics World Championship takes over St. Louis](https://fox2now.com/news/missouri/vex-robotics-world-championship-takes-over-st-louis/)**
+**[Ukraine Moves to Replace Frontline Soldiers With 25,000 Ground Robots](https://united24media.com/latest-news/ukraine-moves-to-replace-frontline-soldiers-with-25000-ground-robots-18047)**
 
-FOX 2 • 10h ago
+Ukraine's Defense Ministry plans to contract 25,000 ground robots by mid-2026, aiming for 100% frontline logistics to be automated.
+
+UNITED24 Media • 1d ago
+
+---
+
+**[High school sending two teams to robotics world championship](https://www.newsnationnow.com/us-news/southwest/high-school-sending-two-teams-to-robotics-world-championship/)**
+
+NewsNation • 18h ago
+
+---
+
+**[NVIDIA and QNX target safer robots and medical devices with edge AI](https://www.stocktitan.net/news/BB/qnx-and-nvidia-deepen-collaboration-to-advance-safety-critical-edge-2fpnzowdrzx3.html)**
+
+Using IGX Thor and Halos Safety Stack, the platform combines real-time control with AI, supporting safety certification. Early access is now open.
+
+Stock Titan • 1d ago
 
 ---
 
@@ -208,7 +208,7 @@ China's technological developments were on full display, and at full speed, in t
 
 📺 FRANCE 24 English
 
-👁️ 7K • 👍 82 • 💬 8 • ⏱️ 0:48 • 17h ago
+👁️ 7K • 👍 82 • 💬 8 • ⏱️ 0:48 • 18h ago
 
 ---
 

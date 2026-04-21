@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-21T08:16:54.251218+00:00'
+updated: '2026-04-21T09:59:34.840491+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - social
+- news
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 21, 2026 at 08:16 UTC  
+**Last Updated:** April 21, 2026 at 09:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $75,672.45
+### $76,874.10
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.4%  
-**7d:** +1.8%  
-**30d:** +7.4%  
-**90d:** -15.0%  
-**1y:** -18.5%  
+**24h:** +1.6%  
+**7d:** +2.1%  
+**30d:** +7.7%  
+**90d:** -14.7%  
+**1y:** -18.3%  
 
 ---
 
@@ -81,19 +81,19 @@ Rank #1
 
 A quote from Warren Buffett: A short quiz: If you plan to eat hamburgers throughout your life and are not a cattle producer, should you wish for higher or lower prices for beef? Likewise, if you are going to buy a car from time to time but are not an auto manufacturer, should you prefer higher or lower car prices? These questions, of course, answer themselves. But now for the final exam: If you expect to be a net saver during the next five years, should you hope for a higher or lower stock market during that period? Many investors get this one wrong. Even though they are going to be net buyers of stocks for many years to come, they are elated when stock prices rise and depressed when they fall. In effect, they rejoice because prices have risen for the ‘hamburgers’ they will soon be buying. This reaction makes no sense. Only those who will be sellers of equities in the near future should be happy at seeing stocks rise. Prospective purchasers should much prefer sinking prices. Assuming the majority of people on this sub are not near retirement, then you still plan to buy more BTC in the future than you currently have. You'll be able to buy more of it if the price is lower. So you should be cheering when it falls, and that is why the current "dip" is a blessing. This doesn't apply if you are planning to liquidate soon, of course. Then you should want the price to skyrocket. Source: https://www.roywalkerwealth.com/2018/01/warren-buffett-on-hamburgers.html
 
-8h ago
+10h ago
 
 ---
 
 **[Someone vandalized the Satoshi statue in Lugano again](https://www.reddit.com/r/Bitcoin/comments/1sr1i6u/someone_vandalized_the_satoshi_statue_in_lugano/)**
 
-12h ago
+13h ago
 
 ---
 
 **[Cooked to Perfection](https://www.reddit.com/r/Bitcoin/comments/1sr2pe5/cooked_to_perfection/)**
 
-11h ago
+13h ago
 
 ---
 
@@ -101,15 +101,7 @@ A quote from Warren Buffett: A short quiz: If you plan to eat hamburgers through
 
 A couple of years ago, I honestly thought Bitcoin was just hype I saw people making crazy gains, then losing everything just as fast. It felt like gambling more than investing. I even tried getting in once, but I sold too early because I couldn’t handle the volatility So I stepped away But recently, I started looking at it differently. Instead of thinking “how much can I make?”, I started asking “why does this even exist?” and “why are institutions slowly getting involved?” I’m still not all-in, and I’m definitely more cautious now. But I’ve stopped chasing quick gains and started treating it as something long-term Not sure if that’s the “right” approach, but it feels a lot less stressful than before Curious how others here went through their own mindset shifts Did anyone else go through a similar phase? Or am I just overthinking this?”
 
-5h ago
-
----
-
-**[Sheri Biggs South Carolina Senator Dropped 250K on iBit](https://www.reddit.com/r/Bitcoin/comments/1sr6sqx/sheri_biggs_south_carolina_senator_dropped_250k/)**
-
-Live U.S. House of Representatives stock trading disclosures, visualized as an animated pixel-art auction block.
-
-🔗 [Prixe](https://prixe.io/blog/us_politics#/politician/hon_sheri_biggs/2026_03_04/ishares_bitcoin_trust_etf) • 8h ago
+7h ago
 
 ---
 
@@ -117,23 +109,15 @@ Live U.S. House of Representatives stock trading disclosures, visualized as an a
 
 most people buying new things in 2026...
 
-4h ago
+6h ago
 
 ---
 
-**[No, Bitcoin has its own unique qualities; it is not just another financial speculative tool for Wall Street.](https://www.reddit.com/r/Bitcoin/comments/1srbgbk/no_bitcoin_has_its_own_unique_qualities_it_is_not/)**
+**[Sheri Biggs South Carolina Senator Dropped 250K on iBit](https://www.reddit.com/r/Bitcoin/comments/1sr6sqx/sheri_biggs_south_carolina_senator_dropped_250k/)**
 
-It is not just another financial speculative tool for Wall Street.
+Live U.S. House of Representatives stock trading disclosures, visualized as an animated pixel-art auction block.
 
-5h ago
-
----
-
-**[While newbies worry about geopolitics, Strategy acquired additional 34,164 BTC because of geopolitics, and now HODL 815,061 bitcoin](https://www.reddit.com/r/Bitcoin/comments/1sqq1eb/while_newbies_worry_about_geopolitics_strategy/)**
-
-Strategy has acquired 34,164 BTC for ~$2.54 billion at ~$74,395 per bitcoin and has achieved BTC Yield of 9.5% YTD 2026. As of 4/19/2026, we hodl 815,061 BTC acquired for ~$61.56 billion at ~$75,527 per bitcoin.
-
-🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-34164-btc-and-now-holds-815061-btc_04-20-2026) • 18h ago
+🔗 [Prixe](https://prixe.io/blog/us_politics#/politician/hon_sheri_biggs/2026_03_04/ishares_bitcoin_trust_etf) • 10h ago
 
 ---
 
@@ -141,15 +125,31 @@ Strategy has acquired 34,164 BTC for ~$2.54 billion at ~$74,395 per bitcoin and 
 
 Who gives a flip tuesday! stop buying shit you dont want to impress people you dont like! just chill out and let it be there, slowly keep stacking and buying, spare to live, sitback relax, learn self custody, learn nodes, learn passphrase, there's so much fun shit to do in live instead of impressing morons!
 
-50m ago
+2h ago
 
 ---
 
-**[Skeptic with 1.0 btc](https://www.reddit.com/r/Bitcoin/comments/1sr8hrh/skeptic_with_10_btc/)**
+**[No, Bitcoin has its own unique qualities; it is not just another financial speculative tool for Wall Street.](https://www.reddit.com/r/Bitcoin/comments/1srbgbk/no_bitcoin_has_its_own_unique_qualities_it_is_not/)**
 
-Call it FOMO, call it dreaming. I've been skeptical about btc's meteoric rise for a year+ (even as it lost 40% of its value). All the while making DCA buys. Finally acquired 1.0. This is slightly less riskiy than casino gambling to me. Jeez I hope you crazy kids are right.
+It is not just another financial speculative tool for Wall Street.
 
 7h ago
+
+---
+
+**[While newbies worry about geopolitics, Strategy acquired additional 34,164 BTC because of geopolitics, and now HODL 815,061 bitcoin](https://www.reddit.com/r/Bitcoin/comments/1sqq1eb/while_newbies_worry_about_geopolitics_strategy/)**
+
+Strategy has acquired 34,164 BTC for ~$2.54 billion at ~$74,395 per bitcoin and has achieved BTC Yield of 9.5% YTD 2026. As of 4/19/2026, we hodl 815,061 BTC acquired for ~$61.56 billion at ~$75,527 per bitcoin.
+
+🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-34164-btc-and-now-holds-815061-btc_04-20-2026) • 20h ago
+
+---
+
+**[Olympian’s frozen crypto payment adds to Poland’s growing political scandal](https://www.reddit.com/r/Bitcoin/comments/1src6bd/olympians_frozen_crypto_payment_adds_to_polands/)**
+
+A Polish speed skater who finished just outside the medals at the Milan–Cortina Winter Olympics says he is still waiting to access an award payment that was transferred to an account on cryptocurrency platform Zondacrypto, adding a personal dimension to a widening political and financial scandal in Poland. The company has faced complaints from users over delayed or frozen withdrawals and has said that a large amount of bitcoin remains locked in an inaccessible wallet. The case has spilled into national politics after Prime Minister Donald Tusk told parliament that the platform had links to Russian-linked funds and accused opposition politicians of benefiting from its financing, allegations that are now being examined by prosecutors and security agencies. Lawmakers on Friday again failed to override President Karol Nawrocki’s veto of a crypto‑asset market bill, leaving Poland’s implementation of EU MiCA rules blocked for now.
+
+🔗 [tvpworld.com](https://tvpworld.com/92802851/polish-olympian-awaits-payment-as-zondacrypto-scandal-hits-politics) • 6h ago
 
 ---
 
@@ -161,53 +161,37 @@ Call it FOMO, call it dreaming. I've been skeptical about btc's meteoric rise fo
 
 Crypto steadied despite rising Iran tensions, but DeFi is reeling from one of the largest exploits of the year.
 
-CoinDesk • 11h ago
+CoinDesk • 13h ago
 
 ---
 
-**[Where Will Bitcoin Be in 5 Years?](https://www.fool.com/investing/2026/04/19/where-will-bitcoin-be-in-5-years/)**
+**[Where Will Bitcoin Be in 5 Years?](https://finance.yahoo.com/markets/crypto/articles/where-bitcoin-5-years-103500589.html)**
 
 You may want to consider these 3 scenarios if you're thinking about buying Bitcoin today.
 
-The Motley Fool • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin Rally May Be A Trap As Whales Sell Into Strength](https://www.tradingview.com/news/newsbtc:ce0470644094b:0-bitcoin-rally-may-be-a-trap-as-whales-sell-into-strength/)**
+**[Bitcoin risks losing $70K as Strategy's STRC slips below $100](https://www.tradingview.com/news/cointelegraph:a4c89ca06094b:0-bitcoin-risks-losing-70k-as-strategy-s-strc-slips-below-100/)**
 
-Bitcoin’s rebound from the February 6 low at $60,000 is showing early signs of structural improvement, but the move still looks more like a bear market rally than a confirmed breakout, according to CryptoQuant analyst Maartun. In an April 20 video, the analyst argued that while long-term holders ar…
+Bitcoin BITSTAMP:BTCUSD rose 2.66% to around $75,800 on Monday after Strategy disclosed a $2.54 billion purchase, the company’s third biggest ever, and equivalent to about 2.5 months of new BTC supply.However, several indicators suggest the rally may fizzle out.Key takeaways:Strategy may halt BTC p…
 
-TradingView • 2h ago
-
----
-
-**[Bitcoin price news: What next as BTC reclaims $75,000](https://www.coindesk.com/markets/2026/04/21/bitcoin-reclaims-usd75-000-as-iran-ceasefire-talks-advance-equities-rally-resumes)**
-
-Bitcoin traded at $75,733 on Tuesday morning, up 1.5% over 24 hours, as Iran signaled it will send a team to Pakistan talks and Brent crude slipped ahead of the Wednesday ceasefire deadline.
-
-CoinDesk • 2h ago
+TradingView • 1h ago
 
 ---
 
-**[Strategy Buys $2.54 Billion of Bitcoin, Most Since Late 2024](https://finance.yahoo.com/news/strategy-buys-2-54-billion-141034963.html)**
+**[Bitcoin Price Rises Toward $76,000. Huge Strategy Purchase Fuels Crypto Gains.](https://www.barrons.com/articles/bitcoin-price-cryptos-strategy-purchase-043e606c)**
 
-(Bloomberg) -- Michael Saylor’s Strategy Inc. bought $2.54 billion in Bitcoin over the previous seven days, marking the digital asset treasury company’s largest acquisition of the original cryptocurrency since November 2024.Most Read from BloombergCruise Ships Seized Brief Hormuz Reopening to Flee Persian GulfTrump Aims to Seal Iran Deal, Says Truce Extension UnlikelyIran Hesitant on Talks Even as Trump Says Vance Is on WayThe Hot Hedge Fund Strategy Triggering a Pay Bonanza for TradersKuwait De
-
-Yahoo Finance • 18h ago
+Barron's • 1h ago
 
 ---
 
-**[Strategy Interest Costs Jump On Biggest Bitcoin Buy Since 2024](https://www.investors.com/news/mstr-stock-strategy-interest-costs-jump-bitcoin-price-biggest-buy-since-2024/)**
+**[Up 30% in 1 Month, Is Zcash a Better Buy Than Bitcoin?](https://www.fool.com/investing/2026/04/21/up-30-in-1-month-is-zcash-a-better-buy-than-bitcoi/)**
 
-Investor's Business Daily • 13h ago
+Zcash does things Bitcoin can't, but that isn't the whole story.
 
----
-
-**['Think even bigger': Michael Saylor's Strategy buys 34,164 bitcoin for $2.5 billion as total holdings top 800,000 BTC](https://www.theblock.co/post/398051/think-even-bigger-michael-saylors-strategy-buys-more-bitcoin)**
-
-Strategy's total holdings account for more than 3.8% of the 21 million bitcoin supply cap — worth around $61 billion.
-
-The Block • 20h ago
+The Motley Fool • 8m ago
 
 ---
 
@@ -215,21 +199,37 @@ The Block • 20h ago
 
 The enterprise software company and bitcoin treasury on Monday said that it bought more than $2.5 billion worth of the cryptocurrency recently.
 
-Investopedia • 12h ago
+Investopedia • 14h ago
 
 ---
 
-**[‘Massive’ U.S. Dollar Fed Warning Fuels Huge Bitcoin Price Predictions](https://www.forbes.com/sites/digital-assets/2026/04/20/buy-bitcoin-elon-musks-massive-us-dollar-warning-fuels-wild-crypto-price-predictions/)**
+**[Strategy Buys $2.54 Billion of Bitcoin, Most Since Late 2024](https://finance.yahoo.com/news/strategy-buys-2-54-billion-141034963.html)**
 
-Forbes • 14h ago
+(Bloomberg) -- Michael Saylor’s Strategy Inc. bought $2.54 billion in Bitcoin over the previous seven days, marking the digital asset treasury company’s largest acquisition of the original cryptocurrency since November 2024.Most Read from BloombergCruise Ships Seized Brief Hormuz Reopening to Flee Persian GulfTrump Aims to Seal Iran Deal, Says Truce Extension UnlikelyIran Hesitant on Talks Even as Trump Says Vance Is on WayThe Hot Hedge Fund Strategy Triggering a Pay Bonanza for TradersKuwait De
+
+Yahoo Finance • 19h ago
 
 ---
 
-**[Bitcoin Just Got A Seat At The Highest Levels Of U.S. Indo-Pacific Strategy — Meet The Man Making It Happen](https://bitcoinmagazine.com/politics/jason-lowery-appointed-special-assistant-to-u-s-indo-pacific-command-commander-bringing-bitcoin-strategic-expertise)**
+**[Strategy (MSTR) overtakes BlackRock's IBIT after aggressive bear market BTC buying](https://www.coindesk.com/markets/2026/04/21/strategy-overtakes-blackrock-ibit-in-bitcoin-holdings-after-bear-market-buying)**
 
-Jason Lowery, the ex-Space Force innovator behind the explosive “Softwar” theory that treats Bitcoin hashing power as the next gunpowder, just landed a dream advisory gig directly under the U.S. Indo-Pacific Command Commander — right as Iran floats accepting Bitcoin for Strait of Hormuz passage.
+Leveraged accumulation and new capital tools push MSTR ahead of the world’s largest spot bitcoin ETF.
 
-Bitcoin Magazine • 14h ago
+CoinDesk • 19m ago
+
+---
+
+**[Strategy Interest Costs Jump On Biggest Bitcoin Buy Since 2024](https://www.investors.com/news/mstr-stock-strategy-interest-costs-jump-bitcoin-price-biggest-buy-since-2024/)**
+
+Investor's Business Daily • 14h ago
+
+---
+
+**['Mission Accomplished'—BlackRock Suddenly Bets $871M On Bitcoin Dip](https://www.forbes.com/sites/digital-assets/2026/04/21/mission-accomplished-blackrock-suddenly-bets-871m-on-bitcoin-dip/)**
+
+BlackRock's IBIT absorbed $871 million last week even as Iran tensions dragged bitcoin toward $71,000. Analysts say the record flows show who is buying the dip.
+
+Forbes • 4h ago
 
 ---
 
@@ -241,7 +241,7 @@ Bitcoin Magazine • 14h ago
 
 The global economic system is evolving: The left wants to redistribute. The right wants to deregulate. Both are missing the point.
 
-⬆️ 4 • 💬 2 • 18h ago • [The Alignment Economy](https://alignmenteconomy.org)
+⬆️ 4 • 💬 2 • 19h ago • [The Alignment Economy](https://alignmenteconomy.org)
 
 ---
 
@@ -263,7 +263,7 @@ The Blockstream CEO’s approach contrasts with BIP-361, a proposal that would i
 
 Neha Narula
 
-⬆️ 3 • 💬 2 • 14h ago • [nehanarula.org](https://nehanarula.org/2026/04/20/bitcoin-and-quantum-a-roadmap.html)
+⬆️ 3 • 💬 2 • 16h ago • [nehanarula.org](https://nehanarula.org/2026/04/20/bitcoin-and-quantum-a-roadmap.html)
 
 ---
 
@@ -271,7 +271,7 @@ Neha Narula
 
 Part one explained the physics of quantum computing. This piece explains the target — how bitcoin's encryption works, why a quantum algorithm breaks it, and what Google's paper changed about the timeline.
 
-⬆️ 3 • 💬 1 • 23h ago • [coindesk.com](https://www.coindesk.com/tech/2026/04/18/how-a-quantum-computer-can-be-used-to-actually-steal-your-bitcoin-in-9-minutes)
+⬆️ 3 • 💬 1 • 1d ago • [coindesk.com](https://www.coindesk.com/tech/2026/04/18/how-a-quantum-computer-can-be-used-to-actually-steal-your-bitcoin-in-9-minutes)
 
 ---
 
@@ -285,7 +285,7 @@ C64 Bitcoin wallet. Contribute to geek197/c64wallet development by creating an a
 
 **[Digital Archaeology: where does Bitcoin's 21M come from?](https://news.ycombinator.com/item?id=47776334)**
 
-⬆️ 2 • 💬 2 • 5d ago • [bayinformationsystems.substack.com](https://bayinformationsystems.substack.com/p/digital-archaeology-bitcoins-21-million)
+⬆️ 2 • 💬 2 • 6d ago • [bayinformationsystems.substack.com](https://bayinformationsystems.substack.com/p/digital-archaeology-bitcoins-21-million)
 
 ---
 
@@ -301,7 +301,7 @@ TLDR;
 
 A deeply technical early Bitcoiner realized that self-custody is only as strong as its worst-case inheritance plan. He needed a system that could survive incapacity, family catastrophe, and coercion without sacrificing sovereignty. With Casa, he built a collaborative 3-of-5 family multisig vault, validated full open-source portability, structured labeled sub-accounts
 
-⬆️ 1 • 💬 0 • 5d ago • [Casa Blog](https://blog.casa.io/technically-fluent-bitcoiner-inheritance-story/)
+⬆️ 1 • 💬 0 • 6d ago • [Casa Blog](https://blog.casa.io/technically-fluent-bitcoiner-inheritance-story/)
 
 ---
 
@@ -323,7 +323,7 @@ Nick Valdez looks at the latest developments with the Strait of Hormuz and it's 
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 268 • 💬 48 • ⏱️ 6:30 • 10h ago
+👁️ 4K • 👍 268 • 💬 48 • ⏱️ 6:30 • 11h ago
 
 ---
 
@@ -363,7 +363,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRus Extra
 
-👁️ 3K • 👍 233 • 💬 45 • ⏱️ 8:28 • 8h ago
+👁️ 3K • 👍 233 • 💬 45 • ⏱️ 8:28 • 10h ago
 
 ---
 
@@ -383,7 +383,7 @@ Thank you for taking the time to watch. If you want to support these videos, you
 
 📺 Doctor of Pump & Dump
 
-👁️ 5K • 👍 489 • 💬 114 • ⏱️ 30:46 • 14h ago
+👁️ 5K • 👍 489 • 💬 114 • ⏱️ 30:46 • 15h ago
 
 ---
 
@@ -393,7 +393,7 @@ The risk models I use to track accumulation and distribution zones. Free trial h
 
 📺 Crypto Capital Venture
 
-👁️ 7K • 👍 473 • 💬 179 • ⏱️ 16:03 • 16h ago
+👁️ 7K • 👍 473 • 💬 179 • ⏱️ 16:03 • 18h ago
 
 ---
 
@@ -403,7 +403,7 @@ Crypto doesn't pay you to hold it. So here's how people are pulling income from 
 
 📺 Jake Claver
 
-👁️ 2K • 👍 100 • 💬 6 • ⏱️ 2:22 • 9h ago
+👁️ 2K • 👍 100 • 💬 6 • ⏱️ 2:22 • 10h ago
 
 ---
 
@@ -413,7 +413,7 @@ Crypto #Bitcoin #CryptoNews #Investing #yahoofinance Michael Saylor's “Bitcoin
 
 📺 Yahoo Finance
 
-👁️ 5K • 👍 37 • 💬 3 • ⏱️ 0:54 • 14h ago
+👁️ 5K • 👍 37 • 💬 3 • ⏱️ 0:54 • 15h ago
 
 ---
 
