@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-21T03:51:55.051524+00:00'
+updated: '2026-04-21T06:03:24.860146+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 21, 2026 at 03:51 UTC  
+**Last Updated:** April 21, 2026 at 06:03 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 T.Yamazaki on 𝕏: https://x.com/ZappyZappy7/status/2046192595802656933 High Torque Robotics on YouTube: https://www.youtube.com/watch?v=aBe_ceuesEA
 
-15h ago
+17h ago
 
 ---
 
@@ -44,7 +44,13 @@ T.Yamazaki on 𝕏: https://x.com/ZappyZappy7/status/2046192595802656933 High To
 
 Demonstration of real-time wireless teleoperation using a MANUS Metaglove to control the Ability Hand bionic hand. The glove provides high-precision finger tracking with full joint-level motion capture and low-latency wireless transmission, allowing the hand to mirror movements naturally in real time. The Ability Hand features 30 touch sensors, fast finger actuation (~0.2 s closing speed), and support for EMG-based control, highlighting potential applications in prosthetics, robotic teleoperation, XR interfaces, and remote manipulation
 
-10h ago
+12h ago
+
+---
+
+**[Low-Latency Wireless Teleoperation of Robot Hand using an IMU Glove!](https://www.reddit.com/r/robotics/comments/1sre4d7/lowlatency_wireless_teleoperation_of_robot_hand/)**
+
+54m ago
 
 ---
 
@@ -52,7 +58,7 @@ Demonstration of real-time wireless teleoperation using a MANUS Metaglove to con
 
 Repo: https://github.com/newton-physics/newton Been digging into this over the weekend. Quick rundown for anyone who hasn't seen it yet: Built on NVIDIA Warp, Apache 2.0, now governed by the Linux Foundation (vendor-neutral) MuJoCo Warp is integrated as a solver, plus Disney's Kamino solver for closed-loop mechanisms (parallel linkages, robotic hands) Reported 475x faster than MJX on manipulation tasks on RTX PRO 6000 Blackwell. Massive parallel throughput per GPU means more room for aggressive domain randomization, which is usually where sim-to-real actually breaks OpenUSD native. So assets from Omniverse and Isaac Lab can be dropped in directly. Embedded OpenGL viewer + USD viewer for debugging I know this isn't brand new, but wanted to share as I am genuinely excited about where physics engines are heading, especially with this kind of collaboration behind it.
 
-11h ago
+13h ago
 
 ---
 
@@ -60,7 +66,13 @@ Repo: https://github.com/newton-physics/newton Been digging into this over the w
 
 Erik Nieves from Plus One Robotics argues that the current wave of investment in robotics is ahead of the technology itself. The money is flowing in, expectations for returns are rising, but real-world systems still come down to reliability, uptime, and meeting production rates. That gap between what’s being promised and what’s actually deployable is starting to show. A lot of the attention right now is on humanoids and highly visible demos, but in production environments the bar hasn’t changed. Systems still need to run consistently, hit KPIs, and justify their cost.
 
-5h ago
+7h ago
+
+---
+
+**[Robots I saw at MODEX 2026](https://www.reddit.com/r/robotics/comments/1sqspjf/robots_i_saw_at_modex_2026/)**
+
+14h ago
 
 ---
 
@@ -72,12 +84,6 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2045896309765288179
 
 ---
 
-**[Robots I saw at MODEX 2026](https://www.reddit.com/r/robotics/comments/1sqspjf/robots_i_saw_at_modex_2026/)**
-
-12h ago
-
----
-
 **[Many of the finish times have been revised upward (by 10–15 seconds) – Maintenance and battery replacement like F1](https://www.reddit.com/r/robotics/comments/1spq0zh/many_of_the_finish_times_have_been_revised_upward/)**
 
 From 小互 on 𝕏: "Feels a bit like F1": https://x.com/xiaohu/status/2045786816213815411
@@ -86,27 +92,19 @@ From 小互 on 𝕏: "Feels a bit like F1": https://x.com/xiaohu/status/20457868
 
 ---
 
-**[Real time privacy SDK for robots](https://www.reddit.com/r/robotics/comments/1sr5b9p/real_time_privacy_sdk_for_robots/)**
-
-Hello community, We have worked on a product that has real time capabilities to mask out faces, documents and number plates from camera feeds of humanoid/autonomous robots. It is all configurable from a web interface, which we are making more user friendly and easy to understand. It runs on the edge on several hardware, it uses an optimized pipeline that gives good real time performance (even for teleoperation at reduced resolution) for acceptable accuracy figures. The purpose here is that it will allow robot vendors to collect data for improving their VLA models without being blocked by privacy concerns. We have been working for one year on this product after having done a consultancy on a project so we believe it has some good market potential. The website is live here: https://www.robomotic.com The ask: if you work for a robotic company, what features and performance you want to have from this kind of solution? Happy to discuss a demo with vendors please DM me. Thanks 🙏
-
-5h ago
-
----
-
-**[Kit questions](https://www.reddit.com/r/robotics/comments/1sr42xk/kit_questions/)**
-
-Hi, sorry I missed something obvious.. I'm looking for Mecha styles in hobbyist robotic kits, if they are available. I've been thru all the sites I could find, and most are great and like the Interbotix and similar type of projects, but wanted to ask the seasoned robot crowd if there are more specific Mecha type of builds? THX!
-
-6h ago
-
----
-
 **[Machining with a Robotic Arm](https://www.reddit.com/r/robotics/comments/1sqvkzl/machining_with_a_robotic_arm/)**
 
 I am working on a project to do some machining with a robot arm. I have a ufactory lite6 and want to try and machine some Styrofoam or something similarly easy into a shape, and also possibly do 2D drawings with a different end effector. This is for hobby / art, so sub-millimeter accuracy isnt super important. The question is, what is the software setup? I have seen a lot of people say RoboDK - but I dont want to spend a bunch of money for it. Im assuming I am going to use STL->?->ROS2 MoveIt2, but how do I get the tooling paths? I use Blender/Autodesk Inventor for CAD/Sculpture if that helps. Im quite familiar with ROS2 as well, but dont know the end to end setup.
 
-10h ago
+12h ago
+
+---
+
+**[Real time privacy SDK for robots](https://www.reddit.com/r/robotics/comments/1sr5b9p/real_time_privacy_sdk_for_robots/)**
+
+Hello community, We have worked on a product that has real time capabilities to mask out faces, documents and number plates from camera feeds of humanoid/autonomous robots. It is all configurable from a web interface, which we are making more user friendly and easy to understand. It runs on the edge on several hardware, it uses an optimized pipeline that gives good real time performance (even for teleoperation at reduced resolution) for acceptable accuracy figures. The purpose here is that it will allow robot vendors to collect data for improving their VLA models without being blocked by privacy concerns. We have been working for one year on this product after having done a consultancy on a project so we believe it has some good market potential. The website is live here: https://www.robomotic.com The ask: if you work for a robotic company, what features and performance you want to have from this kind of solution? Happy to discuss a demo with vendors please DM me. Thanks 🙏
+
+7h ago
 
 ---
 
@@ -114,9 +112,43 @@ I am working on a project to do some machining with a robot arm. I have a ufacto
 
 ## Google News: "robotics"
 
-**[Humanoid robots race past humans in Beijing half-marathon, showing rapid advances](https://www.reuters.com/sports/humanoid-robots-race-past-humans-beijing-half-marathon-showing-rapid-advances-2026-04-19/)**
+**[The USC Professor Who Pioneered Socially Assistive Robotics](https://spectrum.ieee.org/socially-assistive-robotics)**
 
-Reuters • 2d ago
+Maja Matarić’s newest robot aids with students’ mental health
+
+IEEE Spectrum • 11h ago
+
+---
+
+**[Watch: Runners v robots at China half marathon](https://www.bbc.com/news/videos/cz0e54yrppno)**
+
+Robots competed in a half marathon race in Beijing on Sunday, with the winning machine leaving its human rivals for dust.
+
+BBC • 1d ago
+
+---
+
+**[Will Destiny the humanoid robot take your job?](https://www.bbc.com/news/articles/cp9vk4vyyv1o)**
+
+Futuristic commercial robots are being developed in a village where many once worked as coal miners.
+
+BBC • 48m ago
+
+---
+
+**[CNBC's The China Connection newsletter: China ships more humanoid robots than the U.S. as investors diverge on AI bets](https://www.cnbc.com/2026/04/21/china-humanoid-robots-us-investors.html)**
+
+Chinese startups are churning out more humanoid robots than their U.S. rivals, despite far lower valuations.
+
+CNBC • 7h ago
+
+---
+
+**[Handle with care: Soft robot gripper picks ripe fruit without bruising](https://news.cornell.edu/stories/2026/04/handle-care-soft-robot-gripper-picks-ripe-fruit-without-bruising)**
+
+Cornell researchers used stretchable fiber-optic sensors to create a soft robot gripper that can predict the ripeness of strawberries by touch, then pick them without causing any damage.
+
+Cornell Chronicle • 15h ago
 
 ---
 
@@ -128,35 +160,15 @@ UNITED24 Media • 1d ago
 
 ---
 
-**[Fire breaks out in robotics and engineering classroom at Davis Senior High School](https://www.kcra.com/article/fire-davis-senior-high-school-monday/71077968)**
+**[High school sending two teams to robotics world championship](https://www.newsnationnow.com/us-news/southwest/high-school-sending-two-teams-to-robotics-world-championship/)**
 
-It was contained to the single classroom and did not spread. No injuries were reported.
-
-KCRA • 3h ago
+NewsNation • 14h ago
 
 ---
 
-**[CNBC's The China Connection newsletter: China ships more humanoid robots than the U.S. as investors diverge on AI bets](https://www.cnbc.com/2026/04/21/china-humanoid-robots-us-investors.html)**
+**[BlackBerry jumps amid expanded Nvidia partnership aimed at robotics (BB:NYSE)](https://seekingalpha.com/news/4576830-blackberry-jumps-amid-expanded-nvidia-partnership-aimed-at-robotics)**
 
-Chinese startups are churning out more humanoid robots than their U.S. rivals, despite far lower valuations.
-
-CNBC • 4h ago
-
----
-
-**[Handle with care: Soft robot gripper picks ripe fruit without bruising](https://news.cornell.edu/stories/2026/04/handle-care-soft-robot-gripper-picks-ripe-fruit-without-bruising)**
-
-Cornell researchers used stretchable fiber-optic sensors to create a soft robot gripper that can predict the ripeness of strawberries by touch, then pick them without causing any damage.
-
-Cornell Chronicle • 13h ago
-
----
-
-**[Humanoid robots race runners at Beijing half marathon](https://www.nbcnews.com/video/humanoid-robots-race-runners-at-beijing-half-marathon-261681221777)**
-
-Robots raced against humans in Beijing’s half marathon and the machines made huge strides. It marks the second time that robots have shared the course with humans. NBC News’ Janis Mackey Frayer reports on who crossed the finish line first.
-
-NBC News • 1d ago
+Seeking Alpha • 10h ago
 
 ---
 
@@ -164,27 +176,13 @@ NBC News • 1d ago
 
 Humanoid robots are being trained to carry out maintenance on China’s power grid. Developers say the machines could eventually handle repetitive and hazardous work.
 
-AP News • 20h ago
+AP News • 22h ago
 
 ---
 
-**[BlackBerry jumps amid expanded Nvidia partnership aimed at robotics (BB:NYSE)](https://seekingalpha.com/news/4576830-blackberry-jumps-amid-expanded-nvidia-partnership-aimed-at-robotics)**
+**[VEX Robotics World Championship takes over St. Louis](https://fox2now.com/news/missouri/vex-robotics-world-championship-takes-over-st-louis/)**
 
-Seeking Alpha • 8h ago
-
----
-
-**[High school sending two teams to robotics world championship](https://www.newsnationnow.com/us-news/southwest/high-school-sending-two-teams-to-robotics-world-championship/)**
-
-NewsNation • 12h ago
-
----
-
-**[Cedarburg High School's Robotics team wins FIRST Wisconsin District Champions](https://www.tmj4.com/news/local-news/in-your-community/ozaukee-county/cedarburg-high-schools-robotics-team-wins-first-wisconsin-district-champions)**
-
-Cedarburg High School's Robotics team is the 2026 FIRST Wisconsin District Champions and will be moving on to represent Wisconsin at the World Championship in Houston, Texas, on April 29th.
-
-TMJ4 News • 10h ago
+FOX 2 • 8h ago
 
 ---
 
@@ -198,7 +196,7 @@ China's technological developments were on full display, and at full speed, in t
 
 📺 FRANCE 24 English
 
-👁️ 5K • 👍 63 • 💬 7 • ⏱️ 0:48 • 12h ago
+👁️ 6K • 👍 77 • 💬 8 • ⏱️ 0:48 • 14h ago
 
 ---
 
@@ -212,16 +210,6 @@ China just revealed an autonomous robot war pack built from dog bots, drones, la
 
 ---
 
-**[Robots vs humans: Beijing half-marathon delivers stunning result](https://www.youtube.com/watch?v=1vUnusbzNMQ)**
-
-Humanoid robots have beaten human runners in a Beijing half-marathon, marking a breakthrough in China's rapidly advancing ...
-
-📺 Al Jazeera English
-
-👁️ 676K • 👍 5K • 💬 2K • ⏱️ 2:13 • 1d ago
-
----
-
 **[A humanoid robot is seen chasing a group of wild boars off the street](https://www.youtube.com/watch?v=yyCmTL-wC-w)**
 
 For more context and news coverage of the most important stories of our day, click here: https://www.nbcnews.com » Subscribe to ...
@@ -229,6 +217,16 @@ For more context and news coverage of the most important stories of our day, cli
 📺 NBC News
 
 👁️ 231K • 👍 4K • 💬 309 • ⏱️ 0:25 • 6d ago
+
+---
+
+**[The Future is Mass-Produced: Inside the Canton Fair Robotics Hall](https://www.youtube.com/watch?v=S0eEXTn3zX4)**
+
+You think robots are still sci-fi? Think again. I'm at the this year's Canton Fair to show you the reality of the Chinese automation ...
+
+📺 Eric Cracks China
+
+👁️ 101K • 👍 3K • 💬 159 • ⏱️ 1:54 • 3d ago
 
 ---
 
@@ -242,16 +240,6 @@ Physical Intelligence is building a foundation model that can control any robot 
 
 ---
 
-**[The Future is Mass-Produced: Inside the Canton Fair Robotics Hall](https://www.youtube.com/watch?v=S0eEXTn3zX4)**
-
-You think robots are still sci-fi? Think again. I'm at the this year's Canton Fair to show you the reality of the Chinese automation ...
-
-📺 Eric Cracks China
-
-👁️ 100K • 👍 3K • 💬 158 • ⏱️ 1:54 • 3d ago
-
----
-
 **[Robot in Poland scares off wild boars](https://www.youtube.com/watch?v=BmwTEOGb88k)**
 
 A humanoid robot named Edward Warchocki chased away a herd of wild boars in Warsaw, shouting "Go away!" in Polish as the ...
@@ -262,23 +250,23 @@ A humanoid robot named Edward Warchocki chased away a herd of wild boars in Wars
 
 ---
 
+**[Motor Packaging by 1768 Nashoba Robotics](https://www.youtube.com/watch?v=2pKQ_tA2rxA)**
+
+Behind the Bumpers full explanation: https://youtu.be/zxBvVSZtS3E @nashobarobotics Check out our robotics game and FUN ...
+
+📺 FUN Robotics Network
+
+👁️ 3K • 👍 60 • 💬 2 • ⏱️ 0:15 • 7h ago
+
+---
+
 **[Humanoid Robot Beats Human Record in Beijing](https://www.youtube.com/watch?v=XWmVqXpF84A)**
 
 Bloomberg's Minmin Low highlights a half marathon held in Beijing, where autonomous robots showcased significant ...
 
 📺 Bloomberg Television
 
-👁️ 33K • 👍 583 • 💬 165 • ⏱️ 5:51 • 22h ago
-
----
-
-**[New AI Robot From China Breaks Human Limits](https://www.youtube.com/watch?v=EJbJMg2RNgw)**
-
-AGIBOT just rolled out a full new wave of humanoid robots and AI models built for real deployment, while researchers in South ...
-
-📺 AI Revolution
-
-👁️ 4K • 👍 264 • 💬 12 • ⏱️ 16:29 • 3h ago
+👁️ 35K • 👍 608 • 💬 176 • ⏱️ 5:51 • 1d ago
 
 ---
 
@@ -288,7 +276,17 @@ A humanoid robot competing against flesh-and-blood runners broke the world recor
 
 📺 FRANCE 24 English
 
-👁️ 68K • 👍 564 • 💬 303 • ⏱️ 1:40 • 1d ago
+👁️ 69K • 👍 572 • 💬 304 • ⏱️ 1:40 • 1d ago
+
+---
+
+**[Humanoid Robot ‘Lightning’ Breaks World Record For A Half-marathon](https://www.youtube.com/watch?v=4i4EglunAag)**
+
+Robots have outpaced human runners at this year's Beijing half-marathon, finishing more than 10 minutes ahead of the top ...
+
+📺 New York Post
+
+👁️ 60K • 👍 605 • 💬 405 • ⏱️ 3:17 • 1d ago
 
 ---
 
