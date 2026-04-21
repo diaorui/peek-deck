@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-21T00:05:52.813215+00:00'
+updated: '2026-04-21T03:51:55.042414+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 21, 2026 at 00:05 UTC  
+**Last Updated:** April 21, 2026 at 03:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $76,128.95
+### $75,641.89
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.0%  
-**7d:** +2.2%  
-**30d:** +11.6%  
-**90d:** -15.5%  
-**1y:** -13.4%  
+**24h:** +1.4%  
+**7d:** +1.0%  
+**30d:** +6.6%  
+**90d:** -15.6%  
+**1y:** -19.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1522.77B
+**Market Cap:** $1514.26B
 Rank #1
 
-**Circulating Supply:** 20,018,637 BTC
+**Circulating Supply:** 20,018,687 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--39.6%
+-40.0%
 
 **All-Time Low:** $67.81
-+112132.7%
++111460.2%
 
 ---
 
@@ -79,7 +79,29 @@ Rank #1
 
 **[Someone vandalized the Satoshi statue in Lugano again](https://www.reddit.com/r/Bitcoin/comments/1sr1i6u/someone_vandalized_the_satoshi_statue_in_lugano/)**
 
-3h ago
+7h ago
+
+---
+
+**[Sheri Biggs South Carolina Senator Dropped 250K on iBit](https://www.reddit.com/r/Bitcoin/comments/1sr6sqx/sheri_biggs_south_carolina_senator_dropped_250k/)**
+
+Live U.S. House of Representatives stock trading disclosures, visualized as an animated pixel-art auction block.
+
+🔗 [Prixe](https://prixe.io/blog/us_politics#/politician/hon_sheri_biggs/2026_03_04/ishares_bitcoin_trust_etf) • 4h ago
+
+---
+
+**[Cooked to Perfection](https://www.reddit.com/r/Bitcoin/comments/1sr2pe5/cooked_to_perfection/)**
+
+6h ago
+
+---
+
+**[Most of you should not want Bitcoin to rise.](https://www.reddit.com/r/Bitcoin/comments/1sr6gvm/most_of_you_should_not_want_bitcoin_to_rise/)**
+
+A quote from Warren Buffett: A short quiz: If you plan to eat hamburgers throughout your life and are not a cattle producer, should you wish for higher or lower prices for beef? Likewise, if you are going to buy a car from time to time but are not an auto manufacturer, should you prefer higher or lower car prices? These questions, of course, answer themselves. But now for the final exam: If you expect to be a net saver during the next five years, should you hope for a higher or lower stock market during that period? Many investors get this one wrong. Even though they are going to be net buyers of stocks for many years to come, they are elated when stock prices rise and depressed when they fall. In effect, they rejoice because prices have risen for the ‘hamburgers’ they will soon be buying. This reaction makes no sense. Only those who will be sellers of equities in the near future should be happy at seeing stocks rise. Prospective purchasers should much prefer sinking prices. Assuming the majority of people on this sub are not near retirement, then you still plan to buy more BTC in the future than you currently have. You'll be able to buy more of it if the price is lower. So you should be cheering when it falls, and that is why the current "dip" is a blessing. This doesn't apply if you are planning to liquidate soon, of course. Then you should want the price to skyrocket. Source: https://www.roywalkerwealth.com/2018/01/warren-buffett-on-hamburgers.html
+
+4h ago
 
 ---
 
@@ -87,7 +109,15 @@ Rank #1
 
 Strategy has acquired 34,164 BTC for ~$2.54 billion at ~$74,395 per bitcoin and has achieved BTC Yield of 9.5% YTD 2026. As of 4/19/2026, we hodl 815,061 BTC acquired for ~$61.56 billion at ~$75,527 per bitcoin.
 
-🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-34164-btc-and-now-holds-815061-btc_04-20-2026) • 10h ago
+🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-34164-btc-and-now-holds-815061-btc_04-20-2026) • 13h ago
+
+---
+
+**[I almost quit Bitcoin… until I realized I was the problem](https://www.reddit.com/r/Bitcoin/comments/1srar1c/i_almost_quit_bitcoin_until_i_realized_i_was_the/)**
+
+A couple of years ago, I honestly thought Bitcoin was just hype I saw people making crazy gains, then losing everything just as fast. It felt like gambling more than investing. I even tried getting in once, but I sold too early because I couldn’t handle the volatility So I stepped away But recently, I started looking at it differently. Instead of thinking “how much can I make?”, I started asking “why does this even exist?” and “why are institutions slowly getting involved?” I’m still not all-in, and I’m definitely more cautious now. But I’ve stopped chasing quick gains and started treating it as something long-term Not sure if that’s the “right” approach, but it feels a lot less stressful than before Curious how others here went through their own mindset shifts Did anyone else go through a similar phase? Or am I just overthinking this?”
+
+1h ago
 
 ---
 
@@ -95,51 +125,7 @@ Strategy has acquired 34,164 BTC for ~$2.54 billion at ~$74,395 per bitcoin and 
 
 Morgan Stanley just pulled off its most successful ETF launch in the firm's history MSBT crossed $100M+ in net inflows in its first six trading days since going live on April 8th. Key Factors → It's the cheapest spot BTC ETF on the market. At 0.14%, MSBT undercuts BlackRock's IBIT (0.25%) and resets the fee benchmark for institutional Bitcoin exposure. → It's the first spot BTC ETF issued by a major US bank → Distribution is the real story here. Every financial advisor at Morgan Stanley is now armed with a cheap, in-house bitcoin wrapper to put in front of clients Bitcoin is being absorbed into the traditional financial system faster than most people realize
 
-8h ago
-
----
-
-**[Cooked to Perfection](https://www.reddit.com/r/Bitcoin/comments/1sr2pe5/cooked_to_perfection/)**
-
-3h ago
-
----
-
-**[Banks policy is no bit coin](https://www.reddit.com/r/Bitcoin/comments/1sr0eni/banks_policy_is_no_bit_coin/)**
-
-I use bitcoin for purchases in china a lot and generally they like bitcoin I've never been ripped off always received my goods never had any issues .Now suddenly my bank who initially where a nightmare and I had to justify what I was doing spending my own money buying bitcoin then left me alone once the first few transfers happened and I'd stated I wouldn't hold them responsible for any lose have just issued this new policy At The Co-operative Bank, we work hard to protect your money. Each year, criminals steal billions of pounds in fraud. And cryptocurrency scams are currently one of the most common types of fraud. What are cryptocurrency scams? There are many different scams involving cryptocurrency. A common scam involves fake investment platforms. These platforms can appear real. They often use familiar designs and features, like genuine investment platforms. But they're run by criminals who use them to steal money. Why are we making these changes? We’ve recently seen an increase in cryptocurrency scams. So, we’re changing our policy on cryptocurrency payments to help keep your money safe. We want to give you the choice to spend or invest your money how you wish, but we also have a duty to protect your money. We've made this decision with the best interests of all our customers in mind. What is changing? From 18 May 2026 we may block or refuse payments we identify as being made to cryptocurrency merchants. This may include payments to platforms that offer more than just cryptocurrency exchange, for example shares or savings accounts. This applies to payments made through: •online banking and mobile app •branches •our contact centre •your card. Your account terms and conditions will be updated and shared with you soon. We'll keep these measures under review and update you if things change. Where can I find more information? You can get fraud prevention advice at our online fraud hub. Read more about the Financial Conduct Authority's guidance on their website. If you have any questions or concerns you can contact us on Are all the banks going this way it's my money FFS
-
-4h ago
-
----
-
-**[Father passed away and left me his ledger.](https://www.reddit.com/r/Bitcoin/comments/1sqcctd/father_passed_away_and_left_me_his_ledger/)**
-
-Hey guys, father recently passed away and left me his ledger. I have full access to this and hold the seed phrase etc. I already have possession of everything and we are starting to go through probate. My understanding is because I have possession of the wallet and seed phrase, there is nothing left to do to “transfer” it to myself. He has no online accounts that hold bitcoin, it’s just the wallet. So my question: Is there anything linking his ownership to the bitcoin and the ledger that would mean solicitors need to get involved? Couldn’t exactly find a concrete answer for this and the executor of the will seems to think it works like a bank account which is tied to identity. From my understanding the only way you could tie his identity to the wallet is a purchase receipt at a stretch. Any help is much appreciated! I am based in Australia if that makes any difference. Thanks guys! Edit: He had in his original will (2020) that all bitcoin in his Swyftx account to go to me. He didn’t update that before he died but last year he transferred it all into the ledger and gave me all the details. My aunty (the executor) wants to put it all through properly so wants details on it for the solicitor. Solicitor doesnt seem to be up to date with how bitcoin works…
-
-21h ago
-
----
-
-**[BTC pushing $74.5k and shorts wiped out. What’s the play?](https://www.reddit.com/r/Bitcoin/comments/1sqmn6v/btc_pushing_745k_and_shorts_wiped_out_whats_the/)**
-
-Just saw the report that over $593M in bearish bets got liquidated following the news about Iran fully opening the Strait of Hormuz. Geopolitical tension in the Middle East has been heavily influenced on risk assets lately. Now that the macro situation is cooling down, the panic selling into cash seems to be pausing. This easing of macro fears, combined with that massive short squeeze, is giving BTC some real momentum. If we could have the $74k area into solid support, I'm leaning bullish for the short term. The path of least resistance feels like it's pointing up again. During the choppy weeks before this pump, I've been running future grid bots on BYDFi to trade the range. It's solid for choppy markets and the execution is fast. Plus, the bot's trading volume actually unlocked a few draws for their 6th-anniversary event. It felt like a bonus cuz I got some coupons to offset the fees. Where do you guys see BTC going for the rest of year? Do we still think the 4-year cycle will play out by the end of this year?
-
 12h ago
-
----
-
-**[What do you do for work that you can afford to buy all this BTC?](https://www.reddit.com/r/Bitcoin/comments/1sqonhz/what_do_you_do_for_work_that_you_can_afford_to/)**
-
-Just wondering how you guys are affording to do all this BTC investing.
-
-11h ago
-
----
-
-**[Are these good stats for an esp32-2432s028 CYD?(Nerdminer2)](https://www.reddit.com/r/Bitcoin/comments/1sqs729/are_these_good_stats_for_an_esp322432s028/)**
-
-8h ago
 
 ---
 
@@ -147,7 +133,23 @@ Just wondering how you guys are affording to do all this BTC investing.
 
 i’m 19 and a college student, and not really into the stock market/ anything to do with finances but i thought it would be interesting to do this. i was doing my research and then opened a Coinbase account and bought $10.25 in BTC, but i figured you guys could provide more insights/ tips for me, since im not sure what i can do with it. i know there’s a holding period tho. it would be greatly appreciated!!! have a nice day!!!
 
-2h ago
+6h ago
+
+---
+
+**[No, Bitcoin has its own unique qualities; it is not just another financial speculative tool for Wall Street.](https://www.reddit.com/r/Bitcoin/comments/1srbgbk/no_bitcoin_has_its_own_unique_qualities_it_is_not/)**
+
+It is not just another financial speculative tool for Wall Street.
+
+54m ago
+
+---
+
+**[Bitcoin maxis only: curious if this idea resonates or not…](https://www.reddit.com/r/Bitcoin/comments/1sr6t6a/bitcoin_maxis_only_curious_if_this_idea_resonates/)**
+
+I’ve been thinking about a problem and wanted to get some thoughts from people here who understand Bitcoin long term. A lot of people have most of their net worth tied up in their home, but accessing that value usually means either selling or taking on debt. That tradeoff has always felt off to me, especially for people who are very bullish on Bitcoin. I put together a rough concept around a different way this could potentially work. Reddit wouldn’t let me post it directly, so I added the breakdown in the comments. Not selling anything and not trying to pitch this as a real product, just genuinely curious if the idea itself makes sense or where it breaks. If anything is unclear feel free to ask and I can explain it better.
+
+4h ago
 
 ---
 
@@ -155,47 +157,37 @@ i’m 19 and a college student, and not really into the stock market/ anything t
 
 ## Google News: "bitcoin"
 
-**[Bitcoin jumps, crashes within minutes of Trump moves, and here is why it might happen again this week](https://www.coindesk.com/markets/2026/04/20/five-times-president-trump-made-a-statement-that-moved-bitcoin-and-why-it-might-happen-again-this-week)**
+**[Bitcoin bounces above $76,000 as DeFi suffers $14 billion exodus after KelpDAO hack](https://www.coindesk.com/markets/2026/04/20/bitcoin-bounces-above-usd76-000-as-defi-suffers-usd14-billion-exodus-after-kelpdao-hack)**
 
-Academics and lawmakers say repeated tariff reversals and announcements are blurring political and market lines.
+Crypto steadied despite rising Iran tensions, but DeFi is reeling from one of the largest exploits of the year.
 
-CoinDesk • 7h ago
+CoinDesk • 6h ago
 
 ---
 
-**[Where Will Bitcoin Be in 5 Years?](https://finance.yahoo.com/markets/crypto/articles/where-bitcoin-5-years-103500589.html)**
+**[Strategy Interest Costs Jump On Biggest Bitcoin Buy Since 2024](https://www.investors.com/news/mstr-stock-strategy-interest-costs-jump-bitcoin-price-biggest-buy-since-2024/)**
 
-You may want to consider these 3 scenarios if you're thinking about buying Bitcoin today.
+Investor's Business Daily • 8h ago
 
-Yahoo Finance • 1d ago
+---
+
+**[Michael Saylor has engineered 'an incredible machine' with bitcoin](https://finance.yahoo.com/video/michael-saylor-has-engineered-an-incredible-machine-with-bitcoin-165602725.html)**
+
+Strategy (MSTR) acquired $2.54 billion worth of bitcoin (BTC-USD) on Monday. Scott Melker ditches the phrase 'infinite money glitch' and explains how Michael Saylor is purchasing the asset and the machine he's created to do so in this episode of Yahoo Finance's new show, The Daily Wolf with Scott Melker.
+
+Yahoo Finance • 10h ago
 
 ---
 
 **[Strategy Buys $2.54 Billion of Bitcoin, Most Since November 2024](https://www.bloomberg.com/news/articles/2026-04-20/strategy-buys-2-54-billion-of-bitcoin-most-since-november-2024)**
 
-Bloomberg.com • 9h ago
-
----
-
-**['Think even bigger': Michael Saylor's Strategy buys 34,164 bitcoin for $2.5 billion as total holdings top 800,000 BTC](https://www.theblock.co/post/398051/think-even-bigger-michael-saylors-strategy-buys-more-bitcoin)**
-
-Strategy's total holdings account for more than 3.8% of the 21 million bitcoin supply cap — worth around $61 billion.
-
-The Block • 11h ago
-
----
-
-**[Michael Saylor's bitcoin strategy, explained by Scott Melker](https://finance.yahoo.com/video/michael-saylors-bitcoin-strategy-explained-by-scott-melker-162911657.html)**
-
-Scott Melker, the host of "The Wolf of All Streets" podcast, discusses Michael Saylor's (MSTR) "infinite money glitch" and this week's latest crypto headlines, including Charles Schwab's (SCHW) capitulation and Pakistan's steps forward with crypto and banking. "The Daily Wolf with Scott Melker" airs on Yahoo Finance every day at 12:00 p.m. ET. Tune in for your daily dose of all things crypto. Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
-
-Yahoo Finance • 7h ago
+Bloomberg.com • 13h ago
 
 ---
 
 **[‘Massive’ U.S. Dollar Fed Warning Fuels Huge Bitcoin Price Predictions](https://www.forbes.com/sites/digital-assets/2026/04/20/buy-bitcoin-elon-musks-massive-us-dollar-warning-fuels-wild-crypto-price-predictions/)**
 
-Forbes • 6h ago
+Forbes • 10h ago
 
 ---
 
@@ -203,29 +195,39 @@ Forbes • 6h ago
 
 Jason Lowery, the ex-Space Force innovator behind the explosive “Softwar” theory that treats Bitcoin hashing power as the next gunpowder, just landed a dream advisory gig directly under the U.S. Indo-Pacific Command Commander — right as Iran floats accepting Bitcoin for Strait of Hormuz passage.
 
-Bitcoin Magazine • 6h ago
+Bitcoin Magazine • 10h ago
 
 ---
 
-**[Bitcoin ‘driven by its own rules,’ BlackRock US head of equity ETFs says](https://www.foxbusiness.com/video/6393505246112)**
+**[Coinbase expands USDC borrowing to UK, allowing loans against bitcoin, ether](https://www.theblock.co/post/398056/coinbase-expands-usdc-borrowing-to-uk-allowing-loans-against-bitcoin-ether)**
 
-BlackRock U.S. head of equity ETFs Jay Jacobs discusses market volatility amid tensions with Iran and makes the case for bitcoin as a portfolio diversifier on ‘The Claman Countdown.’
+Coinbase's facility allows UK users to borrow up to $5 million in USDC against bitcoin, ether, and cbETH via Morpho on Base.
 
-Fox Business • 3h ago
-
----
-
-**[Bitcoin adoption rebounds in U.S., but consumers still favor gold and stocks](https://www.investing.com/news/cryptocurrency-news/bitcoin-adoption-rebounds-in-us-but-consumers-still-favor-gold-and-stocks-4622480)**
-
-Investing.com • 15h ago
+The Block • 17h ago
 
 ---
 
-**[Bitcoin holds 'fragile equilibrium' near $75K as ETF demand cushions crypto market despite Hormuz tensions: analysts](https://www.theblock.co/post/398082/bitcoin-holds-fragile-equilibrium-near-75k-as-etf-demand-cushions-crypto-market-despite-hormuz-tensions-analysts)**
+**[Bitcoin's Price Outlook: Bitcoin Shrugs Off Sluggishness And Targets Recent Highs. Is $80000 A Possibility?](https://seekingalpha.com/article/4892191-bitcoin-price-outlook-bitcoin-shrugs-off-sluggishness-targets-recent-highs-is-80000-possibility)**
 
-Nearly $1 billion in spot bitcoin ETF inflows and rising stablecoin liquidity suggest institutional demand is still stemming pullbacks.
+Bitcoin has reclaimed the $76,000 handle and maintains a firmly bullish technical structure.
 
-The Block • 11h ago
+Seeking Alpha • 2h ago
+
+---
+
+**[Bitcoin and ethereum price today, Monday, April 20, 2026: Prices rising this morning despite U.S.-Iranian tensions](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-monday-april-20-2026-prices-rising-this-morning-despite-us-iranian-tensions-115955954.html)**
+
+Bitcoin opened at $73,820.11 on Monday, 2.5% lower than Sunday's opening price of $75,723.69. Yet, as of 7:35 a.m. ET, the price of bitcoin rallied to $75,242.12. Ethereum opened at $2,263.49 on Monday. The price of ethereum rose after the open to $2,307.37 as of 7:35 a.m. ET.
+
+Yahoo Finance • 15h ago
+
+---
+
+**[Bitcoin Price Retakes $76,500 As Iran Tensions And Oil Volatility Drive Market Uncertainty](https://bitcoinmagazine.com/markets/bitcoin-price-retakes-76500-as-iran-tensions-and-oil-volatility-drive-market-uncertainty)**
+
+Bitcoin price held above $76,500 after slipping toward $75,000 over the weekend as US–Iran tensions and oil concerns weighed on markets.
+
+Bitcoin Magazine • 7h ago
 
 ---
 
@@ -237,7 +239,7 @@ The Block • 11h ago
 
 The global economic system is evolving: The left wants to redistribute. The right wants to deregulate. Both are missing the point.
 
-⬆️ 4 • 💬 1 • 9h ago • [The Alignment Economy](https://alignmenteconomy.org)
+⬆️ 4 • 💬 1 • 13h ago • [The Alignment Economy](https://alignmenteconomy.org)
 
 ---
 
@@ -259,7 +261,7 @@ The Blockstream CEO’s approach contrasts with BIP-361, a proposal that would i
 
 Neha Narula
 
-⬆️ 3 • 💬 2 • 6h ago • [nehanarula.org](https://nehanarula.org/2026/04/20/bitcoin-and-quantum-a-roadmap.html)
+⬆️ 3 • 💬 2 • 10h ago • [nehanarula.org](https://nehanarula.org/2026/04/20/bitcoin-and-quantum-a-roadmap.html)
 
 ---
 
@@ -267,7 +269,7 @@ Neha Narula
 
 Part one explained the physics of quantum computing. This piece explains the target — how bitcoin's encryption works, why a quantum algorithm breaks it, and what Google's paper changed about the timeline.
 
-⬆️ 3 • 💬 1 • 15h ago • [coindesk.com](https://www.coindesk.com/tech/2026/04/18/how-a-quantum-computer-can-be-used-to-actually-steal-your-bitcoin-in-9-minutes)
+⬆️ 3 • 💬 1 • 19h ago • [coindesk.com](https://www.coindesk.com/tech/2026/04/18/how-a-quantum-computer-can-be-used-to-actually-steal-your-bitcoin-in-9-minutes)
 
 ---
 
@@ -287,7 +289,7 @@ C64 Bitcoin wallet. Contribute to geek197/c64wallet development by creating an a
 
 **[How the Bitcoin protocol works (2013)](https://news.ycombinator.com/item?id=47787017)**
 
-⬆️ 2 • 💬 0 • 4d ago • [michaelnielsen.org](https://michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/)
+⬆️ 2 • 💬 0 • 5d ago • [michaelnielsen.org](https://michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/)
 
 ---
 
@@ -317,27 +319,17 @@ Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=Al
 
 📺 Altcoin Daily
 
-👁️ 41K • 👍 2K • 💬 165 • ⏱️ 8:27 • 1d ago
+👁️ 44K • 👍 2K • 💬 168 • ⏱️ 8:27 • 1d ago
 
 ---
 
-**[This Data Says Bitcoin Is About To Explode | Are You Ready?](https://www.youtube.com/watch?v=c3t4CHROkg8)**
+**[Bitcoin Will Go Insane This Week](https://www.youtube.com/watch?v=fjilzBF_IhQ)**
 
-Big money is quietly moving into Bitcoin and the signals are getting louder. From politicians stacking BTC to Wall Street stepping ...
+Nick Valdez looks at the latest developments with the Strait of Hormuz and it's effects on BTCUSD. If you zoom into 2024, you will ...
 
-📺 Simply Bitcoin
+📺 Discover Crypto
 
-👁️ 28K • 👍 2K • 💬 139 • ⏱️ 12:00 • 1d ago
-
----
-
-**[a bitcoin update you shouldn&#39;t miss](https://www.youtube.com/watch?v=AgL7lVi-qwI)**
-
-Join The Community: https://bit.ly/FefeCommunity FOLLOW FEFE FOR THE BEST ALPHA ...
-
-📺 100XClub
-
-👁️ 9K • 👍 1K • 💬 781 • ⏱️ 8:42 • 13h ago
+👁️ 2K • 👍 217 • 💬 45 • ⏱️ 6:30 • 5h ago
 
 ---
 
@@ -347,17 +339,7 @@ IT'S RIGGED! Buckle Up' Bitcoin & Crypto Holders ⭐ Follow Altcoin Daily on X: 
 
 📺 Altcoin Daily
 
-👁️ 46K • 👍 2K • 💬 155 • ⏱️ 11:59 • 2d ago
-
----
-
-**[Bitcoin Rallies to the Bear Market Resistance Band](https://www.youtube.com/watch?v=tZ05ZUlaO8w)**
-
-Bitcoin has rallied back into a key technical area, the Bear Market Resistance Band, formed by the 20-week SMA and 21-week ...
-
-📺 Benjamin Cowen
-
-👁️ 69K • 👍 5K • 💬 150 • ⏱️ 11:41 • 19h ago
+👁️ 47K • 👍 2K • 💬 159 • ⏱️ 11:59 • 2d ago
 
 ---
 
@@ -367,47 +349,67 @@ Crypto #Bitcoin #CryptoNews #Investing #yahoofinance Michael Saylor's “Bitcoin
 
 📺 Yahoo Finance
 
-👁️ 2K • 👍 23 • ⏱️ 0:54 • 5h ago
+👁️ 4K • 👍 33 • 💬 1 • ⏱️ 0:54 • 9h ago
 
 ---
 
-**[A New Signal Has Just Triggered on Bitcoin (here&#39;s what it means)](https://www.youtube.com/watch?v=RSnjchNdE5M)**
+**[Bitcoin Rallies to the Bear Market Resistance Band](https://www.youtube.com/watch?v=tZ05ZUlaO8w)**
 
-A new and powerful signal has just triggered on the chart of bitcoin, according to analyst Manuel Blay. Could this signal mean that ...
+Bitcoin has rallied back into a key technical area, the Bear Market Resistance Band, formed by the 20-week SMA and 21-week ...
 
-📺 Alessio Rastani
+📺 Benjamin Cowen
 
-👁️ 39K • 👍 2K • 💬 488 • ⏱️ 13:09 • 1d ago
-
----
-
-**[Coinbase Executive Reveals The Truth About Bitcoin&#39;s Price Action | John D&#39;Agostino](https://www.youtube.com/watch?v=qaVdUzdqPPw)**
-
-Bitcoin #Crypto #Finance "Nothing has structurally changed since Bitcoin hit all-time highs — the spring is coiled to the upside.
-
-📺 The Wolf Of All Streets
-
-👁️ 14K • 👍 687 • 💬 244 • ⏱️ 56:27 • 1d ago
+👁️ 79K • 👍 5K • 💬 166 • ⏱️ 11:41 • 22h ago
 
 ---
 
-**[They Bought 34,000 Bitcoin! Bear Market Over Soon?! Bitcoin Price Prediction 2026](https://www.youtube.com/watch?v=lSMKR4oA1xU)**
+**[This Data Says Bitcoin Is About To Explode | Are You Ready?](https://www.youtube.com/watch?v=c3t4CHROkg8)**
 
-Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro max, and thousands of dollars of other bonuses!
+Big money is quietly moving into Bitcoin and the signals are getting louder. From politicians stacking BTC to Wall Street stepping ...
 
-📺 Crypto Jebb
+📺 Simply Bitcoin
 
-👁️ 3K • 👍 216 • 💬 8 • ⏱️ 48:28 • 8h ago
+👁️ 29K • 👍 2K • 💬 139 • ⏱️ 12:00 • 1d ago
 
 ---
 
-**[$5M Bitcoin Now - There’s No Supply Left](https://www.youtube.com/watch?v=QcRGmERGdEI)**
+**[a bitcoin update you shouldn&#39;t miss](https://www.youtube.com/watch?v=AgL7lVi-qwI)**
 
-Subscribe before the supply shock goes mainstream. There are no sellers left at these levels. Watch the full uncensored ...
+Join The Community: https://bit.ly/FefeCommunity FOLLOW FEFE FOR THE BEST ALPHA ...
 
-📺 Bitcoin News Alerts
+📺 100XClub
 
-👁️ 4K • 👍 236 • 💬 195 • ⏱️ 20:29 • 1d ago
+👁️ 9K • 👍 1K • 💬 821 • ⏱️ 8:42 • 17h ago
+
+---
+
+**[Bitcoin Meltdown Coming- The Final Leg of the BTC CRASH,  the CRASH to Kick Off the Bear Market](https://www.youtube.com/watch?v=jpz91Sv2ars)**
+
+Thank you for taking the time to watch. If you want to support these videos, you can do so by following this link. Tips and Donations ...
+
+📺 Doctor of Pump & Dump
+
+👁️ 5K • 👍 456 • 💬 98 • ⏱️ 30:46 • 9h ago
+
+---
+
+**[Bitcoin at $76k: I Don&#39;t Buy the Rally](https://www.youtube.com/watch?v=BOBivPnHkkg)**
+
+Save the date for November 3-5, 2026 at Murrieta Hot Springs Resort and get your ticket early https://brianharrington.org/events-yt ...
+
+📺 Brian Harrington
+
+👁️ 1K • 👍 58 • 💬 23 • ⏱️ 13:42 • 8h ago
+
+---
+
+**[How Close Is Quantum to Breaking Bitcoin? Adam Back Answers](https://www.youtube.com/watch?v=6-9ajt832Ds)**
+
+In this interview, Adam Back breaks down the real timeline for quantum computers and their potential impact on Bitcoin. Are we ...
+
+📺 Cointelegraph
+
+👁️ 912 • 👍 6 • ⏱️ 0:40 • 7h ago
 
 ---
 
