@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-20T23:09:40.406890+00:00'
+updated: '2026-04-21T00:05:52.821240+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 20, 2026 at 23:09 UTC  
+**Last Updated:** April 21, 2026 at 00:05 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 T.Yamazaki on 𝕏: https://x.com/ZappyZappy7/status/2046192595802656933 High Torque Robotics on YouTube: https://www.youtube.com/watch?v=aBe_ceuesEA
 
-10h ago
+11h ago
 
 ---
 
@@ -52,7 +52,7 @@ Demonstration of real-time wireless teleoperation using a MANUS Metaglove to con
 
 Repo: https://github.com/newton-physics/newton Been digging into this over the weekend. Quick rundown for anyone who hasn't seen it yet: Built on NVIDIA Warp, Apache 2.0, now governed by the Linux Foundation (vendor-neutral) MuJoCo Warp is integrated as a solver, plus Disney's Kamino solver for closed-loop mechanisms (parallel linkages, robotic hands) Reported 475x faster than MJX on manipulation tasks on RTX PRO 6000 Blackwell. Massive parallel throughput per GPU means more room for aggressive domain randomization, which is usually where sim-to-real actually breaks OpenUSD native. So assets from Omniverse and Isaac Lab can be dropped in directly. Embedded OpenGL viewer + USD viewer for debugging I know this isn't brand new, but wanted to share as I am genuinely excited about where physics engines are heading, especially with this kind of collaboration behind it.
 
-6h ago
+7h ago
 
 ---
 
@@ -60,13 +60,13 @@ Repo: https://github.com/newton-physics/newton Been digging into this over the w
 
 From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2045896309765288179
 
-20h ago
+21h ago
 
 ---
 
 **[Robots I saw at MODEX 2026](https://www.reddit.com/r/robotics/comments/1sqspjf/robots_i_saw_at_modex_2026/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -74,7 +74,7 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2045896309765288179
 
 Erik Nieves from Plus One Robotics argues that the current wave of investment in robotics is ahead of the technology itself. The money is flowing in, expectations for returns are rising, but real-world systems still come down to reliability, uptime, and meeting production rates. That gap between what’s being promised and what’s actually deployable is starting to show. A lot of the attention right now is on humanoids and highly visible demos, but in production environments the bar hasn’t changed. Systems still need to run consistently, hit KPIs, and justify their cost.
 
-47m ago
+1h ago
 
 ---
 
@@ -90,7 +90,7 @@ From 小互 on 𝕏: "Feels a bit like F1": https://x.com/xiaohu/status/20457868
 
 Hello community, We have worked on a product that has real time capabilities to mask out faces, documents and number plates from camera feeds of humanoid/autonomous robots. It is all configurable from a web interface, which we are making more user friendly and easy to understand. It runs on the edge on several hardware, it uses an optimized pipeline that gives good real time performance (even for teleoperation at reduced resolution) for acceptable accuracy figures. The purpose here is that it will allow robot vendors to collect data for improving their VLA models without being blocked by privacy concerns. We have been working for one year on this product after having done a consultancy on a project so we believe it has some good market potential. The website is live here: https://www.robomotic.com The ask: if you work for a robotic company, what features and performance you want to have from this kind of solution? Happy to discuss a demo with vendors please DM me. Thanks 🙏
 
-36m ago
+1h ago
 
 ---
 
@@ -98,7 +98,7 @@ Hello community, We have worked on a product that has real time capabilities to 
 
 Hi, sorry I missed something obvious.. I'm looking for Mecha styles in hobbyist robotic kits, if they are available. I've been thru all the sites I could find, and most are great and like the Interbotix and similar type of projects, but wanted to ask the seasoned robot crowd if there are more specific Mecha type of builds? THX!
 
-1h ago
+2h ago
 
 ---
 
@@ -124,7 +124,7 @@ Reuters • 1d ago
 
 Chinese startups are churning out more humanoid robots than their U.S. rivals, despite far lower valuations.
 
-CNBC • 8m ago
+CNBC • 1h ago
 
 ---
 
@@ -132,7 +132,7 @@ CNBC • 8m ago
 
 A recent demo shows Boston Dynamics Spot in a residential home, using Google’s visual-language model (VLM) Gemini Robotics-ER 1.5 for embodied reasoning.
 
-Boston Dynamics • 5h ago
+Boston Dynamics • 6h ago
 
 ---
 
@@ -140,7 +140,7 @@ Boston Dynamics • 5h ago
 
 The RBR50 gala at the 2026 Robotics Summit & Expo offers a chance to honor and connect with the world’s leading robotics innovators.
 
-The Robot Report • 6h ago
+The Robot Report • 7h ago
 
 ---
 
@@ -148,19 +148,19 @@ The Robot Report • 6h ago
 
 Tesla, Inc. stock rated Hold: robotics narrative may be overhyped, Optimus lags rivals, valuation looks stretched. Click for this TSLA earnings preview.
 
-Seeking Alpha • 46m ago
+Seeking Alpha • 1h ago
 
 ---
 
 **[VEX Robotics World Championship takes over St. Louis](https://fox2now.com/news/missouri/vex-robotics-world-championship-takes-over-st-louis/)**
 
-FOX 2 • 1h ago
+FOX 2 • 2h ago
 
 ---
 
 **[Alabama Considers Robotics to Augment Rural Obstetrics Care](https://dailyyonder.com/alabama-considers-robotics-to-augment-rural-obstetrics-care/2026/04/20/)**
 
-The Daily Yonder • 15h ago
+The Daily Yonder • 16h ago
 
 ---
 
@@ -168,7 +168,7 @@ The Daily Yonder • 15h ago
 
 Out of 184 varsity robotics teams across Minnesota, only 36 earn a spot in the Minnesota State High School League state tournament.
 
-Brainerd Dispatch • 1h ago
+Brainerd Dispatch • 2h ago
 
 ---
 
@@ -176,7 +176,7 @@ Brainerd Dispatch • 1h ago
 
 April 20, 2026 Submitted By Hingham High Robotics Congratulations to the Hingham High Robotics Team 5000, The Hammerheads, who qualified for the FIRST World Championship tournament for the first time in team history. The team will head to Houston TX on April 29th for a four day tournament featuring 600 international teams. During the competition ... Read more
 
-Hingham Anchor • 3h ago
+Hingham Anchor • 4h ago
 
 ---
 
@@ -184,7 +184,7 @@ Hingham Anchor • 3h ago
 
 Miso Robotics CEO Rich Hull on 'Flippy' and 'Zippy' boosting kitchen operations
 
-qz.com • 3h ago
+qz.com • 4h ago
 
 ---
 
@@ -248,7 +248,7 @@ Bloomberg's Minmin Low highlights a half marathon held in Beijing, where autonom
 
 📺 Bloomberg Television
 
-👁️ 28K • 👍 529 • 💬 149 • ⏱️ 5:51 • 17h ago
+👁️ 28K • 👍 529 • 💬 149 • ⏱️ 5:51 • 18h ago
 
 ---
 

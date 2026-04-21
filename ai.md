@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-20T23:09:40.389493+00:00'
+updated: '2026-04-21T00:05:52.805644+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
-- social
+- news
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 20, 2026 at 23:09 UTC  
+**Last Updated:** April 21, 2026 at 00:05 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I'm a developer by profession, and I've used AI to generate stuff that I know how to do myself and also stuff I have no idea about. Coding for my day to day using AI, I know exactly what to do and how to do it so i end up making features way faster than before. But every time I try to generate something that i have no deep understanding about - like content for a blog or demo videos (remotion + 11labs), or newsletters or social media posts, I always end up making something sloppy (AI slop). AI is here to stay, and instead of replacing people it might end up making people more valuable than before. I think it's high time to double down on fundamentals and make ourselves more knowledgeable and valuable.
 
-2h ago
+3h ago
 
 ---
 
@@ -49,7 +49,7 @@ I'm a developer by profession, and I've used AI to generate stuff that I know ho
 
 A new study from UCLA, MIT, Oxford, and Carnegie Mellon gave 1,222 people AI assistants for cognitive tasks — then pulled the plug midway through. The results: - After ~10 minutes of AI-assisted problem solving, people who lost access to AI performed **worse** than those who never had it - They didn't just get more wrong answers — they **stopped trying altogether** - The effect showed up across math AND reading comprehension - Ran 3 separate experiments (350 → 670 → full cohort). Same result every time. The researchers call it the "boiling frog" effect — each AI interaction feels costless, but your cognitive muscles are quietly atrophying. The UCLA co-author warns this could create "a generation of learners who will not know what they're capable of." Study hasn't been peer-reviewed yet, but the sample size is solid and it's the first causal (not correlational) evidence of AI-induced cognitive decline. The uncomfortable question: if 10 minutes is enough to measurably damage independent performance, what does months of daily use do? Full breakdown → https://synvoya.com/blog/2026-04-20-ai-boiling-frog-cognition-study/ Be honest — have you noticed yourself giving up faster on problems since you started using AI daily? https://preview.redd.it/xm3dil38e9wg1.jpg?width=2752&format=pjpg&auto=webp&s=4cec0fb89dbc1c8bfa303e06ec9622bb48bfc9ae
 
-20h ago
+21h ago
 
 ---
 
@@ -65,7 +65,7 @@ Why on earth would you pay $49/mo for a polished Saas product when you can spend
 
 "Some report forgoing healthcare visits because of AI-generated advice. Fourteen percent of recent users say the AI information or advice they received led them to skip a provider visit in the past 30 days. When projected to the entire adult population, this represents an estimated 14 million U.S. adults who did not see a provider because of the AI-generated health information or advice they received."
 
-7h ago
+8h ago
 
 ---
 
@@ -81,7 +81,7 @@ The company has won major Pentagon contracts, including work on Project Maven, a
 
 Hey everyone, I just sent the 28th issue of AI Hacker Newsletter, a weekly roundup of the best AI links and the discussions around it. Here are some links included in this email: Write less code, be more responsible (orhun.dev) -- comments The Future of Everything Is Lies, I Guess: New Jobs (aphyr.com) -- comments The AI Layoff Trap (arxiv.org) -- comments The Future of Everything Is Lies, I Guess: Safety (aphyr.com) -- comments European AI. A playbook to own it (mistral.ai) - comments If you want to receive a weekly email with over 40 links like these, please subscribe here: https://hackernewsai.com/
 
-6h ago
+7h ago
 
 ---
 
@@ -89,7 +89,7 @@ Hey everyone, I just sent the 28th issue of AI Hacker Newsletter, a weekly round
 
 Discomfort with the technology&rsquo;s long-term effects is overshadowed by fears of falling behind.
 
-🔗 [The University of Chicago Booth School of Business](https://www.chicagobooth.edu/review/parents-worry-about-their-kids-using-ai-worry-more-about-them-not-using-it) • 5h ago
+🔗 [The University of Chicago Booth School of Business](https://www.chicagobooth.edu/review/parents-worry-about-their-kids-using-ai-worry-more-about-them-not-using-it) • 6h ago
 
 ---
 
@@ -97,7 +97,7 @@ Discomfort with the technology&rsquo;s long-term effects is overshadowed by fear
 
 Redb is one of the open-source, embed-friendly key-value databases written in the Rust programming language
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Redb-4.1-Released) • 5h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Redb-4.1-Released) • 6h ago
 
 ---
 
@@ -105,7 +105,7 @@ Redb is one of the open-source, embed-friendly key-value databases written in th
 
 I got booted from ChatGPT on all my devices, and now I'm just getting hit with error messages whenever I try to log back into my account
 
-8h ago
+9h ago
 
 ---
 
@@ -125,7 +125,7 @@ Some experts argue that AI was just used as an excuse for poor business decision
 
 Amazon is boosting its investment in Anthropic, which is committing to spending over $100 billion on Amazon cloud services over the next decade.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
@@ -133,13 +133,13 @@ CNBC • 2h ago
 
 Anthropic to secure up to 5 gigawatts (GW) of current and future generations of Amazon’s Trainium chips to train and power their advanced AI models.
 
-About Amazon • 2h ago
+About Amazon • 3h ago
 
 ---
 
 **[Amazon Deepens Ties, Investment in AI Start-Up Anthropic](https://www.barrons.com/articles/amazon-deepens-ties-investment-anthropic-3f4fd443)**
 
-Barron's • 1h ago
+Barron's • 2h ago
 
 ---
 
@@ -147,7 +147,7 @@ Barron's • 1h ago
 
 As large language models take over more and more cognitive tasks, researchers are warning this mental outsourcing comes with a cost.
 
-BBC • 13h ago
+BBC • 14h ago
 
 ---
 
@@ -155,7 +155,7 @@ BBC • 13h ago
 
 Apple's new boss-to-be's future may already be set — by decisions current CEO Tim Cook has made about AI.
 
-Business Insider • 13m ago
+Business Insider • 1h ago
 
 ---
 
@@ -163,7 +163,7 @@ Business Insider • 13m ago
 
 Hundreds of billions in corporate spending are flowing into data centers, not payrolls, breaking a decades-old link between investment and hiring
 
-qz.com • 36m ago
+qz.com • 1h ago
 
 ---
 
@@ -171,19 +171,19 @@ qz.com • 36m ago
 
 "Personal finance and investing is personal for a reason, and A.I. is pretty generic," said University of St. Thomas' Dr. Manjeet Rege.
 
-CBS News • 32m ago
+CBS News • 1h ago
 
 ---
 
 **[Marc Benioff Says the Software Bears Are All Wrong About Salesforce](https://www.wsj.com/tech/ai/marc-benioff-says-the-software-bears-are-all-wrong-about-salesforce-c7042852)**
 
-WSJ • 21h ago
+WSJ • 22h ago
 
 ---
 
 **[This AI power company ousted its CEO. Why that could help it sign up its first customer.](https://www.marketwatch.com/story/this-ai-power-company-ousted-its-ceo-why-that-could-help-it-sign-up-its-first-customer-2236c0ab)**
 
-MarketWatch • 7h ago
+MarketWatch • 8h ago
 
 ---
 
@@ -191,7 +191,7 @@ MarketWatch • 7h ago
 
 Fermi touts "acceleration in customer conversations" since the leadership changes.
 
-Fortune • 1h ago
+Fortune • 2h ago
 
 ---
 
@@ -207,7 +207,7 @@ Fortune • 1h ago
 
 **[Atlassian enables default data collection to train AI](https://news.ycombinator.com/item?id=47833247)**
 
-⬆️ 460 • 💬 110 • 10h ago • [letsdatascience.com](https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8)
+⬆️ 460 • 💬 110 • 11h ago • [letsdatascience.com](https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8)
 
 ---
 
@@ -223,7 +223,7 @@ Police lured the man to a meeting and arrested him after accessing a private Wha
 
 People are sick of artificial intelligence, and are increasingly making it known through acts of resistance.
 
-⬆️ 273 • 💬 262 • 2h ago • [stephvee.ca](https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/)
+⬆️ 273 • 💬 262 • 3h ago • [stephvee.ca](https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/)
 
 ---
 
@@ -231,7 +231,7 @@ People are sick of artificial intelligence, and are increasingly making it known
 
 Deezer says consumption of AI-generated music on the platform is still very low, between 1-3% of the total streams, and that 85% of these streams are detected as fraudulent and are demonetized.
 
-⬆️ 258 • 💬 253 • 7h ago • [TechCrunch](https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/)
+⬆️ 258 • 💬 253 • 8h ago • [TechCrunch](https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/)
 
 ---
 
@@ -267,7 +267,7 @@ In the 1980s, economist Robert Solow made an observation that reminded economist
 
 **[A Pascal's Wager for AI doomers](https://news.ycombinator.com/item?id=47832887)**
 
-⬆️ 55 • 💬 89 • 11h ago • [pluralistic.net](https://pluralistic.net/2026/04/16/pascals-wager/)
+⬆️ 55 • 💬 89 • 12h ago • [pluralistic.net](https://pluralistic.net/2026/04/16/pascals-wager/)
 
 ---
 
@@ -281,7 +281,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 11K • 👍 532 • 💬 58 • ⏱️ 5:52 • 8h ago
+👁️ 11K • 👍 532 • 💬 58 • ⏱️ 5:52 • 9h ago
 
 ---
 
@@ -311,7 +311,7 @@ Find out more about CodeCrafters - https://app.codecrafters.io/join?via=club-awe
 
 📺 Awesome
 
-👁️ 47K • 👍 3K • 💬 217 • ⏱️ 8:48 • 14h ago
+👁️ 47K • 👍 3K • 💬 217 • ⏱️ 8:48 • 15h ago
 
 ---
 
@@ -321,7 +321,7 @@ Best AI Agent Tool is Base44 https://base44.pxf.io/c/6440076/3820726/25619?trafc
 
 📺 Mikey No Code
 
-👁️ 12K • 💬 7 • ⏱️ 30:05 • 8h ago
+👁️ 12K • 💬 7 • ⏱️ 30:05 • 9h ago
 
 ---
 
@@ -331,7 +331,7 @@ in this video, we break down the rumored GPT-5.5 “pro” model from OpenAI and
 
 📺 WorldofAI
 
-👁️ 35K • 👍 680 • 💬 93 • ⏱️ 10:27 • 16h ago
+👁️ 35K • 👍 680 • 💬 93 • ⏱️ 10:27 • 17h ago
 
 ---
 
@@ -341,7 +341,7 @@ My Full Free Program: https://link.aidropshippingbuilder.com/1uXkCj Tools I Pers
 
 📺 Nathan Nazareth
 
-👁️ 2K • 👍 201 • 💬 8 • ⏱️ 13:37 • 7h ago
+👁️ 2K • 👍 201 • 💬 8 • ⏱️ 13:37 • 8h ago
 
 ---
 
@@ -411,7 +411,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with vision capabilitie
 
 `image-text-to-text` `34.7B`
 
-⬇️ 816,485 • ❤️ 557 • 10h ago
+⬇️ 816,485 • ❤️ 557 • 11h ago
 
 ---
 
@@ -459,7 +459,7 @@ Kimi K2.6 is a 1T parameter multimodal agentic model excelling in long-horizon c
 
 `image-text-to-text` `1058.6B`
 
-⬇️ 423 • ❤️ 339 • 6h ago
+⬇️ 423 • ❤️ 339 • 7h ago
 
 ---
 
@@ -483,7 +483,7 @@ MiniMax-M2.7 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 314,205 • ❤️ 1,001 • 18h ago
+⬇️ 314,205 • ❤️ 1,001 • 19h ago
 
 ---
 
@@ -641,7 +641,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 48.5k • 🔱 6.3k • 4h ago
+⭐ 48.5k • 🔱 6.3k • 5h ago
 
 ---
 
@@ -671,7 +671,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 31.3k • 🔱 3.5k • 4h ago
+⭐ 31.3k • 🔱 3.5k • 5h ago
 
 ---
 
@@ -681,7 +681,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 8.3k • 🔱 538 • 7h ago
+⭐ 8.3k • 🔱 538 • 8h ago
 
 ---
 
@@ -721,7 +721,7 @@ The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interac
 
 `Swift` `apple-intelligence` `apple-silicon` `cli` `foundationmodels` `homebrew`
 
-⭐ 4.8k • 🔱 184 • 12h ago
+⭐ 4.8k • 🔱 184 • 13h ago
 
 ---
 

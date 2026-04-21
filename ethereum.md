@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-20T23:09:40.403768+00:00'
+updated: '2026-04-21T00:05:52.818464+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - news
 - cryptocurrency
 - social
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 20, 2026 at 23:09 UTC  
+**Last Updated:** April 21, 2026 at 00:05 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 39.0 million ETH is now staked, exactly 32.02% of the total supply. It's over $90B worth of ETH at current prices, that’s a huge share of the network committed to securing it and one of the strongest signals of long-term participation we’ve seen so far. As we see, despite ongoing global uncertainty and volatile market conditions, staking activity continues to grow. Instead of pulling back, more ETH is being locked into the network. That suggests a certain level of confidence from participants who are thinking long-term rather than reacting to short-term noise. From a structural perspective, this also affects supply dynamics. As more ETH moves into staking, the liquid supply available on the market decreases. It doesn’t mean those coins are gone, but they are less likely to be actively traded. Over time, this can change how the market responds to demand. At the same time, staking plays a critical role beyond price, it strengthens network security and aligns incentives across participants. Of course, none of this guarantees immediate price movement. Markets are influenced by many factors. But it does highlight how Ethereum’s underlying fundamentals continue to evolve. Full post: https://x.com/everstake_pool/status/2046178353548308981
 
-7h ago
+8h ago
 
 ---
 
@@ -80,13 +80,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-18h ago
+19h ago
 
 ---
 
 **[84% of Polymarket users are trading at a loss.](https://www.reddit.com/r/ethereum/comments/1sqa9xi/84_of_polymarket_users_are_trading_at_a_loss/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -158,7 +158,7 @@ Yahoo Finance • 3d ago
 
 BitMine Immersion Technologies (NYSE: $BMNR) bought $230 million U.S. of Ethereum (CRYPTO: $ETH) over the past week...
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -182,7 +182,7 @@ thestreet.com • 1d ago
 
 The quantum divide between Bitcoin and EthereumQuantum computing has long been viewed as a distant, largely theoretical threat to blockchain systems. However, that perspective is now starting to change.With major technology companies such as Google establishing timelines for post-quantum cryptograp…
 
-TradingView • 17h ago
+TradingView • 18h ago
 
 ---
 
@@ -190,19 +190,19 @@ TradingView • 17h ago
 
 Dubai, UAE, April  20, 2026  (GLOBE NEWSWIRE) -- Crypto news on Pepeto is moving at a speed no presale has matched this year. Heavy buyers are flo...
 
-markets.businessinsider.com • 3h ago
+markets.businessinsider.com • 4h ago
 
 ---
 
 **[Most large cryptocurrencies rise on Ethereum, Avalanche increases](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-rise-on-ethereum-avalanche-increases-da482e07-f13b7e1250e1)**
 
-MarketWatch • 9h ago
+MarketWatch • 10h ago
 
 ---
 
 **[Ethereum whale opens $100mln long – Why traders still short ETH](https://ambcrypto.com/ethereum-whale-opens-100mln-long-why-traders-still-short-eth/)**
 
-AMBCrypto • 12h ago
+AMBCrypto • 13h ago
 
 ---
 
@@ -218,7 +218,7 @@ Coinpedia • 2d ago
 
 Bitcoin is holding above $75,000 as crypto markets hope for a positive resolution of U.S.-Iran talks on Tuesday.
 
-Benzinga • 3h ago
+Benzinga • 4h ago
 
 ---
 
@@ -242,7 +242,7 @@ BITCOIN HOLDERS: It's Happening AGAIN (Prepare Now)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 148 • 👍 21 • 💬 4 • ⏱️ 22:14 • 1h ago
+👁️ 148 • 👍 21 • 💬 4 • ⏱️ 22:14 • 2h ago
 
 ---
 
@@ -262,7 +262,7 @@ The "Ethereum is Dead" narrative is back, and this time, the numbers actually lo
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 365 • 💬 18 • ⏱️ 58:47 • 7h ago
+👁️ 6K • 👍 365 • 💬 18 • ⏱️ 58:47 • 8h ago
 
 ---
 
@@ -272,7 +272,7 @@ Ripple's XRPL DeFi is Built Safer & Smarter Than Ethereum's! Exposed by Biggest 
 
 📺 CryptoWendyO
 
-👁️ 424 • 👍 89 • 💬 8 • ⏱️ 3:15 • 2h ago
+👁️ 424 • 👍 89 • 💬 8 • ⏱️ 3:15 • 3h ago
 
 ---
 
@@ -282,7 +282,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 341 • 👍 19 • 💬 2 • ⏱️ 4:37 • 13h ago
+👁️ 341 • 👍 19 • 💬 2 • ⏱️ 4:37 • 14h ago
 
 ---
 
@@ -302,7 +302,7 @@ Registrate en Bitget (20% de descuento en comisiones EN SPOT Y FUTUROS DE POR VI
 
 📺 CdeCripto
 
-👁️ 1K • 👍 266 • 💬 24 • ⏱️ 28:01 • 3h ago
+👁️ 1K • 👍 266 • 💬 24 • ⏱️ 28:01 • 4h ago
 
 ---
 
@@ -312,7 +312,7 @@ Registrate en Bitget (20% de descuento en comisiones EN SPOT Y FUTUROS DE POR VI
 
 📺 Егор Попковский
 
-👁️ 2K • 👍 141 • 💬 44 • ⏱️ 8:16 • 7h ago
+👁️ 2K • 👍 141 • 💬 44 • ⏱️ 8:16 • 8h ago
 
 ---
 
@@ -322,7 +322,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 1K • 👍 212 • 💬 7 • ⏱️ 17:32 • 8h ago
+👁️ 1K • 👍 212 • 💬 7 • ⏱️ 17:32 • 9h ago
 
 ---
 
