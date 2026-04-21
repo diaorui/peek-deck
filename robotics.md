@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-21T17:34:40.150584+00:00'
+updated: '2026-04-21T19:14:15.851875+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 21, 2026 at 17:34 UTC  
+**Last Updated:** April 21, 2026 at 19:14 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2045783119702425841
 
-7h ago
+8h ago
 
 ---
 
@@ -44,21 +44,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2045783119702425841
 
 CNBC dropped a piece today worth reading. Chinese startups took the top 6 spots in global humanoid shipments in 2025. Figure and Tesla were the only US companies in the top 10. Figure is sitting at a $39B valuation having shipped around 150 units. Unitree ships thousands at $13k a piece. The "China builds the hardware, US builds the brain" take keeps coming up and I don't think it holds anymore. Chinese companies are competing on the AI model side too and closing the gap. On top of that, their EV supply chains already produce the actuators and precision components humanoids need, so they're repurposing existing manufacturing while US companies are building that from scratch. That's where the price gap comes from, not some difference in ambition. The other argument I keep seeing is that the shipped robots only do simple tasks, as if that invalidates the whole thing. Every deployed unit generates real world data that no amount of simulation or staged demos can match. You have to start shipping somewhere. The robots improve while being used, not while sitting in a lab waiting to be perfect.
 
-3h ago
-
----
-
-**[I build Four-legged robot by Carbon Fiber sheet frame mix with 3D-printable frame](https://www.reddit.com/r/robotics/comments/1srltxt/i_build_fourlegged_robot_by_carbon_fiber_sheet/)**
-
-Hello everyone! I've successfully completed my Hobby RC four-legged robot model. The goal was to create a 3D-printable frame using carbon fiber and aluminum, capable of carrying a Raspberry Pi. It's now complete and running well. I'm happy to share this achievement with anyone passionate about Robotics Hobbies, and STEM. Thanks for watching
-
 5h ago
-
----
-
-**[A humanoid robot named Edward just chased a herd of wild boars out of Warsaw](https://www.reddit.com/r/robotics/comments/1srghex/a_humanoid_robot_named_edward_just_chased_a_herd/)**
-
-10h ago
 
 ---
 
@@ -66,21 +52,27 @@ Hello everyone! I've successfully completed my Hobby RC four-legged robot model.
 
 built a utility where you drop in a urdf (the robot's blueprint) and it generates a full leader for it. cad to print, motor placements, control code, all of it. kinematics stay identical just scaled down, so teleop works out of the box. motor placement is mostly solved with heuristics. routing links between them is still the hard part. https://x.com/pbshgthm/status/2046566239422853363 planning to make it lerobot compatible, so this can be used as a leader arm when printed out for any embodiment would love to know thoughts
 
-1h ago
+2h ago
+
+---
+
+**[I build Four-legged robot by Carbon Fiber sheet frame mix with 3D-printable frame](https://www.reddit.com/r/robotics/comments/1srltxt/i_build_fourlegged_robot_by_carbon_fiber_sheet/)**
+
+Hello everyone! I've successfully completed my Hobby RC four-legged robot model. The goal was to create a 3D-printable frame using carbon fiber and aluminum, capable of carrying a Raspberry Pi. It's now complete and running well. I'm happy to share this achievement with anyone passionate about Robotics Hobbies, and STEM. Thanks for watching
+
+7h ago
+
+---
+
+**[A humanoid robot named Edward just chased a herd of wild boars out of Warsaw](https://www.reddit.com/r/robotics/comments/1srghex/a_humanoid_robot_named_edward_just_chased_a_herd/)**
+
+11h ago
 
 ---
 
 **[Low-Latency Wireless Teleoperation of Robot Hand using an IMU Glove!](https://www.reddit.com/r/robotics/comments/1sre4d7/lowlatency_wireless_teleoperation_of_robot_hand/)**
 
-12h ago
-
----
-
-**[If you were building for the AI and Robotics Real-World Challenge, would you choose a humanoid or a quadruped + arm?](https://www.reddit.com/r/robotics/comments/1srt1rj/if_you_were_building_for_the_ai_and_robotics/)**
-
-I was looking through ATEC 2026 earlier, and the part that stuck with me most was the platform choice. What makes it interesting to me is that it seems less about a clean single demo and more about sustained outdoor autonomy — moving through rough terrain, handling objects, and staying reliable over a longer run. If you actually had to build for something like that, what would you pick? My first instinct is that a humanoid is attractive in theory, but I’m not sure it’s the best tradeoff once outdoor reliability becomes a real constraint. A quadruped with an arm, or maybe a wheeled-legged hybrid, feels more practical to me — but maybe I’m underestimating how much the extra dexterity matters. Curious what people here think is the best balance between: • mobility on ugly terrain • manipulation capability • control complexity • and just surviving real-world use
-
-58m ago
+14h ago
 
 ---
 
@@ -89,6 +81,14 @@ I was looking through ATEC 2026 earlier, and the part that stuck with me most wa
 T.Yamazaki on 𝕏: https://x.com/ZappyZappy7/status/2046192595802656933 High Torque Robotics on YouTube: https://www.youtube.com/watch?v=aBe_ceuesEA
 
 1d ago
+
+---
+
+**[If you were building for the AI and Robotics Real-World Challenge, would you choose a humanoid or a quadruped + arm?](https://www.reddit.com/r/robotics/comments/1srt1rj/if_you_were_building_for_the_ai_and_robotics/)**
+
+I was looking through ATEC 2026 earlier, and the part that stuck with me most was the platform choice. What makes it interesting to me is that it seems less about a clean single demo and more about sustained outdoor autonomy — moving through rough terrain, handling objects, and staying reliable over a longer run. If you actually had to build for something like that, what would you pick? My first instinct is that a humanoid is attractive in theory, but I’m not sure it’s the best tradeoff once outdoor reliability becomes a real constraint. A quadruped with an arm, or maybe a wheeled-legged hybrid, feels more practical to me — but maybe I’m underestimating how much the extra dexterity matters. Curious what people here think is the best balance between: • mobility on ugly terrain • manipulation capability • control complexity • and just surviving real-world use
+
+2h ago
 
 ---
 
@@ -104,7 +104,7 @@ Demonstration of real-time wireless teleoperation using a MANUS Metaglove to con
 
 Erik Nieves from Plus One Robotics argues that the current wave of investment in robotics is ahead of the technology itself. The money is flowing in, expectations for returns are rising, but real-world systems still come down to reliability, uptime, and meeting production rates. That gap between what’s being promised and what’s actually deployable is starting to show. A lot of the attention right now is on humanoids and highly visible demos, but in production environments the bar hasn’t changed. Systems still need to run consistently, hit KPIs, and justify their cost.
 
-19h ago
+20h ago
 
 ---
 
@@ -114,7 +114,7 @@ Erik Nieves from Plus One Robotics argues that the current wave of investment in
 
 **[Humanoid robots race past humans in Beijing half-marathon, showing rapid advances](https://www.reuters.com/sports/humanoid-robots-race-past-humans-beijing-half-marathon-showing-rapid-advances-2026-04-19/)**
 
-Reuters • 1d ago
+Reuters • 2d ago
 
 ---
 
@@ -122,23 +122,37 @@ Reuters • 1d ago
 
 Maja Matarić’s newest robot aids with students’ mental health
 
-IEEE Spectrum • 22h ago
+IEEE Spectrum • 1d ago
 
 ---
 
-**[The New Unicorn Count Reached A 4-Year High In March, Led By Robotics, Frontier Labs And AI Infrastructure](https://news.crunchbase.com/venture/unicorn-count-4-year-high-robotics-ai-march-2026/)**
+**[Arsenal Tech robotics team making history at World Championship](https://www.axios.com/local/indianapolis/2026/04/21/arsenal-tech-robotics-team-making-history-at-world-championship)**
 
-A total of 37 companies joined The Crunchbase Unicorn Board in March, the highest monthly count in close to four years, Crunchbase data shows. The robotics sector led unicorn creation last month, with six new billion-dollar startups.
-
-Crunchbase News • 6h ago
+Axios • 8h ago
 
 ---
 
-**[Tesla Q1 Preview: Losing The Robotics Race](https://seekingalpha.com/article/4892164-tesla-q1-preview-losing-the-robotics-race)**
+**[Mon County middle school robotics team heading to World Championship](https://www.yahoo.com/news/articles/mon-county-middle-school-robotics-180348397.html)**
 
-Tesla, Inc. stock rated Hold: robotics narrative may be overhyped, Optimus lags rivals, valuation looks stretched. Click for this TSLA earnings preview.
+Westwood Middle School's robotics team in Monongalia County is preparing to compete in the VEX Robotics World Championship in St. Louis this upcoming weekend.
 
-Seeking Alpha • 19h ago
+Yahoo • 1h ago
+
+---
+
+**[Cedarburg High School's Robotics team wins FIRST Wisconsin District Champions](https://www.tmj4.com/news/local-news/in-your-community/ozaukee-county/cedarburg-high-schools-robotics-team-wins-first-wisconsin-district-champions)**
+
+Cedarburg High School's Robotics team is the 2026 FIRST Wisconsin District Champions and will be moving on to represent Wisconsin at the World Championship in Houston, Texas, on April 29th.
+
+TMJ4 News • 1d ago
+
+---
+
+**[Elon Musk Says AI And Robotics Will Change Everything: 'Everyone Can Have A Penthouse If They Want'](https://finance.yahoo.com/sectors/technology/articles/elon-musk-says-ai-robotics-154608983.html)**
+
+Tesla (NASDAQ:TSLA) CEO Elon Musk is making a bold case for a future where artificial intelligence doesn't just improve the economy, but completely reshapes it to the point where even luxury living, like penthouses, could become widely accessible. In a...
+
+Yahoo Finance • 3h ago
 
 ---
 
@@ -146,7 +160,23 @@ Seeking Alpha • 19h ago
 
 Chief of Naval Operations Adm. Daryl Caudle supplied modernization updates at the Navy League’s Sea Air Space convention.
 
-DefenseScoop • 20h ago
+DefenseScoop • 21h ago
+
+---
+
+**[The New Unicorn Count Reached A 4-Year High In March, Led By Robotics, Frontier Labs And AI Infrastructure](https://news.crunchbase.com/venture/unicorn-count-4-year-high-robotics-ai-march-2026/)**
+
+A total of 37 companies joined The Crunchbase Unicorn Board in March, the highest monthly count in close to four years, Crunchbase data shows. The robotics sector led unicorn creation last month, with six new billion-dollar startups.
+
+Crunchbase News • 8h ago
+
+---
+
+**[Tesla Q1 Preview: Losing The Robotics Race](https://seekingalpha.com/article/4892164-tesla-q1-preview-losing-the-robotics-race)**
+
+Tesla, Inc. stock rated Hold: robotics narrative may be overhyped, Optimus lags rivals, valuation looks stretched. Click for this TSLA earnings preview.
+
+Seeking Alpha • 20h ago
 
 ---
 
@@ -154,35 +184,7 @@ DefenseScoop • 20h ago
 
 Faraday Future Intelligent Electric Inc. (NASDAQ: FFAI) (“Faraday Future”, "FF" or the “Company”), a California-based global Embodied AI (EAI) ecosystem comp...
 
-Business Wire • 11h ago
-
----
-
-**[Arsenal Tech robotics team making history at World Championship](https://www.axios.com/local/indianapolis/2026/04/21/arsenal-tech-robotics-team-making-history-at-world-championship)**
-
-Axios • 7h ago
-
----
-
-**[VEX Robotics World Championship takes over St. Louis](https://fox2now.com/news/missouri/vex-robotics-world-championship-takes-over-st-louis/)**
-
-FOX 2 • 19h ago
-
----
-
-**[Sharon robotics team heading to global competition again](https://www.yahoo.com/news/articles/sharon-robotics-team-heading-global-140426521.html)**
-
-The Sharon City School District robotics team is heading to an international competition again after securing state accolades.
-
-Yahoo • 3h ago
-
----
-
-**[Fire breaks out in robotics and engineering classroom at Davis Senior High School](https://www.kcra.com/article/fire-davis-senior-high-school-monday/71077968)**
-
-It was contained to the single classroom and did not spread. No injuries were reported.
-
-KCRA • 17h ago
+Business Wire • 12h ago
 
 ---
 
@@ -236,7 +238,7 @@ For more context and news coverage of the most important stories of our day, cli
 
 📺 NBC News
 
-👁️ 231K • 👍 4K • 💬 309 • ⏱️ 0:25 • 6d ago
+👁️ 231K • 👍 4K • 💬 309 • ⏱️ 0:25 • 7d ago
 
 ---
 
@@ -264,7 +266,7 @@ Physical Intelligence is building a foundation model that can control any robot 
 
 📺 Robot Julie 
 
-👁️ 18K • 👍 49 • ⏱️ 0:24 • 15h ago
+👁️ 18K • 👍 49 • ⏱️ 0:24 • 17h ago
 
 ---
 
@@ -274,7 +276,7 @@ A humanoid robot race was held in Beijing this past Sunday, April 19th 2026. The
 
 📺 The Verge
 
-👁️ 65K • 👍 698 • 💬 49 • ⏱️ 0:34 • 22h ago
+👁️ 65K • 👍 698 • 💬 49 • ⏱️ 0:34 • 1d ago
 
 ---
 
@@ -284,7 +286,7 @@ Behind the Bumpers full explanation: https://youtu.be/zxBvVSZtS3E @nashobaroboti
 
 📺 FUN Robotics Network
 
-👁️ 6K • 👍 90 • 💬 2 • ⏱️ 0:15 • 18h ago
+👁️ 6K • 👍 90 • 💬 2 • ⏱️ 0:15 • 20h ago
 
 ---
 

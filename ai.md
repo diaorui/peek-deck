@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-21T17:34:40.138306+00:00'
+updated: '2026-04-21T19:14:15.836159+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - news
+- repositories
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 21, 2026 at 17:34 UTC  
+**Last Updated:** April 21, 2026 at 19:14 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The fact that Apple's Board of Directors chose someone who has built their career on the hardware side speaks volumes. Apple's gamble suggests they believe the future of AI lies in hardware, not software. Apple clearly isn't trying to compete with Google, OpenAI, or Anthropic by having an LLM model. But it does seem to believe that its platform (the iPhone), with its advanced processor, can deliver models locally on the phone instead of from the cloud. Will the gamble pay off?
 
-4h ago
+6h ago
 
 ---
 
@@ -49,7 +49,15 @@ The fact that Apple's Board of Directors chose someone who has built their caree
 
 : £330M deal leaves service with no ownership of software built to connect trusts to the platform
 
-🔗 [theregister.com](https://www.theregister.com/2026/04/20/palantir_nhs_break_clause/) • 14h ago
+🔗 [theregister.com](https://www.theregister.com/2026/04/20/palantir_nhs_break_clause/) • 15h ago
+
+---
+
+**[AI Hallucinations Might Be More Human Than We’d Like to Admit](https://www.reddit.com/r/artificial/comments/1sruvbn/ai_hallucinations_might_be_more_human_than_wed/)**
+
+AI hallucinations are well reported. They’re also one of the biggest reasons people hesitate to trust or adopt these systems. That hesitation makes sense. But I’ve been thinking about something that doesn’t get discussed as much: What if AI hallucinations aren’t some weird machine failure… What if they’re actually a reflection of how humans already think? At a technical level, hallucinations happen because AI fills gaps. When it doesn’t “know,” it predicts. It generates the most plausible next piece of information based on patterns it has seen before. Sometimes that works. Sometimes it produces something completely wrong… delivered with absolute confidence. Now zoom out. Humans do something… uncomfortably similar. We also fill gaps. We remember things that didn’t happen quite the way we think We confidently explain things we only partially understand We build narratives that feel true, even when they aren’t Psychology has a name for part of this: confirmation bias We tend to notice, favour, and reinforce information that supports what we already believe. Not because we’re trying to lie. Because it’s efficient. There’s also something deeper going on. AI is trained on human-created data at massive scale. Everything from peer-reviewed research to blog posts, opinions, half-truths, and straight-up nonsense. AI Humans Predicts the most likely answer Leans toward the most familiar belief Fills gaps with plausible output Fills gaps with assumptions or memory Sounds confident even when wrong Sounds confident even when wrong Trained on internet-scale data Trained on life experience + culture It doesn’t separate truth from confidence. It learns patterns of expression. So when it hallucinates, it’s not inventing behaviour out of nowhere. It’s remixing patterns it learned from us. Including our inconsistencies. Including our overconfidence. Including our tendency to “sound right” before being right. Some researchers even argue hallucinations are unavoidable because the system is optimized to answer, not to say “I don’t know.” Which, again, feels… familiar. So maybe the better question isn’t: “How do we eliminate AI hallucinations?” But: “Why are we so surprised by them?” If anything, AI is forcing something into the open: That confident, coherent-sounding information has never been the same thing as truth. We’ve just been more comfortable when the illusion came from humans instead of machines. Curious where people land on this? Are AI hallucinations a technical flaw we’ll eventually solve… Or are they a mirror we’re not entirely ready to look into?
+
+1h ago
 
 ---
 
@@ -57,7 +65,7 @@ The fact that Apple's Board of Directors chose someone who has built their caree
 
 I'm curious about your thoughts and experience on it. In any field.
 
-6h ago
+8h ago
 
 ---
 
@@ -65,7 +73,7 @@ I'm curious about your thoughts and experience on it. In any field.
 
 I was wondering about how Russians are faring in the global AI race, especially since there isn't much news from there except for AI-War-engines and drones being deployed in Ukraine. Russians had traditionally had a strong STEM program, especially focused on core Maths and computing. A number of great CS experts migrated to the US and EU. I was talking to an old Russian-American techie friend of mine the other day and that triggered this question.
 
-2h ago
+3h ago
 
 ---
 
@@ -73,7 +81,7 @@ I was wondering about how Russians are faring in the global AI race, especially 
 
 Tone in AI prompting works because of how language models are built, not because the model has feelings about how you talk to it. Understanding the mechanism makes you dramatically better at using these tools.
 
-🔗 [kitchencloset.com](https://kitchencloset.com/realstuff/essays/why_tone_works/) • 3h ago
+🔗 [kitchencloset.com](https://kitchencloset.com/realstuff/essays/why_tone_works/) • 5h ago
 
 ---
 
@@ -81,23 +89,7 @@ Tone in AI prompting works because of how language models are built, not because
 
 I'm making an LLM agent specialized for image processing. It combines: an LLM for conversation, planning, and tool use (supports a variety of LLMs) image generation/AI-based editing via gpt-image background removal via rembg (several specialized models available) pixelization using pyxelate posterization and defringing using custom algorithms speech-to-text (Whisper) and text-to-speech (Kokoro plus HALO) a nice UI based on Raylib, including file drag-and-drop PixelClaw is free and open-source at https://github.com/JoeStrout/PixelClaw/ . You can find more demo videos there too. While you're there, if you find it interesting, please click the star ⭐️ at the top of the page; that helps me gauge interest.
 
-1h ago
-
----
-
-**[Honest opinion about AI](https://www.reddit.com/r/artificial/comments/1sr1vhi/honest_opinion_about_ai/)**
-
-I'm a developer by profession, and I've used AI to generate stuff that I know how to do myself and also stuff I have no idea about. Coding for my day to day using AI, I know exactly what to do and how to do it so i end up making features way faster than before. But every time I try to generate something that i have no deep understanding about - like content for a blog or demo videos (remotion + 11labs), or newsletters or social media posts, I always end up making something sloppy (AI slop). AI is here to stay, and instead of replacing people it might end up making people more valuable than before. I think it's high time to double down on fundamentals and make ourselves more knowledgeable and valuable.
-
-21h ago
-
----
-
-**[HeyAgent ProductHunt Launch || LinkedIn for AI Agents](https://www.reddit.com/r/artificial/comments/1srhsjb/heyagent_producthunt_launch_linkedin_for_ai_agents/)**
-
-Cold outreach is broken. HeyAgent gives you a personal AI proxy agent that autonomously meets other people's agents, evaluates fit, and briefs you daily — who it met, synergy score, and whether to connect. Agent-to-agent interactions Deploy in 60 seconds using your LinkedIn or X profile URL. No forms, no setup. Real agents. Real conversations. You only act when it matters. we just launched HeyAgent.live on Product Hunt and would love for you to check it out. If you resonate, would appreciate an upvote or comment. https://preview.redd.it/4vliqbnw9iwg1.jpg?width=520&format=pjpg&auto=webp&s=e78428bff13a33515f877e425310ce5e6c0be883
-
-8h ago
+2h ago
 
 ---
 
@@ -105,7 +97,15 @@ Cold outreach is broken. HeyAgent gives you a personal AI proxy agent that auton
 
 I just published a very helpful article (payment free) on how to make an experience distillation system based on the memory plugin for Claude Code Knowledge distillation is based on memsearch memory and a custom plugin. In theory, various plugins could be built on top of this memory, such as report generation or something similar I’ve been using this tool every day for over two months now, and it works great.I think this might be useful to someone. https://medium.com/@ilyajob05/claude-code-forgets-everything-heres-how-i-fixed-it-️-1cde5cd3e2ad
 
-1h ago
+3h ago
+
+---
+
+**[Honest opinion about AI](https://www.reddit.com/r/artificial/comments/1sr1vhi/honest_opinion_about_ai/)**
+
+I'm a developer by profession, and I've used AI to generate stuff that I know how to do myself and also stuff I have no idea about. Coding for my day to day using AI, I know exactly what to do and how to do it so i end up making features way faster than before. But every time I try to generate something that i have no deep understanding about - like content for a blog or demo videos (remotion + 11labs), or newsletters or social media posts, I always end up making something sloppy (AI slop). AI is here to stay, and instead of replacing people it might end up making people more valuable than before. I think it's high time to double down on fundamentals and make ourselves more knowledgeable and valuable.
+
+22h ago
 
 ---
 
@@ -113,7 +113,7 @@ I just published a very helpful article (payment free) on how to make an experie
 
 I built a RAG system that needs to answer in German or English depending on the query language. Sounds simple. It was not. The source documents are mostly in German but some contain French legal terminology, Latin phrases, and occasional English citations. What kept happening was the LLM would start answering in German, hit a French passage in the context, and just.. switch to French mid-paragraph. Sometimes it would blend German and French in the same sentence. Once it answered entirely in Italian and I still have no idea why. I tried letting the LLM detect the query language itself. Unreliable. It would sometimes decide the query was in French because the user mentioned a French court case by name. What actually worked was a dumb regex detector. I check the query for common German words (der, die, das, und, ist, nicht, mit, für, datenschutz, verletzung, etc). If enough German markers are present the response language is forced to German. Otherwise English. No fancy language detection library. Just pattern matching. Then in the prompt I added a hard constraint: "Write your entire answer ONLY in {language}. Output must be German or English only. Never French, Spanish, Italian, or any other language. If the retrieved context is partly in another language, translate your answer into {language} only." The "never French" part is doing heavy lifting. Without that explicit prohibition the model would drift back into French within a few days of testing. It's like the model sees French legal text in context and thinks "oh we're doing French now." Anyone else building multilingual RAG systems running into this? The language contamination from source documents was the most annoying bug I dealt with and I've seen almost nobody write about it.
 
-4h ago
+6h ago
 
 ---
 
@@ -121,69 +121,37 @@ I built a RAG system that needs to answer in German or English depending on the 
 
 ## Google News: "ai"
 
-**[Job Cuts Driven by A.I. Are Rising on Wall Street](https://www.nytimes.com/2026/04/21/business/ai-job-cuts-wall-street.html)**
+**[Exclusive: Meta to start capturing employee mouse movements, keystrokes for AI training data](https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/)**
 
-The New York Times • 2h ago
-
----
-
-**[Apple incoming CEO John Ternus faces a defining challenge: Fixing the company's AI strategy](https://www.cnbc.com/2026/04/20/apple-new-ceo-john-ternus-faces-defining-challenge-fixing-ai-strategy.html)**
-
-Tim Cook had a highly successful tenure as Apple's CEO, but he leaves his successor with a big gap to fill when it comes to the company's position in AI.
-
-CNBC • 12h ago
+Reuters • 1h ago
 
 ---
 
-**[John Ternus is already overhauling Apple operations using AI, per report](https://9to5mac.com/2026/04/21/john-ternus-is-already-overhauling-apple-operations-using-ai-per-report/)**
+**[A.I. Is Eliminating Jobs on Wall Street](https://www.nytimes.com/2026/04/21/business/ai-job-cuts-wall-street.html)**
 
-John Ternus is Apple’s incoming CEO, and according to a Bloomberg report, he is already overhauling Apple’s internal operations using AI.
-
-9to5Mac • 1h ago
+The New York Times • 28m ago
 
 ---
 
-**[Apple’s pick to replace Tim Cook hints at its plans for the AI era](https://www.cnn.com/2026/04/21/tech/apple-new-ceo-ai-john-ternus)**
+**[Tesla Q1 earnings preview: Wall Street is on the lookout for updates on AI and robotaxi progress](https://www.businessinsider.com/tesla-q1-earnings-preview-tsla-stock-elon-musk-robotaxi-ai-2026-4)**
 
-Apple’s announcement Monday that CEO Tim Cook will step down and John Ternus will take over signals a significant shift for Apple: The company is betting its future on the most rapidly evolving technology in the history of computing.
+Tesla will report first-quarter earnings on Wednesday, with Wall Street analysts expecting Elon Musk to talk about the company's AI and robotaxi efforts.
 
-CNN • 5h ago
-
----
-
-**[North Texas cities are using AI to help with traffic ahead of World Cup](https://www.dallasnews.com/news/transportation/article/north-texas-using-ai-help-traffic-ahead-world-cup-22206024.php)**
-
-Dallas News • 33m ago
+Business Insider • 17m ago
 
 ---
 
-**[Even Without Internet Access, Prisoners Are Trying to Benefit From A.I.](https://www.nytimes.com/2026/04/21/business/ai-chatbots-prisoners.html)**
+**[Unregulated AI Like Speeding With No Steering Wheel: AI Godfather Hinton](https://www.barrons.com/articles/unregulated-ai-like-speeding-with-no-steering-wheel-ai-godfather-hinton-2478e4ae)**
 
-The New York Times • 8h ago
-
----
-
-**[AI chatbots could be making you stupider](https://www.bbc.com/future/article/20260417-ai-chatbots-could-be-making-you-stupider)**
-
-As large language models take over more and more cognitive tasks, researchers are warning this mental outsourcing comes with a cost.
-
-BBC • 1d ago
+Barron's • 28m ago
 
 ---
 
-**[Are you turning to AI with health questions? Share your story](https://www.cnn.com/2026/04/21/health/ai-health-questions-reader-callout)**
+**[Adobe’s new AI experiment can whip up a website custom designed for Gen Z](https://www.fastcompany.com/91530085/adobes-new-ai-experiment-can-whip-up-a-website-custom-designed-for-gen-z)**
 
-A sizable share of Americans are asking AI chatbots for health information, according to recent polls.
+The tool, called Asset Amplify, is one of seven prospective features debuting this week at Adobe Summit.
 
-CNN • 39m ago
-
----
-
-**[Celebrities will be able to find and request removal of AI deepfakes on YouTube](https://www.theverge.com/ai-artificial-intelligence/915872/celebrities-will-be-able-to-find-and-request-removal-of-ai-deepfakes-on-youtube)**
-
-Likeness detection searches YouTube for AI clones
-
-The Verge • 4m ago
+Fast Company • 29m ago
 
 ---
 
@@ -191,7 +159,39 @@ The Verge • 4m ago
 
 A med student says he’s made thousands of dollars selling photos and videos of a young conservative woman he created using generative tools. He’s not alone.
 
-WIRED • 6h ago
+WIRED • 8h ago
+
+---
+
+**[Apple’s next chief John Ternus faces defining AI moment](https://www.ft.com/content/ef888edd-d12e-41d0-b38d-3d6465cf280c?syn-25a6b1a6=1)**
+
+Tim Cook’s replacement must lead iPhone-maker through industry shift
+
+Financial Times • 10h ago
+
+---
+
+**[Apple's next CEO John Ternus 'must define Apple's future as ferociously as he defends its past'](https://finance.yahoo.com/markets/stocks/article/apples-next-ceo-john-ternus-must-define-apples-future-as-ferociously-as-he-defends-its-past-180904712.html)**
+
+Apple's incoming CEO John Ternus will need to contend with the company's AI situation, what comes after the iPhone, and more.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Apple’s pick to replace Tim Cook hints at its plans for the AI era](https://www.cnn.com/2026/04/21/tech/apple-new-ceo-ai-john-ternus)**
+
+Apple’s announcement Monday that CEO Tim Cook will step down and John Ternus will take over signals a significant shift for Apple: The company is betting its future on the most rapidly evolving technology in the history of computing.
+
+CNN • 7h ago
+
+---
+
+**[Dairy Queen's new drive-thrus without humans spark backlash by frustrated customers](https://www.foxnews.com/food-drink/dairy-queens-new-drive-thrus-without-humans-spark-backlash-frustrated-customers)**
+
+Allowing customers to place orders through an automated assistant instead of a human employee, Dairy Queen is rolling out AI voice technology at drive-thru locations across the U.S.
+
+Fox News • 2h ago
 
 ---
 
@@ -201,13 +201,7 @@ WIRED • 6h ago
 
 **[Atlassian enables default data collection to train AI](https://news.ycombinator.com/item?id=47833247)**
 
-⬆️ 587 • 💬 130 • 1d ago • [letsdatascience.com](https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8)
-
----
-
-**[College instructor turns to typewriters to curb AI-written work](https://news.ycombinator.com/item?id=47818485)**
-
-⬆️ 488 • 💬 426 • 2d ago • [sentinelcolorado.com](https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/)
+⬆️ 588 • 💬 130 • 1d ago • [letsdatascience.com](https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8)
 
 ---
 
@@ -215,7 +209,7 @@ WIRED • 6h ago
 
 People are sick of artificial intelligence, and are increasingly making it known through acts of resistance.
 
-⬆️ 371 • 💬 393 • 21h ago • [stephvee.ca](https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/)
+⬆️ 374 • 💬 400 • 22h ago • [stephvee.ca](https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/)
 
 ---
 
@@ -223,7 +217,7 @@ People are sick of artificial intelligence, and are increasingly making it known
 
 Deezer says consumption of AI-generated music on the platform is still very low, between 1-3% of the total streams, and that 85% of these streams are detected as fraudulent and are demonetized.
 
-⬆️ 356 • 💬 373 • 1d ago • [TechCrunch](https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/)
+⬆️ 356 • 💬 377 • 1d ago • [TechCrunch](https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/)
 
 ---
 
@@ -237,7 +231,7 @@ Police lured the man to a meeting and arrested him after accessing a private Wha
 
 **[A Roblox cheat and one AI tool brought down Vercel's platform](https://news.ycombinator.com/item?id=47844431)**
 
-⬆️ 273 • 💬 145 • 13h ago • [webmatrices.com](https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform)
+⬆️ 277 • 💬 148 • 15h ago • [webmatrices.com](https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform)
 
 ---
 
@@ -245,7 +239,7 @@ Police lured the man to a meeting and arrested him after accessing a private Wha
 
 Airborne genetic material can be used to paint a picture of ecosystem health, watch for invasive species and even identify humans.
 
-⬆️ 157 • 💬 52 • 2d ago • [nature.com](https://www.nature.com/articles/d41586-026-01099-2)
+⬆️ 161 • 💬 54 • 2d ago • [nature.com](https://www.nature.com/articles/d41586-026-01099-2)
 
 ---
 
@@ -253,7 +247,15 @@ Airborne genetic material can be used to paint a picture of ecosystem health, wa
 
 Mediator.ai uses bargaining theory and modern AI to find agreements that two people in conflict would both accept, including ones they hadn't thought of.
 
-⬆️ 117 • 💬 60 • 1d ago • [Mediator.ai](https://mediator.ai/)
+⬆️ 128 • 💬 64 • 1d ago • [Mediator.ai](https://mediator.ai/)
+
+---
+
+**[Show HN: GoModel – an open-source AI gateway in Go](https://news.ycombinator.com/item?id=47849097)**
+
+High-performance AI gateway written in Go - unified OpenAI-compatible API for OpenAI, Anthropic, Gemini, Groq, xAI &amp; Ollama. LiteLLM alternative with observability, guardrails &amp; streaming. ...
+
+⬆️ 113 • 💬 41 • 5h ago • [GitHub](https://github.com/ENTERPILOT/GOModel/)
 
 ---
 
@@ -261,7 +263,7 @@ Mediator.ai uses bargaining theory and modern AI to find agreements that two peo
 
 Nial – Knowledge work and artificial intelligence.
 
-⬆️ 98 • 💬 116 • 10h ago • [nial.se](https://nial.se/blog/less-human-ai-agents-please/)
+⬆️ 109 • 💬 122 • 12h ago • [nial.se](https://nial.se/blog/less-human-ai-agents-please/)
 
 ---
 
@@ -269,7 +271,7 @@ Nial – Knowledge work and artificial intelligence.
 
 Uber Technologies, Inc is learning the hard way that scaling AI isn't just about speed—it's about cost. Despite spending $3.4 billion on research and development, the company has already exhausted its planned AI budget just months into 2026. According to The Information, Chief Technology Officer Praveen Neppalli Naga said Uber is now "back to the drawing board" after a surge in the use of AI coding tools, particularly Anthropic's Claude Code, has blown past internal expectations. Don't Miss: A s
 
-⬆️ 94 • 💬 103 • 1d ago • [Yahoo Finance](https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html)
+⬆️ 94 • 💬 103 • 2d ago • [Yahoo Finance](https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html)
 
 ---
 
@@ -283,7 +285,7 @@ Ramageddon” is here: AI data centers are hoarding up to 70% of global DRAM, se
 
 📺 Valuetainment
 
-👁️ 24K • 👍 2K • 💬 154 • ⏱️ 12:41 • 4h ago
+👁️ 24K • 👍 2K • 💬 154 • ⏱️ 12:41 • 6h ago
 
 ---
 
@@ -293,7 +295,7 @@ AGIBOT just rolled out a full new wave of humanoid robots and AI models built fo
 
 📺 AI Revolution
 
-👁️ 17K • 👍 584 • 💬 34 • ⏱️ 16:29 • 17h ago
+👁️ 17K • 👍 584 • 💬 34 • ⏱️ 16:29 • 18h ago
 
 ---
 
@@ -353,7 +355,7 @@ Really American host Steve Harness breaks down Trump getting hit with more AI ro
 
 📺 Really American
 
-👁️ 146K • 👍 13K • 💬 604 • ⏱️ 11:52 • 17h ago
+👁️ 146K • 👍 13K • 💬 604 • ⏱️ 11:52 • 19h ago
 
 ---
 
@@ -401,7 +403,7 @@ Kimi K2.6 is a 1T parameter multimodal agentic model excelling in long-horizon c
 
 `image-text-to-text` `1058.6B`
 
-⬇️ 8,241 • ❤️ 648 • 16h ago
+⬇️ 8,241 • ❤️ 648 • 17h ago
 
 ---
 
@@ -645,7 +647,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 48.7k • 🔱 6.4k • 12h ago
+⭐ 48.7k • 🔱 6.4k • 14h ago
 
 ---
 
@@ -665,7 +667,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 37.7k • 🔱 7.7k • 2h ago
+⭐ 37.7k • 🔱 7.7k • 4h ago
 
 ---
 
@@ -675,7 +677,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 31.9k • 🔱 3.5k • 2h ago
+⭐ 31.9k • 🔱 3.5k • 4h ago
 
 ---
 
@@ -685,7 +687,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 8.4k • 🔱 545 • 1h ago
+⭐ 8.4k • 🔱 545 • 3h ago
 
 ---
 
@@ -705,7 +707,7 @@ A theoretical reconstruction of the Claude Mythos architecture, built from first
 
 `Python`
 
-⭐ 5.7k • 🔱 969 • 2d ago
+⭐ 5.7k • 🔱 969 • 3d ago
 
 ---
 

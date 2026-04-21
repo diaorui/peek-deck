@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-21T17:34:40.144251+00:00'
+updated: '2026-04-21T19:14:15.843790+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - news
 - videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 21, 2026 at 17:34 UTC  
+**Last Updated:** April 21, 2026 at 19:14 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $75,901.61
+### $75,548.20
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.5%  
-**7d:** +0.7%  
-**30d:** +6.2%  
-**90d:** -15.9%  
-**1y:** -19.4%  
+**24h:** -0.7%  
+**7d:** +1.2%  
+**30d:** +6.8%  
+**90d:** -15.4%  
+**1y:** -18.9%  
 
 ---
 
@@ -77,11 +77,25 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[People who understand Bitcoin don't come here asking if now is a good time to buy some](https://www.reddit.com/r/Bitcoin/comments/1srupu6/people_who_understand_bitcoin_dont_come_here/)**
+
+1h ago
+
+---
+
 **[Just got PERMA banned from r/personal Finance for suggesting BTC](https://www.reddit.com/r/Bitcoin/comments/1sre4bl/just_got_perma_banned_from_rpersonal_finance_for/)**
 
-Someone was asking how to invest their money and I said 50% S&P500 and 50% BTC and I got perma banned for “Hyping/pushing speculative, volatile, illiquid, or meme investments, flippantly, tersely, or implying huge returns” Lmao
+Someone was asking how to invest their money and I said 50% S&P500 and 50% BTC and I got perma banned for “Hyping/pushing speculative, volatile, illiquid, or meme investments, flippantly, tersely, or implying huge returns” Lmao Edit:come to think of it I’m pretty sure I didn’t even recommend buying Bitcoin I recommended buying BTC ETF’s which makes my ban even crazier
 
-12h ago
+14h ago
+
+---
+
+**[I ran the actual 10-year math on Bitcoin vs Rental Property (same $30K starting point) — the results were not what I expected](https://www.reddit.com/r/Bitcoin/comments/1srpsr9/i_ran_the_actual_10year_math_on_bitcoin_vs_rental/)**
+
+https://youtu.be/tlRr1wStdow I kept seeing people argue about whether crypto or real estate is the better investment, but nobody was actually running the full numbers. So I did. Same starting point for both: - $30,000 to invest - Same year (2015) - Same city, same income Here's what I found after accounting for EVERYTHING: REAL ESTATE (Rental Property): → $30K down on a $150K property → Tenant paying $1,400/month rent → Sounds great... until you add: - Property taxes: $15,000 over 10 years - Insurance: $12,000 - Repairs/maintenance: $30,000 - Vacancy (1 month/year avg): $15,000 - 600 hours of your own time managing it After ALL real costs → roughly $175,000 to $195,000 in total equity after 10 years BITCOIN (Held without selling): → $30K invested in 2015 → Watched it drop 84% in 2018 → Watched it drop 77% in 2022 → Did NOT sell either time After 10 years → roughly $1.5M to $2M (after capital gains tax) So crypto wins, right? Not so fast. Here's the part nobody talks about: Studies show fewer than 8% of Bitcoin buyers actually held through both crashes without selling. The other 92% panic sold at the bottom and locked in massive losses — ending up WORSE than the real estate investor. Real estate had one massive hidden advantage: You literally CANNOT panic sell a house at 2AM. The illiquidity that feels like a weakness is actually what protects most people from destroying their own returns. So the real answer is: it depends entirely on which type of investor YOU are. Happy to answer any questions on the math in the comments.
+
+4h ago
 
 ---
 
@@ -89,7 +103,7 @@ Someone was asking how to invest their money and I said 50% S&P500 and 50% BTC a
 
 A clip of "Professor Jiang" went viral claiming the CIA created Bitcoin. This guy doesn't know Satoshi's name. He doesn't know what a decentralized network is. He thinks Bitcoin runs on servers in a CIA basement. This is not the first time this guy has embarrassed himself talking about Bitcoin. I brokedown every argument and every contradiction point by point.
 
-🔗 [youtu.be](https://youtu.be/wjlH4AWyhCY) • 2h ago
+🔗 [youtu.be](https://youtu.be/wjlH4AWyhCY) • 4h ago
 
 ---
 
@@ -97,15 +111,7 @@ A clip of "Professor Jiang" went viral claiming the CIA created Bitcoin. This gu
 
 A quote from Warren Buffett: A short quiz: If you plan to eat hamburgers throughout your life and are not a cattle producer, should you wish for higher or lower prices for beef? Likewise, if you are going to buy a car from time to time but are not an auto manufacturer, should you prefer higher or lower car prices? These questions, of course, answer themselves. But now for the final exam: If you expect to be a net saver during the next five years, should you hope for a higher or lower stock market during that period? Many investors get this one wrong. Even though they are going to be net buyers of stocks for many years to come, they are elated when stock prices rise and depressed when they fall. In effect, they rejoice because prices have risen for the ‘hamburgers’ they will soon be buying. This reaction makes no sense. Only those who will be sellers of equities in the near future should be happy at seeing stocks rise. Prospective purchasers should much prefer sinking prices. Assuming the majority of people on this sub are not near retirement, then you still plan to buy more BTC in the future than you currently have. You'll be able to buy more of it if the price is lower. So you should be cheering when it falls, and that is why the current "dip" is a blessing. This doesn't apply if you are planning to liquidate soon, of course. Then you should want the price to skyrocket. Source: https://www.roywalkerwealth.com/2018/01/warren-buffett-on-hamburgers.html
 
-18h ago
-
----
-
-**[Stop impressing other people you don't like and buy bitcoin](https://www.reddit.com/r/Bitcoin/comments/1srglf8/stop_impressing_other_people_you_dont_like_and/)**
-
-Who gives a flip tuesday! stop buying shit you dont want to impress people you dont like! just chill out and let it be there, slowly keep stacking and buying, spare to live, sitback relax, learn self custody, learn nodes, learn passphrase, there's so much fun shit to do in live instead of impressing morons!
-
-10h ago
+19h ago
 
 ---
 
@@ -113,13 +119,15 @@ Who gives a flip tuesday! stop buying shit you dont want to impress people you d
 
 No fiat currency has survived 100 years with its purchasing power meaningfully intact. The British pound has lost over 99% of its value since 1900. The US dollar has lost roughly 96% since the Federal Reserve was established in 1913. The German mark, the French franc, and the Italian lira were all replaced entirely. Of the 750+ fiat currencies that have ever existed throughout history, the majority are now defunct, ended by hyperinflation, war, regime change, or deliberate debasement. Bitcoin offers a structurally different model: a hard cap of 21M coins, enforced by code that cannot be altered without consensus from tens of thousands of globally distributed node operators. No committee sets the monetary policy. No central bank can expand the supply. Whether that's desirable depends on your macro views. Flexible monetary policy advocates argue that you need the ability to expand and contract the supply to manage economic cycles. Fixed supply advocates argue you're just trading short-term stability for long-term erosion that has destroyed every fiat regime in history. The experiment is still ongoing to answer the question: Over a 100-year horizon, does a fixed mathematical protocol preserve value more reliably than a century of consistent political discipline across all major governments? Source: https://www.coingecko.com/learn/bitcoin-100-year-survival-thesis
 
-7h ago
+9h ago
 
 ---
 
-**[Someone vandalized the Satoshi statue in Lugano again](https://www.reddit.com/r/Bitcoin/comments/1sr1i6u/someone_vandalized_the_satoshi_statue_in_lugano/)**
+**[Stop impressing other people you don't like and buy bitcoin](https://www.reddit.com/r/Bitcoin/comments/1srglf8/stop_impressing_other_people_you_dont_like_and/)**
 
-21h ago
+Who gives a flip tuesday! stop buying shit you dont want to impress people you dont like! just chill out and let it be there, slowly keep stacking and buying, spare to live, sitback relax, learn self custody, learn nodes, learn passphrase, there's so much fun shit to do in live instead of impressing morons!
+
+11h ago
 
 ---
 
@@ -127,7 +135,13 @@ No fiat currency has survived 100 years with its purchasing power meaningfully i
 
 Been learning more about Bitcoin and it’s growing on me. What’s the one thing you like most about it?
 
-1h ago
+2h ago
+
+---
+
+**[Someone vandalized the Satoshi statue in Lugano again](https://www.reddit.com/r/Bitcoin/comments/1sr1i6u/someone_vandalized_the_satoshi_statue_in_lugano/)**
+
+23h ago
 
 ---
 
@@ -135,23 +149,7 @@ Been learning more about Bitcoin and it’s growing on me. What’s the one thin
 
 On episode 250 of my podcast ‘Bitcoin for Millennials’ I talked with Saifedean Ammous, author of The Bitcoin Standard. We discuss Bitcoin as forced adoption, the money supply question that breaks fiat narratives, inflation’s link to time preference and institutional propaganda, energy use and the politics of scarcity, and a hard-money future of declining interest rates with equity replacing credit. Hope you enjoy!
 
-🔗 [youtu.be](https://youtu.be/jODwF4N8Vjc) • 6h ago
-
----
-
-**[Build your freedom… be different from the same.](https://www.reddit.com/r/Bitcoin/comments/1srkyj7/build_your_freedom_be_different_from_the_same/)**
-
-Bitcoin gives you financial sovereignty. Solar energy gives you energy sovereignty. Growing your own food gives you biological sovereignty. The less you depend, the more you can choose. That's the life goal, gentlemen... to have a beautiful self-sustaining farm, a Starlink connection, and goodbye to traffic chaos and chaotic city life. I’ve been living this for 3 years and don’t regret it at all.
-
-6h ago
-
----
-
-**[In 2026 sold PS5 to buy more Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1srcq8b/in_2026_sold_ps5_to_buy_more_bitcoin/)**
-
-most people buying new things in 2026...
-
-13h ago
+🔗 [youtu.be](https://youtu.be/jODwF4N8Vjc) • 8h ago
 
 ---
 
@@ -159,43 +157,43 @@ most people buying new things in 2026...
 
 ## Google News: "bitcoin"
 
-**[Strategy (MSTR) overtakes BlackRock's IBIT after aggressive bear market BTC buying](https://www.coindesk.com/markets/2026/04/21/strategy-overtakes-blackrock-ibit-in-bitcoin-holdings-after-bear-market-buying)**
-
-Leveraged accumulation and new capital tools push MSTR ahead of the world’s largest spot bitcoin ETF.
-
-CoinDesk • 7h ago
-
----
-
 **['Mission Accomplished'—BlackRock Suddenly Bets $871M On Bitcoin Dip](https://www.forbes.com/sites/digital-assets/2026/04/21/mission-accomplished-blackrock-suddenly-bets-871m-on-bitcoin-dip/)**
 
 BlackRock's IBIT absorbed $871 million last week even as Iran tensions dragged bitcoin toward $71,000. Analysts say the record flows show who is buying the dip.
 
-Forbes • 12h ago
+Forbes • 14h ago
 
 ---
 
-**[Is this the most confusing market ever for bitcoin holders?](https://finance.yahoo.com/video/is-this-the-most-confusing-market-ever-for-bitcoin-holders-164236267.html)**
+**[Bitcoin price news: What next as BTC reclaims $75,000](https://www.coindesk.com/markets/2026/04/21/bitcoin-reclaims-usd75-000-as-iran-ceasefire-talks-advance-equities-rally-resumes)**
 
-Equity markets (^DJI, ^IXIC, ^GSPC) have been stuck in an increasingly volatile environment in 2026, exacerbated by bitcoin's (BTC-USD) struggle to cross back above $70,000 per token. Is this the "most confusing" market that investors have ever seen? Scott Melker, the host of "The Wolf of All Streets" podcast, discusses how global uncertainty in recent months have especially weighed on bitcoin and the greater crypto market in comparison to past events. "The Daily Wolf with Scott Melker" airs on Yahoo Finance every day at 12:00 p.m. Tune in for your daily dose of all things crypto.Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
+Bitcoin traded at $75,733 on Tuesday morning, up 1.5% over 24 hours, as Iran signaled it will send a team to Pakistan talks and Brent crude slipped ahead of the Wednesday ceasefire deadline.
 
-Yahoo Finance • 43m ago
-
----
-
-**[Want to Be a Millionaire? Buy Battle Tested Bitcoin Before It's Back to $100,000](https://www.fool.com/investing/2026/04/21/want-to-be-a-millionaire-buy-battletested-bitcoin/)**
-
-The world's top cryptocurrency still looks like a compelling investment.
-
-The Motley Fool • 16m ago
+CoinDesk • 13h ago
 
 ---
 
-**[Bitcoin Whales Accumulate 45,000 BTC As Warsh And Paparo Back Bitcoin’s Role](https://bitcoinmagazine.com/news/bitcoin-whales-accumulate-45000-btc)**
+**[Marvel Drops Bitcoin Mention in Daredevil Season 2](https://www.yahoo.com/entertainment/tv/articles/marvel-drops-bitcoin-mention-daredevil-174434581.html)**
 
-Bitcoin rose to around $76,000 as whales accumulated 45,000 BTC and institutional inflows surged, while U.S. officials including Kevin Warsh and Admiral Paparo signaled growing acceptance of Bitcoin in finance and national security.
+Kingpin proposed Bitcoin to diversify his criminal empire in a Daredevil Born Again flashback, sparking buzz across crypto communities.
 
-Bitcoin Magazine • 1h ago
+Yahoo • 1h ago
+
+---
+
+**[Bitcoin inflows to Binance fall to 2023 low as BTC bulls set target on $80K](https://www.tradingview.com/news/cointelegraph:c18bf18ba094b:0-bitcoin-inflows-to-binance-fall-to-2023-low-as-btc-bulls-set-target-on-80k/)**
+
+Bitcoin (BTC) mid-size wallet inflows to Binance fell to 3,000–4,000 BTC, marking a multi-year low in sell-side activity from this cohort.This coincides with Coinbase recording about 8,500 BTC in inflows from similar wallets on April 19, while other exchanges saw much smaller flows. Binance exchang…
+
+TradingView • 1h ago
+
+---
+
+**[Bitcoin price news: BTC slides as Fed chair nominee Warsh says Trump didn't demand rate cut](https://www.coindesk.com/markets/2026/04/21/bitcoin-slides-toward-usd75-000-as-warsh-says-trump-didn-t-demand-he-cut-rates)**
+
+The S&P 500 and Nasdaq gave back their early morning gains alongside BTC as markets digested the Fed Chair nominee's Senate confirmation hearing.
+
+CoinDesk • 40m ago
 
 ---
 
@@ -203,7 +201,7 @@ Bitcoin Magazine • 1h ago
 
 BlackRock U.S. head of equity ETFs Jay Jacobs discusses market volatility amid tensions with Iran and makes the case for bitcoin as a portfolio diversifier on ‘The Claman Countdown.’
 
-Fox Business • 21h ago
+Fox Business • 22h ago
 
 ---
 
@@ -211,27 +209,31 @@ Fox Business • 21h ago
 
 The enterprise software company and bitcoin treasury on Monday said that it bought more than $2.5 billion worth of the cryptocurrency recently.
 
-Investopedia • 21h ago
+Investopedia • 23h ago
 
 ---
 
-**[Strategy Buys $2.54 Billion of Bitcoin, Most Since Late 2024](https://www.bloomberg.com/news/articles/2026-04-20/strategy-buys-2-54-billion-of-bitcoin-most-since-november-2024)**
+**[Bitcoin Rises As Institutional Demand And Macro Backdrop Support Prices](https://seekingalpha.com/article/4892502-bitcoin-rises-as-institutional-demand-and-macro-backdrop-support-prices)**
 
-Bloomberg.com • 1d ago
+After pulling back to the $75.6K area, Bitcoin (BTC-USD) is once again testing resistance near $76.9K, supported by demand from institutional investors.
 
----
-
-**[Bitcoin Price Rises. Strategy, Other Crypto Stocks Fall.](https://www.barrons.com/articles/bitcoin-price-crypto-xrp-ethereum-043e606c)**
-
-Barron's • 4h ago
+Seeking Alpha • 1h ago
 
 ---
 
-**[Iran Scammers Demand Bitcoin, USDT for Transit Through Strait of Hormuz: Report](https://decrypt.co/365010/iran-scammers-demand-bitcoin-usdt-for-transit-through-strait-of-hormuz-report)**
+**[Bitcoin Just Got A Seat At The Highest Levels Of U.S. Indo-Pacific Strategy — Meet The Man Making It Happen](https://bitcoinmagazine.com/politics/jason-lowery-appointed-special-assistant-to-u-s-indo-pacific-command-commander-bringing-bitcoin-strategic-expertise)**
 
-Fake crypto clearance demands are targeting ships stranded at Hormuz as the Iran conflict enters its third month.
+Jason Lowery, the ex-Space Force innovator behind the explosive “Softwar” theory that treats Bitcoin hashing power as the next gunpowder, just landed a dream advisory gig directly under the U.S. Indo-Pacific Command Commander — right as Iran floats accepting Bitcoin for Strait of Hormuz passage.
 
-Decrypt • 4h ago
+Bitcoin Magazine • 1d ago
+
+---
+
+**['Think even bigger': Michael Saylor's Strategy buys 34,164 bitcoin for $2.5 billion as total holdings top 800,000 BTC](https://www.theblock.co/post/398051/think-even-bigger-michael-saylors-strategy-buys-more-bitcoin)**
+
+Strategy's total holdings account for more than 3.8% of the 21 million bitcoin supply cap — worth around $61 billion.
+
+The Block • 1d ago
 
 ---
 
@@ -265,7 +267,7 @@ The Blockstream CEO’s approach contrasts with BIP-361, a proposal that would i
 
 Neha Narula
 
-⬆️ 3 • 💬 2 • 23h ago • [nehanarula.org](https://nehanarula.org/2026/04/20/bitcoin-and-quantum-a-roadmap.html)
+⬆️ 3 • 💬 2 • 1d ago • [nehanarula.org](https://nehanarula.org/2026/04/20/bitcoin-and-quantum-a-roadmap.html)
 
 ---
 
@@ -307,11 +309,11 @@ A deeply technical early Bitcoiner realized that self-custody is only as strong 
 
 ---
 
-**[Fake Ledger app on Apple App Store linked to $9.5M crypto theft](https://news.ycombinator.com/item?id=47769305)**
+**[Satoshi Nakamoto: 'The best outcome is that no one ever finds out'](https://news.ycombinator.com/item?id=47827534)**
 
-A fake Ledger app on Apple's App Store drained $9.5M from more than 50 victims across Bitcoin, Tron and Solana, ZachXBT said.
+Speculation, dead‑end investigations and conspiracy theories have surrounded him for years
 
-⬆️ 2 • 💬 1 • 6d ago • [The Block](https://www.theblock.co/post/397388/fake-ledger-app-apple-app-store-crypto-theft-bitcoin-tron-solana-zachxbt)
+⬆️ 2 • 💬 0 • 1d ago • [EL PAÍS English](https://english.elpais.com/economy-and-business/2026-04-19/satoshi-nakamoto-the-reclusive-billionaire-behind-bitcoin-the-best-outcome-is-that-no-one-ever-finds-out.html)
 
 ---
 
@@ -325,7 +327,7 @@ Nick Valdez looks at the latest developments with the Strait of Hormuz and it's 
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 315 • 💬 80 • ⏱️ 6:30 • 19h ago
+👁️ 6K • 👍 315 • 💬 80 • ⏱️ 6:30 • 21h ago
 
 ---
 
@@ -375,7 +377,7 @@ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 1% bonus Check out 
 
 📺 Aaron Bennett
 
-👁️ 4K • 👍 260 • 💬 26 • ⏱️ 9:32 • 12h ago
+👁️ 4K • 👍 260 • 💬 26 • ⏱️ 9:32 • 14h ago
 
 ---
 
@@ -385,7 +387,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRus Extra
 
-👁️ 5K • 👍 278 • 💬 105 • ⏱️ 8:28 • 18h ago
+👁️ 5K • 👍 278 • 💬 105 • ⏱️ 8:28 • 19h ago
 
 ---
 
@@ -395,7 +397,7 @@ Everyone is Wrong about Bitcoin Big picture for bitcoin Most can't see what's co
 
 📺 Camel Finance
 
-👁️ 9K • 👍 715 • 💬 139 • ⏱️ 22:37 • 8h ago
+👁️ 9K • 👍 715 • 💬 139 • ⏱️ 22:37 • 9h ago
 
 ---
 
@@ -415,7 +417,7 @@ The next 48 hours will be the deciding force for crypto, bitcoin and ethereum as
 
 📺 Thomas Kralow
 
-👁️ 8K • 👍 2K • 💬 32 • ⏱️ 12:02 • 6h ago
+👁️ 8K • 👍 2K • 💬 32 • ⏱️ 12:02 • 8h ago
 
 ---
 

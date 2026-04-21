@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-21T17:34:40.148353+00:00'
+updated: '2026-04-21T19:14:15.849033+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - news
 - videos
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 21, 2026 at 17:34 UTC  
+**Last Updated:** April 21, 2026 at 19:14 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.8%  
-**7d:** -2.7%  
-**30d:** +6.6%  
-**90d:** -22.3%  
-**1y:** +30.6%  
+**24h:** -0.9%  
+**7d:** -1.8%  
+**30d:** +7.7%  
+**90d:** -21.5%  
+**1y:** +31.9%  
 
 ---
 
@@ -72,7 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+14h ago
+
+---
+
+**[Arbitrum freezing $71M in ETH tied to Kelp DAO is a reminder that “decentralized” doesn’t always mean unstoppable](https://www.reddit.com/r/ethereum/comments/1srv422/arbitrum_freezing_71m_in_eth_tied_to_kelp_dao_is/)**
+
+🔗 [websnack.org](https://websnack.org/news/arbitrum-freezes-71m-eth-kelp-dao-apr-2026) • 1h ago
 
 ---
 
@@ -136,21 +142,31 @@ On April 18, a hacker minted 116,500 rsETH tokens out of nothing. Not stolen fro
 
 ---
 
-**[Key Takeaways from Mike Toutonghi’s Paris Blockchain Week 2026 Keynote](https://www.reddit.com/r/ethereum/comments/1sps1nj/key_takeaways_from_mike_toutonghis_paris/)**
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
+
+**[Ethereum ETFs notch eight straight days of inflows, longest streak since start of October](https://sherwood.news/crypto/ethereum-etfs-8-day-inflow-streak-longest-since-october/)**
+
+And BitMine, the largest ethereum treasury company, acquiried 101,627 ethereum tokens last week worth $234.8 million...
+
+Sherwood News • 1h ago
+
+---
+
+**[Ethereum News: Rebound Looks Shaky as Warning Signs Retail Traders Should Watch](https://www.tradingview.com/news/99Bitcoins:a8761652c094b:0-ethereum-news-rebound-looks-shaky-as-warning-signs-retail-traders-should-watch/)**
+
+In Ethereum news today, ETH USD is trading around $2,330, attempting a recovery after bouncing off the $2,250 support zone, a move that looks constructive on the surface. But underneath the bounce, the technical picture is genuinely uncomfortable. The rebound has already stalled below the 100-hourl…
+
+TradingView • 4h ago
+
+---
 
 **[Ethereum's Wall Street cheerleaders see rise to $250,000, call Bitcoin and gold 'dead capital'](https://finance.yahoo.com/markets/crypto/articles/ethereums-wall-street-cheerleaders-see-115954415.html)**
 
 A new paper from a pro-Ethereum group argues the world’s second-largest cryptocurrency should hit $250,000 per coin. But it relies, in part, on an assumption that DeFi will grow over time That assumption has been severely tested this week. The paper also took several shots at Bitcoin and gold, calling them “dead capital.”
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -164,15 +180,7 @@ Yahoo Finance • 1d ago
 
 **[Large cryptocurrencies mixed as Ethereum falls](https://www.marketwatch.com/data-news/large-cryptocurrencies-mixed-as-ethereum-falls-ad4f1e91-faec5d5fd43e)**
 
-MarketWatch • 3h ago
-
----
-
-**[Forget (XRP) Ripple: This Cryptocurrency Has A Real Moat](https://www.fool.com/investing/2026/04/21/forget-xrp-ripple-this-cryptocurrency-has-a-real-m/)**
-
-Ethereum offers more stable returns with clearer long-term catalysts.
-
-The Motley Fool • 1h ago
+MarketWatch • 5h ago
 
 ---
 
@@ -180,7 +188,7 @@ The Motley Fool • 1h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 3h ago
+Fortune • 6h ago
 
 ---
 
@@ -192,22 +200,6 @@ CoinDesk • 2d ago
 
 ---
 
-**[Ethereum Price Rebound At Risk, Failure Signals Could Emerge Soon](https://www.tradingview.com/news/newsbtc:5ebefbc12094b:0-ethereum-price-rebound-at-risk-failure-signals-could-emerge-soon/)**
-
-Ethereum price started a recovery wave from the $2,250 zone. ETH is now consolidating and might fail to extend gains above the $2,360 resistance.Ethereum Price Faces ResistanceEthereum price tested the $2,250 support zone before the bulls appeared, like Bitcoin. ETH price formed a base and started…
-
-TradingView • 14h ago
-
----
-
-**[Tokenized funds hit $30B as JP Morgan, BlackRock drive Ethereum growth](https://cryptobriefing.com/tokenized-funds-hit-30b-as-jp-morgan-blackrock-drive-ethereum-growth/)**
-
-Tokenized funds reach $30B, led by JP Morgan and BlackRock. Bitcoin at $80K in April now priced at 46.5% YES, while Ethereum at $2,700 on April 16 is 100% YES.
-
-Crypto Briefing • 5h ago
-
----
-
 **[Why I withdrew everything from Aave this weekend](https://www.thestreet.com/crypto/markets/why-i-withdrew-everything-from-aave-this-weekend)**
 
 Why I withdrew every dollar from Aave V3 this weekend, and what every USDT, USDC, and ETH lender should be watching before they decide to stay.
@@ -216,11 +208,19 @@ thestreet.com • 1d ago
 
 ---
 
-**[Why BitMine’s Tom Lee Sees Ethereum at $62,500 in 2030 - and What the Numbers Actually Show](https://247wallst.com/investing/2026/04/18/why-bitmines-tom-lee-sees-ethereum-at-62500-in-2030-and-what-the-numbers-actually-show/)**
+**[Ethereum markets shaken by US-Iran conflict, energy costs rise](https://cryptobriefing.com/ethereum-markets-shaken-by-us-iran-conflict-energy-costs-rise/)**
 
-Crypto investors have watched Ethereum (CRYPTO:ETH) trade in a narrow range near $2,362 while Bitcoin hovers around $76,000 and institutional money quietly builds positions in digital assets. Adoption metrics keep climbing — stablecoins on Ethereum now handle trillions in annual volume, and layer-2 networks process thousands of transactions per second. Yet price action feels stuck. ... Why BitMine’s Tom Lee Sees Ethereum at $62,500 in 2030 — and What the Numbers Actually Show
+Ethereum markets are shaken by rising energy costs from the US-Iran conflict. Ethereum priced between $2,200-$2,300 on April 13 at 100% YES.
 
-24/7 Wall St. • 3d ago
+Crypto Briefing • 38m ago
+
+---
+
+**[Solana Has Processed More Transactions Than Ethereum -- Is It a Buy?](https://www.fool.com/investing/2026/04/18/with-hugetransaction-volume-is-solana-a-buy/)**
+
+Transaction volumes are one of many ways to see how well a cryptocurrency is performing.
+
+The Motley Fool • 2d ago
 
 ---
 
@@ -234,7 +234,7 @@ The next 48 hours will be the deciding force for crypto, bitcoin and ethereum as
 
 📺 Thomas Kralow
 
-👁️ 8K • 👍 2K • 💬 32 • ⏱️ 12:02 • 6h ago
+👁️ 8K • 👍 2K • 💬 32 • ⏱️ 12:02 • 8h ago
 
 ---
 
@@ -244,7 +244,7 @@ Follow me on X: @kross_roads 15% Off Fiscal.ai Plans! Unlock institutional-grade
 
 📺 Crossroads
 
-👁️ 959 • 👍 116 • 💬 11 • ⏱️ 13:21 • 3h ago
+👁️ 959 • 👍 116 • 💬 11 • ⏱️ 13:21 • 4h ago
 
 ---
 
@@ -264,7 +264,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 2K • 👍 131 • 💬 40 • ⏱️ 1:24:23 • 5h ago
+👁️ 2K • 👍 131 • 💬 40 • ⏱️ 1:24:23 • 7h ago
 
 ---
 
@@ -274,7 +274,7 @@ BITCOIN HOLDERS: It's Happening AGAIN (Prepare Now)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 6K • 👍 299 • 💬 70 • ⏱️ 22:14 • 19h ago
+👁️ 6K • 👍 299 • 💬 70 • ⏱️ 22:14 • 21h ago
 
 ---
 
@@ -312,7 +312,7 @@ Its a video about bitcoin, ethereum, crypto in general. But its quite an unusual
 
 📺 Digital Asset Investor
 
-👁️ 4K • 👍 104 • ⏱️ 0:34 • 7h ago
+👁️ 4K • 👍 104 • ⏱️ 0:34 • 9h ago
 
 ---
 
@@ -322,7 +322,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 168 • 👍 8 • 💬 2 • ⏱️ 4:32 • 8h ago
+👁️ 168 • 👍 8 • 💬 2 • ⏱️ 4:32 • 10h ago
 
 ---
 
