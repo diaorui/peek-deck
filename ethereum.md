@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-21T22:08:27.063144+00:00'
+updated: '2026-04-21T23:07:40.045355+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- news
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 21, 2026 at 22:08 UTC  
+**Last Updated:** April 21, 2026 at 23:07 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $279.83B
+**Market Cap:** $279.55B
 Rank #2
 
 **Circulating Supply:** 120,690,002 ETH
@@ -62,7 +62,7 @@ No max supply
 -53.1%
 
 **All-Time Low:** $0.43
-+535625.8%
++535438.7%
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
 
 ---
 
 **[Arbitrum freezing $71M in ETH tied to Kelp DAO is a reminder that “decentralized” doesn’t always mean unstoppable](https://www.reddit.com/r/ethereum/comments/1srv422/arbitrum_freezing_71m_in_eth_tied_to_kelp_dao_is/)**
 
-🔗 [websnack.org](https://websnack.org/news/arbitrum-freezes-71m-eth-kelp-dao-apr-2026) • 4h ago
+🔗 [websnack.org](https://websnack.org/news/arbitrum-freezes-71m-eth-kelp-dao-apr-2026) • 5h ago
 
 ---
 
@@ -150,7 +150,7 @@ Feels kinda bigger than a normal crypto meetup tbh Ethereum getting a real physi
 
 Renowned investor and media personality Kevin O'Leary said Sunday that investors only need Bitcoin and Ethereum to capture the majority of the cryptocurrency market exposure, dismissing all other coins as “garbage.” O’Leary Stresses On ‘Disciplined’ Crypto Strategy O'Leary took to...
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -158,7 +158,7 @@ Yahoo Finance • 10h ago
 
 Ethereum offers more stable returns with clearer long-term catalysts.
 
-The Motley Fool • 5h ago
+The Motley Fool • 6h ago
 
 ---
 
@@ -180,7 +180,7 @@ Decrypt • 1d ago
 
 **[Large cryptocurrencies mixed as Ethereum falls](https://www.marketwatch.com/data-news/large-cryptocurrencies-mixed-as-ethereum-falls-ad4f1e91-faec5d5fd43e)**
 
-MarketWatch • 8h ago
+MarketWatch • 9h ago
 
 ---
 
@@ -188,7 +188,7 @@ MarketWatch • 8h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 7h ago
+Fortune • 8h ago
 
 ---
 
@@ -196,7 +196,7 @@ Fortune • 7h ago
 
 Ethereum price started a recovery wave from the $2,250 zone. ETH is now consolidating and might fail to extend gains above the $2,360 resistance.Ethereum Price Faces ResistanceEthereum price tested the $2,250 support zone before the bulls appeared, like Bitcoin. ETH price formed a base and started…
 
-TradingView • 18h ago
+TradingView • 19h ago
 
 ---
 
@@ -204,7 +204,7 @@ TradingView • 18h ago
 
 Ethereum markets are shaken by rising energy costs from the US-Iran conflict. Ethereum priced between $2,200-$2,300 on April 13 at 100% YES.
 
-Crypto Briefing • 3h ago
+Crypto Briefing • 4h ago
 
 ---
 
@@ -228,13 +228,23 @@ FXStreet • 1d ago
 
 ## YouTube Videos: "ethereum"
 
+**[Ethereum to $250K? The Most Bullish ETH Case Ever Made](https://www.youtube.com/watch?v=M0TiGvzHrLE)**
+
+See exactly what top investors are trading in real time: try Milk Road Pro for just $1 for 7 days: ...
+
+📺 Milk Road
+
+👁️ 945 • 👍 61 • 💬 12 • ⏱️ 36:12 • 4h ago
+
+---
+
 **[🚨 BTC &amp; ETH: THE NEXT 48 HOURS!!!!!!!!](https://www.youtube.com/watch?v=diH4qtGeY3c)**
 
 The next 48 hours will be the deciding force for crypto, bitcoin and ethereum as well as the oil prices. Here is my take on what to ...
 
 📺 Thomas Kralow
 
-👁️ 10K • 👍 2K • 💬 32 • ⏱️ 12:02 • 10h ago
+👁️ 12K • 👍 2K • 💬 33 • ⏱️ 12:02 • 11h ago
 
 ---
 
@@ -244,27 +254,7 @@ Follow me on X: @kross_roads 15% Off Fiscal.ai Plans! Unlock institutional-grade
 
 📺 Crossroads
 
-👁️ 2K • 👍 156 • 💬 27 • ⏱️ 13:21 • 7h ago
-
----
-
-**[Ethereum to $250K? The Most Bullish ETH Case Ever Made](https://www.youtube.com/watch?v=M0TiGvzHrLE)**
-
-See exactly what top investors are trading in real time: try Milk Road Pro for just $1 for 7 days: ...
-
-📺 Milk Road
-
-👁️ 360 • 👍 25 • 💬 6 • ⏱️ 36:12 • 3h ago
-
----
-
-**[Ethereum Holders - Its Happening Right Now](https://www.youtube.com/watch?v=89b-4Fa-Kj8)**
-
-Welcome Back To The Channel! ✔️ https://tylerhill.pro/Fortisx42026 ✔️ Deposit from $100: Get a 1% bonus ✔️ Withdraw ...
-
-📺 Tyler Hill Crypto
-
-👁️ 5K • 👍 225 • 💬 39 • ⏱️ 10:29 • 1d ago
+👁️ 3K • 👍 182 • 💬 44 • ⏱️ 13:21 • 8h ago
 
 ---
 
@@ -274,17 +264,27 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 4K • 👍 174 • 💬 62 • ⏱️ 1:24:23 • 10h ago
+👁️ 4K • 👍 282 • 💬 65 • ⏱️ 1:24:23 • 11h ago
 
 ---
 
-**[🚀 CONFIRMATIONS ARE IN! ETHEREUM &amp; MEME COINS READY TO EXPLODE?! BTC 85K TARGET 🔥 |PROPHETIC INSIGHT](https://www.youtube.com/watch?v=-J07SfgCg6w)**
+**[Ethereum Holders - Its Happening Right Now](https://www.youtube.com/watch?v=89b-4Fa-Kj8)**
 
-Crypto #Bitcoin #Ethereum #BTC #ETH #CryptoNews #Altcoins #CryptoPrediction #BullRun #CryptoMarket #XRP #ShibaInu ...
+Welcome Back To The Channel! ✔️ https://tylerhill.pro/Fortisx42026 ✔️ Deposit from $100: Get a 1% bonus ✔️ Withdraw ...
 
-📺 St.JamesCrypto
+📺 Tyler Hill Crypto
 
-👁️ 54 • 👍 14 • 💬 5 • ⏱️ 17:19 • 1h ago
+👁️ 5K • 👍 225 • 💬 41 • ⏱️ 10:29 • 1d ago
+
+---
+
+**[HUGE Ethereum Hack (Crypto GIANT Falls)](https://www.youtube.com/watch?v=ChAVedxnZhI)**
+
+Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Zoomex - https://partner.zoomex.com/aff/ZX904299 Toobit ...
+
+📺 Discover Crypto
+
+👁️ 204 • 👍 10 • ⏱️ 10:42 • 7m ago
 
 ---
 
@@ -294,27 +294,7 @@ Raoul Pal explores why Ethereum could become the most important infrastructure l
 
 📺 Raoul Pal The Journey Man
 
-👁️ 467 • 👍 18 • 💬 8 • ⏱️ 1:02 • 3h ago
-
----
-
-**[IT’S RIGGED! Buckle Up’ Bitcoin &amp; Crypto Holders](https://www.youtube.com/watch?v=Wji5JRqdlZk)**
-
-IT'S RIGGED! Buckle Up' Bitcoin & Crypto Holders ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily Become a ...
-
-📺 Altcoin Daily
-
-👁️ 48K • 👍 2K • 💬 160 • ⏱️ 11:59 • 2d ago
-
----
-
-**[🚨 XRP ABOUT TO EXPLODE BEYOND BITCOIN &amp; ETHEREUM!!! DON&#39;T MISS OUT](https://www.youtube.com/watch?v=BmNNwDBkCZ4)**
-
-Thanks for supporting the channel! Like, share, and comment if this helped clarify what's really happening. ⭐Join my Community ...
-
-📺 Crypto Sensei
-
-👁️ 2K • 👍 177 • 💬 9 • ⏱️ 1:22 • 4h ago
+👁️ 944 • 👍 32 • 💬 10 • ⏱️ 1:02 • 4h ago
 
 ---
 
@@ -324,7 +304,27 @@ The "Ethereum is Dead" narrative is back, and this time, the numbers actually lo
 
 📺 Discover Crypto
 
-👁️ 7K • 👍 404 • 💬 20 • ⏱️ 58:47 • 1d ago
+👁️ 7K • 👍 406 • 💬 20 • ⏱️ 58:47 • 1d ago
+
+---
+
+**[ETHEREUM BREAKOUT THIS WEEK!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=QzuYkiop8eE)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 201 • 👍 9 • 💬 2 • ⏱️ 4:32 • 14h ago
+
+---
+
+**[🚀 CONFIRMATIONS ARE IN! ETHEREUM &amp; MEME COINS READY TO EXPLODE?! BTC 85K TARGET 🔥 |PROPHETIC INSIGHT](https://www.youtube.com/watch?v=-J07SfgCg6w)**
+
+Crypto #Bitcoin #Ethereum #BTC #ETH #CryptoNews #Altcoins #CryptoPrediction #BullRun #CryptoMarket #XRP #ShibaInu ...
+
+📺 St.JamesCrypto
+
+👁️ 369 • 👍 57 • 💬 28 • ⏱️ 17:19 • 2h ago
 
 ---
 

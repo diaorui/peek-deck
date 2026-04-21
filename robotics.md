@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-21T22:08:27.066270+00:00'
+updated: '2026-04-21T23:07:40.048535+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 21, 2026 at 22:08 UTC  
+**Last Updated:** April 21, 2026 at 23:07 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2045783119702425841
 
-11h ago
+12h ago
 
 ---
 
@@ -44,7 +44,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2045783119702425841
 
 CNBC dropped a piece today worth reading. Chinese startups took the top 6 spots in global humanoid shipments in 2025. Figure and Tesla were the only US companies in the top 10. Figure is sitting at a $39B valuation having shipped around 150 units. Unitree ships thousands at $13k a piece. The "China builds the hardware, US builds the brain" take keeps coming up and I don't think it holds anymore. Chinese companies are competing on the AI model side too and closing the gap. On top of that, their EV supply chains already produce the actuators and precision components humanoids need, so they're repurposing existing manufacturing while US companies are building that from scratch. That's where the price gap comes from, not some difference in ambition. The other argument I keep seeing is that the shipped robots only do simple tasks, as if that invalidates the whole thing. Every deployed unit generates real world data that no amount of simulation or staged demos can match. You have to start shipping somewhere. The robots improve while being used, not while sitting in a lab waiting to be perfect.
 
-8h ago
+9h ago
 
 ---
 
@@ -52,7 +52,7 @@ CNBC dropped a piece today worth reading. Chinese startups took the top 6 spots 
 
 built a utility where you drop in a urdf (the robot's blueprint) and it generates a full leader for it. cad to print, motor placements, control code, all of it. kinematics stay identical just scaled down, so teleop works out of the box. motor placement is mostly solved with heuristics. routing links between them is still the hard part. https://x.com/pbshgthm/status/2046566239422853363 planning to make it lerobot compatible, so this can be used as a leader arm when printed out for any embodiment would love to know thoughts
 
-5h ago
+6h ago
 
 ---
 
@@ -60,19 +60,19 @@ built a utility where you drop in a urdf (the robot's blueprint) and it generate
 
 Hello everyone! I've successfully completed my Hobby RC four-legged robot model. The goal was to create a 3D-printable frame using carbon fiber and aluminum, capable of carrying a Raspberry Pi. It's now complete and running well. I'm happy to share this achievement with anyone passionate about Robotics Hobbies, and STEM. Thanks for watching
 
-9h ago
+10h ago
 
 ---
 
 **[A humanoid robot named Edward just chased a herd of wild boars out of Warsaw](https://www.reddit.com/r/robotics/comments/1srghex/a_humanoid_robot_named_edward_just_chased_a_herd/)**
 
-14h ago
+15h ago
 
 ---
 
 **[Low-Latency Wireless Teleoperation of Robot Hand using an IMU Glove!](https://www.reddit.com/r/robotics/comments/1sre4d7/lowlatency_wireless_teleoperation_of_robot_hand/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -80,7 +80,7 @@ Hello everyone! I've successfully completed my Hobby RC four-legged robot model.
 
 follow RobotShift for news in the transition from human workforce to that of a robot revolution. Analytical videos on the transitio.
 
-🔗 [youtu.be](https://youtu.be/LJxtV0LFqRw?si=pwbNXTSHTDTiBcsG) • 59m ago
+🔗 [youtu.be](https://youtu.be/LJxtV0LFqRw?si=pwbNXTSHTDTiBcsG) • 1h ago
 
 ---
 
@@ -104,7 +104,7 @@ Demonstration of real-time wireless teleoperation using a MANUS Metaglove to con
 
 I was looking through ATEC 2026 earlier, and the part that stuck with me most was the platform choice. What makes it interesting to me is that it seems less about a clean single demo and more about sustained outdoor autonomy — moving through rough terrain, handling objects, and staying reliable over a longer run. If you actually had to build for something like that, what would you pick? My first instinct is that a humanoid is attractive in theory, but I’m not sure it’s the best tradeoff once outdoor reliability becomes a real constraint. A quadruped with an arm, or maybe a wheeled-legged hybrid, feels more practical to me — but maybe I’m underestimating how much the extra dexterity matters. Curious what people here think is the best balance between: • mobility on ugly terrain • manipulation capability • control complexity • and just surviving real-world use
 
-5h ago
+6h ago
 
 ---
 
@@ -128,7 +128,7 @@ IEEE Spectrum • 1d ago
 
 **[Reliable Robotics pulls $160m, vision restoration gets $125m, and Jensen Hughes up for sale](https://www.axios.com/pro/all-deals/2026/04/21/pro-rata-premium-first-look-robotics-ray-gryphon)**
 
-Axios • 1h ago
+Axios • 2h ago
 
 ---
 
@@ -142,7 +142,7 @@ DefenseScoop • 1d ago
 
 **[SpaceX Alum’s Startup Nears $1 Billion Valuation in Pursuit of Uncrewed Flights](https://www.bloomberg.com/news/articles/2026-04-21/reliable-robotics-raises-more-cash-to-pursue-uncrewed-flights)**
 
-Bloomberg.com • 9h ago
+Bloomberg.com • 10h ago
 
 ---
 
@@ -150,7 +150,7 @@ Bloomberg.com • 9h ago
 
 A total of 37 companies joined The Crunchbase Unicorn Board in March, the highest monthly count in close to four years, Crunchbase data shows. The robotics sector led unicorn creation last month, with six new billion-dollar startups.
 
-Crunchbase News • 11h ago
+Crunchbase News • 12h ago
 
 ---
 
@@ -158,7 +158,7 @@ Crunchbase News • 11h ago
 
 Tesla (NASDAQ:TSLA) CEO Elon Musk is making a bold case for a future where artificial intelligence doesn't just improve the economy, but completely reshapes it to the point where even luxury living, like penthouses, could become widely accessible. In a...
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -166,7 +166,7 @@ Yahoo Finance • 6h ago
 
 Tesla, Inc. stock rated Hold: robotics narrative may be overhyped, Optimus lags rivals, valuation looks stretched. Click for this TSLA earnings preview.
 
-Seeking Alpha • 23h ago
+Seeking Alpha • 1d ago
 
 ---
 
@@ -182,7 +182,7 @@ Cornell Chronicle • 1d ago
 
 Reframe Systems, co-founded by MIT alumnus Vikas Enti, creates microfactories that use robotics for modular home construction. Homes can be constructed closer to where they&#039;re needed, reducing carbon emissions and costs.
 
-MIT News • 23m ago
+MIT News • 1h ago
 
 ---
 
@@ -190,43 +190,23 @@ MIT News • 23m ago
 
 ## YouTube Videos: "robotics"
 
-**[Robot beats human half-marathon world record • FRANCE 24 English](https://www.youtube.com/watch?v=SERKAWEQtOg)**
-
-China's technological developments were on full display, and at full speed, in the robot half-marathon in #Beijing on April 19.
-
-📺 FRANCE 24 English
-
-👁️ 10K • 👍 111 • 💬 10 • ⏱️ 0:48 • 1d ago
-
----
-
-**[New AI Robot From China Breaks Human Limits](https://www.youtube.com/watch?v=EJbJMg2RNgw)**
-
-AGIBOT just rolled out a full new wave of humanoid robots and AI models built for real deployment, while researchers in South ...
-
-📺 AI Revolution
-
-👁️ 19K • 👍 612 • 💬 36 • ⏱️ 16:29 • 21h ago
-
----
-
-**[Humanoid Robot Beats Human Record in Beijing](https://www.youtube.com/watch?v=XWmVqXpF84A)**
-
-Bloomberg's Minmin Low highlights a half marathon held in Beijing, where autonomous robots showcased significant ...
-
-📺 Bloomberg Television
-
-👁️ 43K • 👍 718 • 💬 220 • ⏱️ 5:51 • 1d ago
-
----
-
 **[AGIBOT A3 self-packing🤖 #humanoid #robot #ai](https://www.youtube.com/watch?v=Ag9i0xOIaSE)**
 
 Despite its impressive, human-like capabilities, the AGIBOT Expedition A3 has quite an 'un-human' — and rather quirky — way of ...
 
 📺 Cheddar
 
-👁️ 112K • 👍 818 • 💬 156 • ⏱️ 0:27 • 5d ago
+👁️ 113K • 👍 818 • 💬 156 • ⏱️ 0:27 • 5d ago
+
+---
+
+**[Robot beats human half-marathon world record • FRANCE 24 English](https://www.youtube.com/watch?v=SERKAWEQtOg)**
+
+China's technological developments were on full display, and at full speed, in the robot half-marathon in #Beijing on April 19.
+
+📺 FRANCE 24 English
+
+👁️ 11K • 👍 113 • 💬 10 • ⏱️ 0:48 • 1d ago
 
 ---
 
@@ -236,7 +216,63 @@ China just revealed an autonomous robot war pack built from dog bots, drones, la
 
 📺 AI Revolution
 
-👁️ 74K • 👍 1K • 💬 143 • ⏱️ 16:14 • 4d ago
+👁️ 74K • 👍 1K • 💬 143 • ⏱️ 16:14 • 5d ago
+
+---
+
+**[Humanoid Robot Beats Human Record in Beijing](https://www.youtube.com/watch?v=XWmVqXpF84A)**
+
+Bloomberg's Minmin Low highlights a half marathon held in Beijing, where autonomous robots showcased significant ...
+
+📺 Bloomberg Television
+
+👁️ 44K • 👍 724 • 💬 221 • ⏱️ 5:51 • 1d ago
+
+---
+
+**[New AI Robot From China Breaks Human Limits](https://www.youtube.com/watch?v=EJbJMg2RNgw)**
+
+AGIBOT just rolled out a full new wave of humanoid robots and AI models built for real deployment, while researchers in South ...
+
+📺 AI Revolution
+
+👁️ 20K • 👍 634 • 💬 39 • ⏱️ 16:29 • 22h ago
+
+---
+
+**[I Made a 3D Printed Gearbox. #3dprinting #gearbox #robotics #steppermotor](https://www.youtube.com/watch?v=vYnedIup1Nk)**
+
+I made a 3D printed gearbox for a Nema 17 stepper motor. I released the 3D files on Printables.com. Checkout the full video for ...
+
+📺 Advanced Hobby Lab
+
+👁️ 156K • 👍 2K • 💬 22 • ⏱️ 0:27 • 4d ago
+
+---
+
+**[The Future is Mass-Produced: Inside the Canton Fair Robotics Hall](https://www.youtube.com/watch?v=S0eEXTn3zX4)**
+
+You think robots are still sci-fi? Think again. I'm at the this year's Canton Fair to show you the reality of the Chinese automation ...
+
+📺 Eric Cracks China
+
+👁️ 104K • 👍 3K • 💬 162 • ⏱️ 1:54 • 3d ago
+
+---
+
+**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=FGOr4qFDqXg)**
+
+📺 Robot Julie 
+
+👁️ 18K • 👍 49 • ⏱️ 0:24 • 21h ago
+
+---
+
+**[$7,000 welding robot#welding #machine #factory #robot #industrialrobot](https://www.youtube.com/watch?v=SuC3IC_wcqw)**
+
+📺 BerontRobotPeng6
+
+👁️ 25K • 👍 194 • 💬 4 • ⏱️ 0:26 • 1d ago
 
 ---
 
@@ -247,42 +283,6 @@ Physical Intelligence is building a foundation model that can control any robot 
 📺 Y Combinator
 
 👁️ 50K • 👍 1K • 💬 62 • ⏱️ 49:27 • 5d ago
-
----
-
-**[“Companion” Robots](https://www.youtube.com/watch?v=6LsJimVJwK0)**
-
-📺 Tom from Texas
-
-👁️ 40K • 👍 900 • 💬 70 • ⏱️ 0:23 • 5d ago
-
----
-
-**[I Made a 3D Printed Gearbox. #3dprinting #gearbox #robotics #steppermotor](https://www.youtube.com/watch?v=vYnedIup1Nk)**
-
-I made a 3D printed gearbox for a Nema 17 stepper motor. I released the 3D files on Printables.com. Checkout the full video for ...
-
-📺 Advanced Hobby Lab
-
-👁️ 151K • 👍 2K • 💬 21 • ⏱️ 0:27 • 4d ago
-
----
-
-**[We Built a Modular Robot Arm!](https://www.youtube.com/watch?v=zAj-0EwdepQ)**
-
-Check out our latest 3D printing project: a fully modular robot arm! Watch as it snaps together and moves with precision. What do ...
-
-📺 polyforge
-
-👁️ 29K • 👍 656 • 💬 15 • ⏱️ 0:17 • 6d ago
-
----
-
-**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=FGOr4qFDqXg)**
-
-📺 Robot Julie 
-
-👁️ 18K • 👍 49 • ⏱️ 0:24 • 20h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-21T22:08:27.057225+00:00'
+updated: '2026-04-21T23:07:40.039485+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 21, 2026 at 22:08 UTC  
+**Last Updated:** April 21, 2026 at 23:07 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1513.40B
+**Market Cap:** $1516.62B
 Rank #1
 
-**Circulating Supply:** 20,019,012 BTC
+**Circulating Supply:** 20,019,046 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--40.0%
+-39.9%
 
 **All-Time Low:** $67.81
-+111420.4%
++111665.2%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 https://youtu.be/tlRr1wStdow I kept seeing people argue about whether crypto or real estate is the better investment, but nobody was actually running the full numbers. So I did. Same starting point for both: - $30,000 to invest - Same year (2015) - Same city, same income Here's what I found after accounting for EVERYTHING: REAL ESTATE (Rental Property): → $30K down on a $150K property → Tenant paying $1,400/month rent → Sounds great... until you add: - Property taxes: $15,000 over 10 years - Insurance: $12,000 - Repairs/maintenance: $30,000 - Vacancy (1 month/year avg): $15,000 - 600 hours of your own time managing it After ALL real costs → roughly $175,000 to $195,000 in total equity after 10 years BITCOIN (Held without selling): → $30K invested in 2015 → Watched it drop 84% in 2018 → Watched it drop 77% in 2022 → Did NOT sell either time After 10 years → roughly $1.5M to $2M (after capital gains tax) So crypto wins, right? Not so fast. Here's the part nobody talks about: Studies show fewer than 8% of Bitcoin buyers actually held through both crashes without selling. The other 92% panic sold at the bottom and locked in massive losses — ending up WORSE than the real estate investor. Real estate had one massive hidden advantage: You literally CANNOT panic sell a house at 2AM. The illiquidity that feels like a weakness is actually what protects most people from destroying their own returns. So the real answer is: it depends entirely on which type of investor YOU are. Happy to answer any questions on the math in the comments.
 
-7h ago
+8h ago
 
 ---
 
 **[People who understand Bitcoin don't come here asking if now is a good time to buy some](https://www.reddit.com/r/Bitcoin/comments/1srupu6/people_who_understand_bitcoin_dont_come_here/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -95,7 +95,7 @@ https://youtu.be/tlRr1wStdow I kept seeing people argue about whether crypto or 
 
 A clip of "Professor Jiang" went viral claiming the CIA created Bitcoin. This guy doesn't know Satoshi's name. He doesn't know what a decentralized network is. He thinks Bitcoin runs on servers in a CIA basement. This is not the first time this guy has embarrassed himself talking about Bitcoin. I brokedown every argument and every contradiction point by point.
 
-🔗 [youtu.be](https://youtu.be/wjlH4AWyhCY) • 7h ago
+🔗 [youtu.be](https://youtu.be/wjlH4AWyhCY) • 8h ago
 
 ---
 
@@ -103,7 +103,7 @@ A clip of "Professor Jiang" went viral claiming the CIA created Bitcoin. This gu
 
 Someone was asking how to invest their money and I said 50% S&P500 and 50% BTC and I got perma banned for “Hyping/pushing speculative, volatile, illiquid, or meme investments, flippantly, tersely, or implying huge returns” Lmao Edit:come to think of it I’m pretty sure I didn’t even recommend buying Bitcoin I recommended buying BTC ETF’s which makes my ban even crazier
 
-16h ago
+17h ago
 
 ---
 
@@ -111,7 +111,7 @@ Someone was asking how to invest their money and I said 50% S&P500 and 50% BTC a
 
 Everyone is talking about the 4-year cycle hitting $80k and then crashing back to $50k. Is this a 'bull trap' reality or just outdated TA? What’s your take?
 
-2h ago
+3h ago
 
 ---
 
@@ -119,7 +119,7 @@ Everyone is talking about the 4-year cycle hitting $80k and then crashing back t
 
 A quote from Warren Buffett: A short quiz: If you plan to eat hamburgers throughout your life and are not a cattle producer, should you wish for higher or lower prices for beef? Likewise, if you are going to buy a car from time to time but are not an auto manufacturer, should you prefer higher or lower car prices? These questions, of course, answer themselves. But now for the final exam: If you expect to be a net saver during the next five years, should you hope for a higher or lower stock market during that period? Many investors get this one wrong. Even though they are going to be net buyers of stocks for many years to come, they are elated when stock prices rise and depressed when they fall. In effect, they rejoice because prices have risen for the ‘hamburgers’ they will soon be buying. This reaction makes no sense. Only those who will be sellers of equities in the near future should be happy at seeing stocks rise. Prospective purchasers should much prefer sinking prices. Assuming the majority of people on this sub are not near retirement, then you still plan to buy more BTC in the future than you currently have. You'll be able to buy more of it if the price is lower. So you should be cheering when it falls, and that is why the current "dip" is a blessing. This doesn't apply if you are planning to liquidate soon, of course. Then you should want the price to skyrocket. Source: https://www.roywalkerwealth.com/2018/01/warren-buffett-on-hamburgers.html
 
-22h ago
+23h ago
 
 ---
 
@@ -127,7 +127,7 @@ A quote from Warren Buffett: A short quiz: If you plan to eat hamburgers through
 
 Been learning more about Bitcoin and it’s growing on me. What’s the one thing you like most about it?
 
-5h ago
+6h ago
 
 ---
 
@@ -135,7 +135,7 @@ Been learning more about Bitcoin and it’s growing on me. What’s the one thin
 
 No fiat currency has survived 100 years with its purchasing power meaningfully intact. The British pound has lost over 99% of its value since 1900. The US dollar has lost roughly 96% since the Federal Reserve was established in 1913. The German mark, the French franc, and the Italian lira were all replaced entirely. Of the 750+ fiat currencies that have ever existed throughout history, the majority are now defunct, ended by hyperinflation, war, regime change, or deliberate debasement. Bitcoin offers a structurally different model: a hard cap of 21M coins, enforced by code that cannot be altered without consensus from tens of thousands of globally distributed node operators. No committee sets the monetary policy. No central bank can expand the supply. Whether that's desirable depends on your macro views. Flexible monetary policy advocates argue that you need the ability to expand and contract the supply to manage economic cycles. Fixed supply advocates argue you're just trading short-term stability for long-term erosion that has destroyed every fiat regime in history. The experiment is still ongoing to answer the question: Over a 100-year horizon, does a fixed mathematical protocol preserve value more reliably than a century of consistent political discipline across all major governments? Source: https://www.coingecko.com/learn/bitcoin-100-year-survival-thesis
 
-12h ago
+13h ago
 
 ---
 
@@ -143,7 +143,7 @@ No fiat currency has survived 100 years with its purchasing power meaningfully i
 
 Who gives a flip tuesday! stop buying shit you dont want to impress people you dont like! just chill out and let it be there, slowly keep stacking and buying, spare to live, sitback relax, learn self custody, learn nodes, learn passphrase, there's so much fun shit to do in live instead of impressing morons!
 
-14h ago
+15h ago
 
 ---
 
@@ -151,7 +151,7 @@ Who gives a flip tuesday! stop buying shit you dont want to impress people you d
 
 On episode 250 of my podcast ‘Bitcoin for Millennials’ I talked with Saifedean Ammous, author of The Bitcoin Standard. We discuss Bitcoin as forced adoption, the money supply question that breaks fiat narratives, inflation’s link to time preference and institutional propaganda, energy use and the politics of scarcity, and a hard-money future of declining interest rates with equity replacing credit. Hope you enjoy!
 
-🔗 [youtu.be](https://youtu.be/jODwF4N8Vjc) • 11h ago
+🔗 [youtu.be](https://youtu.be/jODwF4N8Vjc) • 12h ago
 
 ---
 
@@ -163,7 +163,7 @@ On episode 250 of my podcast ‘Bitcoin for Millennials’ I talked with Saifede
 
 The S&P 500 and Nasdaq gave back their early morning gains alongside BTC as markets digested the Fed Chair nominee's Senate confirmation hearing.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -171,7 +171,7 @@ CoinDesk • 1h ago
 
 BlackRock's IBIT absorbed $871 million last week even as Iran tensions dragged bitcoin toward $71,000. Analysts say the record flows show who is buying the dip.
 
-Forbes • 17h ago
+Forbes • 18h ago
 
 ---
 
@@ -179,7 +179,7 @@ Forbes • 17h ago
 
 A senior United States military commander has broken ranks with conventional Pentagon scepticism on cryptocurrency. In a Senate Armed Services Committee (SASC) hearing on April 21, Admiral Samuel Paparo, commander of the U.S. Indo-Pacific Command (INDOPACOM), endorsed Bitcoin's potential for ...
 
-Yahoo Finance Australia • 46m ago
+Yahoo Finance Australia • 1h ago
 
 ---
 
@@ -187,7 +187,7 @@ Yahoo Finance Australia • 46m ago
 
 A new documentary digs into Bitcoin’s origins, reframing the search for Satoshi Nakamoto as both a technical investigation and a deeply human story.
 
-CoinDesk • 12m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -225,7 +225,7 @@ The Block • 1d ago
 
 **[Strategy Interest Costs Jump On Biggest Bitcoin Buy Since 2024](https://www.investors.com/news/mstr-stock-strategy-interest-costs-jump-bitcoin-price-biggest-buy-since-2024/)**
 
-Investor's Business Daily • 8h ago
+Investor's Business Daily • 9h ago
 
 ---
 
@@ -233,7 +233,7 @@ Investor's Business Daily • 8h ago
 
 Fake crypto clearance demands are targeting ships stranded at Hormuz as the Iran conflict enters its third month.
 
-Decrypt • 9h ago
+Decrypt • 10h ago
 
 ---
 
@@ -327,47 +327,7 @@ The charts are in charge, folks. In today's video, we strip away the emotion and
 
 📺 Gareth Soloway
 
-👁️ 33K • 👍 2K • 💬 185 • ⏱️ 9:18 • 10h ago
-
----
-
-**[Bitcoin Did THIS The Last Time The Russell 2000 Hit A ATH](https://www.youtube.com/watch?v=-vEuT7SnCuQ)**
-
-https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 1% bonus Check out Ledn: https://aaronbtc.com/ledn Bitcoin 2026 10% off: ...
-
-📺 Aaron Bennett
-
-👁️ 4K • 👍 276 • 💬 27 • ⏱️ 9:32 • 17h ago
-
----
-
-**[Bitcoin Holders.. The Bubble Is About To Pop](https://www.youtube.com/watch?v=RWY3g_qRkV4)**
-
-Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=AltcoinDaily BTC Conference 2026 ...
-
-📺 Altcoin Daily
-
-👁️ 48K • 👍 2K • 💬 174 • ⏱️ 8:27 • 2d ago
-
----
-
-**[Bitcoin Rallies to the Bear Market Resistance Band](https://www.youtube.com/watch?v=tZ05ZUlaO8w)**
-
-Bitcoin has rallied back into a key technical area, the Bear Market Resistance Band, formed by the 20-week SMA and 21-week ...
-
-📺 Benjamin Cowen
-
-👁️ 92K • 👍 6K • 💬 190 • ⏱️ 11:41 • 1d ago
-
----
-
-**[This Data Says Bitcoin Is About To Explode | Are You Ready?](https://www.youtube.com/watch?v=c3t4CHROkg8)**
-
-Big money is quietly moving into Bitcoin and the signals are getting louder. From politicians stacking BTC to Wall Street stepping ...
-
-📺 Simply Bitcoin
-
-👁️ 31K • 👍 2K • 💬 145 • ⏱️ 12:00 • 1d ago
+👁️ 37K • 👍 2K • 💬 226 • ⏱️ 9:18 • 11h ago
 
 ---
 
@@ -377,7 +337,37 @@ Everyone is Wrong about Bitcoin Big picture for bitcoin Most can't see what's co
 
 📺 Camel Finance
 
-👁️ 10K • 👍 779 • 💬 144 • ⏱️ 22:37 • 12h ago
+👁️ 11K • 👍 817 • 💬 148 • ⏱️ 22:37 • 13h ago
+
+---
+
+**[Bitcoin Rallies to the Bear Market Resistance Band](https://www.youtube.com/watch?v=tZ05ZUlaO8w)**
+
+Bitcoin has rallied back into a key technical area, the Bear Market Resistance Band, formed by the 20-week SMA and 21-week ...
+
+📺 Benjamin Cowen
+
+👁️ 94K • 👍 6K • 💬 199 • ⏱️ 11:41 • 1d ago
+
+---
+
+**[Bitcoin Holders.. The Bubble Is About To Pop](https://www.youtube.com/watch?v=RWY3g_qRkV4)**
+
+Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=AltcoinDaily BTC Conference 2026 ...
+
+📺 Altcoin Daily
+
+👁️ 49K • 👍 2K • 💬 174 • ⏱️ 8:27 • 2d ago
+
+---
+
+**[This Data Says Bitcoin Is About To Explode | Are You Ready?](https://www.youtube.com/watch?v=c3t4CHROkg8)**
+
+Big money is quietly moving into Bitcoin and the signals are getting louder. From politicians stacking BTC to Wall Street stepping ...
+
+📺 Simply Bitcoin
+
+👁️ 31K • 👍 2K • 💬 145 • ⏱️ 12:00 • 2d ago
 
 ---
 
@@ -387,7 +377,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRus Extra
 
-👁️ 5K • 👍 282 • 💬 106 • ⏱️ 8:28 • 22h ago
+👁️ 5K • 👍 286 • 💬 106 • ⏱️ 8:28 • 23h ago
 
 ---
 
@@ -397,25 +387,37 @@ The next 48 hours will be the deciding force for crypto, bitcoin and ethereum as
 
 📺 Thomas Kralow
 
-👁️ 10K • 👍 2K • 💬 32 • ⏱️ 12:02 • 10h ago
+👁️ 12K • 👍 2K • 💬 33 • ⏱️ 12:02 • 11h ago
 
 ---
 
-**[All Roads Lead to Bitcoin](https://www.youtube.com/watch?v=F_tHjEWyF5Y)**
+**[Why Bitcoin Is Outperforming Everything Right Now](https://www.youtube.com/watch?v=caT7djAfibY)**
 
-📺 THE JACK MALLERS SHOW
+Crypto #Bitcoin #CryptoNews #Investing #yahoofinance #StockMarket #Macro #FederalReserve April 21, 2026 —Nothing in ...
 
-👁️ 17K • 👍 963 • 💬 217 • ⏱️ 1:59:50 • 21h ago
+📺 Yahoo Finance
+
+👁️ 3K • 👍 192 • 💬 6 • ⏱️ 14:52 • 6h ago
 
 ---
 
-**[The Last Time Bitcoin ETFs Did THIS, CRYPTO Crashed 30% (What&#39;s Different?)](https://www.youtube.com/watch?v=oP3QH0J9MY0)**
+**[Bitcoin Thrives In Chaos As Crypto &amp; DeFi Crumbles In Real Time!](https://www.youtube.com/watch?v=pBTEkWrYB_M)**
 
-The risk models I use to track accumulation and distribution zones. Free trial https://app.cryptocapitalventure.ai Follow Me On ...
+Bitcoin #Crypto #Finance Bitcoin continues to outperform through chaos—war, bank runs, and market stress—while institutions ...
 
-📺 Crypto Capital Venture
+📺 The Wolf Of All Streets
 
-👁️ 8K • 👍 512 • 💬 209 • ⏱️ 16:03 • 1d ago
+👁️ 8K • 👍 410 • 💬 132 • ⏱️ 57:38 • 8h ago
+
+---
+
+**[Bitcoin Did THIS The Last Time The Russell 2000 Hit A ATH](https://www.youtube.com/watch?v=-vEuT7SnCuQ)**
+
+https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 1% bonus Check out Ledn: https://aaronbtc.com/ledn Bitcoin 2026 10% off: ...
+
+📺 Aaron Bennett
+
+👁️ 4K • 👍 283 • 💬 27 • ⏱️ 9:32 • 18h ago
 
 ---
 
