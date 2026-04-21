@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-21T20:27:17.299622+00:00'
+updated: '2026-04-21T21:22:22.692309+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 21, 2026 at 20:27 UTC  
+**Last Updated:** April 21, 2026 at 21:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2045783119702425841
 
-9h ago
+10h ago
 
 ---
 
@@ -44,7 +44,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2045783119702425841
 
 CNBC dropped a piece today worth reading. Chinese startups took the top 6 spots in global humanoid shipments in 2025. Figure and Tesla were the only US companies in the top 10. Figure is sitting at a $39B valuation having shipped around 150 units. Unitree ships thousands at $13k a piece. The "China builds the hardware, US builds the brain" take keeps coming up and I don't think it holds anymore. Chinese companies are competing on the AI model side too and closing the gap. On top of that, their EV supply chains already produce the actuators and precision components humanoids need, so they're repurposing existing manufacturing while US companies are building that from scratch. That's where the price gap comes from, not some difference in ambition. The other argument I keep seeing is that the shipped robots only do simple tasks, as if that invalidates the whole thing. Every deployed unit generates real world data that no amount of simulation or staged demos can match. You have to start shipping somewhere. The robots improve while being used, not while sitting in a lab waiting to be perfect.
 
-6h ago
+7h ago
 
 ---
 
@@ -52,7 +52,7 @@ CNBC dropped a piece today worth reading. Chinese startups took the top 6 spots 
 
 built a utility where you drop in a urdf (the robot's blueprint) and it generates a full leader for it. cad to print, motor placements, control code, all of it. kinematics stay identical just scaled down, so teleop works out of the box. motor placement is mostly solved with heuristics. routing links between them is still the hard part. https://x.com/pbshgthm/status/2046566239422853363 planning to make it lerobot compatible, so this can be used as a leader arm when printed out for any embodiment would love to know thoughts
 
-3h ago
+4h ago
 
 ---
 
@@ -60,19 +60,19 @@ built a utility where you drop in a urdf (the robot's blueprint) and it generate
 
 Hello everyone! I've successfully completed my Hobby RC four-legged robot model. The goal was to create a 3D-printable frame using carbon fiber and aluminum, capable of carrying a Raspberry Pi. It's now complete and running well. I'm happy to share this achievement with anyone passionate about Robotics Hobbies, and STEM. Thanks for watching
 
-8h ago
+9h ago
 
 ---
 
 **[A humanoid robot named Edward just chased a herd of wild boars out of Warsaw](https://www.reddit.com/r/robotics/comments/1srghex/a_humanoid_robot_named_edward_just_chased_a_herd/)**
 
-13h ago
+14h ago
 
 ---
 
 **[Low-Latency Wireless Teleoperation of Robot Hand using an IMU Glove!](https://www.reddit.com/r/robotics/comments/1sre4d7/lowlatency_wireless_teleoperation_of_robot_hand/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -88,7 +88,7 @@ T.Yamazaki on 𝕏: https://x.com/ZappyZappy7/status/2046192595802656933 High To
 
 I was looking through ATEC 2026 earlier, and the part that stuck with me most was the platform choice. What makes it interesting to me is that it seems less about a clean single demo and more about sustained outdoor autonomy — moving through rough terrain, handling objects, and staying reliable over a longer run. If you actually had to build for something like that, what would you pick? My first instinct is that a humanoid is attractive in theory, but I’m not sure it’s the best tradeoff once outdoor reliability becomes a real constraint. A quadruped with an arm, or maybe a wheeled-legged hybrid, feels more practical to me — but maybe I’m underestimating how much the extra dexterity matters. Curious what people here think is the best balance between: • mobility on ugly terrain • manipulation capability • control complexity • and just surviving real-world use
 
-3h ago
+4h ago
 
 ---
 
@@ -104,7 +104,7 @@ Demonstration of real-time wireless teleoperation using a MANUS Metaglove to con
 
 Hi everyone, I'm going to build a robotic arm with 3 degrees of freedom. I asked Gemini and he suggested using edge computing. According to him, it basically involves putting a microcontroller (like the ESP32), the power electronics components and the encoder, on a single board (behind each motor). He told me this because if I only put the encoder behind the motors and ran cables through the robotic arm to a motherboard with the controller and frequency controllers, it would probably cause a lot of noise. But I don't know if his idea will work properly. I was thinking of working with cables, someone can help me ? https://preview.redd.it/3v1mrkrcolwg1.png?width=1437&format=png&auto=webp&s=f87aa46a0c15f53bbbd43ac40976c08d37bd3416
 
-17m ago
+1h ago
 
 ---
 
@@ -128,7 +128,7 @@ IEEE Spectrum • 1d ago
 
 **[Reliable Robotics pulls $160m, vision restoration gets $125m, and Jensen Hughes up for sale](https://www.axios.com/pro/all-deals/2026/04/21/pro-rata-premium-first-look-robotics-ray-gryphon)**
 
-Axios • 13m ago
+Axios • 1h ago
 
 ---
 
@@ -136,7 +136,7 @@ Axios • 13m ago
 
 Tesla (NASDAQ:TSLA) CEO Elon Musk is making a bold case for a future where artificial intelligence doesn't just improve the economy, but completely reshapes it to the point where even luxury living, like penthouses, could become widely accessible. In a...
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -152,7 +152,7 @@ DefenseScoop • 23h ago
 
 A total of 37 companies joined The Crunchbase Unicorn Board in March, the highest monthly count in close to four years, Crunchbase data shows. The robotics sector led unicorn creation last month, with six new billion-dollar startups.
 
-Crunchbase News • 9h ago
+Crunchbase News • 10h ago
 
 ---
 
@@ -206,7 +206,7 @@ AGIBOT just rolled out a full new wave of humanoid robots and AI models built fo
 
 📺 AI Revolution
 
-👁️ 19K • 👍 612 • 💬 36 • ⏱️ 16:29 • 20h ago
+👁️ 19K • 👍 612 • 💬 36 • ⏱️ 16:29 • 21h ago
 
 ---
 
@@ -282,7 +282,7 @@ Check out our latest 3D printing project: a fully modular robot arm! Watch as it
 
 📺 Robot Julie 
 
-👁️ 18K • 👍 49 • ⏱️ 0:24 • 18h ago
+👁️ 18K • 👍 49 • ⏱️ 0:24 • 19h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-21T20:27:17.290533+00:00'
+updated: '2026-04-21T21:22:22.683100+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- cryptocurrency
-- news
 - videos
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 21, 2026 at 20:27 UTC  
+**Last Updated:** April 21, 2026 at 21:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[People who understand Bitcoin don't come here asking if now is a good time to buy some](https://www.reddit.com/r/Bitcoin/comments/1srupu6/people_who_understand_bitcoin_dont_come_here/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 https://youtu.be/tlRr1wStdow I kept seeing people argue about whether crypto or real estate is the better investment, but nobody was actually running the full numbers. So I did. Same starting point for both: - $30,000 to invest - Same year (2015) - Same city, same income Here's what I found after accounting for EVERYTHING: REAL ESTATE (Rental Property): → $30K down on a $150K property → Tenant paying $1,400/month rent → Sounds great... until you add: - Property taxes: $15,000 over 10 years - Insurance: $12,000 - Repairs/maintenance: $30,000 - Vacancy (1 month/year avg): $15,000 - 600 hours of your own time managing it After ALL real costs → roughly $175,000 to $195,000 in total equity after 10 years BITCOIN (Held without selling): → $30K invested in 2015 → Watched it drop 84% in 2018 → Watched it drop 77% in 2022 → Did NOT sell either time After 10 years → roughly $1.5M to $2M (after capital gains tax) So crypto wins, right? Not so fast. Here's the part nobody talks about: Studies show fewer than 8% of Bitcoin buyers actually held through both crashes without selling. The other 92% panic sold at the bottom and locked in massive losses — ending up WORSE than the real estate investor. Real estate had one massive hidden advantage: You literally CANNOT panic sell a house at 2AM. The illiquidity that feels like a weakness is actually what protects most people from destroying their own returns. So the real answer is: it depends entirely on which type of investor YOU are. Happy to answer any questions on the math in the comments.
 
-5h ago
+6h ago
 
 ---
 
@@ -95,7 +95,7 @@ https://youtu.be/tlRr1wStdow I kept seeing people argue about whether crypto or 
 
 A clip of "Professor Jiang" went viral claiming the CIA created Bitcoin. This guy doesn't know Satoshi's name. He doesn't know what a decentralized network is. He thinks Bitcoin runs on servers in a CIA basement. This is not the first time this guy has embarrassed himself talking about Bitcoin. I brokedown every argument and every contradiction point by point.
 
-🔗 [youtu.be](https://youtu.be/wjlH4AWyhCY) • 5h ago
+🔗 [youtu.be](https://youtu.be/wjlH4AWyhCY) • 6h ago
 
 ---
 
@@ -103,7 +103,7 @@ A clip of "Professor Jiang" went viral claiming the CIA created Bitcoin. This gu
 
 Someone was asking how to invest their money and I said 50% S&P500 and 50% BTC and I got perma banned for “Hyping/pushing speculative, volatile, illiquid, or meme investments, flippantly, tersely, or implying huge returns” Lmao Edit:come to think of it I’m pretty sure I didn’t even recommend buying Bitcoin I recommended buying BTC ETF’s which makes my ban even crazier
 
-15h ago
+16h ago
 
 ---
 
@@ -111,7 +111,7 @@ Someone was asking how to invest their money and I said 50% S&P500 and 50% BTC a
 
 A quote from Warren Buffett: A short quiz: If you plan to eat hamburgers throughout your life and are not a cattle producer, should you wish for higher or lower prices for beef? Likewise, if you are going to buy a car from time to time but are not an auto manufacturer, should you prefer higher or lower car prices? These questions, of course, answer themselves. But now for the final exam: If you expect to be a net saver during the next five years, should you hope for a higher or lower stock market during that period? Many investors get this one wrong. Even though they are going to be net buyers of stocks for many years to come, they are elated when stock prices rise and depressed when they fall. In effect, they rejoice because prices have risen for the ‘hamburgers’ they will soon be buying. This reaction makes no sense. Only those who will be sellers of equities in the near future should be happy at seeing stocks rise. Prospective purchasers should much prefer sinking prices. Assuming the majority of people on this sub are not near retirement, then you still plan to buy more BTC in the future than you currently have. You'll be able to buy more of it if the price is lower. So you should be cheering when it falls, and that is why the current "dip" is a blessing. This doesn't apply if you are planning to liquidate soon, of course. Then you should want the price to skyrocket. Source: https://www.roywalkerwealth.com/2018/01/warren-buffett-on-hamburgers.html
 
-21h ago
+22h ago
 
 ---
 
@@ -119,7 +119,7 @@ A quote from Warren Buffett: A short quiz: If you plan to eat hamburgers through
 
 No fiat currency has survived 100 years with its purchasing power meaningfully intact. The British pound has lost over 99% of its value since 1900. The US dollar has lost roughly 96% since the Federal Reserve was established in 1913. The German mark, the French franc, and the Italian lira were all replaced entirely. Of the 750+ fiat currencies that have ever existed throughout history, the majority are now defunct, ended by hyperinflation, war, regime change, or deliberate debasement. Bitcoin offers a structurally different model: a hard cap of 21M coins, enforced by code that cannot be altered without consensus from tens of thousands of globally distributed node operators. No committee sets the monetary policy. No central bank can expand the supply. Whether that's desirable depends on your macro views. Flexible monetary policy advocates argue that you need the ability to expand and contract the supply to manage economic cycles. Fixed supply advocates argue you're just trading short-term stability for long-term erosion that has destroyed every fiat regime in history. The experiment is still ongoing to answer the question: Over a 100-year horizon, does a fixed mathematical protocol preserve value more reliably than a century of consistent political discipline across all major governments? Source: https://www.coingecko.com/learn/bitcoin-100-year-survival-thesis
 
-10h ago
+11h ago
 
 ---
 
@@ -149,7 +149,7 @@ Been learning more about Bitcoin and it’s growing on me. What’s the one thin
 
 On episode 250 of my podcast ‘Bitcoin for Millennials’ I talked with Saifedean Ammous, author of The Bitcoin Standard. We discuss Bitcoin as forced adoption, the money supply question that breaks fiat narratives, inflation’s link to time preference and institutional propaganda, energy use and the politics of scarcity, and a hard-money future of declining interest rates with equity replacing credit. Hope you enjoy!
 
-🔗 [youtu.be](https://youtu.be/jODwF4N8Vjc) • 9h ago
+🔗 [youtu.be](https://youtu.be/jODwF4N8Vjc) • 10h ago
 
 ---
 
@@ -161,7 +161,7 @@ On episode 250 of my podcast ‘Bitcoin for Millennials’ I talked with Saifede
 
 The S&P 500 and Nasdaq gave back their early morning gains alongside BTC as markets digested the Fed Chair nominee's Senate confirmation hearing.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -169,7 +169,7 @@ CoinDesk • 1h ago
 
 BlackRock's IBIT absorbed $871 million last week even as Iran tensions dragged bitcoin toward $71,000. Analysts say the record flows show who is buying the dip.
 
-Forbes • 15h ago
+Forbes • 16h ago
 
 ---
 
@@ -177,7 +177,7 @@ Forbes • 15h ago
 
 Coinbase Global (NASDAQ:COIN) stock is down 7% today, sliding from $211.63 to $197.69, while Bitcoin (CRYPTO:BTC) is only down slightly, off 1.24% and trading near $75,521. That’s a striking gap. When COIN falls so much faster than Bitcoin on the same day, it tells you the selloff is Coinbase-specific, not a broad crypto market move. ... Coinbase Drops 7% as the Decoupling From Bitcoin Signals Clarity Act Fatigue
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -185,13 +185,13 @@ Yahoo Finance • 1h ago
 
 Data shows the Bitcoin Fear & Greed Index has recovered to its highest level since mid-January, a sign that belief is returning among crypto traders.Bitcoin Fear & Greed Index Has Hit A Value Of 33The “Fear & Greed Index” is an indicator created by Alternative that measures the average sentiment pr…
 
-TradingView • 1h ago
+TradingView • 2h ago
 
 ---
 
 **[Is BTC, ETH, SOL, XRP trend reversal here? Bitcoin leads $1.48B inflows](https://seekingalpha.com/news/4577433-is-btc-eth-sol-xrp-trend-reversal-here-bitcoin-leads-148b-inflows)**
 
-Seeking Alpha • 42m ago
+Seeking Alpha • 1h ago
 
 ---
 
@@ -199,7 +199,7 @@ Seeking Alpha • 42m ago
 
 BlackRock U.S. head of equity ETFs Jay Jacobs discusses market volatility amid tensions with Iran and makes the case for bitcoin as a portfolio diversifier on ‘The Claman Countdown.’
 
-Fox Business • 23h ago
+Fox Business • 1d ago
 
 ---
 
@@ -231,7 +231,7 @@ The Block • 1d ago
 
 The world's top cryptocurrency still looks like a compelling investment.
 
-The Motley Fool • 3h ago
+The Motley Fool • 4h ago
 
 ---
 
@@ -311,7 +311,7 @@ A deeply technical early Bitcoiner realized that self-custody is only as strong 
 
 Speculation, dead‑end investigations and conspiracy theories have surrounded him for years
 
-⬆️ 2 • 💬 0 • 1d ago • [EL PAÍS English](https://english.elpais.com/economy-and-business/2026-04-19/satoshi-nakamoto-the-reclusive-billionaire-behind-bitcoin-the-best-outcome-is-that-no-one-ever-finds-out.html)
+⬆️ 2 • 💬 0 • 2d ago • [EL PAÍS English](https://english.elpais.com/economy-and-business/2026-04-19/satoshi-nakamoto-the-reclusive-billionaire-behind-bitcoin-the-best-outcome-is-that-no-one-ever-finds-out.html)
 
 ---
 
@@ -325,7 +325,7 @@ The charts are in charge, folks. In today's video, we strip away the emotion and
 
 📺 Gareth Soloway
 
-👁️ 33K • 👍 2K • 💬 185 • ⏱️ 9:18 • 8h ago
+👁️ 33K • 👍 2K • 💬 185 • ⏱️ 9:18 • 9h ago
 
 ---
 
@@ -335,7 +335,7 @@ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 1% bonus Check out 
 
 📺 Aaron Bennett
 
-👁️ 4K • 👍 276 • 💬 27 • ⏱️ 9:32 • 15h ago
+👁️ 4K • 👍 276 • 💬 27 • ⏱️ 9:32 • 16h ago
 
 ---
 
@@ -375,7 +375,7 @@ Everyone is Wrong about Bitcoin Big picture for bitcoin Most can't see what's co
 
 📺 Camel Finance
 
-👁️ 10K • 👍 779 • 💬 144 • ⏱️ 22:37 • 11h ago
+👁️ 10K • 👍 779 • 💬 144 • ⏱️ 22:37 • 12h ago
 
 ---
 
@@ -385,7 +385,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRus Extra
 
-👁️ 5K • 👍 282 • 💬 106 • ⏱️ 8:28 • 20h ago
+👁️ 5K • 👍 282 • 💬 106 • ⏱️ 8:28 • 21h ago
 
 ---
 
@@ -395,7 +395,7 @@ The next 48 hours will be the deciding force for crypto, bitcoin and ethereum as
 
 📺 Thomas Kralow
 
-👁️ 10K • 👍 2K • 💬 32 • ⏱️ 12:02 • 9h ago
+👁️ 10K • 👍 2K • 💬 32 • ⏱️ 12:02 • 10h ago
 
 ---
 
@@ -403,7 +403,7 @@ The next 48 hours will be the deciding force for crypto, bitcoin and ethereum as
 
 📺 THE JACK MALLERS SHOW
 
-👁️ 17K • 👍 963 • 💬 217 • ⏱️ 1:59:50 • 20h ago
+👁️ 17K • 👍 963 • 💬 217 • ⏱️ 1:59:50 • 21h ago
 
 ---
 

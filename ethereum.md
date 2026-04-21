@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-21T20:27:17.296478+00:00'
+updated: '2026-04-21T21:22:22.689139+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- cryptocurrency
-- news
 - videos
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 21, 2026 at 20:27 UTC  
+**Last Updated:** April 21, 2026 at 21:22 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
 **[Arbitrum freezing $71M in ETH tied to Kelp DAO is a reminder that “decentralized” doesn’t always mean unstoppable](https://www.reddit.com/r/ethereum/comments/1srv422/arbitrum_freezing_71m_in_eth_tied_to_kelp_dao_is/)**
 
-🔗 [websnack.org](https://websnack.org/news/arbitrum-freezes-71m-eth-kelp-dao-apr-2026) • 2h ago
+🔗 [websnack.org](https://websnack.org/news/arbitrum-freezes-71m-eth-kelp-dao-apr-2026) • 3h ago
 
 ---
 
@@ -150,7 +150,7 @@ Feels kinda bigger than a normal crypto meetup tbh Ethereum getting a real physi
 
 Ethereum offers more stable returns with clearer long-term catalysts.
 
-The Motley Fool • 3h ago
+The Motley Fool • 4h ago
 
 ---
 
@@ -158,7 +158,7 @@ The Motley Fool • 3h ago
 
 A new paper from a pro-Ethereum group argues the world’s second-largest cryptocurrency should hit $250,000 per coin. But it relies, in part, on an assumption that DeFi will grow over time That assumption has been severely tested this week. The paper also took several shots at Bitcoin and gold, calling them “dead capital.”
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -172,7 +172,7 @@ Yahoo Finance • 1d ago
 
 **[Large cryptocurrencies mixed as Ethereum falls](https://www.marketwatch.com/data-news/large-cryptocurrencies-mixed-as-ethereum-falls-ad4f1e91-faec5d5fd43e)**
 
-MarketWatch • 6h ago
+MarketWatch • 7h ago
 
 ---
 
@@ -180,7 +180,7 @@ MarketWatch • 6h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 7h ago
+Fortune • 8h ago
 
 ---
 
@@ -212,7 +212,7 @@ thestreet.com • 2d ago
 
 Ethereum markets are shaken by rising energy costs from the US-Iran conflict. Ethereum priced between $2,200-$2,300 on April 13 at 100% YES.
 
-Crypto Briefing • 1h ago
+Crypto Briefing • 2h ago
 
 ---
 
@@ -234,7 +234,7 @@ The next 48 hours will be the deciding force for crypto, bitcoin and ethereum as
 
 📺 Thomas Kralow
 
-👁️ 10K • 👍 2K • 💬 32 • ⏱️ 12:02 • 9h ago
+👁️ 10K • 👍 2K • 💬 32 • ⏱️ 12:02 • 10h ago
 
 ---
 
@@ -244,7 +244,7 @@ Follow me on X: @kross_roads 15% Off Fiscal.ai Plans! Unlock institutional-grade
 
 📺 Crossroads
 
-👁️ 2K • 👍 156 • 💬 27 • ⏱️ 13:21 • 6h ago
+👁️ 2K • 👍 156 • 💬 27 • ⏱️ 13:21 • 7h ago
 
 ---
 
@@ -254,7 +254,7 @@ See exactly what top investors are trading in real time: try Milk Road Pro for j
 
 📺 Milk Road
 
-👁️ 360 • 👍 25 • 💬 6 • ⏱️ 36:12 • 1h ago
+👁️ 360 • 👍 25 • 💬 6 • ⏱️ 36:12 • 2h ago
 
 ---
 
@@ -274,7 +274,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 4K • 👍 174 • 💬 62 • ⏱️ 1:24:23 • 8h ago
+👁️ 4K • 👍 174 • 💬 62 • ⏱️ 1:24:23 • 9h ago
 
 ---
 
@@ -284,7 +284,7 @@ Crypto #Bitcoin #Ethereum #BTC #ETH #CryptoNews #Altcoins #CryptoPrediction #Bul
 
 📺 St.JamesCrypto
 
-👁️ 54 • 👍 14 • 💬 5 • ⏱️ 17:19 • 17m ago
+👁️ 54 • 👍 14 • 💬 5 • ⏱️ 17:19 • 1h ago
 
 ---
 
@@ -294,7 +294,7 @@ Raoul Pal explores why Ethereum could become the most important infrastructure l
 
 📺 Raoul Pal The Journey Man
 
-👁️ 467 • 👍 18 • 💬 8 • ⏱️ 1:02 • 1h ago
+👁️ 467 • 👍 18 • 💬 8 • ⏱️ 1:02 • 2h ago
 
 ---
 
@@ -314,7 +314,7 @@ Thanks for supporting the channel! Like, share, and comment if this helped clari
 
 📺 Crypto Sensei
 
-👁️ 2K • 👍 177 • 💬 9 • ⏱️ 1:22 • 2h ago
+👁️ 2K • 👍 177 • 💬 9 • ⏱️ 1:22 • 3h ago
 
 ---
 
