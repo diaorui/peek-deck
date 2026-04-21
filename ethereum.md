@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-21T11:19:02.596043+00:00'
+updated: '2026-04-21T12:41:55.333702+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - videos
+- social
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 21, 2026 at 11:19 UTC  
+**Last Updated:** April 21, 2026 at 12:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,307.43
+### $2,317.98
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.1%  
-**7d:** -1.8%  
-**30d:** +7.7%  
-**90d:** -21.5%  
-**1y:** +31.9%  
+**24h:** -0.5%  
+**7d:** -2.4%  
+**30d:** +7.0%  
+**90d:** -22.0%  
+**1y:** +31.1%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+7h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 39.0 million ETH is now staked, exactly 32.02% of the total supply. It's over $90B worth of ETH at current prices, that’s a huge share of the network committed to securing it and one of the strongest signals of long-term participation we’ve seen so far. As we see, despite ongoing global uncertainty and volatile market conditions, staking activity continues to grow. Instead of pulling back, more ETH is being locked into the network. That suggests a certain level of confidence from participants who are thinking long-term rather than reacting to short-term noise. From a structural perspective, this also affects supply dynamics. As more ETH moves into staking, the liquid supply available on the market decreases. It doesn’t mean those coins are gone, but they are less likely to be actively traded. Over time, this can change how the market responds to demand. At the same time, staking plays a critical role beyond price, it strengthens network security and aligns incentives across participants. Of course, none of this guarantees immediate price movement. Markets are influenced by many factors. But it does highlight how Ethereum’s underlying fundamentals continue to evolve. Full post: https://x.com/everstake_pool/status/2046178353548308981
 
-20h ago
+21h ago
 
 ---
 
@@ -128,17 +128,17 @@ Feels kinda bigger than a normal crypto meetup tbh Ethereum getting a real physi
 
 ---
 
-**[Key Takeaways from Mike Toutonghi’s Paris Blockchain Week 2026 Keynote](https://www.reddit.com/r/ethereum/comments/1sps1nj/key_takeaways_from_mike_toutonghis_paris/)**
+**[On April 18, a hacker minted 116,500 rsETH tokens out of nothing.](https://www.reddit.com/r/ethereum/comments/1spvsfd/on_april_18_a_hacker_minted_116500_rseth_tokens/)**
 
-1d ago
+On April 18, a hacker minted 116,500 rsETH tokens out of nothing. Not stolen from a wallet. Created from a forged cross-chain message, a phantom packet that told Kelp DAO’s bridge to release real tokens backed by zero collateral. The attacker deposited those phantom tokens as collateral on Aave and borrowed $236 million in real ETH against them. Within hours, $5.4 billion fled Aave. The protocol’s ETH pool hit 100% utilization. AAVE dropped 19%. Then Justin Sun withdrew $154 million from Aave. After securing his own exit, he posted publicly: “Kelpdao hacker, how much you want? Let’s just talk. You can’t spend $300 million anyway.” The man who extracted first offered to negotiate second. But that is not the deepest layer. The deepest layer is this: April 2026 just produced a single month in which every major system failure on earth was caused by the same mechanism. Not hacking. Not force. Verification Cost Inversion. Every system trusted a representation of value instead of verifying the value itself. And every system collapsed at the exact point where trust replaced verification. The rsETH was a representation of staked ETH. Nobody verified the cross-chain message that created it. A single DVN verifier, a 1-of-1 trust assumption, was the entire security model for a bridge holding $292 million. The representation said “backed.” The reality said “phantom.” Aave accepted the representation.
+
+🔗 [X (formerly Twitter)](https://x.com/i/status/2045872866944848108) • 1d ago
 
 ---
 
-**[Daily General Discussion April 18, 2026](https://www.reddit.com/r/ethereum/comments/1soo7xp/daily_general_discussion_april_18_2026/)**
+**[Key Takeaways from Mike Toutonghi’s Paris Blockchain Week 2026 Keynote](https://www.reddit.com/r/ethereum/comments/1sps1nj/key_takeaways_from_mike_toutonghis_paris/)**
 
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-3d ago
+1d ago
 
 ---
 
@@ -150,7 +150,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Canaan Inc. (NASDAQ:CAN) is one of the best Ethereum stocks to buy now. On April 15, Canaan Inc. (NASDAQ:CAN) released its unaudited Bitcoin mining update for March 2026, in which it reported that it mined 89 BTC, bringing the total BTC holding to 1,808 coins, and that the Ethereum holding during the month totaled 3,952 […]
 
-Yahoo Finance • 24m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -158,21 +158,15 @@ Yahoo Finance • 24m ago
 
 The cryptocurrency market encountered a sell-off on Monday but has quickly bounced back, with most major coins now in the green.Ethereum, the second-largest cryptocurrency by market cap, is trading above $2,300 once again after dropping below $2,250 on Monday.Ethereum could continue its upward move…
 
-TradingView • 2h ago
+TradingView • 3h ago
 
 ---
 
-**[SharpLink (SBET) Just Fired Its Ethereum Managers, and That May Be a Good Sign](https://finance.yahoo.com/markets/crypto/articles/sharplink-sbet-just-fired-ethereum-105523849.html)**
+**[Bitcoin and ethereum prices today, Tuesday, April 21, 2026: Prices on the rise this morning](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-april-21-2026-prices-on-the-rise-this-morning-113401602.html)**
 
-SharpLink, Inc. (NASDAQ:SBET) is one of the best Ethereum stocks to buy now. On April 3, SharpLink, Inc. (NASDAQ:SBET) disclosed in an SEC Form 8-K filing that it had ended ParaFi Capital LP and Galaxy Digital Capital Management LP’s roles as discretionary managers of the company’s Ethereum treasury. The mutual termination arrangements will be effected […]
+Bitcoin and ethereum prices are showing strength this morning. Bitcoin opened at $75,854.80. The value of bitcoin at 7.20 a.m. ET was $76,535.42. Ethereum opened at $2,314.41 on Tuesday. The value of ethereum at 7:20 a.m. ET was $2,322.01.
 
-Yahoo Finance • 23m ago
-
----
-
-**[Bitcoin Price Tops $76,000, Strategy Purchase Fuels Crypto Gains. XRP, Ethereum Rise.](https://www.barrons.com/articles/bitcoin-price-crypto-strategy-xrp-ethereum-043e606c)**
-
-Barron's • 48m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -180,7 +174,13 @@ Barron's • 48m ago
 
 BitMine Immersion Technologies (NYSE: $BMNR) bought $230 million U.S. of Ethereum (CRYPTO: $ETH) over the past week...
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 23h ago
+
+---
+
+**[Bitcoin Price Tops $76,000, Strategy Purchase Fuels Crypto Gains. XRP, Ethereum Rise.](https://www.barrons.com/articles/bitcoin-price-crypto-strategy-xrp-ethereum-043e606c)**
+
+Barron's • 1h ago
 
 ---
 
@@ -194,15 +194,7 @@ CoinDesk • 2d ago
 
 **[‘Security over speed’: Why Vitalik Buterin’s narrative shift matters for Ethereum](https://ambcrypto.com/security-over-speed-why-vitalik-buterins-narrative-shift-matters-for-ethereum/)**
 
-AMBCrypto • 2h ago
-
----
-
-**[Current price of Ethereum for April 20, 2026](https://fortune.com/article/price-of-ethereum-04-20-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 22h ago
+AMBCrypto • 3h ago
 
 ---
 
@@ -210,13 +202,21 @@ Fortune • 22h ago
 
 Dubai, UAE, April  20, 2026  (GLOBE NEWSWIRE) -- Crypto news on Pepeto is moving at a speed no presale has matched this year. Heavy buyers are flo...
 
-markets.businessinsider.com • 15h ago
+markets.businessinsider.com • 16h ago
 
 ---
 
 **[Most large cryptocurrencies rise on Ethereum, Avalanche increases](https://www.marketwatch.com/data-news/most-large-cryptocurrencies-rise-on-ethereum-avalanche-increases-da482e07-f13b7e1250e1)**
 
-MarketWatch • 21h ago
+MarketWatch • 22h ago
+
+---
+
+**[Why I withdrew everything from Aave this weekend](https://www.thestreet.com/crypto/markets/why-i-withdrew-everything-from-aave-this-weekend)**
+
+Why I withdrew every dollar from Aave V3 this weekend, and what every USDT, USDC, and ETH lender should be watching before they decide to stay.
+
+thestreet.com • 1d ago
 
 ---
 
@@ -230,7 +230,7 @@ Welcome Back To The Channel! ✔️ https://tylerhill.pro/Fortisx42026 ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 4K • 👍 219 • 💬 44 • ⏱️ 10:29 • 18h ago
+👁️ 4K • 👍 219 • 💬 44 • ⏱️ 10:29 • 19h ago
 
 ---
 
@@ -240,7 +240,7 @@ The "Ethereum is Dead" narrative is back, and this time, the numbers actually lo
 
 📺 Discover Crypto
 
-👁️ 7K • 👍 397 • 💬 20 • ⏱️ 58:47 • 19h ago
+👁️ 7K • 👍 397 • 💬 20 • ⏱️ 58:47 • 21h ago
 
 ---
 
@@ -250,7 +250,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 65 • 👍 3 • 💬 1 • ⏱️ 4:32 • 2h ago
+👁️ 65 • 👍 3 • 💬 1 • ⏱️ 4:32 • 3h ago
 
 ---
 
@@ -260,7 +260,7 @@ BITCOIN HOLDERS: It's Happening AGAIN (Prepare Now)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 6K • 👍 289 • 💬 60 • ⏱️ 22:14 • 13h ago
+👁️ 6K • 👍 289 • 💬 60 • ⏱️ 22:14 • 14h ago
 
 ---
 
@@ -278,7 +278,7 @@ IT'S RIGGED! Buckle Up' Bitcoin & Crypto Holders ⭐ Follow Altcoin Daily on X: 
 
 📺 Digital Asset Investor
 
-👁️ 691 • 👍 19 • ⏱️ 0:34 • 1h ago
+👁️ 691 • 👍 19 • ⏱️ 0:34 • 2h ago
 
 ---
 
@@ -298,7 +298,7 @@ Ripple's XRPL DeFi is Built Safer & Smarter Than Ethereum's! Exposed by Biggest 
 
 📺 CryptoWendyO
 
-👁️ 2K • 👍 207 • 💬 10 • ⏱️ 3:15 • 14h ago
+👁️ 2K • 👍 207 • 💬 10 • ⏱️ 3:15 • 15h ago
 
 ---
 

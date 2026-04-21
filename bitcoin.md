@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-21T11:19:02.589844+00:00'
+updated: '2026-04-21T12:41:55.327406+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - videos
+- social
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 21, 2026 at 11:19 UTC  
+**Last Updated:** April 21, 2026 at 12:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $76,492.65
+### $76,271.02
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.5%  
-**7d:** +2.1%  
-**30d:** +7.7%  
-**90d:** -14.7%  
-**1y:** -18.2%  
+**24h:** +1.0%  
+**7d:** +1.6%  
+**30d:** +7.2%  
+**90d:** -15.2%  
+**1y:** -18.7%  
 
 ---
 
@@ -81,21 +81,13 @@ Rank #1
 
 A quote from Warren Buffett: A short quiz: If you plan to eat hamburgers throughout your life and are not a cattle producer, should you wish for higher or lower prices for beef? Likewise, if you are going to buy a car from time to time but are not an auto manufacturer, should you prefer higher or lower car prices? These questions, of course, answer themselves. But now for the final exam: If you expect to be a net saver during the next five years, should you hope for a higher or lower stock market during that period? Many investors get this one wrong. Even though they are going to be net buyers of stocks for many years to come, they are elated when stock prices rise and depressed when they fall. In effect, they rejoice because prices have risen for the ‘hamburgers’ they will soon be buying. This reaction makes no sense. Only those who will be sellers of equities in the near future should be happy at seeing stocks rise. Prospective purchasers should much prefer sinking prices. Assuming the majority of people on this sub are not near retirement, then you still plan to buy more BTC in the future than you currently have. You'll be able to buy more of it if the price is lower. So you should be cheering when it falls, and that is why the current "dip" is a blessing. This doesn't apply if you are planning to liquidate soon, of course. Then you should want the price to skyrocket. Source: https://www.roywalkerwealth.com/2018/01/warren-buffett-on-hamburgers.html
 
-11h ago
+13h ago
 
 ---
 
 **[Someone vandalized the Satoshi statue in Lugano again](https://www.reddit.com/r/Bitcoin/comments/1sr1i6u/someone_vandalized_the_satoshi_statue_in_lugano/)**
 
-15h ago
-
----
-
-**[In 2026 sold PS5 to buy more Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1srcq8b/in_2026_sold_ps5_to_buy_more_bitcoin/)**
-
-most people buying new things in 2026...
-
-7h ago
+16h ago
 
 ---
 
@@ -103,7 +95,15 @@ most people buying new things in 2026...
 
 Who gives a flip tuesday! stop buying shit you dont want to impress people you dont like! just chill out and let it be there, slowly keep stacking and buying, spare to live, sitback relax, learn self custody, learn nodes, learn passphrase, there's so much fun shit to do in live instead of impressing morons!
 
-3h ago
+5h ago
+
+---
+
+**[In 2026 sold PS5 to buy more Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1srcq8b/in_2026_sold_ps5_to_buy_more_bitcoin/)**
+
+most people buying new things in 2026...
+
+8h ago
 
 ---
 
@@ -111,13 +111,13 @@ Who gives a flip tuesday! stop buying shit you dont want to impress people you d
 
 A couple of years ago, I honestly thought Bitcoin was just hype I saw people making crazy gains, then losing everything just as fast. It felt like gambling more than investing. I even tried getting in once, but I sold too early because I couldn’t handle the volatility So I stepped away But recently, I started looking at it differently. Instead of thinking “how much can I make?”, I started asking “why does this even exist?” and “why are institutions slowly getting involved?” I’m still not all-in, and I’m definitely more cautious now. But I’ve stopped chasing quick gains and started treating it as something long-term Not sure if that’s the “right” approach, but it feels a lot less stressful than before Curious how others here went through their own mindset shifts Did anyone else go through a similar phase? Or am I just overthinking this?”
 
-8h ago
+10h ago
 
 ---
 
 **[Cooked to Perfection](https://www.reddit.com/r/Bitcoin/comments/1sr2pe5/cooked_to_perfection/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -125,7 +125,23 @@ A couple of years ago, I honestly thought Bitcoin was just hype I saw people mak
 
 Live U.S. House of Representatives stock trading disclosures, visualized as an animated pixel-art auction block.
 
-🔗 [Prixe](https://prixe.io/blog/us_politics#/politician/hon_sheri_biggs/2026_03_04/ishares_bitcoin_trust_etf) • 11h ago
+🔗 [Prixe](https://prixe.io/blog/us_politics#/politician/hon_sheri_biggs/2026_03_04/ishares_bitcoin_trust_etf) • 13h ago
+
+---
+
+**[Bitcoin's Forced Adoption Is Already Underway (Saifedean Ammous)](https://www.reddit.com/r/Bitcoin/comments/1srjwl6/bitcoins_forced_adoption_is_already_underway/)**
+
+On episode 250 of my podcast ‘Bitcoin for Millennials’ I talked with Saifedean Ammous, author of The Bitcoin Standard. We discuss Bitcoin as forced adoption, the money supply question that breaks fiat narratives, inflation’s link to time preference and institutional propaganda, energy use and the politics of scarcity, and a hard-money future of declining interest rates with equity replacing credit. Hope you enjoy!
+
+🔗 [youtu.be](https://youtu.be/jODwF4N8Vjc) • 2h ago
+
+---
+
+**[Over 750 fiat currencies have existed throughout history, most are dead. But BTC is different.](https://www.reddit.com/r/Bitcoin/comments/1srj7as/over_750_fiat_currencies_have_existed_throughout/)**
+
+No fiat currency has survived 100 years with its purchasing power meaningfully intact. The British pound has lost over 99% of its value since 1900. The US dollar has lost roughly 96% since the Federal Reserve was established in 1913. The German mark, the French franc, and the Italian lira were all replaced entirely. Of the 750+ fiat currencies that have ever existed throughout history, the majority are now defunct, ended by hyperinflation, war, regime change, or deliberate debasement. Bitcoin offers a structurally different model: a hard cap of 21M coins, enforced by code that cannot be altered without consensus from tens of thousands of globally distributed node operators. No committee sets the monetary policy. No central bank can expand the supply. Whether that's desirable depends on your macro views. Flexible monetary policy advocates argue that you need the ability to expand and contract the supply to manage economic cycles. Fixed supply advocates argue you're just trading short-term stability for long-term erosion that has destroyed every fiat regime in history. The experiment is still ongoing to answer the question: Over a 100-year horizon, does a fixed mathematical protocol preserve value more reliably than a century of consistent political discipline across all major governments? Source: https://www.coingecko.com/learn/bitcoin-100-year-survival-thesis
+
+2h ago
 
 ---
 
@@ -133,23 +149,7 @@ Live U.S. House of Representatives stock trading disclosures, visualized as an a
 
 A Polish speed skater who finished just outside the medals at the Milan–Cortina Winter Olympics says he is still waiting to access an award payment that was transferred to an account on cryptocurrency platform Zondacrypto, adding a personal dimension to a widening political and financial scandal in Poland. The company has faced complaints from users over delayed or frozen withdrawals and has said that a large amount of bitcoin remains locked in an inaccessible wallet. The case has spilled into national politics after Prime Minister Donald Tusk told parliament that the platform had links to Russian-linked funds and accused opposition politicians of benefiting from its financing, allegations that are now being examined by prosecutors and security agencies. Lawmakers on Friday again failed to override President Karol Nawrocki’s veto of a crypto‑asset market bill, leaving Poland’s implementation of EU MiCA rules blocked for now.
 
-🔗 [tvpworld.com](https://tvpworld.com/92802851/polish-olympian-awaits-payment-as-zondacrypto-scandal-hits-politics) • 7h ago
-
----
-
-**[No, Bitcoin has its own unique qualities; it is not just another financial speculative tool for Wall Street.](https://www.reddit.com/r/Bitcoin/comments/1srbgbk/no_bitcoin_has_its_own_unique_qualities_it_is_not/)**
-
-It is not just another financial speculative tool for Wall Street.
-
-8h ago
-
----
-
-**[While newbies worry about geopolitics, Strategy acquired additional 34,164 BTC because of geopolitics, and now HODL 815,061 bitcoin](https://www.reddit.com/r/Bitcoin/comments/1sqq1eb/while_newbies_worry_about_geopolitics_strategy/)**
-
-Strategy has acquired 34,164 BTC for ~$2.54 billion at ~$74,395 per bitcoin and has achieved BTC Yield of 9.5% YTD 2026. As of 4/19/2026, we hodl 815,061 BTC acquired for ~$61.56 billion at ~$75,527 per bitcoin.
-
-🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-34164-btc-and-now-holds-815061-btc_04-20-2026) • 21h ago
+🔗 [tvpworld.com](https://tvpworld.com/92802851/polish-olympian-awaits-payment-as-zondacrypto-scandal-hits-politics) • 9h ago
 
 ---
 
@@ -161,35 +161,35 @@ Strategy has acquired 34,164 BTC for ~$2.54 billion at ~$74,395 per bitcoin and 
 
 Crypto steadied despite rising Iran tensions, but DeFi is reeling from one of the largest exploits of the year.
 
-CoinDesk • 14h ago
+CoinDesk • 5h ago
 
 ---
 
 **[Strategy Buys $2.54 Billion of Bitcoin, Most Since Late 2024](https://www.bloomberg.com/news/articles/2026-04-20/strategy-buys-2-54-billion-of-bitcoin-most-since-november-2024)**
 
-Bloomberg.com • 21h ago
+Bloomberg • 22h ago
 
 ---
 
-**[Would This New Proposal Destroy Bitcoin Forever?](https://www.fool.com/investing/2026/04/21/would-this-new-proposal-destroy-bitcoin-forever/)**
+**[Bitcoin Rises as Risk Appetite Resumes](https://www.barrons.com/articles/bitcoin-price-crypto-xrp-ethereum-043e606c)**
 
-The coin is in the process of navigating an existential threat.
-
-The Motley Fool • 9m ago
+Barron's • 5m ago
 
 ---
 
-**[Bitcoin Price Tops $76,000, Strategy Purchase Fuels Crypto Gains. XRP, Ethereum Rise.](https://www.barrons.com/articles/bitcoin-price-crypto-strategy-xrp-ethereum-043e606c)**
+**[Bitcoin and ethereum prices today, Tuesday, April 21, 2026: Prices on the rise this morning](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-april-21-2026-prices-on-the-rise-this-morning-113401602.html)**
 
-Barron's • 48m ago
-
----
-
-**[Bitcoin: Still the Strongest Moat in Crypto](https://finance.yahoo.com/markets/crypto/articles/bitcoin-still-strongest-moat-crypto-100200492.html)**
-
-By viewing digital assets similarly to businesses, it's clear that the dominant cryptocurrency is in a league of its own.
+Bitcoin and ethereum prices are showing strength this morning. Bitcoin opened at $75,854.80. The value of bitcoin at 7.20 a.m. ET was $76,535.42. Ethereum opened at $2,314.41 on Tuesday. The value of ethereum at 7:20 a.m. ET was $2,322.01.
 
 Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin, USDT ‘safe passage’ scam hits Hormuz as one ship reportedly duped and fired upon](https://www.coindesk.com/business/2026/04/21/crypto-scammers-offer-safe-passage-through-hormuz-at-least-one-ship-may-have-been-conned)**
+
+A shipping risk firm reported fake ‘safe passage’ offers demanding crypto payments as tensions choke traffic through the strait.
+
+CoinDesk • 2h ago
 
 ---
 
@@ -197,7 +197,7 @@ Yahoo Finance • 1h ago
 
 BlackRock's IBIT absorbed $871 million last week even as Iran tensions dragged bitcoin toward $71,000. Analysts say the record flows show who is buying the dip.
 
-Forbes • 6h ago
+Forbes • 7h ago
 
 ---
 
@@ -205,7 +205,15 @@ Forbes • 6h ago
 
 The enterprise software company and bitcoin treasury on Monday said that it bought more than $2.5 billion worth of the cryptocurrency recently.
 
-Investopedia • 15h ago
+Investopedia • 16h ago
+
+---
+
+**[XRP vs. Bitcoin: Which Cryptocurrency to Buy Right Now?](https://www.fool.com/investing/2026/04/21/xrp-vs-bitcoin-which-cryptocurrency-to-buy-right-n/)**
+
+Digital asset markets are struggling in 2026. What comes next?
+
+The Motley Fool • 26m ago
 
 ---
 
@@ -213,21 +221,15 @@ Investopedia • 15h ago
 
 Jason Lowery, the ex-Space Force innovator behind the explosive “Softwar” theory that treats Bitcoin hashing power as the next gunpowder, just landed a dream advisory gig directly under the U.S. Indo-Pacific Command Commander — right as Iran floats accepting Bitcoin for Strait of Hormuz passage.
 
-Bitcoin Magazine • 17h ago
+Bitcoin Magazine • 19h ago
 
 ---
 
-**[Bitcoin risks losing $70K as Strategy's STRC slips below $100](https://www.tradingview.com/news/cointelegraph:a4c89ca06094b:0-bitcoin-risks-losing-70k-as-strategy-s-strc-slips-below-100/)**
+**[Bitcoin April 21 daily chart alert - Bulls gaining confidence](https://www.kitco.com/news/article/2026-04-21/bitcoin-april-21-daily-chart-alert-bulls-gaining-confidence)**
 
-Bitcoin BITSTAMP:BTCUSD rose 2.66% to around $75,800 on Monday after Strategy disclosed a $2.54 billion purchase, the company’s third biggest ever, and equivalent to about 2.5 months of new BTC supply.However, several indicators suggest the rally may fizzle out.Key takeaways:Strategy may halt BTC p…
+The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
 
-TradingView • 2h ago
-
----
-
-**[Strategy Interest Costs Jump On Biggest Bitcoin Buy Since 2024](https://www.investors.com/news/mstr-stock-strategy-interest-costs-jump-bitcoin-price-biggest-buy-since-2024/)**
-
-Investor's Business Daily • 16h ago
+KITCO • 10m ago
 
 ---
 
@@ -239,7 +241,7 @@ Investor's Business Daily • 16h ago
 
 The global economic system is evolving: The left wants to redistribute. The right wants to deregulate. Both are missing the point.
 
-⬆️ 4 • 💬 2 • 21h ago • [The Alignment Economy](https://alignmenteconomy.org)
+⬆️ 4 • 💬 2 • 22h ago • [The Alignment Economy](https://alignmenteconomy.org)
 
 ---
 
@@ -253,7 +255,7 @@ The global economic system is evolving: The left wants to redistribute. The righ
 
 The Blockstream CEO’s approach contrasts with BIP-361, a proposal that would implement mandatory freezes of quantum-vulnerable Bitcoin.
 
-⬆️ 4 • 💬 1 • 4d ago • [Decrypt](https://decrypt.co/364562/adam-back-pushes-for-optional-upgrades-to-quantum-proof-bitcoin)
+⬆️ 4 • 💬 1 • 5d ago • [Decrypt](https://decrypt.co/364562/adam-back-pushes-for-optional-upgrades-to-quantum-proof-bitcoin)
 
 ---
 
@@ -261,7 +263,7 @@ The Blockstream CEO’s approach contrasts with BIP-361, a proposal that would i
 
 Neha Narula
 
-⬆️ 3 • 💬 2 • 17h ago • [nehanarula.org](https://nehanarula.org/2026/04/20/bitcoin-and-quantum-a-roadmap.html)
+⬆️ 3 • 💬 2 • 18h ago • [nehanarula.org](https://nehanarula.org/2026/04/20/bitcoin-and-quantum-a-roadmap.html)
 
 ---
 
@@ -277,7 +279,7 @@ Part one explained the physics of quantum computing. This piece explains the tar
 
 C64 Bitcoin wallet. Contribute to geek197/c64wallet development by creating an account on GitHub.
 
-⬆️ 3 • 💬 0 • 5d ago • [GitHub](https://github.com/geek197/c64wallet)
+⬆️ 3 • 💬 0 • 6d ago • [GitHub](https://github.com/geek197/c64wallet)
 
 ---
 
@@ -321,7 +323,7 @@ Nick Valdez looks at the latest developments with the Strait of Hormuz and it's 
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 295 • 💬 71 • ⏱️ 6:30 • 13h ago
+👁️ 5K • 👍 295 • 💬 71 • ⏱️ 6:30 • 14h ago
 
 ---
 
@@ -351,7 +353,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRus Extra
 
-👁️ 4K • 👍 260 • 💬 56 • ⏱️ 8:28 • 11h ago
+👁️ 4K • 👍 260 • 💬 56 • ⏱️ 8:28 • 13h ago
 
 ---
 
@@ -371,7 +373,7 @@ Thank you for taking the time to watch. If you want to support these videos, you
 
 📺 Doctor of Pump & Dump
 
-👁️ 6K • 👍 500 • 💬 118 • ⏱️ 30:46 • 17h ago
+👁️ 6K • 👍 500 • 💬 118 • ⏱️ 30:46 • 18h ago
 
 ---
 
@@ -381,7 +383,7 @@ Crypto #Bitcoin #CryptoNews #Investing #yahoofinance Michael Saylor's “Bitcoin
 
 📺 Yahoo Finance
 
-👁️ 5K • 👍 44 • 💬 5 • ⏱️ 0:54 • 17h ago
+👁️ 5K • 👍 44 • 💬 5 • ⏱️ 0:54 • 18h ago
 
 ---
 
@@ -391,7 +393,7 @@ The risk models I use to track accumulation and distribution zones. Free trial h
 
 📺 Crypto Capital Venture
 
-👁️ 8K • 👍 486 • 💬 189 • ⏱️ 16:03 • 19h ago
+👁️ 8K • 👍 486 • 💬 189 • ⏱️ 16:03 • 20h ago
 
 ---
 
@@ -401,7 +403,7 @@ Everyone is Wrong about Bitcoin Big picture for bitcoin Most can't see what's co
 
 📺 Camel Finance
 
-👁️ 2K • 👍 275 • 💬 45 • ⏱️ 22:37 • 2h ago
+👁️ 2K • 👍 275 • 💬 45 • ⏱️ 22:37 • 3h ago
 
 ---
 
@@ -411,7 +413,7 @@ Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro max, and th
 
 📺 Crypto Jebb
 
-👁️ 4K • 👍 238 • 💬 17 • ⏱️ 48:28 • 19h ago
+👁️ 4K • 👍 238 • 💬 17 • ⏱️ 48:28 • 20h ago
 
 ---
 

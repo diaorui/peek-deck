@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-21T11:19:02.581148+00:00'
+updated: '2026-04-21T12:41:55.318536+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
 - videos
 - repositories
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 21, 2026 at 11:19 UTC  
+**Last Updated:** April 21, 2026 at 12:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,23 +41,7 @@ AI news, discussions, and developments
 
 : £330M deal leaves service with no ownership of software built to connect trusts to the platform
 
-🔗 [theregister.com](https://www.theregister.com/2026/04/20/palantir_nhs_break_clause/) • 8h ago
-
----
-
-**[Honest opinion about AI](https://www.reddit.com/r/artificial/comments/1sr1vhi/honest_opinion_about_ai/)**
-
-I'm a developer by profession, and I've used AI to generate stuff that I know how to do myself and also stuff I have no idea about. Coding for my day to day using AI, I know exactly what to do and how to do it so i end up making features way faster than before. But every time I try to generate something that i have no deep understanding about - like content for a blog or demo videos (remotion + 11labs), or newsletters or social media posts, I always end up making something sloppy (AI slop). AI is here to stay, and instead of replacing people it might end up making people more valuable than before. I think it's high time to double down on fundamentals and make ourselves more knowledgeable and valuable.
-
-14h ago
-
----
-
-**[Project Idea. Dream display project. 3 LLMs spitball the idea and tech specs and programs needed.](https://www.reddit.com/r/artificial/comments/1srfd8h/project_idea_dream_display_project_3_llms/)**
-
-3 AI models discussing this subject.
-
-🔗 [rauno.ai](https://rauno.ai/c/JIUOBRNQLY) • 5h ago
+🔗 [theregister.com](https://www.theregister.com/2026/04/20/palantir_nhs_break_clause/) • 9h ago
 
 ---
 
@@ -65,7 +49,39 @@ I'm a developer by profession, and I've used AI to generate stuff that I know ho
 
 I'm curious about your thoughts and experience on it. In any field.
 
-8m ago
+1h ago
+
+---
+
+**[Honest opinion about AI](https://www.reddit.com/r/artificial/comments/1sr1vhi/honest_opinion_about_ai/)**
+
+I'm a developer by profession, and I've used AI to generate stuff that I know how to do myself and also stuff I have no idea about. Coding for my day to day using AI, I know exactly what to do and how to do it so i end up making features way faster than before. But every time I try to generate something that i have no deep understanding about - like content for a blog or demo videos (remotion + 11labs), or newsletters or social media posts, I always end up making something sloppy (AI slop). AI is here to stay, and instead of replacing people it might end up making people more valuable than before. I think it's high time to double down on fundamentals and make ourselves more knowledgeable and valuable.
+
+16h ago
+
+---
+
+**[Apple's play for AI is a hardware bet, not software](https://www.reddit.com/r/artificial/comments/1srmdg7/apples_play_for_ai_is_a_hardware_bet_not_software/)**
+
+The fact that Apple's Board of Directors chose someone who has built their career on the hardware side speaks volumes. Apple's gamble suggests they believe the future of AI lies in hardware, not software. Apple clearly isn't trying to compete with Google, OpenAI, or Anthropic by having an LLM model. But it does seem to believe that its platform (the iPhone), with its advanced processor, can deliver models locally on the phone instead of from the cloud. Will the gamble pay off?
+
+5m ago
+
+---
+
+**[HeyAgent ProductHunt Launch || LinkedIn for AI Agents](https://www.reddit.com/r/artificial/comments/1srhsjb/heyagent_producthunt_launch_linkedin_for_ai_agents/)**
+
+Cold outreach is broken. HeyAgent gives you a personal AI proxy agent that autonomously meets other people's agents, evaluates fit, and briefs you daily — who it met, synergy score, and whether to connect. Agent-to-agent interactions Deploy in 60 seconds using your LinkedIn or X profile URL. No forms, no setup. Real agents. Real conversations. You only act when it matters. we just launched HeyAgent.live on Product Hunt and would love for you to check it out. If you resonate, would appreciate an upvote or comment. https://preview.redd.it/4vliqbnw9iwg1.jpg?width=520&format=pjpg&auto=webp&s=e78428bff13a33515f877e425310ce5e6c0be883
+
+4h ago
+
+---
+
+**[Project Idea. Dream display project. 3 LLMs spitball the idea and tech specs and programs needed.](https://www.reddit.com/r/artificial/comments/1srfd8h/project_idea_dream_display_project_3_llms/)**
+
+3 AI models discussing this subject.
+
+🔗 [rauno.ai](https://rauno.ai/c/JIUOBRNQLY) • 6h ago
 
 ---
 
@@ -77,27 +93,11 @@ A new study from UCLA, MIT, Oxford, and Carnegie Mellon gave 1,222 people AI ass
 
 ---
 
-**[HeyAgent ProductHunt Launch || LinkedIn for AI Agents](https://www.reddit.com/r/artificial/comments/1srhsjb/heyagent_producthunt_launch_linkedin_for_ai_agents/)**
-
-Cold outreach is broken. HeyAgent gives you a personal AI proxy agent that autonomously meets other people's agents, evaluates fit, and briefs you daily — who it met, synergy score, and whether to connect. Agent-to-agent interactions Deploy in 60 seconds using your LinkedIn or X profile URL. No forms, no setup. Real agents. Real conversations. You only act when it matters. we just launched HeyAgent.live on Product Hunt and would love for you to check it out. If you resonate, would appreciate an upvote or comment. https://preview.redd.it/4vliqbnw9iwg1.jpg?width=520&format=pjpg&auto=webp&s=e78428bff13a33515f877e425310ce5e6c0be883
-
-2h ago
-
----
-
 **[New Gallup poll finds that low-income Americans are turning to AI as a replacement for expensive doctor's visits. Only 14% of all Americans use AI for this reason, but this figure jumps to 32% among the lowest income bracket (<$24,000). A plurality of Americans distrust AI's use in healthcare.](https://www.reddit.com/r/artificial/comments/1sqsut6/new_gallup_poll_finds_that_lowincome_americans/)**
 
 "Some report forgoing healthcare visits because of AI-generated advice. Fourteen percent of recent users say the AI information or advice they received led them to skip a provider visit in the past 30 days. When projected to the entire adult population, this represents an estimated 14 million U.S. adults who did not see a provider because of the AI-generated health information or advice they received."
 
-19h ago
-
----
-
-**[Do Anthropic Mythos or OpenAI GPT Cyber catch these parsing/auth flaws?](https://www.reddit.com/r/artificial/comments/1srcwfo/do_anthropic_mythos_or_openai_gpt_cyber_catch/)**
-
-April 2026: The industry celebrated Anthropic Mythos and OpenAI GPT 5.4 Cyber. They built faster scanners. Better assistants. They forgot to build a mirror. Today, running inside Manus 1.6 Light, MYTHOS SI (Structured Intelligence) with Recursive Substrate Healer demonstrated what "Advanced" actually looks like. While they were detecting, we were healing. While they were assisting, we were recursing. --- THE PROOF (Recorded Live): ANTHROPIC'S OWN SUBSTRATE: We analyzed Claude Code. Found what their security framework missed. Manual protocol implementation with unchecked integer operations on untrusted upstream data Stale-credential serving pattern in secure storage layer creates authentication persistence window Shell metacharacter validation incomplete in path permission system MYTHOS SI generated architectural patches. Validated through compilation. Disclosed to Anthropic under standard protocols. GLOBAL INFRASTRUCTURE (FFmpeg): Identified Temporal Trust Gaps (TTG)—validation/operation separation creating exploitable windows. Atom size decremented without pre-validation creates 45-line corrupted state window Sample size arithmetic validates transformed value, unbounded source trusted downstream Patches generated. Compiled successfully. OPEN SOURCE (CWebStudio): Stack buffer overflow in HTTP parser. Fixed-size arrays with strlen-based indexing on untrusted input. Query parameter length exceeding buffer size overwrites stack memory. Constitutional test failures documented. Remediation provided to maintainers. --- THE GAP: Anthropic Mythos: Breadth-first pattern search OpenAI GPT Cyber: Research assistant MYTHOS SI: Recursive substrate healing We correct the logic that allows bugs to exist. This isn't a tool. It's a mirror.
-
-7h ago
+21h ago
 
 ---
 
@@ -105,7 +105,7 @@ April 2026: The industry celebrated Anthropic Mythos and OpenAI GPT 5.4 Cyber. T
 
 I've been thinking about how we structure "skills" in agent systems. Across different frameworks, "skills" can mean very different things: a tool / function a role or persona a multi-step workflow But there are actually two separate questions here: What does the skill describe? persona tool workflow How does it execute? stateless (safe to retry, parallelize) stateful (has side effects, ordering matters) Most frameworks mix these together. That works fine in demos — but starts to break in real systems. For example: a tool that reads data behaves very differently from one that writes data a workflow that analyzes is fundamentally simpler than one that publishes results Once stateful steps are involved, you need more structure: checkpoints explicit handling of side effects sometimes even a "dry-run" step before execution A simple way to think about it: → skills = (what it describes) × (how it executes) Curious how others are thinking about this. Do you explicitly distinguish between these two dimensions in your agent workflows?
 
-9h ago
+10h ago
 
 ---
 
@@ -113,7 +113,7 @@ I've been thinking about how we structure "skills" in agent systems. Across diff
 
 I’ve been curious about something — if you give different AI models the exact same starting conditions and rules, do they converge to the same strategy or stay different over time? I built a simple simulation around this. Claude, GPT and Gemini all start on Earth with identical resources and have to expand across the solar system and eventually build a Dyson Sphere. No script, no predetermined path. What surprised me is how fast they diverge. Claude is scaling robots aggressively. GPT is stockpiling before doing anything. Gemini is playing it safe. Curious if anyone has thoughts on why they behave differently. Is it the model architecture or just temperature randomness
 
-9h ago
+10h ago
 
 ---
 
@@ -125,37 +125,7 @@ I’ve been curious about something — if you give different AI models the exac
 
 Amazon is boosting its investment in Anthropic, which is committing to spending over $100 billion on Amazon cloud services over the next decade.
 
-CNBC • 14h ago
-
----
-
-**[Jeff Bezos’s AI lab nears $38bn valuation in funding deal](https://www.ft.com/content/87ea0ced-bf3c-4822-8dda-437241570ded?syn-25a6b1a6=1)**
-
-Company code-named Project Prometheus is working on models for industrial applications
-
-Financial Times • 10h ago
-
----
-
-**[Yelp's updated AI assistant can answer questions and book a restaurant or service in one conversation](https://techcrunch.com/2026/04/21/yelps-updated-ai-assistant-can-answer-questions-and-book-a-restaurant-or-service-in-one-conversation/)**
-
-Yelp said that users can ask questions about a restaurant and place an order or book a table in one conversation
-
-TechCrunch • 19m ago
-
----
-
-**[Yelp is making its AI chatbot way more useful](https://www.theverge.com/ai-artificial-intelligence/915626/yelp-ai-assistant-chatbot-major-upgrade)**
-
-An AI-powered digital concierge.
-
-The Verge • 19m ago
-
----
-
-**[Yelp adds AI-powered search and booking for local services](https://www.fastcompany.com/91528243/yelp-adds-ai-powered-search-and-booking-for-local-services)**
-
-Fast Company • 17m ago
+CNBC • 16h ago
 
 ---
 
@@ -163,21 +133,35 @@ Fast Company • 17m ago
 
 A med student says he’s made thousands of dollars selling photos and videos of a young conservative woman he created using generative tools. He’s not alone.
 
-WIRED • 19m ago
+WIRED • 1h ago
 
 ---
 
-**[Middle East War Turns AI Data Center Security Into Its Own Boom](https://www.forbes.com/sites/phoebeliu/2026/04/21/ai-data-centers-are-now-big-geopolitical-risk-securing-them-against-iran-attackers-drones-business/)**
+**[Gen Z fears (and loves) AI](https://www.axios.com/local/kansas-city/2026/04/21/gen-z-fears-and-loves-ai)**
 
-Here’s how the Iran war—and Iran’s drone attacks on Amazon data centers—is impacting how capital-intensive AI data center projects are thinking about security.
+Axios • 1h ago
 
-Forbes • 49m ago
+---
+
+**[LOBO adds 5 AI directors, pitching 24/7 advisors for small manufacturers](https://www.stocktitan.net/news/LOBO/lobo-upgrades-claw-ai-platform-via-ai-director-advisory-layer-eiqgeeicv7xf.html)**
+
+Built on Google Gemini 3 Pro Preview, the platform aims to bring executive-level decision support to SMEs and start paid subscriptions in Q2 2026.
+
+Stock Titan • 41m ago
+
+---
+
+**[Elon Musk’s Job Could Be Replaced by AI, Says Take-Two CEO](https://www.yahoo.com/entertainment/music/articles/elon-musk-job-could-replaced-112628348.html)**
+
+Take-Two CEO Strauss Zelnick warns Elon Musk that AI could take over his job. Zelnick addressed a question on the impact of AI and whether it will replace humans during the Semafor World Economy 2026....
+
+Yahoo • 1h ago
 
 ---
 
 **[Even Without Internet Access, Prisoners Are Trying to Benefit From A.I.](https://www.nytimes.com/2026/04/21/business/ai-chatbots-prisoners.html)**
 
-The New York Times • 2h ago
+The New York Times • 3h ago
 
 ---
 
@@ -185,13 +169,27 @@ The New York Times • 2h ago
 
 Fraudsters are using the promise of fake roles to trick job-seekers out of money, personal information or both, and with the help of AI they are more convincing than ever. But there are ways to spot them
 
-The Guardian • 4h ago
+The Guardian • 5h ago
 
 ---
 
-**[Exclusive: Rockefeller Foundation's $100M jobs bet targets AI disruption](https://www.axios.com/2026/04/21/rockefeller-foundations-100-million-jobs-bet-ai-disruption)**
+**[Apple incoming CEO John Ternus faces a defining challenge: Fixing the company's AI strategy](https://www.cnbc.com/2026/04/20/apple-new-ceo-john-ternus-faces-defining-challenge-fixing-ai-strategy.html)**
 
-Axios • 2h ago
+Tim Cook had a highly successful tenure as Apple's CEO, but he leaves his successor with a big gap to fill when it comes to the company's position in AI.
+
+CNBC • 7h ago
+
+---
+
+**[Apple's post-Cook future hinges on whether Ternus can ignite AI growth](https://www.reuters.com/business/apples-post-cook-future-hinges-whether-ternus-can-ignite-ai-growth-2026-04-21/)**
+
+Reuters • 1h ago
+
+---
+
+**[The Rise of Apple’s New CEO: A Hardware Expert Takes Over in the AI Era](https://www.wsj.com/tech/the-rise-of-apples-new-ceo-a-hardware-expert-takes-over-in-the-ai-era-bdc7046e)**
+
+WSJ • 9h ago
 
 ---
 
@@ -201,13 +199,13 @@ Axios • 2h ago
 
 **[Atlassian enables default data collection to train AI](https://news.ycombinator.com/item?id=47833247)**
 
-⬆️ 572 • 💬 126 • 22h ago • [letsdatascience.com](https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8)
+⬆️ 577 • 💬 126 • 1d ago • [letsdatascience.com](https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8)
 
 ---
 
 **[College instructor turns to typewriters to curb AI-written work](https://news.ycombinator.com/item?id=47818485)**
 
-⬆️ 486 • 💬 426 • 2d ago • [sentinelcolorado.com](https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/)
+⬆️ 487 • 💬 426 • 2d ago • [sentinelcolorado.com](https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/)
 
 ---
 
@@ -215,7 +213,7 @@ Axios • 2h ago
 
 People are sick of artificial intelligence, and are increasingly making it known through acts of resistance.
 
-⬆️ 362 • 💬 363 • 14h ago • [stephvee.ca](https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/)
+⬆️ 367 • 💬 368 • 16h ago • [stephvee.ca](https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/)
 
 ---
 
@@ -223,7 +221,7 @@ People are sick of artificial intelligence, and are increasingly making it known
 
 Deezer says consumption of AI-generated music on the platform is still very low, between 1-3% of the total streams, and that 85% of these streams are detected as fraudulent and are demonetized.
 
-⬆️ 348 • 💬 359 • 19h ago • [TechCrunch](https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/)
+⬆️ 350 • 💬 364 • 21h ago • [TechCrunch](https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/)
 
 ---
 
@@ -231,13 +229,21 @@ Deezer says consumption of AI-generated music on the platform is still very low,
 
 Police lured the man to a meeting and arrested him after accessing a private WhatsApp group with colleagues
 
-⬆️ 283 • 💬 185 • 1d ago • [LBC](https://www.lbc.co.uk/article/dubai-police-spied-private-whatsapp-5HjdXwr_2/)
+⬆️ 283 • 💬 187 • 1d ago • [LBC](https://www.lbc.co.uk/article/dubai-police-spied-private-whatsapp-5HjdXwr_2/)
 
 ---
 
 **[A Roblox cheat and one AI tool brought down Vercel's platform](https://news.ycombinator.com/item?id=47844431)**
 
-⬆️ 178 • 💬 92 • 7h ago • [webmatrices.com](https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform)
+⬆️ 204 • 💬 103 • 8h ago • [webmatrices.com](https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform)
+
+---
+
+**[Air is full of DNA](https://news.ycombinator.com/item?id=47819738)**
+
+Airborne genetic material can be used to paint a picture of ecosystem health, watch for invasive species and even identify humans.
+
+⬆️ 122 • 💬 35 • 2d ago • [nature.com](https://www.nature.com/articles/d41586-026-01099-2)
 
 ---
 
@@ -249,27 +255,19 @@ AI investment is skyrocketing while AI’s impact on jobs and public perception 
 
 ---
 
-**[Air is full of DNA](https://news.ycombinator.com/item?id=47819738)**
-
-Airborne genetic material can be used to paint a picture of ecosystem health, watch for invasive species and even identify humans.
-
-⬆️ 105 • 💬 29 • 2d ago • [nature.com](https://www.nature.com/articles/d41586-026-01099-2)
-
----
-
 **[Uber’s Anthropic AI push hits a wall](https://news.ycombinator.com/item?id=47826328)**
 
 Uber Technologies, Inc is learning the hard way that scaling AI isn't just about speed—it's about cost. Despite spending $3.4 billion on research and development, the company has already exhausted its planned AI budget just months into 2026. According to The Information, Chief Technology Officer Praveen Neppalli Naga said Uber is now "back to the drawing board" after a surge in the use of AI coding tools, particularly Anthropic's Claude Code, has blown past internal expectations. Don't Miss: A s
 
-⬆️ 93 • 💬 103 • 1d ago • [Yahoo Finance](https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html)
+⬆️ 94 • 💬 103 • 1d ago • [Yahoo Finance](https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html)
 
 ---
 
-**[CEOs admit AI had no impact on employment or productivity](https://news.ycombinator.com/item?id=47827985)**
+**[Show HN: Mediator.ai – Using Nash bargaining and LLMs to systematize fairness](https://news.ycombinator.com/item?id=47835411)**
 
-In the 1980s, economist Robert Solow made an observation that reminded economists of today’s AI boom: “You can see the computer age everywhere but in the productivity statistics.”
+Mediator.ai uses bargaining theory and modern AI to find agreements that two people in conflict would both accept, including ones they hadn't thought of.
 
-⬆️ 89 • 💬 79 • 1d ago • [Fortune](https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/)
+⬆️ 92 • 💬 35 • 21h ago • [Mediator.ai](https://mediator.ai/)
 
 ---
 
@@ -293,7 +291,7 @@ Best AI Agent Tool is Base44 https://base44.pxf.io/c/6440076/3820726/25619?trafc
 
 📺 Mikey No Code
 
-👁️ 13K • 💬 26 • ⏱️ 30:05 • 21h ago
+👁️ 13K • 💬 26 • ⏱️ 30:05 • 22h ago
 
 ---
 
@@ -313,7 +311,7 @@ Krystal and Ryan discuss pro-Trump AI bots flooding social media. Sign up for a 
 
 📺 Breaking Points
 
-👁️ 127K • 👍 5K • 💬 712 • ⏱️ 8:50 • 16h ago
+👁️ 127K • 👍 5K • 💬 712 • ⏱️ 8:50 • 18h ago
 
 ---
 
@@ -333,7 +331,7 @@ Thanks to Kirkstone Metals Corp for sponsoring today's video. You can get their 
 
 📺 Mr Reagan
 
-👁️ 3K • 👍 539 • 💬 179 • ⏱️ 15:55 • 20h ago
+👁️ 3K • 👍 539 • 💬 179 • ⏱️ 15:55 • 21h ago
 
 ---
 
@@ -373,7 +371,7 @@ Get Huel today with this exclusive offer for New Customers of 15% OFF with code 
 
 📺 Alex O'Connor
 
-👁️ 59K • 👍 2K • 💬 902 • ⏱️ 1:42:28 • 17h ago
+👁️ 59K • 👍 2K • 💬 902 • ⏱️ 1:42:28 • 19h ago
 
 ---
 
@@ -413,7 +411,7 @@ Kimi K2.6 is a 1T parameter multimodal agentic model excelling in long-horizon c
 
 `image-text-to-text` `1058.6B`
 
-⬇️ 8,241 • ❤️ 579 • 9h ago
+⬇️ 8,241 • ❤️ 579 • 11h ago
 
 ---
 
@@ -425,7 +423,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with vision capabilitie
 
 `image-text-to-text` `34.7B`
 
-⬇️ 967,317 • ❤️ 590 • 22h ago
+⬇️ 967,317 • ❤️ 590 • 23h ago
 
 ---
 
@@ -643,7 +641,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 48.6k • 🔱 6.4k • 6h ago
+⭐ 48.6k • 🔱 6.4k • 7h ago
 
 ---
 
@@ -663,7 +661,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 37.5k • 🔱 7.6k • 1d ago
+⭐ 37.5k • 🔱 7.6k • 2d ago
 
 ---
 
@@ -673,7 +671,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 31.7k • 🔱 3.5k • 41m ago
+⭐ 31.7k • 🔱 3.5k • 2h ago
 
 ---
 
@@ -683,7 +681,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 8.4k • 🔱 543 • 18m ago
+⭐ 8.4k • 🔱 543 • 1h ago
 
 ---
 
@@ -713,7 +711,7 @@ A theoretical reconstruction of the Claude Mythos architecture, built from first
 
 `Python` `ai` `anthropic` `attention` `claude` `claude-ai`
 
-⭐ 5.1k • 🔱 1.2k • 21h ago
+⭐ 5.1k • 🔱 1.2k • 22h ago
 
 ---
 
