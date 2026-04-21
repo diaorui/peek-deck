@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-04-21T14:47:59.472302+00:00"
+          "dateModified": "2026-04-21T16:11:01.527472+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -782,7 +782,7 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1srn8nc/my_ai_system_kept_randomly_switching_to_french/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1srqz3c/non_political_question_since_the_media_is_focused/', '_blank')">
                     <div class="post-thumbnail">
                         
                     </div>
@@ -790,13 +790,13 @@
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1srn8nc/my_ai_system_kept_randomly_switching_to_french/" target="_blank" onclick="event.stopPropagation();">My AI system kept randomly switching to French mid-answer and it took me way too long to figure out why</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1srqz3c/non_political_question_since_the_media_is_focused/" target="_blank" onclick="event.stopPropagation();">Non political question since the Media is focused on US vs China. Where are Russians in the global AI race?</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            I built a RAG system that needs to answer in German or English depending on the query language. Sounds simple. It was not. The source documents are mostly in German but some contain French legal terminology, Latin phrases, and occasional English citations. What kept happening was the LLM would start answering in German, hit a French passage in the context, and just.. switch to French mid-paragraph. Sometimes it would blend German and French in the same sentence. Once it answered entirely in Italian and I still have no idea why. I tried letting the LLM detect the query language itself. Unreliable. It would sometimes decide the query was in French because the user mentioned a French court case by name. What actually worked was a dumb regex detector. I check the query for common German words (der, die, das, und, ist, nicht, mit, für, datenschutz, verletzung, etc). If enough German markers are present the response language is forced to German. Otherwise English. No fancy language detection library. Just pattern matching. Then in the prompt I added a hard constraint: "Write your entire answer ONLY in {language}. Output must be German or English only. Never French, Spanish, Italian, or any other language. If the retrieved context is partly in another language, translate your answer into {language} only." The "never French" part is doing heavy lifting. Without that explicit prohibition the model would drift back into French within a few days of testing. It's like the model sees French legal text in context and thinks "oh we're doing French now." Anyone else building multilingual RAG systems running into this? The language contamination from source documents was the most annoying bug I dealt with and I've seen almost nobody write about it.
+                            I was wondering about how Russians are faring in the global AI race, especially since there isn't much news from there except for AI-War-engines and drones being deployed in Ukraine. Russians had traditionally had a strong STEM program, especially focused on core Maths and computing. A number of great CS experts migrated to the US and EU. I was talking to an old Russian-American techie friend of mine the other day and that triggered this question.
                         </div>
                         
 
@@ -805,7 +805,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1776777056.0"></span>
+                                    <span data-timestamp="1776785129.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -848,6 +848,39 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1srrpts/make_an_experience_distillation_system_based_on/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1srrpts/make_an_experience_distillation_system_based_on/" target="_blank" onclick="event.stopPropagation();">Make an experience distillation system based on the memory plugin and custom plugin for Claude Code</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            I just published a very helpful article (payment free) on how to make an experience distillation system based on the memory plugin for Claude Code Knowledge distillation is based on memsearch memory and a custom plugin. In theory, various plugins could be built on top of this memory, such as report generation or something similar I’ve been using this tool every day for over two months now, and it works great.I think this might be useful to someone. https://medium.com/@ilyajob05/claude-code-forgets-everything-heres-how-i-fixed-it-️-1cde5cd3e2ad
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1776786659.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1srhsjb/heyagent_producthunt_launch_linkedin_for_ai_agents/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -874,6 +907,39 @@
                                 
                                 <div class="post-meta-item">
                                     <span data-timestamp="1776760782.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1srn8nc/my_ai_system_kept_randomly_switching_to_french/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1srn8nc/my_ai_system_kept_randomly_switching_to_french/" target="_blank" onclick="event.stopPropagation();">My AI system kept randomly switching to French mid-answer and it took me way too long to figure out why</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            I built a RAG system that needs to answer in German or English depending on the query language. Sounds simple. It was not. The source documents are mostly in German but some contain French legal terminology, Latin phrases, and occasional English citations. What kept happening was the LLM would start answering in German, hit a French passage in the context, and just.. switch to French mid-paragraph. Sometimes it would blend German and French in the same sentence. Once it answered entirely in Italian and I still have no idea why. I tried letting the LLM detect the query language itself. Unreliable. It would sometimes decide the query was in French because the user mentioned a French court case by name. What actually worked was a dumb regex detector. I check the query for common German words (der, die, das, und, ist, nicht, mit, für, datenschutz, verletzung, etc). If enough German markers are present the response language is forced to German. Otherwise English. No fancy language detection library. Just pattern matching. Then in the prompt I added a hard constraint: "Write your entire answer ONLY in {language}. Output must be German or English only. Never French, Spanish, Italian, or any other language. If the retrieved context is partly in another language, translate your answer into {language} only." The "never French" part is doing heavy lifting. Without that explicit prohibition the model would drift back into French within a few days of testing. It's like the model sees French legal text in context and thinks "oh we're doing French now." Anyone else building multilingual RAG systems running into this? The language contamination from source documents was the most annoying bug I dealt with and I've seen almost nobody write about it.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1776777056.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -933,76 +999,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1sqcz1m/researchers_gave_1222_people_ai_assistants_then/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://preview.redd.it/xm3dil38e9wg1.jpg?width=140&height=78&auto=webp&s=2b84faf1c30b9298ebf201a85a87b3c27d8507f7" alt="Researchers gave 1,222 people AI assistants, then took them away after 10 minutes. Performance crashed below the control group and people stopped trying. UCLA, MIT, Oxford, and Carnegie Mellon call it the "boiling frog" effect." onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1sqcz1m/researchers_gave_1222_people_ai_assistants_then/" target="_blank" onclick="event.stopPropagation();">Researchers gave 1,222 people AI assistants, then took them away after 10 minutes. Performance crashed below the control group and people stopped trying. UCLA, MIT, Oxford, and Carnegie Mellon call it the "boiling frog" effect.</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            A new study from UCLA, MIT, Oxford, and Carnegie Mellon gave 1,222 people AI assistants for cognitive tasks — then pulled the plug midway through. The results: - After ~10 minutes of AI-assisted problem solving, people who lost access to AI performed **worse** than those who never had it - They didn't just get more wrong answers — they **stopped trying altogether** - The effect showed up across math AND reading comprehension - Ran 3 separate experiments (350 → 670 → full cohort). Same result every time. The researchers call it the "boiling frog" effect — each AI interaction feels costless, but your cognitive muscles are quietly atrophying. The UCLA co-author warns this could create "a generation of learners who will not know what they're capable of." Study hasn't been peer-reviewed yet, but the sample size is solid and it's the first causal (not correlational) evidence of AI-induced cognitive decline. The uncomfortable question: if 10 minutes is enough to measurably damage independent performance, what does months of daily use do? Full breakdown → https://synvoya.com/blog/2026-04-20-ai-boiling-frog-cognition-study/ Be honest — have you noticed yourself giving up faster on problems since you started using AI daily? https://preview.redd.it/xm3dil38e9wg1.jpg?width=2752&format=pjpg&auto=webp&s=4cec0fb89dbc1c8bfa303e06ec9622bb48bfc9ae
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1776653251.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1sqsut6/new_gallup_poll_finds_that_lowincome_americans/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/0g1786we6dwg1.png?width=640&crop=smart&auto=webp&s=e17ed55e8fee6c939856837cf61577e8a3b1d790" alt="New Gallup poll finds that low-income Americans are turning to AI as a replacement for expensive doctor's visits. Only 14% of all Americans use AI for this reason, but this figure jumps to 32% among the lowest income bracket (<$24,000). A plurality of Americans distrust AI's use in healthcare." onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1sqsut6/new_gallup_poll_finds_that_lowincome_americans/" target="_blank" onclick="event.stopPropagation();">New Gallup poll finds that low-income Americans are turning to AI as a replacement for expensive doctor's visits. Only 14% of all Americans use AI for this reason, but this figure jumps to 32% among the lowest income bracket (<$24,000). A plurality of Americans distrust AI's use in healthcare.</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            "Some report forgoing healthcare visits because of AI-generated advice. Fourteen percent of recent users say the AI information or advice they received led them to skip a provider visit in the past 30 days. When projected to the entire adult population, this represents an estimated 14 million U.S. adults who did not see a provider because of the AI-generated health information or advice they received."
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1776699393.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -1026,7 +1022,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-04-21T14:47:30.763319+00:00">Updated 2026-04-21T14:47:30.763319+00:00</small>
+        <small data-timestamp="2026-04-21T16:10:31.017201+00:00">Updated 2026-04-21T16:10:31.017201+00:00</small>
     </div>
 </div>
 
@@ -1212,21 +1208,17 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="news-carousel-ai">
                 
-                <div class="carousel-card" onclick="window.open('https://www.wired.com/story/ai-generated-maga-girls/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/04/21/business/ai-job-cuts-wall-street.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://media.wired.com/photos/69de96afb083bab80bea1c92/191:100/w_1280,c_limit/MAGA-AI-Womanfluencers-Culture.jpg');"></div>
+                    <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.wired.com/story/ai-generated-maga-girls/" target="_blank" onclick="event.stopPropagation();">This Scammer Used an AI-Generated MAGA Girl to Grift ‘Super Dumb’ Men</a>
+                            <a href="https://www.nytimes.com/2026/04/21/business/ai-job-cuts-wall-street.html" target="_blank" onclick="event.stopPropagation();">Job Cuts Driven by A.I. Are Rising on Wall Street</a>
                         </div>
 
                         <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            A med student says he’s made thousands of dollars selling photos and videos of a young conservative woman he created using generative tools. He’s not alone.
-                        </div>
                         
 
                         <!-- Metadata (source, time) -->
@@ -1235,9 +1227,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wired.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="WIRED" class="news-favicon">
-                                    <a href="https://www.wired.com" target="_blank" onclick="event.stopPropagation();">WIRED</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The New York Times" class="news-favicon">
+                                    <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
                                     
                                 </div>
                                 
@@ -1245,7 +1237,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1776769200.0"></span>
+                                    <span data-timestamp="1776785236.0"></span>
                                 </div>
                                 
                             </div>
@@ -1294,137 +1286,14 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.yahoo.com/entertainment/celebrity/articles/reese-witherspoon-responds-backlash-over-143002610.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/os/en/cover_media_us_articles_275/4161b5fd17472e0d988d772b06537260');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.yahoo.com/entertainment/celebrity/articles/reese-witherspoon-responds-backlash-over-143002610.html" target="_blank" onclick="event.stopPropagation();">Reese Witherspoon responds to backlash over AI stance</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Reese Witherspoon made it clear that she does not "believe computers should replace humanity".
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Yahoo" class="news-favicon">
-                                    <a href="https://www.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1776781802.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://qz.com/openai-codex-consulting-partnerships-enterprise-042126', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/api/media/file/GettyImages-2271060387-300x200.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://qz.com/openai-codex-consulting-partnerships-enterprise-042126" target="_blank" onclick="event.stopPropagation();">OpenAI partners with consultancies to expand AI coding tool</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            The company said weekly active users of Codex have climbed to 4 million, up from 3 million just weeks ago
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://qz.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="qz.com" class="news-favicon">
-                                    <a href="https://qz.com" target="_blank" onclick="event.stopPropagation();">qz.com</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1776780806.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.forbes.com/sites/garydrenik/2026/04/21/personalization-to-paranoia--why-consumers-pull-back-as-ai-expands/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://imageio.forbes.com/specials-images/imageserve/69dfd37f654315ce06a6a02b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.forbes.com/sites/garydrenik/2026/04/21/personalization-to-paranoia--why-consumers-pull-back-as-ai-expands/" target="_blank" onclick="event.stopPropagation();">Personalization To Paranoia – Why Consumers Pull Back As AI Expands</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            As companies race to deploy AI-powered personalization and autonomous agents, many are running into a wall of consumer distrust they did not see coming.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.forbes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Forbes" class="news-favicon">
-                                    <a href="https://www.forbes.com" target="_blank" onclick="event.stopPropagation();">Forbes</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1776780000.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/04/21/business/ai-chatbots-prisoners.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.axios.com/2026/04/21/ai-trump-tariffs-mexico', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.nytimes.com/2026/04/21/business/ai-chatbots-prisoners.html" target="_blank" onclick="event.stopPropagation();">Even Without Internet Access, Prisoners Are Trying to Benefit From A.I.</a>
+                            <a href="https://www.axios.com/2026/04/21/ai-trump-tariffs-mexico" target="_blank" onclick="event.stopPropagation();">The AI boom's hidden cost: a bigger trade deficit</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1436,9 +1305,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The New York Times" class="news-favicon">
-                                    <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.axios.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Axios" class="news-favicon">
+                                    <a href="https://www.axios.com" target="_blank" onclick="event.stopPropagation();">Axios</a>
                                     
                                 </div>
                                 
@@ -1446,7 +1315,249 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1776762013.0"></span>
+                                    <span data-timestamp="1776787424.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.usatoday.com/story/sports/nfl/draft/2026/04/21/nfl-mock-draft-2026-ai-expert-predictions/89664476007/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://www.usatoday.com/gcdn/authoring/authoring-images/2026/04/18/USAT/89675689007-jeremiyah-love-041826.jpg?crop=1292,727,x226,y249&width=1292&height=727&format=pjpg&auto=webp');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.usatoday.com/story/sports/nfl/draft/2026/04/21/nfl-mock-draft-2026-ai-expert-predictions/89664476007/" target="_blank" onclick="event.stopPropagation();">NFL mock draft 2026: How AI picks compare to expert predictions for Round 1</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Will man or machine better predict the 2026 NFL Draft? USA TODAY Sports put Microsoft Copilot AI to the test against expert picks from Chris Bumbaca.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.usatoday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="USA Today" class="news-favicon">
+                                    <a href="https://www.usatoday.com" target="_blank" onclick="event.stopPropagation();">USA Today</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1776787321.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/articles/2026-04-21/avala-gains-15-in-april-on-ai-erasing-double-digit-march-loss', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.bloomberg.com/news/articles/2026-04-21/avala-gains-15-in-april-on-ai-erasing-double-digit-march-loss" target="_blank" onclick="event.stopPropagation();">Avala Gains 15% in April on AI, Erasing Double-Digit March Loss</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Bloomberg" class="news-favicon">
+                                    <a href="https://www.bloomberg.com" target="_blank" onclick="event.stopPropagation();">Bloomberg</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1776786794.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.wired.com/story/ai-generated-maga-girls/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://media.wired.com/photos/69de96afb083bab80bea1c92/191:100/w_1280,c_limit/MAGA-AI-Womanfluencers-Culture.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.wired.com/story/ai-generated-maga-girls/" target="_blank" onclick="event.stopPropagation();">This Scammer Used an AI-Generated MAGA Girl to Grift ‘Super Dumb’ Men</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            A med student says he’s made thousands of dollars selling photos and videos of a young conservative woman he created using generative tools. He’s not alone.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wired.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="WIRED" class="news-favicon">
+                                    <a href="https://www.wired.com" target="_blank" onclick="event.stopPropagation();">WIRED</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1776769200.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/04/20/apple-new-ceo-john-ternus-faces-defining-challenge-fixing-ai-strategy.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108294207-1776717285421-gettyimages-2264522469-APPLE_LAUNCH.jpeg?v=1776717335&w=1920&h=1080');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.cnbc.com/2026/04/20/apple-new-ceo-john-ternus-faces-defining-challenge-fixing-ai-strategy.html" target="_blank" onclick="event.stopPropagation();">Apple incoming CEO John Ternus faces a defining challenge: Fixing the company's AI strategy</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Tim Cook had a highly successful tenure as Apple's CEO, but he leaves his successor with a big gap to fill when it comes to the company's position in AI.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="CNBC" class="news-favicon">
+                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1776748167.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.ft.com/content/ef888edd-d12e-41d0-b38d-3d6465cf280c?syn-25a6b1a6=1', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F207a3d00-9310-4f65-855d-d0810c2afd85.jpg?source=next-barrier-page');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.ft.com/content/ef888edd-d12e-41d0-b38d-3d6465cf280c?syn-25a6b1a6=1" target="_blank" onclick="event.stopPropagation();">Apple’s next chief John Ternus faces defining AI moment</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Tim Cook’s replacement must lead iPhone-maker through industry shift
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ft.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Financial Times" class="news-favicon">
+                                    <a href="https://www.ft.com" target="_blank" onclick="event.stopPropagation();">Financial Times</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1776761131.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.cnn.com/2026/04/21/tech/apple-new-ceo-ai-john-ternus', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2264522469.jpg?c=16x9&q=w_800,c_fill');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.cnn.com/2026/04/21/tech/apple-new-ceo-ai-john-ternus" target="_blank" onclick="event.stopPropagation();">Apple’s pick to replace Tim Cook hints at its plans for the AI era</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Apple’s announcement Monday that CEO Tim Cook will step down and John Ternus will take over signals a significant shift for Apple: The company is betting its future on the most rapidly evolving technology in the history of computing.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="CNN" class="news-favicon">
+                                    <a href="https://www.cnn.com" target="_blank" onclick="event.stopPropagation();">CNN</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1776771306.0"></span>
                                 </div>
                                 
                             </div>
@@ -1487,122 +1598,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1776754980.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.cnn.com/2026/04/21/health/doctors-ai-chatbots-wellness', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://media.cnn.com/api/v1/images/stellar/prod/20260417-chatbot-doctor-gfx.jpg?c=16x9&q=w_800,c_fill');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.cnn.com/2026/04/21/health/doctors-ai-chatbots-wellness" target="_blank" onclick="event.stopPropagation();">5 ways your doctor may be using AI chatbots — and why it matters</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Millions of Americans are turning to AI chatbots for health answers. But are doctors using these tools? And if so, how?
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="CNN" class="news-favicon">
-                                    <a href="https://www.cnn.com" target="_blank" onclick="event.stopPropagation();">CNN</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1776780057.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.axios.com/2026/04/21/gen-z-jobs-unemployment-college-grads-ai', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.axios.com/2026/04/21/gen-z-jobs-unemployment-college-grads-ai" target="_blank" onclick="event.stopPropagation();">Young people hate today's job market. You can't blame it all on AI</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.axios.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Axios" class="news-favicon">
-                                    <a href="https://www.axios.com" target="_blank" onclick="event.stopPropagation();">Axios</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1776765130.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.wsj.com/cio-journal/inside-blackrocks-ai-transformation-03a1e8c7', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.wsj.com/cio-journal/inside-blackrocks-ai-transformation-03a1e8c7" target="_blank" onclick="event.stopPropagation();">Inside BlackRock’s AI Transformation</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wsj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="WSJ" class="news-favicon">
-                                    <a href="https://www.wsj.com" target="_blank" onclick="event.stopPropagation();">WSJ</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1776769200.0"></span>
+                                    <span data-timestamp="1776782580.0"></span>
                                 </div>
                                 
                             </div>
@@ -1630,7 +1626,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-04-21T14:47:51.378092+00:00">Updated 2026-04-21T14:47:51.378092+00:00</small>
+        <small data-timestamp="2026-04-21T16:11:00.627823+00:00">Updated 2026-04-21T16:11:00.627823+00:00</small>
     </div>
 </div>
 
@@ -1851,7 +1847,7 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 583</span>
+                                    <span class="post-points">▲ 586</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 130</span>
@@ -1899,7 +1895,7 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 487</span>
+                                    <span class="post-points">▲ 488</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 426</span>
@@ -1951,10 +1947,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 369</span>
+                                    <span class="post-points">▲ 371</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 379</span>
+                                    <span style="color: #9ca3af;">💬 385</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2000,10 +1996,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 352</span>
+                                    <span class="post-points">▲ 355</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 369</span>
+                                    <span style="color: #9ca3af;">💬 370</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2094,10 +2090,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 235</span>
+                                    <span class="post-points">▲ 259</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 131</span>
+                                    <span style="color: #9ca3af;">💬 140</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2146,10 +2142,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 146</span>
+                                    <span class="post-points">▲ 155</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 47</span>
+                                    <span style="color: #9ca3af;">💬 50</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2244,10 +2240,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 104</span>
+                                    <span class="post-points">▲ 109</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 54</span>
+                                    <span style="color: #9ca3af;">💬 58</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2341,7 +2337,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-04-21T14:47:29.015243+00:00">Updated 2026-04-21T14:47:29.015243+00:00</small>
+        <small data-timestamp="2026-04-21T16:10:31.062730+00:00">Updated 2026-04-21T16:10:31.062730+00:00</small>
     </div>
 </div>
 

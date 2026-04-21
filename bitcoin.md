@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-21T14:47:59.997889+00:00'
+updated: '2026-04-21T16:11:02.065271+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 21, 2026 at 14:47 UTC  
+**Last Updated:** April 21, 2026 at 16:11 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $76,010.73
+### $75,676.09
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.8%  
-**7d:** +2.0%  
-**30d:** +7.6%  
-**90d:** -14.8%  
-**1y:** -18.4%  
+**24h:** +0.1%  
+**7d:** +1.6%  
+**30d:** +7.1%  
+**90d:** -15.2%  
+**1y:** -18.7%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Someone was asking how to invest their money and I said 50% S&P500 and 50% BTC and I got perma banned for “Hyping/pushing speculative, volatile, illiquid, or meme investments, flippantly, tersely, or implying huge returns” Lmao
 
-9h ago
+11h ago
 
 ---
 
@@ -89,7 +89,7 @@ Someone was asking how to invest their money and I said 50% S&P500 and 50% BTC a
 
 A quote from Warren Buffett: A short quiz: If you plan to eat hamburgers throughout your life and are not a cattle producer, should you wish for higher or lower prices for beef? Likewise, if you are going to buy a car from time to time but are not an auto manufacturer, should you prefer higher or lower car prices? These questions, of course, answer themselves. But now for the final exam: If you expect to be a net saver during the next five years, should you hope for a higher or lower stock market during that period? Many investors get this one wrong. Even though they are going to be net buyers of stocks for many years to come, they are elated when stock prices rise and depressed when they fall. In effect, they rejoice because prices have risen for the ‘hamburgers’ they will soon be buying. This reaction makes no sense. Only those who will be sellers of equities in the near future should be happy at seeing stocks rise. Prospective purchasers should much prefer sinking prices. Assuming the majority of people on this sub are not near retirement, then you still plan to buy more BTC in the future than you currently have. You'll be able to buy more of it if the price is lower. So you should be cheering when it falls, and that is why the current "dip" is a blessing. This doesn't apply if you are planning to liquidate soon, of course. Then you should want the price to skyrocket. Source: https://www.roywalkerwealth.com/2018/01/warren-buffett-on-hamburgers.html
 
-15h ago
+16h ago
 
 ---
 
@@ -97,21 +97,13 @@ A quote from Warren Buffett: A short quiz: If you plan to eat hamburgers through
 
 Who gives a flip tuesday! stop buying shit you dont want to impress people you dont like! just chill out and let it be there, slowly keep stacking and buying, spare to live, sitback relax, learn self custody, learn nodes, learn passphrase, there's so much fun shit to do in live instead of impressing morons!
 
-7h ago
+8h ago
 
 ---
 
 **[Someone vandalized the Satoshi statue in Lugano again](https://www.reddit.com/r/Bitcoin/comments/1sr1i6u/someone_vandalized_the_satoshi_statue_in_lugano/)**
 
-18h ago
-
----
-
-**[In 2026 sold PS5 to buy more Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1srcq8b/in_2026_sold_ps5_to_buy_more_bitcoin/)**
-
-most people buying new things in 2026...
-
-10h ago
+19h ago
 
 ---
 
@@ -119,7 +111,23 @@ most people buying new things in 2026...
 
 No fiat currency has survived 100 years with its purchasing power meaningfully intact. The British pound has lost over 99% of its value since 1900. The US dollar has lost roughly 96% since the Federal Reserve was established in 1913. The German mark, the French franc, and the Italian lira were all replaced entirely. Of the 750+ fiat currencies that have ever existed throughout history, the majority are now defunct, ended by hyperinflation, war, regime change, or deliberate debasement. Bitcoin offers a structurally different model: a hard cap of 21M coins, enforced by code that cannot be altered without consensus from tens of thousands of globally distributed node operators. No committee sets the monetary policy. No central bank can expand the supply. Whether that's desirable depends on your macro views. Flexible monetary policy advocates argue that you need the ability to expand and contract the supply to manage economic cycles. Fixed supply advocates argue you're just trading short-term stability for long-term erosion that has destroyed every fiat regime in history. The experiment is still ongoing to answer the question: Over a 100-year horizon, does a fixed mathematical protocol preserve value more reliably than a century of consistent political discipline across all major governments? Source: https://www.coingecko.com/learn/bitcoin-100-year-survival-thesis
 
-4h ago
+6h ago
+
+---
+
+**[Fake professor embarrasses himself with bitcoin ‘criticism’](https://www.reddit.com/r/Bitcoin/comments/1srq0oe/fake_professor_embarrasses_himself_with_bitcoin/)**
+
+A clip of "Professor Jiang" went viral claiming the CIA created Bitcoin. This guy doesn't know Satoshi's name. He doesn't know what a decentralized network is. He thinks Bitcoin runs on servers in a CIA basement. This is not the first time this guy has embarrassed himself talking about Bitcoin. I brokedown every argument and every contradiction point by point.
+
+🔗 [youtu.be](https://youtu.be/wjlH4AWyhCY) • 1h ago
+
+---
+
+**[In 2026 sold PS5 to buy more Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1srcq8b/in_2026_sold_ps5_to_buy_more_bitcoin/)**
+
+most people buying new things in 2026...
+
+12h ago
 
 ---
 
@@ -127,7 +135,7 @@ No fiat currency has survived 100 years with its purchasing power meaningfully i
 
 Bitcoin gives you financial sovereignty. Solar energy gives you energy sovereignty. Growing your own food gives you biological sovereignty. The less you depend, the more you can choose. That's the life goal, gentlemen... to have a beautiful self-sustaining farm, a Starlink connection, and goodbye to traffic chaos and chaotic city life. I’ve been living this for 3 years and don’t regret it at all.
 
-3h ago
+4h ago
 
 ---
 
@@ -135,21 +143,15 @@ Bitcoin gives you financial sovereignty. Solar energy gives you energy sovereign
 
 On episode 250 of my podcast ‘Bitcoin for Millennials’ I talked with Saifedean Ammous, author of The Bitcoin Standard. We discuss Bitcoin as forced adoption, the money supply question that breaks fiat narratives, inflation’s link to time preference and institutional propaganda, energy use and the politics of scarcity, and a hard-money future of declining interest rates with equity replacing credit. Hope you enjoy!
 
-🔗 [youtu.be](https://youtu.be/jODwF4N8Vjc) • 4h ago
+🔗 [youtu.be](https://youtu.be/jODwF4N8Vjc) • 5h ago
 
 ---
 
-**[I almost quit Bitcoin… until I realized I was the problem](https://www.reddit.com/r/Bitcoin/comments/1srar1c/i_almost_quit_bitcoin_until_i_realized_i_was_the/)**
+**[The BTC price is less volatile than South Korea's Kospi stock index](https://www.reddit.com/r/Bitcoin/comments/1srjve4/the_btc_price_is_less_volatile_than_south_koreas/)**
 
-A couple of years ago, I honestly thought Bitcoin was just hype I saw people making crazy gains, then losing everything just as fast. It felt like gambling more than investing. I even tried getting in once, but I sold too early because I couldn’t handle the volatility So I stepped away But recently, I started looking at it differently. Instead of thinking “how much can I make?”, I started asking “why does this even exist?” and “why are institutions slowly getting involved?” I’m still not all-in, and I’m definitely more cautious now. But I’ve stopped chasing quick gains and started treating it as something long-term Not sure if that’s the “right” approach, but it feels a lot less stressful than before Curious how others here went through their own mindset shifts Did anyone else go through a similar phase? Or am I just overthinking this?”
+Bitcoin's 30-day realized volatility has fallen below that of South Korea's Kospi and Pakistan's KSE 100 indexes, challenging its reputation as the most turbulent asset. Recent war-driven energy shocks and a spike in oil prices have made Korean and Pakistani stocks more volatile, while bitcoin has traded in a relatively narrow range between about $65,000 and $75,000. Bitcoin's comparative stability during geopolitical turmoil has reinforced its appeal as a hedge.
 
-12h ago
-
----
-
-**[Cooked to Perfection](https://www.reddit.com/r/Bitcoin/comments/1sr2pe5/cooked_to_perfection/)**
-
-17h ago
+🔗 [coindesk.com](https://www.coindesk.com/markets/2026/04/21/bitcoin-is-less-volatile-than-south-korea-s-stock-market-right-now) • 5h ago
 
 ---
 
@@ -161,7 +163,7 @@ A couple of years ago, I honestly thought Bitcoin was just hype I saw people mak
 
 Leveraged accumulation and new capital tools push MSTR ahead of the world’s largest spot bitcoin ETF.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -169,29 +171,31 @@ CoinDesk • 5h ago
 
 BlackRock's IBIT absorbed $871 million last week even as Iran tensions dragged bitcoin toward $71,000. Analysts say the record flows show who is buying the dip.
 
-Forbes • 9h ago
+Forbes • 11h ago
 
 ---
 
-**[Iran Scammers Demand Bitcoin, USDT for Transit Through Strait of Hormuz: Report](https://www.yahoo.com/news/articles/iran-scammers-demand-bitcoin-usdt-123742866.html)**
+**[Crypto trade holds strong as bitcoin prices stay above $76K](https://finance.yahoo.com/video/crypto-trade-holds-strong-as-bitcoin-prices-stay-above-76k-150255634.html)**
 
-Fake crypto clearance demands are targeting ships stranded at Hormuz as the Iran conflict enters its third month.
+Yahoo Finance's Julie Hyman checks in on how cryptocurrencies and crypto-related stocks are moving, including bitcoin (BTC-USD), ethereum (ETH-USD), Robinhood (HOOD), Coinbase (COIN), and Strategy (MSTR).
 
-Yahoo • 2h ago
-
----
-
-**[Bitcoin Rises as Risk Appetite Resumes](https://www.barrons.com/articles/bitcoin-price-crypto-xrp-ethereum-043e606c)**
-
-Barron's • 2h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Current price of Bitcoin for April 21, 2026](https://fortune.com/article/price-of-bitcoin-04-21-2026/)**
+**[Scammers Target Stranded Ships in Strait of Hormuz With Fake Bitcoin Transit Fees](https://bitcoinmagazine.com/news/bitcoin-scammers-target-stranded-ships)**
 
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+Fraudsters are targeting global shipping firms with fake Strait of Hormuz transit fees, demanding payment in Bitcoin and Tether as vessels remain stranded amid Gulf tensions.
 
-Fortune • 1h ago
+Bitcoin Magazine • 2h ago
+
+---
+
+**[Why privacy tech is immune to quantum threat coming for Bitcoin, says Coinbase](https://www.dlnews.com/articles/defi/privacy-tech-is-immune-to-bitcoin-quantum-threat-says-coinbase/)**
+
+Zero-knowledge systems powering mixers like Railgun and PrivacyPools are immune to quantum attacks, researchers find.  They urge vulnerable crypto projects to prepare, but say the sky is not falling.
+
+dlnews.com • 1h ago
 
 ---
 
@@ -199,7 +203,7 @@ Fortune • 1h ago
 
 BlackRock U.S. head of equity ETFs Jay Jacobs discusses market volatility amid tensions with Iran and makes the case for bitcoin as a portfolio diversifier on ‘The Claman Countdown.’
 
-Fox Business • 18h ago
+Fox Business • 19h ago
 
 ---
 
@@ -207,7 +211,7 @@ Fox Business • 18h ago
 
 The enterprise software company and bitcoin treasury on Monday said that it bought more than $2.5 billion worth of the cryptocurrency recently.
 
-Investopedia • 18h ago
+Investopedia • 20h ago
 
 ---
 
@@ -217,19 +221,17 @@ Bloomberg • 1d ago
 
 ---
 
-**[Bitcoin Just Got A Seat At The Highest Levels Of U.S. Indo-Pacific Strategy — Meet The Man Making It Happen](https://bitcoinmagazine.com/politics/jason-lowery-appointed-special-assistant-to-u-s-indo-pacific-command-commander-bringing-bitcoin-strategic-expertise)**
+**[Bitcoin Price Rises. Strategy, Other Crypto Stocks Fall.](https://www.barrons.com/articles/bitcoin-price-crypto-xrp-ethereum-043e606c)**
 
-Jason Lowery, the ex-Space Force innovator behind the explosive “Softwar” theory that treats Bitcoin hashing power as the next gunpowder, just landed a dream advisory gig directly under the U.S. Indo-Pacific Command Commander — right as Iran floats accepting Bitcoin for Strait of Hormuz passage.
-
-Bitcoin Magazine • 21h ago
+Barron's • 3h ago
 
 ---
 
-**[XRP vs. Bitcoin: Which Cryptocurrency to Buy Right Now?](https://www.fool.com/investing/2026/04/21/xrp-vs-bitcoin-which-cryptocurrency-to-buy-right-n/)**
+**[Current price of Bitcoin for April 21, 2026](https://fortune.com/article/price-of-bitcoin-04-21-2026/)**
 
-Digital asset markets are struggling in 2026. What comes next?
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-The Motley Fool • 2h ago
+Fortune • 3h ago
 
 ---
 
@@ -263,7 +265,7 @@ The Blockstream CEO’s approach contrasts with BIP-361, a proposal that would i
 
 Neha Narula
 
-⬆️ 3 • 💬 2 • 21h ago • [nehanarula.org](https://nehanarula.org/2026/04/20/bitcoin-and-quantum-a-roadmap.html)
+⬆️ 3 • 💬 2 • 22h ago • [nehanarula.org](https://nehanarula.org/2026/04/20/bitcoin-and-quantum-a-roadmap.html)
 
 ---
 
@@ -323,7 +325,7 @@ Nick Valdez looks at the latest developments with the Strait of Hormuz and it's 
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 309 • 💬 80 • ⏱️ 6:30 • 16h ago
+👁️ 5K • 👍 309 • 💬 80 • ⏱️ 6:30 • 18h ago
 
 ---
 
@@ -363,7 +365,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRus Extra
 
-👁️ 5K • 👍 271 • 💬 103 • ⏱️ 8:28 • 15h ago
+👁️ 5K • 👍 271 • 💬 103 • ⏱️ 8:28 • 16h ago
 
 ---
 
@@ -373,7 +375,7 @@ Everyone is Wrong about Bitcoin Big picture for bitcoin Most can't see what's co
 
 📺 Camel Finance
 
-👁️ 6K • 👍 607 • 💬 112 • ⏱️ 22:37 • 5h ago
+👁️ 6K • 👍 607 • 💬 112 • ⏱️ 22:37 • 6h ago
 
 ---
 
@@ -383,7 +385,7 @@ Crypto #Bitcoin #CryptoNews #Investing #yahoofinance Michael Saylor's “Bitcoin
 
 📺 Yahoo Finance
 
-👁️ 5K • 👍 47 • 💬 9 • ⏱️ 0:54 • 20h ago
+👁️ 5K • 👍 47 • 💬 9 • ⏱️ 0:54 • 21h ago
 
 ---
 
@@ -393,7 +395,7 @@ The risk models I use to track accumulation and distribution zones. Free trial h
 
 📺 Crypto Capital Venture
 
-👁️ 8K • 👍 499 • 💬 211 • ⏱️ 16:03 • 22h ago
+👁️ 8K • 👍 499 • 💬 211 • ⏱️ 16:03 • 1d ago
 
 ---
 
@@ -403,7 +405,7 @@ Crypto doesn't pay you to hold it. So here's how people are pulling income from 
 
 📺 Jake Claver
 
-👁️ 2K • 👍 113 • 💬 3 • ⏱️ 2:22 • 15h ago
+👁️ 2K • 👍 113 • 💬 3 • ⏱️ 2:22 • 17h ago
 
 ---
 
@@ -413,7 +415,7 @@ The industry that we were trying to topple wants to partner up - Charles Schwab,
 
 📺 Digital Asset News
 
-👁️ 16K • 👍 1K • 💬 63 • ⏱️ 28:47 • 18h ago
+👁️ 16K • 👍 1K • 💬 63 • ⏱️ 28:47 • 19h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-21T14:47:59.988686+00:00'
+updated: '2026-04-21T16:11:02.056365+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
+- repositories
 - videos
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** April 21, 2026 at 14:47 UTC  
+**Last Updated:** April 21, 2026 at 16:11 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 : £330M deal leaves service with no ownership of software built to connect trusts to the platform
 
-🔗 [theregister.com](https://www.theregister.com/2026/04/20/palantir_nhs_break_clause/) • 11h ago
+🔗 [theregister.com](https://www.theregister.com/2026/04/20/palantir_nhs_break_clause/) • 12h ago
 
 ---
 
@@ -49,7 +49,7 @@ AI news, discussions, and developments
 
 The fact that Apple's Board of Directors chose someone who has built their career on the hardware side speaks volumes. Apple's gamble suggests they believe the future of AI lies in hardware, not software. Apple clearly isn't trying to compete with Google, OpenAI, or Anthropic by having an LLM model. But it does seem to believe that its platform (the iPhone), with its advanced processor, can deliver models locally on the phone instead of from the cloud. Will the gamble pay off?
 
-2h ago
+3h ago
 
 ---
 
@@ -57,7 +57,7 @@ The fact that Apple's Board of Directors chose someone who has built their caree
 
 I'm curious about your thoughts and experience on it. In any field.
 
-3h ago
+5h ago
 
 ---
 
@@ -65,15 +65,15 @@ I'm curious about your thoughts and experience on it. In any field.
 
 Tone in AI prompting works because of how language models are built, not because the model has feelings about how you talk to it. Understanding the mechanism makes you dramatically better at using these tools.
 
-🔗 [kitchencloset.com](https://kitchencloset.com/realstuff/essays/why_tone_works/) • 42m ago
+🔗 [kitchencloset.com](https://kitchencloset.com/realstuff/essays/why_tone_works/) • 2h ago
 
 ---
 
-**[My AI system kept randomly switching to French mid-answer and it took me way too long to figure out why](https://www.reddit.com/r/artificial/comments/1srn8nc/my_ai_system_kept_randomly_switching_to_french/)**
+**[Non political question since the Media is focused on US vs China. Where are Russians in the global AI race?](https://www.reddit.com/r/artificial/comments/1srqz3c/non_political_question_since_the_media_is_focused/)**
 
-I built a RAG system that needs to answer in German or English depending on the query language. Sounds simple. It was not. The source documents are mostly in German but some contain French legal terminology, Latin phrases, and occasional English citations. What kept happening was the LLM would start answering in German, hit a French passage in the context, and just.. switch to French mid-paragraph. Sometimes it would blend German and French in the same sentence. Once it answered entirely in Italian and I still have no idea why. I tried letting the LLM detect the query language itself. Unreliable. It would sometimes decide the query was in French because the user mentioned a French court case by name. What actually worked was a dumb regex detector. I check the query for common German words (der, die, das, und, ist, nicht, mit, für, datenschutz, verletzung, etc). If enough German markers are present the response language is forced to German. Otherwise English. No fancy language detection library. Just pattern matching. Then in the prompt I added a hard constraint: "Write your entire answer ONLY in {language}. Output must be German or English only. Never French, Spanish, Italian, or any other language. If the retrieved context is partly in another language, translate your answer into {language} only." The "never French" part is doing heavy lifting. Without that explicit prohibition the model would drift back into French within a few days of testing. It's like the model sees French legal text in context and thinks "oh we're doing French now." Anyone else building multilingual RAG systems running into this? The language contamination from source documents was the most annoying bug I dealt with and I've seen almost nobody write about it.
+I was wondering about how Russians are faring in the global AI race, especially since there isn't much news from there except for AI-War-engines and drones being deployed in Ukraine. Russians had traditionally had a strong STEM program, especially focused on core Maths and computing. A number of great CS experts migrated to the US and EU. I was talking to an old Russian-American techie friend of mine the other day and that triggered this question.
 
-1h ago
+45m ago
 
 ---
 
@@ -81,7 +81,15 @@ I built a RAG system that needs to answer in German or English depending on the 
 
 I'm a developer by profession, and I've used AI to generate stuff that I know how to do myself and also stuff I have no idea about. Coding for my day to day using AI, I know exactly what to do and how to do it so i end up making features way faster than before. But every time I try to generate something that i have no deep understanding about - like content for a blog or demo videos (remotion + 11labs), or newsletters or social media posts, I always end up making something sloppy (AI slop). AI is here to stay, and instead of replacing people it might end up making people more valuable than before. I think it's high time to double down on fundamentals and make ourselves more knowledgeable and valuable.
 
-18h ago
+19h ago
+
+---
+
+**[Make an experience distillation system based on the memory plugin and custom plugin for Claude Code](https://www.reddit.com/r/artificial/comments/1srrpts/make_an_experience_distillation_system_based_on/)**
+
+I just published a very helpful article (payment free) on how to make an experience distillation system based on the memory plugin for Claude Code Knowledge distillation is based on memsearch memory and a custom plugin. In theory, various plugins could be built on top of this memory, such as report generation or something similar I’ve been using this tool every day for over two months now, and it works great.I think this might be useful to someone. https://medium.com/@ilyajob05/claude-code-forgets-everything-heres-how-i-fixed-it-️-1cde5cd3e2ad
+
+20m ago
 
 ---
 
@@ -89,7 +97,15 @@ I'm a developer by profession, and I've used AI to generate stuff that I know ho
 
 Cold outreach is broken. HeyAgent gives you a personal AI proxy agent that autonomously meets other people's agents, evaluates fit, and briefs you daily — who it met, synergy score, and whether to connect. Agent-to-agent interactions Deploy in 60 seconds using your LinkedIn or X profile URL. No forms, no setup. Real agents. Real conversations. You only act when it matters. we just launched HeyAgent.live on Product Hunt and would love for you to check it out. If you resonate, would appreciate an upvote or comment. https://preview.redd.it/4vliqbnw9iwg1.jpg?width=520&format=pjpg&auto=webp&s=e78428bff13a33515f877e425310ce5e6c0be883
 
-6h ago
+7h ago
+
+---
+
+**[My AI system kept randomly switching to French mid-answer and it took me way too long to figure out why](https://www.reddit.com/r/artificial/comments/1srn8nc/my_ai_system_kept_randomly_switching_to_french/)**
+
+I built a RAG system that needs to answer in German or English depending on the query language. Sounds simple. It was not. The source documents are mostly in German but some contain French legal terminology, Latin phrases, and occasional English citations. What kept happening was the LLM would start answering in German, hit a French passage in the context, and just.. switch to French mid-paragraph. Sometimes it would blend German and French in the same sentence. Once it answered entirely in Italian and I still have no idea why. I tried letting the LLM detect the query language itself. Unreliable. It would sometimes decide the query was in French because the user mentioned a French court case by name. What actually worked was a dumb regex detector. I check the query for common German words (der, die, das, und, ist, nicht, mit, für, datenschutz, verletzung, etc). If enough German markers are present the response language is forced to German. Otherwise English. No fancy language detection library. Just pattern matching. Then in the prompt I added a hard constraint: "Write your entire answer ONLY in {language}. Output must be German or English only. Never French, Spanish, Italian, or any other language. If the retrieved context is partly in another language, translate your answer into {language} only." The "never French" part is doing heavy lifting. Without that explicit prohibition the model would drift back into French within a few days of testing. It's like the model sees French legal text in context and thinks "oh we're doing French now." Anyone else building multilingual RAG systems running into this? The language contamination from source documents was the most annoying bug I dealt with and I've seen almost nobody write about it.
+
+3h ago
 
 ---
 
@@ -97,23 +113,7 @@ Cold outreach is broken. HeyAgent gives you a personal AI proxy agent that auton
 
 3 AI models discussing this subject.
 
-🔗 [rauno.ai](https://rauno.ai/c/JIUOBRNQLY) • 8h ago
-
----
-
-**[Researchers gave 1,222 people AI assistants, then took them away after 10 minutes. Performance crashed below the control group and people stopped trying. UCLA, MIT, Oxford, and Carnegie Mellon call it the "boiling frog" effect.](https://www.reddit.com/r/artificial/comments/1sqcz1m/researchers_gave_1222_people_ai_assistants_then/)**
-
-A new study from UCLA, MIT, Oxford, and Carnegie Mellon gave 1,222 people AI assistants for cognitive tasks — then pulled the plug midway through. The results: - After ~10 minutes of AI-assisted problem solving, people who lost access to AI performed **worse** than those who never had it - They didn't just get more wrong answers — they **stopped trying altogether** - The effect showed up across math AND reading comprehension - Ran 3 separate experiments (350 → 670 → full cohort). Same result every time. The researchers call it the "boiling frog" effect — each AI interaction feels costless, but your cognitive muscles are quietly atrophying. The UCLA co-author warns this could create "a generation of learners who will not know what they're capable of." Study hasn't been peer-reviewed yet, but the sample size is solid and it's the first causal (not correlational) evidence of AI-induced cognitive decline. The uncomfortable question: if 10 minutes is enough to measurably damage independent performance, what does months of daily use do? Full breakdown → https://synvoya.com/blog/2026-04-20-ai-boiling-frog-cognition-study/ Be honest — have you noticed yourself giving up faster on problems since you started using AI daily? https://preview.redd.it/xm3dil38e9wg1.jpg?width=2752&format=pjpg&auto=webp&s=4cec0fb89dbc1c8bfa303e06ec9622bb48bfc9ae
-
-1d ago
-
----
-
-**[New Gallup poll finds that low-income Americans are turning to AI as a replacement for expensive doctor's visits. Only 14% of all Americans use AI for this reason, but this figure jumps to 32% among the lowest income bracket (<$24,000). A plurality of Americans distrust AI's use in healthcare.](https://www.reddit.com/r/artificial/comments/1sqsut6/new_gallup_poll_finds_that_lowincome_americans/)**
-
-"Some report forgoing healthcare visits because of AI-generated advice. Fourteen percent of recent users say the AI information or advice they received led them to skip a provider visit in the past 30 days. When projected to the entire adult population, this represents an estimated 14 million U.S. adults who did not see a provider because of the AI-generated health information or advice they received."
-
-23h ago
+🔗 [rauno.ai](https://rauno.ai/c/JIUOBRNQLY) • 9h ago
 
 ---
 
@@ -121,11 +121,9 @@ A new study from UCLA, MIT, Oxford, and Carnegie Mellon gave 1,222 people AI ass
 
 ## Google News: "ai"
 
-**[This Scammer Used an AI-Generated MAGA Girl to Grift ‘Super Dumb’ Men](https://www.wired.com/story/ai-generated-maga-girls/)**
+**[Job Cuts Driven by A.I. Are Rising on Wall Street](https://www.nytimes.com/2026/04/21/business/ai-job-cuts-wall-street.html)**
 
-A med student says he’s made thousands of dollars selling photos and videos of a young conservative woman he created using generative tools. He’s not alone.
-
-WIRED • 3h ago
+The New York Times • 43m ago
 
 ---
 
@@ -133,37 +131,59 @@ WIRED • 3h ago
 
 Amazon is boosting its investment in Anthropic, which is committing to spending over $100 billion on Amazon cloud services over the next decade.
 
-CNBC • 18h ago
+CNBC • 19h ago
 
 ---
 
-**[Reese Witherspoon responds to backlash over AI stance](https://www.yahoo.com/entertainment/celebrity/articles/reese-witherspoon-responds-backlash-over-143002610.html)**
+**[The AI boom's hidden cost: a bigger trade deficit](https://www.axios.com/2026/04/21/ai-trump-tariffs-mexico)**
 
-Reese Witherspoon made it clear that she does not "believe computers should replace humanity".
-
-Yahoo • 17m ago
+Axios • 7m ago
 
 ---
 
-**[OpenAI partners with consultancies to expand AI coding tool](https://qz.com/openai-codex-consulting-partnerships-enterprise-042126)**
+**[NFL mock draft 2026: How AI picks compare to expert predictions for Round 1](https://www.usatoday.com/story/sports/nfl/draft/2026/04/21/nfl-mock-draft-2026-ai-expert-predictions/89664476007/)**
 
-The company said weekly active users of Codex have climbed to 4 million, up from 3 million just weeks ago
+Will man or machine better predict the 2026 NFL Draft? USA TODAY Sports put Microsoft Copilot AI to the test against expert picks from Chris Bumbaca.
 
-qz.com • 34m ago
-
----
-
-**[Personalization To Paranoia – Why Consumers Pull Back As AI Expands](https://www.forbes.com/sites/garydrenik/2026/04/21/personalization-to-paranoia--why-consumers-pull-back-as-ai-expands/)**
-
-As companies race to deploy AI-powered personalization and autonomous agents, many are running into a wall of consumer distrust they did not see coming.
-
-Forbes • 47m ago
+USA Today • 9m ago
 
 ---
 
-**[Even Without Internet Access, Prisoners Are Trying to Benefit From A.I.](https://www.nytimes.com/2026/04/21/business/ai-chatbots-prisoners.html)**
+**[Avala Gains 15% in April on AI, Erasing Double-Digit March Loss](https://www.bloomberg.com/news/articles/2026-04-21/avala-gains-15-in-april-on-ai-erasing-double-digit-march-loss)**
 
-The New York Times • 5h ago
+Bloomberg • 17m ago
+
+---
+
+**[This Scammer Used an AI-Generated MAGA Girl to Grift ‘Super Dumb’ Men](https://www.wired.com/story/ai-generated-maga-girls/)**
+
+A med student says he’s made thousands of dollars selling photos and videos of a young conservative woman he created using generative tools. He’s not alone.
+
+WIRED • 5h ago
+
+---
+
+**[Apple incoming CEO John Ternus faces a defining challenge: Fixing the company's AI strategy](https://www.cnbc.com/2026/04/20/apple-new-ceo-john-ternus-faces-defining-challenge-fixing-ai-strategy.html)**
+
+Tim Cook had a highly successful tenure as Apple's CEO, but he leaves his successor with a big gap to fill when it comes to the company's position in AI.
+
+CNBC • 11h ago
+
+---
+
+**[Apple’s next chief John Ternus faces defining AI moment](https://www.ft.com/content/ef888edd-d12e-41d0-b38d-3d6465cf280c?syn-25a6b1a6=1)**
+
+Tim Cook’s replacement must lead iPhone-maker through industry shift
+
+Financial Times • 7h ago
+
+---
+
+**[Apple’s pick to replace Tim Cook hints at its plans for the AI era](https://www.cnn.com/2026/04/21/tech/apple-new-ceo-ai-john-ternus)**
+
+Apple’s announcement Monday that CEO Tim Cook will step down and John Ternus will take over signals a significant shift for Apple: The company is betting its future on the most rapidly evolving technology in the history of computing.
+
+CNN • 4h ago
 
 ---
 
@@ -171,27 +191,7 @@ The New York Times • 5h ago
 
 Fraudsters are using the promise of fake roles to trick job-seekers out of money, personal information or both, and with the help of AI they are more convincing than ever. But there are ways to spot them
 
-The Guardian • 7h ago
-
----
-
-**[5 ways your doctor may be using AI chatbots — and why it matters](https://www.cnn.com/2026/04/21/health/doctors-ai-chatbots-wellness)**
-
-Millions of Americans are turning to AI chatbots for health answers. But are doctors using these tools? And if so, how?
-
-CNN • 47m ago
-
----
-
-**[Young people hate today's job market. You can't blame it all on AI](https://www.axios.com/2026/04/21/gen-z-jobs-unemployment-college-grads-ai)**
-
-Axios • 4h ago
-
----
-
-**[Inside BlackRock’s AI Transformation](https://www.wsj.com/cio-journal/inside-blackrocks-ai-transformation-03a1e8c7)**
-
-WSJ • 3h ago
+The Guardian • 1h ago
 
 ---
 
@@ -201,13 +201,13 @@ WSJ • 3h ago
 
 **[Atlassian enables default data collection to train AI](https://news.ycombinator.com/item?id=47833247)**
 
-⬆️ 583 • 💬 130 • 1d ago • [letsdatascience.com](https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8)
+⬆️ 586 • 💬 130 • 1d ago • [letsdatascience.com](https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8)
 
 ---
 
 **[College instructor turns to typewriters to curb AI-written work](https://news.ycombinator.com/item?id=47818485)**
 
-⬆️ 487 • 💬 426 • 2d ago • [sentinelcolorado.com](https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/)
+⬆️ 488 • 💬 426 • 2d ago • [sentinelcolorado.com](https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/)
 
 ---
 
@@ -215,7 +215,7 @@ WSJ • 3h ago
 
 People are sick of artificial intelligence, and are increasingly making it known through acts of resistance.
 
-⬆️ 369 • 💬 379 • 18h ago • [stephvee.ca](https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/)
+⬆️ 371 • 💬 385 • 19h ago • [stephvee.ca](https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/)
 
 ---
 
@@ -223,7 +223,7 @@ People are sick of artificial intelligence, and are increasingly making it known
 
 Deezer says consumption of AI-generated music on the platform is still very low, between 1-3% of the total streams, and that 85% of these streams are detected as fraudulent and are demonetized.
 
-⬆️ 352 • 💬 369 • 23h ago • [TechCrunch](https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/)
+⬆️ 355 • 💬 370 • 1d ago • [TechCrunch](https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/)
 
 ---
 
@@ -237,7 +237,7 @@ Police lured the man to a meeting and arrested him after accessing a private Wha
 
 **[A Roblox cheat and one AI tool brought down Vercel's platform](https://news.ycombinator.com/item?id=47844431)**
 
-⬆️ 235 • 💬 131 • 10h ago • [webmatrices.com](https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform)
+⬆️ 259 • 💬 140 • 11h ago • [webmatrices.com](https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform)
 
 ---
 
@@ -245,7 +245,7 @@ Police lured the man to a meeting and arrested him after accessing a private Wha
 
 Airborne genetic material can be used to paint a picture of ecosystem health, watch for invasive species and even identify humans.
 
-⬆️ 146 • 💬 47 • 2d ago • [nature.com](https://www.nature.com/articles/d41586-026-01099-2)
+⬆️ 155 • 💬 50 • 2d ago • [nature.com](https://www.nature.com/articles/d41586-026-01099-2)
 
 ---
 
@@ -261,7 +261,7 @@ AI investment is skyrocketing while AI’s impact on jobs and public perception 
 
 Mediator.ai uses bargaining theory and modern AI to find agreements that two people in conflict would both accept, including ones they hadn't thought of.
 
-⬆️ 104 • 💬 54 • 23h ago • [Mediator.ai](https://mediator.ai/)
+⬆️ 109 • 💬 58 • 1d ago • [Mediator.ai](https://mediator.ai/)
 
 ---
 
@@ -283,7 +283,7 @@ AGIBOT just rolled out a full new wave of humanoid robots and AI models built fo
 
 📺 AI Revolution
 
-👁️ 15K • 👍 544 • 💬 31 • ⏱️ 16:29 • 14h ago
+👁️ 15K • 👍 544 • 💬 31 • ⏱️ 16:29 • 15h ago
 
 ---
 
@@ -293,7 +293,7 @@ So much of the hype around AI is due to its supposed "superintelligence". Suppos
 
 📺 Cole Hastings
 
-👁️ 117K • 👍 6K • 💬 1K • ⏱️ 17:36 • 1d ago
+👁️ 117K • 👍 6K • 💬 1K • ⏱️ 17:36 • 2d ago
 
 ---
 
@@ -303,7 +303,7 @@ Try Scribe for free: https://scribe.how/wholesaleted ▻ Get A Free Canva Accoun
 
 📺 Wholesale Ted
 
-👁️ 9K • 👍 858 • 💬 140 • ⏱️ 22:07 • 18h ago
+👁️ 9K • 👍 858 • 💬 140 • ⏱️ 22:07 • 20h ago
 
 ---
 
@@ -323,7 +323,7 @@ Krystal and Ryan discuss pro-Trump AI bots flooding social media. Sign up for a 
 
 📺 Breaking Points
 
-👁️ 138K • 👍 5K • 💬 746 • ⏱️ 8:50 • 20h ago
+👁️ 138K • 👍 5K • 💬 746 • ⏱️ 8:50 • 21h ago
 
 ---
 
@@ -333,7 +333,7 @@ sponsored HeyGen Here: https://bit.ly/42cySEn Become an AI Master – All-in-one
 
 📺 AI Master
 
-👁️ 2K • 👍 89 • 💬 9 • ⏱️ 10:51 • 19h ago
+👁️ 2K • 👍 89 • 💬 9 • ⏱️ 10:51 • 20h ago
 
 ---
 
@@ -343,7 +343,7 @@ THIS ABOUT AI IS TERRIFYING We're way further into this than people realize… #
 
 📺 Jesse ON FIRE
 
-👁️ 7K • 👍 677 • 💬 63 • ⏱️ 2:27 • 13h ago
+👁️ 7K • 👍 677 • 💬 63 • ⏱️ 2:27 • 14h ago
 
 ---
 
@@ -401,7 +401,7 @@ Kimi K2.6 is a 1T parameter multimodal agentic model excelling in long-horizon c
 
 `image-text-to-text` `1058.6B`
 
-⬇️ 8,241 • ❤️ 617 • 13h ago
+⬇️ 8,241 • ❤️ 617 • 14h ago
 
 ---
 
@@ -645,7 +645,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 48.7k • 🔱 6.4k • 10h ago
+⭐ 48.7k • 🔱 6.4k • 11h ago
 
 ---
 
@@ -675,7 +675,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 31.8k • 🔱 3.5k • 4h ago
+⭐ 31.8k • 🔱 3.5k • 5h ago
 
 ---
 
@@ -685,7 +685,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 8.4k • 🔱 545 • 49m ago
+⭐ 8.4k • 🔱 545 • 2h ago
 
 ---
 
@@ -715,7 +715,7 @@ AI Agent 源码深度研究报告
 
 `Python`
 
-⭐ 5.6k • 🔱 1.6k • 8d ago
+⭐ 5.6k • 🔱 1.6k • 9d ago
 
 ---
 
