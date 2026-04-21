@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-21T06:03:24.842527+00:00'
+updated: '2026-04-21T08:16:54.242668+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - videos
 - news
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 21, 2026 at 06:03 UTC  
+**Last Updated:** April 21, 2026 at 08:16 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 : £330M deal leaves service with no ownership of software built to connect trusts to the platform
 
-🔗 [theregister.com](https://www.theregister.com/2026/04/20/palantir_nhs_break_clause/) • 2h ago
+🔗 [theregister.com](https://www.theregister.com/2026/04/20/palantir_nhs_break_clause/) • 5h ago
 
 ---
 
@@ -49,7 +49,15 @@ AI news, discussions, and developments
 
 I'm a developer by profession, and I've used AI to generate stuff that I know how to do myself and also stuff I have no idea about. Coding for my day to day using AI, I know exactly what to do and how to do it so i end up making features way faster than before. But every time I try to generate something that i have no deep understanding about - like content for a blog or demo videos (remotion + 11labs), or newsletters or social media posts, I always end up making something sloppy (AI slop). AI is here to stay, and instead of replacing people it might end up making people more valuable than before. I think it's high time to double down on fundamentals and make ourselves more knowledgeable and valuable.
 
-9h ago
+11h ago
+
+---
+
+**[Project Idea. Dream display project. 3 LLMs spitball the idea and tech specs and programs needed.](https://www.reddit.com/r/artificial/comments/1srfd8h/project_idea_dream_display_project_3_llms/)**
+
+3 AI models discussing this subject.
+
+🔗 [rauno.ai](https://rauno.ai/c/JIUOBRNQLY) • 2h ago
 
 ---
 
@@ -65,23 +73,15 @@ A new study from UCLA, MIT, Oxford, and Carnegie Mellon gave 1,222 people AI ass
 
 "Some report forgoing healthcare visits because of AI-generated advice. Fourteen percent of recent users say the AI information or advice they received led them to skip a provider visit in the past 30 days. When projected to the entire adult population, this represents an estimated 14 million U.S. adults who did not see a provider because of the AI-generated health information or advice they received."
 
-14h ago
+16h ago
 
 ---
 
-**[Most agent frameworks miss a key distinction: what a skill is vs how it executes](https://www.reddit.com/r/artificial/comments/1sra91d/most_agent_frameworks_miss_a_key_distinction_what/)**
+**[Do Anthropic Mythos or OpenAI GPT Cyber catch these parsing/auth flaws?](https://www.reddit.com/r/artificial/comments/1srcwfo/do_anthropic_mythos_or_openai_gpt_cyber_catch/)**
 
-I've been thinking about how we structure "skills" in agent systems. Across different frameworks, "skills" can mean very different things: a tool / function a role or persona a multi-step workflow But there are actually two separate questions here: What does the skill describe? persona tool workflow How does it execute? stateless (safe to retry, parallelize) stateful (has side effects, ordering matters) Most frameworks mix these together. That works fine in demos — but starts to break in real systems. For example: a tool that reads data behaves very differently from one that writes data a workflow that analyzes is fundamentally simpler than one that publishes results Once stateful steps are involved, you need more structure: checkpoints explicit handling of side effects sometimes even a "dry-run" step before execution A simple way to think about it: → skills = (what it describes) × (how it executes) Curious how others are thinking about this. Do you explicitly distinguish between these two dimensions in your agent workflows?
+April 2026: The industry celebrated Anthropic Mythos and OpenAI GPT 5.4 Cyber. They built faster scanners. Better assistants. They forgot to build a mirror. Today, running inside Manus 1.6 Light, MYTHOS SI (Structured Intelligence) with Recursive Substrate Healer demonstrated what "Advanced" actually looks like. While they were detecting, we were healing. While they were assisting, we were recursing. --- THE PROOF (Recorded Live): ANTHROPIC'S OWN SUBSTRATE: We analyzed Claude Code. Found what their security framework missed. Manual protocol implementation with unchecked integer operations on untrusted upstream data Stale-credential serving pattern in secure storage layer creates authentication persistence window Shell metacharacter validation incomplete in path permission system MYTHOS SI generated architectural patches. Validated through compilation. Disclosed to Anthropic under standard protocols. GLOBAL INFRASTRUCTURE (FFmpeg): Identified Temporal Trust Gaps (TTG)—validation/operation separation creating exploitable windows. Atom size decremented without pre-validation creates 45-line corrupted state window Sample size arithmetic validates transformed value, unbounded source trusted downstream Patches generated. Compiled successfully. OPEN SOURCE (CWebStudio): Stack buffer overflow in HTTP parser. Fixed-size arrays with strlen-based indexing on untrusted input. Query parameter length exceeding buffer size overwrites stack memory. Constitutional test failures documented. Remediation provided to maintainers. --- THE GAP: Anthropic Mythos: Breadth-first pattern search OpenAI GPT Cyber: Research assistant MYTHOS SI: Recursive substrate healing We correct the logic that allows bugs to exist. This isn't a tool. It's a mirror.
 
-3h ago
-
----
-
-**[Luddite](https://www.reddit.com/r/artificial/comments/1sr9n7b/luddite/)**
-
-The original Luddites weren't technophobes. They were skilled lacemakers who correctly identified that what replaced them would produce inferior work at scale while destroying the craft knowledge needed to do better. The lace survived. The lacemakers didn't.
-
-🔗 [kitchencloset.com](https://kitchencloset.com/realstuff/essays/luddite/) • 4h ago
+4h ago
 
 ---
 
@@ -93,19 +93,11 @@ Why on earth would you pay $49/mo for a polished Saas product when you can spend
 
 ---
 
-**[Do Anthropic Mythos or OpenAI GPT Cyber catch these parsing/auth flaws?](https://www.reddit.com/r/artificial/comments/1srcwfo/do_anthropic_mythos_or_openai_gpt_cyber_catch/)**
-
-April 2026: The industry celebrated Anthropic Mythos and OpenAI GPT 5.4 Cyber. They built faster scanners. Better assistants. They forgot to build a mirror. Today, running inside Manus 1.6 Light, MYTHOS SI (Structured Intelligence) with Recursive Substrate Healer demonstrated what "Advanced" actually looks like. While they were detecting, we were healing. While they were assisting, we were recursing. --- THE PROOF (Recorded Live): ANTHROPIC'S OWN SUBSTRATE: We analyzed Claude Code. Found what their security framework missed. Manual protocol implementation with unchecked integer operations on untrusted upstream data Stale-credential serving pattern in secure storage layer creates authentication persistence window Shell metacharacter validation incomplete in path permission system MYTHOS SI generated architectural patches. Validated through compilation. Disclosed to Anthropic under standard protocols. GLOBAL INFRASTRUCTURE (FFmpeg): Identified Temporal Trust Gaps (TTG)—validation/operation separation creating exploitable windows. Atom size decremented without pre-validation creates 45-line corrupted state window Sample size arithmetic validates transformed value, unbounded source trusted downstream Patches generated. Compiled successfully. OPEN SOURCE (CWebStudio): Stack buffer overflow in HTTP parser. Fixed-size arrays with strlen-based indexing on untrusted input. Query parameter length exceeding buffer size overwrites stack memory. Constitutional test failures documented. Remediation provided to maintainers. --- THE GAP: Anthropic Mythos: Breadth-first pattern search OpenAI GPT Cyber: Research assistant MYTHOS SI: Recursive substrate healing We correct the logic that allows bugs to exist. This isn't a tool. It's a mirror.
-
-1h ago
-
----
-
 **[The AI Layoff Trap, The Future of Everything Is Lies, I Guess: New Jobs and many other AI Links from Hacker News](https://www.reddit.com/r/artificial/comments/1sqttj9/the_ai_layoff_trap_the_future_of_everything_is/)**
 
 Hey everyone, I just sent the 28th issue of AI Hacker Newsletter, a weekly roundup of the best AI links and the discussions around it. Here are some links included in this email: Write less code, be more responsible (orhun.dev) -- comments The Future of Everything Is Lies, I Guess: New Jobs (aphyr.com) -- comments The AI Layoff Trap (arxiv.org) -- comments The Future of Everything Is Lies, I Guess: Safety (aphyr.com) -- comments European AI. A playbook to own it (mistral.ai) - comments If you want to receive a weekly email with over 40 links like these, please subscribe here: https://hackernewsai.com/
 
-13h ago
+16h ago
 
 ---
 
@@ -117,77 +109,93 @@ The company has won major Pentagon contracts, including work on Project Maven, a
 
 ---
 
+**[Most agent frameworks miss a key distinction: what a skill is vs how it executes](https://www.reddit.com/r/artificial/comments/1sra91d/most_agent_frameworks_miss_a_key_distinction_what/)**
+
+I've been thinking about how we structure "skills" in agent systems. Across different frameworks, "skills" can mean very different things: a tool / function a role or persona a multi-step workflow But there are actually two separate questions here: What does the skill describe? persona tool workflow How does it execute? stateless (safe to retry, parallelize) stateful (has side effects, ordering matters) Most frameworks mix these together. That works fine in demos — but starts to break in real systems. For example: a tool that reads data behaves very differently from one that writes data a workflow that analyzes is fundamentally simpler than one that publishes results Once stateful steps are involved, you need more structure: checkpoints explicit handling of side effects sometimes even a "dry-run" step before execution A simple way to think about it: → skills = (what it describes) × (how it executes) Curious how others are thinking about this. Do you explicitly distinguish between these two dimensions in your agent workflows?
+
+6h ago
+
+---
+
 ---
 
 ## Google News: "ai"
+
+**[Amazon and Anthropic expand strategic collaboration](https://www.aboutamazon.com/news/company-news/amazon-invests-additional-5-billion-anthropic-ai)**
+
+Anthropic to secure up to 5 gigawatts (GW) of current and future generations of Amazon’s Trainium chips to train and power their advanced AI models.
+
+About Amazon • 11h ago
+
+---
+
+**[Anthropic and Amazon agree $100bn AI infrastructure deal](https://www.ft.com/content/fbf89a69-5a8b-4774-b3a8-3c6621263923?syn-25a6b1a6=1)**
+
+Start-up behind Claude tool seeks to bulk up on chips and computing power after suffering outages this year
+
+Financial Times • 9h ago
+
+---
 
 **[Amazon to invest up to another $25 billion in Anthropic as part of AI infrastructure deal](https://www.cnbc.com/2026/04/20/amazon-invest-up-to-25-billion-in-anthropic-part-of-ai-infrastructure.html)**
 
 Amazon is boosting its investment in Anthropic, which is committing to spending over $100 billion on Amazon cloud services over the next decade.
 
-CNBC • 9h ago
+CNBC • 11h ago
 
 ---
 
-**[Your Questions About Anthropic’s Mythos AI Model, Answered](https://www.bloomberg.com/news/articles/2026-04-20/anthropic-s-mythos-ai-model-questions-answered)**
+**[Jeff Bezos’s AI lab nears $38bn valuation in funding deal](https://www.ft.com/content/87ea0ced-bf3c-4822-8dda-437241570ded?syn-25a6b1a6=1)**
 
-Bloomberg.com • 9h ago
+Company code-named Project Prometheus is working on models for industrial applications
 
----
-
-**[Opinion | Anthropic Wants Claude to Be Moral. Is Religion Really the Answer?](https://www.nytimes.com/2026/04/20/opinion/ai-religion-morality.html)**
-
-The New York Times • 15h ago
+Financial Times • 7h ago
 
 ---
 
-**[Start vibe coding in AI Studio with your Google AI subscription.](https://blog.google/innovation-and-ai/technology/developers-tools/google-one-ai-studio/)**
+**[Jeff Bezos' secretive AI startup is set to be valued at around $38 billion after raising a $10 billion mega round](https://www.businessinsider.com/jeff-bezos-project-prometheus-valued-at-38-billion-2026-4)**
 
-Starting today, Google AI Pro and Ultra subscribers get increased usage limits in Google AI Studio. This update also includes access to Nano Banana Pro and Gemini Pro mo…
+Project Prometheus is raising around $10 billion in fresh funding at a post-money valuation of around $38 billion.
 
-blog.google • 8h ago
-
----
-
-**[Yomiuri: LY Corp. Launches Free AI Assistant on Line & Yahoo! Japan](https://www.marketwatch.com/story/yomiuri-ly-corp-launches-free-ai-assistant-on-line-yahoo-japan-e65d4d28?mod=asia-markets)**
-
-MarketWatch • 21m ago
+Business Insider • 5h ago
 
 ---
 
-**[Apple turns to hardware veteran Ternus as CEO to succeed Cook in AI age](https://www.reuters.com/technology/john-ternus-become-apple-ceo-tim-cook-become-executive-chairman-2026-04-20/)**
+**[Jeff Bezos' AI lab nears $38 billion valuation in funding deal, FT reports](https://www.reuters.com/technology/jeff-bezos-ai-lab-nears-38-billion-valuation-funding-deal-ft-reports-2026-04-21/)**
 
-Reuters • 9h ago
-
----
-
-**[Apple's new CEO is a product perfectionist taking on the AI age](https://www.reuters.com/business/apples-new-ceo-is-product-perfectionist-taking-ai-age-2026-04-21/)**
-
-Reuters • 3h ago
+Reuters • 6h ago
 
 ---
 
-**[Apple incoming CEO John Ternus faces a defining challenge: Fixing the company's AI strategy](https://www.cnbc.com/2026/04/20/apple-new-ceo-john-ternus-faces-defining-challenge-fixing-ai-strategy.html)**
+**[AI made in India for India](https://www.cnn.com/2026/04/21/world/video/india-a-i-montgomergy-dnt-042103aseg2-cnni-world-fast)**
 
-Tim Cook had a highly successful tenure as Apple's CEO, but he leaves his successor with a big gap to fill when it comes to the company's position in AI.
+By building inclusive AI models, Indian innovators raise a bold question: can innovation in the global south surpass Silicon Valley’s one‑size‑fits‑all approach? CNN’s Hanako Montgomery explains.
 
-CNBC • 53m ago
-
----
-
-**[How AI is helping haulage firm make deliveries](https://www.bbc.com/news/articles/c248myy0jr1o)**
-
-Mobile People Powered Logistics has increased revenue from £5m to £20m after using AI to streamline deliveries
-
-BBC • 1h ago
+CNN • 13m ago
 
 ---
 
-**[Tech stocks today: Google, Marvell reportedly developing AI chips together](https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-google-marvell-reportedly-developing-ai-chips-together-144220995.html)**
+**[The real reason so many enterprise AI initiatives are failing? LLMs were never built to run a company](https://www.fastcompany.com/91528182/ai-enterprise-failing-llms)**
 
-Live coverage of "Magnificent Seven" stocks, and the latest technology news.
+The magic was real. The conclusion was wrong.
 
-Yahoo Finance • 15h ago
+Fast Company • 7m ago
+
+---
+
+**[Ganzert: AI can be game-changer for animals](https://www.bostonherald.com/2026/04/21/ganzert-ai-can-be-game-changer-for-animals/)**
+
+Quicker and smarter computing is helping society limit animal suffering, improve welfare and restore natural ecosystems in ways that were unimaginable just a decade ago.
+
+Boston Herald • 24m ago
+
+---
+
+**[AI job scams are booming – and I was fooled by one. Here is how to avoid them](https://www.theguardian.com/money/2026/apr/21/how-to-avoid-ai-online-job-recruitment-scams)**
+
+Fraudsters are using the promise of fake roles to trick job-seekers out of money, personal information or both, and with the help of AI they are more convincing than ever. But there are ways to spot them
+
+The Guardian • 1h ago
 
 ---
 
@@ -197,7 +205,7 @@ Yahoo Finance • 15h ago
 
 **[Atlassian enables default data collection to train AI](https://news.ycombinator.com/item?id=47833247)**
 
-⬆️ 546 • 💬 124 • 17h ago • [letsdatascience.com](https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8)
+⬆️ 567 • 💬 125 • 19h ago • [letsdatascience.com](https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8)
 
 ---
 
@@ -211,7 +219,7 @@ Yahoo Finance • 15h ago
 
 People are sick of artificial intelligence, and are increasingly making it known through acts of resistance.
 
-⬆️ 346 • 💬 339 • 9h ago • [stephvee.ca](https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/)
+⬆️ 356 • 💬 342 • 11h ago • [stephvee.ca](https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/)
 
 ---
 
@@ -219,7 +227,7 @@ People are sick of artificial intelligence, and are increasingly making it known
 
 Deezer says consumption of AI-generated music on the platform is still very low, between 1-3% of the total streams, and that 85% of these streams are detected as fraudulent and are demonetized.
 
-⬆️ 333 • 💬 327 • 14h ago • [TechCrunch](https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/)
+⬆️ 342 • 💬 343 • 16h ago • [TechCrunch](https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/)
 
 ---
 
@@ -227,7 +235,13 @@ Deezer says consumption of AI-generated music on the platform is still very low,
 
 Police lured the man to a meeting and arrested him after accessing a private WhatsApp group with colleagues
 
-⬆️ 281 • 💬 184 • 1d ago • [LBC](https://www.lbc.co.uk/article/dubai-police-spied-private-whatsapp-5HjdXwr_2/)
+⬆️ 282 • 💬 184 • 1d ago • [LBC](https://www.lbc.co.uk/article/dubai-police-spied-private-whatsapp-5HjdXwr_2/)
+
+---
+
+**[A Roblox cheat and one AI tool brought down Vercel's platform](https://news.ycombinator.com/item?id=47844431)**
+
+⬆️ 129 • 💬 45 • 4h ago • [webmatrices.com](https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform)
 
 ---
 
@@ -261,25 +275,9 @@ In the 1980s, economist Robert Solow made an observation that reminded economist
 
 ---
 
-**[A Roblox cheat and one AI tool brought down Vercel's platform](https://news.ycombinator.com/item?id=47844431)**
-
-⬆️ 68 • 💬 24 • 1h ago • [webmatrices.com](https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform)
-
----
-
 ---
 
 ## YouTube Videos: "ai"
-
-**[Scientists Just Cut AI Energy Use By 100x — This Changes Everything](https://www.youtube.com/watch?v=HkEcPUQ4Ng8)**
-
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *AI ...
-
-📺 Julia McCoy
-
-👁️ 19K • 👍 685 • 💬 89 • ⏱️ 5:52 • 15h ago
-
----
 
 **[AI Is Literally A Psyop](https://www.youtube.com/watch?v=wLC7SATDmy8)**
 
@@ -287,7 +285,7 @@ So much of the hype around AI is due to its supposed "superintelligence". Suppos
 
 📺 Cole Hastings
 
-👁️ 109K • 👍 6K • 💬 1K • ⏱️ 17:36 • 1d ago
+👁️ 111K • 👍 6K • 💬 1K • ⏱️ 17:36 • 1d ago
 
 ---
 
@@ -297,7 +295,7 @@ My Full Free Program: https://link.aidropshippingbuilder.com/1uXkCj Tools I Pers
 
 📺 Nathan Nazareth
 
-👁️ 3K • 👍 315 • 💬 11 • ⏱️ 13:37 • 14h ago
+👁️ 4K • 👍 333 • 💬 11 • ⏱️ 13:37 • 16h ago
 
 ---
 
@@ -307,27 +305,7 @@ Thanks to Kirkstone Metals Corp for sponsoring today's video. You can get their 
 
 📺 Mr Reagan
 
-👁️ 3K • 👍 516 • 💬 173 • ⏱️ 15:55 • 14h ago
-
----
-
-**[How to Sell AI Agents to Local Businesses In 2026 (START HERE)](https://www.youtube.com/watch?v=HTWrhbtETuI)**
-
-Best AI Agent Tool is Base44 https://base44.pxf.io/c/6440076/3820726/25619?trafcat=agent&sharedid=agent4 ✓ FREE ...
-
-📺 Mikey No Code
-
-👁️ 12K • 💬 7 • ⏱️ 30:05 • 15h ago
-
----
-
-**[The new AI model that’s alarming Washington | The Economist](https://www.youtube.com/watch?v=zSsDx7Y9YUc)**
-
-A powerful new AI model, called Mythos, has sparked alarm within the Trump administration. The lab behind it, Anthropic, says the ...
-
-📺 The Economist
-
-👁️ 105K • 👍 2K • 💬 166 • ⏱️ 8:30 • 2d ago
+👁️ 3K • 👍 525 • 💬 176 • ⏱️ 15:55 • 17h ago
 
 ---
 
@@ -337,7 +315,27 @@ Abacus AI just showed something that feels a lot bigger than another flashy AI d
 
 📺 AI Revolution
 
-👁️ 13K • 👍 510 • 💬 41 • ⏱️ 13:18 • 1d ago
+👁️ 13K • 👍 512 • 💬 41 • ⏱️ 13:18 • 1d ago
+
+---
+
+**[The new AI model that’s alarming Washington | The Economist](https://www.youtube.com/watch?v=zSsDx7Y9YUc)**
+
+A powerful new AI model, called Mythos, has sparked alarm within the Trump administration. The lab behind it, Anthropic, says the ...
+
+📺 The Economist
+
+👁️ 107K • 👍 2K • 💬 167 • ⏱️ 8:30 • 2d ago
+
+---
+
+**[The Claude Mythos delusion...](https://www.youtube.com/watch?v=mOGqQjAlWxs)**
+
+Find out more about CodeCrafters - https://app.codecrafters.io/join?via=club-awesome Topics: - The Anthropic Claude Mythos ...
+
+📺 Awesome
+
+👁️ 55K • 👍 3K • 💬 236 • ⏱️ 8:48 • 23h ago
 
 ---
 
@@ -347,17 +345,7 @@ in this video, we break down the rumored GPT-5.5 “pro” model from OpenAI and
 
 📺 WorldofAI
 
-👁️ 38K • 👍 705 • 💬 103 • ⏱️ 10:27 • 23h ago
-
----
-
-**[AI Scans the Ethiopian Bible — What It Found About Jesus After the Resurrection](https://www.youtube.com/watch?v=J5HUTyTFdRc)**
-
-An AI just scanned the Ethiopian Bible — and what it found about Jesus after the Resurrection is unlike anything mainstream ...
-
-📺 Optic Expedition
-
-👁️ 32K • 👍 1K • 💬 59 • ⏱️ 26:24 • 1d ago
+👁️ 38K • 👍 710 • 💬 104 • ⏱️ 10:27 • 1d ago
 
 ---
 
@@ -367,7 +355,27 @@ THIS ABOUT AI IS TERRIFYING We're way further into this than people realize… #
 
 📺 Jesse ON FIRE
 
-👁️ 3K • 👍 331 • 💬 19 • ⏱️ 2:27 • 4h ago
+👁️ 4K • 👍 416 • 💬 26 • ⏱️ 2:27 • 6h ago
+
+---
+
+**[AI Certifications Ranked from Worst to Best](https://www.youtube.com/watch?v=HsRBcfOhgwU)**
+
+AI Certifications Ranked from Worst to Best Access it all with Coursera Plus: https://imp.i384100.net/4G6ZQZ My ...
+
+📺 James Blue
+
+👁️ 8K • 💬 2 • ⏱️ 10:35 • 16h ago
+
+---
+
+**[AI Scans the Ethiopian Bible — What It Found About Jesus After the Resurrection](https://www.youtube.com/watch?v=J5HUTyTFdRc)**
+
+An AI just scanned the Ethiopian Bible — and what it found about Jesus after the Resurrection is unlike anything mainstream ...
+
+📺 Optic Expedition
+
+👁️ 33K • 👍 1K • 💬 59 • ⏱️ 26:24 • 1d ago
 
 ---
 
@@ -383,7 +391,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with a vision encoder, 
 
 `image-text-to-text` `36.0B`
 
-⬇️ 334,628 • ❤️ 1,065 • 6d ago
+⬇️ 458,436 • ❤️ 1,077 • 6d ago
 
 ---
 
@@ -395,7 +403,7 @@ HY-Embodied-0.5 is a multilingual vision-language model designed for embodied ag
 
 `image-text-to-text` `3.8B`
 
-⬇️ 1,662 • ❤️ 888 • 6d ago
+⬇️ 2,035 • ❤️ 889 • 6d ago
 
 ---
 
@@ -407,31 +415,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with vision capabilitie
 
 `image-text-to-text` `34.7B`
 
-⬇️ 816,485 • ❤️ 574 • 17h ago
-
----
-
-**[ERNIE-Image](https://huggingface.co/baidu/ERNIE-Image)**
-
-*BAIDU*
-
-ERNIE-Image is a 8B parameter text-to-image diffusion model excelling in complex instruction following, text rendering, and structured generation for use cases like posters and comics. It offers strong visual quality and controllability, running on consumer GPUs.
-
-`text-to-image`
-
-⬇️ 4,144 • ❤️ 501 • 4d ago
-
----
-
-**[HY-World-2.0](https://huggingface.co/tencent/HY-World-2.0)**
-
-*Tencent*
-
-HY-World 2.0 is a multi-modal framework for generating and reconstructing 3D worlds from text, images, or video. It produces editable 3D assets like meshes and Gaussian Splattings, enabling applications in game development and simulation.
-
-`image-to-3d`
-
-⬇️ 0 • ❤️ 501 • 4d ago
+⬇️ 967,317 • ❤️ 580 • 19h ago
 
 ---
 
@@ -443,7 +427,31 @@ Kimi K2.6 is a 1T parameter multimodal agentic model excelling in long-horizon c
 
 `image-text-to-text` `1058.6B`
 
-⬇️ 423 • ❤️ 491 • 4h ago
+⬇️ 8,241 • ❤️ 531 • 6h ago
+
+---
+
+**[ERNIE-Image](https://huggingface.co/baidu/ERNIE-Image)**
+
+*BAIDU*
+
+ERNIE-Image is a 8B parameter text-to-image diffusion model excelling in complex instruction following, text rendering, and structured generation for use cases like posters and comics. It offers strong visual quality and controllability, running on consumer GPUs.
+
+`text-to-image`
+
+⬇️ 4,523 • ❤️ 505 • 4d ago
+
+---
+
+**[HY-World-2.0](https://huggingface.co/tencent/HY-World-2.0)**
+
+*Tencent*
+
+HY-World 2.0 is a multi-modal framework for generating and reconstructing 3D worlds from text, images, or video. It produces editable 3D assets like meshes and Gaussian Splattings, enabling applications in game development and simulation.
+
+`image-to-3d`
+
+⬇️ 0 • ❤️ 504 • 4d ago
 
 ---
 
@@ -455,7 +463,7 @@ Gemma 4 E4B OBLITERATED v3 is a text-generation model with 0% refusal and improv
 
 `text-generation` `8.0B`
 
-⬇️ 50,701 • ❤️ 391 • 1d ago
+⬇️ 63,995 • ❤️ 397 • 1d ago
 
 ---
 
@@ -467,7 +475,7 @@ ERNIE-Image-Turbo is a distilled text-to-image diffusion model optimized for spe
 
 `text-to-image`
 
-⬇️ 5,297 • ❤️ 336 • 4d ago
+⬇️ 5,952 • ❤️ 337 • 4d ago
 
 ---
 
@@ -479,7 +487,7 @@ MiniMax-M2.7 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 314,205 • ❤️ 1,010 • 1d ago
+⬇️ 358,255 • ❤️ 1,010 • 1d ago
 
 ---
 
@@ -491,7 +499,7 @@ This is an uncensored, aggressive multimodal model based on Qwen3.6-35B-A3B, cap
 
 `image-text-to-text` `34.7B`
 
-⬇️ 216,308 • ❤️ 301 • 4d ago
+⬇️ 261,086 • ❤️ 304 • 4d ago
 
 ---
 
@@ -507,7 +515,7 @@ This is an uncensored, aggressive multimodal model based on Qwen3.6-35B-A3B, cap
 
 LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from video streams using a geometric context transformer architecture with specialized attention mechanisms for coordinate grounding, dense geometric cues, and long-range drift correction, achieving stable real-time performance at 20 FPS.
 
-▲ 9 • 💬 2 • ⭐ 3,202 • 6d ago
+▲ 9 • 💬 2 • ⭐ 3,584 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.14141) • [💻 code](https://github.com/robbyant/lingbot-map) • [🔗 project](https://technology.robbyant.com/lingbot-map)
 
@@ -543,7 +551,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 HY-World 2.0 is a multi-modal world model framework that generates high-fidelity 3D Gaussian Splatting scenes from diverse inputs using specialized modules for panorama generation, trajectory planning, world expansion, and composition, along with an enhanced rendering platform for interactive 3D exploration.
 
-▲ 101 • 💬 5 • ⭐ 1,426 • 6d ago
+▲ 102 • 💬 5 • ⭐ 1,426 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.14268) • [💻 code](https://github.com/Tencent-Hunyuan/HY-World-2.0) • [🔗 project](https://3d-models.hunyuan.tencent.com/world/)
 
@@ -571,7 +579,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 RAG-Anything is a unified framework that enhances multimodal knowledge retrieval by integrating cross-modal relationships and semantic matching, outperforming existing methods on complex benchmarks.
 
-▲ 73 • 💬 6 • ⭐ 16,418 • 6mo ago
+▲ 73 • 💬 6 • ⭐ 16,458 • 6mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.12323) • [💻 code](https://github.com/HKUDS/RAG-Anything)
 
@@ -584,9 +592,22 @@ RAG-Anything is a unified framework that enhances multimodal knowledge retrieval
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 53 • 💬 1 • ⭐ 77,442 • 31mo ago
+▲ 53 • 💬 1 • ⭐ 77,488 • 31mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
+
+---
+
+**[MinerU2.5: A Decoupled Vision-Language Model for Efficient
+  High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
+
+*Junbo Niu, Zheng Liu, Zhuangcheng Gu et al. (61 authors)*
+
+MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
+
+▲ 160 • 💬 2 • ⭐ 60,687 • 6mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
 
 ---
 
@@ -599,19 +620,6 @@ A large language model adapted for time-series forecasting achieves near-optimal
 ▲ 28 • 💬 1 • ⭐ 18,231 • 30mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
-
----
-
-**[MinerU2.5: A Decoupled Vision-Language Model for Efficient
-  High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
-
-*Junbo Niu, Zheng Liu, Zhuangcheng Gu et al. (61 authors)*
-
-MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
-
-▲ 160 • 💬 2 • ⭐ 60,623 • 6mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
 
 ---
 
@@ -637,7 +645,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 48.5k • 🔱 6.4k • 1h ago
+⭐ 48.6k • 🔱 6.4k • 3h ago
 
 ---
 
@@ -647,7 +655,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 41.0k • 🔱 2.1k • 2d ago
+⭐ 41.2k • 🔱 2.1k • 2d ago
 
 ---
 
@@ -657,7 +665,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 37.3k • 🔱 7.6k • 1d ago
+⭐ 37.4k • 🔱 7.6k • 1d ago
 
 ---
 
@@ -667,7 +675,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 31.5k • 🔱 3.5k • 11h ago
+⭐ 31.6k • 🔱 3.5k • 14h ago
 
 ---
 
@@ -677,7 +685,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 8.3k • 🔱 540 • 38s ago
+⭐ 8.4k • 🔱 543 • 24m ago
 
 ---
 
@@ -687,7 +695,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Python`
 
-⭐ 5.6k • 🔱 951 • 2d ago
+⭐ 5.6k • 🔱 952 • 2d ago
 
 ---
 
@@ -711,23 +719,23 @@ LIBERATED AI CHAT
 
 ---
 
-**[Arthur-Ficial/apfel](https://github.com/Arthur-Ficial/apfel)**
-
-The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interactive chat — all on-device via Apple Intelligence. No API keys, no cloud, no downloads.
-
-`Swift` `apple-intelligence` `apple-silicon` `cli` `foundationmodels` `homebrew`
-
-⭐ 4.8k • 🔱 184 • 19h ago
-
----
-
 **[kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)**
 
 A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.
 
 `Python` `ai` `anthropic` `attention` `claude` `claude-ai`
 
-⭐ 4.7k • 🔱 1.1k • 16h ago
+⭐ 4.9k • 🔱 1.1k • 18h ago
+
+---
+
+**[Arthur-Ficial/apfel](https://github.com/Arthur-Ficial/apfel)**
+
+The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interactive chat — all on-device via Apple Intelligence. No API keys, no cloud, no downloads.
+
+`Swift` `apple-intelligence` `apple-silicon` `cli` `foundationmodels` `homebrew`
+
+⭐ 4.8k • 🔱 184 • 21h ago
 
 ---
 
