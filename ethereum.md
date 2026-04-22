@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-22T08:03:17.197836+00:00'
+updated: '2026-04-22T10:00:37.214223+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
+- cryptocurrency
 - social
 - news
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 22, 2026 at 08:03 UTC  
+**Last Updated:** April 22, 2026 at 10:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.9%  
-**7d:** +2.0%  
-**30d:** +11.1%  
-**90d:** -19.1%  
-**1y:** +33.3%  
+**24h:** +3.0%  
+**7d:** +1.7%  
+**30d:** +10.8%  
+**90d:** -19.2%  
+**1y:** +33.0%  
 
 ---
 
@@ -72,19 +72,19 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
 
 ---
 
 **[Arbitrum freezing $71M in ETH tied to Kelp DAO is a reminder that “decentralized” doesn’t always mean unstoppable](https://www.reddit.com/r/ethereum/comments/1srv422/arbitrum_freezing_71m_in_eth_tied_to_kelp_dao_is/)**
 
-🔗 [websnack.org](https://websnack.org/news/arbitrum-freezes-71m-eth-kelp-dao-apr-2026) • 14h ago
+🔗 [websnack.org](https://websnack.org/news/arbitrum-freezes-71m-eth-kelp-dao-apr-2026) • 16h ago
 
 ---
 
 **[Need some suggestions.](https://www.reddit.com/r/ethereum/comments/1sse02k/need_some_suggestions/)**
 
-58m ago
+2h ago
 
 ---
 
@@ -112,12 +112,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[84% of Polymarket users are trading at a loss.](https://www.reddit.com/r/ethereum/comments/1sqa9xi/84_of_polymarket_users_are_trading_at_a_loss/)**
-
-2d ago
-
----
-
 **[On April 18, a hacker minted 116,500 rsETH tokens out of nothing.](https://www.reddit.com/r/ethereum/comments/1spvsfd/on_april_18_a_hacker_minted_116500_rseth_tokens/)**
 
 On April 18, a hacker minted 116,500 rsETH tokens out of nothing. Not stolen from a wallet. Created from a forged cross-chain message, a phantom packet that told Kelp DAO’s bridge to release real tokens backed by zero collateral. The attacker deposited those phantom tokens as collateral on Aave and borrowed $236 million in real ETH against them. Within hours, $5.4 billion fled Aave. The protocol’s ETH pool hit 100% utilization. AAVE dropped 19%. Then Justin Sun withdrew $154 million from Aave. After securing his own exit, he posted publicly: “Kelpdao hacker, how much you want? Let’s just talk. You can’t spend $300 million anyway.” The man who extracted first offered to negotiate second. But that is not the deepest layer. The deepest layer is this: April 2026 just produced a single month in which every major system failure on earth was caused by the same mechanism. Not hacking. Not force. Verification Cost Inversion. Every system trusted a representation of value instead of verifying the value itself. And every system collapsed at the exact point where trust replaced verification. The rsETH was a representation of staked ETH. Nobody verified the cross-chain message that created it. A single DVN verifier, a 1-of-1 trust assumption, was the entire security model for a bridge holding $292 million. The representation said “backed.” The reality said “phantom.” Aave accepted the representation.
@@ -126,11 +120,17 @@ On April 18, a hacker minted 116,500 rsETH tokens out of nothing. Not stolen fro
 
 ---
 
+**[84% of Polymarket users are trading at a loss.](https://www.reddit.com/r/ethereum/comments/1sqa9xi/84_of_polymarket_users_are_trading_at_a_loss/)**
+
+2d ago
+
+---
+
 **[Someone Warned Kelp DAO About This Exact Vulnerability 15 Months Ago. Nobody Listened. $292 Million Is Gone](https://www.reddit.com/r/ethereum/comments/1spoe1h/someone_warned_kelp_dao_about_this_exact/)**
 
 The Kelp DAO exploit that drained $292 million and froze Aave was preventable. A developer posted on the Aave governance forum in January 2025 that Kelp's single-validator bridge security was the weakest configuration LayerZero allows. Kelp never added the second validator. On Saturday, an attacker used that exact vulnerability.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/kelp-dao-292-million-hack-warning-ignored-layerzero/) • 2d ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/kelp-dao-292-million-hack-warning-ignored-layerzero/) • 3d ago
 
 ---
 
@@ -150,7 +150,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Advisory council says validator signatures and wallet cryptography could be vulnerable if future quantum computers break current encryption.
 
-Decrypt • 10h ago
+Decrypt • 12h ago
 
 ---
 
@@ -158,7 +158,13 @@ Decrypt • 10h ago
 
 BitMine Immersion Technologies, Inc. (NYSE:BMNR) is one of the best Ethereum stocks to buy now. On April 13, BitMine Immersion Technologies, Inc. (NYSE:BMNR) announced that its Ethereum holdings had reached 4,874,858 ETH. The company valued the tokens at about $10.7 billion at a price of $2,206 per token, and said that its combined crypto, cash, […]
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 23h ago
+
+---
+
+**[Bitcoin Price Tops $78,000 to Hit 11-Week High. XRP, Ethereum, Cryptos Surging.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-cryptos-f690b700)**
+
+Barron's • 1h ago
 
 ---
 
@@ -166,7 +172,7 @@ Yahoo Finance • 21h ago
 
 Ethereum offers more stable returns with clearer long-term catalysts.
 
-The Motley Fool • 15h ago
+The Motley Fool • 17h ago
 
 ---
 
@@ -174,7 +180,15 @@ The Motley Fool • 15h ago
 
 A cryptocurrency analyst has highlighted how the SuperTrend for the daily Ethereum price has seen its first bullish flip in over a year.Ethereum SuperTrend Is Now Giving A Buy SignalIn a new post on X, analyst Ali Martinez has discussed the latest development in the SuperTrend of Ethereum. The “Sup…
 
-TradingView • 4h ago
+TradingView • 6h ago
+
+---
+
+**[Ethereum Price Forecast: ETH sees strong spot demand but faces downside pressure in futures](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-eth-sees-strong-spot-demand-but-faces-downside-pressure-in-futures-202604212137)**
+
+Following the crypto market recovery over the past week, several Ethereum (ETH) onchain metrics are demonstrating notable changes.
+
+FXStreet • 12h ago
 
 ---
 
@@ -190,13 +204,13 @@ thestreet.com • 2d ago
 
 MONACO, April  21, 2026  (GLOBE NEWSWIRE) -- AlphaPepe has sold out Stage 13 and opened Stage 14 at $0.01524, pushing the presale into its next pr...
 
-markets.businessinsider.com • 6h ago
+markets.businessinsider.com • 8h ago
 
 ---
 
-**[Ethereum markets shaken by US-Iran conflict, energy costs rise](https://cryptobriefing.com/ethereum-markets-shaken-by-us-iran-conflict-energy-costs-rise/)**
+**[North Korea’s Lazarus Group launders $290M in crypto via Ethereum, Bitcoin](https://cryptobriefing.com/north-koreas-lazarus-group-launders-290m-in-crypto-via-ethereum-bitcoin/)**
 
-Ethereum markets are shaken by rising energy costs from the US-Iran conflict. Ethereum priced between $2,200-$2,300 on April 13 at 100% YES.
+North Korea's Lazarus Group laundered $290 million in crypto. Bitcoin reaching $80,000 in April now at 36.5% YES, down from 44%.
 
 Crypto Briefing • 13h ago
 
@@ -204,23 +218,7 @@ Crypto Briefing • 13h ago
 
 **[Large cryptocurrencies mixed as Ethereum falls](https://www.marketwatch.com/data-news/large-cryptocurrencies-mixed-as-ethereum-falls-ad4f1e91-faec5d5fd43e)**
 
-MarketWatch • 18h ago
-
----
-
-**[Current price of Ethereum for April 21, 2026](https://fortune.com/article/price-of-ethereum-04-21-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 19h ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC holds steady, ETH tests support, XRP weakens amid renewed US–Iran Strait of Hormuz tensions](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-holds-steady-eth-tests-support-xrp-weakens-amid-renewed-us-iran-strait-of-hormuz-tensions-202604200339)**
-
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) surged more than 4%, 3% and 5% in the previous week.
-
-FXStreet • 2d ago
+MarketWatch • 20h ago
 
 ---
 
@@ -234,7 +232,7 @@ See exactly what top investors are trading in real time: try Milk Road Pro for j
 
 📺 Milk Road
 
-👁️ 3K • 👍 133 • 💬 38 • ⏱️ 36:12 • 13h ago
+👁️ 3K • 👍 133 • 💬 38 • ⏱️ 36:12 • 15h ago
 
 ---
 
@@ -244,7 +242,7 @@ The next 48 hours will be the deciding force for crypto, bitcoin and ethereum as
 
 📺 Thomas Kralow
 
-👁️ 13K • 👍 2K • 💬 37 • ⏱️ 12:02 • 20h ago
+👁️ 13K • 👍 2K • 💬 37 • ⏱️ 12:02 • 22h ago
 
 ---
 
@@ -254,7 +252,7 @@ Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Zoomex - https://
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 144 • 💬 25 • ⏱️ 10:42 • 9h ago
+👁️ 3K • 👍 144 • 💬 25 • ⏱️ 10:42 • 11h ago
 
 ---
 
@@ -264,7 +262,7 @@ Follow me on X: @kross_roads 15% Off Fiscal.ai Plans! Unlock institutional-grade
 
 📺 Crossroads
 
-👁️ 5K • 👍 248 • 💬 55 • ⏱️ 13:21 • 17h ago
+👁️ 5K • 👍 248 • 💬 55 • ⏱️ 13:21 • 19h ago
 
 ---
 
@@ -274,7 +272,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 6K • 👍 305 • 💬 69 • ⏱️ 1:24:23 • 20h ago
+👁️ 6K • 👍 305 • 💬 69 • ⏱️ 1:24:23 • 22h ago
 
 ---
 
@@ -294,7 +292,7 @@ Its a video about bitcoin, ethereum, crypto in general. But its quite an unusual
 
 📺 Thomas Kralow
 
-👁️ 18K • 👍 2K • 💬 72 • ⏱️ 7:52 • 2d ago
+👁️ 18K • 👍 2K • 💬 72 • ⏱️ 7:52 • 3d ago
 
 ---
 
@@ -304,7 +302,7 @@ THE BEST OF THE BEST THE TOP OF THE TOP, PERIOD. OMIKAMI & RYUJIN FOR EVER.
 
 📺 Lamedo
 
-👁️ 390 • 👍 57 • 💬 22 • ⏱️ 20:16 • 6h ago
+👁️ 390 • 👍 57 • 💬 22 • ⏱️ 20:16 • 8h ago
 
 ---
 
@@ -324,7 +322,7 @@ IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purp
 
 📺 The Kenzo Guy
 
-👁️ 791 • 👍 28 • 💬 2 • ⏱️ 27:19 • 10h ago
+👁️ 791 • 👍 28 • 💬 2 • ⏱️ 27:19 • 12h ago
 
 ---
 

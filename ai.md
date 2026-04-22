@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-22T08:03:17.138930+00:00'
+updated: '2026-04-22T10:00:37.201284+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
-- news
 - videos
+- social
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 22, 2026 at 08:03 UTC  
+**Last Updated:** April 22, 2026 at 10:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,21 +41,21 @@ AI news, discussions, and developments
 
 I mean a)The majority of articles on the internet are written by AIs b) 4 of the top 10 Youtube channels c) 4 in 10 Facebook posts d) 1 in 5 videos shown to new Youtube users e) The #1 most-subscribed Twitch streamer is an AI f) 44% of songs on Deezer Also, most of the ads are now AI generated, like AI creating content for other AI
 
-3h ago
-
----
-
-**[FOSS NotebookLM with no data limits](https://www.reddit.com/r/artificial/comments/1ssb30q/foss_notebooklm_with_no_data_limits/)**
-
-NotebookLM is one of the best and most useful AI platforms out there, but once you start using it regularly you also feel its limitations leaving something to be desired more. There are limits on the amount of sources you can add in a notebook. There are limits on the number of notebooks you can have. You cannot have sources that exceed 500,000 words and are more than 200MB. You are vendor locked in to Google services (LLMs, usage models, etc.) with no option to configure them. Limited external data sources and service integrations. NotebookLM Agent is specifically optimised for just studying and researching, but you can do so much more with the source data. Lack of multiplayer support. ...and more. SurfSense is specifically made to solve these problems. For those who dont know, SurfSense is open source, privacy focused alternative to NotebookLM for teams with no data limit's. It currently empowers you to: Control Your Data Flow - Keep your data private and secure. No Data Limits - Add an unlimited amount of sources and notebooks. No Vendor Lock-in - Configure any LLM, image, TTS, and STT models to use. 25+ External Data Sources - Add your sources from Google Drive, OneDrive, Dropbox, Notion, and many other external services. Real-Time Multiplayer Support - Work easily with your team members in a shared notebook. Desktop App - Get assistance in your OS. Check us out at https://github.com/MODSetter/SurfSense if this interests you or if you want to contribute to a open source software
-
-3h ago
+5h ago
 
 ---
 
 **[Gallup poll: Gen Z's AI usage increaes but excitement plummets from 36% to 22%](https://www.reddit.com/r/artificial/comments/1ss8chu/gallup_poll_gen_zs_ai_usage_increaes_but/)**
 
 A new Gallup survey of 1,500+ Gen Z respondents found that more than half of Gen Z living in the US regularly use generative AI, but their feelings about the technology are getting worse. Among those aged 14 to 29, compared to last year, excitement dropped from 36% to 22%, hopefulness fell from 27% to 18%, and anger jumped from 22% to 31%. The main driver behind the shift appears to be job anxiety, nearly half of respondents said the risks of AI in the workplace outweigh the benefits. https://www.gallup.com/analytics/651674/gen-z-research.aspx
+
+7h ago
+
+---
+
+**[FOSS NotebookLM with no data limits](https://www.reddit.com/r/artificial/comments/1ssb30q/foss_notebooklm_with_no_data_limits/)**
+
+NotebookLM is one of the best and most useful AI platforms out there, but once you start using it regularly you also feel its limitations leaving something to be desired more. There are limits on the amount of sources you can add in a notebook. There are limits on the number of notebooks you can have. You cannot have sources that exceed 500,000 words and are more than 200MB. You are vendor locked in to Google services (LLMs, usage models, etc.) with no option to configure them. Limited external data sources and service integrations. NotebookLM Agent is specifically optimised for just studying and researching, but you can do so much more with the source data. Lack of multiplayer support. ...and more. SurfSense is specifically made to solve these problems. For those who dont know, SurfSense is open source, privacy focused alternative to NotebookLM for teams with no data limit's. It currently empowers you to: Control Your Data Flow - Keep your data private and secure. No Data Limits - Add an unlimited amount of sources and notebooks. No Vendor Lock-in - Configure any LLM, image, TTS, and STT models to use. 25+ External Data Sources - Add your sources from Google Drive, OneDrive, Dropbox, Notion, and many other external services. Real-Time Multiplayer Support - Work easily with your team members in a shared notebook. Desktop App - Get assistance in your OS. Check us out at https://github.com/MODSetter/SurfSense if this interests you or if you want to contribute to a open source software
 
 5h ago
 
@@ -65,7 +65,7 @@ A new Gallup survey of 1,500+ Gen Z respondents found that more than half of Gen
 
 The fact that Apple's Board of Directors chose someone who has built their career on the hardware side speaks volumes. Apple's gamble suggests they believe the future of AI lies in hardware, not software. Apple clearly isn't trying to compete with Google, OpenAI, or Anthropic by having an LLM model. But it does seem to believe that its platform (the iPhone), with its advanced processor, can deliver models locally on the phone instead of from the cloud. Will the gamble pay off?
 
-19h ago
+21h ago
 
 ---
 
@@ -73,15 +73,23 @@ The fact that Apple's Board of Directors chose someone who has built their caree
 
 Jeff Bezos’s five-month-old startup, Project Prometheus, is nearing a historic $10B funding round backed by Wall Street giants like JPMorgan and BlackRock. The Tech: They are building "Physical AI" that natively understands the laws of physics to revolutionize physical products like aerospace, automotive, and robotics. It is Bezos's first operational role since leaving Amazon in 2021 with co-CEO Vik Bajaj, a physicist and former Google X scientist who co-founded the Alphabet health startup Verily. They’ve aggressively assembled a 100+ person powerhouse team by poaching top-tier researchers from OpenAI, Meta, Google DeepMind, and xAI. They even acquired the agentic AI startup General Agents shortly after launch specifically to bring former DeepMind researcher Sherjil Ozair and his engineering team into the fold. I am all for money going into companies that accelerate discoveries in physical AI, materials, manufacturing. Another great effort is periodic labs, they raised $300 m. But, is this valuation justified, or are we really in a massive bubble? Are they expecting that they are going to solve all of the physical AI ?
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-04-21/jeff-bezos-nears-10-billion-funding-round-for-ai-lab-ft-says) • 13h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-04-21/jeff-bezos-nears-10-billion-funding-round-for-ai-lab-ft-says) • 15h ago
 
 ---
 
-**[What does it actually mean to "manage" AI agents at an enterprise level in 2026?](https://www.reddit.com/r/artificial/comments/1sseu97/what_does_it_actually_mean_to_manage_ai_agents_at/)**
+**[The AI Gold Rush Just Entered Its Most Dangerous Phase](https://www.reddit.com/r/artificial/comments/1sseqyd/the_ai_gold_rush_just_entered_its_most_dangerous/)**
 
-There's a lot of coverage of how AI agents are being built. Almost none of it covers how they're being governed, maintained, and operated once they're deployed. I think the reason is that the tools and frameworks for that layer barely exist yet. But the job title is already appearing: AI Director, Director of AI, VP of AI, Head of Agentic Systems. These are real roles at mid-to-large organizations right now. I've been thinking about what this job actually entails in 2026, and it seems like 5 different functions are colliding into one role: Strategy: Which workflows should be agentic? What's the build-vs-buy decision on agent infrastructure? Governance: What are agents authorized to do? How do you maintain human oversight without creating bottlenecks? Config management: How do you ensure agent instructions are versioned, consistent, and auditable across dozens of deployments? Performance management: How do you measure whether an agent is doing its job well, especially when "doing its job" means handling edge cases a human would have caught? Team coordination: Agents are touching every team. Who owns the agents? IT? The business unit? A central AI team? Has anyone here navigated this at scale? The people building the agents seem well-represented in these communities. Curious to hear from those managing them. Newsletter for people at this layer in the comments.
+Google’s TPUs are now the hottest commodity in AI. A deep-dive analysis of the chip war reshaping global infrastructure — what it means for researchers, developers, and the future of AI compute.
 
-8m ago
+🔗 [Novara Press](https://novarapress.net/ai-chip-war-google-nvidia-2026/) • 2h ago
+
+---
+
+**[AI modes - "Helpfulness" "honestness" ... how do they work?](https://www.reddit.com/r/artificial/comments/1ssfnw5/ai_modes_helpfulness_honestness_how_do_they_work/)**
+
+Hi there, i am currently looking for a new job - and sometimes ask googles ai mode. Since those answers where all sugar coated and everything i typed was a great idea, plan - whatever i looked for the reason of that. By default the "Helpfulness" mode seems to be activated - so i asked for "honesness" mode instead. Now everything i typed is - according to the ai - kinda trash and i probably won't be able to do it anyway (e.g. i am over 40 and ai tells me i am to old and that it won't work anyway). Reality probably is somewhere in between. So my question is about those modes - are they simple instructions that the ai follows - like beeing supportive no matter what vs trashing everything no matter what - or is the behaviour somewhat based on the sources the ai finds regarding my questions or comments?
+
+1h ago
 
 ---
 
@@ -89,7 +97,7 @@ There's a lot of coverage of how AI agents are being built. Almost none of it co
 
 Apparently MetaAI has it's honesty setting set to 99%. https://preview.redd.it/md3puymhmnwg1.png?width=738&format=png&auto=webp&s=c53544c3d463d1f0221509a80972386d0f5073d9
 
-5h ago
+7h ago
 
 ---
 
@@ -103,15 +111,7 @@ Apparently MetaAI has it's honesty setting set to 99%. https://preview.redd.it/m
 
 **[Blossom trees in The Hague (trees edited)](https://www.reddit.com/r/artificial/comments/1sryn3e/blossom_trees_in_the_hague_trees_edited/)**
 
-12h ago
-
----
-
-**[The AI Gold Rush Just Entered Its Most Dangerous Phase](https://www.reddit.com/r/artificial/comments/1sseqyd/the_ai_gold_rush_just_entered_its_most_dangerous/)**
-
-Google’s TPUs are now the hottest commodity in AI. A deep-dive analysis of the chip war reshaping global infrastructure — what it means for researchers, developers, and the future of AI compute.
-
-🔗 [Novara Press](https://novarapress.net/ai-chip-war-google-nvidia-2026/) • 14m ago
+14h ago
 
 ---
 
@@ -119,17 +119,9 @@ Google’s TPUs are now the hottest commodity in AI. A deep-dive analysis of the
 
 ## Google News: "ai"
 
-**[This Scammer Used an AI-Generated MAGA Girl to Grift ‘Super Dumb’ Men](https://www.wired.com/story/ai-generated-maga-girls/)**
-
-A med student says he’s made thousands of dollars selling photos and videos of a young conservative woman he created using generative tools. He’s not alone.
-
-WIRED • 21h ago
-
----
-
 **[Exclusive: Meta to start capturing employee mouse movements, keystrokes for AI training data](https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/)**
 
-Reuters • 11h ago
+Reuters • 13h ago
 
 ---
 
@@ -137,7 +129,7 @@ Reuters • 11h ago
 
 The firm will take data from the way employees work for its artificial intelligence models.
 
-BBC • 9h ago
+BBC • 11h ago
 
 ---
 
@@ -145,49 +137,61 @@ BBC • 9h ago
 
 Meta deploys keystroke-tracking software on US employees' computers, sparking privacy concerns and internal backlash.
 
-Business Insider • 12h ago
+Business Insider • 14h ago
+
+---
+
+**[This Scammer Used an AI-Generated MAGA Girl to Grift ‘Super Dumb’ Men](https://www.wired.com/story/ai-generated-maga-girls/)**
+
+A med student says he’s made thousands of dollars selling photos and videos of a young conservative woman he created using generative tools. He’s not alone.
+
+WIRED • 23h ago
+
+---
+
+**[Top MAGA influencer revealed to be AI — created by a guy in India who made a mint off lonely men online](https://nypost.com/2026/04/21/us-news/top-maga-influencer-emily-hart-revealed-to-be-ai-created-by-a-guy-in-india/)**
+
+According to her profile, she was a registered nurse with Jennifer Lawrence looks who offered red meat posts to lonely conservative men online.
+
+New York Post • 10h ago
+
+---
+
+**[Scammer Dupes ‘Dumb’ MAGA Men With AI Model](https://www.thedailybeast.com/scammer-emily-hart-mdupes-dumb-maga-men-with-ai-model/)**
+
+A 22-year-old Indian medical student tricked scores of Trump supporters.
+
+The Daily Beast • 12h ago
+
+---
+
+**[Anthropic investigates report of rogue access to hack-enabling Mythos AI](https://www.theguardian.com/technology/2026/apr/22/anthropic-investigates-report-of-rogue-access-to-hack-enabling-mythos-ai)**
+
+‘Handful’ of people allegedly gain unauthorised access to model adept at detecting cybersecurity vulnerabilities
+
+The Guardian • 1h ago
+
+---
+
+**[Anthropic investigating unauthorised access of powerful Mythos AI model](https://www.ft.com/content/56d65763-69fe-4756-baf4-c8192b7aadaf?syn-25a6b1a6=1)**
+
+Start-up has limited the release of the new tool because of concerns about its hacking abilities
+
+Financial Times • 10h ago
+
+---
+
+**[Anthropic’s most dangerous AI model just fell into the wrong hands](https://www.theverge.com/ai-artificial-intelligence/916501/anthropic-mythos-unauthorized-users-access-security)**
+
+So much for being private.
+
+The Verge • 41m ago
 
 ---
 
 **[SpaceX Strikes Deal With Cursor for $60 Billion](https://www.nytimes.com/2026/04/21/business/spacex-cursor-deal.html)**
 
-The New York Times • 7h ago
-
----
-
-**[SpaceX secures option to buy AI startup Cursor for $60bn or partner for $10bn](https://www.theguardian.com/technology/2026/apr/21/spacex-cursor-ai-startup)**
-
-Cursor is a Silicon Valley startup using AI to automate coding as Elon Musk’s firm seeks foothold in the AI market
-
-The Guardian • 7h ago
-
----
-
-**[Exclusive: SpaceX says unproven AI space data centers may not be commercially viable, filing shows](https://www.reuters.com/world/spacex-says-unproven-ai-space-data-centers-may-not-be-commercially-viable-filing-2026-04-21/)**
-
-Reuters • 10h ago
-
----
-
-**[Boards say the C-suite owns the AI strategy. The C-suite doesn’t agree.](https://fortune.com/2026/04/22/ai-ownership-c-suite-board-disagree-pearl-meyer-survey-brad-jayne/)**
-
-A new Pearl Meyer survey reveals that the AI bottleneck isn’t about technology. It’s a warning that some senior executive teams are struggling to function.
-
-Fortune • 1h ago
-
----
-
-**[ServiceNow Earnings Will Put AI Demand to the Test](https://www.barrons.com/articles/servicenow-earnings-stock-price-4b5f8eee)**
-
-Barron's • 1h ago
-
----
-
-**[Elite law firm Sullivan & Cromwell admits to AI ‘hallucinations’](https://www.ft.com/content/657d86df-5e0d-4d03-bf0c-cb768a58e758?syn-25a6b1a6=1)**
-
-Firm whose partners bill more than $2,000 per hour apologises to judge for software-driven errors in bankruptcy case
-
-Financial Times • 13h ago
+The New York Times • 9h ago
 
 ---
 
@@ -203,7 +207,7 @@ Financial Times • 13h ago
 
 **[Meta to start capturing employee mouse movements, keystrokes for AI training](https://news.ycombinator.com/item?id=47851948)**
 
-⬆️ 509 • 💬 379 • 14h ago • [reuters.com](https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/)
+⬆️ 559 • 💬 404 • 16h ago • [reuters.com](https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/)
 
 ---
 
@@ -219,7 +223,7 @@ People are sick of artificial intelligence, and are increasingly making it known
 
 Deezer says consumption of AI-generated music on the platform is still very low, between 1-3% of the total streams, and that 85% of these streams are detected as fraudulent and are demonetized.
 
-⬆️ 358 • 💬 384 • 1d ago • [TechCrunch](https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/)
+⬆️ 359 • 💬 384 • 1d ago • [TechCrunch](https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/)
 
 ---
 
@@ -233,13 +237,13 @@ Police lured the man to a meeting and arrested him after accessing a private Wha
 
 **[A Roblox cheat and one AI tool brought down Vercel's platform](https://news.ycombinator.com/item?id=47844431)**
 
-⬆️ 279 • 💬 158 • 1d ago • [webmatrices.com](https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform)
+⬆️ 281 • 💬 159 • 1d ago • [webmatrices.com](https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform)
 
 ---
 
 **[Tell HN: I'm sick of AI everything](https://news.ycombinator.com/item?id=47857461)**
 
-⬆️ 246 • 💬 140 • 6h ago
+⬆️ 256 • 💬 146 • 8h ago
 
 ---
 
@@ -247,7 +251,7 @@ Police lured the man to a meeting and arrested him after accessing a private Wha
 
 High-performance AI gateway written in Go - unified OpenAI-compatible API for OpenAI, Anthropic, Gemini, Groq, xAI &amp; Ollama. LiteLLM alternative with observability, guardrails &amp; streaming. ...
 
-⬆️ 173 • 💬 63 • 17h ago • [GitHub](https://github.com/ENTERPILOT/GOModel/)
+⬆️ 176 • 💬 66 • 19h ago • [GitHub](https://github.com/ENTERPILOT/GOModel/)
 
 ---
 
@@ -255,7 +259,7 @@ High-performance AI gateway written in Go - unified OpenAI-compatible API for Op
 
 Mediator.ai uses bargaining theory and modern AI to find agreements that two people in conflict would both accept, including ones they hadn't thought of.
 
-⬆️ 147 • 💬 74 • 1d ago • [Mediator.ai](https://mediator.ai/)
+⬆️ 148 • 💬 74 • 1d ago • [Mediator.ai](https://mediator.ai/)
 
 ---
 
@@ -263,7 +267,7 @@ Mediator.ai uses bargaining theory and modern AI to find agreements that two peo
 
 Nial – Knowledge work and artificial intelligence.
 
-⬆️ 143 • 💬 152 • 1d ago • [nial.se](https://nial.se/blog/less-human-ai-agents-please/)
+⬆️ 145 • 💬 153 • 1d ago • [nial.se](https://nial.se/blog/less-human-ai-agents-please/)
 
 ---
 
@@ -277,7 +281,7 @@ ChatGPT Images 2.0 review. GPT Image 2.0 vs Nano Banana. #ai #aiart #aitools #im
 
 📺 AI Search
 
-👁️ 19K • 👍 1K • 💬 260 • ⏱️ 35:20 • 4h ago
+👁️ 19K • 👍 1K • 💬 260 • ⏱️ 35:20 • 6h ago
 
 ---
 
@@ -287,7 +291,7 @@ Ramageddon” is here: AI data centers are hoarding up to 70% of global DRAM, se
 
 📺 Valuetainment
 
-👁️ 117K • 👍 6K • 💬 344 • ⏱️ 12:41 • 19h ago
+👁️ 117K • 👍 6K • 💬 344 • ⏱️ 12:41 • 21h ago
 
 ---
 
@@ -307,7 +311,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 15K • 👍 545 • 💬 76 • ⏱️ 8:16 • 17h ago
+👁️ 15K • 👍 545 • 💬 76 • ⏱️ 8:16 • 19h ago
 
 ---
 
@@ -317,7 +321,7 @@ Humanoid robot 'Lightning' broke a half-marathon world record in Beijing, finish
 
 📺 Fox News Clips
 
-👁️ 20K • 👍 378 • 💬 229 • ⏱️ 5:19 • 17h ago
+👁️ 20K • 👍 378 • 💬 229 • ⏱️ 5:19 • 18h ago
 
 ---
 
@@ -347,7 +351,7 @@ Sam Altman and Other AI Tech Billionaires Don't Want You to Know About This.. X 
 
 📺 Godrules
 
-👁️ 30K • 👍 2K • 💬 361 • ⏱️ 25:44 • 5h ago
+👁️ 30K • 👍 2K • 💬 361 • ⏱️ 25:44 • 7h ago
 
 ---
 
@@ -419,7 +423,7 @@ HY-World 2.0 is a multi-modal framework for generating and reconstructing 3D wor
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 532 • 2h ago
+⬇️ 0 • ❤️ 532 • 4h ago
 
 ---
 
@@ -637,7 +641,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 48.9k • 🔱 6.4k • 7h ago
+⭐ 48.9k • 🔱 6.4k • 9h ago
 
 ---
 
@@ -657,7 +661,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 38.2k • 🔱 7.8k • 16h ago
+⭐ 38.2k • 🔱 7.8k • 18h ago
 
 ---
 
@@ -667,7 +671,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 32.5k • 🔱 3.6k • 2h ago
+⭐ 32.5k • 🔱 3.6k • 4h ago
 
 ---
 
@@ -677,7 +681,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 8.4k • 🔱 547 • 1m ago
+⭐ 8.4k • 🔱 547 • 1h ago
 
 ---
 
@@ -727,7 +731,7 @@ The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interac
 
 `Swift` `apple-intelligence` `apple-silicon` `cli` `foundationmodels` `homebrew`
 
-⭐ 4.8k • 🔱 186 • 14h ago
+⭐ 4.8k • 🔱 186 • 16h ago
 
 ---
 
