@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-22T12:13:12.327399+00:00'
+updated: '2026-04-22T14:16:24.082516+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
+- cryptocurrency
 - social
 - videos
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 22, 2026 at 12:13 UTC  
+**Last Updated:** April 22, 2026 at 14:16 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,367.62
+### $2,415.31
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +3.5%  
-**7d:** +1.9%  
-**30d:** +10.9%  
-**90d:** -19.1%  
-**1y:** +33.2%  
+**24h:** +4.8%  
+**7d:** +3.1%  
+**30d:** +12.3%  
+**90d:** -18.1%  
+**1y:** +34.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $288.48B
+**Market Cap:** $291.65B
 Rank #2
 
 **Circulating Supply:** 120,689,893 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--51.7%
+-51.1%
 
 **All-Time Low:** $0.43
-+551919.8%
++558862.4%
 
 ---
 
@@ -72,19 +72,27 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-7h ago
+9h ago
+
+---
+
+**[Update: Join ETour's community](https://www.reddit.com/r/ethereum/comments/1sslkrt/update_join_etours_community/)**
+
+This is 100% on-chain Web3 in practice. Over the past few months I've received invaluable feedback regarding ETour: 100% on-chain, skill-based, ETH-only tournament infrastructure. Inception Feedback Evolution I've taken your feedback to heart and built on top of it. Now it's finally ready for you to use! If you're curious then come compete, spectate, or ask me anything! If you're skeptical then come challenge my claims and prove me wrong! Browse the landing page https://etour.games Read the whitepapeer: https://etour.games/whitepaper Analyze the manual: https://etour.games/manual Study the docs https://etour.games/docs Join the discord https://discord.gg/9FfF2RNQV Looking forward to our discussions
+
+46m ago
 
 ---
 
 **[Arbitrum freezing $71M in ETH tied to Kelp DAO is a reminder that “decentralized” doesn’t always mean unstoppable](https://www.reddit.com/r/ethereum/comments/1srv422/arbitrum_freezing_71m_in_eth_tied_to_kelp_dao_is/)**
 
-🔗 [websnack.org](https://websnack.org/news/arbitrum-freezes-71m-eth-kelp-dao-apr-2026) • 18h ago
+🔗 [websnack.org](https://websnack.org/news/arbitrum-freezes-71m-eth-kelp-dao-apr-2026) • 20h ago
 
 ---
 
 **[Need some suggestions.](https://www.reddit.com/r/ethereum/comments/1sse02k/need_some_suggestions/)**
 
-5h ago
+7h ago
 
 ---
 
@@ -134,14 +142,6 @@ The Kelp DAO exploit that drained $292 million and froze Aave was preventable. A
 
 ---
 
-**[Daily General Discussion April 19, 2026](https://www.reddit.com/r/ethereum/comments/1spjkzn/daily_general_discussion_april_19_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -150,23 +150,21 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Advisory council says validator signatures and wallet cryptography could be vulnerable if future quantum computers break current encryption.
 
-Decrypt • 14h ago
+Decrypt • 16h ago
 
 ---
 
-**[Can Ethereum hit $2,746 as whales accumulate 700K tokens this week?](https://www.tradingview.com/news/invezz:f2a213e3a094b:0-can-ethereum-hit-2-746-as-whales-accumulate-700k-tokens-this-week/)**
+**[Ethereum Price Prediction: How Much Will 1 ETH Be Worth by 2030?](https://247wallst.com/investing/2026/04/19/ethereum-price-prediction-how-much-will-1-eth-be-worth-by-2030/)**
 
-The cryptocurrency market has switched bullish once again after a bearish start to the week.Following the crypto market recovery over the past week, several Ethereum (ETH) onchain metrics are demonstrating notable changes.Bitcoin hit the $78,100 level earlier on Wednesday, while Ethereum is now app…
+Ethereum just had its busiest quarter ever in Q1 2026, yet ETH is still over 50% below its ATH. Here's how much 1 ETH could be worth in 2030.
 
-TradingView • 2h ago
+24/7 Wall St. • 2d ago
 
 ---
 
-**[Why Is Crypto Going Up Today? BTC Tops $77K on Peace, Followed by Ethereum, XRP and Dogecoin](https://www.tradingview.com/news/financemagnates:144df810d094b:0-why-is-crypto-going-up-today-btc-tops-77k-on-peace-followed-by-ethereum-xrp-and-dogecoin/)**
+**[Bitcoin Price Tops $78,000 to Hit 11-Week High. XRP, Ethereum, Cryptos Surging.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-cryptos-f690b700)**
 
-Bitcoin (BTC) traded at $77,541 per coin on Wednesday, April 22, 2026, up 2.2% over 24 hours and 4.3% on the week, after Trump extended the Iran ceasefire indefinitely and Strategy disclosed a $2.54 billion BTC buy lifting holdings past 815,000 coins.The move takes the leading digital asset to its…
-
-TradingView • 3h ago
+Barron's • 3h ago
 
 ---
 
@@ -178,49 +176,47 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.976 Million Tokens, and Total Crypto and Total Cash Holdings of $12.9 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-4-976-million-tokens-and-total-crypto-and-total-cash-holdings-of-12-9-billion-302746944.html)**
+
+Bitmine now owns more than 4% of the total ETH coin supply of 120.7 million Bitmine is 82% of the way to the 'Alchemy of 5%' in just 9 months Ethereum...
+
+PR Newswire • 2d ago
+
+---
+
+**[BMNR news: Bitmine acquires more than $230 million in ether (ETH) its largest weekly haul of 2026](https://www.coindesk.com/business/2026/04/20/bitmine-buys-101-627-ether-worth-over-usd230-million-its-largest-weekly-haul-of-2026)**
+
+The Ethereum treasury firm is nearing 5 million ETH holdings as it has sped its accumulation pace over the past weeks.
+
+CoinDesk • 1d ago
+
+---
+
+**[Most big cryptocurrencies rise on Ethereum, Solana increases](https://www.marketwatch.com/data-news/most-big-cryptocurrencies-rise-on-ethereum-solana-increases-34464f2b-bd71d4720cd8)**
+
+MarketWatch • 16m ago
+
+---
+
+**[Ethereum $250,000 Prediction Smashes Bitcoin and Gold as ‘Dead Capital’](https://www.tipranks.com/news/ethereum-250000-prediction-smashes-bitcoin-and-gold-as-dead-capital)**
+
+TipRanks • 21m ago
+
+---
+
+**[Current price of Ethereum for April 22, 2026](https://fortune.com/article/price-of-ethereum-04-22-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 1h ago
+
+---
+
 **[Forget (XRP) Ripple: This Cryptocurrency Has A Real Moat](https://www.fool.com/investing/2026/04/21/forget-xrp-ripple-this-cryptocurrency-has-a-real-m/)**
 
 Ethereum offers more stable returns with clearer long-term catalysts.
 
-The Motley Fool • 19h ago
-
----
-
-**[Bitcoin Price Tops $78,000 to Hit 11-Week High. XRP, Ethereum, Cryptos Surging.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-cryptos-f690b700)**
-
-Barron's • 3h ago
-
----
-
-**[Why I withdrew everything from Aave this weekend](https://www.thestreet.com/crypto/markets/why-i-withdrew-everything-from-aave-this-weekend)**
-
-Why I withdrew every dollar from Aave V3 this weekend, and what every USDT, USDC, and ETH lender should be watching before they decide to stay.
-
-thestreet.com • 2d ago
-
----
-
-**[Crypto News: AlphaPepe Stage 13 Sold Out Whilst Ethereum Price Prediction Targets $12,000](https://markets.businessinsider.com/news/stocks/crypto-news-alphapepe-stage-13-sold-out-whilst-ethereum-price-prediction-targets-12-000-1036045445)**
-
-MONACO, April  21, 2026  (GLOBE NEWSWIRE) -- AlphaPepe has sold out Stage 13 and opened Stage 14 at $0.01524, pushing the presale into its next pr...
-
-markets.businessinsider.com • 11h ago
-
----
-
-**[Ethereum Price Forecast: ETH sees strong spot demand but faces downside pressure in futures](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-eth-sees-strong-spot-demand-but-faces-downside-pressure-in-futures-202604212137)**
-
-Following the crypto market recovery over the past week, several Ethereum (ETH) onchain metrics are demonstrating notable changes.
-
-FXStreet • 14h ago
-
----
-
-**[Fidelity Ethereum ETF: Sees $2.9M Outflow](https://blockchain.news/flashnews/fidelity-ethereum-etf-sees-2-9m-outflow)**
-
-Fidelity Ethereum ETF reports $2.9 million daily outflow amid ongoing ETH market trends, impacting Ethereum ETF outflows and ETH price prediction.
-
-blockchain.news • 10h ago
+The Motley Fool • 21h ago
 
 ---
 
@@ -234,7 +230,7 @@ See exactly what top investors are trading in real time: try Milk Road Pro for j
 
 📺 Milk Road
 
-👁️ 4K • 👍 148 • 💬 42 • ⏱️ 36:12 • 17h ago
+👁️ 5K • 👍 160 • 💬 43 • ⏱️ 36:12 • 19h ago
 
 ---
 
@@ -244,25 +240,7 @@ The next 48 hours will be the deciding force for crypto, bitcoin and ethereum as
 
 📺 Thomas Kralow
 
-👁️ 14K • 👍 1K • 💬 42 • ⏱️ 12:02 • 1d ago
-
----
-
-**[ETHEREUM ABOUT TO DUMP?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=vIlfE2rl0Yk)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 56 • 👍 6 • ⏱️ 4:36 • 3h ago
-
----
-
-**[Hearing about XRP was like Moses Coming Down. #xrp #crypto #bitcoin #ethereum @digitalassetinvestor](https://www.youtube.com/watch?v=F91jVEt8E4Y)**
-
-📺 Digital Asset Investor
-
-👁️ 244 • 👍 28 • ⏱️ 1:36 • 1h ago
+👁️ 14K • 👍 1K • 💬 43 • ⏱️ 12:02 • 1d ago
 
 ---
 
@@ -272,7 +250,7 @@ Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Zoomex - https://
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 153 • 💬 30 • ⏱️ 10:42 • 13h ago
+👁️ 3K • 👍 168 • 💬 35 • ⏱️ 10:42 • 15h ago
 
 ---
 
@@ -282,7 +260,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 6K • 👍 322 • 💬 69 • ⏱️ 1:24:23 • 1d ago
+👁️ 7K • 👍 326 • 💬 69 • ⏱️ 1:24:23 • 1d ago
 
 ---
 
@@ -292,37 +270,55 @@ Follow me on X: @kross_roads 15% Off Fiscal.ai Plans! Unlock institutional-grade
 
 📺 Crossroads
 
-👁️ 5K • 👍 258 • 💬 70 • ⏱️ 13:21 • 21h ago
+👁️ 6K • 👍 269 • 💬 82 • ⏱️ 13:21 • 1d ago
 
 ---
 
-**[Ethereum Holders - Its Happening Right Now](https://www.youtube.com/watch?v=89b-4Fa-Kj8)**
+**[ETHEREUM ABOUT TO DUMP?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=vIlfE2rl0Yk)**
 
-Welcome Back To The Channel! ✔️ https://tylerhill.pro/Fortisx42026 ✔️ Deposit from $100: Get a 1% bonus ✔️ Withdraw ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 Tyler Hill Crypto
+📺 Cilinix Crypto
 
-👁️ 5K • 👍 225 • 💬 37 • ⏱️ 10:29 • 1d ago
-
----
-
-**[These Ethereum Meme Coins Are About To EXPLODE. Here&#39;s Why!](https://www.youtube.com/watch?v=3iwNEHMnhgg)**
-
-THE BEST OF THE BEST THE TOP OF THE TOP, PERIOD. OMIKAMI & RYUJIN FOR EVER.
-
-📺 Lamedo
-
-👁️ 534 • 👍 69 • 💬 24 • ⏱️ 20:16 • 10h ago
+👁️ 111 • 👍 8 • ⏱️ 4:36 • 5h ago
 
 ---
 
-**[XRPL DeFi is Built Safer &amp; Smarter Than Ethereum?](https://www.youtube.com/watch?v=yrjNFqMRvvo)**
+**[BITCOIN &amp; CRYPTO WARNING: DUMP &amp; PUMP (Urgent)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=5Sr_-qoiDCM)**
 
-Ripple's XRPL DeFi is Built Safer & Smarter Than Ethereum's! Exposed by Biggest Defi hack in Crypto HISTORY! Hi babes ...
+BITCOIN & CRYPTO WARNING: DUMP & PUMP (Urgent)!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
 
-📺 CryptoWendyO
+📺 Crypto World
 
-👁️ 2K • 👍 239 • 💬 26 • ⏱️ 3:15 • 1d ago
+👁️ 6K • 👍 270 • 💬 208 • ⏱️ 18:34 • 17h ago
+
+---
+
+**[This Just Broke Ethereum](https://www.youtube.com/watch?v=QU4j7T3Tkyc)**
+
+The "Ethereum is Dead" narrative is back, and this time, the numbers actually look scary. While Bitcoin hits new highs and Solana ...
+
+📺 Discover Crypto
+
+👁️ 7K • 👍 407 • 💬 20 • ⏱️ 58:47 • 1d ago
+
+---
+
+**[ETHEREUM HACK! (URGENT)](https://www.youtube.com/watch?v=_BaAnbGMT-w)**
+
+📺 Discover Crypto
+
+👁️ 9K • 👍 96 • 💬 5 • ⏱️ 0:18 • 1d ago
+
+---
+
+**[This Hack Just Broke DeFi… And Exposed Everything](https://www.youtube.com/watch?v=hV7JuhA3_Y4)**
+
+In less than 24 hours, DeFi was rocked by its largest hack of 2026: the Kelp DAO exploit. Using a fatal flaw in a LayerZero bridge, ...
+
+📺 Coin Bureau
+
+👁️ 121K • 👍 4K • 💬 506 • ⏱️ 15:06 • 2d ago
 
 ---
 
