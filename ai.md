@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-22T10:00:37.201284+00:00'
+updated: '2026-04-22T11:17:24.853668+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
 - repositories
 - news
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 22, 2026 at 10:00 UTC  
+**Last Updated:** April 22, 2026 at 11:17 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I mean a)The majority of articles on the internet are written by AIs b) 4 of the top 10 Youtube channels c) 4 in 10 Facebook posts d) 1 in 5 videos shown to new Youtube users e) The #1 most-subscribed Twitch streamer is an AI f) 44% of songs on Deezer Also, most of the ads are now AI generated, like AI creating content for other AI
 
-5h ago
+6h ago
 
 ---
 
@@ -49,7 +49,7 @@ I mean a)The majority of articles on the internet are written by AIs b) 4 of the
 
 A new Gallup survey of 1,500+ Gen Z respondents found that more than half of Gen Z living in the US regularly use generative AI, but their feelings about the technology are getting worse. Among those aged 14 to 29, compared to last year, excitement dropped from 36% to 22%, hopefulness fell from 27% to 18%, and anger jumped from 22% to 31%. The main driver behind the shift appears to be job anxiety, nearly half of respondents said the risks of AI in the workplace outweigh the benefits. https://www.gallup.com/analytics/651674/gen-z-research.aspx
 
-7h ago
+8h ago
 
 ---
 
@@ -57,7 +57,7 @@ A new Gallup survey of 1,500+ Gen Z respondents found that more than half of Gen
 
 NotebookLM is one of the best and most useful AI platforms out there, but once you start using it regularly you also feel its limitations leaving something to be desired more. There are limits on the amount of sources you can add in a notebook. There are limits on the number of notebooks you can have. You cannot have sources that exceed 500,000 words and are more than 200MB. You are vendor locked in to Google services (LLMs, usage models, etc.) with no option to configure them. Limited external data sources and service integrations. NotebookLM Agent is specifically optimised for just studying and researching, but you can do so much more with the source data. Lack of multiplayer support. ...and more. SurfSense is specifically made to solve these problems. For those who dont know, SurfSense is open source, privacy focused alternative to NotebookLM for teams with no data limit's. It currently empowers you to: Control Your Data Flow - Keep your data private and secure. No Data Limits - Add an unlimited amount of sources and notebooks. No Vendor Lock-in - Configure any LLM, image, TTS, and STT models to use. 25+ External Data Sources - Add your sources from Google Drive, OneDrive, Dropbox, Notion, and many other external services. Real-Time Multiplayer Support - Work easily with your team members in a shared notebook. Desktop App - Get assistance in your OS. Check us out at https://github.com/MODSetter/SurfSense if this interests you or if you want to contribute to a open source software
 
-5h ago
+6h ago
 
 ---
 
@@ -65,7 +65,7 @@ NotebookLM is one of the best and most useful AI platforms out there, but once y
 
 The fact that Apple's Board of Directors chose someone who has built their career on the hardware side speaks volumes. Apple's gamble suggests they believe the future of AI lies in hardware, not software. Apple clearly isn't trying to compete with Google, OpenAI, or Anthropic by having an LLM model. But it does seem to believe that its platform (the iPhone), with its advanced processor, can deliver models locally on the phone instead of from the cloud. Will the gamble pay off?
 
-21h ago
+22h ago
 
 ---
 
@@ -73,7 +73,7 @@ The fact that Apple's Board of Directors chose someone who has built their caree
 
 Jeff Bezos’s five-month-old startup, Project Prometheus, is nearing a historic $10B funding round backed by Wall Street giants like JPMorgan and BlackRock. The Tech: They are building "Physical AI" that natively understands the laws of physics to revolutionize physical products like aerospace, automotive, and robotics. It is Bezos's first operational role since leaving Amazon in 2021 with co-CEO Vik Bajaj, a physicist and former Google X scientist who co-founded the Alphabet health startup Verily. They’ve aggressively assembled a 100+ person powerhouse team by poaching top-tier researchers from OpenAI, Meta, Google DeepMind, and xAI. They even acquired the agentic AI startup General Agents shortly after launch specifically to bring former DeepMind researcher Sherjil Ozair and his engineering team into the fold. I am all for money going into companies that accelerate discoveries in physical AI, materials, manufacturing. Another great effort is periodic labs, they raised $300 m. But, is this valuation justified, or are we really in a massive bubble? Are they expecting that they are going to solve all of the physical AI ?
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-04-21/jeff-bezos-nears-10-billion-funding-round-for-ai-lab-ft-says) • 15h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-04-21/jeff-bezos-nears-10-billion-funding-round-for-ai-lab-ft-says) • 16h ago
 
 ---
 
@@ -81,15 +81,7 @@ Jeff Bezos’s five-month-old startup, Project Prometheus, is nearing a historic
 
 Google’s TPUs are now the hottest commodity in AI. A deep-dive analysis of the chip war reshaping global infrastructure — what it means for researchers, developers, and the future of AI compute.
 
-🔗 [Novara Press](https://novarapress.net/ai-chip-war-google-nvidia-2026/) • 2h ago
-
----
-
-**[AI modes - "Helpfulness" "honestness" ... how do they work?](https://www.reddit.com/r/artificial/comments/1ssfnw5/ai_modes_helpfulness_honestness_how_do_they_work/)**
-
-Hi there, i am currently looking for a new job - and sometimes ask googles ai mode. Since those answers where all sugar coated and everything i typed was a great idea, plan - whatever i looked for the reason of that. By default the "Helpfulness" mode seems to be activated - so i asked for "honesness" mode instead. Now everything i typed is - according to the ai - kinda trash and i probably won't be able to do it anyway (e.g. i am over 40 and ai tells me i am to old and that it won't work anyway). Reality probably is somewhere in between. So my question is about those modes - are they simple instructions that the ai follows - like beeing supportive no matter what vs trashing everything no matter what - or is the behaviour somewhat based on the sources the ai finds regarding my questions or comments?
-
-1h ago
+🔗 [Novara Press](https://novarapress.net/ai-chip-war-google-nvidia-2026/) • 3h ago
 
 ---
 
@@ -97,7 +89,7 @@ Hi there, i am currently looking for a new job - and sometimes ask googles ai mo
 
 Apparently MetaAI has it's honesty setting set to 99%. https://preview.redd.it/md3puymhmnwg1.png?width=738&format=png&auto=webp&s=c53544c3d463d1f0221509a80972386d0f5073d9
 
-7h ago
+8h ago
 
 ---
 
@@ -111,7 +103,15 @@ Apparently MetaAI has it's honesty setting set to 99%. https://preview.redd.it/m
 
 **[Blossom trees in The Hague (trees edited)](https://www.reddit.com/r/artificial/comments/1sryn3e/blossom_trees_in_the_hague_trees_edited/)**
 
-14h ago
+15h ago
+
+---
+
+**[AI modes - "Helpfulness" "honestness" ... how do they work?](https://www.reddit.com/r/artificial/comments/1ssfnw5/ai_modes_helpfulness_honestness_how_do_they_work/)**
+
+Hi there, i am currently looking for a new job - and sometimes ask googles ai mode. Since those answers where all sugar coated and everything i typed was a great idea, plan - whatever i looked for the reason of that. By default the "Helpfulness" mode seems to be activated - so i asked for "honesness" mode instead. Now everything i typed is - according to the ai - kinda trash and i probably won't be able to do it anyway (e.g. i am over 40 and ai tells me i am to old and that it won't work anyway). Reality probably is somewhere in between. So my question is about those modes - are they simple instructions that the ai follows - like beeing supportive no matter what vs trashing everything no matter what - or is the behaviour somewhat based on the sources the ai finds regarding my questions or comments?
+
+2h ago
 
 ---
 
@@ -119,33 +119,11 @@ Apparently MetaAI has it's honesty setting set to 99%. https://preview.redd.it/m
 
 ## Google News: "ai"
 
-**[Exclusive: Meta to start capturing employee mouse movements, keystrokes for AI training data](https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/)**
-
-Reuters • 13h ago
-
----
-
-**[Meta to track workers' clicks and keystrokes to train AI](https://www.bbc.com/news/articles/cvglyklz49jo)**
-
-The firm will take data from the way employees work for its artificial intelligence models.
-
-BBC • 11h ago
-
----
-
-**[Read the full memo behind Meta's AI employee tracking rollout](https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4)**
-
-Meta deploys keystroke-tracking software on US employees' computers, sparking privacy concerns and internal backlash.
-
-Business Insider • 14h ago
-
----
-
 **[This Scammer Used an AI-Generated MAGA Girl to Grift ‘Super Dumb’ Men](https://www.wired.com/story/ai-generated-maga-girls/)**
 
 A med student says he’s made thousands of dollars selling photos and videos of a young conservative woman he created using generative tools. He’s not alone.
 
-WIRED • 23h ago
+WIRED • 1d ago
 
 ---
 
@@ -153,45 +131,63 @@ WIRED • 23h ago
 
 According to her profile, she was a registered nurse with Jennifer Lawrence looks who offered red meat posts to lonely conservative men online.
 
-New York Post • 10h ago
+New York Post • 11h ago
 
 ---
 
-**[Scammer Dupes ‘Dumb’ MAGA Men With AI Model](https://www.thedailybeast.com/scammer-emily-hart-mdupes-dumb-maga-men-with-ai-model/)**
+**[Indian Student Created MAGA "Influencer" With AI, Made Thousands Of Dollars](https://www.ndtv.com/world-news/emily-hart-top-maga-influencer-turned-out-to-be-ai-was-created-by-indian-student-11391474)**
 
-A 22-year-old Indian medical student tricked scores of Trump supporters.
+An aspiring orthopedic surgeon used generative AI tools to design everything - from the woman&#039;s face and body to her captions.
 
-The Daily Beast • 12h ago
-
----
-
-**[Anthropic investigates report of rogue access to hack-enabling Mythos AI](https://www.theguardian.com/technology/2026/apr/22/anthropic-investigates-report-of-rogue-access-to-hack-enabling-mythos-ai)**
-
-‘Handful’ of people allegedly gain unauthorised access to model adept at detecting cybersecurity vulnerabilities
-
-The Guardian • 1h ago
+NDTV • 5h ago
 
 ---
 
-**[Anthropic investigating unauthorised access of powerful Mythos AI model](https://www.ft.com/content/56d65763-69fe-4756-baf4-c8192b7aadaf?syn-25a6b1a6=1)**
+**[Michael and Susan Dell surpass 1 billion in donations backing AI driven hospital project](https://www.foxnews.com/tech/michael-susan-dell-surpass-1-billion-donations-backing-ai-driven-hospital-project)**
 
-Start-up has limited the release of the new tool because of concerns about its hacking abilities
+Billionaire Michael Dell and wife Susan Dell become the first donors to give over $1 billion to UT Austin for a massive AI-powered medical campus.
 
-Financial Times • 10h ago
-
----
-
-**[Anthropic’s most dangerous AI model just fell into the wrong hands](https://www.theverge.com/ai-artificial-intelligence/916501/anthropic-mythos-unauthorized-users-access-security)**
-
-So much for being private.
-
-The Verge • 41m ago
+Fox News • 8h ago
 
 ---
 
-**[SpaceX Strikes Deal With Cursor for $60 Billion](https://www.nytimes.com/2026/04/21/business/spacex-cursor-deal.html)**
+**[Exclusive: Meta to start capturing employee mouse movements, keystrokes for AI training data](https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/)**
 
-The New York Times • 9h ago
+Reuters • 15h ago
+
+---
+
+**[Read the full memo behind Meta's AI employee tracking rollout](https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4)**
+
+Meta deploys keystroke-tracking software on US employees' computers, sparking privacy concerns and internal backlash.
+
+Business Insider • 16h ago
+
+---
+
+**[Meta to track employee keystrokes, screen activity to train AI agents](https://www.computerworld.com/article/4161929/meta-to-track-employee-keystrokes-screen-activity-to-train-ai-agents.html)**
+
+The data, gathered through a new internal tool, will be used to improve AI agents’ ability to navigate software and complete workplace tasks, but raises fresh questions about governance and employee trust.
+
+Computerworld • 1h ago
+
+---
+
+**[The AI trade is back on](https://www.axios.com/2026/04/22/ai-anthropic-stocks-iran)**
+
+Axios • 15m ago
+
+---
+
+**[Prediction: Investors rotating out of artificial intelligence (AI) stocks made a costly mistake. The Nasdaq proves it.](https://www.msn.com/en-us/money/markets/prediction-investors-rotating-out-of-artificial-intelligence-ai-stocks-made-a-costly-mistake-the-nasdaq-proves-it/ar-AA21sKzF?ocid=finance-verthp-feeds)**
+
+MSN • 15m ago
+
+---
+
+**[Wall Street falls as Middle East concerns offset earnings optimism](https://www.reuters.com/world/asia-pacific/us-stock-futures-climb-ai-optimism-tempers-middle-east-concerns-2026-04-21/)**
+
+Reuters • 12h ago
 
 ---
 
@@ -201,13 +197,13 @@ The New York Times • 9h ago
 
 **[Atlassian enables default data collection to train AI](https://news.ycombinator.com/item?id=47833247)**
 
-⬆️ 596 • 💬 130 • 1d ago • [letsdatascience.com](https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8)
+⬆️ 597 • 💬 131 • 1d ago • [letsdatascience.com](https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8)
 
 ---
 
 **[Meta to start capturing employee mouse movements, keystrokes for AI training](https://news.ycombinator.com/item?id=47851948)**
 
-⬆️ 559 • 💬 404 • 16h ago • [reuters.com](https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/)
+⬆️ 581 • 💬 416 • 17h ago • [reuters.com](https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/)
 
 ---
 
@@ -215,7 +211,7 @@ The New York Times • 9h ago
 
 People are sick of artificial intelligence, and are increasingly making it known through acts of resistance.
 
-⬆️ 379 • 💬 405 • 1d ago • [stephvee.ca](https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/)
+⬆️ 380 • 💬 406 • 1d ago • [stephvee.ca](https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/)
 
 ---
 
@@ -237,13 +233,13 @@ Police lured the man to a meeting and arrested him after accessing a private Wha
 
 **[A Roblox cheat and one AI tool brought down Vercel's platform](https://news.ycombinator.com/item?id=47844431)**
 
-⬆️ 281 • 💬 159 • 1d ago • [webmatrices.com](https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform)
+⬆️ 281 • 💬 160 • 1d ago • [webmatrices.com](https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform)
 
 ---
 
 **[Tell HN: I'm sick of AI everything](https://news.ycombinator.com/item?id=47857461)**
 
-⬆️ 256 • 💬 146 • 8h ago
+⬆️ 262 • 💬 149 • 9h ago
 
 ---
 
@@ -251,7 +247,7 @@ Police lured the man to a meeting and arrested him after accessing a private Wha
 
 High-performance AI gateway written in Go - unified OpenAI-compatible API for OpenAI, Anthropic, Gemini, Groq, xAI &amp; Ollama. LiteLLM alternative with observability, guardrails &amp; streaming. ...
 
-⬆️ 176 • 💬 66 • 19h ago • [GitHub](https://github.com/ENTERPILOT/GOModel/)
+⬆️ 178 • 💬 69 • 21h ago • [GitHub](https://github.com/ENTERPILOT/GOModel/)
 
 ---
 
@@ -267,7 +263,7 @@ Mediator.ai uses bargaining theory and modern AI to find agreements that two peo
 
 Nial – Knowledge work and artificial intelligence.
 
-⬆️ 145 • 💬 153 • 1d ago • [nial.se](https://nial.se/blog/less-human-ai-agents-please/)
+⬆️ 146 • 💬 153 • 1d ago • [nial.se](https://nial.se/blog/less-human-ai-agents-please/)
 
 ---
 
@@ -275,13 +271,13 @@ Nial – Knowledge work and artificial intelligence.
 
 ## YouTube Videos: "ai"
 
-**[New AI image generator BEATS EVERYTHING](https://www.youtube.com/watch?v=TLFPbMUtErM)**
+**[Reacting To My OWN AI VIDEOS..](https://www.youtube.com/watch?v=T0ZkvbZe9Dw)**
 
-ChatGPT Images 2.0 review. GPT Image 2.0 vs Nano Banana. #ai #aiart #aitools #imagegenerator #agi Thanks to our sponsor ...
+Today I reacted to my own AI videos! Make sure you watch the whole video to find out what happens. Merch: https://foltyn.shop/ ...
 
-📺 AI Search
+📺 Foltyn
 
-👁️ 19K • 👍 1K • 💬 260 • ⏱️ 35:20 • 6h ago
+👁️ 42K • 👍 4K • 💬 1K • ⏱️ 13:36 • 1h ago
 
 ---
 
@@ -291,7 +287,7 @@ Ramageddon” is here: AI data centers are hoarding up to 70% of global DRAM, se
 
 📺 Valuetainment
 
-👁️ 117K • 👍 6K • 💬 344 • ⏱️ 12:41 • 21h ago
+👁️ 124K • 👍 6K • 💬 370 • ⏱️ 12:41 • 22h ago
 
 ---
 
@@ -301,47 +297,7 @@ So much of the hype around AI is due to its supposed "superintelligence". Suppos
 
 📺 Cole Hastings
 
-👁️ 130K • 👍 7K • 💬 1K • ⏱️ 17:36 • 2d ago
-
----
-
-**[Meta Killed Open Source AI… Now What?](https://www.youtube.com/watch?v=LvQWVpC7r04)**
-
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *Meta ...
-
-📺 Julia McCoy
-
-👁️ 15K • 👍 545 • 💬 76 • ⏱️ 8:16 • 19h ago
-
----
-
-**[&#39;WHERE IS THE OFF BUTTON?&#39;: AI fears grow after robot wins half-marathon](https://www.youtube.com/watch?v=TCFRQc0h5BY)**
-
-Humanoid robot 'Lightning' broke a half-marathon world record in Beijing, finishing 13 miles faster than any human.
-
-📺 Fox News Clips
-
-👁️ 20K • 👍 378 • 💬 229 • ⏱️ 5:19 • 18h ago
-
----
-
-**[How to Start Making AI Videos in 2026 - Full Course](https://www.youtube.com/watch?v=gY9KTfMGauU)**
-
-Start Making AI Videos using Higgsfield https://youricreates.com/AIvideos In this video, I break down the full system behind ...
-
-📺 Youri van Hofwegen
-
-👁️ 16K • 💬 8 • ⏱️ 15:44 • 1d ago
-
----
-
-**[Agent Swarms Is One of The Most Powerful AI System Yet](https://www.youtube.com/watch?v=KdP305UYuNA)**
-
-Abacus AI just showed something that feels a lot bigger than another flashy AI demo. Agent Swarms inside ChatLLM and Deep ...
-
-📺 AI Revolution
-
-👁️ 15K • 👍 539 • 💬 44 • ⏱️ 13:18 • 2d ago
+👁️ 131K • 👍 7K • 💬 1K • ⏱️ 17:36 • 2d ago
 
 ---
 
@@ -351,7 +307,47 @@ Sam Altman and Other AI Tech Billionaires Don't Want You to Know About This.. X 
 
 📺 Godrules
 
-👁️ 30K • 👍 2K • 💬 361 • ⏱️ 25:44 • 7h ago
+👁️ 38K • 👍 3K • 💬 452 • ⏱️ 25:44 • 8h ago
+
+---
+
+**[Meta Killed Open Source AI… Now What?](https://www.youtube.com/watch?v=LvQWVpC7r04)**
+
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *Meta ...
+
+📺 Julia McCoy
+
+👁️ 15K • 👍 576 • 💬 78 • ⏱️ 8:16 • 20h ago
+
+---
+
+**[You&#39;ve never seen AI Agent like THIS](https://www.youtube.com/watch?v=CNRHxEZ8yqs)**
+
+Space Agent is a browser-first AI agent runtime and open source AI workspace built for people who want more than a fixed ...
+
+📺 Agent Zero
+
+👁️ 8K • 👍 613 • 💬 115 • ⏱️ 16:16 • 18h ago
+
+---
+
+**[Agent Swarms Is One of The Most Powerful AI System Yet](https://www.youtube.com/watch?v=KdP305UYuNA)**
+
+Abacus AI just showed something that feels a lot bigger than another flashy AI demo. Agent Swarms inside ChatLLM and Deep ...
+
+📺 AI Revolution
+
+👁️ 15K • 👍 542 • 💬 44 • ⏱️ 13:18 • 2d ago
+
+---
+
+**[&#39;WHERE IS THE OFF BUTTON?&#39;: AI fears grow after robot wins half-marathon](https://www.youtube.com/watch?v=TCFRQc0h5BY)**
+
+Humanoid robot 'Lightning' broke a half-marathon world record in Beijing, finishing 13 miles faster than any human.
+
+📺 Fox News Clips
+
+👁️ 22K • 👍 427 • 💬 247 • ⏱️ 5:19 • 20h ago
 
 ---
 
@@ -365,13 +361,13 @@ An AI just scanned the Ethiopian Bible — and what it found about Jesus after t
 
 ---
 
-**[Why AI Will Never Be Conscious - Anil Seth](https://www.youtube.com/watch?v=lsi8T_WtLnE)**
+**[Why Elon Says Google Will Win the AI Race](https://www.youtube.com/watch?v=ZmjdeSRvyyM)**
 
-Get Huel today with this exclusive offer for New Customers of 15% OFF with code alexoconnor at https://huel.com/alexoconnor ...
+The Real AI Race: Tesla vs Google vs China Some viewers ask where they can learn more about investing in AI, Space and ...
 
-📺 Alex O'Connor
+📺 Brighter with Herbert
 
-👁️ 97K • 👍 3K • 💬 1K • ⏱️ 1:42:28 • 1d ago
+👁️ 49K • 👍 2K • 💬 135 • ⏱️ 20:00 • 2d ago
 
 ---
 
@@ -387,7 +383,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with a vision encoder, 
 
 `image-text-to-text` `36.0B`
 
-⬇️ 582,961 • ❤️ 1,163 • 7d ago
+⬇️ 582,961 • ❤️ 1,176 • 1h ago
 
 ---
 
@@ -399,7 +395,7 @@ Kimi K2.6 is a 1T parameter multimodal agentic model excelling in long-horizon c
 
 `image-text-to-text` `1058.6B`
 
-⬇️ 54,456 • ❤️ 742 • 1d ago
+⬇️ 54,456 • ❤️ 755 • 1d ago
 
 ---
 
@@ -411,7 +407,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with vision capabilitie
 
 `image-text-to-text` `34.7B`
 
-⬇️ 1,112,454 • ❤️ 631 • 1d ago
+⬇️ 1,112,454 • ❤️ 636 • 1d ago
 
 ---
 
@@ -423,7 +419,7 @@ HY-World 2.0 is a multi-modal framework for generating and reconstructing 3D wor
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 532 • 4h ago
+⬇️ 0 • ❤️ 534 • 2h ago
 
 ---
 
@@ -435,7 +431,7 @@ Gemma 4 E4B OBLITERATED v3 is a text-generation model with 0% refusal and improv
 
 `text-generation` `8.0B`
 
-⬇️ 79,024 • ❤️ 433 • 2d ago
+⬇️ 79,024 • ❤️ 436 • 2d ago
 
 ---
 
@@ -447,7 +443,7 @@ This is an uncensored, aggressive multimodal model based on Qwen3.6-35B-A3B, cap
 
 `image-text-to-text` `34.7B`
 
-⬇️ 312,962 • ❤️ 353 • 5d ago
+⬇️ 312,962 • ❤️ 357 • 5d ago
 
 ---
 
@@ -471,7 +467,7 @@ ERNIE-Image is a 8B parameter text-to-image diffusion model excelling in complex
 
 `text-to-image`
 
-⬇️ 5,253 • ❤️ 518 • 5d ago
+⬇️ 5,253 • ❤️ 519 • 5d ago
 
 ---
 
@@ -493,7 +489,7 @@ MiniMax-M2.7 is a text-generation model designed for producing human-like text. 
 
 Lyra 2.0 generates explorable, persistent 3D worlds from a single image by synthesizing consistent long-range video and reconstructing it into explicit 3D Gaussian representations. It addresses spatial forgetting and temporal drift for scalable, real-time rendering, setting a new state-of-the-art in single-image 3D scene generation.
 
-⬇️ 252 • ❤️ 249 • 4d ago
+⬇️ 252 • ❤️ 250 • 4d ago
 
 ---
 
@@ -509,7 +505,7 @@ Lyra 2.0 generates explorable, persistent 3D worlds from a single image by synth
 
 LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from video streams using a geometric context transformer architecture with specialized attention mechanisms for coordinate grounding, dense geometric cues, and long-range drift correction, achieving stable real-time performance at 20 FPS.
 
-▲ 9 • 💬 2 • ⭐ 3,962 • 7d ago
+▲ 10 • 💬 2 • ⭐ 3,962 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.14141) • [💻 code](https://github.com/robbyant/lingbot-map) • [🔗 project](https://technology.robbyant.com/lingbot-map)
 
@@ -523,7 +519,7 @@ LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from 
 
 GenericAgent is a self-evolving large language model agent system that maximizes context information density through hierarchical memory, reusable SOPs, and efficient compression to overcome long-horizon limitations.
 
-▲ 6 • 💬 2 • ⭐ 5,509 • 4d ago
+▲ 6 • 💬 2 • ⭐ 5,786 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.17091) • [💻 code](https://github.com/lsdefine/GenericAgent)
 
@@ -535,7 +531,7 @@ GenericAgent is a self-evolving large language model agent system that maximizes
 
 Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-▲ 24 • 💬 1 • ⭐ 20,046 • 8mo ago
+▲ 24 • 💬 1 • ⭐ 20,123 • 8mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
@@ -567,18 +563,6 @@ A multi-agent framework using large language models for stock trading simulates 
 
 ---
 
-**[HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds](https://huggingface.co/papers/2604.14268)**
-
-*Team HY-World, Chenjie Cao, Xuhui Zuo et al. (45 authors)*
-
-HY-World 2.0 is a multi-modal world model framework that generates high-fidelity 3D Gaussian Splatting scenes from diverse inputs using specialized modules for panorama generation, trajectory planning, world expansion, and composition, along with an enhanced rendering platform for interactive 3D exploration.
-
-▲ 104 • 💬 5 • ⭐ 1,505 • 7d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2604.14268) • [💻 code](https://github.com/Tencent-Hunyuan/HY-World-2.0) • [🔗 project](https://3d-models.hunyuan.tencent.com/world/)
-
----
-
 **[VibeVoice Technical Report](https://huggingface.co/papers/2508.19205)**
 
 *Zhiliang Peng, Jianwei Yu, Wenhui Wang et al. (13 authors)*
@@ -587,7 +571,7 @@ HY-World 2.0 is a multi-modal world model framework that generates high-fidelity
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 165 • 💬 10 • ⭐ 40,596 • 7mo ago
+▲ 165 • 💬 10 • ⭐ 40,647 • 7mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -599,9 +583,21 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 OpenGame is an open-source agentic framework for end-to-end web game creation that uses specialized code models and evaluation benchmarks to overcome challenges in interactive application development.
 
-▲ 53 • 💬 2 • ⭐ 140 • 2d ago
+▲ 55 • 💬 2 • ⭐ 140 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.18394) • [💻 code](https://github.com/leigest519/OpenGame) • [🔗 project](https://www.opengame-project-page.com/)
+
+---
+
+**[HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds](https://huggingface.co/papers/2604.14268)**
+
+*Team HY-World, Chenjie Cao, Xuhui Zuo et al. (45 authors)*
+
+HY-World 2.0 is a multi-modal world model framework that generates high-fidelity 3D Gaussian Splatting scenes from diverse inputs using specialized modules for panorama generation, trajectory planning, world expansion, and composition, along with an enhanced rendering platform for interactive 3D exploration.
+
+▲ 105 • 💬 5 • ⭐ 1,520 • 7d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2604.14268) • [💻 code](https://github.com/Tencent-Hunyuan/HY-World-2.0) • [🔗 project](https://3d-models.hunyuan.tencent.com/world/)
 
 ---
 
@@ -641,7 +637,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 48.9k • 🔱 6.4k • 9h ago
+⭐ 48.9k • 🔱 6.4k • 10h ago
 
 ---
 
@@ -651,7 +647,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 42.7k • 🔱 2.2k • 3d ago
+⭐ 42.9k • 🔱 2.2k • 4d ago
 
 ---
 
@@ -661,7 +657,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 38.2k • 🔱 7.8k • 18h ago
+⭐ 38.3k • 🔱 7.8k • 20h ago
 
 ---
 
@@ -671,7 +667,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 32.5k • 🔱 3.6k • 4h ago
+⭐ 32.7k • 🔱 3.6k • 2h ago
 
 ---
 
@@ -681,7 +677,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 8.4k • 🔱 547 • 1h ago
+⭐ 8.5k • 🔱 547 • 22m ago
 
 ---
 
@@ -691,7 +687,7 @@ A theoretical reconstruction of the Claude Mythos architecture, built from first
 
 `Python` `ai` `anthropic` `attention` `claude` `claude-ai`
 
-⭐ 7.8k • 🔱 1.6k • 1d ago
+⭐ 8.2k • 🔱 1.7k • 1d ago
 
 ---
 
@@ -701,7 +697,7 @@ A theoretical reconstruction of the Claude Mythos architecture, built from first
 
 `Python`
 
-⭐ 5.8k • 🔱 972 • 3d ago
+⭐ 5.8k • 🔱 976 • 3d ago
 
 ---
 
@@ -731,7 +727,7 @@ The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interac
 
 `Swift` `apple-intelligence` `apple-silicon` `cli` `foundationmodels` `homebrew`
 
-⭐ 4.8k • 🔱 186 • 16h ago
+⭐ 4.8k • 🔱 187 • 40m ago
 
 ---
 

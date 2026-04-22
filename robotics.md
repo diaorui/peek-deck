@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-22T10:00:37.217073+00:00'
+updated: '2026-04-22T11:17:24.869508+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 22, 2026 at 10:00 UTC  
+**Last Updated:** April 22, 2026 at 11:17 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Was working on my routine tinkering without a specific objective or idea. And this motion object came up. Does it resemble with anything? what would you call to such motion? where can it be helpful? Your inputs may help fine tune and turn it into something useful.
 
-1h ago
+2h ago
 
 ---
 
@@ -44,7 +44,7 @@ Was working on my routine tinkering without a specific objective or idea. And th
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2045783119702425841
 
-23h ago
+1d ago
 
 ---
 
@@ -52,7 +52,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2045783119702425841
 
 CNBC dropped a piece today worth reading. Chinese startups took the top 6 spots in global humanoid shipments in 2025. Figure and Tesla were the only US companies in the top 10. Figure is sitting at a $39B valuation having shipped around 150 units. Unitree ships thousands at $13k a piece. The "China builds the hardware, US builds the brain" take keeps coming up and I don't think it holds anymore. Chinese companies are competing on the AI model side too and closing the gap. On top of that, their EV supply chains already produce the actuators and precision components humanoids need, so they're repurposing existing manufacturing while US companies are building that from scratch. That's where the price gap comes from, not some difference in ambition. The other argument I keep seeing is that the shipped robots only do simple tasks, as if that invalidates the whole thing. Every deployed unit generates real world data that no amount of simulation or staged demos can match. You have to start shipping somewhere. The robots improve while being used, not while sitting in a lab waiting to be perfect.
 
-19h ago
+21h ago
 
 ---
 
@@ -60,7 +60,7 @@ CNBC dropped a piece today worth reading. Chinese startups took the top 6 spots 
 
 built a utility where you drop in a urdf (the robot's blueprint) and it generates a full leader for it. cad to print, motor placements, control code, all of it. kinematics stay identical just scaled down, so teleop works out of the box. motor placement is mostly solved with heuristics. routing links between them is still the hard part. https://x.com/pbshgthm/status/2046566239422853363 planning to make it lerobot compatible, so this can be used as a leader arm when printed out for any embodiment would love to know thoughts
 
-17h ago
+18h ago
 
 ---
 
@@ -68,7 +68,7 @@ built a utility where you drop in a urdf (the robot's blueprint) and it generate
 
 Hello everyone! I've successfully completed my Hobby RC four-legged robot model. The goal was to create a 3D-printable frame using carbon fiber and aluminum, capable of carrying a Raspberry Pi. It's now complete and running well. I'm happy to share this achievement with anyone passionate about Robotics Hobbies, and STEM. Thanks for watching
 
-21h ago
+23h ago
 
 ---
 
@@ -76,13 +76,13 @@ Hello everyone! I've successfully completed my Hobby RC four-legged robot model.
 
 I’m currently knee-deep in a 24-axis robotics project with some brutal space constraints. We’re using Elmo Motion Control drives because, honestly, I haven't found anything else that packs this much power into such a small footprint. The EtherCAT synchronization has been rock solid so far, even as we scale up. I was just wondering how others are finding the integration process when the machine architecture is this tight. Does the "set it and forget it" reliability hold up for you in the field?
 
-6h ago
+7h ago
 
 ---
 
 **[What is the proportion that design can occupy in the future soft robotics area?](https://www.reddit.com/r/robotics/comments/1ssg2sa/what_is_the_proportion_that_design_can_occupy_in/)**
 
-54m ago
+2h ago
 
 ---
 
@@ -96,7 +96,7 @@ I’m currently knee-deep in a 24-axis robotics project with some brutal space c
 
 I was looking through ATEC 2026 earlier, and the part that stuck with me most was the platform choice. What makes it interesting to me is that it seems less about a clean single demo and more about sustained outdoor autonomy — moving through rough terrain, handling objects, and staying reliable over a longer run. If you actually had to build for something like that, what would you pick? My first instinct is that a humanoid is attractive in theory, but I’m not sure it’s the best tradeoff once outdoor reliability becomes a real constraint. A quadruped with an arm, or maybe a wheeled-legged hybrid, feels more practical to me — but maybe I’m underestimating how much the extra dexterity matters. Curious what people here think is the best balance between: • mobility on ugly terrain • manipulation capability • control complexity • and just surviving real-world use
 
-17h ago
+18h ago
 
 ---
 
@@ -118,11 +118,11 @@ DW.com • 1d ago
 
 ---
 
-**[No racetrack glory for China’s AI robots against the data challenge](https://interestingengineering.com/columns/chinas-ai-robots-racetrack-data)**
+**[A non-human race: Beijing half-marathon shows how far robots have come](https://www.cnbc.com/2026/04/19/a-non-human-race-beijing-half-marathon-shows-how-far-robots-have-come.html)**
 
-Unlike large language models trained on vast internet corpora, embodied AI systems must learn through interaction with the physical world.
+The race's inaugural edition last year was riddled with mishaps, and most robots were unable to finish.
 
-Interesting Engineering • 1d ago
+CNBC • 3d ago
 
 ---
 
@@ -130,15 +130,15 @@ Interesting Engineering • 1d ago
 
 The robots are coming. Will they be built in America?
 
-The Washington Post • 17h ago
+The Washington Post • 18h ago
 
 ---
 
-**[China’s Newest Tech Billionaire Made His Fortune From Developing Image Sensor Chips For Robotics](https://www.forbes.com/sites/zinnialee/2026/04/21/chinas-newest-tech-billionaire-made-his-fortune-from-developing-image-sensor-chips-for-robotics/)**
+**[Faraday Future Partners with U.S. Education Institution Triple I to Launch the EAI Robotics Summer Camp in the United States, Advancing “Robot & Vehicle + Education” Scenario Deployment](https://investors.ff.com/news-releases/news-release-details/faraday-future-partners-us-education-institution-triple-i-launch)**
 
-The post-IPO stock surge of Hong Kong-listed Gpixel Changchun Microelectronics has made founder and chairman Wang Xinyang the latest member of China’s three-comma club.
+This marks FF's first strategic partnership with an education institution since entering the EAI Robotics business, marking a new milestone in building the leading scaled Embodied AI (EAI) education system in the U.S. On April 18, FF and Triple I jointly hosted the “AI Robotics Education and Summer
 
-Forbes • 1d ago
+Faraday Future • 1d ago
 
 ---
 
@@ -160,15 +160,15 @@ DefenseScoop • 1d ago
 
 **[SpaceX Alum’s Startup Nears $1 Billion Valuation in Pursuit of Uncrewed Flights](https://www.bloomberg.com/news/articles/2026-04-21/reliable-robotics-raises-more-cash-to-pursue-uncrewed-flights)**
 
-Bloomberg.com • 21h ago
+Bloomberg.com • 22h ago
 
 ---
 
-**[Faraday Future Partners with U.S. Education Institution Triple I to Launch the EAI Robotics Summer Camp in the United States, Advancing “Robot & Vehicle + Education” Scenario Deployment](https://investors.ff.com/news-releases/news-release-details/faraday-future-partners-us-education-institution-triple-i-launch)**
+**[Elon Musk Says AI And Robotics Will Change Everything: 'Everyone Can Have A Penthouse If They Want'](https://finance.yahoo.com/sectors/technology/articles/elon-musk-says-ai-robotics-154608983.html)**
 
-This marks FF's first strategic partnership with an education institution since entering the EAI Robotics business, marking a new milestone in building the leading scaled Embodied AI (EAI) education system in the U.S. On April 18, FF and Triple I jointly hosted the “AI Robotics Education and Summer
+Tesla (NASDAQ:TSLA) CEO Elon Musk is making a bold case for a future where artificial intelligence doesn't just improve the economy, but completely reshapes it to the point where even luxury living, like penthouses, could become widely accessible. In a...
 
-Faraday Future • 1d ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -180,11 +180,11 @@ Seeking Alpha • 1d ago
 
 ---
 
-**[Elon Musk Says AI And Robotics Will Change Everything: 'Everyone Can Have A Penthouse If They Want'](https://finance.yahoo.com/sectors/technology/articles/elon-musk-says-ai-robotics-154608983.html)**
+**[The New Unicorn Count Reached A 4-Year High In March, Led By Robotics, Frontier Labs And AI Infrastructure](https://news.crunchbase.com/venture/unicorn-count-4-year-high-robotics-ai-march-2026/)**
 
-Tesla (NASDAQ:TSLA) CEO Elon Musk is making a bold case for a future where artificial intelligence doesn't just improve the economy, but completely reshapes it to the point where even luxury living, like penthouses, could become widely accessible. In a...
+A total of 37 companies joined The Crunchbase Unicorn Board in March, the highest monthly count in close to four years, Crunchbase data shows. The robotics sector led unicorn creation last month, with six new billion-dollar startups.
 
-Yahoo Finance • 18h ago
+Crunchbase News • 1d ago
 
 ---
 
@@ -198,7 +198,7 @@ AGIBOT just rolled out a full new wave of humanoid robots and AI models built fo
 
 📺 AI Revolution
 
-👁️ 23K • 👍 675 • 💬 44 • ⏱️ 16:29 • 1d ago
+👁️ 24K • 👍 687 • 💬 45 • ⏱️ 16:29 • 1d ago
 
 ---
 
@@ -208,7 +208,7 @@ A humanoid robot has beaten the human record for the world's fastest half-marath
 
 📺 ABC News (Australia)
 
-👁️ 81K • 👍 576 • ⏱️ 6:44 • 2d ago
+👁️ 82K • 👍 581 • ⏱️ 6:44 • 2d ago
 
 ---
 
@@ -218,7 +218,7 @@ AI robots failing and glitching 2026 is becoming impossible to ignore. From huma
 
 📺 MindSeeded
 
-👁️ 231K • 👍 14K • 💬 2K • ⏱️ 14:10 • 4d ago
+👁️ 237K • 👍 14K • 💬 2K • ⏱️ 14:10 • 4d ago
 
 ---
 
@@ -232,41 +232,13 @@ China just revealed an autonomous robot war pack built from dog bots, drones, la
 
 ---
 
-**[50 Minutes: How China&#39;s Robot Destroyed the Half Marathon Record](https://www.youtube.com/watch?v=pH8tVBqCRLY)**
-
-In Beijing, a humanoid robot just completed a 21-kilometer half-marathon in an astonishing 50 minutes and 26 seconds, marking ...
-
-📺 Capital Markets AI
-
-👁️ 27K • 👍 531 • 💬 113 • ⏱️ 8:58 • 2d ago
-
----
-
-**[welding robot#robot #industrial #welding #machines #automation](https://www.youtube.com/watch?v=ku0UeFa1few)**
-
-📺 zhulongfeng 6
-
-👁️ 1K • 👍 4 • 💬 1 • ⏱️ 0:27 • 9h ago
-
----
-
 **[Moment marathon-running robot shatters after tripping as medical team rush over with stretcher](https://www.youtube.com/watch?v=f5NjB-YQGW8)**
 
 This is the shocking moment a marathon-running robot smashed into pieces after tripping Continue reading: Hilarious moment ...
 
 📺 The Sun
 
-👁️ 179K • 👍 2K • 💬 1K • ⏱️ 2:06 • 4d ago
-
----
-
-**[The GPT Moment for Robotics Is Here](https://www.youtube.com/watch?v=4EsUaur0nsQ)**
-
-Physical Intelligence is building a foundation model that can control any robot to do any task — what the team describes as the ...
-
-📺 Y Combinator
-
-👁️ 51K • 👍 1K • 💬 62 • ⏱️ 49:27 • 5d ago
+👁️ 180K • 👍 2K • 💬 1K • ⏱️ 2:06 • 4d ago
 
 ---
 
@@ -276,7 +248,7 @@ Dozens of humanoid robot runners competed in the Beijing half-marathon to mixed 
 
 📺 New York Post
 
-👁️ 20K • 👍 241 • 💬 139 • ⏱️ 2:35 • 1d ago
+👁️ 21K • 👍 246 • 💬 146 • ⏱️ 2:35 • 1d ago
 
 ---
 
@@ -286,7 +258,37 @@ The winner from Honor, a Chinese smartphone maker, completed the 21-kilometer (1
 
 📺 Associated Press
 
-👁️ 71K • 👍 329 • 💬 148 • ⏱️ 0:54 • 3d ago
+👁️ 72K • 👍 329 • 💬 150 • ⏱️ 0:54 • 3d ago
+
+---
+
+**[The GPT Moment for Robotics Is Here](https://www.youtube.com/watch?v=4EsUaur0nsQ)**
+
+Physical Intelligence is building a foundation model that can control any robot to do any task — what the team describes as the ...
+
+📺 Y Combinator
+
+👁️ 52K • 👍 1K • 💬 62 • ⏱️ 49:27 • 5d ago
+
+---
+
+**[Humans far behind as robot breaks record at Beijing half marathon • FRANCE 24 English](https://www.youtube.com/watch?v=tiesaq_GqwI)**
+
+A humanoid robot competing against flesh-and-blood runners broke the world record at a Beijing half marathon on Sunday, ...
+
+📺 FRANCE 24 English
+
+👁️ 79K • 👍 605 • 💬 310 • ⏱️ 1:40 • 2d ago
+
+---
+
+**[50 Minutes: How China&#39;s Robot Destroyed the Half Marathon Record](https://www.youtube.com/watch?v=pH8tVBqCRLY)**
+
+In Beijing, a humanoid robot just completed a 21-kilometer half-marathon in an astonishing 50 minutes and 26 seconds, marking ...
+
+📺 Capital Markets AI
+
+👁️ 27K • 👍 537 • 💬 125 • ⏱️ 8:58 • 2d ago
 
 ---
 
