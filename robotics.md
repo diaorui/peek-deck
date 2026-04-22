@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-22T00:01:54.487672+00:00'
+updated: '2026-04-22T03:47:32.335235+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 22, 2026 at 00:01 UTC  
+**Last Updated:** April 22, 2026 at 03:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2045783119702425841
 
-13h ago
+17h ago
 
 ---
 
@@ -44,7 +44,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2045783119702425841
 
 CNBC dropped a piece today worth reading. Chinese startups took the top 6 spots in global humanoid shipments in 2025. Figure and Tesla were the only US companies in the top 10. Figure is sitting at a $39B valuation having shipped around 150 units. Unitree ships thousands at $13k a piece. The "China builds the hardware, US builds the brain" take keeps coming up and I don't think it holds anymore. Chinese companies are competing on the AI model side too and closing the gap. On top of that, their EV supply chains already produce the actuators and precision components humanoids need, so they're repurposing existing manufacturing while US companies are building that from scratch. That's where the price gap comes from, not some difference in ambition. The other argument I keep seeing is that the shipped robots only do simple tasks, as if that invalidates the whole thing. Every deployed unit generates real world data that no amount of simulation or staged demos can match. You have to start shipping somewhere. The robots improve while being used, not while sitting in a lab waiting to be perfect.
 
-9h ago
+13h ago
 
 ---
 
@@ -52,7 +52,7 @@ CNBC dropped a piece today worth reading. Chinese startups took the top 6 spots 
 
 built a utility where you drop in a urdf (the robot's blueprint) and it generates a full leader for it. cad to print, motor placements, control code, all of it. kinematics stay identical just scaled down, so teleop works out of the box. motor placement is mostly solved with heuristics. routing links between them is still the hard part. https://x.com/pbshgthm/status/2046566239422853363 planning to make it lerobot compatible, so this can be used as a leader arm when printed out for any embodiment would love to know thoughts
 
-7h ago
+11h ago
 
 ---
 
@@ -60,19 +60,27 @@ built a utility where you drop in a urdf (the robot's blueprint) and it generate
 
 Hello everyone! I've successfully completed my Hobby RC four-legged robot model. The goal was to create a 3D-printable frame using carbon fiber and aluminum, capable of carrying a Raspberry Pi. It's now complete and running well. I'm happy to share this achievement with anyone passionate about Robotics Hobbies, and STEM. Thanks for watching
 
-11h ago
+15h ago
 
 ---
 
 **[A humanoid robot named Edward just chased a herd of wild boars out of Warsaw](https://www.reddit.com/r/robotics/comments/1srghex/a_humanoid_robot_named_edward_just_chased_a_herd/)**
 
-16h ago
+20h ago
 
 ---
 
 **[Low-Latency Wireless Teleoperation of Robot Hand using an IMU Glove!](https://www.reddit.com/r/robotics/comments/1sre4d7/lowlatency_wireless_teleoperation_of_robot_hand/)**
 
-18h ago
+22h ago
+
+---
+
+**[Compact high-axis builds: Is anyone else using Elmo for the power density?](https://www.reddit.com/r/robotics/comments/1ssa7tt/compact_highaxis_builds_is_anyone_else_using_elmo/)**
+
+I’m currently knee-deep in a 24-axis robotics project with some brutal space constraints. We’re using Elmo Motion Control drives because, honestly, I haven't found anything else that packs this much power into such a small footprint. The EtherCAT synchronization has been rock solid so far, even as we scale up. I was just wondering how others are finding the integration process when the machine architecture is this tight. Does the "set it and forget it" reliability hold up for you in the field?
+
+2m ago
 
 ---
 
@@ -80,7 +88,7 @@ Hello everyone! I've successfully completed my Hobby RC four-legged robot model.
 
 follow RobotShift for news in the transition from human workforce to that of a robot revolution. Analytical videos on the transitio.
 
-🔗 [youtu.be](https://youtu.be/LJxtV0LFqRw?si=pwbNXTSHTDTiBcsG) • 2h ago
+🔗 [youtu.be](https://youtu.be/LJxtV0LFqRw?si=pwbNXTSHTDTiBcsG) • 6h ago
 
 ---
 
@@ -88,7 +96,7 @@ follow RobotShift for news in the transition from human workforce to that of a r
 
 Hi fellow robots, as I work on my projects I discover cool new ways to do things and I thought I'd share something I learned with you guys. Typically in Arduino projects where you need to read and write to connected devices such as sensors and motors, you'd use serial communication. If you wanted to use Python to talk to the Arduino (to control motors or receive feedback), you'd need a way to bridge the language gap between C++ and Python. Most beginner tutorials would teach you to just send strings of characters back and forth that have to be parsed. But that's a very rigid and cumbersome way of passing information. If the number of decimal places changes, your message could now be a different length. Each character is one byte, so your message could end up being massive if you have large numbers. This is where it makes sense to use a binary protocol, where you send a fixed "frame" of data represented as bytes and all devices abide by the protocol. The idea is to define the structure of your message and send data as binary representations. The message "type" can be represented by a single byte (eg. 0x01). If the data or payload is a floating point number, it can be represented by 4 bytes regardless of how big it is (up to a limit). Now you can always send and received fixed message structures and lengths, known as "packets". This is much more elegant because you always know where to expect each piece of information and how big they are, so you don't need to deal with parsing large strings of characters that vary in length. The difference is especially noticeable once you start sending multiple pieces of information in one packet (eg. speed, position, temperature, voltage, current). I didn't want to make this post too long so this is just a basic overview. If you're interested in more detail with examples to improve your inter-device communication, check out my article.
 
-1h ago
+4h ago
 
 ---
 
@@ -100,29 +108,21 @@ T.Yamazaki on 𝕏: https://x.com/ZappyZappy7/status/2046192595802656933 High To
 
 ---
 
-**[Real-Time Wireless Teleoperation of a Bionic Hand Using a Precision Tracking Glove](https://www.reddit.com/r/robotics/comments/1sqvhs5/realtime_wireless_teleoperation_of_a_bionic_hand/)**
-
-Demonstration of real-time wireless teleoperation using a MANUS Metaglove to control the Ability Hand bionic hand. The glove provides high-precision finger tracking with full joint-level motion capture and low-latency wireless transmission, allowing the hand to mirror movements naturally in real time. The Ability Hand features 30 touch sensors, fast finger actuation (~0.2 s closing speed), and support for EMG-based control, highlighting potential applications in prosthetics, robotic teleoperation, XR interfaces, and remote manipulation
-
-1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
-**[Humanoid robots race past humans in Beijing half-marathon, showing rapid advances](https://www.reuters.com/sports/humanoid-robots-race-past-humans-beijing-half-marathon-showing-rapid-advances-2026-04-19/)**
+**[Watch: Runners v robots at China half marathon](https://www.bbc.com/news/videos/cz0e54yrppno)**
 
-Reuters • 2d ago
+Robots competed in a half marathon race in Beijing on Sunday, with the winning machine leaving its human rivals for dust.
+
+BBC • 2d ago
 
 ---
 
-**[Humanoid robots speed past humans in Beijing half-marathon](https://www.aljazeera.com/video/newsfeed/2026/4/19/humanoid-robots-speed-past-humans-in-beijing-half-marathon)**
+**[Humanoid robots race past humans in Beijing half-marathon, showing rapid advances](https://www.reuters.com/sports/humanoid-robots-race-past-humans-beijing-half-marathon-showing-rapid-advances-2026-04-19/)**
 
-Humanoid robots raced alongside humans in a half-marathon in Beijing.
-
-Al Jazeera • 2d ago
+Reuters • 3d ago
 
 ---
 
@@ -130,7 +130,7 @@ Al Jazeera • 2d ago
 
 The robots are coming. Will they be built in America?
 
-The Washington Post • 7h ago
+The Washington Post • 11h ago
 
 ---
 
@@ -142,29 +142,17 @@ IEEE Spectrum • 1d ago
 
 ---
 
-**[Reliable Robotics pulls $160m, vision restoration gets $125m, and Jensen Hughes up for sale](https://www.axios.com/pro/all-deals/2026/04/21/pro-rata-premium-first-look-robotics-ray-gryphon)**
+**[Faraday Future Partners with U.S. Education Institution Triple I to Launch the EAI Robotics Summer Camp in the United States, Advancing “Robot & Vehicle + Education” Scenario Deployment](https://investors.ff.com/news-releases/news-release-details/faraday-future-partners-us-education-institution-triple-i-launch)**
 
-Axios • 3h ago
+This marks FF's first strategic partnership with an education institution since entering the EAI Robotics business, marking a new milestone in building the leading scaled Embodied AI (EAI) education system in the U.S. On April 18, FF and Triple I jointly hosted the “AI Robotics Education and Summer
 
----
-
-**[Scoop: Humanoid robotics startup gets $1 billion valuation](https://www.axios.com/pro/all-deals/2026/04/21/android-andy-rubin-genki-robotics-1-billion)**
-
-Axios • 2h ago
-
----
-
-**[Fire breaks out in robotics and engineering classroom at Davis Senior High School](https://www.kcra.com/article/fire-davis-senior-high-school-monday/71077968)**
-
-It was contained to the single classroom and did not spread. No injuries were reported.
-
-KCRA • 1d ago
+Faraday Future • 20h ago
 
 ---
 
 **[SpaceX Alum’s Startup Nears $1 Billion Valuation in Pursuit of Uncrewed Flights](https://www.bloomberg.com/news/articles/2026-04-21/reliable-robotics-raises-more-cash-to-pursue-uncrewed-flights)**
 
-Bloomberg.com • 11h ago
+Bloomberg.com • 14h ago
 
 ---
 
@@ -184,6 +172,22 @@ DefenseScoop • 1d ago
 
 ---
 
+**[Will Destiny the humanoid robot take your job?](https://www.bbc.com/news/articles/cp9vk4vyyv1o)**
+
+Futuristic commercial robots are being developed in a village where many once worked as coal miners.
+
+BBC • 22h ago
+
+---
+
+**[The New Unicorn Count Reached A 4-Year High In March, Led By Robotics, Frontier Labs And AI Infrastructure](https://news.crunchbase.com/venture/unicorn-count-4-year-high-robotics-ai-march-2026/)**
+
+A total of 37 companies joined The Crunchbase Unicorn Board in March, the highest monthly count in close to four years, Crunchbase data shows. The robotics sector led unicorn creation last month, with six new billion-dollar startups.
+
+Crunchbase News • 16h ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
@@ -194,7 +198,7 @@ Despite its impressive, human-like capabilities, the AGIBOT Expedition A3 has qu
 
 📺 Cheddar
 
-👁️ 113K • 👍 818 • 💬 156 • ⏱️ 0:27 • 5d ago
+👁️ 112K • 👍 818 • 💬 156 • ⏱️ 0:27 • 5d ago
 
 ---
 
@@ -204,17 +208,17 @@ China's technological developments were on full display, and at full speed, in t
 
 📺 FRANCE 24 English
 
-👁️ 11K • 👍 113 • 💬 10 • ⏱️ 0:48 • 1d ago
+👁️ 11K • 👍 115 • 💬 11 • ⏱️ 0:48 • 1d ago
 
 ---
 
-**[China Just Built an Autonomous AI Robot Army: Killer Robots With Guns and Rockets](https://www.youtube.com/watch?v=_Vw_6QrqS8c)**
+**[Mini industrial arm with Cricket Drives! #robotics #3dprinting](https://www.youtube.com/watch?v=UrxUtHBTh5U)**
 
-China just revealed an autonomous robot war pack built from dog bots, drones, laser weapons, and unmanned boats, Europe is ...
+Six drives working together for smooth pick and place operations. The new Micro Gripper MK II handles the gripping with 4cm of ...
 
-📺 AI Revolution
+📺 Sweep Dynamics
 
-👁️ 74K • 👍 1K • 💬 143 • ⏱️ 16:14 • 5d ago
+👁️ 2K • 👍 93 • 💬 6 • ⏱️ 0:31 • 5h ago
 
 ---
 
@@ -224,17 +228,7 @@ Bloomberg's Minmin Low highlights a half marathon held in Beijing, where autonom
 
 📺 Bloomberg Television
 
-👁️ 44K • 👍 724 • 💬 221 • ⏱️ 5:51 • 1d ago
-
----
-
-**[New AI Robot From China Breaks Human Limits](https://www.youtube.com/watch?v=EJbJMg2RNgw)**
-
-AGIBOT just rolled out a full new wave of humanoid robots and AI models built for real deployment, while researchers in South ...
-
-📺 AI Revolution
-
-👁️ 20K • 👍 634 • 💬 39 • ⏱️ 16:29 • 23h ago
+👁️ 47K • 👍 751 • 💬 230 • ⏱️ 5:51 • 1d ago
 
 ---
 
@@ -244,7 +238,17 @@ I made a 3D printed gearbox for a Nema 17 stepper motor. I released the 3D files
 
 📺 Advanced Hobby Lab
 
-👁️ 156K • 👍 2K • 💬 22 • ⏱️ 0:27 • 4d ago
+👁️ 162K • 👍 2K • 💬 22 • ⏱️ 0:27 • 4d ago
+
+---
+
+**[New AI Robot From China Breaks Human Limits](https://www.youtube.com/watch?v=EJbJMg2RNgw)**
+
+AGIBOT just rolled out a full new wave of humanoid robots and AI models built for real deployment, while researchers in South ...
+
+📺 AI Revolution
+
+👁️ 22K • 👍 658 • 💬 43 • ⏱️ 16:29 • 1d ago
 
 ---
 
@@ -254,15 +258,15 @@ You think robots are still sci-fi? Think again. I'm at the this year's Canton Fa
 
 📺 Eric Cracks China
 
-👁️ 104K • 👍 3K • 💬 162 • ⏱️ 1:54 • 3d ago
+👁️ 105K • 👍 3K • 💬 163 • ⏱️ 1:54 • 4d ago
 
 ---
 
-**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=FGOr4qFDqXg)**
+**[welding robot#robot #industrial #welding #machines #automation](https://www.youtube.com/watch?v=ku0UeFa1few)**
 
-📺 Robot Julie 
+📺 zhulongfeng 6
 
-👁️ 18K • 👍 49 • ⏱️ 0:24 • 22h ago
+👁️ 1K • 👍 3 • ⏱️ 0:27 • 3h ago
 
 ---
 
@@ -270,17 +274,15 @@ You think robots are still sci-fi? Think again. I'm at the this year's Canton Fa
 
 📺 BerontRobotPeng6
 
-👁️ 25K • 👍 194 • 💬 4 • ⏱️ 0:26 • 1d ago
+👁️ 29K • 👍 217 • 💬 4 • ⏱️ 0:26 • 1d ago
 
 ---
 
-**[The GPT Moment for Robotics Is Here](https://www.youtube.com/watch?v=4EsUaur0nsQ)**
+**[Under The Sea. #engineering #robotics #funny #memes #disney](https://www.youtube.com/watch?v=XnMlTspJjZw)**
 
-Physical Intelligence is building a foundation model that can control any robot to do any task — what the team describes as the ...
+📺 SloppyRobots
 
-📺 Y Combinator
-
-👁️ 50K • 👍 1K • 💬 62 • ⏱️ 49:27 • 5d ago
+👁️ 760 • 👍 15 • 💬 2 • ⏱️ 1:30 • 4h ago
 
 ---
 
