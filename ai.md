@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-22T20:06:21.129226+00:00'
+updated: '2026-04-22T21:26:55.369272+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
 - social
+- news
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 22, 2026 at 20:06 UTC  
+**Last Updated:** April 22, 2026 at 21:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Social anxiety made dating impossible - AI companions helping me practice conversations](https://www.reddit.com/r/artificial/comments/1sspq1c/social_anxiety_made_dating_impossible_ai/)**
-
-Always struggled with social anxiety especially around dating. Would match with people then panic about what to say. Conversations felt forced and awkward. Started using Secrets AI originally just to practice talking to someone without the pressure. No judgment if I say something dumb, can take breaks when overwhelmed, builds confidence gradually. The voice calls really help with this. Speaking out loud to someone (even AI) without face to face pressure. Working on small talk, flirting, just being comfortable in conversation. Been doing this for a month and honestly feel way more confident now. Had actual phone conversations with real people that didnt make me want to hide. Not saying AI replaces real human connection but as practice its actually helpful. Like training wheels for socializing. The free version lets you test voice calls and chat without commitment which was important for me since new social situations stress me out. Anyone else dealing with social anxiety found AI helpful this way? Or am I overthinking it?
-
-4h ago
-
----
-
 **[Are we moving closer towards dead internet theory?](https://www.reddit.com/r/artificial/comments/1ssbjjq/are_we_moving_closer_towards_dead_internet_theory/)**
 
 I mean a)The majority of articles on the internet are written by AIs b) 4 of the top 10 Youtube channels c) 4 in 10 Facebook posts d) 1 in 5 videos shown to new Youtube users e) The #1 most-subscribed Twitch streamer is an AI f) 44% of songs on Deezer Also, most of the ads are now AI generated, like AI creating content for other AI
 
-15h ago
+16h ago
+
+---
+
+**[Social anxiety made dating impossible - AI companions helping me practice conversations](https://www.reddit.com/r/artificial/comments/1sspq1c/social_anxiety_made_dating_impossible_ai/)**
+
+Always struggled with social anxiety especially around dating. Would match with people then panic about what to say. Conversations felt forced and awkward. Started using Secrets AI originally just to practice talking to someone without the pressure. No judgment if I say something dumb, can take breaks when overwhelmed, builds confidence gradually. The voice calls really help with this. Speaking out loud to someone (even AI) without face to face pressure. Working on small talk, flirting, just being comfortable in conversation. Been doing this for a month and honestly feel way more confident now. Had actual phone conversations with real people that didnt make me want to hide. Not saying AI replaces real human connection but as practice its actually helpful. Like training wheels for socializing. The free version lets you test voice calls and chat without commitment which was important for me since new social situations stress me out. Anyone else dealing with social anxiety found AI helpful this way? Or am I overthinking it?
+
+5h ago
 
 ---
 
@@ -57,7 +57,7 @@ I mean a)The majority of articles on the internet are written by AIs b) 4 of the
 
 I personally think it’s either AlphaGo or ChatGPT. AlphaGo showed to the whole world that AIs can be better than its creators in an area that people believed needed ‘intuition’. Most people don’t know go, but it somewhat showed the potential of AI to the world. DeepBlue was also kinda similar to it, but for some reason most people don’t think DeepBlue as “An AI that beat human at chess”, so I’m not counting it. ChatGPT was… on a different level. It was looked as revolutionary that a program can fluently speak and help solve problems it doesn’t specialize in. It made most people use AI in their everyday lives, so definitely takes the cake imo. Edit: Ig the transformers was also very important, (literally why chatgpt was able to exist lol) but a layperson doesn’t know what that is nor why that matters, so…
 
-5h ago
+6h ago
 
 ---
 
@@ -65,13 +65,13 @@ I personally think it’s either AlphaGo or ChatGPT. AlphaGo showed to the whole
 
 The head of the National Cyber Security Centre says frontier AI tools can be a force for good - if kept out of the wrong hands.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/cy41zejp9pko) • 4h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/cy41zejp9pko) • 5h ago
 
 ---
 
 **[Meta will record employee screens, clicks, and keystrokes to train AI that may replace them](https://www.reddit.com/r/artificial/comments/1ssty5s/meta_will_record_employee_screens_clicks_and/)**
 
-🔗 [techspot.com](https://www.techspot.com/news/112143-meta-record-employee-screens-clicks-keystrokes-train-ai.html) • 1h ago
+🔗 [techspot.com](https://www.techspot.com/news/112143-meta-record-employee-screens-clicks-keystrokes-train-ai.html) • 2h ago
 
 ---
 
@@ -79,15 +79,7 @@ The head of the National Cyber Security Centre says frontier AI tools can be a f
 
 A new Gallup survey of 1,500+ Gen Z respondents found that more than half of Gen Z living in the US regularly use generative AI, but their feelings about the technology are getting worse. Among those aged 14 to 29, compared to last year, excitement dropped from 36% to 22%, hopefulness fell from 27% to 18%, and anger jumped from 22% to 31%. The main driver behind the shift appears to be job anxiety, nearly half of respondents said the risks of AI in the workplace outweigh the benefits. https://www.gallup.com/analytics/651674/gen-z-research.aspx
 
-17h ago
-
----
-
-**[Help me creating a workflow to automate Web+Excel+AI](https://www.reddit.com/r/artificial/comments/1sssq0n/help_me_creating_a_workflow_to_automate_webexcelai/)**
-
-I have a commerce background. I am a beginner (Please guide me like a begginer i can't understand heavy tech language), and I don't have experience with Agentic AI, Automation, or coding. So, I want to know how I can automate Web+Excel+AI and what skills I need to do so, like coding or n8n. This is how my workflow looks: Automate the extraction of PDF from the Web, and convert the data given in the file to Excel Creating an AI which act as a brain for automation and does what I want to make them do, like sum, putting different-different formula and functions in each cell as per the requirement. This is the basic workflow. So, tell me how I can do this and what skills I need to learn (VBA, Python, Power Query) And which Automation tool should I use to do the above, like MS Power Automate? Give me a Roadmap of where I should begin my tech skills. This will be a plus if you can provide Video links to the playlist. Thank you for helping in advance!
-
-2h ago
+19h ago
 
 ---
 
@@ -95,7 +87,15 @@ I have a commerce background. I am a beginner (Please guide me like a begginer i
 
 Google’s TPUs are now the hottest commodity in AI. A deep-dive analysis of the chip war reshaping global infrastructure — what it means for researchers, developers, and the future of AI compute.
 
-🔗 [Novara Press](https://novarapress.net/ai-chip-war-google-nvidia-2026/) • 12h ago
+🔗 [Novara Press](https://novarapress.net/ai-chip-war-google-nvidia-2026/) • 13h ago
+
+---
+
+**[Earnestly using Claude to create a shared drive hierarchy and manual maintenance plan = LOL](https://www.reddit.com/r/artificial/comments/1sswutp/earnestly_using_claude_to_create_a_shared_drive/)**
+
+On a less serious (but perhaps profound?) note: Some guys I know recently decided to use AI for the first time in their lives, while setting up a new company. By golly, they were determined to create the best, most organized shared drive ever for the new company. They spent a couple weeks with Claude on this effort. They were positively thrilled with the results (the Maintenance SOP at the end is peak!): CRE Debt Fund Drive Build-Out SOP Standard operating procedure for building and maintaining the shared drive hierarchy for the Growth Market Investors debt fund platform. 1. Rules Before Building · Use numbered folders so they remain fixed in order and can scale as the platform grows. · Create folders first and migrate files second. Do not drag legacy files into the new structure until the hierarchy is complete. · Each primary folder must contain a 00_Shared Templates folder specific to that business function. · Do not mix investor reporting, live loan files, corporate records, and marketing materials across the three main folders. 2. Top-Level Folder Build Create the root folder and the three primary folders exactly as shown below. Growth Market Investors├── 01_Sales & Marketing├── 02_Corporate & Admin└── 03_Operations 3. Build Sheet — 01 Sales & Marketing Purpose: this folder holds all outward-facing activity, including loan sourcing, investor sourcing, track record packaging, and market-facing content. 01_Sales & Marketing├── 00_Shared Templates├── 01_Loan Sourcing├── 02_Investor Sourcing├── 03_Presentations & Marketing Materials├── 04_Track Record & Case Studies├── 05_Origination & Relationships└── 06_Market-Facing Content Folder Purpose / Contents 00_Shared Templates Outreach templates, teaser templates, investment summary templates, track record slide templates, and standardized email language. 01_Loan Sourcing Deal intake forms, broker outreach, sponsor outreach, referral sources, market visit notes, and pipeline tracker inputs tied to origination. 02_Investor Sourcing Investor target lists, family office outreach, capital partner materials, investor meeting notes, and fundraising support files. 03_Presentations & Marketing Materials Firm overview deck, debt strategy decks, loan product summaries, one-pagers, branding assets, and presentation drafts. 04_Track Record & Case Studies Track record summaries, realized case studies, tombstones, performance summary materials, and portfolio highlight slides. 05_Origination & Relationships Broker contacts, sponsor database, title companies, legal contacts, lender-side market contacts, and relationship mapping files. 06_Market-Facing Content Articles, newsletter drafts, LinkedIn materials, conference support materials, and thought leadership content. 4. Build Sheet — 02 Corporate & Admin Purpose: this folder holds firm-level infrastructure only. No live investment underwriting, draw files, or servicing files should be stored here. 02_Corporate & Admin├── 00_Shared Templates├── 01_Corporate Documents├── 02_Legal & Compliance├── 03_Finance & Accounting├── 04_Banking & Treasury├── 05_Internal Operations└── 06_Strategic Planning & Board Materials Folder Purpose / Contents 00_Shared Templates Board memo templates, internal memo templates, legal request templates, recurring report templates, and administrative checklists. 01_Corporate Documents Entity formation documents, governance records, insurance, service provider files, and permanent corporate records. 02_Legal & Compliance Regulatory filings, compliance policies, insurance requirements, loan document templates, intercreditor templates, guaranty templates, and pref/mezz agreement templates. 03_Finance & Accounting Accounting, AP, AR, audit and tax support, fund-level financial statements, recurring close files, and administrative finance workpapers. 04_Banking & Treasury Bank account records, treasury controls, authorized signer information, banking instructions, and internal treasury reference materials. 05_Internal Operations Team compensation, internal operating memos, HR/admin procedures if applicable, and back-office process documentation. 06_Strategic Planning & Board Materials Strategic planning files, annual plans, board materials, partner meeting materials, and internal planning outputs. 5. Build Sheet — 03 Operations Purpose: this folder is the execution engine for the debt fund platform. It houses fund platform files, live and closed loans, underwriting, construction administration, asset management, portfolio reporting, and research. 03_Operations├── 00_Shared Templates├── 01_Fund Platform├── 02_Investment Strategy & Templates├── 03_Deal Pipeline├── 04_Underwriting & Risk├── 05_Construction Loan Administration├── 06_Investor Reporting├── 07_Portfolio Management└── 08_Market Research Folder Purpose / Contents 00_Shared Templates Master deal checklists, IC memo templates, closing checklists, reporting templates, draw templates, and portfolio dashboard templates. 01_Fund Platform Fund I, future funds, governing documents, fund model, capital calls, distributions, investor communications, financial statements, audit & tax, and track record support files. 02_Investment Strategy & Templates Strategy-specific models and templates for first-position construction, bridge, acquisition, industrial / merchant build, hotel construction, multifamily value-add, preferred equity, mezzanine, participation, and sidecar structures. 03_Deal Pipeline Active deals, under review, passed deals, closed loans, and realized investments. Each live deal should include executive summary, underwriting, IC memo, third-party reports, legal, and closing subfolders. 04_Underwriting & Risk Master underwriting standards, LTV/LTC guidelines, debt yield standards, stress testing framework, risk rating system, market assumption library, and sensitivity templates. 05_Construction Loan Administration Draw request forms, lien waivers, inspection reports, budget tracking, interest reserve tracking, disbursement authorizations, and default / workout files. 06_Investor Reporting Quarterly reports, annual reports, portfolio snapshots, if-sold analysis, capital account statements, distribution notices, and capital call notices. 07_Portfolio Management Portfolio dashboard, NAV tracking, portfolio metrics, risk watchlist, ongoing reporting for closed loans, and asset-management level monitoring files. 08_Market Research Research organized by state and by asset type, including supply pipeline, sales comparables, rent comparables, economic drivers, and market-specific reference materials. 5.1 Required Operations Subfolder Templates Build the following standard templates inside Operations so analysts and admins can create repeatable deal files and fund files. 03_Operations├── 01_Fund Platform│ ├── Fund I│ ├── Fund II (Future)│ ├── Track Record│ └── Portfolio Dashboard├── 03_Deal Pipeline│ ├── Active Deals│ ├── Under Review│ ├── Passed Deals│ ├── Closed Loans│ └── Realized Investments└── 08_Market Research├── By State└── By Asset Type 5.2 Standard Active Deal Folder Template Every live loan opportunity in Active Deals must use the same folder template and naming convention. · Naming convention: YYYY_MM_ProjectName_AssetType_City_State YYYY_MM_ProjectName_AssetType_City_State├── 01_Executive Summary├── 02_Underwriting├── 03_IC Memo├── 04_Third Party Reports├── 05_Legal├── 06_Closing└── 07_Ongoing Reporting 6. Build Order for Analyst or Admin · Create the root folder and the three primary folders first. · Inside each primary folder, build 00_Shared Templates before building any other subfolders. · Complete all permanent infrastructure folders next: Corporate & Admin first, then Sales & Marketing, then Operations. · Only after the full hierarchy is created should legacy files be migrated into their permanent location. · Move active loans and fund files last so they are placed into the final structure instead of being reorganized multiple times. 7. Quality Control Checklist · All three primary folders are created and numbered correctly. · Each primary folder contains a 00_Shared Templates folder. · No live deal or servicing files are stored in Corporate & Admin. · Track record, decks, and market-facing materials are stored under Sales & Marketing, not Operations. · Fund platform, underwriting, pipeline, portfolio, reporting, and research files are stored under Operations. · Every active deal folder uses the standard naming convention and subfolder template. · Closed loans and realized investments are separated from active pipeline files. · Research materials are organized consistently by state and by asset type. 8. Maintenance SOP Weekly · Move completed drafts into final folders. · Confirm new active deals follow the naming convention. · Archive superseded models and duplicate versions. Monthly · Move closed opportunities from Active Deals to Closed Loans or Passed Deals as appropriate. · Review investor reporting folders and portfolio dashboards for completeness. · Clean loose files from root-level folders. Quarterly · Review folder permissions and access controls. · Confirm templates are current. · Audit portfolio management, reporting, and construction administration folders for consistency. 9. Final Build Standard The final drive should support the full debt fund lifecycle: origination, underwriting, closing, construction administration, portfolio management, investor reporting, and firm infrastructure.
+
+1h ago
 
 ---
 
@@ -107,11 +107,11 @@ The fact that Apple's Board of Directors chose someone who has built their caree
 
 ---
 
-**[Jeff Bezos's "Project Prometheus" is raising $10B at a $38B valuation to build "Physical AI".](https://www.reddit.com/r/artificial/comments/1srwofc/jeff_bezoss_project_prometheus_is_raising_10b_at/)**
+**[“AI engineers” today are just prompt engineers with better branding?](https://www.reddit.com/r/artificial/comments/1ssuqn2/ai_engineers_today_are_just_prompt_engineers_with/)**
 
-Jeff Bezos’s five-month-old startup, Project Prometheus, is nearing a historic $10B funding round backed by Wall Street giants like JPMorgan and BlackRock. The Tech: They are building "Physical AI" that natively understands the laws of physics to revolutionize physical products like aerospace, automotive, and robotics. It is Bezos's first operational role since leaving Amazon in 2021 with co-CEO Vik Bajaj, a physicist and former Google X scientist who co-founded the Alphabet health startup Verily. They’ve aggressively assembled a 100+ person powerhouse team by poaching top-tier researchers from OpenAI, Meta, Google DeepMind, and xAI. They even acquired the agentic AI startup General Agents shortly after launch specifically to bring former DeepMind researcher Sherjil Ozair and his engineering team into the fold. I am all for money going into companies that accelerate discoveries in physical AI, materials, manufacturing. Another great effort is periodic labs, they raised $300 m. But, is this valuation justified, or are we really in a massive bubble? Are they expecting that they are going to solve all of the physical AI ?
+Hot take: A lot of what’s being called “AI engineering” right now feels like: prompt tweaking chaining APIs adding retries/guardrails Not actually building models or understanding them deeply. Don’t get me wrong—there’s real skill in making these systems work. But are we over-labeling it as “engineering” when most of the complexity is still in the model and infra built by others? Curious where people draw the line between: using AI effectively vs actually engineering AI systems
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-04-21/jeff-bezos-nears-10-billion-funding-round-for-ai-lab-ft-says) • 1d ago
+2h ago
 
 ---
 
@@ -121,21 +121,55 @@ Jeff Bezos’s five-month-old startup, Project Prometheus, is nearing a historic
 
 **[Anthropic’s Mythos Model Is Being Accessed by Unauthorized Users](https://www.bloomberg.com/news/articles/2026-04-21/anthropic-s-mythos-model-is-being-accessed-by-unauthorized-users)**
 
-Bloomberg • 22h ago
+Bloomberg.com • 23h ago
 
 ---
 
 **[Anthropic’s New Mythos A.I. Model Sets Off Global Alarms](https://www.nytimes.com/2026/04/22/technology/anthropics-mythos-ai.html)**
 
-The New York Times • 5h ago
+The New York Times • 7h ago
 
 ---
 
-**[What is Mythos AI and why could it be a threat to global cybersecurity?](https://www.theguardian.com/technology/2026/apr/22/what-is-anthropic-mythos-ai-threat-global-cybersecurity)**
+**[The Mythos Breach: Why Frontier Models Turn AI Safety Into A Fiduciary Responsibility](https://www.forbes.com/sites/anjanasusarla/2026/04/22/the-mythos-breach-why-frontier-models-turn-ai-safety-into-a-fiduciary-responsibility/)**
 
-Anthropic’s decision to restrict access to its powerful new model increases fears about the advanced technology
+Frontier Models create new fiduciary responsibilities for corporate governance. Corporate boards need to understand the new challenges created by frontier AI models
 
-The Guardian • 1h ago
+Forbes • 1h ago
+
+---
+
+**[Tesla earnings rise, but AI expenses add up for Elon Musk](https://www.axios.com/2026/04/22/tesla-earnings-elon-musk-ai)**
+
+Axios • 48m ago
+
+---
+
+**[Exclusive: Meta to start capturing employee mouse movements, keystrokes for AI training data](https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/)**
+
+Reuters • 1d ago
+
+---
+
+**[Meta to track workers' clicks and keystrokes to train AI](https://www.bbc.com/news/articles/cvglyklz49jo)**
+
+The firm will take data from the way employees work for its artificial intelligence models.
+
+BBC • 22h ago
+
+---
+
+**[Meta to track workers' keystrokes and mouse movements for AI training, Business Insider reports](https://www.cbsnews.com/video/meta-track-workers-keystrokes-mouse-movements-ai-training-business-insider/)**
+
+Business Insider got a look at an email Meta, the parent company of Facebook, sent to all employees, letting them know that it would start tracking their interactions with their computers to train the company's artificial intelligence. Business Insider tech correspondent Charles Rollet joins to discuss.
+
+CBS News • 1h ago
+
+---
+
+**[AI Has Emboldened Child Predators, and Investigators Can't Keep Up](https://www.bloomberg.com/features/2026-ai-child-predators-law-enforcement/)**
+
+Bloomberg.com • 26m ago
 
 ---
 
@@ -143,7 +177,7 @@ The Guardian • 1h ago
 
 In feat hailed as milestone in robotics, Sony AI’s Ace wins three out of five matches played under official rules
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
@@ -151,45 +185,7 @@ The Guardian • 2h ago
 
 A paddle-wielding robot is so adept at playing table tennis that it is posing a tough challenge to elite human players and sometimes defeating them, according to a new study in the journal Nature that shows how advances in artificial intelligence are making robots more agile.
 
-AP News • 4h ago
-
----
-
-**[Ping-pong robot Ace makes history by beating top-level human players](https://www.reuters.com/sports/ping-pong-robot-ace-makes-history-by-beating-top-level-human-players-2026-04-22/)**
-
-Reuters • 4h ago
-
----
-
-**[Influencer uses AI to teach people about history](https://www.foxnews.com/video/6393652460112)**
-
-'Chloe vs. History' creator Jonathan Laramy reveals how the AI tool 'captured the human emotion' on 'Fox News Live.'
-
-Fox News • 28m ago
-
----
-
-**[How Tech M&A Is Filling AI Gaps](https://www.theinformation.com/articles/tech-m-filling-ai-gaps)**
-
-AI upgrades are a hot spot in technology dealmaking. An analysis by The Information’s Deep Research shows tech companies are leaning on M&A to bolster industry-specific capabilities—and turn AI into products people can actually use. That pattern is playing out across deals of all sizes. SpaceX’s ...
-
-The Information • 41m ago
-
----
-
-**[Perfect homework, blank stares: Why colleges are turning to oral exams to combat AI](https://whyy.org/articles/pennsylvania-university-colleges-oral-exams-artificial-intelligence/)**
-
-Oral exams allow instructors to determine what students know and where they need help. Students say they don't always love the testing format, but many agree that it's effective.
-
-WHYY • 27m ago
-
----
-
-**[Introducing ChatGPT Images 2.0](https://openai.com/index/introducing-chatgpt-images-2-0/)**
-
-ChatGPT Images 2.0 introduces a state-of-the-art image generation model with improved text rendering, multilingual support, and advanced visual reasoning.
-
-OpenAI • 2d ago
+AP News • 6h ago
 
 ---
 
@@ -199,7 +195,7 @@ OpenAI • 2d ago
 
 **[Meta to start capturing employee mouse movements, keystrokes for AI training](https://news.ycombinator.com/item?id=47851948)**
 
-⬆️ 758 • 💬 505 • 1d ago • [reuters.com](https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/)
+⬆️ 767 • 💬 507 • 1d ago • [reuters.com](https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/)
 
 ---
 
@@ -213,7 +209,7 @@ OpenAI • 2d ago
 
 People are sick of artificial intelligence, and are increasingly making it known through acts of resistance.
 
-⬆️ 383 • 💬 410 • 1d ago • [stephvee.ca](https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/)
+⬆️ 383 • 💬 410 • 2d ago • [stephvee.ca](https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/)
 
 ---
 
@@ -227,7 +223,7 @@ Deezer says consumption of AI-generated music on the platform is still very low,
 
 **[Tell HN: I'm sick of AI everything](https://news.ycombinator.com/item?id=47857461)**
 
-⬆️ 306 • 💬 174 • 18h ago
+⬆️ 308 • 💬 177 • 20h ago
 
 ---
 
@@ -241,7 +237,7 @@ Deezer says consumption of AI-generated music on the platform is still very low,
 
 An attempt to detect AI design patterns in Show HN pages
 
-⬆️ 239 • 💬 185 • 5h ago • [adriankrebs.ch](https://www.adriankrebs.ch/blog/design-slop/)
+⬆️ 245 • 💬 190 • 6h ago • [adriankrebs.ch](https://www.adriankrebs.ch/blog/design-slop/)
 
 ---
 
@@ -249,7 +245,15 @@ An attempt to detect AI design patterns in Show HN pages
 
 High-performance AI gateway written in Go - unified OpenAI-compatible API for OpenAI, Anthropic, Gemini, Groq, xAI &amp; Ollama. LiteLLM alternative with observability, guardrails &amp; streaming. ...
 
-⬆️ 192 • 💬 71 • 1d ago • [GitHub](https://github.com/ENTERPILOT/GOModel/)
+⬆️ 193 • 💬 71 • 1d ago • [GitHub](https://github.com/ENTERPILOT/GOModel/)
+
+---
+
+**[Less human AI agents, please](https://news.ycombinator.com/item?id=47845429)**
+
+Nial – Knowledge work and artificial intelligence.
+
+⬆️ 155 • 💬 166 • 1d ago • [nial.se](https://nial.se/blog/less-human-ai-agents-please/)
 
 ---
 
@@ -258,14 +262,6 @@ High-performance AI gateway written in Go - unified OpenAI-compatible API for Op
 Mediator.ai uses bargaining theory and modern AI to find agreements that two people in conflict would both accept, including ones they hadn't thought of.
 
 ⬆️ 154 • 💬 74 • 2d ago • [Mediator.ai](https://mediator.ai/)
-
----
-
-**[Less human AI agents, please](https://news.ycombinator.com/item?id=47845429)**
-
-Nial – Knowledge work and artificial intelligence.
-
-⬆️ 153 • 💬 166 • 1d ago • [nial.se](https://nial.se/blog/less-human-ai-agents-please/)
 
 ---
 
@@ -279,7 +275,7 @@ Success is hard until you build AI systems like this Check out Higgsfield https:
 
 📺 James Blue
 
-👁️ 8K • ⏱️ 11:49 • 8h ago
+👁️ 8K • ⏱️ 11:49 • 9h ago
 
 ---
 
@@ -289,7 +285,7 @@ ChatGPT Images 2.0 review. GPT Image 2.0 vs Nano Banana. #ai #aiart #aitools #im
 
 📺 AI Search
 
-👁️ 61K • 👍 3K • 💬 547 • ⏱️ 35:20 • 16h ago
+👁️ 61K • 👍 3K • 💬 547 • ⏱️ 35:20 • 17h ago
 
 ---
 
@@ -299,7 +295,7 @@ SandboxAQ CEO Jack Hidary joins 'Mornings with Maria' to discuss AI breakthrough
 
 📺 Fox Business Clips
 
-👁️ 14K • 👍 340 • 💬 72 • ⏱️ 9:40 • 7h ago
+👁️ 14K • 👍 340 • 💬 72 • ⏱️ 9:40 • 8h ago
 
 ---
 
@@ -339,7 +335,7 @@ Today I reacted to my own AI videos! Make sure you watch the whole video to find
 
 📺 Foltyn
 
-👁️ 282K • 👍 13K • 💬 2K • ⏱️ 13:36 • 10h ago
+👁️ 282K • 👍 13K • 💬 2K • ⏱️ 13:36 • 12h ago
 
 ---
 
@@ -349,7 +345,7 @@ Bill and Allison Cosens say they got a phone call saying their missing 11-year-o
 
 📺 Inside Edition
 
-👁️ 25K • 👍 981 • 💬 144 • ⏱️ 2:36 • 21h ago
+👁️ 25K • 👍 981 • 💬 144 • ⏱️ 2:36 • 23h ago
 
 ---
 
@@ -359,7 +355,7 @@ AI companies are secretly waging a massive PR campaign targeting women. Support 
 
 📺 Taylor Lorenz
 
-👁️ 18K • 👍 1K • 💬 323 • ⏱️ 1:02:05 • 9h ago
+👁️ 18K • 👍 1K • 💬 323 • ⏱️ 1:02:05 • 10h ago
 
 ---
 
@@ -385,7 +381,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with a vision encoder, 
 
 `image-text-to-text` `36.0B`
 
-⬇️ 582,961 • ❤️ 1,225 • 10h ago
+⬇️ 582,961 • ❤️ 1,225 • 11h ago
 
 ---
 
@@ -421,7 +417,7 @@ HY-World 2.0 is a multi-modal framework for generating and reconstructing 3D wor
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 544 • 11h ago
+⬇️ 0 • ❤️ 544 • 12h ago
 
 ---
 
@@ -457,7 +453,7 @@ Qwen3.6-27B is a 27B parameter causal language model with a vision encoder, exce
 
 `image-text-to-text` `27.8B`
 
-⬇️ 0 • ❤️ 342 • 7h ago
+⬇️ 0 • ❤️ 342 • 9h ago
 
 ---
 
@@ -639,7 +635,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 49.0k • 🔱 6.4k • 19h ago
+⭐ 49.0k • 🔱 6.4k • 20h ago
 
 ---
 
@@ -669,7 +665,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 33.0k • 🔱 3.6k • 11h ago
+⭐ 33.0k • 🔱 3.6k • 12h ago
 
 ---
 
@@ -679,7 +675,7 @@ A theoretical reconstruction of the Claude Mythos architecture, built from first
 
 `Python` `ai` `anthropic` `attention` `claude` `claude-ai`
 
-⭐ 8.7k • 🔱 1.8k • 3h ago
+⭐ 8.7k • 🔱 1.8k • 4h ago
 
 ---
 
@@ -689,7 +685,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 8.5k • 🔱 547 • 3h ago
+⭐ 8.5k • 🔱 547 • 4h ago
 
 ---
 
@@ -729,7 +725,7 @@ The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interac
 
 `Swift` `apple-intelligence` `apple-silicon` `cli` `foundationmodels` `homebrew`
 
-⭐ 4.9k • 🔱 187 • 5h ago
+⭐ 4.9k • 🔱 187 • 6h ago
 
 ---
 

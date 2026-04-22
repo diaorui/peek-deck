@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-22T20:06:21.144825+00:00'
+updated: '2026-04-22T21:26:55.386817+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 22, 2026 at 20:06 UTC  
+**Last Updated:** April 22, 2026 at 21:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Unitree robot just unlocked ballet mode](https://www.reddit.com/r/robotics/comments/1ssqud8/unitree_robot_just_unlocked_ballet_mode/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 We've been optimizing the hardware over the last few weeks. Today we tested the new policy on the updated hardware. It works way better! The sim2real transfer improved. We're open-sourcing the full mechanical design in a few days so you can source the parts yourself or pre-order the DIY kit at cost. Full specs & build guide: https://manual.asimov.inc/v1
 
-6h ago
+8h ago
 
 ---
 
@@ -50,7 +50,7 @@ We've been optimizing the hardware over the last few weeks. Today we tested the 
 
 Was working on my routine tinkering without a specific objective or idea. And this motion object came up. Does it resemble with anything? what would you call to such motion? where can it be helpful? Your inputs may help fine tune and turn it into something useful.
 
-11h ago
+12h ago
 
 ---
 
@@ -58,23 +58,7 @@ Was working on my routine tinkering without a specific objective or idea. And th
 
 I’ve finished assembling the abdomen, completing the upper body structure. More in depth video is coming soon on youtube diy.mrbuilder
 
-7h ago
-
----
-
-**[Did anyone manage to make a robot that do something helpful?](https://www.reddit.com/r/robotics/comments/1sss212/did_anyone_manage_to_make_a_robot_that_do/)**
-
-I see robot makers who make prototypes or a proof of concept but not reliable enough to be used to help with daily tasks or even one task. I understand it is still an evolving technology but let me know if you really managed to make a robot reliable enough to help make your life easier.
-
-2h ago
-
----
-
-**[HM-D20 vs. UM960 Quadrifilar Helix Module RTK Drone Test](https://www.reddit.com/r/robotics/comments/1ssof99/hmd20_vs_um960_quadrifilar_helix_module_rtk_drone/)**
-
-I buy both the HM-D20 and UM960 quadrifilar helix modules for testing, aiming to determine which one could help my drone achieve precise positioning. After testing, I found that both modules deliver comparable performance. Has anyone conducted more extensive tests? I'd appreciate it if you could share your findings with me.
-
-4h ago
+9h ago
 
 ---
 
@@ -82,13 +66,37 @@ I buy both the HM-D20 and UM960 quadrifilar helix modules for testing, aiming to
 
 Bren Pierce, CEO of Kinisi Robotics, described a common pattern in robotics: most systems can reach about 80% of the way to working reliably, but the remaining 20% is still unresolved and not clearly understood. That final stretch is where systems have to deal with variability, edge cases, and real-world conditions that are difficult to predict or model. It is also where there is still no clear agreement on how to move forward. He talks about being at the Conference on Robot Learning (CoRL), and how researchers working across robotics and AI could not align on a single approach. Reinforcement learning, imitation learning, and the possibility of entirely new architectures are all still being debated, with no consensus on what will ultimately solve the problem.
 
-2h ago
+3h ago
+
+---
+
+**[Real-Time Reactive Robotics on a Budget: 5Hz OpenVLA Control for $0.48/hr](https://www.reddit.com/r/robotics/comments/1ssy25b/realtime_reactive_robotics_on_a_budget_5hz/)**
+
+A major barrier for Embodied AI is the latency-precision trade-off. Running a 7B policy usually requires an A100 cluster to stay "reactive," or you end up with choppy 1Hz control that misses dynamic targets. I’ve released FastVLA, a library designed to bring high-parameter policies to closed-loop control on budget cloud hardware (NVIDIA L4). Key Performance Data: Control Frequency: 5.04 Hz (198ms latency) — a 7.16x speedup over the 1420ms baseline. Mechanical Precision: Reduced mean L2 action error from 28.5px to 12.4px by moving to continuous regression heads. Benchmark: Validated on the PushT benchmark, including a new Arabic-PushT variant to test linguistic robustness in action spaces. By optimizing the kernels and memory footprint (4.45GB Peak VRAM), we can now run reactive robots without the "Compute Tax." GitHub/Documentation: https://github.com/BouajilaHamza/fastvla
+
+29m ago
+
+---
+
+**[HM-D20 vs. UM960 Quadrifilar Helix Module RTK Drone Test](https://www.reddit.com/r/robotics/comments/1ssof99/hmd20_vs_um960_quadrifilar_helix_module_rtk_drone/)**
+
+I buy both the HM-D20 and UM960 quadrifilar helix modules for testing, aiming to determine which one could help my drone achieve precise positioning. After testing, I found that both modules deliver comparable performance. Has anyone conducted more extensive tests? I'd appreciate it if you could share your findings with me.
+
+6h ago
+
+---
+
+**[The Guardian: AI-powered robot beats elite table tennis players](https://www.reddit.com/r/robotics/comments/1ssyhq3/the_guardian_aipowered_robot_beats_elite_table/)**
+
+The feat has been hailed as a milestone for robotics, a field that has long seen table tennis – and the lightning-fast reactions, perception and skill it demands – as one of the toughest tests of how far the technology has advanced. In the matches, played under official competition rules, Ace displayed a mastery of spin, handled difficult shots, such as balls catching on the net, and pulled off one rapid backspin shot that a professional had thought impossible. A research paper on the robot was published in Nature on Wednesday, but scientists working on the project said Ace had improved since the report was submitted. “We played stronger and stronger players and we beat stronger and stronger players,” said Peter Dürr, the director of Sony AI in Zurich and project lead for Ace. AI researchers use games from chess and go, to poker and Breakout to teach programs on how to make decisions in complex situations. Building an intelligent robot takes the challenge to the next level by requiring the machine to enact decisions effectively. Ace sidesteps some tricky aspects of table tennis by having an eight-jointed arm on a movable base that does not have to stand on two legs. And instead of seeing the ball with two eyes, it draws on images from multiple cameras that view the entire court from different angles and track the position and spin of the ball. By zooming in on the ball’s logo, the camera system can estimate the ball’s spin and axis of rotation in the milliseconds it takes to reach Ace’s end of the table. How to deal with spin, and which shots to play, were honed during 3,000 hours of games played in a computer simulation. Other skills, such as serves, were drawn from those used by expert players.
+
+🔗 [the Guardian](https://www.theguardian.com/science/2026/apr/22/ai-powered-robot-beats-elite-table-tennis-players-milestone-robotics) • 12m ago
 
 ---
 
 **[Market Gaps On Mining Robotics](https://www.reddit.com/r/robotics/comments/1ssw8lt/market_gaps_on_mining_robotics/)**
 
-15m ago
+1h ago
 
 ---
 
@@ -100,37 +108,15 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2045783119702425841
 
 ---
 
-**[China shipped more humanoid robots than the entire US last year while being valued at a fraction](https://www.reddit.com/r/robotics/comments/1sropm6/china_shipped_more_humanoid_robots_than_the/)**
-
-CNBC dropped a piece today worth reading. Chinese startups took the top 6 spots in global humanoid shipments in 2025. Figure and Tesla were the only US companies in the top 10. Figure is sitting at a $39B valuation having shipped around 150 units. Unitree ships thousands at $13k a piece. The "China builds the hardware, US builds the brain" take keeps coming up and I don't think it holds anymore. Chinese companies are competing on the AI model side too and closing the gap. On top of that, their EV supply chains already produce the actuators and precision components humanoids need, so they're repurposing existing manufacturing while US companies are building that from scratch. That's where the price gap comes from, not some difference in ambition. The other argument I keep seeing is that the shipped robots only do simple tasks, as if that invalidates the whole thing. Every deployed unit generates real world data that no amount of simulation or staged demos can match. You have to start shipping somewhere. The robots improve while being used, not while sitting in a lab waiting to be perfect.
-
-1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
-**[Humanoid robots outrun humans at Beijing half-marathon](https://www.dw.com/en/humanoid-robots-outrun-humans-at-beijing-half-marathon/video-76857300)**
+**[Accenture, Vodafone Procure & Connect and SAP Pilot Humanoid Robotics in Warehouse Operations](https://newsroom.accenture.com/news/2026/accenture-vodafone-procure-connect-and-sap-pilot-humanoid-robotics-in-warehouse-operations)**
 
-A robot, aptly named Lightning, has raced past his human competition at a running event in China's capital. Robotics expert Ravinder Dahiya explains what it means.
+Accenture (NYSE: ACN), together with Vodafone Procure & Connect and SAP, is piloting the use of humanoid robotics in warehouse environments, demonstrating how physical AI can enhance operational efficiency, improve safety, and enable new approaches to workforce and business model design.
 
-DW.com • 2d ago
-
----
-
-**[A humanoid robot beat the human half-marathon record at a Beijing race. But what did it actually prove?](https://www.scientificamerican.com/article/a-humanoid-robot-beat-the-human-half-marathon-record-at-a-beijing-race-but-what-did-it-actually-prove/)**
-
-Scientific American • 8h ago
-
----
-
-**[Opinion | What the Chinese robot that ran a half-marathon says about America](https://www.washingtonpost.com/opinions/2026/04/21/china-leads-robotics-race/)**
-
-The robots are coming. Will they be built in America?
-
-The Washington Post • 1d ago
+Accenture • 12h ago
 
 ---
 
@@ -142,19 +128,19 @@ HII • 1d ago
 
 ---
 
+**[Tesla’s revenue rises again as it prepares for more AI and robotics](https://www.theverge.com/transportation/915217/tesla-q1-2026-earnings-profit-revenue)**
+
+Tesla’s Q1 2026 earnings are out.
+
+The Verge • 50m ago
+
+---
+
 **[AI-powered robot beats elite table tennis players](https://www.theguardian.com/science/2026/apr/22/ai-powered-robot-beats-elite-table-tennis-players-milestone-robotics)**
 
 In feat hailed as milestone in robotics, Sony AI’s Ace wins three out of five matches played under official rules
 
-The Guardian • 2h ago
-
----
-
-**[IDF escalates use of robots in Lebanon to target Hezbollah infrastructure](https://www.jpost.com/defense-and-tech/article-893843)**
-
-The IDF has ramped up its use of robots in warfare against Hezbollah in Bint Jbail, accelerating the destruction of weapons infrastructure as military operations intensify.
-
-The Jerusalem Post • 7h ago
+The Guardian • 3h ago
 
 ---
 
@@ -170,23 +156,37 @@ Forbes • 1d ago
 
 The catch: American robot makers still need Chinese-made components
 
-IEEE Spectrum • 7h ago
+IEEE Spectrum • 9h ago
 
 ---
 
-**[CNBC's The China Connection newsletter: China ships more humanoid robots than the U.S. as investors diverge on AI bets](https://www.cnbc.com/2026/04/21/china-humanoid-robots-us-investors.html)**
+**[Opinion | What the Chinese robot that ran a half-marathon says about America](https://www.washingtonpost.com/opinions/2026/04/21/china-leads-robotics-race/)**
 
-Chinese startups are churning out more humanoid robots than their U.S. rivals, despite far lower valuations.
+The robots are coming. Will they be built in America?
 
-CNBC • 1d ago
+The Washington Post • 1d ago
 
 ---
 
-**[Faraday Future Partners with U.S. Education Institution Triple I to Launch the EAI Robotics Summer Camp in the United States, Advancing “Robot & Vehicle + Education” Scenario Deployment](https://investors.ff.com/news-releases/news-release-details/faraday-future-partners-us-education-institution-triple-i-launch)**
+**[IDF escalates use of robots in Lebanon to target Hezbollah infrastructure](https://www.jpost.com/defense-and-tech/article-893843)**
 
-This marks FF's first strategic partnership with an education institution since entering the EAI Robotics business, marking a new milestone in building the leading scaled Embodied AI (EAI) education system in the U.S. On April 18, FF and Triple I jointly hosted the “AI Robotics Education and Summer
+The IDF has ramped up its use of robots in warfare against Hezbollah in Bint Jbail, accelerating the destruction of weapons infrastructure as military operations intensify.
 
-Faraday Future • 1d ago
+The Jerusalem Post • 8h ago
+
+---
+
+**[Watch Tesla’s Earnings Beat Expectations Amid Focus on Robotics, Driverless Cars](https://www.bloomberg.com/news/videos/2026-04-22/tesla-earnings-beat-expectations-amid-focus-on-robotics-video)**
+
+Bloomberg.com • 21h ago
+
+---
+
+**[Classover and ICreate plan hands-on AI robotics for classrooms](https://www.stocktitan.net/news/KIDZ/classover-enters-strategic-collaboration-with-i-create-education-zqycitxyghg8.html)**
+
+ICreate brings AI robotics systems and 1M-plus users. Why it matters: pilots could test hands-on learning in classrooms, camps and robotics labs.
+
+Stock Titan • 9h ago
 
 ---
 
@@ -210,7 +210,7 @@ For the first time, an AI-powered machine has bested elite-level athletes at a p
 
 📺 nature video
 
-👁️ 6K • 👍 161 • 💬 45 • ⏱️ 13:38 • 5h ago
+👁️ 6K • 👍 161 • 💬 45 • ⏱️ 13:38 • 6h ago
 
 ---
 
