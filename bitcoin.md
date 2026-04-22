@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-21T23:07:40.039485+00:00'
+updated: '2026-04-22T00:01:54.478489+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
-- cryptocurrency
+- social
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 21, 2026 at 23:07 UTC  
+**Last Updated:** April 22, 2026 at 00:01 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $75,488.14
+### $75,694.34
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
-**7d:** +0.9%  
-**30d:** +6.5%  
-**90d:** -15.7%  
-**1y:** -19.2%  
+**24h:** +0.6%  
+**7d:** +1.6%  
+**30d:** +8.1%  
+**90d:** -14.8%  
+**1y:** -18.4%  
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 https://youtu.be/tlRr1wStdow I kept seeing people argue about whether crypto or real estate is the better investment, but nobody was actually running the full numbers. So I did. Same starting point for both: - $30,000 to invest - Same year (2015) - Same city, same income Here's what I found after accounting for EVERYTHING: REAL ESTATE (Rental Property): → $30K down on a $150K property → Tenant paying $1,400/month rent → Sounds great... until you add: - Property taxes: $15,000 over 10 years - Insurance: $12,000 - Repairs/maintenance: $30,000 - Vacancy (1 month/year avg): $15,000 - 600 hours of your own time managing it After ALL real costs → roughly $175,000 to $195,000 in total equity after 10 years BITCOIN (Held without selling): → $30K invested in 2015 → Watched it drop 84% in 2018 → Watched it drop 77% in 2022 → Did NOT sell either time After 10 years → roughly $1.5M to $2M (after capital gains tax) So crypto wins, right? Not so fast. Here's the part nobody talks about: Studies show fewer than 8% of Bitcoin buyers actually held through both crashes without selling. The other 92% panic sold at the bottom and locked in massive losses — ending up WORSE than the real estate investor. Real estate had one massive hidden advantage: You literally CANNOT panic sell a house at 2AM. The illiquidity that feels like a weakness is actually what protects most people from destroying their own returns. So the real answer is: it depends entirely on which type of investor YOU are. Happy to answer any questions on the math in the comments.
 
-8h ago
+9h ago
 
 ---
 
 **[People who understand Bitcoin don't come here asking if now is a good time to buy some](https://www.reddit.com/r/Bitcoin/comments/1srupu6/people_who_understand_bitcoin_dont_come_here/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -95,7 +95,7 @@ https://youtu.be/tlRr1wStdow I kept seeing people argue about whether crypto or 
 
 A clip of "Professor Jiang" went viral claiming the CIA created Bitcoin. This guy doesn't know Satoshi's name. He doesn't know what a decentralized network is. He thinks Bitcoin runs on servers in a CIA basement. This is not the first time this guy has embarrassed himself talking about Bitcoin. I brokedown every argument and every contradiction point by point.
 
-🔗 [youtu.be](https://youtu.be/wjlH4AWyhCY) • 8h ago
+🔗 [youtu.be](https://youtu.be/wjlH4AWyhCY) • 9h ago
 
 ---
 
@@ -103,7 +103,15 @@ A clip of "Professor Jiang" went viral claiming the CIA created Bitcoin. This gu
 
 Someone was asking how to invest their money and I said 50% S&P500 and 50% BTC and I got perma banned for “Hyping/pushing speculative, volatile, illiquid, or meme investments, flippantly, tersely, or implying huge returns” Lmao Edit:come to think of it I’m pretty sure I didn’t even recommend buying Bitcoin I recommended buying BTC ETF’s which makes my ban even crazier
 
-17h ago
+18h ago
+
+---
+
+**[BTC holdings are a perfect power law 🤯](https://www.reddit.com/r/Bitcoin/comments/1ss1nm7/btc_holdings_are_a_perfect_power_law/)**
+
+https://preview.redd.it/t1oy5oqx3mwg1.png?width=1118&format=png&auto=webp&s=7b44fe0c9de27a1d139159ab024dcf04e9aeb1a0 In statistics, a power law is a functional relationship between two quantities, where a relative change in one quantity results in a relative change in the other quantity proportional to the change raised to a constant exponent: one quantity varies as a power of another. The change is independent of the initial size of those quantities. E.G. https://preview.redd.it/fkzwarw84mwg1.png?width=3000&format=png&auto=webp&s=c15f8a589ef91e540e87951d9c48d1d3b7503263
+
+2h ago
 
 ---
 
@@ -119,7 +127,7 @@ Everyone is talking about the 4-year cycle hitting $80k and then crashing back t
 
 A quote from Warren Buffett: A short quiz: If you plan to eat hamburgers throughout your life and are not a cattle producer, should you wish for higher or lower prices for beef? Likewise, if you are going to buy a car from time to time but are not an auto manufacturer, should you prefer higher or lower car prices? These questions, of course, answer themselves. But now for the final exam: If you expect to be a net saver during the next five years, should you hope for a higher or lower stock market during that period? Many investors get this one wrong. Even though they are going to be net buyers of stocks for many years to come, they are elated when stock prices rise and depressed when they fall. In effect, they rejoice because prices have risen for the ‘hamburgers’ they will soon be buying. This reaction makes no sense. Only those who will be sellers of equities in the near future should be happy at seeing stocks rise. Prospective purchasers should much prefer sinking prices. Assuming the majority of people on this sub are not near retirement, then you still plan to buy more BTC in the future than you currently have. You'll be able to buy more of it if the price is lower. So you should be cheering when it falls, and that is why the current "dip" is a blessing. This doesn't apply if you are planning to liquidate soon, of course. Then you should want the price to skyrocket. Source: https://www.roywalkerwealth.com/2018/01/warren-buffett-on-hamburgers.html
 
-23h ago
+1d ago
 
 ---
 
@@ -127,7 +135,7 @@ A quote from Warren Buffett: A short quiz: If you plan to eat hamburgers through
 
 Been learning more about Bitcoin and it’s growing on me. What’s the one thing you like most about it?
 
-6h ago
+7h ago
 
 ---
 
@@ -143,15 +151,7 @@ No fiat currency has survived 100 years with its purchasing power meaningfully i
 
 Who gives a flip tuesday! stop buying shit you dont want to impress people you dont like! just chill out and let it be there, slowly keep stacking and buying, spare to live, sitback relax, learn self custody, learn nodes, learn passphrase, there's so much fun shit to do in live instead of impressing morons!
 
-15h ago
-
----
-
-**[Bitcoin's Forced Adoption Is Already Underway (Saifedean Ammous)](https://www.reddit.com/r/Bitcoin/comments/1srjwl6/bitcoins_forced_adoption_is_already_underway/)**
-
-On episode 250 of my podcast ‘Bitcoin for Millennials’ I talked with Saifedean Ammous, author of The Bitcoin Standard. We discuss Bitcoin as forced adoption, the money supply question that breaks fiat narratives, inflation’s link to time preference and institutional propaganda, energy use and the politics of scarcity, and a hard-money future of declining interest rates with equity replacing credit. Hope you enjoy!
-
-🔗 [youtu.be](https://youtu.be/jODwF4N8Vjc) • 12h ago
+16h ago
 
 ---
 
@@ -171,23 +171,15 @@ CoinDesk • 2h ago
 
 BlackRock's IBIT absorbed $871 million last week even as Iran tensions dragged bitcoin toward $71,000. Analysts say the record flows show who is buying the dip.
 
-Forbes • 18h ago
+Forbes • 19h ago
 
 ---
 
-**[U.S. Army commander names Bitcoin among 'instruments of power'](https://au.finance.yahoo.com/news/u-army-commander-names-bitcoin-212212887.html)**
+**[Kevin O'Leary Says Bitcoin, Ethereum Give Him Almost All Of Crypto Exposure: 'I Cut The Garbage And Kept What Works'](https://finance.yahoo.com/markets/crypto/articles/kevin-oleary-says-bitcoin-ethereum-120117255.html)**
 
-A senior United States military commander has broken ranks with conventional Pentagon scepticism on cryptocurrency. In a Senate Armed Services Committee (SASC) hearing on April 21, Admiral Samuel Paparo, commander of the U.S. Indo-Pacific Command (INDOPACOM), endorsed Bitcoin's potential for ...
+Renowned investor and media personality Kevin O'Leary said Sunday that investors only need Bitcoin and Ethereum to capture the majority of the cryptocurrency market exposure, dismissing all other coins as “garbage.” O’Leary Stresses On ‘Disciplined’ Crypto Strategy O'Leary took to...
 
-Yahoo Finance Australia • 1h ago
-
----
-
-**[Inside the hunt for Satoshi: Filmmakers chase crypto’s biggest mystery](https://www.coindesk.com/coindesk-news/2026/04/21/inside-the-hunt-for-satoshi-filmmakers-chase-crypto-s-biggest-mystery)**
-
-A new documentary digs into Bitcoin’s origins, reframing the search for Satoshi Nakamoto as both a technical investigation and a deeply human story.
-
-CoinDesk • 1h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -204,6 +196,14 @@ Fox Business • 1d ago
 The enterprise software company and bitcoin treasury on Monday said that it bought more than $2.5 billion worth of the cryptocurrency recently.
 
 Investopedia • 1d ago
+
+---
+
+**[Anthony Scaramucci Puts Bitcoin Market Cap At $21 Trillion, So How Much Will 1 BTC Be?](https://www.tradingview.com/news/newsbtc:8d2ac28d6094b:0-anthony-scaramucci-puts-bitcoin-market-cap-at-21-trillion-so-how-much-will-1-btc-be/)**
+
+Anthony Scaramucci, the financier and SkyBridge Capital founder who briefly served as White House communications director, has made a bold case for Bitcoin’s long-term value.According to him, Bitcoin’s market cap is well on track to reach $21 trillion, and this is because of its fixed supply, its g…
+
+TradingView • 2h ago
 
 ---
 
@@ -225,7 +225,7 @@ The Block • 1d ago
 
 **[Strategy Interest Costs Jump On Biggest Bitcoin Buy Since 2024](https://www.investors.com/news/mstr-stock-strategy-interest-costs-jump-bitcoin-price-biggest-buy-since-2024/)**
 
-Investor's Business Daily • 9h ago
+Investor's Business Daily • 10h ago
 
 ---
 
@@ -233,7 +233,7 @@ Investor's Business Daily • 9h ago
 
 Fake crypto clearance demands are targeting ships stranded at Hormuz as the Iran conflict enters its third month.
 
-Decrypt • 10h ago
+Decrypt • 11h ago
 
 ---
 
@@ -245,7 +245,7 @@ Decrypt • 10h ago
 
 The global economic system is evolving: The left wants to redistribute. The right wants to deregulate. Both are missing the point.
 
-⬆️ 4 • 💬 2 • 1d ago • [The Alignment Economy](https://alignmenteconomy.org)
+⬆️ 4 • 💬 4 • 1d ago • [The Alignment Economy](https://alignmenteconomy.org)
 
 ---
 
@@ -327,7 +327,7 @@ The charts are in charge, folks. In today's video, we strip away the emotion and
 
 📺 Gareth Soloway
 
-👁️ 37K • 👍 2K • 💬 226 • ⏱️ 9:18 • 11h ago
+👁️ 37K • 👍 2K • 💬 226 • ⏱️ 9:18 • 12h ago
 
 ---
 
@@ -337,7 +337,7 @@ Everyone is Wrong about Bitcoin Big picture for bitcoin Most can't see what's co
 
 📺 Camel Finance
 
-👁️ 11K • 👍 817 • 💬 148 • ⏱️ 22:37 • 13h ago
+👁️ 11K • 👍 817 • 💬 148 • ⏱️ 22:37 • 14h ago
 
 ---
 
@@ -377,7 +377,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRus Extra
 
-👁️ 5K • 👍 286 • 💬 106 • ⏱️ 8:28 • 23h ago
+👁️ 5K • 👍 286 • 💬 106 • ⏱️ 8:28 • 1d ago
 
 ---
 
@@ -387,7 +387,7 @@ The next 48 hours will be the deciding force for crypto, bitcoin and ethereum as
 
 📺 Thomas Kralow
 
-👁️ 12K • 👍 2K • 💬 33 • ⏱️ 12:02 • 11h ago
+👁️ 12K • 👍 2K • 💬 33 • ⏱️ 12:02 • 12h ago
 
 ---
 
@@ -397,7 +397,7 @@ Crypto #Bitcoin #CryptoNews #Investing #yahoofinance #StockMarket #Macro #Federa
 
 📺 Yahoo Finance
 
-👁️ 3K • 👍 192 • 💬 6 • ⏱️ 14:52 • 6h ago
+👁️ 3K • 👍 192 • 💬 6 • ⏱️ 14:52 • 7h ago
 
 ---
 
@@ -407,7 +407,7 @@ Bitcoin #Crypto #Finance Bitcoin continues to outperform through chaos—war, ba
 
 📺 The Wolf Of All Streets
 
-👁️ 8K • 👍 410 • 💬 132 • ⏱️ 57:38 • 8h ago
+👁️ 8K • 👍 410 • 💬 132 • ⏱️ 57:38 • 9h ago
 
 ---
 
@@ -417,7 +417,7 @@ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 1% bonus Check out 
 
 📺 Aaron Bennett
 
-👁️ 4K • 👍 283 • 💬 27 • ⏱️ 9:32 • 18h ago
+👁️ 4K • 👍 283 • 💬 27 • ⏱️ 9:32 • 19h ago
 
 ---
 

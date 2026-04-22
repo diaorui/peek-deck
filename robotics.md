@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-21T23:07:40.048535+00:00'
+updated: '2026-04-22T00:01:54.487672+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 21, 2026 at 23:07 UTC  
+**Last Updated:** April 22, 2026 at 00:01 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2045783119702425841
 
-12h ago
+13h ago
 
 ---
 
@@ -52,7 +52,7 @@ CNBC dropped a piece today worth reading. Chinese startups took the top 6 spots 
 
 built a utility where you drop in a urdf (the robot's blueprint) and it generates a full leader for it. cad to print, motor placements, control code, all of it. kinematics stay identical just scaled down, so teleop works out of the box. motor placement is mostly solved with heuristics. routing links between them is still the hard part. https://x.com/pbshgthm/status/2046566239422853363 planning to make it lerobot compatible, so this can be used as a leader arm when printed out for any embodiment would love to know thoughts
 
-6h ago
+7h ago
 
 ---
 
@@ -60,19 +60,19 @@ built a utility where you drop in a urdf (the robot's blueprint) and it generate
 
 Hello everyone! I've successfully completed my Hobby RC four-legged robot model. The goal was to create a 3D-printable frame using carbon fiber and aluminum, capable of carrying a Raspberry Pi. It's now complete and running well. I'm happy to share this achievement with anyone passionate about Robotics Hobbies, and STEM. Thanks for watching
 
-10h ago
+11h ago
 
 ---
 
 **[A humanoid robot named Edward just chased a herd of wild boars out of Warsaw](https://www.reddit.com/r/robotics/comments/1srghex/a_humanoid_robot_named_edward_just_chased_a_herd/)**
 
-15h ago
+16h ago
 
 ---
 
 **[Low-Latency Wireless Teleoperation of Robot Hand using an IMU Glove!](https://www.reddit.com/r/robotics/comments/1sre4d7/lowlatency_wireless_teleoperation_of_robot_hand/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -80,7 +80,15 @@ Hello everyone! I've successfully completed my Hobby RC four-legged robot model.
 
 follow RobotShift for news in the transition from human workforce to that of a robot revolution. Analytical videos on the transitio.
 
-🔗 [youtu.be](https://youtu.be/LJxtV0LFqRw?si=pwbNXTSHTDTiBcsG) • 1h ago
+🔗 [youtu.be](https://youtu.be/LJxtV0LFqRw?si=pwbNXTSHTDTiBcsG) • 2h ago
+
+---
+
+**[Introduction To Binary Protocols In Robotics](https://www.reddit.com/r/robotics/comments/1ss3nmo/introduction_to_binary_protocols_in_robotics/)**
+
+Hi fellow robots, as I work on my projects I discover cool new ways to do things and I thought I'd share something I learned with you guys. Typically in Arduino projects where you need to read and write to connected devices such as sensors and motors, you'd use serial communication. If you wanted to use Python to talk to the Arduino (to control motors or receive feedback), you'd need a way to bridge the language gap between C++ and Python. Most beginner tutorials would teach you to just send strings of characters back and forth that have to be parsed. But that's a very rigid and cumbersome way of passing information. If the number of decimal places changes, your message could now be a different length. Each character is one byte, so your message could end up being massive if you have large numbers. This is where it makes sense to use a binary protocol, where you send a fixed "frame" of data represented as bytes and all devices abide by the protocol. The idea is to define the structure of your message and send data as binary representations. The message "type" can be represented by a single byte (eg. 0x01). If the data or payload is a floating point number, it can be represented by 4 bytes regardless of how big it is (up to a limit). Now you can always send and received fixed message structures and lengths, known as "packets". This is much more elegant because you always know where to expect each piece of information and how big they are, so you don't need to deal with parsing large strings of characters that vary in length. The difference is especially noticeable once you start sending multiple pieces of information in one packet (eg. speed, position, temperature, voltage, current). I didn't want to make this post too long so this is just a basic overview. If you're interested in more detail with examples to improve your inter-device communication, check out my article.
+
+1h ago
 
 ---
 
@@ -100,14 +108,6 @@ Demonstration of real-time wireless teleoperation using a MANUS Metaglove to con
 
 ---
 
-**[If you were building for the AI and Robotics Real-World Challenge, would you choose a humanoid or a quadruped + arm?](https://www.reddit.com/r/robotics/comments/1srt1rj/if_you_were_building_for_the_ai_and_robotics/)**
-
-I was looking through ATEC 2026 earlier, and the part that stuck with me most was the platform choice. What makes it interesting to me is that it seems less about a clean single demo and more about sustained outdoor autonomy — moving through rough terrain, handling objects, and staying reliable over a longer run. If you actually had to build for something like that, what would you pick? My first instinct is that a humanoid is attractive in theory, but I’m not sure it’s the best tradeoff once outdoor reliability becomes a real constraint. A quadruped with an arm, or maybe a wheeled-legged hybrid, feels more practical to me — but maybe I’m underestimating how much the extra dexterity matters. Curious what people here think is the best balance between: • mobility on ugly terrain • manipulation capability • control complexity • and just surviving real-world use
-
-6h ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -115,6 +115,22 @@ I was looking through ATEC 2026 earlier, and the part that stuck with me most wa
 **[Humanoid robots race past humans in Beijing half-marathon, showing rapid advances](https://www.reuters.com/sports/humanoid-robots-race-past-humans-beijing-half-marathon-showing-rapid-advances-2026-04-19/)**
 
 Reuters • 2d ago
+
+---
+
+**[Humanoid robots speed past humans in Beijing half-marathon](https://www.aljazeera.com/video/newsfeed/2026/4/19/humanoid-robots-speed-past-humans-in-beijing-half-marathon)**
+
+Humanoid robots raced alongside humans in a half-marathon in Beijing.
+
+Al Jazeera • 2d ago
+
+---
+
+**[Opinion | What the Chinese robot that ran a half-marathon says about America](https://www.washingtonpost.com/opinions/2026/04/21/china-leads-robotics-race/)**
+
+The robots are coming. Will they be built in America?
+
+The Washington Post • 7h ago
 
 ---
 
@@ -128,7 +144,35 @@ IEEE Spectrum • 1d ago
 
 **[Reliable Robotics pulls $160m, vision restoration gets $125m, and Jensen Hughes up for sale](https://www.axios.com/pro/all-deals/2026/04/21/pro-rata-premium-first-look-robotics-ray-gryphon)**
 
+Axios • 3h ago
+
+---
+
+**[Scoop: Humanoid robotics startup gets $1 billion valuation](https://www.axios.com/pro/all-deals/2026/04/21/android-andy-rubin-genki-robotics-1-billion)**
+
 Axios • 2h ago
+
+---
+
+**[Fire breaks out in robotics and engineering classroom at Davis Senior High School](https://www.kcra.com/article/fire-davis-senior-high-school-monday/71077968)**
+
+It was contained to the single classroom and did not spread. No injuries were reported.
+
+KCRA • 1d ago
+
+---
+
+**[SpaceX Alum’s Startup Nears $1 Billion Valuation in Pursuit of Uncrewed Flights](https://www.bloomberg.com/news/articles/2026-04-21/reliable-robotics-raises-more-cash-to-pursue-uncrewed-flights)**
+
+Bloomberg.com • 11h ago
+
+---
+
+**[CNBC's The China Connection newsletter: China ships more humanoid robots than the U.S. as investors diverge on AI bets](https://www.cnbc.com/2026/04/21/china-humanoid-robots-us-investors.html)**
+
+Chinese startups are churning out more humanoid robots than their U.S. rivals, despite far lower valuations.
+
+CNBC • 1d ago
 
 ---
 
@@ -137,52 +181,6 @@ Axios • 2h ago
 Chief of Naval Operations Adm. Daryl Caudle supplied modernization updates at the Navy League’s Sea Air Space convention.
 
 DefenseScoop • 1d ago
-
----
-
-**[SpaceX Alum’s Startup Nears $1 Billion Valuation in Pursuit of Uncrewed Flights](https://www.bloomberg.com/news/articles/2026-04-21/reliable-robotics-raises-more-cash-to-pursue-uncrewed-flights)**
-
-Bloomberg.com • 10h ago
-
----
-
-**[The New Unicorn Count Reached A 4-Year High In March, Led By Robotics, Frontier Labs And AI Infrastructure](https://news.crunchbase.com/venture/unicorn-count-4-year-high-robotics-ai-march-2026/)**
-
-A total of 37 companies joined The Crunchbase Unicorn Board in March, the highest monthly count in close to four years, Crunchbase data shows. The robotics sector led unicorn creation last month, with six new billion-dollar startups.
-
-Crunchbase News • 12h ago
-
----
-
-**[Elon Musk Says AI And Robotics Will Change Everything: 'Everyone Can Have A Penthouse If They Want'](https://finance.yahoo.com/sectors/technology/articles/elon-musk-says-ai-robotics-154608983.html)**
-
-Tesla (NASDAQ:TSLA) CEO Elon Musk is making a bold case for a future where artificial intelligence doesn't just improve the economy, but completely reshapes it to the point where even luxury living, like penthouses, could become widely accessible. In a...
-
-Yahoo Finance • 7h ago
-
----
-
-**[Tesla Q1 Preview: Losing The Robotics Race](https://seekingalpha.com/article/4892164-tesla-q1-preview-losing-the-robotics-race)**
-
-Tesla, Inc. stock rated Hold: robotics narrative may be overhyped, Optimus lags rivals, valuation looks stretched. Click for this TSLA earnings preview.
-
-Seeking Alpha • 1d ago
-
----
-
-**[Handle with care: Soft robot gripper picks ripe fruit without bruising](https://news.cornell.edu/stories/2026/04/handle-care-soft-robot-gripper-picks-ripe-fruit-without-bruising)**
-
-Cornell researchers used stretchable fiber-optic sensors to create a soft robot gripper that can predict the ripeness of strawberries by touch, then pick them without causing any damage.
-
-Cornell Chronicle • 1d ago
-
----
-
-**[Tackling the housing shortage with robotic microfactories](https://news.mit.edu/2026/tackling-housing-shortage-robotic-microfactories-0421)**
-
-Reframe Systems, co-founded by MIT alumnus Vikas Enti, creates microfactories that use robotics for modular home construction. Homes can be constructed closer to where they&#039;re needed, reducing carbon emissions and costs.
-
-MIT News • 1h ago
 
 ---
 
@@ -236,7 +234,7 @@ AGIBOT just rolled out a full new wave of humanoid robots and AI models built fo
 
 📺 AI Revolution
 
-👁️ 20K • 👍 634 • 💬 39 • ⏱️ 16:29 • 22h ago
+👁️ 20K • 👍 634 • 💬 39 • ⏱️ 16:29 • 23h ago
 
 ---
 
@@ -264,7 +262,7 @@ You think robots are still sci-fi? Think again. I'm at the this year's Canton Fa
 
 📺 Robot Julie 
 
-👁️ 18K • 👍 49 • ⏱️ 0:24 • 21h ago
+👁️ 18K • 👍 49 • ⏱️ 0:24 • 22h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-21T23:07:40.045355+00:00'
+updated: '2026-04-22T00:01:54.484430+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
-- cryptocurrency
+- social
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 21, 2026 at 23:07 UTC  
+**Last Updated:** April 22, 2026 at 00:01 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,292.06
+### $2,308.93
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.0%  
-**7d:** -2.0%  
-**30d:** +7.5%  
-**90d:** -21.6%  
-**1y:** +31.7%  
+**24h:** +0.6%  
+**7d:** -0.9%  
+**30d:** +8.0%  
+**90d:** -21.3%  
+**1y:** +29.6%  
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-18h ago
+19h ago
 
 ---
 
 **[Arbitrum freezing $71M in ETH tied to Kelp DAO is a reminder that “decentralized” doesn’t always mean unstoppable](https://www.reddit.com/r/ethereum/comments/1srv422/arbitrum_freezing_71m_in_eth_tied_to_kelp_dao_is/)**
 
-🔗 [websnack.org](https://websnack.org/news/arbitrum-freezes-71m-eth-kelp-dao-apr-2026) • 5h ago
+🔗 [websnack.org](https://websnack.org/news/arbitrum-freezes-71m-eth-kelp-dao-apr-2026) • 6h ago
 
 ---
 
@@ -150,7 +150,15 @@ Feels kinda bigger than a normal crypto meetup tbh Ethereum getting a real physi
 
 Renowned investor and media personality Kevin O'Leary said Sunday that investors only need Bitcoin and Ethereum to capture the majority of the cryptocurrency market exposure, dismissing all other coins as “garbage.” O’Leary Stresses On ‘Disciplined’ Crypto Strategy O'Leary took to...
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 12h ago
+
+---
+
+**[Coinbase Flags Proof-of-Stake Chains Like Ethereum, Solana as Potential Quantum Risks](https://decrypt.co/365079/coinbase-proof-of-stake-blockchains-ethereum-solana-quantum-risk)**
+
+Advisory council says validator signatures and wallet cryptography could be vulnerable if future quantum computers break current encryption.
+
+Decrypt • 2h ago
 
 ---
 
@@ -158,7 +166,7 @@ Yahoo Finance • 11h ago
 
 Ethereum offers more stable returns with clearer long-term catalysts.
 
-The Motley Fool • 6h ago
+The Motley Fool • 7h ago
 
 ---
 
@@ -170,17 +178,9 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Coinbase Now Lets UK Users Borrow Against Their Bitcoin and Ethereum](https://decrypt.co/364890/coinbase-now-lets-uk-users-borrow-against-their-bitcoin-and-ethereum)**
-
-After launching crypto-backed loans in the U.S. last year, Coinbase has expanded the Bitcoin, Ethereum offering to U.K. users.
-
-Decrypt • 1d ago
-
----
-
 **[Large cryptocurrencies mixed as Ethereum falls](https://www.marketwatch.com/data-news/large-cryptocurrencies-mixed-as-ethereum-falls-ad4f1e91-faec5d5fd43e)**
 
-MarketWatch • 9h ago
+MarketWatch • 10h ago
 
 ---
 
@@ -188,7 +188,7 @@ MarketWatch • 9h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 8h ago
+Fortune • 9h ago
 
 ---
 
@@ -196,7 +196,7 @@ Fortune • 8h ago
 
 Ethereum price started a recovery wave from the $2,250 zone. ETH is now consolidating and might fail to extend gains above the $2,360 resistance.Ethereum Price Faces ResistanceEthereum price tested the $2,250 support zone before the bulls appeared, like Bitcoin. ETH price formed a base and started…
 
-TradingView • 19h ago
+TradingView • 20h ago
 
 ---
 
@@ -204,7 +204,7 @@ TradingView • 19h ago
 
 Ethereum markets are shaken by rising energy costs from the US-Iran conflict. Ethereum priced between $2,200-$2,300 on April 13 at 100% YES.
 
-Crypto Briefing • 4h ago
+Crypto Briefing • 5h ago
 
 ---
 
@@ -234,7 +234,7 @@ See exactly what top investors are trading in real time: try Milk Road Pro for j
 
 📺 Milk Road
 
-👁️ 945 • 👍 61 • 💬 12 • ⏱️ 36:12 • 4h ago
+👁️ 945 • 👍 61 • 💬 12 • ⏱️ 36:12 • 5h ago
 
 ---
 
@@ -244,7 +244,7 @@ The next 48 hours will be the deciding force for crypto, bitcoin and ethereum as
 
 📺 Thomas Kralow
 
-👁️ 12K • 👍 2K • 💬 33 • ⏱️ 12:02 • 11h ago
+👁️ 12K • 👍 2K • 💬 33 • ⏱️ 12:02 • 12h ago
 
 ---
 
@@ -254,7 +254,7 @@ Follow me on X: @kross_roads 15% Off Fiscal.ai Plans! Unlock institutional-grade
 
 📺 Crossroads
 
-👁️ 3K • 👍 182 • 💬 44 • ⏱️ 13:21 • 8h ago
+👁️ 3K • 👍 182 • 💬 44 • ⏱️ 13:21 • 9h ago
 
 ---
 
@@ -264,7 +264,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 4K • 👍 282 • 💬 65 • ⏱️ 1:24:23 • 11h ago
+👁️ 4K • 👍 282 • 💬 65 • ⏱️ 1:24:23 • 12h ago
 
 ---
 
@@ -284,7 +284,7 @@ Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Zoomex - https://
 
 📺 Discover Crypto
 
-👁️ 204 • 👍 10 • ⏱️ 10:42 • 7m ago
+👁️ 204 • 👍 10 • ⏱️ 10:42 • 1h ago
 
 ---
 
@@ -294,7 +294,7 @@ Raoul Pal explores why Ethereum could become the most important infrastructure l
 
 📺 Raoul Pal The Journey Man
 
-👁️ 944 • 👍 32 • 💬 10 • ⏱️ 1:02 • 4h ago
+👁️ 944 • 👍 32 • 💬 10 • ⏱️ 1:02 • 5h ago
 
 ---
 
@@ -314,7 +314,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 201 • 👍 9 • 💬 2 • ⏱️ 4:32 • 14h ago
+👁️ 201 • 👍 9 • 💬 2 • ⏱️ 4:32 • 15h ago
 
 ---
 
@@ -324,7 +324,7 @@ Crypto #Bitcoin #Ethereum #BTC #ETH #CryptoNews #Altcoins #CryptoPrediction #Bul
 
 📺 St.JamesCrypto
 
-👁️ 369 • 👍 57 • 💬 28 • ⏱️ 17:19 • 2h ago
+👁️ 369 • 👍 57 • 💬 28 • ⏱️ 17:19 • 3h ago
 
 ---
 
