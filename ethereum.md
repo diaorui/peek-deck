@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-22T14:16:24.082516+00:00'
+updated: '2026-04-22T15:51:10.924750+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
-- social
 - videos
+- news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 22, 2026 at 14:16 UTC  
+**Last Updated:** April 22, 2026 at 15:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,415.31
+### $2,408.81
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +4.8%  
-**7d:** +3.1%  
-**30d:** +12.3%  
-**90d:** -18.1%  
-**1y:** +34.8%  
+**24h:** +4.5%  
+**7d:** +2.7%  
+**30d:** +11.8%  
+**90d:** -18.5%  
+**1y:** +34.2%  
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
+
+---
+
+**[Funds stuck without gas money](https://www.reddit.com/r/ethereum/comments/1ssovf4/funds_stuck_without_gas_money/)**
+
+Hi! I'm relatively new to crypto and I made a mistake in buying USDT without having Ethereum to actually send it. Is there a way to pay a high fee to have the network fee covered in advance? I would add money to my ethereum wallet if I could, but unfortunately I need to wait until I get paid and I could really use some of the funds in my USDT wallet at the moment. Happy to pay someone $10 in usdt + the network fee if they can help!
+
+20m ago
 
 ---
 
@@ -80,19 +88,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 This is 100% on-chain Web3 in practice. Over the past few months I've received invaluable feedback regarding ETour: 100% on-chain, skill-based, ETH-only tournament infrastructure. Inception Feedback Evolution I've taken your feedback to heart and built on top of it. Now it's finally ready for you to use! If you're curious then come compete, spectate, or ask me anything! If you're skeptical then come challenge my claims and prove me wrong! Browse the landing page https://etour.games Read the whitepapeer: https://etour.games/whitepaper Analyze the manual: https://etour.games/manual Study the docs https://etour.games/docs Join the discord https://discord.gg/9FfF2RNQV Looking forward to our discussions
 
-46m ago
+2h ago
 
 ---
 
 **[Arbitrum freezing $71M in ETH tied to Kelp DAO is a reminder that “decentralized” doesn’t always mean unstoppable](https://www.reddit.com/r/ethereum/comments/1srv422/arbitrum_freezing_71m_in_eth_tied_to_kelp_dao_is/)**
 
-🔗 [websnack.org](https://websnack.org/news/arbitrum-freezes-71m-eth-kelp-dao-apr-2026) • 20h ago
+🔗 [websnack.org](https://websnack.org/news/arbitrum-freezes-71m-eth-kelp-dao-apr-2026) • 22h ago
 
 ---
 
 **[Need some suggestions.](https://www.reddit.com/r/ethereum/comments/1sse02k/need_some_suggestions/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -108,7 +116,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 39.0 million ETH is now staked, exactly 32.02% of the total supply. It's over $90B worth of ETH at current prices, that’s a huge share of the network committed to securing it and one of the strongest signals of long-term participation we’ve seen so far. As we see, despite ongoing global uncertainty and volatile market conditions, staking activity continues to grow. Instead of pulling back, more ETH is being locked into the network. That suggests a certain level of confidence from participants who are thinking long-term rather than reacting to short-term noise. From a structural perspective, this also affects supply dynamics. As more ETH moves into staking, the liquid supply available on the market decreases. It doesn’t mean those coins are gone, but they are less likely to be actively traded. Over time, this can change how the market responds to demand. At the same time, staking plays a critical role beyond price, it strengthens network security and aligns incentives across participants. Of course, none of this guarantees immediate price movement. Markets are influenced by many factors. But it does highlight how Ethereum’s underlying fundamentals continue to evolve. Full post: https://x.com/everstake_pool/status/2046178353548308981
 
-1d ago
+2d ago
 
 ---
 
@@ -130,15 +138,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 On April 18, a hacker minted 116,500 rsETH tokens out of nothing. Not stolen from a wallet. Created from a forged cross-chain message, a phantom packet that told Kelp DAO’s bridge to release real tokens backed by zero collateral. The attacker deposited those phantom tokens as collateral on Aave and borrowed $236 million in real ETH against them. Within hours, $5.4 billion fled Aave. The protocol’s ETH pool hit 100% utilization. AAVE dropped 19%. Then Justin Sun withdrew $154 million from Aave. After securing his own exit, he posted publicly: “Kelpdao hacker, how much you want? Let’s just talk. You can’t spend $300 million anyway.” The man who extracted first offered to negotiate second. But that is not the deepest layer. The deepest layer is this: April 2026 just produced a single month in which every major system failure on earth was caused by the same mechanism. Not hacking. Not force. Verification Cost Inversion. Every system trusted a representation of value instead of verifying the value itself. And every system collapsed at the exact point where trust replaced verification. The rsETH was a representation of staked ETH. Nobody verified the cross-chain message that created it. A single DVN verifier, a 1-of-1 trust assumption, was the entire security model for a bridge holding $292 million. The representation said “backed.” The reality said “phantom.” Aave accepted the representation.
 
-🔗 [X (formerly Twitter)](https://x.com/i/status/2045872866944848108) • 2d ago
-
----
-
-**[Someone Warned Kelp DAO About This Exact Vulnerability 15 Months Ago. Nobody Listened. $292 Million Is Gone](https://www.reddit.com/r/ethereum/comments/1spoe1h/someone_warned_kelp_dao_about_this_exact/)**
-
-The Kelp DAO exploit that drained $292 million and froze Aave was preventable. A developer posted on the Aave governance forum in January 2025 that Kelp's single-validator bridge security was the weakest configuration LayerZero allows. Kelp never added the second validator. On Saturday, an attacker used that exact vulnerability.
-
-🔗 [DailyCoinPost](https://dailycoinpost.com/kelp-dao-292-million-hack-warning-ignored-layerzero/) • 3d ago
+🔗 [X (formerly Twitter)](https://x.com/i/status/2045872866944848108) • 3d ago
 
 ---
 
@@ -150,7 +150,7 @@ The Kelp DAO exploit that drained $292 million and froze Aave was preventable. A
 
 Advisory council says validator signatures and wallet cryptography could be vulnerable if future quantum computers break current encryption.
 
-Decrypt • 16h ago
+Decrypt • 17h ago
 
 ---
 
@@ -162,9 +162,31 @@ Ethereum just had its busiest quarter ever in Q1 2026, yet ETH is still over 50%
 
 ---
 
+**[Most big cryptocurrencies rise on Ethereum, Solana increases](https://www.marketwatch.com/data-news/most-big-cryptocurrencies-rise-on-ethereum-solana-increases-34464f2b-bd71d4720cd8)**
+
+MarketWatch • 1h ago
+
+---
+
+**[BitMine Stakes $142 Million Worth Of Ethereum](https://finance.yahoo.com/markets/crypto/articles/bitmine-stakes-142-million-worth-142800598.html)**
+
+BitMine Immersion Technologies (NYSE: $BMNR) says it has now staked nearly $142 million U.S. worth of Ethereum (CRY...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin, Ethereum, XRP, Dogecoin Consolidate As Markets Wait For Middle East News](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-consolidate-150107318.html)**
+
+Bitcoin trades around $76,000 as sentiment remained neutral amid hopes of a U.S.-Iran ceasefire extension. Bitcoin ETFs saw $238.4 million in net inflows on Monday, while Ethereum ETFs reported $67.8 million in net inflows. CryptocurrencyTickerPriceBitcoin(CRYPTO: BTC)$76,616Ethereum(CRYPTO: ETH)$2,329.21Solana(CRYPTO: SOL)$85.98XRP(CRYPTO: XRP)$1.44Dogecoin(CRYPTO: DOGE)$0.09564Shiba...
+
+Yahoo Finance • 50m ago
+
+---
+
 **[Bitcoin Price Tops $78,000 to Hit 11-Week High. XRP, Ethereum, Cryptos Surging.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-cryptos-f690b700)**
 
-Barron's • 3h ago
+Barron's • 5h ago
 
 ---
 
@@ -192,31 +214,11 @@ CoinDesk • 1d ago
 
 ---
 
-**[Most big cryptocurrencies rise on Ethereum, Solana increases](https://www.marketwatch.com/data-news/most-big-cryptocurrencies-rise-on-ethereum-solana-increases-34464f2b-bd71d4720cd8)**
-
-MarketWatch • 16m ago
-
----
-
-**[Ethereum $250,000 Prediction Smashes Bitcoin and Gold as ‘Dead Capital’](https://www.tipranks.com/news/ethereum-250000-prediction-smashes-bitcoin-and-gold-as-dead-capital)**
-
-TipRanks • 21m ago
-
----
-
-**[Current price of Ethereum for April 22, 2026](https://fortune.com/article/price-of-ethereum-04-22-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 1h ago
-
----
-
 **[Forget (XRP) Ripple: This Cryptocurrency Has A Real Moat](https://www.fool.com/investing/2026/04/21/forget-xrp-ripple-this-cryptocurrency-has-a-real-m/)**
 
 Ethereum offers more stable returns with clearer long-term catalysts.
 
-The Motley Fool • 21h ago
+The Motley Fool • 23h ago
 
 ---
 
@@ -230,7 +232,7 @@ See exactly what top investors are trading in real time: try Milk Road Pro for j
 
 📺 Milk Road
 
-👁️ 5K • 👍 160 • 💬 43 • ⏱️ 36:12 • 19h ago
+👁️ 5K • 👍 160 • 💬 43 • ⏱️ 36:12 • 21h ago
 
 ---
 
@@ -250,7 +252,7 @@ Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Zoomex - https://
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 168 • 💬 35 • ⏱️ 10:42 • 15h ago
+👁️ 3K • 👍 168 • 💬 35 • ⏱️ 10:42 • 16h ago
 
 ---
 
@@ -280,7 +282,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 111 • 👍 8 • ⏱️ 4:36 • 5h ago
+👁️ 111 • 👍 8 • ⏱️ 4:36 • 6h ago
 
 ---
 
@@ -290,7 +292,7 @@ BITCOIN & CRYPTO WARNING: DUMP & PUMP (Urgent)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 6K • 👍 270 • 💬 208 • ⏱️ 18:34 • 17h ago
+👁️ 6K • 👍 270 • 💬 208 • ⏱️ 18:34 • 18h ago
 
 ---
 
@@ -300,7 +302,7 @@ The "Ethereum is Dead" narrative is back, and this time, the numbers actually lo
 
 📺 Discover Crypto
 
-👁️ 7K • 👍 407 • 💬 20 • ⏱️ 58:47 • 1d ago
+👁️ 7K • 👍 407 • 💬 20 • ⏱️ 58:47 • 2d ago
 
 ---
 

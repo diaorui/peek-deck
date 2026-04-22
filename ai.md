@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-22T14:16:24.067754+00:00'
+updated: '2026-04-22T15:51:10.914755+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
-- social
 - videos
+- repositories
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 22, 2026 at 14:16 UTC  
+**Last Updated:** April 22, 2026 at 15:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I mean a)The majority of articles on the internet are written by AIs b) 4 of the top 10 Youtube channels c) 4 in 10 Facebook posts d) 1 in 5 videos shown to new Youtube users e) The #1 most-subscribed Twitch streamer is an AI f) 44% of songs on Deezer Also, most of the ads are now AI generated, like AI creating content for other AI
 
-9h ago
+11h ago
 
 ---
 
@@ -49,7 +49,7 @@ I mean a)The majority of articles on the internet are written by AIs b) 4 of the
 
 A new Gallup survey of 1,500+ Gen Z respondents found that more than half of Gen Z living in the US regularly use generative AI, but their feelings about the technology are getting worse. Among those aged 14 to 29, compared to last year, excitement dropped from 36% to 22%, hopefulness fell from 27% to 18%, and anger jumped from 22% to 31%. The main driver behind the shift appears to be job anxiety, nearly half of respondents said the risks of AI in the workplace outweigh the benefits. https://www.gallup.com/analytics/651674/gen-z-research.aspx
 
-11h ago
+13h ago
 
 ---
 
@@ -57,7 +57,7 @@ A new Gallup survey of 1,500+ Gen Z respondents found that more than half of Gen
 
 Google’s TPUs are now the hottest commodity in AI. A deep-dive analysis of the chip war reshaping global infrastructure — what it means for researchers, developers, and the future of AI compute.
 
-🔗 [Novara Press](https://novarapress.net/ai-chip-war-google-nvidia-2026/) • 6h ago
+🔗 [Novara Press](https://novarapress.net/ai-chip-war-google-nvidia-2026/) • 8h ago
 
 ---
 
@@ -69,11 +69,11 @@ The fact that Apple's Board of Directors chose someone who has built their caree
 
 ---
 
-**[FOSS NotebookLM with no data limits](https://www.reddit.com/r/artificial/comments/1ssb30q/foss_notebooklm_with_no_data_limits/)**
+**[What was the biggest thing to happen in the field of AI?](https://www.reddit.com/r/artificial/comments/1sso2rb/what_was_the_biggest_thing_to_happen_in_the_field/)**
 
-NotebookLM is one of the best and most useful AI platforms out there, but once you start using it regularly you also feel its limitations leaving something to be desired more. There are limits on the amount of sources you can add in a notebook. There are limits on the number of notebooks you can have. You cannot have sources that exceed 500,000 words and are more than 200MB. You are vendor locked in to Google services (LLMs, usage models, etc.) with no option to configure them. Limited external data sources and service integrations. NotebookLM Agent is specifically optimised for just studying and researching, but you can do so much more with the source data. Lack of multiplayer support. ...and more. SurfSense is specifically made to solve these problems. For those who dont know, SurfSense is open source, privacy focused alternative to NotebookLM for teams with no data limit's. It currently empowers you to: Control Your Data Flow - Keep your data private and secure. No Data Limits - Add an unlimited amount of sources and notebooks. No Vendor Lock-in - Configure any LLM, image, TTS, and STT models to use. 25+ External Data Sources - Add your sources from Google Drive, OneDrive, Dropbox, Notion, and many other external services. Real-Time Multiplayer Support - Work easily with your team members in a shared notebook. Desktop App - Get assistance in your OS. Check us out at https://github.com/MODSetter/SurfSense if this interests you or if you want to contribute to a open source software
+I personally think it’s either AlphaGo or ChatGPT. AlphaGo showed to the whole world that AIs can be better than its creators in an area that people believed needed ‘intuition’. Most people don’t know go, but it somewhat showed the potential of AI to the world. DeepBlue was also kinda similar to it, but for some reason most people don’t think DeepBlue as “An AI that beat human at chess”, so I’m not counting it. ChatGPT was… on a different level. It was looked as revolutionary that a program can fluently speak and help solve problems it doesn’t specialize in. It made most people use AI in their everyday lives, so definitely takes the cake imo. Edit: Ig the transformers was also very important, (literally why chatgpt was able to exist lol) but a layperson doesn’t know what that is nor why that matters, so…
 
-9h ago
+49m ago
 
 ---
 
@@ -81,23 +81,23 @@ NotebookLM is one of the best and most useful AI platforms out there, but once y
 
 Jeff Bezos’s five-month-old startup, Project Prometheus, is nearing a historic $10B funding round backed by Wall Street giants like JPMorgan and BlackRock. The Tech: They are building "Physical AI" that natively understands the laws of physics to revolutionize physical products like aerospace, automotive, and robotics. It is Bezos's first operational role since leaving Amazon in 2021 with co-CEO Vik Bajaj, a physicist and former Google X scientist who co-founded the Alphabet health startup Verily. They’ve aggressively assembled a 100+ person powerhouse team by poaching top-tier researchers from OpenAI, Meta, Google DeepMind, and xAI. They even acquired the agentic AI startup General Agents shortly after launch specifically to bring former DeepMind researcher Sherjil Ozair and his engineering team into the fold. I am all for money going into companies that accelerate discoveries in physical AI, materials, manufacturing. Another great effort is periodic labs, they raised $300 m. But, is this valuation justified, or are we really in a massive bubble? Are they expecting that they are going to solve all of the physical AI ?
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-04-21/jeff-bezos-nears-10-billion-funding-round-for-ai-lab-ft-says) • 19h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-04-21/jeff-bezos-nears-10-billion-funding-round-for-ai-lab-ft-says) • 21h ago
 
 ---
 
-**[Intel LLM-Scaler vllm-0.14.0-b8.2 released with official Arc Pro B70 support](https://www.reddit.com/r/artificial/comments/1ssmecn/intel_llmscaler_vllm0140b82_released_with/)**
+**[Claude Mythos AI unauthorised access claim probed by Anthropic](https://www.reddit.com/r/artificial/comments/1sspdby/claude_mythos_ai_unauthorised_access_claim_probed/)**
 
-As part of Intel's LLM-Scaler initiative for AI inferencing on Intel Arc hardware, out today is their vllm-0.14.0-b8.2 update that includes officially supporting the Arc Pro B70 graphics card.
+The head of the National Cyber Security Centre says frontier AI tools can be a force for good - if kept out of the wrong hands.
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Intel-LLM-Scaler-vllm-0.14-b8.2) • 15m ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/cy41zejp9pko) • 2m ago
 
 ---
 
-**[I’m building a "Pessimistic" AI Job Evaluator to detect domain mismatches and stealth-startup risk (v0.1.8)](https://www.reddit.com/r/artificial/comments/1ssldzx/im_building_a_pessimistic_ai_job_evaluator_to/)**
+**[FOSS NotebookLM with no data limits](https://www.reddit.com/r/artificial/comments/1ssb30q/foss_notebooklm_with_no_data_limits/)**
 
-Most "AI Job Matchers" have a major hallucination problem: they are way too optimistic. They see two matching keywords and give you a 95% score, ignoring the fact that a Web Dev probably shouldn't be applying for a Senior Embedded Engineer role. I’m building Job Bro to act more like a cynical hiring manager. I just pushed v0.1.8, focusing on Domain-Aware Scoring and Risk Detection. ### What’s new in the logic: The "Domain Mismatch" Cap: The evaluator now identifies the job's primary technical domain (Fintech infra, ML platform, Hardware, etc.) and compares it against demonstrated experience. If the domain doesn't exist in your resume, the fit score is hard-capped at ≤0.5, regardless of your seniority or titles. Stealth & Seed Risk Detection: It now automatically flags stealth_no_diligence (companies with no public footprint) and seed_stage_comp_risk (high equity/low cash alerts). Salary-Aware Risk: For senior/exec roles, it flags "Founding" titles with no disclosed comp as a medium risk for high-comp-floor candidates. The "Maybe" Verdict: If the skill match is low, the system is now hard-coded to never give a "Strong Apply" verdict. No more false positives. The Technical Goal: I’m aiming for sub-50ms feedback loops for the agentic interface because nobody wants to wait for a spinning wheel while job hunting. The goal is to move past "keyword matching" and into "contextual reasoning." I'd love to get this community's thoughts: What are the "hidden" signals you look for in a JD that most AI tools currently miss? I'm looking to add more risk categories in v0.1.9. Github: aeroxy/job-bro
+NotebookLM is one of the best and most useful AI platforms out there, but once you start using it regularly you also feel its limitations leaving something to be desired more. There are limits on the amount of sources you can add in a notebook. There are limits on the number of notebooks you can have. You cannot have sources that exceed 500,000 words and are more than 200MB. You are vendor locked in to Google services (LLMs, usage models, etc.) with no option to configure them. Limited external data sources and service integrations. NotebookLM Agent is specifically optimised for just studying and researching, but you can do so much more with the source data. Lack of multiplayer support. ...and more. SurfSense is specifically made to solve these problems. For those who dont know, SurfSense is open source, privacy focused alternative to NotebookLM for teams with no data limit's. It currently empowers you to: Control Your Data Flow - Keep your data private and secure. No Data Limits - Add an unlimited amount of sources and notebooks. No Vendor Lock-in - Configure any LLM, image, TTS, and STT models to use. 25+ External Data Sources - Add your sources from Google Drive, OneDrive, Dropbox, Notion, and many other external services. Real-Time Multiplayer Support - Work easily with your team members in a shared notebook. Desktop App - Get assistance in your OS. Check us out at https://github.com/MODSetter/SurfSense if this interests you or if you want to contribute to a open source software
 
-53m ago
+11h ago
 
 ---
 
@@ -105,15 +105,15 @@ Most "AI Job Matchers" have a major hallucination problem: they are way too opti
 
 Hi there, i am currently looking for a new job - and sometimes ask googles ai mode. Since those answers where all sugar coated and everything i typed was a great idea, plan - whatever i looked for the reason of that. By default the "Helpfulness" mode seems to be activated - so i asked for "honesness" mode instead. Now everything i typed is - according to the ai - kinda trash and i probably won't be able to do it anyway (e.g. i am over 40 and ai tells me i am to old and that it won't work anyway). Reality probably is somewhere in between. So my question is about those modes - are they simple instructions that the ai follows - like beeing supportive no matter what vs trashing everything no matter what - or is the behaviour somewhat based on the sources the ai finds regarding my questions or comments?
 
-5h ago
+7h ago
 
 ---
 
-**[What does it actually mean to "manage" AI agents at an enterprise level in 2026?](https://www.reddit.com/r/artificial/comments/1sseu97/what_does_it_actually_mean_to_manage_ai_agents_at/)**
+**[Intel LLM-Scaler vllm-0.14.0-b8.2 released with official Arc Pro B70 support](https://www.reddit.com/r/artificial/comments/1ssmecn/intel_llmscaler_vllm0140b82_released_with/)**
 
-There's a lot of coverage of how AI agents are being built. Almost none of it covers how they're being governed, maintained, and operated once they're deployed. I think the reason is that the tools and frameworks for that layer barely exist yet. But the job title is already appearing: AI Director, Director of AI, VP of AI, Head of Agentic Systems. These are real roles at mid-to-large organizations right now. I've been thinking about what this job actually entails in 2026, and it seems like 5 different functions are colliding into one role: Strategy: Which workflows should be agentic? What's the build-vs-buy decision on agent infrastructure? Governance: What are agents authorized to do? How do you maintain human oversight without creating bottlenecks? Config management: How do you ensure agent instructions are versioned, consistent, and auditable across dozens of deployments? Performance management: How do you measure whether an agent is doing its job well, especially when "doing its job" means handling edge cases a human would have caught? Team coordination: Agents are touching every team. Who owns the agents? IT? The business unit? A central AI team? Has anyone here navigated this at scale? The people building the agents seem well-represented in these communities. Curious to hear from those managing them. Newsletter for people at this layer in the comments.
+As part of Intel's LLM-Scaler initiative for AI inferencing on Intel Arc hardware, out today is their vllm-0.14.0-b8.2 update that includes officially supporting the Arc Pro B70 graphics card.
 
-6h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Intel-LLM-Scaler-vllm-0.14-b8.2) • 1h ago
 
 ---
 
@@ -121,79 +121,79 @@ There's a lot of coverage of how AI agents are being built. Almost none of it co
 
 ## Google News: "ai"
 
+**[Anthropic’s Mythos Model Is Being Accessed by Unauthorized Users](https://www.bloomberg.com/news/articles/2026-04-21/anthropic-s-mythos-model-is-being-accessed-by-unauthorized-users)**
+
+Bloomberg.com • 18h ago
+
+---
+
+**[Anthropic’s New Mythos A.I. Model Sets Off Global Alarms](https://www.nytimes.com/2026/04/22/technology/anthropics-mythos-ai.html)**
+
+The New York Times • 1h ago
+
+---
+
+**[What is Mythos AI and why could it be a threat to global cybersecurity?](https://www.theguardian.com/technology/2026/apr/22/what-is-anthropic-mythos-ai-threat-global-cybersecurity)**
+
+Anthropic’s decision to restrict access to its powerful new model increases fears about the advanced technology
+
+The Guardian • 48m ago
+
+---
+
 **[Cloud Next ‘26: Momentum and innovation at Google scale](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/cloud-next-2026-sundar-pichai/)**
 
 Google CEO Sundar Pichai discusses the top announcements at Cloud Next 2026.
 
-blog.google • 2h ago
+blog.google • 3h ago
 
 ---
 
-**[SpaceX Strikes Deal With Cursor for $60 Billion](https://www.nytimes.com/2026/04/21/business/spacex-cursor-deal.html)**
+**[Google Cloud Commits $750 Million to Accelerate Partners' Agentic AI Development](https://www.googlecloudpresscorner.com/2026-04-22-Google-Cloud-Commits-750-Million-to-Accelerate-Partners-Agentic-AI-Development)**
 
-The New York Times • 16h ago
+New fund and resources will support agentic AI development, adoption, and education throughout Google Cloud's global partner ecosystem LAS VEGAS, April 22, 2026 /PRNewswire/ -- Cloud Next '26 --...
 
----
-
-**[SpaceX obtains right to buy AI start-up Cursor for $60bn](https://www.ft.com/content/d23bd03a-92ac-4e81-8460-3b867a833860?syn-25a6b1a6=1)**
-
-Elon Musk’s rocket and AI conglomerate is seeking to catch up to rivals OpenAI and Anthropic
-
-Financial Times • 15h ago
+Google Cloud Press Corner • 3h ago
 
 ---
 
-**[SpaceX secured an option to buy AI coding startup Cursor for $60 billion](https://qz.com/spacex-option-buy-cursor-ai-60-billion-042226)**
+**[Merck investing $1 billion in Google Cloud AI partnership](https://finance.yahoo.com/sectors/healthcare/articles/merck-investing-1-billion-google-145058587.html)**
 
-The rocket company said it will either acquire Cursor later this year or pay $10 billion for their work together
+The multi-year deal will deploy AI agents across Merck's drug research, manufacturing, commercial, and corporate operations
 
-qz.com • 35m ago
-
----
-
-**[Duffy seeks billions more to add AI to air traffic control](https://www.yahoo.com/news/articles/duffy-seeks-billions-more-add-133546564.html)**
-
-The Transportation secretary says AI will help controllers manage flight schedules but won't replace humans in the system
-
-Yahoo • 40m ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[The AI boom won't last, a top VC warns, as he urges startups to cash out](https://www.businessinsider.com/ai-startup-founders-warning-elad-gilsell-while-boom-lasts-2026-4)**
+**[Best Buy's incoming CEO lays out his top 3 AI priorities](https://finance.yahoo.com/video/best-buys-incoming-ceo-lays-out-his-top-3-ai-priorities-152050032.html)**
 
-Top VC Elad Gil urges AI startups to sell within 12 to 18 months, warning today's boom may fade as competition intensifies and markets shift.
+Best Buy (BBY) insider Jason Bonfig was selected to replace longtime CEO Corie Barry as chief executive on Oct. 31. Yahoo Finance Senior Business Reporter Brooke DiPalma joins Opening Bid to discuss the news.
 
-Business Insider • 5h ago
-
----
-
-**[AI Pioneers Back Startup Building Models to Predict Events](https://www.bloomberg.com/news/articles/2026-04-22/ai-pioneers-back-startup-building-models-to-predict-events)**
-
-Bloomberg.com • 11m ago
+Yahoo Finance • 30m ago
 
 ---
 
-**[AI is spitting out more potential drugs than ever. This start-up wants to figure out which ones matter.](https://techcrunch.com/2026/04/22/ai-is-spitting-out-more-potential-drugs-than-ever-this-start-up-wants-to-figure-out-which-ones-matter/)**
+**[Data Center World 2026: AI Pushes Infrastructure to New Limits](https://www.datacenterknowledge.com/build-design/data-center-world-2026-ai-pushes-infrastructure-to-new-limits)**
 
-10x Science has raised a $4.8 million seed round to help pharmaceutical researchers understand complex molecules.
+At Data Center World 2026, leaders from Oracle Cloud Infrastructure, Nvidia, and Google detailed how AI is changing data center design.
 
-TechCrunch • 1h ago
-
----
-
-**[AI threatens millions as experts warn white-collar jobs are first to go](https://www.foxbusiness.com/video/6393625498112)**
-
-Indeed Vice President of AI Hannah Calhoon joins ‘Mornings with Maria’ to break down how artificial intelligence is reshaping the workforce as up to 300 million jobs face disruption worldwide.
-
-Fox Business • 53m ago
+Data Center Knowledge • 10m ago
 
 ---
 
-**[Michael and Susan Dell surpass 1 billion in donations backing AI driven hospital project](https://www.foxnews.com/tech/michael-susan-dell-surpass-1-billion-donations-backing-ai-driven-hospital-project)**
+**[Nvidia CEO Jensen Huang says you won't lose your job to AI—you'll lose it to your coworker who uses it](https://fortune.com/2026/04/22/jensen-huang-nvidia-ai-replace-workers-not-jobs/)**
 
-Billionaire Michael Dell and wife Susan Dell become the first donors to give over $1 billion to UT Austin for a massive AI-powered medical campus.
+While other tech leaders warn of mass layoffs, Nvidia's CEO says the real threat is the person sitting next to you.
 
-Fox News • 11h ago
+Fortune • 19m ago
+
+---
+
+**[AI hallucinations found in high-profile Wall Street law firm filing](https://www.theguardian.com/technology/2026/apr/22/ai-hallucinations-found-in-high-profile-wall-street-law-firm-filing)**
+
+Sullivan & Cromwell apologises to New York federal judge for string of errors in documents for Prince Group case
+
+The Guardian • 7h ago
 
 ---
 
@@ -203,7 +203,7 @@ Fox News • 11h ago
 
 **[Meta to start capturing employee mouse movements, keystrokes for AI training](https://news.ycombinator.com/item?id=47851948)**
 
-⬆️ 679 • 💬 452 • 20h ago • [reuters.com](https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/)
+⬆️ 717 • 💬 478 • 22h ago • [reuters.com](https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/)
 
 ---
 
@@ -217,7 +217,7 @@ Fox News • 11h ago
 
 People are sick of artificial intelligence, and are increasingly making it known through acts of resistance.
 
-⬆️ 380 • 💬 406 • 1d ago • [stephvee.ca](https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/)
+⬆️ 382 • 💬 408 • 1d ago • [stephvee.ca](https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/)
 
 ---
 
@@ -225,19 +225,19 @@ People are sick of artificial intelligence, and are increasingly making it known
 
 Deezer says consumption of AI-generated music on the platform is still very low, between 1-3% of the total streams, and that 85% of these streams are detected as fraudulent and are demonetized.
 
-⬆️ 359 • 💬 388 • 1d ago • [TechCrunch](https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/)
-
----
-
-**[A Roblox cheat and one AI tool brought down Vercel's platform](https://news.ycombinator.com/item?id=47844431)**
-
-⬆️ 281 • 💬 161 • 1d ago • [webmatrices.com](https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform)
+⬆️ 361 • 💬 388 • 2d ago • [TechCrunch](https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/)
 
 ---
 
 **[Tell HN: I'm sick of AI everything](https://news.ycombinator.com/item?id=47857461)**
 
-⬆️ 278 • 💬 162 • 12h ago
+⬆️ 288 • 💬 166 • 14h ago
+
+---
+
+**[A Roblox cheat and one AI tool brought down Vercel's platform](https://news.ycombinator.com/item?id=47844431)**
+
+⬆️ 282 • 💬 161 • 1d ago • [webmatrices.com](https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform)
 
 ---
 
@@ -245,7 +245,7 @@ Deezer says consumption of AI-generated music on the platform is still very low,
 
 High-performance AI gateway written in Go - unified OpenAI-compatible API for OpenAI, Anthropic, Gemini, Groq, xAI &amp; Ollama. LiteLLM alternative with observability, guardrails &amp; streaming. ...
 
-⬆️ 186 • 💬 70 • 1d ago • [GitHub](https://github.com/ENTERPILOT/GOModel/)
+⬆️ 189 • 💬 70 • 1d ago • [GitHub](https://github.com/ENTERPILOT/GOModel/)
 
 ---
 
@@ -253,7 +253,7 @@ High-performance AI gateway written in Go - unified OpenAI-compatible API for Op
 
 Nial – Knowledge work and artificial intelligence.
 
-⬆️ 151 • 💬 159 • 1d ago • [nial.se](https://nial.se/blog/less-human-ai-agents-please/)
+⬆️ 151 • 💬 162 • 1d ago • [nial.se](https://nial.se/blog/less-human-ai-agents-please/)
 
 ---
 
@@ -261,7 +261,7 @@ Nial – Knowledge work and artificial intelligence.
 
 Mediator.ai uses bargaining theory and modern AI to find agreements that two people in conflict would both accept, including ones they hadn't thought of.
 
-⬆️ 151 • 💬 74 • 1d ago • [Mediator.ai](https://mediator.ai/)
+⬆️ 151 • 💬 74 • 2d ago • [Mediator.ai](https://mediator.ai/)
 
 ---
 
@@ -269,7 +269,7 @@ Mediator.ai uses bargaining theory and modern AI to find agreements that two peo
 
 Meta deploys keystroke-tracking software on US employees' computers, sparking privacy concerns and internal backlash.
 
-⬆️ 96 • 💬 77 • 5h ago • [Business Insider](https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4)
+⬆️ 100 • 💬 81 • 6h ago • [Business Insider](https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4)
 
 ---
 
@@ -283,7 +283,7 @@ Sam Altman and Other AI Tech Billionaires Don't Want You to Know About This.. X 
 
 📺 Godrules
 
-👁️ 46K • 👍 3K • 💬 552 • ⏱️ 25:44 • 11h ago
+👁️ 46K • 👍 3K • 💬 552 • ⏱️ 25:44 • 13h ago
 
 ---
 
@@ -293,7 +293,7 @@ Today I reacted to my own AI videos! Make sure you watch the whole video to find
 
 📺 Foltyn
 
-👁️ 130K • 👍 8K • 💬 2K • ⏱️ 13:36 • 4h ago
+👁️ 130K • 👍 8K • 💬 2K • ⏱️ 13:36 • 6h ago
 
 ---
 
@@ -333,7 +333,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 16K • 👍 596 • 💬 91 • ⏱️ 8:16 • 23h ago
+👁️ 16K • 👍 596 • 💬 91 • ⏱️ 8:16 • 1d ago
 
 ---
 
@@ -353,7 +353,7 @@ Humanoid robot 'Lightning' broke a half-marathon world record in Beijing, finish
 
 📺 Fox News Clips
 
-👁️ 25K • 👍 482 • 💬 279 • ⏱️ 5:19 • 23h ago
+👁️ 25K • 👍 482 • 💬 279 • ⏱️ 5:19 • 1d ago
 
 ---
 
@@ -363,7 +363,7 @@ Join our WhatsApp Community: https://go.stayingahead.com/YT Want to Train Your T
 
 📺 Vaibhav Sisinty
 
-👁️ 62K • 👍 2K • 💬 83 • ⏱️ 22:32 • 1d ago
+👁️ 62K • 👍 2K • 💬 83 • ⏱️ 22:32 • 2d ago
 
 ---
 
@@ -389,7 +389,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with a vision encoder, 
 
 `image-text-to-text` `36.0B`
 
-⬇️ 582,961 • ❤️ 1,192 • 4h ago
+⬇️ 582,961 • ❤️ 1,192 • 6h ago
 
 ---
 
@@ -425,7 +425,7 @@ HY-World 2.0 is a multi-modal framework for generating and reconstructing 3D wor
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 538 • 5h ago
+⬇️ 0 • ❤️ 538 • 7h ago
 
 ---
 
@@ -643,7 +643,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 48.9k • 🔱 6.4k • 13h ago
+⭐ 48.9k • 🔱 6.4k • 15h ago
 
 ---
 
@@ -663,7 +663,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 38.3k • 🔱 7.8k • 23h ago
+⭐ 38.3k • 🔱 7.8k • 1d ago
 
 ---
 
@@ -673,7 +673,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 32.8k • 🔱 3.6k • 5h ago
+⭐ 32.8k • 🔱 3.6k • 7h ago
 
 ---
 
@@ -683,7 +683,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 8.5k • 🔱 547 • 10m ago
+⭐ 8.5k • 🔱 547 • 1h ago
 
 ---
 
@@ -713,7 +713,7 @@ AI Agent 源码深度研究报告
 
 `Python`
 
-⭐ 5.6k • 🔱 1.6k • 9d ago
+⭐ 5.6k • 🔱 1.6k • 10d ago
 
 ---
 
@@ -733,7 +733,7 @@ The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interac
 
 `Swift` `apple-intelligence` `apple-silicon` `cli` `foundationmodels` `homebrew`
 
-⭐ 4.8k • 🔱 187 • 4m ago
+⭐ 4.8k • 🔱 187 • 1h ago
 
 ---
 

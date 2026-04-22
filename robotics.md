@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-22T14:16:24.085751+00:00'
+updated: '2026-04-22T15:51:10.926971+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 22, 2026 at 14:16 UTC  
+**Last Updated:** April 22, 2026 at 15:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,19 +32,19 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Robotic motion just made out of no-objective tinkering](https://www.reddit.com/r/robotics/comments/1ssfiau/robotic_motion_just_made_out_of_noobjective/)**
-
-Was working on my routine tinkering without a specific objective or idea. And this motion object came up. Does it resemble with anything? what would you call to such motion? where can it be helpful? Your inputs may help fine tune and turn it into something useful.
-
-5h ago
-
----
-
 **[Asimov v1 is moving better - sim2real improved after the hardware optimization](https://www.reddit.com/r/robotics/comments/1sslggg/asimov_v1_is_moving_better_sim2real_improved/)**
 
 We've been optimizing the hardware over the last few weeks. Today we tested the new policy on the updated hardware. It works way better! The sim2real transfer improved. We're open-sourcing the full mechanical design in a few days so you can source the parts yourself or pre-order the DIY kit at cost. Full specs & build guide: https://manual.asimov.inc/v1
 
-51m ago
+2h ago
+
+---
+
+**[Robotic motion just made out of no-objective tinkering](https://www.reddit.com/r/robotics/comments/1ssfiau/robotic_motion_just_made_out_of_noobjective/)**
+
+Was working on my routine tinkering without a specific objective or idea. And this motion object came up. Does it resemble with anything? what would you call to such motion? where can it be helpful? Your inputs may help fine tune and turn it into something useful.
+
+7h ago
 
 ---
 
@@ -52,7 +52,15 @@ We've been optimizing the hardware over the last few weeks. Today we tested the 
 
 I’ve finished assembling the abdomen, completing the upper body structure. More in depth video is coming soon on youtube diy.mrbuilder
 
-2h ago
+3h ago
+
+---
+
+**[HM-D20 vs. UM960 Quadrifilar Helix Module RTK Drone Test](https://www.reddit.com/r/robotics/comments/1ssof99/hmd20_vs_um960_quadrifilar_helix_module_rtk_drone/)**
+
+I buy both the HM-D20 and UM960 quadrifilar helix modules for testing, aiming to determine which one could help my drone achieve precise positioning. After testing, I found that both modules deliver comparable performance. Has anyone conducted more extensive tests? I'd appreciate it if you could share your findings with me.
+
+36m ago
 
 ---
 
@@ -76,7 +84,15 @@ CNBC dropped a piece today worth reading. Chinese startups took the top 6 spots 
 
 built a utility where you drop in a urdf (the robot's blueprint) and it generates a full leader for it. cad to print, motor placements, control code, all of it. kinematics stay identical just scaled down, so teleop works out of the box. motor placement is mostly solved with heuristics. routing links between them is still the hard part. https://x.com/pbshgthm/status/2046566239422853363 planning to make it lerobot compatible, so this can be used as a leader arm when printed out for any embodiment would love to know thoughts
 
-21h ago
+23h ago
+
+---
+
+**[How do you handle license compliance across your full robotics stack?](https://www.reddit.com/r/robotics/comments/1sso1sg/how_do_you_handle_license_compliance_across_your/)**
+
+Do you keep a clean record of the licenses and provenance for the code, weights, datasets, and runtime pieces that end up in your stack? When it is time to deploy or ship, do you have a reliable way to tell whether everything is compliant, or is that still mostly manual? Do you review all the license?
+
+50m ago
 
 ---
 
@@ -84,7 +100,7 @@ built a utility where you drop in a urdf (the robot's blueprint) and it generate
 
 I’m currently knee-deep in a 24-axis robotics project with some brutal space constraints. We’re using Elmo Motion Control drives because, honestly, I haven't found anything else that packs this much power into such a small footprint. The EtherCAT synchronization has been rock solid so far, even as we scale up. I was just wondering how others are finding the integration process when the machine architecture is this tight. Does the "set it and forget it" reliability hold up for you in the field?
 
-10h ago
+12h ago
 
 ---
 
@@ -96,35 +112,23 @@ Hello everyone! I've successfully completed my Hobby RC four-legged robot model.
 
 ---
 
-**[A humanoid robot named Edward just chased a herd of wild boars out of Warsaw](https://www.reddit.com/r/robotics/comments/1srghex/a_humanoid_robot_named_edward_just_chased_a_herd/)**
-
-1d ago
-
----
-
-**[If you were building for the AI and Robotics Real-World Challenge, would you choose a humanoid or a quadruped + arm?](https://www.reddit.com/r/robotics/comments/1srt1rj/if_you_were_building_for_the_ai_and_robotics/)**
-
-I was looking through ATEC 2026 earlier, and the part that stuck with me most was the platform choice. What makes it interesting to me is that it seems less about a clean single demo and more about sustained outdoor autonomy — moving through rough terrain, handling objects, and staying reliable over a longer run. If you actually had to build for something like that, what would you pick? My first instinct is that a humanoid is attractive in theory, but I’m not sure it’s the best tradeoff once outdoor reliability becomes a real constraint. A quadruped with an arm, or maybe a wheeled-legged hybrid, feels more practical to me — but maybe I’m underestimating how much the extra dexterity matters. Curious what people here think is the best balance between: • mobility on ugly terrain • manipulation capability • control complexity • and just surviving real-world use
-
-21h ago
-
----
-
 ---
 
 ## Google News: "robotics"
-
-**[Humanoid robots race past humans in Beijing half-marathon, showing rapid advances](https://www.reuters.com/sports/humanoid-robots-race-past-humans-beijing-half-marathon-showing-rapid-advances-2026-04-19/)**
-
-Reuters • 2d ago
-
----
 
 **[Humanoid robots outrun humans at Beijing half-marathon](https://www.dw.com/en/humanoid-robots-outrun-humans-at-beijing-half-marathon/video-76857300)**
 
 A robot, aptly named Lightning, has raced past his human competition at a running event in China's capital. Robotics expert Ravinder Dahiya explains what it means.
 
-dw.com • 1d ago
+dw.com • 2d ago
+
+---
+
+**[Robots beat human records at Beijing half-marathon](https://techcrunch.com/2026/04/19/robots-beat-human-records-at-beijing-half-marathon/)**
+
+The winning time is a massive improvement over last year’s race, when the fastest robot finished in two hours and 40 minutes.
+
+TechCrunch • 2d ago
 
 ---
 
@@ -132,7 +136,7 @@ dw.com • 1d ago
 
 The robots are coming. Will they be built in America?
 
-The Washington Post • 21h ago
+The Washington Post • 23h ago
 
 ---
 
@@ -141,6 +145,22 @@ The Washington Post • 21h ago
 HII is America's largest military shipbuilding company, delivering advanced warships, submarines, and mission technology solutions in service of the nation.
 
 HII • 1d ago
+
+---
+
+**[IDF escalates use of robots in Lebanon to target Hezbollah infrastructure](https://www.jpost.com/defense-and-tech/article-893843)**
+
+The IDF has ramped up its use of robots in warfare against Hezbollah in Bint Jbail, accelerating the destruction of weapons infrastructure as military operations intensify.
+
+The Jerusalem Post • 2h ago
+
+---
+
+**[Findlay Schools names new principals, Millstream director](https://thecourier.com/news/899207/findlay-schools-names-new-principals-millstream-director/)**
+
+Also hears robotics presentation
+
+Findlay News | The Courier • 3h ago
 
 ---
 
@@ -160,33 +180,19 @@ CNBC • 1d ago
 
 ---
 
-**[Navy considers new Warfighting Development Center for robotic and autonomous systems](https://defensescoop.com/2026/04/20/navy-adm-caudle-warfighting-development-center-robotic-autonomous-systems/)**
+**[Cedarburg High School's Robotics team wins FIRST Wisconsin District Champions](https://www.tmj4.com/news/local-news/in-your-community/ozaukee-county/cedarburg-high-schools-robotics-team-wins-first-wisconsin-district-champions)**
 
-Chief of Naval Operations Adm. Daryl Caudle supplied modernization updates at the Navy League’s Sea Air Space convention.
+Cedarburg High School's Robotics team is the 2026 FIRST Wisconsin District Champions and will be moving on to represent Wisconsin at the World Championship in Houston, Texas, on April 29th.
 
-DefenseScoop • 1d ago
-
----
-
-**[Classover and ICreate plan hands-on AI robotics for classrooms](https://www.stocktitan.net/news/KIDZ/classover-enters-strategic-collaboration-with-i-create-education-zqycitxyghg8.html)**
-
-ICreate brings AI robotics systems and 1M-plus users. Why it matters: pilots could test hands-on learning in classrooms, camps and robotics labs.
-
-Stock Titan • 2h ago
+TMJ4 News • 1d ago
 
 ---
 
-**[SpaceX Alum’s Startup Nears $1 Billion Valuation in Pursuit of Uncrewed Flights](https://www.bloomberg.com/news/articles/2026-04-21/reliable-robotics-raises-more-cash-to-pursue-uncrewed-flights)**
+**[Faraday Future Partners with U.S. Education Institution Triple I to Launch the EAI Robotics Summer Camp in the United States, Advancing “Robot & Vehicle + Education” Scenario Deployment](https://investors.ff.com/news-releases/news-release-details/faraday-future-partners-us-education-institution-triple-i-launch)**
 
-Bloomberg.com • 1d ago
+This marks FF's first strategic partnership with an education institution since entering the EAI Robotics business, marking a new milestone in building the leading scaled Embodied AI (EAI) education system in the U.S. On April 18, FF and Triple I jointly hosted the “AI Robotics Education and Summer
 
----
-
-**[Elon Musk Says AI And Robotics Will Change Everything: 'Everyone Can Have A Penthouse If They Want'](https://finance.yahoo.com/sectors/technology/articles/elon-musk-says-ai-robotics-154608983.html)**
-
-Tesla (NASDAQ:TSLA) CEO Elon Musk is making a bold case for a future where artificial intelligence doesn't just improve the economy, but completely reshapes it to the point where even luxury living, like penthouses, could become widely accessible. In a...
-
-Yahoo Finance • 22h ago
+Faraday Future • 1d ago
 
 ---
 
@@ -240,7 +246,7 @@ In Beijing, a humanoid robot just completed a 21-kilometer half-marathon in an a
 
 📺 Capital Markets AI
 
-👁️ 28K • 👍 545 • 💬 128 • ⏱️ 8:58 • 2d ago
+👁️ 28K • 👍 545 • 💬 128 • ⏱️ 8:58 • 3d ago
 
 ---
 
@@ -258,7 +264,7 @@ This is the shocking moment a marathon-running robot smashed into pieces after t
 
 📺 Robot Julie 
 
-👁️ 5K • 👍 37 • 💬 2 • ⏱️ 0:24 • 13h ago
+👁️ 5K • 👍 37 • 💬 2 • ⏱️ 0:24 • 15h ago
 
 ---
 
