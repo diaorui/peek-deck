@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-22T03:47:32.325985+00:00'
+updated: '2026-04-22T06:00:40.391657+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
-- news
 - cryptocurrency
+- news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 22, 2026 at 03:47 UTC  
+**Last Updated:** April 22, 2026 at 06:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,592.84
+### $78,228.77
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.3%  
-**7d:** +3.3%  
-**30d:** +9.9%  
-**90d:** -13.4%  
-**1y:** -17.0%  
+**24h:** +2.5%  
+**7d:** +3.8%  
+**30d:** +10.5%  
+**90d:** -13.0%  
+**1y:** -16.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1551.95B
+**Market Cap:** $1561.97B
 Rank #1
 
-**Circulating Supply:** 20,019,121 BTC
+**Circulating Supply:** 20,019,193 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--38.5%
+-38.1%
 
 **All-Time Low:** $67.81
-+114309.4%
++114962.7%
 
 ---
 
@@ -77,17 +77,11 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[People who understand Bitcoin don't come here asking if now is a good time to buy some](https://www.reddit.com/r/Bitcoin/comments/1srupu6/people_who_understand_bitcoin_dont_come_here/)**
+**[Just sold my truck to buy more bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1ssacrh/just_sold_my_truck_to_buy_more_bitcoin/)**
 
-10h ago
+Bitcoin really does have a way of teaching low time preference. I originally started saving in bitcoin 2 years ago because I thought I could get a quick 2-3x to help me buy a nice truck. As I started learning more about bitcoin, my conviction grew and I started stacking more aggressively. Not wanting to sell my stack, I took out a loan to buy the truck. After owning it for about a year, I realized the payment was too much drag. For my age and phase of life, it just wasn't worth it. I'm fortunate enough I don't need a vehicle for my daily life, so I figured I should take advantage of that fact. I will be living car free for a while so I can stack even harder. My family thinks I'm absolutely nuts. I agree.
 
----
-
-**[I ran the actual 10-year math on Bitcoin vs Rental Property (same $30K starting point) — the results were not what I expected](https://www.reddit.com/r/Bitcoin/comments/1srpsr9/i_ran_the_actual_10year_math_on_bitcoin_vs_rental/)**
-
-https://youtu.be/tlRr1wStdow I kept seeing people argue about whether crypto or real estate is the better investment, but nobody was actually running the full numbers. So I did. Same starting point for both: - $30,000 to invest - Same year (2015) - Same city, same income Here's what I found after accounting for EVERYTHING: REAL ESTATE (Rental Property): → $30K down on a $150K property → Tenant paying $1,400/month rent → Sounds great... until you add: - Property taxes: $15,000 over 10 years - Insurance: $12,000 - Repairs/maintenance: $30,000 - Vacancy (1 month/year avg): $15,000 - 600 hours of your own time managing it After ALL real costs → roughly $175,000 to $195,000 in total equity after 10 years BITCOIN (Held without selling): → $30K invested in 2015 → Watched it drop 84% in 2018 → Watched it drop 77% in 2022 → Did NOT sell either time After 10 years → roughly $1.5M to $2M (after capital gains tax) So crypto wins, right? Not so fast. Here's the part nobody talks about: Studies show fewer than 8% of Bitcoin buyers actually held through both crashes without selling. The other 92% panic sold at the bottom and locked in massive losses — ending up WORSE than the real estate investor. Real estate had one massive hidden advantage: You literally CANNOT panic sell a house at 2AM. The illiquidity that feels like a weakness is actually what protects most people from destroying their own returns. So the real answer is: it depends entirely on which type of investor YOU are. Happy to answer any questions on the math in the comments.
-
-13h ago
+2h ago
 
 ---
 
@@ -95,7 +89,27 @@ https://youtu.be/tlRr1wStdow I kept seeing people argue about whether crypto or 
 
 Bitcoin (BTC) climbs past $77,000 as a US admiral calls it a national security asset, Strategy makes a $2.5B purchase, and the Fear & Greed
 
-🔗 [FX Leaders](https://www.fxleaders.com/news/2026/04/22/bitcoin-eyes-78k-as-us-military-calls-proof-of-work-a-power-projection-tool/) • 12m ago
+🔗 [FX Leaders](https://www.fxleaders.com/news/2026/04/22/bitcoin-eyes-78k-as-us-military-calls-proof-of-work-a-power-projection-tool/) • 2h ago
+
+---
+
+**[Damian Lillard’s courtside fit in the NBA playoffs](https://www.reddit.com/r/Bitcoin/comments/1ss8u5p/damian_lillards_courtside_fit_in_the_nba_playoffs/)**
+
+3h ago
+
+---
+
+**[People who understand Bitcoin don't come here asking if now is a good time to buy some](https://www.reddit.com/r/Bitcoin/comments/1srupu6/people_who_understand_bitcoin_dont_come_here/)**
+
+12h ago
+
+---
+
+**[I ran the actual 10-year math on Bitcoin vs Rental Property (same $30K starting point) — the results were not what I expected](https://www.reddit.com/r/Bitcoin/comments/1srpsr9/i_ran_the_actual_10year_math_on_bitcoin_vs_rental/)**
+
+https://youtu.be/tlRr1wStdow I kept seeing people argue about whether crypto or real estate is the better investment, but nobody was actually running the full numbers. So I did. Same starting point for both: - $30,000 to invest - Same year (2015) - Same city, same income Here's what I found after accounting for EVERYTHING: REAL ESTATE (Rental Property): → $30K down on a $150K property → Tenant paying $1,400/month rent → Sounds great... until you add: - Property taxes: $15,000 over 10 years - Insurance: $12,000 - Repairs/maintenance: $30,000 - Vacancy (1 month/year avg): $15,000 - 600 hours of your own time managing it After ALL real costs → roughly $175,000 to $195,000 in total equity after 10 years BITCOIN (Held without selling): → $30K invested in 2015 → Watched it drop 84% in 2018 → Watched it drop 77% in 2022 → Did NOT sell either time After 10 years → roughly $1.5M to $2M (after capital gains tax) So crypto wins, right? Not so fast. Here's the part nobody talks about: Studies show fewer than 8% of Bitcoin buyers actually held through both crashes without selling. The other 92% panic sold at the bottom and locked in massive losses — ending up WORSE than the real estate investor. Real estate had one massive hidden advantage: You literally CANNOT panic sell a house at 2AM. The illiquidity that feels like a weakness is actually what protects most people from destroying their own returns. So the real answer is: it depends entirely on which type of investor YOU are. Happy to answer any questions on the math in the comments.
+
+15h ago
 
 ---
 
@@ -103,15 +117,7 @@ Bitcoin (BTC) climbs past $77,000 as a US admiral calls it a national security a
 
 https://preview.redd.it/t1oy5oqx3mwg1.png?width=1118&format=png&auto=webp&s=7b44fe0c9de27a1d139159ab024dcf04e9aeb1a0 In statistics, a power law is a functional relationship between two quantities, where a relative change in one quantity results in a relative change in the other quantity proportional to the change raised to a constant exponent: one quantity varies as a power of another. The change is independent of the initial size of those quantities. E.G. https://preview.redd.it/fkzwarw84mwg1.png?width=3000&format=png&auto=webp&s=c15f8a589ef91e540e87951d9c48d1d3b7503263
 
-6h ago
-
----
-
-**[Fake professor embarrasses himself with bitcoin ‘criticism’](https://www.reddit.com/r/Bitcoin/comments/1srq0oe/fake_professor_embarrasses_himself_with_bitcoin/)**
-
-A clip of "Professor Jiang" went viral claiming the CIA created Bitcoin. This guy doesn't know Satoshi's name. He doesn't know what a decentralized network is. He thinks Bitcoin runs on servers in a CIA basement. This is not the first time this guy has embarrassed himself talking about Bitcoin. I brokedown every argument and every contradiction point by point.
-
-🔗 [youtu.be](https://youtu.be/wjlH4AWyhCY) • 12h ago
+8h ago
 
 ---
 
@@ -119,15 +125,15 @@ A clip of "Professor Jiang" went viral claiming the CIA created Bitcoin. This gu
 
 Everyone is talking about the 4-year cycle hitting $80k and then crashing back to $50k. Is this a 'bull trap' reality or just outdated TA? What’s your take?
 
-7h ago
+9h ago
 
 ---
 
-**[Just got PERMA banned from r/personal Finance for suggesting BTC](https://www.reddit.com/r/Bitcoin/comments/1sre4bl/just_got_perma_banned_from_rpersonal_finance_for/)**
+**[Fake professor embarrasses himself with bitcoin ‘criticism’](https://www.reddit.com/r/Bitcoin/comments/1srq0oe/fake_professor_embarrasses_himself_with_bitcoin/)**
 
-Someone was asking how to invest their money and I said 50% S&P500 and 50% BTC and I got perma banned for “Hyping/pushing speculative, volatile, illiquid, or meme investments, flippantly, tersely, or implying huge returns” Lmao Edit:come to think of it I’m pretty sure I didn’t even recommend buying Bitcoin I recommended buying BTC ETF’s which makes my ban even crazier
+A clip of "Professor Jiang" went viral claiming the CIA created Bitcoin. This guy doesn't know Satoshi's name. He doesn't know what a decentralized network is. He thinks Bitcoin runs on servers in a CIA basement. This is not the first time this guy has embarrassed himself talking about Bitcoin. I brokedown every argument and every contradiction point by point.
 
-22h ago
+🔗 [youtu.be](https://youtu.be/wjlH4AWyhCY) • 15h ago
 
 ---
 
@@ -135,23 +141,15 @@ Someone was asking how to invest their money and I said 50% S&P500 and 50% BTC a
 
 According to a report by blockchain media outlet The Crypto Basic on the 21st local time, market analyst Michaël van de Poppe stated that the pullback over the weekend was largely driven by risk aversion and does not indicate a weakening of Bitcoin's upward trend; further upside potential remains Market data shows that Bitcoin ell from $78,360 to $73,600 over the weekend, a drop of approximately 6%. However, support around $73,000 was subsequently confirmed, with the price rebounding to around $75,000 before continuing its upward trend. Michaël van de Poppe had previously listed the $73,000 area on his charts as a "crucial zone that must be held," believing that this support had been confirmed by the market.
 
+4h ago
+
+---
+
+**[Cold Wallet Upgrade Recommendation?](https://www.reddit.com/r/Bitcoin/comments/1ssas37/cold_wallet_upgrade_recommendation/)**
+
+Been using a ledger Nano X for a year now with a small position in BTC. As I transition a large percent of my portfolio into BTC, should I continue to use the Ledger or upgrade? Did some research into the company and came across the seed recovery. All the skepticism makes sense. I’ve been looking into getting a ColdCard MK5. The cybersecurity aspect being totally disconnected compared to the ledger seems very secure. Any recommendations?
+
 1h ago
-
----
-
-**[the drop](https://www.reddit.com/r/Bitcoin/comments/1ss527p/the_drop/)**
-
-Oh the tale of the big, last drop that never came. Every single time it drops big, people are left yelling at the sky "but we go lower!" as the price rockets. Kind reminder, we are in 2026, this won't drop like when the degens controlled it. Adapt!
-
-3h ago
-
----
-
-**[What do you like most about Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1srsmu7/what_do_you_like_most_about_bitcoin/)**
-
-Been learning more about Bitcoin and it’s growing on me. What’s the one thing you like most about it?
-
-11h ago
 
 ---
 
@@ -159,11 +157,11 @@ Been learning more about Bitcoin and it’s growing on me. What’s the one thin
 
 ## Google News: "bitcoin"
 
-**[Bitcoin slides toward $75,000 amid Warsh hearing, stalling U.S.-Iran talks](https://www.coindesk.com/markets/2026/04/21/bitcoin-slides-toward-usd75-000-as-warsh-says-trump-didn-t-demand-he-cut-rates)**
+**[Bitcoin price news: BTC slides toward $75,000 amid Warsh hearing, Iran talks uncertainty](https://www.coindesk.com/markets/2026/04/21/bitcoin-slides-toward-usd75-000-as-warsh-says-trump-didn-t-demand-he-cut-rates)**
 
 The S&P 500 and Nasdaq gave back their early morning gains alongside BTC as markets digested the Fed Chair nominee's Senate confirmation hearing.
 
-CoinDesk • 6h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -171,39 +169,35 @@ CoinDesk • 6h ago
 
 BlackRock's IBIT absorbed $871 million last week even as Iran tensions dragged bitcoin toward $71,000. Analysts say the record flows show who is buying the dip.
 
-Forbes • 22h ago
+Forbes • 1d ago
 
 ---
 
-**[Bitcoin Price Rebound Accelerates, Traders Eye Strong Upside Continuation](https://www.tradingview.com/news/newsbtc:c5ddda6b5094b:0-bitcoin-price-rebound-accelerates-traders-eye-strong-upside-continuation/)**
+**[Bitcoin Price (BTC) Rises on Optimism Over Trump’s Extended Iran Ceasefire](https://www.bloomberg.com/news/articles/2026-04-22/bitcoin-rises-on-optimism-over-trump-s-extended-iran-ceasefire)**
 
-Bitcoin price started a recovery wave above the $75,000 zone. BTC is consolidating and might aim for more gains if it clears the $77,350 resistance zone.Bitcoin Price Regains TractionBitcoin price remained supported above the $74,000 zone. BTC formed a base and settled above $74,500 to start a reco…
+Bloomberg.com • 57m ago
+
+---
+
+**[Chinese crypto tycoon eyes Hong Kong capital with bitcoin asset management push](https://www.tradingview.com/news/reuters.com,2026:newsml_L4N414162:0-chinese-crypto-tycoon-eyes-hong-kong-capital-with-bitcoin-asset-management-push/)**
+
+By Summer ZhenChinese crypto tycoon Li Lin plans to move a trading system and team from his family office to Hong Kong-listed Bitfire Group HKEX:1611, where he is the largest shareholder, in an effort to tap into demand for digital assets among investors and institutions.Bitfire, a wealth-managemen…
 
 TradingView • 1h ago
 
 ---
 
-**[Coinbase vs. Bitcoin: Why the Crypto Stock Is a Better Buy](https://www.fool.com/investing/2026/04/21/coinbase-vs-bitcoin-why-the-crypto-stock-is-a-bett/)**
+**[Chinese crypto tycoon eyes Hong Kong capital with bitcoin asset management push](https://finance.yahoo.com/markets/crypto/articles/chinese-crypto-tycoon-eyes-hong-041130622.html)**
 
-Increased blockchain adoption could help Coinbase more than Bitcoin.
+Chinese crypto tycoon Li Lin plans to move a trading system and team from his family office ‌to Hong Kong-listed Bitfire Group, where he is the largest shareholder, in ‌an effort to tap into demand for digital assets among investors and institutions.  Bitfire, a wealth-management firm, on ​Wednesday said it had agreed to buy the investment team and trading systems of Avenir Group, Li's family office, for $1.6 million.  Cryptocurrency trading has ⁠been banned in mainland China since 2021, while Hong Kong is striving to become a virtual asset hub.
 
-The Motley Fool • 29m ago
-
----
-
-**[$Bitcoin (BTC.CC)$ Last chance](https://www.moomoo.com/community/feed/bitcoin-btc-cc-last-chance-116446049402886)**
-
-@APOLO 6461 Views|5 Likes
-
-Moomoo • 1h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin's comeback won't happen in 2026: Deutsche Bank survey of consumers](https://finance.yahoo.com/news/bitcoins-comeback-wont-happen-in-2026-deutsche-bank-survey-of-consumers-134056305.html)**
+**[Strategy Interest Costs Jump On Biggest Bitcoin Buy Since 2024](https://www.investors.com/news/mstr-stock-strategy-interest-costs-jump-bitcoin-price-biggest-buy-since-2024/)**
 
-Deutsche Bank's new crypto survey is decidedly bearish for bitcoin.
-
-Yahoo Finance • 1d ago
+Investor's Business Daily • 12h ago
 
 ---
 
@@ -211,7 +205,7 @@ Yahoo Finance • 1d ago
 
 Onramp launched a unified platform today combining cash management, bitcoin services, and gold ownership into a single account aimed at long-term wealth building.
 
-Bitcoin Magazine • 14h ago
+Bitcoin Magazine • 17h ago
 
 ---
 
@@ -223,11 +217,11 @@ Fox Business • 1d ago
 
 ---
 
-**[Strategy Keeps Buying Bitcoin—And It Wants to Make Its 'Stretch' Preferred Stock More Appealing](https://www.investopedia.com/strategy-keeps-buying-bitcoin-and-it-wants-to-make-its-stretch-preferred-stock-more-appealing-mstr-btc-11954164)**
+**[Coinbase vs. Bitcoin: Why the Crypto Stock Is a Better Buy](https://www.fool.com/investing/2026/04/21/coinbase-vs-bitcoin-why-the-crypto-stock-is-a-bett/)**
 
-The enterprise software company and bitcoin treasury on Monday said that it bought more than $2.5 billion worth of the cryptocurrency recently.
+Increased blockchain adoption could help Coinbase more than Bitcoin.
 
-Investopedia • 1d ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -235,7 +229,7 @@ Investopedia • 1d ago
 
 Analysts say bitcoin's rare combination of negative funding rates alongside rising price signals a short squeeze is building, with targets near $85,000.
 
-Bitbo • 9h ago
+Bitbo • 11h ago
 
 ---
 
@@ -329,7 +323,17 @@ Bitcoin is in a bull market right now. Anthony Pompliano breaks down the data �
 
 📺 Anthony Pompliano
 
-👁️ 23K • 👍 1K • 💬 61 • ⏱️ 16:35 • 6h ago
+👁️ 30K • 👍 2K • 💬 61 • ⏱️ 16:35 • 9h ago
+
+---
+
+**[New Fed Chair Just Lit the Fuse for Bitcoin &amp; Rate Cuts](https://www.youtube.com/watch?v=-oLRibqO9-Y)**
+
+Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=AltcoinDaily Grab Tickets to BTC Conference ...
+
+📺 Altcoin Daily
+
+👁️ 24K • 👍 2K • 💬 165 • ⏱️ 12:24 • 7h ago
 
 ---
 
@@ -339,7 +343,7 @@ A major bank CEO just warned of a looming crash, while Wall Street quietly pivot
 
 📺 Simply Bitcoin
 
-👁️ 11K • 👍 982 • 💬 58 • ⏱️ 14:37 • 5h ago
+👁️ 15K • 👍 1K • 💬 63 • ⏱️ 14:37 • 7h ago
 
 ---
 
@@ -349,7 +353,17 @@ The charts are in charge, folks. In today's video, we strip away the emotion and
 
 📺 Gareth Soloway
 
-👁️ 42K • 👍 3K • 💬 180 • ⏱️ 9:18 • 16h ago
+👁️ 43K • 👍 3K • 💬 184 • ⏱️ 9:18 • 18h ago
+
+---
+
+**[BITCOIN HISTORY WILL REPEAT... *my new $6m trade*](https://www.youtube.com/watch?v=NnFStjhfMnY)**
+
+WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25% FEE DISCOUNT & GET FREE $25 ...
+
+📺 Crypto Rover
+
+👁️ 2K • 👍 208 • 💬 11 • ⏱️ 8:42 • 1h ago
 
 ---
 
@@ -359,7 +373,7 @@ Bitcoin has rallied back into a key technical area, the Bear Market Resistance B
 
 📺 Benjamin Cowen
 
-👁️ 95K • 👍 6K • 💬 201 • ⏱️ 11:41 • 1d ago
+👁️ 96K • 👍 6K • 💬 205 • ⏱️ 11:41 • 2d ago
 
 ---
 
@@ -373,13 +387,13 @@ Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=Al
 
 ---
 
-**[This Data Says Bitcoin Is About To Explode | Are You Ready?](https://www.youtube.com/watch?v=c3t4CHROkg8)**
+**[Bitcoin Thrives In Chaos As Crypto &amp; DeFi Crumbles In Real Time!](https://www.youtube.com/watch?v=pBTEkWrYB_M)**
 
-Big money is quietly moving into Bitcoin and the signals are getting louder. From politicians stacking BTC to Wall Street stepping ...
+Bitcoin #Crypto #Finance Bitcoin continues to outperform through chaos—war, bank runs, and market stress—while institutions ...
 
-📺 Simply Bitcoin
+📺 The Wolf Of All Streets
 
-👁️ 32K • 👍 2K • 💬 145 • ⏱️ 12:00 • 2d ago
+👁️ 9K • 👍 433 • 💬 129 • ⏱️ 57:38 • 15h ago
 
 ---
 
@@ -389,35 +403,17 @@ Everyone is Wrong about Bitcoin Big picture for bitcoin Most can't see what's co
 
 📺 Camel Finance
 
-👁️ 12K • 👍 849 • 💬 149 • ⏱️ 22:37 • 18h ago
+👁️ 12K • 👍 856 • 💬 150 • ⏱️ 22:37 • 20h ago
 
 ---
 
-**[Bitcoin Thrives In Chaos As Crypto &amp; DeFi Crumbles In Real Time!](https://www.youtube.com/watch?v=pBTEkWrYB_M)**
+**[This Data Says Bitcoin Is About To Explode | Are You Ready?](https://www.youtube.com/watch?v=c3t4CHROkg8)**
 
-Bitcoin #Crypto #Finance Bitcoin continues to outperform through chaos—war, bank runs, and market stress—while institutions ...
+Big money is quietly moving into Bitcoin and the signals are getting louder. From politicians stacking BTC to Wall Street stepping ...
 
-📺 The Wolf Of All Streets
+📺 Simply Bitcoin
 
-👁️ 8K • 👍 427 • 💬 129 • ⏱️ 57:38 • 12h ago
-
----
-
-**[Why Bitcoin Is Outperforming Everything Right Now](https://www.youtube.com/watch?v=caT7djAfibY)**
-
-Crypto #Bitcoin #CryptoNews #Investing #yahoofinance #StockMarket #Macro #FederalReserve April 21, 2026 —Nothing in ...
-
-📺 Yahoo Finance
-
-👁️ 5K • 👍 243 • 💬 27 • ⏱️ 14:52 • 11h ago
-
----
-
-**[All Roads Lead to Bitcoin](https://www.youtube.com/watch?v=F_tHjEWyF5Y)**
-
-📺 THE JACK MALLERS SHOW
-
-👁️ 19K • 👍 1K • 💬 232 • ⏱️ 1:59:50 • 1d ago
+👁️ 32K • 👍 2K • 💬 146 • ⏱️ 12:00 • 2d ago
 
 ---
 
