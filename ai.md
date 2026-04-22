@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-22T06:00:40.384104+00:00'
+updated: '2026-04-22T08:03:17.138930+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
+- social
 - news
 - videos
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 22, 2026 at 06:00 UTC  
+**Last Updated:** April 22, 2026 at 08:03 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,31 +41,7 @@ AI news, discussions, and developments
 
 I mean a)The majority of articles on the internet are written by AIs b) 4 of the top 10 Youtube channels c) 4 in 10 Facebook posts d) 1 in 5 videos shown to new Youtube users e) The #1 most-subscribed Twitch streamer is an AI f) 44% of songs on Deezer Also, most of the ads are now AI generated, like AI creating content for other AI
 
-1h ago
-
----
-
-**[Gallup poll: Gen Z's AI usage increaes but excitement plummets from 36% to 22%](https://www.reddit.com/r/artificial/comments/1ss8chu/gallup_poll_gen_zs_ai_usage_increaes_but/)**
-
-A new Gallup survey of 1,500+ Gen Z respondents found that more than half of Gen Z living in the US regularly use generative AI, but their feelings about the technology are getting worse. Among those aged 14 to 29, compared to last year, excitement dropped from 36% to 22%, hopefulness fell from 27% to 18%, and anger jumped from 22% to 31%. The main driver behind the shift appears to be job anxiety, nearly half of respondents said the risks of AI in the workplace outweigh the benefits. https://www.gallup.com/analytics/651674/gen-z-research.aspx
-
 3h ago
-
----
-
-**[Apple's play for AI is a hardware bet, not software](https://www.reddit.com/r/artificial/comments/1srmdg7/apples_play_for_ai_is_a_hardware_bet_not_software/)**
-
-The fact that Apple's Board of Directors chose someone who has built their career on the hardware side speaks volumes. Apple's gamble suggests they believe the future of AI lies in hardware, not software. Apple clearly isn't trying to compete with Google, OpenAI, or Anthropic by having an LLM model. But it does seem to believe that its platform (the iPhone), with its advanced processor, can deliver models locally on the phone instead of from the cloud. Will the gamble pay off?
-
-17h ago
-
----
-
-**[Jeff Bezos's "Project Prometheus" is raising $10B at a $38B valuation to build "Physical AI".](https://www.reddit.com/r/artificial/comments/1srwofc/jeff_bezoss_project_prometheus_is_raising_10b_at/)**
-
-Jeff Bezos’s five-month-old startup, Project Prometheus, is nearing a historic $10B funding round backed by Wall Street giants like JPMorgan and BlackRock. The Tech: They are building "Physical AI" that natively understands the laws of physics to revolutionize physical products like aerospace, automotive, and robotics. It is Bezos's first operational role since leaving Amazon in 2021 with co-CEO Vik Bajaj, a physicist and former Google X scientist who co-founded the Alphabet health startup Verily. They’ve aggressively assembled a 100+ person powerhouse team by poaching top-tier researchers from OpenAI, Meta, Google DeepMind, and xAI. They even acquired the agentic AI startup General Agents shortly after launch specifically to bring former DeepMind researcher Sherjil Ozair and his engineering team into the fold. I am all for money going into companies that accelerate discoveries in physical AI, materials, manufacturing. Another great effort is periodic labs, they raised $300 m. But, is this valuation justified, or are we really in a massive bubble? Are they expecting that they are going to solve all of the physical AI ?
-
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-04-21/jeff-bezos-nears-10-billion-funding-round-for-ai-lab-ft-says) • 11h ago
 
 ---
 
@@ -73,7 +49,39 @@ Jeff Bezos’s five-month-old startup, Project Prometheus, is nearing a historic
 
 NotebookLM is one of the best and most useful AI platforms out there, but once you start using it regularly you also feel its limitations leaving something to be desired more. There are limits on the amount of sources you can add in a notebook. There are limits on the number of notebooks you can have. You cannot have sources that exceed 500,000 words and are more than 200MB. You are vendor locked in to Google services (LLMs, usage models, etc.) with no option to configure them. Limited external data sources and service integrations. NotebookLM Agent is specifically optimised for just studying and researching, but you can do so much more with the source data. Lack of multiplayer support. ...and more. SurfSense is specifically made to solve these problems. For those who dont know, SurfSense is open source, privacy focused alternative to NotebookLM for teams with no data limit's. It currently empowers you to: Control Your Data Flow - Keep your data private and secure. No Data Limits - Add an unlimited amount of sources and notebooks. No Vendor Lock-in - Configure any LLM, image, TTS, and STT models to use. 25+ External Data Sources - Add your sources from Google Drive, OneDrive, Dropbox, Notion, and many other external services. Real-Time Multiplayer Support - Work easily with your team members in a shared notebook. Desktop App - Get assistance in your OS. Check us out at https://github.com/MODSetter/SurfSense if this interests you or if you want to contribute to a open source software
 
-1h ago
+3h ago
+
+---
+
+**[Gallup poll: Gen Z's AI usage increaes but excitement plummets from 36% to 22%](https://www.reddit.com/r/artificial/comments/1ss8chu/gallup_poll_gen_zs_ai_usage_increaes_but/)**
+
+A new Gallup survey of 1,500+ Gen Z respondents found that more than half of Gen Z living in the US regularly use generative AI, but their feelings about the technology are getting worse. Among those aged 14 to 29, compared to last year, excitement dropped from 36% to 22%, hopefulness fell from 27% to 18%, and anger jumped from 22% to 31%. The main driver behind the shift appears to be job anxiety, nearly half of respondents said the risks of AI in the workplace outweigh the benefits. https://www.gallup.com/analytics/651674/gen-z-research.aspx
+
+5h ago
+
+---
+
+**[Apple's play for AI is a hardware bet, not software](https://www.reddit.com/r/artificial/comments/1srmdg7/apples_play_for_ai_is_a_hardware_bet_not_software/)**
+
+The fact that Apple's Board of Directors chose someone who has built their career on the hardware side speaks volumes. Apple's gamble suggests they believe the future of AI lies in hardware, not software. Apple clearly isn't trying to compete with Google, OpenAI, or Anthropic by having an LLM model. But it does seem to believe that its platform (the iPhone), with its advanced processor, can deliver models locally on the phone instead of from the cloud. Will the gamble pay off?
+
+19h ago
+
+---
+
+**[Jeff Bezos's "Project Prometheus" is raising $10B at a $38B valuation to build "Physical AI".](https://www.reddit.com/r/artificial/comments/1srwofc/jeff_bezoss_project_prometheus_is_raising_10b_at/)**
+
+Jeff Bezos’s five-month-old startup, Project Prometheus, is nearing a historic $10B funding round backed by Wall Street giants like JPMorgan and BlackRock. The Tech: They are building "Physical AI" that natively understands the laws of physics to revolutionize physical products like aerospace, automotive, and robotics. It is Bezos's first operational role since leaving Amazon in 2021 with co-CEO Vik Bajaj, a physicist and former Google X scientist who co-founded the Alphabet health startup Verily. They’ve aggressively assembled a 100+ person powerhouse team by poaching top-tier researchers from OpenAI, Meta, Google DeepMind, and xAI. They even acquired the agentic AI startup General Agents shortly after launch specifically to bring former DeepMind researcher Sherjil Ozair and his engineering team into the fold. I am all for money going into companies that accelerate discoveries in physical AI, materials, manufacturing. Another great effort is periodic labs, they raised $300 m. But, is this valuation justified, or are we really in a massive bubble? Are they expecting that they are going to solve all of the physical AI ?
+
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-04-21/jeff-bezos-nears-10-billion-funding-round-for-ai-lab-ft-says) • 13h ago
+
+---
+
+**[What does it actually mean to "manage" AI agents at an enterprise level in 2026?](https://www.reddit.com/r/artificial/comments/1sseu97/what_does_it_actually_mean_to_manage_ai_agents_at/)**
+
+There's a lot of coverage of how AI agents are being built. Almost none of it covers how they're being governed, maintained, and operated once they're deployed. I think the reason is that the tools and frameworks for that layer barely exist yet. But the job title is already appearing: AI Director, Director of AI, VP of AI, Head of Agentic Systems. These are real roles at mid-to-large organizations right now. I've been thinking about what this job actually entails in 2026, and it seems like 5 different functions are colliding into one role: Strategy: Which workflows should be agentic? What's the build-vs-buy decision on agent infrastructure? Governance: What are agents authorized to do? How do you maintain human oversight without creating bottlenecks? Config management: How do you ensure agent instructions are versioned, consistent, and auditable across dozens of deployments? Performance management: How do you measure whether an agent is doing its job well, especially when "doing its job" means handling edge cases a human would have caught? Team coordination: Agents are touching every team. Who owns the agents? IT? The business unit? A central AI team? Has anyone here navigated this at scale? The people building the agents seem well-represented in these communities. Curious to hear from those managing them. Newsletter for people at this layer in the comments.
+
+8m ago
 
 ---
 
@@ -81,7 +89,7 @@ NotebookLM is one of the best and most useful AI platforms out there, but once y
 
 Apparently MetaAI has it's honesty setting set to 99%. https://preview.redd.it/md3puymhmnwg1.png?width=738&format=png&auto=webp&s=c53544c3d463d1f0221509a80972386d0f5073d9
 
-3h ago
+5h ago
 
 ---
 
@@ -95,23 +103,15 @@ Apparently MetaAI has it's honesty setting set to 99%. https://preview.redd.it/m
 
 **[Blossom trees in The Hague (trees edited)](https://www.reddit.com/r/artificial/comments/1sryn3e/blossom_trees_in_the_hague_trees_edited/)**
 
-10h ago
+12h ago
 
 ---
 
-**[Non political question since the Media is focused on US vs China. Where are Russians in the global AI race?](https://www.reddit.com/r/artificial/comments/1srqz3c/non_political_question_since_the_media_is_focused/)**
+**[The AI Gold Rush Just Entered Its Most Dangerous Phase](https://www.reddit.com/r/artificial/comments/1sseqyd/the_ai_gold_rush_just_entered_its_most_dangerous/)**
 
-I was wondering about how Russians are faring in the global AI race, especially since there isn't much news from there except for AI-War-engines and drones being deployed in Ukraine. Russians had traditionally had a strong STEM program, especially focused on core Maths and computing. A number of great CS experts migrated to the US and EU. I was talking to an old Russian-American techie friend of mine the other day and that triggered this question.
+Google’s TPUs are now the hottest commodity in AI. A deep-dive analysis of the chip war reshaping global infrastructure — what it means for researchers, developers, and the future of AI compute.
 
-14h ago
-
----
-
-**[lovable is amazing with images now!!](https://www.reddit.com/r/artificial/comments/1sry1vl/lovable_is_amazing_with_images_now/)**
-
-launching a colonic consulting firm (not clonic, just emotional support before and after): https://poopplunger.lovable.app "Fourteen years. Six thousand colons. I have seen everything. I will not flinch. Neither, eventually, will you."
-
-10h ago
+🔗 [Novara Press](https://novarapress.net/ai-chip-war-google-nvidia-2026/) • 14m ago
 
 ---
 
@@ -119,9 +119,17 @@ launching a colonic consulting firm (not clonic, just emotional support before a
 
 ## Google News: "ai"
 
+**[This Scammer Used an AI-Generated MAGA Girl to Grift ‘Super Dumb’ Men](https://www.wired.com/story/ai-generated-maga-girls/)**
+
+A med student says he’s made thousands of dollars selling photos and videos of a young conservative woman he created using generative tools. He’s not alone.
+
+WIRED • 21h ago
+
+---
+
 **[Exclusive: Meta to start capturing employee mouse movements, keystrokes for AI training data](https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/)**
 
-Reuters • 9h ago
+Reuters • 11h ago
 
 ---
 
@@ -129,7 +137,7 @@ Reuters • 9h ago
 
 The firm will take data from the way employees work for its artificial intelligence models.
 
-BBC • 7h ago
+BBC • 9h ago
 
 ---
 
@@ -137,23 +145,7 @@ BBC • 7h ago
 
 Meta deploys keystroke-tracking software on US employees' computers, sparking privacy concerns and internal backlash.
 
-Business Insider • 10h ago
-
----
-
-**[This Scammer Used an AI-Generated MAGA Girl to Grift ‘Super Dumb’ Men](https://www.wired.com/story/ai-generated-maga-girls/)**
-
-A med student says he’s made thousands of dollars selling photos and videos of a young conservative woman he created using generative tools. He’s not alone.
-
-WIRED • 19h ago
-
----
-
-**[SpaceX says it can buy Cursor later this year for $60 billion or pay $10 billion for 'our work together'](https://www.cnbc.com/2026/04/21/spacex-says-it-can-buy-cursor-later-this-year-for-60-billion-or-pay-10-billion-for-our-work-together.html)**
-
-SpaceX said it's obtained the rights to buy coding startup Cursor for $60 billion later this year or pay $10 billion for the work they're doing together.
-
-CNBC • 7h ago
+Business Insider • 12h ago
 
 ---
 
@@ -163,25 +155,31 @@ The New York Times • 7h ago
 
 ---
 
-**[Inside the AI startup Elon Musk is betting $60 billion on](https://www.businessinsider.com/ai-coding-startup-cursor-elon-musk-60-billion-spacex-deal-2026-4)**
+**[SpaceX secures option to buy AI startup Cursor for $60bn or partner for $10bn](https://www.theguardian.com/technology/2026/apr/21/spacex-cursor-ai-startup)**
 
-The 4-year-old startup just propelled SpaceX in the AI coding race.
+Cursor is a Silicon Valley startup using AI to automate coding as Elon Musk’s firm seeks foothold in the AI market
 
-Business Insider • 1h ago
-
----
-
-**[Markets remain bifurcated, AI & semiconductors dominate gains: Analyst](https://www.cnbc.com/video/2026/04/22/markets-remain-bifurcated-ai-spend-the-key-analyst.html)**
-
-Kamil Dimmich, Partner & Portfolio Manager at North of South Capital, explains the divergence in emerging markets' performance amid the Iran war. He points out that some economies are performing better than others due to their exposure to AI spend, like South Korea and Taiwan.
-
-CNBC • 31m ago
+The Guardian • 7h ago
 
 ---
 
-**[A.I. ‘Hallucinations’ Created Errors in Court Filing, Top Law Firm Says](https://www.nytimes.com/2026/04/21/nyregion/sullivan-cromwell-ai-hallucination.html)**
+**[Exclusive: SpaceX says unproven AI space data centers may not be commercially viable, filing shows](https://www.reuters.com/world/spacex-says-unproven-ai-space-data-centers-may-not-be-commercially-viable-filing-2026-04-21/)**
 
-The New York Times • 7h ago
+Reuters • 10h ago
+
+---
+
+**[Boards say the C-suite owns the AI strategy. The C-suite doesn’t agree.](https://fortune.com/2026/04/22/ai-ownership-c-suite-board-disagree-pearl-meyer-survey-brad-jayne/)**
+
+A new Pearl Meyer survey reveals that the AI bottleneck isn’t about technology. It’s a warning that some senior executive teams are struggling to function.
+
+Fortune • 1h ago
+
+---
+
+**[ServiceNow Earnings Will Put AI Demand to the Test](https://www.barrons.com/articles/servicenow-earnings-stock-price-4b5f8eee)**
+
+Barron's • 1h ago
 
 ---
 
@@ -189,7 +187,7 @@ The New York Times • 7h ago
 
 Firm whose partners bill more than $2,000 per hour apologises to judge for software-driven errors in bankruptcy case
 
-Financial Times • 10h ago
+Financial Times • 13h ago
 
 ---
 
@@ -199,13 +197,13 @@ Financial Times • 10h ago
 
 **[Atlassian enables default data collection to train AI](https://news.ycombinator.com/item?id=47833247)**
 
-⬆️ 595 • 💬 130 • 1d ago • [letsdatascience.com](https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8)
+⬆️ 596 • 💬 130 • 1d ago • [letsdatascience.com](https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8)
 
 ---
 
 **[Meta to start capturing employee mouse movements, keystrokes for AI training](https://news.ycombinator.com/item?id=47851948)**
 
-⬆️ 447 • 💬 345 • 12h ago • [reuters.com](https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/)
+⬆️ 509 • 💬 379 • 14h ago • [reuters.com](https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/)
 
 ---
 
@@ -235,13 +233,13 @@ Police lured the man to a meeting and arrested him after accessing a private Wha
 
 **[A Roblox cheat and one AI tool brought down Vercel's platform](https://news.ycombinator.com/item?id=47844431)**
 
-⬆️ 279 • 💬 155 • 1d ago • [webmatrices.com](https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform)
+⬆️ 279 • 💬 158 • 1d ago • [webmatrices.com](https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform)
 
 ---
 
 **[Tell HN: I'm sick of AI everything](https://news.ycombinator.com/item?id=47857461)**
 
-⬆️ 234 • 💬 120 • 4h ago
+⬆️ 246 • 💬 140 • 6h ago
 
 ---
 
@@ -249,7 +247,7 @@ Police lured the man to a meeting and arrested him after accessing a private Wha
 
 High-performance AI gateway written in Go - unified OpenAI-compatible API for OpenAI, Anthropic, Gemini, Groq, xAI &amp; Ollama. LiteLLM alternative with observability, guardrails &amp; streaming. ...
 
-⬆️ 171 • 💬 63 • 15h ago • [GitHub](https://github.com/ENTERPILOT/GOModel/)
+⬆️ 173 • 💬 63 • 17h ago • [GitHub](https://github.com/ENTERPILOT/GOModel/)
 
 ---
 
@@ -257,7 +255,7 @@ High-performance AI gateway written in Go - unified OpenAI-compatible API for Op
 
 Mediator.ai uses bargaining theory and modern AI to find agreements that two people in conflict would both accept, including ones they hadn't thought of.
 
-⬆️ 146 • 💬 74 • 1d ago • [Mediator.ai](https://mediator.ai/)
+⬆️ 147 • 💬 74 • 1d ago • [Mediator.ai](https://mediator.ai/)
 
 ---
 
@@ -265,7 +263,7 @@ Mediator.ai uses bargaining theory and modern AI to find agreements that two peo
 
 Nial – Knowledge work and artificial intelligence.
 
-⬆️ 142 • 💬 152 • 23h ago • [nial.se](https://nial.se/blog/less-human-ai-agents-please/)
+⬆️ 143 • 💬 152 • 1d ago • [nial.se](https://nial.se/blog/less-human-ai-agents-please/)
 
 ---
 
@@ -279,7 +277,17 @@ ChatGPT Images 2.0 review. GPT Image 2.0 vs Nano Banana. #ai #aiart #aitools #im
 
 📺 AI Search
 
-👁️ 9K • 👍 715 • 💬 188 • ⏱️ 35:20 • 2h ago
+👁️ 19K • 👍 1K • 💬 260 • ⏱️ 35:20 • 4h ago
+
+---
+
+**[The Dirty Secret Behind AI Data Centers No One Wants to Talk About](https://www.youtube.com/watch?v=Ij_qlW5x2-o)**
+
+Ramageddon” is here: AI data centers are hoarding up to 70% of global DRAM, sending DDR5 prices soaring, distorting console ...
+
+📺 Valuetainment
+
+👁️ 117K • 👍 6K • 💬 344 • ⏱️ 12:41 • 19h ago
 
 ---
 
@@ -289,7 +297,7 @@ So much of the hype around AI is due to its supposed "superintelligence". Suppos
 
 📺 Cole Hastings
 
-👁️ 129K • 👍 7K • 💬 1K • ⏱️ 17:36 • 2d ago
+👁️ 130K • 👍 7K • 💬 1K • ⏱️ 17:36 • 2d ago
 
 ---
 
@@ -299,27 +307,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 14K • 👍 535 • 💬 76 • ⏱️ 8:16 • 15h ago
-
----
-
-**[Sam Altman and Other AI Tech Billionaires Don&#39;t Want You to Know About This..](https://www.youtube.com/watch?v=Ubpk3vsjmiI)**
-
-Sam Altman and Other AI Tech Billionaires Don't Want You to Know About This.. X / TWITTER HERE ...
-
-📺 Godrules
-
-👁️ 17K • 👍 2K • 💬 289 • ⏱️ 25:44 • 3h ago
-
----
-
-**[New AI Robot From China Breaks Human Limits](https://www.youtube.com/watch?v=EJbJMg2RNgw)**
-
-AGIBOT just rolled out a full new wave of humanoid robots and AI models built for real deployment, while researchers in South ...
-
-📺 AI Revolution
-
-👁️ 22K • 👍 665 • 💬 44 • ⏱️ 16:29 • 1d ago
+👁️ 15K • 👍 545 • 💬 76 • ⏱️ 8:16 • 17h ago
 
 ---
 
@@ -329,17 +317,7 @@ Humanoid robot 'Lightning' broke a half-marathon world record in Beijing, finish
 
 📺 Fox News Clips
 
-👁️ 18K • 👍 357 • 💬 202 • ⏱️ 5:19 • 14h ago
-
----
-
-**[Agent Swarms Is One of The Most Powerful AI System Yet](https://www.youtube.com/watch?v=KdP305UYuNA)**
-
-Abacus AI just showed something that feels a lot bigger than another flashy AI demo. Agent Swarms inside ChatLLM and Deep ...
-
-📺 AI Revolution
-
-👁️ 15K • 👍 539 • 💬 44 • ⏱️ 13:18 • 2d ago
+👁️ 20K • 👍 378 • 💬 229 • ⏱️ 5:19 • 17h ago
 
 ---
 
@@ -353,23 +331,43 @@ Start Making AI Videos using Higgsfield https://youricreates.com/AIvideos In thi
 
 ---
 
+**[Agent Swarms Is One of The Most Powerful AI System Yet](https://www.youtube.com/watch?v=KdP305UYuNA)**
+
+Abacus AI just showed something that feels a lot bigger than another flashy AI demo. Agent Swarms inside ChatLLM and Deep ...
+
+📺 AI Revolution
+
+👁️ 15K • 👍 539 • 💬 44 • ⏱️ 13:18 • 2d ago
+
+---
+
+**[Sam Altman and Other AI Tech Billionaires Don&#39;t Want You to Know About This..](https://www.youtube.com/watch?v=Ubpk3vsjmiI)**
+
+Sam Altman and Other AI Tech Billionaires Don't Want You to Know About This.. X / TWITTER HERE ...
+
+📺 Godrules
+
+👁️ 30K • 👍 2K • 💬 361 • ⏱️ 25:44 • 5h ago
+
+---
+
 **[AI Scans the Ethiopian Bible — What It Found About Jesus After the Resurrection](https://www.youtube.com/watch?v=J5HUTyTFdRc)**
 
 An AI just scanned the Ethiopian Bible — and what it found about Jesus after the Resurrection is unlike anything mainstream ...
 
 📺 Optic Expedition
 
-👁️ 39K • 👍 2K • 💬 59 • ⏱️ 26:24 • 2d ago
+👁️ 40K • 👍 2K • 💬 59 • ⏱️ 26:24 • 2d ago
 
 ---
 
-**[Pro-Trump, Pro-War AI Bot Network EXPOSED as MAGA Collapses](https://www.youtube.com/watch?v=xAUAXLpI_XI)**
+**[Why AI Will Never Be Conscious - Anil Seth](https://www.youtube.com/watch?v=lsi8T_WtLnE)**
 
-Krystal and Ryan discuss pro-Trump AI bots flooding social media. Sign up for a PREMIUM Breaking Points subscriptions for full ...
+Get Huel today with this exclusive offer for New Customers of 15% OFF with code alexoconnor at https://huel.com/alexoconnor ...
 
-📺 Breaking Points
+📺 Alex O'Connor
 
-👁️ 156K • 👍 5K • 💬 793 • ⏱️ 8:50 • 1d ago
+👁️ 97K • 👍 3K • 💬 1K • ⏱️ 1:42:28 • 1d ago
 
 ---
 
@@ -385,7 +383,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with a vision encoder, 
 
 `image-text-to-text` `36.0B`
 
-⬇️ 458,436 • ❤️ 1,151 • 7d ago
+⬇️ 582,961 • ❤️ 1,163 • 7d ago
 
 ---
 
@@ -397,7 +395,7 @@ Kimi K2.6 is a 1T parameter multimodal agentic model excelling in long-horizon c
 
 `image-text-to-text` `1058.6B`
 
-⬇️ 8,241 • ❤️ 731 • 1d ago
+⬇️ 54,456 • ❤️ 742 • 1d ago
 
 ---
 
@@ -409,7 +407,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with vision capabilitie
 
 `image-text-to-text` `34.7B`
 
-⬇️ 967,317 • ❤️ 629 • 1d ago
+⬇️ 1,112,454 • ❤️ 631 • 1d ago
 
 ---
 
@@ -421,7 +419,7 @@ HY-World 2.0 is a multi-modal framework for generating and reconstructing 3D wor
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 529 • 11m ago
+⬇️ 0 • ❤️ 532 • 2h ago
 
 ---
 
@@ -433,7 +431,7 @@ Gemma 4 E4B OBLITERATED v3 is a text-generation model with 0% refusal and improv
 
 `text-generation` `8.0B`
 
-⬇️ 63,995 • ❤️ 432 • 2d ago
+⬇️ 79,024 • ❤️ 433 • 2d ago
 
 ---
 
@@ -445,7 +443,7 @@ This is an uncensored, aggressive multimodal model based on Qwen3.6-35B-A3B, cap
 
 `image-text-to-text` `34.7B`
 
-⬇️ 261,086 • ❤️ 349 • 5d ago
+⬇️ 312,962 • ❤️ 353 • 5d ago
 
 ---
 
@@ -457,7 +455,7 @@ HY-Embodied-0.5 is a multilingual vision-language model designed for embodied ag
 
 `image-text-to-text` `3.8B`
 
-⬇️ 2,035 • ❤️ 897 • 7d ago
+⬇️ 2,459 • ❤️ 897 • 7d ago
 
 ---
 
@@ -469,7 +467,7 @@ ERNIE-Image is a 8B parameter text-to-image diffusion model excelling in complex
 
 `text-to-image`
 
-⬇️ 4,523 • ❤️ 516 • 5d ago
+⬇️ 5,253 • ❤️ 518 • 5d ago
 
 ---
 
@@ -481,7 +479,7 @@ MiniMax-M2.7 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 358,255 • ❤️ 1,029 • 2d ago
+⬇️ 416,155 • ❤️ 1,031 • 2d ago
 
 ---
 
@@ -491,7 +489,7 @@ MiniMax-M2.7 is a text-generation model designed for producing human-like text. 
 
 Lyra 2.0 generates explorable, persistent 3D worlds from a single image by synthesizing consistent long-range video and reconstructing it into explicit 3D Gaussian representations. It addresses spatial forgetting and temporal drift for scalable, real-time rendering, setting a new state-of-the-art in single-image 3D scene generation.
 
-⬇️ 192 • ❤️ 247 • 4d ago
+⬇️ 252 • ❤️ 249 • 4d ago
 
 ---
 
@@ -559,7 +557,7 @@ RAG-Anything is a unified framework that enhances multimodal knowledge retrieval
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 48 • 💬 2 • ⭐ 52,227 • 15mo ago
+▲ 48 • 💬 2 • ⭐ 52,227 • 16mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -597,7 +595,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 OpenGame is an open-source agentic framework for end-to-end web game creation that uses specialized code models and evaluation benchmarks to overcome challenges in interactive application development.
 
-▲ 52 • 💬 2 • ⭐ 140 • 2d ago
+▲ 53 • 💬 2 • ⭐ 140 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.18394) • [💻 code](https://github.com/leigest519/OpenGame) • [🔗 project](https://www.opengame-project-page.com/)
 
@@ -639,7 +637,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 48.8k • 🔱 6.4k • 5h ago
+⭐ 48.9k • 🔱 6.4k • 7h ago
 
 ---
 
@@ -649,7 +647,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 42.6k • 🔱 2.2k • 3d ago
+⭐ 42.7k • 🔱 2.2k • 3d ago
 
 ---
 
@@ -659,7 +657,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 38.1k • 🔱 7.7k • 14h ago
+⭐ 38.2k • 🔱 7.8k • 16h ago
 
 ---
 
@@ -669,7 +667,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 32.4k • 🔱 3.6k • 31m ago
+⭐ 32.5k • 🔱 3.6k • 2h ago
 
 ---
 
@@ -679,7 +677,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 8.4k • 🔱 548 • 17m ago
+⭐ 8.4k • 🔱 547 • 1m ago
 
 ---
 
@@ -689,7 +687,7 @@ A theoretical reconstruction of the Claude Mythos architecture, built from first
 
 `Python` `ai` `anthropic` `attention` `claude` `claude-ai`
 
-⭐ 7.5k • 🔱 1.6k • 1d ago
+⭐ 7.8k • 🔱 1.6k • 1d ago
 
 ---
 
@@ -699,7 +697,7 @@ A theoretical reconstruction of the Claude Mythos architecture, built from first
 
 `Python`
 
-⭐ 5.7k • 🔱 972 • 3d ago
+⭐ 5.8k • 🔱 972 • 3d ago
 
 ---
 
@@ -729,7 +727,7 @@ The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interac
 
 `Swift` `apple-intelligence` `apple-silicon` `cli` `foundationmodels` `homebrew`
 
-⭐ 4.8k • 🔱 186 • 12h ago
+⭐ 4.8k • 🔱 186 • 14h ago
 
 ---
 

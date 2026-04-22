@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-22T06:00:40.391657+00:00'
+updated: '2026-04-22T08:03:17.193727+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - videos
 - social
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 22, 2026 at 06:00 UTC  
+**Last Updated:** April 22, 2026 at 08:03 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $78,228.77
+### $78,047.10
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.5%  
-**7d:** +3.8%  
-**30d:** +10.5%  
-**90d:** -13.0%  
-**1y:** -16.6%  
+**24h:** +2.3%  
+**7d:** +4.1%  
+**30d:** +10.7%  
+**90d:** -12.8%  
+**1y:** -16.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1561.97B
+**Market Cap:** $1562.69B
 Rank #1
 
-**Circulating Supply:** 20,019,193 BTC
+**Circulating Supply:** 20,019,237 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
 -38.1%
 
 **All-Time Low:** $67.81
-+114962.7%
++114998.1%
 
 ---
 
@@ -77,31 +77,39 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Just sold my truck to buy more bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1ssacrh/just_sold_my_truck_to_buy_more_bitcoin/)**
-
-Bitcoin really does have a way of teaching low time preference. I originally started saving in bitcoin 2 years ago because I thought I could get a quick 2-3x to help me buy a nice truck. As I started learning more about bitcoin, my conviction grew and I started stacking more aggressively. Not wanting to sell my stack, I took out a loan to buy the truck. After owning it for about a year, I realized the payment was too much drag. For my age and phase of life, it just wasn't worth it. I'm fortunate enough I don't need a vehicle for my daily life, so I figured I should take advantage of that fact. I will be living car free for a while so I can stack even harder. My family thinks I'm absolutely nuts. I agree.
-
-2h ago
-
----
-
 **[Bitcoin Eyes $78K as US Military Calls Proof-of-Work a "Power Projection" Tool](https://www.reddit.com/r/Bitcoin/comments/1ssa0nt/bitcoin_eyes_78k_as_us_military_calls_proofofwork/)**
 
 Bitcoin (BTC) climbs past $77,000 as a US admiral calls it a national security asset, Strategy makes a $2.5B purchase, and the Fear & Greed
 
-🔗 [FX Leaders](https://www.fxleaders.com/news/2026/04/22/bitcoin-eyes-78k-as-us-military-calls-proof-of-work-a-power-projection-tool/) • 2h ago
+🔗 [FX Leaders](https://www.fxleaders.com/news/2026/04/22/bitcoin-eyes-78k-as-us-military-calls-proof-of-work-a-power-projection-tool/) • 4h ago
+
+---
+
+**[Just sold my truck to buy more bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1ssacrh/just_sold_my_truck_to_buy_more_bitcoin/)**
+
+Bitcoin really does have a way of teaching low time preference. I originally started saving in bitcoin 2 years ago because I thought I could get a quick 2-3x to help me buy a nice truck. As I started learning more about bitcoin, my conviction grew and I started stacking more aggressively. Not wanting to sell my stack, I took out a loan to buy the truck. After owning it for about a year, I realized the payment was too much drag. For my age and phase of life, it just wasn't worth it. I'm fortunate enough I don't need a vehicle for my daily life, so I figured I should take advantage of that fact. I will be living car free for a while so I can stack even harder. My family thinks I'm absolutely nuts. I agree.
+
+4h ago
 
 ---
 
 **[Damian Lillard’s courtside fit in the NBA playoffs](https://www.reddit.com/r/Bitcoin/comments/1ss8u5p/damian_lillards_courtside_fit_in_the_nba_playoffs/)**
 
-3h ago
+5h ago
 
 ---
 
 **[People who understand Bitcoin don't come here asking if now is a good time to buy some](https://www.reddit.com/r/Bitcoin/comments/1srupu6/people_who_understand_bitcoin_dont_come_here/)**
 
-12h ago
+14h ago
+
+---
+
+**[What if..](https://www.reddit.com/r/Bitcoin/comments/1ssbowq/what_if/)**
+
+What if Satoshi is still alive, he just lost the keys to his wallet and he’s obviously ashamed to admit it?
+
+3h ago
 
 ---
 
@@ -109,15 +117,23 @@ Bitcoin (BTC) climbs past $77,000 as a US admiral calls it a national security a
 
 https://youtu.be/tlRr1wStdow I kept seeing people argue about whether crypto or real estate is the better investment, but nobody was actually running the full numbers. So I did. Same starting point for both: - $30,000 to invest - Same year (2015) - Same city, same income Here's what I found after accounting for EVERYTHING: REAL ESTATE (Rental Property): → $30K down on a $150K property → Tenant paying $1,400/month rent → Sounds great... until you add: - Property taxes: $15,000 over 10 years - Insurance: $12,000 - Repairs/maintenance: $30,000 - Vacancy (1 month/year avg): $15,000 - 600 hours of your own time managing it After ALL real costs → roughly $175,000 to $195,000 in total equity after 10 years BITCOIN (Held without selling): → $30K invested in 2015 → Watched it drop 84% in 2018 → Watched it drop 77% in 2022 → Did NOT sell either time After 10 years → roughly $1.5M to $2M (after capital gains tax) So crypto wins, right? Not so fast. Here's the part nobody talks about: Studies show fewer than 8% of Bitcoin buyers actually held through both crashes without selling. The other 92% panic sold at the bottom and locked in massive losses — ending up WORSE than the real estate investor. Real estate had one massive hidden advantage: You literally CANNOT panic sell a house at 2AM. The illiquidity that feels like a weakness is actually what protects most people from destroying their own returns. So the real answer is: it depends entirely on which type of investor YOU are. Happy to answer any questions on the math in the comments.
 
-15h ago
+17h ago
 
 ---
 
-**[BTC holdings are a perfect power law 🤯](https://www.reddit.com/r/Bitcoin/comments/1ss1nm7/btc_holdings_are_a_perfect_power_law/)**
+**[Daily Discussion, April 22, 2026](https://www.reddit.com/r/Bitcoin/comments/1sscua5/daily_discussion_april_22_2026/)**
 
-https://preview.redd.it/t1oy5oqx3mwg1.png?width=1118&format=png&auto=webp&s=7b44fe0c9de27a1d139159ab024dcf04e9aeb1a0 In statistics, a power law is a functional relationship between two quantities, where a relative change in one quantity results in a relative change in the other quantity proportional to the change raised to a constant exponent: one quantity varies as a power of another. The change is independent of the initial size of those quantities. E.G. https://preview.redd.it/fkzwarw84mwg1.png?width=3000&format=png&auto=webp&s=c15f8a589ef91e540e87951d9c48d1d3b7503263
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-8h ago
+2h ago
+
+---
+
+**[Get a life not a job](https://www.reddit.com/r/Bitcoin/comments/1ssdfku/get_a_life_not_a_job/)**
+
+Jobs boring, suckass, draining, just get a life, be having enough money and bitcoining, simple as that hows that sound for you, american dream sucks
+
+1h ago
 
 ---
 
@@ -125,15 +141,7 @@ https://preview.redd.it/t1oy5oqx3mwg1.png?width=1118&format=png&auto=webp&s=7b44
 
 Everyone is talking about the 4-year cycle hitting $80k and then crashing back to $50k. Is this a 'bull trap' reality or just outdated TA? What’s your take?
 
-9h ago
-
----
-
-**[Fake professor embarrasses himself with bitcoin ‘criticism’](https://www.reddit.com/r/Bitcoin/comments/1srq0oe/fake_professor_embarrasses_himself_with_bitcoin/)**
-
-A clip of "Professor Jiang" went viral claiming the CIA created Bitcoin. This guy doesn't know Satoshi's name. He doesn't know what a decentralized network is. He thinks Bitcoin runs on servers in a CIA basement. This is not the first time this guy has embarrassed himself talking about Bitcoin. I brokedown every argument and every contradiction point by point.
-
-🔗 [youtu.be](https://youtu.be/wjlH4AWyhCY) • 15h ago
+11h ago
 
 ---
 
@@ -141,15 +149,7 @@ A clip of "Professor Jiang" went viral claiming the CIA created Bitcoin. This gu
 
 According to a report by blockchain media outlet The Crypto Basic on the 21st local time, market analyst Michaël van de Poppe stated that the pullback over the weekend was largely driven by risk aversion and does not indicate a weakening of Bitcoin's upward trend; further upside potential remains Market data shows that Bitcoin ell from $78,360 to $73,600 over the weekend, a drop of approximately 6%. However, support around $73,000 was subsequently confirmed, with the price rebounding to around $75,000 before continuing its upward trend. Michaël van de Poppe had previously listed the $73,000 area on his charts as a "crucial zone that must be held," believing that this support had been confirmed by the market.
 
-4h ago
-
----
-
-**[Cold Wallet Upgrade Recommendation?](https://www.reddit.com/r/Bitcoin/comments/1ssas37/cold_wallet_upgrade_recommendation/)**
-
-Been using a ledger Nano X for a year now with a small position in BTC. As I transition a large percent of my portfolio into BTC, should I continue to use the Ledger or upgrade? Did some research into the company and came across the seed recovery. All the skepticism makes sense. I’ve been looking into getting a ColdCard MK5. The cybersecurity aspect being totally disconnected compared to the ledger seems very secure. Any recommendations?
-
-1h ago
+6h ago
 
 ---
 
@@ -161,7 +161,7 @@ Been using a ledger Nano X for a year now with a small position in BTC. As I tra
 
 The S&P 500 and Nasdaq gave back their early morning gains alongside BTC as markets digested the Fed Chair nominee's Senate confirmation hearing.
 
-CoinDesk • 8h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -173,31 +173,37 @@ Forbes • 1d ago
 
 ---
 
-**[Bitcoin Price (BTC) Rises on Optimism Over Trump’s Extended Iran Ceasefire](https://www.bloomberg.com/news/articles/2026-04-22/bitcoin-rises-on-optimism-over-trump-s-extended-iran-ceasefire)**
+**[Why these strategists say 45% of portfolios should be invested in gold, metals and bitcoin](https://www.marketwatch.com/story/why-these-strategists-say-45-of-portfolios-should-be-invested-in-gold-metals-and-bitcoin-1d6ae78f)**
 
-Bloomberg.com • 57m ago
-
----
-
-**[Chinese crypto tycoon eyes Hong Kong capital with bitcoin asset management push](https://www.tradingview.com/news/reuters.com,2026:newsml_L4N414162:0-chinese-crypto-tycoon-eyes-hong-kong-capital-with-bitcoin-asset-management-push/)**
-
-By Summer ZhenChinese crypto tycoon Li Lin plans to move a trading system and team from his family office to Hong Kong-listed Bitfire Group HKEX:1611, where he is the largest shareholder, in an effort to tap into demand for digital assets among investors and institutions.Bitfire, a wealth-managemen…
-
-TradingView • 1h ago
+MarketWatch • 27m ago
 
 ---
 
-**[Chinese crypto tycoon eyes Hong Kong capital with bitcoin asset management push](https://finance.yahoo.com/markets/crypto/articles/chinese-crypto-tycoon-eyes-hong-041130622.html)**
+**[Bitcoin’s Record Miner Sell-Off Casts Shadow Over Ceasefire-Fueled Rebound](https://www.tradingview.com/news/newsbtc:3c6f25524094b:0-bitcoin-s-record-miner-sell-off-casts-shadow-over-ceasefire-fueled-rebound/)**
 
-Chinese crypto tycoon Li Lin plans to move a trading system and team from his family office ‌to Hong Kong-listed Bitfire Group, where he is the largest shareholder, in ‌an effort to tap into demand for digital assets among investors and institutions.  Bitfire, a wealth-management firm, on ​Wednesday said it had agreed to buy the investment team and trading systems of Avenir Group, Li's family office, for $1.6 million.  Cryptocurrency trading has ⁠been banned in mainland China since 2021, while Hong Kong is striving to become a virtual asset hub.
+Bitcoin miners dumped a record 40,000 BTC in the first quarter of this year — more than the entirety of 2025 combined and well above the 20,000 BTC sold in the panic following the Terra collapse in mid-2022. That number sits quietly beneath the surface of what otherwise looks like a recovering mark…
+
+TradingView • 2h ago
+
+---
+
+**[Grayscale Research Predicts Bitcoin Price Has Bottomed for Early Bull Market](https://finance.yahoo.com/markets/crypto/articles/grayscale-research-predicts-bitcoin-price-062646171.html)**
+
+Bitcoin price has already formed a durable market bottom to set the stage for the early bull market phase, as per Grayscale Research head and former Goldman Sachs macro strategist. On-chain data flashes bullish signals for further upside momentum. BTC hits a 3-month high of $78,417 today as oil prices slip back under $90 per
 
 Yahoo Finance • 1h ago
 
 ---
 
+**[Bitcoin Price (BTC) Rises on Optimism Over Trump’s Extended Iran Ceasefire](https://www.bloomberg.com/news/articles/2026-04-22/bitcoin-rises-on-optimism-over-trump-s-extended-iran-ceasefire)**
+
+Bloomberg.com • 3h ago
+
+---
+
 **[Strategy Interest Costs Jump On Biggest Bitcoin Buy Since 2024](https://www.investors.com/news/mstr-stock-strategy-interest-costs-jump-bitcoin-price-biggest-buy-since-2024/)**
 
-Investor's Business Daily • 12h ago
+Investor's Business Daily • 14h ago
 
 ---
 
@@ -205,7 +211,7 @@ Investor's Business Daily • 12h ago
 
 Onramp launched a unified platform today combining cash management, bitcoin services, and gold ownership into a single account aimed at long-term wealth building.
 
-Bitcoin Magazine • 17h ago
+Bitcoin Magazine • 19h ago
 
 ---
 
@@ -217,19 +223,9 @@ Fox Business • 1d ago
 
 ---
 
-**[Coinbase vs. Bitcoin: Why the Crypto Stock Is a Better Buy](https://www.fool.com/investing/2026/04/21/coinbase-vs-bitcoin-why-the-crypto-stock-is-a-bett/)**
+**[Chinese crypto tycoon eyes Hong Kong capital with bitcoin asset management push](https://www.reuters.com/world/asia-pacific/chinese-crypto-tycoon-eyes-hong-kong-capital-with-bitcoin-asset-management-push-2026-04-22/)**
 
-Increased blockchain adoption could help Coinbase more than Bitcoin.
-
-The Motley Fool • 2h ago
-
----
-
-**[Analysts: Bitcoin Short Squeeze Setup at $78K](https://bitbo.io/news/bitcoin-short-squeeze-78k/)**
-
-Analysts say bitcoin's rare combination of negative funding rates alongside rising price signals a short squeeze is building, with targets near $85,000.
-
-Bitbo • 11h ago
+Reuters • 3h ago
 
 ---
 
@@ -323,7 +319,7 @@ Bitcoin is in a bull market right now. Anthony Pompliano breaks down the data �
 
 📺 Anthony Pompliano
 
-👁️ 30K • 👍 2K • 💬 61 • ⏱️ 16:35 • 9h ago
+👁️ 36K • 👍 2K • 💬 61 • ⏱️ 16:35 • 11h ago
 
 ---
 
@@ -333,7 +329,7 @@ Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=Al
 
 📺 Altcoin Daily
 
-👁️ 24K • 👍 2K • 💬 165 • ⏱️ 12:24 • 7h ago
+👁️ 31K • 👍 2K • 💬 172 • ⏱️ 12:24 • 9h ago
 
 ---
 
@@ -343,47 +339,17 @@ A major bank CEO just warned of a looming crash, while Wall Street quietly pivot
 
 📺 Simply Bitcoin
 
-👁️ 15K • 👍 1K • 💬 63 • ⏱️ 14:37 • 7h ago
+👁️ 18K • 👍 1K • 💬 66 • ⏱️ 14:37 • 9h ago
 
 ---
 
-**[BITCOIN HITTING $80K? Crypto Charts Point to ONE Final Move! (BTC, ETH, SOL, XRP)](https://www.youtube.com/watch?v=beQX0FF7nT4)**
+**[CEASEFIRE EXTENSION: Will Bitcoin Hit $85,000 next?](https://www.youtube.com/watch?v=NbI87-YTkrA)**
 
-The charts are in charge, folks. In today's video, we strip away the emotion and look strictly at the technicals for Bitcoin (BTC), ...
+According to Donald Trump the ceasefire has been extended indefinitely, is this enough to get Bitcoin lit up and roaring to $85000 ...
 
-📺 Gareth Soloway
+📺 Crypto Banter
 
-👁️ 43K • 👍 3K • 💬 184 • ⏱️ 9:18 • 18h ago
-
----
-
-**[BITCOIN HISTORY WILL REPEAT... *my new $6m trade*](https://www.youtube.com/watch?v=NnFStjhfMnY)**
-
-WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25% FEE DISCOUNT & GET FREE $25 ...
-
-📺 Crypto Rover
-
-👁️ 2K • 👍 208 • 💬 11 • ⏱️ 8:42 • 1h ago
-
----
-
-**[Bitcoin Rallies to the Bear Market Resistance Band](https://www.youtube.com/watch?v=tZ05ZUlaO8w)**
-
-Bitcoin has rallied back into a key technical area, the Bear Market Resistance Band, formed by the 20-week SMA and 21-week ...
-
-📺 Benjamin Cowen
-
-👁️ 96K • 👍 6K • 💬 205 • ⏱️ 11:41 • 2d ago
-
----
-
-**[Bitcoin Holders.. The Bubble Is About To Pop](https://www.youtube.com/watch?v=RWY3g_qRkV4)**
-
-Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=AltcoinDaily BTC Conference 2026 ...
-
-📺 Altcoin Daily
-
-👁️ 50K • 👍 2K • 💬 175 • ⏱️ 8:27 • 2d ago
+👁️ 3K • 👍 371 • 💬 6 • ⏱️ 25:19 • 39m ago
 
 ---
 
@@ -393,7 +359,17 @@ Bitcoin #Crypto #Finance Bitcoin continues to outperform through chaos—war, ba
 
 📺 The Wolf Of All Streets
 
-👁️ 9K • 👍 433 • 💬 129 • ⏱️ 57:38 • 15h ago
+👁️ 9K • 👍 436 • 💬 129 • ⏱️ 57:38 • 17h ago
+
+---
+
+**[BITCOIN HITTING $80K? Crypto Charts Point to ONE Final Move! (BTC, ETH, SOL, XRP)](https://www.youtube.com/watch?v=beQX0FF7nT4)**
+
+The charts are in charge, folks. In today's video, we strip away the emotion and look strictly at the technicals for Bitcoin (BTC), ...
+
+📺 Gareth Soloway
+
+👁️ 44K • 👍 3K • 💬 157 • ⏱️ 9:18 • 20h ago
 
 ---
 
@@ -403,17 +379,35 @@ Everyone is Wrong about Bitcoin Big picture for bitcoin Most can't see what's co
 
 📺 Camel Finance
 
-👁️ 12K • 👍 856 • 💬 150 • ⏱️ 22:37 • 20h ago
+👁️ 12K • 👍 866 • 💬 156 • ⏱️ 22:37 • 22h ago
 
 ---
 
-**[This Data Says Bitcoin Is About To Explode | Are You Ready?](https://www.youtube.com/watch?v=c3t4CHROkg8)**
+**[Is Bitcoin About To Explode?](https://www.youtube.com/watch?v=6DMAhWqR9B0)**
 
-Big money is quietly moving into Bitcoin and the signals are getting louder. From politicians stacking BTC to Wall Street stepping ...
+Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clashpicks.com/ **Exchange Partners** ...
 
-📺 Simply Bitcoin
+📺 CryptosRus Extra
 
-👁️ 32K • 👍 2K • 💬 146 • ⏱️ 12:00 • 2d ago
+👁️ 5K • 👍 288 • 💬 92 • ⏱️ 8:28 • 1d ago
+
+---
+
+**[Bitcoin Rallies to the Bear Market Resistance Band](https://www.youtube.com/watch?v=tZ05ZUlaO8w)**
+
+Bitcoin has rallied back into a key technical area, the Bear Market Resistance Band, formed by the 20-week SMA and 21-week ...
+
+📺 Benjamin Cowen
+
+👁️ 97K • 👍 6K • 💬 205 • ⏱️ 11:41 • 2d ago
+
+---
+
+**[Why not send more bitcoin in the Nancy Guthrie case?](https://www.youtube.com/watch?v=q-vDfjbMKrM)**
+
+📺 Brian Entin
+
+👁️ 98K • 👍 8K • 💬 541 • ⏱️ 2:04 • 16h ago
 
 ---
 

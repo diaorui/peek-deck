@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-22T06:00:40.396925+00:00'
+updated: '2026-04-22T08:03:17.197836+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
 - videos
 - social
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 22, 2026 at 06:00 UTC  
+**Last Updated:** April 22, 2026 at 08:03 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +3.3%  
+**24h:** +2.9%  
 **7d:** +2.0%  
-**30d:** +11.2%  
-**90d:** -19.0%  
-**1y:** +33.4%  
+**30d:** +11.1%  
+**90d:** -19.1%  
+**1y:** +33.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $289.94B
+**Market Cap:** $288.55B
 Rank #2
 
 **Circulating Supply:** 120,689,893 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--51.5%
+-51.7%
 
 **All-Time Low:** $0.43
-+553859.9%
++552093.1%
 
 ---
 
@@ -72,13 +72,19 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-59m ago
+3h ago
 
 ---
 
 **[Arbitrum freezing $71M in ETH tied to Kelp DAO is a reminder that “decentralized” doesn’t always mean unstoppable](https://www.reddit.com/r/ethereum/comments/1srv422/arbitrum_freezing_71m_in_eth_tied_to_kelp_dao_is/)**
 
-🔗 [websnack.org](https://websnack.org/news/arbitrum-freezes-71m-eth-kelp-dao-apr-2026) • 12h ago
+🔗 [websnack.org](https://websnack.org/news/arbitrum-freezes-71m-eth-kelp-dao-apr-2026) • 14h ago
+
+---
+
+**[Need some suggestions.](https://www.reddit.com/r/ethereum/comments/1sse02k/need_some_suggestions/)**
+
+58m ago
 
 ---
 
@@ -136,14 +142,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Ethereum Opening a Real Physical Hub in Hong Kong Feels Bigger Than It Sounds](https://www.reddit.com/r/ethereum/comments/1spo0jw/ethereum_opening_a_real_physical_hub_in_hong_kong/)**
-
-Feels kinda bigger than a normal crypto meetup tbh Ethereum getting a real physical hub in Hong Kong with Foundation backing sounds like a sign the ecosystem is trying to build something more lasting than just online hype and conference cycles Hong Kong is also a pretty smart place for it if the goal is to connect builders, institutions and actual adoption in Asia Do you guys think this stuff actually matters for Ethereum long term, or is it mostly optics? https://btcusa.com/ethereum-foundation-backs-asias-first-physical-ethereum-hub-in-hong-kong-as-institutional-web3-race-intensifies/
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -152,29 +150,7 @@ Feels kinda bigger than a normal crypto meetup tbh Ethereum getting a real physi
 
 Advisory council says validator signatures and wallet cryptography could be vulnerable if future quantum computers break current encryption.
 
-Decrypt • 8h ago
-
----
-
-**[Ethereum Sees First SuperTrend Bullish Flip In Over A Year](https://www.tradingview.com/news/newsbtc:1231d2aa3094b:0-ethereum-sees-first-supertrend-bullish-flip-in-over-a-year/)**
-
-A cryptocurrency analyst has highlighted how the SuperTrend for the daily Ethereum price has seen its first bullish flip in over a year.Ethereum SuperTrend Is Now Giving A Buy SignalIn a new post on X, analyst Ali Martinez has discussed the latest development in the SuperTrend of Ethereum. The “Sup…
-
-TradingView • 2h ago
-
----
-
-**[Ethereum's Meme Season Is Back](https://www.moomoo.com/news/post/68656369/ethereum-s-meme-season-is-back)**
-
-Moomoo • 1h ago
-
----
-
-**[Etherealize updates long-term ETH price prediction to $250,000](https://www.theblock.co/post/398372/etherealize-updates-long-term-eth-price-prediction-250000)**
-
-ETH would trade above $250,000 if Ethereum can capture the same monetary premium as bitcoin and gold carry as stores-of-value.
-
-The Block • 9h ago
+Decrypt • 10h ago
 
 ---
 
@@ -182,7 +158,7 @@ The Block • 9h ago
 
 BitMine Immersion Technologies, Inc. (NYSE:BMNR) is one of the best Ethereum stocks to buy now. On April 13, BitMine Immersion Technologies, Inc. (NYSE:BMNR) announced that its Ethereum holdings had reached 4,874,858 ETH. The company valued the tokens at about $10.7 billion at a price of $2,206 per token, and said that its combined crypto, cash, […]
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 21h ago
 
 ---
 
@@ -190,7 +166,15 @@ Yahoo Finance • 19h ago
 
 Ethereum offers more stable returns with clearer long-term catalysts.
 
-The Motley Fool • 13h ago
+The Motley Fool • 15h ago
+
+---
+
+**[Ethereum Sees First SuperTrend Bullish Flip In Over A Year](https://www.tradingview.com/news/newsbtc:1231d2aa3094b:0-ethereum-sees-first-supertrend-bullish-flip-in-over-a-year/)**
+
+A cryptocurrency analyst has highlighted how the SuperTrend for the daily Ethereum price has seen its first bullish flip in over a year.Ethereum SuperTrend Is Now Giving A Buy SignalIn a new post on X, analyst Ali Martinez has discussed the latest development in the SuperTrend of Ethereum. The “Sup…
+
+TradingView • 4h ago
 
 ---
 
@@ -206,13 +190,7 @@ thestreet.com • 2d ago
 
 MONACO, April  21, 2026  (GLOBE NEWSWIRE) -- AlphaPepe has sold out Stage 13 and opened Stage 14 at $0.01524, pushing the presale into its next pr...
 
-markets.businessinsider.com • 4h ago
-
----
-
-**[Large cryptocurrencies mixed as Ethereum falls](https://www.marketwatch.com/data-news/large-cryptocurrencies-mixed-as-ethereum-falls-ad4f1e91-faec5d5fd43e)**
-
-MarketWatch • 16h ago
+markets.businessinsider.com • 6h ago
 
 ---
 
@@ -220,7 +198,29 @@ MarketWatch • 16h ago
 
 Ethereum markets are shaken by rising energy costs from the US-Iran conflict. Ethereum priced between $2,200-$2,300 on April 13 at 100% YES.
 
-Crypto Briefing • 11h ago
+Crypto Briefing • 13h ago
+
+---
+
+**[Large cryptocurrencies mixed as Ethereum falls](https://www.marketwatch.com/data-news/large-cryptocurrencies-mixed-as-ethereum-falls-ad4f1e91-faec5d5fd43e)**
+
+MarketWatch • 18h ago
+
+---
+
+**[Current price of Ethereum for April 21, 2026](https://fortune.com/article/price-of-ethereum-04-21-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 19h ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC holds steady, ETH tests support, XRP weakens amid renewed US–Iran Strait of Hormuz tensions](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-holds-steady-eth-tests-support-xrp-weakens-amid-renewed-us-iran-strait-of-hormuz-tensions-202604200339)**
+
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) surged more than 4%, 3% and 5% in the previous week.
+
+FXStreet • 2d ago
 
 ---
 
@@ -234,7 +234,7 @@ See exactly what top investors are trading in real time: try Milk Road Pro for j
 
 📺 Milk Road
 
-👁️ 3K • 👍 119 • 💬 37 • ⏱️ 36:12 • 11h ago
+👁️ 3K • 👍 133 • 💬 38 • ⏱️ 36:12 • 13h ago
 
 ---
 
@@ -244,7 +244,7 @@ The next 48 hours will be the deciding force for crypto, bitcoin and ethereum as
 
 📺 Thomas Kralow
 
-👁️ 13K • 👍 2K • 💬 37 • ⏱️ 12:02 • 18h ago
+👁️ 13K • 👍 2K • 💬 37 • ⏱️ 12:02 • 20h ago
 
 ---
 
@@ -254,7 +254,7 @@ Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Zoomex - https://
 
 📺 Discover Crypto
 
-👁️ 2K • 👍 133 • 💬 23 • ⏱️ 10:42 • 7h ago
+👁️ 3K • 👍 144 • 💬 25 • ⏱️ 10:42 • 9h ago
 
 ---
 
@@ -264,7 +264,7 @@ Follow me on X: @kross_roads 15% Off Fiscal.ai Plans! Unlock institutional-grade
 
 📺 Crossroads
 
-👁️ 5K • 👍 233 • 💬 53 • ⏱️ 13:21 • 15h ago
+👁️ 5K • 👍 248 • 💬 55 • ⏱️ 13:21 • 17h ago
 
 ---
 
@@ -274,17 +274,17 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 6K • 👍 299 • 💬 69 • ⏱️ 1:24:23 • 18h ago
+👁️ 6K • 👍 305 • 💬 69 • ⏱️ 1:24:23 • 20h ago
 
 ---
 
-**[These Ethereum Meme Coins Are About To EXPLODE. Here&#39;s Why!](https://www.youtube.com/watch?v=3iwNEHMnhgg)**
+**[Ethereum Holders - Its Happening Right Now](https://www.youtube.com/watch?v=89b-4Fa-Kj8)**
 
-THE BEST OF THE BEST THE TOP OF THE TOP, PERIOD. OMIKAMI & RYUJIN FOR EVER.
+Welcome Back To The Channel! ✔️ https://tylerhill.pro/Fortisx42026 ✔️ Deposit from $100: Get a 1% bonus ✔️ Withdraw ...
 
-📺 Lamedo
+📺 Tyler Hill Crypto
 
-👁️ 293 • 👍 46 • 💬 21 • ⏱️ 20:16 • 4h ago
+👁️ 5K • 👍 224 • 💬 37 • ⏱️ 10:29 • 1d ago
 
 ---
 
@@ -298,23 +298,23 @@ Its a video about bitcoin, ethereum, crypto in general. But its quite an unusual
 
 ---
 
-**[Ethereum Holders - Its Happening Right Now](https://www.youtube.com/watch?v=89b-4Fa-Kj8)**
+**[These Ethereum Meme Coins Are About To EXPLODE. Here&#39;s Why!](https://www.youtube.com/watch?v=3iwNEHMnhgg)**
 
-Welcome Back To The Channel! ✔️ https://tylerhill.pro/Fortisx42026 ✔️ Deposit from $100: Get a 1% bonus ✔️ Withdraw ...
+THE BEST OF THE BEST THE TOP OF THE TOP, PERIOD. OMIKAMI & RYUJIN FOR EVER.
 
-📺 Tyler Hill Crypto
+📺 Lamedo
 
-👁️ 5K • 👍 224 • 💬 36 • ⏱️ 10:29 • 1d ago
+👁️ 390 • 👍 57 • 💬 22 • ⏱️ 20:16 • 6h ago
 
 ---
 
-**[This Hack Just Broke DeFi… And Exposed Everything](https://www.youtube.com/watch?v=hV7JuhA3_Y4)**
+**[This Just Broke Ethereum](https://www.youtube.com/watch?v=QU4j7T3Tkyc)**
 
-In less than 24 hours, DeFi was rocked by its largest hack of 2026: the Kelp DAO exploit. Using a fatal flaw in a LayerZero bridge, ...
+The "Ethereum is Dead" narrative is back, and this time, the numbers actually look scary. While Bitcoin hits new highs and Solana ...
 
-📺 Coin Bureau
+📺 Discover Crypto
 
-👁️ 99K • 👍 3K • 💬 452 • ⏱️ 15:06 • 1d ago
+👁️ 7K • 👍 407 • 💬 20 • ⏱️ 58:47 • 1d ago
 
 ---
 
@@ -324,7 +324,7 @@ IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purp
 
 📺 The Kenzo Guy
 
-👁️ 713 • 👍 26 • 💬 2 • ⏱️ 27:19 • 8h ago
+👁️ 791 • 👍 28 • 💬 2 • ⏱️ 27:19 • 10h ago
 
 ---
 
