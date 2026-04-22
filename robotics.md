@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-22T15:51:10.926971+00:00'
+updated: '2026-04-22T17:02:53.191718+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 22, 2026 at 15:51 UTC  
+**Last Updated:** April 22, 2026 at 17:02 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 We've been optimizing the hardware over the last few weeks. Today we tested the new policy on the updated hardware. It works way better! The sim2real transfer improved. We're open-sourcing the full mechanical design in a few days so you can source the parts yourself or pre-order the DIY kit at cost. Full specs & build guide: https://manual.asimov.inc/v1
 
-2h ago
+3h ago
 
 ---
 
@@ -44,7 +44,7 @@ We've been optimizing the hardware over the last few weeks. Today we tested the 
 
 Was working on my routine tinkering without a specific objective or idea. And this motion object came up. Does it resemble with anything? what would you call to such motion? where can it be helpful? Your inputs may help fine tune and turn it into something useful.
 
-7h ago
+8h ago
 
 ---
 
@@ -52,7 +52,7 @@ Was working on my routine tinkering without a specific objective or idea. And th
 
 I’ve finished assembling the abdomen, completing the upper body structure. More in depth video is coming soon on youtube diy.mrbuilder
 
-3h ago
+4h ago
 
 ---
 
@@ -60,7 +60,13 @@ I’ve finished assembling the abdomen, completing the upper body structure. Mor
 
 I buy both the HM-D20 and UM960 quadrifilar helix modules for testing, aiming to determine which one could help my drone achieve precise positioning. After testing, I found that both modules deliver comparable performance. Has anyone conducted more extensive tests? I'd appreciate it if you could share your findings with me.
 
-36m ago
+1h ago
+
+---
+
+**[Unitree robot just unlocked ballet mode](https://www.reddit.com/r/robotics/comments/1ssqud8/unitree_robot_just_unlocked_ballet_mode/)**
+
+22m ago
 
 ---
 
@@ -84,7 +90,7 @@ CNBC dropped a piece today worth reading. Chinese startups took the top 6 spots 
 
 built a utility where you drop in a urdf (the robot's blueprint) and it generates a full leader for it. cad to print, motor placements, control code, all of it. kinematics stay identical just scaled down, so teleop works out of the box. motor placement is mostly solved with heuristics. routing links between them is still the hard part. https://x.com/pbshgthm/status/2046566239422853363 planning to make it lerobot compatible, so this can be used as a leader arm when printed out for any embodiment would love to know thoughts
 
-23h ago
+1d ago
 
 ---
 
@@ -92,7 +98,7 @@ built a utility where you drop in a urdf (the robot's blueprint) and it generate
 
 Do you keep a clean record of the licenses and provenance for the code, weights, datasets, and runtime pieces that end up in your stack? When it is time to deploy or ship, do you have a reliable way to tell whether everything is compliant, or is that still mostly manual? Do you review all the license?
 
-50m ago
+2h ago
 
 ---
 
@@ -100,15 +106,7 @@ Do you keep a clean record of the licenses and provenance for the code, weights,
 
 I’m currently knee-deep in a 24-axis robotics project with some brutal space constraints. We’re using Elmo Motion Control drives because, honestly, I haven't found anything else that packs this much power into such a small footprint. The EtherCAT synchronization has been rock solid so far, even as we scale up. I was just wondering how others are finding the integration process when the machine architecture is this tight. Does the "set it and forget it" reliability hold up for you in the field?
 
-12h ago
-
----
-
-**[I build Four-legged robot by Carbon Fiber sheet frame mix with 3D-printable frame](https://www.reddit.com/r/robotics/comments/1srltxt/i_build_fourlegged_robot_by_carbon_fiber_sheet/)**
-
-Hello everyone! I've successfully completed my Hobby RC four-legged robot model. The goal was to create a 3D-printable frame using carbon fiber and aluminum, capable of carrying a Raspberry Pi. It's now complete and running well. I'm happy to share this achievement with anyone passionate about Robotics Hobbies, and STEM. Thanks for watching
-
-1d ago
+13h ago
 
 ---
 
@@ -136,7 +134,7 @@ TechCrunch • 2d ago
 
 The robots are coming. Will they be built in America?
 
-The Washington Post • 23h ago
+The Washington Post • 1d ago
 
 ---
 
@@ -148,19 +146,19 @@ HII • 1d ago
 
 ---
 
+**[AI-powered robot beats elite table tennis players](https://www.theguardian.com/science/2026/apr/22/ai-powered-robot-beats-elite-table-tennis-players-milestone-robotics)**
+
+In feat hailed as milestone in robotics, Sony AI’s Ace wins three out of five matches played under official rules
+
+The Guardian • 1h ago
+
+---
+
 **[IDF escalates use of robots in Lebanon to target Hezbollah infrastructure](https://www.jpost.com/defense-and-tech/article-893843)**
 
 The IDF has ramped up its use of robots in warfare against Hezbollah in Bint Jbail, accelerating the destruction of weapons infrastructure as military operations intensify.
 
-The Jerusalem Post • 2h ago
-
----
-
-**[Findlay Schools names new principals, Millstream director](https://thecourier.com/news/899207/findlay-schools-names-new-principals-millstream-director/)**
-
-Also hears robotics presentation
-
-Findlay News | The Courier • 3h ago
+The Jerusalem Post • 4h ago
 
 ---
 
@@ -180,19 +178,19 @@ CNBC • 1d ago
 
 ---
 
-**[Cedarburg High School's Robotics team wins FIRST Wisconsin District Champions](https://www.tmj4.com/news/local-news/in-your-community/ozaukee-county/cedarburg-high-schools-robotics-team-wins-first-wisconsin-district-champions)**
+**[Elon Musk Says AI And Robotics Will Change Everything: 'Everyone Can Have A Penthouse If They Want'](https://finance.yahoo.com/sectors/technology/articles/elon-musk-says-ai-robotics-154608983.html)**
 
-Cedarburg High School's Robotics team is the 2026 FIRST Wisconsin District Champions and will be moving on to represent Wisconsin at the World Championship in Houston, Texas, on April 29th.
+Tesla (NASDAQ:TSLA) CEO Elon Musk is making a bold case for a future where artificial intelligence doesn't just improve the economy, but completely reshapes it to the point where even luxury living, like penthouses, could become widely accessible. In a...
 
-TMJ4 News • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Faraday Future Partners with U.S. Education Institution Triple I to Launch the EAI Robotics Summer Camp in the United States, Advancing “Robot & Vehicle + Education” Scenario Deployment](https://investors.ff.com/news-releases/news-release-details/faraday-future-partners-us-education-institution-triple-i-launch)**
+**[Findlay Schools names new principals, Millstream director](https://thecourier.com/news/899207/findlay-schools-names-new-principals-millstream-director/)**
 
-This marks FF's first strategic partnership with an education institution since entering the EAI Robotics business, marking a new milestone in building the leading scaled Embodied AI (EAI) education system in the U.S. On April 18, FF and Triple I jointly hosted the “AI Robotics Education and Summer
+Also hears robotics presentation
 
-Faraday Future • 1d ago
+Findlay News | The Courier • 5h ago
 
 ---
 
@@ -206,7 +204,7 @@ AGIBOT just rolled out a full new wave of humanoid robots and AI models built fo
 
 📺 AI Revolution
 
-👁️ 25K • 👍 708 • 💬 45 • ⏱️ 16:29 • 1d ago
+👁️ 26K • 👍 721 • 💬 46 • ⏱️ 16:29 • 1d ago
 
 ---
 
@@ -216,7 +214,7 @@ A humanoid robot has beaten the human record for the world's fastest half-marath
 
 📺 ABC News (Australia)
 
-👁️ 84K • 👍 591 • ⏱️ 6:44 • 2d ago
+👁️ 86K • 👍 595 • ⏱️ 6:44 • 2d ago
 
 ---
 
@@ -226,7 +224,17 @@ AI robots failing and glitching 2026 is becoming impossible to ignore. From huma
 
 📺 MindSeeded
 
-👁️ 245K • 👍 14K • 💬 2K • ⏱️ 14:10 • 4d ago
+👁️ 253K • 👍 15K • 💬 2K • ⏱️ 14:10 • 4d ago
+
+---
+
+**[50 Minutes: How China&#39;s Robot Destroyed the Half Marathon Record](https://www.youtube.com/watch?v=pH8tVBqCRLY)**
+
+In Beijing, a humanoid robot just completed a 21-kilometer half-marathon in an astonishing 50 minutes and 26 seconds, marking ...
+
+📺 Capital Markets AI
+
+👁️ 28K • 👍 554 • 💬 129 • ⏱️ 8:58 • 3d ago
 
 ---
 
@@ -240,31 +248,23 @@ China just revealed an autonomous robot war pack built from dog bots, drones, la
 
 ---
 
-**[50 Minutes: How China&#39;s Robot Destroyed the Half Marathon Record](https://www.youtube.com/watch?v=pH8tVBqCRLY)**
+**[Humans far behind as robot breaks record at Beijing half marathon • FRANCE 24 English](https://www.youtube.com/watch?v=tiesaq_GqwI)**
 
-In Beijing, a humanoid robot just completed a 21-kilometer half-marathon in an astonishing 50 minutes and 26 seconds, marking ...
+A humanoid robot competing against flesh-and-blood runners broke the world record at a Beijing half marathon on Sunday, ...
 
-📺 Capital Markets AI
+📺 FRANCE 24 English
 
-👁️ 28K • 👍 545 • 💬 128 • ⏱️ 8:58 • 3d ago
-
----
-
-**[Moment marathon-running robot shatters after tripping as medical team rush over with stretcher](https://www.youtube.com/watch?v=f5NjB-YQGW8)**
-
-This is the shocking moment a marathon-running robot smashed into pieces after tripping Continue reading: Hilarious moment ...
-
-📺 The Sun
-
-👁️ 182K • 👍 2K • 💬 1K • ⏱️ 2:06 • 5d ago
+👁️ 79K • 👍 606 • 💬 310 • ⏱️ 1:40 • 3d ago
 
 ---
 
-**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=KKtpgEOPH3I)**
+**[Humanoid Robot ‘Lightning’ Breaks World Record For A Half-marathon](https://www.youtube.com/watch?v=4i4EglunAag)**
 
-📺 Robot Julie 
+Robots have outpaced human runners at this year's Beijing half-marathon, finishing more than 10 minutes ahead of the top ...
 
-👁️ 5K • 👍 37 • 💬 2 • ⏱️ 0:24 • 15h ago
+📺 New York Post
+
+👁️ 75K • 👍 692 • 💬 431 • ⏱️ 3:17 • 3d ago
 
 ---
 
@@ -274,7 +274,7 @@ The winner from Honor, a Chinese smartphone maker, completed the 21-kilometer (1
 
 📺 Associated Press
 
-👁️ 72K • 👍 330 • 💬 151 • ⏱️ 0:54 • 3d ago
+👁️ 72K • 👍 331 • 💬 151 • ⏱️ 0:54 • 3d ago
 
 ---
 
@@ -282,17 +282,17 @@ The winner from Honor, a Chinese smartphone maker, completed the 21-kilometer (1
 
 📺 Robot Julie 
 
-👁️ 28K • 👍 133 • 💬 8 • ⏱️ 0:21 • 2d ago
+👁️ 28K • 👍 134 • 💬 8 • ⏱️ 0:21 • 2d ago
 
 ---
 
-**[Humans far behind as robot breaks record at Beijing half marathon • FRANCE 24 English](https://www.youtube.com/watch?v=tiesaq_GqwI)**
+**[Humanoid Robots Outperform Humans During Beijing Half-Marathon](https://www.youtube.com/watch?v=6WwVXz8Tc0Y)**
 
-A humanoid robot competing against flesh-and-blood runners broke the world record at a Beijing half marathon on Sunday, ...
+Several Chinese-made humanoid robots showed off their speed and athleticism at a recent half-marathon in Beijing. This is the ...
 
-📺 FRANCE 24 English
+📺 Inside Edition
 
-👁️ 79K • 👍 606 • 💬 310 • ⏱️ 1:40 • 3d ago
+👁️ 13K • 👍 333 • 💬 77 • ⏱️ 1:14 • 1d ago
 
 ---
 
