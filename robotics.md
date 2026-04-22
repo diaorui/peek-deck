@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-22T17:02:53.191718+00:00'
+updated: '2026-04-22T18:38:12.432552+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 22, 2026 at 17:02 UTC  
+**Last Updated:** April 22, 2026 at 18:38 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,13 @@ Robotics research and industry news
 
 We've been optimizing the hardware over the last few weeks. Today we tested the new policy on the updated hardware. It works way better! The sim2real transfer improved. We're open-sourcing the full mechanical design in a few days so you can source the parts yourself or pre-order the DIY kit at cost. Full specs & build guide: https://manual.asimov.inc/v1
 
-3h ago
+5h ago
+
+---
+
+**[Unitree robot just unlocked ballet mode](https://www.reddit.com/r/robotics/comments/1ssqud8/unitree_robot_just_unlocked_ballet_mode/)**
+
+1h ago
 
 ---
 
@@ -44,7 +50,7 @@ We've been optimizing the hardware over the last few weeks. Today we tested the 
 
 Was working on my routine tinkering without a specific objective or idea. And this motion object came up. Does it resemble with anything? what would you call to such motion? where can it be helpful? Your inputs may help fine tune and turn it into something useful.
 
-8h ago
+10h ago
 
 ---
 
@@ -52,7 +58,7 @@ Was working on my routine tinkering without a specific objective or idea. And th
 
 I’ve finished assembling the abdomen, completing the upper body structure. More in depth video is coming soon on youtube diy.mrbuilder
 
-4h ago
+6h ago
 
 ---
 
@@ -60,13 +66,15 @@ I’ve finished assembling the abdomen, completing the upper body structure. Mor
 
 I buy both the HM-D20 and UM960 quadrifilar helix modules for testing, aiming to determine which one could help my drone achieve precise positioning. After testing, I found that both modules deliver comparable performance. Has anyone conducted more extensive tests? I'd appreciate it if you could share your findings with me.
 
-1h ago
+3h ago
 
 ---
 
-**[Unitree robot just unlocked ballet mode](https://www.reddit.com/r/robotics/comments/1ssqud8/unitree_robot_just_unlocked_ballet_mode/)**
+**[Did anyone manage to make a robot that do something helpful?](https://www.reddit.com/r/robotics/comments/1sss212/did_anyone_manage_to_make_a_robot_that_do/)**
 
-22m ago
+I see robot makers who make prototypes or a proof of concept but not reliable enough to be used to help with daily tasks or even one task. I understand it is still an evolving technology but let me know if you really managed to make a robot reliable enough to help make your life easier.
+
+1h ago
 
 ---
 
@@ -86,27 +94,19 @@ CNBC dropped a piece today worth reading. Chinese startups took the top 6 spots 
 
 ---
 
+**[Robotics Startup CEO on the last 20 percent](https://www.reddit.com/r/robotics/comments/1sssm01/robotics_startup_ceo_on_the_last_20_percent/)**
+
+Bren Pierce, CEO of Kinisi Robotics, described a common pattern in robotics: most systems can reach about 80% of the way to working reliably, but the remaining 20% is still unresolved and not clearly understood. That final stretch is where systems have to deal with variability, edge cases, and real-world conditions that are difficult to predict or model. It is also where there is still no clear agreement on how to move forward. He talks about being at the Conference on Robot Learning (CoRL), and how researchers working across robotics and AI could not align on a single approach. Reinforcement learning, imitation learning, and the possibility of entirely new architectures are all still being debated, with no consensus on what will ultimately solve the problem.
+
+56m ago
+
+---
+
 **[Built a Utility : URDF to Leader arm](https://www.reddit.com/r/robotics/comments/1srsxcq/built_a_utility_urdf_to_leader_arm/)**
 
 built a utility where you drop in a urdf (the robot's blueprint) and it generates a full leader for it. cad to print, motor placements, control code, all of it. kinematics stay identical just scaled down, so teleop works out of the box. motor placement is mostly solved with heuristics. routing links between them is still the hard part. https://x.com/pbshgthm/status/2046566239422853363 planning to make it lerobot compatible, so this can be used as a leader arm when printed out for any embodiment would love to know thoughts
 
 1d ago
-
----
-
-**[How do you handle license compliance across your full robotics stack?](https://www.reddit.com/r/robotics/comments/1sso1sg/how_do_you_handle_license_compliance_across_your/)**
-
-Do you keep a clean record of the licenses and provenance for the code, weights, datasets, and runtime pieces that end up in your stack? When it is time to deploy or ship, do you have a reliable way to tell whether everything is compliant, or is that still mostly manual? Do you review all the license?
-
-2h ago
-
----
-
-**[Compact high-axis builds: Is anyone else using Elmo for the power density?](https://www.reddit.com/r/robotics/comments/1ssa7tt/compact_highaxis_builds_is_anyone_else_using_elmo/)**
-
-I’m currently knee-deep in a 24-axis robotics project with some brutal space constraints. We’re using Elmo Motion Control drives because, honestly, I haven't found anything else that packs this much power into such a small footprint. The EtherCAT synchronization has been rock solid so far, even as we scale up. I was just wondering how others are finding the integration process when the machine architecture is this tight. Does the "set it and forget it" reliability hold up for you in the field?
-
-13h ago
 
 ---
 
@@ -118,15 +118,15 @@ I’m currently knee-deep in a 24-axis robotics project with some brutal space c
 
 A robot, aptly named Lightning, has raced past his human competition at a running event in China's capital. Robotics expert Ravinder Dahiya explains what it means.
 
-dw.com • 2d ago
+DW.com • 2d ago
 
 ---
 
-**[Robots beat human records at Beijing half-marathon](https://techcrunch.com/2026/04/19/robots-beat-human-records-at-beijing-half-marathon/)**
+**[Humanoid robots race runners at Beijing half marathon](https://www.nbcnews.com/video/humanoid-robots-race-runners-at-beijing-half-marathon-261681221777)**
 
-The winning time is a massive improvement over last year’s race, when the fastest robot finished in two hours and 40 minutes.
+Robots raced against humans in Beijing’s half marathon and the machines made huge strides. It marks the second time that robots have shared the course with humans. NBC News’ Janis Mackey Frayer reports on who crossed the finish line first.
 
-TechCrunch • 2d ago
+NBC News • 2d ago
 
 ---
 
@@ -150,7 +150,21 @@ HII • 1d ago
 
 In feat hailed as milestone in robotics, Sony AI’s Ace wins three out of five matches played under official rules
 
-The Guardian • 1h ago
+The Guardian • 52m ago
+
+---
+
+**[The robot that can outplay elite table tennis players](https://news.sky.com/story/the-robot-that-can-outplay-elite-table-tennis-players-13535070)**
+
+Sky News • 27m ago
+
+---
+
+**[Watch an AI-powered table tennis robot beat elite players](https://www.livescience.com/technology/robotics/watch-an-ai-based-table-tennis-robot-beat-elite-players)**
+
+Using high-precision cameras and an AI system, Sony AI's Ace is revealing the advancements robotics.
+
+Live Science • 3h ago
 
 ---
 
@@ -158,7 +172,7 @@ The Guardian • 1h ago
 
 The IDF has ramped up its use of robots in warfare against Hezbollah in Bint Jbail, accelerating the destruction of weapons infrastructure as military operations intensify.
 
-The Jerusalem Post • 4h ago
+The Jerusalem Post • 5h ago
 
 ---
 
@@ -170,27 +184,11 @@ Forbes • 1d ago
 
 ---
 
-**[CNBC's The China Connection newsletter: China ships more humanoid robots than the U.S. as investors diverge on AI bets](https://www.cnbc.com/2026/04/21/china-humanoid-robots-us-investors.html)**
+**[Proposed Chinese Robot Ban Is Latest U.S. Tech Sovereignty Move](https://spectrum.ieee.org/chinese-robots-us-ban)**
 
-Chinese startups are churning out more humanoid robots than their U.S. rivals, despite far lower valuations.
+The catch: American robot makers still need Chinese-made components
 
-CNBC • 1d ago
-
----
-
-**[Elon Musk Says AI And Robotics Will Change Everything: 'Everyone Can Have A Penthouse If They Want'](https://finance.yahoo.com/sectors/technology/articles/elon-musk-says-ai-robotics-154608983.html)**
-
-Tesla (NASDAQ:TSLA) CEO Elon Musk is making a bold case for a future where artificial intelligence doesn't just improve the economy, but completely reshapes it to the point where even luxury living, like penthouses, could become widely accessible. In a...
-
-Yahoo Finance • 1d ago
-
----
-
-**[Findlay Schools names new principals, Millstream director](https://thecourier.com/news/899207/findlay-schools-names-new-principals-millstream-director/)**
-
-Also hears robotics presentation
-
-Findlay News | The Courier • 5h ago
+IEEE Spectrum • 6h ago
 
 ---
 

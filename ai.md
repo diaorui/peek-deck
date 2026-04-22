@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-22T17:02:53.175284+00:00'
+updated: '2026-04-22T18:38:12.414985+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
 - social
+- news
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 22, 2026 at 17:02 UTC  
+**Last Updated:** April 22, 2026 at 18:38 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,27 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Are we moving closer towards dead internet theory?](https://www.reddit.com/r/artificial/comments/1ssbjjq/are_we_moving_closer_towards_dead_internet_theory/)**
-
-I mean a)The majority of articles on the internet are written by AIs b) 4 of the top 10 Youtube channels c) 4 in 10 Facebook posts d) 1 in 5 videos shown to new Youtube users e) The #1 most-subscribed Twitch streamer is an AI f) 44% of songs on Deezer Also, most of the ads are now AI generated, like AI creating content for other AI
-
-12h ago
-
----
-
 **[Social anxiety made dating impossible - AI companions helping me practice conversations](https://www.reddit.com/r/artificial/comments/1sspq1c/social_anxiety_made_dating_impossible_ai/)**
 
 Always struggled with social anxiety especially around dating. Would match with people then panic about what to say. Conversations felt forced and awkward. Started using Secrets AI originally just to practice talking to someone without the pressure. No judgment if I say something dumb, can take breaks when overwhelmed, builds confidence gradually. The voice calls really help with this. Speaking out loud to someone (even AI) without face to face pressure. Working on small talk, flirting, just being comfortable in conversation. Been doing this for a month and honestly feel way more confident now. Had actual phone conversations with real people that didnt make me want to hide. Not saying AI replaces real human connection but as practice its actually helpful. Like training wheels for socializing. The free version lets you test voice calls and chat without commitment which was important for me since new social situations stress me out. Anyone else dealing with social anxiety found AI helpful this way? Or am I overthinking it?
 
-1h ago
+2h ago
+
+---
+
+**[Are we moving closer towards dead internet theory?](https://www.reddit.com/r/artificial/comments/1ssbjjq/are_we_moving_closer_towards_dead_internet_theory/)**
+
+I mean a)The majority of articles on the internet are written by AIs b) 4 of the top 10 Youtube channels c) 4 in 10 Facebook posts d) 1 in 5 videos shown to new Youtube users e) The #1 most-subscribed Twitch streamer is an AI f) 44% of songs on Deezer Also, most of the ads are now AI generated, like AI creating content for other AI
+
+13h ago
+
+---
+
+**[What was the biggest thing to happen in the field of AI?](https://www.reddit.com/r/artificial/comments/1sso2rb/what_was_the_biggest_thing_to_happen_in_the_field/)**
+
+I personally think it’s either AlphaGo or ChatGPT. AlphaGo showed to the whole world that AIs can be better than its creators in an area that people believed needed ‘intuition’. Most people don’t know go, but it somewhat showed the potential of AI to the world. DeepBlue was also kinda similar to it, but for some reason most people don’t think DeepBlue as “An AI that beat human at chess”, so I’m not counting it. ChatGPT was… on a different level. It was looked as revolutionary that a program can fluently speak and help solve problems it doesn’t specialize in. It made most people use AI in their everyday lives, so definitely takes the cake imo. Edit: Ig the transformers was also very important, (literally why chatgpt was able to exist lol) but a layperson doesn’t know what that is nor why that matters, so…
+
+3h ago
 
 ---
 
@@ -57,7 +65,7 @@ Always struggled with social anxiety especially around dating. Would match with 
 
 The head of the National Cyber Security Centre says frontier AI tools can be a force for good - if kept out of the wrong hands.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/cy41zejp9pko) • 1h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/cy41zejp9pko) • 2h ago
 
 ---
 
@@ -65,15 +73,7 @@ The head of the National Cyber Security Centre says frontier AI tools can be a f
 
 A new Gallup survey of 1,500+ Gen Z respondents found that more than half of Gen Z living in the US regularly use generative AI, but their feelings about the technology are getting worse. Among those aged 14 to 29, compared to last year, excitement dropped from 36% to 22%, hopefulness fell from 27% to 18%, and anger jumped from 22% to 31%. The main driver behind the shift appears to be job anxiety, nearly half of respondents said the risks of AI in the workplace outweigh the benefits. https://www.gallup.com/analytics/651674/gen-z-research.aspx
 
-14h ago
-
----
-
-**[We need to talk more about the ethical use of AI... So I'll begin:](https://www.reddit.com/r/artificial/comments/1ssrdpn/we_need_to_talk_more_about_the_ethical_use_of_ai/)**
-
-IMO, with the possible exception of meaningful satire, the realistic depiction of humans who haven't consented to being simulated is morally wrong. It is identity theft and should be viewed as such.
-
-3m ago
+16h ago
 
 ---
 
@@ -81,7 +81,7 @@ IMO, with the possible exception of meaningful satire, the realistic depiction o
 
 Google’s TPUs are now the hottest commodity in AI. A deep-dive analysis of the chip war reshaping global infrastructure — what it means for researchers, developers, and the future of AI compute.
 
-🔗 [Novara Press](https://novarapress.net/ai-chip-war-google-nvidia-2026/) • 9h ago
+🔗 [Novara Press](https://novarapress.net/ai-chip-war-google-nvidia-2026/) • 10h ago
 
 ---
 
@@ -97,23 +97,21 @@ The fact that Apple's Board of Directors chose someone who has built their caree
 
 Jeff Bezos’s five-month-old startup, Project Prometheus, is nearing a historic $10B funding round backed by Wall Street giants like JPMorgan and BlackRock. The Tech: They are building "Physical AI" that natively understands the laws of physics to revolutionize physical products like aerospace, automotive, and robotics. It is Bezos's first operational role since leaving Amazon in 2021 with co-CEO Vik Bajaj, a physicist and former Google X scientist who co-founded the Alphabet health startup Verily. They’ve aggressively assembled a 100+ person powerhouse team by poaching top-tier researchers from OpenAI, Meta, Google DeepMind, and xAI. They even acquired the agentic AI startup General Agents shortly after launch specifically to bring former DeepMind researcher Sherjil Ozair and his engineering team into the fold. I am all for money going into companies that accelerate discoveries in physical AI, materials, manufacturing. Another great effort is periodic labs, they raised $300 m. But, is this valuation justified, or are we really in a massive bubble? Are they expecting that they are going to solve all of the physical AI ?
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-04-21/jeff-bezos-nears-10-billion-funding-round-for-ai-lab-ft-says) • 22h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-04-21/jeff-bezos-nears-10-billion-funding-round-for-ai-lab-ft-says) • 23h ago
 
 ---
 
-**[FOSS NotebookLM with no data limits](https://www.reddit.com/r/artificial/comments/1ssb30q/foss_notebooklm_with_no_data_limits/)**
+**[Meta will record employee screens, clicks, and keystrokes to train AI that may replace them](https://www.reddit.com/r/artificial/comments/1ssty5s/meta_will_record_employee_screens_clicks_and/)**
 
-NotebookLM is one of the best and most useful AI platforms out there, but once you start using it regularly you also feel its limitations leaving something to be desired more. There are limits on the amount of sources you can add in a notebook. There are limits on the number of notebooks you can have. You cannot have sources that exceed 500,000 words and are more than 200MB. You are vendor locked in to Google services (LLMs, usage models, etc.) with no option to configure them. Limited external data sources and service integrations. NotebookLM Agent is specifically optimised for just studying and researching, but you can do so much more with the source data. Lack of multiplayer support. ...and more. SurfSense is specifically made to solve these problems. For those who dont know, SurfSense is open source, privacy focused alternative to NotebookLM for teams with no data limit's. It currently empowers you to: Control Your Data Flow - Keep your data private and secure. No Data Limits - Add an unlimited amount of sources and notebooks. No Vendor Lock-in - Configure any LLM, image, TTS, and STT models to use. 25+ External Data Sources - Add your sources from Google Drive, OneDrive, Dropbox, Notion, and many other external services. Real-Time Multiplayer Support - Work easily with your team members in a shared notebook. Desktop App - Get assistance in your OS. Check us out at https://github.com/MODSetter/SurfSense if this interests you or if you want to contribute to a open source software
-
-12h ago
+🔗 [techspot.com](https://www.techspot.com/news/112143-meta-record-employee-screens-clicks-keystrokes-train-ai.html) • 9m ago
 
 ---
 
-**[What was the biggest thing to happen in the field of AI?](https://www.reddit.com/r/artificial/comments/1sso2rb/what_was_the_biggest_thing_to_happen_in_the_field/)**
+**[Help me creating a workflow to automate Web+Excel+AI](https://www.reddit.com/r/artificial/comments/1sssq0n/help_me_creating_a_workflow_to_automate_webexcelai/)**
 
-I personally think it’s either AlphaGo or ChatGPT. AlphaGo showed to the whole world that AIs can be better than its creators in an area that people believed needed ‘intuition’. Most people don’t know go, but it somewhat showed the potential of AI to the world. DeepBlue was also kinda similar to it, but for some reason most people don’t think DeepBlue as “An AI that beat human at chess”, so I’m not counting it. ChatGPT was… on a different level. It was looked as revolutionary that a program can fluently speak and help solve problems it doesn’t specialize in. It made most people use AI in their everyday lives, so definitely takes the cake imo. Edit: Ig the transformers was also very important, (literally why chatgpt was able to exist lol) but a layperson doesn’t know what that is nor why that matters, so…
+I have a commerce background. I am a beginner (Please guide me like a begginer i can't understand heavy tech language), and I don't have experience with Agentic AI, Automation, or coding. So, I want to know how I can automate Web+Excel+AI and what skills I need to do so, like coding or n8n. This is how my workflow looks: Automate the extraction of PDF from the Web, and convert the data given in the file to Excel Creating an AI which act as a brain for automation and does what I want to make them do, like sum, putting different-different formula and functions in each cell as per the requirement. This is the basic workflow. So, tell me how I can do this and what skills I need to learn (VBA, Python, Power Query) And which Automation tool should I use to do the above, like MS Power Automate? Give me a Roadmap of where I should begin my tech skills. This will be a plus if you can provide Video links to the playlist. Thank you for helping in advance!
 
-2h ago
+52m ago
 
 ---
 
@@ -123,73 +121,75 @@ I personally think it’s either AlphaGo or ChatGPT. AlphaGo showed to the whole
 
 **[Anthropic’s Mythos Model Is Being Accessed by Unauthorized Users](https://www.bloomberg.com/news/articles/2026-04-21/anthropic-s-mythos-model-is-being-accessed-by-unauthorized-users)**
 
-Bloomberg.com • 19h ago
+Bloomberg • 20h ago
 
 ---
 
 **[Anthropic’s New Mythos A.I. Model Sets Off Global Alarms](https://www.nytimes.com/2026/04/22/technology/anthropics-mythos-ai.html)**
 
-The New York Times • 2h ago
+The New York Times • 4h ago
 
 ---
 
-**[Anthropic investigating possible breach of its Mythos AI model](https://www.cbsnews.com/news/anthropic-investigates-mythos-ai-breach/)**
+**[What is Mythos AI and why could it be a threat to global cybersecurity?](https://www.theguardian.com/technology/2026/apr/22/what-is-anthropic-mythos-ai-threat-global-cybersecurity)**
 
-The AI company behind the chatbot Claude is looking into a report of unauthorized access to Mythos from one of its third-party vendor environments.
+Anthropic’s decision to restrict access to its powerful new model increases fears about the advanced technology
 
-CBS News • 57m ago
-
----
-
-**[Google announces 2 AI chips as competition with Nvidia heats up](https://finance.yahoo.com/sectors/technology/article/google-announces-2-ai-chips-as-competition-with-nvidia-heats-up-120011883.html)**
-
-Google revealed two AI chips, increasing its competition with Nvidia.
-
-Yahoo Finance • 5h ago
+The Guardian • 2h ago
 
 ---
 
-**[NVIDIA and Google Cloud Collaborate to Advance Agentic and Physical AI](https://blogs.nvidia.com/blog/google-cloud-agentic-physical-ai-factories/)**
+**[AI-powered robot beats elite table tennis players](https://www.theguardian.com/science/2026/apr/22/ai-powered-robot-beats-elite-table-tennis-players-milestone-robotics)**
 
-Companies can build AI factories with NVIDIA Vera Rubin-powered A5X instances scaling up to nearly 1 million Rubin GPUs, Gemini on Google Distributed Cloud, confidential NVIDIA Blackwell GPUs and agentic AI built on Gemini Enterprise Agent Platform with NVIDIA Nemotron and NeMo.
+In feat hailed as milestone in robotics, Sony AI’s Ace wins three out of five matches played under official rules
 
-NVIDIA Blog • 4h ago
-
----
-
-**[Alphabet shares climb after Google announces new AI products](https://www.cnbc.com/video/2026/04/22/alphabet-shares-climb-after-google-announces-new-ai-products.html)**
-
-CNBC's MacKenzie Sigalos joins 'Halftime Report' to report on the latest news surrounding Google.
-
-CNBC • 42m ago
+The Guardian • 52m ago
 
 ---
 
-**[74 percent say college students should be taught how to use AI: Survey](https://thehill.com/homenews/education/5843188-ai-college-students/)**
+**[A robot is beating human pros at table tennis. Its maker calls it a milestone for machines](https://apnews.com/article/ai-table-tennis-robot-ping-pong-sony-995b239945e0dc8d7bea918a850969dc)**
 
-The Hill • 19m ago
+A paddle-wielding robot is so adept at playing table tennis that it is posing a tough challenge to elite human players and sometimes defeating them, according to a new study in the journal Nature that shows how advances in artificial intelligence are making robots more agile.
 
----
-
-**[AI should not drive today’s interest rate decisions](https://www.ft.com/content/8a921fda-8e13-4f75-84a1-c43c3ce24136)**
-
-How the technology will affect prices is still uncertain
-
-Financial Times • 34m ago
+AP News • 3h ago
 
 ---
 
-**[SpaceX nears deal with Cursor](https://www.axios.com/2026/04/21/spacex-ai-cursor-deal)**
+**[Ping Pong Robot Uses Agentic AI to Beat Expert Human Players](https://www.bloomberg.com/news/articles/2026-04-22/ping-pong-robot-uses-agentic-ai-to-beat-expert-human-players)**
 
-Axios • 2h ago
+Bloomberg • 3h ago
 
 ---
 
-**[SpaceX strikes $60 billion deal for the right to buy AI coding startup Cursor](https://finance.yahoo.com/markets/article/spacex-strikes-60-billion-deal-for-the-right-to-buy-ai-coding-startup-cursor-143350832.html)**
+**[Using AI To Personalize Healthcare–Without Losing Patient Trust](https://www.forbes.com/sites/innovationrx/2026/04/22/using-ai-to-personalize-healthcarewithout-losing-patient-trust/)**
 
-SpaceX on Tuesday announced a unique deal with AI startup Cursor that will offer it the option to buy the company for $60 billion later this year.
+In this week’s edition of InnovationRx, we look at the opportunities and challenges of using AI to personalize healthcare and speed up clinical trials, the future of genetic medicine, another big Lilly acquisition, and more.
 
-Yahoo Finance • 2h ago
+Forbes • 37m ago
+
+---
+
+**[Artificial intelligence boss named Luna running San Francisco store Andon Market in Cow Hollow neighborhood](https://abc7.com/post/artificial-intelligence-boss-named-luna-running-san-francisco-store-andon-market-cow-hollow-neighborhood/18943220/)**
+
+Imagine walking into a store and finding out the boss behind it all is artificial intelligence. That's the experiment a group of entrepreneurs is running San Francisco's Andon Market.
+
+ABC7 Los Angeles • 26m ago
+
+---
+
+**[Introducing ChatGPT Images 2.0](https://openai.com/index/introducing-chatgpt-images-2-0/)**
+
+ChatGPT Images 2.0 introduces a state-of-the-art image generation model with improved text rendering, multilingual support, and advanced visual reasoning.
+
+OpenAI • 2d ago
+
+---
+
+**[AI hallucinations found in high-profile Wall Street law firm filing](https://www.theguardian.com/technology/2026/apr/22/ai-hallucinations-found-in-high-profile-wall-street-law-firm-filing)**
+
+Sullivan & Cromwell apologises to New York federal judge for string of errors in documents for Prince Group case
+
+The Guardian • 10h ago
 
 ---
 
@@ -199,13 +199,13 @@ Yahoo Finance • 2h ago
 
 **[Meta to start capturing employee mouse movements, keystrokes for AI training](https://news.ycombinator.com/item?id=47851948)**
 
-⬆️ 747 • 💬 493 • 23h ago • [reuters.com](https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/)
+⬆️ 756 • 💬 501 • 1d ago • [reuters.com](https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/)
 
 ---
 
 **[Atlassian enables default data collection to train AI](https://news.ycombinator.com/item?id=47833247)**
 
-⬆️ 597 • 💬 131 • 2d ago • [letsdatascience.com](https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8)
+⬆️ 598 • 💬 132 • 2d ago • [letsdatascience.com](https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8)
 
 ---
 
@@ -213,7 +213,7 @@ Yahoo Finance • 2h ago
 
 People are sick of artificial intelligence, and are increasingly making it known through acts of resistance.
 
-⬆️ 382 • 💬 409 • 1d ago • [stephvee.ca](https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/)
+⬆️ 383 • 💬 410 • 1d ago • [stephvee.ca](https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/)
 
 ---
 
@@ -227,7 +227,7 @@ Deezer says consumption of AI-generated music on the platform is still very low,
 
 **[Tell HN: I'm sick of AI everything](https://news.ycombinator.com/item?id=47857461)**
 
-⬆️ 292 • 💬 170 • 15h ago
+⬆️ 298 • 💬 172 • 17h ago
 
 ---
 
@@ -237,11 +237,27 @@ Deezer says consumption of AI-generated music on the platform is still very low,
 
 ---
 
+**[Scoring Show HN submissions for AI design patterns](https://news.ycombinator.com/item?id=47864393)**
+
+An attempt to detect AI design patterns in Show HN pages
+
+⬆️ 222 • 💬 171 • 3h ago • [adriankrebs.ch](https://www.adriankrebs.ch/blog/design-slop/)
+
+---
+
 **[Show HN: GoModel – an open-source AI gateway in Go](https://news.ycombinator.com/item?id=47849097)**
 
 High-performance AI gateway written in Go - unified OpenAI-compatible API for OpenAI, Anthropic, Gemini, Groq, xAI &amp; Ollama. LiteLLM alternative with observability, guardrails &amp; streaming. ...
 
-⬆️ 189 • 💬 71 • 1d ago • [GitHub](https://github.com/ENTERPILOT/GOModel/)
+⬆️ 191 • 💬 71 • 1d ago • [GitHub](https://github.com/ENTERPILOT/GOModel/)
+
+---
+
+**[Less human AI agents, please](https://news.ycombinator.com/item?id=47845429)**
+
+Nial – Knowledge work and artificial intelligence.
+
+⬆️ 153 • 💬 165 • 1d ago • [nial.se](https://nial.se/blog/less-human-ai-agents-please/)
 
 ---
 
@@ -250,22 +266,6 @@ High-performance AI gateway written in Go - unified OpenAI-compatible API for Op
 Mediator.ai uses bargaining theory and modern AI to find agreements that two people in conflict would both accept, including ones they hadn't thought of.
 
 ⬆️ 153 • 💬 74 • 2d ago • [Mediator.ai](https://mediator.ai/)
-
----
-
-**[Less human AI agents, please](https://news.ycombinator.com/item?id=47845429)**
-
-Nial – Knowledge work and artificial intelligence.
-
-⬆️ 152 • 💬 164 • 1d ago • [nial.se](https://nial.se/blog/less-human-ai-agents-please/)
-
----
-
-**[Meta employees are up in arms over a mandatory program to train AI on their](https://news.ycombinator.com/item?id=47860961)**
-
-Meta deploys keystroke-tracking software on US employees' computers, sparking privacy concerns and internal backlash.
-
-⬆️ 102 • 💬 81 • 8h ago • [Business Insider](https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4)
 
 ---
 
@@ -309,7 +309,7 @@ Success is hard until you build AI systems like this Check out Higgsfield https:
 
 📺 James Blue
 
-👁️ 7K • ⏱️ 11:49 • 4h ago
+👁️ 7K • ⏱️ 11:49 • 6h ago
 
 ---
 
@@ -319,7 +319,7 @@ A look at Prince's career on the 10th anniversary of his death. His longtime law
 
 📺 NBC News
 
-👁️ 6K • 👍 178 • 💬 27 • ⏱️ 4:17 • 16h ago
+👁️ 6K • 👍 178 • 💬 27 • ⏱️ 4:17 • 18h ago
 
 ---
 
@@ -329,7 +329,7 @@ Today I reacted to my own AI videos! Make sure you watch the whole video to find
 
 📺 Foltyn
 
-👁️ 207K • 👍 11K • 💬 2K • ⏱️ 13:36 • 7h ago
+👁️ 207K • 👍 11K • 💬 2K • ⏱️ 13:36 • 9h ago
 
 ---
 
@@ -349,7 +349,7 @@ Access Cinema Studio on Higgsfield https://youricreates.com/Cinema-Studio In thi
 
 📺 Youri van Hofwegen
 
-👁️ 5K • 💬 1 • ⏱️ 10:38 • 2h ago
+👁️ 5K • 💬 1 • ⏱️ 10:38 • 3h ago
 
 ---
 
@@ -385,7 +385,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with a vision encoder, 
 
 `image-text-to-text` `36.0B`
 
-⬇️ 582,961 • ❤️ 1,206 • 7h ago
+⬇️ 582,961 • ❤️ 1,206 • 8h ago
 
 ---
 
@@ -421,7 +421,7 @@ HY-World 2.0 is a multi-modal framework for generating and reconstructing 3D wor
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 540 • 8h ago
+⬇️ 0 • ❤️ 540 • 9h ago
 
 ---
 
@@ -457,7 +457,7 @@ Qwen3.6-27B is a 27B parameter causal language model with a vision encoder, exce
 
 `image-text-to-text` `27.8B`
 
-⬇️ 0 • ❤️ 267 • 4h ago
+⬇️ 0 • ❤️ 267 • 6h ago
 
 ---
 
@@ -639,7 +639,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 49.0k • 🔱 6.4k • 16h ago
+⭐ 49.0k • 🔱 6.4k • 17h ago
 
 ---
 
@@ -669,7 +669,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 32.9k • 🔱 3.6k • 8h ago
+⭐ 32.9k • 🔱 3.6k • 10h ago
 
 ---
 
@@ -679,7 +679,7 @@ A theoretical reconstruction of the Claude Mythos architecture, built from first
 
 `Python` `ai` `anthropic` `attention` `claude` `claude-ai`
 
-⭐ 8.5k • 🔱 1.8k • 1m ago
+⭐ 8.5k • 🔱 1.8k • 1h ago
 
 ---
 
@@ -689,7 +689,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 8.5k • 🔱 547 • 8m ago
+⭐ 8.5k • 🔱 547 • 1h ago
 
 ---
 
@@ -699,7 +699,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Python`
 
-⭐ 5.8k • 🔱 979 • 3d ago
+⭐ 5.8k • 🔱 979 • 4d ago
 
 ---
 
@@ -729,7 +729,7 @@ The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interac
 
 `Swift` `apple-intelligence` `apple-silicon` `cli` `foundationmodels` `homebrew`
 
-⭐ 4.8k • 🔱 187 • 2h ago
+⭐ 4.8k • 🔱 187 • 3h ago
 
 ---
 

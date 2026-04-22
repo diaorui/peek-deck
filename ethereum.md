@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-22T17:02:53.188822+00:00'
+updated: '2026-04-22T18:38:12.429358+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
+- cryptocurrency
 - news
 - social
-- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 22, 2026 at 17:02 UTC  
+**Last Updated:** April 22, 2026 at 18:38 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,387.24
+### $2,397.66
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +3.6%  
-**7d:** +2.0%  
-**30d:** +11.1%  
-**90d:** -19.1%  
-**1y:** +33.3%  
+**24h:** +4.4%  
+**7d:** +2.1%  
+**30d:** +11.3%  
+**90d:** -18.9%  
+**1y:** +33.5%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
@@ -80,19 +80,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 This is 100% on-chain Web3 in practice. Over the past few months I've received invaluable feedback regarding ETour: 100% on-chain, skill-based, ETH-only tournament infrastructure. Inception Feedback Evolution I've taken your feedback to heart and built on top of it. Now it's finally ready for you to use! If you're curious then come compete, spectate, or ask me anything! If you're skeptical then come challenge my claims and prove me wrong! Browse the landing page https://etour.games Read the whitepapeer: https://etour.games/whitepaper Analyze the manual: https://etour.games/manual Study the docs https://etour.games/docs Join the discord https://discord.gg/9FfF2RNQV Looking forward to our discussions
 
-3h ago
+5h ago
 
 ---
 
 **[Arbitrum freezing $71M in ETH tied to Kelp DAO is a reminder that “decentralized” doesn’t always mean unstoppable](https://www.reddit.com/r/ethereum/comments/1srv422/arbitrum_freezing_71m_in_eth_tied_to_kelp_dao_is/)**
 
-🔗 [websnack.org](https://websnack.org/news/arbitrum-freezes-71m-eth-kelp-dao-apr-2026) • 23h ago
+🔗 [websnack.org](https://websnack.org/news/arbitrum-freezes-71m-eth-kelp-dao-apr-2026) • 1d ago
 
 ---
 
 **[Need some suggestions.](https://www.reddit.com/r/ethereum/comments/1sse02k/need_some_suggestions/)**
 
-9h ago
+11h ago
 
 ---
 
@@ -150,7 +150,7 @@ The Kelp DAO exploit that drained $292 million and froze Aave was preventable. A
 
 Advisory council says validator signatures and wallet cryptography could be vulnerable if future quantum computers break current encryption.
 
-Decrypt • 19h ago
+Decrypt • 20h ago
 
 ---
 
@@ -158,21 +158,23 @@ Decrypt • 19h ago
 
 Ethereum just had its busiest quarter ever in Q1 2026, yet ETH is still over 50% below its ATH. Here's how much 1 ETH could be worth in 2030.
 
-24/7 Wall St. • 2d ago
+24/7 Wall St. • 3d ago
 
 ---
 
-**['Axie Infinity' Gaming Network Ronin Sets Date for Ethereum Layer-2 Migration](https://finance.yahoo.com/markets/crypto/articles/axie-infinity-gaming-network-ronin-162821925.html)**
+**[Kevin O’Leary reveals the only two cryptocurrencies he says are worth owning](https://www.foxbusiness.com/media/kevin-oleary-reveals-only-two-cryptocurrencies-he-says-worth-owning)**
 
-The Ronin gaming network will slash RON token inflation from over 20% to less than 1% while introducing automated developer rewards.
+Kevin O'Leary says bitcoin and Ethereum are the only cryptos worth owning, as institutional money reshapes the digital asset market landscape.
 
-Yahoo Finance • 34m ago
+Fox Business • 1h ago
 
 ---
 
-**[Bitcoin Price Tops $78,000 to Hit 11-Week High. XRP, Ethereum, Cryptos Surging.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-cryptos-f690b700)**
+**[Bitcoin and ethereum prices today, Wednesday, April 22, 2026: Prices rising following ceasefire extension](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-april-22-2026-prices-rising-following-ceasefire-extension-114636596.html)**
 
-Barron's • 6h ago
+Bitcoin opened at $76,341.73 on Wednesday, 0.6% higher than Tuesday's opening price of $75,872.83. Ethereum (ETH-USD) opened at $2,327.61 on Wednesday, 0.5% higher than Tuesday's opening price of $2,315.18.
+
+Yahoo Finance • 6h ago
 
 ---
 
@@ -180,7 +182,13 @@ Barron's • 6h ago
 
 Core3 marks GSR's first crypto ETF offering amid a period of expansion for the major market maker and the wider crypto fund sector.
 
-The Block • 4h ago
+The Block • 5h ago
+
+---
+
+**[Bitcoin Price Tops $78,000 to Hit 11-Week High. XRP, Ethereum, Cryptos Surging.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-cryptos-f690b700)**
+
+Barron's • 8h ago
 
 ---
 
@@ -216,12 +224,6 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Most big cryptocurrencies rise on Ethereum, Solana increases](https://www.marketwatch.com/data-news/most-big-cryptocurrencies-rise-on-ethereum-solana-increases-34464f2b-bd71d4720cd8)**
-
-MarketWatch • 3h ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
@@ -232,7 +234,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 528 • 👍 51 • 💬 3 • ⏱️ 18:59 • 47m ago
+👁️ 528 • 👍 51 • 💬 3 • ⏱️ 18:59 • 2h ago
 
 ---
 
@@ -242,7 +244,7 @@ Thanks to Nexo for sponsoring this video. Get your welcome bonus to receive 30 d
 
 📺 Crypto Capital Venture
 
-👁️ 1K • 👍 164 • 💬 62 • ⏱️ 13:39 • 1h ago
+👁️ 1K • 👍 164 • 💬 62 • ⏱️ 13:39 • 3h ago
 
 ---
 
@@ -252,7 +254,7 @@ See exactly what top investors are trading in real time: try Milk Road Pro for j
 
 📺 Milk Road
 
-👁️ 5K • 👍 183 • 💬 46 • ⏱️ 36:12 • 22h ago
+👁️ 5K • 👍 183 • 💬 46 • ⏱️ 36:12 • 23h ago
 
 ---
 
@@ -262,7 +264,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 139 • 👍 9 • ⏱️ 4:36 • 8h ago
+👁️ 139 • 👍 9 • ⏱️ 4:36 • 9h ago
 
 ---
 
@@ -292,7 +294,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 294 • 👍 50 • ⏱️ 6:29 • 2h ago
+👁️ 294 • 👍 50 • ⏱️ 6:29 • 3h ago
 
 ---
 
@@ -302,7 +304,7 @@ Welcome Back To The Channel! ✔️ https://tylerhill.pro/Fortisx42026 ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 5K • 👍 226 • 💬 36 • ⏱️ 10:29 • 1d ago
+👁️ 5K • 👍 226 • 💬 36 • ⏱️ 10:29 • 2d ago
 
 ---
 
@@ -322,7 +324,7 @@ O mercado chegou a um dos pontos mais decisivos de todo o ciclo. Enquanto grande
 
 📺 Augusto Backes
 
-👁️ 8K • 👍 1K • 💬 63 • ⏱️ 14:55 • 4h ago
+👁️ 8K • 👍 1K • 💬 63 • ⏱️ 14:55 • 6h ago
 
 ---
 
