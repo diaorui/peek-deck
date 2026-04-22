@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-22T22:11:10.140598+00:00'
+updated: '2026-04-22T23:26:07.232451+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 22, 2026 at 22:11 UTC  
+**Last Updated:** April 22, 2026 at 23:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Unitree robot just unlocked ballet mode](https://www.reddit.com/r/robotics/comments/1ssqud8/unitree_robot_just_unlocked_ballet_mode/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 We've been optimizing the hardware over the last few weeks. Today we tested the new policy on the updated hardware. It works way better! The sim2real transfer improved. We're open-sourcing the full mechanical design in a few days so you can source the parts yourself or pre-order the DIY kit at cost. Full specs & build guide: https://manual.asimov.inc/v1
 
-8h ago
+10h ago
 
 ---
 
@@ -50,7 +50,7 @@ We've been optimizing the hardware over the last few weeks. Today we tested the 
 
 Was working on my routine tinkering without a specific objective or idea. And this motion object came up. Does it resemble with anything? what would you call to such motion? where can it be helpful? Your inputs may help fine tune and turn it into something useful.
 
-13h ago
+14h ago
 
 ---
 
@@ -58,7 +58,7 @@ Was working on my routine tinkering without a specific objective or idea. And th
 
 I’ve finished assembling the abdomen, completing the upper body structure. More in depth video is coming soon on youtube diy.mrbuilder
 
-9h ago
+11h ago
 
 ---
 
@@ -66,7 +66,7 @@ I’ve finished assembling the abdomen, completing the upper body structure. Mor
 
 Bren Pierce, CEO of Kinisi Robotics, described a common pattern in robotics: most systems can reach about 80% of the way to working reliably, but the remaining 20% is still unresolved and not clearly understood. That final stretch is where systems have to deal with variability, edge cases, and real-world conditions that are difficult to predict or model. It is also where there is still no clear agreement on how to move forward. He talks about being at the Conference on Robot Learning (CoRL), and how researchers working across robotics and AI could not align on a single approach. Reinforcement learning, imitation learning, and the possibility of entirely new architectures are all still being debated, with no consensus on what will ultimately solve the problem.
 
-4h ago
+5h ago
 
 ---
 
@@ -74,15 +74,7 @@ Bren Pierce, CEO of Kinisi Robotics, described a common pattern in robotics: mos
 
 A major barrier for Embodied AI is the latency-precision trade-off. Running a 7B policy usually requires an A100 cluster to stay "reactive," or you end up with choppy 1Hz control that misses dynamic targets. I’ve released FastVLA, a library designed to bring high-parameter policies to closed-loop control on budget cloud hardware (NVIDIA L4). Key Performance Data: Control Frequency: 5.04 Hz (198ms latency) — a 7.16x speedup over the 1420ms baseline. Mechanical Precision: Reduced mean L2 action error from 28.5px to 12.4px by moving to continuous regression heads. Benchmark: Validated on the PushT benchmark, including a new Arabic-PushT variant to test linguistic robustness in action spaces. By optimizing the kernels and memory footprint (4.45GB Peak VRAM), we can now run reactive robots without the "Compute Tax." GitHub/Documentation: https://github.com/BouajilaHamza/fastvla
 
-1h ago
-
----
-
-**[HM-D20 vs. UM960 Quadrifilar Helix Module RTK Drone Test](https://www.reddit.com/r/robotics/comments/1ssof99/hmd20_vs_um960_quadrifilar_helix_module_rtk_drone/)**
-
-I buy both the HM-D20 and UM960 quadrifilar helix modules for testing, aiming to determine which one could help my drone achieve precise positioning. After testing, I found that both modules deliver comparable performance. Has anyone conducted more extensive tests? I'd appreciate it if you could share your findings with me.
-
-6h ago
+2h ago
 
 ---
 
@@ -90,13 +82,21 @@ I buy both the HM-D20 and UM960 quadrifilar helix modules for testing, aiming to
 
 The feat has been hailed as a milestone for robotics, a field that has long seen table tennis – and the lightning-fast reactions, perception and skill it demands – as one of the toughest tests of how far the technology has advanced. In the matches, played under official competition rules, Ace displayed a mastery of spin, handled difficult shots, such as balls catching on the net, and pulled off one rapid backspin shot that a professional had thought impossible. A research paper on the robot was published in Nature on Wednesday, but scientists working on the project said Ace had improved since the report was submitted. “We played stronger and stronger players and we beat stronger and stronger players,” said Peter Dürr, the director of Sony AI in Zurich and project lead for Ace. AI researchers use games from chess and go, to poker and Breakout to teach programs on how to make decisions in complex situations. Building an intelligent robot takes the challenge to the next level by requiring the machine to enact decisions effectively. Ace sidesteps some tricky aspects of table tennis by having an eight-jointed arm on a movable base that does not have to stand on two legs. And instead of seeing the ball with two eyes, it draws on images from multiple cameras that view the entire court from different angles and track the position and spin of the ball. By zooming in on the ball’s logo, the camera system can estimate the ball’s spin and axis of rotation in the milliseconds it takes to reach Ace’s end of the table. How to deal with spin, and which shots to play, were honed during 3,000 hours of games played in a computer simulation. Other skills, such as serves, were drawn from those used by expert players.
 
-🔗 [the Guardian](https://www.theguardian.com/science/2026/apr/22/ai-powered-robot-beats-elite-table-tennis-players-milestone-robotics) • 57m ago
+🔗 [the Guardian](https://www.theguardian.com/science/2026/apr/22/ai-powered-robot-beats-elite-table-tennis-players-milestone-robotics) • 2h ago
+
+---
+
+**[HM-D20 vs. UM960 Quadrifilar Helix Module RTK Drone Test](https://www.reddit.com/r/robotics/comments/1ssof99/hmd20_vs_um960_quadrifilar_helix_module_rtk_drone/)**
+
+I buy both the HM-D20 and UM960 quadrifilar helix modules for testing, aiming to determine which one could help my drone achieve precise positioning. After testing, I found that both modules deliver comparable performance. Has anyone conducted more extensive tests? I'd appreciate it if you could share your findings with me.
+
+8h ago
 
 ---
 
 **[Market Gaps On Mining Robotics](https://www.reddit.com/r/robotics/comments/1ssw8lt/market_gaps_on_mining_robotics/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -116,7 +116,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2045783119702425841
 
 Accenture (NYSE: ACN), together with Vodafone Procure & Connect and SAP, is piloting the use of humanoid robotics in warehouse environments, demonstrating how physical AI can enhance operational efficiency, improve safety, and enable new approaches to workforce and business model design.
 
-Accenture • 12h ago
+Accenture • 14h ago
 
 ---
 
@@ -128,11 +128,27 @@ HII • 1d ago
 
 ---
 
-**[Tesla’s revenue rises again as it prepares for more AI and robotics](https://www.theverge.com/transportation/915217/tesla-q1-2026-earnings-profit-revenue)**
+**[Dallas all‑girls robotics team heads to world championship](https://www.cbsnews.com/texas/video/dallas-all-girls-robotics-team-heads-to-world-championship/)**
 
-Tesla’s Q1 2026 earnings are out.
+The Lady Bots — an all‑girls robotics team from Dallas ISD’s School for the Talented and Gifted in Pleasant Grove — are gearing up for the VEX World Championship this week. The moment is especially meaningful because the girls who founded the team six years ago are now in their final year of middle school, hoping to cap their journey with another world‑level run. The VEX World Championship brings together teams from more than 60 countries, making it one of the largest and most competitive robotics events in the world.
 
-The Verge • 1h ago
+CBS News • 1h ago
+
+---
+
+**[Blissfield High School robotics team heading to the world championship](https://www.yahoo.com/news/articles/blissfield-high-school-robotics-team-221321505.html)**
+
+A small-town robotics team from Blissfield High School is heading to the global stage after qualifying for its first FIRST Robotics World Championship, capping off a standout season against top teams ...
+
+Yahoo • 1h ago
+
+---
+
+**[CMU promotes AI and robotics in draft week showcase](https://www.cbsnews.com/pittsburgh/video/cmu-promotes-ai-and-robotics-in-draft-week-showcase/)**
+
+Carnegie Mellon University is kicking off draft week with a special event focused on how AI and robotics are playing a role both in Pittsburgh and on the field. Ross Guidotti reports.
+
+CBS News • 48m ago
 
 ---
 
@@ -140,23 +156,7 @@ The Verge • 1h ago
 
 In feat hailed as milestone in robotics, Sony AI’s Ace wins three out of five matches played under official rules
 
-The Guardian • 4h ago
-
----
-
-**[China’s Newest Tech Billionaire Made His Fortune From Developing Image Sensor Chips For Robotics](https://www.forbes.com/sites/zinnialee/2026/04/21/chinas-newest-tech-billionaire-made-his-fortune-from-developing-image-sensor-chips-for-robotics/)**
-
-The post-IPO stock surge of Hong Kong-listed Gpixel Changchun Microelectronics has made founder and chairman Wang Xinyang the latest member of China’s three-comma club.
-
-Forbes • 1d ago
-
----
-
-**[Proposed Chinese Robot Ban Is Latest U.S. Tech Sovereignty Move](https://spectrum.ieee.org/chinese-robots-us-ban)**
-
-The catch: American robot makers still need Chinese-made components
-
-IEEE Spectrum • 9h ago
+The Guardian • 5h ago
 
 ---
 
@@ -172,21 +172,23 @@ The Washington Post • 1d ago
 
 The IDF has ramped up its use of robots in warfare against Hezbollah in Bint Jbail, accelerating the destruction of weapons infrastructure as military operations intensify.
 
-The Jerusalem Post • 9h ago
+The Jerusalem Post • 10h ago
 
 ---
 
-**[Watch Tesla’s Earnings Beat Expectations Amid Focus on Robotics, Driverless Cars](https://www.bloomberg.com/news/videos/2026-04-22/tesla-earnings-beat-expectations-amid-focus-on-robotics-video)**
+**[China’s Newest Tech Billionaire Made His Fortune From Developing Image Sensor Chips For Robotics](https://www.forbes.com/sites/zinnialee/2026/04/21/chinas-newest-tech-billionaire-made-his-fortune-from-developing-image-sensor-chips-for-robotics/)**
 
-Bloomberg.com • 22h ago
+The post-IPO stock surge of Hong Kong-listed Gpixel Changchun Microelectronics has made founder and chairman Wang Xinyang the latest member of China’s three-comma club.
+
+Forbes • 1d ago
 
 ---
 
-**[Classover and ICreate plan hands-on AI robotics for classrooms](https://www.stocktitan.net/news/KIDZ/classover-enters-strategic-collaboration-with-i-create-education-zqycitxyghg8.html)**
+**[Proposed Chinese Robot Ban Is Latest U.S. Tech Sovereignty Move](https://spectrum.ieee.org/chinese-robots-us-ban)**
 
-ICreate brings AI robotics systems and 1M-plus users. Why it matters: pilots could test hands-on learning in classrooms, camps and robotics labs.
+The catch: American robot makers still need Chinese-made components
 
-Stock Titan • 10h ago
+IEEE Spectrum • 11h ago
 
 ---
 
@@ -210,7 +212,7 @@ For the first time, an AI-powered machine has bested elite-level athletes at a p
 
 📺 nature video
 
-👁️ 10K • 👍 235 • 💬 53 • ⏱️ 13:38 • 7h ago
+👁️ 10K • 👍 235 • 💬 53 • ⏱️ 13:38 • 8h ago
 
 ---
 
@@ -240,7 +242,7 @@ China just revealed an autonomous robot war pack built from dog bots, drones, la
 
 📺 AI Revolution
 
-👁️ 75K • 👍 1K • 💬 144 • ⏱️ 16:14 • 5d ago
+👁️ 75K • 👍 1K • 💬 144 • ⏱️ 16:14 • 6d ago
 
 ---
 
@@ -250,7 +252,7 @@ AI robots failing and glitching 2026 is becoming impossible to ignore. From huma
 
 📺 MindSeeded
 
-👁️ 262K • 👍 15K • 💬 2K • ⏱️ 14:10 • 4d ago
+👁️ 262K • 👍 15K • 💬 2K • ⏱️ 14:10 • 5d ago
 
 ---
 
@@ -278,7 +280,7 @@ The winner from Honor, a Chinese smartphone maker, completed the 21-kilometer (1
 
 📺 Robot Julie 
 
-👁️ 23K • 👍 101 • 💬 3 • ⏱️ 0:24 • 21h ago
+👁️ 23K • 👍 101 • 💬 3 • ⏱️ 0:24 • 22h ago
 
 ---
 
@@ -288,7 +290,7 @@ NEW LIVE CHANNEL - https://www.youtube.com/@chrisbodenlive/streams And come hang
 
 📺 Chris Boden
 
-👁️ 73K • 👍 7K • 💬 181 • ⏱️ 1:27 • 10h ago
+👁️ 73K • 👍 7K • 💬 181 • ⏱️ 1:27 • 11h ago
 
 ---
 

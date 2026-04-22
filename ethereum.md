@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-22T22:11:10.137437+00:00'
+updated: '2026-04-22T23:26:07.229635+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
-- social
 - videos
+- news
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 22, 2026 at 22:11 UTC  
+**Last Updated:** April 22, 2026 at 23:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +3.7%  
-**7d:** +2.1%  
-**30d:** +11.2%  
-**90d:** -18.9%  
-**1y:** +33.5%  
+**24h:** +2.4%  
+**7d:** +1.4%  
+**30d:** +10.4%  
+**90d:** -19.5%  
+**1y:** +32.5%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 This is 100% on-chain Web3 in practice. Over the past few months I've received invaluable feedback regarding ETour: 100% on-chain, skill-based, ETH-only tournament infrastructure. Inception Feedback Evolution I've taken your feedback to heart and built on top of it. Now it's finally ready for you to use! If you're curious then come compete, spectate, or ask me anything! If you're skeptical then come challenge my claims and prove me wrong! Browse the landing page https://etour.games Read the whitepapeer: https://etour.games/whitepaper Analyze the manual: https://etour.games/manual Study the docs https://etour.games/docs Join the discord https://discord.gg/9FfF2RNQV Looking forward to our discussions
 
-8h ago
+9h ago
 
 ---
 
@@ -164,11 +164,27 @@ Ethereum just had its busiest quarter ever in Q1 2026, yet ETH is still over 50%
 
 ---
 
+**[Ethereum Coinbase Premium Flips Bullish: Discover What Happens When US Whales Are Long](https://www.tradingview.com/news/newsbtc:ecbe77907094b:0-ethereum-coinbase-premium-flips-bullish-discover-what-happens-when-us-whales-are-long/)**
+
+Ethereum is pushing back toward $2,400 as the market finds its footing after weeks of uncertainty, with buyers gradually reasserting control and the price beginning to build momentum from the consolidation range. The move higher is drawing attention — and a CryptoQuant analyst has identified a sign…
+
+TradingView • 26m ago
+
+---
+
+**[Kevin O’Leary reveals the only two cryptocurrencies he says are worth owning](https://www.foxbusiness.com/media/kevin-oleary-reveals-only-two-cryptocurrencies-he-says-worth-owning)**
+
+Kevin O'Leary says bitcoin and Ethereum are the only cryptos worth owning, as institutional money reshapes the digital asset market landscape.
+
+Fox Business • 6h ago
+
+---
+
 **[Bitcoin and ethereum prices today, Wednesday, April 22, 2026: Prices rising following ceasefire extension](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-april-22-2026-prices-rising-following-ceasefire-extension-114636596.html)**
 
 Bitcoin opened at $76,341.73 on Wednesday, 0.6% higher than Tuesday's opening price of $75,872.83. Ethereum (ETH-USD) opened at $2,327.61 on Wednesday, 0.5% higher than Tuesday's opening price of $2,315.18.
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -176,13 +192,13 @@ Yahoo Finance • 10h ago
 
 Core3 marks GSR's first crypto ETF offering amid a period of expansion for the major market maker and the wider crypto fund sector.
 
-The Block • 9h ago
+The Block • 10h ago
 
 ---
 
 **[Bitcoin Price Tops $78,000 to Hit 11-Week High. XRP, Ethereum, Cryptos Surging.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-cryptos-f690b700)**
 
-Barron's • 11h ago
+Barron's • 13h ago
 
 ---
 
@@ -190,7 +206,7 @@ Barron's • 11h ago
 
 BitMine Immersion Technologies (NYSE: $BMNR) says it has now staked nearly $142 million U.S. worth of Ethereum (CRY...
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -210,22 +226,6 @@ CoinDesk • 2d ago
 
 ---
 
-**[Forget (XRP) Ripple: This Cryptocurrency Has A Real Moat](https://www.fool.com/investing/2026/04/21/forget-xrp-ripple-this-cryptocurrency-has-a-real-m/)**
-
-Ethereum offers more stable returns with clearer long-term catalysts.
-
-The Motley Fool • 1d ago
-
----
-
-**[Ethereum risks 10% decline versus Bitcoin despite record ETH staking](https://www.tradingview.com/news/cointelegraph:3d5e0fa33094b:0-ethereum-risks-10-decline-versus-bitcoin-despite-record-eth-staking/)**
-
-Ether BITSTAMP:ETHUSD has fallen about 5.5% against Bitcoin BITSTAMP:BTCUSD over the past week, and a bearish continuation setup now points to the risk of deeper losses ahead.Key takeaways:Ether’s bear flag risks 10% correctionThe ETH/BTC ratio has been carving out a bear flag pattern since Februar…
-
-TradingView • 5h ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
@@ -236,7 +236,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 7K • 👍 272 • 💬 22 • ⏱️ 18:59 • 5h ago
+👁️ 7K • 👍 272 • 💬 22 • ⏱️ 18:59 • 7h ago
 
 ---
 
@@ -246,7 +246,7 @@ Thanks to Nexo for sponsoring this video. Get your welcome bonus to receive 30 d
 
 📺 Crypto Capital Venture
 
-👁️ 4K • 👍 377 • 💬 185 • ⏱️ 13:39 • 6h ago
+👁️ 4K • 👍 377 • 💬 185 • ⏱️ 13:39 • 7h ago
 
 ---
 
@@ -256,7 +256,7 @@ INSTITUTIONS GO FULL BULL: $1.3M Bitcoin and $250K Ethereum IS THE NEW TARGET! I
 
 📺 CryptoWendyO
 
-👁️ 3K • 👍 237 • 💬 14 • ⏱️ 16:01 • 4h ago
+👁️ 3K • 👍 237 • 💬 14 • ⏱️ 16:01 • 5h ago
 
 ---
 
@@ -286,7 +286,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 140 • 👍 11 • 💬 2 • ⏱️ 5:51 • 4h ago
+👁️ 140 • 👍 11 • 💬 2 • ⏱️ 5:51 • 5h ago
 
 ---
 
@@ -296,7 +296,7 @@ Welcome Back To The Channel! Make Sure To Check Out Bitcast: https://bitcast.net
 
 📺 Aaron Bennett
 
-👁️ 12K • 👍 838 • 💬 124 • ⏱️ 25:21 • 20h ago
+👁️ 12K • 👍 838 • 💬 124 • ⏱️ 25:21 • 21h ago
 
 ---
 
@@ -304,7 +304,7 @@ Welcome Back To The Channel! Make Sure To Check Out Bitcast: https://bitcast.net
 
 📺 Digital Asset Investor
 
-👁️ 6K • 👍 364 • ⏱️ 1:36 • 11h ago
+👁️ 6K • 👍 364 • ⏱️ 1:36 • 12h ago
 
 ---
 
