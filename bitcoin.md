@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-22T21:26:55.377685+00:00'
+updated: '2026-04-22T22:11:10.131488+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
-- videos
 - news
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 22, 2026 at 21:26 UTC  
+**Last Updated:** April 22, 2026 at 22:11 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1579.33B
+**Market Cap:** $1576.84B
 Rank #1
 
-**Circulating Supply:** 20,019,418 BTC
+**Circulating Supply:** 20,019,465 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--37.4%
+-37.5%
 
 **All-Time Low:** $67.81
-+116254.5%
++116135.1%
 
 ---
 
@@ -95,7 +95,7 @@ We are so back. Too the moon! Diamond hands for the win!
 
 Admiral Samuel Paparo, head of US Indo-Pacific Command, told a Senate Armed Services Committee hearing on April 21 that Bitcoin could strengthen US capabilities in an era of intensifying competition with China, particularly in cyberspace and financial warfare. The comments come as Bitcoin’s role in national security has been growing in relevance over the past few years, with some experts believing it is close to playing a potentially leading part.
 
-🔗 [Yahoo News](https://www.yahoo.com/news/articles/bitcoin-used-national-security-us-094512611.html) • 9h ago
+🔗 [Yahoo News](https://www.yahoo.com/news/articles/bitcoin-used-national-security-us-094512611.html) • 10h ago
 
 ---
 
@@ -103,7 +103,7 @@ Admiral Samuel Paparo, head of US Indo-Pacific Command, told a Senate Armed Serv
 
 60k was the bottom. People were calling for 40k, 30k… "But the cycle!!!" Now we’re sitting at 77–78k and it hindsight it was obvious. I was clowned so much, but these people missed an essential part: it’s 2026. Bitcoin isn’t just degens panic-selling anymore. ETFs, institutions, real money. Doesn’t mean no dips, but the old -80% nukes? Yeah WAAAY less likely. BTW bottoms don’t feel safe when they happen. That’s the whole point.
 
-13h ago
+14h ago
 
 ---
 
@@ -119,7 +119,7 @@ The bill would prohibit the use of crypto for domestic payments but allow its us
 
 Bitcoin (BTC) climbs past $77,000 as a US admiral calls it a national security asset, Strategy makes a $2.5B purchase, and the Fear & Greed
 
-🔗 [FX Leaders](https://www.fxleaders.com/news/2026/04/22/bitcoin-eyes-78k-as-us-military-calls-proof-of-work-a-power-projection-tool/) • 17h ago
+🔗 [FX Leaders](https://www.fxleaders.com/news/2026/04/22/bitcoin-eyes-78k-as-us-military-calls-proof-of-work-a-power-projection-tool/) • 18h ago
 
 ---
 
@@ -135,13 +135,13 @@ i have been researching and investing in bitcoin and trying to understand it bet
 
 Bitcoin really does have a way of teaching low time preference. I originally started saving in bitcoin 2 years ago because I thought I could get a quick 2-3x to help me buy a nice truck. As I started learning more about bitcoin, my conviction grew and I started stacking more aggressively. Not wanting to sell my stack, I took out a loan to buy the truck. After owning it for about a year, I realized the payment was too much drag. For my age and phase of life, it just wasn't worth it. I'm fortunate enough I don't need a vehicle for my daily life, so I figured I should take advantage of that fact. I will be living car free for a while so I can stack even harder. My family thinks I'm absolutely nuts. I agree.
 
-17h ago
+18h ago
 
 ---
 
 **[Damian Lillard’s courtside fit in the NBA playoffs](https://www.reddit.com/r/Bitcoin/comments/1ss8u5p/damian_lillards_courtside_fit_in_the_nba_playoffs/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -149,7 +149,7 @@ Bitcoin really does have a way of teaching low time preference. I originally sta
 
 Title says it all
 
-5h ago
+6h ago
 
 ---
 
@@ -159,7 +159,7 @@ Title says it all
 
 **[Bitcoin Price Hits Two-Month High Amid Strategy Buys. Watch This Range, Analyst Says.](https://www.investors.com/news/bitcoin-price-february-high-78000-strategy-buying-bitcoin-etf-flows-institutional-participation/)**
 
-Investor's Business Daily • 56m ago
+Investor's Business Daily • 1h ago
 
 ---
 
@@ -167,7 +167,7 @@ Investor's Business Daily • 56m ago
 
 True Market Mean and Short-Term Holder cost basis form a critical $78.2K to $79.2K range that could define the next major move.
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
 
 ---
 
@@ -191,7 +191,7 @@ TradingView • 1h ago
 
 The company's bitcoin stash remained at 11,509 BTC, worth about $880 million at bitcoin's current price of around $78,000.
 
-CoinDesk • 49m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -199,19 +199,19 @@ CoinDesk • 49m ago
 
 Kevin O'Leary says bitcoin and Ethereum are the only cryptos worth owning, as institutional money reshapes the digital asset market landscape.
 
-Fox Business • 4h ago
+Fox Business • 5h ago
 
 ---
 
 **[Why these strategists say 45% of portfolios should be invested in gold, metals and bitcoin](https://www.marketwatch.com/story/why-these-strategists-say-45-of-portfolios-should-be-invested-in-gold-metals-and-bitcoin-1d6ae78f)**
 
-MarketWatch • 13h ago
+MarketWatch • 14h ago
 
 ---
 
 **[Documentary Claims to Solve $80 Billion Mystery at Heart of Bitcoin](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-04-22-2026/card/documentary-claims-to-solve-80-billion-mystery-at-heart-of-bitcoin-lvIR9q2ZbEIVtA1FKtzB)**
 
-WSJ • 6h ago
+WSJ • 7h ago
 
 ---
 
@@ -219,7 +219,7 @@ WSJ • 6h ago
 
 The film follows a four-year investigation led by New York Times bestselling author William D. Cohan and private investigator Tyler Maroney.
 
-The Block • 8h ago
+The Block • 9h ago
 
 ---
 
@@ -299,7 +299,7 @@ A new documentary asserts that Bitcoin creator Satoshi Nakamoto was actually two
 
 Multiplexer for MCP tool calls: parallel execution, batching, caching, and pipelining for any MCP server - edimuj/callmux
 
-⬆️ 2 • 💬 0 • 3h ago • [GitHub](https://github.com/edimuj/callmux)
+⬆️ 2 • 💬 0 • 4h ago • [GitHub](https://github.com/edimuj/callmux)
 
 ---
 
@@ -319,17 +319,7 @@ Ran breaks down a pivotal moment in markets, starting with Trump's indefinite ce
 
 📺 Crypto Banter
 
-👁️ 17K • 👍 1K • 💬 44 • ⏱️ 25:29 • 7h ago
-
----
-
-**[Bitcoin Bull Market Is HAPPENING NOW (Proof)](https://www.youtube.com/watch?v=5CvUW86jb-w)**
-
-Bitcoin is in a bull market right now. Anthony Pompliano breaks down the data — from institutional moves like Morgan Stanley's ...
-
-📺 Anthony Pompliano
-
-👁️ 60K • 👍 3K • 💬 156 • ⏱️ 16:35 • 1d ago
+👁️ 20K • 👍 2K • 💬 53 • ⏱️ 25:29 • 8h ago
 
 ---
 
@@ -339,37 +329,17 @@ Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=Al
 
 📺 Altcoin Daily
 
-👁️ 53K • 👍 3K • 💬 265 • ⏱️ 12:24 • 22h ago
+👁️ 56K • 👍 3K • 💬 266 • ⏱️ 12:24 • 23h ago
 
 ---
 
-**[CRYPTO Waking Up As Institutions Pile Into Bitcoin &amp; ETH](https://www.youtube.com/watch?v=3RakR45C6-g)**
+**[Bitcoin Bull Market Is HAPPENING NOW (Proof)](https://www.youtube.com/watch?v=5CvUW86jb-w)**
 
-Thanks to Nexo for sponsoring this video. Get your welcome bonus to receive 30 days of Wealth Club Premier ...
+Bitcoin is in a bull market right now. Anthony Pompliano breaks down the data — from institutional moves like Morgan Stanley's ...
 
-📺 Crypto Capital Venture
+📺 Anthony Pompliano
 
-👁️ 3K • 👍 329 • 💬 128 • ⏱️ 13:39 • 5h ago
-
----
-
-**[Bitcoin is READY to Pump...Here&#39;s Why](https://www.youtube.com/watch?v=CYkYs436yo4)**
-
-Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FREE Crypto Predictions & Compete Weekly ...
-
-📺 CryptosRUs
-
-👁️ 13K • 👍 820 • 💬 216 • ⏱️ 7:07 • 21h ago
-
----
-
-**[Wells Fargo CEO Warns of MAJOR CRASH | Got Bitcoin?](https://www.youtube.com/watch?v=Hv6M0WbR-jo)**
-
-A major bank CEO just warned of a looming crash, while Wall Street quietly pivots toward Bitcoin. Massive liquidity injections and ...
-
-📺 Simply Bitcoin
-
-👁️ 26K • 👍 2K • 💬 110 • ⏱️ 14:37 • 23h ago
+👁️ 63K • 👍 3K • 💬 156 • ⏱️ 16:35 • 1d ago
 
 ---
 
@@ -379,7 +349,47 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 6K • 👍 427 • 💬 38 • ⏱️ 15:25 • 7h ago
+👁️ 7K • 👍 462 • 💬 43 • ⏱️ 15:25 • 7h ago
+
+---
+
+**[Bitcoin Bull Market Starting SOON? REALISTIC Analysis - NO FOMO! Bitcoin price prediction 2026](https://www.youtube.com/watch?v=-AjzkUnS_mI)**
+
+Is the bull market starting? CRYPTO RETIREMENT ACCOUNT HERE Sign up for iTrustCapital and get a $100 funding ...
+
+📺 Crypto Jebb
+
+👁️ 2K • 👍 193 • 💬 26 • ⏱️ 10:15 • 4h ago
+
+---
+
+**[CRYPTO Waking Up As Institutions Pile Into Bitcoin &amp; ETH](https://www.youtube.com/watch?v=3RakR45C6-g)**
+
+Thanks to Nexo for sponsoring this video. Get your welcome bonus to receive 30 days of Wealth Club Premier ...
+
+📺 Crypto Capital Venture
+
+👁️ 4K • 👍 377 • 💬 185 • ⏱️ 13:39 • 6h ago
+
+---
+
+**[Bitcoin closes in on $80k](https://www.youtube.com/watch?v=o9tmfxvSvNM)**
+
+CNBC's MacKenzie Sigalos reports on news regarding bitcoin.
+
+📺 CNBC Television
+
+👁️ 1K • 👍 22 • 💬 20 • ⏱️ 2:35 • 3h ago
+
+---
+
+**[Bitcoin vs. Fiat: Jeff Booth Predicts What Happens Next](https://www.youtube.com/watch?v=rKtlPhfRrHo)**
+
+Jeff Booth explains why our money system must expand forever—and why Bitcoin could change everything. #Bitcoin #JeffBooth ...
+
+📺 Cointelegraph
+
+👁️ 438 • 👍 5 • ⏱️ 0:42 • 1h ago
 
 ---
 
@@ -389,27 +399,17 @@ Save the date for November 3-5, 2026 at Murrieta Hot Springs Resort and get your
 
 📺 Brian Harrington
 
-👁️ 840 • 👍 105 • 💬 11 • ⏱️ 10:47 • 5h ago
+👁️ 2K • 👍 175 • 💬 44 • ⏱️ 10:47 • 5h ago
 
 ---
 
-**[Everyone is Wrong about Bitcoin](https://www.youtube.com/watch?v=GbgxGDYnFwM)**
+**[Bitcoin is READY to Pump...Here&#39;s Why](https://www.youtube.com/watch?v=CYkYs436yo4)**
 
-Everyone is Wrong about Bitcoin Big picture for bitcoin Most can't see what's coming TA & Live Trades Get the CF Cycle trading ...
+Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FREE Crypto Predictions & Compete Weekly ...
 
-📺 Camel Finance
+📺 CryptosRUs
 
-👁️ 14K • 👍 918 • 💬 161 • ⏱️ 22:37 • 1d ago
-
----
-
-**[BITCOIN ON THE VERGE OF EXPLOSION: Next Move Incoming?](https://www.youtube.com/watch?v=2-HZd4eUOkQ)**
-
-Bitcoin is showing strong signs of a potential breakout as bullish momentum continues to build. Sheldon takes a closer look at the ...
-
-📺 Crypto Banter
-
-👁️ 7K • 👍 528 • 💬 13 • ⏱️ 32:40 • 11h ago
+👁️ 13K • 👍 824 • 💬 227 • ⏱️ 7:07 • 21h ago
 
 ---
 

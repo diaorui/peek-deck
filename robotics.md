@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-22T21:26:55.386817+00:00'
+updated: '2026-04-22T22:11:10.140598+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 22, 2026 at 21:26 UTC  
+**Last Updated:** April 22, 2026 at 22:11 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Unitree robot just unlocked ballet mode](https://www.reddit.com/r/robotics/comments/1ssqud8/unitree_robot_just_unlocked_ballet_mode/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -50,7 +50,7 @@ We've been optimizing the hardware over the last few weeks. Today we tested the 
 
 Was working on my routine tinkering without a specific objective or idea. And this motion object came up. Does it resemble with anything? what would you call to such motion? where can it be helpful? Your inputs may help fine tune and turn it into something useful.
 
-12h ago
+13h ago
 
 ---
 
@@ -66,7 +66,7 @@ I’ve finished assembling the abdomen, completing the upper body structure. Mor
 
 Bren Pierce, CEO of Kinisi Robotics, described a common pattern in robotics: most systems can reach about 80% of the way to working reliably, but the remaining 20% is still unresolved and not clearly understood. That final stretch is where systems have to deal with variability, edge cases, and real-world conditions that are difficult to predict or model. It is also where there is still no clear agreement on how to move forward. He talks about being at the Conference on Robot Learning (CoRL), and how researchers working across robotics and AI could not align on a single approach. Reinforcement learning, imitation learning, and the possibility of entirely new architectures are all still being debated, with no consensus on what will ultimately solve the problem.
 
-3h ago
+4h ago
 
 ---
 
@@ -74,7 +74,7 @@ Bren Pierce, CEO of Kinisi Robotics, described a common pattern in robotics: mos
 
 A major barrier for Embodied AI is the latency-precision trade-off. Running a 7B policy usually requires an A100 cluster to stay "reactive," or you end up with choppy 1Hz control that misses dynamic targets. I’ve released FastVLA, a library designed to bring high-parameter policies to closed-loop control on budget cloud hardware (NVIDIA L4). Key Performance Data: Control Frequency: 5.04 Hz (198ms latency) — a 7.16x speedup over the 1420ms baseline. Mechanical Precision: Reduced mean L2 action error from 28.5px to 12.4px by moving to continuous regression heads. Benchmark: Validated on the PushT benchmark, including a new Arabic-PushT variant to test linguistic robustness in action spaces. By optimizing the kernels and memory footprint (4.45GB Peak VRAM), we can now run reactive robots without the "Compute Tax." GitHub/Documentation: https://github.com/BouajilaHamza/fastvla
 
-29m ago
+1h ago
 
 ---
 
@@ -90,13 +90,13 @@ I buy both the HM-D20 and UM960 quadrifilar helix modules for testing, aiming to
 
 The feat has been hailed as a milestone for robotics, a field that has long seen table tennis – and the lightning-fast reactions, perception and skill it demands – as one of the toughest tests of how far the technology has advanced. In the matches, played under official competition rules, Ace displayed a mastery of spin, handled difficult shots, such as balls catching on the net, and pulled off one rapid backspin shot that a professional had thought impossible. A research paper on the robot was published in Nature on Wednesday, but scientists working on the project said Ace had improved since the report was submitted. “We played stronger and stronger players and we beat stronger and stronger players,” said Peter Dürr, the director of Sony AI in Zurich and project lead for Ace. AI researchers use games from chess and go, to poker and Breakout to teach programs on how to make decisions in complex situations. Building an intelligent robot takes the challenge to the next level by requiring the machine to enact decisions effectively. Ace sidesteps some tricky aspects of table tennis by having an eight-jointed arm on a movable base that does not have to stand on two legs. And instead of seeing the ball with two eyes, it draws on images from multiple cameras that view the entire court from different angles and track the position and spin of the ball. By zooming in on the ball’s logo, the camera system can estimate the ball’s spin and axis of rotation in the milliseconds it takes to reach Ace’s end of the table. How to deal with spin, and which shots to play, were honed during 3,000 hours of games played in a computer simulation. Other skills, such as serves, were drawn from those used by expert players.
 
-🔗 [the Guardian](https://www.theguardian.com/science/2026/apr/22/ai-powered-robot-beats-elite-table-tennis-players-milestone-robotics) • 12m ago
+🔗 [the Guardian](https://www.theguardian.com/science/2026/apr/22/ai-powered-robot-beats-elite-table-tennis-players-milestone-robotics) • 57m ago
 
 ---
 
 **[Market Gaps On Mining Robotics](https://www.reddit.com/r/robotics/comments/1ssw8lt/market_gaps_on_mining_robotics/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -132,7 +132,7 @@ HII • 1d ago
 
 Tesla’s Q1 2026 earnings are out.
 
-The Verge • 50m ago
+The Verge • 1h ago
 
 ---
 
@@ -140,7 +140,7 @@ The Verge • 50m ago
 
 In feat hailed as milestone in robotics, Sony AI’s Ace wins three out of five matches played under official rules
 
-The Guardian • 3h ago
+The Guardian • 4h ago
 
 ---
 
@@ -172,13 +172,13 @@ The Washington Post • 1d ago
 
 The IDF has ramped up its use of robots in warfare against Hezbollah in Bint Jbail, accelerating the destruction of weapons infrastructure as military operations intensify.
 
-The Jerusalem Post • 8h ago
+The Jerusalem Post • 9h ago
 
 ---
 
 **[Watch Tesla’s Earnings Beat Expectations Amid Focus on Robotics, Driverless Cars](https://www.bloomberg.com/news/videos/2026-04-22/tesla-earnings-beat-expectations-amid-focus-on-robotics-video)**
 
-Bloomberg.com • 21h ago
+Bloomberg.com • 22h ago
 
 ---
 
@@ -186,7 +186,7 @@ Bloomberg.com • 21h ago
 
 ICreate brings AI robotics systems and 1M-plus users. Why it matters: pilots could test hands-on learning in classrooms, camps and robotics labs.
 
-Stock Titan • 9h ago
+Stock Titan • 10h ago
 
 ---
 
@@ -200,7 +200,7 @@ AGIBOT just rolled out a full new wave of humanoid robots and AI models built fo
 
 📺 AI Revolution
 
-👁️ 27K • 👍 729 • 💬 47 • ⏱️ 16:29 • 1d ago
+👁️ 27K • 👍 732 • 💬 47 • ⏱️ 16:29 • 1d ago
 
 ---
 
@@ -210,7 +210,17 @@ For the first time, an AI-powered machine has bested elite-level athletes at a p
 
 📺 nature video
 
-👁️ 6K • 👍 161 • 💬 45 • ⏱️ 13:38 • 6h ago
+👁️ 10K • 👍 235 • 💬 53 • ⏱️ 13:38 • 7h ago
+
+---
+
+**[Robot Meets Brutal and Untimely End During Marathon](https://www.youtube.com/watch?v=5yqcw5YzRj4)**
+
+Dozens of humanoid robot runners competed in the Beijing half-marathon to mixed success. While a Chinese-built robot named ...
+
+📺 New York Post
+
+👁️ 26K • 👍 265 • 💬 163 • ⏱️ 2:35 • 2d ago
 
 ---
 
@@ -220,7 +230,7 @@ A humanoid robot has beaten the human record for the world's fastest half-marath
 
 📺 ABC News (Australia)
 
-👁️ 88K • 👍 599 • ⏱️ 6:44 • 2d ago
+👁️ 89K • 👍 603 • ⏱️ 6:44 • 2d ago
 
 ---
 
@@ -240,7 +250,7 @@ AI robots failing and glitching 2026 is becoming impossible to ignore. From huma
 
 📺 MindSeeded
 
-👁️ 258K • 👍 15K • 💬 2K • ⏱️ 14:10 • 4d ago
+👁️ 262K • 👍 15K • 💬 2K • ⏱️ 14:10 • 4d ago
 
 ---
 
@@ -250,17 +260,7 @@ Robots have outpaced human runners at this year's Beijing half-marathon, finishi
 
 📺 New York Post
 
-👁️ 75K • 👍 696 • 💬 431 • ⏱️ 3:17 • 3d ago
-
----
-
-**[Moment marathon-running robot shatters after tripping as medical team rush over with stretcher](https://www.youtube.com/watch?v=f5NjB-YQGW8)**
-
-This is the shocking moment a marathon-running robot smashed into pieces after tripping Continue reading: Hilarious moment ...
-
-📺 The Sun
-
-👁️ 186K • 👍 2K • 💬 1K • ⏱️ 2:06 • 5d ago
+👁️ 76K • 👍 700 • 💬 431 • ⏱️ 3:17 • 3d ago
 
 ---
 
@@ -270,27 +270,25 @@ The winner from Honor, a Chinese smartphone maker, completed the 21-kilometer (1
 
 📺 Associated Press
 
-👁️ 73K • 👍 334 • 💬 151 • ⏱️ 0:54 • 3d ago
+👁️ 73K • 👍 335 • 💬 152 • ⏱️ 0:54 • 3d ago
 
 ---
 
-**[Humanoid Robots Outperform Humans During Beijing Half-Marathon](https://www.youtube.com/watch?v=6WwVXz8Tc0Y)**
+**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=KKtpgEOPH3I)**
 
-Several Chinese-made humanoid robots showed off their speed and athleticism at a recent half-marathon in Beijing. This is the ...
+📺 Robot Julie 
 
-📺 Inside Edition
-
-👁️ 13K • 👍 344 • 💬 78 • ⏱️ 1:14 • 1d ago
+👁️ 23K • 👍 101 • 💬 3 • ⏱️ 0:24 • 21h ago
 
 ---
 
-**[Humans far behind as robot breaks record at Beijing half marathon • FRANCE 24 English](https://www.youtube.com/watch?v=tiesaq_GqwI)**
+**[Robot Suction Grip #chrisboden #comedy #engineering #robotics #controls #tooling #factory #work #job](https://www.youtube.com/watch?v=Fwr_IgeBt4M)**
 
-A humanoid robot competing against flesh-and-blood runners broke the world record at a Beijing half marathon on Sunday, ...
+NEW LIVE CHANNEL - https://www.youtube.com/@chrisbodenlive/streams And come hang out in the Discord!
 
-📺 FRANCE 24 English
+📺 Chris Boden
 
-👁️ 80K • 👍 608 • 💬 310 • ⏱️ 1:40 • 3d ago
+👁️ 73K • 👍 7K • 💬 181 • ⏱️ 1:27 • 10h ago
 
 ---
 

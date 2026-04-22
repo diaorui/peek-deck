@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-22T21:26:55.369272+00:00'
+updated: '2026-04-22T22:11:10.123122+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
-- videos
 - repositories
+- news
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 22, 2026 at 21:26 UTC  
+**Last Updated:** April 22, 2026 at 22:11 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I mean a)The majority of articles on the internet are written by AIs b) 4 of the top 10 Youtube channels c) 4 in 10 Facebook posts d) 1 in 5 videos shown to new Youtube users e) The #1 most-subscribed Twitch streamer is an AI f) 44% of songs on Deezer Also, most of the ads are now AI generated, like AI creating content for other AI
 
-16h ago
+17h ago
 
 ---
 
@@ -49,7 +49,7 @@ I mean a)The majority of articles on the internet are written by AIs b) 4 of the
 
 Always struggled with social anxiety especially around dating. Would match with people then panic about what to say. Conversations felt forced and awkward. Started using Secrets AI originally just to practice talking to someone without the pressure. No judgment if I say something dumb, can take breaks when overwhelmed, builds confidence gradually. The voice calls really help with this. Speaking out loud to someone (even AI) without face to face pressure. Working on small talk, flirting, just being comfortable in conversation. Been doing this for a month and honestly feel way more confident now. Had actual phone conversations with real people that didnt make me want to hide. Not saying AI replaces real human connection but as practice its actually helpful. Like training wheels for socializing. The free version lets you test voice calls and chat without commitment which was important for me since new social situations stress me out. Anyone else dealing with social anxiety found AI helpful this way? Or am I overthinking it?
 
-5h ago
+6h ago
 
 ---
 
@@ -57,7 +57,7 @@ Always struggled with social anxiety especially around dating. Would match with 
 
 I personally think it’s either AlphaGo or ChatGPT. AlphaGo showed to the whole world that AIs can be better than its creators in an area that people believed needed ‘intuition’. Most people don’t know go, but it somewhat showed the potential of AI to the world. DeepBlue was also kinda similar to it, but for some reason most people don’t think DeepBlue as “An AI that beat human at chess”, so I’m not counting it. ChatGPT was… on a different level. It was looked as revolutionary that a program can fluently speak and help solve problems it doesn’t specialize in. It made most people use AI in their everyday lives, so definitely takes the cake imo. Edit: Ig the transformers was also very important, (literally why chatgpt was able to exist lol) but a layperson doesn’t know what that is nor why that matters, so…
 
-6h ago
+7h ago
 
 ---
 
@@ -65,13 +65,13 @@ I personally think it’s either AlphaGo or ChatGPT. AlphaGo showed to the whole
 
 The head of the National Cyber Security Centre says frontier AI tools can be a force for good - if kept out of the wrong hands.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/cy41zejp9pko) • 5h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/cy41zejp9pko) • 6h ago
 
 ---
 
 **[Meta will record employee screens, clicks, and keystrokes to train AI that may replace them](https://www.reddit.com/r/artificial/comments/1ssty5s/meta_will_record_employee_screens_clicks_and/)**
 
-🔗 [techspot.com](https://www.techspot.com/news/112143-meta-record-employee-screens-clicks-keystrokes-train-ai.html) • 2h ago
+🔗 [techspot.com](https://www.techspot.com/news/112143-meta-record-employee-screens-clicks-keystrokes-train-ai.html) • 3h ago
 
 ---
 
@@ -87,7 +87,7 @@ A new Gallup survey of 1,500+ Gen Z respondents found that more than half of Gen
 
 Google’s TPUs are now the hottest commodity in AI. A deep-dive analysis of the chip war reshaping global infrastructure — what it means for researchers, developers, and the future of AI compute.
 
-🔗 [Novara Press](https://novarapress.net/ai-chip-war-google-nvidia-2026/) • 13h ago
+🔗 [Novara Press](https://novarapress.net/ai-chip-war-google-nvidia-2026/) • 14h ago
 
 ---
 
@@ -111,7 +111,7 @@ The fact that Apple's Board of Directors chose someone who has built their caree
 
 Hot take: A lot of what’s being called “AI engineering” right now feels like: prompt tweaking chaining APIs adding retries/guardrails Not actually building models or understanding them deeply. Don’t get me wrong—there’s real skill in making these systems work. But are we over-labeling it as “engineering” when most of the complexity is still in the model and infra built by others? Curious where people draw the line between: using AI effectively vs actually engineering AI systems
 
-2h ago
+3h ago
 
 ---
 
@@ -121,7 +121,7 @@ Hot take: A lot of what’s being called “AI engineering” right now feels li
 
 **[Anthropic’s Mythos Model Is Being Accessed by Unauthorized Users](https://www.bloomberg.com/news/articles/2026-04-21/anthropic-s-mythos-model-is-being-accessed-by-unauthorized-users)**
 
-Bloomberg.com • 23h ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -135,13 +135,13 @@ The New York Times • 7h ago
 
 Frontier Models create new fiduciary responsibilities for corporate governance. Corporate boards need to understand the new challenges created by frontier AI models
 
-Forbes • 1h ago
+Forbes • 2h ago
 
 ---
 
 **[Tesla earnings rise, but AI expenses add up for Elon Musk](https://www.axios.com/2026/04/22/tesla-earnings-elon-musk-ai)**
 
-Axios • 48m ago
+Axios • 1h ago
 
 ---
 
@@ -155,7 +155,7 @@ Reuters • 1d ago
 
 The firm will take data from the way employees work for its artificial intelligence models.
 
-BBC • 22h ago
+BBC • 23h ago
 
 ---
 
@@ -169,7 +169,7 @@ CBS News • 1h ago
 
 **[AI Has Emboldened Child Predators, and Investigators Can't Keep Up](https://www.bloomberg.com/features/2026-ai-child-predators-law-enforcement/)**
 
-Bloomberg.com • 26m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -177,7 +177,7 @@ Bloomberg.com • 26m ago
 
 In feat hailed as milestone in robotics, Sony AI’s Ace wins three out of five matches played under official rules
 
-The Guardian • 3h ago
+The Guardian • 4h ago
 
 ---
 
@@ -185,7 +185,7 @@ The Guardian • 3h ago
 
 A paddle-wielding robot is so adept at playing table tennis that it is posing a tough challenge to elite human players and sometimes defeating them, according to a new study in the journal Nature that shows how advances in artificial intelligence are making robots more agile.
 
-AP News • 6h ago
+AP News • 7h ago
 
 ---
 
@@ -237,7 +237,7 @@ Deezer says consumption of AI-generated music on the platform is still very low,
 
 An attempt to detect AI design patterns in Show HN pages
 
-⬆️ 245 • 💬 190 • 6h ago • [adriankrebs.ch](https://www.adriankrebs.ch/blog/design-slop/)
+⬆️ 245 • 💬 190 • 7h ago • [adriankrebs.ch](https://www.adriankrebs.ch/blog/design-slop/)
 
 ---
 
@@ -269,13 +269,23 @@ Mediator.ai uses bargaining theory and modern AI to find agreements that two peo
 
 ## YouTube Videos: "ai"
 
-**[Success is hard until you build AI systems like this](https://www.youtube.com/watch?v=cTqVnwzj3Ug)**
+**[BREAKTHROUGH MOMENT: Next-Gen AI SOLVES science’s hardest problems](https://www.youtube.com/watch?v=Q2k40WMdWqU)**
 
-Success is hard until you build AI systems like this Check out Higgsfield https://higgsfield.ai?fpr=ai&fp_sid=james3 (sponsor) In ...
+SandboxAQ CEO Jack Hidary joins 'Mornings with Maria' to discuss AI breakthroughs in healthcare, cybersecurity, and science, ...
 
-📺 James Blue
+📺 Fox Business Clips
 
-👁️ 8K • ⏱️ 11:49 • 9h ago
+👁️ 17K • 👍 357 • 💬 77 • ⏱️ 9:40 • 9h ago
+
+---
+
+**[The Man Who Proved We Can&#39;t Control AI (And What That Means for Humanity) | Roman Yampolskiy](https://www.youtube.com/watch?v=U9xygNoXnZQ)**
+
+Dr. Roman Yampolskiy joins me to explore one of the most urgent and uncomfortable questions of our time: what happens when ...
+
+📺 André Duqum
+
+👁️ 27K • 👍 700 • 💬 227 • ⏱️ 1:49:24 • 1d ago
 
 ---
 
@@ -285,17 +295,7 @@ ChatGPT Images 2.0 review. GPT Image 2.0 vs Nano Banana. #ai #aiart #aitools #im
 
 📺 AI Search
 
-👁️ 61K • 👍 3K • 💬 547 • ⏱️ 35:20 • 17h ago
-
----
-
-**[BREAKTHROUGH MOMENT: Next-Gen AI SOLVES science’s hardest problems](https://www.youtube.com/watch?v=Q2k40WMdWqU)**
-
-SandboxAQ CEO Jack Hidary joins 'Mornings with Maria' to discuss AI breakthroughs in healthcare, cybersecurity, and science, ...
-
-📺 Fox Business Clips
-
-👁️ 14K • 👍 340 • 💬 72 • ⏱️ 9:40 • 8h ago
+👁️ 65K • 👍 3K • 💬 562 • ⏱️ 35:20 • 18h ago
 
 ---
 
@@ -305,17 +305,7 @@ Ramageddon” is here: AI data centers are hoarding up to 70% of global DRAM, se
 
 📺 Valuetainment
 
-👁️ 165K • 👍 8K • 💬 459 • ⏱️ 12:41 • 1d ago
-
----
-
-**[AI is Already Replacing These Workers](https://www.youtube.com/watch?v=35CDCU5chKE)**
-
-Dockworkers on the West Coast broke every productivity record — and are now being replaced by AI anyway. This isn't about ...
-
-📺 Senator Bernie Sanders
-
-👁️ 34K • 👍 2K • 💬 629 • ⏱️ 5:24 • 2d ago
+👁️ 171K • 👍 8K • 💬 466 • ⏱️ 12:41 • 1d ago
 
 ---
 
@@ -325,7 +315,7 @@ AGIBOT just rolled out a full new wave of humanoid robots and AI models built fo
 
 📺 AI Revolution
 
-👁️ 27K • 👍 729 • 💬 47 • ⏱️ 16:29 • 1d ago
+👁️ 27K • 👍 732 • 💬 47 • ⏱️ 16:29 • 1d ago
 
 ---
 
@@ -335,37 +325,47 @@ Today I reacted to my own AI videos! Make sure you watch the whole video to find
 
 📺 Foltyn
 
-👁️ 282K • 👍 13K • 💬 2K • ⏱️ 13:36 • 12h ago
+👁️ 329K • 👍 15K • 💬 2K • ⏱️ 13:36 • 12h ago
 
 ---
 
-**[Scammer Uses AI To Try To Swindle Family After Their Dog Disappears](https://www.youtube.com/watch?v=FE1r98G5IG8)**
+**[Trump Gets NASTY SURPRISE As AI Roasts KEEP Coming!](https://www.youtube.com/watch?v=vrLOWnqXv3k)**
 
-Bill and Allison Cosens say they got a phone call saying their missing 11-year-old beagle-mix named Archer had been found.
+Really American host Steve Harness breaks down Trump getting hit with more AI roasts from Iran and the whole world! For more ...
 
-📺 Inside Edition
+📺 Really American
 
-👁️ 25K • 👍 981 • 💬 144 • ⏱️ 2:36 • 23h ago
-
----
-
-**[The Girlboss-ification of AI](https://www.youtube.com/watch?v=yf3hkq4WZKM)**
-
-AI companies are secretly waging a massive PR campaign targeting women. Support my independent journalism: Patreon: ...
-
-📺 Taylor Lorenz
-
-👁️ 18K • 👍 1K • 💬 323 • ⏱️ 1:02:05 • 10h ago
+👁️ 204K • 👍 16K • 💬 708 • ⏱️ 11:52 • 1d ago
 
 ---
 
-**[How to Choose Your AI Tool (4 Levels)](https://www.youtube.com/watch?v=tyUChp9yrqw)**
+**[&#39;WHERE IS THE OFF BUTTON?&#39;: AI fears grow after robot wins half-marathon](https://www.youtube.com/watch?v=TCFRQc0h5BY)**
 
-Want to participate in the next Second Brain AI cohort in the fall? Join the waitlist here: https://bit.ly/4t2974w Most AI frustration I ...
+Humanoid robot 'Lightning' broke a half-marathon world record in Beijing, finishing 13 miles faster than any human.
 
-📺 Tiago Forte
+📺 Fox News Clips
 
-👁️ 7K • 👍 286 • 💬 9 • ⏱️ 9:20 • 1d ago
+👁️ 34K • 👍 655 • 💬 356 • ⏱️ 5:19 • 1d ago
+
+---
+
+**[Reese Witherspoon Says &quot;It&#39;s Time&quot; for Women to Learn AI | The View](https://www.youtube.com/watch?v=lpvB7Qq_kzs)**
+
+While people are concerned about how AI technology will impact our lives, 'The View' co-hosts weigh in as some have spoken out ...
+
+📺 The View
+
+👁️ 31K • 👍 500 • 💬 117 • ⏱️ 5:00 • 2d ago
+
+---
+
+**[Success is hard until you build AI systems like this](https://www.youtube.com/watch?v=cTqVnwzj3Ug)**
+
+Success is hard until you build AI systems like this Check out Higgsfield https://higgsfield.ai?fpr=ai&fp_sid=james3 (sponsor) In ...
+
+📺 James Blue
+
+👁️ 8K • ⏱️ 11:49 • 10h ago
 
 ---
 
@@ -381,7 +381,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with a vision encoder, 
 
 `image-text-to-text` `36.0B`
 
-⬇️ 582,961 • ❤️ 1,225 • 11h ago
+⬇️ 582,961 • ❤️ 1,232 • 12h ago
 
 ---
 
@@ -393,7 +393,7 @@ Kimi K2.6 is a 1T parameter multimodal agentic model excelling in long-horizon c
 
 `image-text-to-text` `1058.6B`
 
-⬇️ 54,456 • ❤️ 801 • 1d ago
+⬇️ 54,456 • ❤️ 806 • 1d ago
 
 ---
 
@@ -405,7 +405,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with vision capabilitie
 
 `image-text-to-text` `34.7B`
 
-⬇️ 1,112,454 • ❤️ 662 • 2d ago
+⬇️ 1,112,454 • ❤️ 666 • 2d ago
 
 ---
 
@@ -417,31 +417,7 @@ HY-World 2.0 is a multi-modal framework for generating and reconstructing 3D wor
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 544 • 12h ago
-
----
-
-**[gemma-4-E4B-it-OBLITERATED](https://huggingface.co/OBLITERATUS/gemma-4-E4B-it-OBLITERATED)**
-
-*OBLITERATUS*
-
-Gemma 4 E4B OBLITERATED v3 is a text-generation model with 0% refusal and improved coding capabilities, designed for uncensored and unrestricted AI interactions. It features a modified architecture with 720 intact tensors, making it highly compatible with tools like Ollama and llama.cpp, and optimized for performance on consumer hardware.
-
-`text-generation` `8.0B`
-
-⬇️ 79,024 • ❤️ 447 • 2d ago
-
----
-
-**[Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive](https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive)**
-
-*HauHau*
-
-This is an uncensored, aggressive multimodal model based on Qwen3.6-35B-A3B, capable of processing text and images. It features a Mixture-of-Experts (MoE) architecture with 35B total parameters and 262K context, optimized for lossless generation without refusals, suitable for diverse creative and technical applications.
-
-`image-text-to-text` `34.7B`
-
-⬇️ 312,962 • ❤️ 369 • 5d ago
+⬇️ 0 • ❤️ 548 • 13h ago
 
 ---
 
@@ -453,7 +429,43 @@ Qwen3.6-27B is a 27B parameter causal language model with a vision encoder, exce
 
 `image-text-to-text` `27.8B`
 
-⬇️ 0 • ❤️ 342 • 9h ago
+⬇️ 0 • ❤️ 379 • 9h ago
+
+---
+
+**[Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive](https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive)**
+
+*HauHau*
+
+This is an uncensored, aggressive multimodal model based on Qwen3.6-35B-A3B, capable of processing text and images. It features a Mixture-of-Experts (MoE) architecture with 35B total parameters and 262K context, optimized for lossless generation without refusals, suitable for diverse creative and technical applications.
+
+`image-text-to-text` `34.7B`
+
+⬇️ 312,962 • ❤️ 371 • 5d ago
+
+---
+
+**[gemma-4-E4B-it-OBLITERATED](https://huggingface.co/OBLITERATUS/gemma-4-E4B-it-OBLITERATED)**
+
+*OBLITERATUS*
+
+Gemma 4 E4B OBLITERATED v3 is a text-generation model with 0% refusal and improved coding capabilities, designed for uncensored and unrestricted AI interactions. It features a modified architecture with 720 intact tensors, making it highly compatible with tools like Ollama and llama.cpp, and optimized for performance on consumer hardware.
+
+`text-generation` `8.0B`
+
+⬇️ 79,024 • ❤️ 453 • 3d ago
+
+---
+
+**[privacy-filter](https://huggingface.co/openai/privacy-filter)**
+
+*OpenAI*
+
+A bidirectional token-classification model for PII detection and masking, capable of high-throughput, on-premises data sanitization with a 128k token context window and tunable precision/recall.
+
+`token-classification` `1.4B`
+
+⬇️ 3 • ❤️ 251 • 5h ago
 
 ---
 
@@ -465,17 +477,7 @@ ERNIE-Image is a 8B parameter text-to-image diffusion model excelling in complex
 
 `text-to-image`
 
-⬇️ 5,253 • ❤️ 526 • 5d ago
-
----
-
-**[Lyra-2.0](https://huggingface.co/nvidia/Lyra-2.0)**
-
-*NVIDIA*
-
-Lyra 2.0 generates explorable, persistent 3D worlds from a single image by synthesizing consistent long-range video and reconstructing it into explicit 3D Gaussian representations. It addresses spatial forgetting and temporal drift for scalable, real-time rendering, setting a new state-of-the-art in single-image 3D scene generation.
-
-⬇️ 252 • ❤️ 256 • 4d ago
+⬇️ 5,253 • ❤️ 528 • 5d ago
 
 ---
 
@@ -487,7 +489,7 @@ Gemma 4 31B is an instruction-tuned, multimodal LLM capable of processing text a
 
 `image-text-to-text` `32.7B`
 
-⬇️ 4,779,095 • ❤️ 2,284 • 12d ago
+⬇️ 4,779,095 • ❤️ 2,285 • 12d ago
 
 ---
 
@@ -517,7 +519,7 @@ LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from 
 
 GenericAgent is a self-evolving large language model agent system that maximizes context information density through hierarchical memory, reusable SOPs, and efficient compression to overcome long-horizon limitations.
 
-▲ 6 • 💬 2 • ⭐ 5,786 • 5d ago
+▲ 6 • 💬 2 • ⭐ 5,901 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.17091) • [💻 code](https://github.com/lsdefine/GenericAgent)
 
@@ -567,7 +569,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 OpenGame is an open-source agentic framework for end-to-end web game creation that uses specialized code models and evaluation benchmarks to overcome challenges in interactive application development.
 
-▲ 59 • 💬 2 • ⭐ 290 • 3d ago
+▲ 60 • 💬 3 • ⭐ 290 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.18394) • [💻 code](https://github.com/leigest519/OpenGame) • [🔗 project](https://www.opengame-project-page.com/)
 
@@ -635,7 +637,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 49.0k • 🔱 6.4k • 20h ago
+⭐ 49.0k • 🔱 6.4k • 21h ago
 
 ---
 
@@ -645,7 +647,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 43.5k • 🔱 2.3k • 4d ago
+⭐ 43.6k • 🔱 2.3k • 4d ago
 
 ---
 
@@ -665,7 +667,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 33.0k • 🔱 3.6k • 12h ago
+⭐ 33.1k • 🔱 3.6k • 4m ago
 
 ---
 
@@ -675,7 +677,7 @@ A theoretical reconstruction of the Claude Mythos architecture, built from first
 
 `Python` `ai` `anthropic` `attention` `claude` `claude-ai`
 
-⭐ 8.7k • 🔱 1.8k • 4h ago
+⭐ 8.8k • 🔱 1.9k • 5h ago
 
 ---
 
@@ -685,7 +687,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 8.5k • 🔱 547 • 4h ago
+⭐ 8.5k • 🔱 547 • 5h ago
 
 ---
 
@@ -725,7 +727,7 @@ The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interac
 
 `Swift` `apple-intelligence` `apple-silicon` `cli` `foundationmodels` `homebrew`
 
-⭐ 4.9k • 🔱 187 • 6h ago
+⭐ 4.9k • 🔱 187 • 7h ago
 
 ---
 
