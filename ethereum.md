@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-22T11:17:24.866643+00:00'
+updated: '2026-04-22T12:13:12.327399+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
 - social
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 22, 2026 at 11:17 UTC  
+**Last Updated:** April 22, 2026 at 12:13 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,19 +72,19 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+7h ago
 
 ---
 
 **[Arbitrum freezing $71M in ETH tied to Kelp DAO is a reminder that “decentralized” doesn’t always mean unstoppable](https://www.reddit.com/r/ethereum/comments/1srv422/arbitrum_freezing_71m_in_eth_tied_to_kelp_dao_is/)**
 
-🔗 [websnack.org](https://websnack.org/news/arbitrum-freezes-71m-eth-kelp-dao-apr-2026) • 17h ago
+🔗 [websnack.org](https://websnack.org/news/arbitrum-freezes-71m-eth-kelp-dao-apr-2026) • 18h ago
 
 ---
 
 **[Need some suggestions.](https://www.reddit.com/r/ethereum/comments/1sse02k/need_some_suggestions/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -150,7 +150,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Advisory council says validator signatures and wallet cryptography could be vulnerable if future quantum computers break current encryption.
 
-Decrypt • 13h ago
+Decrypt • 14h ago
 
 ---
 
@@ -158,7 +158,7 @@ Decrypt • 13h ago
 
 The cryptocurrency market has switched bullish once again after a bearish start to the week.Following the crypto market recovery over the past week, several Ethereum (ETH) onchain metrics are demonstrating notable changes.Bitcoin hit the $78,100 level earlier on Wednesday, while Ethereum is now app…
 
-TradingView • 1h ago
+TradingView • 2h ago
 
 ---
 
@@ -166,7 +166,7 @@ TradingView • 1h ago
 
 Bitcoin (BTC) traded at $77,541 per coin on Wednesday, April 22, 2026, up 2.2% over 24 hours and 4.3% on the week, after Trump extended the Iran ceasefire indefinitely and Strategy disclosed a $2.54 billion BTC buy lifting holdings past 815,000 coins.The move takes the leading digital asset to its…
 
-TradingView • 2h ago
+TradingView • 3h ago
 
 ---
 
@@ -182,13 +182,13 @@ Yahoo Finance • 1d ago
 
 Ethereum offers more stable returns with clearer long-term catalysts.
 
-The Motley Fool • 18h ago
+The Motley Fool • 19h ago
 
 ---
 
 **[Bitcoin Price Tops $78,000 to Hit 11-Week High. XRP, Ethereum, Cryptos Surging.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-cryptos-f690b700)**
 
-Barron's • 2h ago
+Barron's • 3h ago
 
 ---
 
@@ -204,7 +204,7 @@ thestreet.com • 2d ago
 
 MONACO, April  21, 2026  (GLOBE NEWSWIRE) -- AlphaPepe has sold out Stage 13 and opened Stage 14 at $0.01524, pushing the presale into its next pr...
 
-markets.businessinsider.com • 10h ago
+markets.businessinsider.com • 11h ago
 
 ---
 
@@ -212,7 +212,7 @@ markets.businessinsider.com • 10h ago
 
 Following the crypto market recovery over the past week, several Ethereum (ETH) onchain metrics are demonstrating notable changes.
 
-FXStreet • 13h ago
+FXStreet • 14h ago
 
 ---
 
@@ -220,7 +220,7 @@ FXStreet • 13h ago
 
 Fidelity Ethereum ETF reports $2.9 million daily outflow amid ongoing ETH market trends, impacting Ethereum ETF outflows and ETH price prediction.
 
-blockchain.news • 9h ago
+blockchain.news • 10h ago
 
 ---
 
@@ -234,7 +234,7 @@ See exactly what top investors are trading in real time: try Milk Road Pro for j
 
 📺 Milk Road
 
-👁️ 4K • 👍 148 • 💬 42 • ⏱️ 36:12 • 16h ago
+👁️ 4K • 👍 148 • 💬 42 • ⏱️ 36:12 • 17h ago
 
 ---
 
@@ -254,7 +254,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 56 • 👍 6 • ⏱️ 4:36 • 2h ago
+👁️ 56 • 👍 6 • ⏱️ 4:36 • 3h ago
 
 ---
 
@@ -262,7 +262,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Digital Asset Investor
 
-👁️ 244 • 👍 28 • ⏱️ 1:36 • 15m ago
+👁️ 244 • 👍 28 • ⏱️ 1:36 • 1h ago
 
 ---
 
@@ -272,7 +272,7 @@ Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Zoomex - https://
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 153 • 💬 30 • ⏱️ 10:42 • 12h ago
+👁️ 3K • 👍 153 • 💬 30 • ⏱️ 10:42 • 13h ago
 
 ---
 
@@ -282,7 +282,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 6K • 👍 322 • 💬 69 • ⏱️ 1:24:23 • 23h ago
+👁️ 6K • 👍 322 • 💬 69 • ⏱️ 1:24:23 • 1d ago
 
 ---
 
@@ -312,7 +312,7 @@ THE BEST OF THE BEST THE TOP OF THE TOP, PERIOD. OMIKAMI & RYUJIN FOR EVER.
 
 📺 Lamedo
 
-👁️ 534 • 👍 69 • 💬 24 • ⏱️ 20:16 • 9h ago
+👁️ 534 • 👍 69 • 💬 24 • ⏱️ 20:16 • 10h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-22T11:17:24.853668+00:00'
+updated: '2026-04-22T12:13:12.314543+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
 - social
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 22, 2026 at 11:17 UTC  
+**Last Updated:** April 22, 2026 at 12:13 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I mean a)The majority of articles on the internet are written by AIs b) 4 of the top 10 Youtube channels c) 4 in 10 Facebook posts d) 1 in 5 videos shown to new Youtube users e) The #1 most-subscribed Twitch streamer is an AI f) 44% of songs on Deezer Also, most of the ads are now AI generated, like AI creating content for other AI
 
-6h ago
+7h ago
 
 ---
 
@@ -49,7 +49,7 @@ I mean a)The majority of articles on the internet are written by AIs b) 4 of the
 
 A new Gallup survey of 1,500+ Gen Z respondents found that more than half of Gen Z living in the US regularly use generative AI, but their feelings about the technology are getting worse. Among those aged 14 to 29, compared to last year, excitement dropped from 36% to 22%, hopefulness fell from 27% to 18%, and anger jumped from 22% to 31%. The main driver behind the shift appears to be job anxiety, nearly half of respondents said the risks of AI in the workplace outweigh the benefits. https://www.gallup.com/analytics/651674/gen-z-research.aspx
 
-8h ago
+9h ago
 
 ---
 
@@ -57,7 +57,7 @@ A new Gallup survey of 1,500+ Gen Z respondents found that more than half of Gen
 
 NotebookLM is one of the best and most useful AI platforms out there, but once you start using it regularly you also feel its limitations leaving something to be desired more. There are limits on the amount of sources you can add in a notebook. There are limits on the number of notebooks you can have. You cannot have sources that exceed 500,000 words and are more than 200MB. You are vendor locked in to Google services (LLMs, usage models, etc.) with no option to configure them. Limited external data sources and service integrations. NotebookLM Agent is specifically optimised for just studying and researching, but you can do so much more with the source data. Lack of multiplayer support. ...and more. SurfSense is specifically made to solve these problems. For those who dont know, SurfSense is open source, privacy focused alternative to NotebookLM for teams with no data limit's. It currently empowers you to: Control Your Data Flow - Keep your data private and secure. No Data Limits - Add an unlimited amount of sources and notebooks. No Vendor Lock-in - Configure any LLM, image, TTS, and STT models to use. 25+ External Data Sources - Add your sources from Google Drive, OneDrive, Dropbox, Notion, and many other external services. Real-Time Multiplayer Support - Work easily with your team members in a shared notebook. Desktop App - Get assistance in your OS. Check us out at https://github.com/MODSetter/SurfSense if this interests you or if you want to contribute to a open source software
 
-6h ago
+7h ago
 
 ---
 
@@ -65,7 +65,7 @@ NotebookLM is one of the best and most useful AI platforms out there, but once y
 
 The fact that Apple's Board of Directors chose someone who has built their career on the hardware side speaks volumes. Apple's gamble suggests they believe the future of AI lies in hardware, not software. Apple clearly isn't trying to compete with Google, OpenAI, or Anthropic by having an LLM model. But it does seem to believe that its platform (the iPhone), with its advanced processor, can deliver models locally on the phone instead of from the cloud. Will the gamble pay off?
 
-22h ago
+23h ago
 
 ---
 
@@ -73,7 +73,7 @@ The fact that Apple's Board of Directors chose someone who has built their caree
 
 Jeff Bezos’s five-month-old startup, Project Prometheus, is nearing a historic $10B funding round backed by Wall Street giants like JPMorgan and BlackRock. The Tech: They are building "Physical AI" that natively understands the laws of physics to revolutionize physical products like aerospace, automotive, and robotics. It is Bezos's first operational role since leaving Amazon in 2021 with co-CEO Vik Bajaj, a physicist and former Google X scientist who co-founded the Alphabet health startup Verily. They’ve aggressively assembled a 100+ person powerhouse team by poaching top-tier researchers from OpenAI, Meta, Google DeepMind, and xAI. They even acquired the agentic AI startup General Agents shortly after launch specifically to bring former DeepMind researcher Sherjil Ozair and his engineering team into the fold. I am all for money going into companies that accelerate discoveries in physical AI, materials, manufacturing. Another great effort is periodic labs, they raised $300 m. But, is this valuation justified, or are we really in a massive bubble? Are they expecting that they are going to solve all of the physical AI ?
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-04-21/jeff-bezos-nears-10-billion-funding-round-for-ai-lab-ft-says) • 16h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-04-21/jeff-bezos-nears-10-billion-funding-round-for-ai-lab-ft-says) • 17h ago
 
 ---
 
@@ -81,7 +81,7 @@ Jeff Bezos’s five-month-old startup, Project Prometheus, is nearing a historic
 
 Google’s TPUs are now the hottest commodity in AI. A deep-dive analysis of the chip war reshaping global infrastructure — what it means for researchers, developers, and the future of AI compute.
 
-🔗 [Novara Press](https://novarapress.net/ai-chip-war-google-nvidia-2026/) • 3h ago
+🔗 [Novara Press](https://novarapress.net/ai-chip-war-google-nvidia-2026/) • 4h ago
 
 ---
 
@@ -89,7 +89,7 @@ Google’s TPUs are now the hottest commodity in AI. A deep-dive analysis of the
 
 Apparently MetaAI has it's honesty setting set to 99%. https://preview.redd.it/md3puymhmnwg1.png?width=738&format=png&auto=webp&s=c53544c3d463d1f0221509a80972386d0f5073d9
 
-8h ago
+9h ago
 
 ---
 
@@ -103,7 +103,7 @@ Apparently MetaAI has it's honesty setting set to 99%. https://preview.redd.it/m
 
 **[Blossom trees in The Hague (trees edited)](https://www.reddit.com/r/artificial/comments/1sryn3e/blossom_trees_in_the_hague_trees_edited/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -111,7 +111,7 @@ Apparently MetaAI has it's honesty setting set to 99%. https://preview.redd.it/m
 
 Hi there, i am currently looking for a new job - and sometimes ask googles ai mode. Since those answers where all sugar coated and everything i typed was a great idea, plan - whatever i looked for the reason of that. By default the "Helpfulness" mode seems to be activated - so i asked for "honesness" mode instead. Now everything i typed is - according to the ai - kinda trash and i probably won't be able to do it anyway (e.g. i am over 40 and ai tells me i am to old and that it won't work anyway). Reality probably is somewhere in between. So my question is about those modes - are they simple instructions that the ai follows - like beeing supportive no matter what vs trashing everything no matter what - or is the behaviour somewhat based on the sources the ai finds regarding my questions or comments?
 
-2h ago
+3h ago
 
 ---
 
@@ -131,7 +131,7 @@ WIRED • 1d ago
 
 According to her profile, she was a registered nurse with Jennifer Lawrence looks who offered red meat posts to lonely conservative men online.
 
-New York Post • 11h ago
+New York Post • 12h ago
 
 ---
 
@@ -139,7 +139,7 @@ New York Post • 11h ago
 
 An aspiring orthopedic surgeon used generative AI tools to design everything - from the woman&#039;s face and body to her captions.
 
-NDTV • 5h ago
+NDTV • 6h ago
 
 ---
 
@@ -147,13 +147,13 @@ NDTV • 5h ago
 
 Billionaire Michael Dell and wife Susan Dell become the first donors to give over $1 billion to UT Austin for a massive AI-powered medical campus.
 
-Fox News • 8h ago
+Fox News • 9h ago
 
 ---
 
 **[Exclusive: Meta to start capturing employee mouse movements, keystrokes for AI training data](https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/)**
 
-Reuters • 15h ago
+Reuters • 16h ago
 
 ---
 
@@ -169,25 +169,25 @@ Business Insider • 16h ago
 
 The data, gathered through a new internal tool, will be used to improve AI agents’ ability to navigate software and complete workplace tasks, but raises fresh questions about governance and employee trust.
 
-Computerworld • 1h ago
+Computerworld • 2h ago
 
 ---
 
 **[The AI trade is back on](https://www.axios.com/2026/04/22/ai-anthropic-stocks-iran)**
 
-Axios • 15m ago
+Axios • 1h ago
 
 ---
 
 **[Prediction: Investors rotating out of artificial intelligence (AI) stocks made a costly mistake. The Nasdaq proves it.](https://www.msn.com/en-us/money/markets/prediction-investors-rotating-out-of-artificial-intelligence-ai-stocks-made-a-costly-mistake-the-nasdaq-proves-it/ar-AA21sKzF?ocid=finance-verthp-feeds)**
 
-MSN • 15m ago
+MSN • 1h ago
 
 ---
 
 **[Wall Street falls as Middle East concerns offset earnings optimism](https://www.reuters.com/world/asia-pacific/us-stock-futures-climb-ai-optimism-tempers-middle-east-concerns-2026-04-21/)**
 
-Reuters • 12h ago
+Reuters • 13h ago
 
 ---
 
@@ -203,7 +203,7 @@ Reuters • 12h ago
 
 **[Meta to start capturing employee mouse movements, keystrokes for AI training](https://news.ycombinator.com/item?id=47851948)**
 
-⬆️ 581 • 💬 416 • 17h ago • [reuters.com](https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/)
+⬆️ 581 • 💬 416 • 18h ago • [reuters.com](https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/)
 
 ---
 
@@ -239,7 +239,7 @@ Police lured the man to a meeting and arrested him after accessing a private Wha
 
 **[Tell HN: I'm sick of AI everything](https://news.ycombinator.com/item?id=47857461)**
 
-⬆️ 262 • 💬 149 • 9h ago
+⬆️ 262 • 💬 149 • 10h ago
 
 ---
 
@@ -247,7 +247,7 @@ Police lured the man to a meeting and arrested him after accessing a private Wha
 
 High-performance AI gateway written in Go - unified OpenAI-compatible API for OpenAI, Anthropic, Gemini, Groq, xAI &amp; Ollama. LiteLLM alternative with observability, guardrails &amp; streaming. ...
 
-⬆️ 178 • 💬 69 • 21h ago • [GitHub](https://github.com/ENTERPILOT/GOModel/)
+⬆️ 178 • 💬 69 • 22h ago • [GitHub](https://github.com/ENTERPILOT/GOModel/)
 
 ---
 
@@ -277,7 +277,7 @@ Today I reacted to my own AI videos! Make sure you watch the whole video to find
 
 📺 Foltyn
 
-👁️ 42K • 👍 4K • 💬 1K • ⏱️ 13:36 • 1h ago
+👁️ 42K • 👍 4K • 💬 1K • ⏱️ 13:36 • 2h ago
 
 ---
 
@@ -287,7 +287,7 @@ Ramageddon” is here: AI data centers are hoarding up to 70% of global DRAM, se
 
 📺 Valuetainment
 
-👁️ 124K • 👍 6K • 💬 370 • ⏱️ 12:41 • 22h ago
+👁️ 124K • 👍 6K • 💬 370 • ⏱️ 12:41 • 23h ago
 
 ---
 
@@ -307,7 +307,7 @@ Sam Altman and Other AI Tech Billionaires Don't Want You to Know About This.. X 
 
 📺 Godrules
 
-👁️ 38K • 👍 3K • 💬 452 • ⏱️ 25:44 • 8h ago
+👁️ 38K • 👍 3K • 💬 452 • ⏱️ 25:44 • 9h ago
 
 ---
 
@@ -317,7 +317,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 15K • 👍 576 • 💬 78 • ⏱️ 8:16 • 20h ago
+👁️ 15K • 👍 576 • 💬 78 • ⏱️ 8:16 • 21h ago
 
 ---
 
@@ -327,7 +327,7 @@ Space Agent is a browser-first AI agent runtime and open source AI workspace bui
 
 📺 Agent Zero
 
-👁️ 8K • 👍 613 • 💬 115 • ⏱️ 16:16 • 18h ago
+👁️ 8K • 👍 613 • 💬 115 • ⏱️ 16:16 • 19h ago
 
 ---
 
@@ -347,7 +347,7 @@ Humanoid robot 'Lightning' broke a half-marathon world record in Beijing, finish
 
 📺 Fox News Clips
 
-👁️ 22K • 👍 427 • 💬 247 • ⏱️ 5:19 • 20h ago
+👁️ 22K • 👍 427 • 💬 247 • ⏱️ 5:19 • 21h ago
 
 ---
 
@@ -383,7 +383,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with a vision encoder, 
 
 `image-text-to-text` `36.0B`
 
-⬇️ 582,961 • ❤️ 1,176 • 1h ago
+⬇️ 582,961 • ❤️ 1,176 • 2h ago
 
 ---
 
@@ -419,7 +419,7 @@ HY-World 2.0 is a multi-modal framework for generating and reconstructing 3D wor
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 534 • 2h ago
+⬇️ 0 • ❤️ 534 • 3h ago
 
 ---
 
@@ -455,7 +455,7 @@ HY-Embodied-0.5 is a multilingual vision-language model designed for embodied ag
 
 `image-text-to-text` `3.8B`
 
-⬇️ 2,459 • ❤️ 897 • 7d ago
+⬇️ 2,459 • ❤️ 897 • 8d ago
 
 ---
 
@@ -637,7 +637,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 48.9k • 🔱 6.4k • 10h ago
+⭐ 48.9k • 🔱 6.4k • 11h ago
 
 ---
 
@@ -657,7 +657,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 38.3k • 🔱 7.8k • 20h ago
+⭐ 38.3k • 🔱 7.8k • 21h ago
 
 ---
 
@@ -667,7 +667,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 32.7k • 🔱 3.6k • 2h ago
+⭐ 32.7k • 🔱 3.6k • 3h ago
 
 ---
 
@@ -677,7 +677,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 8.5k • 🔱 547 • 22m ago
+⭐ 8.5k • 🔱 547 • 1h ago
 
 ---
 
@@ -727,7 +727,7 @@ The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interac
 
 `Swift` `apple-intelligence` `apple-silicon` `cli` `foundationmodels` `homebrew`
 
-⭐ 4.8k • 🔱 187 • 40m ago
+⭐ 4.8k • 🔱 187 • 1h ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-22T11:17:24.869508+00:00'
+updated: '2026-04-22T12:13:12.330267+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 22, 2026 at 11:17 UTC  
+**Last Updated:** April 22, 2026 at 12:13 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Was working on my routine tinkering without a specific objective or idea. And this motion object came up. Does it resemble with anything? what would you call to such motion? where can it be helpful? Your inputs may help fine tune and turn it into something useful.
 
-2h ago
+3h ago
 
 ---
 
@@ -52,7 +52,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/2045783119702425841
 
 CNBC dropped a piece today worth reading. Chinese startups took the top 6 spots in global humanoid shipments in 2025. Figure and Tesla were the only US companies in the top 10. Figure is sitting at a $39B valuation having shipped around 150 units. Unitree ships thousands at $13k a piece. The "China builds the hardware, US builds the brain" take keeps coming up and I don't think it holds anymore. Chinese companies are competing on the AI model side too and closing the gap. On top of that, their EV supply chains already produce the actuators and precision components humanoids need, so they're repurposing existing manufacturing while US companies are building that from scratch. That's where the price gap comes from, not some difference in ambition. The other argument I keep seeing is that the shipped robots only do simple tasks, as if that invalidates the whole thing. Every deployed unit generates real world data that no amount of simulation or staged demos can match. You have to start shipping somewhere. The robots improve while being used, not while sitting in a lab waiting to be perfect.
 
-21h ago
+22h ago
 
 ---
 
@@ -60,7 +60,7 @@ CNBC dropped a piece today worth reading. Chinese startups took the top 6 spots 
 
 built a utility where you drop in a urdf (the robot's blueprint) and it generates a full leader for it. cad to print, motor placements, control code, all of it. kinematics stay identical just scaled down, so teleop works out of the box. motor placement is mostly solved with heuristics. routing links between them is still the hard part. https://x.com/pbshgthm/status/2046566239422853363 planning to make it lerobot compatible, so this can be used as a leader arm when printed out for any embodiment would love to know thoughts
 
-18h ago
+19h ago
 
 ---
 
@@ -68,7 +68,7 @@ built a utility where you drop in a urdf (the robot's blueprint) and it generate
 
 Hello everyone! I've successfully completed my Hobby RC four-legged robot model. The goal was to create a 3D-printable frame using carbon fiber and aluminum, capable of carrying a Raspberry Pi. It's now complete and running well. I'm happy to share this achievement with anyone passionate about Robotics Hobbies, and STEM. Thanks for watching
 
-23h ago
+1d ago
 
 ---
 
@@ -76,13 +76,13 @@ Hello everyone! I've successfully completed my Hobby RC four-legged robot model.
 
 I’m currently knee-deep in a 24-axis robotics project with some brutal space constraints. We’re using Elmo Motion Control drives because, honestly, I haven't found anything else that packs this much power into such a small footprint. The EtherCAT synchronization has been rock solid so far, even as we scale up. I was just wondering how others are finding the integration process when the machine architecture is this tight. Does the "set it and forget it" reliability hold up for you in the field?
 
-7h ago
+8h ago
 
 ---
 
 **[What is the proportion that design can occupy in the future soft robotics area?](https://www.reddit.com/r/robotics/comments/1ssg2sa/what_is_the_proportion_that_design_can_occupy_in/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -96,7 +96,7 @@ I’m currently knee-deep in a 24-axis robotics project with some brutal space c
 
 I was looking through ATEC 2026 earlier, and the part that stuck with me most was the platform choice. What makes it interesting to me is that it seems less about a clean single demo and more about sustained outdoor autonomy — moving through rough terrain, handling objects, and staying reliable over a longer run. If you actually had to build for something like that, what would you pick? My first instinct is that a humanoid is attractive in theory, but I’m not sure it’s the best tradeoff once outdoor reliability becomes a real constraint. A quadruped with an arm, or maybe a wheeled-legged hybrid, feels more practical to me — but maybe I’m underestimating how much the extra dexterity matters. Curious what people here think is the best balance between: • mobility on ugly terrain • manipulation capability • control complexity • and just surviving real-world use
 
-18h ago
+19h ago
 
 ---
 
@@ -130,7 +130,7 @@ CNBC • 3d ago
 
 The robots are coming. Will they be built in America?
 
-The Washington Post • 18h ago
+The Washington Post • 19h ago
 
 ---
 
@@ -160,7 +160,7 @@ DefenseScoop • 1d ago
 
 **[SpaceX Alum’s Startup Nears $1 Billion Valuation in Pursuit of Uncrewed Flights](https://www.bloomberg.com/news/articles/2026-04-21/reliable-robotics-raises-more-cash-to-pursue-uncrewed-flights)**
 
-Bloomberg.com • 22h ago
+Bloomberg.com • 23h ago
 
 ---
 
@@ -168,7 +168,7 @@ Bloomberg.com • 22h ago
 
 Tesla (NASDAQ:TSLA) CEO Elon Musk is making a bold case for a future where artificial intelligence doesn't just improve the economy, but completely reshapes it to the point where even luxury living, like penthouses, could become widely accessible. In a...
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -238,7 +238,7 @@ This is the shocking moment a marathon-running robot smashed into pieces after t
 
 📺 The Sun
 
-👁️ 180K • 👍 2K • 💬 1K • ⏱️ 2:06 • 4d ago
+👁️ 180K • 👍 2K • 💬 1K • ⏱️ 2:06 • 5d ago
 
 ---
 
@@ -278,7 +278,7 @@ A humanoid robot competing against flesh-and-blood runners broke the world recor
 
 📺 FRANCE 24 English
 
-👁️ 79K • 👍 605 • 💬 310 • ⏱️ 1:40 • 2d ago
+👁️ 79K • 👍 605 • 💬 310 • ⏱️ 1:40 • 3d ago
 
 ---
 
