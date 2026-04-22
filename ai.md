@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-22T18:38:12.414985+00:00'
+updated: '2026-04-22T20:06:21.129226+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
 - repositories
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** April 22, 2026 at 18:38 UTC  
+**Last Updated:** April 22, 2026 at 20:06 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Always struggled with social anxiety especially around dating. Would match with people then panic about what to say. Conversations felt forced and awkward. Started using Secrets AI originally just to practice talking to someone without the pressure. No judgment if I say something dumb, can take breaks when overwhelmed, builds confidence gradually. The voice calls really help with this. Speaking out loud to someone (even AI) without face to face pressure. Working on small talk, flirting, just being comfortable in conversation. Been doing this for a month and honestly feel way more confident now. Had actual phone conversations with real people that didnt make me want to hide. Not saying AI replaces real human connection but as practice its actually helpful. Like training wheels for socializing. The free version lets you test voice calls and chat without commitment which was important for me since new social situations stress me out. Anyone else dealing with social anxiety found AI helpful this way? Or am I overthinking it?
 
-2h ago
+4h ago
 
 ---
 
@@ -49,7 +49,7 @@ Always struggled with social anxiety especially around dating. Would match with 
 
 I mean a)The majority of articles on the internet are written by AIs b) 4 of the top 10 Youtube channels c) 4 in 10 Facebook posts d) 1 in 5 videos shown to new Youtube users e) The #1 most-subscribed Twitch streamer is an AI f) 44% of songs on Deezer Also, most of the ads are now AI generated, like AI creating content for other AI
 
-13h ago
+15h ago
 
 ---
 
@@ -57,7 +57,7 @@ I mean a)The majority of articles on the internet are written by AIs b) 4 of the
 
 I personally think it’s either AlphaGo or ChatGPT. AlphaGo showed to the whole world that AIs can be better than its creators in an area that people believed needed ‘intuition’. Most people don’t know go, but it somewhat showed the potential of AI to the world. DeepBlue was also kinda similar to it, but for some reason most people don’t think DeepBlue as “An AI that beat human at chess”, so I’m not counting it. ChatGPT was… on a different level. It was looked as revolutionary that a program can fluently speak and help solve problems it doesn’t specialize in. It made most people use AI in their everyday lives, so definitely takes the cake imo. Edit: Ig the transformers was also very important, (literally why chatgpt was able to exist lol) but a layperson doesn’t know what that is nor why that matters, so…
 
-3h ago
+5h ago
 
 ---
 
@@ -65,7 +65,13 @@ I personally think it’s either AlphaGo or ChatGPT. AlphaGo showed to the whole
 
 The head of the National Cyber Security Centre says frontier AI tools can be a force for good - if kept out of the wrong hands.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/cy41zejp9pko) • 2h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/cy41zejp9pko) • 4h ago
+
+---
+
+**[Meta will record employee screens, clicks, and keystrokes to train AI that may replace them](https://www.reddit.com/r/artificial/comments/1ssty5s/meta_will_record_employee_screens_clicks_and/)**
+
+🔗 [techspot.com](https://www.techspot.com/news/112143-meta-record-employee-screens-clicks-keystrokes-train-ai.html) • 1h ago
 
 ---
 
@@ -73,7 +79,15 @@ The head of the National Cyber Security Centre says frontier AI tools can be a f
 
 A new Gallup survey of 1,500+ Gen Z respondents found that more than half of Gen Z living in the US regularly use generative AI, but their feelings about the technology are getting worse. Among those aged 14 to 29, compared to last year, excitement dropped from 36% to 22%, hopefulness fell from 27% to 18%, and anger jumped from 22% to 31%. The main driver behind the shift appears to be job anxiety, nearly half of respondents said the risks of AI in the workplace outweigh the benefits. https://www.gallup.com/analytics/651674/gen-z-research.aspx
 
-16h ago
+17h ago
+
+---
+
+**[Help me creating a workflow to automate Web+Excel+AI](https://www.reddit.com/r/artificial/comments/1sssq0n/help_me_creating_a_workflow_to_automate_webexcelai/)**
+
+I have a commerce background. I am a beginner (Please guide me like a begginer i can't understand heavy tech language), and I don't have experience with Agentic AI, Automation, or coding. So, I want to know how I can automate Web+Excel+AI and what skills I need to do so, like coding or n8n. This is how my workflow looks: Automate the extraction of PDF from the Web, and convert the data given in the file to Excel Creating an AI which act as a brain for automation and does what I want to make them do, like sum, putting different-different formula and functions in each cell as per the requirement. This is the basic workflow. So, tell me how I can do this and what skills I need to learn (VBA, Python, Power Query) And which Automation tool should I use to do the above, like MS Power Automate? Give me a Roadmap of where I should begin my tech skills. This will be a plus if you can provide Video links to the playlist. Thank you for helping in advance!
+
+2h ago
 
 ---
 
@@ -81,7 +95,7 @@ A new Gallup survey of 1,500+ Gen Z respondents found that more than half of Gen
 
 Google’s TPUs are now the hottest commodity in AI. A deep-dive analysis of the chip war reshaping global infrastructure — what it means for researchers, developers, and the future of AI compute.
 
-🔗 [Novara Press](https://novarapress.net/ai-chip-war-google-nvidia-2026/) • 10h ago
+🔗 [Novara Press](https://novarapress.net/ai-chip-war-google-nvidia-2026/) • 12h ago
 
 ---
 
@@ -97,21 +111,7 @@ The fact that Apple's Board of Directors chose someone who has built their caree
 
 Jeff Bezos’s five-month-old startup, Project Prometheus, is nearing a historic $10B funding round backed by Wall Street giants like JPMorgan and BlackRock. The Tech: They are building "Physical AI" that natively understands the laws of physics to revolutionize physical products like aerospace, automotive, and robotics. It is Bezos's first operational role since leaving Amazon in 2021 with co-CEO Vik Bajaj, a physicist and former Google X scientist who co-founded the Alphabet health startup Verily. They’ve aggressively assembled a 100+ person powerhouse team by poaching top-tier researchers from OpenAI, Meta, Google DeepMind, and xAI. They even acquired the agentic AI startup General Agents shortly after launch specifically to bring former DeepMind researcher Sherjil Ozair and his engineering team into the fold. I am all for money going into companies that accelerate discoveries in physical AI, materials, manufacturing. Another great effort is periodic labs, they raised $300 m. But, is this valuation justified, or are we really in a massive bubble? Are they expecting that they are going to solve all of the physical AI ?
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-04-21/jeff-bezos-nears-10-billion-funding-round-for-ai-lab-ft-says) • 23h ago
-
----
-
-**[Meta will record employee screens, clicks, and keystrokes to train AI that may replace them](https://www.reddit.com/r/artificial/comments/1ssty5s/meta_will_record_employee_screens_clicks_and/)**
-
-🔗 [techspot.com](https://www.techspot.com/news/112143-meta-record-employee-screens-clicks-keystrokes-train-ai.html) • 9m ago
-
----
-
-**[Help me creating a workflow to automate Web+Excel+AI](https://www.reddit.com/r/artificial/comments/1sssq0n/help_me_creating_a_workflow_to_automate_webexcelai/)**
-
-I have a commerce background. I am a beginner (Please guide me like a begginer i can't understand heavy tech language), and I don't have experience with Agentic AI, Automation, or coding. So, I want to know how I can automate Web+Excel+AI and what skills I need to do so, like coding or n8n. This is how my workflow looks: Automate the extraction of PDF from the Web, and convert the data given in the file to Excel Creating an AI which act as a brain for automation and does what I want to make them do, like sum, putting different-different formula and functions in each cell as per the requirement. This is the basic workflow. So, tell me how I can do this and what skills I need to learn (VBA, Python, Power Query) And which Automation tool should I use to do the above, like MS Power Automate? Give me a Roadmap of where I should begin my tech skills. This will be a plus if you can provide Video links to the playlist. Thank you for helping in advance!
-
-52m ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-04-21/jeff-bezos-nears-10-billion-funding-round-for-ai-lab-ft-says) • 1d ago
 
 ---
 
@@ -121,13 +121,13 @@ I have a commerce background. I am a beginner (Please guide me like a begginer i
 
 **[Anthropic’s Mythos Model Is Being Accessed by Unauthorized Users](https://www.bloomberg.com/news/articles/2026-04-21/anthropic-s-mythos-model-is-being-accessed-by-unauthorized-users)**
 
-Bloomberg • 20h ago
+Bloomberg • 22h ago
 
 ---
 
 **[Anthropic’s New Mythos A.I. Model Sets Off Global Alarms](https://www.nytimes.com/2026/04/22/technology/anthropics-mythos-ai.html)**
 
-The New York Times • 4h ago
+The New York Times • 5h ago
 
 ---
 
@@ -135,7 +135,7 @@ The New York Times • 4h ago
 
 Anthropic’s decision to restrict access to its powerful new model increases fears about the advanced technology
 
-The Guardian • 2h ago
+The Guardian • 1h ago
 
 ---
 
@@ -143,7 +143,7 @@ The Guardian • 2h ago
 
 In feat hailed as milestone in robotics, Sony AI’s Ace wins three out of five matches played under official rules
 
-The Guardian • 52m ago
+The Guardian • 2h ago
 
 ---
 
@@ -151,29 +151,37 @@ The Guardian • 52m ago
 
 A paddle-wielding robot is so adept at playing table tennis that it is posing a tough challenge to elite human players and sometimes defeating them, according to a new study in the journal Nature that shows how advances in artificial intelligence are making robots more agile.
 
-AP News • 3h ago
+AP News • 4h ago
 
 ---
 
-**[Ping Pong Robot Uses Agentic AI to Beat Expert Human Players](https://www.bloomberg.com/news/articles/2026-04-22/ping-pong-robot-uses-agentic-ai-to-beat-expert-human-players)**
+**[Ping-pong robot Ace makes history by beating top-level human players](https://www.reuters.com/sports/ping-pong-robot-ace-makes-history-by-beating-top-level-human-players-2026-04-22/)**
 
-Bloomberg • 3h ago
-
----
-
-**[Using AI To Personalize Healthcare–Without Losing Patient Trust](https://www.forbes.com/sites/innovationrx/2026/04/22/using-ai-to-personalize-healthcarewithout-losing-patient-trust/)**
-
-In this week’s edition of InnovationRx, we look at the opportunities and challenges of using AI to personalize healthcare and speed up clinical trials, the future of genetic medicine, another big Lilly acquisition, and more.
-
-Forbes • 37m ago
+Reuters • 4h ago
 
 ---
 
-**[Artificial intelligence boss named Luna running San Francisco store Andon Market in Cow Hollow neighborhood](https://abc7.com/post/artificial-intelligence-boss-named-luna-running-san-francisco-store-andon-market-cow-hollow-neighborhood/18943220/)**
+**[Influencer uses AI to teach people about history](https://www.foxnews.com/video/6393652460112)**
 
-Imagine walking into a store and finding out the boss behind it all is artificial intelligence. That's the experiment a group of entrepreneurs is running San Francisco's Andon Market.
+'Chloe vs. History' creator Jonathan Laramy reveals how the AI tool 'captured the human emotion' on 'Fox News Live.'
 
-ABC7 Los Angeles • 26m ago
+Fox News • 28m ago
+
+---
+
+**[How Tech M&A Is Filling AI Gaps](https://www.theinformation.com/articles/tech-m-filling-ai-gaps)**
+
+AI upgrades are a hot spot in technology dealmaking. An analysis by The Information’s Deep Research shows tech companies are leaning on M&A to bolster industry-specific capabilities—and turn AI into products people can actually use. That pattern is playing out across deals of all sizes. SpaceX’s ...
+
+The Information • 41m ago
+
+---
+
+**[Perfect homework, blank stares: Why colleges are turning to oral exams to combat AI](https://whyy.org/articles/pennsylvania-university-colleges-oral-exams-artificial-intelligence/)**
+
+Oral exams allow instructors to determine what students know and where they need help. Students say they don't always love the testing format, but many agree that it's effective.
+
+WHYY • 27m ago
 
 ---
 
@@ -185,27 +193,19 @@ OpenAI • 2d ago
 
 ---
 
-**[AI hallucinations found in high-profile Wall Street law firm filing](https://www.theguardian.com/technology/2026/apr/22/ai-hallucinations-found-in-high-profile-wall-street-law-firm-filing)**
-
-Sullivan & Cromwell apologises to New York federal judge for string of errors in documents for Prince Group case
-
-The Guardian • 10h ago
-
----
-
 ---
 
 ## HackerNews: "ai"
 
 **[Meta to start capturing employee mouse movements, keystrokes for AI training](https://news.ycombinator.com/item?id=47851948)**
 
-⬆️ 756 • 💬 501 • 1d ago • [reuters.com](https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/)
+⬆️ 758 • 💬 505 • 1d ago • [reuters.com](https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/)
 
 ---
 
 **[Atlassian enables default data collection to train AI](https://news.ycombinator.com/item?id=47833247)**
 
-⬆️ 598 • 💬 132 • 2d ago • [letsdatascience.com](https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8)
+⬆️ 598 • 💬 134 • 2d ago • [letsdatascience.com](https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8)
 
 ---
 
@@ -227,7 +227,7 @@ Deezer says consumption of AI-generated music on the platform is still very low,
 
 **[Tell HN: I'm sick of AI everything](https://news.ycombinator.com/item?id=47857461)**
 
-⬆️ 298 • 💬 172 • 17h ago
+⬆️ 306 • 💬 174 • 18h ago
 
 ---
 
@@ -241,7 +241,7 @@ Deezer says consumption of AI-generated music on the platform is still very low,
 
 An attempt to detect AI design patterns in Show HN pages
 
-⬆️ 222 • 💬 171 • 3h ago • [adriankrebs.ch](https://www.adriankrebs.ch/blog/design-slop/)
+⬆️ 239 • 💬 185 • 5h ago • [adriankrebs.ch](https://www.adriankrebs.ch/blog/design-slop/)
 
 ---
 
@@ -249,15 +249,7 @@ An attempt to detect AI design patterns in Show HN pages
 
 High-performance AI gateway written in Go - unified OpenAI-compatible API for OpenAI, Anthropic, Gemini, Groq, xAI &amp; Ollama. LiteLLM alternative with observability, guardrails &amp; streaming. ...
 
-⬆️ 191 • 💬 71 • 1d ago • [GitHub](https://github.com/ENTERPILOT/GOModel/)
-
----
-
-**[Less human AI agents, please](https://news.ycombinator.com/item?id=47845429)**
-
-Nial – Knowledge work and artificial intelligence.
-
-⬆️ 153 • 💬 165 • 1d ago • [nial.se](https://nial.se/blog/less-human-ai-agents-please/)
+⬆️ 192 • 💬 71 • 1d ago • [GitHub](https://github.com/ENTERPILOT/GOModel/)
 
 ---
 
@@ -265,7 +257,15 @@ Nial – Knowledge work and artificial intelligence.
 
 Mediator.ai uses bargaining theory and modern AI to find agreements that two people in conflict would both accept, including ones they hadn't thought of.
 
-⬆️ 153 • 💬 74 • 2d ago • [Mediator.ai](https://mediator.ai/)
+⬆️ 154 • 💬 74 • 2d ago • [Mediator.ai](https://mediator.ai/)
+
+---
+
+**[Less human AI agents, please](https://news.ycombinator.com/item?id=47845429)**
+
+Nial – Knowledge work and artificial intelligence.
+
+⬆️ 153 • 💬 166 • 1d ago • [nial.se](https://nial.se/blog/less-human-ai-agents-please/)
 
 ---
 
@@ -273,13 +273,33 @@ Mediator.ai uses bargaining theory and modern AI to find agreements that two peo
 
 ## YouTube Videos: "ai"
 
-**[The Man Who Proved We Can&#39;t Control AI (And What That Means for Humanity) | Roman Yampolskiy](https://www.youtube.com/watch?v=U9xygNoXnZQ)**
+**[Success is hard until you build AI systems like this](https://www.youtube.com/watch?v=cTqVnwzj3Ug)**
 
-Dr. Roman Yampolskiy joins me to explore one of the most urgent and uncomfortable questions of our time: what happens when ...
+Success is hard until you build AI systems like this Check out Higgsfield https://higgsfield.ai?fpr=ai&fp_sid=james3 (sponsor) In ...
 
-📺 André Duqum
+📺 James Blue
 
-👁️ 23K • 👍 618 • 💬 200 • ⏱️ 1:49:24 • 1d ago
+👁️ 8K • ⏱️ 11:49 • 8h ago
+
+---
+
+**[New AI image generator BEATS EVERYTHING](https://www.youtube.com/watch?v=TLFPbMUtErM)**
+
+ChatGPT Images 2.0 review. GPT Image 2.0 vs Nano Banana. #ai #aiart #aitools #imagegenerator #agi Thanks to our sponsor ...
+
+📺 AI Search
+
+👁️ 61K • 👍 3K • 💬 547 • ⏱️ 35:20 • 16h ago
+
+---
+
+**[BREAKTHROUGH MOMENT: Next-Gen AI SOLVES science’s hardest problems](https://www.youtube.com/watch?v=Q2k40WMdWqU)**
+
+SandboxAQ CEO Jack Hidary joins 'Mornings with Maria' to discuss AI breakthroughs in healthcare, cybersecurity, and science, ...
+
+📺 Fox Business Clips
+
+👁️ 14K • 👍 340 • 💬 72 • ⏱️ 9:40 • 7h ago
 
 ---
 
@@ -289,7 +309,7 @@ Ramageddon” is here: AI data centers are hoarding up to 70% of global DRAM, se
 
 📺 Valuetainment
 
-👁️ 154K • 👍 8K • 💬 445 • ⏱️ 12:41 • 1d ago
+👁️ 165K • 👍 8K • 💬 459 • ⏱️ 12:41 • 1d ago
 
 ---
 
@@ -299,27 +319,17 @@ Dockworkers on the West Coast broke every productivity record — and are now be
 
 📺 Senator Bernie Sanders
 
-👁️ 32K • 👍 2K • 💬 601 • ⏱️ 5:24 • 2d ago
+👁️ 34K • 👍 2K • 💬 629 • ⏱️ 5:24 • 2d ago
 
 ---
 
-**[Success is hard until you build AI systems like this](https://www.youtube.com/watch?v=cTqVnwzj3Ug)**
+**[New AI Robot From China Breaks Human Limits](https://www.youtube.com/watch?v=EJbJMg2RNgw)**
 
-Success is hard until you build AI systems like this Check out Higgsfield https://higgsfield.ai?fpr=ai&fp_sid=james3 (sponsor) In ...
+AGIBOT just rolled out a full new wave of humanoid robots and AI models built for real deployment, while researchers in South ...
 
-📺 James Blue
+📺 AI Revolution
 
-👁️ 7K • ⏱️ 11:49 • 6h ago
-
----
-
-**[The future of Prince’s legacy in the age of AI a decade after his death](https://www.youtube.com/watch?v=6z9T7ql-8SE)**
-
-A look at Prince's career on the 10th anniversary of his death. His longtime lawyer discusses what it takes to protect a music icon's ...
-
-📺 NBC News
-
-👁️ 6K • 👍 178 • 💬 27 • ⏱️ 4:17 • 18h ago
+👁️ 27K • 👍 729 • 💬 47 • ⏱️ 16:29 • 1d ago
 
 ---
 
@@ -329,47 +339,37 @@ Today I reacted to my own AI videos! Make sure you watch the whole video to find
 
 📺 Foltyn
 
-👁️ 207K • 👍 11K • 💬 2K • ⏱️ 13:36 • 9h ago
+👁️ 282K • 👍 13K • 💬 2K • ⏱️ 13:36 • 10h ago
 
 ---
 
-**[Agent Swarms Is One of The Most Powerful AI System Yet](https://www.youtube.com/watch?v=KdP305UYuNA)**
+**[Scammer Uses AI To Try To Swindle Family After Their Dog Disappears](https://www.youtube.com/watch?v=FE1r98G5IG8)**
 
-Abacus AI just showed something that feels a lot bigger than another flashy AI demo. Agent Swarms inside ChatLLM and Deep ...
+Bill and Allison Cosens say they got a phone call saying their missing 11-year-old beagle-mix named Archer had been found.
 
-📺 AI Revolution
+📺 Inside Edition
 
-👁️ 15K • 👍 547 • 💬 44 • ⏱️ 13:18 • 2d ago
-
----
-
-**[How to ACTUALLY Use Higgsfield Cinema Studio (for Cinematic AI Videos)](https://www.youtube.com/watch?v=w3ntgJwdXKE)**
-
-Access Cinema Studio on Higgsfield https://youricreates.com/Cinema-Studio In this video, I show how I use Higgsfield Cinema ...
-
-📺 Youri van Hofwegen
-
-👁️ 5K • 💬 1 • ⏱️ 10:38 • 3h ago
+👁️ 25K • 👍 981 • 💬 144 • ⏱️ 2:36 • 21h ago
 
 ---
 
-**[Meta Killed Open Source AI… Now What?](https://www.youtube.com/watch?v=LvQWVpC7r04)**
+**[The Girlboss-ification of AI](https://www.youtube.com/watch?v=yf3hkq4WZKM)**
 
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *Meta ...
+AI companies are secretly waging a massive PR campaign targeting women. Support my independent journalism: Patreon: ...
 
-📺 Julia McCoy
+📺 Taylor Lorenz
 
-👁️ 17K • 👍 607 • 💬 93 • ⏱️ 8:16 • 1d ago
+👁️ 18K • 👍 1K • 💬 323 • ⏱️ 1:02:05 • 9h ago
 
 ---
 
-**[&#39;WHERE IS THE OFF BUTTON?&#39;: AI fears grow after robot wins half-marathon](https://www.youtube.com/watch?v=TCFRQc0h5BY)**
+**[How to Choose Your AI Tool (4 Levels)](https://www.youtube.com/watch?v=tyUChp9yrqw)**
 
-Humanoid robot 'Lightning' broke a half-marathon world record in Beijing, finishing 13 miles faster than any human.
+Want to participate in the next Second Brain AI cohort in the fall? Join the waitlist here: https://bit.ly/4t2974w Most AI frustration I ...
 
-📺 Fox News Clips
+📺 Tiago Forte
 
-👁️ 28K • 👍 542 • 💬 312 • ⏱️ 5:19 • 1d ago
+👁️ 7K • 👍 286 • 💬 9 • ⏱️ 9:20 • 1d ago
 
 ---
 
@@ -385,7 +385,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with a vision encoder, 
 
 `image-text-to-text` `36.0B`
 
-⬇️ 582,961 • ❤️ 1,206 • 8h ago
+⬇️ 582,961 • ❤️ 1,225 • 10h ago
 
 ---
 
@@ -397,7 +397,7 @@ Kimi K2.6 is a 1T parameter multimodal agentic model excelling in long-horizon c
 
 `image-text-to-text` `1058.6B`
 
-⬇️ 54,456 • ❤️ 788 • 1d ago
+⬇️ 54,456 • ❤️ 801 • 1d ago
 
 ---
 
@@ -409,7 +409,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with vision capabilitie
 
 `image-text-to-text` `34.7B`
 
-⬇️ 1,112,454 • ❤️ 655 • 2d ago
+⬇️ 1,112,454 • ❤️ 662 • 2d ago
 
 ---
 
@@ -421,7 +421,7 @@ HY-World 2.0 is a multi-modal framework for generating and reconstructing 3D wor
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 540 • 9h ago
+⬇️ 0 • ❤️ 544 • 11h ago
 
 ---
 
@@ -433,7 +433,7 @@ Gemma 4 E4B OBLITERATED v3 is a text-generation model with 0% refusal and improv
 
 `text-generation` `8.0B`
 
-⬇️ 79,024 • ❤️ 444 • 2d ago
+⬇️ 79,024 • ❤️ 447 • 2d ago
 
 ---
 
@@ -445,7 +445,7 @@ This is an uncensored, aggressive multimodal model based on Qwen3.6-35B-A3B, cap
 
 `image-text-to-text` `34.7B`
 
-⬇️ 312,962 • ❤️ 365 • 5d ago
+⬇️ 312,962 • ❤️ 369 • 5d ago
 
 ---
 
@@ -457,19 +457,7 @@ Qwen3.6-27B is a 27B parameter causal language model with a vision encoder, exce
 
 `image-text-to-text` `27.8B`
 
-⬇️ 0 • ❤️ 267 • 6h ago
-
----
-
-**[HY-Embodied-0.5](https://huggingface.co/tencent/HY-Embodied-0.5)**
-
-*Tencent*
-
-HY-Embodied-0.5 is a multilingual vision-language model designed for embodied agents, excelling in spatial-temporal perception and reasoning. It features an efficient Mixture-of-Transformers (MoT) architecture for real-world robot control and VLA pipelines.
-
-`image-text-to-text` `3.8B`
-
-⬇️ 2,459 • ❤️ 899 • 8d ago
+⬇️ 0 • ❤️ 342 • 7h ago
 
 ---
 
@@ -481,7 +469,7 @@ ERNIE-Image is a 8B parameter text-to-image diffusion model excelling in complex
 
 `text-to-image`
 
-⬇️ 5,253 • ❤️ 523 • 5d ago
+⬇️ 5,253 • ❤️ 526 • 5d ago
 
 ---
 
@@ -491,7 +479,19 @@ ERNIE-Image is a 8B parameter text-to-image diffusion model excelling in complex
 
 Lyra 2.0 generates explorable, persistent 3D worlds from a single image by synthesizing consistent long-range video and reconstructing it into explicit 3D Gaussian representations. It addresses spatial forgetting and temporal drift for scalable, real-time rendering, setting a new state-of-the-art in single-image 3D scene generation.
 
-⬇️ 252 • ❤️ 255 • 4d ago
+⬇️ 252 • ❤️ 256 • 4d ago
+
+---
+
+**[gemma-4-31B-it](https://huggingface.co/google/gemma-4-31B-it)**
+
+*Google*
+
+Gemma 4 31B is an instruction-tuned, multimodal LLM capable of processing text and images to generate text. It excels at reasoning, coding, and handling long contexts (256K tokens) with a hybrid attention mechanism for efficient inference, suitable for complex agentic workflows.
+
+`image-text-to-text` `32.7B`
+
+⬇️ 4,779,095 • ❤️ 2,284 • 12d ago
 
 ---
 
@@ -507,7 +507,7 @@ Lyra 2.0 generates explorable, persistent 3D worlds from a single image by synth
 
 LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from video streams using a geometric context transformer architecture with specialized attention mechanisms for coordinate grounding, dense geometric cues, and long-range drift correction, achieving stable real-time performance at 20 FPS.
 
-▲ 12 • 💬 2 • ⭐ 4,112 • 7d ago
+▲ 12 • 💬 2 • ⭐ 4,112 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.14141) • [💻 code](https://github.com/robbyant/lingbot-map) • [🔗 project](https://technology.robbyant.com/lingbot-map)
 
@@ -521,7 +521,7 @@ LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from 
 
 GenericAgent is a self-evolving large language model agent system that maximizes context information density through hierarchical memory, reusable SOPs, and efficient compression to overcome long-horizon limitations.
 
-▲ 6 • 💬 2 • ⭐ 5,786 • 4d ago
+▲ 6 • 💬 2 • ⭐ 5,786 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.17091) • [💻 code](https://github.com/lsdefine/GenericAgent)
 
@@ -547,7 +547,7 @@ RAG-Anything is a unified framework that enhances multimodal knowledge retrieval
 
 Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-▲ 24 • 💬 1 • ⭐ 20,123 • 8mo ago
+▲ 24 • 💬 1 • ⭐ 20,234 • 8mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
@@ -571,7 +571,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 OpenGame is an open-source agentic framework for end-to-end web game creation that uses specialized code models and evaluation benchmarks to overcome challenges in interactive application development.
 
-▲ 59 • 💬 2 • ⭐ 290 • 2d ago
+▲ 59 • 💬 2 • ⭐ 290 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.18394) • [💻 code](https://github.com/leigest519/OpenGame) • [🔗 project](https://www.opengame-project-page.com/)
 
@@ -585,21 +585,9 @@ OpenGame is an open-source agentic framework for end-to-end web game creation th
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 165 • 💬 10 • ⭐ 40,647 • 7mo ago
+▲ 165 • 💬 10 • ⭐ 40,701 • 7mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
-
----
-
-**[HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds](https://huggingface.co/papers/2604.14268)**
-
-*Team HY-World, Chenjie Cao, Xuhui Zuo et al. (45 authors)*
-
-HY-World 2.0 is a multi-modal world model framework that generates high-fidelity 3D Gaussian Splatting scenes from diverse inputs using specialized modules for panorama generation, trajectory planning, world expansion, and composition, along with an enhanced rendering platform for interactive 3D exploration.
-
-▲ 107 • 💬 5 • ⭐ 1,520 • 7d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2604.14268) • [💻 code](https://github.com/Tencent-Hunyuan/HY-World-2.0) • [🔗 project](https://3d-models.hunyuan.tencent.com/world/)
 
 ---
 
@@ -629,6 +617,18 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 ---
 
+**[HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds](https://huggingface.co/papers/2604.14268)**
+
+*Team HY-World, Chenjie Cao, Xuhui Zuo et al. (45 authors)*
+
+HY-World 2.0 is a multi-modal world model framework that generates high-fidelity 3D Gaussian Splatting scenes from diverse inputs using specialized modules for panorama generation, trajectory planning, world expansion, and composition, along with an enhanced rendering platform for interactive 3D exploration.
+
+▲ 107 • 💬 5 • ⭐ 1,546 • 8d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2604.14268) • [💻 code](https://github.com/Tencent-Hunyuan/HY-World-2.0) • [🔗 project](https://3d-models.hunyuan.tencent.com/world/)
+
+---
+
 ---
 
 ## GitHub Repositories: "ai"
@@ -639,7 +639,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 49.0k • 🔱 6.4k • 17h ago
+⭐ 49.0k • 🔱 6.4k • 19h ago
 
 ---
 
@@ -649,7 +649,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 43.3k • 🔱 2.2k • 4d ago
+⭐ 43.5k • 🔱 2.3k • 4d ago
 
 ---
 
@@ -659,7 +659,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 38.4k • 🔱 7.8k • 1d ago
+⭐ 38.5k • 🔱 7.8k • 1d ago
 
 ---
 
@@ -669,7 +669,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 32.9k • 🔱 3.6k • 10h ago
+⭐ 33.0k • 🔱 3.6k • 11h ago
 
 ---
 
@@ -679,7 +679,7 @@ A theoretical reconstruction of the Claude Mythos architecture, built from first
 
 `Python` `ai` `anthropic` `attention` `claude` `claude-ai`
 
-⭐ 8.5k • 🔱 1.8k • 1h ago
+⭐ 8.7k • 🔱 1.8k • 3h ago
 
 ---
 
@@ -689,7 +689,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 8.5k • 🔱 547 • 1h ago
+⭐ 8.5k • 🔱 547 • 3h ago
 
 ---
 
@@ -699,7 +699,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Python`
 
-⭐ 5.8k • 🔱 979 • 4d ago
+⭐ 5.8k • 🔱 980 • 4d ago
 
 ---
 
@@ -729,7 +729,7 @@ The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interac
 
 `Swift` `apple-intelligence` `apple-silicon` `cli` `foundationmodels` `homebrew`
 
-⭐ 4.8k • 🔱 187 • 3h ago
+⭐ 4.9k • 🔱 187 • 5h ago
 
 ---
 

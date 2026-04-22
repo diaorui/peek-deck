@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-22T18:38:12.429358+00:00'
+updated: '2026-04-22T20:06:21.142006+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- news
 - social
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 22, 2026 at 18:38 UTC  
+**Last Updated:** April 22, 2026 at 20:06 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +4.4%  
-**7d:** +2.1%  
-**30d:** +11.3%  
-**90d:** -18.9%  
-**1y:** +33.5%  
+**24h:** +3.9%  
+**7d:** +2.3%  
+**30d:** +11.4%  
+**90d:** -18.8%  
+**1y:** +33.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $288.08B
+**Market Cap:** $289.59B
 Rank #2
 
 **Circulating Supply:** 120,689,893 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--51.7%
+-51.5%
 
 **All-Time Low:** $0.43
-+551557.2%
++554127.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+15h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 This is 100% on-chain Web3 in practice. Over the past few months I've received invaluable feedback regarding ETour: 100% on-chain, skill-based, ETH-only tournament infrastructure. Inception Feedback Evolution I've taken your feedback to heart and built on top of it. Now it's finally ready for you to use! If you're curious then come compete, spectate, or ask me anything! If you're skeptical then come challenge my claims and prove me wrong! Browse the landing page https://etour.games Read the whitepapeer: https://etour.games/whitepaper Analyze the manual: https://etour.games/manual Study the docs https://etour.games/docs Join the discord https://discord.gg/9FfF2RNQV Looking forward to our discussions
 
-5h ago
+6h ago
 
 ---
 
@@ -92,7 +92,7 @@ This is 100% on-chain Web3 in practice. Over the past few months I've received i
 
 **[Need some suggestions.](https://www.reddit.com/r/ethereum/comments/1sse02k/need_some_suggestions/)**
 
-11h ago
+13h ago
 
 ---
 
@@ -150,7 +150,7 @@ The Kelp DAO exploit that drained $292 million and froze Aave was preventable. A
 
 Advisory council says validator signatures and wallet cryptography could be vulnerable if future quantum computers break current encryption.
 
-Decrypt • 20h ago
+Decrypt • 22h ago
 
 ---
 
@@ -166,15 +166,15 @@ Ethereum just had its busiest quarter ever in Q1 2026, yet ETH is still over 50%
 
 Kevin O'Leary says bitcoin and Ethereum are the only cryptos worth owning, as institutional money reshapes the digital asset market landscape.
 
-Fox Business • 1h ago
+Fox Business • 3h ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Wednesday, April 22, 2026: Prices rising following ceasefire extension](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-april-22-2026-prices-rising-following-ceasefire-extension-114636596.html)**
+**[Ethereum Price To $250,000? Etherealize Explains Why They Believe Their Bullish Outlook Is ‘Conservative’](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-250-000-etherealize-114715980.html)**
 
-Bitcoin opened at $76,341.73 on Wednesday, 0.6% higher than Tuesday's opening price of $75,872.83. Ethereum (ETH-USD) opened at $2,327.61 on Wednesday, 0.5% higher than Tuesday's opening price of $2,315.18.
+Etherealize argues that ETH could exceed $250,000 if it captures a monetary premium from gold and Bitcoin. It comes as Raoul Pal says tokenization could ...
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -182,13 +182,13 @@ Yahoo Finance • 6h ago
 
 Core3 marks GSR's first crypto ETF offering amid a period of expansion for the major market maker and the wider crypto fund sector.
 
-The Block • 5h ago
+The Block • 7h ago
 
 ---
 
 **[Bitcoin Price Tops $78,000 to Hit 11-Week High. XRP, Ethereum, Cryptos Surging.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-cryptos-f690b700)**
 
-Barron's • 8h ago
+Barron's • 9h ago
 
 ---
 
@@ -234,17 +234,27 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 528 • 👍 51 • 💬 3 • ⏱️ 18:59 • 2h ago
+👁️ 3K • 👍 198 • 💬 14 • ⏱️ 18:59 • 3h ago
 
 ---
 
-**[CRYPTO Supply Shock! Institutions Panic-Buying Bitcoin &amp; Ethereum Right Now](https://www.youtube.com/watch?v=3RakR45C6-g)**
+**[CRYPTO Waking Up As Institutions Pile Into Bitcoin &amp; ETH](https://www.youtube.com/watch?v=3RakR45C6-g)**
 
 Thanks to Nexo for sponsoring this video. Get your welcome bonus to receive 30 days of Wealth Club Premier ...
 
 📺 Crypto Capital Venture
 
-👁️ 1K • 👍 164 • 💬 62 • ⏱️ 13:39 • 3h ago
+👁️ 3K • 👍 329 • 💬 128 • ⏱️ 13:39 • 4h ago
+
+---
+
+**[WOW INSTITUTIONS GO FULL BULL: $1.3M Bitcoin and $250K Ethereum IS THE NEW TARGET!](https://www.youtube.com/watch?v=BE_AdEdX5n0)**
+
+INSTITUTIONS GO FULL BULL: $1.3M Bitcoin and $250K Ethereum IS THE NEW TARGET! Institutions are turning increasingly ...
+
+📺 CryptoWendyO
+
+👁️ 2K • 👍 185 • 💬 13 • ⏱️ 16:01 • 2h ago
 
 ---
 
@@ -254,7 +264,7 @@ See exactly what top investors are trading in real time: try Milk Road Pro for j
 
 📺 Milk Road
 
-👁️ 5K • 👍 183 • 💬 46 • ⏱️ 36:12 • 23h ago
+👁️ 6K • 👍 195 • 💬 51 • ⏱️ 36:12 • 1d ago
 
 ---
 
@@ -264,7 +274,17 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 139 • 👍 9 • ⏱️ 4:36 • 9h ago
+👁️ 219 • 👍 10 • ⏱️ 4:36 • 11h ago
+
+---
+
+**[Ethereum Bear Flag Breakout Or Crash To Fear Zone?](https://www.youtube.com/watch?v=nWw19cdubBo)**
+
+Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
+
+📺 Trade Confident
+
+👁️ 98 • 👍 8 • 💬 2 • ⏱️ 5:51 • 2h ago
 
 ---
 
@@ -278,33 +298,23 @@ The next 48 hours will be the deciding force for crypto, bitcoin and ethereum as
 
 ---
 
+**[Grok AI Just REVISED Its 2026 Crypto Market Top Prediction (BTC, ETH &amp; Altcoins)](https://www.youtube.com/watch?v=LgPdNCuTysQ)**
+
+Welcome Back To The Channel! Make Sure To Check Out Bitcast: https://bitcast.network/ iTrust Capital – $100 Bonus (Crypto ...
+
+📺 Aaron Bennett
+
+👁️ 11K • 👍 794 • 💬 135 • ⏱️ 25:21 • 18h ago
+
+---
+
 **[Ethereum just made an ATH on THIS important Measure (BMNR Stock Update).](https://www.youtube.com/watch?v=_s0sxyDmNr8)**
 
-Follow me on X: @kross_roads 15% Off Fiscal.ai Plans! Unlock institutional-grade data with my link: https://fiscal.ai/?via=roy ...
+Follow me on X: @dr_Crossroads 15% Off Fiscal.ai Plans! Unlock institutional-grade data with my link: https://fiscal.ai/?via=roy ...
 
 📺 Crossroads
 
-👁️ 6K • 👍 275 • 💬 83 • ⏱️ 13:21 • 1d ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=Ws21VnYvESQ)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Crypto Gyan
-
-👁️ 294 • 👍 50 • ⏱️ 6:29 • 3h ago
-
----
-
-**[Ethereum Holders - Its Happening Right Now](https://www.youtube.com/watch?v=89b-4Fa-Kj8)**
-
-Welcome Back To The Channel! ✔️ https://tylerhill.pro/Fortisx42026 ✔️ Deposit from $100: Get a 1% bonus ✔️ Withdraw ...
-
-📺 Tyler Hill Crypto
-
-👁️ 5K • 👍 226 • 💬 36 • ⏱️ 10:29 • 2d ago
+👁️ 6K • 👍 280 • 💬 83 • ⏱️ 13:21 • 1d ago
 
 ---
 
@@ -314,17 +324,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 7K • 👍 336 • 💬 71 • ⏱️ 1:24:23 • 1d ago
-
----
-
-**[O GRÁFICO QUE MUDOU MINHA LEITURA SOBRE BITCOIN, ETHEREUM E BOLSA AMERICANA](https://www.youtube.com/watch?v=kwcn5VghdJo)**
-
-O mercado chegou a um dos pontos mais decisivos de todo o ciclo. Enquanto grande parte do varejo e do Twitter financeiro entra ...
-
-📺 Augusto Backes
-
-👁️ 8K • 👍 1K • 💬 63 • ⏱️ 14:55 • 6h ago
+👁️ 8K • 👍 343 • 💬 74 • ⏱️ 1:24:23 • 1d ago
 
 ---
 

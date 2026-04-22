@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-22T18:38:12.423365+00:00'
+updated: '2026-04-22T20:06:21.136770+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- news
 - social
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 22, 2026 at 18:38 UTC  
+**Last Updated:** April 22, 2026 at 20:06 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,15 +38,15 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $79,000.00
+### $78,850.43
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +5.2%  
+**24h:** +4.4%  
 **7d:** +5.1%  
-**30d:** +11.8%  
+**30d:** +11.7%  
 **90d:** -12.0%  
 **1y:** -15.6%  
 
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1576.57B
+**Market Cap:** $1579.33B
 Rank #1
 
-**Circulating Supply:** 20,019,387 BTC
+**Circulating Supply:** 20,019,418 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--37.5%
+-37.4%
 
 **All-Time Low:** $67.81
-+116098.2%
++116254.5%
 
 ---
 
@@ -77,17 +77,9 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[the point we're at](https://www.reddit.com/r/Bitcoin/comments/1ssesc4/the_point_were_at/)**
-
-60k was the bottom. People were calling for 40k, 30k… "But the cycle!!!" Now we’re sitting at 77–78k and it hindsight it was obvious. I was clowned so much, but these people missed an essential part: it’s 2026. Bitcoin isn’t just degens panic-selling anymore. ETFs, institutions, real money. Doesn’t mean no dips, but the old -80% nukes? Yeah WAAAY less likely. BTW bottoms don’t feel safe when they happen. That’s the whole point.
-
-10h ago
-
----
-
 **[The Bitcoin Redemption](https://www.reddit.com/r/Bitcoin/comments/1ssq9ix/the_bitcoin_redemption/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -95,7 +87,7 @@ Rank #1
 
 We are so back. Too the moon! Diamond hands for the win!
 
-4h ago
+5h ago
 
 ---
 
@@ -103,7 +95,7 @@ We are so back. Too the moon! Diamond hands for the win!
 
 Admiral Samuel Paparo, head of US Indo-Pacific Command, told a Senate Armed Services Committee hearing on April 21 that Bitcoin could strengthen US capabilities in an era of intensifying competition with China, particularly in cyberspace and financial warfare. The comments come as Bitcoin’s role in national security has been growing in relevance over the past few years, with some experts believing it is close to playing a potentially leading part.
 
-🔗 [Yahoo News](https://www.yahoo.com/news/articles/bitcoin-used-national-security-us-094512611.html) • 6h ago
+🔗 [Yahoo News](https://www.yahoo.com/news/articles/bitcoin-used-national-security-us-094512611.html) • 8h ago
 
 ---
 
@@ -111,7 +103,15 @@ Admiral Samuel Paparo, head of US Indo-Pacific Command, told a Senate Armed Serv
 
 The bill would prohibit the use of crypto for domestic payments but allow its use in foreign economic activities, according to TASS.
 
-🔗 [The Block](https://www.theblock.co/post/398402/russias-crypto-bill-first-reading) • 6h ago
+🔗 [The Block](https://www.theblock.co/post/398402/russias-crypto-bill-first-reading) • 7h ago
+
+---
+
+**[the point we're at](https://www.reddit.com/r/Bitcoin/comments/1ssesc4/the_point_were_at/)**
+
+60k was the bottom. People were calling for 40k, 30k… "But the cycle!!!" Now we’re sitting at 77–78k and it hindsight it was obvious. I was clowned so much, but these people missed an essential part: it’s 2026. Bitcoin isn’t just degens panic-selling anymore. ETFs, institutions, real money. Doesn’t mean no dips, but the old -80% nukes? Yeah WAAAY less likely. BTW bottoms don’t feel safe when they happen. That’s the whole point.
+
+12h ago
 
 ---
 
@@ -119,13 +119,7 @@ The bill would prohibit the use of crypto for domestic payments but allow its us
 
 Bitcoin (BTC) climbs past $77,000 as a US admiral calls it a national security asset, Strategy makes a $2.5B purchase, and the Fear & Greed
 
-🔗 [FX Leaders](https://www.fxleaders.com/news/2026/04/22/bitcoin-eyes-78k-as-us-military-calls-proof-of-work-a-power-projection-tool/) • 15h ago
-
----
-
-**[Damian Lillard’s courtside fit in the NBA playoffs](https://www.reddit.com/r/Bitcoin/comments/1ss8u5p/damian_lillards_courtside_fit_in_the_nba_playoffs/)**
-
-15h ago
+🔗 [FX Leaders](https://www.fxleaders.com/news/2026/04/22/bitcoin-eyes-78k-as-us-military-calls-proof-of-work-a-power-projection-tool/) • 16h ago
 
 ---
 
@@ -133,7 +127,13 @@ Bitcoin (BTC) climbs past $77,000 as a US admiral calls it a national security a
 
 Bitcoin really does have a way of teaching low time preference. I originally started saving in bitcoin 2 years ago because I thought I could get a quick 2-3x to help me buy a nice truck. As I started learning more about bitcoin, my conviction grew and I started stacking more aggressively. Not wanting to sell my stack, I took out a loan to buy the truck. After owning it for about a year, I realized the payment was too much drag. For my age and phase of life, it just wasn't worth it. I'm fortunate enough I don't need a vehicle for my daily life, so I figured I should take advantage of that fact. I will be living car free for a while so I can stack even harder. My family thinks I'm absolutely nuts. I agree.
 
-14h ago
+16h ago
+
+---
+
+**[Damian Lillard’s courtside fit in the NBA playoffs](https://www.reddit.com/r/Bitcoin/comments/1ss8u5p/damian_lillards_courtside_fit_in_the_nba_playoffs/)**
+
+17h ago
 
 ---
 
@@ -141,15 +141,15 @@ Bitcoin really does have a way of teaching low time preference. I originally sta
 
 i have been researching and investing in bitcoin and trying to understand it better over time. what surprised you most after actually using or holding it for a while?
 
-3h ago
+4h ago
 
 ---
 
-**[Anyone found a way to watch Finding Satoshi for less than $18?](https://www.reddit.com/r/Bitcoin/comments/1ssoxmj/anyone_found_a_way_to_watch_finding_satoshi_for/)**
+**[Are we allowed to talk about this here? this could skyrocket demand for BTC and traditional finance is completely sleeping on it...](https://www.reddit.com/r/Bitcoin/comments/1sssmqb/are_we_allowed_to_talk_about_this_here_this_could/)**
 
-Title says it all
+A single product is designed to convert demand from the $150-$300 trillion fixed income market directly into Bitcoin purchases. And it's already working...
 
-3h ago
+🔗 [youtu.be](https://youtu.be/Shv1sXtrJNk) • 2h ago
 
 ---
 
@@ -159,23 +159,23 @@ Title says it all
 
 **[Bitcoin Price Hits Two-Month High Amid Strategy Buys. Watch This Range, Analyst Says.](https://www.investors.com/news/bitcoin-price-february-high-78000-strategy-buying-bitcoin-etf-flows-institutional-participation/)**
 
-Investor's Business Daily • 4h ago
+Investor's Business Daily • 6h ago
 
 ---
 
-**[‘It’s Time’—Bitcoin Suddenly Braced For Price Shock After Surprise BlackRock Flip](https://www.forbes.com/sites/digital-assets/2026/04/22/its-time-bitcoin-suddenly-braced-for-price-shock-after-surprise-blackrock-flip/)**
+**[Eric Trump's American Bitcoin rises 12% amid increase in BTC mining capacity](https://www.theblock.co/post/398491/eric-trumps-american-bitcoin-rises-12-amid-increase-in-btc-mining-capacity)**
 
-Bitcoin has stormed into the second quarter of 2026, adding almost 30% since crashing to its recent low of $60,000...
+American Bitcoin said that it completed the "energization of ~11,298 Bitcoin miners at its Drumheller site.
 
-Forbes • 6h ago
+The Block • 4h ago
 
 ---
 
-**[HODL: Bitcoin's Soars To A Multi-Month High Amid Quiet Relative Strength (Technical Analysis)](https://seekingalpha.com/article/4892974-hodl-bitcoins-soars-to-a-multi-month-high-amid-quiet-relative-strength-technical-analysis)**
+**[American Bitcoin Shares Rise 12% as Mining Capacity Expansion Adds Scale to Its Accumulation Push](https://finance.yahoo.com/markets/crypto/articles/american-bitcoin-shares-rise-12-190600671.html)**
 
-VanEck Bitcoin ETF is rated a buy, citing recent absolute and relative strength versus equities and gold. Learn more about HODL ETF here.
+American Bitcoin (NASDAQ: $ABTC) shares rose more than 12% as investors reacted to the company’s latest minin...
 
-Seeking Alpha • 42m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -183,29 +183,13 @@ Seeking Alpha • 42m ago
 
 Kevin O'Leary says bitcoin and Ethereum are the only cryptos worth owning, as institutional money reshapes the digital asset market landscape.
 
-Fox Business • 1h ago
+Fox Business • 3h ago
 
 ---
 
-**[Bitcoin Rises on Optimism Over Trump’s Extended Iran Ceasefire](https://finance.yahoo.com/markets/crypto/articles/bitcoin-rises-optimism-over-trump-054115702.html)**
+**[Why these strategists say 45% of portfolios should be invested in gold, metals and bitcoin](https://www.marketwatch.com/story/why-these-strategists-say-45-of-portfolios-should-be-invested-in-gold-metals-and-bitcoin-1d6ae78f)**
 
-(Bloomberg) -- Bitcoin jumped along with equities on Wednesday, hitting an 11-week high after President Donald Trump said he would extend a ceasefire with Iran, bolstering market confidence.Most Read from BloombergAnthropic’s Mythos Model Is Being Accessed by Unauthorized UsersInside Alex Cooper’s Unwell: Tears, Screaming and Employees Looking for the ExitTrump Encourages Companies Not to Seek Tariff RefundsTrump Extends Iran Ceasefire, Keeps Blockade as Talks FalterKuwait Declares Further Force
-
-Yahoo Finance • 4h ago
-
----
-
-**[Trump's Iran ceasefire sends bitcoin past $78K](https://www.coindesk.com/video/trumps-iran-ceasefire-sends-bitcoin-past-78k)**
-
-President Trump extended the Iran ceasefire indefinitely, triggering a bitcoin rally past $78,000 and short-squeeze conditions in crypto markets. CoinDesk's Jennifer Sanasie hosts "CoinDesk Daily." | CoinDesk Videos
-
-CoinDesk • 1h ago
-
----
-
-**[Bitcoin price today: jumps near $79k on Iran truce extension, institutional demand](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-jumps-past-78k-on-iran-truce-extension-institutional-demand-4628139)**
-
-Investing.com • 4h ago
+MarketWatch • 12h ago
 
 ---
 
@@ -213,7 +197,7 @@ Investing.com • 4h ago
 
 The film follows a four-year investigation led by New York Times bestselling author William D. Cohan and private investigator Tyler Maroney.
 
-The Block • 5h ago
+The Block • 7h ago
 
 ---
 
@@ -227,7 +211,23 @@ Yahoo Finance • 1d ago
 
 **[Documentary Claims to Solve $80 Billion Mystery at Heart of Bitcoin](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-04-22-2026/card/documentary-claims-to-solve-80-billion-mystery-at-heart-of-bitcoin-lvIR9q2ZbEIVtA1FKtzB)**
 
-WSJ • 4h ago
+WSJ • 5h ago
+
+---
+
+**[Bitcoin closes in on $80k](https://www.cnbc.com/video/2026/04/22/bitcoin-closes-in-on-80k.html)**
+
+CNBC's MacKenzie Sigalos reports on news regarding bitcoin.
+
+CNBC • 1h ago
+
+---
+
+**[‘It’s Time’—Bitcoin Suddenly Braced For Price Shock After Surprise BlackRock Flip](https://www.forbes.com/sites/digital-assets/2026/04/22/its-time-bitcoin-suddenly-braced-for-price-shock-after-surprise-blackrock-flip/)**
+
+Bitcoin has stormed into the second quarter of 2026, adding almost 30% since crashing to its recent low of $60,000...
+
+Forbes • 7h ago
 
 ---
 
@@ -291,7 +291,7 @@ Speculation, dead‑end investigations and conspiracy theories have surrounded h
 
 A new documentary asserts that Bitcoin creator Satoshi Nakamoto was actually two people: the late Hal Finney and Len Sassaman.
 
-⬆️ 1 • 💬 2 • 3h ago • [Decrypt](https://decrypt.co/365075/finding-satoshi-makes-the-case-for-hal-finney-len-sassaman-as-bitcoin-co-creators)
+⬆️ 1 • 💬 2 • 4h ago • [Decrypt](https://decrypt.co/365075/finding-satoshi-makes-the-case-for-hal-finney-len-sassaman-as-bitcoin-co-creators)
 
 ---
 
@@ -299,7 +299,7 @@ A new documentary asserts that Bitcoin creator Satoshi Nakamoto was actually two
 
 Multiplexer for MCP tool calls: parallel execution, batching, caching, and pipelining for any MCP server - edimuj/callmux
 
-⬆️ 1 • 💬 0 • 48m ago • [GitHub](https://github.com/edimuj/callmux)
+⬆️ 2 • 💬 0 • 2h ago • [GitHub](https://github.com/edimuj/callmux)
 
 ---
 
@@ -319,7 +319,7 @@ Ran breaks down a pivotal moment in markets, starting with Trump's indefinite ce
 
 📺 Crypto Banter
 
-👁️ 10K • 👍 1K • 💬 31 • ⏱️ 25:29 • 4h ago
+👁️ 17K • 👍 1K • 💬 44 • ⏱️ 25:29 • 5h ago
 
 ---
 
@@ -329,7 +329,7 @@ Bitcoin is in a bull market right now. Anthony Pompliano breaks down the data �
 
 📺 Anthony Pompliano
 
-👁️ 55K • 👍 2K • 💬 156 • ⏱️ 16:35 • 21h ago
+👁️ 60K • 👍 3K • 💬 156 • ⏱️ 16:35 • 23h ago
 
 ---
 
@@ -339,7 +339,17 @@ Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=Al
 
 📺 Altcoin Daily
 
-👁️ 49K • 👍 2K • 💬 274 • ⏱️ 12:24 • 19h ago
+👁️ 53K • 👍 3K • 💬 265 • ⏱️ 12:24 • 21h ago
+
+---
+
+**[CRYPTO Waking Up As Institutions Pile Into Bitcoin &amp; ETH](https://www.youtube.com/watch?v=3RakR45C6-g)**
+
+Thanks to Nexo for sponsoring this video. Get your welcome bonus to receive 30 days of Wealth Club Premier ...
+
+📺 Crypto Capital Venture
+
+👁️ 3K • 👍 329 • 💬 128 • ⏱️ 13:39 • 4h ago
 
 ---
 
@@ -349,17 +359,7 @@ Research. Tracking. Charting. All In One AI ▻ https://www.askclash.ai/ Make FR
 
 📺 CryptosRUs
 
-👁️ 12K • 👍 814 • 💬 215 • ⏱️ 7:07 • 18h ago
-
----
-
-**[CRYPTO Supply Shock! Institutions Panic-Buying Bitcoin &amp; Ethereum Right Now](https://www.youtube.com/watch?v=3RakR45C6-g)**
-
-Thanks to Nexo for sponsoring this video. Get your welcome bonus to receive 30 days of Wealth Club Premier ...
-
-📺 Crypto Capital Venture
-
-👁️ 1K • 👍 164 • 💬 62 • ⏱️ 13:39 • 3h ago
+👁️ 13K • 👍 820 • 💬 216 • ⏱️ 7:07 • 19h ago
 
 ---
 
@@ -369,17 +369,7 @@ A major bank CEO just warned of a looming crash, while Wall Street quietly pivot
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 103 • ⏱️ 14:37 • 20h ago
-
----
-
-**[CEASEFIRE EXTENSION: Will Bitcoin Hit $85,000 next?](https://www.youtube.com/watch?v=NbI87-YTkrA)**
-
-According to Donald Trump the ceasefire has been extended indefinitely, is this enough to get Bitcoin lit up and roaring to $85000 ...
-
-📺 Crypto Banter
-
-👁️ 12K • 👍 969 • 💬 24 • ⏱️ 25:19 • 11h ago
+👁️ 26K • 👍 2K • 💬 110 • ⏱️ 14:37 • 21h ago
 
 ---
 
@@ -389,7 +379,17 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 3K • 👍 313 • 💬 29 • ⏱️ 15:25 • 4h ago
+👁️ 6K • 👍 427 • 💬 38 • ⏱️ 15:25 • 5h ago
+
+---
+
+**[0.21 Bitcoin is $16,651 (What Wealthy People Miss)](https://www.youtube.com/watch?v=nhK4rbsVTQk)**
+
+Save the date for November 3-5, 2026 at Murrieta Hot Springs Resort and get your ticket early https://brianharrington.org/events-yt ...
+
+📺 Brian Harrington
+
+👁️ 840 • 👍 105 • 💬 11 • ⏱️ 10:47 • 3h ago
 
 ---
 
@@ -399,17 +399,17 @@ Everyone is Wrong about Bitcoin Big picture for bitcoin Most can't see what's co
 
 📺 Camel Finance
 
-👁️ 13K • 👍 909 • 💬 161 • ⏱️ 22:37 • 1d ago
+👁️ 14K • 👍 918 • 💬 161 • ⏱️ 22:37 • 1d ago
 
 ---
 
-**[Bitcoin Rallies to the Bear Market Resistance Band](https://www.youtube.com/watch?v=tZ05ZUlaO8w)**
+**[BITCOIN ON THE VERGE OF EXPLOSION: Next Move Incoming?](https://www.youtube.com/watch?v=2-HZd4eUOkQ)**
 
-Bitcoin has rallied back into a key technical area, the Bear Market Resistance Band, formed by the 20-week SMA and 21-week ...
+Bitcoin is showing strong signs of a potential breakout as bullish momentum continues to build. Sheldon takes a closer look at the ...
 
-📺 Benjamin Cowen
+📺 Crypto Banter
 
-👁️ 100K • 👍 6K • 💬 217 • ⏱️ 11:41 • 2d ago
+👁️ 7K • 👍 528 • 💬 13 • ⏱️ 32:40 • 10h ago
 
 ---
 
