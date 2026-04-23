@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-23T03:54:51.860263+00:00'
+updated: '2026-04-23T06:06:50.220434+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 23, 2026 at 03:54 UTC  
+**Last Updated:** April 23, 2026 at 06:06 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,37 +42,45 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.0%  
-**7d:** -3.4%  
-**30d:** +7.8%  
-**90d:** -20.8%  
-**1y:** +32.3%  
+**24h:** -1.4%  
+**7d:** -2.6%  
+**30d:** +8.6%  
+**90d:** -20.2%  
+**1y:** +33.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $282.13B
+**Market Cap:** $283.69B
 Rank #2
 
 **Circulating Supply:** 120,689,323 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--52.7%
+-52.4%
 
 **All-Time Low:** $0.43
-+540048.6%
++543418.3%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion April 23, 2026](https://www.reddit.com/r/ethereum/comments/1st94mc/daily_general_discussion_april_23_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+1h ago
+
+---
+
 **[Why AI Agents Are Choosing Crypto for Payments and What It Means for Ethereum](https://www.reddit.com/r/ethereum/comments/1st59sq/why_ai_agents_are_choosing_crypto_for_payments/)**
 
 Your daily crypto news briefing. Bitcoin, Ethereum, Solana and the stories that move markets.
 
-🔗 [bigcoinreport.com](https://bigcoinreport.com/analysis/ai-agents-crypto-payments-how-it-works) • 1h ago
+🔗 [bigcoinreport.com](https://bigcoinreport.com/analysis/ai-agents-crypto-payments-how-it-works) • 4h ago
 
 ---
 
@@ -80,15 +88,15 @@ Your daily crypto news briefing. Bitcoin, Ethereum, Solana and the stories that 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-22h ago
+1d ago
 
 ---
 
 **[Update: Join ETour's community](https://www.reddit.com/r/ethereum/comments/1sslkrt/update_join_etours_community/)**
 
-This is 100% on-chain Web3 in practice. Over the past few months I've received invaluable feedback regarding ETour: 100% on-chain, skill-based, ETH-only tournament infrastructure. Inception Feedback Evolution I've taken your feedback to heart and built on top of it. Now it's finally ready for you to use! If you're curious then come compete, spectate, or ask me anything! If you're skeptical then come challenge my claims and prove me wrong! Browse the landing page https://etour.games Read the whitepapeer: https://etour.games/whitepaper Analyze the manual: https://etour.games/manual Study the docs https://etour.games/docs Join the discord https://discord.gg/9FfF2RNQV Looking forward to our discussions
+I've taken your feedback to heart and built on top of it. Now it's finally ready for you to use! Over the past few months I've received invaluable feedback regarding ETour: 100% on-chain, skill-based, ETH-only tournament infrastructure. Inception Feedback Evolution This is 100% on-chain Web3 in practice. If you're curious then come compete, spectate, or ask me anything! If you're skeptical then come challenge my claims and prove me wrong! Browse the landing page https://etour.games Read the whitepapeer: https://etour.games/whitepaper Analyze the manual: https://etour.games/manual Study the docs https://etour.games/docs Join the discord https://discord.gg/9FfF2RNQV Looking forward to our discussions
 
-14h ago
+16h ago
 
 ---
 
@@ -102,7 +110,7 @@ This is 100% on-chain Web3 in practice. Over the past few months I've received i
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -118,7 +126,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -136,14 +144,6 @@ On April 18, a hacker minted 116,500 rsETH tokens out of nothing. Not stolen fro
 
 ---
 
-**[Someone Warned Kelp DAO About This Exact Vulnerability 15 Months Ago. Nobody Listened. $292 Million Is Gone](https://www.reddit.com/r/ethereum/comments/1spoe1h/someone_warned_kelp_dao_about_this_exact/)**
-
-The Kelp DAO exploit that drained $292 million and froze Aave was preventable. A developer posted on the Aave governance forum in January 2025 that Kelp's single-validator bridge security was the weakest configuration LayerZero allows. Kelp never added the second validator. On Saturday, an attacker used that exact vulnerability.
-
-🔗 [DailyCoinPost](https://dailycoinpost.com/kelp-dao-292-million-hack-warning-ignored-layerzero/) • 3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -156,27 +156,11 @@ Decrypt • 1d ago
 
 ---
 
-**[Ethereum Price Prediction: How Much Will 1 ETH Be Worth by 2030?](https://247wallst.com/investing/2026/04/19/ethereum-price-prediction-how-much-will-1-eth-be-worth-by-2030/)**
-
-Ethereum just had its busiest quarter ever in Q1 2026, yet ETH is still over 50% below its ATH. Here's how much 1 ETH could be worth in 2030.
-
-24/7 Wall St. • 3d ago
-
----
-
 **[Kevin O’Leary reveals the only two cryptocurrencies he says are worth owning](https://www.foxbusiness.com/media/kevin-oleary-reveals-only-two-cryptocurrencies-he-says-worth-owning)**
 
 Kevin O'Leary says bitcoin and Ethereum are the only cryptos worth owning, as institutional money reshapes the digital asset market landscape.
 
-Fox Business • 10h ago
-
----
-
-**[Bitcoin and ethereum prices today, Wednesday, April 22, 2026: Prices rising following ceasefire extension](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-april-22-2026-prices-rising-following-ceasefire-extension-114636596.html)**
-
-Bitcoin opened at $76,341.73 on Wednesday, 0.6% higher than Tuesday's opening price of $75,872.83. Ethereum (ETH-USD) opened at $2,327.61 on Wednesday, 0.5% higher than Tuesday's opening price of $2,315.18.
-
-Yahoo Finance • 16h ago
+Fox Business • 13h ago
 
 ---
 
@@ -190,23 +174,23 @@ The Block • 1d ago
 
 **[Bitcoin Price Tops $78,000 to Hit 11-Week High. XRP, Ethereum, Cryptos Surging.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-cryptos-f690b700)**
 
-Barron's • 17h ago
+Barron's • 19h ago
 
 ---
 
-**[Forget (XRP) Ripple: This Cryptocurrency Has A Real Moat](https://www.fool.com/investing/2026/04/21/forget-xrp-ripple-this-cryptocurrency-has-a-real-m/)**
+**[Bitcoin And Ethereum Outlook - Cryptos Break Out Of Bear Trends, But Will It Continue](https://seekingalpha.com/article/4893189-bitcoin-ethereum-outlook-cryptos-break-out-of-bear-trends-will-it-continue)**
 
-Ethereum offers more stable returns with clearer long-term catalysts.
+Bitcoin has reached $79,000 in daily trading. Ethereum broke through several major resistance levels, back to $2,400. So far cryptocurrencies have maintained a strong correlation with Nasdaq
 
-The Motley Fool • 1d ago
+Seeking Alpha • 20m ago
 
 ---
 
-**[BitMine (BMNR) Now Owns 4% of All Ethereum and Is Closing In on 5%](https://finance.yahoo.com/markets/crypto/articles/bitmine-bmnr-now-owns-4-105549461.html)**
+**[Bitmine Makes Biggest Ethereum Purchase Of The Year](https://finance.yahoo.com/markets/crypto/articles/bitmine-makes-biggest-ethereum-purchase-133600099.html)**
 
-BitMine Immersion Technologies, Inc. (NYSE:BMNR) is one of the best Ethereum stocks to buy now. On April 13, BitMine Immersion Technologies, Inc. (NYSE:BMNR) announced that its Ethereum holdings had reached 4,874,858 ETH. The company valued the tokens at about $10.7 billion at a price of $2,206 per token, and said that its combined crypto, cash, […]
+BitMine Immersion Technologies (NYSE: $BMNR) bought $230 million U.S. of Ethereum (CRYPTO: $ETH) over the past week...
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -226,6 +210,22 @@ CoinDesk • 2d ago
 
 ---
 
+**[Forget (XRP) Ripple: This Cryptocurrency Has A Real Moat](https://www.fool.com/investing/2026/04/21/forget-xrp-ripple-this-cryptocurrency-has-a-real-m/)**
+
+Ethereum offers more stable returns with clearer long-term catalysts.
+
+The Motley Fool • 1d ago
+
+---
+
+**[AAVE deposits plunge $16.2B after KelpDAO exploit, Ethereum market pressured](https://cryptobriefing.com/aave-deposits-plunge-162b-after-kelpdao-exploit-ethereum-market-pressured/)**
+
+Aave deposits dropped $16.2 billion after the KelpDAO exploit, pressuring Ethereum; $4,000 in April at 15% YES.
+
+Crypto Briefing • 3h ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
@@ -236,7 +236,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 13K • 👍 378 • 💬 78 • ⏱️ 18:59 • 11h ago
+👁️ 14K • 👍 406 • 💬 81 • ⏱️ 18:59 • 13h ago
 
 ---
 
@@ -246,17 +246,7 @@ Thanks to Nexo for sponsoring this video. Get your welcome bonus to receive 30 d
 
 📺 Crypto Capital Venture
 
-👁️ 6K • 👍 431 • 💬 278 • ⏱️ 13:39 • 12h ago
-
----
-
-**[BITCOIN &amp; ALTCOIN SHORT SQUEEZE (Price Target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=bhjtmugzBU0)**
-
-BITCOIN & ALTCOIN SHORT SQUEEZE (Price Target)!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
-
-📺 Crypto World
-
-👁️ 4K • 👍 272 • 💬 159 • ⏱️ 23:51 • 7h ago
+👁️ 6K • 👍 433 • 💬 247 • ⏱️ 13:39 • 14h ago
 
 ---
 
@@ -266,7 +256,7 @@ See exactly what top investors are trading in real time: try Milk Road Pro for j
 
 📺 Milk Road
 
-👁️ 6K • 👍 208 • 💬 51 • ⏱️ 36:12 • 1d ago
+👁️ 6K • 👍 210 • 💬 51 • ⏱️ 36:12 • 1d ago
 
 ---
 
@@ -276,7 +266,7 @@ INSTITUTIONS GO FULL BULL: $1.3M Bitcoin and $250K Ethereum IS THE NEW TARGET! I
 
 📺 CryptoWendyO
 
-👁️ 4K • 👍 275 • 💬 16 • ⏱️ 16:01 • 10h ago
+👁️ 4K • 👍 277 • 💬 16 • ⏱️ 16:01 • 12h ago
 
 ---
 
@@ -290,23 +280,33 @@ The next 48 hours will be the deciding force for crypto, bitcoin and ethereum as
 
 ---
 
+**[BITCOIN &amp; ALTCOIN SHORT SQUEEZE (Price Target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=bhjtmugzBU0)**
+
+BITCOIN & ALTCOIN SHORT SQUEEZE (Price Target)!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
+
+📺 Crypto World
+
+👁️ 5K • 👍 289 • 💬 164 • ⏱️ 23:51 • 9h ago
+
+---
+
 **[Grok AI Just REVISED Its 2026 Crypto Market Top Prediction (BTC, ETH &amp; Altcoins)](https://www.youtube.com/watch?v=LgPdNCuTysQ)**
 
 Welcome Back To The Channel! Make Sure To Check Out Bitcast: https://bitcast.network/ iTrust Capital – $100 Bonus (Crypto ...
 
 📺 Aaron Bennett
 
-👁️ 15K • 👍 943 • 💬 132 • ⏱️ 25:21 • 1d ago
+👁️ 16K • 👍 981 • 💬 135 • ⏱️ 25:21 • 1d ago
 
 ---
 
-**[Why I Chose XRP &amp; HASH Over BTC &amp; ETH](https://www.youtube.com/watch?v=USYShNOUeMc)**
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=17-by3t-oAs)**
 
-Bitcoin and Ethereum are established. They are also closer to Alta Vista and Napster than Google and Spotify. First movers, real ...
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
 
-📺 Jake Claver
+📺 Crypto Gyan
 
-👁️ 17K • 👍 743 • 💬 44 • ⏱️ 2:49 • 15h ago
+👁️ 428 • 👍 62 • ⏱️ 6:42 • 3h ago
 
 ---
 
@@ -316,17 +316,17 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 300 • 👍 10 • ⏱️ 4:36 • 19h ago
+👁️ 326 • 👍 11 • ⏱️ 4:36 • 21h ago
 
 ---
 
-**[Productive Money: The Most Bullish Case for Ethereum](https://www.youtube.com/watch?v=cwBtPPL_4Oc)**
+**[Bitcoin &amp; Ethereum. Optimalszemario erfüllt!! Jetzt runter oder kommt da noch was?](https://www.youtube.com/watch?v=fBqntSC7ieg)**
 
-SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium ------ Ethereum may be one of the ...
+DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 250€ + ...
 
-📺 Bankless
+📺 Krypto Trading & Investing
 
-👁️ 8K • 👍 351 • 💬 75 • ⏱️ 1:24:23 • 1d ago
+👁️ 1K • 👍 380 • 💬 36 • ⏱️ 10:45 • 2h ago
 
 ---
 
