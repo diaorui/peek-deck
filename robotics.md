@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-23T21:13:32.946325+00:00'
+updated: '2026-04-23T22:08:02.171987+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 23, 2026 at 21:13 UTC  
+**Last Updated:** April 23, 2026 at 22:08 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2047257759473946705
 
-10h ago
+11h ago
 
 ---
 
 **[Spin-tracking robot takes on elite table-tennis players - SonyAI](https://www.reddit.com/r/robotics/comments/1stuamz/spintracking_robot_takes_on_elite_tabletennis/)**
 
-50m ago
+1h ago
 
 ---
 
@@ -56,19 +56,19 @@ The problem If you've tried training a manipulation policy in Isaac Sim or MuJoC
 
 **[Mon Bittle robot dog](https://www.reddit.com/r/robotics/comments/1stsvgn/mon_bittle_robot_dog/)**
 
-1h ago
+2h ago
 
 ---
 
 **[Robot accompagné](https://www.reddit.com/r/robotics/comments/1sttpic/robot_accompagné/)**
 
-1h ago
+2h ago
 
 ---
 
 **[Robot eDog teste servo](https://www.reddit.com/r/robotics/comments/1stt4io/robot_edog_teste_servo/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -82,7 +82,7 @@ The problem If you've tried training a manipulation policy in Isaac Sim or MuJoC
 
 I’m working on a multi-axis project where the mechanical envelope is incredibly tight. Every millimeter counts, and I’m hitting a wall with standard drive sizes. I need something that packs high power density into a tiny footprint but can still handle high-axis EtherCAT synchronization without jitter. For those in robotics or medical: what hardware are you actually using when failure isn't an option? I've heard Elmo mentioned for these space constraints, but does the reliability actually hold up in the field?
 
-4h ago
+5h ago
 
 ---
 
@@ -90,7 +90,7 @@ I’m working on a multi-axis project where the mechanical envelope is incredibl
 
 Humanoid robots are being developed for industrial use, but most current deployments are limited to controlled environments where humans and robots do not operate at the same time. A key limitation is safety. Traditional industrial robots rely on predictable behavior and established safety methods such as physical barriers or defined operating zones. These approaches do not directly apply to humanoid robots. Humanoids are dynamically stable systems, meaning they require continuous control to remain upright. If power is removed, they can fall, which introduces a different type of risk compared to conventional robots that simply stop.
 
-🔗 [Automate](https://www.automate.org/robotics/blogs/safety-by-design-how-humanoid-robots-must-evolve-to-depart-the-walled-garden) • 1h ago
+🔗 [Automate](https://www.automate.org/robotics/blogs/safety-by-design-how-humanoid-robots-must-evolve-to-depart-the-walled-garden) • 2h ago
 
 ---
 
@@ -124,7 +124,7 @@ CNBC • 2d ago
 
 The Pentagon awarded a $24 million contract to test heavy-duty humanoid robots designed to breach enemy sites and strengthen U.S. military readiness.
 
-Fox Business • 3h ago
+Fox Business • 4h ago
 
 ---
 
@@ -132,19 +132,19 @@ Fox Business • 3h ago
 
 Foundation Future Industries founder and CEO Sankaet Pathak and Trump Organization Executive Vice President Eric Trump discuss battlefield robotics, national security risks, and China competition on ‘...
 
-Yahoo • 5h ago
+Yahoo • 6h ago
 
 ---
 
 **[$150m for Chinese robotics, Salmon catches $60m and TruBridge inks sale](https://www.axios.com/pro/all-deals/2026/04/23/pro-rata-premium-first-look-pudu-salmon-trubridge)**
 
-Axios • 26m ago
+Axios • 1h ago
 
 ---
 
 **[Tuning up the robotics supply chain](https://www.politico.com/newsletters/digital-future-daily/2026/04/23/tuning-up-the-robotics-supply-chain-00889228)**
 
-Politico • 24m ago
+Politico • 1h ago
 
 ---
 
@@ -152,7 +152,7 @@ Politico • 24m ago
 
 In feat hailed as milestone in robotics, Sony AI’s Ace wins three out of five matches played under official rules
 
-The Guardian • 19h ago
+The Guardian • 20h ago
 
 ---
 
@@ -176,7 +176,7 @@ Financial Times • 1d ago
 
 Spark Capital VC Nabeel Hyatt explains why AI needs human data and shares how robotics could reshape jobs and the future of gig work
 
-Business Insider • 12h ago
+Business Insider • 13h ago
 
 ---
 
@@ -190,7 +190,7 @@ A new class of synthetic muscles from MIT is straight out of Westworld. The so-c
 
 📺 Kalil 4.0
 
-👁️ 270 • 👍 9 • 💬 1 • ⏱️ 0:40 • 26m ago
+👁️ 270 • 👍 9 • 💬 1 • ⏱️ 0:40 • 1h ago
 
 ---
 
@@ -210,7 +210,7 @@ Foundation Future Industries founder and CEO Sankaet Pathak and Trump Organizati
 
 📺 Fox Business
 
-👁️ 42K • 👍 1K • 💬 290 • ⏱️ 10:17 • 8h ago
+👁️ 42K • 👍 1K • 💬 290 • ⏱️ 10:17 • 9h ago
 
 ---
 
@@ -220,7 +220,7 @@ I thought this would be just another robot demo... I was wrong.At this launch ev
 
 📺 Barrett
 
-👁️ 1K • 👍 149 • 💬 6 • ⏱️ 5:43 • 8h ago
+👁️ 1K • 👍 149 • 💬 6 • ⏱️ 5:43 • 9h ago
 
 ---
 
@@ -240,7 +240,7 @@ Subscribe for more: https://www.youtube.com/@carrosshow9598 Other video's: Elon 
 
 📺 Carros Show
 
-👁️ 2K • 👍 43 • 💬 15 • ⏱️ 8:25 • 22h ago
+👁️ 2K • 👍 43 • 💬 15 • ⏱️ 8:25 • 23h ago
 
 ---
 
@@ -250,7 +250,7 @@ War Robots Gameplay: New WAYMAKER Titan - WR My War Robots Creator Link: https:/
 
 📺 Manni-Gaming
 
-👁️ 5K • 👍 354 • 💬 53 • ⏱️ 24:06 • 8h ago
+👁️ 5K • 👍 354 • 💬 53 • ⏱️ 24:06 • 9h ago
 
 ---
 

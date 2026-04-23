@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-23T21:13:32.928329+00:00'
+updated: '2026-04-23T22:08:02.156488+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
 - social
 - repositories
-- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** April 23, 2026 at 21:13 UTC  
+**Last Updated:** April 23, 2026 at 22:08 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I had the pleasure of sitting down with Wendell Wallach recently. He’s been working in AI ethics since before ChatGPT, before the hype, before most people in tech were paying attention. He wrote Moral Machines, worked alongside Stuart Russell, Yann LeCun and Daniel Kahneman. He’s not a commentator, he’s someone who has sat with these questions for decades. What struck me most in our conversation was his argument about AGI. Not that it’s impossible or inevitable, but that it’s the wrong goal entirely. A system can be extraordinarily intelligent and have zero moral reasoning. We’re building toward capability without asking what it’s capable of deciding. The section on accountability genuinely unsettled me. When AI causes harm, who is actually responsible? He maps out why the answer is almost always nobody in a way that’s hard to argue with. Worth watching if you’re tired of the extremes. Full interview: https://youtu.be/-usWHtI-cms?si=NBkwN-AmIshOXJsX
 
-6h ago
+7h ago
 
 ---
 
@@ -49,7 +49,7 @@ I had the pleasure of sitting down with Wendell Wallach recently. He’s been wo
 
 In federal appeals court, Anthropic made a striking argument: once Claude is deployed on a customer's infrastructure (like the Pentagon's network), they cannot alter, update, or recall it. The Pentagon wants autonomous lethal action restrictions removed — and Anthropic says they have no mechanism to enforce those restrictions post-deployment. This is the first time a major AI lab has formally stated under oath that post-deployment control is effectively zero. The implications are bigger than most coverage suggests. The governance gap this reveals: Current AI governance assumes a control chain that doesn't actually exist: Model cards are pre-sale documents. They describe what the model was trained to do, not what it's capable of in the wild after fine-tuning, tool integration, and deployment context changes. Human-in-the-loop is a customer config, not a vendor guarantee. Anthropic can recommend oversight, but they just told a court they can't enforce it. Liability frameworks assume control that doesn't exist post-shipment. If you sell a car with a recall mechanism, you're liable for not using it. If you sell a model you can't recall, does that reduce your liability (you had no control) or increase your duty of disclosure before sale (you knew you'd have no control later)? The behavioral envelope question: If you can't recall the model, you need to disclose the maximum capability, not just the recommended use. Current model cards document aspirations. They don't document envelopes — what the model can actually produce under adversarial or edge conditions. This mirrors pharmaceutical regulation: if you can't pull a drug off shelves, the FDA requires much stronger pre-market evidence and broader contraindication labeling. The stricter the post-market control limitations, the higher the pre-market disclosure burden. Why this matters even if you don't care about military AI: The legal argument Anthropic is making applies everywhere. If "we can't control it after deployment" works for the Pentagon, it works for any enterprise customer. Every organization deploying Claude (or any model) is implicitly accepting residual risk that the vendor has explicitly said they cannot mitigate. The core question: if a vendor demonstrates in court that it truly cannot alter a deployed model, should that argument reduce its liability (it had no control) or increase its duty of disclosure before sale (it will have no control later)?
 
-8h ago
+9h ago
 
 ---
 
@@ -57,7 +57,7 @@ In federal appeals court, Anthropic made a striking argument: once Claude is dep
 
 The layoffs affect about 8,000 employees, with Meta also planning to close 6,000 open roles, as the company focuses on artificial intelligence.
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/04/23/technology/meta-layoffs.html?unlocked_article_code=1.dFA.gzUD.VhYyqwKYrZpC&smid=nytcore-ios-share) • 2h ago
+🔗 [nytimes.com](https://www.nytimes.com/2026/04/23/technology/meta-layoffs.html?unlocked_article_code=1.dFA.gzUD.VhYyqwKYrZpC&smid=nytcore-ios-share) • 3h ago
 
 ---
 
@@ -65,7 +65,7 @@ The layoffs affect about 8,000 employees, with Meta also planning to close 6,000
 
 A federal judge ruled that your AI conversations can be seized and used against you in court — and deleting them doesn't help. **The Heppner case (February 2026):** - Former CEO Bradley Heppner used Claude to prep his fraud defense - Judge Jed Rakoff ordered him to surrender 31 AI-generated documents - Ruling: no attorney-client privilege exists "or could exist" between a user and an AI platform **The Krafton case:** - A CEO used ChatGPT to plan how to avoid paying promised earnout payments - He deleted the conversations - The court recovered them anyway and reversed his decisions **The contradiction:** - Same day as Rakoff's ruling, a Michigan judge reached the opposite conclusion - Protected a woman's ChatGPT chats as personal "work product" - A Colorado court later sided with Michigan but added: you must disclose which AI tool you used **The fallout:** - 12+ major law firms have issued client AI warnings - Sher Tremonte added contract clauses that sharing privileged info with AI waives privilege - Both OpenAI and Anthropic privacy policies explicitly allow sharing user data with third parties - $145,000+ in sanctions against attorneys for AI citation errors in Q1 2026 alone **The bottom line:** - Your AI is not your lawyer and never was - Deleting chats doesn't delete the data from their servers - Consumer AI (ChatGPT, Claude, Gemini) should not be used for legal matters unless directed by counsel Full breakdown with source links → https://synvoya.com/blog/2026-04-23-ai-chats-court-evidence/ Have you ever typed something into ChatGPT that you wouldn't want a judge to read?
 
-19h ago
+20h ago
 
 ---
 
@@ -73,7 +73,7 @@ A federal judge ruled that your AI conversations can be seized and used against 
 
 Today I have done all these in about 5 hours analysed my blood test results for the last 20 years reviewed whole health action plan for review with doctor produced charts from that data which clearly shows direction of travel and reveals information hidden in the data wrote a mini screen saver thing which shows me the top AI art on Reddit built an entire marketing program for a book I am launching built a web page to support the program built a press release for the book got a list of all key contacts in local media and bookshops - with email addresses and frequently actual names. [EDIT, forgot this one] Made a Star Trek LCARS home page for the 50 odd regular links I use and hooked it into the database where I keep the list. Now, I could have done all that myself, but it would have taken a week. Crucially I *would not have bothered * I would not have seen the results as worth the effort. So, (a) I have been more productive (b) I have done stuff I never would have done without AI
 
-4h ago
+5h ago
 
 ---
 
@@ -81,7 +81,7 @@ Today I have done all these in about 5 hours analysed my blood test results for 
 
 I created an [Activation Lab](https://github.com/cstefanache/llmct) tool that can be seen as an MRI machine for AI. It captures snapshots of every single layer inside a language model while it processes a conversation. It allows you to fully understand what is happening, inside a neural network during generation by capturing all internal states of the layers of an LLM and takes snapshots for interpretability. First experiment: I fed Qwen 2.5 (3B) a 20-turn conversation where the user swings wildly between joy, fear, anger, sadness, apathy, and peace. At every turn, I scanned the AI's internal state and compared it against emotional fingerprints. Here's what I found: The AI has an emotional backbone. The residual stream - the main information highway, maintains 0.83–0.88 cosine similarity to emotional references at all times. It always knows the emotional temperature of the conversation. Emotions are sharpest at layers 29–33. Early layers detect that emotion exists. Middle layers sort positive from negative. But it's the deep layers where the network actually decides "this is joy, not sadness." Layer 31 is the single most discriminative layer in the entire network. The AI has a built-in shock absorber. When the user is emotionally intense, the assistant's internal state shifts toward that emotion, but never all the way. The gap is consistent: \~0.03 on the backbone, \~0.13 on the deeper processing centers. It acknowledges your feelings while staying calm. Nobody trained it to do this explicitly. It learned it. Joy is the default setting. Even during angry and sad turns, the joy reference scored highest. Instruction tuning didn't just make the model helpful, it shifted its entire internal geometry toward positivity. Emotional memory fades. First message: 0.90 cosine with its matching emotion. By message 19: only 0.67–0.73. Longer conversations dilute the signal.
 
-1h ago
+2h ago
 
 ---
 
@@ -89,7 +89,7 @@ I created an [Activation Lab](https://github.com/cstefanache/llmct) tool that ca
 
 Hey everyone, I’ve been using Claude.ai with a custom skill setup inside a Project. Basically I have a folder of Markdown files (SKILL.md files) that act as persistent instructions for Claude. Each skill has a name, a description, a trigger condition and detailed instructions on how Claude should behave when that trigger fires. Some of these skills reference each other and build on top of each other, so there’s a whole interconnected system running. My question is whether any of this is portable. What the skill files actually are: Each skill is essentially a plain Markdown file with a YAML frontmatter block (name, description) and then structured natural language instructions. No proprietary binary format, no compiled code. Just text. What I’m wondering: 1. Can I export or extract these SKILL.md files? (They live in a mounted read-only directory inside Claude’s environment, so I can view them but not directly download them through a normal UI button.) 2. If I copy the raw Markdown content, can I paste it into a ChatGPT Custom GPT as system prompt instructions or into the “Instructions” field and get comparable behavior? 3. Has anyone tried migrating a Claude Project skill system over to a GPT and hit any practical walls? I’m thinking about things like tool availability differences, how each model interprets structured instructions or differences in how context is injected. 4. Is the whole skill/trigger architecture something that’s genuinely Claude-specific because of how Anthropic injects context into the system prompt, or is it just prompt engineering that any capable model can follow? My hunch is that the Markdown content itself is fully portable since it’s just text, but the actual trigger routing (where Claude decides which SKILL.md to load based on keywords or slash commands) might need to be rebuilt manually in ChatGPT, either via a GPT system prompt that describes all triggers or by splitting everything into separate GPTs. Anyone done something like this or have thoughts on the approach?
 
-3h ago
+4h ago
 
 ---
 
@@ -97,7 +97,7 @@ Hey everyone, I’ve been using Claude.ai with a custom skill setup inside a Pro
 
 Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.
 
-🔗 [OpenAI](https://openai.com/index/introducing-gpt-5-5/) • 10m ago
+🔗 [OpenAI](https://openai.com/index/introducing-gpt-5-5/) • 1h ago
 
 ---
 
@@ -105,7 +105,7 @@ Introducing GPT-5.5, our smartest model yet—faster, more capable, and built fo
 
 LLMs were asked to write a Python 3.10 client that plays a two-player adversarial variant of the Towers of Hanoi. Rules: Hero moves a disk; Villain must immediately move that same disk to an adjacent tower (or pass if no legal move). Hero's budget is 2^m + 1 moves — barely more than the 2^m - 1 solo optimum, so almost any wasted move loses. Round-robin tournament with penalty-shootout matchups: up to 5 rounds (+ sudden death), 2 simultaneous games per round with hero/villain roles swapped. Round configs grow from 4 towers / 3 disks up to 12 towers / 7 disks. Full writeup
 
-3h ago
+4h ago
 
 ---
 
@@ -113,7 +113,7 @@ LLMs were asked to write a Python 3.10 client that plays a two-player adversaria
 
 Many people have pointed out that ChatGPT 5.5 appears to be twice as expensive as 5.4 based on API pricing, which makes it look pricier than Opus 4.7. But the comparison is not that simple. GPT 5.5 is significantly more token-efficient in practice, which can make it faster and reduce the total cost of completing a task. When you compare it directly to Opus 4.7, the image here shows that Claude Opus 4.7 is still much more expensive than GPT 5.5, around 5 to 10 times more expensive on ARC-AGI-2. Anthropic also changed the tokenizer for Opus 4.7, which appears to increase token counts by about 1.35x. Combined with Anthropic’s already high API pricing, this makes Claude substantially more expensive in real world usage than a simple headline price comparison suggests.
 
-15m ago
+1h ago
 
 ---
 
@@ -125,7 +125,7 @@ Many people have pointed out that ChatGPT 5.5 appears to be twice as expensive a
 
 Anthropic’s model was reportedly accessed by a handful of users in an online forum.
 
-Fortune • 5h ago
+Fortune • 6h ago
 
 ---
 
@@ -139,7 +139,7 @@ The New York Times • 1d ago
 
 Editorial: Tech can scale cyber-attacks and defences alike, raising questions about private power, public risk and the future of a shared internet
 
-The Guardian • 3h ago
+The Guardian • 4h ago
 
 ---
 
@@ -147,7 +147,7 @@ The Guardian • 3h ago
 
 Meta and Microsoft are the latest Big Tech giants to trim staff as AI costs continue to balloon.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -155,13 +155,13 @@ Yahoo Finance • 2h ago
 
 Meta plans to lay off 10% of its workforce, equaling about 8,000 employees, as the company continues to ramp up investments in artificial intelligence.
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
 **[Meta plans to cut 10% of workforce, or 8,000 jobs, as it doubles down on AI](https://www.marketwatch.com/story/meta-plans-to-cut-10-of-workforce-or-8-000-jobs-as-it-doubles-down-on-ai-68dd6ebb)**
 
-MarketWatch • 19m ago
+MarketWatch • 1h ago
 
 ---
 
@@ -169,7 +169,7 @@ MarketWatch • 19m ago
 
 “Over the last six to 12 months, there has been this realization that AI is not going away,” said Alexandra Shannon, head of strategic development at Creative Artists Agency.
 
-NBC News • 13m ago
+NBC News • 1h ago
 
 ---
 
@@ -177,13 +177,13 @@ NBC News • 13m ago
 
 Sierra, the AI customer service agent startup founded by technologist Bret Taylor, announced today that it has acquired the YC-backed French startup Fragment.
 
-TechCrunch • 13m ago
+TechCrunch • 1h ago
 
 ---
 
 **[AI model designs new antibiotic for staph infections after exploring 46 billion compounds](https://phys.org/news/2026-04-ai-antibiotic-staph-infections-exploring.html)**
 
-Phys.org • 13m ago
+Phys.org • 1h ago
 
 ---
 
@@ -191,7 +191,7 @@ Phys.org • 13m ago
 
 Texas Instruments beat on earnings and revenue and gave upbeat guidance.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
@@ -237,7 +237,7 @@ High-performance AI gateway written in Go - unified OpenAI-compatible API for Op
 
 How Ars Technica uses, and doesn't use, generative AI.
 
-⬆️ 179 • 💬 122 • 15h ago • [Ars Technica](https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/)
+⬆️ 179 • 💬 122 • 16h ago • [Ars Technica](https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/)
 
 ---
 
@@ -269,7 +269,7 @@ According to her profile, she was a registered nurse with Jennifer Lawrence look
 
 Migrating to the new meshcore.io site
 
-⬆️ 86 • 💬 57 • 4h ago • [blog.meshcore.io](https://blog.meshcore.io/2026/04/23/the-split)
+⬆️ 86 • 💬 57 • 5h ago • [blog.meshcore.io](https://blog.meshcore.io/2026/04/23/the-split)
 
 ---
 
@@ -283,7 +283,7 @@ sponsored Build with Softr ...
 
 📺 AI Master
 
-👁️ 5K • 👍 178 • 💬 20 • ⏱️ 21:44 • 4h ago
+👁️ 5K • 👍 178 • 💬 20 • ⏱️ 21:44 • 5h ago
 
 ---
 
@@ -313,7 +313,7 @@ President Donald Trump discusses concerns over the use of AI and cyberattacks on
 
 📺 Fox Business
 
-👁️ 2K • 👍 75 • 💬 27 • ⏱️ 1:40 • 3h ago
+👁️ 2K • 👍 75 • 💬 27 • ⏱️ 1:40 • 4h ago
 
 ---
 
@@ -323,7 +323,7 @@ Roman Yampolskiy explains why superintelligence cannot be controlled, why the ga
 
 📺 Future of Life Institute
 
-👁️ 4K • 👍 205 • 💬 52 • ⏱️ 19:17 • 7h ago
+👁️ 4K • 👍 205 • 💬 52 • ⏱️ 19:17 • 8h ago
 
 ---
 
@@ -353,7 +353,7 @@ AI-run San Francisco store “Luna” has created job listings, interviewed cand
 
 📺 ABC News
 
-👁️ 3K • 👍 24 • 💬 12 • ⏱️ 3:18 • 22h ago
+👁️ 3K • 👍 24 • 💬 12 • ⏱️ 3:18 • 23h ago
 
 ---
 
@@ -363,7 +363,7 @@ Microsoft Vice Chairman and President Brad Smith discusses AI's profound impact 
 
 📺 Fox Business Clips
 
-👁️ 4K • 👍 156 • 💬 63 • ⏱️ 13:39 • 6h ago
+👁️ 4K • 👍 156 • 💬 63 • ⏱️ 13:39 • 7h ago
 
 ---
 
@@ -401,7 +401,7 @@ Kimi K2.6 is a 1T parameter multimodal agentic model excelling in long-horizon c
 
 `image-text-to-text` `1058.6B`
 
-⬇️ 125,825 • ❤️ 876 • 15h ago
+⬇️ 125,825 • ❤️ 876 • 16h ago
 
 ---
 
@@ -485,7 +485,7 @@ Gemma 4 E4B OBLITERATED v3 is a text-generation model with 0% refusal and improv
 
 `text-generation` `8.0B`
 
-⬇️ 90,064 • ❤️ 477 • 3d ago
+⬇️ 90,064 • ❤️ 477 • 4d ago
 
 ---
 
@@ -647,7 +647,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 49.2k • 🔱 6.5k • 15h ago
+⭐ 49.2k • 🔱 6.5k • 16h ago
 
 ---
 
@@ -697,7 +697,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 8.6k • 🔱 554 • 3h ago
+⭐ 8.6k • 🔱 554 • 4h ago
 
 ---
 
@@ -707,7 +707,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Python`
 
-⭐ 5.9k • 🔱 997 • 12h ago
+⭐ 5.9k • 🔱 997 • 13h ago
 
 ---
 
