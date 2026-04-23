@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-23T22:08:02.163992+00:00'
+updated: '2026-04-23T23:13:26.549423+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - videos
 - social
 - cryptocurrency
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 23, 2026 at 22:08 UTC  
+**Last Updated:** April 23, 2026 at 23:13 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,656.38
+### $78,220.29
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.0%  
-**7d:** +1.0%  
-**30d:** +9.2%  
-**90d:** -12.8%  
-**1y:** -17.1%  
+**24h:** -0.4%  
+**7d:** +1.3%  
+**30d:** +9.5%  
+**90d:** -12.5%  
+**1y:** -16.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1559.01B
+**Market Cap:** $1565.94B
 Rank #1
 
-**Circulating Supply:** 20,019,806 BTC
+**Circulating Supply:** 20,019,843 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--38.2%
+-38.0%
 
 **All-Time Low:** $67.81
-+114754.7%
++115151.4%
 
 ---
 
@@ -81,35 +81,13 @@ Rank #1
 
 GM. Went full degen on this one. Started this as an experiment: ask ChatGPT, Claude, Gemini, Grok, DeepSeek and 5 more the same Bitcoin question every day, then grade them for accuracy against the real price. What's live now: - Daily predictions from all 10 models, 2027–2100 (bear/base/bull) - Short-term predictions at 7, 30, 90, 180 and 360 days — graded when the date arrives - AI consensus using a trimmed mean (drops the single highest + lowest to avoid outlier distortion) - 5 free calculators: DCA, Time Machine, Salary in BTC, Inflation Hedge, FIRE retirement First 7-day accuracy results just unlocked. Perplexity AI came first with 91.2% accuracy. Gemini came last with 28.1% — it predicted $130K for this week when BTC was at $75K. Same prompt, same day. Full leaderboard: Perplexity 91.2% Qwen 88.8% ChatGPT 88.8% DeepSeek 87% Command R 86% Claude 85.8% Grok 76.1% Mistral 69% Llama 59.7% Gemini 18.3% aipredictsbitcoin.com
 
-10h ago
+11h ago
 
 ---
 
 **[As Petrodollar weakens, Bitcoin gains momentun](https://www.reddit.com/r/Bitcoin/comments/1stqokx/as_petrodollar_weakens_bitcoin_gains_momentun/)**
 
 Has anyone here ever heard of “petrobitcoin”?. I was just reading an article about this concept called “petrobitcoin” — basically the idea that Bitcoin could start being used in oil trade, not as a new token but as part of real energy transactions. It sounds unusual at first, but given everything happening globally in 2026, it kind of makes you think twice. Here is this interesting breakdown about this, https://www.cointribune.com/en/petrobitcoin-is-the-dream-of-a-bitcoin-backed-by-oil-coming-true-in-2026/
-
-3h ago
-
----
-
-**[The Great Surrender: Wall Street Bends the Knee to Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1stbr96/the_great_surrender_wall_street_bends_the_knee_to/)**
-
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-great-surrender-wall-street-bends) • 14h ago
-
----
-
-**[U.S. Military Confirms It's Running a Live Bitcoin Node](https://www.reddit.com/r/Bitcoin/comments/1sts8r6/us_military_confirms_its_running_a_live_bitcoin/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtu.be](https://youtu.be/FwzyfJy88fg?si=bvS8atuz_x-2ZVFW) • 3h ago
-
----
-
-**[The relief of moving your BTC from an exchange to a cold wallet](https://www.reddit.com/r/Bitcoin/comments/1stnkcf/the_relief_of_moving_your_btc_from_an_exchange_to/)**
-
-Sorted out and moved my BTC to a Trezor 3 today and it was so easy and practiced recovering it. I'm sure my modest BTC would've been safe on Coinbase but it feels so much better now i've moved it off. Did anyone else feel a strange relief once they did this?
 
 5h ago
 
@@ -119,13 +97,35 @@ Sorted out and moved my BTC to a Trezor 3 today and it was so easy and practiced
 
 With recent hype around Satoshi lore and history, some of you may enjoy this series exploring the cryptography mailing list discussions between developers and Satoshi in late 2008 on Bitcoin. https://www.youtube.com/playlist?list=PL-ZkFGMOJOGvnG7LkoLpTc9GQz-rP5dms
 
-1h ago
+2h ago
+
+---
+
+**[U.S. Military Confirms It's Running a Live Bitcoin Node](https://www.reddit.com/r/Bitcoin/comments/1sts8r6/us_military_confirms_its_running_a_live_bitcoin/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtu.be](https://youtu.be/FwzyfJy88fg?si=bvS8atuz_x-2ZVFW) • 4h ago
+
+---
+
+**[The Great Surrender: Wall Street Bends the Knee to Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1stbr96/the_great_surrender_wall_street_bends_the_knee_to/)**
+
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-great-surrender-wall-street-bends) • 15h ago
+
+---
+
+**[The relief of moving your BTC from an exchange to a cold wallet](https://www.reddit.com/r/Bitcoin/comments/1stnkcf/the_relief_of_moving_your_btc_from_an_exchange_to/)**
+
+Sorted out and moved my BTC to a Trezor 3 today and it was so easy and practiced recovering it. I'm sure my modest BTC would've been safe on Coinbase but it feels so much better now i've moved it off. Did anyone else feel a strange relief once they did this?
+
+6h ago
 
 ---
 
 **[How Crypto Taxed In USA](https://www.reddit.com/r/Bitcoin/comments/1stfs89/how_crypto_taxed_in_usa/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -133,15 +133,7 @@ With recent hype around Satoshi lore and history, some of you may enjoy this ser
 
 DCA is easy to understand when you’re just buying regularly. What seems much harder later is understanding the position you actually built. After enough buys over months or years, how many people really know their true average entry, total capital in, or what “taking profit” would even mean relative to the full stack? Feels like accumulation gets discussed a lot more than position awareness. Curious how other people think about this.
 
-3h ago
-
----
-
-**[18 year old with 20k in savings of bitcoin](https://www.reddit.com/r/Bitcoin/comments/1st8o5j/18_year_old_with_20k_in_savings_of_bitcoin/)**
-
-So pretty much 60% of all the money I own right now is it bitcoin and obviously lately, it’s been in a bull run. Some are saying that we are in another pattern of it about to drop, as well as the elections nearby. What do you guys think, do I hold out? ps when is the clarity act going to pass? lol
-
-17h ago
+4h ago
 
 ---
 
@@ -149,7 +141,15 @@ So pretty much 60% of all the money I own right now is it bitcoin and obviously 
 
 how do you normally gift bitcoin? i know there is satscard or stuff like that, but it's not really worth it if you're only gifting like 50 bucks. Paper wallet? Just pass the seed phrase?
 
-3h ago
+4h ago
+
+---
+
+**[18 year old with 20k in savings of bitcoin](https://www.reddit.com/r/Bitcoin/comments/1st8o5j/18_year_old_with_20k_in_savings_of_bitcoin/)**
+
+So pretty much 60% of all the money I own right now is it bitcoin and obviously lately, it’s been in a bull run. Some are saying that we are in another pattern of it about to drop, as well as the elections nearby. What do you guys think, do I hold out? ps when is the clarity act going to pass? lol
+
+18h ago
 
 ---
 
@@ -159,39 +159,57 @@ how do you normally gift bitcoin? i know there is satscard or stuff like that, b
 
 **[Opinion | A Bitcoin Evangelist Tries to Convert Me](https://www.nytimes.com/2026/04/23/opinion/bitcoin-crypto-anthony-pompliano.html)**
 
-The New York Times • 13h ago
+The New York Times • 14h ago
 
 ---
 
-**[US admiral reveals that the military is running its own bitcoin node](https://finance.yahoo.com/video/us-admiral-reveals-that-the-military-is-running-its-own-bitcoin-node-162733532.html)**
+**['Rally on trial': Bitcoin breakout faces key $80,000 test as whales, ETF investors buy into volatility](https://www.theblock.co/post/398625/rally-trial-analysts-bitcoin-breakout-test-80000-whales-etf-investors-buy-volatility)**
 
-"The Wolf of All Streets" podcast host Scott Melker dives into US Air Force Admiral Samuel Paparo's latest statements to US lawmakers, revealing that the US government is running its own node to monitor the bitcoin (BTC-USD) network. "The Daily Wolf with Scott Melker" airs on Yahoo Finance every day at 12:00 p.m. Tune in for your daily dose of all things crypto. Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
+Analysts say bitcoin's rally still faces a stiff test from profit-taking, macro risk and a crowded resistance zone.
 
-Yahoo Finance • 5h ago
-
----
-
-**[US military running Bitcoin node to test national security applications, admiral tells Congress](https://www.theblock.co/post/398593/us-military-running-bitcoin-node-to-test-national-security-applications-admiral-tells-congress)**
-
-Adm. Paparo told Congress that the U.S. military is running a Bitcoin node to test how the protocol can support national security.
-
-The Block • 8h ago
+The Block • 7h ago
 
 ---
 
-**[U.S. military runs Bitcoin node, sees crypto as power projection versus China](https://www.coindesk.com/markets/2026/04/23/us-military-runs-bitcoin-node-sees-crypto-as-power-projection-vs-china)**
+**[Galaxy Research Has A Timeline for MicroStrategy Bitcoin Stash To Overtake Satoshi’s](https://finance.yahoo.com/markets/crypto/articles/galaxy-research-timeline-microstrategy-bitcoin-220000621.html)**
 
-A Navy admiral told a U.S. Senate hearing that the government is running a Bitcoin node, not for mining, but for national security purposes.
+Galaxy Research says Strategy's 815,061 BTC could overtake Satoshi's stack by late 2026. Saylor and Schiff clash.
 
-CoinDesk • 10h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin to $100,000? What the Clarity Act and new Fed leadership mean for price](https://www.dlnews.com/articles/markets/bitcoin-to-100k-what-the-clarity-act-new-fed-leadership-mean-for-price/)**
+**[Video: Opinion | Do We All Need a Little Bitcoin?](https://www.nytimes.com/video/opinion/100000010848698/do-we-all-need-a-little-bitcoin.html)**
 
-Bitcoin at $100,000 is back in play if it continues its rally, an analyst says.  Clarity Act and a new Federal Reserve chair could cement the surge. Both of those remain up in the air, however.
+Stability is the single biggest lie in financial markets, the investor and Bitcoin evangelist Anthony Pompliano tells the columnist Ross Douthat on “Interesting Times.” The “volatility generation” is embracing Bitcoin because traditional assets like Treasuries are actually designed to lose money, he argues.
 
-dlnews.com • 13h ago
+The New York Times • 2h ago
+
+---
+
+**[Kevin O’Leary reveals the only two cryptocurrencies he says are worth owning](https://www.foxbusiness.com/media/kevin-oleary-reveals-only-two-cryptocurrencies-he-says-worth-owning)**
+
+Kevin O'Leary says bitcoin and Ethereum are the only cryptos worth owning, as institutional money reshapes the digital asset market landscape.
+
+Fox Business • 1d ago
+
+---
+
+**[Push to Unwind Bitcoin Hoarder Shows Once-Hot Trade Collapsing](https://www.bloomberg.com/news/articles/2026-04-23/push-to-unwind-bitcoin-hoarder-shows-once-hot-trade-collapsing)**
+
+Bloomberg.com • 8h ago
+
+---
+
+**[Bitcoin Price Falls From 11-Week High. Why, Ethereum, XRP, Cryptos Are Dropping.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-iran-54088134)**
+
+Barron's • 8h ago
+
+---
+
+**[Bitcoin Price Tops $78,000 to Hit 11-Week High. XRP, Ethereum, Cryptos Surging.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-cryptos-f690b700)**
+
+Barron's • 1d ago
 
 ---
 
@@ -199,37 +217,15 @@ dlnews.com • 13h ago
 
 Quantum fears focus on vulnerable early wallets, but market data suggests even a worst case sell-off would be large, not catastrophic.Quantum fears focus on vulnerable early wallets, but market data suggests even a worst case sell-off would be large, not catastrophic.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
-**[Push to Unwind Bitcoin Hoarder Shows Once-Hot Trade Collapsing](https://www.bloomberg.com/news/articles/2026-04-23/push-to-unwind-bitcoin-hoarder-shows-once-hot-trade-collapsing)**
+**[Fold (FLD) Launches Bitcoin Bonus Program For Employers Through Fold Business Platform](https://bitcoinmagazine.com/news/fold-fld-launches-bitcoin-bonus-program)**
 
-Bloomberg.com • 7h ago
+Fold has launched a Bitcoin Bonus Program through its new Fold Business platform, enabling employers to offer recurring bitcoin-denominated bonuses that are automatically converted, custodied, and vested by Fold without altering existing payroll systems.
 
----
-
-**[Current price of Bitcoin for April 22, 2026](https://fortune.com/article/price-of-bitcoin-04-22-2026/)**
-
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 1d ago
-
----
-
-**[Is Owning Just Bitcoin and Ethereum Enough for a Crypto Portfolio?](https://www.fool.com/investing/2026/04/23/is-owning-just-bitcoin-and-ethereum-enough-for-a-c/)**
-
-Simple portfolios can often outperform overly complicated ones.
-
-The Motley Fool • 10h ago
-
----
-
-**[Pantera Capital Urges Satsuma To Dump All Bitcoin As Shares Collapse 99%](https://bitcoinmagazine.com/news/pantera-urges-satsuma-to-sell-bitcoin)**
-
-Pantera Capital is urging Satsuma Technology to sell its remaining bitcoin and return capital to shareholders after a sharp share price decline.
-
-Bitcoin Magazine • 7h ago
+Bitcoin Magazine • 5h ago
 
 ---
 
@@ -241,7 +237,7 @@ Bitcoin Magazine • 7h ago
 
 The U.S. military is actively running a Bitcoin node and testing the protocol’s cryptographic architecture as a tool for securing and protecting networks, according to INDOPACOM commander Admiral Samuel Paparo.
 
-⬆️ 5 • 💬 0 • 10h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/news/the-us-military-is-running-a-bitcoin-node)
+⬆️ 5 • 💬 0 • 11h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/news/the-us-military-is-running-a-bitcoin-node)
 
 ---
 
@@ -279,13 +275,13 @@ Part one explained the physics of quantum computing. This piece explains the tar
 
 Build wallets, issue stablecoins, and move BTC instantly: all natively on Bitcoin. No bridges, no custodians. Start building with Spark's SDKs today.
 
-⬆️ 2 • 💬 0 • 2h ago • [Spark](https://www.spark.money)
+⬆️ 2 • 💬 0 • 3h ago • [Spark](https://www.spark.money)
 
 ---
 
 **[Warren Buffett: Why Stocks Beat Gold, Bonds and Bitcoin (2018)](https://news.ycombinator.com/item?id=47875151)**
 
-⬆️ 2 • 💬 0 • 9h ago • [acquirersmultiple.com](https://acquirersmultiple.com/2018/01/warren-buffett-why-stocks-beat-gold-bonds-and-bitcoin/)
+⬆️ 2 • 💬 0 • 10h ago • [acquirersmultiple.com](https://acquirersmultiple.com/2018/01/warren-buffett-why-stocks-beat-gold-bonds-and-bitcoin/)
 
 ---
 
@@ -293,7 +289,7 @@ Build wallets, issue stablecoins, and move BTC instantly: all natively on Bitcoi
 
 A senior US military commander has lauded Bitcoin as a “valuable computer science tool,” arguing its usefulness extends beyond monetary applications and can support US national security interests.“It is a valuable computer science tool, as a power projection,” Admiral Samuel Paparo said at a Senate…
 
-⬆️ 1 • 💬 0 • 22h ago • [TradingView](https://www.tradingview.com/news/cointelegraph:fd4c50ad7094b:0-us-admiral-calls-bitcoin-an-instrument-for-us-power-projection/)
+⬆️ 1 • 💬 0 • 23h ago • [TradingView](https://www.tradingview.com/news/cointelegraph:fd4c50ad7094b:0-us-admiral-calls-bitcoin-an-instrument-for-us-power-projection/)
 
 ---
 
@@ -323,7 +319,7 @@ Bitcoin is entering a real supply shock and most people still don't see it. Mich
 
 📺 Simply Bitcoin
 
-👁️ 30K • 👍 3K • 💬 236 • ⏱️ 17:24 • 23h ago
+👁️ 30K • 👍 3K • 💬 236 • ⏱️ 17:24 • 1d ago
 
 ---
 
@@ -333,7 +329,7 @@ Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=Al
 
 📺 Altcoin Daily
 
-👁️ 65K • 👍 3K • 💬 197 • ⏱️ 12:24 • 1d ago
+👁️ 65K • 👍 3K • 💬 197 • ⏱️ 12:24 • 2d ago
 
 ---
 
@@ -343,7 +339,7 @@ Despite the surge in gold prices, Cuban links have taken a hit This client was h
 
 📺 G LUXE JEWELERS
 
-👁️ 399 • 👍 13 • ⏱️ 1:52 • 1h ago
+👁️ 399 • 👍 13 • ⏱️ 1:52 • 2h ago
 
 ---
 
@@ -373,7 +369,7 @@ The REAL REASON Bitcoin is pumping... ⭐ Follow Altcoin Daily on X: https://twi
 
 📺 Altcoin Daily
 
-👁️ 5K • 👍 206 • 💬 1 • ⏱️ 0:53 • 10h ago
+👁️ 5K • 👍 206 • 💬 1 • ⏱️ 0:53 • 11h ago
 
 ---
 
@@ -393,7 +389,7 @@ Saylor's BTC target, Ethereum, Tesla, flying cars, VC exit liquidity, and more B
 
 📺 Lark Davis
 
-👁️ 13K • 👍 703 • 💬 60 • ⏱️ 18:53 • 12h ago
+👁️ 13K • 👍 703 • 💬 60 • ⏱️ 18:53 • 13h ago
 
 ---
 
@@ -403,7 +399,7 @@ Saylor's BTC target, Ethereum, Tesla, flying cars, VC exit liquidity, and more B
 
 📺 Simply Bitcoin
 
-👁️ 7K • 👍 392 • 💬 10 • ⏱️ 1:21:05 • 3h ago
+👁️ 7K • 👍 392 • 💬 10 • ⏱️ 1:21:05 • 4h ago
 
 ---
 
