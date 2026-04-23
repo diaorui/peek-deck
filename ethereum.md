@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-23T18:42:04.672923+00:00'
+updated: '2026-04-23T20:06:33.355418+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- cryptocurrency
 - social
 - news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 23, 2026 at 18:42 UTC  
+**Last Updated:** April 23, 2026 at 20:06 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.6%  
-**7d:** -4.4%  
-**30d:** +6.6%  
-**90d:** -21.7%  
-**1y:** +30.8%  
+**24h:** -3.3%  
+**7d:** -3.9%  
+**30d:** +7.2%  
+**90d:** -21.3%  
+**1y:** +31.5%  
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+15h ago
+
+---
+
+**[MyEtherWallet going all in on Tokenized Stock on Ethereum](https://www.reddit.com/r/ethereum/comments/1strji2/myetherwallet_going_all_in_on_tokenized_stock_on/)**
+
+In the last few months MyEtherWallets been quietly rolling out updates to their products bringin tokenized stocks on Ethereum to the foreground. I think its very interesting timing for Ethereum in general with all the DEFI drama. This feels like crypto might be growing up a bit, and certainly exposing worldwide users to tokenized stocks on Ethereum has to be a bullish signal. Especially if it for srs investors in a buy and hold mentality and not some yolo on whateverCoin. Just did a tweet this morning about doing a bunch of free tokenized stocks on Ethereum and I am super here for it. Heres the tweet: https://x.com/myetherwallet/status/2047343412941377789?s=20
+
+1h ago
 
 ---
 
@@ -80,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Your daily crypto news briefing. Bitcoin, Ethereum, Solana and the stories that move markets.
 
-🔗 [bigcoinreport.com](https://bigcoinreport.com/analysis/ai-agents-crypto-payments-how-it-works) • 16h ago
+🔗 [bigcoinreport.com](https://bigcoinreport.com/analysis/ai-agents-crypto-payments-how-it-works) • 18h ago
 
 ---
 
@@ -136,14 +144,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[On April 18, a hacker minted 116,500 rsETH tokens out of nothing.](https://www.reddit.com/r/ethereum/comments/1spvsfd/on_april_18_a_hacker_minted_116500_rseth_tokens/)**
-
-On April 18, a hacker minted 116,500 rsETH tokens out of nothing. Not stolen from a wallet. Created from a forged cross-chain message, a phantom packet that told Kelp DAO’s bridge to release real tokens backed by zero collateral. The attacker deposited those phantom tokens as collateral on Aave and borrowed $236 million in real ETH against them. Within hours, $5.4 billion fled Aave. The protocol’s ETH pool hit 100% utilization. AAVE dropped 19%. Then Justin Sun withdrew $154 million from Aave. After securing his own exit, he posted publicly: “Kelpdao hacker, how much you want? Let’s just talk. You can’t spend $300 million anyway.” The man who extracted first offered to negotiate second. But that is not the deepest layer. The deepest layer is this: April 2026 just produced a single month in which every major system failure on earth was caused by the same mechanism. Not hacking. Not force. Verification Cost Inversion. Every system trusted a representation of value instead of verifying the value itself. And every system collapsed at the exact point where trust replaced verification. The rsETH was a representation of staked ETH. Nobody verified the cross-chain message that created it. A single DVN verifier, a 1-of-1 trust assumption, was the entire security model for a bridge holding $292 million. The representation said “backed.” The reality said “phantom.” Aave accepted the representation.
-
-🔗 [X (formerly Twitter)](https://x.com/i/status/2045872866944848108) • 4d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -152,15 +152,23 @@ On April 18, a hacker minted 116,500 rsETH tokens out of nothing. Not stolen fro
 
 An unreleased AI model is sending crypto into a panic, but it's only half relevant to the real ongoing problems.
 
-The Motley Fool • 8h ago
+The Motley Fool • 10h ago
 
 ---
 
-**[GSR Launches Actively Managed Bitcoin, Ethereum and Solana Basket ETF on Nasdaq](https://decrypt.co/365127/gsr-actively-managed-bitcoin-ethereum-solana-etf-nasdaq)**
+**[BitMine Says 70% Of Ethereum Holdings Are Now Staked](https://finance.yahoo.com/markets/crypto/articles/bitmine-says-70-ethereum-holdings-185300271.html)**
 
-Crypto market maker GSR has launched an actively managed ETF on the Nasdaq that includes Bitcoin, Ethereum, and Solana.
+BitMine Immersion Technologies (NYSE: $BMNR) says that more than 70% of its Ethereum (CRYPTO: $ETH) holdings have n...
 
-Decrypt • 1d ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Retail Is Cashing Out On Ethereum, But The Selloff Is Being Absorbed. Discover Who Is Buying](https://www.tradingview.com/news/newsbtc:c3e7666dc094b:0-retail-is-cashing-out-on-ethereum-but-the-selloff-is-being-absorbed-discover-who-is-buying/)**
+
+Ethereum has been grinding below $2,400 for weeks, testing the patience of holders who have watched the recovery build slowly, but without the decisive breakout, the price structure seemed to be setting up. That breakout may have just arrived. Ethereum pushed through to $2,423 in the latest session…
+
+TradingView • 1h ago
 
 ---
 
@@ -168,15 +176,7 @@ Decrypt • 1d ago
 
 Ether’s (ETH) 33% rally from its sub-$1,800 multi-year lows appears to be cooling, but several key metrics suggest the top altcoin is primed for a bigger rally toward $6,000 or higher.Key takeaways:Ether’s fractal targets $6,000 ETH price Ether is currently bouncing off a multi-year trend line that…
 
-TradingView • 2h ago
-
----
-
-**[BitMine’s Tom Lee Sees Ethereum’s Price Reaching $250,000](https://finance.yahoo.com/markets/crypto/articles/bitmine-tom-lee-sees-ethereum-135000677.html)**
-
-Tom Lee, the chairman of BitMine Immersion Technologies (NYSE: $BMNR) sees the price of Ethereum (CRYPTO: $ETH) eve...
-
-Yahoo Finance • 4h ago
+TradingView • 3h ago
 
 ---
 
@@ -186,41 +186,39 @@ Barron's • 1d ago
 
 ---
 
+**[GSR enters crypto ETF field with actively managed multi-asset fund tracking Bitcoin, Ethereum and Solana](https://www.theblock.co/post/398443/gsr-crypto-etf-actively-managed-multi-asset-core3-bitcoin-ethereum-solana)**
+
+Core3 marks GSR's first crypto ETF offering amid a period of expansion for the major market maker and the wider crypto fund sector.
+
+The Block • 1d ago
+
+---
+
 **[Current price of Ethereum for April 23, 2026](https://fortune.com/article/price-of-ethereum-04-23-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 5h ago
+Fortune • 7h ago
+
+---
+
+**['Axie Infinity' Gaming Network Ronin Sets Date for Ethereum Layer-2 Migration](https://decrypt.co/365131/axie-infinity-gaming-network-ronin-ethereum-layer-2-migration)**
+
+The Ronin gaming network will slash RON token inflation from over 20% to less than 1% while introducing automated developer rewards.
+
+Decrypt • 1d ago
 
 ---
 
 **[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-43417fbd-045836613d69)**
 
-MarketWatch • 4h ago
+MarketWatch • 6h ago
 
 ---
 
-**[Kevin O'Leary Says 'Just Own Bitcoin And Ethereum' As Altcoins 'Never Came Back'](https://www.benzinga.com/crypto/cryptocurrency/26/04/52001824/kevin-oleary-says-just-own-bitcoin-and-ethereum-as-altcoins-never-came-back)**
+**[Ethereum $250,000 Prediction Smashes Bitcoin and Gold as ‘Dead Capital’](https://www.tipranks.com/news/ethereum-250000-prediction-smashes-bitcoin-and-gold-as-dead-capital)**
 
-Shark Tank star Kevin O&#8217;Leary said investors only need to own Bitcoin (CRYPTO: BTC) and Ethereum
-
-Benzinga • 4h ago
-
----
-
-**[Varntix Raises $20M in Hours as Demand for Fixed Crypto Income Surges Amid Ethereum ETF Boom](https://markets.businessinsider.com/news/stocks/varntix-raises-20m-in-hours-as-demand-for-fixed-crypto-income-surges-amid-ethereum-etf-boom-1036054976)**
-
-ROAD TOWN, British Virgin Islands, April  23, 2026  (GLOBE NEWSWIRE) -- The announcement comes as demand for crypto passive income accelerates acr...
-
-markets.businessinsider.com • 2h ago
-
----
-
-**[Bitcoin And Ethereum Outlook - Cryptos Break Out Of Bear Trends, But Will It Continue](https://seekingalpha.com/article/4893189-bitcoin-ethereum-outlook-cryptos-break-out-of-bear-trends-will-it-continue)**
-
-Bitcoin has reached $79,000 in daily trading. Ethereum broke through several major resistance levels, back to $2,400. So far cryptocurrencies have maintained a strong correlation with Nasdaq
-
-Seeking Alpha • 12h ago
+TipRanks • 1d ago
 
 ---
 
@@ -234,7 +232,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 1K • 👍 94 • 💬 6 • ⏱️ 23:11 • 2h ago
+👁️ 1K • 👍 94 • 💬 6 • ⏱️ 23:11 • 3h ago
 
 ---
 
@@ -254,7 +252,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 1K • 👍 200 • 💬 9 • ⏱️ 16:22 • 6h ago
+👁️ 1K • 👍 200 • 💬 9 • ⏱️ 16:22 • 8h ago
 
 ---
 
@@ -264,7 +262,7 @@ BloFin - No KYC/No VPN needed [Trade ETH Coin Futures!] https://marzell.org/Blof
 
 📺 Marzell Crypto
 
-👁️ 323 • 👍 20 • 💬 2 • ⏱️ 5:45 • 7h ago
+👁️ 323 • 👍 20 • 💬 2 • ⏱️ 5:45 • 9h ago
 
 ---
 
@@ -274,7 +272,7 @@ BITCOIN WARNING SIGNAL REPEATING (This is Next)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 4K • 👍 252 • 💬 55 • ⏱️ 21:48 • 7h ago
+👁️ 4K • 👍 252 • 💬 55 • ⏱️ 21:48 • 8h ago
 
 ---
 
@@ -294,7 +292,7 @@ See exactly what top investors are trading in real time: try Milk Road Pro for j
 
 📺 Milk Road
 
-👁️ 7K • 👍 225 • 💬 57 • ⏱️ 36:12 • 1d ago
+👁️ 7K • 👍 225 • 💬 57 • ⏱️ 36:12 • 2d ago
 
 ---
 
