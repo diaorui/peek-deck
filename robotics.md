@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-23T20:06:33.358646+00:00'
+updated: '2026-04-23T21:13:32.946325+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 23, 2026 at 20:06 UTC  
+**Last Updated:** April 23, 2026 at 21:13 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,13 @@ Robotics research and industry news
 
 From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2047257759473946705
 
-9h ago
+10h ago
+
+---
+
+**[Spin-tracking robot takes on elite table-tennis players - SonyAI](https://www.reddit.com/r/robotics/comments/1stuamz/spintracking_robot_takes_on_elite_tabletennis/)**
+
+50m ago
 
 ---
 
@@ -44,25 +50,25 @@ From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2047257759473946705
 
 The problem If you've tried training a manipulation policy in Isaac Sim or MuJoCo on assets from Sketchfab, Objaverse, or your CAD library, you've probably hit at least one of these: gripper clips through the object, object has infinite mass, stacking collapses non-physically, contacts spike to NaN, or your policy hits 99% in sim and faceplants on real hardware. The fix is almost never the policy. Your 3D assets are visual assets, not simulation assets. They have geometry and textures. They don't have mass, inertia, friction, restitution, a collision mesh, or semantic labels. A SimReady asset carries all of that inside the USD file, using the UsdPhysics schemas. What "SimReady" means in OpenUSD A concrete set of API schemas applied to your prims (OpenUSD physics docs): Schema What it adds UsdPhysicsRigidBodyAPI Dynamic rigid body with linear/angular velocity. UsdPhysicsMassAPI Explicit mass or density (defaults to 1000 kg/m3 if you forget). UsdPhysicsCollisionAPI Turns geometry into a collider. UsdPhysicsMeshCollisionAPI Approximation mode (convex hull, convex decomp, SDF, bounding). UsdPhysicsMaterialAPI Static/dynamic friction, restitution. Bound via UsdShadeMaterialBindingAPI. Stage kilogramsPerUnit + metersPerUnit Your entire sim lies to you if these are wrong. The manual workflow (Blender + Python USD) 1. Stage setup with correct units from pxr import Usd, UsdGeom, UsdPhysics, UsdShade stage = Usd.Stage.CreateNew("mug.usda") UsdGeom.SetStageUpAxis(stage, UsdGeom.Tokens.z) # Isaac Sim convention UsdGeom.SetStageMetersPerUnit(stage, 1.0) UsdPhysics.SetStageKilogramsPerUnit(stage, 1.0) A mug modelled in centimeters with metersPerUnit=1.0 is a mug the size of a car. #1 silent killer. 2. Build a real collision mesh The visual mesh is for rendering, the collision mesh is for physics. Don't reuse the visual mesh — a mug's handle will fail with a single convex hull. Use convex decomposition (CoACD) with 8-32 hulls for anything the gripper touches: pip install coacd python -c "import coacd, trimesh; m = trimesh.load('mug.obj'); \\ coacd.run_coacd(coacd.Mesh(m.vertices, m.faces), threshold=0.05)" 3. Apply the physics APIs mesh_prim = stage.GetPrimAtPath("/World/Mug") # Rigid body UsdPhysics.RigidBodyAPI.Apply(mesh_prim) # Mass - either explicit, or let it derive from volume * density mass_api = UsdPhysics.MassAPI.Apply(mesh_prim) mass_api.CreateMassAttr(0.35) # 350g ceramic mug # or: mass_api.CreateDensityAttr(2400) # ceramic kg/m^3 # Collision UsdPhysics.CollisionAPI.Apply(mesh_prim) mesh_coll = UsdPhysics.MeshCollisionAPI.Apply(mesh_prim) mesh_coll.CreateApproximationAttr("convexDecomposition") # Material (friction/restitution) mat_path = "/World/PhysicsMaterials/Ceramic" mat_prim = UsdShade.Material.Define(stage, mat_path) phys_mat = UsdPhysics.MaterialAPI.Apply(mat_prim.GetPrim()) phys_mat.CreateStaticFrictionAttr(0.7) phys_mat.CreateDynamicFrictionAttr(0.6) phys_mat.CreateRestitutionAttr(0.05) UsdShade.MaterialBindingAPI(mesh_prim).Bind( mat_prim, materialPurpose=UsdShade.Tokens.physics ) 4. Validate Drop it into Isaac Sim, press C for collision preview, and check: does it rest on a plane, does a Franka gripper lift it, do mass and inertia look sane? The gotchas nobody writes down Convex hull on concave objects is why your bowl can't hold anything. Always convex-decompose concave geometry. Center of mass defaults to the AABB center, not the true COM. For a hammer, catastrophic. Override physics:centerOfMass explicitly. Friction combine modes differ per engine. PhysX averages, MuJoCo multiplies, Bullet takes minimum. The same staticFriction=0.5 behaves differently. Test in your deployment engine. xformOp:scale on the prim but collision baked at original scale. Apply scale to geometry before export, or set physics:approximation to rebuild. The automation option Doing this by hand for 40 objects is fine. For 4,000 it is not. This is the problem we've been building Rigyd around: upload a .glb, 2D image, or describe what you need. AI estimates mass, friction, materials, collision meshes, you get back validated OpenUSD with the full UsdPhysics schema stack applied. It supports MJDP file format for MuJoCo as well. You will get free credits on sign up to try without contacting sales. Happy to answer UsdPhysics / Isaac Sim / sim-to-real questions in the comments, or to look at any asset someone's having trouble with. https://preview.redd.it/wcwce1xgsywg1.png?width=1818&format=png&auto=webp&s=18c9810cfd1ff8f542c0db71384665fcea36e03b Disclosure: I'm a co-founder at Rigyd. I reference our tool once at the end as the automation path. The workflow above works by hand in Blender + Isaac Sim with no other tool needed. Mods, happy to edit if anything crosses a line.
 
-3h ago
+5h ago
 
 ---
 
 **[Mon Bittle robot dog](https://www.reddit.com/r/robotics/comments/1stsvgn/mon_bittle_robot_dog/)**
 
-35m ago
+1h ago
 
 ---
 
 **[Robot accompagné](https://www.reddit.com/r/robotics/comments/1sttpic/robot_accompagné/)**
 
-4m ago
+1h ago
 
 ---
 
 **[Robot eDog teste servo](https://www.reddit.com/r/robotics/comments/1stt4io/robot_edog_teste_servo/)**
 
-26m ago
+1h ago
 
 ---
 
@@ -72,33 +78,25 @@ The problem If you've tried training a manipulation policy in Isaac Sim or MuJoC
 
 ---
 
+**[16-axis sync and space constraints: What's the go to for tight machine builds?](https://www.reddit.com/r/robotics/comments/1sto3gw/16axis_sync_and_space_constraints_whats_the_go_to/)**
+
+I’m working on a multi-axis project where the mechanical envelope is incredibly tight. Every millimeter counts, and I’m hitting a wall with standard drive sizes. I need something that packs high power density into a tiny footprint but can still handle high-axis EtherCAT synchronization without jitter. For those in robotics or medical: what hardware are you actually using when failure isn't an option? I've heard Elmo mentioned for these space constraints, but does the reliability actually hold up in the field?
+
+4h ago
+
+---
+
 **[How Humanoid Robots Must Evolve to Depart the Walled Garden](https://www.reddit.com/r/robotics/comments/1stsp1f/how_humanoid_robots_must_evolve_to_depart_the/)**
 
 Humanoid robots are being developed for industrial use, but most current deployments are limited to controlled environments where humans and robots do not operate at the same time. A key limitation is safety. Traditional industrial robots rely on predictable behavior and established safety methods such as physical barriers or defined operating zones. These approaches do not directly apply to humanoid robots. Humanoids are dynamically stable systems, meaning they require continuous control to remain upright. If power is removed, they can fall, which introduces a different type of risk compared to conventional robots that simply stop.
 
-🔗 [Automate](https://www.automate.org/robotics/blogs/safety-by-design-how-humanoid-robots-must-evolve-to-depart-the-walled-garden) • 42m ago
+🔗 [Automate](https://www.automate.org/robotics/blogs/safety-by-design-how-humanoid-robots-must-evolve-to-depart-the-walled-garden) • 1h ago
 
 ---
 
 **[MyActuator RMD-X10s sounding real bad, but appear to be moving just fine. Not much experience with these… Any ideas?](https://www.reddit.com/r/robotics/comments/1st82mb/myactuator_rmdx10s_sounding_real_bad_but_appear/)**
 
-15h ago
-
----
-
-**[Help Name the ROS 2 "M" Release](https://www.reddit.com/r/robotics/comments/1stqh7u/help_name_the_ros_2_m_release/)**
-
-Submit your name suggestions on Open Robotics Discourse.
-
-2h ago
-
----
-
-**[16-axis sync and space constraints: What's the go to for tight machine builds?](https://www.reddit.com/r/robotics/comments/1sto3gw/16axis_sync_and_space_constraints_whats_the_go_to/)**
-
-I’m working on a multi-axis project where the mechanical envelope is incredibly tight. Every millimeter counts, and I’m hitting a wall with standard drive sizes. I need something that packs high power density into a tiny footprint but can still handle high-axis EtherCAT synchronization without jitter. For those in robotics or medical: what hardware are you actually using when failure isn't an option? I've heard Elmo mentioned for these space constraints, but does the reliability actually hold up in the field?
-
-3h ago
+17h ago
 
 ---
 
@@ -122,27 +120,31 @@ CNBC • 2d ago
 
 ---
 
-**[US ramps up humanoid robotics as China threat grows in AI race](https://www.foxbusiness.com/video/6393711598112)**
+**[Eric Trump-backed robot startup lands $24M Pentagon deal to compete with China](https://www.foxbusiness.com/media/eric-trump-backed-robot-startup-lands-24m-pentagon-deal-compete-china)**
 
-Foundation Future Industries founder and CEO Sankaet Pathak and Trump Organization Executive Vice President Eric Trump discuss battlefield robotics, national security risks, and China competition on ‘Mornings with Maria.
+The Pentagon awarded a $24 million contract to test heavy-duty humanoid robots designed to breach enemy sites and strengthen U.S. military readiness.
 
-Fox Business • 7h ago
-
----
-
-**[Opinion | What the Chinese robot that ran a half-marathon says about America](https://www.washingtonpost.com/opinions/2026/04/21/china-leads-robotics-race/)**
-
-The robots are coming. Will they be built in America?
-
-The Washington Post • 2d ago
+Fox Business • 3h ago
 
 ---
 
-**[Pudu Robotics raises nearly $150M as it targets industrial applications](https://www.therobotreport.com/pudu-robotics-raises-nearly-150m-targets-industrial-applications/)**
+**[US ramps up humanoid robotics as China threat grows in AI race](https://www.yahoo.com/news/videos/us-ramps-humanoid-robotics-china-151731813.html)**
 
-Pudu plans to use the funding to develop its embodied AI, grow its product portfolio, and expand in global markets beyond service robots.
+Foundation Future Industries founder and CEO Sankaet Pathak and Trump Organization Executive Vice President Eric Trump discuss battlefield robotics, national security risks, and China competition on ‘...
 
-The Robot Report • 43m ago
+Yahoo • 5h ago
+
+---
+
+**[$150m for Chinese robotics, Salmon catches $60m and TruBridge inks sale](https://www.axios.com/pro/all-deals/2026/04/23/pro-rata-premium-first-look-pudu-salmon-trubridge)**
+
+Axios • 26m ago
+
+---
+
+**[Tuning up the robotics supply chain](https://www.politico.com/newsletters/digital-future-daily/2026/04/23/tuning-up-the-robotics-supply-chain-00889228)**
+
+Politico • 24m ago
 
 ---
 
@@ -150,15 +152,15 @@ The Robot Report • 43m ago
 
 In feat hailed as milestone in robotics, Sony AI’s Ace wins three out of five matches played under official rules
 
-The Guardian • 18h ago
+The Guardian • 19h ago
 
 ---
 
-**[Robot vs. human. Watch robot beat elite players in ping pong](https://www.usatoday.com/story/tech/2026/04/23/robot-beats-table-tennis-players-ping-pong/89750478007/)**
+**[Advanced AI-powered table-tennis-playing robot can match up to the professionals — watch it in action](https://www.livescience.com/technology/robotics/watch-an-ai-based-table-tennis-robot-beat-elite-players)**
 
-Sony’s AI robot Ace defeated top table tennis players in a milestone that could reshape the future of robotics and sports tech.
+Using high-precision cameras and an AI system, Sony AI's Ace is revealing the advancements robotics.
 
-USA Today • 4h ago
+Live Science • 1d ago
 
 ---
 
@@ -174,15 +176,7 @@ Financial Times • 1d ago
 
 Spark Capital VC Nabeel Hyatt explains why AI needs human data and shares how robotics could reshape jobs and the future of gig work
 
-Business Insider • 11h ago
-
----
-
-**[Inside Ukraine’s robot war revolution](https://www.politico.eu/article/inside-ukraine-robot-war-revolution/)**
-
-A Ukrainian commander tells POLITICO how robotic systems are transforming the battlefield, in a development with the potential to reshape how wars are fought.
-
-politico.eu • 1d ago
+Business Insider • 12h ago
 
 ---
 
@@ -190,13 +184,33 @@ politico.eu • 1d ago
 
 ## YouTube Videos: "robotics"
 
+**[MIT just created muscles that move like humans #robotics #innovation #softrobotics](https://www.youtube.com/watch?v=0euDge_Iog8)**
+
+A new class of synthetic muscles from MIT is straight out of Westworld. The so-called electrofluidic fiber muscles are basically tiny ...
+
+📺 Kalil 4.0
+
+👁️ 270 • 👍 9 • 💬 1 • ⏱️ 0:40 • 26m ago
+
+---
+
 **[New AI Robot From China Breaks Human Limits](https://www.youtube.com/watch?v=EJbJMg2RNgw)**
 
 AGIBOT just rolled out a full new wave of humanoid robots and AI models built for real deployment, while researchers in South ...
 
 📺 AI Revolution
 
-👁️ 32K • 👍 785 • 💬 51 • ⏱️ 16:29 • 2d ago
+👁️ 32K • 👍 790 • 💬 51 • ⏱️ 16:29 • 2d ago
+
+---
+
+**[UNEXPECTED LINK: Trump family TIED to humanoid robot CLASH with China](https://www.youtube.com/watch?v=SWoVms-enPU)**
+
+Foundation Future Industries founder and CEO Sankaet Pathak and Trump Organization Executive Vice President Eric Trump ...
+
+📺 Fox Business
+
+👁️ 42K • 👍 1K • 💬 290 • ⏱️ 10:17 • 8h ago
 
 ---
 
@@ -206,27 +220,7 @@ I thought this would be just another robot demo... I was wrong.At this launch ev
 
 📺 Barrett
 
-👁️ 935 • 👍 134 • 💬 6 • ⏱️ 5:43 • 7h ago
-
----
-
-**[$1000 Tesla Optimus Robot (Home Edition) Officially Available for Sale!](https://www.youtube.com/watch?v=lA357NZV21E)**
-
-Subscribe for more: https://www.youtube.com/@carrosshow9598 Other video's: Elon Musk's New Tesla Robot Has Shocked ...
-
-📺 Carros Show
-
-👁️ 2K • 👍 39 • 💬 9 • ⏱️ 8:25 • 20h ago
-
----
-
-**[Chinese humanoid robot beats world record for fastest human half-marathon | ABC NEWS](https://www.youtube.com/watch?v=tcfAm3hNQbk)**
-
-A humanoid robot has beaten the human record for the world's fastest half-marathon by finishing in just over 50 minutes. Dozens ...
-
-📺 ABC News (Australia)
-
-👁️ 95K • 👍 627 • ⏱️ 6:44 • 3d ago
+👁️ 1K • 👍 149 • 💬 6 • ⏱️ 5:43 • 8h ago
 
 ---
 
@@ -236,7 +230,17 @@ For the first time, an AI-powered machine has bested elite-level athletes at a p
 
 📺 nature video
 
-👁️ 44K • 👍 860 • 💬 120 • ⏱️ 13:38 • 1d ago
+👁️ 52K • 👍 994 • 💬 125 • ⏱️ 13:38 • 1d ago
+
+---
+
+**[$1000 Tesla Optimus Robot (Home Edition) Officially Available for Sale!](https://www.youtube.com/watch?v=lA357NZV21E)**
+
+Subscribe for more: https://www.youtube.com/@carrosshow9598 Other video's: Elon Musk's New Tesla Robot Has Shocked ...
+
+📺 Carros Show
+
+👁️ 2K • 👍 43 • 💬 15 • ⏱️ 8:25 • 22h ago
 
 ---
 
@@ -246,7 +250,7 @@ War Robots Gameplay: New WAYMAKER Titan - WR My War Robots Creator Link: https:/
 
 📺 Manni-Gaming
 
-👁️ 4K • 👍 284 • 💬 43 • ⏱️ 24:06 • 7h ago
+👁️ 5K • 👍 354 • 💬 53 • ⏱️ 24:06 • 8h ago
 
 ---
 
@@ -256,7 +260,7 @@ Robots have outpaced human runners at this year's Beijing half-marathon, finishi
 
 📺 New York Post
 
-👁️ 77K • 👍 710 • 💬 442 • ⏱️ 3:17 • 4d ago
+👁️ 78K • 👍 711 • 💬 442 • ⏱️ 3:17 • 4d ago
 
 ---
 
@@ -276,17 +280,7 @@ AI robots failing and glitching 2026 is becoming impossible to ignore. From huma
 
 📺 MindSeeded
 
-👁️ 288K • 👍 16K • 💬 3K • ⏱️ 14:10 • 5d ago
-
----
-
-**[Real dogs meet Elon Musk robot dog](https://www.youtube.com/watch?v=oNhJwi4b99Q)**
-
-An Elon Musk robotic dog was seen wandering around San Francisco, bumping into some furry friends. It's all to promote a new ...
-
-📺 CNN
-
-👁️ 159K • 👍 2K • 💬 393 • ⏱️ 0:42 • 4d ago
+👁️ 291K • 👍 16K • 💬 3K • ⏱️ 14:10 • 5d ago
 
 ---
 
