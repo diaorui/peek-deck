@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-23T15:54:35.817802+00:00'
+updated: '2026-04-23T17:22:12.720955+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 23, 2026 at 15:54 UTC  
+**Last Updated:** April 23, 2026 at 17:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,35 @@ Robotics research and industry news
 
 From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2047257759473946705
 
-5h ago
+6h ago
+
+---
+
+**[[Tutorial] Making 3D assets physics-accurate for manipulation training: UsdPhysics, collision meshes, mass, friction, restitution estimation](https://www.reddit.com/r/robotics/comments/1stn841/tutorial_making_3d_assets_physicsaccurate_for/)**
+
+The problem If you've tried training a manipulation policy in Isaac Sim or MuJoCo on assets from Sketchfab, Objaverse, or your CAD library, you've probably hit at least one of these: gripper clips through the object, object has infinite mass, stacking collapses non-physically, contacts spike to NaN, or your policy hits 99% in sim and faceplants on real hardware. The fix is almost never the policy. Your 3D assets are visual assets, not simulation assets. They have geometry and textures. They don't have mass, inertia, friction, restitution, a collision mesh, or semantic labels. A SimReady asset carries all of that inside the USD file, using the UsdPhysics schemas. What "SimReady" means in OpenUSD A concrete set of API schemas applied to your prims (OpenUSD physics docs): Schema What it adds UsdPhysicsRigidBodyAPI Dynamic rigid body with linear/angular velocity. UsdPhysicsMassAPI Explicit mass or density (defaults to 1000 kg/m3 if you forget). UsdPhysicsCollisionAPI Turns geometry into a collider. UsdPhysicsMeshCollisionAPI Approximation mode (convex hull, convex decomp, SDF, bounding). UsdPhysicsMaterialAPI Static/dynamic friction, restitution. Bound via UsdShadeMaterialBindingAPI. Stage kilogramsPerUnit + metersPerUnit Your entire sim lies to you if these are wrong. The manual workflow (Blender + Python USD) 1. Stage setup with correct units from pxr import Usd, UsdGeom, UsdPhysics, UsdShade stage = Usd.Stage.CreateNew("mug.usda") UsdGeom.SetStageUpAxis(stage, UsdGeom.Tokens.z) # Isaac Sim convention UsdGeom.SetStageMetersPerUnit(stage, 1.0) UsdPhysics.SetStageKilogramsPerUnit(stage, 1.0) A mug modelled in centimeters with metersPerUnit=1.0 is a mug the size of a car. #1 silent killer. 2. Build a real collision mesh The visual mesh is for rendering, the collision mesh is for physics. Don't reuse the visual mesh — a mug's handle will fail with a single convex hull. Use convex decomposition (CoACD) with 8-32 hulls for anything the gripper touches: pip install coacd python -c "import coacd, trimesh; m = trimesh.load('mug.obj'); \\ coacd.run_coacd(coacd.Mesh(m.vertices, m.faces), threshold=0.05)" 3. Apply the physics APIs mesh_prim = stage.GetPrimAtPath("/World/Mug") # Rigid body UsdPhysics.RigidBodyAPI.Apply(mesh_prim) # Mass - either explicit, or let it derive from volume * density mass_api = UsdPhysics.MassAPI.Apply(mesh_prim) mass_api.CreateMassAttr(0.35) # 350g ceramic mug # or: mass_api.CreateDensityAttr(2400) # ceramic kg/m^3 # Collision UsdPhysics.CollisionAPI.Apply(mesh_prim) mesh_coll = UsdPhysics.MeshCollisionAPI.Apply(mesh_prim) mesh_coll.CreateApproximationAttr("convexDecomposition") # Material (friction/restitution) mat_path = "/World/PhysicsMaterials/Ceramic" mat_prim = UsdShade.Material.Define(stage, mat_path) phys_mat = UsdPhysics.MaterialAPI.Apply(mat_prim.GetPrim()) phys_mat.CreateStaticFrictionAttr(0.7) phys_mat.CreateDynamicFrictionAttr(0.6) phys_mat.CreateRestitutionAttr(0.05) UsdShade.MaterialBindingAPI(mesh_prim).Bind( mat_prim, materialPurpose=UsdShade.Tokens.physics ) 4. Validate Drop it into Isaac Sim, press C for collision preview, and check: does it rest on a plane, does a Franka gripper lift it, do mass and inertia look sane? The gotchas nobody writes down Convex hull on concave objects is why your bowl can't hold anything. Always convex-decompose concave geometry. Center of mass defaults to the AABB center, not the true COM. For a hammer, catastrophic. Override physics:centerOfMass explicitly. Friction combine modes differ per engine. PhysX averages, MuJoCo multiplies, Bullet takes minimum. The same staticFriction=0.5 behaves differently. Test in your deployment engine. xformOp:scale on the prim but collision baked at original scale. Apply scale to geometry before export, or set physics:approximation to rebuild. The automation option Doing this by hand for 40 objects is fine. For 4,000 it is not. This is the problem we've been building Rigyd around: upload a .glb, 2D image, or describe what you need. AI estimates mass, friction, materials, collision meshes, you get back validated OpenUSD with the full UsdPhysics schema stack applied. It supports MJDP file format for MuJoCo as well. You will get free credits on sign up to try without contacting sales. Happy to answer UsdPhysics / Isaac Sim / sim-to-real questions in the comments, or to look at any asset someone's having trouble with. https://preview.redd.it/wcwce1xgsywg1.png?width=1818&format=png&auto=webp&s=18c9810cfd1ff8f542c0db71384665fcea36e03b Disclosure: I'm a co-founder at Rigyd. I reference our tool once at the end as the automation path. The workflow above works by hand in Blender + Isaac Sim with no other tool needed. Mods, happy to edit if anything crosses a line.
+
+1h ago
 
 ---
 
 **[Unitree robot just unlocked ballet mode](https://www.reddit.com/r/robotics/comments/1ssqud8/unitree_robot_just_unlocked_ballet_mode/)**
 
-23h ago
+1d ago
 
 ---
 
 **[MyActuator RMD-X10s sounding real bad, but appear to be moving just fine. Not much experience with these… Any ideas?](https://www.reddit.com/r/robotics/comments/1st82mb/myactuator_rmdx10s_sounding_real_bad_but_appear/)**
 
-11h ago
+13h ago
+
+---
+
+**[16-axis sync and space constraints: What's the go to for tight machine builds?](https://www.reddit.com/r/robotics/comments/1sto3gw/16axis_sync_and_space_constraints_whats_the_go_to/)**
+
+I’m working on a multi-axis project where the mechanical envelope is incredibly tight. Every millimeter counts, and I’m hitting a wall with standard drive sizes. I need something that packs high power density into a tiny footprint but can still handle high-axis EtherCAT synchronization without jitter. For those in robotics or medical: what hardware are you actually using when failure isn't an option? I've heard Elmo mentioned for these space constraints, but does the reliability actually hold up in the field?
+
+40m ago
 
 ---
 
@@ -68,6 +84,14 @@ I’ve finished assembling the abdomen, completing the upper body structure. Mor
 
 ---
 
+**[Real-Time Reactive Robotics on a Budget: 5Hz OpenVLA Control for $0.48/hr](https://www.reddit.com/r/robotics/comments/1ssy25b/realtime_reactive_robotics_on_a_budget_5hz/)**
+
+A major barrier for Embodied AI is the latency-precision trade-off. Running a 7B policy usually requires an A100 cluster to stay "reactive," or you end up with choppy 1Hz control that misses dynamic targets. I’ve released FastVLA, a library designed to bring high-parameter policies to closed-loop control on budget cloud hardware (NVIDIA L4). Key Performance Data: Control Frequency: 5.04 Hz (198ms latency) — a 7.16x speedup over the 1420ms baseline. Mechanical Precision: Reduced mean L2 action error from 28.5px to 12.4px by moving to continuous regression heads. Benchmark: Validated on the PushT benchmark, including a new Arabic-PushT variant to test linguistic robustness in action spaces. By optimizing the kernels and memory footprint (4.45GB Peak VRAM), we can now run reactive robots without the "Compute Tax." GitHub/Documentation: https://github.com/BouajilaHamza/fastvla
+
+20h ago
+
+---
+
 **[Robotic motion just made out of no-objective tinkering](https://www.reddit.com/r/robotics/comments/1ssfiau/robotic_motion_just_made_out_of_noobjective/)**
 
 Was working on my routine tinkering without a specific objective or idea. And this motion object came up. Does it resemble with anything? what would you call to such motion? where can it be helpful? Your inputs may help fine tune and turn it into something useful.
@@ -76,35 +100,11 @@ Was working on my routine tinkering without a specific objective or idea. And th
 
 ---
 
-**[Real-Time Reactive Robotics on a Budget: 5Hz OpenVLA Control for $0.48/hr](https://www.reddit.com/r/robotics/comments/1ssy25b/realtime_reactive_robotics_on_a_budget_5hz/)**
-
-A major barrier for Embodied AI is the latency-precision trade-off. Running a 7B policy usually requires an A100 cluster to stay "reactive," or you end up with choppy 1Hz control that misses dynamic targets. I’ve released FastVLA, a library designed to bring high-parameter policies to closed-loop control on budget cloud hardware (NVIDIA L4). Key Performance Data: Control Frequency: 5.04 Hz (198ms latency) — a 7.16x speedup over the 1420ms baseline. Mechanical Precision: Reduced mean L2 action error from 28.5px to 12.4px by moving to continuous regression heads. Benchmark: Validated on the PushT benchmark, including a new Arabic-PushT variant to test linguistic robustness in action spaces. By optimizing the kernels and memory footprint (4.45GB Peak VRAM), we can now run reactive robots without the "Compute Tax." GitHub/Documentation: https://github.com/BouajilaHamza/fastvla
-
-18h ago
-
----
-
 **[Robotics Startup CEO on the last 20 percent](https://www.reddit.com/r/robotics/comments/1sssm01/robotics_startup_ceo_on_the_last_20_percent/)**
 
 Bren Pierce, CEO of Kinisi Robotics, described a common pattern in robotics: most systems can reach about 80% of the way to working reliably, but the remaining 20% is still unresolved and not clearly understood. That final stretch is where systems have to deal with variability, edge cases, and real-world conditions that are difficult to predict or model. It is also where there is still no clear agreement on how to move forward. He talks about being at the Conference on Robot Learning (CoRL), and how researchers working across robotics and AI could not align on a single approach. Reinforcement learning, imitation learning, and the possibility of entirely new architectures are all still being debated, with no consensus on what will ultimately solve the problem.
 
-22h ago
-
----
-
-**[The Guardian: AI-powered robot beats elite table tennis players](https://www.reddit.com/r/robotics/comments/1ssyhq3/the_guardian_aipowered_robot_beats_elite_table/)**
-
-The feat has been hailed as a milestone for robotics, a field that has long seen table tennis – and the lightning-fast reactions, perception and skill it demands – as one of the toughest tests of how far the technology has advanced. In the matches, played under official competition rules, Ace displayed a mastery of spin, handled difficult shots, such as balls catching on the net, and pulled off one rapid backspin shot that a professional had thought impossible. A research paper on the robot was published in Nature on Wednesday, but scientists working on the project said Ace had improved since the report was submitted. “We played stronger and stronger players and we beat stronger and stronger players,” said Peter Dürr, the director of Sony AI in Zurich and project lead for Ace. AI researchers use games from chess and go, to poker and Breakout to teach programs on how to make decisions in complex situations. Building an intelligent robot takes the challenge to the next level by requiring the machine to enact decisions effectively. Ace sidesteps some tricky aspects of table tennis by having an eight-jointed arm on a movable base that does not have to stand on two legs. And instead of seeing the ball with two eyes, it draws on images from multiple cameras that view the entire court from different angles and track the position and spin of the ball. By zooming in on the ball’s logo, the camera system can estimate the ball’s spin and axis of rotation in the milliseconds it takes to reach Ace’s end of the table. How to deal with spin, and which shots to play, were honed during 3,000 hours of games played in a computer simulation. Other skills, such as serves, were drawn from those used by expert players.
-
-🔗 [the Guardian](https://www.theguardian.com/science/2026/apr/22/ai-powered-robot-beats-elite-table-tennis-players-milestone-robotics) • 18h ago
-
----
-
-**[HM-D20 vs. UM960 Quadrifilar Helix Module RTK Drone Test](https://www.reddit.com/r/robotics/comments/1ssof99/hmd20_vs_um960_quadrifilar_helix_module_rtk_drone/)**
-
-I buy both the HM-D20 and UM960 quadrifilar helix modules for testing, aiming to determine which one could help my drone achieve precise positioning. After testing, I found that both modules deliver comparable performance. Has anyone conducted more extensive tests? I'd appreciate it if you could share your findings with me.
-
-1d ago
+23h ago
 
 ---
 
@@ -120,11 +120,11 @@ IEEE Spectrum • 2d ago
 
 ---
 
-**[Accenture, Vodafone Procure & Connect and SAP Pilot Humanoid Robotics in Warehouse Operations](https://newsroom.accenture.com/news/2026/accenture-vodafone-procure-connect-and-sap-pilot-humanoid-robotics-in-warehouse-operations)**
+**[CNBC's The China Connection newsletter: China ships more humanoid robots than the U.S. as investors diverge on AI bets](https://www.cnbc.com/2026/04/21/china-humanoid-robots-us-investors.html)**
 
-Accenture (NYSE: ACN), together with Vodafone Procure & Connect and SAP, is piloting the use of humanoid robotics in warehouse environments, demonstrating how physical AI can enhance operational efficiency, improve safety, and enable new approaches to workforce and business model design.
+Chinese startups are churning out more humanoid robots than their U.S. rivals, despite far lower valuations.
 
-Accenture • 1d ago
+CNBC • 2d ago
 
 ---
 
@@ -132,15 +132,23 @@ Accenture • 1d ago
 
 Brothers Zuo Yuyu and Zuo Jing amassed a hard-earned fortune from making an early bet on robot components and building their Shanghai-listed Leaderdrive into China’s largest maker of robotic joints.
 
-Forbes • 40m ago
+Forbes • 2h ago
 
 ---
 
-**[Reliable Robotics raises funding for fully automated aircraft](https://www.therobotreport.com/reliable-robotics-raises-funding-fully-automated-aircraft/)**
+**[Opinion | What the Chinese robot that ran a half-marathon says about America](https://www.washingtonpost.com/opinions/2026/04/21/china-leads-robotics-race/)**
 
-Reliable Robotics has raised $160 million as it continues to develop and work toward FAA certification for its Reliable Autonomy System for civilian and military aircraft.
+The robots are coming. Will they be built in America?
 
-The Robot Report • 2h ago
+The Washington Post • 2d ago
+
+---
+
+**[Tesla Beats First-Quarter Expectations Amid Pivot To Robotics, AI](https://www.forbes.com/sites/aliciapark/2026/04/22/tesla-beats-first-quarter-expectations-amid-business-pivot-to-robotics-ai/)**
+
+The automaker said demand for its vehicles has rebounded from recent declines .
+
+Forbes • 20h ago
 
 ---
 
@@ -148,7 +156,7 @@ The Robot Report • 2h ago
 
 Tesla (TSLA) reported first quarter results on Wednesday after the closing bell. Adjusted earnings per share (EPS) came in at $0.41 (compared to analyst estimates of $0.34), and revenue came in at $22.39 billion (compared to analyst estimates of $22.19 billion). Yahoo Finance Senior Autos Reporter Pras Subramanian and Barron's associate editor Al Root discuss what investors need from Tesla on robotaxi and robots.
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -156,13 +164,7 @@ Yahoo Finance • 18h ago
 
 Tesla Inc. anticipates billions of dollars in additional spending this year to support Elon Musk’s ambitions to transform the electric vehicle pioneer into an artificial intelligence and robotics company.
 
-Los Angeles Times • 1h ago
-
----
-
-**[Tesla lifts 2026 spending plans by a quarter as Musk funds AI and robotic dreams](https://www.reuters.com/business/autos-transportation/tesla-revenue-misses-estimates-demand-weakens-2026-04-22/)**
-
-Reuters • 19h ago
+Los Angeles Times • 2h ago
 
 ---
 
@@ -170,15 +172,7 @@ Reuters • 19h ago
 
 In feat hailed as milestone in robotics, Sony AI’s Ace wins three out of five matches played under official rules
 
-The Guardian • 14h ago
-
----
-
-**[Inside Ukraine’s robot war revolution](https://www.politico.eu/article/inside-ukraine-robot-war-revolution/)**
-
-A Ukrainian commander tells POLITICO how robotic systems are transforming the battlefield, in a development with the potential to reshape how wars are fought.
-
-politico.eu • 1d ago
+The Guardian • 15h ago
 
 ---
 
@@ -186,7 +180,15 @@ politico.eu • 1d ago
 
 Sony’s AI robot Ace defeated top table tennis players in a milestone that could reshape the future of robotics and sports tech.
 
-USA Today • 5m ago
+USA Today • 1h ago
+
+---
+
+**[AI robot outplays humans in table tennis milestone](https://www.ft.com/content/9860f042-3332-4534-9b1a-fa9f57b8347e)**
+
+Sony’s ‘Ace’ defeats elite players, highlighting how AI is improving machines’ abilities to interact with people
+
+Financial Times • 1d ago
 
 ---
 
@@ -240,7 +242,7 @@ I thought this would be just another robot demo... I was wrong.At this launch ev
 
 📺 Barrett
 
-👁️ 516 • 👍 103 • 💬 5 • ⏱️ 5:43 • 3h ago
+👁️ 516 • 👍 103 • 💬 5 • ⏱️ 5:43 • 5h ago
 
 ---
 
@@ -250,7 +252,7 @@ Subscribe for more: https://www.youtube.com/@carrosshow9598 Other video's: Elon 
 
 📺 Carros Show
 
-👁️ 1K • 👍 38 • 💬 8 • ⏱️ 8:25 • 16h ago
+👁️ 1K • 👍 38 • 💬 8 • ⏱️ 8:25 • 18h ago
 
 ---
 

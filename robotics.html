@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-04-23T15:54:35.397398+00:00"
+          "dateModified": "2026-04-23T17:22:12.309610+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -649,6 +649,41 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1stn841/tutorial_making_3d_assets_physicsaccurate_for/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://preview.redd.it/wcwce1xgsywg1.png?width=140&height=85&auto=webp&s=37fd058c8ec3cde5296e3cbc789a387f983111e6" alt="[Tutorial] Making 3D assets physics-accurate for manipulation training: UsdPhysics, collision meshes, mass, friction, restitution estimation" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1stn841/tutorial_making_3d_assets_physicsaccurate_for/" target="_blank" onclick="event.stopPropagation();">[Tutorial] Making 3D assets physics-accurate for manipulation training: UsdPhysics, collision meshes, mass, friction, restitution estimation</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            The problem If you've tried training a manipulation policy in Isaac Sim or MuJoCo on assets from Sketchfab, Objaverse, or your CAD library, you've probably hit at least one of these: gripper clips through the object, object has infinite mass, stacking collapses non-physically, contacts spike to NaN, or your policy hits 99% in sim and faceplants on real hardware. The fix is almost never the policy. Your 3D assets are visual assets, not simulation assets. They have geometry and textures. They don't have mass, inertia, friction, restitution, a collision mesh, or semantic labels. A SimReady asset carries all of that inside the USD file, using the UsdPhysics schemas. What "SimReady" means in OpenUSD A concrete set of API schemas applied to your prims (OpenUSD physics docs): Schema What it adds UsdPhysicsRigidBodyAPI Dynamic rigid body with linear/angular velocity. UsdPhysicsMassAPI Explicit mass or density (defaults to 1000 kg/m3 if you forget). UsdPhysicsCollisionAPI Turns geometry into a collider. UsdPhysicsMeshCollisionAPI Approximation mode (convex hull, convex decomp, SDF, bounding). UsdPhysicsMaterialAPI Static/dynamic friction, restitution. Bound via UsdShadeMaterialBindingAPI. Stage kilogramsPerUnit + metersPerUnit Your entire sim lies to you if these are wrong. The manual workflow (Blender + Python USD) 1. Stage setup with correct units from pxr import Usd, UsdGeom, UsdPhysics, UsdShade stage = Usd.Stage.CreateNew("mug.usda") UsdGeom.SetStageUpAxis(stage, UsdGeom.Tokens.z) # Isaac Sim convention UsdGeom.SetStageMetersPerUnit(stage, 1.0) UsdPhysics.SetStageKilogramsPerUnit(stage, 1.0) A mug modelled in centimeters with metersPerUnit=1.0 is a mug the size of a car. #1 silent killer. 2. Build a real collision mesh The visual mesh is for rendering, the collision mesh is for physics. Don't reuse the visual mesh — a mug's handle will fail with a single convex hull. Use convex decomposition (CoACD) with 8-32 hulls for anything the gripper touches: pip install coacd python -c "import coacd, trimesh; m = trimesh.load('mug.obj'); \\ coacd.run_coacd(coacd.Mesh(m.vertices, m.faces), threshold=0.05)" 3. Apply the physics APIs mesh_prim = stage.GetPrimAtPath("/World/Mug") # Rigid body UsdPhysics.RigidBodyAPI.Apply(mesh_prim) # Mass - either explicit, or let it derive from volume * density mass_api = UsdPhysics.MassAPI.Apply(mesh_prim) mass_api.CreateMassAttr(0.35) # 350g ceramic mug # or: mass_api.CreateDensityAttr(2400) # ceramic kg/m^3 # Collision UsdPhysics.CollisionAPI.Apply(mesh_prim) mesh_coll = UsdPhysics.MeshCollisionAPI.Apply(mesh_prim) mesh_coll.CreateApproximationAttr("convexDecomposition") # Material (friction/restitution) mat_path = "/World/PhysicsMaterials/Ceramic" mat_prim = UsdShade.Material.Define(stage, mat_path) phys_mat = UsdPhysics.MaterialAPI.Apply(mat_prim.GetPrim()) phys_mat.CreateStaticFrictionAttr(0.7) phys_mat.CreateDynamicFrictionAttr(0.6) phys_mat.CreateRestitutionAttr(0.05) UsdShade.MaterialBindingAPI(mesh_prim).Bind( mat_prim, materialPurpose=UsdShade.Tokens.physics ) 4. Validate Drop it into Isaac Sim, press C for collision preview, and check: does it rest on a plane, does a Franka gripper lift it, do mass and inertia look sane? The gotchas nobody writes down Convex hull on concave objects is why your bowl can't hold anything. Always convex-decompose concave geometry. Center of mass defaults to the AABB center, not the true COM. For a hammer, catastrophic. Override physics:centerOfMass explicitly. Friction combine modes differ per engine. PhysX averages, MuJoCo multiplies, Bullet takes minimum. The same staticFriction=0.5 behaves differently. Test in your deployment engine. xformOp:scale on the prim but collision baked at original scale. Apply scale to geometry before export, or set physics:approximation to rebuild. The automation option Doing this by hand for 40 objects is fine. For 4,000 it is not. This is the problem we've been building Rigyd around: upload a .glb, 2D image, or describe what you need. AI estimates mass, friction, materials, collision meshes, you get back validated OpenUSD with the full UsdPhysics schema stack applied. It supports MJDP file format for MuJoCo as well. You will get free credits on sign up to try without contacting sales. Happy to answer UsdPhysics / Isaac Sim / sim-to-real questions in the comments, or to look at any asset someone's having trouble with. https://preview.redd.it/wcwce1xgsywg1.png?width=1818&format=png&auto=webp&s=18c9810cfd1ff8f542c0db71384665fcea36e03b Disclosure: I'm a co-founder at Rigyd. I reference our tool once at the end as the automation path. The workflow above works by hand in Blender + Isaac Sim with no other tool needed. Mods, happy to edit if anything crosses a line.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1776960627.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1ssqud8/unitree_robot_just_unlocked_ballet_mode/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -702,6 +737,39 @@
                                 
                                 <div class="post-meta-item">
                                     <span data-timestamp="1776917297.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1sto3gw/16axis_sync_and_space_constraints_whats_the_go_to/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1sto3gw/16axis_sync_and_space_constraints_whats_the_go_to/" target="_blank" onclick="event.stopPropagation();">16-axis sync and space constraints: What's the go to for tight machine builds?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            I’m working on a multi-axis project where the mechanical envelope is incredibly tight. Every millimeter counts, and I’m hitting a wall with standard drive sizes. I need something that packs high power density into a tiny footprint but can still handle high-axis EtherCAT synchronization without jitter. For those in robotics or medical: what hardware are you actually using when failure isn't an option? I've heard Elmo mentioned for these space constraints, but does the reliability actually hold up in the field?
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1776962521.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -781,41 +849,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1ssfiau/robotic_motion_just_made_out_of_noobjective/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/cWp2ODlkYW5jcHdnMXVJEOlsbo9FwVJ0VJHIdk7GkkQEZacPR2Q0Z4nW1TVY.png?width=640&crop=smart&auto=webp&s=289dddb89d5424a55925f73db073b17826833454" alt="Robotic motion just made out of no-objective tinkering" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1ssfiau/robotic_motion_just_made_out_of_noobjective/" target="_blank" onclick="event.stopPropagation();">Robotic motion just made out of no-objective tinkering</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Was working on my routine tinkering without a specific objective or idea. And this motion object came up. Does it resemble with anything? what would you call to such motion? where can it be helpful? Your inputs may help fine tune and turn it into something useful.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1776846837.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1ssy25b/realtime_reactive_robotics_on_a_budget_5hz/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -842,6 +875,41 @@
                                 
                                 <div class="post-meta-item">
                                     <span data-timestamp="1776891469.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1ssfiau/robotic_motion_just_made_out_of_noobjective/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/cWp2ODlkYW5jcHdnMXVJEOlsbo9FwVJ0VJHIdk7GkkQEZacPR2Q0Z4nW1TVY.png?width=640&crop=smart&auto=webp&s=289dddb89d5424a55925f73db073b17826833454" alt="Robotic motion just made out of no-objective tinkering" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1ssfiau/robotic_motion_just_made_out_of_noobjective/" target="_blank" onclick="event.stopPropagation();">Robotic motion just made out of no-objective tinkering</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Was working on my routine tinkering without a specific objective or idea. And this motion object came up. Does it resemble with anything? what would you call to such motion? where can it be helpful? Your inputs may help fine tune and turn it into something useful.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1776846837.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -886,91 +954,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1ssyhq3/the_guardian_aipowered_robot_beats_elite_table/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/nfsq8w_jClQkOSWOptBPikDHfcKC1bB6ZAT4NU9TCiU.jpeg?width=640&crop=smart&auto=webp&s=f520611b05b46e6f48a873e44a9c46144ede59d0" alt="The Guardian: AI-powered robot beats elite table tennis players" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1ssyhq3/the_guardian_aipowered_robot_beats_elite_table/" target="_blank" onclick="event.stopPropagation();">The Guardian: AI-powered robot beats elite table tennis players</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            The feat has been hailed as a milestone for robotics, a field that has long seen table tennis – and the lightning-fast reactions, perception and skill it demands – as one of the toughest tests of how far the technology has advanced. In the matches, played under official competition rules, Ace displayed a mastery of spin, handled difficult shots, such as balls catching on the net, and pulled off one rapid backspin shot that a professional had thought impossible. A research paper on the robot was published in Nature on Wednesday, but scientists working on the project said Ace had improved since the report was submitted. “We played stronger and stronger players and we beat stronger and stronger players,” said Peter Dürr, the director of Sony AI in Zurich and project lead for Ace. AI researchers use games from chess and go, to poker and Breakout to teach programs on how to make decisions in complex situations. Building an intelligent robot takes the challenge to the next level by requiring the machine to enact decisions effectively. Ace sidesteps some tricky aspects of table tennis by having an eight-jointed arm on a movable base that does not have to stand on two legs. And instead of seeing the ball with two eyes, it draws on images from multiple cameras that view the entire court from different angles and track the position and spin of the ball. By zooming in on the ball’s logo, the camera system can estimate the ball’s spin and axis of rotation in the milliseconds it takes to reach Ace’s end of the table. How to deal with spin, and which shots to play, were honed during 3,000 hours of games played in a computer simulation. Other skills, such as serves, were drawn from those used by expert players.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1776892439.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://www.theguardian.com/science/2026/apr/22/ai-powered-robot-beats-elite-table-tennis-players-milestone-robotics" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://assets.guim.co.uk/static/frontend/icons/homescreen/apple-touch-icon.svg" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
-                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
-                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
-                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
-                                            </svg>
-                                            
-                                        
-                                        <span>the Guardian</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1ssof99/hmd20_vs_um960_quadrifilar_helix_module_rtk_drone/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/ZGF0dnZpbzlkcndnMU4SxianelpB6s5RnOwpR_pjLNUXVPazLUgTWntOBjIm.png?width=320&crop=smart&auto=webp&s=10e28b625984594bdb7a81c6124b5e5fecb01f66" alt="HM-D20 vs. UM960 Quadrifilar Helix Module RTK Drone Test" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1ssof99/hmd20_vs_um960_quadrifilar_helix_module_rtk_drone/" target="_blank" onclick="event.stopPropagation();">HM-D20 vs. UM960 Quadrifilar Helix Module RTK Drone Test</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            I buy both the HM-D20 and UM960 quadrifilar helix modules for testing, aiming to determine which one could help my drone achieve precise positioning. After testing, I found that both modules deliver comparable performance. Has anyone conducted more extensive tests? I'd appreciate it if you could share your findings with me.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1776870860.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -994,7 +977,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-04-23T15:54:14.482390+00:00">Updated 2026-04-23T15:54:14.482390+00:00</small>
+        <small data-timestamp="2026-04-23T17:21:47.221441+00:00">Updated 2026-04-23T17:21:47.221441+00:00</small>
     </div>
 </div>
 
@@ -1221,20 +1204,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://newsroom.accenture.com/news/2026/accenture-vodafone-procure-connect-and-sap-pilot-humanoid-robotics-in-warehouse-operations', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/04/21/china-humanoid-robots-us-investors.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://newsroom.accenture.com/news/2026/media_1eac90b09ae44f4af080d917c5b8aebdfdabfebb5.png?width=1200&format=pjpg&optimize=medium');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108292968-1776403495000-gettyimages-2271230175-vcg111634549753.jpeg?v=1776403547&w=1920&h=1080');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://newsroom.accenture.com/news/2026/accenture-vodafone-procure-connect-and-sap-pilot-humanoid-robotics-in-warehouse-operations" target="_blank" onclick="event.stopPropagation();">Accenture, Vodafone Procure & Connect and SAP Pilot Humanoid Robotics in Warehouse Operations</a>
+                            <a href="https://www.cnbc.com/2026/04/21/china-humanoid-robots-us-investors.html" target="_blank" onclick="event.stopPropagation();">CNBC's The China Connection newsletter: China ships more humanoid robots than the U.S. as investors diverge on AI bets</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Accenture (NYSE: ACN), together with Vodafone Procure & Connect and SAP, is piloting the use of humanoid robotics in warehouse environments, demonstrating how physical AI can enhance operational efficiency, improve safety, and enable new approaches to workforce and business model design.
+                            Chinese startups are churning out more humanoid robots than their U.S. rivals, despite far lower valuations.
                         </div>
                         
 
@@ -1244,9 +1227,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://newsroom.accenture.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Accenture" class="news-favicon">
-                                    <a href="https://newsroom.accenture.com" target="_blank" onclick="event.stopPropagation();">Accenture</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="CNBC" class="news-favicon">
+                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
                                     
                                 </div>
                                 
@@ -1254,7 +1237,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1776849288.0"></span>
+                                    <span data-timestamp="1776726073.0"></span>
                                 </div>
                                 
                             </div>
@@ -1303,20 +1286,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.therobotreport.com/reliable-robotics-raises-funding-fully-automated-aircraft/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.washingtonpost.com/opinions/2026/04/21/china-leads-robotics-race/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://www.therobotreport.com/wp-content/uploads/2026/04/Reliable_Robotics_funding.jpg');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/KMFMAW6YI57ZTQ2EQSKQEHGNYA.JPG&w=1440');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.therobotreport.com/reliable-robotics-raises-funding-fully-automated-aircraft/" target="_blank" onclick="event.stopPropagation();">Reliable Robotics raises funding for fully automated aircraft</a>
+                            <a href="https://www.washingtonpost.com/opinions/2026/04/21/china-leads-robotics-race/" target="_blank" onclick="event.stopPropagation();">Opinion | What the Chinese robot that ran a half-marathon says about America</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Reliable Robotics has raised $160 million as it continues to develop and work toward FAA certification for its Reliable Autonomy System for civilian and military aircraft.
+                            The robots are coming. Will they be built in America?
                         </div>
                         
 
@@ -1326,9 +1309,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.therobotreport.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Robot Report" class="news-favicon">
-                                    <a href="https://www.therobotreport.com" target="_blank" onclick="event.stopPropagation();">The Robot Report</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.washingtonpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Washington Post" class="news-favicon">
+                                    <a href="https://www.washingtonpost.com" target="_blank" onclick="event.stopPropagation();">The Washington Post</a>
                                     
                                 </div>
                                 
@@ -1336,7 +1319,48 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1776949665.0"></span>
+                                    <span data-timestamp="1776789900.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.forbes.com/sites/aliciapark/2026/04/22/tesla-beats-first-quarter-expectations-amid-business-pivot-to-robotics-ai/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://imageio.forbes.com/specials-images/imageserve/69e9304e0f662a047e3ff0f9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.forbes.com/sites/aliciapark/2026/04/22/tesla-beats-first-quarter-expectations-amid-business-pivot-to-robotics-ai/" target="_blank" onclick="event.stopPropagation();">Tesla Beats First-Quarter Expectations Amid Pivot To Robotics, AI</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            The automaker said demand for its vehicles has rebounded from recent declines .
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.forbes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Forbes" class="news-favicon">
+                                    <a href="https://www.forbes.com" target="_blank" onclick="event.stopPropagation();">Forbes</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1776890098.0"></span>
                                 </div>
                                 
                             </div>
@@ -1377,7 +1401,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1776894296.0"></span>
+                                    <span data-timestamp="1776951323.0"></span>
                                 </div>
                                 
                             </div>
@@ -1426,43 +1450,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reuters.com/business/autos-transportation/tesla-revenue-misses-estimates-demand-weakens-2026-04-22/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.reuters.com/business/autos-transportation/tesla-revenue-misses-estimates-demand-weakens-2026-04-22/" target="_blank" onclick="event.stopPropagation();">Tesla lifts 2026 spending plans by a quarter as Musk funds AI and robotic dreams</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Reuters" class="news-favicon">
-                                    <a href="https://www.reuters.com" target="_blank" onclick="event.stopPropagation();">Reuters</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1776888360.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.theguardian.com/science/2026/apr/22/ai-powered-robot-beats-elite-table-tennis-players-milestone-robotics', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://i.guim.co.uk/img/media/017923e7f1f6d987d9b787b0f3d69b7500bf82ed/353_0_3331_2666/master/3331.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c46b59495cd0a09310396616154d61f1');"></div>
@@ -1504,47 +1491,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.politico.eu/article/inside-ukraine-robot-war-revolution/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/04/22/robotukraine.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.politico.eu/article/inside-ukraine-robot-war-revolution/" target="_blank" onclick="event.stopPropagation();">Inside Ukraine’s robot war revolution</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            A Ukrainian commander tells POLITICO how robotic systems are transforming the battlefield, in a development with the potential to reshape how wars are fought.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.politico.eu&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="politico.eu" class="news-favicon">
-                                    <a href="https://www.politico.eu" target="_blank" onclick="event.stopPropagation();">politico.eu</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1776863040.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.usatoday.com/story/tech/2026/04/23/robot-beats-table-tennis-players-ping-pong/89750478007/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://www.usatoday.com/gcdn/authoring/authoring-images/2026/04/22/USAT/89741042007-trnd-ping-pong-robot-makes-history.jpg?crop=1306,735,x177,y175&width=1306&height=735&format=pjpg&auto=webp');"></div>
@@ -1578,7 +1524,48 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1776959340.0"></span>
+                                    <span data-timestamp="1776959460.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.ft.com/content/9860f042-3332-4534-9b1a-fa9f57b8347e', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F481ca89b-4f42-4fb4-bdf7-cf31a5a4176f.jpg?source=next-barrier-page');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.ft.com/content/9860f042-3332-4534-9b1a-fa9f57b8347e" target="_blank" onclick="event.stopPropagation();">AI robot outplays humans in table tennis milestone</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Sony’s ‘Ace’ defeats elite players, highlighting how AI is improving machines’ abilities to interact with people
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ft.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Financial Times" class="news-favicon">
+                                    <a href="https://www.ft.com" target="_blank" onclick="event.stopPropagation();">Financial Times</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1776870009.0"></span>
                                 </div>
                                 
                             </div>
@@ -1606,7 +1593,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-04-23T15:54:32.934377+00:00">Updated 2026-04-23T15:54:32.934377+00:00</small>
+        <small data-timestamp="2026-04-23T17:21:59.328814+00:00">Updated 2026-04-23T17:21:59.328814+00:00</small>
     </div>
 </div>
 

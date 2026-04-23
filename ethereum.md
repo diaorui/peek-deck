@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-23T15:54:35.814595+00:00'
+updated: '2026-04-23T17:22:12.717737+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - news
 - videos
-- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 23, 2026 at 15:54 UTC  
+**Last Updated:** April 23, 2026 at 17:22 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,320.00
+### $2,330.70
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.4%  
-**7d:** -3.7%  
-**30d:** +7.5%  
-**90d:** -21.1%  
-**1y:** +31.8%  
+**24h:** -3.8%  
+**7d:** -4.6%  
+**30d:** +6.4%  
+**90d:** -21.8%  
+**1y:** +30.6%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+12h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Your daily crypto news briefing. Bitcoin, Ethereum, Solana and the stories that move markets.
 
-🔗 [bigcoinreport.com](https://bigcoinreport.com/analysis/ai-agents-crypto-payments-how-it-works) • 13h ago
+🔗 [bigcoinreport.com](https://bigcoinreport.com/analysis/ai-agents-crypto-payments-how-it-works) • 15h ago
 
 ---
 
@@ -152,15 +152,15 @@ On April 18, a hacker minted 116,500 rsETH tokens out of nothing. Not stolen fro
 
 An unreleased AI model is sending crypto into a panic, but it's only half relevant to the real ongoing problems.
 
-The Motley Fool • 5h ago
+The Motley Fool • 7h ago
 
 ---
 
-**[Coinbase Flags Proof-of-Stake Chains Like Ethereum, Solana as Potential Quantum Risks](https://decrypt.co/365079/coinbase-proof-of-stake-blockchains-ethereum-solana-quantum-risk)**
+**[Is Owning Just Bitcoin and Ethereum Enough for a Crypto Portfolio?](https://www.fool.com/investing/2026/04/23/is-owning-just-bitcoin-and-ethereum-enough-for-a-c/)**
 
-Advisory council says validator signatures and wallet cryptography could be vulnerable if future quantum computers break current encryption.
+Simple portfolios can often outperform overly complicated ones.
 
-Decrypt • 1d ago
+The Motley Fool • 6h ago
 
 ---
 
@@ -168,15 +168,7 @@ Decrypt • 1d ago
 
 Tom Lee, the chairman of BitMine Immersion Technologies (NYSE: $BMNR) sees the price of Ethereum (CRYPTO: $ETH) eve...
 
-Yahoo Finance • 2h ago
-
----
-
-**[Current price of Ethereum for April 23, 2026](https://fortune.com/article/price-of-ethereum-04-23-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -194,31 +186,41 @@ The Block • 1d ago
 
 ---
 
+**[Current price of Ethereum for April 23, 2026](https://fortune.com/article/price-of-ethereum-04-23-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 4h ago
+
+---
+
 **[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-43417fbd-045836613d69)**
 
-MarketWatch • 1h ago
+MarketWatch • 3h ago
 
 ---
 
-**[Is Ethereum set for a breakout as Open Interest and bulls rise?](https://www.tradingview.com/news/invezz:514273167094b:0-is-ethereum-set-for-a-breakout-as-open-interest-and-bulls-rise/)**
+**[Coinbase Flags Proof-of-Stake Chains Like Ethereum, Solana as Potential Quantum Risks](https://decrypt.co/365079/coinbase-proof-of-stake-blockchains-ethereum-solana-quantum-risk)**
 
-Bitcoin and Ethereum recorded gains earlier this week following an indefinite extension of the US ceasefire with Iran.Ethereum hit the $2,400 level on Wednesday but has now slightly retraced and is currently trading at $2,350 per coin.The coin could rally higher in the near term amid a recovery of…
+Advisory council says validator signatures and wallet cryptography could be vulnerable if future quantum computers break current encryption.
 
-TradingView • 9h ago
-
----
-
-**[Ethereum $250,000 Prediction Smashes Bitcoin and Gold as ‘Dead Capital’](https://www.tipranks.com/news/ethereum-250000-prediction-smashes-bitcoin-and-gold-as-dead-capital)**
-
-TipRanks • 1d ago
+Decrypt • 1d ago
 
 ---
 
-**[Kevin O'Leary Says 'Just Own Bitcoin And Ethereum' As Altcoins 'Never Came Back'](https://www.benzinga.com/crypto/cryptocurrency/26/04/52001824/kevin-oleary-says-just-own-bitcoin-and-ethereum-as-altcoins-never-came-back)**
+**[Bitcoin And Ethereum Outlook - Cryptos Break Out Of Bear Trends, But Will It Continue](https://seekingalpha.com/article/4893189-bitcoin-ethereum-outlook-cryptos-break-out-of-bear-trends-will-it-continue)**
 
-Shark Tank star Kevin O&#8217;Leary said investors only need to own Bitcoin (CRYPTO: BTC) and Ethereum
+Bitcoin has reached $79,000 in daily trading. Ethereum broke through several major resistance levels, back to $2,400. So far cryptocurrencies have maintained a strong correlation with Nasdaq
 
-Benzinga • 1h ago
+Seeking Alpha • 11h ago
+
+---
+
+**[Varntix Raises $20M in Hours as Demand for Fixed Crypto Income Surges Amid Ethereum ETF Boom](https://markets.businessinsider.com/news/stocks/varntix-raises-20m-in-hours-as-demand-for-fixed-crypto-income-surges-amid-ethereum-etf-boom-1036054976)**
+
+ROAD TOWN, British Virgin Islands, April  23, 2026  (GLOBE NEWSWIRE) -- The announcement comes as demand for crypto passive income accelerates acr...
+
+markets.businessinsider.com • 1h ago
 
 ---
 
@@ -232,7 +234,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 17K • 👍 449 • 💬 65 • ⏱️ 18:59 • 23h ago
+👁️ 17K • 👍 449 • 💬 65 • ⏱️ 18:59 • 1d ago
 
 ---
 
@@ -242,7 +244,7 @@ BITCOIN WARNING SIGNAL REPEATING (This is Next)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 2K • 👍 202 • 💬 48 • ⏱️ 21:48 • 4h ago
+👁️ 2K • 👍 202 • 💬 48 • ⏱️ 21:48 • 5h ago
 
 ---
 
@@ -252,7 +254,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 928 • 👍 163 • 💬 7 • ⏱️ 16:22 • 3h ago
+👁️ 928 • 👍 163 • 💬 7 • ⏱️ 16:22 • 5h ago
 
 ---
 
@@ -272,7 +274,7 @@ TRADE IN CRYPTO AND GOLD SAFELY (CRYPTO/ Gold Token) :- https://india.delta.exch
 
 📺 Vibe With Sahil
 
-👁️ 3K • 👍 341 • 1h ago
+👁️ 3K • 👍 341 • 2h ago
 
 ---
 
@@ -292,7 +294,7 @@ INSTITUTIONS GO FULL BULL: $1.3M Bitcoin and $250K Ethereum IS THE NEW TARGET! I
 
 📺 CryptoWendyO
 
-👁️ 4K • 👍 290 • 💬 23 • ⏱️ 16:01 • 22h ago
+👁️ 4K • 👍 290 • 💬 23 • ⏱️ 16:01 • 23h ago
 
 ---
 
@@ -302,7 +304,7 @@ join my social platforms for updates and analysis ✓Instagram: ...
 
 📺 Aryan trader Live
 
-👁️ 3K • 1h ago
+👁️ 3K • 2h ago
 
 ---
 

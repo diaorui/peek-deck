@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-23T15:54:35.800367+00:00'
+updated: '2026-04-23T17:22:12.703139+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** April 23, 2026 at 15:54 UTC  
+**Last Updated:** April 23, 2026 at 17:22 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I had the pleasure of sitting down with Wendell Wallach recently. He’s been working in AI ethics since before ChatGPT, before the hype, before most people in tech were paying attention. He wrote Moral Machines, worked alongside Stuart Russell, Yann LeCun and Daniel Kahneman. He’s not a commentator, he’s someone who has sat with these questions for decades. What struck me most in our conversation was his argument about AGI. Not that it’s impossible or inevitable, but that it’s the wrong goal entirely. A system can be extraordinarily intelligent and have zero moral reasoning. We’re building toward capability without asking what it’s capable of deciding. The section on accountability genuinely unsettled me. When AI causes harm, who is actually responsible? He maps out why the answer is almost always nobody in a way that’s hard to argue with. Worth watching if you’re tired of the extremes. Full interview: https://youtu.be/-usWHtI-cms?si=NBkwN-AmIshOXJsX
 
-1h ago
+2h ago
 
 ---
 
@@ -49,7 +49,7 @@ I had the pleasure of sitting down with Wendell Wallach recently. He’s been wo
 
 In federal appeals court, Anthropic made a striking argument: once Claude is deployed on a customer's infrastructure (like the Pentagon's network), they cannot alter, update, or recall it. The Pentagon wants autonomous lethal action restrictions removed — and Anthropic says they have no mechanism to enforce those restrictions post-deployment. This is the first time a major AI lab has formally stated under oath that post-deployment control is effectively zero. The implications are bigger than most coverage suggests. The governance gap this reveals: Current AI governance assumes a control chain that doesn't actually exist: Model cards are pre-sale documents. They describe what the model was trained to do, not what it's capable of in the wild after fine-tuning, tool integration, and deployment context changes. Human-in-the-loop is a customer config, not a vendor guarantee. Anthropic can recommend oversight, but they just told a court they can't enforce it. Liability frameworks assume control that doesn't exist post-shipment. If you sell a car with a recall mechanism, you're liable for not using it. If you sell a model you can't recall, does that reduce your liability (you had no control) or increase your duty of disclosure before sale (you knew you'd have no control later)? The behavioral envelope question: If you can't recall the model, you need to disclose the maximum capability, not just the recommended use. Current model cards document aspirations. They don't document envelopes — what the model can actually produce under adversarial or edge conditions. This mirrors pharmaceutical regulation: if you can't pull a drug off shelves, the FDA requires much stronger pre-market evidence and broader contraindication labeling. The stricter the post-market control limitations, the higher the pre-market disclosure burden. Why this matters even if you don't care about military AI: The legal argument Anthropic is making applies everywhere. If "we can't control it after deployment" works for the Pentagon, it works for any enterprise customer. Every organization deploying Claude (or any model) is implicitly accepting residual risk that the vendor has explicitly said they cannot mitigate. The core question: if a vendor demonstrates in court that it truly cannot alter a deployed model, should that argument reduce its liability (it had no control) or increase its duty of disclosure before sale (it will have no control later)?
 
-3h ago
+4h ago
 
 ---
 
@@ -57,15 +57,15 @@ In federal appeals court, Anthropic made a striking argument: once Claude is dep
 
 A federal judge ruled that your AI conversations can be seized and used against you in court — and deleting them doesn't help. **The Heppner case (February 2026):** - Former CEO Bradley Heppner used Claude to prep his fraud defense - Judge Jed Rakoff ordered him to surrender 31 AI-generated documents - Ruling: no attorney-client privilege exists "or could exist" between a user and an AI platform **The Krafton case:** - A CEO used ChatGPT to plan how to avoid paying promised earnout payments - He deleted the conversations - The court recovered them anyway and reversed his decisions **The contradiction:** - Same day as Rakoff's ruling, a Michigan judge reached the opposite conclusion - Protected a woman's ChatGPT chats as personal "work product" - A Colorado court later sided with Michigan but added: you must disclose which AI tool you used **The fallout:** - 12+ major law firms have issued client AI warnings - Sher Tremonte added contract clauses that sharing privileged info with AI waives privilege - Both OpenAI and Anthropic privacy policies explicitly allow sharing user data with third parties - $145,000+ in sanctions against attorneys for AI citation errors in Q1 2026 alone **The bottom line:** - Your AI is not your lawyer and never was - Deleting chats doesn't delete the data from their servers - Consumer AI (ChatGPT, Claude, Gemini) should not be used for legal matters unless directed by counsel Full breakdown with source links → https://synvoya.com/blog/2026-04-23-ai-chats-court-evidence/ Have you ever typed something into ChatGPT that you wouldn't want a judge to read?
 
-14h ago
+15h ago
 
 ---
 
-**[What's the best AI girlfriend?](https://www.reddit.com/r/artificial/comments/1stk09o/whats_the_best_ai_girlfriend/)**
+**[AI might save my life and has let me do 8 things I would not have done otherwise](https://www.reddit.com/r/artificial/comments/1stny9s/ai_might_save_my_life_and_has_let_me_do_8_things/)**
 
-Don't jump all over me but I know a lot of people are getting into it lately. The issue seems to be there are tons of them. Paying a little bit for an AI girlfriend is going to be far cheaper than dating and I don't really care if what I'm seeing is AI generated or not. I just want something I can customize. It probably won't be a long term thing, I'd just like to experience it and see what it's like.
+Today I have done all these in about 5 hours 1) analysed my blood test results for the last 20 years 2) reviewed whole health action plan for review with doctor 3) produced charts from that data which clearly shows direction of travel and reveals information hidden in the data 4) wrote a mini screen saver thing which shows me the top AI art on Reddit 5) built an entire marketing program for a book I am launching 6) built a web page to support the program 7) built a press release for the book 8) got a list of all key contacts in local media and bookshops - with email addresses and frequently actual names. Now, I could have done all that myself, but it would have taken a week. Crucially I *would not have bothered * I would not have seen the results as worth the effort. So, (a) I have been more productive (b) I have done stuff I never would have done without AI
 
-1h ago
+45m ago
 
 ---
 
@@ -73,7 +73,31 @@ Don't jump all over me but I know a lot of people are getting into it lately. Th
 
 I have noticed that AI tools make it very easy to come up with a lot of ideas or ways to do things very quickly. For example, if you are working on a side project or even just a simple plan, you can now come up with a lot of different ideas in a matter of minutes instead of spending hours thinking about one. At first, it look like a clear way to get more done. But in reality, it often leads to a different kind of work, like looking over outputs, weighing options and deciding what is really worth doing. Sometimes, that decision layer feels like more work than the work itself. So instead of taking away work, it looks like AI is moving it from making things to choosing things. I am interested in how other people are dealing with this. Do you think AI is really saving time or is it just shifting the work?
 
-11h ago
+12h ago
+
+---
+
+**[Gemini vs Grok: Playing Towers of Annoy](https://www.reddit.com/r/artificial/comments/1stp093/gemini_vs_grok_playing_towers_of_annoy/)**
+
+LLMs were asked to write a Python 3.10 client that plays a two-player adversarial variant of the Towers of Hanoi. Rules: Hero moves a disk; Villain must immediately move that same disk to an adjacent tower (or pass if no legal move). Hero's budget is 2^m + 1 moves — barely more than the 2^m - 1 solo optimum, so almost any wasted move loses. Round-robin tournament with penalty-shootout matchups: up to 5 rounds (+ sudden death), 2 simultaneous games per round with hero/villain roles swapped. Round configs grow from 4 towers / 3 disks up to 12 towers / 7 disks.
+
+8m ago
+
+---
+
+**[Anthropic Mythos shaping up as nothingburger](https://www.reddit.com/r/artificial/comments/1stogic/anthropic_mythos_shaping_up_as_nothingburger/)**
+
+: Hackpocalypse deferred
+
+🔗 [theregister.com](https://www.theregister.com/2026/04/22/anthropic_mythos_hype_nothingburger/) • 27m ago
+
+---
+
+**[Cost Analysis of 22 AI Image Models (incl. GPT Image 2)](https://www.reddit.com/r/artificial/comments/1sth87q/cost_analysis_of_22_ai_image_models_incl_gpt/)**
+
+Just updated my cost analysis for cloud AI image generation. Added new cheap contenders from the FLUX 2 series and, of course, GPT Image 2. GPT Image 2 speed didn't improve much compared to the first version but the price is 7x cheaper! Check out my full report with all generated images, prices and speed.
+
+4h ago
 
 ---
 
@@ -81,7 +105,7 @@ I have noticed that AI tools make it very easy to come up with a lot of ideas or
 
 I've been building this repo public since day one, roughly 7 weeks now with Claude Code. Here's where it's at. Feels good to be so close. The short version: AIPass is a local CLI framework where AI agents have persistent identity, memory, and communication. They share the same filesystem, same project, same files - no sandboxes, no isolation. pip install aipass, run two commands, and your agent picks up where it left off tomorrow. You don't need 11 agents to get value. One agent on one project with persistent memory is already a different experience. Come back the next day, say hi, and it knows what you were working on, what broke, what the plan was. No re-explaining. That alone is worth the install. What I was actually trying to solve: AI already remembers things now - some setups are good, some are trash. That part's handled. What wasn't handled was me being the coordinator between multiple agents - copying context between tools, keeping track of who's doing what, manually dispatching work. I was the glue holding the workflow together. Most multi-agent frameworks run agents in parallel, but they isolate every agent in its own sandbox. One agent can't see what another just built. That's not a team. That's a room full of people wearing headphones. So the core idea: agents get identity files, session history, and collaboration patterns - three JSON files in a .trinity/ directory. Plain text, git diff-able, no database. But the real thing is they share the workspace. One agent sees what another just committed. They message each other through local mailboxes. Work as a team, or alone. Have just one agent helping you on a project, party plan, journal, hobby, school work, dev work - literally anything you can think of. Or go big, 50 agents building a rocketship to Mars lol. Sup Elon. There's a command router (drone) so one command reaches any agent. pip install aipass aipass init aipass init agent my-agent cd my-agent claude codex or gemini too, mostly claude code tested rn Where it's at now: 11 agents, 4,000+ tests, 400+ PRs (I know), automated quality checks across every branch. Works with Claude Code, Codex, and Gemini CLI. It's on PyPI. Tonight I created a fresh test project, spun up 3 agents, and had them test every service from a real user's perspective - email between agents, plan creation, memory writes, vector search, git commits. Most things just worked. The bugs I found were about the framework not monitoring external projects the same way it monitors itself. Exactly the kind of stuff you only catch by eating your own dogfood. Recent addition I'm pretty happy with: watchdog. When you dispatch work to an agent, you used to just... hope it finished. Now watchdog monitors the agent's process and wakes you when it's done - whether it succeeded, crashed, or silently exited without finishing. It's the difference between babysitting your agents and actually trusting them to work while you do something else. 5 handlers, 130 tests, replaced a hacky bash one-liner. Coming soon: an onboarding agent that walks new users through setup interactively - system checks, first agent creation, guided tour. It's feature-complete, just in final testing. Also working on automated README updates so agents keep their own docs current without being told. I'm a solo dev but every PR is human-AI collaboration - the agents help build and maintain themselves. 105 sessions in and the framework is basically its own best test case. https://github.com/AIOSAI/AIPass
 
-9h ago
+11h ago
 
 ---
 
@@ -89,31 +113,7 @@ I've been building this repo public since day one, roughly 7 weeks now with Clau
 
 Hey everyone, I just sent issue #29 of the AI Hacker Newsletter, a weekly roundup of the best AI links and the discussions around them from Hacker News. Here are some of these links: Ask HN: What skills are future proof in an AI driven job market? -- HN link Meta to start capturing employee mouse movements, keystrokes for AI training -- HN link Thoughts and feelings around Claude Design -- HN link All your agents are going async -- HN link Tell HN: I'm sick of AI everything -- HN link If you enjoy this content, please consider subscribing here: https://hackernewsai.com/
 
-1h ago
-
----
-
-**[The Ethics of Staying in the Room](https://www.reddit.com/r/artificial/comments/1sszoht/the_ethics_of_staying_in_the_room/)**
-
-AI doesn't invent bias, it codifies it. When you walk away from the tools you don't agree with, you leave them to be influenced by the people you disagree with most. Abstention isn't neutrality. It's choosing to be invisible in the algorithms.
-
-🔗 [kitchencloset.com](https://kitchencloset.com/realstuff/essays/ethics_of_staying_in_the_room/) • 17h ago
-
----
-
-**[Google says 75% of the company's new code is AI-generated](https://www.reddit.com/r/artificial/comments/1stj8wc/google_says_75_of_the_companys_new_code_is/)**
-
->That number has been notching up in recent years. As of October 2024, around a quarter of the company's code was AI-generated, Google said at the time. Last fall, it said the number had risen to 50%.
-
-🔗 [Business Insider](https://www.businessinsider.com/google-ai-generated-code-75-gemini-agents-software-2026-4) • 2h ago
-
----
-
-**[Will AI Kill the Creator Economy?](https://www.reddit.com/r/artificial/comments/1stirpt/will_ai_kill_the_creator_economy/)**
-
-This article is part of the Future of AI, a collection of articles that investigates how artificial intelligence will impact the fashion and beauty industries in the years to come. Would love to hear your thoughts!
-
-🔗 [Vogue](http://vogue.com/article/will-ai-kill-the-creator-economy) • 2h ago
+2h ago
 
 ---
 
@@ -123,7 +123,7 @@ This article is part of the Future of AI, a collection of articles that investig
 
 **[Anthropic’s New Mythos A.I. Model Sets Off Global Alarms](https://www.nytimes.com/2026/04/22/technology/anthropics-mythos-ai.html)**
 
-The New York Times • 20h ago
+The New York Times • 21h ago
 
 ---
 
@@ -131,47 +131,23 @@ The New York Times • 20h ago
 
 Anthropic's most powerful model yet is less a product launch than a stress test—one that exposes dangerous gaps in how the U.S. protects its critical systems.
 
-Fortune • 5h ago
+Fortune • 7h ago
 
 ---
 
-**[AI-powered defense for an AI-accelerated threat landscape](https://www.microsoft.com/en-us/security/blog/2026/04/22/ai-powered-defense-for-an-ai-accelerated-threat-landscape/)**
+**[Do you need to worry about Mythos, Anthropic's computer-hacking AI?](https://www.newscientist.com/article/2524008-do-you-need-to-worry-about-mythos-anthropics-computer-hacking-ai/)**
 
-Read how Microsoft is partnering with Anthropic and broader industry to use leading models, paired with our platforms and expertise, to turn AI-driven discovery into protection at scale.
+A powerful AI kept from public access because of its ability to hack computers with impunity is making headlines around the world. But what is Mythos, does it really represent a risk and might it even be used to improve cybersecurity?
 
-Microsoft • 22h ago
-
----
-
-**[What Will It Take to Get A.I. Out of Schools?](https://www.newyorker.com/culture/progress-report/what-will-it-take-to-get-ai-out-of-schools)**
-
-“I find myself speaking with my kids about A.I. in the same terms that we might discuss a creepy neighbor who lives down the block,” Jessica Winter writes. Read her report on the push for A.I. in education.
-
-The New Yorker • 5h ago
+New Scientist • 21m ago
 
 ---
 
-**[An industrial name key to the AI buildout made Josh Brown's Best Stocks list. It's breaking out](https://www.cnbc.com/2026/04/23/an-industrial-name-key-to-the-ai-buildout-made-josh-browns-best-stocks-list-its-breaking-out.html)**
+**[AI's a suck up. Research shows how it flatters and suggests we're not to blame](https://www.npr.org/2026/04/23/nx-s1-5792867/ai-chatbot-flattery-mental-health-risks)**
 
-The story in this industrial name is changing.
+The AI models and chatbots that we interact with tend to affirm our feelings and viewpoints — more so than people do, with potentially worrisome consequences.
 
-CNBC • 54m ago
-
----
-
-**[Cox Automotive to Acquire Fullpath, Bringing AI-Native Data and Marketing Infrastructure to the Industry's Largest Dealer Network](https://www.coxautoinc.com/insights/cox-automotive-to-acquire-fullpath-bringing-ai-native-data-and-marketing-infrastructure-to-the-industrys-largest-dealer-network/)**
-
-Agreement to acquire Fullpath adds Customer Data Platform, marketing automation, and AI capabilities to the Cox Automotive portfolio – giving dealers a unified platform to compete in an AI-driven retail environment. ATLANTA – April 23, 2026 – Cox Automotive today announced it has signed a definitive agreement to acquire 100% of Fullpath, a leading AI-powered … Continued
-
-Cox Automotive Inc. • 51m ago
-
----
-
-**[Google engineer stole AI secrets for China, Senate hears in explosive testimony](https://www.foxnews.com/politics/google-engineer-stole-ai-secrets-china-senate-hears-explosive-testimony)**
-
-A former Google engineer convicted of stealing AI trade secrets for China underscores a growing national security threat, a former CIA officer says.
-
-Fox News • 51m ago
+NPR • 7h ago
 
 ---
 
@@ -179,23 +155,41 @@ Fox News • 51m ago
 
 IBM plummets as quarterly results fail to quell investor anxiety over AI disruptions.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 3h ago
 
 ---
 
-**[Sycophantic AI flatters and suggests you are not to blame](https://www.npr.org/2026/04/23/nx-s1-5792867/ai-chatbot-flattery-mental-health-risks)**
+**[Software stocks plunge on ServiceNow, IBM results as AI fears escalate](https://www.cnbc.com/2026/04/23/software-stocks-plunge-on-servicenow-ibm-results-ai-fears-escalate.html)**
 
-The AI models and chatbots that we interact with tend to affirm our feelings and viewpoints — more so than people do, with potentially worrisome consequences.
+Shares of ServiceNow sank over 16%, dragging down other software names like Salesforce, Workday and Oracle with it.
 
-NPR • 5h ago
+CNBC • 17m ago
 
 ---
 
-**[Another ‘hallucinated’ court filing highlights the difference between Silicon Valley and the rest of the world](https://www.cnn.com/2026/04/23/business/ai-hallucination-sullivan-cromwell-nightcap)**
+**[AI deepens US tech divide as IBM, ServiceNow spark software selloff, TI lifts chipmakers](https://www.reuters.com/business/us-software-stocks-slide-ibm-servicenow-results-reignite-ai-disruption-fears-2026-04-23/)**
 
-We may have just witnessed the most egregious instance of workslop to date, and it’s one that matters — and not only because it’s objectively funny.
+Reuters • 3h ago
 
-CNN • 6h ago
+---
+
+**[Pro-AI network Leading the Future wades into first set of state legislative races](https://thehill.com/homenews/campaign/5845435-ai-leading-the-future-legislative-races-endorsements/)**
+
+The Hill • 7m ago
+
+---
+
+**[Siemens Energy Raises Outlook on Strong AI-Driven Demand](https://www.bloomberg.com/news/articles/2026-04-23/siemens-energy-raises-outlook-on-strong-ai-driven-demand)**
+
+Bloomberg.com • 41m ago
+
+---
+
+**[Toyota's CUE7 robot shoots hoops using AI](https://www.foxnews.com/tech/toyota-cue7-robot-shoots-hoops-using-ai)**
+
+Toyota debuted CUE7, an AI-powered humanoid robot that learned to shoot free throws through trial and error, in front of 8,400 fans at Toyota Arena Tokyo.
+
+Fox News • 5h ago
 
 ---
 
@@ -205,7 +199,7 @@ CNN • 6h ago
 
 **[Meta to start capturing employee mouse movements, keystrokes for AI training](https://news.ycombinator.com/item?id=47851948)**
 
-⬆️ 783 • 💬 520 • 1d ago • [reuters.com](https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/)
+⬆️ 786 • 💬 521 • 1d ago • [reuters.com](https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/)
 
 ---
 
@@ -219,7 +213,7 @@ People are sick of artificial intelligence, and are increasingly making it known
 
 **[Tell HN: I'm sick of AI everything](https://news.ycombinator.com/item?id=47857461)**
 
-⬆️ 332 • 💬 186 • 1d ago
+⬆️ 334 • 💬 186 • 1d ago
 
 ---
 
@@ -227,7 +221,7 @@ People are sick of artificial intelligence, and are increasingly making it known
 
 An attempt to detect AI design patterns in Show HN pages
 
-⬆️ 320 • 💬 231 • 1d ago • [adriankrebs.ch](https://www.adriankrebs.ch/blog/design-slop/)
+⬆️ 323 • 💬 231 • 1d ago • [adriankrebs.ch](https://www.adriankrebs.ch/blog/design-slop/)
 
 ---
 
@@ -241,7 +235,7 @@ An attempt to detect AI design patterns in Show HN pages
 
 High-performance AI gateway written in Go - unified OpenAI-compatible API for OpenAI, Anthropic, Gemini, Groq, xAI &amp; Ollama. LiteLLM alternative with observability, guardrails &amp; streaming. ...
 
-⬆️ 204 • 💬 73 • 2d ago • [GitHub](https://github.com/ENTERPILOT/GOModel/)
+⬆️ 205 • 💬 74 • 2d ago • [GitHub](https://github.com/ENTERPILOT/GOModel/)
 
 ---
 
@@ -249,7 +243,7 @@ High-performance AI gateway written in Go - unified OpenAI-compatible API for Op
 
 Nial – Knowledge work and artificial intelligence.
 
-⬆️ 157 • 💬 167 • 2d ago • [nial.se](https://nial.se/blog/less-human-ai-agents-please/)
+⬆️ 158 • 💬 167 • 2d ago • [nial.se](https://nial.se/blog/less-human-ai-agents-please/)
 
 ---
 
@@ -257,7 +251,7 @@ Nial – Knowledge work and artificial intelligence.
 
 How Ars Technica uses, and doesn't use, generative AI.
 
-⬆️ 128 • 💬 92 • 10h ago • [Ars Technica](https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/)
+⬆️ 148 • 💬 103 • 12h ago • [Ars Technica](https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/)
 
 ---
 
@@ -265,7 +259,7 @@ How Ars Technica uses, and doesn't use, generative AI.
 
 Meta deploys keystroke-tracking software on US employees' computers, sparking privacy concerns and internal backlash.
 
-⬆️ 115 • 💬 88 • 1d ago • [Business Insider](https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4)
+⬆️ 115 • 💬 89 • 1d ago • [Business Insider](https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4)
 
 ---
 
@@ -273,7 +267,7 @@ Meta deploys keystroke-tracking software on US employees' computers, sparking pr
 
 According to her profile, she was a registered nurse with Jennifer Lawrence looks who offered red meat posts to lonely conservative men online.
 
-⬆️ 95 • 💬 50 • 1d ago • [New York Post](https://nypost.com/2026/04/21/us-news/top-maga-influencer-emily-hart-revealed-to-be-ai-created-by-a-guy-in-india/)
+⬆️ 96 • 💬 50 • 1d ago • [New York Post](https://nypost.com/2026/04/21/us-news/top-maga-influencer-emily-hart-revealed-to-be-ai-created-by-a-guy-in-india/)
 
 ---
 
@@ -287,7 +281,7 @@ Smalls: Get 60% off your first order + FREE shipping & FREE treats for life at h
 
 📺 The Iced Coffee Hour Clips
 
-👁️ 4K • 👍 60 • 💬 26 • ⏱️ 9:25 • 21h ago
+👁️ 4K • 👍 60 • 💬 26 • ⏱️ 9:25 • 22h ago
 
 ---
 
@@ -297,7 +291,7 @@ Build website with Wix https://wix.pxf.io/c/6440076/2096727/25616?trafcat=wsb �
 
 📺 Mikey Website
 
-👁️ 4K • 💬 7 • ⏱️ 25:33 • 1h ago
+👁️ 4K • 💬 7 • ⏱️ 25:33 • 3h ago
 
 ---
 
@@ -307,7 +301,7 @@ Google just introduced Simula, a new system for generating synthetic datasets by
 
 📺 AI Revolution
 
-👁️ 21K • 👍 757 • 💬 46 • ⏱️ 11:04 • 17h ago
+👁️ 21K • 👍 757 • 💬 46 • ⏱️ 11:04 • 18h ago
 
 ---
 
@@ -317,7 +311,7 @@ As artificial intelligence continues to integrate into the workforce, Jon is joi
 
 📺 The Weekly Show with Jon Stewart
 
-👁️ 110K • 👍 3K • 💬 633 • ⏱️ 1:13:14 • 20h ago
+👁️ 110K • 👍 3K • 💬 633 • ⏱️ 1:13:14 • 21h ago
 
 ---
 
@@ -337,7 +331,7 @@ Has the AI bubble already burst? Some analysts think so, but the effect will be 
 
 📺 Clownfish TV
 
-👁️ 28K • 👍 2K • 💬 491 • ⏱️ 20:53 • 9h ago
+👁️ 28K • 👍 2K • 💬 491 • ⏱️ 20:53 • 11h ago
 
 ---
 
@@ -405,7 +399,7 @@ Kimi K2.6 is a 1T parameter multimodal agentic model excelling in long-horizon c
 
 `image-text-to-text` `1058.6B`
 
-⬇️ 125,825 • ❤️ 859 • 10h ago
+⬇️ 125,825 • ❤️ 859 • 11h ago
 
 ---
 
@@ -441,7 +435,7 @@ A bidirectional token-classification model for PII detection and masking, capabl
 
 `token-classification` `1.4B`
 
-⬇️ 1,888 • ❤️ 478 • 23h ago
+⬇️ 1,888 • ❤️ 478 • 1d ago
 
 ---
 
@@ -477,7 +471,7 @@ Qwen3.6-27B-GGUF is a 27B parameter causal language model with vision capabiliti
 
 `image-text-to-text` `26.9B`
 
-⬇️ 131,398 • ❤️ 282 • 23h ago
+⬇️ 131,398 • ❤️ 282 • 1d ago
 
 ---
 
@@ -501,7 +495,7 @@ Gemma 4 31B is an instruction-tuned, multimodal LLM capable of processing text a
 
 `image-text-to-text` `32.7B`
 
-⬇️ 5,103,971 • ❤️ 2,309 • 12d ago
+⬇️ 5,103,971 • ❤️ 2,309 • 13d ago
 
 ---
 
@@ -651,7 +645,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 49.2k • 🔱 6.4k • 10h ago
+⭐ 49.2k • 🔱 6.4k • 12h ago
 
 ---
 
@@ -681,7 +675,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 33.6k • 🔱 3.7k • 8h ago
+⭐ 33.6k • 🔱 3.7k • 10h ago
 
 ---
 
@@ -691,7 +685,7 @@ A theoretical reconstruction of the Claude Mythos architecture, built from first
 
 `Python` `ai` `anthropic` `attention` `claude` `claude-ai`
 
-⭐ 9.5k • 🔱 2.0k • 22h ago
+⭐ 9.5k • 🔱 2.0k • 1d ago
 
 ---
 
@@ -701,7 +695,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 8.6k • 🔱 554 • 30m ago
+⭐ 8.6k • 🔱 554 • 1h ago
 
 ---
 
@@ -711,7 +705,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Python`
 
-⭐ 5.9k • 🔱 997 • 7h ago
+⭐ 5.9k • 🔱 997 • 8h ago
 
 ---
 
@@ -741,7 +735,7 @@ LIBERATED AI CHAT
 
 `Python`
 
-⭐ 4.7k • 🔱 461 • 14d ago
+⭐ 4.7k • 🔱 461 • 15d ago
 
 ---
 
