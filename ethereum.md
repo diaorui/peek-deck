@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-23T00:09:58.853550+00:00'
+updated: '2026-04-23T03:54:51.860263+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
-- news
 - cryptocurrency
+- social
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 23, 2026 at 00:09 UTC  
+**Last Updated:** April 23, 2026 at 03:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,43 +36,51 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,397.66
+### $2,333.29
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.4%  
-**7d:** +1.4%  
-**30d:** +10.4%  
-**90d:** -19.5%  
-**1y:** +32.5%  
+**24h:** -1.0%  
+**7d:** -3.4%  
+**30d:** +7.8%  
+**90d:** -20.8%  
+**1y:** +32.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $289.91B
+**Market Cap:** $282.13B
 Rank #2
 
-**Circulating Supply:** 120,689,893 ETH
+**Circulating Supply:** 120,689,323 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--51.4%
+-52.7%
 
 **All-Time Low:** $0.43
-+555229.5%
++540048.6%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[Why AI Agents Are Choosing Crypto for Payments and What It Means for Ethereum](https://www.reddit.com/r/ethereum/comments/1st59sq/why_ai_agents_are_choosing_crypto_for_payments/)**
+
+Your daily crypto news briefing. Bitcoin, Ethereum, Solana and the stories that move markets.
+
+🔗 [bigcoinreport.com](https://bigcoinreport.com/analysis/ai-agents-crypto-payments-how-it-works) • 1h ago
+
+---
+
 **[Daily General Discussion April 22, 2026](https://www.reddit.com/r/ethereum/comments/1ssbr8y/daily_general_discussion_april_22_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-19h ago
+22h ago
 
 ---
 
@@ -80,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 This is 100% on-chain Web3 in practice. Over the past few months I've received invaluable feedback regarding ETour: 100% on-chain, skill-based, ETH-only tournament infrastructure. Inception Feedback Evolution I've taken your feedback to heart and built on top of it. Now it's finally ready for you to use! If you're curious then come compete, spectate, or ask me anything! If you're skeptical then come challenge my claims and prove me wrong! Browse the landing page https://etour.games Read the whitepapeer: https://etour.games/whitepaper Analyze the manual: https://etour.games/manual Study the docs https://etour.games/docs Join the discord https://discord.gg/9FfF2RNQV Looking forward to our discussions
 
-10h ago
+14h ago
 
 ---
 
@@ -114,6 +122,12 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
+**[84% of Polymarket users are trading at a loss.](https://www.reddit.com/r/ethereum/comments/1sqa9xi/84_of_polymarket_users_are_trading_at_a_loss/)**
+
+3d ago
+
+---
+
 **[On April 18, a hacker minted 116,500 rsETH tokens out of nothing.](https://www.reddit.com/r/ethereum/comments/1spvsfd/on_april_18_a_hacker_minted_116500_rseth_tokens/)**
 
 On April 18, a hacker minted 116,500 rsETH tokens out of nothing. Not stolen from a wallet. Created from a forged cross-chain message, a phantom packet that told Kelp DAO’s bridge to release real tokens backed by zero collateral. The attacker deposited those phantom tokens as collateral on Aave and borrowed $236 million in real ETH against them. Within hours, $5.4 billion fled Aave. The protocol’s ETH pool hit 100% utilization. AAVE dropped 19%. Then Justin Sun withdrew $154 million from Aave. After securing his own exit, he posted publicly: “Kelpdao hacker, how much you want? Let’s just talk. You can’t spend $300 million anyway.” The man who extracted first offered to negotiate second. But that is not the deepest layer. The deepest layer is this: April 2026 just produced a single month in which every major system failure on earth was caused by the same mechanism. Not hacking. Not force. Verification Cost Inversion. Every system trusted a representation of value instead of verifying the value itself. And every system collapsed at the exact point where trust replaced verification. The rsETH was a representation of staked ETH. Nobody verified the cross-chain message that created it. A single DVN verifier, a 1-of-1 trust assumption, was the entire security model for a bridge holding $292 million. The representation said “backed.” The reality said “phantom.” Aave accepted the representation.
@@ -122,25 +136,11 @@ On April 18, a hacker minted 116,500 rsETH tokens out of nothing. Not stolen fro
 
 ---
 
-**[84% of Polymarket users are trading at a loss.](https://www.reddit.com/r/ethereum/comments/1sqa9xi/84_of_polymarket_users_are_trading_at_a_loss/)**
-
-2d ago
-
----
-
 **[Someone Warned Kelp DAO About This Exact Vulnerability 15 Months Ago. Nobody Listened. $292 Million Is Gone](https://www.reddit.com/r/ethereum/comments/1spoe1h/someone_warned_kelp_dao_about_this_exact/)**
 
 The Kelp DAO exploit that drained $292 million and froze Aave was preventable. A developer posted on the Aave governance forum in January 2025 that Kelp's single-validator bridge security was the weakest configuration LayerZero allows. Kelp never added the second validator. On Saturday, an attacker used that exact vulnerability.
 
 🔗 [DailyCoinPost](https://dailycoinpost.com/kelp-dao-292-million-hack-warning-ignored-layerzero/) • 3d ago
-
----
-
-**[Daily General Discussion April 19, 2026](https://www.reddit.com/r/ethereum/comments/1spjkzn/daily_general_discussion_april_19_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-3d ago
 
 ---
 
@@ -164,19 +164,11 @@ Ethereum just had its busiest quarter ever in Q1 2026, yet ETH is still over 50%
 
 ---
 
-**[Ethereum Coinbase Premium Flips Bullish: Discover What Happens When US Whales Are Long](https://www.tradingview.com/news/newsbtc:ecbe77907094b:0-ethereum-coinbase-premium-flips-bullish-discover-what-happens-when-us-whales-are-long/)**
-
-Ethereum is pushing back toward $2,400 as the market finds its footing after weeks of uncertainty, with buyers gradually reasserting control and the price beginning to build momentum from the consolidation range. The move higher is drawing attention — and a CryptoQuant analyst has identified a sign…
-
-TradingView • 1h ago
-
----
-
 **[Kevin O’Leary reveals the only two cryptocurrencies he says are worth owning](https://www.foxbusiness.com/media/kevin-oleary-reveals-only-two-cryptocurrencies-he-says-worth-owning)**
 
 Kevin O'Leary says bitcoin and Ethereum are the only cryptos worth owning, as institutional money reshapes the digital asset market landscape.
 
-Fox Business • 7h ago
+Fox Business • 10h ago
 
 ---
 
@@ -184,29 +176,37 @@ Fox Business • 7h ago
 
 Bitcoin opened at $76,341.73 on Wednesday, 0.6% higher than Tuesday's opening price of $75,872.83. Ethereum (ETH-USD) opened at $2,327.61 on Wednesday, 0.5% higher than Tuesday's opening price of $2,315.18.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 16h ago
 
 ---
 
-**[GSR enters crypto ETF field with actively managed multi-asset fund tracking Bitcoin, Ethereum and Solana](https://www.theblock.co/post/398443/gsr-crypto-etf-actively-managed-multi-asset-core3-bitcoin-ethereum-solana)**
+**[Etherealize updates long-term ETH price prediction to $250,000](https://www.theblock.co/post/398372/etherealize-updates-long-term-eth-price-prediction-250000)**
 
-Core3 marks GSR's first crypto ETF offering amid a period of expansion for the major market maker and the wider crypto fund sector.
+ETH would trade above $250,000 if Ethereum can capture the same monetary premium as bitcoin and gold carry as stores-of-value.
 
-The Block • 11h ago
+The Block • 1d ago
 
 ---
 
 **[Bitcoin Price Tops $78,000 to Hit 11-Week High. XRP, Ethereum, Cryptos Surging.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-cryptos-f690b700)**
 
-Barron's • 13h ago
+Barron's • 17h ago
 
 ---
 
-**[BitMine Stakes $142 Million Worth Of Ethereum](https://finance.yahoo.com/markets/crypto/articles/bitmine-stakes-142-million-worth-142800598.html)**
+**[Forget (XRP) Ripple: This Cryptocurrency Has A Real Moat](https://www.fool.com/investing/2026/04/21/forget-xrp-ripple-this-cryptocurrency-has-a-real-m/)**
 
-BitMine Immersion Technologies (NYSE: $BMNR) says it has now staked nearly $142 million U.S. worth of Ethereum (CRY...
+Ethereum offers more stable returns with clearer long-term catalysts.
 
-Yahoo Finance • 9h ago
+The Motley Fool • 1d ago
+
+---
+
+**[BitMine (BMNR) Now Owns 4% of All Ethereum and Is Closing In on 5%](https://finance.yahoo.com/markets/crypto/articles/bitmine-bmnr-now-owns-4-105549461.html)**
+
+BitMine Immersion Technologies, Inc. (NYSE:BMNR) is one of the best Ethereum stocks to buy now. On April 13, BitMine Immersion Technologies, Inc. (NYSE:BMNR) announced that its Ethereum holdings had reached 4,874,858 ETH. The company valued the tokens at about $10.7 billion at a price of $2,206 per token, and said that its combined crypto, cash, […]
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -236,7 +236,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 7K • 👍 272 • 💬 22 • ⏱️ 18:59 • 7h ago
+👁️ 13K • 👍 378 • 💬 78 • ⏱️ 18:59 • 11h ago
 
 ---
 
@@ -246,17 +246,17 @@ Thanks to Nexo for sponsoring this video. Get your welcome bonus to receive 30 d
 
 📺 Crypto Capital Venture
 
-👁️ 4K • 👍 377 • 💬 185 • ⏱️ 13:39 • 8h ago
+👁️ 6K • 👍 431 • 💬 278 • ⏱️ 13:39 • 12h ago
 
 ---
 
-**[INSANE BITCOIN PUMP HAPPENING NOW! $1.3M Bitcoin and $250K Ethereum IS THE NEW TARGET!](https://www.youtube.com/watch?v=BE_AdEdX5n0)**
+**[BITCOIN &amp; ALTCOIN SHORT SQUEEZE (Price Target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=bhjtmugzBU0)**
 
-INSTITUTIONS GO FULL BULL: $1.3M Bitcoin and $250K Ethereum IS THE NEW TARGET! Institutions are turning increasingly ...
+BITCOIN & ALTCOIN SHORT SQUEEZE (Price Target)!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
 
-📺 CryptoWendyO
+📺 Crypto World
 
-👁️ 3K • 👍 237 • 💬 14 • ⏱️ 16:01 • 6h ago
+👁️ 4K • 👍 272 • 💬 159 • ⏱️ 23:51 • 7h ago
 
 ---
 
@@ -266,7 +266,17 @@ See exactly what top investors are trading in real time: try Milk Road Pro for j
 
 📺 Milk Road
 
-👁️ 6K • 👍 199 • 💬 51 • ⏱️ 36:12 • 1d ago
+👁️ 6K • 👍 208 • 💬 51 • ⏱️ 36:12 • 1d ago
+
+---
+
+**[INSANE BITCOIN PUMP HAPPENING NOW! $1.3M Bitcoin and $250K Ethereum IS THE NEW TARGET!](https://www.youtube.com/watch?v=BE_AdEdX5n0)**
+
+INSTITUTIONS GO FULL BULL: $1.3M Bitcoin and $250K Ethereum IS THE NEW TARGET! Institutions are turning increasingly ...
+
+📺 CryptoWendyO
+
+👁️ 4K • 👍 275 • 💬 16 • ⏱️ 16:01 • 10h ago
 
 ---
 
@@ -276,17 +286,7 @@ The next 48 hours will be the deciding force for crypto, bitcoin and ethereum as
 
 📺 Thomas Kralow
 
-👁️ 15K • 👍 1K • 💬 43 • ⏱️ 12:02 • 1d ago
-
----
-
-**[Ethereum Bear Flag Breakout Or Crash To Fear Zone?](https://www.youtube.com/watch?v=nWw19cdubBo)**
-
-Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
-
-📺 Trade Confident
-
-👁️ 140 • 👍 11 • 💬 2 • ⏱️ 5:51 • 6h ago
+👁️ 16K • 👍 1K • 💬 28 • ⏱️ 12:02 • 1d ago
 
 ---
 
@@ -296,25 +296,27 @@ Welcome Back To The Channel! Make Sure To Check Out Bitcast: https://bitcast.net
 
 📺 Aaron Bennett
 
-👁️ 12K • 👍 838 • 💬 124 • ⏱️ 25:21 • 22h ago
+👁️ 15K • 👍 943 • 💬 132 • ⏱️ 25:21 • 1d ago
 
 ---
 
-**[Hearing about XRP was like Moses Coming Down. #xrp #crypto #bitcoin #ethereum @digitalassetinvestor](https://www.youtube.com/watch?v=F91jVEt8E4Y)**
+**[Why I Chose XRP &amp; HASH Over BTC &amp; ETH](https://www.youtube.com/watch?v=USYShNOUeMc)**
 
-📺 Digital Asset Investor
+Bitcoin and Ethereum are established. They are also closer to Alta Vista and Napster than Google and Spotify. First movers, real ...
 
-👁️ 6K • 👍 364 • ⏱️ 1:36 • 13h ago
+📺 Jake Claver
+
+👁️ 17K • 👍 743 • 💬 44 • ⏱️ 2:49 • 15h ago
 
 ---
 
-**[Ethereum just made an ATH on THIS important Measure (BMNR Stock Update).](https://www.youtube.com/watch?v=_s0sxyDmNr8)**
+**[ETHEREUM ABOUT TO DUMP?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=vIlfE2rl0Yk)**
 
-Follow me on X: @dr_Crossroads 15% Off Fiscal.ai Plans! Unlock institutional-grade data with my link: https://fiscal.ai/?via=roy ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 Crossroads
+📺 Cilinix Crypto
 
-👁️ 6K • 👍 281 • 💬 87 • ⏱️ 13:21 • 1d ago
+👁️ 300 • 👍 10 • ⏱️ 4:36 • 19h ago
 
 ---
 
@@ -324,7 +326,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 8K • 👍 345 • 💬 75 • ⏱️ 1:24:23 • 1d ago
+👁️ 8K • 👍 351 • 💬 75 • ⏱️ 1:24:23 • 1d ago
 
 ---
 
