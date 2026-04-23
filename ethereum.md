@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-23T10:05:46.782600+00:00'
+updated: '2026-04-23T11:40:03.451497+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - news
 - social
 - videos
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 23, 2026 at 10:05 UTC  
+**Last Updated:** April 23, 2026 at 11:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.7%  
-**7d:** -4.6%  
-**30d:** +6.6%  
-**90d:** -21.7%  
-**1y:** +30.8%  
+**24h:** -3.3%  
+**7d:** -4.0%  
+**30d:** +7.1%  
+**90d:** -21.3%  
+**1y:** +31.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $282.82B
+**Market Cap:** $280.16B
 Rank #2
 
 **Circulating Supply:** 120,689,323 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--52.6%
+-53.1%
 
 **All-Time Low:** $0.43
-+541178.0%
++536041.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+6h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Your daily crypto news briefing. Bitcoin, Ethereum, Solana and the stories that move markets.
 
-🔗 [bigcoinreport.com](https://bigcoinreport.com/analysis/ai-agents-crypto-payments-how-it-works) • 8h ago
+🔗 [bigcoinreport.com](https://bigcoinreport.com/analysis/ai-agents-crypto-payments-how-it-works) • 9h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I've taken your feedback to heart and built on top of it. Now it's finally ready for you to use! Over the past few months I've received invaluable feedback regarding ETour: 100% on-chain, skill-based, ETH-only tournament infrastructure. Inception Feedback Evolution This is 100% on-chain Web3 in practice. If you're curious then come compete, spectate, or ask me anything! If you're skeptical then come challenge my claims and prove me wrong! Browse the landing page https://etour.games Read the whitepapeer: https://etour.games/whitepaper Analyze the manual: https://etour.games/manual Study the docs https://etour.games/docs Join the discord https://discord.gg/9FfF2RNQV Looking forward to our discussions
 
-20h ago
+22h ago
 
 ---
 
@@ -156,25 +156,33 @@ Decrypt • 1d ago
 
 ---
 
+**[Is Owning Just Bitcoin and Ethereum Enough for a Crypto Portfolio?](https://www.fool.com/investing/2026/04/23/is-owning-just-bitcoin-and-ethereum-enough-for-a-c/)**
+
+Simple portfolios can often outperform overly complicated ones.
+
+The Motley Fool • 1h ago
+
+---
+
 **[Is Anthropic's Mythos AI a Threat to Ethereum and Solana?](https://www.fool.com/investing/2026/04/23/is-anthropics-mythos-ai-a-threat-to-ethereum-and-s/)**
 
 An unreleased AI model is sending crypto into a panic, but it's only half relevant to the real ongoing problems.
 
-The Motley Fool • 38m ago
+The Motley Fool • 2h ago
 
 ---
 
-**[Ethereum Price Warning Fires Again After a 9% Drop Last Week](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-warning-fires-again-072238869.html)**
+**[Kevin O’Leary reveals the only two cryptocurrencies he says are worth owning](https://www.foxbusiness.com/media/kevin-oleary-reveals-only-two-cryptocurrencies-he-says-worth-owning)**
 
-Ethereum price flashes a second bearish divergence within five weeks, but whale accumulation and funding flip may limit downside risk.
+Kevin O'Leary says bitcoin and Ethereum are the only cryptos worth owning, as institutional money reshapes the digital asset market landscape.
 
-Yahoo Finance • 2h ago
+Fox Business • 18h ago
 
 ---
 
-**[Bitcoin Price Rises Amid Iran Fear Hitting Stocks. Ethereum, XRP, Cryptos Fall.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-iran-54088134)**
+**[Bitcoin Price Tops $78,000 to Hit 11-Week High. XRP, Ethereum, Cryptos Surging.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-cryptos-f690b700)**
 
-Barron's • 1h ago
+Barron's • 1d ago
 
 ---
 
@@ -182,45 +190,37 @@ Barron's • 1h ago
 
 Core3 marks GSR's first crypto ETF offering amid a period of expansion for the major market maker and the wider crypto fund sector.
 
-The Block • 21h ago
+The Block • 22h ago
 
 ---
 
-**[Bitcoin And Ethereum Outlook - Cryptos Break Out Of Bear Trends, But Will It Continue](https://seekingalpha.com/article/4893189-bitcoin-ethereum-outlook-cryptos-break-out-of-bear-trends-will-it-continue)**
+**[Is Ethereum set for a breakout as Open Interest and bulls rise?](https://www.tradingview.com/news/invezz:514273167094b:0-is-ethereum-set-for-a-breakout-as-open-interest-and-bulls-rise/)**
 
-Bitcoin has reached $79,000 in daily trading. Ethereum broke through several major resistance levels, back to $2,400. So far cryptocurrencies have maintained a strong correlation with Nasdaq
+Bitcoin and Ethereum recorded gains earlier this week following an indefinite extension of the US ceasefire with Iran.Ethereum hit the $2,400 level on Wednesday but has now slightly retraced and is currently trading at $2,350 per coin.The coin could rally higher in the near term amid a recovery of…
 
-Seeking Alpha • 4h ago
+TradingView • 4h ago
+
+---
+
+**[AAVE deposits plunge $16.2B after KelpDAO exploit, Ethereum market pressured](https://cryptobriefing.com/aave-deposits-plunge-162b-after-kelpdao-exploit-ethereum-market-pressured/)**
+
+Aave deposits dropped $16.2 billion after the KelpDAO exploit, pressuring Ethereum; $4,000 in April at 15% YES.
+
+Crypto Briefing • 8h ago
 
 ---
 
 **[Ethereum $250,000 Prediction Smashes Bitcoin and Gold as ‘Dead Capital’](https://www.tipranks.com/news/ethereum-250000-prediction-smashes-bitcoin-and-gold-as-dead-capital)**
 
-TipRanks • 20h ago
+TipRanks • 21h ago
 
 ---
 
-**[BitMine (BMNR) Now Owns 4% of All Ethereum and Is Closing In on 5%](https://finance.yahoo.com/markets/crypto/articles/bitmine-bmnr-now-owns-4-105549461.html)**
+**[BitMine Stakes $142 Million Worth Of Ethereum](https://finance.yahoo.com/markets/crypto/articles/bitmine-stakes-142-million-worth-142800598.html)**
 
-BitMine Immersion Technologies, Inc. (NYSE:BMNR) is one of the best Ethereum stocks to buy now. On April 13, BitMine Immersion Technologies, Inc. (NYSE:BMNR) announced that its Ethereum holdings had reached 4,874,858 ETH. The company valued the tokens at about $10.7 billion at a price of $2,206 per token, and said that its combined crypto, cash, […]
+BitMine Immersion Technologies (NYSE: $BMNR) says it has now staked nearly $142 million U.S. worth of Ethereum (CRY...
 
-Yahoo Finance • 1d ago
-
----
-
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.976 Million Tokens, and Total Crypto and Total Cash Holdings of $12.9 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-4-976-million-tokens-and-total-crypto-and-total-cash-holdings-of-12-9-billion-302746944.html)**
-
-Bitmine now owns more than 4% of the total ETH coin supply of 120.7 million Bitmine is 82% of the way to the 'Alchemy of 5%' in just 9 months Ethereum...
-
-PR Newswire • 2d ago
-
----
-
-**[BMNR news: Bitmine acquires more than $230 million in ether (ETH) its largest weekly haul of 2026](https://www.coindesk.com/business/2026/04/20/bitmine-buys-101-627-ether-worth-over-usd230-million-its-largest-weekly-haul-of-2026)**
-
-The Ethereum treasury firm is nearing 5 million ETH holdings as it has sped its accumulation pace over the past weeks.
-
-CoinDesk • 2d ago
+Yahoo Finance • 21h ago
 
 ---
 
@@ -234,7 +234,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 15K • 👍 419 • 💬 82 • ⏱️ 18:59 • 17h ago
+👁️ 16K • 👍 443 • 💬 64 • ⏱️ 18:59 • 19h ago
 
 ---
 
@@ -244,7 +244,7 @@ Thanks to Nexo for sponsoring this video. Get your welcome bonus to receive 30 d
 
 📺 Crypto Capital Venture
 
-👁️ 6K • 👍 441 • 💬 237 • ⏱️ 13:39 • 18h ago
+👁️ 7K • 👍 446 • 💬 182 • ⏱️ 13:39 • 20h ago
 
 ---
 
@@ -254,17 +254,17 @@ INSTITUTIONS GO FULL BULL: $1.3M Bitcoin and $250K Ethereum IS THE NEW TARGET! I
 
 📺 CryptoWendyO
 
-👁️ 4K • 👍 280 • 💬 16 • ⏱️ 16:01 • 16h ago
+👁️ 4K • 👍 284 • 💬 16 • ⏱️ 16:01 • 18h ago
 
 ---
 
-**[BITCOIN &amp; ALTCOIN SHORT SQUEEZE (Price Target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=bhjtmugzBU0)**
+**[CRYPTO LIVE TRADING || 23 APRIL  | ‪@ClockTraderlive‬ #bitcoin #ethereum #crypto #btclivetrading](https://www.youtube.com/watch?v=PFFw9pUzpDY)**
 
-BITCOIN & ALTCOIN SHORT SQUEEZE (Price Target)!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
+join my social platforms for updates and analysis ✓Instagram: ...
 
-📺 Crypto World
+📺 Aryan trader Live
 
-👁️ 5K • 👍 297 • 💬 165 • ⏱️ 23:51 • 13h ago
+👁️ 2K • 51m ago
 
 ---
 
@@ -274,17 +274,17 @@ See exactly what top investors are trading in real time: try Milk Road Pro for j
 
 📺 Milk Road
 
-👁️ 7K • 👍 215 • 💬 52 • ⏱️ 36:12 • 1d ago
+👁️ 7K • 👍 214 • 💬 52 • ⏱️ 36:12 • 1d ago
 
 ---
 
-**[Grok AI Just REVISED Its 2026 Crypto Market Top Prediction (BTC, ETH &amp; Altcoins)](https://www.youtube.com/watch?v=LgPdNCuTysQ)**
+**[BITCOIN &amp; ALTCOIN SHORT SQUEEZE (Price Target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=bhjtmugzBU0)**
 
-Welcome Back To The Channel! Make Sure To Check Out Bitcast: https://bitcast.network/ iTrust Capital – $100 Bonus (Crypto ...
+BITCOIN & ALTCOIN SHORT SQUEEZE (Price Target)!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
 
-📺 Aaron Bennett
+📺 Crypto World
 
-👁️ 18K • 👍 998 • 💬 138 • ⏱️ 25:21 • 1d ago
+👁️ 6K • 👍 310 • 💬 166 • ⏱️ 23:51 • 15h ago
 
 ---
 
@@ -294,35 +294,37 @@ Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Zoomex - https://
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 179 • 💬 35 • ⏱️ 10:42 • 1d ago
+👁️ 4K • 👍 180 • 💬 35 • ⏱️ 10:42 • 1d ago
 
 ---
 
-**[ETHEREUM ABOUT TO DUMP?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=vIlfE2rl0Yk)**
+**[Grok AI Just REVISED Its 2026 Crypto Market Top Prediction (BTC, ETH &amp; Altcoins)](https://www.youtube.com/watch?v=LgPdNCuTysQ)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+Welcome Back To The Channel! Make Sure To Check Out Bitcast: https://bitcast.network/ iTrust Capital – $100 Bonus (Crypto ...
 
-📺 Cilinix Crypto
+📺 Aaron Bennett
 
-👁️ 347 • 👍 12 • ⏱️ 4:36 • 1d ago
-
----
-
-**[Bitcoin &amp; Ethereum. Optimalszemario erfüllt!! Jetzt runter oder kommt da noch was?](https://www.youtube.com/watch?v=fBqntSC7ieg)**
-
-DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 250€ + ...
-
-📺 Krypto Trading & Investing
-
-👁️ 3K • 👍 531 • 💬 60 • ⏱️ 10:45 • 6h ago
+👁️ 19K • 👍 1K • 💬 141 • ⏱️ 25:21 • 1d ago
 
 ---
 
-**[Hearing about XRP was like Moses Coming Down. #xrp #crypto #bitcoin #ethereum @digitalassetinvestor](https://www.youtube.com/watch?v=F91jVEt8E4Y)**
+**[BITCOIN WINNING TRADES: BTC PROFITS, ETH GAINS, GOOGLE UP 22%](https://www.youtube.com/watch?v=w0pZ-fA0v_w)**
 
-📺 Digital Asset Investor
+Daily BTC, ETH, TSLA trades. Subscribe. Bybit bonus up to $30000 https://partner.bybit.com/b/Buyalts Weex, $200 sign-up, ...
 
-👁️ 8K • 👍 410 • ⏱️ 1:36 • 23h ago
+📺 James Crypto Guru
+
+👁️ 1K • 👍 110 • 💬 7 • ⏱️ 15:16 • 11h ago
+
+---
+
+**[Productive Money: The Most Bullish Case for Ethereum](https://www.youtube.com/watch?v=cwBtPPL_4Oc)**
+
+SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium ------ Ethereum may be one of the ...
+
+📺 Bankless
+
+👁️ 9K • 👍 355 • 💬 78 • ⏱️ 1:24:23 • 2d ago
 
 ---
 
