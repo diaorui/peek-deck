@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-23T17:22:12.711671+00:00'
+updated: '2026-04-23T18:42:04.667609+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - videos
+- cryptocurrency
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 23, 2026 at 17:22 UTC  
+**Last Updated:** April 23, 2026 at 18:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,616.40
+### $78,032.97
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.8%  
-**7d:** +0.6%  
-**30d:** +8.8%  
-**90d:** -13.1%  
-**1y:** -17.4%  
+**24h:** -1.1%  
+**7d:** +1.2%  
+**30d:** +9.4%  
+**90d:** -12.6%  
+**1y:** -16.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1569.06B
+**Market Cap:** $1563.23B
 Rank #1
 
-**Circulating Supply:** 20,019,718 BTC
+**Circulating Supply:** 20,019,750 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--37.9%
+-38.1%
 
 **All-Time Low:** $67.81
-+115402.1%
++115052.6%
 
 ---
 
@@ -81,35 +81,13 @@ Rank #1
 
 GM. Went full degen on this one. Started this as an experiment: ask ChatGPT, Claude, Gemini, Grok, DeepSeek and 5 more the same Bitcoin question every day, then grade them for accuracy against the real price. What's live now: - Daily predictions from all 10 models, 2027–2100 (bear/base/bull) - Short-term predictions at 7, 30, 90, 180 and 360 days — graded when the date arrives - AI consensus using a trimmed mean (drops the single highest + lowest to avoid outlier distortion) - 5 free calculators: DCA, Time Machine, Salary in BTC, Inflation Hedge, FIRE retirement First 7-day accuracy results just unlocked. Perplexity AI came first with 91.2% accuracy. Gemini came last with 28.1% — it predicted $130K for this week when BTC was at $75K. Same prompt, same day. Full leaderboard: Perplexity 91.2% Qwen 88.8% ChatGPT 88.8% DeepSeek 87% Command R 86% Claude 85.8% Grok 76.1% Mistral 69% Llama 59.7% Gemini 18.3% aipredictsbitcoin.com
 
-5h ago
+6h ago
 
 ---
 
 **[The Great Surrender: Wall Street Bends the Knee to Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1stbr96/the_great_surrender_wall_street_bends_the_knee_to/)**
 
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-great-surrender-wall-street-bends) • 9h ago
-
----
-
-**[How Crypto Taxed In USA](https://www.reddit.com/r/Bitcoin/comments/1stfs89/how_crypto_taxed_in_usa/)**
-
-6h ago
-
----
-
-**[Clarity Act](https://www.reddit.com/r/Bitcoin/comments/1stjc76/clarity_act/)**
-
-How close are we to the clarity act passing? I’m personally for the clarity act as I believe adoption from institutions is critical for us as bitcoiners. I know there are people who dislike institutional involvement but it is the only way and these institutions would never allow a trillion dollar asset to just move without them. The smart money knows more than retail.
-
-3h ago
-
----
-
-**[18 year old with 20k in savings of bitcoin](https://www.reddit.com/r/Bitcoin/comments/1st8o5j/18_year_old_with_20k_in_savings_of_bitcoin/)**
-
-So pretty much 60% of all the money I own right now is it bitcoin and obviously lately, it’s been in a bull run. Some are saying that we are in another pattern of it about to drop, as well as the elections nearby. What do you guys think, do I hold out? ps when is the clarity act going to pass? lol
-
-12h ago
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-great-surrender-wall-street-bends) • 11h ago
 
 ---
 
@@ -117,7 +95,37 @@ So pretty much 60% of all the money I own right now is it bitcoin and obviously 
 
 Sorted out and moved my BTC to a Trezor 3 today and it was so easy and practiced recovering it. I'm sure my modest BTC would've been safe on Coinbase but it feels so much better now i've moved it off. Did anyone else feel a strange relief once they did this?
 
-59m ago
+2h ago
+
+---
+
+**[How Crypto Taxed In USA](https://www.reddit.com/r/Bitcoin/comments/1stfs89/how_crypto_taxed_in_usa/)**
+
+7h ago
+
+---
+
+**[As Petrodollar weakens, Bitcoin gains momentun](https://www.reddit.com/r/Bitcoin/comments/1stqokx/as_petrodollar_weakens_bitcoin_gains_momentun/)**
+
+Has anyone here ever heard of “petrobitcoin”?. I was just reading an article about this concept called “petrobitcoin” — basically the idea that Bitcoin could start being used in oil trade, not as a new token but as part of real energy transactions. It sounds unusual at first, but given everything happening globally in 2026, it kind of makes you think twice. Here is this interesting breakdown about this, https://www.cointribune.com/en/petrobitcoin-is-the-dream-of-a-bitcoin-backed-by-oil-coming-true-in-2026/
+
+30m ago
+
+---
+
+**[18 year old with 20k in savings of bitcoin](https://www.reddit.com/r/Bitcoin/comments/1st8o5j/18_year_old_with_20k_in_savings_of_bitcoin/)**
+
+So pretty much 60% of all the money I own right now is it bitcoin and obviously lately, it’s been in a bull run. Some are saying that we are in another pattern of it about to drop, as well as the elections nearby. What do you guys think, do I hold out? ps when is the clarity act going to pass? lol
+
+14h ago
+
+---
+
+**[Clarity Act](https://www.reddit.com/r/Bitcoin/comments/1stjc76/clarity_act/)**
+
+How close are we to the clarity act passing? I’m personally for the clarity act as I believe adoption from institutions is critical for us as bitcoiners. I know there are people who dislike institutional involvement but it is the only way and these institutions would never allow a trillion dollar asset to just move without them. The smart money knows more than retail.
+
+4h ago
 
 ---
 
@@ -125,7 +133,7 @@ Sorted out and moved my BTC to a Trezor 3 today and it was so easy and practiced
 
 Congrats to all those who bought, held, or dcad into btc. Retail is now short heavy. Every time retail is short heavy we have a parabolic bull run. This is extremely bullish. Like extremely bullish. There has not been a time where we started a bull market and retail was majority longing. They always short into bull run and buy into bear market. We will see sustained upside. Lambo soon, dca/buy & hold
 
-15h ago
+16h ago
 
 ---
 
@@ -133,7 +141,7 @@ Congrats to all those who bought, held, or dcad into btc. Retail is now short he
 
 I have been learning and investing in bitcoin and want to stay consistent for the long run. What habits or mindset should I follow to keep improving over time?
 
-2h ago
+4h ago
 
 ---
 
@@ -141,13 +149,7 @@ I have been learning and investing in bitcoin and want to stay consistent for th
 
 The 21M coin cap is the bedrock of Bitcoin's value proposition, but how is this seemingly simple rule actually guaranteed? Let’s take a deep dive.
 
-🔗 [BitBox Blog](https://blog.bitbox.swiss/en/how-the-21-million-bitcoin-limit-is-actually-enforced/) • 2h ago
-
----
-
-**[The Bitcoin Redemption](https://www.reddit.com/r/Bitcoin/comments/1ssq9ix/the_bitcoin_redemption/)**
-
-1d ago
+🔗 [BitBox Blog](https://blog.bitbox.swiss/en/how-the-21-million-bitcoin-limit-is-actually-enforced/) • 3h ago
 
 ---
 
@@ -157,75 +159,73 @@ The 21M coin cap is the bedrock of Bitcoin's value proposition, but how is this 
 
 **[Opinion | A Bitcoin Evangelist Tries to Convert Me](https://www.nytimes.com/2026/04/23/opinion/bitcoin-crypto-anthony-pompliano.html)**
 
-The New York Times • 8h ago
+The New York Times • 9h ago
 
 ---
 
-**['Rally on trial': Bitcoin breakout faces key $80,000 test as whales, ETF investors buy into volatility](https://www.theblock.co/post/398625/rally-trial-analysts-bitcoin-breakout-test-80000-whales-etf-investors-buy-volatility)**
+**[Bitcoin price today: steadies near $78k as Hormuz tensions offset ceasefire relief](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-steady-above-78k-as-hormuz-tensions-offset-ceasefire-relief-4631252)**
 
-Analysts say bitcoin's rally still faces a stiff test from profit-taking, macro risk and a crowded resistance zone.
-
-The Block • 1h ago
+Investing.com • 5h ago
 
 ---
 
-**[US military running Bitcoin node to test national security applications, admiral tells Congress](https://www.theblock.co/post/398593/us-military-running-bitcoin-node-to-test-national-security-applications-admiral-tells-congress)**
+**[Crypto dips despite breakout signals, with traders leaning bearish: Crypto Markets Today](https://www.coindesk.com/markets/2026/04/23/bitcoin-slips-from-near-usd80-000-as-oil-price-increase-weighs-on-risk-assets)**
 
-Adm. Paparo told Congress that the U.S. military is running a Bitcoin node to test how the protocol can support national security.
+Bitcoin dips after testing $80,000 as oil surges and traders stay bearish, even though a breakout hints the rally could accelerate on short squeezes.
 
-The Block • 4h ago
-
----
-
-**[US admiral reveals that the military is running its own bitcoin node](https://finance.yahoo.com/video/us-admiral-reveals-that-the-military-is-running-its-own-bitcoin-node-162733532.html)**
-
-"The Wolf of All Streets" podcast host Scott Melker dives into US Air Force Admiral Samuel Paparo's latest statements to US lawmakers, revealing that the US government is running its own node to monitor the bitcoin (BTC-USD) network. "The Daily Wolf with Scott Melker" airs on Yahoo Finance every day at 12:00 p.m. Tune in for your daily dose of all things crypto. Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
-
-Yahoo Finance • 54m ago
+CoinDesk • 8h ago
 
 ---
 
-**[U.S. military runs Bitcoin node, sees crypto as power projection versus China](https://www.coindesk.com/markets/2026/04/23/us-military-runs-bitcoin-node-sees-crypto-as-power-projection-vs-china)**
+**[Push to Unwind Bitcoin Hoarder Shows Once-Hot Trade Collapsing](https://www.bloomberg.com/news/articles/2026-04-23/push-to-unwind-bitcoin-hoarder-shows-once-hot-trade-collapsing)**
 
-A Navy admiral told a U.S. Senate hearing that the government is running a Bitcoin node, not for mining, but for national security purposes.
-
-CoinDesk • 5h ago
+Bloomberg.com • 3h ago
 
 ---
 
-**[Bitcoin Is 'A CIA Operation,' Professor Jiang Says](https://finance.yahoo.com/markets/crypto/articles/bitcoin-cia-operation-professor-jiang-163104050.html)**
+**[Fold Launches 'Bitcoin Bonus' Program for Employers Following Steak 'n Shake Debut](https://finance.yahoo.com/markets/crypto/articles/fold-launches-bitcoin-bonus-program-175154687.html)**
 
-Bitcoin is a U.S. intelligence surveillance tool, well-followed Beijing-based high school history teacher and YouTuber Jiang Xueqin says. "[Bitcoin] is a CIA operation," Jiang, better known as "Professor Jiang," said on an episode of the "Jack Neel" podcast released on...
+Publicly traded Bitcoin services firm Fold is rolling out a program to let companies grant employees bonuses in crypto.
 
-Yahoo Finance • 51m ago
-
----
-
-**[Bitcoin’s $80,000 Target Remains Elusive Amid New US-China Tensions](https://finance.yahoo.com/markets/crypto/articles/bitcoin-80-000-target-remains-162951504.html)**
-
-Bitcoin trades near $78,000 as the White House accuses China of industrial-scale AI theft weeks before Trump-Xi summit.
-
-Yahoo Finance • 52m ago
+Yahoo Finance • 50m ago
 
 ---
 
-**[Bitcoin Price Tops $78,000 to Hit 11-Week High. XRP, Ethereum, Cryptos Surging.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-cryptos-f690b700)**
+**[Kevin O’Leary reveals the only two cryptocurrencies he says are worth owning](https://www.foxbusiness.com/media/kevin-oleary-reveals-only-two-cryptocurrencies-he-says-worth-owning)**
 
-Barron's • 1d ago
+Kevin O'Leary says bitcoin and Ethereum are the only cryptos worth owning, as institutional money reshapes the digital asset market landscape.
 
----
-
-**[Push to Unwind Bitcoin Hoarder Shows Once-Hot Trade Failing](https://www.bloomberg.com/news/articles/2026-04-23/push-to-unwind-bitcoin-hoarder-shows-once-hot-trade-collapsing)**
-
-Bloomberg.com • 2h ago
+Fox Business • 1d ago
 
 ---
 
-**[The $145 billion math: Why bitcoin’s quantum threat is manageable, not existential](https://www.coindesk.com/markets/2026/04/23/the-usd145-billion-math-why-bitcoin-s-quantum-threat-is-manageable-not-existential)**
+**[Current price of Bitcoin for April 22, 2026](https://fortune.com/article/price-of-bitcoin-04-22-2026/)**
 
-Quantum fears focus on vulnerable early wallets, but market data suggests even a worst case sell-off would be large, not catastrophic.Quantum fears focus on vulnerable early wallets, but market data suggests even a worst case sell-off would be large, not catastrophic.
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-CoinDesk • 3h ago
+Fortune • 1d ago
+
+---
+
+**[Is Owning Just Bitcoin and Ethereum Enough for a Crypto Portfolio?](https://www.fool.com/investing/2026/04/23/is-owning-just-bitcoin-and-ethereum-enough-for-a-c/)**
+
+Simple portfolios can often outperform overly complicated ones.
+
+The Motley Fool • 7h ago
+
+---
+
+**[Chinese crypto tycoon eyes Hong Kong capital with bitcoin asset management push](https://www.reuters.com/world/asia-pacific/chinese-crypto-tycoon-eyes-hong-kong-capital-with-bitcoin-asset-management-push-2026-04-22/)**
+
+Reuters • 1d ago
+
+---
+
+**[FBI Director Kash Patel To Speak at Bitcoin 2026 Conference About “Ending the War on Bitcoin”](https://bitcoinmagazine.com/conference/fbi-director-kash-patel-to-speak-at-bitcoin-2026-conference-about-ending-the-war-on-bitcoin)**
+
+The panel features FBI Director Kash Patel, Deputy Attorney General Todd Blanche, and Coinbase Chief Legal Officer Paul Grewal.
+
+Bitcoin Magazine • 2mo ago
 
 ---
 
@@ -237,7 +237,7 @@ CoinDesk • 3h ago
 
 The U.S. military is actively running a Bitcoin node and testing the protocol’s cryptographic architecture as a tool for securing and protecting networks, according to INDOPACOM commander Admiral Samuel Paparo.
 
-⬆️ 5 • 💬 0 • 5h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/news/the-us-military-is-running-a-bitcoin-node)
+⬆️ 5 • 💬 0 • 7h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/news/the-us-military-is-running-a-bitcoin-node)
 
 ---
 
@@ -259,7 +259,7 @@ The global economic system is evolving: The left wants to redistribute. The righ
 
 Neha Narula
 
-⬆️ 3 • 💬 2 • 2d ago • [nehanarula.org](https://nehanarula.org/2026/04/20/bitcoin-and-quantum-a-roadmap.html)
+⬆️ 3 • 💬 2 • 3d ago • [nehanarula.org](https://nehanarula.org/2026/04/20/bitcoin-and-quantum-a-roadmap.html)
 
 ---
 
@@ -273,7 +273,7 @@ Part one explained the physics of quantum computing. This piece explains the tar
 
 **[Warren Buffett: Why Stocks Beat Gold, Bonds and Bitcoin (2018)](https://news.ycombinator.com/item?id=47875151)**
 
-⬆️ 2 • 💬 0 • 4h ago • [acquirersmultiple.com](https://acquirersmultiple.com/2018/01/warren-buffett-why-stocks-beat-gold-bonds-and-bitcoin/)
+⬆️ 2 • 💬 0 • 5h ago • [acquirersmultiple.com](https://acquirersmultiple.com/2018/01/warren-buffett-why-stocks-beat-gold-bonds-and-bitcoin/)
 
 ---
 
@@ -281,7 +281,7 @@ Part one explained the physics of quantum computing. This piece explains the tar
 
 A senior US military commander has lauded Bitcoin as a “valuable computer science tool,” arguing its usefulness extends beyond monetary applications and can support US national security interests.“It is a valuable computer science tool, as a power projection,” Admiral Samuel Paparo said at a Senate…
 
-⬆️ 1 • 💬 0 • 17h ago • [TradingView](https://www.tradingview.com/news/cointelegraph:fd4c50ad7094b:0-us-admiral-calls-bitcoin-an-instrument-for-us-power-projection/)
+⬆️ 1 • 💬 0 • 18h ago • [TradingView](https://www.tradingview.com/news/cointelegraph:fd4c50ad7094b:0-us-admiral-calls-bitcoin-an-instrument-for-us-power-projection/)
 
 ---
 
@@ -317,7 +317,7 @@ Bitcoin is entering a real supply shock and most people still don't see it. Mich
 
 📺 Simply Bitcoin
 
-👁️ 28K • 👍 2K • 💬 223 • ⏱️ 17:24 • 18h ago
+👁️ 29K • 👍 2K • 💬 230 • ⏱️ 17:24 • 20h ago
 
 ---
 
@@ -327,7 +327,7 @@ Ran breaks down a pivotal moment in markets, starting with Trump's indefinite ce
 
 📺 Crypto Banter
 
-👁️ 29K • 👍 2K • 💬 63 • ⏱️ 25:29 • 1d ago
+👁️ 30K • 👍 2K • 💬 64 • ⏱️ 25:29 • 1d ago
 
 ---
 
@@ -337,7 +337,7 @@ Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=Al
 
 📺 Altcoin Daily
 
-👁️ 63K • 👍 3K • 💬 196 • ⏱️ 12:24 • 1d ago
+👁️ 64K • 👍 3K • 💬 197 • ⏱️ 12:24 • 1d ago
 
 ---
 
@@ -347,27 +347,17 @@ Bitcoin is in a bull market right now. Anthony Pompliano breaks down the data �
 
 📺 Anthony Pompliano
 
-👁️ 72K • 👍 3K • 💬 202 • ⏱️ 16:35 • 1d ago
+👁️ 74K • 👍 3K • 💬 202 • ⏱️ 16:35 • 1d ago
 
 ---
 
-**[BITCOIN IS PUMPING BECAUSE OF THIS!! BEWARE THE TRAP THAT HAPPENS EVERY YEAR!](https://www.youtube.com/watch?v=xxkpuvHGo0c)**
+**[Why Bitcoin is Actually Pumping 🤔](https://www.youtube.com/watch?v=4HIwAxBJ0es)**
 
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
+The REAL REASON Bitcoin is pumping... ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily BTC Conference 2026 ...
 
-📺 My Financial Friend
+📺 Altcoin Daily
 
-👁️ 9K • 👍 499 • 💬 148 • ⏱️ 15:25 • 1d ago
-
----
-
-**[Bitcoin is at a MAJOR Turning Point!](https://www.youtube.com/watch?v=p4OEoUJYqas)**
-
-Bitcoin is at a MAJOR Turning Point! Sentiment / 4 year cycle Could the bottom be in already? TA & Live Trades Get the CF Cycle ...
-
-📺 Camel Finance
-
-👁️ 6K • 👍 496 • 💬 114 • ⏱️ 17:39 • 7h ago
+👁️ 4K • 👍 185 • 💬 1 • ⏱️ 0:53 • 6h ago
 
 ---
 
@@ -377,27 +367,7 @@ Saylor's BTC target, Ethereum, Tesla, flying cars, VC exit liquidity, and more B
 
 📺 Lark Davis
 
-👁️ 9K • 👍 584 • 💬 47 • ⏱️ 18:53 • 7h ago
-
----
-
-**[4-Star Admiral Leaked the U.S. Bitcoin Strategy. PAYMENTS!](https://www.youtube.com/watch?v=7TmkZEcsIf8)**
-
-ADMIRAL Samuel Paparo confirms the USA is running a Bitcoin node. Also, Scott Bessent admits america MUST pass the Clarity ...
-
-📺 Digital Asset News
-
-👁️ 19K • 👍 1K • 💬 103 • ⏱️ 25:03 • 21h ago
-
----
-
-**[Bitcoin Bear Flag Tells Us EVERYTHING!](https://www.youtube.com/watch?v=IY1HsOLpNFE)**
-
-Nick Valdez looks at the latest bear flag on Bitcoin's daily chart and notices something HUGE. Bitcoin likes to repeat bear flag ...
-
-📺 Discover Crypto
-
-👁️ 6K • 👍 323 • 💬 29 • ⏱️ 4:42 • 19h ago
+👁️ 12K • 👍 658 • 💬 52 • ⏱️ 18:53 • 8h ago
 
 ---
 
@@ -407,7 +377,37 @@ Save the date for November 3-5, 2026 at Murrieta Hot Springs Resort and get your
 
 📺 Brian Harrington
 
-👁️ 8K • 👍 405 • 💬 80 • ⏱️ 10:47 • 1d ago
+👁️ 8K • 👍 433 • 💬 83 • ⏱️ 10:47 • 1d ago
+
+---
+
+**[4-Star Admiral Leaked the U.S. Bitcoin Strategy. PAYMENTS!](https://www.youtube.com/watch?v=7TmkZEcsIf8)**
+
+ADMIRAL Samuel Paparo confirms the USA is running a Bitcoin node. Also, Scott Bessent admits america MUST pass the Clarity ...
+
+📺 Digital Asset News
+
+👁️ 20K • 👍 1K • 💬 102 • ⏱️ 25:03 • 23h ago
+
+---
+
+**[Bitcoin &amp; Gold](https://www.youtube.com/watch?v=Q67V1CJQLdA)**
+
+Into The Cryptoverse Premium: https://intothecryptoverse.com For inquiries and to subscribe to the monthy newsletter (free): ...
+
+📺 Benjamin Cowen
+
+👁️ 15K • 👍 276 • 💬 2 • ⏱️ 0:47 • 23h ago
+
+---
+
+**[HUGE: US Military Confirms Bitcoin Role in National Security](https://www.youtube.com/watch?v=zCVVC72bFcs)**
+
+This Is HUGE: US Military Confirms Bitcoin Role in National Security Crypto Fund Trader ...
+
+📺 Altcoin Daily
+
+👁️ 28K • 👍 2K • 💬 118 • ⏱️ 12:13 • 19h ago
 
 ---
 
