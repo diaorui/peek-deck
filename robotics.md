@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-23T08:19:47.654959+00:00'
+updated: '2026-04-23T10:05:46.785734+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 23, 2026 at 08:19 UTC  
+**Last Updated:** April 23, 2026 at 10:05 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Unitree robot just unlocked ballet mode](https://www.reddit.com/r/robotics/comments/1ssqud8/unitree_robot_just_unlocked_ballet_mode/)**
 
-15h ago
+17h ago
 
 ---
 
@@ -42,13 +42,13 @@ Robotics research and industry news
 
 We've been optimizing the hardware over the last few weeks. Today we tested the new policy on the updated hardware. It works way better! The sim2real transfer improved. We're open-sourcing the full mechanical design in a few days so you can source the parts yourself or pre-order the DIY kit at cost. Full specs & build guide: https://manual.asimov.inc/v1
 
-18h ago
+20h ago
 
 ---
 
 **[MyActuator RMD-X10s sounding real bad, but appear to be moving just fine. Not much experience with these… Any ideas?](https://www.reddit.com/r/robotics/comments/1st82mb/myactuator_rmdx10s_sounding_real_bad_but_appear/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -56,7 +56,7 @@ We've been optimizing the hardware over the last few weeks. Today we tested the 
 
 I’ve finished assembling the abdomen, completing the upper body structure. More in depth video is coming soon on youtube diy.mrbuilder
 
-20h ago
+21h ago
 
 ---
 
@@ -64,7 +64,7 @@ I’ve finished assembling the abdomen, completing the upper body structure. Mor
 
 Was working on my routine tinkering without a specific objective or idea. And this motion object came up. Does it resemble with anything? what would you call to such motion? where can it be helpful? Your inputs may help fine tune and turn it into something useful.
 
-23h ago
+1d ago
 
 ---
 
@@ -72,15 +72,7 @@ Was working on my routine tinkering without a specific objective or idea. And th
 
 A major barrier for Embodied AI is the latency-precision trade-off. Running a 7B policy usually requires an A100 cluster to stay "reactive," or you end up with choppy 1Hz control that misses dynamic targets. I’ve released FastVLA, a library designed to bring high-parameter policies to closed-loop control on budget cloud hardware (NVIDIA L4). Key Performance Data: Control Frequency: 5.04 Hz (198ms latency) — a 7.16x speedup over the 1420ms baseline. Mechanical Precision: Reduced mean L2 action error from 28.5px to 12.4px by moving to continuous regression heads. Benchmark: Validated on the PushT benchmark, including a new Arabic-PushT variant to test linguistic robustness in action spaces. By optimizing the kernels and memory footprint (4.45GB Peak VRAM), we can now run reactive robots without the "Compute Tax." GitHub/Documentation: https://github.com/BouajilaHamza/fastvla
 
-11h ago
-
----
-
-**[The Guardian: AI-powered robot beats elite table tennis players](https://www.reddit.com/r/robotics/comments/1ssyhq3/the_guardian_aipowered_robot_beats_elite_table/)**
-
-The feat has been hailed as a milestone for robotics, a field that has long seen table tennis – and the lightning-fast reactions, perception and skill it demands – as one of the toughest tests of how far the technology has advanced. In the matches, played under official competition rules, Ace displayed a mastery of spin, handled difficult shots, such as balls catching on the net, and pulled off one rapid backspin shot that a professional had thought impossible. A research paper on the robot was published in Nature on Wednesday, but scientists working on the project said Ace had improved since the report was submitted. “We played stronger and stronger players and we beat stronger and stronger players,” said Peter Dürr, the director of Sony AI in Zurich and project lead for Ace. AI researchers use games from chess and go, to poker and Breakout to teach programs on how to make decisions in complex situations. Building an intelligent robot takes the challenge to the next level by requiring the machine to enact decisions effectively. Ace sidesteps some tricky aspects of table tennis by having an eight-jointed arm on a movable base that does not have to stand on two legs. And instead of seeing the ball with two eyes, it draws on images from multiple cameras that view the entire court from different angles and track the position and spin of the ball. By zooming in on the ball’s logo, the camera system can estimate the ball’s spin and axis of rotation in the milliseconds it takes to reach Ace’s end of the table. How to deal with spin, and which shots to play, were honed during 3,000 hours of games played in a computer simulation. Other skills, such as serves, were drawn from those used by expert players.
-
-🔗 [the Guardian](https://www.theguardian.com/science/2026/apr/22/ai-powered-robot-beats-elite-table-tennis-players-milestone-robotics) • 11h ago
+13h ago
 
 ---
 
@@ -88,7 +80,15 @@ The feat has been hailed as a milestone for robotics, a field that has long seen
 
 Bren Pierce, CEO of Kinisi Robotics, described a common pattern in robotics: most systems can reach about 80% of the way to working reliably, but the remaining 20% is still unresolved and not clearly understood. That final stretch is where systems have to deal with variability, edge cases, and real-world conditions that are difficult to predict or model. It is also where there is still no clear agreement on how to move forward. He talks about being at the Conference on Robot Learning (CoRL), and how researchers working across robotics and AI could not align on a single approach. Reinforcement learning, imitation learning, and the possibility of entirely new architectures are all still being debated, with no consensus on what will ultimately solve the problem.
 
-14h ago
+16h ago
+
+---
+
+**[The Guardian: AI-powered robot beats elite table tennis players](https://www.reddit.com/r/robotics/comments/1ssyhq3/the_guardian_aipowered_robot_beats_elite_table/)**
+
+The feat has been hailed as a milestone for robotics, a field that has long seen table tennis – and the lightning-fast reactions, perception and skill it demands – as one of the toughest tests of how far the technology has advanced. In the matches, played under official competition rules, Ace displayed a mastery of spin, handled difficult shots, such as balls catching on the net, and pulled off one rapid backspin shot that a professional had thought impossible. A research paper on the robot was published in Nature on Wednesday, but scientists working on the project said Ace had improved since the report was submitted. “We played stronger and stronger players and we beat stronger and stronger players,” said Peter Dürr, the director of Sony AI in Zurich and project lead for Ace. AI researchers use games from chess and go, to poker and Breakout to teach programs on how to make decisions in complex situations. Building an intelligent robot takes the challenge to the next level by requiring the machine to enact decisions effectively. Ace sidesteps some tricky aspects of table tennis by having an eight-jointed arm on a movable base that does not have to stand on two legs. And instead of seeing the ball with two eyes, it draws on images from multiple cameras that view the entire court from different angles and track the position and spin of the ball. By zooming in on the ball’s logo, the camera system can estimate the ball’s spin and axis of rotation in the milliseconds it takes to reach Ace’s end of the table. How to deal with spin, and which shots to play, were honed during 3,000 hours of games played in a computer simulation. Other skills, such as serves, were drawn from those used by expert players.
+
+🔗 [the Guardian](https://www.theguardian.com/science/2026/apr/22/ai-powered-robot-beats-elite-table-tennis-players-milestone-robotics) • 12h ago
 
 ---
 
@@ -96,7 +96,7 @@ Bren Pierce, CEO of Kinisi Robotics, described a common pattern in robotics: mos
 
 I buy both the HM-D20 and UM960 quadrifilar helix modules for testing, aiming to determine which one could help my drone achieve precise positioning. After testing, I found that both modules deliver comparable performance. Has anyone conducted more extensive tests? I'd appreciate it if you could share your findings with me.
 
-17h ago
+18h ago
 
 ---
 
@@ -128,9 +128,19 @@ HII • 2d ago
 
 ---
 
-**[Tesla lifts 2026 spending plans by a quarter as Musk funds AI and robotic dreams](https://www.reuters.com/business/autos-transportation/tesla-revenue-misses-estimates-demand-weakens-2026-04-22/)**
+**[A Spark Capital VC says the AI boom is creating a new kind of gig worker](https://www.businessinsider.com/spark-capital-vc-nabeel-hyatt-robotics-reshaping-gig-economy-2026-4)**
 
-Reuters • 12h ago
+Spark Capital VC Nabeel Hyatt explains why AI needs human data and shares how robotics could reshape jobs and the future of gig work
+
+Business Insider • 1h ago
+
+---
+
+**[Tesla Beats First-Quarter Expectations Amid Pivot To Robotics, AI](https://www.forbes.com/sites/aliciapark/2026/04/22/tesla-beats-first-quarter-expectations-amid-business-pivot-to-robotics-ai/)**
+
+The automaker said demand for its vehicles has rebounded from recent declines .
+
+Forbes • 13h ago
 
 ---
 
@@ -138,7 +148,7 @@ Reuters • 12h ago
 
 In feat hailed as milestone in robotics, Sony AI’s Ace wins three out of five matches played under official rules
 
-The Guardian • 6h ago
+The Guardian • 8h ago
 
 ---
 
@@ -146,15 +156,15 @@ The Guardian • 6h ago
 
 Sony’s ‘Ace’ defeats elite players, highlighting how AI is improving machines’ abilities to interact with people
 
-Financial Times • 17h ago
+Financial Times • 19h ago
 
 ---
 
-**[Watch an AI-powered table tennis robot beat elite players](https://www.livescience.com/technology/robotics/watch-an-ai-based-table-tennis-robot-beat-elite-players)**
+**[Advanced AI-powered table-tennis-playing robot can match up to the professionals — watch it in action](https://www.livescience.com/technology/robotics/watch-an-ai-based-table-tennis-robot-beat-elite-players)**
 
 Using high-precision cameras and an AI system, Sony AI's Ace is revealing the advancements robotics.
 
-Live Science • 17h ago
+Live Science • 19h ago
 
 ---
 
@@ -168,21 +178,13 @@ The New York Times • 3d ago
 
 The IDF has ramped up its use of robots in warfare against Hezbollah in Bint Jbail, accelerating the destruction of weapons infrastructure as military operations intensify.
 
-The Jerusalem Post • 19h ago
+The Jerusalem Post • 21h ago
 
 ---
 
 **[Leaderdrive Sees Profit Climb on Boom in Chinese Humanoid Robots](https://www.bloomberg.com/news/articles/2026-04-23/leaderdrive-sees-profit-climb-on-boom-in-chinese-humanoid-robots)**
 
-Bloomberg.com • 7h ago
-
----
-
-**[Robotics company expands autonomous food delivery services to San Jose](https://www.ktvu.com/news/robotics-company-expands-autonomous-food-delivery-services-san-jose)**
-
-A Santa Monica-based tech company on Wednesday announced the launch of its autonomous food delivery service to the South Bay community.
-
-KTVU • 5h ago
+Bloomberg.com • 9h ago
 
 ---
 
@@ -206,7 +208,7 @@ For the first time, an AI-powered machine has bested elite-level athletes at a p
 
 📺 nature video
 
-👁️ 25K • 👍 509 • 💬 87 • ⏱️ 13:38 • 17h ago
+👁️ 25K • 👍 509 • 💬 87 • ⏱️ 13:38 • 19h ago
 
 ---
 
@@ -274,7 +276,7 @@ War Robots - This Vector has 30 seconds of Shield Breaker! In this video, I run 
 
 📺 Adrian Chong
 
-👁️ 4K • 👍 251 • 💬 51 • ⏱️ 16:35 • 19h ago
+👁️ 4K • 👍 251 • 💬 51 • ⏱️ 16:35 • 21h ago
 
 ---
 
@@ -284,7 +286,7 @@ The winner from Honor, a Chinese smartphone maker, completed the 21-kilometer (1
 
 📺 Associated Press
 
-👁️ 73K • 👍 336 • 💬 154 • ⏱️ 0:54 • 3d ago
+👁️ 73K • 👍 336 • 💬 154 • ⏱️ 0:54 • 4d ago
 
 ---
 

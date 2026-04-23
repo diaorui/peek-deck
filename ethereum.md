@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-23T08:19:47.651714+00:00'
+updated: '2026-04-23T10:05:46.782600+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
 - social
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 23, 2026 at 08:19 UTC  
+**Last Updated:** April 23, 2026 at 10:05 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,333.29
+### $2,320.00
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.9%  
-**7d:** -3.1%  
-**30d:** +8.1%  
-**90d:** -20.6%  
-**1y:** +32.6%  
+**24h:** -3.7%  
+**7d:** -4.6%  
+**30d:** +6.6%  
+**90d:** -21.7%  
+**1y:** +30.8%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+5h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Your daily crypto news briefing. Bitcoin, Ethereum, Solana and the stories that move markets.
 
-🔗 [bigcoinreport.com](https://bigcoinreport.com/analysis/ai-agents-crypto-payments-how-it-works) • 6h ago
+🔗 [bigcoinreport.com](https://bigcoinreport.com/analysis/ai-agents-crypto-payments-how-it-works) • 8h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I've taken your feedback to heart and built on top of it. Now it's finally ready for you to use! Over the past few months I've received invaluable feedback regarding ETour: 100% on-chain, skill-based, ETH-only tournament infrastructure. Inception Feedback Evolution This is 100% on-chain Web3 in practice. If you're curious then come compete, spectate, or ask me anything! If you're skeptical then come challenge my claims and prove me wrong! Browse the landing page https://etour.games Read the whitepapeer: https://etour.games/whitepaper Analyze the manual: https://etour.games/manual Study the docs https://etour.games/docs Join the discord https://discord.gg/9FfF2RNQV Looking forward to our discussions
 
-18h ago
+20h ago
 
 ---
 
@@ -156,9 +156,11 @@ Decrypt • 1d ago
 
 ---
 
-**[Bitcoin, XRP, Ethereum Defy Iran Tensions Hitting Stocks. Why Cryptos Are Rising.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-iran-54088134)**
+**[Is Anthropic's Mythos AI a Threat to Ethereum and Solana?](https://www.fool.com/investing/2026/04/23/is-anthropics-mythos-ai-a-threat-to-ethereum-and-s/)**
 
-Barron's • 18m ago
+An unreleased AI model is sending crypto into a panic, but it's only half relevant to the real ongoing problems.
+
+The Motley Fool • 38m ago
 
 ---
 
@@ -166,31 +168,13 @@ Barron's • 18m ago
 
 Ethereum price flashes a second bearish divergence within five weeks, but whale accumulation and funding flip may limit downside risk.
 
-Yahoo Finance • 57m ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Is Ethereum set for a breakout as Open Interest and bulls rise?](https://www.tradingview.com/news/invezz:514273167094b:0-is-ethereum-set-for-a-breakout-as-open-interest-and-bulls-rise/)**
+**[Bitcoin Price Rises Amid Iran Fear Hitting Stocks. Ethereum, XRP, Cryptos Fall.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-iran-54088134)**
 
-Bitcoin and Ethereum recorded gains earlier this week following an indefinite extension of the US ceasefire with Iran.Ethereum hit the $2,400 level on Wednesday but has now slightly retraced and is currently trading at $2,350 per coin.The coin could rally higher in the near term amid a recovery of…
-
-TradingView • 1h ago
-
----
-
-**[Kevin O’Leary reveals the only two cryptocurrencies he says are worth owning](https://www.foxbusiness.com/media/kevin-oleary-reveals-only-two-cryptocurrencies-he-says-worth-owning)**
-
-Kevin O'Leary says bitcoin and Ethereum are the only cryptos worth owning, as institutional money reshapes the digital asset market landscape.
-
-Fox Business • 15h ago
-
----
-
-**[1 Cryptocurrency to Buy Before It Goes Parabolic and Overtakes Ethereum's Market Cap](https://www.fool.com/investing/2026/04/22/1-cryptocurrency-to-buy-before-it-goes-parabolic/)**
-
-A growing company is expanding the utility of one of the most popular blockchains.
-
-The Motley Fool • 6h ago
+Barron's • 1h ago
 
 ---
 
@@ -198,15 +182,29 @@ The Motley Fool • 6h ago
 
 Core3 marks GSR's first crypto ETF offering amid a period of expansion for the major market maker and the wider crypto fund sector.
 
-The Block • 19h ago
+The Block • 21h ago
 
 ---
 
-**[Bitmine Makes Biggest Ethereum Purchase Of The Year](https://finance.yahoo.com/markets/crypto/articles/bitmine-makes-biggest-ethereum-purchase-133600099.html)**
+**[Bitcoin And Ethereum Outlook - Cryptos Break Out Of Bear Trends, But Will It Continue](https://seekingalpha.com/article/4893189-bitcoin-ethereum-outlook-cryptos-break-out-of-bear-trends-will-it-continue)**
 
-BitMine Immersion Technologies (NYSE: $BMNR) bought $230 million U.S. of Ethereum (CRYPTO: $ETH) over the past week...
+Bitcoin has reached $79,000 in daily trading. Ethereum broke through several major resistance levels, back to $2,400. So far cryptocurrencies have maintained a strong correlation with Nasdaq
 
-Yahoo Finance • 2d ago
+Seeking Alpha • 4h ago
+
+---
+
+**[Ethereum $250,000 Prediction Smashes Bitcoin and Gold as ‘Dead Capital’](https://www.tipranks.com/news/ethereum-250000-prediction-smashes-bitcoin-and-gold-as-dead-capital)**
+
+TipRanks • 20h ago
+
+---
+
+**[BitMine (BMNR) Now Owns 4% of All Ethereum and Is Closing In on 5%](https://finance.yahoo.com/markets/crypto/articles/bitmine-bmnr-now-owns-4-105549461.html)**
+
+BitMine Immersion Technologies, Inc. (NYSE:BMNR) is one of the best Ethereum stocks to buy now. On April 13, BitMine Immersion Technologies, Inc. (NYSE:BMNR) announced that its Ethereum holdings had reached 4,874,858 ETH. The company valued the tokens at about $10.7 billion at a price of $2,206 per token, and said that its combined crypto, cash, […]
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -236,7 +234,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 15K • 👍 419 • 💬 82 • ⏱️ 18:59 • 16h ago
+👁️ 15K • 👍 419 • 💬 82 • ⏱️ 18:59 • 17h ago
 
 ---
 
@@ -246,7 +244,7 @@ Thanks to Nexo for sponsoring this video. Get your welcome bonus to receive 30 d
 
 📺 Crypto Capital Venture
 
-👁️ 6K • 👍 441 • 💬 237 • ⏱️ 13:39 • 16h ago
+👁️ 6K • 👍 441 • 💬 237 • ⏱️ 13:39 • 18h ago
 
 ---
 
@@ -256,7 +254,7 @@ INSTITUTIONS GO FULL BULL: $1.3M Bitcoin and $250K Ethereum IS THE NEW TARGET! I
 
 📺 CryptoWendyO
 
-👁️ 4K • 👍 280 • 💬 16 • ⏱️ 16:01 • 14h ago
+👁️ 4K • 👍 280 • 💬 16 • ⏱️ 16:01 • 16h ago
 
 ---
 
@@ -266,7 +264,7 @@ BITCOIN & ALTCOIN SHORT SQUEEZE (Price Target)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 5K • 👍 297 • 💬 165 • ⏱️ 23:51 • 11h ago
+👁️ 5K • 👍 297 • 💬 165 • ⏱️ 23:51 • 13h ago
 
 ---
 
@@ -306,7 +304,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 347 • 👍 12 • ⏱️ 4:36 • 23h ago
+👁️ 347 • 👍 12 • ⏱️ 4:36 • 1d ago
 
 ---
 
@@ -316,7 +314,7 @@ DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! 
 
 📺 Krypto Trading & Investing
 
-👁️ 3K • 👍 531 • 💬 60 • ⏱️ 10:45 • 4h ago
+👁️ 3K • 👍 531 • 💬 60 • ⏱️ 10:45 • 6h ago
 
 ---
 
@@ -324,7 +322,7 @@ DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! 
 
 📺 Digital Asset Investor
 
-👁️ 8K • 👍 410 • ⏱️ 1:36 • 21h ago
+👁️ 8K • 👍 410 • ⏱️ 1:36 • 23h ago
 
 ---
 

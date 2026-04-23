@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-23T08:19:47.636998+00:00'
+updated: '2026-04-23T10:05:46.767979+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
 - social
 - videos
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 23, 2026 at 08:19 UTC  
+**Last Updated:** April 23, 2026 at 10:05 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 A federal judge ruled that your AI conversations can be seized and used against you in court — and deleting them doesn't help. **The Heppner case (February 2026):** - Former CEO Bradley Heppner used Claude to prep his fraud defense - Judge Jed Rakoff ordered him to surrender 31 AI-generated documents - Ruling: no attorney-client privilege exists "or could exist" between a user and an AI platform **The Krafton case:** - A CEO used ChatGPT to plan how to avoid paying promised earnout payments - He deleted the conversations - The court recovered them anyway and reversed his decisions **The contradiction:** - Same day as Rakoff's ruling, a Michigan judge reached the opposite conclusion - Protected a woman's ChatGPT chats as personal "work product" - A Colorado court later sided with Michigan but added: you must disclose which AI tool you used **The fallout:** - 12+ major law firms have issued client AI warnings - Sher Tremonte added contract clauses that sharing privileged info with AI waives privilege - Both OpenAI and Anthropic privacy policies explicitly allow sharing user data with third parties - $145,000+ in sanctions against attorneys for AI citation errors in Q1 2026 alone **The bottom line:** - Your AI is not your lawyer and never was - Deleting chats doesn't delete the data from their servers - Consumer AI (ChatGPT, Claude, Gemini) should not be used for legal matters unless directed by counsel Full breakdown with source links → https://synvoya.com/blog/2026-04-23-ai-chats-court-evidence/ Have you ever typed something into ChatGPT that you wouldn't want a judge to read?
 
-6h ago
+8h ago
 
 ---
 
@@ -49,7 +49,7 @@ A federal judge ruled that your AI conversations can be seized and used against 
 
 AI doesn't invent bias, it codifies it. When you walk away from the tools you don't agree with, you leave them to be influenced by the people you disagree with most. Abstention isn't neutrality. It's choosing to be invisible in the algorithms.
 
-🔗 [kitchencloset.com](https://kitchencloset.com/realstuff/essays/ethics_of_staying_in_the_room/) • 10h ago
+🔗 [kitchencloset.com](https://kitchencloset.com/realstuff/essays/ethics_of_staying_in_the_room/) • 12h ago
 
 ---
 
@@ -57,13 +57,13 @@ AI doesn't invent bias, it codifies it. When you walk away from the tools you do
 
 I have noticed that AI tools make it very easy to come up with a lot of ideas or ways to do things very quickly. For example, if you are working on a side project or even just a simple plan, you can now come up with a lot of different ideas in a matter of minutes instead of spending hours thinking about one. At first, it look like a clear way to get more done. But in reality, it often leads to a different kind of work, like looking over outputs, weighing options and deciding what is really worth doing. Sometimes, that decision layer feels like more work than the work itself. So instead of taking away work, it looks like AI is moving it from making things to choosing things. I am interested in how other people are dealing with this. Do you think AI is really saving time or is it just shifting the work?
 
-3h ago
+5h ago
 
 ---
 
 **[Meta will record employee screens, clicks, and keystrokes to train AI that may replace them](https://www.reddit.com/r/artificial/comments/1ssty5s/meta_will_record_employee_screens_clicks_and/)**
 
-🔗 [techspot.com](https://www.techspot.com/news/112143-meta-record-employee-screens-clicks-keystrokes-train-ai.html) • 13h ago
+🔗 [techspot.com](https://www.techspot.com/news/112143-meta-record-employee-screens-clicks-keystrokes-train-ai.html) • 15h ago
 
 ---
 
@@ -71,7 +71,7 @@ I have noticed that AI tools make it very easy to come up with a lot of ideas or
 
 Acabo de publicar una presentación de CTNet y quería compartirla aquí para recibir feedback serio. CTNet propone una arquitectura en la que el cálculo no se organiza como simple reescritura sucesiva de representaciones, sino como transición gobernada de un estado persistente. Dentro de esa dinámica entran memoria reentrante, régimen de cómputo, admisibilidad, coherencia multiescala, cartas locales y salida proyectiva. La intuición central es esta: la salida no agota el proceso; emerge como una proyección de un fondo computacional más rico. Ahora mismo estoy presentando la arquitectura, su formalización y su toy model canónico. El objetivo de esta publicación no es vender un sistema cerrado, sino exponer una propuesta arquitectónica con ambición real y abrir conversación con gente que piense en arquitectura, teoría del cómputo, DL, memoria, routing, razonamiento, orden y sistemas. He dejado la publicación de LinkedIn aquí: Publicación Linkdln Me interesa especialmente feedback de gente que pueda atacar la idea en serio: — consistencia arquitectónica — implicaciones computacionales — relación con transformers, SSMs, MoE, memoria y modelos recurrentes — límites teóricos o prácticos — posibles direcciones de desarrollo No busco aplauso fácil. Busco crítica fuerte y gente potente.
 
-7h ago
+9h ago
 
 ---
 
@@ -79,7 +79,7 @@ Acabo de publicar una presentación de CTNet y quería compartirla aquí para re
 
 I've been building this repo public since day one, roughly 7 weeks now with Claude Code. Here's where it's at. Feels good to be so close. The short version: AIPass is a local CLI framework where AI agents have persistent identity, memory, and communication. They share the same filesystem, same project, same files - no sandboxes, no isolation. pip install aipass, run two commands, and your agent picks up where it left off tomorrow. You don't need 11 agents to get value. One agent on one project with persistent memory is already a different experience. Come back the next day, say hi, and it knows what you were working on, what broke, what the plan was. No re-explaining. That alone is worth the install. What I was actually trying to solve: AI already remembers things now - some setups are good, some are trash. That part's handled. What wasn't handled was me being the coordinator between multiple agents - copying context between tools, keeping track of who's doing what, manually dispatching work. I was the glue holding the workflow together. Most multi-agent frameworks run agents in parallel, but they isolate every agent in its own sandbox. One agent can't see what another just built. That's not a team. That's a room full of people wearing headphones. So the core idea: agents get identity files, session history, and collaboration patterns - three JSON files in a .trinity/ directory. Plain text, git diff-able, no database. But the real thing is they share the workspace. One agent sees what another just committed. They message each other through local mailboxes. Work as a team, or alone. Have just one agent helping you on a project, party plan, journal, hobby, school work, dev work - literally anything you can think of. Or go big, 50 agents building a rocketship to Mars lol. Sup Elon. There's a command router (drone) so one command reaches any agent. pip install aipass aipass init aipass init agent my-agent cd my-agent claude codex or gemini too, mostly claude code tested rn Where it's at now: 11 agents, 4,000+ tests, 400+ PRs (I know), automated quality checks across every branch. Works with Claude Code, Codex, and Gemini CLI. It's on PyPI. Tonight I created a fresh test project, spun up 3 agents, and had them test every service from a real user's perspective - email between agents, plan creation, memory writes, vector search, git commits. Most things just worked. The bugs I found were about the framework not monitoring external projects the same way it monitors itself. Exactly the kind of stuff you only catch by eating your own dogfood. Recent addition I'm pretty happy with: watchdog. When you dispatch work to an agent, you used to just... hope it finished. Now watchdog monitors the agent's process and wakes you when it's done - whether it succeeded, crashed, or silently exited without finishing. It's the difference between babysitting your agents and actually trusting them to work while you do something else. 5 handlers, 130 tests, replaced a hacky bash one-liner. Coming soon: an onboarding agent that walks new users through setup interactively - system checks, first agent creation, guided tour. It's feature-complete, just in final testing. Also working on automated README updates so agents keep their own docs current without being told. I'm a solo dev but every PR is human-AI collaboration - the agents help build and maintain themselves. 105 sessions in and the framework is basically its own best test case. https://github.com/AIOSAI/AIPass
 
-2h ago
+4h ago
 
 ---
 
@@ -87,7 +87,7 @@ I've been building this repo public since day one, roughly 7 weeks now with Clau
 
 I’m pretty new to AI and my notifications seemed on point for the current state of things. But this feels more polarized than any recent tech I’ve followed. A lot of discussion seems to fall into two camps, either AI is dangerous and needs to be stopped or AI is amazing and needs to get more powerful. I’m curious how much focus is actually going into user experience and behavior, making systems feel genuinely intelligent and useful, rather than just scaling up model size and parameters. It seems like there’s still a lot of untapped potential in improving smaller models through better structure, interaction design, and system-level improvements, not just making them bigger. Are people actively working on that side of things, or is most of the effort still going into scaling?
 
-4h ago
+6h ago
 
 ---
 
@@ -103,7 +103,7 @@ I mean a)The majority of articles on the internet are written by AIs b) 4 of the
 
 I personally think it’s either AlphaGo or ChatGPT. AlphaGo showed to the whole world that AIs can be better than its creators in an area that people believed needed ‘intuition’. Most people don’t know go, but it somewhat showed the potential of AI to the world. DeepBlue was also kinda similar to it, but for some reason most people don’t think DeepBlue as “An AI that beat human at chess”, so I’m not counting it. ChatGPT was… on a different level. It was looked as revolutionary that a program can fluently speak and help solve problems it doesn’t specialize in. It made most people use AI in their everyday lives, so definitely takes the cake imo. Edit: Ig the transformers was also very important, (literally why chatgpt was able to exist lol) but a layperson doesn’t know what that is nor why that matters, so…
 
-17h ago
+19h ago
 
 ---
 
@@ -111,7 +111,7 @@ I personally think it’s either AlphaGo or ChatGPT. AlphaGo showed to the whole
 
 We are entering a phase where AI adoption metrics at large companies look good on paper, but a new problem is quietly forming: nobody actually knows how to govern the agents that are being deployed. Here is the maturity curve as I see it: Stage 1: Experimentation. Teams spin up a few agents, see results, get excited. Stage 2: Proliferation. Agents spread across departments. Sales has one. Support has three. Marketing is running five. DevOps is testing two. Stage 3: Chaos. Nobody knows which agents are active, what instructions they are running, who owns them, whether any are duplicating effort, or whether the configs are current. Most mid-to-large enterprises with serious AI programs are hitting Stage 3 right now. The tooling for Stage 3 does not really exist yet. Some of the symptoms I keep seeing: - Customer-facing agents running system prompts that were written 8 months ago and never reviewed - Multiple teams independently building agents to solve the same problem because there is no central inventory - Agents that were stood up for a pilot and never decommissioned, still consuming credits and occasionally responding to real users - No audit trail when something goes wrong. Did the agent say that because the model hallucinated or because someone changed the instructions last Tuesday? The build-side tooling (LangChain, LangGraph, Claude, etc.) is excellent and getting better. The run-side tooling for AI directors and heads of AI who need to actually manage a fleet of agents in production is almost nonexistent. We are working on this at Caliber. We gave the community an open source repo as a foundation for structured AI agent setup (link in comments). And if you are in an AI leadership role trying to navigate this transition, the newsletter at caliber-ai.dev covers exactly this operational layer.
 
-56m ago
+2h ago
 
 ---
 
@@ -121,21 +121,21 @@ We are entering a phase where AI adoption metrics at large companies look good o
 
 **[Anthropic’s New Mythos A.I. Model Sets Off Global Alarms](https://www.nytimes.com/2026/04/22/technology/anthropics-mythos-ai.html)**
 
-The New York Times • 18h ago
+The New York Times • 14h ago
+
+---
+
+**[Anthropic looks to hire six-figure role for negotiating data center deals to fuel Europe AI expansion](https://www.cnbc.com/2026/04/23/anthropic-ai-europe-data-center-capacity-role.html)**
+
+U.S. tech giants have announced huge infrastructure expenditure in 2026 as they look to scale the deployment of AI.
+
+CNBC • 42m ago
 
 ---
 
 **[Anthropic: No "kill switch" for AI in classified settings](https://www.axios.com/2026/04/22/anthropic-no-kill-switch-ai-classified-settings)**
 
-Axios • 1h ago
-
----
-
-**[Anthropic investigates report of rogue access to hack-enabling Mythos AI](https://www.theguardian.com/technology/2026/apr/22/anthropic-investigates-report-of-rogue-access-to-hack-enabling-mythos-ai)**
-
-‘Handful’ of people allegedly gain unauthorised access to model adept at detecting cybersecurity vulnerabilities
-
-The Guardian • 23h ago
+Axios • 9h ago
 
 ---
 
@@ -143,55 +143,51 @@ The Guardian • 23h ago
 
 The former prime minister said graduates' concerns about getting entry-level jobs are justified.
 
-BBC • 1h ago
+BBC • 3h ago
 
 ---
 
-**[Tesla reports mixed financial results as Musk pivots automaker to AI and robots](https://www.theguardian.com/technology/2026/apr/22/tesla-first-quarter-report-earnings)**
+**[We're former Google coworkers who raised $4.5M for an AI startup. We didn't build a big team — we built fast instead.](https://www.businessinsider.com/former-google-coworkers-raise-millions-ai-startup-tiny-team-2026-4)**
 
-Figures fail to significantly buoy stock as firm admits ‘significant effort and hard work’ needed to achieve goals
+After meeting at Google, two friends reunited years later. They built a six-person AI startup, moved fast, and raised $4.5 million in seed funding.
 
-The Guardian • 11h ago
-
----
-
-**[Tesla boosts spending plans to $25bn as Elon Musk doubles down on AI bet](https://www.ft.com/content/7ce83108-9f2d-48b4-8ce1-28865045bd67)**
-
-CEO warns investors to expect ‘very significant’ spending increase on self-driving taxis, trucks, robots and chip factories
-
-Financial Times • 11h ago
+Business Insider • 54m ago
 
 ---
 
-**[Tesla Boosts Spending to $25B as Musk Doubles Down on AI and Robotics](https://www.yahoo.com/entertainment/videos/tesla-boosts-spending-25b-musk-074500373.html)**
+**[Merck’s new AI commercial strategy ‘reimagining engagement with HCPs’](https://www.fiercepharma.com/marketing/mercks-new-ai-commercial-strategy-reimagining-engagement-hcps)**
 
-Tesla is ramping up its future bets, increasing its 2026 spending plan to over $25 billion as CEO Elon Musk pushes deeper into artificial intelligence, robotics, and chip development.
+Merck & Co.’s $1 billion deal with Google Cloud is seeking to bolster its AI credentials—and the U.S. Big Pharma has some big plans for its commercial teams.  | Merck & Co.’s $1 billion deal with Google Cloud is seeking to bolster its AI credentials—and the U.S. Big Pharma has some big plans for its commercial teams.
 
-Yahoo • 34m ago
-
----
-
-**[The Age of AI means we need to throw out our old KPIs and replace them with new ones](https://www.fastcompany.com/91521422/ai-kpis-new-metrics)**
-
-Here’s a blueprint.
-
-Fast Company • 12m ago
+Fierce Pharma • 2h ago
 
 ---
 
-**[The starter home is dying. Better.com’s CEO says AI is the only thing that can save it](https://fortune.com/2026/04/23/better-vishal-garg-mortgage-rate-ai-starter-home/)**
+**[Ping-pong robot Ace makes history by beating top-level human players](https://www.reuters.com/sports/ping-pong-robot-ace-makes-history-by-beating-top-level-human-players-2026-04-22/)**
 
-Better.com CEO Vishal Garg said AI can service the low mortgages loan officers avoid.
-
-Fortune • 1h ago
+Reuters • 19h ago
 
 ---
 
-**[Introducing workspace agents in ChatGPT](https://openai.com/index/introducing-workspace-agents-in-chatgpt/)**
+**[AI-powered robot beats elite table tennis players](https://www.theguardian.com/science/2026/apr/22/ai-powered-robot-beats-elite-table-tennis-players-milestone-robotics)**
 
-Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely.
+In feat hailed as milestone in robotics, Sony AI’s Ace wins three out of five matches played under official rules
 
-OpenAI • 14h ago
+The Guardian • 8h ago
+
+---
+
+**[A robot is beating human pros at table tennis. Its maker calls it a milestone for machines](https://apnews.com/article/ai-table-tennis-robot-ping-pong-sony-995b239945e0dc8d7bea918a850969dc)**
+
+A paddle-wielding robot is so adept at playing table tennis that it is posing a tough challenge to elite human players and sometimes defeating them, according to a new study in the journal Nature that shows how advances in artificial intelligence are making robots more agile.
+
+AP News • 18h ago
+
+---
+
+**[House lawmakers get a chilling demo of ‘jailbroken’ AI](https://www.politico.com/news/2026/04/22/ai-chatbots-jailbreak-safety-00887869)**
+
+Politico • 11h ago
 
 ---
 
@@ -201,7 +197,7 @@ OpenAI • 14h ago
 
 **[Meta to start capturing employee mouse movements, keystrokes for AI training](https://news.ycombinator.com/item?id=47851948)**
 
-⬆️ 780 • 💬 516 • 1d ago • [reuters.com](https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/)
+⬆️ 780 • 💬 517 • 1d ago • [reuters.com](https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/)
 
 ---
 
@@ -223,13 +219,13 @@ People are sick of artificial intelligence, and are increasingly making it known
 
 Deezer says consumption of AI-generated music on the platform is still very low, between 1-3% of the total streams, and that 85% of these streams are detected as fraudulent and are demonetized.
 
-⬆️ 363 • 💬 388 • 2d ago • [TechCrunch](https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/)
+⬆️ 364 • 💬 388 • 2d ago • [TechCrunch](https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/)
 
 ---
 
 **[Tell HN: I'm sick of AI everything](https://news.ycombinator.com/item?id=47857461)**
 
-⬆️ 328 • 💬 184 • 1d ago
+⬆️ 329 • 💬 184 • 1d ago
 
 ---
 
@@ -237,7 +233,7 @@ Deezer says consumption of AI-generated music on the platform is still very low,
 
 An attempt to detect AI design patterns in Show HN pages
 
-⬆️ 305 • 💬 218 • 17h ago • [adriankrebs.ch](https://www.adriankrebs.ch/blog/design-slop/)
+⬆️ 310 • 💬 222 • 19h ago • [adriankrebs.ch](https://www.adriankrebs.ch/blog/design-slop/)
 
 ---
 
@@ -251,7 +247,7 @@ An attempt to detect AI design patterns in Show HN pages
 
 High-performance AI gateway written in Go - unified OpenAI-compatible API for OpenAI, Anthropic, Gemini, Groq, xAI &amp; Ollama. LiteLLM alternative with observability, guardrails &amp; streaming. ...
 
-⬆️ 196 • 💬 72 • 1d ago • [GitHub](https://github.com/ENTERPILOT/GOModel/)
+⬆️ 198 • 💬 72 • 1d ago • [GitHub](https://github.com/ENTERPILOT/GOModel/)
 
 ---
 
@@ -281,7 +277,7 @@ Smalls: Get 60% off your first order + FREE shipping & FREE treats for life at h
 
 📺 The Iced Coffee Hour Clips
 
-👁️ 3K • 👍 50 • 💬 15 • ⏱️ 9:25 • 13h ago
+👁️ 3K • 👍 50 • 💬 15 • ⏱️ 9:25 • 15h ago
 
 ---
 
@@ -291,7 +287,7 @@ As artificial intelligence continues to integrate into the workforce, Jon is joi
 
 📺 The Weekly Show with Jon Stewart
 
-👁️ 83K • 👍 3K • 💬 493 • ⏱️ 1:13:14 • 12h ago
+👁️ 83K • 👍 3K • 💬 493 • ⏱️ 1:13:14 • 14h ago
 
 ---
 
@@ -331,7 +327,7 @@ In this video, I explore 6 techniques to mix AI with real footage using tools in
 
 📺 Sightseeing Stan
 
-👁️ 8K • 👍 913 • 💬 135 • ⏱️ 10:12 • 18h ago
+👁️ 8K • 👍 913 • 💬 135 • ⏱️ 10:12 • 20h ago
 
 ---
 
@@ -341,7 +337,7 @@ Today I reacted to my own AI videos! Make sure you watch the whole video to find
 
 📺 Foltyn
 
-👁️ 504K • 👍 21K • 💬 3K • ⏱️ 13:36 • 22h ago
+👁️ 504K • 👍 21K • 💬 3K • ⏱️ 13:36 • 1d ago
 
 ---
 
@@ -387,7 +383,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with a vision encoder, 
 
 `image-text-to-text` `36.0B`
 
-⬇️ 717,811 • ❤️ 1,268 • 22h ago
+⬇️ 717,811 • ❤️ 1,268 • 1d ago
 
 ---
 
@@ -399,7 +395,7 @@ Kimi K2.6 is a 1T parameter multimodal agentic model excelling in long-horizon c
 
 `image-text-to-text` `1058.6B`
 
-⬇️ 125,825 • ❤️ 831 • 2h ago
+⬇️ 125,825 • ❤️ 831 • 4h ago
 
 ---
 
@@ -423,7 +419,7 @@ Qwen3.6-27B is a 27B parameter causal language model with a vision encoder, exce
 
 `image-text-to-text` `27.8B`
 
-⬇️ 23,964 • ❤️ 522 • 20h ago
+⬇️ 23,964 • ❤️ 522 • 21h ago
 
 ---
 
@@ -435,7 +431,7 @@ HY-World 2.0 is a multi-modal framework for generating and reconstructing 3D wor
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 561 • 23h ago
+⬇️ 0 • ❤️ 561 • 1d ago
 
 ---
 
@@ -447,7 +443,7 @@ A bidirectional token-classification model for PII detection and masking, capabl
 
 `token-classification` `1.4B`
 
-⬇️ 1,888 • ❤️ 379 • 15h ago
+⬇️ 1,888 • ❤️ 379 • 17h ago
 
 ---
 
@@ -483,7 +479,7 @@ Qwen3.6-27B-GGUF is a 27B parameter causal language model with vision capabiliti
 
 `image-text-to-text` `26.9B`
 
-⬇️ 131,398 • ❤️ 243 • 16h ago
+⬇️ 131,398 • ❤️ 243 • 18h ago
 
 ---
 
@@ -643,7 +639,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 49.1k • 🔱 6.4k • 3h ago
+⭐ 49.1k • 🔱 6.4k • 4h ago
 
 ---
 
@@ -673,7 +669,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 33.4k • 🔱 3.7k • 1h ago
+⭐ 33.4k • 🔱 3.7k • 3h ago
 
 ---
 
@@ -683,7 +679,7 @@ A theoretical reconstruction of the Claude Mythos architecture, built from first
 
 `Python` `ai` `anthropic` `attention` `claude` `claude-ai`
 
-⭐ 9.2k • 🔱 2.0k • 15h ago
+⭐ 9.2k • 🔱 2.0k • 17h ago
 
 ---
 
@@ -693,7 +689,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 8.5k • 🔱 552 • 48s ago
+⭐ 8.5k • 🔱 552 • 1h ago
 
 ---
 
