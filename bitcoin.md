@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-23T13:45:29.451170+00:00'
+updated: '2026-04-23T15:54:35.808699+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
-- social
 - news
+- videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 23, 2026 at 13:45 UTC  
+**Last Updated:** April 23, 2026 at 15:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.8%  
-**7d:** +0.7%  
-**30d:** +8.8%  
-**90d:** -13.0%  
-**1y:** -17.3%  
+**24h:** -0.5%  
+**7d:** +1.6%  
+**30d:** +9.8%  
+**90d:** -12.3%  
+**1y:** -16.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1553.42B
+**Market Cap:** $1569.06B
 Rank #1
 
-**Circulating Supply:** 20,019,606 BTC
+**Circulating Supply:** 20,019,718 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--38.5%
+-37.9%
 
 **All-Time Low:** $67.81
-+114288.7%
++115402.1%
 
 ---
 
@@ -81,43 +81,13 @@ Rank #1
 
 GM. Went full degen on this one. Started this as an experiment: ask ChatGPT, Claude, Gemini, Grok, DeepSeek and 5 more the same Bitcoin question every day, then grade them for accuracy against the real price. What's live now: - Daily predictions from all 10 models, 2027–2100 (bear/base/bull) - Short-term predictions at 7, 30, 90, 180 and 360 days — graded when the date arrives - AI consensus using a trimmed mean (drops the single highest + lowest to avoid outlier distortion) - 5 free calculators: DCA, Time Machine, Salary in BTC, Inflation Hedge, FIRE retirement First 7-day accuracy results just unlocked. Perplexity AI came first with 91.2% accuracy. Gemini came last with 28.1% — it predicted $130K for this week when BTC was at $75K. Same prompt, same day. Full leaderboard: Perplexity 91.2% Qwen 88.8% ChatGPT 88.8% DeepSeek 87% Command R 86% Claude 85.8% Grok 76.1% Mistral 69% Llama 59.7% Gemini 18.3% aipredictsbitcoin.com
 
-1h ago
+3h ago
 
 ---
 
 **[The Great Surrender: Wall Street Bends the Knee to Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1stbr96/the_great_surrender_wall_street_bends_the_knee_to/)**
 
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-great-surrender-wall-street-bends) • 6h ago
-
----
-
-**[18 year old with 20k in savings of bitcoin](https://www.reddit.com/r/Bitcoin/comments/1st8o5j/18_year_old_with_20k_in_savings_of_bitcoin/)**
-
-So pretty much 60% of all the money I own right now is it bitcoin and obviously lately, it’s been in a bull run. Some are saying that we are in another pattern of it about to drop, as well as the elections nearby. What do you guys think, do I hold out? ps when is the clarity act going to pass? lol
-
-9h ago
-
----
-
-**[The "Obvious" Bottom is in Hindsight. Stop waiting for the 50% nukes.](https://www.reddit.com/r/Bitcoin/comments/1st9wir/the_obvious_bottom_is_in_hindsight_stop_waiting/)**
-
-We are officially at the point in the cycle where the "I told you so" crowd is getting quieter. Remember when everyone was screaming for $40k? When the "cycle experts" said we had to crash -80% because "history repeats"? Look at the charts now. We’re sitting comfortably in the high $70ks, and suddenly everyone is acting like it was "obvious." The Reality Check: Institutional Floor: This isn't 2021 anymore. We have ETFs, sovereign wealth funds, and massive institutional accumulation. The "retail panic" moves don't hit the same when the liquidity is being swallowed by multi-billion dollar entities. The "Safety" Illusion: Bottoms never feel safe. If it feels safe, you’ve already missed the entry. Institutional Absorption: Every "dip" is being treated as a discount by the big players. If you're still waiting for a "proper crash" to enter, you're likely going to be the one buying the top from the people who bought the $60k bottom. The Strategy: Stop over-analyzing the noise. The bears will come out the moment we drop 2%, and the bulls will scream the moment we rise 5%. None of them have a crystal ball. Conviction over Emotions: If you believe in the macro tech and the supply scarcity, the daily volatility is just noise. Logic-Driven Entries: Focus on the "Liquidity-Voids" and the institutional magnets. Bitcoin isn't just for degens anymore. It’s real money now. Stay disciplined or get left behind. Bottom line: We aren't going back to the "old days" of -80% nukes easily. The game has changed. Are you playing it, or just watching from the sidelines?
-
-8h ago
-
----
-
-**[Too many retail shorts = we go moon](https://www.reddit.com/r/Bitcoin/comments/1st5cdf/too_many_retail_shorts_we_go_moon/)**
-
-Congrats to all those who bought, held, or dcad into btc. Retail is now short heavy. Every time retail is short heavy we have a parabolic bull run. This is extremely bullish. Like extremely bullish. There has not been a time where we started a bull market and retail was majority longing. They always short into bull run and buy into bear market. We will see sustained upside. Lambo soon, dca/buy & hold
-
-11h ago
-
----
-
-**[The Bitcoin Redemption](https://www.reddit.com/r/Bitcoin/comments/1ssq9ix/the_bitcoin_redemption/)**
-
-21h ago
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-great-surrender-wall-street-bends) • 8h ago
 
 ---
 
@@ -125,31 +95,59 @@ Congrats to all those who bought, held, or dcad into btc. Retail is now short he
 
 I’m not a US citizen. I lived in the US for a few years for a master’s degree (2008–2012) — not sure if that matters for anything below. I know this is really stupid — hard lesson learned: I kept my seed in a LastPass Note. I started receiving crypto in 2015 as a freelancer. In total it was roughly ~$80,000 USD of earnings/savings into crypto over the years — not an overnight windfall. The stack grew as prices ran up, and by the time it was stolen it was worth around ~$700,000 (what people mean when they say I “lost $700k”). On-chain it didn’t leave in one transfer; it moved through tons of tiny hops, so tracing was miserable. I’ve already reported to US law enforcement (e.g. IC3). There’s a LastPass class action. I’m not sure I’m eligible as a non-citizen with old US ties, or whether joining is worth anything. What would you actually do? Join the class action — or waste of time? Find a contingency lawyer vs LastPass (no upfront fee)? Stop and accept the sunk cost? Not asking for formal legal advice — just what you’d prioritize. Thanks.
 
-55m ago
+3h ago
 
 ---
 
-**[BlackRock keeps growing its bitcoin holdings to a new high](https://www.reddit.com/r/Bitcoin/comments/1stiwsy/blackrock_keeps_growing_its_bitcoin_holdings_to_a/)**
+**[18 year old with 20k in savings of bitcoin](https://www.reddit.com/r/Bitcoin/comments/1st8o5j/18_year_old_with_20k_in_savings_of_bitcoin/)**
 
-It’s interesting to see how BlackRock is increasing its investment in bitcoin. Adding such a large amount in just one week shows strong confidence. To me, this feels like bitcoin is slowly becoming more trusted not just by individuals but also by big institutions. It shows that people are starting to see its long-term value more clearly.
+So pretty much 60% of all the money I own right now is it bitcoin and obviously lately, it’s been in a bull run. Some are saying that we are in another pattern of it about to drop, as well as the elections nearby. What do you guys think, do I hold out? ps when is the clarity act going to pass? lol
 
-12m ago
-
----
-
-**[Upcoming Australian CGT (TAX) changes are DISASTROUS for Bitcoin holders with low cost basis](https://www.reddit.com/r/Bitcoin/comments/1st3vlg/upcoming_australian_cgt_tax_changes_are/)**
-
-TLDR; My tax bill literally DOUBLES under proposed CGT changes. Hi everyone, I just wanted to take a moment to share my research regarding the upcoming CGT changes that have been floated in the media over the last week. Please keep in mind that these changes aren’t finalised so it’s speculative but still a MUST READ for early Bitcoiners or even shitcoiners who’ve had large wins. According to Nine news papers; The current preferred CGT reform will be based around the Pre-1999 Howard era CGT system which adjusts the value of the COST BASIS for inflation and does away with the 50% capital gains tax discount we currently enjoy. Let me elaborate with examples. Under the current system, I can sell a Bitcoin I bought 15 years ago at $1 for $100,001 giving me a $100,000 profit. I apply the 50% discount and I’m left with $50,000 which gets taxed at my nominal tax rate (in my case) 47% In total, I’m taxed about $23,500 in tax for $100,000 in Bitcoin I sell. Under the Pre 1999 system (The system currently favored as the system most likely to be reintroduced) I’d sell my $1 Bitcoin for $101,000 and then I’d adjust the cost basis for inflation. It would be about $1.56 at 3% per year (compound adjusted) That would mean I’d be getting taxed on a profit of $99,998.44 and would pay a total tax bill of $46999.27 for every $100,000 of Bitcoin I sell. My tax bill literally DOUBLES under the proposed new system. Now look, I want to be VERY clear that I’m not making and judgments on weather or not I think the current system is fairer that the other or not. That’s not what this post is about, the point of this post is simply to share the research I’ve done with people in a similar position to me so that you can begin to start war gaming the best way forward from here.
-
-12h ago
+11h ago
 
 ---
 
-**[Daily Discussion, April 23, 2026](https://www.reddit.com/r/Bitcoin/comments/1stab3w/daily_discussion_april_23_2026/)**
+**[How Crypto Taxed In USA](https://www.reddit.com/r/Bitcoin/comments/1stfs89/how_crypto_taxed_in_usa/)**
 
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+4h ago
 
-7h ago
+---
+
+**[The "Obvious" Bottom is in Hindsight. Stop waiting for the 50% nukes.](https://www.reddit.com/r/Bitcoin/comments/1st9wir/the_obvious_bottom_is_in_hindsight_stop_waiting/)**
+
+We are officially at the point in the cycle where the "I told you so" crowd is getting quieter. Remember when everyone was screaming for $40k? When the "cycle experts" said we had to crash -80% because "history repeats"? Look at the charts now. We’re sitting comfortably in the high $70ks, and suddenly everyone is acting like it was "obvious." The Reality Check: Institutional Floor: This isn't 2021 anymore. We have ETFs, sovereign wealth funds, and massive institutional accumulation. The "retail panic" moves don't hit the same when the liquidity is being swallowed by multi-billion dollar entities. The "Safety" Illusion: Bottoms never feel safe. If it feels safe, you’ve already missed the entry. Institutional Absorption: Every "dip" is being treated as a discount by the big players. If you're still waiting for a "proper crash" to enter, you're likely going to be the one buying the top from the people who bought the $60k bottom. The Strategy: Stop over-analyzing the noise. The bears will come out the moment we drop 2%, and the bulls will scream the moment we rise 5%. None of them have a crystal ball. Conviction over Emotions: If you believe in the macro tech and the supply scarcity, the daily volatility is just noise. Logic-Driven Entries: Focus on the "Liquidity-Voids" and the institutional magnets. Bitcoin isn't just for degens anymore. It’s real money now. Stay disciplined or get left behind. Bottom line: We aren't going back to the "old days" of -80% nukes easily. The game has changed. Are you playing it, or just watching from the sidelines?
+
+10h ago
+
+---
+
+**[Too many retail shorts = we go moon](https://www.reddit.com/r/Bitcoin/comments/1st5cdf/too_many_retail_shorts_we_go_moon/)**
+
+Congrats to all those who bought, held, or dcad into btc. Retail is now short heavy. Every time retail is short heavy we have a parabolic bull run. This is extremely bullish. Like extremely bullish. There has not been a time where we started a bull market and retail was majority longing. They always short into bull run and buy into bear market. We will see sustained upside. Lambo soon, dca/buy & hold
+
+13h ago
+
+---
+
+**[The Bitcoin Redemption](https://www.reddit.com/r/Bitcoin/comments/1ssq9ix/the_bitcoin_redemption/)**
+
+23h ago
+
+---
+
+**[How the 21 Million Limit is Enforced](https://www.reddit.com/r/Bitcoin/comments/1stkvxy/how_the_21_million_limit_is_enforced/)**
+
+The 21M coin cap is the bedrock of Bitcoin's value proposition, but how is this seemingly simple rule actually guaranteed? Let’s take a deep dive.
+
+🔗 [BitBox Blog](https://blog.bitbox.swiss/en/how-the-21-million-bitcoin-limit-is-actually-enforced/) • 1h ago
+
+---
+
+**[Clarity Act](https://www.reddit.com/r/Bitcoin/comments/1stjc76/clarity_act/)**
+
+How close are we to the clarity act passing? I’m personally for the clarity act as I believe adoption from institutions is critical for us as bitcoiners. I know there are people who dislike institutional involvement but it is the only way and these institutions would never allow a trillion dollar asset to just move without them. The smart money knows more than retail.
+
+2h ago
 
 ---
 
@@ -157,25 +155,9 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 ## Google News: "bitcoin"
 
-**[The DAT collapse: Pantera wants Satsuma to dump its bitcoin as shares crash 99%](https://www.coindesk.com/markets/2026/04/23/pantera-wants-satsuma-to-dump-its-bitcoin-as-shares-crash-99)**
+**[Opinion | A Bitcoin Evangelist Tries to Convert Me](https://www.nytimes.com/2026/04/23/opinion/bitcoin-crypto-anthony-pompliano.html)**
 
-Pantera Capital is urging London-listed Satsuma Technology to liquidate its remaining bitcoin holdings and return cash to shareholders.
-
-CoinDesk • 3h ago
-
----
-
-**[Bitcoin Price Hits Two-Month High Amid Strategy Buys. Watch This Range, Analyst Says.](https://www.investors.com/news/bitcoin-price-february-high-78000-strategy-buying-bitcoin-etf-flows-institutional-participation/)**
-
-Investor's Business Daily • 17h ago
-
----
-
-**[Current price of Bitcoin for April 23, 2026](https://fortune.com/article/price-of-bitcoin-04-23-2026/)**
-
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 39m ago
+The New York Times • 6h ago
 
 ---
 
@@ -183,13 +165,47 @@ Fortune • 39m ago
 
 Adm. Paparo told Congress that the U.S. military is running a Bitcoin node to test how the protocol can support national security.
 
-The Block • 36m ago
+The Block • 2h ago
 
 ---
 
-**[Opinion | A Bitcoin Evangelist Tries to Convert Me](https://www.nytimes.com/2026/04/23/opinion/bitcoin-crypto-anthony-pompliano.html)**
+**[US Government Runs a Bitcoin Node, Admiral Says, But Is Not Mining BTC](https://www.yahoo.com/news/articles/us-government-runs-bitcoin-node-144916077.html)**
 
-The New York Times • 4h ago
+The U.S. government is running a live Bitcoin node right now, confirmed under oath before Congress, marking the first public disclosure of a U.S. combatant command directly participating in Bitcoin ne...
+
+Yahoo • 1h ago
+
+---
+
+**[U.S. military runs Bitcoin node, sees crypto as power projection versus China](https://www.coindesk.com/markets/2026/04/23/us-military-runs-bitcoin-node-sees-crypto-as-power-projection-vs-china)**
+
+A Navy admiral told a U.S. Senate hearing that the government is running a Bitcoin node, not for mining, but for national security purposes.
+
+CoinDesk • 3h ago
+
+---
+
+**[Florida camp counselor accused of trying to buy child porn with Bitcoin-linked wallet](https://cbs12.com/news/local/gallery/florida-camp-counselor-accused-of-trying-to-buy-child-porn-with-bitcoin-linked-wallet-attorney-general-james-uthmeier-national-center-for-missing-and-exploited-children-florida-department-of-law-enforcement-florida-department-of-law-enforcement-cash-app)**
+
+WPEC CBS 12 provides local news, weather, sports, traffic and entertainment for West Palm Beach and nearby towns and communities in South Florida including the Palm Beaches and Treasure Coast, serving Stuart, Royal Palm Beach, Fort Pierce, Vero Beach, Port St. Lucie, Okeechobee, Jupiter, Palm Beach Gardens, Wellington, Delray Beach, Boca Raton, Lake Worth, Boynton Beach, Greenacres, Belle Glade, Palm Beach, and Riviera Beach.
+
+WPEC • 1h ago
+
+---
+
+**[Bitcoin hovers near $78K as crypto industry pushes for regulation](https://finance.yahoo.com/video/bitcoin-hovers-near-78k-as-crypto-industry-pushes-for-regulation-145933591.html)**
+
+Cryptocurrency bitcoin (BTC-USD) falls but manages to hold above $78,000 per token on Thursday. This comes after crypto firms pen a letter to US lawmakers, pushing for the passing of stablecoin regulation. Market Catalysts Host Julie Hyman&nbsp;takes a closer at the crypto market and crypto-related stocks.
+
+Yahoo Finance • 55m ago
+
+---
+
+**['Rally on trial': Bitcoin breakout faces key $80,000 test as whales, ETF investors buy into volatility](https://www.theblock.co/post/398625/rally-trial-analysts-bitcoin-breakout-test-80000-whales-etf-investors-buy-volatility)**
+
+Analysts say bitcoin's rally still faces a stiff test from profit-taking, macro risk and a crowded resistance zone.
+
+The Block • 30m ago
 
 ---
 
@@ -197,31 +213,19 @@ The New York Times • 4h ago
 
 Kevin O'Leary says bitcoin and Ethereum are the only cryptos worth owning, as institutional money reshapes the digital asset market landscape.
 
-Fox Business • 20h ago
+Fox Business • 22h ago
 
 ---
 
-**[Push to Unwind Bitcoin Hoarder Shows Once-Hot Trade Collapsing](https://www.bloomberg.com/news/articles/2026-04-23/push-to-unwind-bitcoin-hoarder-shows-once-hot-trade-collapsing)**
+**[Push to Unwind Bitcoin Hoarder Shows Once-Hot Trade Failing](https://www.bloomberg.com/news/articles/2026-04-23/push-to-unwind-bitcoin-hoarder-shows-once-hot-trade-collapsing)**
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 1h ago
 
 ---
 
 **[Bitcoin Rises on Optimism Over Trump’s Extended Iran Ceasefire](https://www.bloomberg.com/news/articles/2026-04-22/bitcoin-rises-on-optimism-over-trump-s-extended-iran-ceasefire)**
 
-Bloomberg.com • 17h ago
-
----
-
-**[The Iran cease-fire has boosted investors’ appetite for bitcoin. Here’s why it could break past $80,000 soon.](https://www.marketwatch.com/story/the-iran-cease-fire-has-boosted-investors-appetite-for-bitcoin-heres-why-it-could-break-past-80-000-soon-29c08c3e)**
-
-MarketWatch • 16h ago
-
----
-
-**[Bitcoin price today: steady above $78k as Hormuz tensions offset ceasefire relief](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-steady-above-78k-as-hormuz-tensions-offset-ceasefire-relief-4631252)**
-
-Investing.com • 6h ago
+Bloomberg.com • 19h ago
 
 ---
 
@@ -233,7 +237,7 @@ Investing.com • 6h ago
 
 The U.S. military is actively running a Bitcoin node and testing the protocol’s cryptographic architecture as a tool for securing and protecting networks, according to INDOPACOM commander Admiral Samuel Paparo.
 
-⬆️ 5 • 💬 0 • 2h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/news/the-us-military-is-running-a-bitcoin-node)
+⬆️ 5 • 💬 0 • 4h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/news/the-us-military-is-running-a-bitcoin-node)
 
 ---
 
@@ -241,7 +245,7 @@ The U.S. military is actively running a Bitcoin node and testing the protocol’
 
 The global economic system is evolving: The left wants to redistribute. The right wants to deregulate. Both are missing the point.
 
-⬆️ 4 • 💬 4 • 2d ago • [The Alignment Economy](https://alignmenteconomy.org)
+⬆️ 4 • 💬 4 • 3d ago • [The Alignment Economy](https://alignmenteconomy.org)
 
 ---
 
@@ -269,7 +273,7 @@ Part one explained the physics of quantum computing. This piece explains the tar
 
 **[Warren Buffett: Why Stocks Beat Gold, Bonds and Bitcoin (2018)](https://news.ycombinator.com/item?id=47875151)**
 
-⬆️ 2 • 💬 0 • 53m ago • [acquirersmultiple.com](https://acquirersmultiple.com/2018/01/warren-buffett-why-stocks-beat-gold-bonds-and-bitcoin/)
+⬆️ 2 • 💬 0 • 3h ago • [acquirersmultiple.com](https://acquirersmultiple.com/2018/01/warren-buffett-why-stocks-beat-gold-bonds-and-bitcoin/)
 
 ---
 
@@ -277,7 +281,7 @@ Part one explained the physics of quantum computing. This piece explains the tar
 
 A senior US military commander has lauded Bitcoin as a “valuable computer science tool,” arguing its usefulness extends beyond monetary applications and can support US national security interests.“It is a valuable computer science tool, as a power projection,” Admiral Samuel Paparo said at a Senate…
 
-⬆️ 1 • 💬 0 • 13h ago • [TradingView](https://www.tradingview.com/news/cointelegraph:fd4c50ad7094b:0-us-admiral-calls-bitcoin-an-instrument-for-us-power-projection/)
+⬆️ 1 • 💬 0 • 15h ago • [TradingView](https://www.tradingview.com/news/cointelegraph:fd4c50ad7094b:0-us-admiral-calls-bitcoin-an-instrument-for-us-power-projection/)
 
 ---
 
@@ -293,7 +297,7 @@ Speculation, dead‑end investigations and conspiracy theories have surrounded h
 
 A new documentary asserts that Bitcoin creator Satoshi Nakamoto was actually two people: the late Hal Finney and Len Sassaman.
 
-⬆️ 1 • 💬 2 • 22h ago • [Decrypt](https://decrypt.co/365075/finding-satoshi-makes-the-case-for-hal-finney-len-sassaman-as-bitcoin-co-creators)
+⬆️ 1 • 💬 2 • 1d ago • [Decrypt](https://decrypt.co/365075/finding-satoshi-makes-the-case-for-hal-finney-len-sassaman-as-bitcoin-co-creators)
 
 ---
 
@@ -313,17 +317,7 @@ Bitcoin is entering a real supply shock and most people still don't see it. Mich
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 2K • 💬 217 • ⏱️ 17:24 • 15h ago
-
----
-
-**[New Fed Chair Just Lit the Fuse for Bitcoin &amp; Rate Cuts](https://www.youtube.com/watch?v=-oLRibqO9-Y)**
-
-Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=AltcoinDaily Grab Tickets to BTC Conference ...
-
-📺 Altcoin Daily
-
-👁️ 62K • 👍 3K • 💬 197 • ⏱️ 12:24 • 1d ago
+👁️ 28K • 👍 2K • 💬 223 • ⏱️ 17:24 • 17h ago
 
 ---
 
@@ -333,27 +327,17 @@ Ran breaks down a pivotal moment in markets, starting with Trump's indefinite ce
 
 📺 Crypto Banter
 
-👁️ 29K • 👍 2K • 💬 63 • ⏱️ 25:29 • 23h ago
+👁️ 29K • 👍 2K • 💬 63 • ⏱️ 25:29 • 1d ago
 
 ---
 
-**[4-Star Admiral Leaked the U.S. Bitcoin Strategy. PAYMENTS!](https://www.youtube.com/watch?v=7TmkZEcsIf8)**
+**[New Fed Chair Just Lit the Fuse for Bitcoin &amp; Rate Cuts](https://www.youtube.com/watch?v=-oLRibqO9-Y)**
 
-ADMIRAL Samuel Paparo confirms the USA is running a Bitcoin node. Also, Scott Bessent admits america MUST pass the Clarity ...
+Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=AltcoinDaily Grab Tickets to BTC Conference ...
 
-📺 Digital Asset News
+📺 Altcoin Daily
 
-👁️ 19K • 👍 1K • 💬 101 • ⏱️ 25:03 • 18h ago
-
----
-
-**[BITCOIN IS PUMPING BECAUSE OF THIS!! BEWARE THE TRAP THAT HAPPENS EVERY YEAR!](https://www.youtube.com/watch?v=xxkpuvHGo0c)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
-
-📺 My Financial Friend
-
-👁️ 9K • 👍 499 • 💬 148 • ⏱️ 15:25 • 23h ago
+👁️ 63K • 👍 3K • 💬 196 • ⏱️ 12:24 • 1d ago
 
 ---
 
@@ -363,7 +347,17 @@ Bitcoin is in a bull market right now. Anthony Pompliano breaks down the data �
 
 📺 Anthony Pompliano
 
-👁️ 71K • 👍 3K • 💬 187 • ⏱️ 16:35 • 1d ago
+👁️ 72K • 👍 3K • 💬 202 • ⏱️ 16:35 • 1d ago
+
+---
+
+**[BITCOIN IS PUMPING BECAUSE OF THIS!! BEWARE THE TRAP THAT HAPPENS EVERY YEAR!](https://www.youtube.com/watch?v=xxkpuvHGo0c)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
+
+📺 My Financial Friend
+
+👁️ 9K • 👍 499 • 💬 148 • ⏱️ 15:25 • 1d ago
 
 ---
 
@@ -373,17 +367,37 @@ Bitcoin is at a MAJOR Turning Point! Sentiment / 4 year cycle Could the bottom b
 
 📺 Camel Finance
 
-👁️ 4K • 👍 414 • 💬 110 • ⏱️ 17:39 • 3h ago
+👁️ 6K • 👍 496 • 💬 114 • ⏱️ 17:39 • 6h ago
 
 ---
 
-**[Wells Fargo CEO Warns of MAJOR CRASH | Got Bitcoin?](https://www.youtube.com/watch?v=Hv6M0WbR-jo)**
+**[Bitcoin This Won’t End Well… FOR BEARS](https://www.youtube.com/watch?v=VLujXJS09to)**
 
-A major bank CEO just warned of a looming crash, while Wall Street quietly pivots toward Bitcoin. Massive liquidity injections and ...
+Saylor's BTC target, Ethereum, Tesla, flying cars, VC exit liquidity, and more BITUNIX TRADE THE TOP COINS (available ...
 
-📺 Simply Bitcoin
+📺 Lark Davis
 
-👁️ 29K • 👍 2K • 💬 114 • ⏱️ 14:37 • 1d ago
+👁️ 9K • 👍 584 • 💬 47 • ⏱️ 18:53 • 5h ago
+
+---
+
+**[4-Star Admiral Leaked the U.S. Bitcoin Strategy. PAYMENTS!](https://www.youtube.com/watch?v=7TmkZEcsIf8)**
+
+ADMIRAL Samuel Paparo confirms the USA is running a Bitcoin node. Also, Scott Bessent admits america MUST pass the Clarity ...
+
+📺 Digital Asset News
+
+👁️ 19K • 👍 1K • 💬 103 • ⏱️ 25:03 • 20h ago
+
+---
+
+**[Bitcoin Bear Flag Tells Us EVERYTHING!](https://www.youtube.com/watch?v=IY1HsOLpNFE)**
+
+Nick Valdez looks at the latest bear flag on Bitcoin's daily chart and notices something HUGE. Bitcoin likes to repeat bear flag ...
+
+📺 Discover Crypto
+
+👁️ 6K • 👍 323 • 💬 29 • ⏱️ 4:42 • 17h ago
 
 ---
 
@@ -393,17 +407,7 @@ Save the date for November 3-5, 2026 at Murrieta Hot Springs Resort and get your
 
 📺 Brian Harrington
 
-👁️ 7K • 👍 385 • 💬 112 • ⏱️ 10:47 • 21h ago
-
----
-
-**[Bitcoin Bull Market Starting SOON? REALISTIC Analysis - NO FOMO! Bitcoin price prediction 2026](https://www.youtube.com/watch?v=-AjzkUnS_mI)**
-
-Is the bull market starting? CRYPTO RETIREMENT ACCOUNT HERE Sign up for iTrustCapital and get a $100 funding ...
-
-📺 Crypto Jebb
-
-👁️ 5K • 👍 280 • 💬 94 • ⏱️ 10:15 • 19h ago
+👁️ 8K • 👍 405 • 💬 80 • ⏱️ 10:47 • 23h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-23T13:45:29.457174+00:00'
+updated: '2026-04-23T15:54:35.814595+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
-- social
 - news
+- videos
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 23, 2026 at 13:45 UTC  
+**Last Updated:** April 23, 2026 at 15:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.4%  
-**7d:** -4.0%  
-**30d:** +7.1%  
-**90d:** -21.4%  
-**1y:** +31.4%  
+**24h:** -2.4%  
+**7d:** -3.7%  
+**30d:** +7.5%  
+**90d:** -21.1%  
+**1y:** +31.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $280.29B
+**Market Cap:** $281.70B
 Rank #2
 
 **Circulating Supply:** 120,689,323 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--53.1%
+-52.9%
 
 **All-Time Low:** $0.43
-+536124.6%
++538369.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
+10h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Your daily crypto news briefing. Bitcoin, Ethereum, Solana and the stories that move markets.
 
-🔗 [bigcoinreport.com](https://bigcoinreport.com/analysis/ai-agents-crypto-payments-how-it-works) • 11h ago
+🔗 [bigcoinreport.com](https://bigcoinreport.com/analysis/ai-agents-crypto-payments-how-it-works) • 13h ago
 
 ---
 
@@ -118,7 +118,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 39.0 million ETH is now staked, exactly 32.02% of the total supply. It's over $90B worth of ETH at current prices, that’s a huge share of the network committed to securing it and one of the strongest signals of long-term participation we’ve seen so far. As we see, despite ongoing global uncertainty and volatile market conditions, staking activity continues to grow. Instead of pulling back, more ETH is being locked into the network. That suggests a certain level of confidence from participants who are thinking long-term rather than reacting to short-term noise. From a structural perspective, this also affects supply dynamics. As more ETH moves into staking, the liquid supply available on the market decreases. It doesn’t mean those coins are gone, but they are less likely to be actively traded. Over time, this can change how the market responds to demand. At the same time, staking plays a critical role beyond price, it strengthens network security and aligns incentives across participants. Of course, none of this guarantees immediate price movement. Markets are influenced by many factors. But it does highlight how Ethereum’s underlying fundamentals continue to evolve. Full post: https://x.com/everstake_pool/status/2046178353548308981
 
-2d ago
+3d ago
 
 ---
 
@@ -140,13 +140,21 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 On April 18, a hacker minted 116,500 rsETH tokens out of nothing. Not stolen from a wallet. Created from a forged cross-chain message, a phantom packet that told Kelp DAO’s bridge to release real tokens backed by zero collateral. The attacker deposited those phantom tokens as collateral on Aave and borrowed $236 million in real ETH against them. Within hours, $5.4 billion fled Aave. The protocol’s ETH pool hit 100% utilization. AAVE dropped 19%. Then Justin Sun withdrew $154 million from Aave. After securing his own exit, he posted publicly: “Kelpdao hacker, how much you want? Let’s just talk. You can’t spend $300 million anyway.” The man who extracted first offered to negotiate second. But that is not the deepest layer. The deepest layer is this: April 2026 just produced a single month in which every major system failure on earth was caused by the same mechanism. Not hacking. Not force. Verification Cost Inversion. Every system trusted a representation of value instead of verifying the value itself. And every system collapsed at the exact point where trust replaced verification. The rsETH was a representation of staked ETH. Nobody verified the cross-chain message that created it. A single DVN verifier, a 1-of-1 trust assumption, was the entire security model for a bridge holding $292 million. The representation said “backed.” The reality said “phantom.” Aave accepted the representation.
 
-🔗 [X (formerly Twitter)](https://x.com/i/status/2045872866944848108) • 3d ago
+🔗 [X (formerly Twitter)](https://x.com/i/status/2045872866944848108) • 4d ago
 
 ---
 
 ---
 
 ## Google News: "ethereum"
+
+**[Is Anthropic's Mythos AI a Threat to Ethereum and Solana?](https://www.fool.com/investing/2026/04/23/is-anthropics-mythos-ai-a-threat-to-ethereum-and-s/)**
+
+An unreleased AI model is sending crypto into a panic, but it's only half relevant to the real ongoing problems.
+
+The Motley Fool • 5h ago
+
+---
 
 **[Coinbase Flags Proof-of-Stake Chains Like Ethereum, Solana as Potential Quantum Risks](https://decrypt.co/365079/coinbase-proof-of-stake-blockchains-ethereum-solana-quantum-risk)**
 
@@ -156,31 +164,11 @@ Decrypt • 1d ago
 
 ---
 
-**[Bitcoin Price Falls From 11-Week High. Why, Ethereum, XRP, Cryptos Are Dropping. -- Barrons.com](https://www.moomoo.com/news/post/68759043/bitcoin-price-falls-from-11-week-high-why-ethereum-xrp)**
+**[BitMine’s Tom Lee Sees Ethereum’s Price Reaching $250,000](https://finance.yahoo.com/markets/crypto/articles/bitmine-tom-lee-sees-ethereum-135000677.html)**
 
-Moomoo • 2h ago
+Tom Lee, the chairman of BitMine Immersion Technologies (NYSE: $BMNR) sees the price of Ethereum (CRYPTO: $ETH) eve...
 
----
-
-**[Kevin O’Leary reveals the only two cryptocurrencies he says are worth owning](https://www.foxbusiness.com/media/kevin-oleary-reveals-only-two-cryptocurrencies-he-says-worth-owning)**
-
-Kevin O'Leary says bitcoin and Ethereum are the only cryptos worth owning, as institutional money reshapes the digital asset market landscape.
-
-Fox Business • 20h ago
-
----
-
-**[1 Cryptocurrency to Buy Before It Goes Parabolic and Overtakes Ethereum's Market Cap](https://finance.yahoo.com/markets/crypto/articles/1-cryptocurrency-buy-goes-parabolic-012000686.html)**
-
-A growing company is expanding the utility of one of the most popular blockchains.
-
-Yahoo Finance • 12h ago
-
----
-
-**[Bitcoin Price Tops $78,000 to Hit 11-Week High. XRP, Ethereum, Cryptos Surging.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-cryptos-f690b700)**
-
-Barron's • 1d ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -188,7 +176,13 @@ Barron's • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 39m ago
+Fortune • 2h ago
+
+---
+
+**[Bitcoin Price Tops $78,000 to Hit 11-Week High. XRP, Ethereum, Cryptos Surging.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-cryptos-f690b700)**
+
+Barron's • 1d ago
 
 ---
 
@@ -200,11 +194,9 @@ The Block • 1d ago
 
 ---
 
-**[Is Anthropic's Mythos AI a Threat to Ethereum and Solana?](https://www.fool.com/investing/2026/04/23/is-anthropics-mythos-ai-a-threat-to-ethereum-and-s/)**
+**[Ethereum leads way as large cryptocurrencies decrease](https://www.marketwatch.com/data-news/ethereum-leads-way-as-large-cryptocurrencies-decrease-43417fbd-045836613d69)**
 
-An unreleased AI model is sending crypto into a panic, but it's only half relevant to the real ongoing problems.
-
-The Motley Fool • 4h ago
+MarketWatch • 1h ago
 
 ---
 
@@ -212,15 +204,21 @@ The Motley Fool • 4h ago
 
 Bitcoin and Ethereum recorded gains earlier this week following an indefinite extension of the US ceasefire with Iran.Ethereum hit the $2,400 level on Wednesday but has now slightly retraced and is currently trading at $2,350 per coin.The coin could rally higher in the near term amid a recovery of…
 
-TradingView • 6h ago
+TradingView • 9h ago
 
 ---
 
-**[AAVE deposits plunge $16.2B after KelpDAO exploit, Ethereum market pressured](https://cryptobriefing.com/aave-deposits-plunge-162b-after-kelpdao-exploit-ethereum-market-pressured/)**
+**[Ethereum $250,000 Prediction Smashes Bitcoin and Gold as ‘Dead Capital’](https://www.tipranks.com/news/ethereum-250000-prediction-smashes-bitcoin-and-gold-as-dead-capital)**
 
-Aave deposits dropped $16.2 billion after the KelpDAO exploit, pressuring Ethereum; $4,000 in April at 15% YES.
+TipRanks • 1d ago
 
-Crypto Briefing • 10h ago
+---
+
+**[Kevin O'Leary Says 'Just Own Bitcoin And Ethereum' As Altcoins 'Never Came Back'](https://www.benzinga.com/crypto/cryptocurrency/26/04/52001824/kevin-oleary-says-just-own-bitcoin-and-ethereum-as-altcoins-never-came-back)**
+
+Shark Tank star Kevin O&#8217;Leary said investors only need to own Bitcoin (CRYPTO: BTC) and Ethereum
+
+Benzinga • 1h ago
 
 ---
 
@@ -234,7 +232,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 16K • 👍 445 • 💬 64 • ⏱️ 18:59 • 21h ago
+👁️ 17K • 👍 449 • 💬 65 • ⏱️ 18:59 • 23h ago
 
 ---
 
@@ -244,17 +242,7 @@ BITCOIN WARNING SIGNAL REPEATING (This is Next)!!! - Bitcoin News Today, Ethereu
 
 📺 Crypto World
 
-👁️ 1K • 👍 149 • 💬 85 • ⏱️ 21:48 • 2h ago
-
----
-
-**[ETH Major Level Broken!? What Happens Next 72 Hours](https://www.youtube.com/watch?v=VEx2cYoOZV0)**
-
-BloFin - No KYC/No VPN needed [Trade ETH Coin Futures!] https://marzell.org/Blofin_Trade CoinGPT ...
-
-📺 Marzell Crypto
-
-👁️ 154 • 👍 16 • 💬 21 • ⏱️ 5:45 • 2h ago
+👁️ 2K • 👍 202 • 💬 48 • ⏱️ 21:48 • 4h ago
 
 ---
 
@@ -264,7 +252,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 477 • 👍 105 • 💬 5 • ⏱️ 16:22 • 1h ago
+👁️ 928 • 👍 163 • 💬 7 • ⏱️ 16:22 • 3h ago
 
 ---
 
@@ -274,7 +262,17 @@ Thanks to Nexo for sponsoring this video. Get your welcome bonus to receive 30 d
 
 📺 Crypto Capital Venture
 
-👁️ 7K • 👍 448 • 💬 182 • ⏱️ 13:39 • 22h ago
+👁️ 7K • 👍 449 • 💬 205 • ⏱️ 13:39 • 1d ago
+
+---
+
+**[Crypto Live Trading 23 April ||  @MrStarSahil   #bitcoin #ethereum #cryptotrading](https://www.youtube.com/watch?v=rDKPwSQwZJs)**
+
+TRADE IN CRYPTO AND GOLD SAFELY (CRYPTO/ Gold Token) :- https://india.delta.exchange/?code=JFWJTR Google ...
+
+📺 Vibe With Sahil
+
+👁️ 3K • 👍 341 • 1h ago
 
 ---
 
@@ -284,7 +282,7 @@ See exactly what top investors are trading in real time: try Milk Road Pro for j
 
 📺 Milk Road
 
-👁️ 7K • 👍 216 • 💬 54 • ⏱️ 36:12 • 1d ago
+👁️ 7K • 👍 219 • 💬 56 • ⏱️ 36:12 • 1d ago
 
 ---
 
@@ -294,7 +292,17 @@ INSTITUTIONS GO FULL BULL: $1.3M Bitcoin and $250K Ethereum IS THE NEW TARGET! I
 
 📺 CryptoWendyO
 
-👁️ 4K • 👍 288 • 💬 23 • ⏱️ 16:01 • 20h ago
+👁️ 4K • 👍 290 • 💬 23 • ⏱️ 16:01 • 22h ago
+
+---
+
+**[CRYPTO LIVE TRADING || 23 APRIL  | ‪@ClockTraderlive‬ #bitcoin #ethereum #crypto #btclivetrading](https://www.youtube.com/watch?v=-IYMryiT7cY)**
+
+join my social platforms for updates and analysis ✓Instagram: ...
+
+📺 Aryan trader Live
+
+👁️ 3K • 1h ago
 
 ---
 
@@ -304,27 +312,17 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 9K • 👍 356 • 💬 78 • ⏱️ 1:24:23 • 2d ago
+👁️ 9K • 👍 361 • 💬 80 • ⏱️ 1:24:23 • 2d ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=-LRPEte8ejo)**
+**[HUGE Ethereum Hack (Crypto GIANT Falls)](https://www.youtube.com/watch?v=ChAVedxnZhI)**
 
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Zoomex - https://partner.zoomex.com/aff/ZX904299 Toobit ...
 
-📺 Crypto Gyan
+📺 Discover Crypto
 
-👁️ 128 • 👍 27 • ⏱️ 5:46 • 31m ago
-
----
-
-**[BITCOIN &amp; ALTCOIN SHORT SQUEEZE (Price Target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=bhjtmugzBU0)**
-
-BITCOIN & ALTCOIN SHORT SQUEEZE (Price Target)!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
-
-📺 Crypto World
-
-👁️ 6K • 👍 312 • 💬 166 • ⏱️ 23:51 • 17h ago
+👁️ 4K • 👍 180 • 💬 35 • ⏱️ 10:42 • 1d ago
 
 ---
 

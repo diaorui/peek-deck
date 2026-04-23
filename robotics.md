@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-23T13:45:29.460758+00:00'
+updated: '2026-04-23T15:54:35.817802+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 23, 2026 at 13:45 UTC  
+**Last Updated:** April 23, 2026 at 15:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,19 @@ Robotics research and industry news
 
 From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2047257759473946705
 
-3h ago
+5h ago
 
 ---
 
 **[Unitree robot just unlocked ballet mode](https://www.reddit.com/r/robotics/comments/1ssqud8/unitree_robot_just_unlocked_ballet_mode/)**
 
-21h ago
+23h ago
 
 ---
 
 **[MyActuator RMD-X10s sounding real bad, but appear to be moving just fine. Not much experience with these… Any ideas?](https://www.reddit.com/r/robotics/comments/1st82mb/myactuator_rmdx10s_sounding_real_bad_but_appear/)**
 
-9h ago
+11h ago
 
 ---
 
@@ -80,7 +80,7 @@ Was working on my routine tinkering without a specific objective or idea. And th
 
 A major barrier for Embodied AI is the latency-precision trade-off. Running a 7B policy usually requires an A100 cluster to stay "reactive," or you end up with choppy 1Hz control that misses dynamic targets. I’ve released FastVLA, a library designed to bring high-parameter policies to closed-loop control on budget cloud hardware (NVIDIA L4). Key Performance Data: Control Frequency: 5.04 Hz (198ms latency) — a 7.16x speedup over the 1420ms baseline. Mechanical Precision: Reduced mean L2 action error from 28.5px to 12.4px by moving to continuous regression heads. Benchmark: Validated on the PushT benchmark, including a new Arabic-PushT variant to test linguistic robustness in action spaces. By optimizing the kernels and memory footprint (4.45GB Peak VRAM), we can now run reactive robots without the "Compute Tax." GitHub/Documentation: https://github.com/BouajilaHamza/fastvla
 
-16h ago
+18h ago
 
 ---
 
@@ -88,7 +88,7 @@ A major barrier for Embodied AI is the latency-precision trade-off. Running a 7B
 
 Bren Pierce, CEO of Kinisi Robotics, described a common pattern in robotics: most systems can reach about 80% of the way to working reliably, but the remaining 20% is still unresolved and not clearly understood. That final stretch is where systems have to deal with variability, edge cases, and real-world conditions that are difficult to predict or model. It is also where there is still no clear agreement on how to move forward. He talks about being at the Conference on Robot Learning (CoRL), and how researchers working across robotics and AI could not align on a single approach. Reinforcement learning, imitation learning, and the possibility of entirely new architectures are all still being debated, with no consensus on what will ultimately solve the problem.
 
-20h ago
+22h ago
 
 ---
 
@@ -96,7 +96,7 @@ Bren Pierce, CEO of Kinisi Robotics, described a common pattern in robotics: mos
 
 The feat has been hailed as a milestone for robotics, a field that has long seen table tennis – and the lightning-fast reactions, perception and skill it demands – as one of the toughest tests of how far the technology has advanced. In the matches, played under official competition rules, Ace displayed a mastery of spin, handled difficult shots, such as balls catching on the net, and pulled off one rapid backspin shot that a professional had thought impossible. A research paper on the robot was published in Nature on Wednesday, but scientists working on the project said Ace had improved since the report was submitted. “We played stronger and stronger players and we beat stronger and stronger players,” said Peter Dürr, the director of Sony AI in Zurich and project lead for Ace. AI researchers use games from chess and go, to poker and Breakout to teach programs on how to make decisions in complex situations. Building an intelligent robot takes the challenge to the next level by requiring the machine to enact decisions effectively. Ace sidesteps some tricky aspects of table tennis by having an eight-jointed arm on a movable base that does not have to stand on two legs. And instead of seeing the ball with two eyes, it draws on images from multiple cameras that view the entire court from different angles and track the position and spin of the ball. By zooming in on the ball’s logo, the camera system can estimate the ball’s spin and axis of rotation in the milliseconds it takes to reach Ace’s end of the table. How to deal with spin, and which shots to play, were honed during 3,000 hours of games played in a computer simulation. Other skills, such as serves, were drawn from those used by expert players.
 
-🔗 [the Guardian](https://www.theguardian.com/science/2026/apr/22/ai-powered-robot-beats-elite-table-tennis-players-milestone-robotics) • 16h ago
+🔗 [the Guardian](https://www.theguardian.com/science/2026/apr/22/ai-powered-robot-beats-elite-table-tennis-players-milestone-robotics) • 18h ago
 
 ---
 
@@ -104,7 +104,7 @@ The feat has been hailed as a milestone for robotics, a field that has long seen
 
 I buy both the HM-D20 and UM960 quadrifilar helix modules for testing, aiming to determine which one could help my drone achieve precise positioning. After testing, I found that both modules deliver comparable performance. Has anyone conducted more extensive tests? I'd appreciate it if you could share your findings with me.
 
-22h ago
+1d ago
 
 ---
 
@@ -120,27 +120,19 @@ IEEE Spectrum • 2d ago
 
 ---
 
-**[CNBC's The China Connection newsletter: China ships more humanoid robots than the U.S. as investors diverge on AI bets](https://www.cnbc.com/2026/04/21/china-humanoid-robots-us-investors.html)**
+**[Accenture, Vodafone Procure & Connect and SAP Pilot Humanoid Robotics in Warehouse Operations](https://newsroom.accenture.com/news/2026/accenture-vodafone-procure-connect-and-sap-pilot-humanoid-robotics-in-warehouse-operations)**
 
-Chinese startups are churning out more humanoid robots than their U.S. rivals, despite far lower valuations.
+Accenture (NYSE: ACN), together with Vodafone Procure & Connect and SAP, is piloting the use of humanoid robotics in warehouse environments, demonstrating how physical AI can enhance operational efficiency, improve safety, and enable new approaches to workforce and business model design.
 
-CNBC • 2d ago
-
----
-
-**[US ramps up humanoid robotics as China threat grows in AI race](https://www.foxbusiness.com/video/6393711598112)**
-
-Foundation Future Industries founder and CEO Sankaet Pathak and Trump Organization Executive Vice President Eric Trump discuss battlefield robotics, national security risks, and China competition on ‘Mornings with Maria.
-
-Fox Business • 1h ago
+Accenture • 1d ago
 
 ---
 
-**[Opinion | What the Chinese robot that ran a half-marathon says about America](https://www.washingtonpost.com/opinions/2026/04/21/china-leads-robotics-race/)**
+**[Humanoid Mania Turns Chinese Brothers Behind Robotic Joint Maker Into Billionaires](https://www.forbes.com/sites/zinnialee/2026/04/23/humanoid-mania-turns-chinese-brothers-behind-robotic-joint-maker-into-billionaires/)**
 
-The robots are coming. Will they be built in America?
+Brothers Zuo Yuyu and Zuo Jing amassed a hard-earned fortune from making an early bet on robot components and building their Shanghai-listed Leaderdrive into China’s largest maker of robotic joints.
 
-The Washington Post • 1d ago
+Forbes • 40m ago
 
 ---
 
@@ -148,7 +140,29 @@ The Washington Post • 1d ago
 
 Reliable Robotics has raised $160 million as it continues to develop and work toward FAA certification for its Reliable Autonomy System for civilian and military aircraft.
 
-The Robot Report • 37m ago
+The Robot Report • 2h ago
+
+---
+
+**[Tesla investors really need to see progress on Robotaxi, robotics](https://finance.yahoo.com/video/tesla-investors-really-need-to-see-progress-on-robotaxi-robotics-214456931.html)**
+
+Tesla (TSLA) reported first quarter results on Wednesday after the closing bell. Adjusted earnings per share (EPS) came in at $0.41 (compared to analyst estimates of $0.34), and revenue came in at $22.39 billion (compared to analyst estimates of $22.19 billion). Yahoo Finance Senior Autos Reporter Pras Subramanian and Barron's associate editor Al Root discuss what investors need from Tesla on robotaxi and robots.
+
+Yahoo Finance • 18h ago
+
+---
+
+**[Tesla boosts spending plan to $25 billion for AI and robots](https://www.latimes.com/business/story/2026-04-23/tesla-boosts-spending-plan-to-25-billion-for-ai-robots)**
+
+Tesla Inc. anticipates billions of dollars in additional spending this year to support Elon Musk’s ambitions to transform the electric vehicle pioneer into an artificial intelligence and robotics company.
+
+Los Angeles Times • 1h ago
+
+---
+
+**[Tesla lifts 2026 spending plans by a quarter as Musk funds AI and robotic dreams](https://www.reuters.com/business/autos-transportation/tesla-revenue-misses-estimates-demand-weakens-2026-04-22/)**
+
+Reuters • 19h ago
 
 ---
 
@@ -156,37 +170,23 @@ The Robot Report • 37m ago
 
 In feat hailed as milestone in robotics, Sony AI’s Ace wins three out of five matches played under official rules
 
-The Guardian • 12h ago
+The Guardian • 14h ago
 
 ---
 
-**[AI robot outplays humans in table tennis milestone](https://www.ft.com/content/9860f042-3332-4534-9b1a-fa9f57b8347e)**
+**[Inside Ukraine’s robot war revolution](https://www.politico.eu/article/inside-ukraine-robot-war-revolution/)**
 
-Sony’s ‘Ace’ defeats elite players, highlighting how AI is improving machines’ abilities to interact with people
+A Ukrainian commander tells POLITICO how robotic systems are transforming the battlefield, in a development with the potential to reshape how wars are fought.
 
-Financial Times • 22h ago
-
----
-
-**[Advanced AI-powered table-tennis-playing robot can match up to the professionals — watch it in action](https://www.livescience.com/technology/robotics/watch-an-ai-based-table-tennis-robot-beat-elite-players)**
-
-Using high-precision cameras and an AI system, Sony AI's Ace is revealing the advancements robotics.
-
-Live Science • 22h ago
+politico.eu • 1d ago
 
 ---
 
-**[Tesla Beats First-Quarter Expectations Amid Pivot To Robotics, AI](https://www.forbes.com/sites/aliciapark/2026/04/22/tesla-beats-first-quarter-expectations-amid-business-pivot-to-robotics-ai/)**
+**[Robot vs. human. Watch robot beat elite players in ping pong](https://www.usatoday.com/story/tech/2026/04/23/robot-beats-table-tennis-players-ping-pong/89750478007/)**
 
-The automaker said demand for its vehicles has rebounded from recent declines .
+Sony’s AI robot Ace defeated top table tennis players in a milestone that could reshape the future of robotics and sports tech.
 
-Forbes • 17h ago
-
----
-
-**[Tesla lifts 2026 spending plans by a quarter as Musk funds AI and robotic dreams](https://www.reuters.com/business/autos-transportation/tesla-revenue-misses-estimates-demand-weakens-2026-04-22/)**
-
-Reuters • 17h ago
+USA Today • 5m ago
 
 ---
 
@@ -200,17 +200,7 @@ AGIBOT just rolled out a full new wave of humanoid robots and AI models built fo
 
 📺 AI Revolution
 
-👁️ 31K • 👍 766 • 💬 51 • ⏱️ 16:29 • 2d ago
-
----
-
-**[China&#39;s Robotics Innovation Is Moving Faster Than Anyone Realizes](https://www.youtube.com/watch?v=qB0SsWTEBlU)**
-
-I thought this would be just another robot demo... I was wrong.At this launch event, X Square Robot introduced a new kind of home ...
-
-📺 Barrett
-
-👁️ 225 • 👍 59 • 💬 5 • ⏱️ 5:43 • 1h ago
+👁️ 31K • 👍 777 • 💬 51 • ⏱️ 16:29 • 2d ago
 
 ---
 
@@ -220,37 +210,7 @@ A humanoid robot has beaten the human record for the world's fastest half-marath
 
 📺 ABC News (Australia)
 
-👁️ 93K • 👍 627 • ⏱️ 6:44 • 3d ago
-
----
-
-**[This robot can beat you at table tennis](https://www.youtube.com/watch?v=EH8kZDc7OLk)**
-
-For the first time, an AI-powered machine has bested elite-level athletes at a physical sport. 'Ace' is a table tennis-playing robot.
-
-📺 nature video
-
-👁️ 30K • 👍 671 • 💬 106 • ⏱️ 13:38 • 22h ago
-
----
-
-**[IA | El PRIMER ROBOT en competir contra jugadores de TENIS DE MESA de élite y profesional | EL PAÍS](https://www.youtube.com/watch?v=yNsszgFRlZU)**
-
-Sony AI ha presentado su proyecto Ace, un robot capaz de competir contra jugadores humanos de tenis de mesa, y que ya ha ...
-
-📺 EL PAÍS
-
-👁️ 40K • 👍 20 • 💬 2 • ⏱️ 1:00 • 1d ago
-
----
-
-**[Humanoid Robot ‘Lightning’ Breaks World Record For A Half-marathon](https://www.youtube.com/watch?v=4i4EglunAag)**
-
-Robots have outpaced human runners at this year's Beijing half-marathon, finishing more than 10 minutes ahead of the top ...
-
-📺 New York Post
-
-👁️ 77K • 👍 704 • 💬 442 • ⏱️ 3:17 • 3d ago
+👁️ 94K • 👍 625 • ⏱️ 6:44 • 3d ago
 
 ---
 
@@ -260,7 +220,7 @@ AI robots failing and glitching 2026 is becoming impossible to ignore. From huma
 
 📺 MindSeeded
 
-👁️ 282K • 👍 16K • 💬 3K • ⏱️ 14:10 • 5d ago
+👁️ 285K • 👍 16K • 💬 3K • ⏱️ 14:10 • 5d ago
 
 ---
 
@@ -270,25 +230,67 @@ China just revealed an autonomous robot war pack built from dog bots, drones, la
 
 📺 AI Revolution
 
-👁️ 75K • 👍 1K • 💬 142 • ⏱️ 16:14 • 6d ago
+👁️ 76K • 👍 1K • 💬 142 • ⏱️ 16:14 • 6d ago
 
 ---
 
-**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=KKtpgEOPH3I)**
+**[China&#39;s Robotics Innovation Is Moving Faster Than Anyone Realizes](https://www.youtube.com/watch?v=qB0SsWTEBlU)**
 
-📺 Robot Julie 
+I thought this would be just another robot demo... I was wrong.At this launch event, X Square Robot introduced a new kind of home ...
 
-👁️ 33K • 👍 146 • 💬 3 • ⏱️ 0:24 • 1d ago
+📺 Barrett
+
+👁️ 516 • 👍 103 • 💬 5 • ⏱️ 5:43 • 3h ago
 
 ---
 
-**[Humanoid robot in China beats the human half-marathon world record](https://www.youtube.com/watch?v=Rh-ZDmUxbVA)**
+**[$1000 Tesla Optimus Robot (Home Edition) Officially Available for Sale!](https://www.youtube.com/watch?v=lA357NZV21E)**
 
-The winner from Honor, a Chinese smartphone maker, completed the 21-kilometer (13-mile) race in 50 minutes and 26 seconds, ...
+Subscribe for more: https://www.youtube.com/@carrosshow9598 Other video's: Elon Musk's New Tesla Robot Has Shocked ...
 
-📺 Associated Press
+📺 Carros Show
 
-👁️ 73K • 👍 336 • 💬 154 • ⏱️ 0:54 • 4d ago
+👁️ 1K • 👍 38 • 💬 8 • ⏱️ 8:25 • 16h ago
+
+---
+
+**[This robot can beat you at table tennis](https://www.youtube.com/watch?v=EH8kZDc7OLk)**
+
+For the first time, an AI-powered machine has bested elite-level athletes at a physical sport. 'Ace' is a table tennis-playing robot.
+
+📺 nature video
+
+👁️ 37K • 👍 737 • 💬 113 • ⏱️ 13:38 • 1d ago
+
+---
+
+**[Real dogs meet Elon Musk robot dog](https://www.youtube.com/watch?v=oNhJwi4b99Q)**
+
+An Elon Musk robotic dog was seen wandering around San Francisco, bumping into some furry friends. It's all to promote a new ...
+
+📺 CNN
+
+👁️ 159K • 👍 2K • 💬 393 • ⏱️ 0:42 • 4d ago
+
+---
+
+**[Humanoid Robot Beats Human Record in Beijing](https://www.youtube.com/watch?v=XWmVqXpF84A)**
+
+Bloomberg's Minmin Low highlights a half marathon held in Beijing, where autonomous robots showcased significant ...
+
+📺 Bloomberg Television
+
+👁️ 55K • 👍 848 • 💬 283 • ⏱️ 5:51 • 3d ago
+
+---
+
+**[Robots vs humans: Beijing half-marathon delivers stunning result](https://www.youtube.com/watch?v=1vUnusbzNMQ)**
+
+Humanoid robots have beaten human runners in a Beijing half-marathon, marking a breakthrough in China's rapidly advancing ...
+
+📺 Al Jazeera English
+
+👁️ 1.3M • 👍 8K • 💬 3K • ⏱️ 2:13 • 4d ago
 
 ---
 
