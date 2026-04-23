@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-22T23:26:07.232451+00:00'
+updated: '2026-04-23T00:09:58.856779+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 22, 2026 at 23:26 UTC  
+**Last Updated:** April 23, 2026 at 00:09 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Unitree robot just unlocked ballet mode](https://www.reddit.com/r/robotics/comments/1ssqud8/unitree_robot_just_unlocked_ballet_mode/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -50,7 +50,7 @@ We've been optimizing the hardware over the last few weeks. Today we tested the 
 
 Was working on my routine tinkering without a specific objective or idea. And this motion object came up. Does it resemble with anything? what would you call to such motion? where can it be helpful? Your inputs may help fine tune and turn it into something useful.
 
-14h ago
+15h ago
 
 ---
 
@@ -66,7 +66,7 @@ I’ve finished assembling the abdomen, completing the upper body structure. Mor
 
 Bren Pierce, CEO of Kinisi Robotics, described a common pattern in robotics: most systems can reach about 80% of the way to working reliably, but the remaining 20% is still unresolved and not clearly understood. That final stretch is where systems have to deal with variability, edge cases, and real-world conditions that are difficult to predict or model. It is also where there is still no clear agreement on how to move forward. He talks about being at the Conference on Robot Learning (CoRL), and how researchers working across robotics and AI could not align on a single approach. Reinforcement learning, imitation learning, and the possibility of entirely new architectures are all still being debated, with no consensus on what will ultimately solve the problem.
 
-5h ago
+6h ago
 
 ---
 
@@ -74,7 +74,7 @@ Bren Pierce, CEO of Kinisi Robotics, described a common pattern in robotics: mos
 
 A major barrier for Embodied AI is the latency-precision trade-off. Running a 7B policy usually requires an A100 cluster to stay "reactive," or you end up with choppy 1Hz control that misses dynamic targets. I’ve released FastVLA, a library designed to bring high-parameter policies to closed-loop control on budget cloud hardware (NVIDIA L4). Key Performance Data: Control Frequency: 5.04 Hz (198ms latency) — a 7.16x speedup over the 1420ms baseline. Mechanical Precision: Reduced mean L2 action error from 28.5px to 12.4px by moving to continuous regression heads. Benchmark: Validated on the PushT benchmark, including a new Arabic-PushT variant to test linguistic robustness in action spaces. By optimizing the kernels and memory footprint (4.45GB Peak VRAM), we can now run reactive robots without the "Compute Tax." GitHub/Documentation: https://github.com/BouajilaHamza/fastvla
 
-2h ago
+3h ago
 
 ---
 
@@ -96,7 +96,7 @@ I buy both the HM-D20 and UM960 quadrifilar helix modules for testing, aiming to
 
 **[Market Gaps On Mining Robotics](https://www.reddit.com/r/robotics/comments/1ssw8lt/market_gaps_on_mining_robotics/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -148,7 +148,7 @@ Yahoo • 1h ago
 
 Carnegie Mellon University is kicking off draft week with a special event focused on how AI and robotics are playing a role both in Pittsburgh and on the field. Ross Guidotti reports.
 
-CBS News • 48m ago
+CBS News • 1h ago
 
 ---
 
@@ -156,7 +156,7 @@ CBS News • 48m ago
 
 In feat hailed as milestone in robotics, Sony AI’s Ace wins three out of five matches played under official rules
 
-The Guardian • 5h ago
+The Guardian • 6h ago
 
 ---
 
@@ -172,7 +172,7 @@ The Washington Post • 1d ago
 
 The IDF has ramped up its use of robots in warfare against Hezbollah in Bint Jbail, accelerating the destruction of weapons infrastructure as military operations intensify.
 
-The Jerusalem Post • 10h ago
+The Jerusalem Post • 11h ago
 
 ---
 
@@ -212,7 +212,7 @@ For the first time, an AI-powered machine has bested elite-level athletes at a p
 
 📺 nature video
 
-👁️ 10K • 👍 235 • 💬 53 • ⏱️ 13:38 • 8h ago
+👁️ 10K • 👍 235 • 💬 53 • ⏱️ 13:38 • 9h ago
 
 ---
 
@@ -280,7 +280,7 @@ The winner from Honor, a Chinese smartphone maker, completed the 21-kilometer (1
 
 📺 Robot Julie 
 
-👁️ 23K • 👍 101 • 💬 3 • ⏱️ 0:24 • 22h ago
+👁️ 23K • 👍 101 • 💬 3 • ⏱️ 0:24 • 23h ago
 
 ---
 
@@ -290,7 +290,7 @@ NEW LIVE CHANNEL - https://www.youtube.com/@chrisbodenlive/streams And come hang
 
 📺 Chris Boden
 
-👁️ 73K • 👍 7K • 💬 181 • ⏱️ 1:27 • 11h ago
+👁️ 73K • 👍 7K • 💬 181 • ⏱️ 1:27 • 12h ago
 
 ---
 

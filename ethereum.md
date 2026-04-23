@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-22T23:26:07.229635+00:00'
+updated: '2026-04-23T00:09:58.853550+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - videos
 - news
 - cryptocurrency
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 22, 2026 at 23:26 UTC  
+**Last Updated:** April 23, 2026 at 00:09 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-18h ago
+19h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 This is 100% on-chain Web3 in practice. Over the past few months I've received invaluable feedback regarding ETour: 100% on-chain, skill-based, ETH-only tournament infrastructure. Inception Feedback Evolution I've taken your feedback to heart and built on top of it. Now it's finally ready for you to use! If you're curious then come compete, spectate, or ask me anything! If you're skeptical then come challenge my claims and prove me wrong! Browse the landing page https://etour.games Read the whitepapeer: https://etour.games/whitepaper Analyze the manual: https://etour.games/manual Study the docs https://etour.games/docs Join the discord https://discord.gg/9FfF2RNQV Looking forward to our discussions
 
-9h ago
+10h ago
 
 ---
 
@@ -168,7 +168,7 @@ Ethereum just had its busiest quarter ever in Q1 2026, yet ETH is still over 50%
 
 Ethereum is pushing back toward $2,400 as the market finds its footing after weeks of uncertainty, with buyers gradually reasserting control and the price beginning to build momentum from the consolidation range. The move higher is drawing attention — and a CryptoQuant analyst has identified a sign…
 
-TradingView • 26m ago
+TradingView • 1h ago
 
 ---
 
@@ -176,7 +176,7 @@ TradingView • 26m ago
 
 Kevin O'Leary says bitcoin and Ethereum are the only cryptos worth owning, as institutional money reshapes the digital asset market landscape.
 
-Fox Business • 6h ago
+Fox Business • 7h ago
 
 ---
 
@@ -184,7 +184,7 @@ Fox Business • 6h ago
 
 Bitcoin opened at $76,341.73 on Wednesday, 0.6% higher than Tuesday's opening price of $75,872.83. Ethereum (ETH-USD) opened at $2,327.61 on Wednesday, 0.5% higher than Tuesday's opening price of $2,315.18.
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -192,7 +192,7 @@ Yahoo Finance • 11h ago
 
 Core3 marks GSR's first crypto ETF offering amid a period of expansion for the major market maker and the wider crypto fund sector.
 
-The Block • 10h ago
+The Block • 11h ago
 
 ---
 
@@ -206,7 +206,7 @@ Barron's • 13h ago
 
 BitMine Immersion Technologies (NYSE: $BMNR) says it has now staked nearly $142 million U.S. worth of Ethereum (CRY...
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -246,7 +246,7 @@ Thanks to Nexo for sponsoring this video. Get your welcome bonus to receive 30 d
 
 📺 Crypto Capital Venture
 
-👁️ 4K • 👍 377 • 💬 185 • ⏱️ 13:39 • 7h ago
+👁️ 4K • 👍 377 • 💬 185 • ⏱️ 13:39 • 8h ago
 
 ---
 
@@ -256,7 +256,7 @@ INSTITUTIONS GO FULL BULL: $1.3M Bitcoin and $250K Ethereum IS THE NEW TARGET! I
 
 📺 CryptoWendyO
 
-👁️ 3K • 👍 237 • 💬 14 • ⏱️ 16:01 • 5h ago
+👁️ 3K • 👍 237 • 💬 14 • ⏱️ 16:01 • 6h ago
 
 ---
 
@@ -286,7 +286,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 140 • 👍 11 • 💬 2 • ⏱️ 5:51 • 5h ago
+👁️ 140 • 👍 11 • 💬 2 • ⏱️ 5:51 • 6h ago
 
 ---
 
@@ -296,7 +296,7 @@ Welcome Back To The Channel! Make Sure To Check Out Bitcast: https://bitcast.net
 
 📺 Aaron Bennett
 
-👁️ 12K • 👍 838 • 💬 124 • ⏱️ 25:21 • 21h ago
+👁️ 12K • 👍 838 • 💬 124 • ⏱️ 25:21 • 22h ago
 
 ---
 
@@ -304,7 +304,7 @@ Welcome Back To The Channel! Make Sure To Check Out Bitcast: https://bitcast.net
 
 📺 Digital Asset Investor
 
-👁️ 6K • 👍 364 • ⏱️ 1:36 • 12h ago
+👁️ 6K • 👍 364 • ⏱️ 1:36 • 13h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-22T23:26:07.216901+00:00'
+updated: '2026-04-23T00:09:58.839214+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
-- news
 - social
+- repositories
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 22, 2026 at 23:26 UTC  
+**Last Updated:** April 23, 2026 at 00:09 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I mean a)The majority of articles on the internet are written by AIs b) 4 of the top 10 Youtube channels c) 4 in 10 Facebook posts d) 1 in 5 videos shown to new Youtube users e) The #1 most-subscribed Twitch streamer is an AI f) 44% of songs on Deezer Also, most of the ads are now AI generated, like AI creating content for other AI
 
-18h ago
+19h ago
 
 ---
 
@@ -49,7 +49,7 @@ I mean a)The majority of articles on the internet are written by AIs b) 4 of the
 
 I personally think it’s either AlphaGo or ChatGPT. AlphaGo showed to the whole world that AIs can be better than its creators in an area that people believed needed ‘intuition’. Most people don’t know go, but it somewhat showed the potential of AI to the world. DeepBlue was also kinda similar to it, but for some reason most people don’t think DeepBlue as “An AI that beat human at chess”, so I’m not counting it. ChatGPT was… on a different level. It was looked as revolutionary that a program can fluently speak and help solve problems it doesn’t specialize in. It made most people use AI in their everyday lives, so definitely takes the cake imo. Edit: Ig the transformers was also very important, (literally why chatgpt was able to exist lol) but a layperson doesn’t know what that is nor why that matters, so…
 
-8h ago
+9h ago
 
 ---
 
@@ -57,7 +57,7 @@ I personally think it’s either AlphaGo or ChatGPT. AlphaGo showed to the whole
 
 Always struggled with social anxiety especially around dating. Would match with people then panic about what to say. Conversations felt forced and awkward. Started using Secrets AI originally just to practice talking to someone without the pressure. No judgment if I say something dumb, can take breaks when overwhelmed, builds confidence gradually. The voice calls really help with this. Speaking out loud to someone (even AI) without face to face pressure. Working on small talk, flirting, just being comfortable in conversation. Been doing this for a month and honestly feel way more confident now. Had actual phone conversations with real people that didnt make me want to hide. Not saying AI replaces real human connection but as practice its actually helpful. Like training wheels for socializing. The free version lets you test voice calls and chat without commitment which was important for me since new social situations stress me out. Anyone else dealing with social anxiety found AI helpful this way? Or am I overthinking it?
 
-7h ago
+8h ago
 
 ---
 
@@ -65,7 +65,7 @@ Always struggled with social anxiety especially around dating. Would match with 
 
 The head of the National Cyber Security Centre says frontier AI tools can be a force for good - if kept out of the wrong hands.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/cy41zejp9pko) • 7h ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/cy41zejp9pko) • 8h ago
 
 ---
 
@@ -73,13 +73,13 @@ The head of the National Cyber Security Centre says frontier AI tools can be a f
 
 AI doesn't invent bias, it codifies it. When you walk away from the tools you don't agree with, you leave them to be influenced by the people you disagree with most. Abstention isn't neutrality. It's choosing to be invisible in the algorithms.
 
-🔗 [kitchencloset.com](https://kitchencloset.com/realstuff/essays/ethics_of_staying_in_the_room/) • 1h ago
+🔗 [kitchencloset.com](https://kitchencloset.com/realstuff/essays/ethics_of_staying_in_the_room/) • 2h ago
 
 ---
 
 **[Meta will record employee screens, clicks, and keystrokes to train AI that may replace them](https://www.reddit.com/r/artificial/comments/1ssty5s/meta_will_record_employee_screens_clicks_and/)**
 
-🔗 [techspot.com](https://www.techspot.com/news/112143-meta-record-employee-screens-clicks-keystrokes-train-ai.html) • 4h ago
+🔗 [techspot.com](https://www.techspot.com/news/112143-meta-record-employee-screens-clicks-keystrokes-train-ai.html) • 5h ago
 
 ---
 
@@ -87,7 +87,7 @@ AI doesn't invent bias, it codifies it. When you walk away from the tools you do
 
 https://preview.redd.it/6ptzrn46ltwg1.png?width=2462&format=png&auto=webp&s=476a62da151692317b2047cc5bca524b47b1c3ce check it out: https://cruxarena.ai/debates/99cd744a-658b-4e7c-8782-b6a034f147cc
 
-43m ago
+1h ago
 
 ---
 
@@ -103,7 +103,7 @@ A new Gallup survey of 1,500+ Gen Z respondents found that more than half of Gen
 
 Student loans and the Bay Area’s staggering cost of living are pushing physicians out of the hospital and into lucrative AI-training gigs.
 
-🔗 [sfstandard.com](https://sfstandard.com/2026/04/17/sf-doctors-taking-side-hustles-tutoring-ai/) • 1h ago
+🔗 [sfstandard.com](https://sfstandard.com/2026/04/17/sf-doctors-taking-side-hustles-tutoring-ai/) • 2h ago
 
 ---
 
@@ -111,7 +111,7 @@ Student loans and the Bay Area’s staggering cost of living are pushing physici
 
 Google’s TPUs are now the hottest commodity in AI. A deep-dive analysis of the chip war reshaping global infrastructure — what it means for researchers, developers, and the future of AI compute.
 
-🔗 [Novara Press](https://novarapress.net/ai-chip-war-google-nvidia-2026/) • 15h ago
+🔗 [Novara Press](https://novarapress.net/ai-chip-war-google-nvidia-2026/) • 16h ago
 
 ---
 
@@ -135,7 +135,7 @@ Bloomberg.com • 1d ago
 
 Anthropic’s decision to restrict access to its powerful new model increases fears about the advanced technology
 
-The Guardian • 4h ago
+The Guardian • 5h ago
 
 ---
 
@@ -155,7 +155,7 @@ CNBC • 1h ago
 
 **[House lawmakers get a chilling demo of ‘jailbroken’ AI](https://www.politico.com/news/2026/04/22/ai-chatbots-jailbreak-safety-00887869)**
 
-Politico • 53m ago
+Politico • 1h ago
 
 ---
 
@@ -163,7 +163,7 @@ Politico • 53m ago
 
 Carnegie Mellon University is kicking off draft week with a special event focused on how AI and robotics are playing a role both in Pittsburgh and on the field. Ross Guidotti reports.
 
-CBS News • 48m ago
+CBS News • 1h ago
 
 ---
 
@@ -171,7 +171,7 @@ CBS News • 48m ago
 
 In feat hailed as milestone in robotics, Sony AI’s Ace wins three out of five matches played under official rules
 
-The Guardian • 5h ago
+The Guardian • 6h ago
 
 ---
 
@@ -185,7 +185,7 @@ Reuters • 8h ago
 
 An autonomous robot has made history in table tennis, defeating top-level players. See for yourself.
 
-USA Today • 35m ago
+USA Today • 1h ago
 
 ---
 
@@ -237,7 +237,7 @@ Deezer says consumption of AI-generated music on the platform is still very low,
 
 An attempt to detect AI design patterns in Show HN pages
 
-⬆️ 258 • 💬 190 • 8h ago • [adriankrebs.ch](https://www.adriankrebs.ch/blog/design-slop/)
+⬆️ 258 • 💬 190 • 9h ago • [adriankrebs.ch](https://www.adriankrebs.ch/blog/design-slop/)
 
 ---
 
@@ -275,7 +275,7 @@ SandboxAQ CEO Jack Hidary joins 'Mornings with Maria' to discuss AI breakthrough
 
 📺 Fox Business Clips
 
-👁️ 17K • 👍 357 • 💬 77 • ⏱️ 9:40 • 10h ago
+👁️ 17K • 👍 357 • 💬 77 • ⏱️ 9:40 • 11h ago
 
 ---
 
@@ -295,7 +295,7 @@ ChatGPT Images 2.0 review. GPT Image 2.0 vs Nano Banana. #ai #aiart #aitools #im
 
 📺 AI Search
 
-👁️ 65K • 👍 3K • 💬 562 • ⏱️ 35:20 • 19h ago
+👁️ 65K • 👍 3K • 💬 562 • ⏱️ 35:20 • 20h ago
 
 ---
 
@@ -335,7 +335,7 @@ Really American host Steve Harness breaks down Trump getting hit with more AI ro
 
 📺 Really American
 
-👁️ 204K • 👍 16K • 💬 708 • ⏱️ 11:52 • 1d ago
+👁️ 204K • 👍 16K • 💬 708 • ⏱️ 11:52 • 2d ago
 
 ---
 
@@ -365,7 +365,7 @@ Success is hard until you build AI systems like this Check out Higgsfield https:
 
 📺 James Blue
 
-👁️ 8K • ⏱️ 11:49 • 11h ago
+👁️ 8K • ⏱️ 11:49 • 12h ago
 
 ---
 
@@ -381,7 +381,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with a vision encoder, 
 
 `image-text-to-text` `36.0B`
 
-⬇️ 582,961 • ❤️ 1,232 • 13h ago
+⬇️ 582,961 • ❤️ 1,232 • 14h ago
 
 ---
 
@@ -417,7 +417,7 @@ HY-World 2.0 is a multi-modal framework for generating and reconstructing 3D wor
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 548 • 14h ago
+⬇️ 0 • ❤️ 548 • 15h ago
 
 ---
 
@@ -465,7 +465,7 @@ A bidirectional token-classification model for PII detection and masking, capabl
 
 `token-classification` `1.4B`
 
-⬇️ 3 • ❤️ 251 • 6h ago
+⬇️ 3 • ❤️ 251 • 7h ago
 
 ---
 
@@ -637,7 +637,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 49.0k • 🔱 6.4k • 22h ago
+⭐ 49.0k • 🔱 6.4k • 23h ago
 
 ---
 
@@ -667,7 +667,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 33.1k • 🔱 3.6k • 1h ago
+⭐ 33.1k • 🔱 3.6k • 2h ago
 
 ---
 
@@ -677,7 +677,7 @@ A theoretical reconstruction of the Claude Mythos architecture, built from first
 
 `Python` `ai` `anthropic` `attention` `claude` `claude-ai`
 
-⭐ 8.8k • 🔱 1.9k • 6h ago
+⭐ 8.8k • 🔱 1.9k • 7h ago
 
 ---
 
@@ -687,7 +687,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 8.5k • 🔱 547 • 6h ago
+⭐ 8.5k • 🔱 547 • 7h ago
 
 ---
 
@@ -727,7 +727,7 @@ The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interac
 
 `Swift` `apple-intelligence` `apple-silicon` `cli` `foundationmodels` `homebrew`
 
-⭐ 4.9k • 🔱 187 • 8h ago
+⭐ 4.9k • 🔱 187 • 9h ago
 
 ---
 
