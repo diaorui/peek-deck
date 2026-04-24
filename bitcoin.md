@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-24T11:40:39.021238+00:00'
+updated: '2026-04-24T13:26:11.996832+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - social
 - videos
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 24, 2026 at 11:40 UTC  
+**Last Updated:** April 24, 2026 at 13:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,15 +38,15 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,885.52
+### $78,294.65
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
-**7d:** +3.4%  
-**30d:** +13.8%  
+**24h:** +0.0%  
+**7d:** +3.3%  
+**30d:** +13.7%  
 **90d:** -9.7%  
 **1y:** -17.3%  
 
@@ -81,45 +81,7 @@ Rank #1
 
 ARK Invest says Bitcoin has not bottomed yet as whales stack 1.47 million BTC during Q1's 22% price drawdown.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/bitcoin-whales-accumulate-69-more-052711529.html) • 4h ago
-
----
-
-**[How many people actually use lightning network?](https://www.reddit.com/r/Bitcoin/comments/1su3yuf/how_many_people_actually_use_lightning_network/)**
-
-Lightning Network been around for a while. I’m just not really seeing much traction. Feel free to down vote this if you think it’s not true, but Corre bitcoin versus lightning, Network just doesn’t seem to ever have really caught on. I do see some new wallets and some new innovation happening Starr app for example I just don’t see that many transactions even if you go to Steak ‘n Shake both lightning and core are accepted is anyone actually paying with lightning?
-
-8h ago
-
----
-
-**[What’s next for bitcoin](https://www.reddit.com/r/Bitcoin/comments/1su7x90/whats_next_for_bitcoin/)**
-
-Bitcoin’s next move? Institutional adoption, ETF flows, and whether $100K holds or we see a correction first. What do you guys think ?
-
-4h ago
-
----
-
-**[raw₿it — Visual Bitcoin raw Transaction Builder](https://www.reddit.com/r/Bitcoin/comments/1sub9sa/rawit_visual_bitcoin_raw_transaction_builder/)**
-
-An interactive tool to build and understand Bitcoin transactions visually. • Connect predefined nodes → see every byte update live • Step through script execution with live stack view • Full Python code behind each node ('Show code' in node menu) 14 hands-on lessons + exercises included (P2PKH, P2SH, SegWit, multisig, timelocks, payment channels, Taproot) — all broadcast to testnet. More coming (Coinjoin, Lightning, Mining …). Free · open-source · educational only rawbit.io https://github.com/rawBit-io/rawbit Human Rights Foundation and OpenSats grantee https://hrf.org/latest/hrfs-bitcoin-development-fund-announces-support-for-26-projects-worldwide/ https://opensats.org/blog/seventeenth-wave-of-bitcoin-grants
-
-1h ago
-
----
-
-**[15 years ago today Satoshi moved on to other things - Also Happens to Be St. George's Day](https://www.reddit.com/r/Bitcoin/comments/1stu40d/15_years_ago_today_satoshi_moved_on_to_other/)**
-
-With recent hype around Satoshi lore and history, some of you may enjoy this series exploring the cryptography mailing list discussions between developers and Satoshi in late 2008 on Bitcoin. https://www.youtube.com/playlist?list=PL-ZkFGMOJOGvnG7LkoLpTc9GQz-rP5dms
-
-15h ago
-
----
-
-**[The Dead Man's Switch: How to Program a Trustless Bitcoin Inheritance Using OP_CSV. Trusting an estate lawyer with your keys means surrendering your wealth. How to use relative time-locks to build a trustless, algorithmic will.](https://www.reddit.com/r/Bitcoin/comments/1sua82y/the_dead_mans_switch_how_to_program_a_trustless/)**
-
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-dead-mans-switch-how-to-program) • 2h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/bitcoin-whales-accumulate-69-more-052711529.html) • 5h ago
 
 ---
 
@@ -127,15 +89,45 @@ With recent hype around Satoshi lore and history, some of you may enjoy this ser
 
 honestly curious: why is Bitcoin your #1 choice?
 
-1h ago
+2h ago
 
 ---
 
-**[U.S. Military Confirms It's Running a Live Bitcoin Node](https://www.reddit.com/r/Bitcoin/comments/1sts8r6/us_military_confirms_its_running_a_live_bitcoin/)**
+**[The Dead Man's Switch: How to Program a Trustless Bitcoin Inheritance Using OP_CSV. Trusting an estate lawyer with your keys means surrendering your wealth. How to use relative time-locks to build a trustless, algorithmic will.](https://www.reddit.com/r/Bitcoin/comments/1sua82y/the_dead_mans_switch_how_to_program_a_trustless/)**
 
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-dead-mans-switch-how-to-program) • 4h ago
 
-🔗 [youtu.be](https://youtu.be/FwzyfJy88fg?si=bvS8atuz_x-2ZVFW) • 16h ago
+---
+
+**[What’s next for bitcoin](https://www.reddit.com/r/Bitcoin/comments/1su7x90/whats_next_for_bitcoin/)**
+
+Bitcoin’s next move? Institutional adoption, ETF flows, and whether $100K holds or we see a correction first. What do you guys think ?
+
+6h ago
+
+---
+
+**[How many people actually use lightning network?](https://www.reddit.com/r/Bitcoin/comments/1su3yuf/how_many_people_actually_use_lightning_network/)**
+
+Lightning Network been around for a while. I’m just not really seeing much traction. Feel free to down vote this if you think it’s not true, but Corre bitcoin versus lightning, Network just doesn’t seem to ever have really caught on. I do see some new wallets and some new innovation happening Starr app for example I just don’t see that many transactions even if you go to Steak ‘n Shake both lightning and core are accepted is anyone actually paying with lightning?
+
+10h ago
+
+---
+
+**[raw₿it — Visual Bitcoin raw Transaction Builder](https://www.reddit.com/r/Bitcoin/comments/1sub9sa/rawit_visual_bitcoin_raw_transaction_builder/)**
+
+An interactive tool to build and understand Bitcoin transactions visually. • Connect predefined nodes → see every byte update live • Step through script execution with live stack view • Full Python code behind each node ('Show code' in node menu) 14 hands-on lessons + exercises included (P2PKH, P2SH, SegWit, multisig, timelocks, payment channels, Taproot) — all broadcast to testnet. More coming (Coinjoin, Lightning, Mining …). Free · open-source · educational only rawbit.io https://github.com/rawBit-io/rawbit Human Rights Foundation and OpenSats grantee https://hrf.org/latest/hrfs-bitcoin-development-fund-announces-support-for-26-projects-worldwide/ https://opensats.org/blog/seventeenth-wave-of-bitcoin-grants
+
+3h ago
+
+---
+
+**[15 years ago today Satoshi moved on to other things - Also Happens to Be St. George's Day](https://www.reddit.com/r/Bitcoin/comments/1stu40d/15_years_ago_today_satoshi_moved_on_to_other/)**
+
+With recent hype around Satoshi lore and history, some of you may enjoy this series exploring the cryptography mailing list discussions between developers and Satoshi in late 2008 on Bitcoin. https://www.youtube.com/playlist?list=PL-ZkFGMOJOGvnG7LkoLpTc9GQz-rP5dms
+
+17h ago
 
 ---
 
@@ -143,15 +135,23 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-5h ago
+7h ago
 
 ---
 
-**[As Petrodollar weakens, Bitcoin gains momentun](https://www.reddit.com/r/Bitcoin/comments/1stqokx/as_petrodollar_weakens_bitcoin_gains_momentun/)**
+**[Next century the last single bitcoin will take 38 years to be mined, which can only mean one of two things..](https://www.reddit.com/r/Bitcoin/comments/1su8aga/next_century_the_last_single_bitcoin_will_take_38/)**
 
-Has anyone here ever heard of “petrobitcoin”?. I was just reading an article about this concept called “petrobitcoin” — basically the idea that Bitcoin could start being used in oil trade, not as a new token but as part of real energy transactions. It sounds unusual at first, but given everything happening globally in 2026, it kind of makes you think twice. Here is this interesting breakdown about this, https://www.cointribune.com/en/petrobitcoin-is-the-dream-of-a-bitcoin-backed-by-oil-coming-true-in-2026/
+Every major mining operation while seize to mine BTC because lack of profitability. The hashrate will plummet and bitcoin will become a vulnerable pet-project. Maybe even attacked by malicious entities. Or.. The price of BTC will become astronomically high, beyond your wildest imagination and mining will thrive and expand. Which scenario do you believe is most likely?
 
-17h ago
+6h ago
+
+---
+
+**[U.S. Military Confirms It's Running a Live Bitcoin Node](https://www.reddit.com/r/Bitcoin/comments/1sts8r6/us_military_confirms_its_running_a_live_bitcoin/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtu.be](https://youtu.be/FwzyfJy88fg?si=bvS8atuz_x-2ZVFW) • 18h ago
 
 ---
 
@@ -159,57 +159,55 @@ Has anyone here ever heard of “petrobitcoin”?. I was just reading an article
 
 ## Google News: "bitcoin"
 
-**[Bitcoin ETF 'flows turned positive for the year': BNY's global head of ETFs](https://www.theblock.co/post/398699/bitcoin-etf-flows-turned-positive-year-bny-global-head-etfs)**
-
-“Flows have turned positive for the year,” Global Head of ETFs at BNY Asset Servicing Ben Slavin told The Block.
-
-The Block • 15h ago
-
----
-
-**[The $145 billion math: Why bitcoin’s quantum threat is manageable, not existential](https://www.coindesk.com/markets/2026/04/23/the-usd145-billion-math-why-bitcoin-s-quantum-threat-is-manageable-not-existential)**
-
-Quantum fears focus on vulnerable early wallets, but market data suggests even a worst case sell-off would be large, not catastrophic.Quantum fears focus on vulnerable early wallets, but market data suggests even a worst case sell-off would be large, not catastrophic.
-
-CoinDesk • 21h ago
-
----
-
-**[Bitcoin and ethereum prices today, Friday, April 24, 2026: Values up over the last five days](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-april-24-2026-values-up-over-the-last-five-days-112919953.html)**
-
-Bitcoin opened at $78,278.66 on Friday. The value of bitcoin as of 7:06 a.m ET was $78,106.63. Ethereum opened at $2,331.54 on Friday. The value of ethereum as of 7:06 a.m. ET was $2,352.95.
-
-Yahoo Finance • 11m ago
-
----
-
-**[Bitcoin Recovery May Not Arrive Until October, Scaramucci Says](https://www.tradingview.com/news/newsbtc:fea7dc1d1094b:0-bitcoin-recovery-may-not-arrive-until-october-scaramucci-says/)**
-
-Anthony Scaramucci said Bitcoin may not see a meaningful recovery until October or November, arguing that the current drawdown still fits the asset’s historic four-year cycle despite a more favorable regulatory backdrop in Washington.Speaking on the Thinking Crypto podcast from the Solana Policy Su…
-
-TradingView • 1h ago
-
----
-
 **[Michael Saylor says BTC winter is over. Market analyst disagrees, says bitcoin was in a pullback](https://www.coindesk.com/markets/2026/04/23/michael-saylor-says-the-bitcoin-winter-is-over-some-experts-agree-with-caveats)**
 
 While the Strategy executive chair signals the bitcoin bottom and that institutions will be the next to drive up the price, another market analyst disagreed, saying nation States will be the ones.
 
-CoinDesk • 1h ago
+CoinDesk • 3h ago
 
 ---
 
-**[Push to Unwind Bitcoin Hoarder Shows Once-Hot Trade Failing](https://www.bloomberg.com/news/articles/2026-04-23/push-to-unwind-bitcoin-hoarder-shows-once-hot-trade-collapsing)**
+**[Bitcoin and ethereum price today, Thursday, April 23, 2026: Strong opening for bitcoin, but traders still cautious](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-thursday-april-23-2026-strong-opening-for-bitcoin-but-traders-still-cautious-114021085.html)**
 
-Bloomberg.com • 20h ago
+Bitcoin opened at $78,192.98 on Thursday, but retreated to $77,464.56 by 7:10 a.m. ET.  Ethereum opened at $2,375.12 on Thursday, but the price fell to $2,316.88 by 7:10 a.m. ET.
+
+Yahoo Finance • 1d ago
 
 ---
 
-**[Video: Opinion | Do We All Need a Little Bitcoin?](https://www.nytimes.com/video/opinion/100000010848698/do-we-all-need-a-little-bitcoin.html)**
+**[Current price of Bitcoin for April 24, 2026](https://fortune.com/article/price-of-bitcoin-04-24-2026/)**
 
-Stability is the single biggest lie in financial markets, the investor and Bitcoin evangelist Anthony Pompliano tells the columnist Ross Douthat on “Interesting Times.” The “volatility generation” is embracing Bitcoin because traditional assets like Treasuries are actually designed to lose money, he argues.
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-The New York Times • 14h ago
+Fortune • 22m ago
+
+---
+
+**[Opinion | A Bitcoin Evangelist Tries to Convert Me](https://www.nytimes.com/2026/04/23/opinion/bitcoin-crypto-anthony-pompliano.html)**
+
+The New York Times • 1d ago
+
+---
+
+**[Elon Musk's Tesla Retains Bitcoin Holdings in Q1 Amid $222 Million Digital Assets Losses On Paper](https://finance.yahoo.com/markets/crypto/articles/elon-musks-tesla-retains-bitcoin-104609890.html)**
+
+Tesla Inc. held onto its Bitcoin through the first quarter, but reported significant paper losses on the holdings on Wednesday. Tesla’s BTC Hoard Suffers In Bear Market The Elon Musk-led mobility giant reported $786 million in digital assets as of...
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Bitcoin ETF 'flows turned positive for the year': BNY's global head of ETFs](https://www.theblock.co/post/398699/bitcoin-etf-flows-turned-positive-year-bny-global-head-etfs)**
+
+“Flows have turned positive for the year,” Global Head of ETFs at BNY Asset Servicing Ben Slavin told The Block.
+
+The Block • 17h ago
+
+---
+
+**[Chinese crypto tycoon eyes Hong Kong capital with bitcoin asset management push](https://www.reuters.com/world/asia-pacific/chinese-crypto-tycoon-eyes-hong-kong-capital-with-bitcoin-asset-management-push-2026-04-22/)**
+
+Reuters • 2d ago
 
 ---
 
@@ -217,13 +215,7 @@ The New York Times • 14h ago
 
 A bitcoin price reprieve can’t erase the company’s contradictions
 
-Financial Times • 6h ago
-
----
-
-**[Bitcoin Price Falls From 11-Week High. Why, Ethereum, XRP, Cryptos Are Dropping.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-iran-54088134)**
-
-Barron's • 20h ago
+Financial Times • 8h ago
 
 ---
 
@@ -231,7 +223,13 @@ Barron's • 20h ago
 
 Fold has launched a Bitcoin Bonus Program through its new Fold Business platform, enabling employers to offer recurring bitcoin-denominated bonuses that are automatically converted, custodied, and vested by Fold without altering existing payroll systems.
 
-Bitcoin Magazine • 17h ago
+Bitcoin Magazine • 19h ago
+
+---
+
+**[What happens to Bitcoin if this fintech stock's recent innovation really takes off?](https://www.msn.com/en-us/money/savingandinvesting/what-happens-to-bitcoin-if-this-fintech-stock-s-recent-innovation-really-takes-off/ar-AA21DoEG?ocid=finance-verthp-feeds)**
+
+MSN • 2h ago
 
 ---
 
@@ -281,13 +279,13 @@ Part one explained the physics of quantum computing. This piece explains the tar
 
 Build wallets, issue stablecoins, and move BTC instantly: all natively on Bitcoin. No bridges, no custodians. Start building with Spark's SDKs today.
 
-⬆️ 3 • 💬 0 • 15h ago • [Spark](https://www.spark.money)
+⬆️ 3 • 💬 0 • 17h ago • [Spark](https://www.spark.money)
 
 ---
 
 **[Warren Buffett: Why Stocks Beat Gold, Bonds and Bitcoin (2018)](https://news.ycombinator.com/item?id=47875151)**
 
-⬆️ 2 • 💬 0 • 22h ago • [acquirersmultiple.com](https://acquirersmultiple.com/2018/01/warren-buffett-why-stocks-beat-gold-bonds-and-bitcoin/)
+⬆️ 2 • 💬 0 • 1d ago • [acquirersmultiple.com](https://acquirersmultiple.com/2018/01/warren-buffett-why-stocks-beat-gold-bonds-and-bitcoin/)
 
 ---
 
@@ -325,7 +323,7 @@ Bitcoin is rallying out of a major drawdown while funding rates stay flat, short
 
 📺 Simply Bitcoin
 
-👁️ 36K • 👍 2K • 💬 201 • ⏱️ 20:08 • 15h ago
+👁️ 36K • 👍 2K • 💬 201 • ⏱️ 20:08 • 17h ago
 
 ---
 
@@ -335,7 +333,7 @@ Michael Saylor is the CEO of Strategy (formerly MicroStrategy), the first public
 
 📺 Anthony Pompliano
 
-👁️ 23K • 👍 1K • 💬 58 • ⏱️ 1:29:30 • 14h ago
+👁️ 23K • 👍 1K • 💬 58 • ⏱️ 1:29:30 • 16h ago
 
 ---
 
@@ -345,7 +343,7 @@ Michael Saylor is the CEO of Strategy (formerly MicroStrategy), the first public
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 548 • 💬 35 • ⏱️ 1:21:05 • 17h ago
+👁️ 12K • 👍 548 • 💬 35 • ⏱️ 1:21:05 • 19h ago
 
 ---
 
@@ -355,7 +353,7 @@ WARNING! Subscribe to our new channel!: https://m.youtube.com/@jebbmcafeeinvests
 
 📺 Crypto Jebb
 
-👁️ 5K • 👍 300 • 💬 67 • ⏱️ 12:58 • 17h ago
+👁️ 5K • 👍 300 • 💬 67 • ⏱️ 12:58 • 19h ago
 
 ---
 
@@ -365,7 +363,7 @@ Major U.S. banking trade groups are pushing regulators to delay comment deadline
 
 📺 Paul Barron Network
 
-👁️ 41K • 👍 3K • 💬 403 • ⏱️ 12:11 • 16h ago
+👁️ 41K • 👍 3K • 💬 403 • ⏱️ 12:11 • 17h ago
 
 ---
 
@@ -385,7 +383,7 @@ The REAL REASON Bitcoin is pumping... ⭐ Follow Altcoin Daily on X: https://twi
 
 📺 Altcoin Daily
 
-👁️ 9K • 👍 263 • 💬 3 • ⏱️ 0:53 • 23h ago
+👁️ 9K • 👍 263 • 💬 3 • ⏱️ 0:53 • 1d ago
 
 ---
 
@@ -405,7 +403,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 3K • 👍 309 • 💬 65 • ⏱️ 5:23 • 18h ago
+👁️ 3K • 👍 309 • 💬 65 • ⏱️ 5:23 • 20h ago
 
 ---
 
@@ -415,7 +413,7 @@ Dana Love, PhD delivers a forensic economist's answer to the question everyone i
 
 📺 Dana Love, PhD
 
-👁️ 2K • 👍 189 • 💬 25 • ⏱️ 20:21 • 13h ago
+👁️ 2K • 👍 189 • 💬 25 • ⏱️ 20:21 • 15h ago
 
 ---
 

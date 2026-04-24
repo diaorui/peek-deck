@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-24T11:40:39.030321+00:00'
+updated: '2026-04-24T13:26:12.003063+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 24, 2026 at 11:40 UTC  
+**Last Updated:** April 24, 2026 at 13:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,29 @@ Robotics research and industry news
 
 **[Spin-tracking robot takes on elite table-tennis players - SonyAI](https://www.reddit.com/r/robotics/comments/1stuamz/spintracking_robot_takes_on_elite_tabletennis/)**
 
-15h ago
+17h ago
+
+---
+
+**[SO-101's for it's ACT together](https://www.reddit.com/r/robotics/comments/1sudm58/so101s_for_its_act_together/)**
+
+First rollout of a simple ACT model and the right looks like it got its ACT together The movement could be smoother I think. The robot still has to learn how to handle weird orientation of the cube. Wrote about it here https://x.com/pbshgthm/status/2047640796699267497
+
+1h ago
 
 ---
 
 **[Ahead form robotics new Origin F1 face](https://www.reddit.com/r/robotics/comments/1stz82p/ahead_form_robotics_new_origin_f1_face/)**
 
-12h ago
+13h ago
+
+---
+
+**[US Air Force tests Anduril semiautonomous combat jet drone without direct pilot control](https://www.reddit.com/r/robotics/comments/1subhoa/us_air_force_tests_anduril_semiautonomous_combat/)**
+
+The U.S. Air Force tested a jet-powered YFQ-44A drone that can fly missions on its own, without a pilot controlling it in real time.
+
+🔗 [Interesting Engineering](https://interestingengineering.com/military/usaf-jet-drone-semiautonomous-flight-test) • 3h ago
 
 ---
 
@@ -52,11 +68,11 @@ From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2047257759473946705
 
 ---
 
-**[US Air Force tests Anduril semiautonomous combat jet drone without direct pilot control](https://www.reddit.com/r/robotics/comments/1subhoa/us_air_force_tests_anduril_semiautonomous_combat/)**
+**[Why the VLA architecture hits a ceiling in real homes, and what a unified multimodal approach looks like in practice](https://www.reddit.com/r/robotics/comments/1suel0v/why_the_vla_architecture_hits_a_ceiling_in_real/)**
 
-The U.S. Air Force tested a jet-powered YFQ-44A drone that can fly missions on its own, without a pilot controlling it in real time.
+I've been thinking a lot about why current embodied AI models struggle so hard to cross the gap from lab demos to actual unstructured environments, and I think the root cause is architectural. Most of the field has converged on VLA (Vision-Language-Action) as the default paradigm for robot foundation models. It works well enough in controlled settings, but after reading about recent real-home deployment attempts and digging into the technical critiques, I'm increasingly convinced VLA has a structural ceiling that no amount of scaling will fix. The core issue is that VLA is three separate modules stitched together in sequence. Vision recognizes objects, language parses the instruction, action generates a trajectory. Data passes across module boundaries at each step, and each handoff loses information and adds latency. By the time rich visual context reaches the action head, it has been compressed into what amounts to a blurry summary. Think of it like a game of telephone: the vision module "sees" that a plate is hanging halfway off the table edge, but by the time that spatial detail reaches the action planner through the language bottleneck, the geometric nuance that would let the robot nudge it back is gone. The second problem is deeper. VLA models fundamentally learn to imitate trajectories they've seen during training. They don't build an internal model of physics. The robot doesn't understand why a cup falls when pushed off a surface. It doesn't reason about gravity, inertia, or friction. It just replays the closest matching trajectory from its training distribution. This means every novel situation (and homes are basically infinite novel situations) requires either a training example that's close enough or the robot fails. A cat jumping on a table, a sock in an unexpected spot, a different carpet friction than the lab floor: each of these can break the pipeline. Third, error recovery is essentially nonexistent. When a VLA model fails mid-task, it typically halts and returns an error. It cannot learn from that failure in situ. The failure data has to be collected, shipped back to a training pipeline, incorporated into a new training run, and redeployed. This makes the gap between lab performance and real world performance almost impossible to close at scale. The best analogy I've seen for an alternative approach comes from Apple Silicon's unified memory architecture. Pre-M1 Macs had CPU, GPU, and memory as separate components shuttling data between them, with all the bandwidth and latency penalties that implies. Unified memory put everything in one shared pool, and the performance jump was massive. The same logic applies to embodied AI: instead of three separate modules passing data sequentially, what if vision, language, action, and physics prediction were all trained jointly inside a single network from the start? This is essentially what a World Unified Model (WUM) architecture attempts. X Square Robot recently announced WALL-B, which they describe as a natively multimodal foundation model where all modalities (vision, audio, language, touch, action) are synchronously labeled and jointly trained from day one. No inter-module boundaries, no sequential data transfer. The robot sees a cup and begins preparing the reach simultaneously; it feels the weight and adjusts force in the same forward pass rather than waiting for a separate module to process the feedback. What makes this interesting technically is three specific capabilities they claim emerge from this architecture. First, native proprioception: the model internally senses its own spatial dimensions (arm reach, body width) and can judge whether it fits through a gap or can reach an object without relying on external sensors or constantly observing its own body. Second, physics grounding: the model predicts gravity, inertia, and friction, enabling zero-shot generalization because physics is consistent across environments. A plate half off a table edge gets pushed back not because the robot saw that specific scenario in training, but because it predicts the plate will fall. Third, in-the-wild self-evolution: on failure, the model adjusts strategy and retries, and if the retry succeeds, the result updates the model parameters directly. No engineer retraining, no trip back to the lab. I want to be clear about limitations here. Their own CEO described the current model as being at an "intern" stage. The robots will make mistakes, sometimes stop mid-task to "think," and still need remote assistance. They've committed to deploying WALL-B-powered robots into volunteer households starting May 26, which is a bold timeline. Whether the architecture delivers on these claims in messy real environments is very much an open question. The data strategy is also worth noting. They've been collecting what they call "milk data" from hundreds of volunteer households (as opposed to clean lab data, which they call "sugar water"). The argument is that messy, variable, unpredictable real-home data is what actually drives generalization, and that a data flywheel from real deployments is the actual moat. Curious what people here think about the VLA ceiling argument. Is the sequential module architecture fundamentally limiting, or is it just a scaling problem? And does training all modalities jointly from scratch actually produce emergent physics understanding, or is that a stretch?
 
-🔗 [Interesting Engineering](https://interestingengineering.com/military/usaf-jet-drone-semiautonomous-flight-test) • 1h ago
+46m ago
 
 ---
 
@@ -64,13 +80,21 @@ The U.S. Air Force tested a jet-powered YFQ-44A drone that can fly missions on i
 
 Since my baby started crawling, I’ve been wondering about the difference between “cleaning” and “sanitizing” and whether my robot vacuum actually provides one over the other. The more I read, the more I realize that the two terms get mixed up in conversations, but when it comes to my baby, I want to be sure the floor is sanitized, not just clean. Roller brushes seem to agitate the floor, lifting up debris, but I’ve started to wonder if they’re just redistributing fine particles instead of really removing them. Flat pads, on the other hand, seem to cover more area but don’t agitate the floor as much, meaning they don’t have the same power to lift debris. So the question is: can either of these methods actually sanitize the floor? Or are we just focusing on making the floor look clean? I’m curious if anyone has looked into this from a sanitation standpoint. I want to ensure my baby’s floor is not only free of visible dirt but also of any harmful germs or particles. Has anyone experimented with comparing these methods or found a better alternative for sanitizing, especially for babies?
 
-50m ago
+2h ago
+
+---
+
+**[How useful has Claude Code been for you?](https://www.reddit.com/r/robotics/comments/1suelxj/how_useful_has_claude_code_been_for_you/)**
+
+Hey everyone, I've been building autonomous drones with a monocular camera and have been trying to make good use out of Claude Code for my software development. I noticed that while it's great at writing the boilerplate of my ROS2 nodes, the second I get into runtime messaging, Claude has no idea when one message will publish compared to another. Similarly, when I'm doing any work regarding transforms, Claude seems to have no idea about the robots actual position in a world, and it ends up simply guessing what the right transform is. I get a little frustrated by it because I look at web development and see how much Claude has increased the speed of development there. Some of the super AI-first people are letting their agents run overnight. I feel like if I tried that right now, it would just destroy my repository, since I have to hold Claude's hand at every stage. I'm using ROS2 Jazzy and PX4. Anyone else seeing similar problems? If so, how are you currently getting around it?
+
+45m ago
 
 ---
 
 **[Robot accompagné](https://www.reddit.com/r/robotics/comments/1sttpic/robot_accompagné/)**
 
-15h ago
+17h ago
 
 ---
 
@@ -78,29 +102,7 @@ Since my baby started crawling, I’ve been wondering about the difference betwe
 
 Hi everyone, We’re organizing a Robotics Conference Meetup in PCMC for people interested in robotics, automation, and hardware. This is a community-driven meetup focused on practical discussions, collaboration, and real-world problem solving in robotics. We’ll also have some live demos, including: Drone simulation C2 robotic arm from Kikobot Robotics If anyone is working on a project and wants to demo something, feel free to bring it along. Details: Date: 25 April 2026 Time: 11:00 AM onwards Location: PCMC, Pune (exact location shared after registration) If you’re a student, engineer, or just interested in robotics, you’re welcome to join. Registration link: https://forms.gle/DEhiUzhBhvoQFwiG8 Happy to answer questions in the comments.
 
-3h ago
-
----
-
-**[Robot eDog teste servo](https://www.reddit.com/r/robotics/comments/1stt4io/robot_edog_teste_servo/)**
-
-16h ago
-
----
-
-**[[Tutorial] Making 3D assets physics-accurate for manipulation training: UsdPhysics, collision meshes, mass, friction, restitution estimation](https://www.reddit.com/r/robotics/comments/1stn841/tutorial_making_3d_assets_physicsaccurate_for/)**
-
-The problem If you've tried training a manipulation policy in Isaac Sim or MuJoCo on assets from Sketchfab, Objaverse, or your CAD library, you've probably hit at least one of these: gripper clips through the object, object has infinite mass, stacking collapses non-physically, contacts spike to NaN, or your policy hits 99% in sim and faceplants on real hardware. The fix is almost never the policy. Your 3D assets are visual assets, not simulation assets. They have geometry and textures. They don't have mass, inertia, friction, restitution, a collision mesh, or semantic labels. A SimReady asset carries all of that inside the USD file, using the UsdPhysics schemas. What "SimReady" means in OpenUSD A concrete set of API schemas applied to your prims (OpenUSD physics docs): Schema What it adds UsdPhysicsRigidBodyAPI Dynamic rigid body with linear/angular velocity. UsdPhysicsMassAPI Explicit mass or density (defaults to 1000 kg/m3 if you forget). UsdPhysicsCollisionAPI Turns geometry into a collider. UsdPhysicsMeshCollisionAPI Approximation mode (convex hull, convex decomp, SDF, bounding). UsdPhysicsMaterialAPI Static/dynamic friction, restitution. Bound via UsdShadeMaterialBindingAPI. Stage kilogramsPerUnit + metersPerUnit Your entire sim lies to you if these are wrong. The manual workflow (Blender + Python USD) 1. Stage setup with correct units from pxr import Usd, UsdGeom, UsdPhysics, UsdShade stage = Usd.Stage.CreateNew("mug.usda") UsdGeom.SetStageUpAxis(stage, UsdGeom.Tokens.z) # Isaac Sim convention UsdGeom.SetStageMetersPerUnit(stage, 1.0) UsdPhysics.SetStageKilogramsPerUnit(stage, 1.0) A mug modelled in centimeters with metersPerUnit=1.0 is a mug the size of a car. #1 silent killer. 2. Build a real collision mesh The visual mesh is for rendering, the collision mesh is for physics. Don't reuse the visual mesh — a mug's handle will fail with a single convex hull. Use convex decomposition (CoACD) with 8-32 hulls for anything the gripper touches: pip install coacd python -c "import coacd, trimesh; m = trimesh.load('mug.obj'); \\ coacd.run_coacd(coacd.Mesh(m.vertices, m.faces), threshold=0.05)" 3. Apply the physics APIs mesh_prim = stage.GetPrimAtPath("/World/Mug") # Rigid body UsdPhysics.RigidBodyAPI.Apply(mesh_prim) # Mass - either explicit, or let it derive from volume * density mass_api = UsdPhysics.MassAPI.Apply(mesh_prim) mass_api.CreateMassAttr(0.35) # 350g ceramic mug # or: mass_api.CreateDensityAttr(2400) # ceramic kg/m^3 # Collision UsdPhysics.CollisionAPI.Apply(mesh_prim) mesh_coll = UsdPhysics.MeshCollisionAPI.Apply(mesh_prim) mesh_coll.CreateApproximationAttr("convexDecomposition") # Material (friction/restitution) mat_path = "/World/PhysicsMaterials/Ceramic" mat_prim = UsdShade.Material.Define(stage, mat_path) phys_mat = UsdPhysics.MaterialAPI.Apply(mat_prim.GetPrim()) phys_mat.CreateStaticFrictionAttr(0.7) phys_mat.CreateDynamicFrictionAttr(0.6) phys_mat.CreateRestitutionAttr(0.05) UsdShade.MaterialBindingAPI(mesh_prim).Bind( mat_prim, materialPurpose=UsdShade.Tokens.physics ) 4. Validate Drop it into Isaac Sim, press C for collision preview, and check: does it rest on a plane, does a Franka gripper lift it, do mass and inertia look sane? The gotchas nobody writes down Convex hull on concave objects is why your bowl can't hold anything. Always convex-decompose concave geometry. Center of mass defaults to the AABB center, not the true COM. For a hammer, catastrophic. Override physics:centerOfMass explicitly. Friction combine modes differ per engine. PhysX averages, MuJoCo multiplies, Bullet takes minimum. The same staticFriction=0.5 behaves differently. Test in your deployment engine. xformOp:scale on the prim but collision baked at original scale. Apply scale to geometry before export, or set physics:approximation to rebuild. The automation option Doing this by hand for 40 objects is fine. For 4,000 it is not. This is the problem we've been building Rigyd around: upload a .glb, 2D image, or describe what you need. AI estimates mass, friction, materials, collision meshes, you get back validated OpenUSD with the full UsdPhysics schema stack applied. It supports MJDP file format for MuJoCo as well. You will get free credits on sign up to try without contacting sales. Happy to answer UsdPhysics / Isaac Sim / sim-to-real questions in the comments, or to look at any asset someone's having trouble with. https://preview.redd.it/wcwce1xgsywg1.png?width=1818&format=png&auto=webp&s=18c9810cfd1ff8f542c0db71384665fcea36e03b Disclosure: I'm a co-founder at Rigyd. I reference our tool once at the end as the automation path. The workflow above works by hand in Blender + Isaac Sim with no other tool needed. Mods, happy to edit if anything crosses a line.
-
-19h ago
-
----
-
-**[Bivcom](https://www.reddit.com/r/robotics/comments/1su46hv/bivcom/)**
-
-Hi, I visited a really old plant where they are using “Bivector drives”, apparently they are from ABB, anyone know where can I get the software to run them? Its called Bivcom.
-
-8h ago
+5h ago
 
 ---
 
@@ -112,7 +114,7 @@ Hi, I visited a really old plant where they are using “Bivector drives”, app
 
 Pudu plans to use the funding to develop its embodied AI, grow its product portfolio, and expand in global markets beyond service robots.
 
-The Robot Report • 16h ago
+The Robot Report • 18h ago
 
 ---
 
@@ -120,15 +122,15 @@ The Robot Report • 16h ago
 
 Foundation Future Industries founder and CEO Sankaet Pathak and Trump Organization Executive Vice President Eric Trump discuss battlefield robotics, national security risks, and China competition on ‘Mornings with Maria.
 
-Fox Business • 23h ago
+Fox Business • 1d ago
 
 ---
 
-**[SAP EWM Meets Humanoid Robotics in New Accenture and Vodafone Warehouse Pilot](https://erp.today/sap-ewm-meets-humanoid-robotics-in-new-accenture-and-vodafone-warehouse-pilot/)**
+**[Accenture, Vodafone Procure & Connect and SAP Pilot Humanoid Robotics in Warehouse Operations](https://newsroom.accenture.com/news/2026/accenture-vodafone-procure-connect-and-sap-pilot-humanoid-robotics-in-warehouse-operations)**
 
-SAP, Accenture, and Vodafone are piloting humanoid robotics with SAP EWM in warehouse operations, signaling how physical AI could reshape warehouse execution, automation governance, and enterprise process design.
+Accenture (NYSE: ACN), together with Vodafone Procure & Connect and SAP, is piloting the use of humanoid robotics in warehouse environments, demonstrating how physical AI can enhance operational efficiency, improve safety, and enable new approaches to workforce and business model design.
 
-ERP Today • 1d ago
+Accenture • 2d ago
 
 ---
 
@@ -136,7 +138,7 @@ ERP Today • 1d ago
 
 Unitree’s rise reveals a state architecture that cultivates industrial champions before global rivals notice
 
-Nikkei Asia • 15h ago
+Nikkei Asia • 17h ago
 
 ---
 
@@ -144,15 +146,13 @@ Nikkei Asia • 15h ago
 
 Scientists say they've made a key breakthrough that would allow robots to figure out complex tasks on their own — but experts say it raises questions about how much risk comes with letting robots be in charge of their own learning.
 
-NPR • 1h ago
+NPR • 3h ago
 
 ---
 
-**[IDF escalates use of robots in Lebanon to target Hezbollah infrastructure](https://www.jpost.com/defense-and-tech/article-893843)**
+**[Physical AI: Where Artificial Intelligence Rubber Meets The Road](https://www.investors.com/news/physical-ai-jensen-huang-nvidia-artificial-intelligence-robotics/)**
 
-The IDF has ramped up its use of robots in warfare against Hezbollah in Bint Jbail, accelerating the destruction of weapons infrastructure as military operations intensify.
-
-The Jerusalem Post • 1d ago
+Investor's Business Daily • 17h ago
 
 ---
 
@@ -160,15 +160,23 @@ The Jerusalem Post • 1d ago
 
 Tesla (TSLA) reported first quarter results on Wednesday after the closing bell. Adjusted earnings per share (EPS) came in at $0.41 (compared to analyst estimates of $0.34), and revenue came in at $22.39 billion (compared to analyst estimates of $22.19 billion). Yahoo Finance Senior Autos Reporter Pras Subramanian and Barron's associate editor Al Root discuss what investors need from Tesla on robotaxi and robots.
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
-**[This Roboticist-Turned-Teacher Built a Life-Size Replica of ENIAC](https://spectrum.ieee.org/roboticist-turned-teacher-eniac-replica)**
+**[IDF escalates use of robots in Lebanon to target Hezbollah infrastructure](https://www.jpost.com/defense-and-tech/article-893843)**
 
-Tom Burick wants to ground his neurodivergent students’ learning in history
+The IDF has ramped up its use of robots in warfare against Hezbollah in Bint Jbail, accelerating the destruction of weapons infrastructure as military operations intensify.
 
-IEEE Spectrum • 2d ago
+The Jerusalem Post • 2d ago
+
+---
+
+**[Irish schools to attend Robotics World Championship in US](https://www.rte.ie/news/ireland/2026/0424/1569875-irish-schools-robotics/)**
+
+A four-teacher school in Co Laois and a DEIS school from Donegal will travel to the US this weekend to compete against schools from around the world in the VEX Robotics World Championship.
+
+RTE.ie • 7h ago
 
 ---
 
@@ -177,12 +185,6 @@ IEEE Spectrum • 2d ago
 Spark Capital VC Nabeel Hyatt explains why AI needs human data and shares how robotics could reshape jobs and the future of gig work
 
 Business Insider • 1d ago
-
----
-
-**[Physical AI: Where Artificial Intelligence Rubber Meets The Road](https://www.investors.com/news/physical-ai-jensen-huang-nvidia-artificial-intelligence-robotics/)**
-
-Investor's Business Daily • 15h ago
 
 ---
 
@@ -196,7 +198,7 @@ A new class of synthetic muscles from MIT is straight out of Westworld. The so-c
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 45 • 💬 2 • ⏱️ 0:40 • 14h ago
+👁️ 1K • 👍 45 • 💬 2 • ⏱️ 0:40 • 16h ago
 
 ---
 
@@ -216,7 +218,7 @@ Foundation Future Industries founder and CEO Sankaet Pathak and Trump Organizati
 
 📺 Fox Business
 
-👁️ 47K • 👍 1K • 💬 339 • ⏱️ 10:17 • 23h ago
+👁️ 47K • 👍 1K • 💬 339 • ⏱️ 10:17 • 1d ago
 
 ---
 
@@ -246,7 +248,7 @@ Sony AI ha presentado su proyecto Ace, un robot capaz de competir contra jugador
 
 📺 EL PAÍS
 
-👁️ 47K • 👍 27 • 💬 4 • ⏱️ 1:00 • 1d ago
+👁️ 47K • 👍 27 • 💬 4 • ⏱️ 1:00 • 2d ago
 
 ---
 
@@ -276,7 +278,7 @@ War Robots Gameplay: New WAYMAKER Titan - WR My War Robots Creator Link: https:/
 
 📺 Manni-Gaming
 
-👁️ 11K • 👍 506 • 💬 71 • ⏱️ 24:06 • 22h ago
+👁️ 11K • 👍 506 • 💬 71 • ⏱️ 24:06 • 1d ago
 
 ---
 
