@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-24T08:31:19.964813+00:00'
+updated: '2026-04-24T10:22:48.960960+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
-- social
 - cryptocurrency
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 24, 2026 at 08:31 UTC  
+**Last Updated:** April 24, 2026 at 10:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,858.78
+### $77,499.96
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** +2.8%  
-**30d:** +13.1%  
-**90d:** -10.2%  
-**1y:** -17.8%  
+**24h:** -0.2%  
+**7d:** +2.5%  
+**30d:** +12.7%  
+**90d:** -10.5%  
+**1y:** -18.0%  
 
 ---
 
@@ -77,11 +77,19 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Bitcoin Whales Accumulate 69% More BTC as ARK Warns the Bottom Isn’t In](https://www.reddit.com/r/Bitcoin/comments/1su8pz0/bitcoin_whales_accumulate_69_more_btc_as_ark/)**
+
+ARK Invest says Bitcoin has not bottomed yet as whales stack 1.47 million BTC during Q1's 22% price drawdown.
+
+🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/bitcoin-whales-accumulate-69-more-052711529.html) • 2h ago
+
+---
+
 **[What’s next for bitcoin](https://www.reddit.com/r/Bitcoin/comments/1su7x90/whats_next_for_bitcoin/)**
 
 Bitcoin’s next move? Institutional adoption, ETF flows, and whether $100K holds or we see a correction first. What do you guys think ?
 
-1h ago
+3h ago
 
 ---
 
@@ -89,15 +97,7 @@ Bitcoin’s next move? Institutional adoption, ETF flows, and whether $100K hold
 
 With recent hype around Satoshi lore and history, some of you may enjoy this series exploring the cryptography mailing list discussions between developers and Satoshi in late 2008 on Bitcoin. https://www.youtube.com/playlist?list=PL-ZkFGMOJOGvnG7LkoLpTc9GQz-rP5dms
 
-12h ago
-
----
-
-**[Bitcoin Whales Accumulate 69% More BTC as ARK Warns the Bottom Isn’t In](https://www.reddit.com/r/Bitcoin/comments/1su8pz0/bitcoin_whales_accumulate_69_more_btc_as_ark/)**
-
-ARK Invest says Bitcoin has not bottomed yet as whales stack 1.47 million BTC during Q1's 22% price drawdown.
-
-🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/bitcoin-whales-accumulate-69-more-052711529.html) • 1h ago
+14h ago
 
 ---
 
@@ -105,15 +105,15 @@ ARK Invest says Bitcoin has not bottomed yet as whales stack 1.47 million BTC du
 
 Lightning Network been around for a while. I’m just not really seeing much traction. Feel free to down vote this if you think it’s not true, but Corre bitcoin versus lightning, Network just doesn’t seem to ever have really caught on. I do see some new wallets and some new innovation happening Starr app for example I just don’t see that many transactions even if you go to Steak ‘n Shake both lightning and core are accepted is anyone actually paying with lightning?
 
-5h ago
+7h ago
 
 ---
 
-**[As Petrodollar weakens, Bitcoin gains momentun](https://www.reddit.com/r/Bitcoin/comments/1stqokx/as_petrodollar_weakens_bitcoin_gains_momentun/)**
+**[raw₿it — Visual Bitcoin raw Transaction Builder](https://www.reddit.com/r/Bitcoin/comments/1sub9sa/rawit_visual_bitcoin_raw_transaction_builder/)**
 
-Has anyone here ever heard of “petrobitcoin”?. I was just reading an article about this concept called “petrobitcoin” — basically the idea that Bitcoin could start being used in oil trade, not as a new token but as part of real energy transactions. It sounds unusual at first, but given everything happening globally in 2026, it kind of makes you think twice. Here is this interesting breakdown about this, https://www.cointribune.com/en/petrobitcoin-is-the-dream-of-a-bitcoin-backed-by-oil-coming-true-in-2026/
+An interactive tool to build and understand Bitcoin transactions visually. • Connect predefined nodes → see every byte update live • Step through script execution with live stack view • Full Python code behind each node ('Show code' in node menu) 14 hands-on lessons + exercises included (P2PKH, P2SH, SegWit, multisig, timelocks, payment channels, Taproot) — all broadcast to testnet. More coming (Coinjoin, Lightning, Mining …). Free · open-source · educational only rawbit.io https://github.com/rawBit-io/rawbit Human Rights Foundation and OpenSats grantee https://hrf.org/latest/hrfs-bitcoin-development-fund-announces-support-for-26-projects-worldwide/ https://opensats.org/blog/seventeenth-wave-of-bitcoin-grants
 
-14h ago
+24m ago
 
 ---
 
@@ -121,7 +121,15 @@ Has anyone here ever heard of “petrobitcoin”?. I was just reading an article
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/FwzyfJy88fg?si=bvS8atuz_x-2ZVFW) • 13h ago
+🔗 [youtu.be](https://youtu.be/FwzyfJy88fg?si=bvS8atuz_x-2ZVFW) • 15h ago
+
+---
+
+**[As Petrodollar weakens, Bitcoin gains momentun](https://www.reddit.com/r/Bitcoin/comments/1stqokx/as_petrodollar_weakens_bitcoin_gains_momentun/)**
+
+Has anyone here ever heard of “petrobitcoin”?. I was just reading an article about this concept called “petrobitcoin” — basically the idea that Bitcoin could start being used in oil trade, not as a new token but as part of real energy transactions. It sounds unusual at first, but given everything happening globally in 2026, it kind of makes you think twice. Here is this interesting breakdown about this, https://www.cointribune.com/en/petrobitcoin-is-the-dream-of-a-bitcoin-backed-by-oil-coming-true-in-2026/
+
+16h ago
 
 ---
 
@@ -129,29 +137,23 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-2h ago
+4h ago
 
 ---
 
-**[The relief of moving your BTC from an exchange to a cold wallet](https://www.reddit.com/r/Bitcoin/comments/1stnkcf/the_relief_of_moving_your_btc_from_an_exchange_to/)**
+**[Lightning technical details](https://www.reddit.com/r/Bitcoin/comments/1suabj9/lightning_technical_details/)**
 
-Sorted out and moved my BTC to a Trezor 3 today and it was so easy and practiced recovering it. I'm sure my modest BTC would've been safe on Coinbase but it feels so much better now i've moved it off. Did anyone else feel a strange relief once they did this?
+I’m wondering how a Lightning transfer TECHNICALLY differ from a transaction on the main chain? I know Lightning transfers happen off chain but they do get added to the chain EVENTUALLY, right? So let’s say I use LN to send some btc from kraken to coinbase, as long as it arrives on the other side there is no difference vs doing a main net transfer??? Or is anything different?
 
-16h ago
-
----
-
-**[At what point does DCA stop being simple and start turning your position into a black box?](https://www.reddit.com/r/Bitcoin/comments/1strev5/at_what_point_does_dca_stop_being_simple_and/)**
-
-DCA is easy to understand when you’re just buying regularly. What seems much harder later is understanding the position you actually built. After enough buys over months or years, how many people really know their true average entry, total capital in, or what “taking profit” would even mean relative to the full stack? Feels like accumulation gets discussed a lot more than position awareness. Curious how other people think about this.
-
-13h ago
+1h ago
 
 ---
 
-**[The Great Surrender: Wall Street Bends the Knee to Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1stbr96/the_great_surrender_wall_street_bends_the_knee_to/)**
+**[Best way to buy SMALL AMOUNTS to COLD WALLET <3](https://www.reddit.com/r/Bitcoin/comments/1suaalp/best_way_to_buy_small_amounts_to_cold_wallet_3/)**
 
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-great-surrender-wall-street-bends) • 1d ago
+Hi. I want to buy sats for cold storage, but I am getting fed up with these exchanges charging not only a fee or an internal rate, but also some random withdrawal fee. All I want is to buy BTC, maybe once every other day, using my fiat from my calary. Never large enough sums for the brokers "premium rates" of larger monthly volumes. I am from the EU, so I cant use Bitcoin well, which I feel like is just what I am looking for sadly. How do yall buy for your cold wallets? I have a Trezor, and they have integrated an easy way to buy, but all those brokers (Revolut, Topper etc.) have internal rates so I am not getting market rate. Is that an impossible ask? Is there a P2P service in the EU that can facilitate my wish? Thanks for any input. <3 Image for attention, but this is the Trezor suite andwith the integrated buying feature- is the ease of use worth the lil extra cost of their internal rates?
+
+1h ago
 
 ---
 
@@ -171,7 +173,7 @@ Yahoo Finance • 2d ago
 
 “Flows have turned positive for the year,” Global Head of ETFs at BNY Asset Servicing Ben Slavin told The Block.
 
-The Block • 12h ago
+The Block • 14h ago
 
 ---
 
@@ -179,13 +181,15 @@ The Block • 12h ago
 
 Spot bitcoin ETFs logged their first 8-day inflow streak since October, but on-chain profit-taking is already running at 3x the rate that has marked every local top this year.
 
-CoinDesk • 2h ago
+CoinDesk • 4h ago
 
 ---
 
-**[Opinion | A Bitcoin Evangelist Tries to Convert Me](https://www.nytimes.com/2026/04/23/opinion/bitcoin-crypto-anthony-pompliano.html)**
+**[The $145 billion math: Why bitcoin’s quantum threat is manageable, not existential](https://www.coindesk.com/markets/2026/04/23/the-usd145-billion-math-why-bitcoin-s-quantum-threat-is-manageable-not-existential)**
 
-The New York Times • 23h ago
+Quantum fears focus on vulnerable early wallets, but market data suggests even a worst case sell-off would be large, not catastrophic.Quantum fears focus on vulnerable early wallets, but market data suggests even a worst case sell-off would be large, not catastrophic.
+
+CoinDesk • 20h ago
 
 ---
 
@@ -193,43 +197,45 @@ The New York Times • 23h ago
 
 Over $9.8 billion in Bitcoin and Ethereum options expired April 24 as both assets traded well above max pain levels.
 
-Yahoo Finance • 49m ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Bitcoin Group SE: Change on the Management Board – Anton Langbroek succeeds Michael Nowak](https://www.tradingview.com/news/eqs:0ad1caacf094b:0-bitcoin-group-se-change-on-the-management-board-anton-langbroek-succeeds-michael-nowak/)**
+**[Bitcoin primed for $80,000? Three reasons traders expect a rally 'within days'](https://www.dlnews.com/articles/markets/is-bitcoin-primed-for-80k-within-days-cf-benchmark-says-yes/)**
 
-Bitcoin Group SE/ Key word(s): PersonnelBitcoin Group SE: Change on the Management Board – Anton Langbroek succeeds Michael Nowak24.04.2026 / 09:10 CET/CESTThe issuer is solely responsible for the content of this announcement.Bitcoin Group SE: Change on the Management Board – Anton Langbroek succee…
+Bitcoin will hit $80,000 within days as institutional money floods spot ETFs, analysts say.  Strategy’s aggressive Bitcoin buying is reinforcing the market’s structural bid.
 
-TradingView • 1h ago
-
----
-
-**[Push to Unwind Bitcoin Hoarder Shows Once-Hot Trade Failing](https://www.bloomberg.com/news/articles/2026-04-23/push-to-unwind-bitcoin-hoarder-shows-once-hot-trade-collapsing)**
-
-Bloomberg.com • 17h ago
+dlnews.com • 2h ago
 
 ---
 
-**[Bitcoin Price Falls From 11-Week High. Why, Ethereum, XRP, Cryptos Are Dropping.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-iran-54088134)**
+**[Bitcoin-holder Metaplanet raises $50 million to buy more BTC](https://www.coindesk.com/markets/2026/04/24/bitcoin-holder-metaplanet-raises-usd50-million-in-zero-interest-bonds-to-buy-more-btc)**
 
-Barron's • 17h ago
+Metaplanet has issued 8 billion yen, or about $50 million, in zero-interest bonds to fund additional bitcoin purchases.
 
----
-
-**[Bitcoin's Quantum Problem Is Really A Governance Crisis In Disguise: UTXO](https://bitcoinmagazine.com/news/bitcoin-quantum-problem-governance-crisis)**
-
-Guillaume Girard of UTXO Management argues that while a quantum computer capable of breaking Bitcoin may never arrive, the network must prepare now because protocol changes move slowly, like a state legislature.
-
-Bitcoin Magazine • 11h ago
+CoinDesk • 1h ago
 
 ---
 
-**[Bitcoin to $100,000? What the Clarity Act and new Fed leadership mean for price](https://www.dlnews.com/articles/markets/bitcoin-to-100k-what-the-clarity-act-new-fed-leadership-mean-for-price/)**
+**[Push to Unwind Bitcoin Hoarder Shows Once-Hot Trade Collapsing](https://www.bloomberg.com/news/articles/2026-04-23/push-to-unwind-bitcoin-hoarder-shows-once-hot-trade-collapsing)**
 
-Bitcoin at $100,000 is back in play if it continues its rally, an analyst says.  Clarity Act and a new Federal Reserve chair could cement the surge. Both of those remain up in the air, however.
+Bloomberg.com • 19h ago
 
-dlnews.com • 1d ago
+---
+
+**[Video: Opinion | Do We All Need a Little Bitcoin?](https://www.nytimes.com/video/opinion/100000010848698/do-we-all-need-a-little-bitcoin.html)**
+
+Stability is the single biggest lie in financial markets, the investor and Bitcoin evangelist Anthony Pompliano tells the columnist Ross Douthat on “Interesting Times.” The “volatility generation” is embracing Bitcoin because traditional assets like Treasuries are actually designed to lose money, he argues.
+
+The New York Times • 13h ago
+
+---
+
+**[What Happens to Bitcoin If This Fintech Stock's Recent Innovation Really Takes Off?](https://www.fool.com/investing/2026/04/24/what-happens-bitcoin-fintech-stock-innovation/)**
+
+Despite falling 74% from its peak, Bitcoin continues to see notable innovation happening around it.
+
+The Motley Fool • 11m ago
 
 ---
 
@@ -241,7 +247,7 @@ dlnews.com • 1d ago
 
 The U.S. military is actively running a Bitcoin node and testing the protocol’s cryptographic architecture as a tool for securing and protecting networks, according to INDOPACOM commander Admiral Samuel Paparo.
 
-⬆️ 5 • 💬 0 • 21h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/news/the-us-military-is-running-a-bitcoin-node)
+⬆️ 5 • 💬 0 • 22h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/news/the-us-military-is-running-a-bitcoin-node)
 
 ---
 
@@ -249,7 +255,7 @@ The U.S. military is actively running a Bitcoin node and testing the protocol’
 
 The global economic system is evolving: The left wants to redistribute. The right wants to deregulate. Both are missing the point.
 
-⬆️ 4 • 💬 4 • 3d ago • [The Alignment Economy](https://alignmenteconomy.org)
+⬆️ 4 • 💬 5 • 3d ago • [The Alignment Economy](https://alignmenteconomy.org)
 
 ---
 
@@ -271,7 +277,7 @@ Neha Narula
 
 Part one explained the physics of quantum computing. This piece explains the target — how bitcoin's encryption works, why a quantum algorithm breaks it, and what Google's paper changed about the timeline.
 
-⬆️ 3 • 💬 2 • 3d ago • [coindesk.com](https://www.coindesk.com/tech/2026/04/18/how-a-quantum-computer-can-be-used-to-actually-steal-your-bitcoin-in-9-minutes)
+⬆️ 3 • 💬 2 • 4d ago • [coindesk.com](https://www.coindesk.com/tech/2026/04/18/how-a-quantum-computer-can-be-used-to-actually-steal-your-bitcoin-in-9-minutes)
 
 ---
 
@@ -279,13 +285,13 @@ Part one explained the physics of quantum computing. This piece explains the tar
 
 Build wallets, issue stablecoins, and move BTC instantly: all natively on Bitcoin. No bridges, no custodians. Start building with Spark's SDKs today.
 
-⬆️ 3 • 💬 0 • 12h ago • [Spark](https://www.spark.money)
+⬆️ 3 • 💬 0 • 14h ago • [Spark](https://www.spark.money)
 
 ---
 
 **[Warren Buffett: Why Stocks Beat Gold, Bonds and Bitcoin (2018)](https://news.ycombinator.com/item?id=47875151)**
 
-⬆️ 2 • 💬 0 • 19h ago • [acquirersmultiple.com](https://acquirersmultiple.com/2018/01/warren-buffett-why-stocks-beat-gold-bonds-and-bitcoin/)
+⬆️ 2 • 💬 0 • 21h ago • [acquirersmultiple.com](https://acquirersmultiple.com/2018/01/warren-buffett-why-stocks-beat-gold-bonds-and-bitcoin/)
 
 ---
 
@@ -323,7 +329,7 @@ Bitcoin is rallying out of a major drawdown while funding rates stay flat, short
 
 📺 Simply Bitcoin
 
-👁️ 31K • 👍 2K • 💬 184 • ⏱️ 20:08 • 12h ago
+👁️ 31K • 👍 2K • 💬 184 • ⏱️ 20:08 • 13h ago
 
 ---
 
@@ -343,7 +349,7 @@ WARNING! Subscribe to our new channel!: https://m.youtube.com/@jebbmcafeeinvests
 
 📺 Crypto Jebb
 
-👁️ 4K • 👍 294 • 💬 64 • ⏱️ 12:58 • 14h ago
+👁️ 4K • 👍 294 • 💬 64 • ⏱️ 12:58 • 16h ago
 
 ---
 
@@ -353,7 +359,7 @@ Michael Saylor is the CEO of Strategy (formerly MicroStrategy), the first public
 
 📺 Anthony Pompliano
 
-👁️ 19K • 👍 1K • 💬 58 • ⏱️ 1:29:30 • 11h ago
+👁️ 19K • 👍 1K • 💬 58 • ⏱️ 1:29:30 • 13h ago
 
 ---
 
@@ -373,7 +379,7 @@ Major U.S. banking trade groups are pushing regulators to delay comment deadline
 
 📺 Paul Barron Network
 
-👁️ 39K • 👍 2K • 💬 390 • ⏱️ 12:11 • 12h ago
+👁️ 39K • 👍 2K • 💬 390 • ⏱️ 12:11 • 14h ago
 
 ---
 
@@ -383,7 +389,7 @@ Bitcoin is at a MAJOR Turning Point! Sentiment / 4 year cycle Could the bottom b
 
 📺 Camel Finance
 
-👁️ 11K • 👍 651 • 💬 118 • ⏱️ 17:39 • 22h ago
+👁️ 11K • 👍 651 • 💬 118 • ⏱️ 17:39 • 1d ago
 
 ---
 
@@ -393,7 +399,7 @@ Build your crypto portfolio the smart way with iTrustCapital — now with stocks
 
 📺 DataDash
 
-👁️ 2K • 👍 161 • 💬 36 • ⏱️ 14:00 • 17h ago
+👁️ 2K • 👍 161 • 💬 36 • ⏱️ 14:00 • 18h ago
 
 ---
 
@@ -413,7 +419,7 @@ ADMIRAL Samuel Paparo confirms the USA is running a Bitcoin node. Also, Scott Be
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 543 • 💬 31 • ⏱️ 1:21:05 • 14h ago
+👁️ 12K • 👍 543 • 💬 31 • ⏱️ 1:21:05 • 16h ago
 
 ---
 

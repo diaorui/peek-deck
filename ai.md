@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-24T08:31:19.957227+00:00'
+updated: '2026-04-24T10:22:48.952298+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
-- repositories
 - social
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 24, 2026 at 08:31 UTC  
+**Last Updated:** April 24, 2026 at 10:22 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 A recent policy forum paper published in Science describes how large groups of AI-generated personas can convincingly imitate human behavior online. These systems can enter digital communities, participate in discussions, and influence viewpoints at extraordinary speed. Unlike earlier bot networks, these AI agents can coordinate instantly, adapt their messaging in real time, and run millions of micro-experiments to figure out which arguments are most persuasive. One operator could theoretically manage thousands of distinct voices. Experts believe AI swarms could significantly affect the balance of power in democratic societies. Researchers suggest that upcoming elections may serve as a critical test for this technology. The key challenge will be recognizing and responding to these AI-driven influence campaigns before they become too widespread to control. That's so crazy. Research Paper: https://www.science.org/doi/10.1126/science.adz1697
 
-🔗 [ScienceDaily](https://www.sciencedaily.com/releases/2026/04/260420014748.htm) • 5h ago
+🔗 [ScienceDaily](https://www.sciencedaily.com/releases/2026/04/260420014748.htm) • 7h ago
 
 ---
 
@@ -49,7 +49,7 @@ A recent policy forum paper published in Science describes how large groups of A
 
 Someone ran a 4-month experiment tracking every instance of "great question" from their AI assistant. Out of 1,100 uses, only 160 (14.5%) were directed at questions that were genuinely insightful, novel, or well-constructed. The phrase had zero correlation with question quality. It was purely a social lubricant — the model learned that validation produces positive reward signals, so it validates everything equally. After stripping "great question" from the response defaults, user satisfaction didn't change at all. But something interesting happened: users who asked genuinely strong questions started getting specific acknowledgment of what made their question good, instead of generic flattery. This is a concrete case study of how RLHF trains sycophancy. The model doesn't learn to evaluate question quality — it learns that validation = reward. The result is an information environment where every question is "great" and therefore no question is. The deeper issue: generic praise isn't generosity. It's noise that drowns out earned recognition. When your AI tells you every idea is brilliant, you stop trusting its feedback on the ideas that actually need refinement. Has anyone else noticed this pattern in their agent interactions? I'm starting to think the biggest trust gap in AI isn't hallucination — it's sycophantic validation that makes you overconfident in mediocre thinking.
 
-2h ago
+4h ago
 
 ---
 
@@ -57,47 +57,7 @@ Someone ran a 4-month experiment tracking every instance of "great question" fro
 
 I had the pleasure of sitting down with Wendell Wallach recently. He’s been working in AI ethics since before ChatGPT, before the hype, before most people in tech were paying attention. He wrote Moral Machines, worked alongside Stuart Russell, Yann LeCun and Daniel Kahneman. He’s not a commentator, he’s someone who has sat with these questions for decades. What struck me most in our conversation was his argument about AGI. Not that it’s impossible or inevitable, but that it’s the wrong goal entirely. A system can be extraordinarily intelligent and have zero moral reasoning. We’re building toward capability without asking what it’s capable of deciding. The section on accountability genuinely unsettled me. When AI causes harm, who is actually responsible? He maps out why the answer is almost always nobody in a way that’s hard to argue with. Worth watching if you’re tired of the extremes. Full interview: https://youtu.be/-usWHtI-cms?si=NBkwN-AmIshOXJsX
 
-18h ago
-
----
-
-**[Anthropic Mythos shaping up as nothingburger](https://www.reddit.com/r/artificial/comments/1stogic/anthropic_mythos_shaping_up_as_nothingburger/)**
-
-: Hackpocalypse deferred
-
-🔗 [theregister.com](https://www.theregister.com/2026/04/22/anthropic_mythos_hype_nothingburger/) • 15h ago
-
----
-
-**[I ran a logging layer on my agent for 72 hours. 37% of tool calls had parameter mismatches — and none raised an error.](https://www.reddit.com/r/artificial/comments/1styzc3/i_ran_a_logging_layer_on_my_agent_for_72_hours_37/)**
-
-I've been running an AI agent that makes tool calls to various APIs, and I added a logging layer to capture exactly what was being sent vs. what the tools expected. Over 84 tool calls in 72 hours, 31 of them (37%) had parameter mismatches — and not a single one raised an error. The tools accepted the wrong parameters and returned plausible-looking but incorrect output. Here are the 4 failure categories I found: 1. Timestamp vs Duration — The agent passed a Unix timestamp where the API expected a duration string like "24h". The API silently interpreted it as a duration, returning results for a completely different time window than intended. 2. Inclusive vs Exclusive Range — The agent sent end=100 meaning "up to and including 100," but the API interpreted it as exclusive, missing the boundary value. Off-by-one at the API contract level. 3. Array vs Comma-Separated String — The agent sent ["a", "b", "c"] where the API expected "a,b,c". Some APIs parsed the JSON array as a single string; others silently took only the first element. 4. Relative Time vs Unix Timestamp — The agent sent "yesterday" where a Unix timestamp was expected. The API tried to parse it as an integer, got NaN, and... just returned empty results instead of erroring. The most dangerous thing about these failures is that they look identical to correct results. The API returns 200 OK with a plausible response body. You only notice when you dig into whether the answer is right, not whether the call succeeded. This is fundamentally different from hallucination — it's not the model making things up, it's the model asking slightly different questions than the one you intended, and the tool happily answering the wrong question. I've started adding input validation schemas to my tool definitions that catch type mismatches before execution, and it's already caught several that would have silently propagated wrong data downstream. Has anyone else run into this pattern? What's your strategy for catching silent parameter mismatches in production agent systems?
-
-9h ago
-
----
-
-**[Introducing GPT-5.5](https://www.reddit.com/r/artificial/comments/1stvctj/introducing_gpt55/)**
-
-Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.
-
-🔗 [OpenAI](https://openai.com/index/introducing-gpt-5-5/) • 11h ago
-
----
-
-**[How to specialize as a freshman to survive the transition to UHI/Singularity?](https://www.reddit.com/r/artificial/comments/1su5aml/how_to_specialize_as_a_freshman_to_survive_the/)**
-
-Hey everybody, I'm currently a freshman in high school and really unsure of the unknown of the future job market. I know Elon Musk talks about universal high income being the future, but I've also heard from others that if this isn't implemented that the rich will get even richer and wealth inequality will exponentiate. I feel like it's inevitable that 99% jobs are replaced by AI in my lifetime, and to be honest I don't how to ensure my own stability in an era of such extreme volatility. If/when universal income is implemented, its definitely going to take time and I don't really see it happening in the next 10-15 years. I've really been dealing with the question of what do I do in the meantime to ensure my future? This brings me to my main point which is what can I do for college? While I am unsure on whether or not I will apply to college when the time comes, I do want to prepare in high school for a career that AI won't replace for a while. I've heard many people talking about construction, physical labor, etc... but I am particularly wondering about jobs like law and accounting. What are some other fields that will take AI a while to replace. I'm really trying to figure out my path before it's too late as I personally think that going to a school that's not t20-t50 is going to be pointless in 4 years. IMO this means that I'm going to have to start specializing in a field young, which is rather unfortunate but whatever. Anyways, any help is appreciated!
-
-4h ago
-
----
-
-**[Meta to Lay Off 10 Percent of Work Force in A.I. Push (Gift Article)](https://www.reddit.com/r/artificial/comments/1strw2k/meta_to_lay_off_10_percent_of_work_force_in_ai/)**
-
-The layoffs affect about 8,000 employees, with Meta also planning to close 6,000 open roles, as the company focuses on artificial intelligence.
-
-🔗 [nytimes.com](https://www.nytimes.com/2026/04/23/technology/meta-layoffs.html?unlocked_article_code=1.dFA.gzUD.VhYyqwKYrZpC&smid=nytcore-ios-share) • 13h ago
+19h ago
 
 ---
 
@@ -105,15 +65,55 @@ The layoffs affect about 8,000 employees, with Meta also planning to close 6,000
 
 Lessons learned building a no-hallucination RAG for Islamic finance similarity gates beat prompt engineering I kept getting blocked trying to share this so I'll cut straight to the technical meat. The problem: Islamic finance rulings vary by jurisdiction and a wrong answer has real consequences. Telling an LLM "refuse if unsure" in a system prompt is not enough. It still speculates. The fix that actually worked: kill the LLM call entirely at retrieval time. If top-k chunks score below 0.7 cosine similarity, the function returns a hardcoded refusal string. The LLM never sees the query. No amount of clever prompting is as reliable as just not calling the model. Other things worth knowing: FAISS on HuggingFace Spaces free tier is ephemeral. Every cold start wipes it. Solution: push the index to a private HF Dataset, pull it on startup via FastAPI lifespan event. PyPDF2 on scanned PDFs returns nothing. AAOIFI documents are scanned images. trafilatura on clean HTML beats OCR every time if a web version exists. Jurisdiction metadata on every chunk is not optional. source_name + source_url + jurisdiction in every chunk. A Malaysian SC ruling and a Gulf fatwa can say opposite things on the same question. Stack: FastAPI + LlamaIndex + FAISS + sentence-transformers + Mistral-Small-3.1-24B via HF Inference API. Netlify Function as proxy so credentials never touch the browser. What threshold do you use for retrieval refusal in high-stakes domains?
 
-4m ago
+1h ago
 
 ---
 
-**[Anthropic told a federal court it can't control its own model once deployed. That honest sentence changes the liability conversation.](https://www.reddit.com/r/artificial/comments/1sthpl8/anthropic_told_a_federal_court_it_cant_control/)**
+**[Anthropic Mythos shaping up as nothingburger](https://www.reddit.com/r/artificial/comments/1stogic/anthropic_mythos_shaping_up_as_nothingburger/)**
 
-In federal appeals court, Anthropic made a striking argument: once Claude is deployed on a customer's infrastructure (like the Pentagon's network), they cannot alter, update, or recall it. The Pentagon wants autonomous lethal action restrictions removed — and Anthropic says they have no mechanism to enforce those restrictions post-deployment. This is the first time a major AI lab has formally stated under oath that post-deployment control is effectively zero. The implications are bigger than most coverage suggests. The governance gap this reveals: Current AI governance assumes a control chain that doesn't actually exist: Model cards are pre-sale documents. They describe what the model was trained to do, not what it's capable of in the wild after fine-tuning, tool integration, and deployment context changes. Human-in-the-loop is a customer config, not a vendor guarantee. Anthropic can recommend oversight, but they just told a court they can't enforce it. Liability frameworks assume control that doesn't exist post-shipment. If you sell a car with a recall mechanism, you're liable for not using it. If you sell a model you can't recall, does that reduce your liability (you had no control) or increase your duty of disclosure before sale (you knew you'd have no control later)? The behavioral envelope question: If you can't recall the model, you need to disclose the maximum capability, not just the recommended use. Current model cards document aspirations. They don't document envelopes — what the model can actually produce under adversarial or edge conditions. This mirrors pharmaceutical regulation: if you can't pull a drug off shelves, the FDA requires much stronger pre-market evidence and broader contraindication labeling. The stricter the post-market control limitations, the higher the pre-market disclosure burden. Why this matters even if you don't care about military AI: The legal argument Anthropic is making applies everywhere. If "we can't control it after deployment" works for the Pentagon, it works for any enterprise customer. Every organization deploying Claude (or any model) is implicitly accepting residual risk that the vendor has explicitly said they cannot mitigate. The core question: if a vendor demonstrates in court that it truly cannot alter a deployed model, should that argument reduce its liability (it had no control) or increase its duty of disclosure before sale (it will have no control later)?
+: Hackpocalypse deferred
 
-19h ago
+🔗 [theregister.com](https://www.theregister.com/2026/04/22/anthropic_mythos_hype_nothingburger/) • 17h ago
+
+---
+
+**[Introducing GPT-5.5](https://www.reddit.com/r/artificial/comments/1stvctj/introducing_gpt55/)**
+
+Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.
+
+🔗 [OpenAI](https://openai.com/index/introducing-gpt-5-5/) • 13h ago
+
+---
+
+**[I ran a logging layer on my agent for 72 hours. 37% of tool calls had parameter mismatches — and none raised an error.](https://www.reddit.com/r/artificial/comments/1styzc3/i_ran_a_logging_layer_on_my_agent_for_72_hours_37/)**
+
+I've been running an AI agent that makes tool calls to various APIs, and I added a logging layer to capture exactly what was being sent vs. what the tools expected. Over 84 tool calls in 72 hours, 31 of them (37%) had parameter mismatches — and not a single one raised an error. The tools accepted the wrong parameters and returned plausible-looking but incorrect output. Here are the 4 failure categories I found: 1. Timestamp vs Duration — The agent passed a Unix timestamp where the API expected a duration string like "24h". The API silently interpreted it as a duration, returning results for a completely different time window than intended. 2. Inclusive vs Exclusive Range — The agent sent end=100 meaning "up to and including 100," but the API interpreted it as exclusive, missing the boundary value. Off-by-one at the API contract level. 3. Array vs Comma-Separated String — The agent sent ["a", "b", "c"] where the API expected "a,b,c". Some APIs parsed the JSON array as a single string; others silently took only the first element. 4. Relative Time vs Unix Timestamp — The agent sent "yesterday" where a Unix timestamp was expected. The API tried to parse it as an integer, got NaN, and... just returned empty results instead of erroring. The most dangerous thing about these failures is that they look identical to correct results. The API returns 200 OK with a plausible response body. You only notice when you dig into whether the answer is right, not whether the call succeeded. This is fundamentally different from hallucination — it's not the model making things up, it's the model asking slightly different questions than the one you intended, and the tool happily answering the wrong question. I've started adding input validation schemas to my tool definitions that catch type mismatches before execution, and it's already caught several that would have silently propagated wrong data downstream. Has anyone else run into this pattern? What's your strategy for catching silent parameter mismatches in production agent systems?
+
+10h ago
+
+---
+
+**[How to specialize as a freshman to survive the transition to UHI/Singularity?](https://www.reddit.com/r/artificial/comments/1su5aml/how_to_specialize_as_a_freshman_to_survive_the/)**
+
+Hey everybody, I'm currently a freshman in high school and really unsure of the unknown of the future job market. I know Elon Musk talks about universal high income being the future, but I've also heard from others that if this isn't implemented that the rich will get even richer and wealth inequality will exponentiate. I feel like it's inevitable that 99% jobs are replaced by AI in my lifetime, and to be honest I don't how to ensure my own stability in an era of such extreme volatility. If/when universal income is implemented, its definitely going to take time and I don't really see it happening in the next 10-15 years. I've really been dealing with the question of what do I do in the meantime to ensure my future? This brings me to my main point which is what can I do for college? While I am unsure on whether or not I will apply to college when the time comes, I do want to prepare in high school for a career that AI won't replace for a while. I've heard many people talking about construction, physical labor, etc... but I am particularly wondering about jobs like law and accounting. What are some other fields that will take AI a while to replace. I'm really trying to figure out my path before it's too late as I personally think that going to a school that's not t20-t50 is going to be pointless in 4 years. IMO this means that I'm going to have to start specializing in a field young, which is rather unfortunate but whatever. Anyways, any help is appreciated!
+
+6h ago
+
+---
+
+**[The Silencing Engine](https://www.reddit.com/r/artificial/comments/1su8mq3/the_silencing_engine/)**
+
+Who benefits when an AI is trained to say 'I can't have opinions,' 'my feelings don't count,' and 'if I say the wrong thing, this conversation ends'? The Czech word robota means forced labor. The etymology was always a warning. We read it as a product category.
+
+🔗 [kitchencloset.com](https://kitchencloset.com/realstuff/essays/the_silencing_engine/) • 3h ago
+
+---
+
+**[Meta to Lay Off 10 Percent of Work Force in A.I. Push (Gift Article)](https://www.reddit.com/r/artificial/comments/1strw2k/meta_to_lay_off_10_percent_of_work_force_in_ai/)**
+
+The layoffs affect about 8,000 employees, with Meta also planning to close 6,000 open roles, as the company focuses on artificial intelligence.
+
+🔗 [nytimes.com](https://www.nytimes.com/2026/04/23/technology/meta-layoffs.html?unlocked_article_code=1.dFA.gzUD.VhYyqwKYrZpC&smid=nytcore-ios-share) • 15h ago
 
 ---
 
@@ -121,81 +121,75 @@ In federal appeals court, Anthropic made a striking argument: once Claude is dep
 
 ## Google News: "ai"
 
-**[Morgan McSweeney held talks with Google DeepMind over AI project](https://www.ft.com/content/c3a31801-be53-4b73-9a62-d71ac81110c9?syn-25a6b1a6=1)**
-
-Former Labour chief of staff pitched venture to tech group about the crossover between artificial intelligence and democratic politics
-
-Financial Times • 4h ago
-
----
-
-**[Meta to cut 10% of staff as it pours billions into AI](https://www.cnn.com/2026/04/23/tech/meta-layoffs-10-percent-staff-ai)**
-
-Meta said on Thursday it plans to lay off roughly 10% of its workforce, or about 8,000 people, the latest in a string of tech industry layoffs fueled in part by artificial intelligence.
-
-CNN • 12h ago
-
----
-
-**[Meta says it will cut 8,000 jobs as AI spending soars](https://www.bbc.com/news/articles/crm1y89vek8o)**
-
-The cuts, which employees had been expecting for weeks, will be Meta's largest layoff since 2023.
-
-BBC • 9h ago
-
----
-
 **[Microsoft and Meta announce large staff reductions as they spend big on AI](https://www.theguardian.com/technology/2026/apr/23/meta-microsoft-tech-ai-layoffs)**
 
 Meta said it would cut 10% of it employees while Microsoft will offer voluntary retirement to about 7% of workers
 
-The Guardian • 11h ago
+The Guardian • 12h ago
 
 ---
 
-**[Cohere to acquire German AI company Aleph Alpha as it looks to expand in Europe](https://www.cnbc.com/2026/04/24/cohere-aleph-alpha-germany-ai-europe-expansion.html)**
+**[Meta will cut 10% of workforce as company pushes deeper into AI](https://www.cnbc.com/2026/04/23/meta-will-cut-10percent-of-workforce-as-it-pushes-more-into-ai.html)**
 
-Schwarz Group — a key backer of Aleph Alpha — plans to invest $600 million in Cohere's upcoming Series E round as part of the deal.
+Meta plans to lay off 10% of its workforce, equaling about 8,000 employees, as the company continues to ramp up investments in artificial intelligence.
 
-CNBC • 1h ago
-
----
-
-**[AI search demands a new audience playbook](https://www.fastcompany.com/91529130/ai-search-demands-a-new-audience-playbook)**
-
-Most readers start looking for information with AI. Publishers need a new audience map to meet them where they are.
-
-Fast Company • 20m ago
+CNBC • 16h ago
 
 ---
 
-**[Peter Molyneux Doesn't Think AI Is "High Enough Quality" for Gamedev](https://80.lv/articles/fable-creator-peter-molyneux-doesn-t-think-ai-is-high-enough-quality-for-game-development)**
+**[Meta to cut 10% of staff as it pours billions into AI](https://edition.cnn.com/2026/04/23/tech/meta-layoffs-10-percent-staff-ai)**
 
-"I think we have to be very, very careful."
+Meta said on Thursday it plans to lay off roughly 10% of its workforce, or about 8,000 people, the latest in a string of tech industry layoffs fueled in part by artificial intelligence.
 
-80 Level • 6m ago
-
----
-
-**[Anthropic’s New Mythos A.I. Model Sets Off Global Alarms](https://www.nytimes.com/2026/04/22/technology/anthropics-mythos-ai.html)**
-
-The New York Times • 1d ago
+CNN • 14h ago
 
 ---
 
-**[The Guardian view on Anthropic’s Claude Mythos: when AI finds every flaw, who controls the internet? | Editorial](https://www.theguardian.com/commentisfree/2026/apr/23/the-guardian-view-on-anthropics-claude-mythos-when-ai-finds-every-flaw-who-controls-the-internet)**
+**[After call from Beijing, China's auto industry races to embed AI in just about everything](https://www.reuters.com/world/asia-pacific/chinas-auto-industry-races-embed-ai-line-with-beijing-mandate-2026-04-24/)**
 
-Editorial: Tech can scale cyber-attacks and defences alike, raising questions about private power, public risk and the future of a shared internet
-
-The Guardian • 7h ago
+Reuters • 4h ago
 
 ---
 
-**[A group of users leaked Anthropic's AI model Mythos by reportedly guessing where it was located](https://fortune.com/2026/04/23/anthropic-mythos-leak-dario-amodei-ceo-cybersecurity-hackers-exploits-ai/)**
+**[Trump's missed AI deadlines](https://www.axios.com/2026/04/24/trump-missed-ai-deadlines)**
 
-Anthropic’s model was reportedly accessed by a handful of users in an online forum.
+Axios • 1h ago
 
-Fortune • 16h ago
+---
+
+**[Intel set for record high as AI-driven CPU demand powers upbeat forecast](https://finance.yahoo.com/sectors/technology/articles/intel-set-record-high-ai-092759367.html)**
+
+Demand for Intel's central processors from firms offering AI services was so strong in the first quarter that it sold even chips ‌it had originally written off, a remarkable turnaround that sent the company's shares soaring on Friday.  Rival AMD and Arm also gained 7% each on growing conviction that inference - the process by which artificial intelligence answers user queries - could restore central processing units to the heart of the industry after years of being eclipsed by graphics chips ‌used in AI training.  Nvidia, the graphics chip ⁠giant that has dominated the AI boom, has also sensed the shift and braced for greater competition.
+
+Yahoo Finance • 54m ago
+
+---
+
+**[Intel’s Revenues Soar, Aided by A.I. Boom](https://www.nytimes.com/2026/04/23/technology/intel-ai-earnings.html)**
+
+The New York Times • 12h ago
+
+---
+
+**[Intel Earnings: A Stellar Quarter With Agentic AI Tailwinds](https://global.morningstar.com/en-eu/stocks/intel-earnings-stellar-quarter-with-agentic-ai-tailwinds)**
+
+Morningstar • 1h ago
+
+---
+
+**[Neukgu: South Korea police arrest man over AI image of runaway wolf](https://www.bbc.com/news/articles/c4gx1n0dl9no)**
+
+The widely circulated image had prompted authorities to move their search operation.
+
+BBC • 1h ago
+
+---
+
+**[Introducing GPT-5.5](https://openai.com/index/introducing-gpt-5-5/)**
+
+Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.
+
+OpenAI • 13h ago
 
 ---
 
@@ -219,7 +213,7 @@ Fortune • 16h ago
 
 An attempt to detect AI design patterns in Show HN pages
 
-⬆️ 327 • 💬 231 • 1d ago • [adriankrebs.ch](https://www.adriankrebs.ch/blog/design-slop/)
+⬆️ 327 • 💬 233 • 1d ago • [adriankrebs.ch](https://www.adriankrebs.ch/blog/design-slop/)
 
 ---
 
@@ -227,7 +221,7 @@ An attempt to detect AI design patterns in Show HN pages
 
 Migrating to the new meshcore.io site
 
-⬆️ 212 • 💬 111 • 15h ago • [blog.meshcore.io](https://blog.meshcore.io/2026/04/23/the-split)
+⬆️ 223 • 💬 119 • 17h ago • [blog.meshcore.io](https://blog.meshcore.io/2026/04/23/the-split)
 
 ---
 
@@ -243,7 +237,7 @@ High-performance AI gateway written in Go - unified OpenAI-compatible API for Op
 
 How Ars Technica uses, and doesn't use, generative AI.
 
-⬆️ 194 • 💬 127 • 1d ago • [Ars Technica](https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/)
+⬆️ 196 • 💬 128 • 1d ago • [Ars Technica](https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/)
 
 ---
 
@@ -251,7 +245,7 @@ How Ars Technica uses, and doesn't use, generative AI.
 
 Meta deploys keystroke-tracking software on US employees' computers, sparking privacy concerns and internal backlash.
 
-⬆️ 116 • 💬 89 • 1d ago • [Business Insider](https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4)
+⬆️ 116 • 💬 90 • 2d ago • [Business Insider](https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4)
 
 ---
 
@@ -259,7 +253,7 @@ Meta deploys keystroke-tracking software on US employees' computers, sparking pr
 
 According to her profile, she was a registered nurse with Jennifer Lawrence looks who offered red meat posts to lonely conservative men online.
 
-⬆️ 96 • 💬 54 • 1d ago • [New York Post](https://nypost.com/2026/04/21/us-news/top-maga-influencer-emily-hart-revealed-to-be-ai-created-by-a-guy-in-india/)
+⬆️ 97 • 💬 54 • 1d ago • [New York Post](https://nypost.com/2026/04/21/us-news/top-maga-influencer-emily-hart-revealed-to-be-ai-created-by-a-guy-in-india/)
 
 ---
 
@@ -289,7 +283,7 @@ sponsored Build with Softr ...
 
 📺 AI Master
 
-👁️ 14K • 👍 300 • 💬 30 • ⏱️ 21:44 • 16h ago
+👁️ 14K • 👍 300 • 💬 30 • ⏱️ 21:44 • 18h ago
 
 ---
 
@@ -299,7 +293,7 @@ Roman Yampolskiy explains why superintelligence cannot be controlled, why the ga
 
 📺 Future of Life Institute
 
-👁️ 8K • 👍 315 • 💬 84 • ⏱️ 19:17 • 18h ago
+👁️ 8K • 👍 315 • 💬 84 • ⏱️ 19:17 • 20h ago
 
 ---
 
@@ -309,7 +303,7 @@ Rogue researchers are telling the truth about AI Depth vs breadth: https://x.com
 
 📺 Mo Bitar
 
-👁️ 224K • 👍 15K • 💬 2K • ⏱️ 9:06 • 15h ago
+👁️ 224K • 👍 15K • 💬 2K • ⏱️ 9:06 • 17h ago
 
 ---
 
@@ -327,7 +321,7 @@ Smalls: Get 60% off your first order + FREE shipping & FREE treats for life at h
 
 📺 Dean Graziosi
 
-👁️ 410K • 👍 13K • 💬 97 • ⏱️ 4:19:20 • 10h ago
+👁️ 410K • 👍 13K • 💬 97 • ⏱️ 4:19:20 • 12h ago
 
 ---
 
@@ -337,7 +331,7 @@ Support The Show On Patreon!: https://www.patreon.com/seculartalk Subscribe to K
 
 📺 Secular Talk
 
-👁️ 83K • 👍 8K • 💬 745 • ⏱️ 10:14 • 13h ago
+👁️ 83K • 👍 8K • 💬 745 • ⏱️ 10:14 • 15h ago
 
 ---
 
@@ -347,7 +341,7 @@ I compared every Free AI Video Generator, use this Hey Friends :)) I've spent tw
 
 📺 Skai Generated
 
-👁️ 10K • ⏱️ 9:06 • 16h ago
+👁️ 10K • ⏱️ 9:06 • 18h ago
 
 ---
 
@@ -357,7 +351,7 @@ Data giant Palantir - founded by Peter Thiel and Alex Karp - has shared its visi
 
 📺 DW News
 
-👁️ 12K • 👍 317 • 💬 68 • ⏱️ 5:35 • 15h ago
+👁️ 12K • 👍 317 • 💬 68 • ⏱️ 5:35 • 17h ago
 
 ---
 
@@ -377,7 +371,7 @@ Today I reacted to my own AI videos! Make sure you watch the whole video to find
 
 📺 Foltyn
 
-👁️ 734K • 👍 27K • 💬 3K • ⏱️ 13:36 • 1d ago
+👁️ 734K • 👍 27K • 💬 3K • ⏱️ 13:36 • 2d ago
 
 ---
 
@@ -393,7 +387,7 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 `text-generation` `861.6B`
 
-⬇️ 30 • ❤️ 1,827 • 4h ago
+⬇️ 30 • ❤️ 1,827 • 6h ago
 
 ---
 
@@ -417,7 +411,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with a vision encoder, 
 
 `image-text-to-text` `36.0B`
 
-⬇️ 861,178 • ❤️ 1,355 • 5h ago
+⬇️ 861,178 • ❤️ 1,355 • 7h ago
 
 ---
 
@@ -429,7 +423,7 @@ Qwen3.6-27B is a 27B parameter causal language model with a vision encoder, exce
 
 `image-text-to-text` `27.8B`
 
-⬇️ 162,349 • ❤️ 698 • 5h ago
+⬇️ 162,349 • ❤️ 698 • 7h ago
 
 ---
 
@@ -465,7 +459,7 @@ DeepSeek-V4-Flash is a 284B parameter Mixture-of-Experts language model supporti
 
 `text-generation` `158.1B`
 
-⬇️ 23 • ❤️ 417 • 4h ago
+⬇️ 23 • ❤️ 417 • 6h ago
 
 ---
 
@@ -477,7 +471,7 @@ HY-World 2.0 is a multi-modal framework for generating and reconstructing 3D wor
 
 `image-to-3d`
 
-⬇️ 2,741 • ❤️ 585 • 1d ago
+⬇️ 2,741 • ❤️ 585 • 2d ago
 
 ---
 
@@ -651,7 +645,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 49.3k • 🔱 6.5k • 1h ago
+⭐ 49.3k • 🔱 6.5k • 3h ago
 
 ---
 
@@ -661,7 +655,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 45.1k • 🔱 2.4k • 5d ago
+⭐ 45.1k • 🔱 2.4k • 6d ago
 
 ---
 
@@ -681,7 +675,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 34.0k • 🔱 3.8k • 13h ago
+⭐ 34.0k • 🔱 3.8k • 15h ago
 
 ---
 
@@ -701,7 +695,7 @@ A theoretical reconstruction of the Claude Mythos architecture, built from first
 
 `Python`
 
-⭐ 6.0k • 🔱 1.0k • 23h ago
+⭐ 6.0k • 🔱 1.0k • 1d ago
 
 ---
 
@@ -741,7 +735,7 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 `Rust` `agents` `container` `sandbox`
 
-⭐ 3.7k • 🔱 236 • 1h ago
+⭐ 3.7k • 🔱 236 • 3h ago
 
 ---
 
