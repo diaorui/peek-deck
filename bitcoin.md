@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-24T06:16:31.369249+00:00'
+updated: '2026-04-24T08:31:19.964813+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - videos
+- news
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 24, 2026 at 06:16 UTC  
+**Last Updated:** April 24, 2026 at 08:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,710.76
+### $77,858.78
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** +2.9%  
-**30d:** +13.3%  
-**90d:** -10.1%  
-**1y:** -17.7%  
+**24h:** +0.3%  
+**7d:** +2.8%  
+**30d:** +13.1%  
+**90d:** -10.2%  
+**1y:** -17.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1560.28B
+**Market Cap:** $1559.47B
 Rank #1
 
-**Circulating Supply:** 20,019,975 BTC
+**Circulating Supply:** 20,020,006 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
 -38.2%
 
 **All-Time Low:** $67.81
-+114825.5%
++114776.9%
 
 ---
 
@@ -77,11 +77,27 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[What’s next for bitcoin](https://www.reddit.com/r/Bitcoin/comments/1su7x90/whats_next_for_bitcoin/)**
+
+Bitcoin’s next move? Institutional adoption, ETF flows, and whether $100K holds or we see a correction first. What do you guys think ?
+
+1h ago
+
+---
+
 **[15 years ago today Satoshi moved on to other things - Also Happens to Be St. George's Day](https://www.reddit.com/r/Bitcoin/comments/1stu40d/15_years_ago_today_satoshi_moved_on_to_other/)**
 
 With recent hype around Satoshi lore and history, some of you may enjoy this series exploring the cryptography mailing list discussions between developers and Satoshi in late 2008 on Bitcoin. https://www.youtube.com/playlist?list=PL-ZkFGMOJOGvnG7LkoLpTc9GQz-rP5dms
 
-10h ago
+12h ago
+
+---
+
+**[Bitcoin Whales Accumulate 69% More BTC as ARK Warns the Bottom Isn’t In](https://www.reddit.com/r/Bitcoin/comments/1su8pz0/bitcoin_whales_accumulate_69_more_btc_as_ark/)**
+
+ARK Invest says Bitcoin has not bottomed yet as whales stack 1.47 million BTC during Q1's 22% price drawdown.
+
+🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/bitcoin-whales-accumulate-69-more-052711529.html) • 1h ago
 
 ---
 
@@ -89,7 +105,7 @@ With recent hype around Satoshi lore and history, some of you may enjoy this ser
 
 Lightning Network been around for a while. I’m just not really seeing much traction. Feel free to down vote this if you think it’s not true, but Corre bitcoin versus lightning, Network just doesn’t seem to ever have really caught on. I do see some new wallets and some new innovation happening Starr app for example I just don’t see that many transactions even if you go to Steak ‘n Shake both lightning and core are accepted is anyone actually paying with lightning?
 
-2h ago
+5h ago
 
 ---
 
@@ -97,7 +113,7 @@ Lightning Network been around for a while. I’m just not really seeing much tra
 
 Has anyone here ever heard of “petrobitcoin”?. I was just reading an article about this concept called “petrobitcoin” — basically the idea that Bitcoin could start being used in oil trade, not as a new token but as part of real energy transactions. It sounds unusual at first, but given everything happening globally in 2026, it kind of makes you think twice. Here is this interesting breakdown about this, https://www.cointribune.com/en/petrobitcoin-is-the-dream-of-a-bitcoin-backed-by-oil-coming-true-in-2026/
 
-12h ago
+14h ago
 
 ---
 
@@ -105,15 +121,7 @@ Has anyone here ever heard of “petrobitcoin”?. I was just reading an article
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/FwzyfJy88fg?si=bvS8atuz_x-2ZVFW) • 11h ago
-
----
-
-**[The relief of moving your BTC from an exchange to a cold wallet](https://www.reddit.com/r/Bitcoin/comments/1stnkcf/the_relief_of_moving_your_btc_from_an_exchange_to/)**
-
-Sorted out and moved my BTC to a Trezor 3 today and it was so easy and practiced recovering it. I'm sure my modest BTC would've been safe on Coinbase but it feels so much better now i've moved it off. Did anyone else feel a strange relief once they did this?
-
-13h ago
+🔗 [youtu.be](https://youtu.be/FwzyfJy88fg?si=bvS8atuz_x-2ZVFW) • 13h ago
 
 ---
 
@@ -121,7 +129,15 @@ Sorted out and moved my BTC to a Trezor 3 today and it was so easy and practiced
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-16m ago
+2h ago
+
+---
+
+**[The relief of moving your BTC from an exchange to a cold wallet](https://www.reddit.com/r/Bitcoin/comments/1stnkcf/the_relief_of_moving_your_btc_from_an_exchange_to/)**
+
+Sorted out and moved my BTC to a Trezor 3 today and it was so easy and practiced recovering it. I'm sure my modest BTC would've been safe on Coinbase but it feels so much better now i've moved it off. Did anyone else feel a strange relief once they did this?
+
+16h ago
 
 ---
 
@@ -129,47 +145,19 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 DCA is easy to understand when you’re just buying regularly. What seems much harder later is understanding the position you actually built. After enough buys over months or years, how many people really know their true average entry, total capital in, or what “taking profit” would even mean relative to the full stack? Feels like accumulation gets discussed a lot more than position awareness. Curious how other people think about this.
 
-11h ago
+13h ago
 
 ---
 
 **[The Great Surrender: Wall Street Bends the Knee to Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1stbr96/the_great_surrender_wall_street_bends_the_knee_to/)**
 
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-great-surrender-wall-street-bends) • 22h ago
-
----
-
-**[How Crypto Taxed In USA](https://www.reddit.com/r/Bitcoin/comments/1stfs89/how_crypto_taxed_in_usa/)**
-
-18h ago
-
----
-
-**[How the 21 Million Limit is Enforced](https://www.reddit.com/r/Bitcoin/comments/1stkvxy/how_the_21_million_limit_is_enforced/)**
-
-The 21M coin cap is the bedrock of Bitcoin's value proposition, but how is this seemingly simple rule actually guaranteed? Let’s take a deep dive.
-
-🔗 [BitBox Blog](https://blog.bitbox.swiss/en/how-the-21-million-bitcoin-limit-is-actually-enforced/) • 15h ago
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-great-surrender-wall-street-bends) • 1d ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
-
-**[Opinion | A Bitcoin Evangelist Tries to Convert Me](https://www.nytimes.com/2026/04/23/opinion/bitcoin-crypto-anthony-pompliano.html)**
-
-The New York Times • 21h ago
-
----
-
-**[Bitcoin ETF 'flows turned positive for the year': BNY's global head of ETFs](https://www.theblock.co/post/398699/bitcoin-etf-flows-turned-positive-year-bny-global-head-etfs)**
-
-“Flows have turned positive for the year,” Global Head of ETFs at BNY Asset Servicing Ben Slavin told The Block.
-
-The Block • 10h ago
-
----
 
 **[What's driving the massive inflows for bitcoin ETFs in 2026](https://finance.yahoo.com/video/whats-driving-massive-inflows-bitcoin-165800586.html)**
 
@@ -179,19 +167,61 @@ Yahoo Finance • 2d ago
 
 ---
 
-**['Mission Accomplished'—BlackRock Suddenly Bets $871M On Bitcoin Dip](https://www.forbes.com/sites/digital-assets/2026/04/21/mission-accomplished-blackrock-suddenly-bets-871m-on-bitcoin-dip/)**
+**[Bitcoin ETF 'flows turned positive for the year': BNY's global head of ETFs](https://www.theblock.co/post/398699/bitcoin-etf-flows-turned-positive-year-bny-global-head-etfs)**
 
-BlackRock's IBIT absorbed $871 million last week even as Iran tensions dragged bitcoin toward $71,000. Analysts say the record flows show who is buying the dip.
+“Flows have turned positive for the year,” Global Head of ETFs at BNY Asset Servicing Ben Slavin told The Block.
 
-Forbes • 3d ago
+The Block • 12h ago
 
 ---
 
-**[Bitcoin Enters Disbelief Phase As Traders Keep Shorting The Rally](https://www.tradingview.com/news/newsbtc:865a5aad0094b:0-bitcoin-enters-disbelief-phase-as-traders-keep-shorting-the-rally/)**
+**[Bitcoin ETFs just pulled $2 billion in 8 days while short-term holders quietly started selling](https://www.coindesk.com/markets/2026/04/24/bitcoin-etfs-just-pulled-usd2-billion-in-8-days-while-short-term-holders-quietly-started-selling)**
 
-Bitcoin’s advance over the past four weeks is colliding with a derivatives market that still looks positioned for weakness. Analysts tracking Binance funding and futures basis say traders continue to lean short even as BTC moves higher, creating what CryptoQuant contributor Darkfost described via X…
+Spot bitcoin ETFs logged their first 8-day inflow streak since October, but on-chain profit-taking is already running at 3x the rate that has marked every local top this year.
+
+CoinDesk • 2h ago
+
+---
+
+**[Opinion | A Bitcoin Evangelist Tries to Convert Me](https://www.nytimes.com/2026/04/23/opinion/bitcoin-crypto-anthony-pompliano.html)**
+
+The New York Times • 23h ago
+
+---
+
+**[Nearly $10 Billion April Options Expiry Puts Bitcoin and Ethereum Direction in Focus](https://finance.yahoo.com/markets/options/articles/nearly-10-billion-april-options-074145075.html)**
+
+Over $9.8 billion in Bitcoin and Ethereum options expired April 24 as both assets traded well above max pain levels.
+
+Yahoo Finance • 49m ago
+
+---
+
+**[Bitcoin Group SE: Change on the Management Board – Anton Langbroek succeeds Michael Nowak](https://www.tradingview.com/news/eqs:0ad1caacf094b:0-bitcoin-group-se-change-on-the-management-board-anton-langbroek-succeeds-michael-nowak/)**
+
+Bitcoin Group SE/ Key word(s): PersonnelBitcoin Group SE: Change on the Management Board – Anton Langbroek succeeds Michael Nowak24.04.2026 / 09:10 CET/CESTThe issuer is solely responsible for the content of this announcement.Bitcoin Group SE: Change on the Management Board – Anton Langbroek succee…
 
 TradingView • 1h ago
+
+---
+
+**[Push to Unwind Bitcoin Hoarder Shows Once-Hot Trade Failing](https://www.bloomberg.com/news/articles/2026-04-23/push-to-unwind-bitcoin-hoarder-shows-once-hot-trade-collapsing)**
+
+Bloomberg.com • 17h ago
+
+---
+
+**[Bitcoin Price Falls From 11-Week High. Why, Ethereum, XRP, Cryptos Are Dropping.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-iran-54088134)**
+
+Barron's • 17h ago
+
+---
+
+**[Bitcoin's Quantum Problem Is Really A Governance Crisis In Disguise: UTXO](https://bitcoinmagazine.com/news/bitcoin-quantum-problem-governance-crisis)**
+
+Guillaume Girard of UTXO Management argues that while a quantum computer capable of breaking Bitcoin may never arrive, the network must prepare now because protocol changes move slowly, like a state legislature.
+
+Bitcoin Magazine • 11h ago
 
 ---
 
@@ -199,37 +229,7 @@ TradingView • 1h ago
 
 Bitcoin at $100,000 is back in play if it continues its rally, an analyst says.  Clarity Act and a new Federal Reserve chair could cement the surge. Both of those remain up in the air, however.
 
-dlnews.com • 21h ago
-
----
-
-**[Bitcoin and ethereum price today, Thursday, April 23, 2026: Strong opening for bitcoin, but traders still cautious](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-thursday-april-23-2026-strong-opening-for-bitcoin-but-traders-still-cautious-114021085.html)**
-
-Bitcoin opened at $78,192.98 on Thursday, but retreated to $77,464.56 by 7:10 a.m. ET.  Ethereum opened at $2,375.12 on Thursday, but the price fell to $2,316.88 by 7:10 a.m. ET.
-
-Yahoo Finance • 18h ago
-
----
-
-**[Bitcoin, ether drop in Asia as Japanese data adds to Iran war-led market jitters](https://www.coindesk.com/markets/2026/04/24/bitcoin-rally-is-stalling-as-japan-macro-adds-to-iran-war-driven-market-jitters)**
-
-Crypto markets weaken amid rising Japan inflation, Iran war oil disruptions, and expectations of a hawkish Bank of Japan.
-
-CoinDesk • 1h ago
-
----
-
-**[Bitcoin Whales Accumulate 69% More BTC as ARK Warns the Bottom Isn’t In](https://finance.yahoo.com/markets/crypto/articles/bitcoin-whales-accumulate-69-more-052711529.html)**
-
-ARK Invest says Bitcoin has not bottomed yet as whales stack 1.47 million BTC during Q1's 22% price drawdown.
-
-Yahoo Finance • 49m ago
-
----
-
-**[Push to Unwind Bitcoin Hoarder Shows Once-Hot Trade Collapsing](https://www.bloomberg.com/news/articles/2026-04-23/push-to-unwind-bitcoin-hoarder-shows-once-hot-trade-collapsing)**
-
-Bloomberg.com • 15h ago
+dlnews.com • 1d ago
 
 ---
 
@@ -241,7 +241,7 @@ Bloomberg.com • 15h ago
 
 The U.S. military is actively running a Bitcoin node and testing the protocol’s cryptographic architecture as a tool for securing and protecting networks, according to INDOPACOM commander Admiral Samuel Paparo.
 
-⬆️ 5 • 💬 0 • 18h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/news/the-us-military-is-running-a-bitcoin-node)
+⬆️ 5 • 💬 0 • 21h ago • [Bitcoin Magazine](https://bitcoinmagazine.com/news/the-us-military-is-running-a-bitcoin-node)
 
 ---
 
@@ -279,13 +279,13 @@ Part one explained the physics of quantum computing. This piece explains the tar
 
 Build wallets, issue stablecoins, and move BTC instantly: all natively on Bitcoin. No bridges, no custodians. Start building with Spark's SDKs today.
 
-⬆️ 2 • 💬 0 • 10h ago • [Spark](https://www.spark.money)
+⬆️ 3 • 💬 0 • 12h ago • [Spark](https://www.spark.money)
 
 ---
 
 **[Warren Buffett: Why Stocks Beat Gold, Bonds and Bitcoin (2018)](https://news.ycombinator.com/item?id=47875151)**
 
-⬆️ 2 • 💬 0 • 17h ago • [acquirersmultiple.com](https://acquirersmultiple.com/2018/01/warren-buffett-why-stocks-beat-gold-bonds-and-bitcoin/)
+⬆️ 2 • 💬 0 • 19h ago • [acquirersmultiple.com](https://acquirersmultiple.com/2018/01/warren-buffett-why-stocks-beat-gold-bonds-and-bitcoin/)
 
 ---
 
@@ -323,7 +323,7 @@ Bitcoin is rallying out of a major drawdown while funding rates stay flat, short
 
 📺 Simply Bitcoin
 
-👁️ 27K • 👍 2K • 💬 178 • ⏱️ 20:08 • 9h ago
+👁️ 31K • 👍 2K • 💬 184 • ⏱️ 20:08 • 12h ago
 
 ---
 
@@ -333,17 +333,27 @@ Bitcoin is entering a real supply shock and most people still don't see it. Mich
 
 📺 Simply Bitcoin
 
-👁️ 32K • 👍 3K • 💬 164 • ⏱️ 17:24 • 1d ago
+👁️ 32K • 👍 3K • 💬 165 • ⏱️ 17:24 • 1d ago
 
 ---
 
-**[HE SHOULD HAVE KEPT THE BITCOIN](https://www.youtube.com/watch?v=W00FScSCVpg)**
+**[WARNING! THIS SCARY PATTERN COULD CRASH BITCOIN! Bitcoin Price Prediction 2026](https://www.youtube.com/watch?v=1px23zmVbvQ)**
 
-Despite the surge in gold prices, Cuban links have taken a hit This client was hoping to break even on his chain, but the market ...
+WARNING! Subscribe to our new channel!: https://m.youtube.com/@jebbmcafeeinvests CRYPTO RETIREMENT ACCOUNT ...
 
-📺 G LUXE JEWELERS
+📺 Crypto Jebb
 
-👁️ 13K • 👍 270 • 💬 20 • ⏱️ 1:52 • 9h ago
+👁️ 4K • 👍 294 • 💬 64 • ⏱️ 12:58 • 14h ago
+
+---
+
+**[How Michael Saylor Bet Billions on Bitcoin](https://www.youtube.com/watch?v=0aZlOCJ78fU)**
+
+Michael Saylor is the CEO of Strategy (formerly MicroStrategy), the first publicly traded company to convert a material portion of its ...
+
+📺 Anthony Pompliano
+
+👁️ 19K • 👍 1K • 💬 58 • ⏱️ 1:29:30 • 11h ago
 
 ---
 
@@ -357,13 +367,13 @@ Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=Al
 
 ---
 
-**[🚨 $80,000 Bitcoin Is the Only Number That Matters Right Now](https://www.youtube.com/watch?v=Jdbia5AsI44)**
+**[Banks Demand Outrageous 60 Day Delay!🔥Wells Fargo Terrified of Crypto!🚨](https://www.youtube.com/watch?v=6m4PUHPFYUo)**
 
-Build your crypto portfolio the smart way with iTrustCapital — now with stocks, crypto, and metals in one IRA. Get a $100 bonus: ...
+Major U.S. banking trade groups are pushing regulators to delay comment deadlines for new stablecoin rules under the GENIUS ...
 
-📺 DataDash
+📺 Paul Barron Network
 
-👁️ 2K • 👍 158 • 💬 36 • ⏱️ 14:00 • 14h ago
+👁️ 39K • 👍 2K • 💬 390 • ⏱️ 12:11 • 12h ago
 
 ---
 
@@ -373,7 +383,17 @@ Bitcoin is at a MAJOR Turning Point! Sentiment / 4 year cycle Could the bottom b
 
 📺 Camel Finance
 
-👁️ 11K • 👍 639 • 💬 117 • ⏱️ 17:39 • 20h ago
+👁️ 11K • 👍 651 • 💬 118 • ⏱️ 17:39 • 22h ago
+
+---
+
+**[🚨 $80,000 Bitcoin Is the Only Number That Matters Right Now](https://www.youtube.com/watch?v=Jdbia5AsI44)**
+
+Build your crypto portfolio the smart way with iTrustCapital — now with stocks, crypto, and metals in one IRA. Get a $100 bonus: ...
+
+📺 DataDash
+
+👁️ 2K • 👍 161 • 💬 36 • ⏱️ 14:00 • 17h ago
 
 ---
 
@@ -393,27 +413,7 @@ ADMIRAL Samuel Paparo confirms the USA is running a Bitcoin node. Also, Scott Be
 
 📺 Simply Bitcoin
 
-👁️ 11K • 👍 532 • 💬 28 • ⏱️ 1:21:05 • 11h ago
-
----
-
-**[Why Bitcoin is Actually Pumping 🤔](https://www.youtube.com/watch?v=4HIwAxBJ0es)**
-
-The REAL REASON Bitcoin is pumping... ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily BTC Conference 2026 ...
-
-📺 Altcoin Daily
-
-👁️ 8K • 👍 253 • 💬 3 • ⏱️ 0:53 • 18h ago
-
----
-
-**[Peter Schiff Speechless as Bitcoin Reserve Currency Talk Heats Up](https://www.youtube.com/watch?v=u643XRF0SSQ)**
-
-Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clashpicks.com/ **Exchange Partners** ...
-
-📺 CryptosRus Extra
-
-👁️ 3K • 👍 214 • 💬 49 • ⏱️ 8:18 • 1d ago
+👁️ 12K • 👍 543 • 💬 31 • ⏱️ 1:21:05 • 14h ago
 
 ---
 

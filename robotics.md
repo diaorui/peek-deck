@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-24T06:16:31.378343+00:00'
+updated: '2026-04-24T08:31:19.973002+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 24, 2026 at 06:16 UTC  
+**Last Updated:** April 24, 2026 at 08:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Spin-tracking robot takes on elite table-tennis players - SonyAI](https://www.reddit.com/r/robotics/comments/1stuamz/spintracking_robot_takes_on_elite_tabletennis/)**
 
-9h ago
+12h ago
 
 ---
 
 **[Ahead form robotics new Origin F1 face](https://www.reddit.com/r/robotics/comments/1stz82p/ahead_form_robotics_new_origin_f1_face/)**
 
-6h ago
+8h ago
 
 ---
 
@@ -48,19 +48,13 @@ Robotics research and industry news
 
 From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2047257759473946705
 
-19h ago
+21h ago
 
 ---
 
 **[Robot accompagné](https://www.reddit.com/r/robotics/comments/1sttpic/robot_accompagné/)**
 
-10h ago
-
----
-
-**[Robot eDog teste servo](https://www.reddit.com/r/robotics/comments/1stt4io/robot_edog_teste_servo/)**
-
-10h ago
+12h ago
 
 ---
 
@@ -68,7 +62,21 @@ From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2047257759473946705
 
 The problem If you've tried training a manipulation policy in Isaac Sim or MuJoCo on assets from Sketchfab, Objaverse, or your CAD library, you've probably hit at least one of these: gripper clips through the object, object has infinite mass, stacking collapses non-physically, contacts spike to NaN, or your policy hits 99% in sim and faceplants on real hardware. The fix is almost never the policy. Your 3D assets are visual assets, not simulation assets. They have geometry and textures. They don't have mass, inertia, friction, restitution, a collision mesh, or semantic labels. A SimReady asset carries all of that inside the USD file, using the UsdPhysics schemas. What "SimReady" means in OpenUSD A concrete set of API schemas applied to your prims (OpenUSD physics docs): Schema What it adds UsdPhysicsRigidBodyAPI Dynamic rigid body with linear/angular velocity. UsdPhysicsMassAPI Explicit mass or density (defaults to 1000 kg/m3 if you forget). UsdPhysicsCollisionAPI Turns geometry into a collider. UsdPhysicsMeshCollisionAPI Approximation mode (convex hull, convex decomp, SDF, bounding). UsdPhysicsMaterialAPI Static/dynamic friction, restitution. Bound via UsdShadeMaterialBindingAPI. Stage kilogramsPerUnit + metersPerUnit Your entire sim lies to you if these are wrong. The manual workflow (Blender + Python USD) 1. Stage setup with correct units from pxr import Usd, UsdGeom, UsdPhysics, UsdShade stage = Usd.Stage.CreateNew("mug.usda") UsdGeom.SetStageUpAxis(stage, UsdGeom.Tokens.z) # Isaac Sim convention UsdGeom.SetStageMetersPerUnit(stage, 1.0) UsdPhysics.SetStageKilogramsPerUnit(stage, 1.0) A mug modelled in centimeters with metersPerUnit=1.0 is a mug the size of a car. #1 silent killer. 2. Build a real collision mesh The visual mesh is for rendering, the collision mesh is for physics. Don't reuse the visual mesh — a mug's handle will fail with a single convex hull. Use convex decomposition (CoACD) with 8-32 hulls for anything the gripper touches: pip install coacd python -c "import coacd, trimesh; m = trimesh.load('mug.obj'); \\ coacd.run_coacd(coacd.Mesh(m.vertices, m.faces), threshold=0.05)" 3. Apply the physics APIs mesh_prim = stage.GetPrimAtPath("/World/Mug") # Rigid body UsdPhysics.RigidBodyAPI.Apply(mesh_prim) # Mass - either explicit, or let it derive from volume * density mass_api = UsdPhysics.MassAPI.Apply(mesh_prim) mass_api.CreateMassAttr(0.35) # 350g ceramic mug # or: mass_api.CreateDensityAttr(2400) # ceramic kg/m^3 # Collision UsdPhysics.CollisionAPI.Apply(mesh_prim) mesh_coll = UsdPhysics.MeshCollisionAPI.Apply(mesh_prim) mesh_coll.CreateApproximationAttr("convexDecomposition") # Material (friction/restitution) mat_path = "/World/PhysicsMaterials/Ceramic" mat_prim = UsdShade.Material.Define(stage, mat_path) phys_mat = UsdPhysics.MaterialAPI.Apply(mat_prim.GetPrim()) phys_mat.CreateStaticFrictionAttr(0.7) phys_mat.CreateDynamicFrictionAttr(0.6) phys_mat.CreateRestitutionAttr(0.05) UsdShade.MaterialBindingAPI(mesh_prim).Bind( mat_prim, materialPurpose=UsdShade.Tokens.physics ) 4. Validate Drop it into Isaac Sim, press C for collision preview, and check: does it rest on a plane, does a Franka gripper lift it, do mass and inertia look sane? The gotchas nobody writes down Convex hull on concave objects is why your bowl can't hold anything. Always convex-decompose concave geometry. Center of mass defaults to the AABB center, not the true COM. For a hammer, catastrophic. Override physics:centerOfMass explicitly. Friction combine modes differ per engine. PhysX averages, MuJoCo multiplies, Bullet takes minimum. The same staticFriction=0.5 behaves differently. Test in your deployment engine. xformOp:scale on the prim but collision baked at original scale. Apply scale to geometry before export, or set physics:approximation to rebuild. The automation option Doing this by hand for 40 objects is fine. For 4,000 it is not. This is the problem we've been building Rigyd around: upload a .glb, 2D image, or describe what you need. AI estimates mass, friction, materials, collision meshes, you get back validated OpenUSD with the full UsdPhysics schema stack applied. It supports MJDP file format for MuJoCo as well. You will get free credits on sign up to try without contacting sales. Happy to answer UsdPhysics / Isaac Sim / sim-to-real questions in the comments, or to look at any asset someone's having trouble with. https://preview.redd.it/wcwce1xgsywg1.png?width=1818&format=png&auto=webp&s=18c9810cfd1ff8f542c0db71384665fcea36e03b Disclosure: I'm a co-founder at Rigyd. I reference our tool once at the end as the automation path. The workflow above works by hand in Blender + Isaac Sim with no other tool needed. Mods, happy to edit if anything crosses a line.
 
-14h ago
+16h ago
+
+---
+
+**[Robot eDog teste servo](https://www.reddit.com/r/robotics/comments/1stt4io/robot_edog_teste_servo/)**
+
+12h ago
+
+---
+
+**[Robotics Meetup in PCMC, Pune – Discussions + Live Demos (25 April)](https://www.reddit.com/r/robotics/comments/1su8yuz/robotics_meetup_in_pcmc_pune_discussions_live/)**
+
+Hi everyone, We’re organizing a Robotics Conference Meetup in PCMC for people interested in robotics, automation, and hardware. This is a community-driven meetup focused on practical discussions, collaboration, and real-world problem solving in robotics. We’ll also have some live demos, including: Drone simulation C2 robotic arm from Kikobot Robotics If anyone is working on a project and wants to demo something, feel free to bring it along. Details: Date: 25 April 2026 Time: 11:00 AM onwards Location: PCMC, Pune (exact location shared after registration) If you’re a student, engineer, or just interested in robotics, you’re welcome to join. Registration link: https://forms.gle/DEhiUzhBhvoQFwiG8 Happy to answer questions in the comments.
+
+49m ago
 
 ---
 
@@ -76,13 +84,13 @@ The problem If you've tried training a manipulation policy in Isaac Sim or MuJoC
 
 Hi, I visited a really old plant where they are using “Bivector drives”, apparently they are from ABB, anyone know where can I get the software to run them? Its called Bivcom.
 
-2h ago
+5h ago
 
 ---
 
 **[Mon Bittle robot dog](https://www.reddit.com/r/robotics/comments/1stsvgn/mon_bittle_robot_dog/)**
 
-10h ago
+13h ago
 
 ---
 
@@ -90,15 +98,7 @@ Hi, I visited a really old plant where they are using “Bivector drives”, app
 
 Hello! I’m new to this sub, so hopefully this is a discussion topic that is okay with the moderation rules on this sub. I’ve been working professionally as a robotics technician/engineer now for 6 and a half years. I work exclusively with manufacturing robots and robot PLC. I’m curious where other members of this sub are at with their own experience in robots. I am part of the paint engineering department and work primarily with Kawasaki robots, although I have some experience with Yaskawa as well. I’m wondering what kind of projects you guys have worked on or what type of improvements to the process you have provided at work. Obviously, keep it vague for NDA purposes. There are several processes I would like to improve on, and my upcoming process is in regards to interior paint, which involves using robots to open parts on a shell and paint the interior of those parts. (Trying to keep it vague, sorry). This will be my first time working with gripper robots and working within the confines of a small area where collision is a major concern. Painting exterior parts is much less complicated. Beside that project, I’ve worked with adjusting program structure to improve efficiency, implementing brand new controller systems never before used in North America, and implementing a high efficiency tool that reduces paint waste by expanding transfer efficiency from 60% to 90%. What types of tech have you worked on implementing? I’ve also been learning Omron PLC and I’m curious what your preferred PLC is and why. Give me all the discussion points! I’m curious to see what others in this field have worked on and their experiences with that work.
 
-5h ago
-
----
-
-**[How Humanoid Robots Must Evolve to Depart the Walled Garden](https://www.reddit.com/r/robotics/comments/1stsp1f/how_humanoid_robots_must_evolve_to_depart_the/)**
-
-Humanoid robots are being developed for industrial use, but most current deployments are limited to controlled environments where humans and robots do not operate at the same time. A key limitation is safety. Traditional industrial robots rely on predictable behavior and established safety methods such as physical barriers or defined operating zones. These approaches do not directly apply to humanoid robots. Humanoids are dynamically stable systems, meaning they require continuous control to remain upright. If power is removed, they can fall, which introduces a different type of risk compared to conventional robots that simply stop.
-
-🔗 [Automate](https://www.automate.org/robotics/blogs/safety-by-design-how-humanoid-robots-must-evolve-to-depart-the-walled-garden) • 10h ago
+7h ago
 
 ---
 
@@ -106,27 +106,19 @@ Humanoid robots are being developed for industrial use, but most current deploym
 
 ## Google News: "robotics"
 
-**[The USC Professor Who Pioneered Socially Assistive Robotics](https://spectrum.ieee.org/socially-assistive-robotics)**
+**[Pudu Robotics raises nearly $150M as it targets industrial applications](https://www.therobotreport.com/pudu-robotics-raises-nearly-150m-targets-industrial-applications/)**
 
-Maja Matarić’s newest robot aids with students’ mental health
+Pudu plans to use the funding to develop its embodied AI, grow its product portfolio, and expand in global markets beyond service robots.
 
-IEEE Spectrum • 3d ago
-
----
-
-**[Accenture, Vodafone Procure & Connect and SAP Pilot Humanoid Robotics in Warehouse Operations](https://newsroom.accenture.com/news/2026/accenture-vodafone-procure-connect-and-sap-pilot-humanoid-robotics-in-warehouse-operations)**
-
-Accenture (NYSE: ACN), together with Vodafone Procure & Connect and SAP, is piloting the use of humanoid robotics in warehouse environments, demonstrating how physical AI can enhance operational efficiency, improve safety, and enable new approaches to workforce and business model design.
-
-Accenture • 1d ago
+The Robot Report • 13h ago
 
 ---
 
-**[Bakersfield all-girls robotics team heads to VEX world championship in St. Loui](https://bakersfieldnow.com/news/local/gallery/bakersfield-all-girls-robotics-team-heads-to-vex-world-championship-in-st-louis-california-stem-design-kern-county)**
+**[Humanoid Mania Turns Chinese Brothers Behind Robotic Joint Maker Into Billionaires](https://www.forbes.com/sites/zinnialee/2026/04/23/humanoid-mania-turns-chinese-brothers-behind-robotic-joint-maker-into-billionaires/)**
 
-KBAK CBS 29 and KBFX Fox58 are the news leaders for Bakersfield, California and serves surrounding communities including Oildale, Lamont, Shafter, Wasco, Buttonwillow, Maricopa, Tehachapi, Arvin, California City, Delano, McFarland, Ridgecrest and Taft.
+Brothers Zuo Yuyu and Zuo Jing amassed a hard-earned fortune from making an early bet on robot components and building their Shanghai-listed Leaderdrive into China’s largest maker of robotic joints.
 
-KBAK • 3h ago
+Forbes • 17h ago
 
 ---
 
@@ -134,7 +126,23 @@ KBAK • 3h ago
 
 Foundation Future Industries founder and CEO Sankaet Pathak and Trump Organization Executive Vice President Eric Trump discuss battlefield robotics, national security risks, and China competition on ‘Mornings with Maria.
 
-Fox Business • 17h ago
+Fox Business • 20h ago
+
+---
+
+**[China's humanoid robotics boom is no startup success story](https://asia.nikkei.com/opinion/china-s-humanoid-robotics-boom-is-no-startup-success-story)**
+
+Unitree’s rise reveals a state architecture that cultivates industrial champions before global rivals notice
+
+Nikkei Asia • 12h ago
+
+---
+
+**[This Roboticist-Turned-Teacher Built a Life-Size Replica of ENIAC](https://spectrum.ieee.org/roboticist-turned-teacher-eniac-replica)**
+
+Tom Burick wants to ground his neurodivergent students’ learning in history
+
+IEEE Spectrum • 2d ago
 
 ---
 
@@ -142,15 +150,7 @@ Fox Business • 17h ago
 
 Spark Capital VC Nabeel Hyatt explains why AI needs human data and shares how robotics could reshape jobs and the future of gig work
 
-Business Insider • 21h ago
-
----
-
-**[Tesla Beats First-Quarter Expectations Amid Pivot To Robotics, AI](https://www.forbes.com/sites/aliciapark/2026/04/22/tesla-beats-first-quarter-expectations-amid-business-pivot-to-robotics-ai/)**
-
-The automaker said demand for its vehicles has rebounded from recent declines .
-
-Forbes • 1d ago
+Business Insider • 23h ago
 
 ---
 
@@ -158,23 +158,7 @@ Forbes • 1d ago
 
 Tesla (TSLA) reported first quarter results on Wednesday after the closing bell. Adjusted earnings per share (EPS) came in at $0.41 (compared to analyst estimates of $0.34), and revenue came in at $22.39 billion (compared to analyst estimates of $22.19 billion). Yahoo Finance Senior Autos Reporter Pras Subramanian and Barron's associate editor Al Root discuss what investors need from Tesla on robotaxi and robots.
 
-Yahoo Finance • 16h ago
-
----
-
-**[Tesla’s revenue rises again as it prepares for more AI and robotics](https://www.theverge.com/transportation/915217/tesla-q1-2026-earnings-profit-revenue)**
-
-Tesla’s Q1 2026 earnings are out.
-
-The Verge • 1d ago
-
----
-
-**[Faraday Future Expands Into AI Education With U.S. Robotics Summer Camp Launch](https://finance.yahoo.com/sectors/technology/articles/faraday-future-expands-ai-education-144939115.html)**
-
-Faraday Future Intelligent Electric Inc. (NASDAQ:FFAI) has entered the education technology space through a new partnership with U.
-
-Yahoo Finance • 1d ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -183,6 +167,22 @@ Yahoo Finance • 1d ago
 Sony’s ‘Ace’ defeats elite players, highlighting how AI is improving machines’ abilities to interact with people
 
 Financial Times • 1d ago
+
+---
+
+**[China’s Newest Tech Billionaire Made His Fortune From Developing Image Sensor Chips For Robotics](https://www.forbes.com/sites/zinnialee/2026/04/21/chinas-newest-tech-billionaire-made-his-fortune-from-developing-image-sensor-chips-for-robotics/)**
+
+The post-IPO stock surge of Hong Kong-listed Gpixel Changchun Microelectronics has made founder and chairman Wang Xinyang the latest member of China’s three-comma club.
+
+Forbes • 2d ago
+
+---
+
+**[German robotics, automation company picks Greenville for headquarters](https://www.greenvilleonline.com/story/money/business/2026/04/23/idealworks-chooses-greenville-for-u-s-headquarters-heres-why/89737706007/)**
+
+Idealworks spun out of BMW Group in Munich, and the Greenville location puts it in the middle of some of the most advanced manufacturing in the U.S.
+
+Greenville Online • 16h ago
 
 ---
 
@@ -196,7 +196,7 @@ A new class of synthetic muscles from MIT is straight out of Westworld. The so-c
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 44 • 💬 2 • ⏱️ 0:40 • 9h ago
+👁️ 1K • 👍 46 • 💬 2 • ⏱️ 0:40 • 11h ago
 
 ---
 
@@ -206,7 +206,7 @@ AGIBOT just rolled out a full new wave of humanoid robots and AI models built fo
 
 📺 AI Revolution
 
-👁️ 33K • 👍 806 • 💬 52 • ⏱️ 16:29 • 3d ago
+👁️ 33K • 👍 808 • 💬 52 • ⏱️ 16:29 • 3d ago
 
 ---
 
@@ -226,45 +226,7 @@ For the first time, an AI-powered machine has bested elite-level athletes at a p
 
 📺 nature video
 
-👁️ 65K • 👍 1K • 💬 144 • ⏱️ 13:38 • 1d ago
-
----
-
-**[🤖 No repeat win, still stole the show—TienKung Ultra ate this race. #humanoidrobot #ai #robotics](https://www.youtube.com/watch?v=LPK7x5WV9Ss)**
-
-TienKung Ultra finished the full 21.0975 km in 1:15:00 — fully autonomous, zero human intervention. No repeat win this time.
-
-📺 XRoboHub
-
-👁️ 2.4M • 👍 19K • 💬 2K • ⏱️ 0:39 • 4d ago
-
----
-
-**[Kraken Robotics reports record 2025, misses on Q4](https://www.youtube.com/watch?v=W4pzp5YUox8)**
-
-Greg Reid, president and CEO of Kraken Robotics, joins BNN Bloomberg to discuss the company's earnings and future plans.
-
-📺 BNN Bloomberg
-
-👁️ 653 • 👍 21 • ⏱️ 7:14 • 13h ago
-
----
-
-**[The Definition of a SNIPER TITAN: New WAYMAKER [War Robots]](https://www.youtube.com/watch?v=grZQR70nZs0)**
-
-War Robots Gameplay: New WAYMAKER Titan - WR My War Robots Creator Link: https://wr.my.games/manni - Code: 'manni' ...
-
-📺 Manni-Gaming
-
-👁️ 9K • 👍 479 • 💬 67 • ⏱️ 24:06 • 17h ago
-
----
-
-**[Runners v robots at Beijing half marathon. #China #Beijing #Robots #BBCNews](https://www.youtube.com/watch?v=MfS5m4MARGk)**
-
-📺 BBC News
-
-👁️ 122K • 👍 1K • 💬 112 • ⏱️ 0:42 • 4d ago
+👁️ 67K • 👍 1K • 💬 148 • ⏱️ 13:38 • 1d ago
 
 ---
 
@@ -274,7 +236,27 @@ Foundation Future Industries founder and CEO Sankaet Pathak and Trump Organizati
 
 📺 Fox Business
 
-👁️ 46K • 👍 1K • 💬 330 • ⏱️ 10:17 • 17h ago
+👁️ 46K • 👍 1K • 💬 330 • ⏱️ 10:17 • 20h ago
+
+---
+
+**[50 Minutes: How China&#39;s Robot Destroyed the Half Marathon Record](https://www.youtube.com/watch?v=pH8tVBqCRLY)**
+
+In Beijing, a humanoid robot just completed a 21-kilometer half-marathon in an astonishing 50 minutes and 26 seconds, marking ...
+
+📺 Capital Markets AI
+
+👁️ 34K • 👍 635 • 💬 151 • ⏱️ 8:58 • 4d ago
+
+---
+
+**[The Definition of a SNIPER TITAN: New WAYMAKER [War Robots]](https://www.youtube.com/watch?v=grZQR70nZs0)**
+
+War Robots Gameplay: New WAYMAKER Titan - WR My War Robots Creator Link: https://wr.my.games/manni - Code: 'manni' ...
+
+📺 Manni-Gaming
+
+👁️ 10K • 👍 492 • 💬 70 • ⏱️ 24:06 • 19h ago
 
 ---
 
@@ -284,7 +266,27 @@ AI robots failing and glitching 2026 is becoming impossible to ignore. From huma
 
 📺 MindSeeded
 
-👁️ 298K • 👍 16K • 💬 3K • ⏱️ 14:10 • 6d ago
+👁️ 299K • 👍 16K • 💬 3K • ⏱️ 14:10 • 6d ago
+
+---
+
+**[🤖 No repeat win, still stole the show—TienKung Ultra ate this race. #humanoidrobot #ai #robotics](https://www.youtube.com/watch?v=LPK7x5WV9Ss)**
+
+TienKung Ultra finished the full 21.0975 km in 1:15:00 — fully autonomous, zero human intervention. No repeat win this time.
+
+📺 XRoboHub
+
+👁️ 2.4M • 👍 19K • 💬 2K • ⏱️ 0:39 • 5d ago
+
+---
+
+**[Chinese humanoid robot beats world record for fastest human half-marathon | ABC NEWS](https://www.youtube.com/watch?v=tcfAm3hNQbk)**
+
+A humanoid robot has beaten the human record for the world's fastest half-marathon by finishing in just over 50 minutes. Dozens ...
+
+📺 ABC News (Australia)
+
+👁️ 98K • 👍 640 • ⏱️ 6:44 • 4d ago
 
 ---
 

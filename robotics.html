@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-04-24T06:16:30.970156+00:00"
+          "dateModified": "2026-04-24T08:31:19.565054+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -742,6 +742,41 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1stn841/tutorial_making_3d_assets_physicsaccurate_for/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://preview.redd.it/wcwce1xgsywg1.png?width=140&height=85&auto=webp&s=37fd058c8ec3cde5296e3cbc789a387f983111e6" alt="[Tutorial] Making 3D assets physics-accurate for manipulation training: UsdPhysics, collision meshes, mass, friction, restitution estimation" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1stn841/tutorial_making_3d_assets_physicsaccurate_for/" target="_blank" onclick="event.stopPropagation();">[Tutorial] Making 3D assets physics-accurate for manipulation training: UsdPhysics, collision meshes, mass, friction, restitution estimation</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            The problem If you've tried training a manipulation policy in Isaac Sim or MuJoCo on assets from Sketchfab, Objaverse, or your CAD library, you've probably hit at least one of these: gripper clips through the object, object has infinite mass, stacking collapses non-physically, contacts spike to NaN, or your policy hits 99% in sim and faceplants on real hardware. The fix is almost never the policy. Your 3D assets are visual assets, not simulation assets. They have geometry and textures. They don't have mass, inertia, friction, restitution, a collision mesh, or semantic labels. A SimReady asset carries all of that inside the USD file, using the UsdPhysics schemas. What "SimReady" means in OpenUSD A concrete set of API schemas applied to your prims (OpenUSD physics docs): Schema What it adds UsdPhysicsRigidBodyAPI Dynamic rigid body with linear/angular velocity. UsdPhysicsMassAPI Explicit mass or density (defaults to 1000 kg/m3 if you forget). UsdPhysicsCollisionAPI Turns geometry into a collider. UsdPhysicsMeshCollisionAPI Approximation mode (convex hull, convex decomp, SDF, bounding). UsdPhysicsMaterialAPI Static/dynamic friction, restitution. Bound via UsdShadeMaterialBindingAPI. Stage kilogramsPerUnit + metersPerUnit Your entire sim lies to you if these are wrong. The manual workflow (Blender + Python USD) 1. Stage setup with correct units from pxr import Usd, UsdGeom, UsdPhysics, UsdShade stage = Usd.Stage.CreateNew("mug.usda") UsdGeom.SetStageUpAxis(stage, UsdGeom.Tokens.z) # Isaac Sim convention UsdGeom.SetStageMetersPerUnit(stage, 1.0) UsdPhysics.SetStageKilogramsPerUnit(stage, 1.0) A mug modelled in centimeters with metersPerUnit=1.0 is a mug the size of a car. #1 silent killer. 2. Build a real collision mesh The visual mesh is for rendering, the collision mesh is for physics. Don't reuse the visual mesh — a mug's handle will fail with a single convex hull. Use convex decomposition (CoACD) with 8-32 hulls for anything the gripper touches: pip install coacd python -c "import coacd, trimesh; m = trimesh.load('mug.obj'); \\ coacd.run_coacd(coacd.Mesh(m.vertices, m.faces), threshold=0.05)" 3. Apply the physics APIs mesh_prim = stage.GetPrimAtPath("/World/Mug") # Rigid body UsdPhysics.RigidBodyAPI.Apply(mesh_prim) # Mass - either explicit, or let it derive from volume * density mass_api = UsdPhysics.MassAPI.Apply(mesh_prim) mass_api.CreateMassAttr(0.35) # 350g ceramic mug # or: mass_api.CreateDensityAttr(2400) # ceramic kg/m^3 # Collision UsdPhysics.CollisionAPI.Apply(mesh_prim) mesh_coll = UsdPhysics.MeshCollisionAPI.Apply(mesh_prim) mesh_coll.CreateApproximationAttr("convexDecomposition") # Material (friction/restitution) mat_path = "/World/PhysicsMaterials/Ceramic" mat_prim = UsdShade.Material.Define(stage, mat_path) phys_mat = UsdPhysics.MaterialAPI.Apply(mat_prim.GetPrim()) phys_mat.CreateStaticFrictionAttr(0.7) phys_mat.CreateDynamicFrictionAttr(0.6) phys_mat.CreateRestitutionAttr(0.05) UsdShade.MaterialBindingAPI(mesh_prim).Bind( mat_prim, materialPurpose=UsdShade.Tokens.physics ) 4. Validate Drop it into Isaac Sim, press C for collision preview, and check: does it rest on a plane, does a Franka gripper lift it, do mass and inertia look sane? The gotchas nobody writes down Convex hull on concave objects is why your bowl can't hold anything. Always convex-decompose concave geometry. Center of mass defaults to the AABB center, not the true COM. For a hammer, catastrophic. Override physics:centerOfMass explicitly. Friction combine modes differ per engine. PhysX averages, MuJoCo multiplies, Bullet takes minimum. The same staticFriction=0.5 behaves differently. Test in your deployment engine. xformOp:scale on the prim but collision baked at original scale. Apply scale to geometry before export, or set physics:approximation to rebuild. The automation option Doing this by hand for 40 objects is fine. For 4,000 it is not. This is the problem we've been building Rigyd around: upload a .glb, 2D image, or describe what you need. AI estimates mass, friction, materials, collision meshes, you get back validated OpenUSD with the full UsdPhysics schema stack applied. It supports MJDP file format for MuJoCo as well. You will get free credits on sign up to try without contacting sales. Happy to answer UsdPhysics / Isaac Sim / sim-to-real questions in the comments, or to look at any asset someone's having trouble with. https://preview.redd.it/wcwce1xgsywg1.png?width=1818&format=png&auto=webp&s=18c9810cfd1ff8f542c0db71384665fcea36e03b Disclosure: I'm a co-founder at Rigyd. I reference our tool once at the end as the automation path. The workflow above works by hand in Blender + Isaac Sim with no other tool needed. Mods, happy to edit if anything crosses a line.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1776960627.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1stt4io/robot_edog_teste_servo/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -773,23 +808,21 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1stn841/tutorial_making_3d_assets_physicsaccurate_for/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1su8yuz/robotics_meetup_in_pcmc_pune_discussions_live/', '_blank')">
                     <div class="post-thumbnail">
-                        
-                        <img src="https://preview.redd.it/wcwce1xgsywg1.png?width=140&height=85&auto=webp&s=37fd058c8ec3cde5296e3cbc789a387f983111e6" alt="[Tutorial] Making 3D assets physics-accurate for manipulation training: UsdPhysics, collision meshes, mass, friction, restitution estimation" onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1stn841/tutorial_making_3d_assets_physicsaccurate_for/" target="_blank" onclick="event.stopPropagation();">[Tutorial] Making 3D assets physics-accurate for manipulation training: UsdPhysics, collision meshes, mass, friction, restitution estimation</a>
+                            <a href="https://www.reddit.com/r/robotics/comments/1su8yuz/robotics_meetup_in_pcmc_pune_discussions_live/" target="_blank" onclick="event.stopPropagation();">Robotics Meetup in PCMC, Pune – Discussions + Live Demos (25 April)</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            The problem If you've tried training a manipulation policy in Isaac Sim or MuJoCo on assets from Sketchfab, Objaverse, or your CAD library, you've probably hit at least one of these: gripper clips through the object, object has infinite mass, stacking collapses non-physically, contacts spike to NaN, or your policy hits 99% in sim and faceplants on real hardware. The fix is almost never the policy. Your 3D assets are visual assets, not simulation assets. They have geometry and textures. They don't have mass, inertia, friction, restitution, a collision mesh, or semantic labels. A SimReady asset carries all of that inside the USD file, using the UsdPhysics schemas. What "SimReady" means in OpenUSD A concrete set of API schemas applied to your prims (OpenUSD physics docs): Schema What it adds UsdPhysicsRigidBodyAPI Dynamic rigid body with linear/angular velocity. UsdPhysicsMassAPI Explicit mass or density (defaults to 1000 kg/m3 if you forget). UsdPhysicsCollisionAPI Turns geometry into a collider. UsdPhysicsMeshCollisionAPI Approximation mode (convex hull, convex decomp, SDF, bounding). UsdPhysicsMaterialAPI Static/dynamic friction, restitution. Bound via UsdShadeMaterialBindingAPI. Stage kilogramsPerUnit + metersPerUnit Your entire sim lies to you if these are wrong. The manual workflow (Blender + Python USD) 1. Stage setup with correct units from pxr import Usd, UsdGeom, UsdPhysics, UsdShade stage = Usd.Stage.CreateNew("mug.usda") UsdGeom.SetStageUpAxis(stage, UsdGeom.Tokens.z) # Isaac Sim convention UsdGeom.SetStageMetersPerUnit(stage, 1.0) UsdPhysics.SetStageKilogramsPerUnit(stage, 1.0) A mug modelled in centimeters with metersPerUnit=1.0 is a mug the size of a car. #1 silent killer. 2. Build a real collision mesh The visual mesh is for rendering, the collision mesh is for physics. Don't reuse the visual mesh — a mug's handle will fail with a single convex hull. Use convex decomposition (CoACD) with 8-32 hulls for anything the gripper touches: pip install coacd python -c "import coacd, trimesh; m = trimesh.load('mug.obj'); \\ coacd.run_coacd(coacd.Mesh(m.vertices, m.faces), threshold=0.05)" 3. Apply the physics APIs mesh_prim = stage.GetPrimAtPath("/World/Mug") # Rigid body UsdPhysics.RigidBodyAPI.Apply(mesh_prim) # Mass - either explicit, or let it derive from volume * density mass_api = UsdPhysics.MassAPI.Apply(mesh_prim) mass_api.CreateMassAttr(0.35) # 350g ceramic mug # or: mass_api.CreateDensityAttr(2400) # ceramic kg/m^3 # Collision UsdPhysics.CollisionAPI.Apply(mesh_prim) mesh_coll = UsdPhysics.MeshCollisionAPI.Apply(mesh_prim) mesh_coll.CreateApproximationAttr("convexDecomposition") # Material (friction/restitution) mat_path = "/World/PhysicsMaterials/Ceramic" mat_prim = UsdShade.Material.Define(stage, mat_path) phys_mat = UsdPhysics.MaterialAPI.Apply(mat_prim.GetPrim()) phys_mat.CreateStaticFrictionAttr(0.7) phys_mat.CreateDynamicFrictionAttr(0.6) phys_mat.CreateRestitutionAttr(0.05) UsdShade.MaterialBindingAPI(mesh_prim).Bind( mat_prim, materialPurpose=UsdShade.Tokens.physics ) 4. Validate Drop it into Isaac Sim, press C for collision preview, and check: does it rest on a plane, does a Franka gripper lift it, do mass and inertia look sane? The gotchas nobody writes down Convex hull on concave objects is why your bowl can't hold anything. Always convex-decompose concave geometry. Center of mass defaults to the AABB center, not the true COM. For a hammer, catastrophic. Override physics:centerOfMass explicitly. Friction combine modes differ per engine. PhysX averages, MuJoCo multiplies, Bullet takes minimum. The same staticFriction=0.5 behaves differently. Test in your deployment engine. xformOp:scale on the prim but collision baked at original scale. Apply scale to geometry before export, or set physics:approximation to rebuild. The automation option Doing this by hand for 40 objects is fine. For 4,000 it is not. This is the problem we've been building Rigyd around: upload a .glb, 2D image, or describe what you need. AI estimates mass, friction, materials, collision meshes, you get back validated OpenUSD with the full UsdPhysics schema stack applied. It supports MJDP file format for MuJoCo as well. You will get free credits on sign up to try without contacting sales. Happy to answer UsdPhysics / Isaac Sim / sim-to-real questions in the comments, or to look at any asset someone's having trouble with. https://preview.redd.it/wcwce1xgsywg1.png?width=1818&format=png&auto=webp&s=18c9810cfd1ff8f542c0db71384665fcea36e03b Disclosure: I'm a co-founder at Rigyd. I reference our tool once at the end as the automation path. The workflow above works by hand in Blender + Isaac Sim with no other tool needed. Mods, happy to edit if anything crosses a line.
+                            Hi everyone, We’re organizing a Robotics Conference Meetup in PCMC for people interested in robotics, automation, and hardware. This is a community-driven meetup focused on practical discussions, collaboration, and real-world problem solving in robotics. We’ll also have some live demos, including: Drone simulation C2 robotic arm from Kikobot Robotics If anyone is working on a project and wants to demo something, feel free to bring it along. Details: Date: 25 April 2026 Time: 11:00 AM onwards Location: PCMC, Pune (exact location shared after registration) If you’re a student, engineer, or just interested in robotics, you’re welcome to join. Registration link: https://forms.gle/DEhiUzhBhvoQFwiG8 Happy to answer questions in the comments.
                         </div>
                         
 
@@ -798,7 +831,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1776960627.0"></span>
+                                    <span data-timestamp="1777016493.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -905,56 +938,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1stsp1f/how_humanoid_robots_must_evolve_to_depart_the/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/L7AX9p9RrGNwoRE1XZhKGTiLTMKQkTXVi6f1Jw921M8.jpeg?width=640&crop=smart&auto=webp&s=a21c8bd4e6f2182339983f2bdf8f6018b0f6cfe7" alt="How Humanoid Robots Must Evolve to Depart the Walled Garden" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1stsp1f/how_humanoid_robots_must_evolve_to_depart_the/" target="_blank" onclick="event.stopPropagation();">How Humanoid Robots Must Evolve to Depart the Walled Garden</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Humanoid robots are being developed for industrial use, but most current deployments are limited to controlled environments where humans and robots do not operate at the same time. A key limitation is safety. Traditional industrial robots rely on predictable behavior and established safety methods such as physical barriers or defined operating zones. These approaches do not directly apply to humanoid robots. Humanoids are dynamically stable systems, meaning they require continuous control to remain upright. If power is removed, they can fall, which introduces a different type of risk compared to conventional robots that simply stop.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1776972264.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://www.automate.org/robotics/blogs/safety-by-design-how-humanoid-robots-must-evolve-to-depart-the-walled-garden" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://www.automate.org/favicon.ico" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
-                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
-                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
-                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
-                                            </svg>
-                                            
-                                        
-                                        <span>Automate</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -978,7 +961,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-04-24T06:16:05.187610+00:00">Updated 2026-04-24T06:16:05.187610+00:00</small>
+        <small data-timestamp="2026-04-24T08:30:53.063181+00:00">Updated 2026-04-24T08:30:53.063181+00:00</small>
     </div>
 </div>
 
@@ -1164,20 +1147,20 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="news-carousel-robotics">
                 
-                <div class="carousel-card" onclick="window.open('https://spectrum.ieee.org/socially-assistive-robotics', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.therobotreport.com/pudu-robotics-raises-nearly-150m-targets-industrial-applications/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://spectrum.ieee.org/media-library/a-smiling-blonde-woman-poses-with-a-humanoid-robotic-torso-wearing-a-usc-sweatshirt.jpg?id=65574156&width=1200&height=600&coordinates=0%2C250%2C0%2C250');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://www.therobotreport.com/wp-content/uploads/2026/04/pudurobotics-featured.jpg');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://spectrum.ieee.org/socially-assistive-robotics" target="_blank" onclick="event.stopPropagation();">The USC Professor Who Pioneered Socially Assistive Robotics</a>
+                            <a href="https://www.therobotreport.com/pudu-robotics-raises-nearly-150m-targets-industrial-applications/" target="_blank" onclick="event.stopPropagation();">Pudu Robotics raises nearly $150M as it targets industrial applications</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Maja Matarić’s newest robot aids with students’ mental health
+                            Pudu plans to use the funding to develop its embodied AI, grow its product portfolio, and expand in global markets beyond service robots.
                         </div>
                         
 
@@ -1187,9 +1170,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://spectrum.ieee.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="IEEE Spectrum" class="news-favicon">
-                                    <a href="https://spectrum.ieee.org" target="_blank" onclick="event.stopPropagation();">IEEE Spectrum</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.therobotreport.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Robot Report" class="news-favicon">
+                                    <a href="https://www.therobotreport.com" target="_blank" onclick="event.stopPropagation();">The Robot Report</a>
                                     
                                 </div>
                                 
@@ -1197,7 +1180,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1776711204.0"></span>
+                                    <span data-timestamp="1776972165.0"></span>
                                 </div>
                                 
                             </div>
@@ -1205,20 +1188,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://newsroom.accenture.com/news/2026/accenture-vodafone-procure-connect-and-sap-pilot-humanoid-robotics-in-warehouse-operations', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.forbes.com/sites/zinnialee/2026/04/23/humanoid-mania-turns-chinese-brothers-behind-robotic-joint-maker-into-billionaires/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://newsroom.accenture.com/news/2026/media_1eac90b09ae44f4af080d917c5b8aebdfdabfebb5.png?width=1200&format=pjpg&optimize=medium');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://imageio.forbes.com/specials-images/imageserve/69e9e76329590b01068033a4/0x0.jpg?format=jpg&crop=2849,1602,x0,y57,safe&height=900&width=1600&fit=bounds');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://newsroom.accenture.com/news/2026/accenture-vodafone-procure-connect-and-sap-pilot-humanoid-robotics-in-warehouse-operations" target="_blank" onclick="event.stopPropagation();">Accenture, Vodafone Procure & Connect and SAP Pilot Humanoid Robotics in Warehouse Operations</a>
+                            <a href="https://www.forbes.com/sites/zinnialee/2026/04/23/humanoid-mania-turns-chinese-brothers-behind-robotic-joint-maker-into-billionaires/" target="_blank" onclick="event.stopPropagation();">Humanoid Mania Turns Chinese Brothers Behind Robotic Joint Maker Into Billionaires</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Accenture (NYSE: ACN), together with Vodafone Procure & Connect and SAP, is piloting the use of humanoid robotics in warehouse environments, demonstrating how physical AI can enhance operational efficiency, improve safety, and enable new approaches to workforce and business model design.
+                            Brothers Zuo Yuyu and Zuo Jing amassed a hard-earned fortune from making an early bet on robot components and building their Shanghai-listed Leaderdrive into China’s largest maker of robotic joints.
                         </div>
                         
 
@@ -1228,9 +1211,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://newsroom.accenture.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Accenture" class="news-favicon">
-                                    <a href="https://newsroom.accenture.com" target="_blank" onclick="event.stopPropagation();">Accenture</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.forbes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Forbes" class="news-favicon">
+                                    <a href="https://www.forbes.com" target="_blank" onclick="event.stopPropagation();">Forbes</a>
                                     
                                 </div>
                                 
@@ -1238,48 +1221,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1776849288.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://bakersfieldnow.com/news/local/gallery/bakersfield-all-girls-robotics-team-heads-to-vex-world-championship-in-st-louis-california-stem-design-kern-county', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://bakersfieldnow.com/news/local/bakersfield-all-girls-robotics-team-heads-to-vex-world-championship-in-st-louis-california-stem-design-kern-county/resources/assets/kbak/images/brand-icons/KBAK-16x9.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://bakersfieldnow.com/news/local/gallery/bakersfield-all-girls-robotics-team-heads-to-vex-world-championship-in-st-louis-california-stem-design-kern-county" target="_blank" onclick="event.stopPropagation();">Bakersfield all-girls robotics team heads to VEX world championship in St. Loui</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            KBAK CBS 29 and KBFX Fox58 are the news leaders for Bakersfield, California and serves surrounding communities including Oildale, Lamont, Shafter, Wasco, Buttonwillow, Maricopa, Tehachapi, Arvin, California City, Delano, McFarland, Ridgecrest and Taft.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://bakersfieldnow.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="KBAK" class="news-favicon">
-                                    <a href="https://bakersfieldnow.com" target="_blank" onclick="event.stopPropagation();">KBAK</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1777000374.0"></span>
+                                    <span data-timestamp="1776957239.0"></span>
                                 </div>
                                 
                             </div>
@@ -1328,6 +1270,88 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://asia.nikkei.com/opinion/china-s-humanoid-robotics-boom-is-no-startup-success-story', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F0%2F6%2F1%2F12391602-2-eng-GB%2F90a6cab7d722-2026-03-25T082628Z_46419322_RC2HBKACA7U5_RTRMADP_3_CHINA-TECH.JPG?width=1260&fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=auto&height=630');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://asia.nikkei.com/opinion/china-s-humanoid-robotics-boom-is-no-startup-success-story" target="_blank" onclick="event.stopPropagation();">China's humanoid robotics boom is no startup success story</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Unitree’s rise reveals a state architecture that cultivates industrial champions before global rivals notice
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://asia.nikkei.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Nikkei Asia" class="news-favicon">
+                                    <a href="https://asia.nikkei.com" target="_blank" onclick="event.stopPropagation();">Nikkei Asia</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1776974700.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://spectrum.ieee.org/roboticist-turned-teacher-eniac-replica', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://spectrum.ieee.org/media-library/image.png?id=65575461&width=1200&height=600&coordinates=0%2C281%2C0%2C282');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://spectrum.ieee.org/roboticist-turned-teacher-eniac-replica" target="_blank" onclick="event.stopPropagation();">This Roboticist-Turned-Teacher Built a Life-Size Replica of ENIAC</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Tom Burick wants to ground his neurodivergent students’ learning in history
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://spectrum.ieee.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="IEEE Spectrum" class="news-favicon">
+                                    <a href="https://spectrum.ieee.org" target="_blank" onclick="event.stopPropagation();">IEEE Spectrum</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1776841200.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.businessinsider.com/spark-capital-vc-nabeel-hyatt-robotics-reshaping-gig-economy-2026-4', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://i.insider.com/69e2cca3a98bc8fdc096c154?width=869&format=jpeg');"></div>
@@ -1362,47 +1386,6 @@
                                 
                                 <div class="news-meta-item">
                                     <span data-timestamp="1776934800.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.forbes.com/sites/aliciapark/2026/04/22/tesla-beats-first-quarter-expectations-amid-business-pivot-to-robotics-ai/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://imageio.forbes.com/specials-images/imageserve/69e9304e0f662a047e3ff0f9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.forbes.com/sites/aliciapark/2026/04/22/tesla-beats-first-quarter-expectations-amid-business-pivot-to-robotics-ai/" target="_blank" onclick="event.stopPropagation();">Tesla Beats First-Quarter Expectations Amid Pivot To Robotics, AI</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            The automaker said demand for its vehicles has rebounded from recent declines .
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.forbes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Forbes" class="news-favicon">
-                                    <a href="https://www.forbes.com" target="_blank" onclick="event.stopPropagation();">Forbes</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1776890098.0"></span>
                                 </div>
                                 
                             </div>
@@ -1451,88 +1434,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.theverge.com/transportation/915217/tesla-q1-2026-earnings-profit-revenue', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKE001_STK086_Tesla_Robotaxi_3_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.theverge.com/transportation/915217/tesla-q1-2026-earnings-profit-revenue" target="_blank" onclick="event.stopPropagation();">Tesla’s revenue rises again as it prepares for more AI and robotics</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Tesla’s Q1 2026 earnings are out.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theverge.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Verge" class="news-favicon">
-                                    <a href="https://www.theverge.com" target="_blank" onclick="event.stopPropagation();">The Verge</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1776890177.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/sectors/technology/articles/faraday-future-expands-ai-education-144939115.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/os/en/investorshub_458/509620e2e8097477a0d813d72f65026f');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://finance.yahoo.com/sectors/technology/articles/faraday-future-expands-ai-education-144939115.html" target="_blank" onclick="event.stopPropagation();">Faraday Future Expands Into AI Education With U.S. Robotics Summer Camp Launch</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Faraday Future Intelligent Electric Inc. (NASDAQ:FFAI) has entered the education technology space through a new partnership with U.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Yahoo Finance" class="news-favicon">
-                                    <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo Finance</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1776869379.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.ft.com/content/9860f042-3332-4534-9b1a-fa9f57b8347e', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F481ca89b-4f42-4fb4-bdf7-cf31a5a4176f.jpg?source=next-barrier-page');"></div>
@@ -1574,6 +1475,88 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.forbes.com/sites/zinnialee/2026/04/21/chinas-newest-tech-billionaire-made-his-fortune-from-developing-image-sensor-chips-for-robotics/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://imageio.forbes.com/specials-images/imageserve/69e733cf61a141adf3c69bca/0x0.jpg?format=jpg&crop=2000,1125,x0,y0,safe&height=900&width=1600&fit=bounds');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.forbes.com/sites/zinnialee/2026/04/21/chinas-newest-tech-billionaire-made-his-fortune-from-developing-image-sensor-chips-for-robotics/" target="_blank" onclick="event.stopPropagation();">China’s Newest Tech Billionaire Made His Fortune From Developing Image Sensor Chips For Robotics</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            The post-IPO stock surge of Hong Kong-listed Gpixel Changchun Microelectronics has made founder and chairman Wang Xinyang the latest member of China’s three-comma club.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.forbes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Forbes" class="news-favicon">
+                                    <a href="https://www.forbes.com" target="_blank" onclick="event.stopPropagation();">Forbes</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1776764283.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.greenvilleonline.com/story/money/business/2026/04/23/idealworks-chooses-greenville-for-u-s-headquarters-heres-why/89737706007/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://www.greenvilleonline.com/gcdn/authoring/authoring-images/2026/04/22/PGRE/89739164007-claas.png?crop=1223,687,x0,y0&width=1223&height=687&format=pjpg&auto=webp');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.greenvilleonline.com/story/money/business/2026/04/23/idealworks-chooses-greenville-for-u-s-headquarters-heres-why/89737706007/" target="_blank" onclick="event.stopPropagation();">German robotics, automation company picks Greenville for headquarters</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Idealworks spun out of BMW Group in Munich, and the Greenville location puts it in the middle of some of the most advanced manufacturing in the U.S.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.greenvilleonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Greenville Online" class="news-favicon">
+                                    <a href="https://www.greenvilleonline.com" target="_blank" onclick="event.stopPropagation();">Greenville Online</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1776961200.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 255, 255, 0.05);"
@@ -1594,7 +1577,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-04-24T06:16:20.486282+00:00">Updated 2026-04-24T06:16:20.486282+00:00</small>
+        <small data-timestamp="2026-04-24T08:31:14.651000+00:00">Updated 2026-04-24T08:31:14.651000+00:00</small>
     </div>
 </div>
 
@@ -1830,7 +1813,7 @@
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 44</span>
+                                    <span style="color: #9ca3af;">👍 46</span>
                                 </div>
                                 
                                 
@@ -1896,7 +1879,7 @@
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 806</span>
+                                    <span style="color: #9ca3af;">👍 808</span>
                                 </div>
                                 
                                 
@@ -2024,7 +2007,7 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 65K</span>
+                                    <span style="color: #9ca3af;">👁️ 67K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
@@ -2033,7 +2016,7 @@
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 144</span>
+                                    <span style="color: #9ca3af;">💬 148</span>
                                 </div>
                                 
                             </div>
@@ -2044,262 +2027,6 @@
                                 
                                 <div class="video-meta-item">
                                     <span data-timestamp="1776870239.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=LPK7x5WV9Ss', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/LPK7x5WV9Ss/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">0:39</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=LPK7x5WV9Ss" target="_blank" onclick="event.stopPropagation();">🤖 No repeat win, still stole the show—TienKung Ultra ate this race. #humanoidrobot #ai #robotics</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            TienKung Ultra finished the full 21.0975 km in 1:15:00 — fully autonomous, zero human intervention. No repeat win this time.
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/5TowqzBU7hQ_XP9N1ZkCWaXuEhPemOBcC9WwfO6oM3DF0VBzbzGMNe0SjrdtxbZ2G8qkLqux=s88-c-k-c0x00ffffff-no-rj" alt="XRoboHub" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UCt22Df5wpyliVvk_Z5bllyA" target="_blank" onclick="event.stopPropagation();">XRoboHub</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 2.4M</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 19K</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 2K</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1776586870.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=W4pzp5YUox8', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/W4pzp5YUox8/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">7:14</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=W4pzp5YUox8" target="_blank" onclick="event.stopPropagation();">Kraken Robotics reports record 2025, misses on Q4</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            Greg Reid, president and CEO of Kraken Robotics, joins BNN Bloomberg to discuss the company's earnings and future plans.
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/rhk-mPhj_3E3CajG8jzeSpCmnDZ_D3swF_gP0rxrFjrOvR7UFGSEMQfLCQDt5-cyi4P6taaPsc0=s88-c-k-c0x00ffffff-no-rj" alt="BNN Bloomberg" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UC5aNPmKYwbudeNngDMTY3lw" target="_blank" onclick="event.stopPropagation();">BNN Bloomberg</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 653</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 21</span>
-                                </div>
-                                
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1776962604.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=grZQR70nZs0', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/grZQR70nZs0/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">24:06</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=grZQR70nZs0" target="_blank" onclick="event.stopPropagation();">The Definition of a SNIPER TITAN: New WAYMAKER [War Robots]</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            War Robots Gameplay: New WAYMAKER Titan - WR My War Robots Creator Link: https://wr.my.games/manni - Code: 'manni' ...
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/h5yGNeNyetbR5ZNE5EnVPEN9wZ1di1XaK90j-uFX4YJVFnTA4K7QvGAd0ic2SWDintnjUbTGww=s88-c-k-c0x00ffffff-no-rj" alt="Manni-Gaming" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UCoNrZLYzYTLow9OnyANLqrQ" target="_blank" onclick="event.stopPropagation();">Manni-Gaming</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 9K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 479</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 67</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1776949277.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=MfS5m4MARGk', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/MfS5m4MARGk/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">0:42</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=MfS5m4MARGk" target="_blank" onclick="event.stopPropagation();">Runners v robots at Beijing half marathon. #China #Beijing #Robots #BBCNews</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/v4JamQ9B-PUiJHjmZQs9UwTaoLQW8vijJMMpV5QvA2wHQ6iwWM8Q1s6O4jgTl0dtDigVWAi7SA=s88-c-k-c0x00ffffff-no-rj" alt="BBC News" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UC16niRr50-MSBwiO3YDb3RA" target="_blank" onclick="event.stopPropagation();">BBC News</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 122K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 1K</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 112</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1776616209.0"></span>
                                 </div>
                                 
                             </div>
@@ -2373,6 +2100,138 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=pH8tVBqCRLY', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/pH8tVBqCRLY/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">8:58</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=pH8tVBqCRLY" target="_blank" onclick="event.stopPropagation();">50 Minutes: How China&#39;s Robot Destroyed the Half Marathon Record</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            In Beijing, a humanoid robot just completed a 21-kilometer half-marathon in an astonishing 50 minutes and 26 seconds, marking ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/q_vMtRZjLThFvZ6QanRP7wDSENzRbDyrCaWWYO42EBiav26X44WqFW_D6Rk9711USncTIlBc=s88-c-k-c0x00ffffff-no-rj" alt="Capital Markets AI" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCOMUTC0tskkKlrdrEoVksLw" target="_blank" onclick="event.stopPropagation();">Capital Markets AI</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 34K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 635</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 151</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1776608995.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=grZQR70nZs0', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/grZQR70nZs0/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">24:06</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=grZQR70nZs0" target="_blank" onclick="event.stopPropagation();">The Definition of a SNIPER TITAN: New WAYMAKER [War Robots]</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            War Robots Gameplay: New WAYMAKER Titan - WR My War Robots Creator Link: https://wr.my.games/manni - Code: 'manni' ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/h5yGNeNyetbR5ZNE5EnVPEN9wZ1di1XaK90j-uFX4YJVFnTA4K7QvGAd0ic2SWDintnjUbTGww=s88-c-k-c0x00ffffff-no-rj" alt="Manni-Gaming" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCoNrZLYzYTLow9OnyANLqrQ" target="_blank" onclick="event.stopPropagation();">Manni-Gaming</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 10K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 492</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 70</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1776949277.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=6p1Me03BPhM', '_blank')">
                     <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
                     <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/6p1Me03BPhM/hqdefault.jpg');">
@@ -2412,7 +2271,7 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 298K</span>
+                                    <span style="color: #9ca3af;">👁️ 299K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
@@ -2432,6 +2291,134 @@
                                 
                                 <div class="video-meta-item">
                                     <span data-timestamp="1776465155.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=LPK7x5WV9Ss', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/LPK7x5WV9Ss/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">0:39</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=LPK7x5WV9Ss" target="_blank" onclick="event.stopPropagation();">🤖 No repeat win, still stole the show—TienKung Ultra ate this race. #humanoidrobot #ai #robotics</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            TienKung Ultra finished the full 21.0975 km in 1:15:00 — fully autonomous, zero human intervention. No repeat win this time.
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/5TowqzBU7hQ_XP9N1ZkCWaXuEhPemOBcC9WwfO6oM3DF0VBzbzGMNe0SjrdtxbZ2G8qkLqux=s88-c-k-c0x00ffffff-no-rj" alt="XRoboHub" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCt22Df5wpyliVvk_Z5bllyA" target="_blank" onclick="event.stopPropagation();">XRoboHub</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 2.4M</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 19K</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 2K</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1776586870.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=tcfAm3hNQbk', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/tcfAm3hNQbk/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">6:44</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=tcfAm3hNQbk" target="_blank" onclick="event.stopPropagation();">Chinese humanoid robot beats world record for fastest human half-marathon | ABC NEWS</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            A humanoid robot has beaten the human record for the world's fastest half-marathon by finishing in just over 50 minutes. Dozens ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/sc9xa2bYk6pIuKX3qgMHSrxEkuPmg57JMl_lRaJqCZxuSIeQt1B6BV23c-16Q3b7Aep0on1b=s88-c-k-c0x00ffffff-no-rj" alt="ABC News (Australia)" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCVgO39Bk5sMo66-6o6Spn6Q" target="_blank" onclick="event.stopPropagation();">ABC News (Australia)</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 98K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 640</span>
+                                </div>
+                                
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1776648645.0"></span>
                                 </div>
                                 
                             </div>
@@ -2459,7 +2446,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-04-24T06:16:10.231069+00:00">Updated 2026-04-24T06:16:10.231069+00:00</small>
+        <small data-timestamp="2026-04-24T08:30:58.114518+00:00">Updated 2026-04-24T08:30:58.114518+00:00</small>
     </div>
 </div>
 
