@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-24T10:22:48.970126+00:00'
+updated: '2026-04-24T11:40:39.030321+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 24, 2026 at 10:22 UTC  
+**Last Updated:** April 24, 2026 at 11:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Spin-tracking robot takes on elite table-tennis players - SonyAI](https://www.reddit.com/r/robotics/comments/1stuamz/spintracking_robot_takes_on_elite_tabletennis/)**
 
-14h ago
+15h ago
 
 ---
 
 **[Ahead form robotics new Origin F1 face](https://www.reddit.com/r/robotics/comments/1stz82p/ahead_form_robotics_new_origin_f1_face/)**
 
-10h ago
+12h ago
 
 ---
 
@@ -48,7 +48,7 @@ Robotics research and industry news
 
 From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2047257759473946705
 
-23h ago
+1d ago
 
 ---
 
@@ -56,13 +56,21 @@ From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2047257759473946705
 
 The U.S. Air Force tested a jet-powered YFQ-44A drone that can fly missions on its own, without a pilot controlling it in real time.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/military/usaf-jet-drone-semiautonomous-flight-test) • 12m ago
+🔗 [Interesting Engineering](https://interestingengineering.com/military/usaf-jet-drone-semiautonomous-flight-test) • 1h ago
+
+---
+
+**[I feel like we’re mixing up “clean” and “sanitized” way too casually](https://www.reddit.com/r/robotics/comments/1suc8r1/i_feel_like_were_mixing_up_clean_and_sanitized/)**
+
+Since my baby started crawling, I’ve been wondering about the difference between “cleaning” and “sanitizing” and whether my robot vacuum actually provides one over the other. The more I read, the more I realize that the two terms get mixed up in conversations, but when it comes to my baby, I want to be sure the floor is sanitized, not just clean. Roller brushes seem to agitate the floor, lifting up debris, but I’ve started to wonder if they’re just redistributing fine particles instead of really removing them. Flat pads, on the other hand, seem to cover more area but don’t agitate the floor as much, meaning they don’t have the same power to lift debris. So the question is: can either of these methods actually sanitize the floor? Or are we just focusing on making the floor look clean? I’m curious if anyone has looked into this from a sanitation standpoint. I want to ensure my baby’s floor is not only free of visible dirt but also of any harmful germs or particles. Has anyone experimented with comparing these methods or found a better alternative for sanitizing, especially for babies?
+
+50m ago
 
 ---
 
 **[Robot accompagné](https://www.reddit.com/r/robotics/comments/1sttpic/robot_accompagné/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -70,13 +78,13 @@ The U.S. Air Force tested a jet-powered YFQ-44A drone that can fly missions on i
 
 Hi everyone, We’re organizing a Robotics Conference Meetup in PCMC for people interested in robotics, automation, and hardware. This is a community-driven meetup focused on practical discussions, collaboration, and real-world problem solving in robotics. We’ll also have some live demos, including: Drone simulation C2 robotic arm from Kikobot Robotics If anyone is working on a project and wants to demo something, feel free to bring it along. Details: Date: 25 April 2026 Time: 11:00 AM onwards Location: PCMC, Pune (exact location shared after registration) If you’re a student, engineer, or just interested in robotics, you’re welcome to join. Registration link: https://forms.gle/DEhiUzhBhvoQFwiG8 Happy to answer questions in the comments.
 
-2h ago
+3h ago
 
 ---
 
 **[Robot eDog teste servo](https://www.reddit.com/r/robotics/comments/1stt4io/robot_edog_teste_servo/)**
 
-14h ago
+16h ago
 
 ---
 
@@ -84,7 +92,7 @@ Hi everyone, We’re organizing a Robotics Conference Meetup in PCMC for people 
 
 The problem If you've tried training a manipulation policy in Isaac Sim or MuJoCo on assets from Sketchfab, Objaverse, or your CAD library, you've probably hit at least one of these: gripper clips through the object, object has infinite mass, stacking collapses non-physically, contacts spike to NaN, or your policy hits 99% in sim and faceplants on real hardware. The fix is almost never the policy. Your 3D assets are visual assets, not simulation assets. They have geometry and textures. They don't have mass, inertia, friction, restitution, a collision mesh, or semantic labels. A SimReady asset carries all of that inside the USD file, using the UsdPhysics schemas. What "SimReady" means in OpenUSD A concrete set of API schemas applied to your prims (OpenUSD physics docs): Schema What it adds UsdPhysicsRigidBodyAPI Dynamic rigid body with linear/angular velocity. UsdPhysicsMassAPI Explicit mass or density (defaults to 1000 kg/m3 if you forget). UsdPhysicsCollisionAPI Turns geometry into a collider. UsdPhysicsMeshCollisionAPI Approximation mode (convex hull, convex decomp, SDF, bounding). UsdPhysicsMaterialAPI Static/dynamic friction, restitution. Bound via UsdShadeMaterialBindingAPI. Stage kilogramsPerUnit + metersPerUnit Your entire sim lies to you if these are wrong. The manual workflow (Blender + Python USD) 1. Stage setup with correct units from pxr import Usd, UsdGeom, UsdPhysics, UsdShade stage = Usd.Stage.CreateNew("mug.usda") UsdGeom.SetStageUpAxis(stage, UsdGeom.Tokens.z) # Isaac Sim convention UsdGeom.SetStageMetersPerUnit(stage, 1.0) UsdPhysics.SetStageKilogramsPerUnit(stage, 1.0) A mug modelled in centimeters with metersPerUnit=1.0 is a mug the size of a car. #1 silent killer. 2. Build a real collision mesh The visual mesh is for rendering, the collision mesh is for physics. Don't reuse the visual mesh — a mug's handle will fail with a single convex hull. Use convex decomposition (CoACD) with 8-32 hulls for anything the gripper touches: pip install coacd python -c "import coacd, trimesh; m = trimesh.load('mug.obj'); \\ coacd.run_coacd(coacd.Mesh(m.vertices, m.faces), threshold=0.05)" 3. Apply the physics APIs mesh_prim = stage.GetPrimAtPath("/World/Mug") # Rigid body UsdPhysics.RigidBodyAPI.Apply(mesh_prim) # Mass - either explicit, or let it derive from volume * density mass_api = UsdPhysics.MassAPI.Apply(mesh_prim) mass_api.CreateMassAttr(0.35) # 350g ceramic mug # or: mass_api.CreateDensityAttr(2400) # ceramic kg/m^3 # Collision UsdPhysics.CollisionAPI.Apply(mesh_prim) mesh_coll = UsdPhysics.MeshCollisionAPI.Apply(mesh_prim) mesh_coll.CreateApproximationAttr("convexDecomposition") # Material (friction/restitution) mat_path = "/World/PhysicsMaterials/Ceramic" mat_prim = UsdShade.Material.Define(stage, mat_path) phys_mat = UsdPhysics.MaterialAPI.Apply(mat_prim.GetPrim()) phys_mat.CreateStaticFrictionAttr(0.7) phys_mat.CreateDynamicFrictionAttr(0.6) phys_mat.CreateRestitutionAttr(0.05) UsdShade.MaterialBindingAPI(mesh_prim).Bind( mat_prim, materialPurpose=UsdShade.Tokens.physics ) 4. Validate Drop it into Isaac Sim, press C for collision preview, and check: does it rest on a plane, does a Franka gripper lift it, do mass and inertia look sane? The gotchas nobody writes down Convex hull on concave objects is why your bowl can't hold anything. Always convex-decompose concave geometry. Center of mass defaults to the AABB center, not the true COM. For a hammer, catastrophic. Override physics:centerOfMass explicitly. Friction combine modes differ per engine. PhysX averages, MuJoCo multiplies, Bullet takes minimum. The same staticFriction=0.5 behaves differently. Test in your deployment engine. xformOp:scale on the prim but collision baked at original scale. Apply scale to geometry before export, or set physics:approximation to rebuild. The automation option Doing this by hand for 40 objects is fine. For 4,000 it is not. This is the problem we've been building Rigyd around: upload a .glb, 2D image, or describe what you need. AI estimates mass, friction, materials, collision meshes, you get back validated OpenUSD with the full UsdPhysics schema stack applied. It supports MJDP file format for MuJoCo as well. You will get free credits on sign up to try without contacting sales. Happy to answer UsdPhysics / Isaac Sim / sim-to-real questions in the comments, or to look at any asset someone's having trouble with. https://preview.redd.it/wcwce1xgsywg1.png?width=1818&format=png&auto=webp&s=18c9810cfd1ff8f542c0db71384665fcea36e03b Disclosure: I'm a co-founder at Rigyd. I reference our tool once at the end as the automation path. The workflow above works by hand in Blender + Isaac Sim with no other tool needed. Mods, happy to edit if anything crosses a line.
 
-18h ago
+19h ago
 
 ---
 
@@ -92,13 +100,7 @@ The problem If you've tried training a manipulation policy in Isaac Sim or MuJoC
 
 Hi, I visited a really old plant where they are using “Bivector drives”, apparently they are from ABB, anyone know where can I get the software to run them? Its called Bivcom.
 
-6h ago
-
----
-
-**[Mon Bittle robot dog](https://www.reddit.com/r/robotics/comments/1stsvgn/mon_bittle_robot_dog/)**
-
-14h ago
+8h ago
 
 ---
 
@@ -110,7 +112,7 @@ Hi, I visited a really old plant where they are using “Bivector drives”, app
 
 Pudu plans to use the funding to develop its embodied AI, grow its product portfolio, and expand in global markets beyond service robots.
 
-The Robot Report • 15h ago
+The Robot Report • 16h ago
 
 ---
 
@@ -118,15 +120,15 @@ The Robot Report • 15h ago
 
 Foundation Future Industries founder and CEO Sankaet Pathak and Trump Organization Executive Vice President Eric Trump discuss battlefield robotics, national security risks, and China competition on ‘Mornings with Maria.
 
-Fox Business • 22h ago
+Fox Business • 23h ago
 
 ---
 
-**[Humanoid Mania Turns Chinese Brothers Behind Robotic Joint Maker Into Billionaires](https://www.forbes.com/sites/zinnialee/2026/04/23/humanoid-mania-turns-chinese-brothers-behind-robotic-joint-maker-into-billionaires/)**
+**[SAP EWM Meets Humanoid Robotics in New Accenture and Vodafone Warehouse Pilot](https://erp.today/sap-ewm-meets-humanoid-robotics-in-new-accenture-and-vodafone-warehouse-pilot/)**
 
-Brothers Zuo Yuyu and Zuo Jing amassed a hard-earned fortune from making an early bet on robot components and building their Shanghai-listed Leaderdrive into China’s largest maker of robotic joints.
+SAP, Accenture, and Vodafone are piloting humanoid robotics with SAP EWM in warehouse operations, signaling how physical AI could reshape warehouse execution, automation governance, and enterprise process design.
 
-Forbes • 19h ago
+ERP Today • 1d ago
 
 ---
 
@@ -134,7 +136,7 @@ Forbes • 19h ago
 
 Unitree’s rise reveals a state architecture that cultivates industrial champions before global rivals notice
 
-Nikkei Asia • 14h ago
+Nikkei Asia • 15h ago
 
 ---
 
@@ -142,7 +144,7 @@ Nikkei Asia • 14h ago
 
 Scientists say they've made a key breakthrough that would allow robots to figure out complex tasks on their own — but experts say it raises questions about how much risk comes with letting robots be in charge of their own learning.
 
-NPR • 22m ago
+NPR • 1h ago
 
 ---
 
@@ -154,19 +156,19 @@ The Jerusalem Post • 1d ago
 
 ---
 
+**[Tesla investors really need to see progress on Robotaxi, robotics](https://finance.yahoo.com/video/tesla-investors-really-need-to-see-progress-on-robotaxi-robotics-214456931.html)**
+
+Tesla (TSLA) reported first quarter results on Wednesday after the closing bell. Adjusted earnings per share (EPS) came in at $0.41 (compared to analyst estimates of $0.34), and revenue came in at $22.39 billion (compared to analyst estimates of $22.19 billion). Yahoo Finance Senior Autos Reporter Pras Subramanian and Barron's associate editor Al Root discuss what investors need from Tesla on robotaxi and robots.
+
+Yahoo Finance • 22h ago
+
+---
+
 **[This Roboticist-Turned-Teacher Built a Life-Size Replica of ENIAC](https://spectrum.ieee.org/roboticist-turned-teacher-eniac-replica)**
 
 Tom Burick wants to ground his neurodivergent students’ learning in history
 
 IEEE Spectrum • 2d ago
-
----
-
-**[Tesla investors really need to see progress on Robotaxi, robotics](https://finance.yahoo.com/video/tesla-investors-really-need-to-see-progress-on-robotaxi-robotics-214456931.html)**
-
-Tesla (TSLA) reported first quarter results on Wednesday after the closing bell. Adjusted earnings per share (EPS) came in at $0.41 (compared to analyst estimates of $0.34), and revenue came in at $22.39 billion (compared to analyst estimates of $22.19 billion). Yahoo Finance Senior Autos Reporter Pras Subramanian and Barron's associate editor Al Root discuss what investors need from Tesla on robotaxi and robots.
-
-Yahoo Finance • 20h ago
 
 ---
 
@@ -180,7 +182,7 @@ Business Insider • 1d ago
 
 **[Physical AI: Where Artificial Intelligence Rubber Meets The Road](https://www.investors.com/news/physical-ai-jensen-huang-nvidia-artificial-intelligence-robotics/)**
 
-Investor's Business Daily • 14h ago
+Investor's Business Daily • 15h ago
 
 ---
 
@@ -194,7 +196,7 @@ A new class of synthetic muscles from MIT is straight out of Westworld. The so-c
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 46 • 💬 2 • ⏱️ 0:40 • 13h ago
+👁️ 1K • 👍 45 • 💬 2 • ⏱️ 0:40 • 14h ago
 
 ---
 
@@ -204,7 +206,27 @@ AGIBOT just rolled out a full new wave of humanoid robots and AI models built fo
 
 📺 AI Revolution
 
-👁️ 33K • 👍 808 • 💬 52 • ⏱️ 16:29 • 3d ago
+👁️ 34K • 👍 813 • 💬 53 • ⏱️ 16:29 • 3d ago
+
+---
+
+**[UNEXPECTED LINK: Trump family TIED to humanoid robot CLASH with China](https://www.youtube.com/watch?v=SWoVms-enPU)**
+
+Foundation Future Industries founder and CEO Sankaet Pathak and Trump Organization Executive Vice President Eric Trump ...
+
+📺 Fox Business
+
+👁️ 47K • 👍 1K • 💬 339 • ⏱️ 10:17 • 23h ago
+
+---
+
+**[This robot can beat you at table tennis](https://www.youtube.com/watch?v=EH8kZDc7OLk)**
+
+For the first time, an AI-powered machine has bested elite-level athletes at a physical sport. 'Ace' is a table tennis-playing robot.
+
+📺 nature video
+
+👁️ 70K • 👍 1K • 💬 157 • ⏱️ 13:38 • 1d ago
 
 ---
 
@@ -218,43 +240,13 @@ An Elon Musk robotic dog was seen wandering around San Francisco, bumping into s
 
 ---
 
-**[This robot can beat you at table tennis](https://www.youtube.com/watch?v=EH8kZDc7OLk)**
+**[IA | El PRIMER ROBOT en competir contra jugadores de TENIS DE MESA de élite y profesional | EL PAÍS](https://www.youtube.com/watch?v=yNsszgFRlZU)**
 
-For the first time, an AI-powered machine has bested elite-level athletes at a physical sport. 'Ace' is a table tennis-playing robot.
+Sony AI ha presentado su proyecto Ace, un robot capaz de competir contra jugadores humanos de tenis de mesa, y que ya ha ...
 
-📺 nature video
+📺 EL PAÍS
 
-👁️ 67K • 👍 1K • 💬 148 • ⏱️ 13:38 • 1d ago
-
----
-
-**[UNEXPECTED LINK: Trump family TIED to humanoid robot CLASH with China](https://www.youtube.com/watch?v=SWoVms-enPU)**
-
-Foundation Future Industries founder and CEO Sankaet Pathak and Trump Organization Executive Vice President Eric Trump ...
-
-📺 Fox Business
-
-👁️ 46K • 👍 1K • 💬 330 • ⏱️ 10:17 • 21h ago
-
----
-
-**[50 Minutes: How China&#39;s Robot Destroyed the Half Marathon Record](https://www.youtube.com/watch?v=pH8tVBqCRLY)**
-
-In Beijing, a humanoid robot just completed a 21-kilometer half-marathon in an astonishing 50 minutes and 26 seconds, marking ...
-
-📺 Capital Markets AI
-
-👁️ 34K • 👍 635 • 💬 151 • ⏱️ 8:58 • 4d ago
-
----
-
-**[The Definition of a SNIPER TITAN: New WAYMAKER [War Robots]](https://www.youtube.com/watch?v=grZQR70nZs0)**
-
-War Robots Gameplay: New WAYMAKER Titan - WR My War Robots Creator Link: https://wr.my.games/manni - Code: 'manni' ...
-
-📺 Manni-Gaming
-
-👁️ 10K • 👍 492 • 💬 70 • ⏱️ 24:06 • 21h ago
+👁️ 47K • 👍 27 • 💬 4 • ⏱️ 1:00 • 1d ago
 
 ---
 
@@ -264,7 +256,27 @@ AI robots failing and glitching 2026 is becoming impossible to ignore. From huma
 
 📺 MindSeeded
 
-👁️ 299K • 👍 16K • 💬 3K • ⏱️ 14:10 • 6d ago
+👁️ 301K • 👍 16K • 💬 3K • ⏱️ 14:10 • 6d ago
+
+---
+
+**[50 Minutes: How China&#39;s Robot Destroyed the Half Marathon Record](https://www.youtube.com/watch?v=pH8tVBqCRLY)**
+
+In Beijing, a humanoid robot just completed a 21-kilometer half-marathon in an astonishing 50 minutes and 26 seconds, marking ...
+
+📺 Capital Markets AI
+
+👁️ 34K • 👍 640 • 💬 152 • ⏱️ 8:58 • 4d ago
+
+---
+
+**[The Definition of a SNIPER TITAN: New WAYMAKER [War Robots]](https://www.youtube.com/watch?v=grZQR70nZs0)**
+
+War Robots Gameplay: New WAYMAKER Titan - WR My War Robots Creator Link: https://wr.my.games/manni - Code: 'manni' ...
+
+📺 Manni-Gaming
+
+👁️ 11K • 👍 506 • 💬 71 • ⏱️ 24:06 • 22h ago
 
 ---
 
@@ -275,16 +287,6 @@ TienKung Ultra finished the full 21.0975 km in 1:15:00 — fully autonomous, zer
 📺 XRoboHub
 
 👁️ 2.4M • 👍 19K • 💬 2K • ⏱️ 0:39 • 5d ago
-
----
-
-**[Chinese humanoid robot beats world record for fastest human half-marathon | ABC NEWS](https://www.youtube.com/watch?v=tcfAm3hNQbk)**
-
-A humanoid robot has beaten the human record for the world's fastest half-marathon by finishing in just over 50 minutes. Dozens ...
-
-📺 ABC News (Australia)
-
-👁️ 98K • 👍 640 • ⏱️ 6:44 • 4d ago
 
 ---
 
