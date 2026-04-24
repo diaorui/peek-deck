@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-24T13:26:11.996832+00:00'
+updated: '2026-04-24T14:53:42.574446+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - cryptocurrency
+- videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 24, 2026 at 13:26 UTC  
+**Last Updated:** April 24, 2026 at 14:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $78,294.65
+### $78,055.44
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.0%  
-**7d:** +3.3%  
-**30d:** +13.7%  
-**90d:** -9.7%  
-**1y:** -17.3%  
+**24h:** -0.5%  
+**7d:** +2.9%  
+**30d:** +13.3%  
+**90d:** -10.1%  
+**1y:** -17.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1567.53B
+**Market Cap:** $1560.83B
 Rank #1
 
-**Circulating Supply:** 20,020,056 BTC
+**Circulating Supply:** 20,020,159 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--37.9%
+-38.2%
 
 **All-Time Low:** $67.81
-+115365.3%
++114880.1%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 ARK Invest says Bitcoin has not bottomed yet as whales stack 1.47 million BTC during Q1's 22% price drawdown.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/bitcoin-whales-accumulate-69-more-052711529.html) • 5h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/bitcoin-whales-accumulate-69-more-052711529.html) • 7h ago
 
 ---
 
@@ -89,13 +89,21 @@ ARK Invest says Bitcoin has not bottomed yet as whales stack 1.47 million BTC du
 
 honestly curious: why is Bitcoin your #1 choice?
 
-2h ago
+4h ago
+
+---
+
+**[12 years ago, this guy bought $50,000 worth of Bitcoin. Back then, each Bitcoin was worth just $100. Today, his $50,000 Bitcoin purchase is worth over $50 million. What a legend!](https://www.reddit.com/r/Bitcoin/comments/1su7wsf/12_years_ago_this_guy_bought_50000_worth_of/)**
+
+[comments]
+
+8h ago
 
 ---
 
 **[The Dead Man's Switch: How to Program a Trustless Bitcoin Inheritance Using OP_CSV. Trusting an estate lawyer with your keys means surrendering your wealth. How to use relative time-locks to build a trustless, algorithmic will.](https://www.reddit.com/r/Bitcoin/comments/1sua82y/the_dead_mans_switch_how_to_program_a_trustless/)**
 
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-dead-mans-switch-how-to-program) • 4h ago
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-dead-mans-switch-how-to-program) • 5h ago
 
 ---
 
@@ -103,15 +111,7 @@ honestly curious: why is Bitcoin your #1 choice?
 
 Bitcoin’s next move? Institutional adoption, ETF flows, and whether $100K holds or we see a correction first. What do you guys think ?
 
-6h ago
-
----
-
-**[How many people actually use lightning network?](https://www.reddit.com/r/Bitcoin/comments/1su3yuf/how_many_people_actually_use_lightning_network/)**
-
-Lightning Network been around for a while. I’m just not really seeing much traction. Feel free to down vote this if you think it’s not true, but Corre bitcoin versus lightning, Network just doesn’t seem to ever have really caught on. I do see some new wallets and some new innovation happening Starr app for example I just don’t see that many transactions even if you go to Steak ‘n Shake both lightning and core are accepted is anyone actually paying with lightning?
-
-10h ago
+8h ago
 
 ---
 
@@ -119,15 +119,15 @@ Lightning Network been around for a while. I’m just not really seeing much tra
 
 An interactive tool to build and understand Bitcoin transactions visually. • Connect predefined nodes → see every byte update live • Step through script execution with live stack view • Full Python code behind each node ('Show code' in node menu) 14 hands-on lessons + exercises included (P2PKH, P2SH, SegWit, multisig, timelocks, payment channels, Taproot) — all broadcast to testnet. More coming (Coinjoin, Lightning, Mining …). Free · open-source · educational only rawbit.io https://github.com/rawBit-io/rawbit Human Rights Foundation and OpenSats grantee https://hrf.org/latest/hrfs-bitcoin-development-fund-announces-support-for-26-projects-worldwide/ https://opensats.org/blog/seventeenth-wave-of-bitcoin-grants
 
-3h ago
+4h ago
 
 ---
 
-**[15 years ago today Satoshi moved on to other things - Also Happens to Be St. George's Day](https://www.reddit.com/r/Bitcoin/comments/1stu40d/15_years_ago_today_satoshi_moved_on_to_other/)**
+**[How many people actually use lightning network?](https://www.reddit.com/r/Bitcoin/comments/1su3yuf/how_many_people_actually_use_lightning_network/)**
 
-With recent hype around Satoshi lore and history, some of you may enjoy this series exploring the cryptography mailing list discussions between developers and Satoshi in late 2008 on Bitcoin. https://www.youtube.com/playlist?list=PL-ZkFGMOJOGvnG7LkoLpTc9GQz-rP5dms
+Lightning Network been around for a while. I’m just not really seeing much traction. Feel free to down vote this if you think it’s not true, but Corre bitcoin versus lightning, Network just doesn’t seem to ever have really caught on. I do see some new wallets and some new innovation happening Starr app for example I just don’t see that many transactions even if you go to Steak ‘n Shake both lightning and core are accepted is anyone actually paying with lightning?
 
-17h ago
+11h ago
 
 ---
 
@@ -135,23 +135,23 @@ With recent hype around Satoshi lore and history, some of you may enjoy this ser
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-7h ago
+8h ago
 
 ---
 
-**[Next century the last single bitcoin will take 38 years to be mined, which can only mean one of two things..](https://www.reddit.com/r/Bitcoin/comments/1su8aga/next_century_the_last_single_bitcoin_will_take_38/)**
+**[15 years ago today Satoshi moved on to other things - Also Happens to Be St. George's Day](https://www.reddit.com/r/Bitcoin/comments/1stu40d/15_years_ago_today_satoshi_moved_on_to_other/)**
 
-Every major mining operation while seize to mine BTC because lack of profitability. The hashrate will plummet and bitcoin will become a vulnerable pet-project. Maybe even attacked by malicious entities. Or.. The price of BTC will become astronomically high, beyond your wildest imagination and mining will thrive and expand. Which scenario do you believe is most likely?
+With recent hype around Satoshi lore and history, some of you may enjoy this series exploring the cryptography mailing list discussions between developers and Satoshi in late 2008 on Bitcoin. https://www.youtube.com/playlist?list=PL-ZkFGMOJOGvnG7LkoLpTc9GQz-rP5dms
 
-6h ago
+18h ago
 
 ---
 
-**[U.S. Military Confirms It's Running a Live Bitcoin Node](https://www.reddit.com/r/Bitcoin/comments/1sts8r6/us_military_confirms_its_running_a_live_bitcoin/)**
+**[Where can I buy bitcoin without an Id](https://www.reddit.com/r/Bitcoin/comments/1suhe09/where_can_i_buy_bitcoin_without_an_id/)**
 
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+I would like to buy crypto and be able to send it as well
 
-🔗 [youtu.be](https://youtu.be/FwzyfJy88fg?si=bvS8atuz_x-2ZVFW) • 18h ago
+23m ago
 
 ---
 
@@ -163,23 +163,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 While the Strategy executive chair signals the bitcoin bottom and that institutions will be the next to drive up the price, another market analyst disagreed, saying nation States will be the ones.
 
-CoinDesk • 3h ago
-
----
-
-**[Bitcoin and ethereum price today, Thursday, April 23, 2026: Strong opening for bitcoin, but traders still cautious](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-thursday-april-23-2026-strong-opening-for-bitcoin-but-traders-still-cautious-114021085.html)**
-
-Bitcoin opened at $78,192.98 on Thursday, but retreated to $77,464.56 by 7:10 a.m. ET.  Ethereum opened at $2,375.12 on Thursday, but the price fell to $2,316.88 by 7:10 a.m. ET.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Current price of Bitcoin for April 24, 2026](https://fortune.com/article/price-of-bitcoin-04-24-2026/)**
-
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 22m ago
+CoinDesk • 4h ago
 
 ---
 
@@ -189,11 +173,33 @@ The New York Times • 1d ago
 
 ---
 
-**[Elon Musk's Tesla Retains Bitcoin Holdings in Q1 Amid $222 Million Digital Assets Losses On Paper](https://finance.yahoo.com/markets/crypto/articles/elon-musks-tesla-retains-bitcoin-104609890.html)**
+**[New documentary seeks to uncover the identity of Bitcoin’s founder](https://www.cnn.com/2026/04/24/us/video/berman-cohan-maroney-satoshi-bitcoin-cnc)**
 
-Tesla Inc. held onto its Bitcoin through the first quarter, but reported significant paper losses on the holdings on Wednesday. Tesla’s BTC Hoard Suffers In Bear Market The Elon Musk-led mobility giant reported $786 million in digital assets as of...
+Why is the identity of Bitcoin’s founder one of the biggest mysteries in finance? The new documentary “Finding Satoshi” aims to find out. CNN News Central’s John Berman speaks with the two men leading the hunt, Investigative Journalist William Cohan and Quest Research & Investigations private investigator Tyler Maroney.
 
-Yahoo Finance • 2h ago
+CNN • 1h ago
+
+---
+
+**[XRP News: Coinbase Just Put XRP on the Same Footing as Bitcoin, Ethereum, and Gold](https://finance.yahoo.com/markets/crypto/articles/xrp-news-coinbase-just-put-140345845.html)**
+
+Institutions have been dipping into XRP (CRYPTO: XRP), but they’re not committing huge capital yet. A Coinbase survey last month showed that 18% of big funds already hold XRP and 25% plan to add exposure this year, but 65% are still waiting on regulatory clarity before going bigger. While the wait continues, the infrastructure those ... XRP News: Coinbase Just Put XRP on the Same Footing as Bitcoin, Ethereum, and Gold
+
+Yahoo Finance • 49m ago
+
+---
+
+**[Metaplanet Issues $50M In Zero-Interest Bonds To Buy More Bitcoin](https://bitcoinmagazine.com/news/metaplanet-issues-50m-bonds-bitcoin)**
+
+Metaplanet said it will issue ¥8 billion ($50 million) in zero-interest bonds to expand its Bitcoin holdings.
+
+Bitcoin Magazine • 48m ago
+
+---
+
+**[Push to Unwind Bitcoin Hoarder Shows Once-Hot Trade Collapsing](https://www.bloomberg.com/news/articles/2026-04-23/push-to-unwind-bitcoin-hoarder-shows-once-hot-trade-collapsing)**
+
+Bloomberg.com • 1d ago
 
 ---
 
@@ -201,7 +207,15 @@ Yahoo Finance • 2h ago
 
 “Flows have turned positive for the year,” Global Head of ETFs at BNY Asset Servicing Ben Slavin told The Block.
 
-The Block • 17h ago
+The Block • 18h ago
+
+---
+
+**[Strategy’s teetering financial tower](https://www.ft.com/content/ea814e1f-b595-4a7c-a518-2d02e2b409e4)**
+
+A bitcoin price reprieve can’t erase the company’s contradictions
+
+Financial Times • 9h ago
 
 ---
 
@@ -211,25 +225,9 @@ Reuters • 2d ago
 
 ---
 
-**[Strategy’s teetering financial tower](https://www.ft.com/content/ea814e1f-b595-4a7c-a518-2d02e2b409e4)**
+**[Bitcoin Price Falls From 11-Week High. Why, Ethereum, XRP, Cryptos Are Dropping.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-iran-54088134)**
 
-A bitcoin price reprieve can’t erase the company’s contradictions
-
-Financial Times • 8h ago
-
----
-
-**[Fold (FLD) Launches Bitcoin Bonus Program For Employers Through Fold Business Platform](https://bitcoinmagazine.com/news/fold-fld-launches-bitcoin-bonus-program)**
-
-Fold has launched a Bitcoin Bonus Program through its new Fold Business platform, enabling employers to offer recurring bitcoin-denominated bonuses that are automatically converted, custodied, and vested by Fold without altering existing payroll systems.
-
-Bitcoin Magazine • 19h ago
-
----
-
-**[What happens to Bitcoin if this fintech stock's recent innovation really takes off?](https://www.msn.com/en-us/money/savingandinvesting/what-happens-to-bitcoin-if-this-fintech-stock-s-recent-innovation-really-takes-off/ar-AA21DoEG?ocid=finance-verthp-feeds)**
-
-MSN • 2h ago
+Barron's • 23h ago
 
 ---
 
@@ -249,7 +247,7 @@ The U.S. military is actively running a Bitcoin node and testing the protocol’
 
 The global economic system is evolving: The left wants to redistribute. The right wants to deregulate. Both are missing the point.
 
-⬆️ 4 • 💬 5 • 3d ago • [The Alignment Economy](https://alignmenteconomy.org)
+⬆️ 4 • 💬 5 • 4d ago • [The Alignment Economy](https://alignmenteconomy.org)
 
 ---
 
@@ -279,7 +277,7 @@ Part one explained the physics of quantum computing. This piece explains the tar
 
 Build wallets, issue stablecoins, and move BTC instantly: all natively on Bitcoin. No bridges, no custodians. Start building with Spark's SDKs today.
 
-⬆️ 3 • 💬 0 • 17h ago • [Spark](https://www.spark.money)
+⬆️ 3 • 💬 0 • 18h ago • [Spark](https://www.spark.money)
 
 ---
 
@@ -323,27 +321,27 @@ Bitcoin is rallying out of a major drawdown while funding rates stay flat, short
 
 📺 Simply Bitcoin
 
-👁️ 36K • 👍 2K • 💬 201 • ⏱️ 20:08 • 17h ago
+👁️ 39K • 👍 3K • 💬 206 • ⏱️ 20:08 • 18h ago
 
 ---
 
-**[How Michael Saylor Bet Billions on Bitcoin](https://www.youtube.com/watch?v=0aZlOCJ78fU)**
+**[Mark Moss: The 50-Year Cycle Pointing to Bitcoin&#39;s Biggest Bull Run | BM Podcast Ep 8](https://www.youtube.com/watch?v=Cw7Wnw0GyOM)**
 
-Michael Saylor is the CEO of Strategy (formerly MicroStrategy), the first publicly traded company to convert a material portion of its ...
+Mark Moss is an optimist and he makes a compelling case for why Bitcoin holders should be too. In this Bitcoin Magazine Podcast ...
 
-📺 Anthony Pompliano
+📺 Bitcoin Magazine
 
-👁️ 23K • 👍 1K • 💬 58 • ⏱️ 1:29:30 • 16h ago
+👁️ 602 • 👍 35 • 💬 5 • ⏱️ 59:02 • 3h ago
 
 ---
 
-**[BREAKING: US Military INSIDER LEAKS The Strategic Bitcoin Reserve BATTLE is SPREADING | EP 1489](https://www.youtube.com/watch?v=uQmt39Ai6Cc)**
+**[Michael Saylor&#39;s NEW Plan To OWN 28% Of ALL Bitcoin | What&#39;s Coming is Unimaginable!](https://www.youtube.com/watch?v=UHvRwfjM_bo)**
 
-4 Star Admiral talks about the secret bitcoin war happening right now in Senate hearing .
+Bitcoin is entering a real supply shock and most people still don't see it. Michael Saylor is building a machine that absorbs ...
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 548 • 💬 35 • ⏱️ 1:21:05 • 19h ago
+👁️ 33K • 👍 3K • 💬 164 • ⏱️ 17:24 • 1d ago
 
 ---
 
@@ -353,37 +351,27 @@ WARNING! Subscribe to our new channel!: https://m.youtube.com/@jebbmcafeeinvests
 
 📺 Crypto Jebb
 
-👁️ 5K • 👍 300 • 💬 67 • ⏱️ 12:58 • 19h ago
+👁️ 5K • 👍 311 • 💬 70 • ⏱️ 12:58 • 20h ago
 
 ---
 
-**[Banks Demand Outrageous 60 Day Delay!🔥Wells Fargo Terrified of Crypto!🚨](https://www.youtube.com/watch?v=6m4PUHPFYUo)**
+**[Bitcoin just became a NATIONAL SECURITY CONCERN!! | EP 1489](https://www.youtube.com/watch?v=uQmt39Ai6Cc)**
 
-Major U.S. banking trade groups are pushing regulators to delay comment deadlines for new stablecoin rules under the GENIUS ...
+4 Star Admiral talks about the secret bitcoin war happening right now in Senate hearing .
 
-📺 Paul Barron Network
+📺 Simply Bitcoin
 
-👁️ 41K • 👍 3K • 💬 403 • ⏱️ 12:11 • 17h ago
-
----
-
-**[New Fed Chair Just Lit the Fuse for Bitcoin &amp; Rate Cuts](https://www.youtube.com/watch?v=-oLRibqO9-Y)**
-
-Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=AltcoinDaily Grab Tickets to BTC Conference ...
-
-📺 Altcoin Daily
-
-👁️ 67K • 👍 3K • 💬 195 • ⏱️ 12:24 • 2d ago
+👁️ 13K • 👍 566 • 💬 38 • ⏱️ 1:21:05 • 20h ago
 
 ---
 
-**[Why Bitcoin is Actually Pumping 🤔](https://www.youtube.com/watch?v=4HIwAxBJ0es)**
+**[HE SHOULD HAVE KEPT THE BITCOIN](https://www.youtube.com/watch?v=W00FScSCVpg)**
 
-The REAL REASON Bitcoin is pumping... ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily BTC Conference 2026 ...
+Despite the surge in gold prices, Cuban links have taken a hit This client was hoping to break even on his chain, but the market ...
 
-📺 Altcoin Daily
+📺 G LUXE JEWELERS
 
-👁️ 9K • 👍 263 • 💬 3 • ⏱️ 0:53 • 1d ago
+👁️ 18K • 👍 308 • 💬 20 • ⏱️ 1:52 • 18h ago
 
 ---
 
@@ -393,27 +381,37 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRus Extra
 
-👁️ 3K • 👍 216 • 💬 50 • ⏱️ 8:18 • 1d ago
+👁️ 3K • 👍 217 • 💬 52 • ⏱️ 8:18 • 1d ago
 
 ---
 
-**[Bitcoin Prophetic Dreams: The Lord Showed Me A Rally Then Major Crash Coming](https://www.youtube.com/watch?v=4TIpashScE4)**
+**[🚨 $80,000 Bitcoin Is the Only Number That Matters Right Now](https://www.youtube.com/watch?v=Jdbia5AsI44)**
 
-Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
+Build your crypto portfolio the smart way with iTrustCapital — now with stocks, crypto, and metals in one IRA. Get a $100 bonus: ...
 
-📺 Trade Confident
+📺 DataDash
 
-👁️ 3K • 👍 309 • 💬 65 • ⏱️ 5:23 • 20h ago
+👁️ 3K • 👍 167 • 💬 36 • ⏱️ 14:00 • 23h ago
 
 ---
 
-**[Is Bitcoin Going To Zero? What They DON&#39;T Want You To Know | Dana Love, PhD](https://www.youtube.com/watch?v=6gPN2CgRX-U)**
+**[Banks Demand Outrageous 60 Day Delay!🔥Wells Fargo Terrified of Crypto!🚨](https://www.youtube.com/watch?v=6m4PUHPFYUo)**
 
-Dana Love, PhD delivers a forensic economist's answer to the question everyone is afraid to examine. Bitcoin has crashed more ...
+Major U.S. banking trade groups are pushing regulators to delay comment deadlines for new stablecoin rules under the GENIUS ...
 
-📺 Dana Love, PhD
+📺 Paul Barron Network
 
-👁️ 2K • 👍 189 • 💬 25 • ⏱️ 20:21 • 15h ago
+👁️ 44K • 👍 3K • 💬 388 • ⏱️ 12:11 • 19h ago
+
+---
+
+**[The Perfect BEGINNER Home BITCOIN Miner](https://www.youtube.com/watch?v=HsLK3VZ5Nek)**
+
+Checkout the Canaan Nano 3S Home Solo Bitcoin Miner ➤ https://geni.us/Nano3SATT ⛏ Checkout the AltairTech Nano 3S Dock ...
+
+📺 The Hobbyist Miner
+
+👁️ 450 • 👍 58 • 💬 60 • ⏱️ 11:48 • 2h ago
 
 ---
 
