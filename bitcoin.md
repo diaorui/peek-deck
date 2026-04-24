@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-24T14:53:42.574446+00:00'
+updated: '2026-04-24T16:05:19.530165+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- videos
 - social
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 24, 2026 at 14:53 UTC  
+**Last Updated:** April 24, 2026 at 16:05 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $78,055.44
+### $78,046.19
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
-**7d:** +2.9%  
+**24h:** +0.3%  
+**7d:** +3.0%  
 **30d:** +13.3%  
-**90d:** -10.1%  
-**1y:** -17.7%  
+**90d:** -10.0%  
+**1y:** -17.6%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 ARK Invest says Bitcoin has not bottomed yet as whales stack 1.47 million BTC during Q1's 22% price drawdown.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/bitcoin-whales-accumulate-69-more-052711529.html) • 7h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/bitcoin-whales-accumulate-69-more-052711529.html) • 8h ago
 
 ---
 
@@ -89,7 +89,7 @@ ARK Invest says Bitcoin has not bottomed yet as whales stack 1.47 million BTC du
 
 honestly curious: why is Bitcoin your #1 choice?
 
-4h ago
+5h ago
 
 ---
 
@@ -97,13 +97,21 @@ honestly curious: why is Bitcoin your #1 choice?
 
 [comments]
 
-8h ago
+9h ago
 
 ---
 
 **[The Dead Man's Switch: How to Program a Trustless Bitcoin Inheritance Using OP_CSV. Trusting an estate lawyer with your keys means surrendering your wealth. How to use relative time-locks to build a trustless, algorithmic will.](https://www.reddit.com/r/Bitcoin/comments/1sua82y/the_dead_mans_switch_how_to_program_a_trustless/)**
 
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-dead-mans-switch-how-to-program) • 5h ago
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-dead-mans-switch-how-to-program) • 7h ago
+
+---
+
+**[Something very interesting about the halvings I noticed.](https://www.reddit.com/r/Bitcoin/comments/1suew4l/something_very_interesting_about_the_halvings_i/)**
+
+If you go look up a bitcoin chart from 2010 to now. Look at when the halving happened in 2020 and exactly 18 months after the halving it goes down tremendously (Halving happened in may 2020, EXACTLY 18 months after in novemeber 2021 it crashed) The exact same thing happened in 2024 halving, exactly 18 months after the 2024 halving (october 2025) it crashed. Do what you will with that information. 2027 is going to be the best time to accumulate bitcoin so don't miss out. :)
+
+3h ago
 
 ---
 
@@ -111,7 +119,7 @@ honestly curious: why is Bitcoin your #1 choice?
 
 Bitcoin’s next move? Institutional adoption, ETF flows, and whether $100K holds or we see a correction first. What do you guys think ?
 
-8h ago
+9h ago
 
 ---
 
@@ -119,7 +127,7 @@ Bitcoin’s next move? Institutional adoption, ETF flows, and whether $100K hold
 
 An interactive tool to build and understand Bitcoin transactions visually. • Connect predefined nodes → see every byte update live • Step through script execution with live stack view • Full Python code behind each node ('Show code' in node menu) 14 hands-on lessons + exercises included (P2PKH, P2SH, SegWit, multisig, timelocks, payment channels, Taproot) — all broadcast to testnet. More coming (Coinjoin, Lightning, Mining …). Free · open-source · educational only rawbit.io https://github.com/rawBit-io/rawbit Human Rights Foundation and OpenSats grantee https://hrf.org/latest/hrfs-bitcoin-development-fund-announces-support-for-26-projects-worldwide/ https://opensats.org/blog/seventeenth-wave-of-bitcoin-grants
 
-4h ago
+6h ago
 
 ---
 
@@ -127,7 +135,7 @@ An interactive tool to build and understand Bitcoin transactions visually. • C
 
 Lightning Network been around for a while. I’m just not really seeing much traction. Feel free to down vote this if you think it’s not true, but Corre bitcoin versus lightning, Network just doesn’t seem to ever have really caught on. I do see some new wallets and some new innovation happening Starr app for example I just don’t see that many transactions even if you go to Steak ‘n Shake both lightning and core are accepted is anyone actually paying with lightning?
 
-11h ago
+12h ago
 
 ---
 
@@ -135,7 +143,7 @@ Lightning Network been around for a while. I’m just not really seeing much tra
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-8h ago
+10h ago
 
 ---
 
@@ -143,15 +151,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 With recent hype around Satoshi lore and history, some of you may enjoy this series exploring the cryptography mailing list discussions between developers and Satoshi in late 2008 on Bitcoin. https://www.youtube.com/playlist?list=PL-ZkFGMOJOGvnG7LkoLpTc9GQz-rP5dms
 
-18h ago
-
----
-
-**[Where can I buy bitcoin without an Id](https://www.reddit.com/r/Bitcoin/comments/1suhe09/where_can_i_buy_bitcoin_without_an_id/)**
-
-I would like to buy crypto and be able to send it as well
-
-23m ago
+19h ago
 
 ---
 
@@ -163,7 +163,7 @@ I would like to buy crypto and be able to send it as well
 
 While the Strategy executive chair signals the bitcoin bottom and that institutions will be the next to drive up the price, another market analyst disagreed, saying nation States will be the ones.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -177,15 +177,15 @@ The New York Times • 1d ago
 
 Why is the identity of Bitcoin’s founder one of the biggest mysteries in finance? The new documentary “Finding Satoshi” aims to find out. CNN News Central’s John Berman speaks with the two men leading the hunt, Investigative Journalist William Cohan and Quest Research & Investigations private investigator Tyler Maroney.
 
-CNN • 1h ago
+CNN • 2h ago
 
 ---
 
-**[XRP News: Coinbase Just Put XRP on the Same Footing as Bitcoin, Ethereum, and Gold](https://finance.yahoo.com/markets/crypto/articles/xrp-news-coinbase-just-put-140345845.html)**
+**[Bitcoin holds near 11-week high, crypto stocks mixed](https://finance.yahoo.com/video/bitcoin-holds-near-11-week-high-crypto-stocks-mixed-145806441.html)**
 
-Institutions have been dipping into XRP (CRYPTO: XRP), but they’re not committing huge capital yet. A Coinbase survey last month showed that 18% of big funds already hold XRP and 25% plan to add exposure this year, but 65% are still waiting on regulatory clarity before going bigger. While the wait continues, the infrastructure those ... XRP News: Coinbase Just Put XRP on the Same Footing as Bitcoin, Ethereum, and Gold
+Cryptocurrency bitcoin (BTC-USD) continues to hold near $78,000 per token on Friday, which was an 11-week high it hit this week. Market Catalysts Host Julie Hyman&nbsp;takes a closer look at the crypto market and the mixed picture for crypto-related stocks in today's trading session.
 
-Yahoo Finance • 49m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -193,7 +193,7 @@ Yahoo Finance • 49m ago
 
 Metaplanet said it will issue ¥8 billion ($50 million) in zero-interest bonds to expand its Bitcoin holdings.
 
-Bitcoin Magazine • 48m ago
+Bitcoin Magazine • 1h ago
 
 ---
 
@@ -207,15 +207,7 @@ Bloomberg.com • 1d ago
 
 “Flows have turned positive for the year,” Global Head of ETFs at BNY Asset Servicing Ben Slavin told The Block.
 
-The Block • 18h ago
-
----
-
-**[Strategy’s teetering financial tower](https://www.ft.com/content/ea814e1f-b595-4a7c-a518-2d02e2b409e4)**
-
-A bitcoin price reprieve can’t erase the company’s contradictions
-
-Financial Times • 9h ago
+The Block • 20h ago
 
 ---
 
@@ -225,9 +217,17 @@ Reuters • 2d ago
 
 ---
 
-**[Bitcoin Price Falls From 11-Week High. Why, Ethereum, XRP, Cryptos Are Dropping.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-iran-54088134)**
+**[Bitcoin Price Hits Two-Month High Amid Strategy Buys. Watch This Range, Analyst Says.](https://www.investors.com/news/bitcoin-price-february-high-78000-strategy-buying-bitcoin-etf-flows-institutional-participation/)**
 
-Barron's • 23h ago
+Investor's Business Daily • 1d ago
+
+---
+
+**[Bitcoin to $100,000? What the Clarity Act and new Fed leadership mean for price](https://www.dlnews.com/articles/markets/bitcoin-to-100k-what-the-clarity-act-new-fed-leadership-mean-for-price/)**
+
+Bitcoin at $100,000 is back in play if it continues its rally, an analyst says.  Clarity Act and a new Federal Reserve chair could cement the surge. Both of those remain up in the air, however.
+
+dlnews.com • 1d ago
 
 ---
 
@@ -277,7 +277,7 @@ Part one explained the physics of quantum computing. This piece explains the tar
 
 Build wallets, issue stablecoins, and move BTC instantly: all natively on Bitcoin. No bridges, no custodians. Start building with Spark's SDKs today.
 
-⬆️ 3 • 💬 0 • 18h ago • [Spark](https://www.spark.money)
+⬆️ 3 • 💬 0 • 20h ago • [Spark](https://www.spark.money)
 
 ---
 
@@ -307,7 +307,7 @@ Speculation, dead‑end investigations and conspiracy theories have surrounded h
 
 A new documentary asserts that Bitcoin creator Satoshi Nakamoto was actually two people: the late Hal Finney and Len Sassaman.
 
-⬆️ 1 • 💬 2 • 1d ago • [Decrypt](https://decrypt.co/365075/finding-satoshi-makes-the-case-for-hal-finney-len-sassaman-as-bitcoin-co-creators)
+⬆️ 1 • 💬 2 • 2d ago • [Decrypt](https://decrypt.co/365075/finding-satoshi-makes-the-case-for-hal-finney-len-sassaman-as-bitcoin-co-creators)
 
 ---
 
@@ -321,7 +321,7 @@ Bitcoin is rallying out of a major drawdown while funding rates stay flat, short
 
 📺 Simply Bitcoin
 
-👁️ 39K • 👍 3K • 💬 206 • ⏱️ 20:08 • 18h ago
+👁️ 39K • 👍 3K • 💬 206 • ⏱️ 20:08 • 19h ago
 
 ---
 
@@ -331,7 +331,7 @@ Mark Moss is an optimist and he makes a compelling case for why Bitcoin holders 
 
 📺 Bitcoin Magazine
 
-👁️ 602 • 👍 35 • 💬 5 • ⏱️ 59:02 • 3h ago
+👁️ 602 • 👍 35 • 💬 5 • ⏱️ 59:02 • 5h ago
 
 ---
 
@@ -351,7 +351,7 @@ WARNING! Subscribe to our new channel!: https://m.youtube.com/@jebbmcafeeinvests
 
 📺 Crypto Jebb
 
-👁️ 5K • 👍 311 • 💬 70 • ⏱️ 12:58 • 20h ago
+👁️ 5K • 👍 311 • 💬 70 • ⏱️ 12:58 • 22h ago
 
 ---
 
@@ -361,7 +361,7 @@ WARNING! Subscribe to our new channel!: https://m.youtube.com/@jebbmcafeeinvests
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 566 • 💬 38 • ⏱️ 1:21:05 • 20h ago
+👁️ 13K • 👍 566 • 💬 38 • ⏱️ 1:21:05 • 21h ago
 
 ---
 
@@ -371,7 +371,7 @@ Despite the surge in gold prices, Cuban links have taken a hit This client was h
 
 📺 G LUXE JEWELERS
 
-👁️ 18K • 👍 308 • 💬 20 • ⏱️ 1:52 • 18h ago
+👁️ 18K • 👍 308 • 💬 20 • ⏱️ 1:52 • 19h ago
 
 ---
 
@@ -391,7 +391,7 @@ Build your crypto portfolio the smart way with iTrustCapital — now with stocks
 
 📺 DataDash
 
-👁️ 3K • 👍 167 • 💬 36 • ⏱️ 14:00 • 23h ago
+👁️ 3K • 👍 167 • 💬 36 • ⏱️ 14:00 • 1d ago
 
 ---
 
@@ -401,7 +401,7 @@ Major U.S. banking trade groups are pushing regulators to delay comment deadline
 
 📺 Paul Barron Network
 
-👁️ 44K • 👍 3K • 💬 388 • ⏱️ 12:11 • 19h ago
+👁️ 44K • 👍 3K • 💬 388 • ⏱️ 12:11 • 20h ago
 
 ---
 
@@ -411,7 +411,7 @@ Checkout the Canaan Nano 3S Home Solo Bitcoin Miner ➤ https://geni.us/Nano3SAT
 
 📺 The Hobbyist Miner
 
-👁️ 450 • 👍 58 • 💬 60 • ⏱️ 11:48 • 2h ago
+👁️ 450 • 👍 58 • 💬 60 • ⏱️ 11:48 • 4h ago
 
 ---
 

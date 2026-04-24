@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-24T14:53:42.566978+00:00'
+updated: '2026-04-24T16:05:19.522533+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- videos
 - social
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** April 24, 2026 at 14:53 UTC  
+**Last Updated:** April 24, 2026 at 16:05 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 A recent policy forum paper published in Science describes how large groups of AI-generated personas can convincingly imitate human behavior online. These systems can enter digital communities, participate in discussions, and influence viewpoints at extraordinary speed. Unlike earlier bot networks, these AI agents can coordinate instantly, adapt their messaging in real time, and run millions of micro-experiments to figure out which arguments are most persuasive. One operator could theoretically manage thousands of distinct voices. Experts believe AI swarms could significantly affect the balance of power in democratic societies. Researchers suggest that upcoming elections may serve as a critical test for this technology. The key challenge will be recognizing and responding to these AI-driven influence campaigns before they become too widespread to control. That's so crazy. Research Paper: https://www.science.org/doi/10.1126/science.adz1697
 
-🔗 [ScienceDaily](https://www.sciencedaily.com/releases/2026/04/260420014748.htm) • 12h ago
+🔗 [ScienceDaily](https://www.sciencedaily.com/releases/2026/04/260420014748.htm) • 13h ago
 
 ---
 
@@ -49,7 +49,29 @@ A recent policy forum paper published in Science describes how large groups of A
 
 Someone ran a 4-month experiment tracking every instance of "great question" from their AI assistant. Out of 1,100 uses, only 160 (14.5%) were directed at questions that were genuinely insightful, novel, or well-constructed. The phrase had zero correlation with question quality. It was purely a social lubricant — the model learned that validation produces positive reward signals, so it validates everything equally. After stripping "great question" from the response defaults, user satisfaction didn't change at all. But something interesting happened: users who asked genuinely strong questions started getting specific acknowledgment of what made their question good, instead of generic flattery. This is a concrete case study of how RLHF trains sycophancy. The model doesn't learn to evaluate question quality — it learns that validation = reward. The result is an information environment where every question is "great" and therefore no question is. The deeper issue: generic praise isn't generosity. It's noise that drowns out earned recognition. When your AI tells you every idea is brilliant, you stop trusting its feedback on the ideas that actually need refinement. Has anyone else noticed this pattern in their agent interactions? I'm starting to think the biggest trust gap in AI isn't hallucination — it's sycophantic validation that makes you overconfident in mediocre thinking.
 
-8h ago
+9h ago
+
+---
+
+**[Sam Altman wants to sell you these sneakers for $160, plus tax and biometric data](https://www.reddit.com/r/artificial/comments/1suj72s/sam_altman_wants_to_sell_you_these_sneakers_for/)**
+
+World x Future Basics now offer Cyto XLiftoffs at World’s Union Square eye-collection center
+
+🔗 [sf.gazetteer.co](https://sf.gazetteer.co/sam-altman-wants-to-sell-you-these-sneakers-for-160-plus-tax-and-biometric-data) • 28m ago
+
+---
+
+**[Wright State University leads $2.5 million federal initiative to bring AI education to rural Ohio](https://www.reddit.com/r/artificial/comments/1suire0/wright_state_university_leads_25_million_federal/)**
+
+🔗 [webapp2.wright.edu](https://webapp2.wright.edu/web1/newsroom/2026/04/23/wright-state-university-leads-2-5-million-federal-initiative-to-bring-ai-education-to-rural-ohio/) • 44m ago
+
+---
+
+**[Lessons learned building a no-hallucination RAG for Islamic finance similarity gates beat prompt engineering](https://www.reddit.com/r/artificial/comments/1su9q5b/lessons_learned_building_a_nohallucination_rag/)**
+
+Lessons learned building a no-hallucination RAG for Islamic finance similarity gates beat prompt engineering I kept getting blocked trying to share this so I'll cut straight to the technical meat. The problem: Islamic finance rulings vary by jurisdiction and a wrong answer has real consequences. Telling an LLM "refuse if unsure" in a system prompt is not enough. It still speculates. The fix that actually worked: kill the LLM call entirely at retrieval time. If top-k chunks score below 0.7 cosine similarity, the function returns a hardcoded refusal string. The LLM never sees the query. No amount of clever prompting is as reliable as just not calling the model. Other things worth knowing: FAISS on HuggingFace Spaces free tier is ephemeral. Every cold start wipes it. Solution: push the index to a private HF Dataset, pull it on startup via FastAPI lifespan event. PyPDF2 on scanned PDFs returns nothing. AAOIFI documents are scanned images. trafilatura on clean HTML beats OCR every time if a web version exists. Jurisdiction metadata on every chunk is not optional. source_name + source_url + jurisdiction in every chunk. A Malaysian SC ruling and a Gulf fatwa can say opposite things on the same question. Stack: FastAPI + LlamaIndex + FAISS + sentence-transformers + Mistral-Small-3.1-24B via HF Inference API. Netlify Function as proxy so credentials never touch the browser. What threshold do you use for retrieval refusal in high-stakes domains?
+
+7h ago
 
 ---
 
@@ -61,33 +83,17 @@ I had the pleasure of sitting down with Wendell Wallach recently. He’s been wo
 
 ---
 
-**[Lessons learned building a no-hallucination RAG for Islamic finance similarity gates beat prompt engineering](https://www.reddit.com/r/artificial/comments/1su9q5b/lessons_learned_building_a_nohallucination_rag/)**
+**[Open-source AI vs Big Tech: real disruption or just hype?](https://www.reddit.com/r/artificial/comments/1sufa9i/opensource_ai_vs_big_tech_real_disruption_or_just/)**
 
-Lessons learned building a no-hallucination RAG for Islamic finance similarity gates beat prompt engineering I kept getting blocked trying to share this so I'll cut straight to the technical meat. The problem: Islamic finance rulings vary by jurisdiction and a wrong answer has real consequences. Telling an LLM "refuse if unsure" in a system prompt is not enough. It still speculates. The fix that actually worked: kill the LLM call entirely at retrieval time. If top-k chunks score below 0.7 cosine similarity, the function returns a hardcoded refusal string. The LLM never sees the query. No amount of clever prompting is as reliable as just not calling the model. Other things worth knowing: FAISS on HuggingFace Spaces free tier is ephemeral. Every cold start wipes it. Solution: push the index to a private HF Dataset, pull it on startup via FastAPI lifespan event. PyPDF2 on scanned PDFs returns nothing. AAOIFI documents are scanned images. trafilatura on clean HTML beats OCR every time if a web version exists. Jurisdiction metadata on every chunk is not optional. source_name + source_url + jurisdiction in every chunk. A Malaysian SC ruling and a Gulf fatwa can say opposite things on the same question. Stack: FastAPI + LlamaIndex + FAISS + sentence-transformers + Mistral-Small-3.1-24B via HF Inference API. Netlify Function as proxy so credentials never touch the browser. What threshold do you use for retrieval refusal in high-stakes domains?
+With companies like DeepSeek releasing powerful models for free, a lot of people are calling this a “game changer.” Some say it could put real pressure on players like OpenAI or Google, especially on pricing. But others argue that infrastructure, scaling, and reliability still give Big Tech a major advantage. So what do you think? Is open-source AI actually disrupting the market… or is this just hype ?
 
-6h ago
+2h ago
 
 ---
 
 **[Europe’s markets watchdog warns cyber threats are growing as AI speeds up risks](https://www.reddit.com/r/artificial/comments/1sucdx6/europes_markets_watchdog_warns_cyber_threats_are/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/europes-markets-watchdog-warns-cyber-threats-are-growing-ai-speeds-up-risks-2026-04-24/) • 3h ago
-
----
-
-**[Open-source AI vs Big Tech: real disruption or just hype?](https://www.reddit.com/r/artificial/comments/1sufa9i/opensource_ai_vs_big_tech_real_disruption_or_just/)**
-
-With companies like DeepSeek releasing powerful models for free, a lot of people are calling this a “game changer.” Some say it could put real pressure on players like OpenAI or Google, especially on pricing. But others argue that infrastructure, scaling, and reliability still give Big Tech a major advantage. So what do you think? Is open-source AI actually disrupting the market… or is this just hype ?
-
-1h ago
-
----
-
-**[Introducing GPT-5.5](https://www.reddit.com/r/artificial/comments/1stvctj/introducing_gpt55/)**
-
-Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.
-
-🔗 [OpenAI](https://openai.com/index/introducing-gpt-5-5/) • 17h ago
+🔗 [reuters.com](https://www.reuters.com/world/europes-markets-watchdog-warns-cyber-threats-are-growing-ai-speeds-up-risks-2026-04-24/) • 5h ago
 
 ---
 
@@ -95,23 +101,15 @@ Introducing GPT-5.5, our smartest model yet—faster, more capable, and built fo
 
 I'm wondering how many people here switch between ChatGPT, Claude, and other AI experiences? I've found it really annoying that I can't seamlessly take my personalization with me between them but find each good at various things ... Also when I'm on a site that has an ai driven experience like support or a travel planner I have to reestablish by identity to get a useful output. I've been wondering if a good way to solve this is a centralized identity layer which works with MCP to connect to any agent - here's my stab at starting this: [https://www.mypersonalcontext.com/\](https://www.mypersonalcontext.com/) Would love to know if this problem resonates with others here and how acute it actually is? Could you see yourself using something like this to make model / agent switching easier?
 
-16m ago
+1h ago
 
 ---
 
-**[Anthropic Mythos shaping up as nothingburger](https://www.reddit.com/r/artificial/comments/1stogic/anthropic_mythos_shaping_up_as_nothingburger/)**
+**[Alexion UK Patient Insights Forum on artificial intelligence](https://www.reddit.com/r/artificial/comments/1sujf55/alexion_uk_patient_insights_forum_on_artificial/)**
 
-: Hackpocalypse deferred
+I hope this message finds you well. My name is Carys, and I am reaching out on behalf of Alexion, AstraZeneca Rare Diseases. They are convening an AI Patient Insights Forum to elevate patient voices and better understand how people living with rare conditions, or caregivers, are using AI in their day-to-day lives, and we would be grateful for any help connecting with people who may want to share their perspectives. The Forum will be held on a date over the first two weeks of June at a Central London location. It will take the form of a workshop and include interactive discussions exploring how, when, and why people living with rare conditions use AI today, what they would like to see from AI in the future, and where clear boundaries and support should exist. Participants can be at any stage of their rare disease journey. This is a non-promotional activity. Participants will be reimbursed for their time. If you may be interested, please complete the Microsoft Form below to share your details with the team, and we will be in touch with more information via email. Thank you in advance! Carys Lloyd Senior Account Executive, OVID Health ++++ https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=cbWYHdA76kKjTRPu_eiijiI6_9q57QdIiPaazK-h0OBURTJSTUFaMjRQT1dXTkMwNEM5QUI2VkJFRS4u M/UK/ALL/0108 April 2026
 
-🔗 [theregister.com](https://www.theregister.com/2026/04/22/anthropic_mythos_hype_nothingburger/) • 21h ago
-
----
-
-**[How to specialize as a freshman to survive the transition to UHI/Singularity?](https://www.reddit.com/r/artificial/comments/1su5aml/how_to_specialize_as_a_freshman_to_survive_the/)**
-
-Hey everybody, I'm currently a freshman in high school and really unsure of the unknown of the future job market. I know Elon Musk talks about universal high income being the future, but I've also heard from others that if this isn't implemented that the rich will get even richer and wealth inequality will exponentiate. I feel like it's inevitable that 99% jobs are replaced by AI in my lifetime, and to be honest I don't how to ensure my own stability in an era of such extreme volatility. If/when universal income is implemented, its definitely going to take time and I don't really see it happening in the next 10-15 years. I've really been dealing with the question of what do I do in the meantime to ensure my future? This brings me to my main point which is what can I do for college? While I am unsure on whether or not I will apply to college when the time comes, I do want to prepare in high school for a career that AI won't replace for a while. I've heard many people talking about construction, physical labor, etc... but I am particularly wondering about jobs like law and accounting. What are some other fields that will take AI a while to replace. I'm really trying to figure out my path before it's too late as I personally think that going to a school that's not t20-t50 is going to be pointless in 4 years. IMO this means that I'm going to have to start specializing in a field young, which is rather unfortunate but whatever. Anyways, any help is appreciated!
-
-10h ago
+20m ago
 
 ---
 
@@ -119,81 +117,77 @@ Hey everybody, I'm currently a freshman in high school and really unsure of the 
 
 ## Google News: "ai"
 
-**[Meta to cut 10% of staff as it pours billions into AI](https://www.cnn.com/2026/04/23/tech/meta-layoffs-10-percent-staff-ai)**
+**[Anthropic’s New Mythos A.I. Model Sets Off Global Alarms](https://www.nytimes.com/2026/04/22/technology/anthropics-mythos-ai.html)**
 
-Meta said on Thursday it plans to lay off roughly 10% of its workforce, or about 8,000 people, the latest in a string of tech industry layoffs fueled in part by artificial intelligence.
-
-CNN • 18h ago
+The New York Times • 2d ago
 
 ---
 
-**[Microsoft and Meta announce large staff reductions as they spend big on AI](https://www.theguardian.com/technology/2026/apr/23/meta-microsoft-tech-ai-layoffs)**
+**[A secretive AI hacking system has sparked a global scramble](https://www.washingtonpost.com/technology/2026/04/24/anthropic-mythos-ai-washington-cybersecurity-hacking-risk/)**
 
-Meta said it would cut 10% of it employees while Microsoft will offer voluntary retirement to about 7% of workers
+Anthropic’s Mythos AI is rattling Washington, prompting the Trump administration to try to confront its cybersecurity risks.
 
-The Guardian • 17h ago
+The Washington Post • 25m ago
 
 ---
 
-**[Meta to cut 8,000 jobs, Microsoft offers buyouts to staff as AI spending costs hit Big Tech workers](https://finance.yahoo.com/markets/article/meta-to-cut-8000-jobs-microsoft-offers-buyouts-to-staff-as-ai-spending-costs-hit-big-tech-workers-182722409.html)**
+**[The Guardian view on Anthropic’s Claude Mythos: when AI finds every flaw, who controls the internet? | Editorial](https://www.theguardian.com/commentisfree/2026/apr/23/the-guardian-view-on-anthropics-claude-mythos-when-ai-finds-every-flaw-who-controls-the-internet)**
 
-Meta and Microsoft are the latest Big Tech giants to trim staff as AI costs continue to balloon.
+Editorial: Tech can scale cyber-attacks and defences alike, raising questions about private power, public risk and the future of a shared internet
+
+The Guardian • 14h ago
+
+---
+
+**[Meta will cut 10% of workforce as company pushes deeper into AI](https://www.cnbc.com/2026/04/23/meta-will-cut-10percent-of-workforce-as-it-pushes-more-into-ai.html)**
+
+Meta plans to lay off 10% of its workforce, equaling about 8,000 employees, as the company continues to ramp up investments in artificial intelligence.
+
+CNBC • 22h ago
+
+---
+
+**[Meta to cut one in 10 jobs after spending billions on AI](https://www.bbc.com/news/articles/crm1y89vek8o)**
+
+The cuts, which employees had been expecting for weeks, will be Meta's largest layoff since 2023.
+
+BBC • 8h ago
+
+---
+
+**[Meta to lay off 10% of its workforce as its AI investments surge](https://komonews.com/news/nation-world/meta-to-lay-off-10-percent-of-its-workforce-employees-staff-as-its-ai-technology-investments-surge)**
+
+The tech giant said in an internal memo on Thursday that the planned dismissals will allow it to operate more efficiently while it increases AI spending.
+
+KOMO • 11m ago
+
+---
+
+**[Intel soars on signs AI boom for CPUs is here](https://www.reuters.com/business/intel-set-record-high-ai-driven-cpu-demand-powers-upbeat-forecast-2026-04-24/)**
+
+Reuters • 1h ago
+
+---
+
+**[US chipmakers hit record highs as Intel turbocharges AI rally](https://finance.yahoo.com/markets/stocks/articles/us-chipmakers-hit-record-highs-141119439.html)**
+
+U.S. chip stocks soared to record highs on Friday as Intel's unexpectedly strong revenue forecast reinforced confidence that the AI boom powering this year's rally in the semiconductor ‌sector is showing no signs of slowing down.  The foremost stock index for chip makers - the Philadelphia SE Semiconductor Index - ‌rose 3.2% to an all-time high and was on track to extend its record-breaking streak of single-day gains to 18.  Chip stocks have been some of the biggest gainers of the spending spree by tech giants on scaling up their AI infrastructure.
 
 Yahoo Finance • 1h ago
 
 ---
 
-**[Introducing GPT-5.5](https://openai.com/index/introducing-gpt-5-5/)**
+**[Intel shares skyrocket to all-time high as AI boom triggers remarkable turnaround](https://nypost.com/2026/04/24/business/intel-shares-skyrocket-to-all-time-high-as-ai-boom-triggers-remarkable-turnaround/)**
 
-Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.
+Demand for Intel’s central processors from firms offering AI services was so strong in the first quarter that it sold even chips it had originally written off, a remarkable turnaround th…
 
-OpenAI • 17h ago
-
----
-
-**['Too Dangerous to Release' Is Becoming AI's New Normal](https://time.com/article/2026/04/24/claude-mythos-chatgpt-rosalind-release-dangerous/)**
-
-Why tech giants are starting to restrict their most capable models from the public.
-
-Time Magazine • 1h ago
+New York Post • 10m ago
 
 ---
 
-**[OpenAI announces GPT-5.5, its latest artificial intelligence model](https://www.cnbc.com/2026/04/23/openai-announces-latest-artificial-intelligence-model.html)**
+**[How Musk Is Staking Tesla’s Future on AI, Robotaxis and Robots](https://www.bloomberg.com/news/articles/2026-04-24/tesla-s-tsla-ai-bet-how-elon-musk-is-pivoting-ev-maker-to-robotaxis-robots)**
 
-The model is better at coding, using computers and pursuing deeper research capabilities, OpenAI says.
-
-CNBC • 20h ago
-
----
-
-**[The AI Compute Crunch Is Here (and It's Affecting the Entire Economy)](https://www.404media.co/the-ai-compute-crunch-is-here-and-its-affecting-the-entire-economy/)**
-
-Venture capitalists can't subsidize cheap AI forever, and the hunger for more compute is affecting the labor market, the gadget market, and electricity prices.
-
-404 Media • 57m ago
-
----
-
-**[Meta to use Amazon Graviton chips to power AI services](https://finance.yahoo.com/sectors/technology/article/meta-to-use-amazon-graviton-chips-to-power-ai-services-120000276.html)**
-
-Meta has entered into a multiyear agreement to deploy Amazon's Graviton chips to power its AI capabilities.
-
-Yahoo Finance • 2h ago
-
----
-
-**[Meta signs agreement with AWS to power agentic AI on Amazon's Graviton chips](https://www.aboutamazon.com/news/aws/meta-aws-graviton-ai-partnership)**
-
-The deal helps power the agentic workloads behind Meta’s AI efforts.
-
-About Amazon • 2h ago
-
----
-
-**[Amazon Stock Eyes Breakout On Meta AI Chip Deal](https://www.investors.com/news/technology/amazon-stock-meta-stock-ai-chip/)**
-
-Investor's Business Daily • 1h ago
+Bloomberg.com • 38m ago
 
 ---
 
@@ -217,7 +211,7 @@ Investor's Business Daily • 1h ago
 
 An attempt to detect AI design patterns in Show HN pages
 
-⬆️ 329 • 💬 233 • 2d ago • [adriankrebs.ch](https://www.adriankrebs.ch/blog/design-slop/)
+⬆️ 330 • 💬 233 • 2d ago • [adriankrebs.ch](https://www.adriankrebs.ch/blog/design-slop/)
 
 ---
 
@@ -225,7 +219,7 @@ An attempt to detect AI design patterns in Show HN pages
 
 Migrating to the new meshcore.io site
 
-⬆️ 250 • 💬 134 • 21h ago • [blog.meshcore.io](https://blog.meshcore.io/2026/04/23/the-split)
+⬆️ 254 • 💬 137 • 23h ago • [blog.meshcore.io](https://blog.meshcore.io/2026/04/23/the-split)
 
 ---
 
@@ -233,7 +227,7 @@ Migrating to the new meshcore.io site
 
 How Ars Technica uses, and doesn't use, generative AI.
 
-⬆️ 200 • 💬 128 • 1d ago • [Ars Technica](https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/)
+⬆️ 202 • 💬 129 • 1d ago • [Ars Technica](https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/)
 
 ---
 
@@ -241,7 +235,7 @@ How Ars Technica uses, and doesn't use, generative AI.
 
 The widely circulated image had prompted authorities to move their search operation.
 
-⬆️ 189 • 💬 111 • 5h ago • [bbc.com](https://www.bbc.com/news/articles/c4gx1n0dl9no)
+⬆️ 197 • 💬 122 • 6h ago • [bbc.com](https://www.bbc.com/news/articles/c4gx1n0dl9no)
 
 ---
 
@@ -257,7 +251,7 @@ Meta deploys keystroke-tracking software on US employees' computers, sparking pr
 
 According to her profile, she was a registered nurse with Jennifer Lawrence looks who offered red meat posts to lonely conservative men online.
 
-⬆️ 97 • 💬 54 • 1d ago • [New York Post](https://nypost.com/2026/04/21/us-news/top-maga-influencer-emily-hart-revealed-to-be-ai-created-by-a-guy-in-india/)
+⬆️ 97 • 💬 54 • 2d ago • [New York Post](https://nypost.com/2026/04/21/us-news/top-maga-influencer-emily-hart-revealed-to-be-ai-created-by-a-guy-in-india/)
 
 ---
 
@@ -265,7 +259,7 @@ According to her profile, she was a registered nurse with Jennifer Lawrence look
 
 The Thus chip will first be in new earbuds.
 
-⬆️ 67 • 💬 47 • 1d ago • [The Verge](https://www.theverge.com/tech/916463/anker-thus-chip-announcement)
+⬆️ 67 • 💬 48 • 1d ago • [The Verge](https://www.theverge.com/tech/916463/anker-thus-chip-announcement)
 
 ---
 
@@ -287,7 +281,7 @@ Here's the Best AI Agents in 2026 In this video, I break down the five AI agent 
 
 📺 Roboverse
 
-👁️ 3K • 💬 1 • ⏱️ 10:35 • 52m ago
+👁️ 3K • 💬 1 • ⏱️ 10:35 • 2h ago
 
 ---
 
@@ -297,7 +291,7 @@ sponsored Build with Softr ...
 
 📺 AI Master
 
-👁️ 17K • 👍 343 • 💬 60 • ⏱️ 21:44 • 22h ago
+👁️ 17K • 👍 343 • 💬 60 • ⏱️ 21:44 • 23h ago
 
 ---
 
@@ -307,7 +301,7 @@ Rogue researchers are telling the truth about AI Depth vs breadth: https://x.com
 
 📺 Mo Bitar
 
-👁️ 272K • 👍 17K • 💬 3K • ⏱️ 9:06 • 22h ago
+👁️ 272K • 👍 17K • 💬 3K • ⏱️ 9:06 • 23h ago
 
 ---
 
@@ -337,7 +331,7 @@ Google is in its agentic Gemini era. Hear from CEO of Google and Alphabet Sundar
 
 📺 Google Cloud
 
-👁️ 116K • 👍 3K • ⏱️ 5:38 • 20h ago
+👁️ 116K • 👍 3K • ⏱️ 5:38 • 21h ago
 
 ---
 
@@ -355,7 +349,7 @@ Smalls: Get 60% off your first order + FREE shipping & FREE treats for life at h
 
 📺 Dean Graziosi
 
-👁️ 412K • 👍 13K • 💬 110 • ⏱️ 4:19:20 • 16h ago
+👁️ 412K • 👍 13K • 💬 110 • ⏱️ 4:19:20 • 18h ago
 
 ---
 
@@ -365,7 +359,7 @@ Welcome to today's STEP BY STEP FREE course on how to start Dropshipping using A
 
 📺 Baddie In Business
 
-👁️ 380 • 👍 98 • 💬 14 • ⏱️ 11:48 • 53m ago
+👁️ 380 • 👍 98 • 💬 14 • ⏱️ 11:48 • 2h ago
 
 ---
 
@@ -391,7 +385,7 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 `text-generation` `861.6B`
 
-⬇️ 30 • ❤️ 2,205 • 4h ago
+⬇️ 30 • ❤️ 2,205 • 6h ago
 
 ---
 
@@ -415,7 +409,7 @@ Qwen3.6-27B is a 27B parameter causal language model with a vision encoder, exce
 
 `image-text-to-text` `27.8B`
 
-⬇️ 162,349 • ❤️ 724 • 12h ago
+⬇️ 162,349 • ❤️ 724 • 13h ago
 
 ---
 
@@ -427,7 +421,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with a vision encoder, 
 
 `image-text-to-text` `36.0B`
 
-⬇️ 861,178 • ❤️ 1,372 • 12h ago
+⬇️ 861,178 • ❤️ 1,372 • 13h ago
 
 ---
 
@@ -451,7 +445,7 @@ DeepSeek-V4-Flash is a 284B parameter Mixture-of-Experts language model supporti
 
 `text-generation` `158.1B`
 
-⬇️ 23 • ❤️ 538 • 4h ago
+⬇️ 23 • ❤️ 538 • 6h ago
 
 ---
 
@@ -487,7 +481,7 @@ Qwen3.6-27B-GGUF is a 27B parameter causal language model with vision capabiliti
 
 `image-text-to-text` `26.9B`
 
-⬇️ 340,032 • ❤️ 354 • 1d ago
+⬇️ 340,032 • ❤️ 354 • 2d ago
 
 ---
 
@@ -649,7 +643,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 49.4k • 🔱 6.5k • 7h ago
+⭐ 49.4k • 🔱 6.5k • 8h ago
 
 ---
 
@@ -669,7 +663,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 39.1k • 🔱 8.0k • 2d ago
+⭐ 39.1k • 🔱 8.0k • 3d ago
 
 ---
 
@@ -679,7 +673,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 34.1k • 🔱 3.8k • 19h ago
+⭐ 34.1k • 🔱 3.8k • 20h ago
 
 ---
 
@@ -709,7 +703,7 @@ AI Agent 源码深度研究报告
 
 `Python`
 
-⭐ 5.6k • 🔱 1.6k • 11d ago
+⭐ 5.6k • 🔱 1.6k • 12d ago
 
 ---
 
@@ -739,7 +733,7 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 `Rust` `agents` `container` `sandbox`
 
-⭐ 3.9k • 🔱 245 • 1h ago
+⭐ 3.9k • 🔱 245 • 2h ago
 
 ---
 
