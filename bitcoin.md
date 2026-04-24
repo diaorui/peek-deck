@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-24T18:08:25.202807+00:00'
+updated: '2026-04-24T19:29:36.346583+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
-- social
 - cryptocurrency
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 24, 2026 at 18:08 UTC  
+**Last Updated:** April 24, 2026 at 19:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,709.61
+### $77,707.50
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.0%  
-**7d:** +2.6%  
-**30d:** +12.9%  
-**90d:** -10.3%  
-**1y:** -17.9%  
+**24h:** -0.4%  
+**7d:** +2.5%  
+**30d:** +12.7%  
+**90d:** -10.5%  
+**1y:** -18.0%  
 
 ---
 
@@ -81,7 +81,13 @@ Rank #1
 
 [comments]
 
-11h ago
+12h ago
+
+---
+
+**[I made a site that explains Bitcoin to your mom in 5 minutes. Your mom gets a printable Bitcoin certificate at the end.](https://www.reddit.com/r/Bitcoin/comments/1suo3qe/i_made_a_site_that_explains_bitcoin_to_your_mom/)**
+
+🔗 [wtfisbtc.lol](https://wtfisbtc.lol/) • 57m ago
 
 ---
 
@@ -89,15 +95,15 @@ Rank #1
 
 ARK Invest says Bitcoin has not bottomed yet as whales stack 1.47 million BTC during Q1's 22% price drawdown.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/bitcoin-whales-accumulate-69-more-052711529.html) • 10h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/bitcoin-whales-accumulate-69-more-052711529.html) • 12h ago
 
 ---
 
-**[Why BTC over everything else in 2026?](https://www.reddit.com/r/Bitcoin/comments/1suc17w/why_btc_over_everything_else_in_2026/)**
+**[I keep hearing this but is it true? Does Bitcoin really have NO intrinsic value?](https://www.reddit.com/r/Bitcoin/comments/1sumyq6/i_keep_hearing_this_but_is_it_true_does_bitcoin/)**
 
-honestly curious: why is Bitcoin your #1 choice?
+People still say that all the time. “No cash flows. No earnings. No fundamentals.” But then why is it worth $75,000+? In this video I break down what “intrinsic value” actually means and why most people completely misunderstand it. My goal is by the end to help people understand exactly why Bitcoin has value.
 
-7h ago
+🔗 [youtu.be](https://youtu.be/y9humUet5SU) • 1h ago
 
 ---
 
@@ -105,7 +111,15 @@ honestly curious: why is Bitcoin your #1 choice?
 
 Metaplanet raises $50M through zero-interest bonds to fund new Bitcoin purchases and expand its growing corporate BTC treasury.
 
-🔗 [Blockonomi](https://blockonomi.com/metaplanet-issues-%C2%A58b-bonds-to-expand-bitcoin-holdings/) • 2h ago
+🔗 [Blockonomi](https://blockonomi.com/metaplanet-issues-%C2%A58b-bonds-to-expand-bitcoin-holdings/) • 3h ago
+
+---
+
+**[Why BTC over everything else in 2026?](https://www.reddit.com/r/Bitcoin/comments/1suc17w/why_btc_over_everything_else_in_2026/)**
+
+honestly curious: why is Bitcoin your #1 choice?
+
+8h ago
 
 ---
 
@@ -113,13 +127,7 @@ Metaplanet raises $50M through zero-interest bonds to fund new Bitcoin purchases
 
 If you go look up a bitcoin chart from 2010 to now. Look at when the halving happened in 2020 and exactly 18 months after the halving it goes down tremendously (Halving happened in may 2020, EXACTLY 18 months after in novemeber 2021 it crashed) The exact same thing happened in 2024 halving, exactly 18 months after the 2024 halving (october 2025) it crashed. Do what you will with that information. 2027 is going to be the best time to accumulate bitcoin so don't miss out. :)
 
-5h ago
-
----
-
-**[The Dead Man's Switch: How to Program a Trustless Bitcoin Inheritance Using OP_CSV. Trusting an estate lawyer with your keys means surrendering your wealth. How to use relative time-locks to build a trustless, algorithmic will.](https://www.reddit.com/r/Bitcoin/comments/1sua82y/the_dead_mans_switch_how_to_program_a_trustless/)**
-
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-dead-mans-switch-how-to-program) • 9h ago
+6h ago
 
 ---
 
@@ -127,7 +135,13 @@ If you go look up a bitcoin chart from 2010 to now. Look at when the halving hap
 
 I’m researching bitcoin and saw that BlackRock’s ETF added $167.5M in a single day, with steady inflows recently. Do you think this kind of institutional buying is a strong long-term signal or just normal market behaviour? Curious to hear different views.
 
-2h ago
+4h ago
+
+---
+
+**[The Dead Man's Switch: How to Program a Trustless Bitcoin Inheritance Using OP_CSV. Trusting an estate lawyer with your keys means surrendering your wealth. How to use relative time-locks to build a trustless, algorithmic will.](https://www.reddit.com/r/Bitcoin/comments/1sua82y/the_dead_mans_switch_how_to_program_a_trustless/)**
+
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-dead-mans-switch-how-to-program) • 10h ago
 
 ---
 
@@ -135,23 +149,7 @@ I’m researching bitcoin and saw that BlackRock’s ETF added $167.5M in a sing
 
 An interactive tool to build and understand Bitcoin transactions visually. • Connect predefined nodes → see every byte update live • Step through script execution with live stack view • Full Python code behind each node ('Show code' in node menu) 14 hands-on lessons + exercises included (P2PKH, P2SH, SegWit, multisig, timelocks, payment channels, Taproot) — all broadcast to testnet. More coming (Coinjoin, Lightning, Mining …). Free · open-source · educational only rawbit.io https://github.com/rawBit-io/rawbit Human Rights Foundation and OpenSats grantee https://hrf.org/latest/hrfs-bitcoin-development-fund-announces-support-for-26-projects-worldwide/ https://opensats.org/blog/seventeenth-wave-of-bitcoin-grants
 
-8h ago
-
----
-
-**[What’s next for bitcoin](https://www.reddit.com/r/Bitcoin/comments/1su7x90/whats_next_for_bitcoin/)**
-
-Bitcoin’s next move? Institutional adoption, ETF flows, and whether $100K holds or we see a correction first. What do you guys think ?
-
-11h ago
-
----
-
-**[Consensus spec work, Onion message attack - Bitcoin Optech Newsletter #402](https://www.reddit.com/r/Bitcoin/comments/1sui19v/consensus_spec_work_onion_message_attack_bitcoin/)**
-
-Bitcoin Optech newsletter #402 is here: - describes work on a declarative executable specification of consensus rules - summarizes a discussion about onion message jamming in the Lightning Network - summarizes popular Q&A from Stack Exchange - Optech Newsletter #402 Podcast https://bitcoinops.org/en/newsletters/2026/04/24/ Toby Sharp posted to Delving Bitcoin and the Bitcoin-Dev mailing list an update on the Hornet node project... https://bitcoinops.org/en/newsletters/2026/04/24/#hornet-node-s-declarative-executable-specification-of-bitcoin-consensus-rules Erick Cestari posted to Delving Bitcoin about the onion message jamming problem affecting the Lightning Network... https://bitcoinops.org/en/newsletters/2026/04/24/#onion-message-jamming-in-the-lightning-network Selected Q&A from Bitcoin Stack Exchange - Why did BIP342 replace CHECKMULTISIG with a new opcode, instead of just removing FindAndDelete from it? - Does SIGHASH_ANYPREVOUT commit to the tapleaf hash or the full taproot merkle path? - What does the BIP86 tweak guarantee in a MuSig2 Lightning channel, beyond address format? https://bitcoinops.org/en/newsletters/2026/04/24/#selected-qa-from-bitcoin-stack-exchange Bitcoin Optech will host an audio recap discussion of this newsletter streaming live on X/Twitter Tuesday at 16:30 UTC.
-
-🔗 [Bitcoin Optech](https://bitcoinops.org/en/newsletters/2026/04/24/) • 3h ago
+9h ago
 
 ---
 
@@ -163,7 +161,31 @@ Bitcoin Optech newsletter #402 is here: - describes work on a declarative execut
 
 While the Strategy executive chair signals the bitcoin bottom and that institutions will be the next to drive up the price, another market analyst disagreed, saying nation States will be the ones.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
+
+---
+
+**[Bitcoin Whales Accumulate 69% More BTC as ARK Warns the Bottom Isn’t In](https://finance.yahoo.com/markets/crypto/articles/bitcoin-whales-accumulate-69-more-052711529.html)**
+
+ARK Invest says Bitcoin has not bottomed yet as whales stack 1.47 million BTC during Q1's 22% price drawdown.
+
+Yahoo Finance • 14h ago
+
+---
+
+**[Varntix 24% HNW Savings Account Hits $20M in Hours as Elon Musk Fuels Bitcoin Price Prediction Debate](https://markets.businessinsider.com/news/stocks/varntix-24-hnw-savings-account-hits-20m-in-hours-as-elon-musk-fuels-bitcoin-price-prediction-debate-1036060561)**
+
+ROAD TOWN, British Virgin Islands, April  24, 2026  (GLOBE NEWSWIRE) -- Varntix has announced that its 24% fixed crypto savings account for high-n...
+
+markets.businessinsider.com • 2h ago
+
+---
+
+**[Bitcoin developer wants to hard fork the network — and give away Satoshi coins](https://finance.yahoo.com/markets/crypto/articles/bitcoin-developer-wants-hard-fork-184416076.html)**
+
+Long-time Bitcoin developer Paul Sztorc is hard forking Bitcoin into eCash. eCash would allow for some of the programmability available on altcoins to happen on Bitcoin. It would also reassign some of Satoshi Nakamoto’s coins to early users.
+
+Yahoo Finance • 45m ago
 
 ---
 
@@ -173,63 +195,37 @@ The New York Times • 1d ago
 
 ---
 
-**[Bitcoin 'Q-Day' Draws Nearer as Quantum Researcher Breaks Simplified Key](https://decrypt.co/365444/bitcoin-q-day-draws-nearer-quantum-researcher-breaks-simplified-key)**
+**[New documentary seeks to uncover the identity of Bitcoin’s founder](https://www.cnn.com/2026/04/24/us/video/berman-cohan-maroney-satoshi-bitcoin-cnc)**
 
-The quantum threat to Bitcoin keeps inching closer, this time thanks to a researcher who broke a simplified cryptographic key.
+Why is the identity of Bitcoin’s founder one of the biggest mysteries in finance? The new documentary “Finding Satoshi” aims to find out. CNN News Central’s John Berman speaks with the two men leading the hunt, Investigative Journalist William Cohan and Quest Research & Investigations private investigator Tyler Maroney.
 
-Decrypt • 2h ago
-
----
-
-**[What's driving the massive inflows for bitcoin ETFs in 2026](https://finance.yahoo.com/video/whats-driving-massive-inflows-bitcoin-165800586.html)**
-
-Scott Melker, the host of "The Wolf of All Streets" podcast, breaks down the massive inflows going into bitcoin (BTC-USD) ETFs and what it means for the crypto market going forward. "The Daily Wolf with Scott Melker" airs on Yahoo Finance every day at 12:00 p.m. Tune in for your daily dose of all things crypto.Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
-
-Yahoo Finance • 2d ago
+CNN • 6h ago
 
 ---
 
-**[Bitcoin ETF 'flows turned positive for the year': BNY's global head of ETFs](https://www.theblock.co/post/398699/bitcoin-etf-flows-turned-positive-year-bny-global-head-etfs)**
+**[Researcher breaks 15-bit elliptic curve key in 'largest quantum attack,' wins 1 bitcoin bounty from Project Eleven](https://www.theblock.co/post/398792/researcher-breaks-15-bit-elliptic-curve-key-wins-1-bitcoin-bounty-project-eleven)**
 
-“Flows have turned positive for the year,” Global Head of ETFs at BNY Asset Servicing Ben Slavin told The Block.
+Independent researcher Giancarlo Lelli derived a 15-bit elliptic curve key on a publicly accessible quantum computer, Project Eleven said.
 
-The Block • 22h ago
-
----
-
-**[Bitcoin ETF inflows draw in $1.9B as crypto asset hovers near $80K](https://finance.yahoo.com/video/bitcoin-etf-inflows-draw-in-19b-as-crypto-asset-hovers-near-80k-162949503.html)**
-
-In today's episode of "The Daily Wolf" podcast, host Scott Melker discusses the inflows of $1.9 billion flooding into bitcoin ETFs (BTC-USD) over the past week, which comes as the crypto asset continues to hover near its 11-week high of $78,000 per token. "The Daily Wolf with Scott Melker" airs on Yahoo Finance every day at 12:00 p.m. Tune in for your daily dose of all things crypto. Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
-
-Yahoo Finance • 1h ago
+The Block • 6h ago
 
 ---
 
 **[Push to Unwind Bitcoin Hoarder Shows Once-Hot Trade Collapsing](https://www.bloomberg.com/news/articles/2026-04-23/push-to-unwind-bitcoin-hoarder-shows-once-hot-trade-collapsing)**
 
-Bloomberg.com • 1d ago
+Bloomberg • 1d ago
 
 ---
 
-**[Strategy’s teetering financial tower](https://www.ft.com/content/ea814e1f-b595-4a7c-a518-2d02e2b409e4)**
+**[Chinese crypto tycoon eyes Hong Kong capital with bitcoin asset management push](https://www.reuters.com/world/asia-pacific/chinese-crypto-tycoon-eyes-hong-kong-capital-with-bitcoin-asset-management-push-2026-04-22/)**
 
-A bitcoin price reprieve can’t erase the company’s contradictions
-
-Financial Times • 13h ago
+Reuters • 2d ago
 
 ---
 
-**[Metaplanet issues $50 million in zero-interest bonds to buy more bitcoin](https://www.theblock.co/post/398740/metaplanet-issues-bonds-bitcoin)**
+**[Bitcoin Rises on Optimism Over Trump’s Extended Iran Ceasefire](https://www.bloomberg.com/news/articles/2026-04-22/bitcoin-rises-on-optimism-over-trump-s-extended-iran-ceasefire)**
 
-In the first quarter of this year, Metaplanet purchased 5,075 BTC, bringing its total to 40,177 BTC as of March 31.
-
-The Block • 10h ago
-
----
-
-**[Bitcoin Price Falls From 11-Week High. Why, Ethereum, XRP, Cryptos Are Dropping.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-iran-54088134)**
-
-Barron's • 1d ago
+Bloomberg • 1d ago
 
 ---
 
@@ -253,17 +249,17 @@ The global economic system is evolving: The left wants to redistribute. The righ
 
 ---
 
-**[Show HN: Using Ramanujan's Pi Series for Bitcoin Security on Nvidia B200](https://news.ycombinator.com/item?id=47823382)**
-
-⬆️ 4 • 💬 1 • 5d ago • [zenodo.org](https://zenodo.org/records/19650883)
-
----
-
 **[Bitcoin and Quantum Computing: A Roadmap](https://news.ycombinator.com/item?id=47837968)**
 
 Neha Narula
 
-⬆️ 3 • 💬 2 • 4d ago • [nehanarula.org](https://nehanarula.org/2026/04/20/bitcoin-and-quantum-a-roadmap.html)
+⬆️ 4 • 💬 2 • 4d ago • [nehanarula.org](https://nehanarula.org/2026/04/20/bitcoin-and-quantum-a-roadmap.html)
+
+---
+
+**[Show HN: Using Ramanujan's Pi Series for Bitcoin Security on Nvidia B200](https://news.ycombinator.com/item?id=47823382)**
+
+⬆️ 4 • 💬 1 • 5d ago • [zenodo.org](https://zenodo.org/records/19650883)
 
 ---
 
@@ -279,7 +275,7 @@ Part one explained the physics of quantum computing. This piece explains the tar
 
 Build wallets, issue stablecoins, and move BTC instantly: all natively on Bitcoin. No bridges, no custodians. Start building with Spark's SDKs today.
 
-⬆️ 3 • 💬 0 • 22h ago • [Spark](https://www.spark.money)
+⬆️ 3 • 💬 0 • 23h ago • [Spark](https://www.spark.money)
 
 ---
 
@@ -297,19 +293,19 @@ A senior US military commander has lauded Bitcoin as a “valuable computer scie
 
 ---
 
+**['Finding Satoshi' Makes the Case for Hal Finney, Len Sassaman as BTC Co-Creators](https://news.ycombinator.com/item?id=47864987)**
+
+A new documentary asserts that Bitcoin creator Satoshi Nakamoto was actually two people: the late Hal Finney and Len Sassaman.
+
+⬆️ 2 • 💬 2 • 2d ago • [Decrypt](https://decrypt.co/365075/finding-satoshi-makes-the-case-for-hal-finney-len-sassaman-as-bitcoin-co-creators)
+
+---
+
 **[Satoshi Nakamoto: 'The best outcome is that no one ever finds out'](https://news.ycombinator.com/item?id=47827534)**
 
 Speculation, dead‑end investigations and conspiracy theories have surrounded him for years
 
 ⬆️ 2 • 💬 0 • 4d ago • [EL PAÍS English](https://english.elpais.com/economy-and-business/2026-04-19/satoshi-nakamoto-the-reclusive-billionaire-behind-bitcoin-the-best-outcome-is-that-no-one-ever-finds-out.html)
-
----
-
-**['Finding Satoshi' Makes the Case for Hal Finney, Len Sassaman as BTC Co-Creators](https://news.ycombinator.com/item?id=47864987)**
-
-A new documentary asserts that Bitcoin creator Satoshi Nakamoto was actually two people: the late Hal Finney and Len Sassaman.
-
-⬆️ 1 • 💬 2 • 2d ago • [Decrypt](https://decrypt.co/365075/finding-satoshi-makes-the-case-for-hal-finney-len-sassaman-as-bitcoin-co-creators)
 
 ---
 
@@ -323,7 +319,7 @@ Mark Moss is an optimist and he makes a compelling case for why Bitcoin holders 
 
 📺 Bitcoin Magazine
 
-👁️ 2K • 👍 118 • 💬 10 • ⏱️ 59:02 • 7h ago
+👁️ 2K • 👍 118 • 💬 10 • ⏱️ 59:02 • 8h ago
 
 ---
 
@@ -333,7 +329,7 @@ Bitcoin is rallying out of a major drawdown while funding rates stay flat, short
 
 📺 Simply Bitcoin
 
-👁️ 42K • 👍 3K • 💬 214 • ⏱️ 20:08 • 21h ago
+👁️ 42K • 👍 3K • 💬 214 • ⏱️ 20:08 • 23h ago
 
 ---
 
@@ -343,7 +339,7 @@ Bitcoin #Crypto #Finance Wall Street is buying Bitcoin nine times faster than it
 
 📺 The Wolf Of All Streets
 
-👁️ 6K • 👍 500 • 💬 92 • ⏱️ 35:06 • 4h ago
+👁️ 6K • 👍 500 • 💬 92 • ⏱️ 35:06 • 5h ago
 
 ---
 
@@ -363,7 +359,7 @@ Bitcoin is entering a real supply shock and most people still don't see it. Mich
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 576 • 💬 44 • ⏱️ 1:21:05 • 23h ago
+👁️ 13K • 👍 576 • 💬 44 • ⏱️ 1:21:05 • 1d ago
 
 ---
 
@@ -373,7 +369,7 @@ Bitcoin's next move, AMD, MU, Ethereum, QQQ, and more! BITUNIX TRADE THE TOP COI
 
 📺 Lark Davis
 
-👁️ 8K • 👍 542 • 💬 37 • ⏱️ 18:47 • 6h ago
+👁️ 8K • 👍 542 • 💬 37 • ⏱️ 18:47 • 8h ago
 
 ---
 
@@ -383,7 +379,7 @@ Stability is the single biggest lie in financial markets, the investor and Bitco
 
 📺 Interesting Times with Ross Douthat
 
-👁️ 651 • 👍 15 • 💬 7 • ⏱️ 1:52 • 4h ago
+👁️ 651 • 👍 15 • 💬 7 • ⏱️ 1:52 • 5h ago
 
 ---
 
