@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-23T23:13:26.558775+00:00'
+updated: '2026-04-24T00:09:25.467855+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 23, 2026 at 23:13 UTC  
+**Last Updated:** April 24, 2026 at 00:09 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Spin-tracking robot takes on elite table-tennis players - SonyAI](https://www.reddit.com/r/robotics/comments/1stuamz/spintracking_robot_takes_on_elite_tabletennis/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -42,13 +42,13 @@ Robotics research and industry news
 
 From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2047257759473946705
 
-12h ago
+13h ago
 
 ---
 
 **[Robot accompagné](https://www.reddit.com/r/robotics/comments/1sttpic/robot_accompagné/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -62,13 +62,13 @@ The problem If you've tried training a manipulation policy in Isaac Sim or MuJoC
 
 **[Robot eDog teste servo](https://www.reddit.com/r/robotics/comments/1stt4io/robot_edog_teste_servo/)**
 
-3h ago
+4h ago
 
 ---
 
 **[Mon Bittle robot dog](https://www.reddit.com/r/robotics/comments/1stsvgn/mon_bittle_robot_dog/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -82,7 +82,7 @@ The problem If you've tried training a manipulation policy in Isaac Sim or MuJoC
 
 I’m working on a multi-axis project where the mechanical envelope is incredibly tight. Every millimeter counts, and I’m hitting a wall with standard drive sizes. I need something that packs high power density into a tiny footprint but can still handle high-axis EtherCAT synchronization without jitter. For those in robotics or medical: what hardware are you actually using when failure isn't an option? I've heard Elmo mentioned for these space constraints, but does the reliability actually hold up in the field?
 
-6h ago
+7h ago
 
 ---
 
@@ -90,13 +90,13 @@ I’m working on a multi-axis project where the mechanical envelope is incredibl
 
 Humanoid robots are being developed for industrial use, but most current deployments are limited to controlled environments where humans and robots do not operate at the same time. A key limitation is safety. Traditional industrial robots rely on predictable behavior and established safety methods such as physical barriers or defined operating zones. These approaches do not directly apply to humanoid robots. Humanoids are dynamically stable systems, meaning they require continuous control to remain upright. If power is removed, they can fall, which introduces a different type of risk compared to conventional robots that simply stop.
 
-🔗 [Automate](https://www.automate.org/robotics/blogs/safety-by-design-how-humanoid-robots-must-evolve-to-depart-the-walled-garden) • 3h ago
+🔗 [Automate](https://www.automate.org/robotics/blogs/safety-by-design-how-humanoid-robots-must-evolve-to-depart-the-walled-garden) • 4h ago
 
 ---
 
 **[MyActuator RMD-X10s sounding real bad, but appear to be moving just fine. Not much experience with these… Any ideas?](https://www.reddit.com/r/robotics/comments/1st82mb/myactuator_rmdx10s_sounding_real_bad_but_appear/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -122,7 +122,7 @@ Accenture • 1d ago
 
 **[$150m for Chinese robotics, Salmon catches $60m and TruBridge inks sale](https://www.axios.com/pro/all-deals/2026/04/23/pro-rata-premium-first-look-pudu-salmon-trubridge)**
 
-Axios • 2h ago
+Axios • 3h ago
 
 ---
 
@@ -130,7 +130,7 @@ Axios • 2h ago
 
 The Pentagon awarded a $24 million contract to test heavy-duty humanoid robots designed to breach enemy sites and strengthen U.S. military readiness.
 
-Fox Business • 5h ago
+Fox Business • 6h ago
 
 ---
 
@@ -138,13 +138,13 @@ Fox Business • 5h ago
 
 In feat hailed as milestone in robotics, Sony AI’s Ace wins three out of five matches played under official rules
 
-The Guardian • 21h ago
+The Guardian • 22h ago
 
 ---
 
 **[Tuning up the robotics supply chain](https://www.politico.com/newsletters/digital-future-daily/2026/04/23/tuning-up-the-robotics-supply-chain-00889228)**
 
-Politico • 2h ago
+Politico • 3h ago
 
 ---
 
@@ -152,7 +152,7 @@ Politico • 2h ago
 
 Spark Capital VC Nabeel Hyatt explains why AI needs human data and shares how robotics could reshape jobs and the future of gig work
 
-Business Insider • 14h ago
+Business Insider • 15h ago
 
 ---
 
@@ -168,7 +168,7 @@ politico.eu • 1d ago
 
 Tesla (TSLA) reported first quarter results on Wednesday after the closing bell. Adjusted earnings per share (EPS) came in at $0.41 (compared to analyst estimates of $0.34), and revenue came in at $22.39 billion (compared to analyst estimates of $22.19 billion). Yahoo Finance Senior Autos Reporter Pras Subramanian and Barron's associate editor Al Root discuss what investors need from Tesla on robotaxi and robots.
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -190,7 +190,7 @@ A new class of synthetic muscles from MIT is straight out of Westworld. The so-c
 
 📺 Kalil 4.0
 
-👁️ 270 • 👍 9 • 💬 1 • ⏱️ 0:40 • 2h ago
+👁️ 953 • 👍 39 • 💬 1 • ⏱️ 0:40 • 3h ago
 
 ---
 
@@ -200,17 +200,7 @@ AGIBOT just rolled out a full new wave of humanoid robots and AI models built fo
 
 📺 AI Revolution
 
-👁️ 32K • 👍 790 • 💬 51 • ⏱️ 16:29 • 2d ago
-
----
-
-**[UNEXPECTED LINK: Trump family TIED to humanoid robot CLASH with China](https://www.youtube.com/watch?v=SWoVms-enPU)**
-
-Foundation Future Industries founder and CEO Sankaet Pathak and Trump Organization Executive Vice President Eric Trump ...
-
-📺 Fox Business
-
-👁️ 42K • 👍 1K • 💬 290 • ⏱️ 10:17 • 10h ago
+👁️ 33K • 👍 795 • 💬 51 • ⏱️ 16:29 • 2d ago
 
 ---
 
@@ -220,7 +210,7 @@ I thought this would be just another robot demo... I was wrong.At this launch ev
 
 📺 Barrett
 
-👁️ 1K • 👍 149 • 💬 6 • ⏱️ 5:43 • 10h ago
+👁️ 2K • 👍 161 • 💬 7 • ⏱️ 5:43 • 11h ago
 
 ---
 
@@ -230,17 +220,7 @@ For the first time, an AI-powered machine has bested elite-level athletes at a p
 
 📺 nature video
 
-👁️ 52K • 👍 994 • 💬 125 • ⏱️ 13:38 • 1d ago
-
----
-
-**[$1000 Tesla Optimus Robot (Home Edition) Officially Available for Sale!](https://www.youtube.com/watch?v=lA357NZV21E)**
-
-Subscribe for more: https://www.youtube.com/@carrosshow9598 Other video's: Elon Musk's New Tesla Robot Has Shocked ...
-
-📺 Carros Show
-
-👁️ 2K • 👍 43 • 💬 15 • ⏱️ 8:25 • 1d ago
+👁️ 57K • 👍 1K • 💬 135 • ⏱️ 13:38 • 1d ago
 
 ---
 
@@ -250,7 +230,27 @@ War Robots Gameplay: New WAYMAKER Titan - WR My War Robots Creator Link: https:/
 
 📺 Manni-Gaming
 
-👁️ 5K • 👍 354 • 💬 53 • ⏱️ 24:06 • 10h ago
+👁️ 7K • 👍 400 • 💬 60 • ⏱️ 24:06 • 11h ago
+
+---
+
+**[Humanoid robots race past humans in Beijing half-marathon](https://www.youtube.com/watch?v=oLdVcsttB_A)**
+
+Dozens of Chinese-made humanoid robots showed off their fast-improving athleticism as they whizzed past human runners in a ...
+
+📺 Guardian News
+
+👁️ 93K • 👍 240 • 💬 101 • ⏱️ 0:37 • 4d ago
+
+---
+
+**[IA | El PRIMER ROBOT en competir contra jugadores de TENIS DE MESA de élite y profesional | EL PAÍS](https://www.youtube.com/watch?v=yNsszgFRlZU)**
+
+Sony AI ha presentado su proyecto Ace, un robot capaz de competir contra jugadores humanos de tenis de mesa, y que ya ha ...
+
+📺 EL PAÍS
+
+👁️ 45K • 👍 25 • 💬 3 • ⏱️ 1:00 • 1d ago
 
 ---
 
@@ -260,17 +260,7 @@ Robots have outpaced human runners at this year's Beijing half-marathon, finishi
 
 📺 New York Post
 
-👁️ 78K • 👍 711 • 💬 442 • ⏱️ 3:17 • 4d ago
-
----
-
-**[China Just Built an Autonomous AI Robot Army: Killer Robots With Guns and Rockets](https://www.youtube.com/watch?v=_Vw_6QrqS8c)**
-
-China just revealed an autonomous robot war pack built from dog bots, drones, laser weapons, and unmanned boats, Europe is ...
-
-📺 AI Revolution
-
-👁️ 76K • 👍 1K • 💬 142 • ⏱️ 16:14 • 7d ago
+👁️ 78K • 👍 713 • 💬 439 • ⏱️ 3:17 • 4d ago
 
 ---
 
@@ -280,7 +270,17 @@ AI robots failing and glitching 2026 is becoming impossible to ignore. From huma
 
 📺 MindSeeded
 
-👁️ 291K • 👍 16K • 💬 3K • ⏱️ 14:10 • 6d ago
+👁️ 294K • 👍 16K • 💬 3K • ⏱️ 14:10 • 6d ago
+
+---
+
+**[$1000 Tesla Optimus Robot (Home Edition) Officially Available for Sale!](https://www.youtube.com/watch?v=lA357NZV21E)**
+
+Subscribe for more: https://www.youtube.com/@carrosshow9598 Other video's: Elon Musk's New Tesla Robot Has Shocked ...
+
+📺 Carros Show
+
+👁️ 2K • 👍 47 • 💬 21 • ⏱️ 8:25 • 1d ago
 
 ---
 

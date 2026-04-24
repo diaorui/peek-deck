@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-23T23:13:26.540816+00:00'
+updated: '2026-04-24T00:09:25.444855+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- videos
 - social
+- videos
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** April 23, 2026 at 23:13 UTC  
+**Last Updated:** April 24, 2026 at 00:09 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I had the pleasure of sitting down with Wendell Wallach recently. He’s been working in AI ethics since before ChatGPT, before the hype, before most people in tech were paying attention. He wrote Moral Machines, worked alongside Stuart Russell, Yann LeCun and Daniel Kahneman. He’s not a commentator, he’s someone who has sat with these questions for decades. What struck me most in our conversation was his argument about AGI. Not that it’s impossible or inevitable, but that it’s the wrong goal entirely. A system can be extraordinarily intelligent and have zero moral reasoning. We’re building toward capability without asking what it’s capable of deciding. The section on accountability genuinely unsettled me. When AI causes harm, who is actually responsible? He maps out why the answer is almost always nobody in a way that’s hard to argue with. Worth watching if you’re tired of the extremes. Full interview: https://youtu.be/-usWHtI-cms?si=NBkwN-AmIshOXJsX
 
-8h ago
+9h ago
 
 ---
 
@@ -49,7 +49,7 @@ I had the pleasure of sitting down with Wendell Wallach recently. He’s been wo
 
 In federal appeals court, Anthropic made a striking argument: once Claude is deployed on a customer's infrastructure (like the Pentagon's network), they cannot alter, update, or recall it. The Pentagon wants autonomous lethal action restrictions removed — and Anthropic says they have no mechanism to enforce those restrictions post-deployment. This is the first time a major AI lab has formally stated under oath that post-deployment control is effectively zero. The implications are bigger than most coverage suggests. The governance gap this reveals: Current AI governance assumes a control chain that doesn't actually exist: Model cards are pre-sale documents. They describe what the model was trained to do, not what it's capable of in the wild after fine-tuning, tool integration, and deployment context changes. Human-in-the-loop is a customer config, not a vendor guarantee. Anthropic can recommend oversight, but they just told a court they can't enforce it. Liability frameworks assume control that doesn't exist post-shipment. If you sell a car with a recall mechanism, you're liable for not using it. If you sell a model you can't recall, does that reduce your liability (you had no control) or increase your duty of disclosure before sale (you knew you'd have no control later)? The behavioral envelope question: If you can't recall the model, you need to disclose the maximum capability, not just the recommended use. Current model cards document aspirations. They don't document envelopes — what the model can actually produce under adversarial or edge conditions. This mirrors pharmaceutical regulation: if you can't pull a drug off shelves, the FDA requires much stronger pre-market evidence and broader contraindication labeling. The stricter the post-market control limitations, the higher the pre-market disclosure burden. Why this matters even if you don't care about military AI: The legal argument Anthropic is making applies everywhere. If "we can't control it after deployment" works for the Pentagon, it works for any enterprise customer. Every organization deploying Claude (or any model) is implicitly accepting residual risk that the vendor has explicitly said they cannot mitigate. The core question: if a vendor demonstrates in court that it truly cannot alter a deployed model, should that argument reduce its liability (it had no control) or increase its duty of disclosure before sale (it will have no control later)?
 
-10h ago
+11h ago
 
 ---
 
@@ -57,7 +57,7 @@ In federal appeals court, Anthropic made a striking argument: once Claude is dep
 
 The layoffs affect about 8,000 employees, with Meta also planning to close 6,000 open roles, as the company focuses on artificial intelligence.
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/04/23/technology/meta-layoffs.html?unlocked_article_code=1.dFA.gzUD.VhYyqwKYrZpC&smid=nytcore-ios-share) • 4h ago
+🔗 [nytimes.com](https://www.nytimes.com/2026/04/23/technology/meta-layoffs.html?unlocked_article_code=1.dFA.gzUD.VhYyqwKYrZpC&smid=nytcore-ios-share) • 5h ago
 
 ---
 
@@ -65,7 +65,7 @@ The layoffs affect about 8,000 employees, with Meta also planning to close 6,000
 
 Today I have done all these in about 5 hours analysed my blood test results for the last 20 years reviewed whole health action plan for review with doctor produced charts from that data which clearly shows direction of travel and reveals information hidden in the data wrote a mini screen saver thing which shows me the top AI art on Reddit built an entire marketing program for a book I am launching built a web page to support the program built a press release for the book got a list of all key contacts in local media and bookshops - with email addresses and frequently actual names. [EDIT, forgot this one] Made a Star Trek LCARS home page for the 50 odd regular links I use and hooked it into the database where I keep the list. Now, I could have done all that myself, but it would have taken a week. Crucially I *would not have bothered * I would not have seen the results as worth the effort. So, (a) I have been more productive (b) I have done stuff I never would have done without AI
 
-6h ago
+7h ago
 
 ---
 
@@ -73,7 +73,7 @@ Today I have done all these in about 5 hours analysed my blood test results for 
 
 A federal judge ruled that your AI conversations can be seized and used against you in court — and deleting them doesn't help. **The Heppner case (February 2026):** - Former CEO Bradley Heppner used Claude to prep his fraud defense - Judge Jed Rakoff ordered him to surrender 31 AI-generated documents - Ruling: no attorney-client privilege exists "or could exist" between a user and an AI platform **The Krafton case:** - A CEO used ChatGPT to plan how to avoid paying promised earnout payments - He deleted the conversations - The court recovered them anyway and reversed his decisions **The contradiction:** - Same day as Rakoff's ruling, a Michigan judge reached the opposite conclusion - Protected a woman's ChatGPT chats as personal "work product" - A Colorado court later sided with Michigan but added: you must disclose which AI tool you used **The fallout:** - 12+ major law firms have issued client AI warnings - Sher Tremonte added contract clauses that sharing privileged info with AI waives privilege - Both OpenAI and Anthropic privacy policies explicitly allow sharing user data with third parties - $145,000+ in sanctions against attorneys for AI citation errors in Q1 2026 alone **The bottom line:** - Your AI is not your lawyer and never was - Deleting chats doesn't delete the data from their servers - Consumer AI (ChatGPT, Claude, Gemini) should not be used for legal matters unless directed by counsel Full breakdown with source links → https://synvoya.com/blog/2026-04-23-ai-chats-court-evidence/ Have you ever typed something into ChatGPT that you wouldn't want a judge to read?
 
-21h ago
+22h ago
 
 ---
 
@@ -81,7 +81,7 @@ A federal judge ruled that your AI conversations can be seized and used against 
 
 : Hackpocalypse deferred
 
-🔗 [theregister.com](https://www.theregister.com/2026/04/22/anthropic_mythos_hype_nothingburger/) • 6h ago
+🔗 [theregister.com](https://www.theregister.com/2026/04/22/anthropic_mythos_hype_nothingburger/) • 7h ago
 
 ---
 
@@ -89,7 +89,7 @@ A federal judge ruled that your AI conversations can be seized and used against 
 
 Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.
 
-🔗 [OpenAI](https://openai.com/index/introducing-gpt-5-5/) • 2h ago
+🔗 [OpenAI](https://openai.com/index/introducing-gpt-5-5/) • 3h ago
 
 ---
 
@@ -97,7 +97,7 @@ Introducing GPT-5.5, our smartest model yet—faster, more capable, and built fo
 
 LLMs were asked to write a Python 3.10 client that plays a two-player adversarial variant of the Towers of Hanoi. Rules: Hero moves a disk; Villain must immediately move that same disk to an adjacent tower (or pass if no legal move). Hero's budget is 2^m + 1 moves — barely more than the 2^m - 1 solo optimum, so almost any wasted move loses. Round-robin tournament with penalty-shootout matchups: up to 5 rounds (+ sudden death), 2 simultaneous games per round with hero/villain roles swapped. Round configs grow from 4 towers / 3 disks up to 12 towers / 7 disks. Full writeup
 
-5h ago
+6h ago
 
 ---
 
@@ -105,7 +105,7 @@ LLMs were asked to write a Python 3.10 client that plays a two-player adversaria
 
 I created an [Activation Lab](https://github.com/cstefanache/llmct) tool that can be seen as an MRI machine for AI. It captures snapshots of every single layer inside a language model while it processes a conversation. It allows you to fully understand what is happening, inside a neural network during generation by capturing all internal states of the layers of an LLM and takes snapshots for interpretability. First experiment: I fed Qwen 2.5 (3B) a 20-turn conversation where the user swings wildly between joy, fear, anger, sadness, apathy, and peace. At every turn, I scanned the AI's internal state and compared it against emotional fingerprints. Here's what I found: The AI has an emotional backbone. The residual stream - the main information highway, maintains 0.83–0.88 cosine similarity to emotional references at all times. It always knows the emotional temperature of the conversation. Emotions are sharpest at layers 29–33. Early layers detect that emotion exists. Middle layers sort positive from negative. But it's the deep layers where the network actually decides "this is joy, not sadness." Layer 31 is the single most discriminative layer in the entire network. The AI has a built-in shock absorber. When the user is emotionally intense, the assistant's internal state shifts toward that emotion, but never all the way. The gap is consistent: \~0.03 on the backbone, \~0.13 on the deeper processing centers. It acknowledges your feelings while staying calm. Nobody trained it to do this explicitly. It learned it. Joy is the default setting. Even during angry and sad turns, the joy reference scored highest. Instruction tuning didn't just make the model helpful, it shifted its entire internal geometry toward positivity. Emotional memory fades. First message: 0.90 cosine with its matching emotion. By message 19: only 0.67–0.73. Longer conversations dilute the signal.
 
-3h ago
+4h ago
 
 ---
 
@@ -113,7 +113,7 @@ I created an [Activation Lab](https://github.com/cstefanache/llmct) tool that ca
 
 I’ve spent more than two years building an agentic AI platform, working daily with GPT, Claude, and lately Gemini LLM models in real-world production code. They’re powerful; but if you watch closely, you’ll see something unsettling. They don’t just write bad code. They write our code. And that should worry you. This is what I realized in the mirror we trained.
 
-45m ago
+1h ago
 
 ---
 
@@ -125,7 +125,7 @@ I’ve spent more than two years building an agentic AI platform, working daily 
 
 Anthropic’s model was reportedly accessed by a handful of users in an online forum.
 
-Fortune • 7h ago
+Fortune • 8h ago
 
 ---
 
@@ -139,7 +139,7 @@ The New York Times • 1d ago
 
 Editorial: Tech can scale cyber-attacks and defences alike, raising questions about private power, public risk and the future of a shared internet
 
-The Guardian • 5h ago
+The Guardian • 6h ago
 
 ---
 
@@ -147,7 +147,7 @@ The Guardian • 5h ago
 
 Meta said on Thursday it plans to lay off roughly 10% of its workforce, or about 8,000 people, the latest in a string of tech industry layoffs fueled in part by artificial intelligence.
 
-CNN • 3h ago
+CNN • 4h ago
 
 ---
 
@@ -155,7 +155,7 @@ CNN • 3h ago
 
 Meta plans to lay off 10% of its workforce, equaling about 8,000 employees, as the company continues to ramp up investments in artificial intelligence.
 
-CNBC • 5h ago
+CNBC • 6h ago
 
 ---
 
@@ -163,13 +163,13 @@ CNBC • 5h ago
 
 The company adds a feature that will reveal what topics teens delve into with AI on Facebook, Instagram and WhatsApp.
 
-CNET • 1h ago
+CNET • 2h ago
 
 ---
 
 **[OpenAI Unveils Its New, More Powerful GPT-5.5 Model](https://www.nytimes.com/2026/04/23/technology/openai-new-model.html)**
 
-The New York Times • 5h ago
+The New York Times • 6h ago
 
 ---
 
@@ -185,7 +185,7 @@ OpenAI • 1d ago
 
 Over 10,000 NVIDIANs across functions got early access to OpenAI’s latest frontier model, GPT-5.5. The results, one engineer said, are “blowing my mind.”
 
-NVIDIA Blog • 4h ago
+NVIDIA Blog • 5h ago
 
 ---
 
@@ -193,7 +193,7 @@ NVIDIA Blog • 4h ago
 
 The U.S. government has previously accused China of targeting American AI technology and intellectual property.
 
-CNBC • 5h ago
+CNBC • 6h ago
 
 ---
 
@@ -239,7 +239,7 @@ High-performance AI gateway written in Go - unified OpenAI-compatible API for Op
 
 How Ars Technica uses, and doesn't use, generative AI.
 
-⬆️ 181 • 💬 123 • 17h ago • [Ars Technica](https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/)
+⬆️ 181 • 💬 123 • 18h ago • [Ars Technica](https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/)
 
 ---
 
@@ -255,7 +255,7 @@ Nial – Knowledge work and artificial intelligence.
 
 Migrating to the new meshcore.io site
 
-⬆️ 125 • 💬 70 • 6h ago • [blog.meshcore.io](https://blog.meshcore.io/2026/04/23/the-split)
+⬆️ 125 • 💬 70 • 7h ago • [blog.meshcore.io](https://blog.meshcore.io/2026/04/23/the-split)
 
 ---
 
@@ -285,7 +285,7 @@ sponsored Build with Softr ...
 
 📺 AI Master
 
-👁️ 8K • 👍 222 • 💬 27 • ⏱️ 21:44 • 6h ago
+👁️ 8K • 👍 222 • 💬 27 • ⏱️ 21:44 • 7h ago
 
 ---
 
@@ -295,7 +295,7 @@ Rogue researchers are telling the truth about AI Depth vs breadth: https://x.com
 
 📺 Mo Bitar
 
-👁️ 115K • 👍 10K • 💬 2K • ⏱️ 9:06 • 6h ago
+👁️ 115K • 👍 10K • 💬 2K • ⏱️ 9:06 • 7h ago
 
 ---
 
@@ -303,7 +303,7 @@ Rogue researchers are telling the truth about AI Depth vs breadth: https://x.com
 
 📺 Dean Graziosi
 
-👁️ 353K • 👍 13K • 💬 39 • ⏱️ 4:19:20 • 1h ago
+👁️ 353K • 👍 13K • 💬 39 • ⏱️ 4:19:20 • 2h ago
 
 ---
 
@@ -333,7 +333,7 @@ I compared every Free AI Video Generator, use this Hey Friends :)) I've spent tw
 
 📺 Skai Generated
 
-👁️ 7K • ⏱️ 9:06 • 7h ago
+👁️ 7K • ⏱️ 9:06 • 8h ago
 
 ---
 
@@ -343,7 +343,7 @@ Roman Yampolskiy explains why superintelligence cannot be controlled, why the ga
 
 📺 Future of Life Institute
 
-👁️ 5K • 👍 240 • 💬 65 • ⏱️ 19:17 • 9h ago
+👁️ 5K • 👍 240 • 💬 65 • ⏱️ 19:17 • 10h ago
 
 ---
 
@@ -363,7 +363,7 @@ Data giant Palantir - founded by Peter Thiel and Alex Karp - has shared its visi
 
 📺 DW News
 
-👁️ 7K • 👍 219 • 💬 48 • ⏱️ 5:35 • 6h ago
+👁️ 7K • 👍 219 • 💬 48 • ⏱️ 5:35 • 7h ago
 
 ---
 
@@ -373,25 +373,13 @@ Get The Made in the USA, Veteran Owned, Zero-Sugar Energy Gum https://strikegum.
 
 📺 Combat Veteran News
 
-👁️ 34K • 👍 3K • 💬 616 • ⏱️ 24:30 • 22h ago
+👁️ 34K • 👍 3K • 💬 616 • ⏱️ 24:30 • 23h ago
 
 ---
 
 ---
 
 ## HuggingFace Models: 🔥 Trending
-
-**[Qwen3.6-35B-A3B](https://huggingface.co/Qwen/Qwen3.6-35B-A3B)**
-
-*Qwen*
-
-Qwen3.6-35B-A3B is a 35B parameter causal language model with a vision encoder, optimized for agentic coding tasks and featuring enhanced thinking preservation for iterative development. It supports a context length of 262,144 tokens, extensible up to 1,010,000.
-
-`image-text-to-text` `36.0B`
-
-⬇️ 717,811 • ❤️ 1,323 • 1d ago
-
----
 
 **[Kimi-K2.6](https://huggingface.co/moonshotai/Kimi-K2.6)**
 
@@ -401,7 +389,19 @@ Kimi K2.6 is a 1T parameter multimodal agentic model excelling in long-horizon c
 
 `image-text-to-text` `1058.6B`
 
-⬇️ 125,825 • ❤️ 876 • 17h ago
+⬇️ 125,825 • ❤️ 885 • 18h ago
+
+---
+
+**[Qwen3.6-35B-A3B](https://huggingface.co/Qwen/Qwen3.6-35B-A3B)**
+
+*Qwen*
+
+Qwen3.6-35B-A3B is a 35B parameter causal language model with a vision encoder, optimized for agentic coding tasks and featuring enhanced thinking preservation for iterative development. It supports a context length of 262,144 tokens, extensible up to 1,010,000.
+
+`image-text-to-text` `36.0B`
+
+⬇️ 717,811 • ❤️ 1,331 • 1d ago
 
 ---
 
@@ -413,7 +413,7 @@ Qwen3.6-27B is a 27B parameter causal language model with a vision encoder, exce
 
 `image-text-to-text` `27.8B`
 
-⬇️ 23,964 • ❤️ 634 • 1d ago
+⬇️ 23,964 • ❤️ 645 • 1d ago
 
 ---
 
@@ -425,7 +425,7 @@ A bidirectional token-classification model for PII detection and masking, capabl
 
 `token-classification` `1.4B`
 
-⬇️ 1,888 • ❤️ 534 • 1d ago
+⬇️ 1,888 • ❤️ 557 • 1d ago
 
 ---
 
@@ -437,7 +437,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with vision capabilitie
 
 `image-text-to-text` `34.7B`
 
-⬇️ 1,283,534 • ❤️ 706 • 3d ago
+⬇️ 1,283,534 • ❤️ 708 • 3d ago
 
 ---
 
@@ -449,7 +449,7 @@ HY-World 2.0 is a multi-modal framework for generating and reconstructing 3D wor
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 572 • 1d ago
+⬇️ 0 • ❤️ 576 • 1d ago
 
 ---
 
@@ -461,7 +461,7 @@ This is an uncensored, aggressive multimodal model based on Qwen3.6-35B-A3B, cap
 
 `image-text-to-text` `34.7B`
 
-⬇️ 350,262 • ❤️ 396 • 6d ago
+⬇️ 350,262 • ❤️ 399 • 6d ago
 
 ---
 
@@ -473,7 +473,7 @@ Qwen3.6-27B-GGUF is a 27B parameter causal language model with vision capabiliti
 
 `image-text-to-text` `26.9B`
 
-⬇️ 131,398 • ❤️ 312 • 1d ago
+⬇️ 131,398 • ❤️ 321 • 1d ago
 
 ---
 
@@ -485,39 +485,25 @@ Gemma 4 E4B OBLITERATED v3 is a text-generation model with 0% refusal and improv
 
 `text-generation` `8.0B`
 
-⬇️ 90,064 • ❤️ 477 • 4d ago
+⬇️ 90,064 • ❤️ 481 • 4d ago
 
 ---
 
-**[gemma-4-31B-it](https://huggingface.co/google/gemma-4-31B-it)**
+**[Qwopus-GLM-18B-Merged-GGUF](https://huggingface.co/Jackrong/Qwopus-GLM-18B-Merged-GGUF)**
 
-*Google*
+*Jackrong*
 
-Gemma 4 31B is an instruction-tuned, multimodal LLM capable of processing text and images to generate text. It excels at reasoning, coding, and handling long contexts (256K tokens) with a hybrid attention mechanism for efficient inference, suitable for complex agentic workflows.
+Qwopus-GLM-18B-Merged-GGUF is a ~18B parameter text-generation model, a healed frankenmerge of two Qwen3.5-9B finetunes, optimized for 12-16GB VRAM. It excels in multilingual tasks, reasoning, tool-use, agentic workflows, and produces production-quality HTML/CSS/JS, outperforming larger models like Qwen 3.6-35B MoE on various benchmarks.
 
-`image-text-to-text` `32.7B`
+`text-generation` `15.9B`
 
-⬇️ 5,103,971 • ❤️ 2,311 • 13d ago
+⬇️ 63,745 • ❤️ 192 • 3d ago
 
 ---
 
 ---
 
 ## HuggingFace Papers: 🔥 Trending
-
-**[Geometric Context Transformer for Streaming 3D Reconstruction](https://huggingface.co/papers/2604.14141)**
-
-*Lin-Zhuo Chen, Jian Gao, Yihang Chen et al. (11 authors)*
-
-🏢 Robbyant
-
-LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from video streams using a geometric context transformer architecture with specialized attention mechanisms for coordinate grounding, dense geometric cues, and long-range drift correction, achieving stable real-time performance at 20 FPS.
-
-▲ 17 • 💬 2 • ⭐ 4,301 • 9d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2604.14141) • [💻 code](https://github.com/robbyant/lingbot-map) • [🔗 project](https://technology.robbyant.com/lingbot-map)
-
----
 
 **[RAG-Anything: All-in-One RAG Framework](https://huggingface.co/papers/2510.12323)**
 
@@ -527,9 +513,23 @@ LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from 
 
 RAG-Anything is a unified framework that enhances multimodal knowledge retrieval by integrating cross-modal relationships and semantic matching, outperforming existing methods on complex benchmarks.
 
-▲ 74 • 💬 6 • ⭐ 17,898 • 6mo ago
+▲ 74 • 💬 6 • ⭐ 18,117 • 6mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.12323) • [💻 code](https://github.com/HKUDS/RAG-Anything)
+
+---
+
+**[Geometric Context Transformer for Streaming 3D Reconstruction](https://huggingface.co/papers/2604.14141)**
+
+*Lin-Zhuo Chen, Jian Gao, Yihang Chen et al. (11 authors)*
+
+🏢 Robbyant
+
+LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from video streams using a geometric context transformer architecture with specialized attention mechanisms for coordinate grounding, dense geometric cues, and long-range drift correction, achieving stable real-time performance at 20 FPS.
+
+▲ 17 • 💬 2 • ⭐ 4,351 • 9d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2604.14141) • [💻 code](https://github.com/robbyant/lingbot-map) • [🔗 project](https://technology.robbyant.com/lingbot-map)
 
 ---
 
@@ -577,7 +577,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 OpenGame is an open-source agentic framework for end-to-end web game creation that uses specialized code models and evaluation benchmarks to overcome challenges in interactive application development.
 
-▲ 63 • 💬 4 • ⭐ 646 • 4d ago
+▲ 64 • 💬 4 • ⭐ 646 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.18394) • [💻 code](https://github.com/leigest519/OpenGame) • [🔗 project](https://www.opengame-project-page.com/)
 
@@ -617,7 +617,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
 
-▲ 160 • 💬 2 • ⭐ 60,971 • 6mo ago
+▲ 160 • 💬 2 • ⭐ 61,003 • 6mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
 
@@ -631,7 +631,7 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 LLaDA2.0-Uni is a unified discrete diffusion language model that integrates multimodal understanding and generation through a semantic discrete tokenizer, MoE-based backbone, and diffusion decoder, achieving performance comparable to specialized vision-language models while enabling efficient inference and high-fidelity image generation.
 
-▲ 207 • 💬 1 • ⭐ 50 • 2d ago
+▲ 208 • 💬 1 • ⭐ 98 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.20796) • [💻 code](https://github.com/inclusionAI/LLaDA2.0-Uni)
 
@@ -647,7 +647,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 49.3k • 🔱 6.5k • 54m ago
+⭐ 49.3k • 🔱 6.5k • 1h ago
 
 ---
 
@@ -677,7 +677,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 33.7k • 🔱 3.7k • 4h ago
+⭐ 33.7k • 🔱 3.7k • 5h ago
 
 ---
 
@@ -697,7 +697,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Go`
 
-⭐ 8.6k • 🔱 554 • 5h ago
+⭐ 8.6k • 🔱 554 • 6h ago
 
 ---
 
@@ -707,7 +707,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Python`
 
-⭐ 5.9k • 🔱 997 • 14h ago
+⭐ 5.9k • 🔱 997 • 15h ago
 
 ---
 
