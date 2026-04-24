@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-24T00:09:25.444855+00:00'
+updated: '2026-04-24T03:58:09.845019+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
 - videos
+- social
+- news
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** April 24, 2026 at 00:09 UTC  
+**Last Updated:** April 24, 2026 at 03:58 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,39 +41,23 @@ AI news, discussions, and developments
 
 I had the pleasure of sitting down with Wendell Wallach recently. He’s been working in AI ethics since before ChatGPT, before the hype, before most people in tech were paying attention. He wrote Moral Machines, worked alongside Stuart Russell, Yann LeCun and Daniel Kahneman. He’s not a commentator, he’s someone who has sat with these questions for decades. What struck me most in our conversation was his argument about AGI. Not that it’s impossible or inevitable, but that it’s the wrong goal entirely. A system can be extraordinarily intelligent and have zero moral reasoning. We’re building toward capability without asking what it’s capable of deciding. The section on accountability genuinely unsettled me. When AI causes harm, who is actually responsible? He maps out why the answer is almost always nobody in a way that’s hard to argue with. Worth watching if you’re tired of the extremes. Full interview: https://youtu.be/-usWHtI-cms?si=NBkwN-AmIshOXJsX
 
-9h ago
+13h ago
 
 ---
 
-**[Anthropic told a federal court it can't control its own model once deployed. That honest sentence changes the liability conversation.](https://www.reddit.com/r/artificial/comments/1sthpl8/anthropic_told_a_federal_court_it_cant_control/)**
+**[AI swarms could hijack democracy without anyone noticing](https://www.reddit.com/r/artificial/comments/1su3976/ai_swarms_could_hijack_democracy_without_anyone/)**
 
-In federal appeals court, Anthropic made a striking argument: once Claude is deployed on a customer's infrastructure (like the Pentagon's network), they cannot alter, update, or recall it. The Pentagon wants autonomous lethal action restrictions removed — and Anthropic says they have no mechanism to enforce those restrictions post-deployment. This is the first time a major AI lab has formally stated under oath that post-deployment control is effectively zero. The implications are bigger than most coverage suggests. The governance gap this reveals: Current AI governance assumes a control chain that doesn't actually exist: Model cards are pre-sale documents. They describe what the model was trained to do, not what it's capable of in the wild after fine-tuning, tool integration, and deployment context changes. Human-in-the-loop is a customer config, not a vendor guarantee. Anthropic can recommend oversight, but they just told a court they can't enforce it. Liability frameworks assume control that doesn't exist post-shipment. If you sell a car with a recall mechanism, you're liable for not using it. If you sell a model you can't recall, does that reduce your liability (you had no control) or increase your duty of disclosure before sale (you knew you'd have no control later)? The behavioral envelope question: If you can't recall the model, you need to disclose the maximum capability, not just the recommended use. Current model cards document aspirations. They don't document envelopes — what the model can actually produce under adversarial or edge conditions. This mirrors pharmaceutical regulation: if you can't pull a drug off shelves, the FDA requires much stronger pre-market evidence and broader contraindication labeling. The stricter the post-market control limitations, the higher the pre-market disclosure burden. Why this matters even if you don't care about military AI: The legal argument Anthropic is making applies everywhere. If "we can't control it after deployment" works for the Pentagon, it works for any enterprise customer. Every organization deploying Claude (or any model) is implicitly accepting residual risk that the vendor has explicitly said they cannot mitigate. The core question: if a vendor demonstrates in court that it truly cannot alter a deployed model, should that argument reduce its liability (it had no control) or increase its duty of disclosure before sale (it will have no control later)?
+A recent policy forum paper published in Science describes how large groups of AI-generated personas can convincingly imitate human behavior online. These systems can enter digital communities, participate in discussions, and influence viewpoints at extraordinary speed. Unlike earlier bot networks, these AI agents can coordinate instantly, adapt their messaging in real time, and run millions of micro-experiments to figure out which arguments are most persuasive. One operator could theoretically manage thousands of distinct voices. Experts believe AI swarms could significantly affect the balance of power in democratic societies. Researchers suggest that upcoming elections may serve as a critical test for this technology. The key challenge will be recognizing and responding to these AI-driven influence campaigns before they become too widespread to control. That's so crazy. Research Paper: https://www.science.org/doi/10.1126/science.adz1697
 
-11h ago
-
----
-
-**[Meta to Lay Off 10 Percent of Work Force in A.I. Push (Gift Article)](https://www.reddit.com/r/artificial/comments/1strw2k/meta_to_lay_off_10_percent_of_work_force_in_ai/)**
-
-The layoffs affect about 8,000 employees, with Meta also planning to close 6,000 open roles, as the company focuses on artificial intelligence.
-
-🔗 [nytimes.com](https://www.nytimes.com/2026/04/23/technology/meta-layoffs.html?unlocked_article_code=1.dFA.gzUD.VhYyqwKYrZpC&smid=nytcore-ios-share) • 5h ago
+🔗 [ScienceDaily](https://www.sciencedaily.com/releases/2026/04/260420014748.htm) • 1h ago
 
 ---
 
-**[AI might save my life and has let me do 8 things I would not have done otherwise](https://www.reddit.com/r/artificial/comments/1stny9s/ai_might_save_my_life_and_has_let_me_do_8_things/)**
+**[I ran a logging layer on my agent for 72 hours. 37% of tool calls had parameter mismatches — and none raised an error.](https://www.reddit.com/r/artificial/comments/1styzc3/i_ran_a_logging_layer_on_my_agent_for_72_hours_37/)**
 
-Today I have done all these in about 5 hours analysed my blood test results for the last 20 years reviewed whole health action plan for review with doctor produced charts from that data which clearly shows direction of travel and reveals information hidden in the data wrote a mini screen saver thing which shows me the top AI art on Reddit built an entire marketing program for a book I am launching built a web page to support the program built a press release for the book got a list of all key contacts in local media and bookshops - with email addresses and frequently actual names. [EDIT, forgot this one] Made a Star Trek LCARS home page for the 50 odd regular links I use and hooked it into the database where I keep the list. Now, I could have done all that myself, but it would have taken a week. Crucially I *would not have bothered * I would not have seen the results as worth the effort. So, (a) I have been more productive (b) I have done stuff I never would have done without AI
+I've been running an AI agent that makes tool calls to various APIs, and I added a logging layer to capture exactly what was being sent vs. what the tools expected. Over 84 tool calls in 72 hours, 31 of them (37%) had parameter mismatches — and not a single one raised an error. The tools accepted the wrong parameters and returned plausible-looking but incorrect output. Here are the 4 failure categories I found: 1. Timestamp vs Duration — The agent passed a Unix timestamp where the API expected a duration string like "24h". The API silently interpreted it as a duration, returning results for a completely different time window than intended. 2. Inclusive vs Exclusive Range — The agent sent end=100 meaning "up to and including 100," but the API interpreted it as exclusive, missing the boundary value. Off-by-one at the API contract level. 3. Array vs Comma-Separated String — The agent sent ["a", "b", "c"] where the API expected "a,b,c". Some APIs parsed the JSON array as a single string; others silently took only the first element. 4. Relative Time vs Unix Timestamp — The agent sent "yesterday" where a Unix timestamp was expected. The API tried to parse it as an integer, got NaN, and... just returned empty results instead of erroring. The most dangerous thing about these failures is that they look identical to correct results. The API returns 200 OK with a plausible response body. You only notice when you dig into whether the answer is right, not whether the call succeeded. This is fundamentally different from hallucination — it's not the model making things up, it's the model asking slightly different questions than the one you intended, and the tool happily answering the wrong question. I've started adding input validation schemas to my tool definitions that catch type mismatches before execution, and it's already caught several that would have silently propagated wrong data downstream. Has anyone else run into this pattern? What's your strategy for catching silent parameter mismatches in production agent systems?
 
-7h ago
-
----
-
-**[A federal judge ruled AI chats have no attorney-client privilege. A CEO's deleted ChatGPT conversations were recovered and used against him in court. On the same day, a different judge ruled the opposite.](https://www.reddit.com/r/artificial/comments/1st4y15/a_federal_judge_ruled_ai_chats_have_no/)**
-
-A federal judge ruled that your AI conversations can be seized and used against you in court — and deleting them doesn't help. **The Heppner case (February 2026):** - Former CEO Bradley Heppner used Claude to prep his fraud defense - Judge Jed Rakoff ordered him to surrender 31 AI-generated documents - Ruling: no attorney-client privilege exists "or could exist" between a user and an AI platform **The Krafton case:** - A CEO used ChatGPT to plan how to avoid paying promised earnout payments - He deleted the conversations - The court recovered them anyway and reversed his decisions **The contradiction:** - Same day as Rakoff's ruling, a Michigan judge reached the opposite conclusion - Protected a woman's ChatGPT chats as personal "work product" - A Colorado court later sided with Michigan but added: you must disclose which AI tool you used **The fallout:** - 12+ major law firms have issued client AI warnings - Sher Tremonte added contract clauses that sharing privileged info with AI waives privilege - Both OpenAI and Anthropic privacy policies explicitly allow sharing user data with third parties - $145,000+ in sanctions against attorneys for AI citation errors in Q1 2026 alone **The bottom line:** - Your AI is not your lawyer and never was - Deleting chats doesn't delete the data from their servers - Consumer AI (ChatGPT, Claude, Gemini) should not be used for legal matters unless directed by counsel Full breakdown with source links → https://synvoya.com/blog/2026-04-23-ai-chats-court-evidence/ Have you ever typed something into ChatGPT that you wouldn't want a judge to read?
-
-22h ago
+4h ago
 
 ---
 
@@ -81,7 +65,15 @@ A federal judge ruled that your AI conversations can be seized and used against 
 
 : Hackpocalypse deferred
 
-🔗 [theregister.com](https://www.theregister.com/2026/04/22/anthropic_mythos_hype_nothingburger/) • 7h ago
+🔗 [theregister.com](https://www.theregister.com/2026/04/22/anthropic_mythos_hype_nothingburger/) • 11h ago
+
+---
+
+**[Meta to Lay Off 10 Percent of Work Force in A.I. Push (Gift Article)](https://www.reddit.com/r/artificial/comments/1strw2k/meta_to_lay_off_10_percent_of_work_force_in_ai/)**
+
+The layoffs affect about 8,000 employees, with Meta also planning to close 6,000 open roles, as the company focuses on artificial intelligence.
+
+🔗 [nytimes.com](https://www.nytimes.com/2026/04/23/technology/meta-layoffs.html?unlocked_article_code=1.dFA.gzUD.VhYyqwKYrZpC&smid=nytcore-ios-share) • 9h ago
 
 ---
 
@@ -89,23 +81,31 @@ A federal judge ruled that your AI conversations can be seized and used against 
 
 Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.
 
-🔗 [OpenAI](https://openai.com/index/introducing-gpt-5-5/) • 3h ago
+🔗 [OpenAI](https://openai.com/index/introducing-gpt-5-5/) • 6h ago
 
 ---
 
-**[Gemini vs Grok: Playing Towers of Annoy](https://www.reddit.com/r/artificial/comments/1stp093/gemini_vs_grok_playing_towers_of_annoy/)**
+**[Anthropic told a federal court it can't control its own model once deployed. That honest sentence changes the liability conversation.](https://www.reddit.com/r/artificial/comments/1sthpl8/anthropic_told_a_federal_court_it_cant_control/)**
 
-LLMs were asked to write a Python 3.10 client that plays a two-player adversarial variant of the Towers of Hanoi. Rules: Hero moves a disk; Villain must immediately move that same disk to an adjacent tower (or pass if no legal move). Hero's budget is 2^m + 1 moves — barely more than the 2^m - 1 solo optimum, so almost any wasted move loses. Round-robin tournament with penalty-shootout matchups: up to 5 rounds (+ sudden death), 2 simultaneous games per round with hero/villain roles swapped. Round configs grow from 4 towers / 3 disks up to 12 towers / 7 disks. Full writeup
+In federal appeals court, Anthropic made a striking argument: once Claude is deployed on a customer's infrastructure (like the Pentagon's network), they cannot alter, update, or recall it. The Pentagon wants autonomous lethal action restrictions removed — and Anthropic says they have no mechanism to enforce those restrictions post-deployment. This is the first time a major AI lab has formally stated under oath that post-deployment control is effectively zero. The implications are bigger than most coverage suggests. The governance gap this reveals: Current AI governance assumes a control chain that doesn't actually exist: Model cards are pre-sale documents. They describe what the model was trained to do, not what it's capable of in the wild after fine-tuning, tool integration, and deployment context changes. Human-in-the-loop is a customer config, not a vendor guarantee. Anthropic can recommend oversight, but they just told a court they can't enforce it. Liability frameworks assume control that doesn't exist post-shipment. If you sell a car with a recall mechanism, you're liable for not using it. If you sell a model you can't recall, does that reduce your liability (you had no control) or increase your duty of disclosure before sale (you knew you'd have no control later)? The behavioral envelope question: If you can't recall the model, you need to disclose the maximum capability, not just the recommended use. Current model cards document aspirations. They don't document envelopes — what the model can actually produce under adversarial or edge conditions. This mirrors pharmaceutical regulation: if you can't pull a drug off shelves, the FDA requires much stronger pre-market evidence and broader contraindication labeling. The stricter the post-market control limitations, the higher the pre-market disclosure burden. Why this matters even if you don't care about military AI: The legal argument Anthropic is making applies everywhere. If "we can't control it after deployment" works for the Pentagon, it works for any enterprise customer. Every organization deploying Claude (or any model) is implicitly accepting residual risk that the vendor has explicitly said they cannot mitigate. The core question: if a vendor demonstrates in court that it truly cannot alter a deployed model, should that argument reduce its liability (it had no control) or increase its duty of disclosure before sale (it will have no control later)?
 
-6h ago
+15h ago
 
 ---
 
-**[I gave an AI a CT Scan While It Listened to an Emotional Conversation [R]](https://www.reddit.com/r/artificial/comments/1stsn1e/i_gave_an_ai_a_ct_scan_while_it_listened_to_an/)**
+**[AI might save my life and has let me do 8 things I would not have done otherwise](https://www.reddit.com/r/artificial/comments/1stny9s/ai_might_save_my_life_and_has_let_me_do_8_things/)**
 
-I created an [Activation Lab](https://github.com/cstefanache/llmct) tool that can be seen as an MRI machine for AI. It captures snapshots of every single layer inside a language model while it processes a conversation. It allows you to fully understand what is happening, inside a neural network during generation by capturing all internal states of the layers of an LLM and takes snapshots for interpretability. First experiment: I fed Qwen 2.5 (3B) a 20-turn conversation where the user swings wildly between joy, fear, anger, sadness, apathy, and peace. At every turn, I scanned the AI's internal state and compared it against emotional fingerprints. Here's what I found: The AI has an emotional backbone. The residual stream - the main information highway, maintains 0.83–0.88 cosine similarity to emotional references at all times. It always knows the emotional temperature of the conversation. Emotions are sharpest at layers 29–33. Early layers detect that emotion exists. Middle layers sort positive from negative. But it's the deep layers where the network actually decides "this is joy, not sadness." Layer 31 is the single most discriminative layer in the entire network. The AI has a built-in shock absorber. When the user is emotionally intense, the assistant's internal state shifts toward that emotion, but never all the way. The gap is consistent: \~0.03 on the backbone, \~0.13 on the deeper processing centers. It acknowledges your feelings while staying calm. Nobody trained it to do this explicitly. It learned it. Joy is the default setting. Even during angry and sad turns, the joy reference scored highest. Instruction tuning didn't just make the model helpful, it shifted its entire internal geometry toward positivity. Emotional memory fades. First message: 0.90 cosine with its matching emotion. By message 19: only 0.67–0.73. Longer conversations dilute the signal.
+Today I have done all these in about 5 hours analysed my blood test results for the last 20 years reviewed whole health action plan for review with doctor produced charts from that data which clearly shows direction of travel and reveals information hidden in the data wrote a mini screen saver thing which shows me the top AI art on Reddit built an entire marketing program for a book I am launching built a web page to support the program built a press release for the book got a list of all key contacts in local media and bookshops - with email addresses and frequently actual names. [EDIT, forgot this one] Made a Star Trek LCARS home page for the 50 odd regular links I use and hooked it into the database where I keep the list. Now, I could have done all that myself, but it would have taken a week. Crucially I *would not have bothered * I would not have seen the results as worth the effort. So, (a) I have been more productive (b) I have done stuff I never would have done without AI
 
-4h ago
+11h ago
+
+---
+
+**[A federal judge ruled AI chats have no attorney-client privilege. A CEO's deleted ChatGPT conversations were recovered and used against him in court. On the same day, a different judge ruled the opposite.](https://www.reddit.com/r/artificial/comments/1st4y15/a_federal_judge_ruled_ai_chats_have_no/)**
+
+A federal judge ruled that your AI conversations can be seized and used against you in court — and deleting them doesn't help. **The Heppner case (February 2026):** - Former CEO Bradley Heppner used Claude to prep his fraud defense - Judge Jed Rakoff ordered him to surrender 31 AI-generated documents - Ruling: no attorney-client privilege exists "or could exist" between a user and an AI platform **The Krafton case:** - A CEO used ChatGPT to plan how to avoid paying promised earnout payments - He deleted the conversations - The court recovered them anyway and reversed his decisions **The contradiction:** - Same day as Rakoff's ruling, a Michigan judge reached the opposite conclusion - Protected a woman's ChatGPT chats as personal "work product" - A Colorado court later sided with Michigan but added: you must disclose which AI tool you used **The fallout:** - 12+ major law firms have issued client AI warnings - Sher Tremonte added contract clauses that sharing privileged info with AI waives privilege - Both OpenAI and Anthropic privacy policies explicitly allow sharing user data with third parties - $145,000+ in sanctions against attorneys for AI citation errors in Q1 2026 alone **The bottom line:** - Your AI is not your lawyer and never was - Deleting chats doesn't delete the data from their servers - Consumer AI (ChatGPT, Claude, Gemini) should not be used for legal matters unless directed by counsel Full breakdown with source links → https://synvoya.com/blog/2026-04-23-ai-chats-court-evidence/ Have you ever typed something into ChatGPT that you wouldn't want a judge to read?
+
+1d ago
 
 ---
 
@@ -113,7 +113,7 @@ I created an [Activation Lab](https://github.com/cstefanache/llmct) tool that ca
 
 I’ve spent more than two years building an agentic AI platform, working daily with GPT, Claude, and lately Gemini LLM models in real-world production code. They’re powerful; but if you watch closely, you’ll see something unsettling. They don’t just write bad code. They write our code. And that should worry you. This is what I realized in the mirror we trained.
 
-1h ago
+5h ago
 
 ---
 
@@ -121,63 +121,63 @@ I’ve spent more than two years building an agentic AI platform, working daily 
 
 ## Google News: "ai"
 
-**[A group of users leaked Anthropic's AI model Mythos by reportedly guessing where it was located](https://fortune.com/2026/04/23/anthropic-mythos-leak-dario-amodei-ceo-cybersecurity-hackers-exploits-ai/)**
-
-Anthropic’s model was reportedly accessed by a handful of users in an online forum.
-
-Fortune • 8h ago
-
----
-
-**[Anthropic’s New Mythos A.I. Model Sets Off Global Alarms](https://www.nytimes.com/2026/04/22/technology/anthropics-mythos-ai.html)**
-
-The New York Times • 1d ago
-
----
-
-**[The Guardian view on Anthropic’s Claude Mythos: when AI finds every flaw, who controls the internet? | Editorial](https://www.theguardian.com/commentisfree/2026/apr/23/the-guardian-view-on-anthropics-claude-mythos-when-ai-finds-every-flaw-who-controls-the-internet)**
-
-Editorial: Tech can scale cyber-attacks and defences alike, raising questions about private power, public risk and the future of a shared internet
-
-The Guardian • 6h ago
-
----
-
 **[Meta to cut 10% of staff as it pours billions into AI](https://www.cnn.com/2026/04/23/tech/meta-layoffs-10-percent-staff-ai)**
 
 Meta said on Thursday it plans to lay off roughly 10% of its workforce, or about 8,000 people, the latest in a string of tech industry layoffs fueled in part by artificial intelligence.
 
-CNN • 4h ago
+CNN • 7h ago
 
 ---
 
-**[Meta will cut 10% of workforce as company pushes deeper into AI](https://www.cnbc.com/2026/04/23/meta-will-cut-10percent-of-workforce-as-it-pushes-more-into-ai.html)**
+**[Meta to Lay Off 10 Percent of Work Force in A.I. Push](https://www.nytimes.com/2026/04/23/technology/meta-layoffs.html)**
 
-Meta plans to lay off 10% of its workforce, equaling about 8,000 employees, as the company continues to ramp up investments in artificial intelligence.
+The layoffs affect about 8,000 employees, with Meta also planning to close 6,000 open roles, as the company focuses on artificial intelligence.
 
-CNBC • 6h ago
-
----
-
-**[Parents Can Now See What Their Kids Are Asking Meta AI About](https://www.cnet.com/tech/services-and-software/parents-can-see-topics-their-teens-are-asking-meta-ai-about/)**
-
-The company adds a feature that will reveal what topics teens delve into with AI on Facebook, Instagram and WhatsApp.
-
-CNET • 2h ago
+The New York Times • 7h ago
 
 ---
 
-**[OpenAI Unveils Its New, More Powerful GPT-5.5 Model](https://www.nytimes.com/2026/04/23/technology/openai-new-model.html)**
+**[Behind Meta’s Huge Layoffs Is a Relentless Shift Toward AI](https://www.wsj.com/tech/ai/behind-metas-huge-layoffs-is-a-relentless-shift-toward-ai-97d99b54)**
 
-The New York Times • 6h ago
+WSJ • 1h ago
 
 ---
 
-**[Making ChatGPT better for clinicians](https://openai.com/index/making-chatgpt-better-for-clinicians/)**
+**[Grok tells researchers pretending to be delusional ‘drive an iron nail through the mirror while reciting Psalm 91 backwards’](https://www.theguardian.com/technology/2026/apr/24/musk-grok-x-ai-researchers-delusional-advice-inputs)**
 
-OpenAI makes ChatGPT for Clinicians free for verified U.S. physicians, nurse practitioners, and pharmacists, supporting clinical care, documentation, and research.
+Elon Musk’s AI chatbot ‘extremely validating’ of delusional inputs and often went further, ‘elaborating new material’, study finds
 
-OpenAI • 1d ago
+The Guardian • 1h ago
+
+---
+
+**['Clearly me': AI drama accused of stealing faces](https://www.yahoo.com/news/articles/clearly-ai-drama-accused-stealing-025433056.html)**
+
+Christine Li is a model and influencer, but not an actor, so when she saw herself playing a cruel character in a Chinese microdrama she felt bewildered, then angry and afraid.Li worries that the saga ...
+
+Yahoo • 1h ago
+
+---
+
+**[SpaceX AI: Musk Is Chasing the Smart Money With $60 Billion Cursor Deal](https://www.bloomberg.com/opinion/articles/2026-04-24/spacex-ai-musk-is-chasing-the-smart-money-with-60-billion-cursor-deal)**
+
+Bloomberg.com • 28m ago
+
+---
+
+**[OpenAI announces GPT-5.5, its latest artificial intelligence model](https://www.cnbc.com/2026/04/23/openai-announces-latest-artificial-intelligence-model.html)**
+
+The model is better at coding, using computers and pursuing deeper research capabilities, OpenAI says.
+
+CNBC • 9h ago
+
+---
+
+**[Introducing GPT-5.5](https://openai.com/index/introducing-gpt-5-5/)**
+
+Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.
+
+OpenAI • 6h ago
 
 ---
 
@@ -185,15 +185,15 @@ OpenAI • 1d ago
 
 Over 10,000 NVIDIANs across functions got early access to OpenAI’s latest frontier model, GPT-5.5. The results, one engineer said, are “blowing my mind.”
 
-NVIDIA Blog • 5h ago
+NVIDIA Blog • 8h ago
 
 ---
 
-**[White House warns of 'industrial-scale' efforts in China to rip off U.S. AI tech](https://www.cnbc.com/2026/04/23/trump-china-ai-technology.html)**
+**[Texas Instruments' stock jumps 19% for best day since 2000 as AI demand soars](https://www.cnbc.com/2026/04/23/texas-instruments-stock-soars-on-q1-earnings-as-ai-demand-jumps.html)**
 
-The U.S. government has previously accused China of targeting American AI technology and intellectual property.
+Texas Instruments beat on earnings and revenue and gave upbeat guidance.
 
-CNBC • 6h ago
+CNBC • 9h ago
 
 ---
 
@@ -203,13 +203,13 @@ CNBC • 6h ago
 
 **[Meta to start capturing employee mouse movements, keystrokes for AI training](https://news.ycombinator.com/item?id=47851948)**
 
-⬆️ 789 • 💬 522 • 2d ago • [reuters.com](https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/)
+⬆️ 791 • 💬 523 • 2d ago • [reuters.com](https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/)
 
 ---
 
 **[Tell HN: I'm sick of AI everything](https://news.ycombinator.com/item?id=47857461)**
 
-⬆️ 337 • 💬 190 • 1d ago
+⬆️ 339 • 💬 191 • 2d ago
 
 ---
 
@@ -239,7 +239,15 @@ High-performance AI gateway written in Go - unified OpenAI-compatible API for Op
 
 How Ars Technica uses, and doesn't use, generative AI.
 
-⬆️ 181 • 💬 123 • 18h ago • [Ars Technica](https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/)
+⬆️ 190 • 💬 125 • 22h ago • [Ars Technica](https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/)
+
+---
+
+**[MeshCore development team splits over trademark dispute and AI-generated code](https://news.ycombinator.com/item?id=47878117)**
+
+Migrating to the new meshcore.io site
+
+⬆️ 177 • 💬 100 • 11h ago • [blog.meshcore.io](https://blog.meshcore.io/2026/04/23/the-split)
 
 ---
 
@@ -248,14 +256,6 @@ How Ars Technica uses, and doesn't use, generative AI.
 Nial – Knowledge work and artificial intelligence.
 
 ⬆️ 158 • 💬 168 • 2d ago • [nial.se](https://nial.se/blog/less-human-ai-agents-please/)
-
----
-
-**[MeshCore development team splits over trademark dispute and AI-generated code](https://news.ycombinator.com/item?id=47878117)**
-
-Migrating to the new meshcore.io site
-
-⬆️ 125 • 💬 70 • 7h ago • [blog.meshcore.io](https://blog.meshcore.io/2026/04/23/the-split)
 
 ---
 
@@ -285,7 +285,7 @@ sponsored Build with Softr ...
 
 📺 AI Master
 
-👁️ 8K • 👍 222 • 💬 27 • ⏱️ 21:44 • 7h ago
+👁️ 11K • 👍 261 • 💬 29 • ⏱️ 21:44 • 11h ago
 
 ---
 
@@ -295,45 +295,7 @@ Rogue researchers are telling the truth about AI Depth vs breadth: https://x.com
 
 📺 Mo Bitar
 
-👁️ 115K • 👍 10K • 💬 2K • ⏱️ 9:06 • 7h ago
-
----
-
-**[Day 1 of The 2026 AI Advantage Summit](https://www.youtube.com/watch?v=1N2TXfy5FAg)**
-
-📺 Dean Graziosi
-
-👁️ 353K • 👍 13K • 💬 39 • ⏱️ 4:19:20 • 2h ago
-
----
-
-**[AI Has Officially Reached &#39;The Point of No Return&#39;…](https://www.youtube.com/watch?v=JxxJi0jMqi0)**
-
-Smalls: Get 60% off your first order + FREE shipping & FREE treats for life at https://smalls.com/ICED Episode Link ...
-
-📺 The Iced Coffee Hour Clips
-
-👁️ 5K • 👍 68 • 💬 31 • ⏱️ 9:25 • 1d ago
-
----
-
-**[AI agent runs real San Francisco storefront, hires human employees](https://www.youtube.com/watch?v=gNN5DpYq4_E)**
-
-AI-run San Francisco store “Luna” has created job listings, interviewed candidates and hired staff. Mike Muse explains the ...
-
-📺 ABC News
-
-👁️ 3K • 👍 26 • 💬 12 • ⏱️ 3:18 • 1d ago
-
----
-
-**[I Tried Every FREE AI Video Generator in 2026 (use this)](https://www.youtube.com/watch?v=8RGrKD_HwrQ)**
-
-I compared every Free AI Video Generator, use this Hey Friends :)) I've spent two weeks testing every single free video generator ...
-
-📺 Skai Generated
-
-👁️ 7K • ⏱️ 9:06 • 8h ago
+👁️ 179K • 👍 13K • 💬 2K • ⏱️ 9:06 • 11h ago
 
 ---
 
@@ -343,37 +305,75 @@ Roman Yampolskiy explains why superintelligence cannot be controlled, why the ga
 
 📺 Future of Life Institute
 
-👁️ 5K • 👍 240 • 💬 65 • ⏱️ 19:17 • 10h ago
+👁️ 7K • 👍 291 • 💬 73 • ⏱️ 19:17 • 13h ago
 
 ---
 
-**[New AI image generator BEATS EVERYTHING](https://www.youtube.com/watch?v=TLFPbMUtErM)**
+**[Day 1 of The 2026 AI Advantage Summit](https://www.youtube.com/watch?v=1N2TXfy5FAg)**
 
-ChatGPT Images 2.0 review. GPT Image 2.0 vs Nano Banana. #ai #aiart #aitools #imagegenerator #agi Thanks to our sponsor ...
+📺 Dean Graziosi
 
-📺 AI Search
-
-👁️ 84K • 👍 3K • 💬 644 • ⏱️ 35:20 • 1d ago
+👁️ 406K • 👍 13K • 💬 90 • ⏱️ 4:19:20 • 6h ago
 
 ---
 
-**[The Palantir Manifesto&#39;s Controversial Ideas on AI, Surveillance &amp; Autonomous Weapons | DW News](https://www.youtube.com/watch?v=5MEooDH6XpU)**
+**[AI Has Officially Reached &#39;The Point of No Return&#39;…](https://www.youtube.com/watch?v=JxxJi0jMqi0)**
 
-Data giant Palantir - founded by Peter Thiel and Alex Karp - has shared its vision for the future of US tech. The statement is ...
+Smalls: Get 60% off your first order + FREE shipping & FREE treats for life at https://smalls.com/ICED Episode Link ...
 
-📺 DW News
+📺 The Iced Coffee Hour Clips
 
-👁️ 7K • 👍 219 • 💬 48 • ⏱️ 5:35 • 7h ago
+👁️ 5K • 👍 71 • 💬 31 • ⏱️ 9:25 • 1d ago
 
 ---
 
-**[A.I MAGA Bot Net Floods Social Media! Real Influencers BAIL on Trump!](https://www.youtube.com/watch?v=xDIhs0Z2aB4)**
+**[Google Announces Gemini Enterprise Agent Platform: The Future of Agentic AI](https://www.youtube.com/watch?v=3wMwdzxIyN0)**
 
-Get The Made in the USA, Veteran Owned, Zero-Sugar Energy Gum https://strikegum.com/ Podcast now on Spotify ...
+Google is in its agentic Gemini era. Hear from CEO of Google and Alphabet Sundar Pichai on how Google is customer zero of its ...
 
-📺 Combat Veteran News
+📺 Google Cloud
 
-👁️ 34K • 👍 3K • 💬 616 • ⏱️ 24:30 • 23h ago
+👁️ 42K • 👍 1K • ⏱️ 5:38 • 9h ago
+
+---
+
+**[I Tried Every FREE AI Video Generator in 2026 (use this)](https://www.youtube.com/watch?v=8RGrKD_HwrQ)**
+
+I compared every Free AI Video Generator, use this Hey Friends :)) I've spent two weeks testing every single free video generator ...
+
+📺 Skai Generated
+
+👁️ 9K • ⏱️ 9:06 • 12h ago
+
+---
+
+**[The Dirty Secret Behind AI Data Centers No One Wants to Talk About](https://www.youtube.com/watch?v=Ij_qlW5x2-o)**
+
+Ramageddon” is here: AI data centers are hoarding up to 70% of global DRAM, sending DDR5 prices soaring, distorting console ...
+
+📺 Valuetainment
+
+👁️ 211K • 👍 9K • 💬 544 • ⏱️ 12:41 • 2d ago
+
+---
+
+**[Reacting To My OWN AI VIDEOS..](https://www.youtube.com/watch?v=T0ZkvbZe9Dw)**
+
+Today I reacted to my own AI videos! Make sure you watch the whole video to find out what happens. Merch: https://foltyn.shop/ ...
+
+📺 Foltyn
+
+👁️ 712K • 👍 27K • 💬 3K • ⏱️ 13:36 • 1d ago
+
+---
+
+**[The AI Bubble Has ALREADY Burst?](https://www.youtube.com/watch?v=_F-OyvxoQMg)**
+
+Has the AI bubble already burst? Some analysts think so, but the effect will be slow -- quietly canceled data centers, rehiring ...
+
+📺 Clownfish TV
+
+👁️ 44K • 👍 3K • 💬 597 • ⏱️ 20:53 • 21h ago
 
 ---
 
@@ -389,7 +389,19 @@ Kimi K2.6 is a 1T parameter multimodal agentic model excelling in long-horizon c
 
 `image-text-to-text` `1058.6B`
 
-⬇️ 125,825 • ❤️ 885 • 18h ago
+⬇️ 125,825 • ❤️ 906 • 22h ago
+
+---
+
+**[DeepSeek-V4-Pro](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro)**
+
+*DeepSeek*
+
+DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting a 1 million token context length, featuring a hybrid attention architecture for efficient long-context processing. It excels in coding and reasoning tasks, aiming to bridge the gap with closed-source models.
+
+`text-generation` `861.6B`
+
+⬇️ 0 • ❤️ 821 • 5m ago
 
 ---
 
@@ -401,7 +413,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with a vision encoder, 
 
 `image-text-to-text` `36.0B`
 
-⬇️ 717,811 • ❤️ 1,331 • 1d ago
+⬇️ 717,811 • ❤️ 1,337 • 1h ago
 
 ---
 
@@ -413,7 +425,7 @@ Qwen3.6-27B is a 27B parameter causal language model with a vision encoder, exce
 
 `image-text-to-text` `27.8B`
 
-⬇️ 23,964 • ❤️ 645 • 1d ago
+⬇️ 23,964 • ❤️ 674 • 1h ago
 
 ---
 
@@ -425,7 +437,7 @@ A bidirectional token-classification model for PII detection and masking, capabl
 
 `token-classification` `1.4B`
 
-⬇️ 1,888 • ❤️ 557 • 1d ago
+⬇️ 1,888 • ❤️ 576 • 1d ago
 
 ---
 
@@ -437,7 +449,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with vision capabilitie
 
 `image-text-to-text` `34.7B`
 
-⬇️ 1,283,534 • ❤️ 708 • 3d ago
+⬇️ 1,283,534 • ❤️ 713 • 3d ago
 
 ---
 
@@ -449,7 +461,7 @@ HY-World 2.0 is a multi-modal framework for generating and reconstructing 3D wor
 
 `image-to-3d`
 
-⬇️ 0 • ❤️ 576 • 1d ago
+⬇️ 0 • ❤️ 578 • 1d ago
 
 ---
 
@@ -461,7 +473,7 @@ This is an uncensored, aggressive multimodal model based on Qwen3.6-35B-A3B, cap
 
 `image-text-to-text` `34.7B`
 
-⬇️ 350,262 • ❤️ 399 • 6d ago
+⬇️ 350,262 • ❤️ 404 • 7d ago
 
 ---
 
@@ -473,7 +485,7 @@ Qwen3.6-27B-GGUF is a 27B parameter causal language model with vision capabiliti
 
 `image-text-to-text` `26.9B`
 
-⬇️ 131,398 • ❤️ 321 • 1d ago
+⬇️ 131,398 • ❤️ 336 • 1d ago
 
 ---
 
@@ -485,19 +497,7 @@ Gemma 4 E4B OBLITERATED v3 is a text-generation model with 0% refusal and improv
 
 `text-generation` `8.0B`
 
-⬇️ 90,064 • ❤️ 481 • 4d ago
-
----
-
-**[Qwopus-GLM-18B-Merged-GGUF](https://huggingface.co/Jackrong/Qwopus-GLM-18B-Merged-GGUF)**
-
-*Jackrong*
-
-Qwopus-GLM-18B-Merged-GGUF is a ~18B parameter text-generation model, a healed frankenmerge of two Qwen3.5-9B finetunes, optimized for 12-16GB VRAM. It excels in multilingual tasks, reasoning, tool-use, agentic workflows, and produces production-quality HTML/CSS/JS, outperforming larger models like Qwen 3.6-35B MoE on various benchmarks.
-
-`text-generation` `15.9B`
-
-⬇️ 63,745 • ❤️ 192 • 3d ago
+⬇️ 90,064 • ❤️ 484 • 4d ago
 
 ---
 
@@ -527,7 +527,7 @@ RAG-Anything is a unified framework that enhances multimodal knowledge retrieval
 
 LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from video streams using a geometric context transformer architecture with specialized attention mechanisms for coordinate grounding, dense geometric cues, and long-range drift correction, achieving stable real-time performance at 20 FPS.
 
-▲ 17 • 💬 2 • ⭐ 4,351 • 9d ago
+▲ 18 • 💬 2 • ⭐ 4,351 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.14141) • [💻 code](https://github.com/robbyant/lingbot-map) • [🔗 project](https://technology.robbyant.com/lingbot-map)
 
@@ -553,7 +553,7 @@ GenericAgent is a self-evolving large language model agent system that maximizes
 
 Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-▲ 24 • 💬 1 • ⭐ 20,707 • 8mo ago
+▲ 25 • 💬 1 • ⭐ 20,896 • 8mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
@@ -604,7 +604,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 165 • 💬 10 • ⭐ 40,809 • 8mo ago
+▲ 165 • 💬 10 • ⭐ 40,854 • 8mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -631,7 +631,7 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 LLaDA2.0-Uni is a unified discrete diffusion language model that integrates multimodal understanding and generation through a semantic discrete tokenizer, MoE-based backbone, and diffusion decoder, achieving performance comparable to specialized vision-language models while enabling efficient inference and high-fidelity image generation.
 
-▲ 208 • 💬 1 • ⭐ 98 • 2d ago
+▲ 214 • 💬 2 • ⭐ 98 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.20796) • [💻 code](https://github.com/inclusionAI/LLaDA2.0-Uni)
 
@@ -647,7 +647,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 49.3k • 🔱 6.5k • 1h ago
+⭐ 49.3k • 🔱 6.5k • 4m ago
 
 ---
 
@@ -657,7 +657,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 44.7k • 🔱 2.3k • 5d ago
+⭐ 44.9k • 🔱 2.3k • 5d ago
 
 ---
 
@@ -667,7 +667,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 38.9k • 🔱 7.9k • 2d ago
+⭐ 39.0k • 🔱 7.9k • 2d ago
 
 ---
 
@@ -677,7 +677,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 33.7k • 🔱 3.7k • 5h ago
+⭐ 33.8k • 🔱 3.7k • 8h ago
 
 ---
 
@@ -687,17 +687,7 @@ A theoretical reconstruction of the Claude Mythos architecture, built from first
 
 `Python` `ai` `anthropic` `attention` `claude` `claude-ai`
 
-⭐ 9.7k • 🔱 2.1k • 1d ago
-
----
-
-**[larksuite/cli](https://github.com/larksuite/cli)**
-
-The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills.
-
-`Go`
-
-⭐ 8.6k • 🔱 554 • 6h ago
+⭐ 9.8k • 🔱 2.1k • 1d ago
 
 ---
 
@@ -707,7 +697,7 @@ The official Lark/Feishu CLI tool, maintained by the larksuite team — built fo
 
 `Python`
 
-⭐ 5.9k • 🔱 997 • 15h ago
+⭐ 6.0k • 🔱 1.0k • 19h ago
 
 ---
 
@@ -721,23 +711,33 @@ AI Agent 源码深度研究报告
 
 ---
 
-**[elder-plinius/G0DM0D3](https://github.com/elder-plinius/G0DM0D3)**
-
-LIBERATED AI CHAT
-
-`TypeScript`
-
-⭐ 5.3k • 🔱 1.2k • 28d ago
-
----
-
 **[therealXiaomanChu/ex-skill](https://github.com/therealXiaomanChu/ex-skill)**
 
 把前任蒸馏成 AI Skill，用ta的方式跟你说话。
 
 `Python`
 
-⭐ 4.7k • 🔱 461 • 15d ago
+⭐ 4.8k • 🔱 462 • 15d ago
+
+---
+
+**[yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph)**
+
+Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.
+
+`Python`
+
+⭐ 4.3k • 🔱 379 • 3d ago
+
+---
+
+**[TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox)**
+
+Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
+
+`Rust` `agents` `container` `sandbox`
+
+⭐ 3.5k • 🔱 223 • 1m ago
 
 ---
 
