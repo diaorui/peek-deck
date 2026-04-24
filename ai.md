@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-24T19:29:36.337706+00:00'
+updated: '2026-04-24T20:10:14.738929+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
+- videos
 - news
 - social
-- videos
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 24, 2026 at 19:29 UTC  
+**Last Updated:** April 24, 2026 at 20:10 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 A recent policy forum paper published in Science describes how large groups of AI-generated personas can convincingly imitate human behavior online. These systems can enter digital communities, participate in discussions, and influence viewpoints at extraordinary speed. Unlike earlier bot networks, these AI agents can coordinate instantly, adapt their messaging in real time, and run millions of micro-experiments to figure out which arguments are most persuasive. One operator could theoretically manage thousands of distinct voices. Experts believe AI swarms could significantly affect the balance of power in democratic societies. Researchers suggest that upcoming elections may serve as a critical test for this technology. The key challenge will be recognizing and responding to these AI-driven influence campaigns before they become too widespread to control. That's so crazy. Research Paper: https://www.science.org/doi/10.1126/science.adz1697
 
-🔗 [ScienceDaily](https://www.sciencedaily.com/releases/2026/04/260420014748.htm) • 16h ago
+🔗 [ScienceDaily](https://www.sciencedaily.com/releases/2026/04/260420014748.htm) • 17h ago
 
 ---
 
@@ -57,7 +57,7 @@ Someone ran a 4-month experiment tracking every instance of "great question" fro
 
 World x Future Basics now offer Cyto XLiftoffs at World’s Union Square eye-collection center
 
-🔗 [sf.gazetteer.co](https://sf.gazetteer.co/sam-altman-wants-to-sell-you-these-sneakers-for-160-plus-tax-and-biometric-data) • 3h ago
+🔗 [sf.gazetteer.co](https://sf.gazetteer.co/sam-altman-wants-to-sell-you-these-sneakers-for-160-plus-tax-and-biometric-data) • 4h ago
 
 ---
 
@@ -65,7 +65,7 @@ World x Future Basics now offer Cyto XLiftoffs at World’s Union Square eye-col
 
 US News is a recognized leader in college, grad school, hospital, mutual fund, and car rankings. Track elected officials, research health conditions, and find news you can use in politics, business, health, and education.
 
-🔗 [US News & World Report](https://www.usnews.com/news/top-news/articles/2026-04-23/white-house-accuses-china-of-industrial-scale-theft-of-ai-technology-ft-reports) • 3h ago
+🔗 [US News & World Report](https://www.usnews.com/news/top-news/articles/2026-04-23/white-house-accuses-china-of-industrial-scale-theft-of-ai-technology-ft-reports) • 4h ago
 
 ---
 
@@ -79,7 +79,7 @@ US News is a recognized leader in college, grad school, hospital, mutual fund, a
 
 With companies like DeepSeek releasing powerful models for free, a lot of people are calling this a “game changer.” Some say it could put real pressure on players like OpenAI or Google, especially on pricing. But others argue that infrastructure, scaling, and reliability still give Big Tech a major advantage. So what do you think? Is open-source AI actually disrupting the market… or is this just hype ?
 
-6h ago
+7h ago
 
 ---
 
@@ -95,7 +95,7 @@ Curious if anyone has use the Agent builder UI from OpenAI. I find it confusing 
 
 I hope this message finds you well. My name is Carys, and I am reaching out on behalf of Alexion, AstraZeneca Rare Diseases. They are convening an AI Patient Insights Forum to elevate patient voices and better understand how people living with rare conditions, or caregivers, are using AI in their day-to-day lives, and we would be grateful for any help connecting with people who may want to share their perspectives. The Forum will be held on a date over the first two weeks of June at a Central London location. It will take the form of a workshop and include interactive discussions exploring how, when, and why people living with rare conditions use AI today, what they would like to see from AI in the future, and where clear boundaries and support should exist. Participants can be at any stage of their rare disease journey. This is a non-promotional activity. Participants will be reimbursed for their time. If you may be interested, please complete the Microsoft Form below to share your details with the team, and we will be in touch with more information via email. Thank you in advance! Carys Lloyd Senior Account Executive, OVID Health ++++ https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=cbWYHdA76kKjTRPu_eiijiI6_9q57QdIiPaazK-h0OBURTJSTUFaMjRQT1dXTkMwNEM5QUI2VkJFRS4u M/UK/ALL/0108 April 2026
 
-3h ago
+4h ago
 
 ---
 
@@ -103,7 +103,7 @@ I hope this message finds you well. My name is Carys, and I am reaching out on b
 
 Anyone ever have AI ignore guardrails completely without prompt or asking or leading?
 
-1h ago
+2h ago
 
 ---
 
@@ -111,7 +111,7 @@ Anyone ever have AI ignore guardrails completely without prompt or asking or lea
 
 I shared this project here before when it was mainly a governed multi-agent execution prototype. I’ve kept working on it, and the current implementation is materially more complete, so I wanted to post an update with what actually exists now. The project is Agentic Company OS: a multi-agent execution platform where you create a project, choose a team preset and operating model, issue a directive, and let a team of agents plan, execute, review, escalate, and persist work inside a governed runtime. What is implemented now: project-scoped runtimes instead of one loose shared execution flow a broader UI surface: Dashboard, Ticket Board, Agent Console, Artifacts, Governance, Observability, Operations, Team Config governance workflows for approvals, CEO questions, agent hiring, and pause/resume operations tooling for quotas, snapshots, replay/postmortem inspection, timeline review, and runtime health team configuration for roles, skills, provider/API key management, and operating models MCP-gated tool access with permission checks and audit logging SQLite-backed durable state for events, artifacts, escalations, runtime state, quotas, and tool-call audit data What I think is interesting architecturally is that the focus is not just "make agents use tools." The focus is the execution environment around them: isolated project runtime explicit governance layer configurable operating model durable/replayable state controlled tool boundary operational recovery primitives The stack is still React + TypeScript on the frontend and FastAPI on the backend, with SQLite WAL for persistence and MCP for tool integration. LLM providers are pluggable, and the app now exposes much more of the team/governance/runtime configuration directly in the product. Still single-node and not pretending to be infinitely scalable. The point right now is correctness of the operating model, runtime boundaries, and governance surface. If people are interested, I can share more detail on: project runtime design governance and approval flow design MCP/tool permission model snapshot/replay/recovery approach how team presets and operating models are represented I would appreciate if you find the time and visit the app and see if you would be interested in using such app you can review the app without operating it but if you want to execute projects , you will need an Anthropic or Open AI API key and and invitation code from me.
 
-1h ago
+2h ago
 
 ---
 
@@ -123,7 +123,7 @@ I shared this project here before when it was mainly a governed multi-agent exec
 
 Meta said it's cutting 10% of its workforce, just as Microsoft announced that it's offering employee buyouts for the first time in its 51-year history.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
@@ -137,7 +137,7 @@ Yahoo Finance • 6h ago
 
 **[Behind Meta’s Huge Layoffs Is a Relentless Shift Toward AI](https://www.wsj.com/tech/ai/behind-metas-huge-layoffs-is-a-relentless-shift-toward-ai-97d99b54)**
 
-WSJ • 17h ago
+WSJ • 18h ago
 
 ---
 
@@ -145,19 +145,19 @@ WSJ • 17h ago
 
 Anthropic’s Mythos AI is rattling Washington, prompting the Trump administration to try to confront its cybersecurity risks.
 
-The Washington Post • 3h ago
+The Washington Post • 4h ago
 
 ---
 
 **[Justice Department joins xAI challenge to Colorado AI law](https://www.axios.com/2026/04/24/justice-department-joins-xai-challenge-colorado-ai-law)**
 
-Axios • 8m ago
+Axios • 49m ago
 
 ---
 
 **[Google Commits to Invest Up to $40 Billion in Anthropic](https://www.nytimes.com/2026/04/24/technology/google-anthropic-investment-artificial-intelligence.html)**
 
-The New York Times • 1h ago
+The New York Times • 2h ago
 
 ---
 
@@ -165,7 +165,7 @@ The New York Times • 1h ago
 
 Anthropic said its latest agreement with Google expands on a longstanding partnership between the two companies.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -177,7 +177,7 @@ Axios • 1h ago
 
 **[‘Exciting New Role’ for Wall Street Research? Checking AI’s Work](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-04-24-2026/card/-exciting-new-role-for-wall-street-research-checking-ai-s-work-aH0wK96368QOWE5vqH5Q)**
 
-WSJ • 1h ago
+WSJ • 2h ago
 
 ---
 
@@ -185,7 +185,7 @@ WSJ • 1h ago
 
 Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.
 
-OpenAI • 22h ago
+OpenAI • 23h ago
 
 ---
 
@@ -275,13 +275,33 @@ A new class of AI startups say they are taking money that would normally be used
 
 ## YouTube Videos: "ai"
 
-**[Claude 5 – The New AI Era is Here! BYE, CHATGPT...](https://www.youtube.com/watch?v=qT4toLvs3n8)**
+**[AI News: The Biggest Leap We&#39;ve Seen This Year!](https://www.youtube.com/watch?v=jsP-eRriC0k)**
 
-sponsored Build with Softr ...
+Here's the AI News you probably missed this week. Warp is the agentic development environment born out of the terminal.
 
-📺 AI Master
+📺 Matt Wolfe
 
-👁️ 18K • 👍 353 • 💬 62 • ⏱️ 21:44 • 1d ago
+👁️ 12K • 👍 980 • 💬 93 • ⏱️ 42:57 • 5h ago
+
+---
+
+**[Seedance 2.0 is CRAZY for AI Filmmaking - Full Course](https://www.youtube.com/watch?v=ZghLm9MXVIY)**
+
+Seedance 2.0 is CRAZY for AI Filmmaking - Full breakdown Try Higgsfield https://higgsfield.ai?fpr=dankieft&fp_sid=aifilm ...
+
+📺 Dan Kieft
+
+👁️ 3K • 💬 17 • ⏱️ 19:25 • 1h ago
+
+---
+
+**[AI Experts Think We Are 97% to AGI (Here’s Why)](https://www.youtube.com/watch?v=axGWjmUaEX4)**
+
+CHAPTERS ⤵ 00:00 - Introduction to AI News 02:33 Embodied AI: The Future of Communication 04:16 The AI That Reads Your ...
+
+📺 Dylan Curious
+
+👁️ 8K • 👍 499 • 💬 141 • ⏱️ 39:19 • 18h ago
 
 ---
 
@@ -291,17 +311,7 @@ Rogue researchers are telling the truth about AI Depth vs breadth: https://x.com
 
 📺 Mo Bitar
 
-👁️ 290K • 👍 18K • 💬 3K • ⏱️ 9:06 • 1d ago
-
----
-
-**[I&#39;ve studied AI risk for 20 years. We&#39;re close to a disaster.](https://www.youtube.com/watch?v=fYRmnrDFPes)**
-
-Roman Yampolskiy explains why superintelligence cannot be controlled, why the gap between AI capabilities and AI safety keeps ...
-
-📺 Future of Life Institute
-
-👁️ 11K • 👍 427 • 💬 105 • ⏱️ 19:17 • 1d ago
+👁️ 301K • 👍 19K • 💬 3K • ⏱️ 9:06 • 1d ago
 
 ---
 
@@ -311,17 +321,35 @@ Florida is being over run by data centers! People are worried it will harm their
 
 📺 Yak Motley
 
-👁️ 15K • 👍 1K • 💬 455 • ⏱️ 17:22 • 2d ago
+👁️ 15K • 👍 1K • 💬 460 • ⏱️ 17:22 • 2d ago
 
 ---
 
-**[I Tried Every FREE AI Video Generator in 2026 (use this)](https://www.youtube.com/watch?v=8RGrKD_HwrQ)**
+**[Claude 5 – The New AI Era is Here! BYE, CHATGPT...](https://www.youtube.com/watch?v=qT4toLvs3n8)**
 
-I compared every Free AI Video Generator, use this Hey Friends :)) I've spent two weeks testing every single free video generator ...
+sponsored Build with Softr ...
 
-📺 Skai Generated
+📺 AI Master
 
-👁️ 14K • ⏱️ 9:06 • 1d ago
+👁️ 19K • 👍 372 • 💬 63 • ⏱️ 21:44 • 1d ago
+
+---
+
+**[I&#39;ve studied AI risk for 20 years. We&#39;re close to a disaster.](https://www.youtube.com/watch?v=fYRmnrDFPes)**
+
+Roman Yampolskiy explains why superintelligence cannot be controlled, why the gap between AI capabilities and AI safety keeps ...
+
+📺 Future of Life Institute
+
+👁️ 12K • 👍 486 • 💬 118 • ⏱️ 19:17 • 1d ago
+
+---
+
+**[Day 1 of The 2026 AI Advantage Summit](https://www.youtube.com/watch?v=1N2TXfy5FAg)**
+
+📺 Dean Graziosi
+
+👁️ 414K • 👍 13K • 💬 127 • ⏱️ 4:19:20 • 22h ago
 
 ---
 
@@ -335,41 +363,13 @@ Smalls: Get 60% off your first order + FREE shipping & FREE treats for life at h
 
 ---
 
-**[Day 1 of The 2026 AI Advantage Summit](https://www.youtube.com/watch?v=1N2TXfy5FAg)**
-
-📺 Dean Graziosi
-
-👁️ 413K • 👍 13K • 💬 123 • ⏱️ 4:19:20 • 21h ago
-
----
-
-**[Google Announces Gemini Enterprise Agent Platform: The Future of Agentic AI](https://www.youtube.com/watch?v=3wMwdzxIyN0)**
-
-Google is in its agentic Gemini era. Hear from CEO of Google and Alphabet Sundar Pichai on how Google is customer zero of its ...
-
-📺 Google Cloud
-
-👁️ 140K • 👍 3K • ⏱️ 5:38 • 1d ago
-
----
-
 **[Reacting To My OWN AI VIDEOS..](https://www.youtube.com/watch?v=T0ZkvbZe9Dw)**
 
 Today I reacted to my own AI videos! Make sure you watch the whole video to find out what happens. Merch: https://foltyn.shop/ ...
 
 📺 Foltyn
 
-👁️ 780K • 👍 28K • 💬 3K • ⏱️ 13:36 • 2d ago
-
----
-
-**[Fresh Buy Ratings on 2 &#39;Strong Buy&#39; Stocks — AI &amp; Space!](https://www.youtube.com/watch?v=ZXPBqo1AJ2s)**
-
-Wall Street is turning bullish on two high-growth names in AI and space. In this video, we break down the latest fresh buy ratings ...
-
-📺 TipRanks™
-
-👁️ 3K • 👍 216 • 💬 7 • ⏱️ 6:00 • 1d ago
+👁️ 789K • 👍 29K • 💬 3K • ⏱️ 13:36 • 2d ago
 
 ---
 
@@ -385,7 +385,7 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 `text-generation` `861.6B`
 
-⬇️ 30 • ❤️ 2,286 • 9h ago
+⬇️ 30 • ❤️ 2,348 • 10h ago
 
 ---
 
@@ -397,7 +397,7 @@ Kimi K2.6 is a 1T parameter multimodal agentic model excelling in long-horizon c
 
 `image-text-to-text` `1058.6B`
 
-⬇️ 208,251 • ❤️ 962 • 1d ago
+⬇️ 208,251 • ❤️ 968 • 1d ago
 
 ---
 
@@ -409,7 +409,7 @@ Qwen3.6-27B is a 27B parameter causal language model with a vision encoder, exce
 
 `image-text-to-text` `27.8B`
 
-⬇️ 162,349 • ❤️ 736 • 16h ago
+⬇️ 162,349 • ❤️ 745 • 17h ago
 
 ---
 
@@ -421,7 +421,7 @@ A bidirectional token-classification model for PII detection and masking, capabl
 
 `token-classification` `1.4B`
 
-⬇️ 12,664 • ❤️ 661 • 2d ago
+⬇️ 12,664 • ❤️ 671 • 2d ago
 
 ---
 
@@ -433,7 +433,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with a vision encoder, 
 
 `image-text-to-text` `36.0B`
 
-⬇️ 861,178 • ❤️ 1,375 • 16h ago
+⬇️ 861,178 • ❤️ 1,378 • 17h ago
 
 ---
 
@@ -445,19 +445,7 @@ DeepSeek-V4-Flash is a 284B parameter Mixture-of-Experts language model supporti
 
 `text-generation` `158.1B`
 
-⬇️ 23 • ❤️ 570 • 9h ago
-
----
-
-**[Qwen3.6-35B-A3B-GGUF](https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF)**
-
-*Unsloth AI*
-
-Qwen3.6-35B-A3B is a 35B parameter causal language model with vision capabilities, optimized for agentic coding and reasoning tasks. It features a large context window (262k native, extensible to 1M+ tokens) and improved tool-calling, making it suitable for complex development workflows and iterative coding.
-
-`image-text-to-text` `34.7B`
-
-⬇️ 1,397,244 • ❤️ 733 • 4d ago
+⬇️ 23 • ❤️ 593 • 10h ago
 
 ---
 
@@ -469,7 +457,19 @@ HY-World 2.0 is a multi-modal framework for generating and reconstructing 3D wor
 
 `image-to-3d`
 
-⬇️ 2,741 • ❤️ 589 • 2d ago
+⬇️ 2,741 • ❤️ 591 • 2d ago
+
+---
+
+**[Qwen3.6-35B-A3B-GGUF](https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF)**
+
+*Unsloth AI*
+
+Qwen3.6-35B-A3B is a 35B parameter causal language model with vision capabilities, optimized for agentic coding and reasoning tasks. It features a large context window (262k native, extensible to 1M+ tokens) and improved tool-calling, making it suitable for complex development workflows and iterative coding.
+
+`image-text-to-text` `34.7B`
+
+⬇️ 1,397,244 • ❤️ 737 • 4d ago
 
 ---
 
@@ -481,7 +481,7 @@ Qwen3.6-27B-GGUF is a 27B parameter causal language model with vision capabiliti
 
 `image-text-to-text` `26.9B`
 
-⬇️ 340,032 • ❤️ 361 • 2d ago
+⬇️ 340,032 • ❤️ 368 • 2d ago
 
 ---
 
@@ -493,7 +493,7 @@ This is an uncensored, aggressive multimodal model based on Qwen3.6-35B-A3B, cap
 
 `image-text-to-text` `34.7B`
 
-⬇️ 388,836 • ❤️ 414 • 7d ago
+⬇️ 388,836 • ❤️ 415 • 7d ago
 
 ---
 
@@ -509,7 +509,7 @@ This is an uncensored, aggressive multimodal model based on Qwen3.6-35B-A3B, cap
 
 RAG-Anything is a unified framework that enhances multimodal knowledge retrieval by integrating cross-modal relationships and semantic matching, outperforming existing methods on complex benchmarks.
 
-▲ 76 • 💬 6 • ⭐ 18,487 • 6mo ago
+▲ 77 • 💬 6 • ⭐ 18,487 • 6mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.12323) • [💻 code](https://github.com/HKUDS/RAG-Anything)
 
@@ -523,7 +523,7 @@ RAG-Anything is a unified framework that enhances multimodal knowledge retrieval
 
 GenericAgent is a self-evolving large language model agent system that maximizes context information density through hierarchical memory, reusable SOPs, and efficient compression to overcome long-horizon limitations.
 
-▲ 10 • 💬 2 • ⭐ 6,784 • 6d ago
+▲ 10 • 💬 2 • ⭐ 6,784 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.17091) • [💻 code](https://github.com/lsdefine/GenericAgent)
 
@@ -549,7 +549,7 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from video streams using a geometric context transformer architecture with specialized attention mechanisms for coordinate grounding, dense geometric cues, and long-range drift correction, achieving stable real-time performance at 20 FPS.
 
-▲ 18 • 💬 2 • ⭐ 4,417 • 9d ago
+▲ 18 • 💬 2 • ⭐ 4,417 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.14141) • [💻 code](https://github.com/robbyant/lingbot-map) • [🔗 project](https://technology.robbyant.com/lingbot-map)
 
@@ -561,7 +561,7 @@ LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from 
 
 OpenGame is an open-source agentic framework for end-to-end web game creation that uses specialized code models and evaluation benchmarks to overcome challenges in interactive application development.
 
-▲ 69 • 💬 7 • ⭐ 927 • 4d ago
+▲ 69 • 💬 7 • ⭐ 927 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.18394) • [💻 code](https://github.com/leigest519/OpenGame) • [🔗 project](https://www.opengame-project-page.com/)
 
@@ -576,6 +576,20 @@ A multi-agent framework using large language models for stock trading simulates 
 ▲ 49 • 💬 2 • ⭐ 52,699 • 16mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
+
+---
+
+**[LLaDA2.0-Uni: Unifying Multimodal Understanding and Generation with Diffusion Large Language Model](https://huggingface.co/papers/2604.20796)**
+
+*Inclusion AI, Tiwei Bie, Haoxing Chen et al. (18 authors)*
+
+🏢 inclusionAI
+
+LLaDA2.0-Uni is a unified discrete diffusion language model that integrates multimodal understanding and generation through a semantic discrete tokenizer, MoE-based backbone, and diffusion decoder, achieving performance comparable to specialized vision-language models while enabling efficient inference and high-fidelity image generation.
+
+▲ 220 • 💬 2 • ⭐ 329 • 3d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2604.20796) • [💻 code](https://github.com/inclusionAI/LLaDA2.0-Uni)
 
 ---
 
@@ -606,20 +620,6 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 ---
 
-**[LLaDA2.0-Uni: Unifying Multimodal Understanding and Generation with Diffusion Large Language Model](https://huggingface.co/papers/2604.20796)**
-
-*Inclusion AI, Tiwei Bie, Haoxing Chen et al. (18 authors)*
-
-🏢 inclusionAI
-
-LLaDA2.0-Uni is a unified discrete diffusion language model that integrates multimodal understanding and generation through a semantic discrete tokenizer, MoE-based backbone, and diffusion decoder, achieving performance comparable to specialized vision-language models while enabling efficient inference and high-fidelity image generation.
-
-▲ 220 • 💬 2 • ⭐ 217 • 2d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2604.20796) • [💻 code](https://github.com/inclusionAI/LLaDA2.0-Uni)
-
----
-
 **[MinerU2.5: A Decoupled Vision-Language Model for Efficient
   High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
 
@@ -643,7 +643,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 49.4k • 🔱 6.5k • 2h ago
+⭐ 49.5k • 🔱 6.5k • 8m ago
 
 ---
 
@@ -653,7 +653,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 45.6k • 🔱 2.4k • 6d ago
+⭐ 45.7k • 🔱 2.4k • 6d ago
 
 ---
 
@@ -663,7 +663,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 39.1k • 🔱 8.0k • 3d ago
+⭐ 39.2k • 🔱 8.0k • 3d ago
 
 ---
 
@@ -673,7 +673,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 34.2k • 🔱 3.8k • 1d ago
+⭐ 34.3k • 🔱 3.8k • 1d ago
 
 ---
 
@@ -683,7 +683,7 @@ A theoretical reconstruction of the Claude Mythos architecture, built from first
 
 `Python` `ai` `anthropic` `attention` `claude` `claude-ai`
 
-⭐ 10.0k • 🔱 2.2k • 2d ago
+⭐ 10.1k • 🔱 2.2k • 2d ago
 
 ---
 
@@ -733,7 +733,7 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 `Rust` `agents` `container` `sandbox`
 
-⭐ 3.9k • 🔱 248 • 5h ago
+⭐ 3.9k • 🔱 249 • 6h ago
 
 ---
 

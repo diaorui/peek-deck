@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-24T19:29:36.346583+00:00'
+updated: '2026-04-24T20:10:14.748240+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
-- social
 - videos
+- news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 24, 2026 at 19:29 UTC  
+**Last Updated:** April 24, 2026 at 20:10 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1554.11B
+**Market Cap:** $1553.30B
 Rank #1
 
-**Circulating Supply:** 20,020,184 BTC
+**Circulating Supply:** 20,020,253 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--38.4%
+-38.5%
 
 **All-Time Low:** $67.81
-+114473.1%
++114316.8%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 [comments]
 
-12h ago
+13h ago
 
 ---
 
 **[I made a site that explains Bitcoin to your mom in 5 minutes. Your mom gets a printable Bitcoin certificate at the end.](https://www.reddit.com/r/Bitcoin/comments/1suo3qe/i_made_a_site_that_explains_bitcoin_to_your_mom/)**
 
-🔗 [wtfisbtc.lol](https://wtfisbtc.lol/) • 57m ago
+🔗 [wtfisbtc.lol](https://wtfisbtc.lol/) • 1h ago
 
 ---
 
@@ -103,7 +103,7 @@ ARK Invest says Bitcoin has not bottomed yet as whales stack 1.47 million BTC du
 
 People still say that all the time. “No cash flows. No earnings. No fundamentals.” But then why is it worth $75,000+? In this video I break down what “intrinsic value” actually means and why most people completely misunderstand it. My goal is by the end to help people understand exactly why Bitcoin has value.
 
-🔗 [youtu.be](https://youtu.be/y9humUet5SU) • 1h ago
+🔗 [youtu.be](https://youtu.be/y9humUet5SU) • 2h ago
 
 ---
 
@@ -111,7 +111,7 @@ People still say that all the time. “No cash flows. No earnings. No fundamenta
 
 Metaplanet raises $50M through zero-interest bonds to fund new Bitcoin purchases and expand its growing corporate BTC treasury.
 
-🔗 [Blockonomi](https://blockonomi.com/metaplanet-issues-%C2%A58b-bonds-to-expand-bitcoin-holdings/) • 3h ago
+🔗 [Blockonomi](https://blockonomi.com/metaplanet-issues-%C2%A58b-bonds-to-expand-bitcoin-holdings/) • 4h ago
 
 ---
 
@@ -119,7 +119,7 @@ Metaplanet raises $50M through zero-interest bonds to fund new Bitcoin purchases
 
 honestly curious: why is Bitcoin your #1 choice?
 
-8h ago
+9h ago
 
 ---
 
@@ -127,7 +127,7 @@ honestly curious: why is Bitcoin your #1 choice?
 
 If you go look up a bitcoin chart from 2010 to now. Look at when the halving happened in 2020 and exactly 18 months after the halving it goes down tremendously (Halving happened in may 2020, EXACTLY 18 months after in novemeber 2021 it crashed) The exact same thing happened in 2024 halving, exactly 18 months after the 2024 halving (october 2025) it crashed. Do what you will with that information. 2027 is going to be the best time to accumulate bitcoin so don't miss out. :)
 
-6h ago
+7h ago
 
 ---
 
@@ -141,7 +141,7 @@ I’m researching bitcoin and saw that BlackRock’s ETF added $167.5M in a sing
 
 **[The Dead Man's Switch: How to Program a Trustless Bitcoin Inheritance Using OP_CSV. Trusting an estate lawyer with your keys means surrendering your wealth. How to use relative time-locks to build a trustless, algorithmic will.](https://www.reddit.com/r/Bitcoin/comments/1sua82y/the_dead_mans_switch_how_to_program_a_trustless/)**
 
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-dead-mans-switch-how-to-program) • 10h ago
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-dead-mans-switch-how-to-program) • 11h ago
 
 ---
 
@@ -149,7 +149,7 @@ I’m researching bitcoin and saw that BlackRock’s ETF added $167.5M in a sing
 
 An interactive tool to build and understand Bitcoin transactions visually. • Connect predefined nodes → see every byte update live • Step through script execution with live stack view • Full Python code behind each node ('Show code' in node menu) 14 hands-on lessons + exercises included (P2PKH, P2SH, SegWit, multisig, timelocks, payment channels, Taproot) — all broadcast to testnet. More coming (Coinjoin, Lightning, Mining …). Free · open-source · educational only rawbit.io https://github.com/rawBit-io/rawbit Human Rights Foundation and OpenSats grantee https://hrf.org/latest/hrfs-bitcoin-development-fund-announces-support-for-26-projects-worldwide/ https://opensats.org/blog/seventeenth-wave-of-bitcoin-grants
 
-9h ago
+10h ago
 
 ---
 
@@ -161,7 +161,7 @@ An interactive tool to build and understand Bitcoin transactions visually. • C
 
 While the Strategy executive chair signals the bitcoin bottom and that institutions will be the next to drive up the price, another market analyst disagreed, saying nation States will be the ones.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -185,7 +185,7 @@ markets.businessinsider.com • 2h ago
 
 Long-time Bitcoin developer Paul Sztorc is hard forking Bitcoin into eCash. eCash would allow for some of the programmability available on altcoins to happen on Bitcoin. It would also reassign some of Satoshi Nakamoto’s coins to early users.
 
-Yahoo Finance • 45m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -207,7 +207,7 @@ CNN • 6h ago
 
 Independent researcher Giancarlo Lelli derived a 15-bit elliptic curve key on a publicly accessible quantum computer, Project Eleven said.
 
-The Block • 6h ago
+The Block • 7h ago
 
 ---
 
@@ -275,7 +275,7 @@ Part one explained the physics of quantum computing. This piece explains the tar
 
 Build wallets, issue stablecoins, and move BTC instantly: all natively on Bitcoin. No bridges, no custodians. Start building with Spark's SDKs today.
 
-⬆️ 3 • 💬 0 • 23h ago • [Spark](https://www.spark.money)
+⬆️ 3 • 💬 0 • 1d ago • [Spark](https://www.spark.money)
 
 ---
 
@@ -319,17 +319,7 @@ Mark Moss is an optimist and he makes a compelling case for why Bitcoin holders 
 
 📺 Bitcoin Magazine
 
-👁️ 2K • 👍 118 • 💬 10 • ⏱️ 59:02 • 8h ago
-
----
-
-**[Bitcoin&#39;s Most Dangerous Rally is Happening Right Now!](https://www.youtube.com/watch?v=X3V94U_p3WA)**
-
-Bitcoin is rallying out of a major drawdown while funding rates stay flat, shorts get squeezed, and spot demand keeps absorbing ...
-
-📺 Simply Bitcoin
-
-👁️ 42K • 👍 3K • 💬 214 • ⏱️ 20:08 • 23h ago
+👁️ 3K • 👍 194 • 💬 12 • ⏱️ 59:02 • 9h ago
 
 ---
 
@@ -339,37 +329,7 @@ Bitcoin #Crypto #Finance Wall Street is buying Bitcoin nine times faster than it
 
 📺 The Wolf Of All Streets
 
-👁️ 6K • 👍 500 • 💬 92 • ⏱️ 35:06 • 5h ago
-
----
-
-**[Michael Saylor&#39;s NEW Plan To OWN 28% Of ALL Bitcoin | What&#39;s Coming is Unimaginable!](https://www.youtube.com/watch?v=UHvRwfjM_bo)**
-
-Bitcoin is entering a real supply shock and most people still don't see it. Michael Saylor is building a machine that absorbs ...
-
-📺 Simply Bitcoin
-
-👁️ 33K • 👍 3K • 💬 165 • ⏱️ 17:24 • 1d ago
-
----
-
-**[Bitcoin just became a NATIONAL SECURITY CONCERN!! | EP 1489](https://www.youtube.com/watch?v=uQmt39Ai6Cc)**
-
-4 Star Admiral talks about the secret bitcoin war happening right now in Senate hearing .
-
-📺 Simply Bitcoin
-
-👁️ 13K • 👍 576 • 💬 44 • ⏱️ 1:21:05 • 1d ago
-
----
-
-**[Bitcoin Expert Says Prepare For Next Major Move Up](https://www.youtube.com/watch?v=eTEnlBT9rUc)**
-
-Bitcoin's next move, AMD, MU, Ethereum, QQQ, and more! BITUNIX TRADE THE TOP COINS (available everywhere) ...
-
-📺 Lark Davis
-
-👁️ 8K • 👍 542 • 💬 37 • ⏱️ 18:47 • 8h ago
+👁️ 7K • 👍 572 • 💬 97 • ⏱️ 35:06 • 6h ago
 
 ---
 
@@ -379,7 +339,27 @@ Stability is the single biggest lie in financial markets, the investor and Bitco
 
 📺 Interesting Times with Ross Douthat
 
-👁️ 651 • 👍 15 • 💬 7 • ⏱️ 1:52 • 5h ago
+👁️ 887 • 👍 17 • 💬 10 • ⏱️ 1:52 • 6h ago
+
+---
+
+**[Bitcoin&#39;s Most Dangerous Rally is Happening Right Now!](https://www.youtube.com/watch?v=X3V94U_p3WA)**
+
+Bitcoin is rallying out of a major drawdown while funding rates stay flat, shorts get squeezed, and spot demand keeps absorbing ...
+
+📺 Simply Bitcoin
+
+👁️ 43K • 👍 3K • 💬 223 • ⏱️ 20:08 • 23h ago
+
+---
+
+**[HE SHOULD HAVE KEPT THE BITCOIN](https://www.youtube.com/watch?v=W00FScSCVpg)**
+
+Despite the surge in gold prices, Cuban links have taken a hit This client was hoping to break even on his chain, but the market ...
+
+📺 G LUXE JEWELERS
+
+👁️ 19K • 👍 336 • 💬 22 • ⏱️ 1:52 • 23h ago
 
 ---
 
@@ -389,27 +369,47 @@ WARNING! Subscribe to our new channel!: https://m.youtube.com/@jebbmcafeeinvests
 
 📺 Crypto Jebb
 
-👁️ 5K • 👍 314 • 💬 75 • ⏱️ 12:58 • 1d ago
+👁️ 5K • 👍 316 • 💬 78 • ⏱️ 12:58 • 1d ago
 
 ---
 
-**[🚨 $80,000 Bitcoin Is the Only Number That Matters Right Now](https://www.youtube.com/watch?v=Jdbia5AsI44)**
+**[Bitcoin Expert Says Prepare For Next Major Move Up](https://www.youtube.com/watch?v=eTEnlBT9rUc)**
 
-Build your crypto portfolio the smart way with iTrustCapital — now with stocks, crypto, and metals in one IRA. Get a $100 bonus: ...
+Bitcoin's next move, AMD, MU, Ethereum, QQQ, and more! BITUNIX TRADE THE TOP COINS (available everywhere) ...
 
-📺 DataDash
+📺 Lark Davis
 
-👁️ 3K • 👍 169 • 💬 36 • ⏱️ 14:00 • 1d ago
+👁️ 10K • 👍 737 • 💬 43 • ⏱️ 18:47 • 8h ago
 
 ---
 
-**[Why Bitcoin is Actually Pumping 🤔](https://www.youtube.com/watch?v=4HIwAxBJ0es)**
+**[The Perfect BEGINNER Home BITCOIN Miner](https://www.youtube.com/watch?v=HsLK3VZ5Nek)**
 
-The REAL REASON Bitcoin is pumping... ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily BTC Conference 2026 ...
+Checkout the Canaan Nano 3S Home Solo Bitcoin Miner ➤ https://geni.us/Nano3SATT ⛏ Checkout the AltairTech Nano 3S Dock ...
 
-📺 Altcoin Daily
+📺 The Hobbyist Miner
 
-👁️ 10K • 👍 274 • 💬 5 • ⏱️ 0:53 • 1d ago
+👁️ 1K • 👍 121 • 💬 128 • ⏱️ 11:48 • 8h ago
+
+---
+
+**[Bitcoin Rally Set As Bitcoin Bulls Press Higher](https://www.youtube.com/watch?v=FY6Bowgftws)**
+
+Make FREE Crypto Predictions & Compete Weekly ▻ https://www.clashpicks.com/ Research. Tracking. Charting. All In One AI ...
+
+📺 CryptosRUs
+
+👁️ 11K • 👍 776 • 💬 23 • ⏱️ 52:20 • 5h ago
+
+---
+
+**[Bitcoin &amp; Gold](https://www.youtube.com/watch?v=Q67V1CJQLdA)**
+
+Into The Cryptoverse Premium: https://intothecryptoverse.com For inquiries and to subscribe to the monthy newsletter (free): ...
+
+📺 Benjamin Cowen
+
+👁️ 18K • 👍 312 • 💬 2 • ⏱️ 0:47 • 2d ago
 
 ---
 
