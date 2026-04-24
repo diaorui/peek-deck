@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-24T21:24:30.918820+00:00'
+updated: '2026-04-24T22:08:54.214311+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
-- news
 - videos
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 24, 2026 at 21:24 UTC  
+**Last Updated:** April 24, 2026 at 22:08 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[I made a site that explains Bitcoin to your mom in 5 minutes. Your mom gets a printable Bitcoin certificate at the end.](https://www.reddit.com/r/Bitcoin/comments/1suo3qe/i_made_a_site_that_explains_bitcoin_to_your_mom/)**
 
-🔗 [wtfisbtc.lol](https://wtfisbtc.lol/) • 2h ago
+🔗 [wtfisbtc.lol](https://wtfisbtc.lol/) • 3h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 [comments]
 
-14h ago
+15h ago
 
 ---
 
@@ -95,7 +95,7 @@ Rank #1
 
 ARK Invest says Bitcoin has not bottomed yet as whales stack 1.47 million BTC during Q1's 22% price drawdown.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/bitcoin-whales-accumulate-69-more-052711529.html) • 13h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/bitcoin-whales-accumulate-69-more-052711529.html) • 14h ago
 
 ---
 
@@ -103,7 +103,7 @@ ARK Invest says Bitcoin has not bottomed yet as whales stack 1.47 million BTC du
 
 People still say that all the time. “No cash flows. No earnings. No fundamentals.” But then why is it worth $75,000+? In this video I break down what “intrinsic value” actually means and why most people completely misunderstand it. My goal is by the end to help people understand exactly why Bitcoin has value.
 
-🔗 [youtu.be](https://youtu.be/y9humUet5SU) • 3h ago
+🔗 [youtu.be](https://youtu.be/y9humUet5SU) • 4h ago
 
 ---
 
@@ -111,7 +111,7 @@ People still say that all the time. “No cash flows. No earnings. No fundamenta
 
 Metaplanet raises $50M through zero-interest bonds to fund new Bitcoin purchases and expand its growing corporate BTC treasury.
 
-🔗 [Blockonomi](https://blockonomi.com/metaplanet-issues-%C2%A58b-bonds-to-expand-bitcoin-holdings/) • 5h ago
+🔗 [Blockonomi](https://blockonomi.com/metaplanet-issues-%C2%A58b-bonds-to-expand-bitcoin-holdings/) • 6h ago
 
 ---
 
@@ -119,7 +119,7 @@ Metaplanet raises $50M through zero-interest bonds to fund new Bitcoin purchases
 
 honestly curious: why is Bitcoin your #1 choice?
 
-10h ago
+11h ago
 
 ---
 
@@ -127,7 +127,7 @@ honestly curious: why is Bitcoin your #1 choice?
 
 If you go look up a bitcoin chart from 2010 to now. Look at when the halving happened in 2020 and exactly 18 months after the halving it goes down tremendously (Halving happened in may 2020, EXACTLY 18 months after in novemeber 2021 it crashed) The exact same thing happened in 2024 halving, exactly 18 months after the 2024 halving (october 2025) it crashed. Do what you will with that information. 2027 is going to be the best time to accumulate bitcoin so don't miss out. :)
 
-8h ago
+9h ago
 
 ---
 
@@ -141,7 +141,7 @@ I’m researching bitcoin and saw that BlackRock’s ETF added $167.5M in a sing
 
 **[The Dead Man's Switch: How to Program a Trustless Bitcoin Inheritance Using OP_CSV. Trusting an estate lawyer with your keys means surrendering your wealth. How to use relative time-locks to build a trustless, algorithmic will.](https://www.reddit.com/r/Bitcoin/comments/1sua82y/the_dead_mans_switch_how_to_program_a_trustless/)**
 
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-dead-mans-switch-how-to-program) • 12h ago
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-dead-mans-switch-how-to-program) • 13h ago
 
 ---
 
@@ -149,7 +149,7 @@ I’m researching bitcoin and saw that BlackRock’s ETF added $167.5M in a sing
 
 Bitcoin Optech newsletter #402 is here: - describes work on a declarative executable specification of consensus rules - summarizes a discussion about onion message jamming in the Lightning Network - summarizes popular Q&A from Stack Exchange - Optech Newsletter #402 Podcast https://bitcoinops.org/en/newsletters/2026/04/24/ Toby Sharp posted to Delving Bitcoin and the Bitcoin-Dev mailing list an update on the Hornet node project... https://bitcoinops.org/en/newsletters/2026/04/24/#hornet-node-s-declarative-executable-specification-of-bitcoin-consensus-rules Erick Cestari posted to Delving Bitcoin about the onion message jamming problem affecting the Lightning Network... https://bitcoinops.org/en/newsletters/2026/04/24/#onion-message-jamming-in-the-lightning-network Selected Q&A from Bitcoin Stack Exchange - Why did BIP342 replace CHECKMULTISIG with a new opcode, instead of just removing FindAndDelete from it? - Does SIGHASH_ANYPREVOUT commit to the tapleaf hash or the full taproot merkle path? - What does the BIP86 tweak guarantee in a MuSig2 Lightning channel, beyond address format? https://bitcoinops.org/en/newsletters/2026/04/24/#selected-qa-from-bitcoin-stack-exchange Bitcoin Optech will host an audio recap discussion of this newsletter streaming live on X/Twitter Tuesday at 16:30 UTC.
 
-🔗 [Bitcoin Optech](https://bitcoinops.org/en/newsletters/2026/04/24/) • 6h ago
+🔗 [Bitcoin Optech](https://bitcoinops.org/en/newsletters/2026/04/24/) • 7h ago
 
 ---
 
@@ -169,7 +169,7 @@ CoinDesk • 10h ago
 
 ARK Invest says Bitcoin has not bottomed yet as whales stack 1.47 million BTC during Q1's 22% price drawdown.
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -177,7 +177,7 @@ Yahoo Finance • 15h ago
 
 Giancarlo Lelli performed the largest known quantum attack on Bitcoin’s encryption model.  His feat is a 512-fold jump from the previous record.  Bitcoin enthusiasts are scrambling for ideas to deal with the quantum computing threat.
 
-dlnews.com • 6m ago
+dlnews.com • 50m ago
 
 ---
 
@@ -185,7 +185,7 @@ dlnews.com • 6m ago
 
 VanEck says Bitcoin is showing a reinforced bullish setup as deeply negative funding rates and clustered hash rate declines—historically tied to strong forward returns—signal cautious sentiment rather than capitulation.
 
-Bitcoin Magazine • 50m ago
+Bitcoin Magazine • 1h ago
 
 ---
 
@@ -193,7 +193,7 @@ Bitcoin Magazine • 50m ago
 
 Strong earnings season trumps geopolitical risks for now, one trader said, as equities and crypto markets "stopped caring" about Iran war headlines.
 
-CoinDesk • 16m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -207,7 +207,7 @@ The New York Times • 1d ago
 
 Independent researcher Giancarlo Lelli derived a 15-bit elliptic curve key on a publicly accessible quantum computer, Project Eleven said.
 
-The Block • 8h ago
+The Block • 9h ago
 
 ---
 
@@ -229,7 +229,7 @@ Bloomberg.com • 1d ago
 
 The bitcoin price crash has wiped more than $1 trillion from the cryptocurrency's market cap...
 
-Forbes • 8h ago
+Forbes • 9h ago
 
 ---
 
@@ -323,7 +323,7 @@ Mark Moss is an optimist and he makes a compelling case for why Bitcoin holders 
 
 📺 Bitcoin Magazine
 
-👁️ 3K • 👍 194 • 💬 12 • ⏱️ 59:02 • 10h ago
+👁️ 3K • 👍 194 • 💬 12 • ⏱️ 59:02 • 11h ago
 
 ---
 
@@ -333,7 +333,7 @@ Bitcoin #Crypto #Finance Wall Street is buying Bitcoin nine times faster than it
 
 📺 The Wolf Of All Streets
 
-👁️ 7K • 👍 572 • 💬 97 • ⏱️ 35:06 • 7h ago
+👁️ 7K • 👍 572 • 💬 97 • ⏱️ 35:06 • 8h ago
 
 ---
 
@@ -343,7 +343,7 @@ Stability is the single biggest lie in financial markets, the investor and Bitco
 
 📺 Interesting Times with Ross Douthat
 
-👁️ 887 • 👍 17 • 💬 10 • ⏱️ 1:52 • 7h ago
+👁️ 887 • 👍 17 • 💬 10 • ⏱️ 1:52 • 8h ago
 
 ---
 
@@ -383,7 +383,7 @@ Bitcoin's next move, AMD, MU, Ethereum, QQQ, and more! BITUNIX TRADE THE TOP COI
 
 📺 Lark Davis
 
-👁️ 10K • 👍 737 • 💬 43 • ⏱️ 18:47 • 9h ago
+👁️ 10K • 👍 737 • 💬 43 • ⏱️ 18:47 • 10h ago
 
 ---
 
@@ -393,7 +393,7 @@ Checkout the Canaan Nano 3S Home Solo Bitcoin Miner ➤ https://geni.us/Nano3SAT
 
 📺 The Hobbyist Miner
 
-👁️ 1K • 👍 121 • 💬 128 • ⏱️ 11:48 • 9h ago
+👁️ 1K • 👍 121 • 💬 128 • ⏱️ 11:48 • 10h ago
 
 ---
 
@@ -403,7 +403,7 @@ Make FREE Crypto Predictions & Compete Weekly ▻ https://www.clashpicks.com/ Re
 
 📺 CryptosRUs
 
-👁️ 11K • 👍 776 • 💬 23 • ⏱️ 52:20 • 6h ago
+👁️ 11K • 👍 776 • 💬 23 • ⏱️ 52:20 • 7h ago
 
 ---
 

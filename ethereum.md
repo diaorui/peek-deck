@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-24T21:24:30.924794+00:00'
+updated: '2026-04-24T22:08:54.219509+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
-- news
 - videos
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 24, 2026 at 21:24 UTC  
+**Last Updated:** April 24, 2026 at 22:08 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Aave DAO offers to contribute 25,000 ETH toward DeFi United, a coordinated ecosystem recovery effort to restore the full backing of KelpDAO's rsETH. The coalition, which includes Lido, EtherFi, Ethena, Mantle, and others, aims to cover a ~75,081 ETH residual shortfall.
 
-🔗 [Aave](https://governance.aave.com/t/arfc-rseth-incident-funding-update/24740) • 2h ago
+🔗 [Aave](https://governance.aave.com/t/arfc-rseth-incident-funding-update/24740) • 3h ago
 
 ---
 
@@ -80,7 +80,7 @@ Aave DAO offers to contribute 25,000 ETH toward DeFi United, a coordinated ecosy
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -104,7 +104,7 @@ Justin Sun invested $45 million into World Liberty Financial. They froze his wal
 
 Been thinking about this after watching how quickly narratives can shift online when a single high-profile account amplifies something. For example, when someone like Elon Musk boosts a topic (whether it’s tech, markets, or even something like Restore Britain), you can see attention move almost instantly. Not necessarily adoption but definitely awareness and discussion. It made me wonder how this fits into Ethereum’s whole “credible neutrality” idea. On paper: Ethereum is decentralised No single actor controls the protocol Consensus is distributed But in practice: Social layers (Twitter/X, Reddit, influencers) still shape what people look at Narratives form off-chain before anything happens onchain Attention itself is still pretty centralised So the question is does Ethereum actually solve the influence problem or just move it up a layer?
 
-6h ago
+7h ago
 
 ---
 
@@ -112,7 +112,7 @@ Been thinking about this after watching how quickly narratives can shift online 
 
 Etherealize: ETH is productive money, DeFi united: effort to restore rsETH backing, Arbitrum security council froze exploiter ETH
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-20/) • 8h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-20/) • 9h ago
 
 ---
 
@@ -164,7 +164,7 @@ The Motley Fool • 1d ago
 
 Fluent launched its Ethereum Layer 2 mainnet alongside its BLEND token and a native stablecoin with $50 million in day-one liquidity.
 
-The Block • 8h ago
+The Block • 9h ago
 
 ---
 
@@ -172,7 +172,7 @@ The Block • 8h ago
 
 Dubai, UAE, April  24, 2026  (GLOBE NEWSWIRE) -- Crypto news this week centers on Pepeto after the project opened a fresh presale stage because th...
 
-markets.businessinsider.com • 54m ago
+markets.businessinsider.com • 1h ago
 
 ---
 
@@ -180,7 +180,7 @@ markets.businessinsider.com • 54m ago
 
 Bitmine Immersion also spent about $10 million when it bought 5,000 ETH from the Ethereum Foundation last month.
 
-The Block • 5h ago
+The Block • 6h ago
 
 ---
 
@@ -196,7 +196,7 @@ Yahoo Finance • 1d ago
 
 The transaction brings the firm’s holdings closer to the 5% of all ETH milestone.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -208,7 +208,7 @@ Barron's • 1d ago
 
 **[XRP vs Ethereum: Which Digital Giant Will Explode to Make You the Most Money in 2026?](https://www.tipranks.com/news/xrp-vs-ethereum-which-digital-giant-will-explode-to-make-you-the-most-money-in-2026)**
 
-TipRanks • 7h ago
+TipRanks • 8h ago
 
 ---
 
@@ -216,7 +216,7 @@ TipRanks • 7h ago
 
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) are supporting a constructive outlook on Friday after surging by 6%, 2% and 3% so far this week, respectively.
 
-FXStreet • 17h ago
+FXStreet • 18h ago
 
 ---
 
@@ -224,7 +224,7 @@ FXStreet • 17h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 8h ago
+Fortune • 9h ago
 
 ---
 
@@ -238,7 +238,7 @@ Most people are declaring altcoins dead, but the crypto charts tell a completely
 
 📺 Crypto Capital Venture
 
-👁️ 3K • 👍 351 • 💬 66 • ⏱️ 13:20 • 6h ago
+👁️ 3K • 👍 351 • 💬 66 • ⏱️ 13:20 • 7h ago
 
 ---
 
@@ -288,7 +288,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 104 • 👍 10 • 💬 2 • ⏱️ 6:54 • 3h ago
+👁️ 104 • 👍 10 • 💬 2 • ⏱️ 6:54 • 4h ago
 
 ---
 
@@ -318,7 +318,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 82 • 👍 6 • 💬 6 • ⏱️ 14:17 • 5h ago
+👁️ 82 • 👍 6 • 💬 6 • ⏱️ 14:17 • 6h ago
 
 ---
 
