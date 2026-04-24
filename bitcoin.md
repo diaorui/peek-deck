@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-24T17:30:02.842046+00:00'
+updated: '2026-04-24T18:08:25.202807+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - videos
 - news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 24, 2026 at 17:30 UTC  
+**Last Updated:** April 24, 2026 at 18:08 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 [comments]
 
-10h ago
+11h ago
 
 ---
 
@@ -97,7 +97,7 @@ ARK Invest says Bitcoin has not bottomed yet as whales stack 1.47 million BTC du
 
 honestly curious: why is Bitcoin your #1 choice?
 
-6h ago
+7h ago
 
 ---
 
@@ -105,7 +105,7 @@ honestly curious: why is Bitcoin your #1 choice?
 
 Metaplanet raises $50M through zero-interest bonds to fund new Bitcoin purchases and expand its growing corporate BTC treasury.
 
-🔗 [Blockonomi](https://blockonomi.com/metaplanet-issues-%C2%A58b-bonds-to-expand-bitcoin-holdings/) • 1h ago
+🔗 [Blockonomi](https://blockonomi.com/metaplanet-issues-%C2%A58b-bonds-to-expand-bitcoin-holdings/) • 2h ago
 
 ---
 
@@ -113,13 +113,13 @@ Metaplanet raises $50M through zero-interest bonds to fund new Bitcoin purchases
 
 If you go look up a bitcoin chart from 2010 to now. Look at when the halving happened in 2020 and exactly 18 months after the halving it goes down tremendously (Halving happened in may 2020, EXACTLY 18 months after in novemeber 2021 it crashed) The exact same thing happened in 2024 halving, exactly 18 months after the 2024 halving (october 2025) it crashed. Do what you will with that information. 2027 is going to be the best time to accumulate bitcoin so don't miss out. :)
 
-4h ago
+5h ago
 
 ---
 
 **[The Dead Man's Switch: How to Program a Trustless Bitcoin Inheritance Using OP_CSV. Trusting an estate lawyer with your keys means surrendering your wealth. How to use relative time-locks to build a trustless, algorithmic will.](https://www.reddit.com/r/Bitcoin/comments/1sua82y/the_dead_mans_switch_how_to_program_a_trustless/)**
 
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-dead-mans-switch-how-to-program) • 8h ago
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-dead-mans-switch-how-to-program) • 9h ago
 
 ---
 
@@ -135,7 +135,7 @@ I’m researching bitcoin and saw that BlackRock’s ETF added $167.5M in a sing
 
 An interactive tool to build and understand Bitcoin transactions visually. • Connect predefined nodes → see every byte update live • Step through script execution with live stack view • Full Python code behind each node ('Show code' in node menu) 14 hands-on lessons + exercises included (P2PKH, P2SH, SegWit, multisig, timelocks, payment channels, Taproot) — all broadcast to testnet. More coming (Coinjoin, Lightning, Mining …). Free · open-source · educational only rawbit.io https://github.com/rawBit-io/rawbit Human Rights Foundation and OpenSats grantee https://hrf.org/latest/hrfs-bitcoin-development-fund-announces-support-for-26-projects-worldwide/ https://opensats.org/blog/seventeenth-wave-of-bitcoin-grants
 
-7h ago
+8h ago
 
 ---
 
@@ -143,7 +143,7 @@ An interactive tool to build and understand Bitcoin transactions visually. • C
 
 Bitcoin’s next move? Institutional adoption, ETF flows, and whether $100K holds or we see a correction first. What do you guys think ?
 
-10h ago
+11h ago
 
 ---
 
@@ -151,7 +151,7 @@ Bitcoin’s next move? Institutional adoption, ETF flows, and whether $100K hold
 
 Bitcoin Optech newsletter #402 is here: - describes work on a declarative executable specification of consensus rules - summarizes a discussion about onion message jamming in the Lightning Network - summarizes popular Q&A from Stack Exchange - Optech Newsletter #402 Podcast https://bitcoinops.org/en/newsletters/2026/04/24/ Toby Sharp posted to Delving Bitcoin and the Bitcoin-Dev mailing list an update on the Hornet node project... https://bitcoinops.org/en/newsletters/2026/04/24/#hornet-node-s-declarative-executable-specification-of-bitcoin-consensus-rules Erick Cestari posted to Delving Bitcoin about the onion message jamming problem affecting the Lightning Network... https://bitcoinops.org/en/newsletters/2026/04/24/#onion-message-jamming-in-the-lightning-network Selected Q&A from Bitcoin Stack Exchange - Why did BIP342 replace CHECKMULTISIG with a new opcode, instead of just removing FindAndDelete from it? - Does SIGHASH_ANYPREVOUT commit to the tapleaf hash or the full taproot merkle path? - What does the BIP86 tweak guarantee in a MuSig2 Lightning channel, beyond address format? https://bitcoinops.org/en/newsletters/2026/04/24/#selected-qa-from-bitcoin-stack-exchange Bitcoin Optech will host an audio recap discussion of this newsletter streaming live on X/Twitter Tuesday at 16:30 UTC.
 
-🔗 [Bitcoin Optech](https://bitcoinops.org/en/newsletters/2026/04/24/) • 2h ago
+🔗 [Bitcoin Optech](https://bitcoinops.org/en/newsletters/2026/04/24/) • 3h ago
 
 ---
 
@@ -163,7 +163,7 @@ Bitcoin Optech newsletter #402 is here: - describes work on a declarative execut
 
 While the Strategy executive chair signals the bitcoin bottom and that institutions will be the next to drive up the price, another market analyst disagreed, saying nation States will be the ones.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -193,7 +193,7 @@ Yahoo Finance • 2d ago
 
 “Flows have turned positive for the year,” Global Head of ETFs at BNY Asset Servicing Ben Slavin told The Block.
 
-The Block • 21h ago
+The Block • 22h ago
 
 ---
 
@@ -215,7 +215,7 @@ Bloomberg.com • 1d ago
 
 A bitcoin price reprieve can’t erase the company’s contradictions
 
-Financial Times • 12h ago
+Financial Times • 13h ago
 
 ---
 
@@ -263,7 +263,7 @@ The global economic system is evolving: The left wants to redistribute. The righ
 
 Neha Narula
 
-⬆️ 3 • 💬 2 • 3d ago • [nehanarula.org](https://nehanarula.org/2026/04/20/bitcoin-and-quantum-a-roadmap.html)
+⬆️ 3 • 💬 2 • 4d ago • [nehanarula.org](https://nehanarula.org/2026/04/20/bitcoin-and-quantum-a-roadmap.html)
 
 ---
 
@@ -279,7 +279,7 @@ Part one explained the physics of quantum computing. This piece explains the tar
 
 Build wallets, issue stablecoins, and move BTC instantly: all natively on Bitcoin. No bridges, no custodians. Start building with Spark's SDKs today.
 
-⬆️ 3 • 💬 0 • 21h ago • [Spark](https://www.spark.money)
+⬆️ 3 • 💬 0 • 22h ago • [Spark](https://www.spark.money)
 
 ---
 
@@ -323,7 +323,7 @@ Mark Moss is an optimist and he makes a compelling case for why Bitcoin holders 
 
 📺 Bitcoin Magazine
 
-👁️ 2K • 👍 118 • 💬 10 • ⏱️ 59:02 • 6h ago
+👁️ 2K • 👍 118 • 💬 10 • ⏱️ 59:02 • 7h ago
 
 ---
 
@@ -343,7 +343,7 @@ Bitcoin #Crypto #Finance Wall Street is buying Bitcoin nine times faster than it
 
 📺 The Wolf Of All Streets
 
-👁️ 6K • 👍 500 • 💬 92 • ⏱️ 35:06 • 3h ago
+👁️ 6K • 👍 500 • 💬 92 • ⏱️ 35:06 • 4h ago
 
 ---
 
@@ -383,7 +383,7 @@ Stability is the single biggest lie in financial markets, the investor and Bitco
 
 📺 Interesting Times with Ross Douthat
 
-👁️ 651 • 👍 15 • 💬 7 • ⏱️ 1:52 • 3h ago
+👁️ 651 • 👍 15 • 💬 7 • ⏱️ 1:52 • 4h ago
 
 ---
 
@@ -393,7 +393,7 @@ WARNING! Subscribe to our new channel!: https://m.youtube.com/@jebbmcafeeinvests
 
 📺 Crypto Jebb
 
-👁️ 5K • 👍 314 • 💬 75 • ⏱️ 12:58 • 23h ago
+👁️ 5K • 👍 314 • 💬 75 • ⏱️ 12:58 • 1d ago
 
 ---
 

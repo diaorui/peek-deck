@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-24T17:30:02.851504+00:00'
+updated: '2026-04-24T18:08:25.210829+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 24, 2026 at 17:30 UTC  
+**Last Updated:** April 24, 2026 at 18:08 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 First rollout of a simple ACT model and the right looks like it got its ACT together The movement could be smoother I think. The robot still has to learn how to handle weird orientation of the cube. Wrote about it here https://x.com/pbshgthm/status/2047640796699267497
 
-5h ago
+6h ago
 
 ---
 
@@ -48,7 +48,7 @@ First rollout of a simple ACT model and the right looks like it got its ACT toge
 
 **[Ahead form robotics new Origin F1 face](https://www.reddit.com/r/robotics/comments/1stz82p/ahead_form_robotics_new_origin_f1_face/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -56,7 +56,7 @@ First rollout of a simple ACT model and the right looks like it got its ACT toge
 
 Hi r/robotics, We’re the team from Hertzinno, and we develop industrial acoustic cameras (real-time sound visualization). Recently we’ve been integrating our acoustic camera with quadruped robots for autonomous inspection tasks. The obvious use cases so far: · Compressed air & gas leak detection (finding invisible leaks with sound) · Mechanical fault localization (bearing wear, abnormal noises in motors/gearboxes) But we bet this community has way more creative ideas than we can come up with in our engineering bubble. So we’d love to ask: What surprising or non-obvious applications do you see for a mobile acoustic camera robot?
 
-3h ago
+4h ago
 
 ---
 
@@ -64,7 +64,7 @@ Hi r/robotics, We’re the team from Hertzinno, and we develop industrial acoust
 
 I've been thinking a lot about why current embodied AI models struggle so hard to cross the gap from lab demos to actual unstructured environments, and I think the root cause is architectural. Most of the field has converged on VLA (Vision-Language-Action) as the default paradigm for robot foundation models. It works well enough in controlled settings, but after reading about recent real-home deployment attempts and digging into the technical critiques, I'm increasingly convinced VLA has a structural ceiling that no amount of scaling will fix. The core issue is that VLA is three separate modules stitched together in sequence. Vision recognizes objects, language parses the instruction, action generates a trajectory. Data passes across module boundaries at each step, and each handoff loses information and adds latency. By the time rich visual context reaches the action head, it has been compressed into what amounts to a blurry summary. Think of it like a game of telephone: the vision module "sees" that a plate is hanging halfway off the table edge, but by the time that spatial detail reaches the action planner through the language bottleneck, the geometric nuance that would let the robot nudge it back is gone. The second problem is deeper. VLA models fundamentally learn to imitate trajectories they've seen during training. They don't build an internal model of physics. The robot doesn't understand why a cup falls when pushed off a surface. It doesn't reason about gravity, inertia, or friction. It just replays the closest matching trajectory from its training distribution. This means every novel situation (and homes are basically infinite novel situations) requires either a training example that's close enough or the robot fails. A cat jumping on a table, a sock in an unexpected spot, a different carpet friction than the lab floor: each of these can break the pipeline. Third, error recovery is essentially nonexistent. When a VLA model fails mid-task, it typically halts and returns an error. It cannot learn from that failure in situ. The failure data has to be collected, shipped back to a training pipeline, incorporated into a new training run, and redeployed. This makes the gap between lab performance and real world performance almost impossible to close at scale. The best analogy I've seen for an alternative approach comes from Apple Silicon's unified memory architecture. Pre-M1 Macs had CPU, GPU, and memory as separate components shuttling data between them, with all the bandwidth and latency penalties that implies. Unified memory put everything in one shared pool, and the performance jump was massive. The same logic applies to embodied AI: instead of three separate modules passing data sequentially, what if vision, language, action, and physics prediction were all trained jointly inside a single network from the start? This is essentially what a World Unified Model (WUM) architecture attempts. X Square Robot recently announced WALL-B, which they describe as a natively multimodal foundation model where all modalities (vision, audio, language, touch, action) are synchronously labeled and jointly trained from day one. No inter-module boundaries, no sequential data transfer. The robot sees a cup and begins preparing the reach simultaneously; it feels the weight and adjusts force in the same forward pass rather than waiting for a separate module to process the feedback. What makes this interesting technically is three specific capabilities they claim emerge from this architecture. First, native proprioception: the model internally senses its own spatial dimensions (arm reach, body width) and can judge whether it fits through a gap or can reach an object without relying on external sensors or constantly observing its own body. Second, physics grounding: the model predicts gravity, inertia, and friction, enabling zero-shot generalization because physics is consistent across environments. A plate half off a table edge gets pushed back not because the robot saw that specific scenario in training, but because it predicts the plate will fall. Third, in-the-wild self-evolution: on failure, the model adjusts strategy and retries, and if the retry succeeds, the result updates the model parameters directly. No engineer retraining, no trip back to the lab. I want to be clear about limitations here. Their own CEO described the current model as being at an "intern" stage. The robots will make mistakes, sometimes stop mid-task to "think," and still need remote assistance. They've committed to deploying WALL-B-powered robots into volunteer households starting May 26, which is a bold timeline. Whether the architecture delivers on these claims in messy real environments is very much an open question. The data strategy is also worth noting. They've been collecting what they call "milk data" from hundreds of volunteer households (as opposed to clean lab data, which they call "sugar water"). The argument is that messy, variable, unpredictable real-home data is what actually drives generalization, and that a data flywheel from real deployments is the actual moat. Curious what people here think about the VLA ceiling argument. Is the sequential module architecture fundamentally limiting, or is it just a scaling problem? And does training all modalities jointly from scratch actually produce emergent physics understanding, or is that a stretch?
 
-4h ago
+5h ago
 
 ---
 
@@ -88,7 +88,7 @@ From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2047257759473946705
 
 Hey everyone, I've been building autonomous drones with a monocular camera and have been trying to make good use out of Claude Code for my software development. I noticed that while it's great at writing the boilerplate of my ROS2 nodes, the second I get into runtime messaging, Claude has no idea when one message will publish compared to another. Similarly, when I'm doing any work regarding transforms, Claude seems to have no idea about the robots actual position in a world, and it ends up simply guessing what the right transform is. I get a little frustrated by it because I look at web development and see how much Claude has increased the speed of development there. Some of the super AI-first people are letting their agents run overnight. I feel like if I tried that right now, it would just destroy my repository, since I have to hold Claude's hand at every stage. I'm using ROS2 Jazzy and PX4. Anyone else seeing similar problems? If so, how are you currently getting around it?
 
-4h ago
+5h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hey everyone, I've been building autonomous drones with a monocular camera and h
 
 Robots are now able to learn complex tasks by observing humans. This marks a shift toward more flexible and adaptive systems, while also sparking debate around how real the concept of “self-awareness” actually is.
 
-🔗 [NPR](https://www.npr.org/2026/04/24/nx-s1-5797863/self-aware-robots-future-laundry-work-home) • 1h ago
+🔗 [NPR](https://www.npr.org/2026/04/24/nx-s1-5797863/self-aware-robots-future-laundry-work-home) • 2h ago
 
 ---
 
@@ -104,7 +104,7 @@ Robots are now able to learn complex tasks by observing humans. This marks a shi
 
 Since my baby started crawling, I’ve been wondering about the difference between “cleaning” and “sanitizing” and whether my robot vacuum actually provides one over the other. The more I read, the more I realize that the two terms get mixed up in conversations, but when it comes to my baby, I want to be sure the floor is sanitized, not just clean. Roller brushes seem to agitate the floor, lifting up debris, but I’ve started to wonder if they’re just redistributing fine particles instead of really removing them. Flat pads, on the other hand, seem to cover more area but don’t agitate the floor as much, meaning they don’t have the same power to lift debris. So the question is: can either of these methods actually sanitize the floor? Or are we just focusing on making the floor look clean? I’m curious if anyone has looked into this from a sanitation standpoint. I want to ensure my baby’s floor is not only free of visible dirt but also of any harmful germs or particles. Has anyone experimented with comparing these methods or found a better alternative for sanitizing, especially for babies?
 
-6h ago
+7h ago
 
 ---
 
@@ -132,13 +132,13 @@ Accenture • 2d ago
 
 Scientists say they've made a key breakthrough that would allow robots to figure out complex tasks on their own — but experts say it raises questions about how much risk comes with letting robots be in charge of their own learning.
 
-NPR • 7h ago
+NPR • 8h ago
 
 ---
 
 **[Physical AI: Where Artificial Intelligence Rubber Meets The Road](https://www.investors.com/news/physical-ai-jensen-huang-nvidia-artificial-intelligence-robotics/)**
 
-Investor's Business Daily • 21h ago
+Investor's Business Daily • 22h ago
 
 ---
 
@@ -170,7 +170,7 @@ Yahoo Finance • 1d ago
 
 Tesla delivered a Q1 double-beat, but shares fell as high capex spending and cautious AI scaling tempered optimism. Read more on TSLA stock here.
 
-Seeking Alpha • 1h ago
+Seeking Alpha • 2h ago
 
 ---
 

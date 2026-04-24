@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-24T17:30:02.833545+00:00'
+updated: '2026-04-24T18:08:25.195353+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
 - videos
 - news
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 24, 2026 at 17:30 UTC  
+**Last Updated:** April 24, 2026 at 18:08 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 A recent policy forum paper published in Science describes how large groups of AI-generated personas can convincingly imitate human behavior online. These systems can enter digital communities, participate in discussions, and influence viewpoints at extraordinary speed. Unlike earlier bot networks, these AI agents can coordinate instantly, adapt their messaging in real time, and run millions of micro-experiments to figure out which arguments are most persuasive. One operator could theoretically manage thousands of distinct voices. Experts believe AI swarms could significantly affect the balance of power in democratic societies. Researchers suggest that upcoming elections may serve as a critical test for this technology. The key challenge will be recognizing and responding to these AI-driven influence campaigns before they become too widespread to control. That's so crazy. Research Paper: https://www.science.org/doi/10.1126/science.adz1697
 
-🔗 [ScienceDaily](https://www.sciencedaily.com/releases/2026/04/260420014748.htm) • 14h ago
+🔗 [ScienceDaily](https://www.sciencedaily.com/releases/2026/04/260420014748.htm) • 15h ago
 
 ---
 
@@ -57,7 +57,7 @@ Someone ran a 4-month experiment tracking every instance of "great question" fro
 
 World x Future Basics now offer Cyto XLiftoffs at World’s Union Square eye-collection center
 
-🔗 [sf.gazetteer.co](https://sf.gazetteer.co/sam-altman-wants-to-sell-you-these-sneakers-for-160-plus-tax-and-biometric-data) • 1h ago
+🔗 [sf.gazetteer.co](https://sf.gazetteer.co/sam-altman-wants-to-sell-you-these-sneakers-for-160-plus-tax-and-biometric-data) • 2h ago
 
 ---
 
@@ -71,7 +71,7 @@ World x Future Basics now offer Cyto XLiftoffs at World’s Union Square eye-col
 
 US News is a recognized leader in college, grad school, hospital, mutual fund, and car rankings. Track elected officials, research health conditions, and find news you can use in politics, business, health, and education.
 
-🔗 [US News & World Report](https://www.usnews.com/news/top-news/articles/2026-04-23/white-house-accuses-china-of-industrial-scale-theft-of-ai-technology-ft-reports) • 1h ago
+🔗 [US News & World Report](https://www.usnews.com/news/top-news/articles/2026-04-23/white-house-accuses-china-of-industrial-scale-theft-of-ai-technology-ft-reports) • 2h ago
 
 ---
 
@@ -95,13 +95,13 @@ I had the pleasure of sitting down with Wendell Wallach recently. He’s been wo
 
 With companies like DeepSeek releasing powerful models for free, a lot of people are calling this a “game changer.” Some say it could put real pressure on players like OpenAI or Google, especially on pricing. But others argue that infrastructure, scaling, and reliability still give Big Tech a major advantage. So what do you think? Is open-source AI actually disrupting the market… or is this just hype ?
 
-4h ago
+5h ago
 
 ---
 
 **[Europe’s markets watchdog warns cyber threats are growing as AI speeds up risks](https://www.reddit.com/r/artificial/comments/1sucdx6/europes_markets_watchdog_warns_cyber_threats_are/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/europes-markets-watchdog-warns-cyber-threats-are-growing-ai-speeds-up-risks-2026-04-24/) • 6h ago
+🔗 [reuters.com](https://www.reuters.com/world/europes-markets-watchdog-warns-cyber-threats-are-growing-ai-speeds-up-risks-2026-04-24/) • 7h ago
 
 ---
 
@@ -109,7 +109,7 @@ With companies like DeepSeek releasing powerful models for free, a lot of people
 
 I'm wondering how many people here switch between ChatGPT, Claude, and other AI experiences? I've found it really annoying that I can't seamlessly take my personalization with me between them but find each good at various things ... Also when I'm on a site that has an ai driven experience like support or a travel planner I have to reestablish by identity to get a useful output. I've been wondering if a good way to solve this is a centralized identity layer which works with MCP to connect to any agent - here's my stab at starting this: [https://www.mypersonalcontext.com/\](https://www.mypersonalcontext.com/) Would love to know if this problem resonates with others here and how acute it actually is? Could you see yourself using something like this to make model / agent switching easier?
 
-2h ago
+3h ago
 
 ---
 
@@ -129,7 +129,7 @@ Yahoo Finance • 4h ago
 
 The layoffs affect about 8,000 employees, with Meta also planning to close 6,000 open roles, as the company focuses on artificial intelligence.
 
-The New York Times • 23h ago
+The New York Times • 1d ago
 
 ---
 
@@ -137,7 +137,7 @@ The New York Times • 23h ago
 
 Meta said it's cutting 10% of its workforce, just as Microsoft announced that it's offering employee buyouts for the first time in its 51-year history.
 
-CNBC • 34m ago
+CNBC • 1h ago
 
 ---
 
@@ -145,7 +145,7 @@ CNBC • 34m ago
 
 Anthropic’s Mythos AI is rattling Washington, prompting the Trump administration to try to confront its cybersecurity risks.
 
-The Washington Post • 1h ago
+The Washington Post • 2h ago
 
 ---
 
@@ -167,7 +167,7 @@ The Guardian • 16h ago
 
 Revised figures increase fears about energy-intensive datacentres worsening climate emergency
 
-The Guardian • 58m ago
+The Guardian • 1h ago
 
 ---
 
@@ -175,7 +175,7 @@ The Guardian • 58m ago
 
 Dairy Queen's automated AI drive-thru initiative sparks customer concern as Meta lays off 8,000 workers and voters flag AI risks to privacy and pay.
 
-Fox News • 27m ago
+Fox News • 1h ago
 
 ---
 
@@ -191,7 +191,7 @@ OpenAI • 20h ago
 
 See the smartest AI models in 2026, ranked by Mensa Norway IQ scores from TrackingAI’s benchmark of leading chatbots and vision models.
 
-Visual Capitalist • 3h ago
+Visual Capitalist • 4h ago
 
 ---
 
@@ -201,7 +201,7 @@ Visual Capitalist • 3h ago
 
 **[Meta to start capturing employee mouse movements, keystrokes for AI training](https://news.ycombinator.com/item?id=47851948)**
 
-⬆️ 791 • 💬 523 • 2d ago • [reuters.com](https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/)
+⬆️ 791 • 💬 523 • 3d ago • [reuters.com](https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/)
 
 ---
 
@@ -343,7 +343,7 @@ Smalls: Get 60% off your first order + FREE shipping & FREE treats for life at h
 
 📺 Dean Graziosi
 
-👁️ 413K • 👍 13K • 💬 123 • ⏱️ 4:19:20 • 19h ago
+👁️ 413K • 👍 13K • 💬 123 • ⏱️ 4:19:20 • 20h ago
 
 ---
 
@@ -389,7 +389,7 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 `text-generation` `861.6B`
 
-⬇️ 30 • ❤️ 2,286 • 7h ago
+⬇️ 30 • ❤️ 2,286 • 8h ago
 
 ---
 
@@ -413,7 +413,7 @@ Qwen3.6-27B is a 27B parameter causal language model with a vision encoder, exce
 
 `image-text-to-text` `27.8B`
 
-⬇️ 162,349 • ❤️ 736 • 14h ago
+⬇️ 162,349 • ❤️ 736 • 15h ago
 
 ---
 
@@ -437,7 +437,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with a vision encoder, 
 
 `image-text-to-text` `36.0B`
 
-⬇️ 861,178 • ❤️ 1,375 • 14h ago
+⬇️ 861,178 • ❤️ 1,375 • 15h ago
 
 ---
 
@@ -449,7 +449,7 @@ DeepSeek-V4-Flash is a 284B parameter Mixture-of-Experts language model supporti
 
 `text-generation` `158.1B`
 
-⬇️ 23 • ❤️ 570 • 7h ago
+⬇️ 23 • ❤️ 570 • 8h ago
 
 ---
 
@@ -647,7 +647,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 49.4k • 🔱 6.5k • 4m ago
+⭐ 49.4k • 🔱 6.5k • 43m ago
 
 ---
 
@@ -737,7 +737,7 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 `Rust` `agents` `container` `sandbox`
 
-⭐ 3.9k • 🔱 248 • 3h ago
+⭐ 3.9k • 🔱 248 • 4h ago
 
 ---
 
