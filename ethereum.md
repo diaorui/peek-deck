@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-25T09:54:06.605002+00:00'
+updated: '2026-04-25T10:44:51.542607+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
+- news
 - cryptocurrency
 - videos
-- news
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 25, 2026 at 09:54 UTC  
+**Last Updated:** April 25, 2026 at 10:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $279.88B
+**Market Cap:** $280.12B
 Rank #2
 
 **Circulating Supply:** 120,688,915 ETH
@@ -62,7 +62,7 @@ No max supply
 -53.1%
 
 **All-Time Low:** $0.43
-+535487.2%
++535930.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Aave DAO offers to contribute 25,000 ETH toward DeFi United, a coordinated ecosystem recovery effort to restore the full backing of KelpDAO's rsETH. The coalition, which includes Lido, EtherFi, Ethena, Mantle, and others, aims to cover a ~75,081 ETH residual shortfall.
 
-🔗 [Aave](https://governance.aave.com/t/arfc-rseth-incident-funding-update/24740) • 14h ago
+🔗 [Aave](https://governance.aave.com/t/arfc-rseth-incident-funding-update/24740) • 15h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Been thinking about this after watching how quickly narratives can shift online when a single high-profile account amplifies something. For example, when someone like Elon Musk boosts a topic (whether it’s tech, markets, or even something like Restore Britain), you can see attention move almost instantly. Not necessarily adoption but definitely awareness and discussion. It made me wonder how this fits into Ethereum’s whole “credible neutrality” idea. On paper: Ethereum is decentralised No single actor controls the protocol Consensus is distributed But in practice: Social layers (Twitter/X, Reddit, influencers) still shape what people look at Narratives form off-chain before anything happens onchain Attention itself is still pretty centralised So the question is does Ethereum actually solve the influence problem or just move it up a layer?
 
-18h ago
+19h ago
 
 ---
 
@@ -104,7 +104,7 @@ Been thinking about this after watching how quickly narratives can shift online 
 
 Etherealize: ETH is productive money, DeFi united: effort to restore rsETH backing, Arbitrum security council froze exploiter ETH
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-20/) • 20h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-20/) • 21h ago
 
 ---
 
@@ -172,7 +172,7 @@ The Motley Fool • 1d ago
 
 Institutions have been dipping into XRP (CRYPTO: XRP), but they’re not committing huge capital yet. A Coinbase survey last month showed that 18% of big funds already hold XRP and 25% plan to add exposure this year, but 65% are still waiting on regulatory clarity before going bigger. While the wait continues, the infrastructure those ... XRP News: Coinbase Just Put XRP on the Same Footing as Bitcoin, Ethereum, and Gold
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -184,7 +184,7 @@ Barron's • 1d ago
 
 **[Ethereum Eyes a Monster $6,000 Price as 3 Hidden Signals Flash a Massive Green Light](https://www.tipranks.com/news/ethereum-eyes-a-monster-6000-price-as-3-hidden-signals-flash-a-massive-green-light)**
 
-TipRanks • 20h ago
+TipRanks • 21h ago
 
 ---
 
@@ -192,7 +192,7 @@ TipRanks • 20h ago
 
 Grayscale staked 102,400 ETH worth $237M via its Ethereum Staking ETF. Ethereum reaching $10,000 by December 31, 2026 at 4% YES.
 
-Crypto Briefing • 5h ago
+Crypto Briefing • 6h ago
 
 ---
 
@@ -200,7 +200,7 @@ Crypto Briefing • 5h ago
 
 Dubai, UAE, April  24, 2026  (GLOBE NEWSWIRE) -- The Ethereum based token Pepeto just confirmed that its latest presale stage cleared out in hours...
 
-markets.businessinsider.com • 17h ago
+markets.businessinsider.com • 18h ago
 
 ---
 
@@ -208,7 +208,7 @@ markets.businessinsider.com • 17h ago
 
 Here's what's new and catching attention around XRP, ETH, and DOGE.
 
-CryptoPotato • 10h ago
+CryptoPotato • 11h ago
 
 ---
 
@@ -216,7 +216,7 @@ CryptoPotato • 10h ago
 
 Ethereum traders just piled $322 million into $3,200 call options and the real reason for the bet isn’t simple hype.
 
-CryptoSlate • 13h ago
+CryptoSlate • 14h ago
 
 ---
 
@@ -238,17 +238,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 14K • 👍 416 • 💬 44 • ⏱️ 23:11 • 1d ago
-
----
-
-**[Ethereum Leading the Next Altcoin Repricing? Charts Say Yes](https://www.youtube.com/watch?v=CAWT4GcMcKE)**
-
-Most people are declaring altcoins dead, but the crypto charts tell a completely different story. In this video, I compare Ethereum's ...
-
-📺 Crypto Capital Venture
-
-👁️ 8K • 👍 516 • 💬 132 • ⏱️ 13:20 • 18h ago
+👁️ 14K • 👍 419 • 💬 46 • ⏱️ 23:11 • 1d ago
 
 ---
 
@@ -258,7 +248,17 @@ Most people are declaring altcoins dead, but the crypto charts tell a completely
 
 📺 Library Of Wealth
 
-👁️ 674 • 👍 34 • 💬 153 • ⏱️ 16:26 • 17h ago
+👁️ 742 • 👍 38 • 💬 153 • ⏱️ 16:26 • 18h ago
+
+---
+
+**[Ethereum Leading the Next Altcoin Repricing? Charts Say Yes](https://www.youtube.com/watch?v=CAWT4GcMcKE)**
+
+Most people are declaring altcoins dead, but the crypto charts tell a completely different story. In this video, I compare Ethereum's ...
+
+📺 Crypto Capital Venture
+
+👁️ 8K • 👍 523 • 💬 138 • ⏱️ 13:20 • 19h ago
 
 ---
 
@@ -268,17 +268,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 71 • 💬 18 • ⏱️ 8:31 • 20h ago
-
----
-
-**[Why This Ethereum Rally Might Be a Setup for Lower Prices](https://www.youtube.com/watch?v=08DMA31tS9k)**
-
-Ethereum is consolidating just below a descending trend line that has been with us since the October 2025 high. The market is ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 143 • 💬 10 • ⏱️ 10:43 • 10h ago
+👁️ 2K • 👍 72 • 💬 19 • ⏱️ 8:31 • 21h ago
 
 ---
 
@@ -288,7 +278,7 @@ Bitmine (BMNR) is quietly building one of the largest Ethereum treasuries in the
 
 📺 BiGB Stcok
 
-👁️ 648 • 👍 29 • ⏱️ 10:01 • 12h ago
+👁️ 741 • 👍 33 • ⏱️ 10:01 • 13h ago
 
 ---
 
@@ -298,17 +288,27 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 19K • 👍 479 • 💬 49 • ⏱️ 18:59 • 2d ago
+👁️ 19K • 👍 480 • 💬 49 • ⏱️ 18:59 • 2d ago
 
 ---
 
-**[🚨 MSTR Signals New Bitcoin Cycle, BTC Hits $78K Wall &amp; Tom Lee Linked to Massive ETH Accumulation](https://www.youtube.com/watch?v=f3EqjwRGgIk)**
+**[Why This Ethereum Rally Might Be a Setup for Lower Prices](https://www.youtube.com/watch?v=08DMA31tS9k)**
 
-Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.tedmcgrathbrands.com/optin-money-game-yt ...
+Ethereum is consolidating just below a descending trend line that has been with us since the October 2025 high. The market is ...
 
-📺 MONEY GAME
+📺 More Crypto Online
 
-👁️ 3K • 👍 110 • 💬 25 • ⏱️ 38:00 • 23h ago
+👁️ 2K • 👍 181 • 💬 14 • ⏱️ 10:43 • 11h ago
+
+---
+
+**[Btc Live Trading | Crypto Live Trading | Live Trading | Live Crypto Trading | Bitcoin Live Trading](https://www.youtube.com/watch?v=ScZ2XcdNIBk)**
+
+BTC LIVE TRADING TODAY | BITCOIN LIVE | CRYPTO LIVE TRADING Start your trading journey with XM — a trusted and ...
+
+📺 Ashutosh Kumar
+
+👁️ 3K • 👍 289 • 48m ago
 
 ---
 
@@ -318,17 +318,17 @@ BITCOIN PRICE SQUEEZE: Everyone is WRONG (Again)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 7K • 👍 307 • 💬 168 • ⏱️ 19:14 • 21h ago
+👁️ 7K • 👍 306 • 💬 168 • ⏱️ 19:14 • 22h ago
 
 ---
 
-**[Ethereum 20% Rally is Confirmed if...](https://www.youtube.com/watch?v=Eu2BioKJhvY)**
+**[Bitcoin &amp; Ethereum: Das passiert, wenn diese magische Grenze fällt!](https://www.youtube.com/watch?v=X03KXOf1rww)**
 
-AI ALGO Trading Masterclass   https://youtube.com/live/kXYu-GRsXIU Zero Trading Fees offer US Stocks, Metals, Crude Oil and ...
+Der Bitcoin- und Ethererum-Preis bleiben kurzfristig nach wie vor bullisch. Doch sie laufen in sehr starke und kritische ...
 
-📺 Investographer
+📺 Formationstrader GmbH
 
-👁️ 1K • 👍 103 • 💬 26 • ⏱️ 8:21 • 16h ago
+👁️ 7K • 👍 696 • 💬 42 • ⏱️ 18:36 • 18h ago
 
 ---
 

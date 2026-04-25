@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-25T09:54:06.599105+00:00'
+updated: '2026-04-25T10:44:51.537394+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
+- news
 - cryptocurrency
 - videos
-- news
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 25, 2026 at 09:54 UTC  
+**Last Updated:** April 25, 2026 at 10:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1553.17B
+**Market Cap:** $1558.29B
 Rank #1
 
 **Circulating Supply:** 20,020,393 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--38.5%
+-38.3%
 
 **All-Time Low:** $67.81
-+114313.8%
++114676.6%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[I made a site that explains Bitcoin to your mom in 5 minutes. Your mom gets a printable Bitcoin certificate at the end.](https://www.reddit.com/r/Bitcoin/comments/1suo3qe/i_made_a_site_that_explains_bitcoin_to_your_mom/)**
 
-🔗 [wtfisbtc.lol](https://wtfisbtc.lol/) • 15h ago
+🔗 [wtfisbtc.lol](https://wtfisbtc.lol/) • 16h ago
 
 ---
 
@@ -95,7 +95,7 @@ Rank #1
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-3h ago
+4h ago
 
 ---
 
@@ -103,7 +103,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 If any of you folks are coming to Vegas for Bitcoin 2026, I've compiled a list (and map) of meetups and side events. These tend to be much more fun and enjoyable than the actual Conference. If you're on mobile, you'll likely need the Google Docs app for working links. I'm hitting Hotstyle Takeover, the Bitcoin Today meetup, the Club Orange meetup, NosVegas, and then hosting Steak 'N Shake 'N Sats and the Vegas Bitcoiners Happy Hour on Wednesday.
 
-🔗 [Google Docs](https://docs.google.com/document/d/1RqlQl4vdKZtReFQpIh0h820Q10khCc6gI56xKW4N1-M) • 4h ago
+🔗 [Google Docs](https://docs.google.com/document/d/1RqlQl4vdKZtReFQpIh0h820Q10khCc6gI56xKW4N1-M) • 5h ago
 
 ---
 
@@ -119,7 +119,7 @@ I have tremendous trusts on wallets because its math foundation. But today, some
 
 There are times throughout the workday that I have a moment to check the bitcoin price, however, sometimes when it refreshes, it closes Spotify for some reason, which I had playing as well. I'm not super duper smart with this stuff but I was wondering if anyone knows of a way to make this stop happening so I don't have to keep rebooting Spotify, thanks.
 
-35m ago
+1h ago
 
 ---
 
@@ -127,7 +127,7 @@ There are times throughout the workday that I have a moment to check the bitcoin
 
 I am about to move for work and I was wondering how were safely transporting seed phrases? I have to move through EU and US customs. I have multiple paper copies, unfortunately now in a single location now due to getting ready for this move. I cannot ship locked cases and high value items need to be reported to the shipper. Because of that I don't feel confident hiding a copy somewhere random in my shipment. I'd also like to move with my Trezors but I think that would heighten awareness? My important bag does have a passphrase but my others do not. Taking any ideas for anyone who's been through something like this. Thanks.
 
-12h ago
+13h ago
 
 ---
 
@@ -143,7 +143,7 @@ People still say that all the time. “No cash flows. No earnings. No fundamenta
 
 Metaplanet raises $50M through zero-interest bonds to fund new Bitcoin purchases and expand its growing corporate BTC treasury.
 
-🔗 [Blockonomi](https://blockonomi.com/metaplanet-issues-%C2%A58b-bonds-to-expand-bitcoin-holdings/) • 17h ago
+🔗 [Blockonomi](https://blockonomi.com/metaplanet-issues-%C2%A58b-bonds-to-expand-bitcoin-holdings/) • 18h ago
 
 ---
 
@@ -163,7 +163,7 @@ If you go look up a bitcoin chart from 2010 to now. Look at when the halving hap
 
 Tennessee has become the second U.S. state to outlaw Bitcoin and crypto ATMs, making it a criminal offense to own or operate the machines.
 
-Decrypt • 13h ago
+Decrypt • 14h ago
 
 ---
 
@@ -171,7 +171,7 @@ Decrypt • 13h ago
 
 While the Strategy executive chair signals the bitcoin bottom and that institutions will be the next to drive up the price, another market analyst disagreed, saying nation States will be the ones.
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -179,7 +179,7 @@ CoinDesk • 23h ago
 
 Independent researcher Giancarlo Lelli derived a 15-bit elliptic curve key on a publicly accessible quantum computer, Project Eleven said.
 
-The Block • 20h ago
+The Block • 21h ago
 
 ---
 
@@ -187,7 +187,7 @@ The Block • 20h ago
 
 Giancarlo Lelli performed the largest known quantum attack on Bitcoin’s encryption model. His feat is a 512-fold jump from the previous record. Bitcoin enthusiasts are scrambling for ideas to deal with the quantum computing threat.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -211,7 +211,7 @@ The New York Times • 1d ago
 
 Why is the identity of Bitcoin’s founder one of the biggest mysteries in finance? The new documentary “Finding Satoshi” aims to find out. CNN News Central’s John Berman speaks with the two men leading the hunt, Investigative Journalist William Cohan and Quest Research & Investigations private investigator Tyler Maroney.
 
-CNN • 20h ago
+CNN • 21h ago
 
 ---
 
@@ -219,7 +219,7 @@ CNN • 20h ago
 
 VanEck says Bitcoin is showing a reinforced bullish setup as deeply negative funding rates and clustered hash rate declines—historically tied to strong forward returns—signal cautious sentiment rather than capitulation.
 
-Bitcoin Magazine • 13h ago
+Bitcoin Magazine • 14h ago
 
 ---
 
@@ -227,7 +227,7 @@ Bitcoin Magazine • 13h ago
 
 The bitcoin price crash has wiped more than $1 trillion from the cryptocurrency's market cap...
 
-Forbes • 20h ago
+Forbes • 21h ago
 
 ---
 
@@ -283,7 +283,7 @@ Build wallets, issue stablecoins, and move BTC instantly: all natively on Bitcoi
 
 The quantum threat to Bitcoin keeps inching closer, this time thanks to a researcher who broke a simplified cryptographic key.
 
-⬆️ 3 • 💬 3 • 11h ago • [Decrypt](https://decrypt.co/365444/bitcoin-q-day-draws-nearer-quantum-researcher-breaks-simplified-key)
+⬆️ 3 • 💬 3 • 12h ago • [Decrypt](https://decrypt.co/365444/bitcoin-q-day-draws-nearer-quantum-researcher-breaks-simplified-key)
 
 ---
 
@@ -327,7 +327,7 @@ Bitcoin is rallying out of a major drawdown while funding rates stay flat, short
 
 📺 Simply Bitcoin
 
-👁️ 48K • 👍 3K • 💬 187 • ⏱️ 20:08 • 1d ago
+👁️ 49K • 👍 3K • 💬 188 • ⏱️ 20:08 • 1d ago
 
 ---
 
@@ -337,17 +337,7 @@ Crypto #Bitcoin #CryptoNews #Investing #YahooFinance #Blockchain Apr. 24, 2026 -
 
 📺 Yahoo Finance
 
-👁️ 5K • 👍 280 • 💬 55 • ⏱️ 14:53 • 17h ago
-
----
-
-**[The U.S. Military Is Using Bitcoin… To Protect The Dollar?](https://www.youtube.com/watch?v=ZEFiL5kHASQ)**
-
-Bitcoin is no longer just a speculative asset. Top US military leaders are now framing it as a tool of national power and digital ...
-
-📺 Simply Bitcoin
-
-👁️ 14K • 👍 1K • 💬 84 • ⏱️ 14:54 • 12h ago
+👁️ 6K • 👍 286 • 💬 69 • ⏱️ 14:53 • 18h ago
 
 ---
 
@@ -357,17 +347,17 @@ Mark Moss is an optimist and he makes a compelling case for why Bitcoin holders 
 
 📺 Bitcoin Magazine
 
-👁️ 8K • 👍 328 • 💬 23 • ⏱️ 59:02 • 22h ago
+👁️ 9K • 👍 334 • 💬 23 • ⏱️ 59:02 • 23h ago
 
 ---
 
-**[HE SHOULD HAVE KEPT THE BITCOIN](https://www.youtube.com/watch?v=W00FScSCVpg)**
+**[The U.S. Military Is Using Bitcoin… To Protect The Dollar?](https://www.youtube.com/watch?v=ZEFiL5kHASQ)**
 
-Despite the surge in gold prices, Cuban links have taken a hit This client was hoping to break even on his chain, but the market ...
+Bitcoin is no longer just a speculative asset. Top US military leaders are now framing it as a tool of national power and digital ...
 
-📺 G LUXE JEWELERS
+📺 Simply Bitcoin
 
-👁️ 25K • 👍 398 • 💬 29 • ⏱️ 1:52 • 1d ago
+👁️ 15K • 👍 1K • 💬 86 • ⏱️ 14:54 • 13h ago
 
 ---
 
@@ -377,25 +367,17 @@ Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro max, and th
 
 📺 Crypto Jebb
 
-👁️ 4K • 👍 234 • 💬 59 • ⏱️ 49:08 • 18h ago
+👁️ 4K • 👍 236 • 💬 59 • ⏱️ 49:08 • 18h ago
 
 ---
 
-**[Jeffrey Epstein’s connection to Bitcoin](https://www.youtube.com/watch?v=BNAZM6zPCkg)**
+**[HE SHOULD HAVE KEPT THE BITCOIN](https://www.youtube.com/watch?v=W00FScSCVpg)**
 
-📺 Hasan Minhaj
+Despite the surge in gold prices, Cuban links have taken a hit This client was hoping to break even on his chain, but the market ...
 
-👁️ 200K • 👍 4K • 💬 168 • ⏱️ 1:30 • 17h ago
+📺 G LUXE JEWELERS
 
----
-
-**[BITCOIN: THIS IS NEXT!!!!! *concerning*](https://www.youtube.com/watch?v=W9cgmK2ofyU)**
-
-WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 ❎ LeveX: https://levex.com/r/CryptoKid MEMBER UPDATES ...
-
-📺 Crypto Kid
-
-👁️ 3K • 👍 261 • 💬 151 • ⏱️ 13:17 • 12h ago
+👁️ 26K • 👍 406 • 💬 29 • ⏱️ 1:52 • 1d ago
 
 ---
 
@@ -405,7 +387,25 @@ Bitcoin's next move, AMD, MU, Ethereum, QQQ, and more! BITUNIX TRADE THE TOP COI
 
 📺 Lark Davis
 
-👁️ 14K • 👍 833 • 💬 51 • ⏱️ 18:47 • 22h ago
+👁️ 14K • 👍 849 • 💬 53 • ⏱️ 18:47 • 23h ago
+
+---
+
+**[BITCOIN: THIS IS NEXT!!!!! *concerning*](https://www.youtube.com/watch?v=W9cgmK2ofyU)**
+
+WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 ❎ LeveX: https://levex.com/r/CryptoKid MEMBER UPDATES ...
+
+📺 Crypto Kid
+
+👁️ 3K • 👍 279 • 💬 151 • ⏱️ 13:17 • 13h ago
+
+---
+
+**[Jeffrey Epstein’s connection to Bitcoin](https://www.youtube.com/watch?v=BNAZM6zPCkg)**
+
+📺 Hasan Minhaj
+
+👁️ 212K • 👍 4K • 💬 173 • ⏱️ 1:30 • 18h ago
 
 ---
 
@@ -415,7 +415,7 @@ being in bitcoin's top 1% is underrated, and you're likely already there. Borrow
 
 📺 BTC Isla
 
-👁️ 12K • 👍 1K • 💬 181 • ⏱️ 9:00 • 19h ago
+👁️ 12K • 👍 1K • 💬 183 • ⏱️ 9:00 • 20h ago
 
 ---
 

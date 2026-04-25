@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-25T09:54:06.608154+00:00'
+updated: '2026-04-25T10:44:51.545319+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 25, 2026 at 09:54 UTC  
+**Last Updated:** April 25, 2026 at 10:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Been building this ai desktop robot cat lately and tbh the visual feedback is everything. we’re using a 410×502 hd retina screen, and the real-device visual effect is honestly very impressive. pictures really don't do it justice. getting the voice to match the mouth was a nightmare tho. we use an algorithm to extract lip-sync phonemes and align them with the audio, and we also apply optimization methods to make the mouth transitions look natural. it runs on an esp32 rn but we are working on a linux version. kinda just wanted a companion on my desk while i code that actually feels alive, not just a static screen. i usually keep it right below my monitor. having it handle my quick queries or just react to me talking in the room makes a huge difference. watching it react in real time is pretty wild.
 
-6h ago
+7h ago
 
 ---
 
@@ -44,13 +44,13 @@ Been building this ai desktop robot cat lately and tbh the visual feedback is ev
 
 From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2047765371734704574
 
-1h ago
+2h ago
 
 ---
 
 **[A smarter approach on autonomous exploration](https://www.reddit.com/r/robotics/comments/1sv7le7/a_smarter_approach_on_autonomous_exploration/)**
 
-20m ago
+1h ago
 
 ---
 
@@ -58,7 +58,7 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2047765371734704574
 
 First rollout of a simple ACT model and the right looks like it got its ACT together The movement could be smoother I think. The robot still has to learn how to handle weird orientation of the cube. Wrote about it here https://x.com/pbshgthm/status/2047640796699267497
 
-21h ago
+22h ago
 
 ---
 
@@ -66,7 +66,7 @@ First rollout of a simple ACT model and the right looks like it got its ACT toge
 
 Hi All, I am currently working on so101 and am familiar with data collection, training, eval following the lerobot recipes. I wanted to go further and learn better about how to do the same in simulation and use that as a starting point for doing RL from IM. Are there any good guides? Anyone done this before? I understand this might not be a standard path especially with sim-real gap. However wanted to go down this path to better understand the concepts and learn (plus AI tools recommended it)
 
-5h ago
+6h ago
 
 ---
 
@@ -80,7 +80,7 @@ Hi All, I am currently working on so101 and am familiar with data collection, tr
 
 Hi r/robotics, We’re the team from Hertzinno, and we develop industrial acoustic cameras (real-time sound visualization). Recently we’ve been integrating our acoustic camera with quadruped robots for autonomous inspection tasks. The obvious use cases so far: · Compressed air & gas leak detection (finding invisible leaks with sound) · Mechanical fault localization (bearing wear, abnormal noises in motors/gearboxes) But we bet this community has way more creative ideas than we can come up with in our engineering bubble. So we’d love to ask: What surprising or non-obvious applications do you see for a mobile acoustic camera robot?
 
-20h ago
+21h ago
 
 ---
 
@@ -94,7 +94,7 @@ Hi r/robotics, We’re the team from Hertzinno, and we develop industrial acoust
 
 Hey everyone, I've been building autonomous drones with a monocular camera and have been trying to make good use out of Claude Code for my software development. I noticed that while it's great at writing the boilerplate of my ROS2 nodes, the second I get into runtime messaging, Claude has no idea when one message will publish compared to another. Similarly, when I'm doing any work regarding transforms, Claude seems to have no idea about the robots actual position in a world, and it ends up simply guessing what the right transform is. I get a little frustrated by it because I look at web development and see how much Claude has increased the speed of development there. Some of the super AI-first people are letting their agents run overnight. I feel like if I tried that right now, it would just destroy my repository, since I have to hold Claude's hand at every stage. I'm using ROS2 Jazzy and PX4. Anyone else seeing similar problems? If so, how are you currently getting around it?
 
-21h ago
+22h ago
 
 ---
 
@@ -130,7 +130,7 @@ The Robot Report • 1d ago
 
 Oscar Brisset, 25, used most of his vacation days to learn to code. He left BCG to launch a YC-backed AI robotics company.
 
-Yahoo • 2h ago
+Yahoo • 3h ago
 
 ---
 
@@ -138,7 +138,7 @@ Yahoo • 2h ago
 
 Scientists say they've made a key breakthrough that would allow robots to figure out complex tasks on their own — but experts say it raises questions about how much risk comes with letting robots be in charge of their own learning.
 
-NPR • 23h ago
+NPR • 1d ago
 
 ---
 
@@ -198,7 +198,7 @@ Unitree just revealed a humanoid robot using wheels, skates, and even ice blades
 
 📺 DPCcars
 
-👁️ 3K • 👍 47 • 💬 55 • ⏱️ 4:20 • 1d ago
+👁️ 4K • 👍 47 • 💬 55 • ⏱️ 4:20 • 1d ago
 
 ---
 
@@ -208,7 +208,7 @@ Over a hundred Chinese-made humanoid robots participated in a half-marathon race
 
 📺 Global News
 
-👁️ 210K • 👍 2K • 💬 139 • ⏱️ 0:46 • 5d ago
+👁️ 210K • 👍 2K • 💬 140 • ⏱️ 0:46 • 5d ago
 
 ---
 
@@ -218,7 +218,7 @@ AGIBOT just rolled out a full new wave of humanoid robots and AI models built fo
 
 📺 AI Revolution
 
-👁️ 36K • 👍 829 • 💬 62 • ⏱️ 16:29 • 4d ago
+👁️ 36K • 👍 829 • 💬 65 • ⏱️ 16:29 • 4d ago
 
 ---
 
@@ -228,7 +228,7 @@ For the first time, an AI-powered machine has bested elite-level athletes at a p
 
 📺 nature video
 
-👁️ 100K • 👍 2K • 💬 202 • ⏱️ 13:38 • 2d ago
+👁️ 102K • 👍 2K • 💬 203 • ⏱️ 13:38 • 2d ago
 
 ---
 
@@ -238,7 +238,7 @@ An Elon Musk robotic dog was seen wandering around San Francisco, bumping into s
 
 📺 CNN
 
-👁️ 161K • 👍 2K • 💬 396 • ⏱️ 0:42 • 6d ago
+👁️ 161K • 👍 2K • 💬 397 • ⏱️ 0:42 • 6d ago
 
 ---
 
@@ -248,7 +248,7 @@ In Beijing, a humanoid robot just completed a 21-kilometer half-marathon in an a
 
 📺 Capital Markets AI
 
-👁️ 35K • 👍 657 • 💬 151 • ⏱️ 8:58 • 5d ago
+👁️ 35K • 👍 658 • 💬 151 • ⏱️ 8:58 • 5d ago
 
 ---
 
@@ -258,17 +258,7 @@ A humanoid robot has beaten the human record for the world's fastest half-marath
 
 📺 ABC News (Australia)
 
-👁️ 102K • 👍 649 • ⏱️ 6:44 • 5d ago
-
----
-
-**[Humanoid robots race past humans in Beijing half-marathon](https://www.youtube.com/watch?v=oLdVcsttB_A)**
-
-Dozens of Chinese-made humanoid robots showed off their fast-improving athleticism as they whizzed past human runners in a ...
-
-📺 Guardian News
-
-👁️ 95K • 👍 250 • 💬 103 • ⏱️ 0:37 • 5d ago
+👁️ 103K • 👍 648 • ⏱️ 6:44 • 5d ago
 
 ---
 
@@ -282,11 +272,23 @@ TienKung Ultra finished the full 21.0975 km in 1:15:00 — fully autonomous, zer
 
 ---
 
-**[Runners v robots at Beijing half marathon. #China #Beijing #Robots #BBCNews](https://www.youtube.com/watch?v=MfS5m4MARGk)**
+**[Humanoid robots race past humans in Beijing half-marathon](https://www.youtube.com/watch?v=oLdVcsttB_A)**
 
-📺 BBC News
+Dozens of Chinese-made humanoid robots showed off their fast-improving athleticism as they whizzed past human runners in a ...
 
-👁️ 126K • 👍 1K • 💬 117 • ⏱️ 0:42 • 5d ago
+📺 Guardian News
+
+👁️ 95K • 👍 250 • 💬 103 • ⏱️ 0:37 • 5d ago
+
+---
+
+**[300+ Robots Join Historic Run: Humanoid Robots Race Past Humans in Beijing Half Marathon | AI1Z](https://www.youtube.com/watch?v=ikd7EcKvONo)**
+
+Dozens of humanoid robots competed alongside human runners in the Beijing half marathon, showcasing China's rapid ...
+
+📺 DRM News
+
+👁️ 39K • 👍 403 • 💬 152 • ⏱️ 8:15 • 6d ago
 
 ---
 
