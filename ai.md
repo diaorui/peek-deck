@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-25T15:08:49.175356+00:00'
+updated: '2026-04-25T16:05:56.766253+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
-- repositories
 - news
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 25, 2026 at 15:08 UTC  
+**Last Updated:** April 25, 2026 at 16:05 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[We released an open source tool that handles AI agent setup and config. 700 stars and growing. What features do you want to see?](https://www.reddit.com/r/artificial/comments/1sv9o4y/we_released_an_open_source_tool_that_handles_ai/)**
+**[Gen Alpha boys are preferring “AI girlfriends” over real ones](https://www.reddit.com/r/artificial/comments/1svesyt/gen_alpha_boys_are_preferring_ai_girlfriends_over/)**
 
-Hey everyone, A while back we got frustrated with how painful it is to set up AI agents consistently. Every project had its own approach, configs were scattered, and the gap between what works locally vs in production was always a surprise. So we built Caliber. Open source, free, focused on making AI agent setup reproducible and sane. We just crossed 700 GitHub stars and are almost at 100 forks. Sharing here because we want feedback from people who actually work with AI systems day to day. Repo: https://github.com/caliber-ai-org/ai-setup What is your current approach to managing agent configs across environments? And if there is a specific pain point you have that Caliber does not yet solve, we want to hear it. Building in public and taking the community seriously.
+A new survey carried out amongst 12 to 16-year-old boys has found that many of them prefer to use AI chatbots than engage with other people their age.
 
-3h ago
+🔗 [Dexerto](https://www.dexerto.com/entertainment/gen-alpha-boys-are-preferring-ai-girlfriends-over-real-ones-3356718/) • 53m ago
 
 ---
 
-**[Got into the Anthropic Claude Partner Network — have spots for people who want CCAF cert access](https://www.reddit.com/r/artificial/comments/1sv02t1/got_into_the_anthropic_claude_partner_network/)**
+**[Fortune 100 AI Use](https://www.reddit.com/r/artificial/comments/1svfkdt/fortune_100_ai_use/)**
 
-Just got accepted into the Anthropic Claude Partner Network. Part of the requirement is completing the CPN learning path with 10 people under our org’s domain. The learning path is 4 courses on Anthropic Academy — Agent Skills, Claude API, MCP, and Claude Code in Action. Once all 10 finish, the org gets CCAF exam access unlocked. The exam is currently free for partner org members if anyone here is already working with Claude and wants to complete this alongside us. You’d use a company domain email alias we set up — courses are fully self-paced. The courses are genuinely useful if you’re building with Claude. Comment or DM if relevant to you.
+I work for a Fortune 100 company that is not in the tech space. The company is increasingly using AI to make employees more productive. They have introduced internal AI chat tools that allow selection of OpenAI or Gemini models. We’ve also rolled out M365 Copilot to executives and middle managers. (While not earth-shattering, it certainly has made me more productive and integrates well with our Microsoft ecosystem.) Where I have not seen it as much is in our tool development/digital solutions. While there is a lot of talk about it being embedded in decision making in the future, I’ve not seen it used effectively by our internal developers or external developer partners. I keep waiting for a significant increase in the pace of feature development. Are others feeling this tension, where the expectation of faster feature development via AI is meeting reality or are we just falling behind?
 
-12h ago
+22m ago
 
 ---
 
@@ -57,7 +57,31 @@ Just got accepted into the Anthropic Claude Partner Network. Part of the require
 
 Oops! "GPT‑5.5 is our strongest agentic coding model to date." "The gains are especially strong in agentic coding." "Instead of carefully managing every step, you can give GPT‑5.5 a messy, multi-part task and trust it to plan, use tools, check its work, navigate through ambiguity, and keep going." These quotations sum up OpenAI's spin on 5.5. They created an entirely new subscription tier for it and made it the focus of Codex. Here, agentic coding isn’t just a feature but the selling point. Well, looking at LiveBench’s independent agentic coding score, this is just a lot of hot air. The score for GPT-5.5 xHigh Effort is 56.67. Its predecessor, GPT-5.4, thrashes it at 70.00 on the same benchmark. Gemini 3.1 Pro, Claude 4.6 and others easily outperform it, too. In this highly relevant benchmark alone, it actually ranks 11th, just behind GPT-5.1 Codex. While OpenAI were able to max Terminal-Bench (their benchmark) and SWE-Bench Pro, in a reliable test they didn’t design, select, or control, their main model falls drastically short compared both to its predecessor and the competition in the area it was meant to excel in. Is this as damning as it looks? What's your experience actually using 5.5 for agentic coding?
 
-8h ago
+9h ago
+
+---
+
+**[Got into the Anthropic Claude Partner Network — have spots for people who want CCAF cert access](https://www.reddit.com/r/artificial/comments/1sv02t1/got_into_the_anthropic_claude_partner_network/)**
+
+Just got accepted into the Anthropic Claude Partner Network. Part of the requirement is completing the CPN learning path with 10 people under our org’s domain. The learning path is 4 courses on Anthropic Academy — Agent Skills, Claude API, MCP, and Claude Code in Action. Once all 10 finish, the org gets CCAF exam access unlocked. The exam is currently free for partner org members if anyone here is already working with Claude and wants to complete this alongside us. You’d use a company domain email alias we set up — courses are fully self-paced. The courses are genuinely useful if you’re building with Claude. Comment or DM if relevant to you.
+
+13h ago
+
+---
+
+**[We released an open source tool that handles AI agent setup and config. 700 stars and growing. What features do you want to see?](https://www.reddit.com/r/artificial/comments/1sv9o4y/we_released_an_open_source_tool_that_handles_ai/)**
+
+Hey everyone, A while back we got frustrated with how painful it is to set up AI agents consistently. Every project had its own approach, configs were scattered, and the gap between what works locally vs in production was always a surprise. So we built Caliber. Open source, free, focused on making AI agent setup reproducible and sane. We just crossed 700 GitHub stars and are almost at 100 forks. Sharing here because we want feedback from people who actually work with AI systems day to day. Repo: https://github.com/caliber-ai-org/ai-setup What is your current approach to managing agent configs across environments? And if there is a specific pain point you have that Caliber does not yet solve, we want to hear it. Building in public and taking the community seriously.
+
+4h ago
+
+---
+
+**[What AI models/companies you think is best value?](https://www.reddit.com/r/artificial/comments/1sveiji/what_ai_modelscompanies_you_think_is_best_value/)**
+
+I'm planning on getting an AI subscription, I currently have Perplexity PRO where i paid a year that it's close to expire, Gemini that it's included with Google One. I wanted to subscribe to one that will get me more performance/use for my money and i have doubts about the recent changes in some of the companies. The main points and concerns I have are, Anthropic seems to be making their models "dumber" every now and then, reducing the use for normal users. OpenAI is expensive where I live and doesn't have a year plan that offers some kind of discount. I was checking Kimi but lot of people says that they have problems with payments, being charged double and stuff... Also as it doesn't seem to be used that much, there isn't lots of information avaliable about the subscriptions they offer themselves. With the current changes in all companies, what do you think it's the one that offers the best value for money?
+
+1h ago
 
 ---
 
@@ -65,15 +89,7 @@ Oops! "GPT‑5.5 is our strongest agentic coding model to date." "The gains are 
 
 been getting DMs asking about tools that don't fit the usual "AI coding assistant" box. so i finally did something about it. tolop.space (yes, new domain — more on that below) what's new: added Atoms :- multi-agent app builder where 7 AI roles (PM, engineer, architect, SEO specialist, data analyst, researcher, team lead) collaborate to build your product. has a genuine forever-free plan with 15 credits/day, not a time-limited trial. added Leadline :- finds Reddit posts where people are actively looking to switch tools or asking for recommendations, with AI-drafted replies included. starts at $9/month which is the cheapest Reddit lead tool i've found. but the one i'm most excited about is Transcrisper :- and it's the reason i added a whole new category. niche tools :- for single-purpose utilities that are completely free, do one thing well, and don't fit anywhere else. Transcrisper is a good example of what belongs there. free, unlimited audio/video transcription that runs entirely in your browser. no account, no uploads, no cloud — your audio never leaves your device. powered by Parakeet-TDT, open-source on GitHub. the kind of tool that's genuinely useful for journalists, researchers, or anyone handling recordings they can't send to a cloud service. the point of the niche tools category isn't AI coding tools. it's the stuff developers and builders actually use day-to-day that nobody talks about in the same breath as Cursor or Copilot. on the new domain :- moved from tolop.vercel.app to tolop.space. went with .space specifically because the whole idea of the site is discovering tools in a new space, whether that's a coding space, a research space, a building space. felt right. vercel subdomain was always temporary anyway. if you know a tool that belongs in niche tools, free, single-purpose, actually useful :- drop it below. building the category out. Btw the website is completely free, no signup, no freemium nothing
 
-1h ago
-
----
-
-**[What automation would you create just by typing for your AI you run?](https://www.reddit.com/r/artificial/comments/1sv3ucz/what_automation_would_you_create_just_by_typing/)**
-
-What would you want your ai to manage / remind you of / proactively reach out on without fail?
-
-9h ago
+2h ago
 
 ---
 
@@ -81,7 +97,7 @@ What would you want your ai to manage / remind you of / proactively reach out on
 
 You walk into a store. The price tag makes no sense. Not you. The store did the math. They figured out they don't need you. They don't need ten of you. They need one of a different customer who pays sticker and doesn't blink.
 
-🔗 [kitchencloset.com](https://kitchencloset.com/realstuff/essays/you_are_a_decimal_point/) • 9h ago
+🔗 [kitchencloset.com](https://kitchencloset.com/realstuff/essays/you_are_a_decimal_point/) • 10h ago
 
 ---
 
@@ -89,31 +105,15 @@ You walk into a store. The price tag makes no sense. Not you. The store did the 
 
 US News is a recognized leader in college, grad school, hospital, mutual fund, and car rankings. Track elected officials, research health conditions, and find news you can use in politics, business, health, and education.
 
-🔗 [US News & World Report](https://www.usnews.com/news/top-news/articles/2026-04-23/white-house-accuses-china-of-industrial-scale-theft-of-ai-technology-ft-reports) • 23h ago
+🔗 [US News & World Report](https://www.usnews.com/news/top-news/articles/2026-04-23/white-house-accuses-china-of-industrial-scale-theft-of-ai-technology-ft-reports) • 1d ago
 
 ---
 
-**[AI swarms could hijack democracy without anyone noticing](https://www.reddit.com/r/artificial/comments/1su3976/ai_swarms_could_hijack_democracy_without_anyone/)**
+**[What automation would you create just by typing for your AI you run?](https://www.reddit.com/r/artificial/comments/1sv3ucz/what_automation_would_you_create_just_by_typing/)**
 
-A recent policy forum paper published in Science describes how large groups of AI-generated personas can convincingly imitate human behavior online. These systems can enter digital communities, participate in discussions, and influence viewpoints at extraordinary speed. Unlike earlier bot networks, these AI agents can coordinate instantly, adapt their messaging in real time, and run millions of micro-experiments to figure out which arguments are most persuasive. One operator could theoretically manage thousands of distinct voices. Experts believe AI swarms could significantly affect the balance of power in democratic societies. Researchers suggest that upcoming elections may serve as a critical test for this technology. The key challenge will be recognizing and responding to these AI-driven influence campaigns before they become too widespread to control. That's so crazy. Research Paper: https://www.science.org/doi/10.1126/science.adz1697
+What would you want your ai to manage / remind you of / proactively reach out on without fail?
 
-🔗 [ScienceDaily](https://www.sciencedaily.com/releases/2026/04/260420014748.htm) • 1d ago
-
----
-
-**[Does the use of AI have the same value as when personal computers first came into use?](https://www.reddit.com/r/artificial/comments/1suofqd/does_the_use_of_ai_have_the_same_value_as_when/)**
-
-These days, what we hear most often is that AI will replace many jobs and could create chaos. But perhaps if we compare it to when personal computers first started being used, we'll see the same impact. And that didn't cause chaos, nor did it lead to an economic collapse or a massive number of layoffs. Some points to compare: - When personal computers first emerged, they began to be used for a wide variety of tasks and functions, in offices, at home, in college, in a wide variety of professions. The same is happening with AI, which is being used in the same way. - The personal computer was and is just a tool; it wasn't, on its own, something that caused a huge disruption in how things are done; it only accelerated processes. If we compare it to AI, it is also a tool that reduces the time spent completing a given task or service. - Just like in the early days of personal computers, many people were against them because they were used to the old processes, for example, those who used typewriters or did calculations manually before using spreadsheets. The same thing happens with AI; a large part of the population is against it because of the fear and anxiety generated by changing old processes. Currently, almost everyone has personal computers at home and has had to learn how to use them; the same should happen with AI. Everyone will have to learn how to use it and will use it in their daily routine. Do you agree with this opinion? What is your opinion?
-
-20h ago
-
----
-
-**[When you share something AI-generated with a non-technical friend, what format do you actually use?](https://www.reddit.com/r/artificial/comments/1sv0gas/when_you_share_something_aigenerated_with_a/)**
-
-Hey guys, happy Friday! I've been thinking about this a lot lately. PDF is universal, anyone can open it, anywhere, on any device. But when AI generates something interactive, like a calculator, a dashboard, a birthday card with animations, and PDF kills everything that makes it useful. HTML keeps all the interactivity but then you're stuck. You can't just "send" it. Your friend gets a wall of code, or you have to paste it into CodePen, or you just... take a screenshot and send that instead. I've started thinking of it as: HTML has no equivalent of "just attach the PDF." There's no universal format for interactive AI output that anyone can open on their phone without friction. Curious what others do, do you convert to PDF and lose the interactivity? Screenshot it? Host it somewhere? Or just describe what it looked like? lol What's your actual workflow here?
-
-12h ago
+10h ago
 
 ---
 
@@ -121,59 +121,41 @@ Hey guys, happy Friday! I've been thinking about this a lot lately. PDF is unive
 
 ## Google News: "ai"
 
-**[Google to invest up to $40 billion in Anthropic as search giant spreads its AI bets](https://www.cnbc.com/2026/04/24/google-to-invest-up-to-40-billion-in-anthropic-as-search-giant-spreads-its-ai-bets.html)**
+**[AI talent war: Software industry is a new target as top executives jump ship to OpenAI](https://www.cnbc.com/2026/04/25/ai-talent-wars-enterprise-software-executives-openai.html)**
 
-Anthropic said its latest agreement with Google expands on a longstanding partnership between the two companies.
+Software giants are seeing their worst stock performance in years on fears of AI disruption. Now they have a new problem.
 
-CNBC • 21h ago
-
----
-
-**[Google Commits to Invest Up to $40 Billion in Anthropic](https://www.nytimes.com/2026/04/24/technology/google-anthropic-investment-artificial-intelligence.html)**
-
-The New York Times • 21h ago
-
----
-
-**[Google's $40B Anthropic move is Big Tech's latest huge AI bet](https://www.axios.com/2026/04/24/google-amazon-anthropic-investment)**
-
-Axios • 21h ago
+CNBC • 3h ago
 
 ---
 
 **[Essay | AI Is Cannibalizing Human Intelligence. Here’s How to Stop It.](https://www.wsj.com/tech/ai/is-ai-smarter-than-humans-cyborg-956e0f0e)**
 
-WSJ • 21h ago
+WSJ • 22h ago
 
 ---
 
-**[Why Silicon Valley Is Turning to the Catholic Church](https://www.theatlantic.com/ideas/2026/04/silicon-valley-catholicism-ai-leo/686948/)**
+**[Met investigates hundreds of officers after using Palantir AI tool](https://www.theguardian.com/uk-news/2026/apr/25/met-police-investigates-hundreds-officers-palantir-ai-tool)**
 
-Priests and theologians want to shape the future of AI. Big Tech is listening.
+Met says AI software unearthed rule-breaking ranging from work-from-home violations to suspected corruption
 
-The Atlantic • 4h ago
-
----
-
-**[Trump alum helps Israel mount AI influence campaign](https://www.axios.com/2026/04/25/israel-ai-influence-parscale)**
-
-Axios • 3h ago
+The Guardian • 34m ago
 
 ---
 
-**[Facing AI and a tough job market, gen Z turns to entrepreneurship: ‘I have to prove myself’](https://www.theguardian.com/technology/ng-interactive/2026/apr/25/gen-z-entrepreneurs-business-ai)**
+**[Something is happening in our interactions with AI. But what?](https://www.psychologytoday.com/us/blog/experimentations/202604/the-pluripotent-ocean-of-emerging-ai)**
 
-As AI erases the bottom rungs of the corporate ladder, some gen Z workers skip the entry level to become their own CEOs
+Life emerged from the fabled primordial soup, some antediluvian sea. These systems seem alive, and humans increasingly wonder if they are conscious, because they sure feel real.
 
-The Guardian • 3h ago
+Psychology Today • 1h ago
 
 ---
 
-**[Column | Don’t tell your AI chatbot these 5 things to keep your money safe](https://www.washingtonpost.com/business/2026/04/25/ai-financial-advice-privacy-concerns/)**
+**[How Art Firms Are—or Should Be—Using A.I. Right Now](https://news.artnet.com/art-world/ai-adoption-on-the-rise-2767684)**
 
-Artificial intelligence tools have made financial advice more accessible, but they have also created a significant privacy risk.
+Art firms are cautiously adopting A.I., using it for data, discovery, and client insights as new tools emerge.
 
-The Washington Post • 1h ago
+Artnet News • 1h ago
 
 ---
 
@@ -185,23 +167,37 @@ OpenAI • 1d ago
 
 ---
 
-**[Anthropic’s New A.I. Model Sets Off Global Alarms](https://www.nytimes.com/2026/04/22/technology/anthropics-mythos-ai.html)**
+**[Column | Don’t tell your AI chatbot these 5 things to keep your money safe](https://www.washingtonpost.com/business/2026/04/25/ai-financial-advice-privacy-concerns/)**
 
-The New York Times • 3d ago
+Artificial intelligence tools have made financial advice more accessible, but they have also created a significant privacy risk.
+
+The Washington Post • 16m ago
+
+---
+
+**[Google Commits to Invest Up to $40 Billion in Anthropic](https://www.nytimes.com/2026/04/24/technology/google-anthropic-investment-artificial-intelligence.html)**
+
+The New York Times • 20h ago
+
+---
+
+**[Google to invest up to $40 billion in Anthropic as search giant spreads its AI bets](https://www.cnbc.com/2026/04/24/google-to-invest-up-to-40-billion-in-anthropic-as-search-giant-spreads-its-ai-bets.html)**
+
+Anthropic said its latest agreement with Google expands on a longstanding partnership between the two companies.
+
+CNBC • 22h ago
+
+---
+
+**[Google's $40B Anthropic move is Big Tech's latest huge AI bet](https://www.axios.com/2026/04/24/google-amazon-anthropic-investment)**
+
+Axios • 6h ago
 
 ---
 
 ---
 
 ## HackerNews: "ai"
-
-**[Scoring Show HN submissions for AI design patterns](https://news.ycombinator.com/item?id=47864393)**
-
-An attempt to detect AI design patterns in Show HN pages
-
-⬆️ 330 • 💬 233 • 3d ago • [adriankrebs.ch](https://www.adriankrebs.ch/blog/design-slop/)
-
----
 
 **[MeshCore development team splits over trademark dispute and AI-generated code](https://news.ycombinator.com/item?id=47878117)**
 
@@ -215,7 +211,7 @@ Migrating to the new meshcore.io site
 
 The widely circulated image had prompted authorities to move their search operation.
 
-⬆️ 232 • 💬 151 • 1d ago • [bbc.com](https://www.bbc.com/news/articles/c4gx1n0dl9no)
+⬆️ 232 • 💬 152 • 1d ago • [bbc.com](https://www.bbc.com/news/articles/c4gx1n0dl9no)
 
 ---
 
@@ -231,15 +227,7 @@ How Ars Technica uses, and doesn't use, generative AI.
 
 The airport targeted gate announcements, overlapping PA messages, and tenant music. Instead of blasting departure calls terminal-wide, messages are limited to each gate and their immediate surroundings. In 2020, they worked with airlines to centralize and reduce announcements, cutting 40% of the paging.
 
-⬆️ 146 • 💬 86 • 20h ago • [View from the Wing](https://viewfromthewing.com/san-francisco-airport-removed-90-minutes-of-daily-noise-travelers-say-it-changed-everything/)
-
----
-
-**[Top MAGA influencer revealed to be AI](https://news.ycombinator.com/item?id=47864808)**
-
-According to her profile, she was a registered nurse with Jennifer Lawrence looks who offered red meat posts to lonely conservative men online.
-
-⬆️ 98 • 💬 54 • 2d ago • [New York Post](https://nypost.com/2026/04/21/us-news/top-maga-influencer-emily-hart-revealed-to-be-ai-created-by-a-guy-in-india/)
+⬆️ 147 • 💬 88 • 21h ago • [View from the Wing](https://viewfromthewing.com/san-francisco-airport-removed-90-minutes-of-daily-noise-travelers-say-it-changed-everything/)
 
 ---
 
@@ -247,7 +235,7 @@ According to her profile, she was a registered nurse with Jennifer Lawrence look
 
 Give any AI agent a persistent memory in minutes. Works with Claude, ChatGPT, Ollama, OpenRouter, and any MCP-compatible agent. Open source, self-hosted, model-agnostic.
 
-⬆️ 95 • 💬 45 • 13h ago • [Stash](https://alash3al.github.io/stash?_v01)
+⬆️ 120 • 💬 56 • 14h ago • [Stash](https://alash3al.github.io/stash?_v01)
 
 ---
 
@@ -255,7 +243,13 @@ Give any AI agent a persistent memory in minutes. Works with Claude, ChatGPT, Ol
 
 Tesla disclosed in a single sentence in its Q1 2026 10-Q that it agreed to acquire an unnamed AI hardware company for up to $2 billion in stock — a deal it never mentioned in its shareholders' letter or earnings call.
 
-⬆️ 75 • 💬 47 • 22h ago • [Electrek](https://electrek.co/2026/04/23/tesla-tsla-quietly-discloses-2-billion-ai-hardware-acquisition-10q/)
+⬆️ 76 • 💬 47 • 23h ago • [Electrek](https://electrek.co/2026/04/23/tesla-tsla-quietly-discloses-2-billion-ai-hardware-acquisition-10q/)
+
+---
+
+**[Lambda Calculus Benchmark for AI](https://news.ycombinator.com/item?id=47900506)**
+
+⬆️ 70 • 💬 25 • 4h ago • [victortaelin.github.io](https://victortaelin.github.io/lambench/)
 
 ---
 
@@ -271,7 +265,15 @@ The Thus chip will first be in new earbuds.
 
 A personal knowledge base that turns freeform notes into a semantically-connected, AI-augmented knowledge graph.
 
-⬆️ 58 • 💬 41 • 1d ago • [atomicapp.ai](https://atomicapp.ai/)
+⬆️ 60 • 💬 41 • 1d ago • [atomicapp.ai](https://atomicapp.ai/)
+
+---
+
+**[Do you want the US to "win" AI?](https://news.ycombinator.com/item?id=47873796)**
+
+By all accounts, I should be a neofeudalist. I should love what’s happening. The AI I dreamed of my whole life is being built, engineer-type strongmen are sort of in charge, and people are saying out loud the things I have just thought. You might argue that I like it and I’m just not happy with my seat at the table. I ask myself a lot if this is true, like what if I was Elon. Would I be enjoying it then from that position?
+
+⬆️ 54 • 💬 105 • 2d ago • [the singularity is nearer](https://geohot.github.io//blog/jekyll/update/2026/04/23/us-win-ai.html)
 
 ---
 
@@ -285,7 +287,7 @@ Watch the Majority Report live Monday–Friday at 12pm EST on YouTube or http://
 
 📺 The Majority Report w/ Sam Seder
 
-👁️ 27K • 👍 1K • 💬 269 • ⏱️ 13:15 • 17h ago
+👁️ 27K • 👍 1K • 💬 269 • ⏱️ 13:15 • 18h ago
 
 ---
 
@@ -305,7 +307,7 @@ I don't think I said this quite clearly enough in this video but I have no idea 
 
 📺 vlogbrothers
 
-👁️ 136K • 👍 10K • 💬 1K • ⏱️ 8:43 • 19h ago
+👁️ 136K • 👍 10K • 💬 1K • ⏱️ 8:43 • 20h ago
 
 ---
 
@@ -325,7 +327,7 @@ Hello guys and gals, it's me Mutahar again! This time we take a look at what app
 
 📺 SomeOrdinaryGamers
 
-👁️ 119K • 👍 6K • 💬 765 • ⏱️ 19:20 • 14h ago
+👁️ 119K • 👍 6K • 💬 765 • ⏱️ 19:20 • 15h ago
 
 ---
 
@@ -333,7 +335,7 @@ Hello guys and gals, it's me Mutahar again! This time we take a look at what app
 
 📺 Dean Graziosi
 
-👁️ 127K • 👍 6K • 💬 53 • ⏱️ 4:21:14 • 17h ago
+👁️ 127K • 👍 6K • 💬 53 • ⏱️ 4:21:14 • 18h ago
 
 ---
 
@@ -461,7 +463,7 @@ Qwen3.6-27B-GGUF is a 27B parameter causal language model with vision capabiliti
 
 `image-text-to-text` `26.9B`
 
-⬇️ 458,273 • ❤️ 393 • 2d ago
+⬇️ 458,273 • ❤️ 393 • 3d ago
 
 ---
 
@@ -647,7 +649,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 49.6k • 🔱 6.5k • 5h ago
+⭐ 49.6k • 🔱 6.5k • 6h ago
 
 ---
 
@@ -677,7 +679,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 34.6k • 🔱 3.8k • 11m ago
+⭐ 34.6k • 🔱 3.8k • 1h ago
 
 ---
 
@@ -737,7 +739,7 @@ The headless browser for AI agents and web scraping
 
 `Rust`
 
-⭐ 4.0k • 🔱 236 • 2h ago
+⭐ 4.0k • 🔱 236 • 3h ago
 
 ---
 

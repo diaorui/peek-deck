@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-25T15:08:49.185275+00:00'
+updated: '2026-04-25T16:05:56.780696+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - cryptocurrency
+- videos
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 25, 2026 at 15:08 UTC  
+**Last Updated:** April 25, 2026 at 16:05 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
-**7d:** +2.4%  
-**30d:** +16.2%  
-**90d:** -20.9%  
-**1y:** +27.2%  
+**24h:** -0.5%  
+**7d:** +2.0%  
+**30d:** +15.8%  
+**90d:** -21.2%  
+**1y:** +26.7%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 been spending way too much time looking at the recent string of defi exploits and the amount of supply locked up in the same three lst platforms is honestly giving me anxiety. having that much of the network reliant on a few centralized points of failure makes me paranoid about massive tail risks. every time the market swings i find myself wanting to hedge this exposure, but the options are terrible. you either convert to fiat and trigger taxable events, or you play russian roulette with wrapped assets and multisig bridges that seem to get drained every other week. i went down a rabbit hole last night trying to find a way to secure my yields natively, maybe even hedging with digital gold or something stable, without fragmenting my liquidity across a dozen vulnerable front-ends. what are you guys actually doing to protect your bags long term? are we just stuck choosing between bare validator yields and accepting the centralized lst risk? curious if anyone has found a trust-minimized way to hedge this without leaving the ecosystem.
 
-1h ago
+2h ago
 
 ---
 
@@ -88,21 +88,13 @@ been spending way too much time looking at the recent string of defi exploits an
 
 Aave DAO offers to contribute 25,000 ETH toward DeFi United, a coordinated ecosystem recovery effort to restore the full backing of KelpDAO's rsETH. The coalition, which includes Lido, EtherFi, Ethena, Mantle, and others, aims to cover a ~75,081 ETH residual shortfall.
 
-🔗 [Aave](https://governance.aave.com/t/arfc-rseth-incident-funding-update/24740) • 20h ago
+🔗 [Aave](https://governance.aave.com/t/arfc-rseth-incident-funding-update/24740) • 21h ago
 
 ---
 
 **[Daily General Discussion April 24, 2026](https://www.reddit.com/r/ethereum/comments/1su63qw/daily_general_discussion_april_24_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-1d ago
-
----
-
-**[Centralised influence vs decentralised systems, where does Ethereum actually stand?](https://www.reddit.com/r/ethereum/comments/1sui2cy/centralised_influence_vs_decentralised_systems/)**
-
-Been thinking about this after watching how quickly narratives can shift online when a single high-profile account amplifies something. For example, when someone like Elon Musk boosts a topic (whether it’s tech, markets, or even something like Restore Britain), you can see attention move almost instantly. Not necessarily adoption but definitely awareness and discussion. It made me wonder how this fits into Ethereum’s whole “credible neutrality” idea. On paper: Ethereum is decentralised No single actor controls the protocol Consensus is distributed But in practice: Social layers (Twitter/X, Reddit, influencers) still shape what people look at Narratives form off-chain before anything happens onchain Attention itself is still pretty centralised So the question is does Ethereum actually solve the influence problem or just move it up a layer?
 
 1d ago
 
@@ -148,6 +140,14 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
+**[WPVS — A Better Valuation Framework for RWA Lending Protocols](https://www.reddit.com/r/ethereum/comments/1stv121/wpvs_a_better_valuation_framework_for_rwa_lending/)**
+
+TVL is the default metric for DeFi lending protocols. For this category specifically, it is actively backwards. I built a replacement framework and applied it to Clearpool — the market is pricing it at 8 cents per dollar of protocol value. Here's the full methodology. WPVS — A Better Valuation Framework for RWA Lending Protocols The core problem: When a lending protocol deploys capital to a borrower, TVL falls. The protocol is doing exactly what it was designed to do — yet every data aggregator shows a declining number. When borrowers repay and capital sits idle, TVL rises. The protocol is doing nothing — yet dashboards show recovery. The idle bank looks healthier than the active one. That is a structural flaw, not a data quirk. The Framework Every pool in a lending protocol falls into one of four functional types. Each requires a different metric. Using TVL across all four produces distorted comparisons. Type 1 — Active Lending Pools Capital deployed to institutional borrowers on an unsecured or undercollateralized basis. Utilization Rate = Active Loans / Total Originations Lending Score = Total Originations x (Utilization Rate)^0.4 The exponent of 0.4 penalizes protocols where originations are purely historical but rewards active current deployment. Weight: 2.0x — hardest to execute, highest moat. Type 2 — Treasury / Savings Vaults Capital in short-duration government instruments — T-Bills, repo, money market funds. Treasury Score = TVL x (1 + APY / 10) TVL actually works here because the capital isn't being deployed — it sits in instruments. The APY multiplier differentiates product quality. Weight: 0.8x — commoditized, minimal moat. Type 3 — Real World Credit Vaults Capital deployed into real economy credit — housing finance, trade finance, emerging market lending. RWA Score = TVL x (1 + APY / 5) The divisor of 5 (vs 10 for Treasury) gives a larger APY multiplier reflecting the complexity premium. Weight: 1.5x — real economic impact, complexity premium. Type 4 — Market Neutral / Arbitrage Vaults Delta-neutral strategies — futures basis arbitrage, funding rate capture. Arb Score = TVL x (1 + APY / 7) Weight: 1.2x — valuable but replicable. No durable moat. The Combined Formula WPVS = (Lending Score x 2.0) + (Treasury Score x 0.8) + (RWA Score x 1.5) + (Arb Score x 1.2) Sentiment-to-Value Ratio = Market Cap / WPVS Interpretation: Below 0.5x — potentially deeply undervalued 0.5x to 1.5x — fair value range 1.5x to 3.0x — growth premium Above 3.0x — speculative premium Case Study: Clearpool Finance — April 22, 2026 Clearpool has originated $937M in institutional loans with zero defaults since April 2022. As of April 2026 the protocol also runs Treasury vaults, arbitrage vaults, and real world credit vaults through its Ozean L2 initiative. Pool inventory: Prime Active Loans: $6.5M active / $937M originated Hex Trust Treasury Pool: $29.5M USDX @ 3.5% APY X-Pool (Arb): $1.46M USDX @ 8-15% avg APY OLA Vault (RWA): $200K USDC @ 10% APY Important note on DeFiLlama: DeFiLlama reports Clearpool TVL at approximately $1.5M. Direct inspection of the protocol dashboard reveals approximately $37-38M in active capital. The gap exists because DeFiLlama does not index USDX-denominated pools which contain the majority of current liquidity. This is exactly the kind of data gap that makes TVL unreliable for this protocol category. Calculation: Lending Score: Utilization = $6.5M / $937M = 0.69% util^0.4 = 0.13692 Score = $937M x 0.13692 = $128,294,813 Treasury Score: $29.5M x (1 + 3.5/10) = $29.5M x 1.35 = $39,825,000 Arb Score: $1.46M x (1 + 11.5/7) = $1.46M x 2.643 = $3,858,571 RWA Score: $200K x (1 + 10/5) = $200K x 3.0 = $600,000 WPVS Breakdown: Lending: $128,294,813 x 2.0 = $256,589,626 (87.3%) Treasury: $39,825,000 x 0.8 = $31,860,000 (10.8%) Arb: $3,858,571 x 1.2 = $4,630,285 (1.6%) RWA: $600,000 x 1.5 = $900,000 (0.3%) Total WPVS = $293,979,911 (~$294M) Result: Market Cap: $23.4M WPVS: $294M Sentiment-to-Value Ratio: 0.080x The market is pricing Clearpool at 8 cents per dollar of weighted protocol value. Fair value by this framework begins at 0.5x. Even discounting the lending score by 50% to account for low current utilization, the ratio stays below 0.15x. Sector Dashboard (April 2026) Currently tracking five protocols weekly. Clearpool is live — Maple Finance, Centrifuge, TrueFi, and Ondo Finance being added through May. Protocol Market Cap WPVS Ratio Status Clearpool $23.4M $294M 0.080x Live — updated daily Maple Finance $182M $19.7B 0.009x Added this week Centrifuge $168M $2.07B 0.081x Adding next week TrueFi TBD Pending TBD Coming Ondo Finance TBD Pending TBD Coming Caveats This is a v1.0 framework. Known limitations: Recency bias — the lending score rewards lifetime originations. A protocol that originated heavily in a prior cycle but is currently inactive will score higher than present activity warrants. Default history not captured numerically — zero defaults is arguably the single most important input for any lending protocol and WPVS does not capture it quantitatively. Always evaluate separately. APY inputs are point-in-time — variable rate pools change daily. Requires periodic updating. Secured vs unsecured comparability — the lending score does not currently distinguish between unsecured credit (Clearpool) and overcollateralized secured lending (Maple). Secured protocols may show higher origination volumes due to capital recycling. v2.0 will address this with separate scoring tracks. Parameters calibrated by judgment — the exponent of 0.4 and APY divisors (5, 7, 10) will be refined empirically as data accumulates across protocols. About Independent RWA analyst. Force Recon Marine, former ops director. Building a weekly five-protocol WPVS tracker and working toward v2.0 which will add protocol health vs token holder value as separate outputs. — Matt Wells | Not financial advice Weekly Updates: Substa/@mattwellsmacro | -two_times0321 on Twit Not financial advice.
+
+1d ago
+
+---
+
 ---
 
 ## Google News: "ethereum"
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Bitmine Immersion also spent about $10 million when it bought 5,000 ETH from the Ethereum Foundation last month.
 
-The Block • 23h ago
+The Block • 1d ago
 
 ---
 
@@ -186,21 +186,21 @@ Barron's • 2d ago
 
 Grayscale staked 102,400 ETH worth $237M via its Ethereum Staking ETF. Ethereum reaching $10,000 by December 31, 2026 at 4% YES.
 
-Crypto Briefing • 10h ago
-
----
-
-**[Crypto News: Pepeto Presale Stages Sell Out Fast as the Ethereum Price Prediction Reaches $25,000 by Standard Chartered](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-presale-stages-sell-out-fast-as-the-ethereum-price-prediction-reaches-25-000-by-standard-chartered-1036060473)**
-
-Dubai, UAE, April  24, 2026  (GLOBE NEWSWIRE) -- The Ethereum based token Pepeto just confirmed that its latest presale stage cleared out in hours...
-
-markets.businessinsider.com • 22h ago
+Crypto Briefing • 11h ago
 
 ---
 
 **[XRP vs Ethereum: Which Digital Giant Will Explode to Make You the Most Money in 2026?](https://www.tipranks.com/news/xrp-vs-ethereum-which-digital-giant-will-explode-to-make-you-the-most-money-in-2026)**
 
-TipRanks • 20h ago
+TipRanks • 21h ago
+
+---
+
+**[Crypto News: Ethereum Based Crypto Pepeto Project Update Amid Bitcoin Price Prediction Targeting $125,000 Soon](https://markets.businessinsider.com/news/stocks/crypto-news-ethereum-based-crypto-pepeto-project-update-amid-bitcoin-price-prediction-targeting-125-000-soon-1036061521)**
+
+Dubai, UAE, April  24, 2026  (GLOBE NEWSWIRE) -- Crypto news this week centers on Pepeto after the project opened a fresh presale stage because th...
+
+markets.businessinsider.com • 19h ago
 
 ---
 
@@ -216,7 +216,7 @@ FXStreet • 1d ago
 
 Ethereum traders just piled $322 million into $3,200 call options and the real reason for the bet isn’t simple hype.
 
-CryptoSlate • 19h ago
+CryptoSlate • 20h ago
 
 ---
 
@@ -224,7 +224,7 @@ CryptoSlate • 19h ago
 
 Start with understanding how the three cryptos differ.
 
-money.com • 19h ago
+money.com • 20h ago
 
 ---
 
@@ -238,7 +238,7 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 438 • 👍 48 • 💬 34 • ⏱️ 13:36 • 59m ago
+👁️ 438 • 👍 48 • 💬 34 • ⏱️ 13:36 • 1h ago
 
 ---
 
@@ -258,7 +258,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Library Of Wealth
 
-👁️ 830 • 👍 40 • 💬 163 • ⏱️ 16:26 • 22h ago
+👁️ 830 • 👍 40 • 💬 163 • ⏱️ 16:26 • 23h ago
 
 ---
 
@@ -298,7 +298,7 @@ Ethereum is consolidating just below a descending trend line that has been with 
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 210 • 💬 18 • ⏱️ 10:43 • 15h ago
+👁️ 3K • 👍 210 • 💬 18 • ⏱️ 10:43 • 16h ago
 
 ---
 
@@ -308,7 +308,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 283 • 👍 57 • ⏱️ 5:57 • 2h ago
+👁️ 283 • 👍 57 • ⏱️ 5:57 • 3h ago
 
 ---
 
@@ -318,7 +318,7 @@ Bitmine (BMNR) is quietly building one of the largest Ethereum treasuries in the
 
 📺 BiGB Stcok
 
-👁️ 1K • 👍 45 • 💬 18 • ⏱️ 10:01 • 17h ago
+👁️ 1K • 👍 45 • 💬 18 • ⏱️ 10:01 • 18h ago
 
 ---
 
@@ -328,7 +328,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 93 • 👍 5 • 💬 2 • ⏱️ 4:34 • 6h ago
+👁️ 93 • 👍 5 • 💬 2 • ⏱️ 4:34 • 7h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-25T15:08:49.181185+00:00'
+updated: '2026-04-25T16:05:56.774769+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - cryptocurrency
+- videos
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 25, 2026 at 15:08 UTC  
+**Last Updated:** April 25, 2026 at 16:05 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,624.02
+### $77,568.07
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.4%  
-**7d:** +5.2%  
-**30d:** +16.9%  
-**90d:** -12.1%  
-**1y:** -18.0%  
+**24h:** -0.5%  
+**7d:** +4.8%  
+**30d:** +16.4%  
+**90d:** -12.5%  
+**1y:** -18.3%  
 
 ---
 
@@ -79,7 +79,15 @@ Rank #1
 
 **[I made a site that explains Bitcoin to your mom in 5 minutes. Your mom gets a printable Bitcoin certificate at the end.](https://www.reddit.com/r/Bitcoin/comments/1suo3qe/i_made_a_site_that_explains_bitcoin_to_your_mom/)**
 
-🔗 [wtfisbtc.lol](https://wtfisbtc.lol/) • 20h ago
+🔗 [wtfisbtc.lol](https://wtfisbtc.lol/) • 21h ago
+
+---
+
+**[Daily Discussion, April 25, 2026](https://www.reddit.com/r/Bitcoin/comments/1sv3x1u/daily_discussion_april_25_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+10h ago
 
 ---
 
@@ -87,7 +95,15 @@ Rank #1
 
 If any of you folks are coming to Vegas for Bitcoin 2026, I've compiled a list (and map) of meetups and side events. These tend to be much more fun and enjoyable than the actual Conference. If you're on mobile, you'll likely need the Google Docs app for working links. I'm hitting Hotstyle Takeover, the Bitcoin Today meetup, the Club Orange meetup, NosVegas, and then hosting Steak 'N Shake 'N Sats and the Vegas Bitcoiners Happy Hour on Wednesday.
 
-🔗 [Google Docs](https://docs.google.com/document/d/1RqlQl4vdKZtReFQpIh0h820Q10khCc6gI56xKW4N1-M) • 9h ago
+🔗 [Google Docs](https://docs.google.com/document/d/1RqlQl4vdKZtReFQpIh0h820Q10khCc6gI56xKW4N1-M) • 10h ago
+
+---
+
+**[Are wallets really safe??](https://www.reddit.com/r/Bitcoin/comments/1suw4tn/are_wallets_really_safe/)**
+
+I have tremendous trusts on wallets because its math foundation. But today, something happened and I am a little in doubt. Today, when i try to restore my wallet using seed phrase, I accidentally made a mistake, but I ended up restoring another wallet that is not mine. Even though there is no any coin in it, it casts a doubt on wallet’s safety. What if someone who created the wallet has put coins in it? What are the chances that someone else accidentally restore mine? Just genuinely questions from a long time hodler. I hope I get answers that resolve me concerns
+
+16h ago
 
 ---
 
@@ -99,27 +115,11 @@ If any of you folks are coming to Vegas for Bitcoin 2026, I've compiled a list (
 
 ---
 
-**[Daily Discussion, April 25, 2026](https://www.reddit.com/r/Bitcoin/comments/1sv3x1u/daily_discussion_april_25_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-9h ago
-
----
-
-**[Are wallets really safe??](https://www.reddit.com/r/Bitcoin/comments/1suw4tn/are_wallets_really_safe/)**
-
-I have tremendous trusts on wallets because its math foundation. But today, something happened and I am a little in doubt. Today, when i try to restore my wallet using seed phrase, I accidentally made a mistake, but I ended up restoring another wallet that is not mine. Even though there is no any coin in it, it casts a doubt on wallet’s safety. What if someone who created the wallet has put coins in it? What are the chances that someone else accidentally restore mine? Just genuinely questions from a long time hodler. I hope I get answers that resolve me concerns
-
-15h ago
-
----
-
 **[Security during move](https://www.reddit.com/r/Bitcoin/comments/1suscgz/security_during_move/)**
 
 I am about to move for work and I was wondering how were safely transporting seed phrases? I have to move through EU and US customs. I have multiple paper copies, unfortunately now in a single location now due to getting ready for this move. I cannot ship locked cases and high value items need to be reported to the shipper. Because of that I don't feel confident hiding a copy somewhere random in my shipment. I'd also like to move with my Trezors but I think that would heighten awareness? My important bag does have a passphrase but my others do not. Taking any ideas for anyone who's been through something like this. Thanks.
 
-17h ago
+18h ago
 
 ---
 
@@ -127,7 +127,7 @@ I am about to move for work and I was wondering how were safely transporting see
 
 People still say that all the time. “No cash flows. No earnings. No fundamentals.” But then why is it worth $75,000+? In this video I break down what “intrinsic value” actually means and why most people completely misunderstand it. My goal is by the end to help people understand exactly why Bitcoin has value.
 
-🔗 [youtu.be](https://youtu.be/y9humUet5SU) • 21h ago
+🔗 [youtu.be](https://youtu.be/y9humUet5SU) • 22h ago
 
 ---
 
@@ -135,7 +135,7 @@ People still say that all the time. “No cash flows. No earnings. No fundamenta
 
 Metaplanet raises $50M through zero-interest bonds to fund new Bitcoin purchases and expand its growing corporate BTC treasury.
 
-🔗 [Blockonomi](https://blockonomi.com/metaplanet-issues-%C2%A58b-bonds-to-expand-bitcoin-holdings/) • 23h ago
+🔗 [Blockonomi](https://blockonomi.com/metaplanet-issues-%C2%A58b-bonds-to-expand-bitcoin-holdings/) • 1d ago
 
 ---
 
@@ -171,7 +171,7 @@ The Block • 1d ago
 
 Can a network without formal governance coordinate the biggest cryptographic migration in its history?
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -179,33 +179,37 @@ CoinDesk • 5h ago
 
 Giancarlo Lelli performed the largest known quantum attack on Bitcoin’s encryption model. His feat is a 512-fold jump from the previous record. Bitcoin enthusiasts are scrambling for ideas to deal with the quantum computing threat.
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
 
 ---
 
-**[Bitcoin Whales Accumulate 69% More BTC as ARK Warns the Bottom Isn’t In](https://finance.yahoo.com/markets/crypto/articles/bitcoin-whales-accumulate-69-more-052711529.html)**
+**[Tennessee Becomes Second State to Outlaw Bitcoin, Crypto ATMs](https://decrypt.co/365502/tennessee-second-state-outlaw-bitcoin-crypto-atms)**
 
-ARK Invest says Bitcoin has not bottomed yet as whales stack 1.47 million BTC during Q1's 22% price drawdown.
+Tennessee has become the second U.S. state to outlaw Bitcoin and crypto ATMs, making it a criminal offense to own or operate the machines.
 
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin’s Stealth Rally Has Traders Setting Sights on $80,000](https://www.bloomberg.com/news/articles/2026-04-25/bitcoin-s-stealth-rally-has-traders-setting-sights-on-80-000)**
-
-Bloomberg.com • 2h ago
-
----
-
-**[Bitcoin Traders Eye $73,000 Retest as 21-Week EMA Holds as Resistance; Sub-$60,000 Risk Remains](https://www.binance.com/en/square/post/316329872458609)**
-
-Binance • 2h ago
+Decrypt • 19h ago
 
 ---
 
 **[Bitcoin News Today: Bitcoin Whales Accumulate $3.17 Billion in BTC Since April 10 as $80,000 Break Could Trigger Bull Market Signal](https://www.binance.com/en/square/post/316337243381570)**
 
-Binance • 2h ago
+Binance • 3h ago
+
+---
+
+**[Bitcoin To Hit 'Investable Low' Around This Time In 2026, Forecasts Seasoned Trader: 'The Next High Will Be Between....'](https://finance.yahoo.com/markets/crypto/articles/bitcoin-hit-investable-low-around-153111471.html)**
+
+Veteran trader and chartist Peter Brandt predicted on Thursday an “investable low” for Bitcoin later in the year, followed by a major cyclical high in 2029. The Story Of Tops And Bottoms Brandt, a technical analyst with nearly 50 years...
+
+Yahoo Finance • 34m ago
+
+---
+
+**[Bitcoin’s $40k bear case would be a historic outlier, data suggests](https://www.coindesk.com/markets/2026/04/25/bitcoin-at-usd40-000-would-be-near-unprecedented-statistical-outcome-analyst-says)**
+
+Mean-reversion models suggest bearish targets imply a 0.4th percentile event, far beyond typical market corrections.
+
+CoinDesk • 1h ago
 
 ---
 
@@ -237,6 +241,14 @@ CNN • 1d ago
 
 ## HackerNews: "bitcoin"
 
+**[Spark: Bitcoin's Payment Layer for Stablecoins and Instant BTC](https://news.ycombinator.com/item?id=47880978)**
+
+Build wallets, issue stablecoins, and move BTC instantly: all natively on Bitcoin. No bridges, no custodians. Start building with Spark's SDKs today.
+
+⬆️ 5 • 💬 1 • 1d ago • [Spark](https://www.spark.money)
+
+---
+
 **[The U.S. Military Is Running a Bitcoin Node, Admiral Says](https://news.ycombinator.com/item?id=47874442)**
 
 The U.S. military is actively running a Bitcoin node and testing the protocol’s cryptographic architecture as a tool for securing and protecting networks, according to INDOPACOM commander Admiral Samuel Paparo.
@@ -261,14 +273,6 @@ Neha Narula
 
 ---
 
-**[Spark: Bitcoin's Payment Layer for Stablecoins and Instant BTC](https://news.ycombinator.com/item?id=47880978)**
-
-Build wallets, issue stablecoins, and move BTC instantly: all natively on Bitcoin. No bridges, no custodians. Start building with Spark's SDKs today.
-
-⬆️ 4 • 💬 1 • 1d ago • [Spark](https://www.spark.money)
-
----
-
 **[Show HN: Using Ramanujan's Pi Series for Bitcoin Security on Nvidia B200](https://news.ycombinator.com/item?id=47823382)**
 
 ⬆️ 4 • 💬 1 • 6d ago • [zenodo.org](https://zenodo.org/records/19650883)
@@ -279,7 +283,7 @@ Build wallets, issue stablecoins, and move BTC instantly: all natively on Bitcoi
 
 The quantum threat to Bitcoin keeps inching closer, this time thanks to a researcher who broke a simplified cryptographic key.
 
-⬆️ 3 • 💬 3 • 16h ago • [Decrypt](https://decrypt.co/365444/bitcoin-q-day-draws-nearer-quantum-researcher-breaks-simplified-key)
+⬆️ 3 • 💬 3 • 17h ago • [Decrypt](https://decrypt.co/365444/bitcoin-q-day-draws-nearer-quantum-researcher-breaks-simplified-key)
 
 ---
 
@@ -309,7 +313,7 @@ A senior US military commander has lauded Bitcoin as a “valuable computer scie
 
 The quantum threat to Bitcoin keeps inching closer, this time thanks to a researcher who broke a simplified cryptographic key.
 
-⬆️ 4 • 💬 1 • 1h ago • [Decrypt](https://decrypt.co/365444/bitcoin-q-day-draws-nearer-quantum-researcher-breaks-simplified-key)
+⬆️ 5 • 💬 1 • 2h ago • [Decrypt](https://decrypt.co/365444/bitcoin-q-day-draws-nearer-quantum-researcher-breaks-simplified-key)
 
 ---
 
@@ -323,7 +327,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 5K • 👍 589 • ⏱️ 57:11 • 2h ago
+👁️ 5K • 👍 589 • ⏱️ 57:11 • 3h ago
 
 ---
 
@@ -363,7 +367,7 @@ Let's talk about Bitcoin dominance, altcoins, and monetary policy! Into The Cryp
 
 📺 Benjamin Cowen
 
-👁️ 44K • 👍 3K • 💬 242 • ⏱️ 37:14 • 17h ago
+👁️ 44K • 👍 3K • 💬 242 • ⏱️ 37:14 • 18h ago
 
 ---
 
@@ -373,7 +377,7 @@ Crypto #Bitcoin #CryptoNews #Investing #YahooFinance #Blockchain Apr. 24, 2026 -
 
 📺 Yahoo Finance
 
-👁️ 6K • 👍 307 • 💬 72 • ⏱️ 14:53 • 22h ago
+👁️ 6K • 👍 307 • 💬 72 • ⏱️ 14:53 • 23h ago
 
 ---
 
@@ -383,7 +387,7 @@ Bitcoin is no longer just a speculative asset. Top US military leaders are now f
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 1K • 💬 93 • ⏱️ 14:54 • 17h ago
+👁️ 17K • 👍 1K • 💬 93 • ⏱️ 14:54 • 18h ago
 
 ---
 
@@ -393,7 +397,7 @@ Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro max, and th
 
 📺 Crypto Jebb
 
-👁️ 4K • 👍 238 • 💬 58 • ⏱️ 49:08 • 23h ago
+👁️ 4K • 👍 238 • 💬 58 • ⏱️ 49:08 • 1d ago
 
 ---
 
@@ -413,7 +417,7 @@ Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=Al
 
 📺 Altcoin Daily
 
-👁️ 4K • 👍 141 • 💬 87 • ⏱️ 1:06 • 21h ago
+👁️ 4K • 👍 141 • 💬 87 • ⏱️ 1:06 • 22h ago
 
 ---
 

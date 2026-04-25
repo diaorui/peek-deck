@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-25T15:08:49.187504+00:00'
+updated: '2026-04-25T16:05:56.783884+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 25, 2026 at 15:08 UTC  
+**Last Updated:** April 25, 2026 at 16:05 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2047765371734704574
 
-6h ago
+7h ago
 
 ---
 
 **[A smarter approach on autonomous exploration](https://www.reddit.com/r/robotics/comments/1sv7le7/a_smarter_approach_on_autonomous_exploration/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -50,7 +50,7 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2047765371734704574
 
 Been building this ai desktop robot cat lately and tbh the visual feedback is everything. we’re using a 410×502 hd retina screen, and the real-device visual effect is honestly very impressive. pictures really don't do it justice. getting the voice to match the mouth was a nightmare tho. we use an algorithm to extract lip-sync phonemes and align them with the audio, and we also apply optimization methods to make the mouth transitions look natural. it runs on an esp32 rn but we are working on a linux version. kinda just wanted a companion on my desk while i code that actually feels alive, not just a static screen. i usually keep it right below my monitor. having it handle my quick queries or just react to me talking in the room makes a huge difference. watching it react in real time is pretty wild.
 
-11h ago
+12h ago
 
 ---
 
@@ -62,19 +62,19 @@ First rollout of a simple ACT model and the right looks like it got its ACT toge
 
 ---
 
-**[Good examples of sim manipulation](https://www.reddit.com/r/robotics/comments/1sv25k3/good_examples_of_sim_manipulation/)**
-
-Hi All, I am currently working on so101 and am familiar with data collection, training, eval following the lerobot recipes. I wanted to go further and learn better about how to do the same in simulation and use that as a starting point for doing RL from IM. Are there any good guides? Anyone done this before? I understand this might not be a standard path especially with sim-real gap. However wanted to go down this path to better understand the concepts and learn (plus AI tools recommended it)
-
-10h ago
-
----
-
 **[We put an acoustic camera on a robot dog for gas leak detection – what else should we do with it?](https://www.reddit.com/r/robotics/comments/1sug0vn/we_put_an_acoustic_camera_on_a_robot_dog_for_gas/)**
 
 Hi r/robotics, We’re the team from Hertzinno, and we develop industrial acoustic cameras (real-time sound visualization). Recently we’ve been integrating our acoustic camera with quadruped robots for autonomous inspection tasks. The obvious use cases so far: · Compressed air & gas leak detection (finding invisible leaks with sound) · Mechanical fault localization (bearing wear, abnormal noises in motors/gearboxes) But we bet this community has way more creative ideas than we can come up with in our engineering bubble. So we’d love to ask: What surprising or non-obvious applications do you see for a mobile acoustic camera robot?
 
 1d ago
+
+---
+
+**[Good examples of sim manipulation](https://www.reddit.com/r/robotics/comments/1sv25k3/good_examples_of_sim_manipulation/)**
+
+Hi All, I am currently working on so101 and am familiar with data collection, training, eval following the lerobot recipes. I wanted to go further and learn better about how to do the same in simulation and use that as a starting point for doing RL from IM. Are there any good guides? Anyone done this before? I understand this might not be a standard path especially with sim-real gap. However wanted to go down this path to better understand the concepts and learn (plus AI tools recommended it)
+
+11h ago
 
 ---
 
@@ -102,21 +102,13 @@ Hey everyone, I've been building autonomous drones with a monocular camera and h
 
 ROS News for the Week of April 20th, 2026      🫶 We need your help testing ROS 2 Lyrical Luth! Join us next Thursday, April 30th, at 9am for our Lyrical Luth Test and Tutorial Party Kickoff. We’ll show you how to install and test the next ROS release and our top testers will get free ROS swag! You don’t have to make the kickoff meeting to participate in the T&T Party. We’ll post a video once we’re done.       🚨 About 48 hours remain to submit your ROSCon Global talk ...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-april-20th-2026/) • 20h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-april-20th-2026/) • 21h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
-
-**[A Spark Capital VC says the AI boom is creating a new kind of gig worker](https://www.businessinsider.com/spark-capital-vc-nabeel-hyatt-robotics-reshaping-gig-economy-2026-4)**
-
-Spark Capital VC Nabeel Hyatt explains why AI needs human data and shares how robotics could reshape jobs and the future of gig work
-
-Business Insider • 2d ago
-
----
 
 **[Pudu Robotics raises nearly $150M as it targets industrial applications](https://www.therobotreport.com/pudu-robotics-raises-nearly-150m-targets-industrial-applications/)**
 
@@ -126,11 +118,19 @@ The Robot Report • 1d ago
 
 ---
 
-**[ABB Robotics launches PoWa cobot family targeting industrial tasks](https://www.therobotreport.com/abb-robotics-launches-powa-cobot-family-targeting-industrial-tasks/)**
+**[A Spark Capital VC says the AI boom is creating a new kind of gig worker](https://www.businessinsider.com/spark-capital-vc-nabeel-hyatt-robotics-reshaping-gig-economy-2026-4)**
 
-ABB Robotics said its new PoWa family of cobots addresses a long‑standing gap in the market between traditional cobots.
+Spark Capital VC Nabeel Hyatt explains why AI needs human data and shares how robotics could reshape jobs and the future of gig work
 
-The Robot Report • 1h ago
+Business Insider • 2d ago
+
+---
+
+**[Southwest Detroit robotics team heads to world championship in Houston](https://www.yahoo.com/news/articles/southwest-detroit-robotics-team-heads-140045971.html)**
+
+More than 20 students from Southwest Detroit are preparing to compete on the global stage after qualifying for the 2026 FIRST Robotics World Championship in Houston, Texas.
+
+Yahoo • 2h ago
 
 ---
 
@@ -154,7 +154,7 @@ NPR • 1d ago
 
 Melody is an M-Series humanoid, a masterpiece of "human-centric" engineering from Realbotix, a Canada-based humanoid robot manufacturer.
 
-Interesting Engineering • 23h ago
+Interesting Engineering • 1d ago
 
 ---
 
@@ -164,27 +164,31 @@ Investor's Business Daily • 1d ago
 
 ---
 
-**[AI robots are learning to do simple human tasks at a factory in Massachusetts](https://www.cbsnews.com/boston/news/ai-robots-tutor-intelligence-watertown/)**
-
-Tutor Intelligence in Watertown is a kind of kindergarten for robots.
-
-CBS News • 17h ago
-
----
-
-**[Franklin OKs tax financing district for robotics company expansion](https://www.jsonline.com/story/communities/south/2026/04/25/franklin-approves-creating-tax-district-for-yaskawas-182m-expansion/89767690007/)**
-
-Franklin's council approved a development agreement to include TID funding for Yaskawa America's $182 million expansion project in the city.
-
-Milwaukee Journal Sentinel • 5h ago
-
----
-
 **[US ramps up humanoid robotics as China threat grows in AI race](https://www.foxbusiness.com/video/6393711598112)**
 
 Foundation Future Industries founder and CEO Sankaet Pathak and Trump Organization Executive Vice President Eric Trump discuss battlefield robotics, national security risks, and China competition on ‘Mornings with Maria.
 
 Fox Business • 2d ago
+
+---
+
+**[AI robots are learning to do simple human tasks at a factory in Massachusetts](https://www.cbsnews.com/boston/news/ai-robots-tutor-intelligence-watertown/)**
+
+Tutor Intelligence in Watertown is a kind of kindergarten for robots.
+
+CBS News • 18h ago
+
+---
+
+**[Eric Trump Touts $24 Million Pentagon Contract Awarded to His Robotics Company](https://www.democracynow.org/2026/4/24/headlines/eric_trump_touts_24_million_pentagon_contract_awarded_to_his_robotics_company)**
+
+President Trump’s son Eric Trump is touting a $24 million Pentagon contract awarded to the robotics firm Foundation Future Industries, where he serves as chief strategy adviser. The contract will fund testing of its “Phantom” humanoid robots for future military applications. Here’s Eric Trump speaking on Fox Business about the deal.
+
+Eric Trump: “You know, I got involved with crypto in a very big way because we had to win that digital revolution. We have to win robotics in the United States of America.”
+
+Democratic lawmakers have blasted the deal as a clear example of nepotism and corruption. Massachusetts Senator Elizabeth Warren wrote, “Is the Pentagon just a cash machine for Trump’s kids now? This looks like corruption in plain sight.”
+
+Democracy Now! • 1d ago
 
 ---
 
@@ -198,7 +202,7 @@ What is the best robot vacuum in 2026? After testing over 200 robot vacuums with
 
 📺 Just A Dad Approved
 
-👁️ 804 • 👍 74 • 💬 12 • ⏱️ 13:40 • 3h ago
+👁️ 804 • 👍 74 • 💬 12 • ⏱️ 13:40 • 4h ago
 
 ---
 
@@ -208,7 +212,7 @@ New Spider Shoggoth Robot. This is so weird. We got a new robot on the test serv
 
 📺 PREDATOR WR
 
-👁️ 5K • 👍 286 • 💬 92 • ⏱️ 15:36 • 3h ago
+👁️ 5K • 👍 286 • 💬 92 • ⏱️ 15:36 • 4h ago
 
 ---
 
@@ -228,7 +232,7 @@ Ace, a ping-pong-playing robot, is the first to beat elite human players in a co
 
 📺 NBC News
 
-👁️ 18K • 👍 289 • 💬 71 • ⏱️ 4:14 • 15h ago
+👁️ 18K • 👍 289 • 💬 71 • ⏱️ 4:14 • 16h ago
 
 ---
 
@@ -288,7 +292,7 @@ SUBSCRIBE: https://www.vex.com/YouTube -----------------------------------------
 
 📺 VEX Robotics
 
-👁️ 72K • 👍 1K • 💬 557 • ⏱️ 5:09 • 15h ago
+👁️ 72K • 👍 1K • 💬 557 • ⏱️ 5:09 • 16h ago
 
 ---
 
