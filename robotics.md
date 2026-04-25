@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-25T03:40:12.046637+00:00'
+updated: '2026-04-25T05:48:36.672599+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 25, 2026 at 03:40 UTC  
+**Last Updated:** April 25, 2026 at 05:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,19 +32,27 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[SO-101's for it's ACT together](https://www.reddit.com/r/robotics/comments/1sudm58/so101s_for_its_act_together/)**
-
-First rollout of a simple ACT model and the right looks like it got its ACT together The movement could be smoother I think. The robot still has to learn how to handle weird orientation of the cube. Wrote about it here https://x.com/pbshgthm/status/2047640796699267497
-
-15h ago
-
----
-
 **[Finally built a cyberpunk desktop cat that actually syncs its mouth when talking](https://www.reddit.com/r/robotics/comments/1sv0vdj/finally_built_a_cyberpunk_desktop_cat_that/)**
 
 Been building this ai desktop robot cat lately and tbh the visual feedback is everything. we’re using a 410×502 hd retina screen, and the real-device visual effect is honestly very impressive. pictures really don't do it justice. getting the voice to match the mouth was a nightmare tho. we use an algorithm to extract lip-sync phonemes and align them with the audio, and we also apply optimization methods to make the mouth transitions look natural. it runs on an esp32 rn but we are working on a linux version. kinda just wanted a companion on my desk while i code that actually feels alive, not just a static screen. i usually keep it right below my monitor. having it handle my quick queries or just react to me talking in the room makes a huge difference. watching it react in real time is pretty wild.
 
-14m ago
+2h ago
+
+---
+
+**[SO-101's for it's ACT together](https://www.reddit.com/r/robotics/comments/1sudm58/so101s_for_its_act_together/)**
+
+First rollout of a simple ACT model and the right looks like it got its ACT together The movement could be smoother I think. The robot still has to learn how to handle weird orientation of the cube. Wrote about it here https://x.com/pbshgthm/status/2047640796699267497
+
+17h ago
+
+---
+
+**[Good examples of sim manipulation](https://www.reddit.com/r/robotics/comments/1sv25k3/good_examples_of_sim_manipulation/)**
+
+Hi All, I am currently working on so101 and am familiar with data collection, training, eval following the lerobot recipes. I wanted to go further and learn better about how to do the same in simulation and use that as a starting point for doing RL from IM. Are there any good guides? Anyone done this before? I understand this might not be a standard path especially with sim-real gap. However wanted to go down this path to better understand the concepts and learn (plus AI tools recommended it)
+
+1h ago
 
 ---
 
@@ -58,7 +66,7 @@ Been building this ai desktop robot cat lately and tbh the visual feedback is ev
 
 Hi r/robotics, We’re the team from Hertzinno, and we develop industrial acoustic cameras (real-time sound visualization). Recently we’ve been integrating our acoustic camera with quadruped robots for autonomous inspection tasks. The obvious use cases so far: · Compressed air & gas leak detection (finding invisible leaks with sound) · Mechanical fault localization (bearing wear, abnormal noises in motors/gearboxes) But we bet this community has way more creative ideas than we can come up with in our engineering bubble. So we’d love to ask: What surprising or non-obvious applications do you see for a mobile acoustic camera robot?
 
-14h ago
+16h ago
 
 ---
 
@@ -72,7 +80,7 @@ Hi r/robotics, We’re the team from Hertzinno, and we develop industrial acoust
 
 Hey everyone, I've been building autonomous drones with a monocular camera and have been trying to make good use out of Claude Code for my software development. I noticed that while it's great at writing the boilerplate of my ROS2 nodes, the second I get into runtime messaging, Claude has no idea when one message will publish compared to another. Similarly, when I'm doing any work regarding transforms, Claude seems to have no idea about the robots actual position in a world, and it ends up simply guessing what the right transform is. I get a little frustrated by it because I look at web development and see how much Claude has increased the speed of development there. Some of the super AI-first people are letting their agents run overnight. I feel like if I tried that right now, it would just destroy my repository, since I have to hold Claude's hand at every stage. I'm using ROS2 Jazzy and PX4. Anyone else seeing similar problems? If so, how are you currently getting around it?
 
-14h ago
+17h ago
 
 ---
 
@@ -80,7 +88,7 @@ Hey everyone, I've been building autonomous drones with a monocular camera and h
 
 ROS News for the Week of April 20th, 2026      🫶 We need your help testing ROS 2 Lyrical Luth! Join us next Thursday, April 30th, at 9am for our Lyrical Luth Test and Tutorial Party Kickoff. We’ll show you how to install and test the next ROS release and our top testers will get free ROS swag! You don’t have to make the kickoff meeting to participate in the T&T Party. We’ll post a video once we’re done.       🚨 About 48 hours remain to submit your ROSCon Global talk ...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-april-20th-2026/) • 8h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-april-20th-2026/) • 11h ago
 
 ---
 
@@ -88,7 +96,7 @@ ROS News for the Week of April 20th, 2026      🫶 We need your help testing RO
 
 The U.S. Air Force tested a jet-powered YFQ-44A drone that can fly missions on its own, without a pilot controlling it in real time.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/military/usaf-jet-drone-semiautonomous-flight-test) • 17h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/military/usaf-jet-drone-semiautonomous-flight-test) • 19h ago
 
 ---
 
@@ -100,17 +108,17 @@ From Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2047257759473946705
 
 ---
 
-**[Analysis on FusionCore vs robot_localization](https://www.reddit.com/r/robotics/comments/1sunhl3/analysis_on_fusioncore_vs_robot_localization/)**
-
-A few days ago I shared a benchmark where FusionCore beat robot_localization EKF on a single NCLT sequence. Fair enough… people called out that one sequence can easily be cherry-picked. Someone also mentioned that the particular sequence I used is known to be rough for GPS-based filters. Others asked if RL was just badly tuned, or how FusionCore could outperform it that much if both are just nonlinear Kalman filters… etc All good questions. So I went back and ran six sequences across different weather conditions. Same config for everything. No parameter tweaks between runs. The config is in fusioncore_datasets/config/nclt_fusioncore.yaml, committed along with the results so anyone can check. https://preview.redd.it/1vf3aurhi6xg1.png?width=1080&format=png&auto=webp&s=201717bc55d9d08cd9b1a064e90b97bea63dda34 Sequence FC ATE RMSE RL-EKF ATE RMSE RL-UKF 2012-01-08 5.6 m 23.4 m NaN divergence at t=31 s 2012-02-04 9.7 m 20.6 m NaN divergence at t=22 s 2012-03-31 4.2 m 10.8 m NaN divergence at t=18 s 2012-08-20 7.5 m 9.4 m NaN divergence 2012-11-04 28.7 m 10.9 m NaN divergence 2013-02-23 4.1 m 5.8 m NaN divergence FusionCore wins 5 of 6. RL-UKF diverged with NaN on all six. Now, the obvious question: what happened with November 2012? That’s the one where RL wins. That sequence has sustained GPS degradation… this isn’t just occasional noise. The NCLT authors themselves mention elevated GPS noise in that session. Both filters are seeing the exact same data, so the difference really comes down to how they handle it. Here’s what’s going on: FusionCore has a gating mechanism. When GPS looks bad, it rejects those measurements. That’s usually a good thing… but in this case, the degradation is continuous. So, Fusioncore rejects a few GPS fixes → the state drifts → the next GPS measurement looks even worse relative to that drifted state → it gets rejected again → and this repeats. It kind of traps itself rejecting the very data it needs to recover. RL, on the other hand, just accepts every GPS update. No gating, no rejection. That means it gets pulled around by noisy GPS, but it also re-anchors itself as soon as the signal improves. So in this specific case, that “always accept” behavior actually helps. After discussing this with some hardware folks here in Kingston, ON, we decided to add something we’re calling an inertial coast mode. The idea is simple: If FusionCore sees N consecutive GPS rejections, it increases the position process noise (Q) That causes the covariance (P) to grow As P grows, the Mahalanobis gate naturally becomes less strict Eventually, incoming GPS measurements are no longer “too far” and get accepted again Once GPS is accepted, Q resets back to normal Basically, instead of getting stuck rejecting everything, the filter “loosens up” over time and lets itself recover. On the November 2012 sequence, this drops the error from 61.4 m → 28.7 m. RL still wins, but the gap is much smaller now, and everything is documented in the repo. If your robot drives through tunnels, underpasses, agricultural land, and/or urban canyons with brief GPS dropouts, FC’s gate is a strength… it doesn’t get corrupted by the bad fixes during the outage. If you have GPS that is consistently mediocre (cheap module, always noisy but never totally wrong), RL’s accept-everything approach is probably safer at least until coast mode gets smarter? If you’ve got a dataset, you want me to try, just send it over (or drop a link), and I’ll run it and share the results. FusionCore accepts nav_msgs/Odometry from any source including slam_toolbox, MOLA, ORB-SLAM3, and even VINS-Mono. Same interface as wheel odometry. manankharwar/fusioncore: ROS 2 sensor fusion SDK: UKF, 3D native, proper GNSS, zero manual tuning. Apache 2.0. Happy Building!
-
-9h ago
-
----
-
 ---
 
 ## Google News: "robotics"
+
+**[A Spark Capital VC says the AI boom is creating a new kind of gig worker](https://www.businessinsider.com/spark-capital-vc-nabeel-hyatt-robotics-reshaping-gig-economy-2026-4)**
+
+Spark Capital VC Nabeel Hyatt explains why AI needs human data and shares how robotics could reshape jobs and the future of gig work
+
+Business Insider • 1d ago
+
+---
 
 **[Pudu Robotics raises nearly $150M as it targets industrial applications](https://www.therobotreport.com/pudu-robotics-raises-nearly-150m-targets-industrial-applications/)**
 
@@ -120,11 +128,49 @@ The Robot Report • 1d ago
 
 ---
 
-**[UK construction firm puts humanoid robot in-charge of site inspections](https://interestingengineering.com/ai-robotics/humanoid-robot-administrative-job-uk-construction-site)**
+**['Self-aware' robots can learn complex tasks by watching humans. Is that a good thing?](https://www.npr.org/2026/04/24/nx-s1-5797863/self-aware-robots-future-laundry-work-home)**
 
-UK-based firm Tilbury Douglas has officially deployed the humanoid robot on a live construction site in an administrative role.
+Scientists say they've made a key breakthrough that would allow robots to figure out complex tasks on their own — but experts say it raises questions about how much risk comes with letting robots be in charge of their own learning.
 
-Interesting Engineering • 1d ago
+NPR • 19h ago
+
+---
+
+**[Video Friday: Who Wins in Robot vs. Pro Ping-Pong Player?](https://spectrum.ieee.org/video-friday-ping-pong-robot)**
+
+Your weekly selection of awesome robot videos
+
+IEEE Spectrum • 1d ago
+
+---
+
+**[AI robots are learning to do simple human tasks at a factory in Massachusetts](https://www.cbsnews.com/boston/news/ai-robots-tutor-intelligence-watertown/)**
+
+Tutor Intelligence in Watertown is a kind of kindergarten for robots.
+
+CBS News • 7h ago
+
+---
+
+**[Physical AI: Where Artificial Intelligence Rubber Meets The Road](https://www.investors.com/news/physical-ai-jensen-huang-nvidia-artificial-intelligence-robotics/)**
+
+Investor's Business Daily • 1d ago
+
+---
+
+**[German robotics, automation company picks Greenville for headquarters](https://www.greenvilleonline.com/story/money/business/2026/04/23/idealworks-chooses-greenville-for-u-s-headquarters-heres-why/89737706007/)**
+
+Idealworks spun out of BMW Group in Munich, and the Greenville location puts it in the middle of some of the most advanced manufacturing in the U.S.
+
+Greenville Online • 1d ago
+
+---
+
+**[Melody: Humanoid robot masters 39 degrees of freedom to achieve lifelike presence](https://interestingengineering.com/ai-robotics/humanoid-robot-achieve-lifelike-presence)**
+
+Melody is an M-Series humanoid, a masterpiece of "human-centric" engineering from Realbotix, a Canada-based humanoid robot manufacturer.
+
+Interesting Engineering • 14h ago
 
 ---
 
@@ -136,57 +182,15 @@ Fox Business • 1d ago
 
 ---
 
-**[China's humanoid robotics boom is no startup success story](https://asia.nikkei.com/opinion/china-s-humanoid-robotics-boom-is-no-startup-success-story)**
+**[Eric Trump Touts $24 Million Pentagon Contract Awarded to His Robotics Company](https://www.democracynow.org/2026/4/24/headlines/eric_trump_touts_24_million_pentagon_contract_awarded_to_his_robotics_company)**
 
-Unitree’s rise reveals a state architecture that cultivates industrial champions before global rivals notice
+President Trump’s son Eric Trump is touting a $24 million Pentagon contract awarded to the robotics firm Foundation Future Industries, where he serves as chief strategy adviser. The contract will fund testing of its “Phantom” humanoid robots for future military applications. Here’s Eric Trump speaking on Fox Business about the deal.
 
-Nikkei Asia • 1d ago
+Eric Trump: “You know, I got involved with crypto in a very big way because we had to win that digital revolution. We have to win robotics in the United States of America.”
 
----
+Democratic lawmakers have blasted the deal as a clear example of nepotism and corruption. Massachusetts Senator Elizabeth Warren wrote, “Is the Pentagon just a cash machine for Trump’s kids now? This looks like corruption in plain sight.”
 
-**['Self-aware' robots can learn complex tasks by watching humans. Is that a good thing?](https://www.npr.org/2026/04/24/nx-s1-5797863/self-aware-robots-future-laundry-work-home)**
-
-Scientists say they've made a key breakthrough that would allow robots to figure out complex tasks on their own — but experts say it raises questions about how much risk comes with letting robots be in charge of their own learning.
-
-NPR • 17h ago
-
----
-
-**[Video Friday: Who Wins in Robot Versus Pro Ping-Pong Player?](https://spectrum.ieee.org/video-friday-ping-pong-robot)**
-
-Your weekly selection of awesome robot videos
-
-IEEE Spectrum • 1d ago
-
----
-
-**[AI robot outplays humans in table tennis milestone](https://www.ft.com/content/9860f042-3332-4534-9b1a-fa9f57b8347e)**
-
-Sony’s ‘Ace’ defeats elite players, highlighting how AI is improving machines’ abilities to interact with people
-
-Financial Times • 2d ago
-
----
-
-**[Sony AI’s Project Ace autonomous robot becomes first to beat pro table tennis players](https://interestingengineering.com/ai-robotics/sony-ai-project-ace-table-tennis-robot)**
-
-Project Ace brings AI into the physical world, defeating elite players with advanced sensors, spin tracking, and reinforcement learning.
-
-Interesting Engineering • 2d ago
-
----
-
-**[Santa Rita Elementary students advance to World VEX Robotics competition](https://www.yahoo.com/news/articles/santa-rita-elementary-students-advance-005603762.html)**
-
-San Angelo ISD is celebrating a historical achievement, as a team of fifth-grade students from Santa Rita Elementary School has qualified for the World VEX Robotics Competition.  The team earned its s...
-
-Yahoo • 2h ago
-
----
-
-**[Physical AI: Where Artificial Intelligence Rubber Meets The Road](https://www.investors.com/news/physical-ai-jensen-huang-nvidia-artificial-intelligence-robotics/)**
-
-Investor's Business Daily • 1d ago
+Democracy Now! • 15h ago
 
 ---
 
@@ -194,33 +198,13 @@ Investor's Business Daily • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[China&#39;s Robotics Innovation Is Moving Faster Than Anyone Realizes](https://www.youtube.com/watch?v=qB0SsWTEBlU)**
+**[Unitree Robot With Wheels Moves In Ways You Did Not Expect](https://www.youtube.com/watch?v=H-X7v7Y4oPc)**
 
-I thought this would be just another robot demo... I was wrong.At this launch event, X Square Robot introduced a new kind of home ...
+Unitree just revealed a humanoid robot using wheels, skates, and even ice blades, and it completely changes how we think about ...
 
-📺 Barrett
+📺 DPCcars
 
-👁️ 7K • 👍 222 • 💬 15 • ⏱️ 5:43 • 1d ago
-
----
-
-**[UNEXPECTED LINK: Trump family TIED to humanoid robot CLASH with China](https://www.youtube.com/watch?v=SWoVms-enPU)**
-
-Foundation Future Industries founder and CEO Sankaet Pathak and Trump Organization Executive Vice President Eric Trump ...
-
-📺 Fox Business
-
-👁️ 53K • 👍 1K • 💬 403 • ⏱️ 10:17 • 1d ago
-
----
-
-**[New AI Robot From China Breaks Human Limits](https://www.youtube.com/watch?v=EJbJMg2RNgw)**
-
-AGIBOT just rolled out a full new wave of humanoid robots and AI models built for real deployment, while researchers in South ...
-
-📺 AI Revolution
-
-👁️ 35K • 👍 827 • 💬 62 • ⏱️ 16:29 • 4d ago
+👁️ 3K • 👍 46 • 💬 51 • ⏱️ 4:20 • 1d ago
 
 ---
 
@@ -234,13 +218,23 @@ Over a hundred Chinese-made humanoid robots participated in a half-marathon race
 
 ---
 
+**[New AI Robot From China Breaks Human Limits](https://www.youtube.com/watch?v=EJbJMg2RNgw)**
+
+AGIBOT just rolled out a full new wave of humanoid robots and AI models built for real deployment, while researchers in South ...
+
+📺 AI Revolution
+
+👁️ 36K • 👍 827 • 💬 62 • ⏱️ 16:29 • 4d ago
+
+---
+
 **[This robot can beat you at table tennis](https://www.youtube.com/watch?v=EH8kZDc7OLk)**
 
 For the first time, an AI-powered machine has bested elite-level athletes at a physical sport. 'Ace' is a table tennis-playing robot.
 
 📺 nature video
 
-👁️ 96K • 👍 2K • 💬 191 • ⏱️ 13:38 • 2d ago
+👁️ 98K • 👍 2K • 💬 194 • ⏱️ 13:38 • 2d ago
 
 ---
 
@@ -254,16 +248,6 @@ An Elon Musk robotic dog was seen wandering around San Francisco, bumping into s
 
 ---
 
-**[The Definition of a SNIPER TITAN: New WAYMAKER [War Robots]](https://www.youtube.com/watch?v=grZQR70nZs0)**
-
-War Robots Gameplay: New WAYMAKER Titan - WR My War Robots Creator Link: https://wr.my.games/manni - Code: 'manni' ...
-
-📺 Manni-Gaming
-
-👁️ 13K • 👍 571 • 💬 74 • ⏱️ 24:06 • 1d ago
-
----
-
 **[50 Minutes: How China&#39;s Robot Destroyed the Half Marathon Record](https://www.youtube.com/watch?v=pH8tVBqCRLY)**
 
 In Beijing, a humanoid robot just completed a 21-kilometer half-marathon in an astonishing 50 minutes and 26 seconds, marking ...
@@ -274,23 +258,43 @@ In Beijing, a humanoid robot just completed a 21-kilometer half-marathon in an a
 
 ---
 
-**[I Tried the Lymow One Plus Robotic Mower...it&#39;s wayyy BETTER than I expected](https://www.youtube.com/watch?v=hJnfnjJYVrU)**
+**[Chinese humanoid robot beats world record for fastest human half-marathon | ABC NEWS](https://www.youtube.com/watch?v=tcfAm3hNQbk)**
 
-Get your very own right here   https://dada.link/AP9Bzi Thinking about upgrading to a robotic lawn mower? In this video, I take a ...
+A humanoid robot has beaten the human record for the world's fastest half-marathon by finishing in just over 50 minutes. Dozens ...
 
-📺 Between the Sharks - DIY
+📺 ABC News (Australia)
 
-👁️ 11K • 👍 907 • 💬 79 • ⏱️ 15:34 • 2d ago
+👁️ 102K • 👍 649 • ⏱️ 6:44 • 5d ago
 
 ---
 
-**[Robot Suction Grip #chrisboden #comedy #engineering #robotics #controls #tooling #factory #work #job](https://www.youtube.com/watch?v=Fwr_IgeBt4M)**
+**[The Definition of a SNIPER TITAN: New WAYMAKER [War Robots]](https://www.youtube.com/watch?v=grZQR70nZs0)**
 
-NEW LIVE CHANNEL - https://www.youtube.com/@chrisbodenlive/streams And come hang out in the Discord!
+War Robots Gameplay: New WAYMAKER Titan - WR My War Robots Creator Link: https://wr.my.games/manni - Code: 'manni' ...
 
-📺 Chris Boden
+📺 Manni-Gaming
 
-👁️ 128K • 👍 11K • 💬 278 • ⏱️ 1:27 • 2d ago
+👁️ 13K • 👍 576 • 💬 74 • ⏱️ 24:06 • 1d ago
+
+---
+
+**[Humanoid robots race past humans in Beijing half-marathon](https://www.youtube.com/watch?v=oLdVcsttB_A)**
+
+Dozens of Chinese-made humanoid robots showed off their fast-improving athleticism as they whizzed past human runners in a ...
+
+📺 Guardian News
+
+👁️ 95K • 👍 250 • 💬 103 • ⏱️ 0:37 • 5d ago
+
+---
+
+**[🤖 No repeat win, still stole the show—TienKung Ultra ate this race. #humanoidrobot #ai #robotics](https://www.youtube.com/watch?v=LPK7x5WV9Ss)**
+
+TienKung Ultra finished the full 21.0975 km in 1:15:00 — fully autonomous, zero human intervention. No repeat win this time.
+
+📺 XRoboHub
+
+👁️ 2.4M • 👍 19K • 💬 2K • ⏱️ 0:39 • 5d ago
 
 ---
 

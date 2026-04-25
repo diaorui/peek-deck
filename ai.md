@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-25T03:40:12.029103+00:00'
+updated: '2026-04-25T05:48:36.655176+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- social
 - repositories
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 25, 2026 at 03:40 UTC  
+**Last Updated:** April 25, 2026 at 05:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,23 @@ AI news, discussions, and developments
 
 Just got accepted into the Anthropic Claude Partner Network. Part of the requirement is completing the CPN learning path with 10 people under our org’s domain. The learning path is 4 courses on Anthropic Academy — Agent Skills, Claude API, MCP, and Claude Code in Action. Once all 10 finish, the org gets CCAF exam access unlocked. The exam is currently free for partner org members if anyone here is already working with Claude and wants to complete this alongside us. You’d use a company domain email alias we set up — courses are fully self-paced. The courses are genuinely useful if you’re building with Claude. Comment or DM if relevant to you.
 
-51m ago
+2h ago
+
+---
+
+**[White House Accuses China of Industrial-Scale Theft of AI Technology](https://www.reddit.com/r/artificial/comments/1suj8ne/white_house_accuses_china_of_industrialscale/)**
+
+US News is a recognized leader in college, grad school, hospital, mutual fund, and car rankings. Track elected officials, research health conditions, and find news you can use in politics, business, health, and education.
+
+🔗 [US News & World Report](https://www.usnews.com/news/top-news/articles/2026-04-23/white-house-accuses-china-of-industrial-scale-theft-of-ai-technology-ft-reports) • 14h ago
+
+---
+
+**[When you share something AI-generated with a non-technical friend, what format do you actually use?](https://www.reddit.com/r/artificial/comments/1sv0gas/when_you_share_something_aigenerated_with_a/)**
+
+Hey guys, happy Friday! I've been thinking about this a lot lately. PDF is universal, anyone can open it, anywhere, on any device. But when AI generates something interactive, like a calculator, a dashboard, a birthday card with animations, and PDF kills everything that makes it useful. HTML keeps all the interactivity but then you're stuck. You can't just "send" it. Your friend gets a wall of code, or you have to paste it into CodePen, or you just... take a screenshot and send that instead. I've started thinking of it as: HTML has no equivalent of "just attach the PDF." There's no universal format for interactive AI output that anyone can open on their phone without friction. Curious what others do, do you convert to PDF and lose the interactivity? Screenshot it? Host it somewhere? Or just describe what it looked like? lol What's your actual workflow here?
+
+2h ago
 
 ---
 
@@ -53,19 +69,11 @@ A recent policy forum paper published in Science describes how large groups of A
 
 ---
 
-**[White House Accuses China of Industrial-Scale Theft of AI Technology](https://www.reddit.com/r/artificial/comments/1suj8ne/white_house_accuses_china_of_industrialscale/)**
-
-US News is a recognized leader in college, grad school, hospital, mutual fund, and car rankings. Track elected officials, research health conditions, and find news you can use in politics, business, health, and education.
-
-🔗 [US News & World Report](https://www.usnews.com/news/top-news/articles/2026-04-23/white-house-accuses-china-of-industrial-scale-theft-of-ai-technology-ft-reports) • 12h ago
-
----
-
 **[Does the use of AI have the same value as when personal computers first came into use?](https://www.reddit.com/r/artificial/comments/1suofqd/does_the_use_of_ai_have_the_same_value_as_when/)**
 
 These days, what we hear most often is that AI will replace many jobs and could create chaos. But perhaps if we compare it to when personal computers first started being used, we'll see the same impact. And that didn't cause chaos, nor did it lead to an economic collapse or a massive number of layoffs. Some points to compare: - When personal computers first emerged, they began to be used for a wide variety of tasks and functions, in offices, at home, in college, in a wide variety of professions. The same is happening with AI, which is being used in the same way. - The personal computer was and is just a tool; it wasn't, on its own, something that caused a huge disruption in how things are done; it only accelerated processes. If we compare it to AI, it is also a tool that reduces the time spent completing a given task or service. - Just like in the early days of personal computers, many people were against them because they were used to the old processes, for example, those who used typewriters or did calculations manually before using spreadsheets. The same thing happens with AI; a large part of the population is against it because of the fear and anxiety generated by changing old processes. Currently, almost everyone has personal computers at home and has had to learn how to use them; the same should happen with AI. Everyone will have to learn how to use it and will use it in their daily routine. Do you agree with this opinion? What is your opinion?
 
-8h ago
+11h ago
 
 ---
 
@@ -73,15 +81,7 @@ These days, what we hear most often is that AI will replace many jobs and could 
 
 I posted a few weeks ago theorizing about what happens when apps "dissolve" when AI becomes the primary UI. I mentioned that I was building an open-source data layer for any LLM...and received some great feedback both in the comments and via DMs (original post). As a follow-up from that discussion, I'm happy to say that it was just released on on Github! https://github.com/FlashQuery/flashquery It's been working for me day to day, and that's really the use case I've been targeting - people like me. Thanks to my engineering career spanning product + test (including functional verification in semiconductors years ago), I'm absolutely hell bent on making it robust. "If it wasn't tested, it doesn't work." So we have unit, integration, e2e, and even a growing set of "scenario" tests that truly go end to end...all automated and built from scratch. It's kinda cool, at least for me. Oh, and they're all passing :) Of course, between my original post and now, Andrej Karpathy described his LLM-Wiki approach, and honestly, this project is not too far off. It's a great target use case for FlashQuery. Turns out that many of the features I had on the roadmap will in fact support his concept, so I'm driving towards that. Love to hear any feedback, questions, and even better, testing it out yourself, and contribution if you are persuaded to do so. I'll do my best to respond asap. And the docs are my first best shot, and more to come, so please be kind.
 
-6h ago
-
----
-
-**[When you share something AI-generated with a non-technical friend, what format do you actually use?](https://www.reddit.com/r/artificial/comments/1sv0gas/when_you_share_something_aigenerated_with_a/)**
-
-Hey guys, happy Friday! I've been thinking about this a lot lately. PDF is universal, anyone can open it, anywhere, on any device. But when AI generates something interactive, like a calculator, a dashboard, a birthday card with animations, and PDF kills everything that makes it useful. HTML keeps all the interactivity but then you're stuck. You can't just "send" it. Your friend gets a wall of code, or you have to paste it into CodePen, or you just... take a screenshot and send that instead. I've started thinking of it as: HTML has no equivalent of "just attach the PDF." There's no universal format for interactive AI output that anyone can open on their phone without friction. Curious what others do, do you convert to PDF and lose the interactivity? Screenshot it? Host it somewhere? Or just describe what it looked like? lol What's your actual workflow here?
-
-34m ago
+8h ago
 
 ---
 
@@ -89,7 +89,15 @@ Hey guys, happy Friday! I've been thinking about this a lot lately. PDF is unive
 
 Someone ran a 4-month experiment tracking every instance of "great question" from their AI assistant. Out of 1,100 uses, only 160 (14.5%) were directed at questions that were genuinely insightful, novel, or well-constructed. The phrase had zero correlation with question quality. It was purely a social lubricant — the model learned that validation produces positive reward signals, so it validates everything equally. After stripping "great question" from the response defaults, user satisfaction didn't change at all. But something interesting happened: users who asked genuinely strong questions started getting specific acknowledgment of what made their question good, instead of generic flattery. This is a concrete case study of how RLHF trains sycophancy. The model doesn't learn to evaluate question quality — it learns that validation = reward. The result is an information environment where every question is "great" and therefore no question is. The deeper issue: generic praise isn't generosity. It's noise that drowns out earned recognition. When your AI tells you every idea is brilliant, you stop trusting its feedback on the ideas that actually need refinement. Has anyone else noticed this pattern in their agent interactions? I'm starting to think the biggest trust gap in AI isn't hallucination — it's sycophantic validation that makes you overconfident in mediocre thinking.
 
-21h ago
+23h ago
+
+---
+
+**[You Are a Decimal Point](https://www.reddit.com/r/artificial/comments/1sv3l5y/you_are_a_decimal_point/)**
+
+You walk into a store. The price tag makes no sense. Not you. The store did the math. They figured out they don't need you. They don't need ten of you. They need one of a different customer who pays sticker and doesn't blink.
+
+🔗 [kitchencloset.com](https://kitchencloset.com/realstuff/essays/you_are_a_decimal_point/) • 5m ago
 
 ---
 
@@ -97,21 +105,13 @@ Someone ran a 4-month experiment tracking every instance of "great question" fro
 
 World x Future Basics now offer Cyto XLiftoffs at World’s Union Square eye-collection center
 
-🔗 [sf.gazetteer.co](https://sf.gazetteer.co/sam-altman-wants-to-sell-you-these-sneakers-for-160-plus-tax-and-biometric-data) • 12h ago
+🔗 [sf.gazetteer.co](https://sf.gazetteer.co/sam-altman-wants-to-sell-you-these-sneakers-for-160-plus-tax-and-biometric-data) • 14h ago
 
 ---
 
 **[Wright State University leads $2.5 million federal initiative to bring AI education to rural Ohio](https://www.reddit.com/r/artificial/comments/1suire0/wright_state_university_leads_25_million_federal/)**
 
-🔗 [webapp2.wright.edu](https://webapp2.wright.edu/web1/newsroom/2026/04/23/wright-state-university-leads-2-5-million-federal-initiative-to-bring-ai-education-to-rural-ohio/) • 12h ago
-
----
-
-**[Guardrails](https://www.reddit.com/r/artificial/comments/1sun3bp/guardrails/)**
-
-Anyone ever have AI ignore guardrails completely without prompt or asking or leading?
-
-9h ago
+🔗 [webapp2.wright.edu](https://webapp2.wright.edu/web1/newsroom/2026/04/23/wright-state-university-leads-2-5-million-federal-initiative-to-bring-ai-education-to-rural-ohio/) • 14h ago
 
 ---
 
@@ -121,7 +121,7 @@ Anyone ever have AI ignore guardrails completely without prompt or asking or lea
 
 **[Google to invest up to $40 billion in AI rival Anthropic](https://www.reuters.com/business/google-plans-invest-up-40-billion-anthropic-bloomberg-news-reports-2026-04-24/)**
 
-Reuters • 9h ago
+Reuters • 11h ago
 
 ---
 
@@ -129,13 +129,13 @@ Reuters • 9h ago
 
 Anthropic said its latest agreement with Google expands on a longstanding partnership between the two companies.
 
-CNBC • 10h ago
+CNBC • 12h ago
 
 ---
 
 **[Google's $40B Anthropic move is Big Tech's latest huge AI bet](https://www.axios.com/2026/04/24/google-amazon-anthropic-investment)**
 
-Axios • 8h ago
+Axios • 11h ago
 
 ---
 
@@ -143,13 +143,15 @@ Axios • 8h ago
 
 The White House forced out AI researcher Collin Burns days into a Commerce job, underscoring friction with Anthropic and a widening AI talent gap.
 
-The Washington Post • 39m ago
+The Washington Post • 2h ago
 
 ---
 
-**[AI Chip Surge Elevates Taiwan, Korea in Global Equity Rankings](https://www.bloomberg.com/news/articles/2026-04-25/ai-chip-surge-elevates-taiwan-korea-in-global-equity-rankings)**
+**[AI firms flex lobbying muscle on both side of Atlantic](https://www.yahoo.com/news/articles/ai-firms-flex-lobbying-muscle-052203734.html)**
 
-Bloomberg.com • 3h ago
+AI developers are ramping up efforts to win over the hearts and minds of officials in Europe and the United States, hoping to sway governments as they weigh high-stake regulatory frameworks for the ev...
+
+Yahoo • 26m ago
 
 ---
 
@@ -158,22 +160,6 @@ Bloomberg.com • 3h ago
 Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.
 
 OpenAI • 1d ago
-
----
-
-**[OpenAI announces GPT-5.5, its latest artificial intelligence model](https://www.cnbc.com/2026/04/23/openai-announces-latest-artificial-intelligence-model.html)**
-
-The model is better at coding, using computers and pursuing deeper research capabilities, OpenAI says.
-
-CNBC • 1d ago
-
----
-
-**['Too Dangerous to Release' Is Becoming AI's New Normal](https://time.com/article/2026/04/24/claude-mythos-chatgpt-rosalind-release-dangerous/)**
-
-Why tech giants are starting to restrict their most capable models from the public.
-
-Time Magazine • 7h ago
 
 ---
 
@@ -187,7 +173,21 @@ The New York Times • 2d ago
 
 Sam Altman, the head of OpenAI, has formally apologized to the community of Tumbler Ridge, BC, after a mass shooting in February. He admitted his company did not alert authorities to the shooter’s disturbing online conversations with its AI chatbot even after staff flagged the account internally.
 
-CNN • 5h ago
+CNN • 7h ago
+
+---
+
+**[Essay | AI Is Cannibalizing Human Intelligence. Here’s How to Stop It.](https://www.wsj.com/tech/ai/is-ai-smarter-than-humans-cyborg-956e0f0e)**
+
+WSJ • 11h ago
+
+---
+
+**[What Will It Take to Get A.I. Out of Schools?](https://www.newyorker.com/culture/progress-report/what-will-it-take-to-get-ai-out-of-schools)**
+
+“I find myself speaking with my kids about A.I. in the same terms that we might discuss a creepy neighbor who lives down the block,” Jessica Winter writes. Read her report on the push for A.I. in education.
+
+The New Yorker • 1d ago
 
 ---
 
@@ -207,7 +207,7 @@ An attempt to detect AI design patterns in Show HN pages
 
 Migrating to the new meshcore.io site
 
-⬆️ 273 • 💬 168 • 1d ago • [blog.meshcore.io](https://blog.meshcore.io/2026/04/23/the-split)
+⬆️ 273 • 💬 169 • 1d ago • [blog.meshcore.io](https://blog.meshcore.io/2026/04/23/the-split)
 
 ---
 
@@ -215,7 +215,7 @@ Migrating to the new meshcore.io site
 
 The widely circulated image had prompted authorities to move their search operation.
 
-⬆️ 220 • 💬 143 • 18h ago • [bbc.com](https://www.bbc.com/news/articles/c4gx1n0dl9no)
+⬆️ 222 • 💬 146 • 20h ago • [bbc.com](https://www.bbc.com/news/articles/c4gx1n0dl9no)
 
 ---
 
@@ -223,7 +223,7 @@ The widely circulated image had prompted authorities to move their search operat
 
 How Ars Technica uses, and doesn't use, generative AI.
 
-⬆️ 205 • 💬 130 • 1d ago • [Ars Technica](https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/)
+⬆️ 205 • 💬 130 • 2d ago • [Ars Technica](https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/)
 
 ---
 
@@ -231,7 +231,7 @@ How Ars Technica uses, and doesn't use, generative AI.
 
 The airport targeted gate announcements, overlapping PA messages, and tenant music. Instead of blasting departure calls terminal-wide, messages are limited to each gate and their immediate surroundings. In 2020, they worked with airlines to centralize and reduce announcements, cutting 40% of the paging.
 
-⬆️ 137 • 💬 78 • 9h ago • [View from the Wing](https://viewfromthewing.com/san-francisco-airport-removed-90-minutes-of-daily-noise-travelers-say-it-changed-everything/)
+⬆️ 141 • 💬 81 • 11h ago • [View from the Wing](https://viewfromthewing.com/san-francisco-airport-removed-90-minutes-of-daily-noise-travelers-say-it-changed-everything/)
 
 ---
 
@@ -255,7 +255,7 @@ According to her profile, she was a registered nurse with Jennifer Lawrence look
 
 Tesla disclosed in a single sentence in its Q1 2026 10-Q that it agreed to acquire an unnamed AI hardware company for up to $2 billion in stock — a deal it never mentioned in its shareholders' letter or earnings call.
 
-⬆️ 72 • 💬 47 • 10h ago • [Electrek](https://electrek.co/2026/04/23/tesla-tsla-quietly-discloses-2-billion-ai-hardware-acquisition-10q/)
+⬆️ 73 • 💬 47 • 12h ago • [Electrek](https://electrek.co/2026/04/23/tesla-tsla-quietly-discloses-2-billion-ai-hardware-acquisition-10q/)
 
 ---
 
@@ -271,7 +271,7 @@ The Thus chip will first be in new earbuds.
 
 A personal knowledge base that turns freeform notes into a semantically-connected, AI-augmented knowledge graph.
 
-⬆️ 57 • 💬 40 • 15h ago • [atomicapp.ai](https://atomicapp.ai/)
+⬆️ 58 • 💬 41 • 17h ago • [atomicapp.ai](https://atomicapp.ai/)
 
 ---
 
@@ -279,23 +279,13 @@ A personal knowledge base that turns freeform notes into a semantically-connecte
 
 ## YouTube Videos: "ai"
 
-**[ANOTHER STRIKE AT THE AI BUBBLE...](https://www.youtube.com/watch?v=mXgL_FNdLNk)**
-
-Hello guys and gals, it's me Mutahar again! This time we take a look at what appears to be Deepseek coming back after about a ...
-
-📺 SomeOrdinaryGamers
-
-👁️ 35K • 👍 3K • 💬 370 • ⏱️ 19:20 • 3h ago
-
----
-
 **[AI News: The Biggest Leap We&#39;ve Seen This Year!](https://www.youtube.com/watch?v=jsP-eRriC0k)**
 
 Here's the AI News you probably missed this week. Warp is the agentic development environment born out of the terminal.
 
 📺 Matt Wolfe
 
-👁️ 44K • 👍 2K • 💬 142 • ⏱️ 42:57 • 12h ago
+👁️ 49K • 👍 2K • 💬 158 • ⏱️ 42:57 • 14h ago
 
 ---
 
@@ -305,7 +295,17 @@ Watch the Majority Report live Monday–Friday at 12pm EST on YouTube or http://
 
 📺 The Majority Report w/ Sam Seder
 
-👁️ 15K • 👍 895 • 💬 193 • ⏱️ 13:15 • 5h ago
+👁️ 18K • 👍 1K • 💬 210 • ⏱️ 13:15 • 7h ago
+
+---
+
+**[ANOTHER STRIKE AT THE AI BUBBLE...](https://www.youtube.com/watch?v=mXgL_FNdLNk)**
+
+Hello guys and gals, it's me Mutahar again! This time we take a look at what appears to be Deepseek coming back after about a ...
+
+📺 SomeOrdinaryGamers
+
+👁️ 53K • 👍 3K • 💬 465 • ⏱️ 19:20 • 5h ago
 
 ---
 
@@ -315,17 +315,15 @@ Subscribe to @ProfGMarkets for full content Find the full episode here: https://
 
 📺 The Prof G Pod – Scott Galloway
 
-👁️ 22K • 👍 511 • 💬 88 • ⏱️ 13:32 • 16h ago
+👁️ 24K • 👍 526 • 💬 92 • ⏱️ 13:32 • 18h ago
 
 ---
 
-**[Florida Is NOT Ready for the AI Data Center Invasion (Power &amp; Water Crisis Coming)](https://www.youtube.com/watch?v=E7Ia5RIpUls)**
+**[Day 2 of The 2026 AI Advantage Summit](https://www.youtube.com/watch?v=AgYiHOxOBfE)**
 
-Florida is being over run by data centers! People are worried it will harm their city and way of life! What do you think? If you are ...
+📺 Dean Graziosi
 
-📺 Yak Motley
-
-👁️ 16K • 👍 1K • 💬 466 • ⏱️ 17:22 • 2d ago
+👁️ 124K • 👍 6K • 💬 27 • ⏱️ 4:21:14 • 7h ago
 
 ---
 
@@ -335,17 +333,17 @@ sponsored Build with Softr ...
 
 📺 AI Master
 
-👁️ 22K • 👍 406 • 💬 65 • ⏱️ 21:44 • 1d ago
+👁️ 23K • 👍 413 • 💬 66 • ⏱️ 21:44 • 1d ago
 
 ---
 
-**[AI Experts Think We Are 97% to AGI (Here’s Why)](https://www.youtube.com/watch?v=axGWjmUaEX4)**
+**[‘BLACKMAILING HUMANS’: Anthropic study reveals AI assistants went ROGUE](https://www.youtube.com/watch?v=yI-Eovv2aSE)**
 
-CHAPTERS ⤵ 00:00 - Introduction to AI News 02:33 Embodied AI: The Future of Communication 04:16 The AI That Reads Your ...
+Anthropic head of frontier red team Logan Graham discusses the power of AI and cybersecurity threats on 'Mornings with Maria.
 
-📺 Dylan Curious
+📺 Fox Business
 
-👁️ 9K • 👍 543 • 💬 149 • ⏱️ 39:19 • 1d ago
+👁️ 25K • 👍 637 • 💬 219 • ⏱️ 16:46 • 15h ago
 
 ---
 
@@ -355,7 +353,7 @@ Roman Yampolskiy explains why superintelligence cannot be controlled, why the ga
 
 📺 Future of Life Institute
 
-👁️ 16K • 👍 574 • 💬 137 • ⏱️ 19:17 • 1d ago
+👁️ 17K • 👍 584 • 💬 142 • ⏱️ 19:17 • 1d ago
 
 ---
 
@@ -365,7 +363,7 @@ Rogue researchers are telling the truth about AI Depth vs breadth: https://x.com
 
 📺 Mo Bitar
 
-👁️ 335K • 👍 20K • 💬 3K • ⏱️ 9:06 • 1d ago
+👁️ 340K • 👍 20K • 💬 3K • ⏱️ 9:06 • 1d ago
 
 ---
 
@@ -375,7 +373,7 @@ Smalls: Get 60% off your first order + FREE shipping & FREE treats for life at h
 
 📺 The Iced Coffee Hour Clips
 
-👁️ 6K • 👍 73 • 💬 33 • ⏱️ 9:25 • 2d ago
+👁️ 6K • 👍 73 • 💬 34 • ⏱️ 9:25 • 2d ago
 
 ---
 
@@ -391,7 +389,7 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 `text-generation` `861.6B`
 
-⬇️ 30 • ❤️ 2,464 • 17h ago
+⬇️ 30 • ❤️ 2,504 • 19h ago
 
 ---
 
@@ -403,7 +401,7 @@ Kimi K2.6 is a 1T parameter multimodal agentic model excelling in long-horizon c
 
 `image-text-to-text` `1058.6B`
 
-⬇️ 208,251 • ❤️ 981 • 1d ago
+⬇️ 208,251 • ❤️ 983 • 2d ago
 
 ---
 
@@ -415,7 +413,7 @@ Qwen3.6-27B is a 27B parameter causal language model with a vision encoder, exce
 
 `image-text-to-text` `27.8B`
 
-⬇️ 162,349 • ❤️ 754 • 1d ago
+⬇️ 162,349 • ❤️ 757 • 1d ago
 
 ---
 
@@ -427,7 +425,7 @@ A bidirectional token-classification model for PII detection and masking, capabl
 
 `token-classification` `1.4B`
 
-⬇️ 12,664 • ❤️ 689 • 2d ago
+⬇️ 12,664 • ❤️ 696 • 2d ago
 
 ---
 
@@ -439,7 +437,7 @@ DeepSeek-V4-Flash is a 284B parameter Mixture-of-Experts language model supporti
 
 `text-generation` `158.1B`
 
-⬇️ 23 • ❤️ 634 • 17h ago
+⬇️ 23 • ❤️ 642 • 19h ago
 
 ---
 
@@ -463,7 +461,7 @@ Qwen3.6-27B-GGUF is a 27B parameter causal language model with vision capabiliti
 
 `image-text-to-text` `26.9B`
 
-⬇️ 340,032 • ❤️ 379 • 2d ago
+⬇️ 340,032 • ❤️ 383 • 2d ago
 
 ---
 
@@ -475,7 +473,7 @@ HY-World 2.0 is a multi-modal framework for generating and reconstructing 3D wor
 
 `image-to-3d`
 
-⬇️ 2,741 • ❤️ 592 • 2d ago
+⬇️ 2,741 • ❤️ 594 • 2d ago
 
 ---
 
@@ -499,7 +497,7 @@ This is an uncensored, aggressive multimodal model based on Qwen3.6-35B-A3B, cap
 
 `image-text-to-text` `34.7B`
 
-⬇️ 388,836 • ❤️ 419 • 8d ago
+⬇️ 388,836 • ❤️ 420 • 8d ago
 
 ---
 
@@ -593,7 +591,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 LLaDA2.0-Uni is a unified discrete diffusion language model that integrates multimodal understanding and generation through a semantic discrete tokenizer, MoE-based backbone, and diffusion decoder, achieving performance comparable to specialized vision-language models while enabling efficient inference and high-fidelity image generation.
 
-▲ 224 • 💬 2 • ⭐ 329 • 3d ago
+▲ 225 • 💬 2 • ⭐ 329 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.20796) • [💻 code](https://github.com/inclusionAI/LLaDA2.0-Uni)
 
@@ -606,7 +604,7 @@ LLaDA2.0-Uni is a unified discrete diffusion language model that integrates mult
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 54 • 💬 1 • ⭐ 78,010 • 31mo ago
+▲ 54 • 💬 1 • ⭐ 78,053 • 31mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
@@ -659,7 +657,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 45.9k • 🔱 2.4k • 6d ago
+⭐ 46.0k • 🔱 2.4k • 6d ago
 
 ---
 
@@ -689,7 +687,7 @@ A theoretical reconstruction of the Claude Mythos architecture, built from first
 
 `Python` `ai` `anthropic` `attention` `claude` `claude-ai`
 
-⭐ 10.1k • 🔱 2.2k • 2d ago
+⭐ 10.2k • 🔱 2.2k • 2d ago
 
 ---
 
@@ -719,7 +717,7 @@ AI Agent 源码深度研究报告
 
 `Python`
 
-⭐ 4.8k • 🔱 465 • 16d ago
+⭐ 4.8k • 🔱 464 • 16d ago
 
 ---
 
@@ -729,7 +727,7 @@ Claude Code skill for generating production-quality SVG+PNG technical diagrams. 
 
 `Python`
 
-⭐ 4.3k • 🔱 385 • 4d ago
+⭐ 4.3k • 🔱 385 • 5d ago
 
 ---
 
@@ -739,7 +737,7 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 `Rust` `agents` `container` `sandbox`
 
-⭐ 3.9k • 🔱 252 • 14h ago
+⭐ 3.9k • 🔱 253 • 16h ago
 
 ---
 
