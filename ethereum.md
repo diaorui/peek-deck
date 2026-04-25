@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-25T16:05:56.780696+00:00'
+updated: '2026-04-25T17:09:52.836548+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
+- social
 - videos
 - news
-- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 25, 2026 at 16:05 UTC  
+**Last Updated:** April 25, 2026 at 17:09 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.5%  
+**24h:** -0.4%  
 **7d:** +2.0%  
 **30d:** +15.8%  
 **90d:** -21.2%  
-**1y:** +26.7%  
+**1y:** +26.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $279.52B
+**Market Cap:** $278.70B
 Rank #2
 
 **Circulating Supply:** 120,688,915 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--53.2%
+-53.3%
 
 **All-Time Low:** $0.43
-+534937.5%
++533221.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 been spending way too much time looking at the recent string of defi exploits and the amount of supply locked up in the same three lst platforms is honestly giving me anxiety. having that much of the network reliant on a few centralized points of failure makes me paranoid about massive tail risks. every time the market swings i find myself wanting to hedge this exposure, but the options are terrible. you either convert to fiat and trigger taxable events, or you play russian roulette with wrapped assets and multisig bridges that seem to get drained every other week. i went down a rabbit hole last night trying to find a way to secure my yields natively, maybe even hedging with digital gold or something stable, without fragmenting my liquidity across a dozen vulnerable front-ends. what are you guys actually doing to protect your bags long term? are we just stuck choosing between bare validator yields and accepting the centralized lst risk? curious if anyone has found a trust-minimized way to hedge this without leaving the ecosystem.
 
-2h ago
+3h ago
 
 ---
 
@@ -88,7 +88,7 @@ been spending way too much time looking at the recent string of defi exploits an
 
 Aave DAO offers to contribute 25,000 ETH toward DeFi United, a coordinated ecosystem recovery effort to restore the full backing of KelpDAO's rsETH. The coalition, which includes Lido, EtherFi, Ethena, Mantle, and others, aims to cover a ~75,081 ETH residual shortfall.
 
-🔗 [Aave](https://governance.aave.com/t/arfc-rseth-incident-funding-update/24740) • 21h ago
+🔗 [Aave](https://governance.aave.com/t/arfc-rseth-incident-funding-update/24740) • 22h ago
 
 ---
 
@@ -168,9 +168,9 @@ The Motley Fool • 2d ago
 
 ---
 
-**[BitMine Says 70% Of Ethereum Holdings Are Now Staked](https://finance.yahoo.com/markets/crypto/articles/bitmine-says-70-ethereum-holdings-185300271.html)**
+**[Bitmine Has Staked 70% Ethereum, Nears 5% Supply — Is Price Gain Following?](https://finance.yahoo.com/markets/crypto/articles/bitmine-staked-70-ethereum-nears-123243390.html)**
 
-BitMine Immersion Technologies (NYSE: $BMNR) says that more than 70% of its Ethereum (CRYPTO: $ETH) holdings have n...
+BitMine has staked over 70% of its Ethereum holdings. Tom Lee says Ethereum may be nearing the end of a “mini crypto winter." Broader bullish ...
 
 Yahoo Finance • 1d ago
 
@@ -186,13 +186,13 @@ Barron's • 2d ago
 
 Grayscale staked 102,400 ETH worth $237M via its Ethereum Staking ETF. Ethereum reaching $10,000 by December 31, 2026 at 4% YES.
 
-Crypto Briefing • 11h ago
+Crypto Briefing • 12h ago
 
 ---
 
 **[XRP vs Ethereum: Which Digital Giant Will Explode to Make You the Most Money in 2026?](https://www.tipranks.com/news/xrp-vs-ethereum-which-digital-giant-will-explode-to-make-you-the-most-money-in-2026)**
 
-TipRanks • 21h ago
+TipRanks • 22h ago
 
 ---
 
@@ -200,7 +200,7 @@ TipRanks • 21h ago
 
 Dubai, UAE, April  24, 2026  (GLOBE NEWSWIRE) -- Crypto news this week centers on Pepeto after the project opened a fresh presale stage because th...
 
-markets.businessinsider.com • 19h ago
+markets.businessinsider.com • 20h ago
 
 ---
 
@@ -216,7 +216,7 @@ FXStreet • 1d ago
 
 Ethereum traders just piled $322 million into $3,200 call options and the real reason for the bet isn’t simple hype.
 
-CryptoSlate • 20h ago
+CryptoSlate • 21h ago
 
 ---
 
@@ -224,7 +224,7 @@ CryptoSlate • 20h ago
 
 Start with understanding how the three cryptos differ.
 
-money.com • 20h ago
+money.com • 21h ago
 
 ---
 
@@ -238,17 +238,7 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 438 • 👍 48 • 💬 34 • ⏱️ 13:36 • 1h ago
-
----
-
-**[Tom Lee :&quot;Why Ethereum Is Going To $50,000 Per Coin, 1 ETH Will Be Huge! | Eth Price 2026](https://www.youtube.com/watch?v=P131BOKYpf0)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 14K • 👍 431 • 💬 52 • ⏱️ 23:11 • 1d ago
+👁️ 970 • 👍 89 • 💬 115 • ⏱️ 13:36 • 3h ago
 
 ---
 
@@ -258,7 +248,27 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Library Of Wealth
 
-👁️ 830 • 👍 40 • 💬 163 • ⏱️ 16:26 • 23h ago
+👁️ 830 • 👍 40 • 💬 163 • ⏱️ 16:26 • 1d ago
+
+---
+
+**[THEY ARE PREDICTING - $500K BITCOIN, $40K ETHEREUM, AND $50 XRP BY THIS DATE!](https://www.youtube.com/watch?v=DzdxhLkBDOo)**
+
+THEY ARE PREDICTING - $500K BITCOIN, $40K ETHEREUM, AND $50 XRP BY THIS DATE! GET AUSTIN'S X1 ALGO ...
+
+📺 Austin Hilton
+
+👁️ 427 • 👍 75 • 💬 3 • ⏱️ 9:47 • 20m ago
+
+---
+
+**[Tom Lee :&quot;Why Ethereum Is Going To $50,000 Per Coin, 1 ETH Will Be Huge! | Eth Price 2026](https://www.youtube.com/watch?v=P131BOKYpf0)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 15K • 👍 441 • 💬 53 • ⏱️ 23:11 • 2d ago
 
 ---
 
@@ -268,7 +278,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 75 • 💬 19 • ⏱️ 8:31 • 1d ago
+👁️ 3K • 👍 76 • 💬 19 • ⏱️ 8:31 • 1d ago
 
 ---
 
@@ -278,17 +288,7 @@ Most people are declaring altcoins dead, but the crypto charts tell a completely
 
 📺 Crypto Capital Venture
 
-👁️ 8K • 👍 539 • 💬 142 • ⏱️ 13:20 • 1d ago
-
----
-
-**[Cathie Wood &amp; Tom Lee: &quot;Ethereum Is Going To $60,000 - Here&#39;s The Math Nobody Is Talking About&quot;](https://www.youtube.com/watch?v=MGpEZhlNlpU)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 19K • 👍 480 • 💬 48 • ⏱️ 18:59 • 2d ago
+👁️ 9K • 👍 546 • 💬 143 • ⏱️ 13:20 • 1d ago
 
 ---
 
@@ -298,27 +298,7 @@ Ethereum is consolidating just below a descending trend line that has been with 
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 210 • 💬 18 • ⏱️ 10:43 • 16h ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=zEiXbIuO__A)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Crypto Gyan
-
-👁️ 283 • 👍 57 • ⏱️ 5:57 • 3h ago
-
----
-
-**[Bitmine BMNR’s $13 Billion Ethereum Bet Explained (Something Feels Off)](https://www.youtube.com/watch?v=b2vQaU3EeXE)**
-
-Bitmine (BMNR) is quietly building one of the largest Ethereum treasuries in the market — now approaching $13 billion in total ...
-
-📺 BiGB Stcok
-
-👁️ 1K • 👍 45 • 💬 18 • ⏱️ 10:01 • 18h ago
+👁️ 3K • 👍 215 • 💬 18 • ⏱️ 10:43 • 17h ago
 
 ---
 
@@ -328,7 +308,27 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 93 • 👍 5 • 💬 2 • ⏱️ 4:34 • 7h ago
+👁️ 104 • 👍 6 • 💬 2 • ⏱️ 4:34 • 8h ago
+
+---
+
+**[Bitmine BMNR’s $13 Billion Ethereum Bet Explained (Something Feels Off)](https://www.youtube.com/watch?v=b2vQaU3EeXE)**
+
+Bitmine (BMNR) is quietly building one of the largest Ethereum treasuries in the market — now approaching $13 billion in total ...
+
+📺 BiGB Stcok
+
+👁️ 1K • 👍 47 • 💬 18 • ⏱️ 10:01 • 19h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=zEiXbIuO__A)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Crypto Gyan
+
+👁️ 462 • 👍 71 • ⏱️ 5:57 • 4h ago
 
 ---
 
