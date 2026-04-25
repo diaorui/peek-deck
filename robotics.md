@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-25T14:13:14.196589+00:00'
+updated: '2026-04-25T15:08:49.187504+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 25, 2026 at 14:13 UTC  
+**Last Updated:** April 25, 2026 at 15:08 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2047765371734704574
 
-5h ago
+6h ago
 
 ---
 
 **[A smarter approach on autonomous exploration](https://www.reddit.com/r/robotics/comments/1sv7le7/a_smarter_approach_on_autonomous_exploration/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -50,7 +50,7 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2047765371734704574
 
 Been building this ai desktop robot cat lately and tbh the visual feedback is everything. we’re using a 410×502 hd retina screen, and the real-device visual effect is honestly very impressive. pictures really don't do it justice. getting the voice to match the mouth was a nightmare tho. we use an algorithm to extract lip-sync phonemes and align them with the audio, and we also apply optimization methods to make the mouth transitions look natural. it runs on an esp32 rn but we are working on a linux version. kinda just wanted a companion on my desk while i code that actually feels alive, not just a static screen. i usually keep it right below my monitor. having it handle my quick queries or just react to me talking in the room makes a huge difference. watching it react in real time is pretty wild.
 
-10h ago
+11h ago
 
 ---
 
@@ -66,7 +66,7 @@ First rollout of a simple ACT model and the right looks like it got its ACT toge
 
 Hi All, I am currently working on so101 and am familiar with data collection, training, eval following the lerobot recipes. I wanted to go further and learn better about how to do the same in simulation and use that as a starting point for doing RL from IM. Are there any good guides? Anyone done this before? I understand this might not be a standard path especially with sim-real gap. However wanted to go down this path to better understand the concepts and learn (plus AI tools recommended it)
 
-9h ago
+10h ago
 
 ---
 
@@ -102,7 +102,7 @@ Hey everyone, I've been building autonomous drones with a monocular camera and h
 
 ROS News for the Week of April 20th, 2026      🫶 We need your help testing ROS 2 Lyrical Luth! Join us next Thursday, April 30th, at 9am for our Lyrical Luth Test and Tutorial Party Kickoff. We’ll show you how to install and test the next ROS release and our top testers will get free ROS swag! You don’t have to make the kickoff meeting to participate in the T&T Party. We’ll post a video once we’re done.       🚨 About 48 hours remain to submit your ROSCon Global talk ...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-april-20th-2026/) • 19h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-april-20th-2026/) • 20h ago
 
 ---
 
@@ -154,7 +154,7 @@ NPR • 1d ago
 
 Melody is an M-Series humanoid, a masterpiece of "human-centric" engineering from Realbotix, a Canada-based humanoid robot manufacturer.
 
-Interesting Engineering • 22h ago
+Interesting Engineering • 23h ago
 
 ---
 
@@ -168,7 +168,7 @@ Investor's Business Daily • 1d ago
 
 Tutor Intelligence in Watertown is a kind of kindergarten for robots.
 
-CBS News • 16h ago
+CBS News • 17h ago
 
 ---
 
@@ -176,7 +176,7 @@ CBS News • 16h ago
 
 Franklin's council approved a development agreement to include TID funding for Yaskawa America's $182 million expansion project in the city.
 
-Milwaukee Journal Sentinel • 4h ago
+Milwaukee Journal Sentinel • 5h ago
 
 ---
 
@@ -192,33 +192,23 @@ Fox Business • 2d ago
 
 ## YouTube Videos: "robotics"
 
-**[Unitree Robot With Wheels Moves In Ways You Did Not Expect](https://www.youtube.com/watch?v=H-X7v7Y4oPc)**
+**[I Bought 200 Robot Vacuums — Here&#39;s The Only One Worth Your Money in 2026!](https://www.youtube.com/watch?v=i_vPlTcRxp8)**
 
-Unitree just revealed a humanoid robot using wheels, skates, and even ice blades, and it completely changes how we think about ...
+What is the best robot vacuum in 2026? After testing over 200 robot vacuums with my own money, one model still stands above ...
 
-📺 DPCcars
+📺 Just A Dad Approved
 
-👁️ 4K • 👍 48 • 💬 59 • ⏱️ 4:20 • 2d ago
-
----
-
-**[Chinese humanoid robots outrun humans in half-marathon, setting records](https://www.youtube.com/watch?v=k5_Tlgvt-c8)**
-
-Over a hundred Chinese-made humanoid robots participated in a half-marathon race in Beijing on Sunday. The second inaugural ...
-
-📺 Global News
-
-👁️ 210K • 👍 2K • 💬 140 • ⏱️ 0:46 • 5d ago
+👁️ 804 • 👍 74 • 💬 12 • ⏱️ 13:40 • 3h ago
 
 ---
 
-**[New AI Robot From China Breaks Human Limits](https://www.youtube.com/watch?v=EJbJMg2RNgw)**
+**[NEW Shoggoth Robot Is Bizarre... NEW Stretch Attack Ability Is Wild | War Robots](https://www.youtube.com/watch?v=cvzlozoeJ5o)**
 
-AGIBOT just rolled out a full new wave of humanoid robots and AI models built for real deployment, while researchers in South ...
+New Spider Shoggoth Robot. This is so weird. We got a new robot on the test server and it has a brand new ability. 2 Medium 2 ...
 
-📺 AI Revolution
+📺 PREDATOR WR
 
-👁️ 36K • 👍 829 • 💬 66 • ⏱️ 16:29 • 4d ago
+👁️ 5K • 👍 286 • 💬 92 • ⏱️ 15:36 • 3h ago
 
 ---
 
@@ -228,17 +218,7 @@ For the first time, an AI-powered machine has bested elite-level athletes at a p
 
 📺 nature video
 
-👁️ 103K • 👍 2K • 💬 209 • ⏱️ 13:38 • 2d ago
-
----
-
-**[Real dogs meet Elon Musk robot dog](https://www.youtube.com/watch?v=oNhJwi4b99Q)**
-
-An Elon Musk robotic dog was seen wandering around San Francisco, bumping into some furry friends. It's all to promote a new ...
-
-📺 CNN
-
-👁️ 161K • 👍 2K • 💬 397 • ⏱️ 0:42 • 6d ago
+👁️ 105K • 👍 2K • 💬 211 • ⏱️ 13:38 • 3d ago
 
 ---
 
@@ -248,27 +228,7 @@ Ace, a ping-pong-playing robot, is the first to beat elite human players in a co
 
 📺 NBC News
 
-👁️ 13K • 👍 218 • 💬 55 • ⏱️ 4:14 • 14h ago
-
----
-
-**[50 Minutes: How China&#39;s Robot Destroyed the Half Marathon Record](https://www.youtube.com/watch?v=pH8tVBqCRLY)**
-
-In Beijing, a humanoid robot just completed a 21-kilometer half-marathon in an astonishing 50 minutes and 26 seconds, marking ...
-
-📺 Capital Markets AI
-
-👁️ 36K • 👍 660 • 💬 151 • ⏱️ 8:58 • 5d ago
-
----
-
-**[Chinese humanoid robot beats world record for fastest human half-marathon | ABC NEWS](https://www.youtube.com/watch?v=tcfAm3hNQbk)**
-
-A humanoid robot has beaten the human record for the world's fastest half-marathon by finishing in just over 50 minutes. Dozens ...
-
-📺 ABC News (Australia)
-
-👁️ 103K • 👍 648 • ⏱️ 6:44 • 5d ago
+👁️ 18K • 👍 289 • 💬 71 • ⏱️ 4:14 • 15h ago
 
 ---
 
@@ -282,13 +242,53 @@ TienKung Ultra finished the full 21.0975 km in 1:15:00 — fully autonomous, zer
 
 ---
 
-**[Humanoid robots race past humans in Beijing half-marathon](https://www.youtube.com/watch?v=oLdVcsttB_A)**
+**[New AI Robot From China Breaks Human Limits](https://www.youtube.com/watch?v=EJbJMg2RNgw)**
 
-Dozens of Chinese-made humanoid robots showed off their fast-improving athleticism as they whizzed past human runners in a ...
+AGIBOT just rolled out a full new wave of humanoid robots and AI models built for real deployment, while researchers in South ...
 
-📺 Guardian News
+📺 AI Revolution
 
-👁️ 95K • 👍 251 • 💬 103 • ⏱️ 0:37 • 6d ago
+👁️ 36K • 👍 830 • 💬 66 • ⏱️ 16:29 • 4d ago
+
+---
+
+**[Humanoid Robot ‘Lightning’ Breaks World Record For A Half-marathon](https://www.youtube.com/watch?v=4i4EglunAag)**
+
+Robots have outpaced human runners at this year's Beijing half-marathon, finishing more than 10 minutes ahead of the top ...
+
+📺 New York Post
+
+👁️ 80K • 👍 725 • 💬 448 • ⏱️ 3:17 • 6d ago
+
+---
+
+**[Chinese humanoid robots outrun humans in half-marathon, setting records](https://www.youtube.com/watch?v=k5_Tlgvt-c8)**
+
+Over a hundred Chinese-made humanoid robots participated in a half-marathon race in Beijing on Sunday. The second inaugural ...
+
+📺 Global News
+
+👁️ 211K • 👍 2K • 💬 140 • ⏱️ 0:46 • 5d ago
+
+---
+
+**[IA | El PRIMER ROBOT en competir contra jugadores de TENIS DE MESA de élite y profesional | EL PAÍS](https://www.youtube.com/watch?v=yNsszgFRlZU)**
+
+Sony AI ha presentado su proyecto Ace, un robot capaz de competir contra jugadores humanos de tenis de mesa, y que ya ha ...
+
+📺 EL PAÍS
+
+👁️ 52K • 👍 34 • 💬 10 • ⏱️ 1:00 • 3d ago
+
+---
+
+**[VEX V5 Robotics Competition : Override | 2026-2027 Game](https://www.youtube.com/watch?v=68NxYIAzbkY)**
+
+SUBSCRIBE: https://www.vex.com/YouTube ----------------------------------------------------------------------- VEX V5 Robotics Competition ...
+
+📺 VEX Robotics
+
+👁️ 72K • 👍 1K • 💬 557 • ⏱️ 5:09 • 15h ago
 
 ---
 

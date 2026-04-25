@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-25T14:13:14.187356+00:00'
+updated: '2026-04-25T15:08:49.181185+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
 - videos
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 25, 2026 at 14:13 UTC  
+**Last Updated:** April 25, 2026 at 15:08 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1553.22B
+**Market Cap:** $1555.03B
 Rank #1
 
-**Circulating Supply:** 20,020,528 BTC
+**Circulating Supply:** 20,020,618 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--38.5%
+-38.4%
 
 **All-Time Low:** $67.81
-+114310.9%
++114455.4%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[I made a site that explains Bitcoin to your mom in 5 minutes. Your mom gets a printable Bitcoin certificate at the end.](https://www.reddit.com/r/Bitcoin/comments/1suo3qe/i_made_a_site_that_explains_bitcoin_to_your_mom/)**
 
-🔗 [wtfisbtc.lol](https://wtfisbtc.lol/) • 19h ago
+🔗 [wtfisbtc.lol](https://wtfisbtc.lol/) • 20h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 If any of you folks are coming to Vegas for Bitcoin 2026, I've compiled a list (and map) of meetups and side events. These tend to be much more fun and enjoyable than the actual Conference. If you're on mobile, you'll likely need the Google Docs app for working links. I'm hitting Hotstyle Takeover, the Bitcoin Today meetup, the Club Orange meetup, NosVegas, and then hosting Steak 'N Shake 'N Sats and the Vegas Bitcoiners Happy Hour on Wednesday.
 
-🔗 [Google Docs](https://docs.google.com/document/d/1RqlQl4vdKZtReFQpIh0h820Q10khCc6gI56xKW4N1-M) • 8h ago
+🔗 [Google Docs](https://docs.google.com/document/d/1RqlQl4vdKZtReFQpIh0h820Q10khCc6gI56xKW4N1-M) • 9h ago
 
 ---
 
@@ -103,7 +103,7 @@ If any of you folks are coming to Vegas for Bitcoin 2026, I've compiled a list (
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-8h ago
+9h ago
 
 ---
 
@@ -111,7 +111,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 I have tremendous trusts on wallets because its math foundation. But today, something happened and I am a little in doubt. Today, when i try to restore my wallet using seed phrase, I accidentally made a mistake, but I ended up restoring another wallet that is not mine. Even though there is no any coin in it, it casts a doubt on wallet’s safety. What if someone who created the wallet has put coins in it? What are the chances that someone else accidentally restore mine? Just genuinely questions from a long time hodler. I hope I get answers that resolve me concerns
 
-14h ago
+15h ago
 
 ---
 
@@ -127,7 +127,7 @@ I am about to move for work and I was wondering how were safely transporting see
 
 People still say that all the time. “No cash flows. No earnings. No fundamentals.” But then why is it worth $75,000+? In this video I break down what “intrinsic value” actually means and why most people completely misunderstand it. My goal is by the end to help people understand exactly why Bitcoin has value.
 
-🔗 [youtu.be](https://youtu.be/y9humUet5SU) • 20h ago
+🔗 [youtu.be](https://youtu.be/y9humUet5SU) • 21h ago
 
 ---
 
@@ -135,7 +135,7 @@ People still say that all the time. “No cash flows. No earnings. No fundamenta
 
 Metaplanet raises $50M through zero-interest bonds to fund new Bitcoin purchases and expand its growing corporate BTC treasury.
 
-🔗 [Blockonomi](https://blockonomi.com/metaplanet-issues-%C2%A58b-bonds-to-expand-bitcoin-holdings/) • 22h ago
+🔗 [Blockonomi](https://blockonomi.com/metaplanet-issues-%C2%A58b-bonds-to-expand-bitcoin-holdings/) • 23h ago
 
 ---
 
@@ -171,7 +171,7 @@ The Block • 1d ago
 
 Can a network without formal governance coordinate the biggest cryptographic migration in its history?
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -179,7 +179,7 @@ CoinDesk • 4h ago
 
 Giancarlo Lelli performed the largest known quantum attack on Bitcoin’s encryption model. His feat is a 512-fold jump from the previous record. Bitcoin enthusiasts are scrambling for ideas to deal with the quantum computing threat.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -193,19 +193,19 @@ Yahoo Finance • 1d ago
 
 **[Bitcoin’s Stealth Rally Has Traders Setting Sights on $80,000](https://www.bloomberg.com/news/articles/2026-04-25/bitcoin-s-stealth-rally-has-traders-setting-sights-on-80-000)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
 **[Bitcoin Traders Eye $73,000 Retest as 21-Week EMA Holds as Resistance; Sub-$60,000 Risk Remains](https://www.binance.com/en/square/post/316329872458609)**
 
-Binance • 1h ago
+Binance • 2h ago
 
 ---
 
 **[Bitcoin News Today: Bitcoin Whales Accumulate $3.17 Billion in BTC Since April 10 as $80,000 Break Could Trigger Bull Market Signal](https://www.binance.com/en/square/post/316337243381570)**
 
-Binance • 1h ago
+Binance • 2h ago
 
 ---
 
@@ -221,7 +221,7 @@ The New York Times • 1d ago
 
 Nakamoto Inc. has introduced an actively managed Bitcoin derivatives program designed to earn income from market volatility while limiting downside risk, the company said Friday.
 
-Bitcoin Magazine • 23h ago
+Bitcoin Magazine • 1d ago
 
 ---
 
@@ -249,7 +249,7 @@ The U.S. military is actively running a Bitcoin node and testing the protocol’
 
 The global economic system is evolving: The left wants to redistribute. The right wants to deregulate. Both are missing the point.
 
-⬆️ 4 • 💬 5 • 4d ago • [The Alignment Economy](https://alignmenteconomy.org)
+⬆️ 4 • 💬 5 • 5d ago • [The Alignment Economy](https://alignmenteconomy.org)
 
 ---
 
@@ -279,7 +279,7 @@ Build wallets, issue stablecoins, and move BTC instantly: all natively on Bitcoi
 
 The quantum threat to Bitcoin keeps inching closer, this time thanks to a researcher who broke a simplified cryptographic key.
 
-⬆️ 3 • 💬 3 • 15h ago • [Decrypt](https://decrypt.co/365444/bitcoin-q-day-draws-nearer-quantum-researcher-breaks-simplified-key)
+⬆️ 3 • 💬 3 • 16h ago • [Decrypt](https://decrypt.co/365444/bitcoin-q-day-draws-nearer-quantum-researcher-breaks-simplified-key)
 
 ---
 
@@ -317,13 +317,23 @@ The quantum threat to Bitcoin keeps inching closer, this time thanks to a resear
 
 ## YouTube Videos: "bitcoin"
 
+**[Why Bitcoin WINS No Matter What Happens to Inflation](https://www.youtube.com/watch?v=OisxT95bkk8)**
+
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+
+📺 Anthony Pompliano
+
+👁️ 5K • 👍 589 • ⏱️ 57:11 • 2h ago
+
+---
+
 **[Bitcoin&#39;s Most Dangerous Rally is Happening Right Now!](https://www.youtube.com/watch?v=X3V94U_p3WA)**
 
 Bitcoin is rallying out of a major drawdown while funding rates stay flat, shorts get squeezed, and spot demand keeps absorbing ...
 
 📺 Simply Bitcoin
 
-👁️ 49K • 👍 3K • 💬 192 • ⏱️ 20:08 • 1d ago
+👁️ 50K • 👍 3K • 💬 195 • ⏱️ 20:08 • 1d ago
 
 ---
 
@@ -333,7 +343,7 @@ being in bitcoin's top 1% is underrated, and you're likely already there. Borrow
 
 📺 BTC Isla
 
-👁️ 13K • 👍 1K • 💬 202 • ⏱️ 9:00 • 1d ago
+👁️ 13K • 👍 1K • 💬 221 • ⏱️ 9:00 • 1d ago
 
 ---
 
@@ -343,27 +353,7 @@ Mark Moss is an optimist and he makes a compelling case for why Bitcoin holders 
 
 📺 Bitcoin Magazine
 
-👁️ 9K • 👍 351 • 💬 24 • ⏱️ 59:02 • 1d ago
-
----
-
-**[Is Bitcoin About to Reclaim $80,000?](https://www.youtube.com/watch?v=VZVfb3DrCL4)**
-
-Crypto #Bitcoin #CryptoNews #Investing #YahooFinance #Blockchain Apr. 24, 2026 - Crypto is entering a new phase—and ...
-
-📺 Yahoo Finance
-
-👁️ 6K • 👍 295 • 💬 71 • ⏱️ 14:53 • 21h ago
-
----
-
-**[The U.S. Military Is Using Bitcoin… To Protect The Dollar?](https://www.youtube.com/watch?v=ZEFiL5kHASQ)**
-
-Bitcoin is no longer just a speculative asset. Top US military leaders are now framing it as a tool of national power and digital ...
-
-📺 Simply Bitcoin
-
-👁️ 16K • 👍 1K • 💬 92 • ⏱️ 14:54 • 16h ago
+👁️ 9K • 👍 362 • 💬 27 • ⏱️ 59:02 • 1d ago
 
 ---
 
@@ -373,7 +363,27 @@ Let's talk about Bitcoin dominance, altcoins, and monetary policy! Into The Cryp
 
 📺 Benjamin Cowen
 
-👁️ 41K • 👍 2K • 💬 226 • ⏱️ 37:14 • 16h ago
+👁️ 44K • 👍 3K • 💬 242 • ⏱️ 37:14 • 17h ago
+
+---
+
+**[Is Bitcoin About to Reclaim $80,000?](https://www.youtube.com/watch?v=VZVfb3DrCL4)**
+
+Crypto #Bitcoin #CryptoNews #Investing #YahooFinance #Blockchain Apr. 24, 2026 - Crypto is entering a new phase—and ...
+
+📺 Yahoo Finance
+
+👁️ 6K • 👍 307 • 💬 72 • ⏱️ 14:53 • 22h ago
+
+---
+
+**[The U.S. Military Is Using Bitcoin… To Protect The Dollar?](https://www.youtube.com/watch?v=ZEFiL5kHASQ)**
+
+Bitcoin is no longer just a speculative asset. Top US military leaders are now framing it as a tool of national power and digital ...
+
+📺 Simply Bitcoin
+
+👁️ 17K • 👍 1K • 💬 93 • ⏱️ 14:54 • 17h ago
 
 ---
 
@@ -383,7 +393,7 @@ Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro max, and th
 
 📺 Crypto Jebb
 
-👁️ 4K • 👍 238 • 💬 58 • ⏱️ 49:08 • 22h ago
+👁️ 4K • 👍 238 • 💬 58 • ⏱️ 49:08 • 23h ago
 
 ---
 
@@ -393,25 +403,17 @@ Despite the surge in gold prices, Cuban links have taken a hit This client was h
 
 📺 G LUXE JEWELERS
 
-👁️ 26K • 👍 410 • 💬 31 • ⏱️ 1:52 • 1d ago
+👁️ 27K • 👍 419 • 💬 31 • ⏱️ 1:52 • 1d ago
 
 ---
 
-**[Jeffrey Epstein’s connection to Bitcoin](https://www.youtube.com/watch?v=BNAZM6zPCkg)**
+**[Bitcoin Trading: A Textbook Pattern is Forming 💥](https://www.youtube.com/watch?v=WDp4hSUGux4)**
 
-📺 Hasan Minhaj
+Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=AltcoinDaily Grab Tickets to BTC Conference ...
 
-👁️ 219K • 👍 4K • 💬 176 • ⏱️ 1:30 • 22h ago
+📺 Altcoin Daily
 
----
-
-**[Ben McKenzie - Exposing Crypto in “Everyone Is Lying to You for Money” | The Daily Show](https://www.youtube.com/watch?v=N5X23eZSRYQ)**
-
-Ben McKenzie, actor, author, and director of the new documentary “Everyone Is Lying to You for Money,” talks to Michael Kosta ...
-
-📺 The Daily Show
-
-👁️ 126K • 👍 4K • 💬 475 • ⏱️ 12:25 • 1d ago
+👁️ 4K • 👍 141 • 💬 87 • ⏱️ 1:06 • 21h ago
 
 ---
 

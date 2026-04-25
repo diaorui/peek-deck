@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-25T14:13:14.193376+00:00'
+updated: '2026-04-25T15:08:49.185275+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
 - videos
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 25, 2026 at 14:13 UTC  
+**Last Updated:** April 25, 2026 at 15:08 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $279.34B
+**Market Cap:** $279.52B
 Rank #2
 
 **Circulating Supply:** 120,688,915 ETH
@@ -62,7 +62,7 @@ No max supply
 -53.2%
 
 **All-Time Low:** $0.43
-+534681.1%
++534937.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 been spending way too much time looking at the recent string of defi exploits and the amount of supply locked up in the same three lst platforms is honestly giving me anxiety. having that much of the network reliant on a few centralized points of failure makes me paranoid about massive tail risks. every time the market swings i find myself wanting to hedge this exposure, but the options are terrible. you either convert to fiat and trigger taxable events, or you play russian roulette with wrapped assets and multisig bridges that seem to get drained every other week. i went down a rabbit hole last night trying to find a way to secure my yields natively, maybe even hedging with digital gold or something stable, without fragmenting my liquidity across a dozen vulnerable front-ends. what are you guys actually doing to protect your bags long term? are we just stuck choosing between bare validator yields and accepting the centralized lst risk? curious if anyone has found a trust-minimized way to hedge this without leaving the ecosystem.
 
-13m ago
+1h ago
 
 ---
 
@@ -88,7 +88,7 @@ been spending way too much time looking at the recent string of defi exploits an
 
 Aave DAO offers to contribute 25,000 ETH toward DeFi United, a coordinated ecosystem recovery effort to restore the full backing of KelpDAO's rsETH. The coalition, which includes Lido, EtherFi, Ethena, Mantle, and others, aims to cover a ~75,081 ETH residual shortfall.
 
-🔗 [Aave](https://governance.aave.com/t/arfc-rseth-incident-funding-update/24740) • 19h ago
+🔗 [Aave](https://governance.aave.com/t/arfc-rseth-incident-funding-update/24740) • 20h ago
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Been thinking about this after watching how quickly narratives can shift online when a single high-profile account amplifies something. For example, when someone like Elon Musk boosts a topic (whether it’s tech, markets, or even something like Restore Britain), you can see attention move almost instantly. Not necessarily adoption but definitely awareness and discussion. It made me wonder how this fits into Ethereum’s whole “credible neutrality” idea. On paper: Ethereum is decentralised No single actor controls the protocol Consensus is distributed But in practice: Social layers (Twitter/X, Reddit, influencers) still shape what people look at Narratives form off-chain before anything happens onchain Attention itself is still pretty centralised So the question is does Ethereum actually solve the influence problem or just move it up a layer?
 
-23h ago
+1d ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Bitmine Immersion also spent about $10 million when it bought 5,000 ETH from the Ethereum Foundation last month.
 
-The Block • 22h ago
+The Block • 23h ago
 
 ---
 
@@ -178,7 +178,7 @@ Yahoo Finance • 1d ago
 
 **[Bitcoin Price Falls From 11-Week High. Why, Ethereum, XRP, Cryptos Are Dropping.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-iran-54088134)**
 
-Barron's • 1d ago
+Barron's • 2d ago
 
 ---
 
@@ -186,7 +186,7 @@ Barron's • 1d ago
 
 Grayscale staked 102,400 ETH worth $237M via its Ethereum Staking ETF. Ethereum reaching $10,000 by December 31, 2026 at 4% YES.
 
-Crypto Briefing • 9h ago
+Crypto Briefing • 10h ago
 
 ---
 
@@ -194,13 +194,13 @@ Crypto Briefing • 9h ago
 
 Dubai, UAE, April  24, 2026  (GLOBE NEWSWIRE) -- The Ethereum based token Pepeto just confirmed that its latest presale stage cleared out in hours...
 
-markets.businessinsider.com • 21h ago
+markets.businessinsider.com • 22h ago
 
 ---
 
 **[XRP vs Ethereum: Which Digital Giant Will Explode to Make You the Most Money in 2026?](https://www.tipranks.com/news/xrp-vs-ethereum-which-digital-giant-will-explode-to-make-you-the-most-money-in-2026)**
 
-TipRanks • 19h ago
+TipRanks • 20h ago
 
 ---
 
@@ -216,7 +216,7 @@ FXStreet • 1d ago
 
 Ethereum traders just piled $322 million into $3,200 call options and the real reason for the bet isn’t simple hype.
 
-CryptoSlate • 18h ago
+CryptoSlate • 19h ago
 
 ---
 
@@ -224,7 +224,7 @@ CryptoSlate • 18h ago
 
 Start with understanding how the three cryptos differ.
 
-money.com • 18h ago
+money.com • 19h ago
 
 ---
 
@@ -232,33 +232,23 @@ money.com • 18h ago
 
 ## YouTube Videos: "ethereum"
 
+**[ETHEREUM&#39;S BEST INDICATOR IS FLASHING](https://www.youtube.com/watch?v=iZd82wsW2zM)**
+
+Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ Deposit from $100: Get a 1% bonus Join The Trading ...
+
+📺 Tyler Hill Crypto
+
+👁️ 438 • 👍 48 • 💬 34 • ⏱️ 13:36 • 59m ago
+
+---
+
 **[Tom Lee :&quot;Why Ethereum Is Going To $50,000 Per Coin, 1 ETH Will Be Huge! | Eth Price 2026](https://www.youtube.com/watch?v=P131BOKYpf0)**
 
 My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
 📺 Crypto Nutshell
 
-👁️ 14K • 👍 424 • 💬 47 • ⏱️ 23:11 • 1d ago
-
----
-
-**[Ethereum Leading the Next Altcoin Repricing? Charts Say Yes](https://www.youtube.com/watch?v=CAWT4GcMcKE)**
-
-Most people are declaring altcoins dead, but the crypto charts tell a completely different story. In this video, I compare Ethereum's ...
-
-📺 Crypto Capital Venture
-
-👁️ 8K • 👍 533 • 💬 142 • ⏱️ 13:20 • 23h ago
-
----
-
-**[⚠️ Ethereum&#39;s Dark Days](https://www.youtube.com/watch?v=qlSFMBC7YXs)**
-
-Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 2K • 👍 74 • 💬 19 • ⏱️ 8:31 • 1d ago
+👁️ 14K • 👍 431 • 💬 52 • ⏱️ 23:11 • 1d ago
 
 ---
 
@@ -268,7 +258,27 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Library Of Wealth
 
-👁️ 803 • 👍 39 • 💬 160 • ⏱️ 16:26 • 21h ago
+👁️ 830 • 👍 40 • 💬 163 • ⏱️ 16:26 • 22h ago
+
+---
+
+**[⚠️ Ethereum&#39;s Dark Days](https://www.youtube.com/watch?v=qlSFMBC7YXs)**
+
+Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 2K • 👍 75 • 💬 19 • ⏱️ 8:31 • 1d ago
+
+---
+
+**[Ethereum Leading the Next Altcoin Repricing? Charts Say Yes](https://www.youtube.com/watch?v=CAWT4GcMcKE)**
+
+Most people are declaring altcoins dead, but the crypto charts tell a completely different story. In this video, I compare Ethereum's ...
+
+📺 Crypto Capital Venture
+
+👁️ 8K • 👍 539 • 💬 142 • ⏱️ 13:20 • 1d ago
 
 ---
 
@@ -278,7 +288,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 19K • 👍 480 • 💬 49 • ⏱️ 18:59 • 2d ago
+👁️ 19K • 👍 480 • 💬 48 • ⏱️ 18:59 • 2d ago
 
 ---
 
@@ -288,17 +298,7 @@ Ethereum is consolidating just below a descending trend line that has been with 
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 198 • 💬 17 • ⏱️ 10:43 • 14h ago
-
----
-
-**[Bitmine BMNR’s $13 Billion Ethereum Bet Explained (Something Feels Off)](https://www.youtube.com/watch?v=b2vQaU3EeXE)**
-
-Bitmine (BMNR) is quietly building one of the largest Ethereum treasuries in the market — now approaching $13 billion in total ...
-
-📺 BiGB Stcok
-
-👁️ 868 • 👍 41 • 💬 18 • ⏱️ 10:01 • 17h ago
+👁️ 3K • 👍 210 • 💬 18 • ⏱️ 10:43 • 15h ago
 
 ---
 
@@ -308,27 +308,27 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 48 • 👍 12 • ⏱️ 5:57 • 1h ago
+👁️ 283 • 👍 57 • ⏱️ 5:57 • 2h ago
 
 ---
 
-**[$222M Floods Into Bitcoin… While Ethereum Bleeds $75M — What’s Happening?](https://www.youtube.com/watch?v=_7vZ7xLjBkQ)**
+**[Bitmine BMNR’s $13 Billion Ethereum Bet Explained (Something Feels Off)](https://www.youtube.com/watch?v=b2vQaU3EeXE)**
 
-M Floods Into Bitcoin… While Ethereum Bleeds $75M — What's Happening? $2.1 BILLION into Bitcoin ETFs in just 8 days.
+Bitmine (BMNR) is quietly building one of the largest Ethereum treasuries in the market — now approaching $13 billion in total ...
 
-📺 The Wealth Continuum
+📺 BiGB Stcok
 
-👁️ 266 • 👍 27 • 💬 6 • ⏱️ 18:23 • 15h ago
+👁️ 1K • 👍 45 • 💬 18 • ⏱️ 10:01 • 17h ago
 
 ---
 
-**[Ethereum 20% Rally is Confirmed if...](https://www.youtube.com/watch?v=Eu2BioKJhvY)**
+**[BE READY FOR THIS MOVE!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=L7uEUKqPQKM)**
 
-AI ALGO Trading Masterclass   https://youtube.com/live/kXYu-GRsXIU Zero Trading Fees offer US Stocks, Metals, Crude Oil and ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 Investographer
+📺 Cilinix Crypto
 
-👁️ 2K • 👍 108 • 💬 26 • ⏱️ 8:21 • 20h ago
+👁️ 93 • 👍 5 • 💬 2 • ⏱️ 4:34 • 6h ago
 
 ---
 
