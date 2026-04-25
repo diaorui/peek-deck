@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-25T18:04:47.245577+00:00'
+updated: '2026-04-25T19:26:21.823481+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- videos
 - news
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 25, 2026 at 18:04 UTC  
+**Last Updated:** April 25, 2026 at 19:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,350.08
+### $77,306.39
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** +4.9%  
-**30d:** +16.5%  
-**90d:** -12.4%  
+**24h:** -0.5%  
+**7d:** +4.8%  
+**30d:** +16.4%  
+**90d:** -12.5%  
 **1y:** -18.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1549.33B
+**Market Cap:** $1548.51B
 Rank #1
 
-**Circulating Supply:** 20,020,659 BTC
+**Circulating Supply:** 20,020,684 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--38.6%
+-38.7%
 
 **All-Time Low:** $67.81
-+114013.0%
++113961.3%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 The US Treasury froze $344 million in USDT linked to Iran with a single call to Tether. Bitcoin kept processing every Iranian transaction without interruption. That is the whole story.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/us-froze-tether-iran-bitcoin-untouchable/) • 5h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/us-froze-tether-iran-bitcoin-untouchable/) • 6h ago
 
 ---
 
@@ -89,13 +89,29 @@ The US Treasury froze $344 million in USDT linked to Iran with a single call to 
 
 Hi all. I need some explanation on the risk of KYC. I’m sure we’ve all seen the recent kidnappings in France due to governments leaking KYC data showing purchases etc. obviously is exchanges like Coinbase and finance face the same data leaks, it put you at risk for a wrench attack because they have your physical location. My question is, how do the attackers even know you have access to the wallets you withdrew to? Let’s say I purchase 100BTC on Coinbase and withdraw to cold storage. How do the attackers even know I have access to that cold storage wallet? Seems like a gamble? I could’ve also sent it to the wrong address. Also, if I go Coinbase -> Cold storage -> new wallet -> new wallet how would they know? Especially if the public key hasn’t been exposed showing all wallet addresses for the final wallet it resides in
 
-🔗 [coindesk.com](https://www.coindesk.com/business/2026/04/19/inside-the-rise-of-wrench-attacks-against-crypto-holders-and-how-france-has-become-the-focus) • 1h ago
+🔗 [coindesk.com](https://www.coindesk.com/business/2026/04/19/inside-the-rise-of-wrench-attacks-against-crypto-holders-and-how-france-has-become-the-focus) • 2h ago
+
+---
+
+**[Do you archive old wallets](https://www.reddit.com/r/Bitcoin/comments/1svf5fr/do_you_archive_old_wallets/)**
+
+I have private keys from years ago to wallets that I've abandoned. Even though I don't use them and never plan to, I have a fear that I'll accidentally fund an old wallet from something that I forgot about (old exchange, someone tipping me to an old address, who-knows-what). I was imagining some little self-hosted app on my node that checks new blocks against known archived wallets and lets me know if a transaction matches - or for larger amounts, sweeps the funds automatically. I don't have anything like this, so I have copies of private keys and (for more recent wallets) seed phrases backed up in various places. I'm sure that I should be more organized about it, but what's the best way? I could see it getting out of hand easily and taking ages to go through everything on the regular to check balances. I look forward to a discussion on the best way to handle this. What are your ideas/solutions?
+
+3h ago
 
 ---
 
 **[I made a site that explains Bitcoin to your mom in 5 minutes. Your mom gets a printable Bitcoin certificate at the end.](https://www.reddit.com/r/Bitcoin/comments/1suo3qe/i_made_a_site_that_explains_bitcoin_to_your_mom/)**
 
-🔗 [wtfisbtc.lol](https://wtfisbtc.lol/) • 23h ago
+🔗 [wtfisbtc.lol](https://wtfisbtc.lol/) • 1d ago
+
+---
+
+**[Negative funding rates and ton of liquidity in the 80s](https://www.reddit.com/r/Bitcoin/comments/1svjy34/negative_funding_rates_and_ton_of_liquidity_in/)**
+
+Ppl only looking at short term liquidity saying shorts have been liquidated. But have u paid attention to older liquidity building up since March? Goes all the way up to 96k. And there is a ton of it. Pay attention to the sideways consolidation, we have been doing this every weekend and then pumping to the upside. Everyone and their mom is shorting here. That means a very very very strong chance of upside. We’re going into the 80s at the very least. Do not short and get rekt. Dca/buy and hold
+
+54m ago
 
 ---
 
@@ -103,7 +119,7 @@ Hi all. I need some explanation on the risk of KYC. I’m sure we’ve all seen 
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-12h ago
+13h ago
 
 ---
 
@@ -111,7 +127,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 If any of you folks are coming to Vegas for Bitcoin 2026, I've compiled a list (and map) of meetups and side events. These tend to be much more fun and enjoyable than the actual Conference. If you're on mobile, you'll likely need the Google Docs app for working links. I'm hitting Hotstyle Takeover, the Bitcoin Today meetup, the Club Orange meetup, NosVegas, and then hosting Steak 'N Shake 'N Sats and the Vegas Bitcoiners Happy Hour on Wednesday.
 
-🔗 [Google Docs](https://docs.google.com/document/d/1RqlQl4vdKZtReFQpIh0h820Q10khCc6gI56xKW4N1-M) • 12h ago
+🔗 [Google Docs](https://docs.google.com/document/d/1RqlQl4vdKZtReFQpIh0h820Q10khCc6gI56xKW4N1-M) • 13h ago
 
 ---
 
@@ -119,7 +135,7 @@ If any of you folks are coming to Vegas for Bitcoin 2026, I've compiled a list (
 
 I have tremendous trusts on wallets because its math foundation. But today, something happened and I am a little in doubt. Today, when i try to restore my wallet using seed phrase, I accidentally made a mistake, but I ended up restoring another wallet that is not mine. Even though there is no any coin in it, it casts a doubt on wallet’s safety. What if someone who created the wallet has put coins in it? What are the chances that someone else accidentally restore mine? Just genuinely questions from a long time hodler. I hope I get answers that resolve me concerns
 
-18h ago
+19h ago
 
 ---
 
@@ -131,33 +147,65 @@ I have tremendous trusts on wallets because its math foundation. But today, some
 
 ---
 
-**[Do you archive old wallets](https://www.reddit.com/r/Bitcoin/comments/1svf5fr/do_you_archive_old_wallets/)**
-
-I have private keys from years ago to wallets that I've abandoned. Even though I don't use them and never plan to, I have a fear that I'll accidentally fund an old wallet from something that I forgot about (old exchange, someone tipping me to an old address, who-knows-what). I was imagining some little self-hosted app on my node that checks new blocks against known archived wallets and lets me know if a transaction matches - or for larger amounts, sweeps the funds automatically. I don't have anything like this, so I have copies of private keys and (for more recent wallets) seed phrases backed up in various places. I'm sure that I should be more organized about it, but what's the best way? I could see it getting out of hand easily and taking ages to go through everything on the regular to check balances. I look forward to a discussion on the best way to handle this. What are your ideas/solutions?
-
-2h ago
-
----
-
 **[Security during move](https://www.reddit.com/r/Bitcoin/comments/1suscgz/security_during_move/)**
 
 I am about to move for work and I was wondering how were safely transporting seed phrases? I have to move through EU and US customs. I have multiple paper copies, unfortunately now in a single location now due to getting ready for this move. I cannot ship locked cases and high value items need to be reported to the shipper. Because of that I don't feel confident hiding a copy somewhere random in my shipment. I'd also like to move with my Trezors but I think that would heighten awareness? My important bag does have a passphrase but my others do not. Taking any ideas for anyone who's been through something like this. Thanks.
 
-20h ago
-
----
-
-**[I keep hearing this but is it true? Does Bitcoin really have NO intrinsic value?](https://www.reddit.com/r/Bitcoin/comments/1sumyq6/i_keep_hearing_this_but_is_it_true_does_bitcoin/)**
-
-People still say that all the time. “No cash flows. No earnings. No fundamentals.” But then why is it worth $75,000+? In this video I break down what “intrinsic value” actually means and why most people completely misunderstand it. My goal is by the end to help people understand exactly why Bitcoin has value.
-
-🔗 [youtu.be](https://youtu.be/y9humUet5SU) • 1d ago
+22h ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
+
+**[Bitcoin’s $40k bear case would be a historic outlier, data suggests](https://www.coindesk.com/markets/2026/04/25/bitcoin-at-usd40-000-would-be-near-unprecedented-statistical-outcome-analyst-says)**
+
+Mean-reversion models suggest bearish targets imply a 0.4th percentile event, far beyond typical market corrections.
+
+CoinDesk • 4h ago
+
+---
+
+**[Tennessee Becomes Second State to Outlaw Bitcoin, Crypto ATMs](https://decrypt.co/365502/tennessee-second-state-outlaw-bitcoin-crypto-atms)**
+
+Tennessee has become the second U.S. state to outlaw Bitcoin and crypto ATMs, making it a criminal offense to own or operate the machines.
+
+Decrypt • 22h ago
+
+---
+
+**[Bitcoin To Hit $145,000 By End Of 2026, Arthur Hayes Predicts](https://finance.yahoo.com/markets/crypto/articles/bitcoin-hit-145-000-end-173124660.html)**
+
+BitMEX co-founder Arthur Hayes predicts Bitcoin will hit $145,000 by year end as the Federal Reserve quietly expands its balance sheet by $40 billion per month and wartime spending forces commercial banks to print money. The Fed Is Already Printing...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Why investors are flocking to BlackRock’s bitcoin options to hedge against a wild global economy](https://www.coindesk.com/markets/2026/04/25/blackrock-s-bitcoin-etf-just-hit-a-massive-milestone-that-proves-crypto-is-now-a-mainstream-bet)**
+
+IBIT options open interest topped Deribit on Friday, signaling rapid institutional adoption of regulated crypto derivatives in the U.S.
+
+CoinDesk • 53m ago
+
+---
+
+**[What's driving the massive inflows for bitcoin ETFs in 2026](https://finance.yahoo.com/video/whats-driving-massive-inflows-bitcoin-165800586.html)**
+
+Scott Melker, the host of "The Wolf of All Streets" podcast, breaks down the massive inflows going into bitcoin (BTC-USD) ETFs and what it means for the crypto market going forward. "The Daily Wolf with Scott Melker" airs on Yahoo Finance every day at 12:00 p.m. Tune in for your daily dose of all things crypto.Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
+
+Yahoo Finance • 3d ago
+
+---
+
+**['Rally on trial': Bitcoin breakout faces key $80,000 test as whales, ETF investors buy into volatility](https://www.theblock.co/post/398625/rally-trial-analysts-bitcoin-breakout-test-80000-whales-etf-investors-buy-volatility)**
+
+Analysts say bitcoin's rally still faces a stiff test from profit-taking, macro risk and a crowded resistance zone.
+
+The Block • 2d ago
+
+---
 
 **[Researcher breaks 15-bit elliptic curve key in 'largest quantum attack,' wins 1 bitcoin bounty from Project Eleven](https://www.theblock.co/post/398792/researcher-breaks-15-bit-elliptic-curve-key-wins-1-bitcoin-bounty-project-eleven)**
 
@@ -167,71 +215,21 @@ The Block • 1d ago
 
 ---
 
-**[Bitcoin might be at risk from a new quantum math trick that breaks digital ownership](https://www.coindesk.com/tech/2026/04/25/clock-is-ticking-for-bitcoin-to-prevent-quantum-threat-as-it-could-drain-6-9-million-btc-including-satoshi-s)**
-
-Can a network without formal governance coordinate the biggest cryptographic migration in its history?
-
-CoinDesk • 8h ago
-
----
-
-**[Quantum attack breaks crypto key 512x larger than last record. Is Bitcoin ready?](https://finance.yahoo.com/markets/crypto/articles/quantum-attack-breaks-crypto-key-211813708.html)**
-
-Giancarlo Lelli performed the largest known quantum attack on Bitcoin’s encryption model. His feat is a 512-fold jump from the previous record. Bitcoin enthusiasts are scrambling for ideas to deal with the quantum computing threat.
-
-Yahoo Finance • 20h ago
-
----
-
-**[Tennessee Becomes Second State to Outlaw Bitcoin, Crypto ATMs](https://decrypt.co/365502/tennessee-second-state-outlaw-bitcoin-crypto-atms)**
-
-Tennessee has become the second U.S. state to outlaw Bitcoin and crypto ATMs, making it a criminal offense to own or operate the machines.
-
-Decrypt • 21h ago
-
----
-
-**[Bitcoin To Hit 'Investable Low' Around This Time In 2026, Forecasts Seasoned Trader: 'The Next High Will Be Between....'](https://finance.yahoo.com/markets/crypto/articles/bitcoin-hit-investable-low-around-153111471.html)**
-
-Veteran trader and chartist Peter Brandt predicted on Thursday an “investable low” for Bitcoin later in the year, followed by a major cyclical high in 2029. The Story Of Tops And Bottoms Brandt, a technical analyst with nearly 50 years...
-
-Yahoo Finance • 2h ago
-
----
-
-**[Bitcoin’s $40k bear case would be a historic outlier, data suggests](https://www.coindesk.com/markets/2026/04/25/bitcoin-at-usd40-000-would-be-near-unprecedented-statistical-outcome-analyst-says)**
-
-Mean-reversion models suggest bearish targets imply a 0.4th percentile event, far beyond typical market corrections.
-
-CoinDesk • 3h ago
-
----
-
-**[Bitcoin falls after Trump reportedly canceled Steve Witkoff and Jared Kushner's Iran-talks trip](https://www.coindesk.com/markets/2026/04/25/bitcoin-falls-after-trump-reportedly-canceled-steve-witkoff-and-jared-kushner-s-iran-talks-trip)**
-
-Trump is expected to speak at his crypto conference in Palm Beach shortly.
-
-CoinDesk • 1h ago
-
----
-
 **[Bitcoin’s Stealth Rally Has Traders Setting Sights on $80,000](https://www.bloomberg.com/news/articles/2026-04-25/bitcoin-s-stealth-rally-has-traders-setting-sights-on-80-000)**
 
-Bloomberg.com • 5h ago
+Bloomberg.com • 6h ago
+
+---
+
+**[Opinion | A Bitcoin Evangelist Tries to Convert Me](https://www.nytimes.com/2026/04/23/opinion/bitcoin-crypto-anthony-pompliano.html)**
+
+The New York Times • 2d ago
 
 ---
 
 **[Bitcoin Price Outshines Gold Again, Powered By Strategy](https://www.investors.com/news/bitcoin-price-outshines-gold-april-2026-strategy-buying-power-mstr-stock/)**
 
-Investor's Business Daily • 21h ago
-
----
-
-**[Video: Opinion | Do We All Need a Little Bitcoin?](https://www.nytimes.com/video/opinion/100000010848698/do-we-all-need-a-little-bitcoin.html)**
-
-Stability is the single biggest lie in financial markets, the investor and Bitcoin evangelist Anthony Pompliano tells the columnist Ross Douthat on “Interesting Times.” The “volatility generation” is embracing Bitcoin because traditional assets like Treasuries are actually designed to lose money, he argues.
-
-The New York Times • 1d ago
+Investor's Business Daily • 22h ago
 
 ---
 
@@ -281,7 +279,7 @@ Neha Narula
 
 The quantum threat to Bitcoin keeps inching closer, this time thanks to a researcher who broke a simplified cryptographic key.
 
-⬆️ 3 • 💬 3 • 19h ago • [Decrypt](https://decrypt.co/365444/bitcoin-q-day-draws-nearer-quantum-researcher-breaks-simplified-key)
+⬆️ 3 • 💬 3 • 21h ago • [Decrypt](https://decrypt.co/365444/bitcoin-q-day-draws-nearer-quantum-researcher-breaks-simplified-key)
 
 ---
 
@@ -311,7 +309,7 @@ A senior US military commander has lauded Bitcoin as a “valuable computer scie
 
 The quantum threat to Bitcoin keeps inching closer, this time thanks to a researcher who broke a simplified cryptographic key.
 
-⬆️ 5 • 💬 1 • 4h ago • [Decrypt](https://decrypt.co/365444/bitcoin-q-day-draws-nearer-quantum-researcher-breaks-simplified-key)
+⬆️ 5 • 💬 1 • 6h ago • [Decrypt](https://decrypt.co/365444/bitcoin-q-day-draws-nearer-quantum-researcher-breaks-simplified-key)
 
 ---
 
@@ -325,17 +323,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 10K • 👍 997 • ⏱️ 57:11 • 5h ago
-
----
-
-**[Bitcoin&#39;s Most Dangerous Rally is Happening Right Now!](https://www.youtube.com/watch?v=X3V94U_p3WA)**
-
-Bitcoin is rallying out of a major drawdown while funding rates stay flat, shorts get squeezed, and spot demand keeps absorbing ...
-
-📺 Simply Bitcoin
-
-👁️ 51K • 👍 3K • 💬 196 • ⏱️ 20:08 • 1d ago
+👁️ 17K • 👍 1K • 💬 52 • ⏱️ 57:11 • 6h ago
 
 ---
 
@@ -345,17 +333,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRus Extra
 
-👁️ 939 • 👍 117 • 💬 65 • ⏱️ 8:10 • 3h ago
-
----
-
-**[Bitcoin Dominance](https://www.youtube.com/watch?v=VdCMIWRHkTs)**
-
-Let's talk about Bitcoin dominance, altcoins, and monetary policy! Into The Cryptoverse Premium SALE: ...
-
-📺 Benjamin Cowen
-
-👁️ 48K • 👍 3K • 💬 257 • ⏱️ 37:14 • 20h ago
+👁️ 2K • 👍 198 • 💬 98 • ⏱️ 8:10 • 4h ago
 
 ---
 
@@ -365,7 +343,7 @@ Mark Moss is an optimist and he makes a compelling case for why Bitcoin holders 
 
 📺 Bitcoin Magazine
 
-👁️ 10K • 👍 378 • 💬 29 • ⏱️ 59:02 • 1d ago
+👁️ 10K • 👍 389 • 💬 29 • ⏱️ 59:02 • 1d ago
 
 ---
 
@@ -375,17 +353,27 @@ Gareth uses it! Download Rumble Wallet now and enjoy the benefits of financial a
 
 📺 Gareth Soloway
 
-👁️ 14K • 👍 2K • 💬 216 • ⏱️ 10:41 • 4h ago
+👁️ 24K • 👍 2K • 💬 289 • ⏱️ 10:41 • 5h ago
 
 ---
 
-**[Is Bitcoin About to Reclaim $80,000?](https://www.youtube.com/watch?v=VZVfb3DrCL4)**
+**[Bitcoin&#39;s Most Dangerous Rally is Happening Right Now!](https://www.youtube.com/watch?v=X3V94U_p3WA)**
 
-Crypto #Bitcoin #CryptoNews #Investing #YahooFinance #Blockchain Apr. 24, 2026 - Crypto is entering a new phase—and ...
+Bitcoin is rallying out of a major drawdown while funding rates stay flat, shorts get squeezed, and spot demand keeps absorbing ...
 
-📺 Yahoo Finance
+📺 Simply Bitcoin
 
-👁️ 7K • 👍 319 • 💬 74 • ⏱️ 14:53 • 1d ago
+👁️ 51K • 👍 3K • 💬 198 • ⏱️ 20:08 • 1d ago
+
+---
+
+**[Bitcoin Dominance](https://www.youtube.com/watch?v=VdCMIWRHkTs)**
+
+Let's talk about Bitcoin dominance, altcoins, and monetary policy! Into The Cryptoverse Premium SALE: ...
+
+📺 Benjamin Cowen
+
+👁️ 51K • 👍 3K • 💬 265 • ⏱️ 37:14 • 22h ago
 
 ---
 
@@ -395,7 +383,17 @@ Bitcoin is no longer just a speculative asset. Top US military leaders are now f
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 1K • 💬 93 • ⏱️ 14:54 • 20h ago
+👁️ 18K • 👍 1K • 💬 94 • ⏱️ 14:54 • 22h ago
+
+---
+
+**[Is Bitcoin About to Reclaim $80,000?](https://www.youtube.com/watch?v=VZVfb3DrCL4)**
+
+Crypto #Bitcoin #CryptoNews #Investing #YahooFinance #Blockchain Apr. 24, 2026 - Crypto is entering a new phase—and ...
+
+📺 Yahoo Finance
+
+👁️ 7K • 👍 328 • 💬 74 • ⏱️ 14:53 • 1d ago
 
 ---
 
@@ -405,7 +403,7 @@ Despite the surge in gold prices, Cuban links have taken a hit This client was h
 
 📺 G LUXE JEWELERS
 
-👁️ 27K • 👍 426 • 💬 31 • ⏱️ 1:52 • 1d ago
+👁️ 28K • 👍 432 • 💬 31 • ⏱️ 1:52 • 1d ago
 
 ---
 
@@ -415,7 +413,7 @@ Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro max, and th
 
 📺 Crypto Jebb
 
-👁️ 4K • 👍 241 • 💬 58 • ⏱️ 49:08 • 1d ago
+👁️ 4K • 👍 242 • 💬 58 • ⏱️ 49:08 • 1d ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-25T18:04:47.251570+00:00'
+updated: '2026-04-25T19:26:21.828752+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- videos
 - news
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 25, 2026 at 18:04 UTC  
+**Last Updated:** April 25, 2026 at 19:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,315.61
+### $2,312.04
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.4%  
-**7d:** +2.0%  
-**30d:** +15.8%  
-**90d:** -21.2%  
-**1y:** +26.8%  
+**24h:** -0.7%  
+**7d:** +2.2%  
+**30d:** +16.0%  
+**90d:** -21.1%  
+**1y:** +27.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $278.70B
+**Market Cap:** $279.08B
 Rank #2
 
 **Circulating Supply:** 120,688,915 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--53.3%
+-53.2%
 
 **All-Time Low:** $0.43
-+533221.5%
++533985.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 been spending way too much time looking at the recent string of defi exploits and the amount of supply locked up in the same three lst platforms is honestly giving me anxiety. having that much of the network reliant on a few centralized points of failure makes me paranoid about massive tail risks. every time the market swings i find myself wanting to hedge this exposure, but the options are terrible. you either convert to fiat and trigger taxable events, or you play russian roulette with wrapped assets and multisig bridges that seem to get drained every other week. i went down a rabbit hole last night trying to find a way to secure my yields natively, maybe even hedging with digital gold or something stable, without fragmenting my liquidity across a dozen vulnerable front-ends. what are you guys actually doing to protect your bags long term? are we just stuck choosing between bare validator yields and accepting the centralized lst risk? curious if anyone has found a trust-minimized way to hedge this without leaving the ecosystem.
 
-4h ago
+5h ago
 
 ---
 
@@ -88,7 +88,7 @@ been spending way too much time looking at the recent string of defi exploits an
 
 Aave DAO offers to contribute 25,000 ETH toward DeFi United, a coordinated ecosystem recovery effort to restore the full backing of KelpDAO's rsETH. The coalition, which includes Lido, EtherFi, Ethena, Mantle, and others, aims to cover a ~75,081 ETH residual shortfall.
 
-🔗 [Aave](https://governance.aave.com/t/arfc-rseth-incident-funding-update/24740) • 23h ago
+🔗 [Aave](https://governance.aave.com/t/arfc-rseth-incident-funding-update/24740) • 1d ago
 
 ---
 
@@ -128,7 +128,7 @@ Justin Sun invested $45 million into World Liberty Financial. They froze his wal
 
 In the last few months MyEtherWallets been quietly rolling out updates to their products bringin tokenized stocks on Ethereum to the foreground. I think its very interesting timing for Ethereum in general with all the DEFI drama. This feels like crypto might be growing up a bit, and certainly exposing worldwide users to tokenized stocks on Ethereum has to be a bullish signal. Especially if it for srs investors in a buy and hold mentality and not some yolo on whateverCoin. Just did a tweet this morning about doing a bunch of free tokenized stocks on Ethereum and I am super here for it. Heres the tweet: https://x.com/myetherwallet/status/2047343412941377789?s=20
 
-1d ago
+2d ago
 
 ---
 
@@ -160,11 +160,11 @@ The Block • 1d ago
 
 ---
 
-**[Is Owning Just Bitcoin and Ethereum Enough for a Crypto Portfolio?](https://www.fool.com/investing/2026/04/23/is-owning-just-bitcoin-and-ethereum-enough-for-a-c/)**
+**[Bullish Ripple (XRP) Signals, Ethereum (ETH) Price Predictions, and More: Bits Recap, April 24](https://cryptopotato.com/bullish-ripple-xrp-signals-ethereum-eth-price-predictions-and-more-bits-recap-april-24/)**
 
-Simple portfolios can often outperform overly complicated ones.
+Here's what's new and catching attention around XRP, ETH, and DOGE.
 
-The Motley Fool • 2d ago
+CryptoPotato • 20h ago
 
 ---
 
@@ -173,6 +173,14 @@ The Motley Fool • 2d ago
 BitMine has staked over 70% of its Ethereum holdings. Tom Lee says Ethereum may be nearing the end of a “mini crypto winter." Broader bullish ...
 
 Yahoo Finance • 1d ago
+
+---
+
+**[1 Cryptocurrency to Buy Before It Goes Parabolic and Overtakes Ethereum's Market Cap](https://www.fool.com/investing/2026/04/22/1-cryptocurrency-to-buy-before-it-goes-parabolic/)**
+
+A growing company is expanding the utility of one of the most popular blockchains.
+
+The Motley Fool • 2d ago
 
 ---
 
@@ -186,21 +194,29 @@ Barron's • 2d ago
 
 Grayscale staked 102,400 ETH worth $237M via its Ethereum Staking ETF. Ethereum reaching $10,000 by December 31, 2026 at 4% YES.
 
-Crypto Briefing • 13h ago
+Crypto Briefing • 14h ago
 
 ---
 
 **[XRP vs Ethereum: Which Digital Giant Will Explode to Make You the Most Money in 2026?](https://www.tipranks.com/news/xrp-vs-ethereum-which-digital-giant-will-explode-to-make-you-the-most-money-in-2026)**
 
-TipRanks • 23h ago
+TipRanks • 1d ago
 
 ---
 
-**[Crypto News: Ethereum Based Crypto Pepeto Project Update Amid Bitcoin Price Prediction Targeting $125,000 Soon](https://markets.businessinsider.com/news/stocks/crypto-news-ethereum-based-crypto-pepeto-project-update-amid-bitcoin-price-prediction-targeting-125-000-soon-1036061521)**
+**[A Beginner’s Guide to Owning Bitcoin, Ethereum and Solana](https://money.com/how-to-invest-in-bitcoin-ethereum-solana/)**
 
-Dubai, UAE, April  24, 2026  (GLOBE NEWSWIRE) -- Crypto news this week centers on Pepeto after the project opened a fresh presale stage because th...
+Start with understanding how the three cryptos differ.
 
-markets.businessinsider.com • 21h ago
+money.com • 23h ago
+
+---
+
+**[Kevin O'Leary Says 'Just Own Bitcoin And Ethereum' As Altcoins 'Never Came Back'](https://www.benzinga.com/crypto/cryptocurrency/26/04/52001824/kevin-oleary-says-just-own-bitcoin-and-ethereum-as-altcoins-never-came-back)**
+
+Shark Tank star Kevin O&#8217;Leary said investors only need to own Bitcoin (CRYPTO: BTC) and Ethereum
+
+Benzinga • 2d ago
 
 ---
 
@@ -212,43 +228,17 @@ FXStreet • 1d ago
 
 ---
 
-**[Ethereum’s 4 consecutive weeks of price rallies fuel bullish bets of $3200](https://cryptoslate.com/ethereums-4-consecutive-week-rallies-fuel-bullish-bets-of-3200/)**
-
-Ethereum traders just piled $322 million into $3,200 call options and the real reason for the bet isn’t simple hype.
-
-CryptoSlate • 21h ago
-
----
-
-**[A Beginner’s Guide to Owning Bitcoin, Ethereum and Solana](https://money.com/how-to-invest-in-bitcoin-ethereum-solana/)**
-
-Start with understanding how the three cryptos differ.
-
-money.com • 22h ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
 
-**[ETHEREUM&#39;S BEST INDICATOR IS FLASHING](https://www.youtube.com/watch?v=iZd82wsW2zM)**
+**[ETHEREUM HOLDERS, THE SIGNAL IS FLASHING AGAIN (LAST TIME WE PUMPED FAST)](https://www.youtube.com/watch?v=iZd82wsW2zM)**
 
 Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ Deposit from $100: Get a 1% bonus Join The Trading ...
 
 📺 Tyler Hill Crypto
 
-👁️ 970 • 👍 89 • 💬 115 • ⏱️ 13:36 • 3h ago
-
----
-
-**[Tom Lee: Ethereum&#39;s &#39;Surprise of the Year&#39; Just Started (2026 ETH Prediction](https://www.youtube.com/watch?v=iE8700MrZQY)**
-
-"UNBELIEVABLE! Ethereum's About to Pull the Surprise of the Year": Tom Lee | (New Prediction 2026) Something is wrong with ...
-
-📺 Library Of Wealth
-
-👁️ 830 • 👍 40 • 💬 163 • ⏱️ 16:26 • 1d ago
+👁️ 2K • 👍 125 • 💬 115 • ⏱️ 13:36 • 5h ago
 
 ---
 
@@ -258,17 +248,27 @@ THEY ARE PREDICTING - $500K BITCOIN, $40K ETHEREUM, AND $50 XRP BY THIS DATE! GE
 
 📺 Austin Hilton
 
-👁️ 427 • 👍 75 • 💬 3 • ⏱️ 9:47 • 1h ago
+👁️ 2K • 👍 251 • 💬 15 • ⏱️ 9:47 • 2h ago
 
 ---
 
-**[Tom Lee :&quot;Why Ethereum Is Going To $50,000 Per Coin, 1 ETH Will Be Huge! | Eth Price 2026](https://www.youtube.com/watch?v=P131BOKYpf0)**
+**[Tom Lee: Ethereum&#39;s &#39;Surprise of the Year&#39; Just Started (2026 ETH Prediction](https://www.youtube.com/watch?v=iE8700MrZQY)**
 
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+"UNBELIEVABLE! Ethereum's About to Pull the Surprise of the Year": Tom Lee | (New Prediction 2026) Something is wrong with ...
 
-📺 Crypto Nutshell
+📺 Library Of Wealth
 
-👁️ 15K • 👍 441 • 💬 53 • ⏱️ 23:11 • 2d ago
+👁️ 883 • 👍 41 • 💬 163 • ⏱️ 16:26 • 1d ago
+
+---
+
+**[BITCOIN TRADERS ARE MAKING THE SAME MISTAKE!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=fDMBp4nJ_7E)**
+
+BITCOIN TRADERS ARE MAKING THE SAME MISTAKE!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
+
+📺 Crypto World
+
+👁️ 1K • 👍 141 • 💬 70 • ⏱️ 19:39 • 2h ago
 
 ---
 
@@ -278,7 +278,17 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 3K • 👍 76 • 💬 19 • ⏱️ 8:31 • 1d ago
+👁️ 3K • 👍 78 • 💬 19 • ⏱️ 8:31 • 1d ago
+
+---
+
+**[Tom Lee :&quot;Why Ethereum Is Going To $50,000 Per Coin, 1 ETH Will Be Huge! | Eth Price 2026](https://www.youtube.com/watch?v=P131BOKYpf0)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 15K • 👍 446 • 💬 53 • ⏱️ 23:11 • 2d ago
 
 ---
 
@@ -288,7 +298,17 @@ Most people are declaring altcoins dead, but the crypto charts tell a completely
 
 📺 Crypto Capital Venture
 
-👁️ 9K • 👍 546 • 💬 143 • ⏱️ 13:20 • 1d ago
+👁️ 9K • 👍 548 • 💬 144 • ⏱️ 13:20 • 1d ago
+
+---
+
+**[Ethereum Price Prediction: How High Can Ethereum Go in This Bull Market?](https://www.youtube.com/watch?v=_q3y8BaT5uc)**
+
+Ethereum has quietly become one of the most watched assets in this bull market cycle — and for good reason. In this video, we ...
+
+📺 Sir Luis
+
+👁️ 21 • 👍 2 • 💬 4 • ⏱️ 11:42 • 3h ago
 
 ---
 
@@ -298,37 +318,17 @@ Ethereum is consolidating just below a descending trend line that has been with 
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 215 • 💬 18 • ⏱️ 10:43 • 18h ago
+👁️ 3K • 👍 218 • 💬 20 • ⏱️ 10:43 • 19h ago
 
 ---
 
-**[BE READY FOR THIS MOVE!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=L7uEUKqPQKM)**
+**[Ethereum ETH Price Prediction: Next Target $3300?](https://www.youtube.com/watch?v=gL0HPFpl2mg)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+Ethereum breaks previous support, targeting upside resistance at $2235-$2602. A decisive break above $2600 is key for further ...
 
-📺 Cilinix Crypto
+📺 CryptoMeownalysis
 
-👁️ 104 • 👍 6 • 💬 2 • ⏱️ 4:34 • 9h ago
-
----
-
-**[Bitmine BMNR’s $13 Billion Ethereum Bet Explained (Something Feels Off)](https://www.youtube.com/watch?v=b2vQaU3EeXE)**
-
-Bitmine (BMNR) is quietly building one of the largest Ethereum treasuries in the market — now approaching $13 billion in total ...
-
-📺 BiGB Stcok
-
-👁️ 1K • 👍 47 • 💬 18 • ⏱️ 10:01 • 20h ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=zEiXbIuO__A)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Crypto Gyan
-
-👁️ 462 • 👍 71 • ⏱️ 5:57 • 5h ago
+👁️ 10 • 👍 1 • ⏱️ 1:11 • 5h ago
 
 ---
 

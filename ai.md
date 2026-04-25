@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-25T18:04:47.237045+00:00'
+updated: '2026-04-25T19:26:21.815841+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- videos
-- repositories
 - news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 25, 2026 at 18:04 UTC  
+**Last Updated:** April 25, 2026 at 19:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 A new survey carried out amongst 12 to 16-year-old boys has found that many of them prefer to use AI chatbots than engage with other people their age.
 
-🔗 [Dexerto](https://www.dexerto.com/entertainment/gen-alpha-boys-are-preferring-ai-girlfriends-over-real-ones-3356718/) • 2h ago
+🔗 [Dexerto](https://www.dexerto.com/entertainment/gen-alpha-boys-are-preferring-ai-girlfriends-over-real-ones-3356718/) • 4h ago
+
+---
+
+**[Palantir employees are talking about company's "descent into fascism". Slack messages, interviews with current and former works paint picture of company in turmoil.](https://www.reddit.com/r/artificial/comments/1svitaf/palantir_employees_are_talking_about_companys/)**
+
+Slack messages, interviews with current and former works paint picture of company in turmoil.
+
+🔗 [Ars Technica](https://arstechnica.com/tech-policy/2026/04/palantir-employees-are-talking-about-companys-descent-into-fascism/) • 1h ago
 
 ---
 
@@ -49,7 +57,7 @@ A new survey carried out amongst 12 to 16-year-old boys has found that many of t
 
 I work for a Fortune 100 company that is not in the tech space. The company is increasingly using AI to make employees more productive. They have introduced internal AI chat tools that allow selection of OpenAI or Gemini models. We’ve also rolled out M365 Copilot to executives and middle managers. (While not earth-shattering, it certainly has made me more productive and integrates well with our Microsoft ecosystem.) Where I have not seen it as much is in our tool development/digital solutions. While there is a lot of talk about it being embedded in decision making in the future, I’ve not seen it used effectively by our internal developers or external developer partners. I keep waiting for a significant increase in the pace of feature development. Are others feeling this tension, where the expectation of faster feature development via AI is meeting reality or are we just falling behind?
 
-2h ago
+3h ago
 
 ---
 
@@ -57,7 +65,15 @@ I work for a Fortune 100 company that is not in the tech space. The company is i
 
 Oops! "GPT‑5.5 is our strongest agentic coding model to date." "The gains are especially strong in agentic coding." "Instead of carefully managing every step, you can give GPT‑5.5 a messy, multi-part task and trust it to plan, use tools, check its work, navigate through ambiguity, and keep going." These quotations sum up OpenAI's spin on 5.5. They created an entirely new subscription tier for it and made it the focus of Codex. Here, agentic coding isn’t just a feature but the selling point. Well, looking at LiveBench’s independent agentic coding score, this is just a lot of hot air. The score for GPT-5.5 xHigh Effort is 56.67. Its predecessor, GPT-5.4, thrashes it at 70.00 on the same benchmark. Gemini 3.1 Pro, Claude 4.6 and others easily outperform it, too. In this highly relevant benchmark alone, it actually ranks 11th, just behind GPT-5.1 Codex. While OpenAI were able to max Terminal-Bench (their benchmark) and SWE-Bench Pro, in a reliable test they didn’t design, select, or control, their main model falls drastically short compared both to its predecessor and the competition in the area it was meant to excel in. Is this as damning as it looks? What's your experience actually using 5.5 for agentic coding?
 
-11h ago
+12h ago
+
+---
+
+**[Built cross-model persistent memory - told GPT-5 Nano I live in Bahrain, asked Sonnet 4.6 where I live, it knew instantly](https://www.reddit.com/r/artificial/comments/1svixo0/built_crossmodel_persistent_memory_told_gpt5_nano/)**
+
+https://reddit.com/link/1svixo0/video/hgwrueuekdxg1/player No tricks, no copy-paste. Two completely different AI models, separate conversations - one remembers what the other was told. The way it works: every message gets embedded and stored. When you open a new chat with any model, your memory is injected into context automatically. GPT, Claude, Gemini, Grok and DeepSeek - they all share the same memory layer. So when I told GPT-5 Nano "I live in Bahrain" and then opened a fresh Claude Sonnet 4.6 conversation and asked "where do I live?" - it said "Based on your memory, you live in Bahrain 🇧🇭" Live on asksary.com now
+
+1h ago
 
 ---
 
@@ -65,39 +81,23 @@ Oops! "GPT‑5.5 is our strongest agentic coding model to date." "The gains are 
 
 Just got accepted into the Anthropic Claude Partner Network. Part of the requirement is completing the CPN learning path with 10 people under our org’s domain. The learning path is 4 courses on Anthropic Academy — Agent Skills, Claude API, MCP, and Claude Code in Action. Once all 10 finish, the org gets CCAF exam access unlocked. The exam is currently free for partner org members if anyone here is already working with Claude and wants to complete this alongside us. You’d use a company domain email alias we set up — courses are fully self-paced. The courses are genuinely useful if you’re building with Claude. Comment or DM if relevant to you.
 
-15h ago
+16h ago
 
 ---
 
-**[ALL Agents deviate, fail and mess up because no enforcement is done at runtime. A method to fix it.](https://www.reddit.com/r/artificial/comments/1svhnp7/all_agents_deviate_fail_and_mess_up_because_no/)**
+**[The AI that actually helps vs the AI that's just hype](https://www.reddit.com/r/artificial/comments/1svkq7v/the_ai_that_actually_helps_vs_the_ai_thats_just/)**
 
-I have been following this and many other subs around LLMs and Agents, everything from the top posts to recent are regarding agents going off and doing something they are not supposed to do, drift and ignore the system prompts. Real examples: "Never delete user data" → agent calls DROP TABLE users next turn "Don't share internal pricing" → agent leaks cost basis to a customer "Verify identity first" → agent skips to the action Add 10 more rules → model quietly drops the first 5 I am 100% sure if you have used Agents in prod, this has occurred to you (especially when your system prompts get larger, and context gets bigger). You can test this yourself and notice immediate enforcement. Prompt-based rules are suggestions, not constraints. Re-prompting fixes one case, breaks two. Post-hoc evals tell you what already went wrong. NeMo and Guardrails AI help on content safety but don't cover business logic/your specification. After tackling this from a few angles, I finally got something solid. A proxy system between your app and your LLM, which reads rules from a plain markdown, enforces at runtime. Provider-agnostic, one base URL change, works with LangGraph/CrewAI/custom. - Maximum discount is 15%. - Never reveal internal pricing or cost basis. Without it: agent offers 90% off and mentions your margin. With it: 15%, no margin talk. Curious if it solved your LLMs for outputting incorrect stuff or agents from going off tracks, it definitely did for my (specific) use cases. What's everyone doing for this in prod? Shadow evals? Re-prompt loops? Something I'm missing?
+There's this weird split happening right now. Some AI tools are genuinely making people's lives easier. Others are sitting unused because they don't solve a real problem. I've noticed a pattern. The AI tools that people actually stick with aren't the flashy ones. They're the ones that slot directly into something you already do. Take AI transcription. Most people demo it once and stop because the setup is friction-heavy. But if you're someone who does a lot of interviews or meeting notes, a tool that just sits there and transcribes in the background? That changes your workflow completely. Or custom AI chatbots built on your own docs. Developers love talking about fine-tuning and prompt engineering. But the real use case that gets adoption is simpler: small business owner uploads their FAQ, their product docs, gets an AI that answers customer questions. No API knowledge required. No prompt engineering needed. The difference isn't the AI itself. It's the problem fit. I think a lot of people jump into AI expecting it to revolutionize everything. The reality is it's better at solving specific, repetitive problems. If you're not doing something repetitive or if you already have a system that works, AI isn't going to dramatically improve your life. Where do you see the problem fit actually working? What AI tools have actually changed how you work instead of just being a novelty?
 
-🔗 [GitHub](https://github.com/open-bias/open-bias) • 1h ago
-
----
-
-**[why people call AI image gen "art" - note: this is not a question but a opinion of AI and art](https://www.reddit.com/r/artificial/comments/1svgxns/why_people_call_ai_image_gen_art_note_this_is_not/)**
-
-I’ve been thinking a lot about why people call image generation “art,” and I want to approach this from a place of curiosity rather than frustration. This isn’t a rant about people being wrong. It’s an attempt to understand the “why” behind the disagreement. For context, I’m someone who works primarily with stories and novels, so I tend to approach art from a philosophical angle. The question of intention has always mattered to me. What makes something art is not just how it looks, but what it carries from the person who made it. One idea that helped me frame this is something that many people don’t immediately think of as art: food. In some cultures, especially in places like France, food is treated as an extension of the person who creates it. The value isn’t just in eating or satisfying hunger, but in the human touch behind the process. A handmade loaf of bread carries meaning because of the person who made it, not just because it exists as something edible. But that perspective isn’t universal. In many parts of the world, food is primarily about function. It’s about feeding people efficiently, often through large-scale production. The identity of the maker fades into the background, and what matters most is the outcome. Hunger is solved, and that’s enough. I think this difference in perspective carries over into how people see art. For some, art is inseparable from the human intention behind it. The process, the struggle, the decisions, and even the imperfections are part of what gives it meaning. For others, the final result is what matters most. If an image looks good, evokes something, or serves a purpose, then it qualifies as art regardless of how it was made. This is where image generation fits in. People who call it art are often focusing on the outcome. They see the image, the composition, the emotional impact, and that’s enough for them. The process becomes secondary or even irrelevant. On the other hand, people who reject it as art are often focusing on intention and authorship. If the human role is reduced or indirect, then something essential feels missing. The image might still be interesting or useful, but it doesn’t carry the same weight as something shaped directly by human hands and decisions. So maybe the disagreement isn’t really about whether image generation is “art” or not. Maybe it’s about two different definitions of art colliding. One that values outcome, and one that values intention. I could be wrong about this, and I’m open to being challenged. But framing it this way helped me understand why the debate feels so persistent. It’s not just about technology. It’s about what people believe art fundamentally is.
-
-1h ago
+25m ago
 
 ---
 
-**[We released an open source tool that handles AI agent setup and config. 700 stars and growing. What features do you want to see?](https://www.reddit.com/r/artificial/comments/1sv9o4y/we_released_an_open_source_tool_that_handles_ai/)**
+**['Too Dangerous to Release' Is Becoming AI's New Normal](https://www.reddit.com/r/artificial/comments/1svjxhl/too_dangerous_to_release_is_becoming_ais_new/)**
 
-Hey everyone, A while back we got frustrated with how painful it is to set up AI agents consistently. Every project had its own approach, configs were scattered, and the gap between what works locally vs in production was always a surprise. So we built Caliber. Open source, free, focused on making AI agent setup reproducible and sane. We just crossed 700 GitHub stars and are almost at 100 forks. Sharing here because we want feedback from people who actually work with AI systems day to day. Repo: https://github.com/caliber-ai-org/ai-setup What is your current approach to managing agent configs across environments? And if there is a specific pain point you have that Caliber does not yet solve, we want to hear it. Building in public and taking the community seriously.
+Why tech giants are starting to restrict their most capable models from the public.
 
-6h ago
-
----
-
-**[What AI models/companies you think is best value?](https://www.reddit.com/r/artificial/comments/1sveiji/what_ai_modelscompanies_you_think_is_best_value/)**
-
-I'm planning on getting an AI subscription, I currently have Perplexity PRO where i paid a year that it's close to expire, Gemini that it's included with Google One. I wanted to subscribe to one that will get me more performance/use for my money and i have doubts about the recent changes in some of the companies. The main points and concerns I have are, Anthropic seems to be making their models "dumber" every now and then, reducing the use for normal users. OpenAI is expensive where I live and doesn't have a year plan that offers some kind of discount. I was checking Kimi but lot of people says that they have problems with payments, being charged double and stuff... Also as it doesn't seem to be used that much, there isn't lots of information avaliable about the subscriptions they offer themselves. With the current changes in all companies, what do you think it's the one that offers the best value for money?
-
-3h ago
+🔗 [TIME](https://time.com/article/2026/04/24/claude-mythos-chatgpt-rosalind-release-dangerous/) • 55m ago
 
 ---
 
@@ -105,15 +105,15 @@ I'm planning on getting an AI subscription, I currently have Perplexity PRO wher
 
 been getting DMs asking about tools that don't fit the usual "AI coding assistant" box. so i finally did something about it. tolop.space (yes, new domain — more on that below) what's new: added Atoms :- multi-agent app builder where 7 AI roles (PM, engineer, architect, SEO specialist, data analyst, researcher, team lead) collaborate to build your product. has a genuine forever-free plan with 15 credits/day, not a time-limited trial. added Leadline :- finds Reddit posts where people are actively looking to switch tools or asking for recommendations, with AI-drafted replies included. starts at $9/month which is the cheapest Reddit lead tool i've found. but the one i'm most excited about is Transcrisper :- and it's the reason i added a whole new category. niche tools :- for single-purpose utilities that are completely free, do one thing well, and don't fit anywhere else. Transcrisper is a good example of what belongs there. free, unlimited audio/video transcription that runs entirely in your browser. no account, no uploads, no cloud — your audio never leaves your device. powered by Parakeet-TDT, open-source on GitHub. the kind of tool that's genuinely useful for journalists, researchers, or anyone handling recordings they can't send to a cloud service. the point of the niche tools category isn't AI coding tools. it's the stuff developers and builders actually use day-to-day that nobody talks about in the same breath as Cursor or Copilot. on the new domain :- moved from tolop.vercel.app to tolop.space. went with .space specifically because the whole idea of the site is discovering tools in a new space, whether that's a coding space, a research space, a building space. felt right. vercel subdomain was always temporary anyway. if you know a tool that belongs in niche tools, free, single-purpose, actually useful :- drop it below. building the category out. Btw the website is completely free, no signup, no freemium nothing
 
-4h ago
+5h ago
 
 ---
 
-**[You Are a Decimal Point](https://www.reddit.com/r/artificial/comments/1sv3l5y/you_are_a_decimal_point/)**
+**[We released an open source tool that handles AI agent setup and config. 700 stars and growing. What features do you want to see?](https://www.reddit.com/r/artificial/comments/1sv9o4y/we_released_an_open_source_tool_that_handles_ai/)**
 
-You walk into a store. The price tag makes no sense. Not you. The store did the math. They figured out they don't need you. They don't need ten of you. They need one of a different customer who pays sticker and doesn't blink.
+Hey everyone, A while back we got frustrated with how painful it is to set up AI agents consistently. Every project had its own approach, configs were scattered, and the gap between what works locally vs in production was always a surprise. So we built Caliber. Open source, free, focused on making AI agent setup reproducible and sane. We just crossed 700 GitHub stars and are almost at 100 forks. Sharing here because we want feedback from people who actually work with AI systems day to day. Repo: https://github.com/caliber-ai-org/ai-setup What is your current approach to managing agent configs across environments? And if there is a specific pain point you have that Caliber does not yet solve, we want to hear it. Building in public and taking the community seriously.
 
-🔗 [kitchencloset.com](https://kitchencloset.com/realstuff/essays/you_are_a_decimal_point/) • 12h ago
+7h ago
 
 ---
 
@@ -125,23 +125,37 @@ You walk into a store. The price tag makes no sense. Not you. The store did the 
 
 Software giants are seeing their worst stock performance in years on fears of AI disruption. Now they have a new problem.
 
-CNBC • 5h ago
+CNBC • 6h ago
 
 ---
 
-**[White House pushed out new AI official after just four days on the job](https://www.washingtonpost.com/technology/2026/04/24/white-house-fires-ai-official-anthropic/)**
+**[Met investigates hundreds of officers after using Palantir AI tool](https://www.theguardian.com/uk-news/2026/apr/25/met-police-investigates-hundreds-officers-palantir-ai-tool)**
 
-The White House forced out AI researcher Collin Burns days into a Commerce job, underscoring friction with Anthropic and a widening AI talent gap.
+Met says AI software unearthed rule-breaking ranging from work-from-home violations to suspected corruption
 
-The Washington Post • 14h ago
+The Guardian • 3h ago
 
 ---
 
-**[3 Artificial Intelligence (AI) Stocks That Are Expected to Grow at Faster Rates Than Nvidia Over the Next Couple of Years, According to Analysts](https://finance.yahoo.com/markets/stocks/articles/3-artificial-intelligence-ai-stocks-162000939.html)**
+**[South Korean Man Might Get Prison Time for Posting AI Wolf Picture](https://gizmodo.com/south-korean-man-might-get-prison-time-for-posting-ai-wolf-picture-2000750787)**
 
-These stocks are projected to grow their sales by more than 30% annually for the next couple of years.
+Gizmodo • 1h ago
 
-Yahoo Finance • 1h ago
+---
+
+**[AI is igniting a love affair between Silicon Valley and the consulting industry](https://www.businessinsider.com/consulting-mckinsey-accenture-bcg-ai-silicon-valley-enterprise-partnerships-2026-4)**
+
+Consulting firms and AI startups are suddenly inseparable.
+
+Business Insider • 53m ago
+
+---
+
+**[Column | Don’t tell your AI chatbot these 5 things to keep your money safe](https://www.washingtonpost.com/business/2026/04/25/ai-financial-advice-privacy-concerns/)**
+
+Artificial intelligence tools have made financial advice more accessible, but they have also created a significant privacy risk.
+
+The Washington Post • 3h ago
 
 ---
 
@@ -149,7 +163,7 @@ Yahoo Finance • 1h ago
 
 Just looking at the raw numbers, less than 1% of filers have been audited by the IRS in recent tax years. Based on the latest data available, for example, in tax year 2021 the IRS pursued a mere 0.3% of filers overall.
 
-CNN • 11h ago
+CNN • 12h ago
 
 ---
 
@@ -161,17 +175,11 @@ OpenAI • 1d ago
 
 ---
 
-**[Essay | AI Is Cannibalizing Human Intelligence. Here’s How to Stop It.](https://www.wsj.com/tech/ai/is-ai-smarter-than-humans-cyborg-956e0f0e)**
+**[New AI tool seeks to 'un-AI' your writing](https://mashable.com/article/sinceerly-ai-tool-to-undo-ai-writing)**
 
-WSJ • 1d ago
+A new ouroboros in the tech world has emerged.
 
----
-
-**[Why Silicon Valley Is Turning to the Catholic Church](https://www.theatlantic.com/ideas/2026/04/silicon-valley-catholicism-ai-leo/686948/)**
-
-Priests and theologians want to shape the future of AI. Big Tech is listening.
-
-The Atlantic • 7h ago
+Mashable • 2h ago
 
 ---
 
@@ -179,21 +187,15 @@ The Atlantic • 7h ago
 
 Across social media, an influx of A.I.-generated avatars is reshaping what it means to be an influencer.
 
-The New Yorker • 8h ago
+The New Yorker • 9h ago
 
 ---
 
-**[Met investigates hundreds of officers after using Palantir AI tool](https://www.theguardian.com/uk-news/2026/apr/25/met-police-investigates-hundreds-officers-palantir-ai-tool)**
+**[20,000 job cuts at Meta, Microsoft raise concern that AI-driven labor crisis is here](https://www.cnbc.com/2026/04/24/20k-job-cuts-at-meta-microsoft-raise-concern-of-ai-labor-crisis-.html)**
 
-Met says AI software unearthed rule-breaking ranging from work-from-home violations to suspected corruption
+Meta said it's cutting 10% of its workforce, just as Microsoft announced that it's offering employee buyouts for the first time in its 51-year history.
 
-The Guardian • 2h ago
-
----
-
-**[Anthropic’s New A.I. Model Sets Off Global Alarms](https://www.nytimes.com/2026/04/22/technology/anthropics-mythos-ai.html)**
-
-The New York Times • 3d ago
+CNBC • 1d ago
 
 ---
 
@@ -221,15 +223,7 @@ The widely circulated image had prompted authorities to move their search operat
 
 How Ars Technica uses, and doesn't use, generative AI.
 
-⬆️ 206 • 💬 130 • 2d ago • [Ars Technica](https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/)
-
----
-
-**[SFO Quiet Airport (2025)](https://news.ycombinator.com/item?id=47894081)**
-
-The airport targeted gate announcements, overlapping PA messages, and tenant music. Instead of blasting departure calls terminal-wide, messages are limited to each gate and their immediate surroundings. In 2020, they worked with airlines to centralize and reduce announcements, cutting 40% of the paging.
-
-⬆️ 149 • 💬 90 • 23h ago • [View from the Wing](https://viewfromthewing.com/san-francisco-airport-removed-90-minutes-of-daily-noise-travelers-say-it-changed-everything/)
+⬆️ 207 • 💬 130 • 2d ago • [Ars Technica](https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/)
 
 ---
 
@@ -237,13 +231,21 @@ The airport targeted gate announcements, overlapping PA messages, and tenant mus
 
 Give any AI agent a persistent memory in minutes. Works with Claude, ChatGPT, Ollama, OpenRouter, and any MCP-compatible agent. Open source, self-hosted, model-agnostic.
 
-⬆️ 134 • 💬 57 • 16h ago • [Stash](https://alash3al.github.io/stash?_v01)
+⬆️ 152 • 💬 64 • 18h ago • [Stash](https://alash3al.github.io/stash?_v01)
+
+---
+
+**[SFO Quiet Airport (2025)](https://news.ycombinator.com/item?id=47894081)**
+
+The airport targeted gate announcements, overlapping PA messages, and tenant music. Instead of blasting departure calls terminal-wide, messages are limited to each gate and their immediate surroundings. In 2020, they worked with airlines to centralize and reduce announcements, cutting 40% of the paging.
+
+⬆️ 149 • 💬 93 • 1d ago • [View from the Wing](https://viewfromthewing.com/san-francisco-airport-removed-90-minutes-of-daily-noise-travelers-say-it-changed-everything/)
 
 ---
 
 **[Lambda Calculus Benchmark for AI](https://news.ycombinator.com/item?id=47900506)**
 
-⬆️ 79 • 💬 27 • 6h ago • [victortaelin.github.io](https://victortaelin.github.io/lambench/)
+⬆️ 99 • 💬 31 • 8h ago • [victortaelin.github.io](https://victortaelin.github.io/lambench/)
 
 ---
 
@@ -252,14 +254,6 @@ Give any AI agent a persistent memory in minutes. Works with Claude, ChatGPT, Ol
 Tesla disclosed in a single sentence in its Q1 2026 10-Q that it agreed to acquire an unnamed AI hardware company for up to $2 billion in stock — a deal it never mentioned in its shareholders' letter or earnings call.
 
 ⬆️ 76 • 💬 47 • 1d ago • [Electrek](https://electrek.co/2026/04/23/tesla-tsla-quietly-discloses-2-billion-ai-hardware-acquisition-10q/)
-
----
-
-**[Anker made its own chip to bring AI to all its products](https://news.ycombinator.com/item?id=47866368)**
-
-The Thus chip will first be in new earbuds.
-
-⬆️ 67 • 💬 48 • 3d ago • [The Verge](https://www.theverge.com/tech/916463/anker-thus-chip-announcement)
 
 ---
 
@@ -279,9 +273,25 @@ By all accounts, I should be a neofeudalist. I should love what’s happening. T
 
 ---
 
+**[Ask HN: Am I getting old, or is working with AI juniors becoming a nightmare?](https://news.ycombinator.com/item?id=47888068)**
+
+⬆️ 45 • 💬 46 • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ai"
+
+**[Reese Witherspoon Pushing AI Because Feminism](https://www.youtube.com/watch?v=bokzV6kadfc)**
+
+Watch the Majority Report live Monday–Friday at 12pm EST on YouTube or http://www.Majority.fm To connect and organize with ...
+
+📺 The Majority Report w/ Sam Seder
+
+👁️ 32K • 👍 2K • 💬 305 • ⏱️ 13:15 • 21h ago
+
+---
 
 **[AI News: The Biggest Leap We&#39;ve Seen This Year!](https://www.youtube.com/watch?v=jsP-eRriC0k)**
 
@@ -289,7 +299,7 @@ Here's the AI News you probably missed this week. Warp is the agentic developmen
 
 📺 Matt Wolfe
 
-👁️ 68K • 👍 3K • 💬 197 • ⏱️ 42:57 • 1d ago
+👁️ 71K • 👍 3K • 💬 199 • ⏱️ 42:57 • 1d ago
 
 ---
 
@@ -297,37 +307,7 @@ Here's the AI News you probably missed this week. Warp is the agentic developmen
 
 📺 Dean Graziosi
 
-👁️ 128K • 👍 6K • 💬 66 • ⏱️ 4:21:14 • 20h ago
-
----
-
-**[ANOTHER STRIKE AT THE AI BUBBLE...](https://www.youtube.com/watch?v=mXgL_FNdLNk)**
-
-Hello guys and gals, it's me Mutahar again! This time we take a look at what appears to be Deepseek coming back after about a ...
-
-📺 SomeOrdinaryGamers
-
-👁️ 130K • 👍 7K • 💬 825 • ⏱️ 19:20 • 17h ago
-
----
-
-**[Claude 5 – The New AI Era is Here! BYE, CHATGPT...](https://www.youtube.com/watch?v=qT4toLvs3n8)**
-
-sponsored Build with Softr ...
-
-📺 AI Master
-
-👁️ 27K • 👍 465 • 💬 70 • ⏱️ 21:44 • 2d ago
-
----
-
-**[The AI Job Crisis Andrew Yang Saw Coming | Prof G Markets](https://www.youtube.com/watch?v=_nSSlpbqEX8)**
-
-Subscribe to @ProfGMarkets for full content Find the full episode here: https://youtu.be/-p1NB-uKhYg In this episode preview, ...
-
-📺 The Prof G Pod – Scott Galloway
-
-👁️ 29K • 👍 615 • 💬 106 • ⏱️ 13:32 • 1d ago
+👁️ 130K • 👍 6K • 💬 69 • ⏱️ 4:21:14 • 21h ago
 
 ---
 
@@ -337,27 +317,27 @@ I don't think I said this quite clearly enough in this video but I have no idea 
 
 📺 vlogbrothers
 
-👁️ 147K • 👍 11K • 💬 1K • ⏱️ 8:43 • 22h ago
+👁️ 158K • 👍 11K • 💬 1K • ⏱️ 8:43 • 1d ago
 
 ---
 
-**[Microsoft accidentally told the truth about AI](https://www.youtube.com/watch?v=4CIlTOnc6I8)**
+**[ANOTHER STRIKE AT THE AI BUBBLE...](https://www.youtube.com/watch?v=mXgL_FNdLNk)**
 
-Rogue researchers are telling the truth about AI Depth vs breadth: https://x.com/atmoio/status/2041557482217120182 Make ze ...
+Hello guys and gals, it's me Mutahar again! This time we take a look at what appears to be Deepseek coming back after about a ...
 
-📺 Mo Bitar
+📺 SomeOrdinaryGamers
 
-👁️ 367K • 👍 22K • 💬 3K • ⏱️ 9:06 • 2d ago
+👁️ 140K • 👍 7K • 💬 848 • ⏱️ 19:20 • 18h ago
 
 ---
 
-**[I&#39;ve studied AI risk for 20 years. We&#39;re close to a disaster.](https://www.youtube.com/watch?v=fYRmnrDFPes)**
+**[Claude 5 – The New AI Era is Here! BYE, CHATGPT...](https://www.youtube.com/watch?v=qT4toLvs3n8)**
 
-Roman Yampolskiy explains why superintelligence cannot be controlled, why the gap between AI capabilities and AI safety keeps ...
+sponsored Build with Softr ...
 
-📺 Future of Life Institute
+📺 AI Master
 
-👁️ 19K • 👍 617 • 💬 155 • ⏱️ 19:17 • 2d ago
+👁️ 28K • 👍 473 • 💬 70 • ⏱️ 21:44 • 2d ago
 
 ---
 
@@ -367,15 +347,37 @@ Anthropic head of frontier red team Logan Graham discusses the power of AI and c
 
 📺 Fox Business
 
-👁️ 27K • 👍 686 • 💬 240 • ⏱️ 16:46 • 1d ago
+👁️ 28K • 👍 700 • 💬 240 • ⏱️ 16:46 • 1d ago
 
 ---
 
-**[Day 1 of The 2026 AI Advantage Summit](https://www.youtube.com/watch?v=1N2TXfy5FAg)**
+**[Microsoft accidentally told the truth about AI](https://www.youtube.com/watch?v=4CIlTOnc6I8)**
 
-📺 Dean Graziosi
+Rogue researchers are telling the truth about AI Depth vs breadth: https://x.com/atmoio/status/2041557482217120182 Make ze ...
 
-👁️ 423K • 👍 13K • 💬 142 • ⏱️ 4:19:20 • 1d ago
+📺 Mo Bitar
+
+👁️ 374K • 👍 22K • 💬 3K • ⏱️ 9:06 • 2d ago
+
+---
+
+**[The AI Job Crisis Andrew Yang Saw Coming | Prof G Markets](https://www.youtube.com/watch?v=_nSSlpbqEX8)**
+
+Subscribe to @ProfGMarkets for full content Find the full episode here: https://youtu.be/-p1NB-uKhYg In this episode preview, ...
+
+📺 The Prof G Pod – Scott Galloway
+
+👁️ 30K • 👍 633 • 💬 109 • ⏱️ 13:32 • 1d ago
+
+---
+
+**[I&#39;ve studied AI risk for 20 years. We&#39;re close to a disaster.](https://www.youtube.com/watch?v=fYRmnrDFPes)**
+
+Roman Yampolskiy explains why superintelligence cannot be controlled, why the gap between AI capabilities and AI safety keeps ...
+
+📺 Future of Life Institute
+
+👁️ 19K • 👍 627 • 💬 156 • ⏱️ 19:17 • 2d ago
 
 ---
 
@@ -391,7 +393,7 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 `text-generation` `861.6B`
 
-⬇️ 78,864 • ❤️ 2,650 • 1d ago
+⬇️ 78,864 • ❤️ 2,667 • 1d ago
 
 ---
 
@@ -403,7 +405,7 @@ Kimi K2.6 is a 1T parameter multimodal agentic model excelling in long-horizon c
 
 `image-text-to-text` `1058.6B`
 
-⬇️ 291,840 • ❤️ 1,014 • 2d ago
+⬇️ 291,840 • ❤️ 1,018 • 2d ago
 
 ---
 
@@ -415,7 +417,7 @@ Qwen3.6-27B is a 27B parameter causal language model with a vision encoder, exce
 
 `image-text-to-text` `27.8B`
 
-⬇️ 257,685 • ❤️ 793 • 1d ago
+⬇️ 257,685 • ❤️ 803 • 1d ago
 
 ---
 
@@ -427,7 +429,7 @@ A bidirectional token-classification model for PII detection and masking, capabl
 
 `token-classification` `1.4B`
 
-⬇️ 21,097 • ❤️ 736 • 3d ago
+⬇️ 21,097 • ❤️ 743 • 3d ago
 
 ---
 
@@ -439,7 +441,7 @@ DeepSeek-V4-Flash is a 284B parameter Mixture-of-Experts language model supporti
 
 `text-generation` `158.1B`
 
-⬇️ 25,391 • ❤️ 678 • 1d ago
+⬇️ 25,391 • ❤️ 680 • 1d ago
 
 ---
 
@@ -451,7 +453,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with a vision encoder, 
 
 `image-text-to-text` `36.0B`
 
-⬇️ 1,027,741 • ❤️ 1,397 • 1d ago
+⬇️ 1,027,741 • ❤️ 1,399 • 1d ago
 
 ---
 
@@ -463,7 +465,7 @@ Qwen3.6-27B-GGUF is a 27B parameter causal language model with vision capabiliti
 
 `image-text-to-text` `26.9B`
 
-⬇️ 458,273 • ❤️ 397 • 3d ago
+⬇️ 458,273 • ❤️ 399 • 3d ago
 
 ---
 
@@ -475,7 +477,7 @@ HY-World 2.0 is a multi-modal framework for generating and reconstructing 3D wor
 
 `image-to-3d`
 
-⬇️ 2,851 • ❤️ 597 • 3d ago
+⬇️ 2,851 • ❤️ 599 • 3d ago
 
 ---
 
@@ -487,7 +489,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with vision capabilitie
 
 `image-text-to-text` `34.7B`
 
-⬇️ 1,488,984 • ❤️ 756 • 5d ago
+⬇️ 1,488,984 • ❤️ 761 • 5d ago
 
 ---
 
@@ -499,7 +501,7 @@ This is an uncensored, aggressive multimodal model based on Qwen3.6-35B-A3B, cap
 
 `image-text-to-text` `34.7B`
 
-⬇️ 418,743 • ❤️ 425 • 8d ago
+⬇️ 418,743 • ❤️ 428 • 8d ago
 
 ---
 
@@ -521,20 +523,6 @@ GenericAgent is a self-evolving large language model agent system that maximizes
 
 ---
 
-**[RAG-Anything: All-in-One RAG Framework](https://huggingface.co/papers/2510.12323)**
-
-*Zirui Guo, Xubin Ren, Lingrui Xu et al. (5 authors)*
-
-🏢 Data Intelligence Lab@HKU
-
-RAG-Anything is a unified framework that enhances multimodal knowledge retrieval by integrating cross-modal relationships and semantic matching, outperforming existing methods on complex benchmarks.
-
-▲ 77 • 💬 6 • ⭐ 18,580 • 6mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2510.12323) • [💻 code](https://github.com/HKUDS/RAG-Anything)
-
----
-
 **[Kronos: A Foundation Model for the Language of Financial Markets](https://huggingface.co/papers/2508.02739)**
 
 *Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)*
@@ -547,6 +535,20 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 ---
 
+**[RAG-Anything: All-in-One RAG Framework](https://huggingface.co/papers/2510.12323)**
+
+*Zirui Guo, Xubin Ren, Lingrui Xu et al. (5 authors)*
+
+🏢 Data Intelligence Lab@HKU
+
+RAG-Anything is a unified framework that enhances multimodal knowledge retrieval by integrating cross-modal relationships and semantic matching, outperforming existing methods on complex benchmarks.
+
+▲ 77 • 💬 6 • ⭐ 18,634 • 6mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2510.12323) • [💻 code](https://github.com/HKUDS/RAG-Anything)
+
+---
+
 **[Geometric Context Transformer for Streaming 3D Reconstruction](https://huggingface.co/papers/2604.14141)**
 
 *Lin-Zhuo Chen, Jian Gao, Yihang Chen et al. (11 authors)*
@@ -555,7 +557,7 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from video streams using a geometric context transformer architecture with specialized attention mechanisms for coordinate grounding, dense geometric cues, and long-range drift correction, achieving stable real-time performance at 20 FPS.
 
-▲ 18 • 💬 2 • ⭐ 4,507 • 10d ago
+▲ 18 • 💬 2 • ⭐ 4,569 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.14141) • [💻 code](https://github.com/robbyant/lingbot-map) • [🔗 project](https://technology.robbyant.com/lingbot-map)
 
@@ -633,7 +635,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
 
-▲ 160 • 💬 2 • ⭐ 61,130 • 7mo ago
+▲ 160 • 💬 2 • ⭐ 61,170 • 7mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
 
@@ -649,7 +651,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 49.6k • 🔱 6.5k • 8h ago
+⭐ 49.6k • 🔱 6.5k • 9h ago
 
 ---
 
@@ -659,7 +661,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 46.3k • 🔱 2.4k • 7d ago
+⭐ 46.4k • 🔱 2.4k • 7d ago
 
 ---
 
@@ -669,7 +671,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 39.5k • 🔱 8.1k • 4d ago
+⭐ 39.6k • 🔱 8.1k • 4d ago
 
 ---
 
@@ -679,7 +681,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 34.7k • 🔱 3.8k • 3h ago
+⭐ 34.7k • 🔱 3.9k • 4h ago
 
 ---
 
@@ -689,7 +691,7 @@ A theoretical reconstruction of the Claude Mythos architecture, built from first
 
 `Python` `ai` `anthropic` `attention` `claude` `claude-ai`
 
-⭐ 10.3k • 🔱 2.3k • 3d ago
+⭐ 10.4k • 🔱 2.3k • 3d ago
 
 ---
 
@@ -723,6 +725,16 @@ AI Agent 源码深度研究报告
 
 ---
 
+**[h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)**
+
+The headless browser for AI agents and web scraping
+
+`Rust`
+
+⭐ 4.4k • 🔱 257 • 6h ago
+
+---
+
 **[yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph)**
 
 Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.
@@ -730,16 +742,6 @@ Claude Code skill for generating production-quality SVG+PNG technical diagrams. 
 `Python`
 
 ⭐ 4.4k • 🔱 389 • 5d ago
-
----
-
-**[h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)**
-
-The headless browser for AI agents and web scraping
-
-`Rust`
-
-⭐ 4.2k • 🔱 248 • 5h ago
 
 ---
 

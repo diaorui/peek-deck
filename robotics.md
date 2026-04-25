@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-25T18:04:47.254760+00:00'
+updated: '2026-04-25T19:26:21.831592+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 25, 2026 at 18:04 UTC  
+**Last Updated:** April 25, 2026 at 19:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[A smarter approach on autonomous exploration](https://www.reddit.com/r/robotics/comments/1sv7le7/a_smarter_approach_on_autonomous_exploration/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -42,13 +42,21 @@ Robotics research and industry news
 
 From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2047765371734704574
 
-9h ago
+10h ago
 
 ---
 
 **[Thought-controlled robotic arm by Neuralink aimed at restoring independence for paralyzed patients](https://www.reddit.com/r/robotics/comments/1svh8t5/thoughtcontrolled_robotic_arm_by_neuralink_aimed/)**
 
-1h ago
+2h ago
+
+---
+
+**[How to Train AI Models for Robotic Arms (SO-101 Tutorial & ACT Training)](https://www.reddit.com/r/robotics/comments/1svif1q/how_to_train_ai_models_for_robotic_arms_so101/)**
+
+For beginners wanting to get started with the SO-101 arm, I found that there are a lot of hurdles to jump through. From the current documentation, while a great resource for those with intermediate knowledge of robotics, isn't a great resource for beginners as it requires knowledge of git, terminal commands, assembly, wiring, and much more in the robotic world. So I made a 2.5h course that walks beginners through how to train your won ACT model with the SO-101 arm. Understandably, the official LeRobot documentation can't step users through every step/debug step possible, as that would make things far too long for experienced users wanting to get in, who their target audience is I imagine. That said, the ACT model is such a useful training model for beginners to understand/comprehend and use, that I wanted to create an easier on-boarding path for beginners getting started. Would love to hear your thoughts.
+
+🔗 [youtu.be](https://youtu.be/p6YIkDhPNyo) • 1h ago
 
 ---
 
@@ -56,7 +64,7 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2047765371734704574
 
 Been building this ai desktop robot cat lately and tbh the visual feedback is everything. we’re using a 410×502 hd retina screen, and the real-device visual effect is honestly very impressive. pictures really don't do it justice. getting the voice to match the mouth was a nightmare tho. we use an algorithm to extract lip-sync phonemes and align them with the audio, and we also apply optimization methods to make the mouth transitions look natural. it runs on an esp32 rn but we are working on a linux version. kinda just wanted a companion on my desk while i code that actually feels alive, not just a static screen. i usually keep it right below my monitor. having it handle my quick queries or just react to me talking in the room makes a huge difference. watching it react in real time is pretty wild.
 
-14h ago
+16h ago
 
 ---
 
@@ -80,7 +88,7 @@ Hi r/robotics, We’re the team from Hertzinno, and we develop industrial acoust
 
 Hi All, I am currently working on so101 and am familiar with data collection, training, eval following the lerobot recipes. I wanted to go further and learn better about how to do the same in simulation and use that as a starting point for doing RL from IM. Are there any good guides? Anyone done this before? I understand this might not be a standard path especially with sim-real gap. However wanted to go down this path to better understand the concepts and learn (plus AI tools recommended it)
 
-13h ago
+14h ago
 
 ---
 
@@ -96,31 +104,23 @@ Hi All, I am currently working on so101 and am familiar with data collection, tr
 
 ---
 
-**[How useful has Claude Code been for you?](https://www.reddit.com/r/robotics/comments/1suelxj/how_useful_has_claude_code_been_for_you/)**
-
-Hey everyone, I've been building autonomous drones with a monocular camera and have been trying to make good use out of Claude Code for my software development. I noticed that while it's great at writing the boilerplate of my ROS2 nodes, the second I get into runtime messaging, Claude has no idea when one message will publish compared to another. Similarly, when I'm doing any work regarding transforms, Claude seems to have no idea about the robots actual position in a world, and it ends up simply guessing what the right transform is. I get a little frustrated by it because I look at web development and see how much Claude has increased the speed of development there. Some of the super AI-first people are letting their agents run overnight. I feel like if I tried that right now, it would just destroy my repository, since I have to hold Claude's hand at every stage. I'm using ROS2 Jazzy and PX4. Anyone else seeing similar problems? If so, how are you currently getting around it?
-
-1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
-**[Pudu Robotics raises nearly $150M as it targets industrial applications](https://www.therobotreport.com/pudu-robotics-raises-nearly-150m-targets-industrial-applications/)**
+**['Self-aware' robots can learn complex tasks by watching humans. Is that a good thing?](https://www.npr.org/2026/04/24/nx-s1-5797863/self-aware-robots-future-laundry-work-home)**
 
-Pudu plans to use the funding to develop its embodied AI, grow its product portfolio, and expand in global markets beyond service robots.
+Scientists say they've made a key breakthrough that would allow robots to figure out complex tasks on their own — but experts say it raises questions about how much risk comes with letting robots be in charge of their own learning.
 
-The Robot Report • 1d ago
+NPR • 1d ago
 
 ---
 
-**[A Spark Capital VC says the AI boom is creating a new kind of gig worker](https://www.businessinsider.com/spark-capital-vc-nabeel-hyatt-robotics-reshaping-gig-economy-2026-4)**
+**[New e-skin gives robotic hand sense of touch in breakthrough test](https://interestingengineering.com/ai-robotics/flexible-electronics-electronic-skin-soft-robots-turku-study)**
 
-Spark Capital VC Nabeel Hyatt explains why AI needs human data and shares how robotics could reshape jobs and the future of gig work
+Researchers develop flexible, stretchable electronic skin and soft robots inspired by nature at University of Turku.
 
-Business Insider • 2d ago
+Interesting Engineering • 1d ago
 
 ---
 
@@ -132,27 +132,19 @@ IEEE Spectrum • 2d ago
 
 ---
 
-**['Self-aware' robots can learn complex tasks by watching humans. Is that a good thing?](https://www.npr.org/2026/04/24/nx-s1-5797863/self-aware-robots-future-laundry-work-home)**
+**[How I taught myself to code, quit my consulting job, and started an AI robotics firm by age 25](https://www.businessinsider.com/consultant-turned-ai-robotics-founder-career-lessons-bcg-remy-2026-4)**
 
-Scientists say they've made a key breakthrough that would allow robots to figure out complex tasks on their own — but experts say it raises questions about how much risk comes with letting robots be in charge of their own learning.
+Oscar Brisset, 25, used most of his vacation days to learn to code. He left BCG to launch a YC-backed AI robotics company.
 
-NPR • 1d ago
-
----
-
-**[Melody: Humanoid robot masters 39 degrees of freedom to achieve lifelike presence](https://interestingengineering.com/ai-robotics/humanoid-robot-achieve-lifelike-presence)**
-
-Melody is an M-Series humanoid, a masterpiece of "human-centric" engineering from Realbotix, a Canada-based humanoid robot manufacturer.
-
-Interesting Engineering • 1d ago
+Business Insider • 12h ago
 
 ---
 
-**[Southwest Detroit robotics team heads to world championship in Houston](https://www.yahoo.com/news/articles/southwest-detroit-robotics-team-heads-140045971.html)**
+**[AI robots are learning to do simple human tasks at a factory in Massachusetts](https://www.cbsnews.com/boston/news/ai-robots-tutor-intelligence-watertown/)**
 
-More than 20 students from Southwest Detroit are preparing to compete on the global stage after qualifying for the 2026 FIRST Robotics World Championship in Houston, Texas.
+Tutor Intelligence in Watertown is a kind of kindergarten for robots.
 
-Yahoo • 4h ago
+CBS News • 21h ago
 
 ---
 
@@ -164,11 +156,11 @@ Fox Business • 2d ago
 
 ---
 
-**[AI robots are learning to do simple human tasks at a factory in Massachusetts](https://www.cbsnews.com/boston/news/ai-robots-tutor-intelligence-watertown/)**
+**[Southwest Detroit robotics team heads to world championship in Houston](https://www.yahoo.com/news/articles/southwest-detroit-robotics-team-heads-140045971.html)**
 
-Tutor Intelligence in Watertown is a kind of kindergarten for robots.
+More than 20 students from Southwest Detroit are preparing to compete on the global stage after qualifying for the 2026 FIRST Robotics World Championship in Houston, Texas.
 
-CBS News • 20h ago
+Yahoo • 5h ago
 
 ---
 
@@ -184,11 +176,17 @@ Democracy Now! • 1d ago
 
 ---
 
+**[Physical AI: Where Artificial Intelligence Rubber Meets The Road](https://www.investors.com/news/physical-ai-jensen-huang-nvidia-artificial-intelligence-robotics/)**
+
+Investor's Business Daily • 1d ago
+
+---
+
 **[IDF Unveils AI-Powered Robotic Warfare System, Breakthrough Artillery Against Hezbollah](https://www.algemeiner.com/2026/04/24/idf-unveils-ai-powered-robotic-warfare-system-breakthrough-artillery-against-hezbollah/)**
 
 Smoke rises from a village in southern Lebanon as the Israeli army operates in it as seen from the Israeli …
 
-Algemeiner.com • 21h ago
+Algemeiner.com • 22h ago
 
 ---
 
@@ -202,17 +200,7 @@ What is the best robot vacuum in 2026? After testing over 200 robot vacuums with
 
 📺 Just A Dad Approved
 
-👁️ 1K • 👍 112 • 💬 21 • ⏱️ 13:40 • 6h ago
-
----
-
-**[NEW Shoggoth Robot Is Bizarre... NEW Stretch Attack Ability Is Wild | War Robots](https://www.youtube.com/watch?v=cvzlozoeJ5o)**
-
-New Spider Shoggoth Robot. This is so weird. We got a new robot on the test server and it has a brand new ability. 2 Medium 2 ...
-
-📺 PREDATOR WR
-
-👁️ 8K • 👍 404 • 💬 118 • ⏱️ 15:36 • 6h ago
+👁️ 2K • 👍 147 • 💬 31 • ⏱️ 13:40 • 7h ago
 
 ---
 
@@ -222,17 +210,7 @@ AGIBOT just rolled out a full new wave of humanoid robots and AI models built fo
 
 📺 AI Revolution
 
-👁️ 36K • 👍 830 • 💬 66 • ⏱️ 16:29 • 4d ago
-
----
-
-**[Chinese humanoid robots outrun humans in half-marathon, setting records](https://www.youtube.com/watch?v=k5_Tlgvt-c8)**
-
-Over a hundred Chinese-made humanoid robots participated in a half-marathon race in Beijing on Sunday. The second inaugural ...
-
-📺 Global News
-
-👁️ 211K • 👍 2K • 💬 140 • ⏱️ 0:46 • 5d ago
+👁️ 36K • 👍 832 • 💬 66 • ⏱️ 16:29 • 4d ago
 
 ---
 
@@ -242,17 +220,17 @@ In Beijing, a humanoid robot just completed a 21-kilometer half-marathon in an a
 
 📺 Capital Markets AI
 
-👁️ 36K • 👍 664 • 💬 154 • ⏱️ 8:58 • 6d ago
+👁️ 36K • 👍 668 • 💬 154 • ⏱️ 8:58 • 6d ago
 
 ---
 
-**[This robot can beat you at table tennis](https://www.youtube.com/watch?v=EH8kZDc7OLk)**
+**[NEW Shoggoth Robot Is Bizarre... NEW Stretch Attack Ability Is Wild | War Robots](https://www.youtube.com/watch?v=cvzlozoeJ5o)**
 
-For the first time, an AI-powered machine has bested elite-level athletes at a physical sport. 'Ace' is a table tennis-playing robot.
+New Spider Shoggoth Robot. This is so weird. We got a new robot on the test server and it has a brand new ability. 2 Medium 2 ...
 
-📺 nature video
+📺 PREDATOR WR
 
-👁️ 106K • 👍 2K • 💬 212 • ⏱️ 13:38 • 3d ago
+👁️ 12K • 👍 473 • 💬 149 • ⏱️ 15:36 • 7h ago
 
 ---
 
@@ -266,33 +244,53 @@ An Elon Musk robotic dog was seen wandering around San Francisco, bumping into s
 
 ---
 
+**[China&#39;s Robotics Innovation Is Moving Faster Than Anyone Realizes](https://www.youtube.com/watch?v=qB0SsWTEBlU)**
+
+I thought this would be just another robot demo... I was wrong.At this launch event, X Square Robot introduced a new kind of home ...
+
+📺 Barrett
+
+👁️ 9K • 👍 593 • 💬 16 • ⏱️ 5:43 • 2d ago
+
+---
+
+**[Chinese humanoid robots outrun humans in half-marathon, setting records](https://www.youtube.com/watch?v=k5_Tlgvt-c8)**
+
+Over a hundred Chinese-made humanoid robots participated in a half-marathon race in Beijing on Sunday. The second inaugural ...
+
+📺 Global News
+
+👁️ 211K • 👍 2K • 💬 140 • ⏱️ 0:46 • 5d ago
+
+---
+
+**[This robot can beat you at table tennis](https://www.youtube.com/watch?v=EH8kZDc7OLk)**
+
+For the first time, an AI-powered machine has bested elite-level athletes at a physical sport. 'Ace' is a table tennis-playing robot.
+
+📺 nature video
+
+👁️ 107K • 👍 2K • 💬 215 • ⏱️ 13:38 • 3d ago
+
+---
+
+**[Humanoid robots race past humans in Beijing half-marathon](https://www.youtube.com/watch?v=oLdVcsttB_A)**
+
+Dozens of Chinese-made humanoid robots showed off their fast-improving athleticism as they whizzed past human runners in a ...
+
+📺 Guardian News
+
+👁️ 95K • 👍 252 • 💬 105 • ⏱️ 0:37 • 6d ago
+
+---
+
 **[Chinese humanoid robot beats world record for fastest human half-marathon | ABC NEWS](https://www.youtube.com/watch?v=tcfAm3hNQbk)**
 
 A humanoid robot has beaten the human record for the world's fastest half-marathon by finishing in just over 50 minutes. Dozens ...
 
 📺 ABC News (Australia)
 
-👁️ 104K • 👍 652 • ⏱️ 6:44 • 5d ago
-
----
-
-**[Table-tennis-playing robot makes history by beating elite human players](https://www.youtube.com/watch?v=7UKiNNxPkAU)**
-
-Ace, a ping-pong-playing robot, is the first to beat elite human players in a competitive sport, according to Sony AI. It's a big ...
-
-📺 NBC News
-
-👁️ 24K • 👍 378 • 💬 94 • ⏱️ 4:14 • 18h ago
-
----
-
-**[🤖 No repeat win, still stole the show—TienKung Ultra ate this race. #humanoidrobot #ai #robotics](https://www.youtube.com/watch?v=LPK7x5WV9Ss)**
-
-TienKung Ultra finished the full 21.0975 km in 1:15:00 — fully autonomous, zero human intervention. No repeat win this time.
-
-📺 XRoboHub
-
-👁️ 2.4M • 👍 20K • 💬 2K • ⏱️ 0:39 • 6d ago
+👁️ 105K • 👍 653 • ⏱️ 6:44 • 5d ago
 
 ---
 
