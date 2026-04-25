@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-25T17:09:52.836548+00:00'
+updated: '2026-04-25T18:04:47.251570+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 25, 2026 at 17:09 UTC  
+**Last Updated:** April 25, 2026 at 18:04 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 been spending way too much time looking at the recent string of defi exploits and the amount of supply locked up in the same three lst platforms is honestly giving me anxiety. having that much of the network reliant on a few centralized points of failure makes me paranoid about massive tail risks. every time the market swings i find myself wanting to hedge this exposure, but the options are terrible. you either convert to fiat and trigger taxable events, or you play russian roulette with wrapped assets and multisig bridges that seem to get drained every other week. i went down a rabbit hole last night trying to find a way to secure my yields natively, maybe even hedging with digital gold or something stable, without fragmenting my liquidity across a dozen vulnerable front-ends. what are you guys actually doing to protect your bags long term? are we just stuck choosing between bare validator yields and accepting the centralized lst risk? curious if anyone has found a trust-minimized way to hedge this without leaving the ecosystem.
 
-3h ago
+4h ago
 
 ---
 
@@ -88,7 +88,7 @@ been spending way too much time looking at the recent string of defi exploits an
 
 Aave DAO offers to contribute 25,000 ETH toward DeFi United, a coordinated ecosystem recovery effort to restore the full backing of KelpDAO's rsETH. The coalition, which includes Lido, EtherFi, Ethena, Mantle, and others, aims to cover a ~75,081 ETH residual shortfall.
 
-🔗 [Aave](https://governance.aave.com/t/arfc-rseth-incident-funding-update/24740) • 22h ago
+🔗 [Aave](https://governance.aave.com/t/arfc-rseth-incident-funding-update/24740) • 23h ago
 
 ---
 
@@ -186,13 +186,13 @@ Barron's • 2d ago
 
 Grayscale staked 102,400 ETH worth $237M via its Ethereum Staking ETF. Ethereum reaching $10,000 by December 31, 2026 at 4% YES.
 
-Crypto Briefing • 12h ago
+Crypto Briefing • 13h ago
 
 ---
 
 **[XRP vs Ethereum: Which Digital Giant Will Explode to Make You the Most Money in 2026?](https://www.tipranks.com/news/xrp-vs-ethereum-which-digital-giant-will-explode-to-make-you-the-most-money-in-2026)**
 
-TipRanks • 22h ago
+TipRanks • 23h ago
 
 ---
 
@@ -200,7 +200,7 @@ TipRanks • 22h ago
 
 Dubai, UAE, April  24, 2026  (GLOBE NEWSWIRE) -- Crypto news this week centers on Pepeto after the project opened a fresh presale stage because th...
 
-markets.businessinsider.com • 20h ago
+markets.businessinsider.com • 21h ago
 
 ---
 
@@ -224,7 +224,7 @@ CryptoSlate • 21h ago
 
 Start with understanding how the three cryptos differ.
 
-money.com • 21h ago
+money.com • 22h ago
 
 ---
 
@@ -258,7 +258,7 @@ THEY ARE PREDICTING - $500K BITCOIN, $40K ETHEREUM, AND $50 XRP BY THIS DATE! GE
 
 📺 Austin Hilton
 
-👁️ 427 • 👍 75 • 💬 3 • ⏱️ 9:47 • 20m ago
+👁️ 427 • 👍 75 • 💬 3 • ⏱️ 9:47 • 1h ago
 
 ---
 
@@ -298,7 +298,7 @@ Ethereum is consolidating just below a descending trend line that has been with 
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 215 • 💬 18 • ⏱️ 10:43 • 17h ago
+👁️ 3K • 👍 215 • 💬 18 • ⏱️ 10:43 • 18h ago
 
 ---
 
@@ -308,7 +308,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 104 • 👍 6 • 💬 2 • ⏱️ 4:34 • 8h ago
+👁️ 104 • 👍 6 • 💬 2 • ⏱️ 4:34 • 9h ago
 
 ---
 
@@ -318,7 +318,7 @@ Bitmine (BMNR) is quietly building one of the largest Ethereum treasuries in the
 
 📺 BiGB Stcok
 
-👁️ 1K • 👍 47 • 💬 18 • ⏱️ 10:01 • 19h ago
+👁️ 1K • 👍 47 • 💬 18 • ⏱️ 10:01 • 20h ago
 
 ---
 
@@ -328,7 +328,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 462 • 👍 71 • ⏱️ 5:57 • 4h ago
+👁️ 462 • 👍 71 • ⏱️ 5:57 • 5h ago
 
 ---
 

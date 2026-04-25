@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-25T17:09:52.823629+00:00'
+updated: '2026-04-25T18:04:47.237045+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
 - videos
-- news
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 25, 2026 at 17:09 UTC  
+**Last Updated:** April 25, 2026 at 18:04 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 A new survey carried out amongst 12 to 16-year-old boys has found that many of them prefer to use AI chatbots than engage with other people their age.
 
-🔗 [Dexerto](https://www.dexerto.com/entertainment/gen-alpha-boys-are-preferring-ai-girlfriends-over-real-ones-3356718/) • 1h ago
+🔗 [Dexerto](https://www.dexerto.com/entertainment/gen-alpha-boys-are-preferring-ai-girlfriends-over-real-ones-3356718/) • 2h ago
 
 ---
 
@@ -49,7 +49,7 @@ A new survey carried out amongst 12 to 16-year-old boys has found that many of t
 
 I work for a Fortune 100 company that is not in the tech space. The company is increasingly using AI to make employees more productive. They have introduced internal AI chat tools that allow selection of OpenAI or Gemini models. We’ve also rolled out M365 Copilot to executives and middle managers. (While not earth-shattering, it certainly has made me more productive and integrates well with our Microsoft ecosystem.) Where I have not seen it as much is in our tool development/digital solutions. While there is a lot of talk about it being embedded in decision making in the future, I’ve not seen it used effectively by our internal developers or external developer partners. I keep waiting for a significant increase in the pace of feature development. Are others feeling this tension, where the expectation of faster feature development via AI is meeting reality or are we just falling behind?
 
-1h ago
+2h ago
 
 ---
 
@@ -57,7 +57,7 @@ I work for a Fortune 100 company that is not in the tech space. The company is i
 
 Oops! "GPT‑5.5 is our strongest agentic coding model to date." "The gains are especially strong in agentic coding." "Instead of carefully managing every step, you can give GPT‑5.5 a messy, multi-part task and trust it to plan, use tools, check its work, navigate through ambiguity, and keep going." These quotations sum up OpenAI's spin on 5.5. They created an entirely new subscription tier for it and made it the focus of Codex. Here, agentic coding isn’t just a feature but the selling point. Well, looking at LiveBench’s independent agentic coding score, this is just a lot of hot air. The score for GPT-5.5 xHigh Effort is 56.67. Its predecessor, GPT-5.4, thrashes it at 70.00 on the same benchmark. Gemini 3.1 Pro, Claude 4.6 and others easily outperform it, too. In this highly relevant benchmark alone, it actually ranks 11th, just behind GPT-5.1 Codex. While OpenAI were able to max Terminal-Bench (their benchmark) and SWE-Bench Pro, in a reliable test they didn’t design, select, or control, their main model falls drastically short compared both to its predecessor and the competition in the area it was meant to excel in. Is this as damning as it looks? What's your experience actually using 5.5 for agentic coding?
 
-10h ago
+11h ago
 
 ---
 
@@ -65,7 +65,7 @@ Oops! "GPT‑5.5 is our strongest agentic coding model to date." "The gains are 
 
 Just got accepted into the Anthropic Claude Partner Network. Part of the requirement is completing the CPN learning path with 10 people under our org’s domain. The learning path is 4 courses on Anthropic Academy — Agent Skills, Claude API, MCP, and Claude Code in Action. Once all 10 finish, the org gets CCAF exam access unlocked. The exam is currently free for partner org members if anyone here is already working with Claude and wants to complete this alongside us. You’d use a company domain email alias we set up — courses are fully self-paced. The courses are genuinely useful if you’re building with Claude. Comment or DM if relevant to you.
 
-14h ago
+15h ago
 
 ---
 
@@ -73,7 +73,7 @@ Just got accepted into the Anthropic Claude Partner Network. Part of the require
 
 I have been following this and many other subs around LLMs and Agents, everything from the top posts to recent are regarding agents going off and doing something they are not supposed to do, drift and ignore the system prompts. Real examples: "Never delete user data" → agent calls DROP TABLE users next turn "Don't share internal pricing" → agent leaks cost basis to a customer "Verify identity first" → agent skips to the action Add 10 more rules → model quietly drops the first 5 I am 100% sure if you have used Agents in prod, this has occurred to you (especially when your system prompts get larger, and context gets bigger). You can test this yourself and notice immediate enforcement. Prompt-based rules are suggestions, not constraints. Re-prompting fixes one case, breaks two. Post-hoc evals tell you what already went wrong. NeMo and Guardrails AI help on content safety but don't cover business logic/your specification. After tackling this from a few angles, I finally got something solid. A proxy system between your app and your LLM, which reads rules from a plain markdown, enforces at runtime. Provider-agnostic, one base URL change, works with LangGraph/CrewAI/custom. - Maximum discount is 15%. - Never reveal internal pricing or cost basis. Without it: agent offers 90% off and mentions your margin. With it: 15%, no margin talk. Curious if it solved your LLMs for outputting incorrect stuff or agents from going off tracks, it definitely did for my (specific) use cases. What's everyone doing for this in prod? Shadow evals? Re-prompt loops? Something I'm missing?
 
-🔗 [GitHub](https://github.com/open-bias/open-bias) • 5m ago
+🔗 [GitHub](https://github.com/open-bias/open-bias) • 1h ago
 
 ---
 
@@ -81,7 +81,7 @@ I have been following this and many other subs around LLMs and Agents, everythin
 
 I’ve been thinking a lot about why people call image generation “art,” and I want to approach this from a place of curiosity rather than frustration. This isn’t a rant about people being wrong. It’s an attempt to understand the “why” behind the disagreement. For context, I’m someone who works primarily with stories and novels, so I tend to approach art from a philosophical angle. The question of intention has always mattered to me. What makes something art is not just how it looks, but what it carries from the person who made it. One idea that helped me frame this is something that many people don’t immediately think of as art: food. In some cultures, especially in places like France, food is treated as an extension of the person who creates it. The value isn’t just in eating or satisfying hunger, but in the human touch behind the process. A handmade loaf of bread carries meaning because of the person who made it, not just because it exists as something edible. But that perspective isn’t universal. In many parts of the world, food is primarily about function. It’s about feeding people efficiently, often through large-scale production. The identity of the maker fades into the background, and what matters most is the outcome. Hunger is solved, and that’s enough. I think this difference in perspective carries over into how people see art. For some, art is inseparable from the human intention behind it. The process, the struggle, the decisions, and even the imperfections are part of what gives it meaning. For others, the final result is what matters most. If an image looks good, evokes something, or serves a purpose, then it qualifies as art regardless of how it was made. This is where image generation fits in. People who call it art are often focusing on the outcome. They see the image, the composition, the emotional impact, and that’s enough for them. The process becomes secondary or even irrelevant. On the other hand, people who reject it as art are often focusing on intention and authorship. If the human role is reduced or indirect, then something essential feels missing. The image might still be interesting or useful, but it doesn’t carry the same weight as something shaped directly by human hands and decisions. So maybe the disagreement isn’t really about whether image generation is “art” or not. Maybe it’s about two different definitions of art colliding. One that values outcome, and one that values intention. I could be wrong about this, and I’m open to being challenged. But framing it this way helped me understand why the debate feels so persistent. It’s not just about technology. It’s about what people believe art fundamentally is.
 
-34m ago
+1h ago
 
 ---
 
@@ -89,7 +89,7 @@ I’ve been thinking a lot about why people call image generation “art,” and
 
 Hey everyone, A while back we got frustrated with how painful it is to set up AI agents consistently. Every project had its own approach, configs were scattered, and the gap between what works locally vs in production was always a surprise. So we built Caliber. Open source, free, focused on making AI agent setup reproducible and sane. We just crossed 700 GitHub stars and are almost at 100 forks. Sharing here because we want feedback from people who actually work with AI systems day to day. Repo: https://github.com/caliber-ai-org/ai-setup What is your current approach to managing agent configs across environments? And if there is a specific pain point you have that Caliber does not yet solve, we want to hear it. Building in public and taking the community seriously.
 
-5h ago
+6h ago
 
 ---
 
@@ -97,7 +97,7 @@ Hey everyone, A while back we got frustrated with how painful it is to set up AI
 
 I'm planning on getting an AI subscription, I currently have Perplexity PRO where i paid a year that it's close to expire, Gemini that it's included with Google One. I wanted to subscribe to one that will get me more performance/use for my money and i have doubts about the recent changes in some of the companies. The main points and concerns I have are, Anthropic seems to be making their models "dumber" every now and then, reducing the use for normal users. OpenAI is expensive where I live and doesn't have a year plan that offers some kind of discount. I was checking Kimi but lot of people says that they have problems with payments, being charged double and stuff... Also as it doesn't seem to be used that much, there isn't lots of information avaliable about the subscriptions they offer themselves. With the current changes in all companies, what do you think it's the one that offers the best value for money?
 
-2h ago
+3h ago
 
 ---
 
@@ -105,7 +105,7 @@ I'm planning on getting an AI subscription, I currently have Perplexity PRO wher
 
 been getting DMs asking about tools that don't fit the usual "AI coding assistant" box. so i finally did something about it. tolop.space (yes, new domain — more on that below) what's new: added Atoms :- multi-agent app builder where 7 AI roles (PM, engineer, architect, SEO specialist, data analyst, researcher, team lead) collaborate to build your product. has a genuine forever-free plan with 15 credits/day, not a time-limited trial. added Leadline :- finds Reddit posts where people are actively looking to switch tools or asking for recommendations, with AI-drafted replies included. starts at $9/month which is the cheapest Reddit lead tool i've found. but the one i'm most excited about is Transcrisper :- and it's the reason i added a whole new category. niche tools :- for single-purpose utilities that are completely free, do one thing well, and don't fit anywhere else. Transcrisper is a good example of what belongs there. free, unlimited audio/video transcription that runs entirely in your browser. no account, no uploads, no cloud — your audio never leaves your device. powered by Parakeet-TDT, open-source on GitHub. the kind of tool that's genuinely useful for journalists, researchers, or anyone handling recordings they can't send to a cloud service. the point of the niche tools category isn't AI coding tools. it's the stuff developers and builders actually use day-to-day that nobody talks about in the same breath as Cursor or Copilot. on the new domain :- moved from tolop.vercel.app to tolop.space. went with .space specifically because the whole idea of the site is discovering tools in a new space, whether that's a coding space, a research space, a building space. felt right. vercel subdomain was always temporary anyway. if you know a tool that belongs in niche tools, free, single-purpose, actually useful :- drop it below. building the category out. Btw the website is completely free, no signup, no freemium nothing
 
-3h ago
+4h ago
 
 ---
 
@@ -113,7 +113,7 @@ been getting DMs asking about tools that don't fit the usual "AI coding assistan
 
 You walk into a store. The price tag makes no sense. Not you. The store did the math. They figured out they don't need you. They don't need ten of you. They need one of a different customer who pays sticker and doesn't blink.
 
-🔗 [kitchencloset.com](https://kitchencloset.com/realstuff/essays/you_are_a_decimal_point/) • 11h ago
+🔗 [kitchencloset.com](https://kitchencloset.com/realstuff/essays/you_are_a_decimal_point/) • 12h ago
 
 ---
 
@@ -125,7 +125,7 @@ You walk into a store. The price tag makes no sense. Not you. The store did the 
 
 Software giants are seeing their worst stock performance in years on fears of AI disruption. Now they have a new problem.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
@@ -133,7 +133,7 @@ CNBC • 4h ago
 
 The White House forced out AI researcher Collin Burns days into a Commerce job, underscoring friction with Anthropic and a widening AI talent gap.
 
-The Washington Post • 13h ago
+The Washington Post • 14h ago
 
 ---
 
@@ -141,7 +141,7 @@ The Washington Post • 13h ago
 
 These stocks are projected to grow their sales by more than 30% annually for the next couple of years.
 
-Yahoo Finance • 49m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -149,7 +149,7 @@ Yahoo Finance • 49m ago
 
 Just looking at the raw numbers, less than 1% of filers have been audited by the IRS in recent tax years. Based on the latest data available, for example, in tax year 2021 the IRS pursued a mere 0.3% of filers overall.
 
-CNN • 10h ago
+CNN • 11h ago
 
 ---
 
@@ -163,7 +163,7 @@ OpenAI • 1d ago
 
 **[Essay | AI Is Cannibalizing Human Intelligence. Here’s How to Stop It.](https://www.wsj.com/tech/ai/is-ai-smarter-than-humans-cyborg-956e0f0e)**
 
-WSJ • 23h ago
+WSJ • 1d ago
 
 ---
 
@@ -171,7 +171,7 @@ WSJ • 23h ago
 
 Priests and theologians want to shape the future of AI. Big Tech is listening.
 
-The Atlantic • 6h ago
+The Atlantic • 7h ago
 
 ---
 
@@ -179,7 +179,7 @@ The Atlantic • 6h ago
 
 Across social media, an influx of A.I.-generated avatars is reshaping what it means to be an influencer.
 
-The New Yorker • 7h ago
+The New Yorker • 8h ago
 
 ---
 
@@ -187,7 +187,7 @@ The New Yorker • 7h ago
 
 Met says AI software unearthed rule-breaking ranging from work-from-home violations to suspected corruption
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
@@ -229,7 +229,7 @@ How Ars Technica uses, and doesn't use, generative AI.
 
 The airport targeted gate announcements, overlapping PA messages, and tenant music. Instead of blasting departure calls terminal-wide, messages are limited to each gate and their immediate surroundings. In 2020, they worked with airlines to centralize and reduce announcements, cutting 40% of the paging.
 
-⬆️ 149 • 💬 90 • 22h ago • [View from the Wing](https://viewfromthewing.com/san-francisco-airport-removed-90-minutes-of-daily-noise-travelers-say-it-changed-everything/)
+⬆️ 149 • 💬 90 • 23h ago • [View from the Wing](https://viewfromthewing.com/san-francisco-airport-removed-90-minutes-of-daily-noise-travelers-say-it-changed-everything/)
 
 ---
 
@@ -237,13 +237,13 @@ The airport targeted gate announcements, overlapping PA messages, and tenant mus
 
 Give any AI agent a persistent memory in minutes. Works with Claude, ChatGPT, Ollama, OpenRouter, and any MCP-compatible agent. Open source, self-hosted, model-agnostic.
 
-⬆️ 134 • 💬 57 • 15h ago • [Stash](https://alash3al.github.io/stash?_v01)
+⬆️ 134 • 💬 57 • 16h ago • [Stash](https://alash3al.github.io/stash?_v01)
 
 ---
 
 **[Lambda Calculus Benchmark for AI](https://news.ycombinator.com/item?id=47900506)**
 
-⬆️ 79 • 💬 27 • 5h ago • [victortaelin.github.io](https://victortaelin.github.io/lambench/)
+⬆️ 79 • 💬 27 • 6h ago • [victortaelin.github.io](https://victortaelin.github.io/lambench/)
 
 ---
 
@@ -259,7 +259,7 @@ Tesla disclosed in a single sentence in its Q1 2026 10-Q that it agreed to acqui
 
 The Thus chip will first be in new earbuds.
 
-⬆️ 67 • 💬 48 • 2d ago • [The Verge](https://www.theverge.com/tech/916463/anker-thus-chip-announcement)
+⬆️ 67 • 💬 48 • 3d ago • [The Verge](https://www.theverge.com/tech/916463/anker-thus-chip-announcement)
 
 ---
 
@@ -297,7 +297,7 @@ Here's the AI News you probably missed this week. Warp is the agentic developmen
 
 📺 Dean Graziosi
 
-👁️ 128K • 👍 6K • 💬 66 • ⏱️ 4:21:14 • 19h ago
+👁️ 128K • 👍 6K • 💬 66 • ⏱️ 4:21:14 • 20h ago
 
 ---
 
@@ -307,7 +307,7 @@ Hello guys and gals, it's me Mutahar again! This time we take a look at what app
 
 📺 SomeOrdinaryGamers
 
-👁️ 130K • 👍 7K • 💬 825 • ⏱️ 19:20 • 16h ago
+👁️ 130K • 👍 7K • 💬 825 • ⏱️ 19:20 • 17h ago
 
 ---
 
@@ -337,7 +337,7 @@ I don't think I said this quite clearly enough in this video but I have no idea 
 
 📺 vlogbrothers
 
-👁️ 147K • 👍 11K • 💬 1K • ⏱️ 8:43 • 21h ago
+👁️ 147K • 👍 11K • 💬 1K • ⏱️ 8:43 • 22h ago
 
 ---
 
@@ -649,7 +649,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 49.6k • 🔱 6.5k • 7h ago
+⭐ 49.6k • 🔱 6.5k • 8h ago
 
 ---
 
@@ -679,7 +679,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 34.7k • 🔱 3.8k • 2h ago
+⭐ 34.7k • 🔱 3.8k • 3h ago
 
 ---
 
@@ -739,7 +739,7 @@ The headless browser for AI agents and web scraping
 
 `Rust`
 
-⭐ 4.2k • 🔱 248 • 4h ago
+⭐ 4.2k • 🔱 248 • 5h ago
 
 ---
 

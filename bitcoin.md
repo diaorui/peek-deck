@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-25T17:09:52.831219+00:00'
+updated: '2026-04-25T18:04:47.245577+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 25, 2026 at 17:09 UTC  
+**Last Updated:** April 25, 2026 at 18:04 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 The US Treasury froze $344 million in USDT linked to Iran with a single call to Tether. Bitcoin kept processing every Iranian transaction without interruption. That is the whole story.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/us-froze-tether-iran-bitcoin-untouchable/) • 4h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/us-froze-tether-iran-bitcoin-untouchable/) • 5h ago
 
 ---
 
@@ -89,13 +89,13 @@ The US Treasury froze $344 million in USDT linked to Iran with a single call to 
 
 Hi all. I need some explanation on the risk of KYC. I’m sure we’ve all seen the recent kidnappings in France due to governments leaking KYC data showing purchases etc. obviously is exchanges like Coinbase and finance face the same data leaks, it put you at risk for a wrench attack because they have your physical location. My question is, how do the attackers even know you have access to the wallets you withdrew to? Let’s say I purchase 100BTC on Coinbase and withdraw to cold storage. How do the attackers even know I have access to that cold storage wallet? Seems like a gamble? I could’ve also sent it to the wrong address. Also, if I go Coinbase -> Cold storage -> new wallet -> new wallet how would they know? Especially if the public key hasn’t been exposed showing all wallet addresses for the final wallet it resides in
 
-🔗 [coindesk.com](https://www.coindesk.com/business/2026/04/19/inside-the-rise-of-wrench-attacks-against-crypto-holders-and-how-france-has-become-the-focus) • 14m ago
+🔗 [coindesk.com](https://www.coindesk.com/business/2026/04/19/inside-the-rise-of-wrench-attacks-against-crypto-holders-and-how-france-has-become-the-focus) • 1h ago
 
 ---
 
 **[I made a site that explains Bitcoin to your mom in 5 minutes. Your mom gets a printable Bitcoin certificate at the end.](https://www.reddit.com/r/Bitcoin/comments/1suo3qe/i_made_a_site_that_explains_bitcoin_to_your_mom/)**
 
-🔗 [wtfisbtc.lol](https://wtfisbtc.lol/) • 22h ago
+🔗 [wtfisbtc.lol](https://wtfisbtc.lol/) • 23h ago
 
 ---
 
@@ -103,7 +103,7 @@ Hi all. I need some explanation on the risk of KYC. I’m sure we’ve all seen 
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-11h ago
+12h ago
 
 ---
 
@@ -111,7 +111,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 If any of you folks are coming to Vegas for Bitcoin 2026, I've compiled a list (and map) of meetups and side events. These tend to be much more fun and enjoyable than the actual Conference. If you're on mobile, you'll likely need the Google Docs app for working links. I'm hitting Hotstyle Takeover, the Bitcoin Today meetup, the Club Orange meetup, NosVegas, and then hosting Steak 'N Shake 'N Sats and the Vegas Bitcoiners Happy Hour on Wednesday.
 
-🔗 [Google Docs](https://docs.google.com/document/d/1RqlQl4vdKZtReFQpIh0h820Q10khCc6gI56xKW4N1-M) • 11h ago
+🔗 [Google Docs](https://docs.google.com/document/d/1RqlQl4vdKZtReFQpIh0h820Q10khCc6gI56xKW4N1-M) • 12h ago
 
 ---
 
@@ -119,7 +119,7 @@ If any of you folks are coming to Vegas for Bitcoin 2026, I've compiled a list (
 
 I have tremendous trusts on wallets because its math foundation. But today, something happened and I am a little in doubt. Today, when i try to restore my wallet using seed phrase, I accidentally made a mistake, but I ended up restoring another wallet that is not mine. Even though there is no any coin in it, it casts a doubt on wallet’s safety. What if someone who created the wallet has put coins in it? What are the chances that someone else accidentally restore mine? Just genuinely questions from a long time hodler. I hope I get answers that resolve me concerns
 
-17h ago
+18h ago
 
 ---
 
@@ -135,7 +135,7 @@ I have tremendous trusts on wallets because its math foundation. But today, some
 
 I have private keys from years ago to wallets that I've abandoned. Even though I don't use them and never plan to, I have a fear that I'll accidentally fund an old wallet from something that I forgot about (old exchange, someone tipping me to an old address, who-knows-what). I was imagining some little self-hosted app on my node that checks new blocks against known archived wallets and lets me know if a transaction matches - or for larger amounts, sweeps the funds automatically. I don't have anything like this, so I have copies of private keys and (for more recent wallets) seed phrases backed up in various places. I'm sure that I should be more organized about it, but what's the best way? I could see it getting out of hand easily and taking ages to go through everything on the regular to check balances. I look forward to a discussion on the best way to handle this. What are your ideas/solutions?
 
-1h ago
+2h ago
 
 ---
 
@@ -143,7 +143,7 @@ I have private keys from years ago to wallets that I've abandoned. Even though I
 
 I am about to move for work and I was wondering how were safely transporting seed phrases? I have to move through EU and US customs. I have multiple paper copies, unfortunately now in a single location now due to getting ready for this move. I cannot ship locked cases and high value items need to be reported to the shipper. Because of that I don't feel confident hiding a copy somewhere random in my shipment. I'd also like to move with my Trezors but I think that would heighten awareness? My important bag does have a passphrase but my others do not. Taking any ideas for anyone who's been through something like this. Thanks.
 
-19h ago
+20h ago
 
 ---
 
@@ -151,7 +151,7 @@ I am about to move for work and I was wondering how were safely transporting see
 
 People still say that all the time. “No cash flows. No earnings. No fundamentals.” But then why is it worth $75,000+? In this video I break down what “intrinsic value” actually means and why most people completely misunderstand it. My goal is by the end to help people understand exactly why Bitcoin has value.
 
-🔗 [youtu.be](https://youtu.be/y9humUet5SU) • 23h ago
+🔗 [youtu.be](https://youtu.be/y9humUet5SU) • 1d ago
 
 ---
 
@@ -171,7 +171,7 @@ The Block • 1d ago
 
 Can a network without formal governance coordinate the biggest cryptographic migration in its history?
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -179,7 +179,7 @@ CoinDesk • 7h ago
 
 Giancarlo Lelli performed the largest known quantum attack on Bitcoin’s encryption model. His feat is a 512-fold jump from the previous record. Bitcoin enthusiasts are scrambling for ideas to deal with the quantum computing threat.
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -187,7 +187,7 @@ Yahoo Finance • 19h ago
 
 Tennessee has become the second U.S. state to outlaw Bitcoin and crypto ATMs, making it a criminal offense to own or operate the machines.
 
-Decrypt • 20h ago
+Decrypt • 21h ago
 
 ---
 
@@ -195,7 +195,7 @@ Decrypt • 20h ago
 
 Veteran trader and chartist Peter Brandt predicted on Thursday an “investable low” for Bitcoin later in the year, followed by a major cyclical high in 2029. The Story Of Tops And Bottoms Brandt, a technical analyst with nearly 50 years...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -203,7 +203,7 @@ Yahoo Finance • 1h ago
 
 Mean-reversion models suggest bearish targets imply a 0.4th percentile event, far beyond typical market corrections.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -211,19 +211,19 @@ CoinDesk • 2h ago
 
 Trump is expected to speak at his crypto conference in Palm Beach shortly.
 
-CoinDesk • 47m ago
+CoinDesk • 1h ago
 
 ---
 
 **[Bitcoin’s Stealth Rally Has Traders Setting Sights on $80,000](https://www.bloomberg.com/news/articles/2026-04-25/bitcoin-s-stealth-rally-has-traders-setting-sights-on-80-000)**
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 5h ago
 
 ---
 
 **[Bitcoin Price Outshines Gold Again, Powered By Strategy](https://www.investors.com/news/bitcoin-price-outshines-gold-april-2026-strategy-buying-power-mstr-stock/)**
 
-Investor's Business Daily • 20h ago
+Investor's Business Daily • 21h ago
 
 ---
 
@@ -267,7 +267,7 @@ The global economic system is evolving: The left wants to redistribute. The righ
 
 Neha Narula
 
-⬆️ 4 • 💬 2 • 4d ago • [nehanarula.org](https://nehanarula.org/2026/04/20/bitcoin-and-quantum-a-roadmap.html)
+⬆️ 4 • 💬 2 • 5d ago • [nehanarula.org](https://nehanarula.org/2026/04/20/bitcoin-and-quantum-a-roadmap.html)
 
 ---
 
@@ -281,7 +281,7 @@ Neha Narula
 
 The quantum threat to Bitcoin keeps inching closer, this time thanks to a researcher who broke a simplified cryptographic key.
 
-⬆️ 3 • 💬 3 • 18h ago • [Decrypt](https://decrypt.co/365444/bitcoin-q-day-draws-nearer-quantum-researcher-breaks-simplified-key)
+⬆️ 3 • 💬 3 • 19h ago • [Decrypt](https://decrypt.co/365444/bitcoin-q-day-draws-nearer-quantum-researcher-breaks-simplified-key)
 
 ---
 
@@ -325,7 +325,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 10K • 👍 997 • ⏱️ 57:11 • 4h ago
+👁️ 10K • 👍 997 • ⏱️ 57:11 • 5h ago
 
 ---
 
@@ -345,7 +345,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRus Extra
 
-👁️ 939 • 👍 117 • 💬 65 • ⏱️ 8:10 • 2h ago
+👁️ 939 • 👍 117 • 💬 65 • ⏱️ 8:10 • 3h ago
 
 ---
 
@@ -355,7 +355,7 @@ Let's talk about Bitcoin dominance, altcoins, and monetary policy! Into The Cryp
 
 📺 Benjamin Cowen
 
-👁️ 48K • 👍 3K • 💬 257 • ⏱️ 37:14 • 19h ago
+👁️ 48K • 👍 3K • 💬 257 • ⏱️ 37:14 • 20h ago
 
 ---
 
@@ -375,7 +375,7 @@ Gareth uses it! Download Rumble Wallet now and enjoy the benefits of financial a
 
 📺 Gareth Soloway
 
-👁️ 14K • 👍 2K • 💬 216 • ⏱️ 10:41 • 3h ago
+👁️ 14K • 👍 2K • 💬 216 • ⏱️ 10:41 • 4h ago
 
 ---
 
@@ -395,7 +395,7 @@ Bitcoin is no longer just a speculative asset. Top US military leaders are now f
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 1K • 💬 93 • ⏱️ 14:54 • 19h ago
+👁️ 17K • 👍 1K • 💬 93 • ⏱️ 14:54 • 20h ago
 
 ---
 

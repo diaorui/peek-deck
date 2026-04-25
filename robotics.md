@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-25T17:09:52.839399+00:00'
+updated: '2026-04-25T18:04:47.254760+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 25, 2026 at 17:09 UTC  
+**Last Updated:** April 25, 2026 at 18:04 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[A smarter approach on autonomous exploration](https://www.reddit.com/r/robotics/comments/1sv7le7/a_smarter_approach_on_autonomous_exploration/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -42,13 +42,13 @@ Robotics research and industry news
 
 From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2047765371734704574
 
-8h ago
+9h ago
 
 ---
 
 **[Thought-controlled robotic arm by Neuralink aimed at restoring independence for paralyzed patients](https://www.reddit.com/r/robotics/comments/1svh8t5/thoughtcontrolled_robotic_arm_by_neuralink_aimed/)**
 
-21m ago
+1h ago
 
 ---
 
@@ -56,7 +56,7 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2047765371734704574
 
 Been building this ai desktop robot cat lately and tbh the visual feedback is everything. we’re using a 410×502 hd retina screen, and the real-device visual effect is honestly very impressive. pictures really don't do it justice. getting the voice to match the mouth was a nightmare tho. we use an algorithm to extract lip-sync phonemes and align them with the audio, and we also apply optimization methods to make the mouth transitions look natural. it runs on an esp32 rn but we are working on a linux version. kinda just wanted a companion on my desk while i code that actually feels alive, not just a static screen. i usually keep it right below my monitor. having it handle my quick queries or just react to me talking in the room makes a huge difference. watching it react in real time is pretty wild.
 
-13h ago
+14h ago
 
 ---
 
@@ -80,7 +80,7 @@ Hi r/robotics, We’re the team from Hertzinno, and we develop industrial acoust
 
 Hi All, I am currently working on so101 and am familiar with data collection, training, eval following the lerobot recipes. I wanted to go further and learn better about how to do the same in simulation and use that as a starting point for doing RL from IM. Are there any good guides? Anyone done this before? I understand this might not be a standard path especially with sim-real gap. However wanted to go down this path to better understand the concepts and learn (plus AI tools recommended it)
 
-12h ago
+13h ago
 
 ---
 
@@ -152,7 +152,7 @@ Interesting Engineering • 1d ago
 
 More than 20 students from Southwest Detroit are preparing to compete on the global stage after qualifying for the 2026 FIRST Robotics World Championship in Houston, Texas.
 
-Yahoo • 3h ago
+Yahoo • 4h ago
 
 ---
 
@@ -168,7 +168,7 @@ Fox Business • 2d ago
 
 Tutor Intelligence in Watertown is a kind of kindergarten for robots.
 
-CBS News • 19h ago
+CBS News • 20h ago
 
 ---
 
@@ -188,7 +188,7 @@ Democracy Now! • 1d ago
 
 Smoke rises from a village in southern Lebanon as the Israeli army operates in it as seen from the Israeli …
 
-Algemeiner.com • 20h ago
+Algemeiner.com • 21h ago
 
 ---
 
@@ -202,7 +202,7 @@ What is the best robot vacuum in 2026? After testing over 200 robot vacuums with
 
 📺 Just A Dad Approved
 
-👁️ 1K • 👍 112 • 💬 21 • ⏱️ 13:40 • 5h ago
+👁️ 1K • 👍 112 • 💬 21 • ⏱️ 13:40 • 6h ago
 
 ---
 
@@ -212,7 +212,7 @@ New Spider Shoggoth Robot. This is so weird. We got a new robot on the test serv
 
 📺 PREDATOR WR
 
-👁️ 8K • 👍 404 • 💬 118 • ⏱️ 15:36 • 5h ago
+👁️ 8K • 👍 404 • 💬 118 • ⏱️ 15:36 • 6h ago
 
 ---
 
@@ -282,7 +282,7 @@ Ace, a ping-pong-playing robot, is the first to beat elite human players in a co
 
 📺 NBC News
 
-👁️ 24K • 👍 378 • 💬 94 • ⏱️ 4:14 • 17h ago
+👁️ 24K • 👍 378 • 💬 94 • ⏱️ 4:14 • 18h ago
 
 ---
 
