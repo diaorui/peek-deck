@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-24T23:07:55.740654+00:00'
+updated: '2026-04-25T00:04:52.488521+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- social
 - cryptocurrency
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 24, 2026 at 23:07 UTC  
+**Last Updated:** April 25, 2026 at 00:04 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -70,7 +70,7 @@ Rank #1
 
 ## Fear & Greed Index
 
-### 39
+### 31
 **FEAR**
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[I made a site that explains Bitcoin to your mom in 5 minutes. Your mom gets a printable Bitcoin certificate at the end.](https://www.reddit.com/r/Bitcoin/comments/1suo3qe/i_made_a_site_that_explains_bitcoin_to_your_mom/)**
 
-🔗 [wtfisbtc.lol](https://wtfisbtc.lol/) • 4h ago
+🔗 [wtfisbtc.lol](https://wtfisbtc.lol/) • 5h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 [comments]
 
-16h ago
+17h ago
 
 ---
 
@@ -95,7 +95,7 @@ Rank #1
 
 ARK Invest says Bitcoin has not bottomed yet as whales stack 1.47 million BTC during Q1's 22% price drawdown.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/bitcoin-whales-accumulate-69-more-052711529.html) • 15h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/bitcoin-whales-accumulate-69-more-052711529.html) • 16h ago
 
 ---
 
@@ -111,7 +111,7 @@ Metaplanet raises $50M through zero-interest bonds to fund new Bitcoin purchases
 
 People still say that all the time. “No cash flows. No earnings. No fundamentals.” But then why is it worth $75,000+? In this video I break down what “intrinsic value” actually means and why most people completely misunderstand it. My goal is by the end to help people understand exactly why Bitcoin has value.
 
-🔗 [youtu.be](https://youtu.be/y9humUet5SU) • 5h ago
+🔗 [youtu.be](https://youtu.be/y9humUet5SU) • 6h ago
 
 ---
 
@@ -119,7 +119,7 @@ People still say that all the time. “No cash flows. No earnings. No fundamenta
 
 honestly curious: why is Bitcoin your #1 choice?
 
-12h ago
+13h ago
 
 ---
 
@@ -127,7 +127,7 @@ honestly curious: why is Bitcoin your #1 choice?
 
 If you go look up a bitcoin chart from 2010 to now. Look at when the halving happened in 2020 and exactly 18 months after the halving it goes down tremendously (Halving happened in may 2020, EXACTLY 18 months after in novemeber 2021 it crashed) The exact same thing happened in 2024 halving, exactly 18 months after the 2024 halving (october 2025) it crashed. Do what you will with that information. 2027 is going to be the best time to accumulate bitcoin so don't miss out. :)
 
-10h ago
+11h ago
 
 ---
 
@@ -135,7 +135,7 @@ If you go look up a bitcoin chart from 2010 to now. Look at when the halving hap
 
 I’m researching bitcoin and saw that BlackRock’s ETF added $167.5M in a single day, with steady inflows recently. Do you think this kind of institutional buying is a strong long-term signal or just normal market behaviour? Curious to hear different views.
 
-7h ago
+8h ago
 
 ---
 
@@ -143,13 +143,13 @@ I’m researching bitcoin and saw that BlackRock’s ETF added $167.5M in a sing
 
 I am about to move for work and I was wondering how were safely transporting seed phrases? I have to move through EU and US customs. I have multiple paper copies, unfortunately now in a single location now due to getting ready for this move. I cannot ship locked cases and high value items need to be reported to the shipper. Because of that I don't feel confident hiding a copy somewhere random in my shipment. I'd also like to move with my Trezors but I think that would heighten awareness? My important bag does have a passphrase but my others do not. Taking any ideas for anyone who's been through something like this. Thanks.
 
-1h ago
+2h ago
 
 ---
 
 **[The Dead Man's Switch: How to Program a Trustless Bitcoin Inheritance Using OP_CSV. Trusting an estate lawyer with your keys means surrendering your wealth. How to use relative time-locks to build a trustless, algorithmic will.](https://www.reddit.com/r/Bitcoin/comments/1sua82y/the_dead_mans_switch_how_to_program_a_trustless/)**
 
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-dead-mans-switch-how-to-program) • 14h ago
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-dead-mans-switch-how-to-program) • 15h ago
 
 ---
 
@@ -161,7 +161,7 @@ I am about to move for work and I was wondering how were safely transporting see
 
 What you need to know for April 24, 2026
 
-CoinDesk • 11h ago
+CoinDesk • 12h ago
 
 ---
 
@@ -175,7 +175,7 @@ Bloomberg.com • 2d ago
 
 Independent researcher Giancarlo Lelli broke a 15-bit elliptic curve key on publicly accessible quantum hardware, 512 times larger than the previous public demonstration in September 2025.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -183,7 +183,7 @@ CoinDesk • 7h ago
 
 Independent researcher Giancarlo Lelli derived a 15-bit elliptic curve key on a publicly accessible quantum computer, Project Eleven said.
 
-The Block • 10h ago
+The Block • 11h ago
 
 ---
 
@@ -191,7 +191,7 @@ The Block • 10h ago
 
 The quantum threat to Bitcoin keeps inching closer, this time thanks to a researcher who broke a simplified cryptographic key.
 
-Decrypt • 7h ago
+Decrypt • 8h ago
 
 ---
 
@@ -205,7 +205,7 @@ The New York Times • 1d ago
 
 Why is the identity of Bitcoin’s founder one of the biggest mysteries in finance? The new documentary “Finding Satoshi” aims to find out. CNN News Central’s John Berman speaks with the two men leading the hunt, Investigative Journalist William Cohan and Quest Research & Investigations private investigator Tyler Maroney.
 
-CNN • 9h ago
+CNN • 10h ago
 
 ---
 
@@ -213,7 +213,7 @@ CNN • 9h ago
 
 Nakamoto Inc. has introduced an actively managed Bitcoin derivatives program designed to earn income from market volatility while limiting downside risk, the company said Friday.
 
-Bitcoin Magazine • 8h ago
+Bitcoin Magazine • 9h ago
 
 ---
 
@@ -227,7 +227,7 @@ Bloomberg.com • 1d ago
 
 Tennessee has become the second U.S. state to outlaw Bitcoin and crypto ATMs, making it a criminal offense to own or operate the machines.
 
-Decrypt • 2h ago
+Decrypt • 3h ago
 
 ---
 
@@ -277,7 +277,7 @@ Part one explained the physics of quantum computing. This piece explains the tar
 
 The quantum threat to Bitcoin keeps inching closer, this time thanks to a researcher who broke a simplified cryptographic key.
 
-⬆️ 3 • 💬 1 • 47m ago • [Decrypt](https://decrypt.co/365444/bitcoin-q-day-draws-nearer-quantum-researcher-breaks-simplified-key)
+⬆️ 3 • 💬 1 • 1h ago • [Decrypt](https://decrypt.co/365444/bitcoin-q-day-draws-nearer-quantum-researcher-breaks-simplified-key)
 
 ---
 
@@ -299,7 +299,7 @@ Build wallets, issue stablecoins, and move BTC instantly: all natively on Bitcoi
 
 A senior US military commander has lauded Bitcoin as a “valuable computer science tool,” arguing its usefulness extends beyond monetary applications and can support US national security interests.“It is a valuable computer science tool, as a power projection,” Admiral Samuel Paparo said at a Senate…
 
-⬆️ 1 • 💬 0 • 1d ago • [TradingView](https://www.tradingview.com/news/cointelegraph:fd4c50ad7094b:0-us-admiral-calls-bitcoin-an-instrument-for-us-power-projection/)
+⬆️ 1 • 💬 0 • 2d ago • [TradingView](https://www.tradingview.com/news/cointelegraph:fd4c50ad7094b:0-us-admiral-calls-bitcoin-an-instrument-for-us-power-projection/)
 
 ---
 
@@ -321,7 +321,7 @@ Crypto #Bitcoin #CryptoNews #Investing #YahooFinance #Blockchain Apr. 24, 2026 -
 
 📺 Yahoo Finance
 
-👁️ 3K • 👍 210 • 💬 37 • ⏱️ 14:53 • 6h ago
+👁️ 3K • 👍 210 • 💬 37 • ⏱️ 14:53 • 7h ago
 
 ---
 
@@ -331,7 +331,7 @@ Mark Moss is an optimist and he makes a compelling case for why Bitcoin holders 
 
 📺 Bitcoin Magazine
 
-👁️ 5K • 👍 257 • 💬 14 • ⏱️ 59:02 • 12h ago
+👁️ 5K • 👍 257 • 💬 14 • ⏱️ 59:02 • 13h ago
 
 ---
 
@@ -381,7 +381,7 @@ Stability is the single biggest lie in financial markets, the investor and Bitco
 
 📺 Interesting Times with Ross Douthat
 
-👁️ 1K • 👍 21 • 💬 10 • ⏱️ 1:52 • 9h ago
+👁️ 1K • 👍 21 • 💬 10 • ⏱️ 1:52 • 10h ago
 
 ---
 
@@ -391,7 +391,7 @@ Bitcoin's next move, AMD, MU, Ethereum, QQQ, and more! BITUNIX TRADE THE TOP COI
 
 📺 Lark Davis
 
-👁️ 12K • 👍 778 • 💬 48 • ⏱️ 18:47 • 11h ago
+👁️ 12K • 👍 778 • 💬 48 • ⏱️ 18:47 • 12h ago
 
 ---
 
@@ -401,7 +401,7 @@ Checkout the Canaan Nano 3S Home Solo Bitcoin Miner ➤ https://geni.us/Nano3SAT
 
 📺 The Hobbyist Miner
 
-👁️ 2K • 👍 131 • 💬 212 • ⏱️ 11:48 • 11h ago
+👁️ 2K • 👍 131 • 💬 212 • ⏱️ 11:48 • 12h ago
 
 ---
 

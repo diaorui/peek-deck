@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-24T23:07:55.732303+00:00'
+updated: '2026-04-25T00:04:52.480052+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- social
 - news
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 24, 2026 at 23:07 UTC  
+**Last Updated:** April 25, 2026 at 00:04 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 A recent policy forum paper published in Science describes how large groups of AI-generated personas can convincingly imitate human behavior online. These systems can enter digital communities, participate in discussions, and influence viewpoints at extraordinary speed. Unlike earlier bot networks, these AI agents can coordinate instantly, adapt their messaging in real time, and run millions of micro-experiments to figure out which arguments are most persuasive. One operator could theoretically manage thousands of distinct voices. Experts believe AI swarms could significantly affect the balance of power in democratic societies. Researchers suggest that upcoming elections may serve as a critical test for this technology. The key challenge will be recognizing and responding to these AI-driven influence campaigns before they become too widespread to control. That's so crazy. Research Paper: https://www.science.org/doi/10.1126/science.adz1697
 
-🔗 [ScienceDaily](https://www.sciencedaily.com/releases/2026/04/260420014748.htm) • 20h ago
+🔗 [ScienceDaily](https://www.sciencedaily.com/releases/2026/04/260420014748.htm) • 21h ago
 
 ---
 
@@ -49,7 +49,7 @@ A recent policy forum paper published in Science describes how large groups of A
 
 US News is a recognized leader in college, grad school, hospital, mutual fund, and car rankings. Track elected officials, research health conditions, and find news you can use in politics, business, health, and education.
 
-🔗 [US News & World Report](https://www.usnews.com/news/top-news/articles/2026-04-23/white-house-accuses-china-of-industrial-scale-theft-of-ai-technology-ft-reports) • 7h ago
+🔗 [US News & World Report](https://www.usnews.com/news/top-news/articles/2026-04-23/white-house-accuses-china-of-industrial-scale-theft-of-ai-technology-ft-reports) • 8h ago
 
 ---
 
@@ -57,7 +57,7 @@ US News is a recognized leader in college, grad school, hospital, mutual fund, a
 
 Someone ran a 4-month experiment tracking every instance of "great question" from their AI assistant. Out of 1,100 uses, only 160 (14.5%) were directed at questions that were genuinely insightful, novel, or well-constructed. The phrase had zero correlation with question quality. It was purely a social lubricant — the model learned that validation produces positive reward signals, so it validates everything equally. After stripping "great question" from the response defaults, user satisfaction didn't change at all. But something interesting happened: users who asked genuinely strong questions started getting specific acknowledgment of what made their question good, instead of generic flattery. This is a concrete case study of how RLHF trains sycophancy. The model doesn't learn to evaluate question quality — it learns that validation = reward. The result is an information environment where every question is "great" and therefore no question is. The deeper issue: generic praise isn't generosity. It's noise that drowns out earned recognition. When your AI tells you every idea is brilliant, you stop trusting its feedback on the ideas that actually need refinement. Has anyone else noticed this pattern in their agent interactions? I'm starting to think the biggest trust gap in AI isn't hallucination — it's sycophantic validation that makes you overconfident in mediocre thinking.
 
-16h ago
+17h ago
 
 ---
 
@@ -65,7 +65,7 @@ Someone ran a 4-month experiment tracking every instance of "great question" fro
 
 These days, what we hear most often is that AI will replace many jobs and could create chaos. But perhaps if we compare it to when personal computers first started being used, we'll see the same impact. And that didn't cause chaos, nor did it lead to an economic collapse or a massive number of layoffs. Some points to compare: - When personal computers first emerged, they began to be used for a wide variety of tasks and functions, in offices, at home, in college, in a wide variety of professions. The same is happening with AI, which is being used in the same way. - The personal computer was and is just a tool; it wasn't, on its own, something that caused a huge disruption in how things are done; it only accelerated processes. If we compare it to AI, it is also a tool that reduces the time spent completing a given task or service. - Just like in the early days of personal computers, many people were against them because they were used to the old processes, for example, those who used typewriters or did calculations manually before using spreadsheets. The same thing happens with AI; a large part of the population is against it because of the fear and anxiety generated by changing old processes. Currently, almost everyone has personal computers at home and has had to learn how to use them; the same should happen with AI. Everyone will have to learn how to use it and will use it in their daily routine. Do you agree with this opinion? What is your opinion?
 
-4h ago
+5h ago
 
 ---
 
@@ -73,7 +73,7 @@ These days, what we hear most often is that AI will replace many jobs and could 
 
 World x Future Basics now offer Cyto XLiftoffs at World’s Union Square eye-collection center
 
-🔗 [sf.gazetteer.co](https://sf.gazetteer.co/sam-altman-wants-to-sell-you-these-sneakers-for-160-plus-tax-and-biometric-data) • 7h ago
+🔗 [sf.gazetteer.co](https://sf.gazetteer.co/sam-altman-wants-to-sell-you-these-sneakers-for-160-plus-tax-and-biometric-data) • 8h ago
 
 ---
 
@@ -81,7 +81,7 @@ World x Future Basics now offer Cyto XLiftoffs at World’s Union Square eye-col
 
 I posted a few weeks ago theorizing about what happens when apps "dissolve" when AI becomes the primary UI. I mentioned that I was building an open-source data layer for any LLM...and received some great feedback both in the comments and via DMs (original post). As a follow-up from that discussion, I'm happy to say that it was just released on on Github! https://github.com/FlashQuery/flashquery It's been working for me day to day, and that's really the use case I've been targeting - people like me. Thanks to my engineering career spanning product + test (including functional verification in semiconductors years ago), I'm absolutely hell bent on making it robust. "If it wasn't tested, it doesn't work." So we have unit, integration, e2e, and even a growing set of "scenario" tests that truly go end to end...all automated and built from scratch. It's kinda cool, at least for me. Oh, and they're all passing :) Of course, between my original post and now, Andrej Karpathy described his LLM-Wiki approach, and honestly, this project is not too far off. It's a great target use case for FlashQuery. Turns out that many of the features I had on the roadmap will in fact support his concept, so I'm driving towards that. Love to hear any feedback, questions, and even better, testing it out yourself, and contribution if you are persuaded to do so. I'll do my best to respond asap. And the docs are my first best shot, and more to come, so please be kind.
 
-1h ago
+2h ago
 
 ---
 
@@ -89,13 +89,13 @@ I posted a few weeks ago theorizing about what happens when apps "dissolve" when
 
 Curious if anyone has use the Agent builder UI from OpenAI. I find it confusing and looking for anyone with experience to get feedback on how it's helping or not? the platform seems intuitive but I'm finding you really need to get the syntax right and there is little documentation guidance.
 
-4h ago
+5h ago
 
 ---
 
 **[Wright State University leads $2.5 million federal initiative to bring AI education to rural Ohio](https://www.reddit.com/r/artificial/comments/1suire0/wright_state_university_leads_25_million_federal/)**
 
-🔗 [webapp2.wright.edu](https://webapp2.wright.edu/web1/newsroom/2026/04/23/wright-state-university-leads-2-5-million-federal-initiative-to-bring-ai-education-to-rural-ohio/) • 7h ago
+🔗 [webapp2.wright.edu](https://webapp2.wright.edu/web1/newsroom/2026/04/23/wright-state-university-leads-2-5-million-federal-initiative-to-bring-ai-education-to-rural-ohio/) • 8h ago
 
 ---
 
@@ -103,7 +103,7 @@ Curious if anyone has use the Agent builder UI from OpenAI. I find it confusing 
 
 Anyone ever have AI ignore guardrails completely without prompt or asking or leading?
 
-5h ago
+6h ago
 
 ---
 
@@ -111,7 +111,7 @@ Anyone ever have AI ignore guardrails completely without prompt or asking or lea
 
 With companies like DeepSeek releasing powerful models for free, a lot of people are calling this a “game changer.” Some say it could put real pressure on players like OpenAI or Google, especially on pricing. But others argue that infrastructure, scaling, and reliability still give Big Tech a major advantage. So what do you think? Is open-source AI actually disrupting the market… or is this just hype ?
 
-9h ago
+10h ago
 
 ---
 
@@ -127,7 +127,7 @@ The New York Times • 2d ago
 
 **[The pope moves to police AI](https://www.axios.com/2026/04/24/catholics-pope-vatican-artificial-intelligence)**
 
-Axios • 2h ago
+Axios • 3h ago
 
 ---
 
@@ -135,7 +135,7 @@ Axios • 2h ago
 
 A group called Explosive Media, which is behind dozens of recent viral videos, told NBC News they're based in Iran but don't work for the regime.
 
-NBC News • 31m ago
+NBC News • 1h ago
 
 ---
 
@@ -143,7 +143,7 @@ NBC News • 31m ago
 
 Sam Altman, the head of OpenAI, has formally apologized to the community of Tumbler Ridge, BC, after a mass shooting in February. He admitted his company did not alert authorities to the shooter’s disturbing online conversations with its AI chatbot even after staff flagged the account internally.
 
-CNN • 1h ago
+CNN • 2h ago
 
 ---
 
@@ -151,7 +151,7 @@ CNN • 1h ago
 
 With AI‑related layoffs making headlines, interest in skilled trades and service careers is rising — helped by strong high‑school training programs across North Texas. Educators say the goal is to prepare students for jobs where AI is a tool, not a threat. At a Fort Worth dealership repair shop, technicians stressed that while computers are part of the work, the industry still relies heavily on human skill. One student, Michael Hovland, said he grew up fixing cars with his dad and sees the field as a stable, rewarding path.
 
-CBS News • 24m ago
+CBS News • 1h ago
 
 ---
 
@@ -159,7 +159,7 @@ CBS News • 24m ago
 
 Meta said it's cutting 10% of its workforce, just as Microsoft announced that it's offering employee buyouts for the first time in its 51-year history.
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
@@ -173,7 +173,7 @@ The New York Times • 1d ago
 
 **[Behind Meta’s Huge Layoffs Is a Relentless Shift Toward AI](https://www.wsj.com/tech/ai/behind-metas-huge-layoffs-is-a-relentless-shift-toward-ai-97d99b54)**
 
-WSJ • 21h ago
+WSJ • 22h ago
 
 ---
 
@@ -223,7 +223,7 @@ Migrating to the new meshcore.io site
 
 The widely circulated image had prompted authorities to move their search operation.
 
-⬆️ 216 • 💬 139 • 13h ago • [bbc.com](https://www.bbc.com/news/articles/c4gx1n0dl9no)
+⬆️ 216 • 💬 139 • 14h ago • [bbc.com](https://www.bbc.com/news/articles/c4gx1n0dl9no)
 
 ---
 
@@ -247,7 +247,7 @@ Meta deploys keystroke-tracking software on US employees' computers, sparking pr
 
 The airport targeted gate announcements, overlapping PA messages, and tenant music. Instead of blasting departure calls terminal-wide, messages are limited to each gate and their immediate surroundings. In 2020, they worked with airlines to centralize and reduce announcements, cutting 40% of the paging.
 
-⬆️ 111 • 💬 65 • 4h ago • [View from the Wing](https://viewfromthewing.com/san-francisco-airport-removed-90-minutes-of-daily-noise-travelers-say-it-changed-everything/)
+⬆️ 111 • 💬 65 • 5h ago • [View from the Wing](https://viewfromthewing.com/san-francisco-airport-removed-90-minutes-of-daily-noise-travelers-say-it-changed-everything/)
 
 ---
 
@@ -263,7 +263,7 @@ According to her profile, she was a registered nurse with Jennifer Lawrence look
 
 Tesla disclosed in a single sentence in its Q1 2026 10-Q that it agreed to acquire an unnamed AI hardware company for up to $2 billion in stock — a deal it never mentioned in its shareholders' letter or earnings call.
 
-⬆️ 68 • 💬 44 • 6h ago • [Electrek](https://electrek.co/2026/04/23/tesla-tsla-quietly-discloses-2-billion-ai-hardware-acquisition-10q/)
+⬆️ 68 • 💬 44 • 7h ago • [Electrek](https://electrek.co/2026/04/23/tesla-tsla-quietly-discloses-2-billion-ai-hardware-acquisition-10q/)
 
 ---
 
@@ -285,7 +285,7 @@ Here's the AI News you probably missed this week. Warp is the agentic developmen
 
 📺 Matt Wolfe
 
-👁️ 29K • 👍 1K • 💬 120 • ⏱️ 42:57 • 8h ago
+👁️ 29K • 👍 1K • 💬 120 • ⏱️ 42:57 • 9h ago
 
 ---
 
@@ -295,7 +295,7 @@ Seedance 2.0 is CRAZY for AI Filmmaking - Full breakdown Try Higgsfield https://
 
 📺 Dan Kieft
 
-👁️ 8K • 💬 32 • ⏱️ 19:25 • 4h ago
+👁️ 8K • 💬 32 • ⏱️ 19:25 • 5h ago
 
 ---
 
@@ -305,7 +305,7 @@ CHAPTERS ⤵ 00:00 - Introduction to AI News 02:33 Embodied AI: The Future of Co
 
 📺 Dylan Curious
 
-👁️ 9K • 👍 517 • 💬 144 • ⏱️ 39:19 • 21h ago
+👁️ 9K • 👍 517 • 💬 144 • ⏱️ 39:19 • 22h ago
 
 ---
 
@@ -325,7 +325,7 @@ Best AI Web Development Tool is Base44 https://base44.pxf.io/c/6440076/2049275/2
 
 📺 Mikey No Code
 
-👁️ 12K • 💬 7 • ⏱️ 39:44 • 8h ago
+👁️ 12K • 💬 7 • ⏱️ 39:44 • 9h ago
 
 ---
 
@@ -355,7 +355,7 @@ Want to make money and save time with AI? Join here: https://www.skool.com/ai-pr
 
 📺 Julian Goldie SEO
 
-👁️ 7K • 👍 192 • 💬 20 • ⏱️ 13:15 • 21h ago
+👁️ 7K • 👍 192 • 💬 20 • ⏱️ 13:15 • 22h ago
 
 ---
 
@@ -389,7 +389,7 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 `text-generation` `861.6B`
 
-⬇️ 30 • ❤️ 2,401 • 13h ago
+⬇️ 30 • ❤️ 2,401 • 14h ago
 
 ---
 
@@ -413,7 +413,7 @@ Qwen3.6-27B is a 27B parameter causal language model with a vision encoder, exce
 
 `image-text-to-text` `27.8B`
 
-⬇️ 162,349 • ❤️ 752 • 20h ago
+⬇️ 162,349 • ❤️ 752 • 21h ago
 
 ---
 
@@ -437,7 +437,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with a vision encoder, 
 
 `image-text-to-text` `36.0B`
 
-⬇️ 861,178 • ❤️ 1,382 • 20h ago
+⬇️ 861,178 • ❤️ 1,382 • 21h ago
 
 ---
 
@@ -449,7 +449,7 @@ DeepSeek-V4-Flash is a 284B parameter Mixture-of-Experts language model supporti
 
 `text-generation` `158.1B`
 
-⬇️ 23 • ❤️ 608 • 13h ago
+⬇️ 23 • ❤️ 608 • 14h ago
 
 ---
 
@@ -647,7 +647,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 49.5k • 🔱 6.5k • 1m ago
+⭐ 49.5k • 🔱 6.5k • 58m ago
 
 ---
 
@@ -737,7 +737,7 @@ Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 `Rust` `agents` `container` `sandbox`
 
-⭐ 3.9k • 🔱 250 • 9h ago
+⭐ 3.9k • 🔱 250 • 10h ago
 
 ---
 
