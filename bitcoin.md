@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-25T10:44:51.537394+00:00'
+updated: '2026-04-25T11:39:36.907615+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- news
 - cryptocurrency
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 25, 2026 at 10:44 UTC  
+**Last Updated:** April 25, 2026 at 11:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,523.70
+### $77,760.34
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.0%  
-**7d:** +5.4%  
-**30d:** +17.1%  
-**90d:** -12.0%  
-**1y:** -17.8%  
+**24h:** -0.6%  
+**7d:** +5.2%  
+**30d:** +16.9%  
+**90d:** -12.1%  
+**1y:** -18.0%  
 
 ---
 
@@ -79,7 +79,15 @@ Rank #1
 
 **[I made a site that explains Bitcoin to your mom in 5 minutes. Your mom gets a printable Bitcoin certificate at the end.](https://www.reddit.com/r/Bitcoin/comments/1suo3qe/i_made_a_site_that_explains_bitcoin_to_your_mom/)**
 
-🔗 [wtfisbtc.lol](https://wtfisbtc.lol/) • 16h ago
+🔗 [wtfisbtc.lol](https://wtfisbtc.lol/) • 17h ago
+
+---
+
+**[Is it a good idea to have a fixed money supply ?](https://www.reddit.com/r/Bitcoin/comments/1sv8eq7/is_it_a_good_idea_to_have_a_fixed_money_supply/)**
+
+A lot of what keeps modern life running is basically built on cheap debt. Energy infrastructure is heavily financed that way. In a pure pricing world it would probably be way more expensive, and yet it’s what lets people actually get to work every day and create value Hospitals too, massive systems running on long-term public debt structures. Same for a lot of critical infrastructure. Even AI today is support by gov debt, leading to print money, but in an other hands create a lot of values for developers, people who doesn’t have access to quick knowledge etc… The same scenario happened for internet back in days and created a lot of value for everyone at the end And on a smaller scale, even social networks, the tools we use daily to communicate and build communities were largely scaled using venture funding fueled by credit expansion. The tradeoff is that this system dilutes the value of money for everyone over time. A kind of hidden shared cost. So my quesrion is not « Is it fair? » but « is it really desirable to have an inflexible supply? »
+
+1h ago
 
 ---
 
@@ -91,11 +99,19 @@ Rank #1
 
 ---
 
+**[First-world minor annoyance Bitcoin problem](https://www.reddit.com/r/Bitcoin/comments/1sv7cai/firstworld_minor_annoyance_bitcoin_problem/)**
+
+There are times throughout the workday that I have a moment to check the bitcoin price, however, sometimes when it refreshes, it closes Spotify for some reason, which I had playing as well. I'm not super duper smart with this stuff but I was wondering if anyone knows of a way to make this stop happening so I don't have to keep rebooting Spotify, thanks.
+
+2h ago
+
+---
+
 **[Daily Discussion, April 25, 2026](https://www.reddit.com/r/Bitcoin/comments/1sv3x1u/daily_discussion_april_25_2026/)**
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-4h ago
+5h ago
 
 ---
 
@@ -103,7 +119,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 If any of you folks are coming to Vegas for Bitcoin 2026, I've compiled a list (and map) of meetups and side events. These tend to be much more fun and enjoyable than the actual Conference. If you're on mobile, you'll likely need the Google Docs app for working links. I'm hitting Hotstyle Takeover, the Bitcoin Today meetup, the Club Orange meetup, NosVegas, and then hosting Steak 'N Shake 'N Sats and the Vegas Bitcoiners Happy Hour on Wednesday.
 
-🔗 [Google Docs](https://docs.google.com/document/d/1RqlQl4vdKZtReFQpIh0h820Q10khCc6gI56xKW4N1-M) • 5h ago
+🔗 [Google Docs](https://docs.google.com/document/d/1RqlQl4vdKZtReFQpIh0h820Q10khCc6gI56xKW4N1-M) • 6h ago
 
 ---
 
@@ -111,15 +127,7 @@ If any of you folks are coming to Vegas for Bitcoin 2026, I've compiled a list (
 
 I have tremendous trusts on wallets because its math foundation. But today, something happened and I am a little in doubt. Today, when i try to restore my wallet using seed phrase, I accidentally made a mistake, but I ended up restoring another wallet that is not mine. Even though there is no any coin in it, it casts a doubt on wallet’s safety. What if someone who created the wallet has put coins in it? What are the chances that someone else accidentally restore mine? Just genuinely questions from a long time hodler. I hope I get answers that resolve me concerns
 
-10h ago
-
----
-
-**[First-world minor annoyance Bitcoin problem](https://www.reddit.com/r/Bitcoin/comments/1sv7cai/firstworld_minor_annoyance_bitcoin_problem/)**
-
-There are times throughout the workday that I have a moment to check the bitcoin price, however, sometimes when it refreshes, it closes Spotify for some reason, which I had playing as well. I'm not super duper smart with this stuff but I was wondering if anyone knows of a way to make this stop happening so I don't have to keep rebooting Spotify, thanks.
-
-1h ago
+11h ago
 
 ---
 
@@ -127,7 +135,7 @@ There are times throughout the workday that I have a moment to check the bitcoin
 
 I am about to move for work and I was wondering how were safely transporting seed phrases? I have to move through EU and US customs. I have multiple paper copies, unfortunately now in a single location now due to getting ready for this move. I cannot ship locked cases and high value items need to be reported to the shipper. Because of that I don't feel confident hiding a copy somewhere random in my shipment. I'd also like to move with my Trezors but I think that would heighten awareness? My important bag does have a passphrase but my others do not. Taking any ideas for anyone who's been through something like this. Thanks.
 
-13h ago
+14h ago
 
 ---
 
@@ -135,7 +143,7 @@ I am about to move for work and I was wondering how were safely transporting see
 
 People still say that all the time. “No cash flows. No earnings. No fundamentals.” But then why is it worth $75,000+? In this video I break down what “intrinsic value” actually means and why most people completely misunderstand it. My goal is by the end to help people understand exactly why Bitcoin has value.
 
-🔗 [youtu.be](https://youtu.be/y9humUet5SU) • 16h ago
+🔗 [youtu.be](https://youtu.be/y9humUet5SU) • 17h ago
 
 ---
 
@@ -143,15 +151,7 @@ People still say that all the time. “No cash flows. No earnings. No fundamenta
 
 Metaplanet raises $50M through zero-interest bonds to fund new Bitcoin purchases and expand its growing corporate BTC treasury.
 
-🔗 [Blockonomi](https://blockonomi.com/metaplanet-issues-%C2%A58b-bonds-to-expand-bitcoin-holdings/) • 18h ago
-
----
-
-**[Something very interesting about the halvings I noticed.](https://www.reddit.com/r/Bitcoin/comments/1suew4l/something_very_interesting_about_the_halvings_i/)**
-
-If you go look up a bitcoin chart from 2010 to now. Look at when the halving happened in 2020 and exactly 18 months after the halving it goes down tremendously (Halving happened in may 2020, EXACTLY 18 months after in novemeber 2021 it crashed) The exact same thing happened in 2024 halving, exactly 18 months after the 2024 halving (october 2025) it crashed. Do what you will with that information. 2027 is going to be the best time to accumulate bitcoin so don't miss out. :)
-
-21h ago
+🔗 [Blockonomi](https://blockonomi.com/metaplanet-issues-%C2%A58b-bonds-to-expand-bitcoin-holdings/) • 19h ago
 
 ---
 
@@ -179,7 +179,15 @@ CoinDesk • 1d ago
 
 Independent researcher Giancarlo Lelli derived a 15-bit elliptic curve key on a publicly accessible quantum computer, Project Eleven said.
 
-The Block • 21h ago
+The Block • 22h ago
+
+---
+
+**[Bitcoin might be at risk from a new quantum math trick that breaks digital ownership](https://www.coindesk.com/tech/2026/04/25/clock-is-ticking-for-bitcoin-to-prevent-quantum-threat-as-it-could-drain-6-9-million-btc-including-satoshi-s)**
+
+Can a network without formal governance coordinate the biggest cryptographic migration in its history?
+
+CoinDesk • 1h ago
 
 ---
 
@@ -187,15 +195,7 @@ The Block • 21h ago
 
 Giancarlo Lelli performed the largest known quantum attack on Bitcoin’s encryption model. His feat is a 512-fold jump from the previous record. Bitcoin enthusiasts are scrambling for ideas to deal with the quantum computing threat.
 
-Yahoo Finance • 13h ago
-
----
-
-**[Bitcoin's Quantum Problem Is Really A Governance Crisis In Disguise: UTXO](https://bitcoinmagazine.com/news/bitcoin-quantum-problem-governance-crisis)**
-
-Guillaume Girard of UTXO Management argues that while a quantum computer capable of breaking Bitcoin may never arrive, the network must prepare now because protocol changes move slowly, like a state legislature.
-
-Bitcoin Magazine • 1d ago
+Yahoo Finance • 14h ago
 
 ---
 
@@ -211,7 +211,7 @@ The New York Times • 1d ago
 
 Why is the identity of Bitcoin’s founder one of the biggest mysteries in finance? The new documentary “Finding Satoshi” aims to find out. CNN News Central’s John Berman speaks with the two men leading the hunt, Investigative Journalist William Cohan and Quest Research & Investigations private investigator Tyler Maroney.
 
-CNN • 21h ago
+CNN • 22h ago
 
 ---
 
@@ -219,7 +219,13 @@ CNN • 21h ago
 
 VanEck says Bitcoin is showing a reinforced bullish setup as deeply negative funding rates and clustered hash rate declines—historically tied to strong forward returns—signal cautious sentiment rather than capitulation.
 
-Bitcoin Magazine • 14h ago
+Bitcoin Magazine • 15h ago
+
+---
+
+**[Push to Unwind Bitcoin Hoarder Shows Once-Hot Trade Collapsing](https://www.bloomberg.com/news/articles/2026-04-23/push-to-unwind-bitcoin-hoarder-shows-once-hot-trade-collapsing)**
+
+Bloomberg • 1d ago
 
 ---
 
@@ -227,13 +233,7 @@ Bitcoin Magazine • 14h ago
 
 The bitcoin price crash has wiped more than $1 trillion from the cryptocurrency's market cap...
 
-Forbes • 21h ago
-
----
-
-**[Push to Unwind Bitcoin Hoarder Shows Once-Hot Trade Collapsing](https://www.bloomberg.com/news/articles/2026-04-23/push-to-unwind-bitcoin-hoarder-shows-once-hot-trade-collapsing)**
-
-Bloomberg • 1d ago
+Forbes • 22h ago
 
 ---
 
@@ -245,7 +245,7 @@ Bloomberg • 1d ago
 
 The U.S. military is actively running a Bitcoin node and testing the protocol’s cryptographic architecture as a tool for securing and protecting networks, according to INDOPACOM commander Admiral Samuel Paparo.
 
-⬆️ 5 • 💬 0 • 1d ago • [Bitcoin Magazine](https://bitcoinmagazine.com/news/the-us-military-is-running-a-bitcoin-node)
+⬆️ 5 • 💬 0 • 2d ago • [Bitcoin Magazine](https://bitcoinmagazine.com/news/the-us-military-is-running-a-bitcoin-node)
 
 ---
 
@@ -275,7 +275,7 @@ Build wallets, issue stablecoins, and move BTC instantly: all natively on Bitcoi
 
 **[Show HN: Using Ramanujan's Pi Series for Bitcoin Security on Nvidia B200](https://news.ycombinator.com/item?id=47823382)**
 
-⬆️ 4 • 💬 1 • 5d ago • [zenodo.org](https://zenodo.org/records/19650883)
+⬆️ 4 • 💬 1 • 6d ago • [zenodo.org](https://zenodo.org/records/19650883)
 
 ---
 
@@ -283,7 +283,7 @@ Build wallets, issue stablecoins, and move BTC instantly: all natively on Bitcoi
 
 The quantum threat to Bitcoin keeps inching closer, this time thanks to a researcher who broke a simplified cryptographic key.
 
-⬆️ 3 • 💬 3 • 12h ago • [Decrypt](https://decrypt.co/365444/bitcoin-q-day-draws-nearer-quantum-researcher-breaks-simplified-key)
+⬆️ 3 • 💬 3 • 13h ago • [Decrypt](https://decrypt.co/365444/bitcoin-q-day-draws-nearer-quantum-researcher-breaks-simplified-key)
 
 ---
 
@@ -337,7 +337,7 @@ Crypto #Bitcoin #CryptoNews #Investing #YahooFinance #Blockchain Apr. 24, 2026 -
 
 📺 Yahoo Finance
 
-👁️ 6K • 👍 286 • 💬 69 • ⏱️ 14:53 • 18h ago
+👁️ 6K • 👍 286 • 💬 69 • ⏱️ 14:53 • 19h ago
 
 ---
 
@@ -347,7 +347,7 @@ Mark Moss is an optimist and he makes a compelling case for why Bitcoin holders 
 
 📺 Bitcoin Magazine
 
-👁️ 9K • 👍 334 • 💬 23 • ⏱️ 59:02 • 23h ago
+👁️ 9K • 👍 334 • 💬 23 • ⏱️ 59:02 • 1d ago
 
 ---
 
@@ -357,7 +357,7 @@ Bitcoin is no longer just a speculative asset. Top US military leaders are now f
 
 📺 Simply Bitcoin
 
-👁️ 15K • 👍 1K • 💬 86 • ⏱️ 14:54 • 13h ago
+👁️ 15K • 👍 1K • 💬 86 • ⏱️ 14:54 • 14h ago
 
 ---
 
@@ -367,7 +367,7 @@ Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro max, and th
 
 📺 Crypto Jebb
 
-👁️ 4K • 👍 236 • 💬 59 • ⏱️ 49:08 • 18h ago
+👁️ 4K • 👍 236 • 💬 59 • ⏱️ 49:08 • 19h ago
 
 ---
 
@@ -387,7 +387,7 @@ Bitcoin's next move, AMD, MU, Ethereum, QQQ, and more! BITUNIX TRADE THE TOP COI
 
 📺 Lark Davis
 
-👁️ 14K • 👍 849 • 💬 53 • ⏱️ 18:47 • 23h ago
+👁️ 14K • 👍 849 • 💬 53 • ⏱️ 18:47 • 1d ago
 
 ---
 
@@ -397,7 +397,7 @@ WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 ❎ LeveX: https://levex.com/
 
 📺 Crypto Kid
 
-👁️ 3K • 👍 279 • 💬 151 • ⏱️ 13:17 • 13h ago
+👁️ 3K • 👍 279 • 💬 151 • ⏱️ 13:17 • 14h ago
 
 ---
 
@@ -405,7 +405,7 @@ WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 ❎ LeveX: https://levex.com/
 
 📺 Hasan Minhaj
 
-👁️ 212K • 👍 4K • 💬 173 • ⏱️ 1:30 • 18h ago
+👁️ 212K • 👍 4K • 💬 173 • ⏱️ 1:30 • 19h ago
 
 ---
 
@@ -415,7 +415,7 @@ being in bitcoin's top 1% is underrated, and you're likely already there. Borrow
 
 📺 BTC Isla
 
-👁️ 12K • 👍 1K • 💬 183 • ⏱️ 9:00 • 20h ago
+👁️ 12K • 👍 1K • 💬 183 • ⏱️ 9:00 • 21h ago
 
 ---
 

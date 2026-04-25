@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-25T10:44:51.542607+00:00'
+updated: '2026-04-25T11:39:36.913072+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- news
 - cryptocurrency
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 25, 2026 at 10:44 UTC  
+**Last Updated:** April 25, 2026 at 11:39 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** +2.5%  
-**30d:** +16.4%  
-**90d:** -20.8%  
-**1y:** +27.4%  
+**24h:** -0.3%  
+**7d:** +2.3%  
+**30d:** +16.1%  
+**90d:** -21.0%  
+**1y:** +27.1%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+6h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Aave DAO offers to contribute 25,000 ETH toward DeFi United, a coordinated ecosystem recovery effort to restore the full backing of KelpDAO's rsETH. The coalition, which includes Lido, EtherFi, Ethena, Mantle, and others, aims to cover a ~75,081 ETH residual shortfall.
 
-🔗 [Aave](https://governance.aave.com/t/arfc-rseth-incident-funding-update/24740) • 15h ago
+🔗 [Aave](https://governance.aave.com/t/arfc-rseth-incident-funding-update/24740) • 16h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Been thinking about this after watching how quickly narratives can shift online when a single high-profile account amplifies something. For example, when someone like Elon Musk boosts a topic (whether it’s tech, markets, or even something like Restore Britain), you can see attention move almost instantly. Not necessarily adoption but definitely awareness and discussion. It made me wonder how this fits into Ethereum’s whole “credible neutrality” idea. On paper: Ethereum is decentralised No single actor controls the protocol Consensus is distributed But in practice: Social layers (Twitter/X, Reddit, influencers) still shape what people look at Narratives form off-chain before anything happens onchain Attention itself is still pretty centralised So the question is does Ethereum actually solve the influence problem or just move it up a layer?
 
-19h ago
+20h ago
 
 ---
 
@@ -104,7 +104,7 @@ Been thinking about this after watching how quickly narratives can shift online 
 
 Etherealize: ETH is productive money, DeFi united: effort to restore rsETH backing, Arbitrum security council froze exploiter ETH
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-20/) • 21h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-20/) • 22h ago
 
 ---
 
@@ -156,7 +156,7 @@ TVL is the default metric for DeFi lending protocols. For this category specific
 
 Bitmine Immersion also spent about $10 million when it bought 5,000 ETH from the Ethereum Foundation last month.
 
-The Block • 18h ago
+The Block • 19h ago
 
 ---
 
@@ -164,15 +164,15 @@ The Block • 18h ago
 
 Simple portfolios can often outperform overly complicated ones.
 
-The Motley Fool • 1d ago
+The Motley Fool • 2d ago
 
 ---
 
-**[XRP News: Coinbase Just Put XRP on the Same Footing as Bitcoin, Ethereum, and Gold](https://finance.yahoo.com/markets/crypto/articles/xrp-news-coinbase-just-put-140345845.html)**
+**[Bitmine Has Staked 70% Ethereum, Nears 5% Supply — Is Price Gain Following?](https://finance.yahoo.com/markets/crypto/articles/bitmine-staked-70-ethereum-nears-123243390.html)**
 
-Institutions have been dipping into XRP (CRYPTO: XRP), but they’re not committing huge capital yet. A Coinbase survey last month showed that 18% of big funds already hold XRP and 25% plan to add exposure this year, but 65% are still waiting on regulatory clarity before going bigger. While the wait continues, the infrastructure those ... XRP News: Coinbase Just Put XRP on the Same Footing as Bitcoin, Ethereum, and Gold
+BitMine has staked over 70% of its Ethereum holdings. Tom Lee says Ethereum may be nearing the end of a “mini crypto winter." Broader bullish ...
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -182,9 +182,9 @@ Barron's • 1d ago
 
 ---
 
-**[Ethereum Eyes a Monster $6,000 Price as 3 Hidden Signals Flash a Massive Green Light](https://www.tipranks.com/news/ethereum-eyes-a-monster-6000-price-as-3-hidden-signals-flash-a-massive-green-light)**
+**[XRP vs Ethereum: Which Digital Giant Will Explode to Make You the Most Money in 2026?](https://www.tipranks.com/news/xrp-vs-ethereum-which-digital-giant-will-explode-to-make-you-the-most-money-in-2026)**
 
-TipRanks • 21h ago
+TipRanks • 17h ago
 
 ---
 
@@ -200,15 +200,7 @@ Crypto Briefing • 6h ago
 
 Dubai, UAE, April  24, 2026  (GLOBE NEWSWIRE) -- The Ethereum based token Pepeto just confirmed that its latest presale stage cleared out in hours...
 
-markets.businessinsider.com • 18h ago
-
----
-
-**[Bullish Ripple (XRP) Signals, Ethereum (ETH) Price Predictions, and More: Bits Recap, April 24](https://cryptopotato.com/bullish-ripple-xrp-signals-ethereum-eth-price-predictions-and-more-bits-recap-april-24/)**
-
-Here's what's new and catching attention around XRP, ETH, and DOGE.
-
-CryptoPotato • 11h ago
+markets.businessinsider.com • 19h ago
 
 ---
 
@@ -216,7 +208,15 @@ CryptoPotato • 11h ago
 
 Ethereum traders just piled $322 million into $3,200 call options and the real reason for the bet isn’t simple hype.
 
-CryptoSlate • 14h ago
+CryptoSlate • 15h ago
+
+---
+
+**[Bullish Ripple (XRP) Signals, Ethereum (ETH) Price Predictions, and More: Bits Recap, April 24](https://cryptopotato.com/bullish-ripple-xrp-signals-ethereum-eth-price-predictions-and-more-bits-recap-april-24/)**
+
+Here's what's new and catching attention around XRP, ETH, and DOGE.
+
+CryptoPotato • 12h ago
 
 ---
 
@@ -248,7 +248,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Library Of Wealth
 
-👁️ 742 • 👍 38 • 💬 153 • ⏱️ 16:26 • 18h ago
+👁️ 742 • 👍 38 • 💬 153 • ⏱️ 16:26 • 19h ago
 
 ---
 
@@ -258,7 +258,7 @@ Most people are declaring altcoins dead, but the crypto charts tell a completely
 
 📺 Crypto Capital Venture
 
-👁️ 8K • 👍 523 • 💬 138 • ⏱️ 13:20 • 19h ago
+👁️ 8K • 👍 523 • 💬 138 • ⏱️ 13:20 • 20h ago
 
 ---
 
@@ -268,7 +268,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 72 • 💬 19 • ⏱️ 8:31 • 21h ago
+👁️ 2K • 👍 72 • 💬 19 • ⏱️ 8:31 • 22h ago
 
 ---
 
@@ -278,7 +278,7 @@ Bitmine (BMNR) is quietly building one of the largest Ethereum treasuries in the
 
 📺 BiGB Stcok
 
-👁️ 741 • 👍 33 • ⏱️ 10:01 • 13h ago
+👁️ 741 • 👍 33 • ⏱️ 10:01 • 14h ago
 
 ---
 
@@ -308,7 +308,7 @@ BTC LIVE TRADING TODAY | BITCOIN LIVE | CRYPTO LIVE TRADING Start your trading j
 
 📺 Ashutosh Kumar
 
-👁️ 3K • 👍 289 • 48m ago
+👁️ 3K • 👍 289 • 1h ago
 
 ---
 
@@ -318,7 +318,7 @@ BITCOIN PRICE SQUEEZE: Everyone is WRONG (Again)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 7K • 👍 306 • 💬 168 • ⏱️ 19:14 • 22h ago
+👁️ 7K • 👍 306 • 💬 168 • ⏱️ 19:14 • 23h ago
 
 ---
 
@@ -328,7 +328,7 @@ Der Bitcoin- und Ethererum-Preis bleiben kurzfristig nach wie vor bullisch. Doch
 
 📺 Formationstrader GmbH
 
-👁️ 7K • 👍 696 • 💬 42 • ⏱️ 18:36 • 18h ago
+👁️ 7K • 👍 696 • 💬 42 • ⏱️ 18:36 • 19h ago
 
 ---
 
