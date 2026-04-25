@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-25T11:39:36.907615+00:00'
+updated: '2026-04-25T13:06:49.858025+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- cryptocurrency
-- news
 - videos
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 25, 2026 at 11:39 UTC  
+**Last Updated:** April 25, 2026 at 13:06 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.6%  
+**24h:** -0.5%  
 **7d:** +5.2%  
-**30d:** +16.9%  
-**90d:** -12.1%  
+**30d:** +16.8%  
+**90d:** -12.2%  
 **1y:** -18.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1558.29B
+**Market Cap:** $1553.22B
 Rank #1
 
-**Circulating Supply:** 20,020,393 BTC
+**Circulating Supply:** 20,020,528 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--38.3%
+-38.5%
 
 **All-Time Low:** $67.81
-+114676.6%
++114310.9%
 
 ---
 
@@ -79,15 +79,15 @@ Rank #1
 
 **[I made a site that explains Bitcoin to your mom in 5 minutes. Your mom gets a printable Bitcoin certificate at the end.](https://www.reddit.com/r/Bitcoin/comments/1suo3qe/i_made_a_site_that_explains_bitcoin_to_your_mom/)**
 
-🔗 [wtfisbtc.lol](https://wtfisbtc.lol/) • 17h ago
+🔗 [wtfisbtc.lol](https://wtfisbtc.lol/) • 18h ago
 
 ---
 
-**[Is it a good idea to have a fixed money supply ?](https://www.reddit.com/r/Bitcoin/comments/1sv8eq7/is_it_a_good_idea_to_have_a_fixed_money_supply/)**
+**[BTC 2026 Vegas Side Events List & Map](https://www.reddit.com/r/Bitcoin/comments/1sv39wk/btc_2026_vegas_side_events_list_map/)**
 
-A lot of what keeps modern life running is basically built on cheap debt. Energy infrastructure is heavily financed that way. In a pure pricing world it would probably be way more expensive, and yet it’s what lets people actually get to work every day and create value Hospitals too, massive systems running on long-term public debt structures. Same for a lot of critical infrastructure. Even AI today is support by gov debt, leading to print money, but in an other hands create a lot of values for developers, people who doesn’t have access to quick knowledge etc… The same scenario happened for internet back in days and created a lot of value for everyone at the end And on a smaller scale, even social networks, the tools we use daily to communicate and build communities were largely scaled using venture funding fueled by credit expansion. The tradeoff is that this system dilutes the value of money for everyone over time. A kind of hidden shared cost. So my quesrion is not « Is it fair? » but « is it really desirable to have an inflexible supply? »
+If any of you folks are coming to Vegas for Bitcoin 2026, I've compiled a list (and map) of meetups and side events. These tend to be much more fun and enjoyable than the actual Conference. If you're on mobile, you'll likely need the Google Docs app for working links. I'm hitting Hotstyle Takeover, the Bitcoin Today meetup, the Club Orange meetup, NosVegas, and then hosting Steak 'N Shake 'N Sats and the Vegas Bitcoiners Happy Hour on Wednesday.
 
-1h ago
+🔗 [Google Docs](https://docs.google.com/document/d/1RqlQl4vdKZtReFQpIh0h820Q10khCc6gI56xKW4N1-M) • 7h ago
 
 ---
 
@@ -99,27 +99,11 @@ A lot of what keeps modern life running is basically built on cheap debt. Energy
 
 ---
 
-**[First-world minor annoyance Bitcoin problem](https://www.reddit.com/r/Bitcoin/comments/1sv7cai/firstworld_minor_annoyance_bitcoin_problem/)**
-
-There are times throughout the workday that I have a moment to check the bitcoin price, however, sometimes when it refreshes, it closes Spotify for some reason, which I had playing as well. I'm not super duper smart with this stuff but I was wondering if anyone knows of a way to make this stop happening so I don't have to keep rebooting Spotify, thanks.
-
-2h ago
-
----
-
 **[Daily Discussion, April 25, 2026](https://www.reddit.com/r/Bitcoin/comments/1sv3x1u/daily_discussion_april_25_2026/)**
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-5h ago
-
----
-
-**[BTC 2026 Vegas Side Events List & Map](https://www.reddit.com/r/Bitcoin/comments/1sv39wk/btc_2026_vegas_side_events_list_map/)**
-
-If any of you folks are coming to Vegas for Bitcoin 2026, I've compiled a list (and map) of meetups and side events. These tend to be much more fun and enjoyable than the actual Conference. If you're on mobile, you'll likely need the Google Docs app for working links. I'm hitting Hotstyle Takeover, the Bitcoin Today meetup, the Club Orange meetup, NosVegas, and then hosting Steak 'N Shake 'N Sats and the Vegas Bitcoiners Happy Hour on Wednesday.
-
-🔗 [Google Docs](https://docs.google.com/document/d/1RqlQl4vdKZtReFQpIh0h820Q10khCc6gI56xKW4N1-M) • 6h ago
+7h ago
 
 ---
 
@@ -127,7 +111,15 @@ If any of you folks are coming to Vegas for Bitcoin 2026, I've compiled a list (
 
 I have tremendous trusts on wallets because its math foundation. But today, something happened and I am a little in doubt. Today, when i try to restore my wallet using seed phrase, I accidentally made a mistake, but I ended up restoring another wallet that is not mine. Even though there is no any coin in it, it casts a doubt on wallet’s safety. What if someone who created the wallet has put coins in it? What are the chances that someone else accidentally restore mine? Just genuinely questions from a long time hodler. I hope I get answers that resolve me concerns
 
-11h ago
+13h ago
+
+---
+
+**[First-world minor annoyance Bitcoin problem](https://www.reddit.com/r/Bitcoin/comments/1sv7cai/firstworld_minor_annoyance_bitcoin_problem/)**
+
+There are times throughout the workday that I have a moment to check the bitcoin price, however, sometimes when it refreshes, it closes Spotify for some reason, which I had playing as well. I'm not super duper smart with this stuff but I was wondering if anyone knows of a way to make this stop happening so I don't have to keep rebooting Spotify, thanks.
+
+3h ago
 
 ---
 
@@ -135,7 +127,7 @@ I have tremendous trusts on wallets because its math foundation. But today, some
 
 I am about to move for work and I was wondering how were safely transporting seed phrases? I have to move through EU and US customs. I have multiple paper copies, unfortunately now in a single location now due to getting ready for this move. I cannot ship locked cases and high value items need to be reported to the shipper. Because of that I don't feel confident hiding a copy somewhere random in my shipment. I'd also like to move with my Trezors but I think that would heighten awareness? My important bag does have a passphrase but my others do not. Taking any ideas for anyone who's been through something like this. Thanks.
 
-14h ago
+15h ago
 
 ---
 
@@ -143,7 +135,7 @@ I am about to move for work and I was wondering how were safely transporting see
 
 People still say that all the time. “No cash flows. No earnings. No fundamentals.” But then why is it worth $75,000+? In this video I break down what “intrinsic value” actually means and why most people completely misunderstand it. My goal is by the end to help people understand exactly why Bitcoin has value.
 
-🔗 [youtu.be](https://youtu.be/y9humUet5SU) • 17h ago
+🔗 [youtu.be](https://youtu.be/y9humUet5SU) • 19h ago
 
 ---
 
@@ -151,7 +143,15 @@ People still say that all the time. “No cash flows. No earnings. No fundamenta
 
 Metaplanet raises $50M through zero-interest bonds to fund new Bitcoin purchases and expand its growing corporate BTC treasury.
 
-🔗 [Blockonomi](https://blockonomi.com/metaplanet-issues-%C2%A58b-bonds-to-expand-bitcoin-holdings/) • 19h ago
+🔗 [Blockonomi](https://blockonomi.com/metaplanet-issues-%C2%A58b-bonds-to-expand-bitcoin-holdings/) • 21h ago
+
+---
+
+**[Something very interesting about the halvings I noticed.](https://www.reddit.com/r/Bitcoin/comments/1suew4l/something_very_interesting_about_the_halvings_i/)**
+
+If you go look up a bitcoin chart from 2010 to now. Look at when the halving happened in 2020 and exactly 18 months after the halving it goes down tremendously (Halving happened in may 2020, EXACTLY 18 months after in novemeber 2021 it crashed) The exact same thing happened in 2024 halving, exactly 18 months after the 2024 halving (october 2025) it crashed. Do what you will with that information. 2027 is going to be the best time to accumulate bitcoin so don't miss out. :)
+
+1d ago
 
 ---
 
@@ -159,27 +159,11 @@ Metaplanet raises $50M through zero-interest bonds to fund new Bitcoin purchases
 
 ## Google News: "bitcoin"
 
-**[Tennessee Becomes Second State to Outlaw Bitcoin, Crypto ATMs](https://decrypt.co/365502/tennessee-second-state-outlaw-bitcoin-crypto-atms)**
-
-Tennessee has become the second U.S. state to outlaw Bitcoin and crypto ATMs, making it a criminal offense to own or operate the machines.
-
-Decrypt • 14h ago
-
----
-
-**[Michael Saylor says BTC winter is over. Market analyst disagrees, says bitcoin was in a pullback](https://www.coindesk.com/markets/2026/04/23/michael-saylor-says-the-bitcoin-winter-is-over-some-experts-agree-with-caveats)**
-
-While the Strategy executive chair signals the bitcoin bottom and that institutions will be the next to drive up the price, another market analyst disagreed, saying nation States will be the ones.
-
-CoinDesk • 1d ago
-
----
-
 **[Researcher breaks 15-bit elliptic curve key in 'largest quantum attack,' wins 1 bitcoin bounty from Project Eleven](https://www.theblock.co/post/398792/researcher-breaks-15-bit-elliptic-curve-key-wins-1-bitcoin-bounty-project-eleven)**
 
 Independent researcher Giancarlo Lelli derived a 15-bit elliptic curve key on a publicly accessible quantum computer, Project Eleven said.
 
-The Block • 22h ago
+The Block • 1d ago
 
 ---
 
@@ -187,7 +171,7 @@ The Block • 22h ago
 
 Can a network without formal governance coordinate the biggest cryptographic migration in its history?
 
-CoinDesk • 1h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -195,7 +179,21 @@ CoinDesk • 1h ago
 
 Giancarlo Lelli performed the largest known quantum attack on Bitcoin’s encryption model. His feat is a 512-fold jump from the previous record. Bitcoin enthusiasts are scrambling for ideas to deal with the quantum computing threat.
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 15h ago
+
+---
+
+**[Bitcoin Whales Accumulate 69% More BTC as ARK Warns the Bottom Isn’t In](https://finance.yahoo.com/markets/crypto/articles/bitcoin-whales-accumulate-69-more-052711529.html)**
+
+ARK Invest says Bitcoin has not bottomed yet as whales stack 1.47 million BTC during Q1's 22% price drawdown.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin’s Stealth Rally Has Traders Setting Sights on $80,000](https://www.bloomberg.com/news/articles/2026-04-25/bitcoin-s-stealth-rally-has-traders-setting-sights-on-80-000)**
+
+Bloomberg • 36m ago
 
 ---
 
@@ -207,25 +205,19 @@ The New York Times • 1d ago
 
 ---
 
+**[Nakamoto (NAKA) Launches Bitcoin Derivatives Program to Capture Volatility Income and Hedge Downside Risk](https://bitcoinmagazine.com/news/nakamoto-bitcoin-derivatives-program)**
+
+Nakamoto Inc. has introduced an actively managed Bitcoin derivatives program designed to earn income from market volatility while limiting downside risk, the company said Friday.
+
+Bitcoin Magazine • 22h ago
+
+---
+
 **[New documentary seeks to uncover the identity of Bitcoin’s founder](https://www.cnn.com/2026/04/24/us/video/berman-cohan-maroney-satoshi-bitcoin-cnc)**
 
 Why is the identity of Bitcoin’s founder one of the biggest mysteries in finance? The new documentary “Finding Satoshi” aims to find out. CNN News Central’s John Berman speaks with the two men leading the hunt, Investigative Journalist William Cohan and Quest Research & Investigations private investigator Tyler Maroney.
 
-CNN • 22h ago
-
----
-
-**[VanEck Flags Dual Bullish Signals For Bitcoin As Funding Turns Negative, Hash Rate Slips](https://bitcoinmagazine.com/news/vaneck-flags-dual-bullish-for-bitcoin)**
-
-VanEck says Bitcoin is showing a reinforced bullish setup as deeply negative funding rates and clustered hash rate declines—historically tied to strong forward returns—signal cautious sentiment rather than capitulation.
-
-Bitcoin Magazine • 15h ago
-
----
-
-**[Push to Unwind Bitcoin Hoarder Shows Once-Hot Trade Collapsing](https://www.bloomberg.com/news/articles/2026-04-23/push-to-unwind-bitcoin-hoarder-shows-once-hot-trade-collapsing)**
-
-Bloomberg • 1d ago
+CNN • 23h ago
 
 ---
 
@@ -233,7 +225,15 @@ Bloomberg • 1d ago
 
 The bitcoin price crash has wiped more than $1 trillion from the cryptocurrency's market cap...
 
-Forbes • 22h ago
+Forbes • 1d ago
+
+---
+
+**[Tennessee Becomes Second State to Outlaw Bitcoin, Crypto ATMs](https://decrypt.co/365502/tennessee-second-state-outlaw-bitcoin-crypto-atms)**
+
+Tennessee has become the second U.S. state to outlaw Bitcoin and crypto ATMs, making it a criminal offense to own or operate the machines.
+
+Decrypt • 16h ago
 
 ---
 
@@ -283,7 +283,7 @@ Build wallets, issue stablecoins, and move BTC instantly: all natively on Bitcoi
 
 The quantum threat to Bitcoin keeps inching closer, this time thanks to a researcher who broke a simplified cryptographic key.
 
-⬆️ 3 • 💬 3 • 13h ago • [Decrypt](https://decrypt.co/365444/bitcoin-q-day-draws-nearer-quantum-researcher-breaks-simplified-key)
+⬆️ 3 • 💬 3 • 14h ago • [Decrypt](https://decrypt.co/365444/bitcoin-q-day-draws-nearer-quantum-researcher-breaks-simplified-key)
 
 ---
 
@@ -297,7 +297,7 @@ Part one explained the physics of quantum computing. This piece explains the tar
 
 **[Warren Buffett: Why Stocks Beat Gold, Bonds and Bitcoin (2018)](https://news.ycombinator.com/item?id=47875151)**
 
-⬆️ 2 • 💬 0 • 1d ago • [acquirersmultiple.com](https://acquirersmultiple.com/2018/01/warren-buffett-why-stocks-beat-gold-bonds-and-bitcoin/)
+⬆️ 2 • 💬 0 • 2d ago • [acquirersmultiple.com](https://acquirersmultiple.com/2018/01/warren-buffett-why-stocks-beat-gold-bonds-and-bitcoin/)
 
 ---
 
@@ -327,85 +327,7 @@ Bitcoin is rallying out of a major drawdown while funding rates stay flat, short
 
 📺 Simply Bitcoin
 
-👁️ 49K • 👍 3K • 💬 188 • ⏱️ 20:08 • 1d ago
-
----
-
-**[Is Bitcoin About to Reclaim $80,000?](https://www.youtube.com/watch?v=VZVfb3DrCL4)**
-
-Crypto #Bitcoin #CryptoNews #Investing #YahooFinance #Blockchain Apr. 24, 2026 - Crypto is entering a new phase—and ...
-
-📺 Yahoo Finance
-
-👁️ 6K • 👍 286 • 💬 69 • ⏱️ 14:53 • 19h ago
-
----
-
-**[Mark Moss: The 50-Year Cycle Pointing to Bitcoin&#39;s Biggest Bull Run | BM Podcast Ep 8](https://www.youtube.com/watch?v=Cw7Wnw0GyOM)**
-
-Mark Moss is an optimist and he makes a compelling case for why Bitcoin holders should be too. In this Bitcoin Magazine Podcast ...
-
-📺 Bitcoin Magazine
-
-👁️ 9K • 👍 334 • 💬 23 • ⏱️ 59:02 • 1d ago
-
----
-
-**[The U.S. Military Is Using Bitcoin… To Protect The Dollar?](https://www.youtube.com/watch?v=ZEFiL5kHASQ)**
-
-Bitcoin is no longer just a speculative asset. Top US military leaders are now framing it as a tool of national power and digital ...
-
-📺 Simply Bitcoin
-
-👁️ 15K • 👍 1K • 💬 86 • ⏱️ 14:54 • 14h ago
-
----
-
-**[Bitcoin Could BREAK OUT ANY TIME! - Bitcoin Price Prediction 2026](https://www.youtube.com/watch?v=xjPpCc8WFDA)**
-
-Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro max, and thousands of dollars of other bonuses!
-
-📺 Crypto Jebb
-
-👁️ 4K • 👍 236 • 💬 59 • ⏱️ 49:08 • 19h ago
-
----
-
-**[HE SHOULD HAVE KEPT THE BITCOIN](https://www.youtube.com/watch?v=W00FScSCVpg)**
-
-Despite the surge in gold prices, Cuban links have taken a hit This client was hoping to break even on his chain, but the market ...
-
-📺 G LUXE JEWELERS
-
-👁️ 26K • 👍 406 • 💬 29 • ⏱️ 1:52 • 1d ago
-
----
-
-**[Bitcoin Expert Says Prepare For Next Major Move Up](https://www.youtube.com/watch?v=eTEnlBT9rUc)**
-
-Bitcoin's next move, AMD, MU, Ethereum, QQQ, and more! BITUNIX TRADE THE TOP COINS (available everywhere) ...
-
-📺 Lark Davis
-
-👁️ 14K • 👍 849 • 💬 53 • ⏱️ 18:47 • 1d ago
-
----
-
-**[BITCOIN: THIS IS NEXT!!!!! *concerning*](https://www.youtube.com/watch?v=W9cgmK2ofyU)**
-
-WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 ❎ LeveX: https://levex.com/r/CryptoKid MEMBER UPDATES ...
-
-📺 Crypto Kid
-
-👁️ 3K • 👍 279 • 💬 151 • ⏱️ 13:17 • 14h ago
-
----
-
-**[Jeffrey Epstein’s connection to Bitcoin](https://www.youtube.com/watch?v=BNAZM6zPCkg)**
-
-📺 Hasan Minhaj
-
-👁️ 212K • 👍 4K • 💬 173 • ⏱️ 1:30 • 19h ago
+👁️ 49K • 👍 3K • 💬 192 • ⏱️ 20:08 • 1d ago
 
 ---
 
@@ -415,7 +337,85 @@ being in bitcoin's top 1% is underrated, and you're likely already there. Borrow
 
 📺 BTC Isla
 
-👁️ 12K • 👍 1K • 💬 183 • ⏱️ 9:00 • 21h ago
+👁️ 13K • 👍 1K • 💬 202 • ⏱️ 9:00 • 23h ago
+
+---
+
+**[Mark Moss: The 50-Year Cycle Pointing to Bitcoin&#39;s Biggest Bull Run | BM Podcast Ep 8](https://www.youtube.com/watch?v=Cw7Wnw0GyOM)**
+
+Mark Moss is an optimist and he makes a compelling case for why Bitcoin holders should be too. In this Bitcoin Magazine Podcast ...
+
+📺 Bitcoin Magazine
+
+👁️ 9K • 👍 351 • 💬 24 • ⏱️ 59:02 • 1d ago
+
+---
+
+**[Is Bitcoin About to Reclaim $80,000?](https://www.youtube.com/watch?v=VZVfb3DrCL4)**
+
+Crypto #Bitcoin #CryptoNews #Investing #YahooFinance #Blockchain Apr. 24, 2026 - Crypto is entering a new phase—and ...
+
+📺 Yahoo Finance
+
+👁️ 6K • 👍 295 • 💬 71 • ⏱️ 14:53 • 20h ago
+
+---
+
+**[The U.S. Military Is Using Bitcoin… To Protect The Dollar?](https://www.youtube.com/watch?v=ZEFiL5kHASQ)**
+
+Bitcoin is no longer just a speculative asset. Top US military leaders are now framing it as a tool of national power and digital ...
+
+📺 Simply Bitcoin
+
+👁️ 16K • 👍 1K • 💬 92 • ⏱️ 14:54 • 15h ago
+
+---
+
+**[Bitcoin Dominance](https://www.youtube.com/watch?v=VdCMIWRHkTs)**
+
+Let's talk about Bitcoin dominance, altcoins, and monetary policy! Into The Cryptoverse Premium SALE: ...
+
+📺 Benjamin Cowen
+
+👁️ 41K • 👍 2K • 💬 226 • ⏱️ 37:14 • 15h ago
+
+---
+
+**[Bitcoin Could BREAK OUT ANY TIME! - Bitcoin Price Prediction 2026](https://www.youtube.com/watch?v=xjPpCc8WFDA)**
+
+Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro max, and thousands of dollars of other bonuses!
+
+📺 Crypto Jebb
+
+👁️ 4K • 👍 238 • 💬 58 • ⏱️ 49:08 • 21h ago
+
+---
+
+**[HE SHOULD HAVE KEPT THE BITCOIN](https://www.youtube.com/watch?v=W00FScSCVpg)**
+
+Despite the surge in gold prices, Cuban links have taken a hit This client was hoping to break even on his chain, but the market ...
+
+📺 G LUXE JEWELERS
+
+👁️ 26K • 👍 410 • 💬 31 • ⏱️ 1:52 • 1d ago
+
+---
+
+**[Jeffrey Epstein’s connection to Bitcoin](https://www.youtube.com/watch?v=BNAZM6zPCkg)**
+
+📺 Hasan Minhaj
+
+👁️ 219K • 👍 4K • 💬 176 • ⏱️ 1:30 • 20h ago
+
+---
+
+**[Ben McKenzie - Exposing Crypto in “Everyone Is Lying to You for Money” | The Daily Show](https://www.youtube.com/watch?v=N5X23eZSRYQ)**
+
+Ben McKenzie, actor, author, and director of the new documentary “Everyone Is Lying to You for Money,” talks to Michael Kosta ...
+
+📺 The Daily Show
+
+👁️ 126K • 👍 4K • 💬 475 • ⏱️ 12:25 • 1d ago
 
 ---
 

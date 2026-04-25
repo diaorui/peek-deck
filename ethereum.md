@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-25T11:39:36.913072+00:00'
+updated: '2026-04-25T13:06:49.864032+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- cryptocurrency
-- news
 - videos
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 25, 2026 at 11:39 UTC  
+**Last Updated:** April 25, 2026 at 13:06 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,8 +42,8 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.3%  
-**7d:** +2.3%  
+**24h:** +0.0%  
+**7d:** +2.2%  
 **30d:** +16.1%  
 **90d:** -21.0%  
 **1y:** +27.1%  
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $280.12B
+**Market Cap:** $279.34B
 Rank #2
 
 **Circulating Supply:** 120,688,915 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--53.1%
+-53.2%
 
 **All-Time Low:** $0.43
-+535930.6%
++534681.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+8h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Aave DAO offers to contribute 25,000 ETH toward DeFi United, a coordinated ecosystem recovery effort to restore the full backing of KelpDAO's rsETH. The coalition, which includes Lido, EtherFi, Ethena, Mantle, and others, aims to cover a ~75,081 ETH residual shortfall.
 
-🔗 [Aave](https://governance.aave.com/t/arfc-rseth-incident-funding-update/24740) • 16h ago
+🔗 [Aave](https://governance.aave.com/t/arfc-rseth-incident-funding-update/24740) • 18h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Been thinking about this after watching how quickly narratives can shift online when a single high-profile account amplifies something. For example, when someone like Elon Musk boosts a topic (whether it’s tech, markets, or even something like Restore Britain), you can see attention move almost instantly. Not necessarily adoption but definitely awareness and discussion. It made me wonder how this fits into Ethereum’s whole “credible neutrality” idea. On paper: Ethereum is decentralised No single actor controls the protocol Consensus is distributed But in practice: Social layers (Twitter/X, Reddit, influencers) still shape what people look at Narratives form off-chain before anything happens onchain Attention itself is still pretty centralised So the question is does Ethereum actually solve the influence problem or just move it up a layer?
 
-20h ago
+22h ago
 
 ---
 
@@ -104,7 +104,7 @@ Been thinking about this after watching how quickly narratives can shift online 
 
 Etherealize: ETH is productive money, DeFi united: effort to restore rsETH backing, Arbitrum security council froze exploiter ETH
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-20/) • 22h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-20/) • 1d ago
 
 ---
 
@@ -156,7 +156,7 @@ TVL is the default metric for DeFi lending protocols. For this category specific
 
 Bitmine Immersion also spent about $10 million when it bought 5,000 ETH from the Ethereum Foundation last month.
 
-The Block • 19h ago
+The Block • 21h ago
 
 ---
 
@@ -168,11 +168,11 @@ The Motley Fool • 2d ago
 
 ---
 
-**[Bitmine Has Staked 70% Ethereum, Nears 5% Supply — Is Price Gain Following?](https://finance.yahoo.com/markets/crypto/articles/bitmine-staked-70-ethereum-nears-123243390.html)**
+**[BitMine Says 70% Of Ethereum Holdings Are Now Staked](https://finance.yahoo.com/markets/crypto/articles/bitmine-says-70-ethereum-holdings-185300271.html)**
 
-BitMine has staked over 70% of its Ethereum holdings. Tom Lee says Ethereum may be nearing the end of a “mini crypto winter." Broader bullish ...
+BitMine Immersion Technologies (NYSE: $BMNR) says that more than 70% of its Ethereum (CRYPTO: $ETH) holdings have n...
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -182,17 +182,25 @@ Barron's • 1d ago
 
 ---
 
-**[XRP vs Ethereum: Which Digital Giant Will Explode to Make You the Most Money in 2026?](https://www.tipranks.com/news/xrp-vs-ethereum-which-digital-giant-will-explode-to-make-you-the-most-money-in-2026)**
-
-TipRanks • 17h ago
-
----
-
 **[Grayscale stakes 102,400 ETH via Ethereum Staking ETF, valued at $237M](https://cryptobriefing.com/grayscale-stakes-102400-eth-via-ethereum-staking-etf-valued-at-237m/)**
 
 Grayscale staked 102,400 ETH worth $237M via its Ethereum Staking ETF. Ethereum reaching $10,000 by December 31, 2026 at 4% YES.
 
-Crypto Briefing • 6h ago
+Crypto Briefing • 8h ago
+
+---
+
+**[XRP vs Ethereum: Which Digital Giant Will Explode to Make You the Most Money in 2026?](https://www.tipranks.com/news/xrp-vs-ethereum-which-digital-giant-will-explode-to-make-you-the-most-money-in-2026)**
+
+TipRanks • 18h ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC holds gains, ETH eyes breakout, XRP defends key support](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-holds-gains-eth-eyes-breakout-xrp-defends-key-support-202604240334)**
+
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) are supporting a constructive outlook on Friday after surging by 6%, 2% and 3% so far this week, respectively.
+
+FXStreet • 1d ago
 
 ---
 
@@ -200,7 +208,7 @@ Crypto Briefing • 6h ago
 
 Dubai, UAE, April  24, 2026  (GLOBE NEWSWIRE) -- The Ethereum based token Pepeto just confirmed that its latest presale stage cleared out in hours...
 
-markets.businessinsider.com • 19h ago
+markets.businessinsider.com • 20h ago
 
 ---
 
@@ -208,15 +216,7 @@ markets.businessinsider.com • 19h ago
 
 Ethereum traders just piled $322 million into $3,200 call options and the real reason for the bet isn’t simple hype.
 
-CryptoSlate • 15h ago
-
----
-
-**[Bullish Ripple (XRP) Signals, Ethereum (ETH) Price Predictions, and More: Bits Recap, April 24](https://cryptopotato.com/bullish-ripple-xrp-signals-ethereum-eth-price-predictions-and-more-bits-recap-april-24/)**
-
-Here's what's new and catching attention around XRP, ETH, and DOGE.
-
-CryptoPotato • 12h ago
+CryptoSlate • 17h ago
 
 ---
 
@@ -238,17 +238,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 14K • 👍 419 • 💬 46 • ⏱️ 23:11 • 1d ago
-
----
-
-**[Tom Lee: Ethereum&#39;s &#39;Surprise of the Year&#39; Just Started (2026 ETH Prediction](https://www.youtube.com/watch?v=iE8700MrZQY)**
-
-"UNBELIEVABLE! Ethereum's About to Pull the Surprise of the Year": Tom Lee | (New Prediction 2026) Something is wrong with ...
-
-📺 Library Of Wealth
-
-👁️ 742 • 👍 38 • 💬 153 • ⏱️ 16:26 • 19h ago
+👁️ 14K • 👍 424 • 💬 47 • ⏱️ 23:11 • 1d ago
 
 ---
 
@@ -258,7 +248,7 @@ Most people are declaring altcoins dead, but the crypto charts tell a completely
 
 📺 Crypto Capital Venture
 
-👁️ 8K • 👍 523 • 💬 138 • ⏱️ 13:20 • 20h ago
+👁️ 8K • 👍 533 • 💬 142 • ⏱️ 13:20 • 22h ago
 
 ---
 
@@ -268,17 +258,17 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 72 • 💬 19 • ⏱️ 8:31 • 22h ago
+👁️ 2K • 👍 74 • 💬 19 • ⏱️ 8:31 • 23h ago
 
 ---
 
-**[Bitmine BMNR’s $13 Billion Ethereum Bet Explained (Something Feels Off)](https://www.youtube.com/watch?v=b2vQaU3EeXE)**
+**[Tom Lee: Ethereum&#39;s &#39;Surprise of the Year&#39; Just Started (2026 ETH Prediction](https://www.youtube.com/watch?v=iE8700MrZQY)**
 
-Bitmine (BMNR) is quietly building one of the largest Ethereum treasuries in the market — now approaching $13 billion in total ...
+"UNBELIEVABLE! Ethereum's About to Pull the Surprise of the Year": Tom Lee | (New Prediction 2026) Something is wrong with ...
 
-📺 BiGB Stcok
+📺 Library Of Wealth
 
-👁️ 741 • 👍 33 • ⏱️ 10:01 • 14h ago
+👁️ 803 • 👍 39 • 💬 160 • ⏱️ 16:26 • 20h ago
 
 ---
 
@@ -298,37 +288,47 @@ Ethereum is consolidating just below a descending trend line that has been with 
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 181 • 💬 14 • ⏱️ 10:43 • 11h ago
+👁️ 3K • 👍 198 • 💬 17 • ⏱️ 10:43 • 13h ago
 
 ---
 
-**[Btc Live Trading | Crypto Live Trading | Live Trading | Live Crypto Trading | Bitcoin Live Trading](https://www.youtube.com/watch?v=ScZ2XcdNIBk)**
+**[Bitmine BMNR’s $13 Billion Ethereum Bet Explained (Something Feels Off)](https://www.youtube.com/watch?v=b2vQaU3EeXE)**
 
-BTC LIVE TRADING TODAY | BITCOIN LIVE | CRYPTO LIVE TRADING Start your trading journey with XM — a trusted and ...
+Bitmine (BMNR) is quietly building one of the largest Ethereum treasuries in the market — now approaching $13 billion in total ...
 
-📺 Ashutosh Kumar
+📺 BiGB Stcok
 
-👁️ 3K • 👍 289 • 1h ago
-
----
-
-**[BITCOIN PRICE SQUEEZE: Everyone is WRONG (Again)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=eLoUMABhteQ)**
-
-BITCOIN PRICE SQUEEZE: Everyone is WRONG (Again)!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
-
-📺 Crypto World
-
-👁️ 7K • 👍 306 • 💬 168 • ⏱️ 19:14 • 23h ago
+👁️ 868 • 👍 41 • 💬 18 • ⏱️ 10:01 • 15h ago
 
 ---
 
-**[Bitcoin &amp; Ethereum: Das passiert, wenn diese magische Grenze fällt!](https://www.youtube.com/watch?v=X03KXOf1rww)**
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=zEiXbIuO__A)**
 
-Der Bitcoin- und Ethererum-Preis bleiben kurzfristig nach wie vor bullisch. Doch sie laufen in sehr starke und kritische ...
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
 
-📺 Formationstrader GmbH
+📺 Crypto Gyan
 
-👁️ 7K • 👍 696 • 💬 42 • ⏱️ 18:36 • 19h ago
+👁️ 48 • 👍 12 • ⏱️ 5:57 • 9m ago
+
+---
+
+**[$222M Floods Into Bitcoin… While Ethereum Bleeds $75M — What’s Happening?](https://www.youtube.com/watch?v=_7vZ7xLjBkQ)**
+
+M Floods Into Bitcoin… While Ethereum Bleeds $75M — What's Happening? $2.1 BILLION into Bitcoin ETFs in just 8 days.
+
+📺 The Wealth Continuum
+
+👁️ 266 • 👍 27 • 💬 6 • ⏱️ 18:23 • 14h ago
+
+---
+
+**[Ethereum 20% Rally is Confirmed if...](https://www.youtube.com/watch?v=Eu2BioKJhvY)**
+
+AI ALGO Trading Masterclass   https://youtube.com/live/kXYu-GRsXIU Zero Trading Fees offer US Stocks, Metals, Crude Oil and ...
+
+📺 Investographer
+
+👁️ 2K • 👍 108 • 💬 26 • ⏱️ 8:21 • 19h ago
 
 ---
 

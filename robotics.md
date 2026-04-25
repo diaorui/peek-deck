@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-25T11:39:36.916100+00:00'
+updated: '2026-04-25T13:06:49.867211+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 25, 2026 at 11:39 UTC  
+**Last Updated:** April 25, 2026 at 13:06 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,15 +36,13 @@ Robotics research and industry news
 
 From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2047765371734704574
 
-2h ago
+4h ago
 
 ---
 
-**[Neuralink is working to restore mobility by allowing participants to control robotic arms with their thoughts](https://www.reddit.com/r/robotics/comments/1sv8p0w/neuralink_is_working_to_restore_mobility_by/)**
+**[A smarter approach on autonomous exploration](https://www.reddit.com/r/robotics/comments/1sv7le7/a_smarter_approach_on_autonomous_exploration/)**
 
-From Neuralink on 𝕏: https://x.com/neuralink/status/2047803749226144089
-
-1h ago
+3h ago
 
 ---
 
@@ -52,13 +50,7 @@ From Neuralink on 𝕏: https://x.com/neuralink/status/2047803749226144089
 
 Been building this ai desktop robot cat lately and tbh the visual feedback is everything. we’re using a 410×502 hd retina screen, and the real-device visual effect is honestly very impressive. pictures really don't do it justice. getting the voice to match the mouth was a nightmare tho. we use an algorithm to extract lip-sync phonemes and align them with the audio, and we also apply optimization methods to make the mouth transitions look natural. it runs on an esp32 rn but we are working on a linux version. kinda just wanted a companion on my desk while i code that actually feels alive, not just a static screen. i usually keep it right below my monitor. having it handle my quick queries or just react to me talking in the room makes a huge difference. watching it react in real time is pretty wild.
 
-8h ago
-
----
-
-**[A smarter approach on autonomous exploration](https://www.reddit.com/r/robotics/comments/1sv7le7/a_smarter_approach_on_autonomous_exploration/)**
-
-2h ago
+9h ago
 
 ---
 
@@ -66,7 +58,7 @@ Been building this ai desktop robot cat lately and tbh the visual feedback is ev
 
 First rollout of a simple ACT model and the right looks like it got its ACT together The movement could be smoother I think. The robot still has to learn how to handle weird orientation of the cube. Wrote about it here https://x.com/pbshgthm/status/2047640796699267497
 
-23h ago
+1d ago
 
 ---
 
@@ -74,7 +66,7 @@ First rollout of a simple ACT model and the right looks like it got its ACT toge
 
 Hi All, I am currently working on so101 and am familiar with data collection, training, eval following the lerobot recipes. I wanted to go further and learn better about how to do the same in simulation and use that as a starting point for doing RL from IM. Are there any good guides? Anyone done this before? I understand this might not be a standard path especially with sim-real gap. However wanted to go down this path to better understand the concepts and learn (plus AI tools recommended it)
 
-7h ago
+8h ago
 
 ---
 
@@ -82,7 +74,7 @@ Hi All, I am currently working on so101 and am familiar with data collection, tr
 
 Hi r/robotics, We’re the team from Hertzinno, and we develop industrial acoustic cameras (real-time sound visualization). Recently we’ve been integrating our acoustic camera with quadruped robots for autonomous inspection tasks. The obvious use cases so far: · Compressed air & gas leak detection (finding invisible leaks with sound) · Mechanical fault localization (bearing wear, abnormal noises in motors/gearboxes) But we bet this community has way more creative ideas than we can come up with in our engineering bubble. So we’d love to ask: What surprising or non-obvious applications do you see for a mobile acoustic camera robot?
 
-22h ago
+23h ago
 
 ---
 
@@ -102,7 +94,15 @@ Hi r/robotics, We’re the team from Hertzinno, and we develop industrial acoust
 
 Hey everyone, I've been building autonomous drones with a monocular camera and have been trying to make good use out of Claude Code for my software development. I noticed that while it's great at writing the boilerplate of my ROS2 nodes, the second I get into runtime messaging, Claude has no idea when one message will publish compared to another. Similarly, when I'm doing any work regarding transforms, Claude seems to have no idea about the robots actual position in a world, and it ends up simply guessing what the right transform is. I get a little frustrated by it because I look at web development and see how much Claude has increased the speed of development there. Some of the super AI-first people are letting their agents run overnight. I feel like if I tried that right now, it would just destroy my repository, since I have to hold Claude's hand at every stage. I'm using ROS2 Jazzy and PX4. Anyone else seeing similar problems? If so, how are you currently getting around it?
 
-22h ago
+1d ago
+
+---
+
+**[ROS News for the Week of April 20th, 2026](https://www.reddit.com/r/robotics/comments/1suojak/ros_news_for_the_week_of_april_20th_2026/)**
+
+ROS News for the Week of April 20th, 2026      🫶 We need your help testing ROS 2 Lyrical Luth! Join us next Thursday, April 30th, at 9am for our Lyrical Luth Test and Tutorial Party Kickoff. We’ll show you how to install and test the next ROS release and our top testers will get free ROS swag! You don’t have to make the kickoff meeting to participate in the T&T Party. We’ll post a video once we’re done.       🚨 About 48 hours remain to submit your ROSCon Global talk ...
+
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-april-20th-2026/) • 18h ago
 
 ---
 
@@ -110,11 +110,11 @@ Hey everyone, I've been building autonomous drones with a monocular camera and h
 
 ## Google News: "robotics"
 
-**[A Spark Capital VC says the AI boom is creating a new kind of gig worker](https://www.businessinsider.com/spark-capital-vc-nabeel-hyatt-robotics-reshaping-gig-economy-2026-4)**
+**['Self-aware' robots can learn complex tasks by watching humans. Is that a good thing?](https://www.npr.org/2026/04/24/nx-s1-5797863/self-aware-robots-future-laundry-work-home)**
 
-Spark Capital VC Nabeel Hyatt explains why AI needs human data and shares how robotics could reshape jobs and the future of gig work
+Scientists say they've made a key breakthrough that would allow robots to figure out complex tasks on their own — but experts say it raises questions about how much risk comes with letting robots be in charge of their own learning.
 
-Business Insider • 2d ago
+NPR • 1d ago
 
 ---
 
@@ -150,11 +150,27 @@ Financial Times • 2d ago
 
 ---
 
-**['Self-aware' robots can learn complex tasks by watching humans. Is that a good thing?](https://www.npr.org/2026/04/24/nx-s1-5797863/self-aware-robots-future-laundry-work-home)**
+**[How I taught myself to code, quit my consulting job, and started an AI robotics firm by age 25](https://www.businessinsider.com/consultant-turned-ai-robotics-founder-career-lessons-bcg-remy-2026-4)**
 
-Scientists say they've made a key breakthrough that would allow robots to figure out complex tasks on their own — but experts say it raises questions about how much risk comes with letting robots be in charge of their own learning.
+Oscar Brisset, 25, used most of his vacation days to learn to code. He left BCG to launch a YC-backed AI robotics company.
 
-NPR • 1d ago
+Business Insider • 5h ago
+
+---
+
+**[Melody: Humanoid robot masters 39 degrees of freedom to achieve lifelike presence](https://interestingengineering.com/ai-robotics/humanoid-robot-achieve-lifelike-presence)**
+
+Melody is an M-Series humanoid, a masterpiece of "human-centric" engineering from Realbotix, a Canada-based humanoid robot manufacturer.
+
+Interesting Engineering • 21h ago
+
+---
+
+**[Franklin OKs tax financing district for robotics company expansion](https://www.jsonline.com/story/communities/south/2026/04/25/franklin-approves-creating-tax-district-for-yaskawas-182m-expansion/89767690007/)**
+
+Franklin's council approved a development agreement to include TID funding for Yaskawa America's $182 million expansion project in the city.
+
+Milwaukee Journal Sentinel • 3h ago
 
 ---
 
@@ -164,31 +180,11 @@ Investor's Business Daily • 1d ago
 
 ---
 
-**[Melody: Humanoid robot masters 39 degrees of freedom to achieve lifelike presence](https://interestingengineering.com/ai-robotics/humanoid-robot-achieve-lifelike-presence)**
-
-Melody is an M-Series humanoid, a masterpiece of "human-centric" engineering from Realbotix, a Canada-based humanoid robot manufacturer.
-
-Interesting Engineering • 19h ago
-
----
-
 **[AI robots are learning to do simple human tasks at a factory in Massachusetts](https://www.cbsnews.com/boston/news/ai-robots-tutor-intelligence-watertown/)**
 
 Tutor Intelligence in Watertown is a kind of kindergarten for robots.
 
-CBS News • 13h ago
-
----
-
-**[Eric Trump Touts $24 Million Pentagon Contract Awarded to His Robotics Company](https://www.democracynow.org/2026/4/24/headlines/eric_trump_touts_24_million_pentagon_contract_awarded_to_his_robotics_company)**
-
-President Trump’s son Eric Trump is touting a $24 million Pentagon contract awarded to the robotics firm Foundation Future Industries, where he serves as chief strategy adviser. The contract will fund testing of its “Phantom” humanoid robots for future military applications. Here’s Eric Trump speaking on Fox Business about the deal.
-
-Eric Trump: “You know, I got involved with crypto in a very big way because we had to win that digital revolution. We have to win robotics in the United States of America.”
-
-Democratic lawmakers have blasted the deal as a clear example of nepotism and corruption. Massachusetts Senator Elizabeth Warren wrote, “Is the Pentagon just a cash machine for Trump’s kids now? This looks like corruption in plain sight.”
-
-Democracy Now! • 21h ago
+CBS News • 15h ago
 
 ---
 
@@ -202,7 +198,7 @@ Unitree just revealed a humanoid robot using wheels, skates, and even ice blades
 
 📺 DPCcars
 
-👁️ 4K • 👍 47 • 💬 55 • ⏱️ 4:20 • 1d ago
+👁️ 4K • 👍 48 • 💬 59 • ⏱️ 4:20 • 1d ago
 
 ---
 
@@ -222,7 +218,7 @@ AGIBOT just rolled out a full new wave of humanoid robots and AI models built fo
 
 📺 AI Revolution
 
-👁️ 36K • 👍 829 • 💬 65 • ⏱️ 16:29 • 4d ago
+👁️ 36K • 👍 829 • 💬 66 • ⏱️ 16:29 • 4d ago
 
 ---
 
@@ -232,7 +228,7 @@ For the first time, an AI-powered machine has bested elite-level athletes at a p
 
 📺 nature video
 
-👁️ 102K • 👍 2K • 💬 203 • ⏱️ 13:38 • 2d ago
+👁️ 103K • 👍 2K • 💬 209 • ⏱️ 13:38 • 2d ago
 
 ---
 
@@ -246,13 +242,23 @@ An Elon Musk robotic dog was seen wandering around San Francisco, bumping into s
 
 ---
 
+**[Table-tennis-playing robot makes history by beating elite human players](https://www.youtube.com/watch?v=7UKiNNxPkAU)**
+
+Ace, a ping-pong-playing robot, is the first to beat elite human players in a competitive sport, according to Sony AI. It's a big ...
+
+📺 NBC News
+
+👁️ 13K • 👍 218 • 💬 55 • ⏱️ 4:14 • 13h ago
+
+---
+
 **[50 Minutes: How China&#39;s Robot Destroyed the Half Marathon Record](https://www.youtube.com/watch?v=pH8tVBqCRLY)**
 
 In Beijing, a humanoid robot just completed a 21-kilometer half-marathon in an astonishing 50 minutes and 26 seconds, marking ...
 
 📺 Capital Markets AI
 
-👁️ 35K • 👍 658 • 💬 151 • ⏱️ 8:58 • 5d ago
+👁️ 36K • 👍 660 • 💬 151 • ⏱️ 8:58 • 5d ago
 
 ---
 
@@ -282,17 +288,7 @@ Dozens of Chinese-made humanoid robots showed off their fast-improving athletici
 
 📺 Guardian News
 
-👁️ 95K • 👍 250 • 💬 103 • ⏱️ 0:37 • 6d ago
-
----
-
-**[300+ Robots Join Historic Run: Humanoid Robots Race Past Humans in Beijing Half Marathon | AI1Z](https://www.youtube.com/watch?v=ikd7EcKvONo)**
-
-Dozens of humanoid robots competed alongside human runners in the Beijing half marathon, showcasing China's rapid ...
-
-📺 DRM News
-
-👁️ 39K • 👍 403 • 💬 152 • ⏱️ 8:15 • 6d ago
+👁️ 95K • 👍 251 • 💬 103 • ⏱️ 0:37 • 6d ago
 
 ---
 
