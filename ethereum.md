@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-25T00:04:52.494505+00:00'
+updated: '2026-04-25T03:40:12.043443+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
 - news
 - social
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 25, 2026 at 00:04 UTC  
+**Last Updated:** April 25, 2026 at 03:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.8%  
-**7d:** -1.6%  
-**30d:** +12.3%  
-**90d:** -17.9%  
-**1y:** +29.5%  
+**24h:** +0.4%  
+**7d:** +2.4%  
+**30d:** +16.2%  
+**90d:** -20.9%  
+**1y:** +27.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $279.21B
+**Market Cap:** $279.66B
 Rank #2
 
-**Circulating Supply:** 120,689,080 ETH
+**Circulating Supply:** 120,688,915 ETH
 No max supply
 
 **All-Time High:** $4,946.05
 -53.2%
 
 **All-Time Low:** $0.43
-+534233.1%
++535073.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Aave DAO offers to contribute 25,000 ETH toward DeFi United, a coordinated ecosystem recovery effort to restore the full backing of KelpDAO's rsETH. The coalition, which includes Lido, EtherFi, Ethena, Mantle, and others, aims to cover a ~75,081 ETH residual shortfall.
 
-🔗 [Aave](https://governance.aave.com/t/arfc-rseth-incident-funding-update/24740) • 5h ago
+🔗 [Aave](https://governance.aave.com/t/arfc-rseth-incident-funding-update/24740) • 8h ago
 
 ---
 
@@ -80,7 +80,23 @@ Aave DAO offers to contribute 25,000 ETH toward DeFi United, a coordinated ecosy
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-19h ago
+22h ago
+
+---
+
+**[Centralised influence vs decentralised systems, where does Ethereum actually stand?](https://www.reddit.com/r/ethereum/comments/1sui2cy/centralised_influence_vs_decentralised_systems/)**
+
+Been thinking about this after watching how quickly narratives can shift online when a single high-profile account amplifies something. For example, when someone like Elon Musk boosts a topic (whether it’s tech, markets, or even something like Restore Britain), you can see attention move almost instantly. Not necessarily adoption but definitely awareness and discussion. It made me wonder how this fits into Ethereum’s whole “credible neutrality” idea. On paper: Ethereum is decentralised No single actor controls the protocol Consensus is distributed But in practice: Social layers (Twitter/X, Reddit, influencers) still shape what people look at Narratives form off-chain before anything happens onchain Attention itself is still pretty centralised So the question is does Ethereum actually solve the influence problem or just move it up a layer?
+
+12h ago
+
+---
+
+**[Ethereal news weekly #20 | Etherealize: ETH is productive money, DeFi united effort to restore rsETH backing, Arbitrum security council froze exploiter ETH](https://www.reddit.com/r/ethereum/comments/1sueyao/ethereal_news_weekly_20_etherealize_eth_is/)**
+
+Etherealize: ETH is productive money, DeFi united: effort to restore rsETH backing, Arbitrum security council froze exploiter ETH
+
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-20/) • 14h ago
 
 ---
 
@@ -97,22 +113,6 @@ honestly starting to get really cynical about the state of governance on eth rig
 Justin Sun invested $45 million into World Liberty Financial. They froze his wallet, stripped his voting rights, and threatened to burn his tokens. Now he is taking them to federal court.
 
 🔗 [DailyCoinPost](https://dailycoinpost.com/trump-world-liberty-financial-justin-sun-lawsuit/) • 1d ago
-
----
-
-**[Centralised influence vs decentralised systems, where does Ethereum actually stand?](https://www.reddit.com/r/ethereum/comments/1sui2cy/centralised_influence_vs_decentralised_systems/)**
-
-Been thinking about this after watching how quickly narratives can shift online when a single high-profile account amplifies something. For example, when someone like Elon Musk boosts a topic (whether it’s tech, markets, or even something like Restore Britain), you can see attention move almost instantly. Not necessarily adoption but definitely awareness and discussion. It made me wonder how this fits into Ethereum’s whole “credible neutrality” idea. On paper: Ethereum is decentralised No single actor controls the protocol Consensus is distributed But in practice: Social layers (Twitter/X, Reddit, influencers) still shape what people look at Narratives form off-chain before anything happens onchain Attention itself is still pretty centralised So the question is does Ethereum actually solve the influence problem or just move it up a layer?
-
-9h ago
-
----
-
-**[Ethereal news weekly #20 | Etherealize: ETH is productive money, DeFi united effort to restore rsETH backing, Arbitrum security council froze exploiter ETH](https://www.reddit.com/r/ethereum/comments/1sueyao/ethereal_news_weekly_20_etherealize_eth_is/)**
-
-Etherealize: ETH is productive money, DeFi united: effort to restore rsETH backing, Arbitrum security council froze exploiter ETH
-
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-20/) • 11h ago
 
 ---
 
@@ -144,7 +144,7 @@ TVL is the default metric for DeFi lending protocols. For this category specific
 
 Your daily crypto news briefing. Bitcoin, Ethereum, Solana and the stories that move markets.
 
-🔗 [bigcoinreport.com](https://bigcoinreport.com/analysis/ai-agents-crypto-payments-how-it-works) • 1d ago
+🔗 [bigcoinreport.com](https://bigcoinreport.com/analysis/ai-agents-crypto-payments-how-it-works) • 2d ago
 
 ---
 
@@ -156,7 +156,7 @@ Your daily crypto news briefing. Bitcoin, Ethereum, Solana and the stories that 
 
 Bitmine Immersion also spent about $10 million when it bought 5,000 ETH from the Ethereum Foundation last month.
 
-The Block • 8h ago
+The Block • 11h ago
 
 ---
 
@@ -172,7 +172,7 @@ The Motley Fool • 1d ago
 
 BitMine has staked over 70% of its Ethereum holdings. Tom Lee says Ethereum may be nearing the end of a “mini crypto winter." Broader bullish ...
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 15h ago
 
 ---
 
@@ -184,15 +184,15 @@ Barron's • 1d ago
 
 **[Ethereum Eyes a Monster $6,000 Price as 3 Hidden Signals Flash a Massive Green Light](https://www.tipranks.com/news/ethereum-eyes-a-monster-6000-price-as-3-hidden-signals-flash-a-massive-green-light)**
 
-TipRanks • 10h ago
+TipRanks • 14h ago
 
 ---
 
-**[Ethereum news: Bitmine (BMNR) to buy 10,000 ETH for $23.8M from Ethereum Foundation](https://www.coindesk.com/business/2026/04/24/bitmine-to-buy-10-000-ether-for-usd23-8-million-from-the-ethereum-foundation)**
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC holds gains, ETH eyes breakout, XRP defends key support](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-holds-gains-eth-eyes-breakout-xrp-defends-key-support-202604240334)**
 
-The transaction brings the firm’s holdings closer to the 5% of all ETH milestone.
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) are supporting a constructive outlook on Friday after surging by 6%, 2% and 3% so far this week, respectively.
 
-CoinDesk • 8h ago
+FXStreet • 1d ago
 
 ---
 
@@ -200,7 +200,7 @@ CoinDesk • 8h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 11h ago
+Fortune • 14h ago
 
 ---
 
@@ -208,7 +208,7 @@ Fortune • 11h ago
 
 Dubai, UAE, April  24, 2026  (GLOBE NEWSWIRE) -- The Ethereum based token Pepeto just confirmed that its latest presale stage cleared out in hours...
 
-markets.businessinsider.com • 7h ago
+markets.businessinsider.com • 11h ago
 
 ---
 
@@ -216,15 +216,15 @@ markets.businessinsider.com • 7h ago
 
 The DeFi ecosystem has grabbed the news in recent days. The $292 million exploit of Kelp affected other leading DeFi protocols, including Aave.As the leading DeFi blockchain, Ethereum is also feeling the impact, with DeFi platforms losing over $10 billion since the start of the week.However, Ethere…
 
-TradingView • 16h ago
+TradingView • 19h ago
 
 ---
 
-**['Axie Infinity' Gaming Network Ronin Sets Date for Ethereum Layer-2 Migration](https://decrypt.co/365131/axie-infinity-gaming-network-ronin-ethereum-layer-2-migration)**
+**[Ethereum news: Bitmine (BMNR) to buy 10,000 ETH for $23.8M from Ethereum Foundation](https://www.coindesk.com/business/2026/04/24/bitmine-to-buy-10-000-ether-for-usd23-8-million-from-the-ethereum-foundation)**
 
-The Ronin gaming network will slash RON token inflation from over 20% to less than 1% while introducing automated developer rewards.
+The transaction brings the firm’s holdings closer to the 5% of all ETH milestone.
 
-Decrypt • 2d ago
+CoinDesk • 11h ago
 
 ---
 
@@ -238,37 +238,7 @@ Most people are declaring altcoins dead, but the crypto charts tell a completely
 
 📺 Crypto Capital Venture
 
-👁️ 6K • 👍 422 • 💬 87 • ⏱️ 13:20 • 9h ago
-
----
-
-**[⚠️ Ethereum&#39;s Dark Days](https://www.youtube.com/watch?v=qlSFMBC7YXs)**
-
-Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 2K • 👍 57 • 💬 12 • ⏱️ 8:31 • 10h ago
-
----
-
-**[&quot;UNBELIEVABLE! Ethereum&#39;s About to Pull the Surprise of the Year&quot;: Tom Lee | (New Prediction 2026)](https://www.youtube.com/watch?v=iE8700MrZQY)**
-
-"UNBELIEVABLE! Ethereum's About to Pull the Surprise of the Year": Tom Lee | (New Prediction 2026) Something is wrong with ...
-
-📺 Library Of Wealth
-
-👁️ 335 • 👍 23 • 💬 56 • ⏱️ 16:26 • 7h ago
-
----
-
-**[Cathie Wood &amp; Tom Lee: &quot;Ethereum Is Going To $60,000 - Here&#39;s The Math Nobody Is Talking About&quot;](https://www.youtube.com/watch?v=MGpEZhlNlpU)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 18K • 👍 476 • 💬 48 • ⏱️ 18:59 • 2d ago
+👁️ 7K • 👍 472 • 💬 130 • ⏱️ 13:20 • 12h ago
 
 ---
 
@@ -278,7 +248,57 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 13K • 👍 395 • 💬 44 • ⏱️ 23:11 • 1d ago
+👁️ 13K • 👍 404 • 💬 45 • ⏱️ 23:11 • 1d ago
+
+---
+
+**[⚠️ Ethereum&#39;s Dark Days](https://www.youtube.com/watch?v=qlSFMBC7YXs)**
+
+Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 2K • 👍 63 • 💬 14 • ⏱️ 8:31 • 14h ago
+
+---
+
+**[Why This Ethereum Rally Might Be a Setup for Lower Prices](https://www.youtube.com/watch?v=08DMA31tS9k)**
+
+Ethereum is consolidating just below a descending trend line that has been with us since the October 2025 high. The market is ...
+
+📺 More Crypto Online
+
+👁️ 761 • 👍 73 • 💬 5 • ⏱️ 10:43 • 3h ago
+
+---
+
+**[Cathie Wood &amp; Tom Lee: &quot;Ethereum Is Going To $60,000 - Here&#39;s The Math Nobody Is Talking About&quot;](https://www.youtube.com/watch?v=MGpEZhlNlpU)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 19K • 👍 477 • 💬 49 • ⏱️ 18:59 • 2d ago
+
+---
+
+**[Ethereum BEARISH Volume, Next Crash Confirmed?](https://www.youtube.com/watch?v=vkHNhFW45E4)**
+
+Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
+
+📺 Trade Confident
+
+👁️ 242 • 👍 16 • 💬 2 • ⏱️ 6:54 • 9h ago
+
+---
+
+**[&quot;UNBELIEVABLE! Ethereum&#39;s About to Pull the Surprise of the Year&quot;: Tom Lee | (New Prediction 2026)](https://www.youtube.com/watch?v=iE8700MrZQY)**
+
+"UNBELIEVABLE! Ethereum's About to Pull the Surprise of the Year": Tom Lee | (New Prediction 2026) Something is wrong with ...
+
+📺 Library Of Wealth
+
+👁️ 478 • 👍 28 • 💬 153 • ⏱️ 16:26 • 11h ago
 
 ---
 
@@ -288,47 +308,27 @@ Bitmine (BMNR) is quietly building one of the largest Ethereum treasuries in the
 
 📺 BiGB Stcok
 
-👁️ 124 • 👍 13 • ⏱️ 10:01 • 2h ago
+👁️ 435 • 👍 25 • ⏱️ 10:01 • 6h ago
 
 ---
 
-**[🚨 MSTR Signals New Bitcoin Cycle, BTC Hits $78K Wall &amp; Tom Lee Linked to Massive ETH Accumulation](https://www.youtube.com/watch?v=f3EqjwRGgIk)**
+**[XRP News Today: Goldman Sachs Just Chose XRP Over Ethereum — JPMorgan Confirms Why](https://www.youtube.com/watch?v=Yp3jYUkuyd8)**
 
-Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.tedmcgrathbrands.com/optin-money-game-yt ...
+XRP news today and crypto news today are converging on the same story — Goldman Sachs has integrated Ripple infrastructure ...
 
-📺 MONEY GAME
+📺 The Bull Winkle Blue Print
 
-👁️ 3K • 👍 108 • 💬 25 • ⏱️ 38:00 • 13h ago
-
----
-
-**[BITCOIN PRICE SQUEEZE: Everyone is WRONG (Again)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=eLoUMABhteQ)**
-
-BITCOIN PRICE SQUEEZE: Everyone is WRONG (Again)!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
-
-📺 Crypto World
-
-👁️ 6K • 👍 274 • 💬 103 • ⏱️ 19:14 • 11h ago
+👁️ 143 • 👍 30 • 💬 2 • ⏱️ 13:41 • 25m ago
 
 ---
 
-**[🟢 Ethereum… $10K Sooner Than You Think?](https://www.youtube.com/watch?v=oI2-l-tvwas)**
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=yOhYhx-kE0w)**
 
-Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
 
-📺 🌟yourfriendsommi
+📺 Crypto Gyan
 
-👁️ 2K • 👍 263 • 💬 16 • ⏱️ 16:22 • 1d ago
-
----
-
-**[Ethereum 20% Rally is Confirmed if...](https://www.youtube.com/watch?v=Eu2BioKJhvY)**
-
-AI ALGO Trading Masterclass   https://youtube.com/live/kXYu-GRsXIU Zero Trading Fees offer US Stocks, Metals, Crude Oil and ...
-
-📺 Investographer
-
-👁️ 743 • 👍 57 • 💬 12 • ⏱️ 8:21 • 6h ago
+👁️ 156 • 👍 30 • ⏱️ 7:03 • 1h ago
 
 ---
 
