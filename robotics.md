@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-25T19:26:21.831592+00:00'
+updated: '2026-04-25T20:02:15.195793+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 25, 2026 at 19:26 UTC  
+**Last Updated:** April 25, 2026 at 20:02 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[A smarter approach on autonomous exploration](https://www.reddit.com/r/robotics/comments/1sv7le7/a_smarter_approach_on_autonomous_exploration/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -42,13 +42,13 @@ Robotics research and industry news
 
 From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2047765371734704574
 
-10h ago
+11h ago
 
 ---
 
 **[Thought-controlled robotic arm by Neuralink aimed at restoring independence for paralyzed patients](https://www.reddit.com/r/robotics/comments/1svh8t5/thoughtcontrolled_robotic_arm_by_neuralink_aimed/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -56,7 +56,7 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2047765371734704574
 
 For beginners wanting to get started with the SO-101 arm, I found that there are a lot of hurdles to jump through. From the current documentation, while a great resource for those with intermediate knowledge of robotics, isn't a great resource for beginners as it requires knowledge of git, terminal commands, assembly, wiring, and much more in the robotic world. So I made a 2.5h course that walks beginners through how to train your won ACT model with the SO-101 arm. Understandably, the official LeRobot documentation can't step users through every step/debug step possible, as that would make things far too long for experienced users wanting to get in, who their target audience is I imagine. That said, the ACT model is such a useful training model for beginners to understand/comprehend and use, that I wanted to create an easier on-boarding path for beginners getting started. Would love to hear your thoughts.
 
-🔗 [youtu.be](https://youtu.be/p6YIkDhPNyo) • 1h ago
+🔗 [youtu.be](https://youtu.be/p6YIkDhPNyo) • 2h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hi r/robotics, We’re the team from Hertzinno, and we develop industrial acoust
 
 Hi All, I am currently working on so101 and am familiar with data collection, training, eval following the lerobot recipes. I wanted to go further and learn better about how to do the same in simulation and use that as a starting point for doing RL from IM. Are there any good guides? Anyone done this before? I understand this might not be a standard path especially with sim-real gap. However wanted to go down this path to better understand the concepts and learn (plus AI tools recommended it)
 
-14h ago
+15h ago
 
 ---
 
@@ -160,7 +160,7 @@ Fox Business • 2d ago
 
 More than 20 students from Southwest Detroit are preparing to compete on the global stage after qualifying for the 2026 FIRST Robotics World Championship in Houston, Texas.
 
-Yahoo • 5h ago
+Yahoo • 6h ago
 
 ---
 
@@ -178,7 +178,7 @@ Democracy Now! • 1d ago
 
 **[Physical AI: Where Artificial Intelligence Rubber Meets The Road](https://www.investors.com/news/physical-ai-jensen-huang-nvidia-artificial-intelligence-robotics/)**
 
-Investor's Business Daily • 1d ago
+Investor's Business Daily • 2d ago
 
 ---
 
@@ -186,7 +186,7 @@ Investor's Business Daily • 1d ago
 
 Smoke rises from a village in southern Lebanon as the Israeli army operates in it as seen from the Israeli …
 
-Algemeiner.com • 22h ago
+Algemeiner.com • 23h ago
 
 ---
 
@@ -200,7 +200,7 @@ What is the best robot vacuum in 2026? After testing over 200 robot vacuums with
 
 📺 Just A Dad Approved
 
-👁️ 2K • 👍 147 • 💬 31 • ⏱️ 13:40 • 7h ago
+👁️ 2K • 👍 147 • 💬 31 • ⏱️ 13:40 • 8h ago
 
 ---
 
@@ -230,7 +230,7 @@ New Spider Shoggoth Robot. This is so weird. We got a new robot on the test serv
 
 📺 PREDATOR WR
 
-👁️ 12K • 👍 473 • 💬 149 • ⏱️ 15:36 • 7h ago
+👁️ 12K • 👍 473 • 💬 149 • ⏱️ 15:36 • 8h ago
 
 ---
 

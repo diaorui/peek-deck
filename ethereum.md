@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-25T19:26:21.828752+00:00'
+updated: '2026-04-25T20:02:15.192561+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
+- social
 - videos
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 25, 2026 at 19:26 UTC  
+**Last Updated:** April 25, 2026 at 20:02 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 been spending way too much time looking at the recent string of defi exploits and the amount of supply locked up in the same three lst platforms is honestly giving me anxiety. having that much of the network reliant on a few centralized points of failure makes me paranoid about massive tail risks. every time the market swings i find myself wanting to hedge this exposure, but the options are terrible. you either convert to fiat and trigger taxable events, or you play russian roulette with wrapped assets and multisig bridges that seem to get drained every other week. i went down a rabbit hole last night trying to find a way to secure my yields natively, maybe even hedging with digital gold or something stable, without fragmenting my liquidity across a dozen vulnerable front-ends. what are you guys actually doing to protect your bags long term? are we just stuck choosing between bare validator yields and accepting the centralized lst risk? curious if anyone has found a trust-minimized way to hedge this without leaving the ecosystem.
 
-5h ago
+6h ago
 
 ---
 
@@ -194,7 +194,7 @@ Barron's • 2d ago
 
 Grayscale staked 102,400 ETH worth $237M via its Ethereum Staking ETF. Ethereum reaching $10,000 by December 31, 2026 at 4% YES.
 
-Crypto Briefing • 14h ago
+Crypto Briefing • 15h ago
 
 ---
 
@@ -208,7 +208,7 @@ TipRanks • 1d ago
 
 Start with understanding how the three cryptos differ.
 
-money.com • 23h ago
+money.com • 1d ago
 
 ---
 
@@ -248,7 +248,7 @@ THEY ARE PREDICTING - $500K BITCOIN, $40K ETHEREUM, AND $50 XRP BY THIS DATE! GE
 
 📺 Austin Hilton
 
-👁️ 2K • 👍 251 • 💬 15 • ⏱️ 9:47 • 2h ago
+👁️ 2K • 👍 251 • 💬 15 • ⏱️ 9:47 • 3h ago
 
 ---
 
@@ -308,7 +308,7 @@ Ethereum has quietly become one of the most watched assets in this bull market c
 
 📺 Sir Luis
 
-👁️ 21 • 👍 2 • 💬 4 • ⏱️ 11:42 • 3h ago
+👁️ 21 • 👍 2 • 💬 4 • ⏱️ 11:42 • 4h ago
 
 ---
 
@@ -318,7 +318,7 @@ Ethereum is consolidating just below a descending trend line that has been with 
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 218 • 💬 20 • ⏱️ 10:43 • 19h ago
+👁️ 3K • 👍 218 • 💬 20 • ⏱️ 10:43 • 20h ago
 
 ---
 

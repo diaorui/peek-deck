@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-25T19:26:21.823481+00:00'
+updated: '2026-04-25T20:02:15.186567+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
+- social
 - videos
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 25, 2026 at 19:26 UTC  
+**Last Updated:** April 25, 2026 at 20:02 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 The US Treasury froze $344 million in USDT linked to Iran with a single call to Tether. Bitcoin kept processing every Iranian transaction without interruption. That is the whole story.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/us-froze-tether-iran-bitcoin-untouchable/) • 6h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/us-froze-tether-iran-bitcoin-untouchable/) • 7h ago
 
 ---
 
@@ -89,7 +89,7 @@ The US Treasury froze $344 million in USDT linked to Iran with a single call to 
 
 Hi all. I need some explanation on the risk of KYC. I’m sure we’ve all seen the recent kidnappings in France due to governments leaking KYC data showing purchases etc. obviously is exchanges like Coinbase and finance face the same data leaks, it put you at risk for a wrench attack because they have your physical location. My question is, how do the attackers even know you have access to the wallets you withdrew to? Let’s say I purchase 100BTC on Coinbase and withdraw to cold storage. How do the attackers even know I have access to that cold storage wallet? Seems like a gamble? I could’ve also sent it to the wrong address. Also, if I go Coinbase -> Cold storage -> new wallet -> new wallet how would they know? Especially if the public key hasn’t been exposed showing all wallet addresses for the final wallet it resides in
 
-🔗 [coindesk.com](https://www.coindesk.com/business/2026/04/19/inside-the-rise-of-wrench-attacks-against-crypto-holders-and-how-france-has-become-the-focus) • 2h ago
+🔗 [coindesk.com](https://www.coindesk.com/business/2026/04/19/inside-the-rise-of-wrench-attacks-against-crypto-holders-and-how-france-has-become-the-focus) • 3h ago
 
 ---
 
@@ -97,7 +97,7 @@ Hi all. I need some explanation on the risk of KYC. I’m sure we’ve all seen 
 
 I have private keys from years ago to wallets that I've abandoned. Even though I don't use them and never plan to, I have a fear that I'll accidentally fund an old wallet from something that I forgot about (old exchange, someone tipping me to an old address, who-knows-what). I was imagining some little self-hosted app on my node that checks new blocks against known archived wallets and lets me know if a transaction matches - or for larger amounts, sweeps the funds automatically. I don't have anything like this, so I have copies of private keys and (for more recent wallets) seed phrases backed up in various places. I'm sure that I should be more organized about it, but what's the best way? I could see it getting out of hand easily and taking ages to go through everything on the regular to check balances. I look forward to a discussion on the best way to handle this. What are your ideas/solutions?
 
-3h ago
+4h ago
 
 ---
 
@@ -111,7 +111,7 @@ I have private keys from years ago to wallets that I've abandoned. Even though I
 
 Ppl only looking at short term liquidity saying shorts have been liquidated. But have u paid attention to older liquidity building up since March? Goes all the way up to 96k. And there is a ton of it. Pay attention to the sideways consolidation, we have been doing this every weekend and then pumping to the upside. Everyone and their mom is shorting here. That means a very very very strong chance of upside. We’re going into the 80s at the very least. Do not short and get rekt. Dca/buy and hold
 
-54m ago
+1h ago
 
 ---
 
@@ -119,7 +119,7 @@ Ppl only looking at short term liquidity saying shorts have been liquidated. But
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-13h ago
+14h ago
 
 ---
 
@@ -127,7 +127,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 If any of you folks are coming to Vegas for Bitcoin 2026, I've compiled a list (and map) of meetups and side events. These tend to be much more fun and enjoyable than the actual Conference. If you're on mobile, you'll likely need the Google Docs app for working links. I'm hitting Hotstyle Takeover, the Bitcoin Today meetup, the Club Orange meetup, NosVegas, and then hosting Steak 'N Shake 'N Sats and the Vegas Bitcoiners Happy Hour on Wednesday.
 
-🔗 [Google Docs](https://docs.google.com/document/d/1RqlQl4vdKZtReFQpIh0h820Q10khCc6gI56xKW4N1-M) • 13h ago
+🔗 [Google Docs](https://docs.google.com/document/d/1RqlQl4vdKZtReFQpIh0h820Q10khCc6gI56xKW4N1-M) • 14h ago
 
 ---
 
@@ -135,7 +135,7 @@ If any of you folks are coming to Vegas for Bitcoin 2026, I've compiled a list (
 
 I have tremendous trusts on wallets because its math foundation. But today, something happened and I am a little in doubt. Today, when i try to restore my wallet using seed phrase, I accidentally made a mistake, but I ended up restoring another wallet that is not mine. Even though there is no any coin in it, it casts a doubt on wallet’s safety. What if someone who created the wallet has put coins in it? What are the chances that someone else accidentally restore mine? Just genuinely questions from a long time hodler. I hope I get answers that resolve me concerns
 
-19h ago
+20h ago
 
 ---
 
@@ -171,7 +171,7 @@ CoinDesk • 4h ago
 
 Tennessee has become the second U.S. state to outlaw Bitcoin and crypto ATMs, making it a criminal offense to own or operate the machines.
 
-Decrypt • 22h ago
+Decrypt • 23h ago
 
 ---
 
@@ -179,7 +179,7 @@ Decrypt • 22h ago
 
 BitMEX co-founder Arthur Hayes predicts Bitcoin will hit $145,000 by year end as the Federal Reserve quietly expands its balance sheet by $40 billion per month and wartime spending forces commercial banks to print money. The Fed Is Already Printing...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -187,7 +187,7 @@ Yahoo Finance • 1h ago
 
 IBIT options open interest topped Deribit on Friday, signaling rapid institutional adoption of regulated crypto derivatives in the U.S.
 
-CoinDesk • 53m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -195,7 +195,7 @@ CoinDesk • 53m ago
 
 Scott Melker, the host of "The Wolf of All Streets" podcast, breaks down the massive inflows going into bitcoin (BTC-USD) ETFs and what it means for the crypto market going forward. "The Daily Wolf with Scott Melker" airs on Yahoo Finance every day at 12:00 p.m. Tune in for your daily dose of all things crypto.Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
 
-Yahoo Finance • 3d ago
+Yahoo Finance • 4d ago
 
 ---
 
@@ -217,7 +217,7 @@ The Block • 1d ago
 
 **[Bitcoin’s Stealth Rally Has Traders Setting Sights on $80,000](https://www.bloomberg.com/news/articles/2026-04-25/bitcoin-s-stealth-rally-has-traders-setting-sights-on-80-000)**
 
-Bloomberg.com • 6h ago
+Bloomberg.com • 7h ago
 
 ---
 
@@ -229,7 +229,7 @@ The New York Times • 2d ago
 
 **[Bitcoin Price Outshines Gold Again, Powered By Strategy](https://www.investors.com/news/bitcoin-price-outshines-gold-april-2026-strategy-buying-power-mstr-stock/)**
 
-Investor's Business Daily • 22h ago
+Investor's Business Daily • 23h ago
 
 ---
 
@@ -241,7 +241,7 @@ Investor's Business Daily • 22h ago
 
 Build wallets, issue stablecoins, and move BTC instantly: all natively on Bitcoin. No bridges, no custodians. Start building with Spark's SDKs today.
 
-⬆️ 5 • 💬 1 • 1d ago • [Spark](https://www.spark.money)
+⬆️ 5 • 💬 1 • 2d ago • [Spark](https://www.spark.money)
 
 ---
 
@@ -323,7 +323,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 17K • 👍 1K • 💬 52 • ⏱️ 57:11 • 6h ago
+👁️ 17K • 👍 1K • 💬 52 • ⏱️ 57:11 • 7h ago
 
 ---
 
@@ -333,7 +333,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRus Extra
 
-👁️ 2K • 👍 198 • 💬 98 • ⏱️ 8:10 • 4h ago
+👁️ 2K • 👍 198 • 💬 98 • ⏱️ 8:10 • 5h ago
 
 ---
 
@@ -353,7 +353,7 @@ Gareth uses it! Download Rumble Wallet now and enjoy the benefits of financial a
 
 📺 Gareth Soloway
 
-👁️ 24K • 👍 2K • 💬 289 • ⏱️ 10:41 • 5h ago
+👁️ 24K • 👍 2K • 💬 289 • ⏱️ 10:41 • 6h ago
 
 ---
 
