@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-25T08:31:26.332256+00:00'
+updated: '2026-04-25T09:54:06.605002+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
 - videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 25, 2026 at 08:31 UTC  
+**Last Updated:** April 25, 2026 at 09:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
-**7d:** +2.4%  
-**30d:** +16.3%  
-**90d:** -20.9%  
-**1y:** +27.3%  
+**24h:** +0.1%  
+**7d:** +2.5%  
+**30d:** +16.4%  
+**90d:** -20.8%  
+**1y:** +27.4%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Aave DAO offers to contribute 25,000 ETH toward DeFi United, a coordinated ecosystem recovery effort to restore the full backing of KelpDAO's rsETH. The coalition, which includes Lido, EtherFi, Ethena, Mantle, and others, aims to cover a ~75,081 ETH residual shortfall.
 
-🔗 [Aave](https://governance.aave.com/t/arfc-rseth-incident-funding-update/24740) • 13h ago
+🔗 [Aave](https://governance.aave.com/t/arfc-rseth-incident-funding-update/24740) • 14h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Been thinking about this after watching how quickly narratives can shift online when a single high-profile account amplifies something. For example, when someone like Elon Musk boosts a topic (whether it’s tech, markets, or even something like Restore Britain), you can see attention move almost instantly. Not necessarily adoption but definitely awareness and discussion. It made me wonder how this fits into Ethereum’s whole “credible neutrality” idea. On paper: Ethereum is decentralised No single actor controls the protocol Consensus is distributed But in practice: Social layers (Twitter/X, Reddit, influencers) still shape what people look at Narratives form off-chain before anything happens onchain Attention itself is still pretty centralised So the question is does Ethereum actually solve the influence problem or just move it up a layer?
 
-17h ago
+18h ago
 
 ---
 
@@ -104,7 +104,7 @@ Been thinking about this after watching how quickly narratives can shift online 
 
 Etherealize: ETH is productive money, DeFi united: effort to restore rsETH backing, Arbitrum security council froze exploiter ETH
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-20/) • 19h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-20/) • 20h ago
 
 ---
 
@@ -156,13 +156,13 @@ TVL is the default metric for DeFi lending protocols. For this category specific
 
 Bitmine Immersion also spent about $10 million when it bought 5,000 ETH from the Ethereum Foundation last month.
 
-The Block • 16h ago
+The Block • 18h ago
 
 ---
 
-**[Is Anthropic's Mythos AI a Threat to Ethereum and Solana?](https://www.fool.com/investing/2026/04/23/is-anthropics-mythos-ai-a-threat-to-ethereum-and-s/)**
+**[Is Owning Just Bitcoin and Ethereum Enough for a Crypto Portfolio?](https://www.fool.com/investing/2026/04/23/is-owning-just-bitcoin-and-ethereum-enough-for-a-c/)**
 
-An unreleased AI model is sending crypto into a panic, but it's only half relevant to the real ongoing problems.
+Simple portfolios can often outperform overly complicated ones.
 
 The Motley Fool • 1d ago
 
@@ -172,7 +172,7 @@ The Motley Fool • 1d ago
 
 Institutions have been dipping into XRP (CRYPTO: XRP), but they’re not committing huge capital yet. A Coinbase survey last month showed that 18% of big funds already hold XRP and 25% plan to add exposure this year, but 65% are still waiting on regulatory clarity before going bigger. While the wait continues, the infrastructure those ... XRP News: Coinbase Just Put XRP on the Same Footing as Bitcoin, Ethereum, and Gold
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -182,25 +182,9 @@ Barron's • 1d ago
 
 ---
 
-**[BitMine’s Tom Lee Sees Ethereum’s Price Reaching $250,000](https://finance.yahoo.com/markets/crypto/articles/bitmine-tom-lee-sees-ethereum-135000677.html)**
-
-Tom Lee, the chairman of BitMine Immersion Technologies (NYSE: $BMNR) sees the price of Ethereum (CRYPTO: $ETH) eve...
-
-Yahoo Finance • 1d ago
-
----
-
 **[Ethereum Eyes a Monster $6,000 Price as 3 Hidden Signals Flash a Massive Green Light](https://www.tipranks.com/news/ethereum-eyes-a-monster-6000-price-as-3-hidden-signals-flash-a-massive-green-light)**
 
-TipRanks • 18h ago
-
----
-
-**[Will Ethereum Reach $250,000 Before Bitcoin? Here’s What Needs To Happen](https://www.tradingview.com/news/newsbtc:4934c1721094b:0-will-ethereum-reach-250-000-before-bitcoin-here-s-what-needs-to-happen/)**
-
-Etherealize, an institutional adoption and advocacy group backed by the Ethereum Foundation, has made a bold prediction, suggesting that ETH could one day reach $250,000 before Bitcoin (BTC). The group said that if Ethereum can capture a share of the combined monetary premium of gold and Bitcoin, t…
-
-TradingView • 21h ago
+TipRanks • 20h ago
 
 ---
 
@@ -208,7 +192,7 @@ TradingView • 21h ago
 
 Grayscale staked 102,400 ETH worth $237M via its Ethereum Staking ETF. Ethereum reaching $10,000 by December 31, 2026 at 4% YES.
 
-Crypto Briefing • 3h ago
+Crypto Briefing • 5h ago
 
 ---
 
@@ -216,15 +200,31 @@ Crypto Briefing • 3h ago
 
 Dubai, UAE, April  24, 2026  (GLOBE NEWSWIRE) -- The Ethereum based token Pepeto just confirmed that its latest presale stage cleared out in hours...
 
-markets.businessinsider.com • 15h ago
+markets.businessinsider.com • 17h ago
 
 ---
 
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC holds gains, ETH eyes breakout, XRP defends key support](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-holds-gains-eth-eyes-breakout-xrp-defends-key-support-202604240334)**
+**[Bullish Ripple (XRP) Signals, Ethereum (ETH) Price Predictions, and More: Bits Recap, April 24](https://cryptopotato.com/bullish-ripple-xrp-signals-ethereum-eth-price-predictions-and-more-bits-recap-april-24/)**
 
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) are supporting a constructive outlook on Friday after surging by 6%, 2% and 3% so far this week, respectively.
+Here's what's new and catching attention around XRP, ETH, and DOGE.
 
-FXStreet • 1d ago
+CryptoPotato • 10h ago
+
+---
+
+**[Ethereum’s 4 consecutive weeks of price rallies fuel bullish bets of $3200](https://cryptoslate.com/ethereums-4-consecutive-week-rallies-fuel-bullish-bets-of-3200/)**
+
+Ethereum traders just piled $322 million into $3,200 call options and the real reason for the bet isn’t simple hype.
+
+CryptoSlate • 13h ago
+
+---
+
+**[Kevin O'Leary Says 'Just Own Bitcoin And Ethereum' As Altcoins 'Never Came Back'](https://www.benzinga.com/crypto/cryptocurrency/26/04/52001824/kevin-oleary-says-just-own-bitcoin-and-ethereum-as-altcoins-never-came-back)**
+
+Shark Tank star Kevin O&#8217;Leary said investors only need to own Bitcoin (CRYPTO: BTC) and Ethereum
+
+Benzinga • 1d ago
 
 ---
 
@@ -248,7 +248,7 @@ Most people are declaring altcoins dead, but the crypto charts tell a completely
 
 📺 Crypto Capital Venture
 
-👁️ 8K • 👍 516 • 💬 132 • ⏱️ 13:20 • 17h ago
+👁️ 8K • 👍 516 • 💬 132 • ⏱️ 13:20 • 18h ago
 
 ---
 
@@ -258,7 +258,7 @@ Most people are declaring altcoins dead, but the crypto charts tell a completely
 
 📺 Library Of Wealth
 
-👁️ 674 • 👍 34 • 💬 153 • ⏱️ 16:26 • 16h ago
+👁️ 674 • 👍 34 • 💬 153 • ⏱️ 16:26 • 17h ago
 
 ---
 
@@ -268,7 +268,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 71 • 💬 18 • ⏱️ 8:31 • 19h ago
+👁️ 2K • 👍 71 • 💬 18 • ⏱️ 8:31 • 20h ago
 
 ---
 
@@ -278,7 +278,7 @@ Ethereum is consolidating just below a descending trend line that has been with 
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 143 • 💬 10 • ⏱️ 10:43 • 8h ago
+👁️ 2K • 👍 143 • 💬 10 • ⏱️ 10:43 • 10h ago
 
 ---
 
@@ -288,7 +288,7 @@ Bitmine (BMNR) is quietly building one of the largest Ethereum treasuries in the
 
 📺 BiGB Stcok
 
-👁️ 648 • 👍 29 • ⏱️ 10:01 • 11h ago
+👁️ 648 • 👍 29 • ⏱️ 10:01 • 12h ago
 
 ---
 
@@ -308,7 +308,7 @@ Get My New Book Money Game and My Daily Trading Strategy for Free: https://go.te
 
 📺 MONEY GAME
 
-👁️ 3K • 👍 110 • 💬 25 • ⏱️ 38:00 • 22h ago
+👁️ 3K • 👍 110 • 💬 25 • ⏱️ 38:00 • 23h ago
 
 ---
 
@@ -318,7 +318,7 @@ BITCOIN PRICE SQUEEZE: Everyone is WRONG (Again)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 7K • 👍 307 • 💬 168 • ⏱️ 19:14 • 20h ago
+👁️ 7K • 👍 307 • 💬 168 • ⏱️ 19:14 • 21h ago
 
 ---
 
@@ -328,7 +328,7 @@ AI ALGO Trading Masterclass   https://youtube.com/live/kXYu-GRsXIU Zero Trading 
 
 📺 Investographer
 
-👁️ 1K • 👍 103 • 💬 26 • ⏱️ 8:21 • 15h ago
+👁️ 1K • 👍 103 • 💬 26 • ⏱️ 8:21 • 16h ago
 
 ---
 
