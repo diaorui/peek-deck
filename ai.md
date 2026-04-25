@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-25T20:02:15.178097+00:00'
+updated: '2026-04-25T21:04:45.663177+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
+- videos
 - social
 - repositories
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 25, 2026 at 20:02 UTC  
+**Last Updated:** April 25, 2026 at 21:04 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,27 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Gen Alpha boys are preferring “AI girlfriends” over real ones](https://www.reddit.com/r/artificial/comments/1svesyt/gen_alpha_boys_are_preferring_ai_girlfriends_over/)**
-
-A new survey carried out amongst 12 to 16-year-old boys has found that many of them prefer to use AI chatbots than engage with other people their age.
-
-🔗 [Dexerto](https://www.dexerto.com/entertainment/gen-alpha-boys-are-preferring-ai-girlfriends-over-real-ones-3356718/) • 4h ago
-
----
-
 **[Palantir employees are talking about company's "descent into fascism". Slack messages, interviews with current and former works paint picture of company in turmoil.](https://www.reddit.com/r/artificial/comments/1svitaf/palantir_employees_are_talking_about_companys/)**
 
 Slack messages, interviews with current and former works paint picture of company in turmoil.
 
-🔗 [Ars Technica](https://arstechnica.com/tech-policy/2026/04/palantir-employees-are-talking-about-companys-descent-into-fascism/) • 2h ago
+🔗 [Ars Technica](https://arstechnica.com/tech-policy/2026/04/palantir-employees-are-talking-about-companys-descent-into-fascism/) • 3h ago
+
+---
+
+**[Gen Alpha boys are preferring “AI girlfriends” over real ones](https://www.reddit.com/r/artificial/comments/1svesyt/gen_alpha_boys_are_preferring_ai_girlfriends_over/)**
+
+A new survey carried out amongst 12 to 16-year-old boys has found that many of them prefer to use AI chatbots than engage with other people their age.
+
+🔗 [Dexerto](https://www.dexerto.com/entertainment/gen-alpha-boys-are-preferring-ai-girlfriends-over-real-ones-3356718/) • 5h ago
+
+---
+
+**[Gemini AI is doing free marketing for my private discord community 💀](https://www.reddit.com/r/artificial/comments/1svna3s/gemini_ai_is_doing_free_marketing_for_my_private/)**
+
+But in the wrong way Crazy encounter 🤣 Another reason to use claude daily
+
+25m ago
 
 ---
 
@@ -57,39 +65,7 @@ Slack messages, interviews with current and former works paint picture of compan
 
 I work for a Fortune 100 company that is not in the tech space. The company is increasingly using AI to make employees more productive. They have introduced internal AI chat tools that allow selection of OpenAI or Gemini models. We’ve also rolled out M365 Copilot to executives and middle managers. (While not earth-shattering, it certainly has made me more productive and integrates well with our Microsoft ecosystem.) Where I have not seen it as much is in our tool development/digital solutions. While there is a lot of talk about it being embedded in decision making in the future, I’ve not seen it used effectively by our internal developers or external developer partners. I keep waiting for a significant increase in the pace of feature development. Are others feeling this tension, where the expectation of faster feature development via AI is meeting reality or are we just falling behind?
 
-4h ago
-
----
-
-**[GPT-5.5: 'strongest agentic coding model ever' failing spectacularly at its own game (LiveBench)](https://www.reddit.com/r/artificial/comments/1sv4l94/gpt55_strongest_agentic_coding_model_ever_failing/)**
-
-Oops! "GPT‑5.5 is our strongest agentic coding model to date." "The gains are especially strong in agentic coding." "Instead of carefully managing every step, you can give GPT‑5.5 a messy, multi-part task and trust it to plan, use tools, check its work, navigate through ambiguity, and keep going." These quotations sum up OpenAI's spin on 5.5. They created an entirely new subscription tier for it and made it the focus of Codex. Here, agentic coding isn’t just a feature but the selling point. Well, looking at LiveBench’s independent agentic coding score, this is just a lot of hot air. The score for GPT-5.5 xHigh Effort is 56.67. Its predecessor, GPT-5.4, thrashes it at 70.00 on the same benchmark. Gemini 3.1 Pro, Claude 4.6 and others easily outperform it, too. In this highly relevant benchmark alone, it actually ranks 11th, just behind GPT-5.1 Codex. While OpenAI were able to max Terminal-Bench (their benchmark) and SWE-Bench Pro, in a reliable test they didn’t design, select, or control, their main model falls drastically short compared both to its predecessor and the competition in the area it was meant to excel in. Is this as damning as it looks? What's your experience actually using 5.5 for agentic coding?
-
-13h ago
-
----
-
-**[Built cross-model persistent memory - told GPT-5 Nano I live in Bahrain, asked Sonnet 4.6 where I live, it knew instantly](https://www.reddit.com/r/artificial/comments/1svixo0/built_crossmodel_persistent_memory_told_gpt5_nano/)**
-
-https://reddit.com/link/1svixo0/video/hgwrueuekdxg1/player No tricks, no copy-paste. Two completely different AI models, separate conversations - one remembers what the other was told. The way it works: every message gets embedded and stored. When you open a new chat with any model, your memory is injected into context automatically. GPT, Claude, Gemini, Grok and DeepSeek - they all share the same memory layer. So when I told GPT-5 Nano "I live in Bahrain" and then opened a fresh Claude Sonnet 4.6 conversation and asked "where do I live?" - it said "Based on your memory, you live in Bahrain 🇧🇭" Live on asksary.com now
-
-2h ago
-
----
-
-**[Got into the Anthropic Claude Partner Network — have spots for people who want CCAF cert access](https://www.reddit.com/r/artificial/comments/1sv02t1/got_into_the_anthropic_claude_partner_network/)**
-
-Just got accepted into the Anthropic Claude Partner Network. Part of the requirement is completing the CPN learning path with 10 people under our org’s domain. The learning path is 4 courses on Anthropic Academy — Agent Skills, Claude API, MCP, and Claude Code in Action. Once all 10 finish, the org gets CCAF exam access unlocked. The exam is currently free for partner org members if anyone here is already working with Claude and wants to complete this alongside us. You’d use a company domain email alias we set up — courses are fully self-paced. The courses are genuinely useful if you’re building with Claude. Comment or DM if relevant to you.
-
-17h ago
-
----
-
-**[The AI that actually helps vs the AI that's just hype](https://www.reddit.com/r/artificial/comments/1svkq7v/the_ai_that_actually_helps_vs_the_ai_thats_just/)**
-
-There's this weird split happening right now. Some AI tools are genuinely making people's lives easier. Others are sitting unused because they don't solve a real problem. I've noticed a pattern. The AI tools that people actually stick with aren't the flashy ones. They're the ones that slot directly into something you already do. Take AI transcription. Most people demo it once and stop because the setup is friction-heavy. But if you're someone who does a lot of interviews or meeting notes, a tool that just sits there and transcribes in the background? That changes your workflow completely. Or custom AI chatbots built on your own docs. Developers love talking about fine-tuning and prompt engineering. But the real use case that gets adoption is simpler: small business owner uploads their FAQ, their product docs, gets an AI that answers customer questions. No API knowledge required. No prompt engineering needed. The difference isn't the AI itself. It's the problem fit. I think a lot of people jump into AI expecting it to revolutionize everything. The reality is it's better at solving specific, repetitive problems. If you're not doing something repetitive or if you already have a system that works, AI isn't going to dramatically improve your life. Where do you see the problem fit actually working? What AI tools have actually changed how you work instead of just being a novelty?
-
-1h ago
+5h ago
 
 ---
 
@@ -97,23 +73,47 @@ There's this weird split happening right now. Some AI tools are genuinely making
 
 Why tech giants are starting to restrict their most capable models from the public.
 
-🔗 [TIME](https://time.com/article/2026/04/24/claude-mythos-chatgpt-rosalind-release-dangerous/) • 1h ago
+🔗 [TIME](https://time.com/article/2026/04/24/claude-mythos-chatgpt-rosalind-release-dangerous/) • 2h ago
 
 ---
 
-**[updated the AI tools library, new tools, a whole new category, and a new home](https://www.reddit.com/r/artificial/comments/1svcwmq/updated_the_ai_tools_library_new_tools_a_whole/)**
+**[Built cross-model persistent memory - told GPT-5 Nano I live in Bahrain, asked Sonnet 4.6 where I live, it knew instantly](https://www.reddit.com/r/artificial/comments/1svixo0/built_crossmodel_persistent_memory_told_gpt5_nano/)**
 
-been getting DMs asking about tools that don't fit the usual "AI coding assistant" box. so i finally did something about it. tolop.space (yes, new domain — more on that below) what's new: added Atoms :- multi-agent app builder where 7 AI roles (PM, engineer, architect, SEO specialist, data analyst, researcher, team lead) collaborate to build your product. has a genuine forever-free plan with 15 credits/day, not a time-limited trial. added Leadline :- finds Reddit posts where people are actively looking to switch tools or asking for recommendations, with AI-drafted replies included. starts at $9/month which is the cheapest Reddit lead tool i've found. but the one i'm most excited about is Transcrisper :- and it's the reason i added a whole new category. niche tools :- for single-purpose utilities that are completely free, do one thing well, and don't fit anywhere else. Transcrisper is a good example of what belongs there. free, unlimited audio/video transcription that runs entirely in your browser. no account, no uploads, no cloud — your audio never leaves your device. powered by Parakeet-TDT, open-source on GitHub. the kind of tool that's genuinely useful for journalists, researchers, or anyone handling recordings they can't send to a cloud service. the point of the niche tools category isn't AI coding tools. it's the stuff developers and builders actually use day-to-day that nobody talks about in the same breath as Cursor or Copilot. on the new domain :- moved from tolop.vercel.app to tolop.space. went with .space specifically because the whole idea of the site is discovering tools in a new space, whether that's a coding space, a research space, a building space. felt right. vercel subdomain was always temporary anyway. if you know a tool that belongs in niche tools, free, single-purpose, actually useful :- drop it below. building the category out. Btw the website is completely free, no signup, no freemium nothing
+https://reddit.com/link/1svixo0/video/hgwrueuekdxg1/player No tricks, no copy-paste. Two completely different AI models, separate conversations - one remembers what the other was told. The way it works: every message gets embedded and stored. When you open a new chat with any model, your memory is injected into context automatically. GPT, Claude, Gemini, Grok and DeepSeek - they all share the same memory layer. So when I told GPT-5 Nano "I live in Bahrain" and then opened a fresh Claude Sonnet 4.6 conversation and asked "where do I live?" - it said "Based on your memory, you live in Bahrain 🇧🇭" Live on asksary.com now
 
-6h ago
+3h ago
 
 ---
 
-**[We released an open source tool that handles AI agent setup and config. 700 stars and growing. What features do you want to see?](https://www.reddit.com/r/artificial/comments/1sv9o4y/we_released_an_open_source_tool_that_handles_ai/)**
+**[GPT-5.5: 'strongest agentic coding model ever' failing spectacularly at its own game (LiveBench)](https://www.reddit.com/r/artificial/comments/1sv4l94/gpt55_strongest_agentic_coding_model_ever_failing/)**
 
-Hey everyone, A while back we got frustrated with how painful it is to set up AI agents consistently. Every project had its own approach, configs were scattered, and the gap between what works locally vs in production was always a surprise. So we built Caliber. Open source, free, focused on making AI agent setup reproducible and sane. We just crossed 700 GitHub stars and are almost at 100 forks. Sharing here because we want feedback from people who actually work with AI systems day to day. Repo: https://github.com/caliber-ai-org/ai-setup What is your current approach to managing agent configs across environments? And if there is a specific pain point you have that Caliber does not yet solve, we want to hear it. Building in public and taking the community seriously.
+Oops! "GPT‑5.5 is our strongest agentic coding model to date." "The gains are especially strong in agentic coding." "Instead of carefully managing every step, you can give GPT‑5.5 a messy, multi-part task and trust it to plan, use tools, check its work, navigate through ambiguity, and keep going." These quotations sum up OpenAI's spin on 5.5. They created an entirely new subscription tier for it and made it the focus of Codex. Here, agentic coding isn’t just a feature but the selling point. Well, looking at LiveBench’s independent agentic coding score, this is just a lot of hot air. The score for GPT-5.5 xHigh Effort is 56.67. Its predecessor, GPT-5.4, thrashes it at 70.00 on the same benchmark. Gemini 3.1 Pro, Claude 4.6 and others easily outperform it, too. In this highly relevant benchmark alone, it actually ranks 11th, just behind GPT-5.1 Codex. While OpenAI were able to max Terminal-Bench (their benchmark) and SWE-Bench Pro, in a reliable test they didn’t design, select, or control, their main model falls drastically short compared both to its predecessor and the competition in the area it was meant to excel in. Is this as damning as it looks? What's your experience actually using 5.5 for agentic coding?
 
-8h ago
+14h ago
+
+---
+
+**[Got into the Anthropic Claude Partner Network — have spots for people who want CCAF cert access](https://www.reddit.com/r/artificial/comments/1sv02t1/got_into_the_anthropic_claude_partner_network/)**
+
+Just got accepted into the Anthropic Claude Partner Network. Part of the requirement is completing the CPN learning path with 10 people under our org’s domain. The learning path is 4 courses on Anthropic Academy — Agent Skills, Claude API, MCP, and Claude Code in Action. Once all 10 finish, the org gets CCAF exam access unlocked. The exam is currently free for partner org members if anyone here is already working with Claude and wants to complete this alongside us. You’d use a company domain email alias we set up — courses are fully self-paced. The courses are genuinely useful if you’re building with Claude. Comment or DM if relevant to you.
+
+18h ago
+
+---
+
+**[I got tired of watching my ideas go nowhere, so I built an AI that builds and manages a business for me, opening beta this week](https://www.reddit.com/r/artificial/comments/1svm96o/i_got_tired_of_watching_my_ideas_go_nowhere_so_i/)**
+
+The thing that kept bothering me: the gap between "I have an idea" and "I have a business" isn't talent or intelligence. It's just execution. Setting up the store, writing the copy, figuring out payments, running ads. Most people give up somewhere in that gap, not because they didn't want it badly enough, but because none of that is what they're actually good at. So we got into Y Combinator and built Locus Founder. Locus Founder is an AI agent that builds an online business for you from scratch, to make you money while you sleep. It builds, runs, and manages everything for you so you never have to step in - all over SMS/iMessage! First of all, it's completely free to beta test (must be from the US), and you keep all of your earnings. You tell it what kind of business you want; drop-shipping, a digital service, content-based, whatever. If you don't have an idea, it interviews you and proposes options. Then it builds the whole thing. Real website. Real checkout. Real marketing. The agent runs the operations, and you collect the revenue. No technical background needed. No Shopify setup. No figuring out ad accounts. The agent handles it. We're launching publicly in a few weeks, but opening 100 private beta spots this week for people who actually want to try building something. I want real feedback from people who give it a genuine shot, not just people who sign up and disappear. If that's you, this is the google form to sign up to beta test (you keep all the earnings): https://forms.gle/nW7CGN1PNBHgqrBb8 Happy to answer anything about how it works, what's under the hood, or what kinds of businesses it builds well. All questions welcome.
+
+1h ago
+
+---
+
+**[The AI that actually helps vs the AI that's just hype](https://www.reddit.com/r/artificial/comments/1svkq7v/the_ai_that_actually_helps_vs_the_ai_thats_just/)**
+
+There's this weird split happening right now. Some AI tools are genuinely making people's lives easier. Others are sitting unused because they don't solve a real problem. I've noticed a pattern. The AI tools that people actually stick with aren't the flashy ones. They're the ones that slot directly into something you already do. Take AI transcription. Most people demo it once and stop because the setup is friction-heavy. But if you're someone who does a lot of interviews or meeting notes, a tool that just sits there and transcribes in the background? That changes your workflow completely. Or custom AI chatbots built on your own docs. Developers love talking about fine-tuning and prompt engineering. But the real use case that gets adoption is simpler: small business owner uploads their FAQ, their product docs, gets an AI that answers customer questions. No API knowledge required. No prompt engineering needed. The difference isn't the AI itself. It's the problem fit. I think a lot of people jump into AI expecting it to revolutionize everything. The reality is it's better at solving specific, repetitive problems. If you're not doing something repetitive or if you already have a system that works, AI isn't going to dramatically improve your life. Where do you see the problem fit actually working? What AI tools have actually changed how you work instead of just being a novelty?
+
+2h ago
 
 ---
 
@@ -125,7 +125,7 @@ Hey everyone, A while back we got frustrated with how painful it is to set up AI
 
 Software giants are seeing their worst stock performance in years on fears of AI disruption. Now they have a new problem.
 
-CNBC • 7h ago
+CNBC • 8h ago
 
 ---
 
@@ -133,21 +133,7 @@ CNBC • 7h ago
 
 Met says AI software unearthed rule-breaking ranging from work-from-home violations to suspected corruption
 
-The Guardian • 4h ago
-
----
-
-**[South Korean Man Might Get Prison Time for Posting AI Wolf Picture](https://gizmodo.com/south-korean-man-might-get-prison-time-for-posting-ai-wolf-picture-2000750787)**
-
-Gizmodo • 1h ago
-
----
-
-**[AI is igniting a love affair between Silicon Valley and the consulting industry](https://www.businessinsider.com/consulting-mckinsey-accenture-bcg-ai-silicon-valley-enterprise-partnerships-2026-4)**
-
-Consulting firms and AI startups are suddenly inseparable.
-
-Business Insider • 1h ago
+The Guardian • 5h ago
 
 ---
 
@@ -155,15 +141,15 @@ Business Insider • 1h ago
 
 Artificial intelligence tools have made financial advice more accessible, but they have also created a significant privacy risk.
 
-The Washington Post • 4h ago
+The Washington Post • 5h ago
 
 ---
 
-**[What are your chances of being audited now that the IRS is using AI? Jury is still out](https://www.cnn.com/2026/04/25/business/chance-of-audit-irs-ai-use)**
+**[A.I. Is Making Influencing Even Faker](https://www.newyorker.com/culture/the-lede/with-ai-anyone-can-be-an-influencer)**
 
-Just looking at the raw numbers, less than 1% of filers have been audited by the IRS in recent tax years. Based on the latest data available, for example, in tax year 2021 the IRS pursued a mere 0.3% of filers overall.
+Across social media, an influx of A.I.-generated avatars is reshaping what it means to be an influencer.
 
-CNN • 13h ago
+The New Yorker • 11h ago
 
 ---
 
@@ -175,19 +161,25 @@ OpenAI • 1d ago
 
 ---
 
-**[New AI tool seeks to 'un-AI' your writing](https://mashable.com/article/sinceerly-ai-tool-to-undo-ai-writing)**
+**[How Iran’s ‘slopaganda’ team, small but mighty, relies on AI and Lego imagery](https://www.nbcnews.com/world/iran/iran-slopaganda-team-ai-legos-social-media-rcna341926)**
 
-A new ouroboros in the tech world has emerged.
+A group called Explosive Media, which is behind dozens of recent viral videos, told NBC News they're based in Iran but don't work for the regime.
 
-Mashable • 2h ago
+NBC News • 22h ago
 
 ---
 
-**[A.I. Is Making Influencing Even Faker](https://www.newyorker.com/culture/the-lede/with-ai-anyone-can-be-an-influencer)**
+**[Why Silicon Valley Is Turning to the Catholic Church](https://www.theatlantic.com/ideas/2026/04/silicon-valley-catholicism-ai-leo/686948/)**
 
-Across social media, an influx of A.I.-generated avatars is reshaping what it means to be an influencer.
+Priests and theologians want to shape the future of AI. Big Tech is listening.
 
-The New Yorker • 10h ago
+The Atlantic • 10h ago
+
+---
+
+**[Trump alum helps Israel mount AI influence campaign](https://www.axios.com/2026/04/25/israel-ai-influence-parscale)**
+
+Axios • 9h ago
 
 ---
 
@@ -196,6 +188,14 @@ The New Yorker • 10h ago
 Meta said it's cutting 10% of its workforce, just as Microsoft announced that it's offering employee buyouts for the first time in its 51-year history.
 
 CNBC • 1d ago
+
+---
+
+**[The Downgrading of the American Tech Worker](https://nymag.com/intelligencer/article/after-layoffs-meta-is-training-ai-on-its-own-workers.html)**
+
+Meta is laying off more workers — and monitoring the ones who are left in order to train AI to maybe replace them.
+
+New York Magazine • 11h ago
 
 ---
 
@@ -215,7 +215,7 @@ Migrating to the new meshcore.io site
 
 The widely circulated image had prompted authorities to move their search operation.
 
-⬆️ 233 • 💬 152 • 1d ago • [bbc.com](https://www.bbc.com/news/articles/c4gx1n0dl9no)
+⬆️ 234 • 💬 153 • 1d ago • [bbc.com](https://www.bbc.com/news/articles/c4gx1n0dl9no)
 
 ---
 
@@ -231,7 +231,7 @@ How Ars Technica uses, and doesn't use, generative AI.
 
 Give any AI agent a persistent memory in minutes. Works with Claude, ChatGPT, Ollama, OpenRouter, and any MCP-compatible agent. Open source, self-hosted, model-agnostic.
 
-⬆️ 152 • 💬 64 • 18h ago • [Stash](https://alash3al.github.io/stash?_v01)
+⬆️ 158 • 💬 67 • 19h ago • [Stash](https://alash3al.github.io/stash?_v01)
 
 ---
 
@@ -239,13 +239,13 @@ Give any AI agent a persistent memory in minutes. Works with Claude, ChatGPT, Ol
 
 The airport targeted gate announcements, overlapping PA messages, and tenant music. Instead of blasting departure calls terminal-wide, messages are limited to each gate and their immediate surroundings. In 2020, they worked with airlines to centralize and reduce announcements, cutting 40% of the paging.
 
-⬆️ 149 • 💬 93 • 1d ago • [View from the Wing](https://viewfromthewing.com/san-francisco-airport-removed-90-minutes-of-daily-noise-travelers-say-it-changed-everything/)
+⬆️ 150 • 💬 95 • 1d ago • [View from the Wing](https://viewfromthewing.com/san-francisco-airport-removed-90-minutes-of-daily-noise-travelers-say-it-changed-everything/)
 
 ---
 
 **[Lambda Calculus Benchmark for AI](https://news.ycombinator.com/item?id=47900506)**
 
-⬆️ 99 • 💬 31 • 8h ago • [victortaelin.github.io](https://victortaelin.github.io/lambench/)
+⬆️ 112 • 💬 35 • 9h ago • [victortaelin.github.io](https://victortaelin.github.io/lambench/)
 
 ---
 
@@ -289,7 +289,7 @@ Watch the Majority Report live Monday–Friday at 12pm EST on YouTube or http://
 
 📺 The Majority Report w/ Sam Seder
 
-👁️ 32K • 👍 2K • 💬 305 • ⏱️ 13:15 • 22h ago
+👁️ 32K • 👍 2K • 💬 305 • ⏱️ 13:15 • 23h ago
 
 ---
 
@@ -307,7 +307,7 @@ Here's the AI News you probably missed this week. Warp is the agentic developmen
 
 📺 Dean Graziosi
 
-👁️ 130K • 👍 6K • 💬 69 • ⏱️ 4:21:14 • 22h ago
+👁️ 130K • 👍 6K • 💬 69 • ⏱️ 4:21:14 • 23h ago
 
 ---
 
@@ -327,7 +327,7 @@ Hello guys and gals, it's me Mutahar again! This time we take a look at what app
 
 📺 SomeOrdinaryGamers
 
-👁️ 140K • 👍 7K • 💬 848 • ⏱️ 19:20 • 19h ago
+👁️ 140K • 👍 7K • 💬 848 • ⏱️ 19:20 • 20h ago
 
 ---
 
@@ -651,7 +651,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 49.6k • 🔱 6.5k • 10h ago
+⭐ 49.6k • 🔱 6.5k • 11h ago
 
 ---
 
@@ -681,7 +681,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 34.7k • 🔱 3.9k • 5h ago
+⭐ 34.7k • 🔱 3.9k • 6h ago
 
 ---
 
@@ -731,7 +731,7 @@ The headless browser for AI agents and web scraping
 
 `Rust`
 
-⭐ 4.4k • 🔱 257 • 7h ago
+⭐ 4.4k • 🔱 257 • 8h ago
 
 ---
 
