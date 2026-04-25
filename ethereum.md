@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-25T05:48:36.669430+00:00'
+updated: '2026-04-25T07:18:54.181319+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
+- social
 - cryptocurrency
 - videos
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 25, 2026 at 05:48 UTC  
+**Last Updated:** April 25, 2026 at 07:18 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,9 +42,9 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.3%  
+**24h:** -0.1%  
 **7d:** +2.3%  
-**30d:** +16.2%  
+**30d:** +16.1%  
 **90d:** -21.0%  
 **1y:** +27.1%  
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-47m ago
+2h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Aave DAO offers to contribute 25,000 ETH toward DeFi United, a coordinated ecosystem recovery effort to restore the full backing of KelpDAO's rsETH. The coalition, which includes Lido, EtherFi, Ethena, Mantle, and others, aims to cover a ~75,081 ETH residual shortfall.
 
-🔗 [Aave](https://governance.aave.com/t/arfc-rseth-incident-funding-update/24740) • 10h ago
+🔗 [Aave](https://governance.aave.com/t/arfc-rseth-incident-funding-update/24740) • 12h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Been thinking about this after watching how quickly narratives can shift online when a single high-profile account amplifies something. For example, when someone like Elon Musk boosts a topic (whether it’s tech, markets, or even something like Restore Britain), you can see attention move almost instantly. Not necessarily adoption but definitely awareness and discussion. It made me wonder how this fits into Ethereum’s whole “credible neutrality” idea. On paper: Ethereum is decentralised No single actor controls the protocol Consensus is distributed But in practice: Social layers (Twitter/X, Reddit, influencers) still shape what people look at Narratives form off-chain before anything happens onchain Attention itself is still pretty centralised So the question is does Ethereum actually solve the influence problem or just move it up a layer?
 
-14h ago
+16h ago
 
 ---
 
@@ -104,7 +104,7 @@ Been thinking about this after watching how quickly narratives can shift online 
 
 Etherealize: ETH is productive money, DeFi united: effort to restore rsETH backing, Arbitrum security council froze exploiter ETH
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-20/) • 16h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-20/) • 18h ago
 
 ---
 
@@ -156,7 +156,7 @@ TVL is the default metric for DeFi lending protocols. For this category specific
 
 Bitmine Immersion also spent about $10 million when it bought 5,000 ETH from the Ethereum Foundation last month.
 
-The Block • 13h ago
+The Block • 15h ago
 
 ---
 
@@ -168,11 +168,11 @@ The Motley Fool • 1d ago
 
 ---
 
-**[XRP News: Coinbase Just Put XRP on the Same Footing as Bitcoin, Ethereum, and Gold](https://finance.yahoo.com/markets/crypto/articles/xrp-news-coinbase-just-put-140345845.html)**
+**[Bitmine Has Staked 70% Ethereum, Nears 5% Supply — Is Price Gain Following?](https://finance.yahoo.com/markets/crypto/articles/bitmine-staked-70-ethereum-nears-123243390.html)**
 
-Institutions have been dipping into XRP (CRYPTO: XRP), but they’re not committing huge capital yet. A Coinbase survey last month showed that 18% of big funds already hold XRP and 25% plan to add exposure this year, but 65% are still waiting on regulatory clarity before going bigger. While the wait continues, the infrastructure those ... XRP News: Coinbase Just Put XRP on the Same Footing as Bitcoin, Ethereum, and Gold
+BitMine has staked over 70% of its Ethereum holdings. Tom Lee says Ethereum may be nearing the end of a “mini crypto winter." Broader bullish ...
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -184,7 +184,7 @@ Barron's • 1d ago
 
 **[Ethereum Eyes a Monster $6,000 Price as 3 Hidden Signals Flash a Massive Green Light](https://www.tipranks.com/news/ethereum-eyes-a-monster-6000-price-as-3-hidden-signals-flash-a-massive-green-light)**
 
-TipRanks • 16h ago
+TipRanks • 17h ago
 
 ---
 
@@ -192,7 +192,7 @@ TipRanks • 16h ago
 
 Grayscale staked 102,400 ETH worth $237M via its Ethereum Staking ETF. Ethereum reaching $10,000 by December 31, 2026 at 4% YES.
 
-Crypto Briefing • 1h ago
+Crypto Briefing • 2h ago
 
 ---
 
@@ -200,7 +200,7 @@ Crypto Briefing • 1h ago
 
 Dubai, UAE, April  24, 2026  (GLOBE NEWSWIRE) -- The Ethereum based token Pepeto just confirmed that its latest presale stage cleared out in hours...
 
-markets.businessinsider.com • 13h ago
+markets.businessinsider.com • 14h ago
 
 ---
 
@@ -212,19 +212,19 @@ FXStreet • 1d ago
 
 ---
 
-**[Ethereum’s 4 consecutive weeks of price rallies fuel bullish bets of $3200](https://cryptoslate.com/ethereums-4-consecutive-week-rallies-fuel-bullish-bets-of-3200/)**
-
-Ethereum traders just piled $322 million into $3,200 call options and the real reason for the bet isn’t simple hype.
-
-CryptoSlate • 9h ago
-
----
-
 **[Ethereum news: Bitmine (BMNR) to buy 10,000 ETH for $23.8M from Ethereum Foundation](https://www.coindesk.com/business/2026/04/24/bitmine-to-buy-10-000-ether-for-usd23-8-million-from-the-ethereum-foundation)**
 
 The transaction brings the firm’s holdings closer to the 5% of all ETH milestone.
 
-CoinDesk • 14h ago
+CoinDesk • 15h ago
+
+---
+
+**[Ethereum’s 4 consecutive weeks of price rallies fuel bullish bets of $3200](https://cryptoslate.com/ethereums-4-consecutive-week-rallies-fuel-bullish-bets-of-3200/)**
+
+Ethereum traders just piled $322 million into $3,200 call options and the real reason for the bet isn’t simple hype.
+
+CryptoSlate • 11h ago
 
 ---
 
@@ -238,7 +238,7 @@ Most people are declaring altcoins dead, but the crypto charts tell a completely
 
 📺 Crypto Capital Venture
 
-👁️ 7K • 👍 491 • 💬 130 • ⏱️ 13:20 • 14h ago
+👁️ 7K • 👍 491 • 💬 130 • ⏱️ 13:20 • 16h ago
 
 ---
 
@@ -248,7 +248,7 @@ Most people are declaring altcoins dead, but the crypto charts tell a completely
 
 📺 Library Of Wealth
 
-👁️ 572 • 👍 31 • 💬 153 • ⏱️ 16:26 • 13h ago
+👁️ 572 • 👍 31 • 💬 153 • ⏱️ 16:26 • 15h ago
 
 ---
 
@@ -268,7 +268,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 67 • 💬 14 • ⏱️ 8:31 • 16h ago
+👁️ 2K • 👍 67 • 💬 14 • ⏱️ 8:31 • 18h ago
 
 ---
 
@@ -278,7 +278,7 @@ Ethereum is consolidating just below a descending trend line that has been with 
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 103 • 💬 6 • ⏱️ 10:43 • 6h ago
+👁️ 1K • 👍 103 • 💬 6 • ⏱️ 10:43 • 7h ago
 
 ---
 
@@ -288,7 +288,7 @@ Bitmine (BMNR) is quietly building one of the largest Ethereum treasuries in the
 
 📺 BiGB Stcok
 
-👁️ 544 • 👍 28 • ⏱️ 10:01 • 8h ago
+👁️ 544 • 👍 28 • ⏱️ 10:01 • 10h ago
 
 ---
 
@@ -308,7 +308,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 353 • 👍 50 • ⏱️ 7:03 • 3h ago
+👁️ 353 • 👍 50 • ⏱️ 7:03 • 4h ago
 
 ---
 
@@ -328,7 +328,7 @@ AI ALGO Trading Masterclass   https://youtube.com/live/kXYu-GRsXIU Zero Trading 
 
 📺 Investographer
 
-👁️ 1K • 👍 99 • 💬 26 • ⏱️ 8:21 • 12h ago
+👁️ 1K • 👍 99 • 💬 26 • ⏱️ 8:21 • 13h ago
 
 ---
 
