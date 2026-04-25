@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-25T22:01:44.366211+00:00'
+updated: '2026-04-25T23:05:36.094714+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 25, 2026 at 22:01 UTC  
+**Last Updated:** April 25, 2026 at 23:05 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,13 @@ Robotics research and industry news
 
 **[A smarter approach on autonomous exploration](https://www.reddit.com/r/robotics/comments/1sv7le7/a_smarter_approach_on_autonomous_exploration/)**
 
-12h ago
+13h ago
+
+---
+
+**[Thought-controlled robotic arm by Neuralink aimed at restoring independence for paralyzed patients](https://www.reddit.com/r/robotics/comments/1svh8t5/thoughtcontrolled_robotic_arm_by_neuralink_aimed/)**
+
+6h ago
 
 ---
 
@@ -42,13 +48,15 @@ Robotics research and industry news
 
 From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2047765371734704574
 
-13h ago
+14h ago
 
 ---
 
-**[Thought-controlled robotic arm by Neuralink aimed at restoring independence for paralyzed patients](https://www.reddit.com/r/robotics/comments/1svh8t5/thoughtcontrolled_robotic_arm_by_neuralink_aimed/)**
+**[I built a free open source CAN bus analyzer - would love feedback from the community](https://www.reddit.com/r/robotics/comments/1svoxqm/i_built_a_free_open_source_can_bus_analyzer_would/)**
 
-5h ago
+Hey, I've been building CANviz - a browser-based CAN bus analyzer. pip install, plug in any USB CAN adapter, opens in your browser. No GUI app to install, works with low cost hardware. Just shipped v0.2.0 with live signal plotting and bus health stats. CANopen support (CiA 301 + CiA 402) is coming next. Would love to hear what you'd find most useful. Hackaday wrote it up here if you want more detail: https://hackaday.com/2026/04/21/can-bus-analyzer-runs-in-your-browser/ GitHub: https://github.com/Chanchaldhiman/CANviz
+
+1h ago
 
 ---
 
@@ -56,7 +64,7 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2047765371734704574
 
 For beginners wanting to get started with the SO-101 arm, I found that there are a lot of hurdles to jump through. From the current documentation, while a great resource for those with intermediate knowledge of robotics, isn't a great resource for beginners as it requires knowledge of git, terminal commands, assembly, wiring, and much more in the robotic world. So I made a 2.5h course that walks beginners through how to train your won ACT model with the SO-101 arm. Understandably, the official LeRobot documentation can't step users through every step/debug step possible, as that would make things far too long for experienced users wanting to get in, who their target audience is I imagine. That said, the ACT model is such a useful training model for beginners to understand/comprehend and use, that I wanted to create an easier on-boarding path for beginners getting started. Would love to hear your thoughts.
 
-🔗 [youtu.be](https://youtu.be/p6YIkDhPNyo) • 4h ago
+🔗 [youtu.be](https://youtu.be/p6YIkDhPNyo) • 5h ago
 
 ---
 
@@ -64,15 +72,7 @@ For beginners wanting to get started with the SO-101 arm, I found that there are
 
 Been building this ai desktop robot cat lately and tbh the visual feedback is everything. we’re using a 410×502 hd retina screen, and the real-device visual effect is honestly very impressive. pictures really don't do it justice. getting the voice to match the mouth was a nightmare tho. we use an algorithm to extract lip-sync phonemes and align them with the audio, and we also apply optimization methods to make the mouth transitions look natural. it runs on an esp32 rn but we are working on a linux version. kinda just wanted a companion on my desk while i code that actually feels alive, not just a static screen. i usually keep it right below my monitor. having it handle my quick queries or just react to me talking in the room makes a huge difference. watching it react in real time is pretty wild.
 
-18h ago
-
----
-
-**[We’re starting an IRC rover team… and have no clue how to actually start](https://www.reddit.com/r/robotics/comments/1svlv7v/were_starting_an_irc_rover_team_and_have_no_clue/)**
-
-A few of us decided to go for the URC/IRC. No seniors to guide us, no experienced team, just a bunch of us who thought “yeah, let’s build a rover” and are now realizing how massive that actually is. (btw we are already a part of robotics team from india, but we haven't really worked on rovers, we mainly focus on ROBOCON). Right now, it’s a mix of excitement and “what did we just sign up for.” Everything we look up is either super high-level or all over the place, and we can’t really tell what the first real steps should look like or how teams go from nothing to something that actually works. We’re basically trying to figure out how to not waste the next few months doing random stuff and calling it progress. If you’ve ever been part of mars rover team, I’d really like to hear how you got through that initial phase & how you found your footing and turned the chaos into something structured. Anything that helps us get moving in the right direction would genuinely help. Thanks. tldr - seeking guidance for URC/IRC, (newbie team).
-
-2h ago
+19h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hi r/robotics, We’re the team from Hertzinno, and we develop industrial acoust
 
 Hi All, I am currently working on so101 and am familiar with data collection, training, eval following the lerobot recipes. I wanted to go further and learn better about how to do the same in simulation and use that as a starting point for doing RL from IM. Are there any good guides? Anyone done this before? I understand this might not be a standard path especially with sim-real gap. However wanted to go down this path to better understand the concepts and learn (plus AI tools recommended it)
 
-17h ago
+18h ago
 
 ---
 
@@ -134,19 +134,19 @@ IEEE Spectrum • 2d ago
 
 ---
 
-**[How I taught myself to code, quit my consulting job, and started an AI robotics firm by age 25](https://www.businessinsider.com/consultant-turned-ai-robotics-founder-career-lessons-bcg-remy-2026-4)**
-
-Oscar Brisset, 25, used most of his vacation days to learn to code. He left BCG to launch a YC-backed AI robotics company.
-
-Business Insider • 14h ago
-
----
-
 **[AI robots are learning to do simple human tasks at a factory in Massachusetts](https://www.cbsnews.com/boston/news/ai-robots-tutor-intelligence-watertown/)**
 
 Tutor Intelligence in Watertown is a kind of kindergarten for robots.
 
-CBS News • 23h ago
+CBS News • 1d ago
+
+---
+
+**[This Ukrainian company is upgrading its battlefield robots like smartphones. Here's how it's chasing the edge in combat.](https://www.businessinsider.com/this-ukrainian-company-is-upgrading-war-robots-like-smartphones-2026-4)**
+
+Ukrainian combat robot maker DevDroid says it has to make constant updates to avoid becoming obsolete on the battlefield.
+
+Business Insider • 13h ago
 
 ---
 
@@ -166,6 +166,18 @@ Nikkei Asia • 2d ago
 
 ---
 
+**[Eric Trump Touts $24 Million Pentagon Contract Awarded to His Robotics Company](https://www.democracynow.org/2026/4/24/headlines/eric_trump_touts_24_million_pentagon_contract_awarded_to_his_robotics_company)**
+
+President Trump’s son Eric Trump is touting a $24 million Pentagon contract awarded to the robotics firm Foundation Future Industries, where he serves as chief strategy adviser. The contract will fund testing of its “Phantom” humanoid robots for future military applications. Here’s Eric Trump speaking on Fox Business about the deal.
+
+Eric Trump: “You know, I got involved with crypto in a very big way because we had to win that digital revolution. We have to win robotics in the United States of America.”
+
+Democratic lawmakers have blasted the deal as a clear example of nepotism and corruption. Massachusetts Senator Elizabeth Warren wrote, “Is the Pentagon just a cash machine for Trump’s kids now? This looks like corruption in plain sight.”
+
+Democracy Now! • 1d ago
+
+---
+
 **[IDF Unveils AI-Powered Robotic Warfare System, Breakthrough Artillery Against Hezbollah](https://www.algemeiner.com/2026/04/24/idf-unveils-ai-powered-robotic-warfare-system-breakthrough-artillery-against-hezbollah/)**
 
 Smoke rises from a village in southern Lebanon as the Israeli army operates in it as seen from the Israeli …
@@ -180,14 +192,6 @@ Investor's Business Daily • 2d ago
 
 ---
 
-**[Southwest Detroit robotics team heads to world championship in Houston](https://www.yahoo.com/news/articles/southwest-detroit-robotics-team-heads-140045971.html)**
-
-More than 20 students from Southwest Detroit are preparing to compete on the global stage after qualifying for the 2026 FIRST Robotics World Championship in Houston, Texas.
-
-Yahoo • 8h ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -198,7 +202,7 @@ What is the best robot vacuum in 2026? After testing over 200 robot vacuums with
 
 📺 Just A Dad Approved
 
-👁️ 3K • 👍 183 • 💬 40 • ⏱️ 13:40 • 10h ago
+👁️ 3K • 👍 183 • 💬 40 • ⏱️ 13:40 • 11h ago
 
 ---
 
@@ -228,7 +232,7 @@ New Spider Shoggoth Robot. This is so weird. We got a new robot on the test serv
 
 📺 PREDATOR WR
 
-👁️ 14K • 👍 517 • 💬 163 • ⏱️ 15:36 • 10h ago
+👁️ 14K • 👍 517 • 💬 163 • ⏱️ 15:36 • 11h ago
 
 ---
 
@@ -268,7 +272,7 @@ Ace, a ping-pong-playing robot, is the first to beat elite human players in a co
 
 📺 NBC News
 
-👁️ 43K • 👍 544 • 💬 145 • ⏱️ 4:14 • 22h ago
+👁️ 43K • 👍 544 • 💬 145 • ⏱️ 4:14 • 23h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-25T22:01:44.363052+00:00'
+updated: '2026-04-25T23:05:36.091538+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
-- videos
+- news
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 25, 2026 at 22:01 UTC  
+**Last Updated:** April 25, 2026 at 23:05 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,312.04
+### $2,319.83
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.1%  
-**7d:** +2.1%  
-**30d:** +16.0%  
-**90d:** -21.1%  
-**1y:** +26.9%  
+**24h:** +0.1%  
+**7d:** +2.5%  
+**30d:** +16.3%  
+**90d:** -20.9%  
+**1y:** +27.3%  
 
 ---
 
@@ -68,11 +68,19 @@ No max supply
 
 ## Reddit: r/ethereum
 
+**[Etherscan officially recognized the 2016 Unicorn Meat token as an Ethereum Foundation contract, so I cracked and verified the Grinder source code](https://www.reddit.com/r/ethereum/comments/1svq7qu/etherscan_officially_recognized_the_2016_unicorn/)**
+
+I wanted to share something interesting that happened recently. Etherscan added an info note to the Unicorn Meat token page that reads: "This token was created by Avsa of the Ethereum Foundation. Read more about it in this post." The link goes to a tweet from the official @ethereum account from April 1, 2016 announcing "the Unicorn Meat Grinder Smart Contract and Bribable DAO" by @avsa. For those who don't know the backstory: Alex Van de Sande (avsa) was one of Ethereum's earliest core team members. He built the Mist Browser, the Ethereum Wallet, and co-created ENS. In early 2016 he deployed a set of contracts as part of the ethereum.org tutorials, including the Unicorns token and the Unicorn Meat Grinder, a DAO that let you convert Unicorns into Unicorn Meat through on-chain governance. The contracts were deployed from his same wallet that deployed the Foundation Tip Jar, which Alex made on behalf of the Foundation to raise money and donors received Unicorn tokens. So the provenance chain is: same deployer address, multiple Etherscan-labeled EF contracts, and now an official Etherscan note confirming the connection. What makes this historically interesting: The Meat Grinder was one of the first DAOs on Ethereum, predating The DAO by months. It used a proposal and voting system where token holders could vote on actions like grinding Unicorns into Meat. It introduced one of the first token upgrade patterns. The Unicorn-to-Meat conversion was essentially a token migration mechanism, something that became standard practice years later. The contracts were based on the ethereum.org tutorials that avsa wrote to teach developers how to build on Ethereum. These tutorials were how an entire generation of Solidity developers learned the language. We've been working on documenting and verifying the source code of these contracts on EthereumHistory, including cracking the bytecode of contracts that were never verified on Etherscan. We recently launched a Collections feature that groups all contracts by their deployer, starting with avsa's 60 contracts and Vitalik's 66 contracts. We also recently cracked and verified the Meat Grinder's source code on Etherscan. The source had been sitting in avsa's public GitHub gist for 10 years but was never formally verified on-chain. The challenge was figuring out the exact compiler settings: these contracts predate Solidity 0.4, so there's no metadata hash in the bytecode to help identify the version. We had to work through early solc releases until we found that solc 0.2.1 with default optimization produced an exact byte-for-byte match against the on-chain runtime bytecode. Once confirmed, we submitted it to both Sourcify and Etherscan, so anyone can now read the original Solidity source directly on Etherscan and verify it themselves. It's a small thing, but these early contracts are historical artifacts. Having their source verified on-chain means the code is permanently readable and auditable, not just sitting in a gist that could disappear. If anyone is interested in Ethereum's early contract history, the provenance page has the full chain of evidence laid out, and EthereumHistory is an open platform where anyone can help document contracts.
+
+25m ago
+
+---
+
 **[Daily General Discussion April 25, 2026](https://www.reddit.com/r/ethereum/comments/1sv2scg/daily_general_discussion_april_25_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
 
 ---
 
@@ -80,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 been spending way too much time looking at the recent string of defi exploits and the amount of supply locked up in the same three lst platforms is honestly giving me anxiety. having that much of the network reliant on a few centralized points of failure makes me paranoid about massive tail risks. every time the market swings i find myself wanting to hedge this exposure, but the options are terrible. you either convert to fiat and trigger taxable events, or you play russian roulette with wrapped assets and multisig bridges that seem to get drained every other week. i went down a rabbit hole last night trying to find a way to secure my yields natively, maybe even hedging with digital gold or something stable, without fragmenting my liquidity across a dozen vulnerable front-ends. what are you guys actually doing to protect your bags long term? are we just stuck choosing between bare validator yields and accepting the centralized lst risk? curious if anyone has found a trust-minimized way to hedge this without leaving the ecosystem.
 
-8h ago
+9h ago
 
 ---
 
@@ -140,14 +148,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[WPVS — A Better Valuation Framework for RWA Lending Protocols](https://www.reddit.com/r/ethereum/comments/1stv121/wpvs_a_better_valuation_framework_for_rwa_lending/)**
-
-TVL is the default metric for DeFi lending protocols. For this category specifically, it is actively backwards. I built a replacement framework and applied it to Clearpool — the market is pricing it at 8 cents per dollar of protocol value. Here's the full methodology. WPVS — A Better Valuation Framework for RWA Lending Protocols The core problem: When a lending protocol deploys capital to a borrower, TVL falls. The protocol is doing exactly what it was designed to do — yet every data aggregator shows a declining number. When borrowers repay and capital sits idle, TVL rises. The protocol is doing nothing — yet dashboards show recovery. The idle bank looks healthier than the active one. That is a structural flaw, not a data quirk. The Framework Every pool in a lending protocol falls into one of four functional types. Each requires a different metric. Using TVL across all four produces distorted comparisons. Type 1 — Active Lending Pools Capital deployed to institutional borrowers on an unsecured or undercollateralized basis. Utilization Rate = Active Loans / Total Originations Lending Score = Total Originations x (Utilization Rate)^0.4 The exponent of 0.4 penalizes protocols where originations are purely historical but rewards active current deployment. Weight: 2.0x — hardest to execute, highest moat. Type 2 — Treasury / Savings Vaults Capital in short-duration government instruments — T-Bills, repo, money market funds. Treasury Score = TVL x (1 + APY / 10) TVL actually works here because the capital isn't being deployed — it sits in instruments. The APY multiplier differentiates product quality. Weight: 0.8x — commoditized, minimal moat. Type 3 — Real World Credit Vaults Capital deployed into real economy credit — housing finance, trade finance, emerging market lending. RWA Score = TVL x (1 + APY / 5) The divisor of 5 (vs 10 for Treasury) gives a larger APY multiplier reflecting the complexity premium. Weight: 1.5x — real economic impact, complexity premium. Type 4 — Market Neutral / Arbitrage Vaults Delta-neutral strategies — futures basis arbitrage, funding rate capture. Arb Score = TVL x (1 + APY / 7) Weight: 1.2x — valuable but replicable. No durable moat. The Combined Formula WPVS = (Lending Score x 2.0) + (Treasury Score x 0.8) + (RWA Score x 1.5) + (Arb Score x 1.2) Sentiment-to-Value Ratio = Market Cap / WPVS Interpretation: Below 0.5x — potentially deeply undervalued 0.5x to 1.5x — fair value range 1.5x to 3.0x — growth premium Above 3.0x — speculative premium Case Study: Clearpool Finance — April 22, 2026 Clearpool has originated $937M in institutional loans with zero defaults since April 2022. As of April 2026 the protocol also runs Treasury vaults, arbitrage vaults, and real world credit vaults through its Ozean L2 initiative. Pool inventory: Prime Active Loans: $6.5M active / $937M originated Hex Trust Treasury Pool: $29.5M USDX @ 3.5% APY X-Pool (Arb): $1.46M USDX @ 8-15% avg APY OLA Vault (RWA): $200K USDC @ 10% APY Important note on DeFiLlama: DeFiLlama reports Clearpool TVL at approximately $1.5M. Direct inspection of the protocol dashboard reveals approximately $37-38M in active capital. The gap exists because DeFiLlama does not index USDX-denominated pools which contain the majority of current liquidity. This is exactly the kind of data gap that makes TVL unreliable for this protocol category. Calculation: Lending Score: Utilization = $6.5M / $937M = 0.69% util^0.4 = 0.13692 Score = $937M x 0.13692 = $128,294,813 Treasury Score: $29.5M x (1 + 3.5/10) = $29.5M x 1.35 = $39,825,000 Arb Score: $1.46M x (1 + 11.5/7) = $1.46M x 2.643 = $3,858,571 RWA Score: $200K x (1 + 10/5) = $200K x 3.0 = $600,000 WPVS Breakdown: Lending: $128,294,813 x 2.0 = $256,589,626 (87.3%) Treasury: $39,825,000 x 0.8 = $31,860,000 (10.8%) Arb: $3,858,571 x 1.2 = $4,630,285 (1.6%) RWA: $600,000 x 1.5 = $900,000 (0.3%) Total WPVS = $293,979,911 (~$294M) Result: Market Cap: $23.4M WPVS: $294M Sentiment-to-Value Ratio: 0.080x The market is pricing Clearpool at 8 cents per dollar of weighted protocol value. Fair value by this framework begins at 0.5x. Even discounting the lending score by 50% to account for low current utilization, the ratio stays below 0.15x. Sector Dashboard (April 2026) Currently tracking five protocols weekly. Clearpool is live — Maple Finance, Centrifuge, TrueFi, and Ondo Finance being added through May. Protocol Market Cap WPVS Ratio Status Clearpool $23.4M $294M 0.080x Live — updated daily Maple Finance $182M $19.7B 0.009x Added this week Centrifuge $168M $2.07B 0.081x Adding next week TrueFi TBD Pending TBD Coming Ondo Finance TBD Pending TBD Coming Caveats This is a v1.0 framework. Known limitations: Recency bias — the lending score rewards lifetime originations. A protocol that originated heavily in a prior cycle but is currently inactive will score higher than present activity warrants. Default history not captured numerically — zero defaults is arguably the single most important input for any lending protocol and WPVS does not capture it quantitatively. Always evaluate separately. APY inputs are point-in-time — variable rate pools change daily. Requires periodic updating. Secured vs unsecured comparability — the lending score does not currently distinguish between unsecured credit (Clearpool) and overcollateralized secured lending (Maple). Secured protocols may show higher origination volumes due to capital recycling. v2.0 will address this with separate scoring tracks. Parameters calibrated by judgment — the exponent of 0.4 and APY divisors (5, 7, 10) will be refined empirically as data accumulates across protocols. About Independent RWA analyst. Force Recon Marine, former ops director. Building a weekly five-protocol WPVS tracker and working toward v2.0 which will add protocol health vs token holder value as separate outputs. — Matt Wells | Not financial advice Weekly Updates: Substa/@mattwellsmacro | -two_times0321 on Twit Not financial advice.
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -164,21 +164,21 @@ The Block • 1d ago
 
 Here's what's new and catching attention around XRP, ETH, and DOGE.
 
-CryptoPotato • 22h ago
+CryptoPotato • 23h ago
 
 ---
 
-**[Bitmine Has Staked 70% Ethereum, Nears 5% Supply — Is Price Gain Following?](https://finance.yahoo.com/markets/crypto/articles/bitmine-staked-70-ethereum-nears-123243390.html)**
+**[BitMine’s Tom Lee Sees Ethereum’s Price Reaching $250,000](https://finance.yahoo.com/markets/crypto/articles/bitmine-tom-lee-sees-ethereum-135000677.html)**
 
-BitMine has staked over 70% of its Ethereum holdings. Tom Lee says Ethereum may be nearing the end of a “mini crypto winter." Broader bullish ...
+Tom Lee, the chairman of BitMine Immersion Technologies (NYSE: $BMNR) sees the price of Ethereum (CRYPTO: $ETH) eve...
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
-**[1 Cryptocurrency to Buy Before It Goes Parabolic and Overtakes Ethereum's Market Cap](https://www.fool.com/investing/2026/04/22/1-cryptocurrency-to-buy-before-it-goes-parabolic/)**
+**[Is Owning Just Bitcoin and Ethereum Enough for a Crypto Portfolio?](https://www.fool.com/investing/2026/04/23/is-owning-just-bitcoin-and-ethereum-enough-for-a-c/)**
 
-A growing company is expanding the utility of one of the most popular blockchains.
+Simple portfolios can often outperform overly complicated ones.
 
 The Motley Fool • 2d ago
 
@@ -194,7 +194,7 @@ Barron's • 2d ago
 
 Grayscale staked 102,400 ETH worth $237M via its Ethereum Staking ETF. Ethereum reaching $10,000 by December 31, 2026 at 4% YES.
 
-Crypto Briefing • 17h ago
+Crypto Briefing • 18h ago
 
 ---
 
@@ -204,11 +204,11 @@ TipRanks • 1d ago
 
 ---
 
-**[Ethereum Price Upside Stalls, Another Decline Could Be Brewing](https://www.tradingview.com/news/newsbtc:456a3ef9f094b:0-ethereum-price-upside-stalls-another-decline-could-be-brewing/)**
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC holds gains, ETH eyes breakout, XRP defends key support](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-holds-gains-eth-eyes-breakout-xrp-defends-key-support-202604240334)**
 
-Ethereum price started a fresh decline and traded below $2,350. ETH is now consolidating above $2,285 and might struggle to recover.Ethereum Price Trims GainsEthereum price failed to remain stable above $2,385 and started a downside correction, underperforming Bitcoin. ETH price dipped below the $2…
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) are supporting a constructive outlook on Friday after surging by 6%, 2% and 3% so far this week, respectively.
 
-TradingView • 1d ago
+FXStreet • 1d ago
 
 ---
 
@@ -220,11 +220,11 @@ Benzinga • 2d ago
 
 ---
 
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC holds gains, ETH eyes breakout, XRP defends key support](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-holds-gains-eth-eyes-breakout-xrp-defends-key-support-202604240334)**
+**[Ethereum: Holds Bullish Structure](https://blockchain.news/flashnews/ethereum-holds-bullish-structure)**
 
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) are supporting a constructive outlook on Friday after surging by 6%, 2% and 3% so far this week, respectively.
+Ethereum maintains bullish symmetrical triangle amid $2316.7 price, with key ranges over five years signaling potential upside despite bearish 4h trends.
 
-FXStreet • 1d ago
+blockchain.news • 38m ago
 
 ---
 
@@ -238,7 +238,7 @@ THEY ARE PREDICTING - $500K BITCOIN, $40K ETHEREUM, AND $50 XRP BY THIS DATE! GE
 
 📺 Austin Hilton
 
-👁️ 4K • 👍 324 • 💬 25 • ⏱️ 9:47 • 5h ago
+👁️ 4K • 👍 324 • 💬 25 • ⏱️ 9:47 • 6h ago
 
 ---
 
@@ -248,7 +248,7 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 2K • 👍 153 • 💬 118 • ⏱️ 13:36 • 7h ago
+👁️ 2K • 👍 153 • 💬 118 • ⏱️ 13:36 • 8h ago
 
 ---
 
@@ -288,7 +288,7 @@ BITCOIN TRADERS ARE MAKING THE SAME MISTAKE!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 3K • 👍 200 • 💬 76 • ⏱️ 19:39 • 4h ago
+👁️ 3K • 👍 200 • 💬 76 • ⏱️ 19:39 • 5h ago
 
 ---
 
@@ -308,7 +308,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 165 • 👍 8 • 💬 2 • ⏱️ 4:34 • 13h ago
+👁️ 165 • 👍 8 • 💬 2 • ⏱️ 4:34 • 14h ago
 
 ---
 
@@ -318,7 +318,7 @@ Ethereum is consolidating just below a descending trend line that has been with 
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 218 • 💬 20 • ⏱️ 10:43 • 22h ago
+👁️ 3K • 👍 218 • 💬 20 • ⏱️ 10:43 • 23h ago
 
 ---
 
@@ -328,7 +328,7 @@ Ethereum has quietly become one of the most watched assets in this bull market c
 
 📺 Sir Luis
 
-👁️ 33 • 👍 2 • 💬 5 • ⏱️ 11:42 • 6h ago
+👁️ 33 • 👍 2 • 💬 5 • ⏱️ 11:42 • 7h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-25T22:01:44.357079+00:00'
+updated: '2026-04-25T23:05:36.085430+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
-- videos
+- news
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 25, 2026 at 22:01 UTC  
+**Last Updated:** April 25, 2026 at 23:05 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,16 +38,16 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,306.39
+### $77,544.07
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** +5.0%  
-**30d:** +16.7%  
-**90d:** -12.3%  
+**24h:** +0.1%  
+**7d:** +5.1%  
+**30d:** +16.8%  
+**90d:** -12.2%  
 **1y:** -18.1%  
 
 ---
@@ -81,15 +81,13 @@ Rank #1
 
 The US Treasury froze $344 million in USDT linked to Iran with a single call to Tether. Bitcoin kept processing every Iranian transaction without interruption. That is the whole story.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/us-froze-tether-iran-bitcoin-untouchable/) • 9h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/us-froze-tether-iran-bitcoin-untouchable/) • 10h ago
 
 ---
 
-**[KYC Wrench Risk.](https://www.reddit.com/r/Bitcoin/comments/1svhf6z/kyc_wrench_risk/)**
+**[Sometimes I wonder...](https://www.reddit.com/r/Bitcoin/comments/1svo1db/sometimes_i_wonder/)**
 
-Hi all. I need some explanation on the risk of KYC. I’m sure we’ve all seen the recent kidnappings in France due to governments leaking KYC data showing purchases etc. obviously is exchanges like Coinbase and finance face the same data leaks, it put you at risk for a wrench attack because they have your physical location. My question is, how do the attackers even know you have access to the wallets you withdrew to? Let’s say I purchase 100BTC on Coinbase and withdraw to cold storage. How do the attackers even know I have access to that cold storage wallet? Seems like a gamble? I could’ve also sent it to the wrong address. Also, if I go Coinbase -> Cold storage -> new wallet -> new wallet how would they know? Especially if the public key hasn’t been exposed showing all wallet addresses for the final wallet it resides in
-
-🔗 [coindesk.com](https://www.coindesk.com/business/2026/04/19/inside-the-rise-of-wrench-attacks-against-crypto-holders-and-how-france-has-become-the-focus) • 5h ago
+1h ago
 
 ---
 
@@ -97,7 +95,23 @@ Hi all. I need some explanation on the risk of KYC. I’m sure we’ve all seen 
 
 Ppl only looking at short term liquidity saying shorts have been liquidated. But have u paid attention to older liquidity? Coinglass 3 month chart barely shows it. U need smth like trading different to see it fully. Goes all the way up to 96k. And there is a ton of it. Pay attention to the sideways consolidation, we have been doing this every weekend and then pumping to the upside. Everyone and their mom is shorting here. That means a very very very strong chance of upside. We’re going into the 80s at the very least. Do not short and get rekt. Dca/buy and hold
 
-3h ago
+4h ago
+
+---
+
+**[How to get Bitcoin if its banned in your country](https://www.reddit.com/r/Bitcoin/comments/1svoi7w/how_to_get_bitcoin_if_its_banned_in_your_country/)**
+
+Hello, so my bank/banks in my country in Europe do not allow bitcoin to be purchased using debit or credit cards. I did find a way to use bank transfer for platforms like Kraken, but they charge me a monthly fee just to have that feature, which is difficult for me since I am currently on a tight budget. I am wondering if there is any alternative way for me to buy bitcoin through another platform, such as Binance, and then transfer or trade it to my Kraken wallet safely and without high fees.
+
+1h ago
+
+---
+
+**[I got tired of messy crypto trackers, so I made this.](https://www.reddit.com/r/Bitcoin/comments/1svnvee/i_got_tired_of_messy_crypto_trackers_so_i_made/)**
+
+Why does every finance app try to look like a Bloomberg Terminal? 90% of those charts are just noise. I’ve been working on a project that strips all that away. It’s a simple, high-precision tracker for crypto and stocks. Important note: To keep things secure and simple, there are no trading features. You don't buy or sell assets in the app—it's designed solely to give you a perfect, clean overview of your portfolio and the market. If you’re looking for a more zen way to keep an eye on the market, give it a try. Link: https://play.google.com/store/apps/details?id=cz.akcie.app
+
+2h ago
 
 ---
 
@@ -105,7 +119,7 @@ Ppl only looking at short term liquidity saying shorts have been liquidated. But
 
 I have private keys from years ago to wallets that I've abandoned. Even though I don't use them and never plan to, I have a fear that I'll accidentally fund an old wallet from something that I forgot about (old exchange, someone tipping me to an old address, who-knows-what). I was imagining some little self-hosted app on my node that checks new blocks against known archived wallets and lets me know if a transaction matches - or for larger amounts, sweeps the funds automatically. I don't have anything like this, so I have copies of private keys and (for more recent wallets) seed phrases backed up in various places. I'm sure that I should be more organized about it, but what's the best way? I could see it getting out of hand easily and taking ages to go through everything on the regular to check balances. I look forward to a discussion on the best way to handle this. What are your ideas/solutions?
 
-6h ago
+7h ago
 
 ---
 
@@ -119,7 +133,7 @@ I have private keys from years ago to wallets that I've abandoned. Even though I
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-16h ago
+17h ago
 
 ---
 
@@ -127,7 +141,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 If any of you folks are coming to Vegas for Bitcoin 2026, I've compiled a list (and map) of meetups and side events. These tend to be much more fun and enjoyable than the actual Conference. If you're on mobile, you'll likely need the Google Docs app for working links. I'm hitting Hotstyle Takeover, the Bitcoin Today meetup, the Club Orange meetup, NosVegas, and then hosting Steak 'N Shake 'N Sats and the Vegas Bitcoiners Happy Hour on Wednesday.
 
-🔗 [Google Docs](https://docs.google.com/document/d/1RqlQl4vdKZtReFQpIh0h820Q10khCc6gI56xKW4N1-M) • 16h ago
+🔗 [Google Docs](https://docs.google.com/document/d/1RqlQl4vdKZtReFQpIh0h820Q10khCc6gI56xKW4N1-M) • 17h ago
 
 ---
 
@@ -135,23 +149,7 @@ If any of you folks are coming to Vegas for Bitcoin 2026, I've compiled a list (
 
 I have tremendous trusts on wallets because its math foundation. But today, something happened and I am a little in doubt. Today, when i try to restore my wallet using seed phrase, I accidentally made a mistake, but I ended up restoring another wallet that is not mine. Even though there is no any coin in it, it casts a doubt on wallet’s safety. What if someone who created the wallet has put coins in it? What are the chances that someone else accidentally restore mine? Just genuinely questions from a long time hodler. I hope I get answers that resolve me concerns
 
-22h ago
-
----
-
-**[I got tired of messy crypto trackers, so I made this.](https://www.reddit.com/r/Bitcoin/comments/1svnvee/i_got_tired_of_messy_crypto_trackers_so_i_made/)**
-
-Why does every finance app try to look like a Bloomberg Terminal? 90% of those charts are just noise. I’ve been working on a project that strips all that away. It’s a simple, high-precision tracker for crypto and stocks. Important note: To keep things secure and simple, there are no trading features. You don't buy or sell assets in the app—it's designed solely to give you a perfect, clean overview of your portfolio and the market. If you’re looking for a more zen way to keep an eye on the market, give it a try. Link: https://play.google.com/store/apps/details?id=cz.akcie.app
-
-59m ago
-
----
-
-**[12 years ago, this guy bought $50,000 worth of Bitcoin. Back then, each Bitcoin was worth just $100. Today, his $50,000 Bitcoin purchase is worth over $50 million. What a legend!](https://www.reddit.com/r/Bitcoin/comments/1su7wsf/12_years_ago_this_guy_bought_50000_worth_of/)**
-
-[comments]
-
-1d ago
+23h ago
 
 ---
 
@@ -163,7 +161,7 @@ Why does every finance app try to look like a Bloomberg Terminal? 90% of those c
 
 Mean-reversion models suggest bearish targets imply a 0.4th percentile event, far beyond typical market corrections.
 
-CoinDesk • 6h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -175,27 +173,11 @@ Decrypt • 1d ago
 
 ---
 
-**[Why investors are flocking to BlackRock’s bitcoin options to hedge against a wild global economy](https://www.coindesk.com/markets/2026/04/25/blackrock-s-bitcoin-etf-just-hit-a-massive-milestone-that-proves-crypto-is-now-a-mainstream-bet)**
+**[Bitcoin ETFs Add $2.1B In 8 Days—Last Time This Happened, Bitcoin Hit An All-Time High](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-add-2-1b-223115039.html)**
 
-IBIT options open interest topped Deribit on Friday, signaling rapid institutional adoption of regulated crypto derivatives in the U.S.
+U.S. spot Bitcoin ETFs logged eight straight days of inflows totaling $2.1 billion through April 23—the longest streak since the nine-day October 2025 run that took Bitcoin to its $126,000 all-time high. The ETF Momentum Is Back Bloomberg ETF analyst...
 
-CoinDesk • 3h ago
-
----
-
-**[What's driving the massive inflows for bitcoin ETFs in 2026](https://finance.yahoo.com/video/whats-driving-massive-inflows-bitcoin-165800586.html)**
-
-Scott Melker, the host of "The Wolf of All Streets" podcast, breaks down the massive inflows going into bitcoin (BTC-USD) ETFs and what it means for the crypto market going forward. "The Daily Wolf with Scott Melker" airs on Yahoo Finance every day at 12:00 p.m. Tune in for your daily dose of all things crypto.Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
-
-Yahoo Finance • 4d ago
-
----
-
-**['Rally on trial': Bitcoin breakout faces key $80,000 test as whales, ETF investors buy into volatility](https://www.theblock.co/post/398625/rally-trial-analysts-bitcoin-breakout-test-80000-whales-etf-investors-buy-volatility)**
-
-Analysts say bitcoin's rally still faces a stiff test from profit-taking, macro risk and a crowded resistance zone.
-
-The Block • 2d ago
+Yahoo Finance • 34m ago
 
 ---
 
@@ -207,6 +189,14 @@ The Block • 1d ago
 
 ---
 
+**[Bitcoin might be at risk from a new quantum math trick that breaks digital ownership](https://www.coindesk.com/tech/2026/04/25/clock-is-ticking-for-bitcoin-to-prevent-quantum-threat-as-it-could-drain-6-9-million-btc-including-satoshi-s)**
+
+Can a network without formal governance coordinate the biggest cryptographic migration in its history?
+
+CoinDesk • 13h ago
+
+---
+
 **[Quantum attack breaks crypto key 512x larger than last record. Is Bitcoin ready?](https://finance.yahoo.com/markets/crypto/articles/quantum-attack-breaks-crypto-key-211813708.html)**
 
 Giancarlo Lelli performed the largest known quantum attack on Bitcoin’s encryption model. His feat is a 512-fold jump from the previous record. Bitcoin enthusiasts are scrambling for ideas to deal with the quantum computing threat.
@@ -215,25 +205,29 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin might be at risk from a new quantum math trick that breaks digital ownership](https://www.coindesk.com/tech/2026/04/25/clock-is-ticking-for-bitcoin-to-prevent-quantum-threat-as-it-could-drain-6-9-million-btc-including-satoshi-s)**
+**[Opinion | A Bitcoin Evangelist Tries to Convert Me](https://www.nytimes.com/2026/04/23/opinion/bitcoin-crypto-anthony-pompliano.html)**
 
-Can a network without formal governance coordinate the biggest cryptographic migration in its history?
-
-CoinDesk • 11h ago
-
----
-
-**[Bitcoin To Hit $145,000 By End Of 2026, Arthur Hayes Predicts](https://finance.yahoo.com/markets/crypto/articles/bitcoin-hit-145-000-end-173124660.html)**
-
-BitMEX co-founder Arthur Hayes predicts Bitcoin will hit $145,000 by year end as the Federal Reserve quietly expands its balance sheet by $40 billion per month and wartime spending forces commercial banks to print money. The Fed Is Already Printing...
-
-Yahoo Finance • 4h ago
+The New York Times • 2d ago
 
 ---
 
 **[Bitcoin’s Stealth Rally Has Traders Setting Sights on $80,000](https://www.bloomberg.com/news/articles/2026-04-25/bitcoin-s-stealth-rally-has-traders-setting-sights-on-80-000)**
 
-Bloomberg.com • 9h ago
+Bloomberg.com • 10h ago
+
+---
+
+**[Bitcoin Price Outshines Gold Again, Powered By Strategy](https://www.investors.com/news/bitcoin-price-outshines-gold-april-2026-strategy-buying-power-mstr-stock/)**
+
+Investor's Business Daily • 1d ago
+
+---
+
+**[It’s ‘Over’—After Devastating Price Crash, Saylor Declares The End Of Bitcoin And Crypto Winter](https://www.forbes.com/sites/digital-assets/2026/04/24/its-over-after-devastating-price-crash-saylor-declares-the-end-of-bitcoin-and-crypto-winter/)**
+
+The bitcoin price crash has wiped more than $1 trillion from the cryptocurrency's market cap...
+
+Forbes • 1d ago
 
 ---
 
@@ -283,7 +277,7 @@ Neha Narula
 
 The quantum threat to Bitcoin keeps inching closer, this time thanks to a researcher who broke a simplified cryptographic key.
 
-⬆️ 3 • 💬 3 • 23h ago • [Decrypt](https://decrypt.co/365444/bitcoin-q-day-draws-nearer-quantum-researcher-breaks-simplified-key)
+⬆️ 3 • 💬 3 • 1d ago • [Decrypt](https://decrypt.co/365444/bitcoin-q-day-draws-nearer-quantum-researcher-breaks-simplified-key)
 
 ---
 
@@ -313,7 +307,7 @@ A senior US military commander has lauded Bitcoin as a “valuable computer scie
 
 The quantum threat to Bitcoin keeps inching closer, this time thanks to a researcher who broke a simplified cryptographic key.
 
-⬆️ 5 • 💬 1 • 8h ago • [Decrypt](https://decrypt.co/365444/bitcoin-q-day-draws-nearer-quantum-researcher-breaks-simplified-key)
+⬆️ 5 • 💬 1 • 9h ago • [Decrypt](https://decrypt.co/365444/bitcoin-q-day-draws-nearer-quantum-researcher-breaks-simplified-key)
 
 ---
 
@@ -327,7 +321,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRus Extra
 
-👁️ 3K • 👍 245 • 💬 106 • ⏱️ 8:10 • 7h ago
+👁️ 3K • 👍 245 • 💬 106 • ⏱️ 8:10 • 8h ago
 
 ---
 
@@ -337,7 +331,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 25K • 👍 2K • 💬 52 • ⏱️ 57:11 • 9h ago
+👁️ 25K • 👍 2K • 💬 52 • ⏱️ 57:11 • 10h ago
 
 ---
 
@@ -347,7 +341,7 @@ THEY ARE PREDICTING - $500K BITCOIN, $40K ETHEREUM, AND $50 XRP BY THIS DATE! GE
 
 📺 Austin Hilton
 
-👁️ 4K • 👍 324 • 💬 25 • ⏱️ 9:47 • 5h ago
+👁️ 4K • 👍 324 • 💬 25 • ⏱️ 9:47 • 6h ago
 
 ---
 
@@ -367,7 +361,7 @@ Gareth uses it! Download Rumble Wallet now and enjoy the benefits of financial a
 
 📺 Gareth Soloway
 
-👁️ 33K • 👍 3K • 💬 301 • ⏱️ 10:41 • 8h ago
+👁️ 33K • 👍 3K • 💬 301 • ⏱️ 10:41 • 9h ago
 
 ---
 
