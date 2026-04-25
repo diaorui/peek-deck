@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-25T13:06:49.867211+00:00'
+updated: '2026-04-25T14:13:14.196589+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 25, 2026 at 13:06 UTC  
+**Last Updated:** April 25, 2026 at 14:13 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2047765371734704574
 
-4h ago
+5h ago
 
 ---
 
 **[A smarter approach on autonomous exploration](https://www.reddit.com/r/robotics/comments/1sv7le7/a_smarter_approach_on_autonomous_exploration/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -50,7 +50,7 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2047765371734704574
 
 Been building this ai desktop robot cat lately and tbh the visual feedback is everything. we’re using a 410×502 hd retina screen, and the real-device visual effect is honestly very impressive. pictures really don't do it justice. getting the voice to match the mouth was a nightmare tho. we use an algorithm to extract lip-sync phonemes and align them with the audio, and we also apply optimization methods to make the mouth transitions look natural. it runs on an esp32 rn but we are working on a linux version. kinda just wanted a companion on my desk while i code that actually feels alive, not just a static screen. i usually keep it right below my monitor. having it handle my quick queries or just react to me talking in the room makes a huge difference. watching it react in real time is pretty wild.
 
-9h ago
+10h ago
 
 ---
 
@@ -66,7 +66,7 @@ First rollout of a simple ACT model and the right looks like it got its ACT toge
 
 Hi All, I am currently working on so101 and am familiar with data collection, training, eval following the lerobot recipes. I wanted to go further and learn better about how to do the same in simulation and use that as a starting point for doing RL from IM. Are there any good guides? Anyone done this before? I understand this might not be a standard path especially with sim-real gap. However wanted to go down this path to better understand the concepts and learn (plus AI tools recommended it)
 
-8h ago
+9h ago
 
 ---
 
@@ -74,7 +74,7 @@ Hi All, I am currently working on so101 and am familiar with data collection, tr
 
 Hi r/robotics, We’re the team from Hertzinno, and we develop industrial acoustic cameras (real-time sound visualization). Recently we’ve been integrating our acoustic camera with quadruped robots for autonomous inspection tasks. The obvious use cases so far: · Compressed air & gas leak detection (finding invisible leaks with sound) · Mechanical fault localization (bearing wear, abnormal noises in motors/gearboxes) But we bet this community has way more creative ideas than we can come up with in our engineering bubble. So we’d love to ask: What surprising or non-obvious applications do you see for a mobile acoustic camera robot?
 
-23h ago
+1d ago
 
 ---
 
@@ -102,7 +102,7 @@ Hey everyone, I've been building autonomous drones with a monocular camera and h
 
 ROS News for the Week of April 20th, 2026      🫶 We need your help testing ROS 2 Lyrical Luth! Join us next Thursday, April 30th, at 9am for our Lyrical Luth Test and Tutorial Party Kickoff. We’ll show you how to install and test the next ROS release and our top testers will get free ROS swag! You don’t have to make the kickoff meeting to participate in the T&T Party. We’ll post a video once we’re done.       🚨 About 48 hours remain to submit your ROSCon Global talk ...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-april-20th-2026/) • 18h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-april-20th-2026/) • 19h ago
 
 ---
 
@@ -110,11 +110,11 @@ ROS News for the Week of April 20th, 2026      🫶 We need your help testing RO
 
 ## Google News: "robotics"
 
-**['Self-aware' robots can learn complex tasks by watching humans. Is that a good thing?](https://www.npr.org/2026/04/24/nx-s1-5797863/self-aware-robots-future-laundry-work-home)**
+**[A Spark Capital VC says the AI boom is creating a new kind of gig worker](https://www.businessinsider.com/spark-capital-vc-nabeel-hyatt-robotics-reshaping-gig-economy-2026-4)**
 
-Scientists say they've made a key breakthrough that would allow robots to figure out complex tasks on their own — but experts say it raises questions about how much risk comes with letting robots be in charge of their own learning.
+Spark Capital VC Nabeel Hyatt explains why AI needs human data and shares how robotics could reshape jobs and the future of gig work
 
-NPR • 1d ago
+Business Insider • 2d ago
 
 ---
 
@@ -126,6 +126,14 @@ The Robot Report • 1d ago
 
 ---
 
+**[ABB Robotics launches PoWa cobot family targeting industrial tasks](https://www.therobotreport.com/abb-robotics-launches-powa-cobot-family-targeting-industrial-tasks/)**
+
+ABB Robotics said its new PoWa family of cobots addresses a long‑standing gap in the market between traditional cobots.
+
+The Robot Report • 1h ago
+
+---
+
 **[Video Friday: Who Wins in Robot vs. Pro Ping-Pong Player?](https://spectrum.ieee.org/video-friday-ping-pong-robot)**
 
 Your weekly selection of awesome robot videos
@@ -134,27 +142,11 @@ IEEE Spectrum • 2d ago
 
 ---
 
-**[Advanced AI-powered table-tennis-playing robot can match up to the professionals — watch it in action](https://www.livescience.com/technology/robotics/watch-an-ai-based-table-tennis-robot-beat-elite-players)**
+**['Self-aware' robots can learn complex tasks by watching humans. Is that a good thing?](https://www.npr.org/2026/04/24/nx-s1-5797863/self-aware-robots-future-laundry-work-home)**
 
-Using high-precision cameras and an AI system, Sony AI's Ace is revealing the advancements robotics.
+Scientists say they've made a key breakthrough that would allow robots to figure out complex tasks on their own — but experts say it raises questions about how much risk comes with letting robots be in charge of their own learning.
 
-Live Science • 2d ago
-
----
-
-**[AI robot outplays humans in table tennis milestone](https://www.ft.com/content/9860f042-3332-4534-9b1a-fa9f57b8347e)**
-
-Sony’s ‘Ace’ defeats elite players, highlighting how AI is improving machines’ abilities to interact with people
-
-Financial Times • 2d ago
-
----
-
-**[How I taught myself to code, quit my consulting job, and started an AI robotics firm by age 25](https://www.businessinsider.com/consultant-turned-ai-robotics-founder-career-lessons-bcg-remy-2026-4)**
-
-Oscar Brisset, 25, used most of his vacation days to learn to code. He left BCG to launch a YC-backed AI robotics company.
-
-Business Insider • 5h ago
+NPR • 1d ago
 
 ---
 
@@ -162,15 +154,7 @@ Business Insider • 5h ago
 
 Melody is an M-Series humanoid, a masterpiece of "human-centric" engineering from Realbotix, a Canada-based humanoid robot manufacturer.
 
-Interesting Engineering • 21h ago
-
----
-
-**[Franklin OKs tax financing district for robotics company expansion](https://www.jsonline.com/story/communities/south/2026/04/25/franklin-approves-creating-tax-district-for-yaskawas-182m-expansion/89767690007/)**
-
-Franklin's council approved a development agreement to include TID funding for Yaskawa America's $182 million expansion project in the city.
-
-Milwaukee Journal Sentinel • 3h ago
+Interesting Engineering • 22h ago
 
 ---
 
@@ -184,7 +168,23 @@ Investor's Business Daily • 1d ago
 
 Tutor Intelligence in Watertown is a kind of kindergarten for robots.
 
-CBS News • 15h ago
+CBS News • 16h ago
+
+---
+
+**[Franklin OKs tax financing district for robotics company expansion](https://www.jsonline.com/story/communities/south/2026/04/25/franklin-approves-creating-tax-district-for-yaskawas-182m-expansion/89767690007/)**
+
+Franklin's council approved a development agreement to include TID funding for Yaskawa America's $182 million expansion project in the city.
+
+Milwaukee Journal Sentinel • 4h ago
+
+---
+
+**[US ramps up humanoid robotics as China threat grows in AI race](https://www.foxbusiness.com/video/6393711598112)**
+
+Foundation Future Industries founder and CEO Sankaet Pathak and Trump Organization Executive Vice President Eric Trump discuss battlefield robotics, national security risks, and China competition on ‘Mornings with Maria.
+
+Fox Business • 2d ago
 
 ---
 
@@ -198,7 +198,7 @@ Unitree just revealed a humanoid robot using wheels, skates, and even ice blades
 
 📺 DPCcars
 
-👁️ 4K • 👍 48 • 💬 59 • ⏱️ 4:20 • 1d ago
+👁️ 4K • 👍 48 • 💬 59 • ⏱️ 4:20 • 2d ago
 
 ---
 
@@ -248,7 +248,7 @@ Ace, a ping-pong-playing robot, is the first to beat elite human players in a co
 
 📺 NBC News
 
-👁️ 13K • 👍 218 • 💬 55 • ⏱️ 4:14 • 13h ago
+👁️ 13K • 👍 218 • 💬 55 • ⏱️ 4:14 • 14h ago
 
 ---
 

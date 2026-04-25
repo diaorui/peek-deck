@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-25T13:06:49.858025+00:00'
+updated: '2026-04-25T14:13:14.187356+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - social
 - videos
-- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 25, 2026 at 13:06 UTC  
+**Last Updated:** April 25, 2026 at 14:13 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,16 +38,16 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,760.34
+### $77,624.02
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
+**24h:** -0.4%  
 **7d:** +5.2%  
-**30d:** +16.8%  
-**90d:** -12.2%  
+**30d:** +16.9%  
+**90d:** -12.1%  
 **1y:** -18.0%  
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[I made a site that explains Bitcoin to your mom in 5 minutes. Your mom gets a printable Bitcoin certificate at the end.](https://www.reddit.com/r/Bitcoin/comments/1suo3qe/i_made_a_site_that_explains_bitcoin_to_your_mom/)**
 
-🔗 [wtfisbtc.lol](https://wtfisbtc.lol/) • 18h ago
+🔗 [wtfisbtc.lol](https://wtfisbtc.lol/) • 19h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 If any of you folks are coming to Vegas for Bitcoin 2026, I've compiled a list (and map) of meetups and side events. These tend to be much more fun and enjoyable than the actual Conference. If you're on mobile, you'll likely need the Google Docs app for working links. I'm hitting Hotstyle Takeover, the Bitcoin Today meetup, the Club Orange meetup, NosVegas, and then hosting Steak 'N Shake 'N Sats and the Vegas Bitcoiners Happy Hour on Wednesday.
 
-🔗 [Google Docs](https://docs.google.com/document/d/1RqlQl4vdKZtReFQpIh0h820Q10khCc6gI56xKW4N1-M) • 7h ago
+🔗 [Google Docs](https://docs.google.com/document/d/1RqlQl4vdKZtReFQpIh0h820Q10khCc6gI56xKW4N1-M) • 8h ago
 
 ---
 
@@ -103,7 +103,7 @@ If any of you folks are coming to Vegas for Bitcoin 2026, I've compiled a list (
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-7h ago
+8h ago
 
 ---
 
@@ -111,15 +111,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 I have tremendous trusts on wallets because its math foundation. But today, something happened and I am a little in doubt. Today, when i try to restore my wallet using seed phrase, I accidentally made a mistake, but I ended up restoring another wallet that is not mine. Even though there is no any coin in it, it casts a doubt on wallet’s safety. What if someone who created the wallet has put coins in it? What are the chances that someone else accidentally restore mine? Just genuinely questions from a long time hodler. I hope I get answers that resolve me concerns
 
-13h ago
-
----
-
-**[First-world minor annoyance Bitcoin problem](https://www.reddit.com/r/Bitcoin/comments/1sv7cai/firstworld_minor_annoyance_bitcoin_problem/)**
-
-There are times throughout the workday that I have a moment to check the bitcoin price, however, sometimes when it refreshes, it closes Spotify for some reason, which I had playing as well. I'm not super duper smart with this stuff but I was wondering if anyone knows of a way to make this stop happening so I don't have to keep rebooting Spotify, thanks.
-
-3h ago
+14h ago
 
 ---
 
@@ -127,7 +119,7 @@ There are times throughout the workday that I have a moment to check the bitcoin
 
 I am about to move for work and I was wondering how were safely transporting seed phrases? I have to move through EU and US customs. I have multiple paper copies, unfortunately now in a single location now due to getting ready for this move. I cannot ship locked cases and high value items need to be reported to the shipper. Because of that I don't feel confident hiding a copy somewhere random in my shipment. I'd also like to move with my Trezors but I think that would heighten awareness? My important bag does have a passphrase but my others do not. Taking any ideas for anyone who's been through something like this. Thanks.
 
-15h ago
+17h ago
 
 ---
 
@@ -135,7 +127,7 @@ I am about to move for work and I was wondering how were safely transporting see
 
 People still say that all the time. “No cash flows. No earnings. No fundamentals.” But then why is it worth $75,000+? In this video I break down what “intrinsic value” actually means and why most people completely misunderstand it. My goal is by the end to help people understand exactly why Bitcoin has value.
 
-🔗 [youtu.be](https://youtu.be/y9humUet5SU) • 19h ago
+🔗 [youtu.be](https://youtu.be/y9humUet5SU) • 20h ago
 
 ---
 
@@ -143,7 +135,7 @@ People still say that all the time. “No cash flows. No earnings. No fundamenta
 
 Metaplanet raises $50M through zero-interest bonds to fund new Bitcoin purchases and expand its growing corporate BTC treasury.
 
-🔗 [Blockonomi](https://blockonomi.com/metaplanet-issues-%C2%A58b-bonds-to-expand-bitcoin-holdings/) • 21h ago
+🔗 [Blockonomi](https://blockonomi.com/metaplanet-issues-%C2%A58b-bonds-to-expand-bitcoin-holdings/) • 22h ago
 
 ---
 
@@ -152,6 +144,14 @@ Metaplanet raises $50M through zero-interest bonds to fund new Bitcoin purchases
 If you go look up a bitcoin chart from 2010 to now. Look at when the halving happened in 2020 and exactly 18 months after the halving it goes down tremendously (Halving happened in may 2020, EXACTLY 18 months after in novemeber 2021 it crashed) The exact same thing happened in 2024 halving, exactly 18 months after the 2024 halving (october 2025) it crashed. Do what you will with that information. 2027 is going to be the best time to accumulate bitcoin so don't miss out. :)
 
 1d ago
+
+---
+
+**[Bitcoin Whales Accumulate 69% More BTC as ARK Warns the Bottom Isn’t In](https://www.reddit.com/r/Bitcoin/comments/1su8pz0/bitcoin_whales_accumulate_69_more_btc_as_ark/)**
+
+ARK Invest says Bitcoin has not bottomed yet as whales stack 1.47 million BTC during Q1's 22% price drawdown.
+
+🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/bitcoin-whales-accumulate-69-more-052711529.html) • 1d ago
 
 ---
 
@@ -171,7 +171,7 @@ The Block • 1d ago
 
 Can a network without formal governance coordinate the biggest cryptographic migration in its history?
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -179,7 +179,7 @@ CoinDesk • 3h ago
 
 Giancarlo Lelli performed the largest known quantum attack on Bitcoin’s encryption model. His feat is a 512-fold jump from the previous record. Bitcoin enthusiasts are scrambling for ideas to deal with the quantum computing threat.
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -193,7 +193,19 @@ Yahoo Finance • 1d ago
 
 **[Bitcoin’s Stealth Rally Has Traders Setting Sights on $80,000](https://www.bloomberg.com/news/articles/2026-04-25/bitcoin-s-stealth-rally-has-traders-setting-sights-on-80-000)**
 
-Bloomberg • 36m ago
+Bloomberg.com • 1h ago
+
+---
+
+**[Bitcoin Traders Eye $73,000 Retest as 21-Week EMA Holds as Resistance; Sub-$60,000 Risk Remains](https://www.binance.com/en/square/post/316329872458609)**
+
+Binance • 1h ago
+
+---
+
+**[Bitcoin News Today: Bitcoin Whales Accumulate $3.17 Billion in BTC Since April 10 as $80,000 Break Could Trigger Bull Market Signal](https://www.binance.com/en/square/post/316337243381570)**
+
+Binance • 1h ago
 
 ---
 
@@ -209,7 +221,7 @@ The New York Times • 1d ago
 
 Nakamoto Inc. has introduced an actively managed Bitcoin derivatives program designed to earn income from market volatility while limiting downside risk, the company said Friday.
 
-Bitcoin Magazine • 22h ago
+Bitcoin Magazine • 23h ago
 
 ---
 
@@ -217,23 +229,7 @@ Bitcoin Magazine • 22h ago
 
 Why is the identity of Bitcoin’s founder one of the biggest mysteries in finance? The new documentary “Finding Satoshi” aims to find out. CNN News Central’s John Berman speaks with the two men leading the hunt, Investigative Journalist William Cohan and Quest Research & Investigations private investigator Tyler Maroney.
 
-CNN • 23h ago
-
----
-
-**[It’s ‘Over’—After Devastating Price Crash, Saylor Declares The End Of Bitcoin And Crypto Winter](https://www.forbes.com/sites/digital-assets/2026/04/24/its-over-after-devastating-price-crash-saylor-declares-the-end-of-bitcoin-and-crypto-winter/)**
-
-The bitcoin price crash has wiped more than $1 trillion from the cryptocurrency's market cap...
-
-Forbes • 1d ago
-
----
-
-**[Tennessee Becomes Second State to Outlaw Bitcoin, Crypto ATMs](https://decrypt.co/365502/tennessee-second-state-outlaw-bitcoin-crypto-atms)**
-
-Tennessee has become the second U.S. state to outlaw Bitcoin and crypto ATMs, making it a criminal offense to own or operate the machines.
-
-Decrypt • 16h ago
+CNN • 1d ago
 
 ---
 
@@ -283,7 +279,7 @@ Build wallets, issue stablecoins, and move BTC instantly: all natively on Bitcoi
 
 The quantum threat to Bitcoin keeps inching closer, this time thanks to a researcher who broke a simplified cryptographic key.
 
-⬆️ 3 • 💬 3 • 14h ago • [Decrypt](https://decrypt.co/365444/bitcoin-q-day-draws-nearer-quantum-researcher-breaks-simplified-key)
+⬆️ 3 • 💬 3 • 15h ago • [Decrypt](https://decrypt.co/365444/bitcoin-q-day-draws-nearer-quantum-researcher-breaks-simplified-key)
 
 ---
 
@@ -309,11 +305,11 @@ A senior US military commander has lauded Bitcoin as a “valuable computer scie
 
 ---
 
-**['Finding Satoshi' Makes the Case for Hal Finney, Len Sassaman as BTC Co-Creators](https://news.ycombinator.com/item?id=47864987)**
+**[Scam Quantum Fud Headlines](https://news.ycombinator.com/item?id=47901297)**
 
-A new documentary asserts that Bitcoin creator Satoshi Nakamoto was actually two people: the late Hal Finney and Len Sassaman.
+The quantum threat to Bitcoin keeps inching closer, this time thanks to a researcher who broke a simplified cryptographic key.
 
-⬆️ 2 • 💬 2 • 2d ago • [Decrypt](https://decrypt.co/365075/finding-satoshi-makes-the-case-for-hal-finney-len-sassaman-as-bitcoin-co-creators)
+⬆️ 4 • 💬 1 • 1h ago • [Decrypt](https://decrypt.co/365444/bitcoin-q-day-draws-nearer-quantum-researcher-breaks-simplified-key)
 
 ---
 
@@ -337,7 +333,7 @@ being in bitcoin's top 1% is underrated, and you're likely already there. Borrow
 
 📺 BTC Isla
 
-👁️ 13K • 👍 1K • 💬 202 • ⏱️ 9:00 • 23h ago
+👁️ 13K • 👍 1K • 💬 202 • ⏱️ 9:00 • 1d ago
 
 ---
 
@@ -357,7 +353,7 @@ Crypto #Bitcoin #CryptoNews #Investing #YahooFinance #Blockchain Apr. 24, 2026 -
 
 📺 Yahoo Finance
 
-👁️ 6K • 👍 295 • 💬 71 • ⏱️ 14:53 • 20h ago
+👁️ 6K • 👍 295 • 💬 71 • ⏱️ 14:53 • 21h ago
 
 ---
 
@@ -367,7 +363,7 @@ Bitcoin is no longer just a speculative asset. Top US military leaders are now f
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 92 • ⏱️ 14:54 • 15h ago
+👁️ 16K • 👍 1K • 💬 92 • ⏱️ 14:54 • 16h ago
 
 ---
 
@@ -377,7 +373,7 @@ Let's talk about Bitcoin dominance, altcoins, and monetary policy! Into The Cryp
 
 📺 Benjamin Cowen
 
-👁️ 41K • 👍 2K • 💬 226 • ⏱️ 37:14 • 15h ago
+👁️ 41K • 👍 2K • 💬 226 • ⏱️ 37:14 • 16h ago
 
 ---
 
@@ -387,7 +383,7 @@ Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro max, and th
 
 📺 Crypto Jebb
 
-👁️ 4K • 👍 238 • 💬 58 • ⏱️ 49:08 • 21h ago
+👁️ 4K • 👍 238 • 💬 58 • ⏱️ 49:08 • 22h ago
 
 ---
 
@@ -405,7 +401,7 @@ Despite the surge in gold prices, Cuban links have taken a hit This client was h
 
 📺 Hasan Minhaj
 
-👁️ 219K • 👍 4K • 💬 176 • ⏱️ 1:30 • 20h ago
+👁️ 219K • 👍 4K • 💬 176 • ⏱️ 1:30 • 22h ago
 
 ---
 
