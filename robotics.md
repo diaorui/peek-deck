@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-25T21:04:45.678952+00:00'
+updated: '2026-04-25T22:01:44.366211+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 25, 2026 at 21:04 UTC  
+**Last Updated:** April 25, 2026 at 22:01 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[A smarter approach on autonomous exploration](https://www.reddit.com/r/robotics/comments/1sv7le7/a_smarter_approach_on_autonomous_exploration/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -42,13 +42,13 @@ Robotics research and industry news
 
 From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2047765371734704574
 
-12h ago
+13h ago
 
 ---
 
 **[Thought-controlled robotic arm by Neuralink aimed at restoring independence for paralyzed patients](https://www.reddit.com/r/robotics/comments/1svh8t5/thoughtcontrolled_robotic_arm_by_neuralink_aimed/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -56,7 +56,7 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2047765371734704574
 
 For beginners wanting to get started with the SO-101 arm, I found that there are a lot of hurdles to jump through. From the current documentation, while a great resource for those with intermediate knowledge of robotics, isn't a great resource for beginners as it requires knowledge of git, terminal commands, assembly, wiring, and much more in the robotic world. So I made a 2.5h course that walks beginners through how to train your won ACT model with the SO-101 arm. Understandably, the official LeRobot documentation can't step users through every step/debug step possible, as that would make things far too long for experienced users wanting to get in, who their target audience is I imagine. That said, the ACT model is such a useful training model for beginners to understand/comprehend and use, that I wanted to create an easier on-boarding path for beginners getting started. Would love to hear your thoughts.
 
-🔗 [youtu.be](https://youtu.be/p6YIkDhPNyo) • 3h ago
+🔗 [youtu.be](https://youtu.be/p6YIkDhPNyo) • 4h ago
 
 ---
 
@@ -64,7 +64,7 @@ For beginners wanting to get started with the SO-101 arm, I found that there are
 
 Been building this ai desktop robot cat lately and tbh the visual feedback is everything. we’re using a 410×502 hd retina screen, and the real-device visual effect is honestly very impressive. pictures really don't do it justice. getting the voice to match the mouth was a nightmare tho. we use an algorithm to extract lip-sync phonemes and align them with the audio, and we also apply optimization methods to make the mouth transitions look natural. it runs on an esp32 rn but we are working on a linux version. kinda just wanted a companion on my desk while i code that actually feels alive, not just a static screen. i usually keep it right below my monitor. having it handle my quick queries or just react to me talking in the room makes a huge difference. watching it react in real time is pretty wild.
 
-17h ago
+18h ago
 
 ---
 
@@ -72,7 +72,7 @@ Been building this ai desktop robot cat lately and tbh the visual feedback is ev
 
 A few of us decided to go for the URC/IRC. No seniors to guide us, no experienced team, just a bunch of us who thought “yeah, let’s build a rover” and are now realizing how massive that actually is. (btw we are already a part of robotics team from india, but we haven't really worked on rovers, we mainly focus on ROBOCON). Right now, it’s a mix of excitement and “what did we just sign up for.” Everything we look up is either super high-level or all over the place, and we can’t really tell what the first real steps should look like or how teams go from nothing to something that actually works. We’re basically trying to figure out how to not waste the next few months doing random stuff and calling it progress. If you’ve ever been part of mars rover team, I’d really like to hear how you got through that initial phase & how you found your footing and turned the chaos into something structured. Anything that helps us get moving in the right direction would genuinely help. Thanks. tldr - seeking guidance for URC/IRC, (newbie team).
 
-1h ago
+2h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hi r/robotics, We’re the team from Hertzinno, and we develop industrial acoust
 
 Hi All, I am currently working on so101 and am familiar with data collection, training, eval following the lerobot recipes. I wanted to go further and learn better about how to do the same in simulation and use that as a starting point for doing RL from IM. Are there any good guides? Anyone done this before? I understand this might not be a standard path especially with sim-real gap. However wanted to go down this path to better understand the concepts and learn (plus AI tools recommended it)
 
-16h ago
+17h ago
 
 ---
 
@@ -138,7 +138,7 @@ IEEE Spectrum • 2d ago
 
 Oscar Brisset, 25, used most of his vacation days to learn to code. He left BCG to launch a YC-backed AI robotics company.
 
-Business Insider • 13h ago
+Business Insider • 14h ago
 
 ---
 
@@ -184,7 +184,7 @@ Investor's Business Daily • 2d ago
 
 More than 20 students from Southwest Detroit are preparing to compete on the global stage after qualifying for the 2026 FIRST Robotics World Championship in Houston, Texas.
 
-Yahoo • 7h ago
+Yahoo • 8h ago
 
 ---
 
@@ -198,7 +198,7 @@ What is the best robot vacuum in 2026? After testing over 200 robot vacuums with
 
 📺 Just A Dad Approved
 
-👁️ 2K • 👍 147 • 💬 31 • ⏱️ 13:40 • 9h ago
+👁️ 3K • 👍 183 • 💬 40 • ⏱️ 13:40 • 10h ago
 
 ---
 
@@ -212,13 +212,13 @@ AGIBOT just rolled out a full new wave of humanoid robots and AI models built fo
 
 ---
 
-**[50 Minutes: How China&#39;s Robot Destroyed the Half Marathon Record](https://www.youtube.com/watch?v=pH8tVBqCRLY)**
+**[China&#39;s Robotics Innovation Is Moving Faster Than Anyone Realizes](https://www.youtube.com/watch?v=qB0SsWTEBlU)**
 
-In Beijing, a humanoid robot just completed a 21-kilometer half-marathon in an astonishing 50 minutes and 26 seconds, marking ...
+I thought this would be just another robot demo... I was wrong.At this launch event, X Square Robot introduced a new kind of home ...
 
-📺 Capital Markets AI
+📺 Barrett
 
-👁️ 36K • 👍 668 • 💬 154 • ⏱️ 8:58 • 6d ago
+👁️ 10K • 👍 613 • 💬 16 • ⏱️ 5:43 • 2d ago
 
 ---
 
@@ -228,27 +228,17 @@ New Spider Shoggoth Robot. This is so weird. We got a new robot on the test serv
 
 📺 PREDATOR WR
 
-👁️ 12K • 👍 473 • 💬 149 • ⏱️ 15:36 • 9h ago
+👁️ 14K • 👍 517 • 💬 163 • ⏱️ 15:36 • 10h ago
 
 ---
 
-**[Real dogs meet Elon Musk robot dog](https://www.youtube.com/watch?v=oNhJwi4b99Q)**
+**[Robot Meets Brutal and Untimely End During Marathon](https://www.youtube.com/watch?v=5yqcw5YzRj4)**
 
-An Elon Musk robotic dog was seen wandering around San Francisco, bumping into some furry friends. It's all to promote a new ...
+Dozens of humanoid robot runners competed in the Beijing half-marathon to mixed success. While a Chinese-built robot named ...
 
-📺 CNN
+📺 New York Post
 
-👁️ 162K • 👍 2K • 💬 397 • ⏱️ 0:42 • 7d ago
-
----
-
-**[China&#39;s Robotics Innovation Is Moving Faster Than Anyone Realizes](https://www.youtube.com/watch?v=qB0SsWTEBlU)**
-
-I thought this would be just another robot demo... I was wrong.At this launch event, X Square Robot introduced a new kind of home ...
-
-📺 Barrett
-
-👁️ 9K • 👍 593 • 💬 16 • ⏱️ 5:43 • 2d ago
+👁️ 34K • 👍 302 • 💬 183 • ⏱️ 2:35 • 5d ago
 
 ---
 
@@ -258,7 +248,7 @@ Over a hundred Chinese-made humanoid robots participated in a half-marathon race
 
 📺 Global News
 
-👁️ 211K • 👍 2K • 💬 140 • ⏱️ 0:46 • 6d ago
+👁️ 212K • 👍 2K • 💬 140 • ⏱️ 0:46 • 6d ago
 
 ---
 
@@ -268,27 +258,37 @@ For the first time, an AI-powered machine has bested elite-level athletes at a p
 
 📺 nature video
 
-👁️ 107K • 👍 2K • 💬 215 • ⏱️ 13:38 • 3d ago
+👁️ 108K • 👍 2K • 💬 212 • ⏱️ 13:38 • 3d ago
 
 ---
 
-**[Humanoid robots race past humans in Beijing half-marathon](https://www.youtube.com/watch?v=oLdVcsttB_A)**
+**[Table-tennis-playing robot makes history by beating elite human players](https://www.youtube.com/watch?v=7UKiNNxPkAU)**
 
-Dozens of Chinese-made humanoid robots showed off their fast-improving athleticism as they whizzed past human runners in a ...
+Ace, a ping-pong-playing robot, is the first to beat elite human players in a competitive sport, according to Sony AI. It's a big ...
 
-📺 Guardian News
+📺 NBC News
 
-👁️ 95K • 👍 252 • 💬 105 • ⏱️ 0:37 • 6d ago
+👁️ 43K • 👍 544 • 💬 145 • ⏱️ 4:14 • 22h ago
 
 ---
 
-**[Chinese humanoid robot beats world record for fastest human half-marathon | ABC NEWS](https://www.youtube.com/watch?v=tcfAm3hNQbk)**
+**[Human Matchloading Contest at VEX Worlds 2026 by 2145 Teams](https://www.youtube.com/watch?v=yBw-tzOH3fo)**
 
-A humanoid robot has beaten the human record for the world's fastest half-marathon by finishing in just over 50 minutes. Dozens ...
+Human Matchloading Contest at VEX Worlds 2026 by 2145 Teams @RECFoundation #vexworlds #vexrobotics #recfoundation ...
 
-📺 ABC News (Australia)
+📺 FUN Robotics Network
 
-👁️ 105K • 👍 653 • ⏱️ 6:44 • 5d ago
+👁️ 27K • 👍 246 • 💬 7 • ⏱️ 0:19 • 2d ago
+
+---
+
+**[🤖 No repeat win, still stole the show—TienKung Ultra ate this race. #humanoidrobot #ai #robotics](https://www.youtube.com/watch?v=LPK7x5WV9Ss)**
+
+TienKung Ultra finished the full 21.0975 km in 1:15:00 — fully autonomous, zero human intervention. No repeat win this time.
+
+📺 XRoboHub
+
+👁️ 2.4M • 👍 20K • 💬 2K • ⏱️ 0:39 • 6d ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-25T21:04:45.676068+00:00'
+updated: '2026-04-25T22:01:44.363052+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
+- cryptocurrency
 - videos
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 25, 2026 at 21:04 UTC  
+**Last Updated:** April 25, 2026 at 22:01 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $279.08B
+**Market Cap:** $279.47B
 Rank #2
 
 **Circulating Supply:** 120,688,915 ETH
@@ -62,7 +62,7 @@ No max supply
 -53.2%
 
 **All-Time Low:** $0.43
-+533985.9%
++534734.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 been spending way too much time looking at the recent string of defi exploits and the amount of supply locked up in the same three lst platforms is honestly giving me anxiety. having that much of the network reliant on a few centralized points of failure makes me paranoid about massive tail risks. every time the market swings i find myself wanting to hedge this exposure, but the options are terrible. you either convert to fiat and trigger taxable events, or you play russian roulette with wrapped assets and multisig bridges that seem to get drained every other week. i went down a rabbit hole last night trying to find a way to secure my yields natively, maybe even hedging with digital gold or something stable, without fragmenting my liquidity across a dozen vulnerable front-ends. what are you guys actually doing to protect your bags long term? are we just stuck choosing between bare validator yields and accepting the centralized lst risk? curious if anyone has found a trust-minimized way to hedge this without leaving the ecosystem.
 
-7h ago
+8h ago
 
 ---
 
@@ -120,7 +120,7 @@ honestly starting to get really cynical about the state of governance on eth rig
 
 Justin Sun invested $45 million into World Liberty Financial. They froze his wallet, stripped his voting rights, and threatened to burn his tokens. Now he is taking them to federal court.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/trump-world-liberty-financial-justin-sun-lawsuit/) • 1d ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/trump-world-liberty-financial-justin-sun-lawsuit/) • 2d ago
 
 ---
 
@@ -164,7 +164,7 @@ The Block • 1d ago
 
 Here's what's new and catching attention around XRP, ETH, and DOGE.
 
-CryptoPotato • 21h ago
+CryptoPotato • 22h ago
 
 ---
 
@@ -194,7 +194,7 @@ Barron's • 2d ago
 
 Grayscale staked 102,400 ETH worth $237M via its Ethereum Staking ETF. Ethereum reaching $10,000 by December 31, 2026 at 4% YES.
 
-Crypto Briefing • 16h ago
+Crypto Briefing • 17h ago
 
 ---
 
@@ -232,23 +232,23 @@ FXStreet • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[ETHEREUM HOLDERS, THE SIGNAL IS FLASHING AGAIN (LAST TIME WE PUMPED FAST)](https://www.youtube.com/watch?v=iZd82wsW2zM)**
-
-Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ Deposit from $100: Get a 1% bonus Join The Trading ...
-
-📺 Tyler Hill Crypto
-
-👁️ 2K • 👍 125 • 💬 115 • ⏱️ 13:36 • 6h ago
-
----
-
 **[THEY ARE PREDICTING - $500K BITCOIN, $40K ETHEREUM, AND $50 XRP BY THIS DATE!](https://www.youtube.com/watch?v=DzdxhLkBDOo)**
 
 THEY ARE PREDICTING - $500K BITCOIN, $40K ETHEREUM, AND $50 XRP BY THIS DATE! GET AUSTIN'S X1 ALGO ...
 
 📺 Austin Hilton
 
-👁️ 2K • 👍 251 • 💬 15 • ⏱️ 9:47 • 4h ago
+👁️ 4K • 👍 324 • 💬 25 • ⏱️ 9:47 • 5h ago
+
+---
+
+**[ETHEREUM HOLDERS, THE SIGNAL IS FLASHING AGAIN (LAST TIME WE PUMPED FAST)](https://www.youtube.com/watch?v=iZd82wsW2zM)**
+
+Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ Deposit from $100: Get a 1% bonus Join The Trading ...
+
+📺 Tyler Hill Crypto
+
+👁️ 2K • 👍 153 • 💬 118 • ⏱️ 13:36 • 7h ago
 
 ---
 
@@ -258,27 +258,7 @@ THEY ARE PREDICTING - $500K BITCOIN, $40K ETHEREUM, AND $50 XRP BY THIS DATE! GE
 
 📺 Library Of Wealth
 
-👁️ 883 • 👍 41 • 💬 163 • ⏱️ 16:26 • 1d ago
-
----
-
-**[BITCOIN TRADERS ARE MAKING THE SAME MISTAKE!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=fDMBp4nJ_7E)**
-
-BITCOIN TRADERS ARE MAKING THE SAME MISTAKE!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
-
-📺 Crypto World
-
-👁️ 1K • 👍 141 • 💬 70 • ⏱️ 19:39 • 3h ago
-
----
-
-**[⚠️ Ethereum&#39;s Dark Days](https://www.youtube.com/watch?v=qlSFMBC7YXs)**
-
-Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 3K • 👍 78 • 💬 19 • ⏱️ 8:31 • 1d ago
+👁️ 948 • 👍 43 • 💬 133 • ⏱️ 16:26 • 1d ago
 
 ---
 
@@ -288,7 +268,27 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 15K • 👍 446 • 💬 53 • ⏱️ 23:11 • 2d ago
+👁️ 15K • 👍 448 • 💬 53 • ⏱️ 23:11 • 2d ago
+
+---
+
+**[⚠️ Ethereum&#39;s Dark Days](https://www.youtube.com/watch?v=qlSFMBC7YXs)**
+
+Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 3K • 👍 80 • 💬 19 • ⏱️ 8:31 • 1d ago
+
+---
+
+**[BITCOIN TRADERS ARE MAKING THE SAME MISTAKE!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=fDMBp4nJ_7E)**
+
+BITCOIN TRADERS ARE MAKING THE SAME MISTAKE!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
+
+📺 Crypto World
+
+👁️ 3K • 👍 200 • 💬 76 • ⏱️ 19:39 • 4h ago
 
 ---
 
@@ -298,17 +298,17 @@ Most people are declaring altcoins dead, but the crypto charts tell a completely
 
 📺 Crypto Capital Venture
 
-👁️ 9K • 👍 548 • 💬 144 • ⏱️ 13:20 • 1d ago
+👁️ 9K • 👍 552 • 💬 144 • ⏱️ 13:20 • 1d ago
 
 ---
 
-**[Ethereum Price Prediction: How High Can Ethereum Go in This Bull Market?](https://www.youtube.com/watch?v=_q3y8BaT5uc)**
+**[BE READY FOR THIS MOVE!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=L7uEUKqPQKM)**
 
-Ethereum has quietly become one of the most watched assets in this bull market cycle — and for good reason. In this video, we ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 Sir Luis
+📺 Cilinix Crypto
 
-👁️ 21 • 👍 2 • 💬 4 • ⏱️ 11:42 • 5h ago
+👁️ 165 • 👍 8 • 💬 2 • ⏱️ 4:34 • 13h ago
 
 ---
 
@@ -318,17 +318,17 @@ Ethereum is consolidating just below a descending trend line that has been with 
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 218 • 💬 20 • ⏱️ 10:43 • 21h ago
+👁️ 3K • 👍 218 • 💬 20 • ⏱️ 10:43 • 22h ago
 
 ---
 
-**[Ethereum ETH Price Prediction: Next Target $3300?](https://www.youtube.com/watch?v=gL0HPFpl2mg)**
+**[Ethereum Price Prediction: How High Can Ethereum Go in This Bull Market?](https://www.youtube.com/watch?v=_q3y8BaT5uc)**
 
-Ethereum breaks previous support, targeting upside resistance at $2235-$2602. A decisive break above $2600 is key for further ...
+Ethereum has quietly become one of the most watched assets in this bull market cycle — and for good reason. In this video, we ...
 
-📺 CryptoMeownalysis
+📺 Sir Luis
 
-👁️ 10 • 👍 1 • ⏱️ 1:11 • 6h ago
+👁️ 33 • 👍 2 • 💬 5 • ⏱️ 11:42 • 6h ago
 
 ---
 

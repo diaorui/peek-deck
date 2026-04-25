@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-25T21:04:45.663177+00:00'
+updated: '2026-04-25T22:01:44.348608+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
 - videos
-- social
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 25, 2026 at 21:04 UTC  
+**Last Updated:** April 25, 2026 at 22:01 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Slack messages, interviews with current and former works paint picture of company in turmoil.
 
-🔗 [Ars Technica](https://arstechnica.com/tech-policy/2026/04/palantir-employees-are-talking-about-companys-descent-into-fascism/) • 3h ago
+🔗 [Ars Technica](https://arstechnica.com/tech-policy/2026/04/palantir-employees-are-talking-about-companys-descent-into-fascism/) • 4h ago
 
 ---
 
@@ -49,7 +49,7 @@ Slack messages, interviews with current and former works paint picture of compan
 
 A new survey carried out amongst 12 to 16-year-old boys has found that many of them prefer to use AI chatbots than engage with other people their age.
 
-🔗 [Dexerto](https://www.dexerto.com/entertainment/gen-alpha-boys-are-preferring-ai-girlfriends-over-real-ones-3356718/) • 5h ago
+🔗 [Dexerto](https://www.dexerto.com/entertainment/gen-alpha-boys-are-preferring-ai-girlfriends-over-real-ones-3356718/) • 6h ago
 
 ---
 
@@ -57,7 +57,7 @@ A new survey carried out amongst 12 to 16-year-old boys has found that many of t
 
 But in the wrong way Crazy encounter 🤣 Another reason to use claude daily
 
-25m ago
+1h ago
 
 ---
 
@@ -65,7 +65,7 @@ But in the wrong way Crazy encounter 🤣 Another reason to use claude daily
 
 I work for a Fortune 100 company that is not in the tech space. The company is increasingly using AI to make employees more productive. They have introduced internal AI chat tools that allow selection of OpenAI or Gemini models. We’ve also rolled out M365 Copilot to executives and middle managers. (While not earth-shattering, it certainly has made me more productive and integrates well with our Microsoft ecosystem.) Where I have not seen it as much is in our tool development/digital solutions. While there is a lot of talk about it being embedded in decision making in the future, I’ve not seen it used effectively by our internal developers or external developer partners. I keep waiting for a significant increase in the pace of feature development. Are others feeling this tension, where the expectation of faster feature development via AI is meeting reality or are we just falling behind?
 
-5h ago
+6h ago
 
 ---
 
@@ -73,7 +73,7 @@ I work for a Fortune 100 company that is not in the tech space. The company is i
 
 Why tech giants are starting to restrict their most capable models from the public.
 
-🔗 [TIME](https://time.com/article/2026/04/24/claude-mythos-chatgpt-rosalind-release-dangerous/) • 2h ago
+🔗 [TIME](https://time.com/article/2026/04/24/claude-mythos-chatgpt-rosalind-release-dangerous/) • 3h ago
 
 ---
 
@@ -81,7 +81,7 @@ Why tech giants are starting to restrict their most capable models from the publ
 
 https://reddit.com/link/1svixo0/video/hgwrueuekdxg1/player No tricks, no copy-paste. Two completely different AI models, separate conversations - one remembers what the other was told. The way it works: every message gets embedded and stored. When you open a new chat with any model, your memory is injected into context automatically. GPT, Claude, Gemini, Grok and DeepSeek - they all share the same memory layer. So when I told GPT-5 Nano "I live in Bahrain" and then opened a fresh Claude Sonnet 4.6 conversation and asked "where do I live?" - it said "Based on your memory, you live in Bahrain 🇧🇭" Live on asksary.com now
 
-3h ago
+4h ago
 
 ---
 
@@ -89,7 +89,7 @@ https://reddit.com/link/1svixo0/video/hgwrueuekdxg1/player No tricks, no copy-pa
 
 Oops! "GPT‑5.5 is our strongest agentic coding model to date." "The gains are especially strong in agentic coding." "Instead of carefully managing every step, you can give GPT‑5.5 a messy, multi-part task and trust it to plan, use tools, check its work, navigate through ambiguity, and keep going." These quotations sum up OpenAI's spin on 5.5. They created an entirely new subscription tier for it and made it the focus of Codex. Here, agentic coding isn’t just a feature but the selling point. Well, looking at LiveBench’s independent agentic coding score, this is just a lot of hot air. The score for GPT-5.5 xHigh Effort is 56.67. Its predecessor, GPT-5.4, thrashes it at 70.00 on the same benchmark. Gemini 3.1 Pro, Claude 4.6 and others easily outperform it, too. In this highly relevant benchmark alone, it actually ranks 11th, just behind GPT-5.1 Codex. While OpenAI were able to max Terminal-Bench (their benchmark) and SWE-Bench Pro, in a reliable test they didn’t design, select, or control, their main model falls drastically short compared both to its predecessor and the competition in the area it was meant to excel in. Is this as damning as it looks? What's your experience actually using 5.5 for agentic coding?
 
-14h ago
+15h ago
 
 ---
 
@@ -97,7 +97,7 @@ Oops! "GPT‑5.5 is our strongest agentic coding model to date." "The gains are 
 
 Just got accepted into the Anthropic Claude Partner Network. Part of the requirement is completing the CPN learning path with 10 people under our org’s domain. The learning path is 4 courses on Anthropic Academy — Agent Skills, Claude API, MCP, and Claude Code in Action. Once all 10 finish, the org gets CCAF exam access unlocked. The exam is currently free for partner org members if anyone here is already working with Claude and wants to complete this alongside us. You’d use a company domain email alias we set up — courses are fully self-paced. The courses are genuinely useful if you’re building with Claude. Comment or DM if relevant to you.
 
-18h ago
+19h ago
 
 ---
 
@@ -105,7 +105,7 @@ Just got accepted into the Anthropic Claude Partner Network. Part of the require
 
 The thing that kept bothering me: the gap between "I have an idea" and "I have a business" isn't talent or intelligence. It's just execution. Setting up the store, writing the copy, figuring out payments, running ads. Most people give up somewhere in that gap, not because they didn't want it badly enough, but because none of that is what they're actually good at. So we got into Y Combinator and built Locus Founder. Locus Founder is an AI agent that builds an online business for you from scratch, to make you money while you sleep. It builds, runs, and manages everything for you so you never have to step in - all over SMS/iMessage! First of all, it's completely free to beta test (must be from the US), and you keep all of your earnings. You tell it what kind of business you want; drop-shipping, a digital service, content-based, whatever. If you don't have an idea, it interviews you and proposes options. Then it builds the whole thing. Real website. Real checkout. Real marketing. The agent runs the operations, and you collect the revenue. No technical background needed. No Shopify setup. No figuring out ad accounts. The agent handles it. We're launching publicly in a few weeks, but opening 100 private beta spots this week for people who actually want to try building something. I want real feedback from people who give it a genuine shot, not just people who sign up and disappear. If that's you, this is the google form to sign up to beta test (you keep all the earnings): https://forms.gle/nW7CGN1PNBHgqrBb8 Happy to answer anything about how it works, what's under the hood, or what kinds of businesses it builds well. All questions welcome.
 
-1h ago
+2h ago
 
 ---
 
@@ -113,7 +113,7 @@ The thing that kept bothering me: the gap between "I have an idea" and "I have a
 
 There's this weird split happening right now. Some AI tools are genuinely making people's lives easier. Others are sitting unused because they don't solve a real problem. I've noticed a pattern. The AI tools that people actually stick with aren't the flashy ones. They're the ones that slot directly into something you already do. Take AI transcription. Most people demo it once and stop because the setup is friction-heavy. But if you're someone who does a lot of interviews or meeting notes, a tool that just sits there and transcribes in the background? That changes your workflow completely. Or custom AI chatbots built on your own docs. Developers love talking about fine-tuning and prompt engineering. But the real use case that gets adoption is simpler: small business owner uploads their FAQ, their product docs, gets an AI that answers customer questions. No API knowledge required. No prompt engineering needed. The difference isn't the AI itself. It's the problem fit. I think a lot of people jump into AI expecting it to revolutionize everything. The reality is it's better at solving specific, repetitive problems. If you're not doing something repetitive or if you already have a system that works, AI isn't going to dramatically improve your life. Where do you see the problem fit actually working? What AI tools have actually changed how you work instead of just being a novelty?
 
-2h ago
+3h ago
 
 ---
 
@@ -125,7 +125,7 @@ There's this weird split happening right now. Some AI tools are genuinely making
 
 Software giants are seeing their worst stock performance in years on fears of AI disruption. Now they have a new problem.
 
-CNBC • 8h ago
+CNBC • 9h ago
 
 ---
 
@@ -133,7 +133,7 @@ CNBC • 8h ago
 
 Met says AI software unearthed rule-breaking ranging from work-from-home violations to suspected corruption
 
-The Guardian • 5h ago
+The Guardian • 6h ago
 
 ---
 
@@ -141,7 +141,7 @@ The Guardian • 5h ago
 
 Artificial intelligence tools have made financial advice more accessible, but they have also created a significant privacy risk.
 
-The Washington Post • 5h ago
+The Washington Post • 6h ago
 
 ---
 
@@ -149,7 +149,7 @@ The Washington Post • 5h ago
 
 Across social media, an influx of A.I.-generated avatars is reshaping what it means to be an influencer.
 
-The New Yorker • 11h ago
+The New Yorker • 12h ago
 
 ---
 
@@ -157,7 +157,7 @@ The New Yorker • 11h ago
 
 Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.
 
-OpenAI • 1d ago
+OpenAI • 2d ago
 
 ---
 
@@ -165,7 +165,7 @@ OpenAI • 1d ago
 
 A group called Explosive Media, which is behind dozens of recent viral videos, told NBC News they're based in Iran but don't work for the regime.
 
-NBC News • 22h ago
+NBC News • 23h ago
 
 ---
 
@@ -173,13 +173,13 @@ NBC News • 22h ago
 
 Priests and theologians want to shape the future of AI. Big Tech is listening.
 
-The Atlantic • 10h ago
+The Atlantic • 11h ago
 
 ---
 
 **[Trump alum helps Israel mount AI influence campaign](https://www.axios.com/2026/04/25/israel-ai-influence-parscale)**
 
-Axios • 9h ago
+Axios • 10h ago
 
 ---
 
@@ -195,7 +195,7 @@ CNBC • 1d ago
 
 Meta is laying off more workers — and monitoring the ones who are left in order to train AI to maybe replace them.
 
-New York Magazine • 11h ago
+New York Magazine • 12h ago
 
 ---
 
@@ -231,7 +231,7 @@ How Ars Technica uses, and doesn't use, generative AI.
 
 Give any AI agent a persistent memory in minutes. Works with Claude, ChatGPT, Ollama, OpenRouter, and any MCP-compatible agent. Open source, self-hosted, model-agnostic.
 
-⬆️ 158 • 💬 67 • 19h ago • [Stash](https://alash3al.github.io/stash?_v01)
+⬆️ 158 • 💬 67 • 20h ago • [Stash](https://alash3al.github.io/stash?_v01)
 
 ---
 
@@ -245,7 +245,7 @@ The airport targeted gate announcements, overlapping PA messages, and tenant mus
 
 **[Lambda Calculus Benchmark for AI](https://news.ycombinator.com/item?id=47900506)**
 
-⬆️ 112 • 💬 35 • 9h ago • [victortaelin.github.io](https://victortaelin.github.io/lambench/)
+⬆️ 112 • 💬 35 • 10h ago • [victortaelin.github.io](https://victortaelin.github.io/lambench/)
 
 ---
 
@@ -283,13 +283,13 @@ By all accounts, I should be a neofeudalist. I should love what’s happening. T
 
 ## YouTube Videos: "ai"
 
-**[Reese Witherspoon Pushing AI Because Feminism](https://www.youtube.com/watch?v=bokzV6kadfc)**
+**[DeepSeek V4 just shocked the AI industry…](https://www.youtube.com/watch?v=UVObNdNmzzw)**
 
-Watch the Majority Report live Monday–Friday at 12pm EST on YouTube or http://www.Majority.fm To connect and organize with ...
+Wanna learn how to code with AI? Go here: https://www.skool.com/new-society Follow me on Instagram ...
 
-📺 The Majority Report w/ Sam Seder
+📺 David Ondrej
 
-👁️ 32K • 👍 2K • 💬 305 • ⏱️ 13:15 • 23h ago
+👁️ 39K • 👍 1K • 💬 184 • ⏱️ 29:53 • 1d ago
 
 ---
 
@@ -299,7 +299,17 @@ Here's the AI News you probably missed this week. Warp is the agentic developmen
 
 📺 Matt Wolfe
 
-👁️ 71K • 👍 3K • 💬 199 • ⏱️ 42:57 • 1d ago
+👁️ 74K • 👍 3K • 💬 205 • ⏱️ 42:57 • 1d ago
+
+---
+
+**[Reese Witherspoon Pushing AI Because Feminism](https://www.youtube.com/watch?v=bokzV6kadfc)**
+
+Watch the Majority Report live Monday–Friday at 12pm EST on YouTube or http://www.Majority.fm To connect and organize with ...
+
+📺 The Majority Report w/ Sam Seder
+
+👁️ 34K • 👍 2K • 💬 314 • ⏱️ 13:15 • 1d ago
 
 ---
 
@@ -307,7 +317,7 @@ Here's the AI News you probably missed this week. Warp is the agentic developmen
 
 📺 Dean Graziosi
 
-👁️ 130K • 👍 6K • 💬 69 • ⏱️ 4:21:14 • 23h ago
+👁️ 133K • 👍 6K • 💬 74 • ⏱️ 4:21:14 • 1d ago
 
 ---
 
@@ -317,7 +327,7 @@ I don't think I said this quite clearly enough in this video but I have no idea 
 
 📺 vlogbrothers
 
-👁️ 158K • 👍 11K • 💬 1K • ⏱️ 8:43 • 1d ago
+👁️ 167K • 👍 12K • 💬 2K • ⏱️ 8:43 • 1d ago
 
 ---
 
@@ -327,27 +337,7 @@ Hello guys and gals, it's me Mutahar again! This time we take a look at what app
 
 📺 SomeOrdinaryGamers
 
-👁️ 140K • 👍 7K • 💬 848 • ⏱️ 19:20 • 20h ago
-
----
-
-**[Claude 5 – The New AI Era is Here! BYE, CHATGPT...](https://www.youtube.com/watch?v=qT4toLvs3n8)**
-
-sponsored Build with Softr ...
-
-📺 AI Master
-
-👁️ 28K • 👍 473 • 💬 70 • ⏱️ 21:44 • 2d ago
-
----
-
-**[‘BLACKMAILING HUMANS’: Anthropic study reveals AI assistants went ROGUE](https://www.youtube.com/watch?v=yI-Eovv2aSE)**
-
-Anthropic head of frontier red team Logan Graham discusses the power of AI and cybersecurity threats on 'Mornings with Maria.
-
-📺 Fox Business
-
-👁️ 28K • 👍 700 • 💬 240 • ⏱️ 16:46 • 1d ago
+👁️ 147K • 👍 7K • 💬 836 • ⏱️ 19:20 • 21h ago
 
 ---
 
@@ -357,27 +347,37 @@ Rogue researchers are telling the truth about AI Depth vs breadth: https://x.com
 
 📺 Mo Bitar
 
-👁️ 374K • 👍 22K • 💬 3K • ⏱️ 9:06 • 2d ago
+👁️ 382K • 👍 22K • 💬 4K • ⏱️ 9:06 • 2d ago
 
 ---
 
-**[The AI Job Crisis Andrew Yang Saw Coming | Prof G Markets](https://www.youtube.com/watch?v=_nSSlpbqEX8)**
+**[25 AI Facts That Feels Illegal To Know](https://www.youtube.com/watch?v=9TNsVBmijb8)**
 
-Subscribe to @ProfGMarkets for full content Find the full episode here: https://youtu.be/-p1NB-uKhYg In this episode preview, ...
+Go to my sponsor https://venice.ai/list25 and use code list25 to enjoy private, uncensored AI. Using my code will get you 20% off a ...
 
-📺 The Prof G Pod – Scott Galloway
+📺 List 25
 
-👁️ 30K • 👍 633 • 💬 109 • ⏱️ 13:32 • 1d ago
+👁️ 14K • 👍 882 • 💬 96 • ⏱️ 27:02 • 23h ago
 
 ---
 
-**[I&#39;ve studied AI risk for 20 years. We&#39;re close to a disaster.](https://www.youtube.com/watch?v=fYRmnrDFPes)**
+**[NO OPERATORS NEEDED! Budanov reveals Ukraine&#39;s NEW AI autonomous UAVs](https://www.youtube.com/watch?v=ndbk4UxlfQo)**
 
-Roman Yampolskiy explains why superintelligence cannot be controlled, why the gap between AI capabilities and AI safety keeps ...
+Kyrylo Budanov, Head of Ukraine's Presidential Office, announces a new era: the full integration of AI into Ukrainian drones.
 
-📺 Future of Life Institute
+📺 UATV English
 
-👁️ 19K • 👍 627 • 💬 156 • ⏱️ 19:17 • 2d ago
+👁️ 6K • 👍 597 • 💬 32 • ⏱️ 12:52 • 1d ago
+
+---
+
+**[Claude 5 – The New AI Era is Here! BYE, CHATGPT...](https://www.youtube.com/watch?v=qT4toLvs3n8)**
+
+sponsored Build with Softr ...
+
+📺 AI Master
+
+👁️ 28K • 👍 488 • 💬 71 • ⏱️ 21:44 • 2d ago
 
 ---
 
@@ -393,7 +393,7 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 `text-generation` `861.6B`
 
-⬇️ 78,864 • ❤️ 2,667 • 1d ago
+⬇️ 78,864 • ❤️ 2,675 • 1d ago
 
 ---
 
@@ -405,7 +405,7 @@ Kimi K2.6 is a 1T parameter multimodal agentic model excelling in long-horizon c
 
 `image-text-to-text` `1058.6B`
 
-⬇️ 291,840 • ❤️ 1,018 • 2d ago
+⬇️ 291,840 • ❤️ 1,024 • 2d ago
 
 ---
 
@@ -417,7 +417,7 @@ Qwen3.6-27B is a 27B parameter causal language model with a vision encoder, exce
 
 `image-text-to-text` `27.8B`
 
-⬇️ 257,685 • ❤️ 803 • 1d ago
+⬇️ 257,685 • ❤️ 809 • 1d ago
 
 ---
 
@@ -429,7 +429,7 @@ A bidirectional token-classification model for PII detection and masking, capabl
 
 `token-classification` `1.4B`
 
-⬇️ 21,097 • ❤️ 743 • 3d ago
+⬇️ 21,097 • ❤️ 748 • 3d ago
 
 ---
 
@@ -441,7 +441,7 @@ DeepSeek-V4-Flash is a 284B parameter Mixture-of-Experts language model supporti
 
 `text-generation` `158.1B`
 
-⬇️ 25,391 • ❤️ 680 • 1d ago
+⬇️ 25,391 • ❤️ 684 • 1d ago
 
 ---
 
@@ -453,7 +453,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with a vision encoder, 
 
 `image-text-to-text` `36.0B`
 
-⬇️ 1,027,741 • ❤️ 1,399 • 1d ago
+⬇️ 1,027,741 • ❤️ 1,402 • 1d ago
 
 ---
 
@@ -465,19 +465,7 @@ Qwen3.6-27B-GGUF is a 27B parameter causal language model with vision capabiliti
 
 `image-text-to-text` `26.9B`
 
-⬇️ 458,273 • ❤️ 399 • 3d ago
-
----
-
-**[HY-World-2.0](https://huggingface.co/tencent/HY-World-2.0)**
-
-*Tencent*
-
-HY-World 2.0 is a multi-modal framework for generating and reconstructing 3D worlds from text, images, or video. It produces editable 3D assets like meshes and Gaussian Splattings, enabling applications in game development and simulation.
-
-`image-to-3d`
-
-⬇️ 2,851 • ❤️ 599 • 3d ago
+⬇️ 458,273 • ❤️ 402 • 3d ago
 
 ---
 
@@ -489,7 +477,19 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with vision capabilitie
 
 `image-text-to-text` `34.7B`
 
-⬇️ 1,488,984 • ❤️ 761 • 5d ago
+⬇️ 1,488,984 • ❤️ 762 • 5d ago
+
+---
+
+**[HY-World-2.0](https://huggingface.co/tencent/HY-World-2.0)**
+
+*Tencent*
+
+HY-World 2.0 is a multi-modal framework for generating and reconstructing 3D worlds from text, images, or video. It produces editable 3D assets like meshes and Gaussian Splattings, enabling applications in game development and simulation.
+
+`image-to-3d`
+
+⬇️ 2,851 • ❤️ 601 • 3d ago
 
 ---
 
@@ -501,7 +501,7 @@ This is an uncensored, aggressive multimodal model based on Qwen3.6-35B-A3B, cap
 
 `image-text-to-text` `34.7B`
 
-⬇️ 418,743 • ❤️ 428 • 8d ago
+⬇️ 418,743 • ❤️ 429 • 8d ago
 
 ---
 
@@ -523,18 +523,6 @@ GenericAgent is a self-evolving large language model agent system that maximizes
 
 ---
 
-**[Kronos: A Foundation Model for the Language of Financial Markets](https://huggingface.co/papers/2508.02739)**
-
-*Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)*
-
-Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
-
-▲ 25 • 💬 1 • ⭐ 21,366 • 8mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
-
----
-
 **[RAG-Anything: All-in-One RAG Framework](https://huggingface.co/papers/2510.12323)**
 
 *Zirui Guo, Xubin Ren, Lingrui Xu et al. (5 authors)*
@@ -546,6 +534,18 @@ RAG-Anything is a unified framework that enhances multimodal knowledge retrieval
 ▲ 77 • 💬 6 • ⭐ 18,634 • 6mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.12323) • [💻 code](https://github.com/HKUDS/RAG-Anything)
+
+---
+
+**[Kronos: A Foundation Model for the Language of Financial Markets](https://huggingface.co/papers/2508.02739)**
+
+*Yu Shi, Zongliang Fu, Shuo Chen et al. (7 authors)*
+
+Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
+
+▲ 25 • 💬 1 • ⭐ 21,445 • 8mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
 ---
 
@@ -595,7 +595,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 LLaDA2.0-Uni is a unified discrete diffusion language model that integrates multimodal understanding and generation through a semantic discrete tokenizer, MoE-based backbone, and diffusion decoder, achieving performance comparable to specialized vision-language models while enabling efficient inference and high-fidelity image generation.
 
-▲ 226 • 💬 2 • ⭐ 429 • 4d ago
+▲ 227 • 💬 2 • ⭐ 429 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.20796) • [💻 code](https://github.com/inclusionAI/LLaDA2.0-Uni)
 
@@ -622,7 +622,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
 
-▲ 165 • 💬 10 • ⭐ 41,015 • 8mo ago
+▲ 165 • 💬 10 • ⭐ 41,075 • 8mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
@@ -651,7 +651,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 49.6k • 🔱 6.5k • 11h ago
+⭐ 49.6k • 🔱 6.5k • 12h ago
 
 ---
 
@@ -661,7 +661,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 46.4k • 🔱 2.4k • 7d ago
+⭐ 46.5k • 🔱 2.4k • 7d ago
 
 ---
 
@@ -681,7 +681,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 34.7k • 🔱 3.9k • 6h ago
+⭐ 34.8k • 🔱 3.9k • 7h ago
 
 ---
 
@@ -731,7 +731,7 @@ The headless browser for AI agents and web scraping
 
 `Rust`
 
-⭐ 4.4k • 🔱 257 • 8h ago
+⭐ 4.6k • 🔱 266 • 9h ago
 
 ---
 
