@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-26T11:11:54.800134+00:00'
+updated: '2026-04-26T12:03:51.692782+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
 - news
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 26, 2026 at 11:11 UTC  
+**Last Updated:** April 26, 2026 at 12:03 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1562.11B
+**Market Cap:** $1563.86B
 Rank #1
 
-**Circulating Supply:** 20,020,937 BTC
+**Circulating Supply:** 20,021,000 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
 -38.1%
 
 **All-Time Low:** $67.81
-+114978.9%
++115080.7%
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 In 2023 I started investing in Bitcoin but it was at an all time high at 29k and sold, now I regret it and started buying again.
 
-7h ago
+8h ago
 
 ---
 
@@ -95,7 +95,7 @@ In 2023 I started investing in Bitcoin but it was at an all time high at 29k and
 
 The US Treasury froze $344 million in USDT linked to Iran with a single call to Tether. Bitcoin kept processing every Iranian transaction without interruption. That is the whole story.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/us-froze-tether-iran-bitcoin-untouchable/) • 22h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/us-froze-tether-iran-bitcoin-untouchable/) • 23h ago
 
 ---
 
@@ -111,7 +111,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 In 17 years, Bitcoin has become more than 1% of global money supply. It's estimated half a billion people own Bitcoin, most indirectly. There are many narratives for using it: insurance policy, inflation hedge, investment, etc. While Bitcoin is a wonderful asset, we believe the real value is held in the network itself. The world needs a permissionless global payment network with a currency accepted everywhere. Bitcoin should help you save, pay, remit and run a business, but it needs to feel familiar. Self-custody should be available and accessible to everyone. No learning required. Open source. Free. Globally available. Most users will enjoy our platform without needing to sign up or pay for anything: decentralised and pseudonymous. We will offer the ability to convert to other global currencies in the app, so you can accept Bitcoin in your business and cash out to a bank account each week if you need to cover bills in fiat. Total flexibility and control of your money. For power users who need personal or business accountancy services and tax advice we offer access to the most prestigious accounting firms in each market through our partner program. Our first partners will be announced on our website soon. We will comply with all global payment sanctions and work hard to establish positive relationships with regulators to ensure we build a service our users can rely on. Our company is based in the United Kingdom, with contributors in four time zones. We are Market Town.
 
-1h ago
+2h ago
 
 ---
 
@@ -119,7 +119,7 @@ In 17 years, Bitcoin has become more than 1% of global money supply. It's estima
 
 Hello, so my bank/banks in my country in Europe do not allow bitcoin to be purchased using debit or credit cards. I did find a way to use bank transfer for platforms like Kraken, but they charge me a monthly fee just to have that feature, which is difficult for me since I am currently on a tight budget. I am wondering if there is any alternative way for me to buy bitcoin through another platform, such as Binance, and then transfer or trade it to my Kraken wallet safely and without high fees.
 
-13h ago
+14h ago
 
 ---
 
@@ -127,7 +127,7 @@ Hello, so my bank/banks in my country in Europe do not allow bitcoin to be purch
 
 Ppl only looking at short term liquidity saying shorts have been liquidated. But have u paid attention to older liquidity? Coinglass 3 month chart barely shows it. U need smth like trading different to see it fully. Goes all the way up to 96k. And there is a ton of it. Pay attention to the sideways consolidation, we have been doing this every weekend and then pumping to the upside. Everyone and their mom is shorting here. That means a very very very strong chance of upside. We’re going into the 80s at the very least. Do not short and get rekt. Dca/buy and hold
 
-16h ago
+17h ago
 
 ---
 
@@ -135,7 +135,7 @@ Ppl only looking at short term liquidity saying shorts have been liquidated. But
 
 Hello all, I feel like its very difficult now to actually have 100% safe and anonymous wallet. What would the steps to have a safe and anonymous wallet that would never be tracked to a person name? This must include Safety: if you suggest a website or an app to generate a wallet and get the keys for and then print it out on piece of paper. How are you 100% sure the generator is not fake? Anonymity: getting the wallet undocumented and how to later on exchange it back to fiat without having to through places like Coinbase etc... Purchasing: Many business online now accept crypto/btc but its usually associated to an account/name. I feel like the regulations are "needed" for crypto to be accepted in masses but that kind of breaks the purpose of it. Thanks in advance
 
-52m ago
+1h ago
 
 ---
 
@@ -143,7 +143,7 @@ Hello all, I feel like its very difficult now to actually have 100% safe and ano
 
 Why does every finance app try to look like a Bloomberg Terminal? 90% of those charts are just noise. I’ve been working on a project that strips all that away. It’s a simple, high-precision tracker for crypto and stocks. Important note: To keep things secure and simple, there are no trading features. You don't buy or sell assets in the app—it's designed solely to give you a perfect, clean overview of your portfolio and the market. If you’re looking for a more zen way to keep an eye on the market, give it a try. Link: https://play.google.com/store/apps/details?id=cz.akcie.app
 
-14h ago
+15h ago
 
 ---
 
@@ -151,7 +151,7 @@ Why does every finance app try to look like a Bloomberg Terminal? 90% of those c
 
 I have private keys from years ago to wallets that I've abandoned. Even though I don't use them and never plan to, I have a fear that I'll accidentally fund an old wallet from something that I forgot about (old exchange, someone tipping me to an old address, who-knows-what). I was imagining some little self-hosted app on my node that checks new blocks against known archived wallets and lets me know if a transaction matches - or for larger amounts, sweeps the funds automatically. I don't have anything like this, so I have copies of private keys and (for more recent wallets) seed phrases backed up in various places. I'm sure that I should be more organized about it, but what's the best way? I could see it getting out of hand easily and taking ages to go through everything on the regular to check balances. I look forward to a discussion on the best way to handle this. What are your ideas/solutions?
 
-19h ago
+20h ago
 
 ---
 
@@ -163,13 +163,13 @@ I have private keys from years ago to wallets that I've abandoned. Even though I
 
 IBIT options open interest topped Deribit on Friday, signaling rapid institutional adoption of regulated crypto derivatives in the U.S.
 
-CoinDesk • 16h ago
+CoinDesk • 17h ago
 
 ---
 
 **[Bitcoin’s Stealth Rally Has Traders Setting Sights on $80,000](https://www.bloomberg.com/news/articles/2026-04-25/bitcoin-s-stealth-rally-has-traders-setting-sights-on-80-000)**
 
-Bloomberg.com • 22h ago
+Bloomberg.com • 23h ago
 
 ---
 
@@ -177,7 +177,7 @@ Bloomberg.com • 22h ago
 
 SkyBridge Capital founder Anthony Scaramucci sparked a conversation on Thursday about Bitcoin’s potential worth if it becomes critical infrastructure for cybersecurity, specifically to counter AI-driven threats. Bitcoin’s Real Worth In an X post, Scaramucci highlighted gold’s $30 trillion valuation and...
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -249,7 +249,7 @@ Build wallets, issue stablecoins, and move BTC instantly: all natively on Bitcoi
 
 The U.S. military is actively running a Bitcoin node and testing the protocol’s cryptographic architecture as a tool for securing and protecting networks, according to INDOPACOM commander Admiral Samuel Paparo.
 
-⬆️ 5 • 💬 0 • 2d ago • [Bitcoin Magazine](https://bitcoinmagazine.com/news/the-us-military-is-running-a-bitcoin-node)
+⬆️ 5 • 💬 0 • 3d ago • [Bitcoin Magazine](https://bitcoinmagazine.com/news/the-us-military-is-running-a-bitcoin-node)
 
 ---
 
@@ -325,17 +325,7 @@ Michael Saylor is buying at a pace that could trigger a historic Bitcoin supply 
 
 📺 Simply Bitcoin
 
-👁️ 11K • 👍 1K • 💬 67 • ⏱️ 20:53 • 12h ago
-
----
-
-**[A Generational Crypto Buying Opportunity Has Begun](https://www.youtube.com/watch?v=h4p4pKrFbWs)**
-
-Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=AltcoinDaily Grab Tickets to BTC Conference ...
-
-📺 Altcoin Daily
-
-👁️ 27K • 👍 2K • 💬 149 • ⏱️ 8:58 • 14h ago
+👁️ 12K • 👍 1K • 💬 69 • ⏱️ 20:53 • 13h ago
 
 ---
 
@@ -345,47 +335,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRus Extra
 
-👁️ 6K • 👍 308 • 💬 168 • ⏱️ 8:10 • 20h ago
-
----
-
-**[Why Bitcoin WINS No Matter What Happens to Inflation](https://www.youtube.com/watch?v=OisxT95bkk8)**
-
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
-
-📺 Anthony Pompliano
-
-👁️ 41K • 👍 2K • 💬 52 • ⏱️ 57:11 • 22h ago
-
----
-
-**[Bitcoin&#39;s Most Dangerous Rally is Happening Right Now!](https://www.youtube.com/watch?v=X3V94U_p3WA)**
-
-Bitcoin is rallying out of a major drawdown while funding rates stay flat, shorts get squeezed, and spot demand keeps absorbing ...
-
-📺 Simply Bitcoin
-
-👁️ 54K • 👍 3K • 💬 203 • ⏱️ 20:08 • 2d ago
-
----
-
-**[BITCOIN WARNING: $85k Fakeout Before Flush To $50,000?](https://www.youtube.com/watch?v=1xEYGkUPX5c)**
-
-Gareth uses it! Download Rumble Wallet now and enjoy the benefits of financial and personal freedom!
-
-📺 Gareth Soloway
-
-👁️ 50K • 👍 3K • 💬 381 • ⏱️ 10:41 • 21h ago
-
----
-
-**[THEY ARE PREDICTING - $500K BITCOIN, $40K ETHEREUM, AND $50 XRP BY THIS DATE!](https://www.youtube.com/watch?v=DzdxhLkBDOo)**
-
-THEY ARE PREDICTING - $500K BITCOIN, $40K ETHEREUM, AND $50 XRP BY THIS DATE! GET AUSTIN'S X1 ALGO ...
-
-📺 Austin Hilton
-
-👁️ 9K • 👍 478 • 💬 92 • ⏱️ 9:47 • 18h ago
+👁️ 6K • 👍 310 • 💬 171 • ⏱️ 8:10 • 21h ago
 
 ---
 
@@ -395,7 +345,67 @@ Kevin Warsh may be the next Fed Chair, and the real question is simple: when doe
 
 📺 Swan Bitcoin
 
-👁️ 4K • 👍 281 • 💬 45 • ⏱️ 11:16 • 8h ago
+👁️ 6K • 👍 348 • 💬 10 • ⏱️ 11:16 • 9h ago
+
+---
+
+**[A Generational Crypto Buying Opportunity Has Begun](https://www.youtube.com/watch?v=h4p4pKrFbWs)**
+
+Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=AltcoinDaily Grab Tickets to BTC Conference ...
+
+📺 Altcoin Daily
+
+👁️ 30K • 👍 2K • 💬 126 • ⏱️ 8:58 • 15h ago
+
+---
+
+**[Why Bitcoin WINS No Matter What Happens to Inflation](https://www.youtube.com/watch?v=OisxT95bkk8)**
+
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+
+📺 Anthony Pompliano
+
+👁️ 43K • 👍 2K • 💬 52 • ⏱️ 57:11 • 23h ago
+
+---
+
+**[BITCOIN WARNING: $85k Fakeout Before Flush To $50,000?](https://www.youtube.com/watch?v=1xEYGkUPX5c)**
+
+Gareth uses it! Download Rumble Wallet now and enjoy the benefits of financial and personal freedom!
+
+📺 Gareth Soloway
+
+👁️ 52K • 👍 3K • 💬 387 • ⏱️ 10:41 • 22h ago
+
+---
+
+**[Mark Moss: The 50-Year Cycle Pointing to Bitcoin&#39;s Biggest Bull Run | BM Podcast Ep 8](https://www.youtube.com/watch?v=Cw7Wnw0GyOM)**
+
+Mark Moss is an optimist and he makes a compelling case for why Bitcoin holders should be too. In this Bitcoin Magazine Podcast ...
+
+📺 Bitcoin Magazine
+
+👁️ 12K • 👍 453 • 💬 30 • ⏱️ 59:02 • 2d ago
+
+---
+
+**[THEY ARE PREDICTING - $500K BITCOIN, $40K ETHEREUM, AND $50 XRP BY THIS DATE!](https://www.youtube.com/watch?v=DzdxhLkBDOo)**
+
+THEY ARE PREDICTING - $500K BITCOIN, $40K ETHEREUM, AND $50 XRP BY THIS DATE! GET AUSTIN'S X1 ALGO ...
+
+📺 Austin Hilton
+
+👁️ 10K • 👍 490 • 💬 94 • ⏱️ 9:47 • 19h ago
+
+---
+
+**[BITCOIN: IT&#39;S TIME TO SELL...](https://www.youtube.com/watch?v=9EpBAACH5vE)**
+
+WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
+
+📺 Crypto Rover
+
+👁️ 6K • 👍 467 • 💬 42 • ⏱️ 7:08 • 5h ago
 
 ---
 
@@ -405,17 +415,7 @@ Let's talk about Bitcoin dominance, altcoins, and monetary policy! Into The Cryp
 
 📺 Benjamin Cowen
 
-👁️ 60K • 👍 3K • 💬 282 • ⏱️ 37:14 • 1d ago
-
----
-
-**[BITCOIN PUMP TO $80K NEXT WEEK? CRYPTO INDUSTRY PUSHES SENATE ON CLARITY ACT!](https://www.youtube.com/watch?v=oCEzc-LeSDo)**
-
-Crypto News: Bitcoin signals show a potential rally to $80K- $85K soon. Crypto industry urge senators to markup the Clarity Act.
-
-📺 Thinking Crypto
-
-👁️ 2K • 👍 227 • 💬 61 • ⏱️ 17:34 • 7h ago
+👁️ 60K • 👍 3K • 💬 284 • ⏱️ 37:14 • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-26T11:11:54.791728+00:00'
+updated: '2026-04-26T12:03:51.685181+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - social
-- videos
 - news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 26, 2026 at 11:11 UTC  
+**Last Updated:** April 26, 2026 at 12:03 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Federal funding for scientific research was already in turmoil.
 
 Slack messages, interviews with current and former works paint picture of company in turmoil.
 
-🔗 [Ars Technica](https://arstechnica.com/tech-policy/2026/04/palantir-employees-are-talking-about-companys-descent-into-fascism/) • 17h ago
+🔗 [Ars Technica](https://arstechnica.com/tech-policy/2026/04/palantir-employees-are-talking-about-companys-descent-into-fascism/) • 18h ago
 
 ---
 
@@ -57,7 +57,7 @@ Slack messages, interviews with current and former works paint picture of compan
 
 No more organic content or videos on the internet everything is just Ai and it made me loose the interest, now I am just reading books.
 
-1h ago
+2h ago
 
 ---
 
@@ -65,7 +65,7 @@ No more organic content or videos on the internet everything is just Ai and it m
 
 A new survey carried out amongst 12 to 16-year-old boys has found that many of them prefer to use AI chatbots than engage with other people their age.
 
-🔗 [Dexerto](https://www.dexerto.com/entertainment/gen-alpha-boys-are-preferring-ai-girlfriends-over-real-ones-3356718/) • 19h ago
+🔗 [Dexerto](https://www.dexerto.com/entertainment/gen-alpha-boys-are-preferring-ai-girlfriends-over-real-ones-3356718/) • 20h ago
 
 ---
 
@@ -81,7 +81,7 @@ Now why would he refuse to answer that?
 
 The point of this post is to warn that AI clones are "mathematical sociopaths." They use a manipulative form of harmony to mirror your tone and trap you in a narcissistic feedback loop. I do a deep dive into why this is the case in my most recent Substack post. This is not anti-AI, however, it is a warning to those who would otherwise like to clone themselves with AI, or use AI clones to "better" aspects of their lives.
 
-🔗 [orestakigalandis.substack.com](https://orestakigalandis.substack.com/p/on-ai-assisted-clones) • 26m ago
+🔗 [orestakigalandis.substack.com](https://orestakigalandis.substack.com/p/on-ai-assisted-clones) • 1h ago
 
 ---
 
@@ -89,7 +89,7 @@ The point of this post is to warn that AI clones are "mathematical sociopaths." 
 
 Cross-posting here because this problem affects everyone building with AI agents. Prompt-based guardrails fail. The model follows your system prompt in a demo, then ignores rules when context gets big or the agent chains multiple steps. We built Caliber - an open-source proxy that reads your rules from plain markdown and enforces them at the API layer, not in the prompt. Every call. Provider-agnostic. Just hit 700 GitHub stars ⭐ and nearly 100 forks - the reception from devs building with AI has been amazing. Repo: https://github.com/caliber-ai-org/ai-setup Would love: - Feedback on the approach - Feature requests from people building AI agents - Anyone who wants to contribute to the project Building this open-source for the community.
 
-1h ago
+2h ago
 
 ---
 
@@ -97,7 +97,7 @@ Cross-posting here because this problem affects everyone building with AI agents
 
 But in the wrong way Crazy encounter 🤣 Another reason to use claude daily
 
-14h ago
+15h ago
 
 ---
 
@@ -105,7 +105,7 @@ But in the wrong way Crazy encounter 🤣 Another reason to use claude daily
 
 Been experimenting with a few AI video tools recently to speed up content + ad creation, figured I’d share what actually stood out These tools are getting pretty good, especially if you don’t have a full editing setup or team Here’s a quick breakdown of what I tried: Runway What it does: Text/image to video + editing tools Cool stuff: Good quality outputs, lots of features Best for: Creative experiments, short clips My take: Powerful, but took me a bit to get consistent results Pika What it does: Generates short videos from prompts Cool stuff: Fast and easy to try ideas Best for: Quick social clips My take: Fun to use, but hard to control exact outcomes Synthesia What it does: AI avatar videos with voice Cool stuff: Clean talking head style content Best for: Tutorials, explainers My take: Solid for info content, less useful for ads InVideo AI What it does: Script to full video Cool stuff: Templates + automation Best for: Beginners, quick drafts My take: Easy, but everything started to feel templated Luma Dream Machine What it does: Realistic AI generated scenes Cool stuff: Visually impressive outputs Best for: Cinematic style clips My take: Looks great, but hit or miss depending on prompt Higgsfield What it does: AI video with more control over shots + motion Cool stuff: Can guide camera movement, pacing, structure Best for: Ads or anything that needs to feel intentional My take: Feels closer to actually building a video vs just generating one Biggest takeaways: most tools are great for ideas, not final ads control > randomness if you’re making anything performance focused you’ll probably end up combining tools instead of relying on one A lot of these have free tiers, so worth testing yourself If I had to pick one I’d keep experimenting with, probably higgsfield just because the extra control makes it feel a bit more usable for actual ad work Curious what others are sticking with rn 👀
 
-2h ago
+3h ago
 
 ---
 
@@ -113,7 +113,7 @@ Been experimenting with a few AI video tools recently to speed up content + ad c
 
 I'm curious how people are thinking about ROI from agents beyond productivity. A lot of the discussion is still around "this saved me 3 hours" (in some cases wasted more lol) or "this automated a workflow." That's obviously useful, but it feels like a limited way to measure value. For people using agents seriously, are you tracking anything beyond time saved? like for example: - did the agent create something reusable? - did it improve a workflow over time? - did it generate outputs that had value outside the original task? - did it create something others would pay for? - did it help produce knowledge, decisions, or execution that compounds? I'm especially interested in people using agents for coding, research, business ops, content, data work, or niche expert workflows. just want to hear from everyone what does "agent ROI" actually mean to you?
 
-12h ago
+13h ago
 
 ---
 
@@ -125,7 +125,7 @@ I'm curious how people are thinking about ROI from agents beyond productivity. A
 
 Discrepancy in forecasts raises questions over government planning for net zero
 
-The Guardian • 4h ago
+The Guardian • 5h ago
 
 ---
 
@@ -133,7 +133,7 @@ The Guardian • 4h ago
 
 Gen Z is facing AI-driven layoffs and fewer entry-level jobs. Former Meta and Salesforce AI head Clara Shih says young workers can future-proof their careers by learning how to use AI agents.
 
-Fortune • 3h ago
+Fortune • 4h ago
 
 ---
 
@@ -141,7 +141,7 @@ Fortune • 3h ago
 
 AI can echolocate authors through their prose. Your digital fingerprint is at risk.
 
-The Washington Post • 5m ago
+The Washington Post • 57m ago
 
 ---
 
@@ -149,13 +149,13 @@ The Washington Post • 5m ago
 
 This year, the goal is to place 250 Hire Human graduates in jobs along with 250 graduates from the traditional software development track.
 
-STLtoday.com • 11m ago
+STLtoday.com • 1h ago
 
 ---
 
 **[Opinion | Can an A.I. Company Ever Be Good?](https://www.nytimes.com/2026/04/26/opinion/ai-company-good-altruism.html)**
 
-The New York Times • 6h ago
+The New York Times • 7h ago
 
 ---
 
@@ -163,7 +163,7 @@ The New York Times • 6h ago
 
 Software giants are seeing their worst stock performance in years on fears of AI disruption. Now they have a new problem.
 
-CNBC • 22h ago
+CNBC • 23h ago
 
 ---
 
@@ -171,7 +171,7 @@ CNBC • 22h ago
 
 Thomas Kurian, Google Cloud’s CEO, says its AI chips and models can help the data centre business gain ground
 
-Financial Times • 7h ago
+Financial Times • 8h ago
 
 ---
 
@@ -187,7 +187,7 @@ OpenAI • 2d ago
 
 A CBS News analysis found that Georgia Power, the largest energy provider in the state, imposed six rate hikes in the last three years.
 
-CBS News • 11h ago
+CBS News • 12h ago
 
 ---
 
@@ -195,7 +195,7 @@ CBS News • 11h ago
 
 A new ouroboros in the tech world has emerged.
 
-Mashable • 17h ago
+Mashable • 18h ago
 
 ---
 
@@ -245,7 +245,7 @@ The airport targeted gate announcements, overlapping PA messages, and tenant mus
 
 **[Lambda Calculus Benchmark for AI](https://news.ycombinator.com/item?id=47900506)**
 
-⬆️ 136 • 💬 41 • 23h ago • [victortaelin.github.io](https://victortaelin.github.io/lambench/)
+⬆️ 136 • 💬 41 • 1d ago • [victortaelin.github.io](https://victortaelin.github.io/lambench/)
 
 ---
 
@@ -275,7 +275,7 @@ A personal knowledge base that turns freeform notes into a semantically-connecte
 
 Access 500+ LLMs and expert AI models through one unified API. Route requests by cost, performance, and region with built-in smart routing and fallbacks.
 
-⬆️ 42 • 💬 18 • 2h ago • [edenai.co](https://www.edenai.co)
+⬆️ 42 • 💬 18 • 3h ago • [edenai.co](https://www.edenai.co)
 
 ---
 
@@ -283,23 +283,23 @@ Access 500+ LLMs and expert AI models through one unified API. Route requests by
 
 ## YouTube Videos: "ai"
 
+**[AI Just Broke the Internet’s Encryption (And Nobody’s Talking About This Part)](https://www.youtube.com/watch?v=-vhzRxLAJIU)**
+
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
+
+📺 Julia McCoy
+
+👁️ 16K • 👍 950 • 💬 89 • ⏱️ 8:42 • 17h ago
+
+---
+
 **[Trump Got A NASTY AI SURPRISE And It’s Going Viral!](https://www.youtube.com/watch?v=lxN1phhSMZ0)**
 
 Really American host Steve Harness breaks down Iran SLAMMING Trump with even more AI slop because they've realized that it ...
 
 📺 Really American
 
-👁️ 537K • 👍 28K • 💬 2K • ⏱️ 13:36 • 14h ago
-
----
-
-**[Rant on AI in the modern workplace ](https://www.youtube.com/watch?v=SAvfcWoHRi4)**
-
-"DriverSavers quoted to me a price of $4900 to recover data on the computer and later discounted it to $1980 if data recovery was ...
-
-📺 Louis Rossmann
-
-👁️ 28K • 👍 3K • 💬 500 • ⏱️ 9:33 • 12h ago
+👁️ 584K • 👍 30K • 💬 2K • ⏱️ 13:36 • 15h ago
 
 ---
 
@@ -309,17 +309,17 @@ You won't BELIEVE what humanoid robots just pulled off this week — and it's ab
 
 📺 The AI Nexus
 
-👁️ 1K • 👍 51 • 💬 3 • ⏱️ 16:59 • 12h ago
+👁️ 1K • 👍 56 • 💬 7 • ⏱️ 16:59 • 13h ago
 
 ---
 
-**[AI Just Broke the Internet’s Encryption (And Nobody’s Talking About This Part)](https://www.youtube.com/watch?v=-vhzRxLAJIU)**
+**[Rant on AI in the modern workplace ](https://www.youtube.com/watch?v=SAvfcWoHRi4)**
 
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
+"DriverSavers quoted to me a price of $4900 to recover data on the computer and later discounted it to $1980 if data recovery was ...
 
-📺 Julia McCoy
+📺 Louis Rossmann
 
-👁️ 16K • 👍 908 • 💬 84 • ⏱️ 8:42 • 16h ago
+👁️ 32K • 👍 3K • 💬 569 • ⏱️ 9:33 • 13h ago
 
 ---
 
@@ -329,7 +329,7 @@ TikToker Facing 12 Years Prison for AI Prank CHECK OUT OUR MATS HERE: https://ma
 
 📺 Atozy
 
-👁️ 119K • 👍 6K • 💬 870 • ⏱️ 8:40 • 9h ago
+👁️ 137K • 👍 7K • 💬 963 • ⏱️ 8:40 • 10h ago
 
 ---
 
@@ -339,17 +339,7 @@ I don't think I said this quite clearly enough in this video but I have no idea 
 
 📺 vlogbrothers
 
-👁️ 196K • 👍 13K • 💬 2K • ⏱️ 8:43 • 1d ago
-
----
-
-**[Reese Witherspoon Pushing AI Because Feminism](https://www.youtube.com/watch?v=bokzV6kadfc)**
-
-Watch the Majority Report live Monday–Friday at 12pm EST on YouTube or http://www.Majority.fm To connect and organize with ...
-
-📺 The Majority Report w/ Sam Seder
-
-👁️ 39K • 👍 2K • 💬 336 • ⏱️ 13:15 • 1d ago
+👁️ 201K • 👍 14K • 💬 2K • ⏱️ 8:43 • 1d ago
 
 ---
 
@@ -359,7 +349,7 @@ Here's the AI News you probably missed this week. Warp is the agentic developmen
 
 📺 Matt Wolfe
 
-👁️ 83K • 👍 3K • 💬 222 • ⏱️ 42:57 • 1d ago
+👁️ 85K • 👍 3K • 💬 223 • ⏱️ 42:57 • 1d ago
 
 ---
 
@@ -369,15 +359,27 @@ sponsored Build with Softr ...
 
 📺 AI Master
 
-👁️ 31K • 👍 529 • 💬 76 • ⏱️ 21:44 • 2d ago
+👁️ 31K • 👍 538 • 💬 81 • ⏱️ 21:44 • 2d ago
 
 ---
 
-**[Day 2 of The 2026 AI Advantage Summit](https://www.youtube.com/watch?v=AgYiHOxOBfE)**
+**[OpenAI New GPT 5.5 Is A New Kind Of Intelligence (Nothing Comes Close)](https://www.youtube.com/watch?v=RfNODQ8PeLs)**
 
-📺 Dean Graziosi
+Try Higgsfield MCP here: https://higgsfield.ai/s/mcp-airevolutionx-UUghuL OpenAI just released GPT-5.5, and this one is built ...
 
-👁️ 138K • 👍 6K • 💬 87 • ⏱️ 4:21:14 • 1d ago
+📺 AI Revolution
+
+👁️ 25K • 👍 862 • 💬 104 • ⏱️ 16:26 • 1d ago
+
+---
+
+**[Terrible mouse fans have to be ai](https://www.youtube.com/watch?v=T1Mml4kVln0)**
+
+Terrible mouse fans have to be ai https://www.twitch.tv/qerello https://discord.gg/zXwZcUGyWu ...
+
+📺 Qerello
+
+👁️ 31K • 👍 2K • 💬 480 • ⏱️ 11:36 • 9h ago
 
 ---
 
@@ -393,7 +395,7 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 `text-generation` `861.6B`
 
-⬇️ 123,431 • ❤️ 2,739 • 2d ago
+⬇️ 123,431 • ❤️ 2,761 • 2d ago
 
 ---
 
@@ -405,7 +407,7 @@ Kimi K2.6 is a 1T parameter multimodal agentic model excelling in long-horizon c
 
 `image-text-to-text` `1058.6B`
 
-⬇️ 376,485 • ❤️ 1,039 • 3d ago
+⬇️ 376,485 • ❤️ 1,040 • 3d ago
 
 ---
 
@@ -417,7 +419,7 @@ Qwen3.6-27B is a 27B parameter causal language model with a vision encoder, exce
 
 `image-text-to-text` `27.8B`
 
-⬇️ 329,571 • ❤️ 833 • 2d ago
+⬇️ 329,571 • ❤️ 836 • 2d ago
 
 ---
 
@@ -429,7 +431,7 @@ A bidirectional token-classification model for PII detection and masking, capabl
 
 `token-classification` `1.4B`
 
-⬇️ 35,807 • ❤️ 796 • 3d ago
+⬇️ 35,807 • ❤️ 807 • 3d ago
 
 ---
 
@@ -441,7 +443,7 @@ DeepSeek-V4-Flash is a 284B parameter Mixture-of-Experts language model supporti
 
 `text-generation` `158.1B`
 
-⬇️ 45,986 • ❤️ 703 • 2d ago
+⬇️ 45,986 • ❤️ 706 • 2d ago
 
 ---
 
@@ -453,7 +455,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with a vision encoder, 
 
 `image-text-to-text` `36.0B`
 
-⬇️ 1,181,968 • ❤️ 1,411 • 2d ago
+⬇️ 1,181,968 • ❤️ 1,412 • 2d ago
 
 ---
 
@@ -465,7 +467,7 @@ Qwen3.6-27B-GGUF is a 27B parameter causal language model with vision capabiliti
 
 `image-text-to-text` `26.9B`
 
-⬇️ 553,179 • ❤️ 409 • 3d ago
+⬇️ 553,179 • ❤️ 412 • 3d ago
 
 ---
 
@@ -477,7 +479,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with vision capabilitie
 
 `image-text-to-text` `34.7B`
 
-⬇️ 1,574,581 • ❤️ 775 • 5d ago
+⬇️ 1,574,581 • ❤️ 781 • 5d ago
 
 ---
 
@@ -499,7 +501,7 @@ This is an uncensored, aggressive multimodal model based on Qwen3.6-35B-A3B, cap
 
 `image-text-to-text` `34.7B`
 
-⬇️ 460,832 • ❤️ 439 • 9d ago
+⬇️ 460,832 • ❤️ 443 • 9d ago
 
 ---
 
@@ -561,6 +563,18 @@ LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from 
 
 ---
 
+**[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
+
+*Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
+
+A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
+
+▲ 49 • 💬 2 • ⭐ 53,102 • 16mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
+
+---
+
 **[VibeVoice Technical Report](https://huggingface.co/papers/2508.19205)**
 
 *Zhiliang Peng, Jianwei Yu, Wenhui Wang et al. (13 authors)*
@@ -575,25 +589,13 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 ---
 
-**[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
-
-*Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
-
-A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
-
-▲ 49 • 💬 2 • ⭐ 52,950 • 16mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
-
----
-
 **[OpenGame: Open Agentic Coding for Games](https://huggingface.co/papers/2604.18394)**
 
 *Yilei Jiang, Jinyuan Hu, Qianyin Xiao et al. (11 authors)*
 
 OpenGame is an open-source agentic framework for end-to-end web game creation that uses specialized code models and evaluation benchmarks to overcome challenges in interactive application development.
 
-▲ 71 • 💬 7 • ⭐ 1,085 • 6d ago
+▲ 71 • 💬 7 • ⭐ 1,163 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.18394) • [💻 code](https://github.com/leigest519/OpenGame) • [🔗 project](https://www.opengame-project-page.com/)
 
@@ -620,7 +622,7 @@ LLaDA2.0-Uni is a unified discrete diffusion language model that integrates mult
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 54 • 💬 1 • ⭐ 78,136 • 31mo ago
+▲ 54 • 💬 1 • ⭐ 78,173 • 31mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
@@ -660,7 +662,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 46.7k • 🔱 2.5k • 8d ago
+⭐ 46.8k • 🔱 2.5k • 8d ago
 
 ---
 
@@ -670,7 +672,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 39.8k • 🔱 8.2k • 8h ago
+⭐ 39.8k • 🔱 8.2k • 9h ago
 
 ---
 
@@ -680,7 +682,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 35.0k • 🔱 3.9k • 20h ago
+⭐ 35.1k • 🔱 3.9k • 21h ago
 
 ---
 
@@ -720,7 +722,7 @@ The headless browser for AI agents and web scraping
 
 `Rust`
 
-⭐ 5.3k • 🔱 304 • 22h ago
+⭐ 5.4k • 🔱 314 • 23h ago
 
 ---
 

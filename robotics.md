@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-26T11:11:54.809131+00:00'
+updated: '2026-04-26T12:03:51.700890+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 26, 2026 at 11:11 UTC  
+**Last Updated:** April 26, 2026 at 12:03 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 i bet you haven't seen a SO101 mounted on a wall like this before if you want to do the same, here is LeSlider: https://github.com/pham-tuan-binh/leslider i built it cause i wanted something that can cover my whole desk for tasks like organizing and cleaning i originally wanted to have a belt system like what 3D printers have, but i was too lazy and used a pinion/track with another sts3215 so: > the extra motor shares the same bus as the rest of SO101 > you can have arbitrary length of track > really cheap and easy to assemble and control it turned out better than expected with this, i'm gonna train a model to pick random stuff up across my table and put it into a bin at the end of table (realistically using yolo to scan table, two policies, one for picking up objects, one for dropping)
 
-9h ago
+10h ago
 
 ---
 
 **[Messing around with the holonomic (kiwi) drive](https://www.reddit.com/r/robotics/comments/1sw3y5d/messing_around_with_the_holonomic_kiwi_drive/)**
 
-43m ago
+1h ago
 
 ---
 
@@ -50,13 +50,13 @@ i bet you haven't seen a SO101 mounted on a wall like this before if you want to
 
 I designed the robot using fusion 360 in programmed it with python. I designed android one as a research platform so when I wanted to test out an idea that needed a humanoid robot it was something I could do, this weekend I was bored so I programmed it to play air hockey it’s a little bad because my robot is pretty cheap but once I get enough funding, I’m gonna make a android 4 which is basically gonna be a remastered version of this one, but with more freedom of motion.
 
-6h ago
+7h ago
 
 ---
 
 **[Dtof Obstacle Sensing Test](https://www.reddit.com/r/robotics/comments/1sw3amt/dtof_obstacle_sensing_test/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -64,13 +64,13 @@ I designed the robot using fusion 360 in programmed it with python. I designed a
 
 Hey, I've been building CANviz - a browser-based CAN bus analyzer. pip install, plug in any USB CAN adapter, opens in your browser. No GUI app to install, works with low cost hardware. Just shipped v0.2.0 with live signal plotting and bus health stats. CANopen support (CiA 301 + CiA 402) is coming next. Would love to hear what you'd find most useful. Hackaday wrote it up here if you want more detail: https://hackaday.com/2026/04/21/can-bus-analyzer-runs-in-your-browser/ GitHub: https://github.com/Chanchaldhiman/CANviz
 
-13h ago
+14h ago
 
 ---
 
 **[I built a LeRobot dataset viewer with EE trajectory visualization](https://www.reddit.com/r/robotics/comments/1sw3oem/i_built_a_lerobot_dataset_viewer_with_ee/)**
 
-58m ago
+1h ago
 
 ---
 
@@ -78,7 +78,7 @@ Hey, I've been building CANviz - a browser-based CAN bus analyzer. pip install, 
 
 u/mods if this breaks the rules take it down. I'm looking for beta testers who are not afraid to break things, the end goal here is to make the worlds most easy to use, fully featured servo controlling software, and I'm building it while also building characters to test it with. Here's the rundown: JASM - Jester's Animatronic Servo Mapper Ever bought a bunch of servos, wired them up to a PCA9685, and then sat there wondering "now what?" Yeah. That's the problem this solves. What it actually does: You plug in your board (supports 50 different MCUs - ESP32, Arduino, Raspberry Pi Pico, etc.), click Upload Firmware, connect, and you're moving servos with sliders in under 5 minutes. No Arduino IDE. No code. No libraries to install. Things that used to be painful that aren't anymore: Making smooth movements - Every channel has its own speed control, EMA smoothing, and Bezier easing. No more jerky servos snapping from one position to another. Recording performances - Hit record, move the sliders (or use a gamepad), and it saves the whole thing synced to audio. Layer channels one at a time like a multitrack recorder. Lip sync - Load a vocal track and it auto-generates jaw movement from a phoneme dictionary. No manual keyframing. Text to Speech - Type a script, hit Perform, and your animatronic speaks it with automatic lip sync, idle animations (blinks, eye movement, ear twitches), and expression changes. Uses the Inworld API with your own account. Gamepad puppeteering - Map any Xbox/PS controller stick or button to any servo channel. Puppeteer the whole head live. Standalone playback - Upload animations to the board and it runs without a computer. Power it up and it goes. Supports button triggers, PIR sensors, or auto-loop. Servo limits - Set min/max/neutral for every channel so you never strip a gear or slam into a physical stop again. Who it's for: Animatronics builders, Halloween prop makers, cosplayers, fursuit makers, anyone doing museum exhibits or trade show displays. If you've got servos and an idea, this is the program. If you would like to be a beta tester and you have some experience with servos and MCU's DM me here. Discord is empty right now, as I have literally just started it.
 
-8h ago
+9h ago
 
 ---
 
@@ -92,7 +92,7 @@ I have implemented the whole stack of aerodynamics, flight mechanics and flight 
 
 **[Thought-controlled robotic arm by Neuralink aimed at restoring independence for paralyzed patients](https://www.reddit.com/r/robotics/comments/1svh8t5/thoughtcontrolled_robotic_arm_by_neuralink_aimed/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -100,7 +100,7 @@ I have implemented the whole stack of aerodynamics, flight mechanics and flight 
 
 "Fluid gears" invention shows promise for improving mechanical devices.
 
-🔗 [SciTechDaily](https://scitechdaily.com/scientists-create-liquid-gears-that-spin-without-touching/) • 7h ago
+🔗 [SciTechDaily](https://scitechdaily.com/scientists-create-liquid-gears-that-spin-without-touching/) • 8h ago
 
 ---
 
@@ -162,13 +162,13 @@ Democracy Now! • 1d ago
 
 **[Master's graduate and robotics champion: Cole Allen, suspect in Trump event shooting](https://nation.africa/kenya/news/world/cole-allen-suspect-in-the-trump-dinner-shooting-5436560)**
 
-Daily Nation • 4h ago
+Daily Nation • 5h ago
 
 ---
 
 **[From supply chain to record growth: Shenzhen dominates China’s robotics sector](https://www.scmp.com/tech/tech-trends/article/3351462/supply-chain-record-growth-shenzhen-dominates-chinas-robotics-landscape)**
 
-South China Morning Post • 4h ago
+South China Morning Post • 5h ago
 
 ---
 
@@ -184,7 +184,7 @@ Nikkei Asia • 2d ago
 
 WUHU, China, April 26, 2026 (GLOBE NEWSWIRE) -- AiMOGA Robotics, an ecosystem partner of OMODA&amp;JAECOO, signed a
 
-Carroll County Mirror-Democrat • 2h ago
+Carroll County Mirror-Democrat • 3h ago
 
 ---
 
@@ -198,7 +198,7 @@ What is the best robot vacuum in 2026? After testing over 200 robot vacuums with
 
 📺 Just A Dad Approved
 
-👁️ 5K • 👍 226 • 💬 50 • ⏱️ 13:40 • 23h ago
+👁️ 5K • 👍 230 • 💬 53 • ⏱️ 13:40 • 1d ago
 
 ---
 
@@ -208,37 +208,17 @@ For the first time, an AI-powered machine has bested elite-level athletes at a p
 
 📺 nature video
 
-👁️ 110K • 👍 2K • 💬 224 • ⏱️ 13:38 • 3d ago
+👁️ 111K • 👍 2K • 💬 225 • ⏱️ 13:38 • 3d ago
 
 ---
 
-**[New AI Robot From China Breaks Human Limits](https://www.youtube.com/watch?v=EJbJMg2RNgw)**
+**[Chinese humanoid robots outrun humans in half-marathon, setting records](https://www.youtube.com/watch?v=k5_Tlgvt-c8)**
 
-AGIBOT just rolled out a full new wave of humanoid robots and AI models built for real deployment, while researchers in South ...
+Over a hundred Chinese-made humanoid robots participated in a half-marathon race in Beijing on Sunday. The second inaugural ...
 
-📺 AI Revolution
+📺 Global News
 
-👁️ 37K • 👍 834 • 💬 66 • ⏱️ 16:29 • 5d ago
-
----
-
-**[Chinese humanoid robot beats world record for fastest human half-marathon | ABC NEWS](https://www.youtube.com/watch?v=tcfAm3hNQbk)**
-
-A humanoid robot has beaten the human record for the world's fastest half-marathon by finishing in just over 50 minutes. Dozens ...
-
-📺 ABC News (Australia)
-
-👁️ 107K • 👍 654 • ⏱️ 6:44 • 6d ago
-
----
-
-**[Robot Meets Brutal and Untimely End During Marathon](https://www.youtube.com/watch?v=5yqcw5YzRj4)**
-
-Dozens of humanoid robot runners competed in the Beijing half-marathon to mixed success. While a Chinese-built robot named ...
-
-📺 New York Post
-
-👁️ 35K • 👍 304 • 💬 183 • ⏱️ 2:35 • 5d ago
+👁️ 213K • 👍 2K • 💬 141 • ⏱️ 0:46 • 6d ago
 
 ---
 
@@ -248,7 +228,7 @@ New Spider Shoggoth Robot. This is so weird. We got a new robot on the test serv
 
 📺 PREDATOR WR
 
-👁️ 21K • 👍 635 • 💬 211 • ⏱️ 15:36 • 23h ago
+👁️ 22K • 👍 639 • 💬 217 • ⏱️ 15:36 • 1d ago
 
 ---
 
@@ -258,7 +238,37 @@ In Beijing, a humanoid robot just completed a 21-kilometer half-marathon in an a
 
 📺 Capital Markets AI
 
-👁️ 37K • 👍 675 • 💬 160 • ⏱️ 8:58 • 6d ago
+👁️ 37K • 👍 677 • 💬 161 • ⏱️ 8:58 • 6d ago
+
+---
+
+**[Khan Sir On Robot Doctor 🤖.](https://www.youtube.com/watch?v=YN4NopEsEKE)**
+
+Khan sir ne kaha Robots ko log doctor ka kam karne nhi dange. Rajshamani podcast Rajshamani robot doctor Rajshamani and ...
+
+📺 Grind and growth 
+
+👁️ 38K • 💬 13 • ⏱️ 0:24 • 4d ago
+
+---
+
+**[Chinese humanoid robot beats world record for fastest human half-marathon | ABC NEWS](https://www.youtube.com/watch?v=tcfAm3hNQbk)**
+
+A humanoid robot has beaten the human record for the world's fastest half-marathon by finishing in just over 50 minutes. Dozens ...
+
+📺 ABC News (Australia)
+
+👁️ 107K • 👍 656 • ⏱️ 6:44 • 6d ago
+
+---
+
+**[New AI Robot From China Breaks Human Limits](https://www.youtube.com/watch?v=EJbJMg2RNgw)**
+
+AGIBOT just rolled out a full new wave of humanoid robots and AI models built for real deployment, while researchers in South ...
+
+📺 AI Revolution
+
+👁️ 37K • 👍 835 • 💬 66 • ⏱️ 16:29 • 5d ago
 
 ---
 
@@ -267,16 +277,6 @@ In Beijing, a humanoid robot just completed a 21-kilometer half-marathon in an a
 📺 XRoboHub
 
 👁️ 167K • 👍 2K • 💬 198 • ⏱️ 0:30 • 4d ago
-
----
-
-**[NEW ROBOT 💥SHOGGOTH💥 | War Robots [WR]](https://www.youtube.com/watch?v=UQRt4EzGnfw)**
-
-WR Store: https://wr.my.games/Joe_Black_WR my code: Joe_Black_WR Thank You =========== My discord server ...
-
-📺 Joe Black WR
-
-👁️ 30K • 👍 804 • 💬 67 • ⏱️ 0:11 • 1d ago
 
 ---
 
