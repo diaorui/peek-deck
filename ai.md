@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-26T12:03:51.685181+00:00'
+updated: '2026-04-26T13:46:14.667378+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
-- repositories
 - videos
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 26, 2026 at 12:03 UTC  
+**Last Updated:** April 26, 2026 at 13:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Federal funding for scientific research was already in turmoil.
 
-🔗 [The Verge](https://www.theverge.com/science/918769/trump-fires-the-entire-national-science-board) • 10h ago
+🔗 [The Verge](https://www.theverge.com/science/918769/trump-fires-the-entire-national-science-board) • 12h ago
 
 ---
 
@@ -49,7 +49,7 @@ Federal funding for scientific research was already in turmoil.
 
 Slack messages, interviews with current and former works paint picture of company in turmoil.
 
-🔗 [Ars Technica](https://arstechnica.com/tech-policy/2026/04/palantir-employees-are-talking-about-companys-descent-into-fascism/) • 18h ago
+🔗 [Ars Technica](https://arstechnica.com/tech-policy/2026/04/palantir-employees-are-talking-about-companys-descent-into-fascism/) • 19h ago
 
 ---
 
@@ -57,7 +57,7 @@ Slack messages, interviews with current and former works paint picture of compan
 
 No more organic content or videos on the internet everything is just Ai and it made me loose the interest, now I am just reading books.
 
-2h ago
+4h ago
 
 ---
 
@@ -65,23 +65,7 @@ No more organic content or videos on the internet everything is just Ai and it m
 
 A new survey carried out amongst 12 to 16-year-old boys has found that many of them prefer to use AI chatbots than engage with other people their age.
 
-🔗 [Dexerto](https://www.dexerto.com/entertainment/gen-alpha-boys-are-preferring-ai-girlfriends-over-real-ones-3356718/) • 20h ago
-
----
-
-**[Grok, you okay bud?](https://www.reddit.com/r/artificial/comments/1svyb8m/grok_you_okay_bud/)**
-
-Now why would he refuse to answer that?
-
-6h ago
-
----
-
-**[#22 On AI assisted clones](https://www.reddit.com/r/artificial/comments/1sw48dl/22_on_ai_assisted_clones/)**
-
-The point of this post is to warn that AI clones are "mathematical sociopaths." They use a manipulative form of harmony to mirror your tone and trap you in a narcissistic feedback loop. I do a deep dive into why this is the case in my most recent Substack post. This is not anti-AI, however, it is a warning to those who would otherwise like to clone themselves with AI, or use AI clones to "better" aspects of their lives.
-
-🔗 [orestakigalandis.substack.com](https://orestakigalandis.substack.com/p/on-ai-assisted-clones) • 1h ago
+🔗 [Dexerto](https://www.dexerto.com/entertainment/gen-alpha-boys-are-preferring-ai-girlfriends-over-real-ones-3356718/) • 22h ago
 
 ---
 
@@ -89,7 +73,15 @@ The point of this post is to warn that AI clones are "mathematical sociopaths." 
 
 Cross-posting here because this problem affects everyone building with AI agents. Prompt-based guardrails fail. The model follows your system prompt in a demo, then ignores rules when context gets big or the agent chains multiple steps. We built Caliber - an open-source proxy that reads your rules from plain markdown and enforces them at the API layer, not in the prompt. Every call. Provider-agnostic. Just hit 700 GitHub stars ⭐ and nearly 100 forks - the reception from devs building with AI has been amazing. Repo: https://github.com/caliber-ai-org/ai-setup Would love: - Feedback on the approach - Feature requests from people building AI agents - Anyone who wants to contribute to the project Building this open-source for the community.
 
-2h ago
+3h ago
+
+---
+
+**[Grok, you okay bud?](https://www.reddit.com/r/artificial/comments/1svyb8m/grok_you_okay_bud/)**
+
+Now why would he refuse to answer that?
+
+8h ago
 
 ---
 
@@ -97,7 +89,7 @@ Cross-posting here because this problem affects everyone building with AI agents
 
 But in the wrong way Crazy encounter 🤣 Another reason to use claude daily
 
-15h ago
+17h ago
 
 ---
 
@@ -105,15 +97,23 @@ But in the wrong way Crazy encounter 🤣 Another reason to use claude daily
 
 Been experimenting with a few AI video tools recently to speed up content + ad creation, figured I’d share what actually stood out These tools are getting pretty good, especially if you don’t have a full editing setup or team Here’s a quick breakdown of what I tried: Runway What it does: Text/image to video + editing tools Cool stuff: Good quality outputs, lots of features Best for: Creative experiments, short clips My take: Powerful, but took me a bit to get consistent results Pika What it does: Generates short videos from prompts Cool stuff: Fast and easy to try ideas Best for: Quick social clips My take: Fun to use, but hard to control exact outcomes Synthesia What it does: AI avatar videos with voice Cool stuff: Clean talking head style content Best for: Tutorials, explainers My take: Solid for info content, less useful for ads InVideo AI What it does: Script to full video Cool stuff: Templates + automation Best for: Beginners, quick drafts My take: Easy, but everything started to feel templated Luma Dream Machine What it does: Realistic AI generated scenes Cool stuff: Visually impressive outputs Best for: Cinematic style clips My take: Looks great, but hit or miss depending on prompt Higgsfield What it does: AI video with more control over shots + motion Cool stuff: Can guide camera movement, pacing, structure Best for: Ads or anything that needs to feel intentional My take: Feels closer to actually building a video vs just generating one Biggest takeaways: most tools are great for ideas, not final ads control > randomness if you’re making anything performance focused you’ll probably end up combining tools instead of relying on one A lot of these have free tiers, so worth testing yourself If I had to pick one I’d keep experimenting with, probably higgsfield just because the extra control makes it feel a bit more usable for actual ad work Curious what others are sticking with rn 👀
 
-3h ago
+5h ago
 
 ---
 
-**[Are AI agents actually giving people ROI yet, or just saving time?](https://www.reddit.com/r/artificial/comments/1svqm2m/are_ai_agents_actually_giving_people_roi_yet_or/)**
+**['Too Dangerous to Release' Is Becoming AI's New Normal](https://www.reddit.com/r/artificial/comments/1svjxhl/too_dangerous_to_release_is_becoming_ais_new/)**
 
-I'm curious how people are thinking about ROI from agents beyond productivity. A lot of the discussion is still around "this saved me 3 hours" (in some cases wasted more lol) or "this automated a workflow." That's obviously useful, but it feels like a limited way to measure value. For people using agents seriously, are you tracking anything beyond time saved? like for example: - did the agent create something reusable? - did it improve a workflow over time? - did it generate outputs that had value outside the original task? - did it create something others would pay for? - did it help produce knowledge, decisions, or execution that compounds? I'm especially interested in people using agents for coding, research, business ops, content, data work, or niche expert workflows. just want to hear from everyone what does "agent ROI" actually mean to you?
+Why tech giants are starting to restrict their most capable models from the public.
 
-13h ago
+🔗 [TIME](https://time.com/article/2026/04/24/claude-mythos-chatgpt-rosalind-release-dangerous/) • 19h ago
+
+---
+
+**[The new Linux kernel AI bot uncovering bugs is a local LLM on Framework Desktop + AMD Ryzen AI Max](https://www.reddit.com/r/artificial/comments/1sw5kl3/the_new_linux_kernel_ai_bot_uncovering_bugs_is_a/)**
+
+Earlier this month on Phoronix we were the first to draw attention to a new fuzzing tool / AI bot uncovering kernel bugs by Greg Kroah-Hartman, the 'second in command' for Linux kernel development and stable maintainer
+
+🔗 [phoronix.com](https://www.phoronix.com/news/Clanker-T1000-AMD-Ryzen-AI-Max) • 1h ago
 
 ---
 
@@ -121,11 +121,11 @@ I'm curious how people are thinking about ROI from agents beyond productivity. A
 
 ## Google News: "ai"
 
-**[UK departments at odds over energy demands of AI datacentres](https://www.theguardian.com/technology/2026/apr/26/uk-departments-at-odds-over-energy-demands-of-ai-datacentres)**
+**[AI is making it very easy for the government to spy on you. Some lawmakers are worried.](https://www.nbcnews.com/tech/security/ai-making-easy-government-spy-lawmakers-are-worried-rcna341499)**
 
-Discrepancy in forecasts raises questions over government planning for net zero
+AI’s increasing ability to sift through data and track Americans’ locations has some lawmakers reconsidering parts of the Foreign Intelligence Surveillance Act.
 
-The Guardian • 5h ago
+NBC News • 2h ago
 
 ---
 
@@ -133,53 +133,43 @@ The Guardian • 5h ago
 
 Gen Z is facing AI-driven layoffs and fewer entry-level jobs. Former Meta and Salesforce AI head Clara Shih says young workers can future-proof their careers by learning how to use AI agents.
 
-Fortune • 4h ago
+Fortune • 5h ago
 
 ---
 
-**[Opinion | Will AI end anonymity? I tested it.](https://www.washingtonpost.com/opinions/interactive/2026/04/26/artificial-intelligence-could-kill-anonymity-online/)**
+**[Super Bowl champion uses AI to help detect for cardiovascular issues early](https://www.foxnews.com/sports/super-bowl-champion-uses-ai-help-detect-cardiovascular-issues-early)**
 
-AI can echolocate authors through their prose. Your digital fingerprint is at risk.
+Super Bowl champion Steve Beuerlein used Heartflow's AI technology to proactively monitor his heart health and detect cardiovascular disease early.
 
-The Washington Post • 57m ago
-
----
-
-**[Nicklaus: Faced with changing job market, LaunchCode embraces AI](https://www.stltoday.com/news/local/business/article_6624ba53-d0a2-4d19-849f-6e2acaf9f040.html)**
-
-This year, the goal is to place 250 Hire Human graduates in jobs along with 250 graduates from the traditional software development track.
-
-STLtoday.com • 1h ago
+foxnews.com • 21m ago
 
 ---
 
-**[Opinion | Can an A.I. Company Ever Be Good?](https://www.nytimes.com/2026/04/26/opinion/ai-company-good-altruism.html)**
+**[In WA's desert, fusion power races to meet AI demands. Who pays if it fails?](https://www.seattletimes.com/seattle-news/climate-lab/microsoft-ai-demands-more-power-can-a-wa-fusion-company-supply-it/)**
 
-The New York Times • 7h ago
+One of the biggest obstacles to the world's AI ambitions is a shortage of electricity. Could a solution emerge in Central Washington?
 
----
-
-**[AI talent war: Software industry is a new target as top executives jump ship to OpenAI](https://www.cnbc.com/2026/04/25/ai-talent-wars-enterprise-software-executives-openai.html)**
-
-Software giants are seeing their worst stock performance in years on fears of AI disruption. Now they have a new problem.
-
-CNBC • 23h ago
+The Seattle Times • 46m ago
 
 ---
 
-**[Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft](https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c?syn-25a6b1a6=1)**
+**[An AI hater’s guide to keeping LLMs as far from your workflow as possible in 2026](https://www.geekwire.com/2026/an-ai-haters-guide-to-keeping-llms-as-far-from-your-workflow-as-possible-in-2026/)**
 
-Thomas Kurian, Google Cloud’s CEO, says its AI chips and models can help the data centre business gain ground
+A freelance gaming journalist's guide to ditching Chrome, Office, Gmail, Photoshop, and other AI-infested tools in favor of alternatives that just do the normal stuff.
 
-Financial Times • 8h ago
+GeekWire • 9m ago
 
 ---
 
-**[Introducing GPT-5.5](https://openai.com/index/introducing-gpt-5-5/)**
+**[The Podcast Where You Can Eavesdrop on the A.I. Elite](https://www.nytimes.com/2026/04/26/business/dwarkesh-patel-podcast-ai.html)**
 
-Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.
+The New York Times • 4h ago
 
-OpenAI • 2d ago
+---
+
+**[AI can cost more than human workers now](https://www.axios.com/2026/04/26/ai-cost-human-workers)**
+
+Axios • 2h ago
 
 ---
 
@@ -187,15 +177,23 @@ OpenAI • 2d ago
 
 A CBS News analysis found that Georgia Power, the largest energy provider in the state, imposed six rate hikes in the last three years.
 
-CBS News • 12h ago
+CBS News • 13h ago
 
 ---
 
-**[New AI tool seeks to 'un-AI' your writing](https://mashable.com/article/sinceerly-ai-tool-to-undo-ai-writing)**
+**[AI talent war: Software industry is a new target as top executives jump ship to OpenAI](https://www.cnbc.com/2026/04/25/ai-talent-wars-enterprise-software-executives-openai.html)**
 
-A new ouroboros in the tech world has emerged.
+Software giants are seeing their worst stock performance in years on fears of AI disruption. Now they have a new problem.
 
-Mashable • 18h ago
+CNBC • 1d ago
+
+---
+
+**[Opinion | Will AI end anonymity? I tested it.](https://www.washingtonpost.com/opinions/interactive/2026/04/26/artificial-intelligence-could-kill-anonymity-online/)**
+
+AI can echolocate authors through their prose. Your digital fingerprint is at risk.
+
+The Washington Post • 2h ago
 
 ---
 
@@ -215,7 +213,7 @@ Migrating to the new meshcore.io site
 
 If there was any doubt over the brewing public backlash to this technology, the last few weeks have erased it.
 
-⬆️ 241 • 💬 326 • 14h ago • [The New Republic](https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash)
+⬆️ 245 • 💬 331 • 16h ago • [The New Republic](https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash)
 
 ---
 
@@ -231,7 +229,7 @@ The widely circulated image had prompted authorities to move their search operat
 
 Give any AI agent a persistent memory in minutes. Works with Claude, ChatGPT, Ollama, OpenRouter, and any MCP-compatible agent. Open source, self-hosted, model-agnostic.
 
-⬆️ 171 • 💬 73 • 1d ago • [Stash](https://alash3al.github.io/stash?_v01)
+⬆️ 173 • 💬 73 • 1d ago • [Stash](https://alash3al.github.io/stash?_v01)
 
 ---
 
@@ -245,7 +243,15 @@ The airport targeted gate announcements, overlapping PA messages, and tenant mus
 
 **[Lambda Calculus Benchmark for AI](https://news.ycombinator.com/item?id=47900506)**
 
-⬆️ 136 • 💬 41 • 1d ago • [victortaelin.github.io](https://victortaelin.github.io/lambench/)
+⬆️ 137 • 💬 41 • 1d ago • [victortaelin.github.io](https://victortaelin.github.io/lambench/)
+
+---
+
+**[Eden AI – European Alternative to OpenRouter](https://news.ycombinator.com/item?id=47908433)**
+
+Access 500+ LLMs and expert AI models through one unified API. Route requests by cost, performance, and region with built-in smart routing and fallbacks.
+
+⬆️ 89 • 💬 45 • 5h ago • [edenai.co](https://www.edenai.co)
 
 ---
 
@@ -261,21 +267,13 @@ Tesla disclosed in a single sentence in its Q1 2026 10-Q that it agreed to acqui
 
 A personal knowledge base that turns freeform notes into a semantically-connected, AI-augmented knowledge graph.
 
-⬆️ 61 • 💬 41 • 1d ago • [atomicapp.ai](https://atomicapp.ai/)
+⬆️ 61 • 💬 41 • 2d ago • [atomicapp.ai](https://atomicapp.ai/)
 
 ---
 
 **[Ask HN: Am I getting old, or is working with AI juniors becoming a nightmare?](https://news.ycombinator.com/item?id=47888068)**
 
 ⬆️ 45 • 💬 46 • 2d ago
-
----
-
-**[Eden AI – European Alternative to OpenRouter](https://news.ycombinator.com/item?id=47908433)**
-
-Access 500+ LLMs and expert AI models through one unified API. Route requests by cost, performance, and region with built-in smart routing and fallbacks.
-
-⬆️ 42 • 💬 18 • 3h ago • [edenai.co](https://www.edenai.co)
 
 ---
 
@@ -289,7 +287,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 16K • 👍 950 • 💬 89 • ⏱️ 8:42 • 17h ago
+👁️ 16K • 👍 950 • 💬 89 • ⏱️ 8:42 • 18h ago
 
 ---
 
@@ -299,7 +297,7 @@ Really American host Steve Harness breaks down Iran SLAMMING Trump with even mor
 
 📺 Really American
 
-👁️ 584K • 👍 30K • 💬 2K • ⏱️ 13:36 • 15h ago
+👁️ 584K • 👍 30K • 💬 2K • ⏱️ 13:36 • 16h ago
 
 ---
 
@@ -309,7 +307,7 @@ You won't BELIEVE what humanoid robots just pulled off this week — and it's ab
 
 📺 The AI Nexus
 
-👁️ 1K • 👍 56 • 💬 7 • ⏱️ 16:59 • 13h ago
+👁️ 1K • 👍 56 • 💬 7 • ⏱️ 16:59 • 15h ago
 
 ---
 
@@ -319,7 +317,7 @@ You won't BELIEVE what humanoid robots just pulled off this week — and it's ab
 
 📺 Louis Rossmann
 
-👁️ 32K • 👍 3K • 💬 569 • ⏱️ 9:33 • 13h ago
+👁️ 32K • 👍 3K • 💬 569 • ⏱️ 9:33 • 14h ago
 
 ---
 
@@ -329,7 +327,7 @@ TikToker Facing 12 Years Prison for AI Prank CHECK OUT OUR MATS HERE: https://ma
 
 📺 Atozy
 
-👁️ 137K • 👍 7K • 💬 963 • ⏱️ 8:40 • 10h ago
+👁️ 137K • 👍 7K • 💬 963 • ⏱️ 8:40 • 12h ago
 
 ---
 
@@ -379,7 +377,7 @@ Terrible mouse fans have to be ai https://www.twitch.tv/qerello https://discord.
 
 📺 Qerello
 
-👁️ 31K • 👍 2K • 💬 480 • ⏱️ 11:36 • 9h ago
+👁️ 31K • 👍 2K • 💬 480 • ⏱️ 11:36 • 10h ago
 
 ---
 
@@ -479,7 +477,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with vision capabilitie
 
 `image-text-to-text` `34.7B`
 
-⬇️ 1,574,581 • ❤️ 781 • 5d ago
+⬇️ 1,574,581 • ❤️ 781 • 6d ago
 
 ---
 
@@ -652,7 +650,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 49.7k • 🔱 6.5k • 3h ago
+⭐ 49.7k • 🔱 6.5k • 5h ago
 
 ---
 
@@ -672,7 +670,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 39.8k • 🔱 8.2k • 9h ago
+⭐ 39.8k • 🔱 8.2k • 11h ago
 
 ---
 
@@ -682,7 +680,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 35.1k • 🔱 3.9k • 21h ago
+⭐ 35.1k • 🔱 3.9k • 22h ago
 
 ---
 
@@ -722,7 +720,7 @@ The headless browser for AI agents and web scraping
 
 `Rust`
 
-⭐ 5.4k • 🔱 314 • 23h ago
+⭐ 5.4k • 🔱 314 • 1d ago
 
 ---
 

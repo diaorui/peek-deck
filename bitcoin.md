@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-26T12:03:51.692782+00:00'
+updated: '2026-04-26T13:46:14.675749+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
 - cryptocurrency
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 26, 2026 at 12:03 UTC  
+**Last Updated:** April 26, 2026 at 13:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,936.13
+### $77,854.52
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
-**7d:** +2.9%  
-**30d:** +17.6%  
-**90d:** -12.5%  
-**1y:** -16.7%  
+**24h:** +0.4%  
+**7d:** +2.8%  
+**30d:** +17.5%  
+**90d:** -12.6%  
+**1y:** -16.8%  
 
 ---
 
@@ -77,9 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Bitcoining is all about shitposting while waiting 200K](https://www.reddit.com/r/Bitcoin/comments/1sw52ko/bitcoining_is_all_about_shitposting_while_waiting/)**
+
+In this sub, absolute cinema
+
+2h ago
+
+---
+
 **[Sometimes I wonder...](https://www.reddit.com/r/Bitcoin/comments/1svo1db/sometimes_i_wonder/)**
 
-14h ago
+16h ago
 
 ---
 
@@ -87,7 +95,7 @@ Rank #1
 
 In 2023 I started investing in Bitcoin but it was at an all time high at 29k and sold, now I regret it and started buying again.
 
-8h ago
+9h ago
 
 ---
 
@@ -95,7 +103,7 @@ In 2023 I started investing in Bitcoin but it was at an all time high at 29k and
 
 The US Treasury froze $344 million in USDT linked to Iran with a single call to Tether. Bitcoin kept processing every Iranian transaction without interruption. That is the whole story.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/us-froze-tether-iran-bitcoin-untouchable/) • 23h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/us-froze-tether-iran-bitcoin-untouchable/) • 1d ago
 
 ---
 
@@ -103,15 +111,15 @@ The US Treasury froze $344 million in USDT linked to Iran with a single call to 
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-5h ago
+7h ago
 
 ---
 
-**[Our website launched this week. Here's our vision for Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1sw3by7/our_website_launched_this_week_heres_our_vision/)**
+**[How do you HODL: Cold Storage / Hot Wallet / Exchange/ ETF](https://www.reddit.com/r/Bitcoin/comments/1sw76xp/how_do_you_hodl_cold_storage_hot_wallet_exchange/)**
 
-In 17 years, Bitcoin has become more than 1% of global money supply. It's estimated half a billion people own Bitcoin, most indirectly. There are many narratives for using it: insurance policy, inflation hedge, investment, etc. While Bitcoin is a wonderful asset, we believe the real value is held in the network itself. The world needs a permissionless global payment network with a currency accepted everywhere. Bitcoin should help you save, pay, remit and run a business, but it needs to feel familiar. Self-custody should be available and accessible to everyone. No learning required. Open source. Free. Globally available. Most users will enjoy our platform without needing to sign up or pay for anything: decentralised and pseudonymous. We will offer the ability to convert to other global currencies in the app, so you can accept Bitcoin in your business and cash out to a bank account each week if you need to cover bills in fiat. Total flexibility and control of your money. For power users who need personal or business accountancy services and tax advice we offer access to the most prestigious accounting firms in each market through our partner program. Our first partners will be announced on our website soon. We will comply with all global payment sanctions and work hard to establish positive relationships with regulators to ensure we build a service our users can rely on. Our company is based in the United Kingdom, with contributors in four time zones. We are Market Town.
+Curious what everyone’s mix is. (Not a Fed)
 
-2h ago
+33m ago
 
 ---
 
@@ -119,7 +127,7 @@ In 17 years, Bitcoin has become more than 1% of global money supply. It's estima
 
 Hello, so my bank/banks in my country in Europe do not allow bitcoin to be purchased using debit or credit cards. I did find a way to use bank transfer for platforms like Kraken, but they charge me a monthly fee just to have that feature, which is difficult for me since I am currently on a tight budget. I am wondering if there is any alternative way for me to buy bitcoin through another platform, such as Binance, and then transfer or trade it to my Kraken wallet safely and without high fees.
 
-14h ago
+16h ago
 
 ---
 
@@ -127,7 +135,7 @@ Hello, so my bank/banks in my country in Europe do not allow bitcoin to be purch
 
 Ppl only looking at short term liquidity saying shorts have been liquidated. But have u paid attention to older liquidity? Coinglass 3 month chart barely shows it. U need smth like trading different to see it fully. Goes all the way up to 96k. And there is a ton of it. Pay attention to the sideways consolidation, we have been doing this every weekend and then pumping to the upside. Everyone and their mom is shorting here. That means a very very very strong chance of upside. We’re going into the 80s at the very least. Do not short and get rekt. Dca/buy and hold
 
-17h ago
+19h ago
 
 ---
 
@@ -135,7 +143,7 @@ Ppl only looking at short term liquidity saying shorts have been liquidated. But
 
 Hello all, I feel like its very difficult now to actually have 100% safe and anonymous wallet. What would the steps to have a safe and anonymous wallet that would never be tracked to a person name? This must include Safety: if you suggest a website or an app to generate a wallet and get the keys for and then print it out on piece of paper. How are you 100% sure the generator is not fake? Anonymity: getting the wallet undocumented and how to later on exchange it back to fiat without having to through places like Coinbase etc... Purchasing: Many business online now accept crypto/btc but its usually associated to an account/name. I feel like the regulations are "needed" for crypto to be accepted in masses but that kind of breaks the purpose of it. Thanks in advance
 
-1h ago
+3h ago
 
 ---
 
@@ -143,15 +151,7 @@ Hello all, I feel like its very difficult now to actually have 100% safe and ano
 
 Why does every finance app try to look like a Bloomberg Terminal? 90% of those charts are just noise. I’ve been working on a project that strips all that away. It’s a simple, high-precision tracker for crypto and stocks. Important note: To keep things secure and simple, there are no trading features. You don't buy or sell assets in the app—it's designed solely to give you a perfect, clean overview of your portfolio and the market. If you’re looking for a more zen way to keep an eye on the market, give it a try. Link: https://play.google.com/store/apps/details?id=cz.akcie.app
 
-15h ago
-
----
-
-**[Do you archive old wallets](https://www.reddit.com/r/Bitcoin/comments/1svf5fr/do_you_archive_old_wallets/)**
-
-I have private keys from years ago to wallets that I've abandoned. Even though I don't use them and never plan to, I have a fear that I'll accidentally fund an old wallet from something that I forgot about (old exchange, someone tipping me to an old address, who-knows-what). I was imagining some little self-hosted app on my node that checks new blocks against known archived wallets and lets me know if a transaction matches - or for larger amounts, sweeps the funds automatically. I don't have anything like this, so I have copies of private keys and (for more recent wallets) seed phrases backed up in various places. I'm sure that I should be more organized about it, but what's the best way? I could see it getting out of hand easily and taking ages to go through everything on the regular to check balances. I look forward to a discussion on the best way to handle this. What are your ideas/solutions?
-
-20h ago
+16h ago
 
 ---
 
@@ -163,21 +163,37 @@ I have private keys from years ago to wallets that I've abandoned. Even though I
 
 IBIT options open interest topped Deribit on Friday, signaling rapid institutional adoption of regulated crypto derivatives in the U.S.
 
-CoinDesk • 17h ago
+CoinDesk • 19h ago
 
 ---
 
 **[Bitcoin’s Stealth Rally Has Traders Setting Sights on $80,000](https://www.bloomberg.com/news/articles/2026-04-25/bitcoin-s-stealth-rally-has-traders-setting-sights-on-80-000)**
 
-Bloomberg.com • 23h ago
+Bloomberg.com • 1d ago
 
 ---
 
-**[Anthony Scaramucci Questions Bitcoin's Potential Worth As 'Global Requirement' For Cybersecurity](https://finance.yahoo.com/markets/crypto/articles/anthony-scaramucci-questions-bitcoins-potential-233116379.html)**
+**[Why the ultra-wealthy are using bitcoin to buy real estate](https://finance.yahoo.com/video/why-ultra-wealthy-using-bitcoin-120000848.html)**
 
-SkyBridge Capital founder Anthony Scaramucci sparked a conversation on Thursday about Bitcoin’s potential worth if it becomes critical infrastructure for cybersecurity, specifically to counter AI-driven threats. Bitcoin’s Real Worth In an X post, Scaramucci highlighted gold’s $30 trillion valuation and...
+Market Domination welcomes Christie's International Real Estate Southern California founder and CEO, Aaron Kirman, to break down why some ultra-wealthy individuals are using bitcoin (BTC-USD) to purchase real estate (XLRE).
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Peter Schiff Warns of a “Death Spiral” in MicroStrategy’s Bitcoin Strategy](https://finance.yahoo.com/markets/crypto/articles/peter-schiff-warns-death-spiral-103000281.html)**
+
+Peter Schiff says MicroStrategy's STRC dividend creates a Bitcoin death spiral risk that could sink MSTR shares fast.
+
+Yahoo Finance • 3h ago
+
+---
+
+**[Kevin O'Leary sold 26 altcoins after the 2025 crash, kept only Bitcoin and Ethereum — says the rest have 'no future'](https://finance.yahoo.com/markets/crypto/articles/kevin-oleary-sold-26-altcoins-111500960.html)**
+
+Most altcoins fail. Should you write them off completely? Shark Tank investor Kevin O’Leary has thoughts on what you should do.
+
+Yahoo Finance • 2h ago
 
 ---
 
@@ -185,7 +201,7 @@ Yahoo Finance • 12h ago
 
 Independent researcher Giancarlo Lelli derived a 15-bit elliptic curve key on a publicly accessible quantum computer, Project Eleven said.
 
-The Block • 1d ago
+The Block • 2d ago
 
 ---
 
@@ -215,21 +231,7 @@ The New York Times • 3d ago
 
 The bitcoin price crash has wiped more than $1 trillion from the cryptocurrency's market cap...
 
-Forbes • 1d ago
-
----
-
-**[Tennessee Becomes Second State to Outlaw Bitcoin, Crypto ATMs](https://decrypt.co/365502/tennessee-second-state-outlaw-bitcoin-crypto-atms)**
-
-Tennessee has become the second U.S. state to outlaw Bitcoin and crypto ATMs, making it a criminal offense to own or operate the machines.
-
-Decrypt • 1d ago
-
----
-
-**[Bitcoin Price Outshines Gold Again, Powered By Strategy](https://www.investors.com/news/bitcoin-price-outshines-gold-april-2026-strategy-buying-power-mstr-stock/)**
-
-Investor's Business Daily • 1d ago
+Forbes • 2d ago
 
 ---
 
@@ -287,7 +289,7 @@ Part one explained the physics of quantum computing. This piece explains the tar
 
 **[Warren Buffett: Why Stocks Beat Gold, Bonds and Bitcoin (2018)](https://news.ycombinator.com/item?id=47875151)**
 
-⬆️ 2 • 💬 0 • 2d ago • [acquirersmultiple.com](https://acquirersmultiple.com/2018/01/warren-buffett-why-stocks-beat-gold-bonds-and-bitcoin/)
+⬆️ 2 • 💬 0 • 3d ago • [acquirersmultiple.com](https://acquirersmultiple.com/2018/01/warren-buffett-why-stocks-beat-gold-bonds-and-bitcoin/)
 
 ---
 
@@ -303,7 +305,7 @@ A senior US military commander has lauded Bitcoin as a “valuable computer scie
 
 The quantum threat to Bitcoin keeps inching closer, this time thanks to a researcher who broke a simplified cryptographic key.
 
-⬆️ 5 • 💬 1 • 22h ago • [Decrypt](https://decrypt.co/365444/bitcoin-q-day-draws-nearer-quantum-researcher-breaks-simplified-key)
+⬆️ 5 • 💬 1 • 1d ago • [Decrypt](https://decrypt.co/365444/bitcoin-q-day-draws-nearer-quantum-researcher-breaks-simplified-key)
 
 ---
 
@@ -325,7 +327,7 @@ Michael Saylor is buying at a pace that could trigger a historic Bitcoin supply 
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 1K • 💬 69 • ⏱️ 20:53 • 13h ago
+👁️ 12K • 👍 1K • 💬 69 • ⏱️ 20:53 • 14h ago
 
 ---
 
@@ -335,7 +337,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRus Extra
 
-👁️ 6K • 👍 310 • 💬 171 • ⏱️ 8:10 • 21h ago
+👁️ 6K • 👍 310 • 💬 171 • ⏱️ 8:10 • 23h ago
 
 ---
 
@@ -345,7 +347,7 @@ Kevin Warsh may be the next Fed Chair, and the real question is simple: when doe
 
 📺 Swan Bitcoin
 
-👁️ 6K • 👍 348 • 💬 10 • ⏱️ 11:16 • 9h ago
+👁️ 6K • 👍 348 • 💬 10 • ⏱️ 11:16 • 10h ago
 
 ---
 
@@ -355,7 +357,7 @@ Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=Al
 
 📺 Altcoin Daily
 
-👁️ 30K • 👍 2K • 💬 126 • ⏱️ 8:58 • 15h ago
+👁️ 30K • 👍 2K • 💬 126 • ⏱️ 8:58 • 17h ago
 
 ---
 
@@ -365,7 +367,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 43K • 👍 2K • 💬 52 • ⏱️ 57:11 • 23h ago
+👁️ 43K • 👍 2K • 💬 52 • ⏱️ 57:11 • 1d ago
 
 ---
 
@@ -375,7 +377,7 @@ Gareth uses it! Download Rumble Wallet now and enjoy the benefits of financial a
 
 📺 Gareth Soloway
 
-👁️ 52K • 👍 3K • 💬 387 • ⏱️ 10:41 • 22h ago
+👁️ 52K • 👍 3K • 💬 387 • ⏱️ 10:41 • 23h ago
 
 ---
 
@@ -395,7 +397,7 @@ THEY ARE PREDICTING - $500K BITCOIN, $40K ETHEREUM, AND $50 XRP BY THIS DATE! GE
 
 📺 Austin Hilton
 
-👁️ 10K • 👍 490 • 💬 94 • ⏱️ 9:47 • 19h ago
+👁️ 10K • 👍 490 • 💬 94 • ⏱️ 9:47 • 20h ago
 
 ---
 
@@ -405,7 +407,7 @@ WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TA
 
 📺 Crypto Rover
 
-👁️ 6K • 👍 467 • 💬 42 • ⏱️ 7:08 • 5h ago
+👁️ 6K • 👍 467 • 💬 42 • ⏱️ 7:08 • 7h ago
 
 ---
 
