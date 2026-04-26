@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-26T16:44:02.878083+00:00'
+updated: '2026-04-26T17:39:59.146488+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
-- videos
 - cryptocurrency
+- videos
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 26, 2026 at 16:44 UTC  
+**Last Updated:** April 26, 2026 at 17:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1563.28B
+**Market Cap:** $1561.47B
 Rank #1
 
-**Circulating Supply:** 20,021,031 BTC
+**Circulating Supply:** 20,021,100 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--38.0%
+-38.1%
 
 **All-Time Low:** $67.81
-+115099.8%
++114909.6%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 In this sub, absolute cinema
 
-5h ago
+6h ago
 
 ---
 
 **[Sometimes I wonder...](https://www.reddit.com/r/Bitcoin/comments/1svo1db/sometimes_i_wonder/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -95,7 +95,7 @@ In this sub, absolute cinema
 
 In 2023 I started investing in Bitcoin but it was at an all time high at 29k and sold, now I regret it and started buying again.
 
-12h ago
+13h ago
 
 ---
 
@@ -103,7 +103,7 @@ In 2023 I started investing in Bitcoin but it was at an all time high at 29k and
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-10h ago
+11h ago
 
 ---
 
@@ -119,7 +119,7 @@ The US Treasury froze $344 million in USDT linked to Iran with a single call to 
 
 Curious what everyone’s mix is. (Not a Fed)
 
-3h ago
+4h ago
 
 ---
 
@@ -127,7 +127,7 @@ Curious what everyone’s mix is. (Not a Fed)
 
 Hello, so my bank/banks in my country in Europe do not allow bitcoin to be purchased using debit or credit cards. I did find a way to use bank transfer for platforms like Kraken, but they charge me a monthly fee just to have that feature, which is difficult for me since I am currently on a tight budget. I am wondering if there is any alternative way for me to buy bitcoin through another platform, such as Binance, and then transfer or trade it to my Kraken wallet safely and without high fees.
 
-19h ago
+20h ago
 
 ---
 
@@ -135,7 +135,7 @@ Hello, so my bank/banks in my country in Europe do not allow bitcoin to be purch
 
 On of my favorite voices in the space. Gives foundational level of the history of money and challenges then ties it into the Bitcoin thesis.
 
-🔗 [open.substack.com](https://open.substack.com/pub/cws/p/how-to-fix-our-money?utm_campaign=post&utm_medium=web) • 14m ago
+🔗 [open.substack.com](https://open.substack.com/pub/cws/p/how-to-fix-our-money?utm_campaign=post&utm_medium=web) • 1h ago
 
 ---
 
@@ -143,7 +143,7 @@ On of my favorite voices in the space. Gives foundational level of the history o
 
 Ppl only looking at short term liquidity saying shorts have been liquidated. But have u paid attention to older liquidity? Coinglass 3 month chart barely shows it. U need smth like trading different to see it fully. Goes all the way up to 96k. And there is a ton of it. Pay attention to the sideways consolidation, we have been doing this every weekend and then pumping to the upside. Everyone and their mom is shorting here. That means a very very very strong chance of upside. We’re going into the 80s at the very least. Do not short and get rekt. Dca/buy and hold
 
-22h ago
+23h ago
 
 ---
 
@@ -151,7 +151,7 @@ Ppl only looking at short term liquidity saying shorts have been liquidated. But
 
 Why does every finance app try to look like a Bloomberg Terminal? 90% of those charts are just noise. I’ve been working on a project that strips all that away. It’s a simple, high-precision tracker for crypto and stocks. Important note: To keep things secure and simple, there are no trading features. You don't buy or sell assets in the app—it's designed solely to give you a perfect, clean overview of your portfolio and the market. If you’re looking for a more zen way to keep an eye on the market, give it a try. Link: https://play.google.com/store/apps/details?id=cz.akcie.app
 
-19h ago
+20h ago
 
 ---
 
@@ -163,7 +163,7 @@ Why does every finance app try to look like a Bloomberg Terminal? 90% of those c
 
 Some bitcoin advocates argue freezing dormant coins would set a dangerous precedent, while others say failing to act could pose greater risks.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -193,7 +193,7 @@ Bloomberg • 1d ago
 
 Five Big Tech firms report this week. The results could move Bitcoin given its record correlation with Nasdaq stocks
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -201,13 +201,13 @@ Yahoo Finance • 1h ago
 
 Bitcoin has spent April staging a recovery from its March lows, briefly climbing back above $79,000. However, not everyone is convinced of the rebound, and some analysts believe the move is only a mid-bear-market rally before a deeper correction.One such analyst is one that previously predicted a c…
 
-TradingView • 2h ago
+TradingView • 3h ago
 
 ---
 
 **[Bitcoin holds steady as institutional derivatives reach new milestone](https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-steady-as-institutional-derivatives-reach-new-milestone-4637419)**
 
-Investing.com • 13h ago
+Investing.com • 14h ago
 
 ---
 
@@ -325,7 +325,7 @@ Michael Saylor is buying at a pace that could trigger a historic Bitcoin supply 
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 1K • 💬 75 • ⏱️ 20:53 • 17h ago
+👁️ 15K • 👍 1K • 💬 149 • ⏱️ 20:53 • 18h ago
 
 ---
 
@@ -335,7 +335,7 @@ Kevin Warsh may be the next Fed Chair, and the real question is simple: when doe
 
 📺 Swan Bitcoin
 
-👁️ 7K • 👍 443 • 💬 13 • ⏱️ 11:16 • 13h ago
+👁️ 9K • 👍 513 • 💬 16 • ⏱️ 11:16 • 14h ago
 
 ---
 
@@ -345,7 +345,7 @@ Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=Al
 
 📺 Altcoin Daily
 
-👁️ 31K • 👍 2K • 💬 129 • ⏱️ 8:58 • 20h ago
+👁️ 34K • 👍 2K • 💬 180 • ⏱️ 8:58 • 21h ago
 
 ---
 
@@ -355,7 +355,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRus Extra
 
-👁️ 6K • 👍 319 • 💬 175 • ⏱️ 8:10 • 1d ago
+👁️ 6K • 👍 326 • 💬 175 • ⏱️ 8:10 • 1d ago
 
 ---
 
@@ -365,7 +365,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 45K • 👍 2K • 💬 53 • ⏱️ 57:11 • 1d ago
+👁️ 47K • 👍 2K • 💬 53 • ⏱️ 57:11 • 1d ago
 
 ---
 
@@ -375,37 +375,7 @@ Gareth uses it! Download Rumble Wallet now and enjoy the benefits of financial a
 
 📺 Gareth Soloway
 
-👁️ 54K • 👍 3K • 💬 394 • ⏱️ 10:41 • 1d ago
-
----
-
-**[Mark Moss: The 50-Year Cycle Pointing to Bitcoin&#39;s Biggest Bull Run | BM Podcast Ep 8](https://www.youtube.com/watch?v=Cw7Wnw0GyOM)**
-
-Mark Moss is an optimist and he makes a compelling case for why Bitcoin holders should be too. In this Bitcoin Magazine Podcast ...
-
-📺 Bitcoin Magazine
-
-👁️ 12K • 👍 464 • 💬 30 • ⏱️ 59:02 • 2d ago
-
----
-
-**[THEY ARE PREDICTING - $500K BITCOIN, $40K ETHEREUM, AND $50 XRP BY THIS DATE!](https://www.youtube.com/watch?v=DzdxhLkBDOo)**
-
-THEY ARE PREDICTING - $500K BITCOIN, $40K ETHEREUM, AND $50 XRP BY THIS DATE! GET AUSTIN'S X1 ALGO ...
-
-📺 Austin Hilton
-
-👁️ 10K • 👍 509 • 💬 30 • ⏱️ 9:47 • 23h ago
-
----
-
-**[Bitcoin: Heikin-Ashi Candles](https://www.youtube.com/watch?v=hMStACy4ou4)**
-
-In this video, we take a look at how Heikin-Ashi candles can help remove some of the emotional noise from Bitcoin price action, ...
-
-📺 Benjamin Cowen
-
-👁️ 36K • 👍 3K • 💬 182 • ⏱️ 23:18 • 12h ago
+👁️ 56K • 👍 3K • 💬 402 • ⏱️ 10:41 • 1d ago
 
 ---
 
@@ -416,6 +386,36 @@ Bitcoin is rallying out of a major drawdown while funding rates stay flat, short
 📺 Simply Bitcoin
 
 👁️ 54K • 👍 3K • 💬 204 • ⏱️ 20:08 • 2d ago
+
+---
+
+**[THEY ARE PREDICTING - $500K BITCOIN, $40K ETHEREUM, AND $50 XRP BY THIS DATE!](https://www.youtube.com/watch?v=DzdxhLkBDOo)**
+
+THEY ARE PREDICTING - $500K BITCOIN, $40K ETHEREUM, AND $50 XRP BY THIS DATE! GET AUSTIN'S X1 ALGO ...
+
+📺 Austin Hilton
+
+👁️ 11K • 👍 532 • 💬 30 • ⏱️ 9:47 • 1d ago
+
+---
+
+**[Bitcoin: Heikin-Ashi Candles](https://www.youtube.com/watch?v=hMStACy4ou4)**
+
+In this video, we take a look at how Heikin-Ashi candles can help remove some of the emotional noise from Bitcoin price action, ...
+
+📺 Benjamin Cowen
+
+👁️ 46K • 👍 3K • 💬 210 • ⏱️ 23:18 • 13h ago
+
+---
+
+**[Mark Moss: The 50-Year Cycle Pointing to Bitcoin&#39;s Biggest Bull Run | BM Podcast Ep 8](https://www.youtube.com/watch?v=Cw7Wnw0GyOM)**
+
+Mark Moss is an optimist and he makes a compelling case for why Bitcoin holders should be too. In this Bitcoin Magazine Podcast ...
+
+📺 Bitcoin Magazine
+
+👁️ 13K • 👍 472 • 💬 33 • ⏱️ 59:02 • 2d ago
 
 ---
 

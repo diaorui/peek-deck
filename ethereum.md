@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-26T16:44:02.884058+00:00'
+updated: '2026-04-26T17:39:59.151776+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
-- videos
 - cryptocurrency
+- videos
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 26, 2026 at 16:44 UTC  
+**Last Updated:** April 26, 2026 at 17:39 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $283.58B
+**Market Cap:** $283.03B
 Rank #2
 
 **Circulating Supply:** 120,688,830 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--52.5%
+-52.6%
 
 **All-Time Low:** $0.43
-+542566.0%
++541621.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -88,7 +88,7 @@ I wanted to share something interesting that happened recently. Etherscan added 
 
 Hey everyone - I built AliBitress because we wanted an easier way to actually spend crypto on everyday products instead of constantly converting to fiat first. The idea is simple: use your crypto directly for online shopping. Current platform supports: - 360+ cryptocurrencies - Millions of products - Shipping to 200+ countries Still improving things every week, and I’d genuinely like feedback from people who would use something like this. Questions for the community: - What would make a crypto shopping platform actually useful to you? - Which coins/networks should we add next? - What would stop you from using a service like this? If anyone wants to check it out / roast it / suggest improvements: alibitress.com Appreciate any feedback. Supported currencies: https://www.alibitress.com/currencies#popular
 
-9h ago
+10h ago
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 1d ago
 
 The Ethereum Foundation has moved to unwind part of its staking position shortly after nearing its stated goal of 70,000 staked ETH.On Saturday, the Ethereum Foundation unstaked 17,035.326 ETH, worth roughly $40 million, according to Arkham data. The move involved depositing wrapped staked ETH (wst…
 
-TradingView • 4h ago
+TradingView • 5h ago
 
 ---
 
@@ -196,7 +196,7 @@ The Block • 2d ago
 
 Dubai, UAE, April  26, 2026  (GLOBE NEWSWIRE) -- Pepeto confirmed this week that final test on the Exchange are done, to support the big volume it...
 
-markets.businessinsider.com • 2h ago
+markets.businessinsider.com • 3h ago
 
 ---
 
@@ -204,7 +204,7 @@ markets.businessinsider.com • 2h ago
 
 The Ethereum Foundation unstaked $48.9 million in ETH, raising sell-off concerns; Ethereum reaching $10,000 by December 31, 2026 at 4% YES.
 
-Crypto Briefing • 4h ago
+Crypto Briefing • 5h ago
 
 ---
 
@@ -224,7 +224,7 @@ TipRanks • 1d ago
 
 Dormant Ethereum whale spends 358 ETH ($828K) on 2.62B $ASTEROID, adds liquidity; holds 81.64 ETH for more buys amid bullish ETH trends.
 
-blockchain.news • 6h ago
+blockchain.news • 7h ago
 
 ---
 
@@ -232,13 +232,33 @@ blockchain.news • 6h ago
 
 ## YouTube Videos: "ethereum"
 
+**[Raoul Pal &amp; Tom Lee: &quot;ETH To $60,000 Is The LOGICAL Outcome - Here&#39;s The Exact Math&quot; [2026]](https://www.youtube.com/watch?v=0ZfCrNS9BkI)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 422 • 👍 57 • 💬 11 • ⏱️ 18:46 • 1h ago
+
+---
+
 **[THEY ARE PREDICTING - $500K BITCOIN, $40K ETHEREUM, AND $50 XRP BY THIS DATE!](https://www.youtube.com/watch?v=DzdxhLkBDOo)**
 
 THEY ARE PREDICTING - $500K BITCOIN, $40K ETHEREUM, AND $50 XRP BY THIS DATE! GET AUSTIN'S X1 ALGO ...
 
 📺 Austin Hilton
 
-👁️ 10K • 👍 509 • 💬 30 • ⏱️ 9:47 • 23h ago
+👁️ 11K • 👍 532 • 💬 30 • ⏱️ 9:47 • 1d ago
+
+---
+
+**[🔥 Ethereum Is Cooking… Is Arthur Wrong?](https://www.youtube.com/watch?v=FmCD8BlEWtY)**
+
+Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
+
+📺 🌟yourfriendsommi
+
+👁️ 518 • 👍 91 • 💬 8 • ⏱️ 18:14 • 2h ago
 
 ---
 
@@ -248,17 +268,17 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 215 • 👍 17 • 💬 1 • ⏱️ 4:49 • 7h ago
+👁️ 324 • 👍 18 • 💬 1 • ⏱️ 4:49 • 8h ago
 
 ---
 
-**[Tom Lee :&quot;Why Ethereum Is Going To $50,000 Per Coin, 1 ETH Will Be Huge! | Eth Price 2026](https://www.youtube.com/watch?v=P131BOKYpf0)**
+**[ETHEREUM HOLDERS, THE SIGNAL IS FLASHING AGAIN (LAST TIME WE PUMPED FAST)](https://www.youtube.com/watch?v=iZd82wsW2zM)**
 
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ Deposit from $100: Get a 1% bonus Join The Trading ...
 
-📺 Crypto Nutshell
+📺 Tyler Hill Crypto
 
-👁️ 16K • 👍 460 • 💬 53 • ⏱️ 23:11 • 3d ago
+👁️ 4K • 👍 192 • 💬 154 • ⏱️ 13:36 • 1d ago
 
 ---
 
@@ -268,17 +288,7 @@ THE FLOODGATES JUST OPENED!! XRP LEDGER HAS OFFICIALLY OVERTAKEN ETHEREUM!! $1.1
 
 📺 The Wall Street Bull
 
-👁️ 478 • 👍 55 • 💬 4 • ⏱️ 23:06 • 10h ago
-
----
-
-**[A Generational Crypto Buying Opportunity Has Begun](https://www.youtube.com/watch?v=h4p4pKrFbWs)**
-
-Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=AltcoinDaily Grab Tickets to BTC Conference ...
-
-📺 Altcoin Daily
-
-👁️ 31K • 👍 2K • 💬 129 • ⏱️ 8:58 • 20h ago
+👁️ 529 • 👍 55 • 💬 4 • ⏱️ 23:06 • 11h ago
 
 ---
 
@@ -288,17 +298,7 @@ Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=Al
 
 📺 Library Of Wealth
 
-👁️ 1K • 👍 45 • 💬 132 • ⏱️ 16:26 • 2d ago
-
----
-
-**[The First Institutional Crypto Bull Market Has Begun (Retail Has No Idea)](https://www.youtube.com/watch?v=vp_WM6y4gsQ)**
-
-Crypto is getting weirdly quiet… but not for the reasons most people think. Retail is exhausted, sentiment is flat, and everyone on ...
-
-📺 Crypto Capital Venture
-
-👁️ 9K • 👍 623 • 💬 282 • ⏱️ 13:40 • 1d ago
+👁️ 1K • 👍 46 • 💬 132 • ⏱️ 16:26 • 2d ago
 
 ---
 
@@ -308,27 +308,27 @@ Most people are declaring altcoins dead, but the crypto charts tell a completely
 
 📺 Crypto Capital Venture
 
-👁️ 9K • 👍 566 • 💬 141 • ⏱️ 13:20 • 2d ago
+👁️ 9K • 👍 568 • 💬 155 • ⏱️ 13:20 • 2d ago
 
 ---
 
-**[Bitcoin &amp; Ethereum. Wir warten auf die Entscheidung! Nochmal über 80k ?](https://www.youtube.com/watch?v=g5vpifjqkGc)**
+**[A Generational Crypto Buying Opportunity Has Begun](https://www.youtube.com/watch?v=h4p4pKrFbWs)**
 
-DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 250€ + ...
+Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=AltcoinDaily Grab Tickets to BTC Conference ...
 
-📺 Krypto Trading & Investing
+📺 Altcoin Daily
 
-👁️ 2K • 👍 405 • 💬 33 • ⏱️ 9:32 • 11h ago
+👁️ 34K • 👍 2K • 💬 180 • ⏱️ 8:58 • 21h ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=XTA0UdCasfs)**
+**[The First Institutional Crypto Bull Market Has Begun (Retail Has No Idea)](https://www.youtube.com/watch?v=vp_WM6y4gsQ)**
 
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+Crypto is getting weirdly quiet… but not for the reasons most people think. Retail is exhausted, sentiment is flat, and everyone on ...
 
-📺 Crypto Gyan
+📺 Crypto Capital Venture
 
-👁️ 997 • 👍 82 • ⏱️ 6:21 • 13h ago
+👁️ 9K • 👍 637 • 💬 285 • ⏱️ 13:40 • 1d ago
 
 ---
 
