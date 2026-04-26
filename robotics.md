@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-26T18:57:19.693863+00:00'
+updated: '2026-04-26T19:49:55.225703+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 26, 2026 at 18:57 UTC  
+**Last Updated:** April 26, 2026 at 19:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Ascento Guard: A Two-Wheeled Jumping Security Robot Developed at ETH Zurich](https://www.reddit.com/r/robotics/comments/1swcjc1/ascento_guard_a_twowheeled_jumping_security_robot/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -42,25 +42,25 @@ Robotics research and industry news
 
 Robotics as a discipline is already hard enough, but what nobody ever talks about is that all these components need to be certified, not just separately but also as a whole. You need seasoned experts in each subdomain (software, electric, mechanic) that can produce components to the level that will pass OSHA, Regulation 2023/1230 etc etc. This usually requires outside labs for independent validation of safety standards, which can take years especially if humans have to get anywhere close to the device. Both companies I work for have been utterly unaware of this, and are now finding out that "4 months to market" are actually rather "1.5 years to market".
 
-1h ago
+2h ago
 
 ---
 
 **[Messing around with the holonomic (kiwi) drive](https://www.reddit.com/r/robotics/comments/1sw3y5d/messing_around_with_the_holonomic_kiwi_drive/)**
 
-8h ago
+9h ago
 
 ---
 
 **[I built a LeRobot dataset viewer with EE trajectory visualization](https://www.reddit.com/r/robotics/comments/1sw3oem/i_built_a_lerobot_dataset_viewer_with_ee/)**
 
-8h ago
+9h ago
 
 ---
 
 **[Testing Robot DF6 with Pi](https://www.reddit.com/r/robotics/comments/1sw7h3e/testing_robot_df6_with_pi/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -68,7 +68,7 @@ Robotics as a discipline is already hard enough, but what nobody ever talks abou
 
 i bet you haven't seen a SO101 mounted on a wall like this before if you want to do the same, here is LeSlider: https://github.com/pham-tuan-binh/leslider i built it cause i wanted something that can cover my whole desk for tasks like organizing and cleaning i originally wanted to have a belt system like what 3D printers have, but i was too lazy and used a pinion/track with another sts3215 so: > the extra motor shares the same bus as the rest of SO101 > you can have arbitrary length of track > really cheap and easy to assemble and control it turned out better than expected with this, i'm gonna train a model to pick random stuff up across my table and put it into a bin at the end of table (realistically using yolo to scan table, two policies, one for picking up objects, one for dropping)
 
-16h ago
+17h ago
 
 ---
 
@@ -76,7 +76,7 @@ i bet you haven't seen a SO101 mounted on a wall like this before if you want to
 
 I have implemented the whole stack of aerodynamics, flight mechanics and flight controller to simulate and train swarm UAVs in Isaac Lab. Check the repo.
 
-8h ago
+9h ago
 
 ---
 
@@ -84,7 +84,7 @@ I have implemented the whole stack of aerodynamics, flight mechanics and flight 
 
 I designed the robot using fusion 360 in programmed it with python. I designed android one as a research platform so when I wanted to test out an idea that needed a humanoid robot it was something I could do, this weekend I was bored so I programmed it to play air hockey it’s a little bad because my robot is pretty cheap but once I get enough funding, I’m gonna make a android 4 which is basically gonna be a remastered version of this one, but with more freedom of motion.
 
-14h ago
+15h ago
 
 ---
 
@@ -92,7 +92,7 @@ I designed the robot using fusion 360 in programmed it with python. I designed a
 
 Me and a group of people have been evaluating the need for a robot rental platform, mainly starting off in the UK. We have a survey evaluating whether or not this idea is even worth working on so if you're interested in something like this, even if you're not based in the UK, your answers will be most useful.
 
-🔗 [Google Docs](https://docs.google.com/forms/d/e/1FAIpQLSeE3dMuIQSPMduMnwSLAJu2yWQyyqG1GtJXIpZhjG7-r7P-qw/viewform?pli=1) • 1h ago
+🔗 [Google Docs](https://docs.google.com/forms/d/e/1FAIpQLSeE3dMuIQSPMduMnwSLAJu2yWQyyqG1GtJXIpZhjG7-r7P-qw/viewform?pli=1) • 2h ago
 
 ---
 
@@ -112,7 +112,7 @@ Experimenting with 3D on the web, telemetry, and remote control. What do you thi
 
 Researchers develop flexible, stretchable electronic skin and soft robots inspired by nature at University of Turku.
 
-Interesting Engineering • 1d ago
+Interesting Engineering • 2d ago
 
 ---
 
@@ -120,7 +120,7 @@ Interesting Engineering • 1d ago
 
 Pudu plans to use the funding to develop its embodied AI, grow its product portfolio, and expand in global markets beyond service robots.
 
-The Robot Report • 2d ago
+The Robot Report • 3d ago
 
 ---
 
@@ -128,7 +128,7 @@ The Robot Report • 2d ago
 
 Software lets robots learn from each other even if they have different hardware.
 
-Ars Technica • 7h ago
+Ars Technica • 8h ago
 
 ---
 
@@ -144,7 +144,7 @@ Business Insider • 1d ago
 
 Foundation sent humanoid robots to Ukraine for a demonstration. CEO Sankaet Pathak said that in 5 to 10 years, they will be able to extract targets.
 
-Business Insider • 10h ago
+Business Insider • 11h ago
 
 ---
 
@@ -152,7 +152,7 @@ Business Insider • 10h ago
 
 From a humanoid robot half-marathon in Beijing to the global spotlight of the Beijing Auto Show and the debut of DeepSeek-V4, Chinese technological milestones have dominated international headlines over the past week.
 
-Global Times • 3h ago
+Global Times • 4h ago
 
 ---
 
@@ -168,7 +168,7 @@ Interesting Engineering • 2d ago
 
 Photon-driven nanorobots can steer, capture, and move bacteria with precision, enabling controlled manipulation in microscopic environments and offering new tools for microbiology.
 
-SciTechDaily • 7h ago
+SciTechDaily • 8h ago
 
 ---
 
@@ -176,7 +176,7 @@ SciTechDaily • 7h ago
 
 FIRST Robotics Team 48, Team ELITE, made up of students from Warren G. Harding High School, will be competing alongside 499 other teams from around the globe at the FIRST Championship in Houston, Texa...
 
-Yahoo • 5h ago
+Yahoo • 6h ago
 
 ---
 
@@ -192,13 +192,33 @@ CBS News • 1d ago
 
 ## YouTube Videos: "robotics"
 
+**[Elon Musk Just Won the AI Robot Race With New Upgraded Optimus &quot;Ultra&quot;](https://www.youtube.com/watch?v=KuXFzfh2GPE)**
+
+Elon Musk is once again in the spotlight as an upgraded version of the Optimus robot, known as “Ultra,” begins to generate buzz.
+
+📺 Carros Show
+
+👁️ 3K • 👍 74 • 💬 25 • ⏱️ 51:48 • 18h ago
+
+---
+
+**[Robot Smashes Human World Record, Signaling Big Changes](https://www.youtube.com/watch?v=zw9LAjm9pso)**
+
+Flash, a humanoid robot made by Chinese smartphone company Honor, just smashed the human world record for the ...
+
+📺 CNET
+
+👁️ 4K • 👍 156 • 💬 25 • ⏱️ 4:53 • 7h ago
+
+---
+
 **[I Bought 200 Robot Vacuums — Here&#39;s The Only One Worth Your Money in 2026!](https://www.youtube.com/watch?v=i_vPlTcRxp8)**
 
 What is the best robot vacuum in 2026? After testing over 200 robot vacuums with my own money, one model still stands above ...
 
 📺 Just A Dad Approved
 
-👁️ 6K • 👍 252 • 💬 90 • ⏱️ 13:40 • 1d ago
+👁️ 7K • 👍 265 • 💬 90 • ⏱️ 13:40 • 1d ago
 
 ---
 
@@ -208,17 +228,7 @@ Low Goal Blocker & Updates | 16610A Snacky Cakes | Robot Rundown World Finalists
 
 📺 FUN Robotics Network
 
-👁️ 939 • 👍 24 • 💬 2 • ⏱️ 1:21 • 1h ago
-
----
-
-**[This robot can beat you at table tennis](https://www.youtube.com/watch?v=EH8kZDc7OLk)**
-
-For the first time, an AI-powered machine has bested elite-level athletes at a physical sport. 'Ace' is a table tennis-playing robot.
-
-📺 nature video
-
-👁️ 113K • 👍 2K • 💬 225 • ⏱️ 13:38 • 4d ago
+👁️ 2K • 👍 84 • 💬 4 • ⏱️ 1:21 • 2h ago
 
 ---
 
@@ -228,57 +238,17 @@ A humanoid robot has beaten the human record for the world's fastest half-marath
 
 📺 ABC News (Australia)
 
-👁️ 109K • 👍 656 • ⏱️ 6:44 • 6d ago
+👁️ 110K • 👍 658 • ⏱️ 6:44 • 6d ago
 
 ---
 
-**[New AI Robot From China Breaks Human Limits](https://www.youtube.com/watch?v=EJbJMg2RNgw)**
+**[Russian soldiers surrender to both aerial drones and ground robots on front line](https://www.youtube.com/watch?v=aLU88wt-BTM)**
 
-AGIBOT just rolled out a full new wave of humanoid robots and AI models built for real deployment, while researchers in South ...
+Kanal13​ #likekanal13​ #subscribekanal13 #warinukraine https://www.youtube.com/user/kanal13az?sub_confirmation=1 ...
 
-📺 AI Revolution
+📺 Kanal13
 
-👁️ 37K • 👍 840 • 💬 66 • ⏱️ 16:29 • 5d ago
-
----
-
-**[China&#39;s Robotics Innovation Is Moving Faster Than Anyone Realizes](https://www.youtube.com/watch?v=qB0SsWTEBlU)**
-
-I thought this would be just another robot demo... I was wrong.At this launch event, X Square Robot introduced a new kind of home ...
-
-📺 Barrett
-
-👁️ 12K • 👍 751 • 💬 16 • ⏱️ 5:43 • 3d ago
-
----
-
-**[Chinese humanoid robots outrun humans in half-marathon, setting records](https://www.youtube.com/watch?v=k5_Tlgvt-c8)**
-
-Over a hundred Chinese-made humanoid robots participated in a half-marathon race in Beijing on Sunday. The second inaugural ...
-
-📺 Global News
-
-👁️ 214K • 👍 2K • 💬 144 • ⏱️ 0:46 • 6d ago
-
----
-
-**[VEX V5 Robotics Competition : Override | 2026-2027 Game](https://www.youtube.com/watch?v=68NxYIAzbkY)**
-
-SUBSCRIBE: https://www.vex.com/YouTube ----------------------------------------------------------------------- VEX V5 Robotics Competition ...
-
-📺 VEX Robotics
-
-👁️ 109K • 👍 2K • 💬 610 • ⏱️ 5:09 • 1d ago
-
----
-
-**[$1000 Tesla Optimus Robot (Home Edition) Officially Available for Sale!](https://www.youtube.com/watch?v=lA357NZV21E)**
-
-Subscribe for more: https://www.youtube.com/@carrosshow9598 Other video's: Elon Musk's New Tesla Robot Has Shocked ...
-
-📺 Carros Show
-
-👁️ 4K • 👍 53 • 💬 25 • ⏱️ 8:25 • 3d ago
+👁️ 22K • 👍 411 • 💬 10 • ⏱️ 4:03 • 1d ago
 
 ---
 
@@ -288,7 +258,35 @@ War Robots Gameplay: New WAYMAKER Titan - WR My War Robots Creator Link: https:/
 
 📺 Manni-Gaming
 
-👁️ 17K • 👍 634 • 💬 77 • ⏱️ 24:06 • 3d ago
+👁️ 17K • 👍 654 • 💬 78 • ⏱️ 24:06 • 3d ago
+
+---
+
+**[Chinese humanoid robots outrun humans in half-marathon, setting records](https://www.youtube.com/watch?v=k5_Tlgvt-c8)**
+
+Over a hundred Chinese-made humanoid robots participated in a half-marathon race in Beijing on Sunday. The second inaugural ...
+
+📺 Global News
+
+👁️ 215K • 👍 2K • 💬 144 • ⏱️ 0:46 • 6d ago
+
+---
+
+**[🔥🤖 Honor was the Half-Marathon Dark Horse—1, 2, 3! #robot  #humanoidrobot #marathon #ai](https://www.youtube.com/watch?v=rEB2PwhSlq0)**
+
+📺 XRoboHub
+
+👁️ 170K • 👍 2K • 💬 199 • ⏱️ 0:30 • 5d ago
+
+---
+
+**[NEW Shoggoth Robot Is Bizarre... NEW Stretch Attack Ability Is Wild | War Robots](https://www.youtube.com/watch?v=cvzlozoeJ5o)**
+
+New Spider Shoggoth Robot. This is so weird. We got a new robot on the test server and it has a brand new ability. 2 Medium 2 ...
+
+📺 PREDATOR WR
+
+👁️ 25K • 👍 692 • 💬 230 • ⏱️ 15:36 • 1d ago
 
 ---
 

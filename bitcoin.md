@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-26T18:57:19.687548+00:00'
+updated: '2026-04-26T19:49:55.217528+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
 - social
-- news
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 26, 2026 at 18:57 UTC  
+**Last Updated:** April 26, 2026 at 19:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1561.47B
+**Market Cap:** $1565.70B
 Rank #1
 
-**Circulating Supply:** 20,021,100 BTC
+**Circulating Supply:** 20,021,134 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--38.1%
+-38.0%
 
 **All-Time Low:** $67.81
-+114909.6%
++115225.2%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 In this sub, absolute cinema
 
-7h ago
+8h ago
 
 ---
 
@@ -89,13 +89,13 @@ In this sub, absolute cinema
 
 On of my favorite voices in the space. Gives foundational level of the history of money and challenges then ties it into the Bitcoin thesis.
 
-🔗 [open.substack.com](https://open.substack.com/pub/cws/p/how-to-fix-our-money?utm_campaign=post&utm_medium=web) • 2h ago
+🔗 [open.substack.com](https://open.substack.com/pub/cws/p/how-to-fix-our-money?utm_campaign=post&utm_medium=web) • 3h ago
 
 ---
 
 **[Sometimes I wonder...](https://www.reddit.com/r/Bitcoin/comments/1svo1db/sometimes_i_wonder/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -103,7 +103,7 @@ On of my favorite voices in the space. Gives foundational level of the history o
 
 Bought my first Bitcoin on Binance back in 2018 and stayed there out of habit for years. Started using Bybit about seven months ago after a friend showed me his actual trade receipts on BTC spot the spreads he was getting were consistently tighter than what I was paying. Did some test buys side by side and yeah, the difference is real on size. Binance still wins on raw liquidity. If you're moving serious BTC volume in one go the book on Binance is just deeper and you'll feel less slippage on a market order. Bybit caught up on the stuff that actually matters to me as someone stacking sats the BTC withdrawal fee is lower (last time I withdrew it was 0.00005 BTC vs Binance asking more) and the withdrawal-to-cold-storage flow has been faster from my account at least. Both let me whitelist my hardware wallet address which is what I actually care about. So I stopped trying to pick a "best" exchange. I keep small operating amounts on both, buy where the spread is better that day, and the moment I've accumulated enough I send everything to my cold storage. Not your keys, not your Bitcoin. The endless "which exchange is best" debates are honestly engagement bait. Pick whatever lets you stack BTC most efficiently and gets it off the exchange the fastest.
 
-31m ago
+1h ago
 
 ---
 
@@ -119,7 +119,7 @@ In 2023 I started investing in Bitcoin but it was at an all time high at 29k and
 
 Curious what everyone’s mix is. (Not a Fed)
 
-5h ago
+6h ago
 
 ---
 
@@ -127,7 +127,7 @@ Curious what everyone’s mix is. (Not a Fed)
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-12h ago
+13h ago
 
 ---
 
@@ -143,7 +143,7 @@ The US Treasury froze $344 million in USDT linked to Iran with a single call to 
 
 Hello, so my bank/banks in my country in Europe do not allow bitcoin to be purchased using debit or credit cards. I did find a way to use bank transfer for platforms like Kraken, but they charge me a monthly fee just to have that feature, which is difficult for me since I am currently on a tight budget. I am wondering if there is any alternative way for me to buy bitcoin through another platform, such as Binance, and then transfer or trade it to my Kraken wallet safely and without high fees.
 
-21h ago
+22h ago
 
 ---
 
@@ -163,7 +163,7 @@ Ppl only looking at short term liquidity saying shorts have been liquidated. But
 
 Some bitcoin advocates argue freezing dormant coins would set a dangerous precedent, while others say failing to act could pose greater risks.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -193,7 +193,7 @@ Bloomberg.com • 1d ago
 
 If history is any guide, Bitcoin is capable of doubling in value on a regular basis.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -201,7 +201,7 @@ The Motley Fool • 1h ago
 
 Market Domination welcomes Christie's International Real Estate Southern California founder and CEO, Aaron Kirman, to break down why some ultra-wealthy individuals are using bitcoin (BTC-USD) to purchase real estate (XLRE).
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -215,7 +215,7 @@ Investing.com • 16h ago
 
 Bitcoin has spent April staging a recovery from its March lows, briefly climbing back above $79,000. However, not everyone is convinced of the rebound, and some analysts believe the move is only a mid-bear-market rally before a deeper correction.One such analyst is one that previously predicted a c…
 
-TradingView • 4h ago
+TradingView • 5h ago
 
 ---
 
@@ -223,7 +223,7 @@ TradingView • 4h ago
 
 Top US Navy Admiral calls bitcoin a tool of "power projection" as the US, China, Iran, and Russia are all leveraging bitcoin to advance their own strategic interests.
 
-Forbes • 7h ago
+Forbes • 8h ago
 
 ---
 
@@ -327,7 +327,7 @@ Michael Saylor is buying at a pace that could trigger a historic Bitcoin supply 
 
 📺 Simply Bitcoin
 
-👁️ 15K • 👍 1K • 💬 149 • ⏱️ 20:53 • 20h ago
+👁️ 16K • 👍 1K • 💬 130 • ⏱️ 20:53 • 21h ago
 
 ---
 
@@ -337,7 +337,7 @@ Kevin Warsh may be the next Fed Chair, and the real question is simple: when doe
 
 📺 Swan Bitcoin
 
-👁️ 9K • 👍 513 • 💬 16 • ⏱️ 11:16 • 16h ago
+👁️ 10K • 👍 547 • 💬 18 • ⏱️ 11:16 • 17h ago
 
 ---
 
@@ -347,7 +347,17 @@ Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=Al
 
 📺 Altcoin Daily
 
-👁️ 34K • 👍 2K • 💬 180 • ⏱️ 8:58 • 22h ago
+👁️ 35K • 👍 2K • 💬 138 • ⏱️ 8:58 • 23h ago
+
+---
+
+**[Crypto Is Ignoring This 1996 Boom Setup (Huge Mistake)](https://www.youtube.com/watch?v=UaaPXT7WfPk)**
+
+Crypto was not here during the bull market of the 90's that lasted years. Crypto bull markets have always been parabolic and then ...
+
+📺 Crypto Capital Venture
+
+👁️ 3K • 👍 362 • 💬 136 • ⏱️ 16:57 • 3h ago
 
 ---
 
@@ -357,47 +367,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRus Extra
 
-👁️ 6K • 👍 326 • 💬 175 • ⏱️ 8:10 • 1d ago
-
----
-
-**[Why Bitcoin WINS No Matter What Happens to Inflation](https://www.youtube.com/watch?v=OisxT95bkk8)**
-
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
-
-📺 Anthony Pompliano
-
-👁️ 47K • 👍 2K • 💬 53 • ⏱️ 57:11 • 1d ago
-
----
-
-**[BITCOIN WARNING: $85k Fakeout Before Flush To $50,000?](https://www.youtube.com/watch?v=1xEYGkUPX5c)**
-
-Gareth uses it! Download Rumble Wallet now and enjoy the benefits of financial and personal freedom!
-
-📺 Gareth Soloway
-
-👁️ 56K • 👍 3K • 💬 402 • ⏱️ 10:41 • 1d ago
-
----
-
-**[Bitcoin&#39;s Most Dangerous Rally is Happening Right Now!](https://www.youtube.com/watch?v=X3V94U_p3WA)**
-
-Bitcoin is rallying out of a major drawdown while funding rates stay flat, shorts get squeezed, and spot demand keeps absorbing ...
-
-📺 Simply Bitcoin
-
-👁️ 54K • 👍 3K • 💬 204 • ⏱️ 20:08 • 2d ago
-
----
-
-**[THEY ARE PREDICTING - $500K BITCOIN, $40K ETHEREUM, AND $50 XRP BY THIS DATE!](https://www.youtube.com/watch?v=DzdxhLkBDOo)**
-
-THEY ARE PREDICTING - $500K BITCOIN, $40K ETHEREUM, AND $50 XRP BY THIS DATE! GET AUSTIN'S X1 ALGO ...
-
-📺 Austin Hilton
-
-👁️ 11K • 👍 532 • 💬 30 • ⏱️ 9:47 • 1d ago
+👁️ 7K • 👍 335 • 💬 176 • ⏱️ 8:10 • 1d ago
 
 ---
 
@@ -407,7 +377,37 @@ In this video, we take a look at how Heikin-Ashi candles can help remove some of
 
 📺 Benjamin Cowen
 
-👁️ 46K • 👍 3K • 💬 210 • ⏱️ 23:18 • 14h ago
+👁️ 51K • 👍 4K • 💬 218 • ⏱️ 23:18 • 15h ago
+
+---
+
+**[BITCOIN WARNING: $85k Fakeout Before Flush To $50,000?](https://www.youtube.com/watch?v=1xEYGkUPX5c)**
+
+Gareth uses it! Download Rumble Wallet now and enjoy the benefits of financial and personal freedom!
+
+📺 Gareth Soloway
+
+👁️ 58K • 👍 3K • 💬 332 • ⏱️ 10:41 • 1d ago
+
+---
+
+**[THEY ARE PREDICTING - $500K BITCOIN, $40K ETHEREUM, AND $50 XRP BY THIS DATE!](https://www.youtube.com/watch?v=DzdxhLkBDOo)**
+
+THEY ARE PREDICTING - $500K BITCOIN, $40K ETHEREUM, AND $50 XRP BY THIS DATE! GET AUSTIN'S X1 ALGO ...
+
+📺 Austin Hilton
+
+👁️ 12K • 👍 545 • 💬 30 • ⏱️ 9:47 • 1d ago
+
+---
+
+**[Bitcoin Shorts Are ALL-IN… And History Says They’re About to Get DESTROYED 💣🐻](https://www.youtube.com/watch?v=VRWta_3-7AU)**
+
+Bitcoin is sending mixed signals… and the crypto market is at a crossroads. On one hand, we're seeing weakening returns, ...
+
+📺 Crypto Love
+
+👁️ 893 • 👍 131 • 💬 95 • ⏱️ 11:37 • 2h ago
 
 ---
 
@@ -417,7 +417,7 @@ Mark Moss is an optimist and he makes a compelling case for why Bitcoin holders 
 
 📺 Bitcoin Magazine
 
-👁️ 13K • 👍 472 • 💬 33 • ⏱️ 59:02 • 2d ago
+👁️ 13K • 👍 482 • 💬 33 • ⏱️ 59:02 • 2d ago
 
 ---
 
