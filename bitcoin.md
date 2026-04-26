@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-26T04:02:31.103728+00:00'
+updated: '2026-04-26T06:24:15.320823+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- cryptocurrency
 - news
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 26, 2026 at 04:02 UTC  
+**Last Updated:** April 26, 2026 at 06:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,385.78
+### $77,991.31
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** +2.0%  
-**30d:** +16.6%  
-**90d:** -13.3%  
-**1y:** -17.4%  
+**24h:** +0.6%  
+**7d:** +2.8%  
+**30d:** +17.4%  
+**90d:** -12.7%  
+**1y:** -16.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1549.72B
+**Market Cap:** $1561.01B
 Rank #1
 
-**Circulating Supply:** 20,020,834 BTC
+**Circulating Supply:** 20,020,862 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--38.6%
+-38.2%
 
 **All-Time Low:** $67.81
-+114058.7%
++114868.3%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Sometimes I wonder...](https://www.reddit.com/r/Bitcoin/comments/1svo1db/sometimes_i_wonder/)**
 
-6h ago
+9h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 The US Treasury froze $344 million in USDT linked to Iran with a single call to Tether. Bitcoin kept processing every Iranian transaction without interruption. That is the whole story.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/us-froze-tether-iran-bitcoin-untouchable/) • 15h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/us-froze-tether-iran-bitcoin-untouchable/) • 17h ago
 
 ---
 
@@ -95,15 +95,7 @@ The US Treasury froze $344 million in USDT linked to Iran with a single call to 
 
 In 2023 I started investing in Bitcoin but it was at an all time high at 29k and sold, now I regret it and started buying again.
 
-10m ago
-
----
-
-**[Negative funding rates and ton of liquidity in the 80s](https://www.reddit.com/r/Bitcoin/comments/1svjy34/negative_funding_rates_and_ton_of_liquidity_in/)**
-
-Ppl only looking at short term liquidity saying shorts have been liquidated. But have u paid attention to older liquidity? Coinglass 3 month chart barely shows it. U need smth like trading different to see it fully. Goes all the way up to 96k. And there is a ton of it. Pay attention to the sideways consolidation, we have been doing this every weekend and then pumping to the upside. Everyone and their mom is shorting here. That means a very very very strong chance of upside. We’re going into the 80s at the very least. Do not short and get rekt. Dca/buy and hold
-
-9h ago
+2h ago
 
 ---
 
@@ -111,15 +103,23 @@ Ppl only looking at short term liquidity saying shorts have been liquidated. But
 
 Hello, so my bank/banks in my country in Europe do not allow bitcoin to be purchased using debit or credit cards. I did find a way to use bank transfer for platforms like Kraken, but they charge me a monthly fee just to have that feature, which is difficult for me since I am currently on a tight budget. I am wondering if there is any alternative way for me to buy bitcoin through another platform, such as Binance, and then transfer or trade it to my Kraken wallet safely and without high fees.
 
-6h ago
+8h ago
 
 ---
 
-**[Trading IBIT and BTC ETFs on IBKR (from Switzerland)](https://www.reddit.com/r/Bitcoin/comments/1svsvxa/trading_ibit_and_btc_etfs_on_ibkr_from_switzerland/)**
+**[Negative funding rates and ton of liquidity in the 80s](https://www.reddit.com/r/Bitcoin/comments/1svjy34/negative_funding_rates_and_ton_of_liquidity_in/)**
 
-Is anyone here able to trade iShares Bitcoin Trust ETF (IBIT) or other Bitcoin ETFs on Interactive Brokers from Switzerland? My goal is specifically to trade options on IBIT. Is anyone doing this as an IBKR client based in Switzerland? If yes, how did you get access? Is it even possible? I already have the full set of trading permissions enabled (crypto, options, etc.), but under Stock Options I don’t have access to US markets, and I can’t see IBIT at all. At this point I’m out of ideas what could be blocking access to these instruments.
+Ppl only looking at short term liquidity saying shorts have been liquidated. But have u paid attention to older liquidity? Coinglass 3 month chart barely shows it. U need smth like trading different to see it fully. Goes all the way up to 96k. And there is a ton of it. Pay attention to the sideways consolidation, we have been doing this every weekend and then pumping to the upside. Everyone and their mom is shorting here. That means a very very very strong chance of upside. We’re going into the 80s at the very least. Do not short and get rekt. Dca/buy and hold
 
-3h ago
+11h ago
+
+---
+
+**[Daily Discussion, April 26, 2026](https://www.reddit.com/r/Bitcoin/comments/1svzchm/daily_discussion_april_26_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+19m ago
 
 ---
 
@@ -127,7 +127,7 @@ Is anyone here able to trade iShares Bitcoin Trust ETF (IBIT) or other Bitcoin E
 
 Why does every finance app try to look like a Bloomberg Terminal? 90% of those charts are just noise. I’ve been working on a project that strips all that away. It’s a simple, high-precision tracker for crypto and stocks. Important note: To keep things secure and simple, there are no trading features. You don't buy or sell assets in the app—it's designed solely to give you a perfect, clean overview of your portfolio and the market. If you’re looking for a more zen way to keep an eye on the market, give it a try. Link: https://play.google.com/store/apps/details?id=cz.akcie.app
 
-6h ago
+9h ago
 
 ---
 
@@ -135,7 +135,7 @@ Why does every finance app try to look like a Bloomberg Terminal? 90% of those c
 
 I have private keys from years ago to wallets that I've abandoned. Even though I don't use them and never plan to, I have a fear that I'll accidentally fund an old wallet from something that I forgot about (old exchange, someone tipping me to an old address, who-knows-what). I was imagining some little self-hosted app on my node that checks new blocks against known archived wallets and lets me know if a transaction matches - or for larger amounts, sweeps the funds automatically. I don't have anything like this, so I have copies of private keys and (for more recent wallets) seed phrases backed up in various places. I'm sure that I should be more organized about it, but what's the best way? I could see it getting out of hand easily and taking ages to go through everything on the regular to check balances. I look forward to a discussion on the best way to handle this. What are your ideas/solutions?
 
-12h ago
+14h ago
 
 ---
 
@@ -149,7 +149,7 @@ I have private keys from years ago to wallets that I've abandoned. Even though I
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-22h ago
+1d ago
 
 ---
 
@@ -157,19 +157,41 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 ## Google News: "bitcoin"
 
-**[Bitcoin’s $40k bear case would be a historic outlier, data suggests](https://www.coindesk.com/markets/2026/04/25/bitcoin-at-usd40-000-would-be-near-unprecedented-statistical-outcome-analyst-says)**
+**[Why investors are flocking to BlackRock’s bitcoin options to hedge against a wild global economy](https://www.coindesk.com/markets/2026/04/25/blackrock-s-bitcoin-etf-just-hit-a-massive-milestone-that-proves-crypto-is-now-a-mainstream-bet)**
 
-Mean-reversion models suggest bearish targets imply a 0.4th percentile event, far beyond typical market corrections.
+IBIT options open interest topped Deribit on Friday, signaling rapid institutional adoption of regulated crypto derivatives in the U.S.
 
-CoinDesk • 12h ago
+CoinDesk • 11h ago
 
 ---
 
-**[Tennessee Becomes Second State to Outlaw Bitcoin, Crypto ATMs](https://decrypt.co/365502/tennessee-second-state-outlaw-bitcoin-crypto-atms)**
+**[Bitcoin ETF inflows draw in $1.9B as crypto asset hovers near $80K](https://finance.yahoo.com/video/bitcoin-etf-inflows-draw-in-19b-as-crypto-asset-hovers-near-80k-162949503.html)**
 
-Tennessee has become the second U.S. state to outlaw Bitcoin and crypto ATMs, making it a criminal offense to own or operate the machines.
+In today's episode of "The Daily Wolf" podcast, host Scott Melker discusses the inflows of $1.9 billion flooding into bitcoin ETFs (BTC-USD) over the past week, which comes as the crypto asset continues to hover near its 11-week high of $78,000 per token. "The Daily Wolf with Scott Melker" airs on Yahoo Finance every day at 12:00 p.m. Tune in for your daily dose of all things crypto. Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
 
-Decrypt • 1d ago
+Yahoo Finance • 1d ago
+
+---
+
+**['Rally on trial': Bitcoin breakout faces key $80,000 test as whales, ETF investors buy into volatility](https://www.theblock.co/post/398625/rally-trial-analysts-bitcoin-breakout-test-80000-whales-etf-investors-buy-volatility)**
+
+Analysts say bitcoin's rally still faces a stiff test from profit-taking, macro risk and a crowded resistance zone.
+
+The Block • 2d ago
+
+---
+
+**[Bitcoin Price Outshines Gold Again, Powered By Strategy](https://www.investors.com/news/bitcoin-price-outshines-gold-april-2026-strategy-buying-power-mstr-stock/)**
+
+Investor's Business Daily • 1d ago
+
+---
+
+**[Anthony Scaramucci Questions Bitcoin's Potential Worth As 'Global Requirement' For Cybersecurity](https://finance.yahoo.com/markets/crypto/articles/anthony-scaramucci-questions-bitcoins-potential-233116379.html)**
+
+SkyBridge Capital founder Anthony Scaramucci sparked a conversation on Thursday about Bitcoin’s potential worth if it becomes critical infrastructure for cybersecurity, specifically to counter AI-driven threats. Bitcoin’s Real Worth In an X post, Scaramucci highlighted gold’s $30 trillion valuation and...
+
+Yahoo Finance • 6h ago
 
 ---
 
@@ -185,7 +207,7 @@ The Block • 1d ago
 
 Can a network without formal governance coordinate the biggest cryptographic migration in its history?
 
-CoinDesk • 17h ago
+CoinDesk • 20h ago
 
 ---
 
@@ -197,37 +219,15 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Anthony Scaramucci Questions Bitcoin's Potential Worth As 'Global Requirement' For Cybersecurity](https://finance.yahoo.com/markets/crypto/articles/anthony-scaramucci-questions-bitcoins-potential-233116379.html)**
-
-SkyBridge Capital founder Anthony Scaramucci sparked a conversation on Thursday about Bitcoin’s potential worth if it becomes critical infrastructure for cybersecurity, specifically to counter AI-driven threats. Bitcoin’s Real Worth In an X post, Scaramucci highlighted gold’s $30 trillion valuation and...
-
-Yahoo Finance • 4h ago
-
----
-
 **[Bitcoin’s Stealth Rally Has Traders Setting Sights on $80,000](https://www.bloomberg.com/news/articles/2026-04-25/bitcoin-s-stealth-rally-has-traders-setting-sights-on-80-000)**
 
-Bloomberg.com • 15h ago
+Bloomberg.com • 17h ago
 
 ---
 
 **[Opinion | A Bitcoin Evangelist Tries to Convert Me](https://www.nytimes.com/2026/04/23/opinion/bitcoin-crypto-anthony-pompliano.html)**
 
 The New York Times • 2d ago
-
----
-
-**[It’s ‘Over’—After Devastating Price Crash, Saylor Declares The End Of Bitcoin And Crypto Winter](https://www.forbes.com/sites/digital-assets/2026/04/24/its-over-after-devastating-price-crash-saylor-declares-the-end-of-bitcoin-and-crypto-winter/)**
-
-The bitcoin price crash has wiped more than $1 trillion from the cryptocurrency's market cap...
-
-Forbes • 1d ago
-
----
-
-**[Bitcoin Price Outshines Gold Again, Powered By Strategy](https://www.investors.com/news/bitcoin-price-outshines-gold-april-2026-strategy-buying-power-mstr-stock/)**
-
-Investor's Business Daily • 1d ago
 
 ---
 
@@ -307,7 +307,7 @@ A senior US military commander has lauded Bitcoin as a “valuable computer scie
 
 The quantum threat to Bitcoin keeps inching closer, this time thanks to a researcher who broke a simplified cryptographic key.
 
-⬆️ 5 • 💬 1 • 14h ago • [Decrypt](https://decrypt.co/365444/bitcoin-q-day-draws-nearer-quantum-researcher-breaks-simplified-key)
+⬆️ 5 • 💬 1 • 17h ago • [Decrypt](https://decrypt.co/365444/bitcoin-q-day-draws-nearer-quantum-researcher-breaks-simplified-key)
 
 ---
 
@@ -321,7 +321,7 @@ Michael Saylor is buying at a pace that could trigger a historic Bitcoin supply 
 
 📺 Simply Bitcoin
 
-👁️ 6K • 👍 742 • 💬 52 • ⏱️ 20:53 • 5h ago
+👁️ 8K • 👍 919 • 💬 59 • ⏱️ 20:53 • 7h ago
 
 ---
 
@@ -331,7 +331,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRus Extra
 
-👁️ 5K • 👍 291 • 💬 118 • ⏱️ 8:10 • 13h ago
+👁️ 5K • 👍 301 • 💬 146 • ⏱️ 8:10 • 15h ago
 
 ---
 
@@ -341,7 +341,17 @@ THEY ARE PREDICTING - $500K BITCOIN, $40K ETHEREUM, AND $50 XRP BY THIS DATE! GE
 
 📺 Austin Hilton
 
-👁️ 8K • 👍 449 • 💬 68 • ⏱️ 9:47 • 11h ago
+👁️ 9K • 👍 461 • 💬 67 • ⏱️ 9:47 • 13h ago
+
+---
+
+**[Why Bitcoin WINS No Matter What Happens to Inflation](https://www.youtube.com/watch?v=OisxT95bkk8)**
+
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+
+📺 Anthony Pompliano
+
+👁️ 39K • 👍 2K • 💬 52 • ⏱️ 57:11 • 17h ago
 
 ---
 
@@ -351,7 +361,7 @@ Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=Al
 
 📺 Altcoin Daily
 
-👁️ 20K • 👍 1K • 💬 116 • ⏱️ 8:58 • 7h ago
+👁️ 24K • 👍 1K • 💬 118 • ⏱️ 8:58 • 10h ago
 
 ---
 
@@ -361,7 +371,7 @@ Gareth uses it! Download Rumble Wallet now and enjoy the benefits of financial a
 
 📺 Gareth Soloway
 
-👁️ 46K • 👍 3K • 💬 335 • ⏱️ 10:41 • 14h ago
+👁️ 48K • 👍 3K • 💬 341 • ⏱️ 10:41 • 16h ago
 
 ---
 
@@ -371,7 +381,7 @@ Mark Moss is an optimist and he makes a compelling case for why Bitcoin holders 
 
 📺 Bitcoin Magazine
 
-👁️ 11K • 👍 418 • 💬 30 • ⏱️ 59:02 • 1d ago
+👁️ 11K • 👍 429 • 💬 30 • ⏱️ 59:02 • 1d ago
 
 ---
 
@@ -385,33 +395,23 @@ Bitcoin is rallying out of a major drawdown while funding rates stay flat, short
 
 ---
 
+**[Kevin Warsh, AI, Rate Cuts, And The Bitcoin Explosion!](https://www.youtube.com/watch?v=SFXcGZPp1cE)**
+
+Kevin Warsh may be the next Fed Chair, and the real question is simple: when does he get permission to cut rates? In this video, I ...
+
+📺 Swan Bitcoin
+
+👁️ 2K • 👍 203 • 💬 4 • ⏱️ 11:16 • 3h ago
+
+---
+
 **[Bitcoin Dominance](https://www.youtube.com/watch?v=VdCMIWRHkTs)**
 
 Let's talk about Bitcoin dominance, altcoins, and monetary policy! Into The Cryptoverse Premium SALE: ...
 
 📺 Benjamin Cowen
 
-👁️ 58K • 👍 3K • 💬 279 • ⏱️ 37:14 • 1d ago
-
----
-
-**[Is Bitcoin About to Reclaim $80,000?](https://www.youtube.com/watch?v=VZVfb3DrCL4)**
-
-Crypto #Bitcoin #CryptoNews #Investing #YahooFinance #Blockchain Apr. 24, 2026 - Crypto is entering a new phase—and ...
-
-📺 Yahoo Finance
-
-👁️ 8K • 👍 352 • 💬 90 • ⏱️ 14:53 • 1d ago
-
----
-
-**[HE SHOULD HAVE KEPT THE BITCOIN](https://www.youtube.com/watch?v=W00FScSCVpg)**
-
-Despite the surge in gold prices, Cuban links have taken a hit This client was hoping to break even on his chain, but the market ...
-
-📺 G LUXE JEWELERS
-
-👁️ 29K • 👍 448 • 💬 32 • ⏱️ 1:52 • 2d ago
+👁️ 59K • 👍 3K • 💬 281 • ⏱️ 37:14 • 1d ago
 
 ---
 

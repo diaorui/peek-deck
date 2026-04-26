@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-26T04:02:31.109622+00:00'
+updated: '2026-04-26T06:24:15.326800+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- cryptocurrency
 - news
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 26, 2026 at 04:02 UTC  
+**Last Updated:** April 26, 2026 at 06:24 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,37 +42,45 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.3%  
-**7d:** -0.2%  
-**30d:** +15.7%  
-**90d:** -23.7%  
-**1y:** +28.7%  
+**24h:** +0.5%  
+**7d:** +0.7%  
+**30d:** +16.7%  
+**90d:** -23.0%  
+**1y:** +29.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $278.82B
+**Market Cap:** $281.07B
 Rank #2
 
 **Circulating Supply:** 120,688,830 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--53.3%
+-52.9%
 
 **All-Time Low:** $0.43
-+533459.4%
++537824.5%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion April 26, 2026](https://www.reddit.com/r/ethereum/comments/1svy52r/daily_general_discussion_april_26_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+1h ago
+
+---
+
 **[Etherscan officially recognized the 2016 Unicorn Meat token as an Ethereum Foundation contract, so I cracked and verified the Grinder source code](https://www.reddit.com/r/ethereum/comments/1svq7qu/etherscan_officially_recognized_the_2016_unicorn/)**
 
 I wanted to share something interesting that happened recently. Etherscan added an info note to the Unicorn Meat token page that reads: "This token was created by Avsa of the Ethereum Foundation. Read more about it in this post." The link goes to a tweet from the official @ethereum account from April 1, 2016 announcing "the Unicorn Meat Grinder Smart Contract and Bribable DAO" by @avsa. For those who don't know the backstory: Alex Van de Sande (avsa) was one of Ethereum's earliest core team members. He built the Mist Browser, the Ethereum Wallet, and co-created ENS. In early 2016 he deployed a set of contracts as part of the ethereum.org tutorials, including the Unicorns token and the Unicorn Meat Grinder, a DAO that let you convert Unicorns into Unicorn Meat through on-chain governance. The contracts were deployed from his same wallet that deployed the Foundation Tip Jar, which Alex made on behalf of the Foundation to raise money and donors received Unicorn tokens. So the provenance chain is: same deployer address, multiple Etherscan-labeled EF contracts, and now an official Etherscan note confirming the connection. What makes this historically interesting: The Meat Grinder was one of the first DAOs on Ethereum, predating The DAO by months. It used a proposal and voting system where token holders could vote on actions like grinding Unicorns into Meat. It introduced one of the first token upgrade patterns. The Unicorn-to-Meat conversion was essentially a token migration mechanism, something that became standard practice years later. The contracts were based on the ethereum.org tutorials that avsa wrote to teach developers how to build on Ethereum. These tutorials were how an entire generation of Solidity developers learned the language. We've been working on documenting and verifying the source code of these contracts on EthereumHistory, including cracking the bytecode of contracts that were never verified on Etherscan. We recently launched a Collections feature that groups all contracts by their deployer, starting with avsa's 60 contracts and Vitalik's 66 contracts. We also recently cracked and verified the Meat Grinder's source code on Etherscan. The source had been sitting in avsa's public GitHub gist for 10 years but was never formally verified on-chain. The challenge was figuring out the exact compiler settings: these contracts predate Solidity 0.4, so there's no metadata hash in the bytecode to help identify the version. We had to work through early solc releases until we found that solc 0.2.1 with default optimization produced an exact byte-for-byte match against the on-chain runtime bytecode. Once confirmed, we submitted it to both Sourcify and Etherscan, so anyone can now read the original Solidity source directly on Etherscan and verify it themselves. It's a small thing, but these early contracts are historical artifacts. Having their source verified on-chain means the code is permanently readable and auditable, not just sitting in a gist that could disappear. If anyone is interested in Ethereum's early contract history, the provenance page has the full chain of evidence laid out, and EthereumHistory is an open platform where anyone can help document contracts.
 
-5h ago
+7h ago
 
 ---
 
@@ -80,7 +88,7 @@ I wanted to share something interesting that happened recently. Etherscan added 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
@@ -88,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 been spending way too much time looking at the recent string of defi exploits and the amount of supply locked up in the same three lst platforms is honestly giving me anxiety. having that much of the network reliant on a few centralized points of failure makes me paranoid about massive tail risks. every time the market swings i find myself wanting to hedge this exposure, but the options are terrible. you either convert to fiat and trigger taxable events, or you play russian roulette with wrapped assets and multisig bridges that seem to get drained every other week. i went down a rabbit hole last night trying to find a way to secure my yields natively, maybe even hedging with digital gold or something stable, without fragmenting my liquidity across a dozen vulnerable front-ends. what are you guys actually doing to protect your bags long term? are we just stuck choosing between bare validator yields and accepting the centralized lst risk? curious if anyone has found a trust-minimized way to hedge this without leaving the ecosystem.
 
-14h ago
+16h ago
 
 ---
 
@@ -104,7 +112,7 @@ Aave DAO offers to contribute 25,000 ETH toward DeFi United, a coordinated ecosy
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -140,14 +148,6 @@ In the last few months MyEtherWallets been quietly rolling out updates to their 
 
 ---
 
-**[Daily General Discussion April 23, 2026](https://www.reddit.com/r/ethereum/comments/1st94mc/daily_general_discussion_april_23_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -172,7 +172,7 @@ CryptoPotato • 1d ago
 
 These two assets take very different approaches to generating value.
 
-The Motley Fool • 1h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -188,7 +188,7 @@ Yahoo Finance • 2d ago
 
 Kelp DAO exploit leaves AAVE with $196M bad debt, but Ethereum's market remains steady; ETH reaching $10K by December 31, 2026 at 4% YES.
 
-Crypto Briefing • 4h ago
+Crypto Briefing • 7h ago
 
 ---
 
@@ -222,7 +222,7 @@ FXStreet • 2d ago
 
 **[Ethereum Price Prediction Targets Record Highs as Bitmine Loads 4.98M ETH, But This Best Crypto to Buy Now Could 100x First](https://financefeeds.com/ethereum-price-prediction-targets-record-highs-as-bitmine-loads-4-98m-eth-but-this-best-crypto-to-buy-now-could-100x-first/)**
 
-FinanceFeeds • 2h ago
+FinanceFeeds • 4h ago
 
 ---
 
@@ -236,7 +236,7 @@ THEY ARE PREDICTING - $500K BITCOIN, $40K ETHEREUM, AND $50 XRP BY THIS DATE! GE
 
 📺 Austin Hilton
 
-👁️ 8K • 👍 449 • 💬 68 • ⏱️ 9:47 • 11h ago
+👁️ 9K • 👍 461 • 💬 67 • ⏱️ 9:47 • 13h ago
 
 ---
 
@@ -246,7 +246,7 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 3K • 👍 180 • 💬 123 • ⏱️ 13:36 • 13h ago
+👁️ 3K • 👍 181 • 💬 122 • ⏱️ 13:36 • 16h ago
 
 ---
 
@@ -256,7 +256,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 16K • 👍 457 • 💬 53 • ⏱️ 23:11 • 2d ago
+👁️ 16K • 👍 459 • 💬 53 • ⏱️ 23:11 • 2d ago
 
 ---
 
@@ -266,7 +266,17 @@ Crypto is getting weirdly quiet… but not for the reasons most people think. Re
 
 📺 Crypto Capital Venture
 
-👁️ 7K • 👍 541 • 💬 251 • ⏱️ 13:40 • 12h ago
+👁️ 8K • 👍 565 • 💬 254 • ⏱️ 13:40 • 14h ago
+
+---
+
+**[BITCOIN TRADERS ARE MAKING THE SAME MISTAKE!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=fDMBp4nJ_7E)**
+
+BITCOIN TRADERS ARE MAKING THE SAME MISTAKE!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
+
+📺 Crypto World
+
+👁️ 5K • 👍 288 • 💬 103 • ⏱️ 19:39 • 13h ago
 
 ---
 
@@ -280,23 +290,13 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 ---
 
-**[BITCOIN TRADERS ARE MAKING THE SAME MISTAKE!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=fDMBp4nJ_7E)**
-
-BITCOIN TRADERS ARE MAKING THE SAME MISTAKE!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
-
-📺 Crypto World
-
-👁️ 5K • 👍 263 • 💬 103 • ⏱️ 19:39 • 10h ago
-
----
-
 **[Ethereum Leading the Next Altcoin Repricing? Charts Say Yes](https://www.youtube.com/watch?v=CAWT4GcMcKE)**
 
 Most people are declaring altcoins dead, but the crypto charts tell a completely different story. In this video, I compare Ethereum's ...
 
 📺 Crypto Capital Venture
 
-👁️ 9K • 👍 552 • 💬 143 • ⏱️ 13:20 • 1d ago
+👁️ 9K • 👍 554 • 💬 139 • ⏱️ 13:20 • 1d ago
 
 ---
 
@@ -310,23 +310,23 @@ Most people are declaring altcoins dead, but the crypto charts tell a completely
 
 ---
 
-**[BE READY FOR THIS MOVE!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=L7uEUKqPQKM)**
+**[Bitcoin &amp; Ethereum. Wir warten auf die Entscheidung! Nochmal über 80k ?](https://www.youtube.com/watch?v=g5vpifjqkGc)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 250€ + ...
 
-📺 Cilinix Crypto
+📺 Krypto Trading & Investing
 
-👁️ 192 • 👍 9 • 💬 2 • ⏱️ 4:34 • 19h ago
+👁️ 561 • 👍 186 • 💬 8 • ⏱️ 9:32 • 1h ago
 
 ---
 
-**[Why This Ethereum Rally Might Be a Setup for Lower Prices](https://www.youtube.com/watch?v=08DMA31tS9k)**
+**[Ethereum: Bear Flag Or Breakout Setup?](https://www.youtube.com/watch?v=g-YXiUKwV2U)**
 
-Ethereum is consolidating just below a descending trend line that has been with us since the October 2025 high. The market is ...
+Ethereum is currently testing the descending trend line from the October 2025 high. The market is moving up in what looks like a ...
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 224 • 💬 21 • ⏱️ 10:43 • 1d ago
+👁️ 5K • 👍 280 • 💬 20 • ⏱️ 11:01 • 2d ago
 
 ---
 
