@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-26T20:39:47.922384+00:00'
+updated: '2026-04-26T21:38:57.209652+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 26, 2026 at 20:39 UTC  
+**Last Updated:** April 26, 2026 at 21:38 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Ascento Guard: A Two-Wheeled Jumping Security Robot Developed at ETH Zurich](https://www.reddit.com/r/robotics/comments/1swcjc1/ascento_guard_a_twowheeled_jumping_security_robot/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -42,25 +42,25 @@ Robotics research and industry news
 
 Robotics as a discipline is already hard enough, but what nobody ever talks about is that all these components need to be certified, not just separately but also as a whole. You need seasoned experts in each subdomain (software, electric, mechanic) that can produce components to the level that will pass OSHA, Regulation 2023/1230 etc etc. This usually requires outside labs for independent validation of safety standards, which can take years especially if humans have to get anywhere close to the device. Both companies I work for have been utterly unaware of this, and are now finding out that "4 months to market" are actually rather "1.5 years to market".
 
-3h ago
+4h ago
 
 ---
 
 **[Messing around with the holonomic (kiwi) drive](https://www.reddit.com/r/robotics/comments/1sw3y5d/messing_around_with_the_holonomic_kiwi_drive/)**
 
-10h ago
+11h ago
 
 ---
 
 **[I built a LeRobot dataset viewer with EE trajectory visualization](https://www.reddit.com/r/robotics/comments/1sw3oem/i_built_a_lerobot_dataset_viewer_with_ee/)**
 
-10h ago
+11h ago
 
 ---
 
 **[Testing Robot DF6 with Pi](https://www.reddit.com/r/robotics/comments/1sw7h3e/testing_robot_df6_with_pi/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -68,7 +68,7 @@ Robotics as a discipline is already hard enough, but what nobody ever talks abou
 
 i bet you haven't seen a SO101 mounted on a wall like this before if you want to do the same, here is LeSlider: https://github.com/pham-tuan-binh/leslider i built it cause i wanted something that can cover my whole desk for tasks like organizing and cleaning i originally wanted to have a belt system like what 3D printers have, but i was too lazy and used a pinion/track with another sts3215 so: > the extra motor shares the same bus as the rest of SO101 > you can have arbitrary length of track > really cheap and easy to assemble and control it turned out better than expected with this, i'm gonna train a model to pick random stuff up across my table and put it into a bin at the end of table (realistically using yolo to scan table, two policies, one for picking up objects, one for dropping)
 
-18h ago
+19h ago
 
 ---
 
@@ -76,7 +76,7 @@ i bet you haven't seen a SO101 mounted on a wall like this before if you want to
 
 I have implemented the whole stack of aerodynamics, flight mechanics and flight controller to simulate and train swarm UAVs in Isaac Lab. Check the repo.
 
-10h ago
+11h ago
 
 ---
 
@@ -84,7 +84,7 @@ I have implemented the whole stack of aerodynamics, flight mechanics and flight 
 
 I designed the robot using fusion 360 in programmed it with python. I designed android one as a research platform so when I wanted to test out an idea that needed a humanoid robot it was something I could do, this weekend I was bored so I programmed it to play air hockey it’s a little bad because my robot is pretty cheap but once I get enough funding, I’m gonna make a android 4 which is basically gonna be a remastered version of this one, but with more freedom of motion.
 
-16h ago
+17h ago
 
 ---
 
@@ -92,7 +92,7 @@ I designed the robot using fusion 360 in programmed it with python. I designed a
 
 Me and a group of people have been evaluating the need for a robot rental platform, mainly starting off in the UK. We have a survey evaluating whether or not this idea is even worth working on so if you're interested in something like this, even if you're not based in the UK, your answers will be most useful.
 
-🔗 [Google Docs](https://docs.google.com/forms/d/e/1FAIpQLSeE3dMuIQSPMduMnwSLAJu2yWQyyqG1GtJXIpZhjG7-r7P-qw/viewform?pli=1) • 3h ago
+🔗 [Google Docs](https://docs.google.com/forms/d/e/1FAIpQLSeE3dMuIQSPMduMnwSLAJu2yWQyyqG1GtJXIpZhjG7-r7P-qw/viewform?pli=1) • 4h ago
 
 ---
 
@@ -100,7 +100,7 @@ Me and a group of people have been evaluating the need for a robot rental platfo
 
 Hii i'm new to robotics and while im working with the KUKA KR6 R700-2/SEL robot i mistakenly broke the gripper of that robot. I hav tried all the possible way to make and buy that gripper and i would not be able to find one. I need you guys to suggest me a gripper with link if possible XD or any one who worked wth tht robot and can help me contact me.
 
-7h ago
+8h ago
 
 ---
 
@@ -128,7 +128,7 @@ Business Insider • 1d ago
 
 Software lets robots learn from each other even if they have different hardware.
 
-Ars Technica • 9h ago
+Ars Technica • 10h ago
 
 ---
 
@@ -144,7 +144,7 @@ NPR • 2d ago
 
 From a humanoid robot half-marathon in Beijing to the global spotlight of the Beijing Auto Show and the debut of DeepSeek-V4, Chinese technological milestones have dominated international headlines over the past week.
 
-Global Times • 4h ago
+Global Times • 5h ago
 
 ---
 
@@ -160,13 +160,13 @@ Interesting Engineering • 2d ago
 
 Photon-driven nanorobots can steer, capture, and move bacteria with precision, enabling controlled manipulation in microscopic environments and offering new tools for microbiology.
 
-SciTechDaily • 9h ago
+SciTechDaily • 10h ago
 
 ---
 
 **[Master's graduate and robotics champion: Cole Allen, suspect in Trump event shooting](https://nation.africa/kenya/news/world/cole-allen-suspect-in-the-trump-dinner-shooting-5436560)**
 
-Daily Nation • 13h ago
+Daily Nation • 14h ago
 
 ---
 
@@ -182,7 +182,7 @@ CBS News • 1d ago
 
 FIRST Robotics Team 48, Team ELITE, made up of students from Warren G. Harding High School, will be competing alongside 499 other teams from around the globe at the FIRST Championship in Houston, Texa...
 
-Yahoo • 7h ago
+Yahoo • 8h ago
 
 ---
 
@@ -196,7 +196,7 @@ Elon Musk is once again in the spotlight as an upgraded version of the Optimus r
 
 📺 Carros Show
 
-👁️ 3K • 👍 74 • 💬 25 • ⏱️ 51:48 • 19h ago
+👁️ 3K • 👍 74 • 💬 25 • ⏱️ 51:48 • 20h ago
 
 ---
 
@@ -206,7 +206,7 @@ Flash, a humanoid robot made by Chinese smartphone company Honor, just smashed t
 
 📺 CNET
 
-👁️ 4K • 👍 156 • 💬 25 • ⏱️ 4:53 • 8h ago
+👁️ 4K • 👍 156 • 💬 25 • ⏱️ 4:53 • 9h ago
 
 ---
 
@@ -226,7 +226,7 @@ Low Goal Blocker & Updates | 16610A Snacky Cakes | Robot Rundown World Finalists
 
 📺 FUN Robotics Network
 
-👁️ 2K • 👍 84 • 💬 4 • ⏱️ 1:21 • 3h ago
+👁️ 2K • 👍 84 • 💬 4 • ⏱️ 1:21 • 4h ago
 
 ---
 

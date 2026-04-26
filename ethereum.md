@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-26T20:39:47.919246+00:00'
+updated: '2026-04-26T21:38:57.206839+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
-- cryptocurrency
 - social
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 26, 2026 at 20:39 UTC  
+**Last Updated:** April 26, 2026 at 21:38 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Working in blockchain consulting, I’ve noticed many Ethereum-based projects still underestimate how scaling decisions impact long-term costs. Clients assume L2s will fully solve gas issues, but data availability, bridging complexity, and liquidity fragmentation often get overlooked. When designing systems, it becomes tricky balancing user experience with decentralization trade-offs, especially for financial applications. Even small architectural decisions can significantly affect transaction costs and protocol adoption later. Has anyone here built a reliable framework for evaluating Ethereum scaling strategies across different use cases?
 
-3h ago
+4h ago
 
 ---
 
@@ -88,7 +88,7 @@ Working in blockchain consulting, I’ve noticed many Ethereum-based projects st
 
 I wanted to share something interesting that happened recently. Etherscan added an info note to the Unicorn Meat token page that reads: "This token was created by Avsa of the Ethereum Foundation. Read more about it in this post." The link goes to a tweet from the official @ethereum account from April 1, 2016 announcing "the Unicorn Meat Grinder Smart Contract and Bribable DAO" by @avsa. For those who don't know the backstory: Alex Van de Sande (avsa) was one of Ethereum's earliest core team members. He built the Mist Browser, the Ethereum Wallet, and co-created ENS. In early 2016 he deployed a set of contracts as part of the ethereum.org tutorials, including the Unicorns token and the Unicorn Meat Grinder, a DAO that let you convert Unicorns into Unicorn Meat through on-chain governance. The contracts were deployed from his same wallet that deployed the Foundation Tip Jar, which Alex made on behalf of the Foundation to raise money and donors received Unicorn tokens. So the provenance chain is: same deployer address, multiple Etherscan-labeled EF contracts, and now an official Etherscan note confirming the connection. What makes this historically interesting: The Meat Grinder was one of the first DAOs on Ethereum, predating The DAO by months. It used a proposal and voting system where token holders could vote on actions like grinding Unicorns into Meat. It introduced one of the first token upgrade patterns. The Unicorn-to-Meat conversion was essentially a token migration mechanism, something that became standard practice years later. The contracts were based on the ethereum.org tutorials that avsa wrote to teach developers how to build on Ethereum. These tutorials were how an entire generation of Solidity developers learned the language. We've been working on documenting and verifying the source code of these contracts on EthereumHistory, including cracking the bytecode of contracts that were never verified on Etherscan. We recently launched a Collections feature that groups all contracts by their deployer, starting with avsa's 60 contracts and Vitalik's 66 contracts. We also recently cracked and verified the Meat Grinder's source code on Etherscan. The source had been sitting in avsa's public GitHub gist for 10 years but was never formally verified on-chain. The challenge was figuring out the exact compiler settings: these contracts predate Solidity 0.4, so there's no metadata hash in the bytecode to help identify the version. We had to work through early solc releases until we found that solc 0.2.1 with default optimization produced an exact byte-for-byte match against the on-chain runtime bytecode. Once confirmed, we submitted it to both Sourcify and Etherscan, so anyone can now read the original Solidity source directly on Etherscan and verify it themselves. It's a small thing, but these early contracts are historical artifacts. Having their source verified on-chain means the code is permanently readable and auditable, not just sitting in a gist that could disappear. If anyone is interested in Ethereum's early contract history, the provenance page has the full chain of evidence laid out, and EthereumHistory is an open platform where anyone can help document contracts.
 
-21h ago
+22h ago
 
 ---
 
@@ -96,7 +96,7 @@ I wanted to share something interesting that happened recently. Etherscan added 
 
 Hey everyone - I built AliBitress because we wanted an easier way to actually spend crypto on everyday products instead of constantly converting to fiat first. The idea is simple: use your crypto directly for online shopping. Current platform supports: - 360+ cryptocurrencies - Millions of products - Shipping to 200+ countries Still improving things every week, and I’d genuinely like feedback from people who would use something like this. Questions for the community: - What would make a crypto shopping platform actually useful to you? - Which coins/networks should we add next? - What would stop you from using a service like this? If anyone wants to check it out / roast it / suggest improvements: alibitress.com Appreciate any feedback. Supported currencies: https://www.alibitress.com/currencies#popular
 
-12h ago
+13h ago
 
 ---
 
@@ -164,7 +164,7 @@ The Motley Fool • 3d ago
 
 These two assets take very different approaches to generating value.
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -180,7 +180,7 @@ The Block • 2d ago
 
 Ethereum (ETH) price climbed 1% to $2,336.25, outpacing a broadly flat market, driven by a technical breakout and steady institutional flows follo
 
-MarketForces Africa • 7h ago
+MarketForces Africa • 8h ago
 
 ---
 
@@ -188,7 +188,7 @@ MarketForces Africa • 7h ago
 
 “Shark Tank” judge and business magnate Kevin O'Leary says he only recommends owning Bitcoin and Ethereum. Here's why.
 
-CryptoPotato • 15h ago
+CryptoPotato • 16h ago
 
 ---
 
@@ -196,13 +196,13 @@ CryptoPotato • 15h ago
 
 Dubai, UAE, April  26, 2026  (GLOBE NEWSWIRE) -- Pepeto confirmed this week that final test on the Exchange are done, to support the big volume it...
 
-markets.businessinsider.com • 6h ago
+markets.businessinsider.com • 7h ago
 
 ---
 
 **[Bitcoin leads ETF flows, but Ethereum builds institutional base for Q2 showdown](https://ambcrypto.com/?p=592857)**
 
-AMBCrypto • 3h ago
+AMBCrypto • 4h ago
 
 ---
 
@@ -210,7 +210,7 @@ AMBCrypto • 3h ago
 
 The Ethereum Foundation unstaked $48.9 million in ETH, raising sell-off concerns; Ethereum reaching $10,000 by December 31, 2026 at 4% YES.
 
-Crypto Briefing • 8h ago
+Crypto Briefing • 9h ago
 
 ---
 
@@ -218,7 +218,7 @@ Crypto Briefing • 8h ago
 
 The Ethereum Foundation has moved to unwind part of its staking position shortly after nearing its stated goal of 70,000 staked ETH.On Saturday, the Ethereum Foundation unstaked 17,035.326 ETH, worth roughly $40 million, according to Arkham data. The move involved depositing wrapped staked ETH (wst…
 
-TradingView • 8h ago
+TradingView • 9h ago
 
 ---
 
@@ -238,7 +238,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 1K • 👍 120 • ⏱️ 18:46 • 4h ago
+👁️ 1K • 👍 120 • ⏱️ 18:46 • 5h ago
 
 ---
 
@@ -248,7 +248,7 @@ The Crypto Market Is About To Flip... ⭐ Follow Altcoin Daily on X: https://twi
 
 📺 Altcoin Daily
 
-👁️ 5K • 👍 558 • 💬 72 • ⏱️ 9:47 • 2h ago
+👁️ 5K • 👍 558 • 💬 72 • ⏱️ 9:47 • 3h ago
 
 ---
 
@@ -258,7 +258,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 2K • 👍 215 • 5h ago
+👁️ 2K • 👍 215 • 6h ago
 
 ---
 
@@ -278,7 +278,7 @@ Ripple XRP News today as the SEC has reportedly classified XRP as a digital comm
 
 📺 The Bull Winkle Blue Print
 
-👁️ 154 • 👍 32 • 💬 2 • ⏱️ 13:37 • 1h ago
+👁️ 154 • 👍 32 • 💬 2 • ⏱️ 13:37 • 2h ago
 
 ---
 
@@ -288,7 +288,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 832 • 👍 125 • 💬 10 • ⏱️ 18:14 • 5h ago
+👁️ 832 • 👍 125 • 💬 10 • ⏱️ 18:14 • 6h ago
 
 ---
 
@@ -308,7 +308,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 343 • 👍 18 • 💬 1 • ⏱️ 4:49 • 11h ago
+👁️ 343 • 👍 18 • 💬 1 • ⏱️ 4:49 • 12h ago
 
 ---
 

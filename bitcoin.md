@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-26T20:39:47.913302+00:00'
+updated: '2026-04-26T21:38:57.201648+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
-- cryptocurrency
 - social
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 26, 2026 at 20:39 UTC  
+**Last Updated:** April 26, 2026 at 21:38 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[HAL FINNEY: “I was likely the first person after Satoshi to run Bitcoin. I mined block seventy-something and received the first BTC transfer when Satoshi sent me 10 coins as a test. We emailed for days after that, mostly me reporting bugs and him fixing them in real time, almost instantly.”](https://www.reddit.com/r/Bitcoin/comments/1swexh5/hal_finney_i_was_likely_the_first_person_after/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Calm down everyone, please. Take a seat. With tears in my eyes I’m honored to announce my achievement. It took a lot of time that I will never get back but bitcoin has given me hope to keep going.
 
-1h ago
+2h ago
 
 ---
 
@@ -95,7 +95,7 @@ Calm down everyone, please. Take a seat. With tears in my eyes I’m honored to 
 
 In this sub, absolute cinema
 
-9h ago
+10h ago
 
 ---
 
@@ -103,13 +103,13 @@ In this sub, absolute cinema
 
 On of my favorite voices in the space. Gives foundational level of the history of money and challenges then ties it into the Bitcoin thesis.
 
-🔗 [open.substack.com](https://open.substack.com/pub/cws/p/how-to-fix-our-money?utm_campaign=post&utm_medium=web) • 4h ago
+🔗 [open.substack.com](https://open.substack.com/pub/cws/p/how-to-fix-our-money?utm_campaign=post&utm_medium=web) • 5h ago
 
 ---
 
 **[Sometimes I wonder...](https://www.reddit.com/r/Bitcoin/comments/1svo1db/sometimes_i_wonder/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -117,7 +117,7 @@ On of my favorite voices in the space. Gives foundational level of the history o
 
 In 2023 I started investing in Bitcoin but it was at an all time high at 29k and sold, now I regret it and started buying again.
 
-16h ago
+17h ago
 
 ---
 
@@ -125,7 +125,7 @@ In 2023 I started investing in Bitcoin but it was at an all time high at 29k and
 
 Curious what everyone’s mix is. (Not a Fed)
 
-7h ago
+8h ago
 
 ---
 
@@ -133,7 +133,7 @@ Curious what everyone’s mix is. (Not a Fed)
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-14h ago
+15h ago
 
 ---
 
@@ -149,7 +149,7 @@ The US Treasury froze $344 million in USDT linked to Iran with a single call to 
 
 Came across this post on substack talking about Jordi Visser claiming that Bitcoin is going to be the clear winner against higher inflation and AI disruption. The full podcast is too long to watch but what do you all think? My take is that Bitcoin’s latest disconnect from high beta software stocks is a good indicator. But not sure if its proven to be a bet against the inflation.
 
-🔗 [open.substack.com](https://open.substack.com/pub/podcastalpha/p/jordi-visser-on-pompliano-bitcoin) • 55m ago
+🔗 [open.substack.com](https://open.substack.com/pub/podcastalpha/p/jordi-visser-on-pompliano-bitcoin) • 1h ago
 
 ---
 
@@ -161,7 +161,7 @@ Came across this post on substack talking about Jordi Visser claiming that Bitco
 
 Some bitcoin advocates argue freezing dormant coins would set a dangerous precedent, while others say failing to act could pose greater risks.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -177,7 +177,7 @@ The Block • 2d ago
 
 Giancarlo Lelli performed the largest known quantum attack on Bitcoin’s encryption model. His feat is a 512-fold jump from the previous record. Bitcoin enthusiasts are scrambling for ideas to deal with the quantum computing threat.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -185,7 +185,7 @@ Yahoo Finance • 1d ago
 
 Strategy's Bitcoin treasury hit a record $63.46 billion as Saylor's firm now holds 815,061 BTC at $75,528 average.
 
-Yahoo Finance • 33m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -197,7 +197,7 @@ Bloomberg • 1d ago
 
 **[Bitcoin holds steady as institutional derivatives reach new milestone](https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-steady-as-institutional-derivatives-reach-new-milestone-4637419)**
 
-Investing.com • 17h ago
+Investing.com • 18h ago
 
 ---
 
@@ -205,7 +205,7 @@ Investing.com • 17h ago
 
 Top US Navy Admiral calls bitcoin a tool of "power projection" as the US, China, Iran, and Russia are all leveraging bitcoin to advance their own strategic interests.
 
-Forbes • 9h ago
+Forbes • 10h ago
 
 ---
 
@@ -227,7 +227,7 @@ The New York Times • 3d ago
 
 If history is any guide, Bitcoin is capable of doubling in value on a regular basis.
 
-The Motley Fool • 3h ago
+The Motley Fool • 4h ago
 
 ---
 
@@ -323,7 +323,7 @@ Michael Saylor is buying at a pace that could trigger a historic Bitcoin supply 
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 130 • ⏱️ 20:53 • 21h ago
+👁️ 16K • 👍 1K • 💬 130 • ⏱️ 20:53 • 22h ago
 
 ---
 
@@ -333,7 +333,7 @@ Kevin Warsh may be the next Fed Chair, and the real question is simple: when doe
 
 📺 Swan Bitcoin
 
-👁️ 10K • 👍 547 • 💬 18 • ⏱️ 11:16 • 17h ago
+👁️ 10K • 👍 547 • 💬 18 • ⏱️ 11:16 • 18h ago
 
 ---
 
@@ -353,7 +353,7 @@ Crypto was not here during the bull market of the 90's that lasted years. Crypto
 
 📺 Crypto Capital Venture
 
-👁️ 3K • 👍 362 • 💬 136 • ⏱️ 16:57 • 4h ago
+👁️ 3K • 👍 362 • 💬 136 • ⏱️ 16:57 • 5h ago
 
 ---
 
@@ -373,7 +373,7 @@ In this video, we take a look at how Heikin-Ashi candles can help remove some of
 
 📺 Benjamin Cowen
 
-👁️ 51K • 👍 4K • 💬 218 • ⏱️ 23:18 • 16h ago
+👁️ 51K • 👍 4K • 💬 218 • ⏱️ 23:18 • 17h ago
 
 ---
 
@@ -403,7 +403,7 @@ Bitcoin is sending mixed signals… and the crypto market is at a crossroads. On
 
 📺 Crypto Love
 
-👁️ 893 • 👍 131 • 💬 95 • ⏱️ 11:37 • 3h ago
+👁️ 893 • 👍 131 • 💬 95 • ⏱️ 11:37 • 4h ago
 
 ---
 
