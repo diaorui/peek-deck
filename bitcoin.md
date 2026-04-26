@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-25T23:05:36.085430+00:00'
+updated: '2026-04-26T00:03:14.406849+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
-- social
 - videos
+- social
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 25, 2026 at 23:05 UTC  
+**Last Updated:** April 26, 2026 at 00:03 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1551.82B
+**Market Cap:** $1553.99B
 Rank #1
 
-**Circulating Supply:** 20,020,718 BTC
+**Circulating Supply:** 20,020,753 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--38.5%
+-38.4%
 
 **All-Time Low:** $67.81
-+114225.3%
++114346.2%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 The US Treasury froze $344 million in USDT linked to Iran with a single call to Tether. Bitcoin kept processing every Iranian transaction without interruption. That is the whole story.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/us-froze-tether-iran-bitcoin-untouchable/) • 10h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/us-froze-tether-iran-bitcoin-untouchable/) • 11h ago
 
 ---
 
 **[Sometimes I wonder...](https://www.reddit.com/r/Bitcoin/comments/1svo1db/sometimes_i_wonder/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -95,7 +95,7 @@ The US Treasury froze $344 million in USDT linked to Iran with a single call to 
 
 Ppl only looking at short term liquidity saying shorts have been liquidated. But have u paid attention to older liquidity? Coinglass 3 month chart barely shows it. U need smth like trading different to see it fully. Goes all the way up to 96k. And there is a ton of it. Pay attention to the sideways consolidation, we have been doing this every weekend and then pumping to the upside. Everyone and their mom is shorting here. That means a very very very strong chance of upside. We’re going into the 80s at the very least. Do not short and get rekt. Dca/buy and hold
 
-4h ago
+5h ago
 
 ---
 
@@ -103,7 +103,7 @@ Ppl only looking at short term liquidity saying shorts have been liquidated. But
 
 Hello, so my bank/banks in my country in Europe do not allow bitcoin to be purchased using debit or credit cards. I did find a way to use bank transfer for platforms like Kraken, but they charge me a monthly fee just to have that feature, which is difficult for me since I am currently on a tight budget. I am wondering if there is any alternative way for me to buy bitcoin through another platform, such as Binance, and then transfer or trade it to my Kraken wallet safely and without high fees.
 
-1h ago
+2h ago
 
 ---
 
@@ -111,7 +111,7 @@ Hello, so my bank/banks in my country in Europe do not allow bitcoin to be purch
 
 Why does every finance app try to look like a Bloomberg Terminal? 90% of those charts are just noise. I’ve been working on a project that strips all that away. It’s a simple, high-precision tracker for crypto and stocks. Important note: To keep things secure and simple, there are no trading features. You don't buy or sell assets in the app—it's designed solely to give you a perfect, clean overview of your portfolio and the market. If you’re looking for a more zen way to keep an eye on the market, give it a try. Link: https://play.google.com/store/apps/details?id=cz.akcie.app
 
-2h ago
+3h ago
 
 ---
 
@@ -119,7 +119,7 @@ Why does every finance app try to look like a Bloomberg Terminal? 90% of those c
 
 I have private keys from years ago to wallets that I've abandoned. Even though I don't use them and never plan to, I have a fear that I'll accidentally fund an old wallet from something that I forgot about (old exchange, someone tipping me to an old address, who-knows-what). I was imagining some little self-hosted app on my node that checks new blocks against known archived wallets and lets me know if a transaction matches - or for larger amounts, sweeps the funds automatically. I don't have anything like this, so I have copies of private keys and (for more recent wallets) seed phrases backed up in various places. I'm sure that I should be more organized about it, but what's the best way? I could see it getting out of hand easily and taking ages to go through everything on the regular to check balances. I look forward to a discussion on the best way to handle this. What are your ideas/solutions?
 
-7h ago
+8h ago
 
 ---
 
@@ -133,7 +133,7 @@ I have private keys from years ago to wallets that I've abandoned. Even though I
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-17h ago
+18h ago
 
 ---
 
@@ -141,7 +141,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 If any of you folks are coming to Vegas for Bitcoin 2026, I've compiled a list (and map) of meetups and side events. These tend to be much more fun and enjoyable than the actual Conference. If you're on mobile, you'll likely need the Google Docs app for working links. I'm hitting Hotstyle Takeover, the Bitcoin Today meetup, the Club Orange meetup, NosVegas, and then hosting Steak 'N Shake 'N Sats and the Vegas Bitcoiners Happy Hour on Wednesday.
 
-🔗 [Google Docs](https://docs.google.com/document/d/1RqlQl4vdKZtReFQpIh0h820Q10khCc6gI56xKW4N1-M) • 17h ago
+🔗 [Google Docs](https://docs.google.com/document/d/1RqlQl4vdKZtReFQpIh0h820Q10khCc6gI56xKW4N1-M) • 18h ago
 
 ---
 
@@ -149,7 +149,7 @@ If any of you folks are coming to Vegas for Bitcoin 2026, I've compiled a list (
 
 I have tremendous trusts on wallets because its math foundation. But today, something happened and I am a little in doubt. Today, when i try to restore my wallet using seed phrase, I accidentally made a mistake, but I ended up restoring another wallet that is not mine. Even though there is no any coin in it, it casts a doubt on wallet’s safety. What if someone who created the wallet has put coins in it? What are the chances that someone else accidentally restore mine? Just genuinely questions from a long time hodler. I hope I get answers that resolve me concerns
 
-23h ago
+1d ago
 
 ---
 
@@ -161,7 +161,7 @@ I have tremendous trusts on wallets because its math foundation. But today, some
 
 Mean-reversion models suggest bearish targets imply a 0.4th percentile event, far beyond typical market corrections.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -177,7 +177,7 @@ Decrypt • 1d ago
 
 U.S. spot Bitcoin ETFs logged eight straight days of inflows totaling $2.1 billion through April 23—the longest streak since the nine-day October 2025 run that took Bitcoin to its $126,000 all-time high. The ETF Momentum Is Back Bloomberg ETF analyst...
 
-Yahoo Finance • 34m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -193,7 +193,7 @@ The Block • 1d ago
 
 Can a network without formal governance coordinate the biggest cryptographic migration in its history?
 
-CoinDesk • 13h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -213,7 +213,7 @@ The New York Times • 2d ago
 
 **[Bitcoin’s Stealth Rally Has Traders Setting Sights on $80,000](https://www.bloomberg.com/news/articles/2026-04-25/bitcoin-s-stealth-rally-has-traders-setting-sights-on-80-000)**
 
-Bloomberg.com • 10h ago
+Bloomberg.com • 11h ago
 
 ---
 
@@ -299,7 +299,7 @@ Part one explained the physics of quantum computing. This piece explains the tar
 
 A senior US military commander has lauded Bitcoin as a “valuable computer science tool,” arguing its usefulness extends beyond monetary applications and can support US national security interests.“It is a valuable computer science tool, as a power projection,” Admiral Samuel Paparo said at a Senate…
 
-⬆️ 1 • 💬 0 • 2d ago • [TradingView](https://www.tradingview.com/news/cointelegraph:fd4c50ad7094b:0-us-admiral-calls-bitcoin-an-instrument-for-us-power-projection/)
+⬆️ 1 • 💬 0 • 3d ago • [TradingView](https://www.tradingview.com/news/cointelegraph:fd4c50ad7094b:0-us-admiral-calls-bitcoin-an-instrument-for-us-power-projection/)
 
 ---
 
@@ -307,7 +307,7 @@ A senior US military commander has lauded Bitcoin as a “valuable computer scie
 
 The quantum threat to Bitcoin keeps inching closer, this time thanks to a researcher who broke a simplified cryptographic key.
 
-⬆️ 5 • 💬 1 • 9h ago • [Decrypt](https://decrypt.co/365444/bitcoin-q-day-draws-nearer-quantum-researcher-breaks-simplified-key)
+⬆️ 5 • 💬 1 • 10h ago • [Decrypt](https://decrypt.co/365444/bitcoin-q-day-draws-nearer-quantum-researcher-breaks-simplified-key)
 
 ---
 
@@ -321,7 +321,7 @@ Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clas
 
 📺 CryptosRus Extra
 
-👁️ 3K • 👍 245 • 💬 106 • ⏱️ 8:10 • 8h ago
+👁️ 4K • 👍 266 • 💬 117 • ⏱️ 8:10 • 9h ago
 
 ---
 
@@ -331,27 +331,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 25K • 👍 2K • 💬 52 • ⏱️ 57:11 • 10h ago
-
----
-
-**[THEY ARE PREDICTING - $500K BITCOIN, $40K ETHEREUM, AND $50 XRP BY THIS DATE!](https://www.youtube.com/watch?v=DzdxhLkBDOo)**
-
-THEY ARE PREDICTING - $500K BITCOIN, $40K ETHEREUM, AND $50 XRP BY THIS DATE! GET AUSTIN'S X1 ALGO ...
-
-📺 Austin Hilton
-
-👁️ 4K • 👍 324 • 💬 25 • ⏱️ 9:47 • 6h ago
-
----
-
-**[Mark Moss: The 50-Year Cycle Pointing to Bitcoin&#39;s Biggest Bull Run | BM Podcast Ep 8](https://www.youtube.com/watch?v=Cw7Wnw0GyOM)**
-
-Mark Moss is an optimist and he makes a compelling case for why Bitcoin holders should be too. In this Bitcoin Magazine Podcast ...
-
-📺 Bitcoin Magazine
-
-👁️ 10K • 👍 402 • 💬 29 • ⏱️ 59:02 • 1d ago
+👁️ 31K • 👍 2K • 💬 52 • ⏱️ 57:11 • 11h ago
 
 ---
 
@@ -361,47 +341,47 @@ Gareth uses it! Download Rumble Wallet now and enjoy the benefits of financial a
 
 📺 Gareth Soloway
 
-👁️ 33K • 👍 3K • 💬 301 • ⏱️ 10:41 • 9h ago
+👁️ 39K • 👍 3K • 💬 328 • ⏱️ 10:41 • 10h ago
 
 ---
 
-**[Bitcoin Dominance](https://www.youtube.com/watch?v=VdCMIWRHkTs)**
+**[Mark Moss: The 50-Year Cycle Pointing to Bitcoin&#39;s Biggest Bull Run | BM Podcast Ep 8](https://www.youtube.com/watch?v=Cw7Wnw0GyOM)**
 
-Let's talk about Bitcoin dominance, altcoins, and monetary policy! Into The Cryptoverse Premium SALE: ...
+Mark Moss is an optimist and he makes a compelling case for why Bitcoin holders should be too. In this Bitcoin Magazine Podcast ...
 
-📺 Benjamin Cowen
+📺 Bitcoin Magazine
 
-👁️ 53K • 👍 3K • 💬 272 • ⏱️ 37:14 • 1d ago
-
----
-
-**[Is Bitcoin About to Reclaim $80,000?](https://www.youtube.com/watch?v=VZVfb3DrCL4)**
-
-Crypto #Bitcoin #CryptoNews #Investing #YahooFinance #Blockchain Apr. 24, 2026 - Crypto is entering a new phase—and ...
-
-📺 Yahoo Finance
-
-👁️ 7K • 👍 337 • 💬 75 • ⏱️ 14:53 • 1d ago
+👁️ 11K • 👍 410 • 💬 30 • ⏱️ 59:02 • 1d ago
 
 ---
 
-**[HE SHOULD HAVE KEPT THE BITCOIN](https://www.youtube.com/watch?v=W00FScSCVpg)**
+**[THEY ARE PREDICTING - $500K BITCOIN, $40K ETHEREUM, AND $50 XRP BY THIS DATE!](https://www.youtube.com/watch?v=DzdxhLkBDOo)**
 
-Despite the surge in gold prices, Cuban links have taken a hit This client was hoping to break even on his chain, but the market ...
+THEY ARE PREDICTING - $500K BITCOIN, $40K ETHEREUM, AND $50 XRP BY THIS DATE! GET AUSTIN'S X1 ALGO ...
 
-📺 G LUXE JEWELERS
+📺 Austin Hilton
 
-👁️ 28K • 👍 435 • 💬 32 • ⏱️ 1:52 • 2d ago
+👁️ 6K • 👍 384 • 💬 31 • ⏱️ 9:47 • 7h ago
 
 ---
 
-**[The U.S. Military Is Using Bitcoin… To Protect The Dollar?](https://www.youtube.com/watch?v=ZEFiL5kHASQ)**
+**[A Generational Crypto Buying Opportunity Has Begun](https://www.youtube.com/watch?v=h4p4pKrFbWs)**
 
-Bitcoin is no longer just a speculative asset. Top US military leaders are now framing it as a tool of national power and digital ...
+Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=AltcoinDaily Grab Tickets to BTC Conference ...
 
-📺 Simply Bitcoin
+📺 Altcoin Daily
 
-👁️ 18K • 👍 1K • 💬 80 • ⏱️ 14:54 • 1d ago
+👁️ 11K • 👍 849 • 💬 113 • ⏱️ 8:58 • 3h ago
+
+---
+
+**[this video will only appear to bitcoin&#39;s top 1%](https://www.youtube.com/watch?v=F9QM07yVQP0)**
+
+being in bitcoin's top 1% is underrated, and you're likely already there. Borrow dollars, keep your bitcoin. Check out LEDN ...
+
+📺 BTC Isla
+
+👁️ 15K • 👍 1K • 💬 188 • ⏱️ 9:00 • 1d ago
 
 ---
 
@@ -411,7 +391,27 @@ Bitcoin is rallying out of a major drawdown while funding rates stay flat, short
 
 📺 Simply Bitcoin
 
-👁️ 52K • 👍 3K • 💬 200 • ⏱️ 20:08 • 2d ago
+👁️ 53K • 👍 3K • 💬 202 • ⏱️ 20:08 • 2d ago
+
+---
+
+**[Is Bitcoin About to Reclaim $80,000?](https://www.youtube.com/watch?v=VZVfb3DrCL4)**
+
+Crypto #Bitcoin #CryptoNews #Investing #YahooFinance #Blockchain Apr. 24, 2026 - Crypto is entering a new phase—and ...
+
+📺 Yahoo Finance
+
+👁️ 8K • 👍 346 • 💬 89 • ⏱️ 14:53 • 1d ago
+
+---
+
+**[The U.S. Military Is Using Bitcoin… To Protect The Dollar?](https://www.youtube.com/watch?v=ZEFiL5kHASQ)**
+
+Bitcoin is no longer just a speculative asset. Top US military leaders are now framing it as a tool of national power and digital ...
+
+📺 Simply Bitcoin
+
+👁️ 19K • 👍 1K • 💬 81 • ⏱️ 14:54 • 1d ago
 
 ---
 

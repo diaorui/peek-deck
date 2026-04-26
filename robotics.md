@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-25T23:05:36.094714+00:00'
+updated: '2026-04-26T00:03:14.416000+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 25, 2026 at 23:05 UTC  
+**Last Updated:** April 26, 2026 at 00:03 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[A smarter approach on autonomous exploration](https://www.reddit.com/r/robotics/comments/1sv7le7/a_smarter_approach_on_autonomous_exploration/)**
 
-13h ago
+14h ago
 
 ---
 
 **[Thought-controlled robotic arm by Neuralink aimed at restoring independence for paralyzed patients](https://www.reddit.com/r/robotics/comments/1svh8t5/thoughtcontrolled_robotic_arm_by_neuralink_aimed/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -48,7 +48,7 @@ Robotics research and industry news
 
 From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2047765371734704574
 
-14h ago
+15h ago
 
 ---
 
@@ -56,7 +56,7 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2047765371734704574
 
 Hey, I've been building CANviz - a browser-based CAN bus analyzer. pip install, plug in any USB CAN adapter, opens in your browser. No GUI app to install, works with low cost hardware. Just shipped v0.2.0 with live signal plotting and bus health stats. CANopen support (CiA 301 + CiA 402) is coming next. Would love to hear what you'd find most useful. Hackaday wrote it up here if you want more detail: https://hackaday.com/2026/04/21/can-bus-analyzer-runs-in-your-browser/ GitHub: https://github.com/Chanchaldhiman/CANviz
 
-1h ago
+2h ago
 
 ---
 
@@ -64,7 +64,7 @@ Hey, I've been building CANviz - a browser-based CAN bus analyzer. pip install, 
 
 For beginners wanting to get started with the SO-101 arm, I found that there are a lot of hurdles to jump through. From the current documentation, while a great resource for those with intermediate knowledge of robotics, isn't a great resource for beginners as it requires knowledge of git, terminal commands, assembly, wiring, and much more in the robotic world. So I made a 2.5h course that walks beginners through how to train your won ACT model with the SO-101 arm. Understandably, the official LeRobot documentation can't step users through every step/debug step possible, as that would make things far too long for experienced users wanting to get in, who their target audience is I imagine. That said, the ACT model is such a useful training model for beginners to understand/comprehend and use, that I wanted to create an easier on-boarding path for beginners getting started. Would love to hear your thoughts.
 
-🔗 [youtu.be](https://youtu.be/p6YIkDhPNyo) • 5h ago
+🔗 [youtu.be](https://youtu.be/p6YIkDhPNyo) • 6h ago
 
 ---
 
@@ -72,7 +72,7 @@ For beginners wanting to get started with the SO-101 arm, I found that there are
 
 Been building this ai desktop robot cat lately and tbh the visual feedback is everything. we’re using a 410×502 hd retina screen, and the real-device visual effect is honestly very impressive. pictures really don't do it justice. getting the voice to match the mouth was a nightmare tho. we use an algorithm to extract lip-sync phonemes and align them with the audio, and we also apply optimization methods to make the mouth transitions look natural. it runs on an esp32 rn but we are working on a linux version. kinda just wanted a companion on my desk while i code that actually feels alive, not just a static screen. i usually keep it right below my monitor. having it handle my quick queries or just react to me talking in the room makes a huge difference. watching it react in real time is pretty wild.
 
-19h ago
+20h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hi r/robotics, We’re the team from Hertzinno, and we develop industrial acoust
 
 Hi All, I am currently working on so101 and am familiar with data collection, training, eval following the lerobot recipes. I wanted to go further and learn better about how to do the same in simulation and use that as a starting point for doing RL from IM. Are there any good guides? Anyone done this before? I understand this might not be a standard path especially with sim-real gap. However wanted to go down this path to better understand the concepts and learn (plus AI tools recommended it)
 
-18h ago
+19h ago
 
 ---
 
@@ -146,7 +146,7 @@ CBS News • 1d ago
 
 Ukrainian combat robot maker DevDroid says it has to make constant updates to avoid becoming obsolete on the battlefield.
 
-Business Insider • 13h ago
+Business Insider • 14h ago
 
 ---
 
@@ -202,7 +202,7 @@ What is the best robot vacuum in 2026? After testing over 200 robot vacuums with
 
 📺 Just A Dad Approved
 
-👁️ 3K • 👍 183 • 💬 40 • ⏱️ 13:40 • 11h ago
+👁️ 4K • 👍 195 • 💬 43 • ⏱️ 13:40 • 12h ago
 
 ---
 
@@ -212,17 +212,7 @@ AGIBOT just rolled out a full new wave of humanoid robots and AI models built fo
 
 📺 AI Revolution
 
-👁️ 36K • 👍 832 • 💬 66 • ⏱️ 16:29 • 4d ago
-
----
-
-**[China&#39;s Robotics Innovation Is Moving Faster Than Anyone Realizes](https://www.youtube.com/watch?v=qB0SsWTEBlU)**
-
-I thought this would be just another robot demo... I was wrong.At this launch event, X Square Robot introduced a new kind of home ...
-
-📺 Barrett
-
-👁️ 10K • 👍 613 • 💬 16 • ⏱️ 5:43 • 2d ago
+👁️ 37K • 👍 832 • 💬 66 • ⏱️ 16:29 • 4d ago
 
 ---
 
@@ -232,27 +222,17 @@ New Spider Shoggoth Robot. This is so weird. We got a new robot on the test serv
 
 📺 PREDATOR WR
 
-👁️ 14K • 👍 517 • 💬 163 • ⏱️ 15:36 • 11h ago
+👁️ 16K • 👍 540 • 💬 175 • ⏱️ 15:36 • 12h ago
 
 ---
 
-**[Robot Meets Brutal and Untimely End During Marathon](https://www.youtube.com/watch?v=5yqcw5YzRj4)**
+**[Russian soldiers surrender to both aerial drones and ground robots on front line](https://www.youtube.com/watch?v=aLU88wt-BTM)**
 
-Dozens of humanoid robot runners competed in the Beijing half-marathon to mixed success. While a Chinese-built robot named ...
+Kanal13​ #likekanal13​ #subscribekanal13 #warinukraine https://www.youtube.com/user/kanal13az?sub_confirmation=1 ...
 
-📺 New York Post
+📺 Kanal13
 
-👁️ 34K • 👍 302 • 💬 183 • ⏱️ 2:35 • 5d ago
-
----
-
-**[Chinese humanoid robots outrun humans in half-marathon, setting records](https://www.youtube.com/watch?v=k5_Tlgvt-c8)**
-
-Over a hundred Chinese-made humanoid robots participated in a half-marathon race in Beijing on Sunday. The second inaugural ...
-
-📺 Global News
-
-👁️ 212K • 👍 2K • 💬 140 • ⏱️ 0:46 • 6d ago
+👁️ 18K • 👍 382 • 💬 10 • ⏱️ 4:03 • 20h ago
 
 ---
 
@@ -262,7 +242,37 @@ For the first time, an AI-powered machine has bested elite-level athletes at a p
 
 📺 nature video
 
-👁️ 108K • 👍 2K • 💬 212 • ⏱️ 13:38 • 3d ago
+👁️ 107K • 👍 2K • 💬 212 • ⏱️ 13:38 • 3d ago
+
+---
+
+**[Chinese humanoid robot beats world record for fastest human half-marathon | ABC NEWS](https://www.youtube.com/watch?v=tcfAm3hNQbk)**
+
+A humanoid robot has beaten the human record for the world's fastest half-marathon by finishing in just over 50 minutes. Dozens ...
+
+📺 ABC News (Australia)
+
+👁️ 106K • 👍 654 • ⏱️ 6:44 • 5d ago
+
+---
+
+**[50 Minutes: How China&#39;s Robot Destroyed the Half Marathon Record](https://www.youtube.com/watch?v=pH8tVBqCRLY)**
+
+In Beijing, a humanoid robot just completed a 21-kilometer half-marathon in an astonishing 50 minutes and 26 seconds, marking ...
+
+📺 Capital Markets AI
+
+👁️ 37K • 👍 670 • 💬 155 • ⏱️ 8:58 • 6d ago
+
+---
+
+**[America&#39;s largest AI robot data factory is in Watertown, Massachusetts](https://www.youtube.com/watch?v=9sjfGfBkTuU)**
+
+Robots are learning to do simple human tasks in Watertown, Massachusetts. WBZ-TV's Alyssa Andrews reports. For video ...
+
+📺 CBS Boston
+
+👁️ 7K • 👍 112 • 💬 23 • ⏱️ 2:36 • 1d ago
 
 ---
 
@@ -272,27 +282,17 @@ Ace, a ping-pong-playing robot, is the first to beat elite human players in a co
 
 📺 NBC News
 
-👁️ 43K • 👍 544 • 💬 145 • ⏱️ 4:14 • 23h ago
+👁️ 53K • 👍 600 • 💬 157 • ⏱️ 4:14 • 1d ago
 
 ---
 
-**[Human Matchloading Contest at VEX Worlds 2026 by 2145 Teams](https://www.youtube.com/watch?v=yBw-tzOH3fo)**
+**[Humanoid robot beats half-marathon world record set by Ugandan runner Jacob Kiplimo](https://www.youtube.com/watch?v=mcJYlIDCiLk)**
 
-Human Matchloading Contest at VEX Worlds 2026 by 2145 Teams @RECFoundation #vexworlds #vexrobotics #recfoundation ...
+CNBC's Steve Sedgwick, Elaine Yu, and Arjun Kharpal discuss China's humanoid robotics industry — on full display at a ...
 
-📺 FUN Robotics Network
+📺 CNBC International Live
 
-👁️ 27K • 👍 246 • 💬 7 • ⏱️ 0:19 • 2d ago
-
----
-
-**[🤖 No repeat win, still stole the show—TienKung Ultra ate this race. #humanoidrobot #ai #robotics](https://www.youtube.com/watch?v=LPK7x5WV9Ss)**
-
-TienKung Ultra finished the full 21.0975 km in 1:15:00 — fully autonomous, zero human intervention. No repeat win this time.
-
-📺 XRoboHub
-
-👁️ 2.4M • 👍 20K • 💬 2K • ⏱️ 0:39 • 6d ago
+👁️ 55K • 👍 715 • 💬 319 • ⏱️ 8:06 • 5d ago
 
 ---
 
