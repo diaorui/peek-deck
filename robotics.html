@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-04-26T00:03:14.003847+00:00"
+          "dateModified": "2026-04-26T04:02:30.700347+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -614,20 +614,24 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="reddit-carousel-robotics">
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1sv7le7/a_smarter_approach_on_autonomous_exploration/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1svoxqm/i_built_a_free_open_source_can_bus_analyzer_would/', '_blank')">
                     <div class="post-thumbnail">
                         
-                        <img src="https://preview.redd.it/dp4ys1gu00wg1.gif?width=320&crop=smart&s=5fe67cefbe0fbeecb2e2cc932254bdaabce128ed" alt="A smarter approach on autonomous exploration" onerror="this.style.display='none'" loading="lazy">
+                        <img src="https://preview.redd.it/r0ku75itnexg1.png?width=640&crop=smart&auto=webp&s=87689d1264138c45c46047a462c3eed2e268c77b" alt="I built a free open source CAN bus analyzer - would love feedback from the community" onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1sv7le7/a_smarter_approach_on_autonomous_exploration/" target="_blank" onclick="event.stopPropagation();">A smarter approach on autonomous exploration</a>
+                            <a href="https://www.reddit.com/r/robotics/comments/1svoxqm/i_built_a_free_open_source_can_bus_analyzer_would/" target="_blank" onclick="event.stopPropagation();">I built a free open source CAN bus analyzer - would love feedback from the community</a>
                         </div>
 
                         <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Hey, I've been building CANviz - a browser-based CAN bus analyzer. pip install, plug in any USB CAN adapter, opens in your browser. No GUI app to install, works with low cost hardware. Just shipped v0.2.0 with live signal plotting and bus health stats. CANopen support (CiA 301 + CiA 402) is coming next. Would love to hear what you'd find most useful. Hackaday wrote it up here if you want more detail: https://hackaday.com/2026/04/21/can-bus-analyzer-runs-in-your-browser/ GitHub: https://github.com/Chanchaldhiman/CANviz
+                        </div>
                         
 
                         <!-- Metadata -->
@@ -635,7 +639,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1777109618.0"></span>
+                                    <span data-timestamp="1777153569.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -667,6 +671,107 @@
                                 
                                 <div class="post-meta-item">
                                     <span data-timestamp="1777135677.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1svvpoe/robotics_builders_im_currently_looking_for_beta/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/eTQxc25xdDY5Z3hnMWqDfngYDqEtD2ldL69E_w0rnjqT1-JsRmsHQTvRsrHH.png?width=640&crop=smart&auto=webp&s=afe0bc2a15d53c1090e6a08ec39deaaf5ab7bfed" alt="Robotics builders I'm currently looking for beta testers for JASM!" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1svvpoe/robotics_builders_im_currently_looking_for_beta/" target="_blank" onclick="event.stopPropagation();">Robotics builders I'm currently looking for beta testers for JASM!</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            u/mods if this breaks the rules take it down. I'm looking for beta testers who are not afraid to break things, the end goal here is to make the worlds most easy to use, fully featured servo controlling software, and I'm building it while also building characters to test it with. Here's the rundown: JASM - Jester's Animatronic Servo Mapper Ever bought a bunch of servos, wired them up to a PCA9685, and then sat there wondering "now what?" Yeah. That's the problem this solves. What it actually does: You plug in your board (supports 50 different MCUs - ESP32, Arduino, Raspberry Pi Pico, etc.), click Upload Firmware, connect, and you're moving servos with sliders in under 5 minutes. No Arduino IDE. No code. No libraries to install. Things that used to be painful that aren't anymore: Making smooth movements - Every channel has its own speed control, EMA smoothing, and Bezier easing. No more jerky servos snapping from one position to another. Recording performances - Hit record, move the sliders (or use a gamepad), and it saves the whole thing synced to audio. Layer channels one at a time like a multitrack recorder. Lip sync - Load a vocal track and it auto-generates jaw movement from a phoneme dictionary. No manual keyframing. Text to Speech - Type a script, hit Perform, and your animatronic speaks it with automatic lip sync, idle animations (blinks, eye movement, ear twitches), and expression changes. Uses the Inworld API with your own account. Gamepad puppeteering - Map any Xbox/PS controller stick or button to any servo channel. Puppeteer the whole head live. Standalone playback - Upload animations to the board and it runs without a computer. Power it up and it goes. Supports button triggers, PIR sensors, or auto-loop. Servo limits - Set min/max/neutral for every channel so you never strip a gear or slam into a physical stop again. Who it's for: Animatronics builders, Halloween prop makers, cosplayers, fursuit makers, anyone doing museum exhibits or trade show displays. If you've got servos and an idea, this is the program. If you would like to be a beta tester and you have some experience with servos and MCU's DM me here. Discord is empty right now, as I have literally just started it.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1777172256.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1sv7le7/a_smarter_approach_on_autonomous_exploration/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://preview.redd.it/dp4ys1gu00wg1.gif?width=320&crop=smart&s=5fe67cefbe0fbeecb2e2cc932254bdaabce128ed" alt="A smarter approach on autonomous exploration" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1sv7le7/a_smarter_approach_on_autonomous_exploration/" target="_blank" onclick="event.stopPropagation();">A smarter approach on autonomous exploration</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1777109618.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1svuir7/made_a_slider_extension_for_so101_arm/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/M2ZuNXRuMHl5ZnhnMdKwqis0eT1FBcFzX5QHvt3DGclSAzCMEOb-HUSnovbv.png?width=640&crop=smart&auto=webp&s=83499db3f8551e11f15f80ce444daee9c95b4a84" alt="made a slider extension for SO101 arm" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1svuir7/made_a_slider_extension_for_so101_arm/" target="_blank" onclick="event.stopPropagation();">made a slider extension for SO101 arm</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            i bet you haven't seen a SO101 mounted on a wall like this before if you want to do the same, here is LeSlider: https://github.com/pham-tuan-binh/leslider i built it cause i wanted something that can cover my whole desk for tasks like organizing and cleaning i originally wanted to have a belt system like what 3D printers have, but i was too lazy and used a pinion/track with another sts3215 so: > the extra motor shares the same bus as the rest of SO101 > you can have arbitrary length of track > really cheap and easy to assemble and control it turned out better than expected with this, i'm gonna train a model to pick random stuff up across my table and put it into a bin at the end of table (realistically using yolo to scan table, two policies, one for picking up objects, one for dropping)
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1777168699.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -711,23 +816,23 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1svoxqm/i_built_a_free_open_source_can_bus_analyzer_would/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1svwuk8/scientists_create_liquid_gears_that_spin_without/', '_blank')">
                     <div class="post-thumbnail">
                         
-                        <img src="https://preview.redd.it/r0ku75itnexg1.png?width=640&crop=smart&auto=webp&s=87689d1264138c45c46047a462c3eed2e268c77b" alt="I built a free open source CAN bus analyzer - would love feedback from the community" onerror="this.style.display='none'" loading="lazy">
+                        <img src="https://external-preview.redd.it/NaPXT09sRmeH5J4u-DBTsP07B6P73HJTQqe2JpyHvcE.jpeg?width=640&crop=smart&auto=webp&s=91cd88ab71299a3338e15a586c299d70257c1c17" alt="Scientists Create “Liquid Gears” That Spin Without Touching" onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1svoxqm/i_built_a_free_open_source_can_bus_analyzer_would/" target="_blank" onclick="event.stopPropagation();">I built a free open source CAN bus analyzer - would love feedback from the community</a>
+                            <a href="https://www.reddit.com/r/robotics/comments/1svwuk8/scientists_create_liquid_gears_that_spin_without/" target="_blank" onclick="event.stopPropagation();">Scientists Create “Liquid Gears” That Spin Without Touching</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            Hey, I've been building CANviz - a browser-based CAN bus analyzer. pip install, plug in any USB CAN adapter, opens in your browser. No GUI app to install, works with low cost hardware. Just shipped v0.2.0 with live signal plotting and bus health stats. CANopen support (CiA 301 + CiA 402) is coming next. Would love to hear what you'd find most useful. Hackaday wrote it up here if you want more detail: https://hackaday.com/2026/04/21/can-bus-analyzer-runs-in-your-browser/ GitHub: https://github.com/Chanchaldhiman/CANviz
+                            "Fluid gears" invention shows promise for improving mechanical devices.
                         </div>
                         
 
@@ -736,10 +841,25 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1777153569.0"></span>
+                                    <span data-timestamp="1777175656.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://scitechdaily.com/scientists-create-liquid-gears-that-spin-without-touching/" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://scitechdaily.com/favicon.ico" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
+                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
+                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
+                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
+                                            </svg>
+                                            
+                                        
+                                        <span>SciTechDaily</span>
+                                    </a>
+                                </div>
                                 
                             </div>
                         </div>
@@ -790,41 +910,6 @@
                                         <span>youtu.be</span>
                                     </a>
                                 </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1sv0vdj/finally_built_a_cyberpunk_desktop_cat_that/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/dzBkbXBuaGw5OXhnMb1RE9g1G3SO1hHvCsZb2P5MoaFAaNlEdomjewNfkIkA.png?width=640&crop=smart&auto=webp&s=3315c5e652ab40b922e5e43937cbb3f0e10730a0" alt="Finally built a cyberpunk desktop cat that actually syncs its mouth when talking" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1sv0vdj/finally_built_a_cyberpunk_desktop_cat_that/" target="_blank" onclick="event.stopPropagation();">Finally built a cyberpunk desktop cat that actually syncs its mouth when talking</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Been building this ai desktop robot cat lately and tbh the visual feedback is everything. we’re using a 410×502 hd retina screen, and the real-device visual effect is honestly very impressive. pictures really don't do it justice. getting the voice to match the mouth was a nightmare tho. we use an algorithm to extract lip-sync phonemes and align them with the audio, and we also apply optimization methods to make the mouth transitions look natural. it runs on an esp32 rn but we are working on a linux version. kinda just wanted a companion on my desk while i code that actually feels alive, not just a static screen. i usually keep it right below my monitor. having it handle my quick queries or just react to me talking in the room makes a huge difference. watching it react in real time is pretty wild.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1777087548.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
                                 
                             </div>
                         </div>
@@ -901,70 +986,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1sv25k3/good_examples_of_sim_manipulation/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1sv25k3/good_examples_of_sim_manipulation/" target="_blank" onclick="event.stopPropagation();">Good examples of sim manipulation</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Hi All, I am currently working on so101 and am familiar with data collection, training, eval following the lerobot recipes. I wanted to go further and learn better about how to do the same in simulation and use that as a starting point for doing RL from IM. Are there any good guides? Anyone done this before? I understand this might not be a standard path especially with sim-real gap. However wanted to go down this path to better understand the concepts and learn (plus AI tools recommended it)
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1777091332.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1stuamz/spintracking_robot_takes_on_elite_tabletennis/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/cWxqaWw5eWIwMHhnMeN4hMYi39qsGwBdLiSMVqPDV6OUWLjHX0jnRvtEZD9i.png?width=640&crop=smart&auto=webp&s=c8a8ac6b4f60713950da9806b26fd1c98d0b79c8" alt="Spin-tracking robot takes on elite table-tennis players - SonyAI" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1stuamz/spintracking_robot_takes_on_elite_tabletennis/" target="_blank" onclick="event.stopPropagation();">Spin-tracking robot takes on elite table-tennis players - SonyAI</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1776975766.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -988,7 +1009,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-04-25T23:05:20.823448+00:00">Updated 2026-04-25T23:05:20.823448+00:00</small>
+        <small data-timestamp="2026-04-26T04:02:10.966311+00:00">Updated 2026-04-26T04:02:10.966311+00:00</small>
     </div>
 </div>
 
@@ -1174,6 +1195,88 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="news-carousel-robotics">
                 
+                <div class="carousel-card" onclick="window.open('https://interestingengineering.com/ai-robotics/flexible-electronics-electronic-skin-soft-robots-turku-study', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://cms.interestingengineering.com/wp-content/uploads/2026/04/soft-robot.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://interestingengineering.com/ai-robotics/flexible-electronics-electronic-skin-soft-robots-turku-study" target="_blank" onclick="event.stopPropagation();">New e-skin gives robotic hand sense of touch in breakthrough test</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Researchers develop flexible, stretchable electronic skin and soft robots inspired by nature at University of Turku.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://interestingengineering.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Interesting Engineering" class="news-favicon">
+                                    <a href="https://interestingengineering.com" target="_blank" onclick="event.stopPropagation();">Interesting Engineering</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1777058580.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.therobotreport.com/pudu-robotics-raises-nearly-150m-targets-industrial-applications/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://www.therobotreport.com/wp-content/uploads/2026/04/pudurobotics-featured.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.therobotreport.com/pudu-robotics-raises-nearly-150m-targets-industrial-applications/" target="_blank" onclick="event.stopPropagation();">Pudu Robotics raises nearly $150M as it targets industrial applications</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Pudu plans to use the funding to develop its embodied AI, grow its product portfolio, and expand in global markets beyond service robots.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.therobotreport.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Robot Report" class="news-favicon">
+                                    <a href="https://www.therobotreport.com" target="_blank" onclick="event.stopPropagation();">The Robot Report</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1776972165.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.npr.org/2026/04/24/nx-s1-5797863/self-aware-robots-future-laundry-work-home', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4897x2755+0+337/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa0%2F87%2F3a4ffb1045cf903fe369e62d2980%2Fgettyimages-2211086269.jpg');"></div>
@@ -1215,20 +1318,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://interestingengineering.com/ai-robotics/flexible-electronics-electronic-skin-soft-robots-turku-study', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.businessinsider.com/consultant-turned-ai-robotics-founder-career-lessons-bcg-remy-2026-4', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://cms.interestingengineering.com/wp-content/uploads/2026/04/soft-robot.jpg');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://i.insider.com/69df6084d06bf1b901273bf5?width=1200&format=jpeg');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://interestingengineering.com/ai-robotics/flexible-electronics-electronic-skin-soft-robots-turku-study" target="_blank" onclick="event.stopPropagation();">New e-skin gives robotic hand sense of touch in breakthrough test</a>
+                            <a href="https://www.businessinsider.com/consultant-turned-ai-robotics-founder-career-lessons-bcg-remy-2026-4" target="_blank" onclick="event.stopPropagation();">How I taught myself to code, quit my consulting job, and started an AI robotics firm by age 25</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Researchers develop flexible, stretchable electronic skin and soft robots inspired by nature at University of Turku.
+                            Oscar Brisset, 25, used most of his vacation days to learn to code. He left BCG to launch a YC-backed AI robotics company.
                         </div>
                         
 
@@ -1238,9 +1341,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://interestingengineering.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Interesting Engineering" class="news-favicon">
-                                    <a href="https://interestingengineering.com" target="_blank" onclick="event.stopPropagation();">Interesting Engineering</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.businessinsider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Business Insider" class="news-favicon">
+                                    <a href="https://www.businessinsider.com" target="_blank" onclick="event.stopPropagation();">Business Insider</a>
                                     
                                 </div>
                                 
@@ -1248,7 +1351,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1777058580.0"></span>
+                                    <span data-timestamp="1777101420.0"></span>
                                 </div>
                                 
                             </div>
@@ -1338,20 +1441,24 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.businessinsider.com/this-ukrainian-company-is-upgrading-war-robots-like-smartphones-2026-4', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.democracynow.org/2026/4/24/headlines/eric_trump_touts_24_million_pentagon_contract_awarded_to_his_robotics_company', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://i.insider.com/69ea1b203fecbb42897a3191?width=1200&format=jpeg');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://www.democracynow.org/images/headlines/88/81788/full_hd/h12-eric-trump-robotics-company-pentagon-contract.jpg');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.businessinsider.com/this-ukrainian-company-is-upgrading-war-robots-like-smartphones-2026-4" target="_blank" onclick="event.stopPropagation();">This Ukrainian company is upgrading its battlefield robots like smartphones. Here's how it's chasing the edge in combat.</a>
+                            <a href="https://www.democracynow.org/2026/4/24/headlines/eric_trump_touts_24_million_pentagon_contract_awarded_to_his_robotics_company" target="_blank" onclick="event.stopPropagation();">Eric Trump Touts $24 Million Pentagon Contract Awarded to His Robotics Company</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Ukrainian combat robot maker DevDroid says it has to make constant updates to avoid becoming obsolete on the battlefield.
+                            President Trump’s son Eric Trump is touting a $24 million Pentagon contract awarded to the robotics firm Foundation Future Industries, where he serves as chief strategy adviser. The contract will fund testing of its “Phantom” humanoid robots for future military applications. Here’s Eric Trump speaking on Fox Business about the deal.
+
+Eric Trump: “You know, I got involved with crypto in a very big way because we had to win that digital revolution. We have to win robotics in the United States of America.”
+
+Democratic lawmakers have blasted the deal as a clear example of nepotism and corruption. Massachusetts Senator Elizabeth Warren wrote, “Is the Pentagon just a cash machine for Trump’s kids now? This looks like corruption in plain sight.”
                         </div>
                         
 
@@ -1361,9 +1468,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.businessinsider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Business Insider" class="news-favicon">
-                                    <a href="https://www.businessinsider.com" target="_blank" onclick="event.stopPropagation();">Business Insider</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.democracynow.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Democracy Now!" class="news-favicon">
+                                    <a href="https://www.democracynow.org" target="_blank" onclick="event.stopPropagation();">Democracy Now!</a>
                                     
                                 </div>
                                 
@@ -1371,7 +1478,48 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1777108440.0"></span>
+                                    <span data-timestamp="1777040799.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://interestingengineering.com/ai-robotics/humanoid-robot-administrative-job-uk-construction-site', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://cms.interestingengineering.com/wp-content/uploads/2026/04/IE-68.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://interestingengineering.com/ai-robotics/humanoid-robot-administrative-job-uk-construction-site" target="_blank" onclick="event.stopPropagation();">UK construction firm puts humanoid robot in-charge of site inspections</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            UK-based firm Tilbury Douglas has officially deployed the humanoid robot on a live construction site in an administrative role.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://interestingengineering.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Interesting Engineering" class="news-favicon">
+                                    <a href="https://interestingengineering.com" target="_blank" onclick="event.stopPropagation();">Interesting Engineering</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1776933420.0"></span>
                                 </div>
                                 
                             </div>
@@ -1461,129 +1609,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.democracynow.org/2026/4/24/headlines/eric_trump_touts_24_million_pentagon_contract_awarded_to_his_robotics_company', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://www.democracynow.org/images/headlines/88/81788/full_hd/h12-eric-trump-robotics-company-pentagon-contract.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.democracynow.org/2026/4/24/headlines/eric_trump_touts_24_million_pentagon_contract_awarded_to_his_robotics_company" target="_blank" onclick="event.stopPropagation();">Eric Trump Touts $24 Million Pentagon Contract Awarded to His Robotics Company</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            President Trump’s son Eric Trump is touting a $24 million Pentagon contract awarded to the robotics firm Foundation Future Industries, where he serves as chief strategy adviser. The contract will fund testing of its “Phantom” humanoid robots for future military applications. Here’s Eric Trump speaking on Fox Business about the deal.
-
-Eric Trump: “You know, I got involved with crypto in a very big way because we had to win that digital revolution. We have to win robotics in the United States of America.”
-
-Democratic lawmakers have blasted the deal as a clear example of nepotism and corruption. Massachusetts Senator Elizabeth Warren wrote, “Is the Pentagon just a cash machine for Trump’s kids now? This looks like corruption in plain sight.”
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.democracynow.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Democracy Now!" class="news-favicon">
-                                    <a href="https://www.democracynow.org" target="_blank" onclick="event.stopPropagation();">Democracy Now!</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1777040799.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.algemeiner.com/2026/04/24/idf-unveils-ai-powered-robotic-warfare-system-breakthrough-artillery-against-hezbollah/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://www.algemeiner.com/wp-content/uploads/2026/04/Lebanon-1.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.algemeiner.com/2026/04/24/idf-unveils-ai-powered-robotic-warfare-system-breakthrough-artillery-against-hezbollah/" target="_blank" onclick="event.stopPropagation();">IDF Unveils AI-Powered Robotic Warfare System, Breakthrough Artillery Against Hezbollah</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Smoke rises from a village in southern Lebanon as the Israeli army operates in it as seen from the Israeli …
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.algemeiner.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Algemeiner.com" class="news-favicon">
-                                    <a href="https://www.algemeiner.com" target="_blank" onclick="event.stopPropagation();">Algemeiner.com</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1777062840.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.investors.com/news/physical-ai-jensen-huang-nvidia-artificial-intelligence-robotics/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.investors.com/news/physical-ai-jensen-huang-nvidia-artificial-intelligence-robotics/" target="_blank" onclick="event.stopPropagation();">Physical AI: Where Artificial Intelligence Rubber Meets The Road</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.investors.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Investor's Business Daily" class="news-favicon">
-                                    <a href="https://www.investors.com" target="_blank" onclick="event.stopPropagation();">Investor's Business Daily</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1776974220.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 255, 255, 0.05);"
@@ -1604,7 +1629,7 @@ Democratic lawmakers have blasted the deal as a clear example of nepotism and co
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-04-25T23:05:34.786694+00:00">Updated 2026-04-25T23:05:34.786694+00:00</small>
+        <small data-timestamp="2026-04-26T04:02:22.877569+00:00">Updated 2026-04-26T04:02:22.877569+00:00</small>
     </div>
 </div>
 
@@ -1797,24 +1822,24 @@ Democratic lawmakers have blasted the deal as a clear example of nepotism and co
             <!-- Carousel track -->
             <div class="carousel-track" id="youtube-carousel-robotics">
                 
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=i_vPlTcRxp8', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=cvzlozoeJ5o', '_blank')">
                     <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/i_vPlTcRxp8/hqdefault.jpg');">
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/cvzlozoeJ5o/hqdefault.jpg');">
                         
-                        <span class="duration-badge">13:40</span>
+                        <span class="duration-badge">15:36</span>
                         
                     </div>
 
                     <div class="video-content">
                         <!-- Video title (fixed 2-line height) -->
                         <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=i_vPlTcRxp8" target="_blank" onclick="event.stopPropagation();">I Bought 200 Robot Vacuums — Here&#39;s The Only One Worth Your Money in 2026!</a>
+                            <a href="https://www.youtube.com/watch?v=cvzlozoeJ5o" target="_blank" onclick="event.stopPropagation();">NEW Shoggoth Robot Is Bizarre... NEW Stretch Attack Ability Is Wild | War Robots</a>
                         </div>
 
                         <!-- Video description (if available) -->
                         
                         <div class="video-description">
-                            What is the best robot vacuum in 2026? After testing over 200 robot vacuums with my own money, one model still stands above ...
+                            New Spider Shoggoth Robot. This is so weird. We got a new robot on the test server and it has a brand new ability. 2 Medium 2 ...
                         </div>
                         
 
@@ -1825,9 +1850,9 @@ Democratic lawmakers have blasted the deal as a clear example of nepotism and co
                                 
                                 <div class="video-meta-item video-channel">
                                     
-                                    <img src="https://yt3.ggpht.com/5mxhGpWqYqdfBDiVAsY3_OBW7yQPVwTPEnLkhEv5A5f0FkiXdg6nW2_Rjk6XpDB5_LKdP1lOqQ=s88-c-k-c0x00ffffff-no-rj" alt="Just A Dad Approved" class="channel-avatar">
+                                    <img src="https://yt3.ggpht.com/FvJ_BG6XwpA9U-w7HZPuN5X2dO3jMRSSk8cK8hskSjWOxyrGAsLT0MgizZgZ37XmskaPz-2q=s88-c-k-c0x00ffffff-no-rj" alt="PREDATOR WR" class="channel-avatar">
                                     
-                                    <a href="https://www.youtube.com/channel/UCS-sk6Bpjsmq1TBM_ir-q5w" target="_blank" onclick="event.stopPropagation();">Just A Dad Approved</a>
+                                    <a href="https://www.youtube.com/channel/UCWG2V9ETPB7VXoQjRNM1yww" target="_blank" onclick="event.stopPropagation();">PREDATOR WR</a>
                                 </div>
                                 
                             </div>
@@ -1836,16 +1861,16 @@ Democratic lawmakers have blasted the deal as a clear example of nepotism and co
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 4K</span>
+                                    <span style="color: #9ca3af;">👁️ 18K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 195</span>
+                                    <span style="color: #9ca3af;">👍 587</span>
                                 </div>
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 43</span>
+                                    <span style="color: #9ca3af;">💬 188</span>
                                 </div>
                                 
                             </div>
@@ -1855,7 +1880,73 @@ Democratic lawmakers have blasted the deal as a clear example of nepotism and co
                             <div class="video-meta-line">
                                 
                                 <div class="video-meta-item">
-                                    <span data-timestamp="1777118478.0"></span>
+                                    <span data-timestamp="1777116913.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=k5_Tlgvt-c8', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/k5_Tlgvt-c8/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">0:46</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=k5_Tlgvt-c8" target="_blank" onclick="event.stopPropagation();">Chinese humanoid robots outrun humans in half-marathon, setting records</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            Over a hundred Chinese-made humanoid robots participated in a half-marathon race in Beijing on Sunday. The second inaugural ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/0HLQQOWZ7NCOsJIicFg_3UgyWCg4C_LK27PIAqReZlvkVYY0dp8QzGhp57FON4QeJTH5IrYlCw=s88-c-k-c0x00ffffff-no-rj" alt="Global News" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UChLtXXpo4Ge1ReTEboVvTDg" target="_blank" onclick="event.stopPropagation();">Global News</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 212K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 2K</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 140</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1776629055.0"></span>
                                 </div>
                                 
                             </div>
@@ -1906,7 +1997,7 @@ Democratic lawmakers have blasted the deal as a clear example of nepotism and co
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 832</span>
+                                    <span style="color: #9ca3af;">👍 834</span>
                                 </div>
                                 
                                 
@@ -1922,138 +2013,6 @@ Democratic lawmakers have blasted the deal as a clear example of nepotism and co
                                 
                                 <div class="video-meta-item">
                                     <span data-timestamp="1776730744.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=cvzlozoeJ5o', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/cvzlozoeJ5o/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">15:36</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=cvzlozoeJ5o" target="_blank" onclick="event.stopPropagation();">NEW Shoggoth Robot Is Bizarre... NEW Stretch Attack Ability Is Wild | War Robots</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            New Spider Shoggoth Robot. This is so weird. We got a new robot on the test server and it has a brand new ability. 2 Medium 2 ...
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/FvJ_BG6XwpA9U-w7HZPuN5X2dO3jMRSSk8cK8hskSjWOxyrGAsLT0MgizZgZ37XmskaPz-2q=s88-c-k-c0x00ffffff-no-rj" alt="PREDATOR WR" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UCWG2V9ETPB7VXoQjRNM1yww" target="_blank" onclick="event.stopPropagation();">PREDATOR WR</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 16K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 540</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 175</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1777116913.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=aLU88wt-BTM', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/aLU88wt-BTM/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">4:03</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=aLU88wt-BTM" target="_blank" onclick="event.stopPropagation();">Russian soldiers surrender to both aerial drones and ground robots on front line</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            Kanal13​ #likekanal13​ #subscribekanal13 #warinukraine https://www.youtube.com/user/kanal13az?sub_confirmation=1 ...
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/ytc/AIdro_l6LGKAlevz4BFOXnNYVVS_X2VbwjbOO0jDSN4ZxOFk3Nk=s88-c-k-c0x00ffffff-no-rj" alt="Kanal13" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UC_TneqvSfh-KsIyZMlJjVsQ" target="_blank" onclick="event.stopPropagation();">Kanal13</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 18K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 382</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 10</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1777089606.0"></span>
                                 </div>
                                 
                             </div>
@@ -2100,7 +2059,7 @@ Democratic lawmakers have blasted the deal as a clear example of nepotism and co
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 107K</span>
+                                    <span style="color: #9ca3af;">👁️ 108K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
@@ -2109,7 +2068,7 @@ Democratic lawmakers have blasted the deal as a clear example of nepotism and co
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 212</span>
+                                    <span style="color: #9ca3af;">💬 220</span>
                                 </div>
                                 
                             </div>
@@ -2120,68 +2079,6 @@ Democratic lawmakers have blasted the deal as a clear example of nepotism and co
                                 
                                 <div class="video-meta-item">
                                     <span data-timestamp="1776870239.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=tcfAm3hNQbk', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/tcfAm3hNQbk/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">6:44</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=tcfAm3hNQbk" target="_blank" onclick="event.stopPropagation();">Chinese humanoid robot beats world record for fastest human half-marathon | ABC NEWS</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            A humanoid robot has beaten the human record for the world's fastest half-marathon by finishing in just over 50 minutes. Dozens ...
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/sc9xa2bYk6pIuKX3qgMHSrxEkuPmg57JMl_lRaJqCZxuSIeQt1B6BV23c-16Q3b7Aep0on1b=s88-c-k-c0x00ffffff-no-rj" alt="ABC News (Australia)" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UCVgO39Bk5sMo66-6o6Spn6Q" target="_blank" onclick="event.stopPropagation();">ABC News (Australia)</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 106K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 654</span>
-                                </div>
-                                
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1776648645.0"></span>
                                 </div>
                                 
                             </div>
@@ -2232,12 +2129,12 @@ Democratic lawmakers have blasted the deal as a clear example of nepotism and co
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 670</span>
+                                    <span style="color: #9ca3af;">👍 671</span>
                                 </div>
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 155</span>
+                                    <span style="color: #9ca3af;">💬 158</span>
                                 </div>
                                 
                             </div>
@@ -2255,24 +2152,24 @@ Democratic lawmakers have blasted the deal as a clear example of nepotism and co
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=9sjfGfBkTuU', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=LPK7x5WV9Ss', '_blank')">
                     <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/9sjfGfBkTuU/hqdefault.jpg');">
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/LPK7x5WV9Ss/hqdefault.jpg');">
                         
-                        <span class="duration-badge">2:36</span>
+                        <span class="duration-badge">0:39</span>
                         
                     </div>
 
                     <div class="video-content">
                         <!-- Video title (fixed 2-line height) -->
                         <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=9sjfGfBkTuU" target="_blank" onclick="event.stopPropagation();">America&#39;s largest AI robot data factory is in Watertown, Massachusetts</a>
+                            <a href="https://www.youtube.com/watch?v=LPK7x5WV9Ss" target="_blank" onclick="event.stopPropagation();">🤖 No repeat win, still stole the show—TienKung Ultra ate this race. #humanoidrobot #ai #robotics</a>
                         </div>
 
                         <!-- Video description (if available) -->
                         
                         <div class="video-description">
-                            Robots are learning to do simple human tasks in Watertown, Massachusetts. WBZ-TV's Alyssa Andrews reports. For video ...
+                            TienKung Ultra finished the full 21.0975 km in 1:15:00 — fully autonomous, zero human intervention. No repeat win this time.
                         </div>
                         
 
@@ -2283,9 +2180,9 @@ Democratic lawmakers have blasted the deal as a clear example of nepotism and co
                                 
                                 <div class="video-meta-item video-channel">
                                     
-                                    <img src="https://yt3.ggpht.com/bLcpvtZutm87ViHDCNhnIGtqIQtQfsBQ77kfcvkQcJdHcsJ294HZtwlsHSolvFICgEZV9hELEQ=s88-c-k-c0x00ffffff-no-rj" alt="CBS Boston" class="channel-avatar">
+                                    <img src="https://yt3.ggpht.com/5TowqzBU7hQ_XP9N1ZkCWaXuEhPemOBcC9WwfO6oM3DF0VBzbzGMNe0SjrdtxbZ2G8qkLqux=s88-c-k-c0x00ffffff-no-rj" alt="XRoboHub" class="channel-avatar">
                                     
-                                    <a href="https://www.youtube.com/channel/UCi4fcBVyo4CAnmdgXeO-NvA" target="_blank" onclick="event.stopPropagation();">CBS Boston</a>
+                                    <a href="https://www.youtube.com/channel/UCt22Df5wpyliVvk_Z5bllyA" target="_blank" onclick="event.stopPropagation();">XRoboHub</a>
                                 </div>
                                 
                             </div>
@@ -2294,16 +2191,16 @@ Democratic lawmakers have blasted the deal as a clear example of nepotism and co
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 7K</span>
+                                    <span style="color: #9ca3af;">👁️ 2.5M</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 112</span>
+                                    <span style="color: #9ca3af;">👍 20K</span>
                                 </div>
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 23</span>
+                                    <span style="color: #9ca3af;">💬 2K</span>
                                 </div>
                                 
                             </div>
@@ -2313,7 +2210,7 @@ Democratic lawmakers have blasted the deal as a clear example of nepotism and co
                             <div class="video-meta-line">
                                 
                                 <div class="video-meta-item">
-                                    <span data-timestamp="1777067330.0"></span>
+                                    <span data-timestamp="1776586870.0"></span>
                                 </div>
                                 
                             </div>
@@ -2321,24 +2218,24 @@ Democratic lawmakers have blasted the deal as a clear example of nepotism and co
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=7UKiNNxPkAU', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=tcfAm3hNQbk', '_blank')">
                     <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/7UKiNNxPkAU/hqdefault.jpg');">
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/tcfAm3hNQbk/hqdefault.jpg');">
                         
-                        <span class="duration-badge">4:14</span>
+                        <span class="duration-badge">6:44</span>
                         
                     </div>
 
                     <div class="video-content">
                         <!-- Video title (fixed 2-line height) -->
                         <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=7UKiNNxPkAU" target="_blank" onclick="event.stopPropagation();">Table-tennis-playing robot makes history by beating elite human players</a>
+                            <a href="https://www.youtube.com/watch?v=tcfAm3hNQbk" target="_blank" onclick="event.stopPropagation();">Chinese humanoid robot beats world record for fastest human half-marathon | ABC NEWS</a>
                         </div>
 
                         <!-- Video description (if available) -->
                         
                         <div class="video-description">
-                            Ace, a ping-pong-playing robot, is the first to beat elite human players in a competitive sport, according to Sony AI. It's a big ...
+                            A humanoid robot has beaten the human record for the world's fastest half-marathon by finishing in just over 50 minutes. Dozens ...
                         </div>
                         
 
@@ -2349,9 +2246,9 @@ Democratic lawmakers have blasted the deal as a clear example of nepotism and co
                                 
                                 <div class="video-meta-item video-channel">
                                     
-                                    <img src="https://yt3.ggpht.com/PJj5jtuEOi5UmkFy4IBonj5WcabNcnJAIJe-jZMd1ArwIuVyQxFH_2zryBHwvfv6mJujwRpWDCM=s88-c-k-c0x00ffffff-no-rj" alt="NBC News" class="channel-avatar">
+                                    <img src="https://yt3.ggpht.com/sc9xa2bYk6pIuKX3qgMHSrxEkuPmg57JMl_lRaJqCZxuSIeQt1B6BV23c-16Q3b7Aep0on1b=s88-c-k-c0x00ffffff-no-rj" alt="ABC News (Australia)" class="channel-avatar">
                                     
-                                    <a href="https://www.youtube.com/channel/UCeY0bbntWzzVIaj2z3QigXg" target="_blank" onclick="event.stopPropagation();">NBC News</a>
+                                    <a href="https://www.youtube.com/channel/UCVgO39Bk5sMo66-6o6Spn6Q" target="_blank" onclick="event.stopPropagation();">ABC News (Australia)</a>
                                 </div>
                                 
                             </div>
@@ -2360,17 +2257,13 @@ Democratic lawmakers have blasted the deal as a clear example of nepotism and co
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 53K</span>
+                                    <span style="color: #9ca3af;">👁️ 106K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 600</span>
+                                    <span style="color: #9ca3af;">👍 653</span>
                                 </div>
                                 
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 157</span>
-                                </div>
                                 
                             </div>
                             
@@ -2379,7 +2272,7 @@ Democratic lawmakers have blasted the deal as a clear example of nepotism and co
                             <div class="video-meta-line">
                                 
                                 <div class="video-meta-item">
-                                    <span data-timestamp="1777072746.0"></span>
+                                    <span data-timestamp="1776648645.0"></span>
                                 </div>
                                 
                             </div>
@@ -2387,24 +2280,86 @@ Democratic lawmakers have blasted the deal as a clear example of nepotism and co
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=mcJYlIDCiLk', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=rEB2PwhSlq0', '_blank')">
                     <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/mcJYlIDCiLk/hqdefault.jpg');">
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/rEB2PwhSlq0/hqdefault.jpg');">
                         
-                        <span class="duration-badge">8:06</span>
+                        <span class="duration-badge">0:30</span>
                         
                     </div>
 
                     <div class="video-content">
                         <!-- Video title (fixed 2-line height) -->
                         <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=mcJYlIDCiLk" target="_blank" onclick="event.stopPropagation();">Humanoid robot beats half-marathon world record set by Ugandan runner Jacob Kiplimo</a>
+                            <a href="https://www.youtube.com/watch?v=rEB2PwhSlq0" target="_blank" onclick="event.stopPropagation();">🔥🤖 Honor was the Half-Marathon Dark Horse—1, 2, 3! #robot  #humanoidrobot #marathon #ai</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/5TowqzBU7hQ_XP9N1ZkCWaXuEhPemOBcC9WwfO6oM3DF0VBzbzGMNe0SjrdtxbZ2G8qkLqux=s88-c-k-c0x00ffffff-no-rj" alt="XRoboHub" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCt22Df5wpyliVvk_Z5bllyA" target="_blank" onclick="event.stopPropagation();">XRoboHub</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 165K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 2K</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 194</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1776792385.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=oLdVcsttB_A', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/oLdVcsttB_A/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">0:37</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=oLdVcsttB_A" target="_blank" onclick="event.stopPropagation();">Humanoid robots race past humans in Beijing half-marathon</a>
                         </div>
 
                         <!-- Video description (if available) -->
                         
                         <div class="video-description">
-                            CNBC's Steve Sedgwick, Elaine Yu, and Arjun Kharpal discuss China's humanoid robotics industry — on full display at a ...
+                            Dozens of Chinese-made humanoid robots showed off their fast-improving athleticism as they whizzed past human runners in a ...
                         </div>
                         
 
@@ -2415,9 +2370,9 @@ Democratic lawmakers have blasted the deal as a clear example of nepotism and co
                                 
                                 <div class="video-meta-item video-channel">
                                     
-                                    <img src="https://yt3.ggpht.com/reAoyh6sprn7BR-YSWCOc0MHmvvey_tx_NeCZ5jKZw6ezRsVrRA_HMTu3E0rCp9ip37TptDJWw=s88-c-k-c0x00ffffff-no-rj" alt="CNBC International Live" class="channel-avatar">
+                                    <img src="https://yt3.ggpht.com/ytc/AIdro_nDo1i4jEe90wqB2OCDy57NjTMVUHo1o7vFBjLzVzLeBQI=s88-c-k-c0x00ffffff-no-rj" alt="Guardian News" class="channel-avatar">
                                     
-                                    <a href="https://www.youtube.com/channel/UCF8HUTbUwPKh2Q-KpGOCVGw" target="_blank" onclick="event.stopPropagation();">CNBC International Live</a>
+                                    <a href="https://www.youtube.com/channel/UCIRYBXDze5krPDzAEOxFGVA" target="_blank" onclick="event.stopPropagation();">Guardian News</a>
                                 </div>
                                 
                             </div>
@@ -2426,16 +2381,16 @@ Democratic lawmakers have blasted the deal as a clear example of nepotism and co
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 55K</span>
+                                    <span style="color: #9ca3af;">👁️ 96K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 715</span>
+                                    <span style="color: #9ca3af;">👍 252</span>
                                 </div>
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 319</span>
+                                    <span style="color: #9ca3af;">💬 105</span>
                                 </div>
                                 
                             </div>
@@ -2445,7 +2400,73 @@ Democratic lawmakers have blasted the deal as a clear example of nepotism and co
                             <div class="video-meta-line">
                                 
                                 <div class="video-meta-item">
-                                    <span data-timestamp="1776661305.0"></span>
+                                    <span data-timestamp="1776597173.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=68NxYIAzbkY', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/68NxYIAzbkY/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">5:09</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=68NxYIAzbkY" target="_blank" onclick="event.stopPropagation();">VEX V5 Robotics Competition : Override | 2026-2027 Game</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            SUBSCRIBE: https://www.vex.com/YouTube ----------------------------------------------------------------------- VEX V5 Robotics Competition ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/5lzewzjUgaUmU6t7Ri_EhCKN5THw9Mz7gX9M3b_AgtqZiJQjoq8nFr9qzREAp8D88nNasBGafA=s88-c-k-c0x00ffffff-no-rj" alt="VEX Robotics" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UC7jrVEiBjPrOM7-RZSAoebg" target="_blank" onclick="event.stopPropagation();">VEX Robotics</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 87K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 2K</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 566</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1777073429.0"></span>
                                 </div>
                                 
                             </div>
@@ -2473,7 +2494,7 @@ Democratic lawmakers have blasted the deal as a clear example of nepotism and co
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-04-26T00:03:04.717005+00:00">Updated 2026-04-26T00:03:04.717005+00:00</small>
+        <small data-timestamp="2026-04-26T04:02:17.648362+00:00">Updated 2026-04-26T04:02:17.648362+00:00</small>
     </div>
 </div>
 

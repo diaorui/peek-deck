@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-26T00:03:14.416000+00:00'
+updated: '2026-04-26T04:02:31.112817+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 26, 2026 at 00:03 UTC  
+**Last Updated:** April 26, 2026 at 04:02 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,15 +32,39 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[A smarter approach on autonomous exploration](https://www.reddit.com/r/robotics/comments/1sv7le7/a_smarter_approach_on_autonomous_exploration/)**
+**[I built a free open source CAN bus analyzer - would love feedback from the community](https://www.reddit.com/r/robotics/comments/1svoxqm/i_built_a_free_open_source_can_bus_analyzer_would/)**
 
-14h ago
+Hey, I've been building CANviz - a browser-based CAN bus analyzer. pip install, plug in any USB CAN adapter, opens in your browser. No GUI app to install, works with low cost hardware. Just shipped v0.2.0 with live signal plotting and bus health stats. CANopen support (CiA 301 + CiA 402) is coming next. Would love to hear what you'd find most useful. Hackaday wrote it up here if you want more detail: https://hackaday.com/2026/04/21/can-bus-analyzer-runs-in-your-browser/ GitHub: https://github.com/Chanchaldhiman/CANviz
+
+6h ago
 
 ---
 
 **[Thought-controlled robotic arm by Neuralink aimed at restoring independence for paralyzed patients](https://www.reddit.com/r/robotics/comments/1svh8t5/thoughtcontrolled_robotic_arm_by_neuralink_aimed/)**
 
-7h ago
+11h ago
+
+---
+
+**[Robotics builders I'm currently looking for beta testers for JASM!](https://www.reddit.com/r/robotics/comments/1svvpoe/robotics_builders_im_currently_looking_for_beta/)**
+
+u/mods if this breaks the rules take it down. I'm looking for beta testers who are not afraid to break things, the end goal here is to make the worlds most easy to use, fully featured servo controlling software, and I'm building it while also building characters to test it with. Here's the rundown: JASM - Jester's Animatronic Servo Mapper Ever bought a bunch of servos, wired them up to a PCA9685, and then sat there wondering "now what?" Yeah. That's the problem this solves. What it actually does: You plug in your board (supports 50 different MCUs - ESP32, Arduino, Raspberry Pi Pico, etc.), click Upload Firmware, connect, and you're moving servos with sliders in under 5 minutes. No Arduino IDE. No code. No libraries to install. Things that used to be painful that aren't anymore: Making smooth movements - Every channel has its own speed control, EMA smoothing, and Bezier easing. No more jerky servos snapping from one position to another. Recording performances - Hit record, move the sliders (or use a gamepad), and it saves the whole thing synced to audio. Layer channels one at a time like a multitrack recorder. Lip sync - Load a vocal track and it auto-generates jaw movement from a phoneme dictionary. No manual keyframing. Text to Speech - Type a script, hit Perform, and your animatronic speaks it with automatic lip sync, idle animations (blinks, eye movement, ear twitches), and expression changes. Uses the Inworld API with your own account. Gamepad puppeteering - Map any Xbox/PS controller stick or button to any servo channel. Puppeteer the whole head live. Standalone playback - Upload animations to the board and it runs without a computer. Power it up and it goes. Supports button triggers, PIR sensors, or auto-loop. Servo limits - Set min/max/neutral for every channel so you never strip a gear or slam into a physical stop again. Who it's for: Animatronics builders, Halloween prop makers, cosplayers, fursuit makers, anyone doing museum exhibits or trade show displays. If you've got servos and an idea, this is the program. If you would like to be a beta tester and you have some experience with servos and MCU's DM me here. Discord is empty right now, as I have literally just started it.
+
+1h ago
+
+---
+
+**[A smarter approach on autonomous exploration](https://www.reddit.com/r/robotics/comments/1sv7le7/a_smarter_approach_on_autonomous_exploration/)**
+
+18h ago
+
+---
+
+**[made a slider extension for SO101 arm](https://www.reddit.com/r/robotics/comments/1svuir7/made_a_slider_extension_for_so101_arm/)**
+
+i bet you haven't seen a SO101 mounted on a wall like this before if you want to do the same, here is LeSlider: https://github.com/pham-tuan-binh/leslider i built it cause i wanted something that can cover my whole desk for tasks like organizing and cleaning i originally wanted to have a belt system like what 3D printers have, but i was too lazy and used a pinion/track with another sts3215 so: > the extra motor shares the same bus as the rest of SO101 > you can have arbitrary length of track > really cheap and easy to assemble and control it turned out better than expected with this, i'm gonna train a model to pick random stuff up across my table and put it into a bin at the end of table (realistically using yolo to scan table, two policies, one for picking up objects, one for dropping)
+
+2h ago
 
 ---
 
@@ -48,15 +72,15 @@ Robotics research and industry news
 
 From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2047765371734704574
 
-15h ago
+19h ago
 
 ---
 
-**[I built a free open source CAN bus analyzer - would love feedback from the community](https://www.reddit.com/r/robotics/comments/1svoxqm/i_built_a_free_open_source_can_bus_analyzer_would/)**
+**[Scientists Create “Liquid Gears” That Spin Without Touching](https://www.reddit.com/r/robotics/comments/1svwuk8/scientists_create_liquid_gears_that_spin_without/)**
 
-Hey, I've been building CANviz - a browser-based CAN bus analyzer. pip install, plug in any USB CAN adapter, opens in your browser. No GUI app to install, works with low cost hardware. Just shipped v0.2.0 with live signal plotting and bus health stats. CANopen support (CiA 301 + CiA 402) is coming next. Would love to hear what you'd find most useful. Hackaday wrote it up here if you want more detail: https://hackaday.com/2026/04/21/can-bus-analyzer-runs-in-your-browser/ GitHub: https://github.com/Chanchaldhiman/CANviz
+"Fluid gears" invention shows promise for improving mechanical devices.
 
-2h ago
+🔗 [SciTechDaily](https://scitechdaily.com/scientists-create-liquid-gears-that-spin-without-touching/) • 8m ago
 
 ---
 
@@ -64,15 +88,7 @@ Hey, I've been building CANviz - a browser-based CAN bus analyzer. pip install, 
 
 For beginners wanting to get started with the SO-101 arm, I found that there are a lot of hurdles to jump through. From the current documentation, while a great resource for those with intermediate knowledge of robotics, isn't a great resource for beginners as it requires knowledge of git, terminal commands, assembly, wiring, and much more in the robotic world. So I made a 2.5h course that walks beginners through how to train your won ACT model with the SO-101 arm. Understandably, the official LeRobot documentation can't step users through every step/debug step possible, as that would make things far too long for experienced users wanting to get in, who their target audience is I imagine. That said, the ACT model is such a useful training model for beginners to understand/comprehend and use, that I wanted to create an easier on-boarding path for beginners getting started. Would love to hear your thoughts.
 
-🔗 [youtu.be](https://youtu.be/p6YIkDhPNyo) • 6h ago
-
----
-
-**[Finally built a cyberpunk desktop cat that actually syncs its mouth when talking](https://www.reddit.com/r/robotics/comments/1sv0vdj/finally_built_a_cyberpunk_desktop_cat_that/)**
-
-Been building this ai desktop robot cat lately and tbh the visual feedback is everything. we’re using a 410×502 hd retina screen, and the real-device visual effect is honestly very impressive. pictures really don't do it justice. getting the voice to match the mouth was a nightmare tho. we use an algorithm to extract lip-sync phonemes and align them with the audio, and we also apply optimization methods to make the mouth transitions look natural. it runs on an esp32 rn but we are working on a linux version. kinda just wanted a companion on my desk while i code that actually feels alive, not just a static screen. i usually keep it right below my monitor. having it handle my quick queries or just react to me talking in the room makes a huge difference. watching it react in real time is pretty wild.
-
-20h ago
+🔗 [youtu.be](https://youtu.be/p6YIkDhPNyo) • 10h ago
 
 ---
 
@@ -92,23 +108,25 @@ Hi r/robotics, We’re the team from Hertzinno, and we develop industrial acoust
 
 ---
 
-**[Good examples of sim manipulation](https://www.reddit.com/r/robotics/comments/1sv25k3/good_examples_of_sim_manipulation/)**
-
-Hi All, I am currently working on so101 and am familiar with data collection, training, eval following the lerobot recipes. I wanted to go further and learn better about how to do the same in simulation and use that as a starting point for doing RL from IM. Are there any good guides? Anyone done this before? I understand this might not be a standard path especially with sim-real gap. However wanted to go down this path to better understand the concepts and learn (plus AI tools recommended it)
-
-19h ago
-
----
-
-**[Spin-tracking robot takes on elite table-tennis players - SonyAI](https://www.reddit.com/r/robotics/comments/1stuamz/spintracking_robot_takes_on_elite_tabletennis/)**
-
-2d ago
-
----
-
 ---
 
 ## Google News: "robotics"
+
+**[New e-skin gives robotic hand sense of touch in breakthrough test](https://interestingengineering.com/ai-robotics/flexible-electronics-electronic-skin-soft-robots-turku-study)**
+
+Researchers develop flexible, stretchable electronic skin and soft robots inspired by nature at University of Turku.
+
+Interesting Engineering • 1d ago
+
+---
+
+**[Pudu Robotics raises nearly $150M as it targets industrial applications](https://www.therobotreport.com/pudu-robotics-raises-nearly-150m-targets-industrial-applications/)**
+
+Pudu plans to use the funding to develop its embodied AI, grow its product portfolio, and expand in global markets beyond service robots.
+
+The Robot Report • 2d ago
+
+---
 
 **['Self-aware' robots can learn complex tasks by watching humans. Is that a good thing?](https://www.npr.org/2026/04/24/nx-s1-5797863/self-aware-robots-future-laundry-work-home)**
 
@@ -118,11 +136,11 @@ NPR • 1d ago
 
 ---
 
-**[New e-skin gives robotic hand sense of touch in breakthrough test](https://interestingengineering.com/ai-robotics/flexible-electronics-electronic-skin-soft-robots-turku-study)**
+**[How I taught myself to code, quit my consulting job, and started an AI robotics firm by age 25](https://www.businessinsider.com/consultant-turned-ai-robotics-founder-career-lessons-bcg-remy-2026-4)**
 
-Researchers develop flexible, stretchable electronic skin and soft robots inspired by nature at University of Turku.
+Oscar Brisset, 25, used most of his vacation days to learn to code. He left BCG to launch a YC-backed AI robotics company.
 
-Interesting Engineering • 1d ago
+Business Insider • 20h ago
 
 ---
 
@@ -142,11 +160,23 @@ CBS News • 1d ago
 
 ---
 
-**[This Ukrainian company is upgrading its battlefield robots like smartphones. Here's how it's chasing the edge in combat.](https://www.businessinsider.com/this-ukrainian-company-is-upgrading-war-robots-like-smartphones-2026-4)**
+**[Eric Trump Touts $24 Million Pentagon Contract Awarded to His Robotics Company](https://www.democracynow.org/2026/4/24/headlines/eric_trump_touts_24_million_pentagon_contract_awarded_to_his_robotics_company)**
 
-Ukrainian combat robot maker DevDroid says it has to make constant updates to avoid becoming obsolete on the battlefield.
+President Trump’s son Eric Trump is touting a $24 million Pentagon contract awarded to the robotics firm Foundation Future Industries, where he serves as chief strategy adviser. The contract will fund testing of its “Phantom” humanoid robots for future military applications. Here’s Eric Trump speaking on Fox Business about the deal.
 
-Business Insider • 14h ago
+Eric Trump: “You know, I got involved with crypto in a very big way because we had to win that digital revolution. We have to win robotics in the United States of America.”
+
+Democratic lawmakers have blasted the deal as a clear example of nepotism and corruption. Massachusetts Senator Elizabeth Warren wrote, “Is the Pentagon just a cash machine for Trump’s kids now? This looks like corruption in plain sight.”
+
+Democracy Now! • 1d ago
+
+---
+
+**[UK construction firm puts humanoid robot in-charge of site inspections](https://interestingengineering.com/ai-robotics/humanoid-robot-administrative-job-uk-construction-site)**
+
+UK-based firm Tilbury Douglas has officially deployed the humanoid robot on a live construction site in an administrative role.
+
+Interesting Engineering • 2d ago
 
 ---
 
@@ -166,43 +196,27 @@ Nikkei Asia • 2d ago
 
 ---
 
-**[Eric Trump Touts $24 Million Pentagon Contract Awarded to His Robotics Company](https://www.democracynow.org/2026/4/24/headlines/eric_trump_touts_24_million_pentagon_contract_awarded_to_his_robotics_company)**
-
-President Trump’s son Eric Trump is touting a $24 million Pentagon contract awarded to the robotics firm Foundation Future Industries, where he serves as chief strategy adviser. The contract will fund testing of its “Phantom” humanoid robots for future military applications. Here’s Eric Trump speaking on Fox Business about the deal.
-
-Eric Trump: “You know, I got involved with crypto in a very big way because we had to win that digital revolution. We have to win robotics in the United States of America.”
-
-Democratic lawmakers have blasted the deal as a clear example of nepotism and corruption. Massachusetts Senator Elizabeth Warren wrote, “Is the Pentagon just a cash machine for Trump’s kids now? This looks like corruption in plain sight.”
-
-Democracy Now! • 1d ago
-
----
-
-**[IDF Unveils AI-Powered Robotic Warfare System, Breakthrough Artillery Against Hezbollah](https://www.algemeiner.com/2026/04/24/idf-unveils-ai-powered-robotic-warfare-system-breakthrough-artillery-against-hezbollah/)**
-
-Smoke rises from a village in southern Lebanon as the Israeli army operates in it as seen from the Israeli …
-
-Algemeiner.com • 1d ago
-
----
-
-**[Physical AI: Where Artificial Intelligence Rubber Meets The Road](https://www.investors.com/news/physical-ai-jensen-huang-nvidia-artificial-intelligence-robotics/)**
-
-Investor's Business Daily • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
 
-**[I Bought 200 Robot Vacuums — Here&#39;s The Only One Worth Your Money in 2026!](https://www.youtube.com/watch?v=i_vPlTcRxp8)**
+**[NEW Shoggoth Robot Is Bizarre... NEW Stretch Attack Ability Is Wild | War Robots](https://www.youtube.com/watch?v=cvzlozoeJ5o)**
 
-What is the best robot vacuum in 2026? After testing over 200 robot vacuums with my own money, one model still stands above ...
+New Spider Shoggoth Robot. This is so weird. We got a new robot on the test server and it has a brand new ability. 2 Medium 2 ...
 
-📺 Just A Dad Approved
+📺 PREDATOR WR
 
-👁️ 4K • 👍 195 • 💬 43 • ⏱️ 13:40 • 12h ago
+👁️ 18K • 👍 587 • 💬 188 • ⏱️ 15:36 • 16h ago
+
+---
+
+**[Chinese humanoid robots outrun humans in half-marathon, setting records](https://www.youtube.com/watch?v=k5_Tlgvt-c8)**
+
+Over a hundred Chinese-made humanoid robots participated in a half-marathon race in Beijing on Sunday. The second inaugural ...
+
+📺 Global News
+
+👁️ 212K • 👍 2K • 💬 140 • ⏱️ 0:46 • 6d ago
 
 ---
 
@@ -212,27 +226,7 @@ AGIBOT just rolled out a full new wave of humanoid robots and AI models built fo
 
 📺 AI Revolution
 
-👁️ 37K • 👍 832 • 💬 66 • ⏱️ 16:29 • 4d ago
-
----
-
-**[NEW Shoggoth Robot Is Bizarre... NEW Stretch Attack Ability Is Wild | War Robots](https://www.youtube.com/watch?v=cvzlozoeJ5o)**
-
-New Spider Shoggoth Robot. This is so weird. We got a new robot on the test server and it has a brand new ability. 2 Medium 2 ...
-
-📺 PREDATOR WR
-
-👁️ 16K • 👍 540 • 💬 175 • ⏱️ 15:36 • 12h ago
-
----
-
-**[Russian soldiers surrender to both aerial drones and ground robots on front line](https://www.youtube.com/watch?v=aLU88wt-BTM)**
-
-Kanal13​ #likekanal13​ #subscribekanal13 #warinukraine https://www.youtube.com/user/kanal13az?sub_confirmation=1 ...
-
-📺 Kanal13
-
-👁️ 18K • 👍 382 • 💬 10 • ⏱️ 4:03 • 20h ago
+👁️ 37K • 👍 834 • 💬 66 • ⏱️ 16:29 • 5d ago
 
 ---
 
@@ -242,17 +236,7 @@ For the first time, an AI-powered machine has bested elite-level athletes at a p
 
 📺 nature video
 
-👁️ 107K • 👍 2K • 💬 212 • ⏱️ 13:38 • 3d ago
-
----
-
-**[Chinese humanoid robot beats world record for fastest human half-marathon | ABC NEWS](https://www.youtube.com/watch?v=tcfAm3hNQbk)**
-
-A humanoid robot has beaten the human record for the world's fastest half-marathon by finishing in just over 50 minutes. Dozens ...
-
-📺 ABC News (Australia)
-
-👁️ 106K • 👍 654 • ⏱️ 6:44 • 5d ago
+👁️ 108K • 👍 2K • 💬 220 • ⏱️ 13:38 • 3d ago
 
 ---
 
@@ -262,37 +246,55 @@ In Beijing, a humanoid robot just completed a 21-kilometer half-marathon in an a
 
 📺 Capital Markets AI
 
-👁️ 37K • 👍 670 • 💬 155 • ⏱️ 8:58 • 6d ago
+👁️ 37K • 👍 671 • 💬 158 • ⏱️ 8:58 • 6d ago
 
 ---
 
-**[America&#39;s largest AI robot data factory is in Watertown, Massachusetts](https://www.youtube.com/watch?v=9sjfGfBkTuU)**
+**[🤖 No repeat win, still stole the show—TienKung Ultra ate this race. #humanoidrobot #ai #robotics](https://www.youtube.com/watch?v=LPK7x5WV9Ss)**
 
-Robots are learning to do simple human tasks in Watertown, Massachusetts. WBZ-TV's Alyssa Andrews reports. For video ...
+TienKung Ultra finished the full 21.0975 km in 1:15:00 — fully autonomous, zero human intervention. No repeat win this time.
 
-📺 CBS Boston
+📺 XRoboHub
 
-👁️ 7K • 👍 112 • 💬 23 • ⏱️ 2:36 • 1d ago
-
----
-
-**[Table-tennis-playing robot makes history by beating elite human players](https://www.youtube.com/watch?v=7UKiNNxPkAU)**
-
-Ace, a ping-pong-playing robot, is the first to beat elite human players in a competitive sport, according to Sony AI. It's a big ...
-
-📺 NBC News
-
-👁️ 53K • 👍 600 • 💬 157 • ⏱️ 4:14 • 1d ago
+👁️ 2.5M • 👍 20K • 💬 2K • ⏱️ 0:39 • 6d ago
 
 ---
 
-**[Humanoid robot beats half-marathon world record set by Ugandan runner Jacob Kiplimo](https://www.youtube.com/watch?v=mcJYlIDCiLk)**
+**[Chinese humanoid robot beats world record for fastest human half-marathon | ABC NEWS](https://www.youtube.com/watch?v=tcfAm3hNQbk)**
 
-CNBC's Steve Sedgwick, Elaine Yu, and Arjun Kharpal discuss China's humanoid robotics industry — on full display at a ...
+A humanoid robot has beaten the human record for the world's fastest half-marathon by finishing in just over 50 minutes. Dozens ...
 
-📺 CNBC International Live
+📺 ABC News (Australia)
 
-👁️ 55K • 👍 715 • 💬 319 • ⏱️ 8:06 • 5d ago
+👁️ 106K • 👍 653 • ⏱️ 6:44 • 6d ago
+
+---
+
+**[🔥🤖 Honor was the Half-Marathon Dark Horse—1, 2, 3! #robot  #humanoidrobot #marathon #ai](https://www.youtube.com/watch?v=rEB2PwhSlq0)**
+
+📺 XRoboHub
+
+👁️ 165K • 👍 2K • 💬 194 • ⏱️ 0:30 • 4d ago
+
+---
+
+**[Humanoid robots race past humans in Beijing half-marathon](https://www.youtube.com/watch?v=oLdVcsttB_A)**
+
+Dozens of Chinese-made humanoid robots showed off their fast-improving athleticism as they whizzed past human runners in a ...
+
+📺 Guardian News
+
+👁️ 96K • 👍 252 • 💬 105 • ⏱️ 0:37 • 6d ago
+
+---
+
+**[VEX V5 Robotics Competition : Override | 2026-2027 Game](https://www.youtube.com/watch?v=68NxYIAzbkY)**
+
+SUBSCRIBE: https://www.vex.com/YouTube ----------------------------------------------------------------------- VEX V5 Robotics Competition ...
+
+📺 VEX Robotics
+
+👁️ 87K • 👍 2K • 💬 566 • ⏱️ 5:09 • 1d ago
 
 ---
 

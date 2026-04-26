@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-26T00:03:14.412814+00:00'
+updated: '2026-04-26T04:02:31.109622+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- social
-- news
 - cryptocurrency
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 26, 2026 at 00:03 UTC  
+**Last Updated:** April 26, 2026 at 04:02 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** +2.5%  
-**30d:** +16.3%  
-**90d:** -20.9%  
-**1y:** +27.3%  
+**24h:** -0.3%  
+**7d:** -0.2%  
+**30d:** +15.7%  
+**90d:** -23.7%  
+**1y:** +28.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $279.90B
+**Market Cap:** $278.82B
 Rank #2
 
-**Circulating Supply:** 120,688,915 ETH
+**Circulating Supply:** 120,688,830 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--53.1%
+-53.3%
 
 **All-Time Low:** $0.43
-+535445.6%
++533459.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 I wanted to share something interesting that happened recently. Etherscan added an info note to the Unicorn Meat token page that reads: "This token was created by Avsa of the Ethereum Foundation. Read more about it in this post." The link goes to a tweet from the official @ethereum account from April 1, 2016 announcing "the Unicorn Meat Grinder Smart Contract and Bribable DAO" by @avsa. For those who don't know the backstory: Alex Van de Sande (avsa) was one of Ethereum's earliest core team members. He built the Mist Browser, the Ethereum Wallet, and co-created ENS. In early 2016 he deployed a set of contracts as part of the ethereum.org tutorials, including the Unicorns token and the Unicorn Meat Grinder, a DAO that let you convert Unicorns into Unicorn Meat through on-chain governance. The contracts were deployed from his same wallet that deployed the Foundation Tip Jar, which Alex made on behalf of the Foundation to raise money and donors received Unicorn tokens. So the provenance chain is: same deployer address, multiple Etherscan-labeled EF contracts, and now an official Etherscan note confirming the connection. What makes this historically interesting: The Meat Grinder was one of the first DAOs on Ethereum, predating The DAO by months. It used a proposal and voting system where token holders could vote on actions like grinding Unicorns into Meat. It introduced one of the first token upgrade patterns. The Unicorn-to-Meat conversion was essentially a token migration mechanism, something that became standard practice years later. The contracts were based on the ethereum.org tutorials that avsa wrote to teach developers how to build on Ethereum. These tutorials were how an entire generation of Solidity developers learned the language. We've been working on documenting and verifying the source code of these contracts on EthereumHistory, including cracking the bytecode of contracts that were never verified on Etherscan. We recently launched a Collections feature that groups all contracts by their deployer, starting with avsa's 60 contracts and Vitalik's 66 contracts. We also recently cracked and verified the Meat Grinder's source code on Etherscan. The source had been sitting in avsa's public GitHub gist for 10 years but was never formally verified on-chain. The challenge was figuring out the exact compiler settings: these contracts predate Solidity 0.4, so there's no metadata hash in the bytecode to help identify the version. We had to work through early solc releases until we found that solc 0.2.1 with default optimization produced an exact byte-for-byte match against the on-chain runtime bytecode. Once confirmed, we submitted it to both Sourcify and Etherscan, so anyone can now read the original Solidity source directly on Etherscan and verify it themselves. It's a small thing, but these early contracts are historical artifacts. Having their source verified on-chain means the code is permanently readable and auditable, not just sitting in a gist that could disappear. If anyone is interested in Ethereum's early contract history, the provenance page has the full chain of evidence laid out, and EthereumHistory is an open platform where anyone can help document contracts.
 
-1h ago
+5h ago
 
 ---
 
@@ -80,7 +80,7 @@ I wanted to share something interesting that happened recently. Etherscan added 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-19h ago
+23h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 been spending way too much time looking at the recent string of defi exploits and the amount of supply locked up in the same three lst platforms is honestly giving me anxiety. having that much of the network reliant on a few centralized points of failure makes me paranoid about massive tail risks. every time the market swings i find myself wanting to hedge this exposure, but the options are terrible. you either convert to fiat and trigger taxable events, or you play russian roulette with wrapped assets and multisig bridges that seem to get drained every other week. i went down a rabbit hole last night trying to find a way to secure my yields natively, maybe even hedging with digital gold or something stable, without fragmenting my liquidity across a dozen vulnerable front-ends. what are you guys actually doing to protect your bags long term? are we just stuck choosing between bare validator yields and accepting the centralized lst risk? curious if anyone has found a trust-minimized way to hedge this without leaving the ecosystem.
 
-10h ago
+14h ago
 
 ---
 
@@ -168,6 +168,14 @@ CryptoPotato • 1d ago
 
 ---
 
+**[Better Growth Investment to Buy With $500: Ethereum vs. Strategy](https://www.fool.com/investing/2026/04/25/better-growth-investment-to-buy-with-500-ethereum/)**
+
+These two assets take very different approaches to generating value.
+
+The Motley Fool • 1h ago
+
+---
+
 **[BitMine’s Tom Lee Sees Ethereum’s Price Reaching $250,000](https://finance.yahoo.com/markets/crypto/articles/bitmine-tom-lee-sees-ethereum-135000677.html)**
 
 Tom Lee, the chairman of BitMine Immersion Technologies (NYSE: $BMNR) sees the price of Ethereum (CRYPTO: $ETH) eve...
@@ -176,11 +184,11 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Is Owning Just Bitcoin and Ethereum Enough for a Crypto Portfolio?](https://www.fool.com/investing/2026/04/23/is-owning-just-bitcoin-and-ethereum-enough-for-a-c/)**
+**[Kelp DAO exploit leaves AAVE with $196M bad debt, Ethereum market steady](https://cryptobriefing.com/kelp-dao-exploit-leaves-aave-with-196m-bad-debt-ethereum-market-steady/)**
 
-Simple portfolios can often outperform overly complicated ones.
+Kelp DAO exploit leaves AAVE with $196M bad debt, but Ethereum's market remains steady; ETH reaching $10K by December 31, 2026 at 4% YES.
 
-The Motley Fool • 2d ago
+Crypto Briefing • 4h ago
 
 ---
 
@@ -190,25 +198,9 @@ Barron's • 2d ago
 
 ---
 
-**[Grayscale stakes 102,400 ETH via Ethereum Staking ETF, valued at $237M](https://cryptobriefing.com/grayscale-stakes-102400-eth-via-ethereum-staking-etf-valued-at-237m/)**
-
-Grayscale staked 102,400 ETH worth $237M via its Ethereum Staking ETF. Ethereum reaching $10,000 by December 31, 2026 at 4% YES.
-
-Crypto Briefing • 19h ago
-
----
-
 **[XRP vs Ethereum: Which Digital Giant Will Explode to Make You the Most Money in 2026?](https://www.tipranks.com/news/xrp-vs-ethereum-which-digital-giant-will-explode-to-make-you-the-most-money-in-2026)**
 
 TipRanks • 1d ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC holds gains, ETH eyes breakout, XRP defends key support](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-holds-gains-eth-eyes-breakout-xrp-defends-key-support-202604240334)**
-
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) are supporting a constructive outlook on Friday after surging by 6%, 2% and 3% so far this week, respectively.
-
-FXStreet • 1d ago
 
 ---
 
@@ -220,11 +212,17 @@ Benzinga • 2d ago
 
 ---
 
-**[Ethereum: Holds Bullish Structure](https://blockchain.news/flashnews/ethereum-holds-bullish-structure)**
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC holds gains, ETH eyes breakout, XRP defends key support](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-holds-gains-eth-eyes-breakout-xrp-defends-key-support-202604240334)**
 
-Ethereum maintains bullish symmetrical triangle amid $2316.7 price, with key ranges over five years signaling potential upside despite bearish 4h trends.
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) are supporting a constructive outlook on Friday after surging by 6%, 2% and 3% so far this week, respectively.
 
-blockchain.news • 1h ago
+FXStreet • 2d ago
+
+---
+
+**[Ethereum Price Prediction Targets Record Highs as Bitmine Loads 4.98M ETH, But This Best Crypto to Buy Now Could 100x First](https://financefeeds.com/ethereum-price-prediction-targets-record-highs-as-bitmine-loads-4-98m-eth-but-this-best-crypto-to-buy-now-could-100x-first/)**
+
+FinanceFeeds • 2h ago
 
 ---
 
@@ -238,7 +236,7 @@ THEY ARE PREDICTING - $500K BITCOIN, $40K ETHEREUM, AND $50 XRP BY THIS DATE! GE
 
 📺 Austin Hilton
 
-👁️ 6K • 👍 384 • 💬 31 • ⏱️ 9:47 • 7h ago
+👁️ 8K • 👍 449 • 💬 68 • ⏱️ 9:47 • 11h ago
 
 ---
 
@@ -248,27 +246,7 @@ Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ De
 
 📺 Tyler Hill Crypto
 
-👁️ 3K • 👍 165 • 💬 118 • ⏱️ 13:36 • 9h ago
-
----
-
-**[The First Institutional Crypto Bull Market Has Begun (Retail Has No Idea)](https://www.youtube.com/watch?v=vp_WM6y4gsQ)**
-
-Crypto is getting weirdly quiet… but not for the reasons most people think. Retail is exhausted, sentiment is flat, and everyone on ...
-
-📺 Crypto Capital Venture
-
-👁️ 6K • 👍 498 • 💬 224 • ⏱️ 13:40 • 8h ago
-
----
-
-**[Tom Lee: Ethereum&#39;s &#39;Surprise of the Year&#39; Just Started (2026 ETH Prediction](https://www.youtube.com/watch?v=iE8700MrZQY)**
-
-"UNBELIEVABLE! Ethereum's About to Pull the Surprise of the Year": Tom Lee | (New Prediction 2026) Something is wrong with ...
-
-📺 Library Of Wealth
-
-👁️ 984 • 👍 44 • 💬 133 • ⏱️ 16:26 • 1d ago
+👁️ 3K • 👍 180 • 💬 123 • ⏱️ 13:36 • 13h ago
 
 ---
 
@@ -278,7 +256,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 15K • 👍 452 • 💬 53 • ⏱️ 23:11 • 2d ago
+👁️ 16K • 👍 457 • 💬 53 • ⏱️ 23:11 • 2d ago
+
+---
+
+**[The First Institutional Crypto Bull Market Has Begun (Retail Has No Idea)](https://www.youtube.com/watch?v=vp_WM6y4gsQ)**
+
+Crypto is getting weirdly quiet… but not for the reasons most people think. Retail is exhausted, sentiment is flat, and everyone on ...
+
+📺 Crypto Capital Venture
+
+👁️ 7K • 👍 541 • 💬 251 • ⏱️ 13:40 • 12h ago
 
 ---
 
@@ -288,17 +276,7 @@ Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bi
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 3K • 👍 80 • 💬 19 • ⏱️ 8:31 • 1d ago
-
----
-
-**[Ethereum Leading the Next Altcoin Repricing? Charts Say Yes](https://www.youtube.com/watch?v=CAWT4GcMcKE)**
-
-Most people are declaring altcoins dead, but the crypto charts tell a completely different story. In this video, I compare Ethereum's ...
-
-📺 Crypto Capital Venture
-
-👁️ 9K • 👍 552 • 💬 144 • ⏱️ 13:20 • 1d ago
+👁️ 3K • 👍 80 • 💬 22 • ⏱️ 8:31 • 1d ago
 
 ---
 
@@ -308,7 +286,27 @@ BITCOIN TRADERS ARE MAKING THE SAME MISTAKE!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 4K • 👍 227 • 💬 84 • ⏱️ 19:39 • 6h ago
+👁️ 5K • 👍 263 • 💬 103 • ⏱️ 19:39 • 10h ago
+
+---
+
+**[Ethereum Leading the Next Altcoin Repricing? Charts Say Yes](https://www.youtube.com/watch?v=CAWT4GcMcKE)**
+
+Most people are declaring altcoins dead, but the crypto charts tell a completely different story. In this video, I compare Ethereum's ...
+
+📺 Crypto Capital Venture
+
+👁️ 9K • 👍 552 • 💬 143 • ⏱️ 13:20 • 1d ago
+
+---
+
+**[Tom Lee: Ethereum&#39;s &#39;Surprise of the Year&#39; Just Started (2026 ETH Prediction](https://www.youtube.com/watch?v=iE8700MrZQY)**
+
+"UNBELIEVABLE! Ethereum's About to Pull the Surprise of the Year": Tom Lee | (New Prediction 2026) Something is wrong with ...
+
+📺 Library Of Wealth
+
+👁️ 1K • 👍 43 • 💬 133 • ⏱️ 16:26 • 1d ago
 
 ---
 
@@ -318,7 +316,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 172 • 👍 9 • 💬 2 • ⏱️ 4:34 • 15h ago
+👁️ 192 • 👍 9 • 💬 2 • ⏱️ 4:34 • 19h ago
 
 ---
 
@@ -328,7 +326,7 @@ Ethereum is consolidating just below a descending trend line that has been with 
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 220 • 💬 21 • ⏱️ 10:43 • 1d ago
+👁️ 3K • 👍 224 • 💬 21 • ⏱️ 10:43 • 1d ago
 
 ---
 
