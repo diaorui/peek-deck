@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-26T09:30:33.890438+00:00'
+updated: '2026-04-26T10:25:28.534539+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
 - news
+- videos
+- repositories
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** April 26, 2026 at 09:30 UTC  
+**Last Updated:** April 26, 2026 at 10:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Federal funding for scientific research was already in turmoil.
 
-🔗 [The Verge](https://www.theverge.com/science/918769/trump-fires-the-entire-national-science-board) • 8h ago
+🔗 [The Verge](https://www.theverge.com/science/918769/trump-fires-the-entire-national-science-board) • 9h ago
 
 ---
 
@@ -49,7 +49,7 @@ Federal funding for scientific research was already in turmoil.
 
 Slack messages, interviews with current and former works paint picture of company in turmoil.
 
-🔗 [Ars Technica](https://arstechnica.com/tech-policy/2026/04/palantir-employees-are-talking-about-companys-descent-into-fascism/) • 15h ago
+🔗 [Ars Technica](https://arstechnica.com/tech-policy/2026/04/palantir-employees-are-talking-about-companys-descent-into-fascism/) • 16h ago
 
 ---
 
@@ -57,7 +57,7 @@ Slack messages, interviews with current and former works paint picture of compan
 
 A new survey carried out amongst 12 to 16-year-old boys has found that many of them prefer to use AI chatbots than engage with other people their age.
 
-🔗 [Dexerto](https://www.dexerto.com/entertainment/gen-alpha-boys-are-preferring-ai-girlfriends-over-real-ones-3356718/) • 18h ago
+🔗 [Dexerto](https://www.dexerto.com/entertainment/gen-alpha-boys-are-preferring-ai-girlfriends-over-real-ones-3356718/) • 19h ago
 
 ---
 
@@ -65,7 +65,7 @@ A new survey carried out amongst 12 to 16-year-old boys has found that many of t
 
 But in the wrong way Crazy encounter 🤣 Another reason to use claude daily
 
-12h ago
+13h ago
 
 ---
 
@@ -73,7 +73,7 @@ But in the wrong way Crazy encounter 🤣 Another reason to use claude daily
 
 I'm curious how people are thinking about ROI from agents beyond productivity. A lot of the discussion is still around "this saved me 3 hours" (in some cases wasted more lol) or "this automated a workflow." That's obviously useful, but it feels like a limited way to measure value. For people using agents seriously, are you tracking anything beyond time saved? like for example: - did the agent create something reusable? - did it improve a workflow over time? - did it generate outputs that had value outside the original task? - did it create something others would pay for? - did it help produce knowledge, decisions, or execution that compounds? I'm especially interested in people using agents for coding, research, business ops, content, data work, or niche expert workflows. just want to hear from everyone what does "agent ROI" actually mean to you?
 
-10h ago
+11h ago
 
 ---
 
@@ -81,7 +81,7 @@ I'm curious how people are thinking about ROI from agents beyond productivity. A
 
 Why tech giants are starting to restrict their most capable models from the public.
 
-🔗 [TIME](https://time.com/article/2026/04/24/claude-mythos-chatgpt-rosalind-release-dangerous/) • 14h ago
+🔗 [TIME](https://time.com/article/2026/04/24/claude-mythos-chatgpt-rosalind-release-dangerous/) • 15h ago
 
 ---
 
@@ -89,7 +89,7 @@ Why tech giants are starting to restrict their most capable models from the publ
 
 Now why would he refuse to answer that?
 
-4h ago
+5h ago
 
 ---
 
@@ -97,7 +97,7 @@ Now why would he refuse to answer that?
 
 Been experimenting with a few AI video tools recently to speed up content + ad creation, figured I’d share what actually stood out These tools are getting pretty good, especially if you don’t have a full editing setup or team Here’s a quick breakdown of what I tried: Runway What it does: Text/image to video + editing tools Cool stuff: Good quality outputs, lots of features Best for: Creative experiments, short clips My take: Powerful, but took me a bit to get consistent results Pika What it does: Generates short videos from prompts Cool stuff: Fast and easy to try ideas Best for: Quick social clips My take: Fun to use, but hard to control exact outcomes Synthesia What it does: AI avatar videos with voice Cool stuff: Clean talking head style content Best for: Tutorials, explainers My take: Solid for info content, less useful for ads InVideo AI What it does: Script to full video Cool stuff: Templates + automation Best for: Beginners, quick drafts My take: Easy, but everything started to feel templated Luma Dream Machine What it does: Realistic AI generated scenes Cool stuff: Visually impressive outputs Best for: Cinematic style clips My take: Looks great, but hit or miss depending on prompt Higgsfield What it does: AI video with more control over shots + motion Cool stuff: Can guide camera movement, pacing, structure Best for: Ads or anything that needs to feel intentional My take: Feels closer to actually building a video vs just generating one Biggest takeaways: most tools are great for ideas, not final ads control > randomness if you’re making anything performance focused you’ll probably end up combining tools instead of relying on one A lot of these have free tiers, so worth testing yourself If I had to pick one I’d keep experimenting with, probably higgsfield just because the extra control makes it feel a bit more usable for actual ad work Curious what others are sticking with rn 👀
 
-59m ago
+1h ago
 
 ---
 
@@ -105,7 +105,7 @@ Been experimenting with a few AI video tools recently to speed up content + ad c
 
 I work for a Fortune 100 company that is not in the tech space. The company is increasingly using AI to make employees more productive. They have introduced internal AI chat tools that allow selection of OpenAI or Gemini models. We’ve also rolled out M365 Copilot to executives and middle managers. (While not earth-shattering, it certainly has made me more productive and integrates well with our Microsoft ecosystem.) Where I have not seen it as much is in our tool development/digital solutions. While there is a lot of talk about it being embedded in decision making in the future, I’ve not seen it used effectively by our internal developers or external developer partners. I keep waiting for a significant increase in the pace of feature development. Are others feeling this tension, where the expectation of faster feature development via AI is meeting reality or are we just falling behind?
 
-17h ago
+18h ago
 
 ---
 
@@ -125,7 +125,7 @@ Oops! "GPT‑5.5 is our strongest agentic coding model to date." "The gains are 
 
 Software giants are seeing their worst stock performance in years on fears of AI disruption. Now they have a new problem.
 
-CNBC • 20h ago
+CNBC • 21h ago
 
 ---
 
@@ -133,13 +133,13 @@ CNBC • 20h ago
 
 Met says AI software unearthed rule-breaking ranging from work-from-home violations to suspected corruption
 
-The Guardian • 17h ago
+The Guardian • 18h ago
 
 ---
 
 **[The Podcast Where You Can Eavesdrop on the A.I. Elite](https://www.nytimes.com/2026/04/26/business/dwarkesh-patel-podcast-ai.html)**
 
-The New York Times • 28m ago
+The New York Times • 1h ago
 
 ---
 
@@ -147,7 +147,7 @@ The New York Times • 28m ago
 
 The AI boom isn't just a stock market story. It's also a bond market story. And the bond market version may actually matter more
 
-qz.com • 25m ago
+qz.com • 1h ago
 
 ---
 
@@ -155,7 +155,7 @@ qz.com • 25m ago
 
 A data analyst quit their tech job over concerns that AI would replace them and about disillusionment with the industry in general.
 
-Business Insider • 16m ago
+Business Insider • 1h ago
 
 ---
 
@@ -163,7 +163,7 @@ Business Insider • 16m ago
 
 Artificial intelligence tools have made financial advice more accessible, but they have also created a significant privacy risk.
 
-The Washington Post • 17h ago
+The Washington Post • 18h ago
 
 ---
 
@@ -171,7 +171,7 @@ The Washington Post • 17h ago
 
 Thomas Kurian, Google Cloud’s CEO, says its AI chips and models can help the data centre business gain ground
 
-Financial Times • 5h ago
+Financial Times • 6h ago
 
 ---
 
@@ -179,7 +179,7 @@ Financial Times • 5h ago
 
 A CBS News analysis found that Georgia Power, the largest energy provider in the state, imposed six rate hikes in the last three years.
 
-CBS News • 9h ago
+CBS News • 10h ago
 
 ---
 
@@ -193,7 +193,7 @@ OpenAI • 2d ago
 
 **[Elon Musk's AI company makes ludicrous job posting](https://www.sfgate.com/tech/article/musk-job-listing-novelists-22224801.php)**
 
-SFGATE • 19h ago
+SFGATE • 20h ago
 
 ---
 
@@ -213,7 +213,7 @@ Migrating to the new meshcore.io site
 
 If there was any doubt over the brewing public backlash to this technology, the last few weeks have erased it.
 
-⬆️ 238 • 💬 323 • 12h ago • [The New Republic](https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash)
+⬆️ 238 • 💬 323 • 13h ago • [The New Republic](https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash)
 
 ---
 
@@ -243,7 +243,7 @@ The airport targeted gate announcements, overlapping PA messages, and tenant mus
 
 **[Lambda Calculus Benchmark for AI](https://news.ycombinator.com/item?id=47900506)**
 
-⬆️ 136 • 💬 41 • 22h ago • [victortaelin.github.io](https://victortaelin.github.io/lambench/)
+⬆️ 136 • 💬 41 • 23h ago • [victortaelin.github.io](https://victortaelin.github.io/lambench/)
 
 ---
 
@@ -267,13 +267,13 @@ A personal knowledge base that turns freeform notes into a semantically-connecte
 
 By all accounts, I should be a neofeudalist. I should love what’s happening. The AI I dreamed of my whole life is being built, engineer-type strongmen are sort of in charge, and people are saying out loud the things I have just thought. You might argue that I like it and I’m just not happy with my seat at the table. I ask myself a lot if this is true, like what if I was Elon. Would I be enjoying it then from that position?
 
-⬆️ 54 • 💬 105 • 2d ago • [the singularity is nearer](https://geohot.github.io//blog/jekyll/update/2026/04/23/us-win-ai.html)
+⬆️ 54 • 💬 105 • 3d ago • [the singularity is nearer](https://geohot.github.io//blog/jekyll/update/2026/04/23/us-win-ai.html)
 
 ---
 
 **[Ask HN: Am I getting old, or is working with AI juniors becoming a nightmare?](https://news.ycombinator.com/item?id=47888068)**
 
-⬆️ 45 • 💬 46 • 1d ago
+⬆️ 45 • 💬 46 • 2d ago
 
 ---
 
@@ -287,7 +287,7 @@ Really American host Steve Harness breaks down Iran SLAMMING Trump with even mor
 
 📺 Really American
 
-👁️ 537K • 👍 28K • 💬 2K • ⏱️ 13:36 • 12h ago
+👁️ 537K • 👍 28K • 💬 2K • ⏱️ 13:36 • 13h ago
 
 ---
 
@@ -297,7 +297,7 @@ Really American host Steve Harness breaks down Iran SLAMMING Trump with even mor
 
 📺 Louis Rossmann
 
-👁️ 28K • 👍 3K • 💬 500 • ⏱️ 9:33 • 10h ago
+👁️ 28K • 👍 3K • 💬 500 • ⏱️ 9:33 • 11h ago
 
 ---
 
@@ -307,7 +307,7 @@ You won't BELIEVE what humanoid robots just pulled off this week — and it's ab
 
 📺 The AI Nexus
 
-👁️ 1K • 👍 51 • 💬 3 • ⏱️ 16:59 • 10h ago
+👁️ 1K • 👍 51 • 💬 3 • ⏱️ 16:59 • 11h ago
 
 ---
 
@@ -317,7 +317,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 16K • 👍 908 • 💬 84 • ⏱️ 8:42 • 14h ago
+👁️ 16K • 👍 908 • 💬 84 • ⏱️ 8:42 • 15h ago
 
 ---
 
@@ -327,7 +327,7 @@ TikToker Facing 12 Years Prison for AI Prank CHECK OUT OUR MATS HERE: https://ma
 
 📺 Atozy
 
-👁️ 119K • 👍 6K • 💬 870 • ⏱️ 8:40 • 8h ago
+👁️ 119K • 👍 6K • 💬 870 • ⏱️ 8:40 • 9h ago
 
 ---
 
@@ -391,7 +391,7 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 `text-generation` `861.6B`
 
-⬇️ 123,431 • ❤️ 2,739 • 1d ago
+⬇️ 123,431 • ❤️ 2,739 • 2d ago
 
 ---
 
@@ -439,7 +439,7 @@ DeepSeek-V4-Flash is a 284B parameter Mixture-of-Experts language model supporti
 
 `text-generation` `158.1B`
 
-⬇️ 45,986 • ❤️ 703 • 1d ago
+⬇️ 45,986 • ❤️ 703 • 2d ago
 
 ---
 
@@ -648,7 +648,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 49.7k • 🔱 6.5k • 1h ago
+⭐ 49.7k • 🔱 6.5k • 2h ago
 
 ---
 
@@ -658,7 +658,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 46.7k • 🔱 2.5k • 7d ago
+⭐ 46.7k • 🔱 2.5k • 8d ago
 
 ---
 
@@ -668,7 +668,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 39.8k • 🔱 8.2k • 7h ago
+⭐ 39.8k • 🔱 8.2k • 8h ago
 
 ---
 
@@ -678,7 +678,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 35.0k • 🔱 3.9k • 18h ago
+⭐ 35.0k • 🔱 3.9k • 19h ago
 
 ---
 
@@ -718,7 +718,7 @@ The headless browser for AI agents and web scraping
 
 `Rust`
 
-⭐ 5.3k • 🔱 304 • 20h ago
+⭐ 5.3k • 🔱 304 • 21h ago
 
 ---
 

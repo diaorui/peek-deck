@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-26T09:30:33.898917+00:00'
+updated: '2026-04-26T10:25:28.542958+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
 - news
+- videos
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 26, 2026 at 09:30 UTC  
+**Last Updated:** April 26, 2026 at 10:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Sometimes I wonder...](https://www.reddit.com/r/Bitcoin/comments/1svo1db/sometimes_i_wonder/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 In 2023 I started investing in Bitcoin but it was at an all time high at 29k and sold, now I regret it and started buying again.
 
-5h ago
+6h ago
 
 ---
 
@@ -95,7 +95,7 @@ In 2023 I started investing in Bitcoin but it was at an all time high at 29k and
 
 The US Treasury froze $344 million in USDT linked to Iran with a single call to Tether. Bitcoin kept processing every Iranian transaction without interruption. That is the whole story.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/us-froze-tether-iran-bitcoin-untouchable/) • 20h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/us-froze-tether-iran-bitcoin-untouchable/) • 21h ago
 
 ---
 
@@ -103,7 +103,7 @@ The US Treasury froze $344 million in USDT linked to Iran with a single call to 
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-3h ago
+4h ago
 
 ---
 
@@ -119,7 +119,7 @@ Hello, so my bank/banks in my country in Europe do not allow bitcoin to be purch
 
 Ppl only looking at short term liquidity saying shorts have been liquidated. But have u paid attention to older liquidity? Coinglass 3 month chart barely shows it. U need smth like trading different to see it fully. Goes all the way up to 96k. And there is a ton of it. Pay attention to the sideways consolidation, we have been doing this every weekend and then pumping to the upside. Everyone and their mom is shorting here. That means a very very very strong chance of upside. We’re going into the 80s at the very least. Do not short and get rekt. Dca/buy and hold
 
-14h ago
+15h ago
 
 ---
 
@@ -127,7 +127,7 @@ Ppl only looking at short term liquidity saying shorts have been liquidated. But
 
 Why does every finance app try to look like a Bloomberg Terminal? 90% of those charts are just noise. I’ve been working on a project that strips all that away. It’s a simple, high-precision tracker for crypto and stocks. Important note: To keep things secure and simple, there are no trading features. You don't buy or sell assets in the app—it's designed solely to give you a perfect, clean overview of your portfolio and the market. If you’re looking for a more zen way to keep an eye on the market, give it a try. Link: https://play.google.com/store/apps/details?id=cz.akcie.app
 
-12h ago
+13h ago
 
 ---
 
@@ -161,7 +161,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 IBIT options open interest topped Deribit on Friday, signaling rapid institutional adoption of regulated crypto derivatives in the U.S.
 
-CoinDesk • 14h ago
+CoinDesk • 15h ago
 
 ---
 
@@ -177,7 +177,7 @@ Yahoo Finance • 1d ago
 
 Spot bitcoin ETFs logged $223.2 million in positive flows on Thursday, led by $167.5 million into BlackRock's IBIT.
 
-The Block • 1d ago
+The Block • 2d ago
 
 ---
 
@@ -191,7 +191,7 @@ Bloomberg.com • 21h ago
 
 SkyBridge Capital founder Anthony Scaramucci sparked a conversation on Thursday about Bitcoin’s potential worth if it becomes critical infrastructure for cybersecurity, specifically to counter AI-driven threats. Bitcoin’s Real Worth In an X post, Scaramucci highlighted gold’s $30 trillion valuation and...
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -207,7 +207,7 @@ The Block • 1d ago
 
 Can a network without formal governance coordinate the biggest cryptographic migration in its history?
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -309,7 +309,7 @@ A senior US military commander has lauded Bitcoin as a “valuable computer scie
 
 The quantum threat to Bitcoin keeps inching closer, this time thanks to a researcher who broke a simplified cryptographic key.
 
-⬆️ 5 • 💬 1 • 20h ago • [Decrypt](https://decrypt.co/365444/bitcoin-q-day-draws-nearer-quantum-researcher-breaks-simplified-key)
+⬆️ 5 • 💬 1 • 21h ago • [Decrypt](https://decrypt.co/365444/bitcoin-q-day-draws-nearer-quantum-researcher-breaks-simplified-key)
 
 ---
 
@@ -323,7 +323,7 @@ Michael Saylor is buying at a pace that could trigger a historic Bitcoin supply 
 
 📺 Simply Bitcoin
 
-👁️ 11K • 👍 1K • 💬 67 • ⏱️ 20:53 • 10h ago
+👁️ 11K • 👍 1K • 💬 67 • ⏱️ 20:53 • 11h ago
 
 ---
 
@@ -333,7 +333,7 @@ Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=Al
 
 📺 Altcoin Daily
 
-👁️ 27K • 👍 2K • 💬 149 • ⏱️ 8:58 • 13h ago
+👁️ 27K • 👍 2K • 💬 149 • ⏱️ 8:58 • 14h ago
 
 ---
 
@@ -353,7 +353,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 41K • 👍 2K • 💬 52 • ⏱️ 57:11 • 20h ago
+👁️ 41K • 👍 2K • 💬 52 • ⏱️ 57:11 • 21h ago
 
 ---
 
@@ -373,7 +373,7 @@ Gareth uses it! Download Rumble Wallet now and enjoy the benefits of financial a
 
 📺 Gareth Soloway
 
-👁️ 50K • 👍 3K • 💬 381 • ⏱️ 10:41 • 19h ago
+👁️ 50K • 👍 3K • 💬 381 • ⏱️ 10:41 • 20h ago
 
 ---
 
@@ -383,7 +383,7 @@ THEY ARE PREDICTING - $500K BITCOIN, $40K ETHEREUM, AND $50 XRP BY THIS DATE! GE
 
 📺 Austin Hilton
 
-👁️ 9K • 👍 478 • 💬 92 • ⏱️ 9:47 • 16h ago
+👁️ 9K • 👍 478 • 💬 92 • ⏱️ 9:47 • 17h ago
 
 ---
 
@@ -393,7 +393,7 @@ Kevin Warsh may be the next Fed Chair, and the real question is simple: when doe
 
 📺 Swan Bitcoin
 
-👁️ 4K • 👍 281 • 💬 45 • ⏱️ 11:16 • 6h ago
+👁️ 4K • 👍 281 • 💬 45 • ⏱️ 11:16 • 7h ago
 
 ---
 
@@ -413,7 +413,7 @@ Crypto News: Bitcoin signals show a potential rally to $80K- $85K soon. Crypto i
 
 📺 Thinking Crypto
 
-👁️ 2K • 👍 227 • 💬 61 • ⏱️ 17:34 • 5h ago
+👁️ 2K • 👍 227 • 💬 61 • ⏱️ 17:34 • 6h ago
 
 ---
 

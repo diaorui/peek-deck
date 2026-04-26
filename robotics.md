@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-26T09:30:33.908213+00:00'
+updated: '2026-04-26T10:25:28.552121+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 26, 2026 at 09:30 UTC  
+**Last Updated:** April 26, 2026 at 10:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 i bet you haven't seen a SO101 mounted on a wall like this before if you want to do the same, here is LeSlider: https://github.com/pham-tuan-binh/leslider i built it cause i wanted something that can cover my whole desk for tasks like organizing and cleaning i originally wanted to have a belt system like what 3D printers have, but i was too lazy and used a pinion/track with another sts3215 so: > the extra motor shares the same bus as the rest of SO101 > you can have arbitrary length of track > really cheap and easy to assemble and control it turned out better than expected with this, i'm gonna train a model to pick random stuff up across my table and put it into a bin at the end of table (realistically using yolo to scan table, two policies, one for picking up objects, one for dropping)
 
-7h ago
+8h ago
 
 ---
 
@@ -44,7 +44,7 @@ i bet you haven't seen a SO101 mounted on a wall like this before if you want to
 
 I designed the robot using fusion 360 in programmed it with python. I designed android one as a research platform so when I wanted to test out an idea that needed a humanoid robot it was something I could do, this weekend I was bored so I programmed it to play air hockey it’s a little bad because my robot is pretty cheap but once I get enough funding, I’m gonna make a android 4 which is basically gonna be a remastered version of this one, but with more freedom of motion.
 
-5h ago
+6h ago
 
 ---
 
@@ -52,7 +52,7 @@ I designed the robot using fusion 360 in programmed it with python. I designed a
 
 Hey, I've been building CANviz - a browser-based CAN bus analyzer. pip install, plug in any USB CAN adapter, opens in your browser. No GUI app to install, works with low cost hardware. Just shipped v0.2.0 with live signal plotting and bus health stats. CANopen support (CiA 301 + CiA 402) is coming next. Would love to hear what you'd find most useful. Hackaday wrote it up here if you want more detail: https://hackaday.com/2026/04/21/can-bus-analyzer-runs-in-your-browser/ GitHub: https://github.com/Chanchaldhiman/CANviz
 
-11h ago
+12h ago
 
 ---
 
@@ -60,13 +60,13 @@ Hey, I've been building CANviz - a browser-based CAN bus analyzer. pip install, 
 
 u/mods if this breaks the rules take it down. I'm looking for beta testers who are not afraid to break things, the end goal here is to make the worlds most easy to use, fully featured servo controlling software, and I'm building it while also building characters to test it with. Here's the rundown: JASM - Jester's Animatronic Servo Mapper Ever bought a bunch of servos, wired them up to a PCA9685, and then sat there wondering "now what?" Yeah. That's the problem this solves. What it actually does: You plug in your board (supports 50 different MCUs - ESP32, Arduino, Raspberry Pi Pico, etc.), click Upload Firmware, connect, and you're moving servos with sliders in under 5 minutes. No Arduino IDE. No code. No libraries to install. Things that used to be painful that aren't anymore: Making smooth movements - Every channel has its own speed control, EMA smoothing, and Bezier easing. No more jerky servos snapping from one position to another. Recording performances - Hit record, move the sliders (or use a gamepad), and it saves the whole thing synced to audio. Layer channels one at a time like a multitrack recorder. Lip sync - Load a vocal track and it auto-generates jaw movement from a phoneme dictionary. No manual keyframing. Text to Speech - Type a script, hit Perform, and your animatronic speaks it with automatic lip sync, idle animations (blinks, eye movement, ear twitches), and expression changes. Uses the Inworld API with your own account. Gamepad puppeteering - Map any Xbox/PS controller stick or button to any servo channel. Puppeteer the whole head live. Standalone playback - Upload animations to the board and it runs without a computer. Power it up and it goes. Supports button triggers, PIR sensors, or auto-loop. Servo limits - Set min/max/neutral for every channel so you never strip a gear or slam into a physical stop again. Who it's for: Animatronics builders, Halloween prop makers, cosplayers, fursuit makers, anyone doing museum exhibits or trade show displays. If you've got servos and an idea, this is the program. If you would like to be a beta tester and you have some experience with servos and MCU's DM me here. Discord is empty right now, as I have literally just started it.
 
-6h ago
+7h ago
 
 ---
 
 **[Thought-controlled robotic arm by Neuralink aimed at restoring independence for paralyzed patients](https://www.reddit.com/r/robotics/comments/1svh8t5/thoughtcontrolled_robotic_arm_by_neuralink_aimed/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -74,13 +74,13 @@ u/mods if this breaks the rules take it down. I'm looking for beta testers who a
 
 "Fluid gears" invention shows promise for improving mechanical devices.
 
-🔗 [SciTechDaily](https://scitechdaily.com/scientists-create-liquid-gears-that-spin-without-touching/) • 5h ago
+🔗 [SciTechDaily](https://scitechdaily.com/scientists-create-liquid-gears-that-spin-without-touching/) • 6h ago
 
 ---
 
 **[A smarter approach on autonomous exploration](https://www.reddit.com/r/robotics/comments/1sv7le7/a_smarter_approach_on_autonomous_exploration/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -96,7 +96,7 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2047765371734704574
 
 For beginners wanting to get started with the SO-101 arm, I found that there are a lot of hurdles to jump through. From the current documentation, while a great resource for those with intermediate knowledge of robotics, isn't a great resource for beginners as it requires knowledge of git, terminal commands, assembly, wiring, and much more in the robotic world. So I made a 2.5h course that walks beginners through how to train your won ACT model with the SO-101 arm. Understandably, the official LeRobot documentation can't step users through every step/debug step possible, as that would make things far too long for experienced users wanting to get in, who their target audience is I imagine. That said, the ACT model is such a useful training model for beginners to understand/comprehend and use, that I wanted to create an easier on-boarding path for beginners getting started. Would love to hear your thoughts.
 
-🔗 [youtu.be](https://youtu.be/p6YIkDhPNyo) • 15h ago
+🔗 [youtu.be](https://youtu.be/p6YIkDhPNyo) • 16h ago
 
 ---
 
@@ -132,7 +132,7 @@ Business Insider • 3d ago
 
 Scientists say they've made a key breakthrough that would allow robots to figure out complex tasks on their own — but experts say it raises questions about how much risk comes with letting robots be in charge of their own learning.
 
-NPR • 1d ago
+NPR • 2d ago
 
 ---
 
@@ -162,7 +162,7 @@ Seeking Alpha • 1d ago
 
 **[From supply chain to record growth: Shenzhen dominates China’s robotics sector](https://www.scmp.com/tech/tech-trends/article/3351462/supply-chain-record-growth-shenzhen-dominates-chinas-robotics-landscape)**
 
-South China Morning Post • 3h ago
+South China Morning Post • 4h ago
 
 ---
 
@@ -180,7 +180,7 @@ Democracy Now! • 1d ago
 
 **[Master's graduate and robotics champion: Cole Allen, suspect in Trump event shooting](https://nation.africa/kenya/news/world/cole-allen-suspect-in-the-trump-dinner-shooting-5436560)**
 
-Daily Nation • 2h ago
+Daily Nation • 3h ago
 
 ---
 
@@ -188,7 +188,7 @@ Daily Nation • 2h ago
 
 Foundation sent humanoid robots to Ukraine for a demonstration. CEO Sankaet Pathak said that in 5 to 10 years, they will be able to extract targets.
 
-Business Insider • 1h ago
+Business Insider • 2h ago
 
 ---
 
@@ -202,7 +202,7 @@ What is the best robot vacuum in 2026? After testing over 200 robot vacuums with
 
 📺 Just A Dad Approved
 
-👁️ 5K • 👍 226 • 💬 50 • ⏱️ 13:40 • 21h ago
+👁️ 5K • 👍 226 • 💬 50 • ⏱️ 13:40 • 22h ago
 
 ---
 
@@ -252,7 +252,7 @@ New Spider Shoggoth Robot. This is so weird. We got a new robot on the test serv
 
 📺 PREDATOR WR
 
-👁️ 21K • 👍 635 • 💬 211 • ⏱️ 15:36 • 21h ago
+👁️ 21K • 👍 635 • 💬 211 • ⏱️ 15:36 • 22h ago
 
 ---
 
@@ -280,7 +280,7 @@ WR Store: https://wr.my.games/Joe_Black_WR my code: Joe_Black_WR Thank You =====
 
 📺 Joe Black WR
 
-👁️ 30K • 👍 804 • 💬 67 • ⏱️ 0:11 • 23h ago
+👁️ 30K • 👍 804 • 💬 67 • ⏱️ 0:11 • 1d ago
 
 ---
 
