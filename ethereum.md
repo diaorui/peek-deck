@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-26T19:49:55.222805+00:00'
+updated: '2026-04-26T20:39:47.919246+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- social
-- cryptocurrency
 - news
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 26, 2026 at 19:49 UTC  
+**Last Updated:** April 26, 2026 at 20:39 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,359.98
+### $2,365.14
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.3%  
-**7d:** +2.1%  
-**30d:** +18.4%  
-**90d:** -21.9%  
-**1y:** +31.6%  
+**24h:** +2.4%  
+**7d:** +2.5%  
+**30d:** +18.8%  
+**90d:** -21.6%  
+**1y:** +32.1%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Working in blockchain consulting, I’ve noticed many Ethereum-based projects still underestimate how scaling decisions impact long-term costs. Clients assume L2s will fully solve gas issues, but data availability, bridging complexity, and liquidity fragmentation often get overlooked. When designing systems, it becomes tricky balancing user experience with decentralization trade-offs, especially for financial applications. Even small architectural decisions can significantly affect transaction costs and protocol adoption later. Has anyone here built a reliable framework for evaluating Ethereum scaling strategies across different use cases?
 
-2h ago
+3h ago
 
 ---
 
@@ -144,7 +144,7 @@ Etherealize: ETH is productive money, DeFi united: effort to restore rsETH backi
 
 honestly starting to get really cynical about the state of governance on eth right now. i was looking at some recent voting proposals and its just painfully obvious that everything is being manipulated by industrial scale airdrop farmers. The WHOLE web3 dream was supposed to be decentralized consensus and community ownership. but right now whoever spins up the most python scripts and funds 10,000 wallets automatically basically runs the show. it completely hollows out the actual community and makes governance a total joke the frustrating part is software-based sybil resistance just isnt working anymore. Things like gitcoin passport and on-chain activity scores are fine in theory, but the massive bot farms just automate the farming of those scores too now. it feels like we're backed into a corner where protocols will either have to force traditional KYC (which completely ruins the cypherpunk ethos of the network) or we have to rely on physical hardware solutions its crazy but tying wallets to a zero-knowledge biometric credential from something like an Orb is probably the only viable middle ground we have left. you basically get a cryptographic flag that proves you're a unique living person, but you never have to dox your actual government identity to a random multi-sig. it saves the anonymity but breaks the botnets. Im just so exhausted watching cool ecosystem projects get drained by automated scripts instead of rewarding real users. idk, maybe I'm just being pessimistic today but it really feels like until we fix this core human identity layer, all this governance and voting stuff is just us pretending.
 
-2d ago
+3d ago
 
 ---
 
@@ -152,51 +152,19 @@ honestly starting to get really cynical about the state of governance on eth rig
 
 ## Google News: "ethereum"
 
-**[Is Owning Just Bitcoin and Ethereum Enough for a Crypto Portfolio?](https://www.fool.com/investing/2026/04/23/is-owning-just-bitcoin-and-ethereum-enough-for-a-c/)**
+**[Is Anthropic's Mythos AI a Threat to Ethereum and Solana?](https://www.fool.com/investing/2026/04/23/is-anthropics-mythos-ai-a-threat-to-ethereum-and-s/)**
 
-Simple portfolios can often outperform overly complicated ones.
+An unreleased AI model is sending crypto into a panic, but it's only half relevant to the real ongoing problems.
 
 The Motley Fool • 3d ago
 
 ---
 
-**[BitMine To Purchase 10,000 ETH From Ethereum Foundation](https://finance.yahoo.com/markets/crypto/articles/bitmine-purchase-10-000-eth-180300758.html)**
+**[Better Growth Investment to Buy With $500: Ethereum vs. Strategy](https://finance.yahoo.com/markets/crypto/articles/better-growth-investment-buy-500-025000221.html)**
 
-BitMine Immersion Technologies (NYSE: $BMNR) is purchasing 10,000 Ethereum (CRYPTO: $ETH) from the Ethereum Foundat...
+These two assets take very different approaches to generating value.
 
-Yahoo Finance • 2d ago
-
----
-
-**[Ethereum Price Surges On Shank Tank Investor's Endorsement](https://dmarketforces.com/ethereum-price-surges-on-shank-tank-investors-endorsement/)**
-
-Ethereum (ETH) price climbed 1% to $2,336.25, outpacing a broadly flat market, driven by a technical breakout and steady institutional flows follo
-
-MarketForces Africa • 6h ago
-
----
-
-**[Crypto News: Pepeto Announces DeFi Exchange Successful Tests Amid Ethereum Price Prediction Points to $6,000 Within a Year](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-announces-defi-exchange-successful-tests-amid-ethereum-price-prediction-points-to-6-000-within-a-year-1036062991)**
-
-Dubai, UAE, April  26, 2026  (GLOBE NEWSWIRE) -- Pepeto confirmed this week that final test on the Exchange are done, to support the big volume it...
-
-markets.businessinsider.com • 5h ago
-
----
-
-**[Ethereum Foundation unstakes 17K ETH after nearing 70K staked ETH milestone](https://www.tradingview.com/news/cointelegraph:533982cd9094b:0-ethereum-foundation-unstakes-17k-eth-after-nearing-70k-staked-eth-milestone/)**
-
-The Ethereum Foundation has moved to unwind part of its staking position shortly after nearing its stated goal of 70,000 staked ETH.On Saturday, the Ethereum Foundation unstaked 17,035.326 ETH, worth roughly $40 million, according to Arkham data. The move involved depositing wrapped staked ETH (wst…
-
-TradingView • 7h ago
-
----
-
-**[Shark Tank Kevin O’Leary Now Says Forget Alts, Hold Bitcoin, Ethereum](https://cryptopotato.com/shark-tank-kevin-olear-now-says-forget-alts-hold-bitcoin-ethereum/)**
-
-“Shark Tank” judge and business magnate Kevin O'Leary says he only recommends owning Bitcoin and Ethereum. Here's why.
-
-CryptoPotato • 14h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -208,9 +176,33 @@ The Block • 2d ago
 
 ---
 
+**[Ethereum Price Surges On Shank Tank Investor's Endorsement](https://dmarketforces.com/ethereum-price-surges-on-shank-tank-investors-endorsement/)**
+
+Ethereum (ETH) price climbed 1% to $2,336.25, outpacing a broadly flat market, driven by a technical breakout and steady institutional flows follo
+
+MarketForces Africa • 7h ago
+
+---
+
+**[Shark Tank Kevin O’Leary Now Says Forget Alts, Hold Bitcoin, Ethereum](https://cryptopotato.com/shark-tank-kevin-olear-now-says-forget-alts-hold-bitcoin-ethereum/)**
+
+“Shark Tank” judge and business magnate Kevin O'Leary says he only recommends owning Bitcoin and Ethereum. Here's why.
+
+CryptoPotato • 15h ago
+
+---
+
+**[Crypto News: Pepeto Announces DeFi Exchange Successful Tests Amid Ethereum Price Prediction Points to $6,000 Within a Year](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-announces-defi-exchange-successful-tests-amid-ethereum-price-prediction-points-to-6-000-within-a-year-1036062991)**
+
+Dubai, UAE, April  26, 2026  (GLOBE NEWSWIRE) -- Pepeto confirmed this week that final test on the Exchange are done, to support the big volume it...
+
+markets.businessinsider.com • 6h ago
+
+---
+
 **[Bitcoin leads ETF flows, but Ethereum builds institutional base for Q2 showdown](https://ambcrypto.com/?p=592857)**
 
-AMBCrypto • 2h ago
+AMBCrypto • 3h ago
 
 ---
 
@@ -218,7 +210,15 @@ AMBCrypto • 2h ago
 
 The Ethereum Foundation unstaked $48.9 million in ETH, raising sell-off concerns; Ethereum reaching $10,000 by December 31, 2026 at 4% YES.
 
-Crypto Briefing • 7h ago
+Crypto Briefing • 8h ago
+
+---
+
+**[Ethereum Foundation unstakes 17K ETH after nearing 70K staked ETH milestone](https://www.tradingview.com/news/cointelegraph:533982cd9094b:0-ethereum-foundation-unstakes-17k-eth-after-nearing-70k-staked-eth-milestone/)**
+
+The Ethereum Foundation has moved to unwind part of its staking position shortly after nearing its stated goal of 70,000 staked ETH.On Saturday, the Ethereum Foundation unstaked 17,035.326 ETH, worth roughly $40 million, according to Arkham data. The move involved depositing wrapped staked ETH (wst…
+
+TradingView • 8h ago
 
 ---
 
@@ -238,7 +238,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 1K • 👍 120 • ⏱️ 18:46 • 3h ago
+👁️ 1K • 👍 120 • ⏱️ 18:46 • 4h ago
 
 ---
 
@@ -248,7 +248,7 @@ The Crypto Market Is About To Flip... ⭐ Follow Altcoin Daily on X: https://twi
 
 📺 Altcoin Daily
 
-👁️ 5K • 👍 558 • 💬 72 • ⏱️ 9:47 • 1h ago
+👁️ 5K • 👍 558 • 💬 72 • ⏱️ 9:47 • 2h ago
 
 ---
 
@@ -258,7 +258,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 2K • 👍 215 • 4h ago
+👁️ 2K • 👍 215 • 5h ago
 
 ---
 
@@ -278,7 +278,7 @@ Ripple XRP News today as the SEC has reportedly classified XRP as a digital comm
 
 📺 The Bull Winkle Blue Print
 
-👁️ 154 • 👍 32 • 💬 2 • ⏱️ 13:37 • 19m ago
+👁️ 154 • 👍 32 • 💬 2 • ⏱️ 13:37 • 1h ago
 
 ---
 
@@ -288,7 +288,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 832 • 👍 125 • 💬 10 • ⏱️ 18:14 • 4h ago
+👁️ 832 • 👍 125 • 💬 10 • ⏱️ 18:14 • 5h ago
 
 ---
 
@@ -308,7 +308,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 343 • 👍 18 • 💬 1 • ⏱️ 4:49 • 10h ago
+👁️ 343 • 👍 18 • 💬 1 • ⏱️ 4:49 • 11h ago
 
 ---
 

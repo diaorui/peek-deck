@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-26T19:49:55.217528+00:00'
+updated: '2026-04-26T20:39:47.913302+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- social
-- cryptocurrency
 - news
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 26, 2026 at 19:49 UTC  
+**Last Updated:** April 26, 2026 at 20:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,946.49
+### $78,271.84
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.3%  
+**24h:** +1.0%  
 **7d:** +3.2%  
 **30d:** +17.9%  
 **90d:** -12.3%  
@@ -77,11 +77,25 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[HAL FINNEY: “I was likely the first person after Satoshi to run Bitcoin. I mined block seventy-something and received the first BTC transfer when Satoshi sent me 10 coins as a test. We emailed for days after that, mostly me reporting bugs and him fixing them in real time, almost instantly.”](https://www.reddit.com/r/Bitcoin/comments/1swexh5/hal_finney_i_was_likely_the_first_person_after/)**
+
+2h ago
+
+---
+
+**[I have 100,000 sats](https://www.reddit.com/r/Bitcoin/comments/1swgttu/i_have_100000_sats/)**
+
+Calm down everyone, please. Take a seat. With tears in my eyes I’m honored to announce my achievement. It took a lot of time that I will never get back but bitcoin has given me hope to keep going.
+
+1h ago
+
+---
+
 **[Bitcoining is all about shitposting while waiting 200K](https://www.reddit.com/r/Bitcoin/comments/1sw52ko/bitcoining_is_all_about_shitposting_while_waiting/)**
 
 In this sub, absolute cinema
 
-8h ago
+9h ago
 
 ---
 
@@ -89,21 +103,13 @@ In this sub, absolute cinema
 
 On of my favorite voices in the space. Gives foundational level of the history of money and challenges then ties it into the Bitcoin thesis.
 
-🔗 [open.substack.com](https://open.substack.com/pub/cws/p/how-to-fix-our-money?utm_campaign=post&utm_medium=web) • 3h ago
+🔗 [open.substack.com](https://open.substack.com/pub/cws/p/how-to-fix-our-money?utm_campaign=post&utm_medium=web) • 4h ago
 
 ---
 
 **[Sometimes I wonder...](https://www.reddit.com/r/Bitcoin/comments/1svo1db/sometimes_i_wonder/)**
 
-22h ago
-
----
-
-**[Bybit vs Binance why i run both instead of picking one.](https://www.reddit.com/r/Bitcoin/comments/1swfczd/bybit_vs_binance_why_i_run_both_instead_of/)**
-
-Bought my first Bitcoin on Binance back in 2018 and stayed there out of habit for years. Started using Bybit about seven months ago after a friend showed me his actual trade receipts on BTC spot the spreads he was getting were consistently tighter than what I was paying. Did some test buys side by side and yeah, the difference is real on size. Binance still wins on raw liquidity. If you're moving serious BTC volume in one go the book on Binance is just deeper and you'll feel less slippage on a market order. Bybit caught up on the stuff that actually matters to me as someone stacking sats the BTC withdrawal fee is lower (last time I withdrew it was 0.00005 BTC vs Binance asking more) and the withdrawal-to-cold-storage flow has been faster from my account at least. Both let me whitelist my hardware wallet address which is what I actually care about. So I stopped trying to pick a "best" exchange. I keep small operating amounts on both, buy where the spread is better that day, and the moment I've accumulated enough I send everything to my cold storage. Not your keys, not your Bitcoin. The endless "which exchange is best" debates are honestly engagement bait. Pick whatever lets you stack BTC most efficiently and gets it off the exchange the fastest.
-
-1h ago
+23h ago
 
 ---
 
@@ -111,7 +117,7 @@ Bought my first Bitcoin on Binance back in 2018 and stayed there out of habit fo
 
 In 2023 I started investing in Bitcoin but it was at an all time high at 29k and sold, now I regret it and started buying again.
 
-15h ago
+16h ago
 
 ---
 
@@ -119,7 +125,7 @@ In 2023 I started investing in Bitcoin but it was at an all time high at 29k and
 
 Curious what everyone’s mix is. (Not a Fed)
 
-6h ago
+7h ago
 
 ---
 
@@ -127,7 +133,7 @@ Curious what everyone’s mix is. (Not a Fed)
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-13h ago
+14h ago
 
 ---
 
@@ -139,19 +145,11 @@ The US Treasury froze $344 million in USDT linked to Iran with a single call to 
 
 ---
 
-**[How to get Bitcoin if its banned in your country](https://www.reddit.com/r/Bitcoin/comments/1svoi7w/how_to_get_bitcoin_if_its_banned_in_your_country/)**
+**[Is Bitcoin ready for inflation and AI disruption?](https://www.reddit.com/r/Bitcoin/comments/1swhgn8/is_bitcoin_ready_for_inflation_and_ai_disruption/)**
 
-Hello, so my bank/banks in my country in Europe do not allow bitcoin to be purchased using debit or credit cards. I did find a way to use bank transfer for platforms like Kraken, but they charge me a monthly fee just to have that feature, which is difficult for me since I am currently on a tight budget. I am wondering if there is any alternative way for me to buy bitcoin through another platform, such as Binance, and then transfer or trade it to my Kraken wallet safely and without high fees.
+Came across this post on substack talking about Jordi Visser claiming that Bitcoin is going to be the clear winner against higher inflation and AI disruption. The full podcast is too long to watch but what do you all think? My take is that Bitcoin’s latest disconnect from high beta software stocks is a good indicator. But not sure if its proven to be a bet against the inflation.
 
-22h ago
-
----
-
-**[Negative funding rates and ton of liquidity in the 80s](https://www.reddit.com/r/Bitcoin/comments/1svjy34/negative_funding_rates_and_ton_of_liquidity_in/)**
-
-Ppl only looking at short term liquidity saying shorts have been liquidated. But have u paid attention to older liquidity? Coinglass 3 month chart barely shows it. U need smth like trading different to see it fully. Goes all the way up to 96k. And there is a ton of it. Pay attention to the sideways consolidation, we have been doing this every weekend and then pumping to the upside. Everyone and their mom is shorting here. That means a very very very strong chance of upside. We’re going into the 80s at the very least. Do not short and get rekt. Dca/buy and hold
-
-1d ago
+🔗 [open.substack.com](https://open.substack.com/pub/podcastalpha/p/jordi-visser-on-pompliano-bitcoin) • 55m ago
 
 ---
 
@@ -163,7 +161,7 @@ Ppl only looking at short term liquidity saying shorts have been liquidated. But
 
 Some bitcoin advocates argue freezing dormant coins would set a dangerous precedent, while others say failing to act could pose greater risks.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -183,39 +181,23 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[MicroStrategy’s Bitcoin Holdings Hit $63.46 Billion Record](https://finance.yahoo.com/markets/crypto/articles/microstrategy-bitcoin-holdings-hit-63-200640115.html)**
+
+Strategy's Bitcoin treasury hit a record $63.46 billion as Saylor's firm now holds 815,061 BTC at $75,528 average.
+
+Yahoo Finance • 33m ago
+
+---
+
 **[Bitcoin’s Stealth Rally Has Traders Setting Sights on $80,000](https://www.bloomberg.com/news/articles/2026-04-25/bitcoin-s-stealth-rally-has-traders-setting-sights-on-80-000)**
 
-Bloomberg.com • 1d ago
-
----
-
-**[1 Reason Bitcoin Could Still Make You a Retirement Millionaire](https://www.fool.com/investing/2026/04/26/1-reason-bitcoin-could-still-make-you-a-retirement/)**
-
-If history is any guide, Bitcoin is capable of doubling in value on a regular basis.
-
-The Motley Fool • 2h ago
-
----
-
-**[Why the ultra-wealthy are using bitcoin to buy real estate](https://finance.yahoo.com/video/why-ultra-wealthy-using-bitcoin-120000848.html)**
-
-Market Domination welcomes Christie's International Real Estate Southern California founder and CEO, Aaron Kirman, to break down why some ultra-wealthy individuals are using bitcoin (BTC-USD) to purchase real estate (XLRE).
-
-Yahoo Finance • 7h ago
+Bloomberg • 1d ago
 
 ---
 
 **[Bitcoin holds steady as institutional derivatives reach new milestone](https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-steady-as-institutional-derivatives-reach-new-milestone-4637419)**
 
-Investing.com • 16h ago
-
----
-
-**[Analyst Who Called Bitcoin’s Top Correctly Now Predicting The Bottom](https://www.tradingview.com/news/newsbtc:a5832a4ca094b:0-analyst-who-called-bitcoin-s-top-correctly-now-predicting-the-bottom/)**
-
-Bitcoin has spent April staging a recovery from its March lows, briefly climbing back above $79,000. However, not everyone is convinced of the rebound, and some analysts believe the move is only a mid-bear-market rally before a deeper correction.One such analyst is one that previously predicted a c…
-
-TradingView • 5h ago
+Investing.com • 17h ago
 
 ---
 
@@ -223,7 +205,7 @@ TradingView • 5h ago
 
 Top US Navy Admiral calls bitcoin a tool of "power projection" as the US, China, Iran, and Russia are all leveraging bitcoin to advance their own strategic interests.
 
-Forbes • 8h ago
+Forbes • 9h ago
 
 ---
 
@@ -235,6 +217,20 @@ CNN • 2d ago
 
 ---
 
+**[Opinion | A Bitcoin Evangelist Tries to Convert Me](https://www.nytimes.com/2026/04/23/opinion/bitcoin-crypto-anthony-pompliano.html)**
+
+The New York Times • 3d ago
+
+---
+
+**[1 Reason Bitcoin Could Still Make You a Retirement Millionaire](https://www.fool.com/investing/2026/04/26/1-reason-bitcoin-could-still-make-you-a-retirement/)**
+
+If history is any guide, Bitcoin is capable of doubling in value on a regular basis.
+
+The Motley Fool • 3h ago
+
+---
+
 ---
 
 ## HackerNews: "bitcoin"
@@ -243,7 +239,7 @@ CNN • 2d ago
 
 Build wallets, issue stablecoins, and move BTC instantly: all natively on Bitcoin. No bridges, no custodians. Start building with Spark's SDKs today.
 
-⬆️ 5 • 💬 1 • 2d ago • [Spark](https://www.spark.money)
+⬆️ 5 • 💬 1 • 3d ago • [Spark](https://www.spark.money)
 
 ---
 
@@ -347,7 +343,7 @@ Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=Al
 
 📺 Altcoin Daily
 
-👁️ 35K • 👍 2K • 💬 138 • ⏱️ 8:58 • 23h ago
+👁️ 35K • 👍 2K • 💬 138 • ⏱️ 8:58 • 1d ago
 
 ---
 
@@ -357,7 +353,7 @@ Crypto was not here during the bull market of the 90's that lasted years. Crypto
 
 📺 Crypto Capital Venture
 
-👁️ 3K • 👍 362 • 💬 136 • ⏱️ 16:57 • 3h ago
+👁️ 3K • 👍 362 • 💬 136 • ⏱️ 16:57 • 4h ago
 
 ---
 
@@ -377,7 +373,7 @@ In this video, we take a look at how Heikin-Ashi candles can help remove some of
 
 📺 Benjamin Cowen
 
-👁️ 51K • 👍 4K • 💬 218 • ⏱️ 23:18 • 15h ago
+👁️ 51K • 👍 4K • 💬 218 • ⏱️ 23:18 • 16h ago
 
 ---
 
@@ -407,7 +403,7 @@ Bitcoin is sending mixed signals… and the crypto market is at a crossroads. On
 
 📺 Crypto Love
 
-👁️ 893 • 👍 131 • 💬 95 • ⏱️ 11:37 • 2h ago
+👁️ 893 • 👍 131 • 💬 95 • ⏱️ 11:37 • 3h ago
 
 ---
 
