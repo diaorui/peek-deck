@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-26T15:42:47.928343+00:00'
+updated: '2026-04-26T16:44:02.878083+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
-- social
 - news
+- social
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 26, 2026 at 15:42 UTC  
+**Last Updated:** April 26, 2026 at 16:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,10 +44,10 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.9%  
-**7d:** +3.0%  
-**30d:** +17.6%  
-**90d:** -12.5%  
+**24h:** +1.0%  
+**7d:** +2.9%  
+**30d:** +17.5%  
+**90d:** -12.6%  
 **1y:** -16.7%  
 
 ---
@@ -81,13 +81,13 @@ Rank #1
 
 In this sub, absolute cinema
 
-4h ago
+5h ago
 
 ---
 
 **[Sometimes I wonder...](https://www.reddit.com/r/Bitcoin/comments/1svo1db/sometimes_i_wonder/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -95,7 +95,7 @@ In this sub, absolute cinema
 
 In 2023 I started investing in Bitcoin but it was at an all time high at 29k and sold, now I regret it and started buying again.
 
-11h ago
+12h ago
 
 ---
 
@@ -103,7 +103,7 @@ In 2023 I started investing in Bitcoin but it was at an all time high at 29k and
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-9h ago
+10h ago
 
 ---
 
@@ -119,7 +119,7 @@ The US Treasury froze $344 million in USDT linked to Iran with a single call to 
 
 Curious what everyone’s mix is. (Not a Fed)
 
-2h ago
+3h ago
 
 ---
 
@@ -127,7 +127,15 @@ Curious what everyone’s mix is. (Not a Fed)
 
 Hello, so my bank/banks in my country in Europe do not allow bitcoin to be purchased using debit or credit cards. I did find a way to use bank transfer for platforms like Kraken, but they charge me a monthly fee just to have that feature, which is difficult for me since I am currently on a tight budget. I am wondering if there is any alternative way for me to buy bitcoin through another platform, such as Binance, and then transfer or trade it to my Kraken wallet safely and without high fees.
 
-18h ago
+19h ago
+
+---
+
+**[Great interview with Lyn Alden on ‘How To Fix Our Money’](https://www.reddit.com/r/Bitcoin/comments/1swc6pw/great_interview_with_lyn_alden_on_how_to_fix_our/)**
+
+On of my favorite voices in the space. Gives foundational level of the history of money and challenges then ties it into the Bitcoin thesis.
+
+🔗 [open.substack.com](https://open.substack.com/pub/cws/p/how-to-fix-our-money?utm_campaign=post&utm_medium=web) • 14m ago
 
 ---
 
@@ -135,7 +143,7 @@ Hello, so my bank/banks in my country in Europe do not allow bitcoin to be purch
 
 Ppl only looking at short term liquidity saying shorts have been liquidated. But have u paid attention to older liquidity? Coinglass 3 month chart barely shows it. U need smth like trading different to see it fully. Goes all the way up to 96k. And there is a ton of it. Pay attention to the sideways consolidation, we have been doing this every weekend and then pumping to the upside. Everyone and their mom is shorting here. That means a very very very strong chance of upside. We’re going into the 80s at the very least. Do not short and get rekt. Dca/buy and hold
 
-21h ago
+22h ago
 
 ---
 
@@ -143,15 +151,7 @@ Ppl only looking at short term liquidity saying shorts have been liquidated. But
 
 Why does every finance app try to look like a Bloomberg Terminal? 90% of those charts are just noise. I’ve been working on a project that strips all that away. It’s a simple, high-precision tracker for crypto and stocks. Important note: To keep things secure and simple, there are no trading features. You don't buy or sell assets in the app—it's designed solely to give you a perfect, clean overview of your portfolio and the market. If you’re looking for a more zen way to keep an eye on the market, give it a try. Link: https://play.google.com/store/apps/details?id=cz.akcie.app
 
-18h ago
-
----
-
-**[Question: Safe Anonymous wallet](https://www.reddit.com/r/Bitcoin/comments/1sw3s2h/question_safe_anonymous_wallet/)**
-
-Hello all, I feel like its very difficult now to actually have 100% safe and anonymous wallet. What would the steps to have a safe and anonymous wallet that would never be tracked to a person name? This must include Safety: if you suggest a website or an app to generate a wallet and get the keys for and then print it out on piece of paper. How are you 100% sure the generator is not fake? Anonymity: getting the wallet undocumented and how to later on exchange it back to fiat without having to through places like Coinbase etc... Purchasing: Many business online now accept crypto/btc but its usually associated to an account/name. I feel like the regulations are "needed" for crypto to be accepted in masses but that kind of breaks the purpose of it. Thanks in advance
-
-5h ago
+19h ago
 
 ---
 
@@ -163,7 +163,7 @@ Hello all, I feel like its very difficult now to actually have 100% safe and ano
 
 Some bitcoin advocates argue freezing dormant coins would set a dangerous precedent, while others say failing to act could pose greater risks.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -185,15 +185,7 @@ Yahoo Finance • 1d ago
 
 **[Bitcoin’s Stealth Rally Has Traders Setting Sights on $80,000](https://www.bloomberg.com/news/articles/2026-04-25/bitcoin-s-stealth-rally-has-traders-setting-sights-on-80-000)**
 
-Bloomberg.com • 1d ago
-
----
-
-**[Analyst Who Called Bitcoin’s Top Correctly Now Predicting The Bottom](https://www.tradingview.com/news/newsbtc:a5832a4ca094b:0-analyst-who-called-bitcoin-s-top-correctly-now-predicting-the-bottom/)**
-
-Bitcoin has spent April staging a recovery from its March lows, briefly climbing back above $79,000. However, not everyone is convinced of the rebound, and some analysts believe the move is only a mid-bear-market rally before a deeper correction.One such analyst is one that previously predicted a c…
-
-TradingView • 1h ago
+Bloomberg • 1d ago
 
 ---
 
@@ -201,15 +193,21 @@ TradingView • 1h ago
 
 Five Big Tech firms report this week. The results could move Bitcoin given its record correlation with Nasdaq stocks
 
-Yahoo Finance • 42m ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[What next as Bitcoin (BTC) whales go long despite bearish bets piling up](https://www.coindesk.com/markets/2026/04/26/bitcoin-whales-build-long-positions-as-funding-stays-deeply-negative)**
+**[Analyst Who Called Bitcoin’s Top Correctly Now Predicting The Bottom](https://www.tradingview.com/news/newsbtc:a5832a4ca094b:0-analyst-who-called-bitcoin-s-top-correctly-now-predicting-the-bottom/)**
 
-Long bias from the largest perpetual traders on Hyperliquid has built steadily through February, March and April, with the position now leaning aggressively long as bitcoin tags $80,000 and US-Iran talks resume.
+Bitcoin has spent April staging a recovery from its March lows, briefly climbing back above $79,000. However, not everyone is convinced of the rebound, and some analysts believe the move is only a mid-bear-market rally before a deeper correction.One such analyst is one that previously predicted a c…
 
-CoinDesk • 1h ago
+TradingView • 2h ago
+
+---
+
+**[Bitcoin holds steady as institutional derivatives reach new milestone](https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-steady-as-institutional-derivatives-reach-new-milestone-4637419)**
+
+Investing.com • 13h ago
 
 ---
 
@@ -227,9 +225,11 @@ Forbes • 2d ago
 
 ---
 
-**[Bitcoin holds steady as institutional derivatives reach new milestone](https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-steady-as-institutional-derivatives-reach-new-milestone-4637419)**
+**[New documentary seeks to uncover the identity of Bitcoin’s founder](https://www.cnn.com/2026/04/24/us/video/berman-cohan-maroney-satoshi-bitcoin-cnc)**
 
-Investing.com • 12h ago
+Why is the identity of Bitcoin’s founder one of the biggest mysteries in finance? The new documentary “Finding Satoshi” aims to find out. CNN News Central’s John Berman speaks with the two men leading the hunt, Investigative Journalist William Cohan and Quest Research & Investigations private investigator Tyler Maroney.
+
+CNN • 2d ago
 
 ---
 
@@ -325,7 +325,7 @@ Michael Saylor is buying at a pace that could trigger a historic Bitcoin supply 
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 1K • 💬 75 • ⏱️ 20:53 • 16h ago
+👁️ 13K • 👍 1K • 💬 75 • ⏱️ 20:53 • 17h ago
 
 ---
 
@@ -335,7 +335,7 @@ Kevin Warsh may be the next Fed Chair, and the real question is simple: when doe
 
 📺 Swan Bitcoin
 
-👁️ 7K • 👍 443 • 💬 13 • ⏱️ 11:16 • 12h ago
+👁️ 7K • 👍 443 • 💬 13 • ⏱️ 11:16 • 13h ago
 
 ---
 
@@ -345,7 +345,7 @@ Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=Al
 
 📺 Altcoin Daily
 
-👁️ 31K • 👍 2K • 💬 129 • ⏱️ 8:58 • 19h ago
+👁️ 31K • 👍 2K • 💬 129 • ⏱️ 8:58 • 20h ago
 
 ---
 
@@ -395,7 +395,7 @@ THEY ARE PREDICTING - $500K BITCOIN, $40K ETHEREUM, AND $50 XRP BY THIS DATE! GE
 
 📺 Austin Hilton
 
-👁️ 10K • 👍 509 • 💬 30 • ⏱️ 9:47 • 22h ago
+👁️ 10K • 👍 509 • 💬 30 • ⏱️ 9:47 • 23h ago
 
 ---
 
@@ -405,7 +405,7 @@ In this video, we take a look at how Heikin-Ashi candles can help remove some of
 
 📺 Benjamin Cowen
 
-👁️ 36K • 👍 3K • 💬 182 • ⏱️ 23:18 • 11h ago
+👁️ 36K • 👍 3K • 💬 182 • ⏱️ 23:18 • 12h ago
 
 ---
 

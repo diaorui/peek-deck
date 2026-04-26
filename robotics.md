@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-26T15:42:47.936321+00:00'
+updated: '2026-04-26T16:44:02.887330+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 26, 2026 at 15:42 UTC  
+**Last Updated:** April 26, 2026 at 16:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,19 @@ Robotics research and industry news
 
 **[Messing around with the holonomic (kiwi) drive](https://www.reddit.com/r/robotics/comments/1sw3y5d/messing_around_with_the_holonomic_kiwi_drive/)**
 
-5h ago
+6h ago
 
 ---
 
 **[I built a LeRobot dataset viewer with EE trajectory visualization](https://www.reddit.com/r/robotics/comments/1sw3oem/i_built_a_lerobot_dataset_viewer_with_ee/)**
 
-5h ago
+6h ago
+
+---
+
+**[Testing Robot DF6 with Pi](https://www.reddit.com/r/robotics/comments/1sw7h3e/testing_robot_df6_with_pi/)**
+
+3h ago
 
 ---
 
@@ -48,13 +54,7 @@ Robotics research and industry news
 
 i bet you haven't seen a SO101 mounted on a wall like this before if you want to do the same, here is LeSlider: https://github.com/pham-tuan-binh/leslider i built it cause i wanted something that can cover my whole desk for tasks like organizing and cleaning i originally wanted to have a belt system like what 3D printers have, but i was too lazy and used a pinion/track with another sts3215 so: > the extra motor shares the same bus as the rest of SO101 > you can have arbitrary length of track > really cheap and easy to assemble and control it turned out better than expected with this, i'm gonna train a model to pick random stuff up across my table and put it into a bin at the end of table (realistically using yolo to scan table, two policies, one for picking up objects, one for dropping)
 
-13h ago
-
----
-
-**[Testing Robot DF6 with Pi](https://www.reddit.com/r/robotics/comments/1sw7h3e/testing_robot_df6_with_pi/)**
-
-2h ago
+14h ago
 
 ---
 
@@ -62,7 +62,7 @@ i bet you haven't seen a SO101 mounted on a wall like this before if you want to
 
 I have implemented the whole stack of aerodynamics, flight mechanics and flight controller to simulate and train swarm UAVs in Isaac Lab. Check the repo.
 
-5h ago
+6h ago
 
 ---
 
@@ -70,13 +70,21 @@ I have implemented the whole stack of aerodynamics, flight mechanics and flight 
 
 I designed the robot using fusion 360 in programmed it with python. I designed android one as a research platform so when I wanted to test out an idea that needed a humanoid robot it was something I could do, this weekend I was bored so I programmed it to play air hockey it’s a little bad because my robot is pretty cheap but once I get enough funding, I’m gonna make a android 4 which is basically gonna be a remastered version of this one, but with more freedom of motion.
 
-11h ago
+12h ago
+
+---
+
+**[3D interactive dashboards for fleet control and infrastructure - any thoughts?](https://www.reddit.com/r/robotics/comments/1sw9ql9/3d_interactive_dashboards_for_fleet_control_and/)**
+
+Experimenting with 3D on the web, telemetry, and remote control. What do you think about 3D dashboards for managing and monitoring a fleet of robots?
+
+1h ago
 
 ---
 
 **[Dtof Obstacle Sensing Test](https://www.reddit.com/r/robotics/comments/1sw3amt/dtof_obstacle_sensing_test/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -84,7 +92,7 @@ I designed the robot using fusion 360 in programmed it with python. I designed a
 
 Hii i'm new to robotics and while im working with the KUKA KR6 R700-2/SEL robot i mistakenly broke the gripper of that robot. I hav tried all the possible way to make and buy that gripper and i would not be able to find one. I need you guys to suggest me a gripper with link if possible XD or any one who worked wth tht robot and can help me contact me.
 
-2h ago
+3h ago
 
 ---
 
@@ -92,19 +100,21 @@ Hii i'm new to robotics and while im working with the KUKA KR6 R700-2/SEL robot 
 
 Hey, I've been building CANviz - a browser-based CAN bus analyzer. pip install, plug in any USB CAN adapter, opens in your browser. No GUI app to install, works with low cost hardware. Just shipped v0.2.0 with live signal plotting and bus health stats. CANopen support (CiA 301 + CiA 402) is coming next. Would love to hear what you'd find most useful. Hackaday wrote it up here if you want more detail: https://hackaday.com/2026/04/21/can-bus-analyzer-runs-in-your-browser/ GitHub: https://github.com/Chanchaldhiman/CANviz
 
-17h ago
-
----
-
-**[Smart Chess Board using Hall Effect Sensors and Magnets - Not working :(](https://www.reddit.com/r/robotics/comments/1sw9tz2/smart_chess_board_using_hall_effect_sensors_and/)**
-
-42m ago
+18h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
+
+**[New e-skin gives robotic hand sense of touch in breakthrough test](https://interestingengineering.com/ai-robotics/flexible-electronics-electronic-skin-soft-robots-turku-study)**
+
+Researchers develop flexible, stretchable electronic skin and soft robots inspired by nature at University of Turku.
+
+Interesting Engineering • 1d ago
+
+---
 
 **[Pudu Robotics raises nearly $150M as it targets industrial applications](https://www.therobotreport.com/pudu-robotics-raises-nearly-150m-targets-industrial-applications/)**
 
@@ -114,19 +124,27 @@ The Robot Report • 2d ago
 
 ---
 
-**[A Spark Capital VC says the AI boom is creating a new kind of gig worker](https://www.businessinsider.com/spark-capital-vc-nabeel-hyatt-robotics-reshaping-gig-economy-2026-4)**
+**[Local robotics team gearing up for FIRST World Championship](https://www.yahoo.com/news/articles/local-robotics-team-gearing-first-131909032.html)**
 
-Spark Capital VC Nabeel Hyatt explains why AI needs human data and shares how robotics could reshape jobs and the future of gig work
+FIRST Robotics Team 48, Team ELITE, made up of students from Warren G. Harding High School, will be competing alongside 499 other teams from around the globe at the FIRST Championship in Houston, Texa...
 
-Business Insider • 3d ago
+Yahoo • 3h ago
 
 ---
 
-**['Self-aware' robots can learn complex tasks by watching humans. Is that a good thing?](https://www.npr.org/2026/04/24/nx-s1-5797863/self-aware-robots-future-laundry-work-home)**
+**[New robotic control software avoids jamming their joints](https://arstechnica.com/science/2026/04/kinematic-intelligence-helps-robots-learn-their-limits/)**
 
-Scientists say they've made a key breakthrough that would allow robots to figure out complex tasks on their own — but experts say it raises questions about how much risk comes with letting robots be in charge of their own learning.
+Software lets robots learn from each other even if they have different hardware.
 
-NPR • 2d ago
+Ars Technica • 5h ago
+
+---
+
+**[How I taught myself to code, quit my consulting job, and started an AI robotics firm by age 25](https://www.businessinsider.com/consultant-turned-ai-robotics-founder-career-lessons-bcg-remy-2026-4)**
+
+Oscar Brisset, 25, used most of his vacation days to learn to code. He left BCG to launch a YC-backed AI robotics company.
+
+Business Insider • 1d ago
 
 ---
 
@@ -138,47 +156,17 @@ CBS News • 1d ago
 
 ---
 
-**[A robotics CEO sees a 'moral imperative' to build an army of humanoids](https://www.businessinsider.com/foundation-humanoid-robot-soldier-ukraine-testing-2026-4)**
+**[Master's graduate and robotics champion: Cole Allen, suspect in Trump event shooting](https://nation.africa/kenya/news/world/cole-allen-suspect-in-the-trump-dinner-shooting-5436560)**
 
-Foundation sent humanoid robots to Ukraine for a demonstration. CEO Sankaet Pathak said that in 5 to 10 years, they will be able to extract targets.
-
-Business Insider • 7h ago
+Daily Nation • 10h ago
 
 ---
 
-**[From Record-Smashing Robot Runners to Consumer Robotics - Video](https://www.cnet.com/videos/from-record-smashing-robot-runners-to-consumer-robotics/)**
+**[These Tiny Robots 50x Smaller Than a Hair Can Hunt and Move Bacteria](https://scitechdaily.com/these-tiny-robots-50x-smaller-than-a-hair-can-hunt-and-move-bacteria/)**
 
-Flash, a humanoid robot made by Chinese smartphone company Honor, just smashed the human world record for the half-marathon. I dive into why this smartphone company seems to be pivoting to humanoid robots and whether others may soon follow.
+Photon-driven nanorobots can steer, capture, and move bacteria with precision, enabling controlled manipulation in microscopic environments and offering new tools for microbiology.
 
-CNET • 3h ago
-
----
-
-**[China's humanoid robotics boom is no startup success story](https://asia.nikkei.com/opinion/china-s-humanoid-robotics-boom-is-no-startup-success-story)**
-
-Unitree’s rise reveals a state architecture that cultivates industrial champions before global rivals notice
-
-Nikkei Asia • 2d ago
-
----
-
-**[Video Friday: Who Wins in Robot vs. Pro Ping-Pong Player?](https://spectrum.ieee.org/video-friday-ping-pong-robot)**
-
-Your weekly selection of awesome robot videos
-
-IEEE Spectrum • 3d ago
-
----
-
-**[Eric Trump Touts $24 Million Pentagon Contract Awarded to His Robotics Company](https://www.democracynow.org/2026/4/24/headlines/eric_trump_touts_24_million_pentagon_contract_awarded_to_his_robotics_company)**
-
-President Trump’s son Eric Trump is touting a $24 million Pentagon contract awarded to the robotics firm Foundation Future Industries, where he serves as chief strategy adviser. The contract will fund testing of its “Phantom” humanoid robots for future military applications. Here’s Eric Trump speaking on Fox Business about the deal.
-
-Eric Trump: “You know, I got involved with crypto in a very big way because we had to win that digital revolution. We have to win robotics in the United States of America.”
-
-Democratic lawmakers have blasted the deal as a clear example of nepotism and corruption. Massachusetts Senator Elizabeth Warren wrote, “Is the Pentagon just a cash machine for Trump’s kids now? This looks like corruption in plain sight.”
-
-Democracy Now! • 2d ago
+SciTechDaily • 5h ago
 
 ---
 
@@ -186,7 +174,15 @@ Democracy Now! • 2d ago
 
 Tesla delivered a Q1 double-beat, but shares fell as high capex spending and cautious AI scaling tempered optimism. Read more on TSLA stock here.
 
-Seeking Alpha • 1d ago
+Seeking Alpha • 2d ago
+
+---
+
+**['Self-aware' robots can learn complex tasks by watching humans. Is that a good thing?](https://www.npr.org/2026/04/24/nx-s1-5797863/self-aware-robots-future-laundry-work-home)**
+
+Scientists say they've made a key breakthrough that would allow robots to figure out complex tasks on their own — but experts say it raises questions about how much risk comes with letting robots be in charge of their own learning.
+
+NPR • 2d ago
 
 ---
 
@@ -280,7 +276,7 @@ humanoidrobot #ai #robotics.
 
 📺 PyShine
 
-👁️ 953 • 👍 4 • ⏱️ 0:21 • 2h ago
+👁️ 953 • 👍 4 • ⏱️ 0:21 • 3h ago
 
 ---
 

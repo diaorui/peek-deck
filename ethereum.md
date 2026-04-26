@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-26T15:42:47.933516+00:00'
+updated: '2026-04-26T16:44:02.884058+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
-- social
 - news
+- social
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 26, 2026 at 15:42 UTC  
+**Last Updated:** April 26, 2026 at 16:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.6%  
+**24h:** +1.5%  
 **7d:** +1.4%  
-**30d:** +17.6%  
+**30d:** +17.5%  
 **90d:** -22.5%  
-**1y:** +30.8%  
+**1y:** +30.7%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I wanted to share something interesting that happened recently. Etherscan added an info note to the Unicorn Meat token page that reads: "This token was created by Avsa of the Ethereum Foundation. Read more about it in this post." The link goes to a tweet from the official @ethereum account from April 1, 2016 announcing "the Unicorn Meat Grinder Smart Contract and Bribable DAO" by @avsa. For those who don't know the backstory: Alex Van de Sande (avsa) was one of Ethereum's earliest core team members. He built the Mist Browser, the Ethereum Wallet, and co-created ENS. In early 2016 he deployed a set of contracts as part of the ethereum.org tutorials, including the Unicorns token and the Unicorn Meat Grinder, a DAO that let you convert Unicorns into Unicorn Meat through on-chain governance. The contracts were deployed from his same wallet that deployed the Foundation Tip Jar, which Alex made on behalf of the Foundation to raise money and donors received Unicorn tokens. So the provenance chain is: same deployer address, multiple Etherscan-labeled EF contracts, and now an official Etherscan note confirming the connection. What makes this historically interesting: The Meat Grinder was one of the first DAOs on Ethereum, predating The DAO by months. It used a proposal and voting system where token holders could vote on actions like grinding Unicorns into Meat. It introduced one of the first token upgrade patterns. The Unicorn-to-Meat conversion was essentially a token migration mechanism, something that became standard practice years later. The contracts were based on the ethereum.org tutorials that avsa wrote to teach developers how to build on Ethereum. These tutorials were how an entire generation of Solidity developers learned the language. We've been working on documenting and verifying the source code of these contracts on EthereumHistory, including cracking the bytecode of contracts that were never verified on Etherscan. We recently launched a Collections feature that groups all contracts by their deployer, starting with avsa's 60 contracts and Vitalik's 66 contracts. We also recently cracked and verified the Meat Grinder's source code on Etherscan. The source had been sitting in avsa's public GitHub gist for 10 years but was never formally verified on-chain. The challenge was figuring out the exact compiler settings: these contracts predate Solidity 0.4, so there's no metadata hash in the bytecode to help identify the version. We had to work through early solc releases until we found that solc 0.2.1 with default optimization produced an exact byte-for-byte match against the on-chain runtime bytecode. Once confirmed, we submitted it to both Sourcify and Etherscan, so anyone can now read the original Solidity source directly on Etherscan and verify it themselves. It's a small thing, but these early contracts are historical artifacts. Having their source verified on-chain means the code is permanently readable and auditable, not just sitting in a gist that could disappear. If anyone is interested in Ethereum's early contract history, the provenance page has the full chain of evidence laid out, and EthereumHistory is an open platform where anyone can help document contracts.
 
-17h ago
+18h ago
 
 ---
 
@@ -88,7 +88,7 @@ I wanted to share something interesting that happened recently. Etherscan added 
 
 Hey everyone - I built AliBitress because we wanted an easier way to actually spend crypto on everyday products instead of constantly converting to fiat first. The idea is simple: use your crypto directly for online shopping. Current platform supports: - 360+ cryptocurrencies - Millions of products - Shipping to 200+ countries Still improving things every week, and I’d genuinely like feedback from people who would use something like this. Questions for the community: - What would make a crypto shopping platform actually useful to you? - Which coins/networks should we add next? - What would stop you from using a service like this? If anyone wants to check it out / roast it / suggest improvements: alibitress.com Appreciate any feedback. Supported currencies: https://www.alibitress.com/currencies#popular
 
-8h ago
+9h ago
 
 ---
 
@@ -168,11 +168,19 @@ The Motley Fool • 3d ago
 
 ---
 
-**[Better Growth Investment to Buy With $500: Ethereum vs. Strategy](https://finance.yahoo.com/markets/crypto/articles/better-growth-investment-buy-500-025000221.html)**
+**[BitMine To Purchase 10,000 ETH From Ethereum Foundation](https://finance.yahoo.com/markets/crypto/articles/bitmine-purchase-10-000-eth-180300758.html)**
 
-These two assets take very different approaches to generating value.
+BitMine Immersion Technologies (NYSE: $BMNR) is purchasing 10,000 Ethereum (CRYPTO: $ETH) from the Ethereum Foundat...
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 1d ago
+
+---
+
+**[Ethereum Foundation unstakes 17K ETH after nearing 70K staked ETH milestone](https://www.tradingview.com/news/cointelegraph:533982cd9094b:0-ethereum-foundation-unstakes-17k-eth-after-nearing-70k-staked-eth-milestone/)**
+
+The Ethereum Foundation has moved to unwind part of its staking position shortly after nearing its stated goal of 70,000 staked ETH.On Saturday, the Ethereum Foundation unstaked 17,035.326 ETH, worth roughly $40 million, according to Arkham data. The move involved depositing wrapped staked ETH (wst…
+
+TradingView • 4h ago
 
 ---
 
@@ -180,7 +188,7 @@ Yahoo Finance • 12h ago
 
 Bitmine Immersion also spent about $10 million when it bought 5,000 ETH from the Ethereum Foundation last month.
 
-The Block • 1d ago
+The Block • 2d ago
 
 ---
 
@@ -188,7 +196,7 @@ The Block • 1d ago
 
 Dubai, UAE, April  26, 2026  (GLOBE NEWSWIRE) -- Pepeto confirmed this week that final test on the Exchange are done, to support the big volume it...
 
-markets.businessinsider.com • 1h ago
+markets.businessinsider.com • 2h ago
 
 ---
 
@@ -196,7 +204,7 @@ markets.businessinsider.com • 1h ago
 
 The Ethereum Foundation unstaked $48.9 million in ETH, raising sell-off concerns; Ethereum reaching $10,000 by December 31, 2026 at 4% YES.
 
-Crypto Briefing • 3h ago
+Crypto Briefing • 4h ago
 
 ---
 
@@ -212,17 +220,11 @@ TipRanks • 1d ago
 
 ---
 
-**[Could This Cryptocurrency Help You Build a Fortune Over the Next Decade?](https://www.aol.com/articles/could-cryptocurrency-help-build-fortune-101500884.html)**
+**[Ethereum Whale Buys $828K in $ASTEROID](https://blockchain.news/flashnews/ethereum-whale-buys-828k-asteroid)**
 
-Ethereum is perhaps the only cryptocurrency that touches everything else in the sector.
+Dormant Ethereum whale spends 358 ETH ($828K) on 2.62B $ASTEROID, adds liquidity; holds 81.64 ETH for more buys amid bullish ETH trends.
 
-AOL.com • 5h ago
-
----
-
-**[Ethereum Price Prediction Targets Record Highs as Bitmine Loads 4.98M ETH, But This Best Crypto to Buy Now Could 100x First](https://financefeeds.com/ethereum-price-prediction-targets-record-highs-as-bitmine-loads-4-98m-eth-but-this-best-crypto-to-buy-now-could-100x-first/)**
-
-FinanceFeeds • 14h ago
+blockchain.news • 6h ago
 
 ---
 
@@ -236,7 +238,7 @@ THEY ARE PREDICTING - $500K BITCOIN, $40K ETHEREUM, AND $50 XRP BY THIS DATE! GE
 
 📺 Austin Hilton
 
-👁️ 10K • 👍 509 • 💬 30 • ⏱️ 9:47 • 22h ago
+👁️ 10K • 👍 509 • 💬 30 • ⏱️ 9:47 • 23h ago
 
 ---
 
@@ -246,7 +248,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 215 • 👍 17 • 💬 1 • ⏱️ 4:49 • 6h ago
+👁️ 215 • 👍 17 • 💬 1 • ⏱️ 4:49 • 7h ago
 
 ---
 
@@ -256,7 +258,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 16K • 👍 460 • 💬 53 • ⏱️ 23:11 • 2d ago
+👁️ 16K • 👍 460 • 💬 53 • ⏱️ 23:11 • 3d ago
 
 ---
 
@@ -266,7 +268,7 @@ THE FLOODGATES JUST OPENED!! XRP LEDGER HAS OFFICIALLY OVERTAKEN ETHEREUM!! $1.1
 
 📺 The Wall Street Bull
 
-👁️ 478 • 👍 55 • 💬 4 • ⏱️ 23:06 • 9h ago
+👁️ 478 • 👍 55 • 💬 4 • ⏱️ 23:06 • 10h ago
 
 ---
 
@@ -276,7 +278,7 @@ Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=Al
 
 📺 Altcoin Daily
 
-👁️ 31K • 👍 2K • 💬 129 • ⏱️ 8:58 • 19h ago
+👁️ 31K • 👍 2K • 💬 129 • ⏱️ 8:58 • 20h ago
 
 ---
 
@@ -286,7 +288,7 @@ Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=Al
 
 📺 Library Of Wealth
 
-👁️ 1K • 👍 45 • 💬 132 • ⏱️ 16:26 • 1d ago
+👁️ 1K • 👍 45 • 💬 132 • ⏱️ 16:26 • 2d ago
 
 ---
 
@@ -316,7 +318,7 @@ DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! 
 
 📺 Krypto Trading & Investing
 
-👁️ 2K • 👍 405 • 💬 33 • ⏱️ 9:32 • 10h ago
+👁️ 2K • 👍 405 • 💬 33 • ⏱️ 9:32 • 11h ago
 
 ---
 
@@ -326,7 +328,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 997 • 👍 82 • ⏱️ 6:21 • 12h ago
+👁️ 997 • 👍 82 • ⏱️ 6:21 • 13h ago
 
 ---
 
