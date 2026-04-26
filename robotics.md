@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-26T14:44:29.399521+00:00'
+updated: '2026-04-26T15:42:47.936321+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 26, 2026 at 14:44 UTC  
+**Last Updated:** April 26, 2026 at 15:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,13 @@ Robotics research and industry news
 
 **[Messing around with the holonomic (kiwi) drive](https://www.reddit.com/r/robotics/comments/1sw3y5d/messing_around_with_the_holonomic_kiwi_drive/)**
 
-4h ago
+5h ago
+
+---
+
+**[I built a LeRobot dataset viewer with EE trajectory visualization](https://www.reddit.com/r/robotics/comments/1sw3oem/i_built_a_lerobot_dataset_viewer_with_ee/)**
+
+5h ago
 
 ---
 
@@ -42,21 +48,13 @@ Robotics research and industry news
 
 i bet you haven't seen a SO101 mounted on a wall like this before if you want to do the same, here is LeSlider: https://github.com/pham-tuan-binh/leslider i built it cause i wanted something that can cover my whole desk for tasks like organizing and cleaning i originally wanted to have a belt system like what 3D printers have, but i was too lazy and used a pinion/track with another sts3215 so: > the extra motor shares the same bus as the rest of SO101 > you can have arbitrary length of track > really cheap and easy to assemble and control it turned out better than expected with this, i'm gonna train a model to pick random stuff up across my table and put it into a bin at the end of table (realistically using yolo to scan table, two policies, one for picking up objects, one for dropping)
 
-12h ago
+13h ago
 
 ---
 
-**[Programed my android 1 to play air hockey](https://www.reddit.com/r/robotics/comments/1svxfjd/programed_my_android_1_to_play_air_hockey/)**
+**[Testing Robot DF6 with Pi](https://www.reddit.com/r/robotics/comments/1sw7h3e/testing_robot_df6_with_pi/)**
 
-I designed the robot using fusion 360 in programmed it with python. I designed android one as a research platform so when I wanted to test out an idea that needed a humanoid robot it was something I could do, this weekend I was bored so I programmed it to play air hockey it’s a little bad because my robot is pretty cheap but once I get enough funding, I’m gonna make a android 4 which is basically gonna be a remastered version of this one, but with more freedom of motion.
-
-10h ago
-
----
-
-**[I built a LeRobot dataset viewer with EE trajectory visualization](https://www.reddit.com/r/robotics/comments/1sw3oem/i_built_a_lerobot_dataset_viewer_with_ee/)**
-
-4h ago
+2h ago
 
 ---
 
@@ -64,19 +62,29 @@ I designed the robot using fusion 360 in programmed it with python. I designed a
 
 I have implemented the whole stack of aerodynamics, flight mechanics and flight controller to simulate and train swarm UAVs in Isaac Lab. Check the repo.
 
-4h ago
+5h ago
 
 ---
 
-**[Testing Robot DF6 with Pi](https://www.reddit.com/r/robotics/comments/1sw7h3e/testing_robot_df6_with_pi/)**
+**[Programed my android 1 to play air hockey](https://www.reddit.com/r/robotics/comments/1svxfjd/programed_my_android_1_to_play_air_hockey/)**
 
-1h ago
+I designed the robot using fusion 360 in programmed it with python. I designed android one as a research platform so when I wanted to test out an idea that needed a humanoid robot it was something I could do, this weekend I was bored so I programmed it to play air hockey it’s a little bad because my robot is pretty cheap but once I get enough funding, I’m gonna make a android 4 which is basically gonna be a remastered version of this one, but with more freedom of motion.
+
+11h ago
 
 ---
 
 **[Dtof Obstacle Sensing Test](https://www.reddit.com/r/robotics/comments/1sw3amt/dtof_obstacle_sensing_test/)**
 
-4h ago
+5h ago
+
+---
+
+**[Searching for a Gripper for a specific KUKA model](https://www.reddit.com/r/robotics/comments/1sw79t5/searching_for_a_gripper_for_a_specific_kuka_model/)**
+
+Hii i'm new to robotics and while im working with the KUKA KR6 R700-2/SEL robot i mistakenly broke the gripper of that robot. I hav tried all the possible way to make and buy that gripper and i would not be able to find one. I need you guys to suggest me a gripper with link if possible XD or any one who worked wth tht robot and can help me contact me.
+
+2h ago
 
 ---
 
@@ -84,21 +92,13 @@ I have implemented the whole stack of aerodynamics, flight mechanics and flight 
 
 Hey, I've been building CANviz - a browser-based CAN bus analyzer. pip install, plug in any USB CAN adapter, opens in your browser. No GUI app to install, works with low cost hardware. Just shipped v0.2.0 with live signal plotting and bus health stats. CANopen support (CiA 301 + CiA 402) is coming next. Would love to hear what you'd find most useful. Hackaday wrote it up here if you want more detail: https://hackaday.com/2026/04/21/can-bus-analyzer-runs-in-your-browser/ GitHub: https://github.com/Chanchaldhiman/CANviz
 
-16h ago
+17h ago
 
 ---
 
-**[Robotics builders I'm currently looking for beta testers for JASM!](https://www.reddit.com/r/robotics/comments/1svvpoe/robotics_builders_im_currently_looking_for_beta/)**
+**[Smart Chess Board using Hall Effect Sensors and Magnets - Not working :(](https://www.reddit.com/r/robotics/comments/1sw9tz2/smart_chess_board_using_hall_effect_sensors_and/)**
 
-u/mods if this breaks the rules take it down. I'm looking for beta testers who are not afraid to break things, the end goal here is to make the worlds most easy to use, fully featured servo controlling software, and I'm building it while also building characters to test it with. Here's the rundown: JASM - Jester's Animatronic Servo Mapper Ever bought a bunch of servos, wired them up to a PCA9685, and then sat there wondering "now what?" Yeah. That's the problem this solves. What it actually does: You plug in your board (supports 50 different MCUs - ESP32, Arduino, Raspberry Pi Pico, etc.), click Upload Firmware, connect, and you're moving servos with sliders in under 5 minutes. No Arduino IDE. No code. No libraries to install. Things that used to be painful that aren't anymore: Making smooth movements - Every channel has its own speed control, EMA smoothing, and Bezier easing. No more jerky servos snapping from one position to another. Recording performances - Hit record, move the sliders (or use a gamepad), and it saves the whole thing synced to audio. Layer channels one at a time like a multitrack recorder. Lip sync - Load a vocal track and it auto-generates jaw movement from a phoneme dictionary. No manual keyframing. Text to Speech - Type a script, hit Perform, and your animatronic speaks it with automatic lip sync, idle animations (blinks, eye movement, ear twitches), and expression changes. Uses the Inworld API with your own account. Gamepad puppeteering - Map any Xbox/PS controller stick or button to any servo channel. Puppeteer the whole head live. Standalone playback - Upload animations to the board and it runs without a computer. Power it up and it goes. Supports button triggers, PIR sensors, or auto-loop. Servo limits - Set min/max/neutral for every channel so you never strip a gear or slam into a physical stop again. Who it's for: Animatronics builders, Halloween prop makers, cosplayers, fursuit makers, anyone doing museum exhibits or trade show displays. If you've got servos and an idea, this is the program. If you would like to be a beta tester and you have some experience with servos and MCU's DM me here. Discord is empty right now, as I have literally just started it.
-
-11h ago
-
----
-
-**[Thought-controlled robotic arm by Neuralink aimed at restoring independence for paralyzed patients](https://www.reddit.com/r/robotics/comments/1svh8t5/thoughtcontrolled_robotic_arm_by_neuralink_aimed/)**
-
-21h ago
+42m ago
 
 ---
 
@@ -122,6 +122,14 @@ Business Insider • 3d ago
 
 ---
 
+**['Self-aware' robots can learn complex tasks by watching humans. Is that a good thing?](https://www.npr.org/2026/04/24/nx-s1-5797863/self-aware-robots-future-laundry-work-home)**
+
+Scientists say they've made a key breakthrough that would allow robots to figure out complex tasks on their own — but experts say it raises questions about how much risk comes with letting robots be in charge of their own learning.
+
+NPR • 2d ago
+
+---
+
 **[AI robots are learning to do simple human tasks at a factory in Massachusetts](https://www.cbsnews.com/boston/news/ai-robots-tutor-intelligence-watertown/)**
 
 Tutor Intelligence in Watertown is a kind of kindergarten for robots.
@@ -130,19 +138,19 @@ CBS News • 1d ago
 
 ---
 
-**[From Record-Smashing Robot Runners to Consumer Robotics - Video](https://www.cnet.com/videos/from-record-smashing-robot-runners-to-consumer-robotics/)**
-
-Flash, a humanoid robot made by Chinese smartphone company Honor, just smashed the human world record for the half-marathon. I dive into why this smartphone company seems to be pivoting to humanoid robots and whether others may soon follow.
-
-CNET • 2h ago
-
----
-
 **[A robotics CEO sees a 'moral imperative' to build an army of humanoids](https://www.businessinsider.com/foundation-humanoid-robot-soldier-ukraine-testing-2026-4)**
 
 Foundation sent humanoid robots to Ukraine for a demonstration. CEO Sankaet Pathak said that in 5 to 10 years, they will be able to extract targets.
 
-Business Insider • 6h ago
+Business Insider • 7h ago
+
+---
+
+**[From Record-Smashing Robot Runners to Consumer Robotics - Video](https://www.cnet.com/videos/from-record-smashing-robot-runners-to-consumer-robotics/)**
+
+Flash, a humanoid robot made by Chinese smartphone company Honor, just smashed the human world record for the half-marathon. I dive into why this smartphone company seems to be pivoting to humanoid robots and whether others may soon follow.
+
+CNET • 3h ago
 
 ---
 
@@ -154,14 +162,6 @@ Nikkei Asia • 2d ago
 
 ---
 
-**['Self-aware' robots can learn complex tasks by watching humans. Is that a good thing?](https://www.npr.org/2026/04/24/nx-s1-5797863/self-aware-robots-future-laundry-work-home)**
-
-Scientists say they've made a key breakthrough that would allow robots to figure out complex tasks on their own — but experts say it raises questions about how much risk comes with letting robots be in charge of their own learning.
-
-NPR • 2d ago
-
----
-
 **[Video Friday: Who Wins in Robot vs. Pro Ping-Pong Player?](https://spectrum.ieee.org/video-friday-ping-pong-robot)**
 
 Your weekly selection of awesome robot videos
@@ -170,17 +170,23 @@ IEEE Spectrum • 3d ago
 
 ---
 
+**[Eric Trump Touts $24 Million Pentagon Contract Awarded to His Robotics Company](https://www.democracynow.org/2026/4/24/headlines/eric_trump_touts_24_million_pentagon_contract_awarded_to_his_robotics_company)**
+
+President Trump’s son Eric Trump is touting a $24 million Pentagon contract awarded to the robotics firm Foundation Future Industries, where he serves as chief strategy adviser. The contract will fund testing of its “Phantom” humanoid robots for future military applications. Here’s Eric Trump speaking on Fox Business about the deal.
+
+Eric Trump: “You know, I got involved with crypto in a very big way because we had to win that digital revolution. We have to win robotics in the United States of America.”
+
+Democratic lawmakers have blasted the deal as a clear example of nepotism and corruption. Massachusetts Senator Elizabeth Warren wrote, “Is the Pentagon just a cash machine for Trump’s kids now? This looks like corruption in plain sight.”
+
+Democracy Now! • 2d ago
+
+---
+
 **[Tesla: The Street Wrongly Hates The Capex Plan, AI & Robotics On Track (NASDAQ:TSLA)](https://seekingalpha.com/article/4894026-tesla-the-street-wrongly-hates-the-capex-plan-ai-and-robotics-on-track)**
 
 Tesla delivered a Q1 double-beat, but shares fell as high capex spending and cautious AI scaling tempered optimism. Read more on TSLA stock here.
 
 Seeking Alpha • 1d ago
-
----
-
-**[Master's graduate and robotics champion: Cole Allen, suspect in Trump event shooting](https://nation.africa/kenya/news/world/cole-allen-suspect-in-the-trump-dinner-shooting-5436560)**
-
-Daily Nation • 8h ago
 
 ---
 
@@ -224,7 +230,7 @@ For the first time, an AI-powered machine has bested elite-level athletes at a p
 
 📺 nature video
 
-👁️ 112K • 👍 2K • 💬 225 • ⏱️ 13:38 • 3d ago
+👁️ 112K • 👍 2K • 💬 225 • ⏱️ 13:38 • 4d ago
 
 ---
 
@@ -274,7 +280,7 @@ humanoidrobot #ai #robotics.
 
 📺 PyShine
 
-👁️ 953 • 👍 4 • ⏱️ 0:21 • 1h ago
+👁️ 953 • 👍 4 • ⏱️ 0:21 • 2h ago
 
 ---
 

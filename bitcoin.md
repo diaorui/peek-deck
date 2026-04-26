@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-26T14:44:29.389850+00:00'
+updated: '2026-04-26T15:42:47.928343+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
-- news
 - cryptocurrency
+- videos
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 26, 2026 at 14:44 UTC  
+**Last Updated:** April 26, 2026 at 15:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,854.52
+### $77,946.49
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** +2.8%  
-**30d:** +17.5%  
-**90d:** -12.6%  
-**1y:** -16.8%  
+**24h:** +0.9%  
+**7d:** +3.0%  
+**30d:** +17.6%  
+**90d:** -12.5%  
+**1y:** -16.7%  
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 In this sub, absolute cinema
 
-3h ago
+4h ago
 
 ---
 
 **[Sometimes I wonder...](https://www.reddit.com/r/Bitcoin/comments/1svo1db/sometimes_i_wonder/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -95,7 +95,15 @@ In this sub, absolute cinema
 
 In 2023 I started investing in Bitcoin but it was at an all time high at 29k and sold, now I regret it and started buying again.
 
-10h ago
+11h ago
+
+---
+
+**[Daily Discussion, April 26, 2026](https://www.reddit.com/r/Bitcoin/comments/1svzchm/daily_discussion_april_26_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+9h ago
 
 ---
 
@@ -107,19 +115,11 @@ The US Treasury froze $344 million in USDT linked to Iran with a single call to 
 
 ---
 
-**[Daily Discussion, April 26, 2026](https://www.reddit.com/r/Bitcoin/comments/1svzchm/daily_discussion_april_26_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-8h ago
-
----
-
 **[How do you HODL: Cold Storage / Hot Wallet / Exchange/ ETF](https://www.reddit.com/r/Bitcoin/comments/1sw76xp/how_do_you_hodl_cold_storage_hot_wallet_exchange/)**
 
 Curious what everyone’s mix is. (Not a Fed)
 
-1h ago
+2h ago
 
 ---
 
@@ -127,7 +127,7 @@ Curious what everyone’s mix is. (Not a Fed)
 
 Hello, so my bank/banks in my country in Europe do not allow bitcoin to be purchased using debit or credit cards. I did find a way to use bank transfer for platforms like Kraken, but they charge me a monthly fee just to have that feature, which is difficult for me since I am currently on a tight budget. I am wondering if there is any alternative way for me to buy bitcoin through another platform, such as Binance, and then transfer or trade it to my Kraken wallet safely and without high fees.
 
-17h ago
+18h ago
 
 ---
 
@@ -135,15 +135,7 @@ Hello, so my bank/banks in my country in Europe do not allow bitcoin to be purch
 
 Ppl only looking at short term liquidity saying shorts have been liquidated. But have u paid attention to older liquidity? Coinglass 3 month chart barely shows it. U need smth like trading different to see it fully. Goes all the way up to 96k. And there is a ton of it. Pay attention to the sideways consolidation, we have been doing this every weekend and then pumping to the upside. Everyone and their mom is shorting here. That means a very very very strong chance of upside. We’re going into the 80s at the very least. Do not short and get rekt. Dca/buy and hold
 
-20h ago
-
----
-
-**[Question: Safe Anonymous wallet](https://www.reddit.com/r/Bitcoin/comments/1sw3s2h/question_safe_anonymous_wallet/)**
-
-Hello all, I feel like its very difficult now to actually have 100% safe and anonymous wallet. What would the steps to have a safe and anonymous wallet that would never be tracked to a person name? This must include Safety: if you suggest a website or an app to generate a wallet and get the keys for and then print it out on piece of paper. How are you 100% sure the generator is not fake? Anonymity: getting the wallet undocumented and how to later on exchange it back to fiat without having to through places like Coinbase etc... Purchasing: Many business online now accept crypto/btc but its usually associated to an account/name. I feel like the regulations are "needed" for crypto to be accepted in masses but that kind of breaks the purpose of it. Thanks in advance
-
-4h ago
+21h ago
 
 ---
 
@@ -151,7 +143,15 @@ Hello all, I feel like its very difficult now to actually have 100% safe and ano
 
 Why does every finance app try to look like a Bloomberg Terminal? 90% of those charts are just noise. I’ve been working on a project that strips all that away. It’s a simple, high-precision tracker for crypto and stocks. Important note: To keep things secure and simple, there are no trading features. You don't buy or sell assets in the app—it's designed solely to give you a perfect, clean overview of your portfolio and the market. If you’re looking for a more zen way to keep an eye on the market, give it a try. Link: https://play.google.com/store/apps/details?id=cz.akcie.app
 
-17h ago
+18h ago
+
+---
+
+**[Question: Safe Anonymous wallet](https://www.reddit.com/r/Bitcoin/comments/1sw3s2h/question_safe_anonymous_wallet/)**
+
+Hello all, I feel like its very difficult now to actually have 100% safe and anonymous wallet. What would the steps to have a safe and anonymous wallet that would never be tracked to a person name? This must include Safety: if you suggest a website or an app to generate a wallet and get the keys for and then print it out on piece of paper. How are you 100% sure the generator is not fake? Anonymity: getting the wallet undocumented and how to later on exchange it back to fiat without having to through places like Coinbase etc... Purchasing: Many business online now accept crypto/btc but its usually associated to an account/name. I feel like the regulations are "needed" for crypto to be accepted in masses but that kind of breaks the purpose of it. Thanks in advance
+
+5h ago
 
 ---
 
@@ -159,41 +159,11 @@ Why does every finance app try to look like a Bloomberg Terminal? 90% of those c
 
 ## Google News: "bitcoin"
 
-**[Why investors are flocking to BlackRock’s bitcoin options to hedge against a wild global economy](https://www.coindesk.com/markets/2026/04/25/blackrock-s-bitcoin-etf-just-hit-a-massive-milestone-that-proves-crypto-is-now-a-mainstream-bet)**
+**[Freezing dormant BTC would trigger worst single day repricing in bitcoin’s history, says maximalist](https://www.coindesk.com/business/2026/04/26/freezing-5-6-million-dormant-bitcoin-could-trigger-worst-single-day-repricing)**
 
-IBIT options open interest topped Deribit on Friday, signaling rapid institutional adoption of regulated crypto derivatives in the U.S.
+Some bitcoin advocates argue freezing dormant coins would set a dangerous precedent, while others say failing to act could pose greater risks.
 
-CoinDesk • 20h ago
-
----
-
-**[Bitcoin’s Stealth Rally Has Traders Setting Sights on $80,000](https://www.bloomberg.com/news/articles/2026-04-25/bitcoin-s-stealth-rally-has-traders-setting-sights-on-80-000)**
-
-Bloomberg.com • 1d ago
-
----
-
-**[Why the ultra-wealthy are using bitcoin to buy real estate](https://finance.yahoo.com/video/why-ultra-wealthy-using-bitcoin-120000848.html)**
-
-Market Domination welcomes Christie's International Real Estate Southern California founder and CEO, Aaron Kirman, to break down why some ultra-wealthy individuals are using bitcoin (BTC-USD) to purchase real estate (XLRE).
-
-Yahoo Finance • 2h ago
-
----
-
-**[Peter Schiff Warns of a “Death Spiral” in MicroStrategy’s Bitcoin Strategy](https://finance.yahoo.com/markets/crypto/articles/peter-schiff-warns-death-spiral-103000281.html)**
-
-Peter Schiff says MicroStrategy's STRC dividend creates a Bitcoin death spiral risk that could sink MSTR shares fast.
-
-Yahoo Finance • 4h ago
-
----
-
-**[Kevin O'Leary sold 26 altcoins after the 2025 crash, kept only Bitcoin and Ethereum — says the rest have 'no future'](https://finance.yahoo.com/markets/crypto/articles/kevin-oleary-sold-26-altcoins-111500960.html)**
-
-Most altcoins fail. Should you write them off completely? Shark Tank investor Kevin O’Leary has thoughts on what you should do.
-
-Yahoo Finance • 3h ago
+CoinDesk • 1h ago
 
 ---
 
@@ -205,19 +175,41 @@ The Block • 2d ago
 
 ---
 
-**[Bitcoin might be at risk from a new quantum math trick that breaks digital ownership](https://www.coindesk.com/tech/2026/04/25/clock-is-ticking-for-bitcoin-to-prevent-quantum-threat-as-it-could-drain-6-9-million-btc-including-satoshi-s)**
-
-Can a network without formal governance coordinate the biggest cryptographic migration in its history?
-
-CoinDesk • 1d ago
-
----
-
 **[Quantum attack breaks crypto key 512x larger than last record. Is Bitcoin ready?](https://finance.yahoo.com/markets/crypto/articles/quantum-attack-breaks-crypto-key-211813708.html)**
 
 Giancarlo Lelli performed the largest known quantum attack on Bitcoin’s encryption model. His feat is a 512-fold jump from the previous record. Bitcoin enthusiasts are scrambling for ideas to deal with the quantum computing threat.
 
 Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin’s Stealth Rally Has Traders Setting Sights on $80,000](https://www.bloomberg.com/news/articles/2026-04-25/bitcoin-s-stealth-rally-has-traders-setting-sights-on-80-000)**
+
+Bloomberg.com • 1d ago
+
+---
+
+**[Analyst Who Called Bitcoin’s Top Correctly Now Predicting The Bottom](https://www.tradingview.com/news/newsbtc:a5832a4ca094b:0-analyst-who-called-bitcoin-s-top-correctly-now-predicting-the-bottom/)**
+
+Bitcoin has spent April staging a recovery from its March lows, briefly climbing back above $79,000. However, not everyone is convinced of the rebound, and some analysts believe the move is only a mid-bear-market rally before a deeper correction.One such analyst is one that previously predicted a c…
+
+TradingView • 1h ago
+
+---
+
+**[Five Big Tech Earnings Could Decide Bitcoin’s Next Move This Week](https://finance.yahoo.com/markets/crypto/articles/five-big-tech-earnings-could-150000548.html)**
+
+Five Big Tech firms report this week. The results could move Bitcoin given its record correlation with Nasdaq stocks
+
+Yahoo Finance • 42m ago
+
+---
+
+**[What next as Bitcoin (BTC) whales go long despite bearish bets piling up](https://www.coindesk.com/markets/2026/04/26/bitcoin-whales-build-long-positions-as-funding-stays-deeply-negative)**
+
+Long bias from the largest perpetual traders on Hyperliquid has built steadily through February, March and April, with the position now leaning aggressively long as bitcoin tags $80,000 and US-Iran talks resume.
+
+CoinDesk • 1h ago
 
 ---
 
@@ -232,6 +224,12 @@ The New York Times • 3d ago
 The bitcoin price crash has wiped more than $1 trillion from the cryptocurrency's market cap...
 
 Forbes • 2d ago
+
+---
+
+**[Bitcoin holds steady as institutional derivatives reach new milestone](https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-steady-as-institutional-derivatives-reach-new-milestone-4637419)**
+
+Investing.com • 12h ago
 
 ---
 
@@ -313,7 +311,7 @@ The quantum threat to Bitcoin keeps inching closer, this time thanks to a resear
 
 A new documentary asserts that Bitcoin creator Satoshi Nakamoto was actually two people: the late Hal Finney and Len Sassaman.
 
-⬆️ 2 • 💬 2 • 3d ago • [Decrypt](https://decrypt.co/365075/finding-satoshi-makes-the-case-for-hal-finney-len-sassaman-as-bitcoin-co-creators)
+⬆️ 2 • 💬 2 • 4d ago • [Decrypt](https://decrypt.co/365075/finding-satoshi-makes-the-case-for-hal-finney-len-sassaman-as-bitcoin-co-creators)
 
 ---
 
@@ -327,7 +325,7 @@ Michael Saylor is buying at a pace that could trigger a historic Bitcoin supply 
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 1K • 💬 75 • ⏱️ 20:53 • 15h ago
+👁️ 13K • 👍 1K • 💬 75 • ⏱️ 20:53 • 16h ago
 
 ---
 
@@ -337,7 +335,7 @@ Kevin Warsh may be the next Fed Chair, and the real question is simple: when doe
 
 📺 Swan Bitcoin
 
-👁️ 7K • 👍 443 • 💬 13 • ⏱️ 11:16 • 11h ago
+👁️ 7K • 👍 443 • 💬 13 • ⏱️ 11:16 • 12h ago
 
 ---
 
@@ -347,7 +345,7 @@ Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=Al
 
 📺 Altcoin Daily
 
-👁️ 31K • 👍 2K • 💬 129 • ⏱️ 8:58 • 18h ago
+👁️ 31K • 👍 2K • 💬 129 • ⏱️ 8:58 • 19h ago
 
 ---
 
@@ -397,7 +395,7 @@ THEY ARE PREDICTING - $500K BITCOIN, $40K ETHEREUM, AND $50 XRP BY THIS DATE! GE
 
 📺 Austin Hilton
 
-👁️ 10K • 👍 509 • 💬 30 • ⏱️ 9:47 • 21h ago
+👁️ 10K • 👍 509 • 💬 30 • ⏱️ 9:47 • 22h ago
 
 ---
 
@@ -407,7 +405,7 @@ In this video, we take a look at how Heikin-Ashi candles can help remove some of
 
 📺 Benjamin Cowen
 
-👁️ 36K • 👍 3K • 💬 182 • ⏱️ 23:18 • 10h ago
+👁️ 36K • 👍 3K • 💬 182 • ⏱️ 23:18 • 11h ago
 
 ---
 
