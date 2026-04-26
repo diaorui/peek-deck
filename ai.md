@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-26T06:24:15.312285+00:00'
+updated: '2026-04-26T08:02:09.989044+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 26, 2026 at 06:24 UTC  
+**Last Updated:** April 26, 2026 at 08:02 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Federal funding for scientific research was already in turmoil.
 
-🔗 [The Verge](https://www.theverge.com/science/918769/trump-fires-the-entire-national-science-board) • 5h ago
+🔗 [The Verge](https://www.theverge.com/science/918769/trump-fires-the-entire-national-science-board) • 6h ago
 
 ---
 
@@ -49,7 +49,7 @@ Federal funding for scientific research was already in turmoil.
 
 Slack messages, interviews with current and former works paint picture of company in turmoil.
 
-🔗 [Ars Technica](https://arstechnica.com/tech-policy/2026/04/palantir-employees-are-talking-about-companys-descent-into-fascism/) • 12h ago
+🔗 [Ars Technica](https://arstechnica.com/tech-policy/2026/04/palantir-employees-are-talking-about-companys-descent-into-fascism/) • 14h ago
 
 ---
 
@@ -57,7 +57,7 @@ Slack messages, interviews with current and former works paint picture of compan
 
 A new survey carried out amongst 12 to 16-year-old boys has found that many of them prefer to use AI chatbots than engage with other people their age.
 
-🔗 [Dexerto](https://www.dexerto.com/entertainment/gen-alpha-boys-are-preferring-ai-girlfriends-over-real-ones-3356718/) • 15h ago
+🔗 [Dexerto](https://www.dexerto.com/entertainment/gen-alpha-boys-are-preferring-ai-girlfriends-over-real-ones-3356718/) • 16h ago
 
 ---
 
@@ -65,7 +65,7 @@ A new survey carried out amongst 12 to 16-year-old boys has found that many of t
 
 But in the wrong way Crazy encounter 🤣 Another reason to use claude daily
 
-9h ago
+11h ago
 
 ---
 
@@ -73,7 +73,7 @@ But in the wrong way Crazy encounter 🤣 Another reason to use claude daily
 
 I'm curious how people are thinking about ROI from agents beyond productivity. A lot of the discussion is still around "this saved me 3 hours" (in some cases wasted more lol) or "this automated a workflow." That's obviously useful, but it feels like a limited way to measure value. For people using agents seriously, are you tracking anything beyond time saved? like for example: - did the agent create something reusable? - did it improve a workflow over time? - did it generate outputs that had value outside the original task? - did it create something others would pay for? - did it help produce knowledge, decisions, or execution that compounds? I'm especially interested in people using agents for coding, research, business ops, content, data work, or niche expert workflows. just want to hear from everyone what does "agent ROI" actually mean to you?
 
-7h ago
+9h ago
 
 ---
 
@@ -81,7 +81,7 @@ I'm curious how people are thinking about ROI from agents beyond productivity. A
 
 Why tech giants are starting to restrict their most capable models from the public.
 
-🔗 [TIME](https://time.com/article/2026/04/24/claude-mythos-chatgpt-rosalind-release-dangerous/) • 11h ago
+🔗 [TIME](https://time.com/article/2026/04/24/claude-mythos-chatgpt-rosalind-release-dangerous/) • 13h ago
 
 ---
 
@@ -89,7 +89,7 @@ Why tech giants are starting to restrict their most capable models from the publ
 
 I work for a Fortune 100 company that is not in the tech space. The company is increasingly using AI to make employees more productive. They have introduced internal AI chat tools that allow selection of OpenAI or Gemini models. We’ve also rolled out M365 Copilot to executives and middle managers. (While not earth-shattering, it certainly has made me more productive and integrates well with our Microsoft ecosystem.) Where I have not seen it as much is in our tool development/digital solutions. While there is a lot of talk about it being embedded in decision making in the future, I’ve not seen it used effectively by our internal developers or external developer partners. I keep waiting for a significant increase in the pace of feature development. Are others feeling this tension, where the expectation of faster feature development via AI is meeting reality or are we just falling behind?
 
-14h ago
+16h ago
 
 ---
 
@@ -97,15 +97,7 @@ I work for a Fortune 100 company that is not in the tech space. The company is i
 
 Now why would he refuse to answer that?
 
-1h ago
-
----
-
-**[If I work on something in codex, and future models are trained on my interactions, does that mean the next model release will be able to code my project for other users?](https://www.reddit.com/r/artificial/comments/1svov68/if_i_work_on_something_in_codex_and_future_models/)**
-
-If this is true, using codex feels like it’s as good as posting to GitHub. Taken to an extreme, if you write a calendar called MySecretSauceCalendar using codex, and the next point release, everyone can prompt gpt with “ write me a calendar app that does what MySecretSauceCalendar” does… you’re basically publicizing your code. Why write anything you’d otherwise sell?
-
-8h ago
+2h ago
 
 ---
 
@@ -113,7 +105,15 @@ If this is true, using codex feels like it’s as good as posting to GitHub. Tak
 
 Oops! "GPT‑5.5 is our strongest agentic coding model to date." "The gains are especially strong in agentic coding." "Instead of carefully managing every step, you can give GPT‑5.5 a messy, multi-part task and trust it to plan, use tools, check its work, navigate through ambiguity, and keep going." These quotations sum up OpenAI's spin on 5.5. They created an entirely new subscription tier for it and made it the focus of Codex. Here, agentic coding isn’t just a feature but the selling point. Well, looking at LiveBench’s independent agentic coding score, this is just a lot of hot air. The score for GPT-5.5 xHigh Effort is 56.67. Its predecessor, GPT-5.4, thrashes it at 70.00 on the same benchmark. Gemini 3.1 Pro, Claude 4.6 and others easily outperform it, too. In this highly relevant benchmark alone, it actually ranks 11th, just behind GPT-5.1 Codex. While OpenAI were able to max Terminal-Bench (their benchmark) and SWE-Bench Pro, in a reliable test they didn’t design, select, or control, their main model falls drastically short compared both to its predecessor and the competition in the area it was meant to excel in. Is this as damning as it looks? What's your experience actually using 5.5 for agentic coding?
 
-23h ago
+1d ago
+
+---
+
+**[If I work on something in codex, and future models are trained on my interactions, does that mean the next model release will be able to code my project for other users?](https://www.reddit.com/r/artificial/comments/1svov68/if_i_work_on_something_in_codex_and_future_models/)**
+
+If this is true, using codex feels like it’s as good as posting to GitHub. Taken to an extreme, if you write a calendar called MySecretSauceCalendar using codex, and the next point release, everyone can prompt gpt with “ write me a calendar app that does what MySecretSauceCalendar” does… you’re basically publicizing your code. Why write anything you’d otherwise sell?
+
+10h ago
 
 ---
 
@@ -125,7 +125,7 @@ Oops! "GPT‑5.5 is our strongest agentic coding model to date." "The gains are 
 
 Software giants are seeing their worst stock performance in years on fears of AI disruption. Now they have a new problem.
 
-CNBC • 17h ago
+CNBC • 19h ago
 
 ---
 
@@ -133,43 +133,21 @@ CNBC • 17h ago
 
 Met says AI software unearthed rule-breaking ranging from work-from-home violations to suspected corruption
 
-The Guardian • 14h ago
+The Guardian • 16h ago
+
+---
+
+**['You feel radicalized': Meta exec races to save Gen Z jobs from AI](https://fortune.com/2026/04/26/meta-salesforce-exec-ai-agents-gen-z-jobs-nonprofit/)**
+
+Gen Z is facing AI-driven layoffs and fewer entry-level jobs. Former Meta and Salesforce AI head Clara Shih says young workers can future-proof their careers by learning how to use AI agents.
+
+Fortune • 2m ago
 
 ---
 
 **[Opinion | Can an A.I. Company Ever Be Good?](https://www.nytimes.com/2026/04/26/opinion/ai-company-good-altruism.html)**
 
-The New York Times • 1h ago
-
----
-
-**[BCSO to use AI language translation on body-worn cameras](https://www.ksat.com/news/local/2026/04/26/bcso-to-use-ai-language-translation-on-body-worn-cameras/)**
-
-Deputies are being trained to use the AI feature to ensure effective communications during interactions in any language
-
-KSAT • 1h ago
-
----
-
-**[The Best Artificial Intelligence (AI) Growth Stock on the Nasdaq That Morningstar Says Is Still Undervalued](https://finance.yahoo.com/markets/stocks/articles/best-artificial-intelligence-ai-growth-203500208.html)**
-
-The "Great Rotation" made this AI company an attractive buy.
-
-Yahoo Finance • 9h ago
-
----
-
-**[The AI Frenzy Is Back and Lifting the Entire Stock Market to Record Highs](https://www.wsj.com/finance/stocks/the-ai-frenzy-is-back-and-lifting-the-entire-stock-market-to-record-highs-5d5586ac)**
-
-WSJ • 52m ago
-
----
-
-**[Smart Investor: Big Tech Earnings, The Best AI Stocks to Buy Now](https://www.morningstar.com/markets/smart-investor-big-tech-earnings-best-ai-stocks-buy-now)**
-
-We wrap up our coverage of the markets and the week.
-
-Morningstar • 18h ago
+The New York Times • 3h ago
 
 ---
 
@@ -177,7 +155,7 @@ Morningstar • 18h ago
 
 Artificial intelligence tools have made financial advice more accessible, but they have also created a significant privacy risk.
 
-The Washington Post • 14h ago
+The Washington Post • 16h ago
 
 ---
 
@@ -185,7 +163,7 @@ The Washington Post • 14h ago
 
 Just looking at the raw numbers, less than 1% of filers have been audited by the IRS in recent tax years. Based on the latest data available, for example, in tax year 2021 the IRS pursued a mere 0.3% of filers overall.
 
-CNN • 23h ago
+CNN • 1d ago
 
 ---
 
@@ -194,6 +172,28 @@ CNN • 23h ago
 Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.
 
 OpenAI • 2d ago
+
+---
+
+**[How the AI-driven data center boom is leading to skyrocketing energy bills for many Americans](https://www.cbsnews.com/news/how-ai-driven-data-center-boom-leading-to-skyrocketing-energy-bills/)**
+
+A CBS News analysis found that Georgia Power, the largest energy provider in the state, imposed six rate hikes in the last three years.
+
+CBS News • 8h ago
+
+---
+
+**[Elon Musk's AI company makes ludicrous job posting](https://www.sfgate.com/tech/article/musk-job-listing-novelists-22224801.php)**
+
+SFGATE • 18h ago
+
+---
+
+**[New museum dedicated to AI promises an ethical approach](https://www.npr.org/2026/04/25/nx-s1-5799511/dataland-refik-anadol-los-angeles-ai-art-museum)**
+
+As some continue to pushback on AI art, artist Refik Anadol seeks to base his new venture on ethical and environmental principles.
+
+NPR • 8h ago
 
 ---
 
@@ -209,6 +209,14 @@ Migrating to the new meshcore.io site
 
 ---
 
+**[The AI industry is discovering that the public hates it](https://news.ycombinator.com/item?id=47904568)**
+
+If there was any doubt over the brewing public backlash to this technology, the last few weeks have erased it.
+
+⬆️ 234 • 💬 317 • 10h ago • [The New Republic](https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash)
+
+---
+
 **[South Korea police arrest man for posting AI photo of runaway wolf](https://news.ycombinator.com/item?id=47887683)**
 
 The widely circulated image had prompted authorities to move their search operation.
@@ -217,19 +225,11 @@ The widely circulated image had prompted authorities to move their search operat
 
 ---
 
-**[The AI industry is discovering that the public hates it](https://news.ycombinator.com/item?id=47904568)**
-
-If there was any doubt over the brewing public backlash to this technology, the last few weeks have erased it.
-
-⬆️ 226 • 💬 300 • 9h ago • [The New Republic](https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash)
-
----
-
 **[Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do](https://news.ycombinator.com/item?id=47897790)**
 
 Give any AI agent a persistent memory in minutes. Works with Claude, ChatGPT, Ollama, OpenRouter, and any MCP-compatible agent. Open source, self-hosted, model-agnostic.
 
-⬆️ 168 • 💬 70 • 1d ago • [Stash](https://alash3al.github.io/stash?_v01)
+⬆️ 169 • 💬 72 • 1d ago • [Stash](https://alash3al.github.io/stash?_v01)
 
 ---
 
@@ -243,7 +243,7 @@ The airport targeted gate announcements, overlapping PA messages, and tenant mus
 
 **[Lambda Calculus Benchmark for AI](https://news.ycombinator.com/item?id=47900506)**
 
-⬆️ 135 • 💬 40 • 19h ago • [victortaelin.github.io](https://victortaelin.github.io/lambench/)
+⬆️ 135 • 💬 40 • 20h ago • [victortaelin.github.io](https://victortaelin.github.io/lambench/)
 
 ---
 
@@ -287,7 +287,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 14K • 👍 868 • 💬 77 • ⏱️ 8:42 • 11h ago
+👁️ 14K • 👍 868 • 💬 77 • ⏱️ 8:42 • 13h ago
 
 ---
 
@@ -297,7 +297,7 @@ Really American host Steve Harness breaks down Iran SLAMMING Trump with even mor
 
 📺 Really American
 
-👁️ 460K • 👍 26K • 💬 1K • ⏱️ 13:36 • 9h ago
+👁️ 460K • 👍 26K • 💬 1K • ⏱️ 13:36 • 11h ago
 
 ---
 
@@ -307,7 +307,7 @@ You won't BELIEVE what humanoid robots just pulled off this week — and it's ab
 
 📺 The AI Nexus
 
-👁️ 650 • 👍 48 • 💬 3 • ⏱️ 16:59 • 7h ago
+👁️ 650 • 👍 48 • 💬 3 • ⏱️ 16:59 • 9h ago
 
 ---
 
@@ -365,7 +365,7 @@ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 
 
 📺 Two Minute Papers
 
-👁️ 31K • 👍 2K • 💬 214 • ⏱️ 10:05 • 13h ago
+👁️ 31K • 👍 2K • 💬 214 • ⏱️ 10:05 • 14h ago
 
 ---
 
@@ -648,7 +648,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 49.7k • 🔱 6.5k • 20m ago
+⭐ 49.7k • 🔱 6.5k • 1h ago
 
 ---
 
@@ -668,7 +668,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 39.7k • 🔱 8.1k • 4h ago
+⭐ 39.7k • 🔱 8.1k • 5h ago
 
 ---
 
@@ -678,7 +678,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 34.9k • 🔱 3.9k • 15h ago
+⭐ 34.9k • 🔱 3.9k • 17h ago
 
 ---
 
@@ -718,7 +718,7 @@ The headless browser for AI agents and web scraping
 
 `Rust`
 
-⭐ 5.0k • 🔱 295 • 17h ago
+⭐ 5.0k • 🔱 295 • 19h ago
 
 ---
 

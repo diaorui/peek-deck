@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-26T06:24:15.330010+00:00'
+updated: '2026-04-26T08:02:10.005084+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 26, 2026 at 06:24 UTC  
+**Last Updated:** April 26, 2026 at 08:02 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,15 +36,7 @@ Robotics research and industry news
 
 I designed the robot using fusion 360 in programmed it with python. I designed android one as a research platform so when I wanted to test out an idea that needed a humanoid robot it was something I could do, this weekend I was bored so I programmed it to play air hockey it’s a little bad because my robot is pretty cheap but once I get enough funding, I’m gonna make a android 4 which is basically gonna be a remastered version of this one, but with more freedom of motion.
 
-2h ago
-
----
-
-**[I built a free open source CAN bus analyzer - would love feedback from the community](https://www.reddit.com/r/robotics/comments/1svoxqm/i_built_a_free_open_source_can_bus_analyzer_would/)**
-
-Hey, I've been building CANviz - a browser-based CAN bus analyzer. pip install, plug in any USB CAN adapter, opens in your browser. No GUI app to install, works with low cost hardware. Just shipped v0.2.0 with live signal plotting and bus health stats. CANopen support (CiA 301 + CiA 402) is coming next. Would love to hear what you'd find most useful. Hackaday wrote it up here if you want more detail: https://hackaday.com/2026/04/21/can-bus-analyzer-runs-in-your-browser/ GitHub: https://github.com/Chanchaldhiman/CANviz
-
-8h ago
+3h ago
 
 ---
 
@@ -52,7 +44,15 @@ Hey, I've been building CANviz - a browser-based CAN bus analyzer. pip install, 
 
 i bet you haven't seen a SO101 mounted on a wall like this before if you want to do the same, here is LeSlider: https://github.com/pham-tuan-binh/leslider i built it cause i wanted something that can cover my whole desk for tasks like organizing and cleaning i originally wanted to have a belt system like what 3D printers have, but i was too lazy and used a pinion/track with another sts3215 so: > the extra motor shares the same bus as the rest of SO101 > you can have arbitrary length of track > really cheap and easy to assemble and control it turned out better than expected with this, i'm gonna train a model to pick random stuff up across my table and put it into a bin at the end of table (realistically using yolo to scan table, two policies, one for picking up objects, one for dropping)
 
-4h ago
+6h ago
+
+---
+
+**[I built a free open source CAN bus analyzer - would love feedback from the community](https://www.reddit.com/r/robotics/comments/1svoxqm/i_built_a_free_open_source_can_bus_analyzer_would/)**
+
+Hey, I've been building CANviz - a browser-based CAN bus analyzer. pip install, plug in any USB CAN adapter, opens in your browser. No GUI app to install, works with low cost hardware. Just shipped v0.2.0 with live signal plotting and bus health stats. CANopen support (CiA 301 + CiA 402) is coming next. Would love to hear what you'd find most useful. Hackaday wrote it up here if you want more detail: https://hackaday.com/2026/04/21/can-bus-analyzer-runs-in-your-browser/ GitHub: https://github.com/Chanchaldhiman/CANviz
+
+10h ago
 
 ---
 
@@ -60,13 +60,13 @@ i bet you haven't seen a SO101 mounted on a wall like this before if you want to
 
 u/mods if this breaks the rules take it down. I'm looking for beta testers who are not afraid to break things, the end goal here is to make the worlds most easy to use, fully featured servo controlling software, and I'm building it while also building characters to test it with. Here's the rundown: JASM - Jester's Animatronic Servo Mapper Ever bought a bunch of servos, wired them up to a PCA9685, and then sat there wondering "now what?" Yeah. That's the problem this solves. What it actually does: You plug in your board (supports 50 different MCUs - ESP32, Arduino, Raspberry Pi Pico, etc.), click Upload Firmware, connect, and you're moving servos with sliders in under 5 minutes. No Arduino IDE. No code. No libraries to install. Things that used to be painful that aren't anymore: Making smooth movements - Every channel has its own speed control, EMA smoothing, and Bezier easing. No more jerky servos snapping from one position to another. Recording performances - Hit record, move the sliders (or use a gamepad), and it saves the whole thing synced to audio. Layer channels one at a time like a multitrack recorder. Lip sync - Load a vocal track and it auto-generates jaw movement from a phoneme dictionary. No manual keyframing. Text to Speech - Type a script, hit Perform, and your animatronic speaks it with automatic lip sync, idle animations (blinks, eye movement, ear twitches), and expression changes. Uses the Inworld API with your own account. Gamepad puppeteering - Map any Xbox/PS controller stick or button to any servo channel. Puppeteer the whole head live. Standalone playback - Upload animations to the board and it runs without a computer. Power it up and it goes. Supports button triggers, PIR sensors, or auto-loop. Servo limits - Set min/max/neutral for every channel so you never strip a gear or slam into a physical stop again. Who it's for: Animatronics builders, Halloween prop makers, cosplayers, fursuit makers, anyone doing museum exhibits or trade show displays. If you've got servos and an idea, this is the program. If you would like to be a beta tester and you have some experience with servos and MCU's DM me here. Discord is empty right now, as I have literally just started it.
 
-3h ago
+5h ago
 
 ---
 
 **[Thought-controlled robotic arm by Neuralink aimed at restoring independence for paralyzed patients](https://www.reddit.com/r/robotics/comments/1svh8t5/thoughtcontrolled_robotic_arm_by_neuralink_aimed/)**
 
-13h ago
+15h ago
 
 ---
 
@@ -74,13 +74,13 @@ u/mods if this breaks the rules take it down. I'm looking for beta testers who a
 
 "Fluid gears" invention shows promise for improving mechanical devices.
 
-🔗 [SciTechDaily](https://scitechdaily.com/scientists-create-liquid-gears-that-spin-without-touching/) • 2h ago
+🔗 [SciTechDaily](https://scitechdaily.com/scientists-create-liquid-gears-that-spin-without-touching/) • 4h ago
 
 ---
 
 **[A smarter approach on autonomous exploration](https://www.reddit.com/r/robotics/comments/1sv7le7/a_smarter_approach_on_autonomous_exploration/)**
 
-20h ago
+22h ago
 
 ---
 
@@ -88,7 +88,7 @@ u/mods if this breaks the rules take it down. I'm looking for beta testers who a
 
 From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2047765371734704574
 
-21h ago
+23h ago
 
 ---
 
@@ -96,7 +96,7 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2047765371734704574
 
 For beginners wanting to get started with the SO-101 arm, I found that there are a lot of hurdles to jump through. From the current documentation, while a great resource for those with intermediate knowledge of robotics, isn't a great resource for beginners as it requires knowledge of git, terminal commands, assembly, wiring, and much more in the robotic world. So I made a 2.5h course that walks beginners through how to train your won ACT model with the SO-101 arm. Understandably, the official LeRobot documentation can't step users through every step/debug step possible, as that would make things far too long for experienced users wanting to get in, who their target audience is I imagine. That said, the ACT model is such a useful training model for beginners to understand/comprehend and use, that I wanted to create an easier on-boarding path for beginners getting started. Would love to hear your thoughts.
 
-🔗 [youtu.be](https://youtu.be/p6YIkDhPNyo) • 12h ago
+🔗 [youtu.be](https://youtu.be/p6YIkDhPNyo) • 14h ago
 
 ---
 
@@ -112,6 +112,14 @@ First rollout of a simple ACT model and the right looks like it got its ACT toge
 
 ## Google News: "robotics"
 
+**[Video Friday: Who Wins in Robot vs. Pro Ping-Pong Player?](https://spectrum.ieee.org/video-friday-ping-pong-robot)**
+
+Your weekly selection of awesome robot videos
+
+IEEE Spectrum • 3d ago
+
+---
+
 **[New e-skin gives robotic hand sense of touch in breakthrough test](https://interestingengineering.com/ai-robotics/flexible-electronics-electronic-skin-soft-robots-turku-study)**
 
 Researchers develop flexible, stretchable electronic skin and soft robots inspired by nature at University of Turku.
@@ -120,11 +128,11 @@ Interesting Engineering • 1d ago
 
 ---
 
-**[Pudu Robotics raises nearly $150M as it targets industrial applications](https://www.therobotreport.com/pudu-robotics-raises-nearly-150m-targets-industrial-applications/)**
+**[How I taught myself to code, quit my consulting job, and started an AI robotics firm by age 25](https://www.businessinsider.com/consultant-turned-ai-robotics-founder-career-lessons-bcg-remy-2026-4)**
 
-Pudu plans to use the funding to develop its embodied AI, grow its product portfolio, and expand in global markets beyond service robots.
+Oscar Brisset, 25, used most of his vacation days to learn to code. He left BCG to launch a YC-backed AI robotics company.
 
-The Robot Report • 2d ago
+Business Insider • 1d ago
 
 ---
 
@@ -136,14 +144,6 @@ NPR • 1d ago
 
 ---
 
-**[How I taught myself to code, quit my consulting job, and started an AI robotics firm by age 25](https://www.businessinsider.com/consultant-turned-ai-robotics-founder-career-lessons-bcg-remy-2026-4)**
-
-Oscar Brisset, 25, used most of his vacation days to learn to code. He left BCG to launch a YC-backed AI robotics company.
-
-Business Insider • 23h ago
-
----
-
 **[AI robots are learning to do simple human tasks at a factory in Massachusetts](https://www.cbsnews.com/boston/news/ai-robots-tutor-intelligence-watertown/)**
 
 Tutor Intelligence in Watertown is a kind of kindergarten for robots.
@@ -152,11 +152,9 @@ CBS News • 1d ago
 
 ---
 
-**[Video Friday: Who Wins in Robot vs. Pro Ping-Pong Player?](https://spectrum.ieee.org/video-friday-ping-pong-robot)**
+**[From supply chain to record growth: Shenzhen dominates China’s robotics sector](https://www.scmp.com/tech/tech-trends/article/3351462/supply-chain-record-growth-shenzhen-dominates-chinas-robotics-landscape)**
 
-Your weekly selection of awesome robot videos
-
-IEEE Spectrum • 2d ago
+South China Morning Post • 1h ago
 
 ---
 
@@ -172,6 +170,12 @@ Democracy Now! • 1d ago
 
 ---
 
+**[Master's graduate and robotics champion: Cole Allen, suspect in Trump event shooting](https://nation.africa/kenya/news/world/cole-allen-suspect-in-the-trump-dinner-shooting-5436560)**
+
+Daily Nation • 1h ago
+
+---
+
 **[China's humanoid robotics boom is no startup success story](https://asia.nikkei.com/opinion/china-s-humanoid-robotics-boom-is-no-startup-success-story)**
 
 Unitree’s rise reveals a state architecture that cultivates industrial champions before global rivals notice
@@ -180,17 +184,11 @@ Nikkei Asia • 2d ago
 
 ---
 
-**[Physical AI: Where Artificial Intelligence Rubber Meets The Road](https://www.investors.com/news/physical-ai-jensen-huang-nvidia-artificial-intelligence-robotics/)**
+**[Tesla: The Street Wrongly Hates The Capex Plan, AI & Robotics On Track (NASDAQ:TSLA)](https://seekingalpha.com/article/4894026-tesla-the-street-wrongly-hates-the-capex-plan-ai-and-robotics-on-track)**
 
-Investor's Business Daily • 2d ago
+Tesla delivered a Q1 double-beat, but shares fell as high capex spending and cautious AI scaling tempered optimism. Read more on TSLA stock here.
 
----
-
-**[US ramps up humanoid robotics as China threat grows in AI race](https://www.foxbusiness.com/video/6393711598112)**
-
-Foundation Future Industries founder and CEO Sankaet Pathak and Trump Organization Executive Vice President Eric Trump discuss battlefield robotics, national security risks, and China competition on ‘Mornings with Maria.
-
-Fox Business • 2d ago
+Seeking Alpha • 1d ago
 
 ---
 
@@ -204,7 +202,7 @@ What is the best robot vacuum in 2026? After testing over 200 robot vacuums with
 
 📺 Just A Dad Approved
 
-👁️ 5K • 👍 212 • 💬 50 • ⏱️ 13:40 • 18h ago
+👁️ 5K • 👍 212 • 💬 50 • ⏱️ 13:40 • 20h ago
 
 ---
 
@@ -214,7 +212,7 @@ New Spider Shoggoth Robot. This is so weird. We got a new robot on the test serv
 
 📺 PREDATOR WR
 
-👁️ 20K • 👍 605 • 💬 202 • ⏱️ 15:36 • 18h ago
+👁️ 20K • 👍 605 • 💬 202 • ⏱️ 15:36 • 20h ago
 
 ---
 
@@ -274,7 +272,7 @@ WR Store: https://wr.my.games/Joe_Black_WR my code: Joe_Black_WR Thank You =====
 
 📺 Joe Black WR
 
-👁️ 27K • 👍 751 • 💬 65 • ⏱️ 0:11 • 20h ago
+👁️ 27K • 👍 751 • 💬 65 • ⏱️ 0:11 • 21h ago
 
 ---
 
