@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-26T08:02:09.989044+00:00'
+updated: '2026-04-26T09:30:33.890438+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
 - videos
-- social
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 26, 2026 at 08:02 UTC  
+**Last Updated:** April 26, 2026 at 09:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Federal funding for scientific research was already in turmoil.
 
-🔗 [The Verge](https://www.theverge.com/science/918769/trump-fires-the-entire-national-science-board) • 6h ago
+🔗 [The Verge](https://www.theverge.com/science/918769/trump-fires-the-entire-national-science-board) • 8h ago
 
 ---
 
@@ -49,7 +49,7 @@ Federal funding for scientific research was already in turmoil.
 
 Slack messages, interviews with current and former works paint picture of company in turmoil.
 
-🔗 [Ars Technica](https://arstechnica.com/tech-policy/2026/04/palantir-employees-are-talking-about-companys-descent-into-fascism/) • 14h ago
+🔗 [Ars Technica](https://arstechnica.com/tech-policy/2026/04/palantir-employees-are-talking-about-companys-descent-into-fascism/) • 15h ago
 
 ---
 
@@ -57,7 +57,7 @@ Slack messages, interviews with current and former works paint picture of compan
 
 A new survey carried out amongst 12 to 16-year-old boys has found that many of them prefer to use AI chatbots than engage with other people their age.
 
-🔗 [Dexerto](https://www.dexerto.com/entertainment/gen-alpha-boys-are-preferring-ai-girlfriends-over-real-ones-3356718/) • 16h ago
+🔗 [Dexerto](https://www.dexerto.com/entertainment/gen-alpha-boys-are-preferring-ai-girlfriends-over-real-ones-3356718/) • 18h ago
 
 ---
 
@@ -65,7 +65,7 @@ A new survey carried out amongst 12 to 16-year-old boys has found that many of t
 
 But in the wrong way Crazy encounter 🤣 Another reason to use claude daily
 
-11h ago
+12h ago
 
 ---
 
@@ -73,7 +73,7 @@ But in the wrong way Crazy encounter 🤣 Another reason to use claude daily
 
 I'm curious how people are thinking about ROI from agents beyond productivity. A lot of the discussion is still around "this saved me 3 hours" (in some cases wasted more lol) or "this automated a workflow." That's obviously useful, but it feels like a limited way to measure value. For people using agents seriously, are you tracking anything beyond time saved? like for example: - did the agent create something reusable? - did it improve a workflow over time? - did it generate outputs that had value outside the original task? - did it create something others would pay for? - did it help produce knowledge, decisions, or execution that compounds? I'm especially interested in people using agents for coding, research, business ops, content, data work, or niche expert workflows. just want to hear from everyone what does "agent ROI" actually mean to you?
 
-9h ago
+10h ago
 
 ---
 
@@ -81,15 +81,7 @@ I'm curious how people are thinking about ROI from agents beyond productivity. A
 
 Why tech giants are starting to restrict their most capable models from the public.
 
-🔗 [TIME](https://time.com/article/2026/04/24/claude-mythos-chatgpt-rosalind-release-dangerous/) • 13h ago
-
----
-
-**[Fortune 100 AI Use](https://www.reddit.com/r/artificial/comments/1svfkdt/fortune_100_ai_use/)**
-
-I work for a Fortune 100 company that is not in the tech space. The company is increasingly using AI to make employees more productive. They have introduced internal AI chat tools that allow selection of OpenAI or Gemini models. We’ve also rolled out M365 Copilot to executives and middle managers. (While not earth-shattering, it certainly has made me more productive and integrates well with our Microsoft ecosystem.) Where I have not seen it as much is in our tool development/digital solutions. While there is a lot of talk about it being embedded in decision making in the future, I’ve not seen it used effectively by our internal developers or external developer partners. I keep waiting for a significant increase in the pace of feature development. Are others feeling this tension, where the expectation of faster feature development via AI is meeting reality or are we just falling behind?
-
-16h ago
+🔗 [TIME](https://time.com/article/2026/04/24/claude-mythos-chatgpt-rosalind-release-dangerous/) • 14h ago
 
 ---
 
@@ -97,7 +89,23 @@ I work for a Fortune 100 company that is not in the tech space. The company is i
 
 Now why would he refuse to answer that?
 
-2h ago
+4h ago
+
+---
+
+**[I tested 6 AI video tools for ads/content and here's what I found](https://www.reddit.com/r/artificial/comments/1sw1xos/i_tested_6_ai_video_tools_for_adscontent_and/)**
+
+Been experimenting with a few AI video tools recently to speed up content + ad creation, figured I’d share what actually stood out These tools are getting pretty good, especially if you don’t have a full editing setup or team Here’s a quick breakdown of what I tried: Runway What it does: Text/image to video + editing tools Cool stuff: Good quality outputs, lots of features Best for: Creative experiments, short clips My take: Powerful, but took me a bit to get consistent results Pika What it does: Generates short videos from prompts Cool stuff: Fast and easy to try ideas Best for: Quick social clips My take: Fun to use, but hard to control exact outcomes Synthesia What it does: AI avatar videos with voice Cool stuff: Clean talking head style content Best for: Tutorials, explainers My take: Solid for info content, less useful for ads InVideo AI What it does: Script to full video Cool stuff: Templates + automation Best for: Beginners, quick drafts My take: Easy, but everything started to feel templated Luma Dream Machine What it does: Realistic AI generated scenes Cool stuff: Visually impressive outputs Best for: Cinematic style clips My take: Looks great, but hit or miss depending on prompt Higgsfield What it does: AI video with more control over shots + motion Cool stuff: Can guide camera movement, pacing, structure Best for: Ads or anything that needs to feel intentional My take: Feels closer to actually building a video vs just generating one Biggest takeaways: most tools are great for ideas, not final ads control > randomness if you’re making anything performance focused you’ll probably end up combining tools instead of relying on one A lot of these have free tiers, so worth testing yourself If I had to pick one I’d keep experimenting with, probably higgsfield just because the extra control makes it feel a bit more usable for actual ad work Curious what others are sticking with rn 👀
+
+59m ago
+
+---
+
+**[Fortune 100 AI Use](https://www.reddit.com/r/artificial/comments/1svfkdt/fortune_100_ai_use/)**
+
+I work for a Fortune 100 company that is not in the tech space. The company is increasingly using AI to make employees more productive. They have introduced internal AI chat tools that allow selection of OpenAI or Gemini models. We’ve also rolled out M365 Copilot to executives and middle managers. (While not earth-shattering, it certainly has made me more productive and integrates well with our Microsoft ecosystem.) Where I have not seen it as much is in our tool development/digital solutions. While there is a lot of talk about it being embedded in decision making in the future, I’ve not seen it used effectively by our internal developers or external developer partners. I keep waiting for a significant increase in the pace of feature development. Are others feeling this tension, where the expectation of faster feature development via AI is meeting reality or are we just falling behind?
+
+17h ago
 
 ---
 
@@ -109,14 +117,6 @@ Oops! "GPT‑5.5 is our strongest agentic coding model to date." "The gains are 
 
 ---
 
-**[If I work on something in codex, and future models are trained on my interactions, does that mean the next model release will be able to code my project for other users?](https://www.reddit.com/r/artificial/comments/1svov68/if_i_work_on_something_in_codex_and_future_models/)**
-
-If this is true, using codex feels like it’s as good as posting to GitHub. Taken to an extreme, if you write a calendar called MySecretSauceCalendar using codex, and the next point release, everyone can prompt gpt with “ write me a calendar app that does what MySecretSauceCalendar” does… you’re basically publicizing your code. Why write anything you’d otherwise sell?
-
-10h ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -125,7 +125,7 @@ If this is true, using codex feels like it’s as good as posting to GitHub. Tak
 
 Software giants are seeing their worst stock performance in years on fears of AI disruption. Now they have a new problem.
 
-CNBC • 19h ago
+CNBC • 20h ago
 
 ---
 
@@ -133,21 +133,29 @@ CNBC • 19h ago
 
 Met says AI software unearthed rule-breaking ranging from work-from-home violations to suspected corruption
 
-The Guardian • 16h ago
+The Guardian • 17h ago
 
 ---
 
-**['You feel radicalized': Meta exec races to save Gen Z jobs from AI](https://fortune.com/2026/04/26/meta-salesforce-exec-ai-agents-gen-z-jobs-nonprofit/)**
+**[The Podcast Where You Can Eavesdrop on the A.I. Elite](https://www.nytimes.com/2026/04/26/business/dwarkesh-patel-podcast-ai.html)**
 
-Gen Z is facing AI-driven layoffs and fewer entry-level jobs. Former Meta and Salesforce AI head Clara Shih says young workers can future-proof their careers by learning how to use AI agents.
-
-Fortune • 2m ago
+The New York Times • 28m ago
 
 ---
 
-**[Opinion | Can an A.I. Company Ever Be Good?](https://www.nytimes.com/2026/04/26/opinion/ai-company-good-altruism.html)**
+**[The AI debt wave means bond markets aren't boring anymore](https://qz.com/ai-debt-data-centers-capex-bond-market)**
 
-The New York Times • 3h ago
+The AI boom isn't just a stock market story. It's also a bond market story. And the bond market version may actually matter more
+
+qz.com • 25m ago
+
+---
+
+**[I quit my tech job because I worried that AI was going to eventually replace me](https://www.businessinsider.com/data-analyst-quit-job-over-concerns-ai-would-replace-them-2026-4)**
+
+A data analyst quit their tech job over concerns that AI would replace them and about disillusionment with the industry in general.
+
+Business Insider • 16m ago
 
 ---
 
@@ -155,15 +163,23 @@ The New York Times • 3h ago
 
 Artificial intelligence tools have made financial advice more accessible, but they have also created a significant privacy risk.
 
-The Washington Post • 16h ago
+The Washington Post • 17h ago
 
 ---
 
-**[What are your chances of being audited now that the IRS is using AI? Jury is still out](https://www.cnn.com/2026/04/25/business/chance-of-audit-irs-ai-use)**
+**[Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft](https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c?syn-25a6b1a6=1)**
 
-Just looking at the raw numbers, less than 1% of filers have been audited by the IRS in recent tax years. Based on the latest data available, for example, in tax year 2021 the IRS pursued a mere 0.3% of filers overall.
+Thomas Kurian, Google Cloud’s CEO, says its AI chips and models can help the data centre business gain ground
 
-CNN • 1d ago
+Financial Times • 5h ago
+
+---
+
+**[How the AI-driven data center boom is leading to skyrocketing energy bills for many Americans](https://www.cbsnews.com/news/how-ai-driven-data-center-boom-leading-to-skyrocketing-energy-bills/)**
+
+A CBS News analysis found that Georgia Power, the largest energy provider in the state, imposed six rate hikes in the last three years.
+
+CBS News • 9h ago
 
 ---
 
@@ -175,25 +191,9 @@ OpenAI • 2d ago
 
 ---
 
-**[How the AI-driven data center boom is leading to skyrocketing energy bills for many Americans](https://www.cbsnews.com/news/how-ai-driven-data-center-boom-leading-to-skyrocketing-energy-bills/)**
-
-A CBS News analysis found that Georgia Power, the largest energy provider in the state, imposed six rate hikes in the last three years.
-
-CBS News • 8h ago
-
----
-
 **[Elon Musk's AI company makes ludicrous job posting](https://www.sfgate.com/tech/article/musk-job-listing-novelists-22224801.php)**
 
-SFGATE • 18h ago
-
----
-
-**[New museum dedicated to AI promises an ethical approach](https://www.npr.org/2026/04/25/nx-s1-5799511/dataland-refik-anadol-los-angeles-ai-art-museum)**
-
-As some continue to pushback on AI art, artist Refik Anadol seeks to base his new venture on ethical and environmental principles.
-
-NPR • 8h ago
+SFGATE • 19h ago
 
 ---
 
@@ -205,7 +205,7 @@ NPR • 8h ago
 
 Migrating to the new meshcore.io site
 
-⬆️ 277 • 💬 176 • 2d ago • [blog.meshcore.io](https://blog.meshcore.io/2026/04/23/the-split)
+⬆️ 278 • 💬 176 • 2d ago • [blog.meshcore.io](https://blog.meshcore.io/2026/04/23/the-split)
 
 ---
 
@@ -213,7 +213,7 @@ Migrating to the new meshcore.io site
 
 If there was any doubt over the brewing public backlash to this technology, the last few weeks have erased it.
 
-⬆️ 234 • 💬 317 • 10h ago • [The New Republic](https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash)
+⬆️ 238 • 💬 323 • 12h ago • [The New Republic](https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash)
 
 ---
 
@@ -221,7 +221,7 @@ If there was any doubt over the brewing public backlash to this technology, the 
 
 The widely circulated image had prompted authorities to move their search operation.
 
-⬆️ 234 • 💬 154 • 1d ago • [bbc.com](https://www.bbc.com/news/articles/c4gx1n0dl9no)
+⬆️ 234 • 💬 154 • 2d ago • [bbc.com](https://www.bbc.com/news/articles/c4gx1n0dl9no)
 
 ---
 
@@ -229,7 +229,7 @@ The widely circulated image had prompted authorities to move their search operat
 
 Give any AI agent a persistent memory in minutes. Works with Claude, ChatGPT, Ollama, OpenRouter, and any MCP-compatible agent. Open source, self-hosted, model-agnostic.
 
-⬆️ 169 • 💬 72 • 1d ago • [Stash](https://alash3al.github.io/stash?_v01)
+⬆️ 171 • 💬 72 • 1d ago • [Stash](https://alash3al.github.io/stash?_v01)
 
 ---
 
@@ -243,7 +243,7 @@ The airport targeted gate announcements, overlapping PA messages, and tenant mus
 
 **[Lambda Calculus Benchmark for AI](https://news.ycombinator.com/item?id=47900506)**
 
-⬆️ 135 • 💬 40 • 20h ago • [victortaelin.github.io](https://victortaelin.github.io/lambench/)
+⬆️ 136 • 💬 41 • 22h ago • [victortaelin.github.io](https://victortaelin.github.io/lambench/)
 
 ---
 
@@ -281,23 +281,23 @@ By all accounts, I should be a neofeudalist. I should love what’s happening. T
 
 ## YouTube Videos: "ai"
 
-**[AI Just Broke the Internet’s Encryption (And Nobody’s Talking About This Part)](https://www.youtube.com/watch?v=-vhzRxLAJIU)**
-
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
-
-📺 Julia McCoy
-
-👁️ 14K • 👍 868 • 💬 77 • ⏱️ 8:42 • 13h ago
-
----
-
 **[Trump Got A NASTY AI SURPRISE And It’s Going Viral!](https://www.youtube.com/watch?v=lxN1phhSMZ0)**
 
 Really American host Steve Harness breaks down Iran SLAMMING Trump with even more AI slop because they've realized that it ...
 
 📺 Really American
 
-👁️ 460K • 👍 26K • 💬 1K • ⏱️ 13:36 • 11h ago
+👁️ 537K • 👍 28K • 💬 2K • ⏱️ 13:36 • 12h ago
+
+---
+
+**[Rant on AI in the modern workplace ](https://www.youtube.com/watch?v=SAvfcWoHRi4)**
+
+"DriverSavers quoted to me a price of $4900 to recover data on the computer and later discounted it to $1980 if data recovery was ...
+
+📺 Louis Rossmann
+
+👁️ 28K • 👍 3K • 💬 500 • ⏱️ 9:33 • 10h ago
 
 ---
 
@@ -307,7 +307,27 @@ You won't BELIEVE what humanoid robots just pulled off this week — and it's ab
 
 📺 The AI Nexus
 
-👁️ 650 • 👍 48 • 💬 3 • ⏱️ 16:59 • 9h ago
+👁️ 1K • 👍 51 • 💬 3 • ⏱️ 16:59 • 10h ago
+
+---
+
+**[AI Just Broke the Internet’s Encryption (And Nobody’s Talking About This Part)](https://www.youtube.com/watch?v=-vhzRxLAJIU)**
+
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
+
+📺 Julia McCoy
+
+👁️ 16K • 👍 908 • 💬 84 • ⏱️ 8:42 • 14h ago
+
+---
+
+**[TikToker Facing 12 Years Prison for AI Prank](https://www.youtube.com/watch?v=V2Z4aSlkEYQ)**
+
+TikToker Facing 12 Years Prison for AI Prank CHECK OUT OUR MATS HERE: https://mat.city/ Get a FREE Sample pack of Gamer ...
+
+📺 Atozy
+
+👁️ 119K • 👍 6K • 💬 870 • ⏱️ 8:40 • 8h ago
 
 ---
 
@@ -317,27 +337,7 @@ I don't think I said this quite clearly enough in this video but I have no idea 
 
 📺 vlogbrothers
 
-👁️ 189K • 👍 13K • 💬 2K • ⏱️ 8:43 • 1d ago
-
----
-
-**[AI News: The Biggest Leap We&#39;ve Seen This Year!](https://www.youtube.com/watch?v=jsP-eRriC0k)**
-
-Here's the AI News you probably missed this week. Warp is the agentic development environment born out of the terminal.
-
-📺 Matt Wolfe
-
-👁️ 81K • 👍 3K • 💬 218 • ⏱️ 42:57 • 1d ago
-
----
-
-**[Claude 5 – The New AI Era is Here! BYE, CHATGPT...](https://www.youtube.com/watch?v=qT4toLvs3n8)**
-
-sponsored Build with Softr ...
-
-📺 AI Master
-
-👁️ 30K • 👍 524 • 💬 75 • ⏱️ 21:44 • 2d ago
+👁️ 196K • 👍 13K • 💬 2K • ⏱️ 8:43 • 1d ago
 
 ---
 
@@ -347,7 +347,27 @@ Watch the Majority Report live Monday–Friday at 12pm EST on YouTube or http://
 
 📺 The Majority Report w/ Sam Seder
 
-👁️ 38K • 👍 2K • 💬 330 • ⏱️ 13:15 • 1d ago
+👁️ 39K • 👍 2K • 💬 336 • ⏱️ 13:15 • 1d ago
+
+---
+
+**[AI News: The Biggest Leap We&#39;ve Seen This Year!](https://www.youtube.com/watch?v=jsP-eRriC0k)**
+
+Here's the AI News you probably missed this week. Warp is the agentic development environment born out of the terminal.
+
+📺 Matt Wolfe
+
+👁️ 83K • 👍 3K • 💬 222 • ⏱️ 42:57 • 1d ago
+
+---
+
+**[Claude 5 – The New AI Era is Here! BYE, CHATGPT...](https://www.youtube.com/watch?v=qT4toLvs3n8)**
+
+sponsored Build with Softr ...
+
+📺 AI Master
+
+👁️ 31K • 👍 529 • 💬 76 • ⏱️ 21:44 • 2d ago
 
 ---
 
@@ -355,27 +375,7 @@ Watch the Majority Report live Monday–Friday at 12pm EST on YouTube or http://
 
 📺 Dean Graziosi
 
-👁️ 137K • 👍 6K • 💬 83 • ⏱️ 4:21:14 • 1d ago
-
----
-
-**[NVIDIA&#39;s New AI Broke My Brain](https://www.youtube.com/watch?v=Xf_v62TQOx4)**
-
-Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers The paper is available here: ...
-
-📺 Two Minute Papers
-
-👁️ 31K • 👍 2K • 💬 214 • ⏱️ 10:05 • 14h ago
-
----
-
-**[Microsoft accidentally told the truth about AI](https://www.youtube.com/watch?v=4CIlTOnc6I8)**
-
-Rogue researchers are telling the truth about AI Depth vs breadth: https://x.com/atmoio/status/2041557482217120182 Make ze ...
-
-📺 Mo Bitar
-
-👁️ 406K • 👍 23K • 💬 4K • ⏱️ 9:06 • 2d ago
+👁️ 138K • 👍 6K • 💬 87 • ⏱️ 4:21:14 • 1d ago
 
 ---
 
@@ -391,7 +391,7 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 `text-generation` `861.6B`
 
-⬇️ 78,864 • ❤️ 2,721 • 1d ago
+⬇️ 123,431 • ❤️ 2,739 • 1d ago
 
 ---
 
@@ -403,7 +403,7 @@ Kimi K2.6 is a 1T parameter multimodal agentic model excelling in long-horizon c
 
 `image-text-to-text` `1058.6B`
 
-⬇️ 291,840 • ❤️ 1,033 • 3d ago
+⬇️ 376,485 • ❤️ 1,039 • 3d ago
 
 ---
 
@@ -415,7 +415,7 @@ Qwen3.6-27B is a 27B parameter causal language model with a vision encoder, exce
 
 `image-text-to-text` `27.8B`
 
-⬇️ 257,685 • ❤️ 826 • 2d ago
+⬇️ 329,571 • ❤️ 833 • 2d ago
 
 ---
 
@@ -427,7 +427,7 @@ A bidirectional token-classification model for PII detection and masking, capabl
 
 `token-classification` `1.4B`
 
-⬇️ 21,097 • ❤️ 776 • 3d ago
+⬇️ 35,807 • ❤️ 796 • 3d ago
 
 ---
 
@@ -439,7 +439,7 @@ DeepSeek-V4-Flash is a 284B parameter Mixture-of-Experts language model supporti
 
 `text-generation` `158.1B`
 
-⬇️ 25,391 • ❤️ 697 • 1d ago
+⬇️ 45,986 • ❤️ 703 • 1d ago
 
 ---
 
@@ -451,7 +451,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with a vision encoder, 
 
 `image-text-to-text` `36.0B`
 
-⬇️ 1,027,741 • ❤️ 1,408 • 2d ago
+⬇️ 1,181,968 • ❤️ 1,411 • 2d ago
 
 ---
 
@@ -463,7 +463,7 @@ Qwen3.6-27B-GGUF is a 27B parameter causal language model with vision capabiliti
 
 `image-text-to-text` `26.9B`
 
-⬇️ 458,273 • ❤️ 407 • 3d ago
+⬇️ 553,179 • ❤️ 409 • 3d ago
 
 ---
 
@@ -475,7 +475,17 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with vision capabilitie
 
 `image-text-to-text` `34.7B`
 
-⬇️ 1,488,984 • ❤️ 771 • 5d ago
+⬇️ 1,574,581 • ❤️ 775 • 5d ago
+
+---
+
+**[DeepSeek-V4-Pro-Base](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-Base)**
+
+*DeepSeek*
+
+`1600.8B`
+
+⬇️ 1,182 • ❤️ 215 • 2d ago
 
 ---
 
@@ -487,17 +497,7 @@ This is an uncensored, aggressive multimodal model based on Qwen3.6-35B-A3B, cap
 
 `image-text-to-text` `34.7B`
 
-⬇️ 418,743 • ❤️ 435 • 9d ago
-
----
-
-**[DeepSeek-V4-Pro-Base](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-Base)**
-
-*DeepSeek*
-
-`1600.8B`
-
-⬇️ 804 • ❤️ 211 • 2d ago
+⬇️ 460,832 • ❤️ 439 • 9d ago
 
 ---
 
@@ -513,7 +513,7 @@ This is an uncensored, aggressive multimodal model based on Qwen3.6-35B-A3B, cap
 
 GenericAgent is a self-evolving large language model agent system that maximizes context information density through hierarchical memory, reusable SOPs, and efficient compression to overcome long-horizon limitations.
 
-▲ 11 • 💬 2 • ⭐ 7,120 • 8d ago
+▲ 11 • 💬 2 • ⭐ 7,248 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.17091) • [💻 code](https://github.com/lsdefine/GenericAgent)
 
@@ -525,7 +525,7 @@ GenericAgent is a self-evolving large language model agent system that maximizes
 
 Kronos, a specialized pre-training framework for financial K-line data, outperforms existing models in forecasting and synthetic data generation through a unique tokenizer and autoregressive pre-training on a large dataset.
 
-▲ 25 • 💬 1 • ⭐ 21,509 • 8mo ago
+▲ 26 • 💬 2 • ⭐ 21,509 • 8mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.02739) • [💻 code](https://github.com/shiyu-coder/Kronos)
 
@@ -559,6 +559,20 @@ LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from 
 
 ---
 
+**[VibeVoice Technical Report](https://huggingface.co/papers/2508.19205)**
+
+*Zhiliang Peng, Jianwei Yu, Wenhui Wang et al. (13 authors)*
+
+🏢 Microsoft Research
+
+VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
+
+▲ 165 • 💬 10 • ⭐ 41,375 • 8mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
+
+---
+
 **[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
 
 *Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
@@ -577,7 +591,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 OpenGame is an open-source agentic framework for end-to-end web game creation that uses specialized code models and evaluation benchmarks to overcome challenges in interactive application development.
 
-▲ 70 • 💬 7 • ⭐ 1,085 • 6d ago
+▲ 71 • 💬 7 • ⭐ 1,085 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.18394) • [💻 code](https://github.com/leigest519/OpenGame) • [🔗 project](https://www.opengame-project-page.com/)
 
@@ -591,23 +605,9 @@ OpenGame is an open-source agentic framework for end-to-end web game creation th
 
 LLaDA2.0-Uni is a unified discrete diffusion language model that integrates multimodal understanding and generation through a semantic discrete tokenizer, MoE-based backbone, and diffusion decoder, achieving performance comparable to specialized vision-language models while enabling efficient inference and high-fidelity image generation.
 
-▲ 227 • 💬 2 • ⭐ 462 • 4d ago
+▲ 228 • 💬 2 • ⭐ 462 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.20796) • [💻 code](https://github.com/inclusionAI/LLaDA2.0-Uni)
-
----
-
-**[VibeVoice Technical Report](https://huggingface.co/papers/2508.19205)**
-
-*Zhiliang Peng, Jianwei Yu, Wenhui Wang et al. (13 authors)*
-
-🏢 Microsoft Research
-
-VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion and a highly efficient continuous speech tokenizer, achieving superior performance and fidelity.
-
-▲ 165 • 💬 10 • ⭐ 41,075 • 8mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2508.19205) • [💻 code](https://github.com/microsoft/VibeVoice) • [🔗 project](https://microsoft.github.io/VibeVoice/)
 
 ---
 
@@ -668,7 +668,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 39.7k • 🔱 8.1k • 5h ago
+⭐ 39.8k • 🔱 8.2k • 7h ago
 
 ---
 
@@ -678,7 +678,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 34.9k • 🔱 3.9k • 17h ago
+⭐ 35.0k • 🔱 3.9k • 18h ago
 
 ---
 
@@ -688,7 +688,7 @@ A theoretical reconstruction of the Claude Mythos architecture, built from first
 
 `Python` `ai` `anthropic` `attention` `claude` `claude-ai`
 
-⭐ 10.4k • 🔱 2.3k • 3d ago
+⭐ 10.5k • 🔱 2.3k • 3d ago
 
 ---
 
@@ -698,7 +698,7 @@ A theoretical reconstruction of the Claude Mythos architecture, built from first
 
 `Python`
 
-⭐ 6.1k • 🔱 1.0k • 2d ago
+⭐ 6.1k • 🔱 1.0k • 3d ago
 
 ---
 
@@ -718,7 +718,7 @@ The headless browser for AI agents and web scraping
 
 `Rust`
 
-⭐ 5.0k • 🔱 295 • 19h ago
+⭐ 5.3k • 🔱 304 • 20h ago
 
 ---
 
@@ -728,7 +728,7 @@ The headless browser for AI agents and web scraping
 
 `Python`
 
-⭐ 4.8k • 🔱 465 • 17d ago
+⭐ 4.8k • 🔱 466 • 17d ago
 
 ---
 
@@ -738,7 +738,7 @@ Claude Code skill for generating production-quality SVG+PNG technical diagrams. 
 
 `Python`
 
-⭐ 4.5k • 🔱 403 • 6d ago
+⭐ 4.5k • 🔱 407 • 6d ago
 
 ---
 
