@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-26T13:46:14.675749+00:00'
+updated: '2026-04-26T14:44:29.389850+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
+- videos
 - news
 - cryptocurrency
-- videos
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 26, 2026 at 13:46 UTC  
+**Last Updated:** April 26, 2026 at 14:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1563.86B
+**Market Cap:** $1563.28B
 Rank #1
 
-**Circulating Supply:** 20,021,000 BTC
+**Circulating Supply:** 20,021,031 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--38.1%
+-38.0%
 
 **All-Time Low:** $67.81
-+115080.7%
++115099.8%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 In this sub, absolute cinema
 
-2h ago
+3h ago
 
 ---
 
 **[Sometimes I wonder...](https://www.reddit.com/r/Bitcoin/comments/1svo1db/sometimes_i_wonder/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -95,7 +95,7 @@ In this sub, absolute cinema
 
 In 2023 I started investing in Bitcoin but it was at an all time high at 29k and sold, now I regret it and started buying again.
 
-9h ago
+10h ago
 
 ---
 
@@ -111,7 +111,7 @@ The US Treasury froze $344 million in USDT linked to Iran with a single call to 
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-7h ago
+8h ago
 
 ---
 
@@ -119,7 +119,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Curious what everyone’s mix is. (Not a Fed)
 
-33m ago
+1h ago
 
 ---
 
@@ -127,7 +127,7 @@ Curious what everyone’s mix is. (Not a Fed)
 
 Hello, so my bank/banks in my country in Europe do not allow bitcoin to be purchased using debit or credit cards. I did find a way to use bank transfer for platforms like Kraken, but they charge me a monthly fee just to have that feature, which is difficult for me since I am currently on a tight budget. I am wondering if there is any alternative way for me to buy bitcoin through another platform, such as Binance, and then transfer or trade it to my Kraken wallet safely and without high fees.
 
-16h ago
+17h ago
 
 ---
 
@@ -135,7 +135,7 @@ Hello, so my bank/banks in my country in Europe do not allow bitcoin to be purch
 
 Ppl only looking at short term liquidity saying shorts have been liquidated. But have u paid attention to older liquidity? Coinglass 3 month chart barely shows it. U need smth like trading different to see it fully. Goes all the way up to 96k. And there is a ton of it. Pay attention to the sideways consolidation, we have been doing this every weekend and then pumping to the upside. Everyone and their mom is shorting here. That means a very very very strong chance of upside. We’re going into the 80s at the very least. Do not short and get rekt. Dca/buy and hold
 
-19h ago
+20h ago
 
 ---
 
@@ -143,7 +143,7 @@ Ppl only looking at short term liquidity saying shorts have been liquidated. But
 
 Hello all, I feel like its very difficult now to actually have 100% safe and anonymous wallet. What would the steps to have a safe and anonymous wallet that would never be tracked to a person name? This must include Safety: if you suggest a website or an app to generate a wallet and get the keys for and then print it out on piece of paper. How are you 100% sure the generator is not fake? Anonymity: getting the wallet undocumented and how to later on exchange it back to fiat without having to through places like Coinbase etc... Purchasing: Many business online now accept crypto/btc but its usually associated to an account/name. I feel like the regulations are "needed" for crypto to be accepted in masses but that kind of breaks the purpose of it. Thanks in advance
 
-3h ago
+4h ago
 
 ---
 
@@ -151,7 +151,7 @@ Hello all, I feel like its very difficult now to actually have 100% safe and ano
 
 Why does every finance app try to look like a Bloomberg Terminal? 90% of those charts are just noise. I’ve been working on a project that strips all that away. It’s a simple, high-precision tracker for crypto and stocks. Important note: To keep things secure and simple, there are no trading features. You don't buy or sell assets in the app—it's designed solely to give you a perfect, clean overview of your portfolio and the market. If you’re looking for a more zen way to keep an eye on the market, give it a try. Link: https://play.google.com/store/apps/details?id=cz.akcie.app
 
-16h ago
+17h ago
 
 ---
 
@@ -163,7 +163,7 @@ Why does every finance app try to look like a Bloomberg Terminal? 90% of those c
 
 IBIT options open interest topped Deribit on Friday, signaling rapid institutional adoption of regulated crypto derivatives in the U.S.
 
-CoinDesk • 19h ago
+CoinDesk • 20h ago
 
 ---
 
@@ -177,7 +177,7 @@ Bloomberg.com • 1d ago
 
 Market Domination welcomes Christie's International Real Estate Southern California founder and CEO, Aaron Kirman, to break down why some ultra-wealthy individuals are using bitcoin (BTC-USD) to purchase real estate (XLRE).
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -185,7 +185,7 @@ Yahoo Finance • 1h ago
 
 Peter Schiff says MicroStrategy's STRC dividend creates a Bitcoin death spiral risk that could sink MSTR shares fast.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -193,7 +193,7 @@ Yahoo Finance • 3h ago
 
 Most altcoins fail. Should you write them off completely? Shark Tank investor Kevin O’Leary has thoughts on what you should do.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -259,7 +259,7 @@ The U.S. military is actively running a Bitcoin node and testing the protocol’
 
 The global economic system is evolving: The left wants to redistribute. The right wants to deregulate. Both are missing the point.
 
-⬆️ 4 • 💬 5 • 5d ago • [The Alignment Economy](https://alignmenteconomy.org)
+⬆️ 4 • 💬 5 • 6d ago • [The Alignment Economy](https://alignmenteconomy.org)
 
 ---
 
@@ -327,17 +327,7 @@ Michael Saylor is buying at a pace that could trigger a historic Bitcoin supply 
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 1K • 💬 69 • ⏱️ 20:53 • 14h ago
-
----
-
-**[Bitcoin’s Biggest Recovery Is Starting… Crypto Winter Is Over](https://www.youtube.com/watch?v=ST_kzwgxrSI)**
-
-Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clashpicks.com/ **Exchange Partners** ...
-
-📺 CryptosRus Extra
-
-👁️ 6K • 👍 310 • 💬 171 • ⏱️ 8:10 • 23h ago
+👁️ 13K • 👍 1K • 💬 75 • ⏱️ 20:53 • 15h ago
 
 ---
 
@@ -347,7 +337,7 @@ Kevin Warsh may be the next Fed Chair, and the real question is simple: when doe
 
 📺 Swan Bitcoin
 
-👁️ 6K • 👍 348 • 💬 10 • ⏱️ 11:16 • 10h ago
+👁️ 7K • 👍 443 • 💬 13 • ⏱️ 11:16 • 11h ago
 
 ---
 
@@ -357,7 +347,17 @@ Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=Al
 
 📺 Altcoin Daily
 
-👁️ 30K • 👍 2K • 💬 126 • ⏱️ 8:58 • 17h ago
+👁️ 31K • 👍 2K • 💬 129 • ⏱️ 8:58 • 18h ago
+
+---
+
+**[Bitcoin’s Biggest Recovery Is Starting… Crypto Winter Is Over](https://www.youtube.com/watch?v=ST_kzwgxrSI)**
+
+Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clashpicks.com/ **Exchange Partners** ...
+
+📺 CryptosRus Extra
+
+👁️ 6K • 👍 319 • 💬 175 • ⏱️ 8:10 • 1d ago
 
 ---
 
@@ -367,7 +367,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 43K • 👍 2K • 💬 52 • ⏱️ 57:11 • 1d ago
+👁️ 45K • 👍 2K • 💬 53 • ⏱️ 57:11 • 1d ago
 
 ---
 
@@ -377,7 +377,7 @@ Gareth uses it! Download Rumble Wallet now and enjoy the benefits of financial a
 
 📺 Gareth Soloway
 
-👁️ 52K • 👍 3K • 💬 387 • ⏱️ 10:41 • 23h ago
+👁️ 54K • 👍 3K • 💬 394 • ⏱️ 10:41 • 1d ago
 
 ---
 
@@ -387,7 +387,7 @@ Mark Moss is an optimist and he makes a compelling case for why Bitcoin holders 
 
 📺 Bitcoin Magazine
 
-👁️ 12K • 👍 453 • 💬 30 • ⏱️ 59:02 • 2d ago
+👁️ 12K • 👍 464 • 💬 30 • ⏱️ 59:02 • 2d ago
 
 ---
 
@@ -397,27 +397,27 @@ THEY ARE PREDICTING - $500K BITCOIN, $40K ETHEREUM, AND $50 XRP BY THIS DATE! GE
 
 📺 Austin Hilton
 
-👁️ 10K • 👍 490 • 💬 94 • ⏱️ 9:47 • 20h ago
+👁️ 10K • 👍 509 • 💬 30 • ⏱️ 9:47 • 21h ago
 
 ---
 
-**[BITCOIN: IT&#39;S TIME TO SELL...](https://www.youtube.com/watch?v=9EpBAACH5vE)**
+**[Bitcoin: Heikin-Ashi Candles](https://www.youtube.com/watch?v=hMStACy4ou4)**
 
-WEEX: https://www.weex.com/newbieActivities?vipCode=00dt&id=520&type=BEGINNER_TASK 25% FEE DISCOUNT ...
-
-📺 Crypto Rover
-
-👁️ 6K • 👍 467 • 💬 42 • ⏱️ 7:08 • 7h ago
-
----
-
-**[Bitcoin Dominance](https://www.youtube.com/watch?v=VdCMIWRHkTs)**
-
-Let's talk about Bitcoin dominance, altcoins, and monetary policy! Into The Cryptoverse Premium SALE: ...
+In this video, we take a look at how Heikin-Ashi candles can help remove some of the emotional noise from Bitcoin price action, ...
 
 📺 Benjamin Cowen
 
-👁️ 60K • 👍 3K • 💬 284 • ⏱️ 37:14 • 1d ago
+👁️ 36K • 👍 3K • 💬 182 • ⏱️ 23:18 • 10h ago
+
+---
+
+**[Bitcoin&#39;s Most Dangerous Rally is Happening Right Now!](https://www.youtube.com/watch?v=X3V94U_p3WA)**
+
+Bitcoin is rallying out of a major drawdown while funding rates stay flat, shorts get squeezed, and spot demand keeps absorbing ...
+
+📺 Simply Bitcoin
+
+👁️ 54K • 👍 3K • 💬 204 • ⏱️ 20:08 • 2d ago
 
 ---
 
