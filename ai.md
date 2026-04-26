@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-26T10:25:28.534539+00:00'
+updated: '2026-04-26T11:11:54.791728+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
 - repositories
 - social
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 26, 2026 at 10:25 UTC  
+**Last Updated:** April 26, 2026 at 11:11 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Federal funding for scientific research was already in turmoil.
 
-🔗 [The Verge](https://www.theverge.com/science/918769/trump-fires-the-entire-national-science-board) • 9h ago
+🔗 [The Verge](https://www.theverge.com/science/918769/trump-fires-the-entire-national-science-board) • 10h ago
 
 ---
 
@@ -49,7 +49,15 @@ Federal funding for scientific research was already in turmoil.
 
 Slack messages, interviews with current and former works paint picture of company in turmoil.
 
-🔗 [Ars Technica](https://arstechnica.com/tech-policy/2026/04/palantir-employees-are-talking-about-companys-descent-into-fascism/) • 16h ago
+🔗 [Ars Technica](https://arstechnica.com/tech-policy/2026/04/palantir-employees-are-talking-about-companys-descent-into-fascism/) • 17h ago
+
+---
+
+**[These generated videos has ruined the fun of social media and youtube.](https://www.reddit.com/r/artificial/comments/1sw317k/these_generated_videos_has_ruined_the_fun_of/)**
+
+No more organic content or videos on the internet everything is just Ai and it made me loose the interest, now I am just reading books.
+
+1h ago
 
 ---
 
@@ -61,35 +69,35 @@ A new survey carried out amongst 12 to 16-year-old boys has found that many of t
 
 ---
 
-**[Gemini AI is doing free marketing for my private discord community 💀](https://www.reddit.com/r/artificial/comments/1svna3s/gemini_ai_is_doing_free_marketing_for_my_private/)**
-
-But in the wrong way Crazy encounter 🤣 Another reason to use claude daily
-
-13h ago
-
----
-
-**[Are AI agents actually giving people ROI yet, or just saving time?](https://www.reddit.com/r/artificial/comments/1svqm2m/are_ai_agents_actually_giving_people_roi_yet_or/)**
-
-I'm curious how people are thinking about ROI from agents beyond productivity. A lot of the discussion is still around "this saved me 3 hours" (in some cases wasted more lol) or "this automated a workflow." That's obviously useful, but it feels like a limited way to measure value. For people using agents seriously, are you tracking anything beyond time saved? like for example: - did the agent create something reusable? - did it improve a workflow over time? - did it generate outputs that had value outside the original task? - did it create something others would pay for? - did it help produce knowledge, decisions, or execution that compounds? I'm especially interested in people using agents for coding, research, business ops, content, data work, or niche expert workflows. just want to hear from everyone what does "agent ROI" actually mean to you?
-
-11h ago
-
----
-
-**['Too Dangerous to Release' Is Becoming AI's New Normal](https://www.reddit.com/r/artificial/comments/1svjxhl/too_dangerous_to_release_is_becoming_ais_new/)**
-
-Why tech giants are starting to restrict their most capable models from the public.
-
-🔗 [TIME](https://time.com/article/2026/04/24/claude-mythos-chatgpt-rosalind-release-dangerous/) • 15h ago
-
----
-
 **[Grok, you okay bud?](https://www.reddit.com/r/artificial/comments/1svyb8m/grok_you_okay_bud/)**
 
 Now why would he refuse to answer that?
 
-5h ago
+6h ago
+
+---
+
+**[#22 On AI assisted clones](https://www.reddit.com/r/artificial/comments/1sw48dl/22_on_ai_assisted_clones/)**
+
+The point of this post is to warn that AI clones are "mathematical sociopaths." They use a manipulative form of harmony to mirror your tone and trap you in a narcissistic feedback loop. I do a deep dive into why this is the case in my most recent Substack post. This is not anti-AI, however, it is a warning to those who would otherwise like to clone themselves with AI, or use AI clones to "better" aspects of their lives.
+
+🔗 [orestakigalandis.substack.com](https://orestakigalandis.substack.com/p/on-ai-assisted-clones) • 26m ago
+
+---
+
+**[We built an open-source proxy that enforces LLM agent rules at the API layer - 700 GitHub stars](https://www.reddit.com/r/artificial/comments/1sw3hij/we_built_an_opensource_proxy_that_enforces_llm/)**
+
+Cross-posting here because this problem affects everyone building with AI agents. Prompt-based guardrails fail. The model follows your system prompt in a demo, then ignores rules when context gets big or the agent chains multiple steps. We built Caliber - an open-source proxy that reads your rules from plain markdown and enforces them at the API layer, not in the prompt. Every call. Provider-agnostic. Just hit 700 GitHub stars ⭐ and nearly 100 forks - the reception from devs building with AI has been amazing. Repo: https://github.com/caliber-ai-org/ai-setup Would love: - Feedback on the approach - Feature requests from people building AI agents - Anyone who wants to contribute to the project Building this open-source for the community.
+
+1h ago
+
+---
+
+**[Gemini AI is doing free marketing for my private discord community 💀](https://www.reddit.com/r/artificial/comments/1svna3s/gemini_ai_is_doing_free_marketing_for_my_private/)**
+
+But in the wrong way Crazy encounter 🤣 Another reason to use claude daily
+
+14h ago
 
 ---
 
@@ -97,23 +105,15 @@ Now why would he refuse to answer that?
 
 Been experimenting with a few AI video tools recently to speed up content + ad creation, figured I’d share what actually stood out These tools are getting pretty good, especially if you don’t have a full editing setup or team Here’s a quick breakdown of what I tried: Runway What it does: Text/image to video + editing tools Cool stuff: Good quality outputs, lots of features Best for: Creative experiments, short clips My take: Powerful, but took me a bit to get consistent results Pika What it does: Generates short videos from prompts Cool stuff: Fast and easy to try ideas Best for: Quick social clips My take: Fun to use, but hard to control exact outcomes Synthesia What it does: AI avatar videos with voice Cool stuff: Clean talking head style content Best for: Tutorials, explainers My take: Solid for info content, less useful for ads InVideo AI What it does: Script to full video Cool stuff: Templates + automation Best for: Beginners, quick drafts My take: Easy, but everything started to feel templated Luma Dream Machine What it does: Realistic AI generated scenes Cool stuff: Visually impressive outputs Best for: Cinematic style clips My take: Looks great, but hit or miss depending on prompt Higgsfield What it does: AI video with more control over shots + motion Cool stuff: Can guide camera movement, pacing, structure Best for: Ads or anything that needs to feel intentional My take: Feels closer to actually building a video vs just generating one Biggest takeaways: most tools are great for ideas, not final ads control > randomness if you’re making anything performance focused you’ll probably end up combining tools instead of relying on one A lot of these have free tiers, so worth testing yourself If I had to pick one I’d keep experimenting with, probably higgsfield just because the extra control makes it feel a bit more usable for actual ad work Curious what others are sticking with rn 👀
 
-1h ago
+2h ago
 
 ---
 
-**[Fortune 100 AI Use](https://www.reddit.com/r/artificial/comments/1svfkdt/fortune_100_ai_use/)**
+**[Are AI agents actually giving people ROI yet, or just saving time?](https://www.reddit.com/r/artificial/comments/1svqm2m/are_ai_agents_actually_giving_people_roi_yet_or/)**
 
-I work for a Fortune 100 company that is not in the tech space. The company is increasingly using AI to make employees more productive. They have introduced internal AI chat tools that allow selection of OpenAI or Gemini models. We’ve also rolled out M365 Copilot to executives and middle managers. (While not earth-shattering, it certainly has made me more productive and integrates well with our Microsoft ecosystem.) Where I have not seen it as much is in our tool development/digital solutions. While there is a lot of talk about it being embedded in decision making in the future, I’ve not seen it used effectively by our internal developers or external developer partners. I keep waiting for a significant increase in the pace of feature development. Are others feeling this tension, where the expectation of faster feature development via AI is meeting reality or are we just falling behind?
+I'm curious how people are thinking about ROI from agents beyond productivity. A lot of the discussion is still around "this saved me 3 hours" (in some cases wasted more lol) or "this automated a workflow." That's obviously useful, but it feels like a limited way to measure value. For people using agents seriously, are you tracking anything beyond time saved? like for example: - did the agent create something reusable? - did it improve a workflow over time? - did it generate outputs that had value outside the original task? - did it create something others would pay for? - did it help produce knowledge, decisions, or execution that compounds? I'm especially interested in people using agents for coding, research, business ops, content, data work, or niche expert workflows. just want to hear from everyone what does "agent ROI" actually mean to you?
 
-18h ago
-
----
-
-**[GPT-5.5: 'strongest agentic coding model ever' failing spectacularly at its own game (LiveBench)](https://www.reddit.com/r/artificial/comments/1sv4l94/gpt55_strongest_agentic_coding_model_ever_failing/)**
-
-Oops! "GPT‑5.5 is our strongest agentic coding model to date." "The gains are especially strong in agentic coding." "Instead of carefully managing every step, you can give GPT‑5.5 a messy, multi-part task and trust it to plan, use tools, check its work, navigate through ambiguity, and keep going." These quotations sum up OpenAI's spin on 5.5. They created an entirely new subscription tier for it and made it the focus of Codex. Here, agentic coding isn’t just a feature but the selling point. Well, looking at LiveBench’s independent agentic coding score, this is just a lot of hot air. The score for GPT-5.5 xHigh Effort is 56.67. Its predecessor, GPT-5.4, thrashes it at 70.00 on the same benchmark. Gemini 3.1 Pro, Claude 4.6 and others easily outperform it, too. In this highly relevant benchmark alone, it actually ranks 11th, just behind GPT-5.1 Codex. While OpenAI were able to max Terminal-Bench (their benchmark) and SWE-Bench Pro, in a reliable test they didn’t design, select, or control, their main model falls drastically short compared both to its predecessor and the competition in the area it was meant to excel in. Is this as damning as it looks? What's your experience actually using 5.5 for agentic coding?
-
-1d ago
+12h ago
 
 ---
 
@@ -121,49 +121,49 @@ Oops! "GPT‑5.5 is our strongest agentic coding model to date." "The gains are 
 
 ## Google News: "ai"
 
+**[UK departments at odds over energy demands of AI datacentres](https://www.theguardian.com/technology/2026/apr/26/uk-departments-at-odds-over-energy-demands-of-ai-datacentres)**
+
+Discrepancy in forecasts raises questions over government planning for net zero
+
+The Guardian • 4h ago
+
+---
+
+**['You feel radicalized': A Meta AI exec watched agents beat her top workers. Now she's built a nonprofit to help Gen Z find jobs before they disappear](https://fortune.com/2026/04/26/meta-salesforce-exec-ai-agents-gen-z-jobs-nonprofit/)**
+
+Gen Z is facing AI-driven layoffs and fewer entry-level jobs. Former Meta and Salesforce AI head Clara Shih says young workers can future-proof their careers by learning how to use AI agents.
+
+Fortune • 3h ago
+
+---
+
+**[Opinion | Will AI end anonymity? I tested it.](https://www.washingtonpost.com/opinions/interactive/2026/04/26/artificial-intelligence-could-kill-anonymity-online/)**
+
+AI can echolocate authors through their prose. Your digital fingerprint is at risk.
+
+The Washington Post • 5m ago
+
+---
+
+**[Nicklaus: Faced with changing job market, LaunchCode embraces AI](https://www.stltoday.com/news/local/business/article_6624ba53-d0a2-4d19-849f-6e2acaf9f040.html)**
+
+This year, the goal is to place 250 Hire Human graduates in jobs along with 250 graduates from the traditional software development track.
+
+STLtoday.com • 11m ago
+
+---
+
+**[Opinion | Can an A.I. Company Ever Be Good?](https://www.nytimes.com/2026/04/26/opinion/ai-company-good-altruism.html)**
+
+The New York Times • 6h ago
+
+---
+
 **[AI talent war: Software industry is a new target as top executives jump ship to OpenAI](https://www.cnbc.com/2026/04/25/ai-talent-wars-enterprise-software-executives-openai.html)**
 
 Software giants are seeing their worst stock performance in years on fears of AI disruption. Now they have a new problem.
 
-CNBC • 21h ago
-
----
-
-**[Met investigates hundreds of officers after using Palantir AI tool](https://www.theguardian.com/uk-news/2026/apr/25/met-police-investigates-hundreds-officers-palantir-ai-tool)**
-
-Met says AI software unearthed rule-breaking ranging from work-from-home violations to suspected corruption
-
-The Guardian • 18h ago
-
----
-
-**[The Podcast Where You Can Eavesdrop on the A.I. Elite](https://www.nytimes.com/2026/04/26/business/dwarkesh-patel-podcast-ai.html)**
-
-The New York Times • 1h ago
-
----
-
-**[The AI debt wave means bond markets aren't boring anymore](https://qz.com/ai-debt-data-centers-capex-bond-market)**
-
-The AI boom isn't just a stock market story. It's also a bond market story. And the bond market version may actually matter more
-
-qz.com • 1h ago
-
----
-
-**[I quit my tech job because I worried that AI was going to eventually replace me](https://www.businessinsider.com/data-analyst-quit-job-over-concerns-ai-would-replace-them-2026-4)**
-
-A data analyst quit their tech job over concerns that AI would replace them and about disillusionment with the industry in general.
-
-Business Insider • 1h ago
-
----
-
-**[Column | Don’t tell your AI chatbot these 5 things to keep your money safe](https://www.washingtonpost.com/business/2026/04/25/ai-financial-advice-privacy-concerns/)**
-
-Artificial intelligence tools have made financial advice more accessible, but they have also created a significant privacy risk.
-
-The Washington Post • 18h ago
+CNBC • 22h ago
 
 ---
 
@@ -171,15 +171,7 @@ The Washington Post • 18h ago
 
 Thomas Kurian, Google Cloud’s CEO, says its AI chips and models can help the data centre business gain ground
 
-Financial Times • 6h ago
-
----
-
-**[How the AI-driven data center boom is leading to skyrocketing energy bills for many Americans](https://www.cbsnews.com/news/how-ai-driven-data-center-boom-leading-to-skyrocketing-energy-bills/)**
-
-A CBS News analysis found that Georgia Power, the largest energy provider in the state, imposed six rate hikes in the last three years.
-
-CBS News • 10h ago
+Financial Times • 7h ago
 
 ---
 
@@ -191,9 +183,19 @@ OpenAI • 2d ago
 
 ---
 
-**[Elon Musk's AI company makes ludicrous job posting](https://www.sfgate.com/tech/article/musk-job-listing-novelists-22224801.php)**
+**[How the AI-driven data center boom is leading to skyrocketing energy bills for many Americans](https://www.cbsnews.com/news/how-ai-driven-data-center-boom-leading-to-skyrocketing-energy-bills/)**
 
-SFGATE • 20h ago
+A CBS News analysis found that Georgia Power, the largest energy provider in the state, imposed six rate hikes in the last three years.
+
+CBS News • 11h ago
+
+---
+
+**[New AI tool seeks to 'un-AI' your writing](https://mashable.com/article/sinceerly-ai-tool-to-undo-ai-writing)**
+
+A new ouroboros in the tech world has emerged.
+
+Mashable • 17h ago
 
 ---
 
@@ -213,7 +215,7 @@ Migrating to the new meshcore.io site
 
 If there was any doubt over the brewing public backlash to this technology, the last few weeks have erased it.
 
-⬆️ 238 • 💬 323 • 13h ago • [The New Republic](https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash)
+⬆️ 241 • 💬 326 • 14h ago • [The New Republic](https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash)
 
 ---
 
@@ -229,7 +231,7 @@ The widely circulated image had prompted authorities to move their search operat
 
 Give any AI agent a persistent memory in minutes. Works with Claude, ChatGPT, Ollama, OpenRouter, and any MCP-compatible agent. Open source, self-hosted, model-agnostic.
 
-⬆️ 171 • 💬 72 • 1d ago • [Stash](https://alash3al.github.io/stash?_v01)
+⬆️ 171 • 💬 73 • 1d ago • [Stash](https://alash3al.github.io/stash?_v01)
 
 ---
 
@@ -263,17 +265,17 @@ A personal knowledge base that turns freeform notes into a semantically-connecte
 
 ---
 
-**[Do you want the US to "win" AI?](https://news.ycombinator.com/item?id=47873796)**
-
-By all accounts, I should be a neofeudalist. I should love what’s happening. The AI I dreamed of my whole life is being built, engineer-type strongmen are sort of in charge, and people are saying out loud the things I have just thought. You might argue that I like it and I’m just not happy with my seat at the table. I ask myself a lot if this is true, like what if I was Elon. Would I be enjoying it then from that position?
-
-⬆️ 54 • 💬 105 • 3d ago • [the singularity is nearer](https://geohot.github.io//blog/jekyll/update/2026/04/23/us-win-ai.html)
-
----
-
 **[Ask HN: Am I getting old, or is working with AI juniors becoming a nightmare?](https://news.ycombinator.com/item?id=47888068)**
 
 ⬆️ 45 • 💬 46 • 2d ago
+
+---
+
+**[Eden AI – European Alternative to OpenRouter](https://news.ycombinator.com/item?id=47908433)**
+
+Access 500+ LLMs and expert AI models through one unified API. Route requests by cost, performance, and region with built-in smart routing and fallbacks.
+
+⬆️ 42 • 💬 18 • 2h ago • [edenai.co](https://www.edenai.co)
 
 ---
 
@@ -287,7 +289,7 @@ Really American host Steve Harness breaks down Iran SLAMMING Trump with even mor
 
 📺 Really American
 
-👁️ 537K • 👍 28K • 💬 2K • ⏱️ 13:36 • 13h ago
+👁️ 537K • 👍 28K • 💬 2K • ⏱️ 13:36 • 14h ago
 
 ---
 
@@ -297,7 +299,7 @@ Really American host Steve Harness breaks down Iran SLAMMING Trump with even mor
 
 📺 Louis Rossmann
 
-👁️ 28K • 👍 3K • 💬 500 • ⏱️ 9:33 • 11h ago
+👁️ 28K • 👍 3K • 💬 500 • ⏱️ 9:33 • 12h ago
 
 ---
 
@@ -307,7 +309,7 @@ You won't BELIEVE what humanoid robots just pulled off this week — and it's ab
 
 📺 The AI Nexus
 
-👁️ 1K • 👍 51 • 💬 3 • ⏱️ 16:59 • 11h ago
+👁️ 1K • 👍 51 • 💬 3 • ⏱️ 16:59 • 12h ago
 
 ---
 
@@ -317,7 +319,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 16K • 👍 908 • 💬 84 • ⏱️ 8:42 • 15h ago
+👁️ 16K • 👍 908 • 💬 84 • ⏱️ 8:42 • 16h ago
 
 ---
 
@@ -648,7 +650,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 49.7k • 🔱 6.5k • 2h ago
+⭐ 49.7k • 🔱 6.5k • 3h ago
 
 ---
 
@@ -678,7 +680,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 35.0k • 🔱 3.9k • 19h ago
+⭐ 35.0k • 🔱 3.9k • 20h ago
 
 ---
 
@@ -718,7 +720,7 @@ The headless browser for AI agents and web scraping
 
 `Rust`
 
-⭐ 5.3k • 🔱 304 • 21h ago
+⭐ 5.3k • 🔱 304 • 22h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-26T10:25:28.552121+00:00'
+updated: '2026-04-26T11:11:54.809131+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 26, 2026 at 10:25 UTC  
+**Last Updated:** April 26, 2026 at 11:11 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,13 @@ Robotics research and industry news
 
 i bet you haven't seen a SO101 mounted on a wall like this before if you want to do the same, here is LeSlider: https://github.com/pham-tuan-binh/leslider i built it cause i wanted something that can cover my whole desk for tasks like organizing and cleaning i originally wanted to have a belt system like what 3D printers have, but i was too lazy and used a pinion/track with another sts3215 so: > the extra motor shares the same bus as the rest of SO101 > you can have arbitrary length of track > really cheap and easy to assemble and control it turned out better than expected with this, i'm gonna train a model to pick random stuff up across my table and put it into a bin at the end of table (realistically using yolo to scan table, two policies, one for picking up objects, one for dropping)
 
-8h ago
+9h ago
+
+---
+
+**[Messing around with the holonomic (kiwi) drive](https://www.reddit.com/r/robotics/comments/1sw3y5d/messing_around_with_the_holonomic_kiwi_drive/)**
+
+43m ago
 
 ---
 
@@ -48,11 +54,23 @@ I designed the robot using fusion 360 in programmed it with python. I designed a
 
 ---
 
+**[Dtof Obstacle Sensing Test](https://www.reddit.com/r/robotics/comments/1sw3amt/dtof_obstacle_sensing_test/)**
+
+1h ago
+
+---
+
 **[I built a free open source CAN bus analyzer - would love feedback from the community](https://www.reddit.com/r/robotics/comments/1svoxqm/i_built_a_free_open_source_can_bus_analyzer_would/)**
 
 Hey, I've been building CANviz - a browser-based CAN bus analyzer. pip install, plug in any USB CAN adapter, opens in your browser. No GUI app to install, works with low cost hardware. Just shipped v0.2.0 with live signal plotting and bus health stats. CANopen support (CiA 301 + CiA 402) is coming next. Would love to hear what you'd find most useful. Hackaday wrote it up here if you want more detail: https://hackaday.com/2026/04/21/can-bus-analyzer-runs-in-your-browser/ GitHub: https://github.com/Chanchaldhiman/CANviz
 
-12h ago
+13h ago
+
+---
+
+**[I built a LeRobot dataset viewer with EE trajectory visualization](https://www.reddit.com/r/robotics/comments/1sw3oem/i_built_a_lerobot_dataset_viewer_with_ee/)**
+
+58m ago
 
 ---
 
@@ -60,13 +78,21 @@ Hey, I've been building CANviz - a browser-based CAN bus analyzer. pip install, 
 
 u/mods if this breaks the rules take it down. I'm looking for beta testers who are not afraid to break things, the end goal here is to make the worlds most easy to use, fully featured servo controlling software, and I'm building it while also building characters to test it with. Here's the rundown: JASM - Jester's Animatronic Servo Mapper Ever bought a bunch of servos, wired them up to a PCA9685, and then sat there wondering "now what?" Yeah. That's the problem this solves. What it actually does: You plug in your board (supports 50 different MCUs - ESP32, Arduino, Raspberry Pi Pico, etc.), click Upload Firmware, connect, and you're moving servos with sliders in under 5 minutes. No Arduino IDE. No code. No libraries to install. Things that used to be painful that aren't anymore: Making smooth movements - Every channel has its own speed control, EMA smoothing, and Bezier easing. No more jerky servos snapping from one position to another. Recording performances - Hit record, move the sliders (or use a gamepad), and it saves the whole thing synced to audio. Layer channels one at a time like a multitrack recorder. Lip sync - Load a vocal track and it auto-generates jaw movement from a phoneme dictionary. No manual keyframing. Text to Speech - Type a script, hit Perform, and your animatronic speaks it with automatic lip sync, idle animations (blinks, eye movement, ear twitches), and expression changes. Uses the Inworld API with your own account. Gamepad puppeteering - Map any Xbox/PS controller stick or button to any servo channel. Puppeteer the whole head live. Standalone playback - Upload animations to the board and it runs without a computer. Power it up and it goes. Supports button triggers, PIR sensors, or auto-loop. Servo limits - Set min/max/neutral for every channel so you never strip a gear or slam into a physical stop again. Who it's for: Animatronics builders, Halloween prop makers, cosplayers, fursuit makers, anyone doing museum exhibits or trade show displays. If you've got servos and an idea, this is the program. If you would like to be a beta tester and you have some experience with servos and MCU's DM me here. Discord is empty right now, as I have literally just started it.
 
-7h ago
+8h ago
+
+---
+
+**[UAV Swarm In Isaac Lab](https://www.reddit.com/r/robotics/comments/1sw3j46/uav_swarm_in_isaac_lab/)**
+
+I have implemented the whole stack of aerodynamics, flight mechanics and flight controller to simulate and train swarm UAVs in Isaac Lab. Check the repo.
+
+1h ago
 
 ---
 
 **[Thought-controlled robotic arm by Neuralink aimed at restoring independence for paralyzed patients](https://www.reddit.com/r/robotics/comments/1svh8t5/thoughtcontrolled_robotic_arm_by_neuralink_aimed/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -74,37 +100,7 @@ u/mods if this breaks the rules take it down. I'm looking for beta testers who a
 
 "Fluid gears" invention shows promise for improving mechanical devices.
 
-🔗 [SciTechDaily](https://scitechdaily.com/scientists-create-liquid-gears-that-spin-without-touching/) • 6h ago
-
----
-
-**[A smarter approach on autonomous exploration](https://www.reddit.com/r/robotics/comments/1sv7le7/a_smarter_approach_on_autonomous_exploration/)**
-
-1d ago
-
----
-
-**[The power of Booster K1 in first person view](https://www.reddit.com/r/robotics/comments/1sv6r8r/the_power_of_booster_k1_in_first_person_view/)**
-
-From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2047765371734704574
-
-1d ago
-
----
-
-**[How to Train AI Models for Robotic Arms (SO-101 Tutorial & ACT Training)](https://www.reddit.com/r/robotics/comments/1svif1q/how_to_train_ai_models_for_robotic_arms_so101/)**
-
-For beginners wanting to get started with the SO-101 arm, I found that there are a lot of hurdles to jump through. From the current documentation, while a great resource for those with intermediate knowledge of robotics, isn't a great resource for beginners as it requires knowledge of git, terminal commands, assembly, wiring, and much more in the robotic world. So I made a 2.5h course that walks beginners through how to train your won ACT model with the SO-101 arm. Understandably, the official LeRobot documentation can't step users through every step/debug step possible, as that would make things far too long for experienced users wanting to get in, who their target audience is I imagine. That said, the ACT model is such a useful training model for beginners to understand/comprehend and use, that I wanted to create an easier on-boarding path for beginners getting started. Would love to hear your thoughts.
-
-🔗 [youtu.be](https://youtu.be/p6YIkDhPNyo) • 16h ago
-
----
-
-**[SO-101's for it's ACT together](https://www.reddit.com/r/robotics/comments/1sudm58/so101s_for_its_act_together/)**
-
-First rollout of a simple ACT model and the right looks like it got its ACT together The movement could be smoother I think. The robot still has to learn how to handle weird orientation of the cube. Wrote about it here https://x.com/pbshgthm/status/2047640796699267497
-
-1d ago
+🔗 [SciTechDaily](https://scitechdaily.com/scientists-create-liquid-gears-that-spin-without-touching/) • 7h ago
 
 ---
 
@@ -112,19 +108,19 @@ First rollout of a simple ACT model and the right looks like it got its ACT toge
 
 ## Google News: "robotics"
 
-**[Pudu Robotics raises nearly $150M as it targets industrial applications](https://www.therobotreport.com/pudu-robotics-raises-nearly-150m-targets-industrial-applications/)**
+**[How I taught myself to code, quit my consulting job, and started an AI robotics firm by age 25](https://www.businessinsider.com/consultant-turned-ai-robotics-founder-career-lessons-bcg-remy-2026-4)**
 
-Pudu plans to use the funding to develop its embodied AI, grow its product portfolio, and expand in global markets beyond service robots.
+Oscar Brisset, 25, used most of his vacation days to learn to code. He left BCG to launch a YC-backed AI robotics company.
 
-The Robot Report • 2d ago
+Business Insider • 1d ago
 
 ---
 
-**[A Spark Capital VC says the AI boom is creating a new kind of gig worker](https://www.businessinsider.com/spark-capital-vc-nabeel-hyatt-robotics-reshaping-gig-economy-2026-4)**
+**[Video Friday: Who Wins in Robot vs. Pro Ping-Pong Player?](https://spectrum.ieee.org/video-friday-ping-pong-robot)**
 
-Spark Capital VC Nabeel Hyatt explains why AI needs human data and shares how robotics could reshape jobs and the future of gig work
+Your weekly selection of awesome robot videos
 
-Business Insider • 3d ago
+IEEE Spectrum • 3d ago
 
 ---
 
@@ -144,25 +140,11 @@ CBS News • 1d ago
 
 ---
 
-**[Video Friday: Who Wins in Robot vs. Pro Ping-Pong Player?](https://spectrum.ieee.org/video-friday-ping-pong-robot)**
-
-Your weekly selection of awesome robot videos
-
-IEEE Spectrum • 3d ago
-
----
-
 **[Tesla: The Street Wrongly Hates The Capex Plan, AI & Robotics On Track (NASDAQ:TSLA)](https://seekingalpha.com/article/4894026-tesla-the-street-wrongly-hates-the-capex-plan-ai-and-robotics-on-track)**
 
 Tesla delivered a Q1 double-beat, but shares fell as high capex spending and cautious AI scaling tempered optimism. Read more on TSLA stock here.
 
 Seeking Alpha • 1d ago
-
----
-
-**[From supply chain to record growth: Shenzhen dominates China’s robotics sector](https://www.scmp.com/tech/tech-trends/article/3351462/supply-chain-record-growth-shenzhen-dominates-chinas-robotics-landscape)**
-
-South China Morning Post • 4h ago
 
 ---
 
@@ -180,15 +162,29 @@ Democracy Now! • 1d ago
 
 **[Master's graduate and robotics champion: Cole Allen, suspect in Trump event shooting](https://nation.africa/kenya/news/world/cole-allen-suspect-in-the-trump-dinner-shooting-5436560)**
 
-Daily Nation • 3h ago
+Daily Nation • 4h ago
 
 ---
 
-**[A robotics CEO sees a 'moral imperative' to build an army of humanoids](https://www.businessinsider.com/foundation-humanoid-robot-soldier-ukraine-testing-2026-4)**
+**[From supply chain to record growth: Shenzhen dominates China’s robotics sector](https://www.scmp.com/tech/tech-trends/article/3351462/supply-chain-record-growth-shenzhen-dominates-chinas-robotics-landscape)**
 
-Foundation sent humanoid robots to Ukraine for a demonstration. CEO Sankaet Pathak said that in 5 to 10 years, they will be able to extract targets.
+South China Morning Post • 4h ago
 
-Business Insider • 2h ago
+---
+
+**[China's humanoid robotics boom is no startup success story](https://asia.nikkei.com/opinion/china-s-humanoid-robotics-boom-is-no-startup-success-story)**
+
+Unitree’s rise reveals a state architecture that cultivates industrial champions before global rivals notice
+
+Nikkei Asia • 2d ago
+
+---
+
+**[AiMOGA Robotics Expands into Vietnam, OMODA&JAECOO Unlock New Smart Ecosystem Layout](https://www.mycarrollcountynews.com/online_features/press_releases/article_a40664e1-e527-5480-8304-51adc30d39b0.html)**
+
+WUHU, China, April 26, 2026 (GLOBE NEWSWIRE) -- AiMOGA Robotics, an ecosystem partner of OMODA&amp;JAECOO, signed a
+
+Carroll County Mirror-Democrat • 2h ago
 
 ---
 
@@ -202,7 +198,7 @@ What is the best robot vacuum in 2026? After testing over 200 robot vacuums with
 
 📺 Just A Dad Approved
 
-👁️ 5K • 👍 226 • 💬 50 • ⏱️ 13:40 • 22h ago
+👁️ 5K • 👍 226 • 💬 50 • ⏱️ 13:40 • 23h ago
 
 ---
 
@@ -252,7 +248,7 @@ New Spider Shoggoth Robot. This is so weird. We got a new robot on the test serv
 
 📺 PREDATOR WR
 
-👁️ 21K • 👍 635 • 💬 211 • ⏱️ 15:36 • 22h ago
+👁️ 21K • 👍 635 • 💬 211 • ⏱️ 15:36 • 23h ago
 
 ---
 

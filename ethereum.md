@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-26T10:25:28.548931+00:00'
+updated: '2026-04-26T11:11:54.805976+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
 - social
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 26, 2026 at 10:25 UTC  
+**Last Updated:** April 26, 2026 at 11:11 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
-**7d:** +0.8%  
-**30d:** +16.9%  
-**90d:** -22.9%  
-**1y:** +30.0%  
+**24h:** +0.9%  
+**7d:** +0.9%  
+**30d:** +17.0%  
+**90d:** -22.8%  
+**1y:** +30.1%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+6h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I wanted to share something interesting that happened recently. Etherscan added an info note to the Unicorn Meat token page that reads: "This token was created by Avsa of the Ethereum Foundation. Read more about it in this post." The link goes to a tweet from the official @ethereum account from April 1, 2016 announcing "the Unicorn Meat Grinder Smart Contract and Bribable DAO" by @avsa. For those who don't know the backstory: Alex Van de Sande (avsa) was one of Ethereum's earliest core team members. He built the Mist Browser, the Ethereum Wallet, and co-created ENS. In early 2016 he deployed a set of contracts as part of the ethereum.org tutorials, including the Unicorns token and the Unicorn Meat Grinder, a DAO that let you convert Unicorns into Unicorn Meat through on-chain governance. The contracts were deployed from his same wallet that deployed the Foundation Tip Jar, which Alex made on behalf of the Foundation to raise money and donors received Unicorn tokens. So the provenance chain is: same deployer address, multiple Etherscan-labeled EF contracts, and now an official Etherscan note confirming the connection. What makes this historically interesting: The Meat Grinder was one of the first DAOs on Ethereum, predating The DAO by months. It used a proposal and voting system where token holders could vote on actions like grinding Unicorns into Meat. It introduced one of the first token upgrade patterns. The Unicorn-to-Meat conversion was essentially a token migration mechanism, something that became standard practice years later. The contracts were based on the ethereum.org tutorials that avsa wrote to teach developers how to build on Ethereum. These tutorials were how an entire generation of Solidity developers learned the language. We've been working on documenting and verifying the source code of these contracts on EthereumHistory, including cracking the bytecode of contracts that were never verified on Etherscan. We recently launched a Collections feature that groups all contracts by their deployer, starting with avsa's 60 contracts and Vitalik's 66 contracts. We also recently cracked and verified the Meat Grinder's source code on Etherscan. The source had been sitting in avsa's public GitHub gist for 10 years but was never formally verified on-chain. The challenge was figuring out the exact compiler settings: these contracts predate Solidity 0.4, so there's no metadata hash in the bytecode to help identify the version. We had to work through early solc releases until we found that solc 0.2.1 with default optimization produced an exact byte-for-byte match against the on-chain runtime bytecode. Once confirmed, we submitted it to both Sourcify and Etherscan, so anyone can now read the original Solidity source directly on Etherscan and verify it themselves. It's a small thing, but these early contracts are historical artifacts. Having their source verified on-chain means the code is permanently readable and auditable, not just sitting in a gist that could disappear. If anyone is interested in Ethereum's early contract history, the provenance page has the full chain of evidence laid out, and EthereumHistory is an open platform where anyone can help document contracts.
 
-11h ago
+12h ago
 
 ---
 
@@ -88,7 +88,7 @@ I wanted to share something interesting that happened recently. Etherscan added 
 
 Hey everyone - I built AliBitress because we wanted an easier way to actually spend crypto on everyday products instead of constantly converting to fiat first. The idea is simple: use your crypto directly for online shopping. Current platform supports: - 360+ cryptocurrencies - Millions of products - Shipping to 200+ countries Still improving things every week, and I’d genuinely like feedback from people who would use something like this. Questions for the community: - What would make a crypto shopping platform actually useful to you? - Which coins/networks should we add next? - What would stop you from using a service like this? If anyone wants to check it out / roast it / suggest improvements: alibitress.com Appreciate any feedback. Supported currencies: https://www.alibitress.com/currencies#popular
 
-2h ago
+3h ago
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 been spending way too much time looking at the recent string of defi exploits and the amount of supply locked up in the same three lst platforms is honestly giving me anxiety. having that much of the network reliant on a few centralized points of failure makes me paranoid about massive tail risks. every time the market swings i find myself wanting to hedge this exposure, but the options are terrible. you either convert to fiat and trigger taxable events, or you play russian roulette with wrapped assets and multisig bridges that seem to get drained every other week. i went down a rabbit hole last night trying to find a way to secure my yields natively, maybe even hedging with digital gold or something stable, without fragmenting my liquidity across a dozen vulnerable front-ends. what are you guys actually doing to protect your bags long term? are we just stuck choosing between bare validator yields and accepting the centralized lst risk? curious if anyone has found a trust-minimized way to hedge this without leaving the ecosystem.
 
-20h ago
+21h ago
 
 ---
 
@@ -152,19 +152,27 @@ Justin Sun invested $45 million into World Liberty Financial. They froze his wal
 
 ## Google News: "ethereum"
 
-**[Ethereum Foundation sells nearly $24 million of ETH to Tom Lee's Bitmine](https://www.theblock.co/post/398819/ethereum-foundation-sells-nearly-24-million-of-eth-to-tom-lees-bitmine)**
-
-Bitmine Immersion also spent about $10 million when it bought 5,000 ETH from the Ethereum Foundation last month.
-
-The Block • 1d ago
-
----
-
 **[Bullish Ripple (XRP) Signals, Ethereum (ETH) Price Predictions, and More: Bits Recap, April 24](https://cryptopotato.com/bullish-ripple-xrp-signals-ethereum-eth-price-predictions-and-more-bits-recap-april-24/)**
 
 Here's what's new and catching attention around XRP, ETH, and DOGE.
 
 CryptoPotato • 1d ago
+
+---
+
+**[Is Owning Just Bitcoin and Ethereum Enough for a Crypto Portfolio?](https://www.fool.com/investing/2026/04/23/is-owning-just-bitcoin-and-ethereum-enough-for-a-c/)**
+
+Simple portfolios can often outperform overly complicated ones.
+
+The Motley Fool • 3d ago
+
+---
+
+**[Could This Cryptocurrency Help You Build a Fortune Over the Next Decade?](https://www.fool.com/investing/2026/04/26/could-this-cryptocurrency-help-you-build-a-fortune/)**
+
+Ethereum is perhaps the only cryptocurrency that touches everything else in the sector.
+
+The Motley Fool • 40m ago
 
 ---
 
@@ -176,11 +184,19 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Better Growth Investment to Buy With $500: Ethereum vs. Strategy](https://www.fool.com/investing/2026/04/25/better-growth-investment-to-buy-with-500-ethereum/)**
+**[Ethereum Foundation sells nearly $24 million of ETH to Tom Lee's Bitmine](https://www.theblock.co/post/398819/ethereum-foundation-sells-nearly-24-million-of-eth-to-tom-lees-bitmine)**
 
-These two assets take very different approaches to generating value.
+Bitmine Immersion also spent about $10 million when it bought 5,000 ETH from the Ethereum Foundation last month.
 
-The Motley Fool • 6h ago
+The Block • 1d ago
+
+---
+
+**[The Ethereum Golden Triangle That Has Predicted Every Move Shows Where Price Is Headed](https://www.tradingview.com/news/newsbtc:c9959d61f094b:0-the-ethereum-golden-triangle-that-has-predicted-every-move-shows-where-price-is-headed/)**
+
+A crypto analyst has identified a Golden Triangle, a rare structure that has been forming on the Ethereum (ETH) chart for almost nine years. According to the analyst, the Ethereum price has remained within this triangle during both bullish and bearish periods.However, he says the cryptocurrency is…
+
+TradingView • 7h ago
 
 ---
 
@@ -188,7 +204,7 @@ The Motley Fool • 6h ago
 
 The Ethereum Foundation unstaked $48.9M in ETH, raising selling pressure concerns. ETH reaching $10,000 by December 31, 2026 at 4% YES.
 
-Crypto Briefing • 3h ago
+Crypto Briefing • 4h ago
 
 ---
 
@@ -198,7 +214,7 @@ Barron's • 2d ago
 
 ---
 
-**[XRP vs Ethereum: Which Digital Giant Will Explode to Make You the Most Money in 2026?](https://www.tipranks.com/news/xrp-vs-ethereum-which-digital-giant-will-explode-to-make-you-the-most-money-in-2026)**
+**[Ethereum (ETH) Creates a $5 Billion Buying Storm to Crush $2.6K Resistance](https://www.tipranks.com/news/ethereum-eth-creates-a-5-billion-buying-storm-to-crush-2-6k-resistance)**
 
 TipRanks • 1d ago
 
@@ -212,20 +228,6 @@ Benzinga • 2d ago
 
 ---
 
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC holds gains, ETH eyes breakout, XRP defends key support](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-holds-gains-eth-eyes-breakout-xrp-defends-key-support-202604240334)**
-
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) are supporting a constructive outlook on Friday after surging by 6%, 2% and 3% so far this week, respectively.
-
-FXStreet • 2d ago
-
----
-
-**[Ethereum Price Prediction Targets Record Highs as Bitmine Loads 4.98M ETH, But This Best Crypto to Buy Now Could 100x First](https://financefeeds.com/ethereum-price-prediction-targets-record-highs-as-bitmine-loads-4-98m-eth-but-this-best-crypto-to-buy-now-could-100x-first/)**
-
-FinanceFeeds • 8h ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
@@ -236,7 +238,7 @@ THEY ARE PREDICTING - $500K BITCOIN, $40K ETHEREUM, AND $50 XRP BY THIS DATE! GE
 
 📺 Austin Hilton
 
-👁️ 9K • 👍 478 • 💬 92 • ⏱️ 9:47 • 17h ago
+👁️ 9K • 👍 478 • 💬 92 • ⏱️ 9:47 • 18h ago
 
 ---
 
@@ -266,7 +268,7 @@ THE FLOODGATES JUST OPENED!! XRP LEDGER HAS OFFICIALLY OVERTAKEN ETHEREUM!! $1.1
 
 📺 The Wall Street Bull
 
-👁️ 202 • 👍 28 • 💬 2 • ⏱️ 23:06 • 3h ago
+👁️ 202 • 👍 28 • 💬 2 • ⏱️ 23:06 • 4h ago
 
 ---
 
@@ -286,7 +288,7 @@ DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! 
 
 📺 Krypto Trading & Investing
 
-👁️ 1K • 👍 348 • 💬 26 • ⏱️ 9:32 • 5h ago
+👁️ 1K • 👍 348 • 💬 26 • ⏱️ 9:32 • 6h ago
 
 ---
 
@@ -316,7 +318,7 @@ Crypto is getting weirdly quiet… but not for the reasons most people think. Re
 
 📺 Crypto Capital Venture
 
-👁️ 8K • 👍 587 • 💬 257 • ⏱️ 13:40 • 18h ago
+👁️ 8K • 👍 587 • 💬 257 • ⏱️ 13:40 • 19h ago
 
 ---
 
