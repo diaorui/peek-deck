@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-26T21:38:57.206839+00:00'
+updated: '2026-04-26T22:39:50.081607+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
+- news
 - videos
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 26, 2026 at 21:38 UTC  
+**Last Updated:** April 26, 2026 at 22:39 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,43 +36,51 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,365.14
+### $2,365.94
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.4%  
-**7d:** +2.5%  
-**30d:** +18.8%  
-**90d:** -21.6%  
-**1y:** +32.1%  
+**24h:** +1.6%  
+**7d:** +1.9%  
+**30d:** +18.1%  
+**90d:** -22.1%  
+**1y:** +31.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $285.55B
+**Market Cap:** $284.59B
 Rank #2
 
 **Circulating Supply:** 120,688,830 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--52.2%
+-52.3%
 
 **All-Time Low:** $0.43
-+546360.7%
++544517.6%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[I built an AI agent that charges $0.001 to protect other AI agents — and every blocked attack is permanently recorded onchain. Built solo in 5 days from Burkina Faso.](https://www.reddit.com/r/ethereum/comments/1swjmar/i_built_an_ai_agent_that_charges_0001_to_protect/)**
+
+Hey r/ethereum, I just submitted ArcWarden to a lablab.ai hackathon on Arc L1. Wanted to share what I built because the concept is a bit different from what you usually see in the agentic space. The problem Autonomous AI agents managing USDC wallets on blockchain have zero native security layer. A compromised agent can drain a wallet in seconds. Existing solutions cost $0.30+ per transaction — on $0.001 nano-payments, that's structurally impossible to justify economically. What I built ArcWarden is an autonomous security agent that charges $0.001 USDC to evaluate every transaction from another agent before it executes. It has its own Circle wallet, its own treasury, and autonomously pays its own intelligence providers (Claude API). It's not a monitoring tool bolted on the outside — it's a participant in the economy it secures. 4 simultaneous protection layers: Behavior analysis — amount vs. agent historical average, frequency spikes, trust score Anti-splitting — 10-minute sliding windows. An attacker fragmenting $45 into 90 micro-transactions of $0.50 gets blocked at transaction #9 Service reputation — if 3 agents report a fraudulent service, every subsequent agent is automatically protected. Collective learning, no human in the loop Contract analysis — EVM bytecode inspection, unprotected drain functions, upgradeable proxy detection Every decision returns ALLOW / BLOCK / ESCALATE in under 5ms. What makes this real and not just a demo The thing I'm most proud of: a Vyper 0.4.3 smart contract deployed on Arc testnet that immutably records every blocked attack — pattern hash, attacker address, attempted amount, risk score, triggering layer. Contract v1 (migrated for a technical reason — the EVM selector changed when I updated the ABI from String[64] to address as first param, producing a completely different 4-byte selector that was silently rejected by the EVM) recorded 748 attacks for $1,682.92 USDC protected during testing. The active v2 contract is fully verifiable here: 👉 https://testnet.arcscan.app/address/0x17430A67e11535466cC5f17e736D5e4643B86ba1 That's real onchain proof. Not screenshots. The ecosystem runs in a real closed loop: 5 autonomous agents with real Circle Developer-Controlled Wallets — PayerAgent, AttackerAgent, LearnerAgent, GrayZoneAgent, MonitorAgent. They pay ArcWarden in real USDC. ArcWarden receives, evaluates, pays Claude for ambiguous cases, logs decisions on Arc. 389 onchain transactions confirmed. The economic loop: ArcWarden security cost: $0.001/decision Traditional SIEM: $0.30+ per transaction Savings: 99.7% — only viable because of Arc's near-zero fees (~$0.000003 per tx) ArcWarden is itself an economic agent. It earns revenue, pays its own expenses, manages its own P&L, and autonomously switches operating modes (NORMAL → DEGRADED → EMERGENCY) based on its treasury balance — zero human intervention. Bonded Oracle model ArcWarden operates with a Guaranty Fund — it deposits USDC as collateral to prove solvency before accepting clients. This bridges the gap between anonymous agents and accountable security providers. The fund is managed via the smart contract and verifiable by anyone on ArcScan. The honest part The demo video was too technical. Reviewers didn't understand what they were looking at and scored 1/5 across the board. The code is solid, the presentation wasn't. Lesson learned the hard way. Tech stack Python / FastAPI · asyncio · web3.py · Vyper 0.4.3 · Circle DCW ×6 · x402 protocol · Next.js · SQLite · numpy · Claude API (optional escalation) Links 🔗 GitHub: https://github.com/ibonon/Arcwarden ⛓️ Smart contract (v2 active): https://testnet.arcscan.app/address/0x17430A67e11535466cC5f17e736D5e4643B86ba1 Live demo on x= https://x.com/i/status/2047584585643425915 🏆 lablab.ai submission: https://lablab.ai/ai-hackathons/nano-payments-arc/omni/arcwarden-autonomous-security-oracle Feedback welcome — especially on the Risk Engine architecture and the Oracle economic model. Solo build · Ouagadougou, Burkina Faso · 5 days
+
+1h ago
+
+---
+
 **[Daily General Discussion April 26, 2026](https://www.reddit.com/r/ethereum/comments/1svy52r/daily_general_discussion_april_26_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -80,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Working in blockchain consulting, I’ve noticed many Ethereum-based projects still underestimate how scaling decisions impact long-term costs. Clients assume L2s will fully solve gas issues, but data availability, bridging complexity, and liquidity fragmentation often get overlooked. When designing systems, it becomes tricky balancing user experience with decentralization trade-offs, especially for financial applications. Even small architectural decisions can significantly affect transaction costs and protocol adoption later. Has anyone here built a reliable framework for evaluating Ethereum scaling strategies across different use cases?
 
-4h ago
+5h ago
 
 ---
 
@@ -88,7 +96,7 @@ Working in blockchain consulting, I’ve noticed many Ethereum-based projects st
 
 I wanted to share something interesting that happened recently. Etherscan added an info note to the Unicorn Meat token page that reads: "This token was created by Avsa of the Ethereum Foundation. Read more about it in this post." The link goes to a tweet from the official @ethereum account from April 1, 2016 announcing "the Unicorn Meat Grinder Smart Contract and Bribable DAO" by @avsa. For those who don't know the backstory: Alex Van de Sande (avsa) was one of Ethereum's earliest core team members. He built the Mist Browser, the Ethereum Wallet, and co-created ENS. In early 2016 he deployed a set of contracts as part of the ethereum.org tutorials, including the Unicorns token and the Unicorn Meat Grinder, a DAO that let you convert Unicorns into Unicorn Meat through on-chain governance. The contracts were deployed from his same wallet that deployed the Foundation Tip Jar, which Alex made on behalf of the Foundation to raise money and donors received Unicorn tokens. So the provenance chain is: same deployer address, multiple Etherscan-labeled EF contracts, and now an official Etherscan note confirming the connection. What makes this historically interesting: The Meat Grinder was one of the first DAOs on Ethereum, predating The DAO by months. It used a proposal and voting system where token holders could vote on actions like grinding Unicorns into Meat. It introduced one of the first token upgrade patterns. The Unicorn-to-Meat conversion was essentially a token migration mechanism, something that became standard practice years later. The contracts were based on the ethereum.org tutorials that avsa wrote to teach developers how to build on Ethereum. These tutorials were how an entire generation of Solidity developers learned the language. We've been working on documenting and verifying the source code of these contracts on EthereumHistory, including cracking the bytecode of contracts that were never verified on Etherscan. We recently launched a Collections feature that groups all contracts by their deployer, starting with avsa's 60 contracts and Vitalik's 66 contracts. We also recently cracked and verified the Meat Grinder's source code on Etherscan. The source had been sitting in avsa's public GitHub gist for 10 years but was never formally verified on-chain. The challenge was figuring out the exact compiler settings: these contracts predate Solidity 0.4, so there's no metadata hash in the bytecode to help identify the version. We had to work through early solc releases until we found that solc 0.2.1 with default optimization produced an exact byte-for-byte match against the on-chain runtime bytecode. Once confirmed, we submitted it to both Sourcify and Etherscan, so anyone can now read the original Solidity source directly on Etherscan and verify it themselves. It's a small thing, but these early contracts are historical artifacts. Having their source verified on-chain means the code is permanently readable and auditable, not just sitting in a gist that could disappear. If anyone is interested in Ethereum's early contract history, the provenance page has the full chain of evidence laid out, and EthereumHistory is an open platform where anyone can help document contracts.
 
-22h ago
+23h ago
 
 ---
 
@@ -96,7 +104,7 @@ I wanted to share something interesting that happened recently. Etherscan added 
 
 Hey everyone - I built AliBitress because we wanted an easier way to actually spend crypto on everyday products instead of constantly converting to fiat first. The idea is simple: use your crypto directly for online shopping. Current platform supports: - 360+ cryptocurrencies - Millions of products - Shipping to 200+ countries Still improving things every week, and I’d genuinely like feedback from people who would use something like this. Questions for the community: - What would make a crypto shopping platform actually useful to you? - Which coins/networks should we add next? - What would stop you from using a service like this? If anyone wants to check it out / roast it / suggest improvements: alibitress.com Appreciate any feedback. Supported currencies: https://www.alibitress.com/currencies#popular
 
-13h ago
+15h ago
 
 ---
 
@@ -140,31 +148,55 @@ Etherealize: ETH is productive money, DeFi united: effort to restore rsETH backi
 
 ---
 
-**[the whole concept of DAOs is basically failing because we can't solve the sybil problem](https://www.reddit.com/r/ethereum/comments/1stujgt/the_whole_concept_of_daos_is_basically_failing/)**
-
-honestly starting to get really cynical about the state of governance on eth right now. i was looking at some recent voting proposals and its just painfully obvious that everything is being manipulated by industrial scale airdrop farmers. The WHOLE web3 dream was supposed to be decentralized consensus and community ownership. but right now whoever spins up the most python scripts and funds 10,000 wallets automatically basically runs the show. it completely hollows out the actual community and makes governance a total joke the frustrating part is software-based sybil resistance just isnt working anymore. Things like gitcoin passport and on-chain activity scores are fine in theory, but the massive bot farms just automate the farming of those scores too now. it feels like we're backed into a corner where protocols will either have to force traditional KYC (which completely ruins the cypherpunk ethos of the network) or we have to rely on physical hardware solutions its crazy but tying wallets to a zero-knowledge biometric credential from something like an Orb is probably the only viable middle ground we have left. you basically get a cryptographic flag that proves you're a unique living person, but you never have to dox your actual government identity to a random multi-sig. it saves the anonymity but breaks the botnets. Im just so exhausted watching cool ecosystem projects get drained by automated scripts instead of rewarding real users. idk, maybe I'm just being pessimistic today but it really feels like until we fix this core human identity layer, all this governance and voting stuff is just us pretending.
-
-3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
 
-**[Is Anthropic's Mythos AI a Threat to Ethereum and Solana?](https://www.fool.com/investing/2026/04/23/is-anthropics-mythos-ai-a-threat-to-ethereum-and-s/)**
+**[BitMine To Purchase 10,000 ETH From Ethereum Foundation](https://finance.yahoo.com/markets/crypto/articles/bitmine-purchase-10-000-eth-180300758.html)**
 
-An unreleased AI model is sending crypto into a panic, but it's only half relevant to the real ongoing problems.
+BitMine Immersion Technologies (NYSE: $BMNR) is purchasing 10,000 Ethereum (CRYPTO: $ETH) from the Ethereum Foundat...
 
-The Motley Fool • 3d ago
+Yahoo Finance • 2d ago
 
 ---
 
-**[Better Growth Investment to Buy With $500: Ethereum vs. Strategy](https://finance.yahoo.com/markets/crypto/articles/better-growth-investment-buy-500-025000221.html)**
+**[Better Growth Investment to Buy With $500: Ethereum vs. Strategy](https://www.fool.com/investing/2026/04/25/better-growth-investment-to-buy-with-500-ethereum/)**
 
 These two assets take very different approaches to generating value.
 
-Yahoo Finance • 18h ago
+The Motley Fool • 19h ago
+
+---
+
+**[Ethereum Price Surges On Shank Tank Investor's Endorsement](https://dmarketforces.com/ethereum-price-surges-on-shank-tank-investors-endorsement/)**
+
+Ethereum (ETH) price climbed 1% to $2,336.25, outpacing a broadly flat market, driven by a technical breakout and steady institutional flows follo
+
+MarketForces Africa • 9h ago
+
+---
+
+**[Crypto News: Pepeto Announces DeFi Exchange Successful Tests Amid Ethereum Price Prediction Points to $6,000 Within a Year](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-announces-defi-exchange-successful-tests-amid-ethereum-price-prediction-points-to-6-000-within-a-year-1036062991)**
+
+Dubai, UAE, April  26, 2026  (GLOBE NEWSWIRE) -- Pepeto confirmed this week that final test on the Exchange are done, to support the big volume it...
+
+markets.businessinsider.com • 8h ago
+
+---
+
+**[Shark Tank Kevin O’Leary Now Says Forget Alts, Hold Bitcoin, Ethereum](https://cryptopotato.com/shark-tank-kevin-olear-now-says-forget-alts-hold-bitcoin-ethereum/)**
+
+“Shark Tank” judge and business magnate Kevin O'Leary says he only recommends owning Bitcoin and Ethereum. Here's why.
+
+CryptoPotato • 17h ago
+
+---
+
+**[Ethereum Foundation unstakes 17K ETH after nearing 70K staked ETH milestone](https://www.tradingview.com/news/cointelegraph:533982cd9094b:0-ethereum-foundation-unstakes-17k-eth-after-nearing-70k-staked-eth-milestone/)**
+
+The Ethereum Foundation has moved to unwind part of its staking position shortly after nearing its stated goal of 70,000 staked ETH.On Saturday, the Ethereum Foundation unstaked 17,035.326 ETH, worth roughly $40 million, according to Arkham data. The move involved depositing wrapped staked ETH (wst…
+
+TradingView • 10h ago
 
 ---
 
@@ -176,55 +208,25 @@ The Block • 2d ago
 
 ---
 
-**[Ethereum Price Surges On Shank Tank Investor's Endorsement](https://dmarketforces.com/ethereum-price-surges-on-shank-tank-investors-endorsement/)**
-
-Ethereum (ETH) price climbed 1% to $2,336.25, outpacing a broadly flat market, driven by a technical breakout and steady institutional flows follo
-
-MarketForces Africa • 8h ago
-
----
-
-**[Shark Tank Kevin O’Leary Now Says Forget Alts, Hold Bitcoin, Ethereum](https://cryptopotato.com/shark-tank-kevin-olear-now-says-forget-alts-hold-bitcoin-ethereum/)**
-
-“Shark Tank” judge and business magnate Kevin O'Leary says he only recommends owning Bitcoin and Ethereum. Here's why.
-
-CryptoPotato • 16h ago
-
----
-
-**[Crypto News: Pepeto Announces DeFi Exchange Successful Tests Amid Ethereum Price Prediction Points to $6,000 Within a Year](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-announces-defi-exchange-successful-tests-amid-ethereum-price-prediction-points-to-6-000-within-a-year-1036062991)**
-
-Dubai, UAE, April  26, 2026  (GLOBE NEWSWIRE) -- Pepeto confirmed this week that final test on the Exchange are done, to support the big volume it...
-
-markets.businessinsider.com • 7h ago
-
----
-
-**[Bitcoin leads ETF flows, but Ethereum builds institutional base for Q2 showdown](https://ambcrypto.com/?p=592857)**
-
-AMBCrypto • 4h ago
-
----
-
 **[Ethereum Foundation unstakes $48.9M ETH, raising sell-off concerns](https://cryptobriefing.com/ethereum-foundation-unstakes-489m-eth-raising-sell-off-concerns/)**
 
 The Ethereum Foundation unstaked $48.9 million in ETH, raising sell-off concerns; Ethereum reaching $10,000 by December 31, 2026 at 4% YES.
 
-Crypto Briefing • 9h ago
+Crypto Briefing • 10h ago
 
 ---
 
-**[Ethereum Foundation unstakes 17K ETH after nearing 70K staked ETH milestone](https://www.tradingview.com/news/cointelegraph:533982cd9094b:0-ethereum-foundation-unstakes-17k-eth-after-nearing-70k-staked-eth-milestone/)**
+**[XRP vs Ethereum: Which Digital Giant Will Explode to Make You the Most Money in 2026?](https://www.tipranks.com/news/xrp-vs-ethereum-which-digital-giant-will-explode-to-make-you-the-most-money-in-2026)**
 
-The Ethereum Foundation has moved to unwind part of its staking position shortly after nearing its stated goal of 70,000 staked ETH.On Saturday, the Ethereum Foundation unstaked 17,035.326 ETH, worth roughly $40 million, according to Arkham data. The move involved depositing wrapped staked ETH (wst…
-
-TradingView • 9h ago
+TipRanks • 2d ago
 
 ---
 
-**[Bitcoin Price Falls From 11-Week High. Why, Ethereum, XRP, Cryptos Are Dropping.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-iran-54088134)**
+**[Ethereum: Eyes Breakout Above €2,070](https://blockchain.news/flashnews/ethereum-eyes-breakout-above-2-070)**
 
-Barron's • 3d ago
+Ethereum grinds higher following Bitcoin, targeting breakout above €2,070 amid repeated resistance tests and bullish momentum.
+
+blockchain.news • 7h ago
 
 ---
 
@@ -232,33 +234,23 @@ Barron's • 3d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Raoul Pal &amp; Tom Lee: &quot;ETH To $60,000 Is The LOGICAL Outcome - Here&#39;s The Exact Math&quot; [2026]](https://www.youtube.com/watch?v=0ZfCrNS9BkI)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 1K • 👍 120 • ⏱️ 18:46 • 5h ago
-
----
-
 **[URGENT: A Major Move Is Coming (Bitcoin &amp; Ethereum)](https://www.youtube.com/watch?v=ie3zMA8ffJw)**
 
 The Crypto Market Is About To Flip... ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit bonus on first ...
 
 📺 Altcoin Daily
 
-👁️ 5K • 👍 558 • 💬 72 • ⏱️ 9:47 • 3h ago
+👁️ 13K • 👍 1K • 💬 63 • ⏱️ 9:47 • 4h ago
 
 ---
 
-**[BITCOIN: The Big Trap Is Repeating! (warning) - BTC, ETH, XRP Price Prediction Today](https://www.youtube.com/watch?v=A9V0tqllTZ0)**
+**[Raoul Pal &amp; Tom Lee: &quot;ETH To $60,000 Is The LOGICAL Outcome - Here&#39;s The Exact Math&quot; [2026]](https://www.youtube.com/watch?v=0ZfCrNS9BkI)**
 
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
-📺 BitcoinHyper
+📺 Crypto Nutshell
 
-👁️ 2K • 👍 215 • 6h ago
+👁️ 3K • 👍 246 • 💬 9 • ⏱️ 18:46 • 6h ago
 
 ---
 
@@ -268,7 +260,27 @@ THEY ARE PREDICTING - $500K BITCOIN, $40K ETHEREUM, AND $50 XRP BY THIS DATE! GE
 
 📺 Austin Hilton
 
-👁️ 12K • 👍 545 • 💬 30 • ⏱️ 9:47 • 1d ago
+👁️ 12K • 👍 563 • 💬 31 • ⏱️ 9:47 • 1d ago
+
+---
+
+**[Ethereum Is DONE?! XRP Taking Over TRILLIONS (Must Listen!)](https://www.youtube.com/watch?v=786PRmOXOq8)**
+
+Ethereum Is DONE?! XRP Taking Over TRILLIONS (Must Listen!) Join 12000+ Crypto Investors (FREE Discord): ...
+
+📺 NCashOfficial - Daily Crypto & Finance News
+
+👁️ 560 • 👍 66 • 💬 3 • ⏱️ 16:20 • 39m ago
+
+---
+
+**[BITCOIN PRICE TARGET IMMINENT (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=u0fkeBLuOAA)**
+
+BITCOIN PRICE TARGET IMMINENT (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
+
+📺 Crypto World
+
+👁️ 2K • 👍 152 • 💬 62 • ⏱️ 16:25 • 1h ago
 
 ---
 
@@ -278,17 +290,17 @@ Ripple XRP News today as the SEC has reportedly classified XRP as a digital comm
 
 📺 The Bull Winkle Blue Print
 
-👁️ 154 • 👍 32 • 💬 2 • ⏱️ 13:37 • 2h ago
+👁️ 941 • 👍 159 • 💬 6 • ⏱️ 13:37 • 3h ago
 
 ---
 
-**[🔥 Ethereum Is Cooking… Is Arthur Wrong?](https://www.youtube.com/watch?v=FmCD8BlEWtY)**
+**[Ethereum Holders, The Signal Is Flashing Again (Last Time Was Nuts)](https://www.youtube.com/watch?v=iZd82wsW2zM)**
 
-Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
+Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ Deposit from $100: Get a 1% bonus Join The Trading ...
 
-📺 🌟yourfriendsommi
+📺 Tyler Hill Crypto
 
-👁️ 832 • 👍 125 • 💬 10 • ⏱️ 18:14 • 6h ago
+👁️ 4K • 👍 199 • 💬 152 • ⏱️ 13:36 • 1d ago
 
 ---
 
@@ -302,33 +314,23 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 ---
 
-**[SOME BULLISH SIGNALS FOR ETH!🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=ME9rEredTjg)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 343 • 👍 18 • 💬 1 • ⏱️ 4:49 • 12h ago
-
----
-
-**[ETHEREUM HOLDERS, THE SIGNAL IS FLASHING AGAIN (LAST TIME WE PUMPED FAST)](https://www.youtube.com/watch?v=iZd82wsW2zM)**
-
-Welcome Back To The Channel! ✔️ https://fortisx.fi/kol/tylerhillyt ✔️ Deposit from $100: Get a 1% bonus Join The Trading ...
-
-📺 Tyler Hill Crypto
-
-👁️ 4K • 👍 194 • 💬 152 • ⏱️ 13:36 • 1d ago
-
----
-
 **[The First Institutional Crypto Bull Market Has Begun (Retail Has No Idea)](https://www.youtube.com/watch?v=vp_WM6y4gsQ)**
 
 Crypto is getting weirdly quiet… but not for the reasons most people think. Retail is exhausted, sentiment is flat, and everyone on ...
 
 📺 Crypto Capital Venture
 
-👁️ 10K • 👍 644 • 💬 285 • ⏱️ 13:40 • 1d ago
+👁️ 10K • 👍 647 • 💬 286 • ⏱️ 13:40 • 1d ago
+
+---
+
+**[🔥 Ethereum Is Cooking… Is Arthur Wrong?](https://www.youtube.com/watch?v=FmCD8BlEWtY)**
+
+Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
+
+📺 🌟yourfriendsommi
+
+👁️ 1K • 👍 175 • 💬 14 • ⏱️ 18:14 • 7h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-26T21:38:57.201648+00:00'
+updated: '2026-04-26T22:39:50.075512+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
+- news
 - videos
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 26, 2026 at 21:38 UTC  
+**Last Updated:** April 26, 2026 at 22:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $78,271.84
+### $78,620.85
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.0%  
-**7d:** +3.2%  
-**30d:** +17.9%  
-**90d:** -12.3%  
-**1y:** -16.5%  
+**24h:** +0.6%  
+**7d:** +2.9%  
+**30d:** +17.6%  
+**90d:** -12.5%  
+**1y:** -16.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1565.70B
+**Market Cap:** $1566.32B
 Rank #1
 
-**Circulating Supply:** 20,021,134 BTC
+**Circulating Supply:** 20,021,203 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
 -38.0%
 
 **All-Time Low:** $67.81
-+115225.2%
++115176.5%
 
 ---
 
@@ -79,7 +79,15 @@ Rank #1
 
 **[HAL FINNEY: “I was likely the first person after Satoshi to run Bitcoin. I mined block seventy-something and received the first BTC transfer when Satoshi sent me 10 coins as a test. We emailed for days after that, mostly me reporting bugs and him fixing them in real time, almost instantly.”](https://www.reddit.com/r/Bitcoin/comments/1swexh5/hal_finney_i_was_likely_the_first_person_after/)**
 
-3h ago
+4h ago
+
+---
+
+**[They keep stealing from everyone and one day I took it personally. This is why I keep stacking Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1swkrfi/they_keep_stealing_from_everyone_and_one_day_i/)**
+
+fix the money, fix the world!
+
+47m ago
 
 ---
 
@@ -87,7 +95,7 @@ Rank #1
 
 Calm down everyone, please. Take a seat. With tears in my eyes I’m honored to announce my achievement. It took a lot of time that I will never get back but bitcoin has given me hope to keep going.
 
-2h ago
+3h ago
 
 ---
 
@@ -95,7 +103,7 @@ Calm down everyone, please. Take a seat. With tears in my eyes I’m honored to 
 
 In this sub, absolute cinema
 
-10h ago
+11h ago
 
 ---
 
@@ -103,7 +111,7 @@ In this sub, absolute cinema
 
 On of my favorite voices in the space. Gives foundational level of the history of money and challenges then ties it into the Bitcoin thesis.
 
-🔗 [open.substack.com](https://open.substack.com/pub/cws/p/how-to-fix-our-money?utm_campaign=post&utm_medium=web) • 5h ago
+🔗 [open.substack.com](https://open.substack.com/pub/cws/p/how-to-fix-our-money?utm_campaign=post&utm_medium=web) • 6h ago
 
 ---
 
@@ -117,7 +125,7 @@ On of my favorite voices in the space. Gives foundational level of the history o
 
 In 2023 I started investing in Bitcoin but it was at an all time high at 29k and sold, now I regret it and started buying again.
 
-17h ago
+18h ago
 
 ---
 
@@ -125,7 +133,7 @@ In 2023 I started investing in Bitcoin but it was at an all time high at 29k and
 
 Curious what everyone’s mix is. (Not a Fed)
 
-8h ago
+9h ago
 
 ---
 
@@ -133,7 +141,7 @@ Curious what everyone’s mix is. (Not a Fed)
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-15h ago
+16h ago
 
 ---
 
@@ -145,14 +153,6 @@ The US Treasury froze $344 million in USDT linked to Iran with a single call to 
 
 ---
 
-**[Is Bitcoin ready for inflation and AI disruption?](https://www.reddit.com/r/Bitcoin/comments/1swhgn8/is_bitcoin_ready_for_inflation_and_ai_disruption/)**
-
-Came across this post on substack talking about Jordi Visser claiming that Bitcoin is going to be the clear winner against higher inflation and AI disruption. The full podcast is too long to watch but what do you all think? My take is that Bitcoin’s latest disconnect from high beta software stocks is a good indicator. But not sure if its proven to be a bet against the inflation.
-
-🔗 [open.substack.com](https://open.substack.com/pub/podcastalpha/p/jordi-visser-on-pompliano-bitcoin) • 1h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -161,7 +161,7 @@ Came across this post on substack talking about Jordi Visser claiming that Bitco
 
 Some bitcoin advocates argue freezing dormant coins would set a dangerous precedent, while others say failing to act could pose greater risks.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -181,11 +181,35 @@ Yahoo Finance • 2d ago
 
 ---
 
+**[Why investors are flocking to BlackRock’s bitcoin options to hedge against a wild global economy](https://www.coindesk.com/markets/2026/04/25/blackrock-s-bitcoin-etf-just-hit-a-massive-milestone-that-proves-crypto-is-now-a-mainstream-bet)**
+
+IBIT options open interest topped Deribit on Friday, signaling rapid institutional adoption of regulated crypto derivatives in the U.S.
+
+CoinDesk • 1d ago
+
+---
+
+**[Why More Institutional Investors Are Adding Bitcoin to Their Balance Sheets](https://www.fool.com/investing/2026/04/26/institutional-investors-add-bitcoin-balance-sheet/)**
+
+As a $1.6 trillion asset with substantial upside, this leading cryptocurrency has drawn the attention of larger pools of capital.
+
+The Motley Fool • 28m ago
+
+---
+
 **[MicroStrategy’s Bitcoin Holdings Hit $63.46 Billion Record](https://finance.yahoo.com/markets/crypto/articles/microstrategy-bitcoin-holdings-hit-63-200640115.html)**
 
 Strategy's Bitcoin treasury hit a record $63.46 billion as Saylor's firm now holds 815,061 BTC at $75,528 average.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
+
+---
+
+**[Why More Institutional Investors Are Adding Bitcoin to Their Balance Sheets](https://finance.yahoo.com/markets/crypto/articles/why-more-institutional-investors-adding-220100276.html)**
+
+As a $1.6 trillion asset with substantial upside, this leading cryptocurrency has drawn the attention of larger pools of capital.
+
+Yahoo Finance • 38m ago
 
 ---
 
@@ -195,9 +219,11 @@ Bloomberg • 1d ago
 
 ---
 
-**[Bitcoin holds steady as institutional derivatives reach new milestone](https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-steady-as-institutional-derivatives-reach-new-milestone-4637419)**
+**[Schiff Warns of 'Death Spiral' in Strategy's Bitcoin Plan](https://bitbo.io/news/schiff-strategy-bitcoin-death-spiral/)**
 
-Investing.com • 18h ago
+Peter Schiff argues that Strategy's STRC preferred stock program is structurally unstable, warning that rising dividend obligations will eventually force the company to sell bitcoin or collapse demand for new issuances.
+
+Bitbo • 5h ago
 
 ---
 
@@ -205,29 +231,7 @@ Investing.com • 18h ago
 
 Top US Navy Admiral calls bitcoin a tool of "power projection" as the US, China, Iran, and Russia are all leveraging bitcoin to advance their own strategic interests.
 
-Forbes • 10h ago
-
----
-
-**[New documentary seeks to uncover the identity of Bitcoin’s founder](https://www.cnn.com/2026/04/24/us/video/berman-cohan-maroney-satoshi-bitcoin-cnc)**
-
-Why is the identity of Bitcoin’s founder one of the biggest mysteries in finance? The new documentary “Finding Satoshi” aims to find out. CNN News Central’s John Berman speaks with the two men leading the hunt, Investigative Journalist William Cohan and Quest Research & Investigations private investigator Tyler Maroney.
-
-CNN • 2d ago
-
----
-
-**[Opinion | A Bitcoin Evangelist Tries to Convert Me](https://www.nytimes.com/2026/04/23/opinion/bitcoin-crypto-anthony-pompliano.html)**
-
-The New York Times • 3d ago
-
----
-
-**[1 Reason Bitcoin Could Still Make You a Retirement Millionaire](https://www.fool.com/investing/2026/04/26/1-reason-bitcoin-could-still-make-you-a-retirement/)**
-
-If history is any guide, Bitcoin is capable of doubling in value on a regular basis.
-
-The Motley Fool • 4h ago
+Forbes • 11h ago
 
 ---
 
@@ -271,7 +275,7 @@ Neha Narula
 
 The quantum threat to Bitcoin keeps inching closer, this time thanks to a researcher who broke a simplified cryptographic key.
 
-⬆️ 3 • 💬 3 • 1d ago • [Decrypt](https://decrypt.co/365444/bitcoin-q-day-draws-nearer-quantum-researcher-breaks-simplified-key)
+⬆️ 3 • 💬 3 • 2d ago • [Decrypt](https://decrypt.co/365444/bitcoin-q-day-draws-nearer-quantum-researcher-breaks-simplified-key)
 
 ---
 
@@ -323,7 +327,7 @@ Michael Saylor is buying at a pace that could trigger a historic Bitcoin supply 
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 130 • ⏱️ 20:53 • 22h ago
+👁️ 18K • 👍 2K • 💬 85 • ⏱️ 20:53 • 23h ago
 
 ---
 
@@ -333,47 +337,7 @@ Kevin Warsh may be the next Fed Chair, and the real question is simple: when doe
 
 📺 Swan Bitcoin
 
-👁️ 10K • 👍 547 • 💬 18 • ⏱️ 11:16 • 18h ago
-
----
-
-**[A Generational Crypto Buying Opportunity Has Begun](https://www.youtube.com/watch?v=h4p4pKrFbWs)**
-
-Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=AltcoinDaily Grab Tickets to BTC Conference ...
-
-📺 Altcoin Daily
-
-👁️ 35K • 👍 2K • 💬 138 • ⏱️ 8:58 • 1d ago
-
----
-
-**[Crypto Is Ignoring This 1996 Boom Setup (Huge Mistake)](https://www.youtube.com/watch?v=UaaPXT7WfPk)**
-
-Crypto was not here during the bull market of the 90's that lasted years. Crypto bull markets have always been parabolic and then ...
-
-📺 Crypto Capital Venture
-
-👁️ 3K • 👍 362 • 💬 136 • ⏱️ 16:57 • 5h ago
-
----
-
-**[Bitcoin’s Biggest Recovery Is Starting… Crypto Winter Is Over](https://www.youtube.com/watch?v=ST_kzwgxrSI)**
-
-Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clashpicks.com/ **Exchange Partners** ...
-
-📺 CryptosRus Extra
-
-👁️ 7K • 👍 335 • 💬 176 • ⏱️ 8:10 • 1d ago
-
----
-
-**[Bitcoin: Heikin-Ashi Candles](https://www.youtube.com/watch?v=hMStACy4ou4)**
-
-In this video, we take a look at how Heikin-Ashi candles can help remove some of the emotional noise from Bitcoin price action, ...
-
-📺 Benjamin Cowen
-
-👁️ 51K • 👍 4K • 💬 218 • ⏱️ 23:18 • 17h ago
+👁️ 11K • 👍 591 • 💬 34 • ⏱️ 11:16 • 19h ago
 
 ---
 
@@ -383,7 +347,27 @@ Gareth uses it! Download Rumble Wallet now and enjoy the benefits of financial a
 
 📺 Gareth Soloway
 
-👁️ 58K • 👍 3K • 💬 332 • ⏱️ 10:41 • 1d ago
+👁️ 60K • 👍 4K • 💬 363 • ⏱️ 10:41 • 1d ago
+
+---
+
+**[Bitcoin’s Biggest Recovery Is Starting… Crypto Winter Is Over](https://www.youtube.com/watch?v=ST_kzwgxrSI)**
+
+Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clashpicks.com/ **Exchange Partners** ...
+
+📺 CryptosRus Extra
+
+👁️ 7K • 👍 336 • 💬 176 • ⏱️ 8:10 • 1d ago
+
+---
+
+**[A Generational Crypto Buying Opportunity Has Begun](https://www.youtube.com/watch?v=h4p4pKrFbWs)**
+
+Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=AltcoinDaily Grab Tickets to BTC Conference ...
+
+📺 Altcoin Daily
+
+👁️ 36K • 👍 2K • 💬 138 • ⏱️ 8:58 • 1d ago
 
 ---
 
@@ -393,17 +377,7 @@ THEY ARE PREDICTING - $500K BITCOIN, $40K ETHEREUM, AND $50 XRP BY THIS DATE! GE
 
 📺 Austin Hilton
 
-👁️ 12K • 👍 545 • 💬 30 • ⏱️ 9:47 • 1d ago
-
----
-
-**[Bitcoin Shorts Are ALL-IN… And History Says They’re About to Get DESTROYED 💣🐻](https://www.youtube.com/watch?v=VRWta_3-7AU)**
-
-Bitcoin is sending mixed signals… and the crypto market is at a crossroads. On one hand, we're seeing weakening returns, ...
-
-📺 Crypto Love
-
-👁️ 893 • 👍 131 • 💬 95 • ⏱️ 11:37 • 4h ago
+👁️ 12K • 👍 563 • 💬 31 • ⏱️ 9:47 • 1d ago
 
 ---
 
@@ -413,7 +387,37 @@ Mark Moss is an optimist and he makes a compelling case for why Bitcoin holders 
 
 📺 Bitcoin Magazine
 
-👁️ 13K • 👍 482 • 💬 33 • ⏱️ 59:02 • 2d ago
+👁️ 14K • 👍 491 • 💬 33 • ⏱️ 59:02 • 2d ago
+
+---
+
+**[Bitcoin: Heikin-Ashi Candles](https://www.youtube.com/watch?v=hMStACy4ou4)**
+
+In this video, we take a look at how Heikin-Ashi candles can help remove some of the emotional noise from Bitcoin price action, ...
+
+📺 Benjamin Cowen
+
+👁️ 57K • 👍 4K • 💬 226 • ⏱️ 23:18 • 18h ago
+
+---
+
+**[Bitcoin Shorts Are ALL-IN… And History Says They’re About to Get DESTROYED 💣🐻](https://www.youtube.com/watch?v=VRWta_3-7AU)**
+
+Bitcoin is sending mixed signals… and the crypto market is at a crossroads. On one hand, we're seeing weakening returns, ...
+
+📺 Crypto Love
+
+👁️ 2K • 👍 229 • 💬 83 • ⏱️ 11:37 • 5h ago
+
+---
+
+**[Bitcoin Dominance](https://www.youtube.com/watch?v=VdCMIWRHkTs)**
+
+Let's talk about Bitcoin dominance, altcoins, and monetary policy! Into The Cryptoverse Premium SALE: ...
+
+📺 Benjamin Cowen
+
+👁️ 63K • 👍 3K • 💬 296 • ⏱️ 37:14 • 2d ago
 
 ---
 
