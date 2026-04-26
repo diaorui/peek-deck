@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-26T22:39:50.075512+00:00'
+updated: '2026-04-26T23:40:18.250120+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - social
 - news
-- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 26, 2026 at 22:39 UTC  
+**Last Updated:** April 26, 2026 at 23:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
-**7d:** +2.9%  
-**30d:** +17.6%  
-**90d:** -12.5%  
-**1y:** -16.7%  
+**24h:** +1.1%  
+**7d:** +3.3%  
+**30d:** +18.1%  
+**90d:** -12.2%  
+**1y:** -16.4%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[HAL FINNEY: “I was likely the first person after Satoshi to run Bitcoin. I mined block seventy-something and received the first BTC transfer when Satoshi sent me 10 coins as a test. We emailed for days after that, mostly me reporting bugs and him fixing them in real time, almost instantly.”](https://www.reddit.com/r/Bitcoin/comments/1swexh5/hal_finney_i_was_likely_the_first_person_after/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 fix the money, fix the world!
 
-47m ago
+1h ago
 
 ---
 
@@ -95,7 +95,7 @@ fix the money, fix the world!
 
 Calm down everyone, please. Take a seat. With tears in my eyes I’m honored to announce my achievement. It took a lot of time that I will never get back but bitcoin has given me hope to keep going.
 
-3h ago
+4h ago
 
 ---
 
@@ -103,7 +103,7 @@ Calm down everyone, please. Take a seat. With tears in my eyes I’m honored to 
 
 In this sub, absolute cinema
 
-11h ago
+12h ago
 
 ---
 
@@ -111,7 +111,7 @@ In this sub, absolute cinema
 
 On of my favorite voices in the space. Gives foundational level of the history of money and challenges then ties it into the Bitcoin thesis.
 
-🔗 [open.substack.com](https://open.substack.com/pub/cws/p/how-to-fix-our-money?utm_campaign=post&utm_medium=web) • 6h ago
+🔗 [open.substack.com](https://open.substack.com/pub/cws/p/how-to-fix-our-money?utm_campaign=post&utm_medium=web) • 7h ago
 
 ---
 
@@ -121,11 +121,27 @@ On of my favorite voices in the space. Gives foundational level of the history o
 
 ---
 
+**[Created a new Bitcoin Explorer for bulk searching and exporting](https://www.reddit.com/r/Bitcoin/comments/1swn3h9/created_a_new_bitcoin_explorer_for_bulk_searching/)**
+
+I have been working on a bitcoin explorer in my spare time. This is a fully indexed bitcoin explorer. Its really good for Exporting mass information from multiple addresses. You can search as many addresses as you want in the search and then create an export job. Its been fun to build and learn Rust. It was able to index bitcoin at about 13k transactions per second into psql. There are many upgrades I need to do to this, but I wanted initial opinions or a couple users to stress SQL out some. Try to search 1000 addressess and export 100million rows into CSV and break it. Happy to explain how I did this and the hardware. One thing to note, my site mentions TX count as more of a input/output count not a unique TX count. I will probably change this in the future or display both.
+
+🔗 [chaincanon](https://chaincanon.com/) • 8m ago
+
+---
+
 **[I just started investing in Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1svwsqa/i_just_started_investing_in_bitcoin/)**
 
 In 2023 I started investing in Bitcoin but it was at an all time high at 29k and sold, now I regret it and started buying again.
 
-18h ago
+19h ago
+
+---
+
+**[Found my old Bitcoin Address/Private Key with a balance](https://www.reddit.com/r/Bitcoin/comments/1swlved/found_my_old_bitcoin_addressprivate_key_with_a/)**
+
+Hi all, I've used to buy and sell bitcoins in NYC when I used to be a teen (16 years old) during the time of casascius coins/bars in physical form. So today I was going through an old hard drive with some bitcoin files both public/private key that I've kept archived and upon running through all of them, I've discovered one of them still has a balance on it --at the time I do recall leaving as is now due to the low denomination at the time. Given it's been a while since I used to transact with crypto (a decade and years), how would I go about converting this to cash or reinvesting it on a wallet? At the time I'd use BTC-E or Mt Gox, not sure what the deal is these days (i.e putting it on Robbin Hood, Coinbase, etc).
+
+1h ago
 
 ---
 
@@ -133,23 +149,7 @@ In 2023 I started investing in Bitcoin but it was at an all time high at 29k and
 
 Curious what everyone’s mix is. (Not a Fed)
 
-9h ago
-
----
-
-**[Daily Discussion, April 26, 2026](https://www.reddit.com/r/Bitcoin/comments/1svzchm/daily_discussion_april_26_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-16h ago
-
----
-
-**[The US froze 344 million USDT to punish Iran but they could not freeze BTC](https://www.reddit.com/r/Bitcoin/comments/1svb9be/the_us_froze_344_million_usdt_to_punish_iran_but/)**
-
-The US Treasury froze $344 million in USDT linked to Iran with a single call to Tether. Bitcoin kept processing every Iranian transaction without interruption. That is the whole story.
-
-🔗 [DailyCoinPost](https://dailycoinpost.com/us-froze-tether-iran-bitcoin-untouchable/) • 1d ago
+10h ago
 
 ---
 
@@ -161,7 +161,7 @@ The US Treasury froze $344 million in USDT linked to Iran with a single call to 
 
 Some bitcoin advocates argue freezing dormant coins would set a dangerous precedent, while others say failing to act could pose greater risks.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -181,27 +181,11 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Why investors are flocking to BlackRock’s bitcoin options to hedge against a wild global economy](https://www.coindesk.com/markets/2026/04/25/blackrock-s-bitcoin-etf-just-hit-a-massive-milestone-that-proves-crypto-is-now-a-mainstream-bet)**
-
-IBIT options open interest topped Deribit on Friday, signaling rapid institutional adoption of regulated crypto derivatives in the U.S.
-
-CoinDesk • 1d ago
-
----
-
 **[Why More Institutional Investors Are Adding Bitcoin to Their Balance Sheets](https://www.fool.com/investing/2026/04/26/institutional-investors-add-bitcoin-balance-sheet/)**
 
 As a $1.6 trillion asset with substantial upside, this leading cryptocurrency has drawn the attention of larger pools of capital.
 
-The Motley Fool • 28m ago
-
----
-
-**[MicroStrategy’s Bitcoin Holdings Hit $63.46 Billion Record](https://finance.yahoo.com/markets/crypto/articles/microstrategy-bitcoin-holdings-hit-63-200640115.html)**
-
-Strategy's Bitcoin treasury hit a record $63.46 billion as Saylor's firm now holds 815,061 BTC at $75,528 average.
-
-Yahoo Finance • 2h ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -209,7 +193,7 @@ Yahoo Finance • 2h ago
 
 As a $1.6 trillion asset with substantial upside, this leading cryptocurrency has drawn the attention of larger pools of capital.
 
-Yahoo Finance • 38m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -219,11 +203,17 @@ Bloomberg • 1d ago
 
 ---
 
+**[Bitcoin holds steady as institutional derivatives reach new milestone](https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-steady-as-institutional-derivatives-reach-new-milestone-4637419)**
+
+Investing.com • 20h ago
+
+---
+
 **[Schiff Warns of 'Death Spiral' in Strategy's Bitcoin Plan](https://bitbo.io/news/schiff-strategy-bitcoin-death-spiral/)**
 
 Peter Schiff argues that Strategy's STRC preferred stock program is structurally unstable, warning that rising dividend obligations will eventually force the company to sell bitcoin or collapse demand for new issuances.
 
-Bitbo • 5h ago
+Bitbo • 6h ago
 
 ---
 
@@ -231,7 +221,15 @@ Bitbo • 5h ago
 
 Top US Navy Admiral calls bitcoin a tool of "power projection" as the US, China, Iran, and Russia are all leveraging bitcoin to advance their own strategic interests.
 
-Forbes • 11h ago
+Forbes • 12h ago
+
+---
+
+**[New documentary seeks to uncover the identity of Bitcoin’s founder](https://www.cnn.com/2026/04/24/us/video/berman-cohan-maroney-satoshi-bitcoin-cnc)**
+
+Why is the identity of Bitcoin’s founder one of the biggest mysteries in finance? The new documentary “Finding Satoshi” aims to find out. CNN News Central’s John Berman speaks with the two men leading the hunt, Investigative Journalist William Cohan and Quest Research & Investigations private investigator Tyler Maroney.
+
+CNN • 2d ago
 
 ---
 
@@ -327,7 +325,7 @@ Michael Saylor is buying at a pace that could trigger a historic Bitcoin supply 
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 2K • 💬 85 • ⏱️ 20:53 • 23h ago
+👁️ 18K • 👍 2K • 💬 85 • ⏱️ 20:53 • 1d ago
 
 ---
 
@@ -337,7 +335,7 @@ Kevin Warsh may be the next Fed Chair, and the real question is simple: when doe
 
 📺 Swan Bitcoin
 
-👁️ 11K • 👍 591 • 💬 34 • ⏱️ 11:16 • 19h ago
+👁️ 11K • 👍 591 • 💬 34 • ⏱️ 11:16 • 20h ago
 
 ---
 
@@ -397,7 +395,7 @@ In this video, we take a look at how Heikin-Ashi candles can help remove some of
 
 📺 Benjamin Cowen
 
-👁️ 57K • 👍 4K • 💬 226 • ⏱️ 23:18 • 18h ago
+👁️ 57K • 👍 4K • 💬 226 • ⏱️ 23:18 • 19h ago
 
 ---
 
@@ -407,7 +405,7 @@ Bitcoin is sending mixed signals… and the crypto market is at a crossroads. On
 
 📺 Crypto Love
 
-👁️ 2K • 👍 229 • 💬 83 • ⏱️ 11:37 • 5h ago
+👁️ 2K • 👍 229 • 💬 83 • ⏱️ 11:37 • 6h ago
 
 ---
 

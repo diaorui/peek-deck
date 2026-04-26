@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-26T22:39:50.066900+00:00'
+updated: '2026-04-26T23:40:18.241588+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
+- videos
 - social
 - news
-- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 26, 2026 at 22:39 UTC  
+**Last Updated:** April 26, 2026 at 23:40 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,27 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Trump fires the entire National Science Board](https://www.reddit.com/r/artificial/comments/1svthww/trump_fires_the_entire_national_science_board/)**
-
-Federal funding for scientific research was already in turmoil.
-
-🔗 [The Verge](https://www.theverge.com/science/918769/trump-fires-the-entire-national-science-board) • 21h ago
-
----
-
 **[An amateur just solved a 60-year-old math problem—by asking AI](https://www.reddit.com/r/artificial/comments/1swi8f9/an_amateur_just_solved_a_60yearold_math_problemby/)**
 
 A ChatGPT AI has proved a conjecture with a method no human had thought of. Experts believe it may have further uses
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/) • 2h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/) • 3h ago
+
+---
+
+**[Trump fires the entire National Science Board](https://www.reddit.com/r/artificial/comments/1svthww/trump_fires_the_entire_national_science_board/)**
+
+Federal funding for scientific research was already in turmoil.
+
+🔗 [The Verge](https://www.theverge.com/science/918769/trump-fires-the-entire-national-science-board) • 22h ago
+
+---
+
+**[Is the era of all-you-can-eat AI ending? (i will not promote)](https://www.reddit.com/r/artificial/comments/1swl2uw/is_the_era_of_allyoucaneat_ai_ending_i_will_not/)**
+
+I am a GitHub Copilot Pro+ user. I have been enjoying 39 dollars plan that actually is worth 60 dollars compute with 1500 premium prompts to models count based. Given the availability of free tier models and model switching option, It has felt like never ending. It will be turned into token based after June. This corresponds to the projections about "the death of the ai buffet" I think. Less bundled memberships, more token based costs. As all these foundational model providers crave for profit, I think this is the natural step we are heading. They need to be able to measure and limit the use for profit. I am just curious how fast that will happen? Should we not take cheap & free AI for granted? Or can open-source models actually create a balance? If we are heading for less accessibility, how should average user be prepared?
+
+1h ago
 
 ---
 
@@ -61,19 +69,11 @@ Slack messages, interviews with current and former works paint picture of compan
 
 ---
 
-**[Is the era of all-you-can-eat AI ending? (i will not promote)](https://www.reddit.com/r/artificial/comments/1swl2uw/is_the_era_of_allyoucaneat_ai_ending_i_will_not/)**
-
-I am a GitHub Copilot Pro+ user. I have been enjoying 39 dollars plan that actually is worth 60 dollars compute with 1500 premium prompts to models count based. Given the availability of free tier models and model switching option, It has felt like never ending. It will be turned into token based after June. This corresponds to the projections about "the death of the ai buffet" I think. Less bundled memberships, more token based costs. As all these foundational model providers crave for profit, I think this is the natural step we are heading. They need to be able to measure and limit the use for profit. I am just curious how fast that will happen? Should we not take cheap & free AI for granted? Or can open-source models actually create a balance? If we are heading for less accessibility, how should average user be prepared?
-
-34m ago
-
----
-
 **[These generated videos has ruined the fun of social media and youtube.](https://www.reddit.com/r/artificial/comments/1sw317k/these_generated_videos_has_ruined_the_fun_of/)**
 
 No more organic content or videos on the internet everything is just Ai and it made me loose the interest, now I am just reading books.
 
-13h ago
+14h ago
 
 ---
 
@@ -81,7 +81,7 @@ No more organic content or videos on the internet everything is just Ai and it m
 
 The Globe and Mail's editorial board ran a piece in March titled "AI can be a crutch, or a springboard." To illustrate the crutch half, they offered this: someone asked AI to explain a passage from Dune that warns against delegating thinking to machines. Instead of reading the book. That anecdote is doing more work than the studies the editorial cites. But the studies are real. Researchers at MIT published a paper in June 2025 titled "Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task" (Kosmyna et al., arXiv 2506.08872). The study tracked brain activity across three groups: people writing with ChatGPT, people using search engines, and people working unaided. The LLM group showed the weakest neural connectivity. Over four months, "LLM users consistently underperformed at neural, linguistic, and behavioral levels." The most striking finding: LLM users struggled to accurately quote their own work. They couldn't recall what they had just written. The Globe cites this and similar research to make a point about dependency. The implicit argument: hand enough of your thinking to a machine and you stop doing it yourself. That finding is probably accurate for the way most people use these tools. The question is whether that's the only way they can be used. The Globe's own title contains the counter-argument. Crutch or springboard. They wrote both words. They just didn't develop the second one. Ethan Mollick, a professor at Wharton who has been writing about AI use since the tools became widely available, argued in 2023 that the real challenge AI poses to education isn't that students will stop thinking, it's that the old structures assumed thinking was hard enough to enforce. ("The Homework Apocalypse," oneusefulthing.org, July 2023.) When AI can do the surface-level cognitive work, the only tasks left worth assigning are the ones that require actual judgment. The tool, in that framing, doesn't reduce the demand for thinking. It raises the floor under it. Nate B. Jones, who writes and consults on what it actually takes to work well with AI, has made a sharper version of this argument. His position: using AI effectively requires more cognitive skill, not less. Specifically, it requires the ability to translate ambiguous intent into a precise, edge-case-aware specification that an AI can execute correctly. It requires detecting errors in output that is fluent and confident-sounding but wrong. It requires recognizing when an AI has drifted from your intent, or is confirming a premise it should be challenging. These are not passive skills. They are harder versions of the same thinking the MIT study found LLM users weren't doing. The difference between the group that lost neural connectivity and the group that doesn't isn't the tool. It's what they decided to do with it. Here's my own evidence. In the past year I built a working web application. Python backend. JavaScript frontend. Deployed on two hosting platforms. Payment processing. User authentication. A full data model. I do not know how to code. Every product decision was mine. Every architectural call. Every tradeoff judgment. I defined what the system needed to do, why, and what done looked like. I reviewed every significant change before it was accepted. When something broke, I identified where the breakdown was and directed the fix. The implementation was handled by AI. The thinking was mine. This mode (call it AI-directed building) is the opposite of the Dune reader. The quality of what gets produced is entirely a function of how clearly you can think, how precisely you can specify, and how critically you can evaluate what comes back. There is no shortcut in that. A vague brief to an AI doesn't produce a confused output. It produces a confident, fluent, wrong one. The discipline that prevents that is yours to supply. Non-coders building functional software with AI is common enough now that it isn't a story. What's less visible is the specificity of judgment underneath the ones that actually work. The practices that force more thinking rather than less are not complicated, but they require a decision to use the tool differently. When I've formed a position on something, I give the AI full context and ask it to make the strongest possible case against me. Ask for the hardest opposing argument it can construct. Then I read it. Sometimes it changes nothing. Sometimes it surfaces something I had dismissed without fully examining. The AI doesn't form my view. It stress-tests one I've already formed. When I'm uncertain between options, I don't ask which is better. I ask: here are two approaches, here is my constraint, now what does each cost me, and what does each require me to give up? I make the call. The AI laid out the shape of the decision. The judgment was mine. The uncomfortable part of thinking is still yours in this mode. The tool makes the work more rigorous, not easier. The MIT researchers and the Globe editorial are almost certainly right about the majority of current use. Passive use produces passive outcomes. That's not a controversial claim. The crutch half and the springboard half use the same interface. The difference is whether the person in front of it decided to think. What are you doing with it that forces more thinking rather than less? Are you using it to skip a step, or to take a harder one? Genuinely asking.
 
-7h ago
+8h ago
 
 ---
 
@@ -89,7 +89,7 @@ The Globe and Mail's editorial board ran a piece in March titled "AI can be a cr
 
 Earlier this month on Phoronix we were the first to draw attention to a new fuzzing tool / AI bot uncovering kernel bugs by Greg Kroah-Hartman, the 'second in command' for Linux kernel development and stable maintainer
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Clanker-T1000-AMD-Ryzen-AI-Max) • 10h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Clanker-T1000-AMD-Ryzen-AI-Max) • 11h ago
 
 ---
 
@@ -97,7 +97,7 @@ Earlier this month on Phoronix we were the first to draw attention to a new fuzz
 
 I work in AI security and compliance. This just bothers me a little bit, putting AI systems in front of decisions that change people’s lives via insurance claims, hiring, credit, defense applications and when someone asks wait, why did the system do that? we basically have nothing that would hold up in a courtroom. The explainability tools we have right now? SHAP, LIME, attention maps but they’re research tools. They’re not evidence. Researchers have shown you can build a model that actively discriminates while producing perfectly clean looking explanations. They have unbounded error, they give you different answers on different runs, and there’s no way for the other side’s lawyer to independently check the work. That’s a problem if you’re trying to meet Daubert standards. And the regulatory side is moving just as fast. EU AI Act has record keeping requirements coming online. The FY26 NDAA has an AI cybersecurity framework provision with implementation due mid 2026. States are doing their own thing. Courts are starting to actually push back on AI evidence under FRE 702. There is a ton of AI observability tooling out there. Great for ops. There’s governance platforms. Great for policy. But when it comes to something that’s actually forensic grade where opposing counsel is actively trying to tear it apart, where a third party can independently verify what happened without just trusting the vendor,I’m not seeing it. What am I missing?
 
-1h ago
+2h ago
 
 ---
 
@@ -113,7 +113,7 @@ A new survey carried out amongst 12 to 16-year-old boys has found that many of t
 
 I have been using Claude for research for building my product. I have done user research, market research, competition analysis etc But the output of it all so much that although useful I am not able to dig through the chats and make use of it. I tried turning them into book chapters but still the data is too much to consume How do you guys do research so that it is useful ?
 
-3h ago
+4h ago
 
 ---
 
@@ -123,37 +123,51 @@ I have been using Claude for research for building my product. I have done user 
 
 **[The Podcast Where You Can Eavesdrop on the A.I. Elite](https://www.nytimes.com/2026/04/26/business/dwarkesh-patel-podcast-ai.html)**
 
-The New York Times • 13h ago
+The New York Times • 14h ago
 
 ---
 
-**[Elon Musk says saving for retirement is irrelevant because AI is going to create a world of abundance: ‘It won't matter’](https://fortune.com/article/elon-musk-ceo-tech-billionaires-dont-save-for-retirement-ai-future-of-work-american-workers/)**
+**['You feel radicalized': A Meta AI exec watched agents beat her top workers. Now she's built a nonprofit to help Gen Z find jobs before they disappear](https://fortune.com/2026/04/26/meta-salesforce-exec-ai-agents-gen-z-jobs-nonprofit/)**
 
-Musk said a ‘supersonic tsunami’ of AI and robotics will bring about a world of zero scarcity.
+Gen Z is facing AI-driven layoffs and fewer entry-level jobs. Former Meta and Salesforce AI head Clara Shih says young workers can future-proof their careers by learning how to use AI agents.
 
-Fortune • 4h ago
-
----
-
-**[Teen, 14, Invents AI-Powered Device to Help Detect, and Potentially Treat, Crossed Eyes](https://people.com/teen-14-invents-ai-powered-device-to-potentially-treat-crossed-eyes-11954536)**
-
-An 8th grader in California invented an AI-powered device to detect when an eye begins to drift due to strabismus, more commonly known as crossed eyes. Inspired by his own condition, the 14-year-old designed the visor-like tool to alert users and potentially help retrain eye alignment.
-
-People.com • 1h ago
+Fortune • 15h ago
 
 ---
 
-**[Seed Money In The AI Age: Venture Vectors](https://www.forbes.com/sites/johnwerner/2026/04/26/seed-money-in-the-ai-age-venture-vectors/)**
+**[Economists Rethink Chinese Forecasts as AI Fires Up Import Surge](https://www.bloomberg.com/news/articles/2026-04-26/economists-rethink-chinese-forecasts-as-ai-fires-up-import-surge)**
 
-AI investment surges as VCs favor ambitious, AI-native startups with domain expertise and real workflows.
+Bloomberg • 40m ago
 
-Forbes • 37m ago
+---
+
+**[Our Principles](https://openai.com/index/our-principles/)**
+
+Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work.
+
+OpenAI • 36m ago
+
+---
+
+**[Elon Musk says saving for retirement is irrelevant because AI is going to create a world of abundance: ‘It won’t matter’](https://finance.yahoo.com/sectors/technology/articles/elon-musk-says-saving-retirement-174705539.html)**
+
+Musk said a "supersonic tsunami" of AI and robotics will bring about a world of zero scarcity.
+
+Yahoo Finance • 5h ago
 
 ---
 
 **[San Francisco, AI capital of the world, is an economic laggard](https://www.economist.com/finance-and-economics/2026/04/26/san-francisco-ai-capital-of-the-world-is-an-economic-laggard)**
 
-The Economist • 6h ago
+The Economist • 7h ago
+
+---
+
+**[Opinion | Will AI end anonymity? I tested it.](https://www.washingtonpost.com/opinions/interactive/2026/04/26/artificial-intelligence-could-kill-anonymity-online/)**
+
+AI can echolocate authors through their prose. Your digital fingerprint is at risk.
+
+The Washington Post • 5h ago
 
 ---
 
@@ -161,35 +175,21 @@ The Economist • 6h ago
 
 AI’s increasing ability to sift through data and track Americans’ locations has some lawmakers reconsidering parts of the Foreign Intelligence Surveillance Act.
 
-NBC News • 8h ago
+NBC News • 9h ago
 
 ---
 
 **[Data centers becoming ‘inescapable’ in Georgia's elections](https://www.politico.com/news/2026/04/26/ai-data-centers-georgia-midterms-00888668)**
 
-Politico • 8h ago
+Politico • 9h ago
 
 ---
 
-**['A return to optimism': Wall Street strategists are bullish on the AI trade](https://finance.yahoo.com/markets/article/a-return-to-optimism-wall-street-strategists-are-bullish-on-the-ai-trade-143000172.html)**
+**[New museum dedicated to AI promises an ethical approach](https://www.npr.org/2026/04/25/nx-s1-5799511/dataland-refik-anadol-los-angeles-ai-art-museum)**
 
-The rapid run higher in chip stocks has reignited  the AI trade.
+As some continue to pushback on AI art, artist Refik Anadol seeks to base his new venture on ethical and environmental principles.
 
-Yahoo Finance • 2h ago
-
----
-
-**[AI can cost more than human workers now](https://www.axios.com/2026/04/26/ai-cost-human-workers)**
-
-Axios • 11h ago
-
----
-
-**[Robot malfunction at Shaanxi university event sparks debate on AI awareness and safety in human-robot interaction](https://www.globaltimes.cn/page/202604/1359787.shtml)**
-
-A female student was unexpectedly embraced by a humanoid robot during a dance performance at a university sports event in Northwest China’s Shaanxi Province, sparking discussion among Chinese netizens over whether the robot may have developed autonomous awareness and prompting experts to call for enhanced safety measures in human-robot interaction scenarios.
-
-Global Times • 21h ago
+NPR • 23h ago
 
 ---
 
@@ -199,7 +199,7 @@ Global Times • 21h ago
 
 **[An AI agent deleted our production database. The agent's confession is below](https://news.ycombinator.com/item?id=47911524)**
 
-⬆️ 345 • 💬 450 • 6h ago • [X (formerly Twitter)](https://twitter.com/lifeof_jer/status/2048103471019434248)
+⬆️ 375 • 💬 528 • 7h ago • [X (formerly Twitter)](https://twitter.com/lifeof_jer/status/2048103471019434248)
 
 ---
 
@@ -207,7 +207,7 @@ Global Times • 21h ago
 
 If there was any doubt over the brewing public backlash to this technology, the last few weeks have erased it.
 
-⬆️ 265 • 💬 357 • 1d ago • [The New Republic](https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash)
+⬆️ 266 • 💬 359 • 1d ago • [The New Republic](https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash)
 
 ---
 
@@ -219,19 +219,19 @@ The widely circulated image had prompted authorities to move their search operat
 
 ---
 
-**[Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do](https://news.ycombinator.com/item?id=47897790)**
-
-Give any AI agent a persistent memory in minutes. Works with Claude, ChatGPT, Ollama, OpenRouter, and any MCP-compatible agent. Open source, self-hosted, model-agnostic.
-
-⬆️ 179 • 💬 74 • 1d ago • [Stash](https://alash3al.github.io/stash?_v01)
-
----
-
 **[AI should elevate your thinking, not replace it](https://news.ycombinator.com/item?id=47913650)**
 
 Read about the .
 
-⬆️ 177 • 💬 149 • 2h ago • [koshyjohn.com](https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/)
+⬆️ 215 • 💬 171 • 3h ago • [koshyjohn.com](https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/)
+
+---
+
+**[Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do](https://news.ycombinator.com/item?id=47897790)**
+
+Give any AI agent a persistent memory in minutes. Works with Claude, ChatGPT, Ollama, OpenRouter, and any MCP-compatible agent. Open source, self-hosted, model-agnostic.
+
+⬆️ 180 • 💬 75 • 1d ago • [Stash](https://alash3al.github.io/stash?_v01)
 
 ---
 
@@ -253,13 +253,13 @@ The airport targeted gate announcements, overlapping PA messages, and tenant mus
 
 Access 500+ LLMs and expert AI models through one unified API. Route requests by cost, performance, and region with built-in smart routing and fallbacks.
 
-⬆️ 124 • 💬 66 • 14h ago • [edenai.co](https://www.edenai.co)
+⬆️ 124 • 💬 66 • 15h ago • [edenai.co](https://www.edenai.co)
 
 ---
 
 **[Have you tried Clean Architecture as foundation for your AI project?](https://news.ycombinator.com/item?id=47913561)**
 
-⬆️ 92 • 💬 1 • 2h ago
+⬆️ 92 • 💬 2 • 3h ago
 
 ---
 
@@ -267,7 +267,7 @@ Access 500+ LLMs and expert AI models through one unified API. Route requests by
 
 There is an implicit contract at the foundation of every database architecture decision you have ever made. You probably never wrote it down. Nobody does. It just… existed.
 
-⬆️ 85 • 💬 85 • 1d ago • [Arpit Bhayani](https://arpitbhayani.me/blogs/defensive-databases/)
+⬆️ 89 • 💬 90 • 1d ago • [Arpit Bhayani](https://arpitbhayani.me/blogs/defensive-databases/)
 
 ---
 
@@ -291,7 +291,7 @@ Join Whop Academy - https://whopacademy.com/join Student access (free with .edu 
 
 📺 Brett Malinowski
 
-👁️ 2K • 👍 181 • 💬 7 • ⏱️ 1:13:54 • 6h ago
+👁️ 2K • 👍 181 • 💬 7 • ⏱️ 1:13:54 • 7h ago
 
 ---
 
@@ -301,7 +301,7 @@ China is not slowing down and in this video I am breaking down some of the most 
 
 📺 Manny ai
 
-👁️ 1K • 👍 86 • 💬 7 • ⏱️ 10:31 • 7h ago
+👁️ 1K • 👍 86 • 💬 7 • ⏱️ 10:31 • 8h ago
 
 ---
 
@@ -319,7 +319,7 @@ Seedance 2.0 + Suno v5.5 = Awesome AI Music Video Best AI music video maker ✨ 
 
 📺 Mira AI
 
-👁️ 8K • ⏱️ 9:36 • 7h ago
+👁️ 8K • ⏱️ 9:36 • 8h ago
 
 ---
 
@@ -329,7 +329,7 @@ Elon Musk is once again in the spotlight as an upgraded version of the Optimus r
 
 📺 Carros Show
 
-👁️ 3K • 👍 89 • 💬 27 • ⏱️ 51:48 • 21h ago
+👁️ 3K • 👍 89 • 💬 27 • ⏱️ 51:48 • 22h ago
 
 ---
 
@@ -339,7 +339,7 @@ TikToker Facing 12 Years Prison for AI Prank CHECK OUT OUR MATS HERE: https://ma
 
 📺 Atozy
 
-👁️ 187K • 👍 9K • 💬 1K • ⏱️ 8:40 • 21h ago
+👁️ 187K • 👍 9K • 💬 1K • ⏱️ 8:40 • 22h ago
 
 ---
 
@@ -359,7 +359,7 @@ In this video I read the Dumbest Ai responses. This video is just for entertainm
 
 📺 MANDO
 
-👁️ 66K • 👍 6K • 💬 845 • ⏱️ 8:39 • 6h ago
+👁️ 66K • 👍 6K • 💬 845 • ⏱️ 8:39 • 7h ago
 
 ---
 
@@ -640,7 +640,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 49.8k • 🔱 6.5k • 49s ago
+⭐ 49.8k • 🔱 6.5k • 1h ago
 
 ---
 
@@ -660,7 +660,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 40.0k • 🔱 8.2k • 2h ago
+⭐ 40.0k • 🔱 8.2k • 3h ago
 
 ---
 
