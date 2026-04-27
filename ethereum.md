@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-27T08:29:05.527470+00:00'
+updated: '2026-04-27T10:33:20.973328+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
 - news
 - social
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 27, 2026 at 08:29 UTC  
+**Last Updated:** April 27, 2026 at 10:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.0%  
-**7d:** -0.6%  
-**30d:** +16.6%  
-**90d:** -23.2%  
-**1y:** +28.6%  
+**24h:** -0.6%  
+**7d:** -0.2%  
+**30d:** +17.0%  
+**90d:** -22.9%  
+**1y:** +29.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $279.27B
+**Market Cap:** $280.01B
 Rank #2
 
 **Circulating Supply:** 120,688,626 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--53.2%
+-53.1%
 
 **All-Time Low:** $0.43
-+534034.4%
++535928.3%
 
 ---
 
@@ -72,15 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+5h ago
 
 ---
 
-**[I built an AI agent that charges $0.001 to protect other AI agents — and every blocked attack is permanently recorded onchain. Built solo in 5 days from Burkina Faso.](https://www.reddit.com/r/ethereum/comments/1swjmar/i_built_an_ai_agent_that_charges_0001_to_protect/)**
+**[Converting ETH to USDT - CEX vs exchanger, what's actually cheaper at mid-size amounts](https://www.reddit.com/r/ethereum/comments/1swxp5v/converting_eth_to_usdt_cex_vs_exchanger_whats/)**
 
-Hey r/ethereum, I just submitted ArcWarden to a lablab.ai hackathon on Arc L1. Wanted to share what I built because the concept is a bit different from what you usually see in the agentic space. The problem Autonomous AI agents managing USDC wallets on blockchain have zero native security layer. A compromised agent can drain a wallet in seconds. Existing solutions cost $0.30+ per transaction — on $0.001 nano-payments, that's structurally impossible to justify economically. What I built ArcWarden is an autonomous security agent that charges $0.001 USDC to evaluate every transaction from another agent before it executes. It has its own Circle wallet, its own treasury, and autonomously pays its own intelligence providers (Claude API). It's not a monitoring tool bolted on the outside — it's a participant in the economy it secures. 4 simultaneous protection layers: Behavior analysis — amount vs. agent historical average, frequency spikes, trust score Anti-splitting — 10-minute sliding windows. An attacker fragmenting $45 into 90 micro-transactions of $0.50 gets blocked at transaction #9 Service reputation — if 3 agents report a fraudulent service, every subsequent agent is automatically protected. Collective learning, no human in the loop Contract analysis — EVM bytecode inspection, unprotected drain functions, upgradeable proxy detection Every decision returns ALLOW / BLOCK / ESCALATE in under 5ms. What makes this real and not just a demo The thing I'm most proud of: a Vyper 0.4.3 smart contract deployed on Arc testnet that immutably records every blocked attack — pattern hash, attacker address, attempted amount, risk score, triggering layer. Contract v1 (migrated for a technical reason — the EVM selector changed when I updated the ABI from String[64] to address as first param, producing a completely different 4-byte selector that was silently rejected by the EVM) recorded 748 attacks for $1,682.92 USDC protected during testing. The active v2 contract is fully verifiable here: 👉 https://testnet.arcscan.app/address/0x17430A67e11535466cC5f17e736D5e4643B86ba1 That's real onchain proof. Not screenshots. The ecosystem runs in a real closed loop: 5 autonomous agents with real Circle Developer-Controlled Wallets — PayerAgent, AttackerAgent, LearnerAgent, GrayZoneAgent, MonitorAgent. They pay ArcWarden in real USDC. ArcWarden receives, evaluates, pays Claude for ambiguous cases, logs decisions on Arc. 389 onchain transactions confirmed. The economic loop: ArcWarden security cost: $0.001/decision Traditional SIEM: $0.30+ per transaction Savings: 99.7% — only viable because of Arc's near-zero fees (~$0.000003 per tx) ArcWarden is itself an economic agent. It earns revenue, pays its own expenses, manages its own P&L, and autonomously switches operating modes (NORMAL → DEGRADED → EMERGENCY) based on its treasury balance — zero human intervention. Bonded Oracle model ArcWarden operates with a Guaranty Fund — it deposits USDC as collateral to prove solvency before accepting clients. This bridges the gap between anonymous agents and accountable security providers. The fund is managed via the smart contract and verifiable by anyone on ArcScan. The honest part The demo video was too technical. Reviewers didn't understand what they were looking at and scored 1/5 across the board. The code is solid, the presentation wasn't. Lesson learned the hard way. Tech stack Python / FastAPI · asyncio · web3.py · Vyper 0.4.3 · Circle DCW ×6 · x402 protocol · Next.js · SQLite · numpy · Claude API (optional escalation) Links 🔗 GitHub: https://github.com/ibonon/Arcwarden ⛓️ Smart contract (v2 active): https://testnet.arcscan.app/address/0x17430A67e11535466cC5f17e736D5e4643B86ba1 Live demo on x= https://x.com/i/status/2047584585643425915 🏆 lablab.ai submission: https://lablab.ai/ai-hackathons/nano-payments-arc/omni/arcwarden-autonomous-security-oracle Feedback welcome — especially on the Risk Engine architecture and the Oracle economic model. Solo build · Ouagadougou, Burkina Faso · 5 days
+Been trying to figure out the most cost-effective way to move ETH into USDT. Not talking huge amounts - around 0.4 ETH - but enough that fees actually matter. CEX route is obvious but the math gets annoying. Trading fee on the swap plus withdrawal fee for USDT, and depending on the network you pick for withdrawal that can be another $1–5 on top. Fine for large amounts, starts feeling wasteful under a certain threshold. Tried going through a crypto exchanger this time. Did some research - looked at operating history and reserve size, picked TRC20 on the output side to keep receiving fees low. Had a bad experience before with a newer service that stalled mid-swap so track record was the main filter. Ended up about even with what a CEX would've cost me after all fees, maybe marginally better. The main upside was speed - no withdrawal queue, funds arrived in about 20 minutes. Curious whether others have done this comparison properly. At what size does CEX actually become cheaper than the exchanger route?
 
-11h ago
+2h ago
 
 ---
 
@@ -92,11 +92,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
+**[I built an AI agent that charges $0.001 to protect other AI agents — and every blocked attack is permanently recorded onchain. Built solo in 5 days from Burkina Faso.](https://www.reddit.com/r/ethereum/comments/1swjmar/i_built_an_ai_agent_that_charges_0001_to_protect/)**
+
+Hey r/ethereum, I just submitted ArcWarden to a lablab.ai hackathon on Arc L1. Wanted to share what I built because the concept is a bit different from what you usually see in the agentic space. The problem Autonomous AI agents managing USDC wallets on blockchain have zero native security layer. A compromised agent can drain a wallet in seconds. Existing solutions cost $0.30+ per transaction — on $0.001 nano-payments, that's structurally impossible to justify economically. What I built ArcWarden is an autonomous security agent that charges $0.001 USDC to evaluate every transaction from another agent before it executes. It has its own Circle wallet, its own treasury, and autonomously pays its own intelligence providers (Claude API). It's not a monitoring tool bolted on the outside — it's a participant in the economy it secures. 4 simultaneous protection layers: Behavior analysis — amount vs. agent historical average, frequency spikes, trust score Anti-splitting — 10-minute sliding windows. An attacker fragmenting $45 into 90 micro-transactions of $0.50 gets blocked at transaction #9 Service reputation — if 3 agents report a fraudulent service, every subsequent agent is automatically protected. Collective learning, no human in the loop Contract analysis — EVM bytecode inspection, unprotected drain functions, upgradeable proxy detection Every decision returns ALLOW / BLOCK / ESCALATE in under 5ms. What makes this real and not just a demo The thing I'm most proud of: a Vyper 0.4.3 smart contract deployed on Arc testnet that immutably records every blocked attack — pattern hash, attacker address, attempted amount, risk score, triggering layer. Contract v1 (migrated for a technical reason — the EVM selector changed when I updated the ABI from String[64] to address as first param, producing a completely different 4-byte selector that was silently rejected by the EVM) recorded 748 attacks for $1,682.92 USDC protected during testing. The active v2 contract is fully verifiable here: 👉 https://testnet.arcscan.app/address/0x17430A67e11535466cC5f17e736D5e4643B86ba1 That's real onchain proof. Not screenshots. The ecosystem runs in a real closed loop: 5 autonomous agents with real Circle Developer-Controlled Wallets — PayerAgent, AttackerAgent, LearnerAgent, GrayZoneAgent, MonitorAgent. They pay ArcWarden in real USDC. ArcWarden receives, evaluates, pays Claude for ambiguous cases, logs decisions on Arc. 389 onchain transactions confirmed. The economic loop: ArcWarden security cost: $0.001/decision Traditional SIEM: $0.30+ per transaction Savings: 99.7% — only viable because of Arc's near-zero fees (~$0.000003 per tx) ArcWarden is itself an economic agent. It earns revenue, pays its own expenses, manages its own P&L, and autonomously switches operating modes (NORMAL → DEGRADED → EMERGENCY) based on its treasury balance — zero human intervention. Bonded Oracle model ArcWarden operates with a Guaranty Fund — it deposits USDC as collateral to prove solvency before accepting clients. This bridges the gap between anonymous agents and accountable security providers. The fund is managed via the smart contract and verifiable by anyone on ArcScan. The honest part The demo video was too technical. Reviewers didn't understand what they were looking at and scored 1/5 across the board. The code is solid, the presentation wasn't. Lesson learned the hard way. Tech stack Python / FastAPI · asyncio · web3.py · Vyper 0.4.3 · Circle DCW ×6 · x402 protocol · Next.js · SQLite · numpy · Claude API (optional escalation) Links 🔗 GitHub: https://github.com/ibonon/Arcwarden ⛓️ Smart contract (v2 active): https://testnet.arcscan.app/address/0x17430A67e11535466cC5f17e736D5e4643B86ba1 Live demo on x= https://x.com/i/status/2047584585643425915 🏆 lablab.ai submission: https://lablab.ai/ai-hackathons/nano-payments-arc/omni/arcwarden-autonomous-security-oracle Feedback welcome — especially on the Risk Engine architecture and the Oracle economic model. Solo build · Ouagadougou, Burkina Faso · 5 days
+
+13h ago
+
+---
+
 **[Blockchain consulting challenges with Ethereum scaling assumptions](https://www.reddit.com/r/ethereum/comments/1swdv0u/blockchain_consulting_challenges_with_ethereum/)**
 
 Working in blockchain consulting, I’ve noticed many Ethereum-based projects still underestimate how scaling decisions impact long-term costs. Clients assume L2s will fully solve gas issues, but data availability, bridging complexity, and liquidity fragmentation often get overlooked. When designing systems, it becomes tricky balancing user experience with decentralization trade-offs, especially for financial applications. Even small architectural decisions can significantly affect transaction costs and protocol adoption later. Has anyone here built a reliable framework for evaluating Ethereum scaling strategies across different use cases?
 
-14h ago
+17h ago
 
 ---
 
@@ -140,14 +148,6 @@ Aave DAO offers to contribute 25,000 ETH toward DeFi United, a coordinated ecosy
 
 ---
 
-**[Daily General Discussion April 24, 2026](https://www.reddit.com/r/ethereum/comments/1su63qw/daily_general_discussion_april_24_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The market isn't going down, but even ascending structures we see today aren't relevant and do not bring enough use to the table.
 
-U.Today • 8h ago
+U.Today • 10h ago
 
 ---
 
@@ -172,7 +172,23 @@ Yahoo Finance • 1d ago
 
 Ethereum (ETH) price climbed 1% to $2,336.25, outpacing a broadly flat market, driven by a technical breakout and steady institutional flows follo
 
-MarketForces Africa • 19h ago
+MarketForces Africa • 21h ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC holds bullish bias, ETH breaks key EMA, XRP steadies above support](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-holds-bullish-bias-eth-breaks-key-ema-xrp-steadies-above-support-202604270308)**
+
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) begin the week on a constructive note, extending gains after surging over 6%, 4% and 2% last week.
+
+FXStreet • 7h ago
+
+---
+
+**[Ethereum Price Climbs Gradually, Can Bulls Break $2,400 Barrier?](https://www.tradingview.com/news/newsbtc:29e669aac094b:0-ethereum-price-climbs-gradually-can-bulls-break-2-400-barrier/)**
+
+Ethereum price started a fresh increase and remained stable above $2,365. ETH is now consolidating and might aim for more gains if it clears $2,400.Ethereum Price Aims for Fresh High Above $2,420Ethereum price managed to stay above the $2,320 support and started a fresh increase, like Bitcoin. ETH…
+
+TradingView • 6h ago
 
 ---
 
@@ -184,14 +200,6 @@ The Block • 2d ago
 
 ---
 
-**[Crypto News: Pepeto Announces DeFi Exchange Successful Tests Amid Ethereum Price Prediction Points to $6,000 Within a Year](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-announces-defi-exchange-successful-tests-amid-ethereum-price-prediction-points-to-6-000-within-a-year-1036062991)**
-
-Dubai, UAE, April  26, 2026  (GLOBE NEWSWIRE) -- Pepeto confirmed this week that final test on the Exchange are done, to support the big volume it...
-
-markets.businessinsider.com • 18h ago
-
----
-
 **[Shark Tank Kevin O’Leary Now Says Forget Alts, Hold Bitcoin, Ethereum](https://cryptopotato.com/shark-tank-kevin-olear-now-says-forget-alts-hold-bitcoin-ethereum/)**
 
 “Shark Tank” judge and business magnate Kevin O'Leary says he only recommends owning Bitcoin and Ethereum. Here's why.
@@ -200,9 +208,11 @@ CryptoPotato • 1d ago
 
 ---
 
-**[ETFs weekly recap – How did Bitcoin, Ethereum, Solana and XRP do this week?](https://ambcrypto.com/etfs-weekly-recap-how-did-bitcoin-ethereum-solana-and-xrp-do-this-week/)**
+**[Crypto News: Pepeto Announces DeFi Exchange Successful Tests Amid Ethereum Price Prediction Points to $6,000 Within a Year](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-announces-defi-exchange-successful-tests-amid-ethereum-price-prediction-points-to-6-000-within-a-year-1036062991)**
 
-AMBCrypto • 6h ago
+Dubai, UAE, April  26, 2026  (GLOBE NEWSWIRE) -- Pepeto confirmed this week that final test on the Exchange are done, to support the big volume it...
+
+markets.businessinsider.com • 20h ago
 
 ---
 
@@ -210,23 +220,13 @@ AMBCrypto • 6h ago
 
 Ethereum price remains stagnant at $2,328. Ethereum reaching $10,000 by December 31, 2026 priced at 4% YES.
 
-Crypto Briefing • 1h ago
+Crypto Briefing • 3h ago
 
 ---
 
-**[Ethereum Foundation unstakes 17K ETH after nearing 70K staked ETH milestone](https://www.tradingview.com/news/cointelegraph:533982cd9094b:0-ethereum-foundation-unstakes-17k-eth-after-nearing-70k-staked-eth-milestone/)**
+**[ETFs weekly recap – How did Bitcoin, Ethereum, Solana and XRP do this week?](https://ambcrypto.com/etfs-weekly-recap-how-did-bitcoin-ethereum-solana-and-xrp-do-this-week/)**
 
-The Ethereum Foundation has moved to unwind part of its staking position shortly after nearing its stated goal of 70,000 staked ETH.On Saturday, the Ethereum Foundation unstaked 17,035.326 ETH, worth roughly $40 million, according to Arkham data. The move involved depositing wrapped staked ETH (wst…
-
-TradingView • 20h ago
-
----
-
-**[Bitcoin, Ethereum, XRP, Dogecoin Rally Despite Stalled Iran Peace Talks: Analyst Says BTC Breaking Past T](https://www.benzinga.com/crypto/cryptocurrency/26/04/52053714/bitcoin-ethereum-xrp-dogecoin-rally-iran-talks-stall-btc-key-level-86000-breakout-analyst)**
-
-Leading cryptocurrencies lifted while stock futures ticked lower on Sunday, amid uncertainty from stalled Iran peace talks.
-
-Benzinga • 6h ago
+AMBCrypto • 8h ago
 
 ---
 
@@ -240,7 +240,7 @@ The Crypto Market Is About To Flip... ⭐ Follow Altcoin Daily on X: https://twi
 
 📺 Altcoin Daily
 
-👁️ 35K • 👍 2K • 💬 173 • ⏱️ 9:47 • 13h ago
+👁️ 37K • 👍 2K • 💬 277 • ⏱️ 9:47 • 15h ago
 
 ---
 
@@ -250,7 +250,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 12K • 👍 418 • 💬 35 • ⏱️ 18:46 • 16h ago
+👁️ 12K • 👍 435 • 💬 36 • ⏱️ 18:46 • 18h ago
+
+---
+
+**[ETHEREUM DUMP COMING?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=vSloTo5_Bvs)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 79 • 👍 10 • 💬 1 • ⏱️ 4:59 • 1h ago
 
 ---
 
@@ -260,7 +270,7 @@ Ethereum Is DONE?! XRP Taking Over TRILLIONS (Must Listen!) Join 12000+ Crypto I
 
 📺 NCashOfficial - Daily Crypto & Finance News
 
-👁️ 6K • 👍 406 • 💬 40 • ⏱️ 16:20 • 10h ago
+👁️ 6K • 👍 422 • 💬 83 • ⏱️ 16:20 • 12h ago
 
 ---
 
@@ -270,17 +280,27 @@ THEY ARE PREDICTING - $500K BITCOIN, $40K ETHEREUM, AND $50 XRP BY THIS DATE! GE
 
 📺 Austin Hilton
 
-👁️ 14K • 👍 593 • 💬 62 • ⏱️ 9:47 • 1d ago
+👁️ 14K • 👍 597 • 💬 62 • ⏱️ 9:47 • 1d ago
 
 ---
 
-**[🔥 Ethereum Is Cooking… Is Arthur Wrong?](https://www.youtube.com/watch?v=FmCD8BlEWtY)**
+**[🔥I Asked AI to Pick Between Solana &amp; Ethereum – The Answer Shocked Me](https://www.youtube.com/watch?v=dUib3hNDKR4)**
 
-Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
+Best HardWare Wallet : https://coinlyte.com/tangem (Code : MRVYAS) ➡️ Sign Up 11-Day Course: ...
 
-📺 🌟yourfriendsommi
+📺 Kirtish Vyas (CoinLyte)
 
-👁️ 2K • 👍 214 • 💬 15 • ⏱️ 18:14 • 17h ago
+👁️ 60 • 👍 12 • 💬 3 • ⏱️ 16:47 • 29m ago
+
+---
+
+**[Btc Live Trading | Crypto Live Trading | Live Trading | Live Crypto Trading | Bitcoin Live Trading](https://www.youtube.com/watch?v=MrfIqvAoDkE)**
+
+BTC LIVE TRADING TODAY | BITCOIN LIVE | CRYPTO LIVE TRADING Start your trading journey with XM — a trusted and ...
+
+📺 Ashutosh Kumar
+
+👁️ 9K • 👍 609 • 4h ago
 
 ---
 
@@ -294,43 +314,23 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 ---
 
-**[Bitcoin &amp; Ethereum. 80.000 bis 80.500 werden sehr wahrscheinlich solange DAS nicht passiert!](https://www.youtube.com/watch?v=GQVnuf4mn6o)**
+**[Ethereum (ETH) - Análise de hoje, 27/04/2026 #ETH #Ethereum #BTC #bitcoin #XRP #vitalik #ETH](https://www.youtube.com/watch?v=Qch4h3RKS8M)**
 
-DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Das wird mein neuer Partner OKX! Nur bei mir bekommt ihr 250€ + ...
+ASSINE agora GEMAS Altcoins Alert !!! - (R$100/mês): https://pay.hotmart.com/Y93614691E https://degenscan.io #eth #BTC ...
 
-📺 Krypto Trading & Investing
+📺 Trade with Renato Ulianov
 
-👁️ 2K • 👍 408 • 💬 79 • ⏱️ 11:08 • 3h ago
-
----
-
-**[Btc Live Trading | Crypto Live Trading | Live Trading | Live Crypto Trading | Bitcoin Live Trading](https://www.youtube.com/watch?v=MrfIqvAoDkE)**
-
-BTC LIVE TRADING TODAY | BITCOIN LIVE | CRYPTO LIVE TRADING Start your trading journey with XM — a trusted and ...
-
-📺 Ashutosh Kumar
-
-👁️ 4K • 👍 376 • 1h ago
+👁️ 76 • 👍 22 • ⏱️ 0:58 • 32m ago
 
 ---
 
-**[XRP News Today — SEC Just Called XRP a Commodity and Ethereum Is in Trouble](https://www.youtube.com/watch?v=zSfNpRJ-VEM)**
+**[🔥 Ethereum Is Cooking… Is Arthur Wrong?](https://www.youtube.com/watch?v=FmCD8BlEWtY)**
 
-Ripple XRP News today as the SEC has reportedly classified XRP as a digital commodity. XRP News is exploding as this move ...
+Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
 
-📺 The Bull Winkle Blue Print
+📺 🌟yourfriendsommi
 
-👁️ 2K • 👍 224 • 💬 8 • ⏱️ 13:37 • 12h ago
-
----
-
-**[BITCOIN PRICE TARGET IMMINENT (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=u0fkeBLuOAA)**
-
-BITCOIN PRICE TARGET IMMINENT (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *NOVAVA* ...
-
-📺 Crypto World
-
-👁️ 7K • 👍 316 • 💬 182 • ⏱️ 16:25 • 11h ago
+👁️ 2K • 👍 218 • 💬 15 • ⏱️ 18:14 • 19h ago
 
 ---
 
