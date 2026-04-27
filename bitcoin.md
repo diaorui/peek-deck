@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-27T16:27:43.919516+00:00'
+updated: '2026-04-27T17:50:01.643139+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - videos
+- news
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 27, 2026 at 16:27 UTC  
+**Last Updated:** April 27, 2026 at 17:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $76,708.52
+### $76,581.01
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.7%  
-**7d:** +0.5%  
-**30d:** +16.1%  
-**90d:** -14.1%  
-**1y:** -19.3%  
+**24h:** -1.8%  
+**7d:** +0.7%  
+**30d:** +16.3%  
+**90d:** -13.9%  
+**1y:** -19.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1559.29B
+**Market Cap:** $1538.94B
 Rank #1
 
-**Circulating Supply:** 20,021,503 BTC
+**Circulating Supply:** 20,021,546 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--38.2%
+-39.1%
 
 **All-Time Low:** $67.81
-+114754.7%
++113179.8%
 
 ---
 
@@ -79,23 +79,7 @@ Rank #1
 
 **[HAL FINNEY: “I was likely the first person after Satoshi to run Bitcoin. I mined block seventy-something and received the first BTC transfer when Satoshi sent me 10 coins as a test. We emailed for days after that, mostly me reporting bugs and him fixing them in real time, almost instantly.”](https://www.reddit.com/r/Bitcoin/comments/1swexh5/hal_finney_i_was_likely_the_first_person_after/)**
 
-22h ago
-
----
-
-**[They keep stealing from everyone and one day I took it personally. This is why I keep stacking Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1swkrfi/they_keep_stealing_from_everyone_and_one_day_i/)**
-
-fix the money, fix the world!
-
-18h ago
-
----
-
-**[Merchants now only need one PoS for bitcoin and fiat.](https://www.reddit.com/r/Bitcoin/comments/1sx0r5v/merchants_now_only_need_one_pos_for_bitcoin_and/)**
-
-For a merchant, maintaining multiple payments systems is a pain: multiple orders, inventory, comms, etc. Now all a merchant needs is LNbits. FOSS, easy to run, a cutting-edge merchant stack.
-
-5h ago
+23h ago
 
 ---
 
@@ -103,7 +87,7 @@ For a merchant, maintaining multiple payments systems is a pain: multiple orders
 
 Im a 37 year old Dad from the Philippines, my son is about to turn 3 years old next month. Is it too late to accumulate or DCA Bitcoin for my son? Considering my budget is 750 pesos($12) per week. So far i accumulated 0.001 bitcoin for him. Plan to give it to him when he reached 27 years old.
 
-2h ago
+3h ago
 
 ---
 
@@ -111,7 +95,23 @@ Im a 37 year old Dad from the Philippines, my son is about to turn 3 years old n
 
 Strive boosted its Bitcoin treasury with a fresh purchase of 789 BTC, valued at roughly $61.43 million.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/strive-expands-bitcoin-treasury) • 1h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/strive-expands-bitcoin-treasury) • 2h ago
+
+---
+
+**[They keep stealing from everyone and one day I took it personally. This is why I keep stacking Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1swkrfi/they_keep_stealing_from_everyone_and_one_day_i/)**
+
+fix the money, fix the world!
+
+19h ago
+
+---
+
+**[Merchants now only need one PoS for bitcoin and fiat.](https://www.reddit.com/r/Bitcoin/comments/1sx0r5v/merchants_now_only_need_one_pos_for_bitcoin_and/)**
+
+For a merchant, maintaining multiple payments systems is a pain: multiple orders, inventory, comms, etc. Now all a merchant needs is LNbits. FOSS, easy to run, a cutting-edge merchant stack.
+
+6h ago
 
 ---
 
@@ -119,15 +119,15 @@ Strive boosted its Bitcoin treasury with a fresh purchase of 789 BTC, valued at 
 
 As a $1.6 trillion asset with substantial upside, this leading cryptocurrency has drawn the attention of larger pools of capital.
 
-🔗 [The Motley Fool](https://www.fool.com/investing/2026/04/26/institutional-investors-add-bitcoin-balance-sheet/) • 1h ago
+🔗 [The Motley Fool](https://www.fool.com/investing/2026/04/26/institutional-investors-add-bitcoin-balance-sheet/) • 2h ago
 
 ---
 
-**[.1 BTC and counting](https://www.reddit.com/r/Bitcoin/comments/1swophg/1_btc_and_counting/)**
+**[What was the exact moment Bitcoin clicked for you?](https://www.reddit.com/r/Bitcoin/comments/1sx9loz/what_was_the_exact_moment_bitcoin_clicked_for_you/)**
 
-As the title reads I have .1 BTC and buying more each month. If I have $500 extra a month, safe to do $100/week or just 500/month. What would you do?
+Not the first time you heard about it. Not the first time you bought a little. I mean the moment where something shifted… where it stopped feeling like “internet money” and started feeling like a system that actually made sense. For some people it was a price crash. For others it was learning how the halving works. For some it was self‑custody for the first time. Curious what it was for you.
 
-15h ago
+52m ago
 
 ---
 
@@ -135,7 +135,15 @@ As the title reads I have .1 BTC and buying more each month. If I have $500 extr
 
 Trying to understand how people store bitcoin for the long term. do you prefer hardware wallets, exchanges, or something else? Would like to hear what works best for you.
 
-23m ago
+1h ago
+
+---
+
+**[.1 BTC and counting](https://www.reddit.com/r/Bitcoin/comments/1swophg/1_btc_and_counting/)**
+
+As the title reads I have .1 BTC and buying more each month. If I have $500 extra a month, safe to do $100/week or just 500/month. What would you do?
+
+17h ago
 
 ---
 
@@ -143,15 +151,7 @@ Trying to understand how people store bitcoin for the long term. do you prefer h
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-10h ago
-
----
-
-**[The key of having more bitcoins](https://www.reddit.com/r/Bitcoin/comments/1swsbge/the_key_of_having_more_bitcoins/)**
-
-Stop being broke Scale priority when buying Buy what's needed and not want first Stop pretending to be rich, you lose so much aura Dca if you love dca, buy lump sump every now and then if you're not dcaer Do self custody, it cures your adhd gambler impulses habbit Go outside, yes bro touch some grass and talk to people People love kindness not flexing (the real one) Always be you, stick to your target and stop comparing urself to pigeon Live the moment Absolute cinema
-
-12h ago
+11h ago
 
 ---
 
@@ -159,11 +159,17 @@ Stop being broke Scale priority when buying Buy what's needed and not want first
 
 ## Google News: "bitcoin"
 
-**[Strategy (MSTR) Is Now All-In on Bitcoin; Cantor Just Raised Its Target Again](https://finance.yahoo.com/markets/crypto/articles/strategy-mstr-now-bitcoin-cantor-141421037.html)**
+**[Strategy Buys $255 Million Of Bitcoin As Holdings Top 800,000 Tokens](https://finance.yahoo.com/markets/crypto/articles/strategy-buys-255-million-bitcoin-132400203.html)**
 
-Strategy Inc. (NASDAQ:MSTR) is one of the best falling stocks to invest in now. On April 21, Cantor Fitzgerald analyst Ramsey El-Assal raised his price target on Strategy Inc. (NASDAQ:MSTR) to $212 from $192, keeping an Overweight rating on the stock. El-Assal said that investor attention is increasingly shifting toward how Strategy is evolving as […]
+Strategy (NASDAQ: $MSTR) acquired another 3,273 Bitcoin (CRYPTO: $BTC) over the past week, bringing its total holdi...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 4h ago
+
+---
+
+**[Strategy Slows Bitcoin Buying, Switches Back to Common Sales](https://www.bloomberg.com/news/articles/2026-04-27/strategy-slows-bitcoin-buying-switches-back-to-common-sales)**
+
+Bloomberg • 4h ago
 
 ---
 
@@ -171,13 +177,7 @@ Yahoo Finance • 2h ago
 
 Strategy's average price per bitcoin purchase sits at $75,537, Michael Saylor said. Strive also announced the purchase of 789 BTC for $61.43 million.
 
-CoinDesk • 2h ago
-
----
-
-**[Strategy Slows Bitcoin Buying, Switches Back to Common Sales](https://www.bloomberg.com/news/articles/2026-04-27/strategy-slows-bitcoin-buying-switches-back-to-common-sales)**
-
-Bloomberg.com • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -189,25 +189,27 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Fidelity Digital Assets sees early stabilization signals in crypto market](https://www.coindesk.com/markets/2026/04/27/fidelity-digital-assets-says-bitcoin-is-leading-crypto-market-stabilization)**
+**[Bitcoin vs. Solana: Which Crypto Is the Better Buy Right Now?](https://www.fool.com/investing/2026/04/27/bitcoin-vs-solana-which-crypto-is-the-better-buy-r/)**
 
-Despite muted prices to start the second quarter, the report said improving onchain metrics and network activity point to a market finding its footing.
+Both of these top cryptocurrencies could soar higher over the next few years.
 
-CoinDesk • 43m ago
-
----
-
-**[Bitcoin price analysis: BTC rally showing lack of conviction, says analyst](https://www.coindesk.com/markets/2026/04/27/bitcoin-is-climbing-on-thin-volume-leaving-this-rally-vulnerable-to-macro-shock)**
-
-Low trading volume and a lack of conviction from big-money bettors could leave the bitcoin rally on shaky ground, said 10x Research head Markus Thielen.
-
-CoinDesk • 5m ago
+The Motley Fool • 5m ago
 
 ---
 
-**[Bitcoin’s Stealth Rally Has Traders Setting Sights on $80,000](https://www.bloomberg.com/news/articles/2026-04-25/bitcoin-s-stealth-rally-has-traders-setting-sights-on-80-000)**
+**[Bitcoin price news: BTC drops below $77,000 as rising oil and Iran risks stall the rally](https://www.coindesk.com/markets/2026/04/27/bitcoin-pulls-back-to-usd76-600-as-rising-oil-price-and-iran-risks-stall-the-rally)**
 
-Bloomberg.com • 2d ago
+Short-term holder profit-taking is offsetting fresh demand from ETFs and Strategy, pointing to consolidation below $80,000, Bitfinex analysts said.
+
+CoinDesk • 30m ago
+
+---
+
+**[Publicly Traded Strive Buys $60 Million in Bitcoin, Plans BTC Business Summit](https://finance.yahoo.com/markets/crypto/articles/publicly-traded-strive-buys-60-173743634.html)**
+
+Strive Inc. purchased 789 more Bitcoin while its subsidiary prepares to educate business leaders on corporate crypto adoption.
+
+Yahoo Finance • 12m ago
 
 ---
 
@@ -215,7 +217,13 @@ Bloomberg.com • 2d ago
 
 27 April 2026 – Tether, the largest company in the digital asset industry, today launched Mining Development Kit (MDK), an open-source, full-stack development framework that gives Bitcoin mining operators and developers unified control over their entire infrastructure stack.  With its open modular architecture and agnostic interfaces, MDK pairs a JavaScript backend SDK with a React […]
 
-Tether.io • 4h ago
+Tether.io • 5h ago
+
+---
+
+**[Bitcoin’s Stealth Rally Has Traders Setting Sights on $80,000](https://www.bloomberg.com/news/articles/2026-04-25/bitcoin-s-stealth-rally-has-traders-setting-sights-on-80-000)**
+
+Bloomberg • 2d ago
 
 ---
 
@@ -224,14 +232,6 @@ Tether.io • 4h ago
 Independent researcher Giancarlo Lelli derived a 15-bit elliptic curve key on a publicly accessible quantum computer, Project Eleven said.
 
 The Block • 3d ago
-
----
-
-**[Senators Balk at Board of Peace’s Bitcoin Grift for Gaza](https://www.counterpunch.org/2026/04/27/senators-balk-at-board-of-peaces-bitcoin-grift-for-gaza/)**
-
-Four senators raised doubts April 17 about Donald Trump's stratagems for cryptocurrency, aka a stablecoin, in Gaza. Their press release that day makes
-
-CounterPunch.org • 4h ago
 
 ---
 
@@ -255,14 +255,6 @@ The U.S. military is actively running a Bitcoin node and testing the protocol’
 
 ---
 
-**[Bitcoin and Quantum Computing: A Roadmap](https://news.ycombinator.com/item?id=47837968)**
-
-Neha Narula
-
-⬆️ 4 • 💬 2 • 6d ago • [nehanarula.org](https://nehanarula.org/2026/04/20/bitcoin-and-quantum-a-roadmap.html)
-
----
-
 **[Bitcoin 'Q-Day' Draws Nearer as Quantum Researcher Breaks Simplified Key](https://news.ycombinator.com/item?id=47896517)**
 
 The quantum threat to Bitcoin keeps inching closer, this time thanks to a researcher who broke a simplified cryptographic key.
@@ -274,6 +266,14 @@ The quantum threat to Bitcoin keeps inching closer, this time thanks to a resear
 **[Warren Buffett: Why Stocks Beat Gold, Bonds and Bitcoin (2018)](https://news.ycombinator.com/item?id=47875151)**
 
 ⬆️ 2 • 💬 0 • 4d ago • [acquirersmultiple.com](https://acquirersmultiple.com/2018/01/warren-buffett-why-stocks-beat-gold-bonds-and-bitcoin/)
+
+---
+
+**[Jack Dorsey's Block launches new Bitcoin hardware wallet, Bitkey](https://news.ycombinator.com/item?id=47924028)**
+
+Bitkey is a bitcoin self-custody wallet with an app, hardware device, and built-in recovery, so you keep your private keys without losing access.
+
+⬆️ 1 • 💬 0 • 1h ago • [Bitkey](https://bitkey.world)
 
 ---
 
@@ -313,7 +313,7 @@ Reporting on Fintech, Crypto, and Blockchain Activity in Africa
 
 YubiClicker is Cookie Clicker, except every click is a FIDO2 assertion from a physical key tap. Climb a public leaderboard by out-tapping your opponents. YubiKey, Titan, Feitian, Solo, and Nitrokey all qualify.
 
-⬆️ 4 • 💬 0 • 4h ago • [YubiClicker](https://yubiclicker.com/)
+⬆️ 4 • 💬 0 • 5h ago • [YubiClicker](https://yubiclicker.com/)
 
 ---
 
@@ -327,17 +327,17 @@ Bitcoin is not just another asset, it is competing for a $1 quadrillion global s
 
 📺 Simply Bitcoin
 
-👁️ 32K • 👍 2K • 💬 265 • ⏱️ 21:09 • 17h ago
+👁️ 35K • 👍 2K • 💬 338 • ⏱️ 21:09 • 18h ago
 
 ---
 
-**[Saylor Just DESTROYED The Bitcoin Bear Market | Why is the US Treasury PANICKING?](https://www.youtube.com/watch?v=V59vk1YKFsY)**
+**[Bitcoin Nears $80K...Bulls Back In Control](https://www.youtube.com/watch?v=N4fDKC9aYZA)**
 
-Michael Saylor is buying at a pace that could trigger a historic Bitcoin supply shock. At the same time, the Bank of England is ...
+Make FREE Crypto Predictions & Compete Weekly ▻ https://www.clashpicks.com/ Research. Tracking. Charting. All In One AI ...
 
-📺 Simply Bitcoin
+📺 CryptosRUs
 
-👁️ 22K • 👍 2K • 💬 106 • ⏱️ 20:53 • 1d ago
+👁️ 10K • 👍 720 • 💬 379 • ⏱️ 51:38 • 3h ago
 
 ---
 
@@ -347,7 +347,17 @@ Bitcoin #Crypto #Finance The Strait of Hormuz has been closed for over 60 days i
 
 📺 The Wolf Of All Streets
 
-👁️ 4K • 👍 339 • 💬 60 • ⏱️ 1:01:50 • 2h ago
+👁️ 9K • 👍 661 • 💬 243 • ⏱️ 1:01:50 • 3h ago
+
+---
+
+**[🚨 BTC &amp; ETH: EMERGENCY UPDATE!!!!!! (Dont miss this one!)](https://www.youtube.com/watch?v=VB9gykEq9_I)**
+
+Technicals of bitcoin, ethereum and the rest of crypto dont lie! Here is what to pay attention to and what I am doing next!
+
+📺 Thomas Kralow
+
+👁️ 5K • 👍 1K • 💬 38 • ⏱️ 11:19 • 3h ago
 
 ---
 
@@ -357,7 +367,27 @@ The Crypto Market Is About To Flip... ⭐ Follow Altcoin Daily on X: https://twi
 
 📺 Altcoin Daily
 
-👁️ 41K • 👍 3K • 💬 537 • ⏱️ 9:47 • 21h ago
+👁️ 43K • 👍 3K • 💬 722 • ⏱️ 9:47 • 23h ago
+
+---
+
+**[Saylor Just DESTROYED The Bitcoin Bear Market | Why is the US Treasury PANICKING?](https://www.youtube.com/watch?v=V59vk1YKFsY)**
+
+Michael Saylor is buying at a pace that could trigger a historic Bitcoin supply shock. At the same time, the Bank of England is ...
+
+📺 Simply Bitcoin
+
+👁️ 22K • 👍 2K • 💬 113 • ⏱️ 20:53 • 1d ago
+
+---
+
+**[BITCOIN Breakout Level Set!! Crypto CLARITY Date Just Dropped!](https://www.youtube.com/watch?v=Oj_4N4ybdQ4)**
+
+Bitcoin closed above the 20 week last night, but hardly. It's a good first step for bulls, but they have more work to do. We can get a ...
+
+📺 Crypto Capital Venture
+
+👁️ 3K • 👍 376 • 💬 190 • ⏱️ 12:51 • 2h ago
 
 ---
 
@@ -367,27 +397,7 @@ Kevin Warsh may be the next Fed Chair, and the real question is simple: when doe
 
 📺 Swan Bitcoin
 
-👁️ 15K • 👍 715 • 💬 47 • ⏱️ 11:16 • 1d ago
-
----
-
-**[MAKE OR BREAK MOMENT FOR BITCOIN — URGENT UPDATE](https://www.youtube.com/watch?v=Z7y1WoH7H1c)**
-
-TOOBIT — TRADE YOUR WAY TO MADRID WITH FEFE All-inclusive Luxury Trip + LALIGA Access ...
-
-📺 100XClub
-
-👁️ 6K • 👍 793 • 💬 118 • ⏱️ 6:51 • 8h ago
-
----
-
-**[BITCOIN AND STOCKS PUMPING](https://www.youtube.com/watch?v=ylcwR8CDWi4)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
-
-📺 My Financial Friend
-
-👁️ 5K • 👍 305 • 💬 258 • ⏱️ 9:07 • 15h ago
+👁️ 16K • 👍 733 • 💬 48 • ⏱️ 11:16 • 1d ago
 
 ---
 
@@ -397,15 +407,7 @@ Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=Al
 
 📺 Altcoin Daily
 
-👁️ 39K • 👍 2K • 💬 294 • ⏱️ 8:58 • 1d ago
-
----
-
-**[HUGE BITCOIN BREAKOUT XRP AND CRYPTO IS NEXT #crypto #bitcoin #xrp](https://www.youtube.com/watch?v=wwuQ2VJy8dA)**
-
-📺 CryptoWendyO
-
-👁️ 8K • 👍 385 • 💬 14 • ⏱️ 1:00 • 16h ago
+👁️ 40K • 👍 2K • 💬 297 • ⏱️ 8:58 • 1d ago
 
 ---
 
@@ -415,7 +417,7 @@ Subscribe. Because when it clicks… price won't wait. BlackRock and Michael Say
 
 📺 Bitcoin News Alerts
 
-👁️ 5K • 👍 286 • 💬 146 • ⏱️ 21:39 • 17h ago
+👁️ 5K • 👍 304 • 💬 152 • ⏱️ 21:39 • 19h ago
 
 ---
 
