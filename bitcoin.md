@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-27T10:33:20.967403+00:00'
+updated: '2026-04-27T12:20:54.390734+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
+- videos
 - news
 - social
-- videos
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 27, 2026 at 10:33 UTC  
+**Last Updated:** April 27, 2026 at 12:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.4%  
+**24h:** -0.1%  
 **7d:** +2.0%  
-**30d:** +17.8%  
+**30d:** +17.9%  
 **90d:** -12.8%  
-**1y:** -18.1%  
+**1y:** -18.0%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[HAL FINNEY: “I was likely the first person after Satoshi to run Bitcoin. I mined block seventy-something and received the first BTC transfer when Satoshi sent me 10 coins as a test. We emailed for days after that, mostly me reporting bugs and him fixing them in real time, almost instantly.”](https://www.reddit.com/r/Bitcoin/comments/1swexh5/hal_finney_i_was_likely_the_first_person_after/)**
 
-16h ago
+18h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 fix the money, fix the world!
 
-12h ago
+14h ago
 
 ---
 
@@ -95,15 +95,15 @@ fix the money, fix the world!
 
 As the title reads I have .1 BTC and buying more each month. If I have $500 extra a month, safe to do $100/week or just 500/month. What would you do?
 
-9h ago
+11h ago
 
 ---
 
-**[I have 100,000 sats](https://www.reddit.com/r/Bitcoin/comments/1swgttu/i_have_100000_sats/)**
+**[Merchants now only need one PoS for bitcoin and fiat.](https://www.reddit.com/r/Bitcoin/comments/1sx0r5v/merchants_now_only_need_one_pos_for_bitcoin_and/)**
 
-Calm down everyone, please. Take a seat. With tears in my eyes I’m honored to announce my achievement. It took a lot of time that I will never get back but bitcoin has given me hope to keep going.
+For a merchant, maintaining multiple payments systems is a pain: multiple orders, inventory, comms, etc. Now all a merchant needs is LNbits. FOSS, easy to run, a cutting-edge merchant stack.
 
-15h ago
+57m ago
 
 ---
 
@@ -111,7 +111,15 @@ Calm down everyone, please. Take a seat. With tears in my eyes I’m honored to 
 
 Stop being broke Scale priority when buying Buy what's needed and not want first Stop pretending to be rich, you lose so much aura Dca if you love dca, buy lump sump every now and then if you're not dcaer Do self custody, it cures your adhd gambler impulses habbit Go outside, yes bro touch some grass and talk to people People love kindness not flexing (the real one) Always be you, stick to your target and stop comparing urself to pigeon Live the moment Absolute cinema
 
-6h ago
+8h ago
+
+---
+
+**[I have 100,000 sats](https://www.reddit.com/r/Bitcoin/comments/1swgttu/i_have_100000_sats/)**
+
+Calm down everyone, please. Take a seat. With tears in my eyes I’m honored to announce my achievement. It took a lot of time that I will never get back but bitcoin has given me hope to keep going.
+
+17h ago
 
 ---
 
@@ -119,7 +127,7 @@ Stop being broke Scale priority when buying Buy what's needed and not want first
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-4h ago
+6h ago
 
 ---
 
@@ -127,31 +135,23 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Ask (and answer!) away! Here are the general rules: If you'd like to learn something, ask. If you'd like to share knowledge, answer. Any question about Bitcoin is fair game. And don't forget to check out /r/BitcoinBeginners You can sort by new to see the latest questions that may not be answered yet.
 
-3h ago
+5h ago
 
 ---
 
-**[Bitcoining is all about shitposting while waiting 200K](https://www.reddit.com/r/Bitcoin/comments/1sw52ko/bitcoining_is_all_about_shitposting_while_waiting/)**
+**[Those were the days. Wished I bought more. I did buy a couple more around that price and I did hodl.](https://www.reddit.com/r/Bitcoin/comments/1swr410/those_were_the_days_wished_i_bought_more_i_did/)**
 
-In this sub, absolute cinema
+My son actually pushed me to buy another full coin at about 9,000. I told him I'd give a quarter of one just for pushing me.
 
-23h ago
-
----
-
-**[Created a new Bitcoin Explorer for bulk searching and exporting](https://www.reddit.com/r/Bitcoin/comments/1swn3h9/created_a_new_bitcoin_explorer_for_bulk_searching/)**
-
-I have been working on a bitcoin explorer in my spare time. This is a fully indexed bitcoin explorer. Its really good for Exporting mass information from multiple addresses. You can search as many addresses as you want in the search and then create an export job. Its been fun to build and learn Rust. It was able to index bitcoin at about 13k transactions per second into psql. There are many upgrades I need to do to this, but I wanted initial opinions or a couple users to stress SQL out some. Try to search 1000 addressess and export 100million rows into CSV and break it. Happy to explain how I did this and the hardware. One thing to note, my site mentions TX count as more of a input/output count not a unique TX count. I will probably change this in the future or display both.
-
-🔗 [chaincanon](https://chaincanon.com/) • 11h ago
+9h ago
 
 ---
 
-**[Bitcoin Analysis](https://www.reddit.com/r/Bitcoin/comments/1swwe0r/bitcoin_analysis/)**
+**[LNbits merchant stack is looking 👌](https://www.reddit.com/r/Bitcoin/comments/1sx0mhw/lnbits_merchant_stack_is_looking/)**
 
-TS Looking for a short term idea
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-3h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=U2W1h4lwl88) • 1h ago
 
 ---
 
@@ -159,25 +159,69 @@ TS Looking for a short term idea
 
 ## Google News: "bitcoin"
 
-**[What next as Bitcoin (BTC) whales go long despite bearish bets piling up](https://www.coindesk.com/markets/2026/04/26/bitcoin-whales-build-long-positions-as-funding-stays-deeply-negative)**
+**[BTC price hits wall at $80,000, one analyst says the pullback is temporary: Crypto Daily](https://www.coindesk.com/daybook-us/2026/04/27/bitcoin-hits-wall-at-usd80-000-one-analyst-says-the-pullback-is-temporary)**
 
-Long bias from the largest perpetual traders on Hyperliquid has built steadily through February, March and April, with the position now leaning aggressively long as bitcoin tags $80,000 and US-Iran talks resume.
+What you need to know for April 27, 2026
 
-CoinDesk • 20h ago
-
----
-
-**[Anthony Scaramucci Questions Bitcoin's Potential Worth As 'Global Requirement' For Cybersecurity](https://finance.yahoo.com/markets/crypto/articles/anthony-scaramucci-questions-bitcoins-potential-233116379.html)**
-
-SkyBridge Capital founder Anthony Scaramucci sparked a conversation on Thursday about Bitcoin’s potential worth if it becomes critical infrastructure for cybersecurity, specifically to counter AI-driven threats. Bitcoin’s Real Worth In an X post, Scaramucci highlighted gold’s $30 trillion valuation and...
-
-Yahoo Finance • 1d ago
+CoinDesk • 1h ago
 
 ---
 
-**[Bitcoin Came So Close to Breaking $80,000. Why It Failed.](https://www.barrons.com/articles/bitcoin-price-today-80000-xrp-ethereum-980ecd68)**
+**[Bitcoin swings below $78,000 after failed breakout as altcoins slide: Crypto Markets Today](https://www.coindesk.com/markets/2026/04/27/bitcoin-reverses-from-usd79-500-as-oil-surge-triggers-broader-crypto-selloff)**
 
-Barron's • 1h ago
+BTC fails at $80,000 and drops 2% as rising oil prices weigh on sentiment, with altcoins leading losses across a volatile session.
+
+CoinDesk • 1h ago
+
+---
+
+**[Bitcoin Supply Shock Incoming? Galaxy CEO Warns ‘Not Enough Supply’ For Michael Saylor’s Buying Strategy](https://finance.yahoo.com/markets/crypto/articles/bitcoin-supply-shock-incoming-galaxy-102710829.html)**
+
+Institutional demand, led by players like Strategy and ETFs, is rapidly absorbing available Bitcoin. Mike Novogratz believes Bitcoin is entering a potential supply squeeze driven ...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin (BTC) Reaches 12-Week High on Iran Deal Optimism](https://www.bloomberg.com/news/articles/2026-04-27/bitcoin-reaches-12-week-high-on-iran-deal-optimism)**
+
+Bloomberg.com • 1h ago
+
+---
+
+**[Bitcoin hands back gains after rallying above $79k; Vegas 2026 summit eyed](https://www.investing.com/news/cryptocurrency-news/bitcoin-hands-back-gains-after-rallying-above-79k-vegas-2026-summit-eyed-4637711)**
+
+Investing.com • 5h ago
+
+---
+
+**[Bitcoin leads $1.2B weekly haul for global crypto funds as institutional demand builds: CoinShares](https://www.theblock.co/post/398938/bitcoin-leads-1-2b-weekly-haul-for-global-crypto-funds-as-institutional-demand-builds-coinshares)**
+
+Improving institutional demand spurred by bitcoin's multi-week high pushed $1.2 billion in weekly flows to crypto funds.
+
+The Block • 2h ago
+
+---
+
+**[It’s ‘Over’—After Devastating Price Crash, Saylor Declares The End Of Bitcoin And Crypto Winter](https://www.forbes.com/sites/digital-assets/2026/04/24/its-over-after-devastating-price-crash-saylor-declares-the-end-of-bitcoin-and-crypto-winter/)**
+
+The bitcoin price crash has wiped more than $1 trillion from the cryptocurrency's market cap...
+
+Forbes • 2d ago
+
+---
+
+**[Bitcoin Price Outshines Gold Again, Powered By Strategy](https://www.investors.com/news/bitcoin-price-outshines-gold-april-2026-strategy-buying-power-mstr-stock/)**
+
+Investor's Business Daily • 2d ago
+
+---
+
+**[Bitcoin Price Wave Down To $40,000 Shows When The Bottom Will Begin](https://www.tradingview.com/news/newsbtc:6e878a888094b:0-bitcoin-price-wave-down-to-40-000-shows-when-the-bottom-will-begin/)**
+
+According to a crypto analyst, the Bitcoin price remains firmly in a bear trend and could be preparing for another major crash to new lows. Using a wave structure, the expert mapped out BTC’s price action during this bearish phase, outlining how he sees the current market developing and where he be…
+
+TradingView • 1d ago
 
 ---
 
@@ -185,53 +229,7 @@ Barron's • 1h ago
 
 Five Big Tech firms report this week. The results could move Bitcoin given its record correlation with Nasdaq stocks
 
-Yahoo Finance • 19h ago
-
----
-
-**[Does Bitcoin Have a "Strategy" Problem?](https://www.fool.com/investing/2026/04/27/does-bitcoin-have-a-strategy-problem/)**
-
-The original digital asset treasury company now controls a substantial portion of Bitcoin's supply.
-
-The Motley Fool • 1h ago
-
----
-
-**[Bitcoin traders eye $90,000 price after Kevin Warsh’s confirmation chances skyrocket. Here’s why](https://www.dlnews.com/articles/markets/why-bitcoin-traders-eye-90k-price-after-kevin-warsh-confirmation-chances-skyrocket/)**
-
-DOJ drops probe into Fed chair Powell. Bitcoin traders are watching the Fed’s regime change.
-
-dlnews.com • 2h ago
-
----
-
-**[Bitcoin (BTC) Reaches 12-Week High on Iran Deal Optimism](https://www.bloomberg.com/news/articles/2026-04-27/bitcoin-reaches-12-week-high-on-iran-deal-optimism)**
-
-Bloomberg • 2h ago
-
----
-
-**[Schiff Warns of 'Death Spiral' in Strategy's Bitcoin Plan](https://bitbo.io/news/schiff-strategy-bitcoin-death-spiral/)**
-
-Peter Schiff argues that Strategy's STRC preferred stock program is structurally unstable, warning that rising dividend obligations will eventually force the company to sell bitcoin or collapse demand for new issuances.
-
-Bitbo • 17h ago
-
----
-
-**[Researcher breaks 15-bit elliptic curve key in 'largest quantum attack,' wins 1 bitcoin bounty from Project Eleven](https://www.theblock.co/post/398792/researcher-breaks-15-bit-elliptic-curve-key-wins-1-bitcoin-bounty-project-eleven)**
-
-Independent researcher Giancarlo Lelli derived a 15-bit elliptic curve key on a publicly accessible quantum computer, Project Eleven said.
-
-The Block • 2d ago
-
----
-
-**[Top Admiral Calls Bitcoin A Tool Of ‘Power Projection’ Amid US-China Clash](https://www.forbes.com/sites/digital-assets/2026/04/26/top-admiral-calls-bitcoin-a-tool-of-power-projection-amid-us-china-clash/)**
-
-Top US Navy Admiral calls bitcoin a tool of "power projection" as the US, China, Iran, and Russia are all leveraging bitcoin to advance their own strategic interests.
-
-Forbes • 23h ago
+Yahoo Finance • 21h ago
 
 ---
 
@@ -251,7 +249,7 @@ Build wallets, issue stablecoins, and move BTC instantly: all natively on Bitcoi
 
 The U.S. military is actively running a Bitcoin node and testing the protocol’s cryptographic architecture as a tool for securing and protecting networks, according to INDOPACOM commander Admiral Samuel Paparo.
 
-⬆️ 5 • 💬 0 • 3d ago • [Bitcoin Magazine](https://bitcoinmagazine.com/news/the-us-military-is-running-a-bitcoin-node)
+⬆️ 5 • 💬 0 • 4d ago • [Bitcoin Magazine](https://bitcoinmagazine.com/news/the-us-military-is-running-a-bitcoin-node)
 
 ---
 
@@ -327,7 +325,7 @@ Bitcoin is not just another asset, it is competing for a $1 quadrillion global s
 
 📺 Simply Bitcoin
 
-👁️ 27K • 👍 2K • 💬 155 • ⏱️ 21:09 • 11h ago
+👁️ 27K • 👍 2K • 💬 155 • ⏱️ 21:09 • 13h ago
 
 ---
 
@@ -347,7 +345,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 5K • 👍 269 • 💬 123 • ⏱️ 9:07 • 9h ago
+👁️ 5K • 👍 269 • 💬 123 • ⏱️ 9:07 • 10h ago
 
 ---
 
@@ -357,7 +355,7 @@ The Crypto Market Is About To Flip... ⭐ Follow Altcoin Daily on X: https://twi
 
 📺 Altcoin Daily
 
-👁️ 37K • 👍 2K • 💬 277 • ⏱️ 9:47 • 15h ago
+👁️ 37K • 👍 2K • 💬 277 • ⏱️ 9:47 • 17h ago
 
 ---
 
@@ -397,7 +395,7 @@ Welcome to Day 1 of Bitcoin 2026 — streaming LIVE from Las Vegas, NV! Industry
 
 📺 Bitcoin 2026 - Las Vegas
 
-👁️ 5K • 👍 6K • 2h ago
+👁️ 5K • 👍 6K • 4h ago
 
 ---
 
@@ -405,7 +403,7 @@ Welcome to Day 1 of Bitcoin 2026 — streaming LIVE from Las Vegas, NV! Industry
 
 📺 CryptoWendyO
 
-👁️ 6K • 👍 340 • 💬 6 • ⏱️ 1:00 • 10h ago
+👁️ 6K • 👍 340 • 💬 6 • ⏱️ 1:00 • 12h ago
 
 ---
 
