@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-27T19:24:40.516570+00:00'
+updated: '2026-04-27T20:39:34.498884+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- news
-- social
 - repositories
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** April 27, 2026 at 19:24 UTC  
+**Last Updated:** April 27, 2026 at 20:39 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Apparently the best defense against AI copying your voice is strawberry mango forklift supersize fries.
 
-3h ago
+4h ago
 
 ---
 
@@ -49,7 +49,7 @@ Apparently the best defense against AI copying your voice is strawberry mango fo
 
 Apologies if this is rather personal for this sub but I feel a need to express how profoundly useful it was for me tonight. A Chatbot very likely just saved my life. I am positively floored by how therapeutic it was in processing the beginning and ending of my relationship with my former spouse. I feel as though I finally can give myself permission to let go and move on with my life. I don’t know what this says about technology and society, but it’s beautiful. Edit: I STILL have a therapist I meet with regularly! No one is saying that therapy can be replaced by Chat GPT prompts. I am merely showing how you can gain expediency and clarity through AI with difficult situations.
 
-17h ago
+18h ago
 
 ---
 
@@ -57,7 +57,7 @@ Apologies if this is rather personal for this sub but I feel a need to express h
 
 I keep hearing that AI will make workers more productive. But the part I don’t understand is this: If one employee can now do the work of three people, why is the default outcome usually: fire two people keep the same workload give the remaining person more pressure send the savings upward Why isn’t the obvious outcome: shorter work weeks higher wages lower prices more time off better services It feels like AI is being sold to the public as “everyone will be more productive,” but implemented by companies as “we need fewer humans.” Maybe I’m missing something, but productivity gains only feel like progress if normal people share in them. Otherwise it’s not really “AI helping workers.” It’s just automation being used as a layoff machine. Do you think AI will actually improve life for workers, or will it mostly just increase profits while making jobs more insecure?
 
-10h ago
+12h ago
 
 ---
 
@@ -65,7 +65,15 @@ I keep hearing that AI will make workers more productive. But the part I don’t
 
 A massive hyperscale data center project in rural Box Elder County, Utah, led by Shark Tank investor Kevin O’Leary through his company O’Leary Digital (also known as the Stratos Project or Wonder Valley), is nearing final approval. The development, spanning about 40,000 acres of private land plus 1,200 acres of military and state-owned property, aims to host hyperscale data centers for tech giants like Amazon, Microsoft, and Google. It would generate its own power via natural gas from the Ruby Pipeline — starting at around 3 gigawatts in the first phase and scaling to 9 gigawatts at full buildout, exceeding Utah’s current statewide electricity consumption. Proponents highlight benefits including 2,000 permanent high-paying jobs, substantial tax revenue for Box Elder County (potentially $30 million initially, rising above $100 million annually), funding for modernization at Hill Air Force Base, and advanced water recycling technology that cleans and returns water to an aquifer feeding the Great Salt Lake, with minimal net usage. To attract the limited pool of hyperscalers, the Military Installation Development Authority (MIDA) has approved aggressive incentives, including slashing the energy use tax from 6% to 0.5%, significant property tax rebates (with 80% initially directed back to the developer), and personal property tax relief on rapidly depreciating equipment. The project still requires final sign-off from the Box Elder County Commission, which rescheduled its vote to Monday morning after commissioners expressed concerns about the rapid timeline and sought more resident input and legal review. O’Leary has praised Utah’s pro-business speed and framed the initiative as critical for U.S. competitiveness against China in AI and data infrastructure.
 
-🔗 [The Salt Lake Tribune](https://www.sltrib.com/news/2026/04/25/hyperscale-data-center-may-be/) • 13h ago
+🔗 [The Salt Lake Tribune](https://www.sltrib.com/news/2026/04/25/hyperscale-data-center-may-be/) • 14h ago
+
+---
+
+**[Agi the dream of the tech world](https://www.reddit.com/r/artificial/comments/1sxelsd/agi_the_dream_of_the_tech_world/)**
+
+What if they get their dream and the AGI, chooses general humanity above the elite.
+
+48m ago
 
 ---
 
@@ -73,15 +81,31 @@ A massive hyperscale data center project in rural Box Elder County, Utah, led by
 
 The potential for catastrophic effects from the AI boom demands robust deliberation and real democratic governance. Localized initiatives like data center moratoria won&#39;t get us there.
 
-🔗 [jacobin.com](https://jacobin.com/2026/04/ai-data-center-moratorium-democracy) • 16h ago
+🔗 [jacobin.com](https://jacobin.com/2026/04/ai-data-center-moratorium-democracy) • 17h ago
 
 ---
 
-**[AI optimists- You believe that unemployment is going to 0%, right?](https://www.reddit.com/r/artificial/comments/1sxdsxe/ai_optimists_you_believe_that_unemployment_is/)**
+**[Project Aurelia — A 3-model architecture (80B + 13B + 9B) that physically reacts to my real-time heart rate via mmWave radar, spatial awareness via Lidar, and Vibration via Accelerometer. All on a Framework Desktop + eGPU](https://www.reddit.com/r/artificial/comments/1sxfot8/project_aurelia_a_3model_architecture_80b_13b_9b/)**
 
-How does what Dario is saying that unemployment is going to 20% if AI is going to be used to solve our problems? AI is a tool for humans to point at problems and solve them. Making humans act less like machine. Good. Making humans afraid that they will lose their income source because of a machine. Bad. This doesn’t make logical sense. Do they not like humans and want to solve their problems? Unemployment is one of our biggest problems. And they are saying that AI can’t fix it? Also, universal job guantee polls higher than universal basic income. Most people like to work and provide value. They don’t like being exploited and living in fear that their livelihood will be erased. What am I missing here AI optimists? AI pessimist? Realists?
+Hey everyone, I’ve been building a multi-agent system in my spare time, and I just open-sourced the repository. I was getting tired of the standard text-in/text-out chat paradigm and wanted to build a genuinely situated AI—one that actually perceives the physical environment and my physiological state in real-time without hitting a single cloud API. Using my Framework 128GB desktop with an amd v620 32GB oculink via minis forum deg1. Repository: [https://github.com/anitherone556-max/Project-Aurelia.git] The TL;DR: Project Aurelia is a completely local, biometric-aware multi-agent architecture. It continuously reads my heart rate, respiration, proximity, and system thermals, translates those metrics into a "biological" state, and injects them into an 80B MoE executive model's behavior loop. The Cognitive Stack & Hardware Setup I’m running this across a split compute setup to guarantee background tasks don't starve the main conversational model: The Executive Cortex (80B MoE - Qwen3-Next-A3B): Runs on a Framework Desktop (Strix Halo) leveraging 96GB of unified system memory to eliminate PCIe bottlenecks. It handles the core reasoning, mood state, and UI delivery. The Sensory Thalamus (9B - Qwen3.5): Also in unified memory. This acts as a signal transduction layer. It takes raw hardware arrays from my sensors and translates them into clinical "biological" observations. (e.g., instead of feeding the 80B "HR: 120", it feeds it "[PULSE]: Spiking. Tense, racing rhythm"). This preserves the AI's persona and hides the hardware numbers. The Subconscious Action Engine (13B): Physically isolated on a Radeon Pro V620 connected via OCuLink. This loops in the background handling autonomous Python execution, web searches, and file parsing. Because it has dedicated silicon, it can run heavy reasoning loops without lagging the 80B. The Sensor Pipeline (The Omni Hub) FMCW mmWave Radar (60GHz): Pulls raw I/Q signal data into a 20-second rolling buffer, using an FFT pipeline to extract my heart rate and respiration. VL53L1X LiDAR: Validates my physical presence and distance at the desk. HWiNFO Shared Memory: Reads actual CPU/GPU thermals. (I built a hardware-gated "Unstable" mood lock—the 80B cannot throw a crisis-level behavioral response unless the actual silicon thermals cross a danger threshold). If my heart rate spikes, the Omni Hub detects the variance and fires a "Thalamic Interrupt" straight into the async orchestrator, forcing the 80B to drop its current task and react to my physiological state instantly. Memory It uses a hybrid RRF (Reciprocal Rank Fusion) memory engine combining ChromaDB for semantic search and SQLite FTS5 for exact BM25 keyword matching. I also built in a mood-congruent retrieval multiplier, so if the 80B shifts into an "Analytical" or "Protective" mood, it preferentially surfaces long-term memories encoded in that same state. I built this solo over the last month. The FFT biometric extraction works well but is susceptible to motion artifacts, so I'm looking into VMD or CNN reconstruction next. I’d love for this community to tear the architecture apart, test the logic, or fork it. Let me know what you think! https://preview.redd.it/w6pouri3bixg1.jpg?width=2160&format=pjpg&auto=webp&s=b8a5a4d60ef51e02888294ef3c60f28c1bfddfbc https://preview.redd.it/7eugari3bixg1.jpg?width=2160&format=pjpg&auto=webp&s=1390690e5f3014a9a00dfd1514690ad26067474b https://preview.redd.it/v72jyqi3bixg1.jpg?width=2160&format=pjpg&auto=webp&s=f220f91ec214dbd3747b288b90823f13111a6a98
 
-1m ago
+11m ago
+
+---
+
+**[Auroch - The Future of AI Memory](https://www.reddit.com/r/artificial/comments/1sxeval/auroch_the_future_of_ai_memory/)**
+
+Auroch Engine is an external memory layer for AI assistants — designed to give models better long-term recall, personalization, and context awareness across conversations. Instead of relying on scattered chat history or fragile built-in memory, Auroch Engine lets users store, retrieve, and organize important context through a dedicated memory API. The goal is simple: make AI feel less like a reset button every session, and more like a tool that actually learns your projects, preferences, workflows, and goals over time. Right now, it’s in early beta. We’re looking for first users who are interested in testing a lightweight developer-facing memory system for AI apps, agents, and personal productivity workflows. Ideal early users are people building with AI, experimenting with agents, or frustrated that their assistant keeps forgetting the important stuff. DM for more information or better visit our site: https://ai-recall-engine-q5viks70j-cartertbirchalls-projects.vercel.app
+
+39m ago
+
+---
+
+**[Ellon musk and others ceos are talking everyday about universal basic income because AI but how long it will take?](https://www.reddit.com/r/artificial/comments/1sxe5y1/ellon_musk_and_others_ceos_are_talking_everyday/)**
+
+In my oppinion it will take 10 or more years. Goverments are slow as hell. I work in a call center in Portugal and they work slow and are very disorganized. Even tho they already use ai. But ai needs to take our job first to have productivity so then they can give us the universal income. I work in a bank call center and I don't see ai taking my job already. Maybe it could but organizations work so slow
+
+1h ago
 
 ---
 
@@ -89,31 +113,7 @@ How does what Dario is saying that unemployment is going to 20% if AI is going t
 
 A ChatGPT AI has proved a conjecture with a method no human had thought of. Experts believe it may have further uses
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/) • 23h ago
-
----
-
-**[Agentic sprawl is becoming a real organizational problem. What does responsible AI agent governance even look like?](https://www.reddit.com/r/artificial/comments/1swwa91/agentic_sprawl_is_becoming_a_real_organizational/)**
-
-Something I've been thinking about that doesn't get discussed enough outside of technical circles: the organizational and safety implications of uncoordinated AI agent deployment. Companies are shipping agents fast. Customer service agents, coding agents, data analysis agents, internal ops agents. Each team builds their own. Each agent gets its own rules, its own permissions, its own behavior. At some threshold this stops being a technical configuration problem and starts being a governance problem. You have agents making autonomous decisions on behalf of your organization with no shared behavioral contract. No unified view of what your AI systems are authorized to do. Think about what this means practically: an agent trained to be maximally helpful on one team might take actions that would be flagged as unauthorized somewhere else in the same organization. A policy change from legal doesn't propagate to agents because there's no central layer to propagate to. Nobody knows which agents have access to what data. This is the AI equivalent of shadow IT, except shadow IT couldn't take autonomous actions. What's the right mental model for governing a fleet of AI agents? Treat each agent like an employee with a defined role and access policy? Build an org chart for agents? Create a behavioral constitution that all agents inherit? Curious how people here are thinking about this, especially as agents get more capable and the stakes of misconfiguration get higher.
-
-12h ago
-
----
-
-**[AI decision review system being trialled in Darwin women's division one cricket competition](https://www.reddit.com/r/artificial/comments/1swxqqj/ai_decision_review_system_being_trialled_in/)**
-
-Darwin's premier women's cricket league becomes the first Australian grade competition to use an artificial intelligence umpire review system.
-
-🔗 [abc.net.au](https://www.abc.net.au/news/2026-04-27/nt-ai-decision-review-system-technology-darwin-cricket/106604718) • 10h ago
-
----
-
-**[Bias in training data on display in weird way](https://www.reddit.com/r/artificial/comments/1sx68et/bias_in_training_data_on_display_in_weird_way/)**
-
-So i was working on this Tabletop roleplaying game project and for my own amusement I told two different video generating ai models to generate "a '90s toy commercial featuring boys and girls of different races in halloween costumes saying "I've got the urge to be a pirate" "ive got the urge to be a ninja!" or spy or whatever they are dressed as" thats it thats the exact prompt, and both of them gave me very different products but both had zero girls, and in both the pirate was a black boy, the ninja an east asian boy, and the spy a white boy. Makes perfect sense in hindsight but I really didn't see it coming and most surprising (for me) is the black child as pirate. Kind of arbitrary but must be reflecting something in the data. Anyway, i found that kinda enlightening, maybe you will too, bye.
-
-4h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/) • 1d ago
 
 ---
 
@@ -125,7 +125,7 @@ So i was working on this Tabletop roleplaying game project and for my own amusem
 
 The move against Manus AI is Beijing’s most aggressive step yet to stanch the loss of AI talent to the U.S., setting up a complicated legal and political fight.
 
-The Washington Post • 14m ago
+The Washington Post • 28m ago
 
 ---
 
@@ -133,63 +133,69 @@ The Washington Post • 14m ago
 
 China said Monday it has decided to block Meta's $2 billion acquisition of Manus, a Singaporean AI startup with Chinese roots.
 
-CNBC • 10h ago
+CNBC • 11h ago
 
 ---
 
-**[Meta pokes holes in China's great AI firewall](https://www.reuters.com/business/finance/meta-pokes-holes-chinas-great-ai-firewall-2026-04-27/)**
+**[China seeks to block US tech giant Meta from AI acquisition](https://www.aljazeera.com/news/2026/4/27/china-blocks-us-tech-giant-meta-from-acquiring-ai-startup-manus)**
 
-Reuters • 8m ago
+Bejing tightens scrutiny of AI industry amid intensifying geopolitical rivalry with the US over the technology.
 
----
-
-**[The AI Splurge Is Costing Big Tech Its Workforce](https://www.wsj.com/tech/ai/the-ai-splurge-is-costing-big-tech-its-workforce-34a88e68)**
-
-WSJ • 9h ago
+Al Jazeera • 11m ago
 
 ---
 
-**[AI is changing how we shop — and when stores actually matter](https://www.axios.com/2026/04/27/ai-shopping-changing-stores-role)**
+**[Taylor Swift files to trademark voice and image after AI concerns](https://www.bbc.com/news/articles/crm1mygrmv2o)**
 
-Axios • 28m ago
+Star lodges applications for a photo and two audio clips in apparent attempt to protect her image and voice.
 
----
-
-**[Elon Musk says saving for retirement is irrelevant because AI is going to create a world of abundance: ‘It won’t matter’](https://finance.yahoo.com/sectors/technology/articles/elon-musk-says-saving-retirement-174705539.html)**
-
-Musk said a "supersonic tsunami" of AI and robotics will bring about a world of zero scarcity.
-
-Yahoo Finance • 1d ago
+BBC • 3h ago
 
 ---
 
-**[Elon Musk and OpenAI CEO Sam Altman head to court in high-stakes showdown over AI](https://apnews.com/article/musk-altman-artificial-intelligence-trial-openai-eb854fa682675f70267abd8a7b9a6a43)**
+**[Taylor Swift files trademarks for voice and image amid concern over AI misuse](https://www.theguardian.com/music/2026/apr/27/taylor-swift-trademarks-voice-image-ai)**
 
-Technology tycoons Elon Musk and Sam Altman are poised to face off in a high-stakes trial revolving around the alleged betrayal, deceit and unbridled ambition that blurred the bickering billionaires’ once-shared vision for the development of artificial intelligence.
+The singer’s company filed three applications on Friday after Matthew McConaughey launched similar strategy
 
-AP News • 23m ago
-
----
-
-**[Altman, Musk and the A.I. Spectacle Come to ‘The Town’](https://www.nytimes.com/2026/04/27/technology/altman-musk-openai-ai-oakland.html)**
-
-The New York Times • 5h ago
+The Guardian • 1h ago
 
 ---
 
-**[Google staff urge chief executive to block US military AI use](https://www.ft.com/content/9270ce04-558c-44e8-816f-a40219cd5007?syn-25a6b1a6=1)**
+**[Taylor Swift Is Filing for Trademarks to Combat AI Misuse. Will It Work?](https://www.hollywoodreporter.com/business/business-news/taylor-swift-filing-for-trademarks-combat-ai-misuse-can-it-work-1236578397/)**
 
-Over 560 employees sign open letter to Sundar Pichai following the Pentagon’s clash with Anthropic
+The singer can hypothetically challenge AI fakes in court pointing to her trademarks, which appear to be emerging as an avenue to protect celebrities' voices and likenesses.
 
-Financial Times • 3h ago
+The Hollywood Reporter • 40m ago
 
 ---
 
-**[Google workers petition CEO to refuse classified AI work with Pentagon](https://www.washingtonpost.com/technology/2026/04/27/google-employees-letter-ai-pentagon/)**
+**[Alabama Supreme Court fines lawyer $17,000 for AI ‘hallucinations’ in legal filings](https://www.al.com/news/2026/04/alabama-supreme-court-fines-lawyer-17000-for-ai-hallucinations-in-legal-filings.html)**
 
-Hundreads of Google employees wrote in a letter to CEO Sundar Pichai that they did not want to see its AI technology used in “inhumane or extremely harmful ways.”
+AL.com • 41m ago
 
-The Washington Post • 1h ago
+---
+
+**[Chief CEO Alison Moore says this is a moment for AI leadership at HumanX](https://qz.com/chief-ceo-says-this-is-a-moment-for-ai-leadership-humanx)**
+
+Chief's chief executive officer Alison Moore says this is a moment for AI leadership at the HumanX AI conference
+
+qz.com • 40m ago
+
+---
+
+**[NYC scraps new AI high school and Manhattan middle school closures after intense pushback](https://www.chalkbeat.org/newyork/2026/04/27/kamar-samuels-pulls-ai-high-school-manhattan-middle-school-closure-plans/)**
+
+Facing community opposition, Chancellor Kamar Samuels nixed plans to open an AI-focused high school, close two Manhattan middle schools, and relocate another.
+
+Chalkbeat • 10h ago
+
+---
+
+**[NYC nixes plan for AI-themed high school after woke backlash to merit-based admissions policy](https://nypost.com/2026/04/27/us-news/nyc-nixes-plan-for-ai-themed-high-school-after-woke-backlash-to-merit-based-admissions/)**
+
+NYC Schools Chancellor Kamar Samuels withdrew a proposal to open a STEM high school in lower Manhattan focusing on AI amid fierce opposition over its “screened” or selective admissions …
+
+New York Post • 48m ago
 
 ---
 
@@ -199,7 +205,7 @@ The Washington Post • 1h ago
 
 **[An AI agent deleted our production database. The agent's confession is below](https://news.ycombinator.com/item?id=47911524)**
 
-⬆️ 811 • 💬 954 • 1d ago • [X (formerly Twitter)](https://twitter.com/lifeof_jer/status/2048103471019434248)
+⬆️ 813 • 💬 963 • 1d ago • [X (formerly Twitter)](https://twitter.com/lifeof_jer/status/2048103471019434248)
 
 ---
 
@@ -207,7 +213,7 @@ The Washington Post • 1h ago
 
 Read about the .
 
-⬆️ 791 • 💬 557 • 23h ago • [koshyjohn.com](https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/)
+⬆️ 798 • 💬 563 • 1d ago • [koshyjohn.com](https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/)
 
 ---
 
@@ -215,7 +221,7 @@ Read about the .
 
 Advanced bio-acoustic analysis for HR, relationships, and personal insights. Trust Your Intuition. Verify It.
 
-⬆️ 336 • 💬 126 • 9h ago • [ORAVYS](https://app.oravys.com/blog/mercor-breach-2026)
+⬆️ 363 • 💬 136 • 10h ago • [ORAVYS](https://app.oravys.com/blog/mercor-breach-2026)
 
 ---
 
@@ -223,7 +229,7 @@ Advanced bio-acoustic analysis for HR, relationships, and personal insights. Tru
 
 If there was any doubt over the brewing public backlash to this technology, the last few weeks have erased it.
 
-⬆️ 274 • 💬 366 • 1d ago • [The New Republic](https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash)
+⬆️ 275 • 💬 366 • 1d ago • [The New Republic](https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash)
 
 ---
 
@@ -231,7 +237,7 @@ If there was any doubt over the brewing public backlash to this technology, the 
 
 Paris-based Mistral wanted to develop a top-tier AI model to rival OpenAI and Anthropic. That didn’t work out. But it turns out lots of folks don’t care if the AI is bleeding edge – as long as it wasn’t made in America or China.
 
-⬆️ 193 • 💬 150 • 9h ago • [Forbes](https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/)
+⬆️ 196 • 💬 155 • 10h ago • [Forbes](https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/)
 
 ---
 
@@ -240,6 +246,14 @@ Paris-based Mistral wanted to develop a top-tier AI model to rival OpenAI and An
 Give any AI agent a persistent memory in minutes. Works with Claude, ChatGPT, Ollama, OpenRouter, and any MCP-compatible agent. Open source, self-hosted, model-agnostic.
 
 ⬆️ 183 • 💬 76 • 2d ago • [Stash](https://alash3al.github.io/stash?_v01)
+
+---
+
+**[China blocks Meta's acquisition of AI startup Manus](https://news.ycombinator.com/item?id=47920315)**
+
+China said Monday it has decided to block Meta's $2 billion acquisition of Manus, a Singaporean AI startup with Chinese roots.
+
+⬆️ 147 • 💬 71 • 8h ago • [CNBC](https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html)
 
 ---
 
@@ -253,7 +267,7 @@ Give any AI agent a persistent memory in minutes. Works with Claude, ChatGPT, Ol
 
 Access 500+ LLMs and expert AI models through one unified API. Route requests by cost, performance, and region with built-in smart routing and fallbacks.
 
-⬆️ 132 • 💬 68 • 1d ago • [edenai.co](https://www.edenai.co)
+⬆️ 133 • 💬 68 • 1d ago • [edenai.co](https://www.edenai.co)
 
 ---
 
@@ -262,14 +276,6 @@ Access 500+ LLMs and expert AI models through one unified API. Route requests by
 There is an implicit contract at the foundation of every database architecture decision you have ever made. You probably never wrote it down. Nobody does. It just… existed.
 
 ⬆️ 110 • 💬 103 • 2d ago • [Arpit Bhayani](https://arpitbhayani.me/blogs/defensive-databases/)
-
----
-
-**[Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft](https://news.ycombinator.com/item?id=47916410)**
-
-Thomas Kurian, Google Cloud’s CEO, says its AI chips and models can help the data centre business gain ground
-
-⬆️ 105 • 💬 107 • 18h ago • [ft.com](https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c)
 
 ---
 
@@ -283,27 +289,7 @@ John Oliver discusses AI chatbots, why they're flirting with users unprompted an
 
 📺 LastWeekTonight
 
-👁️ 1.0M • 👍 51K • 💬 5K • ⏱️ 29:43 • 12h ago
-
----
-
-**[NEW Google Gemini AI Agents are INSANE!](https://www.youtube.com/watch?v=41tvedMfPsY)**
-
-Want to make money and save time with AI? Join here: https://www.skool.com/ai-profit-lab-7462/about Video notes + links to the ...
-
-📺 Julian Goldie SEO
-
-👁️ 460 • 👍 22 • 💬 1 • ⏱️ 8:42 • 3h ago
-
----
-
-**[The 8 AI Tools That Will Change How You Make Money](https://www.youtube.com/watch?v=zL2PIa72gJ4)**
-
-Launch your dream business with the best designs the world has to offer — Design.com: https://go.design.com/cd5msoz I ...
-
-📺 Silicon Valley Girl
-
-👁️ 4K • 👍 242 • 💬 18 • ⏱️ 29:40 • 6h ago
+👁️ 1.3M • 👍 60K • 💬 5K • ⏱️ 29:43 • 14h ago
 
 ---
 
@@ -313,7 +299,27 @@ This video was made with financial support from the Center for AI Safety. What h
 
 📺 Aperture
 
-👁️ 31K • 👍 1K • 💬 138 • ⏱️ 42:31 • 1d ago
+👁️ 33K • 👍 1K • 💬 144 • ⏱️ 42:31 • 1d ago
+
+---
+
+**[New Claude AI just UNLOCKED a High Demand Digital Product!](https://www.youtube.com/watch?v=7yZ0LG5301Q)**
+
+JOIN THE AI PROFIT LAB Where I walk you through building mini web apps AND show you how to actually sell them (even with a ...
+
+📺 Luna Vega
+
+👁️ 2K • 👍 167 • 💬 9 • ⏱️ 17:05 • 6h ago
+
+---
+
+**[Microsoft, OpenAI Sever Their Exclusive AI Pact](https://www.youtube.com/watch?v=N7W1UyebCT0)**
+
+Microsoft and OpenAI have changed the terms of their deal when it comes to selling products. OpenAI can now pursue deals with ...
+
+📺 Bloomberg Television
+
+👁️ 5K • 👍 62 • 💬 13 • ⏱️ 1:48 • 5h ago
 
 ---
 
@@ -323,17 +329,25 @@ LinkedIn at - https://www.linkedin.com/in/eli-etherton-a15362211/
 
 📺 Eli the Computer Guy
 
-👁️ 8K • 👍 608 • 💬 150 • ⏱️ 9:40 • 7h ago
+👁️ 11K • 👍 667 • 💬 183 • ⏱️ 9:40 • 8h ago
 
 ---
 
-**[Trump Got A NASTY AI SURPRISE And It’s Going Viral!](https://www.youtube.com/watch?v=lxN1phhSMZ0)**
+**[AI Agent Fundamentals](https://www.youtube.com/watch?v=GScUjc-A4yE)**
 
-Really American host Steve Harness breaks down Iran SLAMMING Trump with even more AI slop because they've realized that it ...
+Learn the essential AI concepts and basics. We will cover theory and also go over code for building agents. We will cover both ...
 
-📺 Really American
+📺 codebasics
 
-👁️ 895K • 👍 40K • 💬 2K • ⏱️ 13:36 • 1d ago
+👁️ 3K • 👍 169 • 💬 10 • ⏱️ 20:01 • 7h ago
+
+---
+
+**[AI these days… insane 😲 #CELEBRATION](https://www.youtube.com/watch?v=O90oPWlpW18)**
+
+📺 LE SSERAFIM
+
+👁️ 222K • 👍 20K • 💬 165 • ⏱️ 0:12 • 7h ago
 
 ---
 
@@ -343,27 +357,7 @@ TikToker Facing 12 Years Prison for AI Prank CHECK OUT OUR MATS HERE: https://ma
 
 📺 Atozy
 
-👁️ 226K • 👍 10K • 💬 1K • ⏱️ 8:40 • 1d ago
-
----
-
-**[The AI Question that No AI Person Asks](https://www.youtube.com/watch?v=o9Vbvp4awQU)**
-
-I don't think I said this quite clearly enough in this video but I have no idea if AI changes the structure of these problems in any ...
-
-📺 vlogbrothers
-
-👁️ 277K • 👍 17K • 💬 2K • ⏱️ 8:43 • 3d ago
-
----
-
-**[I Let AI Decide Which Trump Officials Could Face PRISON TIME](https://www.youtube.com/watch?v=E_98qdwrBb0)**
-
-PATREON: https://patreon.com/IAskAI/ --------------------------------------------- It's 2029. Trump has left office. I asked AI to play ...
-
-📺 I Ask AI
-
-👁️ 31K • 👍 2K • 💬 403 • ⏱️ 33:22 • 1d ago
+👁️ 231K • 👍 10K • 💬 1K • ⏱️ 8:40 • 1d ago
 
 ---
 
@@ -373,7 +367,17 @@ China is not slowing down and in this video I am breaking down some of the most 
 
 📺 Manny ai
 
-👁️ 4K • 👍 183 • 💬 18 • ⏱️ 10:31 • 1d ago
+👁️ 5K • 👍 193 • 💬 19 • ⏱️ 10:31 • 1d ago
+
+---
+
+**[OpenClaw 4.25: AI Voice Just Changed Everything](https://www.youtube.com/watch?v=f6oX-MP36tw)**
+
+Want to make money and save time with AI? Join here: https://www.skool.com/ai-profit-lab-7462/about Video notes + links to the ...
+
+📺 Julian Goldie SEO
+
+👁️ 4K • 👍 138 • 💬 23 • ⏱️ 13:08 • 7h ago
 
 ---
 
@@ -389,7 +393,7 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 `text-generation` `861.6B`
 
-⬇️ 137,784 • ❤️ 2,998 • 12h ago
+⬇️ 137,784 • ❤️ 3,004 • 13h ago
 
 ---
 
@@ -401,7 +405,7 @@ A bidirectional token-classification model for PII detection and masking, capabl
 
 `token-classification` `1.4B`
 
-⬇️ 47,488 • ❤️ 902 • 5d ago
+⬇️ 47,488 • ❤️ 919 • 5d ago
 
 ---
 
@@ -413,19 +417,7 @@ Qwen3.6-27B is a 27B parameter causal language model with a vision encoder, exce
 
 `image-text-to-text` `27.8B`
 
-⬇️ 399,489 • ❤️ 903 • 3d ago
-
----
-
-**[Kimi-K2.6](https://huggingface.co/moonshotai/Kimi-K2.6)**
-
-*Moonshot AI*
-
-Kimi K2.6 is a 1T parameter multimodal agentic model excelling in long-horizon coding and coding-driven design, capable of generating production-ready interfaces and workflows from prompts and visual inputs. It features an advanced agent swarm for complex task orchestration and proactive autonomous execution.
-
-`image-text-to-text` `1058.6B`
-
-⬇️ 443,440 • ❤️ 1,093 • 4d ago
+⬇️ 399,489 • ❤️ 904 • 3d ago
 
 ---
 
@@ -437,7 +429,19 @@ DeepSeek-V4-Flash is a 284B parameter Mixture-of-Experts language model supporti
 
 `text-generation` `158.1B`
 
-⬇️ 65,743 • ❤️ 774 • 12h ago
+⬇️ 65,743 • ❤️ 776 • 13h ago
+
+---
+
+**[Kimi-K2.6](https://huggingface.co/moonshotai/Kimi-K2.6)**
+
+*Moonshot AI*
+
+Kimi K2.6 is a 1T parameter multimodal agentic model excelling in long-horizon coding and coding-driven design, capable of generating production-ready interfaces and workflows from prompts and visual inputs. It features an advanced agent swarm for complex task orchestration and proactive autonomous execution.
+
+`image-text-to-text` `1058.6B`
+
+⬇️ 443,440 • ❤️ 1,096 • 4d ago
 
 ---
 
@@ -449,7 +453,7 @@ Qwen3.6-27B-GGUF is a 27B parameter causal language model with vision capabiliti
 
 `image-text-to-text` `26.9B`
 
-⬇️ 636,345 • ❤️ 444 • 5d ago
+⬇️ 636,345 • ❤️ 445 • 5d ago
 
 ---
 
@@ -461,7 +465,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with a vision encoder, 
 
 `image-text-to-text` `36.0B`
 
-⬇️ 1,354,032 • ❤️ 1,450 • 3d ago
+⬇️ 1,354,032 • ❤️ 1,451 • 3d ago
 
 ---
 
@@ -473,7 +477,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with vision capabilitie
 
 `image-text-to-text` `34.7B`
 
-⬇️ 1,646,295 • ❤️ 813 • 7d ago
+⬇️ 1,646,295 • ❤️ 818 • 7d ago
 
 ---
 
@@ -483,7 +487,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with vision capabilitie
 
 `1600.8B`
 
-⬇️ 1,265 • ❤️ 228 • 12h ago
+⬇️ 1,265 • ❤️ 228 • 13h ago
 
 ---
 
@@ -495,7 +499,7 @@ LLaDA2.0-Uni is a unified diffusion Large Language Model (dLLM) with a Mixture-o
 
 `any-to-any` `16.3B`
 
-⬇️ 448 • ❤️ 195 • 3d ago
+⬇️ 448 • ❤️ 198 • 3d ago
 
 ---
 
@@ -525,9 +529,21 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 GenericAgent is a self-evolving large language model agent system that maximizes context information density through hierarchical memory, reusable SOPs, and efficient compression to overcome long-horizon limitations.
 
-▲ 12 • 💬 2 • ⭐ 7,659 • 9d ago
+▲ 12 • 💬 2 • ⭐ 7,659 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.17091) • [💻 code](https://github.com/lsdefine/GenericAgent)
+
+---
+
+**[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
+
+*Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
+
+A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
+
+▲ 49 • 💬 2 • ⭐ 53,566 • 16mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
 ---
 
@@ -565,21 +581,9 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from video streams using a geometric context transformer architecture with specialized attention mechanisms for coordinate grounding, dense geometric cues, and long-range drift correction, achieving stable real-time performance at 20 FPS.
 
-▲ 19 • 💬 2 • ⭐ 4,838 • 12d ago
+▲ 19 • 💬 2 • ⭐ 4,838 • 13d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.14141) • [💻 code](https://github.com/robbyant/lingbot-map) • [🔗 project](https://technology.robbyant.com/lingbot-map)
-
----
-
-**[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
-
-*Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
-
-A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
-
-▲ 49 • 💬 2 • ⭐ 53,246 • 16mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
 ---
 
@@ -589,7 +593,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 OpenGame is an open-source agentic framework for end-to-end web game creation that uses specialized code models and evaluation benchmarks to overcome challenges in interactive application development.
 
-▲ 74 • 💬 7 • ⭐ 1,302 • 7d ago
+▲ 74 • 💬 7 • ⭐ 1,382 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.18394) • [💻 code](https://github.com/leigest519/OpenGame) • [🔗 project](https://www.opengame-project-page.com/)
 
@@ -602,7 +606,7 @@ OpenGame is an open-source agentic framework for end-to-end web game creation th
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 54 • 💬 1 • ⭐ 78,277 • 31mo ago
+▲ 54 • 💬 1 • ⭐ 78,325 • 31mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
@@ -616,7 +620,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 LLaDA2.0-Uni is a unified discrete diffusion language model that integrates multimodal understanding and generation through a semantic discrete tokenizer, MoE-based backbone, and diffusion decoder, achieving performance comparable to specialized vision-language models while enabling efficient inference and high-fidelity image generation.
 
-▲ 231 • 💬 2 • ⭐ 574 • 5d ago
+▲ 231 • 💬 2 • ⭐ 574 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.20796) • [💻 code](https://github.com/inclusionAI/LLaDA2.0-Uni)
 
@@ -628,7 +632,7 @@ LLaDA2.0-Uni is a unified discrete diffusion language model that integrates mult
 
 AutoDev is an AI-driven software development framework that automates complex engineering tasks within a secure Docker environment, achieving high performance in code and test generation.
 
-▲ 15 • 💬 2 • ⭐ 15,852 • 25mo ago
+▲ 15 • 💬 2 • ⭐ 15,915 • 25mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2403.08299) • [💻 code](https://github.com/vxcontrol/pentagi)
 
@@ -637,6 +641,106 @@ AutoDev is an AI-driven software development framework that automates complex en
 ---
 
 ## GitHub Repositories: "ai"
+
+**[MemPalace/mempalace](https://github.com/MemPalace/mempalace)**
+
+The best-benchmarked open-source AI memory system. And it's free.
+
+`Python` `ai` `chromadb` `llm` `mcp` `memory`
+
+⭐ 50.0k • 🔱 6.6k • 1h ago
+
+---
+
+**[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)**
+
+🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
+
+`Python` `ai` `anthropic` `caveman` `claude` `claude-code`
+
+⭐ 48.0k • 🔱 2.5k • 9d ago
+
+---
+
+**[santifer/career-ops](https://github.com/santifer/career-ops)**
+
+AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
+
+`JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
+
+⭐ 40.3k • 🔱 8.3k • 14h ago
+
+---
+
+**[safishamsi/graphify](https://github.com/safishamsi/graphify)**
+
+AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or videos into a queryable knowledge graph
+
+`Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
+
+⭐ 36.4k • 🔱 4.0k • 12m ago
+
+---
+
+**[kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)**
+
+A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.
+
+`Python` `ai` `anthropic` `attention` `claude` `claude-ai`
+
+⭐ 10.8k • 🔱 2.4k • 11h ago
+
+---
+
+**[h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)**
+
+The headless browser for AI agents and web scraping
+
+`Rust`
+
+⭐ 7.0k • 🔱 413 • 5h ago
+
+---
+
+**[KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills)**
+
+数字生命卡兹克开源的 AI Skills 合集
+
+`Python`
+
+⭐ 6.2k • 🔱 1.0k • 4d ago
+
+---
+
+**[tvytlx/ai-agent-deep-dive](https://github.com/tvytlx/ai-agent-deep-dive)**
+
+AI Agent 源码深度研究报告
+
+`Python`
+
+⭐ 5.6k • 🔱 1.6k • 15d ago
+
+---
+
+**[therealXiaomanChu/ex-skill](https://github.com/therealXiaomanChu/ex-skill)**
+
+把前任蒸馏成 AI Skill，用ta的方式跟你说话。
+
+`Python`
+
+⭐ 4.8k • 🔱 468 • 19d ago
+
+---
+
+**[yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph)**
+
+Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.
+
+`Python`
+
+⭐ 4.7k • 🔱 424 • 7d ago
+
+---
 
 ---
 

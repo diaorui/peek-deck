@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-27T19:24:40.525024+00:00'
+updated: '2026-04-27T20:39:34.506399+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
 - cryptocurrency
-- news
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 27, 2026 at 19:24 UTC  
+**Last Updated:** April 27, 2026 at 20:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $76,715.22
+### $77,026.32
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.8%  
-**7d:** +0.7%  
-**30d:** +16.3%  
-**90d:** -13.9%  
-**1y:** -19.1%  
+**24h:** -1.7%  
+**7d:** +1.0%  
+**30d:** +16.6%  
+**90d:** -13.7%  
+**1y:** -18.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1538.94B
+**Market Cap:** $1541.57B
 Rank #1
 
-**Circulating Supply:** 20,021,546 BTC
+**Circulating Supply:** 20,021,575 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--39.1%
+-38.9%
 
 **All-Time Low:** $67.81
-+113179.8%
++113455.5%
 
 ---
 
@@ -77,17 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[HAL FINNEY: “I was likely the first person after Satoshi to run Bitcoin. I mined block seventy-something and received the first BTC transfer when Satoshi sent me 10 coins as a test. We emailed for days after that, mostly me reporting bugs and him fixing them in real time, almost instantly.”](https://www.reddit.com/r/Bitcoin/comments/1swexh5/hal_finney_i_was_likely_the_first_person_after/)**
-
-1d ago
-
----
-
 **[Strive Expands Bitcoin Treasury With $61.4 Million Purchase, Holdings Reach 14,557 BTC](https://www.reddit.com/r/Bitcoin/comments/1sx6n7c/strive_expands_bitcoin_treasury_with_614_million/)**
 
 Strive boosted its Bitcoin treasury with a fresh purchase of 789 BTC, valued at roughly $61.43 million.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/strive-expands-bitcoin-treasury) • 4h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/strive-expands-bitcoin-treasury) • 5h ago
+
+---
+
+**[HAL FINNEY: “I was likely the first person after Satoshi to run Bitcoin. I mined block seventy-something and received the first BTC transfer when Satoshi sent me 10 coins as a test. We emailed for days after that, mostly me reporting bugs and him fixing them in real time, almost instantly.”](https://www.reddit.com/r/Bitcoin/comments/1swexh5/hal_finney_i_was_likely_the_first_person_after/)**
+
+1d ago
 
 ---
 
@@ -95,7 +95,7 @@ Strive boosted its Bitcoin treasury with a fresh purchase of 789 BTC, valued at 
 
 As a $1.6 trillion asset with substantial upside, this leading cryptocurrency has drawn the attention of larger pools of capital.
 
-🔗 [The Motley Fool](https://www.fool.com/investing/2026/04/26/institutional-investors-add-bitcoin-balance-sheet/) • 4h ago
+🔗 [The Motley Fool](https://www.fool.com/investing/2026/04/26/institutional-investors-add-bitcoin-balance-sheet/) • 5h ago
 
 ---
 
@@ -103,7 +103,7 @@ As a $1.6 trillion asset with substantial upside, this leading cryptocurrency ha
 
 Im a 37 year old Dad from the Philippines, my son is about to turn 3 years old next month. Is it too late to accumulate or DCA Bitcoin for my son? Considering my budget is 750 pesos($12) per week. So far i accumulated 0.001 bitcoin for him. Plan to give it to him when he reached 27 years old.
 
-5h ago
+6h ago
 
 ---
 
@@ -111,7 +111,7 @@ Im a 37 year old Dad from the Philippines, my son is about to turn 3 years old n
 
 For a merchant, maintaining multiple payments systems is a pain: multiple orders, inventory, comms, etc. Now all a merchant needs is LNbits. FOSS, easy to run, a cutting-edge merchant stack.
 
-8h ago
+9h ago
 
 ---
 
@@ -119,15 +119,7 @@ For a merchant, maintaining multiple payments systems is a pain: multiple orders
 
 fix the money, fix the world!
 
-21h ago
-
----
-
-**[What was the exact moment Bitcoin clicked for you?](https://www.reddit.com/r/Bitcoin/comments/1sx9loz/what_was_the_exact_moment_bitcoin_clicked_for_you/)**
-
-Not the first time you heard about it. Not the first time you bought a little. I mean the moment where something shifted… where it stopped feeling like “internet money” and started feeling like a system that actually made sense. For some people it was a price crash. For others it was learning how the halving works. For some it was self‑custody for the first time. Curious what it was for you.
-
-2h ago
+22h ago
 
 ---
 
@@ -135,15 +127,23 @@ Not the first time you heard about it. Not the first time you bought a little. I
 
 Strategy just added another 3,273 BTC (~$255M at ~$77.9K), bringing their total to 818,334 BTC with an average cost of ~$75.5K and ~9.6% BTC yield YTD. What stands out isn’t just the size – it’s the positioning. Their average entry is now almost exactly where the market is trading. That effectively turns ~$75K into a key structural zone: if price dips below, you’d expect strong demand; if it holds above, their entire position sits in profit, which tends to reinforce bullish continuation. More importantly, this kind of consistent accumulation changes market behavior. When a buyer of this scale is known to step in regularly, pullbacks are less likely to turn into full unwind phases – they get absorbed. Feels less like aggressive speculation and more like systematic positioning at scale. Does this level start acting as a floor, or is the market still too early in the cycle for that?
 
-30m ago
+1h ago
 
 ---
 
-**[How do you personally store your bitcoin safely?](https://www.reddit.com/r/Bitcoin/comments/1sx837b/how_do_you_personally_store_your_bitcoin_safely/)**
+**[What was the exact moment Bitcoin clicked for you?](https://www.reddit.com/r/Bitcoin/comments/1sx9loz/what_was_the_exact_moment_bitcoin_clicked_for_you/)**
 
-Trying to understand how people store bitcoin for the long term. do you prefer hardware wallets, exchanges, or something else? Would like to hear what works best for you.
+Not the first time you heard about it. Not the first time you bought a little. I mean the moment where something shifted… where it stopped feeling like “internet money” and started feeling like a system that actually made sense. For some people it was a price crash. For others it was learning how the halving works. For some it was self‑custody for the first time. Curious what it was for you.
 
 3h ago
+
+---
+
+**[Bitcoin Lightning Is Turning IGaming Payouts Into Rails](https://www.reddit.com/r/Bitcoin/comments/1sxdpr3/bitcoin_lightning_is_turning_igaming_payouts_into/)**
+
+Bitcoin’s Lightning Network is starting to turn iGaming payouts into a native Bitcoin use case, according to a new report from Voltage.
+
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/bitcoin-lightning-turning-igaming-payouts) • 1h ago
 
 ---
 
@@ -151,7 +151,7 @@ Trying to understand how people store bitcoin for the long term. do you prefer h
 
 Curious to hear from people who’ve been in bitcoin for a while. What’s one mistake you made in the beginning that others should avoid?
 
-1h ago
+2h ago
 
 ---
 
@@ -163,7 +163,7 @@ Curious to hear from people who’ve been in bitcoin for a while. What’s one m
 
 Bitcoin's future is not guaranteed, said CEO Fred Thiel at the Bitcoin Conference in Las Vegas.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -175,17 +175,55 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[AI + Bitcoin + Stablecoins Converge: Paystand’s USDb Brings On-Chain B2B Finance To Reality](https://bitcoinmagazine.com/business/paystand-launches-usdb-stablecoin-on-bitcoin-layers-for-100t-b2b-payments)**
+**[For Bitcoin Holders, Aven’s New Credit Card Offers 7.99% Interest Rate](https://www.forbes.com/sites/jeffkauflin/2026/04/27/for-bitcoin-holders-avens-new-credit-card-offers-799-interest-rate/)**
 
-“AI is eating labor. Bitcoin is eating capital. Stablecoins are eating financial services.” Paystand CEO Jeremy Almond just dropped USDb where these forces meet — starting with 90,000+ workers via Bitwage.
+How to generate excitement and demand for a new credit card? A big Silicon Valley fintech is leaning into crypto.
 
-Bitcoin Magazine • 21m ago
+Forbes • 34m ago
+
+---
+
+**[Kalshi Says Bitcoin Payments and Prediction Markets Are Building a New Exchange for Big Money](https://bitcoinmagazine.com/news/kalshi-bitcoin-payments-prediction-markets)**
+
+At the Bitcoin 2026 Conference, John Wang pitched Kalshi as a next-gen exchange where Bitcoin payments and event-based contracts could draw major institutional capital beyond traditional spot markets.
+
+Bitcoin Magazine • 9m ago
+
+---
+
+**[Bitcoin Developer Plans to 'Reassign' Coins Linked to Satoshi Nakamoto in Hard Fork](https://finance.yahoo.com/markets/crypto/articles/bitcoin-developer-plans-reassign-coins-201529807.html)**
+
+Paul Sztorc’s proposed eCash fork would give investors coins cloned from wallets believed to belong to Bitcoin creator Satoshi Nakamoto.
+
+Yahoo Finance • 24m ago
 
 ---
 
 **[Strategy Slows Bitcoin Buying, Switches Back to Common Sales](https://www.bloomberg.com/news/articles/2026-04-27/strategy-slows-bitcoin-buying-switches-back-to-common-sales)**
 
-Bloomberg.com • 6h ago
+Bloomberg.com • 7h ago
+
+---
+
+**[Strategy (MSTR) Is Now All-In on Bitcoin; Cantor Just Raised Its Target Again](https://finance.yahoo.com/markets/crypto/articles/strategy-mstr-now-bitcoin-cantor-141421037.html)**
+
+Strategy Inc. (NASDAQ:MSTR) is one of the best falling stocks to invest in now. On April 21, Cantor Fitzgerald analyst Ramsey El-Assal raised his price target on Strategy Inc. (NASDAQ:MSTR) to $212 from $192, keeping an Overweight rating on the stock. El-Assal said that investor attention is increasingly shifting toward how Strategy is evolving as […]
+
+Yahoo Finance • 6h ago
+
+---
+
+**[Bitcoin drives back toward $80k—but one billionaire may be fueling much of the rally](https://fortune.com/2026/04/27/bitcoin-80k-rally-michael-saylor-strategy/)**
+
+Michael Saylor’s Strategy has purchased $7.7 billion of Bitcoin in March and April
+
+Fortune • 2h ago
+
+---
+
+**[Bitcoin Price Came So Close to Breaking $80,000 but Failed. How the Crypto Can Get There.](https://www.barrons.com/articles/bitcoin-price-today-80000-xrp-ethereum-980ecd68)**
+
+Barron's • 8h ago
 
 ---
 
@@ -193,45 +231,7 @@ Bloomberg.com • 6h ago
 
 27 April 2026 – Tether, the largest company in the digital asset industry, today launched Mining Development Kit (MDK), an open-source, full-stack development framework that gives Bitcoin mining operators and developers unified control over their entire infrastructure stack.  With its open modular architecture and agnostic interfaces, MDK pairs a JavaScript backend SDK with a React […]
 
-Tether.io • 7h ago
-
----
-
-**[Bitcoin leads $1.2B weekly haul for global crypto funds as institutional demand builds: CoinShares](https://www.theblock.co/post/398938/bitcoin-leads-1-2b-weekly-haul-for-global-crypto-funds-as-institutional-demand-builds-coinshares)**
-
-Improving institutional demand spurred by bitcoin's multi-week high pushed $1.2 billion in weekly flows to crypto funds.
-
-The Block • 9h ago
-
----
-
-**[Bitcoin pinned near $78k after brief rally; Vegas 2026 summit eyed](https://www.investing.com/news/cryptocurrency-news/bitcoin-hands-back-gains-after-rallying-above-79k-vegas-2026-summit-eyed-4637711)**
-
-Investing.com • 5h ago
-
----
-
-**[Bitcoin vs. Solana: Which Crypto Is the Better Buy Right Now?](https://www.fool.com/investing/2026/04/27/bitcoin-vs-solana-which-crypto-is-the-better-buy-r/)**
-
-Both of these top cryptocurrencies could soar higher over the next few years.
-
-The Motley Fool • 1h ago
-
----
-
-**[Senators Balk at Board of Peace’s Bitcoin Grift for Gaza](https://www.counterpunch.org/2026/04/27/senators-balk-at-board-of-peaces-bitcoin-grift-for-gaza/)**
-
-Four senators raised doubts April 17 about Donald Trump's stratagems for cryptocurrency, aka a stablecoin, in Gaza. Their press release that day makes
-
-CounterPunch.org • 7h ago
-
----
-
-**[‘The New Gold’—Sudden Fed Update Leaves Bitcoin Braced For A Huge Price Game-Changer](https://www.forbes.com/sites/digital-assets/2026/04/26/the-new-gold-sudden-fed-update-leaves-bitcoin-braced-for-a-huge-price-game-changer/)**
-
-Bitcoin traders and crypto market watchers are scrambling to get ahead of incoming Fed chair Kevin Warsh’s confirmation hearing...
-
-Forbes • 1d ago
+Tether.io • 8h ago
 
 ---
 
@@ -243,7 +243,7 @@ Forbes • 1d ago
 
 Build wallets, issue stablecoins, and move BTC instantly: all natively on Bitcoin. No bridges, no custodians. Start building with Spark's SDKs today.
 
-⬆️ 5 • 💬 1 • 3d ago • [Spark](https://www.spark.money)
+⬆️ 5 • 💬 1 • 4d ago • [Spark](https://www.spark.money)
 
 ---
 
@@ -265,7 +265,7 @@ The quantum threat to Bitcoin keeps inching closer, this time thanks to a resear
 
 **[Bitcoin Is Digging Deeeeeper](https://news.ycombinator.com/item?id=47925278)**
 
-⬆️ 3 • 💬 0 • 1h ago • [alphametrics.substack.com](https://alphametrics.substack.com/p/bitcoin-is-digging-deeper)
+⬆️ 3 • 💬 1 • 2h ago • [alphametrics.substack.com](https://alphametrics.substack.com/p/bitcoin-is-digging-deeper)
 
 ---
 
@@ -279,7 +279,7 @@ The quantum threat to Bitcoin keeps inching closer, this time thanks to a resear
 
 Bitkey is a bitcoin self-custody wallet with an app, hardware device, and built-in recovery, so you keep your private keys without losing access.
 
-⬆️ 1 • 💬 0 • 2h ago • [Bitkey](https://bitkey.world)
+⬆️ 1 • 💬 1 • 3h ago • [Bitkey](https://bitkey.world)
 
 ---
 
@@ -319,33 +319,33 @@ Reporting on Fintech, Crypto, and Blockchain Activity in Africa
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin to $10 Million? | The $1 Quadrillion Market Bitcoin Is About To Devour!](https://www.youtube.com/watch?v=rRD1ZcQI3-w)**
-
-Bitcoin is not just another asset, it is competing for a $1 quadrillion global settlement market. This breakdown shows why value ...
-
-📺 Simply Bitcoin
-
-👁️ 35K • 👍 2K • 💬 338 • ⏱️ 21:09 • 20h ago
-
----
-
 **[Bitcoin Nears $80K...Bulls Back In Control](https://www.youtube.com/watch?v=N4fDKC9aYZA)**
 
 Make FREE Crypto Predictions & Compete Weekly ▻ https://www.clashpicks.com/ Research. Tracking. Charting. All In One AI ...
 
 📺 CryptosRUs
 
-👁️ 10K • 👍 720 • 💬 379 • ⏱️ 51:38 • 4h ago
+👁️ 13K • 👍 808 • 💬 392 • ⏱️ 51:38 • 6h ago
 
 ---
 
-**[Bitcoin Is Front-Running The Collapse Everyone Else Is Ignoring! ( What You MUST Know )](https://www.youtube.com/watch?v=bRIWF7d7mqU)**
+**[Saylor &amp; Tom Lee Buy More Bitcoin &amp; ETH📈Supply Shock Incoming?](https://www.youtube.com/watch?v=fJui5tA7xvo)**
 
-Bitcoin #Crypto #Finance The Strait of Hormuz has been closed for over 60 days in the biggest oil supply shock on record, peace ...
+Michael Saylor's Strategy, the world's largest public Bitcoin holder, added more Bitcoin last week as BTC traded above $77000.
 
-📺 The Wolf Of All Streets
+📺 Paul Barron Network
 
-👁️ 9K • 👍 661 • 💬 243 • ⏱️ 1:01:50 • 5h ago
+👁️ 7K • 👍 907 • 💬 74 • ⏱️ 21:33 • 2h ago
+
+---
+
+**[Bitcoin to $10 Million? | The $1 Quadrillion Market Bitcoin Is About To Devour!](https://www.youtube.com/watch?v=rRD1ZcQI3-w)**
+
+Bitcoin is not just another asset, it is competing for a $1 quadrillion global settlement market. This breakdown shows why value ...
+
+📺 Simply Bitcoin
+
+👁️ 37K • 👍 2K • 💬 342 • ⏱️ 21:09 • 21h ago
 
 ---
 
@@ -355,27 +355,7 @@ Technicals of bitcoin, ethereum and the rest of crypto dont lie! Here is what to
 
 📺 Thomas Kralow
 
-👁️ 5K • 👍 1K • 💬 38 • ⏱️ 11:19 • 5h ago
-
----
-
-**[URGENT: A Major Move Is Coming (Bitcoin &amp; Ethereum)](https://www.youtube.com/watch?v=ie3zMA8ffJw)**
-
-The Crypto Market Is About To Flip... ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit bonus on first ...
-
-📺 Altcoin Daily
-
-👁️ 43K • 👍 3K • 💬 722 • ⏱️ 9:47 • 1d ago
-
----
-
-**[Saylor Just DESTROYED The Bitcoin Bear Market | Why is the US Treasury PANICKING?](https://www.youtube.com/watch?v=V59vk1YKFsY)**
-
-Michael Saylor is buying at a pace that could trigger a historic Bitcoin supply shock. At the same time, the Bank of England is ...
-
-📺 Simply Bitcoin
-
-👁️ 22K • 👍 2K • 💬 113 • ⏱️ 20:53 • 1d ago
+👁️ 10K • 👍 754 • 💬 40 • ⏱️ 11:19 • 6h ago
 
 ---
 
@@ -385,7 +365,47 @@ Bitcoin closed above the 20 week last night, but hardly. It's a good first step 
 
 📺 Crypto Capital Venture
 
-👁️ 3K • 👍 376 • 💬 190 • ⏱️ 12:51 • 4h ago
+👁️ 6K • 👍 518 • 💬 220 • ⏱️ 12:51 • 5h ago
+
+---
+
+**[Saylor Just DESTROYED The Bitcoin Bear Market | Why is the US Treasury PANICKING?](https://www.youtube.com/watch?v=V59vk1YKFsY)**
+
+Michael Saylor is buying at a pace that could trigger a historic Bitcoin supply shock. At the same time, the Bank of England is ...
+
+📺 Simply Bitcoin
+
+👁️ 23K • 👍 2K • 💬 114 • ⏱️ 20:53 • 1d ago
+
+---
+
+**[Did Michael Saylor Lose Control of Bitcoin? (Why is it dumping?) | EP 1491](https://www.youtube.com/watch?v=Luc6LzeiaK0)**
+
+Michael Saylor announces another bitcoin buy but price is dumping - whats going on?
+
+📺 Simply Bitcoin
+
+👁️ 3K • 👍 221 • 💬 56 • ⏱️ 1:19:18 • 2h ago
+
+---
+
+**[URGENT: A Major Move Is Coming (Bitcoin &amp; Ethereum)](https://www.youtube.com/watch?v=ie3zMA8ffJw)**
+
+The Crypto Market Is About To Flip... ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit bonus on first ...
+
+📺 Altcoin Daily
+
+👁️ 44K • 👍 3K • 💬 723 • ⏱️ 9:47 • 1d ago
+
+---
+
+**[Bitcoin is Stealing Treasury Demand (Money Youtube Misses This)](https://www.youtube.com/watch?v=tv9KaW3TqWA)**
+
+1. Join Us for a Small Gathering at the Intersection of Financial Wellness and Physical Wellness November 3-5, 2026 at Murrieta ...
+
+📺 Brian Harrington
+
+👁️ 366 • 👍 47 • 💬 4 • ⏱️ 9:54 • 2h ago
 
 ---
 
@@ -395,27 +415,7 @@ Kevin Warsh may be the next Fed Chair, and the real question is simple: when doe
 
 📺 Swan Bitcoin
 
-👁️ 16K • 👍 733 • 💬 48 • ⏱️ 11:16 • 1d ago
-
----
-
-**[A Generational Crypto Buying Opportunity Has Begun](https://www.youtube.com/watch?v=h4p4pKrFbWs)**
-
-Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=AltcoinDaily Grab Tickets to BTC Conference ...
-
-📺 Altcoin Daily
-
-👁️ 40K • 👍 2K • 💬 297 • ⏱️ 8:58 • 1d ago
-
----
-
-**[$10M Bitcoin NOW - No Bitcoin Left](https://www.youtube.com/watch?v=U2k-hnW5ry0)**
-
-Subscribe. Because when it clicks… price won't wait. BlackRock and Michael Saylor are now competing for the same Bitcoin.
-
-📺 Bitcoin News Alerts
-
-👁️ 5K • 👍 304 • 💬 152 • ⏱️ 21:39 • 20h ago
+👁️ 16K • 👍 744 • 💬 49 • ⏱️ 11:16 • 1d ago
 
 ---
 
