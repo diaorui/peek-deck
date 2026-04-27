@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-27T02:52:09.903722+00:00'
+updated: '2026-04-27T05:55:58.414488+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
-- social
 - cryptocurrency
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 27, 2026 at 02:52 UTC  
+**Last Updated:** April 27, 2026 at 05:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,40 +38,40 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $79,208.13
+### $78,302.25
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.2%  
-**7d:** +3.6%  
-**30d:** +19.7%  
-**90d:** -11.4%  
-**1y:** -16.7%  
+**24h:** -0.2%  
+**7d:** +2.0%  
+**30d:** +17.8%  
+**90d:** -12.8%  
+**1y:** -18.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1583.66B
+**Market Cap:** $1557.77B
 Rank #1
 
-**Circulating Supply:** 20,021,265 BTC
+**Circulating Supply:** 20,021,312 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--37.3%
+-38.3%
 
 **All-Time Low:** $67.81
-+116548.0%
++114639.7%
 
 ---
 
 ## Fear & Greed Index
 
-### 33
-**FEAR**
+### 47
+**NEUTRAL**
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 fix the money, fix the world!
 
-4h ago
+8h ago
 
 ---
 
 **[HAL FINNEY: “I was likely the first person after Satoshi to run Bitcoin. I mined block seventy-something and received the first BTC transfer when Satoshi sent me 10 coins as a test. We emailed for days after that, mostly me reporting bugs and him fixing them in real time, almost instantly.”](https://www.reddit.com/r/Bitcoin/comments/1swexh5/hal_finney_i_was_likely_the_first_person_after/)**
 
-8h ago
+11h ago
 
 ---
 
@@ -95,7 +95,7 @@ fix the money, fix the world!
 
 As the title reads I have .1 BTC and buying more each month. If I have $500 extra a month, safe to do $100/week or just 500/month. What would you do?
 
-2h ago
+5h ago
 
 ---
 
@@ -103,7 +103,15 @@ As the title reads I have .1 BTC and buying more each month. If I have $500 extr
 
 Calm down everyone, please. Take a seat. With tears in my eyes I’m honored to announce my achievement. It took a lot of time that I will never get back but bitcoin has given me hope to keep going.
 
-7h ago
+10h ago
+
+---
+
+**[The key of having more bitcoins](https://www.reddit.com/r/Bitcoin/comments/1swsbge/the_key_of_having_more_bitcoins/)**
+
+Stop being broke Scale priority when buying Buy what's needed and not want first Stop pretending to be rich, you lose so much aura Dca if you love dca, buy lump sump every now and then if you're not dcaer Do self custody, it cures your adhd gambler impulses habbit Go outside, yes bro touch some grass and talk to people People love kindness not flexing (the real one) Always be you, stick to your target and stop comparing urself to pigeon Live the moment Absolute cinema
+
+2h ago
 
 ---
 
@@ -111,7 +119,7 @@ Calm down everyone, please. Take a seat. With tears in my eyes I’m honored to 
 
 In this sub, absolute cinema
 
-15h ago
+18h ago
 
 ---
 
@@ -119,15 +127,7 @@ In this sub, absolute cinema
 
 I have been working on a bitcoin explorer in my spare time. This is a fully indexed bitcoin explorer. Its really good for Exporting mass information from multiple addresses. You can search as many addresses as you want in the search and then create an export job. Its been fun to build and learn Rust. It was able to index bitcoin at about 13k transactions per second into psql. There are many upgrades I need to do to this, but I wanted initial opinions or a couple users to stress SQL out some. Try to search 1000 addressess and export 100million rows into CSV and break it. Happy to explain how I did this and the hardware. One thing to note, my site mentions TX count as more of a input/output count not a unique TX count. I will probably change this in the future or display both.
 
-🔗 [chaincanon](https://chaincanon.com/) • 3h ago
-
----
-
-**[Great interview with Lyn Alden on ‘How To Fix Our Money’](https://www.reddit.com/r/Bitcoin/comments/1swc6pw/great_interview_with_lyn_alden_on_how_to_fix_our/)**
-
-On of my favorite voices in the space. Gives foundational level of the history of money and challenges then ties it into the Bitcoin thesis.
-
-🔗 [open.substack.com](https://open.substack.com/pub/cws/p/how-to-fix-our-money?utm_campaign=post&utm_medium=web) • 10h ago
+🔗 [chaincanon](https://chaincanon.com/) • 6h ago
 
 ---
 
@@ -135,15 +135,15 @@ On of my favorite voices in the space. Gives foundational level of the history o
 
 Everyone says the rule of thumb is 1 million + sats or every 1k. Is that still a good rule of thumb or should I stack a little more until sending to hardware wallet? I just got my hardware wallet the jade plus by Blockstream. Need to set up and test recovery. Hate to say it but I have 0.50 needing to self custody asap. Also regarding 12 vs 24 seed phrase which is better?
 
-2h ago
+5h ago
 
 ---
 
-**[Satoshi Nakamoto (October 4, 2010) on implementing a block size increase](https://www.reddit.com/r/Bitcoin/comments/1swr4o1/satoshi_nakamoto_october_4_2010_on_implementing_a/)**
+**[Great interview with Lyn Alden on ‘How To Fix Our Money’](https://www.reddit.com/r/Bitcoin/comments/1swc6pw/great_interview_with_lyn_alden_on_how_to_fix_our/)**
 
-"It can be phased in, like: if (blocknumber > 115000) maxblocksize = largerlimit It can start being in versions way ahead, so by the time it reaches that block number and goes into effect, the older versions that don't have it are already obsolete. When we're near the cutoff block number, I can put an alert to old versions to make sure they know they have to upgrade." — Satoshi Nakamoto (2010)
+On of my favorite voices in the space. Gives foundational level of the history of money and challenges then ties it into the Bitcoin thesis.
 
-12m ago
+🔗 [open.substack.com](https://open.substack.com/pub/cws/p/how-to-fix-our-money?utm_campaign=post&utm_medium=web) • 13h ago
 
 ---
 
@@ -161,7 +161,29 @@ Everyone says the rule of thumb is 1 million + sats or every 1k. Is that still a
 
 Some bitcoin advocates argue freezing dormant coins would set a dangerous precedent, while others say failing to act could pose greater risks.
 
-CoinDesk • 12h ago
+CoinDesk • 15h ago
+
+---
+
+**[Bitcoin (BTC) Reaches 12-Week High on Iran Deal Optimism](https://www.bloomberg.com/news/articles/2026-04-27/bitcoin-reaches-12-week-high-on-iran-deal-optimism)**
+
+Bloomberg.com • 1h ago
+
+---
+
+**[Why Bitcoin’s Latest Breakout Attempt Could Fail on a US Demand Problem](https://finance.yahoo.com/markets/crypto/articles/why-bitcoin-latest-breakout-attempt-051712226.html)**
+
+Bitcoin price tests breakout at $79,510, but Coinbase Premium drop, RSI divergence, and weak short-squeeze fuel signal US demand is fading.
+
+Yahoo Finance • 38m ago
+
+---
+
+**[Bitcoin price: BTC pulls back from 12-week high as Iran rally hits seller wall at $79,400](https://www.coindesk.com/markets/2026/04/27/bitcoin-pulls-back-from-12-week-high-as-iran-rally-hits-seller-wall-at-usd79-400)**
+
+Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.
+
+CoinDesk • 6m ago
 
 ---
 
@@ -173,47 +195,17 @@ The Block • 2d ago
 
 ---
 
-**[Bitcoin might be at risk from a new quantum math trick that breaks digital ownership](https://www.coindesk.com/tech/2026/04/25/clock-is-ticking-for-bitcoin-to-prevent-quantum-threat-as-it-could-drain-6-9-million-btc-including-satoshi-s)**
+**[Schiff Warns of 'Death Spiral' in Strategy's Bitcoin Plan](https://bitbo.io/news/schiff-strategy-bitcoin-death-spiral/)**
 
-Can a network without formal governance coordinate the biggest cryptographic migration in its history?
+Peter Schiff argues that Strategy's STRC preferred stock program is structurally unstable, warning that rising dividend obligations will eventually force the company to sell bitcoin or collapse demand for new issuances.
 
-CoinDesk • 1d ago
-
----
-
-**[Quantum attack breaks crypto key 512x larger than last record. Is Bitcoin ready?](https://finance.yahoo.com/markets/crypto/articles/quantum-attack-breaks-crypto-key-211813708.html)**
-
-Giancarlo Lelli performed the largest known quantum attack on Bitcoin’s encryption model. His feat is a 512-fold jump from the previous record. Bitcoin enthusiasts are scrambling for ideas to deal with the quantum computing threat.
-
-Yahoo Finance • 2d ago
-
----
-
-**[1 Reason Bitcoin Could Still Make You a Retirement Millionaire](https://finance.yahoo.com/markets/crypto/articles/1-reason-bitcoin-could-still-164100523.html)**
-
-If history is any guide, Bitcoin is capable of doubling in value on a regular basis.
-
-Yahoo Finance • 10h ago
-
----
-
-**[Bitcoin’s Stealth Rally Has Traders Setting Sights on $80,000](https://www.bloomberg.com/news/articles/2026-04-25/bitcoin-s-stealth-rally-has-traders-setting-sights-on-80-000)**
-
-Bloomberg.com • 1d ago
+Bitbo • 12h ago
 
 ---
 
 **[Bitcoin holds steady as institutional derivatives hit new milestone](https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-steady-as-institutional-derivatives-reach-new-milestone-4637419)**
 
-Investing.com • 23h ago
-
----
-
-**[Bitcoin Sees Renewed Demand From US Institutional Players — What’s Changing?](https://www.tradingview.com/news/newsbtc:fb8480b28094b:0-bitcoin-sees-renewed-demand-from-us-institutional-players-what-s-changing/)**
-
-According to an on-chain analyst, Bitcoin has been witnessing a shift in investor behavior in one of its major markets, the United States. This shift in its market dynamics, according to the market pundit, might be key to sustaining the flagship cryptocurrency’s ongoing rally.Coinbase Premium Flips…
-
-TradingView • 4h ago
+Investing.com • 1d ago
 
 ---
 
@@ -221,7 +213,15 @@ TradingView • 4h ago
 
 Top US Navy Admiral calls bitcoin a tool of "power projection" as the US, China, Iran, and Russia are all leveraging bitcoin to advance their own strategic interests.
 
-Forbes • 15h ago
+Forbes • 18h ago
+
+---
+
+**[Analyst Who Called Bitcoin’s Top Correctly Now Predicting The Bottom](https://www.tradingview.com/news/newsbtc:a5832a4ca094b:0-analyst-who-called-bitcoin-s-top-correctly-now-predicting-the-bottom/)**
+
+Bitcoin has spent April staging a recovery from its March lows, briefly climbing back above $79,000. However, not everyone is convinced of the rebound, and some analysts believe the move is only a mid-bear-market rally before a deeper correction.One such analyst is one that previously predicted a c…
+
+TradingView • 15h ago
 
 ---
 
@@ -325,7 +325,7 @@ Bitcoin is not just another asset, it is competing for a $1 quadrillion global s
 
 📺 Simply Bitcoin
 
-👁️ 10K • 👍 1K • 💬 94 • ⏱️ 21:09 • 3h ago
+👁️ 19K • 👍 2K • 💬 126 • ⏱️ 21:09 • 6h ago
 
 ---
 
@@ -335,7 +335,7 @@ Michael Saylor is buying at a pace that could trigger a historic Bitcoin supply 
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 2K • 💬 103 • ⏱️ 20:53 • 1d ago
+👁️ 20K • 👍 2K • 💬 104 • ⏱️ 20:53 • 1d ago
 
 ---
 
@@ -345,7 +345,17 @@ Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=Al
 
 📺 Altcoin Daily
 
-👁️ 37K • 👍 2K • 💬 171 • ⏱️ 8:58 • 1d ago
+👁️ 38K • 👍 2K • 💬 237 • ⏱️ 8:58 • 1d ago
+
+---
+
+**[URGENT: A Major Move Is Coming (Bitcoin &amp; Ethereum)](https://www.youtube.com/watch?v=ie3zMA8ffJw)**
+
+The Crypto Market Is About To Flip... ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit bonus on first ...
+
+📺 Altcoin Daily
+
+👁️ 31K • 👍 2K • 💬 165 • ⏱️ 9:47 • 11h ago
 
 ---
 
@@ -355,17 +365,7 @@ Kevin Warsh may be the next Fed Chair, and the real question is simple: when doe
 
 📺 Swan Bitcoin
 
-👁️ 13K • 👍 649 • 💬 46 • ⏱️ 11:16 • 1d ago
-
----
-
-**[Bitcoin’s Biggest Recovery Is Starting… Crypto Winter Is Over](https://www.youtube.com/watch?v=ST_kzwgxrSI)**
-
-Make FREE Crypto Predictions & Compete Weekly on ClashPicks ▻ https://www.clashpicks.com/ **Exchange Partners** ...
-
-📺 CryptosRus Extra
-
-👁️ 7K • 👍 341 • 💬 176 • ⏱️ 8:10 • 1d ago
+👁️ 14K • 👍 667 • 💬 47 • ⏱️ 11:16 • 1d ago
 
 ---
 
@@ -375,27 +375,7 @@ Gareth uses it! Download Rumble Wallet now and enjoy the benefits of financial a
 
 📺 Gareth Soloway
 
-👁️ 62K • 👍 4K • 💬 368 • ⏱️ 10:41 • 1d ago
-
----
-
-**[Why Bitcoin WINS No Matter What Happens to Inflation](https://www.youtube.com/watch?v=OisxT95bkk8)**
-
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
-
-📺 Anthony Pompliano
-
-👁️ 53K • 👍 2K • 💬 53 • ⏱️ 57:11 • 1d ago
-
----
-
-**[Mark Moss: The 50-Year Cycle Pointing to Bitcoin&#39;s Biggest Bull Run | BM Podcast Ep 8](https://www.youtube.com/watch?v=Cw7Wnw0GyOM)**
-
-Mark Moss is an optimist and he makes a compelling case for why Bitcoin holders should be too. In this Bitcoin Magazine Podcast ...
-
-📺 Bitcoin Magazine
-
-👁️ 14K • 👍 506 • 💬 33 • ⏱️ 59:02 • 2d ago
+👁️ 63K • 👍 4K • 💬 304 • ⏱️ 10:41 • 1d ago
 
 ---
 
@@ -405,7 +385,7 @@ THEY ARE PREDICTING - $500K BITCOIN, $40K ETHEREUM, AND $50 XRP BY THIS DATE! GE
 
 📺 Austin Hilton
 
-👁️ 13K • 👍 580 • 💬 31 • ⏱️ 9:47 • 1d ago
+👁️ 13K • 👍 589 • 💬 62 • ⏱️ 9:47 • 1d ago
 
 ---
 
@@ -415,7 +395,25 @@ In this video, we take a look at how Heikin-Ashi candles can help remove some of
 
 📺 Benjamin Cowen
 
-👁️ 63K • 👍 4K • 💬 244 • ⏱️ 23:18 • 22h ago
+👁️ 66K • 👍 4K • 💬 249 • ⏱️ 23:18 • 1d ago
+
+---
+
+**[BITCOIN AND STOCKS PUMPING](https://www.youtube.com/watch?v=ylcwR8CDWi4)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
+
+📺 My Financial Friend
+
+👁️ 3K • 👍 244 • 💬 134 • ⏱️ 9:07 • 4h ago
+
+---
+
+**[HUGE BITCOIN BREAKOUT XRP AND CRYPTO IS NEXT #crypto #bitcoin #xrp](https://www.youtube.com/watch?v=wwuQ2VJy8dA)**
+
+📺 CryptoWendyO
+
+👁️ 5K • 👍 281 • 💬 4 • ⏱️ 1:00 • 5h ago
 
 ---
 
