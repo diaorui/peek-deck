@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-27T20:39:34.514413+00:00'
+updated: '2026-04-27T21:54:06.347987+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** April 27, 2026 at 20:39 UTC  
+**Last Updated:** April 27, 2026 at 21:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 We're open-sourcing Asimov v1, a humanoid robot. We're releasing the mechanical design files and simulation model for a full-size humanoid robot. So you can build it, customize it, and train on it. Asimov v1 is 1.2 m tall, 35 kg, with 25 actuated degrees of freedom. Structural parts machined in 7075 aluminium and 3D-printed in MJF PA12 nylon. Height: 1.2 m Weight: 35 kg Degrees of Freedom: 25 actuated + 2 passive Legs: 6 DOF x 2 + toe x 2 Arms: 5 DOF x 2 (shoulder pitch/roll/yaw, elbow, wrist yaw) Torso: 1 DOF waist yaw, 10 W 4 ohm speaker, 6 DOF IMU Head: 2 DOF neck (neck yaw, neck pitch), Quad microphone array, 2MP monocular camera CAN Bus: 5 @ 1Mbps + 1 @ 500kbps Onboard Compute: Raspberry Pi 5 (media + network) + Radxa CM5 (motion control) Structural Materials: 7075 aluminium, MJF PA12 nylon The simulation model runs on MuJoCo. 25 actuated joints, 28 link meshes, friction-tuned foot contacts. Ready for locomotion policy training out of the box. Links: GitHub: github.com/asimovinc/asimov-v1 User Manual: manual.asimov.inc Most humanoid robots are controlled by the companies that build them. Asimov v1 is built for the rest of us. Build it, test it, and share your feedback with the community.
 
-10h ago
+11h ago
 
 ---
 
@@ -44,7 +44,7 @@ We're open-sourcing Asimov v1, a humanoid robot. We're releasing the mechanical 
 
 Here is their website OpenEXO. Perhaps it can help you build your first exoskeleton. They are currently developing and updating a new generation of exoskeletons.
 
-11h ago
+12h ago
 
 ---
 
@@ -52,7 +52,7 @@ Here is their website OpenEXO. Perhaps it can help you build your first exoskele
 
 I’ve been experimenting with biomimetic propulsion using a soft robotic fish actuated by SMA springs. I built a MATLAB model to simulate the tail motion and developed a controller that computes how each SMA should heat/contract to follow a desired trajectory. The goal is to understand stability and motion before building the real prototype. The physical prototype is now assembled and ready for testing. Still a work in progress, but it’s been a fun mix of soft robotics, kinematics, and control ⚙️🐬.
 
-8h ago
+9h ago
 
 ---
 
@@ -60,7 +60,7 @@ I’ve been experimenting with biomimetic propulsion using a soft robotic fish a
 
 Professor Ranjay Krishna explains a gap between modern AI and robotics. Language models can take examples, adapt to new inputs, and improve output in real time. That behavior does not translate to physical systems. In robotics, if a task changes even slightly, the system often fails. A different object, a new position, or a small variation in the environment can break what it learned. The idea of showing a robot how to do something once and having it learn by watching is still out of reach. Research areas like imitation learning and continual learning have not solved this in real-world settings.
 
-7h ago
+9h ago
 
 ---
 
@@ -68,7 +68,7 @@ Professor Ranjay Krishna explains a gap between modern AI and robotics. Language
 
 So this is a project I built a while ago and put on hold while I plan some upgrades. I just wanted to share it with the community and some things I've learned/experienced along the way. Build details are here: https://www.hackster.io/ian-hong/completely-custom-built-5-axis-robot-arm-515001 Kinematics The frame assignment of the D-H method is quite painful and every resource online has a slightly different (and sometimes ambiguous) explanation, but none was 100% correct. To solve the inverse kinematics analytically, you can decouple the first 3 joints (responsible for position) and the wrist joints (responsible for rotation). Pure position control is not sufficient for smooth motions because each joint moves a different amount. Hardware 3D printed parts are not as accurate as I would have liked. A snug fit in the bearings would sometimes cause the joints to lock up because they rotate slightly eccentrically. The backlash in the servo gears are not to be underestimated. Turning them by hand, they feel solid, but when you have a 100mm+ lever arm to it, you really notice the backlash and it compounds. Sometimes this backlash would cause the arm to oscillate because it can't reach the target position exactly without overcompensating in the opposite direction. Communication This is where I learned about binary protocols (you might remember my article from last week). Anyway, there are more fun features to be implemented (like an actual gripper) and improvements to be made. For all of you who built your own robot arm, what do you use it for and what challenges did you run into?
 
-18h ago
+19h ago
 
 ---
 
@@ -76,7 +76,7 @@ So this is a project I built a while ago and put on hold while I plan some upgra
 
 (I am not form robotics backgroudn but mainly on the computer vision side) Curious how people are representing indoor spaces in a way that’s usable for higher-level reasoning. Not talking about navigation, but a secondary system that IDs the same space corectly and maitnains any memories or just help robot with understanding spatial arangeemnt of floors (floorplans). answering questions like: what are the human-defined spaces here? (rooms, zones, etc.) what spaces are adjacent / connected? how do you tie llm memory or events to a location in a building? how do you encode things like access rules or preferred paths (e.g. time-based flows)? Why I am asking: I am building a MCP server over floorplan geoemtry + topology (can opensource it), and want to see how useful udnerstading a floorplan as defined by humans IS for robots
 
-12h ago
+13h ago
 
 ---
 
@@ -90,7 +90,7 @@ So this is a project I built a while ago and put on hold while I plan some upgra
 
 Ukraine’s military is increasingly using robots to replace human soldiers, even in combat assault missions, helping to counter Russia’s manpower advantage.
 
-🔗 [CNN](https://edition.cnn.com/2026/04/20/europe/robots-ukraine-battlefield-drones-intl-cmd) • 15h ago
+🔗 [CNN](https://edition.cnn.com/2026/04/20/europe/robots-ukraine-battlefield-drones-intl-cmd) • 16h ago
 
 ---
 
@@ -98,7 +98,7 @@ Ukraine’s military is increasingly using robots to replace human soldiers, eve
 
 Looking for perspectives from people working on production robotics systems. How is charging typically handled at scale? From what I’ve seen, it’s mostly: - run until low battery → return to a dock - or manual battery swaps Curious: - is charging/downtime actually a bottleneck in real deployments? - or is it generally a solved part of the workflow? Also hearing that “fast charging is critical,” but not sure if that’s driven by real constraints or just preference. Would appreciate input from anyone working on robotics, autonomy, or fleet operations.
 
-2h ago
+3h ago
 
 ---
 
@@ -118,7 +118,7 @@ Robotics as a discipline is already hard enough, but what nobody ever talks abou
 
 Inside the enduring appeal of machines that look, move, and increasingly think like humans.
 
-National Geographic • 9h ago
+National Geographic • 10h ago
 
 ---
 
@@ -126,7 +126,7 @@ National Geographic • 9h ago
 
 The recent capture of a Russian position using ground robots is a milestone for the use of machines in warfare.
 
-The Conversation • 7h ago
+The Conversation • 8h ago
 
 ---
 
@@ -140,7 +140,15 @@ Global Times • 1d ago
 
 **[AI Startup Sereact Raises $110 Million for Robots That Predict Consequences](https://www.bloomberg.com/news/articles/2026-04-27/ai-startup-sereact-raises-110-million-for-robots-that-predict-consequences)**
 
-Bloomberg.com • 16h ago
+Bloomberg.com • 17h ago
+
+---
+
+**[Video: Boston Dynamics’ Spot robot dog gets AI power for nonstop patrols, asset tracking](https://interestingengineering.com/ai-robotics/robot-guard-dogs-patrols)**
+
+DroneDog blends Spot and PupPack for 24/7 patrols, detecting threats and tracking assets to reduce site theft and damage.
+
+Interesting Engineering • 11h ago
 
 ---
 
@@ -148,7 +156,7 @@ Bloomberg.com • 16h ago
 
 Tesla’s Q1’26 TSLA results show rising gross margins and 117% YoY free cash flow growth as it pivots to AI/robotics. Learn more about TSLA stock here.
 
-Seeking Alpha • 10h ago
+Seeking Alpha • 12h ago
 
 ---
 
@@ -168,11 +176,11 @@ SciTechDaily • 1d ago
 
 ---
 
-**[Faraday Future opens its robot-building platform to kids and engineers](https://www.stocktitan.net/news/FFAI/faraday-future-founder-and-co-ceo-yt-jia-shares-weekly-investor-2dnrnqpq8gzu.html)**
+**[Slidell robotics team wins first place at regional underwater competition](https://www.fox8live.com/2026/04/27/slidell-robotics-team-wins-first-place-regional-underwater-competition/)**
 
-BIBS signed an MOU to form an AI and Robotics Institute aimed at training AI talent. FF said April robot sales and shipment data will follow next week.
+Team ‘Acorn to Oaks’ beat 18 teams from four states with custom-built underwater robot
 
-Stock Titan • 21h ago
+fox8live.com • 9h ago
 
 ---
 
@@ -181,14 +189,6 @@ Stock Titan • 21h ago
 A Ukrainian battlefield robotics firm says continuous software and hardware iteration is the only way to stay effective against Russian countermeasures.
 
 Yahoo • 2d ago
-
----
-
-**[How I taught myself to code, quit my consulting job, and started an AI robotics firm by age 25](https://www.businessinsider.com/consultant-turned-ai-robotics-founder-career-lessons-bcg-remy-2026-4)**
-
-Oscar Brisset, 25, used most of his vacation days to learn to code. He left BCG to launch a YC-backed AI robotics company.
-
-Business Insider • 2d ago
 
 ---
 
@@ -260,7 +260,7 @@ Ultimate Red & Green Robot Toy Box - Giant GUNDAM Smash: Tobot Carbot Constructi
 
 📺 Bob ToysReview
 
-👁️ 6K • 👍 16 • ⏱️ 11:42 • 13h ago
+👁️ 6K • 👍 16 • ⏱️ 11:42 • 14h ago
 
 ---
 

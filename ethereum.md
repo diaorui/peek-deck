@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-27T20:39:34.511557+00:00'
+updated: '2026-04-27T21:54:06.345767+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
 - social
 - news
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 27, 2026 at 20:39 UTC  
+**Last Updated:** April 27, 2026 at 21:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.0%  
-**7d:** -1.4%  
-**30d:** +15.6%  
-**90d:** -23.8%  
-**1y:** +27.5%  
+**24h:** -3.1%  
+**7d:** -1.5%  
+**30d:** +15.5%  
+**90d:** -23.9%  
+**1y:** +27.4%  
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
+
+---
+
+**[Fill out Ethstaker's 2026 Staking Survey](https://www.reddit.com/r/ethereum/comments/1sxg7ae/fill_out_ethstakers_2026_staking_survey/)**
+
+Ethstaker conducts annual surveys to gather a current picture of the staking landscape and sentiment. This year's survey is still open for responses, so please fill it out: https://ethstaker.org/forms/staking-landscape-survey-2026 The survey is designed for anyone to answer it: - Stakers of any type: solo stakers, liquid staking node operators, liquid staking token holders, staking with centralized providers, non-custodial stakers. - Non-stakers: staking-curious, never staked before, or those who used to stake but no longer do. We are interested in collecting opinions and sentiment in order to help steer efforts to support and educate. Past results have been used by researchers, educators, core developers, and others in the community. Most questions are optional, all are anonymized. References - Past years datasets (open source): https://github.com/ethstaker/staking-survey-data/ - 2024 analysis: https://paragraph.com/@ethstaker/staking-survey-2024 - 2025 analysis: https://paragraph.com/@ethstaker/staking-survey-2025
+
+1h ago
 
 ---
 
@@ -80,13 +88,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I got tired of using gateways to access Ethereum apps. NeoMist runs an Eth light client, IPFS node, and DNS server, all bundled into a single app. After installing you can access .eth and .wei domains in your favorite browser, and keep using your existing wallets!
 
-🔗 [neomist.eth](https://neomist.eth.link) • 9h ago
+🔗 [neomist.eth](https://neomist.eth.link) • 10h ago
 
 ---
 
 **[Built a visual Ethereum Sync Committee explorer, looking for technical feedback](https://www.reddit.com/r/ethereum/comments/1sx3lk2/built_a_visual_ethereum_sync_committee_explorer/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -94,7 +102,7 @@ I got tired of using gateways to access Ethereum apps. NeoMist runs an Eth light
 
 Been trying to figure out the most cost-effective way to move ETH into USDT. Not talking huge amounts - around 0.4 ETH - but enough that fees actually matter. CEX route is obvious but the math gets annoying. Trading fee on the swap plus withdrawal fee for USDT, and depending on the network you pick for withdrawal that can be another $1–5 on top. Fine for large amounts, starts feeling wasteful under a certain threshold. Tried going through a crypto exchanger this time. Did some research - looked at operating history and reserve size, picked TRC20 on the output side to keep receiving fees low. Had a bad experience before with a newer service that stalled mid-swap so track record was the main filter. Ended up about even with what a CEX would've cost me after all fees, maybe marginally better. The main upside was speed - no withdrawal queue, funds arrived in about 20 minutes. Curious whether others have done this comparison properly. At what size does CEX actually become cheaper than the exchanger route?
 
-12h ago
+13h ago
 
 ---
 
@@ -102,7 +110,7 @@ Been trying to figure out the most cost-effective way to move ETH into USDT. Not
 
 Hey r/ethereum, I just submitted ArcWarden to a lablab.ai hackathon on Arc L1. Wanted to share what I built because the concept is a bit different from what you usually see in the agentic space. The problem Autonomous AI agents managing USDC wallets on blockchain have zero native security layer. A compromised agent can drain a wallet in seconds. Existing solutions cost $0.30+ per transaction — on $0.001 nano-payments, that's structurally impossible to justify economically. What I built ArcWarden is an autonomous security agent that charges $0.001 USDC to evaluate every transaction from another agent before it executes. It has its own Circle wallet, its own treasury, and autonomously pays its own intelligence providers (Claude API). It's not a monitoring tool bolted on the outside — it's a participant in the economy it secures. 4 simultaneous protection layers: Behavior analysis — amount vs. agent historical average, frequency spikes, trust score Anti-splitting — 10-minute sliding windows. An attacker fragmenting $45 into 90 micro-transactions of $0.50 gets blocked at transaction #9 Service reputation — if 3 agents report a fraudulent service, every subsequent agent is automatically protected. Collective learning, no human in the loop Contract analysis — EVM bytecode inspection, unprotected drain functions, upgradeable proxy detection Every decision returns ALLOW / BLOCK / ESCALATE in under 5ms. What makes this real and not just a demo The thing I'm most proud of: a Vyper 0.4.3 smart contract deployed on Arc testnet that immutably records every blocked attack — pattern hash, attacker address, attempted amount, risk score, triggering layer. Contract v1 (migrated for a technical reason — the EVM selector changed when I updated the ABI from String[64] to address as first param, producing a completely different 4-byte selector that was silently rejected by the EVM) recorded 748 attacks for $1,682.92 USDC protected during testing. The active v2 contract is fully verifiable here: 👉 https://testnet.arcscan.app/address/0x17430A67e11535466cC5f17e736D5e4643B86ba1 That's real onchain proof. Not screenshots. The ecosystem runs in a real closed loop: 5 autonomous agents with real Circle Developer-Controlled Wallets — PayerAgent, AttackerAgent, LearnerAgent, GrayZoneAgent, MonitorAgent. They pay ArcWarden in real USDC. ArcWarden receives, evaluates, pays Claude for ambiguous cases, logs decisions on Arc. 389 onchain transactions confirmed. The economic loop: ArcWarden security cost: $0.001/decision Traditional SIEM: $0.30+ per transaction Savings: 99.7% — only viable because of Arc's near-zero fees (~$0.000003 per tx) ArcWarden is itself an economic agent. It earns revenue, pays its own expenses, manages its own P&L, and autonomously switches operating modes (NORMAL → DEGRADED → EMERGENCY) based on its treasury balance — zero human intervention. Bonded Oracle model ArcWarden operates with a Guaranty Fund — it deposits USDC as collateral to prove solvency before accepting clients. This bridges the gap between anonymous agents and accountable security providers. The fund is managed via the smart contract and verifiable by anyone on ArcScan. The honest part The demo video was too technical. Reviewers didn't understand what they were looking at and scored 1/5 across the board. The code is solid, the presentation wasn't. Lesson learned the hard way. Tech stack Python / FastAPI · asyncio · web3.py · Vyper 0.4.3 · Circle DCW ×6 · x402 protocol · Next.js · SQLite · numpy · Claude API (optional escalation) Links 🔗 GitHub: https://github.com/ibonon/Arcwarden ⛓️ Smart contract (v2 active): https://testnet.arcscan.app/address/0x17430A67e11535466cC5f17e736D5e4643B86ba1 Live demo on x= https://x.com/i/status/2047584585643425915 🏆 lablab.ai submission: https://lablab.ai/ai-hackathons/nano-payments-arc/omni/arcwarden-autonomous-security-oracle Feedback welcome — especially on the Risk Engine architecture and the Oracle economic model. Solo build · Ouagadougou, Burkina Faso · 5 days
 
-23h ago
+1d ago
 
 ---
 
@@ -118,7 +126,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Claude Mythos found thousands of zero-day vulnerabilities in every major browser and operating system. Anthropic said it was too dangerous to release. Unauthorized users accessed it the same day it was announced.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/anthropic-mythos-ai-crypto-security-threat/) • 9h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/anthropic-mythos-ai-crypto-security-threat/) • 10h ago
 
 ---
 
@@ -138,14 +146,6 @@ I wanted to share something interesting that happened recently. Etherscan added 
 
 ---
 
-**[Shop AliExpress with Crypto!](https://www.reddit.com/r/ethereum/comments/1sw125h/shop_aliexpress_with_crypto/)**
-
-Hey everyone - I built AliBitress because we wanted an easier way to actually spend crypto on everyday products instead of constantly converting to fiat first. The idea is simple: use your crypto directly for online shopping. Current platform supports: - 360+ cryptocurrencies - Millions of products - Shipping to 200+ countries Still improving things every week, and I’d genuinely like feedback from people who would use something like this. Questions for the community: - What would make a crypto shopping platform actually useful to you? - Which coins/networks should we add next? - What would stop you from using a service like this? If anyone wants to check it out / roast it / suggest improvements: alibitress.com Appreciate any feedback. Supported currencies: https://www.alibitress.com/currencies#popular
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -154,7 +154,7 @@ Hey everyone - I built AliBitress because we wanted an easier way to actually sp
 
 BitMine Immersion Technologies now holds over 5 million ETH, following the leading Ethereum treasury firm's biggest buy since December.
 
-Decrypt • 6h ago
+Decrypt • 7h ago
 
 ---
 
@@ -170,7 +170,7 @@ The Block • 3d ago
 
 Bitcoin opened at $78,670.85 on Monday, 1.4% higher than Sunday’s opening price of $77,613.12. Ethereum opened at $2,370.32 on Monday, 2.2% higher than Sunday’s opening price of $2,318.91.
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -178,7 +178,7 @@ Yahoo Finance • 8h ago
 
 Bitmine owns more than 4.21% of the total ETH coin supply of 120.7 million Bitmine is 84% of the way to the 'Alchemy of 5%' in just 10 months Ethereum...
 
-PR Newswire • 8h ago
+PR Newswire • 9h ago
 
 ---
 
@@ -186,13 +186,21 @@ PR Newswire • 8h ago
 
 The firm now purchased more than 5 million in ETH in just 10 months while most digital asset treasuries have stopped accumulating.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
+
+---
+
+**[Top Analyst Reveals What’s Next For Bitcoin, Ethereum and XRP Prices](https://coinpedia.org/news/top-analyst-reveals-whats-next-for-bitcoin-ethereum-and-xrp-prices-2/)**
+
+Bitcoin has climbed roughly 25% from its lows, touching $79,500, but analyst Gareth Soloway says the easy money from this move has already been made. The
+
+Coinpedia • 4h ago
 
 ---
 
 **[Fidelity Signals a $77,000 Bitcoin Support Floor as Network Demand for Ethereum and Solana Surges](https://www.tipranks.com/news/fidelity-signals-a-77000-bitcoin-support-floor-as-network-demand-for-ethereum-and-solana-surges)**
 
-TipRanks • 4h ago
+TipRanks • 5h ago
 
 ---
 
@@ -200,13 +208,13 @@ TipRanks • 4h ago
 
 Ether’s price action mirrors that of Bitcoin over the last few hours.Similar to Bitcoin, Ether rallied to the $2,404 level during the late hours of Sunday but failed to take out the resistance level at $2,423.The leading altcoin has been trading sideways over the past few days.With the support leve…
 
-TradingView • 10h ago
+TradingView • 11h ago
 
 ---
 
 **[ETFs weekly recap – How did Bitcoin, Ethereum, Solana and XRP do this week?](https://ambcrypto.com/etfs-weekly-recap-how-did-bitcoin-ethereum-solana-and-xrp-do-this-week/)**
 
-AMBCrypto • 18h ago
+AMBCrypto • 19h ago
 
 ---
 
@@ -215,14 +223,6 @@ AMBCrypto • 18h ago
 These two assets take very different approaches to generating value.
 
 The Motley Fool • 1d ago
-
----
-
-**[Shark Tank Kevin O’Leary Now Says Forget Alts, Hold Bitcoin, Ethereum](https://cryptopotato.com/shark-tank-kevin-olear-now-says-forget-alts-hold-bitcoin-ethereum/)**
-
-“Shark Tank” judge and business magnate Kevin O'Leary says he only recommends owning Bitcoin and Ethereum. Here's why.
-
-CryptoPotato • 1d ago
 
 ---
 
@@ -236,7 +236,7 @@ Michael Saylor's Strategy, the world's largest public Bitcoin holder, added more
 
 📺 Paul Barron Network
 
-👁️ 7K • 👍 907 • 💬 74 • ⏱️ 21:33 • 2h ago
+👁️ 7K • 👍 907 • 💬 74 • ⏱️ 21:33 • 3h ago
 
 ---
 
@@ -246,7 +246,7 @@ Technicals of bitcoin, ethereum and the rest of crypto dont lie! Here is what to
 
 📺 Thomas Kralow
 
-👁️ 10K • 👍 754 • 💬 40 • ⏱️ 11:19 • 6h ago
+👁️ 10K • 👍 754 • 💬 40 • ⏱️ 11:19 • 7h ago
 
 ---
 
@@ -286,7 +286,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 51 • 👍 7 • 💬 2 • ⏱️ 9:58 • 3h ago
+👁️ 51 • 👍 7 • 💬 2 • ⏱️ 9:58 • 5h ago
 
 ---
 
@@ -296,7 +296,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 415 • 👍 22 • 💬 33 • ⏱️ 4:59 • 11h ago
+👁️ 415 • 👍 22 • 💬 33 • ⏱️ 4:59 • 12h ago
 
 ---
 
@@ -306,7 +306,7 @@ Book a FREE 30 min call with us to discuss your needs: ...
 
 📺 The Bitcoin Way
 
-👁️ 102 • 👍 19 • 💬 4 • ⏱️ 3:19 • 2h ago
+👁️ 102 • 👍 19 • 💬 4 • ⏱️ 3:19 • 3h ago
 
 ---
 
@@ -314,7 +314,7 @@ Book a FREE 30 min call with us to discuss your needs: ...
 
 📺 DeFi Dad
 
-👁️ 493 • 👍 4 • ⏱️ 1:14 • 3h ago
+👁️ 493 • 👍 4 • ⏱️ 1:14 • 5h ago
 
 ---
 
