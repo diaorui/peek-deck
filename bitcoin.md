@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-27T17:50:01.643139+00:00'
+updated: '2026-04-27T19:24:40.525024+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
+- cryptocurrency
 - news
 - social
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 27, 2026 at 17:50 UTC  
+**Last Updated:** April 27, 2026 at 19:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $76,581.01
+### $76,715.22
 
 ---
 
@@ -79,15 +79,7 @@ Rank #1
 
 **[HAL FINNEY: “I was likely the first person after Satoshi to run Bitcoin. I mined block seventy-something and received the first BTC transfer when Satoshi sent me 10 coins as a test. We emailed for days after that, mostly me reporting bugs and him fixing them in real time, almost instantly.”](https://www.reddit.com/r/Bitcoin/comments/1swexh5/hal_finney_i_was_likely_the_first_person_after/)**
 
-23h ago
-
----
-
-**[Bitcoin advice for a Filipino Dad](https://www.reddit.com/r/Bitcoin/comments/1sx53id/bitcoin_advice_for_a_filipino_dad/)**
-
-Im a 37 year old Dad from the Philippines, my son is about to turn 3 years old next month. Is it too late to accumulate or DCA Bitcoin for my son? Considering my budget is 750 pesos($12) per week. So far i accumulated 0.001 bitcoin for him. Plan to give it to him when he reached 27 years old.
-
-3h ago
+1d ago
 
 ---
 
@@ -95,23 +87,7 @@ Im a 37 year old Dad from the Philippines, my son is about to turn 3 years old n
 
 Strive boosted its Bitcoin treasury with a fresh purchase of 789 BTC, valued at roughly $61.43 million.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/strive-expands-bitcoin-treasury) • 2h ago
-
----
-
-**[They keep stealing from everyone and one day I took it personally. This is why I keep stacking Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1swkrfi/they_keep_stealing_from_everyone_and_one_day_i/)**
-
-fix the money, fix the world!
-
-19h ago
-
----
-
-**[Merchants now only need one PoS for bitcoin and fiat.](https://www.reddit.com/r/Bitcoin/comments/1sx0r5v/merchants_now_only_need_one_pos_for_bitcoin_and/)**
-
-For a merchant, maintaining multiple payments systems is a pain: multiple orders, inventory, comms, etc. Now all a merchant needs is LNbits. FOSS, easy to run, a cutting-edge merchant stack.
-
-6h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/strive-expands-bitcoin-treasury) • 4h ago
 
 ---
 
@@ -119,7 +95,31 @@ For a merchant, maintaining multiple payments systems is a pain: multiple orders
 
 As a $1.6 trillion asset with substantial upside, this leading cryptocurrency has drawn the attention of larger pools of capital.
 
-🔗 [The Motley Fool](https://www.fool.com/investing/2026/04/26/institutional-investors-add-bitcoin-balance-sheet/) • 2h ago
+🔗 [The Motley Fool](https://www.fool.com/investing/2026/04/26/institutional-investors-add-bitcoin-balance-sheet/) • 4h ago
+
+---
+
+**[Bitcoin advice for a Filipino Dad](https://www.reddit.com/r/Bitcoin/comments/1sx53id/bitcoin_advice_for_a_filipino_dad/)**
+
+Im a 37 year old Dad from the Philippines, my son is about to turn 3 years old next month. Is it too late to accumulate or DCA Bitcoin for my son? Considering my budget is 750 pesos($12) per week. So far i accumulated 0.001 bitcoin for him. Plan to give it to him when he reached 27 years old.
+
+5h ago
+
+---
+
+**[Merchants now only need one PoS for bitcoin and fiat.](https://www.reddit.com/r/Bitcoin/comments/1sx0r5v/merchants_now_only_need_one_pos_for_bitcoin_and/)**
+
+For a merchant, maintaining multiple payments systems is a pain: multiple orders, inventory, comms, etc. Now all a merchant needs is LNbits. FOSS, easy to run, a cutting-edge merchant stack.
+
+8h ago
+
+---
+
+**[They keep stealing from everyone and one day I took it personally. This is why I keep stacking Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1swkrfi/they_keep_stealing_from_everyone_and_one_day_i/)**
+
+fix the money, fix the world!
+
+21h ago
 
 ---
 
@@ -127,7 +127,15 @@ As a $1.6 trillion asset with substantial upside, this leading cryptocurrency ha
 
 Not the first time you heard about it. Not the first time you bought a little. I mean the moment where something shifted… where it stopped feeling like “internet money” and started feeling like a system that actually made sense. For some people it was a price crash. For others it was learning how the halving works. For some it was self‑custody for the first time. Curious what it was for you.
 
-52m ago
+2h ago
+
+---
+
+**[Is $75.5K the structural floor for BTC in this cycle?](https://www.reddit.com/r/Bitcoin/comments/1sxcz1o/is_755k_the_structural_floor_for_btc_in_this_cycle/)**
+
+Strategy just added another 3,273 BTC (~$255M at ~$77.9K), bringing their total to 818,334 BTC with an average cost of ~$75.5K and ~9.6% BTC yield YTD. What stands out isn’t just the size – it’s the positioning. Their average entry is now almost exactly where the market is trading. That effectively turns ~$75K into a key structural zone: if price dips below, you’d expect strong demand; if it holds above, their entire position sits in profit, which tends to reinforce bullish continuation. More importantly, this kind of consistent accumulation changes market behavior. When a buyer of this scale is known to step in regularly, pullbacks are less likely to turn into full unwind phases – they get absorbed. Feels less like aggressive speculation and more like systematic positioning at scale. Does this level start acting as a floor, or is the market still too early in the cycle for that?
+
+30m ago
 
 ---
 
@@ -135,23 +143,15 @@ Not the first time you heard about it. Not the first time you bought a little. I
 
 Trying to understand how people store bitcoin for the long term. do you prefer hardware wallets, exchanges, or something else? Would like to hear what works best for you.
 
+3h ago
+
+---
+
+**[What’s one mistake you made with bitcoin early on?](https://www.reddit.com/r/Bitcoin/comments/1sxbt98/whats_one_mistake_you_made_with_bitcoin_early_on/)**
+
+Curious to hear from people who’ve been in bitcoin for a while. What’s one mistake you made in the beginning that others should avoid?
+
 1h ago
-
----
-
-**[.1 BTC and counting](https://www.reddit.com/r/Bitcoin/comments/1swophg/1_btc_and_counting/)**
-
-As the title reads I have .1 BTC and buying more each month. If I have $500 extra a month, safe to do $100/week or just 500/month. What would you do?
-
-17h ago
-
----
-
-**[Daily Discussion, April 27, 2026](https://www.reddit.com/r/Bitcoin/comments/1swv3us/daily_discussion_april_27_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-11h ago
 
 ---
 
@@ -159,25 +159,11 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 ## Google News: "bitcoin"
 
-**[Strategy Buys $255 Million Of Bitcoin As Holdings Top 800,000 Tokens](https://finance.yahoo.com/markets/crypto/articles/strategy-buys-255-million-bitcoin-132400203.html)**
+**[MARA Holdings targets bitcoin quantum threat and network resilience with new foundation](https://www.coindesk.com/markets/2026/04/27/mara-holdings-targets-bitcoin-quantum-threat-and-network-resilience-with-new-foundation)**
 
-Strategy (NASDAQ: $MSTR) acquired another 3,273 Bitcoin (CRYPTO: $BTC) over the past week, bringing its total holdi...
+Bitcoin's future is not guaranteed, said CEO Fred Thiel at the Bitcoin Conference in Las Vegas.
 
-Yahoo Finance • 4h ago
-
----
-
-**[Strategy Slows Bitcoin Buying, Switches Back to Common Sales](https://www.bloomberg.com/news/articles/2026-04-27/strategy-slows-bitcoin-buying-switches-back-to-common-sales)**
-
-Bloomberg • 4h ago
-
----
-
-**[Strategy (MSTR) adds $255 million more bitcoin to its treasury which now holds 818,334](https://www.coindesk.com/markets/2026/04/27/michael-saylor-s-strategy-buys-3-273-bitcoin-as-it-inches-closer-to-its-1-million-target)**
-
-Strategy's average price per bitcoin purchase sits at $75,537, Michael Saylor said. Strive also announced the purchase of 789 BTC for $61.43 million.
-
-CoinDesk • 4h ago
+CoinDesk • 1h ago
 
 ---
 
@@ -189,27 +175,17 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin vs. Solana: Which Crypto Is the Better Buy Right Now?](https://www.fool.com/investing/2026/04/27/bitcoin-vs-solana-which-crypto-is-the-better-buy-r/)**
+**[AI + Bitcoin + Stablecoins Converge: Paystand’s USDb Brings On-Chain B2B Finance To Reality](https://bitcoinmagazine.com/business/paystand-launches-usdb-stablecoin-on-bitcoin-layers-for-100t-b2b-payments)**
 
-Both of these top cryptocurrencies could soar higher over the next few years.
+“AI is eating labor. Bitcoin is eating capital. Stablecoins are eating financial services.” Paystand CEO Jeremy Almond just dropped USDb where these forces meet — starting with 90,000+ workers via Bitwage.
 
-The Motley Fool • 5m ago
-
----
-
-**[Bitcoin price news: BTC drops below $77,000 as rising oil and Iran risks stall the rally](https://www.coindesk.com/markets/2026/04/27/bitcoin-pulls-back-to-usd76-600-as-rising-oil-price-and-iran-risks-stall-the-rally)**
-
-Short-term holder profit-taking is offsetting fresh demand from ETFs and Strategy, pointing to consolidation below $80,000, Bitfinex analysts said.
-
-CoinDesk • 30m ago
+Bitcoin Magazine • 21m ago
 
 ---
 
-**[Publicly Traded Strive Buys $60 Million in Bitcoin, Plans BTC Business Summit](https://finance.yahoo.com/markets/crypto/articles/publicly-traded-strive-buys-60-173743634.html)**
+**[Strategy Slows Bitcoin Buying, Switches Back to Common Sales](https://www.bloomberg.com/news/articles/2026-04-27/strategy-slows-bitcoin-buying-switches-back-to-common-sales)**
 
-Strive Inc. purchased 789 more Bitcoin while its subsidiary prepares to educate business leaders on corporate crypto adoption.
-
-Yahoo Finance • 12m ago
+Bloomberg.com • 6h ago
 
 ---
 
@@ -217,21 +193,45 @@ Yahoo Finance • 12m ago
 
 27 April 2026 – Tether, the largest company in the digital asset industry, today launched Mining Development Kit (MDK), an open-source, full-stack development framework that gives Bitcoin mining operators and developers unified control over their entire infrastructure stack.  With its open modular architecture and agnostic interfaces, MDK pairs a JavaScript backend SDK with a React […]
 
-Tether.io • 5h ago
+Tether.io • 7h ago
 
 ---
 
-**[Bitcoin’s Stealth Rally Has Traders Setting Sights on $80,000](https://www.bloomberg.com/news/articles/2026-04-25/bitcoin-s-stealth-rally-has-traders-setting-sights-on-80-000)**
+**[Bitcoin leads $1.2B weekly haul for global crypto funds as institutional demand builds: CoinShares](https://www.theblock.co/post/398938/bitcoin-leads-1-2b-weekly-haul-for-global-crypto-funds-as-institutional-demand-builds-coinshares)**
 
-Bloomberg • 2d ago
+Improving institutional demand spurred by bitcoin's multi-week high pushed $1.2 billion in weekly flows to crypto funds.
+
+The Block • 9h ago
 
 ---
 
-**[Researcher breaks 15-bit elliptic curve key in 'largest quantum attack,' wins 1 bitcoin bounty from Project Eleven](https://www.theblock.co/post/398792/researcher-breaks-15-bit-elliptic-curve-key-wins-1-bitcoin-bounty-project-eleven)**
+**[Bitcoin pinned near $78k after brief rally; Vegas 2026 summit eyed](https://www.investing.com/news/cryptocurrency-news/bitcoin-hands-back-gains-after-rallying-above-79k-vegas-2026-summit-eyed-4637711)**
 
-Independent researcher Giancarlo Lelli derived a 15-bit elliptic curve key on a publicly accessible quantum computer, Project Eleven said.
+Investing.com • 5h ago
 
-The Block • 3d ago
+---
+
+**[Bitcoin vs. Solana: Which Crypto Is the Better Buy Right Now?](https://www.fool.com/investing/2026/04/27/bitcoin-vs-solana-which-crypto-is-the-better-buy-r/)**
+
+Both of these top cryptocurrencies could soar higher over the next few years.
+
+The Motley Fool • 1h ago
+
+---
+
+**[Senators Balk at Board of Peace’s Bitcoin Grift for Gaza](https://www.counterpunch.org/2026/04/27/senators-balk-at-board-of-peaces-bitcoin-grift-for-gaza/)**
+
+Four senators raised doubts April 17 about Donald Trump's stratagems for cryptocurrency, aka a stablecoin, in Gaza. Their press release that day makes
+
+CounterPunch.org • 7h ago
+
+---
+
+**[‘The New Gold’—Sudden Fed Update Leaves Bitcoin Braced For A Huge Price Game-Changer](https://www.forbes.com/sites/digital-assets/2026/04/26/the-new-gold-sudden-fed-update-leaves-bitcoin-braced-for-a-huge-price-game-changer/)**
+
+Bitcoin traders and crypto market watchers are scrambling to get ahead of incoming Fed chair Kevin Warsh’s confirmation hearing...
+
+Forbes • 1d ago
 
 ---
 
@@ -263,6 +263,12 @@ The quantum threat to Bitcoin keeps inching closer, this time thanks to a resear
 
 ---
 
+**[Bitcoin Is Digging Deeeeeper](https://news.ycombinator.com/item?id=47925278)**
+
+⬆️ 3 • 💬 0 • 1h ago • [alphametrics.substack.com](https://alphametrics.substack.com/p/bitcoin-is-digging-deeper)
+
+---
+
 **[Warren Buffett: Why Stocks Beat Gold, Bonds and Bitcoin (2018)](https://news.ycombinator.com/item?id=47875151)**
 
 ⬆️ 2 • 💬 0 • 4d ago • [acquirersmultiple.com](https://acquirersmultiple.com/2018/01/warren-buffett-why-stocks-beat-gold-bonds-and-bitcoin/)
@@ -273,7 +279,7 @@ The quantum threat to Bitcoin keeps inching closer, this time thanks to a resear
 
 Bitkey is a bitcoin self-custody wallet with an app, hardware device, and built-in recovery, so you keep your private keys without losing access.
 
-⬆️ 1 • 💬 0 • 1h ago • [Bitkey](https://bitkey.world)
+⬆️ 1 • 💬 0 • 2h ago • [Bitkey](https://bitkey.world)
 
 ---
 
@@ -309,14 +315,6 @@ Reporting on Fintech, Crypto, and Blockchain Activity in Africa
 
 ---
 
-**[Show HN: YubiClicker, a clicker game that requires a physical security key](https://news.ycombinator.com/item?id=47920666)**
-
-YubiClicker is Cookie Clicker, except every click is a FIDO2 assertion from a physical key tap. Climb a public leaderboard by out-tapping your opponents. YubiKey, Titan, Feitian, Solo, and Nitrokey all qualify.
-
-⬆️ 4 • 💬 0 • 5h ago • [YubiClicker](https://yubiclicker.com/)
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -327,7 +325,7 @@ Bitcoin is not just another asset, it is competing for a $1 quadrillion global s
 
 📺 Simply Bitcoin
 
-👁️ 35K • 👍 2K • 💬 338 • ⏱️ 21:09 • 18h ago
+👁️ 35K • 👍 2K • 💬 338 • ⏱️ 21:09 • 20h ago
 
 ---
 
@@ -337,7 +335,7 @@ Make FREE Crypto Predictions & Compete Weekly ▻ https://www.clashpicks.com/ Re
 
 📺 CryptosRUs
 
-👁️ 10K • 👍 720 • 💬 379 • ⏱️ 51:38 • 3h ago
+👁️ 10K • 👍 720 • 💬 379 • ⏱️ 51:38 • 4h ago
 
 ---
 
@@ -347,7 +345,7 @@ Bitcoin #Crypto #Finance The Strait of Hormuz has been closed for over 60 days i
 
 📺 The Wolf Of All Streets
 
-👁️ 9K • 👍 661 • 💬 243 • ⏱️ 1:01:50 • 3h ago
+👁️ 9K • 👍 661 • 💬 243 • ⏱️ 1:01:50 • 5h ago
 
 ---
 
@@ -357,7 +355,7 @@ Technicals of bitcoin, ethereum and the rest of crypto dont lie! Here is what to
 
 📺 Thomas Kralow
 
-👁️ 5K • 👍 1K • 💬 38 • ⏱️ 11:19 • 3h ago
+👁️ 5K • 👍 1K • 💬 38 • ⏱️ 11:19 • 5h ago
 
 ---
 
@@ -367,7 +365,7 @@ The Crypto Market Is About To Flip... ⭐ Follow Altcoin Daily on X: https://twi
 
 📺 Altcoin Daily
 
-👁️ 43K • 👍 3K • 💬 722 • ⏱️ 9:47 • 23h ago
+👁️ 43K • 👍 3K • 💬 722 • ⏱️ 9:47 • 1d ago
 
 ---
 
@@ -387,7 +385,7 @@ Bitcoin closed above the 20 week last night, but hardly. It's a good first step 
 
 📺 Crypto Capital Venture
 
-👁️ 3K • 👍 376 • 💬 190 • ⏱️ 12:51 • 2h ago
+👁️ 3K • 👍 376 • 💬 190 • ⏱️ 12:51 • 4h ago
 
 ---
 
@@ -417,7 +415,7 @@ Subscribe. Because when it clicks… price won't wait. BlackRock and Michael Say
 
 📺 Bitcoin News Alerts
 
-👁️ 5K • 👍 304 • 💬 152 • ⏱️ 21:39 • 19h ago
+👁️ 5K • 👍 304 • 💬 152 • ⏱️ 21:39 • 20h ago
 
 ---
 
