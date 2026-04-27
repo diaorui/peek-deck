@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-04-27T22:53:33.975535+00:00'
+updated: '2026-04-27T23:55:00.638687+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - videos
 - cryptocurrency
-- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** April 27, 2026 at 22:53 UTC  
+**Last Updated:** April 27, 2026 at 23:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.1%  
-**7d:** -1.5%  
-**30d:** +15.5%  
-**90d:** -23.9%  
-**1y:** +27.4%  
+**24h:** -3.4%  
+**7d:** -0.9%  
+**30d:** +16.3%  
+**90d:** -23.4%  
+**1y:** +28.2%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethstaker conducts annual surveys to gather a current picture of the staking landscape and sentiment. This year's survey is still open for responses, so please fill it out: https://ethstaker.org/forms/staking-landscape-survey-2026 The survey is designed for anyone to answer it: - Stakers of any type: solo stakers, liquid staking node operators, liquid staking token holders, staking with centralized providers, non-custodial stakers. - Non-stakers: staking-curious, never staked before, or those who used to stake but no longer do. We are interested in collecting opinions and sentiment in order to help steer efforts to support and educate. Past results have been used by researchers, educators, core developers, and others in the community. Most questions are optional, all are anonymized. References - Past years datasets (open source): https://github.com/ethstaker/staking-survey-data/ - 2024 analysis: https://paragraph.com/@ethstaker/staking-survey-2024 - 2025 analysis: https://paragraph.com/@ethstaker/staking-survey-2025
 
-2h ago
+3h ago
 
 ---
 
@@ -88,13 +88,13 @@ Ethstaker conducts annual surveys to gather a current picture of the staking lan
 
 I got tired of using gateways to access Ethereum apps. NeoMist runs an Eth light client, IPFS node, and DNS server, all bundled into a single app. After installing you can access .eth and .wei domains in your favorite browser, and keep using your existing wallets!
 
-🔗 [neomist.eth](https://neomist.eth.link) • 11h ago
+🔗 [neomist.eth](https://neomist.eth.link) • 12h ago
 
 ---
 
 **[Built a visual Ethereum Sync Committee explorer, looking for technical feedback](https://www.reddit.com/r/ethereum/comments/1sx3lk2/built_a_visual_ethereum_sync_committee_explorer/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -102,7 +102,7 @@ I got tired of using gateways to access Ethereum apps. NeoMist runs an Eth light
 
 Been trying to figure out the most cost-effective way to move ETH into USDT. Not talking huge amounts - around 0.4 ETH - but enough that fees actually matter. CEX route is obvious but the math gets annoying. Trading fee on the swap plus withdrawal fee for USDT, and depending on the network you pick for withdrawal that can be another $1–5 on top. Fine for large amounts, starts feeling wasteful under a certain threshold. Tried going through a crypto exchanger this time. Did some research - looked at operating history and reserve size, picked TRC20 on the output side to keep receiving fees low. Had a bad experience before with a newer service that stalled mid-swap so track record was the main filter. Ended up about even with what a CEX would've cost me after all fees, maybe marginally better. The main upside was speed - no withdrawal queue, funds arrived in about 20 minutes. Curious whether others have done this comparison properly. At what size does CEX actually become cheaper than the exchanger route?
 
-14h ago
+15h ago
 
 ---
 
@@ -126,7 +126,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Claude Mythos found thousands of zero-day vulnerabilities in every major browser and operating system. Anthropic said it was too dangerous to release. Unauthorized users accessed it the same day it was announced.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/anthropic-mythos-ai-crypto-security-threat/) • 11h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/anthropic-mythos-ai-crypto-security-threat/) • 12h ago
 
 ---
 
@@ -154,7 +154,7 @@ I wanted to share something interesting that happened recently. Etherscan added 
 
 BitMine Immersion Technologies now holds over 5 million ETH, following the leading Ethereum treasury firm's biggest buy since December.
 
-Decrypt • 8h ago
+Decrypt • 9h ago
 
 ---
 
@@ -166,19 +166,19 @@ The Block • 3d ago
 
 ---
 
-**[Bitcoin and ethereum price today, Monday, April 27, 2026: Prices hold ahead of potential peace talks and Fed meeting](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-monday-april-27-2026-prices-hold-ahead-of-potential-peace-talks-and-fed-meeting-114927492.html)**
-
-Bitcoin opened at $78,670.85 on Monday, 1.4% higher than Sunday’s opening price of $77,613.12. Ethereum opened at $2,370.32 on Monday, 2.2% higher than Sunday’s opening price of $2,318.91.
-
-Yahoo Finance • 11h ago
-
----
-
 **[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach Unprecedented World Record of 5.078 Million Tokens, and Total Crypto and Total Cash Holdings of $13.3 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-unprecedented-world-record-of-5-078-million-tokens-and-total-crypto-and-total-cash-holdings-of-13-3-billion-302753891.html)**
 
 Bitmine owns more than 4.21% of the total ETH coin supply of 120.7 million Bitmine is 84% of the way to the 'Alchemy of 5%' in just 10 months Ethereum...
 
-PR Newswire • 10h ago
+PR Newswire • 11h ago
+
+---
+
+**[Bitcoin and ethereum price today, Monday, April 27, 2026: Prices hold ahead of potential peace talks and Fed meeting](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-monday-april-27-2026-prices-hold-ahead-of-potential-peace-talks-and-fed-meeting-114927492.html)**
+
+Bitcoin opened at $78,670.85 on Monday, 1.4% higher than Sunday’s opening price of $77,613.12. Ethereum opened at $2,370.32 on Monday, 2.2% higher than Sunday’s opening price of $2,318.91.
+
+Yahoo Finance • 12h ago
 
 ---
 
@@ -186,7 +186,7 @@ PR Newswire • 10h ago
 
 The firm now purchased more than 5 million in ETH in just 10 months while most digital asset treasuries have stopped accumulating.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -194,13 +194,21 @@ CoinDesk • 9h ago
 
 Bitcoin has climbed roughly 25% from its lows, touching $79,500, but analyst Gareth Soloway says the easy money from this move has already been made. The
 
-Coinpedia • 5h ago
+Coinpedia • 6h ago
+
+---
+
+**[Crypto Today: Bitcoin, Ethereum, XRP pull back despite renewed US-Iran peace hopes](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-pull-back-despite-renewed-us-iran-peace-hopes-202604271200)**
+
+Cryptocurrency prices are broadly retracing on Monday as market participants digest new developments in the Middle East conflict. Bitcoin (BTC) is trading below $78,000 after a rejection at weekly highs around $79,485 earlier in the day, while Ethereum (ETH) hovers above $2,300 support.
+
+FXStreet • 11h ago
 
 ---
 
 **[Fidelity Signals a $77,000 Bitcoin Support Floor as Network Demand for Ethereum and Solana Surges](https://www.tipranks.com/news/fidelity-signals-a-77000-bitcoin-support-floor-as-network-demand-for-ethereum-and-solana-surges)**
 
-TipRanks • 6h ago
+TipRanks • 7h ago
 
 ---
 
@@ -208,21 +216,13 @@ TipRanks • 6h ago
 
 Ether’s price action mirrors that of Bitcoin over the last few hours.Similar to Bitcoin, Ether rallied to the $2,404 level during the late hours of Sunday but failed to take out the resistance level at $2,423.The leading altcoin has been trading sideways over the past few days.With the support leve…
 
-TradingView • 12h ago
+TradingView • 13h ago
 
 ---
 
 **[ETFs weekly recap – How did Bitcoin, Ethereum, Solana and XRP do this week?](https://ambcrypto.com/etfs-weekly-recap-how-did-bitcoin-ethereum-solana-and-xrp-do-this-week/)**
 
-AMBCrypto • 20h ago
-
----
-
-**[Better Growth Investment to Buy With $500: Ethereum vs. Strategy](https://www.fool.com/investing/2026/04/25/better-growth-investment-to-buy-with-500-ethereum/)**
-
-These two assets take very different approaches to generating value.
-
-The Motley Fool • 1d ago
+AMBCrypto • 21h ago
 
 ---
 
@@ -236,7 +236,7 @@ Technicals of bitcoin, ethereum and the rest of crypto dont lie! Here is what to
 
 📺 Thomas Kralow
 
-👁️ 12K • 👍 1K • 💬 27 • ⏱️ 11:19 • 8h ago
+👁️ 12K • 👍 1K • 💬 27 • ⏱️ 11:19 • 9h ago
 
 ---
 
@@ -246,7 +246,7 @@ Michael Saylor's Strategy, the world's largest public Bitcoin holder, added more
 
 📺 Paul Barron Network
 
-👁️ 18K • 👍 1K • 💬 100 • ⏱️ 21:33 • 4h ago
+👁️ 18K • 👍 1K • 💬 100 • ⏱️ 21:33 • 5h ago
 
 ---
 
@@ -286,7 +286,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 120 • 👍 6 • 💬 3 • ⏱️ 5:53 • 5h ago
+👁️ 120 • 👍 6 • 💬 3 • ⏱️ 5:53 • 6h ago
 
 ---
 
@@ -296,7 +296,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 472 • 👍 23 • 💬 3 • ⏱️ 4:59 • 13h ago
+👁️ 472 • 👍 23 • 💬 3 • ⏱️ 4:59 • 14h ago
 
 ---
 
@@ -306,7 +306,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 80 • 👍 8 • 💬 2 • ⏱️ 9:58 • 6h ago
+👁️ 80 • 👍 8 • 💬 2 • ⏱️ 9:58 • 7h ago
 
 ---
 
@@ -314,7 +314,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 The Wolf Of All Streets
 
-👁️ 481 • 👍 4 • 💬 16 • ⏱️ 0:41 • 1h ago
+👁️ 481 • 👍 4 • 💬 16 • ⏱️ 0:41 • 2h ago
 
 ---
 
@@ -324,7 +324,7 @@ Book a FREE 30 min call with us to discuss your needs: ...
 
 📺 The Bitcoin Way
 
-👁️ 165 • 👍 29 • 💬 4 • ⏱️ 3:19 • 4h ago
+👁️ 165 • 👍 29 • 💬 4 • ⏱️ 3:19 • 5h ago
 
 ---
 

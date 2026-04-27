@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-27T22:53:33.969484+00:00'
+updated: '2026-04-27T23:55:00.631061+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - videos
 - cryptocurrency
-- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 27, 2026 at 22:53 UTC  
+**Last Updated:** April 27, 2026 at 23:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,026.32
+### $77,311.41
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.8%  
-**7d:** +0.9%  
-**30d:** +16.5%  
-**90d:** -13.8%  
-**1y:** -19.0%  
+**24h:** -2.4%  
+**7d:** +1.4%  
+**30d:** +17.1%  
+**90d:** -13.3%  
+**1y:** -18.5%  
 
 ---
 
@@ -77,11 +77,27 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Bitcoin reduces how much you need to think about money](https://www.reddit.com/r/Bitcoin/comments/1sxgstb/bitcoin_reduces_how_much_you_need_to_think_about/)**
+
+Most people aren’t trying to be investors. They just don’t want to fall behind. If money held its value better, a lot of that attention could go to productive work instead. I tried to break this idea down more clearly in this article. Curious how others see it.
+
+🔗 [Myntad](https://www.myntad.com/bitcoin-lets-you-do-what-youre-good-at/) • 2h ago
+
+---
+
 **[Strive Expands Bitcoin Treasury With $61.4 Million Purchase, Holdings Reach 14,557 BTC](https://www.reddit.com/r/Bitcoin/comments/1sx6n7c/strive_expands_bitcoin_treasury_with_614_million/)**
 
 Strive boosted its Bitcoin treasury with a fresh purchase of 789 BTC, valued at roughly $61.43 million.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/strive-expands-bitcoin-treasury) • 7h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/strive-expands-bitcoin-treasury) • 8h ago
+
+---
+
+**[Why More Institutional Investors Are Adding Bitcoin to Their Balance Sheets](https://www.reddit.com/r/Bitcoin/comments/1sx6wq6/why_more_institutional_investors_are_adding/)**
+
+As a $1.6 trillion asset with substantial upside, this leading cryptocurrency has drawn the attention of larger pools of capital.
+
+🔗 [The Motley Fool](https://www.fool.com/investing/2026/04/26/institutional-investors-add-bitcoin-balance-sheet/) • 8h ago
 
 ---
 
@@ -91,19 +107,19 @@ Strive boosted its Bitcoin treasury with a fresh purchase of 789 BTC, valued at 
 
 ---
 
-**[Bitcoin reduces how much you need to think about money](https://www.reddit.com/r/Bitcoin/comments/1sxgstb/bitcoin_reduces_how_much_you_need_to_think_about/)**
+**[Colombia's largest pension fund launches portfolio with exposure to bitcoin](https://www.reddit.com/r/Bitcoin/comments/1sxjz54/colombias_largest_pension_fund_launches_portfolio/)**
 
-Most people aren’t trying to be investors. They just don’t want to fall behind. If money held its value better, a lot of that attention could go to productive work instead. I tried to break this idea down more clearly in this article. Curious how others see it.
+La mayor administradora de fondos de pensiones de Colombia, Porvenir, ha dado un paso decisivo hacia la integración de los activos digitales en el sistema fina
 
-🔗 [Myntad](https://www.myntad.com/bitcoin-lets-you-do-what-youre-good-at/) • 1h ago
+🔗 [Criptoinforme](https://criptoinforme.com/bitcoin/porvenir-bitcoin-pensiones-voluntarias-colombia/) • 43m ago
 
 ---
 
-**[Why More Institutional Investors Are Adding Bitcoin to Their Balance Sheets](https://www.reddit.com/r/Bitcoin/comments/1sx6wq6/why_more_institutional_investors_are_adding/)**
+**[Is $75.5K the structural floor for BTC in this cycle?](https://www.reddit.com/r/Bitcoin/comments/1sxcz1o/is_755k_the_structural_floor_for_btc_in_this_cycle/)**
 
-As a $1.6 trillion asset with substantial upside, this leading cryptocurrency has drawn the attention of larger pools of capital.
+Strategy just added another 3,273 BTC (~$255M at ~$77.9K), bringing their total to 818,334 BTC with an average cost of ~$75.5K and ~9.6% BTC yield YTD. What stands out isn’t just the size – it’s the positioning. Their average entry is now almost exactly where the market is trading. That effectively turns ~$75K into a key structural zone: if price dips below, you’d expect strong demand; if it holds above, their entire position sits in profit, which tends to reinforce bullish continuation. More importantly, this kind of consistent accumulation changes market behavior. When a buyer of this scale is known to step in regularly, pullbacks are less likely to turn into full unwind phases – they get absorbed. Feels less like aggressive speculation and more like systematic positioning at scale. Does this level start acting as a floor, or is the market still too early in the cycle for that?
 
-🔗 [The Motley Fool](https://www.fool.com/investing/2026/04/26/institutional-investors-add-bitcoin-balance-sheet/) • 7h ago
+5h ago
 
 ---
 
@@ -111,7 +127,7 @@ As a $1.6 trillion asset with substantial upside, this leading cryptocurrency ha
 
 Im a 37 year old Dad from the Philippines, my son is about to turn 3 years old next month. Is it too late to accumulate or DCA Bitcoin for my son? Considering my budget is 750 pesos($12) per week. So far i accumulated 0.001 bitcoin for him. Plan to give it to him when he reached 27 years old.
 
-8h ago
+9h ago
 
 ---
 
@@ -119,7 +135,7 @@ Im a 37 year old Dad from the Philippines, my son is about to turn 3 years old n
 
 For a merchant, maintaining multiple payments systems is a pain: multiple orders, inventory, comms, etc. Now all a merchant needs is LNbits. FOSS, easy to run, a cutting-edge merchant stack.
 
-11h ago
+12h ago
 
 ---
 
@@ -131,27 +147,11 @@ fix the money, fix the world!
 
 ---
 
-**[Is $75.5K the structural floor for BTC in this cycle?](https://www.reddit.com/r/Bitcoin/comments/1sxcz1o/is_755k_the_structural_floor_for_btc_in_this_cycle/)**
-
-Strategy just added another 3,273 BTC (~$255M at ~$77.9K), bringing their total to 818,334 BTC with an average cost of ~$75.5K and ~9.6% BTC yield YTD. What stands out isn’t just the size – it’s the positioning. Their average entry is now almost exactly where the market is trading. That effectively turns ~$75K into a key structural zone: if price dips below, you’d expect strong demand; if it holds above, their entire position sits in profit, which tends to reinforce bullish continuation. More importantly, this kind of consistent accumulation changes market behavior. When a buyer of this scale is known to step in regularly, pullbacks are less likely to turn into full unwind phases – they get absorbed. Feels less like aggressive speculation and more like systematic positioning at scale. Does this level start acting as a floor, or is the market still too early in the cycle for that?
-
-3h ago
-
----
-
 **[What’s one mistake you made with bitcoin early on?](https://www.reddit.com/r/Bitcoin/comments/1sxbt98/whats_one_mistake_you_made_with_bitcoin_early_on/)**
 
 Curious to hear from people who’ve been in bitcoin for a while. What’s one mistake you made in the beginning that others should avoid?
 
-4h ago
-
----
-
-**[Bitcoin Lightning Is Turning IGaming Payouts Into Rails](https://www.reddit.com/r/Bitcoin/comments/1sxdpr3/bitcoin_lightning_is_turning_igaming_payouts_into/)**
-
-Bitcoin’s Lightning Network is starting to turn iGaming payouts into a native Bitcoin use case, according to a new report from Voltage.
-
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/bitcoin-lightning-turning-igaming-payouts) • 3h ago
+5h ago
 
 ---
 
@@ -163,7 +163,13 @@ Bitcoin’s Lightning Network is starting to turn iGaming payouts into a native 
 
 Bitcoin's future is not guaranteed, said CEO Fred Thiel at the Bitcoin Conference in Las Vegas.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
+
+---
+
+**[Strategy Slows Bitcoin Buying, Switches Back to Common Sales](https://www.bloomberg.com/news/articles/2026-04-27/strategy-slows-bitcoin-buying-switches-back-to-common-sales)**
+
+Bloomberg.com • 10h ago
 
 ---
 
@@ -171,51 +177,43 @@ CoinDesk • 5h ago
 
 Strategy Inc. (NASDAQ:MSTR) is one of the best falling stocks to invest in now. On April 21, Cantor Fitzgerald analyst Ramsey El-Assal raised his price target on Strategy Inc. (NASDAQ:MSTR) to $212 from $192, keeping an Overweight rating on the stock. El-Assal said that investor attention is increasingly shifting toward how Strategy is evolving as […]
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
-**[Strategy Slows Bitcoin Buying, Switches Back to Common Sales](https://www.bloomberg.com/news/articles/2026-04-27/strategy-slows-bitcoin-buying-switches-back-to-common-sales)**
+**[Strategy (MSTR) adds $255 million more bitcoin to its treasury which now holds 818,334](https://www.coindesk.com/markets/2026/04/27/michael-saylor-s-strategy-buys-3-273-bitcoin-as-it-inches-closer-to-its-1-million-target)**
 
-Bloomberg.com • 9h ago
+Strategy's average price per bitcoin purchase sits at $75,537, Michael Saylor said. Strive also announced the purchase of 789 BTC for $61.43 million.
 
----
-
-**[Bitcoin drives back toward $80k—but one billionaire may be fueling much of the rally](https://fortune.com/2026/04/27/bitcoin-80k-rally-michael-saylor-strategy/)**
-
-Michael Saylor’s Strategy has purchased $7.7 billion of Bitcoin in March and April
-
-Fortune • 4h ago
+CoinDesk • 10h ago
 
 ---
 
-**[House Republicans Warn That the America’s Bitcoin Weakness Will Benefit China](https://bitcoinmagazine.com/news/house-republicans-bitcoin-weakness-china)**
+**[Billionaire Tim Draper: You Should Be Scared If You Don’t Own Bitcoin](https://bitcoinmagazine.com/news/billionaire-tim-draper-scared-bitcoin)**
 
-At Bitcoin 2026 in Las Vegas, three Republican members of Congress framed crypto regulation as a national security and economic competitiveness issue, arguing that U.S. leadership in digital assets is essential to counter China.
+Billionare Tim Draper said that bitcoin has gone mainstream, with growing adoption signaling the early stages of a broader shift in the global financial system.
 
-Bitcoin Magazine • 1h ago
-
----
-
-**['We don't take Satoshi's bitcoin': eCash fork sparks backlash over 'reassigned' coins](https://www.theblock.co/post/399054/we-dont-take-satoshis-bitcoin-ecash-fork-backlash-reassigned-coins)**
-
-The eCash fork will act as a live test of Paul Sztorc’s long-running drivechains-sidechains vision for the bitcoin network.
-
-The Block • 2h ago
+Bitcoin Magazine • 4m ago
 
 ---
 
-**[Bitcoin signals flash caution as conference kicks off and momentum fades](https://www.coindesk.com/markets/2026/04/27/bitcoin-rally-shows-signs-of-fatigue-as-key-indicators-turn-bearish)**
+**[Strategy Stock Sprints Toward 1 Million Target as Saylor Conducts a New $255 Million Bitcoin Buy](https://finance.yahoo.com/markets/crypto/articles/strategy-stock-sprints-toward-1-224001467.html)**
 
-Cooling U.S. demand, elevated Bitfinex whale positioning and a key on chain rejection point to short term downside during the Las Vegas Bitcoin conference.
+Michael Saylor is adding even more weight to his massive digital vault. On Monday, April 27, 2026, his firm, Strategy (MSTR), announced that it bought another 3,273 Bitcoin (BTC-USD). This purchase proves the company is sticking to its plan to own as much of the digital currency as possible before the supply runs dry.Claim 55% Off TipRanksUnlock hedge fund-level data and powerful investing tools for smarter, sharper decisions Discover top-performing stock ideas and upgrade to a portfolio of mark
 
-CoinDesk • 1h ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin (BTC) Reaches 12-Week High on Iran Deal Optimism](https://www.bloomberg.com/news/articles/2026-04-27/bitcoin-reaches-12-week-high-on-iran-deal-optimism)**
+
+Bloomberg.com • 3h ago
 
 ---
 
 **[Bitcoin Price Came So Close to Breaking $80,000 but Failed. How the Crypto Can Get There.](https://www.barrons.com/articles/bitcoin-price-today-80000-xrp-ethereum-980ecd68)**
 
-Barron's • 10h ago
+Barron's • 11h ago
 
 ---
 
@@ -223,7 +221,7 @@ Barron's • 10h ago
 
 Bitcoin opened at $78,670.85 on Monday, 1.4% higher than Sunday’s opening price of $77,613.12. Ethereum opened at $2,370.32 on Monday, 2.2% higher than Sunday’s opening price of $2,318.91.
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -231,7 +229,7 @@ Yahoo Finance • 11h ago
 
 Bitcoin has climbed roughly 25% from its lows, touching $79,500, but analyst Gareth Soloway says the easy money from this move has already been made. The
 
-Coinpedia • 5h ago
+Coinpedia • 6h ago
 
 ---
 
@@ -255,6 +253,14 @@ The U.S. military is actively running a Bitcoin node and testing the protocol’
 
 ---
 
+**[Bitcoin Dev Plans to 'Reassign' Coins Linked to Satoshi Nakamoto in Hard Fork](https://news.ycombinator.com/item?id=47927451)**
+
+Paul Sztorc’s proposed eCash fork would give investors coins cloned from wallets believed to belong to Bitcoin creator Satoshi Nakamoto.
+
+⬆️ 3 • 💬 5 • 2h ago • [Decrypt](https://decrypt.co/365712/bitcoin-developer-reassign-coins-linked-satoshi-nakamoto-hard-fork)
+
+---
+
 **[Bitcoin 'Q-Day' Draws Nearer as Quantum Researcher Breaks Simplified Key](https://news.ycombinator.com/item?id=47896517)**
 
 The quantum threat to Bitcoin keeps inching closer, this time thanks to a researcher who broke a simplified cryptographic key.
@@ -265,15 +271,7 @@ The quantum threat to Bitcoin keeps inching closer, this time thanks to a resear
 
 **[Bitcoin Is Digging Deeeeeper](https://news.ycombinator.com/item?id=47925278)**
 
-⬆️ 3 • 💬 1 • 4h ago • [alphametrics.substack.com](https://alphametrics.substack.com/p/bitcoin-is-digging-deeper)
-
----
-
-**[Bitcoin Dev Plans to 'Reassign' Coins Linked to Satoshi Nakamoto in Hard Fork](https://news.ycombinator.com/item?id=47927451)**
-
-Paul Sztorc’s proposed eCash fork would give investors coins cloned from wallets believed to belong to Bitcoin creator Satoshi Nakamoto.
-
-⬆️ 2 • 💬 5 • 1h ago • [Decrypt](https://decrypt.co/365712/bitcoin-developer-reassign-coins-linked-satoshi-nakamoto-hard-fork)
+⬆️ 3 • 💬 1 • 5h ago • [alphametrics.substack.com](https://alphametrics.substack.com/p/bitcoin-is-digging-deeper)
 
 ---
 
@@ -287,7 +285,7 @@ Paul Sztorc’s proposed eCash fork would give investors coins cloned from walle
 
 Bitkey is a bitcoin self-custody wallet with an app, hardware device, and built-in recovery, so you keep your private keys without losing access.
 
-⬆️ 1 • 💬 1 • 6h ago • [Bitkey](https://bitkey.world)
+⬆️ 1 • 💬 1 • 7h ago • [Bitkey](https://bitkey.world)
 
 ---
 
@@ -325,7 +323,7 @@ Michael Saylor's Strategy, the world's largest public Bitcoin holder, added more
 
 📺 Paul Barron Network
 
-👁️ 18K • 👍 1K • 💬 99 • ⏱️ 21:33 • 4h ago
+👁️ 18K • 👍 1K • 💬 99 • ⏱️ 21:33 • 5h ago
 
 ---
 
@@ -335,7 +333,7 @@ Technicals of bitcoin, ethereum and the rest of crypto dont lie! Here is what to
 
 📺 Thomas Kralow
 
-👁️ 12K • 👍 1K • 💬 27 • ⏱️ 11:19 • 8h ago
+👁️ 12K • 👍 1K • 💬 27 • ⏱️ 11:19 • 9h ago
 
 ---
 
@@ -345,7 +343,7 @@ Bitcoin closed above the 20 week last night, but hardly. It's a good first step 
 
 📺 Crypto Capital Venture
 
-👁️ 7K • 👍 573 • 💬 234 • ⏱️ 12:51 • 7h ago
+👁️ 7K • 👍 573 • 💬 234 • ⏱️ 12:51 • 8h ago
 
 ---
 
@@ -355,7 +353,7 @@ Bitcoin has rallied back into a key technical zone, the Bear Market Resistance B
 
 📺 Benjamin Cowen
 
-👁️ 15K • 👍 2K • 💬 88 • ⏱️ 12:42 • 3h ago
+👁️ 15K • 👍 2K • 💬 88 • ⏱️ 12:42 • 4h ago
 
 ---
 
@@ -365,7 +363,7 @@ Make FREE Crypto Predictions & Compete Weekly ▻ https://www.clashpicks.com/ Re
 
 📺 CryptosRUs
 
-👁️ 14K • 👍 860 • 💬 127 • ⏱️ 51:38 • 8h ago
+👁️ 14K • 👍 860 • 💬 127 • ⏱️ 51:38 • 9h ago
 
 ---
 
@@ -375,7 +373,7 @@ Bitcoin is not just another asset, it is competing for a $1 quadrillion global s
 
 📺 Simply Bitcoin
 
-👁️ 38K • 👍 2K • 💬 147 • ⏱️ 21:09 • 23h ago
+👁️ 38K • 👍 2K • 💬 147 • ⏱️ 21:09 • 1d ago
 
 ---
 
@@ -385,7 +383,7 @@ Michael Saylor announces another bitcoin buy but price is dumping - whats going 
 
 📺 Simply Bitcoin
 
-👁️ 5K • 👍 236 • 💬 25 • ⏱️ 1:19:18 • 4h ago
+👁️ 5K • 👍 236 • 💬 25 • ⏱️ 1:19:18 • 5h ago
 
 ---
 
@@ -405,7 +403,7 @@ Bitcoin #Crypto #Finance The Strait of Hormuz has been closed for over 60 days i
 
 📺 The Wolf Of All Streets
 
-👁️ 15K • 👍 814 • 💬 137 • ⏱️ 1:01:50 • 8h ago
+👁️ 15K • 👍 814 • 💬 137 • ⏱️ 1:01:50 • 9h ago
 
 ---
 
@@ -415,7 +413,7 @@ Get a chance win a ROLEX! BTCC COMPETITION: ...
 
 📺 Crypto Lifer
 
-👁️ 7K • 👍 648 • 💬 35 • ⏱️ 2:13:51 • 6h ago
+👁️ 7K • 👍 648 • 💬 35 • ⏱️ 2:13:51 • 7h ago
 
 ---
 
