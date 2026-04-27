@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-04-27T12:20:54.383192+00:00'
+updated: '2026-04-27T14:34:46.360505+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
+- repositories
 - news
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** April 27, 2026 at 12:20 UTC  
+**Last Updated:** April 27, 2026 at 14:34 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 Apologies if this is rather personal for this sub but I feel a need to express how profoundly useful it was for me tonight. A Chatbot very likely just saved my life. I am positively floored by how therapeutic it was in processing the beginning and ending of my relationship with my former spouse. I feel as though I finally can give myself permission to let go and move on with my life. I don’t know what this says about technology and society, but it’s beautiful. Edit: I STILL have a therapist I meet with regularly! No one is saying that therapy can be replaced by Chat GPT prompts. I am merely showing how you can gain expediency and clarity through AI with difficult situations.
 
-10h ago
-
----
-
-**[‘Hyperscale’ data center project in Utah — expected to generate and consume more power than entire state](https://www.reddit.com/r/artificial/comments/1swuua3/hyperscale_data_center_project_in_utah_expected/)**
-
-A massive hyperscale data center project in rural Box Elder County, Utah, led by Shark Tank investor Kevin O’Leary through his company O’Leary Digital (also known as the Stratos Project or Wonder Valley), is nearing final approval. The development, spanning about 40,000 acres of private land plus 1,200 acres of military and state-owned property, aims to host hyperscale data centers for tech giants like Amazon, Microsoft, and Google. It would generate its own power via natural gas from the Ruby Pipeline — starting at around 3 gigawatts in the first phase and scaling to 9 gigawatts at full buildout, exceeding Utah’s current statewide electricity consumption. Proponents highlight benefits including 2,000 permanent high-paying jobs, substantial tax revenue for Box Elder County (potentially $30 million initially, rising above $100 million annually), funding for modernization at Hill Air Force Base, and advanced water recycling technology that cleans and returns water to an aquifer feeding the Great Salt Lake, with minimal net usage. To attract the limited pool of hyperscalers, the Military Installation Development Authority (MIDA) has approved aggressive incentives, including slashing the energy use tax from 6% to 0.5%, significant property tax rebates (with 80% initially directed back to the developer), and personal property tax relief on rapidly depreciating equipment. The project still requires final sign-off from the Box Elder County Commission, which rescheduled its vote to Monday morning after commissioners expressed concerns about the rapid timeline and sought more resident input and legal review. O’Leary has praised Utah’s pro-business speed and framed the initiative as critical for U.S. competitiveness against China in AI and data infrastructure.
-
-🔗 [The Salt Lake Tribune](https://www.sltrib.com/news/2026/04/25/hyperscale-data-center-may-be/) • 6h ago
+12h ago
 
 ---
 
@@ -57,7 +49,15 @@ A massive hyperscale data center project in rural Box Elder County, Utah, led by
 
 I keep hearing that AI will make workers more productive. But the part I don’t understand is this: If one employee can now do the work of three people, why is the default outcome usually: fire two people keep the same workload give the remaining person more pressure send the savings upward Why isn’t the obvious outcome: shorter work weeks higher wages lower prices more time off better services It feels like AI is being sold to the public as “everyone will be more productive,” but implemented by companies as “we need fewer humans.” Maybe I’m missing something, but productivity gains only feel like progress if normal people share in them. Otherwise it’s not really “AI helping workers.” It’s just automation being used as a layoff machine. Do you think AI will actually improve life for workers, or will it mostly just increase profits while making jobs more insecure?
 
-3h ago
+5h ago
+
+---
+
+**[‘Hyperscale’ data center project in Utah — expected to generate and consume more power than entire state](https://www.reddit.com/r/artificial/comments/1swuua3/hyperscale_data_center_project_in_utah_expected/)**
+
+A massive hyperscale data center project in rural Box Elder County, Utah, led by Shark Tank investor Kevin O’Leary through his company O’Leary Digital (also known as the Stratos Project or Wonder Valley), is nearing final approval. The development, spanning about 40,000 acres of private land plus 1,200 acres of military and state-owned property, aims to host hyperscale data centers for tech giants like Amazon, Microsoft, and Google. It would generate its own power via natural gas from the Ruby Pipeline — starting at around 3 gigawatts in the first phase and scaling to 9 gigawatts at full buildout, exceeding Utah’s current statewide electricity consumption. Proponents highlight benefits including 2,000 permanent high-paying jobs, substantial tax revenue for Box Elder County (potentially $30 million initially, rising above $100 million annually), funding for modernization at Hill Air Force Base, and advanced water recycling technology that cleans and returns water to an aquifer feeding the Great Salt Lake, with minimal net usage. To attract the limited pool of hyperscalers, the Military Installation Development Authority (MIDA) has approved aggressive incentives, including slashing the energy use tax from 6% to 0.5%, significant property tax rebates (with 80% initially directed back to the developer), and personal property tax relief on rapidly depreciating equipment. The project still requires final sign-off from the Box Elder County Commission, which rescheduled its vote to Monday morning after commissioners expressed concerns about the rapid timeline and sought more resident input and legal review. O’Leary has praised Utah’s pro-business speed and framed the initiative as critical for U.S. competitiveness against China in AI and data infrastructure.
+
+🔗 [The Salt Lake Tribune](https://www.sltrib.com/news/2026/04/25/hyperscale-data-center-may-be/) • 8h ago
 
 ---
 
@@ -65,7 +65,7 @@ I keep hearing that AI will make workers more productive. But the part I don’t
 
 The potential for catastrophic effects from the AI boom demands robust deliberation and real democratic governance. Localized initiatives like data center moratoria won&#39;t get us there.
 
-🔗 [jacobin.com](https://jacobin.com/2026/04/ai-data-center-moratorium-democracy) • 9h ago
+🔗 [jacobin.com](https://jacobin.com/2026/04/ai-data-center-moratorium-democracy) • 11h ago
 
 ---
 
@@ -73,15 +73,7 @@ The potential for catastrophic effects from the AI boom demands robust deliberat
 
 A ChatGPT AI has proved a conjecture with a method no human had thought of. Experts believe it may have further uses
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/) • 16h ago
-
----
-
-**[I ran 11 AI agents for 2 months. Memory wasn't the bottleneck - identity was.](https://www.reddit.com/r/artificial/comments/1swx3bb/i_ran_11_ai_agents_for_2_months_memory_wasnt_the/)**
-
-Everyone's building memory layers right now. Longer context, better embeddings, persistent state across sessions. I spent weeks on the same thing. But the failure mode that actually cost me the most debugging time had nothing to do with memory. Here's what it looked like: an agent would be technically correct - good reasoning, clean output - but operating from the wrong context entirely. Answering questions nobody asked. Taking actions outside its scope. Not hallucinating. Drifting. Like a competent person who walked into the wrong meeting and started contributing without realizing they're in the wrong room. I run 11 persistent agents locally. Each one is a domain specialist - its entire life is one thing. The mail agent's every session, every test, every bug fix is about routing messages. The standards auditor's whole existence is quality checks. They're not generic workers configured for a task. They've each accumulated dozens of sessions of operational history in their domain, and that history is what makes them good at their job. When they started drifting, my first instinct was what everyone's instinct is: better memory. More context. None of it helped. An agent with perfect recall of its last 50 sessions would still lose track of who it was in session 51. What actually fixed it I separated identity from memory entirely. Three files per agent: passport.json - who you are. Role, purpose, principles. Rarely changes. This is the anchor. local.json - what happened. Rolling session history, key learnings. Capped and trimmed when it fills up. observations.json - what you've noticed about the humans and agents you work with. Concrete stuff like "the git agent needs 2 retries on large diffs" or "quality audits overcorrect on technical claims." The agent writes these itself based on what actually happens. Identity loads first, then memory, then observations. That ordering matters. When the identity file loads first, the agent has a stable reference point before any history lands. The mail routing agent learned the sharpest version of this. When identity was ambiguous, it would route messages from the wrong sender. The fix wasn't better routing logic - it was: fail loud when identity is unclear. Wrong identity is worse than silence. The files alone weren't enough Three JSON files helped, but didn't scale past a few agents. What actually made 11 work is that none of them need to understand the full system. Hooks inject context automatically every session - project rules, branch instructions, current plan. One command reaches any agent. Memory auto-archives when it fills up. Plans keep work focused so agents don't carry their entire history in context. The system learned from failing. The agents communicate through a local email system - they send each other tasks, status updates, bug reports. One agent monitors all logs for errors. When it spots something, it emails the agent who owns that domain and wakes them up to investigate. The agents fix each other. The memory agent iterated three sessions to fix a single rollover boundary condition - each time it shipped, observed a new edge case, and improved. These aren't cold modules. They break, they help each other fix it, they get better. That's how the system got to where it is. You don't need 11 agents The 11 agents in my setup maintain the framework itself. That's the reference implementation. But u could start with one agent on a side project - just identity and memory, pick up where u left off tomorrow. Need a team? Add a backend agent, a frontend agent, a design researcher. Three agents, same pattern, same commands. Or scale to 30 for a bigger system. Each new agent is one command and the same structure. What this doesn't solve This all runs locally on one machine. I don't know whether identity drift looks the same in hosted environments. If u run stateless agents behind an API, the problem might not exist for you. Small project, small community, growing. The pattern itself is small enough to steal - three JSON files and a convention. But the system that keeps agents coherent at scale is where the real work went. pip install aipass and two commands to get a working agent. The .trinity/ directory is the identity layer. Has anyone else tried separating identity from memory in their agent setups? Curious whether the ordering matters in other architectures, or if it's just an artifact of how this system evolved.
-
-4h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/) • 18h ago
 
 ---
 
@@ -89,15 +81,7 @@ Everyone's building memory layers right now. Longer context, better embeddings, 
 
 Something I've been thinking about that doesn't get discussed enough outside of technical circles: the organizational and safety implications of uncoordinated AI agent deployment. Companies are shipping agents fast. Customer service agents, coding agents, data analysis agents, internal ops agents. Each team builds their own. Each agent gets its own rules, its own permissions, its own behavior. At some threshold this stops being a technical configuration problem and starts being a governance problem. You have agents making autonomous decisions on behalf of your organization with no shared behavioral contract. No unified view of what your AI systems are authorized to do. Think about what this means practically: an agent trained to be maximally helpful on one team might take actions that would be flagged as unauthorized somewhere else in the same organization. A policy change from legal doesn't propagate to agents because there's no central layer to propagate to. Nobody knows which agents have access to what data. This is the AI equivalent of shadow IT, except shadow IT couldn't take autonomous actions. What's the right mental model for governing a fleet of AI agents? Treat each agent like an employee with a defined role and access policy? Build an org chart for agents? Create a behavioral constitution that all agents inherit? Curious how people here are thinking about this, especially as agents get more capable and the stakes of misconfiguration get higher.
 
-5h ago
-
----
-
-**[Is the era of all-you-can-eat AI ending? (i will not promote)](https://www.reddit.com/r/artificial/comments/1swl2uw/is_the_era_of_allyoucaneat_ai_ending_i_will_not/)**
-
-I am a GitHub Copilot Pro+ user. I have been enjoying 39 dollars plan that actually is worth 60 dollars compute with 1500 premium prompts to models count based. Given the availability of free tier models and model switching option, It has felt like never ending. It will be turned into token based after June. This corresponds to the projections about "the death of the ai buffet" I think. Less bundled memberships, more token based costs. As all these foundational model providers crave for profit, I think this is the natural step we are heading. They need to be able to measure and limit the use for profit. I am just curious how fast that will happen? Should we not take cheap & free AI for granted? Or can open-source models actually create a balance? If we are heading for less accessibility, how should average user be prepared?
-
-14h ago
+7h ago
 
 ---
 
@@ -105,15 +89,31 @@ I am a GitHub Copilot Pro+ user. I have been enjoying 39 dollars plan that actua
 
 i'm trying to find a video online and couldn't so i asked ChatGPT by describing the video and i was given a link and i'm trying to make sense of the website :https://heernproperties.com/mxbsqy/david-and-kate-bagby-2020 the webpage redirect to other link that are similar that don't make sense either , the website main page seem to be a regular website : https://heernproperties.com/ (very slow website) Any idea what could be happening ?
 
-1h ago
+3h ago
 
 ---
 
-**[I tested the same prompt across multiple AI models… the differences surprised me](https://www.reddit.com/r/artificial/comments/1swy11q/i_tested_the_same_prompt_across_multiple_ai/)**
+**[Is the era of all-you-can-eat AI ending? (i will not promote)](https://www.reddit.com/r/artificial/comments/1swl2uw/is_the_era_of_allyoucaneat_ai_ending_i_will_not/)**
 
-I’ve been experimenting with different AI models lately (ChatGPT, Claude, etc.), and I tried something simple: Using the exact same prompt across multiple models and comparing the results. What surprised me most wasn’t that they were different — it’s how different they were depending on the task. For example: Some models are much better at structured writing Others explain concepts more clearly Some give more “creative” responses, but less accuracy It made me realize there isn’t really a “best” AI — it depends heavily on what you're trying to do. One thing I did notice though is that manually comparing them is kind of a pain (copying prompts, switching tabs, etc.). Curious how others approach this: Do you stick to one model, or actually test multiple before deciding? And if you do compare — what’s your process like?
+I am a GitHub Copilot Pro+ user. I have been enjoying 39 dollars plan that actually is worth 60 dollars compute with 1500 premium prompts to models count based. Given the availability of free tier models and model switching option, It has felt like never ending. It will be turned into token based after June. This corresponds to the projections about "the death of the ai buffet" I think. Less bundled memberships, more token based costs. As all these foundational model providers crave for profit, I think this is the natural step we are heading. They need to be able to measure and limit the use for profit. I am just curious how fast that will happen? Should we not take cheap & free AI for granted? Or can open-source models actually create a balance? If we are heading for less accessibility, how should average user be prepared?
 
-3h ago
+16h ago
+
+---
+
+**[AI decision review system being trialled in Darwin women's division one cricket competition](https://www.reddit.com/r/artificial/comments/1swxqqj/ai_decision_review_system_being_trialled_in/)**
+
+Darwin's premier women's cricket league becomes the first Australian grade competition to use an artificial intelligence umpire review system.
+
+🔗 [abc.net.au](https://www.abc.net.au/news/2026-04-27/nt-ai-decision-review-system-technology-darwin-cricket/106604718) • 6h ago
+
+---
+
+**[Trump fires the entire National Science Board](https://www.reddit.com/r/artificial/comments/1svthww/trump_fires_the_entire_national_science_board/)**
+
+Federal funding for scientific research was already in turmoil.
+
+🔗 [The Verge](https://www.theverge.com/science/918769/trump-fires-the-entire-national-science-board) • 1d ago
 
 ---
 
@@ -121,75 +121,75 @@ I’ve been experimenting with different AI models lately (ChatGPT, Claude, etc.
 
 ## Google News: "ai"
 
-**[China blocks Meta's acquisition of AI startup Manus](https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html)**
+**[China blocks Meta's $2 billion takeover of AI startup Manus](https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html)**
 
 China said Monday it has decided to block Meta's $2 billion acquisition of Manus, a Singaporean AI startup with Chinese roots.
 
-CNBC • 3h ago
-
----
-
-**[China Blocks Meta’s $2 Billion Acquisition of AI Startup Manus](https://www.bloomberg.com/news/articles/2026-04-27/china-blocks-meta-s-2-billion-acquisition-of-ai-startup-manus)**
-
-Bloomberg.com • 4h ago
+CNBC • 5h ago
 
 ---
 
 **[China Orders the Unwinding of Meta’s Acquisition of an A.I. Start-Up](https://www.nytimes.com/2026/04/27/business/china-meta-manus-ai-deal.html)**
 
+The New York Times • 3h ago
+
+---
+
+**[China blocks Meta from acquiring AI startup Manus](https://www.npr.org/2026/04/27/g-s1-118892/china-blocks-meta-from-acquiring-ai-startup-manus)**
+
+Meta said Monday that the transaction "complied fully with applicable law" and that it anticipates "an appropriate resolution to the inquiry."
+
+NPR • 1h ago
+
+---
+
+**[Elon Musk says saving for retirement is irrelevant because AI is going to create a world of abundance: ‘It won’t matter’](https://finance.yahoo.com/sectors/technology/articles/elon-musk-says-saving-retirement-174705539.html)**
+
+Musk said a "supersonic tsunami" of AI and robotics will bring about a world of zero scarcity.
+
+Yahoo Finance • 20h ago
+
+---
+
+**[Musk vs. Altman: A High-Stakes A.I. Clash Goes to Court on Monday](https://www.nytimes.com/2026/04/27/business/dealbook/musk-altman-ai-trial.html)**
+
 The New York Times • 2h ago
 
 ---
 
-**[AI can cost more than human workers now](https://www.axios.com/2026/04/26/ai-cost-human-workers)**
+**[Altman, Musk and the A.I. Spectacle Come to ‘The Town’](https://www.nytimes.com/2026/04/27/technology/altman-musk-openai-ai-oakland.html)**
 
-Axios • 12h ago
-
----
-
-**[Why AI Writing Is Quietly Eroding Your Professional Credibility](https://www.yahoo.com/lifestyle/articles/why-ai-writing-quietly-eroding-120000675.html)**
-
-Is your writing quietly reading as AI to your boss and your customers? Most leaders are paying a credibility cost they don't know they're paying.
-
-Yahoo • 20m ago
+The New York Times • 22m ago
 
 ---
 
-**[The Future Is Shrouded in an AI Fog](https://hbr.org/2026/04/the-future-is-shrouded-in-an-ai-fog)**
+**[Elon Musk and OpenAI CEO Sam Altman head to court in high-stakes showdown over AI](https://www.latimes.com/business/story/2026-04-27/elon-musk-openai-ceo-sam-altman-head-to-court-in-high-stakes-showdown-over-ai)**
 
-AI’s rapid advance is creating new limits on leaders’ visibility into the short-term future and challenging the criteria they use to commit to forward-looking investments. Staring into this fog, leaders will be tempted to trade the potential future gains from skyscrapers and railways for the temporary utility of tents and bicycles. In this uncertain environment, the best approach is to optimize for the unknown. Leaders should seek to master optionality, learn to stage-gate capital, remain agile in their identities, and to build adaptable organizational systems.
+Technology tycoons Elon Musk and Sam Altman are poised to face off in a high-stakes trial revolving around the alleged betrayal, deceit and unbridled ambition that blurred the bickering billionaires’ once-shared vision for the development of artificial intelligence
 
-Harvard Business Review • 7m ago
-
----
-
-**[This bank CEO let his AI clone handle an earnings call — now he's signing an OpenAI deal](https://www.cnbc.com/2026/04/27/openai-partners-with-customers-bank-in-push-to-automate-finance.html)**
-
-It's part of Customers Bank CEO Sam Sidhu's effort to get ahead in the industry's race to transform itself using AI agents as a new digital workforce
-
-CNBC • 20m ago
+Los Angeles Times • 21m ago
 
 ---
 
-**[College students wary of the job market are changing course in search of ‘AI-proof’ majors](https://apnews.com/article/ai-anxiety-college-major-4af9a0a8caae1d302acb5aadcf0c68ba)**
+**[The Man Behind AlphaGo Thinks AI Is Taking the Wrong Path](https://www.wired.com/story/david-silver-ai-ineffable-intelligence-reinforcement-learning/)**
 
-The rise of artificial intelligence is prompting college students to second-guess their career paths.
+David Silver has a new billion-dollar company that aims to build AI “superlearners.”
 
-AP News • 8h ago
-
----
-
-**[San Francisco, AI capital of the world, is an economic laggard](https://www.economist.com/finance-and-economics/2026/04/26/san-francisco-ai-capital-of-the-world-is-an-economic-laggard)**
-
-The Economist • 19h ago
+WIRED • 34m ago
 
 ---
 
-**[AI is making it very easy for the government to spy on you. Some lawmakers are worried.](https://www.nbcnews.com/tech/security/ai-making-easy-government-spy-lawmakers-are-worried-rcna341499)**
+**[The AI running this Swedish cafe won’t stop buying toilet paper and gloves](https://www.fastcompany.com/91532226/andon-cafe-sweden-ai)**
 
-AI’s increasing ability to sift through data and track Americans’ locations has some lawmakers reconsidering parts of the Foreign Intelligence Surveillance Act.
+The latest experiment from Andon Labs has put an AI in charge of a cafe—mostly.
 
-NBC News • 22h ago
+Fast Company • 43m ago
+
+---
+
+**[Microsoft to Stop Sharing Revenue With Main AI Partner OpenAI](https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai)**
+
+Bloomberg.com • 1h ago
 
 ---
 
@@ -199,7 +199,7 @@ NBC News • 22h ago
 
 **[An AI agent deleted our production database. The agent's confession is below](https://news.ycombinator.com/item?id=47911524)**
 
-⬆️ 746 • 💬 880 • 19h ago • [X (formerly Twitter)](https://twitter.com/lifeof_jer/status/2048103471019434248)
+⬆️ 773 • 💬 905 • 22h ago • [X (formerly Twitter)](https://twitter.com/lifeof_jer/status/2048103471019434248)
 
 ---
 
@@ -207,7 +207,7 @@ NBC News • 22h ago
 
 Read about the .
 
-⬆️ 573 • 💬 424 • 16h ago • [koshyjohn.com](https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/)
+⬆️ 677 • 💬 482 • 18h ago • [koshyjohn.com](https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/)
 
 ---
 
@@ -215,7 +215,7 @@ Read about the .
 
 If there was any doubt over the brewing public backlash to this technology, the last few weeks have erased it.
 
-⬆️ 271 • 💬 359 • 1d ago • [The New Republic](https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash)
+⬆️ 273 • 💬 363 • 1d ago • [The New Republic](https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash)
 
 ---
 
@@ -241,11 +241,19 @@ The airport targeted gate announcements, overlapping PA messages, and tenant mus
 
 ---
 
+**[France's Mistral Built a $14B AI Empire by Not Being American](https://news.ycombinator.com/item?id=47919725)**
+
+Paris-based Mistral wanted to develop a top-tier AI model to rival OpenAI and Anthropic. That didn’t work out. But it turns out lots of folks don’t care if the AI is bleeding edge – as long as it wasn’t made in America or China.
+
+⬆️ 136 • 💬 84 • 4h ago • [Forbes](https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/)
+
+---
+
 **[Eden AI – European Alternative to OpenRouter](https://news.ycombinator.com/item?id=47908433)**
 
 Access 500+ LLMs and expert AI models through one unified API. Route requests by cost, performance, and region with built-in smart routing and fallbacks.
 
-⬆️ 129 • 💬 67 • 1d ago • [edenai.co](https://www.edenai.co)
+⬆️ 131 • 💬 67 • 1d ago • [edenai.co](https://www.edenai.co)
 
 ---
 
@@ -253,7 +261,7 @@ Access 500+ LLMs and expert AI models through one unified API. Route requests by
 
 There is an implicit contract at the foundation of every database architecture decision you have ever made. You probably never wrote it down. Nobody does. It just… existed.
 
-⬆️ 104 • 💬 100 • 2d ago • [Arpit Bhayani](https://arpitbhayani.me/blogs/defensive-databases/)
+⬆️ 105 • 💬 101 • 2d ago • [Arpit Bhayani](https://arpitbhayani.me/blogs/defensive-databases/)
 
 ---
 
@@ -261,13 +269,7 @@ There is an implicit contract at the foundation of every database architecture d
 
 Thomas Kurian, Google Cloud’s CEO, says its AI chips and models can help the data centre business gain ground
 
-⬆️ 103 • 💬 90 • 11h ago • [ft.com](https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c)
-
----
-
-**[Have you tried Clean Architecture as foundation for your AI project?](https://news.ycombinator.com/item?id=47913561)**
-
-⬆️ 94 • 💬 1 • 16h ago
+⬆️ 103 • 💬 91 • 14h ago • [ft.com](https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c)
 
 ---
 
@@ -281,17 +283,7 @@ John Oliver discusses AI chatbots, why they're flirting with users unprompted an
 
 📺 LastWeekTonight
 
-👁️ 199K • 👍 14K • 💬 1K • ⏱️ 29:43 • 5h ago
-
----
-
-**[Trump Got A NASTY AI SURPRISE And It’s Going Viral!](https://www.youtube.com/watch?v=lxN1phhSMZ0)**
-
-Really American host Steve Harness breaks down Iran SLAMMING Trump with even more AI slop because they've realized that it ...
-
-📺 Really American
-
-👁️ 850K • 👍 38K • 💬 2K • ⏱️ 13:36 • 1d ago
+👁️ 597K • 👍 36K • 💬 3K • ⏱️ 29:43 • 8h ago
 
 ---
 
@@ -301,15 +293,17 @@ This video was made with financial support from the Center for AI Safety. What h
 
 📺 Aperture
 
-👁️ 27K • 👍 918 • 💬 122 • ⏱️ 42:31 • 19h ago
+👁️ 30K • 👍 994 • 💬 129 • ⏱️ 42:31 • 22h ago
 
 ---
 
-**[TRUMP FURIOUS as EU &amp; Canada CUT US AI OUT— $20B AI DEAL, $10B SATELLITE &amp; €800B DEFENSE EXIT](https://www.youtube.com/watch?v=RcHdsNl8bw8)**
+**[Trump Got A NASTY AI SURPRISE And It’s Going Viral!](https://www.youtube.com/watch?v=lxN1phhSMZ0)**
 
-📺 Fastepo 
+Really American host Steve Harness breaks down Iran SLAMMING Trump with even more AI slop because they've realized that it ...
 
-👁️ 17K • 👍 956 • 💬 168 • ⏱️ 11:38 • 22h ago
+📺 Really American
+
+👁️ 874K • 👍 39K • 💬 2K • ⏱️ 13:36 • 1d ago
 
 ---
 
@@ -319,45 +313,7 @@ I don't think I said this quite clearly enough in this video but I have no idea 
 
 📺 vlogbrothers
 
-👁️ 263K • 👍 16K • 💬 2K • ⏱️ 8:43 • 2d ago
-
----
-
-**[Day 3 of The 2026 AI Advantage Summit](https://www.youtube.com/watch?v=xWzLeazpfUA)**
-
-📺 Dean Graziosi
-
-👁️ 137K • 👍 4K • 💬 45 • ⏱️ 4:36:55 • 1d ago
-
----
-
-**[AI Christian Music Ruined Everything](https://www.youtube.com/watch?v=EnoTdAw-aow)**
-
-Lejaren Hiller - Illiac Suite for String Quartet: https://youtu.be/fojKZ1ymZlo?si=uVxBgEHGOCOOjScf -- You can support Nathan ...
-
-📺 Dizzy Disciple
-
-👁️ 19K • 👍 1K • 💬 415 • ⏱️ 31:24 • 22h ago
-
----
-
-**[TikToker Facing 12 Years Prison for AI Prank](https://www.youtube.com/watch?v=V2Z4aSlkEYQ)**
-
-TikToker Facing 12 Years Prison for AI Prank CHECK OUT OUR MATS HERE: https://mat.city/ Get a FREE Sample pack of Gamer ...
-
-📺 Atozy
-
-👁️ 216K • 👍 10K • 💬 1K • ⏱️ 8:40 • 1d ago
-
----
-
-**[These FREE AI Image &amp; Video Generators Have ZERO Limits — Open Source, No Sign Up, No Watermark ](https://www.youtube.com/watch?v=B8ZvfpGgbec)**
-
-China is not slowing down and in this video I am breaking down some of the most powerful free unlimited and open source ...
-
-📺 Manny ai
-
-👁️ 3K • 👍 161 • 💬 15 • ⏱️ 10:31 • 21h ago
+👁️ 270K • 👍 17K • 💬 2K • ⏱️ 8:43 • 2d ago
 
 ---
 
@@ -367,7 +323,57 @@ Is the future already here because of AI? Artificial intelligence is making disc
 
 📺 AI Uncovered
 
-👁️ 6K • 👍 206 • 💬 8 • ⏱️ 14:23 • 13h ago
+👁️ 7K • 👍 243 • 💬 22 • ⏱️ 14:23 • 15h ago
+
+---
+
+**[TikToker Facing 12 Years Prison for AI Prank](https://www.youtube.com/watch?v=V2Z4aSlkEYQ)**
+
+TikToker Facing 12 Years Prison for AI Prank CHECK OUT OUR MATS HERE: https://mat.city/ Get a FREE Sample pack of Gamer ...
+
+📺 Atozy
+
+👁️ 221K • 👍 10K • 💬 1K • ⏱️ 8:40 • 1d ago
+
+---
+
+**[These FREE AI Image &amp; Video Generators Have ZERO Limits — Open Source, No Sign Up, No Watermark ](https://www.youtube.com/watch?v=B8ZvfpGgbec)**
+
+China is not slowing down and in this video I am breaking down some of the most powerful free unlimited and open source ...
+
+📺 Manny ai
+
+👁️ 4K • 👍 172 • 💬 16 • ⏱️ 10:31 • 23h ago
+
+---
+
+**[AI is already getting boring • FRANCE 24 English](https://www.youtube.com/watch?v=JKbezr4yZ6c)**
+
+It could end white-collar work. It could end poverty. It could end humanity. From AI's boosters and doomsters alike, bumptious ...
+
+📺 FRANCE 24 English
+
+👁️ 35K • 👍 673 • 💬 156 • ⏱️ 4:51 • 1d ago
+
+---
+
+**[STUPID AI Responses😭💀 #4](https://www.youtube.com/watch?v=nAv5NRxx65g)**
+
+In this video I read the Dumbest Ai responses. This video is just for entertainment purposes and not meant to be taken seriously lol ...
+
+📺 MANDO
+
+👁️ 127K • 👍 8K • 💬 1K • ⏱️ 8:39 • 22h ago
+
+---
+
+**[Elon Musk Just Won the AI Robot Race With New Upgraded Optimus &quot;Ultra&quot;](https://www.youtube.com/watch?v=KuXFzfh2GPE)**
+
+Elon Musk is once again in the spotlight as an upgraded version of the Optimus robot, known as “Ultra,” begins to generate buzz.
+
+📺 Carros Show
+
+👁️ 5K • 👍 126 • 💬 121 • ⏱️ 51:48 • 1d ago
 
 ---
 
@@ -383,7 +389,7 @@ DeepSeek-V4-Pro is a 1.6T parameter Mixture-of-Experts language model supporting
 
 `text-generation` `861.6B`
 
-⬇️ 137,784 • ❤️ 2,960 • 5h ago
+⬇️ 137,784 • ❤️ 2,987 • 7h ago
 
 ---
 
@@ -395,7 +401,7 @@ Kimi K2.6 is a 1T parameter multimodal agentic model excelling in long-horizon c
 
 `image-text-to-text` `1058.6B`
 
-⬇️ 443,440 • ❤️ 1,079 • 4d ago
+⬇️ 443,440 • ❤️ 1,089 • 4d ago
 
 ---
 
@@ -407,7 +413,7 @@ A bidirectional token-classification model for PII detection and masking, capabl
 
 `token-classification` `1.4B`
 
-⬇️ 47,488 • ❤️ 883 • 4d ago
+⬇️ 47,488 • ❤️ 891 • 4d ago
 
 ---
 
@@ -419,7 +425,7 @@ Qwen3.6-27B is a 27B parameter causal language model with a vision encoder, exce
 
 `image-text-to-text` `27.8B`
 
-⬇️ 399,489 • ❤️ 880 • 3d ago
+⬇️ 399,489 • ❤️ 893 • 3d ago
 
 ---
 
@@ -431,19 +437,7 @@ DeepSeek-V4-Flash is a 284B parameter Mixture-of-Experts language model supporti
 
 `text-generation` `158.1B`
 
-⬇️ 65,743 • ❤️ 760 • 5h ago
-
----
-
-**[Qwen3.6-35B-A3B](https://huggingface.co/Qwen/Qwen3.6-35B-A3B)**
-
-*Qwen*
-
-Qwen3.6-35B-A3B is a 35B parameter causal language model with a vision encoder, optimized for agentic coding tasks and featuring enhanced thinking preservation for iterative development. It supports a context length of 262,144 tokens, extensible up to 1,010,000.
-
-`image-text-to-text` `36.0B`
-
-⬇️ 1,354,032 • ❤️ 1,442 • 3d ago
+⬇️ 65,743 • ❤️ 769 • 7h ago
 
 ---
 
@@ -455,7 +449,19 @@ Qwen3.6-27B-GGUF is a 27B parameter causal language model with vision capabiliti
 
 `image-text-to-text` `26.9B`
 
-⬇️ 636,345 • ❤️ 435 • 4d ago
+⬇️ 636,345 • ❤️ 442 • 4d ago
+
+---
+
+**[Qwen3.6-35B-A3B](https://huggingface.co/Qwen/Qwen3.6-35B-A3B)**
+
+*Qwen*
+
+Qwen3.6-35B-A3B is a 35B parameter causal language model with a vision encoder, optimized for agentic coding tasks and featuring enhanced thinking preservation for iterative development. It supports a context length of 262,144 tokens, extensible up to 1,010,000.
+
+`image-text-to-text` `36.0B`
+
+⬇️ 1,354,032 • ❤️ 1,446 • 3d ago
 
 ---
 
@@ -467,7 +473,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with vision capabilitie
 
 `image-text-to-text` `34.7B`
 
-⬇️ 1,646,295 • ❤️ 807 • 6d ago
+⬇️ 1,646,295 • ❤️ 812 • 7d ago
 
 ---
 
@@ -477,7 +483,7 @@ Qwen3.6-35B-A3B is a 35B parameter causal language model with vision capabilitie
 
 `1600.8B`
 
-⬇️ 1,265 • ❤️ 224 • 5h ago
+⬇️ 1,265 • ❤️ 226 • 7h ago
 
 ---
 
@@ -489,7 +495,7 @@ This is an uncensored, aggressive multimodal model based on Qwen3.6-35B-A3B, cap
 
 `image-text-to-text` `34.7B`
 
-⬇️ 525,932 • ❤️ 468 • 10d ago
+⬇️ 525,932 • ❤️ 471 • 10d ago
 
 ---
 
@@ -519,7 +525,7 @@ VibeVoice synthesizes long-form multi-speaker speech using next-token diffusion 
 
 GenericAgent is a self-evolving large language model agent system that maximizes context information density through hierarchical memory, reusable SOPs, and efficient compression to overcome long-horizon limitations.
 
-▲ 11 • 💬 2 • ⭐ 7,482 • 9d ago
+▲ 12 • 💬 2 • ⭐ 7,482 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.17091) • [💻 code](https://github.com/lsdefine/GenericAgent)
 
@@ -545,7 +551,7 @@ Kronos, a specialized pre-training framework for financial K-line data, outperfo
 
 RAG-Anything is a unified framework that enhances multimodal knowledge retrieval by integrating cross-modal relationships and semantic matching, outperforming existing methods on complex benchmarks.
 
-▲ 78 • 💬 6 • ⭐ 18,811 • 6mo ago
+▲ 79 • 💬 6 • ⭐ 18,956 • 6mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.12323) • [💻 code](https://github.com/HKUDS/RAG-Anything)
 
@@ -559,7 +565,7 @@ RAG-Anything is a unified framework that enhances multimodal knowledge retrieval
 
 LingBot-Map is a feed-forward 3D foundation model that reconstructs scenes from video streams using a geometric context transformer architecture with specialized attention mechanisms for coordinate grounding, dense geometric cues, and long-range drift correction, achieving stable real-time performance at 20 FPS.
 
-▲ 18 • 💬 2 • ⭐ 4,709 • 12d ago
+▲ 18 • 💬 2 • ⭐ 4,838 • 12d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2604.14141) • [💻 code](https://github.com/robbyant/lingbot-map) • [🔗 project](https://technology.robbyant.com/lingbot-map)
 
@@ -638,7 +644,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `chromadb` `llm` `mcp` `memory`
 
-⭐ 49.9k • 🔱 6.5k • 3h ago
+⭐ 50.0k • 🔱 6.6k • 5h ago
 
 ---
 
@@ -648,7 +654,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 `Python` `ai` `anthropic` `caveman` `claude` `claude-code`
 
-⭐ 47.5k • 🔱 2.5k • 9d ago
+⭐ 47.8k • 🔱 2.5k • 9d ago
 
 ---
 
@@ -658,7 +664,7 @@ AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,
 
 `JavaScript` `ai-agent` `anthropic` `automation` `career` `claude`
 
-⭐ 40.1k • 🔱 8.3k • 6h ago
+⭐ 40.2k • 🔱 8.3k • 8h ago
 
 ---
 
@@ -668,7 +674,7 @@ AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, Git
 
 `Python` `antigravity` `claude-code` `codex` `gemini` `graphrag`
 
-⭐ 36.0k • 🔱 4.0k • 1d ago
+⭐ 36.2k • 🔱 4.0k • 1d ago
 
 ---
 
@@ -678,7 +684,7 @@ A theoretical reconstruction of the Claude Mythos architecture, built from first
 
 `Python` `ai` `anthropic` `attention` `claude` `claude-ai`
 
-⭐ 10.8k • 🔱 2.4k • 3h ago
+⭐ 10.8k • 🔱 2.4k • 5h ago
 
 ---
 
@@ -688,7 +694,7 @@ The headless browser for AI agents and web scraping
 
 `Rust`
 
-⭐ 6.6k • 🔱 385 • 1d ago
+⭐ 6.8k • 🔱 394 • 23m ago
 
 ---
 
@@ -718,7 +724,7 @@ AI Agent 源码深度研究报告
 
 `Python`
 
-⭐ 4.8k • 🔱 469 • 18d ago
+⭐ 4.8k • 🔱 468 • 18d ago
 
 ---
 
@@ -728,7 +734,7 @@ Claude Code skill for generating production-quality SVG+PNG technical diagrams. 
 
 `Python`
 
-⭐ 4.7k • 🔱 421 • 7d ago
+⭐ 4.7k • 🔱 424 • 7d ago
 
 ---
 

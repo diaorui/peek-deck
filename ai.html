@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-04-27T12:20:53.880698+00:00"
+          "dateModified": "2026-04-27T14:34:45.839918+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -647,6 +647,39 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1swxt51/if_ai_makes_everyone_more_productive_why_does_it/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1swxt51/if_ai_makes_everyone_more_productive_why_does_it/" target="_blank" onclick="event.stopPropagation();">If AI makes everyone more productive, why does it feel like only layoffs are being announced?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            I keep hearing that AI will make workers more productive. But the part I don’t understand is this: If one employee can now do the work of three people, why is the default outcome usually: fire two people keep the same workload give the remaining person more pressure send the savings upward Why isn’t the obvious outcome: shorter work weeks higher wages lower prices more time off better services It feels like AI is being sold to the public as “everyone will be more productive,” but implemented by companies as “we need fewer humans.” Maybe I’m missing something, but productivity gains only feel like progress if normal people share in them. Otherwise it’s not really “AI helping workers.” It’s just automation being used as a layoff machine. Do you think AI will actually improve life for workers, or will it mostly just increase profits while making jobs more insecure?
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1777279114.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1swuua3/hyperscale_data_center_project_in_utah_expected/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -691,39 +724,6 @@
                                         <span>The Salt Lake Tribune</span>
                                     </a>
                                 </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1swxt51/if_ai_makes_everyone_more_productive_why_does_it/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1swxt51/if_ai_makes_everyone_more_productive_why_does_it/" target="_blank" onclick="event.stopPropagation();">If AI makes everyone more productive, why does it feel like only layoffs are being announced?</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            I keep hearing that AI will make workers more productive. But the part I don’t understand is this: If one employee can now do the work of three people, why is the default outcome usually: fire two people keep the same workload give the remaining person more pressure send the savings upward Why isn’t the obvious outcome: shorter work weeks higher wages lower prices more time off better services It feels like AI is being sold to the public as “everyone will be more productive,” but implemented by companies as “we need fewer humans.” Maybe I’m missing something, but productivity gains only feel like progress if normal people share in them. Otherwise it’s not really “AI helping workers.” It’s just automation being used as a layoff machine. Do you think AI will actually improve life for workers, or will it mostly just increase profits while making jobs more insecure?
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1777279114.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
                                 
                             </div>
                         </div>
@@ -830,39 +830,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1swx3bb/i_ran_11_ai_agents_for_2_months_memory_wasnt_the/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1swx3bb/i_ran_11_ai_agents_for_2_months_memory_wasnt_the/" target="_blank" onclick="event.stopPropagation();">I ran 11 AI agents for 2 months. Memory wasn't the bottleneck - identity was.</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Everyone's building memory layers right now. Longer context, better embeddings, persistent state across sessions. I spent weeks on the same thing. But the failure mode that actually cost me the most debugging time had nothing to do with memory. Here's what it looked like: an agent would be technically correct - good reasoning, clean output - but operating from the wrong context entirely. Answering questions nobody asked. Taking actions outside its scope. Not hallucinating. Drifting. Like a competent person who walked into the wrong meeting and started contributing without realizing they're in the wrong room. I run 11 persistent agents locally. Each one is a domain specialist - its entire life is one thing. The mail agent's every session, every test, every bug fix is about routing messages. The standards auditor's whole existence is quality checks. They're not generic workers configured for a task. They've each accumulated dozens of sessions of operational history in their domain, and that history is what makes them good at their job. When they started drifting, my first instinct was what everyone's instinct is: better memory. More context. None of it helped. An agent with perfect recall of its last 50 sessions would still lose track of who it was in session 51. What actually fixed it I separated identity from memory entirely. Three files per agent: passport.json - who you are. Role, purpose, principles. Rarely changes. This is the anchor. local.json - what happened. Rolling session history, key learnings. Capped and trimmed when it fills up. observations.json - what you've noticed about the humans and agents you work with. Concrete stuff like "the git agent needs 2 retries on large diffs" or "quality audits overcorrect on technical claims." The agent writes these itself based on what actually happens. Identity loads first, then memory, then observations. That ordering matters. When the identity file loads first, the agent has a stable reference point before any history lands. The mail routing agent learned the sharpest version of this. When identity was ambiguous, it would route messages from the wrong sender. The fix wasn't better routing logic - it was: fail loud when identity is unclear. Wrong identity is worse than silence. The files alone weren't enough Three JSON files helped, but didn't scale past a few agents. What actually made 11 work is that none of them need to understand the full system. Hooks inject context automatically every session - project rules, branch instructions, current plan. One command reaches any agent. Memory auto-archives when it fills up. Plans keep work focused so agents don't carry their entire history in context. The system learned from failing. The agents communicate through a local email system - they send each other tasks, status updates, bug reports. One agent monitors all logs for errors. When it spots something, it emails the agent who owns that domain and wakes them up to investigate. The agents fix each other. The memory agent iterated three sessions to fix a single rollover boundary condition - each time it shipped, observed a new edge case, and improved. These aren't cold modules. They break, they help each other fix it, they get better. That's how the system got to where it is. You don't need 11 agents The 11 agents in my setup maintain the framework itself. That's the reference implementation. But u could start with one agent on a side project - just identity and memory, pick up where u left off tomorrow. Need a team? Add a backend agent, a frontend agent, a design researcher. Three agents, same pattern, same commands. Or scale to 30 for a bigger system. Each new agent is one command and the same structure. What this doesn't solve This all runs locally on one machine. I don't know whether identity drift looks the same in hosted environments. If u run stateless agents behind an API, the problem might not exist for you. Small project, small community, growing. The pattern itself is small enough to steal - three JSON files and a convention. But the system that keeps agents coherent at scale is where the real work went. pip install aipass and two commands to get a working agent. The .trinity/ directory is the identity layer. Has anyone else tried separating identity from memory in their agent setups? Curious whether the ordering matters in other architectures, or if it's just an artifact of how this system evolved.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1777276520.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1swwa91/agentic_sprawl_is_becoming_a_real_organizational/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -887,39 +854,6 @@
                                 
                                 <div class="post-meta-item">
                                     <span data-timestamp="1777273669.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1swl2uw/is_the_era_of_allyoucaneat_ai_ending_i_will_not/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1swl2uw/is_the_era_of_allyoucaneat_ai_ending_i_will_not/" target="_blank" onclick="event.stopPropagation();">Is the era of all-you-can-eat AI ending? (i will not promote)</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            I am a GitHub Copilot Pro+ user. I have been enjoying 39 dollars plan that actually is worth 60 dollars compute with 1500 premium prompts to models count based. Given the availability of free tier models and model switching option, It has felt like never ending. It will be turned into token based after June. This corresponds to the projections about "the death of the ai buffet" I think. Less bundled memberships, more token based costs. As all these foundational model providers crave for profit, I think this is the natural step we are heading. They need to be able to measure and limit the use for profit. I am just curious how fast that will happen? Should we not take cheap & free AI for granted? Or can open-source models actually create a balance? If we are heading for less accessibility, how should average user be prepared?
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1777241131.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -962,7 +896,7 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1swy11q/i_tested_the_same_prompt_across_multiple_ai/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1swl2uw/is_the_era_of_allyoucaneat_ai_ending_i_will_not/', '_blank')">
                     <div class="post-thumbnail">
                         
                     </div>
@@ -970,13 +904,13 @@
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1swy11q/i_tested_the_same_prompt_across_multiple_ai/" target="_blank" onclick="event.stopPropagation();">I tested the same prompt across multiple AI models… the differences surprised me</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1swl2uw/is_the_era_of_allyoucaneat_ai_ending_i_will_not/" target="_blank" onclick="event.stopPropagation();">Is the era of all-you-can-eat AI ending? (i will not promote)</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            I’ve been experimenting with different AI models lately (ChatGPT, Claude, etc.), and I tried something simple: Using the exact same prompt across multiple models and comparing the results. What surprised me most wasn’t that they were different — it’s how different they were depending on the task. For example: Some models are much better at structured writing Others explain concepts more clearly Some give more “creative” responses, but less accuracy It made me realize there isn’t really a “best” AI — it depends heavily on what you're trying to do. One thing I did notice though is that manually comparing them is kind of a pain (copying prompts, switching tabs, etc.). Curious how others approach this: Do you stick to one model, or actually test multiple before deciding? And if you do compare — what’s your process like?
+                            I am a GitHub Copilot Pro+ user. I have been enjoying 39 dollars plan that actually is worth 60 dollars compute with 1500 premium prompts to models count based. Given the availability of free tier models and model switching option, It has felt like never ending. It will be turned into token based after June. This corresponds to the projections about "the death of the ai buffet" I think. Less bundled memberships, more token based costs. As all these foundational model providers crave for profit, I think this is the natural step we are heading. They need to be able to measure and limit the use for profit. I am just curious how fast that will happen? Should we not take cheap & free AI for granted? Or can open-source models actually create a balance? If we are heading for less accessibility, how should average user be prepared?
                         </div>
                         
 
@@ -985,10 +919,110 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1777279934.0"></span>
+                                    <span data-timestamp="1777241131.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1swxqqj/ai_decision_review_system_being_trialled_in/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/rwjrPUIByubzOpPmukxZGoiQT7uTRhIBCBmkLuw0k00.jpeg?width=640&crop=smart&auto=webp&s=71eda198b37dc3e4b274c447e2a5c2bbeba40302" alt="AI decision review system being trialled in Darwin women's division one cricket competition" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1swxqqj/ai_decision_review_system_being_trialled_in/" target="_blank" onclick="event.stopPropagation();">AI decision review system being trialled in Darwin women's division one cricket competition</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Darwin's premier women's cricket league becomes the first Australian grade competition to use an artificial intelligence umpire review system.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1777278860.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://www.abc.net.au/news/2026-04-27/nt-ai-decision-review-system-technology-darwin-cricket/106604718" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://www.abc.net.au/news-assets/touchicon.png" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
+                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
+                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
+                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
+                                            </svg>
+                                            
+                                        
+                                        <span>abc.net.au</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1svthww/trump_fires_the_entire_national_science_board/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/MCCMKCEc2xo4SFPcpdV-xRsU6_kAJXl2UMlSFIHXz6E.jpeg?width=640&crop=smart&auto=webp&s=ac7632a979bc5cc9f7f121a256aa07e5a7db71dc" alt="Trump fires the entire National Science Board" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1svthww/trump_fires_the_entire_national_science_board/" target="_blank" onclick="event.stopPropagation();">Trump fires the entire National Science Board</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Federal funding for scientific research was already in turmoil.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1777165736.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://www.theverge.com/science/918769/trump-fires-the-entire-national-science-board" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://www.theverge.com/static-assets/icons/apple-touch-icon.png" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
+                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
+                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
+                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
+                                            </svg>
+                                            
+                                        
+                                        <span>The Verge</span>
+                                    </a>
+                                </div>
                                 
                             </div>
                         </div>
@@ -1018,7 +1052,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-04-27T12:20:28.389222+00:00">Updated 2026-04-27T12:20:28.389222+00:00</small>
+        <small data-timestamp="2026-04-27T14:34:08.231267+00:00">Updated 2026-04-27T14:34:08.231267+00:00</small>
     </div>
 </div>
 
@@ -1211,7 +1245,7 @@
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html" target="_blank" onclick="event.stopPropagation();">China blocks Meta's acquisition of AI startup Manus</a>
+                            <a href="https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html" target="_blank" onclick="event.stopPropagation();">China blocks Meta's $2 billion takeover of AI startup Manus</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1238,43 +1272,6 @@
                                 
                                 <div class="news-meta-item">
                                     <span data-timestamp="1777280633.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/articles/2026-04-27/china-blocks-meta-s-2-billion-acquisition-of-ai-startup-manus', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.bloomberg.com/news/articles/2026-04-27/china-blocks-meta-s-2-billion-acquisition-of-ai-startup-manus" target="_blank" onclick="event.stopPropagation();">China Blocks Meta’s $2 Billion Acquisition of AI Startup Manus</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Bloomberg.com" class="news-favicon">
-                                    <a href="https://www.bloomberg.com" target="_blank" onclick="event.stopPropagation();">Bloomberg.com</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1777277941.0"></span>
                                 </div>
                                 
                             </div>
@@ -1311,7 +1308,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1777282987.0"></span>
+                                    <span data-timestamp="1777289256.0"></span>
                                 </div>
                                 
                             </div>
@@ -1319,14 +1316,96 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.axios.com/2026/04/26/ai-cost-human-workers', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.npr.org/2026/04/27/g-s1-118892/china-blocks-meta-from-acquiring-ai-startup-manus', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5804x3265+0+302/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6f%2F44%2F1b467b6b48198ae0623df6b22946%2Fap26117352872461.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.npr.org/2026/04/27/g-s1-118892/china-blocks-meta-from-acquiring-ai-startup-manus" target="_blank" onclick="event.stopPropagation();">China blocks Meta from acquiring AI startup Manus</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Meta said Monday that the transaction "complied fully with applicable law" and that it anticipates "an appropriate resolution to the inquiry."
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.npr.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="NPR" class="news-favicon">
+                                    <a href="https://www.npr.org" target="_blank" onclick="event.stopPropagation();">NPR</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1777294066.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/sectors/technology/articles/elon-musk-says-saving-retirement-174705539.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/ny/api/res/1.2/eROGYSalnF0oE8RsHAq0nA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/2fd6e6e2434118a57d778480024fc890');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://finance.yahoo.com/sectors/technology/articles/elon-musk-says-saving-retirement-174705539.html" target="_blank" onclick="event.stopPropagation();">Elon Musk says saving for retirement is irrelevant because AI is going to create a world of abundance: ‘It won’t matter’</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Musk said a "supersonic tsunami" of AI and robotics will bring about a world of zero scarcity.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Yahoo Finance" class="news-favicon">
+                                    <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo Finance</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1777225625.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/04/27/business/dealbook/musk-altman-ai-trial.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.axios.com/2026/04/26/ai-cost-human-workers" target="_blank" onclick="event.stopPropagation();">AI can cost more than human workers now</a>
+                            <a href="https://www.nytimes.com/2026/04/27/business/dealbook/musk-altman-ai-trial.html" target="_blank" onclick="event.stopPropagation();">Musk vs. Altman: A High-Stakes A.I. Clash Goes to Court on Monday</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1338,9 +1417,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.axios.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Axios" class="news-favicon">
-                                    <a href="https://www.axios.com" target="_blank" onclick="event.stopPropagation();">Axios</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The New York Times" class="news-favicon">
+                                    <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
                                     
                                 </div>
                                 
@@ -1348,7 +1427,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1777248246.0"></span>
+                                    <span data-timestamp="1777290297.0"></span>
                                 </div>
                                 
                             </div>
@@ -1356,178 +1435,14 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.yahoo.com/lifestyle/articles/why-ai-writing-quietly-eroding-120000675.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/os/en/forbes_contributor_845/0cd5f65fb9a7eb4587463f605bcdc53b');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.yahoo.com/lifestyle/articles/why-ai-writing-quietly-eroding-120000675.html" target="_blank" onclick="event.stopPropagation();">Why AI Writing Is Quietly Eroding Your Professional Credibility</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Is your writing quietly reading as AI to your boss and your customers? Most leaders are paying a credibility cost they don't know they're paying.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Yahoo" class="news-favicon">
-                                    <a href="https://www.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1777291200.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://hbr.org/2026/04/the-future-is-shrouded-in-an-ai-fog', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://hbr.org/resources/images/article_assets/2026/04/Jan26_00_mike-holford-tLSu12Rv1jQ-unsplash_b.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://hbr.org/2026/04/the-future-is-shrouded-in-an-ai-fog" target="_blank" onclick="event.stopPropagation();">The Future Is Shrouded in an AI Fog</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            AI’s rapid advance is creating new limits on leaders’ visibility into the short-term future and challenging the criteria they use to commit to forward-looking investments. Staring into this fog, leaders will be tempted to trade the potential future gains from skyscrapers and railways for the temporary utility of tents and bicycles. In this uncertain environment, the best approach is to optimize for the unknown. Leaders should seek to master optionality, learn to stage-gate capital, remain agile in their identities, and to build adaptable organizational systems.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://hbr.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Harvard Business Review" class="news-favicon">
-                                    <a href="https://hbr.org" target="_blank" onclick="event.stopPropagation();">Harvard Business Review</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1777291984.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/04/27/openai-partners-with-customers-bank-in-push-to-automate-finance.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108297526-1777290124580-Sam-Sidhu_2-1.jpg?v=1777290264&w=1920&h=1080');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.cnbc.com/2026/04/27/openai-partners-with-customers-bank-in-push-to-automate-finance.html" target="_blank" onclick="event.stopPropagation();">This bank CEO let his AI clone handle an earnings call — now he's signing an OpenAI deal</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            It's part of Customers Bank CEO Sam Sidhu's effort to get ahead in the industry's race to transform itself using AI agents as a new digital workforce
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="CNBC" class="news-favicon">
-                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1777291240.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://apnews.com/article/ai-anxiety-college-major-4af9a0a8caae1d302acb5aadcf0c68ba', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://dims.apnews.com/dims4/default/e583057/2147483647/strip/true/crop/5713x3807+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd8%2Ff4%2Fb423867da37c53ad9293e277fc5f%2Fe7c8e48c91ee4f928de778d029ee9b3c');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://apnews.com/article/ai-anxiety-college-major-4af9a0a8caae1d302acb5aadcf0c68ba" target="_blank" onclick="event.stopPropagation();">College students wary of the job market are changing course in search of ‘AI-proof’ majors</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            The rise of artificial intelligence is prompting college students to second-guess their career paths.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://apnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="AP News" class="news-favicon">
-                                    <a href="https://apnews.com" target="_blank" onclick="event.stopPropagation();">AP News</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1777262760.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.economist.com/finance-and-economics/2026/04/26/san-francisco-ai-capital-of-the-world-is-an-economic-laggard', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/04/27/technology/altman-musk-openai-ai-oakland.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.economist.com/finance-and-economics/2026/04/26/san-francisco-ai-capital-of-the-world-is-an-economic-laggard" target="_blank" onclick="event.stopPropagation();">San Francisco, AI capital of the world, is an economic laggard</a>
+                            <a href="https://www.nytimes.com/2026/04/27/technology/altman-musk-openai-ai-oakland.html" target="_blank" onclick="event.stopPropagation();">Altman, Musk and the A.I. Spectacle Come to ‘The Town’</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1539,9 +1454,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.economist.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Economist" class="news-favicon">
-                                    <a href="https://www.economist.com" target="_blank" onclick="event.stopPropagation();">The Economist</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The New York Times" class="news-favicon">
+                                    <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
                                     
                                 </div>
                                 
@@ -1549,7 +1464,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1777220617.0"></span>
+                                    <span data-timestamp="1777299109.0"></span>
                                 </div>
                                 
                             </div>
@@ -1557,20 +1472,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.nbcnews.com/tech/security/ai-making-easy-government-spy-lawmakers-are-worried-rcna341499', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.latimes.com/business/story/2026-04-27/elon-musk-openai-ceo-sam-altman-head-to-court-in-high-stakes-showdown-over-ai', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-04/260422-fisa-surveillance-no-warrant-cs-064c5f.jpg');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://ca-times.brightspotcdn.com/dims4/default/0679258/2147483647/strip/true/crop/3936x2066+0+279/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F05%2F8c%2Ff1ba21bf4057828785c9b4d7aaef%2F9254071bd0bf4743ae177ef75cfa8901.jpg');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.nbcnews.com/tech/security/ai-making-easy-government-spy-lawmakers-are-worried-rcna341499" target="_blank" onclick="event.stopPropagation();">AI is making it very easy for the government to spy on you. Some lawmakers are worried.</a>
+                            <a href="https://www.latimes.com/business/story/2026-04-27/elon-musk-openai-ceo-sam-altman-head-to-court-in-high-stakes-showdown-over-ai" target="_blank" onclick="event.stopPropagation();">Elon Musk and OpenAI CEO Sam Altman head to court in high-stakes showdown over AI</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            AI’s increasing ability to sift through data and track Americans’ locations has some lawmakers reconsidering parts of the Foreign Intelligence Surveillance Act.
+                            Technology tycoons Elon Musk and Sam Altman are poised to face off in a high-stakes trial revolving around the alleged betrayal, deceit and unbridled ambition that blurred the bickering billionaires’ once-shared vision for the development of artificial intelligence
                         </div>
                         
 
@@ -1580,9 +1495,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nbcnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="NBC News" class="news-favicon">
-                                    <a href="https://www.nbcnews.com" target="_blank" onclick="event.stopPropagation();">NBC News</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.latimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Los Angeles Times" class="news-favicon">
+                                    <a href="https://www.latimes.com" target="_blank" onclick="event.stopPropagation();">Los Angeles Times</a>
                                     
                                 </div>
                                 
@@ -1590,7 +1505,126 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1777212478.0"></span>
+                                    <span data-timestamp="1777299184.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.wired.com/story/david-silver-ai-ineffable-intelligence-reinforcement-learning/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://media.wired.com/photos/69eba31172fa130deff56162/191:100/w_1280,c_limit/Man-Behind-Alpha-Zero-Business-DavidSilver-2.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.wired.com/story/david-silver-ai-ineffable-intelligence-reinforcement-learning/" target="_blank" onclick="event.stopPropagation();">The Man Behind AlphaGo Thinks AI Is Taking the Wrong Path</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            David Silver has a new billion-dollar company that aims to build AI “superlearners.”
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wired.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="WIRED" class="news-favicon">
+                                    <a href="https://www.wired.com" target="_blank" onclick="event.stopPropagation();">WIRED</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1777298400.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.fastcompany.com/91532226/andon-cafe-sweden-ai', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms-2/2026/04/p-1-91532226-The-AI-running-this-Swedish-cafe-wont-stop-buying-toilet-paper-and-rubber-gloves.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.fastcompany.com/91532226/andon-cafe-sweden-ai" target="_blank" onclick="event.stopPropagation();">The AI running this Swedish cafe won’t stop buying toilet paper and gloves</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            The latest experiment from Andon Labs has put an AI in charge of a cafe—mostly.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fastcompany.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Fast Company" class="news-favicon">
+                                    <a href="https://www.fastcompany.com" target="_blank" onclick="event.stopPropagation();">Fast Company</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1777297858.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai" target="_blank" onclick="event.stopPropagation();">Microsoft to Stop Sharing Revenue With Main AI Partner OpenAI</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Bloomberg.com" class="news-favicon">
+                                    <a href="https://www.bloomberg.com" target="_blank" onclick="event.stopPropagation();">Bloomberg.com</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1777295677.0"></span>
                                 </div>
                                 
                             </div>
@@ -1618,7 +1652,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-04-27T12:20:48.549597+00:00">Updated 2026-04-27T12:20:48.549597+00:00</small>
+        <small data-timestamp="2026-04-27T14:34:44.074549+00:00">Updated 2026-04-27T14:34:44.074549+00:00</small>
     </div>
 </div>
 
@@ -1839,10 +1873,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 746</span>
+                                    <span class="post-points">▲ 773</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 880</span>
+                                    <span style="color: #9ca3af;">💬 905</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1888,10 +1922,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 573</span>
+                                    <span class="post-points">▲ 677</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 424</span>
+                                    <span style="color: #9ca3af;">💬 482</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1937,10 +1971,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 271</span>
+                                    <span class="post-points">▲ 273</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 359</span>
+                                    <span style="color: #9ca3af;">💬 363</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2108,6 +2142,55 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=47919725', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="post-thumbnail" style="background-image: url('https://imageio.forbes.com/specials-images/imageserve/69c597be55948344bd3098ce/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds');"></div>
+
+                    <div class="post-content">
+                        <!-- Post title (fixed 3-line height) -->
+                        <div class="post-title">
+                            <a href="https://news.ycombinator.com/item?id=47919725" target="_blank" onclick="event.stopPropagation();">France's Mistral Built a $14B AI Empire by Not Being American</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Paris-based Mistral wanted to develop a top-tier AI model to rival OpenAI and Anthropic. That didn’t work out. But it turns out lots of folks don’t care if the AI is bleeding edge – as long as it wasn’t made in America or China.
+                        </div>
+                        
+
+                        <!-- Metadata (points, comments, time) -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-points">▲ 136</span>
+                                </div>
+                                <div class="post-meta-item">
+                                    <span style="color: #9ca3af;">💬 84</span>
+                                </div>
+                            </div>
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-age" data-timestamp="2026-04-27T10:14:15Z"></span>
+                                </div>
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://i.forbesimg.com/57X57-F.png" alt="" class="post-favicon">
+                                            
+                                        
+                                        <span>Forbes</span>
+                                    </a>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=47908433', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="post-thumbnail" ></div>
@@ -2129,7 +2212,7 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 129</span>
+                                    <span class="post-points">▲ 131</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 67</span>
@@ -2178,10 +2261,10 @@
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 104</span>
+                                    <span class="post-points">▲ 105</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 100</span>
+                                    <span style="color: #9ca3af;">💬 101</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2230,7 +2313,7 @@
                                     <span class="post-points">▲ 103</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 90</span>
+                                    <span style="color: #9ca3af;">💬 91</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2249,40 +2332,6 @@
                                         <span>ft.com</span>
                                     </a>
                                 </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=47913561', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" ></div>
-
-                    <div class="post-content">
-                        <!-- Post title (fixed 3-line height) -->
-                        <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=47913561" target="_blank" onclick="event.stopPropagation();">Have you tried Clean Architecture as foundation for your AI project?</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (points, comments, time) -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-points">▲ 94</span>
-                                </div>
-                                <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 1</span>
-                                </div>
-                            </div>
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-04-26T19:55:25Z"></span>
-                                </div>
-                                <!-- External article source (on same line as time) -->
                                 
                             </div>
                         </div>
@@ -2309,7 +2358,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-04-27T12:20:28.304829+00:00">Updated 2026-04-27T12:20:28.304829+00:00</small>
+        <small data-timestamp="2026-04-27T14:34:09.472433+00:00">Updated 2026-04-27T14:34:09.472433+00:00</small>
     </div>
 </div>
 
@@ -2541,16 +2590,16 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 199K</span>
+                                    <span style="color: #9ca3af;">👁️ 597K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 14K</span>
+                                    <span style="color: #9ca3af;">👍 36K</span>
                                 </div>
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 1K</span>
+                                    <span style="color: #9ca3af;">💬 3K</span>
                                 </div>
                                 
                             </div>
@@ -2561,72 +2610,6 @@
                                 
                                 <div class="video-meta-item">
                                     <span data-timestamp="1777271400.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=lxN1phhSMZ0', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/lxN1phhSMZ0/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">13:36</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=lxN1phhSMZ0" target="_blank" onclick="event.stopPropagation();">Trump Got A NASTY AI SURPRISE And It’s Going Viral!</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            Really American host Steve Harness breaks down Iran SLAMMING Trump with even more AI slop because they've realized that it ...
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/xOZ7mOyNNCmu9-LEBe6I-38D1jkObpTmf1KPeX3mJ9j66KCmhMGlIFP3Yw-viYzYIO0QvICS=s88-c-k-c0x00ffffff-no-rj" alt="Really American" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UCpJ7ZS8hK-IOeciv952Xhug" target="_blank" onclick="event.stopPropagation();">Really American</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 850K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 38K</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 2K</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1777150544.0"></span>
                                 </div>
                                 
                             </div>
@@ -2673,16 +2656,16 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 27K</span>
+                                    <span style="color: #9ca3af;">👁️ 30K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 918</span>
+                                    <span style="color: #9ca3af;">👍 994</span>
                                 </div>
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 122</span>
+                                    <span style="color: #9ca3af;">💬 129</span>
                                 </div>
                                 
                             </div>
@@ -2700,21 +2683,25 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=RcHdsNl8bw8', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=lxN1phhSMZ0', '_blank')">
                     <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/RcHdsNl8bw8/hqdefault.jpg');">
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/lxN1phhSMZ0/hqdefault.jpg');">
                         
-                        <span class="duration-badge">11:38</span>
+                        <span class="duration-badge">13:36</span>
                         
                     </div>
 
                     <div class="video-content">
                         <!-- Video title (fixed 2-line height) -->
                         <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=RcHdsNl8bw8" target="_blank" onclick="event.stopPropagation();">TRUMP FURIOUS as EU &amp; Canada CUT US AI OUT— $20B AI DEAL, $10B SATELLITE &amp; €800B DEFENSE EXIT</a>
+                            <a href="https://www.youtube.com/watch?v=lxN1phhSMZ0" target="_blank" onclick="event.stopPropagation();">Trump Got A NASTY AI SURPRISE And It’s Going Viral!</a>
                         </div>
 
                         <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            Really American host Steve Harness breaks down Iran SLAMMING Trump with even more AI slop because they've realized that it ...
+                        </div>
                         
 
                         <!-- Metadata (channel, engagement stats, publish date) -->
@@ -2724,9 +2711,9 @@
                                 
                                 <div class="video-meta-item video-channel">
                                     
-                                    <img src="https://yt3.ggpht.com/YFyxJ9Wa-bRkp83oyrrfq64gpS8VwyFqHTv294i21rSWxSz75vGJJxKHsKvfWLFCi4GqXr24Jg=s88-c-k-c0x00ffffff-no-rj" alt="Fastepo " class="channel-avatar">
+                                    <img src="https://yt3.ggpht.com/xOZ7mOyNNCmu9-LEBe6I-38D1jkObpTmf1KPeX3mJ9j66KCmhMGlIFP3Yw-viYzYIO0QvICS=s88-c-k-c0x00ffffff-no-rj" alt="Really American" class="channel-avatar">
                                     
-                                    <a href="https://www.youtube.com/channel/UCwUsX9NXZ6SS_XwZsUqRhRQ" target="_blank" onclick="event.stopPropagation();">Fastepo </a>
+                                    <a href="https://www.youtube.com/channel/UCpJ7ZS8hK-IOeciv952Xhug" target="_blank" onclick="event.stopPropagation();">Really American</a>
                                 </div>
                                 
                             </div>
@@ -2735,16 +2722,16 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 17K</span>
+                                    <span style="color: #9ca3af;">👁️ 874K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 956</span>
+                                    <span style="color: #9ca3af;">👍 39K</span>
                                 </div>
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 168</span>
+                                    <span style="color: #9ca3af;">💬 2K</span>
                                 </div>
                                 
                             </div>
@@ -2754,7 +2741,7 @@
                             <div class="video-meta-line">
                                 
                                 <div class="video-meta-item">
-                                    <span data-timestamp="1777212040.0"></span>
+                                    <span data-timestamp="1777150544.0"></span>
                                 </div>
                                 
                             </div>
@@ -2801,11 +2788,11 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 263K</span>
+                                    <span style="color: #9ca3af;">👁️ 270K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 16K</span>
+                                    <span style="color: #9ca3af;">👍 17K</span>
                                 </div>
                                 
                                 
@@ -2828,86 +2815,24 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=xWzLeazpfUA', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=yQbfS2Mr4O8', '_blank')">
                     <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/xWzLeazpfUA/hqdefault.jpg');">
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/yQbfS2Mr4O8/hqdefault.jpg');">
                         
-                        <span class="duration-badge">4:36:55</span>
+                        <span class="duration-badge">14:23</span>
                         
                     </div>
 
                     <div class="video-content">
                         <!-- Video title (fixed 2-line height) -->
                         <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=xWzLeazpfUA" target="_blank" onclick="event.stopPropagation();">Day 3 of The 2026 AI Advantage Summit</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/EzI5uh6QCc0VQ-RFlLqOPDdPG906cCZJrMItiJY9dEV9S0viFTzXMuuUQH4A9kSkAcG9EDOLkWI=s88-c-k-c0x00ffffff-no-rj" alt="Dean Graziosi" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UCOnWTeJRZLVLKsZicgSLcFQ" target="_blank" onclick="event.stopPropagation();">Dean Graziosi</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 137K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 4K</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 45</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1777155263.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=EnoTdAw-aow', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/EnoTdAw-aow/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">31:24</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=EnoTdAw-aow" target="_blank" onclick="event.stopPropagation();">AI Christian Music Ruined Everything</a>
+                            <a href="https://www.youtube.com/watch?v=yQbfS2Mr4O8" target="_blank" onclick="event.stopPropagation();">15 New AI Discoveries That Prove the Future Is Already Here</a>
                         </div>
 
                         <!-- Video description (if available) -->
                         
                         <div class="video-description">
-                            Lejaren Hiller - Illiac Suite for String Quartet: https://youtu.be/fojKZ1ymZlo?si=uVxBgEHGOCOOjScf -- You can support Nathan ...
+                            Is the future already here because of AI? Artificial intelligence is making discoveries at a speed that feels almost unreal, changing ...
                         </div>
                         
 
@@ -2918,9 +2843,9 @@
                                 
                                 <div class="video-meta-item video-channel">
                                     
-                                    <img src="https://yt3.ggpht.com/ptc1RgFTMCPOl9r9mKOuD2Jg3mKG_dO6uGwdCLdqSRXDi18_JV0KGbb71rEJV6SDKDNiXe01fwg=s88-c-k-c0x00ffffff-no-rj" alt="Dizzy Disciple" class="channel-avatar">
+                                    <img src="https://yt3.ggpht.com/fg8cytn5PP5CffNFbC9lQBODqi0ubkOPotNCib4FS8t13j4rhsclwGMpZOH2LdLGO59wQM7KU-Q=s88-c-k-c0x00ffffff-no-rj" alt="AI Uncovered" class="channel-avatar">
                                     
-                                    <a href="https://www.youtube.com/channel/UClPpHh5FDADE9I9Z0OAZ6qw" target="_blank" onclick="event.stopPropagation();">Dizzy Disciple</a>
+                                    <a href="https://www.youtube.com/channel/UCUTF61UNExRdjmoK5mXwWfQ" target="_blank" onclick="event.stopPropagation();">AI Uncovered</a>
                                 </div>
                                 
                             </div>
@@ -2929,16 +2854,16 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 19K</span>
+                                    <span style="color: #9ca3af;">👁️ 7K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 1K</span>
+                                    <span style="color: #9ca3af;">👍 243</span>
                                 </div>
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 415</span>
+                                    <span style="color: #9ca3af;">💬 22</span>
                                 </div>
                                 
                             </div>
@@ -2948,7 +2873,7 @@
                             <div class="video-meta-line">
                                 
                                 <div class="video-meta-item">
-                                    <span data-timestamp="1777212121.0"></span>
+                                    <span data-timestamp="1777243013.0"></span>
                                 </div>
                                 
                             </div>
@@ -2995,7 +2920,7 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 216K</span>
+                                    <span style="color: #9ca3af;">👁️ 221K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
@@ -3061,16 +2986,16 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 3K</span>
+                                    <span style="color: #9ca3af;">👁️ 4K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 161</span>
+                                    <span style="color: #9ca3af;">👍 172</span>
                                 </div>
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 15</span>
+                                    <span style="color: #9ca3af;">💬 16</span>
                                 </div>
                                 
                             </div>
@@ -3088,24 +3013,24 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=yQbfS2Mr4O8', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=JKbezr4yZ6c', '_blank')">
                     <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/yQbfS2Mr4O8/hqdefault.jpg');">
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/JKbezr4yZ6c/hqdefault.jpg');">
                         
-                        <span class="duration-badge">14:23</span>
+                        <span class="duration-badge">4:51</span>
                         
                     </div>
 
                     <div class="video-content">
                         <!-- Video title (fixed 2-line height) -->
                         <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=yQbfS2Mr4O8" target="_blank" onclick="event.stopPropagation();">15 New AI Discoveries That Prove the Future Is Already Here</a>
+                            <a href="https://www.youtube.com/watch?v=JKbezr4yZ6c" target="_blank" onclick="event.stopPropagation();">AI is already getting boring • FRANCE 24 English</a>
                         </div>
 
                         <!-- Video description (if available) -->
                         
                         <div class="video-description">
-                            Is the future already here because of AI? Artificial intelligence is making discoveries at a speed that feels almost unreal, changing ...
+                            It could end white-collar work. It could end poverty. It could end humanity. From AI's boosters and doomsters alike, bumptious ...
                         </div>
                         
 
@@ -3116,9 +3041,9 @@
                                 
                                 <div class="video-meta-item video-channel">
                                     
-                                    <img src="https://yt3.ggpht.com/fg8cytn5PP5CffNFbC9lQBODqi0ubkOPotNCib4FS8t13j4rhsclwGMpZOH2LdLGO59wQM7KU-Q=s88-c-k-c0x00ffffff-no-rj" alt="AI Uncovered" class="channel-avatar">
+                                    <img src="https://yt3.ggpht.com/ytc/AIdro_n_QTJ5-GLGnftQFkb7Kp36W2eBH3H-7ZqTQxzFkkqGrIE=s88-c-k-c0x00ffffff-no-rj" alt="FRANCE 24 English" class="channel-avatar">
                                     
-                                    <a href="https://www.youtube.com/channel/UCUTF61UNExRdjmoK5mXwWfQ" target="_blank" onclick="event.stopPropagation();">AI Uncovered</a>
+                                    <a href="https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg" target="_blank" onclick="event.stopPropagation();">FRANCE 24 English</a>
                                 </div>
                                 
                             </div>
@@ -3127,16 +3052,16 @@
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 6K</span>
+                                    <span style="color: #9ca3af;">👁️ 35K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 206</span>
+                                    <span style="color: #9ca3af;">👍 673</span>
                                 </div>
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 8</span>
+                                    <span style="color: #9ca3af;">💬 156</span>
                                 </div>
                                 
                             </div>
@@ -3146,7 +3071,139 @@
                             <div class="video-meta-line">
                                 
                                 <div class="video-meta-item">
-                                    <span data-timestamp="1777243013.0"></span>
+                                    <span data-timestamp="1777213590.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=nAv5NRxx65g', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/nAv5NRxx65g/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">8:39</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=nAv5NRxx65g" target="_blank" onclick="event.stopPropagation();">STUPID AI Responses😭💀 #4</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            In this video I read the Dumbest Ai responses. This video is just for entertainment purposes and not meant to be taken seriously lol ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/pOzXRzfBXojZARB-06xYf2Nwf6LHuiIOqsMrr-36939sfKG7ykWP5E6aPZV9oQxrwGjqEnXcfQ=s88-c-k-c0x00ffffff-no-rj" alt="MANDO" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCs8UG7AStVd7-HQHsfizd0A" target="_blank" onclick="event.stopPropagation();">MANDO</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 127K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 8K</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 1K</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1777218382.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=KuXFzfh2GPE', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/KuXFzfh2GPE/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">51:48</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=KuXFzfh2GPE" target="_blank" onclick="event.stopPropagation();">Elon Musk Just Won the AI Robot Race With New Upgraded Optimus &quot;Ultra&quot;</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            Elon Musk is once again in the spotlight as an upgraded version of the Optimus robot, known as “Ultra,” begins to generate buzz.
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/uuCprCBik_-1iLV1OClTcfzM2qNADW8uTVuNHSQzXRIj16VNmPRNm7dhVJNF5R7kaBOuUcjiEg=s88-c-k-c0x00ffffff-no-rj" alt="Carros Show" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCS_tq7IKjgive1RpIm7O_aA" target="_blank" onclick="event.stopPropagation();">Carros Show</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 5K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 126</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 121</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1777165665.0"></span>
                                 </div>
                                 
                             </div>
@@ -3174,7 +3231,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-04-27T10:32:58.559481+00:00">Updated 2026-04-27T10:32:58.559481+00:00</small>
+        <small data-timestamp="2026-04-27T14:34:10.745869+00:00">Updated 2026-04-27T14:34:10.745869+00:00</small>
     </div>
 </div>
 
@@ -3441,7 +3498,7 @@
                                     <span class="model-stats">⬇️ 137,784</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 2,960</span>
+                                    <span class="model-stats">❤️ 2,987</span>
                                 </div>
                             </div>
                             
@@ -3499,7 +3556,7 @@
                                     <span class="model-stats">⬇️ 443,440</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 1,079</span>
+                                    <span class="model-stats">❤️ 1,089</span>
                                 </div>
                             </div>
                             
@@ -3557,7 +3614,7 @@
                                     <span class="model-stats">⬇️ 47,488</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 883</span>
+                                    <span class="model-stats">❤️ 891</span>
                                 </div>
                             </div>
                             
@@ -3615,7 +3672,7 @@
                                     <span class="model-stats">⬇️ 399,489</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 880</span>
+                                    <span class="model-stats">❤️ 893</span>
                                 </div>
                             </div>
                             
@@ -3673,71 +3730,13 @@
                                     <span class="model-stats">⬇️ 65,743</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 760</span>
+                                    <span class="model-stats">❤️ 769</span>
                                 </div>
                             </div>
                             
                             <div class="model-meta-line">
                                 <div class="model-meta-item">
                                     <span class="model-age" data-timestamp="2026-04-27T06:52:01.000Z"></span>
-                                </div>
-                            </div>
-                            
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://huggingface.co/Qwen/Qwen3.6-35B-A3B', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="model-thumbnail" style="background-image: url('https://cdn-thumbnails.huggingface.co/social-thumbnails/models/Qwen/Qwen3.6-35B-A3B.png');"></div>
-
-                    <div class="model-content">
-                        <!-- Model name (first line after thumbnail) -->
-                        <div class="model-name">
-                            <a href="https://huggingface.co/Qwen/Qwen3.6-35B-A3B" target="_blank" onclick="event.stopPropagation();">
-                                Qwen3.6-35B-A3B
-                            </a>
-                        </div>
-
-                        <!-- Author with avatar (second line) -->
-                        <div class="model-author-line">
-                            
-                            <img src="https://cdn-avatars.huggingface.co/v1/production/uploads/620760a26e3b7210c2ff1943/-s1gyJfvbE1RgO5iBeNOi.png" alt="Qwen" class="model-avatar">
-                            
-                            <div class="model-author">
-                                <a href="https://huggingface.co/Qwen" target="_blank" onclick="event.stopPropagation();">Qwen</a>
-                            </div>
-                        </div>
-
-                        <!-- AI-generated description (only shown if any model has descriptions) -->
-                        
-                        <div class="model-description">
-                            Qwen3.6-35B-A3B is a 35B parameter causal language model with a vision encoder, optimized for agentic coding tasks and featuring enhanced thinking preservation for iterative development. It supports a context length of 262,144 tokens, extensible up to 1,010,000.
-                        </div>
-                        
-
-                        <!-- Metadata (tags, stats, time) -->
-                        <div class="model-meta">
-                            <div class="model-meta-line tags-line">
-                                
-                                <span class="model-tag">image-text-to-text</span>
-                                
-                                
-                                <span class="model-tag">36.0B</span>
-                                
-                            </div>
-                            <div class="model-meta-line">
-                                <div class="model-meta-item">
-                                    <span class="model-stats">⬇️ 1,354,032</span>
-                                </div>
-                                <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 1,442</span>
-                                </div>
-                            </div>
-                            
-                            <div class="model-meta-line">
-                                <div class="model-meta-item">
-                                    <span class="model-age" data-timestamp="2026-04-24T02:53:42.000Z"></span>
                                 </div>
                             </div>
                             
@@ -3789,13 +3788,71 @@
                                     <span class="model-stats">⬇️ 636,345</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 435</span>
+                                    <span class="model-stats">❤️ 442</span>
                                 </div>
                             </div>
                             
                             <div class="model-meta-line">
                                 <div class="model-meta-item">
                                     <span class="model-age" data-timestamp="2026-04-22T16:01:39.000Z"></span>
+                                </div>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://huggingface.co/Qwen/Qwen3.6-35B-A3B', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="model-thumbnail" style="background-image: url('https://cdn-thumbnails.huggingface.co/social-thumbnails/models/Qwen/Qwen3.6-35B-A3B.png');"></div>
+
+                    <div class="model-content">
+                        <!-- Model name (first line after thumbnail) -->
+                        <div class="model-name">
+                            <a href="https://huggingface.co/Qwen/Qwen3.6-35B-A3B" target="_blank" onclick="event.stopPropagation();">
+                                Qwen3.6-35B-A3B
+                            </a>
+                        </div>
+
+                        <!-- Author with avatar (second line) -->
+                        <div class="model-author-line">
+                            
+                            <img src="https://cdn-avatars.huggingface.co/v1/production/uploads/620760a26e3b7210c2ff1943/-s1gyJfvbE1RgO5iBeNOi.png" alt="Qwen" class="model-avatar">
+                            
+                            <div class="model-author">
+                                <a href="https://huggingface.co/Qwen" target="_blank" onclick="event.stopPropagation();">Qwen</a>
+                            </div>
+                        </div>
+
+                        <!-- AI-generated description (only shown if any model has descriptions) -->
+                        
+                        <div class="model-description">
+                            Qwen3.6-35B-A3B is a 35B parameter causal language model with a vision encoder, optimized for agentic coding tasks and featuring enhanced thinking preservation for iterative development. It supports a context length of 262,144 tokens, extensible up to 1,010,000.
+                        </div>
+                        
+
+                        <!-- Metadata (tags, stats, time) -->
+                        <div class="model-meta">
+                            <div class="model-meta-line tags-line">
+                                
+                                <span class="model-tag">image-text-to-text</span>
+                                
+                                
+                                <span class="model-tag">36.0B</span>
+                                
+                            </div>
+                            <div class="model-meta-line">
+                                <div class="model-meta-item">
+                                    <span class="model-stats">⬇️ 1,354,032</span>
+                                </div>
+                                <div class="model-meta-item">
+                                    <span class="model-stats">❤️ 1,446</span>
+                                </div>
+                            </div>
+                            
+                            <div class="model-meta-line">
+                                <div class="model-meta-item">
+                                    <span class="model-age" data-timestamp="2026-04-24T02:53:42.000Z"></span>
                                 </div>
                             </div>
                             
@@ -3847,7 +3904,7 @@
                                     <span class="model-stats">⬇️ 1,646,295</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 807</span>
+                                    <span class="model-stats">❤️ 812</span>
                                 </div>
                             </div>
                             
@@ -3903,7 +3960,7 @@
                                     <span class="model-stats">⬇️ 1,265</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 224</span>
+                                    <span class="model-stats">❤️ 226</span>
                                 </div>
                             </div>
                             
@@ -3961,7 +4018,7 @@
                                     <span class="model-stats">⬇️ 525,932</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 468</span>
+                                    <span class="model-stats">❤️ 471</span>
                                 </div>
                             </div>
                             
@@ -3995,7 +4052,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-04-27T10:33:09.619086+00:00">Updated 2026-04-27T10:33:09.619086+00:00</small>
+        <small data-timestamp="2026-04-27T14:34:22.397090+00:00">Updated 2026-04-27T14:34:22.397090+00:00</small>
     </div>
 </div>
 
@@ -4338,7 +4395,7 @@
                         <div class="paper-meta">
                             <div class="paper-meta-line">
                                 <div class="paper-meta-item">
-                                    <span class="paper-stats">▲ 11</span>
+                                    <span class="paper-stats">▲ 12</span>
                                 </div>
                                 <div class="paper-meta-item">
                                     <span style="color: #9ca3af;">💬 2</span>
@@ -4487,14 +4544,14 @@
                         <div class="paper-meta">
                             <div class="paper-meta-line">
                                 <div class="paper-meta-item">
-                                    <span class="paper-stats">▲ 78</span>
+                                    <span class="paper-stats">▲ 79</span>
                                 </div>
                                 <div class="paper-meta-item">
                                     <span style="color: #9ca3af;">💬 6</span>
                                 </div>
                                 
                                 <div class="paper-meta-item">
-                                    <span style="color: #9ca3af;">⭐ 18,811</span>
+                                    <span style="color: #9ca3af;">⭐ 18,956</span>
                                 </div>
                                 
                             </div>
@@ -4573,7 +4630,7 @@
                                 </div>
                                 
                                 <div class="paper-meta-item">
-                                    <span style="color: #9ca3af;">⭐ 4,709</span>
+                                    <span style="color: #9ca3af;">⭐ 4,838</span>
                                 </div>
                                 
                             </div>
@@ -5000,7 +5057,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-04-27T10:33:10.672360+00:00">Updated 2026-04-27T10:33:10.672360+00:00</small>
+        <small data-timestamp="2026-04-27T14:34:23.514483+00:00">Updated 2026-04-27T14:34:23.514483+00:00</small>
     </div>
 </div>
 
@@ -5276,13 +5333,13 @@
                         </div>
                         <div class="repo-meta-line">
                             <div class="repo-meta-item">
-                                <span class="repo-stats">⭐ 49.9k</span>
+                                <span class="repo-stats">⭐ 50.0k</span>
                             </div>
                             <div class="repo-meta-item">
                                 <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
                                     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
                                 </svg>
-                                <span class="repo-stats">6.5k</span>
+                                <span class="repo-stats">6.6k</span>
                             </div>
                         </div>
                         
@@ -5343,7 +5400,7 @@
                         </div>
                         <div class="repo-meta-line">
                             <div class="repo-meta-item">
-                                <span class="repo-stats">⭐ 47.5k</span>
+                                <span class="repo-stats">⭐ 47.8k</span>
                             </div>
                             <div class="repo-meta-item">
                                 <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
@@ -5410,7 +5467,7 @@
                         </div>
                         <div class="repo-meta-line">
                             <div class="repo-meta-item">
-                                <span class="repo-stats">⭐ 40.1k</span>
+                                <span class="repo-stats">⭐ 40.2k</span>
                             </div>
                             <div class="repo-meta-item">
                                 <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
@@ -5477,7 +5534,7 @@
                         </div>
                         <div class="repo-meta-line">
                             <div class="repo-meta-item">
-                                <span class="repo-stats">⭐ 36.0k</span>
+                                <span class="repo-stats">⭐ 36.2k</span>
                             </div>
                             <div class="repo-meta-item">
                                 <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
@@ -5601,19 +5658,19 @@
                         </div>
                         <div class="repo-meta-line">
                             <div class="repo-meta-item">
-                                <span class="repo-stats">⭐ 6.6k</span>
+                                <span class="repo-stats">⭐ 6.8k</span>
                             </div>
                             <div class="repo-meta-item">
                                 <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
                                     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
                                 </svg>
-                                <span class="repo-stats">385</span>
+                                <span class="repo-stats">394</span>
                             </div>
                         </div>
                         
                         <div class="repo-meta-line">
                             <div class="repo-meta-item">
-                                <span class="repo-age" data-timestamp="2026-04-25T12:36:20Z"></span>
+                                <span class="repo-age" data-timestamp="2026-04-27T14:11:38Z"></span>
                             </div>
                         </div>
                         
@@ -5778,7 +5835,7 @@
                                 <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
                                     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
                                 </svg>
-                                <span class="repo-stats">469</span>
+                                <span class="repo-stats">468</span>
                             </div>
                         </div>
                         
@@ -5835,7 +5892,7 @@
                                 <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
                                     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
                                 </svg>
-                                <span class="repo-stats">421</span>
+                                <span class="repo-stats">424</span>
                             </div>
                         </div>
                         
@@ -5871,7 +5928,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-04-27T10:32:56.911785+00:00">Updated 2026-04-27T10:32:56.911785+00:00</small>
+        <small data-timestamp="2026-04-27T14:34:08.471716+00:00">Updated 2026-04-27T14:34:08.471716+00:00</small>
     </div>
 </div>
 
