@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-04-27T05:55:58.414488+00:00'
+updated: '2026-04-27T08:29:05.521300+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** April 27, 2026 at 05:55 UTC  
+**Last Updated:** April 27, 2026 at 08:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $78,302.25
+### $77,500.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** +2.0%  
-**30d:** +17.8%  
-**90d:** -12.8%  
-**1y:** -18.1%  
+**24h:** -0.5%  
+**7d:** +1.7%  
+**30d:** +17.5%  
+**90d:** -13.0%  
+**1y:** -18.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1557.77B
+**Market Cap:** $1554.43B
 Rank #1
 
-**Circulating Supply:** 20,021,312 BTC
+**Circulating Supply:** 20,021,365 BTC
 95.3% of max
 
 **All-Time High:** $126,080.00
--38.3%
+-38.4%
 
 **All-Time Low:** $67.81
-+114639.7%
++114371.3%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 fix the money, fix the world!
 
-8h ago
+10h ago
 
 ---
 
 **[HAL FINNEY: “I was likely the first person after Satoshi to run Bitcoin. I mined block seventy-something and received the first BTC transfer when Satoshi sent me 10 coins as a test. We emailed for days after that, mostly me reporting bugs and him fixing them in real time, almost instantly.”](https://www.reddit.com/r/Bitcoin/comments/1swexh5/hal_finney_i_was_likely_the_first_person_after/)**
 
-11h ago
+14h ago
 
 ---
 
@@ -95,7 +95,7 @@ fix the money, fix the world!
 
 As the title reads I have .1 BTC and buying more each month. If I have $500 extra a month, safe to do $100/week or just 500/month. What would you do?
 
-5h ago
+7h ago
 
 ---
 
@@ -103,7 +103,7 @@ As the title reads I have .1 BTC and buying more each month. If I have $500 extr
 
 Calm down everyone, please. Take a seat. With tears in my eyes I’m honored to announce my achievement. It took a lot of time that I will never get back but bitcoin has given me hope to keep going.
 
-10h ago
+13h ago
 
 ---
 
@@ -111,7 +111,31 @@ Calm down everyone, please. Take a seat. With tears in my eyes I’m honored to 
 
 Stop being broke Scale priority when buying Buy what's needed and not want first Stop pretending to be rich, you lose so much aura Dca if you love dca, buy lump sump every now and then if you're not dcaer Do self custody, it cures your adhd gambler impulses habbit Go outside, yes bro touch some grass and talk to people People love kindness not flexing (the real one) Always be you, stick to your target and stop comparing urself to pigeon Live the moment Absolute cinema
 
+4h ago
+
+---
+
+**[Daily Discussion, April 27, 2026](https://www.reddit.com/r/Bitcoin/comments/1swv3us/daily_discussion_april_27_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
 2h ago
+
+---
+
+**[Bitcoin Analysis](https://www.reddit.com/r/Bitcoin/comments/1swwe0r/bitcoin_analysis/)**
+
+TS Looking for a short term idea
+
+1h ago
+
+---
+
+**[Mentor Monday, April 27, 2026: Ask all your bitcoin questions!](https://www.reddit.com/r/Bitcoin/comments/1sww9h4/mentor_monday_april_27_2026_ask_all_your_bitcoin/)**
+
+Ask (and answer!) away! Here are the general rules: If you'd like to learn something, ask. If you'd like to share knowledge, answer. Any question about Bitcoin is fair game. And don't forget to check out /r/BitcoinBeginners You can sort by new to see the latest questions that may not be answered yet.
+
+1h ago
 
 ---
 
@@ -119,7 +143,7 @@ Stop being broke Scale priority when buying Buy what's needed and not want first
 
 In this sub, absolute cinema
 
-18h ago
+20h ago
 
 ---
 
@@ -127,29 +151,7 @@ In this sub, absolute cinema
 
 I have been working on a bitcoin explorer in my spare time. This is a fully indexed bitcoin explorer. Its really good for Exporting mass information from multiple addresses. You can search as many addresses as you want in the search and then create an export job. Its been fun to build and learn Rust. It was able to index bitcoin at about 13k transactions per second into psql. There are many upgrades I need to do to this, but I wanted initial opinions or a couple users to stress SQL out some. Try to search 1000 addressess and export 100million rows into CSV and break it. Happy to explain how I did this and the hardware. One thing to note, my site mentions TX count as more of a input/output count not a unique TX count. I will probably change this in the future or display both.
 
-🔗 [chaincanon](https://chaincanon.com/) • 6h ago
-
----
-
-**[Utxo management & 12 vs 24 seed phrase](https://www.reddit.com/r/Bitcoin/comments/1swntxx/utxo_management_12_vs_24_seed_phrase/)**
-
-Everyone says the rule of thumb is 1 million + sats or every 1k. Is that still a good rule of thumb or should I stack a little more until sending to hardware wallet? I just got my hardware wallet the jade plus by Blockstream. Need to set up and test recovery. Hate to say it but I have 0.50 needing to self custody asap. Also regarding 12 vs 24 seed phrase which is better?
-
-5h ago
-
----
-
-**[Great interview with Lyn Alden on ‘How To Fix Our Money’](https://www.reddit.com/r/Bitcoin/comments/1swc6pw/great_interview_with_lyn_alden_on_how_to_fix_our/)**
-
-On of my favorite voices in the space. Gives foundational level of the history of money and challenges then ties it into the Bitcoin thesis.
-
-🔗 [open.substack.com](https://open.substack.com/pub/cws/p/how-to-fix-our-money?utm_campaign=post&utm_medium=web) • 13h ago
-
----
-
-**[Sometimes I wonder...](https://www.reddit.com/r/Bitcoin/comments/1svo1db/sometimes_i_wonder/)**
-
-1d ago
+🔗 [chaincanon](https://chaincanon.com/) • 8h ago
 
 ---
 
@@ -157,33 +159,27 @@ On of my favorite voices in the space. Gives foundational level of the history o
 
 ## Google News: "bitcoin"
 
-**[Freezing dormant BTC would trigger worst single day repricing in bitcoin’s history, says maximalist](https://www.coindesk.com/business/2026/04/26/freezing-5-6-million-dormant-bitcoin-could-trigger-worst-single-day-repricing)**
+**[What next as Bitcoin (BTC) whales go long despite bearish bets piling up](https://www.coindesk.com/markets/2026/04/26/bitcoin-whales-build-long-positions-as-funding-stays-deeply-negative)**
 
-Some bitcoin advocates argue freezing dormant coins would set a dangerous precedent, while others say failing to act could pose greater risks.
+Long bias from the largest perpetual traders on Hyperliquid has built steadily through February, March and April, with the position now leaning aggressively long as bitcoin tags $80,000 and US-Iran talks resume.
 
-CoinDesk • 15h ago
-
----
-
-**[Bitcoin (BTC) Reaches 12-Week High on Iran Deal Optimism](https://www.bloomberg.com/news/articles/2026-04-27/bitcoin-reaches-12-week-high-on-iran-deal-optimism)**
-
-Bloomberg.com • 1h ago
+CoinDesk • 18h ago
 
 ---
 
-**[Why Bitcoin’s Latest Breakout Attempt Could Fail on a US Demand Problem](https://finance.yahoo.com/markets/crypto/articles/why-bitcoin-latest-breakout-attempt-051712226.html)**
+**[Anthony Scaramucci Questions Bitcoin's Potential Worth As 'Global Requirement' For Cybersecurity](https://finance.yahoo.com/markets/crypto/articles/anthony-scaramucci-questions-bitcoins-potential-233116379.html)**
 
-Bitcoin price tests breakout at $79,510, but Coinbase Premium drop, RSI divergence, and weak short-squeeze fuel signal US demand is fading.
+SkyBridge Capital founder Anthony Scaramucci sparked a conversation on Thursday about Bitcoin’s potential worth if it becomes critical infrastructure for cybersecurity, specifically to counter AI-driven threats. Bitcoin’s Real Worth In an X post, Scaramucci highlighted gold’s $30 trillion valuation and...
 
-Yahoo Finance • 38m ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin price: BTC pulls back from 12-week high as Iran rally hits seller wall at $79,400](https://www.coindesk.com/markets/2026/04/27/bitcoin-pulls-back-from-12-week-high-as-iran-rally-hits-seller-wall-at-usd79-400)**
+**[Does Bitcoin Have a "Strategy" Problem?](https://www.fool.com/investing/2026/04/27/does-bitcoin-have-a-strategy-problem/)**
 
-Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.
+The original digital asset treasury company now controls a substantial portion of Bitcoin's supply.
 
-CoinDesk • 6m ago
+The Motley Fool • 17m ago
 
 ---
 
@@ -195,17 +191,19 @@ The Block • 2d ago
 
 ---
 
+**[What is Paul Sztorc's Bitcoin hard fork 'eCash' and how it affects BTC?](https://www.coindesk.com/tech/2026/04/27/a-long-time-developer-wants-to-fork-bitcoin-and-reassign-satoshi-coins-the-community-is-calling-it-a-theft)**
+
+Paul Sztorc proposes a 2026 hard fork of Bitcoin called eCash, giving BTC holders equivalent tokens and adding Drivechains.
+
+CoinDesk • 1h ago
+
+---
+
 **[Schiff Warns of 'Death Spiral' in Strategy's Bitcoin Plan](https://bitbo.io/news/schiff-strategy-bitcoin-death-spiral/)**
 
 Peter Schiff argues that Strategy's STRC preferred stock program is structurally unstable, warning that rising dividend obligations will eventually force the company to sell bitcoin or collapse demand for new issuances.
 
-Bitbo • 12h ago
-
----
-
-**[Bitcoin holds steady as institutional derivatives hit new milestone](https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-steady-as-institutional-derivatives-reach-new-milestone-4637419)**
-
-Investing.com • 1d ago
+Bitbo • 15h ago
 
 ---
 
@@ -213,15 +211,15 @@ Investing.com • 1d ago
 
 Top US Navy Admiral calls bitcoin a tool of "power projection" as the US, China, Iran, and Russia are all leveraging bitcoin to advance their own strategic interests.
 
-Forbes • 18h ago
+Forbes • 21h ago
 
 ---
 
-**[Analyst Who Called Bitcoin’s Top Correctly Now Predicting The Bottom](https://www.tradingview.com/news/newsbtc:a5832a4ca094b:0-analyst-who-called-bitcoin-s-top-correctly-now-predicting-the-bottom/)**
+**[US Treasury Adds Venmo for Debt Donations as Strategic Bitcoin Reserve Bill Stalls](https://beincrypto.com/us-treasury-debt-donations-bitcoin-reserve/)**
 
-Bitcoin has spent April staging a recovery from its March lows, briefly climbing back above $79,000. However, not everyone is convinced of the rebound, and some analysts believe the move is only a mid-bear-market rally before a deeper correction.One such analyst is one that previously predicted a c…
+US Treasury now accepts Venmo donations toward the $39T debt as the Strategic Bitcoin Reserve bill stalls in Senate.
 
-TradingView • 15h ago
+BeInCrypto • 13h ago
 
 ---
 
@@ -230,6 +228,14 @@ TradingView • 15h ago
 Why is the identity of Bitcoin’s founder one of the biggest mysteries in finance? The new documentary “Finding Satoshi” aims to find out. CNN News Central’s John Berman speaks with the two men leading the hunt, Investigative Journalist William Cohan and Quest Research & Investigations private investigator Tyler Maroney.
 
 CNN • 2d ago
+
+---
+
+**[Tennessee Becomes Second State to Outlaw Bitcoin, Crypto ATMs](https://decrypt.co/365502/tennessee-second-state-outlaw-bitcoin-crypto-atms)**
+
+Tennessee has become the second U.S. state to outlaw Bitcoin and crypto ATMs, making it a criminal offense to own or operate the machines.
+
+Decrypt • 2d ago
 
 ---
 
@@ -325,7 +331,7 @@ Bitcoin is not just another asset, it is competing for a $1 quadrillion global s
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 2K • 💬 126 • ⏱️ 21:09 • 6h ago
+👁️ 24K • 👍 2K • 💬 148 • ⏱️ 21:09 • 9h ago
 
 ---
 
@@ -335,67 +341,7 @@ Michael Saylor is buying at a pace that could trigger a historic Bitcoin supply 
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 2K • 💬 104 • ⏱️ 20:53 • 1d ago
-
----
-
-**[A Generational Crypto Buying Opportunity Has Begun](https://www.youtube.com/watch?v=h4p4pKrFbWs)**
-
-Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=AltcoinDaily Grab Tickets to BTC Conference ...
-
-📺 Altcoin Daily
-
-👁️ 38K • 👍 2K • 💬 237 • ⏱️ 8:58 • 1d ago
-
----
-
-**[URGENT: A Major Move Is Coming (Bitcoin &amp; Ethereum)](https://www.youtube.com/watch?v=ie3zMA8ffJw)**
-
-The Crypto Market Is About To Flip... ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit bonus on first ...
-
-📺 Altcoin Daily
-
-👁️ 31K • 👍 2K • 💬 165 • ⏱️ 9:47 • 11h ago
-
----
-
-**[Kevin Warsh, AI, Rate Cuts, And The Bitcoin Explosion!](https://www.youtube.com/watch?v=SFXcGZPp1cE)**
-
-Kevin Warsh may be the next Fed Chair, and the real question is simple: when does he get permission to cut rates? In this video, I ...
-
-📺 Swan Bitcoin
-
-👁️ 14K • 👍 667 • 💬 47 • ⏱️ 11:16 • 1d ago
-
----
-
-**[BITCOIN WARNING: $85k Fakeout Before Flush To $50,000?](https://www.youtube.com/watch?v=1xEYGkUPX5c)**
-
-Gareth uses it! Download Rumble Wallet now and enjoy the benefits of financial and personal freedom!
-
-📺 Gareth Soloway
-
-👁️ 63K • 👍 4K • 💬 304 • ⏱️ 10:41 • 1d ago
-
----
-
-**[THEY ARE PREDICTING - $500K BITCOIN, $40K ETHEREUM, AND $50 XRP BY THIS DATE!](https://www.youtube.com/watch?v=DzdxhLkBDOo)**
-
-THEY ARE PREDICTING - $500K BITCOIN, $40K ETHEREUM, AND $50 XRP BY THIS DATE! GET AUSTIN'S X1 ALGO ...
-
-📺 Austin Hilton
-
-👁️ 13K • 👍 589 • 💬 62 • ⏱️ 9:47 • 1d ago
-
----
-
-**[Bitcoin: Heikin-Ashi Candles](https://www.youtube.com/watch?v=hMStACy4ou4)**
-
-In this video, we take a look at how Heikin-Ashi candles can help remove some of the emotional noise from Bitcoin price action, ...
-
-📺 Benjamin Cowen
-
-👁️ 66K • 👍 4K • 💬 249 • ⏱️ 23:18 • 1d ago
+👁️ 21K • 👍 2K • 💬 105 • ⏱️ 20:53 • 1d ago
 
 ---
 
@@ -405,7 +351,47 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 3K • 👍 244 • 💬 134 • ⏱️ 9:07 • 4h ago
+👁️ 4K • 👍 266 • 💬 123 • ⏱️ 9:07 • 7h ago
+
+---
+
+**[URGENT: A Major Move Is Coming (Bitcoin &amp; Ethereum)](https://www.youtube.com/watch?v=ie3zMA8ffJw)**
+
+The Crypto Market Is About To Flip... ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit bonus on first ...
+
+📺 Altcoin Daily
+
+👁️ 35K • 👍 2K • 💬 173 • ⏱️ 9:47 • 13h ago
+
+---
+
+**[Kevin Warsh, AI, Rate Cuts, And The Bitcoin Explosion!](https://www.youtube.com/watch?v=SFXcGZPp1cE)**
+
+Kevin Warsh may be the next Fed Chair, and the real question is simple: when does he get permission to cut rates? In this video, I ...
+
+📺 Swan Bitcoin
+
+👁️ 14K • 👍 678 • 💬 47 • ⏱️ 11:16 • 1d ago
+
+---
+
+**[Bitcoin: Heikin-Ashi Candles](https://www.youtube.com/watch?v=hMStACy4ou4)**
+
+In this video, we take a look at how Heikin-Ashi candles can help remove some of the emotional noise from Bitcoin price action, ...
+
+📺 Benjamin Cowen
+
+👁️ 68K • 👍 4K • 💬 251 • ⏱️ 23:18 • 1d ago
+
+---
+
+**[A Generational Crypto Buying Opportunity Has Begun](https://www.youtube.com/watch?v=h4p4pKrFbWs)**
+
+Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=AltcoinDaily Grab Tickets to BTC Conference ...
+
+📺 Altcoin Daily
+
+👁️ 38K • 👍 2K • 💬 242 • ⏱️ 8:58 • 1d ago
 
 ---
 
@@ -413,7 +399,27 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 CryptoWendyO
 
-👁️ 5K • 👍 281 • 💬 4 • ⏱️ 1:00 • 5h ago
+👁️ 6K • 👍 317 • 💬 6 • ⏱️ 1:00 • 8h ago
+
+---
+
+**[Why Bitcoin WINS No Matter What Happens to Inflation](https://www.youtube.com/watch?v=OisxT95bkk8)**
+
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+
+📺 Anthony Pompliano
+
+👁️ 55K • 👍 2K • 💬 53 • ⏱️ 57:11 • 1d ago
+
+---
+
+**[Should You Hold Bitcoin or Gold in the AI Era? | MOONSHOTS](https://www.youtube.com/watch?v=-PLH6AdY5oA)**
+
+The Gold vs. Bitcoin Debate. What are your thoughts on this?
+
+📺 Peter H. Diamandis
+
+👁️ 3K • 👍 61 • 💬 4 • ⏱️ 0:36 • 12h ago
 
 ---
 

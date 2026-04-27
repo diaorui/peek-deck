@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-04-27T05:55:58.423602+00:00'
+updated: '2026-04-27T08:29:05.530791+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** April 27, 2026 at 05:55 UTC  
+**Last Updated:** April 27, 2026 at 08:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,17 +32,17 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Ascento Guard: A Two-Wheeled Jumping Security Robot Developed at ETH Zurich](https://www.reddit.com/r/robotics/comments/1swcjc1/ascento_guard_a_twowheeled_jumping_security_robot/)**
-
-13h ago
-
----
-
 **[I tried to build a 5 DOF robot arm](https://www.reddit.com/r/robotics/comments/1swqpml/i_tried_to_build_a_5_dof_robot_arm/)**
 
 So this is a project I built a while ago and put on hold while I plan some upgrades. I just wanted to share it with the community and some things I've learned/experienced along the way. Build details are here: https://www.hackster.io/ian-hong/completely-custom-built-5-axis-robot-arm-515001 Kinematics The frame assignment of the D-H method is quite painful and every resource online has a slightly different (and sometimes ambiguous) explanation, but none was 100% correct. To solve the inverse kinematics analytically, you can decouple the first 3 joints (responsible for position) and the wrist joints (responsible for rotation). Pure position control is not sufficient for smooth motions because each joint moves a different amount. Hardware 3D printed parts are not as accurate as I would have liked. A snug fit in the bearings would sometimes cause the joints to lock up because they rotate slightly eccentrically. The backlash in the servo gears are not to be underestimated. Turning them by hand, they feel solid, but when you have a 100mm+ lever arm to it, you really notice the backlash and it compounds. Sometimes this backlash would cause the arm to oscillate because it can't reach the target position exactly without overcompensating in the opposite direction. Communication This is where I learned about binary protocols (you might remember my article from last week). Anyway, there are more fun features to be implemented (like an actual gripper) and improvements to be made. For all of you who built your own robot arm, what do you use it for and what challenges did you run into?
 
-3h ago
+6h ago
+
+---
+
+**[Ascento Guard: A Two-Wheeled Jumping Security Robot Developed at ETH Zurich](https://www.reddit.com/r/robotics/comments/1swcjc1/ascento_guard_a_twowheeled_jumping_security_robot/)**
+
+15h ago
 
 ---
 
@@ -50,7 +50,7 @@ So this is a project I built a while ago and put on hold while I plan some upgra
 
 Robotics as a discipline is already hard enough, but what nobody ever talks about is that all these components need to be certified, not just separately but also as a whole. You need seasoned experts in each subdomain (software, electric, mechanic) that can produce components to the level that will pass OSHA, Regulation 2023/1230 etc etc. This usually requires outside labs for independent validation of safety standards, which can take years especially if humans have to get anywhere close to the device. Both companies I work for have been utterly unaware of this, and are now finding out that "4 months to market" are actually rather "1.5 years to market".
 
-12h ago
+15h ago
 
 ---
 
@@ -58,45 +58,45 @@ Robotics as a discipline is already hard enough, but what nobody ever talks abou
 
 Ukraine’s military is increasingly using robots to replace human soldiers, even in combat assault missions, helping to counter Russia’s manpower advantage.
 
-🔗 [CNN](https://edition.cnn.com/2026/04/20/europe/robots-ukraine-battlefield-drones-intl-cmd) • 23m ago
+🔗 [CNN](https://edition.cnn.com/2026/04/20/europe/robots-ukraine-battlefield-drones-intl-cmd) • 2h ago
 
 ---
 
 **[Messing around with the holonomic (kiwi) drive](https://www.reddit.com/r/robotics/comments/1sw3y5d/messing_around_with_the_holonomic_kiwi_drive/)**
 
-19h ago
+22h ago
+
+---
+
+**[Spatial Topology as MCP server for your robot llm?](https://www.reddit.com/r/robotics/comments/1swxbsx/spatial_topology_as_mcp_server_for_your_robot_llm/)**
+
+(I am not form robotics backgroudn but mainly on the computer vision side) Curious how people are representing indoor spaces in a way that’s usable for higher-level reasoning. Not talking about navigation, but a secondary system that IDs the same space corectly and maitnains any memories or just help robot with understanding spatial arangeemnt of floors (floorplans). answering questions like: what are the human-defined spaces here? (rooms, zones, etc.) what spaces are adjacent / connected? how do you tie llm memory or events to a location in a building? how do you encode things like access rules or preferred paths (e.g. time-based flows)? Why I am asking: I am building a MCP server over floorplan geoemtry + topology (can opensource it), and want to see how useful udnerstading a floorplan as defined by humans IS for robots
+
+19m ago
 
 ---
 
 **[Created a plugin/toolset to control a team of “autonomous” ground robots on ATAK!](https://www.reddit.com/r/robotics/comments/1sws7xg/created_a_plugintoolset_to_control_a_team_of/)**
 
-2h ago
+4h ago
 
 ---
 
 **[I built a LeRobot dataset viewer with EE trajectory visualization](https://www.reddit.com/r/robotics/comments/1sw3oem/i_built_a_lerobot_dataset_viewer_with_ee/)**
 
-19h ago
+22h ago
 
 ---
 
 **[Testing Robot DF6 with Pi](https://www.reddit.com/r/robotics/comments/1sw7h3e/testing_robot_df6_with_pi/)**
 
-16h ago
+19h ago
 
 ---
 
 **[Can laziness make a better robot?](https://www.reddit.com/r/robotics/comments/1swsknv/can_laziness_make_a_better_robot/)**
 
-2h ago
-
----
-
-**[made a slider extension for SO101 arm](https://www.reddit.com/r/robotics/comments/1svuir7/made_a_slider_extension_for_so101_arm/)**
-
-i bet you haven't seen a SO101 mounted on a wall like this before if you want to do the same, here is LeSlider: https://github.com/pham-tuan-binh/leslider i built it cause i wanted something that can cover my whole desk for tasks like organizing and cleaning i originally wanted to have a belt system like what 3D printers have, but i was too lazy and used a pinion/track with another sts3215 so: > the extra motor shares the same bus as the rest of SO101 > you can have arbitrary length of track > really cheap and easy to assemble and control it turned out better than expected with this, i'm gonna train a model to pick random stuff up across my table and put it into a bin at the end of table (realistically using yolo to scan table, two policies, one for picking up objects, one for dropping)
-
-1d ago
+4h ago
 
 ---
 
@@ -108,21 +108,15 @@ i bet you haven't seen a SO101 mounted on a wall like this before if you want to
 
 Software lets robots learn from each other even if they have different hardware.
 
-Ars Technica • 18h ago
+Ars Technica • 21h ago
 
 ---
 
-**[Pudu Robotics raises nearly $150M as it targets industrial applications](https://www.therobotreport.com/pudu-robotics-raises-nearly-150m-targets-industrial-applications/)**
+**[New e-skin gives robotic hand sense of touch in breakthrough test](https://interestingengineering.com/ai-robotics/flexible-electronics-electronic-skin-soft-robots-turku-study)**
 
-Pudu plans to use the funding to develop its embodied AI, grow its product portfolio, and expand in global markets beyond service robots.
+Researchers develop flexible, stretchable electronic skin and soft robots inspired by nature at University of Turku.
 
-The Robot Report • 3d ago
-
----
-
-**[AI Startup Sereact Raises $110 Million for Robots That Predict Consequences](https://www.bloomberg.com/news/articles/2026-04-27/ai-startup-sereact-raises-110-million-for-robots-that-predict-consequences)**
-
-Bloomberg.com • 1h ago
+Interesting Engineering • 2d ago
 
 ---
 
@@ -130,15 +124,7 @@ Bloomberg.com • 1h ago
 
 Oscar Brisset, 25, used most of his vacation days to learn to code. He left BCG to launch a YC-backed AI robotics company.
 
-Business Insider • 1d ago
-
----
-
-**[From robots to EVs to AI, a week of breakthroughs highlights China's tech advances, self-reliance](https://www.globaltimes.cn/page/202604/1359843.shtml)**
-
-From a humanoid robot half-marathon in Beijing to the global spotlight of the Beijing Auto Show and the debut of DeepSeek-V4, Chinese technological milestones have dominated international headlines over the past week.
-
-Global Times • 14h ago
+Business Insider • 2d ago
 
 ---
 
@@ -147,6 +133,14 @@ Global Times • 14h ago
 Scientists say they've made a key breakthrough that would allow robots to figure out complex tasks on their own — but experts say it raises questions about how much risk comes with letting robots be in charge of their own learning.
 
 NPR • 2d ago
+
+---
+
+**[From robots to EVs to AI, a week of breakthroughs highlights China's tech advances, self-reliance](https://www.globaltimes.cn/page/202604/1359843.shtml)**
+
+From a humanoid robot half-marathon in Beijing to the global spotlight of the Beijing Auto Show and the debut of DeepSeek-V4, Chinese technological milestones have dominated international headlines over the past week.
+
+Global Times • 16h ago
 
 ---
 
@@ -162,7 +156,13 @@ Nikkei Asia • 3d ago
 
 Photon-driven nanorobots can steer, capture, and move bacteria with precision, enabling controlled manipulation in microscopic environments and offering new tools for microbiology.
 
-SciTechDaily • 18h ago
+SciTechDaily • 21h ago
+
+---
+
+**[AI Startup Sereact Raises $110 Million for Robots That Predict Consequences](https://www.bloomberg.com/news/articles/2026-04-27/ai-startup-sereact-raises-110-million-for-robots-that-predict-consequences)**
+
+Bloomberg • 4h ago
 
 ---
 
@@ -170,15 +170,13 @@ SciTechDaily • 18h ago
 
 Researchers used AI to teach a robot arm how to beat "elite and professional" table tennis players "under official competition rules."
 
-Futurism • 16h ago
+Futurism • 19h ago
 
 ---
 
-**[AI robots are learning to do simple human tasks at a factory in Massachusetts](https://www.cbsnews.com/boston/news/ai-robots-tutor-intelligence-watertown/)**
+**[Master's graduate and robotics champion: Cole Allen, suspect in Trump event shooting](https://nation.africa/kenya/news/world/cole-allen-suspect-in-the-trump-dinner-shooting-5436560)**
 
-Tutor Intelligence in Watertown is a kind of kindergarten for robots.
-
-CBS News • 2d ago
+Daily Nation • 1d ago
 
 ---
 
@@ -186,11 +184,11 @@ CBS News • 2d ago
 
 ## YouTube Videos: "robotics"
 
-**[🔥🤖 Honor was the Half-Marathon Dark Horse—1, 2, 3! #robot  #humanoidrobot #marathon #ai](https://www.youtube.com/watch?v=rEB2PwhSlq0)**
+**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=kDgnN0TWcWU)**
 
-📺 XRoboHub
+📺 Robot Julie 
 
-👁️ 172K • 👍 2K • 💬 201 • ⏱️ 0:30 • 5d ago
+👁️ 1K • 👍 3 • ⏱️ 0:25 • 7h ago
 
 ---
 
@@ -200,45 +198,25 @@ Flash, a humanoid robot made by Chinese smartphone company Honor, just smashed t
 
 📺 CNET
 
-👁️ 7K • 👍 217 • 💬 31 • ⏱️ 4:53 • 17h ago
+👁️ 7K • 👍 220 • 💬 31 • ⏱️ 4:53 • 20h ago
 
 ---
 
-**[New AI Robot From China Breaks Human Limits](https://www.youtube.com/watch?v=EJbJMg2RNgw)**
+**[🔥🤖 Honor was the Half-Marathon Dark Horse—1, 2, 3! #robot  #humanoidrobot #marathon #ai](https://www.youtube.com/watch?v=rEB2PwhSlq0)**
 
-AGIBOT just rolled out a full new wave of humanoid robots and AI models built for real deployment, while researchers in South ...
+📺 XRoboHub
 
-📺 AI Revolution
-
-👁️ 38K • 👍 845 • 💬 68 • ⏱️ 16:29 • 6d ago
+👁️ 173K • 👍 2K • 💬 201 • ⏱️ 0:30 • 5d ago
 
 ---
 
-**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=kDgnN0TWcWU)**
+**[Which Robot Lawn Mower Should You Buy in 2026?](https://www.youtube.com/watch?v=tA9Wm9882c0)**
 
-📺 Robot Julie 
+eufy Robot Lawn Mower - https://geni.us/eufy-e15 eufy website - https://stus.re/eufy-robot-lawnmower Today I take a look back at ...
 
-👁️ 1K • 👍 3 • ⏱️ 0:25 • 5h ago
+📺 Stu’s Reviews
 
----
-
-**[IA | El PRIMER ROBOT en competir contra jugadores de TENIS DE MESA de élite y profesional | EL PAÍS](https://www.youtube.com/watch?v=yNsszgFRlZU)**
-
-Sony AI ha presentado su proyecto Ace, un robot capaz de competir contra jugadores humanos de tenis de mesa, y que ya ha ...
-
-📺 EL PAÍS
-
-👁️ 55K • 👍 47 • 💬 15 • ⏱️ 1:00 • 4d ago
-
----
-
-**[China&#39;s army trains with robot dogs and attack drones](https://www.youtube.com/watch?v=bSKkGcamuRY)**
-
-China's army tested drones and robot dogs in an urban warfare drill. CNN's Will Ripley reports.
-
-📺 CNN
-
-👁️ 222K • 👍 4K • 💬 784 • ⏱️ 0:34 • 6d ago
+👁️ 3K • 👍 62 • 💬 19 • ⏱️ 16:11 • 13h ago
 
 ---
 
@@ -248,27 +226,17 @@ Pits & Parts full explanation: https://youtu.be/iKgoQ59ZiSI @1010G_TenTonRobotic
 
 📺 FUN Robotics Network
 
-👁️ 6K • 👍 51 • ⏱️ 0:15 • 9h ago
+👁️ 7K • 👍 56 • 💬 1 • ⏱️ 0:15 • 12h ago
 
 ---
 
-**[VEX V5 Robotics Competition : Override | 2026-2027 Game](https://www.youtube.com/watch?v=68NxYIAzbkY)**
+**[IA | El PRIMER ROBOT en competir contra jugadores de TENIS DE MESA de élite y profesional | EL PAÍS](https://www.youtube.com/watch?v=yNsszgFRlZU)**
 
-SUBSCRIBE: https://www.vex.com/YouTube ----------------------------------------------------------------------- VEX V5 Robotics Competition ...
+Sony AI ha presentado su proyecto Ace, un robot capaz de competir contra jugadores humanos de tenis de mesa, y que ya ha ...
 
-📺 VEX Robotics
+📺 EL PAÍS
 
-👁️ 137K • 👍 2K • 💬 609 • ⏱️ 5:09 • 2d ago
-
----
-
-**[How humanoid robots refuel in Beijing half marathon](https://www.youtube.com/watch?v=6vifX4SuHDk)**
-
-At the 2026 Beijing E-Town half marathon, robots were serviced at aid stations along the course. The key tasks were rapid battery ...
-
-📺 CGTN Europe
-
-👁️ 6.2M • 👍 168K • 💬 4K • ⏱️ 0:46 • 6d ago
+👁️ 56K • 👍 48 • 💬 15 • ⏱️ 1:00 • 4d ago
 
 ---
 
@@ -278,7 +246,37 @@ At the 2026 Beijing E-Town half marathon, robots were serviced at aid stations a
 
 📺 FUN Robotics Network
 
-👁️ 1K • 👍 52 • 💬 9 • ⏱️ 9:40 • 9h ago
+👁️ 1K • 👍 52 • 💬 9 • ⏱️ 9:40 • 12h ago
+
+---
+
+**[New AI Robot From China Breaks Human Limits](https://www.youtube.com/watch?v=EJbJMg2RNgw)**
+
+AGIBOT just rolled out a full new wave of humanoid robots and AI models built for real deployment, while researchers in South ...
+
+📺 AI Revolution
+
+👁️ 38K • 👍 846 • 💬 68 • ⏱️ 16:29 • 6d ago
+
+---
+
+**[VEX V5 Robotics Competition : Override | 2026-2027 Game](https://www.youtube.com/watch?v=68NxYIAzbkY)**
+
+SUBSCRIBE: https://www.vex.com/YouTube ----------------------------------------------------------------------- VEX V5 Robotics Competition ...
+
+📺 VEX Robotics
+
+👁️ 138K • 👍 2K • 💬 608 • ⏱️ 5:09 • 2d ago
+
+---
+
+**[NEW Shoggoth Robot Is Bizarre... NEW Stretch Attack Ability Is Wild | War Robots](https://www.youtube.com/watch?v=cvzlozoeJ5o)**
+
+New Spider Shoggoth Robot. This is so weird. We got a new robot on the test server and it has a brand new ability. 2 Medium 2 ...
+
+📺 PREDATOR WR
+
+👁️ 27K • 👍 743 • 💬 238 • ⏱️ 15:36 • 1d ago
 
 ---
 
